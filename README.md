@@ -5,4 +5,6 @@ Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente
 
 Il gioco e' pressoche' completo ed in fase di playtesting.
 
+Nota: abbiate pazienza per il pessimo codice di Latex, sono alle prime armi!
+
 Andres Zanzani
