@@ -1,5 +1,5 @@
 % Anteprima del sorgente
-\documentclass[10pt]{book}
+\documentclass[10pt,twoside]{book}
 \usepackage{multicol}
 \usepackage{lmodern}
 \usepackage[T1]{fontenc}
@@ -31,8 +31,9 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 %%\usepackage{ebgaramond}
 
 \usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhead[L]{}
+
+\fancyhf{}
+\fancyfoot[LE,RO]{\thepage}
 
 \usepackage{pdfpages}
 \makeindex
