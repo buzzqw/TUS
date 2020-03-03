@@ -5,6 +5,8 @@ Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente
 
 Il gioco e' pressoche' completo ed in fase di playtesting.
 
+Il documento in formato DOCX non e' aggiornato. Viene caricato per coerenza storica.
+
 Nota: abbiate pazienza per il pessimo codice di Latex, sono alle prime armi!
 
 Andres Zanzani
