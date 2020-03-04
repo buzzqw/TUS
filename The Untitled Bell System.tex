@@ -7195,7 +7195,8 @@ La ``Prove Agilita' e' la penalita' che si applica alle prove di competenze di A
 \label{tabella-armature}
 {\small
 %%\begin{dndtable}[c]{@{}llllllllll@{}}
-\begin{dndtable}[XXXXXXXXXX]	
+\begin{dndtable}[XXXXXXXXXX]
+\toprule
 Armatura &Costo & Difesa & Bonus Prot.* & Resist.* & Prove Agilita ’ & Prove CM & Tipo & Mov.& Peso (kg)\tabularnewline
 Imbottita & 5 & 1 & 0 & 10 & 0 & 0 & L & 0 & 2\tabularnewline
 Cuoio & 10 & 2 & 1 & 20 & 0 & -1 & L & 0 & 3\tabularnewline
@@ -7246,7 +7247,7 @@ Gli Scudi possono essere di tipo Leggero, Medio, Pesante.
 
 \label{tabella-scudi}
 
-\begin{tabular}[c]{@{}llllll@{}}
+\begin{dndtable}[XXXXXXX]
 \toprule 
 Scudi & Costo (MO) & Bonus Difesa & Penalita' TC & Penalita' CM & Peso (kg, Tipo)\tabularnewline
 Brocchiero & 5 & 1 & 0 & 1 & 2 (L)\tabularnewline
@@ -7256,8 +7257,7 @@ Scudo medio legno & 5 & 3 & -1 & 4 & 4 (M)\tabularnewline
 Scudo medio metallo & 12 & 3 & -1 & 5 & 5 (M)\tabularnewline
 Scudo pesante di legno & 7 & 4 & -2 & 6 & 5 (P)\tabularnewline
 Scudo pesante di metallo & 20 & 4 & -2 & 8 & 6 (P)\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 Uno scudo ha Resistenza totale pari a 20 volte il suo bonus di Difesa (Opzionale).
 
@@ -7275,7 +7275,7 @@ Indossare e togliere armature e' una operazione che richiede tempo ed attenzione
 
 \bigskip
 
-\begin{tabular}[c]{@{}llll@{}}
+\begin{dndtable}[XXXX]
 \toprule 
 Tipo di Armatura & Indossare & Indossare in fretta & Togliere\tabularnewline
 Scudo & 1 azione & - & 1 azione\tabularnewline
@@ -7284,7 +7284,7 @@ Giaco di Maglia & 1 minuto & 5 round & 5 round\tabularnewline
 Scaglie, Anelli, Pettorale, Bande & 4 minuti & 1 minuto{*} & 1 minuto\tabularnewline
 Mezza armatura, da Campo, Completa & 4 minuti{*}{*} & 4 minuti{*} & 1d4+1 minuti\tabularnewline
 \bottomrule
-\end{tabular}
+\end{dndtable}
 
 \bigskip
 
@@ -8100,7 +8100,7 @@ Le armature e le armi si possono costruire con materiali che possiedono delle in
 
 \label{acciaio-forgiato-a-caldo}
 
-\begin{tabular}[c]{@{}ll@{}}
+\begin{dndtable}[XX]
 \toprule 
 Tipo di oggetto in Acciaio Forgiato a Caldo & Modificatore al costo\tabularnewline
 Munizione & +15 mo per munizione\tabularnewline
@@ -8108,8 +8108,7 @@ Arma & +600 mo\tabularnewline
 Armatura leggera & +1000 mo\tabularnewline
 Armatura media & +2500 mo\tabularnewline
 Armatura pesante & +3000 mo\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 I grandi fabbri si sono imbattuti nel segreto della lavorazione dell'acciaio
 forgiato a caldo, nel tentativo di creare strumenti facilmente utilizzabili
@@ -8122,7 +8121,7 @@ impugna.
 
 \label{acciaio-forgiato-a-freddo}
 
-\begin{tabular}[c]{@{}ll@{}}
+\begin{dndtable}[XX]
 \toprule 
 Tipo di oggetto in Acciaio Forgiato a Freddo & Modificatore al costo\tabularnewline
 Munizione & +15 mo per munizione\tabularnewline
@@ -8130,14 +8129,13 @@ Arma & +600 mo\tabularnewline
 Armatura leggera & +1000 mo\tabularnewline
 Armatura media & +2500 mo\tabularnewline
 Armatura pesante & +3000 mo\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 \subsubsection{Acciaio Vivente}\index{Acciaio Vivente}
 
 \label{acciaio-vivente}
 
-\begin{tabular}[c]{@{}ll@{}}
+\begin{dndtable}[XX]
 \toprule 
 Tipo di oggetto in Acciaio Vivente & Modificatore al costo\tabularnewline
 Munizione & +10 mo per munizione\tabularnewline
@@ -8147,14 +8145,13 @@ Armatura media & +1000 mo\tabularnewline
 Armatura pesante & +1500 mo\tabularnewline
 Scudo & +100 mo\tabularnewline
 Altri oggetti & 500 mo/kg\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 \subsubsection{Adamantio}\index{Adamantio}
 
 \label{adamantio}
 
-\begin{tabular}[c]{@{}ll@{}}
+\begin{dndtable}[XX]
 \toprule 
 Tipo di oggetto in Adamantio & Modificatore al costo\tabularnewline
 Munizione & +60 mo per munizione\tabularnewline
@@ -8164,8 +8161,7 @@ Armatura media & +10000 mo\tabularnewline
 Armatura pesante & +15000 mo\tabularnewline
 Scudo & +1000 mo\tabularnewline
 Altri oggetti & 5000 mo/kg\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 Questo metallo durissimo si trova solo nei meteoriti e contribuisce alla qualita' di un'arma o di un'armatura. Le armi in adamantio sono estremamente resistenti ed hanno Durezza 25
 
@@ -8178,7 +8174,7 @@ no.
 
 \label{argento-alchemico}
 
-\begin{tabular}[c]{@{}ll@{}}
+\begin{dndtable}[XX]
 \toprule 
 Tipo di Oggetto in Argento Alchemico & Modificatore al costo\tabularnewline
 Munizione & +2 mo per munizione\tabularnewline
@@ -8186,8 +8182,7 @@ Arma leggera & +20 mo\tabularnewline
 Arma media & +90 mo\tabularnewline
 Arma pesante & +180 mo\tabularnewline
 Scudo & +100 mo\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 Il processo di argentatura alchemica non puo' essere applicato alle armi non metalliche, e non funziona sui metalli speciali come l'adamantio, il ferro freddo e il mithral.
 
@@ -8203,7 +8198,7 @@ Gli oggetti senza parti di metallo non possono essere costruiti in ferro freddo.
 
 \label{mithral}
 
-\begin{tabular}[c]{@{}ll@{}}
+\begin{dndtable}
 \toprule 
 Tipo di Oggetto in Mithral & Modificatore al costo\tabularnewline
 Armatura leggera & +1000 mo\tabularnewline
@@ -8211,8 +8206,7 @@ Armatura media & +4000 mo\tabularnewline
 Armatura pesante & +9000 mo\tabularnewline
 Scudo & +1000 mo\tabularnewline
 Altri oggetti & +1000 mo/kg\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 \bigskip
 
