@@ -10,4 +10,6 @@ Il documento in formato DOCX non e' aggiornato. Viene caricato per coerenza stor
 
 Nota: abbiate pazienza per il pessimo codice di Latex, sono alle prime armi!
 
+Nota2: il font e' volutamente 11 e non 10. Ho una certa eta' ed un carattere piu' grande e' anche piu' leggibile!
+
 Andres Zanzani
