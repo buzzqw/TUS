@@ -1,13 +1,12 @@
 %%\documentclass[11pt,twoside]{book}
-%%\documentclass[a4,twocolumn,openany]{dndbook}
-\documentclass[twocolumn]{dndbook}
+\documentclass[a4,twocolumn,openany]{dndbook}
 \usepackage[singlelinecheck=false]{caption}
 \usepackage{listings}
 \usepackage{shortvrb}
 \usepackage{stfloats}
 %%\usepackage[layout=true]{dnd}
 \captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
-%%\MakeShortVerb{|}
+\MakeShortVerb{|}
 
 \usepackage{multicol}
 \usepackage{lmodern}
@@ -40,6 +39,12 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 %%\usepackage{ebgaramond}
 \usepackage{libertine}
 %%\usepackage{palatino}
+
+\lstset{%
+	basicstyle=\ttfamily,
+	language=[LaTeX]{TeX},
+	breaklines=true,
+}
 
 \usepackage{fancyhdr}
 
