@@ -8984,7 +8984,7 @@ Una torre da assedio tipica occupa uno spazio di 4,5 metri. Le creature al suo i
 
 \textbf{Tabella: Modificatori di Attacco delle Catapulte}
 
-\begin{tabular}[c]{@{}ll@{}}
+\begin{dndtable}
 \toprule 
 Circostanza & Modificatore\tabularnewline
 La linea di visuale non giunge fino alla zona bersaglio & -6\tabularnewline
@@ -8995,12 +8995,11 @@ Tiro consecutivo (gli operatori non riescono a vedere\\
 dove sono caduti i colpi andati a vuoto piu' recenti\\
 ma un osservatore fornisce indicazioni) & +1 cumulativo per per colpo\\
 &mancato precedente (max +5))\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 \textbf{Tabella: Macchine d'Assedio}
 
-\begin{tabular}[c]{@{}lllll@{}}
+\begin{dndtable}[XXXXX]
 \toprule 
 Macchina & Costo (mo) & Danno & Gittata (metri) & Operatori\tabularnewline
 Catapulta pesante & 800 & 6d6 & 60 & 4\tabularnewline
@@ -9008,8 +9007,7 @@ Catapulta leggera & 5500 & 4d6 & 45 & 2\tabularnewline
 Ballista & 500 & 3d8 & 36 & 1\tabularnewline
 Ariete & 1000 & 3d6 & - & 10\tabularnewline
 Torri da Assedio & 2000 & - & - & 20\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 \textbf{Strade Cittadine}\index{Strade Cittadine}
 
@@ -9163,7 +9161,7 @@ A volte, pareti in mattoni (pietre accatastate una sopra l'altra solitamente, ma
 
 \textbf{Tabella: Pareti}
 
-\begin{tabular}{@{}llllll@{}}
+\begin{dndtable}[XXXXXX]
 \toprule 
 Tipo di Parete & Spessore Tipico & DC per Sfondare & Durezza & & DC per Scalare\tabularnewline
 Mattoni & 30 cm & 35 & 8 & 90 & 20\tabularnewline
@@ -9174,8 +9172,7 @@ Pietra grezza & 150 cm & 65 & 8 & 900 & 25\tabularnewline
 Ferro & 7.5 cm & 30 & 10 & 90 & 25\tabularnewline
 Carta & variabile & 1 & -- & 1 & 30\tabularnewline
 Legno & 15 cm & 20 & 5 & 60 & 21\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 \bigskip
  
@@ -9250,7 +9247,7 @@ per sorvegliare un'area.
 
 \textbf{Tabella: Porte}
 
-\begin{tabular}[c]{@{}llllll@{}}
+\begin{dndtable}[XXXXXX]
 \toprule 
 Tipo di porta & Spessore tipico (cm) & Durezza & & DC per sfondare & \tabularnewline
  & & & & Bloccata & Chiusa a chiave\tabularnewline
@@ -9263,8 +9260,7 @@ Saracinesca di legno & 7.5 & 5 & 30 & 25{*} & 25{*}\tabularnewline
 Saracinesca di ferro & 5 & 10 & 60 & 25{*} & 25{*}\tabularnewline
 Serratura & - & 15 & 30 & - & -\tabularnewline
 Cardini & - & 10 & 30 & - & -\tabularnewline
-\bottomrule
-\end{tabular}
+\end{dndtable}
 
 {*} DC per sollevare. Usate la voce appropriata di porta per sfondare.
 
@@ -9563,64 +9559,41 @@ Il costruttore stabilisce le DC delle prove di Consapevolezza e di Disattivare C
 \textbf{Tabella: Modificatori al CR delle Trappole Meccaniche}
 
 
-\begin{tabular}[c]{@{}ll@{}}
+\begin{dndtable}
 	\toprule 
 	Elemento & Modifica al CR\tabularnewline
-\textbf{DC Consapevolezza}
-& \\
-15 o meno & -1
-\\
-16-20 &-
-\\
-21-25 &+1
-\\
-26-29 &+2
-\\
-30+ &+3
-\\
+\textbf{DC Consapevolezza}& \\
+15 o meno & -1\\
+16-20 &-\\
+21-25 &+1\\
+26-29 &+2\\
+30+ &+3\\
 \textbf{DC Disattivare congegni}
 &\\
-15 o meno &-1
-\\
-16-20 &-
-\\
-21-25 &+1
-\\
-26-29 &+2
-\\
-30+ &+3
-\\
-\textbf{Modificatori Tiri Salvezza}
-&\\
-15 o meno &-1
-\\
-16-20 &-
-\\
-21-25 &+1
-\\
-26-29 &+2
-\\
-30+ &+3
-\\
-\textbf{Competenza Armi}
-&\\
-+0 &-2
-\\
+15 o meno &-1\\
+16-20 &-\\
+21-25 &+1\\
+26-29 &+2\\
+30+ &+3\\
+\textbf{Modificatori Tiri Salvezza}&\\
+15 o meno &-1\\
+16-20 &-\\
+21-25 &+1\\
+26-29 &+2\\
+30+ &+3\\
+\textbf{Competenza Armi}&\\
++0 &-2\\
 +1/+5 &-1\\
-+6/+10 &-
-\\
-+11/+15 &+1
-\\
-+16/+20 &+2
-\\
++6/+10 &-\\
++11/+15 &+1\\
++16/+20 &+2\\
 \bottomrule
 Ogni 10 punti di danno medio &+1\\
-Ripristino automatico &+1
-\\
+Ripristino automatico &+1\\
 Attivatore Visivo o di Prossimita’ &+1\\
 Veleno &da +1/+10\\
 \bottomrule
-\end{tabular}
+\end{dndtable}
 
 \bigskip
 
@@ -10171,7 +10144,8 @@ Gli esempi seguenti rappresentano solo alcuni dei possibili veleni.
 
 \bigskip
 
-\begin{longtable}{|k{4cm} |k{1cm} |k{1.5cm}| k{1.5cm} |k{5.5cm} |k{1.5cm}|}
+\begin{dndtable}{|k{4cm} |k{1cm} |k{1.5cm}| k{1.5cm} |k{5.5cm} |k{1.5cm}|}
+%%\begin{dndtable}{|k{4cm} |k{1cm} |k{1.5cm}| k{1.5cm} |k{5.5cm} |k{1.5cm}|}
 	Nome Veleno & Uso & Tempra & Ins. & Effetto (danno) & Costo (mo)\tabularnewline
 	\textbf{Nocciolo di Dennar} \index{Nocciolo di Dennar} & I & 13 & 1 turno & -1d2 Potenza, per 3gg & 15\tabularnewline
 	\textbf{Succo di Ythis}\index{Succo di Ythis} & I & 14 & 1 turno & -1d2 Intelletto, per 1g & 20\tabularnewline
@@ -10194,7 +10168,7 @@ Gli esempi seguenti rappresentano solo alcuni dei possibili veleni.
 	\textbf{Profumo di Ragmor} \index{Profumo di Ragmor}& R & 16 & - & -1d3 Magnetismo, per 1 giorno & 30\tabularnewline
 	\textbf{Grasso di Toporagno Viola} \index{Grasso di Toporagno Viola} & C & 13 & 1 round & 2d12 PF & 15\tabularnewline
 	\textbf{Veleno di Ottalm}\index{Veleno di Ottalm} & F & 20 & - & Morte o -1d2 Potenza permanente. & 50\tabularnewline
-\end{longtable}
+\end{dndtable}
 
 
 Applicazione: \textbf{I}(ngestione), \textbf{F}(erimento),\textbf{C}(ontatto),\textbf{R}(espirazione)
