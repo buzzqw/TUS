@@ -11,4 +11,6 @@ Il documento in formato DOCX non e' aggiornato. Viene caricato per coerenza stor
 
 Nota: abbiate pazienza per il pessimo codice di Latex, sono alle prime armi!
 
+Nota2: i commit sono cosi' numerosi perche' ho configurato TexStudio affinche' committi ogni volta che compilo il testo, il che avviene molto frequentemente dato che voglio controllare con scrupolo come viene l'output.
+
 Andres Zanzani
