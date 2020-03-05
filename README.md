@@ -2,6 +2,7 @@ Per chi ha gia' esperienza con i giochi di ruolo: TUS e' un rpg ispirato a D20 O
 
 Tus viene fornito in file sorgente in formato TEX e compilato in PDF.
 Viene usato l'ottimo template Latex https://github.com/rpgtex/DND-5e-LaTeX-Template
+
 Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch).
 
 Il gioco e' pressoche' completo ed in fase di playtesting.
