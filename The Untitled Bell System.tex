@@ -9293,7 +9293,10 @@ per sorvegliare un'area.
 
 \begin{tabular}{L{2.5cm} L{3cm} L{2cm} L{2cm}L{2cm}L{2cm} } 
 \toprule
-\textbf{Tipo di porta} & \textbf{Spessore tipico (cm)} & \textbf{Durezza} & \textbf{Punti Ferita} & \textbf{DC per sfondare} & \tabularnewline
+%%\textbf{Tipo di porta} & \textbf{Spessore tipico (cm)} & \textbf{Durezza} & \textbf{Punti Ferita} & \textbf{DC per sfondare} & \tabularnewline
+%% & & & & Bloccata & Chiusa a chiave\tabularnewline
+
+\multirow{4}*{Tipo di movimento} & \multicolumn{2}{c}{Movimento Velocita' (metri)} \\
  & & & & Bloccata & Chiusa a chiave\tabularnewline
 Legno semplice & 2.5 & 5 & 10 & 13 & 15\tabularnewline
 Legno buono & 3.75 & 5 & 15 & 16 & 18\tabularnewline
@@ -10390,8 +10393,7 @@ Correre come azione di movimento raddoppia la velocita' di movimento e non la tr
 	\multirow{2}*{Tipo di movimento} &
 \multicolumn{3}{c}{Movimento Velocita' (metri)} \\
 	\cmidrule(lr){2-4}
-	&
-6m
+	&6m
 	& 9m
 	& 12m \\
 	\midrule
