@@ -77,7 +77,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 
 %%\linespread{1.5}
 
-Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagnanei sogni
+Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni
 
 Mai rinunciare ai tuoi sogni.
 \thispagestyle{empty}
@@ -1222,6 +1222,7 @@ Come sempre ogni volta che si stabilisce una difficolta' cercate sempre di esser
 
 \begin{itemize}
 	\item Una prova riuscita (base DC 15) in Sopravvivenza (pronto soccorso) puo' fare recuperare 1d4 PF dopo uno scontro o concedere un +2 ad un tiro salvezza su tempra per resistere ad un veleno.
+	\item Una prova riuscita (base DC 15) in Sopravvivenza riduce di 1 i danni da Sanguinamento. Per ogni valore di Sanguinamento sopra 1 la difficolta' aumenta di 3, e la prova la riduce comunque di 1 alla volta.
 \end{itemize}
 
 \begin{itemize}
@@ -7011,6 +7012,8 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 15 mo & Zafferano o chiodi di garofano (0.5 kg) o bue (1)\tabularnewline
 \end{tabular}
 
+Consultate anche il capitolo sull'Ingombro in Movimento e Trasporto.
+
 \pagebreak
 
 \section{Equipaggiamento - Armi}\index{Equipaggiamento}\index{Armi}
@@ -7715,10 +7718,10 @@ Ha fasce imbottite che si tirano sul petto e sulle spalle per distribuire meglio
 
 Tutti gli oggetti inclusi nella lista, fatta eccezione per la torcia inestinguibile e l'acquasanta, possono essere fabbricati da un personaggio con la competenza Lavoro (alchimia). La DC per creare gli aggetti e' indicata come: Creazione DC XX
 
-\textbf{Acido} (ampolla) 10 mo 0.5 kg e' possibile lanciare un'ampolla d'acido come arma a spargimento. Si consideri l'attacco come un attacco di contatto con gittata 3 metri. Il colpo diretto provoca 1d6 danni da acido. Tutte le creature entro 1,5 metri dal punto in cui e' caduta l'ampolla subiscono 1 danno da acido come effetto dello spargimento.
+\textbf{Acido} (ampolla) 10 mo, L, e' possibile lanciare un'ampolla d'acido come arma a spargimento. Si consideri l'attacco come un attacco di contatto con gittata 3 metri. Il colpo diretto provoca 1d6 danni da acido. Tutte le creature entro 1,5 metri dal punto in cui e' caduta l'ampolla subiscono 1 danno da acido come effetto dello spargimento.
 Creazione DC 15
 
-\textbf{Acquasanta} (ampolla) 25mo 0.5 kg L'acquasanta infligge danni ai Non Morti e agli Esterni malvagi quasi come se fosse acido. Un'ampolla di acquasanta puo' essere lanciata come arma a spargimento.
+\textbf{Acquasanta} (ampolla) 25mo, L, l'acquasanta infligge danni ai Non Morti e agli Esterni malvagi quasi come se fosse acido. Un'ampolla di acquasanta puo' essere lanciata come arma a spargimento.
 
 Si consideri l'attacco come un attacco di contatto con gittata di 3 metri. Un'ampolla si rompe se scagliata contro il corpo di una creatura corporea, ma contro una creatura incorporea l'ampolla deve essere aperta e l'acquasanta versata sulla creatura. Di conseguenza, si puo' spruzzare una creatura incorporea con l'acquasanta solo se si e' adiacenti ad essa.
 
@@ -7726,58 +7729,73 @@ Il colpo diretto di un'ampolla di acquasanta provoca 2d4 danni ai Non Morti e ag
 
 I templi dei Dei buoni vendono acquasanta a prezzo di costo (senza guadagno). L'acquasanta si ottiene usando l'Essenza di Creazione, acqua, a livello potere 18 per 5 fialette.
 
-\textbf{Antiemetico} 25 mo 0.25 kg Questo liquido verde dolce e saporito crea un senso di calore e conforto. Lo sciroppo copre lo stomaco e lo rende piu' resistente. Per 1 ora dopo averlo bevuto si ottiene Bonus +5 ai Tiri Salvezza per resistere agli effetti che rendono Nauseati o Infermi. Monodose. Creazione DC 18
+\textbf{Antiemetico} 25 mo, L, questo liquido verde dolce e saporito crea un senso di calore e conforto. Lo sciroppo copre lo stomaco e lo rende piu' resistente. Per 1 ora dopo averlo bevuto si ottiene Bonus +5 ai Tiri Salvezza per resistere agli effetti che rendono Nauseati o Infermi. Monodose. Creazione DC 18
 
-\textbf{Antiepidemico} (fiala) 50 mo - Bevendo una fiala di questo liquido bianco latte dal pessimo sapore si ottiene Bonus +5 ai Tiri Salvezza contro le Malattie, effettuati nell'ora successiva. Se gia' infetti, si possono effettuare due Tiro Salvezza per resistere alla Malattia in quella determinata giornata (senza il bonus +5) e tenere il risultato migliore. Monodose. Creazione DC 18
+\textbf{Antibiotico} (fiala) 50 mo, -,  bevendo una fiala di questo liquido bianco latte dal pessimo sapore si ottiene Bonus +5 ai Tiri Salvezza contro le Malattie, effettuati nell'ora successiva. Se gia' infetti, si possono effettuare due Tiro Salvezza per resistere alla Malattia in quella determinata giornata (senza il bonus +5) e tenere il risultato migliore. Monodose. Creazione DC 18
 
-\textbf{Antitossina} (boccetta) 50 mo - Se si beve l'antitossina, si ottiene Bonus +5 a tutti i Tiri Salvezza su Tempra contro Veleni per 1 ora. Monodose. Creazione DC 18
+\textbf{Antitossina} (boccetta) 50 mo, -, se si beve l'antitossina, si ottiene Bonus +5 a tutti i Tiri Salvezza su Tempra contro Veleni per 1 ora. Monodose. Creazione DC 18
 
-\textbf{Bastone} \textbf{del} \textbf{Fumo} 20 mo 0.25 kg Questo bastone di legno trattato con procedimento alchemico crea istantaneamente un denso fumo opaco quando viene infiammato. Il fumo riempie un cubo con spigolo di 3 metri (distanza di mischia) (come per l'Essenza Creazione), tranne che il fumo viene dissipato in 1 round da un vento moderato o piu' intenso. Il bastone si consuma in 1 round e il fumo si dissolve
+\textbf{Bastone del Fumo} 20, L, questo bastone di legno trattato con procedimento alchemico crea istantaneamente un denso fumo opaco quando viene infiammato. Il fumo riempie un cubo con spigolo di 3 metri (distanza di mischia) (come per l'Essenza Creazione), tranne che il fumo viene dissipato in 1 round da un vento moderato o piu' intenso. Il bastone si consuma in 1 round e il fumo si dissolve
 poi naturalmente. Creazione DC 18
 
-\textbf{Benedizione dell'Alchimista} 1 mo - Molto amata dai giovani libertini, si tratta di una polvere cristallina simile al sale. Mischiata con l'acqua crea una bevanda frizzante che cura gli effetti della sbornia. Monodose. Creazione DC 15
+\textbf{Benedizione dell'Alchimista} 1 mo, -, molto amata dai giovani libertini, si tratta di una polvere cristallina simile al sale. Mischiata con l'acqua crea una bevanda frizzante che cura gli effetti della sbornia. Monodose. Creazione DC 15
 
-\textbf{Borsa dell'Impedimento} 50 mo 2 kg Questa borsa di cuoio rotonda e' piena di melassa, resina o altra sostanza appiccicosa. Quando si scaglia la borsa contro una creatura (come attacco di contatto a distanza con gittata 3 metri), la borsa si apre e la sostanza contenuta invischia ed intralcia la vittima, diventando resistente ed elastica con l'esposizione all'aria. Una creatura Intralciata subisce penalita' -2 al Tiro per Colpire e penalita' -2 alla Agilita', e inoltre deve effettuare un Tiro Salvezza su Riflessi con DC 15 o resta appiccicata al suolo, incapace di muoversi. Anche con un Tiro Salvezza riuscito, puo' solo muoversi con una penalita' dl movimento di 1.
+\textbf{Borsa dell'Impedimento} 50 mo. L, questa borsa di cuoio rotonda e' piena di melassa, resina o altra sostanza appiccicosa. Quando si scaglia la borsa contro una creatura (come attacco di contatto a distanza con gittata 3 metri), la borsa si apre e la sostanza contenuta invischia ed intralcia la vittima, diventando resistente ed elastica con l'esposizione all'aria.
+
+Una creatura Intralciata subisce penalita' -2 al Tiro per Colpire e penalita' -2 alla Agilita', e inoltre deve effettuare un Tiro Salvezza su Riflessi con DC 15 o resta appiccicata al suolo, incapace di muoversi. Anche con un Tiro Salvezza riuscito, puo' solo muoversi con una penalita' dl movimento di 1.
+
 La sostanza non agisce su creature di taglia Enorme o superiore. Una creatura volante non viene appiccicata al suolo, ma deve effettuare un Tiro Salvezza su Riflessi con DC 15 o perde la capacita' di Volare (sempre che usi le ali per farlo), cadendo a terra. La borsa dell'impedimento non funziona sott'acqua.
 
-Una creatura appiccicata al suolo (o impossibilitata a Volare) puo' liberarsi con una prova di Potenza riuscita con DC 17 oppure infliggendo 15 danni alla sostanza con un'arma tagliente. Una creatura che tenta di sfregare via la sostanza da sé o da un'altra creatura che assiste non ha bisogno di effettuare un Tiro per Colpire; colpire la sostanza e' automatico, poi la creatura che colpisce effettua un tiro per i danni per vedere quanta sostanza e' riuscita a sfregare via. Una volta libera, la creatura si muove a velocita' dimezzata, anche volando. Una creatura invischiata dalla sostanza puo' lanciare Essenze ma deve superare una prova di Concentrazione con DC 20. La sostanza diventa fragile dopo 2d4 round, staccandosi da sola e perdendo ogni effetto. Un'applicazione di solvente universale su una creatura appiccicata dissolve la sostanza alchemica immediatamente. Creazione DC 18
+Una creatura appiccicata al suolo (o impossibilitata a Volare) puo' liberarsi con una prova di Potenza riuscita con DC 17 oppure infliggendo 15 danni alla sostanza con un'arma tagliente. Una creatura che tenta di sfregare via la sostanza da sé o da un'altra creatura che assiste non ha bisogno di effettuare un Tiro per Colpire; colpire la sostanza e' automatico, poi la creatura che colpisce effettua un tiro per i danni per vedere quanta sostanza e' riuscita a sfregare via. Una volta libera, la creatura si muove a velocita' dimezzata, anche volando.
 
-\textbf{Fermasangue} 25 mo - Questa sostanza rosa e appiccicosa aiuta a curare le ferite. Utilizzarne una dose concede Bonus +4 alle prove di Guarire quando si effettua pronto soccorso, si guariscono le ferite da tribolo ed oggetti simili o si trattano ferite mortali. Una dose di fermasangue pone termine ad un effetto di Sanguinamento come se si fosse superata una prova di Sopravvivenza con DC 15. Quando si trattano le ferite mortali, utilizzare una dose di fermasangue conta come un utilizzo della borsa del guaritore (e si ottiene bonus +4). La confezione contiene 3 dosi. Creazione DC 18
+Una creatura invischiata dalla sostanza puo' lanciare Essenze ma deve superare una prova di Concentrazione con DC 20. La sostanza diventa fragile dopo 2d4 round, staccandosi da sola e perdendo ogni effetto. Un'applicazione di solvente universale su una creatura appiccicata dissolve la sostanza alchemica immediatamente. Creazione DC 18
 
-\textbf{Fiasco Alcalino} 15 mo 0.5 kg Questo fiasco di liquidi caustici reagisce con gli acidi naturali delle melme. e' possibile lanciare un fiasco alcalino come arma a spargimento con gittata 3 metri. Contro le creature non melme un fiasco alcalino funziona come un'Ampolla d'acido. Contro le melme e altre creature acide il fiasco alcalino infligge i danni raddoppiati indicati da Ampolla d'Acido. Creazione DC 18
+\textbf{Fermasangue} 25 mo,-, questa sostanza rosa e appiccicosa aiuta a curare le ferite. Utilizzarne una dose concede Bonus +4 alle prove di Sopravvivenza quando si effettua pronto soccorso, si guariscono le ferite da tribolo ed oggetti simili o si trattano ferite mortali. 
 
-\textbf{Fumogeno} 25 mo - Questa piccola sfera di argilla contiene due sostanze alchemiche separate da una sottile barriera. Quando si rompe la sfera, le sostanze si uniscono e riempiono un area di mischia con una nuvola di fumo nerastro e innocuo. Il fumogeno funziona come un bastone del fumo, ma il fumo rimane per 1 round prima di disperdersi. e' possibile lanciare un fumogeno come attacco di contatto con gittata 3 metri. Creazione DC 18
+Una dose di fermasangue pone termine ad un effetto di Sanguinamento come se si fosse superata una prova di Sopravvivenza con DC 15. Quando si trattano le ferite mortali, utilizzare una dose di fermasangue conta come un utilizzo della borsa del guaritore (e si ottiene bonus +4). La confezione contiene 3 dosi. Creazione DC 18
 
-\textbf{Fuoco dell'Alchimista} 20 mo 0.5 kg Si puo' lanciare un'ampolla di fuoco dell'alchimista come arma a spargimento. Si consideri l'attacco come un attacco di contatto a distanza, con gittata 3 metri.
+\textbf{Fiasco Alcalino} 15 mo, L, questo fiasco di liquidi caustici reagisce con gli acidi naturali delle melme. e' possibile lanciare un fiasco alcalino come arma a spargimento con gittata 3 metri. Contro le creature non melme un fiasco alcalino funziona come un'Ampolla d'acido. Contro le melme e altre creature acide il fiasco alcalino infligge i danni raddoppiati indicati da Ampolla d'Acido. Creazione DC 18
 
-Il colpo diretto provoca 1d6 danni da fuoco. Tutte le creature entro raggio di mischia dal punto in cui e' caduta l'ampolla subiscono 1 danno da fuoco come effetto dello spargimento. Nel round successivo al colpo diretto la vittima subisce 1d6 danni da fuoco aggiuntivi. La vittima puo' sfruttare 2 Azioni per tentare di spegnere le fiamme prima di subire questi danni aggiuntivi. Occorre superare un Tiro Salvezza su Riflessi con DC 15 per spegnere le fiamme. Rotolarsi per terra (1 Azione) da' al personaggio bonus +2 al Tiro Salvezza. Tuffarsi in un lago o smorzare le fiamme con mezzi magici spegne automaticamente le fiamme. Creazione DC 18
+\textbf{Fumogeno} 25 mo, -, questa piccola sfera di argilla contiene due sostanze alchemiche separate da una sottile barriera. Quando si rompe la sfera, le sostanze si uniscono e riempiono un area di mischia con una nuvola di fumo nerastro e innocuo. Il fumogeno funziona come un bastone del fumo, ma il fumo rimane per 1 round prima di disperdersi. e' possibile lanciare un fumogeno come attacco di contatto con gittata 3 metri. Creazione DC 18
 
-\textbf{Gesso per Calchi:} 5 ma 2.5 kg Questa polvere bianca e secca, mischiata con l’acqua, si addensa nel giro di un’ora per creare un materiale solido. Puo' essere utilizzato per creare un calco di un’orma o di un bassorilievo, riempire buchi o crepe nei muri o (se applicato ad una copertura di stoffa) per fermare un osso rotto. Il gesso indurito ha Durezza 1 e 5 Punti Ferita ogni 2.5 centimetri di spessore. Un vaso di 2 kg di gesso puo' coprire un raggio di mischia per la profondita' di 2.5 centimetri, creare cinque ingessature per l’avambraccio o il polpaccio di una creatura di taglia Media o due ingessature complete per braccio o gamba. Monodose. Creazione DC 18
+\textbf{Fuoco dell'Alchimista} 20 mo, L, si puo' lanciare un'ampolla di fuoco dell'alchimista come arma a spargimento. Si consideri l'attacco come un attacco di contatto a distanza, con gittata 3 metri.
 
-\textbf{Ghiaccio Liquido} (fiala) 40 mo 1 kg Detto anche "ghiaccio dell'alchimista", questo fluido blu cristallino inizia ad evaporare appena tolto dal contenitore. Nei successivi 1d6 round e' possibile utilizzarlo per congelare un liquido o coprire un oggetto con un sottile strato di ghiaccio. e' possibile anche lanciare il ghiaccio liquido come arma a spargimento. Un colpo diretto infligge 1d6 danni da freddo, mentre le creature entro raggio di mischia subiscono 1 danno da freddo per lo spargimento. La confezione contiene 3 dosi. Creazione DC 18
+Il colpo diretto provoca 1d6 danni da fuoco. Tutte le creature entro raggio di mischia dal punto in cui e' caduta l'ampolla subiscono 1 danno da fuoco come effetto dello spargimento. Nel round successivo al colpo diretto la vittima subisce 1d6 danni da fuoco aggiuntivi. La vittima puo' sfruttare 2 Azioni per tentare di spegnere le fiamme prima di subire questi danni aggiuntivi. 
 
-\textbf{Grasso Alchemico} 5 mo 0.5 kg Ogni vaso di questa sostanza nerastra puo' coprire una creatura Media o due Piccole. Coprendosi di grasso alchemico si ottiene Bonus +5 alle prove di Criminalita' e per sfuggire alle prese. L'effetto dura 4 ore o finché si lava via il grasso. Creazione DC 18
+Occorre superare un Tiro Salvezza su Riflessi con DC 15 per spegnere le fiamme. Rotolarsi per terra (1 Azione) da' al personaggio bonus +2 al Tiro Salvezza. Tuffarsi in un lago o smorzare le fiamme con mezzi magici spegne automaticamente le fiamme. Creazione DC 18
 
-\textbf{Individua Luce} 1 mo - Questa piastra di metallo grande quanto una mano e' coperta da una crema trasparente sensibile alla luce. Se esposta alla luce, la crema si scurisce e diviene opaca a seconda di quanta luce sia presente. La luce intensa la fa scurire in 1 round, quella normale in 3 round, quella fioca in 10 round. Viene spesso utilizzata da creature dotate di Visione Crepuscolare per capire se sono passate di recente creature che per vedere utilizzano la luce. La piastra viene venduta avvolta in un panno pesante per evitare esposizioni accidentali. Creazione DC 18
+\textbf{Gesso per Calchi:} 5 ma, L, questa polvere bianca e secca, mischiata con l’acqua, si addensa nel giro di un’ora per creare un materiale solido. Puo' essere utilizzato per creare un calco di un’orma o di un bassorilievo, riempire buchi o crepe nei muri o (se applicato ad una copertura di stoffa) per fermare un osso rotto. Il gesso indurito ha Durezza 1 e 5 Punti Ferita ogni 2.5 centimetri di spessore. Un vaso di 2 kg di gesso puo' coprire un raggio di mischia per la profondita' di 2.5 centimetri, creare cinque ingessature per l’avambraccio o il polpaccio di una creatura di taglia Media o due ingessature complete per braccio o gamba. Monodose. Creazione DC 18
 
-\textbf{Pietra del Tuono} 30 mo 0.5 kg Si puo' scagliare questa pietra con un attacco a distanza con gittata 6 metri. Quando colpisce una superficie dura (o e' colpita con Potenza), crea un rumore assordante che equivale a un attacco sonoro. Le creature presenti entro una distanza di 3 metri devono effettuare un Tiro Salvezza su Tempra con DC 15 o restano Assordate per 1 ora. Le creature Assordate, oltre alle ovvie conseguenze, subiscono penalita' -4 all'Iniziativa e una probabilita' del 20\% di sbagliare a lanciare e perdere qualsiasi Essenza con una componente verbale che cercano di lanciare. Monouso. Creazione DC 18
+\textbf{Ghiaccio Liquido} (fiala) 40 mo, L, detto anche "ghiaccio dell'alchimista", questo fluido blu cristallino inizia ad evaporare appena tolto dal contenitore. Nei successivi 1d6 round e' possibile utilizzarlo per congelare un liquido o coprire un oggetto con un sottile strato di ghiaccio. e' possibile anche lanciare il ghiaccio liquido come arma a spargimento. Un colpo diretto infligge 1d6 danni da freddo, mentre le creature entro raggio di mischia subiscono 1 danno da freddo per lo spargimento. La confezione contiene 3 dosi. Creazione DC 18
+
+\textbf{Grasso Alchemico} 5 mo, L, ogni vaso di questa sostanza nerastra puo' coprire una creatura Media o due Piccole. Coprendosi di grasso alchemico si ottiene Bonus +5 alle prove di Criminalita' e per sfuggire alle prese. L'effetto dura 4 ore o finché si lava via il grasso. Creazione DC 18
+
+\textbf{Individua Luce} 1 mo, -, questa piastra di metallo grande quanto una mano e' coperta da una crema trasparente sensibile alla luce. Se esposta alla luce, la crema si scurisce e diviene opaca a seconda di quanta luce sia presente. La luce intensa la fa scurire in 1 round, quella normale in 3 round, quella fioca in 10 round. 
+
+Viene spesso utilizzata da creature dotate di Visione Crepuscolare per capire se sono passate di recente creature che per vedere utilizzano la luce. La piastra viene venduta avvolta in un panno pesante per evitare esposizioni accidentali. Creazione DC 18
+
+\textbf{Pietra del Tuono} 30 mo, L, si puo' scagliare questa pietra con un attacco a distanza con gittata 6 metri. Quando colpisce una superficie dura (o e' colpita con Potenza), crea un rumore assordante che equivale a un attacco sonoro. Le creature presenti entro una distanza di 3 metri devono effettuare un Tiro Salvezza su Tempra con DC 15 o restano Assordate per 1 ora. 
+
+Le creature Assordate, oltre alle ovvie conseguenze, subiscono penalita' -4 all'Iniziativa e una probabilita' del 20\% di sbagliare a lanciare e perdere qualsiasi Essenza con una componente verbale che cercano di lanciare. Monouso. Creazione DC 18
 
 Dal momento che non e' necessario colpire uno specifico bersaglio, si puo' mirare su un determinato area di mischia. Si consideri la zona come se avesse Difesa 5. Creazione DC 18
 
-\textbf{Polvere Lampo} 50 mo - Questa polvere grigia brucia ed esplode quasi istantaneamente se esposta al fuoco, frizionandola o lanciandola con Potenza contro una superficie (1 Azione). Le creature entro raggio 3 metri sono Accecate per 1 round (Tempra DC 13 nega). La confezione contiene 3 dosi. Creazione DC 18
+\textbf{Polvere Lampo} 50 mo, L, questa polvere grigia brucia ed esplode quasi istantaneamente se esposta al fuoco, frizionandola o lanciandola con Potenza contro una superficie (1 Azione). Le creature entro raggio 3 metri sono Accecate per 1 round (Tempra DC 13 nega). La confezione contiene 3 dosi. Creazione DC 18
 
-\textbf{Polvere per Starnuti} (borsa) 60 mo 1 kg Questa polvere giallo-rossa e' un'arma a spargimento che causa starnuti incontrollabili per 1d4+1 round. Chiunque si trovi nella zona di mischia dell'impatto deve superare un Tiro Salvezza su Tempra con DC 12 per resistere alla polvere, mentre per chi si trova nella zona di 3 metri adiacente la DC e' 8. Le creature che lo falliscono devono superare un Tiro Salvezza con DC 10 in ogni round di effetto o sono affaticate fino al loro turno successivo. La confezione contiene 3 dosi. Creazione DC 18
+\textbf{Polvere per Starnuti} (borsa) 60 mo, L, questa polvere giallo-rossa e' un'arma a spargimento che causa starnuti incontrollabili per 1d4+1 round. Chiunque si trovi nella zona di mischia dell'impatto deve superare un Tiro Salvezza su Tempra con DC 12 per resistere alla polvere, mentre per chi si trova nella zona di 3 metri adiacente la DC e' 8.
 
-\textbf{Proteggilama} 40 mo - Questa resina trasparente protegge un'arma dagli attacchi di Melme, Rugginofagi ed effetti che corrodono o sciolgono le armi, rendendola immune a tali attacchi per 24 ore. Un vasetto puo' coprire un'arma a due mani, due armi ad una mano o leggere o 50 munizioni. Applicarla richiede 2 Azioni. La confezione contiene 3 dosi. Creazione DC 18
+Le creature che lo falliscono devono superare un Tiro Salvezza con DC 10 in ogni round di effetto o sono affaticate fino al loro turno successivo. La confezione contiene 3 dosi. Creazione DC 18
 
-\textbf{Sali} 25 mo - Questi cristalli grigi dall'odore pungente fanno riprendere conoscenza a chi li inala. I sali concedono un nuovo Tiro Salvezza per resistere ad Essenze o effetti che rendono Privi di Sensi.
+\textbf{Proteggilama} 40 mo,-, questa resina trasparente protegge un'arma dagli attacchi di Melme, Rugginofagi ed effetti che corrodono o sciolgono le armi, rendendola immune a tali attacchi per 24 ore. Un vasetto puo' coprire un'arma a due mani, due armi ad una mano o leggere o 50 munizioni. Applicarla richiede 2 Azioni. La confezione contiene 3 dosi. Creazione DC 18
+
+\textbf{Sali} 25 mo, -,  questi cristalli grigi dall'odore pungente fanno riprendere conoscenza a chi li inala. I sali concedono un nuovo Tiro Salvezza per resistere ad Essenze o effetti che rendono Privi di Sensi.
 Un contenitore di sali puo' essere usato una dozzina di volte se tappato dopo ogni utilizzo, ma si dissolve in poche ore se lasciato aperto. Creazione DC 18
 
-\textbf{Solvente Universale} (fiala) 20 mo 0.25 kg Questa gelatina viola ribollente divora gli adesivi. Ogni fiala puo' coprire un raggio di mischia. Distrugge i normali adesivi (come la pece, la resina o la colla) in 1 round, ma richiede 1d4+1 round per dissolvere adesivi piu' potenti (borse dell'impedimento, ragnatele, ecc.). Non ha effetti sugli adesivi magici. Creazione DC 18
+\textbf{Solvente Universale} (fiala) 20 mo, L. questa gelatina viola ribollente divora gli adesivi. Ogni fiala puo' coprire un raggio di mischia. Distrugge i normali adesivi (come la pece, la resina o la colla) in 1 round, ma richiede 1d4+1 round per dissolvere adesivi piu' potenti (borse dell'impedimento, ragnatele, ecc.). Non ha effetti sugli adesivi magici. Creazione DC 18
 
-\textbf{Tizzone Ardente} 1 mo - La sostanza alchemica sulla punta di questo piccolo bastone di legno si infiamma quando viene sfregata contro una superficie ruvida. Creare una fiamma con un tizzone ardente e' molto piu' rapido che crearla con acciarino, pietra focaia (o lente d'ingrandimento) e esca. Accendere una torcia con un tizzone ardente costa 2 Azione (invece che 3 Azioni) e per accendere qualsiasi altro fuoco occorre almeno 2 Azioni. Creazione DC 18
+\textbf{Tizzone Ardente} 1 mo, -, la sostanza alchemica sulla punta di questo piccolo bastone di legno si infiamma quando viene sfregata contro una superficie ruvida. Creare una fiamma con un tizzone ardente e' molto piu' rapido che crearla con acciarino, pietra focaia (o lente d'ingrandimento) e esca. Accendere una torcia con un tizzone ardente costa 2 Azione (invece che 3 Azioni) e per accendere qualsiasi altro fuoco occorre almeno 2 Azioni. Creazione DC 18
 
-\textbf{Verga del Sole} 2 mo 0.5 kg Questa verga di ferro lunga 30 cm e con la punta dorata risplende vivacemente quando viene percossa (2 Azione). Illumina con luce normale un'area di 3 metri di raggio. Una verga del sole brilla per 6 ore dopodiché la punta dorata si consuma e diventa inutile. Creazione DC 18
+\textbf{Verga del Sole} 2 mo, L, questa verga di ferro lunga 30 cm e con la punta dorata risplende vivacemente quando viene percossa (2 Azione). Illumina con luce normale un'area di 3 metri di raggio. Una verga del sole brilla per 6 ore dopodiché la punta dorata si consuma e diventa inutile. Creazione DC 18
 
 \pagebreak
 
@@ -13760,7 +13778,7 @@ Identity.
 3.0.1 aggiunta possibilita' di cambiare una Abilita' scelta, cambiato font, specificato che la specializzazione magica si usa anche nelle prove di concentrazione, aggiunti punti esperienza per oro guadagnato, aggiunti suggerimenti per il Narratore, aggiornati vantaggi, 
 
 
-3.0.2 tornato alla vecchia impaginazione senza template dnd, voglio cercare in mio stile, gestito ingombro non dato dal peso degli oggetti ma da un valore di ingombro relativo, chiarimenti su descrizione competenze, dettagli su competenze, modificato stile della sezione, piccole dimenticanze in ingombr lasciati in kg, 
+3.0.2 tornato alla vecchia impaginazione senza template dnd, voglio cercare in mio stile, gestito ingombro non dato dal peso degli oggetti ma da un valore di ingombro relativo, chiarimenti su descrizione competenze, dettagli su competenze, modificato stile della sezione, piccole dimenticanze in ingombr lasciati in kg, prova di pronto soccorso per ridurre sanguinamento, 
 
 }
 
