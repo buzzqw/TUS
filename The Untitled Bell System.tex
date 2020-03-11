@@ -49,6 +49,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \makeatletter
 \makeatother
 \raggedbottom
+\usepackage{titlesec}
 
 \usepackage{array}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
@@ -56,7 +57,8 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 
-\renewcommand\section{\textsc{\Huge{\section}}}
+\titleformat{\section}
+{\normalfont\fontsize{12}{15}\bfseries}{\thesection}{1em}{}
 
 \begin{document}
 
