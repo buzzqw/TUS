@@ -58,11 +58,8 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 
 
-\renewcommand\section{section}{1}{\z@}%
-	{-3.5ex \@plus -1ex \@minus -.2ex}%
-	{2.3ex \@plus.2ex}%
-	{\centering\normalfont\Large\bfseries}
-
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{\hrule}
 \begin{document}
 
 \title{The Untitled System (TUS)}
