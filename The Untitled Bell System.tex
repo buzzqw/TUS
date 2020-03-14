@@ -22,6 +22,7 @@
 \usepackage{ulem}
 \usepackage{makeidx}
 \usepackage{multirow}
+\usepackage{titlesec}
 \usepackage[unicode=true,
 bookmarks=true,
 pdftitle={TUS - The Untitled System},pdfauthor={Andres Zanzani},
@@ -49,7 +50,6 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \makeatletter
 \makeatother
 \raggedbottom
-%\usepackage{titlesec}
 
 \usepackage{array}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
@@ -58,9 +58,9 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 
 
-%\titleformat{\section}{\huge\bfseries}{\thesection}{1em}\textsc{}
-%\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}\textsc{}
-%\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}\textsc{}
+\titleformat{\section}{\huge\bfseries}{\thesection}{1em}\textsc{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}\textsc{}
+\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}\textsc{}
 
 
 \begin{document}
@@ -13814,7 +13814,7 @@ Identity.
 
 3.0.1 aggiunta possibilita' di cambiare una Abilita' scelta, cambiato font, specificato che la specializzazione magica si usa anche nelle prove di concentrazione, aggiunti punti esperienza per oro guadagnato, aggiunti suggerimenti per il Narratore, aggiornati vantaggi
 
-3.0.2b tornato alla vecchia impaginazione senza template dnd, voglio cercare in mio stile, gestito ingombro non dato dal peso degli oggetti ma da un valore di ingombro relativo, chiarimenti su descrizione competenze, dettagli su competenze, modificato stile della sezione, piccole dimenticanze in ingombr lasciati in kg, prova di pronto soccorso per ridurre sanguinamento, continuo lavoro su Ingombro, piccole correzioni, modificato template per sezioni, chiarimenti per svenuto,
+3.0.2b tornato alla vecchia impaginazione senza template dnd, voglio cercare in mio stile, gestito ingombro non dato dal peso degli oggetti ma da un valore di ingombro relativo, chiarimenti su descrizione competenze, dettagli su competenze, modificato stile della sezione, piccole dimenticanze in ingombr lasciati in kg, prova di pronto soccorso per ridurre sanguinamento, continuo lavoro su Ingombro, piccole correzioni, modificato template per sezioni, chiarimenti per svenuto, fixato hyperlink capitoli mettendo titlesec prima di hyperref,
 
 check 8438
 }
