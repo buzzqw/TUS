@@ -22,6 +22,7 @@
 \usepackage{ulem}
 \usepackage{makeidx}
 \usepackage{multirow}
+\usepackage{titlesec}
 \usepackage[unicode=true,
 bookmarks=true,
 pdftitle={TUS - The Untitled System},pdfauthor={Andres Zanzani},
@@ -49,7 +50,6 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \makeatletter
 \makeatother
 \raggedbottom
-%\usepackage{titlesec}
 
 \usepackage{array}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
@@ -58,9 +58,9 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 
 
-%\titleformat{\section}{\huge\bfseries}{\thesection}{1em}\textsc{}
-%\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}\textsc{}
-%\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}\textsc{}
+\titleformat{\section}{\huge\bfseries}{\thesection}{1em}\textsc{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}\textsc{}
+\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}\textsc{}
 
 
 \begin{document}
