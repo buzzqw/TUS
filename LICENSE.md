@@ -14,9 +14,10 @@ e supportato in questi anni disperati!
 
 
 
-Licenza: Creative Commons Licenses,Attribution-NonCommercial-ShareAlike 4.0 International , \url https://creativecommons.org/licenses/by-nc-sa/4.0
+Licenza: Creative Commons Licenses,Attribution-NonCommercial-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-nc-sa/4.0
 
-questo il link in italiano \url https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it
+questo il link in italiano https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it
 
 Gioca, condividi, ristampa, fa volantinaggio, pubblica recensioni fantastiche, tappezza la Piazza di copie cartacee e digitali di TUS!
 
