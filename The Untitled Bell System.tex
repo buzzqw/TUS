@@ -10654,7 +10654,7 @@ Se hai un Ingombro superiore a questo valore sei appunto Ingombrato. In ogni cas
 	\hline
 	\textbf{Ingombro} & \textbf{ Penalità Movimento}&  \textbf{Penalità Prova Agilità}\\
 	Entro Potenza +5&  Movimento pieno& Nessuna penalità \\
-	Entro Potenza +10&  -3 metri di movimento per azione di movimento& -3 \\
+	Entro Potenza +10& Velocita' Movimento dimezzato& -3 \\
 	Entro Potenza +15&  1 metro a round & -6 \\
 \end{tabular}
 
@@ -10686,13 +10686,13 @@ In certe situazione è più facile spingere o trascinare che portare su di se.
 In questi casi si considera un Ingombro dimezzato.
 
 \begin{itemize}
-	\item Nel caso in cui l'Ingombro sia inferiore a Potenza il personaggio avrà movimento pieno.
+	\item Nel caso in cui l'Ingombro sia inferiore a Potenza +5 il personaggio avrà movimento pieno.
 
-\item Se è pari a Potenza ma non superiore a Potenza +5 il movimento è dimezzato.
+\item Se è pari a Potenza ma non superiore a Potenza +10 il movimento è dimezzato.
 
-\item Se è superiore a Potenza +5 ed inferiore a Potenza +10, può spostarlo di 1 metro a round.
+\item Se è superiore a Potenza +5 ed inferiore a Potenza +15, può spostarlo di 1 metro a round.
 
-\item Se è superiore a Potenza +10 non puoi sposare o spingere.
+\item Se è superiore a Potenza +15 non puoi spostare o spingere.
 \end{itemize}
 
 
@@ -10704,11 +10704,11 @@ In questi casi si considera un Ingombro dimezzato.
 	\item Piccolissima: Ingombro = Potenza /16
 	\item Minuta: Ingombro = Potenza /8
 	\item Minuscola: Ingombro = Potenza /4
-	\item Piccola: Ingombro = Potenza /2
-	\item Grandi: Ingombro = Potenza x2
-	\item Enormi: Ingombro = Potenza x4
-	\item Mastodontica: Ingombro = Potenza x8
-	\item Colossale: Ingombro = Potenza x16
+	\item Piccola: Ingombro = Potenza /2 +3
+	\item Grandi: Ingombro = Potenza x2 +5
+	\item Enormi: Ingombro = Potenza x4 +5 
+	\item Mastodontica: Ingombro = Potenza x8 +5
+	\item Colossale: Ingombro = Potenza x16 +5
 \end{itemize}
 
 \bigskip
@@ -10722,11 +10722,11 @@ In questi casi si considera un Ingombro dimezzato.
 	\item Minuta: Ingombro = Potenza x1/2
 	\item Minuscola: Ingombro = Potenza x3/4
 	\item Piccola: Ingombro = Potenza 1
-	\item \textbf{media}: Ingombro = Potenza x1.5
-	\item Grandi: Ingombro = Potenza x3
-	\item Enormi: Ingombro = Potenza x6
-	\item Mastodontica: Ingombro = Potenza x12
-	\item Colossale: Ingombro = Potenza x24
+	\item \textbf{media}: Ingombro = Potenza x1.5 +5
+	\item Grandi: Ingombro = Potenza x3 +5
+	\item Enormi: Ingombro = Potenza x6 +5
+	\item Mastodontica: Ingombro = Potenza x12 +5
+	\item Colossale: Ingombro = Potenza x24 +5
 \end{itemize}
 
 \bigskip
@@ -14010,7 +14010,7 @@ Identity.
 
 3.0.2b tornato alla vecchia impaginazione senza template dnd, voglio cercare in mio stile, gestito ingombro non dato dal peso degli oggetti ma da un valore di ingombro relativo, chiarimenti su descrizione competenze, dettagli su competenze, modificato stile della sezione, piccole dimenticanze in ingombr lasciati in kg, prova di pronto soccorso per ridurre sanguinamento, continuo lavoro su Ingombro, piccole correzioni, modificato template per sezioni, chiarimenti per svenuto, fixato hyperlink capitoli mettendo titlesec prima di hyperref, messe " al posto di '', aggiornati elfi resi in pò diversi dai canoni, aggiornamenti e chiarimenti su invisibilita'
 
-3.0.2c riformattato i quotebox, aggiunto capitolo su draghi, aggiunte informazioni su cicli millenari, aggiornato (v2)script di git perche' chieda esplicitamente il commento alla commit, rimosso andare veloci;chiarimenti su quadretto e mezzi metri, precisazioni su afferrare, modifiche su attacchi multipli
+3.0.2c riformattato i quotebox, aggiunto capitolo su draghi, aggiunte informazioni su cicli millenari, aggiornato (v2)script di git perche' chieda esplicitamente il commento alla commit, rimosso andare veloci;chiarimenti su quadretto e mezzi metri, precisazioni su afferrare, modifiche su attacchi multipli, corretto valore di ingombro e penalita'
 
 check 8438
 }
