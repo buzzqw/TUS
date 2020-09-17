@@ -3224,12 +3224,12 @@ Di base una formulazione magica sara': applico l'Essenza X alla/e Creatura o Ele
 \subsection{Tiro per Colpire ed Essenze}\index{Tiro per Colpire ed Essenze}
 
 Quando la l'Area di Effetto e' una creatura ovvero la magia deve colpire una sola creatura e' necessario un Tiro per Colpire.
-Questo Tiro per Colpire e' contro la Difesa a Tocco se l'Essenza viene consegnata tramite Tocco (ovvero la distanza e' mischia).
-Se la Distanza e' invece superiore a mischia e' necessario un TC contro la regolare Difesa dell'avversario.
+Questo Tiro per Colpire e' contro la Difesa a Tocco sia che l'Essenza venga consegnata tramite Tocco (ovvero la distanza e' mischia) oppure se la Distanza e' oltre alla mischia.
+
 Se il TC va a segno allora la creatura fara' il Tiro Salvezza del caso.
 Quando l'Area di Effetto e' data da piu' singoli soggetti (selezionati) devo fare un TC per ogni avversario.
 
-Quando l'Area di Effetto e' ad area non e' necessario effettuare un TC se non per difficili e specificate aree.
+Quando l'Area di Effetto e' ad area non e' necessario effettuare un TC se non per difficili e specificate aree, ovvero si mira in una area ben circoscritta.
 
 
 \subsection{Recitare l'Essenza}\index{Recitare l'Essenza}\index{Recitare}
@@ -3388,9 +3388,9 @@ Esempio:
 
 Alcune Essenze implicano un danno anche se non sono Essenze di Attacco, come riportato negli esempi per Alterazione, ma concettualmente valido anche per altre Essenze
 
-Se l'incantatore acquisisce la capacità di un attacco (solitamente magico, e non naturale) tramite una Trasformazione o una Alterazione, ma anche Creazione (vedi pioggia di fuoco..) potrà usare questi poteri dal round successivo facendo un danno di una categoria di Livello Potere immediatamente inferiore a quello ottenuto se fosse stato nella Essenza Attacco, se questo è di forma magica.
+Se l'incantatore acquisisce la capacità di un attacco (solitamente magico e non naturale) tramite una Trasformazione o una Alterazione, ma anche Creazione (vedi pioggia di fuoco..) potrà usare questi poteri dal round successivo facendo un danno di una categoria di Livello Potere immediatamente inferiore a quello ottenuto se fosse stato nella Essenza Attacco, se questo è di forma magica.
 
-SI deve considerare che la manifestazione dell'Essenza si completi e sia usabile dal round successivo.
+SI deve considerare che la manifestazione dell'Essenza si completi e sia usabile dal round successivo. La manifestazione fara' effetto il round successivo nella sequenza di iniziativa pari a quella del round precedente.
 
 Se acquisisce una forma di attacco naturale potrà comunque usare l'attacco dal round successivo con un danno coerente alla forma di attacco acquisito (morso, artiglio..).
 
@@ -3446,7 +3446,7 @@ se mani e bocca sono bloccati l'incantatore non può formulare Essenze. Per usar
 
 Aumentando di 5 la difficoltà puoi non usare le mani, se aumenta di 10 la difficoltà puoi non usare la bocca. Quindi se l'incantatore è legato ed imbavagliato può lanciare una Essenza con la sola forza del pensiero con una difficoltà aumentata di 15, ovvero la difficoltà base aumenta di 15.
 
-Una Essenza lanciata con impedimenti se non supera 11 come volare non ottiene l'effetto minimo dell'essenza (e si considera comunque formulata).
+Una Essenza lanciata con impedimenti se non supera 11 come valore non ottiene l'effetto minimo dell'essenza (e si considera comunque formulata).
 
 \subsection{Riuscire e Fallire nella prova di Magia}\index{Riuscire e Fallire nella prova di Magia}
 
@@ -3505,7 +3505,7 @@ generata per annullarne gli effetti.
 
 Anche nella prova di Competenza Magica i 6 esplodono, ma in maniera diversa.
 
-I 6 tirati nella prova di CM vengono ritirati, e ritirati ancora nel caso, ma i successivi 6 NON sono sommati alla prova.
+I 6 tirati nella prova di CM vengono ritirati, e ritirati ancora nel caso, ma qualsiasi 6 successivo ai primi tre tiri, anche se ritirati, non si sommano per determinare la prova di magia.
 
 Similarmente al Tiro per Colpire, ogni due 6 tirati si aumenta di uno il livello di potere ottenuto.
 
@@ -3548,6 +3548,7 @@ Questa capacità non è usufruibile prima di avere CM a 22
 Se l'incantatore viene colpito, severamente distratto o "impedito" mentre effettua una magia deve fare una prova di concentrazione per capire se è in grado di mantenere e finalizzare la magia oppure perderla.
 
 La prova di \textbf{Concentrazione} ha difficoltà pari al danno subito+10.
+Se la prova fallisce l'Essenza non e' formulata e non si computa nel novero delle Essenze lanciate, se invece la prova riesce l'Essenza viene formulata e lanciata.
 
 Se la prova viene richiesta perché "\textbf{distratto}" (non è facile lanciare Essenze a cavallo o mentre si corre, sotto un temporale..) prova da superare (Competenza Magica + Caratteristica correlata alla Essenza in uso + eventuali punteggi da altre Abilita') per lanciare con efficacia l'Essenza ha difficoltà DC 15.
 
@@ -13983,7 +13984,7 @@ Identity.
 
 19/07/2020 layout, corretto attacchi multipli
 
-3.0.4 il minimo di punteggio preso nelle competenze al passaggio di livello passa a +1 da 0,il punteggio massimo di una competenza base e' pari al lv+1, aggiunta informazione su come apprendere una nuova competenza, layout, spostato muoversi silenziosamente in criminalita', aggiunta a Sopravvivenza la specifica creature naturali ed ad Arcano crdeature Magiche, specificato che il bonus di +4 all'iniziativa si ha quando la propria arma ha una portata maggiore dell'arma dell'avversario, specificato che il bonus di iniziativa non si applica per le armi da langio, aggiunto tirare 3 volte 6, in carica si puo' percorrere il doppio del proprio movimento, dettagli su danno da controcarica, dettagli su azione di disingaggio, aggiunta possibilita' di disingaggio da creature piu' grandi, aggiornata versione alla 3.0.4, aggiornamento su Stato Indifeso, aggiornata versione scheda, riassegnazione punti CA, dettagli su tiro per colpire per essenza, nota sulle razze
+3.0.4 il minimo di punteggio preso nelle competenze al passaggio di livello passa a +1 da 0,il punteggio massimo di una competenza base e' pari al lv+1, aggiunta informazione su come apprendere una nuova competenza, layout, spostato muoversi silenziosamente in criminalita', aggiunta a Sopravvivenza la specifica creature naturali ed ad Arcano crdeature Magiche, specificato che il bonus di +4 all'iniziativa si ha quando la propria arma ha una portata maggiore dell'arma dell'avversario, specificato che il bonus di iniziativa non si applica per le armi da langio, aggiunto tirare 3 volte 6, in carica si puo' percorrere il doppio del proprio movimento, dettagli su danno da controcarica, dettagli su azione di disingaggio, aggiunta possibilita' di disingaggio da creature piu' grandi, aggiornata versione alla 3.0.4, aggiornamento su Stato Indifeso, aggiornata versione scheda, riassegnazione punti CA, dettagli su tiro per colpire per essenza, nota sulle razze,il tiro per colpire dell'essenza e' sempre a tocco, chiarimenti su manifestazioni offensive di essenze non di attacco, correzioni, chiarimenti su check concentrazione, 
 
 }
 
