@@ -69,6 +69,30 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 
 \setcounter{tocdepth}{3}
 
+\newtcolorbox{note}{
+	enhanced, % enable advanced settings
+	left = 10mm, % pushes text away from the left edge by 10mm
+	sharp corners, % disables rounded corners
+	rounded corners = southeast, % "round" the bottom right corner
+	arc is angular, % make the "round" corner an angle
+	arc = 3mm, % controls corner cut
+	boxrule=0.6pt, % sets box line thickness
+	underlay={%
+		\path[fill=tcbcolback!80!black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+		\path[draw=tcbcolframe,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries \textinterrobang} ([xshift=8mm]interior.north west);
+	},
+	drop fuzzy shadow % adds drop shadow
+}
+
+\newtcolorbox{example}{
+	enhanced,
+	title = Example,
+	before upper={\parindent15pt\noindent} % add paragraph indentation
+	
+}
+
+
 \begin{document}
 
 \title{The Untitled System (TUS)}
@@ -102,6 +126,16 @@ Mai rinunciare ai tuoi sogni.
 
 \pagestyle{plain}
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)}\end{tcolorbox}\medskip
+
+\begin{document}
+	\begin{note}
+		Notes are displayed like this, and often convey important information to the player or GM regarding a certain mechanic.
+	\end{note}
+	
+	\begin{example}
+		Examples are displayed like this, and show a situation in which something is used.
+	\end{example}
+
 
 Per chi ha già esperienza con i giochi di ruolo: TUS è un rpg ispirato a D20 OGL che usa 3d6 al posto del d20 per una distribuzione normalizzata. E' un sistema classless dove la magia è freeform ed è ispirata a Ars Magica e Talislanta. Il sistema è basato su prove che possono esplodere (anche il danno) ed un sistema di svantaggi e vantaggi alla Gurps.
 
