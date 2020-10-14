@@ -3889,23 +3889,20 @@ Esempi:
 \textbf{Verbo}: Convocazione
 \textbf{Nome}: Creature
 
-
 \label{essenza-convocazione---intelletto}
 
-L'Essenza Convocazione è la \textbf{capacità di richiamare l'archetipo di una Creatura Naturale o Magica per farla agire al tuo fianco.}
+L'Essenza Convocazione è la \textbf{capacità di richiamare l'archetipo di una Creatura per farla agire al tuo fianco.}
 \begin{itemize}
 	\item
-	      Il CR indicato si riferisce alla sommatoria dei CR totali convocati di creature naturali
+      Il CR indicato si riferisce alla sommatoria dei CR totali convocati di creature naturali
 	\item
-	      Un incantatore non può evocare creature naturali con più di 3 CR rispetto al suo valore di CM
+      Un incantatore non può evocare creature con più di 3 CR rispetto al suo valore di CM
 	\item
-	      Creatura magiche convocate possono avere al massimo CR pari al CM-3, con un massimo di CR 7
+      Evocare una creatura magica o Elementale costa a parità di CR il livello di potere immediatamente successivo. Con LP 22 evochi una creatura magica con CR 3
 	\item
-	      Evocare una creatura magica o Elementale costa a parità di CR il livello di potere immediatamente successivo. Con LP 22 evochi una creatura magica con CR 3
+      Evocare un Drago a parità di CR è più difficile di 2 livelli. Con LP 31 evochi un drago CR 7
 	\item
-	      Evocare un Drago a parità di CR è più difficile di 2 livelli. Con LP 31 evochi un drago CR 7
-	\item
-	      CR 10 è il massimo livello di creature naturali evocabile, oltre sono sempre sommatorie di più creature evocate.
+      CR 13 è il massimo CR di creature convocabili, oltre sono sempre sommatorie di più creature convocate.
 \end{itemize}
 
 \bigskip
@@ -3920,10 +3917,10 @@ L'Essenza Convocazione è la \textbf{capacità di richiamare l'archetipo di una 
 	22                         & Convochi fino a 5 CR\tabularnewline
 	25                         & Convochi fino a 7 CR\tabularnewline
 	28                         & Convochi fino a 9 CR\tabularnewline
-	31                         & Convochi fino a 11 CR, max CR 9\tabularnewline
-	34                         & Convochi fino a 13 CR, max CR 9\tabularnewline
-	37                         & Convochi fino a 15 CR, max CR 10\tabularnewline
-	43                         & Convochi fino a 17 CR, max CR 10\tabularnewline
+	31                         & Convochi fino a 11 CR, max CR 10\tabularnewline
+	34                         & Convochi fino a 13 CR, max CR 11\tabularnewline
+	37                         & Convochi fino a 15 CR, max CR 12\tabularnewline
+	43                         & Convochi fino a 17 CR, max CR 13\tabularnewline
 \end{tabular}
 
 \bigskip
@@ -3944,6 +3941,10 @@ Esempi:
 
 \subsection{Essenza Creazione -- Volonta'}\index{Essenza Creazione}
 
+\textbf{Verbo}: Creare
+\textbf{Nome}: Elementi, Energia
+
+
 \label{essenza-creazione---volonta}
 
 Creare è l'\textbf{atto di plasmare la magia per creare Elementi e manifestare dal nulla un elemento od oggetto}.
@@ -3956,14 +3957,13 @@ Non si possono creare Creature (naturali o magiche) secondo la regola che non si
 
 \begin{itemize}
 	\item Se si vuole creare un Unione di Elementi (cibo, ottone, lava..) la quantità e volumi prodotti sono inversamente proporzionali alla complessità dell'elemento. Più è complesso l'elemento creato meno ne puoi creare. In base alla complessità e precisione dell'oggetto da creare diminuire quantità e volumi.
-	\item è possibile creare più oggetti contemporaneamente. Calcolata la somma dei volumi si prende la difficoltà immediatamente superiore.
+	\item E' possibile creare più oggetti contemporaneamente. Calcolata la somma dei volumi si prende la difficoltà immediatamente superiore.
 	\item Non è possibile creare qualcosa all'interno di creature vive.
 	\item Non è possibile creare qualcosa dove non vedi.
-	\item Un muro di ghiaccio (ad esempio) non potrà fare danno immediatamente ma solo dal round successivo. Si deve considerare che il muro si manifesti in accrescimento nel round che viene creato. Il danno è pari all'Essenza di Attacco immediatamente inferiore al Livello di Potere utilizzata per l'Essenza di Creazione.
-	\item In caso di oggetti che cadono, il danno è quello immediatamente inferiore al Livello di Potere nell'Essenza di Attacco. L'Area di Effetto è quella stabilità dai costi base.
-	\item La durata se non contata come costo è di 1 round
-	\item Se si crea qualcosa di intangibile (es. Luce) e che non fa danno, la durata ha costo dimezzato.
-	\item Se si crea materia solida attorno al target ed entro distanza di 3 metri (o il doppio della sua portata se è maggiore) dallo stesso, viene concesso un Tiro Salvezza su Riflessi per uscire dalla creazione prima che questa sia completa.
+	\item Un muro di ghiaccio (ad esempio) non potrà fare danno immediatamente ma solo dal round successivo. Si deve considerare che il muro si manifesti in accrescimento nel round che viene creato. Il danno è pari all'Essenza di Attacco di due Livelli di Potere inferiori.
+	\item In caso di oggetti che cadono, il danno è quella dell'Essenza di Attacco di due Livelli di Potere inferiori. L'Area di Effetto è quella stabilità dai costi base.
+	\item Se si crea qualcosa di intangibile (es. Luce, Aria) e che non fa danno, la durata ha costo dimezzato.
+	\item Se si crea materia solida attorno all'obiettibo ed entro distanza di 3 metri (o il doppio della sua portata se è maggiore) dallo stesso, viene concesso un Tiro Salvezza su Riflessi per uscire dalla creazione prima che questa sia completa.
 	\item La massa creata si distribuisce in blocchi minimi di 1 metro di lato (il cubo base) connessi tra loro.
 	\item La massa creata obbedisce alle leggi delle fisica quando possibile. Un muro d'acqua cade il round successivo alla creazione.
 	\item Un cubo base è un cubo di lato 1 metro
@@ -3974,17 +3974,17 @@ Non si possono creare Creature (naturali o magiche) secondo la regola che non si
 \begin{tabular}{L{3cm} L{13cm}}
 	\toprule
 	\textbf{Livello di Potere} & \textbf{Assenza o Presenz}a\tabularnewline
-	\textless=11               & Un cubo di lato fino a 10 cm e 100 grammi (minuscola)\tabularnewline
-	13                         & Un cubo di lato fino a 20 cm o 500gr (più piccola)\tabularnewline
-	16                         & Un cubo di lato fino a 0.5 metro o 3kg (piccola)\tabularnewline
-	19                         & Un cubo di lato fino a 1 metro (cubo base) o 25kg (piccola)\tabularnewline
-	22                         & Fino a 2 cubi base e 100kg (media) di peso\tabularnewline
-	25                         & Fino a 4 cubi base e 200kg (grande)\tabularnewline
-	28                         & Fino a 8 cubi base e 400kg (enorme)\tabularnewline
-	31                         & Fino a 16 cubi base e 800kg (enorme)\tabularnewline
-	34                         & Fino a 32 cubi base e 1.6 tonnellate (mastodontica)\tabularnewline
-	37                         & Fino a 64 cubi base e 3.2 tonnellate (mastodontica)\tabularnewline
-	43                         & Fino a 128 cubi base e 6.4 tonnellate (colossale)\tabularnewline
+	\textless=11     & Un cubo di lato fino a 10 cm e 100 grammi (minuscola)\tabularnewline
+	13               & Un cubo di lato fino a 20 cm o 500gr (più piccola)\tabularnewline
+	16               & Un cubo di lato fino a 0.5 metro o 3kg (piccola)\tabularnewline
+	19               & Un cubo di lato fino a 1 metro (cubo base) o 25kg (piccola)\tabularnewline
+	22               & Fino a 2 cubi base e 100kg (media) di peso\tabularnewline
+	25               & Fino a 4 cubi base e 200kg (grande)\tabularnewline
+	28               & Fino a 8 cubi base e 400kg (enorme)\tabularnewline
+	31               & Fino a 16 cubi base e 800kg (enorme)\tabularnewline
+	34               & Fino a 32 cubi base e 1.6 tonnellate (mastodontica)\tabularnewline
+	37               & Fino a 64 cubi base e 3.2 tonnellate (mastodontica)\tabularnewline
+	43               & Fino a 128 cubi base e 6.4 tonnellate (colossale)\tabularnewline
 \end{tabular}
 
 \bigskip
@@ -4001,9 +4001,9 @@ Esempi:
 Esempi pratici
 \begin{itemize}
 	\item Per creare una Luce equivalente ad una torcia è sufficiente la difficoltà 11 ( raggio 3 metri), con difficoltà 13 si crea l'equivalente di una lanterna (raggio 6 metri di luce)
-	\item Mentre l'Essenza Distruzione crea oscurità perché distrugge la luce, tramite l'Essenza Creazione è possibile creare oscurità o luce magica.
+	\item Mentre l'Essenza Distruzione crea oscurità perché distrugge la luce, tramite l'Essenza Creazione non e' possibile creare oscurità o luce magica, solo luce naturale.
 	\item Con difficoltà 20 puoi creare Cibo per 1 persona per 1 giorno (comprensivo di costi base)
-	\item Es. creo un muro di ghiaccio fatto di 4 cubi base (2m lunghezza{*}1m larghezza{*}2m altezza. Livello potere 25) farà danno per chi lo attraversa (o se gli cade sopra) pari a livello di potere 22 in Essenza Attacco (7d6).
+	\item Creo un muro di ghiaccio fatto di 4 cubi base (2m lunghezza{*}1m larghezza{*}2m altezza. Livello potere 25) farà danno per chi lo attraversa (o se gli cade sopra) pari a livello di potere 19 in Essenza Attacco (5d6).
 	\item Suggerisco di tenere a disposizione dei cubetti 2x2 Lego per costruire "visivamente", come cubi base, le proprio creazioni
 \end{itemize}
 
@@ -4012,6 +4012,10 @@ Esempi pratici
 \subsection{Essenza Cura -- Volonta'}\index{Essenza Cura}
 
 \label{essenza-cura---volonta}
+
+
+\textbf{Verbo}: Cura
+\textbf{Nome}: Creature, Elementi
 
 L'Essenza della Cura è la \textbf{capacità di riempire il vuoto causato da una Distruzione} o \textbf{sanare le ferite di un Attacco} o riparare un oggetto. L'Essenza di \textbf{Cura} agisce su \textbf{Creature} o \textbf{Elementi}. Se usata su Creatura ripristina le energie vitali (punti ferita), se usata su Elementi, oggetti, puo' risaldare rotture di pezzi.
 
@@ -4031,39 +4035,39 @@ L'Essenza della Cura è la \textbf{capacità di riempire il vuoto causato da una
 	%%\begin{longtable}[L{3.5cm} L{13cm}]
 	\toprule
 	\textbf{Livello di Potere} & \textbf{Concetto (solo Vita)}\tabularnewline
-	<=11                       & - Rimuovi la condizione abbagliato.                                                                                                                                                \\
-	                           & Curi 1d6 pf                                                                                                                                                                        \\
-	13                         & Rimuovi la condizione Frastornato                                                                                                                                                  \\
-	                           & Curi 2d6 pf                                                                                                                                                                        \\
-	                           & Crei un link vitale tra te ed un target.                                                                                                                                           \\
-	                           & Puoi condividere i tuoi punti ferita con le creature collegate.                                                                                                                    \\
-	                           & Durata 10 minuti. Costa 1 azione mantenere ed usare questa condivisione.                                                                                                           \\
-	16                         & Rimuovi la condizione Affaticato / Scosso / Infermo / Nauseato.                                                                                                                    \\
-	                           & Curi 4d6 pf, puoi dividere la cura fino a 2 target                                                                                                                                 \\
-	                           & Crei un link vitale tra te e fino a 3 target. Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione. \\
-	19                         & Rimuovi la condizione di Malato / Accecato / Assordato / Confuso / Esausto                                                                                                         \\
-	                           & Ristori 2 punti ad una Caratteristica                                                                                                                                              \\
-	                           & Curi 6d6 pf, puoi dividere la cura fino a 3 target                                                                                                                                 \\
-	                           & Crei un link vitale tra te e fino a 4 target.                                                                                                                                      \\
-	                           & Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione.                                               \\
-	22                         & Rimuovi la condizione di Avvelenato                                                                                                                                                \\
-	                           & Ristori 3 punti divisi su più Caratteristiche                                                                                                                                      \\
-	                           & Curi 9d6 pf, puoi dividere la cura fino a 6 target                                                                                                                                 \\
-	                           & Crei un link vitale tra te e fino a 5 target. Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione. \\
-	25                         & Rinsaldi fratture                                                                                                                                                                  \\
-	                           & Recuperi tutti i punti caratteristica                                                                                                                                              \\
-	                           & Curi 12d6 pf, puoi dividere la cura fino a 9 target                                                                                                                                \\
-	                           & Crei un link vitale tra te e fino a 7 target.Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione.  \\
-	28                         & Curi fino a 60 pf e tutte le malattie.                                                                                                                                             \\
-	                           & Ristori un livello temporaneo perso                                                                                                                                                \\
-	31                         & Rigeneri i tessuti ed arti                                                                                                                                                         \\
-	                           & Ristori un livello permanente perso                                                                                                                                                \\
-	                           & Curi 16d6 pf, puoi dividere la cura fino a 10 target                                                                                                                               \\
-	34                         & Ringiovanisci il target di 3d6 anni                                                                                                                                                \\
-	                           & Curi 20d6 pf, puoi dividere la cura fino a 16 target                                                                                                                               \\
-	                           & Curi completamente tutte le ferite e condizioni di un target                                                                                                                       \\
-	37                         & Curi il target di tutte le condizioni, punti caratteristica, livelli e punti ferita, ringiovanisci il target di 3d6 anni                                                           \\
-	40                         & Sacrifichi la tua vita per portare in vita un’altra creatura.                                                                                                                      \\
+	<=11          & - Rimuovi la condizione abbagliato. \\
+	              & Curi 1d6 PF \\
+	13            & Rimuovi la condizione Frastornato \\
+	              & Curi 2d6 pf \\
+	              & Crei un link vitale tra te ed un obiettivo. \\
+                  & Puoi condividere i tuoi punti ferita con le creature collegate. \\
+                  & Durata 10 minuti. Costa 1 azione mantenere ed usare questa condivisione. \\
+	16            & Rimuovi la condizione Affaticato / Scosso / Infermo / Nauseato \\
+                  & Curi 4d6 pf, puoi dividere la cura fino a 2 obiettivi \\
+                  & Crei un link vitale tra te e fino a 3 obiettivi. Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione. \\
+	19            & Rimuovi la condizione di Malato / Accecato / Assordato / Confuso / Esausto \\
+                  & Ristori 2 punti ad una Caratteristica\\
+                  & Curi 6d6 pf, puoi dividere la cura fino a 3 obiettivi\\
+                  & Crei un link vitale tra te e fino a 4 obiettivi\\
+                  & Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione. \\
+	22            & Rimuovi la condizione di Avvelenato\\
+                  & Ristori 3 punti divisi su più Caratteristiche \\
+                  & Curi 9d6 pf, puoi dividere la cura fino a 6 obiettivi\\
+                  & Crei un link vitale tra te e fino a 5 obiettivi. Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione \\
+	25            & Rinsaldi fratture\\
+                  & Recuperi tutti i punti caratteristica \\
+                  & Curi 12d6 pf, puoi dividere la cura fino a 9 obiettivi \\
+                  & Crei un link vitale tra te e fino a 7 target.Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione.  \\
+	28            & Curi fino a 60 pf e tutte le malattie. \\
+                  & Ristori un livello temporaneo perso \\
+	31            & Rigeneri i tessuti ed arti\\
+                  & Ristori un livello permanente perso\\
+                  & Curi 16d6 pf, puoi dividere la cura fino a 10 obiettivi\\
+	34            & Ringiovanisci il target di 3d6 anni\\
+                  & Curi 20d6 pf, puoi dividere la cura fino a 16 obiettivi\\
+                  & Curi completamente tutte le ferite e condizioni di un obiettivo\\
+	37            & Curi l'obiettivi di tutte le condizioni, punti caratteristica, livelli e punti ferita, ringiovanisci il target di 3d6 anni \\
+	40            & Sacrifichi la tua vita per portare in vita un’altra creatura.\\
 \end{longtable}
 
 \bigskip
