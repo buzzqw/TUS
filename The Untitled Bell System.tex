@@ -1846,13 +1846,17 @@ Se tirando una ipotetica riga che collega i due personaggi questa attraversa in 
 \bigskip
 
 Esempio di fiancheggiamento
+
 \medskip
-\begin{longtable}{L{3cm} k{3cm} k{3cm}}
+
+\begin{tabularx}{\textwidth}{XXX}
+%\begin{longtable}{L{3cm} k{3cm} k{3cm}}
 	\toprule
 	Personaggio A & Personaggio G & Personaggio D\tabularnewline
 	Personaggio B & Avversario    & Personaggio E\tabularnewline
 	Personaggio C & Personaggio H & Personaggio F\tabularnewline
-\end{longtable}
+\end{tabularx}
+%\end{longtable}
 
 \bigskip
 
@@ -10033,7 +10037,6 @@ per sorvegliare un'area.
 \bigskip
 
 \begin{tabularx}{\textwidth}{llllll}
-%\begin{tabular}{L{2.5cm} L{3cm} L{2cm} L{2cm}L{2cm}L{2cm} }
 	\toprule
 	\textbf{Tipo di porta} & \textbf{Spessore tipico (cm)} & \textbf{Durezza} & \textbf{Punti Ferita} & \textbf{DC per sfondare} \tabularnewline
     &&   &   & Bloccata  & Chiusa a chiave\tabularnewline
