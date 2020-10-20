@@ -53,6 +53,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 	\renewcommand{\headrulewidth}{0pt}%
 	\fancyhf[lef,rof]{\thepage}%
 }
+\usepackage{tabularx}
 \usepackage{pdfpages}
 \makeindex
 %%\makeatletter
@@ -3025,7 +3026,7 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 
 \bigskip
 
-\begin{tabular}{L{4.5cm} L{11.5cm}}
+\begin{tabularx}{\textwidth}{lX}
 	\toprule
 	\textbf{Famiglio}                & \textbf{Capacità speciale}\tabularnewline
 	Lucertola / Capra                & Il padrone guadagna bonus +2 alle prove di Sopravvivenza\tabularnewline
@@ -3039,7 +3040,7 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 	Riccio                           & Il padrone guadagna bonus +1 al Tiro Salvezza su Volonta'\tabularnewline
 	Scimmia                          & Il padrone guadagna bonus +2 alle prove di Criminalita'\tabularnewline
 	Topo                             & Il padrone guadagna bonus +1 al Tiro Salvezza su Tempra\tabularnewline
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
@@ -3311,7 +3312,7 @@ I potenziamenti definiscono e migliorano la magia che si va a lanciare; questi p
 La tabella va usata per determinare per ogni singolo fattore (Durata, Distanza, Obiettivo - Area di Effetto) e si sommano le relative Difficolta' trovate.
 A questo valore si sottrae l'eventuale riduzione dato dal Tempo di Lancio
 
-\begin{tabular}{|L{1.7cm} |k{2.7cm} |k{2.7cm}| k{3cm} |L{3.5cm} |k{2.5cm}|}
+\begin{tabularx}{\textwidth}{XXXXX}
 	\hline
 \textbf{Difficoltà} &\textbf{Durata} &\textbf{Distanza} &\textbf{Obiettivo - Area di Effetto} &\textbf{Tempo di Lancio (riduzione)} \\
 \hline
@@ -3351,7 +3352,7 @@ A questo valore si sottrae l'eventuale riduzione dato dal Tempo di Lancio
 \hline	
 +60&permanente&il pianeta&il pianeta&-\\
 \hline	
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
