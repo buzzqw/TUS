@@ -1302,12 +1302,13 @@ Come sempre ogni volta che si stabilisce una difficoltà cercate sempre di esser
 \label{esempi-prove-competenza}
 
 \begin{itemize}
-	\item Una prova riuscita (base DC 15) in Sopravvivenza (pronto soccorso) può fare recuperare 1d4 PF dopo uno scontro o concedere un +2 ad un tiro salvezza su tempra per resistere ad un veleno.
-	\item Una prova riuscita (base DC 15) in Sopravvivenza riduce di 1 i danni da Sanguinamento. Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 3, e la prova la riduce comunque di 1 alla volta.
+	\item Una prova riuscita (base DC 15) in Sopravvivenza (pronto soccorso) può fare recuperare 1d4 PF dopo uno scontro o concedere un +2 ad un tiro salvezza su tempra per resistere ad un veleno. Costo 3 Azioni
+	
+	\item Una prova riuscita (base DC 15) in Sopravvivenza riduce di 1 i danni da Sanguinamento. Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 3, e la prova la riduce comunque di 1 alla volta. Costo 3 Azioni
 \end{itemize}
 
 \begin{itemize}
-	\item Una prova riuscita (base DC 13) in Sopravvivenza (pronto soccorso) per prendersi cura per 8 ore di un paziente fa recuperare a questo il doppio dei punti ferita (con un minimo di 4) e concede un nuovo Tiro Salvezza su Tempra per resistere a Malattie o Veleni già in corso.
+	\item Una prova riuscita (base DC 13) in Sopravvivenza (pronto soccorso) per prendersi cura per 8 ore di un paziente fa recuperare a questo il doppio dei punti ferita ((CA+Potenza)*2 con un minimo di 4) e concede un nuovo Tiro Salvezza su Tempra per resistere a Malattie o Veleni già in corso.
 \end{itemize}
 
 \begin{itemize}
@@ -1611,14 +1612,17 @@ Sono frequenti eccezioni.
 \label{vita-e-morte}
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Chi non conosce la morte, non conosce la vita. (Grand Hotel, film 1932)}\end{tcolorbox}\medskip
 
-Quando un personaggio raggiunge i 0 (zero) Punti Ferita si considera svenuto, ovvero inabile a fare qualsiasi cosa. Una Essenza di Cura od una pozione di Cura lo portera’ cosciente ed ai punti ferita curati. Una prova di pronto soccorso (Sopravvivenza) a DC 15 lo portera’ ad 1 punto ferita.
+Quando un personaggio raggiunge i 0 (zero) Punti Ferita si considera svenuto, ovvero inabile a fare qualsiasi cosa. Una Cura (Essenza, Pozione) lo portera’ cosciente ed ai punti ferita curati. Una prova di pronto soccorso (Sopravvivenza) a DC 15 lo portera’ ad 1 punto ferita.
 
 Un personaggio morente ha Punti Ferita negativi (-1 o meno) ed è privo di sensi e prossimo alla morte. Continuera’ a perdere un punto ferita a round fiche il valore non raggiungera’ il triplo della Potenza+10 ed il personaggio morira’, se non viene curato.
 Una Essenza di Cura, di qualsiasi livello di potere lo portera’ a 1 Punti Ferita successive cure funzioneranno normalmente.
+
 Una prova di Sopravvivenza (pronto soccorso, 3 Azioni) a difficolta’ 11 piu’il valore dei punti ferita negativi portera’ il personaggio a 0 punti ferita.\\
 
 \begin{tcolorbox}[title = Tups sta morendo] 
 Es. Tups e’ gravemente ferito ed ha attualmente -6 punti ferita, Jade decide di provare a curarlo (dopo averlo spostato in un posto piu’ sicuro). Jade tenta una prova di pronto soccorso per almeno stabilizzare il compagno, la sua difficolta’ alla prova e’ 11+6 ovvero deve superare con Sopravvivenza DC 17 per riportarlo a 0 PF (svenuto)
+
+Una successiva prova di pronto soccorso a DC 15 potra' portarlo a 1 PF.
 \end{tcolorbox}
 
 
@@ -1761,7 +1765,7 @@ Se il TC fosse stato 26 si sarebbero aggiunti 2 danni Critici.
 In questa variante non si ha Tiro Critico (ottenere piu' 6 nel TC) ne l'esplosione del danno.
 
 
-\subsection{Attacchi multipli}\index{Attacchi multipli}
+\subsection{Attacchi multipli in mischia}\index{Attacchi multipli}
 
 Con una Azione il personaggio può eseguire un singolo attacco in mischia.
 
@@ -1770,7 +1774,7 @@ Con due Azioni il personaggio può effettuare più tiri per colpire consecutivi.
 La prima azione di attacco non ha malus mentre la seconda azione di attacco ha -5 al colpire cumulativo per attacco.
 
 Se ho CA 5 e Potenza 2, il primo Tiro per Colpire sara' 3d6+7, il secondo sara' 3d6+2. Non e' possibile effettuare un terzo attacco in quanto il bonus al colpire diventerebbe negativo.
-Si conta solo CA e Potenza/Agilita' e bonus dati da Abilita' ma nessun bonus magico dell'arma per capire quanti attacchi e' possibile fare.
+Si conta solo CA e Potenza/Agilita' e bonus dati da Abilita' ma nessun bonus magico dell'arma si conta per capire quanti attacchi e' possibile fare.
 
 Se il malus al colpire cumulativo diventa -1 o peggio non e' piu' possibile fare ulteriori attacchi.
 
@@ -1782,13 +1786,13 @@ Diversamente può dichiarare di effettuare il primo attacco su una creatura ed i
 
 \subsection{Armi da Tiro - Archi - Balestre (Arco / Balestre / Pugnali..)}
 
-Il numero di attacchi massimi con armi da lancio è 2 usando due Azioni, il secondo lancio si considera un secondo attacco con un -5 al colpire.
+Il numero di attacchi massimi con armi da lancio è 2 usando due Azioni, il secondo lancio si considera come un secondo attacco con un -5 al colpire.
 
 Solo particolari Abilità permettono di effettuare ulteriori attacchi.
 
 Il bonus al danno dato da Potenza si applica in automatico per le fionde, Pugnali..ovvero con tutte le armi che vengono lanciate "a mano", gli archi applicano questo bonus solo se sono di tipo composito, le balestre non lo applicano mai.
 
-\subsection{Attacchi con armi a spargimento (olio incendiato/acqua benedetta..)}\index{armi a spargimento}
+\subsection{Attacchi con armi a spargimento (olio incendiato/acqua benedetta..)} \index{armi a spargimento}
 
 In caso l'attacco manchi tirare un d8 e consultare questo schemino per capire dove la boccia è caduta:
 
@@ -2179,7 +2183,7 @@ Puoi usare Agilità al posto di Potenza con queste armi per il Tiro per Colpire.
 
 	\item +12 CA: La tua maestria nell'utilizzo dell'arco in combattimento è tale che non subisci nessuna penalità nel lanciare frecce a nemici in mischia o con copertura pari o minore di leggera.
 
-	\item +18 CA: scagli una freccia in piu'
+	\item +18 CA: scagli una freccia in piu' con un malus di -5 al TC
 
 \end{itemize}
 
