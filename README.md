@@ -4,7 +4,7 @@ Tus viene fornito in file sorgente in formato TEX e compilato in PDF.
 
 Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch).
 
-Il gioco e' pressoche' completo ed in fase di playtesting.
+Il gioco e' pressoche' completo anche se in fase di costante perfezionamento.
 
 Il documento in formato DOCX non e' aggiornato. Viene caricato per coerenza storica.
 
