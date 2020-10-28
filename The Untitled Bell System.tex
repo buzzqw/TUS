@@ -3418,7 +3418,7 @@ Il Narratore deve preoccuparsi di fare declamare sempre l'Essenza, questo perch�
 
 I potenziamenti definiscono e migliorano la magia che si va a lanciare; questi possono riguardare Distanza, Area di effetto, Contingenza, Selezione, Durata.
 
-La tabella va usata per determinare per ogni singolo fattore (Durata, Distanza, Obiettivo - Area di Effetto) e si sommano le relative Difficolta' trovate.
+La tabella va usata per determinare per ogni singolo fattore (Durata, Distanza, Obiettivo - Area di Effetto (AoE)) e si sommano le relative Difficolta' trovate.
 A questo valore si sottrae l'eventuale riduzione dato dal Tempo di Lancio
 
 
@@ -3464,6 +3464,64 @@ A questo valore si sottrae l'eventuale riduzione dato dal Tempo di Lancio
 \hline	
 \end{tabularx}
 
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lXXXXX}
+	\hline
+	\textbf{Difficoltà} &\textbf{Durata} &\textbf{Distanza} &\textbf{Obiettivo/AoE} & \textbf{Volume/Massa} &\textbf{Tempo di Lancio (riduzione)} \\
+	\hline
+	0	& Istantanea		& Tocco	& Se Stesso&& 2 Azioni\\
+	\hline
+	+1	& Concentrazione - 1r*CM	& 3 metri& 1 obiettivo&& 1 round\\
+	\hline
+	+2	& 1 minuto	& entro 10 metri&2 obiettivo - 3m/r&& 3 round\\
+	\hline
+	+3	&	10 minuti& entro 50 metri& 3 obiettivi - 3m/r&& 5 round\\
+	\hline
+	+4	& 20 minuti	& entro 100 metri&4 obiettivi - 6m/r &&1 minuto\\
+	\hline
+	+5&30 minuti&entro 250 metri&5 obiettivi - 6 m/r&&5 minuti\\
+	\hline
+	+6&45 minuti&&6 target - 8 m/r&1 turno (10 minuti)&\\
+	\hline
+	+7&1 ora&entro 500 metri&7 obiettivi - 8m/r&&1 ora\\
+	\hline
+	+8&4 ore&entro 700 metri&8 obiettivi - 10m/r&&3 ore\\
+	\hline
+	+9&6 ore&entro 1000 metri&9 obiettivi - 10m/r&&6 ore\\
+	\hline	
+	+11&12 ore&entro 3 km&11 obiettivi - 12m/r& 10cm^3/100gr&1 giorno\\
+	\hline	
+	+13&1 giorno&entro 5 km&&20cm^3/500gr&1 settimana\\
+	\hline	
+	+16&1 settimana&entro 10 Km&13 obiettivi - 14m/r&50cm^3/3kg&1 mese\\
+	\hline	
+	+19&10 giorni&entro 20 Km&16 obiettivi - 18m/r&1m^3/25kg&\\
+	\hline	
+	+20&2 settimane&entro 50 Km&20 obiettivi - 22 m/r&-\\
+	\hline	
+	+22&3 settimane&entro 70 Km&50 obiettivi - 18m/r&1CB/100kg&\\
+	\hline	
+	+25&1 mese&entro 100 Km&una piccola citta'&4CB/200kg&\\
+	\hline	
+	+28&3 mese&entro 150 Km&una citta'&8CB/400kg&\\
+	\hline	
+	+30&6 mesi&entro 250 Km&una grande citta'&-\\
+	\hline	
+	+31&8 mesi&entro 300 Km&una regione'&16CB/800kg&-\\
+	\hline	
+	+34&9 mesi&entro 350 Km&una regione grande&32CB/1.6ton&-\\
+	\hline	
+	+37&11 mesi&entro 450 Km&una regione grande&64CB/3.2ton&-\\
+	\hline	
+	+40&1 anno&entro 500 Km&un continente&-\\
+	\hline	
+	+43&5 anni&entro 1000 Km&piu' continenti&128CB/6.4ton&-\\
+	\hline	
+	+60&permanente&il pianeta&il pianeta&-\\
+	\hline	
+\end{tabularx}
 \bigskip
 
 \textbf{Durata} \index{Durata}: per Durata di una Essenza si intende sia quanto dura l'effetto sia quanto lo si può trattenere sia la possibilita' di attivarlo a posteriori prima che debba manifestarsi. Un incantatore può trattenere un numero di round pari al suo valore in Competenza Magica + Intelletto.
@@ -4108,7 +4166,7 @@ Non si possono creare Creature (naturali o magiche) secondo la regola che non si
 \begin{tabularx}{0.95\textwidth}{lX}
 	\toprule
 	\textbf{Difficoltà} & \textbf{Elementi o Energia}\\
-	\textless=11     & Un cubo di lato fino a 10 cm e 100 grammi (minuscola)\\
+	11 			     & Un cubo di lato fino a 10 cm e 100 grammi (minuscola)\\
 	13               & Un cubo di lato fino a 20 cm o 500gr (più piccola)\\
 	16               & Un cubo di lato fino a 0.5 metro o 3kg (piccola)\\
 	19               & Un cubo di lato fino a 1 metro (cubo base) o 25kg (piccola)\\
