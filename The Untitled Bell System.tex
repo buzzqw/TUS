@@ -1,7 +1,9 @@
 \documentclass[a4paper,11pt,twoside,openany]{book}
 %%\documentclass[a4paper,11pt,twoside,openany]{dndbook}
 \usepackage{quoting}
-\usepackage[many]{tcolorbox}
+%\usepackage[many]{tcolorbox}
+\usepackage{tcolorbox}
+\usepackage{tikz}
 \usetikzlibrary{shadows}
 \usepackage{multicol}
 \usepackage{tocloft}
@@ -84,9 +86,14 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 	arc = 3mm, % controls corner cut
 	boxrule=0.6pt, % sets box line thickness
 	underlay={%
-		\path[fill=tcbcolback!80!black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
-		\path[draw=tcbcolframe,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+		%\path[fill=tcbcolback!80!black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+		%\path[draw=tcbcolframe,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+		%\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+		
+     	\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
 		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+		
 	},
 	drop fuzzy shadow % adds drop shadow
 }
@@ -3502,6 +3509,8 @@ I soggetti influenzati dalla medesima essenza devono essere entro 3 metri dal pr
 
 Ogni +2 l'Area di Effetto aumenta di 3 metri.
 
+L'Area di Effetto solitamente si usa su Creature.
+
 \textbf{Volume/Massa}: le Essenze di Trasformazione, Creazione, Movimento, Distruzione agiscono su dei Volumi o Masse predefinite, non hanno un risultato varibile in base alla prova di magia effettuata a differenza di Attacco o Cura ad esempio.
 
 Per queste Essenze una volta calcolate le Difficolta' base e' sufficiente con la prova di magia superare di 13 le Difficolta'.
@@ -4904,16 +4913,16 @@ L'Essenza di Trasformazione prende la materia già pronta e concede all'incantat
 
 \begin{itemize}
 	\item
-	      L'Essenza di Trasformazione può essere applicata ad una Essenza di Attacco. Si fa una prova con una difficoltà di un livello maggiore a quello usato per l'Attacco e comunque se ne subisce la conseguenza (getti aria possono farti volare via o danneggiare lo stesso se non si è protetti)
+	      L'Essenza di Trasformazione può essere applicata ad una Essenza di Attacco. La prova di competenza magica deve essere superiore alla prova effettuata dall'avversario (getti aria possono farti volare via o danneggiare lo stesso se non si è protetti). E' una Azione di Reazione
 	\item
-	      è anche possibile trasformare l'acqua in fuoco, ma per il principio che una Essenza deve fare una sola cosa, il danno da fuoco potrà esserci solo dal round successivo, se ancora esiste
+	      E' anche possibile trasformare l'acqua in fuoco, ma per il principio che una Essenza deve fare una sola cosa, il danno da fuoco potrà esserci solo dal round successivo, se ancora esiste
 	\item
 	      Se si vuole trasformare la materia in un insieme di materia (fango, lava, pane.. si devono considerare le difficolà di ogni singolo elemento che lo compone, acqua e terra, terra e fuoco)
 	\item
 	      Se un soggetto è influenzato da una Essenza di Trasformazione viene concesso un Tiro Salvezza su Tempra per annullarne gli effetti.
-	\item      
-	      Usare Massa/Volume per stabilire su quante Creature (Peso) od Elementi (Volumi) si agisce	
-	\item
+	\item	
+		  La Trasformazione se applicata per ottenere un Elemento/Energia Magico ha una Difficolta' aggiuntiva di +6.
+	\item	
 		  La trasformazione di Elementi o Energia e' permanente ed ha Difficolta' come Durata 8      
 		  
 \end{itemize}
@@ -4930,7 +4939,7 @@ Esempi:
 
 	      Trasformando in acqua un cubo di 3{*}3{*}3 (27 cubi base) di terra si mette in seria difficoltà l'avversario (Tiro salvezza su riflessi concesso per evitare di cadere)
 	\item
-		  Si puo' trasformare un pezzo di un lucchetto/serratura per bloccarlo od aprirlo. La prova va confrontata con la resistenza del lucchetto.      
+		  Si puo' trasformare un pezzo di un lucchetto/serratura per bloccarlo od aprirlo. La prova va confrontata con la resistenza del Elemento che compone il lucchetto.      
 \end{itemize}
 
 \bigskip
@@ -4944,48 +4953,41 @@ Esempi:
 	      L'Essenza di Trasformazione se effettuata su una creatura senziente costa il livello superiore di potere. Per trasformare in pietra una creatura normale di 4 CR (in caso di PG il Livello è il CR) la prova ha difficoltà 28
 	\item
 	      Non si può influenzare o trasformare in una creatura con più di 3 CR superiore alla CM dell'incantatore
+   	\item 
+   		  Si puo' trasformare solo una Creatura alla volta. Il costo per l'Obiettivo e' +1
 	\item
-	      Se si vuole trasformare in una creatura magica il livello di potere passa a quello successivo (e si somma con il costo della senziente)
+	      Se si vuole trasformare in una creatura magica la Difficolta' passa la Livello di Potere superiore (e si somma con il costo della senziente)
 	\item
-	      I CR indicati si riferiscono alla somma dei CR influenzati
+	      I CR indicati si riferiscono alla somma dei CR/Livelli influenzati
 	\item
 	      Al target viene concesso un Tiro Salvezza su Arbitrio per negare gli effetti
 	\item
-	      Il target trasformato mantiene le caratteristiche mentali precedenti
-	      ma prende quelle fisiche della creatura
+	      Il target trasformato mantiene le caratteristiche mentali (Intelletto, Volontà) precedenti ma prende quelle fisiche della creatura (Potenza, Agilità, Magnetismo)
 
     \item
-          La trasformazione di Creature e' permanente ed ha difficolta' come Durata 8       
+          La trasformazione di Creature e' permanente ed ha difficolta' come Durata 8.      
 	      
 \end{itemize}
 
 \bigskip
 
+\textbf{Tabella Trasformazione Creature}
+\medskip
+
 \begin{tabularx}{0.95\textwidth}{lX}
 	\toprule
 	\textbf{Livello di Potere} & \textbf{Creature}\\
-	<=11   & - Un cubo di lato fino a 10 cm e 100 grammi  \\
-	  & 1/3 CR    \\
-	13& Un cubo di lato fino a 20 cm o 500gr  \\
-	  & 1 /2 CR   \\
-	16& Un cubo di lato fino a 0.5 metro o 3kg  \\
-	  & 1 CR \\
-	19& Un cubo di lato fino a 1 metro (cubo base) o 25kg \\
-	  & 2 CR \\
-	22& Fino a 2 cubi base e 100kg di peso \\
-	  & 3 CR \\
-	25& Fino a 4 cubi base e 200kg    \\
-	  & 5 CR \\
-	28& Fino a 8 cubi base e 400kg    \\
-	  & 7 CR \\
-	31& Fino a 16 cubi base e 800kg   \\
-	  & 9 CR \\
-	34& Fino a 32 cubi base e 1.6 tonnellate    \\
-	  & 11 CR\\
-	37& Fino a 64 cubi base e 3.2 tonnellate    \\
-	  & Fino a 13 CR, max singolo CR 7\\
-	43& Fino a 128 cubi base e 6.4 tonnellate   \\
-	  & Fino a 15 CR, max singolo CR 9\\
+	<=11	& 1/3 CR    \\
+	13		& 1/2 CR   \\
+	16		& 1 CR \\
+	19		& 2 CR \\
+	22		& 3 CR \\
+	25		& 5 CR \\
+	28		& 7 CR \\
+	31		& 9 CR \\
+	34		& 11 CR\\
+	37		& Fino a 13 CR, max singolo CR 7\\
+	43		& Fino a 15 CR, max singolo CR 9\\
 \end{tabularx}
 
 \bigskip
@@ -7170,7 +7172,7 @@ Ci fu un tempo, millenni orsono, in cui i Patroni, pardon Dei, non erano capricc
 
 Non si mescolavano con le creature mortali, non agivano personalmente, non erano mosse da curiosita' o volonta' di ripicca su altri dei.
 
-Le prime divinità create erano potexcnze ultraterrene che, venerate o meno, comunque sarebbero esistite e non si curerebbero di avere pochi fedeli.
+Le prime divinità create erano potenze ultraterrene che, venerate o meno, comunque sarebbero esistite e non si curerebbero di avere pochi fedeli.
 
 Gli dei della Genesi crearono "Il Libro degli Dei" un potentissimo artefatto che illustrava e spiegava le divinità, descrivendole nei dogmi, regole, feste e dettagli.
 Un libro talmente potente che cio' che veniva li scritto diveniva realta'.
