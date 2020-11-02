@@ -521,9 +521,9 @@ caratteristica per determinare se l’afferrare riesce, a meno che
 l’attacco non dica altrimenti.
 Una creatura afferrata dal mostro può usare la sua azione per
 tentare di sfuggirgli. Per farlo, deve riuscire una prova di Forza
-(Atletica) o Destrezza (Acrobazia) contro la CD di fuga nel
-blocco statistiche del mostro. Se non viene fornita una CD di
-fuga, assumere che la CD sia uguale a 10 + il modificatore di
+(Atletica) o Destrezza (Acrobazia) contro la DC di fuga nel
+blocco statistiche del mostro. Se non viene fornita una DC di
+fuga, assumere che la DC sia uguale a 10 + il modificatore di
 Forza (Atletica) del mostro.
 Munizioni
 Un mostro porta con sé munizioni sufficienti per
@@ -628,38 +628,30 @@ avere effetti strani e meravigliosi sull’ambiente, come
 indicato in questa sezione. Gli effetti regionali
 terminano all’istante o si dissipano col tempo una volta
 morta la creatura leggendaria.
-Aboleth
-Grande aberrazione, legale malvagio
-FORZA 21 (+5)
-DESTREZZA 9 (-1)
-COSTITUZIONE 15 (+2)
-INTELLIGENZA 18 (+4)
-SAGGEZZA 15 (+2)
-CARISMA 18 (+4)
-Classe Armatura 17 (armatura naturale)
-Punti Ferita 135 (18d10 + 36)
-Velocità 3 m, nuoto 12 m
-Tiri Salvezza Costituzione +6, Intelligenza +8, Saggezza +6
-Abilità Percezione +10, Storia +12
-Sensi scurovisione 36 m, Percezione passiva 20
-Linguaggi Parlata delle Profondità, telepatia 36 m
-Sfida 10 (5.900 PE)
-Anfibio. L’aboleth può respirare aria e acqua.
-Nube di Muco. Mentre è sott’acqua, l’aboleth è avvolto da muco
-mutante. Una creatura che entri a contatto con l’aboleth, o che lo
-colpisca con un attacco da mischia mentre si trova entro 1,5
-metri da esso, deve effettuare un tiro salvezza di Costituzione
-CD 14. Se lo fallisce, la creatura resta ammalata per 1d4 ore. La
-creatura ammalata può respirare solo sott’acqua.
-Sonda Telepatica. Se una creatura comunica telepaticamente con
-l’aboleth, e l’aboleth può vederla, l’aboleth ne apprende i più
-grandi desideri.
+
+>>>
+
+\textbf{Aboleth}\index{Aboleth}\\
+Taglia: Grande - \hspace*{0pt}\hfill{Tipo: aberrazione}\\
+Morale: malvagio\\
+Potenza 5, Agilita' -1, Intelletto 4, Volontà 2, Magnetismo 4\\
+Difesa: 20\\
+Punti Ferita: 135\\
+Movimento 3 m, nuoto 12 m\\
+Tiri Salvezza: Tempra +6, Riflessi +1, Arbitrio +6\\
+Competenze: Consapevolezza +10, Cultura +12\\
+Sensi: visione crepuscolare 36 m\\
+Linguaggi: Acquan, telepatia 36 m\\
+CR: 10\\
+\textit{Anfibio}. L’aboleth può respirare aria e acqua.\\
+\textit{Nube di Muco}. Mentre è sott’acqua, l’aboleth è avvolto da muco mutante. Una creatura che entri a contatto con l’aboleth, o che lo colpisca con un attacco da mischia mentre si trova entro 1 metro da esso, deve effettuare un tiro salvezza di Costituzione DC 14. Se lo fallisce, la creatura resta ammalata per 1d4 ore. La creatura ammalata può respirare solo sott’acqua.
+\textit{Sonda Telepatica}. Se una creatura comunica telepaticamente con  l’aboleth, e l’aboleth può vederla, l’aboleth ne apprende i più grandi desideri.\\
 Azioni
 Multiattacco. L’aboleth effettua tre attacchi con i tentacoli
 Tentacolo. Attacco con arma da mischia: +9 a colpire, portata 3
 m, un bersaglio.
 Colpisce: 12 (2d6 + 5) danni contundenti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Costituzione CD 14 o
+creatura, deve riuscire un tiro salvezza di Costituzione DC 14 o
 divenire ammalato. La malattia non produce alcun effetto per 1
 minuto e può essere rimossa da qualsiasi magia che curi le
 malattie. Dopo 1 minuto, la pelle della creatura ammalata diventa
@@ -675,7 +667,7 @@ un bersaglio.
 Colpisce: 15 (3d6 + 5) danni contundenti.
 Schiavizzare (3/Giorno). L’aboleth prende a bersaglio una
 creatura che può vedere entro 9 metri da esso. Il bersaglio deve
-riuscire un tiro salvezza di Saggezza CD 14 o restare affascinato
+riuscire un tiro salvezza di Saggezza DC 14 o restare affascinato
 magicamente dall’aboleth finché l’aboleth muore o i due si
 trovano su piani di esistenza differenti. Il bersaglio affascinato è
 sotto il controllo dell’aboleth e non può effettuare reazioni.
@@ -720,7 +712,7 @@ Armi Angeliche. Gli attacchi con arma del deva sono magici.
 Quando il deva colpisce con qualsiasi arma, l’arma infligge 4d8
 danni radianti aggiuntivi (già compresi nell’attacco).
 Incantesimi Innati. La caratteristica da incantatore innato del
-deva è il Carisma (CD 17 per i tiri salvezza degli incantesimi). Il
+deva è il Carisma (DC 17 per i tiri salvezza degli incantesimi). Il
 deva può lanciare in maniera innata i seguenti incantesimi, con
 l’uso delle sole componenti verbali:
 A volontà: individuazione del bene e del male
@@ -772,7 +764,7 @@ radianti aggiuntivi (già compresi nell’attacco).
 Consapevolezza Divina. Il planetar riconosce immediatamente le
 bugie.
 Incantesimi Innati. La caratteristica da incantatore innato del
-planetario è il Carisma (CD 20 per i tiri salvezza degli
+planetario è il Carisma (DC 20 per i tiri salvezza degli
 incantesimi). Il planetario può lanciare in maniera innata i
 seguenti incantesimi, senza bisogno di componenti materiali:
 A volontà: individuazione del bene e del male, invisibilità (solo
@@ -819,7 +811,7 @@ radianti aggiuntivi (già compresi nell’attacco).
 Consapevolezza Divina. Il solar riconosce immediatamente le
 bugie.
 Incantesimi Innati. La caratteristica da incantatore innato del
-solar è il Carisma (CD 25 per i tiri salvezza degli incantesimi). Il
+solar è il Carisma (DC 25 per i tiri salvezza degli incantesimi). Il
 solar può lanciare in maniera innata i seguenti incantesimi, senza
 bisogno di componenti materiali:
 A volontà: individuazione del bene e del male, invisibilità (solo
@@ -838,7 +830,7 @@ Arco Lungo dell’Uccisione. Attacco con arma a distanza: +13 a
 colpire, gittata 45/180 m, un bersaglio.
 Colpisce: 15 (2d8 + 6) danni perforanti più 27 (6d8) danni radianti.
 Se il bersaglio è una creatura con 100 punti ferita o meno, deve
-riuscire un tiro salvezza di Costituzione CD 15 o morire.
+riuscire un tiro salvezza di Costituzione DC 15 o morire.
 Spada Volante. Il solare libera il suo spadone perché fluttui
 magicamente in uno spazio non occupato entro 1,5 metri da lui.
 Se il solare può vedere la spada, con un’azione bonus le può
@@ -858,13 +850,13 @@ al termine del turno di un’altra creatura. Il solare recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Esplosione Incandescente (Costa 2 Azioni). Il solare emette
 energia magica divina. Ogni creatura di sua scelta, in un raggio di 3
-metri, deve effettuare un tiro salvezza di Destrezza CD 23, subendo
+metri, deve effettuare un tiro salvezza di Destrezza DC 23, subendo
 14 (4d6) danni da fuoco più 14 (4d6) danni radianti se fallisce il tiro
 salvezza, o la metà se lo riesce.
 Sguardo Accecante (Costa 3 Azioni). Il solare prende a
 bersaglio una creatura entro 9 metri e che possa vedere. Se il
 bersaglio può vedere il solare, il bersaglio deve riuscire un tiro
-salvezza di Costituzione CD 15 o restare accecato finché un
+salvezza di Costituzione DC 15 o restare accecato finché un
 incantesimo come ristorare inferiore non rimuoverà la cecità.
 Teletrasporto. Il solare si teletrasporta magicamente fino a 36 metri
 di distanza, insieme a tutto l’equipaggiamento che sta indossando o
@@ -890,13 +882,13 @@ Morso. Attacco con arma da mischia: +5 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 10 (2d6 + 3) danni taglienti più 3 (1d6) danni da acido.
 Se il bersaglio è una creatura di taglia Grande o inferiore, è
-afferrata (CD 13 per fuggire). Fino al termine dell’afferrare,
+afferrata (DC 13 per fuggire). Fino al termine dell’afferrare,
 l’ankheg può mordere solo la creatura afferrata e ha vantaggio ai
 tiri di attacco contro di essa.
 Spruzzo Acido (Ricarica 6). L’ankheg sputa acido in una linea
 lunga 9 metri e larga 1,5 metri, purché non stia afferrando
 nessuna creatura. Ogni creatura su quella linea deve effettuare un
-tiro salvezza di Destrezza CD 13, e subire 10 (3d6) danni da
+tiro salvezza di Destrezza DC 13, e subire 10 (3d6) danni da
 acido se fallisce il tiro salvezza, o la metà di questi danni se lo
 riesce.
 Arpia
@@ -924,7 +916,7 @@ m, un bersaglio.
 Colpisce: 3 (1d4 + 1) danni contundenti.
 Canto Ammaliatore. L’arpia canta una melodia magica. Ogni
 umanoide e gigante entro 90 metri dall’arpia e che possa udire la
-canzone deve riuscire un tiro salvezza di Saggezza CD 11 o
+canzone deve riuscire un tiro salvezza di Saggezza DC 11 o
 restare affascinato fino al termine della canzone. L’arpia deve
 effettuare un’azione bonus durante il suo prossimo turno per
 continuare a cantare. Può smettere di cantare in qualsiasi
@@ -991,7 +983,7 @@ Sfida 3 (700 PE)
 Sguardo Pietrificante. Se una creatura comincia il suo turno entro 9
 metri dal basilisco e i due si possono vedere vicendevolmente, se non
 è inabile il basilisco può obbligare la creatura ad effettuare un tiro
-salvezza di Costituzione CD 12. Se la creatura fallisce il tiro
+salvezza di Costituzione DC 12. Se la creatura fallisce il tiro
 salvezza, inizia magicamente a trasformarsi in pietra ed è intralciata.
 La creatura deve ripetere il tiro salvezza al termine del suo prossimo
 turno. Se lo riesce, l’effetto termina. Se lo fallisce, la creatura è
@@ -1036,7 +1028,7 @@ Colpisce: 22 (3d10 + 6) danni perforanti.
 Stritolare. Attacco con arma da mischia: +10 a colpire, portata
 1,5 m, una creatura di taglia Grande o inferiore.
 Colpisce: 17 (2d10 + 6) danni contundenti più 17 (2d10 + 6)
-danni taglienti. Il bersaglio è afferrato (CD 16 per fuggire) Se il
+danni taglienti. Il bersaglio è afferrato (DC 16 per fuggire) Se il
 behir non sta già stritolando un’altra creatura, il bersaglio è
 afferrato e intralciato fino al termine dell’afferrare.
 Inghiottire. Il behir effettua una attacco di morso contro un
@@ -1049,14 +1041,14 @@ turno del behir. Il behir può inghiottire solo una creatura alla
 volta.
 Se il behir subisce 30 o più danni in un singolo turno da una
 creatura che ha inghiottito, deve riuscire un tiro salvezza di
-Costituzione CD 14 al termine di quel turno o vomitare la
+Costituzione DC 14 al termine di quel turno o vomitare la
 creatura, che ricade prona in uno spazio entro 3 metri dal behir.
 Se il behir muore, una creatura inghiottita non è più intralciata da
 esso e può uscire dal cadavere utilizzando 4,5 metri di
 movimento, uscendo prona.
 Soffio di Fulmine (Ricarica 5-6). Il behir esala fulmini in una
 linea lunga 6 metri e larga 1,5 metri. Ogni creatura su quella
-linea deve effettuare un tiro salvezza di Destrezza CD 16 e subire
+linea deve effettuare un tiro salvezza di Destrezza DC 16 e subire
 66 (12d10) danni da fulmine se fallisce il tiro salvezza, o la metà
 di questi danni se lo riesce.
 Bugbear
@@ -1113,7 +1105,7 @@ Salto Letale. Se il bulette può saltare di almeno 4,5 metri come
 parte del suo movimento, può usare poi questa azione per
 atterrare in piedi in uno spazio che contiene una o più creature.
 Ciascuna di queste creature deve riuscire un tiro salvezza di
-Forza o Destrezza CD 16 (a scelta del bersaglio) o venire gettata
+Forza o Destrezza DC 16 (a scelta del bersaglio) o venire gettata
 prona e subire 14 (3d6 + 4) danni contundenti più 14 (3d6 + 4)
 danni taglienti. Se il tiro salvezza riesce, la creatura subisce solo
 la metà dei danni, non è gettata prona, e viene spinta di 1,5 metri
@@ -1181,7 +1173,7 @@ m, un bersaglio.
 Colpisce: 11 (2d6 + 4) danni perforanti.
 Soffio Infuocato (Ricarica 5-6). La testa di drago esala fuoco in
 un cono di 4,5 metri. Ogni creatura in quell’area deve effettuare
-un tiro salvezza di Destrezza CD 15 e subire 31 (7d8) danni da
+un tiro salvezza di Destrezza DC 15 e subire 31 (7d8) danni da
 fuoco se fallisce il tiro salvezza, o la metà di questi danni se lo
 riesce.
 Chuul
@@ -1213,10 +1205,10 @@ tentacoli una volta.
 Chele. Attacco con arma da mischia: +6 a colpire, portata 3 m,
 un bersaglio.
 Colpisce: 11 (2d6 + 4) danni contundenti. Un bersaglio è
-afferrato (CD 14 per fuggire) se è di taglia Grande o inferiore e il
+afferrato (DC 14 per fuggire) se è di taglia Grande o inferiore e il
 chuul non sta già afferrando altre due creature.
 Tentacoli. Una creatura afferrata dal chuul deve riuscire un tiro
-salvezza di Costituzione CD 13 o restare avvelenata per 1
+salvezza di Costituzione DC 13 o restare avvelenata per 1
 minuto. Fino al termine dell’avvelenamento, il bersaglio è
 paralizzato. Il bersaglio può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto per sé in caso di successo.
@@ -1265,7 +1257,7 @@ Azioni
 Morso. Attacco con arma da mischia: +3 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 3 (1d4 + 1) danni perforanti, e il bersaglio deve
-riuscire un tiro salvezza di Costituzione CD 11 per non essere
+riuscire un tiro salvezza di Costituzione DC 11 per non essere
 magicamente pietrificato. Se fallisce il tiro salvezza, la creatura
 inizia a trasformarsi in pietra ed è intralciata. Al termine del
 turno successivo deve ripetere il tiro salvezza. Se lo riesce,
@@ -1292,7 +1284,7 @@ Linguaggi tutte, telepatia 36 m
 Sfida 4 (1.100 PE)
 Armi Magiche. Gli attacchi con armi del couatl sono magici.
 Incantesimi Innati. La caratteristica da incantatore innato del
-couatl è il Carisma (CD dei tiri salvezza degli incantesimi 14). Il
+couatl è il Carisma (DC dei tiri salvezza degli incantesimi 14). Il
 couatl può lanciare questi incantesimi in maniera innata, usando
 solo componenti verbali:
 A volontà: individuazione del bene e del male, individuazione del
@@ -1307,14 +1299,14 @@ Azioni
 Morso. Attacco con arma da mischia: +8 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 8 (1d6 + 5) danni perforanti, e il bersaglio deve
-riuscire un tiro salvezza di Costituzione CD 13 o restare
+riuscire un tiro salvezza di Costituzione DC 13 o restare
 avvelenato per 24 ore. Fino al termine dell’avvelenamento, il
 bersaglio è privo di sensi. Un’altra creatura può effettuare
 un’azione per risvegliare il bersaglio.
 Stritolare. Attacco con arma da mischia: +6 a colpire, portata 3
 m, una creatura di taglia Media o inferiore.
 Colpisce: 10 (2d6 + 3) danni contundenti, e il bersaglio è afferrato
-(CD 15 per fuggire). Fino al termine dell’afferrare, il bersaglio è
+(DC 15 per fuggire). Fino al termine dell’afferrare, il bersaglio è
 intralciato, e il couatl non può stritolare un altro bersaglio.
 Mutare Forma. Il couatl può trasformarsi magicamente in un
 umanoide o bestia il cui grado di sfida sia pari o inferiore al proprio,
@@ -1353,7 +1345,7 @@ numero di punti ferita pari al danno da fulmine inferto.
 Azioni
 Multiattacco. Il cumulo strisciante effettua due attacchi di
 schianto. Se entrambi gli attacchi colpiscono una creatura di
-taglia Media o inferiore, il bersaglio è afferrato (CD 14 per
+taglia Media o inferiore, il bersaglio è afferrato (DC 14 per
 fuggire) e il cumulo strisciante usa Avvolgere su di esso.
 Schianto. Attacco con arma da mischia: +7 a colpire, portata 1,5
 m, un bersaglio.
@@ -1361,7 +1353,7 @@ Colpisce: 13 (2d8 + 4) danni contundenti.
 Avvolgere. Il cumulo strisciante avvolge una creatura di taglia
 Media o inferiore che ha afferrato. Il bersaglio avvolto è
 accecato, intralciato e impossibilitato a respirare, e deve riuscire
-un tiro salvezza di Costituzione CD 14 all’inizio di ciascun turno
+un tiro salvezza di Costituzione DC 14 all’inizio di ciascun turno
 del tumulo o subire 13 (2d8 + 4) danni contundenti. Se il cumulo
 si muove, il bersaglio avvolto si muove con esso. Il cumulo può
 avvolgere solo una creatura alla volta.
@@ -1398,7 +1390,7 @@ Resistenza alla Magia. Il demone ha vantaggio ai tiri salvezza
 contro incantesimi e altri effetti magici.
 Spasmo Mortale. Quando il demone muore, esplode; ciascuna
 creatura entro 9 metri da esso deve effettuare un tiro salvezza di
-Destrezza CD 20, subendo 70 (20d6) danni da fuoco se fallisce il
+Destrezza DC 20, subendo 70 (20d6) danni da fuoco se fallisce il
 tiro salvezza, o la metà di questi danni se lo riesce. L’esplosione
 appicca il fuoco agli oggetti infiammabili che non sono indossati
 o trasportati, e distrugge le armi del demone.
@@ -1408,7 +1400,7 @@ lunga e uno con la frusta.
 Frusta. Attacco con arma da mischia: +14 a colpire, portata 9 m,
 un bersaglio.
 Colpisce: 15 (2d6 + 8) danni taglienti più 10 (3d6) danni da
-fuoco, e il bersaglio deve riuscire un tiro salvezza di Forza CD
+fuoco, e il bersaglio deve riuscire un tiro salvezza di Forza DC
 20 o venire trascinato 7,5 metri verso il demone.
 Spada Lunga. Attacco con arma da mischia: +14 a colpire,
 portata 3 m, un bersaglio.
@@ -1450,7 +1442,7 @@ un raggio di 3 metri dal demone. Il gas si propaga intorno agli
 angoli, e la sua area è oscurata leggermente. Rimane per 1
 minuto o finché non viene disperso da un forte vento. Qualsiasi
 creatura che inizi il proprio turno in quell’area deve riuscire un
-tiro salvezza di Costituzione CD 11 o restare avvelenata fino
+tiro salvezza di Costituzione DC 11 o restare avvelenata fino
 all’inizio del suo prossimo turno. Mentre è avvelenato in questo
 modo, il bersaglio, durante il suo turno, può effettuare solo
 un’azione o un’azione bonus, ma non entrambe, e non può
@@ -1477,7 +1469,7 @@ Sensi visione del vero 36 m, Percezione passiva 13
 Linguaggi Abissale, telepatia 36 m
 Sfida 9 (5.000 PE)
 Incantesimi Innati. La caratteristica da incantatore del demone è
-l’Intelligenza (CD dei tiri salvezza degli incantesimi 16). Il
+l’Intelligenza (DC dei tiri salvezza degli incantesimi 16). Il
 demone può lanciare questi incantesimi in maniera innata, senza
 bisogno di componenti materiali:
 A volontà: dissolvi magie, individuazione del magico, oscurità
@@ -1491,7 +1483,7 @@ con le chele e lanciare un incantesimo.
 Chela. Attacco con arma da mischia: +9 a colpire, portata 3 m,
 un bersaglio.
 Colpisce: 16 (2d10 + 5) danni contundenti. Se il bersaglio è una
-creatura di taglia Media o inferiore, è afferrato (CD 15 per
+creatura di taglia Media o inferiore, è afferrato (DC 15 per
 fuggire). Il glabrezu possiede due chele, ciascuna delle quali può
 afferrare un bersaglio.
 Pugno. Attacco in mischia con arma: +9 a colpire, portata 1,5 m,
@@ -1517,7 +1509,7 @@ Sensi scurovisione 36 m, Percezione passiva 11
 Linguaggi Abissale, telepatia 36 m
 Sfida 8 (3.900 PE)
 Fetore. Qualsiasi creatura che inizi il suo turno entro 3 metri dal
-demone, deve riuscire un tiro salvezza di Costituzione CD 14 o
+demone, deve riuscire un tiro salvezza di Costituzione DC 14 o
 restare avvelenata fino all’inizio del proprio turno. Se riesce il
 tiro salvezza, la creatura è immune al fetore del demone
 gracidante per 24 ore.
@@ -1563,7 +1555,7 @@ lunghe e uno con la coda.
 Coda. Attacco con arma da mischia: +9 a colpire, portata 3 m,
 una creatura.
 Colpisce: 15 (2d10 + 4) danni contundenti. Se il bersaglio è di
-taglia Media o inferiore, è afferrato (CD 19 per fuggire). Fino al
+taglia Media o inferiore, è afferrato (DC 19 per fuggire). Fino al
 termine dell’afferrare, il bersaglio è intralciato, e il demone può
 colpire automaticamente il bersaglio con la coda, ma non può
 effettuare attacchi di coda contro altri bersagli.
@@ -1608,7 +1600,7 @@ Colpisce: 32 (5d10 + 5) danni perforanti.
 Aureola di Orrore (Ricarica 5-6). Il demone emette una luce
 magica multicolore e scintillante. Ogni creatura entro 4,5 metri
 dal demone e che possa vedere la luce, deve riuscire un tiro
-salvezza di Saggezza CD 15 o restare spaventata per 1 minuto.
+salvezza di Saggezza DC 15 o restare spaventata per 1 minuto.
 Una creatura può ripetere il tiro salvezza al termine di ciascun
 suo turno, terminando l’effetto per sé se lo riesce. Se il tiro
 salvezza della creatura riesce o l’effetto ha termine per essa, la
@@ -1651,7 +1643,7 @@ Azioni
 Artigli (Morso in Forma di Bestia). Attacco con arma da
 mischia: +4 a colpire, portata 1,5 m, un bersaglio.
 Colpisce: 5 (1d4 + 3) danni perforanti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Costituzione CD 10 o
+creatura, deve riuscire un tiro salvezza di Costituzione DC 10 o
 subire 5 (2d4) danni da veleno e restare avvelenato per 1 minuto.
 La creatura può ripetere il tiro salvezza al termine di ciascun suo
 turno, ponendo termine all’effetto se lo riesce.
@@ -1661,7 +1653,7 @@ trasportando o indossando resta invisibile finché rimane in
 contatto con il demone.
 Spavento (1/Giorno). Una creatura scelta dal demone che si trovi
 entro 6 metri da lui, deve riuscire un tiro salvezza di Saggezza
-CD 10 o restare spaventata per 1 minuto. Il bersaglio può ripetere
+DC 10 o restare spaventata per 1 minuto. Il bersaglio può ripetere
 il tiro salvezza al termine di ciascun suo turno, con svantaggio se
 il demone è in linea di visuale, ponendo termine all’effetto
 prematuramente se riesce il tiro salvezza.
@@ -1698,7 +1690,7 @@ Colpisce: 14 (2d10 + 3) danni taglienti.
 Spore (Ricarica 6). Una nube di spore tossiche si diffonde in un
 raggio di 4,5 metri intorno al demone. Le spore si propagano
 intorno agli angoli. Ogni creatura in quell’area deve riuscire un
-tiro salvezza di Costituzione CD 14 o restare avvelenata. Mentre
+tiro salvezza di Costituzione DC 14 o restare avvelenata. Mentre
 è avvelenato in questo modo, un bersaglio subisce 5 (1d10) danni
 da veleno all’inizio di ciascun suo turno. Il bersaglio può ripetere
 il tiro salvezza al termine di ciascun suo turno, ponendo termine
@@ -1707,7 +1699,7 @@ sul bersaglio pone termine all’effetto.
 Strillo Stordente (1/Giorno). Il demone emette uno strillo
 orripilante. Ogni creatura entro 6 metri da esso e che lo possa
 udire, e non sia un demone, deve riuscire un tiro salvezza di
-Costituzione CD 14 o restare stordita fino al termine del
+Costituzione DC 14 o restare stordita fino al termine del
 prossimo turno del demone.
 Destriero da Incubo
 Grande immondo, neutrale malvagio
@@ -1769,7 +1761,7 @@ uno con il falcione.
 Barba. Attacco con arma da mischia: +5 a colpire, portata 1,5 m,
 una creatura.
 Colpisce: 6 (1d8 + 2) danni perforanti, e il bersaglio deve
-riuscire un tiro salvezza di Costituzione CD 12 o restare
+riuscire un tiro salvezza di Costituzione DC 12 o restare
 avvelenato per 1 minuto. Mentre è avvelenato in questo modo, il
 bersaglio non può recuperare punti ferita. Il bersaglio può
 ripetere il tiro salvezza al termine di ciascun suo turno,
@@ -1778,12 +1770,12 @@ Falcione. Attacco con arma da mischia: +5 a colpire, portata 3
 m, un bersaglio.
 Colpisce: 8 (1d10 + 3) danni taglienti. Se il bersaglio è una
 creatura, ad esclusione di costrutti e non morti, deve riuscire un
-tiro salvezza di Costituzione CD 12 o perdere 5 (1d10) punti
+tiro salvezza di Costituzione DC 12 o perdere 5 (1d10) punti
 ferita all’inizio di ciascun suo turno a causa della ferita infernale.
 Ogni volta che il diavolo colpisce il bersaglio ferito con questo
 attacco, il danno inflitto dalla ferita aumenta di 5 (1d10).
 Qualsiasi creatura può effettuare un’azione per bloccare la ferita
-con una prova riuscita di Saggezza (Medicina) CD 12. La ferita
+con una prova riuscita di Saggezza (Medicina) DC 12. La ferita
 si richiude anche nel caso in cui il bersaglio riceva della magia
 guaritrice. 
 SRD Italia 5a Edizione - Compendio dei Mostri
@@ -1815,7 +1807,7 @@ Multiattacco. Il diavolo effettua due attacchi con la catena.
 Catena. Attacco con arma da mischia: +8 a colpire, portata 3 m,
 un bersaglio.
 Colpisce: 11 (2d6 + 4) danni taglienti. Il bersaglio è afferrato
-(CD 14 per fuggire) se il diavolo non sta già afferrando un’altra
+(DC 14 per fuggire) se il diavolo non sta già afferrando un’altra
 creatura. Fino al termine dell’afferrare, il bersaglio è intralciato e
 subisce 7 (2d6) danni perforanti all’inizio di ciascun suo turno.
 Animare Catene (Ricarica dopo un Riposo Breve o Lungo).
@@ -1836,7 +1828,7 @@ Maschera Snervante. Quando una creatura che il diavolo può
 vedere inizia il proprio turno entro 9 metri dal diavolo, il diavolo
 può creare un’illusione per assomigliare all’amore perduto o un
 acerrimo rivale di quella creatura. Se la creatura può vedere il
-diavolo, deve riuscire un tiro salvezza di Saggezza CD 14 o
+diavolo, deve riuscire un tiro salvezza di Saggezza DC 14 o
 rimanere spaventata fino al termine del suo turno.
 Diavolo Cornuto
 Grande immondo (diavolo), legale malvagio
@@ -1870,12 +1862,12 @@ Coda. Attacco con arma da mischia: +10 a colpire, portata 3 m,
 un bersaglio.
 Colpisce: 10 (1d8 + 6) danni perforanti. Se il bersaglio è una
 creatura, ad esclusione di costrutti e non morti, deve riuscire un
-tiro salvezza di Costituzione CD 17 o perdere 10 (3d6) punti
+tiro salvezza di Costituzione DC 17 o perdere 10 (3d6) punti
 ferita all’inizio di ciascun suo turno a causa della ferita infernale.
 Ogni volta che il diavolo ferisce il bersaglio con questo attacco,
 il danno inflitto dalla ferita aumenta di 10 (3d6). Qualsiasi
 creatura può effettuare un’azione per bloccare la ferita riuscendo
-una prova di Saggezza (Medicina) CD 12. La ferita si richiude
+una prova di Saggezza (Medicina) DC 12. La ferita si richiude
 anche nel caso in cui il bersaglio riceva magia guaritrice.
 Forcone. Attacco con arma da mischia: +10 a colpire, portata 3
 m, un bersaglio.
@@ -1884,7 +1876,7 @@ Pungiglione. Attacco con arma da mischia: +8 a colpire, portata
 3 m, un bersaglio.
 Colpisce: 13 (2d8 + 4) danni perforanti più 17 (5d6) danni da
 veleno, e il bersaglio deve riuscire un tiro salvezza di
-Costituzione CD 14, o restare avvelenato per 1 minuto. Il
+Costituzione DC 14, o restare avvelenato per 1 minuto. Il
 bersaglio può ripetere il tiro salvezza al termine di ciascun suo
 turno, terminando l’effetto se lo riesce.
 Scagliare Fiamma. Attacco con incantesimo a Distanza: +7 a
@@ -1914,13 +1906,13 @@ Arma Magica. Gli attacchi con arma del diavolo della fossa sono
 magici.
 Aura di Paura. Qualsiasi creatura ostile al diavolo che inizi il
 suo turno entro 6 metri da esso, deve effettuare un tiro salvezza
-di Saggezza CD 21, a meno che il diavolo non sia inabile. Se
+di Saggezza DC 21, a meno che il diavolo non sia inabile. Se
 fallisce il tiro salvezza, la creatura è spaventata fino all’inizio del
 suo prossimo turno. Se il tiro salvezza della creatura riesce, la
 creatura è immune all’Aura di Paura del diavolo per le
 successive 24 ore.
 Incantesimi Innati. La caratteristica da incantatore diavolo della
-fossa è il Carisma (CD dei tiri salvezza degli incantesimi 21). Il
+fossa è il Carisma (DC dei tiri salvezza degli incantesimi 21). Il
 diavolo della fossa può lanciare questi incantesimi in maniera
 innata, senza bisogno di componenti materiali:
 A volontà: individuazione del magico, palla di fuoco
@@ -1943,7 +1935,7 @@ fuoco.
 Morso. Attacco con arma da mischia: +14 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 22 (4d6 + 8) danni perforanti. Il bersaglio deve riuscire
-un tiro salvezza di Costituzione CD 21 o restare avvelenato.
+un tiro salvezza di Costituzione DC 21 o restare avvelenato.
 Mentre è avvelenato in questo modo, il bersaglio non può
 recuperare punti ferita, e subisce 21 (6d6) danni da veleno
 all’inizio di ciascun suo turno. Il bersaglio avvelenato può
@@ -1989,7 +1981,7 @@ Lancia di Ghiaccio. Attacco con arma da mischia: +10 a colpire,
 portata 3 m, un bersaglio.
 Colpisce: 14 (2d8 + 5) danni perforanti più 10 (3d6) danni da
 freddo. Se il bersaglio è una creatura, deve riuscire un tiro
-salvezza di Costituzione CD 15, o avere per 1 minuto la velocità
+salvezza di Costituzione DC 15, o avere per 1 minuto la velocità
 ridotta di 3 metri; durante ciascun suo turno può effettuare solo
 un’azione o un’azione bonus, ma non entrambe; non può
 effettuare reazioni. Il bersaglio può ripetere il tiro salvezza al
@@ -2008,7 +2000,7 @@ largo fino a 9 metri per un massimo di 3 metri di altezza, oppure
 Quando la parete appare, ogni creatura nel suo spazio viene
 spinta fuori da esso tramite la via più breve. La creatura sceglie
 su quale lato del muro finire, a meno che la creatura non sia
-inabile. La creatura poi effettua un tiro salvezza di Destrezza CD
+inabile. La creatura poi effettua un tiro salvezza di Destrezza DC
 17, subendo 35 (10d6) danni da freddo se lo fallisce, o la metà di
 questi danni se lo riesce.
 Il muro rimane per 1 minuto o finché il diavolo non è reso
@@ -2019,7 +2011,7 @@ psichico e da veleno. Se una sezione viene distrutta, lascia una
 patina di aria gelida nello spazio che occupava prima il muro.
 Ogni volta che una creatura finisce per muoversi attraverso
 quest’aria gelida durante un turno, consenziente o meno, deve
-effettuare un tiro salvezza di Costituzione CD 17, subendo 17
+effettuare un tiro salvezza di Costituzione DC 17, subendo 17
 (5d6) danni da freddo se lo fallisce, o la metà di questi danni se
 lo riesce. L’aria gelida si dissipa quando il resto del muro
 svanisce.
@@ -2054,7 +2046,7 @@ uncinata e uno con il pungiglione.
 Arma Inastata Uncinata. Attacco con arma da mischia: +8 a
 colpire, portata 3 m, un bersaglio.
 Colpisce: 17 (2d12 + 4) danni perforanti. Se il bersaglio è una
-creatura di taglia Enorme o inferiore, è afferrato (CD 14 per
+creatura di taglia Enorme o inferiore, è afferrato (DC 14 per
 fuggire). Fino al termine dell’afferrare, il diavolo non può usare
 la sua arma inastata su di un altro bersaglio.
 Artiglio. Attacco con arma da mischia: +8 a colpire, portata 3 m,
@@ -2064,7 +2056,7 @@ Pungiglione. Attacco con arma da mischia: +8 a colpire, portata
 3 m, un bersaglio.
 Colpisce: 13 (2d8 + 4) danni perforanti più 17 (5d6) danni da
 veleno, e il bersaglio deve riuscire un tiro salvezza di
-Costituzione CD 14, o restare avvelenato per 1 minuto. Il
+Costituzione DC 14, o restare avvelenato per 1 minuto. Il
 bersaglio può ripetere il tiro salvezza al termine di ciascun suo
 turno, terminando l’effetto se lo riesce.
 Diavolo Spinoso
@@ -2142,7 +2134,7 @@ Arco Lungo. Attacco con arma a Distanza: +7 a colpire, gittata
 45/180 m, un bersaglio.
 Colpisce: 7 (1d8 + 4) danni perforanti più 13 (3d8) danni da
 veleno, e il bersaglio deve riuscire un tiro salvezza di
-Costituzione CD 14 o restare avvelenato. Il veleno rimane finché
+Costituzione DC 14 o restare avvelenato. Il veleno rimane finché
 non viene rimosso da un incantesimo ristorazione inferiore o
 simile.
 Reazioni
@@ -2184,7 +2176,7 @@ Azioni
 Pungiglione (Morso in Forma di Bestia). Attacco con arma da
 mischia: +5 a colpire, portata 1,5 m, una creatura.
 Colpisce: 5 (1d4 + 3) danni perforanti, e il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 11, subendo 10
+effettuare un tiro salvezza di Costituzione DC 11, subendo 10
 (3d6) danni da veleno se lo fallisce, o la metà di questi danni se
 lo riesce.
 Invisibilità. Il diavolo resta invisibile finché non attacca o
@@ -2266,7 +2258,7 @@ Colpisce: 20 (3d8 + 7) danni contundenti.
 Morso. Attacco con arma da mischia: +10 a colpire, portata 3 m,
 un bersaglio.
 Colpisce: 33 (4d12 + 7) danni perforanti. Se il bersaglio è una
-creatura di taglia Media o inferiore, è afferrato (CD 17 per
+creatura di taglia Media o inferiore, è afferrato (DC 17 per
 fuggire). Fino al termine dell’afferrare, il bersaglio è intralciato,
 e il tirannosauro non può usare il morso contro un altro bersaglio.
 Triceratopo
@@ -2286,7 +2278,7 @@ Sfida 5 (1.800 PE)
 Carica Travolgente. Se il triceratopo si muove di almeno 6 metri
 diretto verso una creatura e la colpisce con un attacco di
 incornata durante lo stesso turno, il bersaglio deve riuscire un
-tiro salvezza di Forza CD 13 o cadere prono. Se il bersaglio è
+tiro salvezza di Forza DC 13 o cadere prono. Se il bersaglio è
 prono, il triceratopo può effettuare un attacco di pestone contro
 di lui come azione bonus.
 Azioni
@@ -2380,14 +2372,14 @@ m, un bersaglio.
 Colpisce: 19 (2d10 + 8) danni perforanti più 9 (2d8) danni da freddo.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 16 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 16 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
 immune alla Presenza Spaventosa del drago per le successive 24 ore.
 Soffio Gelido (Ricarica 5-6). Il drago esala un’esplosione di ghiaccio
 in un cono di 27 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Costituzione CD 22 e subire 72 (16d8) danni da freddo se
+salvezza di Costituzione DC 22 e subire 72 (16d8) danni da freddo se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Azioni Leggendarie
 Il drago può effettuare 3 azioni leggendarie, scelte tra le opzioni
@@ -2396,7 +2388,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni creatura
 entro 4,5 metri dal drago deve riuscire un tiro salvezza di Destrezza
-CD 22 o subire 15 (2d6 + 8) danni contundenti e venir gettato prono.
+DC 22 o subire 15 (2d6 + 8) danni contundenti e venir gettato prono.
 Il drago può poi volare fino a metà della sua velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
 Individuare. Il drago effettua una prova di Saggezza (Percezione).
@@ -2438,14 +2430,14 @@ un bersaglio.
 Colpisce: 17 (2d10 + 6) danni perforanti più 4 (1d8) danni da freddo.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 14 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 14 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
 immune alla Presenza Spaventosa del drago per le successive 24 ore.
 Soffio Gelido (Ricarica 5-6). Il drago esala un’esplosione di
 ghiaccio in un cono di 18 metri. Ogni creatura in quell’area deve
-effettuare un tiro salvezza di Costituzione CD 19 e subire 54
+effettuare un tiro salvezza di Costituzione DC 19 e subire 54
 (12d8) danni da freddo se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce.
 Azioni Leggendarie
@@ -2455,7 +2447,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni creatura
 entro 3 metri dal drago deve riuscire un tiro salvezza di Destrezza
-CD 19 o subire 13 (2d6 + 6) danni contundenti e venir gettato prono.
+DC 19 o subire 13 (2d6 + 6) danni contundenti e venir gettato prono.
 Il drago può poi volare fino a metà della sua velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
 Individuare. Il drago effettua una prova di Saggezza (Percezione).
@@ -2492,7 +2484,7 @@ un bersaglio.
 Colpisce: 15 (2d10 + 4) danni perforanti più 4 (1d8) danni da freddo.
 Soffio Gelido (Ricarica 5-6). Il drago esala un’esplosione di ghiaccio
 in un cono di 9 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Costituzione CD 15 e subire 45 (10d8) danni da freddo se
+salvezza di Costituzione DC 15 e subire 45 (10d8) danni da freddo se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Drago Bianco Cucciolo
 Media drago, caotico malvagio
@@ -2518,7 +2510,7 @@ un bersaglio.
 Colpisce: 15 (2d10 + 4) danni perforanti più 4 (1d8) danni da freddo.
 Soffio Gelido (Ricarica 5-6). Il drago esala un’esplosione di ghiaccio
 in un cono di 4,5 metri. Ogni creatura in quell’area deve effettuare un
-tiro salvezza di Costituzione CD 12 e subire 22 (5d8) danni da freddo
+tiro salvezza di Costituzione DC 12 e subire 22 (5d8) danni da freddo
 se fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 SRD Italia 5a Edizione - Compendio dei Mostri
 Drago Blu Antico
@@ -2556,7 +2548,7 @@ Colpisce: 20 (2d10 + 9) danni perforanti più 11 (2d10) danni da
 fulmine.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 20 o restare spaventata
+riuscire un tiro salvezza di Saggezza DC 20 o restare spaventata
 per 1 minuto. Una creatura può ripetere il tiro salvezza al termine
 di ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro
 salvezza della creatura ha successo o l’effetto ha termine per
@@ -2564,7 +2556,7 @@ essa, la creatura è immune alla Presenza Spaventosa del drago
 per le successive 24 ore.
 Soffio Fulminante (Ricarica 5-6). Il drago esala fulmini in una
 linea lunga 36 metri e larga 3 metri. Ogni creatura su quella linea
-deve effettuare un tiro salvezza di Destrezza CD 23 e subire 88
+deve effettuare un tiro salvezza di Destrezza DC 23 e subire 88
 (16d10) danni da fulmine se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce.
 Azioni Leggendarie
@@ -2574,7 +2566,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 4,5 metri dal drago deve riuscire un tiro salvezza
-di Destrezza CD 24 o subire 16 (2d6 + 9) danni contundenti e
+di Destrezza DC 24 o subire 16 (2d6 + 9) danni contundenti e
 venir gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -2615,7 +2607,7 @@ Colpisce: 18 (2d10 + 7) danni perforanti più 5 (1d10) danni da
 fulmine.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 17 o restare spaventata
+riuscire un tiro salvezza di Saggezza DC 17 o restare spaventata
 per 1 minuto. Una creatura può ripetere il tiro salvezza al termine
 di ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro
 salvezza della creatura ha successo o l’effetto ha termine per
@@ -2623,7 +2615,7 @@ essa, la creatura è immune alla Presenza Spaventosa del drago
 per le successive 24 ore.
 Soffio Fulminante (Ricarica 5-6). Il drago esala fulmini in una
 linea lunga 27 metri e larga 1,5 metri. Ogni creatura su quella
-linea deve effettuare un tiro salvezza di Destrezza CD 19 e subire
+linea deve effettuare un tiro salvezza di Destrezza DC 19 e subire
 66 (12d10) danni da fulmine se fallisce il tiro salvezza, o la metà
 di questi danni se lo riesce.
 Azioni Leggendarie
@@ -2633,7 +2625,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 3 metri dal drago deve riuscire un tiro salvezza di
-Destrezza CD 20 o subire 14 (2d6 + 7) danni contundenti e venir
+Destrezza DC 20 o subire 14 (2d6 + 7) danni contundenti e venir
 gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -2669,7 +2661,7 @@ Colpisce: 16 (2d10 + 5) danni perforanti più 5 (1d10) danni da
 fulmine.
 Soffio Fulminante (Ricarica 5-6). Il drago esala fulmini in una linea
 lunga 18 metri e larga 1,5 metri. Ogni creatura su quella linea deve
-effettuare un tiro salvezza di Destrezza CD 16 e subire 55 (10d10) danni
+effettuare un tiro salvezza di Destrezza DC 16 e subire 55 (10d10) danni
 da fulmine se fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Drago Blu Cucciolo
 Enorme drago, legale malvagio
@@ -2696,7 +2688,7 @@ Colpisce: 8 (1d10 + 3) danni perforanti più 3 (1d6) danni da
 fulmine.
 Soffio Fulminante (Ricarica 5-6). Il drago esala fulmini in una
 linea lunga 9 metri e larga 1,5 metri. Ogni creatura su quella
-linea deve effettuare un tiro salvezza di Destrezza CD 12 e subire
+linea deve effettuare un tiro salvezza di Destrezza DC 12 e subire
 22 (4d10) danni da fulmine se fallisce il tiro salvezza, o la metà
 di questi danni se lo riesce.
 Drago Nero Antico
@@ -2735,7 +2727,7 @@ Colpisce: 19 (2d10 + 8) danni perforanti più 9 (4d6) danni da
 acido.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 19 o restare spaventata
+riuscire un tiro salvezza di Saggezza DC 19 o restare spaventata
 per 1 minuto. Una creatura può ripetere il tiro salvezza al termine
 di ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro
 salvezza della creatura ha successo o l’effetto ha termine per
@@ -2743,7 +2735,7 @@ essa, la creatura è immune alla Presenza Spaventosa del drago
 per le successive 24 ore.
 Soffio Acido (Ricarica 5-6). Il drago esala acido in una linea di
 27 metri larga 3 metri. Ogni creatura in quell’area deve effettuare
-un tiro salvezza di Destrezza CD 22 e subire 67 (15d8) danni da
+un tiro salvezza di Destrezza DC 22 e subire 67 (15d8) danni da
 acido se fallisce il tiro salvezza, o la metà di questi danni se lo
 riesce.
 Azioni Leggendarie
@@ -2753,7 +2745,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 4,5 metri dal drago deve riuscire un tiro salvezza
-di Destrezza CD 23 o subire 15 (2d6 + 8) danni contundenti e
+di Destrezza DC 23 o subire 15 (2d6 + 8) danni contundenti e
 venir gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -2796,7 +2788,7 @@ Colpisce: 17 (2d10 + 6) danni perforanti più 4 (1d8) danni da
 acido.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 16 o restare spaventata
+riuscire un tiro salvezza di Saggezza DC 16 o restare spaventata
 per 1 minuto. Una creatura può ripetere il tiro salvezza al termine
 di ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro
 salvezza della creatura ha successo o l’effetto ha termine per
@@ -2804,7 +2796,7 @@ essa, la creatura è immune alla Presenza Spaventosa del drago
 per le successive 24 ore.
 Soffio Acido (Ricarica 5-6). Il drago esala acido in una linea di
 18 metri larga 1,5 metri. Ogni creatura in quell’area deve
-effettuare un tiro salvezza di Destrezza CD 18 e subire 54 (12d8)
+effettuare un tiro salvezza di Destrezza DC 18 e subire 54 (12d8)
 danni da acido se fallisce il tiro salvezza, o la metà di questi
 danni se lo riesce.
 Azioni Leggendarie
@@ -2814,7 +2806,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 3 metri dal drago deve riuscire un tiro salvezza di
-Destrezza CD 19 o subire 13 (2d6 + 6) danni contundenti e venir
+Destrezza DC 19 o subire 13 (2d6 + 6) danni contundenti e venir
 gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -2850,7 +2842,7 @@ un bersaglio.
 Colpisce: 11 (2d10 + 4) danni perforanti più 4 (1d8) danni da acido.
 Soffio Acido (Ricarica 5-6). Il drago esala acido in una linea di 9
 metri larga 1,5 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Destrezza CD 14 e subire 49 (11d8) danni da acido se fallisce
+salvezza di Destrezza DC 14 e subire 49 (11d8) danni da acido se fallisce
 il tiro salvezza, o la metà di questi danni se lo riesce.
 Drago Nero Cucciolo
 Media drago, caotico malvagio
@@ -2877,7 +2869,7 @@ m, un bersaglio.
 Colpisce: 7 (1d10 + 2) danni perforanti più 2 (1d4) danni da acido.
 Soffio Acido (Ricarica 5-6). Il drago esala acido in una linea di
 4,5 metri larga 1,5 metri. Ogni creatura in quell’area deve
-effettuare un tiro salvezza di Destrezza CD 11 e subire 22 (5d8)
+effettuare un tiro salvezza di Destrezza DC 11 e subire 22 (5d8)
 danni da acido se fallisce il tiro salvezza, o la metà di questi
 danni se lo riesce.
 Drago Rosso Antico
@@ -2915,7 +2907,7 @@ Colpisce: 21 (2d10 + 10) danni perforanti più 14 (4d6) danni da
 fuoco.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 21 o restare spaventata
+riuscire un tiro salvezza di Saggezza DC 21 o restare spaventata
 per 1 minuto. Una creatura può ripetere il tiro salvezza al termine
 di ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro
 salvezza della creatura ha successo o l’effetto ha termine per
@@ -2923,7 +2915,7 @@ essa, la creatura è immune alla Presenza Spaventosa del drago
 per le successive 24 ore.
 Soffio Infuocato (Ricarica 5-6). Il drago esala fuoco in un cono
 di 27 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Destrezza CD 24 e subire 91 (26d6) danni da fuoco
+salvezza di Destrezza DC 24 e subire 91 (26d6) danni da fuoco
 se fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Azioni Leggendarie
 Il drago può effettuare 3 azioni leggendarie, scelte tra le opzioni
@@ -2932,7 +2924,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 4,5 metri dal drago deve riuscire un tiro salvezza
-di Destrezza CD 25 o subire 17 (2d6 + 10) danni contundenti e
+di Destrezza DC 25 o subire 17 (2d6 + 10) danni contundenti e
 venir gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -2973,7 +2965,7 @@ Colpisce: 19 (2d10 + 8) danni perforanti più 7 (2d6) danni da
 fuoco.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 19 o restare spaventata
+riuscire un tiro salvezza di Saggezza DC 19 o restare spaventata
 per 1 minuto. Una creatura può ripetere il tiro salvezza al termine
 di ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro
 salvezza della creatura ha successo o l’effetto ha termine per
@@ -2981,7 +2973,7 @@ essa, la creatura è immune alla Presenza Spaventosa del drago
 per le successive 24 ore.
 Soffio Infuocato (Ricarica 5-6). Il drago esala fuoco in un cono
 di 18 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Destrezza CD 21 e subire 63 (18d6) danni da fuoco
+salvezza di Destrezza DC 21 e subire 63 (18d6) danni da fuoco
 se fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Azioni Leggendarie
 Il drago può effettuare 3 azioni leggendarie, scelte tra le opzioni
@@ -2990,7 +2982,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 3 metri dal drago deve riuscire un tiro salvezza di
-Destrezza CD 22 o subire 15 (2d6 + 8) danni contundenti e venir
+Destrezza DC 22 o subire 15 (2d6 + 8) danni contundenti e venir
 gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -3027,7 +3019,7 @@ Colpisce: 17 (2d10 + 6) danni perforanti più 3 (1d6) danni da
 fuoco.
 Soffio Infuocato (Ricarica 5-6). Il drago esala fuoco in un cono
 di 9 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Destrezza CD 17 e subire 56 (16d6) danni da fuoco
+salvezza di Destrezza DC 17 e subire 56 (16d6) danni da fuoco
 se fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Drago Rosso Cucciolo
 Media drago, caotico malvagio
@@ -3054,7 +3046,7 @@ Colpisce: 9 (1d10 + 4) danni perforanti più 3 (1d6) danni da
 fuoco.
 Soffio Infuocato (Ricarica 5-6). Il drago esala fuoco in un cono
 di 4,5 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Destrezza CD 13 e subire 24 (7d6) danni da fuoco se
+salvezza di Destrezza DC 13 e subire 24 (7d6) danni da fuoco se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Drago Verde Antico
 Mastodontica drago, legale malvagio
@@ -3093,14 +3085,14 @@ m, un bersaglio.
 Colpisce: 19 (2d10 + 8) danni perforanti più 10 (3d6) danni da veleno.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 19 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 19 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
 immune alla Presenza Spaventosa del drago per le successive 24 ore.
 Soffio Velenoso (Ricarica 5-6). Il drago esala gas velenosi in un
 cono di 27 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Costituzione CD 22 e subire 77 (22d6) danni da veleno se
+salvezza di Costituzione DC 22 e subire 77 (22d6) danni da veleno se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Azioni Leggendarie
 Il drago può effettuare 3 azioni leggendarie, scelte tra le opzioni
@@ -3109,7 +3101,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 4,5 metri dal drago deve riuscire un tiro salvezza
-di Destrezza CD 23 o subire 15 (2d6 + 8) danni contundenti e
+di Destrezza DC 23 o subire 15 (2d6 + 8) danni contundenti e
 venire gettato prono. Il drago può poi volare fino a metà della
 sua velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -3152,14 +3144,14 @@ un bersaglio.
 Colpisce: 17 (2d10 + 6) danni perforanti più 7 (2d6) danni da veleno.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 16 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 16 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
 immune alla Presenza Spaventosa del drago per le successive 24 ore.
 Soffio Velenoso (Ricarica 5-6). Il drago esala gas velenosi in un
 cono di 18 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Costituzione CD 18 e subire 56 (16d6) danni da veleno se
+salvezza di Costituzione DC 18 e subire 56 (16d6) danni da veleno se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Azioni Leggendarie
 Il drago può effettuare 3 azioni leggendarie, scelte tra le opzioni
@@ -3168,7 +3160,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 3 metri dal drago deve riuscire un tiro salvezza di
-Destrezza CD 19 o subire 13 (2d6 + 6) danni contundenti e venir
+Destrezza DC 19 o subire 13 (2d6 + 6) danni contundenti e venir
 gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -3204,7 +3196,7 @@ un bersaglio.
 Colpisce: 15 (2d10 + 4) danni perforanti più 7 (2d6) danni da veleno.
 Soffio Velenoso (Ricarica 5-6). Il drago esala gas velenosi in un
 cono di 9 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Costituzione CD 14 e subire 42 (12d6) danni da veleno se
+salvezza di Costituzione DC 14 e subire 42 (12d6) danni da veleno se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 SRD Italia 5a Edizione - Compendio dei Mostri
 Drago Verde Cucciolo
@@ -3233,7 +3225,7 @@ m, un bersaglio.
 Colpisce: 7 (1d10 + 2) danni perforanti più 3 (1d6) danni da veleno.
 Soffio Velenoso (Ricarica 5-6). Il drago esala gas velenosi in un
 cono di 4,5 metri. Ogni creatura in quell’area deve effettuare un tiro
-salvezza di Costituzione CD 11 e subire 21 (6d6) danni da veleno se
+salvezza di Costituzione DC 11 e subire 21 (6d6) danni da veleno se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Draghi Metallici
 Drago d’Argento Antico
@@ -3270,7 +3262,7 @@ m, un bersaglio.
 Colpisce: 21 (2d10 + 10) danni perforanti.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 21 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 21 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
@@ -3279,11 +3271,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Gelido. Il drago esala un’esplosione ghiacciata in un cono di
 27 metri. Ogni creatura nell’area deve effettuare un tiro salvezza di
-Costituzione CD 24, subendo 67 (15d8) danni da freddo se fallisce il
+Costituzione DC 24, subendo 67 (15d8) danni da freddo se fallisce il
 tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Paralizzante. Il drago esala un gas paralizzante in un cono di
 24 metri. Ogni creatura nell’area deve riuscire un tiro salvezza di
-Costituzione CD 24 o restare paralizzata per 1 minuto. Una creatura
+Costituzione DC 24 o restare paralizzata per 1 minuto. Una creatura
 può ripetere il tiro salvezza al termine di ciascun suo turno,
 terminando l’effetto per sé in caso di successo.
 Mutare Forma. Il drago può trasformarsi magicamente in un
@@ -3304,7 +3296,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 4,5 metri dal drago deve riuscire un tiro salvezza
-di Destrezza CD 25 o subire 17 (2d6 + 10) danni contundenti e
+di Destrezza DC 25 o subire 17 (2d6 + 10) danni contundenti e
 venir gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -3345,7 +3337,7 @@ un bersaglio.
 Colpisce: 19 (2d10 + 8) danni perforanti.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 18 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 18 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
@@ -3354,11 +3346,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Gelido. Il drago esala un’esplosione ghiacciata in un cono di
 18 metri. Ogni creatura nell’area deve effettuare un tiro salvezza di
-Costituzione CD 20, subendo 58 (13d8) danni da freddo se fallisce il
+Costituzione DC 20, subendo 58 (13d8) danni da freddo se fallisce il
 tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Paralizzante. Il drago esala un gas paralizzante in un cono di
 18 metri. Ogni creatura nell’area deve riuscire un tiro salvezza di
-Costituzione CD 20 o restare paralizzata per 1 minuto. Una creatura
+Costituzione DC 20 o restare paralizzata per 1 minuto. Una creatura
 può ripetere il tiro salvezza al termine di ciascun suo turno,
 terminando l’effetto per sé in caso di successo.
 Mutare Forma. Il drago può trasformarsi magicamente in un
@@ -3379,7 +3371,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 3 metri dal drago deve riuscire un tiro salvezza di
-Destrezza CD 21 o subire 15 (2d6 + 8) danni contundenti e venir
+Destrezza DC 21 o subire 15 (2d6 + 8) danni contundenti e venir
 gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -3416,11 +3408,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Gelido. Il drago esala un’esplosione ghiacciata in un cono di 9
 metri. Ogni creatura nell’area deve effettuare un tiro salvezza di
-Costituzione CD 17, subendo 54 (12d8) danni da freddo se fallisce il
+Costituzione DC 17, subendo 54 (12d8) danni da freddo se fallisce il
 tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Paralizzante. Il drago esala un gas paralizzante in un cono di 9
 metri. Ogni creatura nell’area deve riuscire un tiro salvezza di
-Costituzione CD 17 o restare paralizzata per 1 minuto. Una creatura
+Costituzione DC 17 o restare paralizzata per 1 minuto. Una creatura
 può ripetere il tiro salvezza al termine di ciascun suo turno,
 terminando l’effetto per sé in caso di successo.
 Drago d’Argento Cucciolo
@@ -3449,11 +3441,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Gelido. Il drago esala un’esplosione ghiacciata in un cono di
 4,5 metri. Ogni creatura nell’area deve effettuare un tiro salvezza di
-Costituzione CD 13, subendo 18 (4d8) danni da freddo se fallisce il
+Costituzione DC 13, subendo 18 (4d8) danni da freddo se fallisce il
 tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Paralizzante. Il drago esala un gas paralizzante in un cono di
 4,5 metri. Ogni creatura nell’area deve riuscire un tiro salvezza di
-Costituzione CD 13 o restare paralizzata per 1 minuto. Una creatura
+Costituzione DC 13 o restare paralizzata per 1 minuto. Una creatura
 può ripetere il tiro salvezza al termine di ciascun suo turno,
 terminando l’effetto per sé in caso di successo.
 SRD Italia 5a Edizione - Compendio dei Mostri
@@ -3492,7 +3484,7 @@ m, un bersaglio.
 Colpisce: 20 (2d10 + 9) danni perforanti.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 20 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 20 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
@@ -3501,11 +3493,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Fulminante. Il drago esala fulmini in una linea lunga 36 metri
 e larga 3 metri. Ogni creatura sulla linea deve effettuare un tiro
-salvezza di Destrezza CD 23, subendo 88 (16d10) danni da fulmine
+salvezza di Destrezza DC 23, subendo 88 (16d10) danni da fulmine
 se fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Repulsivo. Il drago esala dell’energia repulsiva in un cono di 9
 metri. Ogni creatura in quell’area deve riuscire un tiro salvezza di
-Forza CD 23, altrimenti viene allontana di 18 metri dal drago.
+Forza DC 23, altrimenti viene allontana di 18 metri dal drago.
 Mutare Forma. Il drago può trasformarsi magicamente in un
 umanoide o bestia il cui grado di sfida sia pari o inferiore al proprio,
 o tornare alla sua vera forma. Alla morte ritorna alla sua vera forma.
@@ -3524,7 +3516,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 4,5 metri dal drago deve riuscire un tiro salvezza
-di Destrezza CD 24 o subire 16 (2d6 + 9) danni contundenti e
+di Destrezza DC 24 o subire 16 (2d6 + 9) danni contundenti e
 venir gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -3565,7 +3557,7 @@ un bersaglio.
 Colpisce: 18 (2d10 + 7) danni perforanti.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 17 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 17 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
@@ -3574,11 +3566,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Fulminante. Il drago esala fulmini in una linea lunga 27 metri
 e larga 1,5 metri. Ogni creatura sulla linea deve effettuare un tiro
-salvezza di Destrezza CD 19, subendo 66 (12d10) danni da fulmine
+salvezza di Destrezza DC 19, subendo 66 (12d10) danni da fulmine
 se fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Repulsivo. Il drago esala dell’energia repulsiva in un cono di 9
 metri. Ogni creatura in quell’area deve riuscire un tiro salvezza di
-Forza CD 19, altrimenti viene allontana di 18 metri dal drago.
+Forza DC 19, altrimenti viene allontana di 18 metri dal drago.
 Mutare Forma. Il drago può trasformarsi magicamente in un
 umanoide o bestia il cui grado di sfida sia pari o inferiore al proprio,
 o tornare alla sua vera forma. Alla morte ritorna alla sua vera forma.
@@ -3597,7 +3589,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 3 metri dal drago deve riuscire un tiro salvezza di
-Destrezza CD 20 o subire 14 (2d6 + 7) danni contundenti e venir
+Destrezza DC 20 o subire 14 (2d6 + 7) danni contundenti e venir
 gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -3636,11 +3628,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Fulminante. Il drago esala fulmini in una linea lunga 18 metri
 e larga 1,5 metri. Ogni creatura sulla linea deve effettuare un tiro
-salvezza di Destrezza CD 15, subendo 55 (10d10) danni da fulmine
+salvezza di Destrezza DC 15, subendo 55 (10d10) danni da fulmine
 se fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Repulsivo. Il drago esala dell’energia repulsiva in un cono di 9
 metri. Ogni creatura in quell’area deve riuscire un tiro salvezza di
-Forza CD 15, altrimenti viene allontana di 12 metri dal drago.
+Forza DC 15, altrimenti viene allontana di 12 metri dal drago.
 Drago di Bronzo Cucciolo
 Media drago, caotico buono
 FORZA 17 (+3)
@@ -3668,11 +3660,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Fulminante. Il drago esala fulmini in una linea lunga 12 metri
 e larga 1,5 metri. Ogni creatura sulla linea deve effettuare un tiro
-salvezza di Destrezza CD 12, subendo 16 (3d10) danni da fulmine se
+salvezza di Destrezza DC 12, subendo 16 (3d10) danni da fulmine se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Repulsivo. Il drago esala dell’energia repulsiva in un cono di 9
 metri. Ogni creatura in quell’area deve riuscire un tiro salvezza di
-Forza CD 12, altrimenti viene allontana di 9 metri dal drago.
+Forza DC 12, altrimenti viene allontana di 9 metri dal drago.
 Drago d’Oro Antico
 Mastodontica drago, legale buono
 FORZA 30 (+10)
@@ -3708,7 +3700,7 @@ m, un bersaglio.
 Colpisce: 21 (2d10 + 10) danni perforanti.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 24 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 24 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
@@ -3716,11 +3708,11 @@ immune alla Presenza Spaventosa del drago per le successive 24 ore.
 Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Infuocato. Il drago esala fuoco in un cono di 27 metri. Ogni
-creatura nell’area deve effettuare un tiro salvezza di Destrezza CD
+creatura nell’area deve effettuare un tiro salvezza di Destrezza DC
 24, subendo 71(13d10) danni da fuoco se fallisce il tiro salvezza, o la
 metà di questi danni se lo riesce.
 Soffio Indebolente. Il drago esala del gas in un cono di 27 metri. Ogni
-creatura in quell’area deve riuscire un tiro salvezza di Forza CD 24 o
+creatura in quell’area deve riuscire un tiro salvezza di Forza DC 24 o
 avere svantaggio ai tiri di attacco basati sulla Forza, prove di Forza, e
 tiri salvezza di Forza per 1 minuto. Una creatura può ripetere il tiro
 salvezza al termine di ciascun suo turno, terminando l’effetto su di sé
@@ -3743,7 +3735,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 4,5 metri dal drago deve riuscire un tiro salvezza
-di Destrezza CD 25 o subire 17 (2d6 + 10) danni contundenti e
+di Destrezza DC 25 o subire 17 (2d6 + 10) danni contundenti e
 venir gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -3785,7 +3777,7 @@ un bersaglio.
 Colpisce: 19 (2d10 + 8) danni perforanti.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 21 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 21 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
@@ -3793,11 +3785,11 @@ immune alla Presenza Spaventosa del drago per le successive 24 ore.
 Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Infuocato. Il drago esala fuoco in un cono di 18 metri. Ogni
-creatura nell’area deve effettuare un tiro salvezza di Destrezza CD
+creatura nell’area deve effettuare un tiro salvezza di Destrezza DC
 21, subendo 66 (12d10) danni da fuoco se fallisce il tiro salvezza, o
 la metà di questi danni se lo riesce.
 Soffio Indebolente. Il drago esala del gas in un cono di 18 metri. Ogni
-creatura in quell’area deve riuscire un tiro salvezza di Forza CD 21 o
+creatura in quell’area deve riuscire un tiro salvezza di Forza DC 21 o
 avere svantaggio ai tiri di attacco basati sulla Forza, prove di Forza, e
 tiri salvezza di Forza per 1 minuto. Una creatura può ripetere il tiro
 salvezza al termine di ciascun suo turno, terminando l’effetto su di sé
@@ -3820,7 +3812,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 3 metri dal drago deve riuscire un tiro salvezza di
-Destrezza CD 22 o subire 15 (2d6 + 8) danni contundenti e venir
+Destrezza DC 22 o subire 15 (2d6 + 8) danni contundenti e venir
 gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -3857,11 +3849,11 @@ Colpisce: 17 (2d10 + 6) danni perforanti.
 Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Infuocato. Il drago esala fuoco in un cono di 9 metri. Ogni
-creatura nell’area deve effettuare un tiro salvezza di Destrezza CD
+creatura nell’area deve effettuare un tiro salvezza di Destrezza DC
 17, subendo 55 (10d10) danni da fuoco se fallisce il tiro salvezza, o
 la metà di questi danni se lo riesce.
 Soffio Indebolente. Il drago esala del gas in un cono di 9 metri. Ogni
-creatura in quell’area deve riuscire un tiro salvezza di Forza CD 17 o
+creatura in quell’area deve riuscire un tiro salvezza di Forza DC 17 o
 avere svantaggio ai tiri di attacco basati sulla Forza, prove di Forza, e
 tiri salvezza di Forza per 1 minuto. Una creatura può ripetere il tiro
 salvezza al termine di ciascun suo turno, terminando l’effetto su di sé
@@ -3892,11 +3884,11 @@ Colpisce: 9 (1d10 + 4) danni perforanti.
 Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Infuocato. Il drago esala fuoco in un cono di 4,5 metri. Ogni
-creatura nell’area deve effettuare un tiro salvezza di Destrezza CD
+creatura nell’area deve effettuare un tiro salvezza di Destrezza DC
 13, subendo 22 (4d10) danni da fuoco se fallisce il tiro salvezza, o la
 metà di questi danni se lo riesce.
 Soffio Indebolente. Il drago esala del gas in un cono di 4,5 metri.
-Ogni creatura in quell’area deve riuscire un tiro salvezza di Forza CD
+Ogni creatura in quell’area deve riuscire un tiro salvezza di Forza DC
 13 o avere svantaggio ai tiri di attacco basati sulla Forza, prove di
 Forza, e tiri salvezza di Forza per 1 minuto. Una creatura può ripetere
 il tiro salvezza al termine di ciascun suo turno, terminando l’effetto
@@ -3936,7 +3928,7 @@ m, un bersaglio.
 Colpisce: 19 (2d10 + 8) danni perforanti.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 18 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 18 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
@@ -3945,11 +3937,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Infuocato. Il drago esala fuoco in una linea lunga 27 metri e
 larga 3 metri. Ogni creatura sulla linea deve effettuare un tiro
-salvezza di Destrezza CD 21, subendo 56 (16d6) danni da fuoco se
+salvezza di Destrezza DC 21, subendo 56 (16d6) danni da fuoco se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Soporifero. Il drago esala del gas soporifero in un cono di 27
 metri. Ogni creatura in quell’area deve riuscire un tiro salvezza di
-Costituzione CD 21 o cadere svenuta per 10 minuti. Questo effetto
+Costituzione DC 21 o cadere svenuta per 10 minuti. Questo effetto
 termina se la creatura svenuta subisce danni o qualcuno impiega
 un’azione per risvegliarla.
 Mutare Forma. Il drago può trasformarsi magicamente in un
@@ -3970,7 +3962,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 4,5 metri dal drago deve riuscire un tiro salvezza
-di Destrezza CD 22 o subire 15 (2d6 + 8) danni contundenti e
+di Destrezza DC 22 o subire 15 (2d6 + 8) danni contundenti e
 venir gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -4010,7 +4002,7 @@ un bersaglio.
 Colpisce: 17 (2d10 + 6) danni perforanti.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 16 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 16 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
@@ -4019,11 +4011,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Infuocato. Il drago esala fuoco in una linea lunga 18 metri e
 larga 1,5 metri. Ogni creatura sulla linea deve effettuare un tiro
-salvezza di Destrezza CD 18, subendo 45 (13d6) danni da fuoco se
+salvezza di Destrezza DC 18, subendo 45 (13d6) danni da fuoco se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Soporifero. Il drago esala del gas soporifero in un cono di 18
 metri. Ogni creatura in quell’area deve riuscire un tiro salvezza di
-Costituzione CD 18 o cadere svenuta per 10 minuti. Questo effetto
+Costituzione DC 18 o cadere svenuta per 10 minuti. Questo effetto
 termina se la creatura svenuta subisce danni o qualcuno impiega
 un’azione per risvegliarla.
 Azioni Leggendarie
@@ -4033,7 +4025,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 3 metri dal drago deve riuscire un tiro salvezza di
-Destrezza CD 19 o subire 13 (2d6 + 6) danni contundenti e venir
+Destrezza DC 19 o subire 13 (2d6 + 6) danni contundenti e venir
 gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -4071,11 +4063,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Infuocato. Il drago esala fuoco in una linea lunga 12 metri e
 larga 1,5 metri. Ogni creatura sulla linea deve effettuare un tiro
-salvezza di Destrezza CD 14, subendo 42 (12d6) danni da fuoco se
+salvezza di Destrezza DC 14, subendo 42 (12d6) danni da fuoco se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Soporifero. Il drago esala del gas soporifero in un cono di 9
 metri. Ogni creatura in quell’area deve riuscire un tiro salvezza di
-Costituzione CD 14 o cadere svenuta per 5 minuti. Questo effetto
+Costituzione DC 14 o cadere svenuta per 5 minuti. Questo effetto
 termina se la creatura svenuta subisce danni o qualcuno impiega
 un’azione per risvegliarla.
 Drago d’Ottone Cucciolo
@@ -4104,11 +4096,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Infuocato. Il drago esala fuoco in una linea lunga 6 metri e
 larga 1,5 metri. Ogni creatura sulla linea deve effettuare un tiro
-salvezza di Destrezza CD 11, subendo 14 (4d6) danni da fuoco se
+salvezza di Destrezza DC 11, subendo 14 (4d6) danni da fuoco se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Soffio Soporifero. Il drago esala del gas soporifero in un cono di 4,5
 metri. Ogni creatura in quell’area deve riuscire un tiro salvezza di
-Costituzione CD 11 o cadere svenuta per 1 minuto. Questo effetto
+Costituzione DC 11 o cadere svenuta per 1 minuto. Questo effetto
 termina se la creatura svenuta subisce danni o qualcuno impiega
 un’azione per risvegliarla.
 Drago di Rame Antico
@@ -4145,7 +4137,7 @@ m, un bersaglio.
 Colpisce: 19 (2d10 + 8) danni perforanti.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 19 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 19 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
@@ -4154,11 +4146,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Acido. Il drago esala acido in una linea lunga 27 metri e larga 3
 metri. Ogni creatura sulla linea deve effettuare un tiro salvezza di
-Destrezza CD 22, subendo 63 (14d8) danni da acido se fallisce il tiro
+Destrezza DC 22, subendo 63 (14d8) danni da acido se fallisce il tiro
 salvezza, o la metà di questi danni se lo riesce.
 Soffio Rallentante. Il drago esala del gas in un cono di 27 metri. Ogni
 creatura in quell’area deve riuscire un tiro salvezza di Costituzione
-CD 22. Se fallisce il tiro salvezza, la creatura non può usare la sua
+DC 22. Se fallisce il tiro salvezza, la creatura non può usare la sua
 reazione, ha la velocità dimezzata, e non può effettuare più di un
 attacco durante il suo turno. Inoltre, la creatura può usare un’azione o
 un’azione bonus, ma non entrambe. Questi effetti permangono 1
@@ -4182,7 +4174,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni
 creatura entro 4,5 metri dal drago deve riuscire un tiro salvezza
-di Destrezza CD 23 o subire 15 (2d6 + 8) danni contundenti e
+di Destrezza DC 23 o subire 15 (2d6 + 8) danni contundenti e
 venir gettato prono. Il drago può poi volare fino a metà della sua
 velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
@@ -4222,7 +4214,7 @@ un bersaglio.
 Colpisce: 17 (2d10 + 6) danni perforanti.
 Presenza Spaventosa. Ogni creatura scelta dal drago, che si trovi
 entro 36 metri da esso e consapevole della sua presenza, deve
-riuscire un tiro salvezza di Saggezza CD 16 o restare spaventata per
+riuscire un tiro salvezza di Saggezza DC 16 o restare spaventata per
 1 minuto. Una creatura può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se lo riesce. Se il tiro salvezza
 della creatura ha successo o l’effetto ha termine per essa, la creatura è
@@ -4231,11 +4223,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Acido. Il drago esala acido in una linea lunga 18 metri e larga
 1,5 metri. Ogni creatura sulla linea deve effettuare un tiro salvezza di
-Destrezza CD 18, subendo 54 (12d8) danni da acido se fallisce il tiro
+Destrezza DC 18, subendo 54 (12d8) danni da acido se fallisce il tiro
 salvezza, o la metà di questi danni se lo riesce.
 Soffio Rallentante. Il drago esala del gas in un cono di 18 metri. Ogni
 creatura in quell’area deve riuscire un tiro salvezza di Costituzione
-CD 18. Se fallisce il tiro salvezza, la creatura non può usare la sua
+DC 18. Se fallisce il tiro salvezza, la creatura non può usare la sua
 reazione, ha la velocità dimezzata, e non può effettuare più di un
 attacco durante il suo turno. Inoltre, la creatura può usare un’azione o
 un’azione bonus, ma non entrambe. Questi effetti permangono 1
@@ -4248,7 +4240,7 @@ al termine del turno di un’altra creatura. Il drago recupera le
 azioni leggendarie spese all’inizio del proprio turno.
 Attacco di Ala (Costa 2 Azioni). Il drago batte le ali. Ogni creatura
 entro 3 metri dal drago deve riuscire un tiro salvezza di Destrezza
-CD 19 o subire 13 (2d6 + 6) danni contundenti e venir gettato prono.
+DC 19 o subire 13 (2d6 + 6) danni contundenti e venir gettato prono.
 Il drago può poi volare fino a metà della sua velocità di volo.
 Attacco di Coda. Il drago effettua un attacco di coda.
 Individuare. Il drago effettua una prova di Saggezza (Percezione).
@@ -4282,11 +4274,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Acido. Il drago esala acido in una linea lunga 12 metri e larga
 1,5 metri. Ogni creatura sulla linea deve effettuare un tiro salvezza di
-Destrezza CD 14, subendo 40 (9d8) danni da acido se fallisce il tiro
+Destrezza DC 14, subendo 40 (9d8) danni da acido se fallisce il tiro
 salvezza, o la metà di questi danni se lo riesce.
 Soffio Rallentante. Il drago esala del gas in un cono di 9 metri. Ogni
 creatura in quell’area deve riuscire un tiro salvezza di Costituzione
-CD 14. Se fallisce il tiro salvezza, la creatura non può usare la sua
+DC 14. Se fallisce il tiro salvezza, la creatura non può usare la sua
 reazione, ha la velocità dimezzata, e non può effettuare più di un
 attacco durante il suo turno. Inoltre, la creatura può usare un’azione o
 un’azione bonus, ma non entrambe. Questi effetti permangono 1
@@ -4317,11 +4309,11 @@ Arma a Soffio (Ricarica 5-6). Il drago usa una delle seguenti armi
 a soffio:
 Soffio Acido. Il drago esala acido in una linea lunga 6 metri e larga
 1,5 metri. Ogni creatura sulla linea deve effettuare un tiro salvezza di
-Destrezza CD 11, subendo 18 (4d8) danni da acido se fallisce il tiro
+Destrezza DC 11, subendo 18 (4d8) danni da acido se fallisce il tiro
 salvezza, o la metà di questi danni se lo riesce.
 Soffio Rallentante. Il drago esala del gas in un cono di 4,5 metri.
 Ogni creatura in quell’area deve riuscire un tiro salvezza di
-Costituzione CD 11. Se fallisce il tiro salvezza, la creatura non può
+Costituzione DC 11. Se fallisce il tiro salvezza, la creatura non può
 usare la sua reazione, ha la velocità dimezzata, e non può effettuare
 più di un attacco durante il suo turno. Inoltre, la creatura può usare
 un’azione o un’azione bonus, ma non entrambe. Questi effetti
@@ -4350,7 +4342,7 @@ Discendenza Fatata. Il drider ha vantaggio ai tiri salvezza per
 non restare affascinato, e la magia non può far addormentare un
 drider.
 Incantesimi Innati. La caratteristica da incantatore innato del
-drider è la Saggezza (CD dei tiri salvezza 13). Il drider può
+drider è la Saggezza (DC dei tiri salvezza 13). Il drider può
 lanciare in maniera innata i seguenti incantesimi, senza bisogno
 di componenti materiali:
 A volontà: luci danzanti
@@ -4395,7 +4387,7 @@ entro 18 metri dal primo albero, ricomparendo in uno spazio non
 occupato entro 1,5 metri dal secondo albero. Entrambi gli alberi
 devono essere di taglia Grande o superiore.
 Incantesimi Innati. La caratteristica da incantatore innato della
-driade è il Carisma (CD 14 per i tiri salvezza degli incantesimi).
+driade è il Carisma (DC 14 per i tiri salvezza degli incantesimi).
 La driade può lanciare in maniera innata i seguenti incantesimi,
 senza aver bisogno di componenti materiali.
 A volontà: arte del druido
@@ -4413,7 +4405,7 @@ Colpisce: 2 (1d4) danni contundenti, o 8 (1d8 + 4) danni
 contundenti con bastone
 Fascino Fatato. La driade può prendere a bersaglio un umanoide o
 bestia entro 9 metri da lei e che possa vedere. Se il bersaglio può
-vedere la driade, deve riuscire un tiro salvezza di Saggezza CD 14 o
+vedere la driade, deve riuscire un tiro salvezza di Saggezza DC 14 o
 restare affascinato dalla magia. Le creature affascinate considerano la
 driade un’amica fidata da ascoltare e proteggere. Sebbene il bersaglio
 non sia sotto il controllo della driade, interpreterà le richieste o le
@@ -4505,10 +4497,10 @@ Schianto. Attacco con arma da mischia: +7 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 13 (2d8 + 4) danni contundenti.
 Sommergere (Ricarica 4-6). Ogni creatura nello spazio
-dell’elementale deve effettuare un tiro salvezza di Forza CD 15.
+dell’elementale deve effettuare un tiro salvezza di Forza DC 15.
 Se lo fallisce, il bersaglio subisce 13 (2d8 + 4) danni
 contundenti. Se è di taglia Grande o inferiore, il bersaglio è
-anche afferrato (CD 14 per fuggire). Fino al termine
+anche afferrato (DC 14 per fuggire). Fino al termine
 dell’afferrare, il bersaglio è intralciato e non può respirare a
 meno che non sia in grado di respirare acqua. Se il tiro salvezza
 riesce, il bersaglio viene spinto fuori dallo spazio
@@ -4518,7 +4510,7 @@ Medie o più piccole alla volta. All’inizio di ciascun turno
 dell’elementale, ogni bersaglio afferrato subisce 13 (2d8 + 4)
 danni contundenti. Una creatura entro 1,5 metri dall’elementale
 può trascinare fuori da esso una creatura o oggetto, impiegando
-un’azione per tentare di riuscire una prova di Forza CD 14.
+un’azione per tentare di riuscire una prova di Forza DC 14.
 SRD Italia 5a Edizione - Compendio dei Mostri
 Elementale dell’Aria
 Grande elementale, neutrale
@@ -4550,14 +4542,14 @@ Schianto. Attacco con arma da mischia: +8 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 14 (2d8 + 5) danni contundenti.
 Turbine (Ricarica 4-6). Ogni creatura nello spazio
-dell’elementale deve effettuare un tiro salvezza di Forza CD 13.
+dell’elementale deve effettuare un tiro salvezza di Forza DC 13.
 Se lo fallisce, il bersaglio subisce 15 (3d8 + 2) danni contundenti
 e viene scagliato a 6 metri di distanza dall’elementale in una
 direzione casuale e cadere prono. Se un bersaglio lanciato
 colpisce un oggetto, come un muro o il pavimento, subisce 3
 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato.
 Se il bersaglio viene lanciato contro un’altra creatura, quella
-creatura deve riuscire un tiro salvezza di Destrezza CD 13 o
+creatura deve riuscire un tiro salvezza di Destrezza DC 13 o
 subire lo stesso danno e cadere prona.
 Se il tiro salvezza riesce, il bersaglio subisce la metà del danno
 contundente e non viene scagliato via né cade prono.
@@ -4658,7 +4650,7 @@ Discendenza Fatata. Il drow ha vantaggio ai tiri salvezza contro
 l’essere affascinato, e la magia non può mettere a dormire i
 drow.
 Incantesimi Innati. La caratteristica da incantatore innato del
-drow è il Carisma (CD dei tiri salvezza 11). Il drow può lanciare
+drow è il Carisma (DC dei tiri salvezza 11). Il drow può lanciare
 questi incantesimi in maniera innata, senza bisogno di
 componenti:
 A volontà: luci danzanti
@@ -4673,7 +4665,7 @@ Colpisce: 5 (1d6 + 2) danni perforanti.
 Balestrino. Attacco con arma a Distanza: +4 a colpire, gittata
 9/36 m, un bersaglio.
 Colpisce: 5 (1d6 + 2) danni perforanti, e il bersaglio deve
-riuscire un tiro salvezza di Costituzione CD 13 o restare
+riuscire un tiro salvezza di Costituzione DC 13 o restare
 avvelenato per 1 ora. Se il tiro salvezza fallisce di 5 o più, il
 bersaglio è anche privo di sensi mentre resta avvelenato in questo
 modo. Il bersaglio si risveglia se subisce danni o un’altra
@@ -4712,14 +4704,14 @@ Morso. Attacco con arma da mischia: +4 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 6 (1d8 + 2) danni perforanti più 4 (1d8) danni da
 veleno. Il bersaglio deve riuscire un tiro salvezza di Costituzione
-CD 11 o restare avvelenato per 1 minuto. La creatura può
+DC 11 o restare avvelenato per 1 minuto. La creatura può
 ripetere il tiro salvezza al termine di ciascun suo turno,
 terminando l’effetto se riesce il tiro salvezza.
 Ragnatela (Ricarica 5-6). Attacco con arma a Distanza: +4 a
 colpire, gittata 9/18 m, una creatura di taglia Grande o minore.
 Colpisce: La creatura è intralciata dalla ragnatela. Con
 un’azione, la creatura intralciata può effettuare una prova di
-Forza CD 11, liberandosi dalla tela se la riesce. L’effetto termina
+Forza DC 11, liberandosi dalla tela se la riesce. L’effetto termina
 se la tela è distrutta. La tela ha CA 10, 5 punti ferita,
 vulnerabilità ai danni da fuoco, e immunità ai danni contundenti,
 da veleno e psichici.
@@ -4786,7 +4778,7 @@ Eterealità. Il fantasma entra nel Piano Etereo dal Piano Materiale, o vice
 versa. È visibile sul Piano Materiale mentre è nel Margine Etereo, e vice
 versa, ma non può interagire con nulla che si trovi sull’altro piano.
 Possessione (Ricarica 6). Un umanoide, entro 1,5 metri e visibile al
-fantasma, deve riuscire un tiro salvezza di Carisma CD 13 o venire
+fantasma, deve riuscire un tiro salvezza di Carisma DC 13 o venire
 posseduto dal fantasma; il fantasma poi scompare, e il bersaglio è inabile
 e perde il controllo del suo corpo. Il fantasma ora controlla il corpo ma
 non priva il bersaglio della sua consapevolezza. Il fantasma non può
@@ -4803,7 +4795,7 @@ corpo. Il bersaglio è immune alla Possessione di questo fantasma per 24 ore
 dopo aver riuscito il tiro salvezza o al termine della possessione.
 Viso Orripilante. Ogni creatura che non sia non morta, entro 18 metri
 dal fantasma e che lo possa vedere, deve riuscire un tiro salvezza di
-Saggezza CD 13 o essere spaventata per 1 minuto. Se il tiro salvezza
+Saggezza DC 13 o essere spaventata per 1 minuto. Se il tiro salvezza
 fallisce di 5 o più, il bersaglio invecchia anche di 1d4 x 10 anni. Un
 bersaglio spaventato può ripetere il tiro salvezza al termine di ciascun
 proprio turno, terminando l’effetto per sé, qualora riuscisse il tiro
@@ -4830,7 +4822,7 @@ Sfida 2 (450 PE)
 Gorgoglio. Finché la fauce è in grado di vedere una creatura e
 non è inabile, pronuncia frasi incoerenti. Ogni creatura che inizi
 il suo turno entro 6 metri dalla fauce e può udire il suo gorgoglio
-deve effettuare un tiro salvezza di Saggezza CD 10. Se lo
+deve effettuare un tiro salvezza di Saggezza DC 10. Se lo
 fallisce, la creatura non può effettuare reazioni fino all’inizio del
 suo prossimo turno e tira un d8 per determinare cosa farà durante
 il proprio turno. Da 1 a 4, la creatura non fa nulla. Con 5 o 6, la
@@ -4842,7 +4834,7 @@ portata o non fa nulla se non è in grado di effettuare un simile
 attacco.
 Terreno Aberrante. Il terreno in un raggio di 3 metri intorno alla
 fauce è considerato terreno difficile. Ogni creatura che inizi il
-suo turno in quell’area deve riuscire un tiro salvezza di Forza CD
+suo turno in quell’area deve riuscire un tiro salvezza di Forza DC
 10 o vedere la sua velocità ridotta a 0 fino all’inizio del suo turno
 successivo.
 Azioni
@@ -4851,14 +4843,14 @@ e, se può, uno Sputo Accecante.
 Morso. Attacco con arma da mischia: +2 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 17 (5d6) danni perforanti. Se il bersaglio è di taglia
-Media o inferiore, deve riuscire un tiro salvezza di Forza CD 10
+Media o inferiore, deve riuscire un tiro salvezza di Forza DC 10
 o venir gettato prono. Se il bersaglio viene ucciso da questo
 danno, viene assorbito dalla fauce.
 Sputo Accecante (Ricarica 5-6). La fauce sputa un globo
 chimico ad un punto visibile entro 4,5 metri da essa. Il globo
 esplode all’impatto in un lampo accecante di luce. Ogni creatura
 entro 1,5 metri dal lampo deve riuscire un tiro salvezza di
-Destrezza CD 13 o restare accecata fino al termine del prossimo
+Destrezza DC 13 o restare accecata fino al termine del prossimo
 turno della fauce.
 SRD Italia 5a Edizione - Compendio dei Mostri
 Funghi
@@ -4931,7 +4923,7 @@ Sfida 2 (450 PE)
 Consumare Vita. Con un’azione bonus, il fuoco fatuo può
 prendere a bersaglio una creatura che può vedere entro 1,5 metri
 da esso e che abbia 0 punti ferita e sia ancora in vita. Il bersaglio
-deve riuscire un tiro salvezza di Costituzione CD 10 contro
+deve riuscire un tiro salvezza di Costituzione DC 10 contro
 questa magia o morire. Se il bersaglio muore, il fuoco fatuo
 recupera 10 (3d6) punti ferita.
 Effimero. Il fuoco fatuo non può indossare né trasportare nulla.
@@ -4980,7 +4972,7 @@ immunità ai danni psichici e da veleno). Distruggere un viticcio
 non infligge danni al fustigatore, che può produrre un viticcio di
 rimpiazzo nel suo prossimo turno. Un viticcio può essere anche
 rotto se una creatura effettua un’azione e riesce una prova di
-Forza CD 15 contro di esso.
+Forza DC 15 contro di esso.
 Azioni
 Multiattacco. Il fustigatore può effettuare quattro attacchi con i
 suoi viticci, usare avvolgere e effettuare un attacco con il morso.
@@ -4989,7 +4981,7 @@ m, un bersaglio.
 Colpisce: 22 (4d8 + 4) danni perforanti.
 Viticcio. Attacco con arma da mischia: +7 a colpire, portata 15
 m, una creatura.
-Colpisce: Il bersaglio è afferrato (CD 15 per fuggire). Fino al
+Colpisce: Il bersaglio è afferrato (DC 15 per fuggire). Fino al
 termine dell’afferrare, il bersaglio è intralciato e ha svantaggio
 alle prove di Forza e ai tiri salvezza di Forza, mentre il
 fustigatore non può usare lo stesso viticcio contro un altro
@@ -5049,7 +5041,7 @@ Decesso Elementale. Se il djinni muore, il suo corpo si
 disintegra in una brezza calda, lasciando dietro di sé solo
 l’equipaggiamento che il djinni stava indossando o trasportando.
 Incantesimi Innati. La caratteristica da incantatore innato del
-djinni è il Carisma (CD dei tiri salvezza degli incantesimi 17, +9
+djinni è il Carisma (DC dei tiri salvezza degli incantesimi 17, +9
 a colpire con attacchi da incantesimo). Può lanciare in maniera
 innata i seguenti incantesimi, senza bisogno di componenti
 materiali:
@@ -5071,14 +5063,14 @@ raggio e alto 9 metri si forma magicamente in un punto visibile al
 djinni entro 36 metri da esso. Il turbine resta finché il djinni
 mantiene la concentrazione (come se si stesse concentrando su di
 un incantesimo). Qualsiasi creatura salvo il djinni che entri nel
-turbine deve riuscire un tiro salvezza di Forza CD 18 o restare
+turbine deve riuscire un tiro salvezza di Forza DC 18 o restare
 intralciata da esso. Il djinni può muovere il turbine di massimo
 18 metri con un’azione, e le creature intralciate dal turbine si
 muovono con esso. Il turbine termina se il djinni lo perde di
 vista.
 Una creatura può usare la sua azione per liberare una creatura
 intralciata dal turbine, compresa se stessa, riuscendo una prova di
-Forza CD 18. Se la prova riesce, la creatura non è più intralciata
+Forza DC 18. Se la prova riesce, la creatura non è più intralciata
 e si sposta nello spazio più vicino all’esterno del turbine.
 Efreeti
 Grande elementale, legale malvagio
@@ -5101,7 +5093,7 @@ disintegra in un lampo di fuoco e uno sbuffo di fumo, lasciando
 dietro di sé solo l’equipaggiamento che l’efreeti stava indossando
 o trasportando.
 Incantesimi Innati. La caratteristica da incantatore innato
-dell’efreeti è il Carisma (CD dei tiri salvezza degli incantesimi
+dell’efreeti è il Carisma (DC dei tiri salvezza degli incantesimi
 15, +7 a colpire con attacchi da incantesimo). Può lanciare in
 maniera innata i seguenti incantesimi, senza bisogno di
 componenti materiali:
@@ -5139,7 +5131,7 @@ Sensi scurovisione 18 m, Percezione passiva 10
 Linguaggi Comune
 Sfida 2 (450 PE)
 Fetore. Qualsiasi creatura che inizi il suo turno entro 1,5 metri dal
-ghast deve riuscire un tiro salvezza di Costituzione CD 10 o restare
+ghast deve riuscire un tiro salvezza di Costituzione DC 10 o restare
 avvelenata fino all’inizio del suo prossimo turno. Se riesce il tiro
 salvezza, la creatura è immune al Fetore del ghast per le successive
 24 ore.
@@ -5151,7 +5143,7 @@ Artigli. Attacco con arma da mischia: +5 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 10 (2d6 + 3) danni taglienti. Se il bersaglio è una
 creatura, diversa da un non morto, deve riuscire un tiro salvezza
-di Costituzione CD 10 o restare paralizzata per 1 minuto. Il
+di Costituzione DC 10 o restare paralizzata per 1 minuto. Il
 bersaglio può ripetere il tiro salvezza al termine di ciascun suo
 turno, terminando l’effetto se riesce il tiro salvezza.
 Morso. Attacco con arma da mischia: +3 a colpire, portata 1,5
@@ -5178,7 +5170,7 @@ Artigli. Attacco con arma da mischia: +4 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 7 (2d4 + 2) danni taglienti. Se il bersaglio è una
 creatura, diversa da un elfo o un non morto, deve riuscire un tiro
-salvezza di Costituzione CD 10 o restare paralizzata per 1
+salvezza di Costituzione DC 10 o restare paralizzata per 1
 minuto. Il bersaglio può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto se riesce il tiro salvezza.
 Morso. Attacco con arma da mischia: +2 a colpire, portata 1,5
@@ -5318,11 +5310,11 @@ Colpisce: 19 (3d8 + 6) danni contundenti.
 Sasso. Attacco con arma a Distanza: +9 a colpire, gittata 18/72
 m, un bersaglio.
 Colpisce: 28 (4d10 + 6) danni contundenti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Forza CD 17 o cadere
+creatura, deve riuscire un tiro salvezza di Forza DC 17 o cadere
 prona.
 Reazioni
 Afferrare Sassi. Se un sasso o un simile oggetto viene scagliato al
-gigante, il gigante può, riuscendo un tiro salvezza di Destrezza CD
+gigante, il gigante può, riuscendo un tiro salvezza di Destrezza DC
 10, afferrare il proiettile e non subire danni contundenti da esso.
 Gigante delle Tempeste
 Enorme gigante, caotico buono
@@ -5345,7 +5337,7 @@ Linguaggi Comune, Gigante
 Sfida 13 (10.000 PE)
 Anfibio. Il gigante può respirare aria e acqua.
 Incantesimi Innati. La caratteristica da incantatore del gigante è
-il Carisma (CD dei tiri salvezza degli incantesimi 17). Il gigante
+il Carisma (DC dei tiri salvezza degli incantesimi 17). Il gigante
 può lanciare questi incantesimi in maniera innata, senza bisogno
 di componenti materiali:
 A volontà: caduta controllata, individuazione del magico,
@@ -5363,7 +5355,7 @@ Colpisce: 35 (4d12 + 9) danni contundenti.
 Colpo Fulminante (Ricarica 5-6). Il gigante scaglia una folgore
 magica ad un punto visibile entro 150 metri da sé. Ogni creatura
 entro 3 metri da quel punto deve effettuare un tiro salvezza di
-Destrezza CD 17, subendo 54 (12d8) danni da fulmine se lo
+Destrezza DC 17, subendo 54 (12d8) danni da fulmine se lo
 fallisce, o la metà se lo supera.
 SRD Italia 5a Edizione - Compendio dei Mostri
 Gnoll
@@ -5418,7 +5410,7 @@ Camuffamento di Pietra. Lo gnomo ha vantaggio alle prove di
 Destrezza (Furtività) effettuate per nascondersi su terreni
 rocciosi.
 Incantesimi Innati. La caratteristica da incantatore innato dello
-gnomo è l’Intelligenza (CD dei tiri salvezza 11). Lo gnomo può
+gnomo è l’Intelligenza (DC dei tiri salvezza 11). Lo gnomo può
 lanciare questi incantesimi in maniera innata, senza bisogno di
 componenti:
 A volontà: anti-individuazione (personale)
@@ -5430,7 +5422,7 @@ Colpisce: 6 (1d8 + 2) danni perforanti.
 Dardo Avvelenato. Attacco con arma a Distanza: +4 a colpire,
 gittata 9/36 m, un bersaglio.
 Colpisce: 4 (1d4 + 2) danni perforanti, e il bersaglio deve
-riuscire un tiro salvezza di Costituzione CD 12 o restare
+riuscire un tiro salvezza di Costituzione DC 12 o restare
 avvelenato per 1 minuto. Il bersaglio può ripetere il tiro salvezza
 al termine di ciascun suo turno, terminando l’effetto su di sé in
 caso di successo.
@@ -5478,7 +5470,7 @@ Multiattacco. Il golem effettua due attacchi di schianto.
 Schianto. Attacco con arma da mischia: +8 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 16 (2d10 + 5) danni contundenti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Costituzione CD 15 o
+creatura, deve riuscire un tiro salvezza di Costituzione DC 15 o
 vedere i suoi punti ferita massimi ridotti di un ammontare pari al
 danno subito. Il bersaglio muore se l’attacco riduce i suoi punti
 ferita massimi a 0. La riduzione resta finché non viene rimossa
@@ -5573,7 +5565,7 @@ un bersaglio.
 Colpisce: 23 (3d10 + 7) danni taglienti.
 Soffio Velenoso (Ricarica 6). Il golem esala un gas velenoso in
 un cono di 4,5 metri. Ogni creatura in quell’area deve effettuare
-un tiro salvezza di Costituzione CD 19, subendo 45 (10d8) danni
+un tiro salvezza di Costituzione DC 19, subendo 45 (10d8) danni
 da veleno se fallisce il tiro salvezza, o la metà di questi danni se
 lo riesce.
 Golem di Pietra
@@ -5609,7 +5601,7 @@ Schianto. Attacco con arma da mischia: +10 a colpire, portata
 Colpisce: 19 (3d8 + 6) danni contundenti.
 Lentezza (Ricarica 5-6). Il golem prende a bersaglio una o più
 creature entro 3 metri da lui e che possa vedere. Ciascun
-bersaglio deve effettuare un tiro salvezza di Saggezza CD 17
+bersaglio deve effettuare un tiro salvezza di Saggezza DC 17
 contro questa magia. Se fallisce il tiro salvezza, il bersaglio non
 può usare reazioni, ha la velocità dimezzata, e durante il proprio
 turno non può effettuare più di un attacco. Inoltre, durante il
@@ -5636,7 +5628,7 @@ Sfida 5 (1.800 PE)
 Carica Travolgente. Se la gorgone si muove di almeno 6 metri in
 linea retta verso il bersaglio e lo colpisce con un attacco di incornata
 durante lo stesso turno, il bersaglio deve riuscire un tiro salvezza di
-Forza CD 16 o cadere prono. Se il bersaglio è prono, la gorgone può
+Forza DC 16 o cadere prono. Se il bersaglio è prono, la gorgone può
 effettuare un attacco di zoccoli contro di lui come azione bonus.
 Azioni
 Incornata. Attacco con arma da mischia: +8 a colpire, portata
@@ -5647,7 +5639,7 @@ m, un bersaglio.
 Colpisce: 16 (2d10 + 5) danni contundenti.
 Soffio Pietrificante (Ricarica 5-6). La gorgone esala un gas
 pietrificante in un cono di 9 metri. Ogni creatura in quell’area
-deve riuscire un tiro salvezza di Costituzione CD 13. Se il tiro
+deve riuscire un tiro salvezza di Costituzione DC 13. Se il tiro
 salvezza fallisce, il bersaglio inizia a trasformarsi in pietra ed è
 intralciato. Il bersaglio intralciato deve ripetere il tiro salvezza al
 termine del suo prossimo turno. Se lo riesce, l’effetto sul
@@ -5928,7 +5920,7 @@ kraken, e subisce 42 (12d6) danni da acido all’inizio di ciascun
 turno del kraken.
 Se il kraken subisce 50 o più danni in un singolo turno da una
 creatura al suo interno, il kraken deve riuscire un tiro salvezza di
-Costituzione CD 25 o vomitare tutte le creature inghiottite, che
+Costituzione DC 25 o vomitare tutte le creature inghiottite, che
 cadono prone in uno spazio entro 3 metri dal kraken. Se il kraken
 muore, una creatura inghiottita non risulta più intralciata da esso
 e può fuggire dal cadavere usando 4,5 metri di movimento,
@@ -5936,7 +5928,7 @@ uscendo prona.
 Tentacolo. Attacco con arma da mischia: +17 a colpire, portata 9
 m, un bersaglio.
 Colpisce: 20 (3d6 + 10) danni contundenti, e il bersaglio è
-afferrato (CD 18 per fuggire). Fino al termine dell’afferrare, il
+afferrato (DC 18 per fuggire). Fino al termine dell’afferrare, il
 bersaglio è intralciato. Il kraken ha dieci tentacoli, ciascuno dei
 quali può afferrare un bersaglio.
 Fiondare. Un oggetto impugnato o una creatura afferrata dal
@@ -5945,11 +5937,11 @@ una direzione casuale e gettata prona. Se il bersaglio lanciato
 colpisce una superficie solida, subisce 3 (1d6) danni contundenti
 per ogni 3 metri percorsi. Se il bersaglio viene lanciato contro
 un’altra creatura, quella creatura deve riuscire un tiro salvezza di
-Destrezza CD 18 o subire lo stesso danno e cadere prona.
+Destrezza DC 18 o subire lo stesso danno e cadere prona.
 Tempesta di Fulmini. Il kraken crea magicamente tre saette di
 energia, ciascuna delle quali può colpire un bersaglio entro 36
 metri e che il kraken possa vedere. Il bersaglio deve effettuare un
-tiro salvezza di Destrezza CD 23, e subire 22 (4d10) danni da
+tiro salvezza di Destrezza DC 23, e subire 22 (4d10) danni da
 fulmine se fallisce il tiro salvezza, o la metà se lo riesce.
 Azioni Leggendarie
 Il kraken può effettuare 3 azioni leggendarie, scelte tra le opzioni
@@ -5963,7 +5955,7 @@ sott’acqua, il kraken espelle una nube di inchiostro con un raggio
 di 18 metri. La nube si propaga intorno agli angoli, e quell’area è
 oscurata pesantemente per tutte le creature tranne il kraken.
 Ciascuna creatura a parte il kraken che termini il suo turno
-nell’area deve riuscire un tiro salvezza di Costituzione CD 23,
+nell’area deve riuscire un tiro salvezza di Costituzione DC 23,
 subendo 16 (3d10) danni da veleno se fallisce il tiro salvezza, o
 la metà se lo riesce. Una forte corrente disperde la nube, che
 altrimenti svanisce al termine del prossimo turno del kraken.
@@ -5986,7 +5978,7 @@ Sensi scurovisione 18 m, Percezione passiva 12
 Linguaggi Abissale, Comune
 Sfida 4 (1.100 PE)
 Incantesimi Innati. La caratteristica da incantatore innato della
-lamia è il Carisma (CD dei tiri salvezza 13). La lamia può
+lamia è il Carisma (DC dei tiri salvezza 13). La lamia può
 lanciare in maniera innata i seguenti incantesimi, senza bisogno
 di componenti materiali:
 A volontà: camuffare sé stesso (qualsiasi forma umanoide),
@@ -6029,7 +6021,7 @@ Sensi visione del vero 36 m, Percezione passiva 19
 Linguaggi Comune più altre cinque lingue
 Sfida 21 (33.000 PE)
 Incantesimi. Il lich è un incantatore di 18° livello. La sua
-caratteristica da incantatore è l’Intelligenza (CD dei tiri salvezza
+caratteristica da incantatore è l’Intelligenza (DC dei tiri salvezza
 degli incantesimi 20, +3 a colpire con attacchi da incantesimo). Il
 lich ha preparati i seguenti incantesimi da mago:
 Trucchetti (a volontà): mano magica, prestidigitazione, raggio
@@ -6076,7 +6068,7 @@ Azioni
 Tocco Paralizzante. Attacco con incantesimo in mischia: +12 a
 colpire, portata 1,5 m, una creatura.
 Colpisce: 10 (3d6) danni da freddo. Il bersaglio deve riuscire un
-tiro salvezza di Costituzione CD 18 o restare paralizzato per 1
+tiro salvezza di Costituzione DC 18 o restare paralizzato per 1
 minuto. Il bersaglio può ripetere il tiro salvezza al termine di
 ciascun suo turno, terminando l’effetto su di sé in caso di
 successo.
@@ -6087,12 +6079,12 @@ al termine del turno di un’altra creatura. Il lich recupera le azioni
 leggendarie spese all’inizio del proprio turno.
 Distruggere Vita (Costa 3 Azioni). Ogni creatura ad eccezione
 dei non morti entro 6 metri dal lich deve effettuare un tiro
-salvezza di Costituzione CD 18 contro questa magia, subendo 21
+salvezza di Costituzione DC 18 contro questa magia, subendo 21
 (6d6) danni necrotici se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce.
 Sguardo Spaventoso (Costa 2 Azioni). Il lich fissa il suo sguardo
 su di una creatura visibile entro 3 metri da esso. Il bersaglio deve
-riuscire un tiro salvezza di Saggezza CD 18 contro questa magia
+riuscire un tiro salvezza di Saggezza DC 18 contro questa magia
 o restare spaventato per 1 minuto. Il bersaglio spaventato può
 ripetere il tiro salvezza al termine di ciascun suo turno,
 terminando l’effetto su di sé in caso di successo. Se il tiro
@@ -6159,7 +6151,7 @@ mannaro si muove in linea retta di almeno 4,5 metri verso un
 bersaglio e poi lo colpisce con le zanne durante lo stesso turno, il
 bersaglio subisce 7 (2d6) danni taglienti aggiuntivi. Se il
 bersaglio è una creatura, deve riuscire un tiro salvezza di Forza
-CD 13 o cadere prono.
+DC 13 o cadere prono.
 Implacabile (Ricarica dopo un Riposo Breve o Lungo). Se il
 cinghiale mannaro subisce 14 danni o meno che lo ridurrebbero a
 0 punti ferita, scende invece a 1 punto ferita.
@@ -6179,7 +6171,7 @@ Colpisce: 10 (2d6 + 3) danni contundenti.
 Zanne (Soltanto in Forma di Cinghiale o Ibrida). Attacco con
 arma da mischia: +5 a colpire, portata 1,5 m, un bersaglio.
 Colpisce: 10 (2d6 + 3) danni taglienti. Se il bersaglio è un
-umanoide, deve riuscire un tiro salvezza di Costituzione CD 12 o
+umanoide, deve riuscire un tiro salvezza di Costituzione DC 12 o
 venire maledetto dalla licantropia del cinghiale mannaro.
 Lupo Mannaro
 Media umanoide (umano, mutaforma), caotico malvagio
@@ -6222,7 +6214,7 @@ perforanti se usata con due mani in un attacco di mischia.
 Morso (Soltanto in Forma di Lupo o Ibrida). Attacco con arma
 da mischia: +4 a colpire, portata 1,5 m, un bersaglio.
 Colpisce: 6 (1d8 + 2) danni perforanti. Se il bersaglio è un
-umanoide, deve riuscire un tiro salvezza di Costituzione CD 12 o
+umanoide, deve riuscire un tiro salvezza di Costituzione DC 12 o
 venir maledetto dalla licantropia del lupo mannaro.
 Orso Mannaro
 Media umanoide (umano, mutaforma), neutrale buono
@@ -6264,7 +6256,7 @@ Colpisce: 10 (1d12 + 4) danni taglienti.
 Morso (Soltanto in Forma di Orso o Ibrida). Attacco con arma
 da mischia: +7 a colpire, portata 1,5 m, un bersaglio.
 Colpisce: 15 (2d10 + 4) danni perforanti. Se il bersaglio è un
-umanoide, deve riuscire un tiro salvezza di Costituzione CD 14 o
+umanoide, deve riuscire un tiro salvezza di Costituzione DC 14 o
 venir maledetto dalla licantropia dell’orso mannaro.
 Ratto Mannaro
 Media umanoide (umano, mutaforma), legale malvagio
@@ -6306,7 +6298,7 @@ Colpisce: 5 (1d6 + 2) danni perforanti.
 Morso (Soltanto in Forma di Ratto o Ibrida). Attacco con arma
 da mischia: +4 a colpire, portata 1,5 m, un bersaglio.
 Colpisce: 4 (1d4 + 2) danni perforanti. Se il bersaglio è un
-umanoide, deve riuscire un tiro salvezza di Costituzione CD 11 o
+umanoide, deve riuscire un tiro salvezza di Costituzione DC 11 o
 venir maledetto dalla licantropia del ratto mannaro.
 SRD Italia 5a Edizione - Compendio dei Mostri
 Tigre Mannara
@@ -6329,7 +6321,7 @@ Sfida 4 (1.1100 PE)
 Balzo. Se la tigre mannara si muove di almeno 4,5 metri in linea
 retta verso una creatura e la colpisce con un attacco di artiglio
 durante lo stesso turno, il bersaglio deve riuscire un tiro salvezza
-di Forza CD 14 o cadere prono. Se il bersaglio è prono, la tigre
+di Forza DC 14 o cadere prono. Se il bersaglio è prono, la tigre
 mannara può effettuare un attacco di morso contro di esso come
 azione bonus.
 Mutaforma. La tigre mannara può usare la sua azione per
@@ -6351,7 +6343,7 @@ Colpisce: 7 (1d8 + 3) danni taglienti.
 Morso (Soltanto in Forma di Tigre o Ibrida). Attacco con arma
 da mischia: +5 a colpire, portata 1,5 m, un bersaglio.
 Colpisce: 8 (1d10 + 3) danni perforanti. Se il bersaglio è un
-umanoide, deve riuscire un tiro salvezza di Costituzione CD 13 o
+umanoide, deve riuscire un tiro salvezza di Costituzione DC 13 o
 venir maledetto dalla licantropia della tigre mannara.
 Scimitarra (Soltanto in Forma Umanoide o Ibrida). Attacco
 con arma da mischia: +5 a colpire, portata 1,5 m, un bersaglio.
@@ -6429,7 +6421,7 @@ solo contro il bersaglio e ha vantaggio al tiro per colpire. Il
 manto assassino può staccarsi spendendo 1,5 metri di
 movimento. Una creatura, compreso il bersaglio, può effettuare
 la sua azione per staccare il manto assassino riuscendo una prova
-di Forza CD 16.
+di Forza DC 16.
 Coda. Attacco con arma da mischia: +6 a colpire, portata 3 m,
 una creatura.
 Colpisce: 7 (1d8 + 3) danni taglienti.
@@ -6451,7 +6443,7 @@ Se un attacco colpisce un duplicato, o se un duplicato fallisce un tiro
 salvezza contro un effetto che infligge danni, svanisce.
 Gemito. Ogni creatura entro 18 metri dal manto assassino, che possa
 udire il suo gemito e che non sia un’aberrazione, deve riuscire un tiro
-salvezza di Saggezza CD 13 o essere spaventata fino al termine del
+salvezza di Saggezza DC 13 o essere spaventata fino al termine del
 prossimo turno del manto assassino. Se il tiro salvezza della creatura
 riesce, la creatura è immune al gemito del manto assassino per le
 successive 24 ore.
@@ -6490,7 +6482,7 @@ per colpire. La velocità del mantoscuro diventa 0 e non può trarre
 beneficio da nessun bonus alla velocità, muovendosi assieme al
 bersaglio.
 Una creatura può staccare il mantoscuro con un’azione e riuscendo
-una prova di Forza CD 13. Durante il suo turno, il mantoscuro può
+una prova di Forza DC 13. Durante il suo turno, il mantoscuro può
 staccarsi dal bersaglio da solo usando 1,5 metri di movimento.
 Aura di Oscurità (1/Giorno). Un’oscurità magica con 4,5 metri
 di raggio si estende dal mantoscuro, muovendosi con esso, e
@@ -6521,7 +6513,7 @@ Sguardo Pietrificante. Se una creatura comincia il suo turno
 entro 9 metri da una medusa di cui possa vedere gli occhi, la
 medusa, qualora la non sia inabile e possa vedere a sua volta la
 creatura, può obbligarla ad effettuare un tiro salvezza di
-Costituzione CD 14. Se la creatura fallisce il tiro salvezza di 5 o
+Costituzione DC 14. Se la creatura fallisce il tiro salvezza di 5 o
 più, viene pietrificata all’istante, altrimenti inizia magicamente a
 trasformarsi in pietra ed è intralciata. La creatura intralciata deve
 ripetere il tiro salvezza al termine del suo prossimo turno. Se lo
@@ -6580,7 +6572,7 @@ Natura Elementale. Un mefito non ha bisogno di cibo, bevande
 o sonno.
 Scoppio Mortale. Quando il mefito muore, esplode in uno
 scoppio di frammenti di ghiaccio. Ogni creatura entro 1,5 metri
-da esso deve effettuare un tiro salvezza di Destrezza CD 10 o
+da esso deve effettuare un tiro salvezza di Destrezza DC 10 o
 subire 4 (1d8) danni taglienti in caso di fallimento, o la metà di
 questi danni in caso di successo.
 Azioni
@@ -6589,7 +6581,7 @@ m, una creatura.
 Colpisce: 3 (1d4 + 1) danni taglienti più 2 (1d4) danni da freddo.
 Soffio Gelido (Ricarica 6). Il mefito esala un cono di 4,5 metri di
 aria fredda. Ogni creatura nell’area deve effettuare un tiro
-salvezza di Destrezza CD 10, subendo 5 (2d4) danni da freddo in
+salvezza di Destrezza DC 10, subendo 5 (2d4) danni da freddo in
 caso di fallimento, o la metà di questi danni in caso di successo.
 Mefito di Magma
 Piccola elementale, neutrale malvagio
@@ -6612,14 +6604,14 @@ Sfida 1/2 (100 PE)
 Falso Aspetto. Mentre il mefito rimane immobile, è
 indistinguibile da un’ordinaria pozza di magma.
 Incantesimi Innati (1/Giorno). Il mefito può lanciare in maniera
-innata riscaldare metallo (CD del tiro salvezza dell’incantesimo
+innata riscaldare metallo (DC del tiro salvezza dell’incantesimo
 10), senza bisogno di componenti materiali. La sua caratteristica
 da incantatore innato è il Carisma.
 Natura Elementale. Un mefito non ha bisogno di cibo, bevande
 o sonno.
 Scoppio Mortale. Quando il mefito muore, esplode in uno
 scoppio di lava. Ogni creatura entro 1,5 metri da esso deve
-effettuare un tiro salvezza di Destrezza CD 11 o subire 7 (2d6)
+effettuare un tiro salvezza di Destrezza DC 11 o subire 7 (2d6)
 danni da fuoco in caso di fallimento, o la metà di questi danni in
 caso di successo.
 Azioni
@@ -6628,7 +6620,7 @@ m, una creatura.
 Colpisce: 3 (1d4 + 1) danni taglienti più 2 (1d4) danni da fuoco.
 Soffio Infuocato (Ricarica 6). Il mefito esala un cono di 4,5
 metri di fuoco. Ogni creatura nell’area deve effettuare un tiro
-salvezza di Destrezza CD 11, subendo 7 (2d6) danni da fuoco in
+salvezza di Destrezza DC 11, subendo 7 (2d6) danni da fuoco in
 caso di fallimento, o la metà di questi danni in caso di successo.
 SRD Italia 5a Edizione - Compendio dei Mostri
 Mefito di Polvere
@@ -6650,14 +6642,14 @@ Sensi scurovisione 18 m, Percezione passiva 12
 Linguaggi Auran, Terran
 Sfida 1/2 (100 PE)
 Incantesimi Innati (1/Giorno). Il mefito può eseguire in maniera
-innata sonno (CD del tiro salvezza dell’incantesimo 10), senza
+innata sonno (DC del tiro salvezza dell’incantesimo 10), senza
 bisogno di componenti materiali. La sua abilità da incantatore
 innato è il Carisma.
 Natura Elementale. Un mefito non ha bisogno di cibo, bevande
 o sonno.
 Scoppio Mortale. Quando il mefito muore, esplode in uno
 scoppio di polvere. Ogni creatura entro 1,5 metri da esso deve
-riuscire un tiro salvezza di Costituzione CD 10 o restare accecata
+riuscire un tiro salvezza di Costituzione DC 10 o restare accecata
 per 1 minuto. Una creatura accecata può ripetere il tiro salvezza
 durante ciascun suo turno, terminando l’effetto su di sé in caso di
 successo.
@@ -6667,7 +6659,7 @@ m, una creatura.
 Colpisce: 4 (1d4 + 2) danni taglienti.
 Soffio Accecante (Ricarica 6). Il mefito esala un cono di 4,5
 metri di polvere accecante. Ogni creatura nell’area deve riuscire
-un tiro salvezza di Destrezza CD 10 o restare accecata per 1
+un tiro salvezza di Destrezza DC 10 o restare accecata per 1
 minuto. Una creatura accecata può ripetere il tiro salvezza
 durante ciascun suo turno, terminando l’effetto su di sé in caso di
 successo.
@@ -6694,14 +6686,14 @@ Natura Elementale. Un mefito non ha bisogno di cibo, bevande
 o sonno.
 Scoppio Mortale. Quando il mefito muore, esplode in nube di
 vapore. Ogni creatura entro 1,5 metri da esso deve riuscire un
-tiro salvezza di Destrezza CD 10 o subire 4 (1d8) danni da fuoco.
+tiro salvezza di Destrezza DC 10 o subire 4 (1d8) danni da fuoco.
 Azioni
 Artigli. Attacco con arma da mischia: +2 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 2 (1d4) danni taglienti più 2 (1d4) danni da fuoco.
 Soffio Vaporoso (Ricarica 6). Il mefito esala un cono di 4,5
 metri di vapore caldo. Ogni creatura nell’area deve effettuare un
-tiro salvezza di Destrezza CD 10, subendo 4 (1d8) danni da
+tiro salvezza di Destrezza DC 10, subendo 4 (1d8) danni da
 fuoco in caso di fallimento, o la metà di questi danni in caso di
 successo.
 Megere
@@ -6722,7 +6714,7 @@ Sfida 2 (450 PE)
 Anfibio. La megera può respirare aria e acqua.
 Aspetto Orripilante. Qualsiasi umanoide che inizi il suo turno
 entro 9 metri dalla megera e ne può vedere la vera forma deve
-effettuare un tiro salvezza di Saggezza CD 11. Se fallisce il tiro
+effettuare un tiro salvezza di Saggezza DC 11. Se fallisce il tiro
 salvezza, la creatura resta spaventata per 1 minuto. Una creatura
 può ripetere il tiro salvezza al termine di ciascun suo turno, con
 svantaggio se la megera è in linea di visuale, e terminando
@@ -6749,11 +6741,11 @@ superare le ispezioni fisiche. Ad esempio, la megera potrebbe
 apparire come una creatura priva di artigli, ma una persona in
 contatto con le sue mani li avvertirebbe. Altrimenti, una creatura
 deve effettuare un’azione per ispezionare visivamente l’illusione
-e riuscire una prova di Intelligenza (Indagare) CD 16 per
+e riuscire una prova di Intelligenza (Indagare) DC 16 per
 comprendere che la megera si è camuffata.
 Occhiata Mortale. La megera prende a bersaglio una creatura
 spaventata visibile entro 9 metri da lei. Se il bersaglio può vedere
-la megera, deve riuscire un tiro salvezza di Saggezza CD 11
+la megera, deve riuscire un tiro salvezza di Saggezza DC 11
 contro questa magia o scendere a 0 punti ferita.
 Megera Notturna
 Media immondo, neutrale malvagio
@@ -6773,7 +6765,7 @@ Sensi scurovisione 36 m, Percezione passiva 16
 Linguaggi Abissale, Comune, Infernale, Primordiale
 Sfida 5 (1.800 PE)
 Incantesimi Innati. La caratteristica da incantatore innato della
-megera è il Carisma (CD 14 per i tiri salvezza degli incantesimi,
+megera è il Carisma (DC 14 per i tiri salvezza degli incantesimi,
 +6 a colpire con attacchi da incantesimo). La megera può
 lanciare in maniera innata i seguenti incantesimi, senza aver
 bisogno di componenti materiali.
@@ -6827,9 +6819,9 @@ Anfibio. La megera può respirare aria e acqua.
 Imitazione. La megera può imitare suoni animali e voci
 umanoidi. Una creatura che senta questi rumori può determinare
 che si tratti di un’imitazione riuscendo una prova di Saggezza
-(Intuizione) CD 14.
+(Intuizione) DC 14.
 Incantesimi Innati. La caratteristica da incantatore innato della
-megera è il Carisma (CD 12 per i tiri salvezza degli incantesimi).
+megera è il Carisma (DC 12 per i tiri salvezza degli incantesimi).
 La megera può lanciare in maniera innata i seguenti incantesimi,
 senza aver bisogno di componenti materiali.
 A volontà: illusione minore, luci danzanti, beffa maligna
@@ -6847,7 +6839,7 @@ superare le ispezioni fisiche. Ad esempio, la megera potrebbe
 apparire come una creatura dalla pelle liscia, ma il contatto
 rivelerebbe la sua pelle ruvida. Altrimenti, una creatura deve
 effettuare un’azione per ispezionare visivamente l’illusione e
-riuscire una prova di Intelligenza (Indagare) CD 20 per
+riuscire una prova di Intelligenza (Indagare) DC 20 per
 comprendere che si tratta di una megera camuffata.
 Passaggio Invisibile. La megera può rendersi invisibile finché
 non attacca o lancia un incantesimo, o finché non termina la
@@ -6916,13 +6908,13 @@ Le creature all’interno del cubo sono visibili ma godono di
 copertura totale.
 Una creatura entro 1,5 metri dal cubo può effettuare un’azione
 per tirare una creatura od oggetto fuori dal cubo. Farlo richiede la
-riuscita di una prova di Forza CD 12, e la creatura che effettua il
+riuscita di una prova di Forza DC 12, e la creatura che effettua il
 tentativo subisce 10 (3d6) danni da acido.
 Il cubo può contenere solo una creatura Grande o un massimo di
 quattro creature Medie o più piccole alla volta.
 Natura di Melma. Il cubo non necessita di dormire.
 Trasparente. Anche quando è in piena vista, è necessario riuscire
-una prova di Saggezza (Percezione) CD 15 per notare un cubo
+una prova di Saggezza (Percezione) DC 15 per notare un cubo
 che non si è mosso o non ha attaccato. Una creatura che cerchi di
 entrare nello spazio del cubo mentre è inconsapevole della sua
 presenza resta sorpresa dal cubo.
@@ -6933,7 +6925,7 @@ Colpisce: 10 (3d6) danni da acido.
 Sommergere. Il cubo si muove fino al massimo della sua velocità.
 Nel farlo, può entrare nello spazio di una creatura di taglia Grande o
 più piccola. Ogni volta che il cubo entra nello spazio di una creatura,
-la creatura deve effettuare un tiro salvezza di Destrezza CD 12.
+la creatura deve effettuare un tiro salvezza di Destrezza DC 12.
 Se il tiro salvezza riesce, la creatura può scegliere di essere spinta
 indietro o di lato di 1,5 metri. Una creatura che decida di non farsi
 spingere subisce le conseguenze di un tiro salvezza fallito.
@@ -6943,7 +6935,7 @@ sommersa non può respirare, è intralciata e subisce 21 (6d6) danni da
 acido all’inizio del turno del cubo. Quando il cubo si muove, la
 creatura sommersa si muove con esso.
 Una creatura sommersa può tentare di fuggire effettuando un’azione
-per compiere una prova di Forza CD 12. Se la riesce, la creatura
+per compiere una prova di Forza DC 12. Se la riesce, la creatura
 sfugge e ed entra nello spazio di sua scelta entro 1,5 metri dal cubo.
 Melma Grigia
 Media melma, disallineato
@@ -7099,7 +7091,7 @@ gittata 30/120 m, un bersaglio.
 Colpisce: 6 (1d10 + 1) danni perforanti.
 Soffio Infuocato (Ricarica 5-6). Il veterano esala fuoco in un
 cono di 4,5 metri. Ogni creatura in quell’area deve effettuare un
-tiro salvezza di Destrezza CD 15 e subire 24 (7d6) danni da
+tiro salvezza di Destrezza DC 15 e subire 24 (7d6) danni da
 fuoco se fallisce il tiro salvezza, o la metà di questi danni se lo
 riesce.
 Mimic
@@ -7122,7 +7114,7 @@ Sfida 2 (450 PE)
 Aderente (Solo Forma di Oggetto). Il mimic aderisce a qualsiasi
 cosa con cui entri in contatto. Una creatura di taglia Enorme o
 inferiore a cui il mimic aderisce è considerata afferrata da esso
-(CD 13 per fuggire). Le prove di caratteristica effettuare per
+(DC 13 per fuggire). Le prove di caratteristica effettuare per
 fuggire da questo afferrare hanno svantaggio.
 Afferratore. Il mimic ha vantaggio ai tiri per colpire contro una
 creatura da esso afferrata.
@@ -7162,7 +7154,7 @@ Carica. Se il minotauro si muove di almeno 3 metri diretto verso
 un bersaglio e lo colpisce con un attacco di incornata durante lo
 stesso turno, il bersaglio subisce 9 (2d8) danni perforanti
 aggiuntivi. Se il bersaglio è una creatura, deve riuscire un tiro
-salvezza di Forza CD 14 o venire spinto via fino a 3 metri di
+salvezza di Forza DC 14 o venire spinto via fino a 3 metri di
 distanza e cadere prono.
 Incauto. All’inizio del suo turno, il minotauro può ottenere
 vantaggio su tutti i tiri per colpire con armi da mischia effettuati
@@ -7208,7 +7200,7 @@ Pugno Putrefacente. Attacco con arma da mischia: +5 a colpire,
 portata 1,5 m, un bersaglio.
 Colpisce: 10 (2d6 + 3) danni contundenti più 10 (3d6) danni
 necrotici. Se il bersaglio è una creatura deve riuscire un tiro
-salvezza di Costituzione CD 12 o venire maledetto dalla
+salvezza di Costituzione DC 12 o venire maledetto dalla
 putrefazione della mummia. Il bersaglio maledetto non può
 recuperare punti ferita, e i suoi punti ferita massimi diminuiscono
 di 10 (3d6) ogni 24 ore di durata della maledizione. Se la
@@ -7219,7 +7211,7 @@ rimuovi maledizione o altra magia.
 Occhiata Temibile. La mummia prende a bersaglio una creatura
 che possa vedere e si trovi entro 18 metri da lei. Se il bersaglio
 può vedere la mummia, deve riuscire un tiro salvezza di
-Saggezza CD 11 contro questa magia o restare spaventato fino al
+Saggezza DC 11 contro questa magia o restare spaventato fino al
 termine del prossimo turno della mummia. Se il bersaglio fallisce
 il tiro salvezza di 5 o più, è anche paralizzato per la stessa durata.
 Un bersaglio che riesca il tiro salvezza è immune all’Occhiata
@@ -7264,7 +7256,7 @@ nascoste all’interno di una tomba nascosta.
 Il cuore della mummia sovrana ha CA 5, 25 punti ferita e
 immunità a tutti i danni eccetto il fuoco.
 Incantesimi. La mummia è un incantatore di 10° livello. La sua
-caratteristica da incantatore è la Saggezza (CD dei tiri salvezza
+caratteristica da incantatore è la Saggezza (DC dei tiri salvezza
 degli incantesimi 17, +9 a colpire con attacchi da incantesimo).
 La mummia ha preparati i seguenti incantesimi da chierico:
 Trucchetti (a volontà): fiamma sacra, taumaturgia
@@ -7289,7 +7281,7 @@ Pugno Putrefacente. Attacco con arma da mischia: +9 a colpire,
 portata 1,5 m, un bersaglio.
 Colpisce: 14 (3d6 + 4) danni contundenti più 21 (6d6) danni
 necrotici. Se il bersaglio è una creatura deve riuscire un tiro
-salvezza di Costituzione CD 16 o venire maledetto dalla
+salvezza di Costituzione DC 16 o venire maledetto dalla
 putrefazione della mummia. Il bersaglio maledetto non può
 recuperare punti ferita, e i suoi punti ferita massimi diminuiscono
 di 10 (3d6) ogni 24 ore di durata della maledizione. Se la
@@ -7300,7 +7292,7 @@ rimuovere maledizione o altra magia.
 Occhiata Temibile. La mummia prende a bersaglio una creatura
 che possa vedere e si trovi entro 18 metri da lei. Se il bersaglio
 può vedere la mummia, deve riuscire un tiro salvezza di
-Saggezza CD 16 contro questa magia o restare spaventato fino al
+Saggezza DC 16 contro questa magia o restare spaventato fino al
 termine del prossimo turno della mummia. Se il bersaglio fallisce
 il tiro salvezza di 5 o più, è anche paralizzato per la stessa durata.
 Un bersaglio che riesca il tiro salvezza è immune all’Occhiata
@@ -7323,12 +7315,12 @@ Parola Blasfema (Costa 2 Azioni). La mummia sovrana
 pronuncia una parola blasfema. Ciascuna creatura, esclusi i non
 morti, entro 3 metri dalla mummia sovrana e che possa udire
 questa frase magica deve riuscire un tiro salvezza di Costituzione
-CD 16 o restare stordita fino al termine del prossimo turno della
+DC 16 o restare stordita fino al termine del prossimo turno della
 mummia sovrana.
 Polvere Accecante. Polvere e sabbia accecanti turbinano
 magicamente intorno alla mummia sovrana. Ogni creatura entro
 1,5 metri dalla mummia sovrana deve riuscire un tiro salvezza di
-Costituzione CD 16 o restare accecata fino al termine del
+Costituzione DC 16 o restare accecata fino al termine del
 prossimo turno della creatura.
 Turbine di Sabbia (Costa 2 Azioni). La mummia sovrana può
 trasformarsi magicamente in un turbine di sabbia, muovendosi di
@@ -7358,7 +7350,7 @@ Sensi scurovisione 18 m, Percezione passiva 14
 Linguaggi Celestiale, Comune
 Sfida 10 (5.900 PE)
 Incantesimi. Il naga è un incantatore di 11° livello. La sua
-caratteristica da incantatore è la Saggezza (CD dei tiri salvezza
+caratteristica da incantatore è la Saggezza (DC dei tiri salvezza
 degli incantesimi 16, +8 a colpire con attacchi con incantesimo),
 e ha bisogno solo delle componenti verbali per lanciare i suoi
 incantesimi. Il naga prepara i seguenti incantesimi dalla lista
@@ -7377,13 +7369,13 @@ Azioni
 Morso. Attacco con arma da mischia: +8 a colpire, portata 3 m,
 una creatura.
 Colpisce: 8 (1d8 + 4) danni perforanti, e il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 15, subendo 45
+effettuare un tiro salvezza di Costituzione DC 15, subendo 45
 (10d8) danni da veleno se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce.
 Sputare Veleno. Attacco con arma a Distanza: +8 a colpire,
 gittata 4,5/9 m, una creatura.
 Colpisce: Il bersaglio deve effettuare un tiro salvezza di
-Costituzione CD 15, subendo 45 (10d8) danni da veleno se
+Costituzione DC 15, subendo 45 (10d8) danni da veleno se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Naga Spirituale
 Grande mostruosità, caotico malvagio
@@ -7404,7 +7396,7 @@ Sensi scurovisione 18 m, Percezione passiva 12
 Linguaggi Abissale, Comune
 Sfida 8 (3.900 PE)
 Incantesimi. Il naga è un incantatore di 10° livello. La sua abilità
-da incantatore è l’Intelligenza (CD dei tiri salvezza degli
+da incantatore è l’Intelligenza (DC dei tiri salvezza degli
 incantesimi 14, +6 a colpire con attacchi con incantesimo), e ha
 bisogno solo delle componenti verbali per eseguire i suoi
 incantesimi. Il naga prepara i seguenti incantesimi dalla lista
@@ -7424,7 +7416,7 @@ Azioni
 Morso. Attacco con arma da mischia: +7 a colpire, portata 3 m,
 una creatura.
 Colpisce: 7 (1d8 + 4) danni perforanti, e il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 13, subendo 31
+effettuare un tiro salvezza di Costituzione DC 13, subendo 31
 (7d8) danni da veleno se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce.
 Oggetti Animati
@@ -7451,7 +7443,7 @@ indistinguibile da una normale armatura.
 Suscettibilità all’Anti Magia. L’armatura è inabile se si trova
 nell’area di un campo anti-magia. Se è bersaglio di dissolvi
 magie, l’armatura deve riuscire un tiro salvezza di Costituzione
-contro la CD del tiro salvezza dell’incantesimo o restare svenuta
+contro la DC del tiro salvezza dell’incantesimo o restare svenuta
 per 1 minuto.
 Azioni
 Multiattacco. L’armatura effettua due attacchi da mischia.
@@ -7482,7 +7474,7 @@ volando, è indistinguibile da una normale spada.
 Suscettibilità all’Anti Magia. La spada è inabile se si trova
 nell’area di un campo anti-magia. Se è bersaglio di dissolvi
 magie, la spada deve riuscire un tiro salvezza di Costituzione
-contro la CD del tiro salvezza dell’incantesimo o restare svenuta
+contro la DC del tiro salvezza dell’incantesimo o restare svenuta
 per 1 minuto.
 Azioni
 Spada Lunga. Attacco con arma da mischia: +3 a colpire,
@@ -7512,7 +7504,7 @@ da un normale tappeto.
 Suscettibilità all’Anti Magia. Il tappeto è inabile mentre si trova
 nell’area di un campo anti-magia. Se è il bersaglio di dissolvi
 magie, il tappeto deve riuscire un tiro salvezza di Costituzione
-contro la CD del tiro salvezza dell’incantatore o cadere privo di
+contro la DC del tiro salvezza dell’incantatore o cadere privo di
 sensi per 1 minuto.
 Trasferimento di Danno. Mentre afferra una creatura, il tappeto
 subisce solo la metà dei danni che gli sono inferti, e la creatura
@@ -7520,7 +7512,7 @@ afferrata dal tappeto subisce l’altra metà.
 Azioni
 Soffocare. Attacco con arma da mischia: +5 a colpire, portata
 1,5 m, una creatura di taglia Media o inferiore.
-Colpisce: La creatura è afferrata (CD 13 per fuggire). Fino al
+Colpisce: La creatura è afferrata (DC 13 per fuggire). Fino al
 termine dell’afferrare, il bersaglio è intralciato, accecato e rischia
 di soffocare, ma il tappeto non può soffocare un altro bersaglio.
 Inoltre, all’inizio di ciascun turno del bersaglio, il bersaglio
@@ -7610,7 +7602,7 @@ Azioni
 Morso. Attacco con arma da mischia: +4 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 1 danno perforante, e il bersaglio deve riuscire un tiro
-salvezza di Costituzione CD 10 o restare avvelenato per 1
+salvezza di Costituzione DC 10 o restare avvelenato per 1
 minuto. Se il tiro salvezza viene fallito di 5 o più, il bersaglio
 resta invece avvelenato per 5 (1d10) minuti e mentre è
 avvelenato in questo modo è anche privo di sensi.
@@ -7634,7 +7626,7 @@ Linguaggi Comune, Gigante
 Sfida 7 (2.900 PE)
 Armi Magiche. Gli attacchi con armi dell’oni sono magici.
 Incantesimi Innati. La caratteristica da incantatore dell’oni è il
-Carisma (CD dei tiri salvezza degli incantesimi 13). L’oni può
+Carisma (DC dei tiri salvezza degli incantesimi 13). L’oni può
 lanciare questi incantesimi in maniera innata, senza bisogno di
 componenti materiali:
 A volontà: invisibilità, oscurità
@@ -7736,7 +7728,7 @@ due con i tentacoli.
 Morso. Attacco con arma da mischia: +6 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 12 (2d8 + 3) danni perforanti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Costituzione CD 15
+creatura, deve riuscire un tiro salvezza di Costituzione DC 15
 contro malattia o restare avvelenato finché la malattia non viene
 curata. Ogni 24 ore successive, il bersaglio deve ripetere il tiro
 salvezza, riducendo il suo massimo di punti ferita di 5 (1d10) se
@@ -7748,12 +7740,12 @@ Tentacolo. Attacco con arma da mischia: +6 a colpire, portata 3
 m, un bersaglio.
 Colpisce: 7 (1d8 + 3) danni contundenti più 4 (1d8) danni
 perforanti. Se il bersaglio è di taglia Media o inferiore, è
-afferrato (CD 13 per fuggire) e intralciato fino al termine
+afferrato (DC 13 per fuggire) e intralciato fino al termine
 dell’afferrare. L’otyugh ha due tentacoli, ciascun dei quali può
 afferrare un bersaglio diverso.
 Schianto di Tentacolo. L’otyugh schianta le creature afferrate
 dai suoi tentacoli, l’una contro l’altra o sul pavimento. Ogni
-creatura deve riuscire un tiro salvezza di Forza CD 14 o subire
+creatura deve riuscire un tiro salvezza di Forza DC 14 o subire
 10 (2d6 + 3) danni contundenti e restare stordita fino al termine
 del prossimo turno dell’otyugh. Se il tiro salvezza riesce, il
 bersaglio subisce la metà dei danni contundenti e non è stordito.
@@ -7841,7 +7833,7 @@ Colpisce: 4 (1d4 + 2) danni perforanti.
 Pungiglione. Attacco con arma da mischia: +4 a colpire, portata
 1,5 m, una creatura.
 Colpisce: 4 (1d4 + 2) danni perforanti, e il bersaglio deve
-riuscire un tiro salvezza di Costituzione CD 11 o restare
+riuscire un tiro salvezza di Costituzione DC 11 o restare
 avvelenato per 1 ora. Se il risultato del tiro salvezza è 6 o meno,
 il bersaglio cade privo di sensi per la stessa durata, o finché non
 subisce danni o un’altra creatura usa un’azione per risvegliarlo.
@@ -7869,7 +7861,7 @@ o all’individuazione tramite incantesimi di 6° livello o più basso
 a meno che non desideri esserne soggetto. Ha vantaggio ai tiri
 salvezza contro tutti gli altri incantesimi ed effetti magici.
 Incantesimi Innati. La caratteristica da incantatore del rakshasa
-è il Carisma (CD 18 per i tiri salvezza degli incantesimi, +10 a
+è il Carisma (DC 18 per i tiri salvezza degli incantesimi, +10 a
 colpire con attacchi con incantesimi). Il rakshasa può lanciare in
 maniera innata i seguenti incantesimi, senza aver bisogno di
 componenti materiali:
@@ -7915,7 +7907,7 @@ Azioni
 Morso. Attacco in mischia con arma: +11 a colpire, portata 3 m,
 un bersaglio.
 Colpisce: 40 (6d10 + 7) danni perforanti più 10 (3d6) danni da
-fuoco. Se il bersaglio è una creatura, è afferrato (CD 17 per
+fuoco. Se il bersaglio è una creatura, è afferrato (DC 17 per
 fuggire). Fino al termine dell’afferrare, il bersaglio è intralciato,
 e il remorhaz non può attaccare con il morso un altro bersaglio.
 Inghiottire. Il remorhaz effettua una attacco di morso contro un
@@ -7927,7 +7919,7 @@ altri effetti all’esterno del remorhaz, e subisce 21 (6d6) danni da
 acido all’inizio di ciascun turno del remorhaz.
 Se il remorhaz subisce 30 o più danni in un singolo turno da una
 creatura al suo interno, il remorhaz deve riuscire un tiro salvezza
-di Costituzione CD 15 al termine di quel turno o vomitare tutte le
+di Costituzione DC 15 al termine di quel turno o vomitare tutte le
 creature inghiottite, che cadono prone in uno spazio entro 3 metri
 dal remorhaz. Se il remorhaz muore, una creatura inghiottita non
 è più intralciata da esso e può uscire dal cadavere utilizzando 4,5
@@ -7964,7 +7956,7 @@ non magici che può vedere e si trovano entro 1,5 metri. Se
 l’oggetto non è indossato o trasportato, il contatto col
 rugginofago ne distrugge un cubo di 30 centimetri di spigolo. Se
 l’oggetto è indossato o trasportato da una creatura, la creatura
-può effettuare un tiro salvezza di Destrezza CD 11 per evitare il
+può effettuare un tiro salvezza di Destrezza DC 11 per evitare il
 contatto con il rugginofago.
 Se l’oggetto con cui entra in contatto è un’armatura o scudo di
 metallo indossati o trasportati, questi subiscono una penalità
@@ -8041,7 +8033,7 @@ lancia e uno con la coda.
 Coda. Attacco con arma da mischia: +7 a colpire, portata 3 m,
 un bersaglio.
 Colpisce: 11 (2d6 + 4) danni contundenti più 7 (2d6) danni da
-fuoco, e il bersaglio è afferrato (CD 14 per fuggire). Fino al
+fuoco, e il bersaglio è afferrato (DC 14 per fuggire). Fino al
 termine dell’afferrare, il bersaglio è intralciato, la salamandra
 può colpire automaticamente il bersaglio con la coda, e la
 salamandra non può effettuare attacchi di coda contro altri
@@ -8150,7 +8142,7 @@ Carica. Se lo scheletro di minotauro si muove di almeno 3 metri
 in linea retta verso il bersaglio e poi lo colpisce con un attacco di
 incornata durante lo stesso turno, il bersaglio subisce 9 (2d8)
 danni perforanti aggiuntivi. Se il bersaglio è una creatura, deve
-riuscire un tiro salvezza di Forza CD 14 o venire spinto di 3
+riuscire un tiro salvezza di Forza DC 14 o venire spinto di 3
 metri indietro e cadere prono.
 Natura Non Morta. Lo scheletro non necessita aria, cibo,
 bevande o sonno.
@@ -8189,7 +8181,7 @@ Colpisce: 7 (1d6 + 3) danni perforanti più 7 (2d6) danni da
 fuoco.
 Soffio Infuocato (Ricarica 5-6). Il segugio esala fuoco in un
 cono di 4,5 metri. Ogni creatura in quell’area deve effettuare un
-tiro salvezza di Destrezza CD 12, e subire 21 (6d6) danni da
+tiro salvezza di Destrezza DC 12, e subire 21 (6d6) danni da
 fuoco se fallisce il tiro salvezza, o la metà di questi danni se lo
 riesce.
 SRD Italia 5a Edizione - Compendio dei Mostri
@@ -8221,7 +8213,7 @@ qualsiasi incantesimo di divinazione che rifiuti. Le prove di
 Saggezza (Intuizione) per discernere le intenzioni o la sincerità
 della sfinge hanno svantaggio.
 Incantesimi. La sfinge è un incantatore di 12° livello. La sua
-caratteristica da incantatore è la Saggezza (CD del tiro salvezza
+caratteristica da incantatore è la Saggezza (DC del tiro salvezza
 degli incantesimi 18, +10 a colpire con attacchi con
 incantesimo). Non ha bisogno di componenti materiali per
 lanciare i suoi incantesimi. La sfinge tiene preparati i seguenti
@@ -8246,16 +8238,16 @@ volta che ruggisce prima di terminare un riposo lungo, il ruggito
 creatura entro 150 metri dalla sfinge e capace di udirne il ruggito
 deve effettuare un tiro salvezza.
 Primo Ruggito. Ogni creatura che fallisce un tiro salvezza di
-Saggezza CD 18 resta spaventata per 1 minuto. Una creatura
+Saggezza DC 18 resta spaventata per 1 minuto. Una creatura
 spaventata può ripetere il tiro salvezza al termine di ciascun suo
 turno, terminandone l’effetto per sé, se lo riesce.
 Secondo Ruggito. Ogni creatura che fallisce un tiro salvezza di
-Saggezza CD 18 resta assordata e spaventata per 1 minuto. Una
+Saggezza DC 18 resta assordata e spaventata per 1 minuto. Una
 creatura spaventata è paralizzata e può ripetere il tiro salvezza al
 termine di ciascun suo turno, terminandone l’effetto per sé, se lo
 riesce.
 Terzo Ruggito. Ogni creatura effettua un tiro salvezza di
-Costituzione CD 18. Chi fallisce il tiro salvezza subisce 44
+Costituzione DC 18. Chi fallisce il tiro salvezza subisce 44
 (8d10) danni da tuono ed è gettato prono. Se il tiro salvezza
 riesce, la creatura subisce la metà di questi danni e non viene
 gettata prona.
@@ -8298,7 +8290,7 @@ qualsiasi incantesimo di divinazione che rifiuti. Le prove di
 Saggezza (Intuizione) per discernere le intenzioni o la sincerità
 della sfinge hanno svantaggio.
 Incantesimi. La sfinge è un incantatore di 9° livello. La sua
-abilità da incantatore è l’Intelligenza (CD del tiro salvezza degli
+abilità da incantatore è l’Intelligenza (DC del tiro salvezza degli
 incantesimi 17, +9 a colpire con attacchi da incantesimo). Non ha
 bisogno di componenti materiali per eseguire i suoi incantesimi.
 La sfinge tiene preparati i seguenti incantesimi da mago:
@@ -8350,7 +8342,7 @@ Colpisce: 1 danno tagliente.
 Arco Corto. Attacco con arma a Distanza: +6 a colpire, gittata
 12 m/48 m, un bersaglio.
 Colpisce: 1 danno perforante. Se il bersaglio è una creatura, deve
-riuscire un tiro salvezza di Costituzione CD 10 o restare
+riuscire un tiro salvezza di Costituzione DC 10 o restare
 avvelenata per 1 minuto. Se il risultato di questo tiro salvezza è 5
 o meno, il bersaglio cade privo di sensi per la stessa durata, o
 finché subisce danni o un’altra creatura usa un’azione per
@@ -8361,7 +8353,7 @@ stia trasportando o indossando resta invisibile finché rimane in
 contatto con lo spiritello.
 Vista del Cuore. Lo spiritello entra in contatto con una creatura e
 ne apprende l’attuale stato emotivo. Se il bersaglio fallisce un
-tiro salvezza di Costituzione CD 10, lo spiritello apprende anche
+tiro salvezza di Costituzione DC 10, lo spiritello apprende anche
 l’allineamento della creatura. Celestiali, immondi e non morti
 falliscono automaticamente questo tiro salvezza.
 SRD Italia 5a Edizione - Compendio dei Mostri
@@ -8424,7 +8416,7 @@ Artiglio (Solo Forma Immonda). Attacco con arma da mischia:
 +5 a colpire, portata 1,5 m, un bersaglio.
 Colpisce: 6 (1d6 + 3) danni taglienti.
 Affascinare. Un umanoide visibile all’immondo entro 9 metri da
-esso deve riuscire un tiro salvezza di Saggezza CD 15 o restare
+esso deve riuscire un tiro salvezza di Saggezza DC 15 o restare
 magicamente affascinato per 1 giorno. Il bersaglio affascinato
 obbedisce ai comandi verbali o telepatici dell’immondo. Se il
 bersaglio subisce danni o riceve un comando suicida, può
@@ -8437,7 +8429,7 @@ Se ne affascina un altro, l’effetto sul bersaglio precedente
 termina.
 Bacio Risucchiante. L’immondo bacia una creatura affascinata o
 una creatura consenziente. Il bersaglio deve effettuare un tiro
-salvezza di Costituzione CD 15 contro questa magia, subendo 32
+salvezza di Costituzione DC 15 contro questa magia, subendo 32
 (5d10 + 5) danni psichici se lo fallisce, o la metà di questi danni
 se lo riesce. I punti ferita massimi del bersaglio vengono ridotti
 di un ammontare pari ai danni subiti. Questa riduzione perdura
@@ -8487,7 +8479,7 @@ Colpisce: 28 (4d8 + 10) danni taglienti.
 Coda. Attacco con arma da mischia: +19 a colpire, portata 6 m,
 un bersaglio.
 Colpisce: 24 (4d6 + 10) danni contundenti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Forza CD 20 o cadere
+creatura, deve riuscire un tiro salvezza di Forza DC 20 o cadere
 prona.
 Corna. Attacco con arma da mischia: +19 a colpire, portata 3 m,
 un bersaglio.
@@ -8495,7 +8487,7 @@ Colpisce: 32 (4d10 + 10) danni perforanti.
 Morso. Attacco con arma da mischia: +19 a colpire, portata 3 m,
 un bersaglio.
 Colpisce: 36 (4d12 + 10) danni perforanti. Se il bersaglio è una
-creatura, è afferrata (CD 20 per fuggire). Fino al termine
+creatura, è afferrata (DC 20 per fuggire). Fino al termine
 dell’afferrare, il bersaglio è intralciato, e il tarrasque non può
 usare il morso contro un altro bersaglio.
 Inghiottire. Il tarrasque effettua una attacco di morso contro un
@@ -8507,14 +8499,14 @@ tarrasque, e subisce 56 (16d6) danni da acido all’inizio di ciascun
 turno del tarrasque.
 Se il tarrasque subisce 60 o più danni in un singolo turno da una
 creatura al suo interno, il tarrasque deve riuscire un tiro salvezza
-di Costituzione CD 30 al termine di quel turno o vomitare tutte le
+di Costituzione DC 30 al termine di quel turno o vomitare tutte le
 creature inghiottite, che cadono prone in uno spazio entro 3 metri
 dal tarrasque. Se il tarrasque muore, una creatura inghiottita non
 è più intralciata da esso e può uscire dal cadavere utilizzando 9
 metri di movimento, uscendo prona.
 Presenza Spaventosa. Ogni creatura scelta dal tarrasque, che si
 trovi entro 36 metri da esso e consapevole della sua presenza,
-deve riuscire un tiro salvezza di Saggezza CD 17 o restare
+deve riuscire un tiro salvezza di Saggezza DC 17 o restare
 spaventata per 1 minuto. Una creatura può ripetere il tiro
 salvezza al termine di ciascun suo turno, con svantaggio se il
 tarrasque è in linea di visuale, terminando l’effetto per sé, se lo
@@ -8557,14 +8549,14 @@ Colpisce: 16 (2d8 + 7) danni taglienti.
 Coda. Attacco con arma da mischia: +13 a colpire, portata 4,5
 m, un bersaglio.
 Colpisce: 26 (3d12 + 7) danni contundenti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Forza CD 20 o venire
+creatura, deve riuscire un tiro salvezza di Forza DC 20 o venire
 spinta di 3 metri lontano dalla testuggine dragona e cadere prona.
 Morso. Attacco con arma da mischia: +13 a colpire, portata 4,5
 m, un bersaglio.
 Colpisce: 26 (3d12 + 7) danni perforanti.
 Soffio di Vapore (Ricarica 5-6). La testuggine dragona esala un
 vapore caldo in un cono di 18 metri. Ogni creatura in quell’area
-deve effettuare un tiro salvezza di Costituzione CD 18 e subire
+deve effettuare un tiro salvezza di Costituzione DC 18 e subire
 52 (15d6) danni da fuoco se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce. Trovarsi sott’acqua non dà resistenza
 contro questo tipo di danno.
@@ -8682,7 +8674,7 @@ accesa, l’uomo magma irradia luce intensa in un raggio di 3
 metri e luce fioca per ulteriori 3 metri.
 Scoppio Mortale. Quando l’uomo magma muore, esplode in uno
 scoppio di fuoco e magma. Ogni creatura entro 3 metri da esso
-deve effettuare un tiro salvezza di Destrezza CD 11, subendo 7
+deve effettuare un tiro salvezza di Destrezza DC 11, subendo 7
 (2d6) danni da fuoco se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce. Gli oggetti infiammabili che non siano
 indossati o trasportati e che si trovino nell’area, prendono fuoco.
@@ -8714,9 +8706,9 @@ Carica. Se l’unicorno si muove di almeno 6 metri in linea retta
 verso il bersaglio e lo colpisce con un attacco di corno durante lo
 stesso turno, il bersaglio subisce 9 (2d8) danni perforanti
 aggiuntivi. Se il bersaglio è una creatura, deve riuscire un tiro
-salvezza di Forza CD 15 o cadere prono.
+salvezza di Forza DC 15 o cadere prono.
 Incantesimi Innati. La caratteristica da incantatore innato
-dell’unicorno è il Carisma (CD 14 per i tiri salvezza degli
+dell’unicorno è il Carisma (DC 14 per i tiri salvezza degli
 incantesimi). L’unicorno può lanciare in maniera innata i
 seguenti incantesimi, senza bisogno di componenti:
 A volontà: arte del druido, individuazione del bene e male,
@@ -8835,7 +8827,7 @@ di essi può essere un attacco con morso.
 Colpo Disarmato (Solo in Forma di Vampiro). Attacco con
 arma da mischia: +9 a colpire, portata 1,5 m, una creatura.
 Colpisce: 8 (1d8 + 4) danni contundenti. Invece di infliggere
-danno, il vampiro può afferrare il bersaglio (CD per fuggire 18).
+danno, il vampiro può afferrare il bersaglio (DC per fuggire 18).
 Morso (Solo in Forma di Pipistrello o Vampiro). Attacco con
 arma da mischia: +9 a colpire, portata 1,5 m, una creatura
 consenziente o una creatura afferrata dal vampiro, inabile o
@@ -8851,7 +8843,7 @@ sepolto nel terreno si rianima la notte seguente come progenie
 vampirica sotto il controllo del vampiro.
 Affascinare. Il vampiro prende a bersaglio un umanoide entro 9
 metri che può vedere. Se il bersaglio può vedere il vampiro, deve
-effettuare un tiro salvezza di Saggezza CD 17 contro questa
+effettuare un tiro salvezza di Saggezza DC 17 contro questa
 magia o esserne affascinato. Il bersaglio affascinato considera il
 vampiro un amico fidato da ascoltare e proteggere. Sebbene il
 bersaglio non sia sotto il controllo del vampiro, prende le
@@ -8931,7 +8923,7 @@ ma solo uno di essi può essere un attacco con morso.
 Artigli. Attacco con arma da mischia: +6 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 8 (2d4 + 3) danni taglienti. Invece di infliggere danno,
-il vampiro può afferrare il bersaglio (CD per fuggire 13).
+il vampiro può afferrare il bersaglio (DC per fuggire 13).
 Morso. Attacco con arma da mischia: +6 a colpire, portata 1,5 m,
 una creatura afferrata dal vampiro, inabile o intralciata.
 Colpisce: 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. I
@@ -8965,14 +8957,14 @@ Morso. Attacco con arma da mischia: +9 a colpire, portata 3 m,
 un bersaglio.
 Colpisce: 22 (3d8 + 9) danni perforanti. Se il bersaglio è una
 creatura di taglia Grande, deve riuscire un tiro salvezza di
-Destrezza CD 19 o venire inghiottita dal verme. Mentre è
+Destrezza DC 19 o venire inghiottita dal verme. Mentre è
 inghiottita, la creatura è accecata e intralciata, ha copertura totale
 contro gli attacchi e altri effetti provenienti dall’esterno del
 verme, e subisce 21 (6d6) danni da acido all’inizio di ciascun
 turno del verme.
 Se il verme subisce 30 o più danni in un singolo turno da una
 creatura al suo interno, il verme deve riuscire un tiro salvezza di
-Costituzione CD 21 al termine del suo turno o vomitare tutte le
+Costituzione DC 21 al termine del suo turno o vomitare tutte le
 creature inghiottite, che cadono prone in uno spazio entro 3 metri
 dal verme. Se il verme muore, una creatura inghiottita non risulta
 più intralciata da esso e può fuggire dal cadavere usando 6 metri
@@ -8980,7 +8972,7 @@ di movimento, uscendo prona.
 Pungiglione. Attacco con arma da mischia: +9 a colpire, portata
 3 m, una creatura.
 Colpisce: 19 (3d6 + 9) danni perforanti, e il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 19, subendo 42
+effettuare un tiro salvezza di Costituzione DC 19, subendo 42
 (12d6) danni da veleno se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce.
 Viverna
@@ -9011,7 +9003,7 @@ Colpisce: 11 (2d6 + 4) danni perforanti.
 Pungiglione. Attacco con arma da mischia: +7 a colpire, portata
 3 m, una creatura.
 Colpisce: 11 (2d6 + 4) danni perforanti. Il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 15, e subire 24
+effettuare un tiro salvezza di Costituzione DC 15, e subire 24
 (7d6) danni da veleno se lo fallisce, o la metà di questi danni se
 lo riesce.
 SRD Italia 5a Edizione - Compendio dei Mostri
@@ -9046,7 +9038,7 @@ Vita al posto di uno dei suoi attacchi con la spada lungha.
 Risucchiare Vita. Attacco con arma da mischia: +4 a colpire,
 portata 1,5 m, una creatura.
 Colpisce: 5 (1d6 + 2) danni necrotici. Il bersaglio deve riuscire
-un tiro salvezza di Costituzione CD 13 o vedere i suoi punti
+un tiro salvezza di Costituzione DC 13 o vedere i suoi punti
 ferita massimi ridotti di un ammontare pari al danno subito.
 Questa riduzione perdura finché il bersaglio non ha terminato un
 riposo lungo. Il bersaglio muore se l’effetto riduce i suoi punti
@@ -9094,7 +9086,7 @@ Azioni
 Risucchiare Vita. Attacco con arma da mischia: +6 a colpire,
 portata 1,5 m, una creatura.
 Colpisce: 21 (4d8 + 3) danni necrotici. Il bersaglio deve riuscire
-un tiro salvezza di Costituzione CD 14 o vedere i suoi punti
+un tiro salvezza di Costituzione DC 14 o vedere i suoi punti
 ferita massimi ridotti di un ammontare pari al danno subito.
 Questa riduzione perdura finché il bersaglio non ha terminato un
 riposo lungo. Il bersaglio muore se l’effetto riduce i suoi punti
@@ -9163,7 +9155,7 @@ Natura Non Morta. Lo zombi non ha bisogno di aria, cibo,
 bevande o sonno.
 Tempra dei Non Morti. Se il danno riduce lo zombi a 0 punti
 ferita, lo zombi deve effettuare un tiro salvezza di Costituzione
-CD 5 + il danno subito, a meno che il danno non sia radiante o
+DC 5 + il danno subito, a meno che il danno non sia radiante o
 un colpo critico. Se riesce, lo zombi scende invece a 1 punto
 ferita.
 Azioni
@@ -9191,7 +9183,7 @@ Natura Non Morta. Lo zombi non ha bisogno di aria, cibo,
 bevande o sonno.
 Tempra dei Non Morti. Se il danno riduce lo zombi a 0 punti
 ferita, lo zombi deve effettuare un tiro salvezza di Costituzione
-CD 5 + il danno subito, a meno che il danno non sia radiante o
+DC 5 + il danno subito, a meno che il danno non sia radiante o
 un colpo critico. Se riesce, lo zombi scende invece a 1 punto
 ferita.
 Azioni
@@ -9246,7 +9238,7 @@ Carica. Se l’alce si muove di almeno 6 metri diretto verso il
 bersaglio e lo colpisce con un attacco di rostro durante lo stesso
 turno, il bersaglio subisce 7 (2d6) danni contundenti aggiuntivi.
 Se il bersaglio è una creatura, deve riuscire un tiro salvezza di
-Forza CD 13 o cadere prono.
+Forza DC 13 o cadere prono.
 Azioni
 Rostro. Attacco con Arma da Mischia: +5 a colpire, portata 1,5
 m, un bersaglio.
@@ -9274,7 +9266,7 @@ Carica. Se l’alce si muove di almeno 6 metri diretto verso il
 bersaglio e lo colpisce con un attacco di rostro durante lo stesso
 turno, il bersaglio subisce 7 (2d6) danni contundenti aggiuntivi.
 Se il bersaglio è una creatura, deve riuscire un tiro salvezza di
-Forza CD 14 o cadere prono.
+Forza DC 14 o cadere prono.
 Azioni
 Rostro. Attacco con Arma da Mischia: +6 a colpire, portata 3 m,
 un bersaglio.
@@ -9499,7 +9491,7 @@ Multiattacco. Il cane effettua due attacchi di morso.
 Morso. Attacco con Arma da Mischia: +4 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 5 (1d6 + 2) danni perforanti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Costituzione CD 12
+creatura, deve riuscire un tiro salvezza di Costituzione DC 12
 contro la malattia o restare avvelenato finché la malattia non
 viene curata. Dopo ogni 24 ore, la creatura deve ripetere il tiro
 salvezza, riducendo i suoi punti ferita massimi di 5 (1d10) in
@@ -9554,7 +9546,7 @@ Carica. Se il caprone si muove di almeno 6 metri diretto verso il
 bersaglio e colpisce con un attacco di rostro durante lo stesso
 turno, il bersaglio subisce 2 (1d4) danni contundenti aggiuntivi.
 Se il bersaglio è una creatura, deve riuscire un tiro salvezza di
-Forza CD 10 o cadere prona.
+Forza DC 10 o cadere prona.
 Piedi Saldi. Il caprone ha vantaggio ai tiri salvezza di Forza e
 Destrezza effettuati contro effetti che lo farebbero cadere prono.
 Azioni
@@ -9579,7 +9571,7 @@ Carica. Se il caprone si muove di almeno 6 metri diretto verso il
 bersaglio e colpisce con un attacco di rostro durante lo stesso
 turno, il bersaglio subisce 5 (2d4) danni contundenti aggiuntivi.
 Se il bersaglio è una creatura, deve riuscire un tiro salvezza di
-Forza CD 13 o cadere prona.
+Forza DC 13 o cadere prona.
 Piedi Saldi. Il caprone ha vantaggio ai tiri salvezza di Forza e
 Destrezza effettuati contro effetti che lo farebbero cadere prono.
 Azioni
@@ -9621,7 +9613,7 @@ Lingue -
 Sfida 1/2 (100 PE)
 Carica Travolgente. Se il cavallo si muove di almeno 6 metri diretto
 verso il bersaglio e lo colpisce con un attacco di zoccoli durante lo
-stesso turno, il bersaglio deve riuscire un tiro salvezza di Forza CD
+stesso turno, il bersaglio deve riuscire un tiro salvezza di Forza DC
 14 o cadere prono. Se il bersaglio è prono, il cavallo può effettuare
 un altro attacco di zoccoli contro di lui come azione bonus.
 Azioni
@@ -9681,7 +9673,7 @@ Carica. Se il cavallo marino si muove di almeno 6 metri diretto
 verso il bersaglio e colpisce con un attacco di rostro durante lo
 stesso turno, il bersaglio subisce 7 (2d6) danni contundenti
 aggiuntivi. Se il bersaglio è una creatura, deve riuscire un tiro
-salvezza di Forza CD 11 o cadere prona.
+salvezza di Forza DC 11 o cadere prona.
 Respirare Acqua. Il cavallo marino può respirare solo sottacqua.
 Azioni
 Rostro. Attacco con Arma da Mischia: +3 a colpire, portata 1,5
@@ -9705,7 +9697,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +4 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 4 (1d4 + 2) danni perforanti e il bersaglio deve riuscire
-un tiro salvezza di Costituzione CD 11 o subire 10 (3d6) danni
+un tiro salvezza di Costituzione DC 11 o subire 10 (3d6) danni
 da veleno. Se il danno da veleno riduce il bersaglio a 0 punti
 ferita, il bersaglio è stabile ma resta avvelenato per 1 ora, anche
 dopo aver recuperato i punti ferita, e mentre è avvelenato in
@@ -9746,7 +9738,7 @@ Carica. Se il cinghiale si muove di almeno 6 metri diretto verso
 il bersaglio e colpisce con un attacco di zanna durante lo stesso
 turno, il bersaglio subisce 3 (1d6) danni taglienti aggiuntivi. Se il
 bersaglio è una creatura, deve riuscire un tiro salvezza di Forza
-CD 11 o cadere prono.
+DC 11 o cadere prono.
 Implacabile (Ricarica dopo un Riposo Breve o Lungo). Se il
 cinghiale subisce 7 danni o meno che lo ridurrebbero a 0 punti
 ferita, scende invece a 1 punto ferita.
@@ -9772,7 +9764,7 @@ Carica. Se il cinghiale si muove di almeno 6 metri diretto verso
 il bersaglio e colpisce con un attacco di zanna durante lo stesso
 turno, il bersaglio subisce 7 (2d6) danni taglienti aggiuntivi. Se il
 bersaglio è una creatura, deve riuscire un tiro salvezza di Forza
-CD 13 o cadere prono.
+DC 13 o cadere prono.
 Implacabile (Ricarica dopo un Riposo Breve o Lungo). Se il
 cinghiale subisce 10 danni o meno che lo ridurrebbero a 0 punti
 ferita, scende invece a 1 punto ferita.
@@ -9802,7 +9794,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +4 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 7 (1d10 + 2) danni perforanti, e il bersaglio è afferrato
-(CD 12 per fuggire). Fino al termine dell’afferrare, il bersaglio è
+(DC 12 per fuggire). Fino al termine dell’afferrare, il bersaglio è
 intralciato, e il coccodrillo non può usare il morso contro un altro
 bersaglio.
 Coccodrillo Gigante
@@ -9828,12 +9820,12 @@ morso e uno con la coda.
 Coda. Attacco con Arma da Mischia: +8 a colpire, portata 3 m,
 un bersaglio non afferrato dal coccodrillo.
 Colpisce: 14 (2d8 + 5) danni contundenti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Forza CD 16 o cadere
+creatura, deve riuscire un tiro salvezza di Forza DC 16 o cadere
 prono.
 Morso. Attacco con Arma da Mischia: +8 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 21 (3d10 + 5) danni perforanti, e il bersaglio è
-afferrato (CD 16 per fuggire). Fino al termine dell’afferrare, il
+afferrato (DC 16 per fuggire). Fino al termine dell’afferrare, il
 bersaglio è intralciato, e il coccodrillo non può usare il morso
 contro un altro bersaglio.
 Corvo
@@ -9855,7 +9847,7 @@ Imitazione. Il corvo può imitare dei semplici suoni che ha udito,
 come il sussurro di una persona, il pianto di un bambino o il
 verso di un animale. Una creatura che ode il suono può
 identificarlo come imitazione riuscendo una prova di Saggezza
-(Intuizione) CD 10.
+(Intuizione) DC 10.
 Azioni
 Becco. Attacco con Arma da Mischia: +4 a colpire, portata 1,5
 m, un bersaglio.
@@ -9919,7 +9911,7 @@ Sfida 4 (1.000 PE)
 Carica Travolgente. Se l’elefante si muove di almeno 6 metri
 diretto verso una creatura e la colpisce con un attacco di
 incornata durante lo stesso turno, il bersaglio deve riuscire un
-tiro salvezza di Forza CD 12 o cadere prono. Se il bersaglio è
+tiro salvezza di Forza DC 12 o cadere prono. Se il bersaglio è
 prono, l’elefante può effettuare un attacco di pestone contro di
 lui come azione bonus.
 Azioni
@@ -10062,7 +10054,7 @@ Azioni
 Artiglio (Chela). Attacco con Arma da Mischia: +3 a colpire,
 portata 1,5 m, un bersaglio.
 Colpisce: 4 (1d6 + 1) danni contundenti e il bersaglio è afferrato
-(CD 11 per fuggire). Il granchio ha due chele, ciascuna delle
+(DC 11 per fuggire). Il granchio ha due chele, ciascuna delle
 quali può afferrare un solo bersaglio.
 Gufo
 Minuscola bestia, disallineato
@@ -10176,7 +10168,7 @@ Lingue -
 Sfida 1 (200 PE)
 Balzo. Se il leone si muove di almeno 6 metri diretto verso una
 creatura e la colpisce con un attacco di artiglio durante lo stesso
-turno, il bersaglio deve riuscire un tiro salvezza di Forza CD 13 o
+turno, il bersaglio deve riuscire un tiro salvezza di Forza DC 13 o
 cadere prono. Se il bersaglio è prono, il leone può effettuare un
 attacco di morso come azione bonus.
 Olfatto Affinato. Il leone ha vantaggio alle prove di Saggezza
@@ -10268,7 +10260,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +4 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 7 (2d4 + 2) danni perforanti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Forza CD 11 o cadere
+creatura, deve riuscire un tiro salvezza di Forza DC 11 o cadere
 prona.
 Dinolupo (Metalupo)
 Grande bestia, disallineato
@@ -10294,7 +10286,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +5 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 10 (2d6 + 3) danni perforanti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Forza CD 13 o cadere
+creatura, deve riuscire un tiro salvezza di Forza DC 13 o cadere
 prona.
 Lupo Invernale
 I lupi invernali abitano nelle regioni artiche e sono
@@ -10326,11 +10318,11 @@ Azioni
 Morso. Attacco con Arma da Mischia: +6 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 11 (2d6 + 4) danni perforanti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Forza CD 14 o cadere
+creatura, deve riuscire un tiro salvezza di Forza DC 14 o cadere
 prona.
 Soffio Gelido (Ricarica 5-6). Il lupo esala un’esplosione di vento
 gelido in un cono di 4,5 metri. Ogni creatura in quell’area deve
-effettuare un tiro salvezza di Destrezza CD 12, e subire 18 (4d8)
+effettuare un tiro salvezza di Destrezza DC 12, e subire 18 (4d8)
 danni da freddo se fallisce il tiro salvezza, o la metà di questi
 danni se lo riesce.
 Mammut
@@ -10352,7 +10344,7 @@ Sfida 6 (2.300 PE)
 Carica Travolgente. Se il mammut si muove di almeno 6 metri
 diretto verso una creatura e la colpisce con un attacco di
 incornata durante lo stesso turno, il bersaglio deve riuscire un
-tiro salvezza di Forza CD 18 o cadere prono. Se il bersaglio è 
+tiro salvezza di Forza DC 18 o cadere prono. Se il bersaglio è 
 SRD Italia 5a Edizione - Compendio dei Mostri
 prono, il mammut può effettuare un attacco di pestone contro di
 lui come azione bonus.
@@ -10386,7 +10378,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +3 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 4 (1d6 + 1) danni perforanti. Se il bersaglio è una creatura,
-deve riuscire un tiro salvezza di Forza CD 11 o cadere prono.
+deve riuscire un tiro salvezza di Forza DC 11 o cadere prono.
 Mulo
 Media bestia, disallineato
 FORZA 14 (+2)
@@ -10507,7 +10499,7 @@ Lingue -
 Sfida 1/4 (50 PE)
 Balzo. Se la pantera si muove di almeno 6 metri diretta verso una
 creatura e la colpisce con un attacco di artiglio durante lo stesso
-turno, il bersaglio deve riuscire un tiro salvezza di Forza CD 12 o
+turno, il bersaglio deve riuscire un tiro salvezza di Forza DC 12 o
 cadere prono. Se il bersaglio è prono, la pantera può effettuare un
 attacco di morso contro di esso come azione bonus.
 Olfatto Affinato. La pantera ha vantaggio alle prove di Saggezza
@@ -10543,7 +10535,7 @@ trattenere il fiato per 30 minuti.
 Azioni
 Tentacoli. Attacco con Arma da Mischia: +4 a colpire, portata
 4,5 m, un bersaglio.
-Colpisce: 1 danno contundente e il bersaglio è afferrato (CD 10
+Colpisce: 1 danno contundente e il bersaglio è afferrato (DC 10
 per fuggire). Fino al termine dell’afferrare, la piovra non può
 usare i suoi tentacoli contro un altro bersaglio.
 Nube di Inchiostro (Ricarica dopo un Riposo Breve o Lungo).
@@ -10577,7 +10569,7 @@ Azioni
 Tentacoli. Attacco con Arma da Mischia: +5 a colpire, portata
 4,5 m, un bersaglio.
 Colpisce: 10 (2d6 + 3) danni contundenti. Se il bersaglio è una
-creatura, è afferrata (CD 16 per fuggire). Fino al termine
+creatura, è afferrata (DC 16 per fuggire). Fino al termine
 dell’afferrare, il bersaglio è intralciato, e la piovra non può usare
 i suoi tentacoli contro un altro bersaglio.
 Nube di Inchiostro (Ricarica dopo un Riposo Breve o Lungo).
@@ -10676,7 +10668,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +4 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 1 danno perforante e il bersaglio deve riuscire un tiro
-salvezza di Costituzione CD 9 o subire 2 (1d4) danni da veleno.
+salvezza di Costituzione DC 9 o subire 2 (1d4) danni da veleno.
 SRD Italia 5a Edizione - Compendio dei Mostri
 Ragno Fase
 Il ragno fase possiede l’abilità magica di entrare ed
@@ -10707,7 +10699,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +4 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 7 (1d10 + 2) danni perforanti e il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 11, e subire 18
+effettuare un tiro salvezza di Costituzione DC 11, e subire 18
 (4d8) danni da veleno se fallisce il tiro salvezza, o la metà di
 questo danno se lo riesce. Se il danno da veleno riduce il
 bersaglio a 0 punti ferita, il bersaglio è stabile ma avvelenato per
@@ -10741,7 +10733,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +5 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 7 (1d8 + 3) danni perforanti e il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 11, e subire 9
+effettuare un tiro salvezza di Costituzione DC 11, e subire 9
 (2d8) danni da veleno se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce. Se il danno da veleno riduce il bersaglio
 a 0 punti ferita, il bersaglio è stabile ma avvelenato per 1 ora,
@@ -10751,7 +10743,7 @@ Ragnatela (Ricarica 5-6). Attacco con Arma a Gittata: +5 a
 colpire, gittata 9/18 m, una creatura.
 Colpisce: Il bersaglio è intralciato dalla ragnatela. Con
 un’azione, il bersaglio intralciato può effettuare una prova di
-Forza CD 12 e, in caso di successo, spezzare la tela. La ragnatela
+Forza DC 12 e, in caso di successo, spezzare la tela. La ragnatela
 può essere anche attaccata e distrutta (CA 10; pf 5; vulnerabilità
 al danno da fuoco; immunità ai danni contundenti, psichici e da
 veleno).
@@ -10786,7 +10778,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +3 a colpire, portata 1,5
 m, una creatura.
 Colpisce: 4 (1d6 + 1) danni perforanti e il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 11, e subire 7
+effettuare un tiro salvezza di Costituzione DC 11, e subire 7
 (2d6) danni da veleno se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce. Se il danno da veleno riduce il bersaglio
 a 0 punti ferita, il bersaglio è stabile ma avvelenato per 1 ora,
@@ -10835,7 +10827,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +3 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 4 (1d6 + 1) danni perforanti e il bersaglio è afferrato
-(CD 11 per fuggire). Fino al termine dell’afferrare, il bersaglio è
+(DC 11 per fuggire). Fino al termine dell’afferrare, il bersaglio è
 intralciato, e la rana non può usare il morso contro un altro
 bersaglio.
 Inghiottire. La rana effettua una attacco di morso contro un
@@ -10900,7 +10892,7 @@ morso.
 Morso. Attacco con Arma da Mischia: +4 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 4 (1d4 + 2) danni perforanti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Costituzione CD 10 o
+creatura, deve riuscire un tiro salvezza di Costituzione DC 10 o
 contrarre una malattia. Fino a che la malattia non viene curata, il
 bersaglio non può recuperare punti ferita eccetto tramite metodi
 magici, e i punti ferita massimi del bersaglio diminuiscono di 3
@@ -10924,7 +10916,7 @@ Carica. Se il rinoceronte si muove di almeno 6 metri diretto
 verso un bersaglio e lo colpisce con un attacco di incornata
 durante lo stesso turno, il bersaglio subisce 9 (2d8) danni
 contundenti aggiuntivi. Se il bersaglio è una creatura, deve
-riuscire un tiro salvezza di Forza CD 15 o cadere prono.
+riuscire un tiro salvezza di Forza DC 15 o cadere prono.
 Azioni
 Incornata. Attacco con Arma da Mischia: +7 a colpire, portata
 1,5 m, un bersaglio.
@@ -10950,7 +10942,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +4 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 7 (1d10 + 2) danni perforanti più 5 (1d10) danni da
-veleno, e il bersaglio è afferrato (CD 13 per fuggire). Fino al
+veleno, e il bersaglio è afferrato (DC 13 per fuggire). Fino al
 termine dell’afferrare, il bersaglio è intralciato, e il rospo non
 può usare il morso contro un altro bersaglio.
 Inghiottire. Il rospo effettua una attacco di morso contro un
@@ -11276,7 +11268,7 @@ Morsi. Attacco con Arma da Mischia: +6 a colpire, portata 0 m,
 una creatura nello spazio dello sciame.
 Colpisce: 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se
 lo sciame è ha metà o meno dei suoi punti ferita, e il bersaglio
-deve effettuare un tiro salvezza di Costituzione CD 10, e subire
+deve effettuare un tiro salvezza di Costituzione DC 10, e subire
 14 (4d6) danni da veleno se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce.
 Sciame di Vespe
@@ -11369,7 +11361,7 @@ Azioni
 Pungiglione. Attacco con Arma da Mischia: +2 a colpire, portata
 1,5 m, una creatura.
 Colpisce: 1 danno perforante e il bersaglio deve effettuare un tiro
-salvezza di Costituzione CD 9, e subire 4 (1d8) danni da veleno
+salvezza di Costituzione DC 9, e subire 4 (1d8) danni da veleno
 se fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Scorpione Gigante
 Grande bestia, disallineato
@@ -11391,12 +11383,12 @@ artigli e uno con il pungiglione.
 Artiglio. Attacco con Arma da Mischia: +4 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 6 (1d8 + 2) danni contundenti e il bersaglio è afferrato
-(CD 12 per fuggire). Lo scorpione ha due artigli, ciascuno dei
+(DC 12 per fuggire). Lo scorpione ha due artigli, ciascuno dei
 quali può afferrare solo un bersaglio.
 Pungiglione. Attacco con Arma da Mischia: +4 a colpire, portata
 1,5 m, una creatura.
 Colpisce: 7 (1d10 + 2) danni perforanti e il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 12, e subire 22
+effettuare un tiro salvezza di Costituzione DC 12, e subire 22
 (4d10) danni da veleno se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce.
 Serpente Costrittore
@@ -11420,7 +11412,7 @@ Colpisce: 5 (1d6 + 2) danni perforanti.
 Stritolare. Attacco con Arma da Mischia: +4 a colpire, portata
 1,5 m, una creatura.
 Colpisce: 6 (1d8 + 2) danni contundenti, e il bersaglio è afferrato
-(CD 14 per fuggire). Fino al termine dell’afferrare, la creatura è
+(DC 14 per fuggire). Fino al termine dell’afferrare, la creatura è
 intralciata, e il serpente non può stritolare un altro bersaglio.
 Serpente Costrittore
 Gigante
@@ -11445,7 +11437,7 @@ Colpisce: 11 (2d6 + 4) danni perforanti.
 Stritolare. Attacco con Arma da Mischia: +6 a colpire, portata
 1,5 m, una creatura.
 Colpisce: 13 (2d8 + 4) danni contundenti, e il bersaglio è
-afferrato (CD 16 per fuggire). Fino al termine dell’afferrare, la
+afferrato (DC 16 per fuggire). Fino al termine dell’afferrare, la
 creatura è intralciata, e il serpente non può stritolare un altro
 bersaglio.
 SRD Italia 5a Edizione - Compendio dei Mostri
@@ -11467,7 +11459,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +5 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 1 danno perforante e il bersaglio deve effettuare un tiro
-salvezza di Costituzione CD 10, e subire 5 (2d4) danni da veleno
+salvezza di Costituzione DC 10, e subire 5 (2d4) danni da veleno
 se fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Serpente Velenoso
 Gigante
@@ -11489,7 +11481,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +6 a colpire, portata 3 m,
 un bersaglio.
 Colpisce: 6 (1d4 + 4) danni perforanti e il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 11, e subire 10
+effettuare un tiro salvezza di Costituzione DC 11, e subire 10
 (3d6) danni da veleno se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce.
 Serpente Volante
@@ -11682,7 +11674,7 @@ Lingue -
 Sfida 1 (200 PE)
 Balzo. Se la tigre si muove di almeno 6 metri diretta verso una
 creatura e la colpisce con un attacco di artiglio durante lo stesso
-turno, il bersaglio deve riuscire un tiro salvezza di Forza CD 13 o
+turno, il bersaglio deve riuscire un tiro salvezza di Forza DC 13 o
 cadere prono. Se il bersaglio è prono, la tigre può effettuare un
 attacco di morso contro di esso come azione bonus.
 Olfatto Affinato. La tigre ha vantaggio alle prove di Saggezza
@@ -11712,7 +11704,7 @@ Lingue -
 Sfida 2 (450 PE)
 Balzo. Se la tigre si muove di almeno 6 metri diretta verso una
 creatura e la colpisce con un attacco di artiglio durante lo stesso
-turno, il bersaglio deve riuscire un tiro salvezza di Forza CD 14 o
+turno, il bersaglio deve riuscire un tiro salvezza di Forza DC 14 o
 cadere prono. Se il bersaglio è prono, la tigre può effettuare un
 attacco di morso contro di esso come azione bonus.
 Olfatto Affinato. La tigre ha vantaggio alle prove di Saggezza
@@ -11742,7 +11734,7 @@ Azioni
 Pungiglione. Attacco con Arma da Mischia: +4 a colpire, portata
 1,5 m, una creatura.
 Colpisce: 5 (1d6 + 2) danni perforanti e il bersaglio deve
-effettuare un tiro salvezza di Costituzione CD 11, e subire 10
+effettuare un tiro salvezza di Costituzione DC 11, e subire 10
 (3d6) danni da veleno se fallisce il tiro salvezza, o la metà di
 questi danni se lo riesce. Se il danno da veleno riduce il bersaglio
 a 0 punti ferita, il bersaglio è stabile ma avvelenato per 1 ora,
@@ -11772,7 +11764,7 @@ Azioni
 Morso. Attacco con Arma da Mischia: +5 a colpire, portata 1,5
 m, un bersaglio.
 Colpisce: 10 (2d6 + 3) danni perforanti. Se il bersaglio è una
-creatura, deve riuscire un tiro salvezza di Forza CD 13 o cadere
+creatura, deve riuscire un tiro salvezza di Forza DC 13 o cadere
 prona.
 SRD Italia 5a Edizione - Compendio dei Mostri
 Appendice B:
@@ -11946,7 +11938,7 @@ Botta di Scudo. Attacco con Arma da Mischia: +7 a colpire,
 portata 1,5 m, un bersaglio.
 Colpisce: 9 (2d4 + 4) danni contundenti. Se il bersaglio è una
 creatura di taglia Media o inferiore, deve riuscire un tiro salvezza
-di Forza CD 15 o cadere prono.
+di Forza DC 15 o cadere prono.
 Reazioni
 Parata. Il gladiatore somma 3 alla sua CA contro un attacco da
 mischia che lo colpirebbe. Per farlo, il gladiatore deve vedere
@@ -12168,12 +12160,12 @@ Multiattacco. L’assassino effettua due attacchi con le spade corte.
 Spada Corta. Attacco con Arma da Mischia: +6 a colpire, portata
 1,5 m, un bersaglio.
 Colpisce: 6 (1d6 + 3) danni perforanti, e il bersaglio deve effettuare un
-tiro salvezza di Costituzione CD 15, subendo 24 (7d6) danni da veleno se
+tiro salvezza di Costituzione DC 15, subendo 24 (7d6) danni da veleno se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Balestra Leggera. Attacco con Arma a Gittata: +6 a colpire,
 gittata 24/96 metri, un bersaglio.
 Colpisce: 7 (1d8 + 3) danni perforanti, e il bersaglio deve effettuare un
-tiro salvezza di Costituzione CD 15, subendo 24 (7d6) danni da veleno se
+tiro salvezza di Costituzione DC 15, subendo 24 (7d6) danni da veleno se
 fallisce il tiro salvezza, o la metà di questi danni se lo riesce.
 Magi
 I magi trascorrono la vita nello studio e la pratica della
@@ -12205,7 +12197,7 @@ Sensi Percezione passiva 11
 Lingue quattro lingue qualsiasi
 Sfida 1 (200 PE)
 Incantesimi. Il magio è un incantatore di 4° livello. La sua
-abilità da incantatore è l’Intelligenza (CD dei tiri salvezza degli
+abilità da incantatore è l’Intelligenza (DC dei tiri salvezza degli
 incantesimi 13, +5 al colpire con attacchi con incantesimo). Il
 magio ha preparato i seguenti incantesimi da mago:
 Trucchetti (a volontà): luce, mano magica, stretta folgorante
@@ -12234,7 +12226,7 @@ Sensi Percezione passiva 11
 Lingue quattro lingue qualsiasi
 Sfida 6 (2.300 PE)
 Incantesimi. Il magio è un incantatore di 9° livello. La sua
-abilità da incantatore è l’Intelligenza (CD dei tiri salvezza degli
+abilità da incantatore è l’Intelligenza (DC dei tiri salvezza degli
 incantesimi 14, +6 al colpire con attacchi con incantesimo). Il
 magio ha preparato i seguenti incantesimi da mago:
 Trucchetti (a volontà): dardo infuocato, luce, mano magica,
@@ -12271,7 +12263,7 @@ Sensi Percezione passiva 12
 Lingue sei lingue qualsiasi
 Sfida 12 (8.400 PE)
 Incantesimi. Il magio è un incantatore di 18° livello. La sua
-abilità da incantatore è l’Intelligenza (CD dei tiri salvezza degli
+abilità da incantatore è l’Intelligenza (DC dei tiri salvezza degli
 incantesimi 17, +9 al colpire con attacchi con incantesimo).
 L’arcimagio può eseguire camuffare sé stesso e invisibilità a
 volontà e ha preparato i seguenti incantesimi da mago:
@@ -12343,7 +12335,7 @@ Sensi Percezione passiva 12
 Lingue una qualsiasi lingua (di solito il Comune)
 Sfida 1/4 (50 PE)
 Incantesimi. L’accolito è un incantatore di 1° livello. La sua
-abilità da incantatore è la Saggezza (CD dei tiri salvezza degli
+abilità da incantatore è la Saggezza (DC dei tiri salvezza degli
 incantesimi 12, +4 al colpire con attacchi con incantesimo).
 L’accolito ha preparato i seguenti incantesimi da chierico:
 Trucchetti (a volontà): fiamma sacra, luce, taumaturgia
@@ -12371,7 +12363,7 @@ Sensi Percezione passiva 11
 Lingue una qualsiasi lingua (di solito il Comune)
 Sfida 2 (450 PE)
 Incantesimi. Il sacerdote è un incantatore di 4° livello. La sua
-abilità da incantatore è la Saggezza (CD dei tiri salvezza degli
+abilità da incantatore è la Saggezza (DC dei tiri salvezza degli
 incantesimi 11, +3 al colpire con attacchi con incantesimo). Il
 sacerdote ha preparato i seguenti incantesimi da chierico:
 Trucchetti (a volontà): fiamma sacra, luce, taumaturgia
@@ -12408,7 +12400,7 @@ dura fino al termine del turno. Se il sacerdote spende uno slot di
 2° livello o più alto, il danno aggiuntivo aumenta di 1d6 per ogni
 livello sopra il 1°.
 Incantesimi. Il sacerdote è un incantatore di 5° livello. La sua
-abilità da incantatore è la Saggezza (CD dei tiri salvezza degli
+abilità da incantatore è la Saggezza (DC dei tiri salvezza degli
 incantesimi 13, +5 al colpire con attacchi con incantesimo). Il
 sacerdote ha preparato i seguenti incantesimi da chierico:
 Trucchetti (a volontà): fiamma sacra, luce, taumaturgia
@@ -12497,7 +12489,7 @@ Sensi Percezione passiva 14
 Lingue Druidico più due altre lingue
 Sfida 2 (450 PE)
 Incantesimi. Il sacerdote è un incantatore di 4° livello. La sua
-abilità da incantatore è la Saggezza (CD dei tiri salvezza degli
+abilità da incantatore è la Saggezza (DC dei tiri salvezza degli
 incantesimi 12, +4 al colpire con attacchi con incantesimo). Il
 sacerdote ha preparato i seguenti incantesimi da druido:
 Trucchetti (a volontà): arte druidica, bastone, produrre fiamma
