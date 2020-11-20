@@ -3567,7 +3567,7 @@ Abbiamo imparato a volare come gli uccelli, a nuotare come i pesci, tuttavia non
 
 I famigli sono animali scelti dal personaggio, tramite l'Abilità Famiglio, perché gli siano d'aiuto nelle avventure e per compagnia. Un famiglio ha un legame speciale con il suo padrone.
 
-Un famiglio è un normale animale che mantiene aspetto, Dadi Vita, Competenza Armi, bonus ai Tiri Salvezza Base, Abilità e Talenti del normale animale che era, ma viene trattato come creatura magico al fine di determinare qualsiasi effetto che dipenda dal suo tipo.
+Un famiglio è un normale animale che mantiene aspetto, Dadi Vita, Competenza Armi, bonus ai Tiri Salvezza, Abilità del normale animale che era, ma viene trattato come creatura magico al fine di determinare qualsiasi effetto che dipenda dal suo tipo.
 
 Solo un normale animale, non modificato, può diventare un famiglio.
 
@@ -3585,10 +3585,10 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 	Donnola / Volpe      & Il padrone guadagna bonus +1 al Tiro Salvezza su Riflessi\\
 	Falco                & Il padrone guadagna bonus +2 su Consapevolezza sulla vista\\
 	Gatto                & Il padrone guadagna bonus +2 alle prove di Criminalita'\\
-	Gufo                 & Il padrone guadagna bonus +2 su Consapevolezza sulla vista\\
+	Gufo                 & Il padrone guadagna bonus +2 su Consapevolezza sulla udito\\
 	Lontra / Ornitorinco & Il padrone guadagna bonus +2 alle prove di Resistenza\\
 	Pipistrello          & Il padrone guadagna bonus +2 alle prove di Acrobatica\\
-	Riccio               & Il padrone guadagna bonus +1 al Tiro Salvezza su Saggezza\\
+	Riccio               & Il padrone guadagna bonus +1 al Tiro Salvezza su Arbitrio\\
 	Scimmia              & Il padrone guadagna bonus +2 alle prove di Criminalita'\\
 	Topo                 & Il padrone guadagna bonus +1 al Tiro Salvezza su Tempra\\
 \end{tabularx}
@@ -3601,11 +3601,11 @@ Utilizzare le statistiche base di una creatura della specie del famiglio, apport
 
 \textbf{Dadi Vita}: Ai fini degli effetti legati al numero dei Dadi Vita, utilizzare il punteggio di CM del personaggio del padrone o il normale totale di DV del famiglio, quale dei due sia più alto.
 
-\textbf{Attacchi}: Utilizzare la CA del padrone. Utilizzare il modificatore di Destrezza o Forza del famiglio, quale dei due sia più alto per calcolare il bonus di attacco del famiglio con gli Attacchi Naturali. Il danno è uguale a quello di una normale creatura della specie del famiglio.
+\textbf{Attacchi}: Utilizzare la CA del padrone se piu' alta. Utilizzare il modificatore di Destrezza o Forza del famiglio, quale dei due sia più alto per calcolare il bonus di attacco del famiglio con gli Attacchi Naturali. Il danno è uguale a quello di una normale creatura della specie del famiglio.
 
 \textbf{Difesa}: il famiglio ha una Difesa pari a quello dell'animale standard piu' bonus dovuto alla CM del padrone. Vedi tabella sotto.
 
-\textbf{Tiro Salvezza}: Per ogni Tiro Salvezza, utilizzare i bonus al Tiro Salvezza Base del famiglio (Tempra +2, Riflessi +2, Saggezza +0) o quelli del padrone quali siano i migliori. Il famiglio applica i suoi valori di caratteristica come bonus ai Tiri Salvezza e non condivide nessuno dei bonus che il suo padrone potrebbe ricevere ai propri Tiri Salvezza.
+\textbf{Tiro Salvezza}: Per ogni Tiro Salvezza, utilizzare i bonus al Tiro Salvezza del famiglio (Tempra +2, Riflessi +2, Saggezza +0) o quelli del padrone quali siano i migliori. Il famiglio applica i suoi valori di caratteristica come bonus ai Tiri Salvezza e non condivide nessuno dei bonus che il suo padrone potrebbe ricevere ai propri Tiri Salvezza.
 
 \bigskip
 
@@ -3615,11 +3615,11 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 
 \bigskip
 
-\begin{tabularx}{0.95\textwidth}{lllX}
+\begin{tabular}{llll}
 	\toprule
 	\textbf{CM del Padron}e & \textbf{Mod. Difesa Fam.} & \textbf{Intelligenza Fam.} & \textbf{Speciale}\\
 	1-2      & +1       & -2    & Allerta, Condividere Incantesimi, \\
-	         &  		&  		& Eludere Migliorato, Legame Empatico\\
+	         &  		&  		& Legame Empatico\\
 	3-4      & +2       & -1    & Trasmettere Incantesimi a contatto\\
 	5-6      & +3       & 0     & Parlare con il Padrone\\
 	7-8      & +4       & 0     & Parlare con gli Animali della Sua Specie\\
@@ -3629,13 +3629,13 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 	15-16    & +8       & 2     & -\\
 	17-18    & +9       & 3     & -\\
 	19-20    & +10      & 3     & -\\
-\end{tabularx}
+\end{tabular}
 
 \bigskip
 
 \textbf{CM del Padrone}: Il numero indicato qui è il valore di CM del padrone del famiglio, articolato in fasce.
 
-\textbf{Modificatore armatura}: Il numero indicato qui è in aggiunta al Bonus di Armatura Naturale esistente del famiglio.
+\textbf{Modificatore armatura}: Il numero indicato qui è in aggiunta alla Difesa del famiglio.
 
 \textbf{Intelligenza}: Il punteggio di Intelligenza del famiglio. Si tiene questo valore o quello del famiglio a seconda di quale sia più alto.
 
@@ -3646,8 +3646,6 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 \textbf{Condividere Incantesimi}: A propria discrezione, il padrone può lanciare qualsiasi Incantesimi che abbia effetto su di "sé" sul suo famiglio (come un Incantesimo a contatto), al posto di se stesso.
 
 Il padrone può lanciare sul suo famiglio incantesimi anche se queste normalmente non hanno effetto su creature del tipo del famiglio (creature magiche).
-
-\textbf{Eludere Migliorato}: Se il famiglio è soggetto a un attacco che normalmente permette un Tiro Salvezza su Riflessi per dimezzare i danni, il famiglio non subisce danni se supera il Tiro Salvezza e solo la metà dei danni se fallisce il Tiro Salvezza.
 
 \textbf{Legame Empatico}: Il padrone ha un legame empatico con il suo famiglio fino a una distanza di 1 km. Il padrone non può vedere attraverso gli occhi del famiglio, ma può comunicare telepaticamente con esso. A causa della natura limitata del legame, si possono comunicare solo emozioni generiche.
 
@@ -3667,7 +3665,7 @@ Il famiglio può trasmettere l'Incantesimo proprio come il padrone. E' necessari
 
 \label{altre-abilita-speciali}
 
-Queste Abilita' non sono selezionabili da parte del giocatore, bensì possono essere innate nelle creature, avversari o meno.
+Queste Abilita' non sono selezionabili da parte del giocatore, bensì possono essere innate nelle creature.
 
 \subsection{Etereo}\index{Etereo}
 
@@ -3685,13 +3683,15 @@ Una creatura eterea non può attaccare una creatura materiale ed Incantesimi lan
 
 Determinate creature o protezioni conferiscono la capacita' di Resistere ad una tipologia di Danno.
 
-Essere Resistenti al Danno significa automaticamente dimezzare il danno ricevuto prima di applicare qualsiasi altra resistenza o Tiro Salvezza.
+Essere Resistenti al Danno significa automaticamente dimezzare il danno ricevuto prima di applicare qualsiasi altra protezione o Tiro Salvezza.
 
-La Resistenza al Danno puo' assumere anche dei valori. Quando viene scritto Resistenza al Danno: Fulmine, il soggetto dimezza automaticamente i danni, se scritto Resistenza al Danno: Filmine 10, significa che riduce il danno da elettricità di 10 punti prima di applicare il Tiro Salvezza o altri bonus.
+La Resistenza al Danno puo' assumere anche dei valori. Quando viene scritto Resistenza al Danno: Fulmine, il soggetto dimezza automaticamente i danni da elettricità, se scritto Resistenza al Danno: Filmine 10, significa che riduce il danno da elettricità di 10 punti prima di applicare il Tiro Salvezza o altri bonus.
 
-Un creatura con una Resistenza al Fuoco dimezza (riduce) tutto il danno che riceve dalla fiamme, magiche o meno. Possono esistere abilita' o incantesimi che ignorano questa Resistenza.
+Un creatura con una Resistenza al Fuoco dimezza (riduce) tutto il danno che riceve dalla fiamme, magiche o meno. \\
 
-\subsection{Riduzione del Danno}\index{Riduzione del Danno}
+Possono esistere abilita' o incantesimi che ignorano questa Resistenza.
+
+\subsection{Riduzione del Danno - DR}\index{Riduzione del Danno}
 
 Determinate creature o Abilità conferiscono la capacità soprannaturale di resistere al danno di certe tipologie di armi o fino ad un certo ammontare (per attacco).
 
@@ -3712,15 +3712,16 @@ Determinate armi, particolarmente magiche possono ignorare la DR \index{Ignorare
 	Adamantio               & +4              & Livello 12\\
 \end{tabular}
 
-Proiettili (frecce, dardi, sassi) tirati da armi magiche sono considerate
-magiche al pari dell'arma che li lancia.
+\medskip
+
+\textbf{Proiettili (frecce, dardi, sassi) tirati da armi magiche NON sono considerate magiche.}\index{Freccie magiche}
 
 
 \subsection{Vulnerabilità al Danno}\index{Vulnerabilità al Danno}
 
 Determinate creature o magie rendono piu' efficaci alcuni effetti causando maggiore danno al soggetto vulnerabile.
 
-Essere Vulnerabili ad un tipo specifico di Danno significa automaticamente raddoppiare il danno ricevuto prima di applicare qualsiasi altra resistenza o Tiro Salvezza.
+Essere Vulnerabili ad un tipo specifico di Danno significa automaticamente raddoppiare il danno ricevuto prima di applicare qualsiasi altra protezione o Tiro Salvezza.
 
 Un creatura con una Vulnerabilità al Fuoco raddoppia tutto il danno subito poi se possibile effettua il TS indicato dall'incantesimo o effetto.
 
@@ -3756,7 +3757,7 @@ A parte cio', una volta che sono fuori vista (o udito) dalla fonte della loro pa
 
 \textbf{Terrore Crescente}\index{Terrore Crescente}
 
-Gli effetti della paura sono cumulativi. Un personaggio scosso che viene nuovamente scosso diventa spaventato, mentre invece un personaggio scosso cheviene spaventato cade in preda al panico. Un personaggio spaventato che viene scosso o spaventato cade in preda al panico.
+Gli effetti della paura sono cumulativi. Un personaggio scosso che viene nuovamente scosso diventa spaventato, mentre invece un personaggio scosso che viene spaventato cade in preda al panico. Un personaggio spaventato che viene scosso o spaventato cade in preda al panico.
 
 
 \subsection{Paralizzato}\index{Paralizzato}
