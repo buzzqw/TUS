@@ -811,7 +811,7 @@ I punti ferita si recuperano in diversi modi:
 
 \medskip
 
-I Punti Ferita possono essere anche temporanei ovvero aggiunti temporaneamente ai tuoi attuali. I PF Temporanei vanno tolti per primi quando si viene feriti.
+I Punti Ferita possono essere anche temporanei\index{Punti Ferita Temporanei} ovvero aggiunti temporaneamente ai tuoi attuali. I PF Temporanei vanno tolti per primi quando si viene feriti.
 Se non esplicitato diversamente i punti ferita temporanei scompaiono dopo un ora da quando si sono acquisiti.\\
 I punti ferita temporanei non possono essere superiori alla metà del massimo dei punti ferita reali.\\
 
@@ -1924,12 +1924,12 @@ Questi sono i valori tipici delle creature per la taglia indicata. Sono frequent
 
 \pagebreak
 
-\subsection{Vita e Morte}
+\subsection{Vita e Morte}\index{Morire}
 
 \label{vita-e-morte}
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Chi non conosce la morte, non conosce la vita. (Grand Hotel, film 1932)}\end{tcolorbox}\medskip
 
-Quando un personaggio raggiunge i 0 (zero) Punti Ferita si considera svenuto, ovvero inabile a fare qualsiasi cosa. Una Cura (Incantesimo, Pozione..) lo portera’ cosciente ed ai punti ferita curati. Una prova di pronto soccorso, 3 Azioni, (Sopravvivenza) a DC 15 lo portera’ ad 1 punto ferita.
+Quando un personaggio raggiunge i 0 (zero) Punti Ferita si considera svenuto, ovvero inabile a fare qualsiasi cosa. Una Cura (Incantesimo, Pozione..) lo portera’ cosciente ed ai punti ferita curati. Una prova di pronto soccorso, 3 Azioni, (Sopravvivenza) a DC 15 lo portera’ ad 1 punto ferita. Dopo un ora se non e' successo qualcosa a mutare la situazione il personaggio può fare un TS su Tempra a DC 15, se riesce torna a 1 PF, se fallisce va a -1 e diventa morente.
 
 Un personaggio morente ha Punti Ferita negativi (-1 o meno) ed è privo di sensi e prossimo alla morte. Continuera’ a perdere un punto ferita a round fiche il valore non raggiungera’ il triplo della Costituzione+10 ed il personaggio morira’, se non viene curato.\\
 Se un attacco porta il personaggio direttamente a -10-COS*3, il personaggio muore.\\
@@ -1968,6 +1968,10 @@ Eventuali punti caratteristica persi si recuperano al ritmo di 1 punto totale al
 \subsubsection{Recupero punti Ferita normale}\index{Recupero punti ferita}
 
 Riposare 8 ore fa recuperare il punteggio di COS+CA al giorno in PF, minimo 1.
+
+\subsubsection{Recupero punti ferita non letali}\index{Recupero PF non letali}\index{Punti Ferita non letali}
+
+Ogni ora si recupera, minimo 1, il proprio valore di Costituzione in PF non letali persi.
 
 \pagebreak
 
@@ -7598,7 +7602,7 @@ L'acqua molto profonda non è solo nera come la pece, rendendo molto pericolosa 
 
 Qualsiasi personaggio può trattenere il fiato per un numero di round pari 8 volte il suo punteggio di Costituzione, con un minimo di 6 round. Per ogni azione compiuta la durata restante diminuisce di 1 round. Trascorso questo periodo di tempo, il personaggio deve effettuare un TS su Tempra con DC 10 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 1.
 
-Se il TS fallisce il personaggio va immediatamente a 0 punti ferita e sviene. Dal round successivo incomincia a perdere 1 punto ferita fino alla morte (o alla rianimazione!) 
+Se il TS fallisce il personaggio va immediatamente a 0 punti ferita e sviene. Dal round successivo incomincia a perdere 1 punto ferita a round fino alla morte (o alla rianimazione!) 
 
 Si può annegare in sostanze diverse dall'acqua, come la sabbia, le sabbie mobili, la polvere molto fine o un silos pieno di farro o semplicemente trattenendo il respiro.
 
@@ -7606,14 +7610,12 @@ Si può annegare in sostanze diverse dall'acqua, come la sabbia, le sabbie mobil
 
 \label{pericoli-del-caldo}
 
-Una creatura sottoposta a temperature molto elevate (sopra i 40° C) deve superare un Tiro Salvezza su Tempra ogni ora (DC 15, +1 per ogni prova precedente) oppure subisce 1d4 Danni Non Letali. Se indossa abiti pesanti o qualsiasi tipo di armatura, subisce penalità -4 a questi Tiri Salvezza. Un personaggio con la competenza Sopravvivenza può ricevere un bonus a questo Tiri Salvezza ed essere in grado di applicarlo anche ad altri personaggi (vedi la descrizione dell'Abilita'). I personaggi Privi di Sensi iniziano a subire danni letali (1d4 danni all'ora).
-
-In situazioni di caldo estremo (sopra i 40° C), un personaggio deve effettuare un Tiro Salvezza su Tempra ogni 10 minuti (DC 15, +1 per ogni prova precedente) oppure subisce 1d4 danni non letali. I personaggi che indossano abiti pesanti o qualsiasi tipo di armatura, subiscono penalità -4 a questi Tiri Salvezza. Un personaggio con la competenza Sopravvivenza può ricevere un bonus a questo Tiro Salvezza ed essere in grado di applicarlo anche ad altri personaggi. I personaggi Privi di Sensi iniziano a subire danni letali (1d4 danni ogni 10 minuti).
+Una creatura sottoposta a temperature molto elevate (sopra i 40° C) deve superare un Tiro Salvezza su Tempra ogni ora (DC 15, +1 per ogni prova precedente) oppure subisce 1d4 danni Non Letali. Se indossa abiti pesanti o qualsiasi tipo di armatura, subisce penalità -4 a questi Tiri Salvezza. Un personaggio somma il suo valore di competenza di Sopravvivenza e puo' dare un bonus ai compagni pari alla meta' del valore per lo stesso tiro salvezza. I personaggi Privi di Sensi iniziano a subire danni letali (1d4 danni all'ora).
 
 Un personaggio che subisce Danni Non Letali a causa dell'esposizione al caldo, è soggetto ad un colpo di calore ed è Affaticato. Queste penalità terminano quando il personaggio recupera dai Danni Non Letali subiti a causa del caldo.
 
 Il caldo infernale (temperatura dell'aria sopra i 60° C, fuoco, acqua che bolle, lava) infligge danni letali. Respirare l'aria con queste temperature infligge 1d6 danni da fuoco al minuto (senza Tiro Salvezza).
-Inoltre, il personaggio deve superare un Tiro Salvezza su Tempra ogni 5 minuti (DC 15, +1 per ogni prova precedente) oppure subisce 1d4 Danni Non Letali. Coloro che indossano abiti pesanti o qualsiasi tipo di armatura, subiscono penalità -4 a questi Tiro Salvezza.
+Inoltre, il personaggio deve superare un Tiro Salvezza su Tempra (con i modificatori di cui sopra) ogni 5 minuti (DC 15, +1 per ogni prova precedente) oppure subisce 1d4 Danni Non Letali. Coloro che indossano abiti pesanti o qualsiasi tipo di armatura, subiscono penalità -4 a questi Tiro Salvezza.
 
 L'acqua bollente infligge 1d6 danni da scottatura, a meno che il personaggio non vi venga completamente immerso, nel qual caso subirebbe 10d6 danni per round di esposizione.
 
