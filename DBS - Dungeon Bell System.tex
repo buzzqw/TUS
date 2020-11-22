@@ -1797,7 +1797,7 @@ Se un personaggio vuole fare più attacchi spostandosi nel campo di battaglia pu
 	Usare un anello/bacchetta/verga/bastone magico     & 2\\
 	Scambiare poche battute con qualcuno               & 0\\
 	Eseguire una prova su una competenza               & 2\\
-	Nascondersi, Scattare(doppio movimento)			   & 2\\
+	Nascondersi, Scattare (doppio movimento)		   & 2\\
 	Mantenere la concentrazione su un Incantesimo      & 1\\
 	Azione Immediata                                   & {*}\\
 	Azione Reazione                                    & {*}\\
@@ -1834,8 +1834,6 @@ Una creatura che ha una distanza di mischia (portata) superiore all'avversario s
 Questo bonus non si applica con le armi da lancio (gittata). 
 \end{note}
 
-
-
 \subsubsection{Il Tempo (Round, Minuti e Turni)}\index{Round}
 
 \label{il-tempo-round-minuti-e-turni}
@@ -1861,7 +1859,7 @@ Il Movimento scritto nella razza del personaggio e' l'indicazione di quanti metr
 
 Una creatura o personaggio potrebbe anche decidere di spostarsi più velocemente del solito ovvero correndo o andando veloci.
 
-In caso di \textbf{Corsa} \index{Corsa}si raddoppiano i metri percorsi (2x9 metri) per Azione (di Movimento). Per un umano (Movimento 9) significa fare 18 metri in una Azione.
+In caso di \textbf{Scattare} \index{Scattare}si raddoppiano i metri percorsi (2x9 metri) per Azione (di Movimento). Per un umano (Movimento 9) significa fare 18 metri in una Azione.
 
 Il personaggio che corre ha un malus di 2d6 nel Tiro per Colpire e la Difesa diminuisce di 4 nel round in cui corre.
 
@@ -6119,8 +6117,16 @@ Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella s
 
 \textbf{Movimento}: e' la riduzione di movimento da applicare per Azione di Movimento.
 
-\textbf{Ingombro}: e' l'ingombro dell'armatura da conteggiare.
+\textbf{Ingombro}: e' l'ingombro dell'armatura da conteggiare.\\
 
+\medskip
+
+\begin{note}
+Quando conteggiate l'ingombro dato dall'armatura e scudo \textbf{indossato} dovete dividerlo per due (arrotondate per difetto).\\
+L'ingombro segnato per armatura e scudi e' da intendersi quando "caricata nello zaino", ovvero trasportata ma non indossata.
+\end{note}
+
+\medskip
 
 \subsubsection{Descrizione delle Armature}
 
@@ -9163,9 +9169,9 @@ Dal morso di una vipera alla lama avvelenata di un assassino, il veleno è una c
 
 Vedi anche le regole per trattenere il fiato e soffocare in Ambiente.
 
-\subsection{Insorgenza ed Effetto}
+\subsection{Insorgenza ed Effetto}\index{Insorgenza veleno}\index{Tempo di attivazione veleno}
 
-Per insorgenza si intende quanto tempo ci mette il veleno o pozione a fare effetto. Se il tempo di insorgenza è 1 round significa che per gli effetti del veleno/pozione il Tiro Salvezza lo si effettua dopo 10 minuti. Se nella tabella del veleno/pozione insorgenza non è specificata significa che l'effetto è immediato dopo l'entrata in contatto con il veleno.
+Per insorgenza si intende quanto tempo ci mette il veleno o pozione a fare effetto. Se il tempo di insorgenza è 1 turno significa che per gli effetti del veleno/pozione il Tiro Salvezza lo si effettua dopo 10 minuti. Se nella tabella del veleno/pozione insorgenza non è specificata significa che l'effetto è immediato dopo l'entrata in contatto con il veleno.
 
 L'effetto di un veleno/pozione è immediato dopo l'insorgenza. Verificare la descrizione del veleno per capirne l'effetto. Se il Tiro Salvezza riesce il veleno non ha fatto effetto e si può ritenere neutralizzato.
 
@@ -9177,7 +9183,7 @@ L'effetto di un veleno/pozione è immediato dopo l'insorgenza. Verificare la des
 
 \textbf{Fallimento}: Siete stati avvelenati e si subisce subito l'effetto elencato.
 
-\textbf{Più dosi}: Se si vieni esposti a più dosi dello stesso veleno nello stesso round la difficoltà del TS aumenta di 1 per dose aggiuntiva.
+\textbf{Più dosi}: Se si vieni esposti a più dosi dello stesso veleno nello stesso round la difficoltà del TS aumenta di 1 per dose aggiuntiva.\index{Velono piu' dosi}
 
 \textbf{In tempi diversi}: se si viene esposti al veleno in tempi diversi, ogni volta ci sarà un nuovo Tiro Salvezza e si subiranno gli eventuali effetti nei tempi previsti.
 
@@ -9355,12 +9361,9 @@ Ogni qual volta si prende una nuova dose entro 2 settimane dalla prima il Tiro S
 
 Es: Gusterbloon FT5
 
-La prima Lettera indica il CLIMA, la Seconda indica l'AMBIENTE, la
-Terza indica la RARITA'
+La prima Lettera indica il CLIMA, la Seconda indica l'AMBIENTE, la Terza indica la RARITA'
 
-La rarità indica la possibilità, su un d10, di trovare l'erba/pianta
-ricercata. Tirare 1d10 e fare meno del numero indicato, chiaramente
-se c'è corrispondenza di clima ed ambiente.
+La rarità indica la possibilità, su un d10, di trovare l'erba/pianta ricercata. Tirare 1d10 e fare meno del numero indicato, chiaramente se c'è corrispondenza di clima ed ambiente.
 
 \medskip
 
@@ -9433,21 +9436,22 @@ Molte delle regole qui riportate sono opzionali, il Narratore può tenere conto 
 
 Vi sono tre scale di movimento nel gioco:
 \begin{itemize}
-	\item Tattico, per il combattimento, si usano le distanze Mischia e i quadretti
-	      di 1 metro di lato
+	\item Tattico, per il combattimento, si usano le distanze Mischia e i quadretti di 1 metro di lato
 	\item Locale, per esplorare una zona, misurato in metri al minuto.
 	\item Via Terra, per muoversi da un posto all'altro, misurato in km all'ora o al giorno.
 \end{itemize}
+
+\medskip
+
 \textbf{Tipi di Movimento}
 
 Quando si muovono nelle differenti scale di movimento, le creature generalmente camminano o vanno veloci o corrono.
 
 \textbf{Camminare}:\index{Camminare} Camminare rappresenta un movimento non affrettato ma deciso di circa 4 km all'ora per un umano senza Ingombro.
 
-\textbf{Correre}\index{Correre}: Significa muoversi di circa 13 km all'ora per un
-umano in armatura completa.
+\textbf{Correre}\index{Correre}: Significa muoversi di circa 13 km all'ora per un umano in armatura completa.
 
-Chi attacca il personaggio che va veloce ha un bonus di 1d6 al Tiro per colpire. Il personaggio che va veloce ha un malus di 2d6 nel Tiro per Colpire nel round in cui si corre.
+Il personaggio che corre ha un malus di 2d6 nel Tiro per Colpire e di 4 nella Difesa nel round in cui corre.
 
 Correre come azione di movimento raddoppia la velocità di movimento e non la triplica. Solo in situazioni di non combattimento la corsa triplica il movimento.
 
@@ -9479,7 +9483,7 @@ Correre come azione di movimento raddoppia la velocità di movimento e non la tr
 
 Durante un combattimento si utilizza la velocità tattica e la distanza.
 
-\textbf{Movimento Ostacolato}
+\textbf{Movimento Ostacolato}\index{Terreno difficile}
 
 Terreno difficile, ostacoli o scarsa visibilità possono impedire i movimenti. Quando il movimento è ostacolato si va a metà della velocità. Quindi sono necessari 2 Azioni per coprire la propria distanza di 9 metri (se si è umano senza ingombro..). Oppure con una Azione di movimento si copre solo 4 metri.
 
@@ -9489,18 +9493,18 @@ In alcune situazioni il movimento è talmente ostacolato che la distanza percorr
 
 Non applicare questa regola per attraversare terreni impraticabili o per muoversi quando non è possibile farlo in alcun modo.
 
-Non si può Correre o Caricare agevolmente (Atletica DC 20) attraverso un percorso che ostacola il movimento.
+Non si può Correre o Caricare agevolmente attraverso un percorso che ostacola il movimento, ovvero terreno difficile. Il giocatore puo' tentare una prova di Atletica a DC 20 per riuscire a caricare o correre, comunque percorrendo solo la meta' della distanza.
 
 \subsubsection{Movimento Locale}\index{Movimento Locale}
 
 I personaggi che esplorano una zona usano il movimento locale, misurato in metri al minuto.
 \begin{itemize}
 	\item
-	      Camminare: Un personaggio può camminare senza problemi in scala locale.
+	      Camminare: Un personaggio può camminare senza problemi in scala locale per 8 ore al giorno.
 	\item
-	      Andare Veloci: Un personaggio può andare veloce senza problemi in scala locale. Vedi Movimento via terra, sotto, per il movimento in km all'ora.
+	      Andare Veloci: Un personaggio può andare veloce senza problemi in scala locale.
 	\item
-	      Correre: Un personaggio può Correre per un numero di round pari al triplo del proprio punteggio di Costituzione su scala locale senza bisogno di riposarsi (minimo un round). Vedi la relativa sezione in Combattimento per le regole riguardanti la Corsa per Periodi Più Prolungati.
+	      Correre: Un personaggio può Correre per un numero di round pari al triplo del proprio punteggio di Costituzione su scala locale senza bisogno di riposarsi (minimo un round). 
 \end{itemize}
 
 \subsubsection{Movimento Via Terra}\index{Movimento Via Terra}
@@ -9515,7 +9519,7 @@ Camminare più a lungo può sfinire (vedi Marcia forzata, sotto).
 
 \textbf{Andare Veloci}\index{Andare Veloci}
 
-Si può andare veloci per 1 ora senza problemi. Andare veloci per una seconda ora compresa tra due cicli di sonno provoca 1 Danno Non Letale, e ogni ora aggiuntiva provoca il doppio dei danni subiti nell'ora precedente. Un personaggio che subisce Danni Non Letali da andatura veloce è considerato Affaticato.
+Si può andare veloci (movimento*2) per 1 ora senza problemi. Andare veloci per una seconda ora compresa tra due cicli di sonno provoca 1 Danno Non Letale, e ogni ora aggiuntiva provoca il doppio dei danni subiti nell'ora precedente. Un personaggio che subisce Danni Non Letali da andatura veloce è considerato Affaticato.
 
 Un personaggio Affaticato non può Correre o Caricare e subisce penalità -1 a Costituzione e Destrezza.
 
@@ -9559,7 +9563,7 @@ In un giorno di cammino normale, si può camminare per 8 ore. Il resto del giorn
 
 Una cavalcatura che porta un cavaliere può muoversi con andatura veloce. Tuttavia, i danni che subisce sono danni normali invece che non letali. Può anche essere costretta a una marcia forzata, ma le sue prove di Costituzione falliscono automaticamente e di nuovo i danni che subisce sono danni normali. Anche le cavalcature sono considerate Affaticate quando subiscono danni da andatura veloce o marcia forzata.
 
-\subsection{Tabella: Cavalcature e Veicoli}\index{Cavalcature}\index{Veicoli}\index{Tabella Cavalcature e Veicoli}
+\subsection{Tabella: Cavalcature e Veicoli}\index{Cavalcature}\index{Veicoli}\index{Tabella Cavalcature e Veicoli}\index{Cavallo movimento}
 
 \medskip
 
@@ -9609,9 +9613,9 @@ Nel caso di un lungo inseguimento, una prova contrapposta di Resistenza determin
 
 \subsubsection{Ingombro}\index{Ingombro}
 
-Portare tesori, pezzi di drago, armature complete per non parlare di armi sproporzionate rendono difficile il movimento.
+Portare tesori, pezzi di drago, armature complete per non parlare di armi sproporzionate o arieti rendono difficile il movimento.
 
-Ogni oggetto ha un valore di Ingombro ovvero quando è pesante e scomodo portarlo.
+Ogni oggetto ha un valore di Ingombro ovvero quanto è pesante e scomodo portarlo.
 
 Ci possono essere oggetti leggeri ma estremamente ingombranti (tronchi cavi, tappeti di seta) oppure piccoli ma pesantissimi (sfere di mercurio, vestiti intessuti d'oro), per tutti questi oggetti il valore di Ingombro sarà significativo.
 
@@ -9619,10 +9623,12 @@ Viceversa dei gessetti, biglie, stracci saranno sia leggeri che poco pesanti.
 
 I valori di Ingombro degli oggetti si sommano tra di loro per dare l'Ingombro totale portato.
 
-\textbf{Il valore totale di Ingombro che si può portare senza penalità è pari al valore della Forza+2}.
-Se hai un Ingombro superiore a questo valore sei appunto Ingombrato. In ogni caso non puoi portare su di te oggetti con valore di ingombro superiore a 10+Forza.
+\textbf{Il valore totale di Ingombro che si può portare senza penalità è pari al valore della Forza+2 con un minimo di 0}.\\
+Se hai un Ingombro superiore a questo valore sei appunto Ingombrato. In ogni caso non puoi portare su di te oggetti con valore di ingombro superiore a 10+Forza.\\
 
-\bigskip
+\emph{Ricordate che l'armatura e scudo indossati hanno un ingombro dimezzato rispetto a quanto segnato.}\\
+
+\medskip
 
 \textbf{Tabella valori e penalità di Ingombro}\index{Tabella valori e penalità di Ingombro}
 
@@ -9633,7 +9639,7 @@ Se hai un Ingombro superiore a questo valore sei appunto Ingombrato. In ogni cas
 	\textbf{Ingombro} & \textbf{ Penalità Movimento}  & \textbf{Penalità Prova Destrezza} \\
 	Entro Forza +2  & Movimento pieno               & Nessuna penalità\\
 	Entro Forza +5  & Velocita' Movimento dimezzato & -3              \\
-	Entro Forza +7  & 1 metro a round               & -6              \\
+	Entro Forza +7  & 1 metro a Azione di Movimento & -6              \\
 \end{tabular}
 
 \subsubsection{Oggetti e valori di Ingombro}
@@ -9656,7 +9662,7 @@ Un corpo di una creatura media ha ingombro di 1 ogni 20 kg di peso, se trascinat
 
 \subsubsection{Ingombro delle Monete}
 
-E' un ingombro piacevole quando si tratta di monete di Platino, lo sappiamo tutti...
+E' un ingombro piacevole quando si tratta di monete di Platino, lo sappiamo tutti...\\
 Ogni 1000 Monete contate 1 di Ingombro, arrotondando per difetto.
 
 
@@ -13558,7 +13564,7 @@ OPEN GAME License Version 1.0a The following text is the property of Wizards of 
     
     1.0.0 DBS aggiunta scurovisione, dettagli su statistiche basse, aggiunte scuole di magia agli incantesimi ed ai patroni e divinita', tolto allineamento, tolte Essenze, tolti divinita' antiche, modificata la prova di concentrazione resa piu' lineare, chiarimenti su elementi e patroni ed incantesimi, associato ad ogni patrono un vantaggio, primo approccio all'associazione patrono scuole di magia, punti fato da usare prima del tiro e non dopo, rimossi riferimenti a grado di Sfida e messo grado di Sfida, indicazioni su taglia arma, terminato lavoro su mostri sicuramente ci sono molte correzioni per non parlare di allineare ulteriormente DC, TC, Difesa, combattimento sott'acqua, importati oggetti magici srd 5.1
     
-    1.0.1 modificate statistiche di base, reintrodotta Costituzione, aggiornata la scheda, dettagli su statistiche, chiarimenti armi e armature, sostituita la parola turno in round, rilettura fino a competenze, rilettura fino a combattimento, aggiunti ts con modificatori diversi, rilettura nascondigli e coperture, riletti corretti aggiornati lista d'armi, aggiunti chiarimenti per uso rete e bolas, variante iniziativa, fix minori al layout, test commit,abilita' riassegnazione scuole, aggiornata animalia, chiarimenti su colpo furtivo, dettagli su decifrare scritti magici, chiarimenti su eneriga psichica, correzione su Ferocia, furia chiarimenti, chiarimenti su guerriero della magia, chiarimenti su questa e' la mia arma, rimosso abilita' eludere, aggiornati piani con tratti, aggiornata lista tratti, una freccia/dardo/sasso tirato da un lanciatore magico non diviene magica, dettagli su prezzi frecce magiche, aggiunti tratti Legale, Chaotico, Neutrale per praticita' e compatibilita' con la 5ed, controllo Vantaggi, rilettura svantaggi, aggiunto monco, rilettura patroni, aggiornati e chiariti alcuni poteri concessi dal patrono, indicizzate le tabelle, chiarimenti su creazione oggetti magici, aggiunti costi oggetti magici, chiarimenti su annegamento, chiarimenti su punti ferita da stordimento (danni non letali), aggiornata tabella punti esperienza per passaggi dal 11 livello in poi
+    1.0.1 modificate statistiche di base, reintrodotta Costituzione, aggiornata la scheda, dettagli su statistiche, chiarimenti armi e armature, sostituita la parola turno in round, rilettura fino a competenze, rilettura fino a combattimento, aggiunti ts con modificatori diversi, rilettura nascondigli e coperture, riletti corretti aggiornati lista d'armi, aggiunti chiarimenti per uso rete e bolas, variante iniziativa, fix minori al layout, test commit,abilita' riassegnazione scuole, aggiornata animalia, chiarimenti su colpo furtivo, dettagli su decifrare scritti magici, chiarimenti su eneriga psichica, correzione su Ferocia, furia chiarimenti, chiarimenti su guerriero della magia, chiarimenti su questa e' la mia arma, rimosso abilita' eludere, aggiornati piani con tratti, aggiornata lista tratti, una freccia/dardo/sasso tirato da un lanciatore magico non diviene magica, dettagli su prezzi frecce magiche, aggiunti tratti Legale, Chaotico, Neutrale per praticita' e compatibilita' con la 5ed, controllo Vantaggi, rilettura svantaggi, aggiunto monco, rilettura patroni, aggiornati e chiariti alcuni poteri concessi dal patrono, indicizzate le tabelle, chiarimenti su creazione oggetti magici, aggiunti costi oggetti magici, chiarimenti su annegamento, chiarimenti su punti ferita da stordimento (danni non letali), aggiornata tabella punti esperienza per passaggi dal 11 livello in poi, chiarimento su ingombro armatura indossata, 
    
 }
 
