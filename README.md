@@ -2,7 +2,7 @@ Per chi ha gia' esperienza con i giochi di ruolo: TUS e' un rpg ispirato a D20 O
 
 DBS e' invece piu' conforme alla 5ed anche se qui e' senza classi.
 
-Tus viene fornito in file sorgente in formato TEX e compilato in PDF.
+Entrambi i sistemi vengono forniti in file sorgente in formato TEX e compilato in PDF.
 
 Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian).
 
