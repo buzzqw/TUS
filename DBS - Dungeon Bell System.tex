@@ -9461,9 +9461,7 @@ Correre come azione di movimento raddoppia la velocità di movimento e non la tr
 	\toprule
 	\multirow{2}*{Tipo di movimento} &
 	\multicolumn{3}{c}{Movimento Velocità (metri)}        \\
-	\cmidrule(lr){2-4}     & 6m
-	                    & 9m
-	                                 & 12m                \\
+	\cmidrule(lr){2-4} & 6m    & 9m   & 12m                \\
 	\midrule
 	Camminare                        & 6m   & 9m   & 12m  \\
 	Correre (x3)                     & 18m  & 18m  & 24m  \\
@@ -9479,9 +9477,10 @@ Correre come azione di movimento raddoppia la velocità di movimento e non la tr
 
 \subsection{Movimento Tattico}\index{Movimento Tattico}
 
-Durante un combattimento si utilizza la velocità tattica e la distanza.
+Durante un combattimento si utilizza il Movimento tattico.\\
+Le distanze vengono misurate in quadretti da un metro, il movimento e' gestito tramite le Azioni di Movimenti.\\
 
-\textbf{Movimento Ostacolato}\index{Terreno difficile}
+\subsubsection{Movimento Ostacolato}\index{Terreno difficile}
 
 Terreno difficile, ostacoli o scarsa visibilità possono impedire i movimenti. Quando il movimento è ostacolato si va a metà della velocità. Quindi sono necessari 2 Azioni per coprire la propria distanza di 9 metri (se si è umano senza ingombro..). Oppure con una Azione di movimento si copre solo 4 metri.
 
@@ -9493,19 +9492,22 @@ Non applicare questa regola per attraversare terreni impraticabili o per muovers
 
 Non si può Correre o Caricare agevolmente attraverso un percorso che ostacola il movimento, ovvero terreno difficile. Il giocatore puo' tentare una prova di Atletica a DC 20 per riuscire a caricare o correre, comunque percorrendo solo la meta' della distanza.
 
-\subsubsection{Movimento Locale}\index{Movimento Locale}
+\subsection{Movimento Locale}\index{Movimento Locale}
 
-I personaggi che esplorano una zona usano il movimento locale, misurato in metri al minuto.
+I personaggi che esplorano una zona usano il movimento locale, misurato in metri al minuto.\\
+
+In queste situazione non e' fondamentale misurare la distanza in maniera precisa ma appena la situazione diventa "problematica" o richiede attenzione la mappa si converte in movimento tattico, quadrettata e misurata.
+
+\medskip
+
 \begin{itemize}
 	\item
 	      Camminare: Un personaggio può camminare senza problemi in scala locale per 8 ore al giorno.
 	\item
-	      Andare Veloci: Un personaggio può andare veloce senza problemi in scala locale.
-	\item
 	      Correre: Un personaggio può Correre per un numero di round pari al triplo del proprio punteggio di Costituzione su scala locale senza bisogno di riposarsi (minimo un round). 
 \end{itemize}
 
-\subsubsection{Movimento Via Terra}\index{Movimento Via Terra}
+\subsection{Movimento Via Terra}\index{Movimento Via Terra}
 
 I personaggi che percorrono lunghe distanze usano il movimento via terra. Il movimento via terra è misurato in ore o giorni. Un giorno rappresenta 8 ore di tempo di viaggio reale. Per imbarcazioni a remi, un giorno significa remare per 10 ore. Per navi a vela, rappresenta 24 ore.
 
@@ -9588,6 +9590,8 @@ Una cavalcatura che porta un cavaliere può muoversi con andatura veloce. Tuttav
 	Nave Lunga (vele e remi)            & 4.5km            & 108km             \\
 	Galea (remi e vele) & 6km              & 144km             \\
 \end{tabular}
+
+\medskip
 
 *I quadrupedi, come i cavalli, possono portare carichi superiori rispetto ai personaggi. Vedi Capacità di Trasporto per maggiori informazioni.
 
