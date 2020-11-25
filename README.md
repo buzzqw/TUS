@@ -1,10 +1,15 @@
-Per chi ha gia' esperienza con i giochi di ruolo: TUS e' un rpg ispirato a D20 OGL che usa 3d6 al posto del d20 per una distribuzione normalizzata. E' un sistema classless dove la magia e' freeform ed e' ispirata a Ars Magica e Talislanta. Il sistema e' basato su prove che possono esplodere (anche il danno) ed un sistema di svantaggi e vantaggi alla Gurps. 
+In questo repository trovere due sistemi di gioco strettamente connessi, TUS e DBS.
 
-DBS e' invece piu' conforme alla 5ed anche se qui e' senza classi.
+Tutto parte da TUS un rpg ispirato a D20 OGL che usa 3d6 al posto del d20 per una distribuzione normalizzata. E' un sistema classless dove la magia e' freeform ed e' ispirata a Ars Magica e Talislanta. Il sistema e' basato su prove che possono esplodere (anche il danno) ed un sistema di svantaggi e vantaggi alla Gurps. 
+Non c'e' allineamento ma un sistema di Tratti che vanno a caratterizzare il personaggio.
+
+E' il sistema, un po' confuso forse nella magia da cui e' disceso DBS.
+
+DBS prende l'impalcatura (competenze, combattimento, tratti, patroni) di TUS e sostituisce la parte piu' complessa, quella della magia con un sistema di base 5ed modificata pesantemente.
 
 Entrambi i sistemi vengono forniti in file sorgente in formato TEX e compilato in PDF.
 
-Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian).
+Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian) con pdflatex.
 
 Il gioco e' pressoche' completo anche se in fase di costante perfezionamento.
 
