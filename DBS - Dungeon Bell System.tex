@@ -47,15 +47,17 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
 
 
-\fancyhf{} % clear all header and footers
-\renewcommand{\headrulewidth}{0pt} % remove the header rule
-\fancyfoot[LE,RO]{\thepage} % Left side on Even pages; Right side on Odd pages
 \pagestyle{fancy}
-\fancypagestyle{plain}{%
-	\fancyhf{}%
-	\renewcommand{\headrulewidth}{0pt}%
-	\fancyhf[lef,rof]{\thepage}%
-}
+
+%\fancyhf{} % clear all header and footers
+%\renewcommand{\headrulewidth}{0pt} % remove the header rule
+%\fancyfoot[LE,RO]{\thepage} % Left side on Even pages; Right side on Odd pages
+%\pagestyle{fancy}
+%\fancypagestyle{plain}{%
+%	\fancyhf{}%
+%	\renewcommand{\headrulewidth}{0pt}%
+%	\fancyhf[lef,rof]{\thepage}%
+%}
 \usepackage{tabularx}
 \usepackage{longtable}
 \usepackage{pdfpages}
@@ -2914,7 +2916,7 @@ E' possibile cambiare una Abilità scelta, rispettando comunque i requisiti, al 
 
 \subsection{Animalia}\index{Animalia}
 
-Prerequisiti: Patrono Efrem, Shayalia, Competenza Magica 2.
+\textbf{Requisiti}: Patrono Efrem, Shayalia, Competenza Magica 2.
 
 Si acquisisce la capacità di trasformarsi in un animale. Costo 2 Azioni
 
@@ -2928,13 +2930,13 @@ La \textbf{quarta volta}, Competenza Magica 16, si acquisisce di trasformarsi in
 
 \subsection{Animaletto / Famiglio}\index{Famiglio}
 
-Guadagni un animale naturale. Questo animaletto ha al massimo un numero di dadi vita pari alla tua Saggezza. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
+\textbf{Requisito}: Competenza Magica 1, se prendi due volte questa Abilità guadagni un Famiglio (vedi argomento specifico).
 
-Requisito: Competenza Magica 1, se prendi due volte questa Abilità guadagni un Famiglio (vedi argomento specifico).
+Guadagni un animale naturale. Questo animaletto ha al massimo un numero di dadi vita pari alla tua Saggezza. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
 
 \subsection{Armatura del Devoto}\index{Armatura del Devoto}
 
-Requisito: Tratti in comune 1 (somma dei tratti in comune con il Patrono)
+\textbf{Requisito}: Tratti in comune 1 (somma dei tratti in comune con il Patrono)
 
 Il costante allenamento con la tua armatura ti permette di indossare armature leggere senza rischio di sbagliare il lancio di incantesimi.
 
@@ -2944,7 +2946,7 @@ La \textbf{quarta volta} che si prende l'Abilità, Tratti in comune con il Patro
 
 \subsection{Armatura della Montagna Incantata}\index{Armatura della Montagna Incantata}
 
-Requisito: Lista armi "Pugno Vuoto", CA 1, Saggezza 1
+\textbf{Requisito}: Lista armi "Pugno Vuoto", CA 1, Saggezza 1
 
 Il constante allenamento nello spirito e corpo di permette di indurire la tua pelle e renderla più difficile da ferire.
 
@@ -2964,17 +2966,17 @@ Le penalità standard sono -4 e -6 a seconda che si trotti (movimento x2) o galo
 
 \subsection{Arma Focalizzata}\index{Arma Focalizzata}
 
-Ottieni un +1 a Iniziativa e Tiro per Colpire quando usi un arma specifica di cui hai competenza.
+Ottieni un +1 a Iniziativa e Tiro per Colpire quando usi un arma specifica di cui hai competenza. L'Abilita' puo' essere presa al massimo CA/3 volte.
 
 \subsection{Attacco Turbinante}\index{Attacco turbinante}
 
-Requisito: Competenza Armi 12
+\textbf{Requisito}: Competenza Armi 12
 
 Usando 3 Azioni puoi eseguire un singolo attacco (con un malus di 5 al Tiro per Colpire) contro tutti gli avversari in mischia attorno a te.
 
 \subsection{Colpi poderosi}\index{Colpi poderosi}
 
-Requisito: Competenza Armi 1
+\textbf{Requisito}: Competenza Armi 1
 
 Il tuo stile enfatizza colpi poderosi.
 
@@ -2982,7 +2984,7 @@ Guadagni un +1 al danno con una lista d'arma.
 
 \subsection{Colpo furtivo (Attacco alle spalle)}\index{Attacco alle spalle}\index{Colpo furtivo}
 
-Requisito: Competenza Armi 3
+\textbf{Requisito}: Competenza Armi 3
 
 Quando l'avversario viene attaccato in mischia di sorpresa, il primo attacco andato a segno con arma di mischia, causa un danno da critico aggiuntivo da 2d6.
 
@@ -2994,7 +2996,7 @@ La \textbf{quarta} che si prende questa Abilità, CA 12, il danno aumenta a 8d6.
 
 \subsection{Colpo Indebolente}\index{Colpo Indebolente}
 
-Requisito: Colpo furtivo 6d6, Competenza Armi 12
+\textbf{Requisito}: Colpo furtivo 6d6, Competenza Armi 12
 
 Colpo Indebolente è una forma avanzata di colpo furtivo. Ogni colpo Indebolente abbassa o Forza o Destrezza (scelta giocatore) di 1 punto.
 
@@ -3002,22 +3004,22 @@ All'avversario è concesso un Tiro Salvezza Riflessi con DC 10 + 1/2CA. O si cau
 
 \subsection{Colpo Mortale}\index{Colpo Mortale}
 
-Requisito: Competenza Armi 5
+\textbf{Requisito}: Competenza Armi 5
 
 Esegui il Tiro per Colpire ma ignori ogni critico ottenuto. Se colpisci il danno causato dall'attacco viene raddoppiato (Arma+Forza) ad esclusione dei bonus magici e Abilità. \\
 Colpo mortale è una Azione Immediata dal costo di 0 Azioni da dichiararsi prima del tiro per colpire.
 
 \subsection{Colpo Paralizzante}\index{Colpo Paralizzante}
 
-Requisito: Colpo Indebolente, Colpo furtivo 8d6, Competenza Armi 18
+\textbf{Requisito}: Colpo Indebolente, Colpo furtivo 8d6, Competenza Armi 18
 
 L'obiettivo dopo che è stato studiato per 10 round (2 Azioni a round) con il prossimo tuo colpo andato a segno in mischia, entro 10 round dal termine studio, deve effettuare un Tiro Salvezza Tempra con DC pari al doppio del danno inflitto o rimanere paralizzato per 3d6 round.
 
 \subsection{Combattere alla Cieca}\index{Combattere alla Cieca}
 
-è la capacità di attaccare gli avversari che non sono chiaramente percepibili.
+\textbf{Requisito}: Consapevolezza 2
 
-Requisito: Consapevolezza 2
+E' la capacità di attaccare gli avversari che non sono chiaramente percepibili.
 
 Un avversario con copertura leggera non ottiene bonus alla Difesa, con copertura media ha un +2 alla Difesa, con copertura totale ha un +4 alla Difesa.
 
@@ -3031,15 +3033,15 @@ La \textbf{seconda volta} che prendi l'Abilità (Consapevolezza a 6), riduci di 
 
 \subsection{Combattimento con due armi}\index{Combattimento con due armi}\index{Due armi}
 
-Requisito: Destrezza 2, Forza 1, Competenza Armi 2
+\textbf{Requisito}: Destrezza 2, Forza 1, Competenza Armi 2
 
 La \textbf{prima volta} che prendi questa abilità puoi eseguire un attacco con l'arma secondaria, che deve essere leggera o a due lame, e non applichi il danno dato dalla Forza sull'attacco secondario.\\ Entrambi i tiri per colpire hanno un -2 dato dall'attaccare a due mani.
 
-Requisito Destrezza 3, Competenza Armi 12
+\textbf{Requisito} Destrezza 3, Competenza Armi 12
 
 La \textbf{seconda volta} che prendi questa abilità puoi fare con l'arma secondaria leggera o a due mani, fino a 2 attacchi e non applichi il danno dato dalla Forza. L'arma secondaria ha un -2 ai TC.
 
-Requisito Destrezza 3, Competenza Armi 18
+\textbf{Requisito} Destrezza 3, Competenza Armi 18
 
 La \textbf{terza volta} puoi usare un arma media come arma secondaria. Applichi il danno dato dalla Forza con la mano secondaria. Non hai malus ai TC con la mano secondaria.
 
@@ -3047,7 +3049,7 @@ I TC dell'arma secondaria si non si considerano attacchi multipli. Il loro TC vi
 
 \subsection{Connesso}\index{Connesso}
 
-Requisito: CM 1
+\textbf{Requisito}: CM 1
 
 Hai una particolare connessione con la magia che circonda Yeru.\\
 Ogni volta che prendi questa Abilità puoi lanciare un incantesimo in piu' al giorno.
@@ -3055,31 +3057,31 @@ Il valore di CM deve essere pari al triplo delle volte che prendi quest'Abilita'
 
 \subsection{Creare Oggetti Magici}\index{Creare Oggetti Magici}
 
-Requisito: Competenza Magica 6
+\textbf{Requisito}: Competenza Magica 6
 
-tramite questa Abilità l'incantatore è in grado di infondere un incantesimo fino a Difficoltà 15 in un oggetto magico.
+Tramite questa Abilità l'incantatore è in grado di infondere un incantesimo fino a Difficoltà 15 in un oggetto magico.
 
 \subsection{Creare Oggetti Magici Superiori}\index{Creare Oggetti Magici Superiori}
 
-Requisito: Creare Oggetti Magici, Competenza Magica 12
+\textbf{Requisito}: Creare Oggetti Magici, Competenza Magica 12
 
 tramite questa Abilità l'incantatore è in grado di infondere un'incantesimo fino a Difficoltà 20 in un oggetto magico. 
 
 \subsection{Creare Oggetti Magici Meravigliosi}\index{Creare Oggetti Magici Meravigliosi}
 
-Requisito: Creare Oggetti Magici Superiori, Competenza Magica 16
+\textbf{Requisito}: Creare Oggetti Magici Superiori, Competenza Magica 16
 
 tramite questa Abilità l'incantatore è in grado di infondere un'incantesimo fino alla Difficoltà 28.
 
 \subsection{Creare Oggetti Magici Mitici}\index{Creare Oggetti Magici Mitici}
 
-Requisito: Creare Oggetti Magici Meravigliosi, Competenza Magica 18
+\textbf{Requisito}: Creare Oggetti Magici Meravigliosi, Competenza Magica 18
 
 tramite questa Abilità l'incantatore è in grado di infondere un'incantesimo fino alla Difficoltà 33.
 
 \subsection{Decifrare scritti magici}\index{Decifrare scritti magici}
 
-Requisito: Competenza Magica 1
+\textbf{Requisito}: Competenza Magica 1
 
 Saper leggere le scritte magiche. Ha un bonus di +4 nel comprendere il contenuto di una pergamena e nel castare l'incantesimo contenuto.
 
@@ -3091,7 +3093,7 @@ L'Abilità è utilizzabile solo una volta per round, per un solo attacco, costa 
 
 \subsection{Distillare pozioni}\index{Distillare pozioni}
 
-Requisito: Competenza Magica 1
+\textbf{Requisito}: Competenza Magica 1
 
 Competenza nel distillare pozioni.
 
@@ -3099,13 +3101,13 @@ Acquisti un bonus di +4 su Conoscenze Erboristeria (Cultura) per distillare e cr
 
 \subsection{Doppia porzione}\index{Doppia porzione}
 
-Requisito: Combattimento con due armi, Competenza Armi 4
+\textbf{Requisito}: Combattimento con due armi, Competenza Armi 4
 
 Il costante allenamento con due armi ti permette di applicare il bonus al danno dovuto alla Forza in maniera piena anche all'arma secondaria.
 
 \subsection{Energia Psichica}\index{Energia Psichica}
 
-Requisito: Forza 1, Saggezza 2, Competenza Armi 1, Competenza Magia 1
+\textbf{Requisito}: Forza 1, Saggezza 2, Competenza Armi 1, Competenza Magia 1
 
 Dopo anni di allenamento, meditazione e stage a Nanda Parbat sei in grado di raccogliere la tua Energia Chi.
 
@@ -3117,7 +3119,7 @@ Recuperi 2 punto Chi per ogni ora di riposo.
 
 \subsection{Colpo Psichico}\index{Colpo Psichico}
 
-Requisito: Energia Psichica, Destrezza 2
+\textbf{Requisito}: Energia Psichica, Destrezza 2
 
 Per ogni punto chi speso puoi effettuare un attacco, costo 1 Azione di Attacco, contro la Difesa a tocco dell'avversario. Se colpisci causi 1d6 per punto chi usato.\\
 Non puoi usare un numero di punti Psichici superiore alla Saggezza.
@@ -3128,7 +3130,7 @@ Puoi utilizzare fino a doppio del tuo punteggio in Saggezza per potenziare il Co
 
 \subsection{Raggio Psichico}\index{Raggio Psichico}
 
-Requisito: Colpo Psichico, Saggezza 3, Competenza Armi 5
+\textbf{Requisito}: Colpo Psichico, Saggezza 3, Competenza Armi 5
 
 Puoi effettuare un attacco a distanza entro 9 metri usando l'Energia Psichica.
 Il colpo, Tiro per Colpire contro la Difesa a tocco, causa 1d6 di danno per punto Psichico speso.\\
@@ -3141,7 +3143,7 @@ Puoi utilizzare fino a doppio del tuo punteggio in Saggezza per potenziare il Ra
 
 \subsection{Esperto}\index{Esperto}
 
-Prerequisito: Caratteristica collegata almeno a 1
+\textbf{Requisito}: Caratteristica collegata almeno a 1
 
 Sei un esperto in un argomento. Ogni qual volta prendi questa abilità guadagni un +2 alle prove su una competenza a tua scelta.\\
 Non si puo' prendere piu' di due volte questa Abilita' sulla stessa Competenza.
@@ -3150,7 +3152,7 @@ Non si puo' prendere piu' di due volte questa Abilita' sulla stessa Competenza.
 
 Le tue abilità dialettiche sono incredibili.\\
 
-Prerequisito: Competenza Armi 2 e Carisma 3
+\textbf{Requisito}: Competenza Armi 2 e Carisma 3
 
 Impieghi 2 Azioni ad infamare ed inveire contro un avversario. Il target deve fare un Tiro Salvezza Volontà a DC 10+1/2CA + Carisma oppure perdere il bonus di Destrezza (al Tiro per Colpire e Difesa) fino alla fine del round successivo.
 
@@ -3158,7 +3160,7 @@ L'avversario può non comprendere la tua lingua ma deve avere Intelligenza maggi
 
 \subsection{Fedele}\index{Fedele}
 
-Requisiti: Somma valore Tratti in comune 2
+\textbf{Requisito}: Somma valore Tratti in comune 2
 
 La tua connessione con il Patrono e' forte ed energetica.\\
 Ogni volta che prendi questa abilita' puoi lanciare 1 incantesimo in piu' al giorno.\\
@@ -3167,7 +3169,7 @@ Quest'Abilità non si somma con l'Abilità Connesso.
 
 \subsection{Ferocia}\index{Ferocia}
 
-Prerequisito; Competenza Armi 1
+\textbf{Requisito; Competenza Armi 1}
 
 La tua rabbia è tale da sconfiggere, temporaneamente, la morte.
 
@@ -3184,33 +3186,33 @@ L'effetto dura al massimo 2 minuti. La finta morte non è ripetibile in interval
 
 \subsection{Flagello Danzante}\index{Flagello Danzante}
 
-Requisito: Competenza Armi 1
+\textbf{Requisito}: Competenza Armi 1
 
 quando usi il tuo Flagello hai un bonus di +1 alla CA e +1 iniziativa.
 
 \subsection{Forgiato nella furia}\index{Forgiato nella furia}
 
-Requisito: Competenza Armi 5
+\textbf{Requisito}: Competenza Armi 5
 
 Quando effettui un critico, ovvero hai tirato almeno 2 volte 6, si considera che tu abbia tirato un 6 in più per il conteggio totale del numero di critici
 
 \subsection{Freccia chiamata, freccia consegnata}\index{Freccia chiamata, freccia consegnata}
 
-Requisito: Competenza Armi 2
+\textbf{Requisito}: Competenza Armi 2
 
 puoi tirare 1 freccia, una volta al giorno, come azione immediata.
 
 \subsection{Furia}\index{Furia}
 
-Requisito: Competenza Armi 1
+\textbf{Requisito}: Competenza Armi 1
 
 il tuo stile di combattimento è rappresentato dalla cieca furia omicida. Aggiungi +1d6 al danno ad ogni attacco andato a segno in mischia ed i tuoi avversare guadagnano +1d6 al colpire verso di te.
 
 \subsection{Giocoliere}\index{Giocoliere}
 
-Requisito: Destrezza 2
+\textbf{Requisito}: Destrezza 2
 
-hai un talento naturale per maneggiare gli oggetti.
+Hai un talento naturale per maneggiare gli oggetti.
 
 Qualsiasi prova di Atletica che coinvolga il maneggiare oggetti o l'equilibrio ha un +2 di Bonus.
 
@@ -3226,7 +3228,7 @@ La \textbf{seconda volta} che prendi questa abilità Competenza Armi 6, Competen
 
 \subsection{Ho detto CADI!}\index{Ho detto CADI!}
 
-Requisito: Competenza Armi 4
+\textbf{Requisito}: Competenza Armi 4
 
 Se colpisci 3 volte consecutivamente (3 colpi consecutivi entro 3 round) un avversario questo deve fare una Tiro Salvezza su Tempra DC 10+1/CA + Forza o cadere prono,\\
 
@@ -3255,7 +3257,7 @@ La \textbf{terza volta} hai un +4 ai TS ai veleni magici, e non ti puoi più ubr
 
 \subsection{Imposizione delle mani (energia negativa o positiva a seconda dei tratti)} \index{Imposizione delle mani}
 
-Requisito: Competenza Magica 3, Tratti comuni 3
+\textbf{Requisito}: Competenza Magica 3, Tratti comuni 3
 
 Se i tuoi Tratti sono in comune con un Patrono positivo puoi convogliare energia positiva (effetto curativo), se sono in comune con un Patrono neutrale o malvagio puoi convogliare energia negativa (effetto dannoso). Usabile un numero di volte pari al valore di Saggezza. Effetto curativo/dannoso pari a 1d6+Saggezza
 
@@ -3269,7 +3271,7 @@ L'energia proviene dalle mani (non conta se ci sono guanti) e si applica solo a 
 
 \subsection{Incanalare energia (energia negativa o positiva a seconda dei tratti)}\index{Incanalare energia}
 
-Competenza Magica 1, Tratti comuni 3
+\textbf{Requisito}: Competenza Magica 1, Tratti comuni 3
 
 Sei in grado di incanalare l'energia magica.
 
@@ -3285,7 +3287,7 @@ L'energia proviene dalle mani (non conta se ci sono guanti) ed influenza una o p
 
 \subsection{Incanalare energia a distanza}\index{Incanalare energia a distanza}
 
-Requisito: Incanalare energia
+\textbf{Requisito}: Incanalare energia
 
 Puoi lanciare l'energia, come da Incanalare Energia, fino a 9 metri, influenza un raggio di 3 metri. Usa 2 azioni.
 
@@ -3295,7 +3297,7 @@ La \textbf{terza volta} che prendi questa Abilità il l'energia arriva fino a 36
 
 \subsection{Incanalare energia concentrata}\index{Incanalare energia concentrata}
 
-Requisito: Incanalare energia
+\textbf{Requisito}: Incanalare energia
 
 Puoi lanciare l'energia fino a distanza 18 metri. Singolo obiettivo. Usa 2 azioni.
 
@@ -3318,13 +3320,13 @@ Per ogni singolo avversario di combattimento puoi fare che il primo colpo a segn
 
 \subsection{La mia Testa è più Dura}\index{La mia Testa è più Dura}
 
-Requisiti: Competenza Armi 1
+\textbf{Requisito}: Competenza Armi 1
 
 La tua Arma Rompi Cranio fa +2 danni
 
 \subsection{Lo scudo è mio amico}\index{Lo scudo è mio amico}
 
-Requisiti: Competenza Armi 1
+\textbf{Requisito}: Competenza Armi 1
 
 La penalità alla Competenza Magica diminuisce di 1
 
@@ -3334,7 +3336,7 @@ La \textbf{terza volta} che si prende questa Abilità, Competenza Armi 5, la pen
 
 \subsection{Magie efficaci}\index{Magie efficaci}
 
-Requisiti: Competenza Magica 5
+\textbf{Requisito}: Competenza Magica 5
 
 Le tue magie sono straordinariamente efficaci.
 
@@ -3355,13 +3357,13 @@ La \textbf{quarta volta} che prendi questa Abilità aumenti di una taglia (S > M
 
 \subsection{Occhio Clinico}\index{Occhio Clinico}
 
-Requisiti: Competenza Armi 2
+\textbf{Requisito}: Competenza Armi 2
 
 Sei in grado di fare critici a creature normalmente immuni ai critici.
 
 \subsection{Occhio di Falco}\index{Occhio di Falco}
 
-Requisito: Competenza Armi 3
+\textbf{Requisito}: Competenza Armi 3
 
 La penalità per i tiri oltre il primo incremento di range diminuisce di 1d6.
 
@@ -3371,7 +3373,7 @@ La \textbf{terza volta} che prendi questa abilità sei in grado di estendere anc
 
 \subsection{Opportunista}\index{Opportunista}
 
-Requisiti: Competenza Armi 2
+\textbf{Requisito}: Competenza Armi 2
 
 Puoi tentare di colpire un avversario (un attacco di opportunita') che esce da un area che tu minacci. L'abilità è usabile una volta per round come Reazione a costo 0 Azioni.
 
@@ -3404,7 +3406,7 @@ Ogni qual volta si prende nuovamente questa abilità si sceglie un ambiente dive
 
 \subsection{Passo tattico}\index{Passo tattico}
 
-Requisiti: Competenza Armi 3, Destrezza 2
+\textbf{Requisito}: Competenza Armi 3, Destrezza 2
 
 Guadagni una Azione di Movimento per round. L'Abilità può essere presa al massimo 1 volta. Questa Azione può essere fatta solo nel tuo round come Azione immediata.
 
@@ -3415,13 +3417,13 @@ Prendi un bonus di +2 alla prove di Consapevolezza. L'Abilità puo' essere presa
 
 \subsection{Persona veramente malvagia}\index{Persona veramente malvagia}
 
-Requisiti: Competenza Armi 1
+\textbf{Requisito}: Competenza Armi 1
 
 Due volte al giorno aggiungi il tuo valore di CA al colpire ed al danno, in mischia ad un avversario che vedi. L'Abilita' deve essere dichiarata prima del Tiro per Colpire.
 
 \subsection{Più sono grossi più fanno rumore quando cadono}\index{Più sono grossi più fanno rumore quando cadono}
 
-Requisiti: Competenza Armi 1
+\textbf{Requisito}: Competenza Armi 1
 
 Quando attacchi una creatura di almeno 2 taglie più grosse di te fai +1 danno aggiuntivo ogni 2 punti CA. Se è solo una taglia superiore aggiungi 1 danno in più ogni 3 punti CA.
 
@@ -3438,19 +3440,19 @@ Ogni volta hai un -2 al colpire ed un -1 al danno cumulativo.
 
 \subsection{Questo è il mio pugnale}\index{Questo è il mio pugnale}
 
-Requisiti: Competenza Armi 1
+\textbf{Requisito}: Competenza Armi 1
 
 Ogni qual volta fai un critico con il tuo pugnale sommi la tua CA al danno. L'Abilità è usabile 1 volta per avversario nelle 24 ore e si applica automaticamente al primo critico effettuato.
 
 \subsection{Questa è la mia arma!}\index{Questa è la mia arma!}
 
-Requisiti: Competenza Armi 1
+\textbf{Requisito}: Competenza Armi 1
 
 Ogni volta che colpisci il medesimo avversario fai un danno aggiuntivo (Max +1 per round di combattimento, anche se lo colpisci più volte nel round). Fino ad un massimo +5. La prima volta che non colpisci nel round l'avversario il bonus torna a +0. Il bonus si puo' mantere su un solo avversario alla volta.
 
 \subsection{Radici magiche}\index{Radici magiche}
 
-Requisiti: Competenza Magica 1
+\textbf{Requisito}: Competenza Magica 1
 
 Finché sei influenzato da un incantesimo, utilizzando un'Azione la tua arma guadagna un +1 al colpire ed al danno e si considera un'arma magica. Per ogni incantesimo che ti influenza nel round, oltre la prima (non da oggetti magici) il bonus aumenta di +1/+1 fino ad un massimo di +3/+3.
 
@@ -3466,13 +3468,13 @@ Nel tempo hai allenato la tua Costituzione a reggere gli urti, trasformazioni, v
 
 \subsection{Rilevare il Magico}\index{Rilevare il Magico}
 
-Competenza Magica 1
+\textbf{Requisito}: Competenza Magica 1
 
 Se lo puoi vedere sai anche se è magico. Costa una Azione attivare la vista magica
 
 \subsection{Ricarica rapida (Balestra)}\index{Ricarica rapida}
 
-Destrezza 2, Tiro preciso
+\textbf{Requisito}: Destrezza 2, Tiro preciso
 
 Come Abilità Tiro Rapido, solo per balestre
 
@@ -3532,7 +3534,7 @@ come Reazione ad una Azione di attacco puoi aggiungere +2 alla tua Difesa. Puoi 
 
 \subsection{Seconda pelle}\index{Seconda pelle}
 
-Requisito: Competenza Armi 1
+\textbf{Requisito}: Competenza Armi 1
 
 Il costante allenamento con la tua armatura ti permette di indossarle senza grosse penalità.
 
@@ -3548,7 +3550,7 @@ Puoi dormire in armature pesanti senza essere affaticato la mattina.
 
 \subsection{Segugio}\index{Segugio}
 
-Requisito: Intelligenza 1, Saggezza 1, CA 1
+\textbf{Requisito}: Intelligenza 1, Saggezza 1, CA 1
 
 Hai un talento naturale per seguire le persone
 
@@ -3562,7 +3564,7 @@ Il bonus può essere usato al TC, TS causati dall'avversatio, prove di competenz
 
 \subsection{Senso Trappola}\index{Senso Trappola}
 
-Requisiti: Intelligenza 2, Destrezza 3
+\textbf{Requisito}: Intelligenza 2, Destrezza 3
 
 Hai un senso innato per trovare le trappole. Ti viene concesso una prova di consapevolezza (reazione) nel passare entro 1 metro da una trappola (che farà il Narratore) .
 
@@ -3570,7 +3572,7 @@ La \textbf{seconda volta} che prendi l'Abilità il raggio aumenta fino a 3 metri
 
 \subsection{Senza Traccia}\index{Senza Traccia}
 
-Requisiti: Passo sicuro
+\textbf{Requisito}: Passo sicuro
 
 la capacità di non lasciare impronte nell'ambiente scelto. Ogni volta che prendi questa Abilità puoi scegliere un ambiente diverso (vedi Abilità Passo Sicuro) di cui hai preso l'Abilita'. La prova di sopravvivenza per inseguirti ha una difficoltà aumentata di 10.
 
@@ -3584,13 +3586,13 @@ La \textbf{terza volta} che prendi l'Abilità puoi influenzare anche creature di
 
 \subsection{Tiro preciso}\index{Tiro preciso}
 
-Requisiti: Destrezza 3, Competenza Armi 1
+\textbf{Requisito}: Destrezza 3, Competenza Armi 1
 
 guadagni un +1 colpire e +1 al danno per i tiri, con armi da tiro o archi, entro 9 metri.
 
 \subsection{Tiro rapido}\index{Tiro rapido}
 
-Requisiti: Destrezza 3, Tiro Preciso, Competenza Armi 2
+\textbf{Requisito}: Destrezza 3, Tiro Preciso, Competenza Armi 2
 
 Puoi effettuare un tiro in più con Arma da Tiro lanciato e le penalità per l'attacco multiplo sono inferiori.
 
@@ -3603,7 +3605,7 @@ Prendendo -5 al Tiro per Colpire all'Azione di Attacco, puoi effettuare un'Azion
 
 \subsection{Tocco pietoso}\index{Tocco pietoso}
 
-Requisiti: Patrono buono, Imposizione delle mani, Competenza Magica 3
+\textbf{Requisito}: Patrono buono, Imposizione delle mani, Competenza Magica 3
 
 Il tuo tocco lenisce non solo le ferite ma anche le sofferenze e dolori. Ogni qual volta usi l'Abilità Imposizione delle mani puoi aggiungere anche questa Abilità come Azione Immediata.
 
@@ -8564,7 +8566,7 @@ La fanghiglia verde infligge 1 danno alla Costituzione per ogni round in cui div
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Corre meno pericoli colui che, anche se è al sicuro, sta in guardia. (Publilio Siro)}\end{tcolorbox}\medskip
 Il mondo è pieno dì pericoli oltre che di draghi ed immondi famelici. I pericoli sono minacce basate sulle peculiarità della zona che hanno molto in comune con le trappole, ma che di solito fanno parte del posto anziché venir costruite. I pericoli si dividono in tre categorie principali: ambientali, viventi e magici.
 
-I pericoli ambientali includono frane, incendi e simili. I pericoli viventi includono creature che pur non essendo considerate mostri, rappresentano una minaccia per gli avventurieri incauti, come fanghiglie, funghi e muschi. I pericoli magici sono i più imprevedibili e possono essere residui di esperimenti arcani, strane radiazioni sotterraneo o antichi incantesimi falliti.
+I pericoli ambientali includono frane, incendi e simili. I pericoli viventi includono creature che pur non essendo considerate mostri, rappresentano una minaccia per gli avventurieri incauti, come fanghiglie, funghi e muschi. I pericoli magici sono i più imprevedibili e possono essere residui di esperimenti arcani, strane radiazioni sotterraneo o antichi incantesimi falliti.\\
 
 \textbf{Antidweomer (grado di Sfida 6)}\index{Antidweomer}
 
@@ -8574,7 +8576,7 @@ Una prova riuscita di Sapienza Magica con DC 20 rivela la vicinanza di un antidw
 
 Se più scoppi sovrapposti colpiscono lo stesso bersaglio, si applica solo quello più dannoso. Una magia che ha resistito ad un tentativo di dissoluzione, non viene influenzato nuovamente a meno che non esca e rientri nell'antidweomer.
 
-Gli antidweomer più potenti sono ancora più distruttivi. Ogni +1 di incremento del grado di Sfida aumenta il LI delle prove di dissoluzione di 2 e la DC del Tiro Salvezza per i danni dell'esplosione di 1.
+Gli antidweomer più potenti sono ancora più distruttivi. Ogni +1 di incremento del grado di Sfida aumenta il LI delle prove di dissoluzione di 2 e la DC del Tiro Salvezza per i danni dell'esplosione di 1.\\
 
 \textbf{Aria Viziata (grado di Sfida 1 o 4)}\index{Aria Viziata}
 
@@ -8582,11 +8584,11 @@ Un pericolo invisibile, le sacche di gas sono un rischio per minatori, speleolog
 
 Le creature che respirano quell'aria devono superare un Tiro Salvezza su Tempra (DC 15 +1 per ogni tiro precedente) ogni ora o diventano Affaticate. Una volta Affaticate, iniziano a Soffocare Lentamente. Le creature che trattengono il fiato possono evitare questi effetti.
 
-I vapori infiammabili come il gas di carbone sono molto più pericolosi (grado di Sfida 4). Questo gas sostituisce l'aria respirabile nei polmoni, provocando affaticamento: inoltre, qualsiasi fiamma aperta o scintilla causa un'esplosione che infligge 6d6 danni (TS su Riflessi con DC 15 dimezza) a chi è nella caverna o entro distanza mischia da un ingresso. Il fuoco brucia l'ossigeno nell'aria, rendendola irrespirabile per 2d4 minuti. Dopo un'esplosione,il gas infiammabile generalmente impiega molti giorni per ritornare a livelli pericolosi.
+I vapori infiammabili come il gas di carbone sono molto più pericolosi (grado di Sfida 4). Questo gas sostituisce l'aria respirabile nei polmoni, provocando affaticamento: inoltre, qualsiasi fiamma aperta o scintilla causa un'esplosione che infligge 6d6 danni (TS su Riflessi con DC 15 dimezza) a chi è nella caverna o entro distanza mischia da un ingresso. Il fuoco brucia l'ossigeno nell'aria, rendendola irrespirabile per 2d4 minuti. Dopo un'esplosione,il gas infiammabile generalmente impiega molti giorni per ritornare a livelli pericolosi.\\
 
 \textbf{Parassiti}\index{Parassiti}
 
-Parassiti come cercaorecchie o larve necrofaghe provocano parassitosi, un tipo di Afflizione simile alle Malattie. Le parassitosi possono essere guarite solo attraverso trattamenti specifici; indipendentemente da quanti Tiri Salvezza si effettuano, la parassitosi continua ad affliggere il bersaglio. Anche se un Rimuovi Malattia (o un effetto simile) blocca immediatamente una parassitosi, l'immunità alle Malattie non offre protezione, dato che è causata da parassiti.
+Parassiti come cercaorecchie o larve necrofaghe provocano parassitosi, un tipo di Afflizione simile alle Malattie. Le parassitosi possono essere guarite solo attraverso trattamenti specifici; indipendentemente da quanti Tiri Salvezza si effettuano, la parassitosi continua ad affliggere il bersaglio. Anche se un Rimuovi Malattia (o un effetto simile) blocca immediatamente una parassitosi, l'immunità alle Malattie non offre protezione, dato che è causata da parassiti.\\
 
 \textbf{Cercaorecchie (grado di Sfida 5)}\index{Cercaorecchie}
 
@@ -8606,7 +8608,7 @@ Insorgenza: 4d6 ore
 
 Frequenza: 1/ora
 
-Effetti: 1d3 a Costituzione
+Effetti: 1d3 a Costituzione\\
 
 \textbf{Cristalli Mnemonici (grado di Sfida 3)}\index{Cristalli Mnemonici}
 
@@ -8617,7 +8619,7 @@ I cristalli mnemonici cumulano energia magica per crescere e difendersi, risucch
 Se il tiro fallisce, perdono il 10\% dei Punti Potere a disposizione. Danneggiando o rompendo i cristalli, le magie assorbite vengono espulsi con un'esplosione di energia mentale che infligge 1d3 danni alla Saggezza a tutti coloro che si trovano entro raggio di mischia.
 
 I cristalli mnemonici sono molto fragili (Durezza 0, 1 Punto Ferita).
-In aree ricche di cristalli, le creature che vi passano attraverso devono superare una prova di Acrobatica con DC 10 per evitare di camminarci sopra o sfiorarli rompendoli.
+In aree ricche di cristalli, le creature che vi passano attraverso devono superare una prova di Acrobatica con DC 10 per evitare di camminarci sopra o sfiorarli rompendoli.\\
 
 \textbf{Larve Necrofaghe (grado di Sfida 4)}\index{Larve Necrofaghe}
 
@@ -8637,13 +8639,13 @@ Insorgenza: immediata
 
 Frequenza: 1/round
 
-Effetti: 1d2 danni a Costituzione per larva
+Effetti: 1d2 danni a Costituzione per larva\\
 
 \textbf{Minerale Magnetizzato (grado di Sfida 2)}\index{Minerale Magnetizzato}
 
 Le strane energie del mondo sotterraneo possono caricare pietre e vene di minerali con potenti campi magnetici, creando un pericolo per chi porta o indossa metalli ferrosi. Tutte le cose di ferro o acciaio portate entro raggio di 3 metri dal minerale sono trascinate verso di esso.
 
-Le creature Piccole vengono trascinate anche con 7,5 kg di metallo, quelle Grandi solo con 30 kg. Per creature di altre taglie, il peso cambia in base alle regole della Capacità di Trasporto. Le creature con indosso armature metalliche subiscono una penalità, chi è colpito è trascinato fino a 9 metri, subisce 2d6 danni per l'impatto con la roccia ed è considerato afferrato. Liberare un oggetto colpito richiede una prova di Forza DC 20-25
+Le creature Piccole vengono trascinate anche con 7,5 kg di metallo, quelle Grandi solo con 30 kg. Per creature di altre taglie, il peso cambia in base alle regole della Capacità di Trasporto. Le creature con indosso armature metalliche subiscono una penalità, chi è colpito è trascinato fino a 9 metri, subisce 2d6 danni per l'impatto con la roccia ed è considerato afferrato. Liberare un oggetto colpito richiede una prova di Forza DC 20-25\\
 
 \textbf{Polla Maledetta (grado di Sfida 3)}\index{Polla Maledetta}
 
@@ -8653,7 +8655,7 @@ Una creatura all'interno della polla deve superare un Tiro Salvezza su Saggezza 
 
 Le prove di Nuotare (Resistenza) nella polla subiscono penalità -10, la velocità viene ridotta alla metà del normale a causa di questi effetti e la Difficoltà degli incantesimi aumenta di 5.
 
-Una polla maledetta irradia una forte magia, e può essere distrutta da Distruzione Magie o da Rimuovi Maledizione.
+Una polla maledetta irradia una forte magia, e può essere distrutta da Distruzione Magie o da Rimuovi Maledizione.\\
 
 \textbf{Quercia Velenosa (grado di Sfida 1 o 3)}\index{Quercia Velenosa}
 
@@ -8711,7 +8713,7 @@ Il costruttore stabilisce le DC delle prove di Consapevolezza e di Disattivare C
 
 \textbf{Trappola meccanica}: \index{Trappola meccanica}Tutte le prove di Consapevolezza e di Disattivare Congegni (Criminalità) hanno una DC base di 20. Aumentare o diminuire una o entrambe le DC modifica il grado di Sfida della trappola (Tabella: Modificatori al grado di Sfida delle Trappole Meccaniche).
 
-\textbf{Trappola Magica}:\index{Trappola Magica} Tutte le prove di Consapevolezza e di Disattivare Congegni (Criminalità) hanno una DC base di 28. Soltanto i personaggi addestrati su Senso Trappola possono effettuare una prova di Disattivare Congegni (Criminalità) su una trappola magica.
+\textbf{Trappola Magica}:\index{Trappola Magica} Tutte le prove di Consapevolezza e di Disattivare Congegni (Criminalità) hanno una DC base di 28. Soltanto i personaggi addestrati su Senso Trappola possono effettuare una prova di Disattivare Congegni (Criminalità) su una trappola magica.\\
 
 \textbf{Tabella: Modificatori al grado di Sfida delle Trappole Meccaniche}\index{Tabella Modificatori al grado di Sfida delle Trappole Meccaniche}
 
