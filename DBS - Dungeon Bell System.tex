@@ -51,11 +51,14 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \renewcommand{\headrulewidth}{0pt} % remove the header rule
 \fancyfoot[LE,RO]{\thepage} % Left side on Even pages; Right side on Odd pages
 \pagestyle{fancy}
-\fancypagestyle{plain}{%
-	\fancyhf{}%
-	\renewcommand{\headrulewidth}{0pt}%
+%\fancypagestyle{plain}{%
+%	\fancyhf{}%
+%	\renewcommand{\headrulewidth}{0pt}%
 %	\fancyhf[lef,rof]{\thepage}%
-}
+%}
+
+\fancyfoot[C]{Center}
+
 \usepackage{tabularx}
 \usepackage{longtable}
 \usepackage{pdfpages}
@@ -152,8 +155,7 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 \section{Introduzione}
 
 %\pagestyle{plain}
-\pagestyle{pgnumbottomcenter}
-\renewcommand{\chapterpagestyle}{pgnumbottomcenter}
+
 
 
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)}\end{tcolorbox}\medskip
