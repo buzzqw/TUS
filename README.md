@@ -15,10 +15,10 @@ Il gioco e' pressoche' completo anche se in fase di costante perfezionamento. Ne
 
 Una volta "terminato" il playtesting sara' disponibile in POD.
 
-*Nota*: abbiate pazienza per il pessimo codice di Latex, sono alle prime armi!
+**Nota**: abbiate pazienza per il pessimo codice di Latex, sono alle prime armi!
 
-*Nota2*: i commit sono cosi' numerosi perche' ho configurato TexStudio affinche' committi ogni volta che compilo il testo, il che avviene molto frequentemente dato che voglio controllare con scrupolo come viene l'output.
+**Nota2**: i commit sono cosi' numerosi perche' ho configurato TexStudio affinche' committi ogni volta che compilo il testo, il che avviene molto frequentemente dato che voglio controllare con scrupolo come viene l'output.
 
-*Nota3*: le versioni DOCX sono ottenute con pandoc, convertendoli da tex, la qualita' e' piuttosto pessima.
+**Nota3**: le versioni DOCX sono ottenute con pandoc, convertendoli da tex, la qualita' e' piuttosto pessima.
 
 Andres Zanzani
