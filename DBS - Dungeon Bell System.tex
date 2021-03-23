@@ -6316,7 +6316,7 @@ Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella s
 
 \textbf{Tipo}: indica se l'armature e' \textbf{L}eggera, \textbf{M}edia oppure \textbf{P}esante
 
-\textbf{Movimento}: e' la riduzione di movimento da applicare per Azione di Movimento.
+\textbf{Movimento}: e' la riduzione in metri di movimento da applicare per Azione di Movimento.
 
 \textbf{Peso}: e' l'ingombro dell'armatura da conteggiare.\\
 
@@ -6382,19 +6382,18 @@ Gli Scudi possono essere di tipo Leggero, Medio, Pesante.
 \begin{tabular}{lllllll}
 	\toprule
 	\textbf{Scudi} & \textbf{Costo} & \textbf{Bonus Difesa} & \textbf{Penalità TC} & \textbf{Penalità CM} & \textbf{Peso (kg)} & \textbf{Tipo}\\
-	Brocchiero& 5 mo   & 1 & 0& 1& 1  & L\\
-	Scudo leggero di legno   & 3 mo   & 2 & 0& 2& 2  & L\\
-	Scudo leggero di metallo & 9  mo  & 2 & 0& 3& 3  & L\\
-	Scudo medio legno   & 5 mo   & 3 & -1    & 4& 3  & M\\
-	Scudo medio metallo & 12 mo  & 3 & -1    & 5& 5  & M\\
-	Scudo pesante di legno   & 7  mo  & 4 & -2    & 6& 5  & P\\
-	Scudo pesante di metallo & 20 mo  & 4 & -2    & 8& 7  & P\\
+	Brocchiero					& 5 mo  	& 1 & 0		& 1& 1  & L\\
+	Scudo leggero di legno   	& 3 mo  	& 1 & 0		& 2& 2  & L\\
+	Scudo leggero di metallo 	& 9  mo  	& 1 & 0		& 3& 3  & L\\
+	Scudo medio legno   		& 5 mo   	& 2 & -1	& 4& 3  & M\\
+	Scudo medio metallo 		& 12 mo  	& 2 & -1  	& 5& 5  & M\\
+	Scudo pesante di legno   	& 7  mo  	& 3 & -2    & 6& 5  & P\\
+	Scudo pesante di metallo 	& 20 mo  	& 3 & -2    & 7& 7  & P\\
 \end{tabular}
 
 \medskip
 
-Uno scudo puo' essere usato come arma improvvisata.\\
-Il Tiro per Colpire e' penalizzato di -1d6 e uno scudo piccolo fa 2 di danno (B/T), uno scudo medio fa 1d4 di danno (B/T), uno scudo pesante fa 1d6 di danno (B/T).\\
+Uno scudo puo' essere usato come arma improvvisata. Il Tiro per Colpire e' penalizzato di -1d6 e uno scudo piccolo fa 2 di danno (B/T), uno scudo medio fa 1d4 di danno (B/T), uno scudo pesante fa 1d6 di danno (B/T).\\
 Usare lo scudo come arma improvvisata non lo fa contare nei bonus alla Difesa.
 
 \bigskip
@@ -6410,11 +6409,11 @@ Indossare e togliere armature è una operazione che richiede tempo ed attenzione
 \begin{tabular}{llll}
 	\toprule
 	\textbf{Tipo di Armatura}& \textbf{Indossare} & \textbf{Indossare in fretta} & \textbf{Togliere}\\
-	Scudo& 1 azione & -   & 1 azione\\
-	Imbottita, Cuoio, Cuoio rinforzata  &-&-&- \\
-	Giaco di Maglia& 1 minuto & 5 round  & 5 round\\
-	Scaglie, Anelli, Pettorale, Bande  & 4 minuti & 1 minuto{*}   & 1 minuto\\
-	Mezza armatura, da Campo, Completa & 4 minuti{*}{*}& 4 minuti{*}   & 1d4+1 minuti\\
+	Scudo								& 1 azione 	& -     	& 1 azione\\
+	Imbottita, Cuoio, Cuoio rinforzata  & 1 minuto	& 3 round  	& - \\
+	Giaco di Maglia						& 1 minuto	& 5 round  & 5 round\\
+	Scaglie, Anelli, Pettorale, Bande   & 4 minuti 	& 1 minuto{*}  & 1 minuto\\
+	Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\\
 \end{tabular}
 
 \medskip
@@ -7285,43 +7284,6 @@ In un piccolo paese si potrebbe trovare un incantatore in grado di lanciare inca
 
 Le armature e le armi si possono costruire con materiali che possiedono delle innate qualità speciali. Se si costruisce un'armatura o arma con più di un materiale speciale, si ricevono i benefici solo del materiale prevalente. Si può però costruire un'arma doppia con ogni testa fatta di un materiale speciale diverso.
 
-\subsubsection{Acciaio Forgiato a Caldo}\index{Acciaio Forgiato a Caldo}\index{Tabella Costo Acciaio Forgiato a Caldo}
-
-\label{acciaio-forgiato-a-caldo}
-
-\begin{tabular}{ll}
-	\toprule
-	\textbf{Tipo di oggetto in Acciaio Forgiato a Caldo} & \textbf{Modificatore al costo}\\
-	Munizione			& +15 mo per munizione\\
-	Arma				& +600 mo\\
-	Armatura leggera    & +1000 mo\\
-	Armatura media      & +2500 mo\\
-	Armatura pesante    & +3000 mo\\
-\end{tabular}
-
-I grandi fabbri si sono imbattuti nel segreto della lavorazione dell'acciaio forgiato a caldo, nel tentativo di creare strumenti facilmente utilizzabili in fucina. Non ci volle molto tempo per adattare le sue proprieta' uniche ad armi e armature. L'acciaio forgiato a caldo incanala il calore in una sola direzione per proteggere chi lo indossa o chi lo
-impugna.
-
-L'acciaio forgiato per il fuoco ha gli stessi Punti Ferita e la stessa Durezza dell'acciaio. 
-
-\subsubsection{Acciaio Forgiato a Freddo}\index{Acciaio Forgiato a Freddo}\index{Tabella Costo Acciaio Forgiato a freddo}
-
-\label{acciaio-forgiato-a-freddo}
-
-\begin{tabular}{ll}
-	\toprule
-	\textbf{Tipo di oggetto in Acciaio Forgiato a Freddo} & \textbf{Modificatore al costo}\\
-	Munizione               & +15 mo per munizione\\
-	Arma                    & +600 mo\\
-	Armatura leggera        & +1000 mo\\
-	Armatura media          & +2500 mo\\
-	Armatura pesante        & +3000 mo\\
-\end{tabular}
-
-Funziona in modo simile all'acciaio forgiato per il fuoco, tranne che i suoi effetti si applicano ai danni da freddo invece che ai danni da fuoco. E' richiesta una fucina con una fonte di freddo magica estremamente potente.
-
-L'acciaio forgiato a freddo ha gli stessi Punti Ferita e la stessa Durezza dell'acciaio. 
-
 \subsubsection{Acciaio Vivente}\index{Acciaio Vivente}\index{Tabella Costo Acciaio Vivente}
 
 \label{acciaio-vivente}
@@ -7340,8 +7302,7 @@ L'acciaio forgiato a freddo ha gli stessi Punti Ferita e la stessa Durezza dell'
 
 
 Alcuni alberi succhiano potenti minerali attraverso le loro radici nello stesso modo in cui altri attingono acqua dal terreno. Anche se questi alberi smussano le seghe e le asce usate per abbatterli e ignorano il fuoco, alla fine soccombono al tempo o agli elementi.\\
-Se correttamente raccolti, questi alberi caduti producono pepite di un metallo chiamato acciaio vivente. Questo metallo verde lucido lentamente si ripara. Un oggetto fatto di acciaio vivente ripara i suoi danni a un ritmo di 2 Punti Ferita al giorno o 1 punto ferita al giorno se ha la condizione Rotto.\\
-Gli oggetti che hanno soltanto una parte in metallo non sono influenzati dall'essere parzialmente in acciaio vivente.
+Se correttamente raccolti, questi alberi caduti producono pepite di un metallo chiamato acciaio vivente.\\
 
 Le armature e gli scudi di acciaio vivente possono danneggiare le armi di metallo che li colpiscono. Ogni volta che chi impugna un'arma di metallo ottiene un 3 naturale a un tiro per colpire contro una creatura che indossa un'armatura di acciaio vivente o brandisce uno scudo di questo metallo, l'oggetto deve superare un Tiro Salvezza su Tempra con CD 20 o ottiene la condizione Rotto. L'acciaio vivente non può danneggiare in questo modo le armi di Adamantio.
 
@@ -7383,7 +7344,7 @@ Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un
 	Scudo                         & +100 mo\\
 \end{tabular}
 
-Il processo di argentatura alchemica non può essere applicato alle armi non metalliche, e non funziona sui metalli speciali come ad esempio l'adamantio, il ferro freddo e il mithral.
+Il processo di argentatura alchemica può essere applicato solo alle armi metalliche e non funziona sui metalli speciali come ad esempio l'adamantio, il ferro freddo ed il mithral.
 
 Un complesso processo che coinvolge la metallurgia e l'alchimia può legare l'argento a un'arma fatta d'acciaio in modo che oltrepassi la Riduzione del Danno di creature come i Licantropi.
 
@@ -7395,7 +7356,7 @@ L'argento alchemico ha 10 Punti Ferita per ogni 2,5 cm di spessore e Durezza 8.
 
 Questo ferro viene estratto nelle profondità del sottosuolo ed è noto per la sua efficacia contro demoni e folletti. Viene forgiato ad una temperatura inferiore per conservare le sue delicate proprietà. Costruire armi fatte di ferro freddo costa il doppio rispetto alle loro normali controparti. Inoltre qualsiasi potenziamento magico costa 2.000 mo addizionali. Questo aumento viene applicato la prima volta che l'oggetto viene potenziato, non una volta per qualità aggiunta.
 
-Gli oggetti senza parti di metallo non possono essere costruiti in ferro freddo. Una freccia potrebbe essere fatta di ferro freddo ma un randello no. Un'arma doppia che è fatta solo per metà di ferro freddo aumenta il suo costo del 50\%.
+Gli oggetti senza parti di metallo non possono essere costruiti in ferro freddo. Una freccia potrebbe essere fatta di ferro freddo ma un randello no (tranne se tutto di metallo). Un'arma doppia che è fatta solo per metà di ferro freddo aumenta il suo costo del 50\%.
 
 Il ferro freddo ha 30 Punti Ferita per 2,5 cm di spessore e Durezza 10. 
 
@@ -7420,7 +7381,7 @@ Il mithral è un metallo molto raro, luccicante, simile all'argento, più legger
 
 Questa diminuzione non si applica alla competenza necessaria per indossare l'armatura in questione (per indossare un'armatura pesante di mithral occorre avere CA 3, anche se questa viene considerata come media per altri fattori). Occorre essere competenti nel tipo di armatura appropriato, altrimenti si incorre nelle relative penalità come di norma.
 
-Le probabilità di fallimento di un incantesimo per armature e scudi in mithral diminuiscono di 5 punti e la penalità ad Destrezza diminuiscono di 3 (fino a un minimo di 0), le penalità al movimento diminuiscono di 1 metro.
+Le probabilità di fallimento di un incantesimo per armature e scudi in mithral diminuiscono di 5 punti e la penalità alla Destrezza diminuiscono di 3 (fino a un minimo di 0), le penalità al movimento diminuiscono di 1 metro.
 
 Il mithral ha 30 Punti Ferita per ogni 2,5 cm di spessore e Durezza 15. 
 
@@ -7449,6 +7410,8 @@ Quando si tenta di spaccare un oggetto le scelte sono due: colpirlo con un'ogget
 \medskip
 
 A seconda delle dimensioni dell'oggetto questo puo' essere piu' o meno facile da colpire.
+
+\medskip
 
 \textbf{Tabella: Taglia e Difesa degli Oggetti - Colpire un Oggetto}\index{Tabella Taglia e Difesa degli Oggetti - Colpire un Oggetto}
 
@@ -7516,9 +7479,11 @@ Allo stesso modo è decisamente difficile abbattere una porta o un muro di pietr
 
 Un oggetto custodito da un personaggio (che lo tenga in mano, lo tocchi o lo indossi) ottiene un Tiro Salvezza proprio come se lo stesse effettuando il personaggio (cioè usando il suo bonus al Tiro Salvezza).
 
-\textbf{Gli Oggetti Magici hanno sempre Tiro Salvezza}. Il bonus ai Tiri Salvezza su Tempra, Riflessi o Saggezza di un Oggetti Magico sono pari a 2 + metà Livello dell'incantatore che li ha creati.
+\textbf{Gli Oggetti Magici hanno sempre Tiro Salvezza}. Il bonus ai Tiri Salvezza su Tempra, Riflessi o Volontà di un Oggetti Magico sono pari a 2 + metà Livello dell'incantatore che li ha creati.
 
-Gli Oggetti Magici custoditi effettuano i Tiri Salvezza come il loro possessore oppure usano i loro Tiri Salvezza, quali che siano i migliori.\\
+Gli Oggetti Magici custoditi (indossati) effettuano i Tiri Salvezza come il loro possessore oppure usano i loro Tiri Salvezza, quali che siano i migliori.\\
+
+\medskip
 
 \textbf{Tabella: Durezza, Punti Ferita e DC per Rompere Oggetti}\index{Tabella Durezza, Punti Ferita e DC per Rompere Oggetti}\\
 
@@ -7553,7 +7518,9 @@ Quando si tenta di rompere qualcosa con forza improvvisa piuttosto che infliggen
 
 Poiché la Durezza non influisce sulla DC per rompere l'oggetto, questo valore dipende più dal modo in cui è costruito l'oggetto che non dal materiale. Vedi Tabella: DC per Rompere o forzare Oggetti per una lista delle DC più comuni relative al rompere gli oggetti.
 
-Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità di taglia sulla prova di Forza per sfondare una porta:
+Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità dati dalla taglia sulla prova di Forza per sfondare una porta:
+
+\medskip
 
 \textbf{Tabella: Modificatori prova di Forza per Sfondare porta in base alla propria taglia}\index{Tabella Modificatori prova di Forza per Sfondare porta}
 
@@ -7652,7 +7619,7 @@ La \textbf{Luce Normale} e' la luce all'aperto sotto il sole, ma anche se si tie
 \smallskip
 
 La \textbf{Luce estesa o Penombra} e' la luce oltre una fonte di luce. E' il passare in un corridoio di 3 metri se e illuminato solo da fioche candele. E' una notte di luna piena.
-In linea di massima una fonte di luce crea luce estesa in un raggio doppio rispetto alla luce normale.\\
+In linea di massima una fonte di luce crea luce estesa/penombra in un raggio doppio rispetto alla luce normale.\\
 
 Stare alla luce delle stelle con luna piena è essere in penombra (+2 Difesa)\\
 
@@ -14015,7 +13982,7 @@ The following text is the property of Wizards of the Coast, LLC. and is Copyrigh
     
     1.0.6 rilasciato su github versione 1.0.5, layout, piccola nota di folklore sull'incantesimo reincarnazione, semplificate e ridotte le regole per volare, chiarimenti su costruzione tesoro, persone non eroi, ordinato meglio a livello di capitoli la parte di yeru calendario e draghi, layout, rimossa razza Altri, aggiunta abilita' infondere coraggio, layout su requisiti abilita', aggiunta abilita' infondere paura, aggiunti gnomi, correzioni e dettagli su cosmologia e Yeru, aggiunto aggancio al Ker, aggiunto Abilita' Sapiente, chiarimenti su abilita' Scacciare i non morti, aggiunta opzione limitativa su consapevolezza, corretto abilita' colpo mortale, corretta abilita' Ferocia, modificata lista armi ascia, layout su tabella armi, modificato movimento per peso trasportato, aggiornato guerriero della magia, modificato critico opzionale,
     
-    1.0.7 rilasciato su github versione 1.0.6, fix version, modificato valore di cura tra stessi devoti, gli incantesimi di cura sono a tocco (utile solo se si e' contro non morti), chiarimenti su incantesimo comando, nota su perfezionamento competenza, chiarimenti a competenze, utilizzo Abilita' esperto,  layout prerequisito-requisito, chiarimenti su attacco opportunita', 
+    1.0.7 rilasciato su github versione 1.0.6, fix version, modificato valore di cura tra stessi devoti, gli incantesimi di cura sono a tocco (utile solo se si e' contro non morti), chiarimenti su incantesimo comando, nota su perfezionamento competenza, chiarimenti a competenze, utilizzo Abilita' esperto,  layout prerequisito-requisito, chiarimenti su attacco opportunita', modificati valore protezione scudi, rimosso metallo a caldo, rimosso metallo a freddo, modificato metallo vivente, aggiornamenti su sfondare ed entrare, 
     
     \bigskip
     
