@@ -42,6 +42,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \tcbuselibrary{skins}
 \tcbset{colback=brown!10, fonttitle=\scshape}
 \usepackage{imakeidx}
+\usepackage{cancel}
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
 
 
@@ -64,6 +65,8 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{D}[1]{>{\centering}m{#1}}
+
+
 
 \titleformat{\section}{\huge\bfseries}{\thesection}{1em}\textsc{}
 \titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}\textsc{}
@@ -96,7 +99,6 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 	enhanced,
 	title = Example,
 	before upper={\parindent15pt\noindent} % add paragraph indentation
-	
 }
 
 %\backgroundsetup{
@@ -1083,6 +1085,9 @@ Ricordati sempre delle 3 regole base: esplosione del 6, gli uno portano male ed 
 
 Potranno esserci situazioni od oggetti che concedono un bonus specifico ad una competenza ovvero non tanto un bonus a Criminalità ma solo a mani di fata, in quel caso il bonus si applica non a tutte le prove di Criminalità ma solo a quelle specifiche di mani di fata.
 
+\begin{note}{
+Non sottovalutate la scelta della Competenze ne tanto meno l'uso. Non tutto puo' risolversi con asciate o magia. Sapere districare nodi, seguire tracce, riconoscere erbe o malattie fanno del personaggio un esperto, creano una professione. Non dovete definire il personaggio solo in base alle abilità che ha ma in base a cosa e quanto bene sa farlo. Un personaggio di basso livello ma esperto di sopravvivenza sara' sempre piu' utile di un combattente esperto se si tratta di attraversare un deserto.}\end{note}\medskip
+
 
 \subsection{Competenze Attive}\index{Competenze Attive}
 
@@ -1093,20 +1098,10 @@ Potranno esserci situazioni od oggetti che concedono un bonus specifico ad una c
 	}\end{tcolorbox}\medskip
 
 Ogni personaggio prende 3 punti da distribuire nelle Competenze Attive a livello. Si può assegnare massimo 1 punto a livello in una singola Competenza Attiva.\\
-Le Competenze Attive sono:
 
-\begin{itemize}
-\item
-Competenza Magica\index{Competenza Magica}
-\item
-Competenza Armi\index{Competenza Armi}
-\item 
-Tiro Salvezza su Tempra\index{Tiro Salvezza su Tempra}
-\item
-Tiro Salvezza su Volontà \index{Tiro Salvezza su Volontà}
-\item
-Tiro Salvezza su Riflessi\index{Tiro Salvezza su Riflessi}
-\end{itemize}
+Le \textbf{Competenze Attive} sono: Competenza Magica, Competenza Armi, Tiro Salvezza su Tempra, Tiro Salvezza su Riflessi, Tiro Salvezza su Volontà\\
+
+\medskip
 
 \textbf{Competenza Magica (CM)} \index{CM}(varie): indica la capacità e competenza nel lanciare un'incantesimo.
 
@@ -6466,7 +6461,7 @@ Oltre ad armi e armature, un personaggio può avere una notevole varietà di att
 	Inchiostro (boccetta da 30 g)& 8 mo& -   & Lampada comune& 1 ma& 0.5   \\
 	Lanterna a lente sporgente  & 12 mo    & 0.5   & Lanterna schermabile& 7 mo& 1   \\
 	Legna da ardere (per giorno)& 1 mr& 20   & Maglio& 1 mo& 6   \\
-	Manette & 15 mo    & -   & Manette perfette    & 50 mo& L-  \\
+	Manette & 15 mo    & 0.5   & Manette perfette    & 50 mo& 0.4  \\
 	Martello& 5 ma& 1   & Olio (ampolla da 0,5 l)& 1 ma& -   \\
 	Orologio ad acqua   & 1.000 mo & 500  & Otre  & 1 mo& 2   \\
 	Pennino & 1 ma& -   & Pentola di ferro    & 8 ma& 3   \\
@@ -6524,7 +6519,7 @@ Oltre ad armi e armature, un personaggio può avere una notevole varietà di att
 	Cavallo leggero   & 75 mo    & -& Cavallo leggero (addestrato)  & 110 mo    & -\\
 	Cavallo pesante   & 200 mo   & -& Cavallo pesante (addestrato)  & 300 mo    & -\\
 	Pony  & 30 mo    & -& Pony (addestrato) & 45 mo& -\\
-	Morso e briglie   & 2 mo& L& Nutrimento (al giorno)  & 5 mr& 3\\
+	Morso e briglie   & 2 mo&2& Nutrimento (al giorno)  & 5 mr& 3\\
 	Sacche da sella   & 4 mo& 3& && \\
 	Sella Militare    & 50 mo    & 7& Sella esotica& 40 mo& 10\\
 	Sella Da carico   & 15 mo    & 5& Sella Da galoppo  & 30 mo& 6\\
@@ -9758,12 +9753,12 @@ Quando non puoi più correre, cammina veloce; quando non puoi più camminare vel
 \end{tcolorbox}\medskip
 
 
-Vi sono tre scale di movimento nel gioco:
+Il movimento si puo' distinguere in base a quale situazione coinvolge.
 
 \medskip
 
 \begin{itemize}
-	\item Tattico, per il combattimento, si usano le distanze Mischia e i quadretti di 1 metro di lato
+	\item Tattico, quando si combatte, si usano le distanze precise ed i quadretti di 1 metro di lato
 	\item Locale, per esplorare una zona, misurato in metri al minuto.
 	\item Via Terra, per muoversi da un posto all'altro, misurato in km all'ora o al giorno.
 \end{itemize}
@@ -9772,7 +9767,7 @@ Vi sono tre scale di movimento nel gioco:
 
 \subsection{Tipi di Movimento}
 
-Quando si muovono nelle differenti scale di movimento, le creature generalmente camminano o corrono.
+Quando si muovono nelle differenti scale di movimento (Tattico, Locale Via Terra), le creature generalmente camminano o corrono.
 
 \textbf{Camminare}:\index{Camminare} Camminare rappresenta un movimento non affrettato ma deciso di circa 4 km all'ora per un umano senza Ingombro.
 
@@ -9810,7 +9805,7 @@ Questa tabella mostra i valori base di movimento a terra in situazioni di non co
 \subsection{Movimento Tattico}\index{Movimento Tattico}
 
 Durante un combattimento si utilizza il Movimento tattico.\\
-Le distanze vengono misurate in quadretti da un metro, il movimento e' gestito tramite le Azioni di Movimenti.\\
+Le distanze vengono misurate in quadretti da un metro, il movimento e' gestito tramite le Azioni di Movimento.\\
 
 Un personaggio puo' usare 1 Azione (di Movimento) per muoversi fino a tutto il proprio movimento. Puo' effettuare piu' volte nel round, fino a 3 volte, l'azione Movimento, spostandosi quindi del triplo del suo movimento.
 
@@ -9942,9 +9937,9 @@ Nel movimento round per round è impossibile per un personaggio lento sfuggire a
 
 Quando la velocità dei due personaggi coinvolti è uguale, c'è un metodo abbastanza semplice per risolvere un inseguimento: se una creatura sta inseguendo un'altra ed entrambe si muovono alla stessa velocità, e l'inseguimento prosegue almeno per alcuni round, occorre che inseguitore ed inseguito effettuino 3 Tiri Salvezza consecutivi su Riflessi contrapposti.
 
-Chi ottiene i risultati migliori riesce a fare perdere le proprie tracce.
+Chi vince la sfida riesce a fare perdere le proprie tracce o agguantare il fuggitivo.
 
-Nel caso di un lungo inseguimento dove non c'e' possibilita' di nascondersi o fare perdere le proprie tracce, un Tiro Salvezza su Tempra contrapposto determina quale delle due parti può mantenere più a lungo il ritmo. Se la creatura inseguita ottiene il risultato più alto, riesce a fuggire, altrimenti è l'inseguitore che riesce a raggiungerla.
+Nel caso di un lungo inseguimento dove non c'e' possibilita' di nascondersi o fare perdere le proprie tracce, eseguite 3 Tiri Salvezza su Tempra contrapposti per determinare quale delle due parti può mantenere più a lungo il ritmo. Se la creatura inseguita ottiene il risultato più alto, riesce a fuggire, altrimenti è l'inseguitore che riesce a raggiungerla.
 
 \subsection{Capacità di Carico e Trasporto: Peso Ingombro}\index{Capacità di Carico}\index{Ingombro}
 
@@ -10097,9 +10092,14 @@ Il tuo "lavoro" e' fondamentale ed importantissimo, la bontà della sessione di 
 
 In DBS il passaggio di livello non è vincolato da un numero di mostri affrontati o dai tesori ottenuti, bensì dal fattore di difficoltà degli incontri e da come i giocatori hanno giocato.
 
-Il consiglio e suggerimento primario è "passate di livello ogni qualvolta lo ritenete necessario al buon gioco ed all'avventura".
+In DBS il suggerimento primario e' premiare i giocatori che piu' si sono impegnati per il gruppo, quelli che maggiormente hanno contribuito al buon esito dell'avventura e della sessione. I punti esperienza non misurano solo il successo ma anche la partecipazione al gioco.
 
-Se questo consiglio può sembrare un pò troppo scarno propongo un altro approccio, semplice ma ancora più efficace e stimolante.
+E' quindi possibile avere personaggio con punti esperienza diversi e potenzialmente anche livelli diversi.
+
+Alternativamente potete decidere di fare passare di livello ogni qualvolta lo ritenete necessario al buon gioco ed all'avventura, uniformando l'esperienza dei personaggi.
+
+Di seguito troverete le regole per stabilire come costruire gli incontri, scontri e come premiare i giocatori/personaggi.\\
+
 
 Prendete questa tabella dei punti esperienza
 
@@ -10144,24 +10144,24 @@ Quando dico "incontro" non pensate al semplice scontro con i mostri, per incontr
 Ogni qual volta il giocatore o il gruppo:\index{Bonus PX}\index{Bonus Esperienza}
 \begin{itemize}
 	\item
-	      \textbf{raggiunga gli obiettivi prefissati};
+	      \textbf{raggiunga gli obiettivi prefissati} (premio di gruppo);
 	\item
-	      \textbf{faccia un ottimo gioco di ruolo};
+	      \textbf{faccia un ottimo gioco di ruolo} (premio al giocatore);
 	\item
-	      \textbf{sfrutti a pieno ed anzi sia alternativo nell'uso delle proprie Abilità e capacità (senza cadere nel powerplayer)};
+	      \textbf{sfrutti a pieno ed anzi sia alternativo nell'uso delle proprie Abilità e capacità (senza cadere nel powerplayer)} (premio al giocatore);
 	\item
-	      \textbf{risolva i problemi in maniera creativa e fantasiosa e funzionale};
+	      \textbf{risolva i problemi in maniera creativa e fantasiosa e funzionale} (premio al giocatore);
 	\item
-	      \textbf{abbia buona collaborazione ed interpretazione dei diversi ruoli all'interno del gruppo e come gruppo verso i "terzi"};
+	      \textbf{abbia buona collaborazione e sappia interagire come gruppo gruppo verso i png};
 	\item
-	      \textbf{scopra o avvii indizi di avventura e creazione di nuovi plot};
+	      \textbf{scopra o avvii indizi di avventura e creazione di nuovi plot} (premio al giocatore);
 	\item
-	      \textbf{raccolga 10000 monete d'oro (o tesoro equivalente)};
+	      \textbf{raccolga 5000 monete d'oro (o tesoro equivalente)}(premio di gruppo);
 \end{itemize}
 
 \bigskip
 
-Premiate il giocatore/giocatori con 1 punto esperienza. Questi punti vanno dati per sessione di gioco.
+Premiate il giocatore/giocatori con 1 punto esperienza. Questi punti vanno dati per sessione di gioco al chi si li e' meritati come singolo o gruppo.
 
 In questo sistema sono necessarie circa 10 sessioni per passare di livello, potenzialmente anche molte meno se i giocatori si dimostrano bravi ed interpretano personaggi e situazioni in maniera brillante.
 
@@ -10182,7 +10182,7 @@ Una nota riguarda i \textbf{premi per monete d'oro}: può sembrare anacronistico
 
 Un incontro è un momento di tensione e speranza, paura e sfida. E' l'occasione di mostrare e manifestare le proprie capacità e di lavorare come gruppo.
 
-Un incontro non è l'occasione per fare sfoggio del proprio potere assoluto, sia come Narratore, che come Giocatore. Il Narratore saprà punire il giocatore che vuole essere oltre il gruppo e non parte di esso.
+Un incontro non è l'occasione per fare sfoggio del proprio potere assoluto, sia come Narratore, che come Giocatore. Il Narratore saprà \xcancel{punire} fare capire il giocatore che vuole essere oltre il gruppo e non parte di esso.
 
 Troverete nelle pagine seguenti le istruzioni per creare delle sfide facili (0 punti esperienza), medie e alte (1 punto esperienza), straordinarie (2 punti esperienza) ed epiche (3 punti esperienza).
 
@@ -10220,7 +10220,10 @@ Si noti che questa guida di riferimento della creazione di un incontro presuppon
 
 \bigskip
 
-\textbf{Costruire l'Incontro}: per costruire un incontro come prima cosa calcolate il valore dell' APL.
+\subsubsection{Costruire l'Incontro}
+
+
+Per costruire un incontro come prima cosa calcolate il valore dell' APL.
 
 Per sviluppare il vostro incontro, aggiungete le creature, le trappole ed i pericoli finché non arrivate a vostro APL programmato.
 
@@ -10228,7 +10231,7 @@ Parti calcolando le sfide con grado di Sfida più alto dell'incontro, completand
 
 Per esempio, volete che il vostro gruppo di sei personaggi di 7° livello affronti alcuni Gargoyle (grado di Sfida 2 ciascuno), degli Xorn (grado di Sfida 5) e il loro capo, un Gigante delle Pietre (grado di Sfida 7). I personaggi hanno APL 8 e la Tabella: Determinare gli Incontri stabilisce che una sfida Alta per un APL 8 è un incontro di grado di Sfida 9.
 
-Partendo da un grado di Sfida stabilito (10) seguite questa tabella per stabilire quanti "mostri inserire nello scontro".
+Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire quanti "mostri inserire nello scontro".
 
 \textbf{Tabella: Peso grado di Sfida per calcolo APL}\index{Tabella Peso grado di Sfida per calcolo APL}
 
@@ -10258,40 +10261,41 @@ Per raggiungere l'obiettivo di un grado di Sfida 9 metterò 1 grado di Sfida -2 
 
 Avversari con grado di Sfida inferiore a 7 rispetto al APL si contano, "pesano", solo se sono superiori a 20 come unità.
 
-\textbf{Aggiungere i PNG}
+\subsubsection{Aggiungere i PNG}
 
 Una creatura che possiede livelli, Abilità, competenze, che potrebbe essere un personaggio si considera un PNG. Queste creature possono svolgere un ruolo molto importante e non vanno usate come semplici "mostri". Dategli uno spessore e creerete dei personaggi indimenticabili.
 
-\textbf{Modifiche ad Hoc del grado di Sfida}
+\subsubsection{Modifiche ad Hoc del grado di Sfida}
 
 Mentre potete modificare il grado di Sfida specifico del mostro avanzandolo, applicando modifiche o livelli, potete anche aggiustare la difficoltà dell'incontro applicando modifiche ad hoc all'incontro o alla creatura in sé.
 
 Qui descritti ci sono tre modi aggiuntivi con cui potete alterare la difficoltà dell'incontro.
 
-\textbf{Terreno Favorevole ai PG}
+\subsubsection{Terreno Favorevole ai PG}
 
 Un incontro contro un mostro che non è nel suo elemento preferito (come uno Yeti incontrato in una caverna piena di lava, o un Drago enorme incontrato in una stanza molto piccola) da ai personaggi un vantaggio. Sviluppate l'incontro normalmente considerate l'incontro come se avesse un grado di Sfida più basso del suo grado di Sfida reale.
 
-\textbf{Terreno Sfavorevole ai PG}
+\subsubsection{Terreno Sfavorevole ai PG}
 
 I mostri sono progettati con il presupposto che siano incontrati nel loro terreno preferito: incontrare un Aboleth sott'acqua non aumenta il grado di Sfida dell'incontro, anche se nessun personaggio è in grado di respirare sott'acqua.
 
 Se, d'altra parte, il terreno ha un impatto più significativo sull'incontro (come un incontro contro una creatura con Vista Cieca in una zona che sopprime ogni fonte di luce), si possono, nel caso, aumentare il grado di Sfida dell'incontro fosse di un grado più alto.
 
 
-\textbf{Modifiche all'Equipaggiamento dei PNG}
+\subsubsection{Modifiche all'Equipaggiamento dei PNG}
 
 Potete aumentare o diminuire la difficoltà data dai PNG modificandone l'Equipaggiamento. Il valore combinato dell'Equipaggiamento di un PNG è dato in Creare i PNG alla Tabella: Equipaggiamento dei PNG. Un PNG incontrato senza Equipaggiamento dovrebbe avere un grado di Sfida ridotto di 1 (a condizione che la perdita di Equipaggiamento sia realmente controproducente per il PNG), mentre un PNG che ha un Equipaggiamento equivalente a quello di un personaggio (come indicato sulla Tabella: Ricchezza dei PNG per Livello) ha un grado di Sfida superiore di 1 al suo grado di Sfida reale.
 
 Occorre prestare attenzione ad assegnare ai PNG questo equipaggiamento supplementare, specie ai livelli più alti, in cui potete consumare l'intero tesoro della vostra avventura in un colpo solo!
 
-\textbf{Assegnare i PX}
+\subsubsection{Assegnare i PX}
 
-I personaggi avanzano di livello sconfiggendo mostri, superando sfide e completando l'avventura: nel farlo guadagnano i Punti Esperienza (PX in breve). Potete assegnare Punti Esperienza non appena una sfida viene superata, ma ciò potrebbero interrompere il flusso del gioco. E' più facile assegnare i punti esperienza alla fine di una sessione di gioco che permetta ai personaggi di riflettere su quanto accaduto. Può usare il tempo a disposizione fra le sessioni di gioco per aggiornare la scheda.
+I personaggi avanzano di livello sconfiggendo mostri, superando sfide e completando l'avventura: nel farlo guadagnano i Punti Esperienza (PX in breve). Potete assegnare Punti Esperienza non appena una sfida viene superata, ma ciò potrebbero interrompere il flusso del gioco. E' più facile assegnare i punti esperienza alla fine di una sessione di gioco (o piu' sessioni) che permetta ai personaggi di riflettere su quanto accaduto. Può usare il tempo a disposizione fra le sessioni di gioco per aggiornare la scheda.
 
 \subsubsection{Disporre Tesori}
 
-Mentre i personaggi avanzano di livello, anche la quantità di tesori che trasportano ed usano aumenta. In DBS si suppone che tutti i personaggi di pari livello abbiano più o meno la stessa quantità di tesoro e oggetti magici. Poiché il reddito primario per un personaggio deriva dai tesori e dai bottini ricavati dalle avventure, è importante moderare la ricchezza e i tesori nelle vostre avventure. Per aiutarvi nel disporre i tesori, la quantità di oggetti magici e di bottino che i personaggi ricevono per le loro avventure è legata al grado di Sfida degli incontri che affrontano: più è alto il grado di Sfida dell'incontro, maggiore sarà il tesoro assegnato.
+Mentre i personaggi avanzano di livello, anche la quantità di tesori che trasportano ed usano aumenta. In DBS si suppone che tutti i personaggi di pari livello abbiano più o meno la stessa quantità di tesoro e oggetti magici. Poiché il reddito primario per un personaggio deriva dai tesori e dai bottini ricavati dalle avventure, è importante moderare la ricchezza e i tesori nelle vostre avventure.\\
+Per aiutarvi nel disporre i tesori, la quantità di oggetti magici e di bottino che i personaggi ricevono per le loro avventure è legata al grado di Sfida degli incontri che affrontano: più è alto il grado di Sfida dell'incontro, maggiore sarà il tesoro assegnato.
 
 \textbf{La Tabella: Ricchezza dei PNG} per Livello indica la quantità di tesoro che ogni personaggio dovrebbe avere ad un livello specifico. Si noti che questa tabella si basa su un modello standard di gioco.
 
@@ -14035,7 +14039,7 @@ The following text is the property of Wizards of the Coast, LLC. and is Copyrigh
     
     1.0.6 rilasciato su github versione 1.0.5, layout, piccola nota di folklore sull'incantesimo reincarnazione, semplificate e ridotte le regole per volare, chiarimenti su costruzione tesoro, persone non eroi, ordinato meglio a livello di capitoli la parte di yeru calendario e draghi, layout, rimossa razza Altri, aggiunta abilita' infondere coraggio, layout su requisiti abilita', aggiunta abilita' infondere paura, aggiunti gnomi, correzioni e dettagli su cosmologia e Yeru, aggiunto aggancio al Ker, aggiunto Abilita' Sapiente, chiarimenti su abilita' Scacciare i non morti, aggiunta opzione limitativa su consapevolezza, corretto abilita' colpo mortale, corretta abilita' Ferocia, modificata lista armi ascia, layout su tabella armi, modificato movimento per peso trasportato, aggiornato guerriero della magia, modificato critico opzionale,
     
-    1.0.7 rilasciato su github versione 1.0.6, fix version, modificato valore di cura tra stessi devoti, gli incantesimi di cura sono a tocco (utile solo se si e' contro non morti), chiarimenti su incantesimo comando, nota su perfezionamento competenza, chiarimenti a competenze, utilizzo Abilita' esperto,  layout prerequisito-requisito, chiarimenti su attacco opportunita', modificati valore protezione scudi, rimosso metallo a caldo, rimosso metallo a freddo, modificato metallo vivente, aggiornamenti su sfondare ed entrare, modificato borsa conservante, creato il vano portatile dal buco portatile e creato il buco portatile come era una volta, aggiornato uso oggetti magici in due azioni e non una, parziale rilettura bonus tratti dato da patroni, completata rilettura bonus tratti patrono, con l'abilita' animalia  puoi curare anche animali e piante, specificato che gli incantesimi cura ferite non funzionano su piante se non dichiarato diversamente, chiarimenti su trappole, chiarimenti su veleni, aggiunti hyperlink nel manuale pdf a capitolo Costruiamo il personaggio, 
+    1.0.7 rilasciato su github versione 1.0.6, fix version, modificato valore di cura tra stessi devoti, gli incantesimi di cura sono a tocco (utile solo se si e' contro non morti), chiarimenti su incantesimo comando, nota su perfezionamento competenza, chiarimenti a competenze, utilizzo Abilita' esperto,  layout prerequisito-requisito, chiarimenti su attacco opportunita', modificati valore protezione scudi, rimosso metallo a caldo, rimosso metallo a freddo, modificato metallo vivente, aggiornamenti su sfondare ed entrare, modificato borsa conservante, creato il vano portatile dal buco portatile e creato il buco portatile come era una volta, aggiornato uso oggetti magici in due azioni e non una, parziale rilettura bonus tratti dato da patroni, completata rilettura bonus tratti patrono, con l'abilita' animalia  puoi curare anche animali e piante, specificato che gli incantesimi cura ferite non funzionano su piante se non dichiarato diversamente, chiarimenti su trappole, chiarimenti su veleni, aggiunti hyperlink nel manuale pdf a capitolo Costruiamo il personaggio, chiarimenti su competenze, corretto peso di oggetti (manette e morso), suggerimenti su assegnazione punti esperienza e metodologia passaggio di livello, diversi chiarimenti su capitolo incontri, aggiornamento layout incontri, 
     
     \bigskip
     
