@@ -55,6 +55,11 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{longtable}
 \usepackage{pdfpages}
 \usepackage{hyperref}
+\usepackage{tikz}
+%\usetikzlibrary{backgrounds,calc}
+%\pgfdeclarelayer{background}
+%\pgfdeclarelayer{foreground}
+%\pgfsetlayers{background,main,foreground}  
 %\pdfminorversion=5
 %%\makeatletter
 %%\makeatother
@@ -113,7 +118,9 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 
 \backgroundsetup{contents={}}
 
+
 \begin{document}
+
 
 \title{Dungeon Bell System (DBS)\\\vspace{1cm}Adventures Game}
 \date{\today\\v1.0.8\\
@@ -128,6 +135,19 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 
 %%\linespread{1.5}
 
+
+
+
+%\begin{tikzpicture}
+%	\begin{pgfonlayer}{background}
+%		\node[anchor=south east,outer sep=10pt,inner sep=10pt] at ($(current page.south east) $) %{\includegraphics[width=3cm]{destra2.png}}; %dx down
+%		\node[anchor=north east,outer sep=10pt,inner sep=10pt] at ($(current page.north east) $) %{\includegraphics[width=3cm]{destra.png}}; %dx up
+%		\node[anchor=south west,outer sep=10pt,inner sep=10pt] at ($(current page.south west) $) %{\includegraphics[width=3cm]{sinistra2.png}}; % sx down
+%		\node[anchor=north west,outer sep=10pt,inner sep=10pt] at ($(current page.north west) $) %{\includegraphics[width=3cm]{sinistra.png}}; %sx up
+%	\end{pgfonlayer}
+%\end{tikzpicture}
+
+\bigskip
 Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni\\
  
 Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
@@ -1043,7 +1063,7 @@ Ad ogni livello successivo distribuisce un numero di punti pari la metà del pun
 Nessuna competenza di base può avere un punteggio superiore al livello del personaggio+1.
 
 \begin{note}
-Una eccezione a questa regola e' per la competenza Consapevolezza il cui punteggio non puo' superare LV*2/3.
+Una eccezione a questa regola e' per la competenza Consapevolezza i cui punti assegnati non possono superare LV*2/3.
 \end{note}
 
 
@@ -1385,8 +1405,8 @@ Questi situazioni non si applicano alla prova del Tiro per Colpire o Tiro Salvez
 \subsection{Consapevolezza* - Opzionale}\index{Consapevolezza}
 
 La Consapevolezza e' una di quelle competenze che entra in gioco molto spesso.\\
-Partendo dal presupposto che dovrebbero essere le domande e ragionamenti dei giocatori a rivelare gli indizi, la Consapevolezza viene tirato ogni qual volta ci sia da cercare qualcosa di non ovvio, qualcosa che deve essere cercato altrimenti non risulta percettibile.\\
-Per evitare delle storpiature o personaggi in grado di percepire sempre e comunque suggerisco di impostare il punteggio di Consapevolezza ad un valore pari ad un terzo del livello (modificato comunque dal punteggio di Saggezza) aumentabile solo tramite le Abilità.
+Partendo dal presupposto che dovrebbero essere le domande e ragionamenti dei giocatori a rivelare gli indizi, la Consapevolezza viene tirato ogni qual volta ci sia da cercare qualcosa di non ovvio, qualcosa che deve essere cercato altrimenti non risulta percettibile o intuibile.\\
+Per evitare delle storpiature o personaggi in grado di percepire sempre e comunque suggerisco di impostare il punteggio di Consapevolezza ad un valore pari ad un terzo del livello (modificato comunque dal punteggio di Saggezza) aumentabile solo tramite le Abilità e senza che il giocatore possa assegnare punti.
 
 Un altro approccio (che suggerisco sempre e comunque) e' non creare "prove" semplicemente percettibili, ma da ragionare e carpire dall'ambiente, situazione e personaggi di contorno.
 
