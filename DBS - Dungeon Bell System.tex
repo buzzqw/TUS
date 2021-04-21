@@ -1,4 +1,4 @@
-\documentclass[a4paper,11 pt,twoside,openany]{book}
+\documentclass[a4paper,10 pt,twoside,openany]{book}
 \usepackage{quoting}
 \usepackage{tcolorbox}
 \usepackage{tikz}
@@ -1420,7 +1420,6 @@ In questi casi il personaggio ed il Narratore effettuano una prova, chi ottiene 
 
 \textbf{Alcuni esempi di prova opposte}
 
-\begin{itemize}
 	\item Ingannare qualcuno: Faccia Tosta Vs Consapevolezza
 	\item Travestirsi per sembrare qualcun'altro: Intrattenere Vs Consapevolezza
 	\item Creare una mappa falsa: Cultura Vs Cultura
@@ -1428,7 +1427,6 @@ In questi casi il personaggio ed il Narratore effettuano una prova, chi ottiene 
 	\item Intimidire: Faccia tosta Vs Tiro Salvezza su Volontà
 	\item Rubare: Criminalità Vs Consapevolezza (valutare bene bonus e malus)
 	\item Slegarsi da delle corde: Criminalità Vs Sopravvivenza
-\end{itemize}
 
 \begin{note}
 Ogni qual volta la prova opposta riguarda una \textbf{caratteristica correlata ai Tiri Salvezza} (Costituzione, Destrezza, Saggezza) per tutti gli interessati, fate fare un Tiro Salvezza come valore contrapposto. Es. una prova di braccio di ferro è un Tiro Salvezza su Tempra contrapposto. Chi riesce a fare più alto con il Tiro Salvezza vince.
@@ -1439,8 +1437,6 @@ Non fate che siano le prove a governare il vostro gioco. \textbf{Fate giocare i 
 Se vi dicono "convinco la guardia a farci passare" fate fare una prova di Faccia Tosta (intimidire), se invece intavolano un dialogo convincente potete considerare che la prova sia stata fatta con esito positivo (o negativo se non sono riusciti ad argomentare!)
 \end{note}
 
-\bigskip
-
 \subsection{Vantaggi e Svantaggi} \index{Vantaggi}\index{Bonus}\index{Malus}\index{Svantaggi}
 
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{ Audentes fortuna iuvat ("La fortuna aiuta gli audaci", Virgilio) }\end{tcolorbox}
@@ -1449,11 +1445,18 @@ Se vi dicono "convinco la guardia a farci passare" fate fare una prova di Faccia
 
 Il Narratore a seconda delle circostanze può concedervi un bonus od un svantaggio nella prova.
 
+Il valore nelle \textbf{prove dinamiche}\index{Prove dinamiche} è da usarsi quando la prova viene fatta tirando i 3d6, in questo caso si potranno sommare bonus (+2) o addirittura tirare dadi in più (+2d6) o se in svantaggio dadi in meno, fino a tirare solo 1d6 (con 2d6 di penalità).\\
+
+Se i malus accumulati portano i dadi della prova sotto zero si conta solo il valore della Competenza e Caratteristica.\\
+
+Si intendono \textbf{prove a valore fisso} \index{Prove a valore fisso} quando non è necessario tirare dei dadi (es. Difesa), in questo caso il punteggio si alza/abbassa del numero indicato.
+
+Cercate di rimanere sempre tra questi valori di vantaggio e svantaggio, altrimenti potete dire che la prova è direttamente riuscita o fallita.\\
+Il giocatore può comunque richiedere di effettuare la prova anche se il risultato è certo.\\
+
 \bigskip
 
 \textbf{Tabella: Bonus e Malus, Vantaggi e Svantaggi}:\index{Tabella Bonus e Malus, Vantaggi e Svantaggi}
-
-\medskip
 
 \begin{tabular}{lll}
 	\toprule
@@ -1468,16 +1471,8 @@ Il Narratore a seconda delle circostanze può concedervi un bonus od un svantagg
 	Svantaggio molto forte        & -2d6            & -8\\
 \end{tabular}
 
+
 \bigskip
-
-Il valore nelle \textbf{prove dinamiche}\index{Prove dinamiche} è da usarsi quando la prova viene fatta tirando i 3d6, in questo caso si potranno sommare bonus (+2) o addirittura tirare dadi in più (+2d6) o se in svantaggio dadi in meno, fino a tirare solo 1d6 (con 2d6 di penalità).\\
-
-Se i malus accumulati portano i dadi della prova sotto zero si conta solo il valore della Competenza e Caratteristica.\\
-
-Si intendono \textbf{prove a valore fisso} \index{Prove a valore fisso} quando non è necessario tirare dei dadi (es. Difesa), in questo caso il punteggio si alza/abbassa del numero indicato.
-
-Cercate di rimanere sempre tra questi valori di vantaggio e svantaggio, altrimenti potete dire che la prova è direttamente riuscita o fallita.\\
-Il giocatore può comunque richiedere di effettuare la prova anche se il risultato è certo.\\
 
 \subsubsection{Fattore tempo}\index{Fattore tempo}
 
@@ -1515,7 +1510,7 @@ Il Narratore valuterà la possibilità che più di un personaggio fornisca aiuto
 \end{itemize}
 
 
-\subsubsection{Successo Parziale} - Opzionale\index{Successo Parziale}\index{Prova con Rischio}
+\subsubsection{Successo Parziale - Opzionale}\index{Successo Parziale}\index{Prova con Rischio}
 
 Il Narratore può anche decidere di valutare una prova non riuscita come un successo parziale.
 
@@ -1767,42 +1762,42 @@ Vi propongo una variante del sistema di calcolo dell'iniziativa.
 
 La prova di Iniziativa si calcola sempre come 3d6+Destrezza o Intelligenza, ma si applicano poi degli ulteriori modificatori che si computano round per round in base alle Azioni che si fanno a fare.\\
 
-\begin{itemize}
+- Se si usa un arma di taglia Piccola si somma all'Iniziativa tirata il valore di Destrezza.
 
-\item
-Se si usa un arma di taglia Piccola si somma all'Iniziativa tirata il valore di Destrezza.
+- Se si usa un arma di taglia Media si tiene il valore dell'Iniziativa tirata.
 
-\item
-Se si usa un arma di taglia Media si tiene il valore dell'Iniziativa tirata.
+-Se si usa un arma di taglia Grande si sottrae all'Inziativa tirata il valore di Destrezza.
 
-\item
-Se si usa un arma di taglia Grande si sottrae all'Inziativa tirata il valore di Destrezza.
+- Se l'incantesimo che si va a lanciare ha solo componenti Verbali (V) si somma al tiro di Iniziativa il valore di Intelligenza.
 
-Se l'incantesimo che si va a lanciare ha solo componenti Verbali (V) si somma al tiro di Iniziativa il valore di Intelligenza.
+- Se l'incantesimo che si va a lanciare ha componenti Verbali e Somatici (VS) si tiene il valore dell'Iniziativa tirata.
 
-\item
-Se l'incantesimo che si va a lanciare ha componenti Verbali e Somatici (VS) si tiene il valore dell'Iniziativa tirata.
+- Se l'incantesimo che si va a lanciare ha componenti Verbali, Somatici, Materiali (VSM) si sottrae al tiro di Iniziativa il valore di Intelligenza.
 
-\item
-Se l'incantesimo che si va a lanciare ha componenti Verbali, Somatici, Materiali (VSM) si sottrae al tiro di Iniziativa il valore di Intelligenza.
+- Se usa una Azione di movimento prima di attaccare (o lanciare un incantesimo) l'iniziativa diminuisce di 2.
 
-\item
-Se usa una Azione di movimento prima di attaccare (o lanciare un incantesimo) l'iniziativa diminuisce di 2.
+- Se si usa una Azione Immediata o Reazione prima di attaccare (o lanciare un Incantesimo) l'iniziativa diminuisce di 1.
 
-\item
-Se si usa una Azione Immediata o Reazione prima di attaccare (o lanciare un Incantesimo) l'iniziativa diminuisce di 1.
+- Se si cambia arma l'iniziativa diminuisce di 4 ma non si usano Azioni.
 
-\item
-Se si cambia arma l'iniziativa diminuisce di 4 ma non si usano Azioni.
+- Il nemico usa l'iniziativa standard (3d6+ modificatore indicato).
 
-\item
-Il nemico usa l'iniziativa standard (3d6+ modificatore indicato).
-
-\end{itemize}
+\bigskip
 
 Questo sistema genera un approccio estremamente tattico alla risoluzione dell'iniziativa.\\
 Il giocatore e' invogliato a cambiare metodi di attacco, armi o incantesimi in base all'avversario che ha di fronte, se questo e' veloce, lento.. se bisogno colpire per primo o basta colpire anche dopo, se l'azione della compagna e' stata risolutiva o meno.\\
 Inizialmente questo sistema rallenta il gioco ma appena i giocatori prendono consapevolezza delle loro opzioni l'iniziativa e la collaborazione tra i personaggi diventano elementi fondamentali e portanti non rallentando il flusso delle azioni.
+
+\subsubsection{Il Tempo (Round, Minuti e Turni)}\index{Round}
+
+\label{il-tempo-round-minuti-e-turni}
+\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+		"L'esitazione è la morte del vantaggio" (Magic, V.E. Schwab)}\end{tcolorbox}\medskip
+
+Un \textbf{round} dura 10 secondi circa, è un lasso di tempo adeguato per agire, correre, parlare.. combattere. Un Minuto sono quindi 6 round, ed un Turno dura 10 Minuti (o 60 round).
+
+I round si usano nelle azioni di combattimento o dove la tensione deve rimanere costantemente alta ed a ogni azione corrisponde un evolversi della situazione.
+
 
 \subsection{Azioni nel Round}\index{Azioni nel Round}\index{Azioni}
 
@@ -1891,15 +1886,6 @@ Nella \textbf{Tabella Cosa si fa} sono elencate alcune Azioni Immediate o di Rea
 \begin{note}Una creatura che ha una distanza di mischia (portata) superiore all'avversario si considera che abbia un bonus di \textbf{+4 all'iniziativa} per il primo round, ovvero come se usasse un'arma lunga. Il round successivo la sua iniziativa in corpo a corpo non avrà questo vantaggio a meno che abbia mantenuto la distanza non facendosi raggiungere.\\
 Questo bonus non si applica con le armi da lancio (gittata). \end{note}
 
-\subsubsection{Il Tempo (Round, Minuti e Turni)}\index{Round}
-
-\label{il-tempo-round-minuti-e-turni}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
-"L'esitazione è la morte del vantaggio" (Magic, V.E. Schwab)}\end{tcolorbox}\medskip
-
-Un \textbf{round} dura 10 secondi circa, è un lasso di tempo adeguato per agire, correre, parlare.. combattere. Un Minuto sono quindi 6 round, ed un Turno dura 10 Minuti (o 60 round).
-
-I round si usano nelle azioni di combattimento o dove la tensione deve rimanere costantemente alta ed a ogni azione corrisponde un evolversi della situazione.
 
 \pagebreak
 
@@ -4075,7 +4061,6 @@ Ha punteggi effettivi di Forza e Destrezza pari a -4 (-4 alla Difesa oltre ad no
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Adoro fare il supereroe! L'orario di lavoro è pessimo, la paga è inesistente... ma almeno non corro il rischio di venire licenziato! (PK)
 	}\end{tcolorbox}\medskip
 
-\bigskip
 
 Ogni personaggio può avere, e non è obbligatorio averne, dei Vantaggi. Questi devono essere interessanti, piacevoli, divertenti e soprattutto giocabili.
 
@@ -4108,8 +4093,6 @@ I bonus dati alle competenze si intendono specifiche sulla prova quando indicato
 Da un grande Vantaggio deriva un grosso Svantaggio ! (cit. "Da un grande potere derivano grandi responsabilità", Amazing Fantasy 15, Stan Lee)
  
 \end{itemize}
-
-\bigskip
 
 \subsection{Elenco Vantaggi}\index{Elenco Vantaggi}
 
@@ -6219,6 +6202,18 @@ Falcetto& 6& P/1d6 T& \textbf{Armi della Morte} & 1\\
 Falcione& 75 & M/2d4 T& \textbf{Armi Aggraziate}, \textbf{Lance}, ED7& 2\\
 Falcione in asta& 12 & G/1d10 P/T& \textbf{Lance}, Controcarica, Arma lunga, ED9& 3\\
 Fionda& -& P/1d4 B& 10 metri, \textbf{Archi}, da tiro& 0.5\\
+Flagello& 8& M/1d8 B& \textbf{Armi da Carceriere}, \textbf{Rompi Cranio}& 3\\
+Flagello Doppio& 90 & M/1d10 B& \textbf{Armi doppie}, \textbf{Armi da Carceriere}& 4\\
+Flagello Pesante& 15 & M/1d10 B& \textbf{Armi Doppie}, \textbf{Armi da Carceriere}& 3\\
+Frusta& 1& M/1d3 T& \textbf{Armi da Carceriere}, \textbf{Palle Rotanti}, Arma lunga& 2\\
+Giavellotto& 1& P/1d6P& 12 metri, \textbf{Aste}, \textbf{Armi Semplici}& 1.5\\
+Grande Ascia Doppia& 25 & G/1d12 T& \textbf{Asce}, \textbf{Armi doppie}, Arma lunga& 4\\
+Grosso randello& 2& M/1d8 B&\textbf{Rompi Cranio}& 2\\
+Guanto chiodato& 5& P/1d4 P&\textbf{Armi da Stordimento}& 1\\
+Katana& 300& M/1d10 T& \textbf{Spade}, ED9, Versatile& 1.5\\
+Lancia& 10 & G/1d8 P&\textbf{Lance}, Arma lunga, Controcarica& 3\\
+Lancia corta da fante& 1& M/1d6 P& 6 metri, \textbf{Armi da tiro},\textbf{ Armi Semplici},Versatile & 1.5\\
+Lancia da fante& 2& M/1d8 P&6 metri, \textbf{Lance}, \textbf{Aste}, Arma lunga, Controcarica& 2 \\
 \end{tabularx}
 
 \bigskip
@@ -6227,19 +6222,7 @@ Fionda& -& P/1d4 B& 10 metri, \textbf{Archi}, da tiro& 0.5\\
 \textbf{Arma}& \textbf{Costo} & \textbf{Taglia/Danno} & \textbf{Gittata,Speciale, Lista} & Peso (kg)\\
 &&\textbf{Tipo}&&\\
 
-Flagello& 8& M/1d8 B& \textbf{Armi da Carceriere}, \textbf{Rompi Cranio}& 3\\
-Flagello Doppio& 90 & M/1d10 B& \textbf{Armi doppie}, \textbf{Armi da Carceriere}& 4\\
-Flagello Pesante& 15 & M/1d10 B& \textbf{Armi Doppie}, \textbf{Armi da Carceriere}& 3\\
-Frusta& 1& M/1d3 T& \textbf{Armi da Carceriere}, \textbf{Palle Rotanti}, Arma lunga& 2\\
-Giavellotto& 1& P/1d6P& 12 metri, \textbf{Aste}, \textbf{Armi Semplici}& 1.5\\
-Grande Ascia Doppia& 25 & G/1d12 T& \textbf{Asce}, \textbf{Armi doppie}, Arma lunga& 4\\
-	Grosso randello& 2& M/1d8 B&\textbf{Rompi Cranio}& 2\\
-	Guanto chiodato& 5& P/1d4 P&\textbf{Armi da Stordimento}& 1\\
-	Katana& 300& M/1d10 T& \textbf{Spade}, ED9, Versatile& 1.5\\
-	Lancia& 10 & G/1d8 P&\textbf{Lance}, Arma lunga, Controcarica& 3\\
-	Lancia corta da fante& 1& M/1d6 P& 6 metri, \textbf{Armi da tiro},\textbf{ Armi Semplici},Versatile & 1.5\\
-	Lancia da fante& 2& M/1d8 P&6 metri, \textbf{Lance}, \textbf{Aste}, Arma lunga, Controcarica& 2 \\
-	Machete& 10 & M/1d6 T&\textbf{Armi letali} & 1\\
+Machete& 10 & M/1d6 T&\textbf{Armi letali} & 1\\
 	Manganello& 1& P/1d6 B& \textbf{Armi da stordimento}, non letale& 0.5\\
 	Martello da guerra& 5& M/1d8 B/P& 6 metri, \textbf{Rompi Cranio}& 1.5\\
 	Martello Leggero& 3& P/1d6 B/P& 6 metri, \textbf{Rompi Cranio}, \textbf{Armi da tiro}, \textbf{Armi Leggere}, Versatile & 1\\
@@ -6264,9 +6247,7 @@ Grande Ascia Doppia& 25 & G/1d12 T& \textbf{Asce}, \textbf{Armi doppie}, Arma lu
 	Urgrosh& 18 & M/1d6 T/P& \textbf{Armi Doppie}, \textbf{Lance}, Controcarica, Arma lunga & 3\\
 \end{tabularx}
 
-
-
-\pagebreak
+\bigskip
 
 \textbf{Tabella: Lista dei proiettili}\index{Tabella Lista dei proiettili}
 
@@ -6555,16 +6536,16 @@ Oltre ad armi e armature, un personaggio può avere una notevole varietà di att
 	Specchio piccolo di metallo & 10 mo    & 0.5   & Tela (per mq)& 1 ma& 1   \\
 	Tenda & 10 mo    & 3   & Torcia& 1 mr& 0.5   \\
 	Tribolo & 1 ma& 0.05   & Zaino & 2 mo& 2   \\
-\end{tabularx}
-\bigskip
-
-\begin{tabularx}{0.95\textwidth}{XllXll}
-	\textbf{Oggetti e sostanze speciali}&    & & \textbf{Oggetti e sostanze speciali}&& \\
 	Acido (ampolla)   & 10 mo    & 0.2 & Acqua santa (ampolla)   & 25 mo& 0.25\\
 	Antitossina (boccetta)  & 50 mo    & - & Bastone di fumo   & 20 mo& 0.5\\
 	Borsa dell'impedimento  & 50 mo    & 0.5 & Fuoco dell'alchimista (ampolla)& 20 mo& 0.3\\
 	Pietra del tuono  & 30 mo   & 0.3 & Tizzone ardente   & 1 mo& -\\
 	Torcia inestinguibile   & 110 mo   & 0.5 & Verga del sole    & 2 mo& 0.3\\
+\end{tabularx}
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{XllXll}
+\textbf{Oggetti e sostanze speciali}&    & & \textbf{Oggetti e sostanze speciali}&& \\
 	\textbf{Attrezzi da professione e di Abilità} &    & & \textbf{Attrezzi da professione e di Abilità} && \\
 	Agrifoglio e vischio    & -  & -& Arnesi da artigiano& 5 mo& 3\\
 	Arnesi da artigiano perfetti  & 55 mo    & 3& Arnesi da scasso  & 30 mo& 2\\
@@ -6620,9 +6601,7 @@ Oltre ad armi e armature, un personaggio può avere una notevole varietà di att
 	Pedaggio stradale o d'ingresso& 1 ma& & Passaggio in nave & 1 ma per 1,5 Km & \\
 \end{tabularx}
 
-
 \bigskip
-
 
 \textbf{Acciarino e Pietra Focaia}: 1 mo, Accendere una torcia con acciarino e pietra focaia costa 3 Azioni e accendere qualsiasi altro fuoco in questo modo richiede almeno altrettanto tempo.
 
@@ -8883,6 +8862,9 @@ Mortale	&21-26	&+12 a +15\\
 \medskip
 
 \textbf{Tabella: Gravità del Danno per Livello}\index{Tabella Gravità del Danno per Livello}
+
+\medskip
+
 \begin{tabular}{llll}
 \toprule
 Livello del Personaggio	&Contrattempo	&Pericolosa	&Mortale\\
@@ -9654,13 +9636,6 @@ Uovo di Urk\index{Uovo di Urk}& I  & 1 turno   & 12& 1 giorno di cibo& FH7 & 2  
 Barannie\index{Barannie} & I  & -    & 15& Rimuove nausea   & MD6 & 10   \\
 \hline
 Eldrin'tail\index{Eldrin'tail}& I  & -    & 15& Concede un nuovo TS su Veleni  & FH7 & 25   \\
-
-\end{tabularx}
-
-\bigskip
-
-\begin{tabular}{m{4cm}lllm{6cm}ll}
-	
 \textbf{Nome}  & \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Loc.} & \textbf{Costo} \\
 \hline
 Harlindar\index{Harlindar}    & I  & 1 turno   & 15& Fa abortire& SS7 & 20   \\
@@ -9692,7 +9667,12 @@ Corteccia di Aklent\index{Corteccia di Aklent}    & I  & 1 turno   & 10& La cort
 Petali di Lisbeth \index{Petali di Lisbeth}  & I  & 1 turno   & 15&+2 Intelligenza, -2 Destrezza per 10 minuti & MC6 & 20   \\
 \hline
 Estratto di radice Gisenosa\index{Estratto di radice Gisenosa}  & I  & 3 turni  & 15& Cura tosse e raffreddore  & MT6 & 5    \\
-\hline
+
+\end{tabularx}
+
+\bigskip
+
+\begin{tabular}{m{4cm}lllm{6cm}ll}
 Gylvert\index{Gylvert}   & I  & -    & 25& Concede respirare sott'acqua per 4 ore   & MO7 & 75 \\
 \hline
 Gusterbloon \index{Gusterbloon}    & C  & 1 round   & 20& La pelle diventa piu' scura concedendo un +4 alla prove di Nascondersi & CM5 & 40  \\
@@ -9715,10 +9695,6 @@ Radice secca di Kathaus\index{Radice secca di Kathaus} & R  & -    & 20& +2 Forz
 \textbf{Estratto di radice Gisenosa}: pianta tipo cardo, estremamente spinosa. Tende a crescere circondata dal \emph{Tribulus terrestris} o "baciapiedi".\\
 
 \textbf{Muschio Argentato}: molto simile, per un non esperto, al Muschio Bianco. Si raccolgono le bacche.
-
-
-
-\pagebreak
 
 \subsubsection{Droghe}\index{Droga}
 
@@ -14126,7 +14102,7 @@ The following text is the property of Wizards of the Coast, LLC. and is Copyrigh
     
     1.0.7 rilasciato su github versione 1.0.6, fix version, modificato valore di cura tra stessi devoti, gli incantesimi di cura sono a tocco (utile solo se si e' contro non morti), chiarimenti su incantesimo comando, nota su perfezionamento competenza, chiarimenti a competenze, utilizzo Abilità esperto,  layout prerequisito-requisito, chiarimenti su attacco opportunità, modificati valore protezione scudi, rimosso metallo a caldo, rimosso metallo a freddo, modificato metallo vivente, aggiornamenti su sfondare ed entrare, modificato borsa conservante, creato il vano portatile dal buco portatile e creato il buco portatile come era una volta, aggiornato uso oggetti magici in due azioni e non una, parziale rilettura bonus tratti dato da patroni, completata rilettura bonus tratti patrono, con l'abilità animalia  puoi curare anche animali e piante, specificato che gli incantesimi cura ferite non funzionano su piante se non dichiarato diversamente, chiarimenti su trappole, chiarimenti su veleni, aggiunti hyperlink nel manuale pdf a capitolo Costruiamo il personaggio, chiarimenti su competenze, corretto peso di oggetti (manette e morso), suggerimenti su assegnazione punti esperienza e metodologia passaggio di livello, diversi chiarimenti su capitolo incontri, aggiornamento layout incontri, alcune note sui "disastri" in Yeru, modifiche minori a famiglio, dettagli su punti ferita e morte, chiarimenti su incantesimo identificare, rimosso passo tattico perche' troppo sbilanciato, aggiunta abilità Pugno di Ferro, aggiunta abilità Gru d'argento, modificato Iaijutsu portato bonus iniziativa  a +5, modificata abilità iniziativa migliorata portato a 2 le volte che puo' essere presa, aggiunta abilità Ali della Fenice, aggiunta abilità tempesta di furia, 
     
-    1.0.8 rilasciato su github versione 1.0.7, aggiunto regole per il tomo della magia, correzioni minori su cosmologia per inquadrare il tomo della magia, aggiornata scheda, modificato effetto su utilizzo energia del Patrono in caso di Devoto, piccole correzioni di layout, aggiornati diversi incantesimi, modificato dardo incantato, note su incantesimi come parte di tesoro magico, aggiunto blocca persona avanzato, spostato bagliore lunare in incantesimi antichi e perduti, corretto critico su charme su persone, aggiornato camuffare se stesso, dettagli su clone, modificato comprensione del linguaggio - costrizione - creare acqua - creare non morti - cura ferite (tutte) - dissolvi magie - dito, aggiunto comprensione degli scritti - creare birra, spostato in incantesimi antichi o perduti contattare altri piani
+    1.0.8 rilasciato su github versione 1.0.7, aggiunto regole per il tomo della magia, correzioni minori su cosmologia per inquadrare il tomo della magia, aggiornata scheda, modificato effetto su utilizzo energia del Patrono in caso di Devoto, piccole correzioni di layout, aggiornati diversi incantesimi, modificato dardo incantato, note su incantesimi come parte di tesoro magico, aggiunto blocca persona avanzato, spostato bagliore lunare in incantesimi antichi e perduti, corretto critico su charme su persone, aggiornato camuffare se stesso, dettagli su clone, modificato comprensione del linguaggio - costrizione - creare acqua - creare non morti - cura ferite (tutte) - dissolvi magie - dito, aggiunto comprensione degli scritti - creare birra, spostato in incantesimi antichi o perduti contattare altri piani, passaggio a font 10 maggiormente conforme allo standard dnd, ricontrollato layout, 
 
     dominare bestie
     continuo lavoro revisione incantesimi
