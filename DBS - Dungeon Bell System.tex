@@ -52,8 +52,8 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \fancyfoot[C]{\thepage}
 
 \usepackage{xltabular}
-\usepackage{tabularx}
-\usepackage{longtable}
+%\usepackage{tabularx}
+%\usepackage{longtable}
 \usepackage{pdfpages}
 \usepackage{hyperref}
 \usepackage{tikz}
@@ -799,7 +799,7 @@ Non e' possibile assegnare piu' di 4d6 o meno di 2d6. Tirate i dadi assegnati e 
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 \toprule
 \textbf{Totale dei dadi}& \textbf{Punteggio Caratteristica}\\
 3 (o meno)&-3\\
@@ -809,7 +809,7 @@ Non e' possibile assegnare piu' di 4d6 o meno di 2d6. Tirate i dadi assegnati e 
 13-14-15&+1\\
 16-17&+2\\
 18 (o più)&+3\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -979,9 +979,8 @@ Il Narratore è libero di inserire nuovi Tratti a suo piacere o richiesti dai gi
 
 \bigskip
 
-%\begin{tabularx}{llllll}
-
-\begin{tabularx}{0.95\textwidth}{XXXXXX}
+%\begin{xltabular}{llllll}
+\begin{xltabular}{1\textwidth}{XXXXXX}
 	\toprule
 
 Abitudinario &Accumulatore&Affabile&Affettuoso&Aggressivo&Agitatore\\
@@ -1015,7 +1014,7 @@ Silenzioso&Sincero&Socievole &Sognatore&Solitario&Sospettoso\\
 Spontaneo&Sprovveduto&Stravagante&Superbo&Superficiale &Suscettibile \\
 Tenace&Timido&Tollerante &Tradizionalista&Tranquillo&Triste\\
 Truffatore&Valoroso&Vanitoso&Vendicativo&Violento&Volubile\\
-\end{tabularx}
+\end{xltabular}
 
 \bigskip
 
@@ -1376,8 +1375,7 @@ Il Narratore non ti dirà fammi una prova a difficoltà 10, ma dirà che la prov
 \textbf{Tabella: Classe di Difficoltà}\index{Tabella Classe di Difficoltà}
 
 \medskip
-
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\toprule
 	\textbf{Classe di Difficoltà (DC)} & \textbf{Descrizione Difficoltà} & \textbf{ Competenza necessaria}\\
 	DC 5               & Estremamente facile        & Mediocre\\
@@ -1388,7 +1386,7 @@ Il Narratore non ti dirà fammi una prova a difficoltà 10, ma dirà che la prov
 	DC 30              & Estremamente difficile     & Stupefacente\\
 	DC 35              & Quasi impossibile			& Leggendaria\\
 	DC 40              & Leggendaria      			& Oltre l'umano\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -1459,7 +1457,7 @@ Il giocatore può comunque richiedere di effettuare la prova anche se il risulta
 
 \textbf{Tabella: Bonus e Malus, Vantaggi e Svantaggi}:\index{Tabella Bonus e Malus, Vantaggi e Svantaggi}
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\toprule
 	\textbf{Vantaggio/Svantaggio} & \textbf{Valore in prove dinamiche} & \textbf{Valore in prove fisse}\\
 	Bonus leggero 				  & +1				& +1\\
@@ -1470,7 +1468,7 @@ Il giocatore può comunque richiedere di effettuare la prova anche se il risulta
 	Svantaggio normale            & -2 				& -2\\
 	Svantaggio forte              & -1d6            & -4\\
 	Svantaggio molto forte        & -2d6            & -8\\
-\end{tabular}
+\end{xltabular}
 
 
 \bigskip
@@ -1640,7 +1638,7 @@ Come sempre ogni volta che si stabilisce una difficoltà cercate sempre di esser
 
 \index{Saltare}\index{Salto}
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\cmidrule(l){1-2}
 	\textbf{Salto in Lungo (Distanza)} & DC\\
 	1.5 m                              & 5\\
@@ -1648,11 +1646,11 @@ Come sempre ogni volta che si stabilisce una difficoltà cercate sempre di esser
 	5 m                                & 15\\
 	7 m                                & 20\\
 	+1,5 m                             & +5\\
-\end{tabular}
+\end{xltabular}
 \bigskip
 
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Salto in Alto (Altezza)} & DC\\
 	0.02 m                           & 4\\
@@ -1660,7 +1658,7 @@ Come sempre ogni volta che si stabilisce una difficoltà cercate sempre di esser
 	1 m                              & 12\\
 	1.5 m                            & 16\\
 	+0.5 m                           & +4\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -1680,7 +1678,7 @@ Un appartenente ad una razza puo' benissimo avere come prima lingua non quella d
 
 \medskip
 
-\begin{tabularx}{1\textwidth}{XXl|XXl}
+\begin{xltabular}{1\textwidth}{XXl|XXl}
 	\toprule
 	\textbf{Razza}& \textbf{Lingua Parlata} & \textbf{Scritta}&	\textbf{Razza}& \textbf{Lingua Parlata} & \textbf{Scritta}\\
 	Nanica			& Nanico		& Nanico		&Umani 	& Comune  & Comune\\
@@ -1695,7 +1693,7 @@ Un appartenente ad una razza puo' benissimo avere come prima lingua non quella d
     Speciali*  & dei Segni& -& Speciali*	&delle Profondità &Nanico \\ 
 
 	
-\end{tabularx}
+\end{xltabular}
 
 \bigskip	
 
@@ -1825,7 +1823,7 @@ Se il personaggio non ha eseguito alcuna Azione nel round, come detto prima, agi
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Cosa si fa}                                & \textbf{Costo Azioni}\\
 	Eseguire un unico attacco con armi in mischia      & 1\\
@@ -1857,7 +1855,7 @@ Se il personaggio non ha eseguito alcuna Azione nel round, come detto prima, agi
 	Fare cadere l'arma o lo scudo					   & 1 Azione Reazione\\
 	Gettarsi a terra prono							   & 1 Azione Reazione\\	
 	Riconoscere un Incantesimo						   & 1 Azione Reazione\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -1950,7 +1948,7 @@ Le creature molto piccole possono stare più di una ad una distanza di mischia, 
 \textbf{Tabella: Taglia e Scala delle Creature}\index{Tabella Taglia e Scala delle Creature}
 
 \medskip
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Taglia della Creatura} & \textbf{Creature in distanza di mischia}\\
 	Piccolissima                   & 100\\
@@ -1958,7 +1956,7 @@ Le creature molto piccole possono stare più di una ad una distanza di mischia, 
 	Minuscola                      & 32\\
 	Piccola                        & 16\\
 	Media                          & 8\\
-\end{tabular}
+\end{xltabular}
 
 \smallskip
 Questi sono i valori tipici delle creature per la taglia indicata. Sono frequenti eccezioni.
@@ -2387,12 +2385,12 @@ Esempio di fiancheggiamento\index{Esempi di Fiancheggiamento}
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{XXX}
+\begin{xltabular}{0.95\textwidth}{XXX}
 	\toprule
 	Personaggio A & Personaggio G & Personaggio D\\
 	Personaggio B & Avversario    & Personaggio E\\
 	Personaggio C & Personaggio H & Personaggio F\\
-\end{tabularx}
+\end{xltabular}
 
 \bigskip
 
@@ -2551,7 +2549,7 @@ Nel caso il personaggio \index{Modificare le dimensioni} la sua Difesa cambia di
 
 \bigskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Nuova Taglia} & \textbf{Modificatore alla Difesa}\\
 	Piccolissima          & +8\\
@@ -2563,7 +2561,7 @@ Nel caso il personaggio \index{Modificare le dimensioni} la sua Difesa cambia di
 	Enorme                & -2\\
 	Mastodontica          & -4\\
 	Colossale             & -8\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -2620,12 +2618,12 @@ Una creatura invisibile ha un bonus di +1d6 al colpire contro creature che non l
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 \toprule
 \textbf{VS}& \textbf{Difensore Invisibile} & \textbf{Difensore Visibile}\\
 Attaccante Invisibile & -1d6 Tiro per Colpire & +1d6 Tiro per Colpire\\
 Attaccante Visibile   & +4 Difesa (se individuato) & /\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 Ci sono molti modificatori che possono essere applicati a questa DC ad esempio se la creatura invisibile si sta muovendo o sta compiendo un'attività rumorosa.
@@ -2636,7 +2634,7 @@ Ci sono molti modificatori che possono essere applicati a questa DC ad esempio s
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{La Creatura Invisibile sta...} & \textbf{Consapevolezza}\\
 	Muovendosi a velocità dimezzata        & -5\\
@@ -2647,7 +2645,7 @@ Ci sono molti modificatori che possono essere applicati a questa DC ad esempio s
 	A qualche metro di distanza (3 metri)  & +1. +2 per ogni 3 metri oltre\\
 	Dietro un ostacolo (porta)             & +5\\
 	Dietro un ostacolo (parete di pietra)  & +20\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -3521,7 +3519,7 @@ E' la capacità di non essere rallentati in un ambiente ostile. E' necessario di
 
 \bigskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Ambiente}                                  & \textbf{Ambiente}\\
 	Acquatico (sopra e sotto la superficie dell'acqua) & Giungla\\
@@ -3529,7 +3527,7 @@ E' la capacità di non essere rallentati in un ambiente ostile. E' necessario di
 	Deserto (terre brulle e deserto sabbioso)          & Montagna (compreso colline)\\
 	Freddo (ghiacciai, ghiaccio, neve e tundra)        & Palude\\
 	Sotterraneo (caverne, dungeon)                     & Urbano (edifici, strade, fogle)\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -3650,7 +3648,7 @@ Effettua una prova tirando 1d6 (valgono le Golden Rules) per ogni volta che hai 
 
 \medskip
 
-\begin{tabular}{lllllllllll}
+\begin{xltabular}{1\textwidth}{lllllllllll}
 \textbf{Non Morto} & \textbf{Prova}\\
 o \textbf{grado di Sfida}            	&2-4 & 5-8 &9-11 &12-15&16-18&19-22&23-25&26-29&30-32&33-36\\
 \textbf{Scheletro}       	& - & T   & T   & T   & D   & D   & D   & D*  & D*  & D*  \\
@@ -3663,7 +3661,7 @@ o \textbf{grado di Sfida}            	&2-4 & 5-8 &9-11 &12-15&16-18&19-22&23-25&
 \textbf{Vampiro}			&-  & -   & -   &-    &-    &-    & -   & -   & T   & T   \\
 \textbf{Fantasma}			&-  & -   &-    & -   &-    &-    &-    & -   & -   & T   \\
 \textbf{Lich}				&-  & -   &-    & -   &-    &-    &-    & -   & -   & T   \\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -3853,7 +3851,7 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lX}
+\begin{xltabular}{0.95\textwidth}{lX}
 	\toprule
 	\textbf{Famiglio}                & \textbf{Capacità speciale}\\
 	Lucertola / Capra    & Il padrone guadagna bonus +2 alle prove di Sopravvivenza\\
@@ -3867,7 +3865,7 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 	Riccio               & Il padrone guadagna bonus +1 al Tiro Salvezza su Volontà\\
 	Scimmia              & Il padrone guadagna bonus +2 alle prove di Criminalità\\
 	Topo                 & Il padrone guadagna bonus +1 al Tiro Salvezza su Tempra\\
-\end{tabularx}
+\end{xltabular}
 
 \bigskip
 
@@ -3895,7 +3893,7 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 
 \medskip
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 	\toprule
 	\textbf{CM del Padrone} & \textbf{Mod. Difesa Fam.} & \textbf{Intelligenza Fam.} & \textbf{Speciale}\\
 	1-2      & +1       & -2    & Allerta, Condividere Incantesimi, \\
@@ -3909,7 +3907,7 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 	15-16    & +8       & 2     & -\\
 	17-18    & +9       & 3     & -\\
 	19-20    & +10      & 3     & -\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -3985,14 +3983,14 @@ Determinate armi, particolarmente magiche possono ignorare la DR \index{Ignorare
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\toprule
 	\textbf{DR da superare} & \textbf{Incantamento sull'arma} & \textbf{Attacco Naturale}\\
 	Incantamento +1         & +1              & Livello 3\\
 	Incantamento +2         & +2              & Livello 6\\
 	Ferro Freddo / Argento  & +2              & Livello 9\\
 	Adamantio               & +3              & Livello 12\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -4849,7 +4847,7 @@ sei claudicante
 
 \textbf{Tabella Fobie (5-15 punti)}\index{Fobie}\index{Tabella delle Fobie}
 
-\begin{tabularx}{0.95\textwidth}{lX}
+\begin{xltabular}{0.95\textwidth}{lX}
 	\toprule
 	\textbf{Nome Fobia} & \textbf{Descrizione}\\
 	Blennofobia         & Paura Delle Cose Viscide\\
@@ -4872,7 +4870,7 @@ sei claudicante
 	Emofobico           & Paura Del Sangue\\
 	Traumatofobia       & Paura Di Ferirsi\\
 	Sciofobia           & Paura Delle Ombre\\
-\end{tabularx}
+\end{xltabular}
 
 \pagebreak
 
@@ -5020,14 +5018,14 @@ Infine ogni Patrono concede l'energia magica per lanciare gli incantesimi e pred
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\toprule
 	\textbf{Positivi} (+1) & \textbf{Neutrali} (0) & \textbf{Negativi} (-1)\\
 	Energia Positiva       & Fuoco                 & Energia Negativa\\
 	Luce                   & Freddo                & Vuoto\\
 	                       & Suono                 & \\
 	                       & Elettricità/Fulmine  & \\
-\end{tabular}
+\end{xltabular}
 \bigskip
 
 Utilizzare i poteri concessi dai Tratti costa 2 Azioni se non specificato diversamente.\\
@@ -6054,8 +6052,8 @@ Somma dei Tratti in comune a 20 punti: Dalle tue dita partono dei viticci che pu
 
 \label{tabella-collegamento-patrono---tratto}
 \medskip
-%\begin{tabular}{lllllll}
-\begin{tabularx}{1\textwidth}{XXXXXXX}
+%\begin{xltabular}{1\textwidth}{lllllll}
+\begin{xltabular}{1\textwidth}{XXXXXXX}
 	\toprule
 	\textbf{Patrono} & \textbf{Tratto} & \textbf{Tratto} & \textbf{Tratto} & \textbf{Tratto}  & \textbf{Tratto}& \textbf{Tratto}\\
 	\textbf{Ljust}& Coraggioso& Generoso& Empatico& Protettivo& Istintivo& Anticonformista\\
@@ -6083,7 +6081,7 @@ Somma dei Tratti in comune a 20 punti: Dalle tue dita partono dei viticci che pu
 \textbf{Tazher}& Scontroso& Calcolatore& Perfezionista& Cattivo& Insensibile& Burbero\\
 \textbf{Thaft}& Semplice& Silenzioso& Mite& Sicuro& Disciplinato& Ottimista\\
 \textbf{Torbiorn}&  Altezzoso& Ansioso& Vanitoso& Permaloso& Cauto& Irascibile\\
-\end{tabularx}
+\end{xltabular}
 
 \bigskip
 
@@ -6123,14 +6121,14 @@ La moneta più comune è la moneta d'oro (mo). Una moneta d'oro vale 10 monete d
 
 \medskip
 
-\begin{tabular}{L{3cm} L{3cm} L{3cm} L{3cm} L{3cm}}
+\begin{xltabular}{1\textwidth}{L{3cm} L{3cm} L{3cm} L{3cm} L{3cm}}
 	\toprule
 	\textbf{Valore di Cambio} & \textbf{Moneta Rame (mr)} & \textbf{Moneta Argento (ma)} & \textbf{Moneta Oro (mo)} & \textbf{Moneta Platino (mp)}\\
 	Moneta Rame& 1& 1/10& 1/100& 1/1000\\
 	Moneta Argento  & 10    & 1   & 1/10 & 1/100\\
 	Moneta Oro & 100   & 10  & 1    & 1/10\\
 	Moneta Platino  & 1000  & 100 & 10   & 1\\
-\end{tabular}
+\end{xltabular}
 
 \subsubsection{Altre Ricchezze - Merci di scambio}\index{Altre Ricchezze}
 
@@ -6143,7 +6141,7 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 
 \medskip
 
-\begin{tabular}{ll|ll}
+\begin{xltabular}{1\textwidth}{ll|ll}
 	\toprule
 	\textbf{Costo} & \textbf{Oggetto}&	1 mr & Frumento (0.5 kg)\\
 	2 mr & Farina (0.5 kg) o pollo (1)&	1 ma & Ferro (0.5 kg)\\
@@ -6151,7 +6149,7 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 	2 mo & Zenzero o pepe (0.5 kg) o pecora (1)&	3 mo & Maiale (1)\\
 	4 mo & Lino (1 m\textsuperscript{2})&	5 mo & Sale o argento (0.5 kg)\\
 	10 mo& Seta (1 m) o mucca (1)&	15 mo& Zafferano o chiodi di garofano (0.5 kg) o bue (1)\\\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -6178,7 +6176,7 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 \medskip
 
 \begin{xltabular}{1\textwidth}{lllXr}	
-%\begin{tabularx}{1\textwidth}{lclXr}
+%\begin{xltabular}{1\textwidth}{lclXr}
 \textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata,Speciale, Lista} & Peso (kg)\\
 Alabarda& 10 & G/1d10 P/T& \textbf{Lance}, \textbf{Aste}, Controcarica, Arma lunga, ED9 & 4\\
 Arco Corto& 30 & M/1d6 P& 15 metri, \textbf{Arco}, da tiro& 1\\
@@ -6243,7 +6241,7 @@ Urgrosh& 18 & M/1d6 T/P& \textbf{Armi Doppie}, \textbf{Lance}, Controcarica, Arm
 
 \textbf{Tabella: Lista dei proiettili}\index{Tabella Lista dei proiettili}
 
-\begin{tabular}{lccc}	
+\begin{xltabular}{1\textwidth}{lccc}	
 \textbf{Nome Proiettile}& \textbf{Numero/Costo (mo)} & \textbf{Danno/Tipo} &  Peso(kg)\\
 Biglie di Marmo (fionde)& 15/1 mo & 1d4 B &  0.2\\
 Dardi da balestra, leggeri & 10/1 mo & 1d6 P  & 0.1\\
@@ -6253,7 +6251,7 @@ Dardi per balestra leggera & 5/1 mo & 1d4 P &  0.1\\
 Frecce da caccia& 20/1 mo & 1d6 P& 0.1\\
 Frecce da guerra& 10/1 mo & 1d8 P &0.2\\
 Sasso (fionde)& -& 1d2 B & 0.2\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -6340,8 +6338,8 @@ Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella s
 \medskip
 
 \label{tabella-armature}
-\begin{tabular}{llllllll}
-%\begin{tabularx}{0.95\textwidth}{lXXXXXXX}
+\begin{xltabular}{1\textwidth}{llllllll}
+%\begin{xltabular}{0.95\textwidth}{lXXXXXXX}
 	\toprule
 	\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{Prove DES} & \textbf{Prove CM} & \textbf{Tipo} & \textbf{Mov.} & \textbf{Peso (kg)}\\
 	Imbottita    & 5    & 1   & 0   & 0  & L   & 0   & 4\\
@@ -6355,7 +6353,7 @@ Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella s
 	Mezza armatura    & 1200 & 8  & -2  & -7 & P   & 1   & 20\\
 	da Campo& 1400 & 9 & -3  & -7 & P   & 2   & 25\\
 	Completa& 1500 & 10  & -4  & -8 & P   & 3   & 32.5\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -6432,7 +6430,7 @@ Gli Scudi possono essere di tipo Leggero, Medio, Pesante.
 \label{tabella-scudi}
 \medskip
 
-\begin{tabular}{lllllll}
+\begin{xltabular}{1\textwidth}{lllllll}
 	\toprule
 	\textbf{Scudi} & \textbf{Costo} & \textbf{Bonus Difesa} & \textbf{Penalità TC} & \textbf{Penalità CM} & \textbf{Peso (kg)} & \textbf{Tipo}\\
 	Brocchiero					& 5 mo  	& 1 & 0		& 1& 1  & L\\
@@ -6442,7 +6440,7 @@ Gli Scudi possono essere di tipo Leggero, Medio, Pesante.
 	Scudo medio metallo 		& 12 mo  	& 2 & -1  	& 5& 5  & M\\
 	Scudo pesante di legno   	& 7  mo  	& 3 & -2    & 6& 5  & P\\
 	Scudo pesante di metallo 	& 20 mo  	& 3 & -2    & 7& 7  & P\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -6459,7 +6457,7 @@ Indossare e togliere armature è una operazione che richiede tempo ed attenzione
 
 \medskip
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 	\toprule
 	\textbf{Tipo di Armatura}& \textbf{Indossare} & \textbf{Indossare in fretta} & \textbf{Togliere}\\
 	Scudo								& 1 azione 	& -     	& 1 azione\\
@@ -6467,7 +6465,7 @@ Indossare e togliere armature è una operazione che richiede tempo ed attenzione
 	Giaco di Maglia						& 1 minuto	& 5 round  & 5 round\\
 	Scaglie, Anelli, Pettorale, Bande   & 4 minuti 	& 1 minuto{*}  & 1 minuto\\
 	Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -6515,14 +6513,14 @@ La moneta più comune è la moneta d'oro (mo). Una moneta d'oro vale 10 monete d
 
 \medskip
 
-\begin{tabular}{L{3cm} L{3cm} L{3cm} L{3cm} L{3cm}}
+\begin{xltabular}{1\textwidth}{L{3cm} L{3cm} L{3cm} L{3cm} L{3cm}}
 	\toprule
 	\textbf{Valore di Cambio} & \textbf{Moneta Rame (mr)} & \textbf{Moneta Argento (ma)} & \textbf{Moneta Oro (mo)} & \textbf{Moneta Platino (mp)}\\
 	Moneta Rame& 1& 1/10& 1/100& 1/1000\\
 	Moneta Argento  & 10    & 1   & 1/10 & 1/100\\
 	Moneta Oro & 100   & 10  & 1    & 1/10\\
 	Moneta Platino  & 1000  & 100 & 10   & 1\\
-\end{tabular}
+\end{xltabular}
 
 \subsubsection{Altre Ricchezze - Merci di scambio}\index{Altre Ricchezze}
 
@@ -6535,7 +6533,7 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 
 \medskip
 
-\begin{tabular}{ll|ll}
+\begin{xltabular}{1\textwidth}{ll|ll}
 	\toprule
 	\textbf{Costo} & \textbf{Oggetto}&	1 mr & Frumento (0.5 kg)\\
 	2 mr & Farina (0.5 kg) o pollo (1)&	1 ma & Ferro (0.5 kg)\\
@@ -6543,7 +6541,7 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 	2 mo & Zenzero o pepe (0.5 kg) o pecora (1)&	3 mo & Maiale (1)\\
 	4 mo & Lino (1 m\textsuperscript{2})&	5 mo & Sale o argento (0.5 kg)\\
 	10 mo& Seta (1 m) o mucca (1)&	15 mo& Zafferano o chiodi di garofano (0.5 kg) o bue (1)\\\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -6732,7 +6730,7 @@ L'equipaggiamento di partenza che un personaggio riceve dalla sua classe include
 
 \subsubsection{Capienza dei Contenitori}
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\textbf{Contenitore}&\textbf{Capienza}\\
 	Ampolla o Boccale&0,5 litri liquidi\\
 	Barile&160 litri liquidi, 4 cubi con spigolo di 30 cm\\
@@ -6747,7 +6745,7 @@ L'equipaggiamento di partenza che un personaggio riceve dalla sua classe include
 	Secchio&12 litri liquidi, 1 cubo con spigolo di 15 cm\\
 	Vaso di Ferro&4 litri liquidi\\
 	Zaino*&1 cubo con spigolo di 30 cm/15 kg di equipaggiamento\\
-\end{tabular}
+\end{xltabular}
 
 
 \subsubsection{Strumenti}
@@ -6756,7 +6754,7 @@ L'utilizzo di uno strumento non è collegato a una singola caratteristica, dal m
 
 \medskip
 
-\begin{tabular}{lll|lll}
+\begin{xltabular}{1\textwidth}{lll|lll}
 	Oggetto&Costo&Peso&	Oggetto&Costo&Peso\\
 		\hline
 	Arnesi da Falsario&15 mo&2,5 kg&	Arnesi da Scasso&25 mo&0,5 kg\\
@@ -6780,7 +6778,7 @@ L'utilizzo di uno strumento non è collegato a una singola caratteristica, dal m
 	Lira&30 mo&1 kg&	Liuto&35 mo&1 kg\\
 	Tamburo&6 mo&1,5 kg&	Viola&30 mo&0,5 kg\\
 	Trucchi per il Camuffamento&25 mo&1,5 kg\\
-\end{tabular}
+\end{xltabular}
 
 
 \subsubsection{Cavalcature e Veicoli}
@@ -6798,7 +6796,7 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 
 \subsubsection{Cavalcature e Altri Animali}
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 	\textbf{Cavalcatura}&\textbf{Costo}&\textbf{Velocità}&\textbf{Capacità di Trasporto}\\
 		\hline
 	Asino o Mulo&8 mo&12 m&210 kg\\
@@ -6809,12 +6807,12 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 	Elefante&200 mo&12 m&660 kg\\
 	Mastino&25 mo&12 m&97,5 kg\\
 	Pony&30 mo&12 m&112,5 kg\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
 \textbf{Finimenti e Veicoli da Tiro}\\
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\textbf{Oggetto}&\textbf{Costo}&\textbf{Peso}\\
 		\hline
 	Bardatura&x4&x2\\
@@ -6825,12 +6823,12 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 	Carrozza&100 mo&300 kg\\
 	Morso e Briglie&2 mo&0,5 kg\\
 	Nutrimento (al giorno)&5 mr&5 kg\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
 \textbf{Sella}\\
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Peso}\\
 		\hline
 	Da Carico&5 mo&7,5 kg\\
@@ -6839,12 +6837,12 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 	Militare&20 mo&15 kg\\
 	Slitta&20 mo&150 kg\\
 	Stallaggio (al giorno)&5 ma&\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
 \textbf{Imbarcazioni}\\
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\textbf{Oggetto}&\textbf{Costo}&\textbf{Velocità}\\
 	\hline
 	Barca a Remi&50 mo&2,25 km orari\\
@@ -6853,7 +6851,7 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 	Nave a Vela&10.000 mo&3 km orari\\
 	Nave da Guerra&25.000 mo&3,75 km orari\\
 	Nave Lunga&10.000 mo&4,5 km orari\\
-\end{tabular}
+\end{xltabular}
 
 \subsubsection{Spese}
 Quando non si calano nelle viscere della terra, non esplorano rovine in cerca di tesori perduti o non muovono guerra alle forze dell'oscurità incombente, anche gli avventurieri devono pensare ai bisogni più comuni. Anche in un modo fantastico, la gente deve soddisfare bisogni basilari come un vitto, alloggio e vestiario. Tutto questo ha un costo, anche se certi stili di vita costano più di altri.\\
@@ -6866,7 +6864,7 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 \textbf{Spese dello Stile di Vita}
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\hline
 	Stile di Vita&Prezzo/Giorno\\
 	Miserabile&\\
@@ -6876,7 +6874,7 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 	Agiato&2 mo\\
 	Ricco&4 mo\\
 	Aristocratico&Minimo di 10 mo\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -6904,7 +6902,7 @@ La tabella "Vitto e Alloggio" indica i prezzi delle singole pietanze e di un sin
 
 \bigskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\hline
 	Oggetto&Costo\\
 	Banchetto (a persona)&10 mo\\
@@ -6931,7 +6929,7 @@ La tabella "Vitto e Alloggio" indica i prezzi delle singole pietanze e di un sin
 	Vino&\\
 	Buono (bottiglia)&10 mo\\
 	Comune (caraffa)&2 ma\\
-\end{tabular}
+\end{xltabular}
 
 \subsubsection{Servizi}
 
@@ -6944,7 +6942,7 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 
 \bigskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\hline
 	Servizio&Costo\\
 	Carrozza&\\
@@ -6956,7 +6954,7 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 	Messaggero&2 mr per 1,5 km\\
 	Passaggio in nave&1 ma per 1,5 km\\
 	Pedaggio stradale o di ingresso&1 mr\\
-\end{tabular}
+\end{xltabular}
 
 
 \subsubsection{Servizi Magici}
@@ -6982,7 +6980,7 @@ Le armature e le armi si possono costruire con materiali che possiedono delle in
 
 \label{acciaio-vivente}
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Tipo di oggetto in Acciaio Vivente} & \textbf{Modificatore al costo}\\
 	Munizione                         & +10 mo per munizione\\
@@ -6992,7 +6990,7 @@ Le armature e le armi si possono costruire con materiali che possiedono delle in
 	Armatura pesante                  & +1500 mo\\
 	Scudo                             & +100 mo\\
 	Altri oggetti                     & 500 mo/kg\\
-\end{tabular}
+\end{xltabular}
 
 
 Alcuni alberi succhiano potenti minerali attraverso le loro radici nello stesso modo in cui altri attingono acqua dal terreno. Anche se questi alberi smussano le seghe e le asce usate per abbatterli e ignorano il fuoco, alla fine soccombono al tempo o agli elementi.\\
@@ -7006,7 +7004,7 @@ L'acciaio vivente ha 35 Punti Ferita per 2,5 cm di spessore e Durezza 15.
 
 \label{adamantio}
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Tipo di oggetto in Adamantio} & \textbf{Modificatore al costo}\\
 	Munizione                   & +60 mo per munizione\\
@@ -7016,7 +7014,7 @@ L'acciaio vivente ha 35 Punti Ferita per 2,5 cm di spessore e Durezza 15.
 	Armatura pesante            & +15000 mo\\
 	Scudo                       & +1000 mo\\
 	Altri oggetti               & 5000 mo/kg\\
-\end{tabular}
+\end{xltabular}
 
 Questo metallo durissimo si trova solo nei meteoriti e contribuisce alla qualità di un'arma o di un'armatura.
 
@@ -7028,7 +7026,7 @@ Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un
 
 \label{argento-alchemico}
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Tipo di Oggetto in Argento Alchemico} & \textbf{Modificatore al costo}\\
 	Munizione                      & +2 mo per munizione\\
@@ -7036,7 +7034,7 @@ Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un
 	Arma media                     & +90 mo\\
 	Arma pesante                   & +180 mo\\
 	Scudo                         & +100 mo\\
-\end{tabular}
+\end{xltabular}
 
 Il processo di argentatura alchemica può essere applicato solo alle armi metalliche e non funziona sui metalli speciali come ad esempio l'adamantio, il ferro freddo ed il mithral.
 
@@ -7059,7 +7057,7 @@ Il ferro freddo ha 30 Punti Ferita per 2,5 cm di spessore e Durezza 10.
 
 \label{mithral}
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Tipo di Oggetto in Mithral} & \textbf{Modificatore al costo}\\
 	Armatura leggera                    & +1000 mo\\
@@ -7067,7 +7065,7 @@ Il ferro freddo ha 30 Punti Ferita per 2,5 cm di spessore e Durezza 10.
 	Armatura pesante                    & +9000 mo\\
 	Scudo                               & +1000 mo\\
 	Altri oggetti                       & +1000 mo/kg\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -7111,7 +7109,7 @@ A seconda delle dimensioni dell'oggetto questo puo' essere piu' o meno facile da
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\toprule
 	\textbf{Taglia e Difesa degli Oggetti} & \textbf{Modificatore Difesa} & \textbf{Dimensioni}\\
 	Colossale                              & -8 &18m+\\
@@ -7123,7 +7121,7 @@ A seconda delle dimensioni dell'oggetto questo puo' essere piu' o meno facile da
 	Minuscola                              & +4 &30-60cm\\
 	Minuta                                 & +6 &15-30cm\\
 	Piccolissima                           & +8 &5-20cm\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -7138,7 +7136,7 @@ Se si usano 3 Azioni per prendere la mira, si colpisce automaticamente con un'ar
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\toprule
 	\textbf{Sostanza} & \textbf{Durezza} & \textbf{Punti Ferita} \\
 	Vetro             & 1                & 1 ogni 2,5 cm di spessore\\
@@ -7151,7 +7149,7 @@ Se si usano 3 Azioni per prendere la mira, si colpisce automaticamente con un'ar
 	Ferro o acciaio   & 10               & 10 ogni 2,5 cm di spessore\\
 	Mithral           & 15               & 30 ogni 2,5 cm di spessore\\
 	Adamantio         & 20               & 40 ogni 2,5 cm di spessore\\
-\end{tabular}
+\end{xltabular}
 
 \subsection{Danneggiare gli oggetti}
 
@@ -7183,7 +7181,7 @@ Gli Oggetti Magici custoditi (indossati) effettuano i Tiri Salvezza come il loro
 
 \medskip
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 	\toprule
 	\textbf{Oggetto}& \textbf{Durezza} & \textbf{Punti Ferita} & \textbf{DC per Romperlo}\\
 	Corda (2,5 cm di diametro)     & 0      & 2           & 23\\
@@ -7198,7 +7196,7 @@ Gli Oggetti Magici custoditi (indossati) effettuano i Tiri Salvezza come il loro
 	Manette                        & 10     & 10          & 26\\
 	Manette perfette               & 10     & 10          & 28\\
 	Porta di ferro (spessa 5 cm)   & 10     & 60          & 28\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -7220,7 +7218,7 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Taglia} & \textbf{Modificatore per sfondare porta}\\
 	Piccolissima    & -16\\
@@ -7232,7 +7230,7 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 	Enorme          & +8\\
 	Mastodontica    & +12\\
 	Colossale       & +16\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -7243,7 +7241,7 @@ Un piede di porco o un ariete portatile aumentano la probabilità del personaggi
 \label{tabella-dc-per-rompere-o-forzare-oggetti---prova-di-Forza}
 \bigskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Cosa abbatti}        & \textbf{DC}\\
 	Abbattere una porta semplice & 13\\
@@ -7254,7 +7252,7 @@ Un piede di porco o un ariete portatile aumentano la probabilità del personaggi
 	Abbattere una porta robusta  & 25\\
 	Forzare catene legate        & 26\\
 	Abbattere una porta di ferro & 28\\
-\end{tabular}
+\end{xltabular}
 \bigskip
 
 \pagebreak
@@ -7298,13 +7296,13 @@ Le gradazione di luce possono essere:
 
 \index{Luce Fioca}
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 	\toprule
 	\textbf{Oggetto} & \textbf{Luce Normale (raggio)} & \textbf{Luce fioca} & \textbf{Durata}\\
 	Candela          & 1 metro         & -              & 1 ora\\
 	Torcia           & 3 metri         & 6 metri        & 1 ora\\
 	Lanterna         & 6 metri         & 12 metri       & 6 ore/boccetta\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -7438,7 +7436,7 @@ Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la met
 
 \textbf{Tabella: Danno da Oggetti Cadenti}\index{Tabella Danno da Oggetti Cadenti}
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Taglia dell'Oggetto} & \textbf{Danno}\\
 	Minuscola o Più Piccola      & 1d6\\
@@ -7448,7 +7446,7 @@ Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la met
 	Enorme                       & 6d6\\
 	Mastodontica                 & 8d6\\
 	Colossale                    & 10d6\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -7542,7 +7540,7 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 \medskip
 
-\begin{tabularx}{0.99\textwidth}{lXXXX}
+\begin{xltabular}{0.99\textwidth}{lXXXX}
 	\toprule
 	\textbf{d\%} & \textbf{Tempo Atmosferico} & \textbf{Clima Freddo}& \textbf{Clima Temperato {*}}   & \textbf{Deserto}\\
 	01-70   & Normale& Freddo, calmo   & Normale per la stagione {*}{*} & Torrido,calmo\\
@@ -7555,7 +7553,7 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 	   &   &  & tempesta di neve& Tempesta di polvere\\
 	100& Tempesta violenta& Tormenta   & Bufera,tormenta   \\
 	   &   &  & uragano,tornado & Acquazzone\\
-\end{tabularx}
+\end{xltabular}
 
 * Temperato comprende foreste, colline, paludi, montagne, pianure e zone marine calde.
 
@@ -7667,7 +7665,7 @@ I venti possono creare turbini di sabbia o polvere, alimentare grossi incendi, r
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\toprule
 	\textbf{Forza del Vento} & \textbf{Velocità del Vento}   & \textbf{Attacchi a Distanza} \\
 	Leggero     & 0-15km \\
@@ -7677,7 +7675,7 @@ I venti possono creare turbini di sabbia o polvere, alimentare grossi incendi, r
 	Bufera      & 76.5-111km/h   & impossibile  \\
 	Uragano     & 12-261km/h     & impossibile \\
 	Tornado     & 262-450km/h    & impossibile\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -7812,7 +7810,7 @@ Un equipaggio che eccede il numero minimo non influenza il movimento, ma i suoi 
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lXlllllXll}
+\begin{xltabular}{0.95\textwidth}{lXlllllXll}
 	\toprule
 	\textbf{Tipo}  & \textbf{Difesa} & \textbf{PF} & \textbf{TS base} & \textbf{Vel. (m/s)} & \textbf{Arma} & \textbf{Speronamento} & \textbf{Quad}. & \textbf{Equipaggio}\\
 	Zattera   & 9     & 10& +0& 4.5  & 0   & 1d6    & 1    & 1/4\\
@@ -7822,7 +7820,7 @@ Un equipaggio che eccede il numero minimo non influenza il movimento, ma i suoi 
 	Barca a Vela   & 6& 125    & +6& 18   & 2   & 3d6+12 & 3    & 20/50+120\\
 	Nave da Guerra & 2& 175    & +7& 18   & 3   & 3d6+12 & 4    & 60/80+160\\
 	Galea& 2& 200    & +8& 27   & +4  & 6d6+24 & 4    & 200/250+200\\
-\end{tabularx}
+\end{xltabular}
 
 \pagebreak
 
@@ -7917,13 +7915,13 @@ Una torre da assedio tipica occupa uno spazio di 4,5 metri. Le creature al suo i
 
 \textbf{Tabella: Modificatori di Attacco delle Catapulte}\index{Tabella Modificatori di Attacco delle Catapulte}
 
-\begin{tabularx}{0.99\textwidth}{XX}
+\begin{xltabular}{0.99\textwidth}{XX}
 	\toprule
 	\textbf{Circostanza}      & \textbf{Modificatore}\\
 	La linea di visuale non giunge fino alla zona bersaglio & -6\\
 	Tiro consecutivo (gli operatori riescono a vedere dove sono caduti i colpi andati a vuoto più recenti )  & +2 cumulativo per per colpo mancato precedente (max +10)\\
 	Tiro consecutivo (gli operatori non riescono a vedere dove sono caduti i colpi andati a vuoto più recenti ma un osservatore fornisce indicazioni) & +1 cumulativo per per colpo mancato precedente (max +5))\\
-\end{tabularx}
+\end{xltabular}
 
 \bigskip
 
@@ -7931,7 +7929,7 @@ Una torre da assedio tipica occupa uno spazio di 4,5 metri. Le creature al suo i
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{XXXXX}
+\begin{xltabular}{0.95\textwidth}{XXXXX}
 	\toprule
 	\textbf{Macchina} & \textbf{Costo (mo)} & \textbf{Danno} & \textbf{Gittata (metri)} & \textbf{Operatori}\\
 	Catapulta pesante & 800  & 6d6  & 60   & 4\\
@@ -7939,7 +7937,7 @@ Una torre da assedio tipica occupa uno spazio di 4,5 metri. Le creature al suo i
 	Ballista& 500  & 3d8  & 36   & 1\\
 	Ariete  & 1000 & 3d6  & -    & 10\\
 	Torri da Assedio  & 2000 & -    & -    & 20\\
-\end{tabularx}
+\end{xltabular}
 
 \bigskip
 
@@ -8097,7 +8095,7 @@ A volte, pareti in mattoni (pietre accatastate una sopra l'altra solitamente, ma
 \textbf{Tabella: Pareti}\index{Tabella Pareti}
 \medskip
 
-\begin{tabular}{llllll}
+\begin{xltabular}{1\textwidth}{llllll}
 	\toprule
 	\textbf{Tipo di Parete} & \textbf{Spessore Tipico} & \textbf{DC per Sfondare} & \textbf{Durezza} & \textbf{Punti Ferita} & \textbf{DC per Scalare}\\
 	Mattoni  & 30 cm& 35   & 8 & 90& 20\\
@@ -8108,7 +8106,7 @@ A volte, pareti in mattoni (pietre accatastate una sopra l'altra solitamente, ma
 	Ferro    & 7.5 cm    & 30   & 10& 90& 25\\
 	Carta    & variabile & 1    & --& 1 & 30\\
 	Legno    & 15 cm& 20   & 5 & 60& 21\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -8185,7 +8183,7 @@ per sorvegliare un'area.
 
 \bigskip
 
-\begin{tabularx}{0.95\textwidth}{llllll}
+\begin{xltabular}{0.95\textwidth}{llllll}
 	\toprule
 	\textbf{Tipo di porta} & \textbf{Spessore tipico (cm)} & \textbf{Durezza} & \textbf{Punti Ferita} & \textbf{DC per sfondare} \\
     &&   &   & Bloccata  & Chiusa a chiave\\
@@ -8198,7 +8196,7 @@ per sorvegliare un'area.
 	Saracinesca di ferro   & 5    & 10& 60& 25{*}& 25{*}\\
 	Serratura    & -    & 15& 30& -    & -\\
 	Cardini & -    & 10& 30& -    & -\\
-\end{tabularx}
+\end{xltabular}
 
 {*} DC per sollevare. Usate la voce appropriata di porta per sfondare.
 
@@ -8486,13 +8484,13 @@ Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tab
 
 \textbf{Tabella: DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}\index{Tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 \toprule
 Pericolosità della Trappola	&DC Tiro Salvezza	& Bonus di Attacco\\
 Contrattempo	&13-14&	+4 a +6\\
 Pericolosa	&16-20&	+8 a +10\\
 Mortale	&21-26	&+12 a +15\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -8500,14 +8498,14 @@ Mortale	&21-26	&+12 a +15\\
 
 \medskip
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 \toprule
 Livello del Personaggio	&Contrattempo	&Pericolosa	&Mortale\\
 1°-4°	&1d10&	2d10	&4d10\\
 5°-10°	&2d10&	4d10	&10d10\\
 11°-16°	&4d10&	10d10	&18d10\\
 17°-20°	&10d10	&18d10	&24d10\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -9003,7 +9001,7 @@ Un personaggio afflitto da \textbf{pazzia permanente} ottiene un nuovo difetto d
 \textbf{Tabella: Pazzia a Breve Termine}\index{Tabella Pazzia a Breve Termine}
 
 \medskip
-\begin{tabularx}{0.95\textwidth}{lX}
+\begin{xltabular}{0.95\textwidth}{lX}
 \toprule
 3d6	&Effetto (dura 1d10 minuti)\\
 3 &	Il personaggio resta paralizzato. L'effetto termina se il personaggio subisce danni.\\
@@ -9016,7 +9014,7 @@ Un personaggio afflitto da \textbf{pazzia permanente} ottiene un nuovo difetto d
 16&	Il personaggio ha l'istinto dominante di mangiare qualcosa di strano, che sia immondizia, fango o feci.\\
 17&	Il personaggio è stordito.\\
 18&	Il personaggio cade privo di sensi.\\
-\end{tabularx}
+\end{xltabular}
 
 \pagebreak
 
@@ -9024,7 +9022,7 @@ Un personaggio afflitto da \textbf{pazzia permanente} ottiene un nuovo difetto d
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lX}
+\begin{xltabular}{0.95\textwidth}{lX}
 \toprule
 3d6&	Effetto (dura 1d10 x 10 ore)\\
 3-4&	Il personaggio sente l'istinto di ripetere in continuazione un determinato gesto.\\
@@ -9039,7 +9037,7 @@ Un personaggio afflitto da \textbf{pazzia permanente} ottiene un nuovo difetto d
 16&	Ogni qualvolta il personaggio subisce danni, deve superare un tiro salvezza su Volontà con DC 20 o subire gli stessi effetti che se avesse fallito un Tiro Salvezza contro l'incantesimo confusione. L'effetto di confusione dura 1 minuto.\\
 17&	Il personaggio perde la facoltà di parlare.\\
 18&	Il personaggio cade privo di sensi. I danni e le azioni degli altri personaggi non riusciranno a risvegliarlo.\\
-\end{tabularx}
+\end{xltabular}
 
 \bigskip
 
@@ -9047,7 +9045,7 @@ Un personaggio afflitto da \textbf{pazzia permanente} ottiene un nuovo difetto d
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lX}
+\begin{xltabular}{0.95\textwidth}{lX}
 	\toprule
 3d6&	Difetto (dura finché non viene curata)\\
 3-4&	"Bere preserva la mia sanità mentale."\\
@@ -9062,7 +9060,7 @@ Un personaggio afflitto da \textbf{pazzia permanente} ottiene un nuovo difetto d
 16&	"C'è solo una persona di cui mi fidi. E solo io posso vederla." \\
 17&	"Non riesco a prendere nulla sul serio. Più seria la situazione, più divertente la trovo."\\
 18&	"Ho scoperto che adoro ammazzare la gente."\\
-\end{tabularx}
+\end{xltabular}
 
 \subsubsection{Curare la Pazzia}
 L'incantesimo calmare emozioni può sopprimere gli effetti della pazzia, mentre l'incantesimo ristorare inferiore può liberare un personaggio di una pazzia a breve o lungo termine. \\
@@ -9138,9 +9136,9 @@ Gli esempi seguenti rappresentano solo alcuni dei possibili veleni.\\
 
 \textbf{Tabella: Veleni}\index{Tabella Veleni}
 
-\begin{tabular}{m{4.5cm}lllm{7cm}l} %{XlllXl}
+\begin{xltabular}{1\textwidth}{m{4.5cm}lllm{7cm}l} %{XlllXl}
 
-%\begin{tabularx}{0.99\textwidth}{llllll} %{XlllXl}
+%\begin{xltabular}{0.99\textwidth}{llllll} %{XlllXl}
 \toprule
 	\textbf{Nome Veleno}  & \textbf{Uso} & \textbf{TS} & \textbf{Ins.} & \textbf{Effetto (danno)} & \textbf{Costo}\\
 	\hline
@@ -9187,7 +9185,7 @@ Gli esempi seguenti rappresentano solo alcuni dei possibili veleni.\\
 	Grasso di Toporagno Viola \index{Grasso di Toporagno Viola}   & C  & 13    & 1 round  & 2d12 PF & 15\\
 		\hline
 	Veleno di Ottalm\index{Veleno di Ottalm}  & F  & 20    & -   & Morte o -1d2 Costituzione permanente  & 50\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -9213,7 +9211,7 @@ Non si puo' beneficiare di piu' di una dose di pozioni naturali (per tipo) al gi
 
 \medskip
 
-\begin{tabularx}{0.99\textwidth}{llllXll}
+\begin{xltabular}{0.99\textwidth}{llllXll}
 	\textbf{Nome}  & \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Loc.} & \textbf{Costo} \\
 	\hline
 	Arlandas\index{Arlandas} & R  & 1 ora& 24& Rinsalda le fratture & CF5 & 100  \\
@@ -9303,11 +9301,11 @@ Petali di Lisbeth \index{Petali di Lisbeth}  & I  & 1 turno   & 15&+2 Intelligen
 \hline
 Estratto di radice Gisenosa\index{Estratto di radice Gisenosa}  & I  & 3 turni  & 15& Cura tosse e raffreddore  & MT6 & 5    \\
 
-\end{tabularx}
+\end{xltabular}
 
 \bigskip
 
-\begin{tabular}{m{4cm}lllm{6cm}ll}
+\begin{xltabular}{1\textwidth}{m{4cm}lllm{6cm}ll}
 Gylvert\index{Gylvert}   & I  & -    & 25& Concede respirare sott'acqua per 4 ore   & MO7 & 75 \\
 \hline
 Gusterbloon \index{Gusterbloon}    & C  & 1 round   & 20& La pelle diventa piu' scura concedendo un +4 alla prove di Nascondersi & CM5 & 40  \\
@@ -9319,7 +9317,7 @@ Estratto di Bacca Illa bruciata\index{Estratto di Bacca Illa bruciata}& I  & - &
 Corteccia polverizzata di Dagmather\index{Polvere di corteccia di Dagmather}    & R  & 1 round   & 25& Rimuove condizione esausto e affaticato  & SS5 & 20   \\
 \hline
 Radice secca di Kathaus\index{Radice secca di Kathaus} & R  & -    & 20& +2 Forza e Destrezza per 1 ora & FW6 & 25   \\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -9337,7 +9335,7 @@ Radice secca di Kathaus\index{Radice secca di Kathaus} & R  & -    & 20& +2 Forz
 
 \medskip
 
-\begin{tabularx}{0.99\textwidth}{XlllXll}
+\begin{xltabular}{0.99\textwidth}{XlllXll}
 \textbf{Nome}  & \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Loc.} & \textbf{Costo} \\
 	\hline
 	Foglie fermentate di Luside\index{Foglie fermentate di Luside}  & I  & 1 turno  & 17& Allucinazioni sensoriali per 2d4 ore. +2 Carisma ed Intelligenza & SF7 & 5    \\
@@ -9357,7 +9355,7 @@ Radice secca di Kathaus\index{Radice secca di Kathaus} & R  & -    & 20& +2 Forz
 	Polline di Julnnaus\index{Polline di Julnnaus} & R  & -    & 20& +3 Costituzione per 2 ore & FO6 & 25   \\
 	\hline
 	Miele polverizzato del fiore di Erain \index{Miele polverizzato del fiore di Erain} & R  & -    & 20& +2 Forza e Intelligenza e Destrezza. +3d6 PF temporanei, per 1 ora  & FT7 & 75   \\
-\end{tabularx}
+\end{xltabular}
 
 \medskip
 
@@ -9383,7 +9381,7 @@ La rarità indica la possibilità, su un d10, di trovare l'erba/pianta ricercata
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{XXXX}
+\begin{xltabular}{0.95\textwidth}{XXXX}
 	\toprule
 	\textbf{Prima Lettera} & \textbf{Clima}   & \textbf{Seconda Lettera} & \textbf{Ambiente}\\
 	A       & Arido 			 & A         & Alpino\\
@@ -9403,7 +9401,7 @@ La rarità indica la possibilità, su un d10, di trovare l'erba/pianta ricercata
  	        &                    & W         & Discariche/Rifiuti\\
 	        &                    & Z         & Deserto\\
  	        &                    & X         & Sconosciuto\\
-\end{tabularx}
+\end{xltabular}
 
 \subsection{Pozioni generiche}\index{Pozioni generiche}\index{Pozioni}
 
@@ -9417,7 +9415,7 @@ Nella tabella i costi ed effetti di queste pozioni, l'insorgenza e' sempre immed
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lXll}
+\begin{xltabular}{0.95\textwidth}{lXll}
 	\textbf{Nome Pozione}&  \textbf{Effetto}&  \textbf{Costo (mo)}& \textbf{Applicazione}\\ 
 	\toprule
 	Cura					& recuperi 1d8+1 PF 							& 50 & Ingestione\\ 
@@ -9427,7 +9425,7 @@ Nella tabella i costi ed effetti di queste pozioni, l'insorgenza e' sempre immed
 	Veleno					& subisci 2d4+2 di danno. TS DC 15 Tempra 		& 25 & Ingestione \\ 
 	Veleno potenziata		& subisci 2d4+2 di danno. TS DC 18 Tempra 		& 50 & Ferimento \\ 
 	Rimuovi Veleno			& annulla l'insorgenza di un veleno se presa entro l'attivazione, oppure concede un nuovo TS con +4 & 75 & Ingestione\\
-\end{tabularx} 
+\end{xltabular} 
 
 
 
@@ -9473,7 +9471,7 @@ Questa tabella mostra i valori base di movimento a terra in situazioni di non co
 
 \medskip
 
-\begin{tabular}{lccc}
+\begin{xltabular}{1\textwidth}{lccc}
 	\toprule
 	\multirow{2}*{Tipo di movimento} &
 	\multicolumn{3}{c}{Movimento Velocità (metri)}        \\
@@ -9489,7 +9487,7 @@ Questa tabella mostra i valori base di movimento a terra in situazioni di non co
 	Correre (x3)                     & 9km  & 12km & 18km \\
 	\textbf{Un giorno (via terra})                        \\
 	Camminare                        & 24km & 32km & 54km \\
-\end{tabular}
+\end{xltabular}
 
 
 \subsection{Movimento Tattico}\index{Movimento Tattico}
@@ -9563,7 +9561,7 @@ Nella tabella sono indicati i moltiplicatori per la distanza percorsa.
 
 \medskip
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 	\toprule
 	\textbf{Terreno}  & \textbf{Strada maestra} & \textbf{Strada comune} & \textbf{Sentiero non battuto}\\
 	Brughiera         & x1                      & x1                     & x3/4\\
@@ -9575,7 +9573,7 @@ Nella tabella sono indicati i moltiplicatori per la distanza percorsa.
 	Palude            & x1                      & \texttimes 3/4         & \texttimes 1/2\\
 	Pianura           & x1                      & \texttimes 3/4         & \texttimes 1/2\\
 	Tundra Ghiacciata & x1                      & \texttimes 3/4         & \texttimes 3/4\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -9593,7 +9591,7 @@ Una cavalcatura che porta un cavaliere può muoversi con andatura veloce. Tuttav
 
 \label{tabella-cavalcature-e-veicoli}\index{Cane}\index{Pony}\index{Carretto}\index{Zattera}\index{Barca}\index{Nave}
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\toprule
 	\textbf{Cavalcatura o Veicolo (carico trasportato)} & \textbf{All'ora} & \textbf{Al giorno}\\
 	Cane da Galoppo     & 6km              & 48km              \\
@@ -9613,7 +9611,7 @@ Una cavalcatura che porta un cavaliere può muoversi con andatura veloce. Tuttav
 	Nave da Guerra (vele e remi)        & 3.75km           & 90km              \\
 	Nave Lunga (vele e remi)            & 4.5km            & 108km             \\
 	Galea (remi e vele) & 6km              & 144km             \\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -9656,7 +9654,7 @@ Consulta la tabella Capacità di carico per capire la tua capacità di carico.
 
 \medskip
 
-\begin{tabular}{lllll}
+\begin{xltabular}{1\textwidth}{lllll}
 \toprule
 	\multirow{2}*{Forza} & \multicolumn{3}{c}{Capacità di Carico}&\\
 	\cmidrule(lr){2-5} & Normale (kg)  & Appesantita (kg)  & Massimo (kg) & Spinta (kg)\\ 
@@ -9670,7 +9668,7 @@ Consulta la tabella Capacità di carico per capire la tua capacità di carico.
 +3& 0-60& 60-90&90-180&entro 270\\
 +4& 0-95& 95-140&140-280&entro 420\\
 +5& 0-140& 140-220&220-440&entro 660\\
-\end{tabular}
+\end{xltabular}
 
 \subsubsection{Spingere, Trascinare o Sollevare}
 
@@ -9797,7 +9795,7 @@ Prendete questa tabella dei punti esperienza
 
 \label{tabella-punti-esperienza-livello}
 
-\begin{tabular}{ll|ll}
+\begin{xltabular}{1\textwidth}{ll|ll}
 	\toprule
 	\textbf{Livello} & \textbf{Punti Esperienza}&\textbf{Livello} & \textbf{Punti Esperienza}\\
 	1 & 0xp & 11&310 xp\\
@@ -9810,7 +9808,7 @@ Prendete questa tabella dei punti esperienza
 	8 &200 xp & 18&600 xp\\
 	9 &235 xp & 19&645 xp\\
 	10& 270 xp & 20 & 690 xp\\
-\end{tabular}
+\end{xltabular}
 
 \pagebreak
 
@@ -9898,7 +9896,7 @@ Si noti che questa guida di riferimento della creazione di un incontro presuppon
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{Difficoltà} & \textbf{Grado di Sfida (grado di Sfida)}\\
 	Facile               & APL -1\\
@@ -9906,7 +9904,7 @@ Si noti che questa guida di riferimento della creazione di un incontro presuppon
 	Alta & APL +1\\
 	Straordinaria        & APL +2\\
 	Epica& APL +3\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -9925,7 +9923,7 @@ Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire
 
 \textbf{Tabella: Peso grado di Sfida per calcolo APL}\index{Tabella Peso grado di Sfida per calcolo APL}
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\toprule
 	\textbf{Sfida obiettivo} & \textbf{Sfida creatura rispetto ad obiettivo APL} & \textbf{"Peso" per singola creatura}\\
 	grado di Sfida        & -7                    & 5\\
@@ -9937,7 +9935,7 @@ Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire
 	                      & -1                    & 75\\
 	                      & 0                     & 90\\
 	                      & +1					  & 100\\	
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -10001,7 +9999,7 @@ Per un metodo equilibrato, i personaggi che vengono creati dopo il 1° livello d
 
 \textbf{Tabella: Valori del Tesoro per Incontro}\index{Tesoro}\index{Tabella Valori del Tesoro per Incontro}
 
-\begin{tabular}{ll|ll}
+\begin{xltabular}{1\textwidth}{ll|ll}
 	\toprule
 	\textbf{Livello Medio Gruppo} & \textbf{per Incontro (mo)} & \textbf{Livello Medio Gruppo} & \textbf{per Incontro (mo)}\\
 	1             & 130        & 11            & 3500\\
@@ -10014,7 +10012,7 @@ Per un metodo equilibrato, i personaggi che vengono creati dopo il 1° livello d
 	8             & 1700       & 18            & 20000\\
 	9             & 2100       & 19            & 25000\\
 	10            & 2500       & 20            & 32000\\
-\end{tabular}
+\end{xltabular}
 \bigskip
 
 Usate questa tabella per avere un indicazione del valore del tesoro del "mostro".\\
@@ -10026,7 +10024,7 @@ Un tesoro accidentale si presta benissimo a fornire oggetti particolare che poss
 
 \bigskip
 
-\begin{tabular}{ll|ll}
+\begin{xltabular}{1\textwidth}{ll|ll}
 	\toprule
 	\textbf{Livello Personaggio} & \textbf{Ricchezza} & \textbf{ Livello Personaggio} & \textbf{Ricchezza}\\
 	1            & 100               & 11            & 82000\\
@@ -10039,7 +10037,7 @@ Un tesoro accidentale si presta benissimo a fornire oggetti particolare che poss
 	8            & 17000             & 18            & 270000\\
 	9            & 25000             & 19            & 350000\\
 	10           & 35000             & 20            & 500000\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -10485,7 +10483,7 @@ Tira 1d100 e consulta la tabella, il risultato indica l'ammontare di tesoro casu
 
 \medskip
 
-\begin{tabular}{llllll}
+\begin{xltabular}{1\textwidth}{llllll}
 \toprule
 \textbf{D100} & \textbf{Comune} & \textbf{Non Comune} & \textbf{Raro} & \textbf{Molto Raro} & \textbf{Leggendario}\\
 1-5						&				&						&				&					& Maledetto\\	
@@ -10506,7 +10504,7 @@ Tira 1d100 e consulta la tabella, il risultato indica l'ammontare di tesoro casu
 97-98					&3				&3			&3							&1		&\\
 99						&3				&3			&3							&2		&\\
 100					&3				&3			&3							&2		&1\\				
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -10515,7 +10513,7 @@ Tira 1d100 e consulta la tabella, il risultato indica l'ammontare di tesoro casu
 
 \label{tabella-generazione-casuale-degli-oggetti-magici}
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 	\toprule
 	\textbf{Oggetto Comune} & \textbf{ Oggetto Non Comune} & \textbf{Oggetto Raro} & \textbf{Oggetto}    \\
 	01--04         & 01--10         & 01--10           & Armature e scudi\\
@@ -10527,7 +10525,7 @@ Tira 1d100 e consulta la tabella, il risultato indica l'ammontare di tesoro casu
 	---            & 66--68         & 56--75           & Bastoni\\
 	82--91         & 69--83         & 76--80           & Bacchette\\
 	92--100        & 84--100        & 81--100          & Oggetti meravigliosi\\
-\end{tabular}
+\end{xltabular}
 
 
 \subsection{Taglia e Oggetti Magici}
@@ -10601,7 +10599,7 @@ I prezzi dati si riferiscono sempre agli oggetti al massimo delle loro cariche (
 
 \bigskip
 
-\begin{tabular}{lllll}
+\begin{xltabular}{1\textwidth}{lllll}
 	\toprule
 	\textbf{Dimensioni Comunità} & \textbf{Valore Base} & \textbf{Comune} & \textbf{Non Comune} & \textbf{Raro}\\
 	Insediamento  & 50mo & 1d2 oggetti     && \\
@@ -10612,7 +10610,7 @@ I prezzi dati si riferiscono sempre agli oggetti al massimo delle loro cariche (
 	Piccola città & 4000mo               & 2d4 oggetti     & 1d6 oggetti    & 1d4 oggetti\\
 	Grande città  & 8000mo               & 3d4 oggetti      & 2d4 oggetti    & 1d6 oggetti\\
 	Metropoli     & 16000mo              & {*}             & 3d4 oggetti    & 2d4 oggetti\\
-\end{tabular}
+\end{xltabular}
 
 {*} In una metropoli si trovano quasi tutti gli oggetti magici minori.
 
@@ -10690,7 +10688,7 @@ L'incantesimo identificare rivela che una creatura si trova all'interno dell'amp
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 d100 &Contiene\\
 1-50 &Vuota\\
 51-66 &Demone \\
@@ -10707,7 +10705,7 @@ d100 &Contiene\\
 96 &Angelo Solar\\
 97-99 &Succube/Incubo\\
 100 &Xorn\\
-\end{tabular}
+\end{xltabular}
 \medskip
 
 \index{Amuleto dei Piani}\textbf{Amuleto dei Piani}\\
@@ -10884,7 +10882,7 @@ Mentre indossi questo anello, hai resistenza a un tipo di danno. La gemma incast
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 \textbf{d10} & \textbf{Tipo di Danno} & \textbf{Gemma}\\
 1 &Acido &Perla\\
 2& Forza &Zaffiro\\
@@ -10896,7 +10894,7 @@ Mentre indossi questo anello, hai resistenza a un tipo di danno. La gemma incast
 8& Luce &Topazio\\
 9& Tuono &Spinello\\
 10& Veleno &Ametista\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -11058,7 +11056,7 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lX}
+\begin{xltabular}{0.95\textwidth}{lX}
 	\textbf{d100}& \textbf{Contenuti}\\
 		\toprule
 	01-05 &Lanci lentezza.\\
@@ -11083,7 +11081,7 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 	91-95 &Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un tiro Salvezza su Tempra con DC 15 o restare	accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in	caso lo superi.\\
 	96-97 &La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto.\\
 	98-00 &Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di 	Tempra con DC 18. Se il bersaglio non è una creatura, il 	bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il	Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo ristorare inferiore o simili 	magie.\\	
-\end{tabularx}
+\end{xltabular}
 
 \medskip
 
@@ -11195,12 +11193,12 @@ Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni.\\
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 \textbf{Distanza dall'Origine} &\textbf{Danno}\\
 3 metri o meno &8 x il numero di cariche nel bastone\\
 Fino a 6 metri& 6 x il numero di cariche nel bastone\\
 Fino a 9 metri& 4 x il numero di cariche nel bastone\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -11270,7 +11268,7 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lX}
+\begin{xltabular}{0.95\textwidth}{lX}
 \toprule
 \textbf{d100} & \textbf{Effetto}\\
 01 &Spuntano 5d4 funghi. Se una creatura mangia un fungo, tira un dado. Se il risultato è dispari, costui deve superare un tiro Salvezza su Tempra con DC 15 o subire 5d6 danni da veleno e restare avvelenato per 1 ora. Se il risultato è pari, costui ottiene 5d6 punti ferita temporanei per 1 ora.\\
@@ -11285,7 +11283,7 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 creatura aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità. Se il Tiro Salvezza fallisce, la creatura subisce 10d6 danni da forza a causa di un'esplosione magica al suo interno.\\
 91-99 &Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. La piramide è considerata come la tana della mummia sovrana, e il suo sarcofago contiene un tesoro a scelta del Narratore.\\
 100 &Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza.
-\end{tabularx}
+\end{xltabular}
 
 \medskip
 
@@ -11303,12 +11301,12 @@ Questa bottiglia di ottone dipinta pesa 500 grammi. Quando usi due azioni per ri
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 \textbf{3d6} &\textbf{Effetto}\\
 3-5 & L'efreeti ti attacca. Dopo aver combattuto per 5 round, l'efreeti scompare e la bottiglia perde la sua magia.\\
 6-16 &L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia, e un nuovo tappo lo può contenere. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare, e la bottiglia perde la sua magia.\\
 17-18 & L'efreeti può lanciare l'incantesimo desiderio a tuo favore per tre volte. Scompare quando conferisce il desiderio finale o dopo 1 ora, allorché la bottiglia perde la sua magia.
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -11438,7 +11436,7 @@ Esistono quattro varianti di questa cinta, corrispondenti ciascuna a una specie 
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\toprule
 \textbf{Tipo}& \textbf{Forza} &\textbf{Rarità}\\
 \textbf{Gigante di collina} &5& Raro\\
@@ -11446,7 +11444,7 @@ Esistono quattro varianti di questa cinta, corrispondenti ciascuna a una specie 
 \textbf{Gigante del fuoco} &7& Molto raro\\
 \textbf{Gigante delle nuvole} &8& Leggendario\\
 \textbf{Gigante delle tempeste}& 9& Leggendario\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -11480,7 +11478,7 @@ Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfer
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 	\textbf{3d6} &\textbf{Sfera di...} &\textbf{Incantesimo}\\
 	3-5 &Benedizione &benedizione\\
 	6-11& Cura &cura ferite (2° livello) o ristorare inferiore\\
@@ -11488,7 +11486,7 @@ Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfer
 	15-16& Punire &punizione marchiante\\
 	17 &Camminare nel vento& camminare nel vento\\
 	18 &Convocare &alleato planare\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -11514,13 +11512,13 @@ Esistono tre tipi di corno del Valhalla, ognuno fatto di un metallo differente. 
 
 \medskip
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 \textbf{d100} &\textbf{Tipo Berserker} &\textbf{Evocati} & \textbf{Requisiti}\\
 01-40 &Argento& 2d4 + 2 &CA 0\\
 41-75 &Ottone& 3d4 + 3 &CA 1\\
 76-90 &Bronzo& 4d4 + 4 &CA 2\\
 91-100& Ferro& 5d4 + 5 &CA 3\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -11534,7 +11532,7 @@ Se il tuo movimento fa sì che la barriera entri a contatto con un oggetto solid
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{xltabular}{1\textwidth}{lll}
 \textbf{Faccia} & \textbf{Cariche}& \textbf{Effetto}\\
 1& 1& Gas, vento e nebbia non possono penetrare la barriera\\
 2& 2 &La materia non vivente non può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione.\\
@@ -11542,7 +11540,7 @@ Se il tuo movimento fa sì che la barriera entri a contatto con un oggetto solid
 4 &4 &Gli effetti dell'incantesimo non possono attraversare la barriera.\\
 5 &5 &Nulla può attraversare la barriera. Muri,pavimenti e soffitti possono attraversarla a tua discrezione.\\
 6 &0& La barriera si disattiva. \\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -11550,14 +11548,14 @@ Il cubo perde cariche quando la barriera viene presa come bersaglio da certi inc
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 \textbf{Incantesimo o Oggetto} &\textbf{Cariche Perse}\\
 Corno dell'esplosione &1d10\\
 Disintegrazione &1d12\\
 Muro di fuoco &1d4\\
 Passapareti& 1d6\\
 Spruzzo prismatico &3d6\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -11636,13 +11634,13 @@ Questa gemma contiene una scintilla di energia elementale. Quando usi due azioni
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 Gemma Elementale Evocato\\
 Corindone rosso& Elementale del fuoco\\
 Diamante giallo& Elementale della terra\\
 Smeraldo &Elementale dell'acqua\\
 Zaffiro &blu Elementale dell'aria\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -11739,14 +11737,14 @@ Questo tomo contiene le informazioni e incantamenti necessari a costruire un tip
 
 \medskip
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 	3d6 &Golem &Tempo &Costo\\
 	\toprule
 	3-4 &Argilla &30 giorni &65.000 mo\\
 	5-16 &Carne &60 giorni& 50.000 mo\\
 	17  &Ferro &120 giorni &100.000 mo\\
 	18 &Pietra& 90 giorni &80.000 mo\\
-\end{tabular}
+\end{xltabular}
 
 
 \medskip
@@ -11791,7 +11789,7 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 
 \medskip
 
-\begin{tabular}{ll|ll}
+\begin{xltabular}{1\textwidth}{ll|ll}
 \textbf{Carta da Gioco}& \textbf{Illusione}&\textbf{Carta da Gioco}& \textbf{Illusione}\\
 Asso di cuori &Drago rosso&Asso di quadri& Beholder\\
 Re di cuori &Cavaliere e quattro guardie&Re di quadri & Arcimago e magio apprendista\\
@@ -11810,7 +11808,7 @@ Nove di picche &Troll&Nove di fiori &Ogre\\
 Otto di picche &Hobgoblin&Otto di fiori& Orco\\
 Due di picche &Goblin&Due di fiori &Coboldo\\
 Jolly (2) &Tu (il proprietario del mazzo)&&\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -11822,7 +11820,7 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 
 \medskip
 
-\begin{tabular}{ll|ll}
+\begin{xltabular}{1\textwidth}{ll|ll}
 \textbf{Carta da Gioco}& \textbf{Carta}&\textbf{Carta da Gioco}& \textbf{Carta}\\
 Asso di quadri& Visir*&Asso di cuori &Fato*\\
 Re di quadri &Sole&Re di cuori &Trono\\
@@ -11835,7 +11833,7 @@ Regina di fiori& Fiamme&Regina di picche &Euriale\\
 Fante di fiori &Teschio&Fante di cuori& Furfante\\
 Due di fiori &Idiota&Due di picche &Appeso*\\
 Jolly &Matto*&Jolly &Buffone\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -12169,12 +12167,12 @@ Se la sfera entra in contatto con un portale planare, come quello creato dall'in
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\textbf{3d6}& \textbf{Risultato}\\
 	3-10 &La sfera è distrutta\\
 	12-16& La sfera si muove attraverso il portale o all'interno dello spazio extradimensionale.\\
 	17-18 &Un squarcio spaziale spedisce ogni creatura e oggetto entro 54 metri dalla sfera, sfera inclusa, in un piano dell'esistenza casuale.\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -12274,13 +12272,13 @@ Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del t
 
 \medskip
 
-\begin{tabular}{llll}
+\begin{xltabular}{1\textwidth}{llll}
 d100 &Taglia &Capacità &Velocità di Volo\\
 01-20& 90 cm x 1,5 m &100 kg &24 metri\\
 21-55& 1,2 m x 1,8 m &200 kg &18 metri\\
 56-80& 1,5 m x 2,1 m &300 kg &12 metri\\
 81-100& 1,8 m x 2,7 m& 400 kg& 9 metri\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -12376,7 +12374,7 @@ Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 t
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 \textbf{d100} & \textbf{Effetto}\\
 01-08 &Borsello con 100 mo.\\
 09-15& Forziere d'argento (lungo 30 cm, largo e profondo 15 cm) del valore di 500 mo.\\
@@ -12390,7 +12388,7 @@ Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 t
 84-90& Due mastini.\\
 91-96 &Finestra (60 x 120 cm, profonda massimo 60 cm), che puoi piazzare su qualsiasi superficie verticale a portata.\\
 97-100 &Ariete portatile.\\
-\end{tabular}
+\end{xltabular}
 
 \medskip
 
@@ -12437,7 +12435,7 @@ Quando una prova di creazione di un oggetto magico fallisce di 10 o piu', tirate
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{\%} & \textbf{Maledizione}\\
 	01-15       & Inganno\\
@@ -12446,7 +12444,7 @@ Quando una prova di creazione di un oggetto magico fallisce di 10 o piu', tirate
 	51-65       & Requisito\\
 	66-90       & Inconveniente\\
 	91-100      & Effetto completamente diverso\\
-\end{tabular}
+\end{xltabular}
 
 \bigskip
 
@@ -12492,7 +12490,7 @@ Gli oggetti discontinui funzionano esattamente come dovrebbero, quando funzionan
 
 \bigskip
 
-\begin{tabularx}{0.95\textwidth}{lX}
+\begin{xltabular}{0.95\textwidth}{lX}
 	\toprule
 	\textbf{\%} & \textbf{Situazione}\\
 	01-03       & Temperatura sotto lo zero\\
@@ -12515,7 +12513,7 @@ Gli oggetti discontinui funzionano esattamente come dovrebbero, quando funzionan
 	96          & Nelle mani di una creatura di un particolare sesso\\
 	97-99       & Nei giorni non sacri o durante particolari ricorrenze astrologiche\\
 	100         & A più di 150 km da un determinato luogo\\
-\end{tabularx}
+\end{xltabular}
 
 \bigskip
 
@@ -12557,7 +12555,7 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{xltabular}{1\textwidth}{ll}
 	\toprule
 	\textbf{\%} & \textbf{Inconveniente}\\
 	01-04       & I capelli del PG crescono di 2,5 cm all'ora.\\
@@ -12597,7 +12595,7 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 	98          & II PG non può più usare Incantesimo con Difficoltà oltre 15\\
 	99          & II PG non può più usare Incantesimi\\
 	100         & Tira due volte\\
-\end{tabular}
+\end{xltabular}
 
 \pagebreak
 
@@ -13096,7 +13094,7 @@ Le caratteristiche magiche di un piano definisce la magia su quel piano rispetto
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lX}
+\begin{xltabular}{0.95\textwidth}{lX}
 	d100	&Effetto\\
 	01-19	&L'incantesimo rimbalza sull'incantatore con effetto normale. Se l'incantesimo non può influenzare l'incantatore, non produce alcun effetto.\\
 	20-23	&Una fossa circolare del diametro di 4,5 metri si apre sotto i piedi dell'incantatore; la sua profondità è di 3 metri per livello dell'incantatore.\\
@@ -13108,12 +13106,12 @@ Le caratteristiche magiche di un piano definisce la magia su quel piano rispetto
 	44-47	&L'incantesimo non ha effetto. Invece, un effetto di Inversione della Gravità copre un raggio di 9 metri attorno all'incantatore per 1 round.\\
 	48-51	&L'incantesimo ha effetto, ma dei colori scintillanti turbinano attorno all'incantatore per 1d4 round. Considerate quest'area come un effetto di Polvere Luccicante con un Tiro Salvezza con DC 10 + il livello dell'incantesimo che ha generato tale risultato.\\
 	52-59	&Non accade nulla. L'incantesimo non ha effetto. Qualsiasi componente materiale viene utilizzata. L'incantesimo o lo slot incantesimo viene utilizzato, un oggetto perde cariche e l'effetto influenza il limite di utilizzo di un oggetto o di una capacità magica.\\
-\end{tabularx}
-\begin{tabularx}{0.95\textwidth}{lX}
+\end{xltabular}
+\begin{xltabular}{0.95\textwidth}{lX}
 	60-71	&Non accade nulla. L'incantesimo non ha effetto. Qualsiasi componente materiale non viene utilizzata. L'incantesimo non scompare dalla mente dell'incantatore (uno slot incantesimo o un incantesimo preparato possono ancora essere utilizzati). Un oggetto non perde cariche e l'effetto non influenza il limite di utilizzo di un oggetto o di una capacità magica.\\
 	72-98	&L'incantesimo ha effetto normalmente.\\
 	99-100	&L'incantesimo ha effetto potenziato. La prova di magia genera automaticamente un critico\\
-\end{tabularx}
+\end{xltabular}
 
 \medskip
 
@@ -13713,7 +13711,7 @@ The following text is the property of Wizards of the Coast, LLC. and is Copyrigh
 
 	01/10/2020 STAMPA
 	
-    3.0.5 aggiunto riferimento al razzismo, aggiornate razze, layout, riportato malus per essenze limitate a -4, aggiornata versione a 3.0.5, aggiunta opzione per gli dei antichi, rifacimento indice, aggiunte/sistemate voci di indice, ritornato malus a -2, aggiornato famiglio corretta difesa,aggiornato famiglio, inserite distanze per usare i poteri, aggiunta pozioni generiche, aggiornamento divinità antiche, aggiunti simboli sacri divinità antiche, rifatta tabella aspetti generici, specificata durata pozioni generiche, dettagli su dei antichi,l'essenza favorita di Zarkor e' alterazione e non trasformazione, precisazioni su costo ed effetti magici, esempi di utilizzo di Essenza, aggiornamenti su magia, modificata lista elementi e creature, mantenere la concentrazione di una essenza costa 1 azione, ristrutturata sezione dei potenziamenti magici e messi in un unica tabella, Cura agisce su Creature ed Elementi (oggetti), rimosse Vita e Morte dai concetti, aggiornato indice, rifatta tabella elementi creature,chiarimenti su Difficoltà data da area effetto e Essenze con cui base, dettagli sui potenziamenti delle essenze, dettagli su effetti essenza in linea  ed a cono, chiarimenti su riuscire e fallire nella magia, layout e precisazioni, modificata prova di concentrazione, chiarimenti su Essenza Alterazione, una Essenza non di attacco usata per attaccare causa danno con 2 livelli inferiori di LP, essenza charme inserito modificatori emotivi, chiarimenti su Essenza Creazione, esempio di contingenza su cura, dettagli su costo pozioni naturali, dettagli su modifica empatia con essenza charme, aggiornata tabella charme per cambio amichevole/ostile, aggiornata tabella effetti distruzione su creature, aggiornata essenza movimento, modificato uso di tabular con le misure L e usa di tabularx X per una esportazione su word delle tabelle almeno possibile, rimossi spazi di formattazione ridondanti, ogni singola pozione naturale puo' essere assunta una volta al giorno le successive non hanno effetto, rifatta tabella armi dovrebbe essere meglio formattata, aggiornato tabella equipaggiamento armi con armi da carceriere, rivista lista armi da carceriere, perfezionata tabella equipaggiamento armi eliminando i doppioni ed i raggruppamenti, modificato il danno per il pugno/calcio, chiarimenti su utilizzo lista arma pugno/calcio, aggiornata tabella veleni naturali, aggiunto veleno Mistura Rossa, allineate tabelle pozioni e veleni reso piu' chiaro il tipo di pozione e veleno, separate le droghe e creata tabella apposita, rimosso occultamento e sostituito con copertura, gestione alternativa del danno critico, chiarimenti su lista armi archi, rimosso dal danno critico il valore di potenza si applica, chiarimenti su invibilità, essenze cumulate ovvero piu' Essenze nello stesso round, mancava la descrizione dell'abilità ferocia, valori non chiari su rompere porte, rilettura competenze piccole correzioni, prima bozza di layout, spiegazione sulle lingue elementali, dettagli su altre lingue, spiegazione su lingue speciali, chiarimenti su pronto soccorso, chiarimenti su lista armi archi e attacco aggiuntivo, ulteriore lettura su azioni in combattimento, chiarimenti su punti liste d'arma, modificata e ridotta la progressione dei punti necessari per prendere i vantaggi dalle liste d'arma, rinominata l'abilità Cecchino in Occhio di Falco, rinominata l'abilità Cecchino in Occhio di Falco, chiarito colpo paralizzante, aggiunto terzo livello combattere alla cieca, gestito terzo livello con arma secondaria, chiarito conteggi bonus e malus multiattacco con arma secondaria, cambiato nome da katana a uchigatana e rimesso katana, dettagli su come gestire una pergamena (lettura, comprensione..), chiarimenti su raggio psichico, aggiunto potenziamento su raggio psichico e colpo psichico, potenziamento energia chi possibilità di recuperare energia chi ogni ora, modificato il costo dell'azione per guerriero dell'essenza, immunità ai veleni da un +4 contro veleni magici e non immunità, modificata area di effetto di Incanalare energia portata a 3 metri, dettagli su montagna umana, dettagli su passo tattico, varie correzioni di layout ad Abilità, chiarimenti su Tiro Rapido, modifiche a kensai adesso il bonus e' sulla iniziativa o TC, rinominata l'Abilità Kensei in Iaijutsu, chiarimenti su Magie Efficaci, aggiunta abilità Passo Veloce, rifatta Abilità Schivare trappole, altri dettagli minori su abilità, chiarimenti su famiglio, modificato trasmettere essenze a contatto (famiglio), chiarimenti su vedere attraverso il famiglio, piccoli chiarimenti su assorbimento danni armatura, rimosso concetto di arma e armatura perfetta, sostituito riferimento a carisma con magnetismo in abiti, alcuni riferimenti in indice erano minuscoli, inseriti pesi in area di effetto, La trasformazione di Elementi o Energia e' permanente ed ha Difficoltà come Durata 8, rivista completamente parte della magia sul calcolo della Difficoltà data dalla Durata/Massa e Volume adesso e' piu' chiaro come computare, rese Creazione, Distruzione, Trasformazione permanenti come effetti, aggiornata tabella delle Difficoltà base aggiungendo massa/volume, aggiunto include con esempi magie, specificato che la Creazione non puo' creare qualcosa di magico, chiarimenti su trasformazione, aggiunta casistica di trasformazione elemento in elemento magico, aggiunto resistenza al danno e chiarimenti su riduzione del danno
+    3.0.5 aggiunto riferimento al razzismo, aggiornate razze, layout, riportato malus per essenze limitate a -4, aggiornata versione a 3.0.5, aggiunta opzione per gli dei antichi, rifacimento indice, aggiunte/sistemate voci di indice, ritornato malus a -2, aggiornato famiglio corretta difesa,aggiornato famiglio, inserite distanze per usare i poteri, aggiunta pozioni generiche, aggiornamento divinità antiche, aggiunti simboli sacri divinità antiche, rifatta tabella aspetti generici, specificata durata pozioni generiche, dettagli su dei antichi,l'essenza favorita di Zarkor e' alterazione e non trasformazione, precisazioni su costo ed effetti magici, esempi di utilizzo di Essenza, aggiornamenti su magia, modificata lista elementi e creature, mantenere la concentrazione di una essenza costa 1 azione, ristrutturata sezione dei potenziamenti magici e messi in un unica tabella, Cura agisce su Creature ed Elementi (oggetti), rimosse Vita e Morte dai concetti, aggiornato indice, rifatta tabella elementi creature,chiarimenti su Difficoltà data da area effetto e Essenze con cui base, dettagli sui potenziamenti delle essenze, dettagli su effetti essenza in linea  ed a cono, chiarimenti su riuscire e fallire nella magia, layout e precisazioni, modificata prova di concentrazione, chiarimenti su Essenza Alterazione, una Essenza non di attacco usata per attaccare causa danno con 2 livelli inferiori di LP, essenza charme inserito modificatori emotivi, chiarimenti su Essenza Creazione, esempio di contingenza su cura, dettagli su costo pozioni naturali, dettagli su modifica empatia con essenza charme, aggiornata tabella charme per cambio amichevole/ostile, aggiornata tabella effetti distruzione su creature, aggiornata essenza movimento, modificato uso di xltabular con le misure L e usa di xltabular X per una esportazione su word delle tabelle almeno possibile, rimossi spazi di formattazione ridondanti, ogni singola pozione naturale puo' essere assunta una volta al giorno le successive non hanno effetto, rifatta tabella armi dovrebbe essere meglio formattata, aggiornato tabella equipaggiamento armi con armi da carceriere, rivista lista armi da carceriere, perfezionata tabella equipaggiamento armi eliminando i doppioni ed i raggruppamenti, modificato il danno per il pugno/calcio, chiarimenti su utilizzo lista arma pugno/calcio, aggiornata tabella veleni naturali, aggiunto veleno Mistura Rossa, allineate tabelle pozioni e veleni reso piu' chiaro il tipo di pozione e veleno, separate le droghe e creata tabella apposita, rimosso occultamento e sostituito con copertura, gestione alternativa del danno critico, chiarimenti su lista armi archi, rimosso dal danno critico il valore di potenza si applica, chiarimenti su invibilità, essenze cumulate ovvero piu' Essenze nello stesso round, mancava la descrizione dell'abilità ferocia, valori non chiari su rompere porte, rilettura competenze piccole correzioni, prima bozza di layout, spiegazione sulle lingue elementali, dettagli su altre lingue, spiegazione su lingue speciali, chiarimenti su pronto soccorso, chiarimenti su lista armi archi e attacco aggiuntivo, ulteriore lettura su azioni in combattimento, chiarimenti su punti liste d'arma, modificata e ridotta la progressione dei punti necessari per prendere i vantaggi dalle liste d'arma, rinominata l'abilità Cecchino in Occhio di Falco, rinominata l'abilità Cecchino in Occhio di Falco, chiarito colpo paralizzante, aggiunto terzo livello combattere alla cieca, gestito terzo livello con arma secondaria, chiarito conteggi bonus e malus multiattacco con arma secondaria, cambiato nome da katana a uchigatana e rimesso katana, dettagli su come gestire una pergamena (lettura, comprensione..), chiarimenti su raggio psichico, aggiunto potenziamento su raggio psichico e colpo psichico, potenziamento energia chi possibilità di recuperare energia chi ogni ora, modificato il costo dell'azione per guerriero dell'essenza, immunità ai veleni da un +4 contro veleni magici e non immunità, modificata area di effetto di Incanalare energia portata a 3 metri, dettagli su montagna umana, dettagli su passo tattico, varie correzioni di layout ad Abilità, chiarimenti su Tiro Rapido, modifiche a kensai adesso il bonus e' sulla iniziativa o TC, rinominata l'Abilità Kensei in Iaijutsu, chiarimenti su Magie Efficaci, aggiunta abilità Passo Veloce, rifatta Abilità Schivare trappole, altri dettagli minori su abilità, chiarimenti su famiglio, modificato trasmettere essenze a contatto (famiglio), chiarimenti su vedere attraverso il famiglio, piccoli chiarimenti su assorbimento danni armatura, rimosso concetto di arma e armatura perfetta, sostituito riferimento a carisma con magnetismo in abiti, alcuni riferimenti in indice erano minuscoli, inseriti pesi in area di effetto, La trasformazione di Elementi o Energia e' permanente ed ha Difficoltà come Durata 8, rivista completamente parte della magia sul calcolo della Difficoltà data dalla Durata/Massa e Volume adesso e' piu' chiaro come computare, rese Creazione, Distruzione, Trasformazione permanenti come effetti, aggiornata tabella delle Difficoltà base aggiungendo massa/volume, aggiunto include con esempi magie, specificato che la Creazione non puo' creare qualcosa di magico, chiarimenti su trasformazione, aggiunta casistica di trasformazione elemento in elemento magico, aggiunto resistenza al danno e chiarimenti su riduzione del danno
     
     3.1.0 aggiunta dell'opzione magica basata su incantesimi di DnD 5e, tolta durata concentrazione da Invibilità, dai Muri, dalle Nubi, Oscurità, passare senza traccia, paura, pelle di corteccia, resistenze, volare e molti tanti altri incantesimi, aggiunta vulnerabilità al danno, aggiunto chiarimento punti ferita temporanei, aggiunto chiarimenti per afferrato, cambiata licenza lasciato solo OGL 5.1, aggiunto capitolo sui mostri, inserito allineamento, chiarimenti per utilizzo tratti ed allineamento, inseriti i piani, diverse correzioni minori e proseguimento lavori su mostri, aggiunta abilità scacciare i non morti
     
