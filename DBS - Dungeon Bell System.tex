@@ -9607,7 +9607,7 @@ Il terreno su cui si viaggia influenza quale distanza viene percorsa in un'ora o
 
 \bigskip
 
-\textbf{Tabella: Terreno e Movimento Via Terra (Opzionale)}\index{Tabella Terreno e Movimento Via Terra (Opzionale)}
+\textbf{Tabella: Terreno e Movimento Via Terra* (Opzionale)}\index{Tabella Terreno e Movimento Via Terra* (Opzionale)}
 
 Nella tabella sono indicati i moltiplicatori per la distanza percorsa.
 
@@ -9692,7 +9692,7 @@ Portare tesori, pezzi di drago, armature complete per non parlare di armi spropo
 Quando valutate il peso trasportato ragionate anche sull'ingombro!
 Portale un rotolo di 12 metri x 6 metri di seta non e' una attività fisica impegnativa, saranno pochi chili, ma l'ingombro e' tale da non poter permettere ulteriore carico.
 
-Ci possono essere oggetti leggeri ma estremamente ingombranti (tronchi cavi, tappeti di seta appunto..) oppure piccoli ma pesantissimi (sfere di mercurio, vestiti intessuti d'oro), per tutti questi oggetti il valore di peso varà ragionato anche in funzione dell'ingombro.
+Ci possono essere oggetti leggeri ma estremamente ingombranti (tronchi cavi, tappeti di seta appunto..) oppure piccoli ma pesantissimi (sfere di mercurio, vestiti intessuti d'oro), per tutti questi oggetti il valore di peso deve essere ragionato anche in funzione dell'ingombro.
 
 I valori di peso degli oggetti si sommano tra di loro per dare il carico totale portato.
 
@@ -9728,6 +9728,7 @@ Puoi trasportare, tra zaino, armatura, armi ed equipaggiamento un peso pari a qu
 Se trasporti un peso che ricade nell'area \textbf{Appensantita} hai un -3 alle prove basate sulla Destrezza ed il movimento diminuisce di un terzo.
 Il peso indicato come \textbf{Massimo} significa il massimo trasportabile. Hai un -6 alle prove basate sulla Destrezza, il tuo movimento diminuisce ad un terzo.
 Se il peso e' oltre il Massimo ma entro \textbf{Spinta} puoi appoggiarlo e spingerlo (se fattibile), in questo caso la tua velocità si ridurrà ad quarto.
+Un oggetto se ha "delle ruote" su cui muoversi si considera che abbia un peso dimezzato per quanto riguarda la Spinta.
 
 
 \emph{Ricordate che l'armatura e scudo indossati hanno un peso dimezzato rispetto a quanto segnato.}\\
@@ -9940,7 +9941,7 @@ Nel progettare un incontro di combattimento, in primo luogo decidete che livello
 
 Si noti che questa guida di riferimento della creazione di un incontro presuppone un gruppo di quattro o cinque PG. Se il vostro gruppo ha sei o più giocatori, aggiungete uno al loro livello medio. Se il vostro gruppo contiene tre o meno giocatori, sottraete uno dal loro livello medio. Per esempio, se il vostro gruppo consiste di sei giocatori, due di 4° livello e quattro di 5° livello, il APL è il 6° (28 livelli totali, diviso per sei giocatori, arrotondando per eccesso e aggiungendo uno al risultato finale).
 
-\textbf{Determinare il grado di Sfida}: Il Grado di Sfida (o grado di Sfida) è un numero di convenienza usato per indicare i rischi relativi presentati da un mostro, una trappola, un pericolo o un altro incontro: più il grado di Sfida è alto, più pericoloso è l'incontro. Riferitevi alla Tabella: Determinare gli Incontri per determinare il Grado di Sfida che il vostro gruppo dovrebbe affrontare, in base alla difficoltà della sfida che volete e al APL.
+\textbf{Determinare il grado di Sfida}: Il Grado di Sfida (o grado di Sfida, GS) è un numero di convenienza usato per indicare i rischi relativi presentati da un mostro, una trappola, un pericolo o un altro incontro: più il grado di Sfida è alto, più pericoloso è l'incontro. Riferitevi alla Tabella: Determinare gli Incontri per determinare il Grado di Sfida che il vostro gruppo dovrebbe affrontare, in base alla difficoltà della sfida che volete e al APL.
 
 \medskip
 
@@ -13401,11 +13402,13 @@ Le creature incorporee non hanno peso, e non fanno scattare trappole attivate da
 
 Una creatura incorporea si muove sempre silenziosamente e non può essere sentita con Consapevolezza a meno che non lo desideri. Non ha punteggio di Forza, e si applica il suo bonus di Destrezza agli attacchi in mischia ed a distanza
 
-\textbf{Indifeso}:\index{Indifeso} Un personaggio addormentato, bloccato, legato, Paralizzato, Privo di Sensi, Morente o per qualche altro motivo completamente alla mercé dei suoi avversari, è considerato indifeso.
+\textbf{Indifeso}:\index{Indifeso} Un personaggio addormentato, Paralizzato, Privo di Sensi, Morente o per qualche altro motivo completamente alla mercé dei suoi avversari, è considerato indifeso.
 
-Un personaggio indifeso viene considerato come se avesse Destrezza 0 e non si considerano bonus derivanti dallo scudo. Gli attacchi in mischia contro un personaggio indifeso ottengono bonus +1d6 (equivalente ad attaccare un personaggio Prono).
+Un personaggio indifeso viene considerato come se avesse Destrezza 0 e non si considerano bonus derivanti dallo scudo. Gli attacchi in mischia contro un personaggio indifeso ottengono bonus +1d6 (equivalente ad attaccare un personaggio Prono) oltre al fatto che non ha bonus da Destrezza alla Difesa. 
 
 Gli attacchi a distanza, non ottengono alcun bonus particolare contro i bersagli indifesi, oltre al fatto che non c'e' bonus alla Difesa dato dalla Destrezza.
+
+Non puo' eseguire azioni.
 
 \textbf{Colpo di Grazia}:\index{Colpo di Grazia} Come unica azione nel round, un nemico può utilizzare un'arma da mischia per infliggere un colpo di grazia ad un personaggio indifeso. Un nemico può anche usare un arco o una balestra, l'importante è che sia adiacente al bersaglio.
 
@@ -13788,15 +13791,15 @@ The following text is the property of Wizards of the Coast, LLC. and is Copyrigh
     1.0.7 rilasciato su github versione 1.0.6, fix version, modificato valore di cura tra stessi devoti, gli incantesimi di cura sono a tocco (utile solo se si e' contro non morti), chiarimenti su incantesimo comando, nota su perfezionamento competenza, chiarimenti a competenze, utilizzo Abilità esperto,  layout prerequisito-requisito, chiarimenti su attacco opportunità, modificati valore protezione scudi, rimosso metallo a caldo, rimosso metallo a freddo, modificato metallo vivente, aggiornamenti su sfondare ed entrare, modificato borsa conservante, creato il vano portatile dal buco portatile e creato il buco portatile come era una volta, aggiornato uso oggetti magici in due azioni e non una, parziale rilettura bonus tratti dato da patroni, completata rilettura bonus tratti patrono, con l'abilità animalia  puoi curare anche animali e piante, specificato che gli incantesimi cura ferite non funzionano su piante se non dichiarato diversamente, chiarimenti su trappole, chiarimenti su veleni, aggiunti hyperlink nel manuale pdf a capitolo Costruiamo il personaggio, chiarimenti su competenze, corretto peso di oggetti (manette e morso), suggerimenti su assegnazione punti esperienza e metodologia passaggio di livello, diversi chiarimenti su capitolo incontri, aggiornamento layout incontri, alcune note sui "disastri" in Yeru, modifiche minori a famiglio, dettagli su punti ferita e morte, chiarimenti su incantesimo identificare, rimosso passo tattico perche' troppo sbilanciato, aggiunta abilità Pugno di Ferro, aggiunta abilità Gru d'argento, modificato Iaijutsu portato bonus iniziativa  a +5, modificata abilità iniziativa migliorata portato a 2 le volte che puo' essere presa, aggiunta abilità Ali della Fenice, aggiunta abilità tempesta di furia, 
     
     1.0.8 rilasciato su github versione 1.0.7, aggiunto regole per il tomo della magia, correzioni minori su cosmologia per inquadrare il tomo della magia, aggiornata scheda, modificato effetto su utilizzo energia del Patrono in caso di Devoto, piccole correzioni di layout,
-    modificato dominare bestie - dominare mostri - eroismo - esilio - evoca elementali - evoca elementali minori - folata di vento - forma eterea - dardo incantato - camuffare se stesso - comprensione del linguaggio - costrizione - creare acqua - creare non morti - cura ferite (tutte) - dissolvi magie - dito - ingrandire - Liberta' di movimento - Marchio del Cacciatore - Metamorfosi - Metamorfosi Pura - 
+    modificato dominare bestie - dominare mostri - eroismo - esilio - evoca elementali - evoca elementali minori - folata di vento - forma eterea - dardo incantato - camuffare se stesso - comprensione del linguaggio - costrizione - creare acqua - creare non morti - cura ferite (tutte) - dissolvi magie - dito - ingrandire - Liberta' di movimento - Marchio del Cacciatore - Metamorfosi - Metamorfosi Pura - parola guaritrice - Parola del Potere Stordire - Passare Senza Tracce -   
     chiarimenti su Globo di Invulnerabilità - Imprigionare - corretto critico su charme su persone - clone - Individuazione dei Pensieri - Muro di Pietra -  
     spostato in incantesimi antichi e perduti evoca folletto - Guardiano della Fede - bagliore lunare - contattare altri piani 
     aggiunto blocca persona avanzato - comprensione degli scritti - creare birra
     
     note su incantesimi come parte di tesoro magico, , passaggio a font 10 maggiormente conforme allo standard dnd (riduzione pagine 105!), ricontrollato layout, rimossa penombra in favore di luce fioca per omogeneita' con gli incantesimi, aggiornati anche mostri con luce fioca, 
-    corretto utilizzo livello di incantesimo in Difficoltà, rimosse misure metriche decimali (4.5 metri diventano 4 metri) , riportato equipaggiamento della 5e ogl in conformita' al resto del manuale, migliorato layout armi, rimossa pazzia (da rifare ogl), aggiunta gestione della fama, 
+    corretto utilizzo livello di incantesimo in Difficoltà, rimosse misure metriche decimali (4.5 metri diventano 4 metri) , riportato equipaggiamento della 5e ogl in conformita' al resto del manuale, migliorato layout armi, rimossa pazzia (da rifare ogl), aggiunta gestione della fama, chiarimenti su spinto di oggetti con ruote, 
 
-	Palla di Fuoco
+	Porta dimensionale
     continuo lavoro revisione incantesimi
     
     \bigskip
