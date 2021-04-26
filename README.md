@@ -21,4 +21,6 @@ Una volta "terminato" il playtesting sara' disponibile in POD.
 
 **Nota3**: le versioni DOCX sono ottenute con pandoc, convertendoli da tex, la qualita' e' piuttosto pessima.
 
+**Nota4**: un changelog piu' puntuale lo potete leggere alla fino del manuale in pdf
+
 Andres Zanzani
