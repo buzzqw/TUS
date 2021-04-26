@@ -57,6 +57,11 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{pdfpages}
 \usepackage{hyperref}
 \usepackage{tikz}
+
+
+\usepackage{lettrine}
+
+
 %\usetikzlibrary{backgrounds,calc}
 %\pgfdeclarelayer{background}
 %\pgfdeclarelayer{foreground}
@@ -73,6 +78,8 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 
 
+\newcommand*{\hbLettrine}[2]{\lettrine[lines=4,nindent=0pt]{{#1}}{#2}}
+\newcommand*{\hbLettrined}[2]{\lettrine[lines=4,depth=1,nindent=0pt]{{#1}}{#2}}
 
 \titleformat{\section}{\huge\bfseries}{\thesection}{1em}\textsc{}
 \titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}\textsc{}
@@ -188,7 +195,7 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 %\end{tcolorbox}
 
 
-DBS è un gioco di ruolo (GDR o RPG, Role Play Game in inglese) cooperativo e narrativo nel quale i giocatori creano personaggi che vivranno fantastiche e strabilianti avventure. Il Narratore si preoccuperà di dipanare la storia e fare partecipare i personaggi. Come in un gioco di narrazione ogni personaggio contribuirà attivamente alla storia con le sue scelte, le sue decisioni e le sue azioni.
+\hbLettrine{D}{BS} è un gioco di ruolo (GDR o RPG, Role Play Game in inglese) cooperativo e narrativo nel quale i giocatori creano personaggi che vivranno fantastiche e strabilianti avventure. Il Narratore si preoccuperà di dipanare la storia e fare partecipare i personaggi. Come in un gioco di narrazione ogni personaggio contribuirà attivamente alla storia con le sue scelte, le sue decisioni e le sue azioni.
 
 Se sei un giocatore ti accorgerai presto che non e' un mondo facile, le cose non vengono regalate ne sono semplici. Saranno piu' le volte che vorranno ucciderti e derubarti di quelle che vorranno offrirti da bere.\\
 Non affezionarti troppo al tuo personaggio, solo i forti sopravvivono e i potenti imperano. Dimostra chi sei e cosa vuoi. Vuoi essere l'eroe lucente in armatura ? fa pure, ma un ratto ha piu' probabilità di sopravvivere.
@@ -728,11 +735,11 @@ Il raggio della capacità è specificato nel testo descrittivo della creatura
 
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Vivere non è respirare: è agire, è fare uso degli organi, dei sensi, delle facoltà, di tutte quelle parti di noi stessi per cui abbiamo il sentimento di esistere. (Jean-Jacques Rousseau)}\end{tcolorbox}\medskip
 
-Ogni personaggio ha 6 Caratteristiche (chiamate anche Statistiche) che rappresentano i suoi attributi base e costituiscono il suo potenziale talento e capacità innata.
+Ogni personaggio ha 6 Caratteristiche (chiamate anche Statistiche) che rappresentano i suoi attributi base e costituiscono il suo potenziale talento e capacità innata.\\
 
 Anche se non e' comune che un personaggio effettui una prova usando soltanto una sua Caratteristica, i punteggi di Caratteristica influiscono praticamente su ogni aspetto delle capacità e competenze del personaggio.
 
-Le 6 caratteristiche sono:
+Le 6 caratteristiche sono:\\
 
 \textbf{Forza}\index{Forza}: indica la forza fisica, un personaggio con un punteggio di Forza pari a -5 è morto.
 
