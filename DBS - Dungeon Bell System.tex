@@ -116,6 +116,25 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 %	}%
 %}
 
+%\backgroundsetup{
+%	scale=1,
+%	angle=0,
+%	opacity=1,
+%	color=black,
+%	contents={\begin{tikzpicture}[overlay]
+%			\node at ([xshift=6cm,yshift=-2.5cm] current page.north east)
+%			{\includegraphics[width = 3cm]{destra.png}};
+%			node at (([xshift=6cm,yshift=-2cm] current page.north west)
+%			{\includegraphics[width = 3cm]{sinistra.png}} ;
+%			node at (([xshift=-12cm,yshift=-2.5cm]current page.south west)
+%			{\includegraphics[width = 3cm]{sinistra2.png}} ;
+%			node at ([xshift=-18cm,yshift=-2.5cm] current page.south east)
+%			{\includegraphics[width = 3cm]{destra2.png}};
+%	\end{tikzpicture}}
+%	contents={\includegraphics[width=\paperwidth,height=\paperheight]{paper.jpg}}
+%}
+
+
 \backgroundsetup{contents={}}
 
 
@@ -138,14 +157,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 
 
 
-%\begin{tikzpicture}
-%	\begin{pgfonlayer}{background}
-%		\node[anchor=south east,outer sep=10pt,inner sep=10pt] at ($(current page.south east) $) %{\includegraphics[width=3cm]{destra2.png}}; %dx down
-%		\node[anchor=north east,outer sep=10pt,inner sep=10pt] at ($(current page.north east) $) %{\includegraphics[width=3cm]{destra.png}}; %dx up
-%		\node[anchor=south west,outer sep=10pt,inner sep=10pt] at ($(current page.south west) $) %{\includegraphics[width=3cm]{sinistra2.png}}; % sx down
-%		\node[anchor=north west,outer sep=10pt,inner sep=10pt] at ($(current page.north west) $) %{\includegraphics[width=3cm]{sinistra.png}}; %sx up
-%	\end{pgfonlayer}
-%\end{tikzpicture}
+
 
 \bigskip
 Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni\\
