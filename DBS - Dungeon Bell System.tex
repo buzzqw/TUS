@@ -35,6 +35,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{bookmark}
 %\usepackage{tgbonum}
 %\usepackage{baskervald}
+\usepackage{accanthis}
 \usepackage{palatino}
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
@@ -52,13 +53,11 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \fancyfoot[C]{\thepage}
 
 \usepackage{xltabular}
-%\usepackage{tabularx}
+\usepackage{tabularx}
 %\usepackage{longtable}
 \usepackage{pdfpages}
 \usepackage{hyperref}
 \usepackage{tikz}
-
-
 \usepackage{lettrine}
 
 
@@ -78,12 +77,9 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 
 
-\newcommand*{\hbLettrine}[2]{\lettrine[lines=4,nindent=0pt]{{#1}}{#2}}
-\newcommand*{\hbLettrined}[2]{\lettrine[lines=4,depth=1,nindent=0pt]{{#1}}{#2}}
-
-\titleformat{\section}{\huge\bfseries}{\thesection}{1em}\textsc{}
-\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}\textsc{}
-\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}\textsc{}
+\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
+\titleformat{\subsection}{\large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
+\titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
 
 \setcounter{tocdepth}{3}
 
@@ -96,13 +92,9 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 	arc = 3mm, % controls corner cut
 	boxrule=0.6pt, % sets box line thickness
 	underlay={%
-		%\path[fill=tcbcolback!80!black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
-		%\path[draw=tcbcolframe,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
-		%\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
-		
-     	\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
-		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
-		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+	\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+	\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+	\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
 		
 	},
 	drop fuzzy shadow % adds drop shadow
@@ -177,25 +169,11 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 
 \section{Introduzione}
 
-
-
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)}\end{tcolorbox}\medskip
 
-%	\begin{note}
-%		Notes are displayed like this, and often convey important information to the %player or Narratore regarding a certain mechanic.
-%	\end{note}
-
-%	\begin{example}
-%		Examples are displayed like this, and show a situation in which something is %used.
-%	\end{example}
-
-%\begin{tcolorbox}[title = Ranged Attack Example] 
-%	Will, the Ranger is out hunting for his party. 
-%	Will must roll $Longbow-6$ to succeed.
-%\end{tcolorbox}
-
 \begin{multicols}{2}  
-\hbLettrine{D}{BS} è un gioco di ruolo (GDR o RPG, Role Play Game in inglese) cooperativo e narrativo nel quale i giocatori creano personaggi che vivranno fantastiche e strabilianti avventure. Il Narratore si preoccuperà di dipanare la storia e fare partecipare i personaggi. Come in un gioco di narrazione ogni personaggio contribuirà attivamente alla storia con le sue scelte, le sue decisioni e le sue azioni.
+	
+\lettrine{D}{BS} è un gioco di ruolo (GDR o RPG, Role Play Game in inglese) cooperativo e narrativo nel quale i giocatori creano personaggi che vivranno fantastiche e strabilianti avventure. Il Narratore si preoccuperà di dipanare la storia e fare partecipare i personaggi. Come in un gioco di narrazione ogni personaggio contribuirà attivamente alla storia con le sue scelte, le sue decisioni e le sue azioni.
 
 Se sei un giocatore ti accorgerai presto che non e' un mondo facile, le cose non vengono regalate ne sono semplici. Saranno piu' le volte che vorranno ucciderti e derubarti di quelle che vorranno offrirti da bere.\\
 Non affezionarti troppo al tuo personaggio, solo i forti sopravvivono e i potenti imperano. Dimostra chi sei e cosa vuoi. Vuoi essere l'eroe lucente in armatura ? fa pure, ma un ratto ha piu' probabilità di sopravvivere.
@@ -412,6 +390,10 @@ I Tiri Salvezza riguardano i riflessi e lo schivare (Destrezza), resistere a vel
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Non è la più intelligente delle specie quella che sopravvive; non è nemmeno la più forte; la specie che sopravvive è quella che è in grado di adattarsi e di adeguarsi meglio ai cambiamenti dell'ambiente in cui si trova. (Leon C. Megginson)}\end{tcolorbox}\medskip
 
 \begin{multicols}{2}
+
+\lettrine{Y}{eru} e' un mondo sfaccettato e ricco di diversita', colturali, naturali e di persone.
+Queste sfaccettature diverse di persone rendono il pianeta vitale e ricco, ognuna nutra, apporta, arricchisce la conoscenza di tutte le altre.
+
 
 \subsection{Umani}\index{Umani}
 
@@ -717,6 +699,9 @@ Se l'argomento e' per voi motivo di non divertimento chiaritelo con il Narratore
 
 \begin{multicols}{2}  
 
+
+\lettrine{O}{gni} creatura e' speciale ed unica eppure ci sono essere ancora piu' unici e speciali per le loro caratteristiche. Queste sono le peculiarita' di alcune di queste.
+
 \subsection{Visione Crepuscolare}\index{Visione Crepuscolare}
 
 Quello che per molti é oscurità per chi ha visione crepuscolare é vedere bene purché ci sia una fonte minima di luce.
@@ -789,7 +774,7 @@ Il raggio della capacità è specificato nel testo descrittivo della creatura
 
 \begin{multicols}{2} 
 	
-Ogni personaggio ha 6 Caratteristiche (chiamate anche Statistiche) che rappresentano i suoi attributi base e costituiscono il suo potenziale talento e capacità innata.\\
+\lettrine{O}{gni} personaggio ha 6 Caratteristiche (chiamate anche Statistiche) che rappresentano i suoi attributi base e costituiscono il suo potenziale talento e capacità innata.\\
 
 Anche se non e' comune che un personaggio effettui una prova usando soltanto una sua Caratteristica, i punteggi di Caratteristica influiscono praticamente su ogni aspetto delle capacità e competenze del personaggio.
 
@@ -938,7 +923,7 @@ Tipiche situazioni di utilizzo del Carisma includono tentativi di raggirare una 
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Chi non stima la vita, non la merita. (Leonardo da Vinci)}\end{tcolorbox}\medskip
 
 
-I Punti Ferita rappresentano l'energia vitale del personaggio e finché il personaggio/avversario ha almeno 1 punto ferita combatterà e lotterà al meglio delle sue capacità.
+\lettrine{I}{ Punti Ferita} rappresentano l'energia vitale del personaggio e finché il personaggio/avversario ha almeno 1 punto ferita combatterà e lotterà al meglio delle sue capacità.
 
 Ogni personaggio parte con 4 punti ferita al primo livello + il punteggio della Costituzione.\\
 Ad ogni livello, oltre il primo, guadagna 1d4 Punti Ferita + il punteggio della Costituzione.
@@ -967,10 +952,10 @@ I punti ferita temporanei non possono essere superiori alla metà del massimo de
 
 \columnbreak
 
-\section{Punti Fato (Fortuna del Principiante)}\index{Punti Fato}
+\section{Punti Fato - Fortuna del Principiant)}\index{Punti Fato}
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Se il destino è contro di noi, peggio per lui. (motto del 1º Reggimento Carabinieri Paracadutisti "Tuscania")}\end{tcolorbox}\medskip
 
-In un mondo non facile la Fortuna del Principiante aiutà chi non ha esperienza.
+\lettrine{I}{n} un mondo non facile la Fortuna del Principiante aiutà chi non ha esperienza.
 Ogni personaggio ha un numero di Punti Fato pari a (20 - Livello)/5, con un minimo di 1. I Punti Fato si conteggiano per sessione di gioco.
 
 Ad ogni sessione si azzerano e si ricalcolano, ne consegue che non si accumulano Punti Fato tra una sessione di gioco e l'altra.
@@ -999,7 +984,7 @@ Est Sularus Oth Mithas. ("Il mio onore è la mia vita", Giuramento dei Cavalieri
 \begin{multicols}{2}
 
 \index{Tratti}
-In DBS non c'è una netta distinzione tra bene e male, legge e caos, tra ciò che è giusto e ciò che è sbagliato.
+\lettrine{I}{n} DBS non c'è una netta distinzione tra bene e male, legge e caos, tra ciò che è giusto e ciò che è sbagliato.
 
 In DBS esistono i Tratti, aspetti e sfumature caratteriali che contribuiscono al background del personaggio, aiutano il giocatore a ruolare meglio e gli possono fornire quelle linee guida per interpretare in maniera più corretta il personaggio che ha voluto creare.
 
@@ -1108,7 +1093,7 @@ Non hai veramente capito qualcosa fino a quando non sei in grado di spiegarlo a 
 
 \begin{multicols}{2}
 
-Ogni personaggio ha conoscenze e/o sa fare qualcosa e questo qualcosa è una Competenza. A seconda dei background ed avventure giocate i personaggi valorizzano e imparano determinate competenze.
+\lettrine{O}{gni} personaggio ha conoscenze e/o sa fare qualcosa e questo qualcosa è una Competenza. A seconda dei background ed avventure giocate i personaggi valorizzano e imparano determinate competenze.
 
 Alla creazione del personaggio attribuire 1 punto libero in Artigianato o Professione o Intrattenere o Cultura per giustificare le conoscenze date dalla storia del personaggio.
 
@@ -1291,7 +1276,7 @@ Il Narratore non ti dirà di fare un Tiro Salvezza a difficoltà 18, è lui che 
 \begin{multicols}{2}
 
 
-Come prima cosa prepara davanti a te la scheda ed un foglio dove prendere note ed appunti.
+\lettrine{C}{ome} prima cosa prepara davanti a te la scheda ed un foglio dove prendere note ed appunti.
 
 Parti immaginando, visualizzando l'aspetto del tuo personaggio. Come te lo immagini ? In possente guerriero, un agile spadaccino od un mago scavezzacollo alle prime esperienze ?
 
@@ -1439,7 +1424,7 @@ Un suggerimento e' anche di usare le Abilità, ed in particolare Esperto, che vi
 
 \begin{multicols}{2}
 
-\textbf{Le prove (i check) per le competenze si eseguono tirando 3d6, al risultato dei dadi si somma il punteggio della competenza (di base, attiva) e della caratteristica collegata ed eventuali bonus magici e di circostanza o Abilità, il risultato ottenuto deve essere comunicato al Narratore, il quale lo confronterà con il DC della prova.}
+\lettrine{L}{\textbf{e}} \textbf{prove (i check) per le competenze si eseguono tirando 3d6, al risultato dei dadi si somma il punteggio della competenza (di base o attiva) e della caratteristica collegata ed eventuali bonus magici e di circostanza o Abilità, il risultato ottenuto deve essere comunicato al Narratore, il quale lo confronterà con la difficoltà (DC) della prova}.
 
 Quando dovete stabilire una difficoltà partite pensando che la prova deve essere rapportata da una persona "normale". Non pensate "se la dovessi fare io allora la prova sarebbe impossibile", "se la prova la fa Arsenio Lupin la prova è facilissima". Partite dal presupposto che la difficoltà deve racchiudere in se tutti gli elementi circostanziali.
 
@@ -1808,7 +1793,7 @@ Occhio per occhio... e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti
 
 \begin{multicols}{2}
 
-Il combattimento è tra le fasi principali di un avventura ed è quando i prodi o timorosi danno sfoggio della loro maestria con le armi o magie.
+\lettrine{I}{l} combattimento è tra le fasi principali di un avventura ed è quando i prodi o timorosi danno sfoggio della loro maestria con le armi o magie.
 
 \bigskip
 
@@ -2685,7 +2670,7 @@ Dove c'è molta luce, l'ombra è più nera. (Johann Wolfgang von Goethe)}
 \begin{multicols}{2}
 
 \label{nascondigli-e-coperture}
-Non sempre l'avversario si palesa davanti a noi, spesso questo puo' essere nascosto se non addirittura invisibile.
+\lettrine{N}{on} sempre l'avversario si palesa davanti a noi, spesso questo puo' essere nascosto se non addirittura invisibile.
 Potrebbe essere nascosto dietro un muretto o dei barili, se non dietro un grosso e gigantesco famiglio.
 E se fosse alle nostre spalle e neanche l'abbiamo visto ?
 
@@ -2785,7 +2770,7 @@ Le creature invisibili non possono utilizzare gli attacchi con lo sguardo. L'inv
 
 \begin{multicols}{2}
 
-Ogni qual volta si assegna un punto a Competenza Armi si può decidere se continuare a perfezionarsi in una Lista di Armi già nota o prenderne una nuova.
+\lettrine{O}{gni} qual volta si assegna un punto a Competenza Armi si può decidere se continuare a perfezionarsi in una Lista di Armi già nota o prenderne una nuova.
 
 Nella scheda segnatevi a quale Lista d'Armi assegnate il punto di Competenza Armi.\\
 Per riassegnare un punto di CA sono necessari almeno 4 ore di allenamento per 4 mesi.
@@ -3083,7 +3068,7 @@ Questa suddivisione è sceglibile anche da chi ha Competenza Armi a zero
 
 \begin{multicols}{2}
 
-Le Abilità sono capacità peculiari, frutto di allenamento o doti particolari. Le Abilità si ottengono hanno sempre un effetto pratico.
+\lettrine{L}{e} Abilità sono capacità peculiari, frutto di allenamento o doti particolari. Le Abilità si ottengono hanno sempre un effetto pratico.
 
 \textbf{Al primo livello si prendono due Abilità.} Ogni 2 livelli successivi, quindi al 3, 5, 7, 9..., si prende un'altra Abilità che può essere la stessa già presa oppure una nuova Abilità appresa durante le avventure.
 
@@ -3943,7 +3928,7 @@ Nel tempo hai allenato la tua volontà per resistere a qualsiasi debolezza e pau
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
 Abbiamo imparato a volare come gli uccelli, a nuotare come i pesci, tuttavia non abbiamo imparato l'arte di vivere come fratelli. (Martin Luther King )}\end{tcolorbox}\medskip
 
-I famigli sono animali scelti dal personaggio, tramite l'Abilità Famiglio, perché gli siano d'aiuto nelle avventure e per compagnia. Un famiglio ha un legame speciale con il suo padrone.
+\lettrine{I}{ famigli} sono animali scelti dal personaggio, tramite l'Abilità Famiglio, perché gli siano d'aiuto nelle avventure e per compagnia. Un famiglio ha un legame speciale con il suo padrone.
 
 Un famiglio è un normale animale che mantiene aspetto, Dadi Vita, Competenza Armi, bonus ai Tiri Salvezza, Abilità del normale animale che era, ma viene trattato come creatura magico al fine di determinare qualsiasi effetto che dipenda dal suo tipo.
 
@@ -4063,7 +4048,7 @@ Il famiglio può trasmettere l'Incantesimo proprio come il padrone. E' necessari
 
 \begin{multicols}{2}
 
-Queste Abilità non sono selezionabili da parte del giocatore, bensì possono essere innate nelle creature.
+\lettrine{Q}{este} Abilità non sono selezionabili da parte del giocatore, bensì possono essere innate nelle creature.
 
 \subsection{Etereo}\index{Etereo}
 
@@ -4184,7 +4169,7 @@ Ha punteggi effettivi di Forza e Destrezza pari a -4 (-4 alla Difesa oltre ad no
 
 \begin{multicols}{2}
 
-Ogni personaggio può avere, e non è obbligatorio averne, dei Vantaggi. Questi devono essere interessanti, piacevoli, divertenti e soprattutto giocabili.
+\lettrine{O}{gni} personaggio può avere, e non è obbligatorio averne, dei Vantaggi. Questi devono essere interessanti, piacevoli, divertenti e soprattutto giocabili.
 
 Ogni Vantaggio ha un costo, da pagare ad ogni livello. Come detto non deve essere obbligatorio prendere un Vantaggio, né tanto meno si devono prendere vantaggi solo perché fanno essere forti. Lo scopo di un Vantaggio è stupire e divertirsi.
 
@@ -4435,7 +4420,7 @@ Con un prova su Intelligenza a DC 15 puoi capire cosa è una pozione.
 
 \begin{multicols}{2}
 
-Uno svantaggio caratterizza il personaggio, ne definisce limiti e paure. Ogni personaggio deve avere almeno 1 svantaggio di ruolo e questo non gli da punti bonus.
+\lettrine{U}{no} svantaggio caratterizza il personaggio, ne definisce limiti e paure. Ogni personaggio deve avere almeno 1 svantaggio di ruolo e questo non gli da punti bonus.
 
 I punti presi con gli Svantaggi psico/fisici servono a coprire i punti spesi con i Vantaggi. Ovviamente l'Evil Narratore gradisce anche più svantaggi...
 
@@ -5029,7 +5014,7 @@ I Patroni sono stati creati come parossismo dell'animo umano, dove tutto è un e
 
 \bigskip
 
-In principio era il nulla che in sé conteneva il tutto.
+\lettrine{I}{n} principio era il nulla che in sé conteneva il tutto.
 
 Energia derivante dalle più primordiali pulsioni esplodeva in tutta la sua potenza e senza alcun controllo.
 
@@ -6235,14 +6220,16 @@ In accordo con il Narratore, ed adeguatamente motivato, e' possibile cambiare Ab
 
 
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
-- Doc... c'è soltanto bisogno di un pochino di plutonio.\\
-- Ah, sono certo che nell'85 il plutonio si compra nella drogheria sotto casa, ma nel '55 la faccenda è molto più complicata! (Ritorno al futuro, Film 1985)}\end{tcolorbox}\medskip
+Sono pronto ad andare. Ho uno zaino! (Chuck)\\
+
+– Uè, ciccio! Qui lo zaino è vuoto, eh!
+– Tu m'hai detto "porta lo zaino"... (I corti di Aldo, Giovanni \& Giacomo)}\end{tcolorbox}\medskip
 
 \begin{multicols}{2}
 
 \label{ricchezza-e-denaro}
 
-Un personaggio che inizia a giocare generalmente ha monete d'oro sufficienti per acquistare gli elementi di base: qualche arma, un'armatura di seconda mano (quella meno costosa) ed un pò di attrezzatura varia. Man mano che il personaggio intraprende avventure e accumula bottino può permettersi un equipaggiamento migliore ed oggetti magici. Al primo livello i personaggi hanno monete ed equipaggiamento per un totale di circa 100 mo.
+\lettrine{U}{n} personaggio che inizia a giocare generalmente ha monete d'oro sufficienti per acquistare gli elementi di base: qualche arma, un'armatura di seconda mano (quella meno costosa) ed un pò di attrezzatura varia. Man mano che il personaggio intraprende avventure e accumula bottino può permettersi un equipaggiamento migliore ed oggetti magici. Al primo livello i personaggi hanno monete ed equipaggiamento per un totale di circa 100 mo.
 
 Inoltre, ogni personaggio inizia il gioco con un abito del valore di 10 mo o meno. Per personaggi di livello superiore al 1°, vedi \textbf{Tabella: Ricchezza dei personaggio per Livello}.
 
@@ -6481,7 +6468,7 @@ Armatura Fantozzi: banderuola 4 venti in funzione di pennacchio, pauroso elmo vi
 
 \begin{multicols}{2}
 
-Le armature aiutano ad essere non colpiti (alzano la Difesa) e penalizzano la prova di magia e le prove di competenza basate su Destrezza. Quasi tutte le armature, ad eccezione della Imbottita penalizzano l'uso di certe competenze basate su Destrezza.
+\lettrine{L}{e} armature aiutano ad essere non colpiti (alzano la Difesa) e penalizzano la prova di magia e le prove di competenza basate su Destrezza. Quasi tutte le armature, ad eccezione della Imbottita penalizzano l'uso di certe competenze basate su Destrezza.
 
 La Prove Destrezza è la penalità che si applica alle prove di competenze di Destrezza mentre si indossa un quel tipo di armatura.
 
@@ -6667,7 +6654,7 @@ Indossare un'armatura in fretta implica un malus di -1 alla Difesa ed un malus a
 
 \begin{multicols}{2}
 
-Le monete comuni si presentano in diverse denominazioni in base al valore relativo del metallo di cui sono composte. I tre tipi più comuni di monete sono la moneta d’oro (mo), la moneta d’argento (ma) e la moneta di rame (mr).\\
+\lettrine{L}{e} monete comuni si presentano in diverse denominazioni in base al valore relativo del metallo di cui sono composte. I tre tipi più comuni di monete sono la moneta d’oro (mo), la moneta d’argento (ma) e la moneta di rame (mr).\\
 Con una moneta d’oro, un personaggio può acquistare una faretra, 15 metri di buona corda o un capretto. Un artigiano capace (ma non eccezionale) può guadagnare una moneta d’oro al giorno. La moneta d’oro è l’unità di misura standard della ricchezza, sebbene la moneta in sé per sé non sia molto impiegata. Quando i mercanti discutono accordi che riguardano merci o servizi del valore di centinaia o migliaia di monete d’oro, le transazioni non comprendono normalmente alcuno scambio di moneta contante.\\
 La moneta d’oro è invece una misura di valore, e lo scambio viene effettuato in lingotti d’oro, lettere di credito o merci di valore. Una moneta d’oro vale dieci monete d’argento, il tipo di moneta più usato tra la popolazione. Una moneta d’argento può coprire il salario giornaliero di un manovale e comperare un’ampolla d’olio per lampada o un giaciglio per una notte in una locanda scadente.\\
 Una moneta d’argento vale dieci monete di rame, che vengono normalmente usate dagli operai e i mendicanti. Una singola moneta di rame può comperare una candela, una torcia o un pezzo di gesso.\\
@@ -7345,7 +7332,7 @@ La pelle di drago ha 10 Punti Ferita per 2,5 cm di spessore e Durezza 10. Solita
 
 \label{sfondare-ed-entrare}
 
-Quando si tenta di spaccare un oggetto le scelte sono due: colpirlo con un'oggetto (arma?) o romperlo con la forza bruta.
+\lettrine{Q}{ando} si tenta di spaccare un oggetto le scelte sono due: colpirlo con un'oggetto (arma?) o romperlo con la forza bruta.
 
 \medskip
 
@@ -7515,7 +7502,7 @@ L'antidoto principale contro un cattivo ambiente consiste, naturalmente, nel sos
 
 \begin{multicols}{2}
 
-Dai deserti senza vita ai dungeon zeppi di trappole, l'ambiente aiuta a definire il mondo. Renderlo vivo, dinamico e ricco consente di creare un'esperienza di gioco emozionante e coinvolgente. Questo capitolo contiene le regole per aiutare il Narratore a definire il mondo di gioco, come dungeon, trappole, terreni e pericoli ambientali.
+\lettrine{D}{ai} deserti senza vita ai dungeon zeppi di trappole, l'ambiente aiuta a definire il mondo. Renderlo vivo, dinamico e ricco consente di creare un'esperienza di gioco emozionante e coinvolgente. Questo capitolo contiene le regole per aiutare il Narratore a definire il mondo di gioco, come dungeon, trappole, terreni e pericoli ambientali.
 
 \subsection{Regole Ambientali}
 
@@ -7975,7 +7962,7 @@ Sebbene la velocità rotatoria di un tornado possa raggiungere i 450 km/h, il co
 
 \begin{multicols}{2}
 
-L'acqua permette alle società di esistere, ma può anche distruggerle. La vita non potrebbe esistere senza di essa. Il commercio ed il viaggio sono agevolati dalla sua presenza. Eppure, l'acqua può anche uccidere, sia annegando le persone, sia generando alluvioni e tsunami su larga scala. La vita terrestre è dipendente dall'acqua ma allo stesso tempo la teme.
+\lettrine{L}{'acqua} permette alle società di esistere, ma può anche distruggerle. La vita non potrebbe esistere senza di essa. Il commercio ed il viaggio sono agevolati dalla sua presenza. Eppure, l'acqua può anche uccidere, sia annegando le persone, sia generando alluvioni e tsunami su larga scala. La vita terrestre è dipendente dall'acqua ma allo stesso tempo la teme.
 
 \textbf{Avventure Acquatiche}
 
@@ -8102,7 +8089,7 @@ Un equipaggio che eccede il numero minimo non influenza il movimento, ma i suoi 
 
 \begin{multicols}{2}
 
-A prima vista, una città è molto simile a un dungeon, in quanto è composta da pareti, porte, stanze e corridoi. Le avventure ambientate in città differiscono da quelle ambientate nei dungeon per due motivi principali. I personaggi hanno accesso a un maggior numero di risorse e devono tenere conto della presenza delle forze dell'ordine.
+\lettrine{A}{ prima} vista, una città è molto simile a un dungeon, in quanto è composta da pareti, porte, stanze e corridoi. Le avventure ambientate in città differiscono da quelle ambientate nei dungeon per due motivi principali. I personaggi hanno accesso a un maggior numero di risorse e devono tenere conto della presenza delle forze dell'ordine.
 
 \textbf{Accesso alle Risorse}: A differenza dei dungeon e delle terre selvagge, i personaggi possono comprare e vendere Equipaggiamento molto rapidamente in città. Una città grande o una metropoli probabilmente dispongono di PNG ed esperti di alto livello specializzati nei settori più oscuri della conoscenza, in grado di offrire aiuto e di interpretare gli indizi. E quando i personaggi sono malconci e contusi, possono sempre fare ritorno alle comodità delle loro camere nella locanda.
 
@@ -8267,7 +8254,7 @@ I vicoli possono essere luoghi bui anche di giorno, grazie alle ombre degli edif
 \begin{multicols}{2}
 
 
-I disastri naturali sono pericoli ambientali terrificanti che portano morte e devastazione. Quelli soprannaturali possono essere anche più distruttivi, poiché possono sfigurare per sempre un mondo. Un disastro è più simile ad un'avventura che ad un incontro, e non ha uno specifico Grado di Sfida. Piuttosto, ogni parte del disastro dovrebbe essere trattata come un incontro separato ideato con un grado di Sfida adeguato ai PG.
+\lettrine{I}{ disastri} naturali sono pericoli ambientali terrificanti che portano morte e devastazione. Quelli soprannaturali possono essere anche più distruttivi, poiché possono sfigurare per sempre un mondo. Un disastro è più simile ad un'avventura che ad un incontro, e non ha uno specifico Grado di Sfida. Piuttosto, ogni parte del disastro dovrebbe essere trattata come un incontro separato ideato con un grado di Sfida adeguato ai PG.
 
 Sotto vengono presentate le regole per gestire gli effetti di tre diversi tipi di disastri, sia naturali che soprannaturali. Alcuni disastri si verificano rapidamente, come terremoti e tsunami, mentre altri procedono attraverso numerose fasi, come gli incendi forestali, i vulcani e le sollevazioni di non morti. Aggiustate lo schema dell'avventura per adattarlo al disastro, per permettere agli eventi di svolgersi nel corso di pochi minuti o molti giorni a seconda di quello che vi serve.
 
@@ -8339,7 +8326,7 @@ Il dungeon è inclinato. Le creature sono infuriate perché non riescono a gioca
 \label{avventure-nei-dungeon}
 \begin{multicols}{2}
 
-Di tutti i luoghi strani che un avventuriero può esplorare, nessuno è più letale di un dungeon. Questi labirinti, pieni di trappole mortali, mostri affamati etesori meravigliosi, provano ogni Abilità dei personaggi. Queste regole si possono applicare a qualsiasi tipo di dungeon, dal relitto di una nave ad un vasto complesso di grotte sotterranee.
+\lettrine{D}{i}  tutti i luoghi strani che un avventuriero può esplorare, nessuno è più letale di un dungeon. Questi labirinti, pieni di trappole mortali, mostri affamati etesori meravigliosi, provano ogni Abilità dei personaggi. Queste regole si possono applicare a qualsiasi tipo di dungeon, dal relitto di una nave ad un vasto complesso di grotte sotterranee.
 
 \textbf{Tipi di Dungeon}
 
@@ -8647,7 +8634,7 @@ Corre meno pericoli colui che, anche se è al sicuro, sta in guardia. (Publilio 
 
 \begin{multicols}{2}
 
-Il mondo è pieno dì pericoli oltre che di draghi ed immondi famelici. I pericoli sono minacce basate sulle peculiarità della zona che hanno molto in comune con le trappole, ma che di solito fanno parte del posto anziché venir costruite. I pericoli si dividono in tre categorie principali: ambientali, viventi e magici.
+\lettrine{I}{l} mondo è pieno dì pericoli oltre che di draghi ed immondi famelici. I pericoli sono minacce basate sulle peculiarità della zona che hanno molto in comune con le trappole, ma che di solito fanno parte del posto anziché venir costruite. I pericoli si dividono in tre categorie principali: ambientali, viventi e magici.
 
 I pericoli ambientali includono frane, incendi e simili. I pericoli viventi includono creature che pur non essendo considerate mostri, rappresentano una minaccia per gli avventurieri incauti, come fanghiglie, funghi e muschi. I pericoli magici sono i più imprevedibili e possono essere residui di esperimenti arcani, strane radiazioni sotterraneo o antichi incantesimi falliti.
 
@@ -9449,7 +9436,7 @@ Se si ha una Fama negativa, i PNG non malvagi spesso avranno reazioni maldispost
 
 \subsection{Tipo di Veleno e Pozione}
 
-I veleni e pozioni possono distinguersi in base a come si viene in contatto con loro.
+\lettrine{I}{ veleni} e pozioni possono distinguersi in base a come si viene in contatto con loro.
 Non tutti i veleni sono tossici se ingeriti o inalati.\\
 I veleni possono essere divisi in base al metodo con il quale devono venire in contatto con la vittima.
 
@@ -9824,7 +9811,7 @@ Quando non puoi più correre, cammina veloce; quando non puoi più camminare vel
 
 \begin{multicols}{2}
 
-Il movimento si puo' distinguere in base a quale situazione coinvolge.
+\lettrine{I}{l} movimento si puo' distinguere in base a quale situazione coinvolge.
 
 \medskip
 
@@ -10161,7 +10148,7 @@ Volare per una creatura dotata di questa abilità e' come camminare per una crea
 
 \label{il-narratore}
 
-Mentre il giocatore interpreta un personaggio in un'avventura, il Narratore è colui che la gestisce. Ha certamente molto più lavoro, ma ricreare un mondo intero affinché i propri amici lo esplorino, può dare molte soddisfazioni.
+\lettrine{M}{entre} il giocatore interpreta un personaggio in un'avventura, il Narratore è colui che la gestisce. Ha certamente molto più lavoro, ma ricreare un mondo intero affinché i propri amici lo esplorino, può dare molte soddisfazioni.
 
 Il ruolo del Narratore non è facile ma concede enormi privilegi. Vedere i propri amici giocare, divertirsi, "ammattirsi" dietro dubbi, indovinelli e situazioni da te create dà tantissima soddisfazione e divertimento.
 
@@ -10626,11 +10613,11 @@ I mostri non devono essere stupidi per forza. Falli parlare, ragionare, scappare
 
 \label{creare-oggetti-magici}
 
-Per Creare Oggetti Magici è necessario avere le Abiltà Creazione oggetti magici.
+\lettrine{P}{er} Creare Oggetti Magici è necessario avere le Abiltà Creazione oggetti magici.
 
-I costi qui elencati sono quelli di produzione, il ricavo si puo' attestare almeno attorno al 20\% del prezzo di produzione.
+I costi qui elencati sono quelli di produzione, il ricavo si puo' attestare almeno attorno al 20\% del prezzo di produzione.\\
 
-La Difficoltà indicata e' quella dell'incantesimo che si vuole inserire nell'oggetto.
+La Difficoltà indicata e' quella dell'incantesimo che si vuole inserire nell'oggetto.\\
 
 In caso di fallimento nella prova di magia per creare un oggetto magico si sprecano componenti pari a metà del costo di produzione, oltre a tutto il tempo impiegato.
 
@@ -10865,6 +10852,8 @@ Quando si determina il prezzo di un oggetto magico inventato bisogna considerare
 
 \begin{multicols}{2}
 
+\lettrine{Q}{ueste} sono le indicazioni su l'utilizzo degli oggetti magici.\\
+
 \label{oggetti-magici}
 \begin{itemize}
 	\item
@@ -11052,7 +11041,7 @@ Oggetti e attrezzi non magici sono in genere disponibili in una comunità di qua
 
 \begin{multicols}{2}
 
-Troverete qui diversi oggetti magici da distribuire con parsimonia ed attenzione ai personaggi, come tesoro per i mostri uccisi o ricompensa per un eroica missione.
+\lettrine{T}{roverete} qui diversi oggetti magici da distribuire con parsimonia ed attenzione ai personaggi, come tesoro per i mostri uccisi o ricompensa per un eroica missione.
 
 Per molti e' segnata la rarità di poterli trovare, usate l'indicazione per avere un idea su come darli ai giocatori o farli trovare.
 
@@ -12871,7 +12860,7 @@ Se maledici una persona ci saranno due fosse.proverbio (giapponese)}
 
 \label{oggetti-maledetti}
 
-Gli oggetti maledetti sono oggetti magici dotati di un'influenza potenzialmente negativa sul personaggio. A volte tendono a confondere il male con il bene, costringendo il loro possessore a fare scelte difficili.
+\lettrine{G}{li} oggetti maledetti sono oggetti magici dotati di un'influenza potenzialmente negativa sul personaggio. A volte tendono a confondere il male con il bene, costringendo il loro possessore a fare scelte difficili.
 
 Gli oggetti maledetti non sono quasi mai realizzati intenzionalmente, ma piuttosto sono il risultato di un lavoro mal riuscito, di artigiani con poca esperienza o della mancanza di componenti adeguati.
 
@@ -13066,7 +13055,7 @@ Il pianeta non ci appartiene, siamo noi ad appartenergli. Noi siamo di passaggio
 
 \label{yeru}
 
-Yeru è il pianeta di riferimento di DBS. Un pianeta spaccato sia fisicamente che magicamente.
+\lettrine{Y}{eru} è il pianeta di riferimento di DBS. Un pianeta spaccato sia fisicamente che magicamente.
 
 Intorno a Yeru ruotano due stelle Sparka e Andhakara.\index{Sparka}\index{Andhakara}
 
@@ -13468,7 +13457,7 @@ Sfruttate a vostro favore e beneficio di avventura il mutamento dei Patroni, fat
 
 \begin{multicols}{2}
 
-Anche se avventure infinite vi attendono nel gioco, ci sono altri mondi oltre questo, altri continenti, altri pianeti, altre galassie. Tuttavia anche oltre l'esistenza di innumerevoli pianeti esistono altri mondi, dimensioni completamente differenti dalla realtà, conosciuti come piani di esistenza. Tranne per rari punti di collegamento che permettono di viaggiare tra loro, ogni piano è un universo a sé con le sue proprie leggi naturali. Insieme, queste altre dimensioni e piani sono conosciuti come il Grande Oltre.\\
+\lettrine{A}{nche} se avventure infinite vi attendono nel gioco, ci sono altri mondi oltre questo, altri continenti, altri pianeti, altre galassie. Tuttavia anche oltre l'esistenza di innumerevoli pianeti esistono altri mondi, dimensioni completamente differenti dalla realtà, conosciuti come piani di esistenza. Tranne per rari punti di collegamento che permettono di viaggiare tra loro, ogni piano è un universo a sé con le sue proprie leggi naturali.\\
 
 Sebbene il numero di piani sia limitato solo dall'immaginazione, essi possono ricondursi tutti a cinque tipi generali: il Piano Materiale, i Piani di Transizione, i Piani Interni, i Piani Esterni e gli innumerevoli semipiani.\\
 
@@ -13745,7 +13734,8 @@ Utopia presenta le seguenti caratteristiche:\\
 
 \section{Condizioni}\index{Condizioni}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{La grandezza dell'uomo è nella decisione di essere più forte della sua condizione. (Albert Camus)}\end{tcolorbox}\medskip
+\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{La grandezza dell'uomo è nella decisione di essere più forte della sua condizione. (Albert Camus)}
+\end{tcolorbox}\medskip
 
 \begin{multicols}{2}
 
@@ -14246,7 +14236,7 @@ Tutte le immagini usate nel manuale sono licenziate per un uso libero o sono sen
     spostato in incantesimi antichi e perduti evoca folletto - Guardiano della Fede - Bagliore Lunare - contattare altri piani - Salvare i Morenti - 
     Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - Cuoco Invisibile
     
-    1.0.9 pubblicato su github 1.0.8, minime correzioni ad elfi e nibali, chiarimenti e correzioni su Tomo della magia, dettagli su tc per incantesimi, avvio lavoro su inclusione immagini questo sara' un lavoro a bassa priorita' che si svolgera' nel corso di piu' versioni lo scopo e' comunque includere solo immagini prive di licenza o licenza libera, sistemazioni al layout citazioni, 
+    1.0.9 pubblicato su github 1.0.8, minime correzioni ad elfi e nibali, chiarimenti e correzioni su Tomo della magia, dettagli su tc per incantesimi, avvio lavoro su inclusione immagini questo sara' un lavoro a bassa priorita' che si svolgera' nel corso di piu' versioni lo scopo e' comunque includere solo immagini prive di licenza o licenza libera, sistemazioni al layout citazioni, aggiunta lettera capitale ad ogni inizio di sezione, modificato il font delle sezioni e sotto sezioni, 
 
 	immagini: gnome, mezzorco, nibali
 	
