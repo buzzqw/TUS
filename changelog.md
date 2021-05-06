@@ -124,7 +124,7 @@ Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - C
 
 immagini: gnome, mezzorco, nibali
 
-immagini fino a costruiamo il personaggio
+immagini Descrizione delle Competenze di Base
 
 Obiettivi: ridurre numero incantesimi, ridurre complessità e fare che le regole siano piu' universali senza che siano necessari chiarimenti ed eccezioni, rendere il sistema piu' osr, migliorare il font, valutare se rimuovere o riscrivere completamente avventure in acqua-citta'-disastri-dungeon-pericoli avventura per una maggiore rispondenza alla ogl,
 
