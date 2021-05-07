@@ -17,7 +17,7 @@ jobs:
            ${{ runner.os }}-tectonic-
       - uses: wtfjoke/setup-tectonic@v1
         with:
-          github-token: ${{SECRETTOKEN}}
+          github-token: ${{secrets.SECRETTOKEN}}
       - name: Run Tectonic
         run: tectonic "DBS - Dungeon Bell System.tex"
       - name: Upload pdf
