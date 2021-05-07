@@ -9,7 +9,7 @@ jobs:
       - name: pdflatex main
         uses: dante-ev/latex-action@latest
         with:
-          root_file: main.tex
+          root_file: "DBS - Dungeon Bell System.tex"
           compiler: pdflatex
           args: -interaction=nonstopmode -shell-escape
       - name: bibtex main
