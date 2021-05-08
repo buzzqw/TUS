@@ -120,11 +120,11 @@ chiarimenti su Globo di Invulnerabilità - Imprigionare - corretto critico su ch
 spostato in incantesimi antichi e perduti evoca folletto - Guardiano della Fede - Bagliore Lunare - contattare altri piani - Salvare i Morenti - 
 Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - Cuoco Invisibile
 
-*1.0.9* pubblicato su github 1.0.8, minime correzioni ad elfi e nibali, chiarimenti e correzioni su Tomo della magia, dettagli su tc per incantesimi, avvio lavoro su inclusione immagini questo sara' un lavoro a bassa priorita' che si svolgera' nel corso di piu' versioni lo scopo e' comunque includere solo immagini prive di licenza o licenza libera, sistemazioni al layout citazioni, aggiunta lettera capitale ad ogni inizio di sezione, modificato il font delle sezioni e sotto sezioni, aggiornato codice latex per tabelle, correzioni ortografiche in abilita', rimosso changelog da manuale e creato file dedicato, aggiunto link a changelog nella sezione Autore e Scheda, layout a licenza, altri immagini, incominciato ad applicare immagini da pack fat goblins, impostata risuluzione immagini a 400pixel, 
+*1.0.9* pubblicato su github 1.0.8, minime correzioni ad elfi e nibali, chiarimenti e correzioni su Tomo della magia, dettagli su tc per incantesimi, avvio lavoro su inclusione immagini questo sara' un lavoro a bassa priorita' che si svolgera' nel corso di piu' versioni lo scopo e' comunque includere solo immagini prive di licenza o licenza libera, sistemazioni al layout citazioni, aggiunta lettera capitale ad ogni inizio di sezione, modificato il font delle sezioni e sotto sezioni, aggiornato codice latex per tabelle, correzioni ortografiche in abilita', rimosso changelog da manuale e creato file dedicato, aggiunto link a changelog nella sezione Autore e Scheda, layout a licenza, altri immagini, incominciato ad applicare immagini da pack fat goblins, impostata risuluzione immagini a 400pixel,  le immagini saranno un misto tra immagini da quadri storici e immagini da H.J. Ford, 
 
 immagini: gnome, mezzorco, nibali
 
-immagini movimento
+immagini tiro per colpire e difesa
 
 Obiettivi: revisione immagini, ridurre numero incantesimi, ridurre complessità e fare che le regole siano piu' universali senza che siano necessari chiarimenti ed eccezioni, rendere il sistema piu' osr, migliorare il font, valutare se rimuovere o riscrivere completamente avventure in acqua-citta'-disastri-dungeon-pericoli avventura per una maggiore rispondenza alla ogl,
 
