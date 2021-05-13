@@ -27,8 +27,7 @@
 \usepackage{titlesec}
 \usepackage{textcomp}
 \usepackage{background}
-\usepackage[unicode=true,
-bookmarks=true,
+\usepackage[unicode=true, bookmarks=true,
 pdftitle={DBS - Dungeon Bell System},pdfauthor={Andres Zanzani},
 breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 {hyperref}
@@ -948,7 +947,7 @@ Una prova di Costituzione può essere impiegata per i tuoi tentativi di spingert
 
 L'Intelligenza misura l'acume mentale, l'accuratezza dei ricordi e la capacità di ragionare.
 Una prova di Intelligenza entra in gioco quando hai bisogno di affidarti alla logica, l'istruzione, la memoria o le capacità deduttive. \\
-Le tue prove di Intelligenza (Arcano) misurano la tua capacità di ricordare informazioni su
+Le tue prove di Intelligenza (Arcana) misurano la tua capacità di ricordare informazioni su
 incantesimi, oggetti magici, simboli esoterici, tradizioni magiche, i piani dell'esistenza e gli abitanti di quei piani.\\
 Rovistare tra antiche pergamene alla ricerca di un frammento di conoscenza potrebbe richiedere una prova di Intelligenza.\\
 
@@ -1019,7 +1018,7 @@ I punti ferita si recuperano in diversi modi:
 	\item
 	      Tramite incantesimi curativi (magie, pozioni.. o altri oggetti magici)
 	\item
-	      Competenza Sopravvivenza (Pronto Soccorso), tramite trattamenti più o meno lunghi
+	      Competenza Pronto Soccorso, tramite trattamenti più o meno lunghi
 \end{itemize}
 
 \medskip
@@ -1185,9 +1184,8 @@ Non hai veramente capito qualcosa fino a quando non sei in grado di spiegarlo a 
 
 \begin{multicols}{2}
 
-\lettrine{O}{gni} personaggio ha conoscenze e/o sa fare qualcosa e questo qualcosa è una Competenza. A seconda dei background ed avventure giocate i personaggi valorizzano e imparano determinate competenze.
-
-Alla creazione del personaggio attribuire 1 punto libero in Artigianato o Professione o Intrattenere o Cultura per giustificare le conoscenze date dalla storia del personaggio.
+\lettrine{O}{gni} personaggio ha una professione iniziale, un percorso di vita e lavoro che l'ha portato ad apprendere determinate competenze.
+Alla creazione del personaggio il giocatore sceglie una professione iniziale ovvero ciò che faceva (e volendo continuare a fare) prima di cimentarsi in pericolose avventure.
 
 Se non specificato diversamente per tutte le prove di competenza (Base, Attive) valgono tre regole base \index{Regole Base} (\textbf{Golden Rules}):\index{Golden Rules}
 
@@ -1211,68 +1209,150 @@ Se non specificato diversamente per tutte le prove di competenza (Base, Attive) 
 Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti; la maggior parte, anzi, assaggiato quanto lo studio sia fatica e provata la stanchezza sulla propria pelle, butta alla leggera la noce ancor prima di aver rotto il guscio per gustarne il gheriglio. (Richard de Bury)\\\\
 Lo studio è per i perdenti! (Lobo)}\end{tcolorbox}\medskip
 
-Ogni personaggio al primo livello sceglie le Competenze di Base, su queste distribuisce 4 punti, con un massimo di 2 punti per Competenza.
+
+Elenco qui delle professioni di esempio e le loro competenze relative, il personaggio acquisisce queste competenze con un punteggio indicato nella tabella.
+
+\end{multicols}
+
+\medskip
+
+\textbf{Tabella: Elenco delle Professioni e relative Competenze}\index{Tabella Elenco delle Professioni e relative Competenze}
+
+\medskip
+
+\begin{tabularx}{1\textwidth}{XXXXX}
+\toprule
+\textbf{\textbf{Professione}}	& \textbf{1 punto} & \textbf{2 punti} & \textbf{2 punti} & \textbf{3 punti}\\
+\textbf{Accolito}	&natura magica&	storia/geografia&	arcana&	religione\\
+\textbf{Allevatore}&		sopravvivenza&	seguire tracce	&creature naturali&	gestire animali\\
+\textbf{Apprendista mago}&		storia e geografia&	conoscenze occulte&	natura magica&	arcana\\
+\textbf{Azzeccagarbugli}&		valutare&	raggirare&	percepire inganni&	diplomazia\\
+\textbf{Bibliotecario}	&	natura&	tradizioni locali&	religione e arcana&	storia e geografia\\
+\textbf{Boscaiolo}	&	usare corda	&natura magica& orientamento&	sopravvivenza	\\
+\textbf{Cacciatore}	&	muoversi silenziosamente&	seguire tracce&	nascondersi nelle ombre	&natura\\
+\textbf{Carovaniere}	&	storia/geografia&	valutare&	cavalcare&	orientamento\\
+\textbf{Circense}&		suonare	&intrattenere&	giocoliere&	Acrobatica\\
+\textbf{Erborista}	&	lingue&	geografia&	natura&	erboristeria\\
+\textbf{Giocatore d'Azzardo}	&	travestirsi&	valutare&	persuadere&	raggirare\\
+\textbf{Guardia cittadina}	&	conoscenza legge&	percezione&	percepire inganni&	cavalcare\\
+\textbf{Guida}	&	natura magica&	dungeon	&natura&	geografia\\
+\textbf{Ladro}	&	disattivare congegni&	artista della fuga&	muoversi silenziosamente&	mani di fata\\
+\textbf{Locandiere}	&	pronto soccorso	&valutare&	percepire inganni&	diplomazia\\
+\textbf{Mercante}&		falsificare	&raggirare&	valutare&	persuadere\\
+\textbf{Minatore}&		usare corde	&valutare&	orientamento&	dungeon\\
+\textbf{Pescatore}&		orientamento&	nuotare	&usare corde&	natura\\
+\textbf{Soldato}	&	nuotare&	gestire animali&	saltare&	cavalcare\\
+\textbf{Uomo di medicina}&		natura magica&	natura&	erboristeria&	pronto soccorso\\
+
+\end{tabularx}
+
+\bigskip
+
+\begin{multicols}{2}
+
+Nella scheda va segnata la professione iniziale e le competenze acquisite, ovviamente in accordo con il Narratore e' possibile selezionare delle competenze diverse e anche scegliere professioni diverse!
+
+Ad ogni professione associate 4 competenze prese da questa lista, una competenza partira' con un punteggio di 1, due competenze partiranno con il punteggio di 2 e quella più specifica e professionale partira' con il punteggio di 3.\\
+Ovviamente una professione non si esplicita in sole 4 competenze ma queste sono quelle che piu' entreranno in uso durante le avventure, il Narratore sarà aiutato dalla vostra professione a capire chi e come sa fare e come possono agire i personaggi
+
+Questo e' l'\textbf{elenco delle competenze} da cui scegliere per eventuali nuove professioni o personalizzazioni delle stesse.\\
+
+\begin{tabularx}{0.45\textwidth}{ll}
+\toprule
+\textbf{Competenza} & \textbf{Competenza}\\
+Acrobatica & Arrampicarsi \\
+Usare corda &Artista della fuga\\
+Cavalcare & Gestire animali\\
+Arcana & Conoscenze occulte\\
+Conoscenze dei Piani & Conoscenza legge\\
+Diplomazia & Lingue\\
+Natura &Natura magica\\
+Dungeon & Disattivare congegni \\
+Giocoliere & Erboristeria\\
+Mani di fata& Orientamento \\
+Nascondersi nelle ombre & Nuotare\\
+Muoversi silenziosamente& Geografia\\
+Persuadere/Intimidire & Percepire inganni \\
+Raggirare & Valutare \\
+Falsificare &Pronto soccorso \\
+Sopravvivenza & Seguire tracce\\
+Religione & Storia o Geografia\\
+Tradizioni locali & Suonare\\
+Intrattenere & Saltare\\
+\end{tabularx}
+
+\medskip
 
 Ad ogni livello successivo distribuisce un numero di punti pari la metà del punteggio di Intelligenza +1 (Int/2)+1 con un minimo di 1 punto, tra le competenze già conosciute o perfezionate nell'avventura o apprese ex novo. \\
 
 Nessuna competenza di base può avere un punteggio superiore al livello del personaggio+1.
 
-\begin{note}
-Una eccezione a questa regola e' per la competenza Consapevolezza i cui punti assegnati non possono superare LV*2/3.
-\end{note}
+\subsubsection{Consapevolezza}
+
+Una competenza che hanno tutto i personaggi e' Consapevolezza, ovvero la capacità di percepire l'ambiente intorno a loro. Questa competenza ha un valore fisso pari a 1/3 del livello del personaggio e puo' essere aumentata fino ad un massimo pari a 2/3 del livello o tramite assegnazione di punti o usando Abilità.
+
+\subsubsection{Apprendere nuove competente, professioni} 
 
 
 Un personaggio puo' apprendere una nuova competenza con uno studio/pratica di almeno 4 ore al giorno per almeno 4 mesi. Dopo questo lasso di tempo il giocatore puo' assegnare un punto alla competenza di base per cui si e' applicato.\\
-Puo' anche, utilizzando lo stesso sistema, migliorare la sua conoscenza di una competenza, ulteriore requisito e' trovare un insegnate che abbia un punteggio in competenza pari o superiore a quello a cui mira il personaggio.
+Puo' anche, utilizzando lo stesso sistema, migliorare la sua conoscenza di una competenza, ulteriore requisito e' trovare un insegnate che abbia un punteggio in competenza pari o superiore a quello a cui mira il personaggio.\\
+
+Per apprendere una nuova professione deve passare almeno 6 mesi per 6 ore al giorno con chi pratica quella professione. Passati i 6 mesi ed almeno 1 livello il personaggi acquisisce le 4 competenze della professione. Se ha gia' in parte quelle competenze aumenta il punteggio di 1 per ogni competenza gia' posseduta.
 
 \bigskip
 
-\begin{center}
-	\includegraphics[width=1\linewidth]{immagini/gnomoinventore.png}
-\end{center}
+\subsubsection{Queste le competenze ed i loro ambiti di utilizzo}
+
+\textbf{Acrobatica}: Questa competenza serve per mantenere l'equilibrio su superfici strette o precarie, per tuffarsi, rotolare, fare capriole, salti mortali e superare degli ostacoli.\\
+\textbf{Arrampicarsi}: Con questa competenza si possono Scalare superfici verticali, dalle mura cittadine alle pareti rocciose.\\
+\textbf{Usare corda}: Con questa competenza si e' esperti in legacci e nodi per fissare e bloccare oggetti o persone.\\
+\textbf{Artista della fuga}: Con questa competenza ci si può liberare da legacci\\
+\textbf{Cavalcare}: Con questa competenza è possibile dare comandi alla propria cavalcatura.\\
+\textbf{Gestire animali}: con questa competenza e' possibile addestrare e ammansire animali\\
+\textbf{Arcana}: Con questa competenza si è esperti di magia e di incantesimi, di creazione di oggetti magici, e si è in grado di identificare gli incantesimi che vengono lanciati.\\
+\textbf{Conoscenze occulte}: Con questa competenza si e' esperti di occulto, immondi.\\ 
+\textbf{Conoscenze dei Piani}: Con questa competenza si e' esperti di Piani.\\
+\textbf{Conoscenza legge}: Con questa competenza si e' esperti di legge.\\
+\textbf{Diplomazia}: Con questa competenza si possono persuadere gli altri ad essere d'accordo con i propri argomenti, risolvere diverbi, e raccogliere preziose informazioni e dicerie dalle persone. La competenza è anche usata per negoziare in modo efficace con la giusta etichetta e condotta adatta alla situazione controversa.\\
+\textbf{Lingue}: Ogni punto in questa competenza permette di apprendere un nuovo linguaggio scritto e parlato.\\
+\textbf{Natura}: Con questa competenza si hanno conoscenze di Animali, Fatati, stagioni e cicli, tempo atmosferico, vegetali\\
+\textbf{Natura magica}: Con questa competenza si hanno conoscenze di  Bestie Magiche, Costrutti, Draghi\\
+\textbf{Dungeon}: Con questa competenza si hanno conoscenze di Aberrazioni, caverne, esplorazioni sotterranee, Melme\\
+\textbf{Disattivare congegni}: Con questa competenza si possono disarmare Trappole e aprire serrature, sabotare congegni meccanici semplici, come le catapulte, le ruote di un carro o le porte.
+\textbf{Giocoliere}: Con questa competenza si e' estremamente abili ad afferrare piccoli oggetti\\
+\textbf{Erboristeria}: Con questa competenza si hanno conoscenze di come preparare pozioni e veleni naturali.\\
+\textbf{Mani di fata}: Con questa competenza si può borseggiare, estrarre un'arma nascosta, oppure compiere altre azioni senza essere notati.
+\textbf{Orientamento}: Con questa competenza si ha il senso della direzione e orientamento rendendo impossibile perdersi indipendentemente dall'ambiente in cui ci si trova.\\
+\textbf{Nascondersi nelle ombre}: Con questa competenza si è in grado di passare inosservati stando fermi.\\
+\textbf{Muoversi silenziosamente}: Con questa competenza si è in grado di muoversi senza causare rumore.\\
+\textbf{Geografia}: Con questa competenza si hanno conoscenze sul clima, popolazione, terreni, territori\\
+\textbf{Nuotare}: Con questa competenza si è in grado di Nuotare, anche in acque tempestose.\\
+\textbf{Persuadere/Intimidire}: Simile alla diplomazia ma meno fine e' la competenza nell'agire e dire per fare in modo che l'interlocutore faccia ciò che si vuole.\\
+\textbf{Percepire inganni}: Con questa competenza si può capire se qualcuno sta mentendo o si possono intuire le sue vere intenzioni.\\
+\textbf{Raggirare}: Con questa competenza si sa come ingannare e mentire.\\
+\textbf{Valutare}:  Con questa competenza si sa stimare il valore monetario di un oggetto.\\
+\textbf{Falsificare}: Con questa competenza si sa falsificare oggetti d'arte, mappe, firme..\\
+\textbf{Pronto soccorso}: Con questa competenza si possono curare le ferite e le malattie.\\
+\textbf{Sopravvivenza}: Con questa competenza si può sopravvivere e orientarsi nelle terre selvagge\\
+\textbf{Seguire tracce}: Con questa competenza si sa seguire le tracce lasciate\\
+\textbf{Religione}: Con questa competenza si hanno conoscenze su Patroni, mitologia, Celestiali, Non Morti, simboli sacri, tradizione ecclesiastica\\
+\textbf{Storia} o \textbf{Geografia}: Con questa competenza si hanno conoscenze di Storia o Geografia\\
+\textbf{Tradizioni locali}: Con questa competenza si hanno conoscenze degli abitanti, costumi, leggende, leggi, personalità, tradizioni\\
+\textbf{Suonare}: Con questa competenza si sa suonare uno strumento (specificare quale) e si sa leggere la musica\\
+\textbf{Intrattenere}:  Con questa competenza si è esperti in diversi tipi di espressione artistica, dal canto a recitare.\\
+\textbf{Travestirsi}: Con questa competenza si può cambiare il proprio aspetto.\\
+\textbf{Saltare}: Con questa competenza si e' esperti e provetti saltatori.\\
 
 
-Queste le competenze ed i loro ambiti di utilizzo:
-
-\textbf{Acrobatica}(Destrezza)\textbf{:}\index{Acrobatica} arrampicarsi, equilibrio, saltare, acrobazia
-
-\textbf{Arcano}(Intelligenza):\index{Arcano} Conoscenza arcana, piani, occulta, incantesimi, creature magiche
-
-\textbf{Consapevolezza} (Saggezza):\index{Consapevolezza} percezione, percepire inganni, nascondersi nelle ombre. 
-
-\textbf{Cultura} (Intelligenza): \index{Cultura}geografia, creature e piante naturali, erboristeria, storia, religione, tradizioni e storia locale, dungeon, ingegneria, falsificare, lingue
-
-\textbf{Criminalità} (Destrezza):\index{Criminalita} travestirsi, disattivare congegni, artista della fuga, mani di fata, muoversi silenziosamente
-
-\textbf{Faccia tosta} (Carisma): \index{Faccia tosta}valutare, intimidire, diplomazia (arguzia), raggirare, persuadere
-
-\textbf{Intrattenere} (Carisma): \index{Intrattenere}cantare, suonare, recitare, travestirsi, diplomazia (oratoria)
-
-\textbf{Lavoro} (Saggezza):\index{Lavoro} artigianato, professione (es.: allevatore, architetto, azzeccagarbugli, barcaiolo, cacciatore, mercante, sarto, fabbro, apicoltore, conciatore..)
-
-\textbf{Resistenza} (Costituzione): \index{Resistenza}nuotare, correre, saltare, scalare
-
-\textbf{Sopravvivenza} (Saggezza):\index{Sopravvivenza} seguire tracce, sopravvivenza, gestire animali, cavalcare, usare una corda, curare/pronto soccorso, creature naturali, creare cappi e nodi
-
-\bigskip
-
-
-\begin{center}
-	\includegraphics[width=0.90\linewidth]{immagini/attrezzi3.png}
-\end{center}
-
-
-
-Il Narratore potrebbe quindi chiederti genericamente una prova di Criminalità oppure dirti di fare una prova da mani di fata (borseggiare), il risultato non cambia effettui comunque una prova di Criminalità, ovvero 3d6 + punteggio in Criminalità + Destrezza + eventuali bonus o malus.
+Il Narratore potrebbe quindi chiederti di fare una prova da mani di fata (borseggiare) ovvero 3d6 + punteggio in Mani di Fata + Destrezza + eventuali bonus o malus.
 
 Ricordati sempre delle 3 regole base: esplosione del 6, gli uno portano male ed affidarsi alla sorte.
 
 \bigskip
 
-Potranno esserci situazioni od oggetti che concedono un bonus specifico ad una competenza ovvero non tanto un bonus a Criminalità ma solo a mani di fata, in quel caso il bonus si applica non a tutte le prove di Criminalità ma solo a quelle specifiche di mani di fata.
 
 \begin{note}{
-Non sottovalutate la scelta della Competenze ne tanto meno l'uso. Non tutto puo' risolversi con asciate o magia. Sapere districare nodi, seguire tracce, riconoscere erbe o malattie fanno del personaggio un esperto, creano una professione. Non dovete definire il personaggio solo in base alle abilità che ha ma in base a cosa e quanto bene sa farlo. Un personaggio di basso livello ma esperto di sopravvivenza sarà sempre piu' utile di un combattente esperto se si tratta di attraversare un deserto.}\end{note}\medskip
+Non sottovalutate la scelta della Professione!. Non tutto puo' risolversi con asciate o magia. Sapere districare nodi, seguire tracce, riconoscere erbe o malattie fanno del personaggio un esperto, creano una professione. Non dovete definire il personaggio solo in base alle abilità che ha ma in base a cosa e quanto bene sa farlo. Un personaggio di basso livello ma esperto di sopravvivenza sarà sempre piu' utile di un combattente esperto se si tratta di attraversare un deserto.}\end{note}\medskip
 
 
 \subsection{Competenze Attive}\index{Competenze Attive}
@@ -1353,7 +1433,7 @@ Usare uno \textbf{Scudo senza l'adeguata competenza} peggiora il Tiro per Colpir
 
 
 \begin{center}
-	\includegraphics[width=1\linewidth]{immagini/giavellottiragazzo3.png}
+	\includegraphics[width=1\linewidth]{immagini/giavellottiragazzo4.png}
 \end{center}
 
 
@@ -1405,7 +1485,6 @@ Quale è il suo stile di combattimento e strategia tipo ? Magia, Spada, dalle re
 
 E non meno importante: quale e' il suo scopo ? cosa lo ha fatto uscire di casa, dalle sue sicurezze.. da una vita "normale" e intrapreso quella di avventuriere ?
 
-
 Per incominciare leggi il capito sulle Razze ed individua quella del tuo personaggio.
 
 Ricorda sempre che questo e' un mondo crudele, pieno di rischi, trappole e mostri, ma anche occasioni che possono renderti potente o ricchissimo. \\
@@ -1428,9 +1507,7 @@ Se non hai punti in Competenza Armi puoi usare solo le \hyperlink{armi.semplici}
 
 Puoi assegnare ai Tiri Salvezza un punto per tipo (non puoi mettere due punti in un solo Tiro Salvezza al passaggio di un livello). Questi valori determinano la tua capacità di sopravvivenza e di resistere a traumi e magie
 
-Per le Competenze di Base al primo livello distribuisci 4 punti con un massimo di 2 punti per Competenza.
-
-Assegna anche 1 punto libero a Professione / Artigianato / Intrattenere / Cultura giustificando il background del personaggio.
+Le Competenze Base vengono assegnata in base alla Professione scelta. 
 
 Ad ogni livello successivo distribuisci un numero di punti pari a metà del punteggio di Intelligenza+ 1 tra le competenze già conosciute e perfezionate nell'avventura o apprese ex novo.
 
@@ -1661,17 +1738,17 @@ In questi casi il personaggio ed il Narratore effettuano una prova, chi ottiene 
 
 \textbf{Alcuni esempi di prova opposte}
 
-- Ingannare qualcuno: Faccia Tosta Vs Consapevolezza\\
+- Ingannare qualcuno: Raggirare Vs Percepire Inganni\\
 - Travestirsi per sembrare qualcun'altro: Intrattenere Vs Consapevolezza\\
-- Creare una mappa falsa: Cultura Vs Cultura\\
-- Nascondersi: Consapevolezza Vs Consapevolezza\\
-- Intimidire: Faccia tosta Vs Tiro Salvezza su Volontà\\
-- Rubare: Criminalità Vs Consapevolezza (valutare bene bonus e malus)\\
-- Slegarsi da delle corde: Criminalità Vs Sopravvivenza\\
+- Creare una mappa falsa: Falsificare Vs Valutare\\
+- Nascondersi: Nascondersi nelle ombre Vs Consapevolezza\\
+- Intimidire: Intimidire Vs Tiro Salvezza su Volontà\\
+- Rubare: Mani di Fata Vs Consapevolezza (valutare bene bonus e malus)\\
+- Slegarsi da delle corde: Usare Corde Vs Artista della fuga\\
 
 \begin{center}
 	\includegraphics[width=0.9\linewidth]{immagini/Foster_Bible_Pictures.png}
-	\textit{Bible Pictures and What They Teach Us: Containing 400 Illustrations from the Old and New Testaments: With brief descriptions by Charles Foster. Prova Consapevolezza, Criminalità}
+	\textit{Bible Pictures and What They Teach Us: Containing 400 Illustrations from the Old and New Testaments: With brief descriptions by Charles Foster. Prova Consapevolezza, Muoversi Silenziosamente}
 \end{center}
 
 \begin{note}
@@ -1680,7 +1757,7 @@ Ogni qual volta la prova opposta riguarda una \textbf{caratteristica correlata a
 
 \begin{note}
 Non fate che siano le prove a governare il vostro gioco. \textbf{Fate giocare i giocatori}, fateli recitare, fateli partecipare ed in base a quanto dicono stabilite se la prova e' passata o meno. \\
-Se vi dicono "convinco la guardia a farci passare" fate fare una prova di Faccia Tosta (intimidire), se invece intavolano un dialogo convincente potete considerare che la prova sia stata fatta con esito positivo (o negativo se non sono riusciti ad argomentare!)
+Se vi dicono "convinco la guardia a farci passare" fate fare una prova di Intimidire, se invece intavolano un dialogo convincente potete considerare che la prova sia stata fatta con esito positivo (o negativo se non sono riusciti ad argomentare!)
 \end{note}
 
 \subsection{Vantaggi e Svantaggi} \index{Vantaggi}\index{Bonus}\index{Malus}\index{Svantaggi}
@@ -1773,133 +1850,18 @@ Con questa Opzione può essere anche il giocatore a richiedere una \textbf{"Prov
 
 \pagebreak
 
-\subsection{Descrizione delle Competenze di Base}
-
-\label{descrizione-delle-competenze-di-base}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
-E quando Alessandro vide l'ampiezza dei suoi domini pianse, perché non c'erano più mondi da conquistare. Sono i vantaggi di un'istruzione classica. (Hans, "Trappola di Cristallo", Film 1988)}\end{tcolorbox}\medskip
-
-\begin{multicols}{2}
-
-\textbf{Criminalità} (Destrezza):\index{Criminalità}
-
-questa competenza riguarda molte delle capacità spesso usate dai ladri. Ogni qual volta c'è da scassinare un lucchetto, liberarsi da dei legacci o manette, rubare dalle tasche di qualcuno è necessario una prova di Criminalità.
-
-Solitamente ad una prova di Criminalità è contrapposta alla prova di Consapevolezza dell'avversario.
-
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/attaccoallespalle.png}
-	\textit{Criminalità}
-\end{center}
-
-\textbf{Sopravvivenza} (Saggezza):\index{Sopravvivenza}
-
-questa competenza riguarda tutta una serie di capacità e conoscenze legate dall'attenzione e dalla vita selvaggia.
-
-Ogni qual volta si debba legare un nemico, le tracce, sopravvivere nei boschi recuperando cibo ed un giaciglio, si debba riconoscere o calmare ed addestrare animali entra in gioco la Sopravvivenza.
-
-Anche l'abilità di pronto soccorso, per determinare malattie, prestare le prime cure o anche a lungo termine, ricade in sopravvivenza.
-
-Cercare trappole richiede l'abilità Sopravvivenza.
-
-\textbf{Faccia Tosta} (Carisma):\index{Faccia Tosta}
-
-ogni qual volta il personaggio deve interagire con un altro convincendolo, persuadendolo anche in maniera aggressiva oppure per ingannarlo si usa la competenza Faccia Tosta.
-
-Se il personaggio vuole ingannare un avversario è una prova opposta di Faccia Tosta contro Consapevolezza (percepire inganni).
-
-Intimidire l'avversario è una prova contrapposta di Faccia Tosta contro un Tiro Salvezza su Volontà dell'avversario.
-
-\textbf{Acrobatica} (Destrezza):\index{Acrobatica}
-
-se devi trovare l'equilibrio su un sottile cornicione, atterrare sui piedi dopo un salto, saltare su un terrazzo, arrampicarsi su una parete sono tutte prove di Acrobatica.
-
-Ogni qual volta agilità, precisione ed equilibrio del personaggio sono messe a prova viene richiesta una prova di Acrobatica.
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/Long_jump2.png}
-	\textit{Red figure cup in the museum of fine arts, Boston. Long Jump.}
-\end{center}
-
-\textbf{Consapevolezza}(Saggezza):\index{Consapevolezza}
-
-la Consapevolezza è la capacità di verificare le piccole cose, di accorgersi dei piccoli mutamenti. Consapevolezza è la capacità di calarsi nell'ambiente e farlo proprio.
-
-Ogni qual volta dovete verificare, vedere, udire, percepire qualcosa, sentire nella voce dell'avversario una incrinatura perché si sta raccontando menzogne oppure voi dovete fondervi nell'ambiente muovendosi silenziosamente o in maniera furtiva sono effettuate una prova di Consapevolezza.
-
-\textbf{Cultura} (Intelligenza):\index{Cultura}
-
-tutto ciò che è sapere non magico è cultura. Possa essere la storia e gli avvenimenti di un continente, le tradizioni ed abitudini di una nazione. Sapere come si prepara un decotto o leggere una mappa, ogni ora passata su un libro è Cultura..
-
-Sapere se un edificio è stato costruito bene, e come e quando può essere una prova di ingegneria e quindi Cultura.
-
-Conoscere le feste tipiche di una divinità è una prova di Cultura (religione). Conoscere i mostri tipici di un dungeon e le loro abitudini alimentari è una competenza di Sopravvivenza.
-
-Falsificare uno scritto o mappa in maniera credibile richiede Cultura
-
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/mozartrequiem.jpg}
-	\textit{Wolfgang Amadeus Mozart N(1756-1791) Austrian Composer Mozart Singing His Requiem. Painting 1882 By Thomas W Shields}
-\end{center}
-
-\textbf{Arcano} (Intelligenza):\index{Arcano}
-
-ricordare i dettagli su un antico oggetto magico, riconoscere uno scritto magico in una pergamena, comprendere gli incantesimi lanciate da altri o riconoscerne gli effetti.
-
-Sapere la geografia astrale dei piani, sapere usare un oggetto magico intuendone le funzioni, riconoscere creature magiche (la DC è il grado di Sfida della creatura modificato dalla rarità della stessa). Riconoscere o sapere formulare rituali non standard.
-
-Ogni qual volta si ha a che fare con la magia in qualsiasi sua forma è una prova di Arcano.
-
-\textbf{Lavoro} (Saggezza):\index{Lavoro}
-
-qualsiasi mestiere che costruisca (Artigianato, come sarto, fabbro, apicoltore, barcaiolo.. cacciatore.. conciatore..) o fornisca servizi (Professione come architetto, avvocato.. mercante.. ) è assimilabile ad un Lavoro.
-
-La competenza in lavoro permette di guadagnarsi da vivere e conoscere un mestiere che potrebbe rendersi utile.
-
-Lavoro è spesso una competenza di background del personaggio, ma rimane sempre utile in tante e diverse situazioni. Se ad esempio è necessario lavorare del legno, creare una corda, esaminare un palazzo, ogni qual volta una professione può essere pertinente con una prova si applica il bonus di competenza.\\
-La prova di Lavoro puo' essere usata qualora non si abbiano competenze specifiche ma il Lavoro scelto ricada nell'ambito della prova stessa.\\
-Ad esempio annodare una persona puo' essere una prova di Lavoro per un Marinaio. Disarmare una trappola per orsi puo' essere una prova di Lavoro per un Cacciatore.
-
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/Schreiner-1568.png}
-	\textit{Historical Profession Source: 'Eygentliche Beschreibung aller Stände auff Erden, hoher und nidriger, geistlicher und weltlicher, aller Künsten, Handwercken und Händeln ...' / from Jost Amman and Hans Sachs / Frankfurt am Main / 1568 / }
-\end{center}
-
-
-\textbf{Intrattenere} (Carisma):\index{Intrattenere}
-
-un personaggio che voglia cantare, suonare, recitare, travestirsi per sembrare qualcun'altro deve effettuare una prova di Intrattenere.
-
-Maggiore è la competenza di Intrattenere maggiore sarà noto il nome del personaggio, maggiore sarà l'affluenza alle sue esibizioni.
-
-Una prova di diplomazia fatta su Intrattenere sarà basata più sulla fisicità e sensualità che sulla capacità di argomentare (Carisma o Cultura).
-
-\textbf{Resistenza} (Costituzione):\index{Resistenza}
-
-Nuotare in acque placide o burrascose, correre per chilometri, saltare un crepaccio o scalare una dirupo sono tutte prove di Resistenza.
-
-Ogni qual volta si deve mettere a prova forza e resistenza fisica entra in campo la prova di Resistenza.
-Un lungo salto lo si fa con una prova di Resistenza, mentre un salto di precisione o in disequilibrio si farà su Acrobatica.
-
-Valutate oltre alla pura "forza/resistenza" anche i fattori esterni in quanto possono influire facilmente con modificatori anche significativi.
-
-Come sempre ogni volta che si stabilisce una difficoltà cercate sempre di essere obiettivi e lineari, valutate ogni interferenza e fattore esterno che possa essere applicato, considerate i bonus e malus della situazione e siate sempre corretti.
-
 \subsubsection{Esempi Prove Competenza}
 
 \label{esempi-prove-competenza}
 
 \begin{itemize}
-	\item Una prova riuscita (base DC 15) in Sopravvivenza (pronto soccorso) può fare recuperare 1d4 PF dopo uno scontro o concedere un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Costo 3 Azioni
+	\item Una prova riuscita (base DC 15) in Pronto Soccorso può fare recuperare 1d4 PF dopo uno scontro o concedere un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Costo 3 Azioni
 	
-	\item Una prova riuscita (base DC 15) in Sopravvivenza riduce di 1 i danni da Sanguinamento. Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 3, e la prova la riduce comunque di 1 alla volta. Costo 3 Azioni
+	\item Una prova riuscita (base DC 15) in Pronto Soccorso riduce di 1 i danni da Sanguinamento. Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 3, e la prova la riduce comunque di 1 alla volta. Costo 3 Azioni
 \end{itemize}
 
 \begin{itemize}
-	\item Una prova riuscita (base DC 13) in Sopravvivenza (pronto soccorso) per prendersi cura per 8 ore di un paziente fa recuperare a questo il doppio dei punti ferita ((CA+Costituzione)*2 con un minimo di 4) e concede un nuovo Tiro Salvezza su Tempra per resistere a Malattie o Veleni già in corso.
+	\item Una prova riuscita (base DC 13) in Pronto Soccorso per prendersi cura per 8 ore di un paziente fa recuperare a questo il doppio dei punti ferita ((CA+Costituzione)*2 con un minimo di 4) e concede un nuovo Tiro Salvezza su Tempra per resistere a Malattie o Veleni già in corso.
 \end{itemize}
 
 
@@ -1927,7 +1889,6 @@ Per ogni punto in Cultura che dedica specificatamente ai linguaggi, parla e scri
 
 Un appartenente ad una razza puo' benissimo avere come prima lingua non quella della propria razza se il background lo giustifica (es un Nano cresciuto presso una tribù di Goblin).
 
-\end{multicols}
 
 \textbf{Tabella delle Lingue}\index{Tabella delle Lingue}
 
@@ -2270,11 +2231,11 @@ The worthy GM never purposely kills players' PCs. He presents opportunities for 
 
 \begin{multicols}{2}
 
-Quando un personaggio raggiunge i 0 (zero) Punti Ferita si considera svenuto, ovvero inabile a fare qualsiasi cosa. Una Cura (Incantesimo, Pozione..) lo porterà cosciente ed ai punti ferita curati. Una prova di pronto soccorso, 3 Azioni, (Sopravvivenza) a DC 15 lo porterà ad 1 punto ferita. Dopo un ora se non e' successo qualcosa a mutare la situazione il personaggio può fare un TS su Tempra a DC 15, se riesce torna a 1 PF, se fallisce va a -1 e diventa morente.
+Quando un personaggio raggiunge i 0 (zero) Punti Ferita si considera svenuto, ovvero inabile a fare qualsiasi cosa. Una Cura (Incantesimo, Pozione..) lo porterà cosciente ed ai punti ferita curati. Una prova di pronto soccorso, 3 Azioni, a DC 15 lo porterà ad 1 punto ferita. Dopo un ora se non e' successo qualcosa a mutare la situazione il personaggio può fare un TS su Tempra a DC 15, se riesce torna a 1 PF, se fallisce va a -1 e diventa morente.
 
 Un personaggio morente ha Punti Ferita negativi (-1 o meno) ed è privo di sensi e prossimo alla morte. Continuerà a perdere un punto ferita a round fiche il valore non raggiungerà il triplo della Costituzione+10 ed il personaggio morirà, se non viene curato.\\
 Un incantesimo di Cura, di qualsiasi Difficoltà lo porterà a 1 Punto Ferita successive cure funzioneranno normalmente.\\
-Una prova di Sopravvivenza (pronto soccorso, 3 Azioni) a difficoltà 11 piu'il valore dei punti ferita negativi porterà il personaggio a 0 punti ferita, ovvero svenuto.\\
+Una prova di pronto soccorso 3 Azioni a difficoltà 11 piu'il valore dei punti ferita negativi porterà il personaggio a 0 punti ferita, ovvero svenuto.\\
 
 \begin{center}
 	\includegraphics[width=0.9\linewidth]{immagini/Nuremberg_chronicles.png}
@@ -2284,7 +2245,7 @@ Una prova di Sopravvivenza (pronto soccorso, 3 Azioni) a difficoltà 11 piu'il v
 Se un attacco o incantesimo porta il personaggio direttamente a -10-COS*3, il personaggio muore\index{Morte immediata}\index{Danno Massivo} senza possibilità di essere curato.\\
 
 \begin{tcolorbox}[title = Tups sta morendo] 
-Es. Tups é gravemente ferito ed ha attualmente -6 punti ferita, Jade decide di provare a curarlo (dopo averlo spostato in un posto piu' sicuro). Jade tenta una prova di pronto soccorso per almeno stabilizzare il compagno, la sua difficoltà alla prova é 11+6 ovvero deve superare con Sopravvivenza DC 17 per riportarlo a 0 PF (svenuto)
+Es. Tups é gravemente ferito ed ha attualmente -6 punti ferita, Jade decide di provare a curarlo (dopo averlo spostato in un posto piu' sicuro). Jade tenta una prova di pronto soccorso per almeno stabilizzare il compagno, la sua difficoltà alla prova é 11+6 ovvero deve superare con Pronto Soccorso DC 17 per riportarlo a 0 PF (svenuto)
 
 Una successiva prova di pronto soccorso a DC 15 potrà portarlo a 1 PF, una cura magica lo curerà dell'ammontare dichiarato.
 \end{tcolorbox}
@@ -2542,7 +2503,7 @@ Per quel round e per gli attacchi di quel round ti difenderai solo con la Armatu
 
 Per valutare se un personaggio è sorpreso effettuate un Tiro Salvezza su Riflessi, confrontandolo con la bravura nel nascondersi degli avversari, se la prova è fallita il personaggio è sorpreso.
 
-Se il personaggio e' sull'attenti e si aspetta un agguato fategli fare una prova di Consapevolezza contrapposta alla Criminalità dell'avversario, se la prova e' superiore allora il personaggio non e' sorpreso.
+Se il personaggio e' sull'attenti e si aspetta un agguato fategli fare una prova di Consapevolezza contrapposta alla prova di Nascondersi nelle Ombre dell'avversario, se la prova e' superiore allora il personaggio non e' sorpreso.
 
 Quando personaggi e nemici sono colti entrambi di sorpresa per valutare chi effettivamente è sorpreso effettuate un Tiro Salvezza su Riflessi, chi ottiene il risultato più basso è sorpreso e per quel round non potrà agire. Ogni personaggio e nemico fa il proprio tiro.
 
@@ -2858,7 +2819,7 @@ Un'arma a due mani concede un bonus di +4, un'arma leggera un malus di -2 a chi 
 
 \subsubsection{Finta*} \index{Finta}
 
-Fai una prova contrapposta di Competenza Armi + Faccia Tosta (chi fa la finta) contro Competenza Armi + Consapevolezza (chi subisce la finta). Se la prova riesce l'avversario perde il bonus della Destrezza alla Difesa fino alla fine del round successivo.
+Fai una prova contrapposta di Competenza Armi + Raggirare (chi fa la finta) contro Competenza Armi + Consapevolezza (chi subisce la finta). Se la prova riesce l'avversario perde il bonus della Destrezza alla Difesa fino alla fine del round successivo.
 
 Se fallisci di 5 o più perdi tu il round prossimo il bonus di Destrezza.
 Costa 1 Azione.
@@ -2942,7 +2903,7 @@ Gli attacchi verso un personaggio a cavallo (o cavalcatura in genere) se non dic
 
 \begin{itemize}
 	\item
-	Ogni qual volta la cavalcatura e' colpita il cavaliere deve effettuare una prova di Sopravvivenza a DC 13 o essere disarcionato dalla cavalcatura.\\	
+	Ogni qual volta la cavalcatura e' colpita il cavaliere deve effettuare una prova di Cavalcare a DC 13 o essere disarcionato dalla cavalcatura.\\	
 	\item
 	Combattere da posizione sopraelevata concede un +1d6 al Tiro per Colpire se l'avversario e' a piedi ( o non e' alla tua altezza...).\\
 	\item
@@ -3680,7 +3641,7 @@ Saper leggere le scritte magiche. Ha un bonus di +4 nel comprendere il contenuto
 
 \subsection{Difendere Cavalcatura}\index{Difendere Cavalcatura}
 
-Ogni qual volta la cavalcatura viene colpita, puoi effettuare una prova di cavalcare (Sopravvivenza) per negare il colpo. La tua prova di Sopravvivenza deve essere maggiore del Tiro per colpire dell'avversario
+Ogni qual volta la cavalcatura viene colpita, puoi effettuare una prova di Cavalcare per negare il colpo. La tua prova di Cavalcare deve essere maggiore del Tiro per colpire dell'avversario
 
 L'Abilità è utilizzabile solo una volta per round, per un solo attacco, costa 1 Azione.
 
@@ -3782,7 +3743,7 @@ Una creatura dotata di ferocia sviene quando ha un punteggio di punti ferita neg
 
 Sei in grado di simulare la morte, rallentando il cuore.
 
-Come Reazione sei in grado di cadere a terra (stramazzare!) morto. Solo una prova di Sopravvivenza (Pronto soccorso) DC 20 può rivelare che sei vivo.
+Come Reazione sei in grado di cadere a terra (stramazzare!) morto. Solo una prova di Pronto soccorso DC 20 può rivelare che sei vivo.
 
 L'effetto dura al massimo 2 minuti. La finta morte non è ripetibile in intervalli inferiori ai 10 minuti l'una dall'altra.
 
@@ -4290,7 +4251,7 @@ La \textbf{seconda volta} che prendi l'Abilità il raggio aumenta fino a 3 metri
 
 Requisito: Passo sicuro
 
-la capacità di non lasciare impronte nell'ambiente scelto. Ogni volta che prendi questa Abilità puoi scegliere un ambiente diverso (vedi Abilità Passo Sicuro) di cui hai preso l'Abilità. La prova di sopravvivenza per inseguirti ha una difficoltà aumentata di 10.
+la capacità di non lasciare impronte nell'ambiente scelto. Ogni volta che prendi questa Abilità puoi scegliere un ambiente diverso (vedi Abilità Passo Sicuro) di cui hai preso l'Abilità. La prova di Seguire Tracce per inseguirti ha una difficoltà aumentata di 10.
 
 \subsection{Stai giu'!}\index{Stai giu'!}
 
@@ -4398,17 +4359,17 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 	\textbf{Famiglio}    & \textbf{Capacità acquisita dal padrone}\\
 	Lucertola   		 & bonus +2 alle prove di Sopravvivenza\\
 	Rospo    	  		 & bonus +2 al Tiro Salvezza su Veleno\\
-	Corvo                & bonus +2 alle prove di Faccia Tosta\\
+	Corvo                & bonus +2 alle prove di Intimidire\\
 	Volpe 			     & bonus +1 al Tiro Salvezza su Riflessi\\
 	Donnola			     & bonus +1 alle prove su Intelligenza\\
 	Falco                & bonus +2 su Consapevolezza sulla vista\\
-	Gatto                & bonus +2 alle prove di Criminalità\\
+	Gatto                & bonus +2 alle prove di Muoversi Silenziosamente\\
 	Gufo                 & bonus +2 su Consapevolezza sul udito\\
 	Civetta              & bonus +2 alle prove di Arcana\\
-	Lontra				 & bonus +2 alle prove di Resistenza\\
+	Lontra				 & bonus +2 alle prove di Nuotare\\
 	Pipistrello          & bonus +2 alle prove di Acrobatica\\
 	Riccio               & bonus +1 al Tiro Salvezza su Volontà\\
-	Scimmia              & bonus +2 alle prove di Criminalità\\
+	Scimmia              & bonus +2 alle prove di Mani di Fata\\
 	Ratto                & bonus +1 al Tiro Salvezza su Tempra\\
 	Topi			     & diventi il famiglio della Topi!!!\\
 \end{tabularx}
@@ -4723,7 +4684,7 @@ Recuperi i punti ferita come se avessi il doppio del punteggio di Costituzione.
 
 \textbf{Digestione universale} \index{Digestione universale}5: purché non faccia male si mangia, +2 TS su Tempra vs Veleni. Immune ai disturbi di stomaco naturali.
 
-\textbf{Direzione Assoluta} \index{Direzione Assoluta}5: sai sempre dove è il nord magnetico. Hai un +4 alle prove di orientamento (Sopravvivenza).
+\textbf{Direzione Assoluta} \index{Direzione Assoluta}5: sai sempre dove è il nord magnetico. Hai un +4 alle prove di orientamento.
 
 \textbf{Duro da soggiogare} \index{Duro da soggiogare}5: +2 Tiro Salvezza su Volontà su incantesimi di Charme e Dominazione ed affini.
 
@@ -4747,7 +4708,7 @@ Recuperi i punti ferita come se avessi il doppio del punteggio di Costituzione.
 
 \textbf{Guarigione accelerata}\index{Guarigione accelerata}: 5 ogni mattina recuperi il doppio dei Punti Ferita che normalmente recupereresti. Si cumula con Controllo Metabolismo. \index{Controllo Metabolismo.}.
 
-\textbf{Guaritore}\index{Guaritore} 5: sai dove mettere le mani. +4 alle prove di Sopravvivenza (pronto soccorso).
+\textbf{Guaritore}\index{Guaritore} 5: sai dove mettere le mani. +4 alle prove di Pronto soccorso
 
 \textbf{Il fegato non si conta} \index{Il fegato non si conta}10: puoi bere tanto e non ti ubriachi
 
@@ -4769,7 +4730,7 @@ Recuperi i punti ferita come se avessi il doppio del punteggio di Costituzione.
 
 \textbf{Magia esplosiva} \index{Magia esplosiva}10: i tuoi incantesimi di Invocazione che causano danno hanno un dado in più di danno (quando c'è da tirare un dado..).
 
-\textbf{Mani di Fata} \index{Mani di Fata}10: +4 prova di Criminalità che coinvolgano le mani. Puoi prendere 16 come prendessi un 10 nelle prove relative.
+\textbf{Mani di Fata} \index{Mani di Fata}10: +4 prova di Mani di Fata e Artista della Fuga che coinvolgano le mani. Puoi prendere 16 come prendessi un 10 nelle prove relative.
 
 \textbf{Mano Piede palmata} \index{Mano Piede palmata}5: +4 alle prove di nuotare.
 
@@ -5120,7 +5081,7 @@ Le buone maniere non sono mai una opzione.
 \textbf{Cecità}\index{Cecità}
 
 \textbf{10}: Sei orbo, visione laterale compromessa, problemi nel capire la distanza delle cose.
-Le competenze quali Sopravvivenza e i TC per colpire con armi da lancio hanno un -4. La Difesa peggiora di 2.
+Le competenze quali Consapevolezza e i TC per colpire con armi da lancio hanno un -4. La Difesa peggiora di 2.
 
 \textbf{20}: sei cieco. Non vedi. tutti i nemici sono Invisibili.
 
@@ -5310,7 +5271,7 @@ Naso, palato, lingua bruciata, abuso di peperoncino o wasabi.. possono essere ta
 
 \textbf{Onestà Compulsiva}\index{Onestà Compulsiva}
 
-\textbf{7}: Non sai mentire, la sola idea di dire una menzogna ti rende nervoso. Prendi un -4 a Faccia Tosta. Se messo alle strette, il personaggio confesserà tutto a prescindere dall'importanza delle informazioni in suo possesso.
+\textbf{7}: Non sai mentire, la sola idea di dire una menzogna ti rende nervoso. Prendi un -4 a Raggirare. Se messo alle strette, il personaggio confesserà tutto a prescindere dall'importanza delle informazioni in suo possesso.
 
 \textbf{Ossa di Cristallo}\index{Ossa di Cristallo}
 
@@ -5396,7 +5357,7 @@ Oggi è venerdi'!!! è Venerdi!!!
 
 chiedo scusa
 
-\textbf{10}: Il personaggio è molto insicuro e tende a fidarsi ciecamente degli altri, specie se carismatici . Prendi un -2 alle prove di Criminalità e Faccia Tosta.
+\textbf{10}: Il personaggio è molto insicuro e tende a fidarsi ciecamente degli altri, specie se carismatici . Prendi un -2 alle prove di Intimidire e Intrattenere
 Prendi un -2 ai Tiri Salvezza su Charme e Dominazione
 
 \textbf{Sonno Leggero}\index{Sonno Leggero}\index{affaticato}
@@ -5753,11 +5714,11 @@ Vestito di un morbido saio marrone e calzari di cuoio si muove tra gli infiniti 
 
 \textbf{Somma dei Tratti in comune a 5 punti} punti: Conosci sempre la data esatta e l'ora.
 
-\textbf{Somma dei Tratti in comune a 10 punti}: Hai una intuizione innata per la conoscenza. Hai +1d6 alle prove di Cultura. Arcano prende un bonus +2
+\textbf{Somma dei Tratti in comune a 10 punti}: Hai una intuizione innata per la conoscenza. Hai +1d6 alle prove di Cultura. Arcana prende un bonus +2
 
 \textbf{Somma dei Tratti in comune a 15 punti}: Puoi creare 8 tue immagini speculari per trarre in inganno i tuoi avversari. Una volta al giorno, durata 1 ora o finché colpite.
 
-\textbf{Somma dei Tratti in comune a 20 punti}: Ogni qual volta che devi fare una prova di Cultura o Arcano puoi prendere il 18 come prendessi 10
+\textbf{Somma dei Tratti in comune a 20 punti}: Ogni qual volta che devi fare una prova di Arcana puoi prendere il 18 come prendessi 10
 
 
 
@@ -6545,9 +6506,7 @@ Il Devoto di Tazher è il ladro, l'assassino, il bandito, chiunque viva per l'os
 
 \textbf{Manifestazione}: l'ombra del Devoto prende vita muovendo l'arma
 
-
-
-\textbf{Somma dei Tratti in comune a 5 punti} punti: Guadagni +4 alle prove di criminalità.
+\textbf{Somma dei Tratti in comune a 5 punti} punti: Guadagni +2 alle prove di Muoversi Silenziosamente e Nascondersi nelle Ombre.
 
 \textbf{Somma dei Tratti in comune a 10 punti}: Una volta al giorno fai un attacco in più. Una Azione Immediata.
 
@@ -7364,7 +7323,7 @@ ciascun suo turno. Una creatura può porre fine a questi danni spendendo due Azi
 
 \textbf{Tomo degli Incantesimi}. Essenziale per i maghi, un libro degli incantesimi è un tomo rilegato in pelle con 100 pagine di vello bianche adatte a registrare gli incantesimi.\\
 
-\textbf{Manette}. Questi strumenti di metallo possono imprigionare una creatura Piccola o Media. Per liberarsi dalle manette bisogna superare una prova di Destrezza con CD 24. Per romperle bisogna superare una prova di Forza con CD 24. Ogni set di manette è fornito di una chiave. Senza la chiave, una creatura puo' usare Criminalita' per aprire la serratura superando una prova di Destrezza con CD 18.
+\textbf{Manette}. Questi strumenti di metallo possono imprigionare una creatura Piccola o Media. Per liberarsi dalle manette bisogna superare una prova di Destrezza con CD 24. Per romperle bisogna superare una prova di Forza con CD 24. Ogni set di manette è fornito di una chiave. Senza la chiave, una creatura puo' usare Artista della Fuga per aprire la serratura superando una prova di Destrezza con CD 18.
 Le manette hanno 15 punti ferita e Durezza 2\\
 
 \textbf{Olio}. Di solito si compra in un’ampolla d’argilla che contiene 0,5 litri. Con un’azione, puoi spargere l’olio in questa ampolla su di una creatura entro 1 metri da te o lanciarla fino a 6 metri, fracassandola all’impatto. In entrambi i casi, effettua un tiro per colpire a distanza contro la creatura o l’oggetto, trattando l’olio come un’arma improvvisata. Se colpisci, il bersaglio è
@@ -7380,7 +7339,7 @@ ricoperto d’olio. Se il bersaglio subisse qualsiasi entità di danno da fuoco 
 
 \textbf{Scatola per Quadrelli da Balestra}. Questa scatola di legno contiene fino a 12 quadrelli per balestra.\\\
 
-\textbf{Serratura}. Insieme alla serratura viene fornita una chiave. Senza la chiave, una creatura può scassinare questa serratura superando una prova di Criminalità con CD 17. Il Narratore può decidere che per cifre maggiori sono disponibili serrature di qualità migliore.\\
+\textbf{Serratura}. Insieme alla serratura viene fornita una chiave. Senza la chiave, una creatura può scassinare questa serratura superando una prova di Disattivare Congegni con CD 17. Il Narratore può decidere che per cifre maggiori sono disponibili serrature di qualità migliore.\\
 
 \textbf{Simbolo Sacro}. Un simbolo sacro è la raffigurazione di un Patrono. Potrebbe essere un amuleto che raffigura il simbolo di un Patrono, lo stesso simbolo accuratamente inciso o intrecciato su di un emblema o scudo, o una minuscola scatola contenente una reliquia sacra.\\
 
@@ -8081,7 +8040,7 @@ Le creature accecate devono effettuare una prova di Acrobatica con DC 10 per muo
 
 Tutti gli avversari di una creatura accecata sono invisibili nei suoi confronti ovvero hanno un +8 alla Difesa.
 
-Una creatura accecata, o che combatte contro una creatura invisibile,\index{Invisibile} può effettuare una prova di Consapevolezza a difficoltà 20 (oppure 15+Criminalità dell'avversario se questo non vuole farsi trovare) per individuare la creatura purché questa sia entro 3 metri dal personaggio.
+Una creatura accecata, o che combatte contro una creatura invisibile,\index{Invisibile} può effettuare una prova di Consapevolezza a difficoltà 20 (oppure 15+Muoversi silenziosamente dell'avversario se questo non vuole farsi trovare) per individuare la creatura purché questa sia entro 3 metri dal personaggio.
 
 Se la prova riesce è possibile tentare l'attacco a -1d6 nel Tiro per colpire, la creatura gode solo di un +4 alla Difesa, tranne se l'attacco avviene con incantesimi ad area.
 
@@ -8623,7 +8582,7 @@ A differenza delle città più piccole, le metropoli spesso sono dotate anche di
 
 Le torri di guardia solitamente sono più alte di 3 metri rispetto al muro di cui fanno parte, e il loro diametro è pari a 5 volte lo spessore delle mura. Delle feritoie per gli arcieri si aprono ai piani alti della torre, e la cima è merlata allo stesso modo delle mura circostanti. Nelle torri più piccole (del diametro di circa 7,5 metri, lungo un muro spesso 1,5 metri) una semplice scala a pioli collega l'interno della torre al tetto. Nelle torri più grandi si trovano vere e proprie scale.
 
-L'accesso alla torre è protetto da pesanti porte in legno, con rinforzi in ferro e serrature buone (Disattivare Congegni (Criminalità) DC 30). Normalmente è il capitano delle guardie a custodire la chiave d'accesso alla torre, e una seconda copia viene conservata nella fortezza interna o nella caserma cittadina.
+L'accesso alla torre è protetto da pesanti porte in legno, con rinforzi in ferro e serrature buone (Disattivare Congegni DC 30). Normalmente è il capitano delle guardie a custodire la chiave d'accesso alla torre, e una seconda copia viene conservata nella fortezza interna o nella caserma cittadina.
 
 \textbf{Cancelli}: Un tipico cancello d'accesso alla città è composto da una guardiola con due saracinesche e delle feritoie nello spazio tra di esse. Nei paesi e nelle città piccole, l'entrata principale è protetta da doppie porte di ferro incastrate nelle mura cittadine.
 
@@ -8714,9 +8673,9 @@ Alcune città non hanno grandi viali d'accesso, specialmente quelle che sono cre
 
 E' sufficiente invece indicare quali zone sulla mappa sono occupati dalla folla. Se la folla vede qualcosa di pericoloso, si allontanerà alla velocità di 9 metri per round a conteggio di Iniziativa 0. Per entrare in contatto con la folla bisogna avere una distanza di mischia. La folla fornisce Copertura a chiunque riesca a entrarvi, consentendo una prova di Furtività (Consapevolezza) e fornendo un bonus alla Difesa e ai Tiri Salvezza su Riflessi.
 
-\textbf{Dirigere la Folla}: è necessaria una prova di Diplomazia (Faccia Tosta) con DC 15 o di Intimidire (Faccia Tosta) con DC 20 per convincere una folla a spostarsi in una certa direzione, e la folla deve essere in grado di sentire o vedere il personaggio che effettua il tentativo. E' necessaria tutto un round per effettuare la prova di Diplomazia, mentre serve solo un'Azione per effettuare la prova di Intimidire.
+\textbf{Dirigere la Folla}: è necessaria una prova di Diplomazia con DC 15 o di Intimidire con DC 20 per convincere una folla a spostarsi in una certa direzione, e la folla deve essere in grado di sentire o vedere il personaggio che effettua il tentativo. E' necessaria tutto un round per effettuare la prova di Diplomazia, mentre serve solo un'Azione per effettuare la prova di Intimidire.
 
-Se due o più personaggi tentano di spingere la folla in due direzioni diverse, effettuano prove di Diplomazia (Faccia Tosta) o di Intimidire contrapposte per determinare a chi la folla darà ascolto. La folla ignorerà entrambi, se tutti e due i risultati delle prove dovessero essere inferiori alle DC sopra indicate.
+Se due o più personaggi tentano di spingere la folla in due direzioni diverse, effettuano prove di Diplomazia o di Intimidire contrapposte per determinare a chi la folla darà ascolto. La folla ignorerà entrambi, se tutti e due i risultati delle prove dovessero essere inferiori alle DC sopra indicate.
 
 \textbf{Sopra e Sotto le Strade}
 
@@ -9030,7 +8989,7 @@ Tutti, ad eccezione dei personaggi più deboli, riusciranno a buttar giù una po
 Al contrario, i lucchetti non sono costruiti dentro la porta ma di solito scorrono tra due anelli, uno sulla porta e uno sul muro. Serrature più complesse, come quelle a combinazione o quelle ad enigma, sono di solito costruite dentro la porta stessa.
 
 Siccome queste serrature senza chiave sono più grandi e complesse, di solito si trovano solo sulle porte resistenti (robuste porte di legno, di pietra o di ferro).
-La DC per scassinare una serratura con una prova di Disattivare Congegni (Criminalità) spesso ricade tra 20 e 30, anche se esistono serrature con DC maggiori o inferiori. Una porta può disporre di più di una serratura, ognuna delle quali da aprire separatamente.
+La DC per scassinare una serratura con una prova di Disattivare Congegni spesso ricade tra 20 e 30, anche se esistono serrature con DC maggiori o inferiori. Una porta può disporre di più di una serratura, ognuna delle quali da aprire separatamente.
 
 Le serrature sono spesso dotate di trappole, di solito aghi avvelenati che scattano all'infuori per pungere le dita del ladro.
 
@@ -9052,7 +9011,7 @@ Una porta su cui è stato lanciato un blocco magico si considera chiusa anche se
 
 \textbf{Cardini Standard}: Questi cardini sono di metallo e tengono unita la porta al suo sostegno o alla parete. Ricordarsi che la porta si apre verso il lato dove si trovano i cardini (quindi se i cardini sono dal lato dei PG, la porta si aprirà verso di loro; altrimenti si aprirà verso l'altra direzione).
 
-Gli avventurieri possono rimuovere i cardini uno alla volta superando varie prove di Disattivare Congegni (Criminalità) (solo se, naturalmente, sono davanti al lato della porta su cui si trovano i cardini). Una simile azione ha una DC di 20, in quanto molti dei cardini sono arrugginiti o bloccati.
+Gli avventurieri possono rimuovere i cardini uno alla volta superando varie prove di Disattivare Congegni (solo se, naturalmente, sono davanti al lato della porta su cui si trovano i cardini). Una simile azione ha una DC di 20, in quanto molti dei cardini sono arrugginiti o bloccati.
 
 Spaccare un cardine è difficile. La maggior parte ha Durezza 10 e 30 Punti Ferita. La DC per spaccare un cardine è la stessa che serve per abbattere la porta
 
@@ -9268,7 +9227,7 @@ Di solito, alcuni elementi di una trappola sono ben visibili a un'attenta ispezi
 
 La descrizione della trappola specifica le prove e le DC necessarie per individuarla, disabilitarla o entrambe. Un personaggio che cerchi attivamente una trappola può tentare una prova di \textbf{Sopravvivenza} contro la DC della trappola. \\
 Il Narratore può anche comparare la DC per individuare la trappola contro il punteggio di Sopravvivenza (a tiro 10) dei personaggi al fine di determinare se un membro della compagnia noti la trappola. Se gli avventurieri notano la trappola prima di attivarla, potrebbero tentare di disarmarla, in maniera permanente o abbastanza a lungo da permettergli il passaggio.\\
-Il Narratore potrebbe richiedere una prova di Criminalità, usando gli attrezzi da scasso, per svolgere l'intervento necessario.
+Il Narratore potrebbe richiedere una prova di Disattivare Congegni usando gli attrezzi da scasso, per svolgere l'intervento necessario.
 
 Qualsiasi personaggio può tentare una prova di Intelligenza (Arcano, a punteggio almeno 1) per individuare o disarmare una trappola magica, in aggiunta a qualsiasi altra prova indicata nella descrizione della trappola. Le DC sono sempre le stesse, quale che sia la prova effettuata. Inoltre, l'incantesimo dissolvi magie ha una probabilità di disabilitare la maggior parte delle trappole magiche.\\
 La descrizione di una trappola magica fornisce la DC per la prova di caratteristica da effettuare quando si usa dissolvi magie.
@@ -9326,7 +9285,7 @@ Trappola meccanica\\
 Un ago avvelenato è nascosto all'interno della serratura di un forziere, o altro oggetto che si possa aprire. Aprire il forziere senza la chiave adeguata farebbe scattare l'ago, che dispensa una dose di veleno.
 
 Quando la trappola viene attivata, l'ago si estende per 7,5 centimetri dalla serratura. Una creatura a gittata subisce 1 danno perforante e 11 (2d10) danni da veleno, e deve superare un tiro salvezza su Tempra con DC 20 o prendere -4 TC e -4 alle prove di Competenza per 1 ora.\\
-Il personaggio che superi una prova di Sopravvivenza con DC 22, può dedurre la presenza della trappola dalle modifiche apportate alla serratura per ospitare l'ago. Una prova superata di Criminalità facendo uso di attrezzi da scasso, disarma la trappola rimuovendo l'ago dalla serratura. Una prova fallita per scassinare la serratura fa scattare la trappola.\\
+Il personaggio che superi una prova di Sopravvivenza con DC 22, può dedurre la presenza della trappola dalle modifiche apportate alla serratura per ospitare l'ago. Una prova superata di Disattivare Congegni facendo uso di attrezzi da scasso, disarma la trappola rimuovendo l'ago dalla serratura. Una prova fallita per scassinare la serratura fa scattare la trappola.\\
 
 \textbf{Dardi Avvelenati}\\
 Trappola meccanica\\
@@ -9364,7 +9323,7 @@ Una volta che la fossa è stata individuata, uno spuntone di ferro o simile ogge
 \textit{Fossa a Scatto}\\
 Questa fossa è identica alla trappola fossa nascosta, con un'eccezione fondamentale: la botola che copre la fossa nasconde un meccanismo a molla. Dopo che una creatura è caduta nella fossa, la copertura si richiude di scatto per intrappolare la vittima al suo interno.
 
-È necessario superare una prova di Forza con DC 20 per aprire a forza la copertura. La copertura può essere anche distrutta. Un personaggio all'interno della fossa può anche tentare di disabilitare il meccanismo a molla dall'interno superando una prova di Criminalità on DC 18 e utilizzando attrezzi da scasso, purché possa raggiungere e vedere il meccanismo in questione. In alcuni casi, un altro meccanismo fa riaprire la fossa. 
+È necessario superare una prova di Forza con DC 20 per aprire a forza la copertura. La copertura può essere anche distrutta. Un personaggio all'interno della fossa può anche tentare di disabilitare il meccanismo a molla dall'interno superando una prova di Disattivare Congegni on DC 18 e utilizzando attrezzi da scasso, purché possa raggiungere e vedere il meccanismo in questione. In alcuni casi, un altro meccanismo fa riaprire la fossa. 
 
 \medskip
 
@@ -9378,7 +9337,7 @@ Versioni più crudeli di questa trappola sono munite di veleno cosparso sulle pu
 Trappola meccanica\\
 Questa trappola usa un cavetto per liberare una rete appesa al soffitto.
 
-Il cavetto è collocato a 7 centimetri dal terreno e si estende tra due colonne o alberi. La rete è nascosta da ragnatele o fogliame. La DC (Sopravvivenza) per notare il cavetto e la rete è 15. Una prova superata di Criminalità con DC 20 usando gli attrezzi da scasso disabilita il cavetto.\\
+Il cavetto è collocato a 7 centimetri dal terreno e si estende tra due colonne o alberi. La rete è nascosta da ragnatele o fogliame. La DC (Sopravvivenza) per notare il cavetto e la rete è 15. Una prova superata di Disattivare Congegni con DC 20 usando gli attrezzi da scasso disabilita il cavetto.\\
 Un personaggio privo degli attrezzi da scasso può tentare comunque la prova con -1d6 usando un'arma o un attrezzo affilati. Se la prova fallisce, la trappola si attiva.\\
 Quando la trappola viene attivata, la rete viene rilasciata coprendo un'area quadrata di 3 metri di lato. Tutte le creature nell'area vengono intrappolate dalla rete e sono intralciate, mentre quelle che falliscono un Tiro Salvezza su Tempra, con modificatore Forza, con DC 13 cadono anche prone.\\
 Una creatura può usare 2 Azioni per effettuare una prova di Forza DC 13, liberando se stessa o un'altra creatura a portata se la supera.\\
@@ -9390,7 +9349,7 @@ La rete ha Difesa 10 e 20 punti ferita. infliggere 5 danni taglienti alla rete n
 Trappola meccanica\\
 Quando 10 o più chili vengono posti sulla pedana a pressione della trappola, una botola nascosta nel soffitto si apre, rilasciando una sfera di 3 metri di diametro interamente fatta di pietra.\\
 
-Superando una prova di Sopravvivenza con DC 20 un personaggio può notare la botola e la pedana a pressione. Se un esame del pavimento è accompagnato da una prova superata di Criminalità con DC 20, rivelerà la presenza della pedana a pressione tramite la differenza di struttura della pavimentazione che la accomoda. La stessa prova effettuata mentre si controlla il soffitto, rivelerà la presenza di una botola. Incuneare uno spuntone di ferro o un altro oggetto sotto la pedana a pressione impedirà l'attivazione della trappola.\\
+Superando una prova di Sopravvivenza con DC 20 un personaggio può notare la botola e la pedana a pressione. Se un esame del pavimento è accompagnato da una prova superata di Sopravvivenza con DC 20, rivelerà la presenza della pedana a pressione tramite la differenza di struttura della pavimentazione che la accomoda. La stessa prova effettuata mentre si controlla il soffitto, rivelerà la presenza di una botola. Incuneare uno spuntone di ferro o un altro oggetto sotto la pedana a pressione impedirà l'attivazione della trappola.\\
 L'attivazione della sfera fa sì che tutte le creature presenti tirino per l'iniziativa. La sfera tira l'iniziativa con un bonus di +8. \\
 Durante il suo turno, la sfera si muove di 18 metri in linea retta. La sfera può muoversi attraverso lo spazio di una creatura, e le creature possono muoversi attraverso lo spazio che occupa, considerandolo terreno difficile.\\
 Ogni qualvolta la sfera entri nello spazio di una creatura o una creatura entri nel suo spazio mentre la sfera sta rotolando, la creatura deve superare un tiro salvezza su Destrezza con DC 15 o subire 55 (10d10) danni contundenti e cadere prona.
@@ -9404,7 +9363,7 @@ Con 2 Azioni, una creatura entro 1 metro dalla sfera può tentare di rallentarla
 Trappola meccanica\\
 Questa trappola usa un cavetto per fare crollare i sostegni che sorreggono una sezione instabile di soffitto.
 
-Il cavetto è collocato a 7 centimetri dal terreno e si estende tra i due sostegni. La DC (Sopravvivenza) per notare il cavetto è 13. Una prova superata di Criminalità con DC 20 usando gli attrezzi da scasso disabilita il cavetto. \\
+Il cavetto è collocato a 7 centimetri dal terreno e si estende tra i due sostegni. La DC (Sopravvivenza) per notare il cavetto è 13. Una prova superata di Disattivare Congegni con DC 20 usando gli attrezzi da scasso disabilita il cavetto. \\
 Un personaggio privo degli attrezzi da scasso può tentare comunque la prova con -1d6 usando un'arma o un attrezzo affilati. Se la prova fallisce, la trappola si attiva.\\
 Chiunque ispezioni i sostegni può facilmente dedurre che sono solo appoggiati. Con un'azione, il personaggio può far cadere un sostegno e attivare la trappola.\\
 Il soffitto sopra il cavetto è in cattivo stato, e chiunque possa vederlo può capire che rischia di crollare. Quando la trappola viene attivata, il soffitto instabile crolla. Tutte le creature nell'area sotto la sezione instabile devono effettuare un Tiro Salvezza su Riflessi con DC 20, subendo 22 (4d10) danni contundenti se lo falliscono o la metà di questi danni se lo superano. Una volta attivata la trappola, il pavimento dell'area è pieno di macerie e diventa terreno difficile.\\
@@ -9438,7 +9397,7 @@ Sono qui presentata ulteriori trappole per la vostra gioia.\\
 Grado di Sfida: indica quale e' il grado di sfida della trappola\\
 Tipo: se la trappola e' di tipo meccanico o magico\\
 DC Sopravvivenza: quale e' la prova e difficoltà per rivelare la trappola\\
-DC Criminalità: quale e' la prova e difficoltà per disattivare la trappola. Se la prova riesce di 5 o piu' il personaggio puo' decidere se riattivare la trappola una volta evitata, altrimenti e' disinnescata.\\
+DC Disattivare Congegni: quale e' la prova e difficoltà per disattivare la trappola. Se la prova riesce di 5 o piu' il personaggio puo' decidere se riattivare la trappola una volta evitata, altrimenti e' disinnescata.\\
 Attivatore: se si attiva a contatto o distanza\\
 Ripristino: se e' possibile ripristinare la trappola una volta scattata\\
 Effetto: quale e' l'effetto della trappola\\
@@ -9450,7 +9409,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 1 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 20 \\
-	DC Criminalità: 20 \\
+	DC : 20 \\
 	Attivatore: contatto \\
 	Ripristino: nessuno \\
 	Effetto: Attacco a distanza 12 metri +10 (1d3 di danno più Bava fermentata di Lucos)\\
@@ -9459,7 +9418,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 1 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 20 \\
-	DC Criminalità: 20 \\
+	DC : 20 \\
 	Attivatore: contatto \\
 	Ripristino: nessuno \\
 	Effetto: Attacco a distanza 12 metri +15 (1d8+1/×3)\\
@@ -9468,7 +9427,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 1 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 20 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni 20 \\
 	Attivatore: posizione \\
 	Ripristino: manuale \\
 	Effetto: fossa profonda 3 metri (2d6 danni da caduta) \\
@@ -9479,7 +9438,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 1 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 20 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Ripristino: manuale \\
 	Effetto: Attacco in mischia +10 (1d8+1/×3) \\
@@ -9489,7 +9448,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 2 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 20 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Ripristino: manuale \\
 	Effetto: fossa profonda 3 metri m (1d6 danni da caduta) + spuntoni (Attacco in mischia +10, 1d4 spuntoni per bersaglio per 1d4+2 danni ciascuno) \\
@@ -9500,7 +9459,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 2 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 26 \\
-	DC Criminalità: 26 \\
+	DC Disattivare Congegni: 26 \\
 	Attivatore: prossimità (Allarme) \\
 	Ripristino: nessuno \\
 	Effetto: 2d4 danni da fuoco \\
@@ -9511,7 +9470,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 2 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 20 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Ripristino: nessuno \\
 	Effetto: Attacco a distanza 12 metri +15 (1d6+6), entro raggio 6 metri\\
@@ -9520,7 +9479,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 3 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 27 \\
-	DC Criminalità: 27 \\
+	DC Disattivare Congegni: 27 \\
 	Attivatore: prossimità (Allarme) \\
 	Ripristino: nessuno \\
 	Effetto: Attacco distanza di 16 metri (2d4 danni da acido per 4 round)\\
@@ -9529,7 +9488,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 3 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 25 \\
-	DC Criminalità: 20
+	DC Disattivare Congegni: 20
 	Attivatore: posizione \\
 	Ripristino: manuale \\
 	Effetto: fossa profonda media (3d6 danni da caduta) \\
@@ -9540,7 +9499,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 4 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 25 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: contatto \\
 	Ripristino: nessuno \\
 	Effetto: Arco elettrico, 4d6 danni da elettricità\\
@@ -9551,7 +9510,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 4 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 20 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Ripristino: automatico \\
 	Effetto: Attacco in mischia +20 (2d4+6/×4)\\
@@ -9560,7 +9519,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 5 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 20 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Ripristino: manuale \\
 	Effetto: Attacco in mischia +15 (6d6) \\
@@ -9570,7 +9529,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 5 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 28 \\
-	DC Criminalità: 28 \\
+	DC Disattivare Congegni: 28 \\
 	Attivatore: prossimità (Allarme) \\
 	Ripristino: nessuno \\
 	Effetto: 6d6 danni da fuoco, distanza media\\
@@ -9581,7 +9540,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 6 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 30 \\
-	DC Criminalità: 30 \\
+	DC Disattivare Congegni: 30 \\
 	Attivatore: prossimità (Allarme) \\
 	Ripristino: nessuno \\
 	Effetto: 8d6 danni da fuoco, distanza media\\
@@ -9592,7 +9551,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 6 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 20 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Ripristino: nessuno \\
 	Effetto: Attacco a distanza 18 metri +15 (1d6 più Veleno ×3)\\
@@ -9601,7 +9560,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 7 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 25 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Durata: 3 round \\
 	Ripristino: nessuno \\
@@ -9613,7 +9572,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 8 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 25 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Ripristino: riparabile \\
 	Effetto: Gas velenoso \\
@@ -9623,7 +9582,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 9 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 25 \\
-	DC Criminalità: 25 \\
+	DC Disattivare Congegni: 25 \\
 	Attivatore: visivo ( Occhio Arcano) \\
 	Ripristino: riparabile \\
 	Effetto: Attacco a distanza +20 (6d6) \\
@@ -9633,7 +9592,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 8 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 25 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Ripristino: manuale \\
 	Effetto: Fossa profonda 15 m (5d6 danni da caduta) + spuntoni (Attacco in mischia +15, 1d4 spuntoni per bersaglio per 1d6+5 danni ciascuno) \\
@@ -9644,7 +9603,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 9 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 26 \\
-	DC Criminalità: 26 \\
+	DC Disattivare Congegni: 26 \\
 	Attivatore: prossimità (Allarme) \\
 	Durata: 1d6 round \\
 	Ripristino: nessuno \\
@@ -9655,7 +9614,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 10 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 34 \\
-	DC Criminalità: 34 \\
+	DC Disattivare Congegni: 34 \\
 	Attivatore: visivo (Visione del Vero) \\
 	Ripristino: nessuno \\
 	Effetto: Attacco di contatto a distanza 18 metri +10, 2d4 Livelli Negativi Temporanei \\
@@ -9665,7 +9624,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 10 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 25 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Durata: 1d4 round \\
 	Ripristino: riparabile \\
@@ -9676,7 +9635,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 11 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 30 \\
-	DC Criminalità: 30 \\
+	DC Disattivare Congegni: 30 \\
 	Attivatore: prossimità (Allarme) \\
 	Ripristino: nessuno \\
 	Effetto: cono di lance di ghiaccio, 15d6 danni da freddo \\
@@ -9687,7 +9646,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 18 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 30 \\
-	DC Criminalità: 30 \\
+	DC Disattivare Congegni: 30 \\
 	Attivatore: visivo\\
 	Ripristino: manuale \\
 	Effetto: Attacco a distanza 36 metri +20 (1d8+6 più veleno)\\
@@ -9696,7 +9655,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 13 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 31 \\
-	DC Criminalità: 31 \\
+	DC Disattivare Congegni: 31 \\
 	Attivatore: prossimità (Allarme) \\
 	Ripristino: nessuno \\
 	Effetto: 60 danni da fuoco \\
@@ -9707,7 +9666,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 15 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 30 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Ripristino: manuale \\
 	Effetto: Attacco in mischia +15 (16d6) \\
@@ -9717,7 +9676,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 16 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 33 \\
-	DC Criminalità: 33 \\
+	DC Disattivare Congegni: 33 \\
 	Attivatore: visivo (Visione del Vero) \\
 	Ripristino: nessuno \\
 	Effetto: +9 contatto a distanza 18 metri, 30d6 danni, TS: Tempra DC 19 riduce a 5d6 danni\\
@@ -9726,7 +9685,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 14 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 31 \\
-	DC Criminalità: 31 \\
+	DC Disattivare Congegni: 31 \\
 	Attivatore: contatto \\
 	Ripristino: nessuno \\
 	Effetto: Sanguinamento 5, attacco di contatto in mischia +6\\
@@ -9736,7 +9695,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 17 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 29 \\
-	DC Criminalità: 29 \\
+	DC Disattivare Congegni: 29 \\
 	Attivatore: prossimità (Allarme) \\
 	Durata: 1d6 round \\
 	Ripristino: nessuno \\
@@ -9748,7 +9707,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 12 \\
 	Tipo: meccanico \\
 	DC Sopravvivenza: 25 \\
-	DC Criminalità: 20 \\
+	DC Disattivare Congegni: 20 \\
 	Attivatore: posizione \\
 	Ripristino: manuale \\
 	Effetto: Fossa profonda 15 m (5d6 danni da caduta) + spuntoni (attacco in mischia +15, 1d4 spuntoni per bersaglio per 1d6+5 danni ciascuno più veleno)\\
@@ -9759,7 +9718,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 19 \\
 	Tipo: magico \\
 	DC Sopravvivenza: 34 \\
-	DC Criminalità: 34 \\
+	DC Disattivare Congegni: 34 \\
 	Attivatore: visivo\\
 	Ripristino: nessuno \\
 	Effetto: 4 meteore a bersagli separati, +9 contatto a distanza 27 metri, 2d6 da impatto più 6d6 danni da fuoco\\
@@ -9770,7 +9729,7 @@ Effetto: quale e' l'effetto della trappola\\
 	grado di Sfida: 20 \\
 	Tipo magico \\
 	DC Sopravvivenza: 34 \\
-	DC Criminalità: 34 \\
+	DC Disattivare Congegni: 34 \\
 	Attivatore: prossimità (Allarme) \\
 	Ripristino: nessuno \\
 	Effetto: TS Morte\\
@@ -9821,7 +9780,7 @@ Sconfiggere in singolar tenzone un nemico con un CR più alto del proprio livell
 Come gruppo vincere un incontro di combattimento con un CR +3 più&	+1\\
 Sconfiggere in combattimento un diffamatore pubblico&	+2\\
 Superare una prova di Professione con CD 30 o più per creare un'opera d'arte o un oggetto &+2\\
-Superare una prova pubblica di Faccia Tosta con CD 30 o più (devono esserci testimoni)&	+2\\
+Superare una prova pubblica di Intimidire con CD 30 o più (devono esserci testimoni)&	+2\\
 Superare una prova pubblica di Intrattenere con CD 30 o più (devono esserci testimoni)&	+2\\
 Completare un'avventura con una difficoltà adeguato al proprio livello&	+3\\
 Ottenere un titolo formale (lady, lord, cavaliere e così via)&	+3\\
@@ -10618,7 +10577,7 @@ In caso piu' creature spingano il "grave" considerate la Forza piena della creat
 
 \subsubsection{Nuotare}\index{Nuotare}
 
-Una creatura con una velocità di Nuotare può muoversi attraverso l'acqua alla sua velocità indicata senza fare prove di Sopravvivenza. Si guadagna un bonus di +8 su qualsiasi prova di Sopravvivenza per eseguire un'azione particolare o evitare un pericolo. La creatura può sempre scegliere di prendere 10 su una prova di Nuotare, anche se distratti o in pericolo quando si nuota. Una tale creatura può utilizzare l'azione di correre mentre nuota, a condizione che nuoti in linea retta.\\
+Una creatura con una velocità di Nuotare può muoversi attraverso l'acqua alla sua velocità indicata senza fare prove di Nuotare. Si guadagna un bonus di +8 su qualsiasi prova di Nuotare per eseguire un'azione particolare o evitare un pericolo. La creatura può sempre scegliere di prendere 10 su una prova di Nuotare, anche se distratti o in pericolo quando si nuota. Una tale creatura può utilizzare l'azione di correre mentre nuota, a condizione che nuoti in linea retta.\\
 Se non si ha il tipo di movimento Nuotare si considera come "terreno" difficile, e quindi ci si muovo a metà della velocità indicata da movimento.
 
 \subsubsection{Scalare}\index{Scalare}
@@ -11284,13 +11243,13 @@ Per leggere una pergamena è necessario:\\
 
 \textbf{in caso di pergamene ISY SCROL}:
 
-- per comprendere il contenuto e' sufficiente una prova di Arcano a difficoltà DC 10\\
+- per comprendere il contenuto e' sufficiente una prova di Arcana a difficoltà DC 10\\
 
 - per poter leggere e lanciare l'incantesimo della pergamena e' necessaria una prova di Intelletto (o Arcana se conosciuta) a difficoltà 12.\\
 
 \textbf{in caso di pergamene normali}:
 
-- per comprenderne il contenuto e' necessaria una prova di Arcano a Difficoltà 15\\
+- per comprenderne il contenuto e' necessaria una prova di Arcana a Difficoltà 15\\
 
 - per poter leggere e lanciare l'incantesimo della pergamena e' necessaria una prova di competenza magica a Difficoltà 20.\\
 
@@ -11379,7 +11338,7 @@ Quando si determina il prezzo di un oggetto magico inventato bisogna considerare
 	\item
 	      Un personaggio non può portare più di due anelli magici altrimenti entrano in risonanza causando 1d6 di danno a round per ogni anello oltre il secondo.
 	\item
-  		  Per riconoscere un oggetto magico e le sue capacità e' necessario l'incantesimo Identificare. Una prova di Arcano a Difficoltà 25 puo' dare indicazioni di massima sui poteri.	      
+  		  Per riconoscere un oggetto magico e le sue capacità e' necessario l'incantesimo Identificare. Una prova di Arcana a Difficoltà 25 puo' dare indicazioni di massima sui poteri.	      
 \end{itemize}
 
 
@@ -13098,8 +13057,8 @@ Mentre impugni questo scudo, hai +1d6 ai Tiri Salvezza contro incantesimi e altr
 \textit{Oggetto meraviglioso, leggendario}\\
 Questa sfera nera di 50 centimetri di diametro è in realtà un foro nella struttura del multiverso, che fluttua nello spazio ed è stabilizzata dal campo magico che la circonda.\\
 La sfera annienta tutta la materia che attraversa e tutta la materia che l'attraversa. L'unica eccezione sono gli artefatti. A meno che l'artefatto non sia suscettibile ai danni della sfera dell'annientamento, esso può attraversare la sfera senza problemi. Qualsiasi altra cosa tocchi la sfera e non ne sia completamente avvolta e annientata da essa, subisce 4d10 danni da forza.\\
-La sfera resta immobile fino a quando qualcuno non la controlla. Se ti trovi entro 18 metri da una sfera incontrollata, puoi impiegare due azioni per effettuare una prova di Arcano con DC 30. Se la superi, la sfera levita in una direzione a tua scelta, per un numero di metri pari a 1,5 x il Intelligenza (minimo 1,5 metri). Se fallisci, la sfera si muove di 3 metri verso di te. Una creatura nel cui spazio entri la sfera, deve superare un Tiro Salvezza di Riflessi con DC 15 o venire toccata da essa, subendo 4d10 danni da forza.\\
-Se tenti di controllare una sfera che si trova sotto il controllo di un'altra creatura, effettui una prova contesa di Arcano contro Arcano dell'altra creatura. Il vincitore della contesa ottiene il controllo della sfera e può farla levitare come di norma. \\
+La sfera resta immobile fino a quando qualcuno non la controlla. Se ti trovi entro 18 metri da una sfera incontrollata, puoi impiegare due azioni per effettuare una prova di Arcana con DC 30. Se la superi, la sfera levita in una direzione a tua scelta, per un numero di metri pari a 1,5 x il Intelligenza (minimo 1,5 metri). Se fallisci, la sfera si muove di 3 metri verso di te. Una creatura nel cui spazio entri la sfera, deve superare un Tiro Salvezza di Riflessi con DC 15 o venire toccata da essa, subendo 4d10 danni da forza.\\
+Se tenti di controllare una sfera che si trova sotto il controllo di un'altra creatura, effettui una prova contesa di arcana contro arcana dell'altra creatura. Il vincitore della contesa ottiene il controllo della sfera e può farla levitare come di norma. \\
 Se la sfera entra in contatto con un portale planare, come quello creato dall'incantesimo portale, o uno spazio extradimensionale, come quello all'interno di un buco portatile, il Narratore determina casualmente ciò che accade, utilizzando la tabella seguente. 
 
 \medskip
@@ -13138,7 +13097,7 @@ Quando attacchi una creatura con quest'arma magica e ottieni un critico al tiro 
 \index{Spada del Sanguinamento}\textbf{Spada del Sanguinamento}\\
 \textit{Arma (qualsiasi spada), raro} + 15000 mo\\
 I punti ferita persi a causa dei danni di quest'arma, possono essere recuperati solo tramite riposo naturale, anziché tramite la rigenerazione, la magia o altri metodi.\\
-Una volta per round, quando colpisci una creatura con un attacco usando quest'arma magica, puoi far sanguinare il bersaglio. All'inizio di ciascun round della creatura sanguinante, essa subisce 1d4 danni da sanguinamento per ogni volta che l'hai ferita a questo modo, ed essa può effettuare un tiro Salvezza su Tempra con DC 17, terminando l'effetto su tutte le ferite sanguinanti in caso di successo. In alternativa, la creatura sanguinante, o una creatura entro 1,5 metri da essa, può usare due azioni per effettuare una prova di Sopravvivenza (Pronto Soccorso) con DC 17, terminando l'effetto del sanguinamento in caso la superi.\\
+Una volta per round, quando colpisci una creatura con un attacco usando quest'arma magica, puoi far sanguinare il bersaglio. All'inizio di ciascun round della creatura sanguinante, essa subisce 1d4 danni da sanguinamento per ogni volta che l'hai ferita a questo modo, ed essa può effettuare un tiro Salvezza su Tempra con DC 17, terminando l'effetto su tutte le ferite sanguinanti in caso di successo. In alternativa, la creatura sanguinante, o una creatura entro 1,5 metri da essa, può usare due azioni per effettuare una prova di Pronto Soccorso con DC 17, terminando l'effetto del sanguinamento in caso la superi.\\
 
 \index{Spada Vorpal}\textbf{Spada Vorpal}
 \textit{Arma (qualsiasi spada che infligga danni taglienti), leggendario}\\
@@ -13200,7 +13159,7 @@ Mentre indossi questo pendente sei immune alla possibilità di contrarre qualsia
 
 \index{Talismano della Sfera}\textbf{Talismano della Sfera}\\
 \textit{Oggetto meraviglioso, leggendario}\\
-Quando effettui una prova di Arcano controllare una sfera dell'annientamento mentre stai impugnando questo talismano hai un bonus di 5. Inoltre, quando inizi il round con il controllo di una sfera dell'annientamento, puoi usare due azioni per farla levitare di 3 metri più un numero di metri aggiuntivi pari a 3 x il tuo valore di Intelligenza.\\
+Quando effettui una prova di arcana controllare una sfera dell'annientamento mentre stai impugnando questo talismano hai un bonus di 5. Inoltre, quando inizi il round con il controllo di una sfera dell'annientamento, puoi usare due azioni per farla levitare di 3 metri più un numero di metri aggiuntivi pari a 3 x il tuo valore di Intelligenza.\\
 
 \index{Tappeto Volante}\textbf{Tappeto Volante}\\
 \textit{Oggetto meraviglioso, molto raro} - 15000 mo\\
@@ -14292,7 +14251,7 @@ I personaggi che rimangono assordati per lunghi periodi di tempo, possono abitua
 
 \textbf{Charmato}:\index{Charmato} una creatura charmata tratta il giocatore con un fidato amico ed alleato. Se la creatura viene minacciata o attaccata può fare un nuovo Tiro Salvezza su Volontà con un +2.
 
-L'effetto di charme non permetto il controllo del target ma questo percepisce le tue parole nel modo più favorevole. Puoi anche dare ordini ma devi riuscire in una prova di Faccia Tosta contro un Tiro Salvezza su Volontà.
+L'effetto di charme non permetto il controllo del target ma questo percepisce le tue parole nel modo più favorevole. Puoi anche dare ordini ma devi riuscire in una prova di Intimidire contro un Tiro Salvezza su Volontà.
 
 Un target influenzato da charme non farà nulla di pericoloso per se stesso (tranne se convinto) o per altri soggetti che reputa amici.
 
@@ -14373,11 +14332,11 @@ Un personaggio intralciato che cerca di lanciare un incantesimo deve superare la
 
 textbf{Immobilizzato}:\index{Immobilizzato} Una creatura immobilizzata è strettamente limitata nei movimenti e può compiere solo alcune azioni.
 
-Una creatura immobilizzata non può muoversi ed è Impreparata. Una creatura immobilizzata può tentare sempre di liberarsi, solitamente attraverso una prova di Criminalità o un Tiro Salvezza su riflessi.
+Una creatura immobilizzata non può muoversi ed è Impreparata. Una creatura immobilizzata può tentare sempre di liberarsi, solitamente attraverso una prova di Artista della Fuga o un Tiro Salvezza su riflessi.
 
 Può compiere azioni verbali e mentali, ma non può utilizzare, di norma, gli incantesimi. Un personaggio immobilizzato che tenta di utilizzare gli incantesimi e usare una Capacità Magica si considera che sia disturbato.
 
-Se il soggetto è legato la prova è contro la prova di Criminalità o Sopravvivenza di chi ha legato.\\
+Se il soggetto è legato la prova è contro la prova di Uso Corde o Sopravvivenza di chi ha legato.\\
 
 \textbf{Invisibile}:\index{Invisibile} Le creature invisibili non sono percepibili dalla vista, ricevono bonus +1d6 al Tiro per Colpire contro avversari visibili e negano il bonus di Destrezza alla Difesa dei loro avversari (se posseduto).
 
@@ -14446,7 +14405,7 @@ La condizione rotto ha i seguenti effetti, a seconda dell'oggetto:
 
 - Se l'oggetto non rientra in nessuna delle precedenti categorie, la condizione rotto non ha effetto sul suo uso. Gli oggetti con condizione rotto, a prescindere dal tipo, valgono il 25\% del loro costo normale. Se l'oggetto è magico, può essere riparato soltanto con l'incantesimo Fabbricare utilizzata da un incantatore di livello uguale o superiore a quello che ha creato dell'oggetto.
 
-\textbf{Sanguinante}\index{Sanguinante} Una creatura che sta subendo danni da sanguinamento subisce la quantità di danno indicata all'inizio del suo round. Il sanguinamento può essere interrotto superando una prova di Sopravvivenza (pronto soccorso) con DC 15 o con l'uso di un incantesimo che curi ferite.
+\textbf{Sanguinante}\index{Sanguinante} Una creatura che sta subendo danni da sanguinamento subisce la quantità di danno indicata all'inizio del suo round. Il sanguinamento può essere interrotto superando una prova di Pronto Soccorso con DC 15 o con l'uso di un incantesimo che curi ferite.
 
 Alcuni effetti di sanguinamento causano un danno di caratteristica o persino un risucchio di caratteristica. 
 
@@ -14509,7 +14468,7 @@ Prendiamo ad esempio l'Orco comune da https://www.d20pfsrd.com/bestiary/monster-
 
 \textbf{Feats} Weapon Focus (falchion) Arma Focalizzata. Il bonus dell'abilità è già calcolata nei valori di Melee
 
-\textbf{Skills} Intimidate +2 rimane uguale. In questo caso è Faccia Tosta
+\textbf{Skills} Intimidate +2 rimane uguale. 
 
 \textbf{Ferocity} (Ex): An orc remains conscious and can continue fighting even if its hit point total is below 0. It is still staggered and loses 1 hit point each round. A creature with ferocity still dies when its hit point total reaches a negative amount equal to its Constitution score. si prende la abilità così come e'.
 
