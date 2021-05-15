@@ -1200,7 +1200,6 @@ Se non specificato diversamente per tutte le prove di competenza (Base, Attive) 
 
 \textbf{Regola Bonus}: quando una penalità è indicata come "-1d6" ( o peggio..) significa che si toglie 1 dado alla prova, se non è una prova si toglie 4 al risultato finale per ogni dado di penalità. Il risultato minimo per il tiro dei dadi è 0 (es. 1d6 -8).
 
-
 \subsection{Competenze di Base}\index{Competenze di Base}
 
 \label{competenze-di-base}
@@ -1224,6 +1223,7 @@ Sono qui elencate delle Professioni di esempio e le loro competenze relative, il
 \toprule
 \textbf{\textbf{Professione}}	& \textbf{1 punto} & \textbf{2 punti} & \textbf{2 punti} & \textbf{3 punti}\\
 \textbf{Accolito}			& Natura magica&	Storia o Geografia	& Arcana			& Religione\\
+\textbf{Alchimista}			& Valutare&	Natura		& Erboristeria	& Arcana\\
 \textbf{Allevatore}			& Sopravvivenza&	Seguire tracce		& Natura	& Gestire animali\\
 \textbf{Apprendista mago}	& Storia e Geografia	&	Conoscenze occulte&	Natura magica&	Arcana\\
 \textbf{Azzeccagarbugli}&		Valutare&	Raggirare&	Percepire inganni&	Diplomazia\\
@@ -1233,7 +1233,7 @@ Sono qui elencate delle Professioni di esempio e le loro competenze relative, il
 \textbf{Carovaniere}	&	Storia o Geografia&	Valutare&	Cavalcare&	Orientamento\\
 \textbf{Teatrante}&		Suonare	& Intrattenere&	Giocoliere&	Acrobatica\\
 \textbf{Erborista}	&	Lingue&	Geografia&	Natura&	Erboristeria\\
-\textbf{Giocatore d'Azzardo}	&	Travestirsi&	Valutare&	Persuadere&	Raggirare\\
+\textbf{Giocatore di carte}	&	Travestirsi&	Valutare&	Persuadere&	Raggirare\\
 \textbf{Guardia}	&Percepire inganni	&	Conoscenza legge&Intimidire	&	Cavalcare\\
 \textbf{Guida}	&	Natura magica&	Dungeon	&Natura&	Geografia\\
 \textbf{Ladro}	&	Disattivare congegni&	Artista della fuga&	Muoversi silenziosamente&	Mani di fata\\
@@ -1252,7 +1252,7 @@ Sono qui elencate delle Professioni di esempio e le loro competenze relative, il
 Nella scheda va segnata la Professione iniziale e le competenze acquisite, ovviamente in accordo con il Narratore e' possibile selezionare delle competenze diverse e anche scegliere professioni diverse!
 
 Ad ogni professione associate 4 competenze prese da questa lista, una competenza partira' con un punteggio di 1, due competenze partiranno con il punteggio di 2 e quella più specifica e professionale partira' con il punteggio di 3.\\
-Ovviamente una professione non si esplicita in sole 4 competenze ma queste sono quelle che piu' entreranno in uso durante le avventure, il Narratore sarà aiutato dalla vostra professione a capire chi e come sa fare e come possono agire i personaggi
+Ovviamente una professione non si esplicita in sole 4 competenze ma queste sono quelle che piu' entreranno in uso durante le avventure, il Narratore sarà aiutato dalla vostra professione a capire chi e come sa fare e come possono agire i personaggi.
 
 Questo e' l'\textbf{elenco delle competenze} da cui scegliere per eventuali nuove professioni o personalizzazioni delle stesse, tra parentesi viene indicata la Caratteristica su cui si effettua la prova.\\
 
@@ -1346,6 +1346,8 @@ Per apprendere una nuova professione deve passare almeno 6 mesi per 6 ore al gio
 \textbf{Usare corda (DES)}: Con questa competenza si e' esperti in legacci e nodi per fissare e bloccare oggetti o persone.\\
 \textbf{Valutare (INT)}:  Con questa competenza si sa stimare il valore monetario di un oggetto.\\
 
+
+Un eventuale prova sulla Professione viene fatta con 3d6+metà del livello.
 
 Il Narratore potrebbe chiederti di fare una prova da Mani di fata (borseggiare) ovvero 3d6 + punteggio in Mani di Fata + Destrezza + eventuali bonus o malus.
 
@@ -3307,8 +3309,8 @@ puoi decidere di usare l'Destrezza per determinare il bonus al colpire ed al dan
 \subsection{Spade}\index{Spade} Spada Corta, Spada Lunga, Spadone a due mani, Spada bastarda, Spada a due lame, Katana
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/arma-tipi-di-spade.png}
-\textit{A Sciabola, B Scimitarra, C Spada ad una mano, D Spada a lama larga, D Spada a punta o stocco, E 	Spada lunga, F Spada a una mano e mezza o bastarda, G Spadone a due mani}
+	\includegraphics[width=0.9\linewidth]{immagini/arma-tipi-di-spade.png}\\
+\textit{A Sciabola, B Scimitarra, C Spada ad una mano, D Spada larga, D Stocco, E Spada lunga, F Spada a una mano e mezza o bastarda, G Spadone a due mani}
 \end{center}
 
 
@@ -3330,7 +3332,7 @@ Sei un maestro nell'uso degli scudi, anche come arma.
 
 \begin{center}
 	\includegraphics[width=0.9\linewidth]{immagini/scudotorre.png}
-\textit{Henry Justice Ford. Scudo Torre}
+\textit{Henry Justice Ford. Scudo Pesante}
 \end{center}
 
 
@@ -6776,9 +6778,9 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 \textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata,Speciale, Lista} & Peso (kg)\\
 Alabarda& 10 & G/1d10 P/T& \textbf{Lance}, \textbf{Aste}, Controcarica, Arma lunga, ED9 & 4\\
 Arco Corto& 30 & M/1d6 P& 15 metri, \textbf{Arco}, da tiro& 1\\
-Arco Corto Composito& vedi note& M/Frecce& 20 metri, \textbf{Arco}, da tiro& 1.5\\
+Arco Corto Composito& note*& M/Frecce& 20 metri, \textbf{Arco}, da tiro& 1.5\\
 Arco Lungo& 75 & G/Frecce& 20 metri, \textbf{Arco}, da tiro& 2\\
-Arco Lungo Composito& vedi note& G/Frecce& 36 metri, \textbf{Arco}, da tiro& 2.5\\
+Arco Lungo Composito& note*& G/Frecce& 36 metri, \textbf{Arco}, da tiro& 2.5\\
 Ascia ad una mano& 6  & M/1d6 T& 6 metri, \textbf{Asce}, \textbf{Armi da Tiro}, Versatile& 1\\
 Ascia da battaglia& 10 & M/1d10 T&\textbf{Asce}& 3\\
 Ascia Martello& 16 & M/1d6 T/B& \textbf{Asce}& 3\\
@@ -6821,7 +6823,7 @@ Picca Pesante& 8& G/1d6 P&\textbf{Armi della morte}, Arma lunga& 3\\
 Pugnale& 2& P/1d4 P& 6 metri, \textbf{Armi leggere}, \textbf{Armi da tiro}, \textbf{Armi letali}, \textbf{Armi Semplici}, Versatile& 0.5\\
 Pugno/Calcio nudo& 0& P/1d4* B&Versatile& -\\
 Randello& 1& P/1d6 B&\textbf{Rompi Cranio}, \textbf{Armi Semplici}& 0.5\\
-Rete& 8& M-&3 metri, textbf{Bloccanti}, intralciato& 1\\
+Rete& 8& M-&3 metri, \textbf{Bloccanti}, intralciato& 1\\
 Scimitarra& 15 & M/1d6 T&\textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile& 1.5\\
 Spada a due lame& 100& G/1d8 T& \textbf{Armi Doppie}, \textbf{Spade}, Arma lunga, arma doppia& 3\\
 Spada bastarda& 35 & M/1d10 T&\textbf{Spade}& 2\\
@@ -7781,7 +7783,7 @@ Un drago fornisce pelle sufficiente per una singola armatura di pelle per una cr
 In ogni caso, c'è sempre pelle sufficiente per produrre uno scudo leggero o pesante in aggiunta all'armatura, purché il drago sia Grande o maggiore.
 e la pelle di drago proviene da un Drago che ha immunità ad un tipo di energia, anche l'armatura è immune a quel tipo di energia, sebbene non conferisca alcuna protezione a chi la indossa. Se allo scudo o all'armatura viene conferita in seguito la capacità di proteggere chi la indossa da un tipo di energia specifico, il costo di questo potenziamento viene ridotto del 25\%.
 
-Le armature di pelle di drago costano il doppio di un'armatura di quel tipo, ma non richiedono più tempo per essere costruite (si raddoppino tutti i risultati di Artigianato).
+Le armature di pelle di drago costano il doppio di un'armatura di quel tipo, ma non richiedono più tempo per essere costruite.
 
 La pelle di drago ha 10 Punti Ferita per 2,5 cm di spessore e Durezza 10. Solitamente la pelle di drago è spessa da 1,25 a 2,5 cm. 
 
@@ -7865,7 +7867,7 @@ Allo stesso modo è decisamente difficile abbattere una porta o un muro di pietr
 
 \textbf{Vulnerabilità a Certi Attacchi}: Certi attacchi possono essere particolarmente efficaci contro alcuni oggetti. In questi casi gli attacchi infliggono danni raddoppiati e possono ignorare la Durezza dell'oggetto.\\
 
-\textbf{Oggetti Danneggiati}: Un oggetto danneggiato rimane pienamente funzionale con la condizione Rotto fino a quando i Punti Ferita non arrivano a 0, e a quel punto è considerato distrutto. Gli oggetti danneggiati (ma non quelli distrutti) possono essere riparati con la Competenza Artigianato e alcuni Incantesimi (vedi la condizione Rotto per maggiori dettagli).\\
+\textbf{Oggetti Danneggiati}: Un oggetto danneggiato rimane pienamente funzionale con la condizione Rotto fino a quando i Punti Ferita non arrivano a 0, e a quel punto è considerato distrutto. Gli oggetti danneggiati (ma non quelli distrutti) possono essere riparati da una Professione Artigiano e alcuni Incantesimi (vedi la condizione Rotto per maggiori dettagli).\\
 
 \textbf{Tiro Salvezza}: Gli oggetti non magici incustoditi non effettuano mai Tiro Salvezza. Si considera che abbiano fallito i loro Tiro Salvezza, e siano quindi sempre soggetti all'incantesimo ed altri attacchi che ammettono un Tiro Salvezza per resistere o negare l'effetto.
 
@@ -9094,7 +9096,7 @@ I crolli e i cedimenti nei tunnel sono estremamente pericolosi. Non solo gli esp
 
 Un crollo seppellisce chiunque si trovi nel mezzo della zona sepolta, e quindi i detriti che rotolano via infliggeranno danni a tutti coloro che si trovano nelle zone periferiche alla zona sepolta. Un tipico corridoio soggetto a un crollo potrebbe disporre di una zona sepolta con raggio 3 metri e una zona di scorrimento con raggio di mischia all'estremità di quella sepolta.
 
-Un soffitto pericolante può essere identificato con una prova di Conoscenze (ingegneria) con DC 20 o Artigianato (lavori in muratura) con DC 20. Da non dimenticare che le prove di Artigianato possono essere effettuate senza addestramento come prove di Intelligenza. Un Nano può effettuare questa prova semplicemente passando entro 3 metri di distanza da un soffitto pericolante.
+Un soffitto pericolante può essere identificato con una prova di Ingegneria)con DC 20 o Professione Muratore con DC 20. Un Nano può effettuare questa prova semplicemente passando entro 3 metri di distanza da un soffitto pericolante.
 
 Un soffitto pericolante può crollare sotto l'impatto di una grossa forza. Un personaggio può provocare un crollo distruggendo la metà dei pilastri che reggono il soffitto.
 
@@ -9150,7 +9152,7 @@ I pericoli ambientali includono frane, incendi e simili. I pericoli viventi incl
 
 Zona di entropia magica che distruggono le magie, gli antidweomer si formano sui siti di grandi duelli magici, attraverso la distruzione di potenti artefatti o da vortici di energia mistica ai margini delle zone di antimagia. Le dimensioni variano da piccole bolle di appena pochi metri fino a grandi aree delle dimensioni di una città.
 
-Una prova riuscita di Sapienza Magica con DC 20 rivela la vicinanza di un antidweomer con un formicolio nell'aria. Una magia attiva portata in un antidweomer potrebbe venir dissolta, e qualsiasi incantesimo lanciato al suo interno è soggetta ad un contro incantesimo immediato (l'incantatore deve fare un Tiro Salvezza su Volontà a difficoltà 20). Il conseguente rilascio di energia magica infligge 1d6 danni in un'esplosione a raggio mischia centrata su chi ha portato la magia nell'area o chi ne ha lanciato una nuova al suo interno (TS su Riflessi con DC 15 dimezza).
+Una prova riuscita di Arcana con DC 20 rivela la vicinanza di un antidweomer con un formicolio nell'aria. Una magia attiva portata in un antidweomer potrebbe venir dissolta, e qualsiasi incantesimo lanciato al suo interno è soggetta ad un contro incantesimo immediato (l'incantatore deve fare un Tiro Salvezza su Volontà a difficoltà 20). Il conseguente rilascio di energia magica infligge 1d6 danni in un'esplosione a raggio mischia centrata su chi ha portato la magia nell'area o chi ne ha lanciato una nuova al suo interno (TS su Riflessi con DC 15 dimezza).
 
 Se più scoppi sovrapposti colpiscono lo stesso bersaglio, si applica solo quello più dannoso. Una magia che ha resistito ad un tentativo di dissoluzione, non viene influenzato nuovamente a meno che non esca e rientri nell'antidweomer.
 
@@ -9910,7 +9912,7 @@ Un punteggio oltre i 55 punte fanno del personaggio una leggenda le cui gesta ve
 
 Se la propria Fama scende sotto 0, la reputazione è basata sull'infamia piuttosto che sulla Fama. Si consideri la Fama come un numero positivo anziché un numero negativo per tutte le regole legate a Fama, Sfera di Notorietà e Punti Prestigio (per esempio, una Fama da antagonista di -20 equivale a una Fama da eroe di 20 per i suoi ammiratori.\\
 
-Nel caso in cui un evento possa accrescere la Fama, si può scegliere di aumentare la Fama (portandola più vicina a 0) o di diminuirla (rendendola un numero negativo maggiore). Per esempio, se la Fama di un PG è 20 e si tira pubblicamente un 30 su una prova Artigianato per creare una spada  (cosa che in genere vale +2), si può aumentare la Fama a 18 o diminuirla a 22. \\
+Nel caso in cui un evento possa accrescere la Fama, si può scegliere di aumentare la Fama (portandola più vicina a 0) o di diminuirla (rendendola un numero negativo maggiore). Per esempio, se la Fama di un PG è 20 e si tira pubblicamente un 30 su una prova di Professione per creare una spada  (cosa che in genere vale +2), si può aumentare la Fama a 18 o diminuirla a 22. \\
 Gli eventi negativi che diminuiscono la Fama contano sempre come negativi (un antagonista che attacchi gente innocente non ispira simpatia al pubblico).
 
 Se si ha una Fama negativa, i PNG non malvagi spesso avranno reazioni maldisposte o ostili (vedi Tabella: Reazioni alla Fama Negativa). Si noti che se si ha una reputazione di persona potente e pericolosa, i PNG potrebbero evitare il PG anziché confrontarsi con lui.
@@ -9992,20 +9994,20 @@ Se si viene esposti a veleni diversi e' necessario effettuare un TS per ogni tip
 
 \subsection{Applicare il Veleno}\index{Applicare il Veleno}
 
-Applicare il veleno ad un'arma o ad una munizione richiede 3 azioni.
+Applicare il veleno ad un'arma o ad una munizione richiede 3 Azioni.
 
-Ogni volta che un personaggio applica o prepara un veleno per l'uso deve tirare 3d6+Intelligenza e se ottiene come somma 3 o 4 è entrato in contatto con il veleno e deve effettuare un Tiro Salvezza contro il veleno come di norma. Ciò non consumala dose di veleno.
+Ogni volta che un personaggio applica o prepara un veleno per l'uso deve tirare 3d6+Intelligenza e se ottiene come somma 3 o 4 è entrato in contatto con il veleno e deve effettuare un Tiro Salvezza contro il veleno come di norma. Ciò non consuma la dose di veleno.
 
 Ogni volta che un personaggio attacca con un'arma avvelenata, se ottiene un 3 o 4 naturale col Tiro per Colpire, si espone agli effetti del veleno. Ciò consuma il veleno sull'arma.
 Un pozione di veleno è sufficiente per coprire di veleno un arma media oppure 3 frecce. Il veleno viene così consumato e rimane attivo sull'arma finché questa non colpisce.
 
-Una creatura che sotto gli effetti di un veleno, che si siano già' scatenati o meno, ha la condizione di Avvelenata.
+Una creatura che sotto gli effetti di un veleno, che si siano già' scatenati o meno, ha la condizione di Avvelenato.
 
 \subsection{Creare Veleni Naturali}\index{Creare Veleni Naturali}
 
-I veleni possono essere realizzati usando Artigianato (alchimia) o Conoscenze (Erboristeria). La DC per preparare un veleno è uguale alla DC del Tiro Salvezza su Tempra che richiede -5. Il costo per preparare un veleno è pari alla metà del costo di vendita.
+I veleni naturali possono essere realizzati usando Erboristeria. La DC per preparare un veleno è uguale alla DC del Tiro Salvezza su Tempra che richiede -5. Il costo per preparare un veleno è pari alla metà del costo di vendita.
 
-Ottenendo un 3 o 4 naturale con la prova di Artigianato o Erboristeria ci si espone al veleno durante la sua preparazione. Il tempo necessario per preparare i veleni è pari alla DC in ore.
+Ottenendo un 3 o 4 naturale con la prova di Erboristeria ci si espone al veleno durante la sua preparazione. Il tempo necessario per preparare i veleni è pari alla DC in ore.
 
 Gli esempi seguenti rappresentano solo alcuni dei possibili veleni.\\
 
@@ -10081,7 +10083,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non indica
 
 \subsubsection{Pozioni naturali}\index{Pozioni}
 
-Il tempo per preparare queste pozioni/droghe è pari alla DC/2 in ore, mentre la difficoltà è pari alla DC -5. Se gli ingredienti si comprano il costo per preparare la pozione è metà del costo di vendita indicato, se si cercano in natura il costo per produzione scende ad un quarto.
+Il tempo per preparare queste pozioni/droghe è pari alla DC/2 in ore, mentre la difficoltà della prova di Erboristeria è pari alla DC -5. Se gli ingredienti si comprano il costo per preparare la pozione è metà del costo di vendita indicato, se si cercano in natura il costo per produzione scende ad un quarto.
 
 Se la prova di DC Erboristeria ha successo se ne preparano 1d2 pozioni (da 1 dose).
 
@@ -11153,7 +11155,7 @@ I mostri non devono essere stupidi per forza. Falli parlare, ragionare, scappare
 
 I costi qui elencati sono quelli di produzione, il ricavo si puo' attestare almeno attorno al 20\% del prezzo di produzione.\\
 
-La Difficoltà indicata e' quella dell'incantesimo che si vuole inserire nell'oggetto.\\
+La Difficoltà indicata e' relativa ad una prova di Competenza Magica dell'incantesimo che si vuole inserire nell'oggetto.\\
 
 In caso di fallimento nella prova di magia per creare un oggetto magico si sprecano componenti pari a metà del costo di produzione, oltre a tutto il tempo impiegato.
 
@@ -11317,7 +11319,7 @@ Per leggere una pergamena è necessario:\\
 
 Talento di creazione dell'oggetto richiesto: Creare Oggetti Magici
 
-Competenza usata nella creazione: Arcana, Artigianato (calligrafia) o Professione (scrivano).
+Competenza usata nella creazione: Arcana o Professione (scrivano).
 
 \subsection{Creare Pozioni}\index{Creare Pozioni}\index{Pozioni}
 
@@ -11340,7 +11342,7 @@ L'incantatore deve conoscere l'incantesimo che inserisce nella pozione.
 
 Talento di creazione oggetto richiesto: Distillare Pozioni
 
-Competenza usata nella creazione: Sapienza Magica o Artigianato (alchimia).
+Competenza usata nella creazione: Arcana o Professione (Alchimista).
 
 \subsection{Creare Verghe}\index{Creare Verghe}\index{Verghe}
 
