@@ -124,7 +124,7 @@ Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - C
 
 18/05/2021 STAMPA
 
-*1.1.0* pubblicato su github 1.0.8, aggiornata versione manuale
+*1.1.0* pubblicato su github 1.0.8, aggiornata versione manuale,
 
 immagini oggetti maledetti
 
