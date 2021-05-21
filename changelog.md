@@ -124,9 +124,9 @@ Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - C
 
 18/05/2021 STAMPA
 
-*1.1.0* pubblicato su github 1.0.8, aggiornata versione manuale, avvio rilettura, diverse correzioni minori, rimosso persuadere e raggidare e sostituiti con ingannare, chiarimenti su competenze, chiarezza su punteggi di Consapevolezza, 
+*1.1.0* pubblicato su github 1.0.8, aggiornata versione manuale, avvio rilettura, diverse correzioni minori, rimosso persuadere e raggidare e sostituiti con ingannare, chiarimenti su competenze, chiarezza su punteggi di Consapevolezza, chiarimenti su competenza magica
 
-immagini oggetti maledetti
+rilettura costruiamo il personaggio
 
 Obiettivi: revisione immagini, ridurre numero incantesimi, ridurre complessità e fare che le regole siano piu' universali senza che siano necessari chiarimenti ed eccezioni, rendere il sistema piu' osr, migliorare il font, valutare se rimuovere o riscrivere completamente avventure in acqua-citta'-disastri-dungeon-pericoli avventura per una maggiore rispondenza alla ogl,
 
