@@ -124,9 +124,9 @@ Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - C
 
 18/05/2021 STAMPA
 
-*1.1.0* pubblicato su github 1.0.9, aggiornata versione manuale, avvio rilettura, diverse correzioni minori, rimosso persuadere e raggidare e sostituiti con ingannare, chiarimenti su competenze, chiarezza su punteggi di Consapevolezza, chiarimenti su competenza magica, precisato che sulla prova di iniziativa non valgono le golden rules, corretto Recupero da 0 PF, correzione in tc per incantesimi erroneamente segnato di sommare des e for, dettagli su combattimento, aggiornato indice, diversi chiarimenti a cavalcatura, chiarimenti su nascondiglie e coperture, corretto errore su lista armi palle rotanti, correzioni minori su lista d'armi, invertito ordine bonus su armi aggraziate, cambiato i bonus di lista arma aste, aggiunto bonus Saggezza della mano vuota a lista d'armi pugno nudo
+*1.1.0* pubblicato su github 1.0.9, aggiornata versione manuale, avvio rilettura, diverse correzioni minori, rimosso persuadere e raggidare e sostituiti con ingannare, chiarimenti su competenze, chiarezza su punteggi di Consapevolezza, chiarimenti su competenza magica, precisato che sulla prova di iniziativa non valgono le golden rules, corretto Recupero da 0 PF, correzione in tc per incantesimi erroneamente segnato di sommare des e for, dettagli su combattimento, aggiornato indice, diversi chiarimenti a cavalcatura, chiarimenti su nascondiglie e coperture, corretto errore su lista armi palle rotanti, correzioni minori su lista d'armi, invertito ordine bonus su armi aggraziate, cambiato i bonus di lista arma aste, aggiunto bonus Saggezza della mano vuota a lista d'armi pugno nudo, layout minore ad abilita', 
 
-rilettura cavalcatura
+rilettura abilita'
 
 Obiettivi: revisione immagini, ridurre numero incantesimi, ridurre complessità e fare che le regole siano piu' universali senza che siano necessari chiarimenti ed eccezioni, rendere il sistema piu' osr, migliorare il font, valutare se rimuovere o riscrivere completamente avventure in acqua-citta'-disastri-dungeon-pericoli avventura per una maggiore rispondenza alla ogl,
 
