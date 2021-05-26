@@ -1,0 +1,22 @@
+26/05/2021
+
+rileggendo l'equipaggiamento ho trovato una nota sulla lista pugno nudo, fatto il collegamento alla lista d'armi e qui mi sono accorto che i danni e punteggi necessari in lista non tornavano. Non solo non tornavano ma erano completamente sbagliati in pratica c'era il livello al posto del punteggio di CA!. Sistemato...
+Ho anche voluto indicare, prima mancava, il modificatore alla magia per le armature in pelle di drago (materiali speciali). Ho deciso che le armature di drago non danno penalita' alle prove di CM... Ardito ma mi piace, oltretutto e' una tipologia di materiale non solo rara ma che ha una storia (del drago..) dietro.
+
+
+25/05/2021
+
+Ho avviato questo diario di sviluppo solo oggi, ma e' molto che ci pensavo. Scrivero' commenti e pensieri relaviti allo sviluppo del sistema (DBS principalmente).
+
+Sono piuttosto contento della rilettura, sono riuscito a trovare numerose imprecisioni e a modificare, rendendo piu' lineare, diveri punti.
+La versione precedente, la 109, e' comunque buona e valida, ma come sempre l'ultima e' sempre meglio.
+Molto probabilmente dopo il termine di questa rilettura procedero' ad un altra stampa. E' assurdo quanti errori e correzioni si fanno ogni volta che si rilegge. 
+Ovvio che ogni volta rileggi con l'esperienza maturata ma mi rendo sempre piu' conto che un "professionista" o anche solo un esterno potrebbe trovare molte piu' imprecisioni considerando che e' estraneo al sistema.
+Tra i prossimi punti da fare c'e' la parte dei draghi e Yeru. Mi piacerebbe investire tempo e riuscire a creare qualcosa di significativo anche se il tempo a disposizione e' poco.
+Yeru puo' avere ottime potenzialita'.
+Sono molto piu' accorto nei commit, adesso compilo in "casa" e committo solo dopo un certo numero di modifiche oppure modifiche significative (o detta diversamente errori grossolani!).
+Ho aggiunto google analytics al progetto di github per avere una idea se sto lavorando solo per me stesso (ed il mio gruppo).. o per altri. Non che abbia chissa' quale velleita' pero' mi fa piacere vedere che il repository viene clonato!
+Spero che sia letto e che riceva feedback.
+Mi rendo conto che il sistema puo' essere visto con un continuo ed eccessivo cambiamento, ma ripeto, se volete giocare usate l'ultima versione pubblicata, pur con tutti i limiti che puo' avere e' comunque "stabile", poi.. quando volete passate alla versione dopo ma mi raccomando leggete il changelog per avere una idea di cosa e' cambiato, spesso sono cose sottili.
+L'ideale sarebbe che il Narratore seguisse lo sviluppo, e che ai giocatori venisse presentata solo la versione con cui si vuole giocare.
+Personalmente reputo la 1.1.0 un ottima versione anche se in fase di sviluppo. La rilettura e' ormai completa.
