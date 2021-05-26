@@ -3,6 +3,9 @@
 rileggendo l'equipaggiamento ho trovato una nota sulla lista pugno nudo, fatto il collegamento alla lista d'armi e qui mi sono accorto che i danni e punteggi necessari in lista non tornavano. Non solo non tornavano ma erano completamente sbagliati in pratica c'era il livello al posto del punteggio di CA!. Sistemato...
 Ho anche voluto indicare, prima mancava, il modificatore alla magia per le armature in pelle di drago (materiali speciali). Ho deciso che le armature di drago non danno penalita' alle prove di CM... Ardito ma mi piace, oltretutto e' una tipologia di materiale non solo rara ma che ha una storia (del drago..) dietro.
 
+Non leggero' gli incantesimi ne i mostri, quelli devono essere testati sul campo (anche se non vedo grossi motivi di preoccupazione).
+
+
 
 25/05/2021
 
