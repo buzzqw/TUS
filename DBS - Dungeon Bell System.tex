@@ -1881,7 +1881,7 @@ Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una
 
 	\item Una prova riuscita (base DC 13) in Pronto Soccorso per prendersi cura per 8 ore di un paziente fa recuperare a questo il doppio dei punti ferita ((CA+Costituzione)*2 con un minimo di 4) e concede un nuovo Tiro Salvezza su Tempra per resistere a Malattie o Veleni già in corso.
 
-	\item Per identificare una pozione e' necessario una prova di Erboristeria a DC 15.\\
+	\item Per identificare una pozione e' necessario una prova di Erboristeria a DC 12 + fattore di rarità della pianta.\\
 
 	\item Per riconoscere un oggetto magico e le sue capacità e' necessario l'incantesimo Identificare. Una prova di Arcana a Difficoltà 25 puo' dare indicazioni di massima sui poteri e ambiti di utilizzo.	      
 
@@ -7619,6 +7619,8 @@ La pelle di drago ha 10 Punti Ferita per 2,5 cm di spessore e Durezza 10. Solita
 
 \medskip
 
+\textbf{Le dimensioni contano...}\\
+
 A seconda delle dimensioni dell'oggetto questo puo' essere piu' o meno facile da colpire.
 
 \medskip
@@ -7629,7 +7631,7 @@ A seconda delle dimensioni dell'oggetto questo puo' essere piu' o meno facile da
 
 \begin{tabularx}{0.45\textwidth}{XXX}
 	\toprule
-	\textbf{Taglia e Difesa degli Oggetti} & \textbf{Modificatore Difesa} & \textbf{Dimensioni}\\
+	\textbf{Taglia degli Oggetti} & \textbf{Modificatore Difesa} & \textbf{Dimensioni}\\
 	Colossale                              & -8 &18m+\\
 	Mastodontica                           & -6 &9-18m\\
 	Enorme                                 & -4 &4-9m\\
@@ -7644,6 +7646,7 @@ A seconda delle dimensioni dell'oggetto questo puo' essere piu' o meno facile da
 \bigskip
 
 \textbf{Modificatore Difesa}\\
+
 Gli oggetti sono più facili da colpire delle creature poiché di solito non si muovono, ma molti sono abbastanza resistenti da scrollarsi di dosso qualche danno ad ogni colpo. La Difesa di un oggetto è pari a 10 + il suo modificatore di Taglia (vedi Tabella: Colpire un Oggetto) + il suo modificatore di Destrezza (caso mai ne avesse uno).
 
 Se si usano 3 Azioni per prendere la mira, si colpisce automaticamente con un'arma da mischia e si ottiene bonus +2d6 al colpire con un'arma a distanza.
@@ -7673,13 +7676,16 @@ Se si usano 3 Azioni per prendere la mira, si colpisce automaticamente con un'ar
 
 \textbf{Attacchi di Energia}: Gli attacchi di energia (fuoco, elettricità..) infliggono metà danno alla maggior parte degli oggetti; dividere per 2 i danni prima di applicare la Durezza. Alcuni tipi di energia possono essere particolarmente efficaci contro certi oggetti, a discrezione del Narratore.\\
 Per esempio, il fuoco potrebbe infliggere danno pieno a pergamene, stoffa e altri oggetti che bruciano facilmente. Un attacco sonoro potrebbe causare danno pieno (massimo valore dei dadi) ad oggetti di vetro e cristallo o ceramiche.\\
+Ricordatevi che un danno da Luce e' per metà Energia Positiva e per metà Fuoco, mentre il Vuoto e' per metà Freddo e per metà Energia Negativa.\\
+Energia Negativa o Positiva non danneggiano gli oggetti, solo le creature viventi o meno.\\
+
 
 \textbf{Danni da Armi a Distanza}: Gli oggetti subiscono la metà dei danni da un'arma a distanza (tranne che per le Macchine d'Assedio e simili). Dividere per 2 i danni prima di applicare la Durezza dell'oggetto.\\
 
 \textbf{Armi Inefficaci}: Certe armi semplicemente non possono infliggere danni a certi oggetti. Per esempio, un'arma contundente non è in grado di tagliare una corda.
 Allo stesso modo è decisamente difficile abbattere una porta o un muro di pietra con la maggior parte delle armi da mischia, a meno che non siano specificamente ideate per farlo, come picconi e martelli.\\
 
-\textbf{Immunità}: Gli oggetti inanimati sono immuni ai Danni Non Letali e ai Colpi Critici. Anche gli oggetti animati, se non considerati come delle creature, hanno queste immunità.\\
+\textbf{Immunità}: Gli oggetti inanimati sono immuni ai Danni Non Letali e ai Colpi Critici (ma non all'esplosione del danno). Anche gli oggetti animati, se non considerati come delle creature, hanno queste immunità.\\
 
 \textbf{Vulnerabilità a Certi Attacchi}: Certi attacchi possono essere particolarmente efficaci contro alcuni oggetti. In questi casi gli attacchi infliggono danni raddoppiati e possono ignorare la Durezza dell'oggetto.\\
 
@@ -7691,11 +7697,11 @@ Un oggetto custodito da un personaggio (che lo tenga in mano, lo tocchi o lo ind
 
 \textbf{Gli Oggetti Magici hanno sempre Tiro Salvezza}. Il bonus ai Tiri Salvezza su Tempra, Riflessi o Volontà di un Oggetti Magico sono pari a 2 + metà Livello dell'incantatore che li ha creati.
 
-Gli Oggetti Magici custoditi (indossati) effettuano i Tiri Salvezza come il loro possessore oppure usano i loro Tiri Salvezza, quali che siano i migliori.\\
+Gli Oggetti Magici custoditi (indossati) effettuano i Tiri Salvezza come il loro possessore oppure usano i loro Tiri Salvezza, quali che siano i migliori. Tranne se un effetto influenza specificatamente l'oggetto magico e non chi lo indossa si considera che il risultato del Tiro Salvezza di chi lo indossa sia il risultato anche del Tiro Salvezza dell'oggetto.\\
 
 \medskip
 
-\textbf{Tabella: Durezza, Punti Ferita e DC per Rompere Oggetti}\index{Tabella Durezza, Punti Ferita e DC per Rompere Oggetti}\\
+\textbf{Tabella: Durezza, Punti Ferita e DC Forza per Rompere Oggetti}\index{Tabella Durezza, Punti Ferita e DC Forza per Rompere Oggetti}\\
 
 \medskip
 
@@ -7757,7 +7763,8 @@ Un piede di porco o un ariete portatile aumentano la probabilità del personaggi
 \subsubsection{Tabella: DC per Rompere o Forzare oggetti - Prova di Forza}\index{Tabella DC per Rompere o Forzare oggetti - Prova di Forza}
 
 \label{tabella-dc-per-rompere-o-forzare-oggetti---prova-di-Forza}
-\bigskip
+
+\medskip
 
 \begin{tabularx}{0.45\textwidth}{Xl}
 	\toprule
@@ -7777,7 +7784,8 @@ Un piede di porco o un ariete portatile aumentano la probabilità del personaggi
 \medskip
 
 \begin{center}
-	\includegraphics[width=0.35\linewidth]{immagini/portarinforzata2.png}
+	\includegraphics[width=0.25\linewidth]{immagini/portarinforzata2.png}\\
+	\textit{Porta robusta}
 \end{center}
 
 
@@ -9848,7 +9856,7 @@ Mentre si stava ponendo tutte queste domande... il veleno fece il suo effetto e 
 Non tutti i veleni sono tossici se ingeriti o inalati.\\
 I veleni possono essere divisi in base al metodo con il quale devono venire in contatto con la vittima.\\
 
-Per identificare una pozione e' necessario una prova di Erboristeria a DC 15.\\
+Per identificare una pozione e' necessario una prova di Erboristeria a DC 12 + la rarità della pianta oppure in caso di Veleni la difficoltà è pari al Tiro Salvezza dello stesso.\\
 
 Le pozioni se non descritto diversamente devono essere bevute (ingestione).
 
