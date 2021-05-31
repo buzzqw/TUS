@@ -1,3 +1,11 @@
+31/05/2021
+
+riletto tutto, a parte il capitolo sui piani.
+conto entro il 4 giugno di rilasciare la 1.1.0. Questa versione che andra' anche in stampa si puo' definire il punto di partenza per la fase definitiva di collaudo e play testing.
+Il sistema e' molto maturato e reso piu' omogeneo, sono stati tolte e smussate numerosissime imprecisioni rendendo il sistema piu' coerente.
+Per come e' nato e sviluppato ci saranno sempre costantemente piccoli cambiamenti e migliorie, non mi piace un gioco troppo statico, ma confermo che eventuali altri cambiamenti dovranno riguardare una versione diversa per non obbligare i giocatori a prendere piu' versioni dello stesso manuale.
+Un approccio utile sarebbe avere un changelog manutenuto da un appassionato che sappia "tradurre" i commit in differenze per produrre un documento leggibile e funzionale.
+
 29/05/2021
 
 la rilettura procede bene. nella sezione trappole, veleni e movimento non ho trovato grossi errori, qualche chiarimento da fare o riferimenti alla distanza in mischia/media...
