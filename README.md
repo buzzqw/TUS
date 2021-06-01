@@ -7,7 +7,8 @@ TUS e' il sistema, un po' confuso (difficile) forse nella magia da cui e' disces
 
 DBS prende l'impalcatura (competenze, combattimento, tratti, patroni) di TUS e sostituisce la parte piu' complessa, quella della magia con un sistema di base 5ed modificata pesantemente.
 
-DBS e' il sistema attualmente sviluppato e giocato, TUS viene lasciato per coerenza storica.
+**DBS e' il sistema attualmente sviluppato e giocato, TUS viene lasciato per coerenza storica.
+Entrate nella cartella DBS e scaricate il PDF del manuale e della scheda!**
 
 Entrambi i sistemi vengono forniti in file sorgente in formato TEX e compilato in PDF.
 

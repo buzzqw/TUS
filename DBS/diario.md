@@ -1,3 +1,8 @@
+01/06/2021
+
+delirio! la mia poca conoscenza di git mi ha fatto dannare!
+ho voluto sistemare il repository dividendo per cartella TUS e DBS, per quanto si facile a livello di file system su git e' roba diversa...
+
 31/05/2021
 
 riletto tutto, a parte il capitolo sui piani.
