@@ -10,7 +10,19 @@ rsync -a $HOME"/Dropbox/Federica/Nuove avventure di una fatina.odt" /home/azanza
 
 git config --global credential.helper cache
 git add "/home/azanzani/TUS/"
-git add "/home/azanzani/DBS/"
+git add "/home/azanzani/DBS/changelog.md"
+git add "/home/azanzani/DBS/CODE_OF_CONDUCT.md"
+git add "/home/azanzani/DBS/copertina.png"
+git add "/home/azanzani/DBS/immagini/"
+git add "/home/azanzani/DBS/DBS-abilita-arma-armature.tex"
+git add "/home/azanzani/DBS/DBS - Dungeon Bell System.tex"
+git add "/home/azanzani/DBS/DBS-magia-alternativa.tex"
+git add "/home/azanzani/DBS/DBS-monstruos-chapter.tex"
+git add "/home/azanzani/DBS/DBS-scheda.ods"
+git add "/home/azanzani/DBS/DBS-scheda.pdf"
+git add "/home/azanzani/DBS/diario.md"
+git add "/home/azanzani/DBS/LICENSE.md"
+
 git add "/home/azanzani/altro/"
 #git add "/home/azanzani/TUS/immagini/*"
 #git add "DBS-schedav6.ods"
