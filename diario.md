@@ -5,6 +5,7 @@ Ho anche voluto indicare, prima mancava, il modificatore alla magia per le armat
 
 Non leggero' gli incantesimi ne i mostri, quelli devono essere testati sul campo (anche se non vedo grossi motivi di preoccupazione).
 
+Terminato il giro di lettura sara' interessante effettuare un altro giro pesante di playtesting.
 
 
 25/05/2021
