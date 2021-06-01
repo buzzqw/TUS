@@ -1,0 +1,1964 @@
+\documentclass[a4paper,10 pt,twoside,openany]{book}
+\usepackage{quoting}
+\usepackage{tcolorbox}
+\usepackage{tikz}
+\usetikzlibrary{shadows}
+\usepackage{multicol}
+\usepackage{tocloft}
+\usepackage{lmodern}
+\usepackage{caption}
+\usepackage[utf8]{inputenc}
+%\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage[a4paper]{geometry}
+\geometry{verbose,tmargin=2cm,bmargin=2.5cm,lmargin=1.5cm,rmargin=2cm}
+\setcounter{secnumdepth}{-1}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage[italian]{babel}
+\usepackage{setspace}
+\usepackage{graphicx}
+\PassOptionsToPackage{normalem}{ulem}
+\usepackage{ulem}
+\usepackage{makeidx}
+\usepackage{multirow}
+\usepackage{titlesec}
+\usepackage{textcomp}
+\usepackage{background}
+\usepackage[unicode=true,
+bookmarks=true,
+pdftitle={DBS - Dungeon Bell System},pdfauthor={Andres Zanzani},
+breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
+{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
+\usepackage{bookmark}
+%\usepackage{tgbonum}
+%\usepackage{baskervald}
+\usepackage{accanthis}
+\usepackage{palatino}
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins}
+\tcbset{colback=brown!10, fonttitle=\scshape}
+\usepackage{imakeidx}
+\usepackage{cancel}
+\makeindex[columns=3, title=Indice Analitico, intoc=true]
+
+
+\fancyhf{} % clear all header and footers
+\renewcommand{\headrulewidth}{0pt} % remove the header rule
+\pagestyle{fancy}
+\fancyfoot[C]{\thepage}
+
+\usepackage{xltabular}
+\usepackage{tabularx}
+%\usepackage{longtable}
+\usepackage{pdfpages}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{lettrine}
+
+
+%\usetikzlibrary{backgrounds,calc}
+%\pgfdeclarelayer{background}
+%\pgfdeclarelayer{foreground}
+%\pgfsetlayers{background,main,foreground}  
+%\pdfminorversion=5
+%%\makeatletter
+%%\makeatother
+\raggedbottom
+
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{D}[1]{>{\centering}m{#1}}
+
+
+\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
+\titleformat{\subsection}{\large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
+\titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
+
+\setcounter{tocdepth}{3}
+
+\newtcolorbox{note}{
+	enhanced, % enable advanced settings
+	left = 10mm, % pushes text away from the left edge by 10mm
+	sharp corners, % disables rounded corners
+	rounded corners = southeast, % "round" the bottom right corner
+	arc is angular, % make the "round" corner an angle
+	arc = 3mm, % controls corner cut
+	boxrule=0.6pt, % sets box line thickness
+	underlay={%
+		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+		
+	},
+	drop fuzzy shadow % adds drop shadow
+}
+
+\newtcolorbox{esempio}{
+	enhanced,
+	title = Example,
+	before upper={\parindent15pt\noindent} % add paragraph indentation
+}
+
+%\backgroundsetup{
+%	scale=1,
+%	color=black,
+%	opacity=0.4,
+%	angle=0,
+%	contents={%
+%		\includegraphics[width=\paperwidth,height=\paperheight]{paper.jpg}
+%	}%
+%}
+
+%\backgroundsetup{
+%	scale=1,
+%	angle=0,
+%	opacity=1,
+%	color=black,
+%	contents={\begin{tikzpicture}[overlay]
+%			\node at ([xshift=6cm,yshift=-2.5cm] current page.north east)
+%			{\includegraphics[width = 3cm]{destra.png}};
+%			node at (([xshift=6cm,yshift=-2cm] current page.north west)
+%			{\includegraphics[width = 3cm]{sinistra.png}} ;
+%			node at (([xshift=-12cm,yshift=-2.5cm]current page.south west)
+%			{\includegraphics[width = 3cm]{sinistra2.png}} ;
+%			node at ([xshift=-18cm,yshift=-2.5cm] current page.south east)
+%			{\includegraphics[width = 3cm]{destra2.png}};
+%	\end{tikzpicture}}
+%	contents={\includegraphics[width=\paperwidth,height=\paperheight]{paper.jpg}}
+%}
+
+
+\backgroundsetup{contents={}}
+
+
+\begin{document}
+	
+	
+	\title{Dungeon Bell System (DBS)\\\vspace{1cm}The Old Magic}
+	\date{\today\\
+		\includegraphics[bb=0 0 1148 636,width=6.85139in,height=3.79514in]{copertina.png}}
+	\author{Andres Zanzani}
+	\maketitle
+	\thispagestyle{empty}
+	
+    \newpage~
+	
+	%%\normalsize
+	
+	%%\linespread{1.5}
+	
+	
+	\setcounter{page}{1}
+	\pagebreak
+	
+	\begin{multicols}{2}  
+		{\small \tableofcontents{}}
+	\end{multicols}
+	
+	\pagebreak{}
+
+
+
+\section{La Magia}\index{Magia}\index{Essenza}
+
+
+\label{la-magia}
+\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+		"Le parole sono, nella mia NON modesta opinione, la nostra massima ed inesauribile fonte di magia. In grado sia di infliggere dolore che di alleviarlo" (Albus Silente)\\\\
+		Non lascerai vivere colei che pratica la magia. (Libro dell'Esodo)} \end{tcolorbox} \medskip
+
+\begin{note}
+	In questo volumetto troverete le regole ed il funzionamento della Vecchia Magia, come era chiamata in Yeru; un metodo oramai perso, di cui pochissimi rammentano l'esistenza e meno ancora lo sanno usare\\
+
+	Le \textit{Essenze} sono la magia declinabile tramite l'associazione Verbo - Nome, ovvero la possibilità di creare effetti magici associando un verbo (creare, distruggere, muovere..) ad un nome (persona, oggetto, elemento..). Questo sistema e' meno intuitivo nei primi utilizzi eppure una volta entrati nel processo creativo vi renderete conto di avere la possibilità di fare quasi tutto.\\	
+	
+	\textbf{Tutte le regole qui presentate sostituiscono in toto le il sistema magico di DBS.}
+	
+\end{note}
+
+\subsection{Le Essenze}
+
+Si intende incantatore o mago qualsiasi usufruitore di Essenze a qualsiasi titolo ed uso.
+
+La Magia ci circonda ed è accessibile, ma non tutti sanno dominarla e chi non la sa dominare ne viene dominato.
+
+Sono considerazioni false, ma difficilmente contraddicibili al popolino.
+
+Tra una levatrice che segue Atherim, un cavaliere di Sumkjr ed un negromante di Sixiser o una spia di Shayalia ci sono notevoli differenze di pensiero, comportamento ed azione.
+
+Non sempre chi si dice di essere fedele ad un Patrono lo è o peggio lo è di qualcun' altro.
+
+Bisogna sempre prestare attenzione ad un Devoto, i suoi comportamenti seguono interessi non sempre lineari od ovvi.
+
+Solo essendo un Devoto si hanno i bonus concessi dal Patrono. \index{Devoto}
+
+Le Essenze scelte possono essere solo quelle offerte dal Patrono prescelto.
+
+Se hai scelto di essere un Devoto,\index{Devoto} quindi hai almeno 3 tratti in comune, dovrà scegliere le Essenze del suo Patrono con le limitazioni e vantaggi indicati.
+
+Se hai scelto di essere un Seguace \index{Seguace}allora hai almeno 2 tratti in comune, puoi scegliere tra tutte le Essenze che preferisci e non hai ne svantaggi ne vantaggi.
+
+\subsubsection{Competenza Magica ed Essenza}\index{Competenza Magica}\index{Essenza}
+
+\label{competenza-magica-ed-essenza}
+
+Ogni qual volta il personaggio attribuisce un punto alla Competenza Magica può decidere se aggiungere due Essenze a quelle da lui conosciute, oppure attribuire un +1 ai check di magia ad una Essenza già conosciuta (bonus di specializzazione).
+
+Quando deve fare una prova magia su una Essenza appresa ma non come specialista tirerà 3d6 + punteggio di Competenza Magica + caratteristica collegata + vari ed eventuali.
+
+Quando deve fare una prova magia su una Essenza in cui ha dedicato una competenza aggiuntiva tirerà 3d6 + Competenza Magica + Bonus di specializzazione + caratteristica collegata + vari ed eventuali.
+
+\bigskip
+
+\textbf{Es. Un incantatore di 6 livello ha un punteggio di 6 in Competenza Magica} ed ha attribuito i suoi punti in questa maniera
+
+Essenza Alterare (non ha assegnato punti aggiuntivi, ha preso solo l'Essenza)
+
+Essenza Attacco +1 +1 +1
+
+Essenza Rivelazione
+
+Essenza Cura +1
+
+Se deve usare una Essenza di Alterare o Rivelazione potrà fare una prova di CM a +6 (più caratteristica collegata), se deve fare una prova magia su Attacco il suo punteggio di CM è 6+1+1+1 (più la caratteristica collegata), mentre su Cura ha 6+1 (più la caratteristica collegata).
+
+Questo bonus di specializzazione si somma anche nelle prove di Concentrazione che riguardino questa essenza.
+
+\bigskip
+
+\textbf{Un incantatore di 8 livello invece ha diviso 4 punti di Competenza
+	Magica in questa maniera}:
+
+Essenza Cura +1
+
+Essenza Creazione
+
+Essenza Protezione
+
+Essenza Difesa +1
+
+L'Essenza di Creazione e Protezione userà un CM a +4, per la Cura e Difesa a +5 e caratteristica collegata.
+
+\bigskip
+
+\textbf{Il punteggio di specializzazione che una Essenza può avere deve essere inferiore o pari a metà del valore di Competenza Magica}. Es. se hai CM a 4 il bonus di specializzazione massimo ad una singola Essenza può essere +2
+
+\subsubsection{Le regole delle Essenze}\index{regole delle Essenze}
+
+\label{le-regole-delle-essenze}
+
+Ci sono dei punti fermi, delle regole che sovrintendono la magia e queste sono:
+\begin{itemize}
+	\item Non è permesso riportare in vita i morti. Solo un Patrono può restituire l'anima ad un corpo.
+	
+	\item Non è permesso creare vita
+	
+	\item Declama la tua magia o non funzionerà
+	
+\end{itemize}
+
+\subsubsection{Creature ed Elementi}\index{Creature ed Elementi}
+
+\label{creature-ed-elementi}
+
+Ogni Essenza che si va a formulare ha un ambito di applicazione che riguarda \textbf{Creature} (a loro volta divise in \textbf{Creature Naturali}, \textbf{Creature Magiche}), \textbf{Elementi}, \textbf{Energia, Concetto o Virtu'}.\index{Creature Naturali}
+\index{Creature}\index{Magiche}\index{Elementi}\index{Energia}\index{Concetto}\index{Virtu}
+\bigskip
+
+Le \textbf{Creature Naturali} sono Insetti, Rettili, Bestie, Umanoidi, Piante, Creature acquatiche, Monstrusità, Melme.
+
+Le \textbf{Creature Magiche} sono: Immondi, Fatati, Spiriti, Non morti, Giganti, Celestiali, Costrutti, Aberrazioni (tutto ciò che e' alieno o innaturale) e Draghi.
+
+Se una Creatura Naturale ha poteri magici allora si considera anche come Creatura Magica.
+
+Una descrizione piu' completa di questi "mostri" la trovate nel Capito delle Mostruosità.
+
+Gli \textbf{Elementi} sono: Acqua, Terra, Aria, Metallo, Legno, Ghiaccio, Nebbia
+
+I \textbf{Concetti} sono: Spazio, Tempo, Essenza
+
+\textbf{Energia} comprende: Fuoco, Luce, Suono, Elettricità, Energia Positiva, Energia Negativa, Freddo, Vuoto.
+
+Le \textbf{Virtù} comprendono i Tratti
+
+
+\bigskip
+
+\textbf{Tabella Raggruppamenti Elementi e Creature}
+
+\medskip
+\begin{tabular}{llllll}
+	\toprule
+	\multicolumn{2}{c}{\textbf{Creature}} &\multirow{2}{*}{\textbf{Energia}}  &\multirow{2}{*}{\textbf{Elementi}}  
+	&\multirow{2}{*}{\textbf{Concetto}} &\multirow{2}{*}{\textbf{Virtù}}\\
+	\textit{Naturali}& \textit{Magiche} \\
+	\hline
+	\\
+	Acquatiche  & Immondo   	& Fuoco  			& Acqua 	& Spazio    & Tratti\\
+	Piante      & Fatati   		& Suono  			& Aria   	& Tempo    	& \\
+	Rettili     & Spiriti   	& Elettricità      	& Terra     & Essenza   & \\
+	Umanoidi    & Non Morti 	& Energia Positiva 	& Legno     & 			& \\
+	Bestie   	& Aberrazioni   & Energia Negativa 	& Metallo   &  			& \\
+	Insetti		& Draghi		& Luce				& Ghiaccio 	&			& \\
+	Mostruosità & Giganti     	& Vuoto  			& Nebbia 	&           & \\
+	Melme		& Celestiali    & Freddo 			&		    &           & \\
+	& Costrutti     &        			&		    &           & \\
+\end{tabular}
+
+\bigskip
+
+Nelle specifiche delle Essenze troverete se queste lavorano su Elementi, Creature Naturali o Magiche, Energia, Concetti o Virtù o solo specifiche componenti di queste.
+
+Il danno causato da \textbf{Luce} e' per metà da fuoco e per metà da energia positiva, ovvero una resistenza al fuoco od all'energia positiva si applica solo su metà del danno causato dall'attacco.
+
+Il danno causato da \textbf{Vuoto} e' per metà da freddo e per metà da energia negativa, eventuali protezioni si applicano alle rispettive metà del danno.
+
+\subsubsection{Caratteristiche base delle Essenze}\index{Caratteristiche base delle Essenze}
+
+\label{caratteristiche-base-delle-essenze}
+
+Ogni magia che si va a creare ha queste caratteristiche di base:
+
+\smallskip
+
+\textbf{Tempo di lancio}: due Azioni\index{Tempo di lancio}
+
+\textbf{Durata}: istantanea\index{Durata}
+
+\textbf{Distanza}: distanza di mischia (a tocco)\index{Distanza}
+
+\textbf{Area di Effetto}: 1 creatura \index{Area di Effetto}
+
+\textbf{Obiettivi}: quando lanci una Essenza determina se l'obiettivo è una Creatura o Elemento oppure un punto nello spazio entro la distanza stabilita.\index{Obiettivi}
+
+\textbf{Obiettivi Speciali}:\index{Obiettivi Speciali} puoi anche lanciare una Essenza su un oggetto e la prima creatura che toccherà l'oggetto diventerà l'obiettivo della magia. La durata rimane limitata ad un minuto ed a costo 3.
+
+\textbf{Potenziamenti}: l'incantatore decide di potenziare una Essenza come preferisce, aumentando la difficoltà di esecuzione della stessa. Consultare l'elenco per i dettagli\index{Potenziamenti}
+
+\textbf{Sommando le varie caratteristiche di base della magia si determina la difficoltà totale da superare con una prova su CM + Punteggio Caratteristica correlata all'Essenza + Bonus.}
+
+\textbf{Solo in caso di superamento si riesce a lanciare la magia e si verifica che livello di potere di potere si è raggiunto (una volta sottratta la difficoltà)}
+
+Di base una formulazione magica sarà: applico l'Essenza X alla/e Creatura o Elemento Z o area che si trova Y distante.
+
+\subsubsection{Tiro per Colpire ed Essenze}\index{Tiro per Colpire ed Essenze}
+
+Quando la l'Area di Effetto e' una creatura ovvero la magia deve colpire una sola creatura e' necessario un Tiro per Colpire.\\
+Questo Tiro per Colpire e' contro la Difesa a Tocco sia che l'Essenza venga consegnata tramite Tocco (ovvero la distanza e' mischia. TC su Potenza) oppure se la Distanza e' oltre alla mischia (TC su Agilità).\\
+Se il TC va a segno allora la creatura farà il Tiro Salvezza del caso.
+Quando l'Area di Effetto e' data da piu' singoli soggetti (selezionati) devo fare un TC per ogni avversario.
+
+Quando l'Area di Effetto e' ad area non e' necessario effettuare un TC se non per difficili e specificate aree, ovvero si mira in una area ben circoscritta.
+
+
+\subsubsection{Recitare l'Essenza}\index{Recitare l'Essenza}\index{Recitare}
+
+\label{recitare-lessenza}
+
+Può sembrare sciocco o inutile ma se un giocatore non recita la sua Essenza questa non funzionerà.
+
+In TUS la magia è libera e freeform basata sul Verbo-Nome, ovvero non ci sono liste di incantesimi, ogni giocatore si inventa gli effetti che vuole, prendendo ispirazione (e limiti) dalle linee guida della Essenza.
+
+Il giocatore declamera la sua Essenza dichiarando che Essenza e a cosa la applica e formulerà la magia "Crea - Fuoco. Possa questa piana ardere come il Deserto di Fiamma di Daruk-Yum" ed in base alla prova effettuata vedrà se va a fuoco veramente oppure è poco più di una candela.
+
+Il giocatore come visto sopra, e dettagliato successivamente, stabilisce il Verbo (l'Essenza) e il nome (su cosa applicarla) e poi sarà la prova di magia a stabilire quanto viene influenzato (l'effetto, ovvero il Livello di Potere) l'obiettivo.
+
+Il Narratore deve preoccuparsi di fare declamare sempre l'Essenza, questo perché aiuta a comprendere cosa si vuole ottenere dall'Essenza, cosa che i fattori numerici (distanza, obiettivo, durata... ) non descrivono accuratamente.
+
+\subsubsection{Potenziamenti delle Caratteristiche dell'Essenza}\index{Potenziamenti delle Caratteristiche dell'Essenza}
+
+\label{potenziamenti-delle-caratteristiche-dellessenza}
+
+I potenziamenti definiscono e migliorano la magia che si va a lanciare; questi possono riguardare Distanza, Area di effetto, Contingenza, Selezione, Durata.
+
+La tabella va usata per determinare per ogni singolo fattore (Durata, Distanza, Obiettivo - Area di Effetto (AoE)) e si sommano le relative Difficoltà trovate.
+A questo valore si sottrae l'eventuale riduzione dato dal Tempo di Lancio
+
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lXXXXX}
+	\hline
+	\textbf{Difficoltà} &\textbf{Durata} &\textbf{Distanza} &\textbf{Obiettivo/AoE} & \textbf{Volume/Massa} &\textbf{Tempo di Lancio (riduzione)} \\
+	\hline
+	0	& Istantanea		& Tocco	& Se Stesso&& 2 Azioni\\
+	\hline
+	+1	& Concentrazione - 1r*CM	& 3 metri& 1 obiettivo&& 1 round\\
+	\hline
+	+2	& 1 minuto	& entro 10 metri&2 obiettivo - 3m/r&& 3 round\\
+	\hline
+	+3	&	10 minuti& entro 50 metri& 3 obiettivi - 3m/r&& 5 round\\
+	\hline
+	+4	& 20 minuti	& entro 100 metri&4 obiettivi - 6m/r &&1 minuto\\
+	\hline
+	+5&30 minuti&entro 250 metri&5 obiettivi - 6 m/r&&5 minuti\\
+	\hline
+	+6&45 minuti&&6 target - 8 m/r&&1 turno (10 minuti)\\
+	\hline
+	+7&1 ora&entro 500 metri&7 obiettivi - 8m/r&&1 ora\\
+	\hline
+	+8&4 ore&entro 700 metri&8 obiettivi - 10m/r&&3 ore\\
+	\hline
+	+9&6 ore&entro 1000 metri&9 obiettivi - 10m/r&&6 ore\\
+	\hline	
+	+11&12 ore&entro 3 km&11 obiettivi - 12m/r& 10cm\^{}3/100gr&1 giorno\\
+	\hline	
+	+13&1 giorno&entro 5 km&&20cm\^{}3/500gr&1 settimana\\
+	\hline	
+	+16&1 settimana&entro 10 Km&13 obiettivi - 14m/r&50cm\^{}3/3kg&1 mese\\
+	\hline	
+	+19&10 giorni&entro 20 Km&16 obiettivi - 18m/r&1m\^{}3/25kg&\\
+	\hline	
+	+20&2 settimane&entro 50 Km&20 obiettivi - 22 m/r&&-\\
+	\hline	
+	+22&3 settimane&entro 70 Km&50 obiettivi - 18m/r&2CB/100kg&\\
+	\hline	
+	+25&1 mese&entro 100 Km&una piccola città&4CB/200kg&\\
+	\hline	
+	+28&3 mesi&entro 150 Km&una città&8CB/400kg&\\
+	\hline	
+	+30&6 mesi&entro 250 Km&una grande città&&-\\
+	\hline	
+	+31&8 mesi&entro 300 Km&una regione'&16CB/800kg&-\\
+	\hline	
+	+34&9 mesi&entro 350 Km&una regione grande&32CB/1.6ton&-\\
+	\hline	
+	+37&11 mesi&entro 450 Km&una regione grande&64CB/3.2ton&-\\
+	\hline	
+	+40&1 anno&entro 500 Km&un continente&&-\\
+	\hline	
+	+43&5 anni&entro 1000 Km&piu' continenti&128CB/6.4ton&-\\
+	\hline	
+	+60&permanente&il pianeta&il pianeta&&-\\
+	\hline	
+\end{tabularx}
+\bigskip
+
+\textbf{Durata} \index{Durata}: per Durata di una Essenza si intende sia quanto dura l'effetto sia quanto lo si può trattenere sia la possibilità di attivarlo a posteriori prima che debba manifestarsi. Un incantatore può trattenere un numero di round pari al suo valore in Competenza Magica + Intelletto.
+
+L'Essenza di Cura e Attacco hanno sempre durata Istantanea ovvero producono gli effetti e cessano di essere attivi e possono essere attivati (contingenza) o manifestati (concentrazione) in base alla Durata.
+
+La Distruzione di materia è \textbf{sempre permanente} come durata ed istantanea come effetto ed ha costo di +8.
+
+In caso di contingenza ovvero di lancio posticipato di una Essenza a seguito di un evento scatenante concordato, la difficoltà della Durata e' pari alla metà della difficoltà data della Durata stessa.
+
+Es. se voglio che una Cura mi si scateni entro il giorno (24 ore) appena scendo sotto i 10 PF la difficoltà aumenta di 7 (13/2).
+
+
+\textbf{Distanza} \index{Distanza}: Per Distanza si intende a che misura si deve manifestare l'Essenze.
+Qualsiasi distanza oltre se stessi o tocco, quindi in mischia, aumenta la difficoltà.
+
+
+\textbf{Obiettivo - Area di Effetto} \index{Target}\index{Area di Effetto}: 1 soggetto (+1): per ogni soggetto influenzato. Se il l'obiettivo e' di taglia superiore alla media la difficoltà diventà +2 per obiettivo.
+
+I soggetti influenzati dalla medesima essenza devono essere entro 3 metri dal primo obiettivo oppure è necessario operare tramite un area di effetto circolare (es in 3 metri di raggio.)
+
+Ogni +2 l'Area di Effetto aumenta di 3 metri.
+
+L'Area di Effetto solitamente si usa su Creature.
+
+\textbf{Volume/Massa}: le Essenze di Trasformazione, Creazione, Movimento, Distruzione agiscono su dei Volumi o Masse predefinite, non hanno un risultato varibile in base alla prova di magia effettuata a differenza di Attacco o Cura ad esempio.
+
+Per queste Essenze una volta calcolate le Difficoltà base e' sufficiente con la prova di magia superare di 13 le Difficoltà.
+
+Un risultato superiore a 13 nella prova di magia non otterà risultati concreti o oggettivi superiori ma il Narratore potrebbe decidere e farvi descrivere quanto bene e' venuto il risultato finale.
+
+La dicitura CB sta per Cubo Base, ovvero un cubo con spigolo 1m*1m*1m.
+
+\textbf{Deselezione} (+1)\index{deselezione}: con questo potenziamento escludi una creatura od oggetto dall'area di  effetto. Ogni +1 toglie una persona dagli effetti della magia (se Area di Effetto a Raggio).
+
+Es. voglio tirare una Fuoco Palla toroidale attorno a me. Pago +2 per i tre metri di raggio e +1 di Deselezione (mi escludo dall'esplosione).
+
+Es. voglio tirare una Fuoco Palla ai miei nemici intorno a me. Pago +4 (perché scelgo 4 soggetti) nella Area di Effetto e su ognuno di loro "cadrà" una Fuoco Palla di che interesserà solo loro singolarmente. I soggetti influenzati devono essere tutti nell'Area di Effetto. In questo caso l'area di effetto e' sempre singola per obiettivo.
+
+
+\textbf{Tempo di Lancio} \index{Tempo di lancio} \index{Riduzione costi}
+Aumentando significativamente il tempo di lancio  si puo' diminuire la difficoltà totale.
+Il valore di difficoltà ottenuto aumentando il tempo di lancio si somma alla prova di CM fatta.
+
+\subsubsection{Aree di effetto diverse}\index{Aree di effetto diverse}
+
+\label{aree-di-effetto-diverse}
+
+\textbf{L'Area di Effetto può essere non solo sferica, ma anche una linea od un cono.}
+
+L'usufruitore di magia potrà restringere l'area di effetto, fino ad essere uno spicchio (il cono) della circonferenza iniziale oppure una linea.
+
+La lunghezza dell'effetto in linea e' pari al doppio dell'Area di Effetto. Quindi un Essenza di Attacco con Area di Effetto 12m/r diventa una linea larga un metro (fisso) con lunghezza dal punto di origine (Distanza) di 24 metri.
+
+In caso di effetto a cono il punto di origine e' sempre il mago a la distanza raggiunta e' quella pari all'Area di Effetto mentre la parte finale e' pari alla metà dell'Area di Effetto.
+
+Es. Tramite l'Essenza di Creazione voglio creare uno sbuffo di vento a forma di cono.
+Con un Area di Effetto di 10m/r (Difficoltà 9) posso creare un cono che parte dalla mia mano e lungo 10 metri con una parte finale larga 5 metri.
+
+Tenete a disposizione dei segnalini per "disegnare" l'area di effetto.
+
+\subsubsection{Influenzati da più Essenze}\index{Influenzati da più Essenze}
+
+\label{influenzati-da-piu-essenze}
+
+Quando un personaggio è influenzato da \textbf{due o più effetti temporanei creati da Essenze} che danno lo stesso tipo di bonus, malus o danno (protezione verso fuoco, bonus alla Difesa o TS... , multiple palle di acido), si tiene conto solo di quella dal livello di potere maggiore.
+
+\subsubsection{Scegliere l'effetto dell'Essenza}\index{Scegliere l'effetto dell'Essenza}
+
+\label{scegliere-leffetto-dellessenza}
+
+Nella descrizione delle Essenze quando trovate per un livello di potere elencati più possibilità, dovete sceglierne uno solo.
+
+Esempio:
+
+\medskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	<11 & Rimuovi la condizione abbagliato\\
+	& Curi 1d6 pf
+\end{tabularx}
+
+oppure se sono separate da una {/}
+
+Esempio: \textit{19 - Attribuisci la condizione di: Malato / Accecato / Assordato / Esausto / Nauseato}
+
+\subsubsection{Altre regole}
+
+\label{altre-regole}
+
+\subsubsection{Attacco con Essenze non di Attacco}\index{Attacco con Essenze non di Attacco}
+
+Alcune Essenze implicano un danno anche se non sono Essenze di Attacco, come riportato negli esempi per Alterazione, ma concettualmente valido anche per altre Essenze
+
+Se l'incantatore acquisisce la capacità di un attacco (solitamente magico e non naturale) tramite una Trasformazione od una Alterazione, ma anche Creazione (vedi pioggia di fuoco..) potrà usare questi poteri dal round successivo facendo un danno di due categoria di Livello Potere immediatamente inferiore a quello ottenuto se fosse stato nella Essenza Attacco, se questo è di forma magica.
+
+Es. Creo un Muro di Fuoco, la magia ha successo e creo un muro con LP 25 (4 cubi base). Il danno per chi' attraversa o ci e' in contatto e' di 5d6, come se fosse una Essenza di Attacco a LP 19.
+
+Si deve considerare che la manifestazione dell'Essenza si completi e sia usabile dal round successivo. La manifestazione farà effetto il round successivo nella sequenza di iniziativa pari a quella del round precedente.
+
+Se acquisisce una forma di attacco naturale potrà comunque usare l'attacco dal round successivo con un danno coerente alla forma di attacco acquisito (morso, artiglio..).
+
+\subsubsection{Usare due Essenze concatenate}\index{Usare due Essenze concatenate}
+
+Ci sono situazioni in cui diviene necessario usare due Essenze una dietro l'altra, in questo caso il tempo di lancio aumenta in modo significativo.
+
+Partendo dal presupposto che si devono conteggiare i potenziamenti base (distanza, obiettivo, durata..) per ogni Essenza usata si deve fare un solo check di competenza magica con la difficoltà più alta. Il tempo di lancio aumenta di 2 round.
+
+Se quindi lanciare una magia di norma costa due Azioni, lanciare due Essenze porta il tempo di lancio a 3 round. Il Lancio di tre Essenze viene terminato alla fine dei 5 round. Il livello di potere raggiunto sarà il medesimo (essendo unica la difficoltà, quella maggiore) per tutte le magie accodate.
+
+\subsubsection{Essenze Cumulate}\index{Essenze Cumulate}
+
+Il giocatore potrebbe volere sommare in un unico lancio di magia piu' essenze.
+
+Ad esempio potrebbe declamare una magia di Attacco che insegua (Movimento) l'obiettivo, oppure una Illusione (Illusione) che effettivamente scaldi (Creazione fuoco).
+
+
+In questo caso si devono conteggiare un unica volta potenziamenti, e quindi la magia formulata anche se e' generata da due Essenze ha una sola comune distanza, obiettivo, durata.., il successo ottenuto (Prova di Magia - potenziamenti) va dimezzato e confrontato con i Livelli di Potere delle Essenze utilizzate.
+
+
+\subsubsection{Alterare le Essenze}\index{Alterare le Essenze}
+
+\label{alterare-le-essenze}
+
+Il mago può modificare a piacimento la difficoltà della magia che va a formulare tramite le proprie energie vitali.
+
+\begin{itemize}
+	\item
+	\textbf{Magia efficace}
+	Magia efficace: sacrificando PF puo’ aumentare la difficoltà a resistere alla magia
+	\begin{itemize}
+		\item Sacrificando 4 punti ferita la difficoltà del Tiro Salvezza aumenta di 1
+		\item Sacrificando 8 punti ferita la difficoltà del TS aumenta di 2		
+		\item Sacrificando 16 punti ferita la difficoltà del TS aumenta di 3
+	\end{itemize}
+\end{itemize}
+%
+\begin{itemize}
+	\item
+	\textbf{Magia eterea}: aumentando di 2 la difficoltà di lancio (ovvero tolgo 2 al risultato della prova di competenza magica) le proprie magie hanno pieno effetto su creature eteree o incorporee
+\end{itemize}
+%
+\begin{itemize}
+	\item
+	\textbf{Magia pietosa}: aumentando di 3 la difficoltà di lancio (ovvero tolgo 3 al risultato della prova di competenza magica) le magie infliggono danni temporanei. Le magie che infliggono danni di un tipo particolare (come da fuoco) infliggono danni temporanei dello stesso tipo.
+\end{itemize}
+
+\subsubsection{Esecuzione di Essenze in maniera collaborativa}\index{Esecuzione di Essenze in maniera collaborativa}\index{Collaborativa}
+
+Nel caso in cui si voglia usare un Essenza con una difficoltà totale non raggiungibile è possibile, sotto certi limiti, fare in modo che un gruppo di incantatori riesca nell'impresa.
+
+Si divide la difficoltà totale (DC) della Essenza da lanciare tra i vari incantatori (non più di 7 incantatori possono partecipare) ed ogni incantatore deve superare una prova pari al doppio della difficoltà ottenuta.
+
+Il tempo di lancio è di 1 round per ogni incantatore impegnato nella formulazione.
+
+Es. 5 incantatori vogliono lanciare una Protezione estesa e duratura, per un a difficoltà totale minima 32. In questa situazione ogni incantatore deve fare una prova di CM (32/5)x2= 14, ovvero ogni incantatore deve superare una prova di CM a difficoltà 14. Se anche un solo incantatore sbaglia la prova al termine del lancio dell'Essenza, dopo 5 round, questa fallirà e l'Essenza non sarà lanciata.
+
+\subsubsection{Tentare Essenza con impedimenti}\index{Tentare Essenza con impedimenti}\index{impedimenti}
+
+se mani e bocca sono bloccati l'incantatore non può formulare Essenze. Per usare una Essenza è necessario avere entrambe le mani e la bocca liberi.
+
+Aumentando di 5 la difficoltà puoi non usare le mani, se aumenta di 10 la difficoltà puoi non usare la bocca. Quindi se l'incantatore è legato ed imbavagliato può lanciare una Essenza con la sola forza del pensiero con una difficoltà aumentata di 15, ovvero la difficoltà base aumenta di 15.
+
+Una Essenza lanciata con impedimenti se non supera 11 come valore non ottiene l'effetto minimo dell'essenza (e si considera comunque formulata).
+
+\subsubsection{Riuscire e Fallire nella prova di Magia}\index{Riuscire e Fallire nella prova di Magia}
+
+\label{riuscire-e-fallire-nella-prova-di-magia}
+
+Per capire se si riesce nella Magia si deve innanzitutto superare, con una prova di Competenza Magica (3d6 + CM + Punteggio Caratteristica correlata all'Essenza + Bonus) il valore dato dalla somma ottenuta da Tempo di Lancio, Durata, Distanza, Area di Effetto/Obiettivi ai relativi valori scelti.
+
+Si sottrae al valore ottenuto nella prova di Competenza Magica la somma delle difficoltà base (Tempo di Lancio, Durata, Distanza, Area di Effetto/Obiettivi, Potenziamenti...) e si controlla il risultato nella colonna Livello di Potere dell'Essenza usata per verificarne l'effetto ottenuto.
+
+Nella tabella delle Essenza il primo livello di potere è indicato come "< xx", ovvero se si riesce a superare la difficoltà impostata dai fattori base ed il valore eccedente è inferiore a xx, si usa quel effetto.
+
+Se non si riesce a superare la difficoltà base l'Essenza non avrà effetto e manifestazione e sarà contata tra le Essenze usate nel giorno.
+
+In sintesi l'incantatore deve superare, con il suo check su Competenza Magica, la difficoltà data dai parametri base (Area di Effetto, Distanza, Durata, impedimenti..) se supera questo valore ha di sicuro ottenuto il valore minimo di effetto, controllando di quanto ha superato il valore capirà il livello di potere ottenuto.
+
+Il sistema privilegia un uso accorto e ragionato delle Essenze, il giocatore e' spinto a calcolare ed usare sempre il minimo sufficiente di Area di Effetto, Durata, Distanza proprio per ottenere il massimo effetto (piu' sono alti i fattori di base piu' e' probabile che il livello di potere ottenuto sia basso)
+Tentare una cura planetaria puo' essere divertente, ma e' solo uno spreco di Essenza, a meno di non essere un Patrono o quasi.
+
+\bigskip
+
+\textbf{Un incantatore può sempre scegliere un Livello di potere inferiore rispetto a quello ottenuto.}
+
+Ad esempio voglio shockare con l'elettricità un avversario:
+
+Distanza: nasce dal palmo della mano, ovvero ha come distanza massima mischia (tocco), difficoltà +0
+
+Area di Effetto: un solo obiettivo, difficoltà +1 (non e' 0 un quanto la magia agisce non su me stesso)
+
+Durata: 0, istantanea, difficoltà+0
+
+La difficoltà base è quindi 1, Se con la prova di magia ottengo 8 (o comunque 1 o piu') avrò il minimo effetto, ovvero uno shock da 1d6 di danno.
+
+\bigskip
+
+\textbf{Un incantatore può formulare nel giorno un numero di Essenze pari a (CM/2)+3.} \index{Magie al giorno}
+
+\textbf{Se nel lancio di una Essenza ottiene almeno un critico (esplosione di magia) non si computa questa Essenza per il numero di Essenze lanciabili al giorno.}
+
+Come si evince nessun incantatore ha il perfetto controllo delle Essenze dato che non può controllarne a pieno la forza.
+
+Portare un armatura senza le dovute competenze ed Abilità rende più difficile la prova di Competenza Magia. Vedere il capitolo armature per le penalità relative.
+
+\subsubsection{L'esplosione del 6 nella Magia}\index{esplosione del 6 nella Magia}
+
+\label{lesplosione-del-6-nella-magia}
+
+Anche nella prova di Competenza Magica i 6 esplodono, ma in maniera diversa.
+
+I 6 tirati nella prova di CM vengono ritirati, e ritirati ancora nel caso, ma qualsiasi 6 successivo ai primi tre tiri, anche se ritirati, non si somma per determinare il totale della prova di magia.
+
+Ogni due 6 tirati si aumenta di uno il livello di potere ottenuto, si scale al livello immediatamente successivo.
+
+Es. Tups vuole incenerire l'orchetto che lo sta caricando. La sua prova di Competenza Magica è data da 3d6 + 7. Tira con i dadi 6, 4, 3. Quindi la sua prova ha un totale di 20.
+
+Ritira poi il 6 ed ottiene un altro 6, ritira anche questo e ottiene un altro 6! La situazione è decisamente esplosiva!!! Ritira ancora e ottiene un 2.
+
+Con la prova di CM a 20 (si contano solo i primi 3d6 tirati piu' bonus di Intelletto e CM), data la distanza entro 10 metri (costo 2), la selezione (1 soggetto, costo 1) il danno è 5d6 ma avendo fatto ben tre 6 nel tiro il livello di potere aumenta di 1, arrivando il danno a ben 7d6. L'orchetto è incenerito a dovere!
+
+Per le prove di Competenza Magica l'uno non viene conteggiato, conta 0.
+
+\subsubsection{Tentare la sorte con la Magia}\index{Tentare la sorte con la Magia}
+
+\label{tentare-la-sorte-con-la-magia}
+
+Anche nella prova di competenza magica puoi Tentare la Sorte, ovvero rinunci ad un +4 di bonus (da CM, Intelletto, non da oggetti magici...) e aggiungi un d6 in più nel tiro della prova.
+
+\subsubsection{Resistere all'Essenza (Tiro Salvezza)}\index{Resistere all'Essenza}\index{Tiro Salvezza}
+
+\label{resistere-allessenza-tiro-salvezza}
+
+Una volta che la prova di magia è superata e quindi l'Essenza liberata, anche in base alla descrizione e note dell'Essenza, è possibile dimezzare o annullare l'effetto dell'Essenza.
+
+Il tiro salvezza richiesto, in base a quanto indicato nell'Essenza, ha difficoltà pari alla stessa prova superata dal incantatore con +3 per ogni due 6 ottenuti nella prova.
+
+Se il Tiro Salvezza riesce o fallisce di più di 10 (\textbf{successo critico}\index{Successo Critico} o \textbf{fallimento critico}\index{Fallimento Critico}) il Narratore potrà decidere di applicare svantaggi o vantaggi al risultato finale.\index{Più di 10}.
+
+Nella descrizione delle Essenze è indicato cosa succede in caso di riuscita o fallimento del Tiro Salvezza ed anche se e' possibile un successo o fallimento critico.
+
+\subsubsection{Più Essenze nello stesso round}\index{Più Essenze nello stesso round}
+
+Ad alti livelli un incantatore può usare i Livelli di Poteri inferiore con estrema facilità fino a poter usare più Essenze nello stesso round.
+
+L'incantatore può lanciare più Essenze nello stesso round purché la somma dei Livelli di Potere usati non superi il suo punteggio in CM+Intelletto.
+
+Questa capacità non è usufruibile prima di avere CM a 22
+
+\subsubsection{Mantenere la Concentrazione}\index{Mantenere di Concentrazione}\index{Concentrazione}
+
+Una Essenza formulata puo' essere conservata nel mago per 1 round per CM aumentando la Difficoltà di 1.
+Il mago non puo' pero' formulare altre Essenze finche' mantiene la concentrazione attiva.
+
+Quando vuole rilasciare l'Essenza formulata dovrà tirare l'iniziativa e rilasciarla al momento stabilito.
+
+La Durata in si intende di conservazione prima dell'effetto non di Durata dell'effetto.
+
+\subsubsection{Check di Concentrazione}\index{Check di Concentrazione}
+
+Se il mago viene è severamente distratto, impedito, disturbato, sotto attacco, mentre effettua una magia la prova di magia questa deve riuscire di almeno 15 altrimenti la "distrazione" e' stata tale da impedire il buon esito della magia.
+
+Se il mago e' colpito prima di lanciare una Essenza la prova stessa deve riuscire almeno 10 + danno subito altrimenti l'incantesimo non riesce.
+
+\subsubsection{Un ultimo suggerimento}
+
+L'ultimo consiglio è infine rivolto specificatamente ai Narratore, lasciate che i giocatori si esprimano inventando nuove magie e manifestazioni curiose e poco ortodosse. Cercate di valutarne la correttezza ricordando che le Essenza e come sono descritte vogliono essere degli esempi. Lo scopo finale è sempre e solo divertirsi.
+
+\subsubsection{Lista delle Essenze}\index{Lista delle Essenze}\index{Essenze}
+
+\begin{itemize}
+	
+	\item
+	\textbf{Alterare} (Intelletto): la capacità di alterare il corpo per dargli capacità o aspetto diverse o superiori\index{Alterare}
+	\item
+	\textbf{Attacco} (Intelletto): la capacità di utilizzare la magia per attaccare e fare danno\index{Attacco}
+	\item
+	\textbf{Charme} (Magnetismo): la capacità di controllare pensieri
+	ed emozioni di altre creature\index{Charme}
+	\item
+	\textbf{Convocazione} (Intelletto): la capacità di chiamare l'archetipo
+	della creatura.\index{Convocazione}
+	\item
+	\textbf{Creazione} (Volonta): la capacità di creare oggetti, materiali o elementi liberi\index{Creazione}
+	\item
+	\textbf{Cura} (Volonta): la capacità di curare o ripare esseri viventi o oggetti\index{Cura}
+	\item
+	\textbf{Difesa} (Magnetismo): la capacità di proteggersi contro il danno, magico o normale\index{Difesa}
+	\item
+	\textbf{Distruzione} (Volonta): la capacità di distruggere oggetti, materiali, elementi liberi o creature o anche equilibri organici\index{Distruzione}
+	\item
+	\textbf{Illusione} (Magnetismo): la capacità di produrre illusioni più o meno reali e complesse
+	\item
+	\textbf{Movimento} (Agilita)': la capacità di influenzare qualsiasi tipo di movimento quali il volo, levitazione, movimento del corpo o muovere oggetti.\index{Movimento}
+	\item
+	\textbf{Protezione} (Potenza): la capacità di proteggere da veleni, malattie, controllo del pensiero, elementi, dall'ambiente..\index{Protezione}
+	\item
+	\textbf{Rivelazione} (Magnetismo): la capacità di aumentare la consapevolezza nel proprio ambiente e utilizzare la magia per osservazione e divinazione\index{Rivelazione}
+	\item
+	\textbf{Trasformazione} (Potenza): la capacità di trasformare un elemento o creatura in un altro elemento e /o creature\index{Trasformazione}
+	
+\end{itemize}
+
+\bigskip
+
+Suggerisco di segnarsi nella scheda le Essenze e formulazioni più usate, quasi a creare un proprio libro di magia così che sia più facile calcolare i costi degli incantesimi tipici.
+
+\pagebreak
+
+\subsubsection{Essenza Alterare}\index{Essenza Alterare}
+
+\textbf{Caratteristica}: Intelligenza\\
+\textbf{Verbo}: Alterare\\
+\textbf{Nome}: Creature, Elementi\\
+
+\label{essenza-alterare---intelletto}
+
+\textbf{Alterare} è la capacità di \textbf{donare capacità non possedute} ad una creatura o elemento.
+Alterare permette di modificare una Creatura o Elemento con le qualità e capacità di una Creatura oppure un Elemento o della Energia.
+Tramite un Essenza di Alterare puoi conferire la resistenza della pietra o delle branchie per   respirare sott'acqua.
+Ma anche delle ali da un pegaso, o le mani roventi oppure il potente soffio di un drago.
+
+\bigskip
+
+\textbf{Essenza Alterare}
+\begin{itemize}
+	\item
+	Al target viene concesso un Tiro Salvezza su Arbitrio per negare gli effetti
+	\item
+	Per modifiche minori si intende: aspetto (occhi, bocca, naso, capelli), respirazione, forme di attacco naturali
+	\item
+	Per modifica maggiori si intende: razza, sesso, movimento
+	\item
+	Per modifica superiori si intendono capacità magiche (movimento/attacco..)
+\end{itemize}
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature Naturali}\\
+	<=11   & Concedi al target la Visione Crepuscolare a distanza di 18 metri\\
+	13     & Concedi al target un +1 in una caratteristica\\
+	& Concedi al target la Visione Crepuscolare a distanza di 36 metri\\
+	16     & Concedi al target un +2 in una caratteristica\\
+	19     & Respiri sott'acqua\\
+	& Concede al target una modifica minore del corpo.\\
+	& Concedi al target delle ali. +1 Azione Movimento, manovrabilità bassa\\
+	22     & Concedi al target di potersi adattare ad un ambiente di fuoco.\\
+	& Concede al target due modifiche minore del corpo.\\
+	& Concedi al target delle ali. +2 Azioni Movimento, manovrabilità media\\
+	25     & Concedi al target di adattarsi ad un elemento dell’Essenza Attacco. \\
+	& Concede al target una modifica maggiore del corpo ed una minore\\
+	& Concedi al target delle ali. +4 Azioni Movimento , manovrabilità alta\\
+	28     & Concede al target due modifiche maggiori del corpo e due minori\\
+	31     & Concede al target una modifica superiore e due maggiori\\
+\end{tabularx}
+
+\bigskip
+
+Esempi:
+\begin{itemize}
+	\item
+	"Con il potere della natura. Questo ragno mi concederà la sua tela"
+	\item
+	"Per il soffio del grande Gurthok. Possa io soffiare fiamme" .
+	
+	Solo dal round successivo potrò soffiare fiamme e potrà sfruttare l'Alterazione come forma di Attacco con un livello di potere di due gradini inferiori a quello ottenuto per l'Alterazione.
+\end{itemize}
+
+\pagebreak
+
+\subsubsection{Essenza Attacco}\index{Essenza Attacco}
+
+\textbf{Caratteristica}: Intelligenza\\
+\textbf{Verbo}: Attaccare\\
+\textbf{Nome}: Creature, Elementi\\
+
+\label{essenza-attacco---intelletto}
+\begin{itemize}
+	\item
+	Essenza \textbf{Attacco significa generare Energia come attacco contro l'avversario.}\\
+	Va sempre specificato la forma di energia con cui si attacca ed eventualmente verificato con gli elementi di Attacco del Patrono.
+	\item
+	Al target viene concesso un Tiro Salvezza su Riflessi per dimezzare il danno. In caso di \textbf{successo critico} si dimezza ulteriormente. In caso di fallimento critico si raddoppiano i danni.
+	\item
+	La Durata massima di un Essenza di Attacco è sempre istantanea, non puoi affogare un soggetto semplicemente riempiendo la stanza con un attacco ad acqua, ne puoi creare una Fuocopalla Ardente che brucia per un minuto.
+	Nota: dovresti usare Creazione in entrambi i casi.
+	\item
+	Se si Attacca con energia negativa un non morto lo si cura, con energia positiva lo si danneggia
+	\item
+	Se si Attacca con energia positiva un vivente non gli si fa nulla (non lo si cura), con energia negativa lo si danneggia
+	\item
+	Se si attacca con una forma di Energia che ha il proprio Patrono o energia neutrale (-) il danno è quello riportato in tabella, altrimenti si ottiene il Livello di Potere inferiore a quello determinato.
+\end{itemize}
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Luce(P), Energia Positiva(P), Fuoco(-) Elettricità(-), Freddo (-), Suono(-), Energia Negativa(N), Vuoto(N)}\\
+	<=11                       & 1d6\\
+	13                         & 2d6\\
+	16                         & 3d6\\
+	19                         & 5d6\\
+	22                         & 7d6\\
+	25                         & 10d6\\
+	28                         & 13d6\\
+	31                         & 15d6\\
+	34                         & 18d6\\
+	37                         & 20d6\\
+	43                         & 25d6\\
+\end{tabularx}
+
+P = Energia Positiva, - = Energia neutra, N = Energia Negativa
+\bigskip
+
+Esempi:
+\begin{itemize}
+	\item
+	"Mani brucianti di Alac Zalzir"
+	\item
+	"Invoco i demoni dei ghiacci che infilzino i miei avversari nelle loro gelide lance"
+	\item
+	"Canto i segreti riti di Zungur e rompo il dito secco della pettegola perché la mia voce tramortisca i miei avversari"
+	\item
+	"Traccio nell'aria le antiche rune di Boz Dan Don e tre lame di acciaio trafiggano i nemici"
+	\item
+	"Per tutte le battaglie: Palla di Fuoco!"
+	\item
+	"IT'S OVER 9000!"
+\end{itemize}
+\bigskip
+
+Un attacco di Luce causa danno suddiviso equamente da calore (assimilabile a fuoco) e da energia positiva.
+
+Esempio pratico:
+
+\textbf{Mani brucianti di Alac Zalzir}
+
+Distanza: esce dal palmo della mano, ovvero ha come distanza massima è mischia, difficoltà +0
+
+Area di Effetto: un solo obiettivo, difficoltà +1
+
+Durata: 0, istantanea, difficoltà+0
+
+Quindi fatte le somme (Distanza + AoE + Durata) questa versione di Mani Brucianti ha difficoltà 1.
+
+Se con la prova faccio 15 ottengo un livello di potere pari a 14 (15-1) che significa che le mie Mani Brucianti fanno 2d6 di danno
+
+\textbf{Fuocopalla Ardente}
+
+Distanza: entro i 10 metri, difficoltà +2
+
+Area di Effetto: distanza 3 metri radius, difficoltà +2
+
+Durata: istantanea, difficoltà 0
+
+I costi base sono 4, se con la prova faccio 24, avrò un livello di potere pari a 20, sufficiente per fare 5d6 di danno!
+
+\pagebreak
+
+\subsubsection{Essenza Charme}\index{Essenza Charme}
+
+\textbf{Caratteristica}: Carisma\\
+\textbf{Verbo}: Charme\\
+\textbf{Nome}: Creature\\
+
+\label{essenza-charme---magnetismo}
+
+\begin{itemize}
+	\item
+	L'Essenza Charme \textbf{agisce sull'attitudine della Creatura}. Il soggetto deve essere senziente e con Volontà ed Intelletto maggiori o uguali a -2
+	\item
+	L'Essenza di Charme permette anche di comunicare non verbalmente. Attenzione alla difficoltà data da Durata e Obiettivi e Distanza
+	\item
+	Non si può usare l'Essenza di Charme su creature con 3 CR superiori alla propria CM se l'obiettivo non e' consenziente.
+	\item
+	I CR indicati si riferiscono alla sommatoria di creature influenzate.
+	\item
+	Al target viene concesso un Tiro Salvezza su Arbitrio per negare gli effetti. In caso di fallimento critico la durata viene raddoppiata.
+	\item
+	Puoi anche influenzare emotivamente l'obiettivo rendendolo piu' coraggioso, impaurito, attento, impavido, brutale...      
+\end{itemize}
+
+\medskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature Naturali o Magiche}\\
+	<=11  & Influenzi obiettivi fino a CR 1/3\\
+	13    & Influenzi obiettivi fino a 1 CR  \\
+	& Comunichi con una creatura non più di 144 caratteri telepaticamente che capisca la tua lingua. \\
+	16    & Influenzi obiettivi fino a 2  CR\\
+	& Comunichi con una creatura telepaticamente che capisca la tua lingua.\\
+	19    & Influenzi obiettivi fino a 3 CR  \\
+	& Comunichi con una creatura telepaticamente che non capisca la tua lingua ed abbia Intelletto 2 o piu' \\
+	22    & Influenzi obiettivi fino a 5 CR \\
+	& Comunichi con una creatura telepaticamente che non capisca la tua lingua e abbia Intelletto 1 o più.  \\
+	25    & Influenzi obiettivi fino a 7 CR \\
+	28    & Influenzi obiettivi fino a 9 CR \\
+	& Comunichi con un obiettivo telepaticamente che non comunichi verbalmente. \\
+	31    & Influenzi obiettivi fino a 15 CR \\
+	34    & Influenzi obiettivi fino a 11 CR \\
+	37    & Influenzi obiettivi fino a 13 CR \\
+	43    & Influenzi obiettivi fino a 15 CR \\
+\end{tabularx}
+
+Una Creatura Impaurita ha un -2 TC, Coraggiosa +2 TC, Prudente +2 TS, Eroica +1 Difesa +1 TC... queste sono solo linee guida al giocatore e Narratore la possibilità di creare innumerevoli frasi motivazionali o demotivazionali.
+
+\medskip
+
+Un incantatore può utilizzare un Essenza di Charme per influenzare e quindi rendere Amichevoli od Impaurire, a seconda della differenza tra la CM dell'incantatore e CR dell'obiettivo si possono avere effetti diversi.
+
+\medskip
+
+Se la creatura ha:
+
+\begin{tabular}{L{2.5cm} L{7cm} L{7cm}}
+	\toprule
+	& \textbf{Rendere Amichevole}         & \textbf{Impaurire}\\
+	CM-CR è 1 o più   & fallimento di 2 o meno la creatura è amichevole     & se il TS fallisce di 2 o meno la creatura è scossa\\
+	& fallimento di 3 la creatura è affascinata     & fallimento di 3 la creatura è spaventata\\
+	& fallimento di 4 la creatura è charmata        & fallimento di 4 la creatura è in preda al panico\\
+	& se il TS fallisce di 5 o più la creatura è dominata         & \\
+	CM-CR tra 0 e -1  & fallimento di 3 o meno la creatura è amichevole   & fallimento di 3 o meno la creatura è scossa\\
+	& fallimento di 4 la creatura è affascinata  & fallimento di 4 la creatura è spaventata\\
+	& fallimento di 5 la creatura è charmata     & fallimento di 5 o più la creatura è in preda al panico\\
+	& se il TS fallisc di 6 o più la creatura è dominata          & \\
+	CM-CR tra -2 e -3 & 4 o meno la creatura è amichevole  & fallimento di 4 o meno la creatura è scossa\\
+	& fallimento di 5 la creatura è affascinata      & fallimento di 5 la creatura è spaventata\\
+	& fallimento di 6 la creatura è charmata         & fallimento di 6 o più la creatura è in panico\\
+	& se il TS fallisce di 7 o più la creatura è dominata & \\
+\end{tabular}
+
+
+\bigskip
+
+Esempi:
+\begin{itemize}
+	\item
+	"Per il potere di Garya. Possa il mio tocco renderti docile"
+	\item
+	"Racconto la storia della stupenda Aralda Hucnoss e fisso gli occhi dell'orco. Ora sei mio, dolce amore"
+	\item
+	"Sembra talco ma non e', serve a darti l'allegria. Se lo mangi o lo respiri ti da subito l'allegria!"
+\end{itemize}
+
+\pagebreak
+
+\subsubsection{Essenza Convocazione}\index{Essenza Convocazione}
+
+\textbf{Caratteristica}: Intelligenza\\
+\textbf{Verbo}: Convocazione\\
+\textbf{Nome}: Creature\\
+
+\label{essenza-convocazione---intelletto}
+
+L'Essenza Convocazione è la \textbf{capacità di richiamare l'archetipo di una Creatura per farla agire al tuo fianco.}
+\begin{itemize}
+	\item
+	Il CR indicato si riferisce alla sommatoria dei CR totali convocati di creature naturali
+	\item
+	Un incantatore non può evocare creature con più di 3 CR rispetto al suo valore di CM
+	\item
+	Evocare una creatura magica o Elementale costa a parità di CR il livello di potere immediatamente successivo. Con LP 22 evochi una creatura magica con CR 3
+	\item
+	Evocare un Drago a parità di CR è più difficile di 2 livelli. Con LP 31 evochi un drago CR 7
+	\item
+	CR 13 è il massimo CR di creature convocabili, oltre sono sempre sommatorie di più creature convocate.
+\end{itemize}
+
+\bigskip
+
+\begin{tabular}{ll}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature}\\
+	\textless=11               & Convochi fino a 1/3 CR\\
+	13                         & Convochi fino a 1/2 CR\\
+	16                         & Convochi fino a 1 CR\\
+	19                         & Convochi fino a 3 CR\\
+	22                         & Convochi fino a 5 CR\\
+	25                         & Convochi fino a 7 CR\\
+	28                         & Convochi fino a 9 CR\\
+	31                         & Convochi fino a 11 CR, max CR 10\\
+	34                         & Convochi fino a 13 CR, max CR 11\\
+	37                         & Convochi fino a 15 CR, max CR 12\\
+	43                         & Convochi fino a 17 CR, max CR 13\\
+\end{tabular}
+
+\bigskip
+
+Esempi:
+\begin{itemize}
+	\item
+	"O sommi antenati concedetemi la sapienza di richiamare il mammuth lanoso"
+	\item
+	"Dalle cime delle montagne più alte urlo il richiamo di Ferlin Caf. A me venga il Drago di bronzo"
+	\item
+	"Lime, Rum, Ghiaccio, Menta e Zucchero grezzo. Agito e offro. Io convoco il Pirata Verdemarcio"
+	\item
+	"Conchiglie, grasso di pecora e nessun nome. Qui voglio il Ciclope"
+\end{itemize}
+
+\pagebreak
+
+\subsubsection{Essenza Creazione}\index{Essenza Creazione}
+
+\textbf{Caratteristica}: Saggezza\\
+\textbf{Verbo}: Creare\\
+\textbf{Nome}: Elementi, Energia\\
+
+
+\label{essenza-creazione---volonta}
+
+Creare è l'\textbf{atto di plasmare la magia per creare Elementi e manifestare dal nulla un elemento od oggetto}.
+
+Non si possono creare Creature (naturali o magiche) secondo la regola che non si può creare Vita. Quando si usa l'Essenza Creare per richiamare un Elementale in realtà si deve usare l'Essenza della Convocazione.
+
+\begin{itemize}
+	\item Creare un elemento non è congiurare un Elementale. Crei un Elemento entro le dimensioni e pesi limite stabiliti.
+\end{itemize}
+
+\begin{itemize}
+	\item Se si vuole creare un Unione di Elementi (cibo, ottone, lava..) la quantità e volumi prodotti sono inversamente proporzionali alla complessità dell'elemento. Più è complesso l'elemento creato meno ne puoi creare. In base alla complessità e precisione dell'oggetto da creare diminuire massa e volumi.
+	\item E' possibile creare più oggetti contemporaneamente. Calcolata la somma dei volumi/masse si prende la difficoltà immediatamente superiore.
+	\item Non è possibile creare qualcosa all'interno di creature vive.
+	\item Non è possibile creare qualcosa dove non vedi.
+	\item Un muro di ghiaccio (ad esempio) non potrà fare danno immediatamente ma solo dal round successivo. Si deve considerare che il muro si manifesti in accrescimento nel round che viene creato. Il danno è pari all'Essenza di Attacco di due Livelli di Potere inferiori.
+	\item In caso di oggetti che cadono, il danno è quella dell'Essenza di Attacco di due Livelli di Potere inferiori. L'Area di Effetto è quella stabilita dai costi base.
+	\item La Creazione e' permanente (nei limiti fisici dell'oggetto, es. si scioglie, disperde, si consuma...) se si crea un Elemento. La Difficoltà come Durata e' 8.
+	\item Se si crea qualcosa di intangibile (es. Luce) e che non fa danno, la Durata ha costo dimezzato.
+	\item Non e' possibile creare qualcosa di magico
+	\item Se si crea materia solida attorno all'obiettibo ed entro distanza di 3 metri (o il doppio della sua portata se è maggiore) dallo stesso, viene concesso un Tiro Salvezza su Riflessi per uscire dalla creazione prima che questa sia completa.
+	\item La massa creata si distribuisce in blocchi connessi tra loro.
+	\item La massa creata obbedisce alle leggi delle fisica quando possibile. Un muro d'acqua cade il round successivo alla creazione.
+	\item Un cubo base è un cubo di lato 1 metro
+\end{itemize}
+
+\bigskip
+
+
+La Difficoltà della Massa/Volume cambia in funzione del materiale che si va a creare.
+
+\bigskip
+
+Consultare la \textbf{Tabella Modificatore Creazione Elementi} per verificare il moltiplicatore al Volume/Massa necessario in base al materiale che si vuole creare.
+
+\bigskip
+
+\textbf{Tabella Modificatore Creazione Elementi}
+
+\medskip
+\begin{tabular}{lll}
+	\toprule
+	\textbf{Moltiplicatore} & \textbf{Durezza}       & \textbf{Esempio}\\
+	0.5                   & Estremamente facile    & Sabbia / Luce \\
+	0.7                   & Facile                 & Vetro / Acqua\\
+	1                     & Normale                & Legno / Terriccio\\
+	1.1                   & Difficile              & Ceramica / Pietra / Terra dura\\
+	1.3                   & Molto difficile        & Ferro / Mattone\\
+	1.5                   & Estremamente difficile & Acciaio/ Mithral\\
+	1.7                   & Quasi impossibile      & Acciaio Nanico, Argento\\
+	2                     & Inumana                & Adamantio, Oro\\
+	2.5                   & Ultraterrena           & Acciaio Nanico Runico, Platino\\
+	5                     & Divina                 & Artefatti, Gemme\\
+\end{tabular}
+
+
+Esempi:
+\begin{itemize}
+	\item "Evoco il grande spirito di Lunzac sommo artigiano reale perché crei un comodino di perfetta fattura"
+	\item "Chiedo alle possenti maree del mare del sud di riempire d'acqua il campo di battaglia"
+	\item "Per tutti le braci infernali che questo fuoco risplenda nella notte"
+\end{itemize}
+
+\bigskip
+
+Esempi pratici
+\begin{itemize}
+	\item Per creare una Luce equivalente ad una torcia è sufficiente la Difficoltà 11 ( raggio 3 metri), con Difficoltà 13 si crea l'equivalente di una lanterna (raggio 6 metri di luce) sempre come Difficoltà di Volume/Massa.
+	\item Mentre l'Essenza Distruzione crea oscurità perché distrugge la luce, tramite l'Essenza Creazione non e' possibile creare oscurità o luce magica, solo luce naturale. E' pero' possibile creare una nebbia molto fitta che impedisca la vista.
+	\item Con Difficoltà 20 puoi creare Cibo per 1 persona per 1 giorno (comprensivo di costi base)
+	\item Creo un muro di ghiaccio fatto di 4 cubi base (2m lunghezza{*}1m larghezza{*}2m altezza. Livello potere 25) farà danno e gli cade sopra pari a livello di potere 19 in Essenza Attacco (5d6).
+	\item Suggerisco di tenere a disposizione dei cubetti 2x2 Lego per costruire "visivamente", come cubi base, le proprio creazioni
+\end{itemize}
+
+\pagebreak
+
+\subsubsection{Essenza Cura}\index{Essenza Cura}
+
+\label{essenza-cura---volonta}
+
+
+\textbf{Caratteristica}: Saggezza\\
+\textbf{Verbo}: Curare - Riparare\\
+\textbf{Nome}: Creature, Elementi\\
+
+L'Essenza della Cura è la \textbf{capacità di riempire il vuoto causato da una Distruzione} o \textbf{sanare le ferite di un Attacco} o riparare un oggetto. L'Essenza di \textbf{Cura} agisce su \textbf{Creature} o \textbf{Elementi}. Se usata su Creatura ripristina le energie vitali (punti ferita), se usata su Elementi, oggetti, puo' risaldare rotture di pezzi.
+
+
+\begin{itemize}
+	\item
+	La Durata di un Essenza di Cura è sempre e solo istantanea, tranne se specificato diversamente
+	\item
+	Una Essenza di Cura usata su un non morto equivale a causargli un danno pari all'ammontare che l'Essenza di Attacco avrebbe causato. Un Tiro Salvezza su Tempra può dimezzare i danni. Un successo critico li dimezza ulteriormente. Un fallimento Critico li raddoppia.
+	\item
+	L'Essenza di Cura ha un Area di Effetto sempre a target e mai a raggio. Se sono indicati più target questi devono essere entro un metro l'uno dall'altro.
+	\item      
+	L'Essenza di Cura usata su un oggetto ne sistema i meccanismi rotti ma non puo' crearne pezzi mancanti 
+\end{itemize}
+
+
+Esempi:
+\begin{itemize}
+	\item
+	"Grande Ljust protettrice di ciò che è vivo concedimi di lenire le sofferenze di questo bravo uomo."
+	\item
+	"Che la mano del guaritore curi le tue malattie"
+	\item
+	"Possa questo bacio purificarti"
+	\item
+	"Con l'aiuto degli antichi sacerdoti il tuo spirito sia ripristinato"
+	\item
+	"Possa la spada dei grandi guerrieri infonderti l'energia che queste empie creature ti hanno tolto"
+	\item "Un lieve tocco e questa corda tornerà unita"
+\end{itemize}
+
+\bigskip
+
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Concetto (solo Vita)}\\
+	<=11   & Rimuovi la condizione abbagliato. \\
+	& Curi 1d6 PF \\
+	13     & Rimuovi la condizione Frastornato \\
+	& Curi 2d6 pf \\
+	& Crei un link vitale tra te ed un obiettivo. \\
+	& Puoi condividere i tuoi punti ferita con le creature collegate. \\
+	& Durata 10 minuti. Costa 1 azione mantenere ed usare questa condivisione. \\
+	16     & Rimuovi la condizione Affaticato / Scosso / Infermo / Nauseato \\
+	& Curi 4d6 pf, puoi dividere la cura fino a 2 obiettivi \\
+	& Crei un link vitale tra te e fino a 3 obiettivi. Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione. \\
+	19     & Rimuovi la condizione di Malato / Accecato / Assordato / Confuso / Esausto \\
+	& Ristori 2 punti ad una Caratteristica\\
+	& Curi 6d6 pf, puoi dividere la cura fino a 3 obiettivi\\
+	& Crei un link vitale tra te e fino a 4 obiettivi\\
+	& Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione. \\
+	22     & Rimuovi la condizione di Avvelenato\\
+	& Ristori 3 punti divisi su più Caratteristiche \\
+	& Curi 9d6 pf, puoi dividere la cura fino a 6 obiettivi\\
+	& Crei un link vitale tra te e fino a 5 obiettivi. Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione \\
+	25     & Rinsaldi fratture\\
+	& Recuperi tutti i punti caratteristica \\
+	& Curi 12d6 pf, puoi dividere la cura fino a 9 obiettivi \\
+	& Crei un link vitale tra te e fino a 7 target.Puoi condividere i tuoi punti ferita con le creature collegate. Durata 1 ora. Costa 1 azione mantenere ed usare questa condivisione.  \\
+	28     & Curi fino a 60 pf e tutte le malattie. \\
+	& Ristori un livello temporaneo perso \\
+	31     & Rigeneri i tessuti ed arti\\
+	& Ristori un livello permanente perso\\
+	& Curi 16d6 pf, puoi dividere la cura fino a 10 obiettivi\\
+	34     & Ringiovanisci il target di 3d6 anni\\
+	& Curi 20d6 pf, puoi dividere la cura fino a 16 obiettivi\\
+	& Curi completamente tutte le ferite e condizioni di un obiettivo\\
+	37     & Curi l'obiettivi di tutte le condizioni, punti caratteristica, livelli e punti ferita, ringiovanisci il target di 3d6 anni \\
+	40     & Sacrifichi la tua vita per portare in vita un’altra creatura.\\
+\end{tabularx}
+\bigskip
+
+Esempio Pratico\\
+
+\textbf{Mano calda di Ljust}
+
+Distanza: mischia, costo 0
+
+Area di Effetto: 1 target, costo 0
+
+Durata: Istantenea, costo 0
+
+E’ necessario una prova di CM pari a 13 per ottenere una Mano calda di Ljust che curi su un target
+2d6 punti ferita. La difficoltà e’ 0+0+0+13 = 13\\
+
+\textbf{Sfera curativa di Ljust}
+
+Distanza: 10 metri, difficoltà +2
+
+Area di Effetto: 5 creature da includere, +5
+
+Ricordiamoci che la Cura non può essere usata come area di effetto sferica, il costo è per poter selezionare le persone da curare.
+
+Durata: istantanea, difficoltà +0
+
+Essenza Cura: 19, cura 9d6, puoi dividere la cura fino a 6 target
+
+Fatte tutte le somme una Sfera curativa di Ljust da 9d6 ha difficoltà +2+5+0+19 = 26\\
+
+\textbf{Benedizione della Fenice}
+
+Distanza: 0, tocco
+
+Area di Effetto: 0, se stessi
+
+Durata: 1 giorno, contingenza, +6
+
+Cura: 4d6 PF, +16
+
+Tempo di lancio: 10 minuti -6 
+
+La Benedizione della Fenice e' una contingenza che dura un giorno, se si viene feriti mortalmente (i pf scendono sotto la metà) viene lanciata in automatico una cura da 4d6 (riuscendo in una prova di magia a difficoltà 16, altrimenti curerà di meno)
+
+\pagebreak
+
+\subsubsection{Essenza Difesa}\index{Essenza Difesa}
+
+\textbf{Caratteristica}: Carisma\\
+\textbf{Verbo}: Difendo\\
+\textbf{Nome}: Creature, Elementi\\
+
+\label{essenza-difesa---magnetismo}
+
+l'Essenza di Difesa \textbf{permette di creare delle barriere/scudi/armature che possono proteggere una creatura od oggetto dal danno o da un elemento definito}. L'Essenza di Difesa si applica su Creature o Elementi. Nella tabella viene indicato il massimo della protezione concessa o a round, la Durata della Difesa e' sempre da determinare.
+\begin{itemize}
+	\item
+	Al target viene concesso un Tiro Salvezza su Tempra per negare gli effetti.
+	\item
+	Essenza di Difesa può essere usata come controincantesimo per l'Essenza di Attacco. E' necessario superare con una prova di competenza magica la prova di competenza magica dell'avversario. Si annulla solo l'effetto su un obiettivo (se stesso o altro). Si consuma un utilizzo di Essenze.
+	\item
+	Se ci sono più Essenze di Difesa attive non si sommano i tipi di bonus equivalenti, si tiene solo quello che fornisce il bonus più alto.
+\end{itemize}
+
+\bigskip
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature, Presenza}\\
+	<=11     & +1 Difesa  \\
+	& +1 Tiri Salvezza \\
+	13       & Crei una difesa che protegge per 4 Punti Ferita in tutto \\
+	16       & Crei una difesa da un elemento per 3 Punti Ferita a round\\
+	& +2 ad un Tiro Salvezza\\
+	& +3 Difesa\\
+	19       & Crei una difesa da un elemento per 5 Punti Ferita a round\\
+	& +2 a tutti i Tiri Salvezza   \\
+	& +4 Difesa, +2 ad un Tiro Salvezza \\
+	22       & Crei una difesa per 6 Punti Ferita a round \\
+	& Crei una difesa da un elemento specifico \\
+	& anche magico per 60 Punti Ferita in tutto \\
+	& Barriera verso gli insetti normali \\
+	25       & Crei una difesa per 8 Punti Ferita a round \\
+	& Immune ad un elemento non magico \\
+	& +6 Difesa \\
+	28       & Resistenza ad un Energia da Essenza Attacco o naturale \\
+	& Barriera verso le piante normali\\
+	& +6 ad un Tiro Salvezza\\
+	& Immune a livello di potenza 11 di Attacco\\
+	31       & +6 a tutti i Tiro Salvezza\\
+	& Barriera verso gli animali normali\\
+	& Immune a livello di potenza 16 di Attacco / Trasformazione\\
+	& Crei una barriera intorno a te, che ti scherma\\
+	& da tutti gli attacchi fisici non magici\\
+	34       & Barriera verso gli animali magici\\
+	& Crei una barriera intorno a te che ti scherma da tutti gli attacchi fisici anche magici\\
+	& Immune a livello di potenza 22 di Attacco / Trasformazione / Distruzione \\
+	37       & Immune a livello di potenza 28 di Attacco / Trasformazione / Distruzione \\
+	43       & Immune a livello di potenza 34 di Attacco / Trasformazione / Distruzione \\
+\end{tabularx}
+
+\bigskip
+
+Esempi:
+\begin{itemize}
+	\item
+	"Chiamo la magia del grande cristallo perché mi protegga contro i miei avversari"
+	\item
+	"Canto le invocazioni di morte. Possano le osse dei miei antenati proteggermi"
+	\item
+	"Incido il mio petto con le sacre rune di Qizdo!"
+\end{itemize}
+
+\pagebreak
+
+\subsubsection{Essenza Distruzione}\index{Essenza Distruzione}
+
+\textbf{Caratteristica}: Saggezza\\
+\textbf{Verbo}: Distruggo\\
+\textbf{Nome}: Elementi, Creature, Energia\\
+
+\label{essenza-distruzione---volonta}
+
+\textbf{Essenza Distruzione -- Elementi}
+
+La Distruzione di Elementi è la \textbf{distruzione di Elementi}
+\begin{itemize}
+	\item
+	La distruzione di Elementi è diretta, senza Tiro Salvezza.
+	\item
+	La distruzione si intente di singolo e specifico oggetto non di volumi di più oggetti, tranne se omogenei e contigui(es un tavolo di legno, la serratura di metallo..).
+	\item
+	La distruzione di materia è sempre permanente come durata. La durata ha difficoltà 8 + eventuale contingenza.
+\end{itemize}
+
+\bigskip
+
+La Difficoltà data da Massa/Volume cambia anche in funzione del materiale che si va a distruggere.
+
+\bigskip
+
+Consultare la \textbf{Tabella Modificatore Distruzione Elementi} per verificare il moltiplicatore al Volume/Massa necessario in base al materiale che si vuole distruggere.
+
+\bigskip
+
+\textbf{Tabella Modificatore Distruzione Elementi}
+
+\medskip
+\begin{tabular}{lll}
+	\toprule
+	\textbf{Moltiplicatore} & \textbf{Durezza}       & \textbf{Esempio}\\
+	0.5                   & Estremamente facile    & Sabbia / Luce \\
+	0.7                   & Facile                 & Vetro / Acqua\\
+	1                     & Normale                & Legno / Terriccio\\
+	1.1                   & Difficile              & Ceramica / Pietra / Terra dura\\
+	1.3                   & Molto difficile        & Ferro / Mattone\\
+	1.5                   & Estremamente difficile & Acciaio/ Mithral\\
+	1.7                   & Quasi impossibile      & Acciaio Nanico, Argento\\
+	2                     & Inumana                & Adamantio, Oro\\
+	2.5                   & Ultraterrena           & Acciaio Nanico Runico, Platino, Gemme\\
+	5                     & Divina                 & Artefatti \\
+	
+\end{tabular}
+
+\bigskip
+
+Se quindi si vuole dimostrare la propria potenza distruggendo una serratura di metallo semplicemente toccandola la difficoltà è 11 (livello di potere) {*} 1.3 (ferro) = 14.3 = 14 di difficoltà più i fattori di base (8 di durata, distanza, contingenza...)
+
+L'arrotondamento si fa per eccesso.
+
+Esempi:
+\begin{itemize}
+	\item
+	"Per tutte le torce consumate. Buio!"
+	\item
+	"Chiamo a me i terremoti passati. Il tuo castello crolli come la sabbia
+	\item
+	"Getto a terra il sangue di un Ragnroll. Che una fossa ti colga!"
+\end{itemize}
+
+
+\textbf{Essenza Distruzione -- Creature}
+\begin{itemize}
+	\item
+	La distruzione di Creature causa la distruzione dell'equilibrio metabolico e mentale.
+	\item
+	Una Essenza di Distruzione non può mai causare danno diretto, si deve usare l'Essenza Attacco.
+	\item
+	Al target viene concesso un Tiro Salvezza su Tempra per negare gli effetti. La perdita di punti caratteristica e' temporanea e si recupera 1 punto al giorno.
+	\item
+	Non è possibile distruggere "parti" di esseri viventi
+	\item
+	Su molte creature magiche le condizioni indicate non hanno effetto. Tenere sempre conto della durata degli effetti.
+\end{itemize}
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature}\\
+	<=11  & Attribuisci la condizione abbagliato.  \\
+	13    & Attribuisci la condizione: Frastornato    \\
+	16    & Attribuisci la condizione: Affaticato / Scosso / Infermo  \\
+	19    & Attribuisci la condizione di: Malato / Accecato / Assordato / Esausto / Nauseato\\
+	& Diminuisci di 1 punto una caratteristica   \\
+	22    & Attribuisci la condizione di Avvelenato    \\
+	& Diminuisci di 2 punti una caratteristica   \\
+	25    & Distruggi l’armonia spirituale della creatura (-1 al colpire, al danno, ai Tiri Salvezza)\\
+	& 3 AGI oppure -3 POT  \\
+	28    & Causi dolori lancianti -3 POT e AGI  \\
+	& Distruggi temporaneamente le esperienze, il target perde un livello di esperienza \\
+	31    & Distruggi i tessuti ed arti, causi la distruzione del corpo (TS o morte). \\
+	& Distruggi permanentemente le esperienze, il target perde un livello di esperienza \\
+	34    & Invecchi il target di 3d6 anni \\
+\end{tabularx}
+
+\bigskip
+
+Esempi
+\begin{itemize}
+	\item
+	"Evoco lo stregone Adbul Aziz. Mi conceda di fare marcire le tue interiora!"
+	\item
+	"Grande martello, Grande martello, affonda la tua testa nella sua"
+	\item
+	"Osserva la spirale di Oman Gur Tha. Non sei mai stato così stanco"
+	\item
+	"Oh Padrone Shayalia ti offro lo spirito del mio nemico"
+\end{itemize}
+
+\bigskip
+
+\textbf{Essenza Distruzione - animazione dei morti}
+
+Molti incantatori seguaci di Sixiser utilizzano i non morti per portare caos e distruzione nel creato
+
+\begin{itemize}
+	\item
+	L'Essenza di Distruzione (animazione) su Creature non può concedere più dadi vita di quanti posseduti dalla creatura originale. Le caratteristiche di Volontà e Intelletto e Magnetismo vengono ridotte ad un terzo, a meno di aumentare il livello di potere a quello superiore.
+	\item
+	Il CR indicato si riferisce alla sommatoria dei CR totali animati di creature naturali
+	\item
+	Un incantatore non può animare creature naturali con più di 3 CR rispetto al suo valore di CM
+	\item
+	Se si vuole animare una creatura magica la difficoltà passa a quella successiva e si somma con il costo del mantenimento delle caratteristiche mentali
+	\item
+	La difficoltà della Durata dell'animazione è 8. Ed è permanente finché la creatura animata non viene distrutta o dismessa dall'incantatore.
+\end{itemize}
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature}\\
+	\textless=11               & Animi fino a 1/3 CR\\
+	13                         & Animi fino a 1/2 CR\\
+	16                         & Animi fino a 1 CR\\
+	19                         & Animi fino a 3 CR\\
+	22                         & Animi fino a 5 CR\\
+	25                         & Animi fino a 7 CR\\
+	28                         & Animi fino a 9 CR\\
+	31                         & Animi fino a 11 CR, max CR 9\\
+	34                         & Animi fino a 13 CR, max CR 9\\
+	37                         & Animi fino a 15 CR, max CR 10\\
+	43                         & Animi fino a 17 CR, max CR 10\\
+\end{tabularx}
+
+\bigskip
+
+Esempi: d'uso:
+Creare una zona di Oscurità equivale ad usare l'Essenza Distruzione sulla Luce. Considerate la grandezza dell'ambiente ed il fatto che l'effetto e' immediato, ovvero permanente per la luce che era presente ma nulla vieta ad altra luce di prendere il suo posto.
+\pagebreak
+
+\subsubsection{Essenza Illusione}\index{Essenza Illusione}
+
+\label{essenza-illusione---magnetismo}
+
+\textbf{Caratteristica}: Carisma\\
+\textbf{Verbo}: Illudo\\
+\textbf{Nome}: --\\
+
+l'Essenza Illusione è la \textbf{capacità di creare immagini, suoni,
+	odori, profumi di cose che non esistono}.
+\begin{itemize}
+	\item
+	Una Illusione non può mai essere usata per ferire direttamente un avversario.
+	\item
+	Una illusione non offre mai resistenza fisica.
+	\item
+	In caso di creazione di proprie immagine una Essenza che causi danno ad area le distruggerà tutte.
+	\item
+	Un Tiro salvezza su Arbitrio permette di discernere l'illusione.
+	\item
+	E' sempre e solo sensoriale (uditiva, visiva, olfattiva), e non influenza mai il tocco.
+	\item
+	In base alla complessità e precisione dell'oggetto diminuire quantità e volumi.
+\end{itemize}
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Dimensione}\\
+	<=11    & Un cubo di lato fino a 20 cm                                          \\
+	13      & Un cubo di lato fino a 50 cm    \\
+	& Crei 1d4 immagini illusorie di te.      \\
+	& Ogni attacco a segno elimina prima una immagine.    \\
+	16      & Un cubo di lato fino a 1 metro    \\
+	& Crei una illusione che ti rende sfocato, +3 CA    \\
+	& Crei 2d4 immagini illusorie di te.   \\
+	& Ogni attacco a segno elimina prima una immagine.       \\
+	& Crei un Allarme sonoro che si attiva al passaggio    \\
+	19      & Un cubo di lato fino a 2 metri    \\
+	& Crei una illusione che ti rende invisibile. Attaccare rende visibile. \\
+	& Crei un Allarme sonoro che si attiva quando visto   \\
+	22      & Un cubo di lato fino a 3 metri    \\
+	& Crei una illusione di te a 2 metri, +4 Difesa                         \\
+	& Crei un Allarme sonoro che si attiva al passaggio o suono o se visto. \\
+	& Crei un Allarme sonoro e visivo che si attiva al passaggio o se visto \\
+	25      & Un cubo di lato fino a 4 metri    \\
+	& Crei una illusione che rende invisibile te e altre 3 creature di taglia media. Attaccare rende visibile.         \\
+	& Crei un Allarme sonoro e visivo che si attiva se ci sono creature anche invisibili\\
+	28      & Un cubo di lato fino a 6 metri\\
+	31      & Un cubo di lato fino a 10 metri\\
+	34      & Un cubo di lato fino a 15 metri\\
+	37      & Un cubo di lato fino a 20 metri\\
+	43      & Un cubo di lato fino a 50 metri\\
+\end{tabularx}
+
+\bigskip
+
+Esempi:
+\begin{itemize}
+	\item
+	"Dal Deserto di Darnhub chiamo il miraggio di una bellissima donna"
+	\item
+	"Lasciami proteggere la porta. Creo questa campanellina perché suoni ad ogni passaggio"
+	\item
+	"Incido la runa di Abildan. Chiunque passi da qui farà suonare le trombe di Torricelli"
+\end{itemize}
+
+\pagebreak
+
+\subsubsection{Essenza Movimento}\index{Essenza Movimento}
+
+\label{essenza-movimento---agilita}
+
+\textbf{Caratteristica}: Destrezza\\
+\textbf{Verbo}: Muovo\\
+\textbf{Nome}: Creature, Elementi\\
+
+
+L'Essenza di Movimento significa \textbf{potersi teletrasportare e spostarsi di piani nonché alterare la velocità e spostare le cose}.
+
+\textbf{Essenza Movimento (Spostare) -- Creature}
+
+\begin{itemize}
+	\item
+	La Creatura Naturale o Magica che viene influenzata dell'Essenza di Movimento deve avere taglia media o inferiore.
+	\item
+	Per ogni creatura oltre la prima, per taglia superiore alla media, la difficoltà aumenta di 2. In caso di taglia superiore alla media e creatura oltre la prima i costi si sommano. Quindi spostare 3 creature grandi a distanza di kilometri ha difficoltà 19+2*2 (2 creature oltre la prima) +2*3 (3 creature di taglia oltre la media) = 29.
+	\item
+	Al target viene concesso un TS su Potenza per resistere agli effetti.
+	\item
+	La durata è sempre istantanea (e' un teletrasporto).
+\end{itemize}
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature}\\
+	<=11           & Ci si puo'’ spostare entro raggio di 3 metri       \\
+	& Caduta piuma                                         \\
+	13             & Ci si puo'’ spostare entro raggio di 12 metri        \\
+	& Levitazione                                          \\
+	16             & Ci si puo'’ spostare entro raggio di 100 metri       \\
+	& Si diventa eterei                                    \\
+	& Volare                                               \\
+	19             & Ci si puo'’ spostare entro 5 km                      \\
+	& Si puo'’ passare da un piano all’altro               \\
+	22             & Ci si può spostare entro 20 km\\
+	25             & Ci si può spostare entro 100 km\\
+	28             & Si può coprire una distanza di 200 km\\
+\end{tabularx}
+
+\bigskip
+
+Esempi:
+\begin{itemize}
+	\item
+	"Lucido la punta degli stivali e sbatto i tacchi. E sono dove voglio"
+	\item
+	"Per i grandi rapaci possa io arrivare in cima alla montagna"
+	\item
+	"Banchetti e monete, specchietti e cadute. Portatemi a palazzo Dornean"
+\end{itemize}
+
+\bigskip
+
+\textbf{Essenza Movimento - Creatura}
+
+Alterare il Movimento è alterare la velocità di azione di una creatura.
+Questo concede di muoversi più velocemente o attaccare più volte o riuscire ad agire più volte nel round.
+
+Al target viene concesso un Tiro Salvezza su Arbitrio per negare gli effetti.
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Concetto}\\
+	\textless=11         & Il target ottiene una Azione di movimento bonus\\
+	13       & Il target ottiene due Azioni di movimento bonus\\
+	16       & Il target ottiene un bonus di una Azione\\
+	19       & Il target ottiene un bonus di una Azione ed una Azione di movimento\\
+	22       & Il target ottiene due Azioni in piu'\\
+	25       & Il target ottiene tre Azioni in piu'\\
+	28       & Il target può usare due abilità a disposizione (ma non può lanciare 2 Essenze)\\
+\end{tabularx}
+
+\bigskip
+
+Esempi:
+\begin{itemize}
+	\item
+	"Possa lo spirito dei grandi corridori guidarti i passi"
+	\item
+	"Evoco a me i riti del mago Ratl Go Nw. Ora il tuo corpo è veloce come l'argento"
+	\item
+	"Un passo a destra, uno a sinistra, incrocia le braccia. La velocità del Lupo è nei tuoi piedi"
+\end{itemize}
+Esempio pratico:
+\begin{itemize}
+	\item
+	con Essenza Movimento a difficoltà 28 posso usare Incanalare energia due volte oppure Imposizione delle mani ed Incanalare energia (non posso usare due Essenze in un round)
+\end{itemize}
+
+\bigskip
+
+\textbf{Essenza Movimento (Blocco/Spostamento) - Elementi/Creature}
+
+Tramite l'Essenza Movimento è possibile inibire lo spostamento di creature.
+
+Al target viene concesso un Tiro Salvezza su Tempra per negare gli effetti.
+\begin{itemize}
+	\item
+	Il valore massimo è riferito al numero massimo di CR influenzati.
+	\item
+	il target non può essere di 3 CR superiore al valore di CM dell'incantatore
+	\item
+	Il numero massimo di creature influenzabili è pari alla metà dei dadi vita influenzati, con un minimo di 1
+\end{itemize}
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature}\\
+	\textless=11   & Il target inciampa, -1 azione\\
+	13       & Il target è rallentato, viene dimezzato la velocità di movimento\\
+	16       & Il target è fermo nella sua posizione (immobilizzato), massimo 2	CR\\
+	19       & I target rimangono fermi nella loro posizione, totale 5 CR non piu'di 3 CR a target\\
+	22       & Il target è fermo nella sua posizione, massimo 7 CR\\
+	25       & I target rimangono fermi nella loro posizione, totale 12. Non piu'di 4 CR a target\\
+	28      & Il target è fermo nella sua posizione, massimo 9 CR\\
+	31      & I target rimangono fermi nella loro posizione, totale 16 CR. Non più di 5 CR a target\\
+	34       & Il target è fermo nella sua posizione, massimo 12 CR non puo' teletrasportarsi o cambiare di piano.\\
+	37       & I target rimangono fermi nella loro posizione, totale 24 CR .Non più di 7 CR a target\\
+	43      & Il target rimane fermo nella sua posizione, massimo 18 CR\\
+\end{tabularx}
+
+\bigskip
+
+Usare la \textbf{Difficoltà Massa/Volume per le Creature/Elementi} da muovere e non Obiettivo/Area di Effetto, basandosi sul Peso totale delle Creature/Elementi.
+
+La velocità con cui si muove la Creatura o Elemento e' di 6 m/r. Per ogni successo critico la velocità aumenta di 3 m/r.
+Se si sposta una Creatura questa ha diritto ad un TS su Tempra ogni round di durata.
+\bigskip\
+
+\textbf{Chiarimenti}
+\begin{itemize}
+	\item
+	Tramite l'Essenza Movimento è possibile spostare un oggetto, sollevandolo e muovendolo.
+	\item
+	Se si muovono più target considerare la somma di volumi e pesi per determinare il costo.
+	\item
+	Il movimento ottenuto è di 10 metri a round. Se serve più velocità aumentare la difficoltà (+5 = raddoppio velocità)
+	\item
+	Al target se vivente è concesso un Tiro Salvezza su Tempra per resistere e non farsi spostare
+	\item
+	Il target viene spostato, nel corso dei round, fino a Distanza calcolata nelle difficoltà.
+	\item
+	E' possibile usare l'Essenza di Movimento per scagliare proiettili. Usato per scagliare proiettili (sassi, dardi, frecce.. oggetti fino a taglia media) il danno causato è pari a quello di due livelli di potere inferiore causato dall'Essenza di Attacco.
+	\item
+	E' possibile usare la Essenza di Movimento per fare cadere una massa su singolo target o più target a seconda della dimensione della massa, vedi indicazione Area. Il danno causato è di 1d6 per cubo base che colpisce l'avversario. Quindi una colonna alta 8 cubi e larga 1 fa 8d6 di danni. Massimo 20d6, Tiro Salvezza su Riflessi per dimezzare. In caso di fallimento critico i danni si raddoppiano, in caso di successo critico i danni si dimezzano ulteriormente.
+	\item
+	Le aree influenzate sono indicative, ricordarsi di distribuire i cubi secondo numero e forma volute.
+	
+	\item E' possibile usare l'Essenza di Movimento per tenere bloccata una porta (vuoi spingendo la porta o spostando il chiavistello...)
+	
+\end{itemize}
+\bigskip
+
+
+Esempio:
+\begin{itemize}
+	\item 	"Chiamo a me le ossa dei ladri. Fermate la creatura"
+	\item 	"Potenze dell'aria, rallentate la fuga della creatura"
+	\textbf{Essenza Movimento -- Elementi, Creature}
+	\item "Chiamo i venti possenti che distrussero Orton Gal No. Sollevate questo carro!"
+	\item "Per il passo leggero degli Orunkes, io cammino nell'aria"
+	\item "Spiriti delle tempeste, scagliate la vostra rabbia contro chi osa sfidarci!"
+\end{itemize}
+
+\pagebreak
+
+\subsubsection{Essenza Protezione}\index{Essenza Protezione}
+
+\label{essenza-protezione---potenza}
+
+\textbf{Caratteristica}: Costituzione\\
+\textbf{Verbo}: Proteggo\\
+\textbf{Nome}: Creature\\
+
+l'Essenza di Protezione si applica su Creature \textbf{permette di schermare o annullare gli effetti magici e non che altererebbero il nostro corpo}.
+
+\begin{itemize}
+	\item
+	Al target viene concesso un Tiro Salvezza su Arbitrio per negare gli effetti
+	\item
+	è possibile usare l'Essenza di Protezione come controincantesimo verso l'Essenza di Trasformazione o Alterazione o Charme o Movimento o Rivelazione. E' necessario superare con il proprio check di magia il valore di difficoltà della prova che ha generato l'Essenza che si vuole controbattere.
+\end{itemize}
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature, Presenza}\\
+	\textless=11& Proteggi dalla condizione di Abbagliato.\\
+	13& Proteggi dalla condizione di Frastornato / Scosso\\
+	16& Proteggi dalla condizione di Affaticato / Infermo / Spaventato\\
+	19& Proteggi dalla condizione di Malato / Esausto / Nauseato / Confuso\\
+	22& Proteggi dalla condizione di Avvelenato / Charmato / In preda al panico\\
+	25& Proteggi dalla condizione di Posseduto / Accecato / Assordato \\
+	& Proteggi dalla distruzione fino a 2 livello di esperienza   \\
+	28& Proteggi dalla condizione di Dominato / Maledetto   \\
+	& Proteggi dalla distruzione fino a 4 livelli di esperienza   \\
+	31& Proteggi dalla distruzione di esperienza fino a durata   \\
+	& Proteggi da tutti i condizionamenti mentali fino a durata\\
+	34& Proteggi dall'Essenza di Charm e Rivelazione fino al livello 22\\
+	37& Proteggi dall'Essenza di Charm e Rivelazione fino al livello 25\\
+	43& Proteggi dall'Essenza di Charm e Rivelazione fino al livello 28\\
+\end{tabularx}
+
+\bigskip
+
+
+Esempi:
+\begin{itemize}
+	\item "
+	"Possa la saggezza dei miei antenati proteggermi
+	\item
+	"Spirito e Bontà. Possa la Massima Ljust proteggermi dalle Ombre" (protezione esperienza)
+	\item
+	"Traccio il circolo dei Sacerdoti Gurla. Nessuno potrà osservarmi"
+	\item
+	"Sbatto il piede e pronuncio la parola di potere Shrak. Non mi trasformerai in un rospo!" (controincantesimo )
+\end{itemize}
+
+\pagebreak
+
+\subsubsection{Essenza Rivelazione}\index{Essenza Rivelazione}
+
+\label{essenza-rivelazione---magnetismo}
+
+\textbf{Caratteristica}: Carisma\\
+\textbf{Verbo}: Rivelo\\
+\textbf{Nome}: Creature, Elementi, Virtu'\\
+
+La Rivelazione si applica a Creature (Naturali o Magiche), Elementi, Concetti e Virtù. \textbf{Permette di capire i tratti fisici principali e lo stato di "salute". Permette di espandere la propria coscienza per accedere alla comprensione di eventi od oggetti del passato}.
+\begin{itemize}
+	\item
+	Alla Creatura oggetto della Rivelazione viene concesso un Tiro Salvezza
+	su Arbitrio per annullare gli effetti.
+	\item
+	Non è possibile usare l'Essenza Rivelazione per determinare un evento futuro.
+	\item
+	L'Essenza Rivelazione serve per divinare o percepire in maniera più approfondita. Viene lasciato al giocatore ed al Narratore l'utilizzo creativo di questa Essenza. Quelli qui sotto proposti sono esempi di utilizzo, linee guida.
+\end{itemize}
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature, Elementi, Virtu'}\\
+	<=11   & Comprendi se un oggetto e’ magico  \\
+	& Sei in grado di leggere il magico  \\
+	13& Comprendi eta’, peso e dimensioni. \\
+	& Comprendi se e’ presente una protezione \\
+	& Sei in grado di leggere una pergamena magica senza difficoltà   \\
+	16& Comprendi lo stato del corpo se influenzato da qualche Essenza   \\
+	& Comprendi quale tipo di protezione e’ presente    \\
+	& Comprendi i tratti del soggetto.   \\
+	& Conferisci ai tuoi occhi la visione della magia   \\
+	& Conferisci ai tuoi occhi la visione crepuscolare 18m   \\
+	19& Comprendi lo stato originario del target.    \\
+	& Comprendi la natura e specifiche di un oggetto magico  \\
+	& Conferisci ai tuoi occhi di vedere nell’oscurità \\
+	22& La tua Consapevolezza e’ oltre le illusioni di pari potenza.\\
+	& Conferisci ai tuoi occhi di vedere nell’oscurità magica    \\
+	25& Puoi scrutare luoghi fino ad un 1 km di distanza  \\
+	28& Puoi scrutare persone fino ad 5 km di distanza.   \\
+	& Toccando un oggetto ti permette di conoscere la sua storia. \\
+	& La tua Consapevolezza di permette di vedere il vero delle cose e persone   \\
+	31& Puoi scrutare luoghi e persone fino a 10 km di distanza.    \\
+	& Concentrandoti puoi conoscere la storia di un logo/oggetto fino a 5 km di distanza   \\
+	34& La tua comprensione ti permette di conoscere nei dettagli la storia e
+	leggende \\
+	& di qualsiasi manufatto purche’ tu ne abbia una vaga idea di come e’ fatto  \\
+	37& La tua comprensione e’ leggendaria. Puoi conoscere fatti ed accadimenti  di qualsiasi era \\
+	43& La tua comprensione e’ tale come se tu fossi stato presente e partecipe    \\
+\end{tabularx}
+
+\bigskip
+
+Esempi:
+\begin{itemize}
+	\item
+	"Grande Atmos, invoco la tua benedizione. Aiutami a comprendere questa bacchetta"
+	\item
+	"Per i tomi della biblioteca del tempo. Chi costruì il castello di Hul Barton?"
+	\item
+	"Benedetto servitore di Atmos concedimi di scrutare nella biblioteca segreta. Raccontami la storia di Rozanda Durand"
+\end{itemize}
+\pagebreak
+
+
+\subsubsection{Essenza Trasformazione}\index{Essenza Trasformazione}
+
+\textbf{Caratteristica}: Costituzione
+\textbf{Verbo}: Trasformo
+\textbf{Nome}: Creature, Elementi, Virtu'
+
+\label{essenza-trasformazione---potenza}
+
+l'Essenza della Trasformazione \textbf{altera la forma e sostanza di Creature, Elementi, Energia}.
+
+\bigskip
+
+\textbf{Essenza Trasformazione -- Elementi, Energia}
+
+L'Essenza di Trasformazione prende la materia già pronta e concede all'incantatore di Trasformare le forme e sostanze come più gli aggrada. La forma trasformata obbedisce alle leggi della fisica es. l'acqua non può volare se non è retta da qualcosa.
+
+\begin{itemize}
+	\item
+	L'Essenza di Trasformazione può essere applicata ad una Essenza di Attacco. La prova di competenza magica deve essere superiore alla prova effettuata dall'avversario (getti aria possono farti volare via o danneggiare lo stesso se non si è protetti). E' una Azione di Reazione
+	\item
+	E' anche possibile trasformare l'acqua in fuoco, ma per il principio che una Essenza deve fare una sola cosa, il danno da fuoco potrà esserci solo dal round successivo, se ancora esiste
+	\item
+	Se si vuole trasformare la materia in un insieme di materia (fango, lava, pane.. si devono considerare le difficolà di ogni singolo elemento che lo compone, acqua e terra, terra e fuoco)
+	\item
+	Se un soggetto è influenzato da una Essenza di Trasformazione viene concesso un Tiro Salvezza su Tempra per annullarne gli effetti.
+	\item	
+	La Trasformazione se applicata per ottenere un Elemento/Energia Magico ha una Difficoltà aggiuntiva di +6.
+	\item	
+	La trasformazione di Elementi o Energia e' permanente ed ha Difficoltà come Durata 8      
+	
+\end{itemize}
+
+
+
+Esempi:
+\begin{itemize}
+	\item
+	"Acqua e Terra, Fuoco e Acqua. Le mie mani non hanno fine"
+	\item
+	"Per i riti degli antichi alchimisti ciò che era adesso non è più lui"
+	Esempio pratico:
+	
+	Trasformando in acqua un cubo di 3{*}3{*}3 (27 cubi base) di terra si mette in seria difficoltà l'avversario (Tiro salvezza su riflessi concesso per evitare di cadere)
+	\item
+	Si puo' trasformare un pezzo di un lucchetto/serratura per bloccarlo od aprirlo. La prova va confrontata con la resistenza del Elemento che compone il lucchetto.      
+\end{itemize}
+
+\bigskip
+
+\textbf{Essenza Trasformazione -- Creature}
+
+\begin{itemize}
+	\item
+	L'Essenza di Trasformazione può trasformare Creature Naturali, Creature Magiche ed Elementi tra loro.
+	\item
+	L'Essenza di Trasformazione se effettuata su una creatura senziente costa il livello superiore di potere. Per trasformare in pietra una creatura normale di 4 CR (in caso di PG il Livello è il CR) la prova ha difficoltà 28
+	\item
+	Non si può influenzare o trasformare in una creatura con più di 3 CR superiore alla CM dell'incantatore
+	\item 
+	Si puo' trasformare solo una Creatura alla volta. Il costo per l'Obiettivo e' +1
+	\item
+	Se si vuole trasformare in una creatura magica la Difficoltà passa la Livello di Potere superiore (e si somma con il costo della senziente)
+	\item
+	I CR indicati si riferiscono alla somma dei CR/Livelli influenzati
+	\item
+	Al target viene concesso un Tiro Salvezza su Arbitrio per negare gli effetti
+	\item
+	Il target trasformato mantiene le caratteristiche mentali (Intelletto, Volontà) precedenti ma prende quelle fisiche della creatura (Potenza, Agilità, Magnetismo)
+	
+	\item
+	La trasformazione di Creature e' permanente ed ha difficoltà come Durata 8.      
+	
+\end{itemize}
+
+\bigskip
+
+\textbf{Tabella Trasformazione Creature}
+\medskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+	\toprule
+	\textbf{Livello di Potere} & \textbf{Creature}\\
+	<=11	& 1/3 CR    \\
+	13		& 1/2 CR   \\
+	16		& 1 CR \\
+	19		& 2 CR \\
+	22		& 3 CR \\
+	25		& 5 CR \\
+	28		& 7 CR \\
+	31		& 9 CR \\
+	34		& 11 CR\\
+	37		& Fino a 13 CR, max singolo CR 7\\
+	43		& Fino a 15 CR, max singolo CR 9\\
+\end{tabularx}
+
+\bigskip
+
+
+Esempi:
+\begin{itemize}
+	\item
+	"Chiedo l'aiuto di tutte le streghe. Trasformate il mio nemico in un rospo!"
+	\item
+	"Bava di Lumaca e sterco di vacca. Rumina nel prato"
+\end{itemize}
+
+\pagebreak
+
+\include{esempi-magie}
+
+\pagebreak
+
+{\scriptsize 
+	\printindex}
+
+\end{document}
+

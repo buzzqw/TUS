@@ -1,0 +1,45 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{La Magia}{3}{section*.1}%
+\contentsline {subsection}{Le Essenze}{3}{subsection*.2}%
+\contentsline {subsubsection}{Competenza Magica ed Essenza}{3}{subsubsection*.3}%
+\contentsline {subsubsection}{Le regole delle Essenze}{4}{subsubsection*.4}%
+\contentsline {subsubsection}{Creature ed Elementi}{4}{subsubsection*.5}%
+\contentsline {subsubsection}{Caratteristiche base delle Essenze}{5}{subsubsection*.6}%
+\contentsline {subsubsection}{Tiro per Colpire ed Essenze}{5}{subsubsection*.7}%
+\contentsline {subsubsection}{Recitare l'Essenza}{5}{subsubsection*.8}%
+\contentsline {subsubsection}{Potenziamenti delle Caratteristiche dell'Essenza}{5}{subsubsection*.9}%
+\contentsline {subsubsection}{Aree di effetto diverse}{7}{subsubsection*.10}%
+\contentsline {subsubsection}{Influenzati da più Essenze}{7}{subsubsection*.11}%
+\contentsline {subsubsection}{Scegliere l'effetto dell'Essenza}{7}{subsubsection*.12}%
+\contentsline {subsubsection}{Altre regole}{7}{subsubsection*.13}%
+\contentsline {subsubsection}{Attacco con Essenze non di Attacco}{7}{subsubsection*.14}%
+\contentsline {subsubsection}{Usare due Essenze concatenate}{8}{subsubsection*.15}%
+\contentsline {subsubsection}{Essenze Cumulate}{8}{subsubsection*.16}%
+\contentsline {subsubsection}{Alterare le Essenze}{8}{subsubsection*.17}%
+\contentsline {subsubsection}{Esecuzione di Essenze in maniera collaborativa}{8}{subsubsection*.18}%
+\contentsline {subsubsection}{Tentare Essenza con impedimenti}{9}{subsubsection*.19}%
+\contentsline {subsubsection}{Riuscire e Fallire nella prova di Magia}{9}{subsubsection*.20}%
+\contentsline {subsubsection}{L'esplosione del 6 nella Magia}{9}{subsubsection*.21}%
+\contentsline {subsubsection}{Tentare la sorte con la Magia}{10}{subsubsection*.22}%
+\contentsline {subsubsection}{Resistere all'Essenza (Tiro Salvezza)}{10}{subsubsection*.23}%
+\contentsline {subsubsection}{Più Essenze nello stesso round}{10}{subsubsection*.24}%
+\contentsline {subsubsection}{Mantenere la Concentrazione}{10}{subsubsection*.25}%
+\contentsline {subsubsection}{Check di Concentrazione}{10}{subsubsection*.26}%
+\contentsline {subsubsection}{Un ultimo suggerimento}{10}{subsubsection*.27}%
+\contentsline {subsubsection}{Lista delle Essenze}{10}{subsubsection*.28}%
+\contentsline {subsubsection}{Essenza Alterare}{12}{subsubsection*.29}%
+\contentsline {subsubsection}{Essenza Attacco}{13}{subsubsection*.30}%
+\contentsline {subsubsection}{Essenza Charme}{15}{subsubsection*.31}%
+\contentsline {subsubsection}{Essenza Convocazione}{17}{subsubsection*.32}%
+\contentsline {subsubsection}{Essenza Creazione}{18}{subsubsection*.33}%
+\contentsline {subsubsection}{Essenza Cura}{20}{subsubsection*.34}%
+\contentsline {subsubsection}{Essenza Difesa}{23}{subsubsection*.35}%
+\contentsline {subsubsection}{Essenza Distruzione}{24}{subsubsection*.36}%
+\contentsline {subsubsection}{Essenza Illusione}{26}{subsubsection*.37}%
+\contentsline {subsubsection}{Essenza Movimento}{27}{subsubsection*.38}%
+\contentsline {subsubsection}{Essenza Protezione}{30}{subsubsection*.39}%
+\contentsline {subsubsection}{Essenza Rivelazione}{31}{subsubsection*.40}%
+\contentsline {subsubsection}{Essenza Trasformazione}{32}{subsubsection*.41}%
+\contentsline {subsubsection}{Esempi di formulazioni Essenze}{34}{subsubsection*.42}%
+\contentsline {chapter}{Indice Analitico}{35}{section*.43}%

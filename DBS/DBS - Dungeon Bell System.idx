@@ -1,0 +1,2048 @@
+\indexentry{Termini comuni}{9}
+\indexentry{Arrotondamenti}{9}
+\indexentry{Abilità}{9}
+\indexentry{Azione}{9}
+\indexentry{Bonus}{9}
+\indexentry{Check}{9}
+\indexentry{Prova}{9}
+\indexentry{Prova di Magia}{9}
+\indexentry{Prova di Competenza Magica}{9}
+\indexentry{Prova di Concentrazione}{9}
+\indexentry{Lanciare Incantesimi sotto attacco, minaccia, distrazione..}{9}
+\indexentry{Classe di Difficoltà}{9}
+\indexentry{DC}{9}
+\indexentry{Competenza}{9}
+\indexentry{Skill}{9}
+\indexentry{Competenza con le Armi}{9}
+\indexentry{Competenza Magica}{9}
+\indexentry{CM}{9}
+\indexentry{Dadi Vita}{9}
+\indexentry{Difesa}{9}
+\indexentry{Distanza}{9}
+\indexentry{Devoto}{9}
+\indexentry{Esplosione del 6}{10}
+\indexentry{Iniziativa}{10}
+\indexentry{Livello}{10}
+\indexentry{Incantatore}{10}
+\indexentry{Mischia}{10}
+\indexentry{Movimento}{10}
+\indexentry{Narratore}{10}
+\indexentry{Patrono}{10}
+\indexentry{Penalità}{10}
+\indexentry{Personaggio}{10}
+\indexentry{PNG}{10}
+\indexentry{Punti Esperienza}{10}
+\indexentry{PX}{10}
+\indexentry{Punteggi caratteristica}{10}
+\indexentry{Statistiche}{10}
+\indexentry{Punti Fato}{10}
+\indexentry{Fortuna del Principiante}{10}
+\indexentry{Punti Ferita}{10}
+\indexentry{PF}{10}
+\indexentry{Resistenza alla Magia}{11}
+\indexentry{RM}{11}
+\indexentry{Riduzione del Danno}{11}
+\indexentry{DR}{11}
+\indexentry{Resistenza al Danno}{11}
+\indexentry{RD}{11}
+\indexentry{Round}{11}
+\indexentry{Sucesso Critico}{11}
+\indexentry{Fallimento Critico}{11}
+\indexentry{Tiro per Colpire}{11}
+\indexentry{TC}{11}
+\indexentry{Tiro Salvezza}{11}
+\indexentry{TS}{11}
+\indexentry{Tratto}{11}
+\indexentry{Turno}{11}
+\indexentry{Uno porta male}{11}
+\indexentry{Razze}{12}
+\indexentry{Umani}{12}
+\indexentry{Elfi}{12}
+\indexentry{Nani}{13}
+\indexentry{Gnomi}{13}
+\indexentry{Mezzelfo}{14}
+\indexentry{Mezzorco}{14}
+\indexentry{Nibali}{14}
+\indexentry{Diversi}{15}
+\indexentry{Razze}{15}
+\indexentry{Razza}{15}
+\indexentry{Sesso}{15}
+\indexentry{Visione Crepuscolare}{16}
+\indexentry{Scurovisione}{16}
+\indexentry{Fiuto}{16}
+\indexentry{Vista Cieca}{17}
+\indexentry{Senso Tellurico}{17}
+\indexentry{Caratteristiche}{18}
+\indexentry{Forza}{18}
+\indexentry{Destrezza}{18}
+\indexentry{Costituzione}{18}
+\indexentry{Intelligenza}{18}
+\indexentry{Saggezza}{18}
+\indexentry{Carisma}{18}
+\indexentry{Modalità base}{19}
+\indexentry{Modalità che vorrei}{19}
+\indexentry{Modalita' opzionale per i codardi}{19}
+\indexentry{Forza}{20}
+\indexentry{Destrezza}{20}
+\indexentry{Costituzione}{20}
+\indexentry{Intelligenza}{20}
+\indexentry{Saggezza}{20}
+\indexentry{Carisma}{20}
+\indexentry{Punti Ferita}{21}
+\indexentry{PF}{21}
+\indexentry{Punti Ferita Temporanei}{21}
+\indexentry{Punti Fato}{21}
+\indexentry{Tratti}{22}
+\indexentry{Tratti}{22}
+\indexentry{Tabella dei Tratti}{23}
+\indexentry{Competenze}{24}
+\indexentry{Regole Base}{24}
+\indexentry{Golden Rules}{24}
+\indexentry{Competenze di Base}{24}
+\indexentry{Tabella Elenco delle Professioni e relative Competenze}{24}
+\indexentry{Professioni}{24}
+\indexentry{Tabella Elenco Competenze e relativa Caratteristica d'uso}{25}
+\indexentry{Competenze Attive}{27}
+\indexentry{CM}{27}
+\indexentry{CA}{27}
+\indexentry{Armi da mischia}{27}
+\indexentry{Armi da distanza}{27}
+\indexentry{Tipologia Omogenea}{27}
+\indexentry{Armi Semplici}{27}
+\indexentry{Arma senza competenza}{27}
+\indexentry{Armature Leggere}{27}
+\indexentry{Armature Medie}{28}
+\indexentry{Armature Pesanti}{28}
+\indexentry{Scudi Pesanti}{28}
+\indexentry{Armatura senza competenza}{28}
+\indexentry{Scudo senza competenza}{28}
+\indexentry{Personaggio}{29}
+\indexentry{Livello}{30}
+\indexentry{Avanzamento di Livello}{30}
+\indexentry{Linee guida per i giocatori}{30}
+\indexentry{Regole per le competenze}{32}
+\indexentry{Competenze}{32}
+\indexentry{Tabella Classe di Difficoltà}{32}
+\indexentry{Superare o Fallire la prova di tanto}{33}
+\indexentry{Consapevolezza}{33}
+\indexentry{Prove opposte}{33}
+\indexentry{Vantaggi}{33}
+\indexentry{Bonus}{33}
+\indexentry{Malus}{33}
+\indexentry{Svantaggi}{33}
+\indexentry{Prove dinamiche}{33}
+\indexentry{Prove a valore fisso}{34}
+\indexentry{Tabella Bonus e Malus, Vantaggi e Svantaggi}{34}
+\indexentry{Fattore tempo}{34}
+\indexentry{Senza problemi di tempo}{34}
+\indexentry{Aiutare un altro}{34}
+\indexentry{Esplosione del 6}{34}
+\indexentry{Tirare un 1 nelle prove}{34}
+\indexentry{Tentare la sorte}{34}
+\indexentry{Successo Parziale}{34}
+\indexentry{Prova con Rischio}{34}
+\indexentry{Tabella Saltare}{35}
+\indexentry{Linguaggi}{35}
+\indexentry{Tabella delle Lingue}{35}
+\indexentry{Telepatia}{36}
+\indexentry{Combattimento}{37}
+\indexentry{Combattimento}{37}
+\indexentry{Iniziativa}{37}
+\indexentry{Risoluzione delle Azioni}{37}
+\indexentry{Round}{38}
+\indexentry{Azioni nel Round}{38}
+\indexentry{Azione}{38}
+\indexentry{Tabella delle Azioni per Round}{39}
+\indexentry{Azione Reazione}{39}
+\indexentry{Azione Immediata}{39}
+\indexentry{Movimento}{40}
+\indexentry{Scatto}{40}
+\indexentry{Azione di Scatto}{40}
+\indexentry{Distanza di Tocco}{40}
+\indexentry{Tocco}{40}
+\indexentry{Distanza di Mischia}{40}
+\indexentry{Mischia}{40}
+\indexentry{Quadretto}{40}
+\indexentry{Tabella Taglia e Scala delle Creature}{40}
+\indexentry{Morire}{41}
+\indexentry{Morte immediata}{41}
+\indexentry{Danno Massivo}{41}
+\indexentry{Recupero}{42}
+\indexentry{Svenuto}{42}
+\indexentry{Recupero punti caratteristica}{42}
+\indexentry{Recupero punti naturale}{42}
+\indexentry{Recupero PF non letali}{42}
+\indexentry{Punti Ferita non letali}{42}
+\indexentry{Tiro per Colpire}{43}
+\indexentry{Difesa}{43}
+\indexentry{Difesa}{43}
+\indexentry{Attacco}{43}
+\indexentry{Tirare 3 volte 1}{44}
+\indexentry{Tirare 3 volte 6}{44}
+\indexentry{Tiro Critico}{44}
+\indexentry{Tiro Critico Variante}{44}
+\indexentry{Esplosione del Danno}{44}
+\indexentry{Attacchi multipli}{45}
+\indexentry{Attacchi multipli armi da tiro}{45}
+\indexentry{Armi a spargimento}{45}
+\indexentry{Acqua Benedetta}{45}
+\indexentry{Olio Incediato}{45}
+\indexentry{Impreparato}{46}
+\indexentry{Sorpresa}{46}
+\indexentry{Situazioni particolari}{46}
+\indexentry{Pugno}{47}
+\indexentry{Calci}{47}
+\indexentry{Fare a botte}{47}
+\indexentry{Opportunità}{47}
+\indexentry{Attacco di Opportunità}{47}
+\indexentry{Alzarsi da prono}{47}
+\indexentry{Carica}{47}
+\indexentry{Controcarica}{47}
+\indexentry{Controcarica}{47}
+\indexentry{Aiutare}{48}
+\indexentry{Colpo di Grazia}{48}
+\indexentry{Danno non letale}{48}
+\indexentry{Danno non letale con arma non idonea}{48}
+\indexentry{Senza Competenza}{48}
+\indexentry{Armi Leggere}{48}
+\indexentry{Armi Versatili}{48}
+\indexentry{Lanciare armi}{48}
+\indexentry{Colpi Potenti}{48}
+\indexentry{Maestria del combattimento}{49}
+\indexentry{Arma troppo grande}{49}
+\indexentry{Arma troppo grande}{49}
+\indexentry{Fiancheggiare}{49}
+\indexentry{Esempi di Fiancheggiamento}{49}
+\indexentry{Arma Doppia}{49}
+\indexentry{Arma Lunga}{49}
+\indexentry{Arma lunga a breve distanza}{50}
+\indexentry{Magia in combattimento}{50}
+\indexentry{Preparare una arma lunga contro una carica}{50}
+\indexentry{Prendere la Mira (cecchino)}{50}
+\indexentry{Combattimento con due armi}{50}
+\indexentry{Usare un'arma da lancio sotto minaccia}{50}
+\indexentry{Usare un'arma da lancio mirando ad un avversario impegnato in combattimento}{50}
+\indexentry{Usare un'arma con due mani}{50}
+\indexentry{Difesa totale}{50}
+\indexentry{Disingaggiare}{51}
+\indexentry{Mettersi sulla difensiva}{51}
+\indexentry{Disarmare}{51}
+\indexentry{Finta}{51}
+\indexentry{Spingere un avversario}{52}
+\indexentry{Afferrare un avversario}{52}
+\indexentry{Fare cadere un avversari}{52}
+\indexentry{Modificare le proprie dimensioni}{52}
+\indexentry{Modificare le dimensioni}{52}
+\indexentry{Combattimento a cavallo}{52}
+\indexentry{Cavallo}{52}
+\indexentry{Nascondigli}{54}
+\indexentry{Copertura}{54}
+\indexentry{Copertura}{54}
+\indexentry{Invisibilità}{54}
+\indexentry{Tabella Invisibilità in Combattimento}{55}
+\indexentry{Tabella Modificatori Consapevolezza per Rilevare Creature Invisibili}{55}
+\indexentry{Lista Armi}{56}
+\indexentry{Tipologia Omogenea}{56}
+\indexentry{Armi Leggere}{56}
+\indexentry{Asce}{56}
+\indexentry{Rompi Cranio}{56}
+\indexentry{Archi}{56}
+\indexentry{Balestre}{57}
+\indexentry{Armi doppie}{57}
+\indexentry{Armi da carceriere}{57}
+\indexentry{Armi aggraziate}{58}
+\indexentry{Armi della morte}{58}
+\indexentry{Armi da stordimento}{58}
+\indexentry{Lance}{59}
+\indexentry{Armi letali}{59}
+\indexentry{Aste}{59}
+\indexentry{Spade}{59}
+\indexentry{Scudi}{60}
+\indexentry{Bloccanti}{60}
+\indexentry{Armi da tiro}{60}
+\indexentry{Pugno Vuoto}{61}
+\indexentry{Armi Semplici}{61}
+\indexentry{Armi in piu' Liste d'Armi}{61}
+\indexentry{Abilità}{62}
+\indexentry{Ali della Fenice}{62}
+\indexentry{Animalia}{62}
+\indexentry{Famiglio}{62}
+\indexentry{Armatura del Devoto}{63}
+\indexentry{Armatura della Montagna Incantata}{63}
+\indexentry{Arciere a cavallo}{63}
+\indexentry{Arma Focalizzata}{63}
+\indexentry{Attacco turbinante}{63}
+\indexentry{Batteria Magica}{63}
+\indexentry{Colpi poderosi}{63}
+\indexentry{Attacco alle spalle}{63}
+\indexentry{Colpo furtivo}{63}
+\indexentry{Colpo Indebolente}{63}
+\indexentry{Colpo Mortale}{64}
+\indexentry{Colpo Paralizzante}{64}
+\indexentry{Combattere alla Cieca}{64}
+\indexentry{Combattimento con due armi}{64}
+\indexentry{Due armi}{64}
+\indexentry{Creare Oggetti Magici}{64}
+\indexentry{Creare Oggetti Magici Superiori}{64}
+\indexentry{Creare Oggetti Magici Meravigliosi}{64}
+\indexentry{Creare Oggetti Magici Mitici}{65}
+\indexentry{Decifrare scritti magici}{65}
+\indexentry{Difendere Cavalcatura}{65}
+\indexentry{Distillare pozioni}{65}
+\indexentry{Doppia porzione}{65}
+\indexentry{Energia Psichica}{65}
+\indexentry{Colpo Psichico}{65}
+\indexentry{Raggio Psichico}{65}
+\indexentry{Esperto}{65}
+\indexentry{Fare Infuriare}{66}
+\indexentry{Fedele}{66}
+\indexentry{Ferocia}{66}
+\indexentry{Finta Morte}{66}
+\indexentry{Flagello Danzante}{66}
+\indexentry{Forgiato nella furia}{66}
+\indexentry{Freccia chiamata, freccia consegnata}{66}
+\indexentry{Furia}{66}
+\indexentry{Giocoliere}{66}
+\indexentry{Guerriero della Magia}{66}
+\indexentry{Gru d'argento}{67}
+\indexentry{Ho detto CADI!}{67}
+\indexentry{Incantare in Combattimento}{67}
+\indexentry{Incantatore Prudente}{67}
+\indexentry{Immunità ai veleni}{67}
+\indexentry{Imposizione delle mani}{67}
+\indexentry{Incanalare energia}{68}
+\indexentry{Incanalare energia a distanza}{68}
+\indexentry{Incanalare energia concentrata}{68}
+\indexentry{Infondere Coraggio}{68}
+\indexentry{Infondere Paura}{68}
+\indexentry{Iniziativa migliorata}{69}
+\indexentry{Iaijutsu}{69}
+\indexentry{La mia morte la tua morte}{69}
+\indexentry{La mia Testa è più Dura}{69}
+\indexentry{Lo scudo è mio amico}{69}
+\indexentry{Magie efficaci}{69}
+\indexentry{Montagna umana}{69}
+\indexentry{Occhio Clinico}{69}
+\indexentry{Occhio di Falco}{69}
+\indexentry{Opportunista}{70}
+\indexentry{Passo Veloce}{70}
+\indexentry{Passo sicuro}{70}
+\indexentry{Percettivo}{70}
+\indexentry{Persona veramente malvagia}{70}
+\indexentry{Più sono grossi più fanno rumore quando cadono}{70}
+\indexentry{Proseguire}{70}
+\indexentry{Pugno di Ferro}{71}
+\indexentry{Questo è il mio pugnale}{71}
+\indexentry{Questa è la mia arma!}{71}
+\indexentry{Radici magiche}{71}
+\indexentry{Rappresaglia}{71}
+\indexentry{Resistenza della pietra}{71}
+\indexentry{Rilevare il Magico}{72}
+\indexentry{Ricarica rapida}{72}
+\indexentry{Riflessi fulminei}{72}
+\indexentry{Sapiente}{72}
+\indexentry{Scacciare i non morti}{72}
+\indexentry{Tabella Scacciare Non Morti}{72}
+\indexentry{Schivare trappole}{73}
+\indexentry{Schivata prodigiosa}{73}
+\indexentry{Seconda pelle}{73}
+\indexentry{Segugio}{73}
+\indexentry{Senso Trappola}{73}
+\indexentry{Senza Traccia}{73}
+\indexentry{Stai giù!}{73}
+\indexentry{Tempesta di Furia}{73}
+\indexentry{Tiro preciso}{73}
+\indexentry{Tiro rapido}{73}
+\indexentry{Toccata e fuga}{74}
+\indexentry{Tocco pietoso}{74}
+\indexentry{Vampiro}{74}
+\indexentry{Volontà Ferrea}{74}
+\indexentry{Famiglio}{75}
+\indexentry{Tabella Tipi di Famiglio}{75}
+\indexentry{Tabella Abilità del Famiglio}{76}
+\indexentry{Etereo}{77}
+\indexentry{Resistenza al Danno}{77}
+\indexentry{Riduzione del Danno}{77}
+\indexentry{Ignorare la DR}{77}
+\indexentry{Tabella Equivalenza Armi Magiche}{77}
+\indexentry{Freccie magiche}{77}
+\indexentry{Vulnerabilità al Danno}{77}
+\indexentry{Resistenza alla Magia}{78}
+\indexentry{Paura}{78}
+\indexentry{Scosso}{78}
+\indexentry{Spaventato}{78}
+\indexentry{In Preda al Panico}{78}
+\indexentry{Terrore Crescente}{78}
+\indexentry{Paralizzato}{78}
+\indexentry{Magia}{79}
+\indexentry{Essenza}{79}
+\indexentry{Tiro per Colpire con Incantesimi}{84}
+\indexentry{Esplosione del 6 nella Magia}{84}
+\indexentry{Tentare la sorte con la Magia}{84}
+\indexentry{Riuscire e Fallire nella prova di Magia}{85}
+\indexentry{Resistere all'Incantesimo}{85}
+\indexentry{Tiro Salvezza Incantesimi}{85}
+\indexentry{Successo Critico Incantesimi}{85}
+\indexentry{Fallimento Critico Incantesimi}{85}
+\indexentry{Più di 10}{85}
+\indexentry{Resistenza alla Magia}{85}
+\indexentry{Distrazioni - Problemi nel lancio dell'incantesimo}{85}
+\indexentry{Conservare la magia}{85}
+\indexentry{Influenzati da più Magie}{85}
+\indexentry{Alterare le Magie}{86}
+\indexentry{Tentare Incantesimi con impedimenti}{86}
+\indexentry{Impedimenti}{86}
+\indexentry{Obiettivi degli incantesimi}{86}
+\indexentry{Incantesimi - Aiuto}{87}
+\indexentry{Incantesimi - Allarme}{87}
+\indexentry{Incantesimi - Alleato Planare}{87}
+\indexentry{Incantesimi - Allucinazione Mortale}{87}
+\indexentry{Incantesimi - Alterare Sé Stesso}{87}
+\indexentry{Incantesimi - Amicizia con gli Animali}{88}
+\indexentry{Incantesimi - Anatema}{88}
+\indexentry{Incantesimi - Animale Messaggero}{88}
+\indexentry{Incantesimi - Animare Morti}{88}
+\indexentry{Incantesimi - Animare Oggetti}{89}
+\indexentry{Incantesimi - Anti-Individuazione}{89}
+\indexentry{Incantesimi - Antipatia/Simpatia}{89}
+\indexentry{Incantesimi - Arma Magica}{90}
+\indexentry{Incantesimi - Arma Spirituale}{90}
+\indexentry{Incantesimi - Arma Magica}{90}
+\indexentry{Trucchetto - Artificio Druidico}{90}
+\indexentry{Incantesimi - Magia - Aura Magica dell'Arcanista}{91}
+\indexentry{Incantesimi - Aura Sacra}{91}
+\indexentry{Incantesimi - Bacche Benefiche}{91}
+\indexentry{Incantesimi - Bagliore Solare}{91}
+\indexentry{Incantesimi - Banchetto degli Eroi}{91}
+\indexentry{Incantesimi - Barriera di Lame}{92}
+\indexentry{Trucchetto - Beffa Crudele}{92}
+\indexentry{Incantesimi - Benedici Acqua}{92}
+\indexentry{Incantesimi - Benedizione}{92}
+\indexentry{Incantesimi - Benedizione Superiore}{92}
+\indexentry{Incantesimi - Benedizione Suprema}{92}
+\indexentry{Incantesimi - Blocca Mostri}{92}
+\indexentry{Incantesimi - Blocca Persona}{92}
+\indexentry{Incantesimi - Blocca Persona Avanzato}{93}
+\indexentry{Incantesimi - Bocca Magica}{93}
+\indexentry{Incantesimi - Caduta Morbida}{93}
+\indexentry{Incantesimi - Calmare Emozioni}{93}
+\indexentry{Incantesimi - Camminare sull'Acqua}{93}
+\indexentry{Incantesimi - Camminare nel Vento}{94}
+\indexentry{Incantesimi - Charme su Persone}{94}
+\indexentry{Incantesimi - Campo Anti-Magia}{94}
+\indexentry{Incantesimi - Camuffare Sé Stesso}{94}
+\indexentry{Incantesimi - Capanna}{95}
+\indexentry{Incantesimi - Caratteristica Potenziata}{95}
+\indexentry{Incantesimi - Carne in Pietra}{95}
+\indexentry{Incantesimi - Catena di Fulmini}{95}
+\indexentry{Incantesimi - Cecità/Sordità}{96}
+\indexentry{Incantesimi - Cecità/Sordità}{96}
+\indexentry{Incantesimi - Celare}{96}
+\indexentry{Incantesimi - Cerchio Magico}{96}
+\indexentry{Incantesimi - Cerchio di Morte}{96}
+\indexentry{Incantesimi - Cerchio di Teletrasporto}{97}
+\indexentry{Incantesimi - Chiaroveggenza}{97}
+\indexentry{Incantesimi - Clone}{97}
+\indexentry{Trucchetto - Colpo Accurato}{97}
+\indexentry{Incantesimi - Colpo Infuocato}{97}
+\indexentry{Incantesimi - Comando}{98}
+\indexentry{Incantesimi - Comprensione dei Linguaggi}{98}
+\indexentry{Incantesimi - Comprensione dei Scritti}{98}
+\indexentry{Incantesimi - Compulsione}{98}
+\indexentry{Incantesimi - Comunione}{98}
+\indexentry{Incantesimi - Comunione con la Natura}{99}
+\indexentry{Incantesimi - Confusione}{99}
+\indexentry{Incantesimi - Cono di Freddo}{99}
+\indexentry{Incantesimi - Conoscenza delle Leggende}{99}
+\indexentry{Incantesimi - Contagio}{99}
+\indexentry{Incantesimi - Contingenza}{100}
+\indexentry{Incantesimi - Controincantesimo}{100}
+\indexentry{Incantesimi - Controllare Acqua}{100}
+\indexentry{Incantesimi - Controllare Tempo Atmosferico}{101}
+\indexentry{Incantesimi - Costrizione}{102}
+\indexentry{Incantesimi - Creare Cibo e Acqua}{102}
+\indexentry{Incantesimi - Creare Birra}{102}
+\indexentry{Incantesimi - Creare o Distruggere Acqua}{102}
+\indexentry{Incantesimi - Creare Non Morti}{102}
+\indexentry{Incantesimi - Creazione}{103}
+\indexentry{Incantesimi - Crescita di Spuntoni}{103}
+\indexentry{Incantesimi - Crescita Vegetale}{103}
+\indexentry{Incantesimi - Cuoco Invisibile}{103}
+\indexentry{Incantesimi - Cura Ferite Leggere}{103}
+\indexentry{Incantesimi - Cura Ferite Serie}{104}
+\indexentry{Incantesimi - Cura Ferite Critiche }{104}
+\indexentry{Incantesimi - Cura Ferite di Massa}{104}
+\indexentry{Incantesimi - Dardo di Fuoco}{104}
+\indexentry{Incantesimi - Dardo Tracciante}{104}
+\indexentry{Incantesimi - Danza Irresistibile}{104}
+\indexentry{Incantesimi - Dardo Incantato}{105}
+\indexentry{Trucchetto - Deflagrazione Occulta}{105}
+\indexentry{Incantesimi - Desiderio}{105}
+\indexentry{Incantesimi - Destriero Fantasma}{105}
+\indexentry{Incantesimi - Disco Fluttuante}{106}
+\indexentry{Incantesimi - Disintegrazione}{106}
+\indexentry{Incantesimi - Dissolvi il Bene e il Male}{106}
+\indexentry{Incantesimi - Dissolvi Magie}{106}
+\indexentry{Incantesimi - Dito}{106}
+\indexentry{Incantesimi - Dito della Morte}{107}
+\indexentry{Incantesimi - Divinazione}{107}
+\indexentry{Incantesimi - Dominare Bestie}{107}
+\indexentry{Incantesimi - Dominare Mostri}{107}
+\indexentry{Incantesimi - Dominare Persone}{108}
+\indexentry{Incantesimi - Eroismo}{108}
+\indexentry{Incantesimi - Esilio}{108}
+\indexentry{Incantesimi - Esplosione Solare}{108}
+\indexentry{Incantesimi - Estasiare}{108}
+\indexentry{Incantesimi - Evoca Animali}{109}
+\indexentry{Incantesimi - Evoca Celestiali}{109}
+\indexentry{Incantesimi - Evoca Creature Boschive}{109}
+\indexentry{Incantesimi - Evoca Elementale}{109}
+\indexentry{Incantesimi - Evoca Elementali Minori}{109}
+\indexentry{Incantesimi - Evocazioni Istantanee}{110}
+\indexentry{Incantesimi - Fabbricare}{110}
+\indexentry{Incantesimi - Faro di Speranza}{110}
+\indexentry{Incantesimi - Fatale}{110}
+\indexentry{Incantesimi - Favore Divino}{110}
+\indexentry{Incantesimi - Ferire}{110}
+\indexentry{Incantesimi - Fermare il Tempo}{111}
+\indexentry{Incantesimi - Fiamma Perenne}{111}
+\indexentry{Trucchetto - Fiamma Sacra}{111}
+\indexentry{Trucchetto - Fiotto Acido}{111}
+\indexentry{Incantesimi - Folata di Vento}{111}
+\indexentry{Incantesimi - Fondersi nella Pietra}{111}
+\indexentry{Incantesimi - Forma Eterea}{112}
+\indexentry{Incantesimi - Forma Gassosa}{112}
+\indexentry{Incantesimi - Forme Animali}{112}
+\indexentry{Incantesimi - Frantumare}{112}
+\indexentry{Incantesimi - Freccia Acida}{113}
+\indexentry{Incantesimi - Fulmine}{113}
+\indexentry{Incantesimi - Fuorviare}{113}
+\indexentry{Incantesimi - Gabbia di Forza}{113}
+\indexentry{Incantesimi - Giara Magica}{113}
+\indexentry{Incantesimi - Glifo di Interdizione}{114}
+\indexentry{Incantesimi - Globo di Invulnerabilità}{115}
+\indexentry{Incantesimi - Guarigione}{115}
+\indexentry{Incantesimi - Guarigione di Massa}{115}
+\indexentry{Incantesimi - Guida}{115}
+\indexentry{Incantesimi - Guscio Anti-Vita}{115}
+\indexentry{Incantesimi - Identificare}{115}
+\indexentry{Incantesimi - Illusione Minore}{116}
+\indexentry{Incantesimi - Illusione Programmata}{116}
+\indexentry{Incantesimi - Immagine Maggiore}{116}
+\indexentry{Incantesimi - Immagine Proiettata}{116}
+\indexentry{Incantesimi - Immagine Silenziosa}{117}
+\indexentry{Incantesimi - Immagine Speculare}{117}
+\indexentry{Incantesimi - Imprigionare}{117}
+\indexentry{Incantesimi - Inaridire}{118}
+\indexentry{Incantesimi - Individuazione del Bene e del Male}{118}
+\indexentry{Incantesimi - Individuazione del Magico}{118}
+\indexentry{Incantesimi - Individuazione delle Malattie e dei Veleni}{118}
+\indexentry{Incantesimi - Individuazione dei Pensieri}{119}
+\indexentry{Incantesimi - Infliggi Ferite}{119}
+\indexentry{Incantesimi - Ingrandire/Ridurre}{119}
+\indexentry{Incantesimi - Insetto Gigante}{119}
+\indexentry{Incantesimi - Interdizione alla Morte}{120}
+\indexentry{Incantesimi - Intermittenza}{120}
+\indexentry{Incantesimi - Intimorire Infernale}{120}
+\indexentry{Incantesimi - Intralciare}{120}
+\indexentry{Incantesimi - Inversione della Gravità}{120}
+\indexentry{Incantesimi - Inviare}{121}
+\indexentry{Incantesimi - Invisibilità}{121}
+\indexentry{Incantesimi - Invisibilità Superiore}{121}
+\indexentry{Incantesimi - Invocare il Fulmine}{121}
+\indexentry{Incantesimi - Labirinto}{121}
+\indexentry{Incantesimi - Lama Infuocata}{121}
+\indexentry{Incantesimi - Legame Telepatico}{122}
+\indexentry{Incantesimi - Lentezza}{122}
+\indexentry{Incantesimi - Levitazione}{122}
+\indexentry{Incantesimi - Libertà di Movimento}{122}
+\indexentry{Incantesimi - Lingue}{122}
+\indexentry{Incantesimi - Localizza Animali e Piante}{122}
+\indexentry{Incantesimi - Localizza Creatura}{123}
+\indexentry{Incantesimi - Localizza Oggetto}{123}
+\indexentry{Incantesimi - Loquacità}{123}
+\indexentry{Trucchetto - Luce}{123}
+\indexentry{Incantesimi - Luce Diurna}{123}
+\indexentry{Trucchetto - Luci Danzanti}{123}
+\indexentry{Incantesimi - Luminescenza}{124}
+\indexentry{Incantesimi - Mani Brucianti}{124}
+\indexentry{Incantesimi - Mano Arcana}{124}
+\indexentry{Trucchetto - Mano Magica}{124}
+\indexentry{Incantesimi - Marchio del Cacciatore}{125}
+\indexentry{Trucchetto - Messaggio}{125}
+\indexentry{Incantesimi - Metamorfosi}{125}
+\indexentry{Incantesimi - Metamorfosi Pura}{125}
+\indexentry{Incantesimi - Miraggio Arcano}{126}
+\indexentry{Incantesimi - Modificare Memoria}{126}
+\indexentry{Incantesimi - Movimenti del Ragno}{127}
+\indexentry{Incantesimi - Muovere il Terreno}{127}
+\indexentry{Incantesimi - Muro di Forza}{127}
+\indexentry{Incantesimi - Muro di Fuoco}{127}
+\indexentry{Incantesimi - Muro di Ghiaccio}{127}
+\indexentry{Incantesimi - Muro di Pietra}{128}
+\indexentry{Incantesimi - Muro Prismatico}{128}
+\indexentry{Incantesimi - Muro di Spine}{129}
+\indexentry{Incantesimi - Muro di Vento}{129}
+\indexentry{Incantesimi - Nube Incendiaria}{129}
+\indexentry{Incantesimi - Nube Maleodorante}{130}
+\indexentry{Incantesimi - Nube Mortale}{130}
+\indexentry{Incantesimi - Nube di Nebbia}{130}
+\indexentry{Incantesimi - Occhio Arcano}{130}
+\indexentry{Incantesimi - Onda Tonante}{130}
+\indexentry{Incantesimi - Oscurità}{130}
+\indexentry{Incantesimi - Palla di Fuoco}{131}
+\indexentry{Incantesimi - Palla di Fuoco Ritardata}{131}
+\indexentry{Incantesimi - Parlare con gli Animali}{131}
+\indexentry{Incantesimi - Parlare con i Morti}{131}
+\indexentry{Incantesimi - Parlare con le Piante}{132}
+\indexentry{Incantesimi - Parola Divina}{132}
+\indexentry{Incantesimi - Parola Guaritrice}{132}
+\indexentry{Incantesimi - Parola Guaritrice di Massa}{132}
+\indexentry{Incantesimi - Parola del Potere Stordire}{132}
+\indexentry{Incantesimi - Parola del Potere Uccidere}{133}
+\indexentry{Incantesimi - Parola del Ritiro}{133}
+\indexentry{Incantesimi - Passapareti}{133}
+\indexentry{Incantesimi - Passare Senza Tracce}{133}
+\indexentry{Incantesimi - Passo Velato}{133}
+\indexentry{Incantesimi - Passo Veloce}{133}
+\indexentry{Incantesimi - Paura}{133}
+\indexentry{Incantesimi - Pelle di Corteccia}{133}
+\indexentry{Incantesimi - Pelle di Pietra}{134}
+\indexentry{Incantesimi - Piaga degli Insetti}{134}
+\indexentry{Incantesimi - Porta Dimensionale}{134}
+\indexentry{Incantesimi - Portale}{134}
+\indexentry{Incantesimi - Preghiera di Guarigione}{134}
+\indexentry{Incantesimi - Presagio}{134}
+\indexentry{Trucchetto - Prestidigitazione}{135}
+\indexentry{Incantesimi - Previsione}{135}
+\indexentry{Trucchetto - Produrre Fiamma}{135}
+\indexentry{Incantesimi - Proibizione}{135}
+\indexentry{Incantesimi - Proiezione Astrale}{136}
+\indexentry{Incantesimi - Protezione dal Bene e dal Male}{136}
+\indexentry{Incantesimi - Protezione dall'Energia}{136}
+\indexentry{Incantesimi - Protezione dai Veleni}{137}
+\indexentry{Incantesimi - Punizione Marchiante}{137}
+\indexentry{Incantesimi - Purificare Cibo e Bevande}{137}
+\indexentry{Trucchetto - Raggio di Gelo}{137}
+\indexentry{Incantesimi - Raggio di Affaticamento}{137}
+\indexentry{Incantesimi - Raggio Rovente}{137}
+\indexentry{Incantesimi - Ragnatela}{137}
+\indexentry{Trucchetto - Randello Incantato}{137}
+\indexentry{Incantesimi - Reggia Meravigliosa}{138}
+\indexentry{Incantesimi - Regressione Mentale}{138}
+\indexentry{Incantesimi - Reincarnazione}{138}
+\indexentry{Trucchetto - Resistenza}{139}
+\indexentry{Incantesimi - Respirare Sott'Acqua}{139}
+\indexentry{Incantesimi - Resurrezione}{139}
+\indexentry{Incantesimi - Resurrezione Pura}{139}
+\indexentry{Incantesimi - Rianimare Morti}{139}
+\indexentry{Incantesimi - Rigenerazione}{140}
+\indexentry{Incantesimi - Rimuovi Malattia}{140}
+\indexentry{Incantesimi - Rimuovi Maledizione}{140}
+\indexentry{Incantesimi - Rimuovi Veleno}{140}
+\indexentry{Incantesimi - Rinascita}{140}
+\indexentry{Trucchetto - Riparare}{140}
+\indexentry{Incantesimi - Riposo Inviolato}{140}
+\indexentry{Incantesimi - Risata Incontenibile}{141}
+\indexentry{Incantesimi - Riscaldare il Metallo}{141}
+\indexentry{Incantesimi - Ristorare Inferiore}{141}
+\indexentry{Incantesimi - Ristorare Superiore}{141}
+\indexentry{Incantesimi - Risveglio}{141}
+\indexentry{Incantesimi - Ritirata Rapida}{142}
+\indexentry{Incantesimi - Saltare}{142}
+\indexentry{Incantesimi - Santificare}{142}
+\indexentry{Incantesimi - Santuario}{142}
+\indexentry{Incantesimi - Santuario Privato}{143}
+\indexentry{Incantesimi - Scagliare Maledizione}{143}
+\indexentry{Incantesimi - Scassinare}{143}
+\indexentry{Incantesimi - Sciame di Meteore}{143}
+\indexentry{Incantesimi - Scolpire Pietra}{144}
+\indexentry{Incantesimi - Scopri il Percorso}{144}
+\indexentry{Incantesimi - Scopri Trappole}{144}
+\indexentry{Incantesimi - Scrigno Segreto}{144}
+\indexentry{Incantesimi - Scritto Illusorio}{144}
+\indexentry{Incantesimi - Scrutare}{145}
+\indexentry{Incantesimi - Scudo}{145}
+\indexentry{Incantesimi - Scudo della Fede}{145}
+\indexentry{Incantesimi - Scudo di Fuoco}{145}
+\indexentry{Incantesimi - Scurovisione}{145}
+\indexentry{Incantesimi - Segugio Fedele}{145}
+\indexentry{Incantesimi - Sembrare}{146}
+\indexentry{Incantesimi - Semipiano}{146}
+\indexentry{Incantesimi - Serratura Arcana}{146}
+\indexentry{Incantesimi - Servitore Invisibile}{146}
+\indexentry{Incantesimi - Sfera Congelante}{147}
+\indexentry{Incantesimi - Sfera Elastica}{147}
+\indexentry{Incantesimi - Sfera Infuocata}{147}
+\indexentry{Incantesimi - Sfocatura}{148}
+\indexentry{Incantesimi - Sguardo Penetrante}{148}
+\indexentry{Incantesimi - Silenzio}{148}
+\indexentry{Incantesimi - Simbolo}{148}
+\indexentry{Incantesimi - Simulacro}{149}
+\indexentry{Incantesimi - Sogno}{149}
+\indexentry{Incantesimi - Sonno}{150}
+\indexentry{Incantesimi - Spada Arcana}{150}
+\indexentry{Incantesimi - Spostamento Planare}{150}
+\indexentry{Incantesimi - Spruzzo Colorato}{150}
+\indexentry{Incantesimi - Spruzzo Prismatico}{151}
+\indexentry{Trucchetto - Spruzzo Velenoso}{151}
+\indexentry{Trucchetto - Stretta Folgorante}{151}
+\indexentry{Incantesimi - Suggestione}{151}
+\indexentry{Incantesimi - Suggestione di Massa}{152}
+\indexentry{Trucchetto - Taumaturgia}{152}
+\indexentry{Incantesimi - Telecinesi}{152}
+\indexentry{Incantesimi - Teletrasporto}{152}
+\indexentry{Incantesimi - Tempesta di Fuoco}{153}
+\indexentry{Incantesimi - Tempesta di Ghiaccio}{153}
+\indexentry{Incantesimi - Tempesta di Nevischio}{154}
+\indexentry{Incantesimi - Tentacoli Neri}{154}
+\indexentry{Incantesimi - Terremoto}{154}
+\indexentry{Incantesimi - Terreno Illusorio}{154}
+\indexentry{Trucchetto - Tocco Gelido}{155}
+\indexentry{Incantesimi - Tocco Vampirico}{155}
+\indexentry{Incantesimi - Trama Ipnotica}{155}
+\indexentry{Incantesimi - Trasformazione}{155}
+\indexentry{Incantesimi - Traslazione Arborea}{156}
+\indexentry{Incantesimi - Trasporto Vegetale}{156}
+\indexentry{Incantesimi - Trova Cavalcatura}{156}
+\indexentry{Incantesimi - Trova Famiglio}{156}
+\indexentry{Incantesimi - Trucco della Corda}{157}
+\indexentry{Incantesimi - Unto}{157}
+\indexentry{Incantesimi - Vedere Invisibilità}{157}
+\indexentry{Incantesimi - Velocità}{157}
+\indexentry{Incantesimi - Vigilanza e Interdizione}{157}
+\indexentry{Incantesimi - Vincolo di Interdizione}{158}
+\indexentry{Incantesimi - Visione del Vero}{158}
+\indexentry{Incantesimi - Vita Falsata}{158}
+\indexentry{Incantesimi - Volare}{158}
+\indexentry{Incantesimi - Vuoto Mentale}{158}
+\indexentry{Incantesimi - Zona di Verità}{159}
+\indexentry{Incantesimi - Bagliore Lunare}{160}
+\indexentry{Incantesimi - Contattare Altri Piani}{160}
+\indexentry{Incantesimi - Evoca Folletto}{160}
+\indexentry{Incantesimi - Guardiano della Fede}{160}
+\indexentry{Incantesimi - Guardiani Spirituali}{160}
+\indexentry{Incantesimi - Legame Planare}{161}
+\indexentry{Trucchetto - Salvare i Morenti}{161}
+\indexentry{Incantesimi - Tempesta di Vendetta}{161}
+\indexentry{Vantaggi}{162}
+\indexentry{Elenco Vantaggi}{162}
+\indexentry{Ali della provvidenza}{162}
+\indexentry{Ambidestro}{162}
+\indexentry{Amico degli animali}{162}
+\indexentry{Anfibio}{162}
+\indexentry{Arcobaleno}{162}
+\indexentry{Aura di coraggio}{162}
+\indexentry{Artigli}{162}
+\indexentry{Bere fa bene}{162}
+\indexentry{Bere fa molto bene}{162}
+\indexentry{Caduta gatto}{163}
+\indexentry{Camaleonte}{163}
+\indexentry{Cambiaforma}{163}
+\indexentry{Camminare sull'aria}{163}
+\indexentry{Camminare sulle acque}{163}
+\indexentry{Magnetico}{163}
+\indexentry{Consumi ridotti}{163}
+\indexentry{Controllo del metabolismo}{163}
+\indexentry{Cure efficaci}{163}
+\indexentry{Daredevil}{163}
+\indexentry{Denti}{163}
+\indexentry{Digestione universale}{163}
+\indexentry{Direzione Assoluta}{163}
+\indexentry{Duro da soggiogare}{163}
+\indexentry{Duro da uccidere}{163}
+\indexentry{Empatia con le piante}{163}
+\indexentry{Empatia Animale}{163}
+\indexentry{Empatia spirituale}{163}
+\indexentry{Ermafrodito}{163}
+\indexentry{Forgiato nell'acciaio}{163}
+\indexentry{Forma d'ombra}{163}
+\indexentry{Fortunato}{163}
+\indexentry{Guarigione accelerata}{163}
+\indexentry{Controllo Metabolismo}{163}
+\indexentry{Guaritore}{163}
+\indexentry{Il fegato non si conta}{163}
+\indexentry{Illuminato}{163}
+\indexentry{Immune}{163}
+\indexentry{Invisibile}{163}
+\indexentry{Ira}{163}
+\indexentry{La mia ombra è mia amica}{163}
+\indexentry{Legami di furia}{163}
+\indexentry{Lento e Fermo}{163}
+\indexentry{Lingua universale}{163}
+\indexentry{Magia esplosiva}{163}
+\indexentry{Mani di Fata}{163}
+\indexentry{Mano Piede palmata}{163}
+\indexentry{Mattiniero}{163}
+\indexentry{Medium}{164}
+\indexentry{Memoria fotografica}{164}
+\indexentry{Naso peloso}{164}
+\indexentry{Non dormi}{164}
+\indexentry{Non invecchi}{164}
+\indexentry{Non mangi bevi}{164}
+\indexentry{Non respiri}{164}
+\indexentry{L'Odore del sangue}{164}
+\indexentry{Oracolo}{164}
+\indexentry{Ottima vista}{164}
+\indexentry{Ottimo olfatto e gusto}{164}
+\indexentry{Ottimo tatto}{164}
+\indexentry{Ottimo udito}{164}
+\indexentry{Parlare con gli animali}{164}
+\indexentry{Parlare con le piante}{164}
+\indexentry{Percezione Cieca}{164}
+\indexentry{Vista Cieca}{164}
+\indexentry{Perfetto equilibrio}{164}
+\indexentry{Piedi veloci}{164}
+\indexentry{Pollice verde}{164}
+\indexentry{Polmoni di ferro}{164}
+\indexentry{Precognizione}{164}
+\indexentry{Recupero}{164}
+\indexentry{Resistenza}{164}
+\indexentry{Resistenza al danno}{164}
+\indexentry{Resistenza al magico}{164}
+\indexentry{Resistenza al...}{164}
+\indexentry{Ricostruzione}{164}
+\indexentry{Rigenerazione}{164}
+\indexentry{Scudo Mentale}{164}
+\indexentry{Sensi protetti}{164}
+\indexentry{Senso comune}{164}
+\indexentry{Senso della moda}{164}
+\indexentry{Senso delle vibrazioni}{164}
+\indexentry{Senso Tellurico}{164}
+\indexentry{Senso del tempo}{164}
+\indexentry{Senso ragno}{164}
+\indexentry{Senza paura}{164}
+\indexentry{Silenzioso}{164}
+\indexentry{Spine}{164}
+\indexentry{Super piastrine}{164}
+\indexentry{Talento per le lingue}{164}
+\indexentry{Talento selvaggio}{164}
+\indexentry{Tocco gelido}{164}
+\indexentry{Troll}{164}
+\indexentry{Udito subsonico}{165}
+\indexentry{Vedere l'invisibile}{165}
+\indexentry{Comprensione del vero}{165}
+\indexentry{Vista demoniaca}{165}
+\indexentry{Visione Perimetrale}{165}
+\indexentry{Visione Telescopica}{165}
+\indexentry{Voce suadente}{165}
+\indexentry{Voce subsonica}{165}
+\indexentry{Svantaggi}{166}
+\indexentry{Svantaggi di Ruolo}{167}
+\indexentry{Alcolismo}{167}
+\indexentry{Alla moda}{167}
+\indexentry{Amico degli animali}{167}
+\indexentry{Attira animali}{167}
+\indexentry{Attira guai}{167}
+\indexentry{Banana}{167}
+\indexentry{Bassa soglia del dolore}{167}
+\indexentry{Brufoli}{167}
+\indexentry{Ciuccione}{167}
+\indexentry{Codardo}{167}
+\indexentry{Cogito ergo sum}{167}
+\indexentry{Credulone}{167}
+\indexentry{Criceto}{167}
+\indexentry{Denti marci}{167}
+\indexentry{Dita nel naso}{167}
+\indexentry{Diva}{167}
+\indexentry{Faccia comune}{167}
+\indexentry{Galante}{167}
+\indexentry{Killer}{167}
+\indexentry{Impaurisci animali}{167}
+\indexentry{Incapace di divertirsi}{167}
+\indexentry{Inglese}{167}
+\indexentry{Mangione}{167}
+\indexentry{Meteora}{167}
+\indexentry{Megalomane}{167}
+\indexentry{Mentina}{167}
+\indexentry{Musichiere}{167}
+\indexentry{Non empatico}{167}
+\indexentry{Ossessione}{167}
+\indexentry{Pacco}{167}
+\indexentry{Pessimo carattere}{167}
+\indexentry{Pezzata}{167}
+\indexentry{Rigidezza mentale}{167}
+\indexentry{Saccente}{167}
+\indexentry{Sangue dal naso}{167}
+\indexentry{Sciarpina}{167}
+\indexentry{Segreto}{167}
+\indexentry{Seguire il Chaos}{167}
+\indexentry{Seguire la Legge}{167}
+\indexentry{Tatuato}{167}
+\indexentry{Topi}{167}
+\indexentry{Unghie}{167}
+\indexentry{Ultima parola}{167}
+\indexentry{Svantaggi psico/fisici}{168}
+\indexentry{Albino}{168}
+\indexentry{Allergia}{168}
+\indexentry{Allucinazioni}{168}
+\indexentry{Amnesia}{168}
+\indexentry{Asceta}{168}
+\indexentry{Balbuziente}{168}
+\indexentry{Pessimo Carattere}{168}
+\indexentry{Spendaccione}{168}
+\indexentry{Caritatevole}{168}
+\indexentry{Cecità}{168}
+\indexentry{Cleptomania}{168}
+\indexentry{Codice Etico}{168}
+\indexentry{Voto}{168}
+\indexentry{Compulsivo}{168}
+\indexentry{Daltonismo}{168}
+\indexentry{Deformità}{168}
+\indexentry{Depressione}{169}
+\indexentry{Dipendenza}{169}
+\indexentry{Dislessia}{169}
+\indexentry{Disonestà Compulsiva}{169}
+\indexentry{Dolore Cronico}{169}
+\indexentry{Emofilia}{169}
+\indexentry{Epilessia}{169}
+\indexentry{Feticismo}{169}
+\indexentry{Ricordi}{169}
+\indexentry{Fobie}{169}
+\indexentry{Fotosensibilita}{169}
+\indexentry{Ghiro}{169}
+\indexentry{Goffaggine}{169}
+\indexentry{Igenista}{169}
+\indexentry{Incoscienza}{169}
+\indexentry{Indeciso}{169}
+\indexentry{Incubi Ricorrenti}{169}
+\indexentry{Libro Aperto}{169}
+\indexentry{Emicrania}{170}
+\indexentry{Maledetto}{170}
+\indexentry{Miopia}{170}
+\indexentry{Muto}{170}
+\indexentry{Discalculia}{170}
+\indexentry{Obesità}{170}
+\indexentry{Olfatto/Gusto Difettoso}{170}
+\indexentry{Onestà Compulsiva}{170}
+\indexentry{Ossa di Cristallo}{170}
+\indexentry{Monco}{170}
+\indexentry{Paranoioso}{170}
+\indexentry{Pelle Sensibile}{170}
+\indexentry{Pigro}{170}
+\indexentry{Rumoroso}{170}
+\indexentry{Sangue Debole}{170}
+\indexentry{Sbadataggine}{170}
+\indexentry{Schizofrenia}{170}
+\indexentry{Sfortunato}{170}
+\indexentry{Sindrome Maniaco Depressiva}{170}
+\indexentry{Depressione}{170}
+\indexentry{Soggezione}{171}
+\indexentry{Sonno Leggero}{171}
+\indexentry{affaticato}{171}
+\indexentry{Sordità}{171}
+\indexentry{Vertigini}{171}
+\indexentry{Visione notturna ridotta}{171}
+\indexentry{Timidezza}{171}
+\indexentry{Zoppo}{171}
+\indexentry{Fobie}{171}
+\indexentry{Tabella delle Fobie}{171}
+\indexentry{Cosmologia}{172}
+\indexentry{Ljust}{172}
+\indexentry{Calicante}{172}
+\indexentry{Atmos}{172}
+\indexentry{Tiya}{172}
+\indexentry{Curyan}{172}
+\indexentry{Lynx}{172}
+\indexentry{Tàhil}{173}
+\indexentry{Gradh}{173}
+\indexentry{Dyenos}{173}
+\indexentry{Ker}{173}
+\indexentry{Gnomi}{173}
+\indexentry{Patroni}{174}
+\indexentry{Vantaggi}{174}
+\indexentry{Tabella degli Elementi}{174}
+\indexentry{Ljust}{174}
+\indexentry{8 Passi delle Allieve}{175}
+\indexentry{Allieve}{175}
+\indexentry{Calicante}{175}
+\indexentry{Atmos}{176}
+\indexentry{Lynx}{176}
+\indexentry{Gradh}{176}
+\indexentry{Atherim}{177}
+\indexentry{Belevon}{177}
+\indexentry{Cattalm}{178}
+\indexentry{Efrem}{178}
+\indexentry{Erondil}{179}
+\indexentry{Gaya}{179}
+\indexentry{Krondal}{179}
+\indexentry{Ledyal}{180}
+\indexentry{Nethergal}{180}
+\indexentry{Nedraf}{181}
+\indexentry{Nihar}{181}
+\indexentry{Orudjs}{182}
+\indexentry{Orlaith}{182}
+\indexentry{Rezh}{182}
+\indexentry{Sumkjr}{183}
+\indexentry{7 Regole Luminose}{183}
+\indexentry{Shayalia}{184}
+\indexentry{Sixiser}{184}
+\indexentry{Tazher}{184}
+\indexentry{Thaft}{185}
+\indexentry{Torbiorn}{185}
+\indexentry{Tabella collegamento Patrono - Tratto}{186}
+\indexentry{Ricchezza e Denaro}{187}
+\indexentry{Monete}{187}
+\indexentry{Tabella Equivalenza delle Monete}{187}
+\indexentry{Altre Ricchezze}{188}
+\indexentry{Tabella Esempi altre ricchezze}{188}
+\indexentry{Equipaggiamento}{189}
+\indexentry{Armi}{189}
+\indexentry{Tabella Lista della Armi}{189}
+\indexentry{Tabella Lista dei proiettili}{190}
+\indexentry{Arco Composito}{190}
+\indexentry{Gittata}{190}
+\indexentry{Arma di taglia superiore}{191}
+\indexentry{Tipologia di danno}{191}
+\indexentry{Armi Improvvisate}{191}
+\indexentry{Lanciare armi}{191}
+\indexentry{Armature}{192}
+\indexentry{Scudi}{192}
+\indexentry{Tabella Armature}{192}
+\indexentry{Scudi}{193}
+\indexentry{Tabella Scudi}{194}
+\indexentry{Indossare e Togliere Armature}{194}
+\indexentry{Tabella Tempi per indossare e togliere l'armatura}{194}
+\indexentry{Merci}{195}
+\indexentry{Servizi}{195}
+\indexentry{Ricchezza e Denaro}{195}
+\indexentry{Materiali Speciali}{205}
+\indexentry{Acciaio Vivente}{205}
+\indexentry{Tabella Costo Acciaio Vivente}{205}
+\indexentry{Adamantio}{205}
+\indexentry{Tabella Costo Adamantio}{205}
+\indexentry{Argento Alchemico}{205}
+\indexentry{Tabella Costo Armi Argentate}{205}
+\indexentry{Ferro Freddo}{205}
+\indexentry{Mithral}{206}
+\indexentry{Tabella Costo Armi Mithral}{206}
+\indexentry{Pelle di Drago}{206}
+\indexentry{Sfondare}{207}
+\indexentry{Entrare}{207}
+\indexentry{Tabella Taglia e Difesa degli Oggetti - Colpire un Oggetto}{207}
+\indexentry{Tabella Durezza e PF oggetti}{207}
+\indexentry{Tabella Durezza, Punti Ferita e DC Forza per Rompere Oggetti}{208}
+\indexentry{Rompere Oggetti}{208}
+\indexentry{Tabella Modificatori prova di Forza per Sfondare porta}{208}
+\indexentry{Tabella DC per Rompere o Forzare oggetti - Prova di Forza}{208}
+\indexentry{Ambiente}{209}
+\indexentry{Visione}{209}
+\indexentry{Luce}{209}
+\indexentry{Tabella delle fonti di luce}{209}
+\indexentry{Luce Fioca}{209}
+\indexentry{Luce Fioca}{209}
+\indexentry{Oscurità}{209}
+\indexentry{Cieco}{209}
+\indexentry{Luce}{209}
+\indexentry{Visione Normale}{209}
+\indexentry{Visione Crepuscolare}{209}
+\indexentry{Scurovisione}{209}
+\indexentry{Buio}{210}
+\indexentry{Accecato}{210}
+\indexentry{Invisibile}{210}
+\indexentry{Invisibile}{210}
+\indexentry{Accecata}{210}
+\indexentry{Cadute}{210}
+\indexentry{Cadere in Acqua}{210}
+\indexentry{Acido}{211}
+\indexentry{Fumo}{211}
+\indexentry{Fame}{211}
+\indexentry{Sete}{211}
+\indexentry{Oggetti Cadenti}{211}
+\indexentry{Tabella Danno da Oggetti Cadenti}{211}
+\indexentry{Pericoli dell'Acqua}{211}
+\indexentry{Acqua}{211}
+\indexentry{Annegamento}{212}
+\indexentry{Caldo}{212}
+\indexentry{Prendere Fuoco}{212}
+\indexentry{Fuoco}{212}
+\indexentry{Lava}{213}
+\indexentry{Freddo}{213}
+\indexentry{Ghiaccio}{213}
+\indexentry{Soffocamento}{213}
+\indexentry{Meteo}{214}
+\indexentry{Tabella Tempo Atmosferico Casuale}{214}
+\indexentry{Pioggia}{214}
+\indexentry{Neve}{215}
+\indexentry{Tempeste}{215}
+\indexentry{Nebbia}{216}
+\indexentry{Venti}{216}
+\indexentry{Tabella Effetti del Vento Forza del Vento}{216}
+\indexentry{Bufera}{216}
+\indexentry{Uragano}{216}
+\indexentry{Tornado}{216}
+\indexentry{Avventure in Acqua}{217}
+\indexentry{Attacchi sott'acqua}{217}
+\indexentry{Lanciare incantesimi sott'acqua}{217}
+\indexentry{Affondamento}{218}
+\indexentry{Tabella Statistiche delle Navi}{219}
+\indexentry{Città}{220}
+\indexentry{Macchine d'Assedio}{221}
+\indexentry{Catapulta}{221}
+\indexentry{Balista}{222}
+\indexentry{Ariete}{222}
+\indexentry{Torre da Assedio}{222}
+\indexentry{Tabella Modificatori di Attacco delle Catapulte}{222}
+\indexentry{Tabella Macchine d'Assedio}{222}
+\indexentry{Strade Cittadine}{223}
+\indexentry{Avventure}{224}
+\indexentry{Disastri}{224}
+\indexentry{Vulcani}{224}
+\indexentry{Lava}{224}
+\indexentry{Bombe Laviche}{224}
+\indexentry{Gas Venefici}{224}
+\indexentry{Tsunami}{224}
+\indexentry{Non Morti}{225}
+\indexentry{Dungeon}{226}
+\indexentry{Tabella Pareti}{227}
+\indexentry{Porte}{229}
+\indexentry{Tabella Porte}{229}
+\indexentry{Boleto Stridente}{233}
+\indexentry{Fanghiglia Verde}{233}
+\indexentry{Fungo Fosforescente}{233}
+\indexentry{Muffa Gialla}{233}
+\indexentry{Muffa Marrone}{233}
+\indexentry{Pericoli in Avventura}{234}
+\indexentry{Antidweomer}{234}
+\indexentry{Aria Viziata}{234}
+\indexentry{Parassiti}{234}
+\indexentry{Cercaorecchie}{235}
+\indexentry{Cristalli Mnemonici}{235}
+\indexentry{Larve Necrofaghe}{235}
+\indexentry{Minerale Magnetizzato}{235}
+\indexentry{Polla Maledetta}{235}
+\indexentry{Quercia Velenosa}{236}
+\indexentry{Trappole}{237}
+\indexentry{Tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}{238}
+\indexentry{Tabella Gravità del Danno per Livello}{238}
+\indexentry{Reputazione}{244}
+\indexentry{Fama}{244}
+\indexentry{Tabella come acquisire punti Fama}{244}
+\indexentry{Tabella Modificatori della Sfera di Notorietà}{245}
+\indexentry{Tabella Reazioni alla Fama Negativa}{246}
+\indexentry{Veleni}{247}
+\indexentry{Pozioni}{247}
+\indexentry{Insorgenza veleno}{247}
+\indexentry{Tempo di attivazione veleno}{247}
+\indexentry{Avvelenati}{247}
+\indexentry{Velono piu' dosi}{247}
+\indexentry{Applicare il Veleno}{247}
+\indexentry{Creare Veleni Naturali}{248}
+\indexentry{Tabella Veleni}{248}
+\indexentry{Mistura Rossa}{248}
+\indexentry{Nocciolo di Dennar}{248}
+\indexentry{Succo di Ythis}{248}
+\indexentry{Sangue di Thrun}{248}
+\indexentry{Erba puntuta rosa}{248}
+\indexentry{Dita di Daraka}{248}
+\indexentry{Polline di Rosa di Omro}{248}
+\indexentry{Fumi di Curna}{248}
+\indexentry{Olio di Nabar}{248}
+\indexentry{Bacche Azzurre di fosso}{248}
+\indexentry{Pelle di Rospo Azzurro}{248}
+\indexentry{Cenere di Corteccia Gialla}{248}
+\indexentry{Fiocco bianco di Mucot}{248}
+\indexentry{Bava fermentata di Lucos}{248}
+\indexentry{Bacca Viola di Barsar}{248}
+\indexentry{Lingua di Kreex}{248}
+\indexentry{Fegato di Toporagno Viola}{248}
+\indexentry{Muschio Giallo}{248}
+\indexentry{Veleno di Serpe del Sangue}{248}
+\indexentry{Profumo di Ragmor}{248}
+\indexentry{Grasso di Toporagno Viola}{248}
+\indexentry{Veleno di Ottalm}{248}
+\indexentry{Pozioni}{248}
+\indexentry{Tabella Elenco Pozioni}{249}
+\indexentry{Arlandas}{249}
+\indexentry{Burthelas}{249}
+\indexentry{Musekiss}{249}
+\indexentry{Bacche di Ljust}{249}
+\indexentry{Culcoa}{249}
+\indexentry{Jojopo}{249}
+\indexentry{Kelventare}{249}
+\indexentry{Harfy}{249}
+\indexentry{Arlan}{249}
+\indexentry{Darsurion}{249}
+\indexentry{Draaf}{249}
+\indexentry{Garioe}{249}
+\indexentry{Geffnull}{249}
+\indexentry{Mirenna}{249}
+\indexentry{Rewky}{249}
+\indexentry{Wickalim}{249}
+\indexentry{Lingua Rossa di Xabax}{249}
+\indexentry{Yaveth}{249}
+\indexentry{Bacio di Ljust}{249}
+\indexentry{Polline di Rosa Verde}{249}
+\indexentry{Arkasun}{249}
+\indexentry{Attarna}{249}
+\indexentry{Delrean}{249}
+\indexentry{Delrean Plus}{249}
+\indexentry{Melandrir}{249}
+\indexentry{Uovo di Urk}{249}
+\indexentry{Barannie}{249}
+\indexentry{Eldrin'tail}{249}
+\indexentry{Harlindar}{249}
+\indexentry{Klandor}{249}
+\indexentry{Klynkyx}{249}
+\indexentry{Arduuar}{249}
+\indexentry{Nazamuse}{249}
+\indexentry{Muschio Argentato}{249}
+\indexentry{Nelthalion}{249}
+\indexentry{Uscaboo}{249}
+\indexentry{Ucsaboo}{249}
+\indexentry{Febfendi}{249}
+\indexentry{Siranmuse}{249}
+\indexentry{Klagul}{250}
+\indexentry{Corteccia di Aklent}{250}
+\indexentry{Petali di Lisbeth}{250}
+\indexentry{Estratto di radice Gisenosa}{250}
+\indexentry{Gylvert}{250}
+\indexentry{Gusterbloon}{250}
+\indexentry{Lievito di Muschio Bianco}{250}
+\indexentry{Estratto di Bacca Illa bruciata}{250}
+\indexentry{Polvere di corteccia di Dagmather}{250}
+\indexentry{Radice secca di Kathaus}{250}
+\indexentry{Droga}{250}
+\indexentry{Tabella Elenco Droghe}{250}
+\indexentry{Foglie fermentate di Luside}{250}
+\indexentry{Ferpillon}{250}
+\indexentry{Unto Grigio}{250}
+\indexentry{Cenere di Arpasur}{250}
+\indexentry{Carne secca di Ragno Viola}{250}
+\indexentry{Estratto alcolico di Melzaa}{250}
+\indexentry{Essenza profumata do Inut}{250}
+\indexentry{Polline di Julnnaus}{250}
+\indexentry{Miele polverizzato del fiore di Erain}{250}
+\indexentry{Tabella decodifica codici località}{251}
+\indexentry{Tabella della corrispondenza Pozioni - Luoghi}{251}
+\indexentry{Pozioni generiche}{251}
+\indexentry{Pozioni}{251}
+\indexentry{Tabella delle pozioni generiche}{251}
+\indexentry{Trasporto}{252}
+\indexentry{Movimento}{252}
+\indexentry{Camminare}{252}
+\indexentry{Correre}{252}
+\indexentry{Movimento a Piedi}{252}
+\indexentry{Tabella Movimento e Distanza e Velocità : a Piedi}{252}
+\indexentry{Movimento Tattico}{252}
+\indexentry{Scatto}{252}
+\indexentry{Terreno difficile}{252}
+\indexentry{Movimento Locale}{253}
+\indexentry{Movimento Via Terra}{253}
+\indexentry{Camminare}{253}
+\indexentry{Andare Veloci}{253}
+\indexentry{Correre}{253}
+\indexentry{Terreno}{253}
+\indexentry{Tabella Terreno e Movimento Via Terra* (Opzionale)}{253}
+\indexentry{Marcia Forzata}{253}
+\indexentry{Movimento in sella}{253}
+\indexentry{Cavalcature}{254}
+\indexentry{Veicoli}{254}
+\indexentry{Tabella Cavalcature e Veicoli}{254}
+\indexentry{Cavallo movimento}{254}
+\indexentry{Cane}{254}
+\indexentry{Pony}{254}
+\indexentry{Carretto}{254}
+\indexentry{Zattera}{254}
+\indexentry{Barca}{254}
+\indexentry{Nave}{254}
+\indexentry{Fuga}{254}
+\indexentry{Inseguimento}{254}
+\indexentry{Capacità di Carico}{254}
+\indexentry{Ingombro}{254}
+\indexentry{Ingombro}{254}
+\indexentry{Peso}{254}
+\indexentry{Tabella Capacità di carico}{254}
+\indexentry{Nuotare}{255}
+\indexentry{Scalare}{256}
+\indexentry{Scavare}{256}
+\indexentry{Volare}{256}
+\indexentry{Masterizzare}{257}
+\indexentry{Narratore}{257}
+\indexentry{Punti Esperienza}{257}
+\indexentry{PX}{257}
+\indexentry{Tabella punti Esperienza / Livello}{257}
+\indexentry{Bonus PX}{258}
+\indexentry{Bonus Esperienza}{258}
+\indexentry{Incontri}{258}
+\indexentry{APL}{259}
+\indexentry{Tabella Determinare gli Incontri}{259}
+\indexentry{Tabella Peso grado di Sfida per calcolo APL}{259}
+\indexentry{Tesoro}{261}
+\indexentry{Tabella Valori del Tesoro per Incontro}{261}
+\indexentry{Tabella Ricchezza dei Personaggi per Livello}{261}
+\indexentry{Costruire un Bottino}{261}
+\indexentry{Recitare}{263}
+\indexentry{OSR}{263}
+\indexentry{Avventura in DBS}{263}
+\indexentry{Linee guida per i Narratori}{263}
+\indexentry{Creare Oggetti Magici}{265}
+\indexentry{Anelli Magici}{265}
+\indexentry{Creare Armature Magiche}{265}
+\indexentry{Creare Armi Magiche}{266}
+\indexentry{Creare Bacchette}{266}
+\indexentry{Creare Bastoni}{267}
+\indexentry{Creare Pergamene}{267}
+\indexentry{Pergamene}{267}
+\indexentry{Isy Scrol}{267}
+\indexentry{Pergamene facili}{267}
+\indexentry{Creare Pozioni}{268}
+\indexentry{Pozioni}{268}
+\indexentry{Creare Verghe}{268}
+\indexentry{Verghe}{268}
+\indexentry{Aggiungere Nuove Capacita}{269}
+\indexentry{Regole su Oggetti Magici}{270}
+\indexentry{Tabella Rarità Generazione Casuale}{270}
+\indexentry{Generazione Casuale}{270}
+\indexentry{Tabella Generazione Casuale degli Oggetti Magici}{270}
+\indexentry{Oggetti Magici sul Corpo}{271}
+\indexentry{Tiri Salvezza}{271}
+\indexentry{Danneggiare gli Oggetti Magici}{271}
+\indexentry{Riparare gli Oggetti Magici}{271}
+\indexentry{Cariche}{271}
+\indexentry{Dosi}{271}
+\indexentry{Usi Multipli}{271}
+\indexentry{Acquisire Oggetti Magici}{272}
+\indexentry{Tabella Acquisire Oggetti Magici}{272}
+\indexentry{Ali del Volo}{273}
+\indexentry{Ammazza Draghi}{273}
+\indexentry{Ammazza Giganti}{273}
+\indexentry{Ampolla di Ferro}{273}
+\indexentry{Amuleto dei Piani}{274}
+\indexentry{Amuleto di Protezione dalla Individuazione e Localizzazione}{274}
+\indexentry{Amuleto della Salute}{274}
+\indexentry{Anello Accumula Incantesimi}{274}
+\indexentry{Anello dell'Ariete}{274}
+\indexentry{Anello di Caduta Morbida}{274}
+\indexentry{Anello di Camminare sull'Acqua}{274}
+\indexentry{Anello del Calore}{275}
+\indexentry{Anello del Comando degli Elementali dell'Acqua}{275}
+\indexentry{Anello del Comando degli Elementali dell'Aria}{275}
+\indexentry{Anello del Comando degli Elementali del Fuoco}{275}
+\indexentry{Anello del Comando degli Elementali della Terra}{275}
+\indexentry{Anello di Elusione}{276}
+\indexentry{Anello dell'Evocazione dello Djinni}{276}
+\indexentry{Anello di Influenza sugli Animali}{276}
+\indexentry{Anello di Invisibilità}{276}
+\indexentry{Anello di Libertà di Azione}{276}
+\indexentry{Anello del Nuoto}{276}
+\indexentry{Anello di Protezione}{276}
+\indexentry{Anello Respingi Incantesimi}{276}
+\indexentry{Anello di Rigenerazione}{276}
+\indexentry{Anello di Resistenza}{276}
+\indexentry{Anello del Salto}{276}
+\indexentry{Anello dello Scudo Mentale}{276}
+\indexentry{Anello delle Stelle Cadenti}{277}
+\indexentry{Anello di Telecinesi}{277}
+\indexentry{Anello dei Tre Desideri}{277}
+\indexentry{Anello della Vista ai Raggi X}{277}
+\indexentry{Apparato del Granchio}{277}
+\indexentry{Armi Magiche}{278}
+\indexentry{Arma Perfida}{278}
+\indexentry{Armature Magiche}{278}
+\indexentry{Armatura di Adamantio}{278}
+\indexentry{Armatura di Cuoio Borchiato Elegante}{278}
+\indexentry{Armatura Demoniaca}{278}
+\indexentry{Armatura di Maglia Elfica}{278}
+\indexentry{Armatura di Mithral}{278}
+\indexentry{Armatura di Piastre dell'Eterealità}{278}
+\indexentry{Armatura di Piastre dell'Invulnerabilità}{278}
+\indexentry{Armatura di Piastre Nanica}{278}
+\indexentry{Armatura di Resistenza}{278}
+\indexentry{Armatura di Scaglie di Drago}{278}
+\indexentry{Armatura di Vulnerabilità}{279}
+\indexentry{Ascia del Berserker}{279}
+\indexentry{Bacchetta dei Dardi Incantati}{279}
+\indexentry{Bacchetta dei Fulmini}{279}
+\indexentry{Bacchetta di Individuazione del Magico}{279}
+\indexentry{Bacchetta di Individuazione dei Nemici}{279}
+\indexentry{Bacchetta del Mago da Guerra}{279}
+\indexentry{Bacchetta della Metamorfosi}{279}
+\indexentry{Bacchetta delle Meraviglie}{279}
+\indexentry{Bacchetta delle Palle di Fuoco}{280}
+\indexentry{Bacchetta della Paralisi}{280}
+\indexentry{Bacchetta della Paura}{281}
+\indexentry{Bacchetta della Ragnatela}{281}
+\indexentry{Bacchetta dei Segreti}{281}
+\indexentry{Bacchetta del Vincolo}{281}
+\indexentry{Barca Pieghevole}{281}
+\indexentry{Bastone di Avvizzimento}{281}
+\indexentry{Bastone dei Boschi}{281}
+\indexentry{Bastone dello Charme}{282}
+\indexentry{Bastone del Colpire}{282}
+\indexentry{Bastone del Fuoco}{282}
+\indexentry{Bastone del Gelo}{282}
+\indexentry{Bastone di Guarigione}{282}
+\indexentry{Bastone degli Insetti Sciamanti}{282}
+\indexentry{Bastone del Pitone}{283}
+\indexentry{Bastone del Potere}{283}
+\indexentry{Bastone dei Tuoni e Fulmini}{283}
+\indexentry{Battaglio dell'Apertura}{283}
+\indexentry{Borsa Conservante}{284}
+\indexentry{Borsa Conservante - Tipo I}{284}
+\indexentry{Borsa Conservante - Tipo II}{284}
+\indexentry{Borsa Conservante - Tipo III}{284}
+\indexentry{Borsa Conservante - Tipo IV}{284}
+\indexentry{Borsa Divorante}{284}
+\indexentry{Borsa dei Fagioli}{284}
+\indexentry{Borsa dei Trucchi}{285}
+\indexentry{Bottiglia dell'Efreeti}{285}
+\indexentry{Bottiglia Fumante}{286}
+\indexentry{Bracciali dell'Arciere}{286}
+\indexentry{Bracciali della Difesa}{286}
+\indexentry{Bracciali della Difesa Maggiore}{286}
+\indexentry{Braciere del Comando degli Elementali del Fuoco}{286}
+\indexentry{Brando del Gelo}{286}
+\indexentry{Brocca dell'Acqua Infinita}{286}
+\indexentry{Vano Portatile}{286}
+\indexentry{Buco Portatile}{287}
+\indexentry{Candela di Invocazione}{287}
+\indexentry{Cappa dell'Aracnide}{287}
+\indexentry{Cappa di Distorsione}{287}
+\indexentry{Cappa degli Elfi}{287}
+\indexentry{Cappa della Manta}{287}
+\indexentry{Cappa del Pipistrello}{288}
+\indexentry{Cappa di Protezione}{288}
+\indexentry{Cappello del Camuffamento}{288}
+\indexentry{Ceppi Dimensionali}{288}
+\indexentry{Cerchietto dell'Esplosione}{288}
+\indexentry{Cintura dei Giganti}{288}
+\indexentry{Cintura dei Nani}{288}
+\indexentry{Collana dell'Adattamento}{288}
+\indexentry{Collana delle Palle di Fuoco}{288}
+\indexentry{Collana del Rosario}{288}
+\indexentry{Corda da Arrampicata}{289}
+\indexentry{Corda dell'Intralciamento}{289}
+\indexentry{Corno di Distruzione}{289}
+\indexentry{Corno del Valhalla}{289}
+\indexentry{Cubo di Forza}{289}
+\indexentry{Difensore}{290}
+\indexentry{Elmo della Comprensione dei Linguaggi}{290}
+\indexentry{Elmo della Lucentezza}{290}
+\indexentry{Elmo della Telepatia}{290}
+\indexentry{Elmo del Teletrasporto}{291}
+\indexentry{Faretra Efficiente}{291}
+\indexentry{Fasce di Ferro del Vincolo}{291}
+\indexentry{Bandana dell'Intelligenza}{291}
+\indexentry{Filtro d'Amore}{291}
+\indexentry{Fortezza Istantanea}{291}
+\indexentry{Gemma Elementale}{291}
+\indexentry{Gemma della Luminosità}{291}
+\indexentry{Gemma della Vista}{292}
+\indexentry{Giavellotto dei Fulmini}{292}
+\indexentry{Guanti Afferra Proiettili}{292}
+\indexentry{Guanti d'Arme del Potere Ogre}{292}
+\indexentry{Guanti del Nuoto e della Scalata}{292}
+\indexentry{Incensiere del Comando degli Elementali dell'Aria}{292}
+\indexentry{Ladra delle Nove Vite}{292}
+\indexentry{Lama della Fortuna}{292}
+\indexentry{Lama del Sole}{292}
+\indexentry{Lanciatore Nanico}{293}
+\indexentry{Lanterna della Rivelazione}{293}
+\indexentry{Lingua di Fuoco}{293}
+\indexentry{Mantella del Ciarlatano}{293}
+\indexentry{Mantello della Resistenza agli Incantesimi}{293}
+\indexentry{Manuale degli Esercizi Pratici}{293}
+\indexentry{Manuale dei Golem}{293}
+\indexentry{Manuale della Rapidità d'Azione}{293}
+\indexentry{Martello dei Fulmini}{293}
+\indexentry{Mazza della Distruzione}{293}
+\indexentry{Mazza della Punizione}{294}
+\indexentry{Mazza del Terrore}{294}
+\indexentry{Mazzo delle Illusioni}{294}
+\indexentry{Mazzo delle Meraviglie}{294}
+\indexentry{Medaglione dei Pensieri}{296}
+\indexentry{Miniatura dal Potere Meraviglioso}{296}
+\indexentry{Munizione dell'Uccisione}{297}
+\indexentry{Occhi Affascinanti}{297}
+\indexentry{Occhi dell'Aquila}{297}
+\indexentry{Occhi della Vista Dettagliata}{297}
+\indexentry{Occhiali da Notte}{297}
+\indexentry{Olio di Affilatezza}{297}
+\indexentry{Olio di Forma Eterea}{297}
+\indexentry{Olio di Scivolosità}{297}
+\indexentry{Palla di Cristallo}{297}
+\indexentry{Pantofole del Ragno}{298}
+\indexentry{Pergamena degli Incantesimi}{298}
+\indexentry{Perla del Potere}{298}
+\indexentry{Pietra Arcana}{298}
+\indexentry{Pietra della Buona Sorte}{298}
+\indexentry{Pietra del Controllo degli Elementali della Terra}{298}
+\indexentry{Piffero delle Fogne}{299}
+\indexentry{Piffero dello Spavento}{299}
+\indexentry{Pigmenti delle Meraviglie}{299}
+\indexentry{Piuma Arcana}{299}
+\indexentry{Polvere dell'Aridità}{300}
+\indexentry{Polvere della Sparizione}{300}
+\indexentry{Polvere dello Starnuto e del Soffocamento}{300}
+\indexentry{Portale Cubico}{300}
+\indexentry{Pozione di Amicizia con gli Animali}{300}
+\indexentry{Pozione di Arrampicata}{300}
+\indexentry{Pozione di Chiaroveggenza}{300}
+\indexentry{Pozione di Crescita}{300}
+\indexentry{Pozione di Eroismo}{301}
+\indexentry{Pozione di Forma Gassosa}{301}
+\indexentry{Pozione di Forza dei Giganti}{301}
+\indexentry{Pozione di Guarigione}{301}
+\indexentry{Pozione di Invisibilità}{301}
+\indexentry{Pozione di Lettura del Pensiero}{301}
+\indexentry{Pozione di Resistenza}{301}
+\indexentry{Pozione di Rimpicciolimento}{301}
+\indexentry{Pozione di Respirare Sott'Acqua}{301}
+\indexentry{Pozione di Veleno}{301}
+\indexentry{Pozione di Velocità}{301}
+\indexentry{Pozione di Volo}{301}
+\indexentry{Pozzo dei Molti Mondi}{301}
+\indexentry{Pugnale del Veleno}{301}
+\indexentry{Sacro Vendicatore}{302}
+\indexentry{Scarabeo di Protezione}{302}
+\indexentry{Scimitarra di Velocità}{302}
+\indexentry{Scopa Volante}{302}
+\indexentry{Scudo Magico}{302}
+\indexentry{Scudo Afferra Frecce}{302}
+\indexentry{Scudo Animato}{302}
+\indexentry{Scudo dell'Attrazione dei Proiettili}{302}
+\indexentry{Scudo di Difesa dagli Incantesimi}{302}
+\indexentry{Sfera dell'Annientamento}{302}
+\indexentry{Solvente Universale}{303}
+\indexentry{Spada dell'Affilatezza}{303}
+\indexentry{Spada Danzante}{303}
+\indexentry{Spada Ruba Vita}{303}
+\indexentry{Spada del Sanguinamento}{303}
+\indexentry{Spada Vorpal}{303}
+\indexentry{Specchio Intrappola Vita}{303}
+\indexentry{Spilla della Difesa}{304}
+\indexentry{Stivali Alati}{304}
+\indexentry{Stivali della Corsa e del Salto}{304}
+\indexentry{Stivali degli Elfi}{304}
+\indexentry{Stivali dell'Inverno}{304}
+\indexentry{Stivali della Levitazione}{304}
+\indexentry{Stivali della Velocità}{304}
+\indexentry{Talismano di Protezione dal Veleno}{304}
+\indexentry{Talismano della Salute}{304}
+\indexentry{Talismano della Sfera}{304}
+\indexentry{Tappeto Volante}{304}
+\indexentry{Tomo dell'Autorità e dell'Influenza}{305}
+\indexentry{Tomo della Comprensione}{305}
+\indexentry{Tomo del Pensiero Limpido}{305}
+\indexentry{Tridente del Comando dei Pesci}{305}
+\indexentry{Unguento Ristorativo}{305}
+\indexentry{Ventaglio Arcano}{305}
+\indexentry{Verga dell'Assorbimento}{305}
+\indexentry{Verga Inamovibile}{305}
+\indexentry{Verga della Forza Sovrana}{305}
+\indexentry{Verga della Prontezza}{306}
+\indexentry{Verga della Sicurezza}{306}
+\indexentry{Verga della Sovranità}{306}
+\indexentry{Verga Tentacolare}{306}
+\indexentry{Vestaglia dei Colori Scintillanti}{307}
+\indexentry{Vestaglia degli Occhi}{307}
+\indexentry{Vestaglia degli Oggetti Utili}{307}
+\indexentry{Vestaglia delle Stelle}{307}
+\indexentry{Zainetto Pratico}{307}
+\indexentry{Zoccoli della Velocità}{308}
+\indexentry{Zoccoli dello Zefiro}{308}
+\indexentry{Accumula Incantesimi}{309}
+\indexentry{Adattiva}{309}
+\indexentry{Affilata}{309}
+\indexentry{Anatema}{309}
+\indexentry{Cacciatore}{309}
+\indexentry{Conduttiva}{309}
+\indexentry{Coraggiosa}{310}
+\indexentry{Corrosiva}{310}
+\indexentry{Crudele}{310}
+\indexentry{Danzante}{310}
+\indexentry{Designante}{310}
+\indexentry{Difensiva}{310}
+\indexentry{Distanza}{310}
+\indexentry{Distruzione}{310}
+\indexentry{Duello}{310}
+\indexentry{Energia Luminosa}{310}
+\indexentry{Estingui Fuoco}{311}
+\indexentry{Ferimento}{311}
+\indexentry{Folgorante}{311}
+\indexentry{Furia Innata}{311}
+\indexentry{Gelida}{311}
+\indexentry{Gloriosa}{311}
+\indexentry{Guardiana}{311}
+\indexentry{Immorale}{311}
+\indexentry{Impulso Vitale}{312}
+\indexentry{Infuocata}{312}
+\indexentry{Letale}{312}
+\indexentry{Marina}{312}
+\indexentry{Mascheramento}{312}
+\indexentry{Munizione Fantasma}{312}
+\indexentry{Munizioni Infinite}{312}
+\indexentry{Pietosa}{312}
+\indexentry{Planare}{312}
+\indexentry{Prensile}{313}
+\indexentry{Ricercante}{313}
+\indexentry{Ritornante}{313}
+\indexentry{Sacra}{313}
+\indexentry{Sprezzante}{313}
+\indexentry{Tocco Fantasma}{313}
+\indexentry{Tonante}{313}
+\indexentry{Trasformante}{313}
+\indexentry{Velocità}{313}
+\indexentry{Accecante}{314}
+\indexentry{Amorfa}{314}
+\indexentry{Animato}{314}
+\indexentry{Antiemorragica}{314}
+\indexentry{Ariete}{314}
+\indexentry{Attaccabrighe}{314}
+\indexentry{Bilanciata}{314}
+\indexentry{Brillante}{314}
+\indexentry{Carico}{315}
+\indexentry{Denegante}{315}
+\indexentry{Determinazione}{315}
+\indexentry{Felpa}{315}
+\indexentry{Forma Eterea}{315}
+\indexentry{Invulnerabilità}{315}
+\indexentry{Irrintracciabile}{315}
+\indexentry{Mascheramento}{315}
+\indexentry{Ombra}{315}
+\indexentry{Ospitale}{315}
+\indexentry{Percettiva}{316}
+\indexentry{Resistenza al Veleno}{316}
+\indexentry{Resistenza all'Energia}{316}
+\indexentry{Resistenza all'Energia Superiore}{316}
+\indexentry{Selvatica}{316}
+\indexentry{Titanica}{316}
+\indexentry{Tocco Fantasma}{317}
+\indexentry{Oggetti Maledetti}{318}
+\indexentry{Rimuovere Oggetti Maledetti}{318}
+\indexentry{Tabella Effetti degli oggetti magici maledetti}{320}
+\indexentry{Yeru}{321}
+\indexentry{Atilantis}{321}
+\indexentry{Sparka}{321}
+\indexentry{Andhakara}{321}
+\indexentry{Curyan}{321}
+\indexentry{Portali}{323}
+\indexentry{Draghi}{323}
+\indexentry{Drago Nero}{324}
+\indexentry{Drago Blu}{324}
+\indexentry{Drago Verde}{325}
+\indexentry{Drago Bianco}{325}
+\indexentry{Drago Porpora}{325}
+\indexentry{Drago Giallo}{325}
+\indexentry{Drago Rosso}{325}
+\indexentry{Calendario}{326}
+\indexentry{I cicli millenari}{326}
+\indexentry{Tabella Effetti della Magia Selvaggia}{331}
+\indexentry{Condizioni}{337}
+\indexentry{Abbagliato}{337}
+\indexentry{Accecato}{337}
+\indexentry{Accovacciato}{337}
+\indexentry{Affascinato}{337}
+\indexentry{Affaticato}{337}
+\indexentry{Afferrato}{337}
+\indexentry{Amichevole}{337}
+\indexentry{Assordato}{337}
+\indexentry{Avvelenato}{337}
+\indexentry{Charmato}{337}
+\indexentry{Confuso}{337}
+\indexentry{Dominato}{338}
+\indexentry{Esausto}{338}
+\indexentry{Inabile}{338}
+\indexentry{Infermo}{338}
+\indexentry{Impreparato}{338}
+\indexentry{Lotta}{338}
+\indexentry{Incorporeo}{338}
+\indexentry{Indifeso}{338}
+\indexentry{Colpo di Grazia}{339}
+\indexentry{Intralciato}{339}
+\indexentry{Immobilizzato}{339}
+\indexentry{Invisibile}{339}
+\indexentry{Livelli Negativi}{339}
+\indexentry{Morente}{339}
+\indexentry{Morto}{339}
+\indexentry{Nauseato}{339}
+\indexentry{Paralizzato}{339}
+\indexentry{Pietrificato}{339}
+\indexentry{Paura}{339}
+\indexentry{Prono}{339}
+\indexentry{Scosso}{339}
+\indexentry{Spaventato}{340}
+\indexentry{Stordito}{340}
+\indexentry{Svenuto}{340}
+\indexentry{In Preda al Panico}{340}
+\indexentry{Terrore Crescente}{340}
+\indexentry{Rotto}{340}
+\indexentry{Sanguinante}{340}
+\indexentry{Tabella Equivalenza Armi Magiche}{344}
+\indexentry{Mostri - Aboleth}{348}
+\indexentry{Mostri - Angeli}{349}
+\indexentry{Mostri - Angelo Deva}{349}
+\indexentry{Mostri - Angelo Solar}{350}
+\indexentry{Mostri - Ankheg}{351}
+\indexentry{Mostri - Arpia}{352}
+\indexentry{Mostri - Azer}{353}
+\indexentry{Mostri - Basilisco}{353}
+\indexentry{Mostri - Behir}{354}
+\indexentry{Mostri - Bugbear}{355}
+\indexentry{Mostri - Bulette}{355}
+\indexentry{Mostri - Centauro}{356}
+\indexentry{Mostri - Chimera}{357}
+\indexentry{Mostri - Chuul}{357}
+\indexentry{Mostri - Coboldo}{358}
+\indexentry{Mostri - Cockatrice}{358}
+\indexentry{Mostri - Couatl}{359}
+\indexentry{Mostri - Cumulo Strisciante}{360}
+\indexentry{Mostri - Demoni}{360}
+\indexentry{Mostri - Balor}{360}
+\indexentry{Mostri - Dretch}{361}
+\indexentry{Mostri - Glabrezu}{362}
+\indexentry{Mostri - Hezrou}{363}
+\indexentry{Mostri - Marilith}{363}
+\indexentry{Mostri - Nalfeshnee}{364}
+\indexentry{Mostri - Quasit}{364}
+\indexentry{Mostri - Vrock}{365}
+\indexentry{Mostri - Destriero da Incubo}{366}
+\indexentry{Mostri - Diavoli}{366}
+\indexentry{Mostri - Diavolo Barbuto}{366}
+\indexentry{Mostri - Diavolo delle Catene}{367}
+\indexentry{Mostri - Diavolo Cornuto}{367}
+\indexentry{Mostri - Diavolo della Fossa}{368}
+\indexentry{Mostri - Diavolo del Ghiaccio}{369}
+\indexentry{Mostri - Diavolo d'Ossa}{370}
+\indexentry{Mostri - Diavolo Spinoso}{371}
+\indexentry{Mostri - Erinni}{371}
+\indexentry{Mostri - Imp}{372}
+\indexentry{Mostri - Lemure}{373}
+\indexentry{Mostri - Dinosauri}{373}
+\indexentry{Mostri - Plesiosauro}{373}
+\indexentry{Mostri - Tirannosauro}{374}
+\indexentry{Mostri - Triceratopo}{374}
+\indexentry{Mostri - Doppelganger}{374}
+\indexentry{Mostri - Draghi Cromatici}{375}
+\indexentry{Mostri - Drago Bianco Antico}{375}
+\indexentry{Incantesimi da Drago Bianco}{376}
+\indexentry{Mostri - Drago Bianco Adulto}{376}
+\indexentry{Incantesimi da Drago Bianco}{377}
+\indexentry{Mostri - Drago Bianco Giovane}{377}
+\indexentry{Incantesimi da Drago Bianco}{377}
+\indexentry{Mostri - Drago Bianco Cucciolo}{377}
+\indexentry{Mostri - Drago Blu Antico}{378}
+\indexentry{Incantesimi da Drago Blu}{378}
+\indexentry{Mostri - Drago Blu Adulto}{378}
+\indexentry{Incantesimi da Drago Blu}{379}
+\indexentry{Mostri - Drago Blu Giovane}{379}
+\indexentry{Incantesimi da Drago Blu}{380}
+\indexentry{Mostri - Drago Blu Cucciolo}{380}
+\indexentry{Mostri - Drago Giallo Antico}{380}
+\indexentry{Incantesimi da Drago Giallo}{381}
+\indexentry{Mostri - Drago Nero Antico}{381}
+\indexentry{Incantesimi da Drago Nero}{382}
+\indexentry{Mostri - Drago Nero Adulto}{382}
+\indexentry{Incantesimi da Drago Nero}{382}
+\indexentry{Mostri - Drago Nero Giovane}{382}
+\indexentry{Incantesimi da Drago Nero}{383}
+\indexentry{Mostri - Drago Nero Cucciolo}{383}
+\indexentry{Mostri - Drago Rosso Antico}{383}
+\indexentry{Incantesimi da Drago Rosso}{384}
+\indexentry{Mostri - Drago Rosso Adulto}{384}
+\indexentry{Incantesimi da Drago Rosso}{385}
+\indexentry{Mostri - Drago Rosso Giovane}{385}
+\indexentry{Incantesimi da Drago Rosso}{385}
+\indexentry{Mostri - Drago Rosso Cucciolo}{385}
+\indexentry{Mostri - Drago Verde Antico}{386}
+\indexentry{Incantesimi da Drago Verde}{386}
+\indexentry{Mostri - Drago Verde Adulto}{386}
+\indexentry{Incantesimi da Drago Verde}{387}
+\indexentry{Incantesimi da Drago Verde}{387}
+\indexentry{Mostri - rago Verde Cucciolo}{388}
+\indexentry{Mostri - Draghi Metallici}{388}
+\indexentry{Mostri - Drago d'Argento Antico}{388}
+\indexentry{Incantesimi da Drago Argento}{389}
+\indexentry{Mostri - Drago d'Argento Adulto}{389}
+\indexentry{Incantesimi da Drago Argento}{390}
+\indexentry{Mostri - Drago d'Argento Giovane}{390}
+\indexentry{Incantesimi da Drago Argento}{390}
+\indexentry{Mostri - Drago d'Argento Cucciolo}{390}
+\indexentry{Mostri - Drago di Bronzo Antico}{391}
+\indexentry{Incantesimi da Drago Bronzo}{391}
+\indexentry{Mostri - Drago di Bronzo Adulto}{392}
+\indexentry{Incantesimi da Drago Bronzo}{392}
+\indexentry{Mostri - Drago di Bronzo Giovane}{392}
+\indexentry{Incantesimi da Drago Bronzo}{393}
+\indexentry{Mostri - Drago di Bronzo Cucciolo}{393}
+\indexentry{Mostri - Drago d'Oro Antico}{393}
+\indexentry{Incantesimi da Drago d'Oro}{394}
+\indexentry{Mostri - Drago d'Oro Adulto}{394}
+\indexentry{Incantesimi da Drago d'Oro}{395}
+\indexentry{Mostri - Drago d'Oro Giovane}{395}
+\indexentry{Incantesimi da Drago d'Oro}{396}
+\indexentry{Mostri - Drago d'Oro Cucciolo}{396}
+\indexentry{Mostri - Drago d'Ottone Antico}{396}
+\indexentry{Incantesimi da Drago d'Ottone}{397}
+\indexentry{Mostri - Drago d'Ottone Adulto}{397}
+\indexentry{Incantesimi da Drago d'Ottone}{398}
+\indexentry{Mostri - Drago d'Ottone Giovane}{398}
+\indexentry{Incantesimi da Drago d'Ottone}{398}
+\indexentry{Mostri - Drago d'Ottone Cucciolo}{398}
+\indexentry{Mostri - Drago di Rame Antico}{399}
+\indexentry{Incantesimi da Drago di Rame}{399}
+\indexentry{Mostri - Drago di Rame Adulto}{400}
+\indexentry{Incantesimi da Drago di Rame}{400}
+\indexentry{Mostri - Drago di Rame Giovane}{400}
+\indexentry{Incantesimi da Drago di Rame}{401}
+\indexentry{Mostri - Drago di Rame Cucciolo}{401}
+\indexentry{Mostri - Drider}{401}
+\indexentry{Mostri - Driade}{402}
+\indexentry{Mostri - Duergar}{403}
+\indexentry{Mostri - Elementali}{403}
+\indexentry{Mostri - Elementale dell'Acqua}{403}
+\indexentry{Mostri - Elementale dell'Aria}{404}
+\indexentry{Mostri - Elementale del Fuoco}{405}
+\indexentry{Mostri - Elementale della Terra}{405}
+\indexentry{Mostri - Elfo, Drow}{406}
+\indexentry{Mostri - Ettercap}{406}
+\indexentry{Mostri - Ettin}{407}
+\indexentry{Mostri - Fantasma}{407}
+\indexentry{Mostri - Fauci Gorgoglianti}{409}
+\indexentry{Mostri - Funghi}{409}
+\indexentry{Mostri - Fungo Stridente}{409}
+\indexentry{Mostri - Fungo Violetto}{409}
+\indexentry{Mostri - Fuoco Fatuo}{410}
+\indexentry{Mostri - Fustigatore}{411}
+\indexentry{Mostri - Gargoyle}{412}
+\indexentry{Mostri - Geni}{412}
+\indexentry{Mostri - Djinni}{412}
+\indexentry{Mostri - Efreeti}{413}
+\indexentry{Mostri - Ghast}{414}
+\indexentry{Mostri - Ghoul}{414}
+\indexentry{Mostri - Giganti}{414}
+\indexentry{Mostri - Gigante di Collina}{414}
+\indexentry{Mostri - Gigante del Fuoco}{415}
+\indexentry{Mostri - Gigante del Gelo}{416}
+\indexentry{Mostri - Gigante delle Nuvole}{416}
+\indexentry{Mostri - Gigante di Pietra}{417}
+\indexentry{Mostri - Gigante delle Tempeste}{418}
+\indexentry{Mostri - Gnoll}{418}
+\indexentry{Mostri - Gnomo delle Profondità}{419}
+\indexentry{Mostri - Svirfneblin}{419}
+\indexentry{Mostri - Golem}{420}
+\indexentry{Mostri - Golem di Argilla}{420}
+\indexentry{Mostri - Golem di Carne}{420}
+\indexentry{Mostri - Golem di Ferro}{421}
+\indexentry{Mostri - Golem di Pietra}{422}
+\indexentry{Mostri - Gorgone}{422}
+\indexentry{Mostri - Grick}{423}
+\indexentry{Mostri - Grifone}{423}
+\indexentry{Mostri - Grimlock}{424}
+\indexentry{Mostri - Guardiano Protettore}{425}
+\indexentry{Mostri - Hobgoblin}{425}
+\indexentry{Mostri - Idra}{426}
+\indexentry{Mostri - Ippogrifo}{426}
+\indexentry{Mostri - Kraken}{427}
+\indexentry{Mostri - Lamia}{428}
+\indexentry{Mostri - Lich}{429}
+\indexentry{Mostri - Lucertoloide}{430}
+\indexentry{Mostri - Mannari}{430}
+\indexentry{Mostri - Cinghiale Mannaro}{430}
+\indexentry{Mostri - Lupo Mannaro}{431}
+\indexentry{Mostri - Orso Mannaro}{431}
+\indexentry{Mostri - Ratto Mannaro}{432}
+\indexentry{Mostri - Tigre Mannara}{433}
+\indexentry{Mostri - Manticora}{433}
+\indexentry{Mostri - Manto Assassino}{434}
+\indexentry{Mostri - Mantoscuro}{434}
+\indexentry{Mostri - Medusa}{435}
+\indexentry{Mostri - Mefiti}{436}
+\indexentry{Mostri - Mefito di Ghiaccio}{436}
+\indexentry{Mostri - Mefito di Magma}{437}
+\indexentry{Mostri - Mefito di Polvere}{437}
+\indexentry{Mostri - Mefito di Vapore}{438}
+\indexentry{Mostri - Megere}{438}
+\indexentry{Mostri - Megera Marina}{438}
+\indexentry{Mostri - Megera Notturna}{439}
+\indexentry{Mostri - Megera Verde}{439}
+\indexentry{Mostri - Melme}{440}
+\indexentry{Mostri - Ameba Paglierina}{440}
+\indexentry{Mostri - Cubo Gelatinoso}{441}
+\indexentry{Mostri - Melma Grigia}{442}
+\indexentry{Mostri - Protoplasma Nero}{442}
+\indexentry{Mostri - Mimic}{443}
+\indexentry{Mostri - Minotauro}{443}
+\indexentry{Mostri - Mummia}{444}
+\indexentry{Mostri - Mummia Sovrana}{445}
+\indexentry{Mostri - Naga}{446}
+\indexentry{Mostri - Naga Guardiano}{446}
+\indexentry{Mostri - Naga Spirituale}{446}
+\indexentry{Mostri - Oggetti Animati}{447}
+\indexentry{Mostri - Armatura Animata}{447}
+\indexentry{Mostri - Spada Volante}{447}
+\indexentry{Mostri - Tappeto del Soffocamento}{447}
+\indexentry{Mostri - Ogre}{448}
+\indexentry{Mostri - Ombra}{448}
+\indexentry{Mostri - Omuncolo}{449}
+\indexentry{Mostri - Oni}{449}
+\indexentry{Mostri - Orco}{449}
+\indexentry{Mostri - Orsogufo}{450}
+\indexentry{Mostri - Otyugh}{450}
+\indexentry{Mostri - Pegaso}{451}
+\indexentry{Mostri - Persecutore Invisibile}{452}
+\indexentry{Mostri - Pseudodrago}{452}
+\indexentry{Mostri - Rakshasa}{453}
+\indexentry{Mostri - Remorhaz}{454}
+\indexentry{Mostri - Rugginofago}{454}
+\indexentry{Mostri - Sahuagin}{455}
+\indexentry{Mostri - Salamandra}{456}
+\indexentry{Mostri - Satiro}{456}
+\indexentry{Mostri - Scheletro}{457}
+\indexentry{Mostri - Scheletro di Cavallo da Guerra}{457}
+\indexentry{Mostri - Scheletro di Minotauro}{457}
+\indexentry{Mostri - Segugio Infernale}{458}
+\indexentry{Mostri - Sfingi}{458}
+\indexentry{Mostri - Androsfinge}{458}
+\indexentry{Mostri - Ginosfinge}{459}
+\indexentry{Mostri - Spiritello}{460}
+\indexentry{Mostri - Strige (Uccello Stigeo)}{461}
+\indexentry{Mostri - Succube}{461}
+\indexentry{Mostri - Tarrasque}{462}
+\indexentry{Mostri - Testuggine Dragona}{463}
+\indexentry{Mostri - Troll}{463}
+\indexentry{Mostri - Uomo Acquatico}{464}
+\indexentry{Mostri - Treant}{464}
+\indexentry{Mostri - Magmin}{465}
+\indexentry{Mostri - Unicorno}{466}
+\indexentry{Mostri - Vampiri}{467}
+\indexentry{Mostri - Vampiro}{467}
+\indexentry{Mostri - Progenie Vampirica}{468}
+\indexentry{Mostri - Verme Purpureo}{469}
+\indexentry{Mostri - Viverna}{469}
+\indexentry{Mostri - Wight}{470}
+\indexentry{Mostri - Wraith}{470}
+\indexentry{Mostri - Xorn}{471}
+\indexentry{Mostri - Zombi}{472}
+\indexentry{Mostri - Zombi Ogre}{472}
+\indexentry{Mostri - Creature Varie}{473}
+\indexentry{Mostri - Albero Risvegliato}{473}
+\indexentry{Mostri - Alce}{473}
+\indexentry{Mostri - Alce Gigante}{473}
+\indexentry{Mostri - Aquila}{474}
+\indexentry{Mostri - Aquila Gigante}{474}
+\indexentry{Mostri - Avvoltoio}{474}
+\indexentry{Mostri - Avvoltoio Gigante}{475}
+\indexentry{Mostri - Babbuino}{475}
+\indexentry{Mostri - Orca}{475}
+\indexentry{Mostri - Becco d'Ascia}{476}
+\indexentry{Mostri - Cammello}{476}
+\indexentry{Mostri - Cane della Morte}{476}
+\indexentry{Mostri - Cane Intermittente}{477}
+\indexentry{Mostri - Caprone}{477}
+\indexentry{Mostri - Caprone Gigante}{478}
+\indexentry{Mostri - Cavallo da Corsa}{478}
+\indexentry{Mostri - Cavallo da Guerra}{478}
+\indexentry{Mostri - Cavallo da Tiro}{478}
+\indexentry{Mostri - Cavallo Marino Gigante}{479}
+\indexentry{Mostri - Centopiedi Gigante}{479}
+\indexentry{Mostri - Cervo}{479}
+\indexentry{Mostri - Cinghiale}{479}
+\indexentry{Mostri - Cinghiale Gigante}{480}
+\indexentry{Mostri - Coccodrillo}{480}
+\indexentry{Mostri - Coccodrillo Gigante}{480}
+\indexentry{Mostri - Corvo}{481}
+\indexentry{Mostri - Donnola}{481}
+\indexentry{Mostri - Donnola Gigante}{481}
+\indexentry{Mostri - Elefante}{481}
+\indexentry{Mostri - Falco}{482}
+\indexentry{Mostri - Falco di Sangue}{482}
+\indexentry{Mostri - Piranha}{482}
+\indexentry{Mostri - Gatto}{483}
+\indexentry{Mostri - Granchio Gigante}{483}
+\indexentry{Mostri - Gufo}{483}
+\indexentry{Mostri - Gufo Gigante}{483}
+\indexentry{Mostri - Iena}{484}
+\indexentry{Mostri - Iena Gigante}{484}
+\indexentry{Mostri - Leone}{484}
+\indexentry{Mostri - Lucertola}{485}
+\indexentry{Mostri - Lucertola Gigante}{485}
+\indexentry{Mostri - Lupo}{485}
+\indexentry{Mostri - Lupo gigante}{486}
+\indexentry{Mostri - Lupo Invernale}{486}
+\indexentry{Mostri - Mammut}{487}
+\indexentry{Mostri - Mastino}{487}
+\indexentry{Mostri - Mulo}{487}
+\indexentry{Mostri - Orso Bruno}{487}
+\indexentry{Mostri - Orso Nero}{488}
+\indexentry{Mostri - Orso Polare}{488}
+\indexentry{Mostri - Pantera}{488}
+\indexentry{Mostri - Piovra Gigante}{489}
+\indexentry{Mostri - Pipistrello}{489}
+\indexentry{Mostri - Pipistrello Gigante}{489}
+\indexentry{Mostri - Pony}{490}
+\indexentry{Mostri - Ragno}{490}
+\indexentry{Mostri - Ragno Fase}{490}
+\indexentry{Mostri - Ragno Gigante}{491}
+\indexentry{Mostri - Ragno Lupo Gigante}{491}
+\indexentry{Mostri - Rana}{492}
+\indexentry{Mostri - Rana Gigante}{492}
+\indexentry{Mostri - Ratto}{492}
+\indexentry{Mostri - Ratto Gigante}{492}
+\indexentry{Mostri - Rinoceronte}{492}
+\indexentry{Mostri - Rospo Gigante}{493}
+\indexentry{Mostri - Scarabeo di Fuoco Gigante}{493}
+\indexentry{Mostri - Sciacallo}{493}
+\indexentry{Mostri - Sciami}{494}
+\indexentry{Mostri - Sciame di Centopiedi}{494}
+\indexentry{Mostri - Sciame di Corvi}{494}
+\indexentry{Mostri - Sciame di Pirana}{494}
+\indexentry{Mostri - Sciame di Insetti}{495}
+\indexentry{Mostri - Sciame di Pipistrelli}{495}
+\indexentry{Mostri - Sciame di Ragni}{495}
+\indexentry{Mostri - Sciame di Ratti}{496}
+\indexentry{Mostri - Sciame di Scarabei}{496}
+\indexentry{Mostri - Sciame di Serpenti Velenosi}{496}
+\indexentry{Mostri - Sciame di Vespe}{496}
+\indexentry{Mostri - Scimmione}{497}
+\indexentry{Mostri - Scimmione Gigante}{497}
+\indexentry{Mostri - Scorpione}{497}
+\indexentry{Mostri - Scorpione Gigante}{497}
+\indexentry{Mostri - Serpente Costrittore}{498}
+\indexentry{Mostri - Serpente Costrittore Gigante}{498}
+\indexentry{Mostri - Serpente Velenoso}{499}
+\indexentry{Mostri - Serpente Velenoso Gigante}{499}
+\indexentry{Mostri - Serpente Volante}{499}
+\indexentry{Mostri - Squalo Cacciatore}{499}
+\indexentry{Mostri - Squalo Corallino}{499}
+\indexentry{Mostri - Squalo Gigante}{500}
+\indexentry{Mostri - Strige}{500}
+\indexentry{Mostri - Tasso}{500}
+\indexentry{Mostri - Tasso Gigante}{500}
+\indexentry{Mostri - Tigre}{501}
+\indexentry{Mostri - Tigre dai Denti a Sciabola}{501}
+\indexentry{Mostri - Vespa Gigante}{501}
+\indexentry{Mostri - Worg}{502}
+\indexentry{Mostri - Personaggi Non Giocanti}{503}
+\indexentry{Mostri - Personalizzare i PNG}{503}
+\indexentry{Mostri - Combattenti}{503}
+\indexentry{Mostri - Combattenti}{503}
+\indexentry{Mostri - Guardia}{503}
+\indexentry{Mostri - Veterano}{503}
+\indexentry{Mostri - Cavaliere}{503}
+\indexentry{Mostri - Gladiatore}{504}
+\indexentry{Mostri - Nobile}{504}
+\indexentry{Mostri - Popolano}{504}
+\indexentry{Mostri - Criminali}{505}
+\indexentry{Mostri - Bandito}{505}
+\indexentry{Mostri - Pirata}{505}
+\indexentry{Mostri - Spia}{505}
+\indexentry{Mostri - Capitano Pirata}{505}
+\indexentry{Mostri - Capitano dei Banditi}{505}
+\indexentry{Mostri - Assassino}{506}
+\indexentry{Mostri - Mago}{506}
+\indexentry{Mostri - Incantatore}{506}
+\indexentry{Mostri - Sacerdoti}{507}
+\indexentry{Mostri - Cultista}{507}
+\indexentry{Mostri - Accolito}{508}
+\indexentry{Mostri - Fanatico del Culto}{508}
+\indexentry{Mostri - Gran Sacerdote}{508}
+\indexentry{Mostri - Berserker}{508}
+\indexentry{Mostri - Combattente Tribale}{509}
+\indexentry{Mostri - Druido}{509}
+\indexentry{Mostri - Esploratore}{509}
+\indexentry{Conversione Mostri}{510}
+\indexentry{Autore}{511}
+\indexentry{Scheda}{511}
+\indexentry{Licenza}{514}
