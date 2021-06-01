@@ -649,3 +649,4 @@
 \contentsline {section}{Autore}{511}{section*.648}%
 \contentsline {section}{Scheda e Manuale}{511}{section*.649}%
 \contentsline {section}{Licenza}{514}{section*.650}%
+\contentsline {chapter}{Indice Analitico}{515}{section*.651}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.24)  1 JUN 2021 14:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.24)  1 JUN 2021 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1302,7 +1302,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             Lettrine height = 17.5998pt (D);
 (lettrine.sty)             reported on input line 188.
 [7]
-<immagini/Dragon_by_Henry_Justice_Ford_grey.jpg, id=1405, 740.7675pt x 435.8784
+<immagini/Dragon_by_Henry_Justice_Ford_grey.jpg, id=1407, 740.7675pt x 435.8784
 3pt>
 File: immagini/Dragon_by_Henry_Justice_Ford_grey.jpg Graphic file (type jpg)
 <use immagini/Dragon_by_Henry_Justice_Ford_grey.jpg>
@@ -1323,25 +1323,25 @@ Underfull \hbox (badness 6961) in paragraph at lines 280--281
 []\T1/ppl/b/n/10 Arrotondamenti\T1/ppl/m/n/10 : []sem-pre per di-fet-to se non
  []
 
-<immagini/spiritomagia2.png, id=1411, 144.54pt x 212.4738pt>
+<immagini/spiritomagia2.png, id=1413, 144.54pt x 212.4738pt>
 File: immagini/spiritomagia2.png Graphic file (type png)
 <use immagini/spiritomagia2.png>
 Package pdftex.def Info: immagini/spiritomagia2.png  used on input line 307.
 (pdftex.def)             Requested size: 224.06393pt x 329.39256pt.
 [9 <./immagini/spiritomagia2.png>]
-<immagini/Sakramentarz_tyniecki_02.png, id=1417, 555.92308pt x 752.34923pt>
+<immagini/Sakramentarz_tyniecki_02.png, id=1419, 555.92308pt x 752.34923pt>
 File: immagini/Sakramentarz_tyniecki_02.png Graphic file (type png)
 <use immagini/Sakramentarz_tyniecki_02.png>
 Package pdftex.def Info: immagini/Sakramentarz_tyniecki_02.png  used on input l
 ine 348.
 (pdftex.def)             Requested size: 224.06393pt x 303.23035pt.
  [10 <./immagini/Sakramentarz_tyniecki_02.png>]
-<immagini/cavaliere2.png, id=1422, 321.2pt x 406.51875pt>
+<immagini/cavaliere2.png, id=1424, 321.2pt x 406.51875pt>
 File: immagini/cavaliere2.png Graphic file (type png)
 <use immagini/cavaliere2.png>
 Package pdftex.def Info: immagini/cavaliere2.png  used on input line 378.
 (pdftex.def)             Requested size: 224.06393pt x 283.58731pt.
-<immagini/Jan_Steen2.png, id=1423, 144.54pt x 101.178pt>
+<immagini/Jan_Steen2.png, id=1425, 144.54pt x 101.178pt>
 File: immagini/Jan_Steen2.png Graphic file (type png)
 <use immagini/Jan_Steen2.png>
 Package pdftex.def Info: immagini/Jan_Steen2.png  used on input line 388.
@@ -1353,32 +1353,32 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (Y);
 (lettrine.sty)             reported on input line 422.
-<immagini/phrenology-5649932_1280.png, id=1429, 401.5pt x 463.7325pt>
+<immagini/phrenology-5649932_1280.png, id=1431, 401.5pt x 463.7325pt>
 File: immagini/phrenology-5649932_1280.png Graphic file (type png)
 <use immagini/phrenology-5649932_1280.png>
 Package pdftex.def Info: immagini/phrenology-5649932_1280.png  used on input li
 ne 437.
 (pdftex.def)             Requested size: 105.60667pt x 121.9808pt.
  [12 <./immagini/phrenology-5649932_1280.png>]
-<immagini/bikini-2023308_1280.png, id=1436, 642.4pt x 1284.8pt>
+<immagini/bikini-2023308_1280.png, id=1438, 642.4pt x 1284.8pt>
 File: immagini/bikini-2023308_1280.png Graphic file (type png)
 <use immagini/bikini-2023308_1280.png>
 Package pdftex.def Info: immagini/bikini-2023308_1280.png  used on input line 4
 88.
 (pdftex.def)             Requested size: 60.98943pt x 121.9808pt.
-<immagini/DnD_Dwarf.png, id=1437, 192.72pt x 243.309pt>
+<immagini/DnD_Dwarf.png, id=1439, 192.72pt x 243.309pt>
 File: immagini/DnD_Dwarf.png Graphic file (type png)
 <use immagini/DnD_Dwarf.png>
 Package pdftex.def Info: immagini/DnD_Dwarf.png  used on input line 520.
 (pdftex.def)             Requested size: 96.61853pt x 121.9808pt.
  [13 <./immagini/bikini-2023308_1280.png> <./immagini/DnD_Dwarf.png>]
-<immagini/halfelf_grey.jpg, id=1443, 501.875pt x 702.625pt>
+<immagini/halfelf_grey.jpg, id=1445, 501.875pt x 702.625pt>
 File: immagini/halfelf_grey.jpg Graphic file (type jpg)
 <use immagini/halfelf_grey.jpg>
 Package pdftex.def Info: immagini/halfelf_grey.jpg  used on input line 591.
 (pdftex.def)             Requested size: 87.1249pt x 121.9808pt.
  [14 <./immagini/halfelf_grey.jpg>]
-<immagini/diverso.jpg, id=1448, 903.375pt x 597.73312pt>
+<immagini/diverso.jpg, id=1450, 903.375pt x 597.73312pt>
 File: immagini/diverso.jpg Graphic file (type jpg)
 <use immagini/diverso.jpg>
 Package pdftex.def Info: immagini/diverso.jpg  used on input line 684.
@@ -1388,18 +1388,18 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (O);
 (lettrine.sty)             reported on input line 732.
-<immagini/mostro.png, id=1454, 96.36pt x 131.2905pt>
+<immagini/mostro.png, id=1456, 96.36pt x 131.2905pt>
 File: immagini/mostro.png Graphic file (type png)
 <use immagini/mostro.png>
 Package pdftex.def Info: immagini/mostro.png  used on input line 765.
 (pdftex.def)             Requested size: 219.56396pt x 299.15509pt.
-<immagini/argus2.png, id=1455, 120.45pt x 83.3514pt>
+<immagini/argus2.png, id=1457, 120.45pt x 83.3514pt>
 File: immagini/argus2.png Graphic file (type png)
 <use immagini/argus2.png>
 Package pdftex.def Info: immagini/argus2.png  used on input line 776.
 (pdftex.def)             Requested size: 243.96162pt x 168.83774pt.
  [16 <./immagini/mostro.png>]
-<immagini/grabroid.png, id=1460, 602.25pt x 451.6875pt>
+<immagini/grabroid.png, id=1462, 602.25pt x 451.6875pt>
 File: immagini/grabroid.png Graphic file (type png)
 <use immagini/grabroid.png>
 Package pdftex.def Info: immagini/grabroid.png  used on input line 808.
@@ -1429,7 +1429,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 846--847
 
  []
 
-<immagini/dice2.png, id=1465, 279.0425pt x 364.36125pt>
+<immagini/dice2.png, id=1467, 279.0425pt x 364.36125pt>
 File: immagini/dice2.png Graphic file (type png)
 <use immagini/dice2.png>
 Package pdftex.def Info: immagini/dice2.png  used on input line 853.
@@ -1444,7 +1444,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 869--870
 
  []
 
-<immagini/cavaliereprimopiano.png, id=1466, 96.36pt x 108.8868pt>
+<immagini/cavaliereprimopiano.png, id=1468, 96.36pt x 108.8868pt>
 File: immagini/cavaliereprimopiano.png Graphic file (type png)
 <use immagini/cavaliereprimopiano.png>
 Package pdftex.def Info: immagini/cavaliereprimopiano.png  used on input line 8
@@ -1484,7 +1484,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 921--922
 
  []
 
-<immagini/guerrieroispirato.png, id=1472, 96.36pt x 143.3355pt>
+<immagini/guerrieroispirato.png, id=1474, 96.36pt x 143.3355pt>
 File: immagini/guerrieroispirato.png Graphic file (type png)
 <use immagini/guerrieroispirato.png>
 Package pdftex.def Info: immagini/guerrieroispirato.png  used on input line 924
@@ -1520,7 +1520,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 964--966
 
  []
 
-<immagini/riempitivolungo3.png, id=1477, 578.16pt x 199.2243pt>
+<immagini/riempitivolungo3.png, id=1479, 578.16pt x 199.2243pt>
 File: immagini/riempitivolungo3.png Graphic file (type png)
 <use immagini/riempitivolungo3.png>
 Package pdftex.def Info: immagini/riempitivolungo3.png  used on input line 990.
@@ -1536,7 +1536,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1011--1013
 
  []
 
-<immagini/heart3.png, id=1482, 467.7475pt x 153.57375pt>
+<immagini/heart3.png, id=1484, 467.7475pt x 153.57375pt>
 File: immagini/heart3.png Graphic file (type png)
 <use immagini/heart3.png>
 Package pdftex.def Info: immagini/heart3.png  used on input line 1016.
@@ -1554,7 +1554,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (I);
 (lettrine.sty)             reported on input line 1043.
-<immagini/rabbits-foot.png, id=1483, 240.9pt x 160.6803pt>
+<immagini/rabbits-foot.png, id=1485, 240.9pt x 160.6803pt>
 File: immagini/rabbits-foot.png Graphic file (type png)
 <use immagini/rabbits-foot.png>
 Package pdftex.def Info: immagini/rabbits-foot.png  used on input line 1059.
@@ -1593,7 +1593,7 @@ Overfull \hbox (4.18184pt too wide) in paragraph at lines 1170--1170
 []|\T1/ppl/m/n/10 Sadomasochista| 
  []
 
-<immagini/troll.png, id=1494, 96.36pt x 87.6876pt>
+<immagini/troll.png, id=1496, 96.36pt x 87.6876pt>
 File: immagini/troll.png Graphic file (type png)
 <use immagini/troll.png>
 Package pdftex.def Info: immagini/troll.png  used on input line 1179.
@@ -1693,7 +1693,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1413--1414
  []
 
 [27]
-<immagini/giavellottiragazzo4.png, id=1517, 401.5pt x 422.57875pt>
+<immagini/giavellottiragazzo4.png, id=1519, 401.5pt x 422.57875pt>
 File: immagini/giavellottiragazzo4.png Graphic file (type png)
 <use immagini/giavellottiragazzo4.png>
 Package pdftex.def Info: immagini/giavellottiragazzo4.png  used on input line 1
@@ -1709,7 +1709,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (C);
 (lettrine.sty)             reported on input line 1486.
-<immagini/Leonidas_I_of_Sparta.png, id=1522, 401.5pt x 547.04375pt>
+<immagini/Leonidas_I_of_Sparta.png, id=1524, 401.5pt x 547.04375pt>
 File: immagini/Leonidas_I_of_Sparta.png Graphic file (type png)
 <use immagini/Leonidas_I_of_Sparta.png>
 Package pdftex.def Info: immagini/Leonidas_I_of_Sparta.png  used on input line 
@@ -1730,7 +1730,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1555--1556
 
  []
 
-<immagini/Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic.png, id=1545, 401.5
+<immagini/Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic.png, id=1547, 401.5
 pt x 284.06125pt>
 File: immagini/Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic.png Graphic fi
 le (type png)
@@ -1744,7 +1744,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1592--1594
  []
 
 [30 <./immagini/Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic.png>]
-<immagini/threasure2.png, id=1554, 803.0pt x 299.1175pt>
+<immagini/threasure2.png, id=1556, 803.0pt x 299.1175pt>
 File: immagini/threasure2.png Graphic file (type png)
 <use immagini/threasure2.png>
 Package pdftex.def Info: immagini/threasure2.png  used on input line 1663.
@@ -1755,12 +1755,12 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (L);
 (lettrine.sty)             reported on input line 1677.
-<immagini/master2.png, id=1560, 602.25pt x 365.365pt>
+<immagini/master2.png, id=1562, 602.25pt x 365.365pt>
 File: immagini/master2.png Graphic file (type png)
 <use immagini/master2.png>
 Package pdftex.def Info: immagini/master2.png  used on input line 1690.
 (pdftex.def)             Requested size: 243.96162pt x 148.00546pt.
-<immagini/difficulty.png, id=1561, 602.25pt x 484.81125pt>
+<immagini/difficulty.png, id=1563, 602.25pt x 484.81125pt>
 File: immagini/difficulty.png Graphic file (type png)
 <use immagini/difficulty.png>
 Package pdftex.def Info: immagini/difficulty.png  used on input line 1709.
@@ -1790,7 +1790,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1756--1757
 
  []
 
-<immagini/Foster_Bible_Pictures.png, id=1566, 602.25pt x 728.7225pt>
+<immagini/Foster_Bible_Pictures.png, id=1568, 602.25pt x 728.7225pt>
 File: immagini/Foster_Bible_Pictures.png Graphic file (type png)
 <use immagini/Foster_Bible_Pictures.png>
 Package pdftex.def Info: immagini/Foster_Bible_Pictures.png  used on input line
@@ -1811,7 +1811,7 @@ Overfull \hbox (5.10234pt too wide) in paragraph at lines 1908--1909
 [][]  
  []
 
-<immagini/babele.png, id=1576, 1314.0pt x 952.26353pt>
+<immagini/babele.png, id=1578, 1314.0pt x 952.26353pt>
 File: immagini/babele.png Graphic file (type png)
 <use immagini/babele.png>
 Package pdftex.def Info: immagini/babele.png  used on input line 1922.
@@ -1840,7 +1840,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (I);
 (lettrine.sty)             reported on input line 1988.
-<immagini/Achildbookofwarriors.png, id=1585, 602.25pt x 886.31125pt>
+<immagini/Achildbookofwarriors.png, id=1587, 602.25pt x 886.31125pt>
 File: immagini/Achildbookofwarriors.png Graphic file (type png)
 <use immagini/Achildbookofwarriors.png>
 Package pdftex.def Info: immagini/Achildbookofwarriors.png  used on input line 
@@ -1852,13 +1852,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2039--2040
  []
 
 [37 <./immagini/Achildbookofwarriors.png>]
-<immagini/Arthur-Pyle_Two_Knights.png, id=1590, 36.135pt x 20.7174pt>
+<immagini/Arthur-Pyle_Two_Knights.png, id=1592, 36.135pt x 20.7174pt>
 File: immagini/Arthur-Pyle_Two_Knights.png Graphic file (type png)
 <use immagini/Arthur-Pyle_Two_Knights.png>
 Package pdftex.def Info: immagini/Arthur-Pyle_Two_Knights.png  used on input li
 ne 2068.
 (pdftex.def)             Requested size: 219.56396pt x 125.91756pt.
-<immagini/hjford-fight.jpg, id=1591, 566.115pt x 864.22874pt>
+<immagini/hjford-fight.jpg, id=1593, 566.115pt x 864.22874pt>
 File: immagini/hjford-fight.jpg Graphic file (type jpg)
 <use immagini/hjford-fight.jpg>
 Package pdftex.def Info: immagini/hjford-fight.jpg  used on input line 2084.
@@ -1888,7 +1888,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2170--2171
 
  []
 
-<immagini/Perseus_Fighting_Phineus_and_his_Companions.png, id=1596, 144.54pt x 
+<immagini/Perseus_Fighting_Phineus_and_his_Companions.png, id=1598, 144.54pt x 
 112.9821pt>
 File: immagini/Perseus_Fighting_Phineus_and_his_Companions.png Graphic file (ty
 pe png)
@@ -1901,7 +1901,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2223--2225
 
  []
 
-<immagini/camminata.jpg, id=1602, 1499.6025pt x 732.7375pt>
+<immagini/camminata.jpg, id=1604, 1499.6025pt x 732.7375pt>
 File: immagini/camminata.jpg Graphic file (type jpg)
 <use immagini/camminata.jpg>
 Package pdftex.def Info: immagini/camminata.jpg  used on input line 2263.
@@ -1916,7 +1916,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2278--2281
 
  []
 
-<immagini/Nuremberg_chronicles.png, id=1607, 602.25pt x 513.92pt>
+<immagini/Nuremberg_chronicles.png, id=1609, 602.25pt x 513.92pt>
 File: immagini/Nuremberg_chronicles.png Graphic file (type png)
 <use immagini/Nuremberg_chronicles.png>
 Package pdftex.def Info: immagini/Nuremberg_chronicles.png  used on input line 
@@ -1932,7 +1932,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2298--2299
 
  []
 
-<immagini/giantdeath.png, id=1608, 602.25pt x 777.90625pt>
+<immagini/giantdeath.png, id=1610, 602.25pt x 777.90625pt>
 File: immagini/giantdeath.png Graphic file (type png)
 <use immagini/giantdeath.png>
 Package pdftex.def Info: immagini/giantdeath.png  used on input line 2301.
@@ -1943,7 +1943,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2305--2306
  []
 
 [41 <./immagini/Nuremberg_chronicles.png> <./immagini/giantdeath.png>]
-<immagini/caravaggioSalomeLondon.png, id=1613, 144.54pt x 122.859pt>
+<immagini/caravaggioSalomeLondon.png, id=1615, 144.54pt x 122.859pt>
 File: immagini/caravaggioSalomeLondon.png Graphic file (type png)
 <use immagini/caravaggioSalomeLondon.png>
 Package pdftex.def Info: immagini/caravaggioSalomeLondon.png  used on input lin
@@ -1954,7 +1954,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2350--2351
 
  []
 
-<immagini/Coypel_Charles-Antoine_-_Fury_of_Achilles_-_1737.png, id=1618, 602.25
+<immagini/Coypel_Charles-Antoine_-_Fury_of_Achilles_-_1737.png, id=1620, 602.25
 pt x 396.48125pt>
 File: immagini/Coypel_Charles-Antoine_-_Fury_of_Achilles_-_1737.png Graphic fil
 e (type png)
@@ -1963,12 +1963,12 @@ Package pdftex.def Info: immagini/Coypel_Charles-Antoine_-_Fury_of_Achilles_-_1
 737.png  used on input line 2370.
 (pdftex.def)             Requested size: 219.56396pt x 144.54808pt.
 [43 <./immagini/Coypel_Charles-Antoine_-_Fury_of_Achilles_-_1737.png>]
-<immagini/critico.png, id=1623, 602.25pt x 465.74pt>
+<immagini/critico.png, id=1625, 602.25pt x 465.74pt>
 File: immagini/critico.png Graphic file (type png)
 <use immagini/critico.png>
 Package pdftex.def Info: immagini/critico.png  used on input line 2433.
 (pdftex.def)             Requested size: 219.56396pt x 169.79825pt.
-<immagini/esplosionedanno.png, id=1624, 602.25pt x 931.48pt>
+<immagini/esplosionedanno.png, id=1626, 602.25pt x 931.48pt>
 File: immagini/esplosionedanno.png Graphic file (type png)
 <use immagini/esplosionedanno.png>
 Package pdftex.def Info: immagini/esplosionedanno.png  used on input line 2460.
@@ -1979,40 +1979,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 2503--2504
 
  []
 
-<immagini/archer.png, id=1630, 919.435pt x 511.9125pt>
+<immagini/archer.png, id=1632, 919.435pt x 511.9125pt>
 File: immagini/archer.png Graphic file (type png)
 <use immagini/archer.png>
 Package pdftex.def Info: immagini/archer.png  used on input line 2506.
 (pdftex.def)             Requested size: 219.56396pt x 122.24443pt.
 [45 <./immagini/esplosionedanno.png> <./immagini/archer.png>]
-<immagini/fenice.png, id=1636, 602.25pt x 965.6075pt>
+<immagini/fenice.png, id=1638, 602.25pt x 965.6075pt>
 File: immagini/fenice.png Graphic file (type png)
 <use immagini/fenice.png>
 Package pdftex.def Info: immagini/fenice.png  used on input line 2532.
 (pdftex.def)             Requested size: 219.56396pt x 352.03862pt.
  [46 <./immagini/fenice.png>]
-<immagini/vantaggio.png, id=1641, 602.25pt x 932.48375pt>
+<immagini/vantaggio.png, id=1643, 602.25pt x 932.48375pt>
 File: immagini/vantaggio.png Graphic file (type png)
 <use immagini/vantaggio.png>
 Package pdftex.def Info: immagini/vantaggio.png  used on input line 2590.
 (pdftex.def)             Requested size: 219.56396pt x 339.96245pt.
-<immagini/carica.png, id=1642, 602.25pt x 383.4325pt>
+<immagini/carica.png, id=1644, 602.25pt x 383.4325pt>
 File: immagini/carica.png Graphic file (type png)
 <use immagini/carica.png>
 Package pdftex.def Info: immagini/carica.png  used on input line 2619.
 (pdftex.def)             Requested size: 219.56396pt x 139.7908pt.
-<immagini/pilum.png, id=1643, 602.25pt x 335.2525pt>
+<immagini/pilum.png, id=1645, 602.25pt x 335.2525pt>
 File: immagini/pilum.png Graphic file (type png)
 <use immagini/pilum.png>
 Package pdftex.def Info: immagini/pilum.png  used on input line 2635.
 (pdftex.def)             Requested size: 219.56396pt x 122.22546pt.
  [47 <./immagini/vantaggio.png> <./immagini/carica.png>]
-<immagini/colpodigrazia.png, id=1648, 602.25pt x 416.55624pt>
+<immagini/colpodigrazia.png, id=1650, 602.25pt x 416.55624pt>
 File: immagini/colpodigrazia.png Graphic file (type png)
 <use immagini/colpodigrazia.png>
 Package pdftex.def Info: immagini/colpodigrazia.png  used on input line 2654.
 (pdftex.def)             Requested size: 219.56396pt x 151.86696pt.
-<immagini/angelospadone.png, id=1649, 673.51625pt x 1284.8pt>
+<immagini/angelospadone.png, id=1651, 673.51625pt x 1284.8pt>
 File: immagini/angelospadone.png Graphic file (type png)
 <use immagini/angelospadone.png>
 Package pdftex.def Info: immagini/angelospadone.png  used on input line 2699.
@@ -2038,13 +2038,13 @@ Underfull \hbox (badness 5771) in paragraph at lines 2757--2757
  []
 
 [49 <./immagini/angelospadone.png>]
-<immagini/twoweapon.jpg, id=1659, 213.04594pt x 191.9672pt>
+<immagini/twoweapon.jpg, id=1661, 213.04594pt x 191.9672pt>
 File: immagini/twoweapon.jpg Graphic file (type jpg)
 <use immagini/twoweapon.jpg>
 Package pdftex.def Info: immagini/twoweapon.jpg  used on input line 2802.
 (pdftex.def)             Requested size: 219.56396pt x 197.85144pt.
  [50 <./immagini/twoweapon.jpg>]
-<immagini/teseo.png, id=1664, 602.25pt x 841.1425pt>
+<immagini/teseo.png, id=1666, 602.25pt x 841.1425pt>
 File: immagini/teseo.png Graphic file (type png)
 <use immagini/teseo.png>
 Package pdftex.def Info: immagini/teseo.png  used on input line 2836.
@@ -2069,7 +2069,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2857--2858
 
  []
 
-<immagini/alfieri37.jpg, id=1665, 64.5612pt x 45.40965pt>
+<immagini/alfieri37.jpg, id=1667, 64.5612pt x 45.40965pt>
 File: immagini/alfieri37.jpg Graphic file (type jpg)
 <use immagini/alfieri37.jpg>
 Package pdftex.def Info: immagini/alfieri37.jpg  used on input line 2868.
@@ -2094,7 +2094,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2947--2948
 
  []
 
-<immagini/cavallo2.png, id=1671, 144.54pt x 216.0873pt>
+<immagini/cavallo2.png, id=1673, 144.54pt x 216.0873pt>
 File: immagini/cavallo2.png Graphic file (type png)
 <use immagini/cavallo2.png>
 Package pdftex.def Info: immagini/cavallo2.png  used on input line 2950.
@@ -2114,7 +2114,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2970--2971
 
  []
 
-<immagini/napoleone.png, id=1676, 602.25pt x 733.74126pt>
+<immagini/napoleone.png, id=1678, 602.25pt x 733.74126pt>
 File: immagini/napoleone.png Graphic file (type png)
 <use immagini/napoleone.png>
 Package pdftex.def Info: immagini/napoleone.png  used on input line 2992.
@@ -2124,12 +2124,12 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (N);
 (lettrine.sty)             reported on input line 3013.
-<immagini/hide.jpg, id=1681, 991.705pt x 638.385pt>
+<immagini/hide.jpg, id=1683, 991.705pt x 638.385pt>
 File: immagini/hide.jpg Graphic file (type jpg)
 <use immagini/hide.jpg>
 Package pdftex.def Info: immagini/hide.jpg  used on input line 3036.
 (pdftex.def)             Requested size: 219.56396pt x 141.33156pt.
-<immagini/invisibility.png, id=1682, 602.25pt x 979.66pt>
+<immagini/invisibility.png, id=1684, 602.25pt x 979.66pt>
 File: immagini/invisibility.png Graphic file (type png)
 <use immagini/invisibility.png>
 Package pdftex.def Info: immagini/invisibility.png  used on input line 3058.
@@ -2154,23 +2154,23 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (O);
 (lettrine.sty)             reported on input line 3133.
-<immagini/arma-mazza3.jpg, id=1691, 323.70938pt x 136.25906pt>
+<immagini/arma-mazza3.jpg, id=1693, 323.70938pt x 136.25906pt>
 File: immagini/arma-mazza3.jpg Graphic file (type jpg)
 <use immagini/arma-mazza3.jpg>
 Package pdftex.def Info: immagini/arma-mazza3.jpg  used on input line 3173.
 (pdftex.def)             Requested size: 219.56396pt x 92.42206pt.
-<immagini/arma-arco.jpg, id=1692, 288.3272pt x 184.43906pt>
+<immagini/arma-arco.jpg, id=1694, 288.3272pt x 184.43906pt>
 File: immagini/arma-arco.jpg Graphic file (type jpg)
 <use immagini/arma-arco.jpg>
 Package pdftex.def Info: immagini/arma-arco.jpg  used on input line 3192.
 (pdftex.def)             Requested size: 219.56396pt x 140.45656pt.
  [56 <./immagini/arma-mazza3.jpg>]
-<immagini/arma-balestra.png, id=1697, 602.25pt x 297.11pt>
+<immagini/arma-balestra.png, id=1699, 602.25pt x 297.11pt>
 File: immagini/arma-balestra.png Graphic file (type png)
 <use immagini/arma-balestra.png>
 Package pdftex.def Info: immagini/arma-balestra.png  used on input line 3213.
 (pdftex.def)             Requested size: 219.56396pt x 108.31956pt.
-<immagini/arma-mazzafrusto-mazza8.jpg, id=1698, 180.675pt x 241.65282pt>
+<immagini/arma-mazzafrusto-mazza8.jpg, id=1700, 180.675pt x 241.65282pt>
 File: immagini/arma-mazzafrusto-mazza8.jpg Graphic file (type jpg)
 <use immagini/arma-mazzafrusto-mazza8.jpg>
 Package pdftex.def Info: immagini/arma-mazzafrusto-mazza8.jpg  used on input li
@@ -2178,25 +2178,25 @@ ne 3245.
 (pdftex.def)             Requested size: 219.56396pt x 293.66924pt.
  [57 <./immagini/arma-arco.jpg> <./immagini/arma-balestra.png> <./immagini/arma
 -mazzafrusto-mazza8.jpg>]
-<immagini/sciabole.png, id=1705, 602.25pt x 608.2725pt>
+<immagini/sciabole.png, id=1707, 602.25pt x 608.2725pt>
 File: immagini/sciabole.png Graphic file (type png)
 <use immagini/sciabole.png>
 Package pdftex.def Info: immagini/sciabole.png  used on input line 3276.
 (pdftex.def)             Requested size: 219.56396pt x 221.76237pt.
-<immagini/arma-asta.png, id=1706, 451.6875pt x 503.63156pt>
+<immagini/arma-asta.png, id=1708, 451.6875pt x 503.63156pt>
 File: immagini/arma-asta.png Graphic file (type png)
 <use immagini/arma-asta.png>
 Package pdftex.def Info: immagini/arma-asta.png  used on input line 3318.
 (pdftex.def)             Requested size: 219.56396pt x 244.81432pt.
  [58 <./immagini/sciabole.png>]
-<immagini/arma-tipi-di-spade.png, id=1711, 451.6875pt x 306.39468pt>
+<immagini/arma-tipi-di-spade.png, id=1713, 451.6875pt x 306.39468pt>
 File: immagini/arma-tipi-di-spade.png Graphic file (type png)
 <use immagini/arma-tipi-di-spade.png>
 Package pdftex.def Info: immagini/arma-tipi-di-spade.png  used on input line 33
 64.
 (pdftex.def)             Requested size: 219.56396pt x 148.93785pt.
  [59 <./immagini/arma-asta.png> <./immagini/arma-tipi-di-spade.png>]
-<immagini/scudotorre.png, id=1716, 144.54pt x 96.1191pt>
+<immagini/scudotorre.png, id=1718, 144.54pt x 96.1191pt>
 File: immagini/scudotorre.png Graphic file (type png)
 <use immagini/scudotorre.png>
 Package pdftex.def Info: immagini/scudotorre.png  used on input line 3386.
@@ -2226,18 +2226,18 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (L);
 (lettrine.sty)             reported on input line 3486.
-<immagini/animalia3.png, id=1726, 542.025pt x 326.21875pt>
+<immagini/animalia3.png, id=1728, 542.025pt x 326.21875pt>
 File: immagini/animalia3.png Graphic file (type png)
 <use immagini/animalia3.png>
 Package pdftex.def Info: immagini/animalia3.png  used on input line 3533.
 (pdftex.def)             Requested size: 219.56396pt x 132.14275pt.
  [62 <./immagini/animalia3.png>]
-<immagini/horsearcher.png, id=1731, 602.25pt x 436.63126pt>
+<immagini/horsearcher.png, id=1733, 602.25pt x 436.63126pt>
 File: immagini/horsearcher.png Graphic file (type png)
 <use immagini/horsearcher.png>
 Package pdftex.def Info: immagini/horsearcher.png  used on input line 3578.
 (pdftex.def)             Requested size: 219.56396pt x 159.18587pt.
-<immagini/Historia_Mundi_Naturalis.jpg, id=1732, 702.625pt x 454.69875pt>
+<immagini/Historia_Mundi_Naturalis.jpg, id=1734, 702.625pt x 454.69875pt>
 File: immagini/Historia_Mundi_Naturalis.jpg Graphic file (type jpg)
 <use immagini/Historia_Mundi_Naturalis.jpg>
 Package pdftex.def Info: immagini/Historia_Mundi_Naturalis.jpg  used on input l
@@ -2248,14 +2248,14 @@ Underfull \hbox (badness 6658) in paragraph at lines 3666--3667
 \T1/ppl/m/n/10 Entrambi i Ti-ri per Col-pi-re han-no un -2 da-to
  []
 
-<immagini/oggettimagiciuomo.png, id=1738, 144.54pt x 163.5711pt>
+<immagini/oggettimagiciuomo.png, id=1740, 144.54pt x 163.5711pt>
 File: immagini/oggettimagiciuomo.png Graphic file (type png)
 <use immagini/oggettimagiciuomo.png>
 Package pdftex.def Info: immagini/oggettimagiciuomo.png  used on input line 369
 1.
 (pdftex.def)             Requested size: 219.56396pt x 248.48589pt.
 [64 <./immagini/oggettimagiciuomo.png>]
-<immagini/distillare.png, id=1743, 602.25pt x 780.9175pt>
+<immagini/distillare.png, id=1745, 602.25pt x 780.9175pt>
 File: immagini/distillare.png Graphic file (type png)
 <use immagini/distillare.png>
 Package pdftex.def Info: immagini/distillare.png  used on input line 3730.
@@ -2270,7 +2270,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3788--3789
 
  []
 
-<immagini/Early_Egyptian_juggling_art.jpg, id=1748, 1027.84pt x 557.08125pt>
+<immagini/Early_Egyptian_juggling_art.jpg, id=1750, 1027.84pt x 557.08125pt>
 File: immagini/Early_Egyptian_juggling_art.jpg Graphic file (type jpg)
 <use immagini/Early_Egyptian_juggling_art.jpg>
 Package pdftex.def Info: immagini/Early_Egyptian_juggling_art.jpg  used on inpu
@@ -2281,20 +2281,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 3890--3891
 
  []
 
-<immagini/Portrait_of_V_Greatrakes.png, id=1753, 144.54pt x 209.1012pt>
+<immagini/Portrait_of_V_Greatrakes.png, id=1755, 144.54pt x 209.1012pt>
 File: immagini/Portrait_of_V_Greatrakes.png Graphic file (type png)
 <use immagini/Portrait_of_V_Greatrakes.png>
 Package pdftex.def Info: immagini/Portrait_of_V_Greatrakes.png  used on input l
 ine 3931.
 (pdftex.def)             Requested size: 219.56396pt x 317.65205pt.
 [67]
-<immagini/kameame.png, id=1758, 602.25pt x 429.605pt>
+<immagini/kameame.png, id=1760, 602.25pt x 429.605pt>
 File: immagini/kameame.png Graphic file (type png)
 <use immagini/kameame.png>
 Package pdftex.def Info: immagini/kameame.png  used on input line 3964.
 (pdftex.def)             Requested size: 219.56396pt x 156.62425pt.
  [68 <./immagini/Portrait_of_V_Greatrakes.png> <./immagini/kameame.png>]
-<immagini/elcolosso.png, id=1764, 451.6875pt x 507.39563pt>
+<immagini/elcolosso.png, id=1766, 451.6875pt x 507.39563pt>
 File: immagini/elcolosso.png Graphic file (type png)
 <use immagini/elcolosso.png>
 Package pdftex.def Info: immagini/elcolosso.png  used on input line 4062.
@@ -2305,13 +2305,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4081--4083
  []
 
 [69 <./immagini/elcolosso.png>] [70]
-<immagini/streghegoya.png, id=1774, 447.03093pt x 639.25423pt>
+<immagini/streghegoya.png, id=1776, 447.03093pt x 639.25423pt>
 File: immagini/streghegoya.png Graphic file (type png)
 <use immagini/streghegoya.png>
 Package pdftex.def Info: immagini/streghegoya.png  used on input line 4200.
 (pdftex.def)             Requested size: 219.56396pt x 313.97862pt.
  [71 <./immagini/streghegoya.png>]
-<immagini/turning-undead-six.jpg, id=1779, 429.10312pt x 651.18282pt>
+<immagini/turning-undead-six.jpg, id=1781, 429.10312pt x 651.18282pt>
 File: immagini/turning-undead-six.jpg Graphic file (type jpg)
 <use immagini/turning-undead-six.jpg>
 Package pdftex.def Info: immagini/turning-undead-six.jpg  used on input line 42
@@ -2323,7 +2323,7 @@ Underfull \hbox (badness 10000) in alignment at lines 4277--4277
  []
 
 [72 <./immagini/turning-undead-six.jpg>] [73]
-<immagini/Philip_Burne-Jones_-_The_Vampire4.jpg, id=1788, 526.96875pt x 421.575
+<immagini/Philip_Burne-Jones_-_The_Vampire4.jpg, id=1790, 526.96875pt x 421.575
 pt>
 File: immagini/Philip_Burne-Jones_-_The_Vampire4.jpg Graphic file (type jpg)
 <use immagini/Philip_Burne-Jones_-_The_Vampire4.jpg>
@@ -2345,7 +2345,7 @@ Overfull \hbox (3.5981pt too wide) in paragraph at lines 4466--4467
 [][]  
  []
 
-<immagini/donnadrago2.png, id=1793, 602.25pt x 969.6225pt>
+<immagini/donnadrago2.png, id=1795, 602.25pt x 969.6225pt>
 File: immagini/donnadrago2.png Graphic file (type png)
 <use immagini/donnadrago2.png>
 Package pdftex.def Info: immagini/donnadrago2.png  used on input line 4491.
@@ -2355,7 +2355,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (Q);
 (lettrine.sty)             reported on input line 4569.
-<immagini/morteachille.png, id=1803, 144.54pt x 140.2038pt>
+<immagini/morteachille.png, id=1805, 144.54pt x 140.2038pt>
 File: immagini/morteachille.png Graphic file (type png)
 <use immagini/morteachille.png>
 Package pdftex.def Info: immagini/morteachille.png  used on input line 4604.
@@ -2371,7 +2371,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4622--4622
  []
 
 [77 <./immagini/morteachille.png>]
-<immagini/the-scream.png, id=1808, 602.25pt x 760.8425pt>
+<immagini/the-scream.png, id=1810, 602.25pt x 760.8425pt>
 File: immagini/the-scream.png Graphic file (type png)
 <use immagini/the-scream.png>
 Package pdftex.def Info: immagini/the-scream.png  used on input line 4650.
@@ -2389,7 +2389,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (L);
 (lettrine.sty)             reported on input line 12.
-<immagini/Hex32.jpg, id=1813, 244.2726pt x 324.2514pt>
+<immagini/Hex32.jpg, id=1815, 244.2726pt x 324.2514pt>
 File: immagini/Hex32.jpg Graphic file (type jpg)
 <use immagini/Hex32.jpg>
 Package pdftex.def Info: immagini/Hex32.jpg  used on input line 39.
@@ -2397,13 +2397,13 @@ Package pdftex.def Info: immagini/Hex32.jpg  used on input line 39.
 [79
 
  <./immagini/Hex32.jpg>]
-<immagini/infanticidalwitch.jpg, id=1818, 626.34pt x 628.3475pt>
+<immagini/infanticidalwitch.jpg, id=1820, 626.34pt x 628.3475pt>
 File: immagini/infanticidalwitch.jpg Graphic file (type jpg)
 <use immagini/infanticidalwitch.jpg>
 Package pdftex.def Info: immagini/infanticidalwitch.jpg  used on input line 50.
 
 (pdftex.def)             Requested size: 219.56396pt x 220.27008pt.
-<immagini/Leonids-1833.jpg, id=1819, 500.87125pt x 766.865pt>
+<immagini/Leonids-1833.jpg, id=1821, 500.87125pt x 766.865pt>
 File: immagini/Leonids-1833.jpg Graphic file (type jpg)
 <use immagini/Leonids-1833.jpg>
 Package pdftex.def Info: immagini/Leonids-1833.jpg  used on input line 72.
@@ -2413,13 +2413,13 @@ Overfull \hbox (15.51741pt too wide) in paragraph at lines 106--106
 []  
  []
 
-<immagini/merlin.png, id=1824, 144.54pt x 157.5486pt>
+<immagini/merlin.png, id=1826, 144.54pt x 157.5486pt>
 File: immagini/merlin.png Graphic file (type png)
 <use immagini/merlin.png>
 Package pdftex.def Info: immagini/merlin.png  used on input line 109.
 (pdftex.def)             Requested size: 219.56396pt x 239.3369pt.
 [81 <./immagini/merlin.png>] [82]
-<immagini/3dforme.png, id=1834, 602.25pt x 975.645pt>
+<immagini/3dforme.png, id=1837, 602.25pt x 975.645pt>
 File: immagini/3dforme.png Graphic file (type png)
 <use immagini/3dforme.png>
 Package pdftex.def Info: immagini/3dforme.png  used on input line 202.
@@ -2430,7 +2430,7 @@ Overfull \hbox (15.51741pt too wide) in paragraph at lines 242--242
  []
 
 [83 <./immagini/3dforme.png>]
-<immagini/spellbook.jpg, id=1840, 96.36pt x 63.5976pt>
+<immagini/spellbook.jpg, id=1842, 96.36pt x 63.5976pt>
 File: immagini/spellbook.jpg Graphic file (type jpg)
 <use immagini/spellbook.jpg>
 Package pdftex.def Info: immagini/spellbook.jpg  used on input line 258.
@@ -2441,7 +2441,7 @@ Overfull \hbox (15.51741pt too wide) in paragraph at lines 270--270
  []
 
 [84 <./immagini/spellbook.jpg>]
-<immagini/bacio.png, id=1845, 602.25pt x 939.51pt>
+<immagini/bacio.png, id=1847, 602.25pt x 939.51pt>
 File: immagini/bacio.png Graphic file (type png)
 <use immagini/bacio.png>
 Package pdftex.def Info: immagini/bacio.png  used on input line 351.
@@ -2466,7 +2466,7 @@ Overfull \hbox (10.02475pt too wide) in paragraph at lines 4734--4734
 []  
  []
 
-<immagini/claw.png, id=2171, 1923.185pt x 2314.6475pt>
+<immagini/claw.png, id=2173, 1923.185pt x 2314.6475pt>
 File: immagini/claw.png Graphic file (type png)
 <use immagini/claw.png>
 Package pdftex.def Info: immagini/claw.png  used on input line 4754.
@@ -2475,13 +2475,13 @@ Package pdftex.def Info: immagini/claw.png  used on input line 4754.
 
 
  <./immagini/claw.png>]
-<immagini/shadow.png, id=2178, 796.9775pt x 860.21375pt>
+<immagini/shadow.png, id=2180, 796.9775pt x 860.21375pt>
 File: immagini/shadow.png Graphic file (type png)
 <use immagini/shadow.png>
 Package pdftex.def Info: immagini/shadow.png  used on input line 4827.
 (pdftex.def)             Requested size: 146.37845pt x 157.98198pt.
  [163 <./immagini/shadow.png>]
-<immagini/braille.png, id=2184, 610.28pt x 111.41624pt>
+<immagini/braille.png, id=2186, 610.28pt x 111.41624pt>
 File: immagini/braille.png Graphic file (type png)
 <use immagini/braille.png>
 Package pdftex.def Info: immagini/braille.png  used on input line 4874.
@@ -2590,14 +2590,14 @@ Underfull \vbox (badness 10000) detected at line 6635
  []
 
 [189]
-<immagini/armiriempitivo2.png, id=2316, 433.62pt x 558.1653pt>
+<immagini/armiriempitivo2.png, id=2318, 433.62pt x 558.1653pt>
 File: immagini/armiriempitivo2.png Graphic file (type png)
 <use immagini/armiriempitivo2.png>
 Package pdftex.def Info: immagini/armiriempitivo2.png  used on input line 6685.
 
 (pdftex.def)             Requested size: 219.56396pt x 282.6335pt.
  [190]
-<immagini/armiriempitivo3.png, id=2322, 578.16pt x 392.4261pt>
+<immagini/armiriempitivo3.png, id=2324, 578.16pt x 392.4261pt>
 File: immagini/armiriempitivo3.png Graphic file (type png)
 <use immagini/armiriempitivo3.png>
 Package pdftex.def Info: immagini/armiriempitivo3.png  used on input line 6728.
@@ -2613,14 +2613,14 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             Lettrine height = 17.5998pt (L);
 (lettrine.sty)             reported on input line 6747.
 [192]
-<immagini/donnacavalierecavallo.png, id=2331, 144.54pt x 224.7597pt>
+<immagini/donnacavalierecavallo.png, id=2333, 144.54pt x 224.7597pt>
 File: immagini/donnacavalierecavallo.png Graphic file (type png)
 <use immagini/donnacavalierecavallo.png>
 Package pdftex.def Info: immagini/donnacavalierecavallo.png  used on input line
  6845.
 (pdftex.def)             Requested size: 219.56396pt x 341.43936pt.
  [193 <./immagini/donnacavalierecavallo.png>]
-<immagini/armaturacorpetto.png, id=2336, 144.54pt x 183.5658pt>
+<immagini/armaturacorpetto.png, id=2338, 144.54pt x 183.5658pt>
 File: immagini/armaturacorpetto.png Graphic file (type png)
 <use immagini/armaturacorpetto.png>
 Package pdftex.def Info: immagini/armaturacorpetto.png  used on input line 6923
@@ -2631,7 +2631,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (N);
 (lettrine.sty)             reported on input line 6946.
-<immagini/jewelry-box-2931784_1280.png, id=2341, 401.5pt x 216.81pt>
+<immagini/jewelry-box-2931784_1280.png, id=2343, 401.5pt x 216.81pt>
 File: immagini/jewelry-box-2931784_1280.png Graphic file (type png)
 <use immagini/jewelry-box-2931784_1280.png>
 Package pdftex.def Info: immagini/jewelry-box-2931784_1280.png  used on input l
@@ -2648,36 +2648,36 @@ Underfull \hbox (badness 1097) in paragraph at lines 7049--7049
  []
 
 [196]
-<immagini/stadera.png, id=2352, 144.54pt x 224.7597pt>
+<immagini/stadera.png, id=2354, 144.54pt x 224.7597pt>
 File: immagini/stadera.png Graphic file (type png)
 <use immagini/stadera.png>
 Package pdftex.def Info: immagini/stadera.png  used on input line 7072.
 (pdftex.def)             Requested size: 78.443pt x 121.9808pt.
  [197 <./immagini/stadera.png>]
-<immagini/serratura.jpg, id=2357, 602.25pt x 485.815pt>
+<immagini/serratura.jpg, id=2359, 602.25pt x 485.815pt>
 File: immagini/serratura.jpg Graphic file (type jpg)
 <use immagini/serratura.jpg>
 Package pdftex.def Info: immagini/serratura.jpg  used on input line 7132.
 (pdftex.def)             Requested size: 219.56396pt x 177.11714pt.
  [198 <./immagini/serratura.jpg>]
-<immagini/zaino.png, id=2362, 602.25pt x 602.25pt>
+<immagini/zaino.png, id=2364, 602.25pt x 602.25pt>
 File: immagini/zaino.png Graphic file (type png)
 <use immagini/zaino.png>
 Package pdftex.def Info: immagini/zaino.png  used on input line 7150.
 (pdftex.def)             Requested size: 219.56396pt x 219.5667pt.
  [199 <./immagini/zaino.png>]
-<immagini/forziere.jpg, id=2367, 1090.0725pt x 1028.84375pt>
+<immagini/forziere.jpg, id=2369, 1090.0725pt x 1028.84375pt>
 File: immagini/forziere.jpg Graphic file (type jpg)
 <use immagini/forziere.jpg>
 Package pdftex.def Info: immagini/forziere.jpg  used on input line 7192.
 (pdftex.def)             Requested size: 219.56396pt x 207.2251pt.
  [200 <./immagini/forziere.jpg>]
-<immagini/bardatura.png, id=2372, 602.25pt x 770.88pt>
+<immagini/bardatura.png, id=2374, 602.25pt x 770.88pt>
 File: immagini/bardatura.png Graphic file (type png)
 <use immagini/bardatura.png>
 Package pdftex.def Info: immagini/bardatura.png  used on input line 7256.
 (pdftex.def)             Requested size: 170.77238pt x 218.58563pt.
-<immagini/sella2.png, id=2373, 529.98pt x 600.2425pt>
+<immagini/sella2.png, id=2375, 529.98pt x 600.2425pt>
 File: immagini/sella2.png Graphic file (type png)
 <use immagini/sella2.png>
 Package pdftex.def Info: immagini/sella2.png  used on input line 7265.
@@ -2713,25 +2713,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 7330--7330
  []
 
 [201 <./immagini/bardatura.png> <./immagini/sella2.png>]
-<immagini/mendicante.png, id=2379, 451.6875pt x 567.62062pt>
+<immagini/mendicante.png, id=2381, 451.6875pt x 567.62062pt>
 File: immagini/mendicante.png Graphic file (type png)
 <use immagini/mendicante.png>
 Package pdftex.def Info: immagini/mendicante.png  used on input line 7362.
 (pdftex.def)             Requested size: 219.56396pt x 275.91927pt.
-<immagini/mercante.png, id=2380, 602.25pt x 445.665pt>
+<immagini/mercante.png, id=2382, 602.25pt x 445.665pt>
 File: immagini/mercante.png Graphic file (type png)
 <use immagini/mercante.png>
 Package pdftex.def Info: immagini/mercante.png  used on input line 7374.
 (pdftex.def)             Requested size: 219.56396pt x 162.47935pt.
  [202 <./immagini/mendicante.png>]
-<immagini/riempitivocavalieriapranzo.png, id=2385, 144.54pt x 207.8967pt>
+<immagini/riempitivocavalieriapranzo.png, id=2387, 144.54pt x 207.8967pt>
 File: immagini/riempitivocavalieriapranzo.png Graphic file (type png)
 <use immagini/riempitivocavalieriapranzo.png>
 Package pdftex.def Info: immagini/riempitivocavalieriapranzo.png  used on input
  line 7425.
 (pdftex.def)             Requested size: 219.56396pt x 315.82225pt.
  [203 <./immagini/mercante.png> <./immagini/riempitivocavalieriapranzo.png>]
-<immagini/carrozza.png, id=2390, 602.25pt x 450.68375pt>
+<immagini/carrozza.png, id=2392, 602.25pt x 450.68375pt>
 File: immagini/carrozza.png Graphic file (type png)
 <use immagini/carrozza.png>
 Package pdftex.def Info: immagini/carrozza.png  used on input line 7455.
@@ -2742,12 +2742,12 @@ Underfull \hbox (badness 7081) in paragraph at lines 7519--7519
  []
 
 [205]
-<immagini/mithral.png, id=2399, 451.6875pt x 451.6875pt>
+<immagini/mithral.png, id=2401, 451.6875pt x 451.6875pt>
 File: immagini/mithral.png Graphic file (type png)
 <use immagini/mithral.png>
 Package pdftex.def Info: immagini/mithral.png  used on input line 7575.
 (pdftex.def)             Requested size: 219.56396pt x 219.5644pt.
-<immagini/dragonhide.png, id=2400, 240.9pt x 180.675pt>
+<immagini/dragonhide.png, id=2402, 240.9pt x 180.675pt>
 File: immagini/dragonhide.png Graphic file (type png)
 <use immagini/dragonhide.png>
 Package pdftex.def Info: immagini/dragonhide.png  used on input line 7595.
@@ -2782,7 +2782,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7759--7759
 []|\T1/ppl/b/n/10 Modificatore per
  []
 
-<immagini/portarinforzata2.png, id=2410, 602.25pt x 760.8425pt>
+<immagini/portarinforzata2.png, id=2412, 602.25pt x 760.8425pt>
 File: immagini/portarinforzata2.png Graphic file (type png)
 <use immagini/portarinforzata2.png>
 Package pdftex.def Info: immagini/portarinforzata2.png  used on input line 7789
@@ -2797,7 +2797,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (D);
 (lettrine.sty)             reported on input line 7805.
-<immagini/oscurita.png, id=2415, 602.25pt x 657.45625pt>
+<immagini/oscurita.png, id=2417, 602.25pt x 657.45625pt>
 File: immagini/oscurita.png Graphic file (type png)
 <use immagini/oscurita.png>
 Package pdftex.def Info: immagini/oscurita.png  used on input line 7830.
@@ -2818,30 +2818,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 7848--7848
  []
 
 [209 <./immagini/oscurita.png>]
-<immagini/oggetticadenti.png, id=2421, 602.25pt x 937.5025pt>
+<immagini/oggetticadenti.png, id=2423, 602.25pt x 937.5025pt>
 File: immagini/oggetticadenti.png Graphic file (type png)
 <use immagini/oggetticadenti.png>
 Package pdftex.def Info: immagini/oggetticadenti.png  used on input line 7914.
 (pdftex.def)             Requested size: 219.56396pt x 341.79218pt.
  [210 <./immagini/oggetticadenti.png>] [211]
-<immagini/affogare.png, id=2430, 602.25pt x 919.435pt>
+<immagini/affogare.png, id=2432, 602.25pt x 919.435pt>
 File: immagini/affogare.png Graphic file (type png)
 <use immagini/affogare.png>
 Package pdftex.def Info: immagini/affogare.png  used on input line 8013.
 (pdftex.def)             Requested size: 219.56396pt x 335.20517pt.
-<immagini/desert.png, id=2431, 401.5pt x 274.02374pt>
+<immagini/desert.png, id=2433, 401.5pt x 274.02374pt>
 File: immagini/desert.png Graphic file (type png)
 <use immagini/desert.png>
 Package pdftex.def Info: immagini/desert.png  used on input line 8030.
 (pdftex.def)             Requested size: 178.73126pt x 121.9808pt.
-<immagini/fuocopericolo.png, id=2432, 144.54pt x 254.8722pt>
+<immagini/fuocopericolo.png, id=2434, 144.54pt x 254.8722pt>
 File: immagini/fuocopericolo.png Graphic file (type png)
 <use immagini/fuocopericolo.png>
 Package pdftex.def Info: immagini/fuocopericolo.png  used on input line 8052.
 (pdftex.def)             Requested size: 219.56396pt x 387.18419pt.
 
 [212 <./immagini/affogare.png> <./immagini/desert.png>]
-<immagini/snowfall.png, id=2437, 301.125pt x 225.84375pt>
+<immagini/snowfall.png, id=2439, 301.125pt x 225.84375pt>
 File: immagini/snowfall.png Graphic file (type png)
 <use immagini/snowfall.png>
 Package pdftex.def Info: immagini/snowfall.png  used on input line 8080.
@@ -2851,14 +2851,14 @@ Overfull \hbox (13.35pt too wide) in alignment at lines 8118--8118
 [][][][][] 
  []
 
-<immagini/Paesaggio-pioggia-Auvers.png, id=2443, 144.54pt x 71.5473pt>
+<immagini/Paesaggio-pioggia-Auvers.png, id=2445, 144.54pt x 71.5473pt>
 File: immagini/Paesaggio-pioggia-Auvers.png Graphic file (type png)
 <use immagini/Paesaggio-pioggia-Auvers.png>
 Package pdftex.def Info: immagini/Paesaggio-pioggia-Auvers.png  used on input l
 ine 8157.
 (pdftex.def)             Requested size: 219.56396pt x 108.68967pt.
 [214 <./immagini/Paesaggio-pioggia-Auvers.png>]
-<immagini/Vincent_van_Gogh_tempesta.png, id=2448, 602.25pt x 297.11pt>
+<immagini/Vincent_van_Gogh_tempesta.png, id=2450, 602.25pt x 297.11pt>
 File: immagini/Vincent_van_Gogh_tempesta.png Graphic file (type png)
 <use immagini/Vincent_van_Gogh_tempesta.png>
 Package pdftex.def Info: immagini/Vincent_van_Gogh_tempesta.png  used on input 
@@ -2880,19 +2880,19 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             Lettrine height = 17.5998pt (L);
 (lettrine.sty)             reported on input line 8300.
  [217]
-<immagini/avventure_acqua_grey.jpg, id=2461, 566.115pt x 928.46875pt>
+<immagini/avventure_acqua_grey.jpg, id=2463, 566.115pt x 928.46875pt>
 File: immagini/avventure_acqua_grey.jpg Graphic file (type jpg)
 <use immagini/avventure_acqua_grey.jpg>
 Package pdftex.def Info: immagini/avventure_acqua_grey.jpg  used on input line 
 8350.
 (pdftex.def)             Requested size: 219.56396pt x 360.0896pt.
-<immagini/acquapericoli.png, id=2462, 144.54pt x 108.405pt>
+<immagini/acquapericoli.png, id=2464, 144.54pt x 108.405pt>
 File: immagini/acquapericoli.png Graphic file (type png)
 <use immagini/acquapericoli.png>
 Package pdftex.def Info: immagini/acquapericoli.png  used on input line 8363.
 (pdftex.def)             Requested size: 219.56396pt x 164.68135pt.
  [218 <./immagini/avventure_acqua_grey.jpg> <./immagini/acquapericoli.png>]
-<immagini/navenotte.png, id=2467, 144.54pt x 225.4824pt>
+<immagini/navenotte.png, id=2469, 144.54pt x 225.4824pt>
 File: immagini/navenotte.png Graphic file (type png)
 <use immagini/navenotte.png>
 Package pdftex.def Info: immagini/navenotte.png  used on input line 8394.
@@ -2902,18 +2902,18 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (A);
 (lettrine.sty)             reported on input line 8434.
-<immagini/cavalieri.png, id=2473, 144.54pt x 93.7101pt>
+<immagini/cavalieri.png, id=2475, 144.54pt x 93.7101pt>
 File: immagini/cavalieri.png Graphic file (type png)
 <use immagini/cavalieri.png>
 Package pdftex.def Info: immagini/cavalieri.png  used on input line 8447.
 (pdftex.def)             Requested size: 219.56396pt x 142.3579pt.
-<immagini/muraparigi.png, id=2474, 602.25pt x 450.68375pt>
+<immagini/muraparigi.png, id=2476, 602.25pt x 450.68375pt>
 File: immagini/muraparigi.png Graphic file (type png)
 <use immagini/muraparigi.png>
 Package pdftex.def Info: immagini/muraparigi.png  used on input line 8474.
 (pdftex.def)             Requested size: 219.56396pt x 164.30908pt.
  [220 <./immagini/cavalieri.png>]
-<immagini/armidaassedio.png, id=2479, 602.25pt x 399.4925pt>
+<immagini/armidaassedio.png, id=2481, 602.25pt x 399.4925pt>
 File: immagini/armidaassedio.png Graphic file (type png)
 <use immagini/armidaassedio.png>
 Package pdftex.def Info: immagini/armidaassedio.png  used on input line 8500.
@@ -2934,19 +2934,19 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (D);
 (lettrine.sty)             reported on input line 8687.
-<immagini/dungeon.png, id=2501, 144.54pt x 166.9437pt>
+<immagini/dungeon.png, id=2503, 144.54pt x 166.9437pt>
 File: immagini/dungeon.png Graphic file (type png)
 <use immagini/dungeon.png>
 Package pdftex.def Info: immagini/dungeon.png  used on input line 8706.
 (pdftex.def)             Requested size: 219.56396pt x 253.60927pt.
-<immagini/avventure_dungeon.png, id=2502, 970.62625pt x 594.22pt>
+<immagini/avventure_dungeon.png, id=2504, 970.62625pt x 594.22pt>
 File: immagini/avventure_dungeon.png Graphic file (type png)
 <use immagini/avventure_dungeon.png>
 Package pdftex.def Info: immagini/avventure_dungeon.png  used on input line 871
 6.
 (pdftex.def)             Requested size: 219.56396pt x 134.4191pt.
 [226 <./immagini/dungeon.png>] [227 <./immagini/avventure_dungeon.png>]
-<immagini/pavimento_grey.jpg, id=2512, 96.36pt x 64.0794pt>
+<immagini/pavimento_grey.jpg, id=2514, 96.36pt x 64.0794pt>
 File: immagini/pavimento_grey.jpg Graphic file (type jpg)
 <use immagini/pavimento_grey.jpg>
 Package pdftex.def Info: immagini/pavimento_grey.jpg  used on input line 8795.
@@ -2978,24 +2978,24 @@ Underfull \hbox (badness 2653) in paragraph at lines 8855--8855
  []
 
 [229]
-<immagini/porta_grey.png, id=2521, 401.5pt x 274.02374pt>
+<immagini/porta_grey.png, id=2523, 401.5pt x 274.02374pt>
 File: immagini/porta_grey.png Graphic file (type png)
 <use immagini/porta_grey.png>
 Package pdftex.def Info: immagini/porta_grey.png  used on input line 8876.
 (pdftex.def)             Requested size: 207.36887pt x 141.53146pt.
  [230 <./immagini/porta_grey.png>]
-<immagini/cardini.png, id=2526, 602.25pt x 340.27126pt>
+<immagini/cardini.png, id=2528, 602.25pt x 340.27126pt>
 File: immagini/cardini.png Graphic file (type png)
 <use immagini/cardini.png>
 Package pdftex.def Info: immagini/cardini.png  used on input line 8927.
 (pdftex.def)             Requested size: 219.56396pt x 124.05519pt.
-<immagini/arcoserpenti.png, id=2527, 602.25pt x 950.55125pt>
+<immagini/arcoserpenti.png, id=2529, 602.25pt x 950.55125pt>
 File: immagini/arcoserpenti.png Graphic file (type png)
 <use immagini/arcoserpenti.png>
 Package pdftex.def Info: immagini/arcoserpenti.png  used on input line 8946.
 (pdftex.def)             Requested size: 219.56396pt x 346.54945pt.
  [231 <./immagini/cardini.png> <./immagini/arcoserpenti.png>]
-<immagini/funghi.png, id=2533, 602.25pt x 339.2675pt>
+<immagini/funghi.png, id=2535, 602.25pt x 339.2675pt>
 File: immagini/funghi.png Graphic file (type png)
 <use immagini/funghi.png>
 Package pdftex.def Info: immagini/funghi.png  used on input line 8988.
@@ -3009,25 +3009,25 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (I);
 (lettrine.sty)             reported on input line 9020.
-<immagini/boscopericoli.png, id=2543, 144.54pt x 195.3699pt>
+<immagini/boscopericoli.png, id=2545, 144.54pt x 195.3699pt>
 File: immagini/boscopericoli.png Graphic file (type png)
 <use immagini/boscopericoli.png>
 Package pdftex.def Info: immagini/boscopericoli.png  used on input line 9025.
 (pdftex.def)             Requested size: 219.56396pt x 296.79242pt.
 [234 <./immagini/boscopericoli.png>]
-<immagini/neodimio.png, id=2548, 602.25pt x 587.19376pt>
+<immagini/neodimio.png, id=2550, 602.25pt x 587.19376pt>
 File: immagini/neodimio.png Graphic file (type png)
 <use immagini/neodimio.png>
 Package pdftex.def Info: immagini/neodimio.png  used on input line 9109.
 (pdftex.def)             Requested size: 219.56396pt x 214.07755pt.
  [235 <./immagini/neodimio.png>]
-<immagini/ederavelenosa.png, id=2553, 602.25pt x 429.605pt>
+<immagini/ederavelenosa.png, id=2555, 602.25pt x 429.605pt>
 File: immagini/ederavelenosa.png Graphic file (type png)
 <use immagini/ederavelenosa.png>
 Package pdftex.def Info: immagini/ederavelenosa.png  used on input line 9131.
 (pdftex.def)             Requested size: 219.56396pt x 156.62425pt.
  [236 <./immagini/ederavelenosa.png>]
-<immagini/medusa.png, id=2558, 144.54pt x 188.3838pt>
+<immagini/medusa.png, id=2560, 144.54pt x 188.3838pt>
 File: immagini/medusa.png Graphic file (type png)
 <use immagini/medusa.png>
 Package pdftex.def Info: immagini/medusa.png  used on input line 9192.
@@ -3062,7 +3062,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (I);
 (lettrine.sty)             reported on input line 9848.
-<immagini/potion.png, id=2601, 96.36pt x 144.54pt>
+<immagini/potion.png, id=2603, 96.36pt x 144.54pt>
 File: immagini/potion.png Graphic file (type png)
 <use immagini/potion.png>
 Package pdftex.def Info: immagini/potion.png  used on input line 9873.
@@ -3110,7 +3110,7 @@ Overfull \vbox (4.84482pt too high) has occurred while \output is active []
 
 
 [250]
-<immagini/funeralebarca.png, id=2619, 144.54pt x 75.8835pt>
+<immagini/funeralebarca.png, id=2621, 144.54pt x 75.8835pt>
 File: immagini/funeralebarca.png Graphic file (type png)
 <use immagini/funeralebarca.png>
 Package pdftex.def Info: immagini/funeralebarca.png  used on input line 10215.
@@ -3169,19 +3169,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 10366--10366
 \T1/ppl/m/n/10 Ghiac-cia-
  []
 
-<immagini/carretto.png, id=2628, 160.6pt x 107.2005pt>
+<immagini/carretto.png, id=2630, 160.6pt x 107.2005pt>
 File: immagini/carretto.png Graphic file (type png)
 <use immagini/carretto.png>
 Package pdftex.def Info: immagini/carretto.png  used on input line 10383.
 (pdftex.def)             Requested size: 223.81412pt x 149.37848pt.
 [253 <./immagini/carretto.png>] [254]
-<immagini/cavallo.png, id=2637, 401.5pt x 256.96pt>
+<immagini/cavallo.png, id=2639, 401.5pt x 256.96pt>
 File: immagini/cavallo.png Graphic file (type png)
 <use immagini/cavallo.png>
 Package pdftex.def Info: immagini/cavallo.png  used on input line 10513.
 (pdftex.def)             Requested size: 190.59807pt x 121.9808pt.
  [255 <./immagini/cavallo.png>]
-<immagini/grifonicastello.png, id=2644, 144.54pt x 192.72pt>
+<immagini/grifonicastello.png, id=2646, 144.54pt x 192.72pt>
 File: immagini/grifonicastello.png Graphic file (type png)
 <use immagini/grifonicastello.png>
 Package pdftex.def Info: immagini/grifonicastello.png  used on input line 10562
@@ -3197,7 +3197,7 @@ Overfull \hbox (4.12756pt too wide) in paragraph at lines 10625--10626
 []  
  []
 
-<immagini/deathbeowulf.png, id=2649, 602.25pt x 911.405pt>
+<immagini/deathbeowulf.png, id=2651, 602.25pt x 911.405pt>
 File: immagini/deathbeowulf.png Graphic file (type png)
 <use immagini/deathbeowulf.png>
 Package pdftex.def Info: immagini/deathbeowulf.png  used on input line 10647.
@@ -3208,7 +3208,7 @@ Overfull \hbox (4.12756pt too wide) in paragraph at lines 10697--10697
  []
 
 [258 <./immagini/deathbeowulf.png>]
-<immagini/impegnativa.png, id=2659, 602.25pt x 850.17625pt>
+<immagini/impegnativa.png, id=2661, 602.25pt x 850.17625pt>
 File: immagini/impegnativa.png Graphic file (type png)
 <use immagini/impegnativa.png>
 Package pdftex.def Info: immagini/impegnativa.png  used on input line 10721.
@@ -3283,7 +3283,7 @@ Overfull \hbox (4.12756pt too wide) in paragraph at lines 10853--10855
 [][] 
  []
 
-<immagini/tesoro2.png, id=2668, 602.25pt x 518.93875pt>
+<immagini/tesoro2.png, id=2670, 602.25pt x 518.93875pt>
 File: immagini/tesoro2.png Graphic file (type png)
 <use immagini/tesoro2.png>
 Package pdftex.def Info: immagini/tesoro2.png  used on input line 10863.
@@ -3324,7 +3324,7 @@ Overfull \hbox (4.12756pt too wide) in paragraph at lines 10885--10886
  []
 
 [261 <./immagini/tesoro2.png>]
-<immagini/Hoxne_Hoard_1.png, id=2674, 602.25pt x 401.5pt>
+<immagini/Hoxne_Hoard_1.png, id=2676, 602.25pt x 401.5pt>
 File: immagini/Hoxne_Hoard_1.png Graphic file (type png)
 <use immagini/Hoxne_Hoard_1.png>
 Package pdftex.def Info: immagini/Hoxne_Hoard_1.png  used on input line 10934.
@@ -3338,18 +3338,18 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (P);
 (lettrine.sty)             reported on input line 11084.
-<immagini/onering2.png, id=2689, 602.25pt x 565.11125pt>
+<immagini/onering2.png, id=2691, 602.25pt x 565.11125pt>
 File: immagini/onering2.png Graphic file (type png)
 <use immagini/onering2.png>
 Package pdftex.def Info: immagini/onering2.png  used on input line 11108.
 (pdftex.def)             Requested size: 146.37845pt x 137.35405pt.
-<immagini/One_Ring_inscription2.png, id=2690, 602.25pt x 168.63pt>
+<immagini/One_Ring_inscription2.png, id=2692, 602.25pt x 168.63pt>
 File: immagini/One_Ring_inscription2.png Graphic file (type png)
 <use immagini/One_Ring_inscription2.png>
 Package pdftex.def Info: immagini/One_Ring_inscription2.png  used on input line
  11109.
 (pdftex.def)             Requested size: 146.37845pt x 40.98663pt.
-<immagini/Rustning_Gustav_Vasa.png, id=2691, 144.54pt x 216.81pt>
+<immagini/Rustning_Gustav_Vasa.png, id=2693, 144.54pt x 216.81pt>
 File: immagini/Rustning_Gustav_Vasa.png Graphic file (type png)
 <use immagini/Rustning_Gustav_Vasa.png>
 Package pdftex.def Info: immagini/Rustning_Gustav_Vasa.png  used on input line 
@@ -3357,36 +3357,36 @@ Package pdftex.def Info: immagini/Rustning_Gustav_Vasa.png  used on input line
 (pdftex.def)             Requested size: 146.37845pt x 219.57846pt.
  [265 <./immagini/onering2.png> <./immagini/One_Ring_inscription2.png> <./immag
 ini/Rustning_Gustav_Vasa.png>]
-<immagini/exacaliburfuori.png, id=2698, 602.25pt x 818.05624pt>
+<immagini/exacaliburfuori.png, id=2700, 602.25pt x 818.05624pt>
 File: immagini/exacaliburfuori.png Graphic file (type png)
 <use immagini/exacaliburfuori.png>
 Package pdftex.def Info: immagini/exacaliburfuori.png  used on input line 11155
 .
 (pdftex.def)             Requested size: 219.56396pt x 298.24478pt.
-<immagini/wand.png, id=2699, 602.25pt x 602.25pt>
+<immagini/wand.png, id=2701, 602.25pt x 602.25pt>
 File: immagini/wand.png Graphic file (type png)
 <use immagini/wand.png>
 Package pdftex.def Info: immagini/wand.png  used on input line 11200.
 (pdftex.def)             Requested size: 170.77238pt x 170.77002pt.
  [266 <./immagini/exacaliburfuori.png>]
-<immagini/staff2.png, id=2704, 602.25pt x 1033.8625pt>
+<immagini/staff2.png, id=2706, 602.25pt x 1033.8625pt>
 File: immagini/staff2.png Graphic file (type png)
 <use immagini/staff2.png>
 Package pdftex.def Info: immagini/staff2.png  used on input line 11228.
 (pdftex.def)             Requested size: 97.58316pt x 167.51952pt.
-<immagini/scrool2.png, id=2705, 602.25pt x 785.93625pt>
+<immagini/scrool2.png, id=2707, 602.25pt x 785.93625pt>
 File: immagini/scrool2.png Graphic file (type png)
 <use immagini/scrool2.png>
 Package pdftex.def Info: immagini/scrool2.png  used on input line 11254.
 (pdftex.def)             Requested size: 121.9808pt x 159.1752pt.
 
 [267 <./immagini/wand.png> <./immagini/staff2.png> <./immagini/scrool2.png>]
-<immagini/potion2.png, id=2711, 144.54pt x 182.6022pt>
+<immagini/potion2.png, id=2713, 144.54pt x 182.6022pt>
 File: immagini/potion2.png Graphic file (type png)
 <use immagini/potion2.png>
 Package pdftex.def Info: immagini/potion2.png  used on input line 11306.
 (pdftex.def)             Requested size: 195.17003pt x 246.57755pt.
-<immagini/Rod_of_asclepius.png, id=2712, 80.3pt x 204.765pt>
+<immagini/Rod_of_asclepius.png, id=2714, 80.3pt x 204.765pt>
 File: immagini/Rod_of_asclepius.png Graphic file (type png)
 <use immagini/Rod_of_asclepius.png>
 Package pdftex.def Info: immagini/Rod_of_asclepius.png  used on input line 1133
@@ -3408,7 +3408,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (T);
 (lettrine.sty)             reported on input line 11550.
-<immagini/Excalibur_His_Sheath.png, id=2735, 144.54pt x 170.5572pt>
+<immagini/Excalibur_His_Sheath.png, id=2737, 144.54pt x 170.5572pt>
 File: immagini/Excalibur_His_Sheath.png Graphic file (type png)
 <use immagini/Excalibur_His_Sheath.png>
 Package pdftex.def Info: immagini/Excalibur_His_Sheath.png  used on input line 
@@ -3493,7 +3493,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (G);
 (lettrine.sty)             reported on input line 13384.
-<immagini/vasobasano.png, id=2929, 602.25pt x 301.125pt>
+<immagini/vasobasano.png, id=2931, 602.25pt x 301.125pt>
 File: immagini/vasobasano.png Graphic file (type png)
 <use immagini/vasobasano.png>
 Package pdftex.def Info: immagini/vasobasano.png  used on input line 13416.
@@ -3502,12 +3502,12 @@ Package pdftex.def Info: immagini/vasobasano.png  used on input line 13416.
 
 
  <./immagini/vasobasano.png>]
-<immagini/mirror.png, id=2934, 602.25pt x 657.45625pt>
+<immagini/mirror.png, id=2936, 602.25pt x 657.45625pt>
 File: immagini/mirror.png Graphic file (type png)
 <use immagini/mirror.png>
 Package pdftex.def Info: immagini/mirror.png  used on input line 13467.
 (pdftex.def)             Requested size: 97.58316pt x 106.52939pt.
-<immagini/donnalemb.png, id=2935, 602.25pt x 864.22874pt>
+<immagini/donnalemb.png, id=2937, 602.25pt x 864.22874pt>
 File: immagini/donnalemb.png Graphic file (type png)
 <use immagini/donnalemb.png>
 Package pdftex.def Info: immagini/donnalemb.png  used on input line 13502.
@@ -3578,7 +3578,7 @@ Package lettrine.sty Info: Targeted height = 17.5999pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.5998pt (B);
 (lettrine.sty)             reported on input line 32.
-<immagini/sangiorgioedrago.png, id=3029, 451.6875pt x 345.54094pt>
+<immagini/sangiorgioedrago.png, id=3031, 451.6875pt x 345.54094pt>
 File: immagini/sangiorgioedrago.png Graphic file (type png)
 <use immagini/sangiorgioedrago.png>
 Package pdftex.def Info: immagini/sangiorgioedrago.png  used on input line 40.
@@ -3591,14 +3591,14 @@ Overfull \hbox (35.73332pt too wide) in paragraph at lines 72--82
 [341
 
  <./immagini/sangiorgioedrago.png>]
-<immagini/sanmichelesatana.png, id=3034, 602.25pt x 1017.8025pt>
+<immagini/sanmichelesatana.png, id=3036, 602.25pt x 1017.8025pt>
 File: immagini/sanmichelesatana.png Graphic file (type png)
 <use immagini/sanmichelesatana.png>
 Package pdftex.def Info: immagini/sanmichelesatana.png  used on input line 109.
 
 (pdftex.def)             Requested size: 219.56396pt x 371.06775pt.
  [342 <./immagini/sanmichelesatana.png>] [343]
-<immagini/roc.png, id=3043, 602.25pt x 879.285pt>
+<immagini/roc.png, id=3045, 602.25pt x 879.285pt>
 File: immagini/roc.png Graphic file (type png)
 <use immagini/roc.png>
 Package pdftex.def Info: immagini/roc.png  used on input line 201.
@@ -3638,13 +3638,13 @@ LaTeX Warning: Hyper reference `sec:sec:visione-e-luce' on page 344 undefined o
 n input line 254.
 
 [344 <./immagini/roc.png>]
-<immagini/ciclope.png, id=3048, 602.25pt x 916.42375pt>
+<immagini/ciclope.png, id=3050, 602.25pt x 916.42375pt>
 File: immagini/ciclope.png Graphic file (type png)
 <use immagini/ciclope.png>
 Package pdftex.def Info: immagini/ciclope.png  used on input line 261.
 (pdftex.def)             Requested size: 170.77238pt x 259.85506pt.
  [345 <./immagini/ciclope.png>]
-<immagini/cupido.png, id=3054, 144.54pt x 192.72pt>
+<immagini/cupido.png, id=3056, 144.54pt x 192.72pt>
 File: immagini/cupido.png Graphic file (type png)
 <use immagini/cupido.png>
 Package pdftex.def Info: immagini/cupido.png  used on input line 333.
@@ -3682,7 +3682,7 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./DBS-scheda.pdf): PDF inclusion: found
  PDF version <1.6>, but at most version <1.5> allowed
-<DBS-scheda.pdf, id=3758, 597.53635pt x 845.04686pt>
+<DBS-scheda.pdf, id=3760, 597.53635pt x 845.04686pt>
 File: DBS-scheda.pdf Graphic file (type pdf)
 <use DBS-scheda.pdf>
 Package pdftex.def Info: DBS-scheda.pdf  used on input line 14625.
@@ -3711,7 +3711,7 @@ pdfTeX warning: /usr/bin/pdflatex (file ./DBS-scheda.pdf): PDF inclusion: found
 
 pdfTeX warning: /usr/bin/pdflatex (file ./DBS-scheda.pdf): PDF inclusion: found
  PDF version <1.6>, but at most version <1.5> allowed
-<DBS-scheda.pdf, id=3762, page=1, 597.53635pt x 845.04686pt>
+<DBS-scheda.pdf, id=3764, page=1, 597.53635pt x 845.04686pt>
 File: DBS-scheda.pdf Graphic file (type pdf)
 <use DBS-scheda.pdf, page 1>
 Package pdftex.def Info: DBS-scheda.pdf , page1 used on input line 14625.
@@ -3736,7 +3736,7 @@ Package pdftex.def Info: DBS-scheda.pdf , page1 used on input line 14625.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./DBS-scheda.pdf): PDF inclusion: found
  PDF version <1.6>, but at most version <1.5> allowed
-<DBS-scheda.pdf, id=3777, page=2, 597.53635pt x 845.04686pt>
+<DBS-scheda.pdf, id=3779, page=2, 597.53635pt x 845.04686pt>
 File: DBS-scheda.pdf Graphic file (type pdf)
 <use DBS-scheda.pdf, page 2>
 Package pdftex.def Info: DBS-scheda.pdf , page2 used on input line 14625.
@@ -3753,10 +3753,13 @@ Package pdftex.def Info: DBS-scheda.pdf , page2 used on input line 14625.
 runsystem(makeindex "DBS - Dungeon Bell System".idx)...quotation error in syste
 m command.
 
+ (./DBS - Dungeon Bell System.ind [515
 
-No file "DBS - Dungeon Bell System".ind.
-(./DBS - Dungeon Bell System.aux (./DBS-magia-alternativa.aux)
-(./DBS-abilita-arma-armature.aux) (./DBS-monstruos-chapter.aux))
+
+] [516]
+[517] [518] [519] [520] [521]) [522] (./DBS - Dungeon Bell System.aux
+(./DBS-magia-alternativa.aux) (./DBS-abilita-arma-armature.aux)
+(./DBS-monstruos-chapter.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -3765,11 +3768,11 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 32766 strings out of 478994
- 604095 string characters out of 5864751
- 1001797 words of memory out of 5000000
- 48266 multiletter control sequences out of 15000+600000
- 474851 words of font info for 107 fonts, out of 8000000 for 9000
+ 32797 strings out of 478994
+ 604628 string characters out of 5864751
+ 1002173 words of memory out of 5000000
+ 48284 multiletter control sequences out of 15000+600000
+ 476300 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  112i,18n,116p,2350b,1220s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fon
@@ -3783,10 +3786,10 @@ c/lm/lmr5.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share
 e1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplb
 i8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/
 texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "DBS - Dungeon Bell System.pdf" (518 pages, 36964082 bytes).
+Output written on "DBS - Dungeon Bell System.pdf" (526 pages, 36989601 bytes).
 PDF statistics:
- 6053 PDF objects out of 6186 (max. 8388607)
- 5276 compressed objects within 53 object streams
- 1195 named destinations out of 1200 (max. 500000)
- 6108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6094 PDF objects out of 6186 (max. 8388607)
+ 5308 compressed objects within 54 object streams
+ 1205 named destinations out of 1440 (max. 500000)
+ 6116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
