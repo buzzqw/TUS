@@ -1,13 +1,6 @@
 export NO_AT_BRIDGE=1
 
 pandoc -s "/home/azanzani/TUS/DBS/DBS - Dungeon Bell System.tex" -o "/home/azanzani/TUS/DBS/DBS - Dungeon Bell System.docx"
-#zip -1 "/home/azanzani/TUS/TUS/TUS-git.zip" "/home/azanzani/TUS/screen.odt" "/home/azanzani/TUS/bell-lulu6.png" "/home/azanzani/TUS/copertina.png" "/home/azanzani/TUS/esempi-magie.tex" "/home/azanzani/TUS/gittex.sh" "/home/azanzani/TUS/magia-alternativa.tex" "/home/azanzani/TUS/DBS-monstruos-chapter.tex" "/home/azanzani/TUS/README.md" "/home/azanzani/TUS/The Untitled Bell System.pdf" "/home/azanzani/TUS/The Untitled Bell System.tex" "/home/azanzani/TUS/TUS-schedav6.ods" "/home/azanzani/TUS/TUS-schedav6.pdf" "/home/azanzani/TUS/DBS - Dungeon Bell System.tex" "/home/azanzani/TUS/DBS-magia-alternativa.tex" "/home/azanzani/TUS/DBS-abilita-arma-armature.tex" "/home/azanzani/TUS/DBS-scheda.ods" "/home/azanzani/TUS/DBS - Dungeon Bell System.pdf" "/home/azanzani/TUS/DBS-scheda.pdf" "/home/azanzani/TUS/theoldmagic.tex" "/home/azanzani/TUS/theoldmagic.pdf"
-
-#rsync -a "screen.odt" "TUS-git.zip" "/home/azanzani/TUS/bell-lulu6.png" "DBS-abilita-arma-armature.tex" "DBS-scheda.ods" "DBS-scheda.pdf" "DBS - Dungeon Bell System.tex" "DBS-magia-alternativa.tex" "The Untitled Bell System.tex" "The Untitled Bell System.pdf" "copertina.png" "The Untitled Bell System.docx" "TUS-schedav6.ods" "TUS-schedav6.pdf" "DBS-monstruos-chapter.tex" "magia-alternativa.tex" "/home/azanzani/TUS/esempi-magie.tex" "/home/azanzani/TUS/DBS-abilita-arma-armature.tex" "/home/azanzani/TUS/gittex.sh" "DBS - Dungeon Bell System.pdf" "theoldmagic.tex" "theoldmagic.pdf" $HOME"/Dropbox/Ad&ZZ/Pazfinder/"
-
-#rsync -a $HOME"/Dropbox/Federica/Le avventure di una mezza Pixie.odt" /home/azanzani/TUS/
-#rsync -a $HOME"/Dropbox/Federica/Nuove avventure di una fatina.odt" /home/azanzani/TUS/
-
 
 git config --global credential.helper cache
 git ls-files --others --exclude-from=.git/info/exclude
@@ -24,7 +17,7 @@ git add "/home/azanzani/DBS/DBS-scheda.ods"
 git add "/home/azanzani/DBS/DBS-scheda.pdf"
 git add "/home/azanzani/DBS/diario.md"
 git add "/home/azanzani/DBS/LICENSE.md"
-git add "/home/azanzani/TUS/README.MD"
+git add "/home/azanzani/TUS/README.md"
 git add "/home/azanzani/altro/"
 #git add "/home/azanzani/TUS/immagini/*"
 #git add "DBS-schedav6.ods"
