@@ -24,7 +24,7 @@ git add "/home/azanzani/DBS/DBS-scheda.ods"
 git add "/home/azanzani/DBS/DBS-scheda.pdf"
 git add "/home/azanzani/DBS/diario.md"
 git add "/home/azanzani/DBS/LICENSE.md"
-
+git add "/home/azanzani/TUS/README.MD"
 git add "/home/azanzani/altro/"
 #git add "/home/azanzani/TUS/immagini/*"
 #git add "DBS-schedav6.ods"
@@ -39,7 +39,7 @@ git add "/home/azanzani/altro/"
 commento=$(zenity --width=300 --entry --title="Inserisci commento al commit")
 git commit -am "$commento"
 #git push https://azanzani%40gmail.com:Musetto37913791@github.com/buzzqw/TUS.git
-git push https://buzzqw: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@github.com/buzzqw/TUS.git
+git push https://buzzqw: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@github.com/buzzqw/TUS.git
 #git push https://github-ci-token:ad61b7957469255fde008a4f1c59fff6e868e131@github.com/buzzqw/TUS.git
 
 
