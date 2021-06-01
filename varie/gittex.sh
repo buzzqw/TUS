@@ -5,8 +5,8 @@ pandoc -s "/home/azanzani/TUS/DBS/DBS - Dungeon Bell System.tex" -o "/home/azanz
 
 #rsync -a "screen.odt" "TUS-git.zip" "/home/azanzani/TUS/bell-lulu6.png" "DBS-abilita-arma-armature.tex" "DBS-scheda.ods" "DBS-scheda.pdf" "DBS - Dungeon Bell System.tex" "DBS-magia-alternativa.tex" "The Untitled Bell System.tex" "The Untitled Bell System.pdf" "copertina.png" "The Untitled Bell System.docx" "TUS-schedav6.ods" "TUS-schedav6.pdf" "DBS-monstruos-chapter.tex" "magia-alternativa.tex" "/home/azanzani/TUS/esempi-magie.tex" "/home/azanzani/TUS/DBS-abilita-arma-armature.tex" "/home/azanzani/TUS/gittex.sh" "DBS - Dungeon Bell System.pdf" "theoldmagic.tex" "theoldmagic.pdf" $HOME"/Dropbox/Ad&ZZ/Pazfinder/"
 
-rsync -a $HOME"/Dropbox/Federica/Le avventure di una mezza Pixie.odt" /home/azanzani/TUS/
-rsync -a $HOME"/Dropbox/Federica/Nuove avventure di una fatina.odt" /home/azanzani/TUS/
+#rsync -a $HOME"/Dropbox/Federica/Le avventure di una mezza Pixie.odt" /home/azanzani/TUS/
+#rsync -a $HOME"/Dropbox/Federica/Nuove avventure di una fatina.odt" /home/azanzani/TUS/
 
 
 git config --global credential.helper cache
