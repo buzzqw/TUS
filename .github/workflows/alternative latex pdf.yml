@@ -9,7 +9,7 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v2
         with:
-          path: ~./DBS
+          path: ~/TUS/DBS
           root_file: "DBS - Dungeon Bell System.tex"
       - name: Upload pdf
         uses: actions/upload-artifact@v2
