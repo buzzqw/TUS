@@ -15,5 +15,5 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: "DBS - Dungeon Bell System"
-          path: "DBS - Dungeon Bell System.pdf"  
+          path: "./DBS/DBS - Dungeon Bell System.pdf"  
           working_directory: ./DBS
