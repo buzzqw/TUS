@@ -1,3 +1,10 @@
+02/06/2021
+
+sistemare le actions di github e' stato un delirio!
+utilita'? che una modifica al "sorgente", al latex direttamente fatto in github, fa produrre il pdf del manuale e questo evita a chi non ha un ambiente latex installato di poter modificare il testo ed ottenere lo stesso il pdf risultante.
+Adesso sono in piena bolla, non so piu' cosa toccare e ho paura di fare danni. Il manuale ha una certa stabilita', qualsiasi cambiamento va valutato attentamente.
+A parte correnzioni di lingua che dopo 3 riletture sono sicuro ci siano ancora (sic!) devo solo testare approfonditamente.
+
 01/06/2021
 
 delirio! la mia poca conoscenza di git mi ha fatto dannare!
