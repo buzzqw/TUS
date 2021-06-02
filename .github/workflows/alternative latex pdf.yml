@@ -2,14 +2,16 @@ name: alternative LaTeX document
 on: [push]
 jobs:
   build_latex:
-    runs-on: ubuntu-latest    
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: /DBS
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v2
       - name: Compile LaTeX document
-        uses: xu-cheng/latex-action@v2
+        uses: xu-cheng/latex-action@v2        
         with:
-          working-directory: ./DBS
           root_file: "DBS - Dungeon Bell System.tex"
       - name: Upload pdf
         uses: actions/upload-artifact@v2
