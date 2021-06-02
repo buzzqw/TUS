@@ -3,16 +3,16 @@ on: [push]
 jobs:
   build_latex:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./DBS
+    env:
+       working-directory: ./DBS
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v2
       - name: Compile LaTeX document
-        uses: xu-cheng/latex-action@v2        
-        with:
-          working-directory: ./DBS
+        uses: xu-cheng/latex-action@v2     
+      - name: Compile DBS document
+        working-directory: ${{env.working-directory}} 
+        with:       
           root_file: "DBS - Dungeon Bell System.tex"
       - name: Upload pdf
         uses: actions/upload-artifact@v2
