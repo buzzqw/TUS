@@ -16,4 +16,3 @@ jobs:
         with:
           name: "DBS - Dungeon Bell System"
           path: "./DBS/DBS - Dungeon Bell System.pdf"  
-          working_directory: ./DBS
