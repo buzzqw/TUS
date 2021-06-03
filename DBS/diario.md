@@ -1,3 +1,9 @@
+03/06/2021
+
+ieri sero ho mandato in stampa la versione 1.1.0. Come ho gia' avuto modo di scrivere e' la versione definitiva su cui effettuare il gioco. La fase di playtesting non terminera' mai dato il mio modo di giocare e "sviluppare" ma questa versione e' un punto fermo.
+Per vostra curiosita' la stampa in bianco e nero su Lulu del manuale di DBS (526 pagine) costa circa 18€, una cifra molto abbordabile considerando che ci sono spessisimo sconti/coupon da applicare.
+Posso anche fornire il link per comprare una copia!
+
 02/06/2021
 
 sistemare le actions di github e' stato un delirio!
