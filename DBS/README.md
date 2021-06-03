@@ -1,5 +1,5 @@
 In questa cartella troverete il materiale per giocare a DBS, il gioco di ruolo su cui concentro le mie energie.
-I file che vi interessano se siete Master o Giocatori sono il manuale vero e proprio **DBS - Dungeon Bell System.pdf** e la scheda del giocatore **DBS-scheda.pdf**.
+I file che vi interessano se siete Master o Giocatori sono il manuale vero e proprio **DBS - Dungeon Bell System.pdf** [link](https://github.com/buzzqw/TUS/blob/master/DBS/DBS%20-%20Dungeon%20Bell%20System.pdf) e la scheda del giocatore **DBS-scheda.pdf** [link](https://github.com/buzzqw/TUS/blob/master/DBS/DBS-scheda.pdf).
 
 Dentro il manuale troverete tutto cio' che serve per giocare (a parte dadi e amici) dalla sezione per il giocatore, per il master e il compendio dei mostri.
 
