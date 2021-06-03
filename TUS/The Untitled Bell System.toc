@@ -1,0 +1,584 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{Introduzione}{7}{section*.1}% 
+\contentsline {subsection}{Termini Comuni}{9}{subsection*.2}% 
+\contentsline {section}{Razze}{12}{section*.3}% 
+\contentsline {subsection}{Umani}{12}{subsection*.4}% 
+\contentsline {subsection}{Elfi}{12}{subsection*.5}% 
+\contentsline {subsection}{Nani}{13}{subsection*.6}% 
+\contentsline {subsection}{Mezzelfo}{13}{subsection*.7}% 
+\contentsline {subsection}{Mezzorco}{14}{subsection*.8}% 
+\contentsline {subsection}{Drow}{14}{subsection*.9}% 
+\contentsline {subsection}{Nibali}{15}{subsection*.10}% 
+\contentsline {subsection}{Diversi}{15}{subsection*.11}% 
+\contentsline {subsection}{Altri}{16}{subsection*.12}% 
+\contentsline {section}{Caratteristiche Speciali}{17}{section*.13}% 
+\contentsline {subsection}{Visione Crepuscolare}{17}{subsection*.14}% 
+\contentsline {subsection}{Scurovisione}{17}{subsection*.15}% 
+\contentsline {subsection}{Fiuto}{17}{subsection*.16}% 
+\contentsline {subsection}{Vista Cieca (aka \IeC {\textquotedblleft }Daredevil\IeC {\textquotedblright })}{18}{subsection*.17}% 
+\contentsline {subsection}{Tremorsense}{18}{subsection*.18}% 
+\contentsline {section}{Le Caratteristiche}{19}{section*.19}% 
+\contentsline {section}{Punti Ferita}{19}{section*.20}% 
+\contentsline {section}{Punti Fato (Fortuna del Principiante)}{20}{section*.21}% 
+\contentsline {section}{L'Etica}{21}{section*.22}% 
+\contentsline {subsection}{I Tratti}{21}{subsection*.23}% 
+\contentsline {subsection}{L'Allineamento (OGL)}{24}{subsection*.24}% 
+\contentsline {subsubsection}{Bene Contro Male}{24}{subsubsection*.25}% 
+\contentsline {subsubsection}{Legge Contro Caos}{25}{subsubsection*.26}% 
+\contentsline {subsubsection}{Gradi di Allineamento}{25}{subsubsection*.27}% 
+\contentsline {subsubsection}{I Nove Allineamenti}{26}{subsubsection*.28}% 
+\contentsline {subsubsection}{Legale Buono}{26}{subsubsection*.29}% 
+\contentsline {subsubsection}{Neutrale Buono}{26}{subsubsection*.30}% 
+\contentsline {subsubsection}{Caotico Buono}{27}{subsubsection*.31}% 
+\contentsline {subsubsection}{Legale Neutrale}{27}{subsubsection*.32}% 
+\contentsline {subsubsection}{Neutrale}{28}{subsubsection*.33}% 
+\contentsline {subsubsection}{Caotico Neutrale}{29}{subsubsection*.34}% 
+\contentsline {subsubsection}{Legale Malvagio}{29}{subsubsection*.35}% 
+\contentsline {subsubsection}{Neutrale Malvagio}{30}{subsubsection*.36}% 
+\contentsline {subsubsection}{Caotico Malvagio}{31}{subsubsection*.37}% 
+\contentsline {subsubsection}{Cambiamento Forzato dell'Allineamento}{31}{subsubsection*.38}% 
+\contentsline {section}{Competenze}{33}{section*.39}% 
+\contentsline {subsection}{Competenze di Base}{33}{subsection*.40}% 
+\contentsline {subsection}{Competenze Attive}{34}{subsection*.41}% 
+\contentsline {section}{Costruiamo il Personaggio}{36}{section*.42}% 
+\contentsline {section}{Regole per le competenze}{38}{section*.43}% 
+\contentsline {subsection}{Superare o Fallire la prova di tanto...}{38}{subsection*.44}% 
+\contentsline {subsection}{Prove opposte}{39}{subsection*.45}% 
+\contentsline {subsection}{Vantaggi e Svantaggi}{39}{subsection*.46}% 
+\contentsline {subsubsection}{Successo Parziale - Opzionale}{40}{subsubsection*.47}% 
+\contentsline {subsection}{Descrizione delle Competenze di Base}{41}{subsection*.48}% 
+\contentsline {subsubsection}{Esempi Prove Competenza}{42}{subsubsection*.49}% 
+\contentsline {subsubsection}{Linguaggi}{43}{subsubsection*.50}% 
+\contentsline {subsubsection}{Volare}{43}{subsubsection*.51}% 
+\contentsline {section}{Combattimento}{44}{section*.52}% 
+\contentsline {subsection}{L'Iniziativa}{44}{subsection*.53}% 
+\contentsline {subsubsection}{Risoluzione delle Azioni}{44}{subsubsection*.54}% 
+\contentsline {subsection}{Azioni nel Round}{45}{subsection*.55}% 
+\contentsline {subsubsection}{Il Tempo (Round, Minuti e Turni)}{46}{subsubsection*.56}% 
+\contentsline {subsection}{Movimento}{47}{subsection*.57}% 
+\contentsline {subsubsection}{Creature Grandi e Piccole in Combattimento {*} (Opzionale)}{47}{subsubsection*.58}% 
+\contentsline {subsection}{Vita e Morte}{49}{subsection*.59}% 
+\contentsline {subsubsection}{Recupero da 0 PF*}{49}{subsubsection*.60}% 
+\contentsline {subsection}{Tiro per Colpire e Difesa}{50}{subsection*.61}% 
+\contentsline {subsection}{La Difesa}{50}{subsection*.62}% 
+\contentsline {subsection}{Tirare 3 volte 1}{51}{subsection*.63}% 
+\contentsline {subsection}{Tirare 3 volte 6}{51}{subsection*.64}% 
+\contentsline {subsection}{Tiro Critico}{51}{subsection*.65}% 
+\contentsline {subsection}{Esplosione del Danno}{51}{subsection*.66}% 
+\contentsline {subsection}{Tiro Critico Variante Opzionale*}{52}{subsection*.67}% 
+\contentsline {subsection}{Attacchi multipli in mischia}{52}{subsection*.68}% 
+\contentsline {subsection}{Armi da Tiro - Archi - Balestre (Arco / Balestre / Pugnali..)}{52}{subsection*.69}% 
+\contentsline {subsection}{Attacchi con armi a spargimento (olio incendiato/acqua benedetta..)}{52}{subsection*.70}% 
+\contentsline {subsection}{Impreparato -- Colti di Sorpresa}{53}{subsection*.71}% 
+\contentsline {subsection}{Modificatori di attacco o difesa per situazioni particolari}{53}{subsection*.72}% 
+\contentsline {subsection}{Azioni particolari in combattimento:}{54}{subsection*.73}% 
+\contentsline {subsubsection}{Attacco a mani nude}{54}{subsubsection*.74}% 
+\contentsline {subsubsection}{Attacco di Opportunita'}{54}{subsubsection*.75}% 
+\contentsline {subsubsection}{Carica}{54}{subsubsection*.76}% 
+\contentsline {subsubsection}{Controcarica}{54}{subsubsection*.77}% 
+\contentsline {subsubsection}{Carica con Arma da Controcarica}{54}{subsubsection*.78}% 
+\contentsline {subsubsection}{Aiutare un altro}{54}{subsubsection*.79}% 
+\contentsline {subsubsection}{Colpo di Grazia}{54}{subsubsection*.80}% 
+\contentsline {subsubsection}{Danno non letale}{55}{subsubsection*.81}% 
+\contentsline {subsubsection}{Senza Competenza}{55}{subsubsection*.82}% 
+\contentsline {subsubsection}{Armi Leggere}{55}{subsubsection*.83}% 
+\contentsline {subsubsection}{Armi Versatili}{55}{subsubsection*.84}% 
+\contentsline {subsubsection}{Lanciare armi}{55}{subsubsection*.85}% 
+\contentsline {subsubsection}{Colpi Potenti}{55}{subsubsection*.86}% 
+\contentsline {subsubsection}{Maestria del combattimento}{55}{subsubsection*.87}% 
+\contentsline {subsubsection}{Danno non letale con arma non idonea}{55}{subsubsection*.88}% 
+\contentsline {subsubsection}{Fiancheggiare}{55}{subsubsection*.89}% 
+\contentsline {subsubsection}{Arma Doppia}{56}{subsubsection*.90}% 
+\contentsline {subsubsection}{Arma Lunga}{56}{subsubsection*.91}% 
+\contentsline {subsubsection}{Arma lunga a breve distanza}{56}{subsubsection*.92}% 
+\contentsline {subsubsection}{Magia in combattimento}{56}{subsubsection*.93}% 
+\contentsline {subsubsection}{Prova di Concentrazione}{57}{subsubsection*.94}% 
+\contentsline {subsubsection}{Uscire da una zona minacciata}{57}{subsubsection*.95}% 
+\contentsline {subsubsection}{Preparare una arma lunga contro una carica}{57}{subsubsection*.96}% 
+\contentsline {subsubsection}{Prendere la Mira (cecchino)}{57}{subsubsection*.97}% 
+\contentsline {subsubsection}{Alzarsi da prono}{57}{subsubsection*.98}% 
+\contentsline {subsubsection}{Combattimento con due armi}{57}{subsubsection*.99}% 
+\contentsline {subsubsection}{Usare un'arma da lancio sotto minaccia}{57}{subsubsection*.100}% 
+\contentsline {subsubsection}{Usare un'arma da lancio mirando ad un avversario impegnato in combattimento}{57}{subsubsection*.101}% 
+\contentsline {subsubsection}{Usare un'arma con due mani}{57}{subsubsection*.102}% 
+\contentsline {subsubsection}{Difesa totale}{57}{subsubsection*.103}% 
+\contentsline {subsubsection}{Disingaggiare}{58}{subsubsection*.104}% 
+\contentsline {subsubsection}{Mettersi sulla difensiva}{58}{subsubsection*.105}% 
+\contentsline {subsubsection}{Disarmare*}{58}{subsubsection*.106}% 
+\contentsline {subsubsection}{Finta*}{58}{subsubsection*.107}% 
+\contentsline {subsubsection}{Spingere un avversario*}{58}{subsubsection*.108}% 
+\contentsline {subsubsection}{Afferrare un avversario*}{58}{subsubsection*.109}% 
+\contentsline {subsubsection}{Fare cadere un avversario}{58}{subsubsection*.110}% 
+\contentsline {subsubsection}{Modificare le proprie dimensioni*}{59}{subsubsection*.111}% 
+\contentsline {section}{Nascondigli e coperture}{60}{section*.112}% 
+\contentsline {subsection}{Invisibilita'}{60}{subsection*.113}% 
+\contentsline {section}{Lista Armi per Tipologia Omogenea}{62}{section*.114}% 
+\contentsline {subsection}{Armi Leggere}{62}{subsection*.115}% 
+\contentsline {subsection}{Asce}{62}{subsection*.116}% 
+\contentsline {subsection}{Rompi Cranio}{62}{subsection*.117}% 
+\contentsline {subsection}{Archi}{63}{subsection*.118}% 
+\contentsline {subsection}{Balestre}{63}{subsection*.119}% 
+\contentsline {subsection}{Armi doppie}{63}{subsection*.120}% 
+\contentsline {subsection}{Armi da carceriere}{63}{subsection*.121}% 
+\contentsline {subsection}{Palle rotanti}{64}{subsection*.122}% 
+\contentsline {subsection}{Armi aggraziate}{64}{subsection*.123}% 
+\contentsline {subsection}{Armi della morte}{64}{subsection*.124}% 
+\contentsline {subsection}{Armi da stordimento}{64}{subsection*.125}% 
+\contentsline {subsection}{Lance}{64}{subsection*.126}% 
+\contentsline {subsection}{Armi letali}{65}{subsection*.127}% 
+\contentsline {subsection}{Aste}{65}{subsection*.128}% 
+\contentsline {subsection}{Spade}{65}{subsection*.129}% 
+\contentsline {subsection}{Scudi}{65}{subsection*.130}% 
+\contentsline {subsection}{Bloccanti}{66}{subsection*.131}% 
+\contentsline {subsection}{Armi da tiro}{66}{subsection*.132}% 
+\contentsline {subsection}{Pugno nudo}{66}{subsection*.133}% 
+\contentsline {subsection}{Armi Semplici}{66}{subsection*.134}% 
+\contentsline {section}{Abilita'}{67}{section*.135}% 
+\contentsline {subsection}{Animalia}{67}{subsection*.136}% 
+\contentsline {subsection}{Armatura del Devoto}{67}{subsection*.137}% 
+\contentsline {subsection}{Arciere a cavallo}{67}{subsection*.138}% 
+\contentsline {subsection}{Arma Focalizzata}{68}{subsection*.139}% 
+\contentsline {subsection}{Attacco turbinante}{68}{subsection*.140}% 
+\contentsline {subsection}{Colpi poderosi}{68}{subsection*.141}% 
+\contentsline {subsection}{Colpo furtivo (Attacco alle spalle)}{68}{subsection*.142}% 
+\contentsline {subsection}{Colpo Indebolente}{68}{subsection*.143}% 
+\contentsline {subsection}{Colpo Mortale}{68}{subsection*.144}% 
+\contentsline {subsection}{Colpo Paralizzante}{68}{subsection*.145}% 
+\contentsline {subsection}{Combattere alla Cieca}{68}{subsection*.146}% 
+\contentsline {subsection}{Combattimento con due armi}{69}{subsection*.147}% 
+\contentsline {subsection}{Creare Oggetti Magici}{69}{subsection*.148}% 
+\contentsline {subsection}{Creare Oggetti Magici Superiori}{69}{subsection*.149}% 
+\contentsline {subsection}{Creare Oggetti Magici Meravigliosi}{69}{subsection*.150}% 
+\contentsline {subsection}{Decifrare scritti magici}{69}{subsection*.151}% 
+\contentsline {subsection}{Difendere Cavalcatura}{69}{subsection*.152}% 
+\contentsline {subsection}{Distillare pozioni}{69}{subsection*.153}% 
+\contentsline {subsection}{Doppia porzione}{70}{subsection*.154}% 
+\contentsline {subsection}{Energia Psichica}{70}{subsection*.155}% 
+\contentsline {subsection}{Colpo Psichico}{70}{subsection*.156}% 
+\contentsline {subsection}{Raggio Psichico}{70}{subsection*.157}% 
+\contentsline {subsection}{Essenza Psichica}{70}{subsection*.158}% 
+\contentsline {subsection}{Eludere}{71}{subsection*.159}% 
+\contentsline {subsection}{Esperto}{71}{subsection*.160}% 
+\contentsline {subsection}{Animaletto / Famiglio}{71}{subsection*.161}% 
+\contentsline {subsection}{Fare Infuriare}{71}{subsection*.162}% 
+\contentsline {subsection}{Ferocia}{71}{subsection*.163}% 
+\contentsline {subsection}{Finta Morte}{71}{subsection*.164}% 
+\contentsline {subsection}{Flagello Danzante}{71}{subsection*.165}% 
+\contentsline {subsection}{Forgiato nella furia}{72}{subsection*.166}% 
+\contentsline {subsection}{Freccia chiamata, freccia consegnata}{72}{subsection*.167}% 
+\contentsline {subsection}{Furia}{72}{subsection*.168}% 
+\contentsline {subsection}{Giocoliere}{72}{subsection*.169}% 
+\contentsline {subsection}{Guerriero dell'Essenza}{72}{subsection*.170}% 
+\contentsline {subsection}{Ho detto CADI!}{72}{subsection*.171}% 
+\contentsline {subsection}{Incantare in Combattimento}{72}{subsection*.172}% 
+\contentsline {subsection}{Incantatore Prudente}{72}{subsection*.173}% 
+\contentsline {subsection}{Immunit\IeC {\`a} ai veleni}{73}{subsection*.174}% 
+\contentsline {subsection}{Imposizione delle mani (energia negativa o positiva a seconda dei tratti)}{73}{subsection*.175}% 
+\contentsline {subsection}{Incanalare energia (energia negativa o positiva a seconda dei tratti)}{73}{subsection*.176}% 
+\contentsline {subsection}{Incanalare energia a distanza}{73}{subsection*.177}% 
+\contentsline {subsection}{Incanalare energia concentrata}{73}{subsection*.178}% 
+\contentsline {subsection}{Iniziativa migliorata}{74}{subsection*.179}% 
+\contentsline {subsection}{Iaijutsu}{74}{subsection*.180}% 
+\contentsline {subsection}{La mia morte la tua morte}{74}{subsection*.181}% 
+\contentsline {subsection}{La mia Testa \IeC {\`e} pi\IeC {\`u} Dura}{74}{subsection*.182}% 
+\contentsline {subsection}{Lo scudo \IeC {\`e} mio amico}{74}{subsection*.183}% 
+\contentsline {subsection}{Magie efficaci}{74}{subsection*.184}% 
+\contentsline {subsection}{Montagna umana}{74}{subsection*.185}% 
+\contentsline {subsection}{Occhio Clinico}{74}{subsection*.186}% 
+\contentsline {subsection}{Occhio di Falco}{75}{subsection*.187}% 
+\contentsline {subsection}{Opportunista}{75}{subsection*.188}% 
+\contentsline {subsection}{Passo Veloce}{75}{subsection*.189}% 
+\contentsline {subsection}{Passo sicuro}{75}{subsection*.190}% 
+\contentsline {subsection}{Passo tattico}{75}{subsection*.191}% 
+\contentsline {subsection}{Percettivo}{75}{subsection*.192}% 
+\contentsline {subsection}{Persona veramente malvagia}{75}{subsection*.193}% 
+\contentsline {subsection}{Pi\IeC {\`u} sono grossi pi\IeC {\`u} fanno rumore quando cadono}{76}{subsection*.194}% 
+\contentsline {subsection}{Proseguire}{76}{subsection*.195}% 
+\contentsline {subsection}{Questo \IeC {\`e} il mio pugnale}{76}{subsection*.196}% 
+\contentsline {subsection}{Questa \IeC {\`e} la mia arma!}{76}{subsection*.197}% 
+\contentsline {subsection}{Radici magiche}{76}{subsection*.198}% 
+\contentsline {subsection}{Rappresaglia}{76}{subsection*.199}% 
+\contentsline {subsection}{Resistenza della pietra}{76}{subsection*.200}% 
+\contentsline {subsection}{Rilevare il Magico}{77}{subsection*.201}% 
+\contentsline {subsection}{Ricarica rapida (Balestra)}{77}{subsection*.202}% 
+\contentsline {subsection}{Riflessi fulminei}{77}{subsection*.203}% 
+\contentsline {subsection}{Scacciare i non morti}{77}{subsection*.204}% 
+\contentsline {subsection}{Schivare trappole}{77}{subsection*.205}% 
+\contentsline {subsection}{Schivata prodigiosa}{78}{subsection*.206}% 
+\contentsline {subsection}{Seconda pelle}{78}{subsection*.207}% 
+\contentsline {subsection}{Segugio}{78}{subsection*.208}% 
+\contentsline {subsection}{Senso Trappola}{78}{subsection*.209}% 
+\contentsline {subsection}{Senza Traccia}{78}{subsection*.210}% 
+\contentsline {subsection}{Stai giu'!}{78}{subsection*.211}% 
+\contentsline {subsection}{Tiro preciso}{78}{subsection*.212}% 
+\contentsline {subsection}{Tiro rapido}{79}{subsection*.213}% 
+\contentsline {subsection}{Toccata e fuga}{79}{subsection*.214}% 
+\contentsline {subsection}{Tocco pietoso}{79}{subsection*.215}% 
+\contentsline {subsection}{Vampiro}{79}{subsection*.216}% 
+\contentsline {subsection}{Volont\IeC {\`a} Ferrea}{80}{subsection*.217}% 
+\contentsline {section}{Famiglio}{81}{section*.218}% 
+\contentsline {section}{Altre Abilit\IeC {\`a} speciali}{83}{section*.219}% 
+\contentsline {subsection}{Etereo}{83}{subsection*.220}% 
+\contentsline {subsection}{Resistenza al Danno}{83}{subsection*.221}% 
+\contentsline {subsection}{Riduzione del Danno}{83}{subsection*.222}% 
+\contentsline {subsection}{Vulnerabilit\IeC {\`a} al Danno}{83}{subsection*.223}% 
+\contentsline {subsection}{Resistenza alla Magia}{84}{subsection*.224}% 
+\contentsline {subsection}{Paura}{84}{subsection*.225}% 
+\contentsline {subsection}{Paralizzato}{84}{subsection*.226}% 
+\contentsline {section}{La Magia}{85}{section*.227}% 
+\contentsline {subsection}{Le Essenze}{85}{subsection*.228}% 
+\contentsline {subsubsection}{Competenza Magica ed Essenza}{85}{subsubsection*.229}% 
+\contentsline {subsubsection}{Le regole delle Essenze}{86}{subsubsection*.230}% 
+\contentsline {subsubsection}{Creature ed Elementi}{86}{subsubsection*.231}% 
+\contentsline {subsubsection}{Caratteristiche base delle Essenze}{87}{subsubsection*.232}% 
+\contentsline {subsubsection}{Tiro per Colpire ed Essenze}{87}{subsubsection*.233}% 
+\contentsline {subsubsection}{Recitare l'Essenza}{88}{subsubsection*.234}% 
+\contentsline {subsubsection}{Potenziamenti delle Caratteristiche dell'Essenza}{88}{subsubsection*.235}% 
+\contentsline {subsubsection}{Aree di effetto diverse}{90}{subsubsection*.236}% 
+\contentsline {subsubsection}{Influenzati da pi\IeC {\`u} Essenze}{90}{subsubsection*.237}% 
+\contentsline {subsubsection}{Scegliere l'effetto dell'Essenza}{91}{subsubsection*.238}% 
+\contentsline {subsubsection}{Altre regole}{91}{subsubsection*.239}% 
+\contentsline {subsubsection}{Attacco con Essenze non di Attacco}{91}{subsubsection*.240}% 
+\contentsline {subsubsection}{Usare due Essenze concatenate}{91}{subsubsection*.241}% 
+\contentsline {subsubsection}{Essenze Cumulate}{91}{subsubsection*.242}% 
+\contentsline {subsubsection}{Alterare le Essenze}{91}{subsubsection*.243}% 
+\contentsline {subsubsection}{Esecuzione di Essenze in maniera collaborativa}{92}{subsubsection*.244}% 
+\contentsline {subsubsection}{Tentare Essenza con impedimenti}{92}{subsubsection*.245}% 
+\contentsline {subsubsection}{Riuscire e Fallire nella prova di Magia}{92}{subsubsection*.246}% 
+\contentsline {subsubsection}{L'esplosione del 6 nella Magia}{93}{subsubsection*.247}% 
+\contentsline {subsubsection}{Tentare la sorte con la Magia}{93}{subsubsection*.248}% 
+\contentsline {subsubsection}{Resistere all'Essenza (Tiro Salvezza)}{93}{subsubsection*.249}% 
+\contentsline {subsubsection}{Pi\IeC {\`u} Essenze nello stesso round}{94}{subsubsection*.250}% 
+\contentsline {subsubsection}{Mantenere la Concentrazione}{94}{subsubsection*.251}% 
+\contentsline {subsubsection}{Check di Concentrazione}{94}{subsubsection*.252}% 
+\contentsline {subsubsection}{Un ultimo suggerimento}{94}{subsubsection*.253}% 
+\contentsline {subsubsection}{Lista delle Essenze}{94}{subsubsection*.254}% 
+\contentsline {subsubsection}{Essenza Alterare}{96}{subsubsection*.255}% 
+\contentsline {subsubsection}{Essenza Attacco}{97}{subsubsection*.256}% 
+\contentsline {subsubsection}{Essenza Charme}{99}{subsubsection*.257}% 
+\contentsline {subsubsection}{Essenza Convocazione}{101}{subsubsection*.258}% 
+\contentsline {subsubsection}{Essenza Creazione}{102}{subsubsection*.259}% 
+\contentsline {subsubsection}{Essenza Cura}{104}{subsubsection*.260}% 
+\contentsline {subsubsection}{Essenza Difesa}{107}{subsubsection*.261}% 
+\contentsline {subsubsection}{Essenza Distruzione}{109}{subsubsection*.262}% 
+\contentsline {subsubsection}{Essenza Illusione}{112}{subsubsection*.263}% 
+\contentsline {subsubsection}{Essenza Movimento}{113}{subsubsection*.264}% 
+\contentsline {subsubsection}{Essenza Protezione}{116}{subsubsection*.265}% 
+\contentsline {subsubsection}{Essenza Rivelazione}{117}{subsubsection*.266}% 
+\contentsline {subsubsection}{Essenza Trasformazione}{118}{subsubsection*.267}% 
+\contentsline {subsubsection}{Esempi di formulazioni Essenze}{120}{subsubsection*.268}% 
+\contentsline {subsection}{La Magia (Semplificata - Opzionale)}{121}{subsection*.269}% 
+\contentsline {section}{Vantaggi}{122}{section*.270}% 
+\contentsline {section}{Svantaggi}{126}{section*.271}% 
+\contentsline {subsubsection}{Svantaggi di Ruolo}{127}{subsubsection*.272}% 
+\contentsline {subsection}{Svantaggi psico/fisici}{129}{subsection*.273}% 
+\contentsline {section}{Cosmologia}{135}{section*.274}% 
+\contentsline {subsection}{Patroni}{138}{subsection*.275}% 
+\contentsline {subsubsection}{Ljust}{139}{subsubsection*.276}% 
+\contentsline {paragraph}{Gli 8 Passi delle Allieve}{139}{paragraph*.277}% 
+\contentsline {subsubsection}{Calicante}{140}{subsubsection*.278}% 
+\contentsline {subsubsection}{Atmos}{140}{subsubsection*.279}% 
+\contentsline {subsubsection}{Lynx}{141}{subsubsection*.280}% 
+\contentsline {subsubsection}{Gradh}{142}{subsubsection*.281}% 
+\contentsline {subsubsection}{Atherim}{143}{subsubsection*.282}% 
+\contentsline {subsubsection}{Belevon}{143}{subsubsection*.283}% 
+\contentsline {subsubsection}{Cattalm}{144}{subsubsection*.284}% 
+\contentsline {subsubsection}{Efrem}{145}{subsubsection*.285}% 
+\contentsline {subsubsection}{Erondil}{146}{subsubsection*.286}% 
+\contentsline {subsubsection}{Gaya}{146}{subsubsection*.287}% 
+\contentsline {subsubsection}{Krondal}{147}{subsubsection*.288}% 
+\contentsline {subsubsection}{Ledyal}{148}{subsubsection*.289}% 
+\contentsline {subsubsection}{Nethergal}{149}{subsubsection*.290}% 
+\contentsline {subsubsection}{Nedraf}{149}{subsubsection*.291}% 
+\contentsline {subsubsection}{Nihar}{150}{subsubsection*.292}% 
+\contentsline {subsubsection}{Orudjs}{151}{subsubsection*.293}% 
+\contentsline {subsubsection}{Orlaith}{151}{subsubsection*.294}% 
+\contentsline {subsubsection}{Rezh}{152}{subsubsection*.295}% 
+\contentsline {subsubsection}{Sumkjr}{153}{subsubsection*.296}% 
+\contentsline {paragraph}{Le 7 Regole Luminose}{154}{paragraph*.297}% 
+\contentsline {subsubsection}{Shayalia}{154}{subsubsection*.298}% 
+\contentsline {subsubsection}{Sixiser}{155}{subsubsection*.299}% 
+\contentsline {subsubsection}{Tazher}{155}{subsubsection*.300}% 
+\contentsline {subsubsection}{Thaft}{156}{subsubsection*.301}% 
+\contentsline {subsubsection}{Torbiorn}{157}{subsubsection*.302}% 
+\contentsline {subsubsection}{Tabella collegamento Patrono - Tratto}{158}{subsubsection*.303}% 
+\contentsline {subsubsection}{Utilizzo delle divinit\IeC {\`a} Antiche}{159}{subsubsection*.304}% 
+\contentsline {subsubsection}{Le divinit\IeC {\`a} Antiche}{159}{subsubsection*.305}% 
+\contentsline {subsubsection}{Koira}{160}{subsubsection*.306}% 
+\contentsline {subsubsection}{Daern}{160}{subsubsection*.307}% 
+\contentsline {subsubsection}{Moraim}{161}{subsubsection*.308}% 
+\contentsline {subsubsection}{Solimi}{161}{subsubsection*.309}% 
+\contentsline {subsubsection}{Isar}{161}{subsubsection*.310}% 
+\contentsline {subsubsection}{Talo}{162}{subsubsection*.311}% 
+\contentsline {subsubsection}{Sefryn}{162}{subsubsection*.312}% 
+\contentsline {subsubsection}{Jaskara}{163}{subsubsection*.313}% 
+\contentsline {subsubsection}{Ediath}{163}{subsubsection*.314}% 
+\contentsline {subsubsection}{Xabax}{164}{subsubsection*.315}% 
+\contentsline {subsubsection}{Seeyek}{164}{subsubsection*.316}% 
+\contentsline {subsubsection}{Daraka}{165}{subsubsection*.317}% 
+\contentsline {subsubsection}{Zxcvbnm}{165}{subsubsection*.318}% 
+\contentsline {subsubsection}{Zarkor}{166}{subsubsection*.319}% 
+\contentsline {subsubsection}{Eramide}{166}{subsubsection*.320}% 
+\contentsline {subsubsection}{Averim}{167}{subsubsection*.321}% 
+\contentsline {subsubsection}{Kyriel}{167}{subsubsection*.322}% 
+\contentsline {subsubsection}{Gli aspetti generici}{168}{subsubsection*.323}% 
+\contentsline {section}{Equipaggiamento}{171}{section*.324}% 
+\contentsline {subsection}{Ricchezza e Denaro}{171}{subsection*.325}% 
+\contentsline {subsubsection}{Monete}{171}{subsubsection*.326}% 
+\contentsline {subsubsection}{Altre Ricchezze}{171}{subsubsection*.327}% 
+\contentsline {section}{Equipaggiamento - Armi}{172}{section*.328}% 
+\contentsline {subsection}{Equipaggiamento - Armature e Scudi}{175}{subsection*.329}% 
+\contentsline {subsubsection}{Tabella Armature}{175}{subsubsection*.330}% 
+\contentsline {subsubsection}{Tabella Scudi}{177}{subsubsection*.331}% 
+\contentsline {section}{Merci e Servizi}{178}{section*.332}% 
+\contentsline {subsection}{Equipaggiamento d'Avventura}{178}{subsection*.333}% 
+\contentsline {subsection}{Oggetti e Sostanze Speciali}{187}{subsection*.334}% 
+\contentsline {subsection}{Armi Alchemiche}{191}{subsection*.335}% 
+\contentsline {subsection}{Attrezzature Alchemiche}{191}{subsection*.336}% 
+\contentsline {subsection}{Rimedi Alchemici}{192}{subsection*.337}% 
+\contentsline {subsection}{Attrezzi per professioni ed artigiani}{194}{subsection*.338}% 
+\contentsline {subsection}{Cavalcature e Relativo Equipaggiamento}{197}{subsection*.339}% 
+\contentsline {subsubsection}{Accessori e Varie}{197}{subsubsection*.340}% 
+\contentsline {subsection}{Vestiario}{199}{subsection*.341}% 
+\contentsline {subsection}{Vitto e Alloggio}{201}{subsection*.342}% 
+\contentsline {subsection}{Trasporti}{202}{subsection*.343}% 
+\contentsline {subsection}{Magie e Servizi}{203}{subsection*.344}% 
+\contentsline {subsection}{Oggetti da Intrattenimento}{203}{subsection*.345}% 
+\contentsline {subsection}{Materiali Speciali}{204}{subsection*.346}% 
+\contentsline {subsubsection}{Acciaio Forgiato a Caldo}{204}{subsubsection*.347}% 
+\contentsline {subsubsection}{Acciaio Forgiato a Freddo}{204}{subsubsection*.348}% 
+\contentsline {subsubsection}{Acciaio Vivente}{204}{subsubsection*.349}% 
+\contentsline {subsubsection}{Adamantio}{204}{subsubsection*.350}% 
+\contentsline {subsubsection}{Argento Alchemico}{205}{subsubsection*.351}% 
+\contentsline {subsubsection}{Ferro Freddo}{205}{subsubsection*.352}% 
+\contentsline {subsubsection}{Mithral}{205}{subsubsection*.353}% 
+\contentsline {subsubsection}{Pelle di Drago}{205}{subsubsection*.354}% 
+\contentsline {section}{Sfondare ed Entrare}{207}{section*.355}% 
+\contentsline {subsection}{Rompere Oggetti}{208}{subsection*.356}% 
+\contentsline {subsubsection}{Tabella: DC per Rompere o Forzare oggetti - Prova di Potenza}{209}{subsubsection*.357}% 
+\contentsline {section}{Ambiente}{210}{section*.358}% 
+\contentsline {subsection}{Regole Ambientali}{210}{subsection*.359}% 
+\contentsline {subsubsection}{Visione e Luce}{210}{subsubsection*.360}% 
+\contentsline {subsubsection}{Buio}{211}{subsubsection*.361}% 
+\contentsline {subsubsection}{Accecato}{211}{subsubsection*.362}% 
+\contentsline {subsubsection}{Cadute}{211}{subsubsection*.363}% 
+\contentsline {subsubsection}{Effetti dell'Acido}{212}{subsubsection*.364}% 
+\contentsline {subsubsection}{Effetti del Fumo}{212}{subsubsection*.365}% 
+\contentsline {subsubsection}{Fame e Sete}{212}{subsubsection*.366}% 
+\contentsline {subsubsection}{Oggetti Cadenti}{212}{subsubsection*.367}% 
+\contentsline {subsubsection}{Pericoli dell'Acqua}{213}{subsubsection*.368}% 
+\contentsline {subsubsection}{Pericoli del Caldo}{213}{subsubsection*.369}% 
+\contentsline {subsubsection}{Prendere Fuoco}{214}{subsubsection*.370}% 
+\contentsline {subsubsection}{Pericoli del Freddo}{214}{subsubsection*.371}% 
+\contentsline {subsubsection}{Effetti del Ghiaccio}{215}{subsubsection*.372}% 
+\contentsline {subsubsection}{Soffocamento Lento}{215}{subsubsection*.373}% 
+\contentsline {subsection}{Tempo Atmosferico - Meteo}{216}{subsection*.374}% 
+\contentsline {subsubsection}{Tempeste}{217}{subsubsection*.375}% 
+\contentsline {subsubsection}{Nebbia}{218}{subsubsection*.376}% 
+\contentsline {subsubsection}{Venti}{218}{subsubsection*.377}% 
+\contentsline {section}{Avventure in Acqua}{220}{section*.378}% 
+\contentsline {section}{Avventure in Citta'}{223}{section*.379}% 
+\contentsline {section}{Avventure e Disastri}{228}{section*.380}% 
+\contentsline {section}{Avventure nei Dungeon}{231}{section*.381}% 
+\contentsline {subsubsection}{Pericoli nei Dungeon}{237}{subsubsection*.382}% 
+\contentsline {section}{Pericoli in Avventura}{240}{section*.383}% 
+\contentsline {subsection}{Avventure e Trappole}{243}{subsection*.384}% 
+\contentsline {subsubsection}{Altre Peculiarit\IeC {\`a} delle Trappole}{247}{subsubsection*.385}% 
+\contentsline {subsubsection}{Progettare una Trappola}{247}{subsubsection*.386}% 
+\contentsline {section}{Veleni e Pozioni}{253}{section*.387}% 
+\contentsline {subsubsection}{Veleni Naturali}{254}{subsubsection*.388}% 
+\contentsline {subsection}{Pozioni naturali}{255}{subsection*.389}% 
+\contentsline {subsection}{Droghe}{258}{subsection*.390}% 
+\contentsline {subsection}{Pozioni generiche}{259}{subsection*.391}% 
+\contentsline {section}{Movimento e Trasporto}{260}{section*.392}% 
+\contentsline {subsection}{Tabella: Movimento e Distanza e Velocit\IeC {\`a} : a Piedi}{260}{subsection*.393}% 
+\contentsline {subsection}{Movimento Tattico}{260}{subsection*.394}% 
+\contentsline {subsubsection}{Movimento Locale}{261}{subsubsection*.395}% 
+\contentsline {subsubsection}{Movimento Via Terra}{261}{subsubsection*.396}% 
+\contentsline {subsection}{Tabella: Cavalcature e Veicoli}{262}{subsection*.397}% 
+\contentsline {subsection}{Fuga e Inseguimento}{263}{subsection*.398}% 
+\contentsline {subsection}{Capacit\IeC {\`a} di Carico e Trasporto: Ingombro}{263}{subsection*.399}% 
+\contentsline {subsubsection}{Ingombro}{263}{subsubsection*.400}% 
+\contentsline {subsubsection}{Oggetti e valori di Ingombro}{263}{subsubsection*.401}% 
+\contentsline {subsubsection}{Come stimare l'Ingombro}{264}{subsubsection*.402}% 
+\contentsline {subsubsection}{Ingombro delle Monete}{264}{subsubsection*.403}% 
+\contentsline {subsubsection}{Trascinare}{264}{subsubsection*.404}% 
+\contentsline {subsubsection}{Creature Pi\IeC {\`u} Grandi e Pi\IeC {\`u} Piccole}{264}{subsubsection*.405}% 
+\contentsline {subsection}{Altri Tipi di Movimento}{265}{subsection*.406}% 
+\contentsline {section}{Masterizzare}{267}{section*.407}% 
+\contentsline {subsection}{Il Narratore}{267}{subsection*.408}% 
+\contentsline {subsection}{Punti Esperienza}{267}{subsection*.409}% 
+\contentsline {subsubsection}{Tabella punti Esperienza / Livello}{267}{subsubsection*.410}% 
+\contentsline {subsection}{Incontri}{268}{subsection*.411}% 
+\contentsline {subsubsection}{Costruire un Bottino}{272}{subsubsection*.412}% 
+\contentsline {subsection}{Recitare}{273}{subsection*.413}% 
+\contentsline {section}{Creare Oggetti Magici}{274}{section*.414}% 
+\contentsline {subsection}{Creare Armature Magiche}{274}{subsection*.415}% 
+\contentsline {subsection}{Creare Armi Magiche}{274}{subsection*.416}% 
+\contentsline {subsection}{Creare Bacchette}{275}{subsection*.417}% 
+\contentsline {subsection}{Creare Bastoni}{275}{subsection*.418}% 
+\contentsline {subsection}{Creare Oggetti Magici}{277}{subsection*.419}% 
+\contentsline {subsection}{Creare Pergamene}{277}{subsection*.420}% 
+\contentsline {subsection}{Creare Pozioni}{277}{subsection*.421}% 
+\contentsline {subsection}{Creare Verghe}{278}{subsection*.422}% 
+\contentsline {subsection}{Aggiungere Nuove Capacita'}{278}{subsection*.423}% 
+\contentsline {section}{Oggetti Magici}{280}{section*.424}% 
+\contentsline {subsection}{Tabella: Generazione Casuale degli Oggetti Magici}{280}{subsection*.425}% 
+\contentsline {subsection}{Taglia e Oggetti Magici}{280}{subsection*.426}% 
+\contentsline {subsection}{Oggetti Magici sul Corpo}{280}{subsection*.427}% 
+\contentsline {subsection}{Tiri Salvezza Contro i Poteri degli Oggetti Magici}{281}{subsection*.428}% 
+\contentsline {subsection}{Danneggiare gli Oggetti Magici}{281}{subsection*.429}% 
+\contentsline {subsection}{Riparare gli Oggetti Magici}{281}{subsection*.430}% 
+\contentsline {subsection}{Cariche, Dosi e Usi Multipli}{281}{subsection*.431}% 
+\contentsline {subsection}{Acquisire Oggetti Magici}{282}{subsection*.432}% 
+\contentsline {section}{Armature Magiche}{283}{section*.433}% 
+\contentsline {subsection}{Tabella: Generazione casuale di Armature e Scudi Magici}{283}{subsection*.434}% 
+\contentsline {subsection}{Tabella Generazione Capacit\IeC {\`a} Speciali delle Armature}{284}{subsection*.435}% 
+\contentsline {subsection}{Tabella Generazione Capacit\IeC {\`a} Speciali degli Scudi}{284}{subsection*.436}% 
+\contentsline {subsection}{Tabella: Armature e Scudi Magici: Capacit\IeC {\`a} Speciale}{285}{subsection*.437}% 
+\contentsline {subsection}{Scudi Magici}{285}{subsection*.438}% 
+\contentsline {subsection}{Capacit\IeC {\`a} Speciali delle Armature Magiche e degli Scudi Magici}{285}{subsection*.439}% 
+\contentsline {subsection}{Descrizione delle Capacit\IeC {\`a} Speciali delle Armature e Scudi Magici}{286}{subsection*.440}% 
+\contentsline {section}{Armi Magiche e Speciali}{291}{section*.441}% 
+\contentsline {subsection}{Tabella: Armi Magiche}{291}{subsection*.442}% 
+\contentsline {subsection}{Tabella: Capacit\IeC {\`a} Speciali delle Armi a Distanza}{293}{subsection*.443}% 
+\contentsline {subsection}{Descrizione delle Capacit\IeC {\`a} Speciali delle Armi Magiche}{293}{subsection*.444}% 
+\contentsline {section}{Anelli Magici Speciali}{298}{section*.445}% 
+\contentsline {section}{Bastoni Magici Speciali}{306}{section*.446}% 
+\contentsline {section}{Oggetti Maledetti}{308}{section*.447}% 
+\contentsline {section}{Draghi}{312}{section*.448}% 
+\contentsline {subsection}{I Colori dei Draghi}{313}{subsection*.449}% 
+\contentsline {subsubsection}{Drago Nero}{313}{subsubsection*.450}% 
+\contentsline {subsubsection}{Drago Blu}{313}{subsubsection*.451}% 
+\contentsline {subsubsection}{Drago Verde}{314}{subsubsection*.452}% 
+\contentsline {subsubsection}{Drago Bianco}{314}{subsubsection*.453}% 
+\contentsline {subsubsection}{Drago Porpora}{314}{subsubsection*.454}% 
+\contentsline {subsubsection}{Drago Giallo}{315}{subsubsection*.455}% 
+\contentsline {subsubsection}{Drago Rosso}{315}{subsubsection*.456}% 
+\contentsline {section}{Yeru}{316}{section*.457}% 
+\contentsline {section}{I Portali}{317}{section*.458}% 
+\contentsline {section}{I Piani}{318}{section*.459}% 
+\contentsline {subsection}{Cos'\IeC {\`e} un Piano?}{318}{subsection*.460}% 
+\contentsline {subsection}{Piani a Pi\IeC {\`u} Strati}{319}{subsection*.461}% 
+\contentsline {subsection}{Interazione Planare}{319}{subsection*.462}% 
+\contentsline {subsection}{Tratti Planari}{320}{subsection*.463}% 
+\contentsline {subsection}{Gravit\IeC {\`a}}{320}{subsection*.464}% 
+\contentsline {subsection}{Tempo}{320}{subsection*.465}% 
+\contentsline {subsection}{Tratti Elementali ed Energetici}{320}{subsection*.466}% 
+\contentsline {subsection}{Tratti di Allineamento}{322}{subsection*.467}% 
+\contentsline {subsection}{Tratti Magici}{322}{subsection*.468}% 
+\contentsline {subsection}{Piano Materiale}{324}{subsection*.469}% 
+\contentsline {subsection}{Piano delle Ombre}{324}{subsection*.470}% 
+\contentsline {subsection}{Piano dell'Energia Negativa}{324}{subsection*.471}% 
+\contentsline {subsection}{Piano dell'Energia Positiva}{325}{subsection*.472}% 
+\contentsline {subsection}{Piano dell'Acqua}{325}{subsection*.473}% 
+\contentsline {subsection}{Piano dell'Aria}{325}{subsection*.474}% 
+\contentsline {subsection}{Piano del Fuoco}{326}{subsection*.475}% 
+\contentsline {subsection}{Piano della Terra}{326}{subsection*.476}% 
+\contentsline {subsection}{Terra Dominante}{326}{subsection*.477}% 
+\contentsline {subsection}{Piano Etereo}{326}{subsection*.478}% 
+\contentsline {subsection}{Piano Astrale}{326}{subsection*.479}% 
+\contentsline {subsection}{Abaddon (Neutrale Malvagio)}{327}{subsection*.480}% 
+\contentsline {subsection}{L'Abisso (Caotico Malvagio)}{327}{subsection*.481}% 
+\contentsline {subsection}{Elysium (Caotico Buono)}{327}{subsection*.482}% 
+\contentsline {subsection}{Inferno (Legale Malvagio)}{327}{subsection*.483}% 
+\contentsline {subsection}{Limbo (Caotico Neutrale)}{328}{subsection*.484}% 
+\contentsline {subsection}{Nirvana (Neutrale Buono)}{328}{subsection*.485}% 
+\contentsline {subsection}{Paradiso (Legale Buono)}{328}{subsection*.486}% 
+\contentsline {subsection}{Purgatorio (Neutrale)}{328}{subsection*.487}% 
+\contentsline {subsection}{Utopia (Legale Neutrale)}{329}{subsection*.488}% 
+\contentsline {section}{Il Calendario}{330}{section*.489}% 
+\contentsline {subsubsection}{I cicli millenari}{330}{subsubsection*.490}% 
+\contentsline {section}{Condizioni}{332}{section*.491}% 
+\contentsline {section}{Mostruario di TUS}{337}{section*.492}% 
+\contentsline {subsection}{Introduzione}{337}{subsection*.493}% 
+\contentsline {subsection}{Modificare le Creature}{337}{subsection*.494}% 
+\contentsline {subsection}{Taglia}{337}{subsection*.495}% 
+\contentsline {subsection}{Tipo}{338}{subsection*.496}% 
+\contentsline {subsection}{Tratti}{339}{subsection*.497}% 
+\contentsline {subsection}{Difesa}{339}{subsection*.498}% 
+\contentsline {subsection}{Punti Ferita}{339}{subsection*.499}% 
+\contentsline {subsection}{Dadi Vita per Taglia}{339}{subsection*.500}% 
+\contentsline {subsection}{Movimento}{339}{subsection*.501}% 
+\contentsline {subsection}{Punteggi di Caratteristica}{340}{subsection*.502}% 
+\contentsline {subsection}{Competenze}{340}{subsection*.503}% 
+\contentsline {subsection}{Vulnerabilit\IeC {\`a}, Resistenze e Immunit\IeC {\`a}}{340}{subsection*.504}% 
+\contentsline {subsection}{Sensi}{340}{subsection*.505}% 
+\contentsline {subsubsection}{Percezione Tellurica}{340}{subsubsection*.506}% 
+\contentsline {subsubsection}{Visione Crepuscolare}{341}{subsubsection*.507}% 
+\contentsline {subsubsection}{Visione del Vero}{341}{subsubsection*.508}% 
+\contentsline {subsubsection}{Vista Cieca}{341}{subsubsection*.509}% 
+\contentsline {subsection}{Linguaggi}{341}{subsection*.510}% 
+\contentsline {subsection}{Telepatia}{341}{subsection*.511}% 
+\contentsline {subsection}{Sfida}{341}{subsection*.512}% 
+\contentsline {subsection}{Tratti Speciali}{341}{subsection*.513}% 
+\contentsline {subsection}{Incantesimi}{342}{subsection*.514}% 
+\contentsline {subsection}{Incantesimi Innati}{342}{subsection*.515}% 
+\contentsline {subsection}{Azioni}{342}{subsection*.516}% 
+\contentsline {subsubsection}{Attacchi da Mischia e a Distanza}{342}{subsubsection*.517}% 
+\contentsline {subsubsection}{Multiattacco}{342}{subsubsection*.518}% 
+\contentsline {subsubsection}{Regole dell'Afferrare per i Mostri}{342}{subsubsection*.519}% 
+\contentsline {subsubsection}{Munizioni}{342}{subsubsection*.520}% 
+\contentsline {subsubsection}{Reazioni}{343}{subsubsection*.521}% 
+\contentsline {subsubsection}{Uso Limitato}{343}{subsubsection*.522}% 
+\contentsline {subsection}{Equipaggiamento}{343}{subsection*.523}% 
+\contentsline {subsection}{Azioni Aggiuntive}{343}{subsection*.524}% 
+\contentsline {subsubsection}{La Tana di una Creatura}{343}{subsubsection*.525}% 
+\contentsline {subsubsection}{Azioni da Tana}{343}{subsubsection*.526}% 
+\contentsline {subsubsection}{Effetti Regionali}{343}{subsubsection*.527}% 
+\contentsline {subsection}{I Mostri}{345}{subsection*.528}% 
+\contentsline {subsubsection}{Angeli}{346}{subsubsection*.529}% 
+\contentsline {subsubsection}{Demoni}{360}{subsubsection*.530}% 
+\contentsline {subsubsection}{Diavoli}{367}{subsubsection*.531}% 
+\contentsline {subsubsection}{Dinosauri}{376}{subsubsection*.532}% 
+\contentsline {subsubsection}{Draghi Cromatici}{378}{subsubsection*.533}% 
+\contentsline {subsubsection}{Draghi Metallici}{393}{subsubsection*.534}% 
+\contentsline {subsubsection}{Elementali}{412}{subsubsection*.535}% 
+\contentsline {subsubsection}{Funghi}{419}{subsubsection*.536}% 
+\contentsline {subsubsection}{Geni}{423}{subsubsection*.537}% 
+\contentsline {subsubsection}{Giganti}{425}{subsubsection*.538}% 
+\contentsline {subsubsection}{Golem}{431}{subsubsection*.539}% 
+\contentsline {subsubsection}{Mannari}{444}{subsubsection*.540}% 
+\contentsline {subsubsection}{Mefiti}{452}{subsubsection*.541}% 
+\contentsline {subsubsection}{Megere}{454}{subsubsection*.542}% 
+\contentsline {subsubsection}{Melme}{456}{subsubsection*.543}% 
+\contentsline {subsubsection}{Naga}{463}{subsubsection*.544}% 
+\contentsline {subsubsection}{Oggetti Animati}{464}{subsubsection*.545}% 
+\contentsline {subsubsection}{Sfingi}{478}{subsubsection*.546}% 
+\contentsline {subsubsection}{Vampiri}{488}{subsubsection*.547}% 
+\contentsline {subsubsection}{Addendum: Creature Varie}{496}{subsubsection*.548}% 
+\contentsline {subsubsection}{Sciami}{520}{subsubsection*.549}% 
+\contentsline {subsubsection}{Addendum: Personaggi Non Giocanti}{531}{subsubsection*.550}% 
+\contentsline {subsubsection}{Personalizzare i PNG}{531}{subsubsection*.551}% 
+\contentsline {subsubsection}{Combattenti}{531}{subsubsection*.552}% 
+\contentsline {subsubsection}{Guardia}{531}{subsubsection*.553}% 
+\contentsline {subsubsection}{Veterano}{531}{subsubsection*.554}% 
+\contentsline {subsubsection}{Gladiatore}{532}{subsubsection*.555}% 
+\contentsline {subsubsection}{Cittadini}{532}{subsubsection*.556}% 
+\contentsline {subsubsection}{Nobile}{532}{subsubsection*.557}% 
+\contentsline {subsubsection}{Popolano}{533}{subsubsection*.558}% 
+\contentsline {subsubsection}{Criminali}{533}{subsubsection*.559}% 
+\contentsline {subsubsection}{Picchiatore}{533}{subsubsection*.560}% 
+\contentsline {subsubsection}{Bandito/Pirata}{533}{subsubsection*.561}% 
+\contentsline {subsubsection}{Spia}{534}{subsubsection*.562}% 
+\contentsline {subsubsection}{Capitano dei Banditi/Pirata}{534}{subsubsection*.563}% 
+\contentsline {subsubsection}{Assassino}{534}{subsubsection*.564}% 
+\contentsline {subsubsection}{Mago}{535}{subsubsection*.565}% 
+\contentsline {subsubsection}{Magio Avventuriero}{535}{subsubsection*.566}% 
+\contentsline {subsubsection}{Grande Mago}{535}{subsubsection*.567}% 
+\contentsline {subsubsection}{Arcimago}{536}{subsubsection*.568}% 
+\contentsline {subsubsection}{Sacerdoti}{536}{subsubsection*.569}% 
+\contentsline {subsubsection}{Cultista}{536}{subsubsection*.570}% 
+\contentsline {subsubsection}{Accolito}{537}{subsubsection*.571}% 
+\contentsline {subsubsection}{Fanatico del Culto}{537}{subsubsection*.572}% 
+\contentsline {subsubsection}{Gran Sacerdote}{537}{subsubsection*.573}% 
+\contentsline {subsubsection}{Berserker}{538}{subsubsection*.574}% 
+\contentsline {subsubsection}{Combattente Tribale}{538}{subsubsection*.575}% 
+\contentsline {subsubsection}{Druido}{538}{subsubsection*.576}% 
+\contentsline {subsubsection}{Esploratore}{539}{subsubsection*.577}% 
+\contentsline {section}{Scheda e Manuale}{541}{section*.578}% 
+\contentsline {section}{Autore}{544}{section*.579}% 
+\contentsline {section}{Licenza}{545}{section*.580}% 
+\contentsline {section}{Changelog}{546}{section*.581}% 
+\contentsline {chapter}{Indice}{550}{section*.582}% 
