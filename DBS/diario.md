@@ -1,6 +1,6 @@
 **04/06/2021**
 
-per qualche giorno.. o piu' non credo che si saranno modifiche significative. In primis perche' il sistema ha raggiunto una certa stabilita', secondo perche' sono nella fase ain't broken don't fix.
+per qualche giorno o piu', non credo che si saranno modifiche significative. In primis perche' il sistema ha raggiunto una certa stabilita', secondo perche' sono nella fase ain't broken don't fix.
 
 Ovvero metti le mani solo se serve. La prossima fase e' giocare, giocare e verificare e affinare il tutto.
 
