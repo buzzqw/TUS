@@ -6,7 +6,7 @@ Ovvero metti le mani solo se serve. La prossima fase e' giocare, giocare e verif
 
 Confido che qualcuno (e non sono pochi..) che hanno scaricato il manuale fornisca anche qualche feedback :)
 
-In ogni caso da appassionato di gdr la soddisfazione e' anche creare qualcosa (e questo e' almeno il mio 5 gdr..), se poi viene anche giocato fuori dalla cerchia del gruppo.. meglio!
+In ogni caso da appassionato di gdr la soddisfazione e' anche creare qualcosa (e questo e' almeno il mio quinto gdr..), se poi viene anche giocato fuori dalla cerchia del gruppo.. meglio!
 
 
 **03/06/2021**
