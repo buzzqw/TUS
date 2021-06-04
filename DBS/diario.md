@@ -1,3 +1,10 @@
+04/06/2021
+
+per qualche giorno.. o piu' non credo che si saranno modifiche significative. In primis perche' il sistema ha raggiunto una certa stabilita', secondo perche' sono nella fase ain't broken don't fix.
+Ovvero metti le mani solo se serve. La prossima fase e' giocare, giocare e verificare e affinare il tutto.
+Confido che qualcuno (e non sono pochi..) che hanno scaricato il manuale fornisca anche qualche feedback :)
+In ogni caso da appassionato di gdr la soddisfazione e' anche creare qualcosa (e questo e' almeno il mio 5 gdr..), se poi viene anche giocato fuori dalla cerchia del gruppo.. meglio!
+
 03/06/2021
 
 ieri sero ho mandato in stampa la versione 1.1.0. Come ho gia' avuto modo di scrivere e' la versione definitiva su cui effettuare il gioco. La fase di playtesting non terminera' mai dato il mio modo di giocare e "sviluppare" ma questa versione e' un punto fermo.
