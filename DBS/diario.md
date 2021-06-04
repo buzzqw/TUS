@@ -1,4 +1,4 @@
-04/06/2021
+**04/06/2021**
 
 per qualche giorno.. o piu' non credo che si saranno modifiche significative. In primis perche' il sistema ha raggiunto una certa stabilita', secondo perche' sono nella fase ain't broken don't fix.
 
@@ -9,7 +9,7 @@ Confido che qualcuno (e non sono pochi..) che hanno scaricato il manuale fornisc
 In ogni caso da appassionato di gdr la soddisfazione e' anche creare qualcosa (e questo e' almeno il mio 5 gdr..), se poi viene anche giocato fuori dalla cerchia del gruppo.. meglio!
 
 
-03/06/2021
+**03/06/2021**
 
 ieri sero ho mandato in stampa la versione 1.1.0. Come ho gia' avuto modo di scrivere e' la versione definitiva su cui effettuare il gioco. La fase di playtesting non terminera' mai dato il mio modo di giocare e "sviluppare" ma questa versione e' un punto fermo.
 
@@ -17,8 +17,7 @@ Per vostra curiosita' la stampa in bianco e nero su Lulu del manuale di DBS (526
 
 Posso anche fornire il link per comprare una copia!
 
-
-02/06/2021
+**02/06/2021**
 
 sistemare le actions di github e' stato un delirio!
 
@@ -28,14 +27,14 @@ Adesso sono in piena bolla, non so piu' cosa toccare e ho paura di fare danni. I
 A parte correnzioni di lingua che dopo 3 riletture sono sicuro ci siano ancora (sic!) devo solo testare approfonditamente.
 
 
-01/06/2021
+**01/06/2021**
 
 delirio! la mia poca conoscenza di git mi ha fatto dannare!
 
 ho voluto sistemare il repository dividendo per cartella TUS e DBS, per quanto si facile a livello di file system su git e' roba diversa...
 
 
-31/05/2021
+**31/05/2021**
 
 riletto tutto, a parte il capitolo sui piani.
 conto entro il 4 giugno di rilasciare la 1.1.0. Questa versione che andra' anche in stampa si puo' definire il punto di partenza per la fase definitiva di collaudo e play testing.
@@ -47,7 +46,7 @@ Per come e' nato e sviluppato ci saranno sempre costantemente piccoli cambiament
 Un approccio utile sarebbe avere un changelog manutenuto da un appassionato che sappia "tradurre" i commit in differenze per produrre un documento leggibile e funzionale.
 
 
-29/05/2021
+**29/05/2021**
 
 la rilettura procede bene. nella sezione trappole, veleni e movimento non ho trovato grossi errori, qualche chiarimento da fare o riferimenti alla distanza in mischia/media...
 
@@ -63,7 +62,7 @@ Questa versione a livello tecnico la valuto almeno un 90-95% definitiva.
 Il grosso del lavoro sara' poi da fare sul settings.
 
 
-26/05/2021
+**26/05/2021**
 
 rileggendo l'equipaggiamento ho trovato una nota sulla lista pugno nudo, fatto il collegamento alla lista d'armi e qui mi sono accorto che i danni e punteggi necessari in lista non tornavano. Non solo non tornavano ma erano completamente sbagliati in pratica c'era il livello al posto del punteggio di CA!. Sistemato...
 Ho anche voluto indicare, prima mancava, il modificatore alla magia per le armature in pelle di drago (materiali speciali). Ho deciso che le armature di drago non danno penalita' alle prove di CM... Ardito ma mi piace, oltretutto e' una tipologia di materiale non solo rara ma che ha una storia (del drago..) dietro.
@@ -73,7 +72,7 @@ Non leggero' gli incantesimi ne i mostri, quelli devono essere testati sul campo
 Terminato il giro di lettura sara' interessante effettuare un altro giro pesante di playtesting.
 
 
-25/05/2021
+**25/05/2021**
 
 Ho avviato questo diario di sviluppo solo oggi, ma e' molto che ci pensavo. Scrivero' commenti e pensieri relaviti allo sviluppo del sistema (DBS principalmente).
 
