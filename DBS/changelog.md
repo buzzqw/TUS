@@ -128,7 +128,7 @@ Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - C
 
 02/06/2021 STAMPA
 
-*1.1.1* pubblicato su github 1.1.0, aggiornata versione manuale, aggiunta mappa dei piani (gentile concessione da wikipedia), 
+*1.1.1* pubblicato su github 1.1.0, aggiornata versione manuale, aggiunta mappa dei piani su licenza dell'autore, 
 
 rilettura movimento e strasporto
 da rileggere avventure in..
