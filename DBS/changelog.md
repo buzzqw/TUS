@@ -128,7 +128,7 @@ Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - C
 
 02/06/2021 STAMPA
 
-*1.1.1* pubblicato su github 1.1.0, aggiornata versione manuale, aggiunta mappa dei piani su licenza dell'autore, corrette alcune unita' di misura su contenitori, assordato modificata penalita' al lancio incantesimi non piu' 20% di fallimento ma si considera Distratto, 
+*1.1.1* pubblicato su github 1.1.0, aggiornata versione manuale, aggiunta mappa dei piani su licenza dell'autore, corrette alcune unita' di misura su contenitori, assordato modificata penalita' al lancio incantesimi non piu' 20% di fallimento ma si considera Distratto, modificate penalita' per lanciare incantesimi in combattimento rimosso penalita' aggiuntiva causato dal danno, aggiunta modifica ad alterare gli incantesimi portare il casting time da 2 azioni a 1 round fa diminuire la Difficoltà di 1
 
 rilettura movimento e strasporto
 da rileggere avventure in..

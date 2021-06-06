@@ -8,6 +8,11 @@ Attualmente il mago che lanci un incantesimo mentre qualcuno lo affronta in comb
 E' chiaro, lanciare incantesimi mentre si comabtte e' pericoloso.. ma forse cosi' un po' troppo.
 Sto valutando se lasciare la sola penalita' del Distratto, modificando la penalita' in Difesa alla solo perdita del bonus destrezza e escludere il fattore danno dalla prova di magia, colpito o meno sei solo Distratto...
 
+
+Modifica effettuata. E' piu' coerente (e piu' OSR). 
+Sto ragionando sulla variazione al casting time per doficiare la prova di magia.. mi vengono in mente i maghi che preparano l'incantesimo con lunghe formule per massimizzare gli effetti..
+
+
 **04/06/2021**
 
 per qualche giorno o piu', non credo che si saranno modifiche significative. In primis perche' il sistema ha raggiunto una certa stabilita', secondo perche' sono nella fase ain't broken don't fix.
