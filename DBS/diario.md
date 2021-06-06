@@ -1,3 +1,13 @@
+**06/06/2021**
+
+Magia in combattimento
+sto riflettendo se semplificare le penalita' di castare un incantesimo in melee.
+Attualmente il mago che lanci un incantesimo mentre qualcuno lo affronta in combattimento prende un -4 alla Difesa, e' Distratto (-5 alla prova di magia) e se colpito la Difficolta' della prova aumenta del danno subito.
+
+
+E' chiaro, lanciare incantesimi mentre si comabtte e' pericoloso.. ma forse cosi' un po' troppo.
+Sto valutando se lasciare la sola penalita' del Distratto, modificando la penalita' in Difesa alla solo perdita del bonus destrezza e escludere il fattore danno dalla prova di magia, colpito o meno sei solo Distratto...
+
 **04/06/2021**
 
 per qualche giorno o piu', non credo che si saranno modifiche significative. In primis perche' il sistema ha raggiunto una certa stabilita', secondo perche' sono nella fase ain't broken don't fix.
