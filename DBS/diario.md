@@ -10,7 +10,8 @@ Sto valutando se lasciare la sola penalita' del Distratto, modificando la penali
 
 
 Modifica effettuata. E' piu' coerente (e piu' OSR). 
-Sto ragionando sulla variazione al casting time per doficiare la prova di magia.. mi vengono in mente i maghi che preparano l'incantesimo con lunghe formule per massimizzare gli effetti..
+Sto ragionando sulla variazione al casting time per modificare la prova di magia.. mi vengono in mente i maghi che preparano l'incantesimo con lunghe formule per massimizzare gli effetti..
+La modifica varrebbe solo per gli incantesimi di invocazione con tempo di lancio 2 Azioni.., aumentandolo a 3 round (non di meno altrimenti rischia di essere abusato) hai un critico garantito, portandolo a 5 round 2 critici, 1 turno diventano 3 critici garantiti...
 
 
 **04/06/2021**
