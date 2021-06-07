@@ -5,13 +5,13 @@ sto riflettendo se semplificare le penalita' di castare un incantesimo in melee.
 Attualmente il mago che lanci un incantesimo mentre qualcuno lo affronta in combattimento prende un -4 alla Difesa, e' Distratto (-5 alla prova di magia) e se colpito la Difficolta' della prova aumenta del danno subito.
 
 
-E' chiaro, lanciare incantesimi mentre si comabtte e' pericoloso.. ma forse cosi' un po' troppo.
+E' chiaro, lanciare incantesimi mentre si combatte e' pericoloso.. ma forse cosi' un po' troppo.
 Sto valutando se lasciare la sola penalita' del Distratto, modificando la penalita' in Difesa alla solo perdita del bonus destrezza e escludere il fattore danno dalla prova di magia, colpito o meno sei solo Distratto...
 
 
 Modifica effettuata. E' piu' coerente (e piu' OSR). 
-Sto ragionando sulla variazione al casting time per modificare la prova di magia.. mi vengono in mente i maghi che preparano l'incantesimo con lunghe formule per massimizzare gli effetti..
-La modifica varrebbe solo per gli incantesimi di invocazione con tempo di lancio 2 Azioni.., aumentandolo a 3 round (non di meno altrimenti rischia di essere abusato) hai un critico garantito, portandolo a 5 round 2 critici, 1 turno diventano 3 critici garantiti...
+Sto ragionando sulla variazione al casting time per modificare la prova di magia.. mi vengono in mente i maghi che preparano l'incantesimo con lunghe formule per massimizzarne gli effetti..
+La modifica varrebbe solo per gli incantesimi di invocazione con tempo di lancio 2 Azioni.., aumentandolo a 3 round (non di meno altrimenti rischia di essere abusato) hai un critico garantito, portandolo a 5 round 2 critici, 1 turno diventano 3 critici garantiti... il tutto non compatibile con il conservare l'incantesimo..
 
 
 **04/06/2021**
