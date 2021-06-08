@@ -1,3 +1,9 @@
+**08/07/2021**
+
+DEciso di differenziare maggiormente Seguace e Devoto. Mi e' sembrato corretto concentrare i vantaggi sul Devoto visto che deve seguire maggiormente i dettami del patrono.
+
+
+
 **06/06/2021**
 
 Magia in combattimento
