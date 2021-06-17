@@ -1,3 +1,13 @@
+**17/07/2021**
+
+Ho voluto rifare in toto il mostruario. In sintesi ho ripreso il manuale dei mostri della 5e, l'ho riformattato per latex, e poi ho ragionato pesantemente sulle caratteristiche dei mostri.
+
+Inanzitutto i Tiri Salvezza, ho preso gli equivalenti di Pathfinder, alternativamente si distribuiscono un numero di punti pari al triplo del grado di sfida.
+
+Poi ho ragionato sulla Difesa, dato che il Tiro per Colpire e' piu' alto in DBS che nella 5e, ho aumentato la Difesa di un punteggio pari alla meta' del Grado di Sfida.
+
+Rimane da capire bene il bonus al tiro per colpire dei mostri, qui devo fare piu' prove e simulazioni, temo che vada alzato almeno di 1/3 del punteggio Grado di Sfida.
+
 **08/07/2021**
 
 DEciso di differenziare maggiormente Seguace e Devoto. Mi e' sembrato corretto concentrare i vantaggi sul Devoto visto che deve seguire maggiormente i dettami del patrono.
