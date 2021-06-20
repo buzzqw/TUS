@@ -1,3 +1,7 @@
+**20/07/2021**
+
+Incominciato nuovo roud di playtest! Non credo che si troveranno "errori" ma visto che nel gruppo c'e' un completo novellino mi servira' per cogliere tutti i chiarimenti necessari
+
 **17/07/2021**
 
 Ho voluto rifare in toto il mostruario. In sintesi ho ripreso il manuale dei mostri della 5e, l'ho riformattato per latex, e poi ho ragionato pesantemente sulle caratteristiche dei mostri.
