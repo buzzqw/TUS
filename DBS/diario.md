@@ -1,8 +1,16 @@
-**20/07/2021**
+**21/06/2021**
 
-Incominciato nuovo roud di playtest! Non credo che si troveranno "errori" ma visto che nel gruppo c'e' un completo novellino mi servira' per cogliere tutti i chiarimenti necessari
+Ho deciso di pubblicare la versione 1.1.1. In considerazione del nuvo round di test volevo formalizzare la versione. Mi aspetto delle segnalazioni, non fondamentali, ma che faro' comunque sfociare nella pubblicazione 1.1.2. 
 
-**17/07/2021**
+Ho fatto con la versione 1.1.1 un eccellente lavoro di rifisitazione mostri, dandogli una maggiore consistenza e "affidabilità". E' stata rivista in molti casi la resistenza da attacchi non magici specificando una immunità. L'aggiornamento della scheda dovrebbe renderla maggiormente fruibile ai neofiti facendola piu' chiara nella lettura e comprensione.
+
+Confido nelle prossime settimane di ricevere ulteriore feedback per rendere ancora piu' giocabile il sistema.
+
+**20/06/2021**
+
+Incominciato nuovo roud di playtest! Non credo che si troveranno "errori" ma visto che nel gruppo c'e' una completa novellina mi servira' per cogliere tutti i chiarimenti necessari.
+
+**17/0/2021**
 
 Ho voluto rifare in toto il mostruario. In sintesi ho ripreso il manuale dei mostri della 5e, l'ho riformattato per latex, e poi ho ragionato pesantemente sulle caratteristiche dei mostri.
 

@@ -130,10 +130,10 @@ Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - C
 
 **1.1.1** pubblicato su github 1.1.0, aggiornata versione manuale, aggiunta mappa dei piani su licenza dell'autore, corrette alcune unita' di misura su contenitori, assordato modificata penalita' al lancio incantesimi non piu' 20% di fallimento ma si considera Distratto, modificate penalita' per lanciare incantesimi in combattimento rimosso penalita' aggiuntiva causato dal danno, aggiunta modifica ad alterare gli incantesimi portare il casting time da 2 azioni a 1 round fa diminuire la Difficoltà di 1, modificato vantaggi tra Seguace e Devoto adesso il Seguage ha il solo vantaggio di poter usare la forma di energia del patrono mentre il Devoto prende il +2 alla CM sulla scuola e +2 sulla forma di energia, aggiornato simbolo Laydel, aggiunto in indice Laydel, aggiunti esempi di uso competenze (in preparazione dello Screen), aggiornato indice, aggiornato mostruario sostituite indicazioni a livelli di incantesimi e riferimenti a classi, indicazioni su armi ed armature perfette, rinominato percepire inganni in percepire emozioni, revisionato completamente mostruario, aggiornate statistiche ts difesa da valutare TC e decrizione, reintegrazione progressiva descrizioni, rimane da valutare tc, index, arrontondato misure di distanza ad intero nel mostruario, portata la penalita' per usare un arma senza adeguata competenza a -1d6, rimossi ulteriori riferimenti a tiri salvezza su statistiche, correzioni minori al layout, danni da fame, sostituito sfinimento con affaticamento, aggiornata scheda per una migliore gestione competenze e armi, in creazione personaggio evidenza lingue e punti ferita, alcuni incantesimi riportavano difficolta' 11, migliorie alla scheda, piccole correzioni al layout ed chiarimenti su costruiamo il personaggio, ulteriori migliorie a scheda zona combattimento, 
 
+*1.1.2* pubblicato su github 1.1.1,  aggiornata versione manuale, impostato a CM 5, 8, 11 e 17 i valori per non fare le prove di cm per lanciare incantesimi di 0,1,2,3 livello, 
+
 rilettura movimento e strasporto
 da rileggere avventure in..
-
-valutare: se cm > xx non prova di magia per castare, 
 
 Obiettivi: revisione immagini, ridurre numero incantesimi, ridurre complessità e fare che le regole siano piu' universali senza che siano necessari chiarimenti ed eccezioni, rendere il sistema piu' osr, migliorare il font, valutare se rimuovere o riscrivere completamente avventure in acqua-citta'-disastri-dungeon-pericoli avventura per una maggiore rispondenza alla ogl,
 
