@@ -1,3 +1,11 @@
+**01/07/2021**
+
+Problemi di salute mi hanno tenuto distante dal sistema e dal playtestig, adesso almeno ho recuperato il portatile anche se l'ambiente ospedaliero non aiuta...
+
+Mi sono dedicato ad alcune "subdole" ottimizzazioni di layout, poco importanti forse, ma che nell'insieme servono sempre.
+
+Sto ragionanddo su alcune semplificazioni nella magia, sul doppio tiro principalmente, ovvero la prova di magia e poi l'eventuale tiro per colpire, potrei fare un unico tiro ma tirare e' bello e cosi' appiattirei ancora di piu' la possibilita' di fare dei critici.
+
 **21/06/2021**
 
 Ho deciso di pubblicare la versione 1.1.1. In considerazione del nuvo round di test volevo formalizzare la versione. Mi aspetto delle segnalazioni, non fondamentali, ma che faro' comunque sfociare nella pubblicazione 1.1.2. 
