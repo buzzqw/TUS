@@ -8,9 +8,9 @@ Sto ragionanddo su alcune semplificazioni nella magia, sul doppio tiro principal
 
 **21/06/2021**
 
-Ho deciso di pubblicare la versione 1.1.1. In considerazione del nuvo round di test volevo formalizzare la versione. Mi aspetto delle segnalazioni, non fondamentali, ma che faro' comunque sfociare nella pubblicazione 1.1.2. 
+Ho deciso di pubblicare la versione 1.1.1. In considerazione del nuovo round di test volevo formalizzare la versione. Mi aspetto delle segnalazioni, non fondamentali, ma che faro' comunque sfociare nella pubblicazione 1.1.2. 
 
-Ho fatto con la versione 1.1.1 un eccellente lavoro di rifisitazione mostri, dandogli una maggiore consistenza e "affidabilità". E' stata rivista in molti casi la resistenza da attacchi non magici specificando una immunità. L'aggiornamento della scheda dovrebbe renderla maggiormente fruibile ai neofiti facendola piu' chiara nella lettura e comprensione.
+Ho fatto con la versione 1.1.1 un eccellente lavoro di rivisitazione mostri, dandogli una maggiore consistenza e "affidabilità". E' stata rivista in molti casi la resistenza da attacchi non magici specificando una immunità. L'aggiornamento della scheda dovrebbe renderla maggiormente fruibile ai neofiti facendola piu' chiara nella lettura e comprensione.
 
 Confido nelle prossime settimane di ricevere ulteriore feedback per rendere ancora piu' giocabile il sistema.
 
