@@ -1,3 +1,9 @@
+**05/07/2021**
+
+Il controllo e playtest continua bene, sto ricevendo dei buoni feedback. Il sistema si sta dimostrando stabile. Le correzioni che faccio non possono neanche definirsi correzioni quanto piu' spostamenti di notizie per rendere piu' ordinato il tutto. Trovo qualche errore di battitura, ma nessun orrore di regolamento.
+
+Sto ancora pensando se semplificare ulteriorimente
+
 **01/07/2021**
 
 Problemi di salute mi hanno tenuto distante dal sistema e dal playtestig, adesso almeno ho recuperato il portatile anche se l'ambiente ospedaliero non aiuta...
