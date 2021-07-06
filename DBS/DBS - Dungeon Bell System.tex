@@ -36,7 +36,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{bookmark}
 %\usepackage{tgbonum}
 %\usepackage{baskervald}
-
+\usepackage{yfonts}
 \usepackage{lettrine}
 \usepackage{calligra}
 \renewcommand{\LettrineFontHook}{\calligra}
@@ -76,6 +76,8 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 %%\makeatother
 \raggedbottom
 
+%textfrak
+
 \usepackage{array}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
@@ -83,9 +85,14 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 
 
-\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
-\titleformat{\subsection}{\large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
+%\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
+\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textfrak{}
+\titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
 \titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
+
+
+%\titleformat{\subsection}{\large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
+%\titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
 
 \setcounter{tocdepth}{3}
 
@@ -189,7 +196,6 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)}\end{tcolorbox}\medskip
 
 \begin{multicols}{2}  
-	
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{D}{BS} è un gioco di ruolo (GDR o RPG, Role Play Game in inglese) cooperativo e narrativo nel quale i giocatori creano personaggi che vivranno fantastiche e strabilianti avventure. Il Narratore si preoccuperà di dipanare la storia e fare partecipare i personaggi. Come in un gioco di narrazione ogni personaggio contribuirà attivamente alla storia con le sue scelte, le sue decisioni e le sue azioni.
 
 Se sei un giocatore ti accorgerai presto che non è un mondo facile, le cose non vengono regalate ne sono semplici. Saranno piu' le volte che vorranno ucciderti e derubarti di quelle che vorranno offrirti da bere.\\
@@ -2036,24 +2042,24 @@ Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una
 \label{esempi-prove-competenza}
 
 \begin{itemize}
-	\item Una prova riuscita (base DC 15) in Pronto Soccorso può fare recuperare 1d4 PF dopo uno scontro o concedere un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Costo 3 Azioni
+	\item Una prova riuscita (base DC 15) in \textbf{Pronto Soccorso} può fare recuperare 1d4 PF dopo uno scontro o concedere un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Costo 3 Azioni
 	
-	\item Una prova riuscita (base DC 15) in Pronto Soccorso riduce di 1 i danni da Sanguinamento. Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 3, e la prova la riduce comunque di 1 alla volta. Costo 3 Azioni
+	\item Una prova riuscita (base DC 15) in \textbf{Pronto Soccorso} riduce di 1 i danni da Sanguinamento. Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 3, e la prova la riduce comunque di 1 alla volta. Costo 3 Azioni
 
-	\item Una prova riuscita (base DC 13) in Pronto Soccorso per prendersi cura per 8 ore di un paziente fa recuperare a questo il doppio dei punti ferita ((CA+Costituzione)*2 con un minimo di 4) e concede un nuovo Tiro Salvezza su Tempra per resistere a Malattie o Veleni già in corso.
+	\item Una prova riuscita (base DC 13) in \textbf{Pronto Soccorso} per prendersi cura per 8 ore di un paziente fa recuperare a questo il doppio dei punti ferita ((CA+Costituzione)*2 con un minimo di 4) e concede un nuovo Tiro Salvezza su Tempra per resistere a Malattie o Veleni già in corso.
 
-	\item Per identificare una pozione \index{Identificare Pozione}è necessario una prova di Erboristeria a DC 12 + fattore di rarità della pianta.\\
+	\item Per identificare una pozione \index{Identificare Pozione}è necessario una prova di \textbf{Erboristeria} a DC 12 + fattore di rarità della pianta.\\
 
-	\item Per riconoscere un oggetto magico e le sue capacità è necessario l'incantesimo Identificare. Una prova di Arcana a Difficoltà 25 può dare indicazioni di massima sui poteri e ambiti di utilizzo.	      
+	\item Per riconoscere un oggetto magico e le sue capacità è necessario l'incantesimo Identificare. Una prova di \textbf{Arcana} a Difficoltà 25 può dare indicazioni di massima sui poteri e ambiti di utilizzo.	      
 	
-	\item Riconoscere un incantesimo mentre viene lanciato è una prova di Arcana a DC pari la Difficoltà dell'incantesimo
+	\item Riconoscere un incantesimo mentre viene lanciato è una prova di \textbf{Arcana} a DC pari la Difficoltà dell'incantesimo
 	
-	\item Nuotare\index{Nuotare}\\
+	\item \textbf{Nuotare}\index{Nuotare}\\
 	\textit{Si hanno penalità dovuta all'Armatura.}
 	
 	in acque mosse ha DC 15, in acque tempestose DC 20
 
-	\item Per riconoscere un mostro, una creatura particolare si effettua una prova di\\
+	\item Per \textbf{riconoscere un mostro}, una creatura particolare si effettua una prova di\\
 	Arcana: Giganti, Costrutti, Spiriti, Mostruosità, Aberrazioni, Draghi\\
 	Piani: Elementali\\
 	Occulto: Immondi, Spiriti, Non Morti\\
@@ -2063,15 +2069,16 @@ Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una
 	
 	La DC delle prova è pari al grado di Sfida della creatura + 10, un fallimento non critico della prova concederà meno informazioni.
 	
-	\item Intimidire\index{Intimidire}\\
+	\item \textbf{Intimidire}\index{Intimidire}\\
 	Il personaggio usa 2 Azioni e fa la prova su Intimidire contrapposta al Tiro Salvezza su Volontà con bonus dato dal Carisma dell'avversario.
 	Se il Tiro Salvezza fallisce, l'avversario fino alla fine del round successivo ha -1d6 al Tiro per Colpire e -2 alla Difesa contro quell'avversario soltanto.\\
-	Se la prova di Intimidire fallisce in maniera critica (almeno 2 uno tirati) chi ha fatto la prova deve effettuare un Tiro Salvezza su Volontà con modificatore Carisma a DC 10+Grado di Sfida dell'avversario o subire le medesime penalita' come se fosse stato intimidito.
+	Se la prova di Intimidire fallisce in maniera critica (l'avversario riesce di 10 o piu' il Tiro Salvezza chi ha fatto la prova deve effettuare un Tiro Salvezza su Volontà con modificatore Carisma a DC 10+Grado di Sfida dell'avversario o subire le medesime penalita' come se fosse stato intimidito.
+	Se il tiro contrapposto riesce in maniera critica (l'avversario fallisce di piu' di 10 il Tiro Salvezza) la durata dell'effetto permane fino a fine combattimento.
 	
 	\item
-	Un eventuale prova sulla Professione viene fatta con 3d6+Saggezza+metà del livello.
+	Un eventuale prova sulla \textbf{Professione} viene fatta con 3d6+Saggezza+metà del livello.
 		
-\item Saltare\index{Tabella Saltare}\\
+\item \textbf{Saltare}\index{Tabella Saltare}\\
 \textit{Si hanno penalità dovuta all'Armatura.}
 
 \begin{tabularx}{0.45\textwidth}{Xl|Xl}
@@ -2084,9 +2091,9 @@ Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una
 	+1,5 m                             & +5 &	+0.5 m                           & +4\\
 \end{tabularx}
 
-In un salto in lungo la punta piu' alta del salto è pari ad un 1/4 della lunghezza saltata. Se esegui un salto in lungo di 4 metri a metà salto sei in alto di 1 metro. 
+In un \textbf{salto in lungo} la punta piu' alta del salto è pari ad un 1/4 della lunghezza saltata. Se esegui un salto in lungo di 4 metri a metà salto sei in alto di 1 metro. 
 
-\item Arrampicarsi \index{Arrampicarsi}\\	
+\item \textbf{Arrampicarsi} \index{Arrampicarsi}\\	
 \textit{Si hanno penalità dovuta all'Armatura.}
 
 \begin{tabularx}{0.45\textwidth}{Xl}
@@ -2102,9 +2109,9 @@ In un salto in lungo la punta piu' alta del salto è pari ad un 1/4 della lunghe
 	Superficie scivolosa&+5\\
 \end{tabularx}
 
-\item Sopravvivenza\index{Sopravvivenza}
+\item \textbf{Sopravvivenza}\index{Sopravvivenza}
 
-Inseguire una creatura:
+\textbf{Inseguire una creatura}:
 \begin{tabularx}{0.45\textwidth}{Xl}
 	\hline
 Se il terreno è molto morbido& DC +5\\
@@ -2119,7 +2126,7 @@ Visibilità scarsa&DC +2\\
 Cerca di occultare le traccie&DC +5\\
 \end{tabularx}\\
 
-\item Nascondersi nelle Ombre \index{Nascondersi nelle Ombre}\\
+\item \textbf{Nascondersi nelle Ombre} \index{Nascondersi nelle Ombre}\\
 \textit{Si hanno penalità dovuta all'Armatura.}
 
 Usando 2 Azioni ( e probabilmente una altra Azione per spostarti) puoi cercare di nasconderti alla vista degli avversari.\\
@@ -2127,7 +2134,7 @@ Esegui una prova di Nascondersi nelle Ombre, DC 15 (ed il Narratore valuterà ev
 La copertura può essere riferita a piu' avversari o solo qualcuno, il Narratore può valutare in caso di critici nella prova una copertura anche maggiore.\\
 Non è possibile nascondersi se l'ambiente non lo permette, per quando la tua prova possa essere alta non puoi nasconderti se non c'è qualcosa che ti può coprire.\\ 
 
-\item Muoversi Silenziosamente \index{Muoversi Silenziosamente}\\
+\item \textbf{Muoversi Silenziosamente} \index{Muoversi Silenziosamente}\\
 \textit{Si hanno penalità dovuta all'Armatura.}
 
 Ci si muove della metà del movimento e si esegue una prova di Muoversi Silenziosamente.\\
@@ -2173,9 +2180,9 @@ Un appartenente ad una razza può benissimo avere come prima lingua non quella d
 	Infernale 					& Infernale  	& Infernale\\
 	Abissale 					& Abissale		& Abissale\\
 	Elementali del Fuoco  		& Ignam   		&-\\
-	Elementali della Terra		& Terran 		& -\\
-	Elementali dell'Acqua 		& Acquan  		& -\\
-	Elementali dell'Aria	    & Auran         & -\\
+	Elementali della Terra		& Terran 		&-\\
+	Elementali dell'Acqua 		& Acquan  		&-\\
+	Elementali dell'Aria	    & Auran         &-\\
     Linguaggio dei Segni		& Linguaggio dei Segni & Linguaggio dei Segni\\
     Linguaggio delle Profondità &     Linguaggio delle Profondità&     Linguaggio delle Profondità\\
 
@@ -2194,7 +2201,7 @@ La \textbf{Telepatia}\index{Telepatia} non è propriamente una lingua ma un mezz
 \medskip
 
 \begin{center}
-	\includegraphics[width=0.45\linewidth]{immagini/babele.png}\\
+	\includegraphics[width=0.4\linewidth]{immagini/babele.png}\\
 	\textit{Grande Torre di Babele. Pieter Bruegel il Vecchio (1563)}
 \end{center}
 
@@ -4611,7 +4618,7 @@ Prendendo -5 al Tiro per Colpire all'Azione di Attacco, puoi effettuare un'Azion
 
 \textbf{Requisito}: Patrono buono, Imposizione delle mani, Competenza Magica 3
 
-Il tuo tocco lenisce non solo le ferite ma anche le sofferenze e dolori. Ogni qual volta usi l'Abilità Imposizione delle mani puoi aggiungere anche questa Abilità come Azione Immediata.
+Il tuo tocco lenisce non solo le ferite ma anche le sofferenze e dolori. Ogni qual volta usi l'Abilità Imposizione delle mani puoi aggiungere anche questa Abilità come Azione Immediata.\\
 
 Usando l'Imposizione delle mani puoi, rinunciando ad un numero di d6 curativi indicati, rimuovere le seguenti afflizioni.
 
@@ -4621,11 +4628,9 @@ In caso di afflizioni di origine magica esegui una prova di magia con bonus il p
 
 \textbf{3d6} Punteggio Tratti in comune 6: Malato - Stordito - Confuso - Nauseato
 
-\textbf{4d6} Punteggio Tratti in comune 9: Avvelenato - Impaurito - Ristorativo
+\textbf{4d6} Punteggio Tratti in comune 9: Avvelenato - Impaurito - Con Punti Ferita Massimi ridotti
 
 \textbf{5d6} Punteggio Tratti in comune 11: Rigenerante (arti) - Accecato - Sordo - Paralizzato - Pietrificato
-
-\medskip
 
 \subsection{Vampiro}\index{Vampiro}
 
@@ -4641,10 +4646,8 @@ Nel tempo hai allenato la tua volontà per resistere a qualsiasi debolezza e pau
 
 \end{multicols}
 
-\bigskip
-
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/Philip_Burne-Jones_-_The_Vampire4.jpg}\\
+\includegraphics[width=0.3\linewidth]{immagini/Philip_Burne-Jones_-_The_Vampire4.jpg}\\
 \textit{Philip Burne Jones - The Vampire}
 \end{center}
 
@@ -6726,7 +6729,6 @@ La moneta più comune è la moneta d'oro (mo). Una moneta d'oro vale 10 monete d
 
 \end{multicols}
 
-\medskip
 
 \textbf{Tabella: Equivalenza delle Monete}\index{Tabella Equivalenza delle Monete}
 
@@ -7982,7 +7984,7 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 
 \medskip
 
-\textbf{Tabella: Modificatori prova di Forza per Sfondare porta in base alla propria taglia}\index{Tabella Modificatori prova di Forza per Sfondare porta}
+\textbf{Tabella: Modificatori prova di Forza in base alla propria taglia}\index{Tabella Modificatori prova di Forza per Sfondare porta}
 
 \medskip
 
@@ -8000,7 +8002,7 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 	Colossale       & +16\\
 \end{tabularx}
 
-\bigskip
+\medskip
 
 Un piede di porco o un ariete portatile aumentano la probabilità del personaggio di sfondare una porta (+1d6)
 
@@ -8008,7 +8010,6 @@ Un piede di porco o un ariete portatile aumentano la probabilità del personaggi
 
 \label{tabella-dc-per-rompere-o-forzare-oggetti---prova-di-Forza}
 
-\medskip
 
 \begin{tabularx}{0.45\textwidth}{Xl}
 	\toprule
@@ -8024,9 +8025,10 @@ Un piede di porco o un ariete portatile aumentano la probabilità del personaggi
 \end{tabularx}
 
 \end{multicols}
+\medskip
 
 \begin{center}
-	\includegraphics[width=0.25\linewidth]{immagini/portarinforzata2.png}\\
+	\includegraphics[width=0.20\linewidth]{immagini/portarinforzata2.png}\\
 	\textit{Porta robusta}
 \end{center}
 
@@ -10398,7 +10400,7 @@ La rarità indica la possibilità, su un d10, di trovare l'erba/pianta ricercata
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{XXXX}
+\begin{tabularx}{0.95\textwidth}{XX|XX}
 	\toprule
 	\textbf{Prima Lettera} & \textbf{Clima}   & \textbf{Seconda Lettera} & \textbf{Ambiente}\\
 	A       & Arido 			 & A         & Alpino\\
@@ -10424,8 +10426,6 @@ La rarità indica la possibilità, su un d10, di trovare l'erba/pianta ricercata
 
 Il Narratore è libero di usare tutte le pozioni e veleni indicate sopra oppure usare delle pozioni generiche pronte all'uso, comprabili in quasi tutti i negozi di erboristeria o di pozioni.
 
-\medskip
-
 Nella tabella i costi ed effetti di queste pozioni, l'insorgenza è sempre immediata, la durata per le cure è immediata, per le altre è 1 ora (quindi la pozione Rimuovi Veleno ti "immunizza" per 1 ora contro un veleno).
 
 \textbf{Tabella: delle pozioni generiche}\index{Tabella delle pozioni generiche}
@@ -10446,7 +10446,7 @@ Nella tabella i costi ed effetti di queste pozioni, l'insorgenza è sempre immed
 
 
 \begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/funeralebarca.png}
+	\includegraphics[width=0.4\linewidth]{immagini/funeralebarca.png}
 \end{center}
 
 
@@ -14278,7 +14278,7 @@ I piani di esistenza in realtà sono differenti collegamenti intrecciati. Eccett
 \pagebreak
 \begin{center}
 \includegraphics[width=0.96\linewidth]{immagini/mappaplanare3.png}\\
-\bigskip
+\medskip
 \textit{Mappa Planare. Concessa in licenza dall'autore.\\  https://www.reddit.com/r/ImaginaryGolarion/comments/97rog0/pathfinder\_map\_to\_the\_planes}		
 \end{center}
 \pagebreak
