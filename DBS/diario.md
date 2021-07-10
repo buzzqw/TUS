@@ -1,3 +1,13 @@
+**10/07/2021**
+
+Ho deciso di costruire una copertina fatta bene in previsione della prossima stampa.
+Latex ha degli strumenti favolosi per costruire... qualsiasi cosa stampata. Ho potuto dargli le dimensioni precise del foglio.
+E impostato ogni singola spaziatura del testo.
+Adesso basta aggiornare copertina.tex per avere sempre una copertina aggiornata.
+Chiaro che ho modificato il manuale togliendo la copertina "integrata".. se uno se lo vuole stampare a casa stampera' il manuale di DBS e poi la "avvolge" con la stampa della copertina.
+
+Lulu ha poi il vantaggio che ti calcola le dimensioni della copertina.. quindi e' piuttosto facile poi darle in pasto a tex e creare una copertina di dimensioni perfette!
+
 **05/07/2021**
 
 Il controllo e playtest continua bene, sto ricevendo dei buoni feedback. Il sistema si sta dimostrando stabile. Le correzioni che faccio non possono neanche definirsi correzioni quanto piu' spostamenti di notizie per rendere piu' ordinato il tutto. Trovo qualche errore di battitura, ma nessun orrore di regolamento.
