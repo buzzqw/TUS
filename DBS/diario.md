@@ -1,3 +1,9 @@
+**14/07/2021**
+
+Ho incominciato a preparare le Screen del Narratore (o se preferito lo Schermo del Narratore).
+Latex permette di creare box delle dimensioni perfette e posizionarli come si vuole sul foglio.. in compenso lo screen fa abbastanza schifo, e' funzionale.. ma e' discretamente orrendo graficamente.
+Lo andro' ad arricchire di contenuti ma la grafica non e' il mio mestiere!
+
 **10/07/2021**
 
 Ho deciso di costruire una copertina fatta bene in previsione della prossima stampa.
