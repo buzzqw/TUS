@@ -1,4 +1,4 @@
-name: alternative LaTeX document
+name: compila Screen
 on: [push]
 jobs:
   build_latex:
