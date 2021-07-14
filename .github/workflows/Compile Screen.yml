@@ -14,5 +14,5 @@ jobs:
       - name: Upload pdf
         uses: actions/upload-artifact@v2
         with:
-          name: "DBS - Dungeon Bell System"
+          name: "Screen del Narratore"
           path: "./DBS/screen.pdf"  
