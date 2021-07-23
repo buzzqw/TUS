@@ -8,23 +8,24 @@
 \usepackage{graphicx}
 \begin{document}
 	
-5 livelli di difficolta', ogni livello di difficolta' significa ottenere un risultato positivo in piu'
+5 livelli di difficolta', ogni livello di difficolta' richiede un risultato positivo in piu'
 
 il risultato e' fare 6 o piu' con il tiro del dado
 
-caratteristica  + dado esperienza >= 6 risultato positivo, altrimenti negativo
+caratteristica  + dado esperienza (che e' il valore della competenza)>= 6 risultato positivo, altrimenti negativo\\
+il dado esperienza e' l'esperienza che ho nella competenza usata\\
 
 \medskip
 
 \begin{tabular}{ll}
 	\hline
 esperienza & dado esperienza\\
-nulla		&	0	\\
-scarsa		&	1d4	\\
-normale		&   1d6	\\
-buona		&	1d8	\\
-ottima		&	1d10\\	
-eccellente	&	1d12\\
+nulla		&	1d4	\\
+scarsa		&	1d6	\\
+normale		&   1d8	\\
+buona		&	1d10\\
+ottima		&	1d12\\	
+eccellente	&	2d8\\
 \end{tabular}
 
 \medskip
@@ -42,59 +43,91 @@ difficolta' della prova & prove da superare\\
 
 \medskip
 
-se ho esperienza "normale" e la prova e' "difficile" devo fare 2 prove.\\
+se ho esperienza "normale" e la prova e' "difficile" devo fare 2 prove, tirando il d8 e fare 2 risultati positivi.\\
+se ho esperienza ottima ed il la prova e' molto difficile, devo fare 3 prove, tirando il d12 e fare 3 risultati positivi, ovvero tirare 3d12 dadi e sommare la caratteristica  fare 3 volte 6 o piu'.\\
 
-Tiro 1d6+modificatore caratteristica due volte e tutti e due devono fare 6 o piu'\\
+detta anche diversamente se non so fare una cosa (competenza nulla) e non sono portato in quel campo (caratteristica) non potro' mai fare 6 tirando solo 1d4.
 
 i modificatori vari possono andare da +- 2\\
 
 la magia e' basata sugli elementi e liste
 
-aria, acqua, terra, fuoco, vita, entropia, spazio , tempo (queste due sono liste avanzate...)
+aria, acqua, terra, fuoco, vita, spazio , tempo (queste due sono liste avanzate...)
 	
 il sistema	si basa su un blocco di competenze che assumono un certo grado di esperienza\\
 
 la magia e' una competenza, solo che esplicito l'elemento che imparo\\
 ogni elemento mi apre la strada a piu' liste di incantesimo con una difficolta' crescente che posso apprendere solo se ho quel livello di competenza nella lista (es. Lista Fuoco, livello esp. 3, ha certi incantesimi...)\\
 
-la difesa funziona come una competenza, esprima una difficolta' da 1 2 3.. o piu' successi da passare con la proprio competenza di arma\\
+la difesa funziona come una competenza, esprime una difficolta' da 1 2 3.. o piu' successi da passare con la proprio competenza di arma\\
 
 un tiro contrapposto e' la somma dei valori dei tiri ottenuti confrontata con l'avversario\\
 
 un tiro salvezza viene esplicitato nell'incantesimo solitamente devi ottenere un numero di successi pari max al livello di potere dell'incantesimo (lista Fuoco, esp 3 puo' richiedere 3 tiri riusciti su qualcosa)\\
 
-i punti ferita sono pari alla caratteristica, quindi bassi\\
+i punti ferita sono pari alla caratteristica corpo+2xcombattimento, quindi bassi\\
 
 l'arma fa 1, 2 , 3 danni a seconda della differenza tra quanti successi ho nella prova al colpire e quanto hai difesa tu\\
 
 la razza da la classe, ovvero da un set di competenze note di base\\
 
-le caratteristiche:
+le caratteristiche sono tre:\\
+hanno un punteggio +-5, si parte con 2 punti da distribuire sulle 3 caratteristiche.\\
 
 corpo, mente, spirito\\
 
+Competenze:\\
 
-Atletica
-Consapevolezza
-Intimidire
-Combattimento corpo a corpo
-Sesto Senso
+Corpo:\\
+Atletica\\
+Intimidire\\
+Combattimento\\
+Criminalità\\
 
-affinità Animale
-Armi da gittata
-Armi da Mischia
-Criminalità
-Furtività
-Galateo
-cavalcare
-Sopravvivenza
+Mente:\\
+Consapevolezza\\
+Conoscenza: xxx\\
+Furtività\\
+Medicina\\
 
-Magia
+Spirito:\\
+Percepire inganni\\
+Cavalcare\\
+Sopravvivenza\\
+Affinità Animale\\
 
-Conoscenza: xxx
-Medicina
+Magia\\
+ogni lista si appoggia ad un caratteristica diversa.\\
+mettere 1 punto su magia significa metterlo su una lista, ad esempio potrei avere magia a 3 punti che equivale a Lista Fuoco 2, Terra 1\\
+
+le caratteristiche va da -5 a 5, il punteggio e' un bonus al tiro (per raggiungere piu' facilmente il 6), con 0 valore normale
+-5 non usabile
+-4 estremamente problematico
+-3 problematico
+-2 subnormale\\
+-1 scarso\\
+0 normale\\
+1 buono\\
+2 eccellente\\
+3 eccezionale\\
+4 sovraumano\\
+5 divino\\
+
+i bonus magici e di circostanza devono essere scarsi max +-/4, con un range di +-2 valore normale\\
+
+Liste magia
+
+Fuoco\\
+Aria\\
+Terra \\
+Acqua\\
+spazio\\
+tempo\\
+
+Lista Fuoco\\
+
+Esperienza 1\\
 
 
 
-	
 \end{document}
