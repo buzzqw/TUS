@@ -16,7 +16,7 @@ Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente
 
 Il gioco e' pressoche' completo anche se in fase di costante perfezionamento. Nel manuale di TUS e DBS c'e' la parte per i Giocatori, per il Master e pure il mostruario (senza immagini...).
 
-Una volta "terminato" il playtesting sara' disponibile in POD.
+Una volta "terminato" il playtesting sara' disponibile in POD (print on demand). Eventualmente mandatemi un messaggio se volete l'ultima versione mandate alle stampe.
 
 **Nota**: abbiate pazienza per il pessimo codice di Latex, sono alle prime armi!
 
