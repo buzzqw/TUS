@@ -1,3 +1,16 @@
+**24/07/2021**
+
+Prosegue la rilettura e chiarimenti basati sui feedback ricevuti, con soddisfazione posso dire che modifiche sostanziali non ce ne sono ancora state! Certo ho rimosso una lista d'armi ma era oggettivamente ridondante.
+
+Aggiunti e chiariti tanti aspetti, non con l'aggiunta di regole ma scrivendo meglio quelle gia' presenti. Non ho l'obiettivo di aggiungere regole su regole e altre pile di regole, ma di rendere piu' fruibili quelle gia' presenti.
+
+OSR e' anche caraterizzato da una certa liberta' di pensiero del Narratore che in base al suo approccio al gioco plasma regole e houserules come meglio crede.
+
+Per quanto vorrei ristampare ed avere un libro aggiornato non e' necessario, alla fin fine i chiarimenti inseriti sono ovviamente per chi il manuale lo legge la prima volta non per chi l'ha scritto!
+
+Aspettero' probabilmente settembre all'avvio della prossima stagione di gioco per stampare nuovamente il manuale e distrubuirlo al gruppo, a quel punto probabilmente avro' forse terminato la 1.1.4
+
+
 **14/07/2021**
 
 Ho incominciato a preparare le Screen del Narratore (o se preferito lo Schermo del Narratore).
