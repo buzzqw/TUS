@@ -25,3 +25,5 @@ Una volta "terminato" il playtesting sara' disponibile in POD (print on demand).
 **Nota3**: le versioni DOCX sono ottenute con pandoc, convertendoli da tex, la qualita' e' piuttosto pessima.
 
 Andres Zanzani
+
+[![Compila DBS](https://github.com/buzzqw/TUS/actions/workflows/compila%20DBS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20DBS.yml)
