@@ -1,3 +1,9 @@
+
+[![Compila DBS](https://github.com/buzzqw/TUS/actions/workflows/compila%20DBS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20DBS.yml)
+[![Compila Copertina](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina.yml)
+[![Compila Screen](https://github.com/buzzqw/TUS/actions/workflows/Compila%20Screen.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/Compila%20Screen.yml)
+
+
 In questo repository trovere due sistemi di gioco strettamente connessi, TUS e DBS.
 
 Tutto parte da TUS, un rpg ispirato a D20 OGL (e' licenziato con la OGL 5.1) che usa 3d6 al posto del d20 per una distribuzione normalizzata. E' un sistema classless dove la magia e' freeform ed e' ispirata a Ars Magica e Talislanta. Il sistema e' basato su prove che possono esplodere (anche il danno) ed un sistema di svantaggi e vantaggi alla Gurps. 
@@ -25,5 +31,3 @@ Una volta "terminato" il playtesting sara' disponibile in POD (print on demand).
 **Nota3**: le versioni DOCX sono ottenute con pandoc, convertendoli da tex, la qualita' e' piuttosto pessima.
 
 Andres Zanzani
-
-[![Compila DBS](https://github.com/buzzqw/TUS/actions/workflows/compila%20DBS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20DBS.yml)
