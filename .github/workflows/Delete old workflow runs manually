@@ -1,13 +1,5 @@
 name: Delete old workflow runs
 on: [workflow_dispatch]
-  schedule:
-    - cron: '0 0 1 * *'
-  workflow_dispatch:
-    inputs:
-      days:
-        description: 'Number of days.'
-        required: true
-        default: 30
 
 jobs:
   del_runs:
