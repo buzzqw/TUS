@@ -1,3 +1,11 @@
+**25/07/2021**
+
+Ho desciso di pubblicare la 1.1.3 per via del lavoro di rifinitura fatto fin'ora. Come ho scritto non si tratta di correzioni importanti, anche se qualcosa c'e' chiaramente, ma di tante piccoli accorgimenti e chiarificazioni.
+
+Per quanto sembri poco il lavoro di indicizzazione di tutti gli incantesimi suddividendoli per Scuola e Difficolta' mi ha portato via tutto un intero pomeriggio.. per fortuna sono veloce con la tastiera!.
+
+
+
 **24/07/2021**
 
 Prosegue la rilettura e chiarimenti basati sui feedback ricevuti, con soddisfazione posso dire che modifiche sostanziali non ce ne sono ancora state! Certo ho rimosso una lista d'armi ma era oggettivamente ridondante.
