@@ -4,6 +4,7 @@ Ho desciso di pubblicare la 1.1.3 per via del lavoro di rifinitura fatto fin'ora
 
 Per quanto sembri poco il lavoro di indicizzazione di tutti gli incantesimi suddividendoli per Scuola e Difficolta' mi ha portato via tutto un intero pomeriggio.. per fortuna sono veloce con la tastiera!.
 
+EDIT: so pensando di riportare i tiri per determinare le caratteristiche ai classici 3d6 e non 4d6 drop lowest. Non mi piacciono i personaggi che partono con grossi bonus, non devono essere le caratteristiche a determinare il successo del personaggio ma le scelte, l'arguzia, l'esperienza del giocatore e del gruppo. Penso che lasciero' i 4d6 come opzionale..
 
 
 **24/07/2021**
