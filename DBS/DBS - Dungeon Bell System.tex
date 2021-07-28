@@ -102,6 +102,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 
 \newtcolorbox{narratore}{
 	enhanced, % enable advanced settings
+	halign=left,
 	left = 10mm, % pushes text away from the left edge by 10mm
 	sharp corners, % disables rounded corners
 	rounded corners = southeast, % "round" the bottom right corner
@@ -2037,12 +2038,15 @@ In questi casi il personaggio ed il Narratore effettuano una prova, chi ottiene 
 
 - Nascondersi: Nascondersi nelle ombre Vs Consapevolezza
 
-- Intimidire: Intimidire Vs Tiro Salvezza su Volontà
+- Muoversi silenziosamente: Muoversi silenziosamente vs Consapevolezza (purche' non visto)
+
+- Intimidire: Intimidire Vs Tiro Salvezza su Volontà (con modificatore Carisma)
 
 - Rubare: Mani di Fata Vs Consapevolezza, o Mani di Fata se posseduta (valutare bene bonus e malus)
 
 - Slegarsi da delle corde: Usare Corde Vs Artista della fuga
 
+- Braccio di ferro: prova contrapposta Tiro Salvezza Tempra (con modificatore forza)
 
 \begin{center}
 	\includegraphics[width=0.7\linewidth]{immagini/Foster_Bible_Pictures.png}\\
@@ -2134,9 +2138,13 @@ Il Narratore valuterà la possibilità che più di un personaggio fornisca aiuto
 \textbf{Tirare un 1}: \index{Tirare un 1 nelle prove}porta male anche nelle prove di competenze, ovvero non si somma. Non è un fallimento automatico è solo un tiro molto basso (zero + valore di competenza)
 
 \item
-\textbf{Tentare la sorte}\index{Tentare la sorte}: posso togliere 4 punti al punteggio di competenza (e non dalla Caratteristica o Abilità) per aggiungere un 1d6 al tiro.
+\textbf{Tentare la sorte}\index{Tentare la sorte}: posso togliere 4 punti al punteggio di competenza (e non dalla Caratteristica o Abilità) per aggiungere un 1d6 al tiro (Tiro per Colpire, Tiro Salvezza, prove Competenza)
 \end{itemize}
 
+
+\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt,width=0.45\textwidth,title = Golden Rules]{
+Sfruttate le \textbf{Golden Rules} a vostro vantaggio! Osate, tentate, rischiate quando la situazione non permette altre soluzioni!}
+\end{tcolorbox}
 
 \subsubsection{Successo Parziale* - Opzionale}\index{Successo Parziale}\index{Prova con Rischio}
 
@@ -2153,8 +2161,6 @@ Con un fallimento di 4 è si riuscito a liberarsi a costo di essersi slogato il 
 \begin{narratore}
 Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una \textbf{"Prova con Rischio}" in situazioni di particolare tensione ed urgenza in cui è più importante il risultato finale che il rischio che si corre. Questa richiesta va fatta prima di tirare i dadi.
 \end{narratore}
-
-\bigskip
 
 \subsection{Esempi Prove Competenza}
 
@@ -2179,17 +2185,17 @@ Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una
 
 	\item Per \textbf{riconoscere un mostro}, una creatura particolare si effettua una prova di
 	
-	Arcana: Giganti, Costrutti, Spiriti, Mostruosità, Aberrazioni, Draghi
+	\textit{Arcana}: Giganti, Costrutti, Spiriti, Mostruosità, Aberrazioni, Draghi
 	
-	Piani: Elementali
+	\textit{Piani}: Elementali
 	
-	Occulto: Immondi, Spiriti, Non Morti
+	\textit{Occulto}: Immondi, Spiriti, Non Morti
 	
-	Religione: Spiriti, Non Morti, Celestiali
+	\textit{Religione}: Spiriti, Non Morti, Celestiali
 	
-	Dungeon: Aberrazioni, Mostruosità, Melme, e creature sotterranee
+	\textit{Dungeon}: Aberrazioni, Mostruosità, Melme, e creature sotterranee
 	
-	Natura: Bestie, Piante, Fatati
+	\textit{Natura}: Bestie, Piante, Fatati
 	
 	La DC delle prova è pari al grado di Sfida della creatura + 10, un fallimento non critico della prova concederà meno informazioni.
 	
@@ -2220,8 +2226,7 @@ Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una
 
 In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 della lunghezza saltata. Se esegui un salto in lungo di 4 metri a metà salto sei in alto di 1 metro. 
 
-\item \textbf{Arrampicarsi} \index{Arrampicarsi}\\	
-\textit{Si hanno penalità dovuta all'Armatura.}
+\item \textbf{Arrampicarsi} \index{Arrampicarsi} \textit{Si hanno penalità dovuta all'Armatura.}
 
 \begin{tabularx}{0.45\textwidth}{Xl}
 	\hline
@@ -2256,18 +2261,14 @@ Cerca di occultare le traccie&DC +5\\
 
 \item \textbf{Nascondersi nelle Ombre} \index{Nascondersi nelle Ombre} \textit{Si hanno penalità dovuta all'Armatura.}
 
-Usando 2 Azioni (e probabilmente una altra Azione per spostarti) puoi cercare di nasconderti alla vista degli avversari.
-
-Esegui una prova di Nascondersi nelle Ombre, DC 15 (ed il Narratore valuterà eventuali modifiche circostanziali), se ci riesci ottieni una Copertura media.
+Usando 2 Azioni (e probabilmente una altra Azione per spostarti) puoi cercare di nasconderti alla vista degli avversari. Esegui una prova di Nascondersi nelle Ombre, DC 15 (ed il Narratore valuterà eventuali modifiche circostanziali), se ci riesci ottieni una Copertura media.
 
 La copertura può essere riferita a più avversari o solo qualcuno, il Narratore può valutare in caso di critici nella prova una copertura anche maggiore.
 
 Non è possibile nascondersi se l'ambiente non lo permette, per quando la tua prova possa essere alta non puoi nasconderti se non c'è qualcosa che ti può coprire.
  
 
-\item \textbf{Muoversi Silenziosamente} \index{Muoversi Silenziosamente}
-
-\textit{Si hanno penalità dovuta all'Armatura.}
+\item \textbf{Muoversi Silenziosamente} \index{Muoversi Silenziosamente} \textit{Si hanno penalità dovuta all'Armatura.}
 
 Usi due Azioni per per Muoversi Silenziosamente, la rimanente Azione e' usata per il movimento.
 
@@ -2280,14 +2281,13 @@ La prova va confrontata con la Consapevolezza dell'avversario che potrebbe aver 
 \label{linguaggi}
 
 In Yeru ogni razza è custode di una propria lingua parlata e scritta. Ogni personaggio che abbia almeno Intelligenza -1 parla il linguaggio della propria razza, con 0 lo scrive anche.
-Per ogni punto superiore o pari a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio.
-Per ogni punto in Conoscenza: Lingue che dedica specificatamente ai linguaggi, parla e scrive un altra lingua. Alcune lingue non possono essere parlate se non da creature appartenenti a quella razza, ad esempio le lingue degli Elementali.
+Per ogni punto superiore o pari a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio. Per ogni punto in Conoscenza: Lingue che dedica specificatamente ai linguaggi, parla e scrive un altra lingua. Alcune lingue non possono essere parlate se non da creature appartenenti a quella razza, ad esempio le lingue degli Elementali.
 
 Un appartenente ad una razza può benissimo avere come prima lingua non quella della propria razza se il background lo giustifica (es un Nano cresciuto presso una tribù di Goblin).
 
 \end{multicols}
 
-\medskip
+\smallskip
 
 \textbf{Tabella delle Lingue}\index{Tabella delle Lingue}
 
@@ -2304,12 +2304,12 @@ Un appartenente ad una razza può benissimo avere come prima lingua non quella d
 	Druidica* 				& Druidico 		& -				& Goblinoide			& Goblinoide	& Goblinoide\\
 	Celestiale				& Celestiale 	& Celestiale	& Infernale 				& Infernale  	& Infernale\\
    	Abissale 				& Abissale		& Abissale		& Draghi					& Draconico  	& Draconico\\
-    Elementali Fuoco  		& Ignam   		& - 			& Elementali Terra			& Terran 	    &-\\
-	Elementali Acqua 		& Acquan  		& -  			& Elementali Aria			& Auran         &-\\
+    Elementali del Fuoco  		& Ignam   		& - 			& Elementali della Terra			& Terran 	    &-\\
+	Elementali dell'Acqua 		& Acquan  		& -  			& Elementali dell'Aria			& Auran         &-\\
     Lingua dei Segni*		& dei Segni 	& dei Segni		& Varie 				&  Profondità	& Profondità\\
 \end{tabularx}
 
-\bigskip	
+\medskip
 
 I \textbf{Linguaggi Speciali}* possono essere presi sono dietro autorizzazione del Narratore a seguito di background o Abilità del personaggio.
 
@@ -2320,7 +2320,7 @@ La \textbf{Telepatia}\index{Telepatia} non è propriamente una lingua ma un mezz
 \medskip
 
 \begin{center}
-	\includegraphics[width=0.4\linewidth]{immagini/babele.png}\\
+	\includegraphics[width=0.25\linewidth]{immagini/babele.png}\\
 	\textit{Grande Torre di Babele. Pieter Bruegel il Vecchio (1563)}
 \end{center}
 
@@ -2357,6 +2357,7 @@ Il combattimento è diviso in 2 fasi:\index{Combattimento}
 
 \begin{center}
 	\includegraphics[width=0.9\linewidth]{immagini/Achildbookofwarriors.png}
+	
 	\textit{A child's book of warriors (1907), William Canton}
 \end{center}
 
@@ -12976,18 +12977,18 @@ Spruzzo prismatico &3d6\\
 \index{Difensore}\textbf{Difensore}\\
 \textit{Arma (qualsiasi spada), leggendario} - 35000 mo, 45000 mo, 70000 mo\\
 Ottieni un bonus di +3,+4,+5 ai Tiri per Colpire e danno effettuati con quest'arma magica.\\
-La prima volta che attacchi con questa spada durante un tuo round, puoi trasferire parte o tutto il suo bonus alla tua Difesa, invece di usare il bonus sugli attacchi di questo round. Il bonus così modificato rimane efficace fino all'inizio del tuo prossimo round, ma dovrai impugnare la spada per ottenere il bonus alla CA da parte sua. \\
+La prima volta che attacchi con questa spada durante un tuo round, puoi trasferire parte o tutto il suo bonus alla tua Difesa, invece di usare il bonus sugli attacchi di questo round. Il bonus così modificato rimane efficace fino all'inizio del tuo prossimo round, ma dovrai impugnare la spada per ottenere il bonus alla CA da parte sua. 
 
 \index{Elmo della Comprensione dei Linguaggi}\textbf{Elmo della Comprensione dei Linguaggi}\\
 \textit{Oggetto meraviglioso, non comune} - 600 mo\\
-Mentre indossi questo elmo, puoi usare due azioni per lanciare a volontà tramite esso l'incantesimo comprendere linguaggi.\\
+Mentre indossi questo elmo, puoi usare due azioni per lanciare a volontà tramite esso l'incantesimo comprendere linguaggi.
 
 \index{Elmo della Lucentezza}\textbf{Elmo della Lucentezza}\\
 \textit{Oggetto meraviglioso, molto raro}\\
 Questo elmo luminoso è incastonato con 1d10 diamanti, 2d10 rubini, 3d10 opali di fuoco e 4d10 opali.\\
 Qualsiasi gemma estratta dall'elmo si riduce in polvere. Quando tutte le gemme sono rimosse o distrutte, l'elmo perde la sua magia.\\
 
-Mentre lo indossi ottieni i seguenti benefici: \\
+Mentre lo indossi ottieni i seguenti benefici: 
 
 \medskip
 
@@ -12997,19 +12998,19 @@ Puoi usare due azioni per lanciare uno dei seguenti incantesimi, usando una dell
 \item
 Finché possiede almeno un diamante, l'elmo emette luce fioca in un raggio di 9 metri quando almeno un non morto si trova entro quest'area. Qualsiasi non morto che inizi il suo round all'interno dell'area subisce 1d6 danni da Luce.\\
 \item
-Finché l'elmo possiede almeno un rubino, hai resistenza ai danni da fuoco.\\
+Finché l'elmo possiede almeno un rubino, hai resistenza ai danni da fuoco.
 \end{itemize}
 
 \medskip
 
 Finché l'elmo possiede almeno un opale di fuoco, puoi usare due azioni e pronunciare una parola di comando per far sì che un'arma che stai impugnando venga avvolta dalle fiamme. Le fiamme emettono luce intensa in un raggio di 3 metri e luce fioca per ulteriori 3 metri. Le fiamme sono innocue per te e per l'arma. Quando colpisci con un attacco sferrato con l'arma infiammata, il bersaglio subisce
 1d6 danni da fuoco aggiuntivi. Le fiamme perdurano fino a quando non userai due azioni per pronunciare la parola di comando di nuovo o fino a quando non lascerai cadere o rinfodererai l'arma.\\
-Se stai indossando l'elmo e subisci danni da fuoco in seguito al fallimento di un Tiro Salvezza contro un incantesimo con 3 uno l'elmo emette un fascio di luce tramite le gemme rimanenti. Ogni creatura entro 18 metri dall'elmo, a parte te, deve superare un Tiro Salvezza su Riflessi con DC 21 o venire colpita dal fascio, subendo danni di Luce uguali al numero di gemme nell'elmo. Poi, le gemme e l'elmo vengono distrutti.\\
+Se stai indossando l'elmo e subisci danni da fuoco in seguito al fallimento di un Tiro Salvezza contro un incantesimo con 3 uno l'elmo emette un fascio di luce tramite le gemme rimanenti. Ogni creatura entro 18 metri dall'elmo, a parte te, deve superare un Tiro Salvezza su Riflessi con DC 21 o venire colpita dal fascio, subendo danni di Luce uguali al numero di gemme nell'elmo. Poi, le gemme e l'elmo vengono distrutti.
 
 \index{Elmo della Telepatia}\textbf{Elmo della Telepatia}\\
 \textit{Oggetto meraviglioso, non comune} - 12000 mo\\
 Mentre indossi questo elmo, puoi usare due azioni per lanciare tramite esso l'incantesimo individuazione dei pensieri (DC del Tiro Salvezza 13). Finché mantieni la concentrazione sull'incantesimo, puoi usare due azioni  per inviare un messaggio telepatico alla creatura su cui sei concentrato. Essa può replicare (usando due azioni per farlo) fino a quando continui a concentrarti su di lei.\\
-Mentre ti concentri su di una creatura con individuazione dei pensieri, puoi usare due azioni per lanciare tramite l'elmo l'incantesimo suggestione (DC del Tiro Salvezza 13) su quella creatura. Una volta usata, la proprietà suggestione non potrà essere usata di nuovo fino alla prossima alba.\\
+Mentre ti concentri su di una creatura con individuazione dei pensieri, puoi usare due azioni per lanciare tramite l'elmo l'incantesimo suggestione (DC del Tiro Salvezza 13) su quella creatura. Una volta usata, la proprietà suggestione non potrà essere usata di nuovo fino alla prossima alba.
 
 \index{Elmo del Teletrasporto}\textbf{Elmo del Teletrasporto}\\
 \textit{Oggetto meraviglioso, raro} - 64000 mo\\
@@ -13018,21 +13019,21 @@ Mentre indossi questo elmo, puoi usare due azioni e spendere 1 carica per lancia
 \index{Faretra Efficiente}\textbf{Faretra Efficiente}\\
 \textit{Oggetto meraviglioso, non comune} - 2500 mo\\
 Ciascuno dei tre compartimenti della faretra è collegato a uno spazio extradimensionale che le permetta di trasportare numerosi oggetti non pesando mai più di 1 chilo.\\
-Il compartimento più piccolo può contenere fino a 60 frecce, saette od oggetti simili. Il compartimento mediano può contenere fino a 18 giavellotti od oggetti simili. Il compartimento più lungo può contenere fino a 6 oggetti lunghi, come archi, bastoni da combattimento o lance. Puoi estrarre qualsiasi oggetto contenuto nella faretra come se lo stessi prendendo da una normale faretra o fodero.\\
+Il compartimento più piccolo può contenere fino a 60 frecce, saette od oggetti simili. Il compartimento mediano può contenere fino a 18 giavellotti od oggetti simili. Il compartimento più lungo può contenere fino a 6 oggetti lunghi, come archi, bastoni da combattimento o lance. Puoi estrarre qualsiasi oggetto contenuto nella faretra come se lo stessi prendendo da una normale faretra o fodero.
 
 \index{Fasce di Ferro del Vincolo}\textbf{Fasce di Ferro del Vincolo}\\
 \textit{Oggetto meraviglioso, raro} - 5000 mo\\
 Questa sfera di ferro arrugginita misura 7,5 centimetri di diametro e pesa 500 grammi. Puoi usare due azioni per pronunciare una parola di comando e scagliare la sfera contro una creatura visibile di taglia Enorme o inferiore entro 18 metri da te. La sfera si muove nell'aria, aprendosi in un reticolato di fasce metalliche. Effettua un Tiro per Colpire a distanza, se colpisci, il bersaglio è intralciato fino a quando non effettuerai due azioni per pronunciare una parola di comando e liberarlo. Farlo, o mancare l'attacco, fa sì che le fasce si contraggano e ritornino a essere una sfera.\\
 Una creatura, compresa quella intralciata, può usare due azioni per effettuare una prova di Forza con DC 25 per spezzare le fasce di ferro. Se la riesce, l'oggetto viene distrutto, e la creatura intralciata è libera. Se la prova fallisce, qualsiasi ulteriore tentativo effettuato dalla creatura fallisce automaticamente fino a quando non saranno trascorse 24 ore.\\
-Una volta che le fasce sono state usate non potranno più esserlo fino alla prossima alba.\\ 
+Una volta che le fasce sono state usate non potranno più esserlo fino alla prossima alba.
 
 \index{Bandana dell'Intelligenza}\textbf{Bandana dell'Intelligenza}\\
 \textit{Oggetto meraviglioso, non comune } - 8000 mo\\
-Mentre indossi questa bandana il tuo Intelligenza è +4. La fascetta non ha effetto se hai già Intelligenza è già +4 o più alta.\\
+Mentre indossi questa bandana il tuo Intelligenza è +4. La fascetta non ha effetto se hai già Intelligenza è già +4 o più alta.
 
 \index{Filtro d'Amore}\textbf{Filtro d'Amore}\\
 \textit{Pozione, non comune} - 120\\
-Resterai affascinato per 1 ora dalla prima creatura che vedrai entro 10 minuti da quando avrai bevuto questo filtro. Se la creatura è di una specie o genere da cui sei normalmente attratto,finché sei affascinato la considererai il tuo unico e grande amore.\\
+Resterai affascinato per 1 ora dalla prima creatura che vedrai entro 10 minuti da quando avrai bevuto questo filtro. Se la creatura è di una specie o genere da cui sei normalmente attratto,finché sei affascinato la considererai il tuo unico e grande amore.
 
 \index{Fortezza Istantanea}\textbf{Fortezza Istantanea}\\
 \textit{Oggetto meraviglioso, raro} - 75000 mo\\
@@ -13040,7 +13041,7 @@ Puoi usare due azioni per porre questo cubo di metallo di 2,5 centimetri di spig
 La fortezza è una torre quadrata, 6 metri per lato e alta 9 metri, con feritoie su tutti i lati e spalti in cima. Il suo interno è diviso in due piani, con una scala che corre lungo una parete a congiungerli. La scala termina con una botola che si apre sul tetto. Quando viene attivata, la torre presenta una piccola porta sul lato rivolto verso di te. La porta si apre solo al tuo comando, che puoi pronunciare con due azioni. È immune all'incantesimo scassinare e magie simili, come quella del battaglio dell'apertura.\\
 Ogni creatura nell'area in cui la fortezza compare deve effettuare un Tiro Salvezza su Riflessi con DC 17, subendo 10d10 danni contundenti se lo fallisce, o la metà di questi danni se lo riesce. In entrambi i casi, la creatura viene spinta in uno spazio fuori della fortezza ma in sua prossimità. Gli oggetti nell'area che non sono indossati o trasportati subiscono gli stessi danni e vengono spinti automaticamente.\\
 La torre è fatta di adamantio, e la sua magia le impedisce di venir ribaltata. Il tetto, la porta e le mura hanno 100 punti ferita ognuno, immunità ai danni dalle armi non magiche a eccezione delle armi da assedio, e resistenza a tutti gli altri danni.\\
-Solo l'incantesimo desiderio può riparare la fortezza. Ciascun lancio di desiderio fa sì che il tetto, la porta o una delle pareti recuperi 50 punti ferita.\\
+Solo l'incantesimo desiderio può riparare la fortezza. Ciascun lancio di desiderio fa sì che il tetto, la porta o una delle pareti recuperi 50 punti ferita.
 
 \index{Gemma Elementale}\textbf{Gemma Elementale}\\
 \textit{Oggetto meraviglioso, non comune} - 1200 mo\\
@@ -13081,35 +13082,35 @@ Con due azioni, puoi pronunciare la parola di comando della gemma e spendere 1 c
 \index{Giavellotto dei Fulmini}\textbf{Giavellotto dei Fulmini}\\
 \textit{Arma (giavellotto), non comune} - 1500 mo\\
 Questo giavellotto è un'arma magica. Quando lo scagli e pronunci la sua parola di comando, si trasforma in un fulmine, formando una linea larga 1 metro che si estende da te verso un bersaglio entro 36 metri. Ogni creatura sulla linea, escluso te e il bersaglio, deve effettuare un Tiro Salvezza su Riflessi con DC 15, subendo 4d6 danni da fulmine se lo fallisce o la metà di questi danni se lo riesce. Il fulmine ridiventa un giavellotto quando raggiunge il bersaglio. Se lo colpisce, il bersaglio subisce i danni del giavellotto più 4d6 danni da fulmine.\\\
-La proprietà del giavellotto non può più essere usata fino alla prossima alba. Nel frattempo, il giavellotto può essere comunque usato come arma magica. \\
+La proprietà del giavellotto non può più essere usata fino alla prossima alba. Nel frattempo, il giavellotto può essere comunque usato come arma magica. 
 
 \index{Guanti Afferra Proiettili}\textbf{Guanti Afferra Proiettili}\\
 \textit{Oggetto meraviglioso, non comune} - 3000 mo\\
-Questi quanti sembrano quasi fondersi con la tua pelle quando li indossi. Quando un attacco con arma a distanza ti colpisce mentre li indossi, puoi usare una Reazione per ridurre il danno di 1d10 + Destrezza, purché tu abbia una mano libera. Se riduci il danno a 0, e il proiettile è piccolo a sufficienza da essere tenuto in mano, puoi afferrarlo.\\
+Questi quanti sembrano quasi fondersi con la tua pelle quando li indossi. Quando un attacco con arma a distanza ti colpisce mentre li indossi, puoi usare una Reazione per ridurre il danno di 1d10 + Destrezza, purché tu abbia una mano libera. Se riduci il danno a 0, e il proiettile è piccolo a sufficienza da essere tenuto in mano, puoi afferrarlo.
 
 \index{Guanti d'Arme del Potere Ogre}\textbf{Guanti d'Arme del Potere Ogre}\\
 \textit{Oggetto meraviglioso, non comune}\\
-Mentre indossi queste manopole la tua Forza è 4 . Le manopole non hanno effetto se la tua Forza è già 4 o più.\\
+Mentre indossi queste manopole la tua Forza è 4 . Le manopole non hanno effetto se la tua Forza è già 4 o più.
 
 \index{Guanti del Nuoto e della Scalata}\textbf{Guanti del Nuoto e della Scalata}\\
 \textit{Oggetto meraviglioso, non comune} - 2000 mo\\
-Mentre indossi entrambi questi guanti, la scalata e il nuoto non ti costano movimento aggiuntivo. Inoltre, hai un bonus di +1d6 alle prove di Costituzione e Saggezza effettuate mentre scali o nuoti.\\
+Mentre indossi entrambi questi guanti, la scalata e il nuoto non ti costano movimento aggiuntivo. Inoltre, hai un bonus di +1d6 alle prove di Costituzione e Saggezza effettuate mentre scali o nuoti.
 
 \index{Incensiere del Comando degli Elementali dell'Aria}\textbf{Incensiere del Comando degli Elementali dell'Aria}\\
 \textit{Oggetto meraviglioso, raro} - 8000 mo\\
-Mentre l'incenso brucia all'interno di questo incensiere, puoi usare due azioni per pronunciare la parola di comando del braciere ed evocare un elementale dell'aria, come se avessi lanciato l'incantesimo evoca elementali. L'incensiere non può di nuovo essere usato a questo modo fino alla prossima alba. Questo incensiere largo 15 centimetri e alto 30 centimetri assomiglia a un calice dalla copertura decorata. Pesa 0,5 chili.\\
+Mentre l'incenso brucia all'interno di questo incensiere, puoi usare due azioni per pronunciare la parola di comando del braciere ed evocare un elementale dell'aria, come se avessi lanciato l'incantesimo evoca elementali. L'incensiere non può di nuovo essere usato a questo modo fino alla prossima alba. Questo incensiere largo 15 centimetri e alto 30 centimetri assomiglia a un calice dalla copertura decorata. Pesa 0,5 chili.
 
 \index{Ladra delle Nove Vite}\textbf{Ladra delle Nove Vite}\\
 \textit{Arma (qualsiasi spada), molto raro} - 12000 mo\\
 Ottieni un bonus di +2 ai Tiri per Colpire e danno effettuati con quest'arma magica. Se ottieni un colpo critico contro una creatura che ha meno di 100 punti ferita, questa deve superare un tiro Salvezza su Tempra con DC 17 o venire immediatamente uccisa, mentre la spada ne risucchia la forza vitale dal corpo (i costrutti e i non morti sono immuni a questa proprietà). \\
-La spada ha 1d8 + 1 cariche, e perde 1 carica quando una creatura viene uccisa. Quando la spada non ha più cariche, perde questa proprietà.\\
+La spada ha 1d8 + 1 cariche, e perde 1 carica quando una creatura viene uccisa. Quando la spada non ha più cariche, perde questa proprietà.
 
 \index{Lama della Fortuna}\textbf{Lama della Fortuna}\\
 \textit{Arma (qualsiasi spada), leggendario}\\
 Ottieni un bonus di +1,+2,+3 ai Tiri per Colpire e danno effettuati con quest'arma magica. Finché hai addosso la spada ricevi anche un bonus di +1 ai Tiri Salvezza.\\
 \textit{Fortuna}. Se hai addosso la spada, puoi affidarti alla sua fortuna (non richiede due azioni) per ripetere un Tiro per Colpire, prova di caratteristica o Tiro Salvezza il cui risultato non ti soddisfa. Sei obbligato a usare il secondo risultato del dado. Questa proprietà non può essere usata di nuovo fino alla prossima alba.\\
 \textit{Desiderio}. Mentre la impugni, puoi usare due azioni per spendere 1 carica e lanciare tramite essa l'incantesimo desiderio. Questa proprietà non può essere usata di nuovo
-fino alla prossima alba. La spada ha 1d4-1 cariche, e perde questa proprietà se finisce le cariche.\\
+fino alla prossima alba. La spada ha 1d4-1 cariche, e perde questa proprietà se finisce le cariche.
 
 \index{Lama del Sole}\textbf{Lama del Sole}\\
 \textit{Arma (spada lunga), raro} - 12000 mo\\
@@ -13117,7 +13118,7 @@ Quest'oggetto sembra l'impugnatura di una spada lunga, ma senza lama. Quando ne 
 Finché la spada esiste, questa spada lunga magica ha la proprietà Versatile.\\
 Se sei competente con le spade corte o le spade lunghe, sei competente anche con la lama del sole.\\
 Ottieni un bonus di +2 ai Tiri per Colpire e danno effettuati con quest'arma, che infligge danni da Luce anziché danni taglienti. Quando colpisci con essa una creatura non morta, il bersaglio subisce 1d8 danni da Luce aggiuntivi.\\
-La lama luminosa della spada emette luce intensa in un raggio di 4,5 metri e luce fioca per ulteriori 4,5 metri. La luce è luce solare. Finché la lama è attiva, puoi usare due azioni per espandere o ridurre il raggio della luce intensa e fioca di 1,5 metri ciascuno, fino a un massimo di 9 metri o un minimo di 3 metri ciascuno.\\
+La lama luminosa della spada emette luce intensa in un raggio di 4,5 metri e luce fioca per ulteriori 4,5 metri. La luce è luce solare. Finché la lama è attiva, puoi usare due azioni per espandere o ridurre il raggio della luce intensa e fioca di 1,5 metri ciascuno, fino a un massimo di 9 metri o un minimo di 3 metri ciascuno.
 
 \index{Lanciatore Nanico}\textbf{Lanciatore Nanico}\\
 \textit{Arma (martello da guerra), molto raro} - 18000 mo\\
@@ -13127,27 +13128,27 @@ Quando colpisci con un attacco a distanza usando quest'arma, essa infligge 1d8 d
 \index{Lanterna della Rivelazione}\textbf{Lanterna della Rivelazione}\\
 \textit{Oggetto meraviglioso, non comune} - 5000 mo\\
 Mentre è accesa, questa lanterna coperta brucia per 6 ore con 1 pinta d'olio, irradiando luce intensa in un raggio di 9 metri e luce fioca per ulteriori 9 metri. Le creature e gli oggetti invisibili sono resi visibili mentre si trovano sotto la luce intensa della lanterna. \\
-Puo usare due azioni per abbassare la copertura, riducendo la luce a fioca con un raggio di 1,5 metri.\\
+Puo usare due azioni per abbassare la copertura, riducendo la luce a fioca con un raggio di 1,5 metri.
 
 \index{Lingua di Fuoco}\textbf{Lingua di Fuoco}\\
 \textit{Arma (qualsiasi spada), raro} - 5000 mo\\
-Puoi usare due azioni per pronunciare la parola di comando di questa spada magica, facendo sì che dalla sua lama eruttino fiamme. Queste fiamme irradiano luce intensa in un raggio di 12 metri e luce fioca per ulteriori 12 metri. Mentre la spada è in fiamme, infligge 2d6 danni da fuoco aggiuntivi a qualsiasi bersaglio colpisca. Le fiamme durano fino a che non usi due azioni per pronunciare di nuovo la parola di comando o finché non lasci cadere o rinfoderi l'arma. \\
+Puoi usare due azioni per pronunciare la parola di comando di questa spada magica, facendo sì che dalla sua lama eruttino fiamme. Queste fiamme irradiano luce intensa in un raggio di 12 metri e luce fioca per ulteriori 12 metri. Mentre la spada è in fiamme, infligge 2d6 danni da fuoco aggiuntivi a qualsiasi bersaglio colpisca. Le fiamme durano fino a che non usi due azioni per pronunciare di nuovo la parola di comando o finché non lasci cadere o rinfoderi l'arma. 
 
 \index{Mantella del Ciarlatano}\textbf{Mantella del Ciarlatano}\\
 \textit{Oggetto meraviglioso, raro} - 8000 mo\\
-Mentre indossi questa mantella che odora lievemente di zolfo, puoi usarla per lanciare l'incantesimo porta dimensionale con due azioni. La proprietà di questa mantella non può essere usata di nuovo fino all'alba. Quando scompari, ti lasci alle spalle una nube di fumo, e riappari alla tua destinazione all'interno di una simile nube di fumo. Questo fumo oscura leggermente lo spazio che hai lasciato e quello dove riappari, e si dissipa alla fine del tuo prossimo round. Un vento leggero o più forte disperde il fumo.\\
+Mentre indossi questa mantella che odora lievemente di zolfo, puoi usarla per lanciare l'incantesimo porta dimensionale con due azioni. La proprietà di questa mantella non può essere usata di nuovo fino all'alba. Quando scompari, ti lasci alle spalle una nube di fumo, e riappari alla tua destinazione all'interno di una simile nube di fumo. Questo fumo oscura leggermente lo spazio che hai lasciato e quello dove riappari, e si dissipa alla fine del tuo prossimo round. Un vento leggero o più forte disperde il fumo.
 
 \index{Mantello della Resistenza agli Incantesimi}\textbf{Mantello della Resistenza agli Incantesimi}\\
 \textit{Oggetto meraviglioso, raro} - 30000 mo\\
-Mentre indossi questa cappa, hai +2 ai Tiri Salvezza contro incantesimi.\\
+Mentre indossi questa cappa, hai +2 ai Tiri Salvezza contro incantesimi.
 
 \index{Manuale degli Esercizi Pratici}\textbf{Manuale degli Esercizi Pratici}\\
 \textit{Oggetto meraviglioso, molto raro}\\
-Questo libro descrive esercizi atletici, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Costituzione aumenta di 1, poi il manuale perde la sua magia, per recuperarla dopo un secolo.\\
+Questo libro descrive esercizi atletici, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Costituzione aumenta di 1, poi il manuale perde la sua magia, per recuperarla dopo un secolo.
 
 \index{Manuale dei Golem}\textbf{Manuale dei Golem}\\
 \textit{Oggetto meraviglioso, molto raro}\\
-Questo tomo contiene le informazioni e incantamenti necessari a costruire un tipo particolare di golem. Il Narratore sceglie il tipo di golem che è possibile costruire o lo determina casualmente. Per decifrare e usare il manuale devi avere almeno CM 10. Una creatura che non possa usare il manuale dei golem e provi a leggerlo, subisce 6d6 danni psichici.\\
+Questo tomo contiene le informazioni e incantamenti necessari a costruire un tipo particolare di golem. Il Narratore sceglie il tipo di golem che è possibile costruire o lo determina casualmente. Per decifrare e usare il manuale devi avere almeno CM 10. Una creatura che non possa usare il manuale dei golem e provi a leggerlo, subisce 6d6 danni psichici.
 
 \medskip
 
@@ -13164,11 +13165,11 @@ Questo tomo contiene le informazioni e incantamenti necessari a costruire un tip
 \medskip
 
 Per creare un golem, devi trascorrere il tempo sopra indicato, lavorando senza interruzione con il manuale a disposizione e riposando per non più di 8 ore al giorno. Devi anche pagare il costo specificato per acquistare i materiali necessari.\\
-Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. Il golem si anima quando le ceneri del manuale saranno sparse su di esso. Sarà sotto il tuo controllo e comprende e obbedisce gli ordini pronunciati da te.\\
+Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. Il golem si anima quando le ceneri del manuale saranno sparse su di esso. Sarà sotto il tuo controllo e comprende e obbedisce gli ordini pronunciati da te.
 
 \index{Manuale della Rapidità d'Azione}\textbf{Manuale della Rapidità d'Azione}\\
 \textit{Oggetto meraviglioso, molto raro}\\
-Questo libro contiene esercizi di coordinazione ed equilibrio, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Destrezza aumenta di 1. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.\\
+Questo libro contiene esercizi di coordinazione ed equilibrio, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Destrezza aumenta di 1. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.
 
 \index{Martello dei Fulmini}\textbf{Martello dei Fulmini}\\
 \textit{Arma (maglio), leggendario} - 20000 mo\\
@@ -13177,29 +13178,29 @@ Ottieni un bonus di +2 ai Tiri per Colpire e di danno effettuati con quest'arma 
 Mentre usi il martello il tuo punteggio di Forza aumenta di 2 (fino ad un massimo di 15).\\
 Quando ottieni un critico sul Tiro per Colpire effettuato con quest'arma contro un gigante, il gigante deve superare un tiro Salvezza su Tempra con DC 21 o morire.\\
 Puoi spendere 1 carica ed effettuare un attacco con arma a distanza con il martello, scagliandolo come se avesse la proprietà da lancio con un gittata normale di 6 metri. Se l'attacco colpisce, il martello produce un tuono udibile fino a 90 metri di distanza. Il bersaglio e tutte le creature entro 9 metri da esso devono superare un tiro Salvezza su Tempra con DC 21 o restare stordite fino al termine del tuo prossimo round. \\
-Il martello ha 5 cariche, e recupera 1d4 + 1 cariche spese ogni giorno all'alba.\\
+Il martello ha 5 cariche, e recupera 1d4 + 1 cariche spese ogni giorno all'alba.
 
 \index{Mazza della Distruzione}\textbf{Mazza della Distruzione}\\
 \textit{Arma (mazza), raro} - 12000 mo\\
 Quando colpisci un immondo o un non morto con quest'arma magica, quella creatura subisce 2d6 danni da Luce aggiuntivi. Se, dopo aver subito il danno, al bersaglio rimangono 25 punti ferita o meno, questi deve superare un Tiro Salvezza su Volontà con DC 17 o venire distrutto. Se il Tiro Salvezza riesce, la creatura resta spaventata da te fino al termine del tuo prossimo round.\\
-Mentre impugni quest'arma, essa irradia luce intensa in un raggio di 6 metri e luce fioca per ulteriori 6 metri.\\
+Mentre impugni quest'arma, essa irradia luce intensa in un raggio di 6 metri e luce fioca per ulteriori 6 metri.
 
 \index{Mazza della Punizione}\textbf{Mazza della Punizione}\\
 \textit{Arma (mazza), raro} - 7000 mo\\
 Ottieni un bonus di +1 ai Tiri per Colpire e danno effettuati con quest'arma magica. Il bonus aumenta a +3 quando usi quest'arma per attaccare un costrutto. \\
-Quando ottieni un critico al Tiro per Colpire effettuato con quest'arma, il bersaglio subisce 7 danni contundenti aggiuntivi, o 14 danni contundenti aggiuntivi se è un costrutto. Se, dopo aver subito questi danni, a un costrutto restano 25 punti ferita o meno, viene distrutto.\\
+Quando ottieni un critico al Tiro per Colpire effettuato con quest'arma, il bersaglio subisce 7 danni contundenti aggiuntivi, o 14 danni contundenti aggiuntivi se è un costrutto. Se, dopo aver subito questi danni, a un costrutto restano 25 punti ferita o meno, viene distrutto.
 
 \index{Mazza del Terrore}\textbf{Mazza del Terrore}\\
 \textit{Arma (mazza), raro} - 8000 mo\\
 Mentre la impugni, puoi usare due azioni e spendere 1 carica per scatenare un'ondata di terrore.\\ Ogni creatura di tua scelta, in un raggio di 9 metri a partire da te, deve superare un Tiro Salvezza su Volontà con DC 17 o restare spaventata da te per 1 minuto. Mentre è spaventata a questo modo, una creatura deve impiegare i suoi turni a cercare di muoversi più lontano possibile da te, e non può consapevolmente muoversi in uno spazio che sia entro 9 metri da te. Inoltre non può effettuare reazioni. Come sua azione, può usare solo l'azione di Movimento per scappare. Se non può muoversi da nessuna parte, la creatura può usare l'Azione Difesa Totale. \\
-Al termine di ciascun suo round, la creatura può ripetere il Tiro Salvezza, terminando l'effetto per sé in caso lo superi. Quest'arma magica ha 3 cariche, e recupera 1d3 cariche ogni giorno all'alba.\\
+Al termine di ciascun suo round, la creatura può ripetere il Tiro Salvezza, terminando l'effetto per sé in caso lo superi. Quest'arma magica ha 3 cariche, e recupera 1d3 cariche ogni giorno all'alba.
 
 \index{Mazzo delle Illusioni}\textbf{Mazzo delle Illusioni}\\
 \textit{Oggetto meraviglioso, non comune} - 6500 mo\\
 Questa scatola contiene un set di carte di pergamena. Un mazzo completo contiene 34 carte, ognuna raffigurante una creatura diversa. Le creature rappresentate vengono lasciate alla discrezionalità del Narratore. Di solito i mazzi trovati in giro sono privi di 3d6-3 carte.\\
 La magia del mazzo funziona solo se le carte vengono pescate a caso (potete usare un mazzo di normali carte da gioco modificato per simulare il mazzo delle illusioni). Puoi usare due azioni per pescare una carta dal mazzo e scagliarla in un punto sul terreno a 9 metri da te.\\
 L'illusione di una o più creature si forma sopra la carta lanciata e rimane finché non viene dissolta. La creatura illusoria sembra reale, della taglia appropriata, e si comporta come fosse una vera creatura, eccetto che non può recare danni. Finché resti entro 36 metri dalla creatura illusoria e puoi vederla, puoi usare due azioni per muoverla magicamente in qualsiasi punto entro 9 metri dalla carta. Qualsiasi interazione fisica con la creatura illusoria la rivela come illusione, dato che gli oggetti le passano attraverso. Qualcuno che usi due azioni per ispezionare visivamente la creatura, la identifica come illusoria superando una prova di Intelligenza con DC 17. La creatura le apparirà quindi trasparente.\\
-L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Quando l'illusione termina, l'immagine sulla carta scompare, e quella carta non potrà più essere usata.\\
+L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Quando l'illusione termina, l'immagine sulla carta scompare, e quella carta non potrà più essere usata.
 
 \end{multicols}
 
@@ -13234,7 +13235,7 @@ Jolly (2) &Tu (il proprietario del mazzo)&&\\
 \textit{Oggetto meraviglioso, leggendario}\\
 Di solito lo si trova in un borsello o una scatola, che contiene delle carte fatte d'avorio o vello. La maggior parte di questi mazzi (il 75\%) ha solo tredici carte, mentre i restanti mazzi ne hanno ventidue.\\
 Prima di pescare una carta, devi dichiarare quante carte intendi pescare e poi pescarle casualmente (puoi usare un mazzo di carte da gioco modificato per simulare il mazzo). Qualsiasi carta pescata in eccesso di questo numero non ha effetto. Altrimenti, appena peschi una carta dal mazzo, la sua magia ha effetto.\\
-Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi il numero scelto di carte, il numero di carte rimanenti uscirà fuori dal mazzo spontaneamente e avrà effetto in contemporanea. Una volta estratta una carta, questa svanirà dall'esistenza. A meno che la carta non sia il Matto o il Buffone, la carta ricompare nel mazzo, rendendo possibile pescare due volte la stessa carta.\\
+Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi il numero scelto di carte, il numero di carte rimanenti uscirà fuori dal mazzo spontaneamente e avrà effetto in contemporanea. Una volta estratta una carta, questa svanirà dall'esistenza. A meno che la carta non sia il Matto o il Buffone, la carta ricompare nel mazzo, rendendo possibile pescare due volte la stessa carta.
 
 \medskip
 
@@ -13304,7 +13305,7 @@ Non morto media, neutrale malvagio\\
 
 \index{Medaglione dei Pensieri}\textbf{Medaglione dei Pensieri}\\
 \textit{Oggetto meraviglioso, non comune} - 3000 mo\\
-Mentre indossi questo medaglione, puoi usare due azioni e spendere 1 carica per lanciare tramite esso l'incantesimo individuazione dei pensieri (DC del Tiro Salvezza 15). Il medaglione ha 3 cariche, e recupera 1d3 cariche spese ogni giorno all'alba.\\
+Mentre indossi questo medaglione, puoi usare due azioni e spendere 1 carica per lanciare tramite esso l'incantesimo individuazione dei pensieri (DC del Tiro Salvezza 15). Il medaglione ha 3 cariche, e recupera 1d3 cariche spese ogni giorno all'alba.
 
 \index{Miniatura dal Potere Meraviglioso}\textbf{Miniatura dal Potere Meraviglioso}\\
 \textit{Oggetto meraviglioso, rarità in base alla miniatura}\\
@@ -13323,36 +13324,36 @@ spaventata dal caprone per 1 minuto, o finché il caprone non torna alla forma d
 \textit{Elefante di Marmo} (Raro). Questa statuetta di marmo è larga e alta circa 10 centimetri. Può diventare un elefante per un massimo di 24 ore. Una volta usata, non può essere usata di nuovo prima che siano passati 7 giorni.\\
 \textit{Grifone di Bronzo} (Raro). Questa statuetta di bronzo raffigura un grifone rampante. Può diventare un grifone per un massimo di 6 ore. Una volta usata, non può essere usata di nuovo prima che siano passati 5 giorni. \\
 \textit{Gufo Serpentino} (Raro). Questa statuetta serpentina di un gufo può diventare un gufo gigante per un massimo di 8 ore. Una volta usata, non può essere usata di nuovo prima che siano passati 2 giorni. Se vi trovate sullo stesso piano di esistenza, il gufo può comunicare telepaticamente con te a qualsiasi distanza.\\
-\textit{Leoni d'Oro} (Raro). Queste statuette d'oro di leoni sono sempre create a coppie. Puoi usare una o entrambe le miniature contemporaneamente. Ciascuna può diventare un leone per un massimo di 1 ora. Una volta usato uno dei leoni, questi non può essere usato di nuovo prima che siano passati 7 giorni. \\
+\textit{Leoni d'Oro} (Raro). Queste statuette d'oro di leoni sono sempre create a coppie. Puoi usare una o entrambe le miniature contemporaneamente. Ciascuna può diventare un leone per un massimo di 1 ora. Una volta usato uno dei leoni, questi non può essere usato di nuovo prima che siano passati 7 giorni. 
 
 \index{Munizione dell'Uccisione}\textbf{Munizione dell'Uccisione}\\
 \textit{Arma (freccia, saetta), molto raro} - 700 mo\\
 Se una creatura appartenente al tipo, razza o gruppo a cui la freccia dell'uccisione è associata subisce danni dalla freccia, la creatura deve effettuare un tiro Salvezza su Tempra con DC 21, subendo 6d10 danni perforanti aggiuntivi se lo fallisce, o la metà di questi danni se lo riesce.\\
-Una volta che la freccia dell'uccisione ha inflitto danni aggiuntivi alla creatura, diventa una freccia non magica. \\
+Una volta che la freccia dell'uccisione ha inflitto danni aggiuntivi alla creatura, diventa una freccia non magica. 
 
 \index{Occhi Affascinanti}\textbf{Occhi Affascinanti}\\
 \textit{Oggetto meraviglioso, non comune} - 3000\\
-Mentre indossi queste lenti di cristallo davanti agli occhi, puoi spendere 1 carica con due azioni per lanciare l'incantesimo charme su persone (DC del Tiro Salvezza 15) su di un umanoide entro 9 metri da te, purché tu e il bersaglio vi possiate vedere. Le lenti hanno 3 cariche e recuperano tutte quelle spese ogni giorno all'alba.\\
+Mentre indossi queste lenti di cristallo davanti agli occhi, puoi spendere 1 carica con due azioni per lanciare l'incantesimo charme su persone (DC del Tiro Salvezza 15) su di un umanoide entro 9 metri da te, purché tu e il bersaglio vi possiate vedere. Le lenti hanno 3 cariche e recuperano tutte quelle spese ogni giorno all'alba.
 
 \index{Occhi dell'Aquila}\textbf{Occhi dell'Aquila}\\
 \textit{Oggetto meraviglioso, non comune} - 2500 mo\\
-Mentre indossi queste lenti di cristallo davanti agli occhi, hai +1d6 alle prove di Consapevolezza basate sulla vista. In condizioni di visibilità limpida, puoi distinguere i dettagli anche di creature e oggetti molto distanti delle dimensioni di 50 centimetri.\\
+Mentre indossi queste lenti di cristallo davanti agli occhi, hai +1d6 alle prove di Consapevolezza basate sulla vista. In condizioni di visibilità limpida, puoi distinguere i dettagli anche di creature e oggetti molto distanti delle dimensioni di 50 centimetri.
 
 \index{Occhi della Vista Dettagliata}\textbf{Occhi della Vista Dettagliata}\\
 \textit{Oggetto meraviglioso, non comune} - 2500 mo\\
-Mentre indossi queste lenti di cristallo davanti agli occhi, puoi vedere molto meglio del normale fino a una distanza di 30 centimetri. Hai +1d6 alle prove di Consapevolezza basata su vista mentre perlustri un'area o studi un oggetto a distanza.\\
+Mentre indossi queste lenti di cristallo davanti agli occhi, puoi vedere molto meglio del normale fino a una distanza di 30 centimetri. Hai +1d6 alle prove di Consapevolezza basata su vista mentre perlustri un'area o studi un oggetto a distanza.
 
 \index{Occhiali da Notte}\textbf{Occhiali da Notte}\\
 \textit{Oggetto meraviglioso, non comune} - 1500 mo\\
-Mentre indossi queste lenti scure, possiedi la scurovisione, con una gittata di 18 metri. Se già possiedi la scurovisione, indossare questi occhiali ne aumenta la gittata di 18 metri.\\
+Mentre indossi queste lenti scure, possiedi la scurovisione, con una gittata di 18 metri. Se già possiedi la scurovisione, indossare questi occhiali ne aumenta la gittata di 18 metri.
 
 \index{Olio di Affilatezza}\textbf{Olio di Affilatezza}\\
 \textit{Pozione, molto raro} - 3200 mo\\
-Quest'olio può ricoprire un'arma tagliente o perforante o fino a 5 munizioni taglienti o perforanti. Applicare l'olio richiede 1 minuto. Per 1 ora, l'arma ricoperta dall'olio è magica e ha un bonus di +3 ai Tiri per Colpire e danno. \\
+Quest'olio può ricoprire un'arma tagliente o perforante o fino a 5 munizioni taglienti o perforanti. Applicare l'olio richiede 1 minuto. Per 1 ora, l'arma ricoperta dall'olio è magica e ha un bonus di +3 ai Tiri per Colpire e danno. 
 
 \index{Olio di Forma Eterea}\textbf{Olio di Forma Eterea}\\
 \textit{Pozione, raro} - 2000 mo\\
-Una dose di olio è sufficiente a ricoprire una creatura di taglia Media o inferiore, e l'equipaggiamento che indossa e trasporta (è necessaria un'ulteriore fiala per ogni categoria di taglia sopra la Media). Applicare l'olio richiede 10 minuti. Dopodiché la creatura ottiene l'effetto dell'incantesimo forma eterea per 1 ora.\\
+Una dose di olio è sufficiente a ricoprire una creatura di taglia Media o inferiore, e l'equipaggiamento che indossa e trasporta (è necessaria un'ulteriore fiala per ogni categoria di taglia sopra la Media). Applicare l'olio richiede 10 minuti. Dopodiché la creatura ottiene l'effetto dell'incantesimo forma eterea per 1 ora.
 
 \index{Olio di Scivolosità}\textbf{Olio di Scivolosità}\\
 \textit{Pozione, non comune} - 500 mo\\
@@ -13363,20 +13364,21 @@ L'olio può coprire una creatura di taglia Media o inferiore, insieme a tutto l'
 Una tipica palla di cristallo ha il diametro di circa 15 centimetri. Mentre la tocchi, puoi lanciare tramite essa l'incantesimo scrutare (DC del Tiro Salvezza 21). Le seguenti palle di cristallo varianti sono oggetti leggendari e hanno proprietà aggiuntive.\\
 \textit{Palla di Cristallo di Lettura del Pensiero}. Questa palla di cristallo è di circa 12 centimetri di diametro. Mentre la tocchi, puoi lanciare tramite di essa l'incantesimo scrutare (DC del Tiro Salvezza 21). Puoi usare due azioni per lanciare l'incantesimo individuazione dei pensieri (DC del Tiro Salvezza 21) mentre stai scrutando tramite questa palla di cristallo, prendendo come bersaglio le creature che puoi vedere e si trovano entro 9 metri dal sensore dell'incantesimo. Non devi concentrarti su questo individuazione dei pensieri per mantenerlo per la sua durata, che termina quando termina scrutare.\\
 \textit{Palla di Cristallo di Telepatia}. Questa palla di cristallo è di circa 12 centimetri di diametro. Mentre la tocchi, puoi lanciare tramite di essa l'incantesimo scrutare (DC del Tiro Salvezza 21). Mentre scruti tramite questa palla di cristallo, puoi comunicare telepaticamente con le creature che puoi vedere e si trovano entro 9 metri dal sensore dell'incantesimo. Puoi anche usare due azioni per lanciare l'incantesimo suggestione (DC del Tiro Salvezza 21) su una di queste creature tramite il sensore. Non devi concentrarti su questa suggestione per mantenerla per la sua durata, che termina se termina scrutare. Una volta usato, il potere suggestione della palla di cristallo non può essere usato di nuovo fino alla prossima alba.\\
-\textit{Palla di Cristallo di Visione del Vero}. Questa palla di cristallo è di circa 12 centimetri di diametro. Mentre la tocchi, puoi lanciare tramite di essa l'incantesimo scrutare (DC del Tiro Salvezza 21). Mentre scruti con questa palla di cristallo, hai visione del vero con un raggio di 36 metri centrato sul sensore dell'incantesimo.\\
+\textit{Palla di Cristallo di Visione del Vero}. Questa palla di cristallo è di circa 12 centimetri di diametro. Mentre la tocchi, puoi lanciare tramite di essa l'incantesimo scrutare (DC del Tiro Salvezza 21). Mentre scruti con questa palla di cristallo, hai visione del vero con un raggio di 36 metri centrato sul sensore dell'incantesimo.
 
 \index{Pantofole del Ragno}\textbf{Pantofole del Ragno}\\
 \textit{Oggetto meraviglioso, non comune} - 5000 mo\\
-Mentre indossi queste scarpe leggere, puoi muoverti verso l'alto, il basso, e lungo superfici verticali e a testa in giù sul soffitto, lasciando libere le mani. Hai una velocità di scalata pari alla velocità di passeggio. Tuttavia, le pantofole non ti permettono di muoverti a questo modo su superfici scivolose, come quelle coperte da ghiaccio o da olio.\\
+Mentre indossi queste scarpe leggere, puoi muoverti verso l'alto, il basso, e lungo superfici verticali e a testa in giù sul soffitto, lasciando libere le mani. Hai una velocità di scalata pari alla velocità di passeggio. Tuttavia, le pantofole non ti permettono di muoverti a questo modo su superfici scivolose, come quelle coperte da ghiaccio o da olio.
 
 \index{Pergamena degli Incantesimi}\textbf{Pergamena degli Incantesimi}\\
 \textit{Pergamena, varia} - vedi costi creazione pergamena\\
 Una pergamena degli incantesimi riporta le parole di un singolo incantesimo, scritte in un codice mistico. Per lanciare un incantesimo da pergamena è necessario una prova di Competenza Magica a Difficoltà metà dell'incantesimo che si vuole manifestare (una prova ad un quarto per capire che incantesimo è).\\
-Lanciare l'incantesimo leggendolo da una pergamena richiede il normale tempo di lancio dell'incantesimo. Una volta che l'incantesimo è stato lanciato, le parole sulla pergamena svaniscono, e la pergamena viene ridotta in polvere. Se il lancio viene interrotto, la pergamena non si dissolve.\\
+Lanciare l'incantesimo leggendolo da una pergamena richiede il normale tempo di lancio dell'incantesimo. Una volta che l'incantesimo è stato lanciato, le parole sulla pergamena svaniscono, e la pergamena viene ridotta in polvere. Se il lancio viene interrotto, la pergamena non si dissolve.
 
 \index{Perla del Potere}\textbf{Perla del Potere}\\
 \textit{Oggetto meraviglioso, non comune} - 6000 mo\\
-Mentre hai la perla con te, puoi usare due azioni per recuperare un uso di incantesimi al giorno.Una volta usata, la perla non potrà essere usata di nuovo fino alla prossima alba.\\
+Mentre hai la perla con te, puoi usare due azioni per recuperare un uso di incantesimi al giorno.Una volta usata, la perla non potrà essere usata di nuovo fino alla prossima alba.
+
 
 \index{Pietra Arcana}\textbf{Pietra Arcana}\\
 \textit{Oggetto meraviglioso, rarità varia}\\
@@ -13391,7 +13393,7 @@ Una pietra ha CA 24, 10 punti ferita e resistenza a tutti i danni. Mentre orbita
 \textit{Intelligenza} (molto raro). Mentre orbita intorno alla tua testa il tuo punteggio di Intelligenza aumenta di 1, fino a un massimo di 5. 3000 mo\\
 \textit{Intuizione} (molto raro). Mentre orbita intorno alla tua testa il tuo punteggio di Saggezza aumenta di 2, fino a un massimo di 5. 3000 mo\\
 \textit{Protezione} (raro). Mentre orbita intorno alla tua testa ottieni un bonus di +1 alla Difesa. 10000 mo\\
-\textit{Sostentamento} (raro). Mentre orbita intorno alla tua testa non hai bisogno di mangiare né di bere. 3500 mo\\
+\textit{Sostentamento} (raro). Mentre orbita intorno alla tua testa non hai bisogno di mangiare né di bere. 3500 mo
 
 \index{Pietra della Buona Sorte}\textbf{Pietra della Buona Sorte}\\
 \textit{Oggetto meraviglioso, non comune} - 4500 mo\\
@@ -13399,17 +13401,17 @@ Finché la pietra è con te, ottieni un bonus di +1 alle prove di caratteristica
 
 \index{Pietra del Controllo degli Elementali della Terra}\textbf{Pietra del Controllo degli Elementali della Terra} - 8000 mo\\
 \textit{Oggetto meraviglioso, raro}\\
-Se la pietra tocca terra, puoi usare due azioni per pronunciare la parola di comando ed evocare un elementale della terra, come se avessi lanciato l'incantesimo evocare elementali. La pietra non può di nuovo essere usata a questo modo, fino alla prossima alba. La pietra pesa 2,5 chili.\\
+Se la pietra tocca terra, puoi usare due azioni per pronunciare la parola di comando ed evocare un elementale della terra, come se avessi lanciato l'incantesimo evocare elementali. La pietra non può di nuovo essere usata a questo modo, fino alla prossima alba. La pietra pesa 2,5 chili.
 
 \index{Piffero delle Fogne}\textbf{Piffero delle Fogne}\\
 \textit{Oggetto meraviglioso, non comune} - 2000 mo\\
 Devi essere competente con gli strumenti a fiato per usare questo piffero. Mentre usi questo piffero, i ratti normali e i ratti giganti sono indifferenti nei tuoi confronti e non ti attaccheranno a meno che non li minacci o li danneggi. Se con due azioni suoni il piffero, puoi usare due azioni per spendere da 1 a 3 cariche, richiamando uno sciame di ratti per ogni carica spesa, purché ci siano abbastanza ratti entro 750 metri da te da richiamare in questa maniera (a discrezione del Narratore). Se non ci sono abbastanza ratti da formare uno sciame, la carica è sprecata. Gli sciami richiamati si muovono verso la musica tramite la rotta più breve possibile, ma non sono in alcun altro modo sotto il tuo controllo. Il piffero ha 3 cariche e recupera 1d3 cariche spese ogni giorno all'alba.\\
 Ogni qualvolta uno sciame di ratti che non sia sotto il controllo di un'altra creatura si avvicina entro 9 metri da te mentre stai suonando il piffero, puoi effettuare una prova di Carisma contesa dalla prova di Saggezza dello sciame. Se perdi la contesa, lo sciame si comporta come di norma e non può essere di nuovo distratto dalla musica del piffero per le successive 24 ore. Se vinci la contesa, lo sciame è attratto dalla musica del piffero e diventa amichevole nei confronti tuoi e dei tuoi compagni fino a che continui a suonare il piffero con due azioni ogni round. Uno sciame amichevole obbedisce ai tuoi comandi. Se non impartisci ordini a uno sciame amichevole, questo si difenderà ma non compirà altre azioni.\\
-Se uno sciame amichevole all'inizio del round non può udire la musica del piffero, il tuo controllo su quello sciame termina, e lo sciame si comporta come farebbe normalmente e non può essere attirato nuovamente dalla musica del piffero per le successive 24 ore.\\
+Se uno sciame amichevole all'inizio del round non può udire la musica del piffero, il tuo controllo su quello sciame termina, e lo sciame si comporta come farebbe normalmente e non può essere attirato nuovamente dalla musica del piffero per le successive 24 ore.
 
 \index{Piffero dello Spavento}\textbf{Piffero dello Spavento}\\
 \textit{Oggetto meraviglioso, non comune} - 6000 mo\\
-Devi essere competente con gli strumenti a fiato per usare questo piffero. Puoi usare due azioni per suonarlo e spendere 1 carica per creare un suono incantevole e spettrale. Ogni creatura entro 9 metri da te e che ti oda suonare deve superare un Tiro Salvezza su Volontà con DC 17 o restare spaventata da te per 1 minuto. Se lo desideri, tutte le creature nell'area che non ti siano ostili possono superare automaticamente il loro Tiro Salvezza. Una creatura che fallisca il Tiro Salvezza può ripeterlo alla fine del suo round, terminando l'effetto su di sé in caso lo superi. Una creatura che superi il Tiro Salvezza è immune all'effetto di questo piffero per 24 ore. Il piffero ha 3 cariche e recupera 1d3 cariche spese ogni giorno all'alba.\\
+Devi essere competente con gli strumenti a fiato per usare questo piffero. Puoi usare due azioni per suonarlo e spendere 1 carica per creare un suono incantevole e spettrale. Ogni creatura entro 9 metri da te e che ti oda suonare deve superare un Tiro Salvezza su Volontà con DC 17 o restare spaventata da te per 1 minuto. Se lo desideri, tutte le creature nell'area che non ti siano ostili possono superare automaticamente il loro Tiro Salvezza. Una creatura che fallisca il Tiro Salvezza può ripeterlo alla fine del suo round, terminando l'effetto su di sé in caso lo superi. Una creatura che superi il Tiro Salvezza è immune all'effetto di questo piffero per 24 ore. Il piffero ha 3 cariche e recupera 1d3 cariche spese ogni giorno all'alba.
 
 \index{Pigmenti delle Meraviglie}\textbf{Pigmenti delle Meraviglie}\\
 \textit{Oggetto meraviglioso, molto raro} - 400 mo\\
@@ -13417,7 +13419,7 @@ Trovati solitamente in 1d4 vasetti all'interno di eleganti scatole di legno assi
 Ogni vasetto di pittura è sufficiente a coprire 90 m2 di una superficie, permettendoti di creare oggetti inanimati e caratteristiche del terreno (porte, fosse, fiori, alberi, celle, stanze o armi) che occupino un totale di 270 m3. Ci vogliono 10 minuti per coprire 90 m2.\\
 Quando completi il dipinto, l'oggetto o la caratteristica del terreno dipinta diventa un oggetto reale, non magico. Quindi, dipingere una porta su di una parete crea una vera porta che può essere aperta per accedere a ciò che si trova oltre di essa. Dipingere una fossa sul pavimento crea una vera fossa, la cui profondità è conteggiata nell'area totale degli oggetti che puoi creare.\\
 Nulla di ciò che viene creato dai pigmenti può avere un valore superiore ai 25 mo. Se dipingi un oggetto di valore superiore (un diamante o una pila d'oro), l'oggetto sembrerà autentico, ma un attento esame rivelerà che è fatto di gesso, ossa o qualche altro materiale privo di valore.\\
-Se dipingi una forma di energia, come fuoco o fulmine, l'energia compare ma si dissipa non appena completi il dipinto, senza recare danni a niente. \\
+Se dipingi una forma di energia, come fuoco o fulmine, l'energia compare ma si dissipa non appena completi il dipinto, senza recare danni a niente. 
 
 \index{Piuma Arcana}\textbf{Piuma Arcana}\\
 \textit{Oggetto meraviglioso, raro}\\
@@ -13427,50 +13429,50 @@ Questo minuscolo oggetto assomiglia a una piuma. Esistono diversi tipi di piume 
 \textit{Frusta}. Puoi usare due azioni per lanciare la piuma arcana verso un punto entro 3 metri da te. La piuma svanisce e al suo posto compare una frusta fluttuante. Puoi poi usare due azioni per effettuare un attacco con incantesimo in mischia contro una creatura entro 3 metri dalla frusta, con un bonus di attacco +9. Se colpisci, il bersaglio subisce 1d6 + 5 danni da forza. Durante il tuo round, con due azioni puoi dirigere la frusta affinché voli per un massimo di 6 metri e ripeta l'attacco contro una creatura entro 3 metri da essa. La frusta svanisce dopo 1 ora, quando usi due azioni per congedarla, o quando sei inabile o muori. 250 mo\\
 \textit{Nave Cigno}. Puoi usare due azioni per appoggiare la piuma arcana su di una massa d'acqua di almeno 18 metri di diametro. La piuma svanisce e al suo posto compare una barca lunga 15 metri e larga 6 metri dalla forma di cigno. La barca si sposta da sola e si muove in acqua alla velocità di 9 chilometri all'ora. Puoi usare due azioni, mentre sei a bordo per comandarle di muoversi o voltare di 90 gradi. La barca può trasportare fino a trentadue creature di taglia Media o inferiore. Una creatura Grande conta come quattro creature Medie, mentre una creatura Enorme conta come nove creature Medie. La barca svanisce dopo 24 ore. Puoi congedare la barca con due azioni. 3000 mo\\
 \textit{Uccello}. Puoi usare due azioni per lanciare la piuma arcana 1,5 metri nell'aria. La piuma svanisce e un enorme uccello multicolore ne prende il posto. L'uccello ha le statistiche di un Roc, ma obbedisce a comandi semplici e non può attaccare. Può trasportare fino a 250 chili mentre vola alla sua velocità massima (24 chilometri all'ora per un massimo di 216 chilometri al giorno, con un'ora di riposo ogni 3 ore di volo), o 500 chili di peso a metà velocità. L'uccello svanisce dopo aver volato per la distanza massima possibile in un giorno o se scende a 0 punti ferita. Puoi congedare l'uccello con due azioni. 3000 mo\\
-\textit{Ventaglio}. Se ti trovi su di una barca o una nave, puoi usare due azioni per lanciare la piuma arcana fino a 3 metri in aria. La piuma svanisce e un gigantesco ventaglio compare al suo posto. Il ventaglio galleggia e crea un vento forte abbastanza da gonfiare le vele della nave, aumentandone la velocità di 7,5 chilometri all'ora per 8 ore. Puoi congedare il ventaglio con due azioni. 250 mo\\
+\textit{Ventaglio}. Se ti trovi su di una barca o una nave, puoi usare due azioni per lanciare la piuma arcana fino a 3 metri in aria. La piuma svanisce e un gigantesco ventaglio compare al suo posto. Il ventaglio galleggia e crea un vento forte abbastanza da gonfiare le vele della nave, aumentandone la velocità di 7,5 chilometri all'ora per 8 ore. Puoi congedare il ventaglio con due azioni. 250 mo
 
 \index{Polvere dell'Aridità}\textbf{Polvere dell'Aridità}\\
 \textit{Oggetto meraviglioso, raro} - 120 mo\\
 Questa piccola confezione contiene 1d6 + 4 pizzichi di polvere. Puoi usare due azioni per spargere un pizzico di polvere sull'acqua La polvere trasforma un cubo d'acqua di 4,5 metri di spigolo in una pallina delle dimensioni di una biglia, che fluttua o si deposita nel punto in cui è stata gettata la polvere. Il peso della pallina è trascurabile.\\
 Chiunque può usare due azioni per spaccare la pallina contro una superficie dura, facendo sì che la pallina si rompa e liberi l'acqua assorbita dalla polvere. Farlo esaurisce la magia della pallina.\\
-Un elementale composto principalmente d'acqua e che venga esposto a un pizzico di questa polvere, deve effettuare un tiro Salvezza su Tempra con DC 15, subendo 10d6 danni da Vuoto se lo fallisce, o la metà di questi danni se lo riesce.\\
+Un elementale composto principalmente d'acqua e che venga esposto a un pizzico di questa polvere, deve effettuare un tiro Salvezza su Tempra con DC 15, subendo 10d6 danni da Vuoto se lo fallisce, o la metà di questi danni se lo riesce.
 
 \index{Polvere della Sparizione}\textbf{Polvere della Sparizione}\\
 \textit{Oggetto meraviglioso, non comune} - 300 mo\\
-Rinvenuta in piccoli sacchetti, questa polverina sembra sabbia molto sottile. In un sacchetto ce n'è a sufficienza per un uso. Quando usi due azioni per lanciare la polvere in aria, tu e ciascuna creatura e oggetto entro 3 metri da te diventate invisibili per 2d4 minuti. La durata è la stessa per tutti i soggetti, e quando la magia prende effetto la polvere si consuma. Se una creatura sotto l'effetto della polvere attacca o lancia un incantesimo, l'invisibilità ha fine solo per quella creatura.\\
+Rinvenuta in piccoli sacchetti, questa polverina sembra sabbia molto sottile. In un sacchetto ce n'è a sufficienza per un uso. Quando usi due azioni per lanciare la polvere in aria, tu e ciascuna creatura e oggetto entro 3 metri da te diventate invisibili per 2d4 minuti. La durata è la stessa per tutti i soggetti, e quando la magia prende effetto la polvere si consuma. Se una creatura sotto l'effetto della polvere attacca o lancia un incantesimo, l'invisibilità ha fine solo per quella creatura.
 
 \index{Polvere dello Starnuto e del Soffocamento}\textbf{Polvere dello Starnuto e del Soffocamento}\\
 \textit{Oggetto meraviglioso, non comune} - 480 mo\\
-Trovata in piccoli contenitori, questa polverina sembra sabbia sottile. Appare simile alla polvere della sparizione, e l'incantesimo identificare la rivela come tale. Ce n'è a sufficienza per un uso. Quando usi due azioni per lanciare una manciata di polvere in aria, tu e tutte le creature che necessitano di respirare e si trovino entro 9 metri da te dovete superare un tiro Salvezza su Tempra con DC 17 o smettere di respirare, e iniziare a starnutire in maniera incontrollabile. Una creatura afflitta a questo modo è inabile e soffoca. Finché è cosciente, la creatura può ripetere il Tiro Salvezza alla fine di ciascun suo round, terminando l'effetto in caso lo superi. Anche l'incantesimo ristorare inferiore può terminare l'effetto che affligge la creatura.\\
+Trovata in piccoli contenitori, questa polverina sembra sabbia sottile. Appare simile alla polvere della sparizione, e l'incantesimo identificare la rivela come tale. Ce n'è a sufficienza per un uso. Quando usi due azioni per lanciare una manciata di polvere in aria, tu e tutte le creature che necessitano di respirare e si trovino entro 9 metri da te dovete superare un tiro Salvezza su Tempra con DC 17 o smettere di respirare, e iniziare a starnutire in maniera incontrollabile. Una creatura afflitta a questo modo è inabile e soffoca. Finché è cosciente, la creatura può ripetere il Tiro Salvezza alla fine di ciascun suo round, terminando l'effetto in caso lo superi. Anche l'incantesimo ristorare inferiore può terminare l'effetto che affligge la creatura.
 
 \index{Portale Cubico}\textbf{Portale Cubico}\\
 \textit{Oggetto meraviglioso, leggendario} - 40000 mo\\
 Questo cubo di 7,5 centimetri di spigolo irradia una palpabile energia magica. Le sei facce del cubo sono ciascuna collegata a un diverso piano di esistenza, uno dei quali è il Piano Materiale. Le altre facce sono collegate a piani determinati dal Narratore.\\
-Puoi usare due azioni per premere una faccia del cubo per lanciare tramite esso l'incantesimo portale, aprendo un passaggio verso il piano collegato a quella faccia. In alternativa, se usi due azioni per premere una faccia due volte, puoi lanciare l'incantesimo spostamento planare (DC del Tiro Salvezza 17) tramite il cubo e trasportarne i bersagli al piano collegato a quella faccia. Il cubo ha 3 cariche. Ogni uso del cubo spende 1 carica. Il cubo recupera 1d3 cariche spese ogni giorno all'alba.\\
+Puoi usare due azioni per premere una faccia del cubo per lanciare tramite esso l'incantesimo portale, aprendo un passaggio verso il piano collegato a quella faccia. In alternativa, se usi due azioni per premere una faccia due volte, puoi lanciare l'incantesimo spostamento planare (DC del Tiro Salvezza 17) tramite il cubo e trasportarne i bersagli al piano collegato a quella faccia. Il cubo ha 3 cariche. Ogni uso del cubo spende 1 carica. Il cubo recupera 1d3 cariche spese ogni giorno all'alba.
 
 \index{Pozione di Amicizia con gli Animali}\textbf{Pozione di Amicizia con gli Animali} \\
 \textit{Pozione, non comune} - 200 mo\\
-Quando bevi questa pozione, per 1 ora puoi lanciare a volontà l'incantesimo amicizia con gli animali (DC del Tiro Salvezza 15).\\
+Quando bevi questa pozione, per 1 ora puoi lanciare a volontà l'incantesimo amicizia con gli animali (DC del Tiro Salvezza 15).
 
 \index{Pozione di Arrampicata}\textbf{Pozione di Arrampicata}\\
 \textit{Pozione, comune} - 250 mo\\
-Quando bevi questa pozione, per 1 ora ottieni velocità di scalata pari alla tua velocità di passeggio. Durante questo periodo hai +1d6 alle prove di Resistenza che compi per effettuare una scalata.\\
+Quando bevi questa pozione, per 1 ora ottieni velocità di scalata pari alla tua velocità di passeggio. Durante questo periodo hai +1d6 alle prove di Resistenza che compi per effettuare una scalata.
 
 \index{Pozione di Chiaroveggenza}\textbf{Pozione di Chiaroveggenza}\\
 \textit{Pozione, raro} - 1000 mo\\
-Quando bevi questa pozione, ottieni l'effetto dell'incantesimo chiaroveggenza.\\
+Quando bevi questa pozione, ottieni l'effetto dell'incantesimo chiaroveggenza.
 
 \index{Pozione di Crescita}\textbf{Pozione di Crescita}\\
 \textit{Pozione, non comune} - 300 mo\\
-Quando bevi questa pozione, per 1d4 ore ottieni l'effetto "ingrandire" dell'incantesimo ingrandire/ridurre (non richiede concentrazione).\\
+Quando bevi questa pozione, per 1d4 ore ottieni l'effetto "ingrandire" dell'incantesimo ingrandire/ridurre (non richiede concentrazione).
 
 \index{Pozione di Eroismo}\textbf{Pozione di Eroismo}\\
 \textit{Pozione, raro} - 200\\
-Quando bevi questa pozione, ottieni 10 punti ferita temporanei che durano 1 ora. Per la stessa durata sei sotto l'effetto dell'incantesimo benedizione (non richiede concentrazione).\\
+Quando bevi questa pozione, ottieni 10 punti ferita temporanei che durano 1 ora. Per la stessa durata sei sotto l'effetto dell'incantesimo benedizione (non richiede concentrazione).
 
 \index{Pozione di Forma Gassosa}\textbf{Pozione di Forma Gassosa}\\
 \textit{Pozione, raro}\\
-Quando bevi questa pozione, per 1 ora o finché non terminerai l'effetto con due azioni ottieni l'effetto dell'incantesimo forma gassosa (non richiede concentrazione).\\
+Quando bevi questa pozione, per 1 ora o finché non terminerai l'effetto con due azioni ottieni l'effetto dell'incantesimo forma gassosa (non richiede concentrazione).
 
 \index{Pozione di Forza dei Giganti}\textbf{Pozione di Forza dei Giganti}\\
 \textit{Pozione, rarità varia}\\
@@ -13480,7 +13482,7 @@ La pozione della forza del gigante del gelo e la pozione della forza del gigante
 - Gigante di pietra o del gelo, Forza 6, Raro - 1000 mo\\
 - Gigante del fuoco, Forza 7, Raro - 2000 mo\\
 - Gigante delle nuvole, Forza 8, Molto raro - 5000 mo\\
-- Gigante delle tempeste, Forza 9, Leggendario - 10000 mo\\
+- Gigante delle tempeste, Forza 9, Leggendario - 10000 mo
 
 \index{Pozione di Guarigione}\textbf{Pozione di Guarigione}\\
 \textit{Pozione, rarità varia}\\
@@ -13492,92 +13494,91 @@ Quando bevi da questa pozione, recuperi un numero di punti ferita che varia a se
 	
 \index{Pozione di Invisibilità}\textbf{Pozione di Invisibilità}\\
 \textit{Pozione, molto raro} - 200 mo\\
-Quando bevi questa pozione, per 1 ora diventi invisibile. Mentre sei invisibile, tutto ciò che trasporti o indossi resta anch'esso invisibile assieme a te. L'effetto ha termine qualora tu attacchi o lanci un incantesimo. \\
+Quando bevi questa pozione, per 1 ora diventi invisibile. Mentre sei invisibile, tutto ciò che trasporti o indossi resta anch'esso invisibile assieme a te. L'effetto ha termine qualora tu attacchi o lanci un incantesimo. 
 
 \index{Pozione di Lettura del Pensiero}\textbf{Pozione di Lettura del Pensiero}\\
 \textit{Pozione, raro} - 200 mo\\
-Quando bevi questa pozione, ottieni l'effetto dell'incantesimo individuazione dei pensieri (DC del Tiro Salvezza 15). \\
+Quando bevi questa pozione, ottieni l'effetto dell'incantesimo individuazione dei pensieri (DC del Tiro Salvezza 15). 
 
 \index{Pozione di Resistenza}\textbf{Pozione di Resistenza}\\
 \textit{Pozione, non comune} - 300 mo\\
-Quando bevi questa pozione, per 1 ora ottieni resistenza a un tipo di danno. Il Narratore sceglie il tipo di danno o lo determina casualmente (Acido, Freddo, Fuoco, Forza, Fulmine, Vuoto, Veleno, Psichico, Luce, Tuono)\\
+Quando bevi questa pozione, per 1 ora ottieni resistenza a un tipo di danno. Il Narratore sceglie il tipo di danno o lo determina casualmente (Acido, Freddo, Fuoco, Forza, Fulmine, Vuoto, Veleno, Psichico, Luce, Tuono)
 
 \index{Pozione di Rimpicciolimento}\textbf{Pozione di Rimpicciolimento}\\
 \textit{Pozione, raro} - 300 mo\\
-Quando bevi questa pozione, per 1d4 ore ottieni l'effetto "ridurre" dell'incantesimo ingrandire/ridurre (non richiede concentrazione).\\
+Quando bevi questa pozione, per 1d4 ore ottieni l'effetto "ridurre" dell'incantesimo ingrandire/ridurre (non richiede concentrazione).
 
 \index{Pozione di Respirare Sott'Acqua}\textbf{Pozione di Respirare Sott'Acqua}\\
 \textit{Pozione, non comune} - 200 mo\\
-Dopo aver bevuto questa pozione, puoi respirare sott'acqua per 1 ora.\\
+Dopo aver bevuto questa pozione, puoi respirare sott'acqua per 1 ora.
 
 \index{Pozione di Veleno}\textbf{Pozione di Veleno}\\
 \textit{Pozione, non comune} - 100 mo\\
 Questo distillato assomiglia, odora e ha il sapore di una pozione di guarigione o di un'altra pozione benefica. Tuttavia è in realtà un veleno mascherato da magie di illusione. L'incantesimo identificare ne rivela la vera natura.\\
-Se lo bevi, subisci 3d6 danni da veleno, e devi superare un tiro Salvezza su Tempra con DC 15 o restare avvelenato. All'inizio di ciascun tuo round, finché resti avvelenato a questo modo, subisci 3d6 danni da veleno. Puoi ripetere il Tiro Salvezza al termine di ciascun tuo round. Se il Tiro Salvezza riesce, il danno da veleno subito nei turni successivi diminuisce di 1d6. Il veleno cessa i suoi effetti quando il danno scende a 0d6.\\
-Costo 250 mo.
+Se lo bevi, subisci 3d6 danni da veleno, e devi superare un tiro Salvezza su Tempra con DC 15 o restare avvelenato. All'inizio di ciascun tuo round, finché resti avvelenato a questo modo, subisci 3d6 danni da veleno. Puoi ripetere il Tiro Salvezza al termine di ciascun tuo round. Se il Tiro Salvezza riesce, il danno da veleno subito nei turni successivi diminuisce di 1d6. Il veleno cessa i suoi effetti quando il danno scende a 0d6.
 
 \index{Pozione di Velocità}\textbf{Pozione di Velocità}\\
 \textit{Pozione, molto raro} - 400 mo\\
-Quando bevi questa pozione, ottieni l'effetto dell'incantesimo velocità per 1 minuto (non richiede concentrazione).\\
+Quando bevi questa pozione, ottieni l'effetto dell'incantesimo velocità per 1 minuto (non richiede concentrazione).
 
 \index{Pozione di Volo}\textbf{Pozione di Volo}\\
 \textit{Pozione, molto raro} - 500 mo\\
-Quando bevi questa pozione, per 1 ora ottieni velocità di volo pari alla tua normale velocità di passeggio e puoi fluttuare. Se la pozione ha termine mentre stai volando, cadi a meno che non possiedi qualche altro metodo per restare in aria.\\
+Quando bevi questa pozione, per 1 ora ottieni velocità di volo pari alla tua normale velocità di passeggio e puoi fluttuare. Se la pozione ha termine mentre stai volando, cadi a meno che non possiedi qualche altro metodo per restare in aria.
 
 \index{Pozzo dei Molti Mondi}\textbf{Pozzo dei Molti Mondi}\\
 \textit{Oggetto meraviglioso, leggendario}\\
-Questo elegante tessuto nero, soffice come la seta, è avvolto fino alle dimensioni di un fazzoletto. Si dispiega in un foglio circolare di 1,8 metri di diametro. Puoi usare due azioni per dispiegare e piazzare il pozzo dei molti mondi su di una superficie solida, su cui crea un portale bidirezionale verso un altro mondo o piano di esistenza. Ogni volta che l'oggetto apre un portale, il Narratore decide il posto a cui conduce. Puoi usare due azioni per chiudere un portale aperto afferrando i margini del tessuto e ripiegandoli. Una volta che un pozzo dei molti mondi ha aperto un portale, non potrà farlo di nuovo prima che siano passate 1d8 ore.\\
+Questo elegante tessuto nero, soffice come la seta, è avvolto fino alle dimensioni di un fazzoletto. Si dispiega in un foglio circolare di 1,8 metri di diametro. Puoi usare due azioni per dispiegare e piazzare il pozzo dei molti mondi su di una superficie solida, su cui crea un portale bidirezionale verso un altro mondo o piano di esistenza. Ogni volta che l'oggetto apre un portale, il Narratore decide il posto a cui conduce. Puoi usare due azioni per chiudere un portale aperto afferrando i margini del tessuto e ripiegandoli. Una volta che un pozzo dei molti mondi ha aperto un portale, non potrà farlo di nuovo prima che siano passate 1d8 ore.
 
 \index{Pugnale del Veleno}\textbf{Pugnale del Veleno}\\
 \textit{Arma (pugnale), raro} - 3000 mo\\
 Hai un bonus di +1 ai Tiri per Colpire e tiri di danno per gli attacchi effettuati con quest'arma magica. \\
 Una volta al giorno, puoi usare due azioni per far sì che un denso veleno nero ricopra la lama. Il veleno resta per 1 minuto o finché non colpisci con un attacco usando quest'arma. Quando colpisci una creatura con il pugnale avvelenato, il bersaglio deve effettuare un tiro Salvezza su Tempra con DC 17.\\
 Se fallisce il Tiro Salvezza, il bersaglio diventa avvelenato per 1 minuto e subisce 2d10 danni da veleno. Il pugnale non può essere usato di nuovo a questo modo fino alla prossima
-alba.\\
+alba.
 
 \index{Sacro Vendicatore}\textbf{Sacro Vendicatore}\\
 \textit{Arma (qualsiasi spada), leggendario}\\
 Ottieni un bonus di +3 ai Tiri per Colpire e danno effettuati con quest'arma magica. Quando con essa colpisci un immondo o un non morto, quella creatura subisce 2d10 danni da Luce aggiuntivi.\\
-Mentre impugni la spada sguainata, essa crea un'aura di 3 metri di raggio attorno a te. Tu e tutte le creature a te amichevoli all'interno dell'aura ottenete +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici. Se hai CA 13 o più, il raggio dell'aura aumenta a 9 metri.\\
+Mentre impugni la spada sguainata, essa crea un'aura di 3 metri di raggio attorno a te. Tu e tutte le creature a te amichevoli all'interno dell'aura ottenete +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici. Se hai CA 13 o più, il raggio dell'aura aumenta a 9 metri.
 
 \index{Scarabeo di Protezione}\textbf{Scarabeo di Protezione}\\
 \textit{Anello, leggendario} - 36000 mo\\
 Se tieni questo medaglione a forma di scarabeo tra le tue mani per 1 round, su di esso compare un'iscrizione che ne rivela la natura magica. Mentre è addosso a te, fornisce due benefici:\\
 - Hai +1d6 ai Tiri Salvezza contro incantesimi.\\
-- Lo scarabeo ha 12 cariche. Se fallisci un Tiro Salvezza contro un incantesimo di necromanzia o un effetto nocivo originante da una creatura non morta, puoi usare la tua reazione per spendere 1 carica e trasformare il Tiro Salvezza fallito in un successo. Lo scarabeo si riduce in polvere ed è distrutto quando viene spesa la sua ultima carica.\\
+- Lo scarabeo ha 12 cariche. Se fallisci un Tiro Salvezza contro un incantesimo di necromanzia o un effetto nocivo originante da una creatura non morta, puoi usare la tua reazione per spendere 1 carica e trasformare il Tiro Salvezza fallito in un successo. Lo scarabeo si riduce in polvere ed è distrutto quando viene spesa la sua ultima carica.
 
 \index{Scimitarra di Velocità}\textbf{Scimitarra di Velocità}\\
 \textit{Arma (scimitarra), molto raro} - 9000 mo\\
-Ottieni un bonus di +2 all'iniziativa ed ai Tiri per Colpire, +1 al danno, con quest'arma magica. Inoltre, come azione immediata durante ciascun tuo round puoi effettuare un attacco aggiuntivo.\\
+Ottieni un bonus di +2 all'iniziativa ed ai Tiri per Colpire, +1 al danno, con quest'arma magica. Inoltre, come azione immediata durante ciascun tuo round puoi effettuare un attacco aggiuntivo.
 
 \index{Scopa Volante}\textbf{Scopa Volante}\\
 \textit{Oggetto meraviglioso, non comune} - 8000 mo\\
 Questa scopa di legno, del peso di circa 1,5 chili, funziona come una normale scopa fino a quando non vi siedi sopra e ne pronunci la parola di comando. Essa inizia così a fluttuare sotto di te e può essere cavalcata in aria. Ha velocità di volo 15 metri. Può trasportare fino a 200 chili, ma la sua velocità di volo diventa 9 metri se dovesse trasportare più di 100 chili. Quando atterri, la scopa smette di fluttuare.\\
-Pronunciando la parola di comando, nominando il posto e se vi sei familiare, puoi inviare la scopa da sola in un posto fino a 1,5 chilometri da te. La scopa tornerà da te quando pronuncerai un'altra parola di comando, purché si trovi ancora entro 1,5 chilometri da te.\\
+Pronunciando la parola di comando, nominando il posto e se vi sei familiare, puoi inviare la scopa da sola in un posto fino a 1,5 chilometri da te. La scopa tornerà da te quando pronuncerai un'altra parola di comando, purché si trovi ancora entro 1,5 chilometri da te.
 
 \index{Scudo Magico}\textbf{Scudo} +1, +2, +3, +4, +5\\
 \textit{Scudi (piccoli, medi, pesanti)}: +1 1500 mo, +2 4000 mo, +3 9000 mo, +4 20000 mo, +5 35000 mo\\
 Mentre impugni questo scudo, hai un bonus alla Difesa determinato dal bonus magico dello scudo. Questo bonus è in aggiunta al normale bonus alla Difesa fornito dallo scudo. 
-Ogni +1 magico si abbassa di 1 il malus alla prova di CM.\\
+Ogni +1 magico si abbassa di 1 il malus alla prova di CM.
 
 \index{Scudo Afferra Frecce}\textbf{Scudo Afferra Frecce}\\
 \textit{Armatura (scudo), raro}\\
-Mentre impugni questo scudo, hai un bonus di +2 alla Difesa contro gli attacchi a distanza. Questo bonus è in aggiunta al normale bonus dello scudo alla Difesa. Inoltre, ogni volta che una creatura effettua un attacco a distanza contro un bersaglio entro 1,5 metri da te, puoi usare la tua reazione per divenire il bersaglio dell'attacco.\\
+Mentre impugni questo scudo, hai un bonus di +2 alla Difesa contro gli attacchi a distanza. Questo bonus è in aggiunta al normale bonus dello scudo alla Difesa. Inoltre, ogni volta che una creatura effettua un attacco a distanza contro un bersaglio entro 1,5 metri da te, puoi usare la tua reazione per divenire il bersaglio dell'attacco.
 
 \index{Scudo Animato}\textbf{Scudo Animato}\\
 \textit{Armatura (scudo), molto raro} - 6000 mo\\
 Mentre impugni questo scudo, con due azioni puoi pronunciare una parola di comando e farlo animare. Lo scudo fluttuerà nell'aria all'interno del tuo spazio per proteggerti come se lo stessi impugnando, lasciandoti libera la mano.\\
-Lo scudo resta animato per 1 minuto, finché non usi due azioni per terminarne l'effetto, sei inabile o muori: a quel punto lo scudo cadrà a terra o tornerà nella tua mano se ne hai una libera. \\
+Lo scudo resta animato per 1 minuto, finché non usi due azioni per terminarne l'effetto, sei inabile o muori: a quel punto lo scudo cadrà a terra o tornerà nella tua mano se ne hai una libera. 
 
 \index{Scudo dell'Attrazione dei Proiettili}\textbf{Scudo dell'Attrazione dei Proiettili}\\
 \textit{Armatura (scudo), raro} - 2000 mo\\
 Mentre impugni questo scudo apparentemente hai resistenza ai danni da parte degli attacchi con arma a distanza. \\
 \textit{Maledizione} Questo scudo è maledetto. \\
-Togliersi lo scudo non pone fine alla maledizione. Ogni qualvolta un attacco con arma a distanza viene effettuato contro un bersaglio entro 3 metri da te, la maledizione fa sì che diventi tu il bersaglio dell'attacco. \\
+Togliersi lo scudo non pone fine alla maledizione. Ogni qualvolta un attacco con arma a distanza viene effettuato contro un bersaglio entro 3 metri da te, la maledizione fa sì che diventi tu il bersaglio dell'attacco. 
 
 \index{Scudo di Difesa dagli Incantesimi}\textbf{Scudo di Difesa dagli Incantesimi}\\
 \textit{Armatura (scudo), molto raro} - 50000 mo\\
-Mentre impugni questo scudo, hai +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici, e gli attacchi con incantesimo subiscono -1d6 quando effettuati contro di te.\\
+Mentre impugni questo scudo, hai +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici, e gli attacchi con incantesimo subiscono -1d6 quando effettuati contro di te.
 
 \index{Sfera dell'Annientamento}\textbf{Sfera dell'Annientamento}\\
 \textit{Oggetto meraviglioso, leggendario}\\
@@ -13600,21 +13601,21 @@ Se la sfera entra in contatto con un portale planare, come quello creato dall'in
 
 \index{Solvente Universale}\textbf{Solvente Universale}\\
 \textit{Oggetto meraviglioso, leggendario} - 300 mo\\
-Questo tubetto contiene un liquido bianco con un forte odore di alcool. Puoi usare due azioni per versarne i contenuti su di una superficie a portata. Il liquido dissolve istantaneamente 1.000 cm2 di adesivo con cui entra in contatto, compresa la colla suprema.\\
+Questo tubetto contiene un liquido bianco con un forte odore di alcool. Puoi usare due azioni per versarne i contenuti su di una superficie a portata. Il liquido dissolve istantaneamente 1.000 cm2 di adesivo con cui entra in contatto, compresa la colla suprema.
 
 \index{Spada dell'Affilatezza}\textbf{Spada dell'Affilatezza}\\
 \textit{Arma (qualsiasi spada che infligga danni taglienti), molto raro } + 15000 mo\\
 Quando attacchi un oggetto con quest'arma magica e colpisci, massimizza i dadi di danno della tua arma contro il bersaglio.\\
 Quando attacchi una creatura con quest'arma e fai un critico al Tiro per Colpire, il bersaglio subisce 14 danni taglienti aggiuntivi. Se effettui due critici recidi uno degli arti del bersaglio: l'effetto di questa perdita è determinato dal Narratore. Se la creatura non ha arti da recidere, verrà tagliata una parte del suo corpo.\\
 Inoltre, puoi pronunciare la parola di comando della spada per far sì che la lama irradi luce intensa in un raggio di 3 metri e luce fioca per ulteriori 3 metri.\\
-Pronunciando di nuovo la parola di comando o rinfoderando la spada, la luce si spegne.\\
+Pronunciando di nuovo la parola di comando o rinfoderando la spada, la luce si spegne.
 
 \index{Spada Danzante}\textbf{Spada Danzante}\\
 \textit{Arma (qualsiasi spada), molto raro} + 3000 mo\\
 Puoi usare due azioni per scagliare questa spada magica nell'aria e pronunciare la parola di comando.\\
 Quando lo fai, la spada inizia a fluttuare, vola fino a 9 metri, e attacca una creatura a tua scelta entro 1,5 metri da essa. La spada usa il tuo Tiro per Colpire e il la tua Forza per il danno.\\
 Mentre la spada fluttua, puoi usare due azioni per farla volare di massimo 9 metri verso un altro punto entro 9 metri da te. Come parte della stessa azione, puoi far sì che la spada attacchi una creatura entro 1,5 metri da essa.\\
-Dopo che la spada fluttuante avrà attaccato per la quarta volta, volerà per un massimo di 9 metri e cercherà di tornare tra le tue mani. Se non hai mani libere, la spada cadrà sul terreno ai tuoi piedi. Se la spada non ha strada libera verso di te, si muoverà più vicino possibile a te e poi cadrà a terra. Cesserà di fluttuare anche nel caso in cui tu la afferri o ti allontani più di 9 metri da essa.\\
+Dopo che la spada fluttuante avrà attaccato per la quarta volta, volerà per un massimo di 9 metri e cercherà di tornare tra le tue mani. Se non hai mani libere, la spada cadrà sul terreno ai tuoi piedi. Se la spada non ha strada libera verso di te, si muoverà più vicino possibile a te e poi cadrà a terra. Cesserà di fluttuare anche nel caso in cui tu la afferri o ti allontani più di 9 metri da essa.
 
 \index{Spada Ruba Vita}\textbf{Spada Ruba Vita}\\
 \textit{Arma (qualsiasi spada), raro} + 5000 mo\\
@@ -13623,13 +13624,13 @@ Quando attacchi una creatura con quest'arma magica e ottieni un critico al Tiro 
 \index{Spada del Sanguinamento}\textbf{Spada del Sanguinamento}\\
 \textit{Arma (qualsiasi spada), raro} + 15000 mo\\
 I punti ferita persi a causa dei danni di quest'arma, possono essere recuperati solo tramite riposo naturale, anziché tramite la rigenerazione, la magia o altri metodi.\\
-Una volta per round, quando colpisci una creatura con un attacco usando quest'arma magica, puoi far sanguinare il bersaglio. All'inizio di ciascun round della creatura sanguinante, essa subisce 1d4 danni da sanguinamento per ogni volta che l'hai ferita a questo modo, ed essa può effettuare un tiro Salvezza su Tempra con DC 17, terminando l'effetto su tutte le ferite sanguinanti in caso di successo. In alternativa, la creatura sanguinante, o una creatura entro 1,5 metri da essa, può usare due azioni per effettuare una prova di Pronto Soccorso con DC 17, terminando l'effetto del sanguinamento in caso la superi.\\
+Una volta per round, quando colpisci una creatura con un attacco usando quest'arma magica, puoi far sanguinare il bersaglio. All'inizio di ciascun round della creatura sanguinante, essa subisce 1d4 danni da sanguinamento per ogni volta che l'hai ferita a questo modo, ed essa può effettuare un tiro Salvezza su Tempra con DC 17, terminando l'effetto su tutte le ferite sanguinanti in caso di successo. In alternativa, la creatura sanguinante, o una creatura entro 1,5 metri da essa, può usare due azioni per effettuare una prova di Pronto Soccorso con DC 17, terminando l'effetto del sanguinamento in caso la superi.
 
 \index{Spada Vorpal}\textbf{Spada Vorpal}
 \textit{Arma (qualsiasi spada che infligga danni taglienti), leggendario}\\
 Ottieni un bonus di +5 ai Tiri per Colpire e danno effettuati con quest'arma magica. Inoltre, l'arma ignora la resistenza ai danni taglienti. Quando attacchi una creatura che abbia almeno una testa con quest'arma e ottieni un critico al Tiro per Colpire, tagli una delle teste della creatura. La creatura muore se non può sopravvivere senza la perdita della testa.\\
 Una creatura è immune a questo effetto se è immune ai danni taglienti, non possiede o non ha bisogno di una testa o il Narratore decide che la creatura è troppo grossa perché la sua testa sia recisa da quest'arma. \\
-Una creatura del genere subisce invece 6d8 danni taglienti aggiuntivi dal colpo subito. \\
+Una creatura del genere subisce invece 6d8 danni taglienti aggiuntivi dal colpo subito. 
 
 \index{Specchio Intrappola Vita}\textbf{Specchio Intrappola Vita}\\
 \textit{Oggetto meraviglioso, molto raro} - 18000 mo\\
@@ -13639,58 +13640,58 @@ Qualsiasi creatura, a parte te, che veda il suo riflesso nello specchio attivato
 Una cella extradimensionale è uno spazio infinito colmo di una densa foschia che riduce la visibilità a 3 metri. Le creature intrappolate nelle celle dello specchio non invecchiano, e non hanno bisogno di mangiare, bere o dormire. Una creatura intrappolata all'interno di una cella può fuggirne usando la magia che permette di viaggiare tra i piani. Altrimenti, la creatura è confinata nella cella fino a quando non sarà liberata.\\
 Se lo specchio intrappola una creatura ma le sue dodici celle extradimensionali sono già occupate, lo specchio libera una delle creature intrappolate a caso per alloggiare il nuovo prigioniero. La creatura liberata compare in uno spazio non occupato in vista dello specchio ma rivolta dalla parte opposta. Se lo specchio viene infranto, tutte le creature che contiene sono liberate e ricompaiono in uno spazio non occupato in sua prossimità.\\
 Mentre ti trovi entro 1,5 metri dallo specchio, puoi usare due azioni per pronunciare il nome di una delle creature intrappolate al suo interno o richiamare un particolare numero di cella. La creatura nominata o contenuta nella cella nominata appare come immagine sulla superficie dello specchio. Dopodiché tu e la creatura nominata potete comunicare normalmente.\\
-In un modo simile, puoi usare due azioni per pronunciare una seconda parola di comando e liberare una delle creature intrappolate nello specchio. La creatura liberata compare, insieme a tutte le sue proprietà, nello spazio non occupato più vicino allo specchio e rivolta nella direzione opposta a esso. \\
+In un modo simile, puoi usare due azioni per pronunciare una seconda parola di comando e liberare una delle creature intrappolate nello specchio. La creatura liberata compare, insieme a tutte le sue proprietà, nello spazio non occupato più vicino allo specchio e rivolta nella direzione opposta a esso. 
 
 \index{Spilla della Difesa}\textbf{Spilla della Difesa}\\
 \textit{Oggetto meraviglioso, non comune} - 7500 mo\\
-Mentre indossi questa spilla, hai resistenza ai danni da forza, e hai immunità al danno generato dall'incantesimo dardo incantato.\\
+Mentre indossi questa spilla, hai resistenza ai danni da forza, e hai immunità al danno generato dall'incantesimo dardo incantato.
 
 \index{Stivali Alati}\textbf{Stivali Alati}\\
 \textit{Oggetto meraviglioso, non comune}\\
 Mentre indossi questi stivali, hai una velocità di volo pari alla tua velocità di passeggio. Puoi usare questi stivali per volare per un massimo di 4 ore, tutte insieme o divise in brevi voli, ciascuno dei quali impiega un minimo di 1 minuto di durata. Se la durata termina mentre stai volando, scendi alla velocità di 9 metri per round finché non atterri.\\
-Gli stivali recuperano 2 ore di capacità di volo ogni 12 ore che non sono in uso. \\
+Gli stivali recuperano 2 ore di capacità di volo ogni 12 ore che non sono in uso. 
 
 \index{Stivali della Corsa e del Salto}\textbf{Stivali della Corsa e del Salto}\\
 \textit{Oggetto meraviglioso, non comune} - 5000 mo\\
 Mentre indossi questi stivali, la tua velocità di passeggio diventa 9 metri, a meno che non sia superiore, e la tua velocità non viene ridotta qualora tu sia ingombrato o stia indossando un'armatura pesante. \\
-Inoltre, salti tre volte la normale distanza, fino ad un massimo di 9 metri.\\
+Inoltre, salti tre volte la normale distanza, fino ad un massimo di 9 metri.
 
 \index{Stivali degli Elfi}\textbf{Stivali degli Elfi}\\
 \textit{Oggetto meraviglioso, non comune} - 3000 mo\\
-Mentre indossi questi stivali, i tuoi passi non emettono suoni, quale che sia la superficie che stai attraversando. Hai +1d6 alle prove di Destrezza che si basano sul muoversi silenziosamente.\\
+Mentre indossi questi stivali, i tuoi passi non emettono suoni, quale che sia la superficie che stai attraversando. Hai +1d6 alle prove di Destrezza che si basano sul muoversi silenziosamente.
 
 \index{Stivali dell'Inverno}\textbf{Stivali dell'Inverno}\\
 \textit{Oggetto meraviglioso, non comune} - 10000 mo\\
 Mentre indossi questi stivali, ottieni i seguenti benefici:\\
 - Hai resistenza ai danni da freddo.\\
 - Ignori il terreno difficile prodotto da neve o ghiaccio.\\
-- Puoi tollerare le temperature fino ai -45° C senza bisogno di ulteriori protezioni. Se indossi abiti pesanti, puoi tollerare temperature fino a -75° C.\\
+- Puoi tollerare le temperature fino ai -45° C senza bisogno di ulteriori protezioni. Se indossi abiti pesanti, puoi tollerare temperature fino a -75° C.
 
 \index{Stivali della Levitazione}\textbf{Stivali della Levitazione}\\
 \textit{Oggetto meraviglioso, raro} - 5000 mo\\
-Mentre indossi questi stivali, puoi usare a volontà due azioni per lanciare l'incantesimo levitazione su di te.\\
+Mentre indossi questi stivali, puoi usare a volontà due azioni per lanciare l'incantesimo levitazione su di te.
 
 \index{Stivali della Velocità}\textbf{Stivali della Velocità}\\
 \textit{Oggetto meraviglioso} - 5000 mo\\
 Mentre indossi questi stivali, puoi usare due azioni per raddoppiare la tua velocità di passeggio, e qualsiasi creatura che effettui un attacco di opportunità contro di te, ha -1d6 al Tiro per Colpire. Puoi terminare l'effetto quando vuoi.\\
-Quando la proprietà degli stivali è stata usata per un totale di 10 minuti, la magia cessa di funzionare fino all'arrivo della prossima alba. \\
+Quando la proprietà degli stivali è stata usata per un totale di 10 minuti, la magia cessa di funzionare fino all'arrivo della prossima alba. 
 
 \index{Talismano di Protezione dal Veleno}\textbf{Talismano di Protezione dal Veleno}\\
 \textit{Oggetto meraviglioso, raro} - 5000 mo\\
-Mentre indossi questo pendente i veleni non hanno alcun effetto su di te. Sei immune alla condizione avvelenato e hai immunità ai danni da veleno. \\
+Mentre indossi questo pendente i veleni non hanno alcun effetto su di te. Sei immune alla condizione avvelenato e hai immunità ai danni da veleno. 
 
 \index{Talismano della Salute}\textbf{Talismano della Salute}\\
 \textit{Oggetto meraviglioso, non comune} - 5000 mo\\
-Mentre indossi questo pendente sei immune alla possibilità di contrarre qualsiasi malattia. Se sei già infetto da una malattia, i suoi effetti vengono sospesi finché indossi questo pendente.\\
+Mentre indossi questo pendente sei immune alla possibilità di contrarre qualsiasi malattia. Se sei già infetto da una malattia, i suoi effetti vengono sospesi finché indossi questo pendente.
 
 \index{Talismano della Sfera}\textbf{Talismano della Sfera}\\
 \textit{Oggetto meraviglioso, leggendario}\\
-Quando effettui una prova di Arcana controllare una sfera dell'annientamento mentre stai impugnando questo talismano hai un bonus di 5. Inoltre, quando inizi il round con il controllo di una sfera dell'annientamento, puoi usare due azioni per farla levitare di 3 metri più un numero di metri aggiuntivi pari a 3 x il tuo valore di Intelligenza.\\
+Quando effettui una prova di Arcana controllare una sfera dell'annientamento mentre stai impugnando questo talismano hai un bonus di 5. Inoltre, quando inizi il round con il controllo di una sfera dell'annientamento, puoi usare due azioni per farla levitare di 3 metri più un numero di metri aggiuntivi pari a 3 x il tuo valore di Intelligenza.
 
 \index{Tappeto Volante}\textbf{Tappeto Volante}\\
 \textit{Oggetto meraviglioso, molto raro} - 15000 mo\\
 Puoi pronunciare la parola di comando del tappeto con due azioni per far fluttuare e volare il tappeto. Esso si muove in base alle direzioni indicategli a voce, purché ti trovi entro 9 metri da esso.\\
-Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del tappeto o la determina casualmente.\\
+Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del tappeto o la determina casualmente.
 
 \medskip
 
@@ -13704,42 +13705,42 @@ d100 &Taglia &Capacità &Velocità di Volo\\
 
 \medskip
 
-Il tappeto può trasportare fino al doppio del peso indicato sulla tabella, ma vola a velocità dimezzata se trasporta più della sua capacità di carico.\\
+Il tappeto può trasportare fino al doppio del peso indicato sulla tabella, ma vola a velocità dimezzata se trasporta più della sua capacità di carico.
 
 \index{Tomo dell'Autorità e dell'Influenza}\textbf{Tomo dell'Autorità e dell'Influenza}\\
 \textit{Oggetto meraviglioso, molto raro}\\
-Questo libro contiene indicazioni su come influenzare e affascinare il prossimo, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Carisma aumenta di 1. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.\\
+Questo libro contiene indicazioni su come influenzare e affascinare il prossimo, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Carisma aumenta di 1. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.
 
 \index{Tomo della Comprensione}\textbf{Tomo della Comprensione}\\
 \textit{Oggetto meraviglioso, molto raro}\\
-Questo libro contiene esercizi di intuizione e discernimento, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Saggezza aumenta di 1, e così fa il tuo punteggio massimo per quella caratteristica. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.\\
+Questo libro contiene esercizi di intuizione e discernimento, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Saggezza aumenta di 1, e così fa il tuo punteggio massimo per quella caratteristica. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.
 
 \index{Tomo del Pensiero Limpido}\textbf{Tomo del Pensiero Limpido}\\
 \textit{Oggetto meraviglioso, molto raro}\\
-Questo libro contiene esercizi di memoria e logica, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Intelligenza aumenta di 1. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.\\
+Questo libro contiene esercizi di memoria e logica, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Intelligenza aumenta di 1. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.
 
 \index{Tridente del Comando dei Pesci}\textbf{Tridente del Comando dei Pesci}\\
 \textit{Arma (tridente), non comune} - 1000 mo\\
-Questo tridente è un'arma magica. Finché lo porti con te, puoi usare due azioni e spendere 1 carica per lanciare tramite esso dominare bestie (DC del Tiro Salvezza 15) su di una bestia che abbia una velocità di nuoto innata. Il tridente ha 3 cariche, e recupera 1d3 cariche spese ogni giorno all'alba.\\
+Questo tridente è un'arma magica. Finché lo porti con te, puoi usare due azioni e spendere 1 carica per lanciare tramite esso dominare bestie (DC del Tiro Salvezza 15) su di una bestia che abbia una velocità di nuoto innata. Il tridente ha 3 cariche, e recupera 1d3 cariche spese ogni giorno all'alba.
 
 \index{Unguento Ristorativo}\textbf{Unguento Ristorativo}\\
 \textit{Oggetto meraviglioso, non comune} - 5000 mo\\
-Questa giara di vetro, 7,5 centimetri di diametro, contiene 1d4 + 1 dosi di una densa mistura. La giara e i suoi contenuti pesano 250 grammi. Con due azioni, si può inghiottire o applicare sulla pelle una dose di unguento. La creatura che lo riceve recupera 2d8 + 2 punti ferita, smette di essere avvelenata e viene curata da qualsiasi malattia.\\
+Questa giara di vetro, 7,5 centimetri di diametro, contiene 1d4 + 1 dosi di una densa mistura. La giara e i suoi contenuti pesano 250 grammi. Con due azioni, si può inghiottire o applicare sulla pelle una dose di unguento. La creatura che lo riceve recupera 2d8 + 2 punti ferita, smette di essere avvelenata e viene curata da qualsiasi malattia.
 
 \index{Ventaglio Arcano}\textbf{Ventaglio Arcano}\\
 \textit{Oggetto meraviglioso, non comune} - 1500 mo\\
 Mentre impugni questo ventaglio, puoi usare due azioni per lanciare tramite esso l'incantesimo folata di vento (DC del Tiro Salvezza 15). Una volta usato, il ventaglio
-non dovrebbe essere usato di nuovo fino alla prossima alba. Ogni volta che venga usato prima di allora, c'è una probabilità cumulativa del 20\% che non funzioni e si rompa in inutili brandelli privi di magia. \\
+non dovrebbe essere usato di nuovo fino alla prossima alba. Ogni volta che venga usato prima di allora, c'è una probabilità cumulativa del 20\% che non funzioni e si rompa in inutili brandelli privi di magia. 
 
 \index{Verga dell'Assorbimento}\textbf{Verga dell'Assorbimento}\\
 \textit{Verga, molto raro} - 50000 mo\\
 Mentre impugni questa verga, puoi usare una Azione per assorbire un incantesimo che prenda come bersaglio solo te e privo di un'area di effetto. L'effetto dell'incantesimo assorbito è cancellato, e l'energia dell'incantesimo (non l'incantesimo stesso) viene assorbita dalla verga. Nel corso della sua esistenza la verga può assorbire e contenere fino ad una somma di 120 Difficoltà di incantesimi. Una volta che la verga ha assorbito 8 incantesimi (max Difficoltà 18), non ne potrà più assorbire. Se sei il bersaglio di un incantesimo che la verga non può contenere, la verga non ha alcun effetto sull'incantesimo. \\
 Quando prendi in mano la verga, sai quanti incantesimi la verga ha assorbito finora.\\
-Se sei un incantatore e impugni la verga, puoi convertire l'energia contenuta per avere +1d6 alla prova di magia per incantesimo assorbito.\\
+Se sei un incantatore e impugni la verga, puoi convertire l'energia contenuta per avere +1d6 alla prova di magia per incantesimo assorbito.
 
 \index{Verga Inamovibile}\textbf{Verga Inamovibile}\\
 \textit{Verga, non comune} - 5000 mo\\
-Questa verga di ferro piatta ha un pulsante a un'estremità. Puoi usare due azioni per premere il pulsante, che fa sì che la verga resti magicamente fissata sul posto. Fino a quando tu o un'altra creatura userete due azioni per premere di nuovo il pulsante, la verga non si muoverà, anche se dovesse sfidare la gravità. La verga può sostenere fino a 4.000 chili di peso. Un peso maggiore fa sì che la verga si disattivi e cada. Una creatura può usare due azioni per effettuare una prova di Forza con DC 30, spostando la verga di 3 metri in caso di successo.\\
+Questa verga di ferro piatta ha un pulsante a un'estremità. Puoi usare due azioni per premere il pulsante, che fa sì che la verga resti magicamente fissata sul posto. Fino a quando tu o un'altra creatura userete due azioni per premere di nuovo il pulsante, la verga non si muoverà, anche se dovesse sfidare la gravità. La verga può sostenere fino a 4.000 chili di peso. Un peso maggiore fa sì che la verga si disattivi e cada. Una creatura può usare due azioni per effettuare una prova di Forza con DC 30, spostando la verga di 3 metri in caso di successo.
 
 \index{Verga della Forza Sovrana}\textbf{Verga della Forza Sovrana}\\
 \textit{Verga, leggendario} - 30000 mo\\
@@ -13751,32 +13752,32 @@ Se premi il \textit{pulsante 3}, la testa flangiata della verga si ripiega, e un
 Se premi il \textit{pulsante 4}, la verga si trasforma in un'asta per scalare lunga fino a 15 metri, come specificato da te. Sulle superfici dure come il granito, uno spuntone sul fondo e tre in cima tengono l'asta fissa sul posto. Sbarre orizzontali lunghe 7,5 centimetri si dipanano lungo i lati della verga, a 30 centimetri di distanza l'uno dall'altro, per formare una scala. L'asta può sostenere 2.000 chili. Un peso superiore o la mancanza di un ancoraggio solido fa sì che la verga torni alla sua forma normale.\\\
 Se premi il \textit{pulsante 5}, la verga si trasforma in un ariete da sfondamento e conferisce a chi lo usa un bonus di +10 alle prove di Forza effettuate per sfondare porte, barricate o altre barriere.\\
 Se premi il \textit{pulsante 6}, la verga assume o rimane nella sua forma normale e indica il nord magnetico (non accade nulla se questa funzione della verga viene impiegata in zone prive di un nord magnetico). La verga ti fornisce anche un'approssimativa conoscenza della profondità sottoterra e della tua altezza sul livello del mare. Risucchiare Vita. Quando colpisci una creatura con un attacco in mischia utilizzando la verga, puoi obbligare il bersaglio a effettuare un tiro Salvezza su Tempra con DC 21. Se lo fallisce, il bersaglio subisce 4d6 danni da Vuoto aggiuntivi, e tu recuperi un numero di punti ferita pari alla metà del danno da Vuoto inflitto. Una volta usata, questa proprietà non più essere usata fino all'alba del giorno successivo.\\
-\textbf{Paralizzare}. Quando colpisci una creatura con un attacco da mischia utilizzando la verga, puoi obbligare il bersaglio a effettuare un Tiro Salvezza su Tempra con DC 21. Se lo fallisce, il bersaglio è paralizzato per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. Una volta usata, questa proprietà non può più essere usata fino all'alba del giorno successivo. Terrorizzare. Mentre impugni questa verga, puoi obbligare ogni creatura che vedi entro 9 metri da te a effettuare un Tiri Salvezza su Volontà con DC 21. Se lo fallisce, il bersaglio è spaventato da te per 1 minuto. Il bersaglio spaventato può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. Una volta usata, questa proprietà non può più essere usata fino all'alba del giorno successivo.\\
+\textbf{Paralizzare}. Quando colpisci una creatura con un attacco da mischia utilizzando la verga, puoi obbligare il bersaglio a effettuare un Tiro Salvezza su Tempra con DC 21. Se lo fallisce, il bersaglio è paralizzato per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. Una volta usata, questa proprietà non può più essere usata fino all'alba del giorno successivo. Terrorizzare. Mentre impugni questa verga, puoi obbligare ogni creatura che vedi entro 9 metri da te a effettuare un Tiri Salvezza su Volontà con DC 21. Se lo fallisce, il bersaglio è spaventato da te per 1 minuto. Il bersaglio spaventato può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. Una volta usata, questa proprietà non può più essere usata fino all'alba del giorno successivo.
 
 \index{Verga della Prontezza}\textbf{Verga della Prontezza}\\
 \textit{Verga, molto raro} - 25000 mo\\
 Questa verga dalla testa flangiata ha le seguenti proprietà.\\
 \textit{Prontezza}. Mentre impugni questa verga, hai +1d6 alle prove di Saggezza e ai tiri di iniziativa. Incantesimi. Mentre impugni questa verga, puoi usare due azioni per lanciare tramite essa uno dei seguenti incantesimi: individuazione del bene e del male, individuazione del magico, individuazione del veleno e delle malattie o vedere invisibilità.\\
-\textit{Aura Protettiva}. Con due azioni, puoi piantare l'estremità appuntita della verga nel terreno. A quel punto la testa della verga irradierà luce intensa in un raggio di 18 metri e luce fioca per ulteriori 18 metri. All'interno di questa luce intensa, tu e qualsiasi creatura a te amichevole otterrete un bonus di +1 alla Difesa e ai Tiri Salvezza e potrete percepire la posizione di qualsiasi creatura invisibile ostile che si trovi anch'essa all'interno della luce intensa. La testa della verga smette di emettere luce e termina l'effetto dopo 10 minuti, o quando una creatura usa due azioni per estrarre la verga dal terreno. Questa proprietà non può essere usata di nuovo fino all'alba del giorno successivo.\\
+\textit{Aura Protettiva}. Con due azioni, puoi piantare l'estremità appuntita della verga nel terreno. A quel punto la testa della verga irradierà luce intensa in un raggio di 18 metri e luce fioca per ulteriori 18 metri. All'interno di questa luce intensa, tu e qualsiasi creatura a te amichevole otterrete un bonus di +1 alla Difesa e ai Tiri Salvezza e potrete percepire la posizione di qualsiasi creatura invisibile ostile che si trovi anch'essa all'interno della luce intensa. La testa della verga smette di emettere luce e termina l'effetto dopo 10 minuti, o quando una creatura usa due azioni per estrarre la verga dal terreno. Questa proprietà non può essere usata di nuovo fino all'alba del giorno successivo.
 
 \index{Verga della Sicurezza}\textbf{Verga della Sicurezza}\\
 \textit{Verga, molto raro} - 90000 mo\\
 Mentre impugni questa verga, puoi usare due azioni per attivarla. Di conseguenza la verga trasporta te e fino ad altre 199 altre creature consenzienti visibili in un paradiso collocato in uno spazio extraplanare. Sarai tu a scegliere la forma di questo paradiso. Potrebbe essere un placido giardino, una gradevole radura, un'allegra taverna, un immenso palazzo, un'isola tropicale, o una fantastica fiera o qualsiasi altra cosa tu riesca a immaginare. Quale che sia la sua natura, il paradiso contiene cibo e bevande sufficienti ad alimentare i suoi visitatori. Tutto ciò con cui si può interagire nello spazio extraplanare può esistere solo al suo interno.\\
 Per ogni ora trascorsa in questo paradiso, un visitatore recupera punti ferita come se avesse speso 1 Dado Vita. Inoltre, finché le creature restano nel paradiso non invecchiano, sebbene il tempo trascorra normalmente. I visitatori possono restare nel paradiso per un massimo di 200 giorni diviso il numero di creature presenti (arrotondare per difetto). \\
-Quando il tempo termina o usi due azioni per farlo terminare, tutti i visitatori ricompaiono nel luogo da loro occupato quando hai attivato la verga, o nello spazio non occupato più vicino a quello. La verga non potrà essere usata di nuovo prima che siano passati dieci giorni.\\
+Quando il tempo termina o usi due azioni per farlo terminare, tutti i visitatori ricompaiono nel luogo da loro occupato quando hai attivato la verga, o nello spazio non occupato più vicino a quello. La verga non potrà essere usata di nuovo prima che siano passati dieci giorni.
 
 \index{Verga della Sovranità}\textbf{Verga della Sovranità}\\
 \textit{Verga, raro} - 16000 mo\\
-Puoi usare due azioni e presentare la verga e richiedere obbedienza a ciascuna creatura visibile entro 36 metri da te di tua scelta. Ogni bersaglio deve superare un Tiri Salvezza su Volontà con DC 17 o restare affascinato da te per 8 ore. Mentre è affascinata in questa maniera, la creatura ti considera un capo fidato. Se le viene recato danno da te o dai tuoi compagni, o le viene ordinato di fare qualcosa contrario alla sua natura, il bersaglio smetterà di essere affascinato in questa maniera. La verga non può essere usata di nuovo prima della prossima alba.\\
+Puoi usare due azioni e presentare la verga e richiedere obbedienza a ciascuna creatura visibile entro 36 metri da te di tua scelta. Ogni bersaglio deve superare un Tiri Salvezza su Volontà con DC 17 o restare affascinato da te per 8 ore. Mentre è affascinata in questa maniera, la creatura ti considera un capo fidato. Se le viene recato danno da te o dai tuoi compagni, o le viene ordinato di fare qualcosa contrario alla sua natura, il bersaglio smetterà di essere affascinato in questa maniera. La verga non può essere usata di nuovo prima della prossima alba.
 
 \index{Verga Tentacolare}\textbf{Verga Tentacolare}\\
 \textit{Verga, raro} - 5000 mo\\
-Questa verga è un'arma magica che termina in tre tentacoli gommosi. Mentre impugni la verga, puoi usare due azioni per dirigere ciascun tentacolo per attaccare una creatura visibile entro 4,5 metri da te. Ogni tentacolo effettua un Tiro per Colpire da mischia con un bonus di +9. Se colpisci, il tentacolo infligge 1d6 danni contundenti. Se colpisci un bersaglio con tutti e tre i tentacoli, esso deve effettuare un Tiro Salvezza di Costituzione con DC 15. Se lo fallisce, la velocità della creatura è dimezzata, ha s+1d6 ai Tiri Salvezza di Riflessi, e per 1 minuto non può usare le sue reazioni. Inoltre, durante ciascun suo round, egli può effettuare due azioni o due azioni ma non entrambe. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi.\\
+Questa verga è un'arma magica che termina in tre tentacoli gommosi. Mentre impugni la verga, puoi usare due azioni per dirigere ciascun tentacolo per attaccare una creatura visibile entro 4,5 metri da te. Ogni tentacolo effettua un Tiro per Colpire da mischia con un bonus di +9. Se colpisci, il tentacolo infligge 1d6 danni contundenti. Se colpisci un bersaglio con tutti e tre i tentacoli, esso deve effettuare un Tiro Salvezza di Costituzione con DC 15. Se lo fallisce, la velocità della creatura è dimezzata, ha s+1d6 ai Tiri Salvezza di Riflessi, e per 1 minuto non può usare le sue reazioni. Inoltre, durante ciascun suo round, egli può effettuare due azioni o due azioni ma non entrambe. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi.
 
 
 \index{Vestaglia dei Colori Scintillanti}\textbf{Vestaglia dei Colori Scintillanti}\\
 \textit{Oggetto meraviglioso, molto raro} - 6000 mo\\
-Questa vestaglia ha 3 cariche, e recupera 1d3 cariche spese ogni giorno all'alba. Quando la indossi, puoi usare due azioni e spendere 1 carica per far sì che l'indumento produca una trama mutevole di colori abbaglianti fino al termine del tuo prossimo round. Durante questo periodo, la vestaglia emana luce intensa in un raggio di 9 metri e luce fioca per ulteriori 9 metri. Le creature che ti vedono hanno -1d6 ai Tiri per Colpire contro di te. Inoltre, qualsiasi creatura sotto la luce intensa e che ti veda quando il potere della vestaglia viene attivato, deve superare un Tiri Salvezza su Volontà con DC 17 o restare stordita fino al termine dell'effetto.\\
+Questa vestaglia ha 3 cariche, e recupera 1d3 cariche spese ogni giorno all'alba. Quando la indossi, puoi usare due azioni e spendere 1 carica per far sì che l'indumento produca una trama mutevole di colori abbaglianti fino al termine del tuo prossimo round. Durante questo periodo, la vestaglia emana luce intensa in un raggio di 9 metri e luce fioca per ulteriori 9 metri. Le creature che ti vedono hanno -1d6 ai Tiri per Colpire contro di te. Inoltre, qualsiasi creatura sotto la luce intensa e che ti veda quando il potere della vestaglia viene attivato, deve superare un Tiri Salvezza su Volontà con DC 17 o restare stordita fino al termine dell'effetto.
 
 \index{Vestaglia degli Occhi}\textbf{Vestaglia degli Occhi}\\
 \textit{Oggetto meraviglioso, raro} - 30000 mo\\
@@ -13785,14 +13786,14 @@ Questa vestaglia è adornata da un disegno di occhi. Mentre la indossi, ottieni 
 - Hai scurovisione con una portata di 36 metri.\\
 - Puoi vedere creature e oggetti invisibili, oltre che nel Piano Etereo, fino a una gittata di 36 metri.\\
 Gli occhi della vestaglia non possono essere chiusi o distolti, e mentre indossi questa vestaglia non viene mai considerato a occhi chiusi o distolti.\\
-L'incantesimo luce lanciato sulla vestaglia o l'incantesimo luce diurna lanciato entro 1,5 metri dalla vestaglia ti rendono accecato per 1 minuto. Al termine di ciascun tuo round, puoi effettuare un tiro Salvezza su Tempra (DC 13 per luce o DC 17 per luce diurna), ponendo fine alla condizione accecato in caso lo superi.\\
+L'incantesimo luce lanciato sulla vestaglia o l'incantesimo luce diurna lanciato entro 1,5 metri dalla vestaglia ti rendono accecato per 1 minuto. Al termine di ciascun tuo round, puoi effettuare un tiro Salvezza su Tempra (DC 13 per luce o DC 17 per luce diurna), ponendo fine alla condizione accecato in caso lo superi.
 
 \index{Vestaglia degli Oggetti Utili}\textbf{Vestaglia degli Oggetti Utili}\\
 \textit{Oggetto meraviglioso, non comune} - 200 mo\\
 Mentre indossi questa vestaglia ricoperta da toppe di varie forme e colori, puoi usare due azioni per staccare una delle toppe, facendola diventare l'oggetto o la creatura che rappresenta. Quando l'ultima toppa viene rimossa, la vestaglia diventa un indumento normale. La vestaglia possiede due di ciascuna delle seguenti toppe:\\
 Asta di 3 metri, Corda di canapa (15 metri,arrotolata), Lanterna a lente sporgente (piena e accesa), Pugnale, Sacco, Specchio d'acciaio.\\
 Inoltre, la vestaglia ha 4d4 altre toppe. Il Narratore sceglie le toppe o le determina a caso, scegliendo tra proprietà totalmente diverse da quelle già presenti.\\
-Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 toppe della vestaglia degli oggetti utili.\\
+Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 toppe della vestaglia degli oggetti utili.
 
 \end{multicols}
 
@@ -13821,7 +13822,7 @@ Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 t
 \index{Vestaglia delle Stelle}\textbf{Vestaglia delle Stelle}\\
 \textit{Oggetto meraviglioso, molto raro} - 60000 mo\\
 Mentre indossi questa vestaglia, ottieni un bonus di +1 ai Tiri Salvezza.\\
-Sei stelle, posizionate sulla parte superiore frontale della vestaglia, sono più grosse delle altre. Mentre indossi questa vestaglia, puoi usare due azioni per estrarre una delle stelle e usarla per lanciare dardo incantato. Ogni giorno al tramonto, la stella rimossa ricompare sulla vestaglia. Mentre indossi la vestaglia, puoi usare due azioni per entrare nel Piano Astrale assieme a tutto ciò che indossi o trasporti. Resterai lì fino a quando userai due azioni per ritornare al piano in cui ti trovavi prima. Ricompari nell'ultimo spazio da te occupato, o se quello spazio è occupato, nello spazio non occupato più vicino.\\
+Sei stelle, posizionate sulla parte superiore frontale della vestaglia, sono più grosse delle altre. Mentre indossi questa vestaglia, puoi usare due azioni per estrarre una delle stelle e usarla per lanciare dardo incantato. Ogni giorno al tramonto, la stella rimossa ricompare sulla vestaglia. Mentre indossi la vestaglia, puoi usare due azioni per entrare nel Piano Astrale assieme a tutto ciò che indossi o trasporti. Resterai lì fino a quando userai due azioni per ritornare al piano in cui ti trovavi prima. Ricompari nell'ultimo spazio da te occupato, o se quello spazio è occupato, nello spazio non occupato più vicino.
 
 \index{Zainetto Pratico}\textbf{Zainetto Pratico}\\
 \textit{Oggetto meraviglioso, raro} - 7000 mo\\
@@ -13829,11 +13830,11 @@ Questo zaino ha una sacca centrale e due laterali, ciascuna delle quali è in re
 - La grande sacca centrale può contenere fino a 240 dm3 o 40 chili di materiale. Lo zaino pesa sempre 2,5 chili, quali che siano i suoi contenuti.\\
 Piazzare un oggetto all'interno dello zainetto segue le normali regole di interazione con gli oggetti. Recuperare un oggetto dallo zainetto richiede l'uso di due azioni. Quando cerchi un oggetto nello zainetto, questo magicamente si troverà sempre in cima alla pila degli oggetti che questo contiene.\\
 Lo zainetto ha alcune limitazioni. Se sovraccarico, o un oggetto affilato lo taglia o si strappa, lo zainetto si spacca e viene distrutto. Se lo zainetto è distrutto, ciò che conteneva è perso per sempre, sebbene un artefatto ricomparirà sempre da qualche parte nel multiverso. Se lo zainetto viene rivoltato, ciò che contiene viene espulso, senza recargli danno, e lo zainetto deve essere rimesso al verso giusto prima che possa essere usato di nuovo. Se una creatura che respira viene posta all'interno dello zainetto, vi può sopravvivere per al massimo 10 minuti, prima di cominciare a soffocare.\\
-Piazzare lo zainetto all'interno dello spazio extradimensionale creato da una borsa conservante, un buco portatile o un oggetto simile distrugge immediatamente entrambi gli oggetti e apre un portale verso il Piano Astrale. Il portale origina dal punto in cui gli oggetti sono stati posti l'uno dentro l'altro. Qualsiasi creatura entro 3 metri dal portale viene risucchiata attraverso di esso e trascinata in un luogo casuale del Piano Astrale. Poi il portale si chiude. Il portale è a senso unico e non può essere riaperto.\\
+Piazzare lo zainetto all'interno dello spazio extradimensionale creato da una borsa conservante, un buco portatile o un oggetto simile distrugge immediatamente entrambi gli oggetti e apre un portale verso il Piano Astrale. Il portale origina dal punto in cui gli oggetti sono stati posti l'uno dentro l'altro. Qualsiasi creatura entro 3 metri dal portale viene risucchiata attraverso di esso e trascinata in un luogo casuale del Piano Astrale. Poi il portale si chiude. Il portale è a senso unico e non può essere riaperto.
 
 \index{Zoccoli della Velocità}\textbf{Zoccoli della Velocità}\\
 \textit{Oggetto meraviglioso, raro} - 5000 mo\\
-Questi zoccoli di ferro si trovano in set da quattro. Quando tutti e quattro gli zoccoli sono fissati a un cavallo o creatura simile, aumentano la velocità di passeggio di quella creatura di 9 metri. \\
+Questi zoccoli di ferro si trovano in set da quattro. Quando tutti e quattro gli zoccoli sono fissati a un cavallo o creatura simile, aumentano la velocità di passeggio di quella creatura di 9 metri. 
 
 \index{Zoccoli dello Zefiro}\textbf{Zoccoli dello Zefiro}\\
 \textit{Oggetto meraviglioso, molto raro} - 1500 mo\\
@@ -13867,7 +13868,7 @@ Gli oggetti maledetti non sono quasi mai realizzati intenzionalmente, ma piuttos
 
 Quando una prova di creazione di un oggetto magico fallisce di 10 o piu', tirate sulla tabella per determinare il tipo di maledizione che l'oggetto possiede.
 
-\bigskip
+\medskip
 
 \textbf{Maledizioni Comuni degli Oggetti}
 
@@ -13884,27 +13885,34 @@ Quando una prova di creazione di un oggetto magico fallisce di 10 o piu', tirate
 	91-100      & Effetto completamente diverso\\
 \end{tabular}
 
-\bigskip
+\medskip
 
 Gli oggetti maledetti sono identificati come qualsiasi altro oggetto magico con una sola eccezione: a meno che la prova effettuata per identificare l'oggetto non ecceda la DC di 10 (successo critico) o piu', la maledizione non viene individuata. Se la prova non eccede 10 o piu', ma riesce comunque, tutto quello che viene rivelato è l'originale scopo dell'oggetto magico.
 
-Se si sa che l'oggetto è maledetto, la natura della maledizione può essere determinata usando la DC standard per identificare l'oggetto.\\
-
-\medskip
+Se si sa che l'oggetto è maledetto, la natura della maledizione può essere determinata usando la DC standard per identificare l'oggetto.
 
 \begin{center}
 	\includegraphics[width=0.75\linewidth]{immagini/vasobasano.png}\\
 	\textit{Vaso di Basano. Questo vaso è stato realizzato nella seconda metà del XV secolo ed è realizzato in argento.}
 \end{center}
 
+
+\begin{narratore}
+Una maledizione e' sempre un \textit{inconveniente} particolare, che non si usa a caso. Ragionate attentamente sugli oggetti maledetti che farete trovare ai personaggi perché vi chiederanno molte informazioni e dovrete essere pronti.
+	
+Non c'e' bisogno che la maledizione sia eccessiva e limitante puo' essere benissimo ridicola o particolare, fate in modo che sia caratterizzante. Il personaggio non deve sentirsi (tranne se lo volete) condannato in eterno, sfruttate l'occasione per costruire nuove avventure e spirito di gruppo.
+\end{narratore}
+
+
 \subsection{Rimuovere Oggetti Maledetti}\index{Rimuovere Oggetti Maledetti}
 
 Mentre alcuni oggetti maledetti possono essere semplicemente posati, altri esercitano una forte compulsione sul possessore a tenerli con sé, a qualsiasi costo. Altri riappaiono anche se abbandonati o è impossibile gettarli via.
 
-Questi oggetti possono essere rimossi solo dopo che sul personaggio o l'oggetto viene lanciato Rimuovi Maledizione. La DC della prova di livello dell'incantatore per rimuovere la maledizione è pari a 10 + CM dell'incantatore che ha creato l'oggetto.
+Questi oggetti possono essere rimossi solo dopo che sul personaggio o l'oggetto viene lanciato Rimuovi Maledizione. 
 
-Se la prova ha successo, l'oggetto può essere rimosso nel round successivo, ma la maledizione rimane e colpisce nuovamente se l'oggetto viene usato un'altra volta.\\
-\medskip
+Se l'oggetto e' stato maledetto tramite l'incantesimo Scagliare Maledizione, o comunque il Narratore decide che l'oggetto ha una maledizione particolare allora la prova di magia per il Rimuovere Maledizione deve essere almeno pari alla Difficoltà con il quale e' stata scagliata la maledizione.
+
+Se la prova ha successo, l'oggetto può essere rimosso nel round successivo, ma la maledizione rimane e colpisce nuovamente se l'oggetto viene usato un'altra volta.
 
 \subsection{Effetti Comuni degli Oggetti Maledetti}
 
