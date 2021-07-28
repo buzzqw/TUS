@@ -102,8 +102,9 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 
 \newtcolorbox{narratore}{
 	enhanced, % enable advanced settings
-	halign=left,
-	left = 10mm, % pushes text away from the left edge by 10mm
+%	left = 3mm,
+	width=0.45\textwidth,
+	left = 9mm, % pushes text away from the left edge by 10mm
 	sharp corners, % disables rounded corners
 	rounded corners = southeast, % "round" the bottom right corner
 	arc is angular, % make the "round" corner an angle
@@ -111,8 +112,27 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 	boxrule=0.6pt, % sets box line thickness
 	underlay={%
 	\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
-	\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
-	\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+		
+	},
+	drop fuzzy shadow % adds drop shadow
+}
+
+\newtcolorbox{narratorewide}{
+	enhanced, % enable advanced settings
+	%	left = 3mm,
+%	width=0.45\textwidth,
+	left = 9mm, % pushes text away from the left edge by 10mm
+	sharp corners, % disables rounded corners
+	rounded corners = southeast, % "round" the bottom right corner
+	arc is angular, % make the "round" corner an angle
+	arc = 3mm, % controls corner cut
+	boxrule=0.6pt, % sets box line thickness
+	underlay={%
+		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
 		
 	},
 	drop fuzzy shadow % adds drop shadow
@@ -394,6 +414,7 @@ Se il particolare é indicato da un trattino "-" allora questa resistenza non é
 
 \begin{center}
 	\includegraphics[width=0.45\textwidth]{immagini/Jan_Steen2.png}
+	
 	\textit{Jan Havicksz. Steen}
 \end{center}
 
@@ -2532,15 +2553,16 @@ E' possibile se non descritto specificatamente nell'Abilità eseguire solo una A
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/Perseus_Fighting_Phineus_and_his_Companions.png}\\
+	\includegraphics[width=0.9\linewidth]{immagini/Perseus_Fighting_Phineus_and_his_Companions.png}
+	
 	\textit{Luca Giordano: Perseus turning Phineas and his Followers to Stone}
 \end{center}
 
 \end{multicols}
 
-\begin{narratore}Una creatura che ha una distanza di mischia (portata) superiore all'avversario si considera che abbia un bonus di \textbf{+4 all'iniziativa} per il primo round, ovvero come se usasse un'arma lunga. Il round successivo la sua iniziativa in corpo a corpo non avrà questo vantaggio a meno che abbia mantenuto la distanza non facendosi raggiungere.
+\begin{narratorewide}Una creatura che ha una distanza di mischia (portata) superiore all'avversario si considera che abbia un bonus di \textbf{+4 all'iniziativa} per il primo round, ovvero come se usasse un'arma lunga. Il round successivo la sua iniziativa in corpo a corpo non avrà questo vantaggio a meno che abbia mantenuto la distanza non facendosi raggiungere.
 	
-Questo bonus non si applica con le armi da lancio (archi, balestre, pugnali, asce... per quelle armi che usano la \textit{gittata}). \end{narratore}
+Questo bonus non si applica con le armi da lancio (archi, balestre, pugnali, asce... per quelle armi che usano la \textit{gittata}). \end{narratorewide}
 
 \pagebreak
 
@@ -3203,7 +3225,7 @@ Prendi un bonus di +4 alla Difesa, il tuo Tiro per Colpire ha una penalità di -
 
 \begin{center}
 	\includegraphics[width=0.9\linewidth]{immagini/teseo.png}
-\textit{Henry Justice Ford}
+\textit{Henry Justice Ford - Colpo alle spalle!}
 \end{center}
 
 
@@ -5950,12 +5972,11 @@ E' più facile dominare su chi non crede in niente (La Storia Infinita, Kmorf)
 
 Tu credi che c'è un Dio solo? Fai bene; anche i demoni lo credono e tremano! (Giacomo Il Giusto 2, 19. NdA Riferendosi al proprio Patrono...)}\end{tcolorbox}\medskip
 
-\begin{narratore}
+\begin{narratorewide}
 In DBS le divinità sono diverse dalle tradizionali divinità dei giochi di ruolo.\\
 In DBS le divinità amano sporcarsi le mani, partecipare nelle faccende delle creature che le adorano, per loro è una sfida continua ad avere più credenti, adepti e persone più simili, per Tratti, a loro.\\
 I Patroni sono stati creati come parossismo dell'animo umano, dove tutto è un eccesso. Come spiriti liberati dal vaso di Pandora hanno il solo scopo di portare i loro Tratti al dominio rendendoli i più comuni e presenti tra le creature.
-\end{narratore}
-
+\end{narratorewide}
 
 \begin{multicols}{2}
 
@@ -14412,7 +14433,7 @@ Un drago rosso è immune al fuoco naturale e magico.
 
 \subsection{Il Calendario}\index{Calendario}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Mi è capitato spesso di finire su un calendario. Ma mai per una data precisa. (Marilyn Monroe)\\
+\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt,width=0.95\linewidth]{Mi è capitato spesso di finire su un calendario. Ma mai per una data precisa. (Marilyn Monroe)\\
 Tutto ebbe inizio la tredicesima ora del tredicesimo giorno del tredicesimo mese... Eravamo lì per discutere degli errori di stampa dei calendari acquistati dalla scuola. (I Simpson)} \end{tcolorbox}\medskip
 
 
@@ -14472,7 +14493,7 @@ Il giorno è diviso in 24 ore
 
 \subsection{I cicli millenari}\index{I cicli millenari}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt,width=0.95\linewidth]{
 		Vidi poi un angelo che scendeva dal cielo con la chiave dell'Abisso e una gran catena in mano.\\
 		Afferrò il dragone, il serpente antico - cioè il diavolo, satana - e lo incatenò per mille anni; \\
 		lo gettò nell'Abisso, ve lo rinchiuse e ne sigillò la porta sopra di lui, perché non seducesse più le nazioni, fino al compimento dei mille anni. Dopo questi dovrà essere sciolto per un pò di tempo. (Apocalisse 20,1-3)
