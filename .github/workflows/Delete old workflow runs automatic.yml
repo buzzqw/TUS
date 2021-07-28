@@ -1,7 +1,7 @@
 name: Delete old workflow runs automatic
 on:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 0 1,7,14,21 * *'
   workflow_dispatch:
     inputs:
       days:
