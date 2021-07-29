@@ -5,9 +5,9 @@ Non l'avrei detto a questi livelli ma rileggere il manuale dalla stampa cartacea
 Non parlo di errori nel sistema ma proprio di sviste, pezzi di parola appesi, immagini troppo grandi.. testo "spaginato".
 
 Penso di andare a pubblicare la 1.1.4 molto piu' velocemente di quanto mi aspettassi e probabilmente la mandero' in stampa per avere una copia aggiornata da rileggere durante le vancanze.
-Oltretutto Lulu aumentera' le spese per il print on demand dal prima di agosto quindi meglio sbrigarsi!
+Oltretutto Lulu aumentera' le spese per il print on demand dal primo di agosto quindi meglio sbrigarsi!
 
-Sono sempre piu' soddisfatto del manuale e del lungo lavoro di impaginazione, non sono certo un professionista ne e' il mio mestiere ma tutto sommato ho visto manuali fatti anche peggio. Quello su cui mi devo concentrare e' l'organizzazione delle regole per fare in modo che siano dove uno si aspetta di trovarle.. cosa non affatto scontato.
+Sono sempre piu' soddisfatto del manuale e del lungo lavoro di impaginazione, non sono certo un professionista ne e' il mio mestiere ma tutto sommato ho visto manuali fatti anche peggio. Quello su cui mi devo concentrare e' l'organizzazione delle regole per fare in modo che siano dove uno si aspetta di trovarle.. cosa non affatto scontata.
 
 Ho fatto un indice molto curato spero che sia apprezzato!
 
