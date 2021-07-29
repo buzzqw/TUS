@@ -1,3 +1,16 @@
+**29/07/2021**
+
+Non l'avrei detto a questi livelli ma rileggere il manuale dalla stampa cartacea mi ha fatto trovare tantissimi imprecisione e piccoli errori di layout.
+
+Non parlo di errori nel sistema ma proprio di sviste, pezzi di parola appesi, immagini troppo grandi.. testo "spaginato".
+
+Penso di andare a pubblicare la 1.1.4 molto piu' velocemente di quanto mi aspettassi e probabilmente la mandero' in stampa per avere una copia aggiornata da rileggere durante le vancanze.
+Oltretutto Lulu aumentera' le spese per il print on demand dal prima di agosto quindi meglio sbrigarsi!
+
+Sono sempre piu' soddisfatto del manuale e del lungo lavoro di impaginazione, non sono certo un professionista ne e' il mio mestiere ma tutto sommato ho visto manuali fatti anche peggio. Quello su cui mi devo concentrare e' l'organizzazione delle regole per fare in modo che siano dove uno si aspetta di trovarle.. cosa non affatto scontato.
+
+Ho fatto un indice molto curato spero che sia apprezzato!
+
 **25/07/2021**
 
 Ho desciso di pubblicare la 1.1.3 per via del lavoro di rifinitura fatto fin'ora. Come ho scritto non si tratta di correzioni importanti, anche se qualcosa c'e' chiaramente, ma di tante piccoli accorgimenti e chiarificazioni.
