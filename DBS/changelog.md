@@ -140,7 +140,7 @@ Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - C
 
 29/07/2021 STAMPA
 
-*1.1.5* pubblicato su github 1.1.4, aggiornata versione manuale, aggiornata copertina, aggiornato indice, corretto ordine tabelle in rompere oggetti, ricondotto ad un unica tabella la rottura degli oggetti, migliore layout fonte di luce, chiarita meglio tabella vantaggi e svantaggi invisibilita', semplificato enormenete attacco e difesa da creature invisibili, semplificato e chiarito danno da cauda, aggiornato screen per invisibilità, 
+*1.1.5* pubblicato su github 1.1.4, aggiornata versione manuale, aggiornata copertina, aggiornato indice, corretto ordine tabelle in rompere oggetti, ricondotto ad un unica tabella la rottura degli oggetti, migliore layout fonte di luce, chiarita meglio tabella vantaggi e svantaggi invisibilita', semplificato enormenete attacco e difesa da creature invisibili, semplificato e chiarito danno da caduta, aggiornato screen per invisibilità, 
 
 
 Obiettivi: revisione immagini, ridurre numero incantesimi, ridurre complessità e fare che le regole siano piu' universali senza che siano necessari chiarimenti ed eccezioni, rendere il sistema piu' osr, migliorare il font, valutare se rimuovere o riscrivere completamente avventure in acqua-citta'-disastri-dungeon-pericoli avventura per una maggiore rispondenza alla ogl, verificare tiri per colpire mostri se necessario alzarli (+1/2 CR), 
