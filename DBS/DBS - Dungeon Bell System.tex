@@ -20,10 +20,11 @@
 \usepackage[italian]{babel}
 \usepackage{setspace}
 \usepackage{graphicx}
+
+%\usepackage[allfiguresdraft]{draftfigure}  %senza figure
+
 \usepackage[export]{adjustbox}
 \usepackage{float}
-%\usepackage[allfiguresdraft]{draftfigure}
-
 \PassOptionsToPackage{normalem}{ulem}
 \usepackage{ulem}
 \usepackage{amsmath}
@@ -64,7 +65,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \pagestyle{fancy}
 \fancyfoot[C]{\thepage}
 
-\usepackage{xltabular}
+%\usepackage{xltabular}
 \usepackage{tabularx}
 %\usepackage{longtable}
 \usepackage{pdfpages}
@@ -947,7 +948,7 @@ Non è possibile assegnare più di 4d6 o meno di 2d6. Tirate i dadi assegnati e 
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{tabularx}{0.45\textwidth}{ll}
 \toprule
 \textbf{Totale dei dadi}& \textbf{Punteggio Caratteristica}\\
 3 (o meno)&-3\\
@@ -957,7 +958,7 @@ Non è possibile assegnare più di 4d6 o meno di 2d6. Tirate i dadi assegnati e 
 13-14-15&+1\\
 16-17&+2\\
 18 (o più)&+3\\
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -1445,7 +1446,7 @@ Gli \textbf{1 portano male}, se fai 1 con il dado togli 1 alla somma dei dadi ti
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
 Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti; la maggior parte, anzi, assaggiato quanto lo studio sia fatica e provata la stanchezza sulla propria pelle, butta alla leggera la noce ancor prima di aver rotto il guscio per gustarne il gheriglio. (Richard de Bury)
 
-\smallskip
+\medskip
 
 Lo studio è per i perdenti! (Lobo)}\end{tcolorbox}\medskip
 
@@ -1454,12 +1455,11 @@ Sono qui elencate alcune Professioni di esempio e le loro competenze relative, i
 
 \end{multicols}
 
-
 \textbf{Tabella: Elenco delle Professioni e relative Competenze}\index{Tabella Elenco delle Professioni e relative Competenze}\index{Professioni}
 
 \medskip
 
-\begin{tabularx}{1\textwidth}{XXXXX}
+\begin{tabular}{lllll}
 \toprule
 \textbf{\textbf{Professione}}	& \textbf{1 punto} & \textbf{2 punti} & \textbf{2 punti} & \textbf{3 punti}\\
 \textbf{Accolito}			& Occulto	& Storia o Geografia	& Arcana			& Religione\\
@@ -1467,9 +1467,9 @@ Sono qui elencate alcune Professioni di esempio e le loro competenze relative, i
 \textbf{Allevatore}			& Sopravvivenza	&	Seguire tracce		& Natura	& Gestire animali\\
 \textbf{Apprendista mago}	& Storia e Geografia	&	Occulto&	Natura magica&	Arcana\\
 \textbf{Azzeccagarbugli}	& Valutare&	Ingannare&	Percepire Emozioni&	Diplomazia\\
-\textbf{Bibliotecario}		& Natura&	Tradizioni locali&	Religione e Arcana&	Storia e Geografia\\
+\textbf{Bibliotecario}		& Natura&	Tradizioni locali&	Religione e Arcana&	Storia e eografia\\
 \textbf{Boscaiolo}			& Usare corda	&Natura& Orientamento&	Sopravvivenza	\\
-\textbf{Cacciatore}			& Muoversi silenziosamente&	Seguire tracce&	Sopravvivenza	& Natura\\
+\textbf{Cacciatore}			& Muoversi silenz.&	Seguire tracce&	Sopravvivenza	& Natura\\
 \textbf{Carovaniere}		& Storia o Geografia&	Valutare&	Cavalcare&	Orientamento\\
 \textbf{Teatrante}			& Suonare	& Intrattenere&	Giocoliere&	Acrobatica\\
 \textbf{Erborista}			& Natura Magica&	Geografia&	Natura&	Erboristeria\\
@@ -1486,7 +1486,8 @@ Sono qui elencate alcune Professioni di esempio e le loro competenze relative, i
 \textbf{Carrettiere}		& Tradizioni Locali & Orientamento & Gestire Animali & Cavalcare\\
 \textbf{Uomo di medicina}	& Natura magica&	Natura&	Erboristeria&	Pronto soccorso\\
 \textbf{Guardia boschi}		& Natura magica	&	Erboristeria	&	Cavalcare & Natura	\\
-\end{tabularx}
+\textbf{Agricoltore}		& Sopravvivenza &Erboristeria& Gestire Animali &  Natura\\
+\end{tabular}
 
 \bigskip
 
@@ -1494,7 +1495,7 @@ Sono qui elencate alcune Professioni di esempio e le loro competenze relative, i
 
 Nella scheda va segnata la Professione iniziale e le competenze acquisite, ovviamente in accordo con il Narratore è possibile selezionare delle competenze diverse e anche scegliere professioni diverse!
 
-Ad ogni nuova professione associate 4 competenze prese da questa lista, una competenza partirà con un punteggio di 1, due competenze partiranno con il punteggio di 2 e quella più specifica e professionale partirà con il punteggio di 3.
+Ad ogni nuova professione che andrete a creare associate 4 competenze prese da questa lista, una competenza partirà con un punteggio di 1, due competenze partiranno con il punteggio di 2 e quella più specifica e professionale partirà con il punteggio di 3.
 
 Ovviamente una professione non si esplicita in sole 4 competenze ma queste sono quelle che più entreranno in uso durante le avventure, il Narratore sarà aiutato dalla vostra professione a capire chi e come sa fare e come possono agire i personaggi.
 
@@ -1512,20 +1513,20 @@ Un giocatore alla creazione del personaggio può anche chiedere di abbassare una
 
 \textbf{Tabella: Elenco Competenze e relativa Caratteristica d'uso}\index{Tabella Elenco Competenze e relativa Caratteristica d'uso}
 
-\begin{tabularx}{0.95\textwidth}{XXXXX}
+\begin{tabular}{lllll}
 	\toprule
-\textbf{Forza} & \textbf{Destrezza} & \textbf{Intelligenza} & \textbf{Saggezza} & \textbf{Carisma}\\
-Arrampicarsi	&	Acrobatica  			& Arcana 			& Cavalcare 		& Diplomazia \\
-Intimidire 		& 	Artista della fuga  	& Conoscenza*  		& \textit{Consapevolezza} 	& Intrattenere \\
-Nuotare 		&	Giocoliere  			& Dungeon			& Gestire animali    		& Ingannare  \\
-Saltare 		&	Mani di fata 			& Erboristeria 		& Natura		& Suonare \\
-				&	Muoversi silenziosamente& Disattivare congegni &Orientamento & Tradizioni locali \\
-				&   Nascondersi	& Falsificare 		& Percepire Emozioni 	& \\
-				&	Usare corda & Lingue 				& Pronto soccorso 	&\\
-				&							& Natura magica			& Religione			&\\
-				&							& Valutare				& Seguire tracce &\\
-				&							&						& Sopravvivenza&\\
-\end{tabularx}
+	\textbf{Forza} & \textbf{Destrezza} & \textbf{Intelligenza} & \textbf{Saggezza} & \textbf{Carisma}\\
+	Arrampicarsi	&	Acrobatica  			& Arcana 			& Cavalcare 		& Diplomazia \\
+	Intimidire 		& 	Artista della fuga  	& Conoscenza*  		& \textit{Consapevolezza} 	& Intrattenere \\
+	Nuotare 		&	Giocoliere  			& Dungeon			& Gestire animali    		& Ingannare  \\
+	Saltare 		&	Mani di fata 			& Erboristeria 		& Natura		& Suonare \\
+	&	Muoversi silenziosamente& Disattivare congegni &Orientamento & Tradizioni locali \\
+	&   Nascondersi	& Falsificare 		& Percepire Emozioni 	& \\
+	&	Usare corda & Lingue 				& Pronto soccorso 	&\\
+	&							& Natura magica			& Religione			&\\
+	&							& Valutare				& Seguire tracce &\\
+	&							&						& Sopravvivenza&\\
+\end{tabular}
 
 \medskip
 
@@ -2110,10 +2111,10 @@ Il giocatore può comunque richiedere di effettuare la prova anche se il risulta
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{lXl}
+\begin{tabular}{lll}
 	\toprule
-\multirow{2}*{Vantaggio / Svantaggio} & \multicolumn{2}{c}{\textbf{Prove}}\\
-\cmidrule(lr){2-3} & \textbf{Dinamiche} & \textbf{Fisse} \\
+	\multirow{2}*{Vantaggio / Svantaggio} & \multicolumn{2}{c}{\textbf{Prove}}\\
+	\cmidrule(lr){2-3} & \textbf{Dinamiche} & \textbf{Fisse} \\
 	Bonus leggero 				  & +1				& +1\\
 	Bonus normale 				  & +2 				& +2\\
 	Bonus forte  			      & +1d6            & +4\\
@@ -2122,7 +2123,8 @@ Il giocatore può comunque richiedere di effettuare la prova anche se il risulta
 	Svantaggio normale            & -2 				& -2\\
 	Svantaggio forte              & -1d6            & -4\\
 	Svantaggio molto forte        & -2d6            & -8\\
-\end{tabularx}
+\end{tabular}
+
 
 \begin{narratore}
 La matematica della distribuzione normalizzata (3d6) e' diversa da quella del semplice d20. I vantaggi e svantaggi pesano molto di più, fanno molta più riuscita.
@@ -2239,15 +2241,18 @@ Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una
 		
 \item \textbf{Saltare}\index{Tabella Saltare} \textit{Si hanno penalità dovuta all'Armatura.}
 
-\begin{tabularx}{0.45\textwidth}{Xl|Xl}
-\hline
-	\textbf{Salto in Lungo (Distanza)} & DC&	\textbf{Salto in Alto (Altezza)} & DC\\
+
+\begin{tabularx}{0.45\textwidth}{ll|ll}
+	\hline
+	\textbf{Salto in Lungo} & \textbf{DC}&	\textbf{Salto in Alto} & \textbf{DC}\\
+\multicolumn{2}{c}{Lunghezza} &\multicolumn{2}{c}{Altezza} \\
 	1.5 m                              & 5 & 	0.02 m                           & 4\\
 	3 m                                & 10 &	0.5 m                            & 8\\
 	5 m                                & 15 & 	1 m                              & 12\\
 	7 m                                & 20 & 	1.5 m                            & 16\\
 	+1,5 m                             & +5 &	+0.5 m                           & +4\\
 \end{tabularx}
+
 
 In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 della lunghezza saltata. Se esegui un salto in lungo di 4 metri a metà salto sei in alto di 1 metro. 
 
@@ -2256,7 +2261,7 @@ In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 del
 \begin{tabularx}{0.45\textwidth}{Xl}
 	\hline
 	\textbf{Esempio di Superficie} & \textbf{DC}\\
-	Superficie grezza con appigli, mattoni sporgenti&10\\
+	Parete grezza con appigli, mattoni sporgenti&10\\
 	Un albero, una corda senza nodi&15\\
 	Una parete liscia con appigli &20\\
 	Un muro perimetrale con pochissimi appigli&25\\
@@ -2269,20 +2274,23 @@ In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 del
 \item \textbf{Sopravvivenza}\index{Sopravvivenza}
 
 \textbf{Inseguire una creatura}:
+
 \begin{tabularx}{0.45\textwidth}{Xl}
 	\hline
-Difficoltà base  & DC 10\\
-Se il terreno è molto morbido& DC +5\\
-Se il terreno è morbido& DC +10\\
-Se il terreno è stabile& DC +15\\
-Se il terreno è duro& DC +20\\
-Ogni 3 creature inseguite& DC -1\\
-A seconda della taglia& DC +-8\\
-Ogni 24 ore passate&DC +2\\
-Ogni ora di pioggia&DC +4\\
-Visibilità scarsa&DC +2\\
-Cerca di occultare le traccie&DC +5\\
+	Difficoltà base  & DC 10\\
+	Se il terreno è molto morbido& DC +5\\
+	Se il terreno è morbido& DC +10\\
+	Se il terreno è stabile& DC +15\\
+	Se il terreno è duro& DC +20\\
+	Ogni 3 creature inseguite& DC -1\\
+	A seconda della taglia& DC +-8\\
+	Ogni 24 ore passate&DC +2\\
+	Ogni ora di pioggia&DC +4\\
+	Visibilità scarsa&DC +2\\
+	Cerca di occultare le traccie&DC +5\\
 \end{tabularx}\\
+
+\medskip
 
 \item \textbf{Nascondersi} \index{Nascondersi} \textit{Si hanno penalità dovuta all'Armatura.}
 
@@ -2318,21 +2326,20 @@ Un appartenente ad una razza può benissimo avere come prima lingua non quella d
 
 \medskip
 
-\begin{tabularx}{1\textwidth}{Xll|Xll}
+\begin{tabular}{lll|lll}
 	\toprule
 	\textbf{Ambito culturale}& \textbf{Parlato} & \textbf{Scritto}&	\textbf{Ambito culturale}& \textbf{Parlato} & \textbf{Scritto}\\
-	Umano 					& Comune		& Comune		& Nanico				& Nanico		& Nanico\\	
-	Elfico					& Elfico  		& Elfico 		& Gnomico				& Gnomica  		& Gnomica \\	
-	Gnoll  					& Gnoll 	    & Goblinoide 	& Giganti				& Gigante	    & Gigante\\ 
-	Orco					& Orchesco  	& Orchesco  	& Creature marine senzienti & Acquan		& Elfico\\
-	Uccelli senzienti		& Auran 		& Elfico		& Abitanti dei boschi*		& Silvano		& Silvano\\
-	Druidica* 				& Druidico 		& -				& Goblinoide			& Goblinoide	& Goblinoide\\
-	Celestiale				& Celestiale 	& Celestiale	& Infernale 				& Infernale  	& Infernale\\
-   	Abissale 				& Abissale		& Abissale		& Draghi					& Draconico  	& Draconico\\
-    Elementali del Fuoco  		& Ignam   		& - 			& Elementali della Terra			& Terran 	    &-\\
-	Elementali dell'Acqua 		& Acquan  		& -  			& Elementali dell'Aria			& Auran         &-\\
-    Lingua dei Segni*		& dei Segni 	& dei Segni		& Varie 				&  Profondità	& Profondità\\
-\end{tabularx}
+Umano 					& Comune		& Comune		& Nanico				& Nanico		& Nanico\\		Elfico					& Elfico  		& Elfico 		& Gnomico				& Gnomica  		& Gnomica \\		Gnoll  					& Gnoll 	    & Goblinoide 	& Giganti				& Gigante	    & Gigante\\ 
+Orco					& Orchesco  	& Orchesco  	& Creature marine senzienti & Acquan		& Elfico\\
+Uccelli senzienti		& Auran 		& Elfico		& Abitanti dei boschi*		& Silvano		& Silvano\\
+Druidica* 				& Druidico 		& -				& Goblinoide			& Goblinoide	& Goblinoide\\
+Celestiale				& Celestiale 	& Celestiale	& Infernale 				& Infernale  	& Infernale\\
+Abissale 				& Abissale		& Abissale		& Draghi					& Draconico  	& Draconico\\
+Elementali del Fuoco  		& Ignam   		& - 			& Elementali della Terra			& Terran 	    &-\\
+Elementali dell'Acqua 		& Acquan  		& -  			& Elementali dell'Aria			& Auran         &-\\
+Lingua dei Segni*		& dei Segni 	& dei Segni		& Varie 				&  Profondità	& Profondità\\
+\end{tabular}
+
 
 \medskip
 
@@ -2500,37 +2507,36 @@ Se il personaggio non ha eseguito alcuna Azione nel round, come detto prima, agi
 
 \textbf{Tabella Azioni per Round}\index{Tabella delle Azioni per Round}
 
-\medskip
 
-\begin{tabularx}{0.45\textwidth}{Xr}
-	\textbf{Cosa si fa}                                & \textbf{Azioni}\\
+\begin{tabular}{lc}
+	\textbf{Cosa si fa}                         & \textbf{Azioni}\\
 	\toprule
-	Eseguire un attacco  						       & 1\\
-	Eseguire due attacchi        				       & 2\\
-	Eseguire più di due attacchi   					   & 3\\
-	Lanciare un'Incantesimo                            & 2\\
-	Eseguire una Azione di Movimento*                  & 1\\
-	Scatto   						                   & 1\\
-	Alzarsi da prono                                   & 2\\
-	Aiutare qualcuno                                   & 2\\
-	Scambiare un discorso con qualcuno                 & 2\\
-	Scambiare poche battute con qualcuno               & 0\\
-	Cercare qualcosa nello zaino di pronto             & 2\\
-	Usare qualcosa gia' preso dallo zaino/cintura      & 1\\
-	Bere una pozione tenuta alla cintura               & 1\\
-	Estrarre l'arma 					               & 1\\
-	Imbracciare lo scudo							   & 1\\
-	Usare un oggetto magico 						   & 2\\
-	Eseguire prova su una competenza        	       & 2\\
-	Nascondersi										   & 2\\
-	Mantenere la concentrazione su un Incantesimo      & 1\\
-	Salire o scendere dalla cavalcatura				   & 1\\	
-	Azione Immediata - Azione Reazione                 & I - R\\
-	Bere una pozione tenuta in mano     	           & I\\
-	Fare cadere l'arma o lo scudo					   & R\\
-	Gettarsi a terra prono							   & R\\	
-	Riconoscere un Incantesimo						   & R\\
-\end{tabularx}
+	Eseguire un attacco  						& 1\\
+	Eseguire due attacchi        				& 2\\
+	Eseguire più di due attacchi   				& 3\\
+	Lanciare un'Incantesimo                     & 2\\
+	Eseguire una Azione di Movimento*           & 1\\
+	Scatto   						            & 1\\
+	Alzarsi da prono                            & 2\\
+	Aiutare qualcuno                            & 2\\
+	Scambiare un discorso con qualcuno          & 2\\
+	Scambiare poche battute con qualcuno        & 0\\
+	Cercare qualcosa nello zaino di pronto      & 2\\
+	Usare un oggetto in mano      				& 1\\
+	Bere una pozione tenuta alla cintura        & 1\\
+	Estrarre l'arma 					        & 1\\
+	Imbracciare lo scudo						& 1\\
+	Usare un oggetto magico 					& 2\\
+	Eseguire prova su una competenza        	& 2\\
+	Nascondersi									& 2\\
+	Concentrarsi su un Incantesimo    	 		& 1\\
+	Salire o scendere dalla cavalcatura			& 1\\	
+	Azione Immediata - Azione Reazione          & I - R\\
+	Bere una pozione tenuta in mano     	    & I\\
+	Fare cadere l'arma o lo scudo				& R\\
+	Gettarsi a terra prono						& R\\	
+	Riconoscere un Incantesimo					& R\\
+\end{tabular}
 
 \medskip
 
@@ -2565,6 +2571,8 @@ E' possibile se non descritto specificatamente nell'Abilità eseguire solo una A
 \end{center}
 
 \end{multicols}
+
+\bigskip
 
 \begin{narratorewide}Una creatura che ha una distanza di mischia (portata) superiore all'avversario si considera che abbia un bonus di \textbf{+4 all'iniziativa} per il primo round, ovvero come se usasse un'arma lunga. Il round successivo la sua iniziativa in corpo a corpo non avrà questo vantaggio a meno che abbia mantenuto la distanza non facendosi raggiungere.
 	
@@ -2633,9 +2641,12 @@ Le creature molto piccole possono stare più di una ad una distanza di mischia, 
 \textbf{Tabella: Taglia e Scala delle Creature}\index{Tabella Taglia e Scala delle Creature}
 
 \medskip
-\begin{tabularx}{0.45\textwidth}{XX}
+
+
+\begin{tabularx}{0.45\textwidth}{ll}
 	\toprule
-	\textbf{Taglia della Creatura} & \textbf{Creature in distanza di mischia}\\
+	\textbf{Taglia} & \textbf{Creature}\\
+\multicolumn{1}{c}{della Creatura}	&  \multicolumn{1}{c}{in distanza di mischia}\\
 	Piccolissima                   & 100\\
 	Minuta                         & 64\\
 	Minuscola                      & 32\\
@@ -3313,7 +3324,7 @@ Nel caso il personaggio \index{Modificare le dimensioni} la sua Difesa cambia di
 
 \bigskip
 
-\begin{tabular}{ll}
+\begin{tabularx}{0.45\textwidth}{ll}
 	\toprule
 	\textbf{Nuova Taglia} & \textbf{Modificatore alla Difesa}\\
 	Piccolissima          & +8\\
@@ -3325,7 +3336,7 @@ Nel caso il personaggio \index{Modificare le dimensioni} la sua Difesa cambia di
 	Enorme                & -2\\
 	Mastodontica          & -4\\
 	Colossale             & -8\\
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
@@ -3495,7 +3506,7 @@ Ci sono molti modificatori che possono essere applicati alla DC per individuare 
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{tabularx}{0.9\textwidth}{ll}
 \toprule
 	\textbf{La Creatura Invisibile sta...} & \textbf{Consapevolezza}\\
 	Muovendosi a velocità dimezzata        & +5\\
@@ -3506,7 +3517,7 @@ Ci sono molti modificatori che possono essere applicati alla DC per individuare 
 	A qualche metro di distanza (3 metri)  & -1, -2 per ogni 3 metri\\
 	Dietro un ostacolo (porta)             & -5\\
 	Dietro un ostacolo (parete di pietra)  & -20\\
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
@@ -4530,9 +4541,9 @@ E' la capacità di non essere rallentati in un ambiente ostile. E' necessario di
 
 \bigskip
 
-\begin{tabularx}{0.45\textwidth}{X|X}
-	\textbf{Ambiente}                                  & \textbf{Ambiente}\\
-	\toprule
+\begin{tabularx}{0.45\textwidth}{l|l}
+\textbf{Ambiente}     & \textbf{Ambiente}\\
+\toprule
 Giungla					& Acquatico \\
 Montagna e colline		& Foresta    \\
 Pianura					& Deserto e brullo    \\
@@ -4662,24 +4673,24 @@ Effettua una prova tirando 1d6 (valgono le Golden Rules) per ogni volta che hai 
 
 %\addvspace{5cm}
 
-\textbf{Tabella Scacciare Non Morti}\index{Tabella Scacciare Non Morti}
+\textbf{Tabella: Scacciare Non Morti}\index{Tabella Scacciare Non Morti}
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lllllllllll}
+\begin{tabularx}{0.9\textwidth}{lllllllllll}
 	\toprule
-\textbf{Non Morto} & \textbf{Valore Prova}\\
-o \textbf{grado di Sfida}            	&2-4 & 5-8 &9-11 &12-15&16-18&19-22&23-25&26-29&30-32&33-36\\
-\textbf{Scheletro}       	& - & T   & T   & T   & D   & D   & D   & D*  & D*  & D*  \\
-\textbf{Zombie} 			& - & -   & T   & T   & T   & D   & D   & D   & D*  & D*  \\
-\textbf{Ghoul}				& - & -   & -   & T   & T   & T   & D   & D   & D   & D*  \\
-\textbf{Ghast}				& - & -   & -   & -   & T   & T   & T   & D   & D   & D   \\
-\textbf{Wraith}				& - & -   &-    & -   & -   & T   & T   & T   & D   & D   \\
-\textbf{Mummia}				& - & -   &-    &-    & -   & -   & T   & T   & T   & D   \\
-\textbf{Spettro}			&-  & -   &-    &-    &-    & -   & -   & T   & T   & T   \\
-\textbf{Vampiro}			&-  & -   & -   &-    &-    &-    & -   & -   & T   & T   \\
-\textbf{Fantasma}			&-  & -   &-    & -   &-    &-    &-    & -   & -   & T   \\
-\textbf{Lich}				&-  & -   &-    & -   &-    &-    &-    & -   & -   & T   \\
+    \textbf{Non Morto} & \multicolumn{6}{c}\textbf{\textbf{Valore Prova}}\\
+ \textbf{o Grado di Sfida} 	&2-4 & 5-8 &9-11 &12-15&16-18&19-22&23-25&26-29&30-32&33-36\\
+	\textbf{Scheletro}       	& - & T   & T   & T   & D   & D   & D   & D*  & D*  & D*  \\
+	\textbf{Zombie} 			& - & -   & T   & T   & T   & D   & D   & D   & D*  & D*  \\
+	\textbf{Ghoul}				& - & -   & -   & T   & T   & T   & D   & D   & D   & D*  \\
+	\textbf{Ghast}				& - & -   & -   & -   & T   & T   & T   & D   & D   & D   \\
+	\textbf{Wraith}				& - & -   &-    & -   & -   & T   & T   & T   & D   & D   \\
+	\textbf{Mummia}				& - & -   &-    &-    & -   & -   & T   & T   & T   & D   \\
+	\textbf{Spettro}			&-  & -   &-    &-    &-    & -   & -   & T   & T   & T   \\
+	\textbf{Vampiro}			&-  & -   & -   &-    &-    &-    & -   & -   & T   & T   \\
+	\textbf{Fantasma}			&-  & -   &-    & -   &-    &-    &-    & -   & -   & T   \\
+	\textbf{Lich}				&-  & -   &-    & -   &-    &-    &-    & -   & -   & T   \\
 \end{tabularx}
 
 \bigskip
@@ -4855,6 +4866,7 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 
 \medskip
 
+
 \textbf{Tabella: Tipi di Famiglio}\index{Tabella Tipi di Famiglio}
 
 \medskip
@@ -4922,11 +4934,11 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{llll}
+\begin{tabular}{llll}
 	\toprule
 	\textbf{Competenza Magica del Padrone} & \textbf{Bonus Difesa} & \textbf{Bonus Intelligenza} & \textbf{Speciale}\\
 	1-2      & +1       & 0    & Allerta, Condividere Incantesimi, \\
-	         &  		& 0    & Legame Empatico\\
+	&  		& 0    & Legame Empatico\\
 	3-4      & +2       & +1   & Trasmettere Incantesimi a contatto\\
 	5-6      & +3       & +1   & Parlare con gli Animali della Sua Specie\\
 	7-8      & +4       & +1   & Parlare con il Padrone\\
@@ -4936,7 +4948,7 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 	15-16    & +8       & +3   & -\\
 	17-18    & +9       & +3   & -\\
 	19-20    & +10      & +3   & -\\
-\end{tabularx}
+\end{tabular}
 
 \bigskip
 
@@ -5027,16 +5039,17 @@ Determinate armi, particolarmente magiche possono ignorare la DR \index{Ignorare
 
 \textbf{Tabella: Equivalenza Armi Magiche}\index{Tabella Equivalenza Armi Magiche}
 
-\medskip
 
-\begin{tabularx}{0.45\textwidth}{XXX}
+\begin{tabular}{lll}
 	\toprule
-	\textbf{DR da superare} & \textbf{Incantamento sull'arma} & \textbf{Attacco Naturale}\\
+	\textbf{DR da superare} & \textbf{Incantamento} & \textbf{Attacco}\\
+	& \textbf{arma}& \textbf{Naturale}\\
 	Incantamento +1         & +1              & Livello 3\\
 	Incantamento +2         & +2              & Livello 6\\
-	Ferro Freddo / Argento  & +2              & Livello 9\\
+	Ferro Freddo  			& +2              & Livello 9\\
+	Argento 				& +2              & Livello 9\\
 	Adamantio               & +3              & Livello 12\\
-\end{tabularx}
+\end{tabular}
 
 \medskip
 
@@ -5931,9 +5944,11 @@ sei claudicante
 
 \bigskip
 
+\end{multicols}
+
 \textbf{Tabella Fobie (5-15 punti)}\index{Fobie}\index{Tabella delle Fobie}
 
-\begin{tabularx}{0.45\textwidth}{lX}
+\begin{tabular}{ll}
 	\toprule
 	\textbf{Nome Fobia} & \textbf{Descrizione}\\
 	Blennofobia         & Paura Delle Cose Viscide\\
@@ -5956,9 +5971,8 @@ sei claudicante
 	Emofobico           & Paura Del Sangue\\
 	Traumatofobia       & Paura Di Ferirsi\\
 	Sciofobia           & Paura Delle Ombre\\
-\end{tabularx}
+\end{tabular}
 
-\end{multicols}
 
 \pagebreak
 
@@ -6115,18 +6129,18 @@ Infine ogni Patrono concede l'energia magica per lanciare gli incantesimi e pred
 
 \bigskip
 
-\textbf{Tabella Elementi}\index{Tabella degli Elementi}
+\textbf{Tabella Elementi - Energia}\index{Tabella degli Elementi}
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{XXX}
+\begin{tabular}{lll}
 	\toprule
 	\textbf{Positivi} (+1) & \textbf{Neutrali} (0) & \textbf{Negativi} (-1)\\
-	Energia Positiva       & Fuoco                 & Energia Negativa\\
+	En. Positiva       & Fuoco                 & En. Negativa\\
 	Luce                   & Freddo                & Vuoto\\
-	                       & Suono                 & \\
-	                       & Elettricità/Fulmine  & \\
-\end{tabularx}
+	& Suono                 & \\
+	& Elettricità  & \\
+\end{tabular}
 
 \medskip
 
@@ -6858,38 +6872,43 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 
 \subsubsection{Tabella collegamento Patrono - Tratto}\index{Tabella collegamento Patrono - Tratto}
 
-\label{tabella-collegamento-patrono---tratto}
 \medskip
 %\begin{xltabular}{1\textwidth}{lllllll}
-\begin{tabularx}{0.95\textwidth}{XXXXXXX}
+\begin{tabular}{lllllll}
 	\toprule
 	\textbf{Patrono} & \textbf{Tratto} & \textbf{Tratto} & \textbf{Tratto} & \textbf{Tratto}  & \textbf{Tratto}& \textbf{Tratto}\\
-\textbf{Ljust}& Coraggioso& Generoso& Empatico& Protettivo& Istintivo& Anticonformista\\
-\textbf{Calicante}& Egoista& Vendicativo& Superbo& Iracondo& Passionale& Diretto\\
-\textbf{Atmos}& Osservatore& Distaccato& Prudente& Riflessivo& Integerrimo& Crudele\\
-\textbf{Lynx}& Solitario& Serio& Rigido& Controllato& Coraggioso& Imbronciato\\
-\textbf{Gradh}& Indomito& Protettivo& Vendicativo& Coraggioso& Freddo& Diffidente\\
-\textbf{Atherim}& Allegro& Calmo& Industrioso& Buono& Silenzioso& Clemente\\
-\textbf{Belevon}& Confusionario& Narcisista& Casto& Bugiardo& Curioso& Doppiogiochista\\
-\textbf{Cattalm}& Distruttivo& Anarchico& Meticoloso& Sadico& Provocatore& Brutale\\
-\textbf{Efrem}& Indifferente& Leale& Ironico& Pratico& Misurato& Incostante\\
-\textbf{Erondil}& Incontentabile&Perfezionista & Sognatore& Esuberante& Geloso& Imprudente\\
-\textbf{Gaya}& Anarchico& Istintivo& Impetuoso& Emotivo& Permaloso& Lunatico\\
-\textbf{Krondal}& Attento& Pio& Corretto& Libero& Conformista& Incontentabile\\
-\textbf{Ledyal}& Introverso / Integerrimo& Sospettoso& Caritatevole& Clemente / Implacabile& Timido / Suscettibile& Leale / Passionale\\
-\textbf{Nethergal}& Sarcastico& Impetuoso& Immaturo& Logorroico& Competitivo& Avventato\\
-\textbf{Nedraf}& Disciplinato& Combattivo& Tenace& Aggressivo& Pianificatore& Malizioso\\
-\textbf{Nihar}& Altruista& Determinato& Cortese& Attento& Diffidente& Caotico\\
-\textbf{Orudjs}&  Ironico& Codardo& Saccente& Socievole& Incostante& Creativo\\
-\textbf{Orlaith}& Imparziale& Giusto& Vendicativo& Valoroso& Schietto& Espansivo\\
-\textbf{Rezh}& Avaro& Arrogante& Cattivo& Freddo& Geloso& Abitudinario\\
-\textbf{Sumkir}& Giusto& Curioso& Buono& Valoroso& Candido& Disordinato\\
-\textbf{Shayalia}& Lussurioso& Volubile& Pessimista& Sado - masochista& Arrogante& Falso\\
-\textbf{Sixiser}& Riservato& Indifferente& Accumulatore& Paranoico& Bugiardo& Insensibile\\
-\textbf{Tazher}& Scontroso& Calcolatore& Perfezionista& Cattivo& Insensibile& Burbero\\
-\textbf{Thaft}& Semplice& Silenzioso& Mite& Sicuro& Disciplinato& Ottimista\\
-\textbf{Torbiorn}&  Altezzoso& Ansioso& Vanitoso& Permaloso& Cauto& Irascibile\\
-\end{tabularx}
+	\textbf{Ljust}& Coraggioso& Generoso& Empatico& Protettivo& Istintivo& Anticonformista\\
+	\textbf{Calicante}& Egoista& Vendicativo& Superbo& Iracondo& Passionale& Diretto\\
+	\textbf{Atmos}& Osservatore& Distaccato& Prudente& Riflessivo& Integerrimo& Crudele\\
+	\textbf{Lynx}& Solitario& Serio& Rigido& Controllato& Coraggioso& Imbronciato\\
+	\textbf{Gradh}& Indomito& Protettivo& Vendicativo& Coraggioso& Freddo& Diffidente\\
+	\textbf{Atherim}& Allegro& Calmo& Industrioso& Buono& Silenzioso& Clemente\\
+	\textbf{Belevon}& Confusionario& Narcisista& Casto& Bugiardo& Curioso& Doppiogiochista\\
+	\textbf{Cattalm}& Distruttivo& Anarchico& Meticoloso& Sadico& Provocatore& Brutale\\
+	\textbf{Efrem}& Indifferente& Leale& Ironico& Pratico& Misurato& Incostante\\
+	\textbf{Erondil}& Incontentabile&Perfezionista & Sognatore& Esuberante& Geloso& Imprudente\\
+	\textbf{Gaya}& Anarchico& Istintivo& Impetuoso& Emotivo& Permaloso& Lunatico\\
+	\textbf{Krondal}& Attento& Pio& Corretto& Libero& Conformista& Incontentabile\\
+	\textbf{Ledyal}& Introverso & Sospettoso& Caritatevole& Clemente& Timido & Leale \\
+	\textbf{Leydel}&  Integerrimo& Sospettoso& Caritatevole&  Implacabile&  Suscettibile& Passionale\\
+	\textbf{Nethergal}& Sarcastico& Impetuoso& Immaturo& Logorroico& Competitivo& Avventato\\
+	\textbf{Nedraf}& Disciplinato& Combattivo& Tenace& Aggressivo& Pianificatore& Malizioso\\
+	\textbf{Nihar}& Altruista& Determinato& Cortese& Attento& Diffidente& Caotico\\
+	\textbf{Orudjs}&  Ironico& Codardo& Saccente& Socievole& Incostante& Creativo\\
+	\textbf{Orlaith}& Imparziale& Giusto& Vendicativo& Valoroso& Schietto& Espansivo\\
+	\textbf{Rezh}& Avaro& Arrogante& Cattivo& Freddo& Geloso& Abitudinario\\
+	\textbf{Sumkir}& Giusto& Curioso& Buono& Valoroso& Candido& Disordinato\\
+	\textbf{Shayalia}& Lussurioso& Volubile& Pessimista& Sadomasochista& Arrogante& Falso\\
+	\textbf{Sixiser}& Riservato& Indifferente& Accumulatore& Paranoico& Bugiardo& Insensibile\\
+	\textbf{Tazher}& Scontroso& Calcolatore& Perfezionista& Cattivo& Insensibile& Burbero\\
+	\textbf{Thaft}& Semplice& Silenzioso& Mite& Sicuro& Disciplinato& Ottimista\\
+	\textbf{Torbiorn}&  Altezzoso& Ansioso& Vanitoso& Permaloso& Cauto& Irascibile\\
+\end{tabular}
+
+
+\bigskip
+
+\label{tabella-collegamento-patrono---tratto}
 
 \bigskip
 
@@ -6932,15 +6951,15 @@ La moneta più comune è la moneta d'oro (mo). Una moneta d'oro vale 10 monete d
 
 \medskip
 
-%\begin{tabularx}{1\textwidth}{L{3cm} L{3cm} L{3cm} L{3cm} L{3cm}}
-\begin{tabularx}{0.45\textwidth}{XXXXX}
-\toprule
-\textbf{Moneta di} & \textbf{Rame (mr)} & \textbf{Argento (ma)} & \textbf{Oro (mo)} & \textbf{Platino (mp)}\\
-Rame& 1& 1/10& 1/100& 1/1000\\
-Argento  & 10    & 1   & 1/10 & 1/100\\
-Oro & 100   & 10  & 1    & 1/10\\
-Platino  & 1000  & 100 & 10   & 1\\
-\end{tabularx}
+\begin{tabular}{lllll}
+	\toprule
+\textbf{Tipo di} & \textbf{Rame} & \textbf{Argento} & \textbf{Oro} & \textbf{Platino}\\
+\textbf{Moneta} & (\textbf{mr})&(\textbf{ma})&(\textbf{mo})&(\textbf{mp})\\
+	Rame& 1& 1/10& 1/100& 1/1000\\
+	Argento  & 10    & 1   & 1/10 & 1/100\\
+	Oro & 100   & 10  & 1    & 1/10\\
+	Platino  & 1000  & 100 & 10   & 1\\
+\end{tabular}
 
 \medskip
 
@@ -6957,7 +6976,8 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{lX}
+
+\begin{tabular}{ll}
 	\toprule
 	\textbf{Costo} & \textbf{Oggetto}\\
 	1 mr & Frumento (0.5 kg)\\
@@ -6970,8 +6990,9 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 	4 mo & Lino (1 m\textsuperscript{2}\\
 	5 mo & Sale o argento (0.5 kg) \\
 	10 mo& Seta (1 m) o mucca (1)\\
-	15 mo& Zafferano o chiodi di garofano (0.5 kg) o bue (1)\\
-\end{tabularx}
+	15 mo& Zafferano(0.5 kg)/bue (1)\\
+	30 mo&Chiodi di garofano (1kg)\\
+\end{tabular}
 
 \medskip
 
@@ -7002,66 +7023,72 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 
 \textbf{Tabella: Lista della Armi}\index{Tabella Lista della Armi}
 
-\medskip
+\begin{tabular}{lllll}
+\hline
+\textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata, Lista, Speciale} & Peso (kg)\\
+Alabarda& 10 & G/1d10 P/T& \textbf{Lance}, \textbf{Aste}, Controcarica, Arma lunga, ED9 & 4\\
+Arco Corto& 30 & M/1d6 P& 15 metri, \textbf{Arco}, da tiro& 1\\
+Arco Corto Composito& note*& M/Frecce& 20 metri, \textbf{Arco}, da tiro& 1.5\\
+Arco Lungo& 75 & G/Frecce& 20 metri, \textbf{Arco}, da tiro& 2\\
+Arco Lungo Composito& note*& G/Frecce& 36 metri, \textbf{Arco}, da tiro& 2.5\\
+Ascia ad una mano& 6  & M/1d6 T& 6 metri, \textbf{Asce}, \textbf{Armi da Tiro}, Versatile& 1\\
+Ascia da battaglia& 10 & M/1d10 T&\textbf{Asce}& 3\\
+Ascia Martello& 16 & M/1d6 T/B& \textbf{Asce}& 3\\
+Balestra ad una mano& 100& M/Dardi& 6 metri, \textbf{Balestre}, da tiro& 1\\
+Balestra leggera& 35 & P/Dardi& 15 metri, \textbf{Balestre}, \textbf{Armi Semplici}, da tiro& 0.5\\
+Balestra pesante& 50 & G/Dardi& 20 metri \textbf{Balestre}, da tiro& 3\\
+Bastone& 3& M/1d6 B& \textbf{Armi Semplici}, Arma lunga, Versatile& 2\\
+Bolas& 4& P/1d3 B&6 metri, \textbf{Bloccanti}, intralciato& 0.5\\
+Brandistocco& 10 & M/2d4 P/T& \textbf{Lance}, Controcarica, Arma lunga& 3\\
+Catena chiodata& 25 & G/2d4 P& \textbf{Palle rotanti}, Arma lunga& 4\\
+Falce& 18 & G/2d4 P/T& \textbf{Armi della Morte}, Arma lunga& 3\\
+Falcetto& 6& P/1d6 T& \textbf{Armi della Morte} & 1\\
+Falcione& 75 & M/2d4 T& \textbf{Armi Aggraziate}, \textbf{Lance}, ED7& 2\\
+Falcione in asta& 12 & G/1d10 P/T& \textbf{Lance}, Controcarica, Arma lunga, ED9& 3\\
+Fionda& -& P/1d4 B& 10 metri, \textbf{Archi}, da tiro& 0.5\\
+Flagello& 8& M/1d8 B& \textbf{Palle Rotanti}, \textbf{Rompi Cranio}& 3\\
+Flagello Doppio& 90 & M/1d10 B& \textbf{Palle Rotanti}, \textbf{Armi doppie} & 4\\
+Flagello Pesante& 15 & M/1d10 B& \textbf{Palle Rotanti}, \textbf{Armi doppie}& 3\\
+Frusta& 1& M/1d3 T& \textbf{Palle Rotanti}, Arma lunga& 2\\
+Giavellotto& 1& P/1d6P& 12 metri, \textbf{Aste}, \textbf{Armi da tiro} \textbf{Armi Semplici}& 1.5\\
+Grande Ascia Doppia& 25 & G/1d12 T& \textbf{Asce}, \textbf{Armi doppie}, Arma lunga& 4\\
+Grosso randello& 2& M/1d8 B&\textbf{Rompi Cranio}& 2\\
+Guanto chiodato& 5& P/1d4 P&\textbf{Armi da Stordimento}& 1\\
+Katana& 300& M/1d10 T& \textbf{Spade}, ED9, Versatile& 1.5\\
+Lancia& 10 & G/1d8 P&\textbf{Lance}, Arma lunga, Controcarica& 3\\
+Lancia corta da fante& 1& M/1d6 P& 6 metri, \textbf{Armi da tiro}, \textbf{Armi Semplici},\textbf{Aste} & 1.5\\
+Lancia da fante& 2& M/1d8 P&6 metri, \textbf{Lance}, Arma lunga, Controcarica& 2 \\
+Machete& 10 & M/1d6 T&\textbf{Armi letali} & 1\\
+Manganello& 1& P/1d6 B& \textbf{Armi da stordimento}, non letale& 0.5\\
+Martello da guerra& 5& M/1d8 B/P& 6 metri, \textbf{Rompi Cranio}& 1.5\\
+Mazza Leggera& 3& P/1d6 B/T& \textbf{Armi Leggere}, \textbf{Rompi Cranio}, \textbf{Armi Semplici}&1\\
+Mazza Pesante& 5& M/1d8 B/T& \textbf{Rompi Cranio}& 2\\
+Morningstar& 6& M 1d8 B/P&\textbf{Rompi Cranio},\textbf{ Armi Semplici}& 1\\
+Naginata& 8& G/1d10 T&\textbf{Lance}, Arma lunga, ED9& 2\\
+\end{tabular}
 
-\begin{xltabular}{1\textwidth}{lllXr}
-	\hline
-	\textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata, Lista, Speciale} & Peso (kg)\\
-	Alabarda& 10 & G/1d10 P/T& \textbf{Lance}, \textbf{Aste}, Controcarica, Arma lunga, ED9 & 4\\
-	Arco Corto& 30 & M/1d6 P& 15 metri, \textbf{Arco}, da tiro& 1\\
-	Arco Corto Composito& note*& M/Frecce& 20 metri, \textbf{Arco}, da tiro& 1.5\\
-	Arco Lungo& 75 & G/Frecce& 20 metri, \textbf{Arco}, da tiro& 2\\
-	Arco Lungo Composito& note*& G/Frecce& 36 metri, \textbf{Arco}, da tiro& 2.5\\
-	Ascia ad una mano& 6  & M/1d6 T& 6 metri, \textbf{Asce}, \textbf{Armi da Tiro}, Versatile& 1\\
-	Ascia da battaglia& 10 & M/1d10 T&\textbf{Asce}& 3\\
-	Ascia Martello& 16 & M/1d6 T/B& \textbf{Asce}& 3\\
-	Balestra ad una mano& 100& M/Dardi& 6 metri, \textbf{Balestre}, da tiro& 1\\
-	Balestra leggera& 35 & P/Dardi& 15 metri, \textbf{Balestre}, \textbf{Armi Semplici}, da tiro& 0.5\\
-	Balestra pesante& 50 & G/Dardi& 20 metri \textbf{Balestre}, da tiro& 3\\
-	Bastone& 3& M/1d6 B& \textbf{Armi Semplici}, Arma lunga, Versatile& 2\\
-	Bolas& 4& P/1d3 B&6 metri, \textbf{Bloccanti}, intralciato& 0.5\\
-	Brandistocco& 10 & M/2d4 P/T& \textbf{Lance}, Controcarica, Arma lunga& 3\\
-	Catena chiodata& 25 & G/2d4 P& \textbf{Palle rotanti}, Arma lunga& 4\\
-	Falce& 18 & G/2d4 P/T& \textbf{Armi della Morte}, Arma lunga& 3\\
-	Falcetto& 6& P/1d6 T& \textbf{Armi della Morte} & 1\\
-	Falcione& 75 & M/2d4 T& \textbf{Armi Aggraziate}, \textbf{Lance}, ED7& 2\\
-	Falcione in asta& 12 & G/1d10 P/T& \textbf{Lance}, Controcarica, Arma lunga, ED9& 3\\
-	Fionda& -& P/1d4 B& 10 metri, \textbf{Archi}, da tiro& 0.5\\
-	Flagello& 8& M/1d8 B& \textbf{Palle Rotanti}, \textbf{Rompi Cranio}& 3\\
-	Flagello Doppio& 90 & M/1d10 B& \textbf{Palle Rotanti}, \textbf{Armi doppie} & 4\\
-	Flagello Pesante& 15 & M/1d10 B& \textbf{Palle Rotanti}, \textbf{Armi doppie}& 3\\
-	Frusta& 1& M/1d3 T& \textbf{Palle Rotanti}, Arma lunga& 2\\
-	Giavellotto& 1& P/1d6P& 12 metri, \textbf{Aste}, \textbf{Armi da tiro} \textbf{Armi Semplici}& 1.5\\
-	Grande Ascia Doppia& 25 & G/1d12 T& \textbf{Asce}, \textbf{Armi doppie}, Arma lunga& 4\\
-	Grosso randello& 2& M/1d8 B&\textbf{Rompi Cranio}& 2\\
-	Guanto chiodato& 5& P/1d4 P&\textbf{Armi da Stordimento}& 1\\
-	Katana& 300& M/1d10 T& \textbf{Spade}, ED9, Versatile& 1.5\\
-	Lancia& 10 & G/1d8 P&\textbf{Lance}, Arma lunga, Controcarica& 3\\
-	Lancia corta da fante& 1& M/1d6 P& 6 metri, \textbf{Armi da tiro}, \textbf{Armi Semplici},\textbf{Aste} & 1.5\\
-	Lancia da fante& 2& M/1d8 P&6 metri, \textbf{Lance}, Arma lunga, Controcarica& 2 \\
-	Machete& 10 & M/1d6 T&\textbf{Armi letali} & 1\\
-	Manganello& 1& P/1d6 B& \textbf{Armi da stordimento}, non letale& 0.5\\
-	Martello da guerra& 5& M/1d8 B/P& 6 metri, \textbf{Rompi Cranio}& 1.5\\
-	Mazza Leggera& 3& P/1d6 B/T& \textbf{Armi Leggere}, \textbf{Rompi Cranio}, \textbf{Armi Semplici}&1\\
-	Mazza Pesante& 5& M/1d8 B/T& \textbf{Rompi Cranio}& 2\\
-	Morningstar& 6& M 1d8 B/P&\textbf{Rompi Cranio},\textbf{ Armi Semplici}& 1\\
-	Naginata& 8& G/1d10 T&\textbf{Lance}, Arma lunga, ED9& 2\\
-	Picca Leggera& 4& M/1d4 P&\textbf{Armi della morte}& 1\\
-	Picca Pesante& 8& G/1d6 P&\textbf{Armi della morte}, Arma lunga& 3\\
-	Pugnale& 2& P/1d4 P& 6 metri, \textbf{Armi leggere}, \textbf{Armi da tiro}, \textbf{Armi letali}, \textbf{Armi Semplici}, Versatile& 0.5\\
-	Pugno/Calcio nudo& note*& P/1d4 B&Versatile& -\\
-	Randello& 1& P/1d6 B&\textbf{Rompi Cranio}, \textbf{Armi Semplici}& 0.5\\
-	Rete& 8& M-&3 metri, \textbf{Bloccanti}, intralciato& 1\\
-	Scimitarra& 15 & M/1d6 T&\textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile& 1.5\\
-	Spada a due lame& 100& G/1d8 T& \textbf{Armi doppie}, \textbf{Spade}, Arma lunga& 3\\
-	Spada bastarda& 35 & M/1d10 T&\textbf{Spade}& 2\\
-	Spada Corta& 10 & P/1d6 P&\textbf{Armi Leggere}, \textbf{Spade}, Versatile& 1\\
-	Spada Lunga& 15 & M/1d8 T&\textbf{Spade}& 1.5\\
-	Spadone a due mani& 50 & G/2d6 T&\textbf{Spade}& 3\\
-	Stocco& 20 & P/1d6 P& \textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile& 1\\
-	Tridente& 15 & M/1d6 P/T& 3 metri, \textbf{Aste}, \textbf{Armi da tiro}, Arma Lunga, Controcarica& 2\\
-	Urgrosh& 18 & M/1d6 T/P& \textbf{Lance}, \textbf{Armi doppie}, Arma lunga & 3\\
-\end{xltabular}
+
+\begin{tabular}{lllll}
+\hline
+\textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata, Lista, Speciale} & Peso (kg)\\
+Picca Leggera& 4& M/1d4 P&\textbf{Armi della morte}& 1\\
+Picca Pesante& 8& G/1d6 P&\textbf{Armi della morte}, Arma lunga& 3\\
+Pugnale& 2& P/1d4 P& 6 metri, \textbf{Armi leggere}, \textbf{Armi da tiro}\\
+&&& \textbf{Armi letali}, \textbf{Armi Semplici}, Versatile& 0.5\\
+Pugno/Calcio nudo& note*& P/1d4 B&Versatile& -\\
+Randello& 1& P/1d6 B&\textbf{Rompi Cranio}, \textbf{Armi Semplici}& 0.5\\
+Rete& 8& M-&3 metri, \textbf{Bloccanti}, intralciato& 1\\
+Scimitarra& 15 & M/1d6 T&\textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile& 1.5\\
+Spada a due lame& 100& G/1d8 T& \textbf{Armi doppie}, \textbf{Spade}, Arma lunga& 3\\
+Spada bastarda& 35 & M/1d10 T&\textbf{Spade}& 2\\
+Spada Corta& 10 & P/1d6 P&\textbf{Armi Leggere}, \textbf{Spade}, Versatile& 1\\
+Spada Lunga& 15 & M/1d8 T&\textbf{Spade}& 1.5\\
+Spadone a due mani& 50 & G/2d6 T&\textbf{Spade}& 3\\
+Stocco& 20 & P/1d6 P& \textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile& 1\\
+Tridente& 15 & M/1d6 P/T& 3 metri, \textbf{Aste}, \textbf{Armi da tiro}, Arma Lunga, Controcarica& 2\\
+Urgrosh& 18 & M/1d6 T/P& \textbf{Lance}, \textbf{Armi doppie}, Arma lunga & 3\\
+\end{tabular}
+
 
 \bigskip
 
@@ -7461,8 +7488,9 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 \medskip
 
 
-\begin{xltabular}{\linewidth}{lcc|lcc}	
+\begin{tabularx}{\linewidth}{lcc|lcc}	
 	\textbf{Oggetto}	&\textbf{Costo}&	\textbf{Peso}&\textbf{Oggetto}	&\textbf{Costo}	&\textbf{Peso}\\
+&&&&&\\
 	\hline
 	Abaco&	2 mo&	1 kg&Abito, Comune&	5 ma&	1,5 kg\\
 	Abito, Costume	&5 mo&	2 kg&Abito, da Viaggiatore	&2 mo&	2 kg\\
@@ -7512,7 +7540,7 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 	Triboli (sacchetto da 20)&1 mo&1 kg&Vanga o Badile&2 mo&2,5 kg\\
 	Vaso di Ferro&2 mo&5 kg&Veleno, base (fiala)&100 mo&-\\
 	Veste&1 mo&2 kg&Zaino&2 mo&2,5 kg\\
-\end{xltabular}
+\end{tabularx}
 
 
 \bigskip
@@ -7650,7 +7678,7 @@ L'equipaggiamento di partenza che un personaggio riceve al primo livello dipende
 
 \subsubsection{Capienza dei Contenitori}
 
-\begin{tabularx}{0.9\textwidth}{lX}
+\begin{tabularx}{0.9\textwidth}{ll}
 		\hline
 	\textbf{Contenitore}&\textbf{Capienza}\\
 	Ampolla o Boccale&0,5 litri\\
@@ -7735,27 +7763,29 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 
 \subsubsection{Cavalcature e Altri Animali}
 
-\begin{tabularx}{0.45\textwidth}{XllX}
-		\hline
-	\textbf{Cavalcatura}&\textbf{Costo}&\textbf{Velocità}&\textbf{Capacità di Trasporto}\\
 
-	Asino o Mulo&8 mo&12 m&210 kg\\
-	Cammello&50 mo&15 m&240 kg\\
-	Cavallo da Galoppo&75 mo&18 m&240 kg\\
-	Cavallo da Guerra&400 mo&18 m&270 kg\\
-	Cavallo da Tiro&50 mo&12 m&270 kg\\
-	Elefante&200 mo&12 m&660 kg\\
-	Mastino&25 mo&12 m&97,5 kg\\
-	Pony&30 mo&12 m&112,5 kg\\
+\begin{tabularx}{0.45\textwidth}{lllX}
+	\hline
+	\textbf{Cavalcatura}&\textbf{Costo}&\textbf{Mov.}&\textbf{Trasporto}\\
+	&(\textbf{mo})&&\\
+	
+	Asino o Mulo&8&12 m&210 kg\\
+	Cammello&50&15 m&240 kg\\
+	Cavallo da Galoppo&75&18 m&240 kg\\
+	Cavallo da Guerra&400&18 m&270 kg\\
+	Cavallo da Tiro&50&12 m&270 kg\\
+	Elefante&200&12 m&660 kg\\
+	Mastino&25&12 m&97,5 kg\\
+	Pony&30&12 m&112,5 kg\\
 \end{tabularx}
+
 
 \bigskip
 
 \textbf{Finimenti e Veicoli da Tiro}\\
-\begin{tabularx}{0.45\textwidth}{XXX}
+\begin{tabularx}{0.45\textwidth}{lll}
 		\hline
 	\textbf{Oggetto}&\textbf{Costo}&\textbf{Peso}\\
-
 	Bardatura&x4&x2\\
 	Biga&250 mo&50 kg\\
 	Bisacce&4 mo&4 kg\\
@@ -7769,7 +7799,7 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 \bigskip
 
 \textbf{Sella}\\
-\begin{tabularx}{0.45\textwidth}{XXX}
+\begin{tabularx}{0.45\textwidth}{lll}
 		\hline
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Peso}\\
 	Da Carico&5 mo&7,5 kg\\
@@ -7783,8 +7813,8 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 \bigskip
 
 \textbf{Imbarcazioni}\\
-\begin{tabularx}{0.45\textwidth}{XXX}
-		\hline
+\begin{tabularx}{0.45\textwidth}{lll}
+	\hline
 	\textbf{Oggetto}&\textbf{Costo}&\textbf{Velocità}\\
 	Barca a Remi&50 mo&2,25 km orari\\
 	Barcone&3.000 mo&1,5 km orari\\
@@ -7793,6 +7823,7 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 	Nave da Guerra&25.000 mo&3,75 km orari\\
 	Nave Lunga&10.000 mo&4,5 km orari\\
 \end{tabularx}
+
 
 \subsubsection{Spese}
 Quando non si calano nelle viscere della terra, non esplorano rovine in cerca di tesori perduti o non muovono guerra alle forze dell'oscurità incombente, anche gli avventurieri devono pensare ai bisogni più comuni. Anche in un modo fantastico, la gente deve soddisfare bisogni basilari come un vitto, alloggio e vestiario. Tutto questo ha un costo, anche se certi stili di vita costano più di altri.
@@ -7806,7 +7837,7 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 \textbf{Spese dello Stile di Vita}
 
-\begin{tabularx}{0.45\textwidth}{XX}
+\begin{tabularx}{0.45\textwidth}{ll}
 	\hline
 	Stile di Vita&Prezzo/Giorno\\
 	Miserabile&-\\
@@ -7863,7 +7894,7 @@ La tabella "Vitto e Alloggio" indica i prezzi delle singole pietanze e di un sin
 
 \bigskip
 
-\begin{tabularx}{0.45\textwidth}{XX}
+\begin{tabularx}{0.45\textwidth}{ll}
 	\hline
 	\textbf{Oggetto}&\textbf{Costo}\\
 	\textbf{Birra}&\\
@@ -7909,7 +7940,7 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 
 \bigskip
 
-\begin{tabularx}{0.45\textwidth}{XX}
+\begin{tabularx}{0.45\textwidth}{ll}
 	\hline
 	Servizio&Costo\\
 	Carrozza&\\
@@ -7956,10 +7987,10 @@ Le armature e le armi si possono costruire con materiali che possiedono delle in
 
 \label{acciaio-vivente}
 
-\begin{tabularx}{0.45\textwidth}{XX}
+\begin{tabularx}{0.45\textwidth}{Xl}
 	\toprule
 	\textbf{Tipo di oggetto in Acciaio Vivente} & \textbf{Modificatore al costo}\\
-	Munizione                         & +10 mo per munizione\\
+ 	Munizione                         & +10 mo per munizione\\
 	Arma                              & +600 mo\\
 	Armatura leggera                  & +600 mo\\
 	Armatura media                    & +1000 mo\\
@@ -7980,7 +8011,7 @@ L'acciaio vivente ha 35 Punti Ferita per 2,5 cm di spessore e Durezza 15.
 
 \label{adamantio}
 
-\begin{tabularx}{0.45\textwidth}{XX}
+\begin{tabularx}{0.45\textwidth}{Xl}
 	\toprule
 	\textbf{Tipo di oggetto in Adamantio} & \textbf{Modificatore al costo}\\
 	Munizione                   & +60 mo per munizione\\
@@ -8002,7 +8033,7 @@ Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un
 
 \label{argento-alchemico}
 
-\begin{tabularx}{0.45\textwidth}{XX}
+\begin{tabularx}{0.45\textwidth}{Xl}
 	\toprule
 	\textbf{Tipo di Oggetto in Argento Alchemico} & \textbf{Modificatore al costo}\\
 	Munizione                      & +2 mo per munizione\\
@@ -8033,7 +8064,7 @@ Il ferro freddo ha 30 Punti Ferita per 2,5 cm di spessore e Durezza 10.
 
 \label{mithral}
 
-\begin{tabularx}{0.45\textwidth}{XX}
+\begin{tabularx}{0.45\textwidth}{Xl}
 	\toprule
 	\textbf{Tipo di Oggetto in Mithral} & \textbf{Modificatore al costo}\\
 	Armatura leggera                    & +1000 mo\\
@@ -8195,7 +8226,7 @@ Poiché la Durezza non influisce sulla DC per rompere l'oggetto, questo valore d
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{llll}
+\begin{tabular}{llll}
 	\toprule
 	\textbf{Oggetto}& \textbf{Dur.} & \textbf{PF} & \textbf{DC}\\
 	Corda (2,5 cm di diametro)     & 0      & 2           & 23\\
@@ -8213,7 +8244,7 @@ Poiché la Durezza non influisce sulla DC per rompere l'oggetto, questo valore d
 	Manette                        & 10     & 10          & 26\\
 	Manette perfette               & 10     & 10          & 28\\
 	Porta di ferro (spessa 5 cm)   & 10     & 60          & 28\\
-\end{tabularx}
+\end{tabular}
 
 
 \bigskip
@@ -8239,6 +8270,8 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 	Mastodontica    & +12\\
 	Colossale       & +16\\
 \end{tabularx}
+
+
 
 \medskip
 
@@ -8439,7 +8472,7 @@ Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la met
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{tabularx}{0.45\textwidth}{ll}
 	\toprule
 	\textbf{Taglia dell'Oggetto} & \textbf{Danno}\\
 	Minuscola o Più Piccola      & 1d6\\
@@ -8449,7 +8482,7 @@ Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la met
 	Enorme                       & 6d6\\
 	Mastodontica                 & 8d6\\
 	Colossale                    & 10d6\\
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
@@ -10468,7 +10501,7 @@ Non si può beneficiare di più di una dose di pozioni naturali (per tipo) al gi
 
 \medskip
 
-\begin{xltabular}{0.99\textwidth}{llllXll}
+\begin{tabularx}{0.99\textwidth}{llllXll}
 \textbf{Nome}  & \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Loc.} & \textbf{Costo (mo)} \\
 \hline
 Arlandas\index{Arlandas} & R  & 1 ora& 24& Rinsalda le fratture & CF5 & 100  \\
@@ -10543,32 +10576,38 @@ Nelthalion \index{Nelthalion} & I  & -    & 15& Fa vomitare& SR3 & 1    \\
 \hline
 Uscaboo \index{Uscaboo}  & R  & 1 turno   & 25& Rimuove cecità  & MO7 & 75   \\
 \hline
-Ucsaboo \index{Ucsaboo}  & C  & 1 turno   & 30& Rigenera occhi  & MO8 & 200  \\
-\hline
-Febfendi \index{Febfendi}& C  & 1 turno   & 25& Rigenera orecchie    & CF7 & 75   \\
-\hline
-Siranmuse\index{Siranmuse}    & I  & 1 giorno  & 30& Rigenera organi interni   & SS8 & 350  \\
-\hline
-Klagul\index{Klagul}& C  & 1 turno   & 20& Pulisce i denti & SS4 & 30   \\
-\hline
-Corteccia di Aklent\index{Corteccia di Aklent}    & I  & 1 turno   & 10& La corteccia masticata per almeno 10 round concede per le 24 ore successive un +1 Tiro Salvezza vs Veleno  & MT6 & 5    \\
-\hline
-Petali di Lisbeth \index{Petali di Lisbeth}  & I  & 1 turno   & 15&+2 Intelligenza, -2 Destrezza per 10 minuti & MC6 & 20   \\
-\hline
-Estratto radice Gisenosa\index{Estratto di radice Gisenosa}  & I  & 3 turni  & 15& Cura tosse e raffreddore  & MT6 & 5    \\
-\hline
-Gylvert\index{Gylvert}   & I  & -    & 25& Concede respirare sott'acqua per 4 ore   & MO7 & 75 \\
-\hline
-Gusterbloon \index{Gusterbloon}    & C  & 1 round   & 20& La pelle diventa più scura concedendo un +4 alla prove di Nascondersi & CM5 & 40  \\
-\hline
-Lievito Muschio Bianco \index{Lievito di Muschio Bianco} & I  & -    & 12& I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore & CA3 & 1    \\
-\hline
-Estratto di Bacca Illa\index{Estratto di Bacca Illa bruciata}& I  & - & 15& +2 Iniziativa, +2 Destrezza, -4 Tiro Salvezza su Volontà, per 10 minuti    & MS6 & 5    \\
-\hline
-Corteccia Dagmather\index{Polvere di corteccia di Dagmather}    & R  & 1 round   & 25& Rimuove condizione esausto e affaticato  & SS5 & 20   \\
-\hline
-Radice secca di Kathaus\index{Radice secca di Kathaus} & R  & -    & 20& +2 Forza e Destrezza per 1 ora & FW6 & 25   \\
-\end{xltabular}
+
+\end{tabularx}
+
+\begin{tabularx}{0.99\textwidth}{llllXll}
+	\textbf{Nome}  & \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Loc.} & \textbf{Costo (mo)} \\
+	\hline
+	Ucsaboo \index{Ucsaboo}  & C  & 1 turno   & 30& Rigenera occhi  & MO8 & 200  \\
+	\hline
+	Febfendi \index{Febfendi}& C  & 1 turno   & 25& Rigenera orecchie    & CF7 & 75   \\
+	\hline
+	Siranmuse\index{Siranmuse}    & I  & 1 giorno  & 30& Rigenera organi interni   & SS8 & 350  \\
+	\hline
+	Klagul\index{Klagul}& C  & 1 turno   & 20& Pulisce i denti & SS4 & 30   \\
+	\hline
+	Corteccia di Aklent\index{Corteccia di Aklent}    & I  & 1 turno   & 10& La corteccia masticata per almeno 10 round concede per le 24 ore successive un +1 Tiro Salvezza vs Veleno  & MT6 & 5    \\
+	\hline
+	Petali di Lisbeth \index{Petali di Lisbeth}  & I  & 1 turno   & 15&+2 Intelligenza, -2 Destrezza per 10 minuti & MC6 & 20   \\
+	\hline
+	Estratto radice Gisenosa\index{Estratto di radice Gisenosa}  & I  & 3 turni  & 15& Cura tosse e raffreddore  & MT6 & 5    \\
+	\hline
+	Gylvert\index{Gylvert}   & I  & -    & 25& Concede respirare sott'acqua per 4 ore   & MO7 & 75 \\
+	\hline
+	Gusterbloon \index{Gusterbloon}    & C  & 1 round   & 20& La pelle diventa più scura concedendo un +4 alla prove di Nascondersi & CM5 & 40  \\
+	\hline
+	Lievito Muschio Bianco \index{Lievito di Muschio Bianco} & I  & -    & 12& I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore & CA3 & 1    \\
+	\hline
+	Estratto di Bacca Illa\index{Estratto di Bacca Illa bruciata}& I  & - & 15& +2 Iniziativa, +2 Destrezza, -4 Tiro Salvezza su Volontà, per 10 minuti    & MS6 & 5    \\
+	\hline
+	Corteccia Dagmather\index{Polvere di corteccia di Dagmather}    & R  & 1 round   & 25& Rimuove condizione esausto e affaticato  & SS5 & 20   \\
+	\hline
+	Radice secca di Kathaus\index{Radice secca di Kathaus} & R  & -    & 20& +2 Forza e Destrezza per 1 ora & FW6 & 25   \\
+\end{tabularx}
 
 \begin{multicols}{2}
 
@@ -11221,7 +11260,7 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{tabularx}{0.45\textwidth}{ll}
 	\toprule
 	\textbf{Difficoltà} & \textbf{Grado di Sfida (grado di Sfida)}\\
 	Facile               & APL -1\\
@@ -11229,7 +11268,7 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 	Alta & APL +1\\
 	Straordinaria        & APL +2\\
 	Epica& APL +3\\
-\end{tabular}
+\end{tabularx}
 
 \subsubsection{Costruire l'Incontro}
 
@@ -12132,7 +12171,7 @@ L'incantesimo identificare rivela che una creatura si trova all'interno dell'amp
 
 \medskip
 
-\begin{tabular}{ll}
+\begin{tabularx}{0.45\textwidth}{ll}
 d100 &Contiene\\
 1-50 &Vuota\\
 51-66 &Demone \\
@@ -12149,7 +12188,7 @@ d100 &Contiene\\
 96 &Angelo Solar\\
 97-99 &Succube/Incubo\\
 100 &Xorn\\
-\end{tabular}
+\end{tabularx}
 \medskip
 
 \index{Amuleto dei Piani}\textbf{Amuleto dei Piani}\\
@@ -12966,13 +13005,14 @@ Esistono tre tipi di corno del Valhalla, ognuno fatto di un metallo differente. 
 
 \medskip
 
-\begin{tabular}{llll}
+\begin{tabularx}{0.45\textwidth}{llll}
 \textbf{d100} &\textbf{Tipo Berserker} &\textbf{Evocati} & \textbf{Requisiti}\\
+	\hline
 01-40 &Argento& 2d4 + 2 &CA 0\\
 41-75 &Ottone& 3d4 + 3 &CA 1\\
 76-90 &Bronzo& 4d4 + 4 &CA 2\\
 91-100& Ferro& 5d4 + 5 &CA 3\\
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
