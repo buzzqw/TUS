@@ -5,7 +5,7 @@ Ho ascoltato le "lamentele" dei giocatori e cercato, anche se forse appiattendo,
 
 E cosi' e' gia' uscita la 1.1.5, indubbiamente una versione minore ma non per questo meno utile ed interessante. Il lavoro di revisione e' diventato un "labor limae" (Orazio) che mi sta dando grosse soddisfazioni. Non mi sbilancio a questo punto su che versione giocheremo a settembre, fatto sta che sara' una grande versione.
 
-Sto anche pensando di incominciare a pubblicizzare il sistema si qualche sito (dragonslair.it/ oppure https://osr-italia.itch.io/ ), penso che il sistema abbia delle potenzialita' e possa essere interessante.
+Sto anche pensando di incominciare a pubblicizzare il sistema si qualche sito (https://www.dragonslair.it/ oppure https://osr-italia.itch.io/ ), penso che il sistema abbia delle potenzialita' e possa essere interessante.
 
 **29/07/2021**
 
