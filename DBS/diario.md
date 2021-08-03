@@ -1,11 +1,11 @@
 **03/08/2021**
 
-Dendo a ripetermi lo ammetto ma il collaudo e feedback data dalla dall'ultima versione e' stato eccellente. Il changelog e' corposo ma quallo che si evidenzia e' una semplificazione sulla invisibilita' e piccoli cambiamenti sulla creazione del personaggio.
+Devo continuare a ripetermi lo ammetto ma il collaudo e feedback data dalla dall'ultima versione e' stato eccellente. Il changelog e' corposo ma quello che si evidenzia e' una semplificazione sulla invisibilita' e piccoli cambiamenti sulla creazione del personaggio.
 Ho ascoltato le "lamentele" dei giocatori e cercato, anche se forse appiattendo, di fare in modo che i personaggi non fossero troppo sbilanciati da una parte o dall'altra per quanto riguarda le statistiche.
 
-E cosi' e' gia' uscita la 1.1.5, indubbiamente una versione minore ma non per questo meno utile ed interessante. Il lavoro di revisione e' diventato un "labor limae" (Orazio) che mi sta dando grosse soddisfazioni. Non mi sbilancio a questo punto su che versione giocheremo a settembre, fatto sta che sara' una grande versione.
+E cosi' e' gia' uscita la 1.1.5, indubbiamente una versione minore ma non per questo meno utile ed interessante. Il lavoro di revisione e' diventato un "labor limae" (cit. Orazio) che mi sta dando grosse soddisfazioni. Non mi sbilancio a questo punto su che versione giocheremo a settembre, fatto sta che sara' sicuramente una grande versione.
 
-Sto anche pensando di incominciare a pubblicizzare il sistema si qualche sito (https://www.dragonslair.it/ oppure https://osr-italia.itch.io/ ), penso che il sistema abbia delle potenzialita' e possa essere interessante.
+Sto anche pensando di incominciare a pubblicizzare il sistema su qualche sito (https://www.dragonslair.it/ e https://osr-italia.itch.io/ ), penso che il sistema abbia delle potenzialita' e possa essere interessante.
 
 **29/07/2021**
 
