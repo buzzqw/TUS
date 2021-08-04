@@ -13,6 +13,17 @@ Sono stato sempre attento a non includere immagini pesanti e oltretutto se non "
 Potrei produrre il pdf non includendo le immagini, o meglio con il loro posto occupato da un rettangolo bianco, quindi ideale per avere un manuale piu' leggero (meno di 3MB) e facile da stampare.
 C'e' qualcuno interessato ?
 
+EDIT: ho fatto un'aggiunta da 4 righe, eppure mi hanno risolto un dubbio atroce. E se il sistema di magia a prove non piacesse ?
+E allora ho ragionato:
+
+se sei un mago prendi la competenza magica ad ogni livello:	come dnd standard
+se sei un mago ogni circa 2 due punti di CM in piu' lanci un nuovo livello di incantesimi:	come dnd standard
+se sei un mago lanci un numero di incantesimi al giorno che dipende dal tuo livelli:		come dnd standard
+se sei un mago apprendi dei nuovi incantesimi che dovrai trovare prima:				come dnd standard
+se sei un mago non puoi sapere tutti gli incantesimi che trovi, ne potrai apprendere un po' alla volta			come dnd standard
+
+e quindi mi reputo abbastanza soddisfatto da una piccola modifica, ovvero ignorare la prova di magia per superare la Difficolta' e lanciare l'incantesimo e basta (poi l'eventuale esplosione la gestisci facendo usare piu' slot)
+
 
 **03/08/2021**
 
