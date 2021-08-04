@@ -1,3 +1,19 @@
+**04/08/2021**
+
+Mi sto concentrando sul layout e piccole migliorie.
+
+Principalmente ho revisionato i box per i giocatori e narratore e spostato immagini per evitare pagine mezze vuote. Latex e' eccellente... ma a volte e' troppo preciso!
+
+Ho anche aggiunto qualche immagine che reputavo interessante.
+
+Il fatto e' che il manuale di DBS e' arrivato a 36.8 MB, una dimensione "significativa".
+Siamo ben lontani dai 90 mb di pathfinder ma la qualita' e' anche diversa!
+Sono stato sempre attento a non includere immagini pesanti e oltretutto se non "trovo" (sotto libera licenza o a pagamento) illustrazioni per i mostri ed incantesimi e' difficile che vada ad inserire tante altre immagini.
+
+Potrei produrre il pdf non includendo le immagini, o meglio con il loro posto occupato da un rettangolo bianco, quindi ideale per avere un manuale piu' leggero (meno di 3MB) e facile da stampare.
+C'e' qualcuno interessato ?
+
+
 **03/08/2021**
 
 Devo continuare a ripetermi lo ammetto ma il collaudo e feedback data dalla dall'ultima versione e' stato eccellente. Il changelog e' corposo ma quello che si evidenzia e' una semplificazione sulla invisibilita' e piccoli cambiamenti sulla creazione del personaggio.
