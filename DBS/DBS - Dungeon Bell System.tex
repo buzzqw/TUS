@@ -120,6 +120,25 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 	drop fuzzy shadow % adds drop shadow
 }
 
+\newtcolorbox{narratoresmall}{
+	enhanced, % enable advanced settings
+	%	left = 3mm,
+	width=0.40\textwidth,
+	left = 9mm, % pushes text away from the left edge by 10mm
+	sharp corners, % disables rounded corners
+	rounded corners = southeast, % "round" the bottom right corner
+	arc is angular, % make the "round" corner an angle
+	arc = 3mm, % controls corner cut
+	boxrule=0.6pt, % sets box line thickness
+	underlay={%
+		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+		
+	},
+	drop fuzzy shadow % adds drop shadow
+}
+
 \newtcolorbox{narratorewide}{
 	enhanced, % enable advanced settings
 	%	left = 3mm,
@@ -11894,6 +11913,15 @@ Potete aumentare o diminuire la difficoltà data dai PNG modificandone l'Equipag
 
 Occorre prestare attenzione ad assegnare ai PNG questo equipaggiamento supplementare, specie ai livelli più alti, in cui potete consumare l'intero tesoro della vostra avventura in un colpo solo!
 
+\begin{narratoresmall}
+	Ma quanti scontri gestire per sessione ?
+	
+	Non c'e' una risposta esatta (2/4 al giorno ???), molto dipende dal tipo di giocatori che avete e da che gioco fanno.
+	Rimanete concentrati sull'avventura, non andate a pensare che e' meglio non stancare i personaggi se no non reggono il prossimo scontro. Non dovete preoccuparvi eccessivamente dei personaggi, questo e' compito dei giocatori. Voi dovete ragionare in base all'ambiente dove siete ed a chi c'e' in giro.
+	
+	In ogni caso il buon senso aiuta sempre. Stancate i personaggi ma fate in modo che non sia un "Total party kill" ad ogni sessione.
+\end{narratoresmall}
+
 \subsubsection{Assegnare i PX}
 
 I personaggi avanzano di livello sconfiggendo mostri, superando sfide e completando l'avventura: nel farlo guadagnano i Punti Esperienza (PX in breve). Potete assegnare Punti Esperienza non appena una sfida viene superata, ma ciò potrebbero interrompere il flusso del gioco. E' più facile assegnare i punti esperienza alla fine di una sessione di gioco (o più sessioni) che permetta ai personaggi di riflettere su quanto accaduto. Può usare il tempo a disposizione fra le sessioni di gioco per aggiornare la scheda.
@@ -11943,7 +11971,7 @@ Un tesoro accidentale indica che potranno esserci tesori, oggetti, monete solo "
 Suggerisco di valutare un tesoro accidentale la metà di un tesoro normale. Un tesoro accidentale si presta benissimo a fornire oggetti particolari che possono dare indicazioni o fornire nuovi plot di avventura (per cosa era questa ampolla forgiata in adamantio ?)...
 
 
-\begin{narratore}
+\begin{narratoresmall}
 Un ultimo consiglio e' fare in modo che i tesori trovati nei dungeon siano distribuiti secondo questo criterio:
 
 - un terzo li avranno i mostri addosso
@@ -11953,7 +11981,7 @@ Un ultimo consiglio e' fare in modo che i tesori trovati nei dungeon siano distr
 - un terzo sarà sparso in giro
 
 Questo stimolerà i giocatori a continuare l'esplorazione, affrontare i mostri e cercare attivamente nel dungeon.
-\end{narratore}
+\end{narratoresmall}
 
 \medskip
 
@@ -12180,14 +12208,6 @@ I mostri non devono essere stupidi per forza. Falli parlare, ragionare, scappare
 \end{itemize}
 
 \end{multicols}
-
-\bigskip
-
-\begin{center}
-	\includegraphics[width=0.30\linewidth]{immagini/segrete.png}
-\end{center}
-
-
 
 \pagebreak
 
