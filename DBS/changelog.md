@@ -147,5 +147,7 @@ Aggiunto Blocca persona avanzato - Comprensione degli scritti - Creare Birra - C
 *1.1.7* pubblicato su github 1.1.6, aggiornata versione manuale, aggiornata copertina, aggiornato indice, aggiornata copertina perche' usi una variabile per la versione cosi' si cambia una volta e basta, 
 
 
+controllare incantesimi a tocco
+
 Obiettivi: revisione immagini, ridurre numero incantesimi, ridurre complessità e fare che le regole siano piu' universali senza che siano necessari chiarimenti ed eccezioni, rendere il sistema piu' osr, valutare se rimuovere o riscrivere completamente avventure in acqua-citta'-disastri-dungeon-pericoli avventura per una maggiore rispondenza alla ogl, verificare tiri per colpire mostri se necessario alzarli (+1/2 CR), 
 
