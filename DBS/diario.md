@@ -6,6 +6,13 @@ Sono soddisfatto delle modifiche fatte in particolare della modifica ai tiri sal
 
 Ho preferito pubblicare la versione cosi' che tutti i giocatori possano testare e verificare le ultime modifiche.
 
+Mi verrebbe da dire che le prossime versione saranno piu' diradate.. considerando la stabilita' del sistema ma io per primo faccio fatica a crederci.
+Il sistema e' stabile e funzionante, il collaudo sta andando bene ed i feedback positivi, eppure per una malia nel mio spirito so che non mi accontentero' mai e so gia' che ... chissa tra quanto.. DBS sara' tuttaltro sistema.. ed anzi avra' direttamente un nuovo nome!
+
+Ma e' giusto cosi', il processo creativo non si ferma mai ne si deve fermare!
+
+So gia' come sara' il prossimo, devo solo convincermi che e' meglio di DBS ;)
+
 
 **04/08/2021**
 
