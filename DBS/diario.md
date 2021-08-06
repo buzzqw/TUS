@@ -1,3 +1,12 @@
+**06/08/2021**
+
+Ho deciso di pubblicare la 1.1.6 anche se le modifiche non erano tante come numero ma le poche presenti importanti e significative.
+
+Sono soddisfatto delle modifiche fatte in particolare della modifica ai tiri salvezza data dalla scelta delle abilita' e' estremamente coerente con sistema classless di Dungeon Bell System.
+
+Ho preferito pubblicare la versione cosi' che tutti i giocatori possano testare e verificare le ultime modifiche.
+
+
 **04/08/2021**
 
 Mi sto concentrando sul layout e piccole migliorie.
