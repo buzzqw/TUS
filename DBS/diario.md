@@ -1,3 +1,26 @@
+**07/08/2021**
+
+Alla fine ho fatto quello ceh pensavo ovvero ho aumentato tutte le difficolta' degli incantesimi
+Cosa significa ?
+
+che hai bassi livelli e' piu' difficile usare la magia ed ad alti livelli e' facile tirare incantesimi di non massima Difficoltà, perche' quelli appena appresi o comunque a piu' alta difficolta' rimangono difficili da lanciare.
+
+Ci sono pero' diverse considerazioni e possibilita' di aiuto
+
+- essere un devoto (+2 ad una scuola)
+- essere un devoto e usare l'energia del patrono (+2)
+- prendere le nuove abilita' inserite
+
+le nuove abilita' sono utili:
+
+- *Il Patrono e' con me* ti permette di ritirare i dadi che fanno basso
+- *Il Patrono e' la mia magia* questa abilita' e' estremamente peculiare dato che permette di sostituire il punteggio di competenza magica con la somma dei tratti in comune. E' una abilita' molto forte per un giocatore che sa ruolare molto bene e quindi riesce a prendere 1 punto tratto a livello.. risparmiandosi di mettere il punto della competenze attive a competenza magica.
+
+Ho poi inserito anche una regola opzionale per poter lanciare gli incantesimi anche in caso di fallimento della prova.
+
+Personalmente la userei solo con giocatori novellini che non riescono a vedere altre opzioni che non il lancio dell'incantesimo.
+
+
 **06/08/2021**
 
 Ho deciso di pubblicare la 1.1.6 anche se le modifiche non erano tante come numero ma le poche presenti importanti e significative.
