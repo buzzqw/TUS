@@ -6,6 +6,12 @@ Ho pensato allora a due piccole aggiunzioni, ma estremamente tematiche e concett
 
 L'opzione magia collaborative e circolo di potere trovano fondamento proprio nelle radici del sistema e quindi perfettamente coerenti con il tutto, oltretutto circolo di potere e' proprio quello che viene in mente quando si va a pensare ai circoli druidici, sabba di streghe.. gruppi di "maghi" che venerano tutti lo stesso patrono e ottengono vantaggi dall'unione.
 
+EDIT: e anche la 1.1.7 e' stata sfornata.. sono tutte release inportanti, minori magari nel cambiamento, ma che costruiscono l'insieme del sistema che voglio io.
+
+Le ultime modifiche riguardo all'alterare la magia sono state il motivo principale che mi ha spinto a pubblicare la versione.
+
+A questo punto in vancanza andro' a preparare la 1.1.8!
+
 
 **07/08/2021**
 
