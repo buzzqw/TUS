@@ -1,3 +1,12 @@
+**08/08/2021**
+
+Ammetto che la mia preoccupazione perche' si generi una insoddisfazione dell'uso del sistema e' alta. In particolare quello che piu' mi preoccupa e' il fatto che i giocatori trovino frustranti i fallimenti nel lancio degli incantesimi.
+
+Ho pensato allora a due piccole aggiunzioni, ma estremamente tematiche e concettualmente perfette, per fare in modo che il mago, o meglio il gruppo, possa aiutare nel lancio degli incantesimi.
+
+L'opzione magia collaborative e circolo di potere trovano fondamento proprio nelle radici del sistema e quindi perfettamente coerenti con il tutto, oltretutto circolo di potere e' proprio quello che viene in mente quando si va a pensare ai circoli druidici, sabba di streghe.. gruppi di "maghi" che venerano tutti lo stesso patrono e ottengono vantaggi dall'unione.
+
+
 **07/08/2021**
 
 Alla fine ho fatto quello ceh pensavo ovvero ho aumentato tutte le difficolta' degli incantesimi
