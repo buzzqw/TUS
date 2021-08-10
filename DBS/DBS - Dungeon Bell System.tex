@@ -72,6 +72,8 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{hyperref}
 \usepackage{tikz}
 
+%\usepackage{tabulary}
+
 %\usetikzlibrary{backgrounds,calc}
 %\pgfdeclarelayer{background}
 %\pgfdeclarelayer{foreground}
@@ -104,7 +106,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newtcolorbox{narratore}{
 	enhanced, % enable advanced settings
 %	left = 3mm,
-	width=0.45\textwidth,
+%	width=0.45\textwidth,
 	left = 9mm, % pushes text away from the left edge by 10mm
 	sharp corners, % disables rounded corners
 	rounded corners = southeast, % "round" the bottom right corner
@@ -142,7 +144,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newtcolorbox{narratorewide}{
 	enhanced, % enable advanced settings
 	%	left = 3mm,
-%	width=0.45\textwidth,
+	width=0.95\textwidth,
 	left = 9mm, % pushes text away from the left edge by 10mm
 	sharp corners, % disables rounded corners
 	rounded corners = southeast, % "round" the bottom right corner
@@ -485,7 +487,7 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 %\end{tcolorbox}
 
 
-\begin{narratorewide}Box contenente indicazioni e suggerimenti per il Narratore\end{narratorewide}
+\begin{narratore}Box contenente indicazioni e suggerimenti per il Narratore\end{narratore}
 
 \end{multicols}
 
@@ -991,7 +993,7 @@ Non è possibile assegnare più di 4d6 o meno di 2d6. Tirate i dadi assegnati e 
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{lX}
+\begin{tabular}{ll}
 \textbf{Totale dei dadi}& \textbf{Valore Caratteristica}\\
 	\toprule
 3 (o meno)&-3\\
@@ -1001,7 +1003,7 @@ Non è possibile assegnare più di 4d6 o meno di 2d6. Tirate i dadi assegnati e 
 13-14-15&+1\\
 16-17&+2\\
 18 (o più)&+3\\
-\end{tabularx}
+\end{tabular}
 
 \medskip
 
@@ -1495,7 +1497,7 @@ Non hai veramente capito qualcosa fino a quando non sei in grado di spiegarlo a 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{O}{gni} personaggio ha una Professione iniziale, un percorso di vita e lavoro che l'ha portato ad apprendere determinate competenze.
 Alla creazione del personaggio il giocatore sceglie una professione iniziale ovvero ciò che faceva (e volendo continua a fare) prima di cimentarsi in pericolose avventure.
 
-Se non specificato diversamente per tutte le prove di competenza (Base, Attive) valgono tre regole base \index{Regole Base}: \textbf{Golden Rules}:\index{Golden Rules}
+Se non specificato diversamente per tutte le prove di competenza (Base, Attive) valgono tre regole base \index{Regole Base} chiamate \textbf{Golden Rules}:\index{Golden Rules}
 
 \begin{itemize}
 \item
@@ -1503,7 +1505,7 @@ I \textbf{6 esplodono}, ovvero se nella prova dei 3d6 un dado fa sei, somma il r
 \item
 Gli \textbf{1 portano male}, se fai 1 con il dado togli 1 alla somma dei dadi tirati (e quindi il dado che ha fatto uno conta zero)
 \item
-\textbf{Affidarsi alla sorte}. Ogni 4 punti tra Competenza e Caratteristica che rinunci a sommare nella prova tiri un dado a 6 in piu '(Tiro per Colpire, Tiro Salvezza, prove Competenza). Questo quattro non può essere tolto dal punteggio dato da Abilità o oggetti magici.
+\textbf{Affidarsi alla sorte}. Ogni 4 punti tra Competenza e Caratteristica che rinunci a sommare nella prova tiri un dado a 6 in più (Tiro per Colpire, Tiro Salvezza, prove Competenza). Questo quattro non può essere tolto dal punteggio dato da Abilità o oggetti magici.
 
 \end{itemize}
 
@@ -2325,7 +2327,7 @@ Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una
 \item \textbf{Saltare}\index{Tabella Saltare} \textit{Si hanno penalità dovuta all'Armatura.}
 
 
-\begin{tabularx}{0.45\textwidth}{lX|lX}
+\begin{tabular}{lc|lc}
 	\textbf{Salto in Lungo} & \textbf{DC}&	\textbf{Salto in Alto} & \textbf{DC}\\
 \multicolumn{2}{c}{Lunghezza} &\multicolumn{2}{c}{Altezza} \\
 	\toprule
@@ -2334,7 +2336,7 @@ Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una
 	5 m                                & 15 & 	1 m                              & 12\\
 	7 m                                & 20 & 	1.5 m                            & 16\\
 	+1,5 m                             & +5 &	+0.5 m                           & +4\\
-\end{tabularx}
+\end{tabular}
 
 
 In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 della lunghezza saltata. Se esegui un salto in lungo di 4 metri a metà salto sei in alto di 1 metro. 
@@ -2349,8 +2351,8 @@ In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 del
 	Una parete liscia con appigli &20\\
 	Un muro perimetrale con pochissimi appigli&25\\
 	Una parete naturale non liscia senza appigli&30\\
-	Se ti puoi appoggiare a 2 pareti opposte&-10\\
-	Se ti puoi appoggiare a 2 parete angolari&-5\\
+ 	Ti puoi appoggiare a 2 pareti opposte&-10\\
+	Ti puoi appoggiare a 2 parete angolari&-5\\
 	Superficie scivolosa&+5\\
 \end{tabular}
 
@@ -2596,7 +2598,7 @@ Se il personaggio non ha eseguito alcuna Azione nel round, come detto prima, agi
 \textbf{Tabella Azioni per Round}\index{Tabella delle Azioni per Round}
 
 
-\begin{tabularx}{0.45\textwidth}{lX}
+\begin{tabular}{lc}
 	\textbf{Cosa si fa}                         & \textbf{Azioni}\\
 	\toprule
 	Eseguire un attacco  						& 1\\
@@ -2624,7 +2626,7 @@ Se il personaggio non ha eseguito alcuna Azione nel round, come detto prima, agi
 	Fare cadere l'arma o lo scudo				& R\\
 	Gettarsi a terra prono						& R\\	
 	Riconoscere un Incantesimo					& R\\
-\end{tabularx}
+\end{tabular}
 
 \medskip
 
@@ -2820,11 +2822,11 @@ Eventuali punti caratteristica persi si recuperano al ritmo di 1 punto totale al
 
 \subsubsection{Recupero punti Ferita naturale}\index{Recupero punti naturale}
 
-Riposare 8 ore fa recuperare il punteggio di COS+Competenza Armi al giorno in PF, minimo 1.
+Riposare 8 ore fa recuperare il punteggio di Costituzione + Competenza Armi al giorno in Punti Ferita, con un minimo di 1.
 
 \subsubsection{Recupero punti ferita non letali}\index{Recupero PF non letali}\index{Punti Ferita non letali}
 
-Ogni ora si recupera, con un minimo di 1 PF, il proprio valore di Costituzione in PF non letali (danni da stordimento) persi.
+Ogni ora si recupera, con un minimo di 1 Punto Ferita, il proprio valore di Costituzione.
 
 \end{multicols}
 
@@ -3225,12 +3227,12 @@ Esempio di fiancheggiamento\index{Esempi di Fiancheggiamento}
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{lll}
+\begin{tabular}{lll}
 	\toprule
 	Personaggio A & Personaggio G & Personaggio D\\
 	Personaggio B & \textbf{Avversario}    & Personaggio E\\
 	Personaggio C & Personaggio H & Personaggio F\\
-\end{tabularx}
+\end{tabular}
 
 \bigskip
 
@@ -3597,7 +3599,7 @@ Ci sono molti modificatori che possono essere applicati alla DC per individuare 
 
 \medskip
 
-\begin{tabularx}{0.9\textwidth}{ll}
+\begin{tabularx}{0.9\textwidth}{Xl}
 	\textbf{La Creatura Invisibile sta...} & \textbf{Consapevolezza}\\
 	\toprule
 	Muovendosi a velocità dimezzata        & +5\\
@@ -3956,9 +3958,10 @@ Il giocatore può anche decidere di fare danno non letale non incorrendo in alcu
 
 * 6 punti: Saggezza della mano vuota - puoi usare il valore della Saggezza al colpire ed al Danno al posto di Forza o Destrezza
 
-\subsection{Armi Semplici} Pugnale, Mazza Leggera, Randello, Morningstar, Lancia corta da fante, Bastone, Balestra (Leggera), Giavellotto\index{Armi Semplici}\hypertarget{armi.semplici}{} 
+\subsection{Armi Semplici} Pugnale, Mazza Leggera, Randello, Morningstar, Lancia corta da fante, Bastone, Balestra (Leggera), Giavellotto.\index{Armi Semplici}\hypertarget{armi.semplici}{}
 
-Questa suddivisione è sceglibile anche da chi ha Competenza Armi a zero
+
+Questa suddivisione è sceglibile anche da chi non ha assegnato punti a Competenza Armi.
 
 \subsection{Armi in più Lista d'Armi}\index{Armi in più Liste d'Armi}
 
@@ -4601,9 +4604,9 @@ L'energia proviene dalle mani (non conta se ci sono guanti) ed influenza una o p
 
 Puoi lanciare l'energia, come da Incanalare Energia, fino a 9 metri, influenza un raggio di 3 metri. Usa 2 azioni.
 
-La \textbf{seconda volta} che prendi questa Abilità l'energia arriva fino a 18 metri.
+La \textbf{seconda volta} che prendi questa Abilità l'energia arriva fino alla distanza di 18 metri.
 
-La \textbf{terza volta} che prendi questa Abilità il l'energia arriva fino a 36 metri.
+La \textbf{terza volta} che prendi questa Abilità il l'energia arriva fino alla distanza di 36 metri.
 
 \subsection{Incanalare energia concentrata}\index{Incanalare energia concentrata}
 
@@ -4715,9 +4718,10 @@ Forse una volta eri gracile e debole, adesso sei una montagna di muscoli.
 
 Quando prendi questa Abilità aumenti di 1 i punti ferita presi per livello.
 
-La \textbf{seconda volta} che prendi questa Abilità aumenti di 1 i punti ferita presi per livello.
+La \textbf{seconda volta} che prendi questa Abilità aumenti di 1 i Punti Ferita presi per livello.
 
 La \textbf{terza volta} che prendi questa Abilità aumenti il dado per tirare i punti ferita (da d4 a d6).
+
 I bonus sono cumulativi e retroattivi ai livelli precedenti, tranne che l'aumento di dado vita.
 
 La \textbf{quarta volta} che prendi questa Abilità aumenti di una taglia (P > M > G > E).
@@ -4957,7 +4961,7 @@ Effettua una prova tirando 1d6 (valgono le Golden Rules) per ogni volta che hai 
 
 \medskip
 
-\begin{tabularx}{0.9\textwidth}{lllllllllll}
+\begin{tabularx}{0.9\textwidth}{Xllllllllll}
     \textbf{Non Morto} & \multicolumn{6}{c}\textbf{\textbf{Valore Prova}}\\
  \textbf{o Grado di Sfida} 	&2-4 & 5-8 &9-11 &12-15&16-18&19-22&23-25&26-29&30-32&33-36\\
 	\toprule
@@ -5486,7 +5490,7 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{llll}
+\begin{tabularx}{0.95\textwidth}{lllX}
 	\textbf{CM del Padrone} & \textbf{Bonus Difesa} & \textbf{Bonus Intelligenza} & \textbf{Speciale}\\
 	\toprule
 	1-2      & +1       & 0    & Allerta, Condividere Incantesimi, \\
@@ -5579,7 +5583,7 @@ Solitamente assume il valore di XX/ZZ ovvero quanto danno (XX) è ignorato se no
 E' applicabile un'unica DR in caso ce ne siano di più di una contemporanea, la scelta va fatta ad inizio scontro e rimane la stessa finché non è finito lo scontro.
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/morteachille.png}
+	\includegraphics[width=0.8\linewidth]{immagini/morteachille.png}
 	
 \textit{Paris shot Achilles with an arrow - Pieter Paul Rubens - Data 1630-1632}
 \end{center}
@@ -5713,7 +5717,7 @@ I bonus dati alle competenze si intendono specifiche sulla prova quando indicato
 \end{itemize}
 
 
-\begin{tcolorbox}[enhanced,arc=5pt,width=0.45\textwidth,boxrule=0.3pt]{
+\begin{tcolorbox}[enhanced,arc=5pt,width=0.43\textwidth,boxrule=0.3pt]{
 Da un grande Vantaggio deriva un grosso Svantaggio ! (cit. "Da un grande potere derivano grandi responsabilità", Amazing Fantasy 15, Stan Lee)
 }\end{tcolorbox}\medskip
 
@@ -5854,7 +5858,7 @@ Con un prova su Intelligenza (oppure Arcana od Erboristeria a DC 13) a DC 16 puo
 \textbf{Ottimo tatto} \index{Ottimo tatto}5: Hai un ottimo tatto. sai leggere con le dita. Sei in grado di trovare una porta nascosta toccando la parete.
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/braille.png}
+	\includegraphics[width=0.8\linewidth]{immagini/braille.png}
 \end{center}
 
 
@@ -6532,7 +6536,7 @@ sei claudicante
 \section{Cosmologia}\index{Cosmologia}
 
 \label{cosmologia}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{tcolorbox}[width=0.95\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{
 E' più facile dominare su chi non crede in niente (La Storia Infinita, Kmorf)
 
 \medskip
@@ -6679,9 +6683,9 @@ Se ha almeno 2 Tratti in comune e si affida ad un Patrono allora si dice che è 
 
 Potrebbe anche non seguire alcun Patrono pur avendo più Tratti in comune.
 
-\begin{narratore}
+\begin{narratoresmall}
 Il Narratore potrebbe comunque concedere l'essere Seguace o Devoto pur se i Tratti non collimano perfettamente. A sua discrezione e su richiesta del giocatore potrebbe valutare la somiglianza di alcuni Tratti del personaggio a quelli del Patrono e valutarli idonei per essere un Seguace o Devoto.
-\end{narratore}
+\end{narratoresmall}
 
 Le capacità acquisite legate ai Tratti in comune sono indipendenti dall'essere un Devoto, Seguace o semplicemente "ateo". Il \textbf{Vantaggio} indicato è solo per il Devoto. \index{Vantaggi}
 
@@ -7812,7 +7816,7 @@ Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella s
 \label{tabella-armature}
 \begin{tabular}{llllllll}
 	%\begin{xltabular}{0.95\textwidth}{lXXXXXXX}
-	\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{Prove Destrezza} & \textbf{Prove di magia} & \textbf{Tipo} & \textbf{Movimento} & \textbf{Peso (kg)}\\
+	\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{Prove Destrezza} & \textbf{Prove di Magia} & \textbf{Tipo} & \textbf{Mov.} & \textbf{Peso (kg)}\\
 	\toprule
 	Imbottita   		& 5    & 1   & 0  	 & 0  & L   & 0   & 4\\
 	Cuoio   			& 10   & 2   & 0   & -1 & L   & 0   & 5\\
@@ -7839,7 +7843,7 @@ Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella s
 
 \textbf{Tipo}: indica se l'armature è \textbf{L}eggera, \textbf{M}edia oppure \textbf{P}esante
 
-\textbf{Movimento}: è la riduzione in metri di movimento da applicare per Azione di Movimento.
+\textbf{Mov. (movimento)}: è la riduzione in metri di movimento da applicare per Azione di Movimento.
 
 \textbf{Peso}: è il peso dell'armatura da conteggiare.
 
@@ -7936,7 +7940,7 @@ Gli Scudi possono essere di tipo Leggero, Medio, Pesante.
 \medskip
 
 \begin{tabular}{lcccccc}
-\textbf{Scudi} & \textbf{Costo} & \textbf{Bonus Difesa} & \textbf{Penalità TC} & \textbf{Penalità prova di Magia} & \textbf{Peso (kg)} & \textbf{Tipo}\\
+\textbf{Scudi} & \textbf{Costo} & \textbf{Bonus Difesa} & \textbf{Malus TC} & \textbf{Malus prova di Magia} & \textbf{Peso (kg)} & \textbf{Tipo}\\
 	\toprule
 Brocchiero					& 5 mo  	& 1 & 0		& 1& 1  & L\\
 Scudo leggero di legno   	& 3 mo  	& 1 & 0		& 2& 2  & L\\
@@ -8368,7 +8372,7 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 \subsubsection{Cavalcature e Altri Animali}
 
 
-\begin{tabularx}{0.45\textwidth}{lllX}
+\begin{tabular}{llll}
 		\toprule
 	\textbf{Cavalcatura}&\textbf{Costo}&\textbf{Mov.}&\textbf{Trasporto}\\
 	&(\textbf{mo})&&\\
@@ -8380,7 +8384,7 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 	Elefante&200&12 m&660 kg\\
 	Mastino&25&12 m&97,5 kg\\
 	Pony&30&12 m&112,5 kg\\
-\end{tabularx}
+\end{tabular}
 
 
 \bigskip
@@ -8442,8 +8446,10 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 \textbf{Spese dello Stile di Vita}
 
-\begin{tabularx}{0.45\textwidth}{ll}
-	Stile di Vita&Prezzo/Giorno\\
+\medskip
+
+\begin{tabular}{ll}
+	Stile di Vita&Prezzo al Giorno\\
 			\toprule
 	Miserabile&-\\
 	Squallido&1 ma\\
@@ -8452,7 +8458,7 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 	Agiato&2 mo\\
 	Ricco&4 mo\\
 	Aristocratico&Minimo di 10 mo\\
-\end{tabularx}
+\end{tabular}
 
 \bigskip
 
@@ -8499,7 +8505,7 @@ La tabella "Vitto e Alloggio" indica i prezzi delle singole pietanze e di un sin
 
 \bigskip
 
-\begin{tabularx}{0.45\textwidth}{ll}
+\begin{tabular}{ll}
 	\textbf{Oggetto}&\textbf{Costo}\\
 	\toprule
 	\textbf{Birra}&\\
@@ -8527,7 +8533,7 @@ La tabella "Vitto e Alloggio" indica i prezzi delle singole pietanze e di un sin
 	\textbf{Vino}&\\
 	Buono (bottiglia)&10 mo\\
 	Comune (caraffa)&2 ma\\
-\end{tabularx}
+\end{tabular}
 
 \begin{center}
 	\includegraphics[width=0.9\linewidth]{immagini/riempitivocavalieriapranzo.png}
@@ -8548,7 +8554,7 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 
 \bigskip
 
-\begin{tabularx}{0.45\textwidth}{ll}
+\begin{tabular}{ll}
 	Servizio&Costo\\
 	\toprule
 	Carrozza&\\
@@ -8560,7 +8566,7 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 	Messaggero&2 mr per 1,5 km\\
 	Passaggio in nave&1 ma per 1,5 km\\
 	Pedaggio stradale o di ingresso&1 mr\\
-\end{tabularx}
+\end{tabular}
 
 
 \subsubsection{Servizi Magici}
@@ -8747,7 +8753,7 @@ A seconda delle dimensioni dell'oggetto questo può essere più o meno facile da
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{XXX}
+\begin{tabularx}{0.43\textwidth}{XXX}
 	\textbf{Taglia degli Oggetti} & \textbf{Modificatore Difesa} & \textbf{Dimensioni}\\
 	\toprule
 	Colossale                              & -8 &18m+\\
@@ -8775,7 +8781,7 @@ Se si usano 3 Azioni per prendere la mira, si colpisce automaticamente con un'ar
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{llX}
+\begin{tabularx}{0.43\textwidth}{llX}
 	\textbf{Sostanza} & \textbf{Durezza} & \textbf{Punti Ferita per spessore} \\
 	\toprule
 	Vetro             & 1                & 1 ogni 2,5 cm\\
@@ -8872,8 +8878,8 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{XX}
-	\textbf{Taglia} & \textbf{Modificatore per sfondare porta}\\
+\begin{tabular}{ll}
+	\textbf{Taglia} & \textbf{Modificatore}\\
 		\toprule
 	Piccolissima    & -16\\
 	Minuta          & -12\\
@@ -8884,7 +8890,7 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 	Enorme          & +8\\
 	Mastodontica    & +12\\
 	Colossale       & +16\\
-\end{tabularx}
+\end{tabular}
 
 
 
@@ -8946,7 +8952,7 @@ Le gradazione di luce possono essere:
 
 \index{Luce Fioca}
 
-\begin{tabularx}{0.45\textwidth}{l|cc|c}
+\begin{tabular}{l|cc|c}
 	\multirow{1}*{\textbf{Fonte di luce}} &	\multicolumn{2}{c}{\textbf{Raggio in metri}}& \textbf{Durata}  \\
 & \textbf{Luce} & \textbf{Luce Fioca} &\\
 	\toprule
@@ -8954,7 +8960,7 @@ Candela          & 1 metro         & -              & 1 ora\\
 Torcia           & 3 metri         & 6 metri        & 1 ora\\
 Lanterna         & 6 metri         & 12 metri       & 6 ore \\
 
-\end{tabularx}
+\end{tabular}
 
 \medskip
 
@@ -9025,7 +9031,8 @@ Cadute su superfici morbide (terreno morbido, fango ecc.) riducono di 1d6 i dann
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/oggetticadenti.png}
+	\includegraphics[width=0.8\linewidth]{immagini/oggetticadenti.png}
+	
 	\textit{Henry Justice Ford}
 \end{center}
 
@@ -9087,7 +9094,7 @@ Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la met
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{ll}
+\begin{tabular}{ll}
 	\textbf{Taglia dell'Oggetto} & \textbf{Danno}\\
 	\toprule
 	Minuscola o Più Piccola      & 1d6\\
@@ -9097,7 +9104,7 @@ Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la met
 	Enorme                       & 6d6\\
 	Mastodontica                 & 8d6\\
 	Colossale                    & 10d6\\
-\end{tabularx}
+\end{tabular}
 
 \bigskip
 
@@ -9212,7 +9219,7 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lllll}
+\begin{tabular}{lllll}
 	\textbf{d\%} & \textbf{Meteo} & \textbf{Clima Freddo}& \textbf{Clima Temperato {*}}   & \textbf{Deserto}\\
 		\toprule
 	01-70   & Normale& Freddo, calmo   & Normale per la stagione {*}{*} & Torrido,calmo\\
@@ -9225,7 +9232,9 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 	   &   &  & tempesta di neve& Tempesta di polvere\\
 	100& Tempesta violenta& Tormenta   & Bufera,tormenta  & \\
 	   &   &  & uragano,tornado & Acquazzone\\
-\end{tabularx}
+\end{tabular}
+
+\medskip
 
 * Temperato comprende foreste, colline, paludi, montagne, pianure e zone marine calde.
 
@@ -9357,7 +9366,7 @@ I venti possono creare turbini di sabbia o polvere, alimentare grossi incendi, r
 
 \begin{tabularx}{0.45\textwidth}{XXX}
 	\textbf{Forza del Vento} & \textbf{Velocità del Vento}   & \textbf{Attacchi a Distanza} \\
-\toprule
+	\toprule
 	Leggero     & 0-15km &\\
 	Moderato    & 16,5-30 km/h&  \\
 	Forte       & 31.5-45        & -2 \\
@@ -9483,7 +9492,7 @@ Quando sono le navi a combattere, le cose cambiano un pò. Le regole seguenti no
 
 \begin{center}
 \flushleft
-\includegraphics[width=0.9\linewidth]{immagini/acquapericoli.png}
+\includegraphics[width=0.8\linewidth]{immagini/acquapericoli.png}
 \end{center}
 
 
@@ -9514,7 +9523,7 @@ Velocità Massima: La velocità massima di una nave in combattimento. Un asteris
 \textbf{Armamenti}: Il numero di Macchine d'Assedio che possono essere equipaggiate sulla nave. Uno sperone utilizza uno di questi slot e una nave può essere equipaggiata soltanto con uno sperone.
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/navenotte.png}
+	\includegraphics[width=0.8\linewidth]{immagini/navenotte.png}
 \end{center}
 
 
@@ -9567,7 +9576,7 @@ Una città, d'altro canto, è sorretta da un codice di leggi, molte delle quali 
 La maggior parte degli umanoidi malvagi, tuttavia, solitamente gode della stessa protezione riservata a tutti gli altri cittadini. Avere un insieme di Tratti malvagi non è un crimine (tranne forse in quelle città dove vige una severa teocrazia, col potere magico necessario per far valere la legge); soltanto gli atti malvagi vengono considerati un'infrazione alla legge.
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/cavalieri.png}
+	\includegraphics[width=0.8\linewidth]{immagini/cavalieri.png}
 \end{center}
 
 
@@ -9625,7 +9634,7 @@ La maggioranza delle guardie cittadine è composta da combattenti, quasi tutti d
 Le macchine d'assedio sono grosse armi, strutture temporanee o meccanismi tradizionalmente usati per assediare un castello o una fortezza.
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/armidaassedio.png}
+	\includegraphics[width=0.8\linewidth]{immagini/armidaassedio.png}
 \end{center}
 
 
@@ -9680,11 +9689,11 @@ Una torre da assedio tipica occupa uno spazio di 4,5 metri. Le creature al suo i
 \begin{multicols}{2}
 
 \begin{tabularx}{0.45\textwidth}{lXXXX}
-	\textbf{Macchina} & \textbf{Costo (mo)} & \textbf{Danno} & \textbf{Gittata (metri)} & \textbf{Soldati}\\
+	\textbf{Macchina} & \textbf{Costo (mo)} & \textbf{Danno} & \textbf{Gittata} & \textbf{Soldati}\\
 \toprule
-	Catapulta pesante & 800  & 6d6  & 60   & 4\\
-	Catapulta leggera & 5500 & 4d6  & 45   & 2\\
-	Ballista& 500  & 3d8  & 36   & 1\\
+	Catapulta pesante & 800  & 6d6  & 60m   & 4\\
+	Catapulta leggera & 5500 & 4d6  & 45m   & 2\\
+	Ballista& 500  & 3d8  & 36m   & 1\\
 	Ariete  & 1000 & 3d6  & -    & 10\\
 	Torri da Assedio  & 2000 & -    & -    & 20\\
 \end{tabularx}
@@ -9824,7 +9833,7 @@ Alcuni dungeon sono parzialmente occupati e parzialmente vuoti o in rovina. In q
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/dungeon.png}
+	\includegraphics[width=0.8\linewidth]{immagini/dungeon.png}
 \end{center}
 
 \textbf{Riparo Sicuro}: Quando qualcuno vuole proteggere una cosa, spesso la seppellisce sottoterra. Che l'oggetto che vuole proteggere sia un favoloso tesoro, un artefatto proibito o il cadavere di un uomo importante, questi oggetti di valore vengono posti all'interno di un dungeon e circondati da barriere, trappole e guardiani.
@@ -9960,10 +9969,11 @@ per sorvegliare un'area.
 
 \bigskip
 
-\begin{tabularx}{0.95\textwidth}{XXXXXX}
-	\textbf{Tipo di porta} & \textbf{Spessore tipico (cm)} & \textbf{Durezza} & \textbf{Punti Ferita} & \textbf{DC per sfondare}& \\
-\toprule
+\begin{tabular}{llllll}
+	\textbf{Tipo di porta} & \textbf{Spessore tipico (cm)} & \textbf{Durezza} & \textbf{Punti Ferita} & \multicolumn{2}{c}{\textbf{DC per sfondare}} \\
+
     &&   &   & Bloccata  & Chiusa a chiave\\
+    \toprule
 	Legno semplice    & 2.5  & 5 & 10& 13   & 15\\
 	Legno buono  & 3.75 & 5 & 15& 16   & 18\\
 	Legno robusto& 5    & 5 & 20& 23   & 25\\
@@ -9973,7 +9983,9 @@ per sorvegliare un'area.
 	Saracinesca di ferro   & 5    & 10& 60& 25{*}& 25{*}\\
 	Serratura    & -    & 15& 30& -    & -\\
 	Cardini & -    & 10& 30& -    & -\\
-\end{tabularx}
+\end{tabular}
+
+\medskip
 
 {*} DC per sollevare. Usate la voce appropriata di porta per sfondare.
 
@@ -10240,7 +10252,7 @@ Effetti: 1d2 danni a Costituzione per larva
 Le strane energie del mondo sotterraneo possono caricare pietre e vene di minerali con potenti campi magnetici, creando un pericolo per chi porta o indossa metalli ferrosi. Tutte le cose di ferro o acciaio portate entro raggio di 3 metri dal minerale sono trascinate verso di esso.
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/neodimio.png}
+	\includegraphics[width=0.8\linewidth]{immagini/neodimio.png}
 	
 	\textit{Neodimio}
 \end{center}
@@ -10265,7 +10277,7 @@ Una polla maledetta irradia una forte magia, e può essere distrutta da Distruzi
 Il contatto con una quercia velenosa (grado di Sfida 1) causa una dolorosa eruzione cutanea pruriginosa che rende la vittima Inferma finché i danni non guariscono. Un pieno contatto col corpo o l'inalazione del fumo di una quercia velenosa che brucia potrebbero essere fatali (grado di Sfida 3). Una prova di Natura (o Erboristeria) con DC 15 rivela i pericoli insiti nella pianta all'apparenza innocua. Questo pericolo può essere usato anche per piante nocive simili (edera velenosa, sommaco velenoso od ortiche pungenti, ma quest'ultime non sono pericolose quando bruciano).
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/ederavelenosa.png}
+	\includegraphics[width=0.8\linewidth]{immagini/ederavelenosa.png}
 \end{center}
 
 
@@ -10339,6 +10351,8 @@ Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tab
 
 
 \textbf{Tabella: DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}\index{Tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}
+
+\medskip
 
 \begin{tabularx}{0.45\textwidth}{XXX}
 Pericolosità della Trappola	&DC Tiro Salvezza	& Bonus di Attacco\\
@@ -11397,9 +11411,9 @@ Ci sono alcuni casi in cui e' presente la voce Frequenza, in questi rare occasio
 	\includegraphics[height=0.5\linewidth]{immagini/potion.png}
 \end{center}
 
-\begin{narratore}
+\begin{narratoresmall}
 I veleni qui proposti sono alcuni dei tanti presenti e possibili. Usali come linee guida. Se per tua etica e stile non ti piacciono i veleni, specialmente quelli più cattivi, suggerisco di usare le Pozioni Generiche che trovi in fondo al capitolo. Sono veleni più blandi e meno personali, probabilmente più facilmente usabili anche dai giocatori.
-\end{narratore}
+\end{narratoresmall}
 
 \subsubsection{Avvelenati}\index{Avvelenati}
 
@@ -11443,19 +11457,19 @@ Gli esempi seguenti rappresentano solo alcuni dei possibili veleni.
 
 
 \begin{center}
-	\includegraphics[height=0.5\linewidth]{immagini/poison.png}
+	\includegraphics[height=0.4\linewidth]{immagini/poison.png}
 \end{center}
 
 \medskip
 
-\begin{narratore}
-	I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Quando volete usare un veleno pensate innanzitutto perché si trova li, per chi doveva essere usato, per quale scopo. Non e' detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
-\end{narratore}
+\begin{narratoresmall}
+I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Quando volete usare un veleno pensate innanzitutto perché si trova li, per chi doveva essere usato, per quale scopo. Non e' detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
+\end{narratoresmall}
 
 \end{multicols}
 
 \begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/funeralebarca.png}
+	\includegraphics[width=0.55\linewidth]{immagini/funeralebarca.png}
 \end{center}
 
 \textbf{Tabella: Veleni}\index{Tabella Veleni}
@@ -11806,9 +11820,9 @@ Questa tabella mostra i valori base di movimento a terra in situazioni di non co
 
 \bigskip
 
-\begin{tabularx}{0.45\textwidth}{lccc}
+\begin{tabularx}{0.43\textwidth}{lccc}
 	\multirow{2}*{Tipo di movimento} &
-	\multicolumn{3}{c}{Movimento Velocità (metri)}        \\
+	\multicolumn{3}{c}{Movimento}        \\
 	\cmidrule(lr){2-4} & 6m    & 9m   & 12m                \\
 	\midrule
 \multicolumn{4}{c}{\textbf{Movimento Tattico)}}\\
@@ -12269,13 +12283,13 @@ Nel limite del possibile ogni sessione dovrebbe includere una parte di ruolo, un
 
 \bigskip
 
-\begin{narratore}
+\begin{narratoresmall}
 Può sembrare anacronistico quando c'è già in sviluppo la sesta edizione del più famoso gioco di ruolo tornare a premiare i giocatori in base all'oro preso ai mostri. 
 
 Posso però garantirvi che qualora il vostro gruppo sia particolarmente "povero" di giocate di ruolo o semplicemente preferisca uno stile più combattivo, sapere che l'oro raccolto equivale ad esperienza può rendere molto più dinamico ed avvincente l'andare in avventura.
 
 DBS si rifà al movimento OSR e come tale la fase di esplorazione e combattimento ha un proprio peso importante e vitale.
-\end{narratore}
+\end{narratoresmall}
 
 \subsection{Incontri}\index{Incontri}
 
@@ -12319,7 +12333,7 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{ll}
+\begin{tabular}{ll}
 	\textbf{difficoltà} & \textbf{Grado di Sfida (grado di Sfida)}\\
 \toprule
 	Facile               & APL -1\\
@@ -12327,7 +12341,7 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 	Alta & APL +1\\
 	Straordinaria        & APL +2\\
 	Epica& APL +3\\
-\end{tabularx}
+\end{tabular}
 
 \subsubsection{Costruire l'Incontro}
 
@@ -14601,14 +14615,14 @@ Esistono tre tipi di corno del Valhalla, ognuno fatto di un metallo differente. 
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{llll}
+\begin{tabular}{llll}
 \textbf{d100} &\textbf{Tipo Berserker} &\textbf{Evocati} & \textbf{Requisiti}\\
 	\toprule
 01-40 &Argento& 2d4 + 2 &CA 0\\
 41-75 &Ottone& 3d4 + 3 &CA 1\\
 76-90 &Bronzo& 4d4 + 4 &CA 2\\
 91-100& Ferro& 5d4 + 5 &CA 3\\
-\end{tabularx}
+\end{tabular}
 
 \medskip
 
@@ -15001,7 +15015,7 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{ll|ll}
+\begin{tabular}{ll|ll}
 \textbf{Carta da Gioco}& \textbf{Illusione}&\textbf{Carta da Gioco}& \textbf{Illusione}\\
 \toprule
 Asso di cuori &Drago rosso&Asso di quadri& Beholder\\
@@ -15021,7 +15035,7 @@ Nove di picche &Troll&Nove di fiori &Ogre\\
 Otto di picche &Hobgoblin&Otto di fiori& Orco\\
 Due di picche &Goblin&Due di fiori &Coboldo\\
 Jolly (2) &Tu (il proprietario del mazzo)&&\\
-\end{tabularx}
+\end{tabular}
 
 \begin{multicols}{2}
 
@@ -16012,7 +16026,7 @@ Questi zoccoli di ferro si trovano in set da quattro. Quando tutti e quattro gli
 
 \section{Oggetti Maledetti}\index{Oggetti Maledetti}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Quando un empio maledice l'avversario, maledice se stesso. (Siracide)
+\begin{tcolorbox}[width=0.95\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{Quando un empio maledice l'avversario, maledice se stesso. (Siracide)
 		
 \medskip		
 		
@@ -16059,11 +16073,11 @@ Se si sa che l'oggetto è maledetto, la natura della maledizione può essere det
 \end{center}
 
 
-\begin{narratore}
+\begin{narratoresmall}
 Una maledizione e' sempre un \textit{inconveniente} particolare, che non si usa a caso. Ragionate attentamente sugli oggetti maledetti che farete trovare ai personaggi perché vi chiederanno molte informazioni e dovrete essere pronti.
 	
 Non c'e' bisogno che la maledizione sia eccessiva e limitante puo' essere benissimo ridicola o particolare, fate in modo che sia caratterizzante. Il personaggio non deve sentirsi (tranne se lo volete) condannato in eterno, sfruttate l'occasione per costruire nuove avventure e spirito di gruppo.
-\end{narratore}
+\end{narratoresmall}
 
 
 \subsection{Rimuovere Oggetti Maledetti}\index{Rimuovere Oggetti Maledetti}
@@ -16239,7 +16253,7 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 
 \section{Yeru}\index{Yeru}\index{Atilantis}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Così la Terra è davvero tonda. Però non immaginavo che fosse azzurra. Perché gli uomini che vivono su un pianeta tanto bello non fanno altro che combattere tra loro? (Nadia - Il mistero della pietra azzurra)
+\begin{tcolorbox}[width=0.95\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{Così la Terra è davvero tonda. Però non immaginavo che fosse azzurra. Perché gli uomini che vivono su un pianeta tanto bello non fanno altro che combattere tra loro? (Nadia - Il mistero della pietra azzurra)
 		
 \medskip
 
@@ -16339,7 +16353,7 @@ La città oltretutto non appare mai nello stesso posto ma si sposta seguendo uno
 
 \subsection{I Portali}\index{Portali}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Non aprire mai le porte a coloro che le aprono anche senza il tuo permesso. (Stanislaw Jerzy Lec)}\end{tcolorbox}\medskip
+\begin{tcolorbox}[width=0.95\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{Non aprire mai le porte a coloro che le aprono anche senza il tuo permesso. (Stanislaw Jerzy Lec)}\end{tcolorbox}\medskip
 
 \begin{multicols}{2}
 
@@ -16368,7 +16382,7 @@ Si è sempre cercato di distruggere i portali dei draghi, con sacrificio e sangu
 \subsection{Draghi}\index{Draghi}
 \label{draghi}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{tcolorbox}[width=0.95\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{
 		Oh maledetti possa Lynx chiudervi tutti i portali\\
 		Oh assassini possa Sumkjir sterminarvi\\
 		Oh devastatori possa Nedraf rompervi le ossa!\\
@@ -17195,7 +17209,7 @@ Prendiamo ad esempio l'Orco comune da https://www.d20pfsrd.com/bestiary/monster-
 
 \section{Condizioni}\index{Condizioni}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{La grandezza dell'uomo è nella decisione di essere più forte della sua condizione. (Albert Camus)}
+\begin{tcolorbox}[width=0.92\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{La grandezza dell'uomo è nella decisione di essere più forte della sua condizione. (Albert Camus)}
 \end{tcolorbox}\medskip
 
 \begin{multicols}{2}
@@ -17571,4 +17585,3 @@ The following text is the property of Wizards of the Coast, LLC. and is Copyrigh
 {\scriptsize 
 \printindex}
 \end{document}
-
