@@ -125,7 +125,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newtcolorbox{narratoresmall}{
 	enhanced, % enable advanced settings
 	%	left = 3mm,
-	width=0.40\textwidth,
+	width=0.425\textwidth,
 	left = 9mm, % pushes text away from the left edge by 10mm
 	sharp corners, % disables rounded corners
 	rounded corners = southeast, % "round" the bottom right corner
@@ -159,6 +159,28 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 	},
 	drop fuzzy shadow % adds drop shadow
 }
+
+\newtcolorbox{enfasismall}{
+	enhanced,
+	arc=5pt,
+	boxrule=0.3pt,
+	width=0.425\textwidth
+}
+
+
+\newtcolorbox{enfasi}{
+	enhanced,
+	arc=5pt,
+	boxrule=0.3pt
+}
+
+\newtcolorbox{enfasiwide}{
+	enhanced,
+	arc=5pt,
+	boxrule=0.3pt,
+	width=0.95\textwidth
+}
+
 
 \newtcolorbox{esempio}{
 	enhanced,
@@ -480,6 +502,9 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 
 \begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Esempio di box contenente una citazione o frase motivazionale}\end{tcolorbox}
 
+\begin{enfasi}{Esempio di box contenente una citazione o frase motivazionale}\end{enfasi}
+
+
 \begin{tcolorbox}[title = Informazioni per il giocatore]Box contenente indicazioni e chiarimenti per il Giocatore.\end{tcolorbox}
 
 %\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt,width=0.45\textwidth,title = questo e' il titolo]
@@ -495,11 +520,11 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 
 \section{Razze}\index{Razze}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Il vero viaggio di scoperta non consiste nel trovare nuovi territori, ma nel possedere altri occhi, vedere l'universo attraverso gli occhi di un altro, di centinaia d'altri: di osservare il centinaio di universi che ciascuno di loro osserva, che ciascuno di loro è. (Marcel Proust)
+\begin{enfasi}{Il vero viaggio di scoperta non consiste nel trovare nuovi territori, ma nel possedere altri occhi, vedere l'universo attraverso gli occhi di un altro, di centinaia d'altri: di osservare il centinaio di universi che ciascuno di loro osserva, che ciascuno di loro è. (Marcel Proust)
 		
 \medskip
 
-Non è la più intelligente delle specie quella che sopravvive; non è nemmeno la più forte; la specie che sopravvive è quella che è in grado di adattarsi e di adeguarsi meglio ai cambiamenti dell'ambiente in cui si trova. (Leon C. Megginson)}\end{tcolorbox}\medskip
+Non è la più intelligente delle specie quella che sopravvive; non è nemmeno la più forte; la specie che sopravvive è quella che è in grado di adattarsi e di adeguarsi meglio ai cambiamenti dell'ambiente in cui si trova. (Leon C. Megginson)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -818,7 +843,7 @@ Se l'argomento è per voi motivo di non divertimento chiaritelo con il Narratore
 
 \label{caratteristiche-speciali}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Non basta avere gli occhi per vedere (anonimo)}\end{tcolorbox}\medskip
+\begin{enfasi}{Non basta avere gli occhi per vedere (anonimo)}\end{enfasi}\medskip
 
 \begin{multicols}{2}  
 
@@ -909,7 +934,7 @@ Il raggio della capacità è specificato nel testo descrittivo della creatura
 
 \label{le-caratteristiche}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Vivere non è respirare: è agire, è fare uso degli organi, dei sensi, delle facoltà, di tutte quelle parti di noi stessi per cui abbiamo il sentimento di esistere. (Jean-Jacques Rousseau)}\end{tcolorbox}\medskip
+\begin{enfasi}{Vivere non è respirare: è agire, è fare uso degli organi, dei sensi, delle facoltà, di tutte quelle parti di noi stessi per cui abbiamo il sentimento di esistere. (Jean-Jacques Rousseau)}\end{enfasi}\medskip
 
 \begin{multicols}{2} 
 	
@@ -1033,9 +1058,9 @@ Un mostro con Forza -4 non è prossimo a morire, semplicemente ha pochissima for
 
 \subsubsection{Forza}\index{Forza}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Ah, è cosa eccellente possedere la forza d'un gigante, ma usarla da gigante, è tirannia! (William Shakespeare, Isabella: da “Misura per misura”, atto II, scena II)		
-}\end{tcolorbox}
+}\end{enfasi}
 
 
 La Forza misura la potenza fisica, l'atletismo e i limiti della forza bruta che puoi esprimere.
@@ -1044,9 +1069,9 @@ Una prova di Forza può essere impiegata per qualsiasi tentativo di sollevare, s
 
 \subsubsection{Destrezza}\index{Destrezza}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Abbaiare stanca. La forza non conta niente nella vita. Saper schivare è quello che conta. (Daniel Pennac)
-}\end{tcolorbox}
+}\end{enfasi}
 
 La Destrezza misura l'agilità, i riflessi e l'equilibrio. 
 
@@ -1055,9 +1080,9 @@ Una prova di Destrezza può essere impiegata per qualsiasi tentativo di muoversi
 
 \subsubsection{Costituzione}\index{Costituzione}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Un po' di salute ogni tanto è il miglior rimedio per l'ammalato. (Friedrich Nietzsche)
-}\end{tcolorbox}
+}\end{enfasi}
 
 
 La Costituzione misura la salute, la vigoria e la forza vitale.
@@ -1067,9 +1092,9 @@ Una prova di Costituzione può essere impiegata per i tuoi tentativi di spingert
 
 \subsubsection{Intelligenza}\index{Intelligenza}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 La forza senza intelligenza rovina sotto il suo stesso peso. (Orazio)
-}\end{tcolorbox}
+}\end{enfasi}
 
 L'Intelligenza misura l'acume mentale, l'accuratezza dei ricordi e la capacità di ragionare.
 Una prova di Intelligenza entra in gioco quando hai bisogno di affidarti alla logica, l'istruzione, la memoria o le capacità deduttive. 
@@ -1081,8 +1106,8 @@ Rovistare tra antiche pergamene alla ricerca di un frammento di conoscenza potre
 
 \subsubsection{Saggezza}\index{Saggezza}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
-La forza non deriva dalla capacità fisica. Deriva da una volontà indomita. (Mahatma Gandhi)}\end{tcolorbox}
+\begin{enfasi}{
+La forza non deriva dalla capacità fisica. Deriva da una volontà indomita. (Mahatma Gandhi)}\end{enfasi}
 
 La Saggezza riflette la tua sintonia con il mondo circostante e rappresenta la perspicacia e l'intuito. 
 
@@ -1090,14 +1115,14 @@ Una prova di Saggezza riflette uno sforzo per interpretare il linguaggio corpore
 
 \subsubsection{Carisma}\index{Carisma}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Kogami, tu sai che cos'è il carisma?
 
 – Per come la vedo io, è un'attitudine innata, come quella di un eroe o di un
 leader.
 
 – [...] Gli elementi che identificano il carisma sono tre: l'indole innata degli eroi e dei profeti, la capacità di infondere benessere agli altri con la sola presenza e una cultura che ti permetta una conversazione brillante su ogni argomento. (Psycho-Pass)
-}\end{tcolorbox}
+}\end{enfasi}
 
 Il Carisma misura la tua capacità di interagire efficacemente con il prossimo. Comprende fattori come la sicurezza e l'eloquenza, e può rappresentare una personalità affascinante o autoritaria.
 
@@ -1132,7 +1157,7 @@ Tipiche situazioni di utilizzo del Carisma includono tentativi di raggirare una 
 
 \section{Punti Ferita}\index{Punti Ferita}\index{PF}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Chi non stima la vita, non la merita. (Leonardo da Vinci)}\end{tcolorbox}\medskip
+\begin{enfasi}{Chi non stima la vita, non la merita. (Leonardo da Vinci)}\end{enfasi}\medskip
 
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{ Punti Ferita} rappresentano l'energia vitale del personaggio e finché il personaggio/avversario ha almeno 1 punto ferita combatterà e lotterà al meglio delle sue capacità.
@@ -1176,7 +1201,7 @@ I punti ferita temporanei non possono essere superiori alla metà del massimo de
 \columnbreak
 
 \section{Punti Fato - Fortuna del Principiante}\index{Punti Fato}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Se il destino è contro di noi, peggio per lui. (motto del 1º Reggimento Carabinieri Paracadutisti "Tuscania")}\end{tcolorbox}\medskip
+\begin{enfasi}{Se il destino è contro di noi, peggio per lui. (motto del 1º Reggimento Carabinieri Paracadutisti "Tuscania")}\end{enfasi}\medskip
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{n} un mondo non facile la Fortuna del Principiante aiuta chi non ha esperienza.
 Ogni personaggio ha un numero di Punti Fato pari a (20 - Livello)/5, con un minimo di 1. I Punti Fato si conteggiano per sessione di gioco.
@@ -1209,13 +1234,13 @@ I Punti Fato si devono dichiarare prima del tiro, una volta dichiarato l'ammonta
 \section{I Tratti}\index{Tratti}\hypertarget{tratti}{} 
 
 \label{tratti}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Chi dunque sa fare il bene e non lo compie, commette peccato. (Giacomo il Giusto 4.17, Lettera di Giacomo. NdA riferendosi ai Tratti scelti)
+\begin{enfasi}{Chi dunque sa fare il bene e non lo compie, commette peccato. (Giacomo il Giusto 4.17, Lettera di Giacomo. NdA riferendosi ai Tratti scelti)
 \smallskip		
 		
 E' un diritto naturale saziarsi l'anima con la vendetta. (Attila)
 \smallskip
 
-Est Sularus Oth Mithas. ("Il mio onore è la mia vita", Giuramento dei Cavalieri di Solamnia.)}\end{tcolorbox}\medskip
+Est Sularus Oth Mithas. ("Il mio onore è la mia vita", Giuramento dei Cavalieri di Solamnia.)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -1486,11 +1511,11 @@ Se un giocatore non gioca i Tratti del personaggio non farà acquisire punti esp
 \section{Competenze}\index{Competenze}
 
 \label{competenze}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Chi dice che una cosa è impossibile, non dovrebbe disturbare chi la sta facendo.
 
 \medskip
-Non hai veramente capito qualcosa fino a quando non sei in grado di spiegarlo a tua nonna. (Albert Einstein)}\end{tcolorbox}\medskip
+Non hai veramente capito qualcosa fino a quando non sei in grado di spiegarlo a tua nonna. (Albert Einstein)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -1513,12 +1538,12 @@ Gli \textbf{1 portano male}, se fai 1 con il dado togli 1 alla somma dei dadi ti
 
 \label{competenze-di-base}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti; la maggior parte, anzi, assaggiato quanto lo studio sia fatica e provata la stanchezza sulla propria pelle, butta alla leggera la noce ancor prima di aver rotto il guscio per gustarne il gheriglio. (Richard de Bury)
 
 \medskip
 
-Lo studio è per i perdenti! (Lobo)}\end{tcolorbox}\medskip
+Lo studio è per i perdenti! (Lobo)}\end{enfasi}\medskip
 
 
 Sono qui elencate alcune Professioni di esempio e le loro competenze relative, il personaggio acquisisce queste competenze con il punteggio indicato nella tabella.
@@ -1716,13 +1741,13 @@ Non sottovalutate la scelta della Professione!. Non tutto può risolversi con as
 \subsection{Competenze Attive}\index{Competenze Attive}
 
 \label{competenze-attive}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{C'è solo un modo per allenarsi: quello giusto. (Carl Lewis)
+\begin{enfasi}{C'è solo un modo per allenarsi: quello giusto. (Carl Lewis)
 \medskip
 		
 		Wang Chi: Sei pronto?
 		
 		Jack Burton: Io sono nato pronto! (Grosso guaio a Chinatown, Film 1986)
-	}\end{tcolorbox}\medskip
+	}\end{enfasi}\medskip
 
 Ogni personaggio prende 1 punto da distribuire nelle Competenze Attive a livello.
 
@@ -1827,9 +1852,9 @@ La Competenza Magica viene anche usata nei Tiri per Colpire con Incantesimi!
 \section{Costruiamo il Personaggio}\index{Personaggio}
 
 \label{costruiamo-il-personaggio}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 "Mai dimenticare chi sei, perché di certo il mondo non lo dimenticherà. Trasforma chi sei nella tua forza, così non potrà mai essere la tua debolezza. Fanne un'armatura, e non potrà mai essere usata contro di te." (Tyrion Lannister)
-}\end{tcolorbox}\medskip
+}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -1911,9 +1936,9 @@ In ultimo ricordati della Legge del Premio\index{Legge del Premio}. Yeru e' fero
 \subsection{Avanziamo di Livello}\index{Livello}\index{Avanzamento di Livello}
 
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Ma ci sono cose che non si possono capire con la riflessione, bisogna viverle. (La storia infinita | Michael Ende)
-}\end{tcolorbox}
+}\end{enfasi}
 
 
 Ogni qual volta il Narratore vi confermi il passaggio di livello sono da compiere diverse operazioni per aggiornare il personaggio.
@@ -1964,14 +1989,14 @@ Un suggerimento è anche di usare le Abilità, ed in particolare Esperto, che vi
 \subsection{Suggerimenti per divertirsi e sopravvivere nelle campagne di DBS}\index{Linee guida per i giocatori}
 
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 - Ci vuole un piano.
 
 - Da quando gli eroi hanno bisogno di piani? (Final Fantasy XIII)
 
 \medskip
 
-Vado matto per i piani ben riusciti! ( Colonnello John "Hannibal" Smith,  A-Team)}\end{tcolorbox}\medskip
+Vado matto per i piani ben riusciti! ( Colonnello John "Hannibal" Smith,  A-Team)}\end{enfasi}\medskip
 
 Questi sono consigli, derivati dai principi dell'OSR che aiutano i personaggi a rimanere in vita.
 
@@ -2034,9 +2059,9 @@ Non creare personaggio che siano contro gli altri personaggi o diano sempre fast
 
 \bigskip
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 	"La candela accesa da entrambe le parti dura la metà (Anonimo)"
-}\end{tcolorbox}\medskip
+}\end{enfasi}\medskip
 
 
 \begin{figure}[htb]
@@ -2050,8 +2075,8 @@ Non creare personaggio che siano contro gli altri personaggi o diano sempre fast
 \section{Regole per le Competenze}\index{Regole per le Competenze}\index{Competenze}
 
 \label{regole-per-le-competenze}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
-		Occorre che la legge sia breve, perché più facilmente i mal pratici la ricordino. (Seneca)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+		Occorre che la legge sia breve, perché più facilmente i mal pratici la ricordino. (Seneca)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -2174,7 +2199,7 @@ Se vi dicono "convinco la guardia a farci passare" fate fare una prova di Intimi
 
 \subsection{Vantaggi e Svantaggi} \index{Vantaggi}\index{Bonus}\index{Malus}\index{Svantaggi}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{ Audentes fortuna iuvat ("La fortuna aiuta gli audaci", Virgilio) }\end{tcolorbox}
+\begin{enfasi}{Audentes fortuna iuvat ("La fortuna aiuta gli audaci", Virgilio) }\end{enfasi}
 
 \medskip
 
@@ -2451,7 +2476,7 @@ La \textbf{Telepatia}\index{Telepatia} non è propriamente una lingua ma un mezz
 \section{Combattimento}\index{Combattimento}
 
 \label{combattimento}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Si vis pacem, para bellum ("Se vuoi la pace, prepara la guerra", anonimo)
 \medskip
 
@@ -2462,7 +2487,7 @@ Non sono un eroe. No e non lo sarò mai. Sono solo un cattivo che viene pagato p
 
 \medskip
 
-Occhio per occhio... e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti aborrivano la violenza!)}\end{tcolorbox}\medskip
+Occhio per occhio... e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti aborrivano la violenza!)}\end{enfasi}\medskip
 
 
 \begin{multicols}{2}
@@ -2502,9 +2527,9 @@ L'iniziativa vale per l'intero scontro e si ritira al cambio dell'avversario.
 
 \subsubsection{Risoluzione delle Azioni}\index{Risoluzione delle Azioni}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 ...il passato è il prologo e il futuro sta nelle vostre mani e nelle mie. (Antonio, La Tempesta, Shakespeare)}
-\end{tcolorbox}\medskip
+\end{enfasi}\medskip
 
 
 \label{risoluzione-delle-azioni}
@@ -2558,8 +2583,8 @@ Inizialmente questo sistema rallenta il gioco ma appena i giocatori prendono con
 \subsubsection{Il Tempo (Round, Minuti e Turni)}\index{Round}
 
 \label{il-tempo-round-minuti-e-turni}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
-		"L'esitazione è la morte del vantaggio" (Magic, V.E. Schwab)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+		"L'esitazione è la morte del vantaggio" (Magic, V.E. Schwab)}\end{enfasi}\medskip
 
 Un \textbf{round} dura 10 secondi circa, è un lasso di tempo adeguato per agire, correre, parlare.. combattere. Un Minuto sono quindi 6 round, ed un Turno dura 10 Minuti (o 60 round).
 
@@ -2674,8 +2699,8 @@ Questo bonus non si applica con le armi da lancio (archi, balestre, pugnali, asc
 
 \label{movimento}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{"Un mobile più lento non può essere raggiunto da uno più rapido; giacché quello che segue deve arrivare al punto che occupava quello che è seguito e dove questo non è più (quando il secondo arriva); in tal modo il primo conserva sempre un vantaggio sul secondo" (Paradosso di Zenone)}
-\end{tcolorbox}\medskip
+\begin{enfasi}{"Un mobile più lento non può essere raggiunto da uno più rapido; giacché quello che segue deve arrivare al punto che occupava quello che è seguito e dove questo non è più (quando il secondo arriva); in tal modo il primo conserva sempre un vantaggio sul secondo" (Paradosso di Zenone)}
+\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -2759,11 +2784,11 @@ Questi sono i valori tipici delle creature per la taglia indicata. Sono frequent
 \subsection{Vita e Morte}\index{Morire}
 
 \label{vita-e-morte}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Chi non conosce la morte, non conosce la vita. (Grand Hotel, film 1932)
+\begin{enfasi}{Chi non conosce la morte, non conosce la vita. (Grand Hotel, film 1932)
 
 \medskip		
 		
-The worthy GM never purposely kills players' PCs. He presents opportunities for the rash and unthinking players to do that all on their own (Il meritevole Game Master non uccide mai volontariamente i personaggi dei giocatori. Lui presenta opportunità per i giocatori frettolosi e sbadati di fare tutto da soli) (Gary Gygax)}\end{tcolorbox}\medskip
+The worthy GM never purposely kills players' PCs. He presents opportunities for the rash and unthinking players to do that all on their own (Il meritevole Game Master non uccide mai volontariamente i personaggi dei giocatori. Lui presenta opportunità per i giocatori frettolosi e sbadati di fare tutto da soli) (Gary Gygax)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -2840,7 +2865,7 @@ Ogni ora si recupera, con un minimo di 1 Punto Ferita, il proprio valore di Cost
 \subsection{Tiro per Colpire e Difesa}\index{Tiro per Colpire}\index{Difesa}
 
 \label{tiro-per-colpire}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Applica sempre la giusta forza, mai troppa mai troppo poca. (Kano Jigoro)}\end{tcolorbox}\medskip
+\begin{enfasi}{Applica sempre la giusta forza, mai troppa mai troppo poca. (Kano Jigoro)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -2871,7 +2896,7 @@ Ogni qual volta di parla di bonus alla Difesa si intende un valore da sommare al
 \subsection{La Difesa e l'Attacco}\index{Difesa}\index{Attacco}
 
 \label{la-difesa}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{La difesa è sempre legittima (anonima vittima)}\end{tcolorbox}\medskip
+\begin{enfasi}{La difesa è sempre legittima (anonima vittima)}\end{enfasi}\medskip
 
 Ogni Tiro per Colpire (3d6 + Competenza con Armi + Forza o Destrezza + eventuali bonus/malus) si raffronta la Difesa ovvero un valore pari a 10 + Destrezza + Scudo + Armatura + eventuali bonus/malus.
 
@@ -3433,14 +3458,14 @@ Nel caso il personaggio \index{Modificare le dimensioni} la sua Difesa cambia di
 
 \subsection{Cavalcature}\index{Combattimento a cavallo}\index{Cavallo}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 		- E ti puoi trovare un'altra moglie!
 		
 		- Ah, questo sì. ma il guaio è che mi ha portato via il fucile e il cavallo! Peccato, era così bella, io mi ci ero affezionato. Le davo qualche frustata, ma lei non ci faceva caso.
 		
 		- Chi, tua moglie?
 		
-		- No, la mia cavalla. A trovare un'altra moglie si fa presto, ma una cavalla come quella non la ritrovo più. (Ombre rosse, film 1939)}\end{tcolorbox}\medskip
+		- No, la mia cavalla. A trovare un'altra moglie si fa presto, ma una cavalla come quella non la ritrovo più. (Ombre rosse, film 1939)}\end{enfasi}\medskip
 
 
 Anche una cavalcatura ha le sue 3 Azioni e di norma sono usate per spostarsi o per reagire ed ubbidire ai tuoi comandi.
@@ -3518,12 +3543,12 @@ In entrambi i casi, se la cavalcatura provoca un attacco di opportunità mentre 
 
 \section{Nascondigli e coperture}\index{Nascondigli}\index{Copertura}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Agiamo nell'ombra per servire la luce. (Assassin's Creed II)
+\begin{enfasi}{Agiamo nell'ombra per servire la luce. (Assassin's Creed II)
 		
 \medskip		
 		
 Dove c'è molta luce, l'ombra è più nera. (Johann Wolfgang von Goethe)}
-\end{tcolorbox}\medskip
+\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -3635,7 +3660,7 @@ Le creature invisibili non possono utilizzare gli attacchi con lo sguardo. L'inv
 \section{Lista Armi per Tipologia Omogenea}\index{Lista Armi}\index{Tipologia Omogenea}\hypertarget{lista.armi}{} 
 
 \label{lista-armi-per-tipologia-omogenea}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{La forza non risiede in una Spada, ma nelle braccia di un valoroso. (The Legend of Zelda: Twilight Princess)}\end{tcolorbox}\medskip
+\begin{enfasi}{La forza non risiede in una Spada, ma nelle braccia di un valoroso. (The Legend of Zelda: Twilight Princess)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -3976,7 +4001,7 @@ Utilizzando 2 Azioni può concentrarsi e passare ad utilizzare i bonus derivanti
 \section{Abilita'}\index{Abilità}\hypertarget{abilita}{} 
 
 \label{abilita}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Il martirio è l'unica maniera per un uomo di diventare famoso se non ha abilità (George Bernard Shaw, The Devil's Disciple)} \end{tcolorbox}\medskip
+\begin{enfasi}{Il martirio è l'unica maniera per un uomo di diventare famoso se non ha abilità (George Bernard Shaw, The Devil's Disciple)} \end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -5403,8 +5428,8 @@ Volontà Ferrea
 \section{Famiglio}\index{Famiglio}
 
 \label{famiglio}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
-Abbiamo imparato a volare come gli uccelli, a nuotare come i pesci, tuttavia non abbiamo imparato l'arte di vivere come fratelli. (Martin Luther King )}\end{tcolorbox}
+\begin{enfasi}{
+Abbiamo imparato a volare come gli uccelli, a nuotare come i pesci, tuttavia non abbiamo imparato l'arte di vivere come fratelli. (Martin Luther King )}\end{enfasi}
 
 \begin{multicols}{2}
 
@@ -5681,8 +5706,8 @@ Ha punteggi effettivi di Forza e Destrezza pari a -4 (-4 alla Difesa oltre ad no
 \section{Vantaggi}\index{Vantaggi}\hypertarget{vantaggi}{} 
 
 \label{vantaggi}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Adoro fare il supereroe! L'orario di lavoro è pessimo, la paga è inesistente... ma almeno non corro il rischio di venire licenziato! (PK)
-	}\end{tcolorbox}\medskip
+\begin{enfasi}{Adoro fare il supereroe! L'orario di lavoro è pessimo, la paga è inesistente... ma almeno non corro il rischio di venire licenziato! (PK)
+	}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -5717,9 +5742,9 @@ I bonus dati alle competenze si intendono specifiche sulla prova quando indicato
 \end{itemize}
 
 
-\begin{tcolorbox}[enhanced,arc=5pt,width=0.43\textwidth,boxrule=0.3pt]{
+\begin{enfasi}{
 Da un grande Vantaggio deriva un grosso Svantaggio ! (cit. "Da un grande potere derivano grandi responsabilità", Amazing Fantasy 15, Stan Lee)
-}\end{tcolorbox}\medskip
+}\end{enfasi}\medskip
 
 
 \subsection{Elenco Vantaggi}\index{Elenco Vantaggi}
@@ -5953,7 +5978,7 @@ Con un prova su Intelligenza (oppure Arcana od Erboristeria a DC 13) a DC 16 puo
 \section{Svantaggi}\index{Svantaggi}
 
 \label{svantaggi}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Se devi essere storpio, meglio essere uno storpio ricco. (Tyrion Lannister)}\end{tcolorbox}\medskip
+\begin{enfasi}{Se devi essere storpio, meglio essere uno storpio ricco. (Tyrion Lannister)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -6536,20 +6561,20 @@ sei claudicante
 \section{Cosmologia}\index{Cosmologia}
 
 \label{cosmologia}
-\begin{tcolorbox}[width=0.95\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 E' più facile dominare su chi non crede in niente (La Storia Infinita, Kmorf)
 
 \medskip
 
-Tu credi che c'è un Dio solo? Fai bene; anche i demoni lo credono e tremano! (Giacomo Il Giusto 2, 19. NdA Riferendosi al proprio Patrono...)}\end{tcolorbox}\medskip
+Tu credi che c'è un Dio solo? Fai bene; anche i demoni lo credono e tremano! (Giacomo Il Giusto 2, 19. NdA Riferendosi al proprio Patrono...)}\end{enfasi}\medskip
 
-\begin{narratorewide}
+\begin{narratore}
 In DBS le divinità sono diverse dalle tradizionali divinità dei giochi di ruolo.
 
 In DBS le divinità amano sporcarsi le mani, partecipare nelle faccende delle creature che le adorano, per loro è una sfida continua ad avere più credenti, adepti e persone più simili, per Tratti, a loro.
 
 I Patroni sono stati creati come parossismo dell'animo umano, dove tutto è un eccesso. Come spiriti liberati dal vaso di Pandora hanno il solo scopo di portare i loro Tratti al dominio rendendoli i più comuni e presenti tra le creature.
-\end{narratorewide}
+\end{narratore}
 
 \begin{multicols}{2}
 
@@ -6652,7 +6677,7 @@ Non è sempre tutto idilliaco, vaste regioni di Curyan stanno diventando incubat
 \subsection{Patroni}\index{Patroni}\hypertarget{patroni}{} 
 
 \label{patroni-dei}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt,width=0.42\textwidth]{
+\begin{enfasismall}{
 Conan: A quali dei preghi?
 
 Subotai: Io prego ai quattro venti e tu?
@@ -6661,7 +6686,7 @@ Conan: Io prego Crom, ma solo raramente... lui non ascolta. (Conan il Barbaro, f
 
 \medskip
 
-Infatti, come il corpo senza lo spirito è morto, così anche la fede senza le opere è morta. (Giacomo Il Giusto 2, 26. NdA Riferendosi ai punteggi dei Tratti collegati al Patrono...)} \end{tcolorbox}\medskip
+Infatti, come il corpo senza lo spirito è morto, così anche la fede senza le opere è morta. (Giacomo Il Giusto 2, 26. NdA Riferendosi ai punteggi dei Tratti collegati al Patrono...)} \end{enfasismall}\medskip
 
 Le creature tutte, anche chi non usa la magia possono sentire l'influenza di questi Poteri, di questi Patroni.
 
@@ -6768,9 +6793,9 @@ Esistono anche Allieve di genere incerto, rari ma storicamente accertati.
 \subsubsection{Calicante}\index{Calicante}
 
 
-\begin{tcolorbox}[width=0.43\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasismall}{
 La superstizione è la religione degli spiriti deboli. (Edmund Burke)
-}\end{tcolorbox}
+}\end{enfasismall}
 
 \label{calicante}
 
@@ -6938,9 +6963,9 @@ Il Devoto di Belevon è ben descritto dal mercante ricco e curioso che mai si la
 
 \subsubsection{Cattalm}\index{Cattalm}
 
-\begin{tcolorbox}[width=0.43\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasismall}{
 		Nessuno dà nulla per nulla. (anonimo)
-}\end{tcolorbox}
+}\end{enfasismall}
 
 \label{cattalm}
 
@@ -7252,9 +7277,9 @@ Spesso i Devoti di Rezh diventano esploratori, tombaroli, persone sempre alla ri
 
 \subsubsection{Sumkjr}\index{Sumkjr}
 
-\begin{tcolorbox}[width=0.43\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasismall}{
 Tutto ciò che non viene donato va perduto. (Dominique Lapierre)
-}\end{tcolorbox}
+}\end{enfasismall}
 
 \label{sumkjr}
 
@@ -7342,9 +7367,9 @@ Ljust disgustata dalla visione di un Patrono del genere instillò in Shayalia l'
 
 \subsubsection{Sixiser}\index{Sixiser}
 
-\begin{tcolorbox}[width=0.42\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasismall}{
 La forza che si oppone al destino è in realtà una debolezza. (Franz Kafka)
-}\end{tcolorbox}
+}\end{enfasismall}
 
 
 Il Patrono che è indifferente al presente in quanto totalmente, compulsivamente ossessionato dal futuro e dal suo destino. Negli angoli più remoti dei mondi conosciuti si narra che Sixiser accumuli di tutto, indifferente a tutto e tutti.
@@ -7503,8 +7528,8 @@ In accordo con il Narratore, ed adeguatamente motivato, è possibile cambiare Ab
 \label{equipaggiamento}
 
 \subsection{Ricchezza e Denaro}\index{Ricchezza e Denaro}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Sono pronto ad andare. Ho uno zaino! (Chuck, Serie TV)
-}\end{tcolorbox}
+\begin{enfasismall}{Sono pronto ad andare. Ho uno zaino! (Chuck, Serie TV)
+}\end{enfasismall}
 
 \begin{multicols}{2}
 
@@ -7590,12 +7615,12 @@ Consultate anche il capitolo sull'Ingombro in Movimento e Trasporto.
 \hypertarget{equipaggiamento.armi}{} 
 
 \label{equipaggiamento---armi}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Questo è il mio fucile. Ce ne sono tanti come lui, ma questo è il mio. Il mio fucile è il mio migliore amico, è la mia vita. Io debbo dominarlo come domino la mia vita. Senza di me il mio fucile non è niente; senza il mio fucile io sono niente. Debbo saper colpire il bersaglio, debbo sparare meglio del mio nemico che cerca di ammazzare me, debbo sparare io prima che lui spari a me e lo farò. Al cospetto di Dio giuro su questo credo: il mio fucile e me stesso siamo i difensori della patria, siamo i dominatori dei nostri nemici, siamo i salvatori della nostra vita e così sia, finché non ci sarà più nemico ma solo pace, amen. (Full Metal Jacket, Film 1987)
 	
 \medskip
 		
-La spada davvero buona è quella che rimane nel suo fodero. (Sanjuro)}\end{tcolorbox}
+La spada davvero buona è quella che rimane nel suo fodero. (Sanjuro)}\end{enfasi}
 
 \medskip
 
@@ -7791,12 +7816,12 @@ Talvolta oggetti che non sono stati creati per essere armi possono avere una cer
 
 \label{equipaggiamento---armature-e-scudi}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Armatura (s.f.). Abito che si indossa se il proprio sarto è un fabbro. (Ambrose Bierce)
 	
 \medskip
 	
-Armatura Fantozzi: banderuola 4 venti in funzione di pennacchio, pauroso elmo vichingo con visibilità azzerata, sospensorio in bronzo sottratto alla statua di Pipino il Breve e, ai piedi, ferroni da stiro a carbonella di piombo fuso. Peso complessivo armatura Fantozzi: 4 quintali, 32 chili e 7 etti e mezzo. (Superfantozzi, Film)} \end{tcolorbox}\medskip
+Armatura Fantozzi: banderuola 4 venti in funzione di pennacchio, pauroso elmo vichingo con visibilità azzerata, sospensorio in bronzo sottratto alla statua di Pipino il Breve e, ai piedi, ferroni da stiro a carbonella di piombo fuso. Peso complessivo armatura Fantozzi: 4 quintali, 32 chili e 7 etti e mezzo. (Superfantozzi, Film)} \end{enfasi}\medskip
 
 \begin{multicols}{2}
 	
@@ -8025,13 +8050,13 @@ Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\
 \subsection{Ricchezza e Denaro}\index{Ricchezza e Denaro}
 
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 - Doc... c'è soltanto bisogno di un pochino di plutonio.
 
 \medskip
 
 - Ah, sono certo che nell'85 il plutonio si compra nella drogheria sotto casa, ma nel '55 la faccenda è molto più complicata! (Ritorno al futuro, Film 1985)} 
-\end{tcolorbox}\medskip
+\end{enfasi}\medskip
 
 \begin{multicols}{2}
 	
@@ -8146,9 +8171,9 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 
 \begin{multicols}{2}
 
-\begin{tcolorbox}[enhanced,arc=5pt,width=0.45\textwidth,boxrule=0.3pt]{
+\begin{enfasismall}{
 		Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthur C. Clarke, da Profiles of the Future)
-}\end{tcolorbox}
+}\end{enfasismall}
 
 \textbf{Acido}. Con un’azione, puoi spargere il contenuto di questa fiala su di una creatura entro 1 metri da te o lanciare la fiala fino a 6 metri, fracassandola all’impatto. In entrambi i casi, effettua un Tiro per Colpire a distanza contro la creatura o l’oggetto, trattando l’acido come un’arma improvvisata (-1d6 Tiro per Colpire). Se colpisci, il bersaglio subisce 2d6 danni da acido.
 
@@ -8592,7 +8617,8 @@ Non tutti i villaggi e i paesi hanno un incantatore abbastanza capace a manipola
 
 \subsection{Materiali Speciali}\index{Materiali Speciali}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{All'uopo il capitano De Medici ha fatto brunire tutte le armature, per sorprendere il nemico anche col buio. (Il mestiere delle armi, Ermanno Olmi, film 2001)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+All'uopo il capitano De Medici ha fatto brunire tutte le armature, per sorprendere il nemico anche col buio. (Il mestiere delle armi, Ermanno Olmi, film 2001)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -8733,7 +8759,8 @@ La pelle di drago ha 10 Punti Ferita per 2,5 cm di spessore e Durezza 10. Solita
 
 \section{Sfondare ed Entrare}\index{Sfondare}\index{Entrare}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Nella vita di un uomo prima o poi arriva un giorno in cui, per andare dove deve andare, se non ci sono porte né finestre, gli tocca sfondare la parete. (Bernard Malamud)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+Nella vita di un uomo prima o poi arriva un giorno in cui, per andare dove deve andare, se non ci sono porte né finestre, gli tocca sfondare la parete. (Bernard Malamud)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -8906,11 +8933,12 @@ Un piede di porco o un ariete portatile aumentano la probabilità del personaggi
 \section{Ambiente}\index{Ambiente}
 
 \label{ambiente}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{La natura non è crudele, è solo spietatamente indifferente. Questa è una delle più dure lezioni che un essere umano debba imparare. (Richard Dawkins)
+\begin{enfasi}{
+La natura non è crudele, è solo spietatamente indifferente. Questa è una delle più dure lezioni che un essere umano debba imparare. (Richard Dawkins)
 		
 \medskip
 
-L'antidoto principale contro un cattivo ambiente consiste, naturalmente, nel sostituirlo con uno buono. (Robert Baden-Powell)}\end{tcolorbox}\medskip
+L'antidoto principale contro un cattivo ambiente consiste, naturalmente, nel sostituirlo con uno buono. (Robert Baden-Powell)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -9415,7 +9443,8 @@ Sebbene la velocità rotatoria di un tornado possa raggiungere i 450 km/h, il co
 \section{Avventure in Acqua}\index{Avventure in Acqua}
 
 \label{avventure-in-acqua}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Guardò il mare e capì fino a che punto era solo, adesso. (Il vecchio e il mare, Ernest Hemingway)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+Guardò il mare e capì fino a che punto era solo, adesso. (Il vecchio e il mare, Ernest Hemingway)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -9559,7 +9588,8 @@ Un equipaggio che eccede il numero minimo non influenza il movimento, ma i suoi 
 \section{Avventure in Citta'}\index{Città}
 
 \label{avventure-in-citta}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Dio creò la campagna, e l'uomo creò la città. (William Cowper)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+Dio creò la campagna, e l'uomo creò la città. (William Cowper)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -9736,7 +9766,8 @@ I vicoli possono essere luoghi bui anche di giorno, grazie alle ombre degli edif
 \section{Avventure e Disastri}\index{Avventure}\index{Disastri}
 
 \label{avventure-e-disastri}
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Per prima cosa, nessuno rimane indietro. (anonimo)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+Per prima cosa, nessuno rimane indietro. (anonimo)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -9805,12 +9836,12 @@ Gli eroi morti negli scontri ritornano come spaventosi generali Non Morti. I poc
 
 \section{Avventure nei Dungeon}\index{Dungeon}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Linux is user friendly. It's just very picky about who its friends are (anonimo)
 
 \medskip
 
-Il dungeon è inclinato. Le creature sono infuriate perché non riescono a giocare a biglie (Dungeon Keeper 2,Videogioco, 1999)}\end{tcolorbox}\medskip
+Il dungeon è inclinato. Le creature sono infuriate perché non riescono a giocare a biglie (Dungeon Keeper 2,Videogioco, 1999)}\end{enfasi}\medskip
 
 \label{avventure-nei-dungeon}
 \begin{multicols}{2}
@@ -10144,12 +10175,13 @@ La fanghiglia verde infligge 1 danno alla Costituzione per ogni round in cui div
 \section{Pericoli in Avventura}\index{Pericoli in Avventura}
 
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Un'avventura è un risultato ragionevole. Due sono meglio, tre meritano di essere tramandate, e quattro... nessuno potrà mai contestare quattro avventure. (John Steinbeck)
+\begin{enfasi}{
+Un'avventura è un risultato ragionevole. Due sono meglio, tre meritano di essere tramandate, e quattro... nessuno potrà mai contestare quattro avventure. (John Steinbeck)
 		
 \medskip
 		
 
-Corre meno pericoli colui che, anche se è al sicuro, sta in guardia. (Publilio Siro)} \end{tcolorbox}\medskip
+Corre meno pericoli colui che, anche se è al sicuro, sta in guardia. (Publilio Siro)} \end{enfasi}\medskip
 
 \label{pericoli-in-avventura}
 
@@ -10299,7 +10331,8 @@ Cura: 1 TS
 
 \subsection{Avventure e Trappole}\index{Trappole}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Chi pone la trappola sempre allo stesso posto non prenderà alcun'iguana. (proverbio africano)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+Chi pone la trappola sempre allo stesso posto non prenderà alcun'iguana. (proverbio africano)}\end{enfasi}\medskip
 
 
 \begin{multicols}{2}
@@ -11206,7 +11239,8 @@ Effetto: quale è l'effetto della trappola
 \subsection{Reputazione e Fama* - Opzionale}\index{Reputazione}\index{Fama}
 
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Fama e onore vanno talvolta più facilmente a chi non li ricerca. (Tito Livio)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+Fama e onore vanno talvolta più facilmente a chi non li ricerca. (Tito Livio)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -11371,9 +11405,10 @@ Se si ha una Fama negativa, i PNG non malvagi spesso avranno reazioni maldispost
 \label{veleni-e-pozioni}
 
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Un giorno, un uomo fu colpito da una freccia avvelenata. Gli amici e i parenti, in ansia, chiamarono un medico. Quando gli si avvicinarono per prendere la freccia, l'uomo disse loro: "Prima di farlo, vorrei sapere chi mi ha trafitto con questa freccia... Era uno schiavo, un re, o un bramino? Era grande? Piccolo? Di che colore era la sua pelle? Dove viveva? E la freccia com'è stata costruita? Quale veleno è stato impiegato? ..."
+\begin{enfasi}{
+Un giorno, un uomo fu colpito da una freccia avvelenata. Gli amici e i parenti, in ansia, chiamarono un medico. Quando gli si avvicinarono per prendere la freccia, l'uomo disse loro: "Prima di farlo, vorrei sapere chi mi ha trafitto con questa freccia... Era uno schiavo, un re, o un bramino? Era grande? Piccolo? Di che colore era la sua pelle? Dove viveva? E la freccia com'è stata costruita? Quale veleno è stato impiegato? ..."
 		
-Mentre si stava ponendo tutte queste domande... il veleno fece il suo effetto e l'uomo ferito finì per morire. (Budda)}\end{tcolorbox}\medskip
+Mentre si stava ponendo tutte queste domande... il veleno fece il suo effetto e l'uomo ferito finì per morire. (Budda)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -11432,7 +11467,7 @@ Se si viene esposti a veleni diversi è necessario effettuare un Tiro Salvezza p
 
 \medskip
 
-\begin{tcolorbox}[width=0.40\textwidth,title = Veleno ?]
+\begin{tcolorbox}[width=0.425\textwidth,title = Veleno ?]
 {Il veleno è un arma a doppio taglio. Finché la usi tu va bene ma se te la usano contro, magari la stessa, diventa un problema. Ci sono anche degli aspetti etici nell'usare i veleni, valuta se i tuoi Tratti ti permettono di usare dei veleni e che tipi.
 }\end{tcolorbox}
 
@@ -11544,9 +11579,9 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non indica
 \subsection{Pozioni naturali}\index{Pozioni}
 
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Io credo che una foglia d'erba non sia meno di una giornata di lavoro compiuto dagli astri. (Walt Whitman)
-}\end{tcolorbox}
+}\end{enfasi}
 
 \begin{multicols}{2}
 
@@ -11782,13 +11817,13 @@ Nella tabella i costi ed effetti di queste pozioni, l'insorgenza è sempre immed
 
 \label{movimento-e-trasporto}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasi}{
 Il mio piede sinistro funziona benissimo, ma non riuscirei comunque a camminare se non ci fosse il destro! (Madagascar 3 - Ricercati in Europa, Film )
 
 \medskip
 
 Quando non puoi più correre, cammina veloce; quando non puoi più camminare veloce, cammina; quando non puoi più camminare, usa il bastone; però non trattenerti mai. (Madre Teresa di Calcutta)}
-\end{tcolorbox}\medskip
+\end{enfasi}\medskip
 
 
 \begin{multicols}{2}
@@ -12148,7 +12183,8 @@ Volare per una creatura dotata di questa abilità è come camminare per una crea
 
 \subsection{Il Narratore}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Chi comanda al racconto non è la voce: è l'orecchio. (Italo Calvino)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+Chi comanda al racconto non è la voce: è l'orecchio. (Italo Calvino)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -12295,8 +12331,8 @@ DBS si rifà al movimento OSR e come tale la fase di esplorazione e combattiment
 
 \label{incontri}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt,width=0.45\textwidth]{	Che è la vita senza speranza?  	Una gittata di dadi fra le tenebre, fra i deliri. Ambrogio Bazzero}
-\end{tcolorbox}
+\begin{enfasismall}{Che è la vita senza speranza? Una gittata di dadi fra le tenebre, fra i deliri. Ambrogio Bazzero}
+\end{enfasismall}
 
 
 Un incontro è un momento di tensione e speranza, paura e sfida. E' l'occasione di mostrare e manifestare le proprie capacità e di lavorare come gruppo.
@@ -12719,7 +12755,8 @@ I mostri non devono essere stupidi per forza. Falli parlare, ragionare, scappare
 
 \section{Creare Oggetti Magici}\index{Creare Oggetti Magici}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Creare è vivere due volte. (Albert Camus)}\end{tcolorbox}\medskip
+\begin{enfasi}{
+Creare è vivere due volte. (Albert Camus)}\end{enfasi}\medskip
 
 \begin{multicols}{2}
 
@@ -16026,12 +16063,12 @@ Questi zoccoli di ferro si trovano in set da quattro. Quando tutti e quattro gli
 
 \section{Oggetti Maledetti}\index{Oggetti Maledetti}
 
-\begin{tcolorbox}[width=0.95\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{Quando un empio maledice l'avversario, maledice se stesso. (Siracide)
+\begin{enfasiwide}{Quando un empio maledice l'avversario, maledice se stesso. (Siracide)
 		
 \medskip		
 		
 Se maledici una persona ci saranno due fosse. Proverbio (giapponese)}
-\end{tcolorbox}\medskip
+\end{enfasiwide}\medskip
 
 \begin{multicols}{2}
 
@@ -16253,12 +16290,13 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 
 \section{Yeru}\index{Yeru}\index{Atilantis}
 
-\begin{tcolorbox}[width=0.95\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{Così la Terra è davvero tonda. Però non immaginavo che fosse azzurra. Perché gli uomini che vivono su un pianeta tanto bello non fanno altro che combattere tra loro? (Nadia - Il mistero della pietra azzurra)
+\begin{enfasiwide}{
+Così la Terra è davvero tonda. Però non immaginavo che fosse azzurra. Perché gli uomini che vivono su un pianeta tanto bello non fanno altro che combattere tra loro? (Nadia - Il mistero della pietra azzurra)
 		
 \medskip
 
 		
-Il pianeta non ci appartiene, siamo noi ad appartenergli. Noi siamo di passaggio, lui rimane. (Pierre Rabhi)}\end{tcolorbox}\medskip
+Il pianeta non ci appartiene, siamo noi ad appartenergli. Noi siamo di passaggio, lui rimane. (Pierre Rabhi)}\end{enfasiwide}\medskip
 
 \begin{multicols}{2}
 
@@ -16353,7 +16391,8 @@ La città oltretutto non appare mai nello stesso posto ma si sposta seguendo uno
 
 \subsection{I Portali}\index{Portali}
 
-\begin{tcolorbox}[width=0.95\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{Non aprire mai le porte a coloro che le aprono anche senza il tuo permesso. (Stanislaw Jerzy Lec)}\end{tcolorbox}\medskip
+\begin{enfasiwide}{
+Non aprire mai le porte a coloro che le aprono anche senza il tuo permesso. (Stanislaw Jerzy Lec)}\end{enfasiwide}\medskip
 
 \begin{multicols}{2}
 
@@ -16382,11 +16421,11 @@ Si è sempre cercato di distruggere i portali dei draghi, con sacrificio e sangu
 \subsection{Draghi}\index{Draghi}
 \label{draghi}
 
-\begin{tcolorbox}[width=0.95\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{
+\begin{enfasiwide}{
 		Oh maledetti possa Lynx chiudervi tutti i portali\\
 		Oh assassini possa Sumkjir sterminarvi\\
 		Oh devastatori possa Nedraf rompervi le ossa!\\
-		(imprecazioni contro i Draghi)}\end{tcolorbox}\medskip
+		(imprecazioni contro i Draghi)}\end{enfasiwide}\medskip
 
 \begin{multicols}{2}
 
@@ -16595,9 +16634,10 @@ Un drago rosso è immune al fuoco naturale e magico.
 
 \subsection{Il Calendario}\index{Calendario}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt,width=0.95\linewidth]{Mi è capitato spesso di finire su un calendario. Ma mai per una data precisa. (Marilyn Monroe)
+\begin{enfasiwide}{
+Mi è capitato spesso di finire su un calendario. Ma mai per una data precisa. (Marilyn Monroe)
 		
-Tutto ebbe inizio la tredicesima ora del tredicesimo giorno del tredicesimo mese... Eravamo lì per discutere degli errori di stampa dei calendari acquistati dalla scuola. (I Simpson)} \end{tcolorbox}\medskip
+Tutto ebbe inizio la tredicesima ora del tredicesimo giorno del tredicesimo mese... Eravamo lì per discutere degli errori di stampa dei calendari acquistati dalla scuola. (I Simpson)} \end{enfasiwide}\medskip
 
 
 \begin{multicols}{2}
@@ -16657,13 +16697,13 @@ Il giorno è diviso in 24 ore
 
 \subsection{I cicli millenari}\index{I cicli millenari}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt,width=0.95\linewidth]{
+\begin{enfasiwide}{
 		Vidi poi un angelo che scendeva dal cielo con la chiave dell'Abisso e una gran catena in mano.
 		
 		Afferrò il dragone, il serpente antico - cioè il diavolo, satana - e lo incatenò per mille anni; 
 		
 		lo gettò nell'Abisso, ve lo rinchiuse e ne sigillò la porta sopra di lui, perché non seducesse più le nazioni, fino al compimento dei mille anni. Dopo questi dovrà essere sciolto per un pò di tempo. (Apocalisse 20,1-3, apostolo Giovanni)
-	}\end{tcolorbox}\medskip
+	}\end{enfasiwide}\medskip
 
 
 \begin{multicols}{2}
@@ -17209,8 +17249,9 @@ Prendiamo ad esempio l'Orco comune da https://www.d20pfsrd.com/bestiary/monster-
 
 \section{Condizioni}\index{Condizioni}
 
-\begin{tcolorbox}[width=0.92\textwidth,enhanced,arc=5pt,boxrule=0.3pt]{La grandezza dell'uomo è nella decisione di essere più forte della sua condizione. (Albert Camus)}
-\end{tcolorbox}\medskip
+\begin{enfasiwide}{
+La grandezza dell'uomo è nella decisione di essere più forte della sua condizione. (Albert Camus)}
+\end{enfasiwide}\medskip
 
 \begin{multicols}{2}
 	
