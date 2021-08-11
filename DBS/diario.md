@@ -1,3 +1,20 @@
+**11/08/2021**
+
+Mi sono concentrato i giorni scorsi su delle piccole modifiche al layout e struttura, nulla di molto appariscente ma comunque comodo.
+
+I vari box per il narratore, giocatore e frasi "motivazionali" erano caricate ognuna in maniera diversa (piu' o meno) questa generava una sensazione di approssimatezza sfogliando il volume dato che il lettore trovava box sempre di misure diverse!
+
+Ho allora creato degli alias in latex e ho ripassato tutti i box cosi' facendo sono omogenei tra loro, in pratica ci saranno box stretti, box a tutta pagina o a mezza colonna.
+Purtroppo latex non mi riesce a gestire bene i box sotto un sottotitolo quindi ho dovuto creare un box apposito  per gestire questi casi.
+
+Sono passato ad usare latexkm come framework per compilare e ottimizzare i flussi, molto comodo per evitare doppie compilazioni inutili (il mio misero i3 ci mette il suo tempo a compilare il tutto..).
+
+Quando ho molto da scrivere o controllare disabilito anche l'inclusione delle immagini, lasciando solo un box che ne occupa il medesimo posto, cosi' il layout e' rispettato ma la compilazione e' veramente veloce!
+
+
+Il lavoro di controllo e aggiornamento prosegue bene, le modifiche fatte sono per la maggior parte estetiche o comunque quando aggiungono qualcosa non e' nulla di critico (tipo nuove maledizioni!..)
+
+
 **08/08/2021**
 
 Ammetto che la mia preoccupazione perche' si generi una insoddisfazione dell'uso del sistema e' alta. In particolare quello che piu' mi preoccupa e' il fatto che i giocatori trovino frustranti i fallimenti nel lancio degli incantesimi.
