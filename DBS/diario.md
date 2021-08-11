@@ -14,6 +14,8 @@ Quando ho molto da scrivere o controllare disabilito anche l'inclusione delle im
 
 Il lavoro di controllo e aggiornamento prosegue bene, le modifiche fatte sono per la maggior parte estetiche o comunque quando aggiungono qualcosa non e' nulla di critico (tipo nuove maledizioni!..)
 
+EDIT: molto probabilmente prima di ferragosto pubblichero' la 1.1.8, non c'e' un motivo proprio nel manuale, le modifiche apportate sono comunque minime, voglio pubblicarlo cosi' che chi va in vacanza possa scaricare e leggere l'ultima versione.
+
 
 **08/08/2021**
 
