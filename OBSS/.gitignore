@@ -8,3 +8,14 @@
 "/home/azanzani/TUS/DBS/DBS-magia-alternativa.aux"
 "/home/azanzani/TUS/DBS/DBS-monstruos-chapter.aux"
 /home/azanzani/TUS/varie/*
+*.bat
+*.gz
+*.aux
+*.log
+*.bbl
+*.blg
+*.lot
+*.tcp
+*.toc
+*.lof
+*.ilg
