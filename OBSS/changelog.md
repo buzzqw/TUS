@@ -1,3 +1,5 @@
+*0.2* Aggiornata scheda e sistemati alcuni collegamenti, 
+
 Perche OBSS ???
 
 Non e' una domanda a cui e' facile rispondere.
