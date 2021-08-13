@@ -6,6 +6,8 @@ A differenza di DBS non c'e' prova di magia per riuscire nel lancio di magie ma 
 
 Il sistema magico e' a spell point ed usa gli incatesimi della 5e. Il combattimento rimane il medesimo di DSB
 
+Scaritate il manuale da qui, prendete sempre l'ultima versione, quella pubblicata solitamente e' parecchio indietro.
+La differenza di base e' che il pdf OBSS.pdf non ha immagini, mentre la versione rilasciata si.
 
 Buon Divertimento e Buon Gioco!
 
