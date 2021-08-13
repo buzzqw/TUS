@@ -1,5 +1,5 @@
 
-name: Compila Copertina
+name: Compila Copertina DBS
 on: [push,workflow_dispatch]
 jobs:
   build_latex:
