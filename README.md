@@ -1,6 +1,7 @@
-
+[![Compila Copertina DBS](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina%20DBS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina%20DBS.yml)
+[![Compila Copertina OBSS](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina%20OBSS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina%20OBSS.yml)
 [![Compila DBS](https://github.com/buzzqw/TUS/actions/workflows/compila%20DBS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20DBS.yml)
-[![Compila Copertina](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina.yml)
+[![Compila OBSS](https://github.com/buzzqw/TUS/actions/workflows/compila%20OBSS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20OBSS.yml)
 [![Compila Screen](https://github.com/buzzqw/TUS/actions/workflows/Compila%20Screen.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/Compila%20Screen.yml)
 
 
