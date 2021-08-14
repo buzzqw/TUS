@@ -1,4 +1,4 @@
-*0.2* Aggiornata scheda e sistemati alcuni collegamenti, tolto versatile e letale da pugnale, messe letale a katana, riviste scuola magie preferite,
+*0.2* Aggiornata scheda e sistemati alcuni collegamenti, tolto versatile e letale da pugnale, messe letale a katana, riviste scuola magie preferite, rilettura completa magia e piccoli chiarimenti, 
 
 Perche OBSS ???
 
