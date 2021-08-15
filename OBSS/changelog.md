@@ -1,4 +1,4 @@
-*0.2* Aggiornata scheda e sistemati alcuni collegamenti, tolto versatile e letale da pugnale, messe letale a katana, riviste scuola magie preferite, rilettura completa magia e piccoli chiarimenti, aggiunta abilita' forma elementale, aggiunto caso di sonno mancato, aggiunta indicazione bardadure cavalcature, ricontrollato capitolo combattimento piccoli chiarimenti e layout,
+*0.2* Aggiornata scheda e sistemati alcuni collegamenti, tolto versatile e letale da pugnale, messe letale a katana, riviste scuola magie preferite, rilettura completa magia e piccoli chiarimenti, aggiunta abilita' forma elementale, aggiunto caso di sonno mancato, aggiunta indicazione bardadure cavalcature, ricontrollato capitolo combattimento piccoli chiarimenti e layout, aggiunto incantesimo Gragnola di Ghiande di Kyrin,
 
 
 Perche OBSS ???
