@@ -4,9 +4,9 @@ Il gioco usa ed e' licenziato con la OGL 5.1, quella di Dungeon & Dragons, quest
 
 Il sistema magico e' a spell point ed usa gli incatesimi della 5e, molto modificati ed altri aggiunti da me. Il combattimento rimane il medesimo di DSB ovvero aperto, dinamico, esplosivo e divertente.
 
-OBSS si rifà alla filosofia OSR ma comunque in chiave moderna, ne abbraccia i principi ma non esclude un sistema di regole più completo che possa aiutare il Narratore.
+OBSS si rifà alla filosofia OSR (Old School Renaissance) ma comunque in chiave moderna, ne abbraccia i principi ma non esclude un sistema di regole più completo che possa aiutare il Narratore.
 
-Scaricate il manuale da qui, prendete sempre l'ultima versione, quella pubblicata solitamente e' parecchio indietro.
+Scaricate il manuale OBSS.pdf e la scheda OBSS-scheda.pdf, prendete sempre l'ultima versione, quella pubblicata nelle versioni solitamente e' parecchio indietro.
 La differenza di base e' che il pdf OBSS.pdf non ha immagini, mentre la versione rilasciata si. L'obiettivo e' rilasciare una versione a settimana.
 
 Buon Divertimento e Buon Gioco!
