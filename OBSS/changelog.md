@@ -2,7 +2,7 @@
 
 **0.3** riordinato adepto della magia tra le abilità, aggiornato indice, aggiunta abilita' batteria estesa, aggiunte regole per studiare gli incantesimi, modificata tabella fallimento critico incantesimo, in caso di impendimenti il costo e' triplicato, armonizzato ts cu effetti oggetti magici, modificato ts contro incatesimi
 
-*0.4* aggiunto screen,
+*0.4* aggiunto screen, migliorata tabella massimo incantesimo lanciabile,
 
 Perche OBSS ???
 
