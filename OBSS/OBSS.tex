@@ -12943,21 +12943,21 @@ Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella s
 \subsubsection{Tabella Armature}\index{Tabella Armature}
 
 \label{tabella-armature}
-\begin{tabular}{lllllll}
+\begin{tabular}{llllllll}
 %\begin{xltabular}{0.95\textwidth}{lXXXXXXX}
-\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{Prove Destrezza} &  \textbf{Tipo} & \textbf{Mov.} & \textbf{Peso (kg)}\\
+\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{Prove Destrezza} &  \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Peso (kg)}\\
 \toprule
-Imbottita   & 5    & 1   & 0  &  L   & 0   & 4\\
-Cuoio   & 10   & 2   & 0   & L   & 0   & 5\\
-Cuoio rinforzato   & 25  &3  & 0   &    L   & 0   & 6.5\\
-Giaco di Maglia   & 15   & 4  & -1  &  M   & 0   & 10\\
-Scaglie& 50   & 5  & -1  &  M   & 0   & 22.5\\
-Anelli & 150  & 6  & -1  &  M   & 0   & 20\\
-Pettorale    & 200  & 6  & -2  &  M   & 0   & 10\\
-Bande   & 250  & 7  & -2  &  P   & 0   & 30\\
-Mezza armatura   & 1200 & 8  & -2  &  P   & 1   & 20\\
-da Campo& 1400 & 9 & -3  &   P   & 2   & 25\\
-Completa& 1500 & 10  & -4  & P   & 3   & 32.5\\
+Imbottita   & 5    & 1   & 0  &  L   & 0   & NO&4\\
+Cuoio   & 10   & 2   & 0   & L   & 0   & SI&5\\
+Cuoio rinforzato   & 25  &3  & 0   &    L   & 0 &SI  & 6.5\\
+Giaco di Maglia   & 15   & 4  & -1  &  M   & 0  &+1d6 & 10\\
+Scaglie& 50   & 5  & -1  &  M   & 0 &+1d6  & 22.5\\
+Anelli & 150  & 6  & -1  &  M   & 0  &+1d6 & 20\\
+Pettorale    & 200  & 6  & -2  &  M  &  0 &+1d6  & 10\\
+Bande   & 250  & 7  & -2  &  P   & 0  &+2d6 & 30\\
+Mezza armatura   & 1200 & 8  & -2  &  P   & 1 &+2d6  & 20\\
+da Campo& 1400 & 9 & -3  &   P   & 2  &+2d6 & 25\\
+Completa& 1500 & 10  & -4  & P   & 3  &+2d6 & 32.5\\
 \end{tabular}
 
 \medskip
@@ -13069,16 +13069,16 @@ Gli Scudi possono essere di tipo Leggero, Medio, Pesante.
 
 \label{tabella-scudi}
 
-\begin{tabular}{lccccc}
-\textbf{Scudi} & \textbf{Costo} & \textbf{Bonus Difesa} & \textbf{Malus TC} & \textbf{Peso (kg)} & \textbf{Tipo}\\
+\begin{tabular}{lcccccc}
+\textbf{Scudi} & \textbf{Costo} & \textbf{Bonus Difesa} & \textbf{Malus TC} & \textbf{Prova magia} & \textbf{Peso (kg)} & \textbf{Tipo}\\
 \toprule
-Brocchiero& 5 mo  &  0& 1& 1  & L\\
-Scudo leggero di legno   & 3 mo  &  0& 2& 2  & L\\
-Scudo leggero di metallo & 9  mo  &  0& 3& 3  & L\\
-Scudo medio legno   & 5 mo   &  -1& 4& 3  & M\\
-Scudo medio metallo & 12 mo  & -1  & 5& 5  & M\\
-Scudo pesante di legno   & 7  mo  &  -2    & 6& 5  & P\\
-Scudo pesante di metallo & 20 mo  &  -2    & 7& 7  & P\\
+Brocchiero& 5 mo  &  0& 1& SI&1  & L\\
+Scudo leggero di legno   & 3 mo  &  0& 2& SI&2  & L\\
+Scudo leggero di metallo & 9  mo  &  0& 3&SI& 3  & L\\
+Scudo medio legno   & 5 mo   &  -1& 4& +1d6&3  & M\\
+Scudo medio metallo & 12 mo  & -1  & 5& +1d6&5  & M\\
+Scudo pesante di legno   & 7  mo  &  -2    & 6& +2d6&5  & P\\
+Scudo pesante di metallo & 20 mo  &  -2    & 7& +2d6&7  & P\\
 \end{tabular}
 
 \medskip
@@ -13487,20 +13487,19 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 \subsubsection{Cavalcature e Altri Animali}
 
 
-\begin{tabular}{llll}
+\begin{tabular}{lllll}
 \toprule
-\textbf{Cavalcatura}&\textbf{Costo}&\textbf{Mov.}&\textbf{Trasporto}\\
-&(\textbf{mo})&&\\
-Asino o Mulo&8&12 m&210 kg\\
-Cammello&50&15 m&240 kg\\
-Cavallo da Galoppo&75&18 m&240 kg\\
-Cavallo da Guerra&400&18 m&270 kg\\
-Cavallo da Tiro&50&12 m&270 kg\\
-Elefante&200&12 m&660 kg\\
-Mastino&25&12 m&97,5 kg\\
-Pony&30&12 m&112,5 kg\\
+\textbf{Cavalcatura}&\textbf{Costo}&\textbf{Mov.}&\textbf{Carico}&Km/h\\
+&(\textbf{mo})&&&\\
+Asino o Mulo&8&12 m&210 kg&6km\\
+Cammello&50&15 m&240 kg&8km\\
+Cavallo da Galoppo&75&18 m&240 kg&12km\\
+Cavallo da Guerra&400&18 m&270 kg&9km\\
+Cavallo da Tiro&50&12 m&270 kg&6km\\
+Elefante&200&12 m&660 kg&6km\\
+Mastino&25&12 m&97,5 kg&6km\\
+Pony&30&12 m&112,5 kg&6km\\
 \end{tabular}
-
 
 \bigskip
 
