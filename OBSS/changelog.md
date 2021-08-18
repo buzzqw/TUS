@@ -1,6 +1,6 @@
 **0.2** Aggiornata scheda e sistemati alcuni collegamenti, tolto versatile e letale da pugnale, messe letale a katana, riviste scuola magie preferite, rilettura completa magia e piccoli chiarimenti, aggiunta abilita' forma elementale, aggiunto caso di sonno mancato, aggiunta indicazione bardadure cavalcature, ricontrollato capitolo combattimento piccoli chiarimenti e layout, aggiunto incantesimo Gragnola di Ghiande di Kyrin, ricontrollato lista d'armi piccoli chiarimenti e modifiche, piccole modifiche ad abilità speciali, aggiornate modalita' tiro caratteristiche, aggiornata abilita' esperto,
 
-*0.3* riordinato adepto della magia tra le abilità, aggiornato indice, aggiunta abilita' batteria estesa, aggiunte regole per studiare gli incantesimi, modificata tabella fallimento critico incantesimo, in caso di impendimenti il costo e' triplicato,
+*0.3* riordinato adepto della magia tra le abilità, aggiornato indice, aggiunta abilita' batteria estesa, aggiunte regole per studiare gli incantesimi, modificata tabella fallimento critico incantesimo, in caso di impendimenti il costo e' triplicato, armonizzato ts cu effetti oggetti magici, modificato ts contro incatesimi,
 
 Perche OBSS ???
 
