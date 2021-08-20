@@ -1,8 +1,10 @@
-**0.2** Aggiornata scheda e sistemati alcuni collegamenti, tolto versatile e letale da pugnale, messe letale a katana, riviste scuola magie preferite, rilettura completa magia e piccoli chiarimenti, aggiunta abilita' forma elementale, aggiunto caso di sonno mancato, aggiunta indicazione bardadure cavalcature, ricontrollato capitolo combattimento piccoli chiarimenti e layout, aggiunto incantesimo Gragnola di Ghiande di Kyrin, ricontrollato lista d'armi piccoli chiarimenti e modifiche, piccole modifiche ad abilità speciali, aggiornate modalita' tiro caratteristiche, aggiornata abilita' esperto,
+**0.2** Aggiornata scheda e sistemati alcuni collegamenti, tolto versatile e letale da pugnale, messe letale a katana, riviste scuola magie preferite, rilettura completa magia e piccoli chiarimenti, aggiunta abilita' forma elementale, aggiunto caso di sonno mancato, aggiunta indicazione bardadure cavalcature, ricontrollato capitolo combattimento piccoli chiarimenti e layout, aggiunto incantesimo Gragnola di Ghiande di Kyrin, ricontrollato lista d'armi piccoli chiarimenti e modifiche, piccole modifiche ad abilità speciali, aggiornate modalita' tiro caratteristiche, aggiornata abilita' esperto
 
 **0.3** riordinato adepto della magia tra le abilità, aggiornato indice, aggiunta abilita' batteria estesa, aggiunte regole per studiare gli incantesimi, modificata tabella fallimento critico incantesimo, in caso di impendimenti il costo e' triplicato, armonizzato ts cu effetti oggetti magici, modificato ts contro incatesimi
 
-*0.4* aggiunto screen, migliorata tabella massimo incantesimo lanciabile, modificato e chiarito costo per successi critici multipli, ricontrollati patroni piccole modifiche, corretta indicazione prova magia per armatura imbottita in screen, ancora ottimizzazione box, chiarimenti su prova di nascondersi, correzioni ortografiche, dettagli su lingue, dettagli su energia positiva curativa,  chiarito che senza componenti materiali l'incantesimo fallisce,
+**0.4** aggiunto screen, migliorata tabella massimo incantesimo lanciabile, modificato e chiarito costo per successi critici multipli, ricontrollati patroni piccole modifiche, corretta indicazione prova magia per armatura imbottita in screen, ancora ottimizzazione box, chiarimenti su prova di nascondersi, correzioni ortografiche, dettagli su lingue, dettagli su energia positiva curativa,  chiarito che senza componenti materiali l'incantesimo fallisce, diverse correzioni di accenti
+
+*0.5* aggiornata versione copertina,
 
 Perche OBSS ???
 
