@@ -9,6 +9,8 @@ OBSS si rifà alla filosofia OSR (Old School Renaissance) ma comunque in chiave 
 Scaricate il manuale OBSS.pdf e la scheda OBSS-scheda.pdf, prendete sempre l'ultima versione, quella pubblicata nelle versioni solitamente e' parecchio indietro.
 La differenza di base e' che il pdf OBSS.pdf non ha immagini, mentre la versione rilasciata si. L'obiettivo e' rilasciare una versione a settimana.
 
+Un changelog scritto in maniera un po' piu' comprensibile dei commit e' il file changelog.md [link](https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md), mentre in diario.md [link](https://github.com/buzzqw/TUS/blob/master/diario.md) troverete i miei deliri di autore (poche cosa attualmente!)
+
 Buon Divertimento e Buon Gioco!
 
 Andres

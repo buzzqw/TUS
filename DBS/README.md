@@ -9,7 +9,7 @@ C'e' anche lo **Schermo del Narratore** [link](https://github.com/buzzqw/TUS/blo
 
 Dentro il manuale troverete tutto cio' che serve per giocare (a parte dadi e amici) dalla sezione per il giocatore, per il master e il compendio dei mostri.
 
-Un changelog scritto in maniera un po' piu' comprensibile dei commit e' il file changelog.md [link](https://github.com/buzzqw/TUS/blob/master/DBS/changelog.md), mentre in diario.md [link](https://github.com/buzzqw/TUS/blob/master/DBS/diario.md) troverete i miei deliri di autore (poche cosa attualmente!)
+Un changelog scritto in maniera un po' piu' comprensibile dei commit e' il file changelog.md [link](https://github.com/buzzqw/TUS/blob/master/DBS/changelog.md).
 
 Se invece volete svilupare **Dungen Bell System** vi suggerisco di scaricare i file latex (*.tex*) e dargli una occhiata.
 Non fatevi spaventare da latex, anche per me era *alieno* finche' non ho imparato ad usarlo! Alla fine vederete che con un copia incolla delle funzioni principali potrete fare quasi tutto.
