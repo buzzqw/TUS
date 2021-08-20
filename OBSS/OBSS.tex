@@ -100,6 +100,9 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
 
 
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+
 %\titleformat{\subsection}{\large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
 %\titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
 
@@ -127,7 +130,6 @@ drop fuzzy shadow % adds drop shadow
 \newtcolorbox{narratoresmall}{
 enhanced, % enable advanced settings
 %left = 3mm,
-width=0.425\textwidth,
 left = 9mm, % pushes text away from the left edge by 10mm
 sharp corners, % disables rounded corners
 rounded corners = southeast, % "round" the bottom right corner
@@ -229,7 +231,6 @@ before upper={\parindent15pt\noindent} % add paragraph indentation
 
 \begin{document}
 
-
 %%\normalsize
 
 %%\linespread{1.5}
@@ -255,7 +256,7 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 
 \section{Introduzione}
 
-\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)}\end{tcolorbox}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)}\end{tcolorbox}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{O}{BSS} è un gioco di ruolo (GDR o RPG, Role Play Game in inglese) cooperativo e narrativo nel quale i giocatori creano personaggi che vivranno fantastiche e strabilianti avventure. Il Narratore si preoccuperà di dipanare la storia e fare partecipare i personaggi. Come in un gioco di narrazione ogni personaggio contribuirà attivamente alla storia con le sue scelte, le sue decisioni e le sue azioni.
@@ -337,11 +338,11 @@ Andres Zanzani
 
 \medskip
 
-\begin{tcolorbox}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}
 "Although the masculine form of appellation is typically used when listing the level titles of the various types of characters, these names can easily be changed to the feminine if desired. This is fantasy, what's in a name? In all but a few cases sex makes no difference to ability!"
 
 Gary Gygax, Advanced Dungeons \& Dragons Players Handbook
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
 
 \bigskip
 
@@ -500,11 +501,11 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 \medskip
 
 
-\begin{enfasi}{Esempio di box contenente una citazione o frase motivazionale}\end{enfasi}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Esempio di box contenente una citazione o frase motivazionale}\end{enfasi}\end{changemargin}
 
-\begin{tcolorbox}[title = Informazioni per il giocatore]Box contenente indicazioni e chiarimenti per il Giocatore.\end{tcolorbox}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Informazioni per il giocatore]Box contenente indicazioni e chiarimenti per il Giocatore.\end{tcolorbox}\end{changemargin}
 
-\begin{narratore}Box contenente indicazioni e suggerimenti per il Narratore\end{narratore}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}Box contenente indicazioni e suggerimenti per il Narratore\end{narratore}\end{changemargin}
 
 \end{multicols}
 
@@ -512,11 +513,11 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 
 \section{Razze}\index{Razze}
 
-\begin{enfasi}{Il vero viaggio di scoperta non consiste nel trovare nuovi territori, ma nel possedere altri occhi, vedere l'universo attraverso gli occhi di un altro, di centinaia d'altri: di osservare il centinaio di universi che ciascuno di loro osserva, che ciascuno di loro è. (Marcel Proust)
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Il vero viaggio di scoperta non consiste nel trovare nuovi territori, ma nel possedere altri occhi, vedere l'universo attraverso gli occhi di un altro, di centinaia d'altri: di osservare il centinaio di universi che ciascuno di loro osserva, che ciascuno di loro è. (Marcel Proust)
 
 \medskip
 
-Non è la più intelligente delle specie quella che sopravvive; non è nemmeno la più forte; la specie che sopravvive è quella che è in grado di adattarsi e di adeguarsi meglio ai cambiamenti dell'ambiente in cui si trova. (Leon C. Megginson)}\end{enfasi}\medskip
+Non è la più intelligente delle specie quella che sopravvive; non è nemmeno la più forte; la specie che sopravvive è quella che è in grado di adattarsi e di adeguarsi meglio ai cambiamenti dell'ambiente in cui si trova. (Leon C. Megginson)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -814,18 +815,18 @@ Il giocatore, in accordo con il Narratore, può scegliere uno svantaggio diverso
 \medskip
 
 \index{Razze}\index{Razza}
-\begin{tcolorbox}[title = Nota sulle Razze]
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Nota sulle Razze]
 Nessuna descrizione di una razza potrà mai imbrigliare e sottomettere un personaggio. Ogni giocatore è libero di creare il personaggio della razza preferita (concessa dal Narratore) e descriverlo, inquadrarlo, sentirlo, renderlo vivo come più gli piace.
 Non limitatevi alle descrizioni qui proposte, vogliono essere solo spunti, non sentitevi limitati nelle scelte perché la vostra razza dice questo o quello.
 Fate nascere i più belli ed completi personaggi possibili.
 Ogni personaggio è vivo ed è una persona e come tale sarà sempre diverso l'uno dall'altro, ognuno fantastico in maniera diversa a discapito di qualsiasi razza e pregiudizio.
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
 
-\begin{tcolorbox}[title = Nota sul Sesso]\index{Sesso}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Nota sul Sesso]\index{Sesso}
 Casomai foste così ottusi ribadisco che non c'è differenza di capacità o statistiche in base al sesso. Ogni giocatrice e giocatore è invitato a fare il personaggio del sesso (o non) che preferisce.
 
 Se l'argomento è per voi motivo di non divertimento chiaritelo con il Narratore, saprà orchestrare l'avventura in maniera idonea.
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
 
 \end{multicols}
 
@@ -835,7 +836,7 @@ Se l'argomento è per voi motivo di non divertimento chiaritelo con il Narratore
 
 \label{caratteristiche-speciali}
 
-\begin{enfasi}{Non basta avere gli occhi per vedere (anonimo)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Non basta avere gli occhi per vedere (anonimo)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -928,7 +929,7 @@ Il raggio della capacità è specificato nel testo descrittivo della creatura
 
 \label{le-caratteristiche}
 
-\begin{enfasi}{Vivere non è respirare: è agire, è fare uso degli organi, dei sensi, delle facoltà, di tutte quelle parti di noi stessi per cui abbiamo il sentimento di esistere. (Jean-Jacques Rousseau)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Vivere non è respirare: è agire, è fare uso degli organi, dei sensi, delle facoltà, di tutte quelle parti di noi stessi per cui abbiamo il sentimento di esistere. (Jean-Jacques Rousseau)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -947,9 +948,9 @@ Un mostro con Forza -4 non è prossimo a morire, semplicemente ha pochissima for
 
 \subsubsection{Forza}\index{Forza}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 		Ah, è cosa eccellente possedere la forza d'un gigante, ma usarla da gigante, è tirannia! (William Shakespeare, Isabella: da “Misura per misura”, atto II, scena II)
-}\end{enfasi}
+}\end{enfasi}\end{changemargin}
 
 La Forza misura la potenza fisica, l'atletismo e i limiti della forza bruta che puoi esprimere.
 
@@ -960,9 +961,9 @@ Un personaggio con un punteggio di Forza pari a -5 è morto.
 
 \subsubsection{Destrezza}\index{Destrezza}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 		Abbaiare stanca. La forza non conta niente nella vita. Saper schivare è quello che conta. (Daniel Pennac)
-}\end{enfasi}
+}\end{enfasi}\end{changemargin}
 
 La Destrezza misura l'agilità, i riflessi, l'equilibrio ed il coordinamento.
 
@@ -972,9 +973,9 @@ Un personaggio con un punteggio di Destrezza pari a -5 è incapace di muoversi e
 
 \subsubsection{Costituzione}\index{Costituzione}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 		Un po' di salute ogni tanto è il miglior rimedio per l'ammalato. (Friedrich Nietzsche)
-}\end{enfasi}
+}\end{enfasi}\end{changemargin}
 
 La Costituzione misura la salute, la vigoria e la forza vitale. nonché la resistenza agli sforzi.
 
@@ -984,9 +985,9 @@ Un personaggio con Costituzione -5 non ha più il controllo del proprio corpo ed
 
 \subsubsection{Intelligenza}\index{Intelligenza}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 		La forza senza intelligenza rovina sotto il suo stesso peso. (Orazio)
-}\end{enfasi}
+}\end{enfasi}\end{changemargin}
 
 L'Intelligenza misura l'acume mentale, l'accuratezza dei ricordi e la capacità di ragionare.
 Una prova di Intelligenza entra in gioco quando hai bisogno di affidarti alla logica, l'istruzione, la memoria o le capacità deduttive.
@@ -998,8 +999,8 @@ Un personaggio con un punteggio di Intelligenza pari a -5 è in stato di coma.
 
 \subsubsection{Saggezza}\index{Saggezza}
 
-\begin{enfasi}{
-		La forza non deriva dalla capacità fisica. Deriva da una volontà indomita. (Mahatma Gandhi)}\end{enfasi}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+		La forza non deriva dalla capacità fisica. Deriva da una volontà indomita. (Mahatma Gandhi)}\end{enfasi}\end{changemargin}
 
 La Saggezza riflette la tua sintonia con il mondo circostante e rappresenta la perspicacia, l'intuito, la forza di volontà ed il buon senso.
 
@@ -1009,13 +1010,13 @@ Un personaggio con un punteggio di Saggezza pari a -5 è incapace di pensiero ra
 
 \subsubsection{Carisma}\index{Carisma}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Kogami, tu sai che cos'è il carisma?
 
 – Per come la vedo io, è un'attitudine innata, come quella di un eroe o di un leader.
 
 – [...] Gli elementi che identificano il carisma sono tre: l'indole innata degli eroi e dei profeti, la capacità di infondere benessere agli altri con la sola presenza e una cultura che ti permetta una conversazione brillante su ogni argomento. (Psycho-Pass)
-}\end{enfasi}
+}\end{enfasi}\end{changemargin}
 
 Il Carisma misura la tua capacità di interagire efficacemente con il prossimo. Comprende fattori come la sicurezza e l'eloquenza, e può rappresentare una personalità affascinante o autoritaria.
 
@@ -1101,7 +1102,7 @@ Non c'e' l'\textbf{Eccezione} del +4 nella Modalità che vorrei
 Se il Narratore lo concede è possibile che ogni giocatore distribuisca 4 punti tra le 6 Caratteristiche, ogni Caratteristica deve avere come minimo un punteggio di -1 e come massimo 2 prima dei modificatori razziali.
 
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/guerrieroispirato.png}
+\includegraphics[width=0.65\linewidth]{immagini/guerrieroispirato.png}
 \end{center}
 
 \subsection{Aumentare le caratteristiche}
@@ -1110,7 +1111,7 @@ Se il Narratore lo concede è possibile che ogni giocatore distribuisca 4 punti 
 
 \medskip
 
-\begin{tcolorbox}[title = Tiriamo le Caratteristiche di Tups]
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tiriamo le Caratteristiche di Tups]
 
 * \textbf{Il primo tiro}: 1,1,4,6, totale 11, la caratteristica di Forza ha valore +0.
 
@@ -1123,15 +1124,15 @@ Se il Narratore lo concede è possibile che ogni giocatore distribuisca 4 punti 
 * \textbf{Quinto tiro}: 3,4,2,6, totale 13, la caratteristica di Saggezza è +1
 
 \textbf{Sesto tiro}: 3,4,2,1, totale 9, la caratteristica di Carisma è +0
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
 
 \end{multicols}
 
 \medskip
 
-\begin{narratore}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 I giocatori comunque si lamenteranno delle Caratteristiche tirate, e' normale, specialmente i giocatori più inesperti. Cercate di fargli capire che non deve limitarsi a guardare le Caratteristiche ma vedere l'insieme generale del personaggio. Alla fine si tratta di una, due Caratteristiche che forse potevano dare un +1 di bonus. Non è la fine del mondo e men che meno del personaggio, se proprio c'è una Caratteristica scarsa basterà prendere qualche abilità specifica per recuperare nelle competenze.
-\end{narratore}
+\end{narratore}\end{changemargin}
 
 
 \pagebreak
@@ -1141,7 +1142,7 @@ I giocatori comunque si lamenteranno delle Caratteristiche tirate, e' normale, s
 
 \section{Punti Ferita}\index{Punti Ferita}\index{Punti Ferita}
 
-\begin{enfasi}{Chi non stima la vita, non la merita. (Leonardo da Vinci)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Chi non stima la vita, non la merita. (Leonardo da Vinci)}\end{enfasi}\end{changemargin}\medskip
 
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{ Punti Ferita} rappresentano l'energia vitale del personaggio e finché il personaggio/avversario ha almeno 1 punto ferita combatterà e lotterà al meglio delle sue capacità.
@@ -1185,7 +1186,7 @@ I punti ferita temporanei non possono essere superiori alla metà del massimo de
 \columnbreak
 
 \section{Punti Fato - Fortuna del Principiante}\index{Punti Fato}
-\begin{enfasi}{Se il destino è contro di noi, peggio per lui. (motto del 1º Reggimento Carabinieri Paracadutisti "Tuscania")}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Se il destino è contro di noi, peggio per lui. (motto del 1º Reggimento Carabinieri Paracadutisti "Tuscania")}\end{enfasi}\end{changemargin}\medskip
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{n} un mondo non facile la Fortuna del Principiante aiuta chi non ha esperienza.
 Ogni personaggio ha un numero di Punti Fato pari a (20 - Livello)/5, con un minimo di 1. I Punti Fato si conteggiano per sessione di gioco.
@@ -1218,13 +1219,13 @@ I Punti Fato si devono dichiarare prima del tiro, una volta dichiarato l'ammonta
 \section{I Tratti}\index{Tratti}\hypertarget{tratti}{}
 
 \label{tratti}
-\begin{enfasi}{Chi dunque sa fare il bene e non lo compie, commette peccato. (Giacomo il Giusto 4.17, Lettera di Giacomo. NdA riferendosi ai Tratti scelti)
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Chi dunque sa fare il bene e non lo compie, commette peccato. (Giacomo il Giusto 4.17, Lettera di Giacomo. NdA riferendosi ai Tratti scelti)
 \smallskip
 
 E' un diritto naturale saziarsi l'anima con la vendetta. (Attila)
 \smallskip
 
-Est Sularus Oth Mithas. ("Il mio onore è la mia vita", Giuramento dei Cavalieri di Solamnia.)}\end{enfasi}\medskip
+Est Sularus Oth Mithas. ("Il mio onore è la mia vita", Giuramento dei Cavalieri di Solamnia.)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -1495,11 +1496,11 @@ Se un giocatore non gioca i Tratti del personaggio non farà acquisire punti esp
 \section{Competenze}\index{Competenze}
 
 \label{competenze}
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Chi dice che una cosa è impossibile, non dovrebbe disturbare chi la sta facendo.
 
 \medskip
-Non hai veramente capito qualcosa fino a quando non sei in grado di spiegarlo a tua nonna. (Albert Einstein)}\end{enfasi}\medskip
+Non hai veramente capito qualcosa fino a quando non sei in grado di spiegarlo a tua nonna. (Albert Einstein)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -1522,12 +1523,12 @@ Gli \textbf{1 portano male}, se fai 1 con il dado togli 1 alla somma dei dadi ti
 
 \label{competenze-di-base}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti; la maggior parte, anzi, assaggiato quanto lo studio sia fatica e provata la stanchezza sulla propria pelle, butta alla leggera la noce ancor prima di aver rotto il guscio per gustarne il gheriglio. (Richard de Bury)
 
 \medskip
 
-Lo studio è per i perdenti! (Lobo)}\end{enfasi}\medskip
+Lo studio è per i perdenti! (Lobo)}\end{enfasi}\end{changemargin}\medskip
 
 
 Sono qui elencate alcune Professioni di esempio e le loro competenze relative, il personaggio acquisisce queste competenze con il punteggio indicato nella tabella.
@@ -1719,19 +1720,19 @@ Per apprendere una nuova professione deve passare almeno 6 mesi per 6 ore al gio
 
 \medskip
 
-\begin{narratore}{
-Non sottovalutate la scelta della Professione!. Non tutto può risolversi con asciate o magia. Sapere districare nodi, seguire tracce, riconoscere erbe o malattie fanno del personaggio un esperto, creano una professione. Non dovete definire il personaggio solo in base alle Abilità che ha ma in base a cosa e quanto bene sa farlo. Un personaggio di basso livello ma esperto di sopravvivenza sarà sempre più utile di un combattente esperto se si tratta di attraversare un deserto.}\end{narratore}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}{
+Non sottovalutate la scelta della Professione!. Non tutto può risolversi con asciate o magia. Sapere districare nodi, seguire tracce, riconoscere erbe o malattie fanno del personaggio un esperto, creano una professione. Non dovete definire il personaggio solo in base alle Abilità che ha ma in base a cosa e quanto bene sa farlo. Un personaggio di basso livello ma esperto di sopravvivenza sarà sempre più utile di un combattente esperto se si tratta di attraversare un deserto.}\end{narratore}\end{changemargin}
 
 \subsection{Competenze Attive}\index{Competenze Attive}
 
 \label{competenze-attive}
-\begin{enfasi}{C'è solo un modo per allenarsi: quello giusto. (Carl Lewis)
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{C'è solo un modo per allenarsi: quello giusto. (Carl Lewis)
 \medskip
 
 Wang Chi: Sei pronto?
 
 Jack Burton: Io sono nato pronto! (Grosso guaio a Chinatown, Film 1986)
-}\end{enfasi}\medskip
+}\end{enfasi}\end{changemargin}\medskip
 
 Ogni personaggio prende 1 punto da distribuire nelle Competenze Attive a livello.
 
@@ -1749,8 +1750,8 @@ Il \textbf{Tiro Salvezza su Volontà} indica la resistenza contro l'influenza me
 
 Il \textbf{Tiro Salvezza su Riflessi} indica quanto si è agili e pronti per evitare ostacoli o magie. Ai Tiri Salvezza su Riflessi si aggiunge il valore di \textbf{Destrezza}.
 
-\begin{tcolorbox}[title = Tiri Salvezza non standard]
-E' possibile che vengano richiesti dei Tiri Salvezza con modificatori diversi, ovvero un Tiro Salvezza su Tempra con modificatore Forza oppure un Tiro Salvezza su Volontà con modificatore Carisma... Sarà il Narratore a dirvi quando si applica un modificatore diverso.\end{tcolorbox}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tiri Salvezza non standard]
+E' possibile che vengano richiesti dei Tiri Salvezza con modificatori diversi, ovvero un Tiro Salvezza su Tempra con modificatore Forza oppure un Tiro Salvezza su Volontà con modificatore Carisma... Sarà il Narratore a dirvi quando si applica un modificatore diverso.\end{tcolorbox}\end{changemargin}
 
 \medskip
 
@@ -1804,7 +1805,7 @@ La difficoltà (DC) del Tiro Salvezza sarà pari a 10 + livello incantesimo + mo
 
 Se sei tu a dover resistere ad una magia il Narratore non ti dirà di fare un Tiro Salvezza a difficoltà 18, è lui che confronta il tuo tiro con la difficoltà, potrà dirti che la prova è complessa, difficile o facile...
 
-\begin{tcolorbox}[title = Tups arriva al 4' livello!]
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups arriva al 4' livello!]
 
 Tups è arrivato al 4' livello! Ecco come ha distribuito i punti delle Competenze Attive.
 
@@ -1818,7 +1819,7 @@ Tups è arrivato al 4' livello! Ecco come ha distribuito i punti delle Competenz
 
 \textbf{\textit{Totale}}: +1 CA, +2 CM, +3 Tiro Salvezza Riflessi, +2 Tiro Salvezza Tempra, +4 Tiro Salvezza Volontà
 
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
 
 
 \end{multicols}
@@ -1835,9 +1836,9 @@ Tups è arrivato al 4' livello! Ecco come ha distribuito i punti delle Competenz
 \section{Costruiamo il Personaggio}\index{Personaggio}
 
 \label{costruiamo-il-personaggio}
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 "Mai dimenticare chi sei, perché di certo il mondo non lo dimenticherà. Trasforma chi sei nella tua forza, così non potrà mai essere la tua debolezza. Fanne un'armatura, e non potrà mai essere usata contro di te." (Tyrion Lannister)
-}\end{enfasi}\medskip
+}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -1919,9 +1920,9 @@ In ultimo ricordati della Legge del Premio\index{Legge del Premio}. Yeru e' fero
 
 \subsection{Avanziamo di Livello}\index{Livello}\index{Avanzamento di Livello}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Ma ci sono cose che non si possono capire con la riflessione, bisogna viverle. (La storia infinita | Michael Ende)
-}\end{enfasi}
+}\end{enfasi}\end{changemargin}
 
 
 Ogni qual volta il Narratore vi confermi il passaggio di livello sono da compiere diverse operazioni per aggiornare il personaggio.
@@ -1972,14 +1973,14 @@ Un suggerimento è anche di usare le Abilità, ed in particolare Esperto, che vi
 \subsection{Suggerimenti per divertirsi e sopravvivere nelle campagne di OBSS}\index{Linee guida per i giocatori}
 
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 - Ci vuole un piano.
 
 - Da quando gli eroi hanno bisogno di piani? (Final Fantasy XIII)
 
 \medskip
 
-Vado matto per i piani ben riusciti! ( Colonnello John "Hannibal" Smith,  A-Team)}\end{enfasi}\medskip
+Vado matto per i piani ben riusciti! ( Colonnello John "Hannibal" Smith,  A-Team)}\end{enfasi}\end{changemargin}\medskip
 
 Questi sono consigli derivati dai principi dell'OSR che aiutano i personaggi a rimanere in vita.
 
@@ -2042,9 +2043,9 @@ Non creare personaggio che siano contro gli altri personaggi o diano sempre fast
 
 \bigskip
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 "La candela accesa da entrambe le parti dura la metà (Anonimo)"
-}\end{enfasi}\medskip
+}\end{enfasi}\end{changemargin}\medskip
 
 
 \begin{figure}[htb]
@@ -2058,8 +2059,8 @@ Non creare personaggio che siano contro gli altri personaggi o diano sempre fast
 \section{Regole per le Competenze}\index{Regole per le Competenze}\index{Competenze}
 
 \label{regole-per-le-competenze}
-\begin{enfasi}{
-Occorre che la legge sia breve, perché più facilmente i mal pratici la ricordino. (Seneca)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Occorre che la legge sia breve, perché più facilmente i mal pratici la ricordino. (Seneca)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -2172,19 +2173,19 @@ In questi casi il personaggio ed il Narratore effettuano una prova, chi ottiene 
 \textit{Bible Pictures and What They Teach Us. Prova Consapevolezza, Muoversi Silenziosamente}
 \end{center}
 
-\begin{narratore}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Ogni qual volta la prova opposta riguarda una \textbf{caratteristica correlata ai Tiri Salvezza} (Costituzione, Destrezza, Saggezza) per tutti gli interessati, fate fare un Tiro Salvezza come valore contrapposto. Es. una prova di braccio di ferro è un Tiro Salvezza su Tempra contrapposto. Chi riesce a fare più alto con il Tiro Salvezza vince.
-\end{narratore}
+\end{narratore}\end{changemargin}
 
-\begin{narratore}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Non fate che siano le prove a governare il vostro gioco. \textbf{Fate giocare i giocatori}, fateli recitare, fateli partecipare ed in base a quanto dicono stabilite se la prova è passata o meno.
 
 Se vi dicono "convinco la guardia a farci passare" fate fare una prova di Intimidire (o Diplomazia), se invece intavolano un dialogo convincente potete considerare che la prova sia stata fatta con esito positivo (o negativo se non sono riusciti ad argomentare!)
-\end{narratore}
+\end{narratore}\end{changemargin}
 
 \subsection{Vantaggi e Svantaggi} \index{Vantaggi}\index{Bonus}\index{Malus}\index{Svantaggi}
 
-\begin{enfasi}{Audentes fortuna iuvat ("La fortuna aiuta gli audaci", Virgilio) }\end{enfasi}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Audentes fortuna iuvat ("La fortuna aiuta gli audaci", Virgilio) }\end{enfasi}\end{changemargin}
 
 \medskip
 
@@ -2221,11 +2222,11 @@ Svantaggio molto forte        & -2d6            & -8\\
 \end{tabular}
 
 
-\begin{narratore}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 La matematica della distribuzione normalizzata (3d6) e' diversa da quella del semplice d20. I vantaggi e svantaggi pesano molto di più, fanno molta più riuscita.
 
 Questo non significa di non dare bonus o malus, ma di essere coerente al massimo ed applicarli a tutti i contendenti ovvero sia ai giocatori che ai nemici. Cercate di rimanere sempre nell'abito di +-2 al massimo e solo in situazioni particolari di effettivo e forte vantaggio o svantaggio applicate bonus o malus più forti.
-\end{narratore}
+\end{narratore}\end{changemargin}
 
 \subsubsection{Fattore tempo}\index{Fattore tempo}
 
@@ -2264,9 +2265,9 @@ Il Narratore valuterà la possibilità che più di un personaggio fornisca aiuto
 \end{itemize}
 
 
-\begin{tcolorbox}[title = Golden Rules]{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Golden Rules]{
 Sfruttate le \textbf{Golden Rules} a vostro vantaggio! Osate, tentate, rischiate quando la situazione non permette altre soluzioni!}
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
 
 \subsubsection{Successo Parziale* - Opzionale}\index{Successo Parziale}\index{Prova con Rischio}
 
@@ -2280,9 +2281,9 @@ Con un fallimento di 4 è si riuscito a liberarsi a costo di essersi slogato il 
 
 \medskip
 
-\begin{narratore}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Utilizzando il Successo Parziale può essere anche il giocatore a richiedere una \textbf{"Prova con Rischio}" in situazioni di particolare tensione ed urgenza in cui è più importante il risultato finale che il rischio che si corre. Questa richiesta va fatta prima di tirare i dadi.
-\end{narratore}
+\end{narratore}\end{changemargin}
 
 \subsection{Esempi Prove Competenza}
 
@@ -2460,7 +2461,7 @@ La \textbf{Telepatia}\index{Telepatia} non è propriamente una lingua ma un mezz
 \section{Combattimento}\index{Combattimento}
 
 \label{combattimento}
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Si vis pacem, para bellum ("Se vuoi la pace, prepara la guerra", anonimo)
 \medskip
 
@@ -2471,7 +2472,7 @@ Non sono un eroe. No e non lo sarò mai. Sono solo un cattivo che viene pagato p
 
 \medskip
 
-Occhio per occhio... e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti aborrivano la violenza!)}\end{enfasi}\medskip
+Occhio per occhio... e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti aborrivano la violenza!)}\end{enfasi}\end{changemargin}\medskip
 
 
 \begin{multicols}{2}
@@ -2510,9 +2511,9 @@ L'iniziativa vale per l'intero scontro e si ritira al cambio dell'avversario.
 
 \subsubsection{Risoluzione delle Azioni}\index{Risoluzione delle Azioni}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 ...il passato è il prologo e il futuro sta nelle vostre mani e nelle mie. (Antonio, La Tempesta, Shakespeare)}
-\end{enfasi}\medskip
+\end{enfasi}\end{changemargin}\medskip
 
 \label{risoluzione-delle-azioni}
 
@@ -2565,8 +2566,8 @@ Inizialmente questo sistema rallenta il gioco ma appena i giocatori prendono con
 \subsubsection{Il Tempo (Round, Minuti e Turni)}\index{Round}
 
 \label{il-tempo-round-minuti-e-turni}
-\begin{enfasi}{
-"L'esitazione è la morte del vantaggio" (Magic, V.E. Schwab)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+"L'esitazione è la morte del vantaggio" (Magic, V.E. Schwab)}\end{enfasi}\end{changemargin}\medskip
 
 Un \textbf{round} dura 10 secondi circa, è un lasso di tempo adeguato per agire, correre, parlare.. combattere. Un Minuto sono quindi 6 round, ed un Turno dura 10 Minuti (o 60 round).
 
@@ -2672,9 +2673,9 @@ E' possibile se non descritto specificatamente nell'Abilità eseguire solo una A
 
 \bigskip
 
-\begin{narratore}Una creatura che ha una distanza di mischia (portata) superiore all'avversario si considera che abbia un bonus di \textbf{+4 all'iniziativa} per il primo round, ovvero come se usasse un'arma lunga. Il round successivo la sua iniziativa in corpo a corpo non avrà questo vantaggio a meno che abbia mantenuto la distanza non facendosi raggiungere.
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}Una creatura che ha una distanza di mischia (portata) superiore all'avversario si considera che abbia un bonus di \textbf{+4 all'iniziativa} per il primo round, ovvero come se usasse un'arma lunga. Il round successivo la sua iniziativa in corpo a corpo non avrà questo vantaggio a meno che abbia mantenuto la distanza non facendosi raggiungere.
 
-Questo bonus non si applica con le armi da lancio (archi, balestre, pugnali, asce... per quelle armi che usano la \textit{gittata}). \end{narratore}
+Questo bonus non si applica con le armi da lancio (archi, balestre, pugnali, asce... per quelle armi che usano la \textit{gittata}). \end{narratore}\end{changemargin}
 
 \pagebreak
 
@@ -2682,8 +2683,8 @@ Questo bonus non si applica con le armi da lancio (archi, balestre, pugnali, asc
 
 \label{movimento}
 
-\begin{enfasi}{"Un mobile più lento non può essere raggiunto da uno più rapido; giacché quello che segue deve arrivare al punto che occupava quello che è seguito e dove questo non è più (quando il secondo arriva); in tal modo il primo conserva sempre un vantaggio sul secondo" (Paradosso di Zenone)}
-\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{"Un mobile più lento non può essere raggiunto da uno più rapido; giacché quello che segue deve arrivare al punto che occupava quello che è seguito e dove questo non è più (quando il secondo arriva); in tal modo il primo conserva sempre un vantaggio sul secondo" (Paradosso di Zenone)}
+\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -2711,17 +2712,15 @@ Se non indicata nell'avversario/mostro la distanza di tocco aumenta di 1 metro p
 
 Per \textbf{distanza di Mischia} \index{Distanza di Mischia} \index{Mischia}si intende una distanza che permette il combattimento corpo a corpo (1 metro attorno al personaggio). Nei mostri questa distanza è indicata dalla portata, per le armi da lancio è chiamata gittata.
 
-\begin{tcolorbox}[title = Esempi di Distanza in Combattimento]
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Esempi di Distanza in Combattimento]
 Es. per un umano armato di lancia, la distanza di mischia è 2 metri perché l'arma è lunga.
 
 Per un nano armato di martello la distanza di mischia è 1 metro.
 Per un gigante delle colline la distanza di mischia è 2 metri. Per gli attacchi con archi, balestre o armi lanciate si parla di Gittata.
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
 
 Quando si parla di "\textbf{quadretto}" \index{Quadretto}per indicare una distanza od una influenza si intende un quadretto di mappa di 1 metro x 1 metro.
 Se un movimento termina in "mezzo" quadretto si arrotonda per difetto.
-
-\medskip
 
 \textbf{Se ci si sposta in terreno "difficile", un umano copre 4 metri per Azione di movimento (ogni quadretto conta per due).}
 
@@ -2753,9 +2752,8 @@ Questi sono i valori tipici delle creature per la taglia indicata. Sono frequent
 
 \end{multicols}
 
-
 \begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/camminata.jpg}
+\includegraphics[width=0.45\linewidth]{immagini/camminata.jpg}
 \end{center}
 
 \pagebreak
@@ -2763,11 +2761,11 @@ Questi sono i valori tipici delle creature per la taglia indicata. Sono frequent
 \subsection{Vita e Morte}\index{Morire}
 
 \label{vita-e-morte}
-\begin{enfasi}{Chi non conosce la morte, non conosce la vita. (Grand Hotel, film 1932)
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Chi non conosce la morte, non conosce la vita. (Grand Hotel, film 1932)
 
 \medskip
 
-The worthy GM never purposely kills players' PCs. He presents opportunities for the rash and unthinking players to do that all on their own (Il meritevole Game Master non uccide mai volontariamente i personaggi dei giocatori. Lui presenta le opportunità per i giocatori frettolosi e sbadati di fare tutto da soli) (Gary Gygax)}\end{enfasi}\medskip
+The worthy GM never purposely kills players' PCs. He presents opportunities for the rash and unthinking players to do that all on their own (Il meritevole Game Master non uccide mai volontariamente i personaggi dei giocatori. Lui presenta le opportunità per i giocatori frettolosi e sbadati di fare tutto da soli) (Gary Gygax)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -2779,10 +2777,10 @@ Un incantesimo di Cura, di qualsiasi livello lo porterà a 1 Punto Ferita, succe
 
 Una prova di \hyperlink{prontosoccorso}{Pronto Soccorso}, 3 Azioni, a difficoltà 11 più il valore dei punti ferita negativi porterà il personaggio a 0 punti ferita, ovvero svenuto.
 
-\begin{narratore}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 	Descrivete con pathos e trasporto la caduta del personaggio, fate capire la sofferenza provata. Enfatizzata la caduta a terra, il sangue che sgorga, i rantoli. Siate teatrali.
 	Chiaro che se avete a che fare con giocatori facilmente impressionabili allora e' meglio ridurre il "gore".
-\end{narratore}
+\end{narratore}\end{changemargin}
 
 \begin{center}
 \includegraphics[width=0.9\linewidth]{immagini/Nuremberg_chronicles.png}
@@ -2790,11 +2788,11 @@ Una prova di \hyperlink{prontosoccorso}{Pronto Soccorso}, 3 Azioni, a difficolt�
 \textit{The Dance of Death (1493) by Michael Wolgemut, from the Nuremberg Chronicle of Hartmann Schedel}
 \end{center}
 
-\begin{tcolorbox}[title = Tups sta morendo]
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups sta morendo]
 Es. Tups é gravemente ferito ed ha attualmente -6 punti ferita, Jade decide di provare a curarlo (dopo averlo spostato in un posto più sicuro). Jade tenta una prova di Pronto Soccorso per almeno stabilizzare il compagno, la sua difficoltà alla prova é 11+6 ovvero deve superare con Pronto Soccorso DC 17 per riportarlo a 0 Punti Ferita (svenuto)
 
 Una successiva prova di Pronto Soccorso a DC 15 potrà portarlo a 1 Punti Ferita e una cura magica lo curerà dell'ammontare dichiarato.
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
 
 Se un attacco o incantesimo porta il personaggio direttamente a -10-COS*2, il personaggio muore\index{Morte immediata}\index{Danno Massivo} senza possibilità di essere curato.
 
@@ -2803,7 +2801,8 @@ Quando un personaggio torna a punti ferita positivi dopo che era andato negativo
 Quando un personaggio arriva a punti ferita negativi pari 10+doppio del suo punteggio di Costituzione é \hyperlink{morto}{\textbf{morto}} (-10-(COS*2)).
 
 \begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/giantdeath.png}
+\includegraphics[width=0.8\linewidth]{immagini/giantdeath.png}
+
 \textit{Henry Hustice Ford}
 \end{center}
 
@@ -2849,7 +2848,7 @@ Ogni ora si recupera, con un minimo di 1 Punto Ferita, il proprio valore di Cost
 \subsection{Tiro per Colpire e Difesa}\index{Tiro per Colpire}\index{Difesa}
 
 \label{tiro-per-colpire}
-\begin{enfasi}{Applica sempre la giusta forza, mai troppa mai troppo poca. (Kano Jigoro)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Applica sempre la giusta forza, mai troppa mai troppo poca. (Kano Jigoro)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -2878,7 +2877,7 @@ Il giocatore può decidere di rinunciare a del bonus dato dalla Competenza Armi 
 \subsection{La Difesa e l'Attacco}\index{Difesa}\index{Attacco}
 
 \label{la-difesa}
-\begin{enfasi}{La difesa è sempre legittima (anonima vittima)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{La difesa è sempre legittima (anonima vittima)}\end{enfasi}\end{changemargin}\medskip
 
 Ogni Tiro per Colpire (3d6 + Competenza con Armi + Forza o Destrezza + eventuali bonus/malus) si raffronta la Difesa ovvero un valore pari a 10 + Destrezza + Scudo + Armatura + eventuali bonus/malus.
 
@@ -2921,24 +2920,25 @@ Se nei primi 3 Tiri per Colpire fai tre volte 1 mancherai l'avversario (indipend
 
 Se nei primi 3 Tiri per Colpire fai tre volte 6 prenderai l'avversario indipendentemente dal risultato finale del Tiro per Colpire. Oltre ad avere la certezza di aver fatto un critico (vedi sotto) il Narratore potrebbe decidere di applicare qualche effetto descrittivo (o effettivo) ulteriore.
 
-\begin{narratore}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 OBSS vuole essere divertente da giocare, vuole che i giocatori si divertano e vedano i risultati ottenuti dai dadi (e ovviamente dalle loro scelte). Le Golden Rules e l'Esplosione del Danno vogliono proprio togliere la patina ai dadi e fare divertire. Un giocatore, apprezzerà, ancor più se di esperienza, come i tiri dei dadi non siano solo un numero ma bensì aprano la possibilità di fare la differenza. Chiedete al giocatore di descrivere il colpo critico e fatelo recitare nella sua gloria di potenza!
-\end{narratore}
-
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/critico.png}
-\textit{Henry Justice Ford}
-\end{center}
+\end{narratore}\end{changemargin}
 
 \subsection{Tiro Critico}\index{Tiro Critico}
 
-Ogni qual volta hai colpito, tiri un danno aggiuntivo di arma (senza bonus magici o di Abilità o Forza, solo arma) per ogni due volte che hai tirato 6 nel Tiro per Colpire.
+Ogni qual volta hai colpito, tiri un danno aggiuntivo di arma (senza bonus magici o di Abilità o Forza, solo il dado dell'arma) per ogni due volte che hai tirato 6 nel Tiro per Colpire.
 
 \medskip
 
-\begin{tcolorbox}[title = Esempio Tiro Critico]
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Esempio Tiro Critico]
 Es tiro 6 4 5, tiro in aggiunta 6, tiro in aggiunta un 6, tiro in aggiunta 4: come danno tiri 2 volte il danno dell'arma, una perché ho colpito una perché hai tirato tre volte 6 (se avessi tirato un ulteriore 6 sarebbero stati Arma + Forza + bonus/abilita + 2{*}Arma).
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/critico.png}
+
+	\textit{Henry Justice Ford}
+\end{center}
 
 \subsection{Tiro Critico Variante* - Opzionale}\index{Tiro Critico Variante - Opzionale}
 
@@ -2947,11 +2947,11 @@ Un metodo alternativo è quello di concedere un danno di arma aggiuntivo (solo i
 
 La scelta di usare questa variante del tiro critico va fatta al momento della creazione del personaggio, e con l'accordo del Narratore. Si può cambiare sono rinunciando ad un punto di Competenza Armi (devi reimparare a combattere in modo diverso).
 
-\begin{tcolorbox}[title = Tiro Critico Variante]
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tiro Critico Variante]
 Es. Tiro per Colpire 21, la Difesa dell'avversario è 13. Lo colpisco con un margine di 8, ovvero aggiungo 1 danno di arma in piu'
 Se il Tiro per Colpire fosse stato 26 si sarebbero aggiunti 2 danni Critici ovvero due danni d'arma.
 E' il Narratore a dire quanti critici si sono ottenuti.
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
 
 In questa variante non si ha Tiro Critico (ottenere più 6 nel Tiro per Colpire) ne l'Esplosione del danno (danno massimo sul dado dell'arma), rimangono valide le Golden Rules.
 
@@ -2961,8 +2961,11 @@ Ogni qual volta dal tiro del dado dell'arma ottieni il valore massimo (nel class
 
 In caso di armi con più dadi (esempio 2d4, il valore massimo deve essere ottenuto come somma dei due dadi, ovvero 8). Non c'è esplosione del danno per le armi con danno massimo inferiore o uguale a 6.
 
+\medskip
+
 \begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/esplosionedanno.png}
+\includegraphics[width=0.8\linewidth]{immagini/esplosionedanno.png}
+
 \textit{Henry Justice Ford}
 \end{center}
 
@@ -2996,23 +2999,24 @@ Diversamente può dichiarare di effettuare il primo attacco su una creatura ed i
 
 \textbf{Se invece il personaggio vuole effettuare più di due attacchi in mischia deve usare 3 Azioni e potrà attaccare solo chi è in mischia con lui, non potendosi spostare, tranne se non ha altre Azioni.}
 
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/archer.png}
+
+	\textit{Scythian archers in ancient attic vase painting}
+\end{center}
+
 \subsection{Armi da Tiro - Archi - Balestre (Arco / Balestre / Pugnali..)}\index{Attacchi multipli armi da tiro}
 
-Il numero di attacchi massimi con armi da lancio è 2 usando due Azioni, il secondo lancio si considera come un secondo attacco con un -5 al colpire.
+Il numero di attacchi massimi con armi da lancio è 2 usando due Azioni, il secondo lancio si considera come un secondo attacco con un -5 al colpire e segue le regole del multiattacco.
 
 Solo particolari Abilità permettono di effettuare ulteriori attacchi, se si ha la possibilità e si vuole scoccare/lanciare 3 frecce è necessario usare 3 Azioni.
 
 Il bonus al danno dato da Forza si applica in automatico per le fionde, Pugnali..ovvero con tutte le armi che vengono lanciate "a mano", gli archi applicano questo bonus solo se sono di tipo composito, le balestre non lo applicano mai.
 
-Non si applica bonus al danno dato da Destrezza, la Destrezza modifica solo il Tiro per Colpire.
+La Destrezza modifica solo il Tiro per Colpire.
 
-\textbf{I proiettili lanciati da Archi, Fionde, Balestre magiche non si considerano magici.}
-
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/archer.png}
-\textit{Scythian archers in ancient attic vase painting}
-\end{center}
-
+\textbf{I proiettili lanciati da Archi, Fionde, Balestre magiche non si considerano magici.\\
+In caso di proiettili magici questi sommano il loro bonus magico nel Tiro per Colpire ed al danno}
 
 \subsection{Attacchi con armi a spargimento} \index{Armi a spargimento}\index{Acqua Benedetta}\index{Olio Incediato}
 
@@ -3035,8 +3039,9 @@ Ad esempio con il tiro del d8 faccio 5 e poi tirando 2d6 faccio 4, significa che
 E' anche possibile che ci si sia tirati sui piedi la boccetta (es faccio 7 e poi 6.. potrei averla tirata addosso ad un compagno o dietro di me!).
 
 \begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/fenice.png}
-\textit{Henry Justice Ford ... caduta della piuma di fenice..}
+\includegraphics[width=0.85\linewidth]{immagini/fenice.png}
+
+\textit{Henry Justice Ford ... attenzione alla caduta della piuma di Fenice..}
 \end{center}
 
 
@@ -3093,6 +3098,7 @@ Ricordate sempre lo scopo è divertirsi, a scapito (per il Narratore) di qualche
 
 \begin{center}
 \includegraphics[width=0.9\linewidth]{immagini/vantaggio.png}
+
 \textit{Henry Justice Ford}
 \end{center}
 
@@ -3188,15 +3194,38 @@ Il Tiro per Colpire prende un -1d6 e l'arma fa una categoria di danno inferiore 
 
 Il giocatore può liberamente aggiungere un +1 al danno togliendo 1 al Tiro per Colpire (requisito Competenza Armi +1). Non si può togliere più di Competenza Armi/4 al Tiro per Colpire.
 
+\subsubsection{Fiancheggiare} \index{Fiancheggiare}se due personaggi sono attorno allo stesso bersaglio ma non sono a fianco entrambi prendono +2 al Tiro per Colpire o alla Difesa (a loro scelta quale bonus prendere).
+
+Al massimo ci possono essere 4 personaggi attorno ad una creatura di taglia media che prendono il bonus di fiancheggiare. Il tipo di bonus si sceglie round per round, se non dichiarato vale come +2 al Tiro per Colpire.
+
+Se tirando una ipotetica riga che collega i due personaggi questa attraversa in pieno il quadretto dell'avversario allora c'è la situazione di fiancheggiamento.
+
+\bigskip
+
+Esempio di fiancheggiamento\index{Esempi di Fiancheggiamento}
+
+\medskip
+
+\begin{tabular}{lll}
+	\toprule
+	Personaggio A & Personaggio G & Personaggio D\\
+	Personaggio B & \textbf{Avversario}    & Personaggio E\\
+	Personaggio C & Personaggio H & Personaggio F\\
+\end{tabular}
+
+\bigskip
+
+In questo schema il fiancheggiamento è preso dalle coppie: A-F, B-E, C-D, G-H
+
+\bigskip
+
+Se la creatura può fronteggiare più creature contemporaneamente queste non godranno del bonus di fiancheggiamento.
+
 \subsubsection{Maestria del combattimento} \index{Maestria del combattimento}
 
 Il giocatore può liberamente aggiungere +4 alla Difesa per ogni -1d6 al Tiro per Colpire. Il bonus è applicabile solo per gli attacchi in mischia. Viceversa può prendere un -4 Difesa per alzare di +1d6 il Tiro per Colpire e quindi migliorare l'attacco.
 
 Non è possibile assegnare in questa maniera più di +-2d6.
-
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/angelospadone.png}
-\end{center}
 
 \subsubsection{Arma troppo grande}\index{Arma troppo grande} \label{sec:Arma troppo grande}
 
@@ -3215,95 +3244,16 @@ Se l'arma non è tra quelle "usabili", esempio un Alabarda (arma grande) per una
 
 Nella tabella delle armi la taglia è segnata come P (piccola), M (media), G (grande), E (enorme).
 
-\subsubsection{Fiancheggiare} \index{Fiancheggiare}se due personaggi sono attorno allo stesso bersaglio ma non sono a fianco entrambi prendono +2 al Tiro per Colpire o alla Difesa (a loro scelta quale bonus prendere).
-
-Al massimo ci possono essere 4 personaggi attorno ad una creatura di taglia media che prendono il bonus di fiancheggiare. Il tipo di bonus si sceglie round per round, se non dichiarato vale come +2 al Tiro per Colpire.
-
-Se tirando una ipotetica riga che collega i due personaggi questa attraversa in pieno il quadretto dell'avversario allora c'è la situazione di fiancheggiamento.
-
-\bigskip
-
-Esempio di fiancheggiamento\index{Esempi di Fiancheggiamento}
-
-\medskip
-
-\begin{tabular}{lll}
-\toprule
-Personaggio A & Personaggio G & Personaggio D\\
-Personaggio B & \textbf{Avversario}    & Personaggio E\\
-Personaggio C & Personaggio H & Personaggio F\\
-\end{tabular}
-
-\bigskip
-
-In questo schema il fiancheggiamento è preso dalle coppie: A-F, B-E, C-D, G-H
-
-\bigskip
-
-Se la creatura può fronteggiare più creature contemporaneamente queste non godranno del bonus di fiancheggiamento.
+\begin{center}
+	\includegraphics[width=0.8\linewidth]{immagini/angelospadone.png}
+\end{center}
 
 \subsubsection{Arma Doppia} \index{Arma Doppia}
 
 Un'arma doppia è un'arma che è pericolosa da entrambe le estremità. Può essere usata come arma singola, oppure, incorrendo nelle penalità del combattimento con due armi, come appunto due armi. Se non specificato un'arma doppia usata per combattimento con due armi equivale ad usare due armi medie.
 
-\subsubsection{Arma Lunga} \index{Arma Lunga}
-
-L'arma lunga da diritto a colpire più lontano ovvero a 2 metri. Concede un bonus all'iniziativa pari a +4. Questo bonus rimane valido finché l'avversario non entra in distanza della propria di mischia.
-
-Nel caso in cui anche l'avversario abbia un arma lunga non considerate il bonus di 4 all'iniziativa (avendolo entrambi si annulla a vicenda).
-
-\begin{tcolorbox}[title = Combattimento con Arma Lunga]
-Es. Tups armato di spada lunga affronta uno brigante armato di lancia lunga. Tups ha iniziativa 15, il brigante 12 ma ha un arma lunga e quindi la sua iniziativa è 16.
-
-Il brigante attacca Tups mentre questo si avvicina, il valore di iniziativa mi "mostra" come il brigante sfruttando la sua arma lunga riesca ad agire prima di Tups. Una volta che Tups si è avvicinato in mischia sarà più veloce del brigante.
-
-Se il brigante avesse avuto iniziativa 10 Tups avrebbe attaccato per primo, praticamente il brigante non sarebbe riuscito a sfruttare il vantaggio dato dell'arma lunga (15 contro 14 di iniziativa).
-
-Se il brigante avesse dichiarato di attaccare e poi allontanarsi avrebbe costretto Tups ad usare due azioni di movimento per raggiungerlo.
-
-Il brigante avrebbe attaccato da distanza di 2 metri ed usato una Azione per andare in distanza di 11 metri (2+9 di velocità). Tups avanzando normalmente non avrebbe raggiunto il brigante solo facendo una doppia Azione di Movimento riesce ad andare in mischia
-
-Tups potrebbe fare uno Scatto, usando quindi solo un'Azione (9mx2=18 metri) e poi attaccare ma avrebbe un -1d6 al Tiro per Colpire e -4 Difesa.
-
-Il brigante una volta raggiunto da Tups butta l'arma lunga a terra per non avere -1d6 di penalità al colpire ed estrae un pugnale.
-\end{tcolorbox}
-
-\subsubsection{Arma lunga a breve distanza} \index{Arma lunga a breve distanza}
-
-E' possibile usare un'arma lunga a distanza di 1 metro (mischia) con un -1d6 al Tiro per Colpire, ad eccezione del Bastone.
-
-\subsubsection{Magia in combattimento}\index{Magia in combattimento}
-
-L'incantatore che lancia una magia mentre è in combattimento (ha un avversario in mischia) prende un -4 alla Difesa e si considera Distratto.
-
-\subsubsection{Preparare una arma lunga contro una carica} \index{Preparare una arma lunga contro una carica}
-
-E' una Reazione che costa una Azione.
-
-\subsubsection{Prendere la Mira (cecchino)} \index{Prendere la Mira (cecchino)}
-
-Per ogni round in cui prendi solo la mira, 2 Azioni, guadagni un +1 al Tiro per Colpire, fino ad un massimo di +3 nel terzo round, quando puoi scagliare la freccia (o dardo o pugnale..).
-
-\subsubsection{Combattimento con due armi}\index{Combattimento con due armi}\hypertarget{combattimentoaduemani}{} ll combattimento con due armi è possibile solo se l'arma secondaria è leggera o si usa un arma doppia.
-
-Non serve usare Azioni per attaccare con l'arma secondaria, sull'arma secondaria non applichi il danno dato dalla Forza o Destrezza.
-
-I Tiri per Colpire di entrambe le armi hanno un -4.
-
-Con l'arma secondaria se non si hanno Abilità specifiche si fa solo 1 attacco.
-
-E' possibile usare l'arma secondaria per migliorare la Difesa di un punto.
-
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/twoweapon.jpg}
-\end{center}
-
-\subsubsection{Usare un'arma da lancio sotto minaccia} \index{Usare un'arma da lancio sotto minaccia}
-
-Usare un'arma da lancio come arco, balestra o pugnale (che si vuole lanciare) mentre si combatte in mischia impone la negazione del bonus della Destrezza alla Difesa ed il Tiro per Colpire ha un -4.
-
 \subsubsection{Usare un'arma da lancio mirando ad un avversario impegnato
-in combattimento}\index{Usare un'arma da lancio mirando ad un avversario impegnato in combattimento}
+	in combattimento}\index{Usare un'arma da lancio mirando ad un avversario impegnato in combattimento}
 
 Non è facile prendere la mira corretta e non prendere il proprio compagno.
 Hai un -1d6 al Tiro per Colpire. Il bonus si annulla se c'è una differenza di 2 o più taglie tra avversario e compagno.
@@ -3330,9 +3280,18 @@ Se per disingaggiare l'avversario è necessario spostarsi di più di 3 metri, a 
 
 Prendi un bonus di +4 alla Difesa, il tuo Tiro per Colpire ha una penalità di -1d6
 
+\subsubsection{Prendere la Mira (cecchino)} \index{Prendere la Mira (cecchino)}
+
+Per ogni round in cui prendi solo la mira, 2 Azioni, guadagni un +1 al Tiro per Colpire, fino ad un massimo di +3 nel terzo round, quando puoi scagliare la freccia (o dardo o pugnale..).
+
+\subsubsection{Usare un'arma da lancio sotto minaccia} \index{Usare un'arma da lancio sotto minaccia}
+
+Usare un'arma da lancio come arco, balestra o pugnale (che si vuole lanciare) mentre si combatte in mischia impone la negazione del bonus della Destrezza alla Difesa ed il Tiro per Colpire ha un -4.
+
 \begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/teseo.png}
-\textit{Henry Justice Ford - Colpo alle spalle!}
+	\includegraphics[width=0.8\linewidth]{immagini/teseo.png}
+
+	\textit{Henry Justice Ford - Colpo alle spalle!}
 \end{center}
 
 \subsubsection{Rete e Bolas}
@@ -3352,6 +3311,56 @@ Anche infliggere 5 danni taglienti alla rete (Difesa 11) libera la creatura senz
 Quando attacchi con una Rete puoi compiere un solo attacco, non importa quale sia il numero di attacchi che puoi normalmente effettuare.
 
 Per le Bolas valgono le stesse considerazioni che la Rete, la differenza principale è che le Bolas hanno una gittata maggiore e possono colpire un solo bersaglio di taglia fino a Grande.
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/twoweapon.jpg}
+\end{center}
+
+\subsubsection{Combattimento con due armi}\index{Combattimento con due armi}\hypertarget{combattimentoaduemani}{} ll combattimento con due armi è possibile solo se l'arma secondaria è leggera o si usa un arma doppia.
+
+Non serve usare Azioni per attaccare con l'arma secondaria, sull'arma secondaria non applichi il danno dato dalla Forza o Destrezza.
+
+I Tiri per Colpire di entrambe le armi hanno un -4.
+
+Con l'arma secondaria se non si hanno Abilità specifiche si fa solo 1 attacco.
+
+E' possibile usare l'arma secondaria per migliorare la Difesa di un punto.
+
+\subsubsection{Arma Lunga} \index{Arma Lunga}
+
+L'arma lunga da diritto a colpire più lontano ovvero a 2 metri. Concede un bonus all'iniziativa pari a +4. Questo bonus rimane valido finché l'avversario non entra in distanza della propria di mischia.
+
+Nel caso in cui anche l'avversario abbia un arma lunga non considerate il bonus di 4 all'iniziativa (avendolo entrambi si annulla a vicenda).
+
+\subsubsection{Arma lunga a breve distanza} \index{Arma lunga a breve distanza}
+
+E' possibile usare un'arma lunga a distanza di 1 metro (mischia) con un -1d6 al Tiro per Colpire, ad eccezione del Bastone.
+
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Combattimento con Arma Lunga]
+		Es. Tups armato di spada lunga affronta uno brigante armato di lancia lunga. Tups ha iniziativa 15, il brigante 12 ma ha un arma lunga e quindi la sua iniziativa è 16.
+
+		Il brigante attacca Tups mentre questo si avvicina, il valore di iniziativa mi "mostra" come il brigante sfruttando la sua arma lunga riesca ad agire prima di Tups. Una volta che Tups si è avvicinato in mischia sarà più veloce del brigante.
+
+		Se il brigante avesse avuto iniziativa 10 Tups avrebbe attaccato per primo, praticamente il brigante non sarebbe riuscito a sfruttare il vantaggio dato dell'arma lunga (15 contro 14 di iniziativa).
+
+		Se il brigante avesse dichiarato di attaccare e poi allontanarsi avrebbe costretto Tups ad usare due azioni di movimento per raggiungerlo.
+
+		Il brigante avrebbe attaccato da distanza di 2 metri ed usato una Azione per andare in distanza di 11 metri (2+9 di velocità). Tups avanzando normalmente non avrebbe raggiunto il brigante solo facendo una doppia Azione di Movimento riesce ad andare in mischia
+
+		Tups potrebbe fare uno Scatto, usando quindi solo un'Azione (9mx2=18 metri) e poi attaccare ma avrebbe un -1d6 al Tiro per Colpire e -4 Difesa.
+
+		Il brigante una volta raggiunto da Tups butta l'arma lunga a terra per non avere -1d6 di penalità al colpire ed estrae un pugnale.
+\end{tcolorbox}\end{changemargin}
+
+
+\subsubsection{Preparare una arma lunga contro una carica} \index{Preparare una arma lunga contro una carica}
+
+E' una Reazione che costa una Azione.
+
+\subsubsection{Magia in combattimento}\index{Magia in combattimento}
+
+L'incantatore che lancia una magia mentre è in combattimento (ha un avversario in mischia) prende un -4 alla Difesa e si considera Distratto.
 
 \subsection{Azioni Opzionali in Combattimento}
 
@@ -3430,14 +3439,14 @@ Colossale             & -8\\
 
 \subsection{Cavalcature}\index{Combattimento a cavallo}\index{Cavallo}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 - E ti puoi trovare un'altra moglie!
 
 - Ah, questo sì. ma il guaio è che mi ha portato via il fucile e il cavallo! Peccato, era così bella, io mi ci ero affezionato. Le davo qualche frustata, ma lei non ci faceva caso.
 
 - Chi, tua moglie?
 
-- No, la mia cavalla. A trovare un'altra moglie si fa presto, ma una cavalla come quella non la ritrovo più. (Ombre rosse, film 1939)}\end{enfasi}\medskip
+- No, la mia cavalla. A trovare un'altra moglie si fa presto, ma una cavalla come quella non la ritrovo più. (Ombre rosse, film 1939)}\end{enfasi}\end{changemargin}\medskip
 
 
 Anche una cavalcatura ha le sue 3 Azioni e di norma sono usate per spostarsi o per reagire ed ubbidire ai tuoi comandi.
@@ -3449,7 +3458,7 @@ Per spostare una cavalcatura dove vuoi del suo movimento devi usare una tua Azio
 Gli attacchi verso un personaggio a cavallo (o cavalcatura in genere) se non dichiarati diversamente mirano al cavaliere e non al cavallo.
 
 \begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/cavallo2.png}
+\includegraphics[width=0.8\linewidth]{immagini/cavallo2.png}
 \end{center}
 
 \subsubsection{Situazioni e regole}
@@ -3478,11 +3487,10 @@ Se vieni disarcionato una prova di Acrobatica a DC 15, serve una Azione di Reazi
 
 Mentre sei in sella, hai due scelte:
 
-\flushleft{- puoi dare ordini alla tua cavalcatura}
-
-- permettergli di agire da sola.
-
-\medskip
+\begin{itemize}
+\item puoi dare ordini alla tua cavalcatura
+\item permettergli di agire da sola.
+\end{itemize}
 
 Cavalcature particolarmente intelligenti tendono a privilegiare l'autonomia di azione piuttosto che essere comandati.
 
@@ -3502,7 +3510,7 @@ In entrambi i casi, se la cavalcatura provoca un attacco di opportunità mentre 
 \bigskip
 
 \begin{center}
-\includegraphics[width=0.55\linewidth]{immagini/napoleone.png}
+\includegraphics[width=0.65\linewidth]{immagini/napoleone.png}
 
 \textit{Jacques-Louis David, Bonaparte valica il Gran San Bernardo, 1801, Castello di Malmaison}
 \end{center}
@@ -3512,12 +3520,12 @@ In entrambi i casi, se la cavalcatura provoca un attacco di opportunità mentre 
 
 \section{Nascondigli e coperture}\index{Nascondigli}\index{Copertura}\hypertarget{coperture}{}
 
-\begin{enfasi}{Agiamo nell'ombra per servire la luce. (Assassin's Creed II)
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Agiamo nell'ombra per servire la luce. (Assassin's Creed II)
 
 \medskip
 
 Dove c'è molta luce, l'ombra è più nera. (Johann Wolfgang von Goethe)}
-\end{enfasi}\medskip
+\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -3628,7 +3636,7 @@ Le creature invisibili non possono utilizzare gli attacchi con lo sguardo. L'inv
 \section{Lista Armi per Tipologia Omogenea}\index{Lista Armi}\index{Tipologia Omogenea}\hypertarget{lista.armi}{}
 
 \label{lista-armi-per-tipologia-omogenea}
-\begin{enfasi}{La forza non risiede in una Spada, ma nelle braccia di un valoroso. (The Legend of Zelda: Twilight Princess)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{La forza non risiede in una Spada, ma nelle braccia di un valoroso. (The Legend of Zelda: Twilight Princess)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -3970,7 +3978,7 @@ Utilizzando 2 Azioni può concentrarsi e passare ad utilizzare i bonus derivanti
 \section{Abilita'}\index{Abilità}\hypertarget{abilita}{}
 
 \label{abilita}
-\begin{enfasi}{Il martirio è l'unica maniera per un uomo di diventare famoso se non ha abilità (George Bernard Shaw, The Devil's Disciple)} \end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Il martirio è l'unica maniera per un uomo di diventare famoso se non ha abilità (George Bernard Shaw, The Devil's Disciple)} \end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -5465,8 +5473,8 @@ Volontà Ferrea
 \section{Famiglio}\index{Famiglio}
 
 \label{famiglio}
-\begin{enfasi}{
-Abbiamo imparato a volare come gli uccelli, a nuotare come i pesci, tuttavia non abbiamo imparato l'arte di vivere come fratelli. (Martin Luther King)}\end{enfasi}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Abbiamo imparato a volare come gli uccelli, a nuotare come i pesci, tuttavia non abbiamo imparato l'arte di vivere come fratelli. (Martin Luther King)}\end{enfasi}\end{changemargin}
 
 \begin{multicols}{2}
 
@@ -5730,12 +5738,12 @@ Ha punteggi effettivi di Forza e Destrezza pari a 0, è \hyperlink{morente}{Indi
 \section{La Magia}\index{Magia}
 
 \label{la-magia}
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 La magia non è nel pendolino, ma in chi lo usa. (NCIS - Unità anticrimine)\\
 
 Non lascerai vivere colei che pratica la magia. (Libro dell'Esodo)(Sempre a seconda dei propri Tratti...)\\
 
-Uno stregone non è mai in ritardo, Frodo Baggins. Né in anticipo. Arriva precisamente quando intende farlo. (Gandalf, Il Signore degli Anelli - La Compagnia dell'Anello. J.R.R. Tolkien)} \end{enfasi} \medskip
+Uno stregone non è mai in ritardo, Frodo Baggins. Né in anticipo. Arriva precisamente quando intende farlo. (Gandalf, Il Signore degli Anelli - La Compagnia dell'Anello. J.R.R. Tolkien)} \end{enfasi}\end{changemargin} \medskip
 
 
 \begin{multicols}{2}
@@ -5862,8 +5870,9 @@ In OBSS solo un Patrono ha sufficiente potere per poter riportare in vita un mor
 
 \end{itemize}
 
-\begin{narratoresmall}{In OBSS i giocatori hanno libero accesso a tutti gli incantesimi delle liste conosciute con quindi la possibilità di avere una insieme di incantesimi estremamente variegata e potente. Per fare in modo che le scelte siano diverse tra i vari giocatori e tra le avventure insistete sull'aspetto caratterizzante di una lista rispetto ad un altra. Le Liste di Magia prese danno uno spessore ed un ruolo diverso tra loro. Fate anche in modo che gli incantesimi nuovi siano non facili da trovare come alla stregua di un tesoro.
-}\end{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}{In OBSS i giocatori hanno libero accesso a tutti gli incantesimi delle liste conosciute con quindi la possibilità di avere una insieme di incantesimi estremamente variegata e potente. Per fare in modo che le scelte siano diverse tra i vari giocatori e tra le avventure insistete sull'aspetto caratterizzante di una lista rispetto ad un altra. Le Liste di Magia prese danno uno spessore ed un ruolo diverso tra loro. Fate anche in modo che gli incantesimi nuovi siano non facili da trovare come alla stregua di un tesoro.
+}\end{narratore}
+\end{changemargin}
 
 
 \subsubsection{Gittata}\index{Gittata}
@@ -6208,13 +6217,16 @@ Durante le avventure il vostro mago potrà copiare tanti e numerosi incantesimi 
 
 \medskip
 
-\begin{tcolorbox}[width=0.43\textwidth,title = Scegliere gli Incantesimi]
-Avete letto bene, gli incantesimi non si apprendono da soli, non si scelgono da una lista gia' bella che pronta. Ogni incantesimo e' un'arte preziosa che si impara e si deve trovare.
+\begin{changemargin}{0.3cm}{0.3cm}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Scegliere gli Incantesimi]
+	Avete letto bene, gli incantesimi non si apprendono da soli, non si scelgono da una lista gia' bella che pronta. Ogni incantesimo e' un'arte preziosa che si impara e si deve trovare.
 
-I personaggi dovranno intraprendere perigliose avventure, pagare mercenari, cercare i tomi antichi e svelare i segreti piu' oscuri e dimenticati per poter imparare nuovi incantesimi.
+	I personaggi dovranno intraprendere perigliose avventure, pagare mercenari, cercare i tomi antichi e svelare i segreti piu' oscuri e dimenticati per poter imparare nuovi incantesimi.
 
-Ogni incantesimo e' alla stregua di un oggetto magico, un vero tesoro da cercare!
-\end{tcolorbox}
+	Ogni incantesimo e' alla stregua di un oggetto magico, un vero tesoro da cercare!
+\end{tcolorbox}\end{changemargin}
+
+\end{changemargin}
 
 \medskip
 
@@ -6222,9 +6234,11 @@ Tramite un rito magico difficile e costoso potrà per un solo giorno sostituire 
 
 \medskip
 
-\begin{narratoresmall}
-Gli incantesimi diventano oggetti e premi magici a tutti gi effetti. Sfruttate la sete di conoscenza e potere dei personaggi per costruire avventure interessanti che possano ruotare attorno tomi antichi e leggendari incantesimi perduti.
-\end{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}
+\begin{narratore}
+	Gli incantesimi diventano oggetti e premi magici a tutti gi effetti. Sfruttate la sete di conoscenza e potere dei personaggi per costruire avventure interessanti che possano ruotare attorno tomi antichi e leggendari incantesimi perduti.
+\end{narratore}
+\end{changemargin}
 
 \subsubsection{Studiare gli incantesimi}\index{Studiare gli incantesimi}
 
@@ -6250,10 +6264,11 @@ Anche nella Prova di Magia i 6 esplodono, i 6 tirati nella Prova di Magia vengon
 
 Tenete traccia di quanti critici (due 6 tirati) fate, potrebbero servire per ottenere effetti "speciali" nell'incantesimo! Ricordate che se effettuate un critico non si scalano i Punti Magia dell'incantesimo.
 
-
-\begin{narratoresmall}
-Concedete un +1d6 alla Prova di Magia, se richiesta, quando il giocatore declama con perizia e trasporto il lancio dell'incantesimo. Se dice "\textit{Lancio una palla di fuoco}" non otterrà vantaggi ma se con trasporto declama "\textit{Per tutti i fuochi infernali possa Nedraf trascinarvi all'inferno con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!}" allora un bonus di +1d6 e' piu' che doveroso.
-\end{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}
+\begin{narratore}
+	Concedete un +1d6 alla Prova di Magia, se richiesta, quando il giocatore declama con perizia e trasporto il lancio dell'incantesimo. Se dice "\textit{Lancio una palla di fuoco}" non otterrà vantaggi ma se con trasporto declama "\textit{Per tutti i fuochi infernali possa Nedraf trascinarvi all'inferno con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!}" allora un bonus di +1d6 e' piu' che doveroso.
+\end{narratore}
+\end{changemargin}
 
 
 \subsubsection{Resistere all'incantesimo (Tiro Salvezza)}\index{Resistere all'Incantesimo}\index{Tiro Salvezza Incantesimi}
@@ -6359,9 +6374,9 @@ L'energia negativa danneggia\index{Energia Negativa} i viventi e cura i non mort
 
 \medskip
 
-\begin{tcolorbox}[title = Più effetti speciali!]
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Più effetti speciali!]
 Gli incantesimi elencati sono quelli della 5ed piu' alcune mie proposte ed altre rivisitazioni. Se avete suggerimenti per il Narratore per gestire critici non previsti parlatene con lui! Lo spirito di collaborazione deve essere sempre costruttivo.
-\end{tcolorbox}
+\end{tcolorbox}\end{changemargin}
 
 
 \subsection{La lista degli incantesimi}
@@ -8691,9 +8706,9 @@ Se qualsiasi parte dell'area di questo incantesimo si sovrappone con l'area di l
 
 \medskip
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Mi sparpaglio in giro per evitare incantesimi ad area (detta da un giocatore per evitare una Palla di Fuoco)
-}\end{enfasi}
+}\end{enfasi}\end{changemargin}
 
 \medskip\textbf{Palla di Fuoco}\index{Incantesimi - Palla di Fuoco}\\
 \textbf{Scuola}: Fuoco\\
@@ -10817,8 +10832,8 @@ Non puoi avere più di un famiglio alla volta. \\
 \section{Vantaggi}\index{Vantaggi}\hypertarget{vantaggi}{}
 
 \label{vantaggi}
-\begin{enfasi}{Adoro fare il supereroe! L'orario di lavoro è pessimo, la paga è inesistente... ma almeno non corro il rischio di venire licenziato! (PK)
-}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Adoro fare il supereroe! L'orario di lavoro è pessimo, la paga è inesistente... ma almeno non corro il rischio di venire licenziato! (PK)
+}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -10853,9 +10868,9 @@ I bonus dati alle competenze si intendono specifiche sulla prova quando indicato
 \end{itemize}
 
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Da un grande Vantaggio deriva un grosso Svantaggio ! (cit. "Da un grande potere derivano grandi responsabilità", Amazing Fantasy 15, Stan Lee)
-}\end{enfasi}\medskip
+}\end{enfasi}\end{changemargin}\medskip
 
 
 \subsection{Elenco Vantaggi}\index{Elenco Vantaggi}
@@ -11089,7 +11104,7 @@ Con un prova su Intelligenza (oppure Arcana od Erboristeria a DC 13) a DC 16 puo
 \section{Svantaggi}\index{Svantaggi}
 
 \label{svantaggi}
-\begin{enfasi}{Se devi essere storpio, meglio essere uno storpio ricco. (Tyrion Lannister)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Se devi essere storpio, meglio essere uno storpio ricco. (Tyrion Lannister)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -11672,20 +11687,20 @@ Sciofobia           & Paura Delle Ombre\\
 \section{Cosmologia}\index{Cosmologia}
 
 \label{cosmologia}
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 E' più facile dominare su chi non crede in niente (La Storia Infinita, Kmorf)
 
 \medskip
 
-Tu credi che c'è un Dio solo? Fai bene; anche i demoni lo credono e tremano! (Giacomo Il Giusto 2, 19. NdA Riferendosi al proprio Patrono...)}\end{enfasi}\medskip
+Tu credi che c'è un Dio solo? Fai bene; anche i demoni lo credono e tremano! (Giacomo Il Giusto 2, 19. NdA Riferendosi al proprio Patrono...)}\end{enfasi}\end{changemargin}\medskip
 
-\begin{narratore}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 In OBSS le divinità sono diverse dalle tradizionali divinità dei giochi di ruolo.
 
 Le divinità, i Patroni, amano sporcarsi le mani, partecipare nelle faccende delle creature che le adorano, per loro è una sfida continua ad avere più credenti, adepti e persone più simili, per Tratti, a loro.
 
 I Patroni sono stati creati come parossismo dell'animo umano, dove tutto è un eccesso. Come spiriti liberati dal vaso di Pandora hanno il solo scopo di portare i loro Tratti al dominio rendendoli i più comuni e presenti tra le creature.
-\end{narratore}
+\end{narratore}\end{changemargin}
 
 \begin{multicols}{2}
 
@@ -11788,7 +11803,7 @@ Non è sempre tutto idilliaco, vaste regioni di Curyan stanno diventando incubat
 \subsection{Patroni}\index{Patroni}\hypertarget{patroni}{}
 
 \label{patroni-dei}
-\begin{enfasismall}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Conan: A quali dei preghi?
 
 Subotai: Io prego ai quattro venti e tu?
@@ -11797,7 +11812,7 @@ Conan: Io prego Crom, ma solo raramente... lui non ascolta. (Conan il Barbaro, f
 
 \medskip
 
-Infatti, come il corpo senza lo spirito è morto, così anche la fede senza le opere è morta. (Giacomo Il Giusto 2, 26. NdA Riferendosi ai punteggi dei Tratti collegati al Patrono...)} \end{enfasismall}\medskip
+Infatti, come il corpo senza lo spirito è morto, così anche la fede senza le opere è morta. (Giacomo Il Giusto 2, 26. NdA Riferendosi ai punteggi dei Tratti collegati al Patrono...)} \end{enfasi}\end{changemargin}\medskip
 
 Le creature tutte, anche chi non usa la magia possono sentire l'influenza di questi Poteri, di questi Patroni.
 
@@ -11819,9 +11834,9 @@ Se ha almeno 2 Tratti in comune e si affida ad un Patrono allora si dice che è 
 
 Potrebbe anche non seguire alcun Patrono pur avendo più Tratti in comune.
 
-\begin{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Il Narratore potrebbe comunque concedere l'essere Seguace o Devoto pur se i Tratti non collimano perfettamente. A sua discrezione e su richiesta del giocatore potrebbe valutare la somiglianza di alcuni Tratti del personaggio a quelli del Patrono e valutarli idonei per essere un Seguace o Devoto.
-\end{narratoresmall}
+\end{narratore}\end{changemargin}
 
 Le capacità acquisite legate ai Tratti in comune sono indipendenti dall'essere un Devoto, Seguace o semplicemente "ateo". Il \textbf{Vantaggio} indicato è solo per il Devoto. \index{Vantaggi}
 
@@ -11902,9 +11917,9 @@ Esistono anche Allieve di genere incerto, rari ma storicamente accertati.
 \subsubsection{Calicante}\index{Calicante}
 
 
-\begin{enfasismall}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 La superstizione è la religione degli spiriti deboli. (Edmund Burke)
-}\end{enfasismall}
+}\end{enfasi}\end{changemargin}
 
 \label{calicante}
 
@@ -12072,9 +12087,9 @@ Il Devoto di Belevon è ben descritto dal mercante ricco e curioso che mai si la
 
 \subsubsection{Cattalm}\index{Cattalm}
 
-\begin{enfasismall}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Nessuno dà nulla per nulla. (anonimo)
-}\end{enfasismall}
+}\end{enfasi}\end{changemargin}
 
 \label{cattalm}
 
@@ -12385,9 +12400,9 @@ Spesso i Devoti di Rezh diventano esploratori, tombaroli, persone sempre alla ri
 
 \subsubsection{Sumkjr}\index{Sumkjr}
 
-\begin{enfasismall}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Tutto ciò che non viene donato va perduto. (Dominique Lapierre)
-}\end{enfasismall}
+}\end{enfasi}\end{changemargin}
 
 \label{sumkjr}
 
@@ -12475,9 +12490,9 @@ Ljust disgustata dalla visione di un Patrono del genere instillò in Shayalia l'
 
 \subsubsection{Sixiser}\index{Sixiser}
 
-\begin{enfasismall}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 La forza che si oppone al destino è in realtà una debolezza. (Franz Kafka)
-}\end{enfasismall}
+}\end{enfasi}\end{changemargin}
 
 
 Il Patrono che è indifferente al presente in quanto totalmente, compulsivamente ossessionato dal futuro e dal suo destino. Negli angoli più remoti dei mondi conosciuti si narra che Sixiser accumuli di tutto, indifferente a tutto e tutti.
@@ -12636,8 +12651,8 @@ In accordo con il Narratore, ed adeguatamente motivato, è possibile cambiare Ab
 \label{equipaggiamento}
 
 \subsection{Ricchezza e Denaro}\index{Ricchezza e Denaro}
-\begin{enfasismall}{Sono pronto ad andare. Ho uno zaino! (Chuck, Serie TV)
-}\end{enfasismall}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Sono pronto ad andare. Ho uno zaino! (Chuck, Serie TV)
+}\end{enfasi}\end{changemargin}
 
 \begin{multicols}{2}
 
@@ -12723,12 +12738,12 @@ Consultate anche il capitolo sull'Ingombro in Movimento e Trasporto.
 \hypertarget{equipaggiamento.armi}{}
 
 \label{equipaggiamento---armi}
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Questo è il mio fucile. Ce ne sono tanti come lui, ma questo è il mio. Il mio fucile è il mio migliore amico, è la mia vita. Io debbo dominarlo come domino la mia vita. Senza di me il mio fucile non è niente; senza il mio fucile io sono niente. Debbo saper colpire il bersaglio, debbo sparare meglio del mio nemico che cerca di ammazzare me, debbo sparare io prima che lui spari a me e lo farò. Al cospetto di Dio giuro su questo credo: il mio fucile e me stesso siamo i difensori della patria, siamo i dominatori dei nostri nemici, siamo i salvatori della nostra vita e così sia, finché non ci sarà più nemico ma solo pace, amen. (Full Metal Jacket, Film 1987)
 
 \medskip
 
-La spada davvero buona è quella che rimane nel suo fodero. (Sanjuro)}\end{enfasi}
+La spada davvero buona è quella che rimane nel suo fodero. (Sanjuro)}\end{enfasi}\end{changemargin}
 
 \medskip
 
@@ -12923,12 +12938,12 @@ In questo caso essendo i malus superiori ai 3d6 il personaggio non tira dadi ma 
 
 \label{equipaggiamento---armature-e-scudi}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Armatura (s.f.). Abito che si indossa se il proprio sarto è un fabbro. (Ambrose Bierce)
 
 \medskip
 
-Armatura Fantozzi: banderuola 4 venti in funzione di pennacchio, pauroso elmo vichingo con visibilità azzerata, sospensorio in bronzo sottratto alla statua di Pipino il Breve e, ai piedi, ferroni da stiro a carbonella di piombo fuso. Peso complessivo armatura Fantozzi: 4 quintali, 32 chili e 7 etti e mezzo. (Superfantozzi, Film)} \end{enfasi}\medskip
+Armatura Fantozzi: banderuola 4 venti in funzione di pennacchio, pauroso elmo vichingo con visibilità azzerata, sospensorio in bronzo sottratto alla statua di Pipino il Breve e, ai piedi, ferroni da stiro a carbonella di piombo fuso. Peso complessivo armatura Fantozzi: 4 quintali, 32 chili e 7 etti e mezzo. (Superfantozzi, Film)} \end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -12987,9 +13002,9 @@ Le Armature e Scudi Leggeri fanno fare la Prova di Magia con nessun dado aggiunt
 
 \medskip
 
-\begin{narratore} Quando conteggiate il peso dato dall'armatura e scudo \textbf{indossato} dovete dividerlo per due (arrotondate per eccesso).
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore} Quando conteggiate il peso dato dall'armatura e scudo \textbf{indossato} dovete dividerlo per due (arrotondate per eccesso).
 
-Il peso segnato per armatura e scudi è da intendersi quando è "caricata nello zaino", ovvero trasportata ma non indossata.\end{narratore}
+Il peso segnato per armatura e scudi è da intendersi quando è "caricata nello zaino", ovvero trasportata ma non indossata.\end{narratore}\end{changemargin}
 
 \subsubsection{Descrizione delle Armature}
 
@@ -13147,13 +13162,13 @@ Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\
 \subsection{Ricchezza e Denaro}\index{Ricchezza e Denaro}
 
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 - Doc... c'è soltanto bisogno di un pochino di plutonio.
 
 \medskip
 
 - Ah, sono certo che nell'85 il plutonio si compra nella drogheria sotto casa, ma nel '55 la faccenda è molto più complicata! (Ritorno al futuro, Film 1985)}
-\end{enfasi}\medskip
+\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -13268,9 +13283,9 @@ Veste&1 mo&2 kg&Zaino&2 mo&2,5 kg\\
 
 \begin{multicols}{2}
 
-\begin{enfasismall}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthur C. Clarke, da Profiles of the Future)
-}\end{enfasismall}
+}\end{enfasi}\end{changemargin}
 
 \textbf{Acido}. Con un’azione, puoi spargere il contenuto di questa fiala su di una creatura entro 1 metri da te o lanciare la fiala fino a 6 metri, fracassandola all’impatto. In entrambi i casi, effettua un Tiro per Colpire a distanza contro la creatura o l’oggetto, trattando l’acido come un’arma improvvisata (-1d6 Tiro per Colpire). Se colpisci, il bersaglio subisce 2d6 danni da acido.
 
@@ -13713,8 +13728,8 @@ Non tutti i villaggi e i paesi hanno un incantatore abbastanza capace a manipola
 
 \subsection{Materiali Speciali}\index{Materiali Speciali}
 
-\begin{enfasi}{
-All'uopo il capitano De Medici ha fatto brunire tutte le armature, per sorprendere il nemico anche col buio. (Il mestiere delle armi, Ermanno Olmi, film 2001)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+All'uopo il capitano De Medici ha fatto brunire tutte le armature, per sorprendere il nemico anche col buio. (Il mestiere delle armi, Ermanno Olmi, film 2001)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -13855,8 +13870,8 @@ La pelle di drago ha 10 Punti Ferita per 2,5 cm di spessore e Durezza 10. Solita
 
 \section{Sfondare ed Entrare}\index{Sfondare}\index{Entrare}
 
-\begin{enfasi}{
-Nella vita di un uomo prima o poi arriva un giorno in cui, per andare dove deve andare, se non ci sono porte né finestre, gli tocca sfondare la parete. (Bernard Malamud)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Nella vita di un uomo prima o poi arriva un giorno in cui, per andare dove deve andare, se non ci sono porte né finestre, gli tocca sfondare la parete. (Bernard Malamud)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -14029,12 +14044,12 @@ Un piede di porco o un ariete portatile aumentano la probabilità del personaggi
 \section{Ambiente}\index{Ambiente}
 
 \label{ambiente}
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 La natura non è crudele, è solo spietatamente indifferente. Questa è una delle più dure lezioni che un essere umano debba imparare. (Richard Dawkins)
 
 \medskip
 
-L'antidoto principale contro un cattivo ambiente consiste, naturalmente, nel sostituirlo con uno buono. (Robert Baden-Powell)}\end{enfasi}\medskip
+L'antidoto principale contro un cattivo ambiente consiste, naturalmente, nel sostituirlo con uno buono. (Robert Baden-Powell)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -14543,8 +14558,8 @@ Sebbene la velocità rotatoria di un tornado possa raggiungere i 450 km/h, il co
 \section{Avventure in Acqua}\index{Avventure in Acqua}
 
 \label{avventure-in-acqua}
-\begin{enfasi}{
-Guardò il mare e capì fino a che punto era solo, adesso. (Il vecchio e il mare, Ernest Hemingway)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Guardò il mare e capì fino a che punto era solo, adesso. (Il vecchio e il mare, Ernest Hemingway)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -14689,8 +14704,8 @@ Galea& 2& 200    & +8& 27   & +4  & 6d6+24 & 4    & 200/250+200\\
 \section{Avventure in Citta'}\index{Città}
 
 \label{avventure-in-citta}
-\begin{enfasi}{
-Dio creò la campagna, e l'uomo creò la città. (William Cowper)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Dio creò la campagna, e l'uomo creò la città. (William Cowper)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -14866,8 +14881,8 @@ I vicoli possono essere luoghi bui anche di giorno, grazie alle ombre degli edif
 \section{Avventure e Disastri}\index{Avventure}\index{Disastri}
 
 \label{avventure-e-disastri}
-\begin{enfasi}{
-Per prima cosa, nessuno rimane indietro. (anonimo)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Per prima cosa, nessuno rimane indietro. (anonimo)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -14936,17 +14951,26 @@ Gli eroi morti negli scontri ritornano come spaventosi generali Non Morti. I poc
 
 \section{Avventure nei Dungeon}\index{Dungeon}
 
-\begin{enfasi}{
-Linux is user friendly. It's just very picky about who its friends are (anonimo)
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Linux is user friendly. It's just very picky about who its friends are. (anonimo)
 
 \medskip
 
-Il dungeon è inclinato. Le creature sono infuriate perché non riescono a giocare a biglie (Dungeon Keeper 2,Videogioco, 1999)}\end{enfasi}\medskip
+Il dungeon è inclinato. Le creature sono infuriate perché non riescono a giocare a biglie (Dungeon Keeper 2, Videogioco, 1999)}\end{enfasi}\end{changemargin}\medskip
 
 \label{avventure-nei-dungeon}
 \begin{multicols}{2}
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{D}{i}  tutti i luoghi strani che un avventuriero può esplorare, nessuno è più letale di un dungeon. Questi labirinti, pieni di trappole mortali, mostri affamati e tesori meravigliosi, provano ogni Abilità dei personaggi. Queste regole si possono applicare a qualsiasi tipo di dungeon, dal relitto di una nave ad un vasto complesso di grotte sotterranee.
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+Il dungeon, caverna, cunicolo, chiamatelo come preferite è un cardine dell'avventura!
+
+Un dungeon e' una ricetta fatta di umidità, fetore, aria stantia, sporcizia, fango, resti di creature, trappole, tesori, trappole (abbondate...), mostri, nemici, mostri (abbondare!), buio, rumori sinistri, funghi, scricchiolii, guaiti, urla, gemiti.. ma anche di paura, tensione, brivido \& raccapriccio, enfasi, estasi, dolore, delusione, gioia.
+
+Il vostro dungeon non e' mai solo una caverna. MAI!
+\end{narratore}
+\end{changemargin}
 
 \textbf{Tipi di Dungeon}
 
@@ -15275,13 +15299,13 @@ La fanghiglia verde infligge 1 danno alla Costituzione per ogni round in cui div
 \section{Pericoli in Avventura}\index{Pericoli in Avventura}
 
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Un'avventura è un risultato ragionevole. Due sono meglio, tre meritano di essere tramandate, e quattro... nessuno potrà mai contestare quattro avventure. (John Steinbeck)
 
 \medskip
 
 
-Corre meno pericoli colui che, anche se è al sicuro, sta in guardia. (Publilio Siro)} \end{enfasi}\medskip
+Corre meno pericoli colui che, anche se è al sicuro, sta in guardia. (Publilio Siro)} \end{enfasi}\end{changemargin}\medskip
 
 \label{pericoli-in-avventura}
 
@@ -15431,8 +15455,8 @@ Cura: 1 TS
 
 \subsection{Avventure e Trappole}\index{Trappole}
 
-\begin{enfasi}{
-Chi pone la trappola sempre allo stesso posto non prenderà alcun'iguana. (proverbio africano)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Chi pone la trappola sempre allo stesso posto non prenderà alcun'iguana. (proverbio africano)}\end{enfasi}\end{changemargin}\medskip
 
 
 \begin{multicols}{2}
@@ -16339,8 +16363,8 @@ TS: Tempra DC 23 riduce a 5d12 danni altrimenti 10d12
 \subsection{Reputazione e Fama* - Opzionale}\index{Reputazione}\index{Fama}
 
 
-\begin{enfasi}{
-Fama e onore vanno talvolta più facilmente a chi non li ricerca. (Tito Livio)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Fama e onore vanno talvolta più facilmente a chi non li ricerca. (Tito Livio)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -16505,10 +16529,10 @@ Se si ha una Fama negativa, i PNG non malvagi spesso avranno reazioni maldispost
 \label{veleni-e-pozioni}
 
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Un giorno, un uomo fu colpito da una freccia avvelenata. Gli amici e i parenti, in ansia, chiamarono un medico. Quando gli si avvicinarono per prendere la freccia, l'uomo disse loro: "Prima di farlo, vorrei sapere chi mi ha trafitto con questa freccia... Era uno schiavo, un re, o un bramino? Era grande? Piccolo? Di che colore era la sua pelle? Dove viveva? E la freccia com'è stata costruita? Quale veleno è stato impiegato? ..."
 
-Mentre si stava ponendo tutte queste domande... il veleno fece il suo effetto e l'uomo ferito finì per morire. (Budda)}\end{enfasi}\medskip
+Mentre si stava ponendo tutte queste domande... il veleno fece il suo effetto e l'uomo ferito finì per morire. (Budda)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -16546,9 +16570,9 @@ Ci sono alcuni casi in cui e' presente la voce Frequenza, in questi rare occasio
 \includegraphics[height=0.5\linewidth]{immagini/potion.png}
 \end{center}
 
-\begin{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 I veleni qui proposti sono alcuni dei tanti presenti e possibili. Usali come linee guida. Se per tua etica e stile non ti piacciono i veleni, specialmente quelli più cattivi, suggerisco di usare le Pozioni Generiche che trovi in fondo al capitolo. Sono veleni più blandi e meno personali, probabilmente più facilmente usabili anche dai giocatori.
-\end{narratoresmall}
+\end{narratore}\end{changemargin}
 
 \subsubsection{Avvelenati}\index{Avvelenati}
 
@@ -16567,9 +16591,9 @@ Se si viene esposti a veleni diversi è necessario effettuare un Tiro Salvezza p
 
 \medskip
 
-\begin{tcolorbox}[width=0.425\textwidth,title = Veleno ?]
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[width=0.425\textwidth,title = Veleno ?]
 {Il veleno è un arma a doppio taglio. Finché la usi tu va bene ma se te la usano contro, magari la stessa, diventa un problema. Ci sono anche degli aspetti etici nell'usare i veleni, valuta se i tuoi Tratti ti permettono di usare dei veleni e che tipi.
-}\end{tcolorbox}
+}\end{tcolorbox}\end{changemargin}
 
 \subsection{Applicare il Veleno}\index{Applicare il Veleno}
 
@@ -16595,9 +16619,9 @@ Gli esempi seguenti rappresentano solo alcuni dei possibili veleni.
 \includegraphics[height=0.4\linewidth]{immagini/poison.png}
 \end{center}
 
-\begin{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Quando volete usare un veleno pensate innanzitutto perché si trova li, per chi doveva essere usato, per quale scopo. Non e' detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
-\end{narratoresmall}
+\end{narratore}\end{changemargin}
 
 \end{multicols}
 
@@ -16681,9 +16705,9 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non indica
 \subsection{Pozioni naturali}\index{Pozioni}
 
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Io credo che una foglia d'erba non sia meno di una giornata di lavoro compiuto dagli astri. (Walt Whitman)
-}\end{enfasi}
+}\end{enfasi}\end{changemargin}
 
 \begin{multicols}{2}
 
@@ -16919,13 +16943,13 @@ Rimuovi Veleno& annulla l'insorgenza di un veleno se presa entro l'attivazione, 
 
 \label{movimento-e-trasporto}
 
-\begin{enfasi}{
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Il mio piede sinistro funziona benissimo, ma non riuscirei comunque a camminare se non ci fosse il destro! (Madagascar 3 - Ricercati in Europa, Film )
 
 \medskip
 
 Quando non puoi più correre, cammina veloce; quando non puoi più camminare veloce, cammina; quando non puoi più camminare, usa il bastone; però non trattenerti mai. (Madre Teresa di Calcutta)}
-\end{enfasi}\medskip
+\end{enfasi}\end{changemargin}\medskip
 
 
 \begin{multicols}{2}
@@ -17291,8 +17315,8 @@ Volare per una creatura dotata di questa abilità è come camminare per una crea
 
 \subsection{Il Narratore}
 
-\begin{enfasi}{
-Chi comanda al racconto non è la voce: è l'orecchio. (Italo Calvino)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Chi comanda al racconto non è la voce: è l'orecchio. (Italo Calvino)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -17427,21 +17451,21 @@ Nel limite del possibile ogni sessione dovrebbe includere una parte di ruolo, un
 
 \bigskip
 
-\begin{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Può sembrare anacronistico quando c'è già in sviluppo la sesta edizione del più famoso gioco di ruolo tornare a premiare i giocatori in base all'oro preso ai mostri.
 
 Posso però garantirvi che qualora il vostro gruppo sia particolarmente "povero" di giocate di ruolo o semplicemente preferisca uno stile più combattivo, sapere che l'oro raccolto equivale ad esperienza può rendere molto più dinamico ed avvincente l'andare in avventura.
 
 OBSS si rifà al movimento OSR e come tale la fase di esplorazione e combattimento ha un proprio peso importante e vitale.
-\end{narratoresmall}
+\end{narratore}\end{changemargin}
 
 \subsection{Incontri}\index{Incontri}
 
 \label{incontri}
 
-\begin{enfasismall}{Che è la vita senza speranza? Una gittata di dadi fra le tenebre, fra i deliri. Ambrogio Bazzero}
-\end{enfasismall}
-
+\begin{changemargin}{0.3cm}{0.3cm}\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Che è la vita senza speranza? Una gittata di dadi fra le tenebre, fra i deliri. Ambrogio Bazzero}
+\end{enfasi}\end{changemargin}
+\end{changemargin}
 
 Un incontro è un momento di tensione e speranza, paura e sfida. E' l'occasione di mostrare e manifestare le proprie capacità e di lavorare come gruppo.
 
@@ -17565,14 +17589,14 @@ Potete aumentare o diminuire la difficoltà data dai PNG modificandone l'Equipag
 
 Occorre prestare attenzione ad assegnare ai PNG questo equipaggiamento supplementare, specie ai livelli più alti, in cui potete consumare l'intero tesoro della vostra avventura in un colpo solo!
 
-\begin{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Ma quanti scontri gestire per sessione ?
 
 Non c'e' una risposta esatta (2/4 al giorno ???), molto dipende dal tipo di giocatori che avete e da che gioco fanno.
 Rimanete concentrati sull'avventura, non andate a pensare che e' meglio non stancare i personaggi se no non reggono il prossimo scontro. Non dovete preoccuparvi eccessivamente dei personaggi, questo e' compito dei giocatori. Voi dovete ragionare in base all'ambiente dove siete ed a chi c'e' in giro.
 
 In ogni caso il buon senso aiuta sempre. Stancate i personaggi ma fate in modo che non sia un "Total party kill" ad ogni sessione.
-\end{narratoresmall}
+\end{narratore}\end{changemargin}
 
 \subsubsection{Assegnare i PX}
 
@@ -17624,7 +17648,7 @@ Un tesoro accidentale indica che potranno esserci tesori, oggetti, monete solo "
 Suggerisco di valutare un tesoro accidentale la metà di un tesoro normale. Un tesoro accidentale si presta benissimo a fornire oggetti particolari che possono dare indicazioni o fornire nuovi plot di avventura (per cosa era questa ampolla forgiata in adamantio ?)...
 
 
-\begin{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Un ultimo consiglio e' fare in modo che i tesori trovati nei dungeon siano distribuiti secondo questo criterio:
 
 - un terzo li avranno i mostri addosso
@@ -17634,7 +17658,7 @@ Un ultimo consiglio e' fare in modo che i tesori trovati nei dungeon siano distr
 - un terzo sarà sparso in giro
 
 Questo stimolerà i giocatori a continuare l'esplorazione, affrontare i mostri e cercare attivamente nel dungeon.
-\end{narratoresmall}
+\end{narratore}\end{changemargin}
 
 \medskip
 
@@ -17749,13 +17773,13 @@ Allo stesso tempo potrebbero esserci situazioni che si rivelano sgradevoli da ge
 
 \medskip
 
-\begin{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 \begin{center}\textbf{Circa OBSS ed i tiro di dadi}\end{center}
 
 OBSS usa un sistema di tiro di dadi peculiare andando a mescolare una distribuzione 3d6 ad il potenziale dei 6 che esplodono. Questo sistema riesce a garantire una buona varianza e pur se concentrando i risultati intorno ai valori centrali della distribuzione lascia aperto il limite superiore a tiri particolarmente fortunati.
 
 Se volete divertirvi a studiare la curva corrispondente vi consiglio il sito  \href{https://anydice.com/}{Anydice} e se volete gia' lo schema usato in Old Bell School System potete usare questo link \href{https://anydice.com/program/945}{3d6 explode}
-\end{narratoresmall}
+\end{narratore}\end{changemargin}
 
 \subsection{Le avventure in OBSS} \hypertarget{OSR}{} \index{OSR}\index{Avventura in OBSS}
 
@@ -17868,8 +17892,8 @@ I mostri non devono essere stupidi per forza. Falli parlare, ragionare, scappare
 
 \section{Creare Oggetti Magici}\index{Creare Oggetti Magici}
 
-\begin{enfasi}{
-Creare è vivere due volte. (Albert Camus)}\end{enfasi}\medskip
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Creare è vivere due volte. (Albert Camus)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -21634,12 +21658,12 @@ Quest'armatura o scudo sembra quasi trasparente. Il valore di Difesa dato dall'a
 
 \section{Oggetti Maledetti}\index{Oggetti Maledetti}
 
-\begin{enfasiwide}{Quando un empio maledice l'avversario, maledice se stesso. (Siracide)
+\begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{Quando un empio maledice l'avversario, maledice se stesso. (Siracide)
 
 \medskip
 
 Se maledici una persona ci saranno due fosse. Proverbio giapponese}
-\end{enfasiwide}\medskip
+\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -21681,11 +21705,11 @@ Se si sa che l'oggetto è maledetto, la natura della maledizione può essere det
 \end{center}
 
 
-\begin{narratoresmall}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Una maledizione e' sempre un \textit{inconveniente} particolare, che non si usa a caso. Ragionate attentamente sugli oggetti maledetti che farete trovare ai personaggi perché vi chiederanno molte informazioni e dovrete essere pronti.
 
 Non c'e' bisogno che la maledizione sia eccessiva e limitante puo' essere benissimo ridicola o particolare, fate in modo che sia caratterizzante. Il personaggio non deve sentirsi (tranne se lo volete) condannato in eterno, sfruttate l'occasione per costruire nuove avventure e spirito di gruppo.
-\end{narratoresmall}
+\end{narratore}\end{changemargin}
 
 
 \subsection{Rimuovere Oggetti Maledetti}\index{Rimuovere Oggetti Maledetti}
@@ -21879,13 +21903,13 @@ L'elenco e' di esempio per poter generare casualmente degli effetti sul possesso
 
 \section{Yeru}\index{Yeru}\index{Atilantis}
 
-\begin{enfasiwide}{
+\begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{
 Così la Terra è davvero tonda. Però non immaginavo che fosse azzurra. Perché gli uomini che vivono su un pianeta tanto bello non fanno altro che combattere tra loro? (Nadia - Il mistero della pietra azzurra)
 
 \medskip
 
 
-Il pianeta non ci appartiene, siamo noi ad appartenergli. Noi siamo di passaggio, lui rimane. (Pierre Rabhi)}\end{enfasiwide}\medskip
+Il pianeta non ci appartiene, siamo noi ad appartenergli. Noi siamo di passaggio, lui rimane. (Pierre Rabhi)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -21980,8 +22004,8 @@ La città oltretutto non appare mai nello stesso posto ma si sposta seguendo uno
 
 \subsection{I Portali}\index{Portali}
 
-\begin{enfasiwide}{
-Non aprire mai le porte a coloro che le aprono anche senza il tuo permesso. (Stanislaw Jerzy Lec)}\end{enfasiwide}\medskip
+\begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{
+Non aprire mai le porte a coloro che le aprono anche senza il tuo permesso. (Stanislaw Jerzy Lec)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -22010,11 +22034,11 @@ Si è sempre cercato di distruggere i portali dei draghi, con sacrificio e sangu
 \subsection{Draghi}\index{Draghi}
 \label{draghi}
 
-\begin{enfasiwide}{
+\begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{
 Oh maledetti possa Lynx chiudervi tutti i portali\\
 Oh assassini possa Sumkjir sterminarvi\\
 Oh devastatori possa Nedraf rompervi le ossa!\\
-(imprecazioni contro i Draghi)}\end{enfasiwide}\medskip
+(imprecazioni contro i Draghi)}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -22223,10 +22247,10 @@ Un drago rosso è immune al fuoco naturale e magico.
 
 \subsection{Il Calendario}\index{Calendario}
 
-\begin{enfasiwide}{
+\begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{
 Mi è capitato spesso di finire su un calendario. Ma mai per una data precisa. (Marilyn Monroe)
 
-Tutto ebbe inizio la tredicesima ora del tredicesimo giorno del tredicesimo mese... Eravamo lì per discutere degli errori di stampa dei calendari acquistati dalla scuola. (I Simpson)} \end{enfasiwide}\medskip
+Tutto ebbe inizio la tredicesima ora del tredicesimo giorno del tredicesimo mese... Eravamo lì per discutere degli errori di stampa dei calendari acquistati dalla scuola. (I Simpson)} \end{enfasi}\end{changemargin}\medskip
 
 
 \begin{multicols}{2}
@@ -22286,13 +22310,13 @@ Il giorno è diviso in 24 ore
 
 \subsection{I cicli millenari}\index{I cicli millenari}
 
-\begin{enfasiwide}{
+\begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{
 Vidi poi un angelo che scendeva dal cielo con la chiave dell'Abisso e una gran catena in mano.
 
 Afferrò il dragone, il serpente antico - cioè il diavolo, satana - e lo incatenò per mille anni;
 
 lo gettò nell'Abisso, ve lo rinchiuse e ne sigillò la porta sopra di lui, perché non seducesse più le nazioni, fino al compimento dei mille anni. Dopo questi dovrà essere sciolto per un pò di tempo. (Apocalisse 20,1-3, apostolo Giovanni)
-}\end{enfasiwide}\medskip
+}\end{enfasi}\end{changemargin}\medskip
 
 
 \begin{multicols}{2}
@@ -22783,7 +22807,7 @@ Utopia presenta le seguenti caratteristiche:
 
 \textbf{Arrivano i Mostri...}
 
-\begin{enfasiwide}{Chi lotta con i mostri deve guardarsi di non diventare, così facendo, un mostro. E se tu scruterai a lungo in un abisso, anche l'abisso scruterà dentro di te. (Friedrich Nietzsche)
+\begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{Chi lotta con i mostri deve guardarsi di non diventare, così facendo, un mostro. E se tu scruterai a lungo in un abisso, anche l'abisso scruterà dentro di te. (Friedrich Nietzsche)
 
 \medskip
 
@@ -22792,7 +22816,7 @@ I mostri possono essere sconfitti soltanto dai loro simili. (Claymore)
 \medskip
 
 La tragedia dei mostri è di essere troppo grandi e potenti per essere accettati dal genere umano. (Ishiro Honda)
-}\end{enfasiwide}\medskip
+}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -22819,7 +22843,7 @@ La sicurezza nel descrivere la situazione, poche battute, il fissare negli occhi
 
 Non riducete tutto a un MMORG dove l'obiettivo e' solo uccidere tutto e tutti, ci possono essere sempre tante scelte se ti impegni un po'.
 
-\begin{tcolorbox}[width=0.425\textwidth,title = Affrontare i mostri]
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[width=0.425\textwidth,title = Affrontare i mostri]
 {
 Lascia che questo vecchio ti dia un paio di consiglio giovane avventuriero!
 
@@ -22835,7 +22859,7 @@ Lascia che questo vecchio ti dia un paio di consiglio giovane avventuriero!
 
 - Se devi uccidere fallo con cattiveria e velocità. Non perdere tempo e ottimizza i colpi, risparmia le energie e preparati immediatamente ad un altro scontro.
 
-}\end{tcolorbox}
+}\end{tcolorbox}\end{changemargin}
 
 \subsection{Modificare le Creature}
 
@@ -23262,7 +23286,7 @@ Sfrutta le peculiarità e unicità delle creature per creare incontri non sconta
 
 \bigskip
 
-\begin{enfasiwide}{
+\begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{
 
 Amon Goth: Il controllo è potere. Questo è il potere.
 
@@ -23277,7 +23301,7 @@ Amon Goth: E' questo il potere?
 Oskar Schindler: L'avevano gli imperatori questo. Un uomo ruba qualcosa, viene portato davanti all'imperatore e si lascia cadere per terra tremante, implora per avere pietà. E' conscio che sta per andarsene. E l'imperatore lo perdona, invece. Quell'uomo, immeritevole, lo lascia libero.
 
 (Schindler's list - La lista di Schindler, Film, 1993)
-}\end{enfasiwide}\medskip
+}\end{enfasi}\end{changemargin}\medskip
 
 
 
@@ -23285,7 +23309,7 @@ Oskar Schindler: L'avevano gli imperatori questo. Un uomo ruba qualcosa, viene p
 \pagebreak
 \subsection{I Mostri}
 
-\begin{enfasiwide}{
+\begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{
 Io sono il mostro che gli uomini che respirano bramerebbero uccidere. Io sono Dracula. (Dracula di Bram Stoker)
 
 \medskip
@@ -23294,7 +23318,7 @@ Nipote del signor Wing: Senta mister, ci sono tre regole da seguire, però.
 
 Rand: Ah, sì? E quali sarebbero?
 
-Nipote del signor Wing: Lo tenga lontano dalla luce, lui odia la luce forte, specialmente quella del sole. Morirebbe. E lo tenga lontano dall'acqua, non lo faccia bagnare. Ma la cosa più importante, la regola che non dovrà mai dimenticare è che anche se lui piange, anche se fa scena e la supplica lei non dovrà mai, mai dargli da mangiare dopo la mezzanotte. Ha capito? (Gremlins, Film, 1984)} \end{enfasiwide}\medskip
+Nipote del signor Wing: Lo tenga lontano dalla luce, lui odia la luce forte, specialmente quella del sole. Morirebbe. E lo tenga lontano dall'acqua, non lo faccia bagnare. Ma la cosa più importante, la regola che non dovrà mai dimenticare è che anche se lui piange, anche se fa scena e la supplica lei non dovrà mai, mai dargli da mangiare dopo la mezzanotte. Ha capito? (Gremlins, Film, 1984)} \end{enfasi}\end{changemargin}\medskip
 
 \bigskip
 
@@ -41129,9 +41153,9 @@ Prendiamo ad esempio l'Orco comune da https://www.d20pfsrd.com/bestiary/monster-
 
 \section{Condizioni}\index{Condizioni}
 
-\begin{enfasiwide}{
+\begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{
 La grandezza dell'uomo è nella decisione di essere più forte della sua condizione. (Albert Camus)}
-\end{enfasiwide}\medskip
+\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
