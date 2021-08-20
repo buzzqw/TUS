@@ -12,7 +12,7 @@ E' anche disponibile uno schermo per il Narratore (veramente brutto.. perdonate!
 Vi suggerisco di scaricare sempre l'ultima versione del manuale, quella pubblicata nelle versioni solitamente e' parecchio indietro.
 La differenza di base e' che il pdf OBSS.pdf non ha immagini, mentre la versione rilasciata si. L'obiettivo e' rilasciare una versione a settimana.
 
-Un changelog scritto in maniera un po' piu' comprensibile dei commit e' il file changelog.md [link](https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md), mentre in diario.md [link](https://github.com/buzzqw/TUS/blob/master/diario.md) troverete i miei deliri di autore (poche cosa attualmente!)
+Un changelog scritto in maniera un po' piu' comprensibile dei commit e' il file changelog.md [link](https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md), mentre in diario.md [link](https://github.com/buzzqw/TUS/blob/master/diario.md) troverete i miei deliri di autore (poche cose attualmente!)
 
 Buon Divertimento e Buon Gioco!
 
