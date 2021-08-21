@@ -1,3 +1,15 @@
+**21/08/2021**
+
+AAvrete notato che le versione di OBSS si stanno presentando molto rapidamente. Non e' una questione di grossolani errori da correggere, anzi l'opposto.
+
+Considerato che OBSS ha ereditato tutte gli affinamenti di DBS il sistema parte gia' molto controllato e con pochissimi errori ma magari qualche svista di scrittura, possa essere del testo stritto poco chiaro o marchiani errori di battitura.
+
+Per questo sto rilasciando cosi' frequentemente, anche con changelog molto minori. Preferisco rilasciare spesso cosi' che tutti possano godere del migliore manuale possibile senza aspettare settimani che si congeli la versione.
+
+Oltretutto per una settimana saro' assente e non so che connessione internet sara' presente.. quindi vi voglio lasciare con una versione del manuale completa e stabile.
+
+Ho anche deciso che le build avranno le immagini, quindi non c'e' bisogno di usare le versioni per avere il manuale completo di immagini.
+
 **20/08/2021**
 
 In questo lasso di tempo come avrete sicuramente visto e' nato OBSS.
