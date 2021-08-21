@@ -4,7 +4,7 @@
 
 **0.4** aggiunto screen, migliorata tabella massimo incantesimo lanciabile, modificato e chiarito costo per successi critici multipli, ricontrollati patroni piccole modifiche, corretta indicazione prova magia per armatura imbottita in screen, ancora ottimizzazione box, chiarimenti su prova di nascondersi, correzioni ortografiche, dettagli su lingue, dettagli su energia positiva curativa,  chiarito che senza componenti materiali l'incantesimo fallisce, diverse correzioni di accenti
 
-*0.5* aggiornata versione copertina, abilitate immagini,
+*0.5* aggiornata versione copertina, abilitate immagini,  deflagrazione occulta e' di 1 livello, aggiornata la scheda,
 
 Perche OBSS ???
 
