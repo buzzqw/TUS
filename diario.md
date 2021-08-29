@@ -1,3 +1,7 @@
+**29/08/2021**
+
+Ho voluto modificare la prova di magia rendendola piu' aleatoria ed aggiungendo un opzione per fare in modo che ad alti livelli la prova sia piu' facile. Quest'ultima non e' una opzione che userei, come Narratore punterei su Alterare la Magia.
+
 **21/08/2021**
 
 AAvrete notato che le versione di OBSS si stanno presentando molto rapidamente. Non e' una questione di grossolani errori da correggere, anzi l'opposto.
