@@ -6,7 +6,7 @@
 
 **0.5** aggiornata versione copertina, abilitate immagini,  deflagrazione occulta e' di 1 livello, aggiornata la scheda, aggiornato screen, aggiornato elenco fallimento critico, corretti diversi errori di battitura (fino ad avanziamo di livello), note su caratteristiche, aggiunti consigli su punti ferita e punti fato, chiarimenti su competenza attive base, chiarimenti su tiri salvezza, corretto fattore cm per prova magica, aggiunto chiarimenti ad alterare le magie e modificato circolo di potere, aggiunta opzione per modifiche prova di magia, aggiornata scheda, aggiornato screen, aggiornato dc per ts da incantesimi generici, aggiunto alterare la magia a screen, distratto perdi meta' costo incantesimo
 
-*0.6* pubblicata versione 0.5, aggiunta regola per recupero punti ferita massimi,
+*0.6* pubblicata versione 0.5, aggiunta regola per recupero punti ferita massimi, chiarimenti su tiri salvezza, aggiunto lo zaino standard,
 
 Perche OBSS ???
 
