@@ -1,4 +1,4 @@
-name: Compila Screen
+name: Compila Screen DBS
 on: [push,workflow_dispatch]
 jobs:
   build_latex:
