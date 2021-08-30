@@ -15,5 +15,5 @@ jobs:
       - name: Upload pdf
         uses: actions/upload-artifact@v2
         with:
-          name: "OBSS - Old School Bell System"
+          name: "OBSS - Old Bell School System"
           path: "./OBSS/OBSS.pdf"  
