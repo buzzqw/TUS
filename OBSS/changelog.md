@@ -8,7 +8,7 @@
 
 **0.6** pubblicata versione 0.5, aggiunta regola per recupero punti ferita massimi, chiarimenti su tiri salvezza, aggiunto lo zaino standard, chiarito uso strumenti professionali, per ogni successo critico nella prova di magia la dc del ts aumenta di 1, per ogni fallimento critico aggiuntivo sottrai 1d6 al tiro della prova per verificare cosa succede nel fallimento, layout, diversi chiarimenti su punti ferita temporanei, chiarimenti su punti ferita massimi, alcuni chiarimenti su Alterare le Magie, aggiornato screen, benedizione ha il vincolo di essere seguace o devoto, rimossi i danni di tipo psichico, spostati diversi incantesimi in lista universale Illusione Minore - Benedizione - Benedici Acqua, spostato evoca creature boschive in incantesimi perduti
 
-*0.7* pubblicata versione 0.6, aggiornata copertina, ulteriori chiarimenti su identificare oggetti maledetti, 
+*0.7* pubblicata versione 0.6, aggiornata copertina, ulteriori chiarimenti su identificare oggetti maledetti, corretta immagine braille,
 
 
 Perche OBSS ???
