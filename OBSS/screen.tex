@@ -36,7 +36,6 @@ Recuperi con 8 ore di riposo. Se non dormi almeno 6 ore alla mattina è affatica
 
 \textbf{Annegare/Trattenere il fiato}: \index{Annegare/Trattenere il fiato} Qualsiasi personaggio può trattenere il fiato per un numero di round pari 6 round per il suo punteggio di Costituzione, con un minimo di 3 round. Per ogni Azione compiuta la durata restante diminuisce di 1 round. Trascorso questo periodo di tempo, il personaggio deve effettuare un Tiro Salvezza su Tempra con DC 12 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 1.
 
-
 \textbf{Assordato}:\index{Assordato}\index{Sordo} Subisce penalità -2 alle prove di Iniziativa, fallisce automaticamente tutte le prove di Consapevolezza basate sul suono e si considera Distratto nel lancio degli incantesimi con componenti almeno verbali.
 
 \textbf{Charmato}:\index{Charmato} una creatura charmata tratta il giocatore con un fidato amico ed alleato. Se la creatura viene minacciata o attaccata può fare un nuovo Tiro Salvezza su Volontà con un +2.
@@ -78,8 +77,6 @@ I personaggi che non sono in grado di fuggire possono combattere (anche se conti
 
 \textbf{In Preda al Panico}:\index{In Preda al Panico} I personaggi in preda al panico sono scossi e spaventati, inoltre, hanno una probabilità del 50\% di far cadere a terra qualsiasi cosa stanno tenendo in mano e di fuggire dalla fonte del loro terrore il più in fretta possibile seguendo un percorso di fuga completamente casuale.
 I personaggi in preda al panico prendono anche la condizione Accovacciato se non possono fuggire.
-
-\textbf{Trattenere} il fiato: COS*6 round. Ogni Azione -1 round. Incantesimo -3 round. Poi Tiro salvezza su Tempra DC 12 +1 per round.
 
 \textbf{Sanguinante}\index{Sanguinante} Il sanguinamento può essere interrotto superando una prova di Pronto Soccorso con DC 15 o con l'uso di un incantesimo che curi ferite.
 Se non indicato diversamente il danno massimo da sanguinamento, anche cumulato, è di 5 PF a round.
@@ -739,6 +736,7 @@ Se fallimento perdi metà Punti Magia. No effetti negativi.\\
 {\footnotesize
 \begin{textblock*}{5cm}(1cm,7.8cm) % larghezza box, coord X, coord Y
 \textbf{Punti Magia}\\
+Mod. Caratteristica + \\
 \begin{tabular}{ll|ll}
 \textbf{CM} & \textbf{P.M}&	\textbf{CM} & \textbf{P.M}\\
 1 &5 &2&8 \\
@@ -756,7 +754,7 @@ Se fallimento perdi metà Punti Magia. No effetti negativi.\\
 \end{tabular}
 \end{textblock*} }
 
-\begin{textblock*}{5cm}(1cm,13.6cm) % larghezza box, coord X, coord Y
+\begin{textblock*}{5cm}(1cm,13.8cm) % larghezza box, coord X, coord Y
 \textbf{Tiro Salvezza Incantesimo}\\
 DC = 10 + livello incantesimo + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia.
 \end{textblock*}
@@ -771,12 +769,24 @@ DC = 10 + 2 x livello incantesimo manifestato
 Se non indicato la DC di un incantesimo lanciato da un mostro è 10 + 2 x livello incantesimo + Intelligenza
 \end{textblock*}
 
+\begin{textblock*}{5cm}(1cm,23.1cm) % larghezza box, coord X, coord Y
+{\small 
+\textbf{Quando si hanno < 50\& Punti Magia} ogni incantesimo deve essere fatto con una Prova di Magia.}
+\end{textblock*}
 
+\begin{textblock*}{5cm}(1cm,25.1cm) % larghezza box, coord X, coord Y
+{\small
+\textbf{Successo Critico Automatico}:  x2 costo Punti Magia cumulativo. Es. 4,8,16,32..}
+\end{textblock*}
+
+\begin{textblock*}{5cm}(1cm,27.1cm) % larghezza box, coord X, coord Y
+{\small\textbf{Lanciare più volte il medesimo incantesimo} il costo aumento di se stesso. 4,8,12.. Non con Trucchetti}
+\end{textblock*}
 
 \begin{textblock*}{13.5cm}(6.5cm,15.8cm) % larghezza box, coord X, coord Y
 
 \textbf{Livello massimo incantesimi}
-
+{\small
 \medskip
 \begin{tabular}{ll|l|l|l|l}
 	\hline
@@ -793,13 +803,13 @@ Adepto della Magia $\rightarrow$&0&1&2&3&Livello\\
 	13-14 &  &     & \checkmark& \checkmark &   7\\
 	15-16 &  &     &  & \checkmark &   8\\
 	17-18 &  &     &    & \checkmark &   9\\
-\end{tabular}
+\end{tabular}}
 \end{textblock*}
 {\small
-\begin{textblock*}{19cm}(1cm,23.2cm) % larghezza box, coord X, coord Y
+\begin{textblock*}{13.5cm}(6.5cm,22.8cm) % larghezza box, coord X, coord Y
 \textbf{Alterare la Magia}
 
-	\textbf{Magia efficace}: Incantatore o compagno Ignora un 1 tirato nella Prova di Magia ogni 4 punti ferita sacrificati.
+	\textbf{Magia efficace}: Incantatore o compagno Ignora un 1/2 tirato nella Prova di Magia ogni 4 punti ferita massimi sacrificati.
 
 	\textbf{Magia eterea}: aumentando di 3 i Punti Magia spesi nell'incantesimo le proprie magie hanno pieno effetto su creature eteree o incorporee
 
@@ -811,8 +821,6 @@ Adepto della Magia $\rightarrow$&0&1&2&3&Livello\\
 
 	\textbf{Circolo del Potere}: tutti Devoti o Seguaci dello stesso Patrono
 	Per mago costo la metà dei Punti Magia dell'incantesimo lanciato dal compagno +1d6 alla Prova di Magia del compagno, max +7d6. Tempo lancio almeno 1 turno
-
-	\textbf{Modifiche lievi}\index{Modifiche lievi agli incantesimi} alla manifestazione dell'incantesimo possono essere concordati con il Narratore per un costo di Punti Magia  aggiuntivi o con una Prova di Magia riuscita.
 \end{textblock*}}
 
 	 	~\newpage
