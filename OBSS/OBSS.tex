@@ -4401,7 +4401,7 @@ Recuperi 2 punti Chi per ogni ora di riposo.
 
 Concentri il tuo Chi nelle tue mani.
 Puoi concentrare un numero di punti Chi pari alla Saggezza.
-Con il primo colpo andato a segno, Difesa a tocco, nel round scarichi l'energia che causa 1d6 per punto Chi usato.
+Con il primo colpo andato a segno, Difesa a tocco, nel round scarichi l'energia che causa 1d6 danni da forza per punto Chi usato.
 
 Scaricare l'energia Chi costa 1 Azione.
 
@@ -4416,7 +4416,7 @@ Puoi utilizzare fino a doppio del tuo punteggio in Saggezza per potenziare il Co
 \textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
 
 Puoi effettuare un attacco a distanza entro 9 metri usando l'Energia Psichica.
-Il colpo, Tiro per Colpire contro la Difesa a tocco, causa 1d6 di danno per punto Psichico speso focalizzato sul danno.
+Il colpo, Tiro per Colpire contro la Difesa a tocco, causa 1d6 di danno da forza per punto Psichico speso focalizzato sul danno.
 
 E' possibile focalizzare uno o più punti Psichici per aumentare la distanza ogni volta di 9 metri.
 Non puoi usare un numero di punti Chi totali (per distanza e e danno) superiore alla Saggezza. Costo 1 Azione di Attacco.
@@ -6398,7 +6398,7 @@ Gli incantesimi elencati sono quelli della 5ed più alcune mie proposte ed altre
 \subsection{La lista degli incantesimi}
 
 \medskip\textbf{Aiuto}\index{Incantesimi - Aiuto}\\
-\textbf{Scuola}: Abiurazione\\
+\textbf{Scuola}: Cura, Necromanzia\\
 \textbf{Livello}: 2\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
 \textbf{Gittata}: 9 metri\\
@@ -6424,7 +6424,7 @@ Predisponi un allarme contro intrusioni indesiderate. Scegli una porta, una fine
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Istantanea\\
 Attingi agli incubi di una creatura a gittata e che puoi vedere, e crei una manifestazione illusoria delle sue più insite paure, visibile solo per quella creatura. Il bersaglio deve effettuare un Tiro Salvezza su Volontà.\\
-Se fallisce il Tiro Salvezza, il bersaglio è spaventato per 1 minuto e subisce 4d10 di danno psichico. \\
+Se fallisce il Tiro Salvezza, il bersaglio è spaventato per 1 minuto e subisce 4d10 di danno. \\
 \textbf{Per ogni Critico ottenuto} nella Prova di Magia il danno aumenta di 1d10
 
 \medskip\textbf{Alterare Sé Stesso}\index{Incantesimi - Alterare Sé Stesso}\\
@@ -6660,24 +6660,25 @@ Scateni una serie di insulti avvolti da una subdola malia contro una creatura a 
 Il danno dell'incantesimo aumenta di 1d4 quando raggiungi CM 5, CM 11 e CM 17.
 
 \medskip\textbf{Benedici Acqua}\index{Incantesimi - Benedici Acqua}\\
-\textbf{Scuola}: Invocazione\\
+\textbf{Scuola}: Universale\\
 \textbf{Livello}: 2\\
 \textbf{Tempo di Lancio}: 10 Minuti\\
 \textbf{Gittata}: Tocco\\
 \textbf{Componenti}: V, S, M (25 monete d'oro in offerta alla chiesa)\\
 \textbf{Durata}: Istantanea\\
 Benedici fino ad un litro di liquido, sufficiente a creare 5 boccette di acqua benedetta.\\
+Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.\\
 \textbf{Per ogni Critico ottenuto} nella prova benedici un litro di liquido in più.\\
 
 \medskip\textbf{Benedizione}\index{Incantesimi - Benedizione}\\
-\textbf{Scuola}: Invocazione\\
+\textbf{Scuola}: Universale\\
 \textbf{Livello}: 1\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
 \textbf{Gittata}: 9 metri\\
 \textbf{Componenti}: V, S, M (uno spruzzo di acqua benedetta)\\
 \textbf{Durata}: 1 minuto\\
 Benedici fino a tre creature a gittata, scelte da te. I bersagli guadagnano +1 ai Tiri Salvezza e Tiro per Colpire.\\
-più benedizioni, anche da Patroni diversi non si sommano.\\
+Più benedizioni, anche da Patroni diversi non si sommano. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.\\
 \textbf{Per ogni Critico ottenuto} nella prova puoi aggiungere una creatura come bersaglio.
 
 \medskip\textbf{Benedizione Superiore}\index{Incantesimi - Benedizione Superiore}\\
@@ -6688,6 +6689,7 @@ più benedizioni, anche da Patroni diversi non si sommano.\\
 \textbf{Componenti}: V, S, M (uno spruzzo di acqua benedetta, 10 monete d'oro)\\
 \textbf{Durata}: 1 ora\\
 Benedici una creatura a tua scelta. La creatura entro la durata può aggiungere 1d6 ad un tiro prima di sapere se la prova (TC/TS/Check..) ha avuto successo o meno. Questo bonus può essere usato 2 volte nell'ora.\\
+ Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.\\
 \textbf{Per ogni Critico ottenuto} nella prova puoi aggiungere una creatura come bersaglio o aggiungere un ora alla durata.\\
 
 \medskip\textbf{Benedizione Suprema}\index{Incantesimi - Benedizione Suprema}\\
@@ -6698,6 +6700,7 @@ Benedici una creatura a tua scelta. La creatura entro la durata può aggiungere 
 \textbf{Componenti}: V, S, M (uno spruzzo di acqua benedetta, 25 monete d'oro)\\
 \textbf{Durata}: Istantanea\\
 Benedici una creatura a tua scelta. La creatura può ritirare due dadi di una singola prova prima di sapere se la prova ha avuto successo o meno. La creatura sceglie se prendere i nuovi tiri ottenuti o tenere i vecchi.\\
+ Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.\\
 \textbf{Per ogni Critico ottenuto} nella prova la creatura prende un +1 di bonus alla prova.\\
 
 \medskip\textbf{Blocca Mostri}\index{Incantesimi - Blocca Mostri}\\
@@ -7652,24 +7655,6 @@ Ogni bestia è considerata anche un fatato, e sparisce quando scende a 0 Punti F
 Le creature evocate sono amichevoli verso di te e i tuoi compagni. Tirare l'iniziativa per le creature evocate come gruppo, che agisce durante il proprio round. Esse obbediscono a qualsiasi comando verbale che gli viene dato (senza bisogno che tu compia azioni). Se non dai comandi alle bestie, si difenderanno dalle creature ostili, ma non compiranno altre azioni.\\
 \textbf{Per ogni Critico ottenuto} nella Prova di Magia appariranno due bestie in più
 
-\medskip\textbf{Evoca Creature Boschive}\index{Incantesimi - Evoca Creature Boschive}\\
-\textbf{Scuola}: Evocazione\\
-\textbf{Livello}: 4\\
-\textbf{Tempo di Lancio}: 2 Azioni\\
-\textbf{Gittata}: 18 metri\\
-\textbf{Componenti}: V, S, M (una bacca di agrifoglio per creature convocata)\\
-\textbf{Durata}: 1 ora \\
-Evochi spiriti fatati che compaiono in spazi non occupati a gittata e che puoi vedere. Scegli una delle seguenti opzioni per determinare ciò che appare:
-\begin{itemize}
-\item Un fatato di grado di sfida 2 o inferiore
-\item Due fatati di grado di sfida 1 o inferiore
-\item Quattro fatati di grado di sfida 1/2 o inferiore
-\item Otto fatati di grado di sfida 1/4 o inferiore
-\end{itemize}
-\medskip
-Una creatura evocata sparisce quando scende a 0 Punti Ferita o quando l'incantesimo termina. Le creature evocate sono amichevoli verso di te e i tuoi compagni. Tirare l'iniziativa per le creature evocate come gruppo, che agisce durante il proprio round. Esse obbediscono a qualsiasi comando verbale che gli viene dato (senza bisogno che tu compia azioni). Se non dai comandi ai fatati, si difenderanno dalle creature ostili, ma non compiranno altre azioni.\\
-\textbf{Per ogni Critico ottenuto} nella Prova di Magia appariranno due creature in più
-
 \medskip\textbf{Evoca Elementale}\index{Incantesimi - Evoca Elementale}\\
 \textbf{Scuola}: Aria, Acqua, Terra, Fuoco\\
 \textbf{Livello}: 5\\
@@ -7679,6 +7664,7 @@ Una creatura evocata sparisce quando scende a 0 Punti Ferita o quando l'incantes
 \textbf{Durata}: 1 ora\\
 Evochi un servitore elementale. Scegli un'area a gittata composta di acqua, aria, fuoco o terra e che riempia un cubo di 3 metri di spigolo. Un elementale di grado di sfida 5 o minore appropriato all'area da te scelta compare in uno spazio non occupato entro 3 metri da essa. L'elementale sparisce quando scende a 0 Punti Ferita o l'incantesimo termina.\\
 L'elementale è amichevole verso di te e i tuoi compagni per la durata dell'incantesimo. Tira l'iniziativa per l'elementale, che agisce durante il proprio round. Obbedisce a qualsiasi comando verbale che gli viene dato (se il comando è complesso consumi delle azioni). Se non dai comandi all'elementale, si difenderà dalle creature ostili, ma non compirà altre azioni.\\
+Ogni Lista di Magia può evocare solo il proprio Elementale specifico\\
 \textbf{Per ogni Critico ottenuto} nella Prova di Magia il grado di sfida dell'elementale evocato aumenta di 1
 
 \medskip\textbf{Evoca Elementali Minori}\index{Incantesimi - Evoca Elementali Minori}\\
@@ -7697,6 +7683,7 @@ Evochi degli elementali che compariranno in spazi non occupati a gittata e che p
 \end{itemize}
 \medskip
 Un elementale evocato sparisce quando scende a 0 Punti Ferita o l'incantesimo termina. Un elementale evocato è amichevole verso di te e i tuoi compagni. Tirare l'iniziativa per gli elementali evocati come gruppo, che agisce durante il proprio round. Essi obbediscono a qualsiasi comando verbale che gli viene dato (se il comando è complesso consumi delle azioni). Se non dai comandi agli elementali, si difenderanno dalle creature ostili, ma non compiranno altre azioni.\\
+Ogni Lista di Magia può evocare solo il proprio Elementale specifico\\
 \textbf{Per ogni Critico ottenuto} nella Prova di Magia appariranno due Elementali in più.
 
 \medskip\textbf{Evocazioni Istantanee}\index{Incantesimi - Evocazioni Istantanee}\\
@@ -7857,7 +7844,7 @@ L'equipaggiamento del bersaglio si fonde nella nuova forma. Il bersaglio non pu�
 \textbf{Gittata}: 18 metri\\
 \textbf{Componenti}: V, S, M (un frammento di metallo)\\
 \textbf{Durata}: Istantanea\\
-Un forte rombo, molto intenso, erutta da un punto a gittata di tua scelta. Ogni creatura in una sfera di 3 metri di raggio centrata su quel punto deve effettuare un Tiro Salvezza su Tempra. Una creatura subisce 3d8 danni da tuono se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Una creatura composta di materiale inorganico, come pietra, cristallo o metallo, ha -1d6 sul Tiro Salvezza. Un oggetto non magico che non è indossato né trasportato subisce anch'esso danni se si trova nell'area dell'incantesimo.\\
+Un forte rombo, molto intenso, erutta da un punto a gittata di tua scelta. Ogni creatura in una sfera di 3 metri di raggio centrata su quel punto deve effettuare un Tiro Salvezza su Tempra. Una creatura subisce 3d8 danni da suono se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Una creatura composta di materiale inorganico, come pietra, cristallo o metallo, ha -1d6 sul Tiro Salvezza. Un oggetto non magico che non è indossato né trasportato subisce anch'esso danni se si trova nell'area dell'incantesimo.\\
 \textbf{Per ogni Critico ottenuto} nella Prova di Magia il danno aumenta di 1d8.
 
 \medskip\textbf{Freccia Acida}\index{Incantesimi - Freccia Acida}\\
@@ -7935,7 +7922,7 @@ Quando inscrivi il glifo scegli rune esplosive o glifo incantesimo.
 \item
 \textit{Glifo Incantesimo}. Puoi inserire un incantesimo preparato di livello 2 o inferiore nel glifo lanciandolo come parte della creazione del glifo. L'incantesimo deve prendere come bersaglio una singola creatura o un'area. L'incantesimo che viene inserito non ha effetto immediato se lanciato in questo modo. Quando il glifo è attivato, l'incantesimo inserito viene lanciato. Se l'incantesimo ha un bersaglio, prende come bersaglio la creatura che ha attivato il glifo. Se l'incantesimo agisce su di un'area, l'area è incentrata su quella creatura. Se l'incantesimo evoca creature ostili o crea oggetti o trappole nocive, questi appaiono quanto più vicino possibile all'intruso e lo attaccano. Se l'incantesimo richiede concentrazione, questa è mantenuta fino al termine della sua normale durata.
 \item
-\textit{Rune Esplosive}. Quando attivato, il glifo erutta energia magica in una sfera di raggio 6 metri centrata sul glifo. La sfera si propaga intorno agli angoli. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 5d8 danni da acido, fulmine, fuoco, freddo o tuono se fallisce il Tiro Salvezza (a tua scelta quando crei il glifo), o la metà di questi danni se supera il Tiro Salvezza.
+\textit{Rune Esplosive}. Quando attivato, il glifo erutta energia magica in una sfera di raggio 6 metri centrata sul glifo. La sfera si propaga intorno agli angoli. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 5d8 danni da acido, fulmine, fuoco, freddo o suono se fallisce il Tiro Salvezza (a tua scelta quando crei il glifo), o la metà di questi danni se supera il Tiro Salvezza.
 \end{itemize}
 \medskip
 \textbf{Per ogni Critico ottenuto} nella prova di il danno del glifo rune esplosive aumenta di 1d8.
@@ -8003,7 +7990,7 @@ Scegli un oggetto con cui devi restare a contatto per tutto il lancio dell'incan
 Apprendi se degli incantesimi stiano agendo sull'oggetto e cosa siano. Se l'oggetto è stato creato da un incantesimo, apprendi quale incantesimo lo abbia creato. Se invece durante l'esecuzione resti a contatto con una creatura, apprendi se degli incantesimi stiano agendo su di essa e quali siano.
 
 \medskip\textbf{Illusione Minore}\index{Incantesimi - Illusione Minore}\\
-\textbf{Scuola}: Illusione\\
+\textbf{Scuola}: Universale\\
 \textbf{Livello}: 0\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
 \textbf{Gittata}: 9 metri\\
@@ -8032,7 +8019,7 @@ L'interazione fisica con l'immagine la rivela come illusione, dato che le cose l
 \textbf{Gittata}: 36 metri\\
 \textbf{Componenti}: V, S, M (un pezzo di vello)\\
 \textbf{Durata}: Concentrazione, massimo 10 minuti\\
-Crei l'immagine di un oggetto, una creatura o qualche altro fenomeno visibile non più grande di un cubo di 6 metri di spigolo. L'immagine appare in un punto a gittata che puoi vedere e vi rimane per la durata dell'incantesimo. L'immagine sembra completamente reale, e comprende suoni, odori e la temperatura appropriata alla cosa raffigurata. Non puoi generare calore o freddo sufficiente a provocare danni, né un suono abbastanza forte da infliggere danno da tuono o assordare una creatura, o un odore che possa far star male una creatura (come il fetore di un troglodita). Finché resti a gittata dell'illusione, puoi usare un'azione per far muovere l'immagine in qualsiasi altro punto a gittata.\\
+Crei l'immagine di un oggetto, una creatura o qualche altro fenomeno visibile non più grande di un cubo di 6 metri di spigolo. L'immagine appare in un punto a gittata che puoi vedere e vi rimane per la durata dell'incantesimo. L'immagine sembra completamente reale, e comprende suoni, odori e la temperatura appropriata alla cosa raffigurata. Non puoi generare calore o freddo sufficiente a provocare danni, né un suono abbastanza forte da infliggere danno da suono o assordare una creatura, o un odore che possa far star male una creatura (come il fetore di un troglodita). Finché resti a gittata dell'illusione, puoi usare un'azione per far muovere l'immagine in qualsiasi altro punto a gittata.\\
 Quando l'immagine cambia posizione, puoi alterarne l'aspetto così che i suoi movimenti appaiano naturali. Per esempio, se crei l'immagine di una creatura e la muovi, puoi alterare l'immagine in modo che sembri camminare. Allo stesso modo, puoi impiegare l'illusione per produrre suoni diversi in momenti diversi, fino a farle portare avanti una conversazione.\\
 L'interazione fisica con l'immagine la rivela come illusione, dato che le cose vi passano attraverso. Una creatura che usa 3 Azioni per esaminare l'immagine può determinare che si tratta di un'illusione con una prova riuscita di Intelligenza (Indagare) contro la DC del Tiro Salvezza del tuo incantesimo. Se una creatura riconosce l'illusione per quello che è, la creatura può vedervi attraverso, e per quella creatura tutte le altre qualità sensoriali svaniscono.\\
 \textbf{Se ottieni un critico} l'incantesimo dura finché non viene dissolto, senza richiedere la tua concentrazione.
@@ -8660,7 +8647,7 @@ Quando la nube appare, ogni creatura al suo interno deve effettuare un Tiro Salv
 All'inizio di ciascun tuo round, la nube si muove di 3 metri lontano da te in una direzione a tua scelta. \\
 
 \medskip\textbf{Nube Maleodorante}\index{Incantesimi - Nube Maleodorante}\\
-\textbf{Scuola}: Evocazione\\
+\textbf{Scuola}: Acqua, Aria\\
 \textbf{Livello}: 3\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
 \textbf{Gittata}: 27 metri\\
@@ -8670,7 +8657,7 @@ Crei, in un punto a gittata, una sfera di 6 metri di raggio composta di un gas g
 Un vento moderato (almeno 15 chilometri all'ora) disperde la nube dopo 4 round. Un vento forte (almeno 30 chilometri all'ora) lo disperde dopo 1 round.
 
 \medskip\textbf{Nube Mortale}\index{Incantesimi - Nube Mortale}\\
-\textbf{Scuola}: Evocazione\\
+\textbf{Scuola}: Acqua, Aria\\
 \textbf{Livello}: 5\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
 \textbf{Gittata}: 36 metri\\
@@ -8706,7 +8693,7 @@ Ricevi mentalmente le informazioni visive dall'occhio, che ha vista normale e sc
 \textbf{Gittata}: Personale (cubo di 4 metri di spigolo)\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Istantanea\\
-un'onda di forza tonante si proietta da te. Ogni creatura in un cubo di 4 metri di spigolo che origina da te deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, una creatura subisce 2d8 danni da tuono e viene allontana 3 metri da te. Se supera il Tiro Salvezza, la creatura subisce la metà dei danni e non viene allontanata. Inoltre, gli oggetti non ancorati che sono totalmente all'interno dell'area vengono spinti 3 metri lontano da te dall'effetto dell'incantesimo, e l'incantesimo produce un rimbombo tonante udibile fino a 90 metri.\\
+un'onda di forza tonante si proietta da te. Ogni creatura in un cubo di 4 metri di spigolo che origina da te deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, una creatura subisce 2d8 danni da suono e viene allontana 3 metri da te. Se supera il Tiro Salvezza, la creatura subisce la metà dei danni e non viene allontanata. Inoltre, gli oggetti non ancorati che sono totalmente all'interno dell'area vengono spinti 3 metri lontano da te dall'effetto dell'incantesimo, e l'incantesimo produce un rimbombo tonante udibile fino a 90 metri.\\
 \textbf{Per ogni critico ottenuto} nella Prova di Magia il danno aumenta di 1d8.
 
 \medskip\textbf{Oscurità}\index{Incantesimi - Oscurità}\\
@@ -8875,7 +8862,6 @@ Quando l'apertura sparisce, qualsiasi creatura od oggetto ancora nel passaggio c
 \textbf{Durata}: Concentrazione, 1 ora
 Per la durata dell'incantesimo le tue tracce non possono essere seguite eccetto che da mezzi magici. La creatura che riceve questo bonus non lascia tracce né altri segni del suo passaggio.
 \textbf{Per ogni critico ottenuto} nella Prova di Magia puoi includere un altra creature nei benefici dell'incantesimo.\\
-
 
 \medskip\textbf{Passo Velato}\index{Incantesimi - Passo Velato}\\
 \textbf{Scuola}: Evocazione\\
@@ -9080,7 +9066,7 @@ La protezione conferisce diversi benefici. Le creature di quei tipi hanno -1d6 a
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 10 minuti\\
-Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'incantesimo, il bersaglio ha resistenza a un tipo di danno scelto da te: acido, freddo, fuoco, fulmine o tuono. Puoi sacrificare tutta la durata dell'incantesimo, terminandolo, per annullare completamente il danno subito da una fonte di energia.\\
+Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'incantesimo, il bersaglio ha resistenza a un tipo di danno scelto da te: acido, freddo, fuoco, fulmine o suono. Puoi sacrificare tutta la durata dell'incantesimo, terminandolo, per annullare completamente il danno subito da una fonte di energia.\\
 \textbf{Per ogni critico ottenuto} nella Prova di Magia puoi influenzare un altra persona o raddoppiare la durata.\
 
 \medskip\textbf{Protezione dai Veleni}\index{Incantesimi - Protezione dai Veleni}\\
@@ -9395,7 +9381,7 @@ Questo incantesimo ti permette di muoverti a un'andatura incredibile. Quando lan
 \textbf{Per ogni critico ottenuto} nella Prova di Magia la durata aumenta di 1 minuto.
 
 \medskip\textbf{Saltare}\index{Incantesimi - Saltare}\\
-\textbf{Scuola}: Trasmutazione\\
+\textbf{Scuola}: Aria\\
 \textbf{Livello}: 1\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
 \textbf{Gittata}: Contatto\\
@@ -9768,7 +9754,7 @@ Per la durata dell'incantesimo, i tuoi occhi si tramutano in un vuoto nero infus
 \textbf{Gittata}: 36 metri\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 10 minuti\\
-Per la durata dell'incantesimo, nessun suono può essere creato all'interno o attraversare una sfera di 6 metri di raggio centrata su di un punto a gittata, scelto da te. Qualsiasi creatura o oggetto che si trovi completamente all'interno della sfera è immune al danno da tuono, e le creature che sono completamente al suo interno sono assordate. È impossibile lanciare un incantesimo che comprende una componente verbale mentre si è al suo interno.
+Per la durata dell'incantesimo, nessun suono può essere creato all'interno o attraversare una sfera di 6 metri di raggio centrata su di un punto a gittata, scelto da te. Qualsiasi creatura o oggetto che si trovi completamente all'interno della sfera è immune al danno da suono, e le creature che sono completamente al suo interno sono assordate. È impossibile lanciare un incantesimo che comprende una componente verbale mentre si è al suo interno.
 
 \medskip\textbf{Simbolo}\index{Incantesimi - Simbolo}
 \textbf{Scuola}: Abiurazione\\
@@ -10269,7 +10255,7 @@ Lanciare un incantesimo mentre si vola è più complesso, si è Distratti se non
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 24 ore\\
-Fino al termine dell'incantesimo, una creatura consenziente con cui sei in contatto durante il lancio è immune al danno psichico, qualsiasi effetto che ne percepirebbe le emozioni o leggerebbe i pensieri, incantesimi di divinazione e la condizione affascinato. l'incantesimo nega anche gli incantesimi desiderio e altri incantesimi o effetti di simili potenza impiegati per
+Fino al termine dell'incantesimo, una creatura consenziente con cui sei in contatto durante il lancio è immune a qualsiasi effetto che ne percepirebbe le emozioni o leggerebbe i pensieri, incantesimi di divinazione e la condizione affascinato. l'incantesimo nega anche gli incantesimi desiderio e altri incantesimi o effetti di simili potenza impiegati per
 influenzare la mente del bersaglio o per ottenere informazioni su di esso.\\
 \textbf{Per ogni critico ottenuto} nella Prova di Magia la durata raddoppia. Se ottieni tre critici la durata è permanente.
 
@@ -10292,6 +10278,53 @@ Crei una zona magica che protegge contro i raggiri in una sfera di 4 metri di ra
 
 \textbf{Legenda}: Nome Incantesimo (Livello di lancio)\\
 
+
+\subsubsection{Acqua}
+
+Camminare sull'Acqua (3)\\
+Cono di Freddo (5)\\
+Controllare Acqua (4)\\
+Controllare Tempo Atmosferico (8)\\
+Creare o Distruggere Acqua (1)\\
+Evoca Elementale (5)\\
+Evoca Elementali Minori (4)\\
+Freccia Acida (2)\\
+Muro di Ghiaccio (6)\\
+Nube di Nebbia (1)\\
+Nube Maleodorante (3)\\
+Nube Mortale (5)\\
+Raggio di Gelo (0)\\
+Respirare Sott'Acqua (3)\\
+Scudo di Fuoco (4)\\
+Sfera Congelante (6)\\
+Tempesta di Ghiaccio (4)\\
+Tempesta di Nevischio (3)\\
+
+\subsubsection{Aria}
+
+Caduta Morbida (1)\\
+Camminare nel Vento (6)\\
+Catena di Fulmini (6)\\
+Controllare Tempo Atmosferico (8)\\
+Evoca Elementale (5)\\
+Evoca Elementali Minori (4)\\
+Folata di Vento (2)\\
+Fulmine (3)\\
+Invocare il Fulmine (3)\\
+Levitazione (2)\\
+Muro di Vento (3)\\\
+Muro Prismatico (9)\\
+Nube di Nebbia (1)\\
+Nube Maleodorante (3)\\
+Nube Mortale (5)\\
+Onda Tonante (1)\\
+Respirare Sott'Acqua (3)\\
+Saltare (1)\\
+Stretta Folgorante (0)\\
+Tempesta di Ghiaccio (4)\\
+Volare (3)\\
+
+
 \subsubsection{Fuoco}
 Colpo Infuocato (5)\\
 Dardo di Fuoco (1)\\
@@ -10311,25 +10344,6 @@ Scudo di Fuoco (4)\\
 Sfera Infuocata (2)\\
 Tempesta di Fuoco (7)\\
 
-\subsubsection{Acqua}
-
-Camminare sull'Acqua (3)\\
-Cono di Freddo (5)\\
-Controllare Acqua (4)\\
-Controllare Tempo Atmosferico (8)\\
-Creare o Distruggere Acqua (1)\\
-Evoca Elementale (5)\\
-Evoca Elementali Minori (4)\\
-Freccia Acida (2)\\
-Muro di Ghiaccio (6)\\
-Nube di Nebbia (1)\\
-Raggio di Gelo (0)\\
-Respirare Sott'Acqua (3)\\
-Scudo di Fuoco (4)\\
-Sfera Congelante (6)\\
-Tempesta di Ghiaccio (4)\\
-Tempesta di Nevischio (3)\\
-
 \subsubsection{Terra}
 
 Carne in Pietra - Pietra in Carne (6)\\
@@ -10346,29 +10360,8 @@ Sciame di Meteore (9)\\
 Scolpire Pietra (4)\\
 Terremoto (8)\\
 
-\subsubsection{Aria}
-
-Caduta Morbida (1)\\
-Camminare nel Vento (6)\\
-Catena di Fulmini (6)\\
-Controllare Tempo Atmosferico (8)\\
-Evoca Elementale (5)\\
-Evoca Elementali Minori (4)\\
-Folata di Vento (2)\\
-Fulmine (3)\\
-Invocare il Fulmine (3)\\
-Levitazione (2)\\
-Muro di Vento (3)\\\
-Muro Prismatico (9)\\
-Nube di Nebbia (1)\\
-Onda Tonante (1)\\
-Respirare Sott'Acqua (3)\\
-Stretta Folgorante (0)\\
-Tempesta di Ghiaccio (4)\\
-Volare (3)\\
 
 \subsubsection{Abiurazione}
-Aiuto (2)\\
 Allarme(1)\\
 Anti-Individuazione (3)\\
 Armatura Magica (1)\\
@@ -10466,6 +10459,7 @@ Suggestione di Massa (6)\\
 Zona di Verità (2)\\
 
 \subsubsection{Cura}
+Aiuto (2)\\
 Cura Ferite Critiche (5)\\
 Cura Ferite di Massa (variabile)\\
 Cura Ferite Leggere (1)\\
@@ -10523,8 +10517,6 @@ Fiotto Acido (0)\\
 Intimorire Infernale (1)\\
 Labirinto (8)\\
 Mano Magica (0)\\
-Nube Maleodorante (3)\\
-Nube Mortale (5)\\
 Parola del Ritiro (6)\\
 Passo Velato (2)\\
 Porta Dimensionale (4)\\
@@ -10547,7 +10539,6 @@ Creazione (5)\\
 Destriero Fantasma (3)\\
 Fatale (9)\\
 Fuorviare (5)\\
-Illusione Minore (1)\\
 Illusione Programmata (6)\\
 Immagine Maggiore (3)\\
 Immagine Proiettata (7)\\
@@ -10572,8 +10563,6 @@ Arma Spirituale (2)\\
 Bagliore Solare (6)\\
 Banchetto degli Eroi (6)\\
 Barriera di Lame (6)\\
-Benedici Acqua (2)\\
-Benedizione (1)\\
 Benedizione Superiore (2)\\
 Benedizione Suprema (3)\\
 Capanna (3)\\
@@ -10601,6 +10590,7 @@ Spada Arcana (7)\\
 Spruzzo Prismatico (7)\\
 
 \subsubsection{Necromanzia}
+Aiuto (2)\\
 Animare Morti (3)\\
 Cecità/Sordità (2)\\
 Cecità/Sordità Avanzata (3)\\
@@ -10645,7 +10635,6 @@ Loquacità (8)\\
 Messaggio (0)\\
 Passo Veloce (1)\\
 Ritirata Rapida (1)\\
-Saltare (1)\\
 Scassinare (2)\\
 Scurovisione (2)\\
 Telecinesi (5)\\
@@ -10656,9 +10645,12 @@ Velocità (3)\\
 
 \subsubsection{Universale}
 Artificio Druidico (0)\\
+Benedici Acqua (2)\\
+Benedizione (1)\\
 Dardo Incantato (1)\\
 Fiamma Perenne (2)\\
 Fiamma Sacra (0)\\
+Illusione Minore (1)\\
 Individuazione del Magico (1)\\
 Luce (1)\\
 Prestidigitazione (0)\\
@@ -10718,6 +10710,24 @@ Contatti mentalmente un semidio, lo spirito di un saggio da tempo defunto, o qua
 \textbf{Durata}: 10 minuti\\
 Evochi un celestiale di grado di sfida 4 o inferiore, che appare in uno spazio non occupato a gittata e che puoi vedere. Il celestiale sparisce quando scende a 0 Punti Ferita o l'incantesimo termina. Il celestiale è amichevole verso di te e i tuoi compagni per la durata dell'incantesimo. Tira l'iniziativa per il celestiale, che agisce durante il proprio round. Obbedisce a qualsiasi comando verbale che gli viene dato (senza bisogno che tu compia azioni), purché non violi i suoi Tratti. Se non dai comandi al celestiale, si difenderà dalle creature ostili, ma non compirà altre azioni.\\
 \textbf{Per ogni Critico ottenuto} nella Prova di Magia aumenti di uno il CR della creatura evocata.
+
+\medskip\textbf{Evoca Creature Boschive}\index{Incantesimi - Evoca Creature Boschive}\\
+\textbf{Scuola}: Evocazione\\
+\textbf{Livello}: 4\\
+\textbf{Tempo di Lancio}: 2 Azioni\\
+\textbf{Gittata}: 18 metri\\
+\textbf{Componenti}: V, S, M (una bacca di agrifoglio per creature convocata)\\
+\textbf{Durata}: 1 ora \\
+Evochi spiriti fatati che compaiono in spazi non occupati a gittata e che puoi vedere. Scegli una delle seguenti opzioni per determinare ciò che appare:
+\begin{itemize}
+	\item Un fatato di grado di sfida 2 o inferiore
+	\item Due fatati di grado di sfida 1 o inferiore
+	\item Quattro fatati di grado di sfida 1/2 o inferiore
+	\item Otto fatati di grado di sfida 1/4 o inferiore
+\end{itemize}
+\medskip
+Una creatura evocata sparisce quando scende a 0 Punti Ferita o quando l'incantesimo termina. Le creature evocate sono amichevoli verso di te e i tuoi compagni. Tirare l'iniziativa per le creature evocate come gruppo, che agisce durante il proprio round. Esse obbediscono a qualsiasi comando verbale che gli viene dato (senza bisogno che tu compia azioni). Se non dai comandi ai fatati, si difenderanno dalle creature ostili, ma non compiranno altre azioni.\\
+\textbf{Per ogni Critico ottenuto} nella Prova di Magia appariranno due creature in più
 
 \medskip\textbf{Evoca Folletto}\index{Incantesimi - Evoca Folletto}\\
 \textbf{Scuola}: Evocazione\\
@@ -10823,7 +10833,7 @@ Una creatura a 0 Punti Ferita, con cui sei a contatto, torna a 1 PF. L'incantesi
 \textbf{Gittata}: Vista\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Concentrazione, massimo 1 minuto\\
-Si forma una ribollente nube di tempesta, centrata in un punto che puoi vedere e che si propaga in un raggio di 110 metri. L'area è illuminata da fulmini, vi riecheggiano tuoni e venti forti la spazzano. Quando la nube compare, ogni creatura sotto di essa (ovvero non più di 1.500 metri sotto la nube) deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, la creatura subisce 2d6 danni da tuono e resta assordata per 5 minuti.\\
+Si forma una ribollente nube di tempesta, centrata in un punto che puoi vedere e che si propaga in un raggio di 110 metri. L'area è illuminata da fulmini, vi riecheggiano tuoni e venti forti la spazzano. Quando la nube compare, ogni creatura sotto di essa (ovvero non più di 1.500 metri sotto la nube) deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, la creatura subisce 2d6 danni da suono e resta assordata per 5 minuti.\\
 Ogni round in cui mantieni la concentrazione su questo incantesimo, la tempesta, durante il tuo round, produce ulteriori effetti.\\
 \textit{Round 2}. Pioggia acida cade dalla nube. Ogni creatura e oggetto sotto la nube subiscono 1d6 danni da acido.\\
 \textit{Round 3}. Richiami sei fulmini dalla nube per colpire sei creature o oggetti di tua scelta, che si trovino sotto la nube. Una specifica creatura od oggetto non può essere colpita da più di un fulmine. Una creatura colpita deve effettuare un Tiro Salvezza su Riflessi. La creatura subisce 10d6 danni da fulmine se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. \\
@@ -18782,10 +18792,10 @@ Mentre indossi questo anello, hai resistenza a un tipo di danno. La gemma incast
 4& Fulmine &Citrino\\
 5& Fuoco &Granato\\
 6& Vuoto& Giaietto\\
-7& Psichico &Giada\\
+7& Energia Positiva &Giada\\
 8& Luce &Topazio\\
-9& Tuono &Spinello\\
-10& Veleno &Ametista\\
+9& Suono &Spinello\\
+10& Energia Negativa &Ametista\\
 \end{tabular}
 
 \medskip
@@ -18860,7 +18870,7 @@ Punti Ferita: 200
 
 Velocità: 9 m, nuoto 9 m (o 0 m entrambi se le gambe e la coda non vengono estese)
 
-Immunità ai Danni: psichico, veleno
+Immunità ai Danni: veleno
 
 Per essere usato come veicolo, l'apparato necessita un pilota. Quando lo sportello dell'apparato viene chiuso, il compartimento è a tenuta stagna, e non fa filtrare aria o acqua. I compartimenti conservano aria sufficiente per 10 ore, divise per il numero di creature all'interno. L'apparato galleggia in acqua e può anche spingersi sott'acqua fino a una profondità di 270 metri. Al di sotto di questa soglia, l'apparato subisce 2d6 danni contundenti al minuto a causa della pressione. Una creatura all'interno del compartimento può usare due azioni per muovere verso l'alto o il basso fino a due leve. Dopo ciascun uso, la leva torna alla sua posizione neutrale. Ogni leva, da sinistra a destra, funziona come mostrato sulla tabella seguente.
 
@@ -18969,7 +18979,7 @@ Mentre la indossi, ottieni un bonus di +4 alla Tiro per Colpire. Inoltre, se un 
 
 \textit{Armatura (leggera, media o pesante), raro} - 9000 mo
 
-Mentre la indossi, hai resistenza ad un tipo di danno. Il Narratore sceglie il tipo tra le opzioni seguenti: acido, forza, freddo, fulmine, fuoco, Vuoto, psichico, Luce, tuono o veleno.
+Mentre la indossi, hai resistenza ad un tipo di danno. Il Narratore sceglie il tipo tra le opzioni seguenti: acido, forza, freddo, fulmine, fuoco, Vuoto, Luce, suono o veleno.
 
 
 \index{Armatura di Scaglie di Drago}\textbf{Armatura di Scaglie di Drago}
@@ -19316,7 +19326,7 @@ Il bastone può essere impugnato come un bastone da combattimento magico che con
 
 \textit{Colpo Fulminante}. Puoi usare due azioni per far sì che una fulmine balzi dalla punta del bastone in una linea larga 1,5 metri e lunga 36 metri. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi con DC 21, subendo 9d6 danni da fulmine se lo fallisce, o la metà di questi danni se lo supera.
 
-\textit{Rombo di Tuono}. Puoi usare due azioni per far sì che il bastone produca un rombo di tuono assordante, udibile fino a 180 metri di distanza. Ogni creatura entro 18 metri da te (te escluso) deve effettuare un Tiro Salvezza su Tempra con DC 21. Se fallisce il Tiro Salvezza, la creatura subisce 2d6 danni da tuono e resta assordata per 1 minuto. Se supera il Tiro Salvezza, subisce la metà dei danni e non è assordata.
+\textit{Rombo di Tuono}. Puoi usare due azioni per far sì che il bastone produca un rombo di tuono assordante, udibile fino a 180 metri di distanza. Ogni creatura entro 18 metri da te (te escluso) deve effettuare un Tiro Salvezza su Tempra con DC 21. Se fallisce il Tiro Salvezza, la creatura subisce 2d6 danni da suono e resta assordata per 1 minuto. Se supera il Tiro Salvezza, subisce la metà dei danni e non è assordata.
 
 \textit{Tuoni e Fulmini}. Puoi usare due Azioni per usare le proprietà Colpo Fulminante e Rombo di Tuono assieme. Farlo non consuma l'uso giornaliero di quelle proprietà, ma solo l'uso di questa.
 
@@ -19757,7 +19767,7 @@ La corda ha Difesa 20 e 20 Punti Ferita. Recupera 1 punto ferita ogni 5 minuti f
 
 \textit{Oggetto meraviglioso, raro} - 750 mo
 
-Puoi usare due azioni per pronunciare la parola di comando del corno e poi suonarlo, emettendo uno scoppio tonante in un cono di 9 metri e udibile fino a 180 metri di distanza. Ogni creatura all'interno del cono deve effettuare un tiro Salvezza su Tempra con DC 18. Se il Tiro Salvezza fallisce, la creatura subisce 5d6 danni da tuono e resta assordata per 1 minuto. Se il Tiro Salvezza riesce, la creatura subisce la metà dei danni e non è assordata. Le creature e gli oggetti fatti di vetro o cristallo hanno -1d6 al Tiro Salvezza e subiscono 10d6 danni da tuono anziché 5d6.
+Puoi usare due azioni per pronunciare la parola di comando del corno e poi suonarlo, emettendo uno scoppio tonante in un cono di 9 metri e udibile fino a 180 metri di distanza. Ogni creatura all'interno del cono deve effettuare un tiro Salvezza su Tempra con DC 18. Se il Tiro Salvezza fallisce, la creatura subisce 5d6 danni da suono e resta assordata per 1 minuto. Se il Tiro Salvezza riesce, la creatura subisce la metà dei danni e non è assordata. Le creature e gli oggetti fatti di vetro o cristallo hanno -1d6 al Tiro Salvezza e subiscono 10d6 danni da suono anziché 5d6.
 
 Ogni uso della magia del corno ha il 20\% di probabilità di farlo esplodere. L'esplosione infligge 10d6 danni da fuoco a chi lo suona e distrugge il corno.
 
@@ -20091,7 +20101,7 @@ Questo libro descrive esercizi atletici, e le sue parole sono soffuse di magia. 
 
 \textit{Oggetto meraviglioso, molto raro}
 
-Questo tomo contiene le informazioni e incantamenti necessari a costruire un tipo particolare di golem. Il Narratore sceglie il tipo di golem che è possibile costruire o lo determina casualmente. Per decifrare e usare il manuale devi avere almeno CM 10. Una creatura che non possa usare il manuale dei golem e provi a leggerlo, subisce 6d6 danni psichici.
+Questo tomo contiene le informazioni e incantamenti necessari a costruire un tipo particolare di golem. Il Narratore sceglie il tipo di golem che è possibile costruire o lo determina casualmente. Per decifrare e usare il manuale devi avere almeno CM 10. Una creatura che non possa usare il manuale dei golem e provi a leggerlo, subisce 6d6 danni da forza.
 
 \medskip
 
@@ -20659,7 +20669,7 @@ Quando bevi questa pozione, ottieni l'effetto dell'incantesimo individuazione de
 
 \textit{Pozione, non comune} - 300 mo
 
-Quando bevi questa pozione, per 1 ora ottieni resistenza a un tipo di danno. Il Narratore sceglie il tipo di danno o lo determina casualmente (Acido, Freddo, Fuoco, Forza, Fulmine, Vuoto, Veleno, Psichico, Luce, Tuono)
+Quando bevi questa pozione, per 1 ora ottieni resistenza a un tipo di danno. Il Narratore sceglie il tipo di danno o lo determina casualmente (Acido, Freddo, Fuoco, Forza, Fulmine, Vuoto, Veleno, Luce, Suono)
 
 \index{Pozione di Rimpicciolimento}\textbf{Pozione di Rimpicciolimento}
 
@@ -23410,7 +23420,7 @@ L'aboleth può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 
 \textbf{Individuare.} L'aboleth effettua una prova di Saggezza (Consapevolezza).
 
-\textbf{Risucchio Psichico (Costa 2 Azioni).} Una creatura affascinata dall'aboleth subisce 10 (3d6) danni psichici, e l'aboleth recupera un numero di Punti Ferita pari al danno subito dalla creatura.
+\textbf{Risucchio Psichico (Costa 2 Azioni).} Una creatura affascinata dall'aboleth subisce 10 (3d6) danni e l'aboleth recupera un numero di Punti Ferita pari al danno subito dalla creatura.
 
 \textbf{Spazzata di Coda.} L'aboleth effettua un attacco di coda.
 
@@ -24328,7 +24338,7 @@ La strana capacità della cockatrice di trasformare le altre creature in pietra 
 
 \textbf{Resistenze al Danno} da Luce
 
-\textbf{Immunità al Danno} psichico; da botta, perforante e tagliente di attacchi non magici
+\textbf{Immunità al Danno} da botta, perforante e tagliente di attacchi non magici
 
 \textbf{Sensi} visione del vero 36 m
 
@@ -25115,7 +25125,7 @@ I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di m
 
 \emph{\textbf{Animare Catene (Ricarica dopo un 1 ora).}} Fino a quattro catene che il diavolo possa vedere e si trovano entro 18 metri da lui producono dei bordi affilati e si animano sotto il controllo del diavolo, purché quelle catene non siano né indossate né trasportate da qualcun altro.
 
-Ogni catena animata è un oggetto con Difesa 20, 20 Punti Ferita, resistenza ai danni perforanti, e immunità ai danni psichici e da tuono. Quando il diavolo usa Multiattacco durante il suo turno, può usare ciascuna catena animata per effettuare un ulteriore attacco di catena. Una catena animata può afferrare una creatura per conto proprio ma non può effettuare attacchi mentre afferra. Una catena animata ritorna al suo stato inanimato se viene ridotta a 0 Punti Ferita o se il diavolo è reso inabile o muore.
+Ogni catena animata è un oggetto con Difesa 20, 20 Punti Ferita, resistenza ai danni perforanti, e immunità ai danni da suono. Quando il diavolo usa Multiattacco durante il suo turno, può usare ciascuna catena animata per effettuare un ulteriore attacco di catena. Una catena animata può afferrare una creatura per conto proprio ma non può effettuare attacchi mentre afferra. Una catena animata ritorna al suo stato inanimato se viene ridotta a 0 Punti Ferita o se il diavolo è reso inabile o muore.
 
 \textbf{Reazioni}
 
@@ -25353,7 +25363,7 @@ freddo.
 
 \emph{\textbf{Muro di Ghiaccio (Ricarica 6).}} Il diavolo forma magicamente un muro di ghiaccio opaco su di una superficie solida che possa vedere entro 18 metri da lui. Il muro è spesso 30 centimetri e largo fino a 9 metri per un massimo di 3 metri di altezza, oppure   una cupola semisferica di massimo 6 metri di diametro. Quando la   parete appare, ogni creatura nel suo spazio viene spinta fuori da esso   tramite la via più breve. La creatura sceglie su quale lato del muro   finire, a meno che la creatura non sia inabile. La creatura poi   effettua un Tiro Salvezza di Riflessi DC 17, subendo 35 (10d6) danni da freddo se lo fallisce, o la metà di questi danni se lo riesce.
 
-Il muro rimane per 1 minuto o finché il diavolo non è reso inabile o muore. Il muro può essere danneggiato e bucato; ogni sezione di 3 metri ha Difesa 5, 30 Punti Ferita, vulnerabilità al danno da fuoco, e immunità al danno da acido, freddo, da Vuoto, psichico e da veleno. Se una sezione viene distrutta, lascia una patina di aria gelida nello spazio che occupava prima il muro. Ogni volta che una creatura finisce per muoversi attraverso quest'aria gelida durante un turno, consenziente o meno, deve effettuare un Tiro Salvezza di Tempra DC 17, subendo 17 (5d6)danni da freddo se lo  fallisce, o la metà di questi danni se lo riesce. L'aria gelida si dissipa quando il resto del muro svanisce.
+Il muro rimane per 1 minuto o finché il diavolo non è reso inabile o muore. Il muro può essere danneggiato e bucato; ogni sezione di 3 metri ha Difesa 5, 30 Punti Ferita, vulnerabilità al danno da fuoco, e immunità al danno da acido, freddo, da Vuoto e da veleno. Se una sezione viene distrutta, lascia una patina di aria gelida nello spazio che occupava prima il muro. Ogni volta che una creatura finisce per muoversi attraverso quest'aria gelida durante un turno, consenziente o meno, deve effettuare un Tiro Salvezza di Tempra DC 17, subendo 17 (5d6)danni da freddo se lo  fallisce, o la metà di questi danni se lo riesce. L'aria gelida si dissipa quando il resto del muro svanisce.
 
 
 \medskip\index{Mostri - Diavolo d'Ossa}\textbf{Diavolo d'Ossa}
@@ -29297,7 +29307,7 @@ Un elementale dell'acqua grande è alto 1,8 metri e pesa 80kg.\\
 
 \textbf{Tiri Salvezza} Tempra +9, Riflessi +13, Volontà +2
 
-\textbf{Resistenze al Danno} fulmine, tuono; da botta, perforante e tagliente di attacchi non magici
+\textbf{Resistenze al Danno} fulmine, suono; da botta, perforante e tagliente di attacchi non magici
 
 \textbf{Immunità al Danno} veleno
 
@@ -29422,7 +29432,7 @@ Un elementale del fuoco grande è alto 4,8 metri\\
 
 \textbf{Tiri Salvezza} Tempra +9, Riflessi +1, Volontà +6
 
-\textbf{Vulnerabilità al Danno} tuono
+\textbf{Vulnerabilità al Danno} suono
 
 \textbf{Resistenze al Danno} da botta, perforante e tagliente di attacchi non magici
 
@@ -29511,7 +29521,7 @@ Un elementale della terra grande è alto 4,8 metri e pesa 3000 kg.\\
 
 \emph{Colpisce:} 6 (1d8 + 2) danni perforanti più 4 (1d8) danni da veleno. Il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 11 o restare avvelenato per 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo turno, terminando l'effetto se riesce il Tiro Salvezza.
 
-\emph{\textbf{Ragnatela (Ricarica 5-6).} Attacco con arma a Distanza}: +4 a colpire, gittata 9m, una creatura di taglia Grande o minore. \emph{Colpisce:} La creatura è intralciata dalla ragnatela. Con un'azione, la creatura intralciata può effettuare una prova di Forza DC 11, liberandosi dalla tela se la riesce. L'effetto termina se la tela è distrutta. La tela ha Difesa 10, 5 Punti Ferita, vulnerabilità ai danni da fuoco, e immunità ai danni da botta, da veleno e psichici.
+\emph{\textbf{Ragnatela (Ricarica 5-6).} Attacco con arma a Distanza}: +4 a colpire, gittata 9m, una creatura di taglia Grande o minore. \emph{Colpisce:} La creatura è intralciata dalla ragnatela. Con un'azione, la creatura intralciata può effettuare una prova di Forza DC 11, liberandosi dalla tela se la riesce. L'effetto termina se la tela è distrutta. La tela ha Difesa 10, 5 Punti Ferita, vulnerabilità ai danni da fuoco, e immunità ai danni da botta e da veleno.
 
 \textbf{Ecologia}\\
 Ambiente: Foreste Temperate\\
@@ -29620,7 +29630,7 @@ Gli oggetti originali vengono lasciati indietro, proprio come le spoglie fisiche
 
 \textbf{Tiri Salvezza} Tempra +7, Riflessi +6, Volontà +7
 
-\textbf{Resistenze al Danno} acido, fulmine, fuoco, tuono; da botta, perforante, tagliente di attacchi non magici
+\textbf{Resistenze al Danno} acido, fulmine, fuoco, suono; da botta, perforante, tagliente di attacchi non magici
 
 \textbf{Immunità ai Danni} freddo, da Vuoto, veleno
 
@@ -29850,7 +29860,7 @@ Un fungo viola è alto 1,2 metri e pesa 25 kg.\\
 
 \textbf{Immunità ai Danni} fulmine, veleno
 
-\textbf{Resistenze al Danno} acido, freddo, fuoco, da Vuoto, tuono; contendente, perforante e tagliente di attacchi non magici
+\textbf{Resistenze al Danno} acido, freddo, fuoco, da Vuoto, suono; contendente, perforante e tagliente di attacchi non magici
 
 \textbf{Immunità alle Condizioni} afferrato, avvelenato, intralciato, paralizzato, privo di sensi, prono, affaticamento
 
@@ -29932,7 +29942,7 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 
 \emph{\textbf{Scalare come Ragno.}} Il fustigatore può scalare superfici difficili, compreso lo stare a testa in giù sul soffitto, senza bisogno di effettuare una prova di abilità.
 
-\emph{\textbf{Viticci Afferranti.}} Il fustigatore può avere fino a sei viticci alla volta. Ogni viticcio può essere attaccato (CA 20; 10 Punti Ferita; immunità ai danni psichici e da veleno). Distruggere un viticcio non infligge danni al fustigatore, che può produrre un viticcio di rimpiazzo nel suo prossimo turno. Un viticcio può essere anche rotto se una creatura effettua un'azione e riesce una prova di Forza DC 15 contro di esso.
+\emph{\textbf{Viticci Afferranti.}} Il fustigatore può avere fino a sei viticci alla volta. Ogni viticcio può essere attaccato (CA 20; 10 Punti Ferita; immunità ai danni da veleno). Distruggere un viticcio non infligge danni al fustigatore, che può produrre un viticcio di rimpiazzo nel suo prossimo turno. Un viticcio può essere anche rotto se una creatura effettua un'azione e riesce una prova di Forza DC 15 contro di esso.
 
 \textbf{Azioni}
 
@@ -30055,7 +30065,7 @@ Un'insolita variante del gargoyle non abita tra edifici e rovine ma sotto le ond
 
 \textbf{Tiri Salvezza} Tempra +4, Riflessi +9, Volontà +7
 
-\textbf{Immunità al Danno} fulmine, tuono
+\textbf{Immunità al Danno} fulmine, suono
 
 \textbf{Sensi} scurovisione 36 m
 
@@ -30080,7 +30090,7 @@ scimitarra.
 
 \emph{\textbf{Scimitarra.} Attacco con arma da mischia}: +9 a colpire, portata 1 m, un bersaglio.
 
-\emph{Colpisce:} 12 (2d6 + 5) danni taglienti più 3 (1d6) danni da fulmine o tuono (a scelta del gin).
+\emph{Colpisce:} 12 (2d6 + 5) danni taglienti più 3 (1d6) danni da fulmine o suono (a scelta del gin).
 
 \emph{\textbf{Creare Turbine.}} Un cilindro d'aria turbinante di 1 metro di raggio e alto 9 metri si forma magicamente in un punto visibile al djinni entro 36 metri da esso. Il turbine resta finché il djinni mantiene la concentrazione (come se si stesse concentrando su di un incantesimo). Qualsiasi creatura salvo il djinni che entri nel turbine deve riuscire un Tiro Salvezza di Tempra DC 18 o restare intralciata da esso. Il djinni può muovere il turbine di massimo 18 metri con un'azione, e le creature intralciate dal turbine si muovono con esso. Il turbine termina se il djinni lo perde di vista.
 
@@ -30606,7 +30616,7 @@ I giganti delle rocce più vecchi tendono ad allontanarsi dalla tribù per molto
 
 \textbf{Resistenze al Danno} freddo
 
-\textbf{Immunità al Danno} fulmine, tuono
+\textbf{Immunità al Danno} fulmine, suono
 
 \textbf{Linguaggi} Comune, Gigante
 
@@ -30799,7 +30809,7 @@ Gli svirfneblin, o "gnomi delle profondità", sono una branca della razza gnomes
 
 \textbf{Tiri Salvezza}: Tempra +4, Riflessi +3, Volontà +4
 
-\textbf{Immunità al Danno} acido, psichico, veleno; da botta, perforante e tagliente di attacchi non magici o che non siano di adamantio
+\textbf{Immunità al Danno} acido, veleno; da botta, perforante e tagliente di attacchi non magici o che non siano di adamantio
 
 \textbf{Immunità alle Condizioni} affascinato, avvelenato, paralizzato, pietrificato, affaticamento, spaventato
 
@@ -30937,7 +30947,7 @@ Anche se molti golem di carne sono privi di ragione, si narra di golem ecceziona
 
 \textbf{Tiri Salvezza}: Tempra +6, Riflessi +5, Volontà +6
 
-\textbf{Immunità al Danno} fuoco, psichico, veleno; da botta, perforante e tagliente di attacchi non magici o che non siano di adamantio
+\textbf{Immunità al Danno} fuoco, veleno; da botta, perforante e tagliente di attacchi non magici o che non siano di adamantio
 
 \textbf{Immunità alle Condizioni} affascinato, avvelenato, paralizzato, pietrificato, affaticamento, spaventato
 
@@ -31010,7 +31020,7 @@ Per costruire un golem di ferro occorrono 2.500 kg di ferro, fuso con tinture ra
 
 \textbf{Tiri Salvezza}: Tempra +4, Riflessi +3, Volontà +4
 
-\textbf{Immunità al Danno} psichico, veleno; da botta, perforante e tagliente di attacchi non magici o che non siano di adamantio
+\textbf{Immunità al Danno} veleno; da botta, perforante e tagliente di attacchi non magici o che non siano di adamantio
 
 \textbf{Immunità alle Condizioni} affascinato, avvelenato, paralizzato, pietrificato, affaticamento, spaventato
 
@@ -31329,7 +31339,7 @@ I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle Dar
 
 \emph{\textbf{Rigenerazione.}} Il guardiano protettore recupera 10 Punti Ferita all'inizio del proprio turno se ne possiede ancora almeno 1.
 
-\emph{\textbf{Vincolato.}} Il guardiano protettore è vincolato magicamente ad un amuleto. Finché il guardiano e l'amuleto sono sullo stesso piano di esistenza, chi indossa l'amuleto può richiamare telepaticamente il guardiano perché lo raggiunga, e il guardiano saprà la distanza e la direzione in cui si trova l'amuleto. Se il guardiano si trova entro 18 metri da chi indossa l'amuleto, metà dei danni subiti da chi lo indossa (arrotondati per difetto) vengono trasferiti al guardiano. Se l'amuleto viene distrutto, il guardiano è inabile finché non viene creato un amuleto di rimpiazzo. L'amuleto del guardiano può essere soggetto ad un attacco diretto qualora non sia indossato o trasportato da nessuno. Ha Difesa 10, 10 Punti Ferita e immunità ai danni psichici e da veleno. Costruire un amuleto richiede 1 settimana e costa 10.000 mo in componenti.
+\emph{\textbf{Vincolato.}} Il guardiano protettore è vincolato magicamente ad un amuleto. Finché il guardiano e l'amuleto sono sullo stesso piano di esistenza, chi indossa l'amuleto può richiamare telepaticamente il guardiano perché lo raggiunga, e il guardiano saprà la distanza e la direzione in cui si trova l'amuleto. Se il guardiano si trova entro 18 metri da chi indossa l'amuleto, metà dei danni subiti da chi lo indossa (arrotondati per difetto) vengono trasferiti al guardiano. Se l'amuleto viene distrutto, il guardiano è inabile finché non viene creato un amuleto di rimpiazzo. L'amuleto del guardiano può essere soggetto ad un attacco diretto qualora non sia indossato o trasportato da nessuno. Ha Difesa 10, 10 Punti Ferita e immunità ai danni  da veleno. Costruire un amuleto richiede 1 settimana e costa 10.000 mo in componenti.
 
 \textbf{Azioni}
 
@@ -33528,7 +33538,7 @@ livello 5 (2 slot): \emph{dominare persone}
 
 \textbf{Tiri Salvezza}: Tempra +2, Rif +0, Volontà -4
 
-\textbf{Immunità al Danno} psichico, veleno
+\textbf{Immunità al Danno}  veleno
 
 \textbf{Immunità alle Condizioni} accecato, affascinato, assordato, avvelenato, paralizzato, pietrificato, affaticamento, spaventato
 
@@ -33574,7 +33584,7 @@ livello 5 (2 slot): \emph{dominare persone}
 
 \textbf{Tiri Salvezza}  Tempra +1, Riflessi +3, Volontà -4
 
-\textbf{Immunità al Danno} psichico, veleno
+\textbf{Immunità al Danno} veleno
 
 \textbf{Immunità alle Condizioni} accecato, affascinato, assordato, avvelenato, paralizzato, pietrificato, spaventato
 
@@ -33619,7 +33629,7 @@ livello 5 (2 slot): \emph{dominare persone}
 
 \textbf{Tiri Salvezza}: Tempra +4, Riflessi +2, Volontà -4
 
-\textbf{Immunità al Danno} psichico, veleno
+\textbf{Immunità al Danno} veleno
 
 \textbf{Immunità alle Condizioni} accecato, affascinato, assordato, avvelenato, paralizzato, pietrificato, spaventato
 
@@ -33728,7 +33738,7 @@ Un ogre adulto è alto sui 3 metri e pesa circa 325 kg.\\
 
 \textbf{Vulnerabilità al Danno} da Luce
 
-\textbf{Resistenze al Danno} acido, freddo, fulmine, fuoco, tuono; da botta, perforante e tagliente di attacchi non magici
+\textbf{Resistenze al Danno} acido, freddo, fulmine, fuoco, suono; da botta, perforante e tagliente di attacchi non magici
 
 \textbf{Immunità al Danno} da Vuoto, veleno
 
@@ -34804,7 +34814,7 @@ fuoco.
 
 \textbf{Competenze} Arcano +9, Consapevolezza +10, Religione +15
 
-\textbf{Immunità al Danno} psichico; da botta, perforante e tagliente di attacchi non magici
+\textbf{Immunità al Danno} da botta, perforante e tagliente di attacchi non magici
 
 \textbf{Immunità alle Condizioni} affascinato, spaventato
 
@@ -34849,7 +34859,7 @@ livello 6 (1 slot): \emph{banchetto degli eroi}
 
 \textbf{Secondo Ruggito.} Ogni creatura che fallisce un Tiro Salvezza su Volontà DC 18 resta assordata e spaventata per 1 minuto. Una creatura spaventata è paralizzata e può ripetere il Tiro Salvezza al termine di ciascun suo turno, terminandone l'effetto per sé, se lo riesce.
 
-\textbf{Terzo Ruggito.} Ogni creatura effettua un Tiro Salvezza su Tempra DC 18. Chi fallisce il Tiro Salvezza subisce 44 (8d10) danni da tuono ed è gettato prono. Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni e non viene gettata prona.
+\textbf{Terzo Ruggito.} Ogni creatura effettua un Tiro Salvezza su Tempra DC 18. Chi fallisce il Tiro Salvezza subisce 44 (8d10) danni da suono ed è gettato prono. Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni e non viene gettata prona.
 
 \textbf{Azioni Aggiuntive}
 
@@ -34900,8 +34910,6 @@ Le androsfingi sono alte 3,6 metri e pesano 500 kg.\\
 \textbf{Competenze} Arcano +14, Consapevolezza +9, Religione +9, Storia +14
 
 \textbf{Resistenze al Danno} da botta, perforante e tagliente di attacchi non magici
-
-\textbf{Immunità al Danno} psichico
 
 \textbf{Immunità alle Condizioni} affascinato, spaventato
 
@@ -35116,7 +35124,7 @@ mischia}:
 
 L'immondo può tenere affascinato solo un bersaglio alla volta. Se ne affascina un altro, l'effetto sul bersaglio precedente termina.
 
-\emph{\textbf{Bacio Risucchiante.}} L'immondo bacia una creatura affascinata o una creatura consenziente. Il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 15 contro questa magia, subendo 32 (5d10 + 5) danni psichici se lo fallisce, o la metà di questi danni se lo riesce. I Punti Ferita massimi del bersaglio vengono ridotti di un ammontare pari ai danni subiti. Questa riduzione perdura finché non sorge l'alba. Il bersaglio muore se questo effetto riduce i suoi Punti Ferita massimi a 0.
+\emph{\textbf{Bacio Risucchiante.}} L'immondo bacia una creatura affascinata o una creatura consenziente. Il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 15 contro questa magia, subendo 32 (5d10 + 5) danni se lo fallisce, o la metà di questi danni se lo riesce. I Punti Ferita massimi del bersaglio vengono ridotti di un ammontare pari ai danni subiti. Questa riduzione perdura finché non sorge l'alba. Il bersaglio muore se questo effetto riduce i suoi Punti Ferita massimi a 0.
 
 \emph{\textbf{Forma Eterea.}} L'immondo entra magicamente nel Piano Etereo dal Piano Materiale, e viceversa.
 
@@ -35982,7 +35990,7 @@ Essendo non morti, i wight non hanno bisogno di respirare, così a volte si poss
 
 \textbf{Tiri Salvezza}: Tempra +6, Riflessi +4, Volontà +6
 
-\textbf{Resistenze al Danno} acido, freddo, fulmine, fuoco, tuono; da botta, perforante e tagliente di attacchi non magici o che non siano argentati
+\textbf{Resistenze al Danno} acido, freddo, fulmine, fuoco, suono; da botta, perforante e tagliente di attacchi non magici o che non siano argentati
 
 \textbf{Immunità al Danno} da Vuoto, veleno
 
@@ -38428,7 +38436,7 @@ Il ragno fase possiede l'abilità magica di entrare ed uscire dal Piano Etereo. 
 
 \emph{\textbf{Ragnatela (Ricarica 5-6).} Attacco con Arma a Gittata}: +5 a colpire, gittata 9m, una creatura.
 
-\emph{Colpisce:} Il bersaglio è intralciato dalla ragnatela. Con un'azione, il bersaglio intralciato può effettuare una prova di Forza DC 12 e, in caso di successo, spezzare la tela. La ragnatela può essere anche attaccata e distrutta (CA 10; pf 5; vulnerabilità al danno da fuoco; immunità ai danni da botta, psichici e da veleno).
+\emph{Colpisce:} Il bersaglio è intralciato dalla ragnatela. Con un'azione, il bersaglio intralciato può effettuare una prova di Forza DC 12 e, in caso di successo, spezzare la tela. La ragnatela può essere anche attaccata e distrutta (CA 10; pf 5; vulnerabilità al danno da fuoco; immunità ai danni da botta e da veleno).
 
 \medskip\textbf{Ragno Lupo Gigante}\index{Mostri - Ragno Lupo Gigante}
 
