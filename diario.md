@@ -1,3 +1,13 @@
+**01/09/2021**
+
+Sto rilasciando frequentemente, posso capire che qualcuno possa trovare la prassi non comoda..e' vero, ma siamo alle diritture finali, alle correzioni/aggiunzioni definitive e voglio che tutti possano scaricare l'ultima versione.
+
+Conto a breve di prepare la prima stampa di OBSS in POD, probabilmente entro meta' settembre.
+
+Le ultime modifiche avvicinano OBSS ai sistemi old style, sono certo che daranno il giusto spessore ai personaggi magici.
+Il lavoro sulla magia e' stato veramente massivo, sono estremamente soddisfatto, i primi feedback che sto ricevendo sono positivi e questo mi fa solo piacere!
+
+
 **31/08/2021**
 
 E' una sciocchezza ma ho voluto inserire lo "Zaino Standard". E' una lista di oggetti che sono andato a segnare nel corso di innumerevoli avventure.. andando a segnare tutto cio' che poteva servirmi.. ed era trasportabile a mano (quindi niente galeoni!).
