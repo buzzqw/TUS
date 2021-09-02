@@ -10,7 +10,7 @@
 
 **0.7** pubblicata versione 0.6, aggiornata copertina, ulteriori chiarimenti su identificare oggetti maledetti, corretta immagine braille, le liste di magia sono collegate a delle statistiche per determinare il livello  massimo, aggiunto l'abilita' tutt'uno con la magia,  chiarimenti su come conteggiare i fallimenti critici, dettaglio su quando fallimenti critici si contanto al massimo per gli effetti fallimento, trattenere un incantesimo costa 1 punto di magia a round, sostituito - tranne nel mostruario - il termine mago con incantatore
 
-*0.8* pubblicata versione 0.7, aggiornata copertina, aggiunta la pozione miscela 31, 
+*0.8* pubblicata versione 0.7, aggiornata copertina, aggiunta la pozione miscela 31, miglioramenti a layout creare oggetti magici, corretti costi di produzione armi/dardi magici, alcune correzioni di battitura in creare oggetti magici, indicato in equipaggiamento armi e armature i costi degli oggetti magici normalmente comprabili, modificato valore massimo arco corto composito a +3, rimossa rete e bolas, inserito regolamente gittata in sezione combattimenti armi da tiro, ottimizzazioni layout combattimento recuperata una pagina, 
 
 
 Perche OBSS ???
