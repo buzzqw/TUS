@@ -1,3 +1,10 @@
+**02/09/2021**
+
+Mi sono dedidato ad una rilettura veloce delle armi, proiettili ed armature magiche, da li ho fatto dei riferimenti anche nell'equipaggiamento, da li poi sono passato al combattimento, da li sono passato alle reti e bolas e poi ho riottimizzato il tutto.
+
+Sembra una sciocchezza ma recuperare una pagina su un documento, anche se di 531 pagine, non e' una impresa facile, specialmente con un layout gia' pressoche' definitivo.
+Un ottimo lavoro
+
 **01/09/2021**
 
 Sto rilasciando frequentemente, posso capire che qualcuno possa trovare la prassi non comoda..e' vero, ma siamo alle diritture finali, alle correzioni/aggiunzioni definitive e voglio che tutti possano scaricare l'ultima versione.
