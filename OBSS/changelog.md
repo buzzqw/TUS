@@ -14,8 +14,7 @@
 
 **0.9** pubblicata versione 0.8, aggiornata copertina, artificio druidico puo' essere lanciato sono da chi e' seguace/devoto di Efrem Erondil Gaya Shayalia, controllo sezione iniziativa, sistemato logo in scheda, modificata e migliorata opzione mago supremo e specialista, dettaglio su droghe, inserite nell'indici in maniera ordinata le varie regole opzionali, riordinati azioni particolare in attacco rendendole piu' omogenee, aggiornati vantaggi in lista armi in base a ultimo playtesting, aggiunta lista d'armi spada e scudo, aggiunto link a equivalenze livello e arma magica
 
-*0.10* pubblicata versione 0.9, aggiornata copertina,
-
+*0.10* pubblicata versione 0.9, aggiornata copertina, aggiunta regola opzione per giocare senza competenze (very old school),
 
 Perche OBSS ???
 
