@@ -13,7 +13,7 @@
 **0.8** pubblicata versione 0.7, aggiornata copertina, aggiunta la pozione miscela 31, miglioramenti a layout creare oggetti magici, corretti costi di produzione armi/dardi magici, alcune correzioni di battitura in creare oggetti magici, indicato in equipaggiamento armi e armature i costi degli oggetti magici normalmente comprabili, modificato valore massimo arco corto composito a +3, rimossa rete e bolas, inserito regolamente gittata in sezione combattimenti armi da tiro, ottimizzazioni layout combattimento recuperata una pagina, aggiornato screen con dettagli pergamena
 
 *0.9* pubblicata versione 0.8, aggiornata copertina, artificio druidico puo' essere lanciato sono da chi e' seguace/devoto di Efrem Erondil Gaya Shayalia, controllo sezione iniziativa, sistemato logo in scheda, modificata e migliorata opzione mago supremo e specialista, dettaglio su droghe,
-inserite nell'indici in maniera ordinata le varie regole opzionali, riordinati azioni particolare in attacco rendendole piu' omogenee,
+inserite nell'indici in maniera ordinata le varie regole opzionali, riordinati azioni particolare in attacco rendendole piu' omogenee, aggiornati vantaggi in lista armi in base a ultimo playtesting, aggiunta lista d'armi spada e scudo, aggiunto link a equivalenze livello e arma magica,
 
 Perche OBSS ???
 
