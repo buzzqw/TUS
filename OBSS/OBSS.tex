@@ -18225,7 +18225,7 @@ Tira 1d100 e consulta la tabella, il risultato indica l'ammontare di tesoro casu
 \medskip
 
 \begin{tabularx}{0.95\textwidth}{XXXXXX}
-\textbf{D100} & \textbf{Comune} & \textbf{Non Comune} & \textbf{Raro} & \textbf{Molto Raro} & \textbf{Leggendario}\\
+\textbf{D100} & \textbf{Comune / Standard} & \textbf{Non Comune} & \textbf{Raro} & \textbf{Molto Raro} & \textbf{Leggendario}\\
 \toprule
 1-5&&&&& Maledetto\\
 6-35&1&&&&\\
@@ -18255,7 +18255,7 @@ Tira 1d100 e consulta la tabella, il risultato indica l'ammontare di tesoro casu
 \label{tabella-generazione-casuale-degli-oggetti-magici}
 
 \begin{tabularx}{0.95\textwidth}{XXXX}
-\textbf{Oggetto Comune} & \textbf{ Oggetto Non Comune} & \textbf{Oggetto Raro} & \textbf{Oggetto}    \\
+\textbf{Oggetto Comune / Standard} & \textbf{Oggetto Non Comune} & \textbf{Oggetto Raro} & \textbf{Oggetto}    \\
 \toprule
 01--04         & 01--10         & 01--10           & Armature e scudi\\
 05--09         & 11--20         & 11--20           & Armi\\
@@ -18408,7 +18408,6 @@ Se non indicato diversamente una capacità magica usabile una volta al giorno si
 \subsubsection{Note su Armature, Scudi, Armi magiche}
 
 \textbf{Armi}: un'arma con una capacità speciale deve avere almeno bonus di +1. Le armi non possono avere la stessa capacità speciale più di una volta.
-
 
 \textbf{Armature}: ogni +2 magico si abbassa di 1 la penalità di Prove Destrezza, ed ogni +2 si abbassa di un dado la penalità alle Prove di Magia.
 
@@ -21210,14 +21209,14 @@ Aura Invocazione forte e variabile; Requisiti di Creare Oggetti Magici Superiori
 
 Questa capacità può essere aggiunta solo agli archi compositi. Un arco Adattivo reagisce alla forza di chi lo impugna, agendo come un arco con un bonus di Forza pari a quello di chi lo sta impugnando. Chi lo impugna può scoccare con un bonus di Forza inferiore (e causare meno danni) se lo desidera.
 
-Aura Trasmutazione debole; Requisiti di Creare Oggetti Magici, Deformare Legno; Costo +1500 mo.
+Aura Trasmutazione debole; Requisiti di Creare Oggetti Magici, Lista Animali e Piante; Costo +1500 mo.
 
 \subsubsection{Affilata}\index{Affilata}
 
 Questa capacità in caso di critico consente di contare il numero di 6 tirati aumentandolo di 1.
 Solo le armi da mischia taglienti o perforanti possono essere affilate.
 
-Aura Trasmutazione moderata; Requisiti di Creare Oggetti Magici Superiori, Estremità Affilata; Costo +5000 mo.
+Aura Trasmutazione moderata; Requisiti di Creare Oggetti Magici Superiori, Lista della Terra; Costo +5000 mo.
 
 \subsubsection{Anatema}\index{Anatema}
 
@@ -21244,13 +21243,13 @@ d\% &Nemico prescelto\\
 
 \medskip
 
-Aura Evocazione moderata; Requisiti di Creare Oggetti Magici Superiori, Evoca Mostri I; Costo +3000 mo.
+Aura Evocazione moderata; Requisiti di Creare Oggetti Magici Superiori, Lista Abiurazione; Costo +3000 mo.
 
 \subsubsection{Cacciatore}\index{Cacciatore}
 
 Un'arma del Cacciatore aiuta chi la impugna a localizzare e a catturare la preda. Quando l'arma viene tenuta in mano, chi la impugna ottiene il bonus dell'arma alle prove di Sopravvivenza effettuate per seguire le tracce di qualsiasi creatura che l'arma ha danneggiato nel corso del giorno precedente. Infligge +1d6 danni alle creature di cui sono state seguite le tracce con Sopravvivenza da chi la impugna nel corso del giorno precedente.
 
-\textbf{Dettagli}: Aura Divinazione moderata; Requisiti di Creare Oggetti Magici Superiori, Individuazione di Animali o Vegetali; Costo +3000 mo.
+\textbf{Dettagli}: Aura Divinazione moderata; Requisiti di Creare Oggetti Magici Superiori, Localizza Animali e Piante; Costo +3000 mo.
 
 \subsubsection{Conduttiva}\index{Conduttiva}
 
@@ -21260,8 +21259,7 @@ Quando chi la impugna effettua con successo un attacco del tipo appropriato, pu�
 
 Questa capacità speciale dell'arma può essere utilizzata solamente una volta per round (anche se possiede più armi Conduttive).
 
-\textbf{Dettagli}: Aura Necromanzia moderata; Requisiti di Creare Oggetti Magici Superiori, Mano Arcana; Costo +3000 mo.
-
+\textbf{Dettagli}: Aura Necromanzia moderata; Requisiti di Creare Oggetti Magici Superiori, Mano Magica; Costo +3000 mo.
 
 \subsubsection{Coraggiosa}\index{Coraggiosa}
 
@@ -21274,7 +21272,6 @@ Questa capacità speciale può essere aggiunta solo a un'arma da mischia. Un'arm
 A comando, un'arma Corrosiva si ricopre di uno strato di acido che infligge 1d6 danni aggiuntivi da acido quando colpisce il bersaglio. L'acido non danneggia chi la impugna. L'effetto permane fino a quando non viene impartito un nuovo comando.
 
 \textbf{Dettagli}: Aura Invocazione moderata; Requisiti di Creare Oggetti Magici, Freccia Acida; Costo +3000 mo.
-
 
 \subsubsection{Crudele}\index{Crudele}
 
@@ -21308,8 +21305,7 @@ Un'arma Difensiva permette a chi la impugna di trasferire una parte o tutto il b
 
 Questa capacità speciale può essere aggiunta solo a proiettili. Un proiettile della Distanza ha il doppio della gittata data dall'arma che lancia.
 
-\textbf{Dettagli}: Aura Divinazione moderata; Requisiti di Creare Oggetti Magici, Chiaroudienza/Chiaroveggenza; Costo +3000 mo.
-
+\textbf{Dettagli}: Aura Divinazione moderata; Requisiti di Creare Oggetti Magici, Chiaroveggenza; Costo +3000 mo.
 
 \subsubsection{Distruzione}\index{Distruzione}
 
@@ -21321,7 +21317,7 @@ Un'arma della Distruzione è la rovina di tutti i Non Morti. Ogni creatura Non M
 
 Questa capacità può essere conferita solo ad un'arma da mischia. Un'arma del Duello (che deve essere un'arma che può essere utilizzata con il talento Arma Accurata) garantisce a chi la impugna bonus +4 alle prove di Iniziativa, purché l'arma sia stata estratta e impugnata quando viene effettuata la prova di Iniziativa.
 
-\textbf{Dettagli}: Aura Trasmutazione debole; Requisiti di Creare Oggetti Magici, Grazia del Gatto; Costo +7.000 mo.
+\textbf{Dettagli}: Aura Trasmutazione debole; Requisiti di Creare Oggetti Magici, Lista Animali e Piante; Costo +7.000 mo.
 
 \subsubsection{Energia Luminosa}\index{Energia Luminosa}
 
@@ -21338,7 +21334,7 @@ Un'arma di Energia Luminosa non può ferire Costrutti ed oggetti. Causa +2d6 dan
 
 Questa capacità speciale può essere aggiunta solo ad armi da mischia. Un'arma Estingui Fuoco è in grado di estinguere un fuoco non magico di taglia Media o inferiore. Quando usata contro una creatura del Fuoco, infligge 1d6 danni addizionali. Chi impugna un'arma Estingui Fuoco ottiene Bonus di Competenza +2 ai Tiri Salvezza contro gli effetti basati sul fuoco e l'arma stessa è immune ai danni da fuoco.
 
-\textbf{Dettagli}: Aura Trasmutazione debole; Requisiti di Creare Oggetti Magici, Gelare il Metallo; Costo +3000 mo.
+\textbf{Dettagli}: Aura Trasmutazione debole; Requisiti di Creare Oggetti Magici, Lista dell'Acqua; Costo +3000 mo.
 
 \subsubsection{Ferimento}\index{Ferimento}
 
@@ -21365,7 +21361,7 @@ Questa capacità speciale può essere aggiunta solo ad armi da mischia. Un'arma 
 
 A comando, un'arma Gelida viene avvolta da un gelo terribile che infligge 1d6 danni da freddo per ogni colpo andato a segno. Questo freddo non danneggia chi impugna l'arma. L'effetto rimane sempre attivo finché l'arma è sguainata.
 
-\textbf{Dettagli}: Aura Invocazione moderata; Requisiti di Creare Oggetti Magici Superiori, Gelare il Metallo; Costo +3000 mo.
+\textbf{Dettagli}: Aura Invocazione moderata; Requisiti di Creare Oggetti Magici Superiori, Lista dell'Acqua; Costo +3000 mo.
 
 \subsubsection{Gloriosa}\index{Gloriosa}
 
@@ -21405,7 +21401,7 @@ A comando, un'arma Infuocata viene avvolta da fiamme che infliggono 1d6 danni da
 
 Questa capacità speciale può essere aggiunta solo ad armi da mischia che normalmente infliggono Danni Non Letali, da stordimento Tutti i danni di un'arma Letale sono normali (letali). A comando, azione immediata, l'arma sopprime questa capacità finché chi la impugna non gli ordina di riattivarla.
 
-\textbf{Dettagli}: Aura Necromanzia debole; Requisiti di Creare Oggetti Magici Superiori, Infliggi Ferite Leggere; Costo +3000 mo.
+\textbf{Dettagli}: Aura Necromanzia debole; Requisiti di Creare Oggetti Magici Superiori, Cura  Ferite Leggere (invertito); Costo +3000 mo.
 
 \subsubsection{Marina}\index{Marina}
 
@@ -21427,7 +21423,7 @@ Questa capacità può essere conferita solo alle munizioni. Una munizione con qu
 
 Il prezzo si riferisce a 50 Munizioni Fantasma.
 
-\textbf{Dettagli}: Aura Trasmutazione moderata; Requisiti di Creare Oggetti Magici Superiori, Disintegrazione, Rendere Integro; Costo +1.000.
+\textbf{Dettagli}: Aura Trasmutazione moderata; Requisiti di Creare Oggetti Magici Superiori, Disintegrazione, Riparare; Costo +1.000.
 
 \subsubsection{Munizioni Infinite}\index{Munizioni Infinite}
 
@@ -21435,7 +21431,7 @@ Solo archi e balestre possono essere rese armi dalle Munizioni Infinite. Ogni vo
 
 Se chi lo impugna tenta di caricare l'arma con altre munizioni, la freccia o il quadrello creato svanisce immediatamente e si può caricare l'arma come di norma. Questa capacità non riduce l'ammontare di tempo necessario per caricare o scoccare con l'arma. La freccia o il quadrello creato svanisce se rimosso dall'arma; persiste solo se scagliato. A differenza di una normale munizione per arco o balestra, queste frecce e quadrelli vengono sempre distrutti quando scagliati.
 
-\textbf{Dettagli}: Aura Evocazione moderata; Requisiti di Creare Oggetti Magici Superiori, Creazione Minore; Costo +6000 mo.
+\textbf{Dettagli}: Aura Evocazione moderata; Requisiti di Creare Oggetti Magici Superiori, Creazione; Costo +6000 mo.
 
 \subsubsection{Pietosa}\index{Pietosa}
 
@@ -21518,7 +21514,7 @@ Gran parte delle armature e degli scudi magici hanno solo bonus, ma certi possie
 
 Uno scudo dotato di questo incantamento emana una luce accecante per un massimo di due volte al giorno su comando di chi lo impugna. Tutti coloro che si trovano entro 6 metri dallo scudo, eccetto chi lo impugna, devono superare un Tiro Salvezza su Riflessi con DC 14 o restano Accecati per 1d4 round.
 
-\textbf{Dettagli}: Aura Invocazione moderata; Requisiti di Costruzione Creare Oggetti Magici Superiori, Luce Incandescente; Costo +3000 mo.
+\textbf{Dettagli}: Aura Invocazione moderata; Requisiti di Costruzione Creare Oggetti Magici Superiori, Luce diurna; Costo +3000 mo.
 
 \subsubsection{Amorfa}\index{Amorfa}
 
@@ -21545,7 +21541,7 @@ Un'armatura Antiemorragica riduce i danni ai Punti Ferita di 1 per colpo subito 
 
 Questi scudi sono molto solidi e spesso recano l'emblema di un ariete o un toro. Quando chi indossa uno scudo ariete effettua un attacco con lo scudo come parte di una Carica, il bonus alla Difesa dello scudo si applica ai Tiri per Colpire e per i danni. Questo non si cumula con nessun altro potenziamento che possegga lo scudo. Questa capacità non è applicabile agli scudi di tipo leggero.
 
-\textbf{Dettagli}: Aura Invocazione debole; Requisiti di Costruzione Creare Oggetti Magici Superiori, Pugno di Forza; Costo +3000 mo.
+\textbf{Dettagli}: Aura Invocazione debole; Requisiti di Costruzione Creare Oggetti Magici Superiori, Costo +3000 mo.
 
 
 \subsubsection{Attaccabrighe}\index{Attaccabrighe}
@@ -21560,7 +21556,7 @@ Questa armatura respinge tutto ciò che rischia di buttare a terra chi la indoss
 
 Buttarsi a terra mentre si indossa un'armatura Bilanciata è un'azione di movimento invece di una azione immediata. La capacità Bilanciata può essere applicata ad armature leggere o medie, ma non a quelle pesanti o agli scudi.
 
-\textbf{Dettagli}: Aura Trasmutazione debole; Requisiti di Costruzione Creare Oggetti Magici, Grazia del Gatto; Costo +3000 mo.
+\textbf{Dettagli}: Aura Trasmutazione debole; Requisiti di Costruzione Creare Oggetti Magici, Costo +3000 mo.
 
 \subsubsection{Brillante}\index{Brillante}
 
@@ -21602,7 +21598,7 @@ A comando, questa proprietà permette a chi indossa l'armatura di diventare Eter
 
 \subsubsection{Invulnerabilità}\index{Invulnerabilità}
 
-Questa armatura garantisce a chi la indossa una Riduzione del Danno di 5/magia. Un armatura con Invulnerabilità emette un'\textbf{Dettagli}: Aura di Abiurazione forte.
+Questa armatura garantisce a chi la indossa una Riduzione del Danno di 5/magia. Un armatura con Invulnerabilità emette un'aura di Abiurazione forte.
 
 \textbf{Dettagli}: Aura Abiurazione forte (Invocazione se viene usato Miracolo); Requisiti di Costruzione Creare Oggetti Magici Mitici, Desiderio; Costo +15000 mo.
 
@@ -21645,19 +21641,19 @@ Un'armatura Percettiva viene in soccorso quando chi la indossa è stato Accecato
 
 Un'armatura o uno scudo con questa capacità speciale conferisce a chi lo indossa Bonus di +3 ai Tiri Salvezza contro il veleno.
 
-\textbf{Dettagli}: Aura Trasmutazione debole; Requisiti di Costruzione Creare Oggetti Magici Superiori, Neutralizza Veleno; Costo +1.125 mo.
+\textbf{Dettagli}: Aura Trasmutazione debole; Requisiti di Costruzione Creare Oggetti Magici Superiori, Rimuovi Veleno; Costo +1.125 mo.
 
 \subsubsection{Resistenza all'Energia}\index{Resistenza all'Energia}
 
 Questo tipo di armatura o scudo protegge contro un tipo di energia (Fuoco, Luce, Suono, Elettricità, Energia Positiva, Energia Negativa, Freddo, Vuoto) ed è decorata da disegni che raffigurano l'elemento dal quale protegge. L'armatura o lo scudo assorbono i primi 10 danni di energia per attacco che verrebbero subiti normalmente da chi li indossa.
 
-\textbf{Dettagli}: Aura Abiurazione debole; Requisiti di Costruzione Creare Oggetti Magici, Resistere all'Energia; Costo +9.000 mo.
+\textbf{Dettagli}: Aura Abiurazione debole; Requisiti di Costruzione Creare Oggetti Magici, Protezione dall'Energia; Costo +9.000 mo.
 
 \subsubsection{Resistenza all'Energia Superiore}\index{Resistenza all'Energia Superiore}
 
 Questo tipo di armatura o scudo protegge contro un tipo di energia (Fuoco, Luce, Suono, Elettricità, Energia Positiva, Energia Negativa, Freddo, Vuoto) ed è decorata da disegni che raffigurano l'elemento dal quale protegge. L'armatura o lo scudo concedono Resistenza all'energia indicata.
 
-\textbf{Dettagli}: Aura Abiurazione moderata; Requisiti di Costruzione Creare Oggetti Magici Superiori, Resistere all'Energia; Costo +21.000 mo.
+\textbf{Dettagli}: Aura Abiurazione moderata; Requisiti di Costruzione Creare Oggetti Magici Superiori, Protezione all'Energia; Costo +21.000 mo.
 
 \subsubsection{Selvatica}\index{Selvatica}
 
@@ -21665,7 +21661,7 @@ Un'armatura con questa capacità speciale generalmente sembra fatta di pelle ani
 
 Le armature e gli scudi con questa capacità di solito recano motivi di foglie. Mentre chi la indossa è in Forma Selvatica, l'armatura non è visibile.
 
-\textbf{Dettagli}: Aura Trasmutazione moderata; Requisiti di Costruzione Creare Oggetti Magici Superiori, Metamorfosi Funesta; Costo +15000 mo.
+\textbf{Dettagli}: Aura Trasmutazione moderata; Requisiti di Costruzione Creare Oggetti Magici Superiori, Metamorfosi; Costo +15000 mo.
 
 \subsubsection{Soffio del Dragone}\index{Soffio del Dragone}
 
@@ -21679,7 +21675,7 @@ A comando, 2 Azioni, chi lo indossa può consumare da 1 a 5 cariche dello scudo 
 
 Un'armatura con la proprietà Titanica è quasi comicamente fuori misura, anche se l'effetto è solo esteriore e l'interno accoglie una creatura come di norma, senza necessitare modifiche. Una creatura che indossa un'armatura Titanica è considerata di una categoria di taglia superiore, questo anche al fine dell'uso di oggetti ed armi o dell'essere influenzati da attacchi speciali che dipendono dalla taglia, come Inghiottire e Travolgere.
 
-\textbf{Dettagli}: Aura Trasmutazione moderata; Requisiti di Costruzione Creare Oggetti Magici Superiori, Ingrandire Persone; Costo +15000 mo.
+\textbf{Dettagli}: Aura Trasmutazione moderata; Requisiti di Costruzione Creare Oggetti Magici Superiori, Ingrandire; Costo +15000 mo.
 
 \subsubsection{Tocco Fantasma}\index{Tocco Fantasma}
 
@@ -21753,7 +21749,7 @@ Mentre alcuni oggetti maledetti possono essere semplicemente posati, altri eserc
 Questi oggetti possono essere rimossi solo dopo che sul personaggio o l'oggetto viene lanciato l'incantesimo Rimuovi Maledizione.
 
 Se l'oggetto è stato maledetto tramite l'incantesimo Scagliare Maledizione, o comunque il Narratore decide che l'oggetto ha una maledizione specifica per quel personaggio allora la Competenza Magica necessaria per rimuovere la maledizione deve essere superiore a quella di colui che l'ha lanciato.
-Eventualmente può effettuare una Prova di Magia e per ogni successo critico aggiunge 6 alla propria Competenza Magica per capire se è in grado di rimuovere la maledizione.
+Eventualmente può effettuare una Prova di Magia e per ogni successo critico aggiunge 2 alla propria Competenza Magica per capire se è in grado di rimuovere la maledizione.
 
 Se la prova ha successo, l'oggetto può essere rimosso nel round successivo, ma la maledizione rimane e colpisce nuovamente se l'oggetto viene usato un'altra volta.
 
@@ -23427,7 +23423,7 @@ L'aboleth può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi Acquatico\\
 Organizzazione: Solitario, coppia, nidiata (3-6) o branco (7-19)\\
-Tesoro: Doppio\\
+\textbf{Tesoro}: Doppio\\
 \textbf{Descrizione}\\
 Come suggerisce il loro aspetto primitivo, gli ermafroditi aboleth sono fra le più antiche forme di vita al mondo. Già antichi quando gli dei cominciarono ad interessarsi del Piano Materiale, gli aboleth hanno sempre vissuto lontani dagli altri mortali: sono alieni, freddi e sempre occupati ad intessere piani. Un tempo governavano il mondo in un vasto impero, ed oggi vedono le altre forme di vita come cibo o schiavi... a volte entrambe le cose assieme. Disprezzano gli dei, poiché ritengono di essere loro i veri signori del creato, un aboleth è lungo 7 metri e pesa circa 3,2 tonnellate. Nelle più oscure profondità del mare, gli aboleth abitano ancora nelle loro grottesche città, ciclopiche e nauseabonde. Sono serviti da innumerevoli schiavi presi da ogni nazione, sia terrestre che marina, e quelli terrestri sono doppiamente schiavi dei loro padroni e del loro muco, che permette loro di respirare sott'acqua, gli aboleth incontrati da soli sono di solito esploratori provenienti da queste città nascoste, in cerca di nuovi schiavi.\\
 
@@ -23498,7 +23494,7 @@ Nella nuova forma, il deva mantiene le sue statistiche di gioco e la facoltà di
 \textbf{Ecologia}
 Ambiente: Qualsiasi piano di con Tratti buono\\
 Organizzazione: Solitario, coppia, o squadriglia (3-6)\\
-Tesoro: Doppio (Spadone Infuocato +1, altro tesoro)\\
+\textbf{Tesoro}: Doppio (Spadone Infuocato +1, altro tesoro)\\
 \textbf{Descrizione}\\
 I deva movanici compongono i ranghi della fanteria delle armate celesti, sebbene trascorrano la maggior parte del loro tempo pattugliando il Piano Positivo, quello Negativo e quello Materiale. Sul Piano Positivo sorvegliano le anime buone erranti, e questa volta li mette in conflitto con gli Jyoti. Sul Piano Negativo combattono i non morti, gli Sceaduinar e altri strani esseri che cacciano nel famelico vuoto. Le loro rare volte sul Piano Materiale hanno solitamente lo scopo di portare aiuto a potenti mortali, quando un grande pericolo minaccia di far cadere nelle mani del male un intero regno.\\
 
@@ -23566,7 +23562,7 @@ A volontà: \emph{individuazione del bene e del male}, \emph{invisibilità} (sol
 \textbf{Ecologia}
 Ambiente: Qualsiasi piano con Tratti buono\\
 Organizzazione: Solitario o coppia\\
-Tesoro: Doppio (Spadone Sacro +3)\\
+\textbf{Tesoro}: Doppio (Spadone Sacro +3)\\
 \textbf{Descrizione}\\
 I planetar sono i generali delle armate celestiali volti alla distruzione del male. Un planetar è di norma alto 2,7 metri e pesa circa 250 kg. Sono ottimi diplomatici, ma contro gli immondi preferiscono una guerra piuttosto che negoziare una pace.\\
 
@@ -23650,7 +23646,7 @@ Il solare può effettuare 3 azioni aggiuntive, scelte tra le opzioni seguenti. P
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi piano con Tratti buono\\
 Organizzazione: Solitario o coppia\\
-Tesoro: Doppio (Armatura Completa +5, Spadone Danzante +5, Arco Lungo Composito +5 [For +9])\\
+\textbf{Tesoro}: Doppio (Armatura Completa +5, Spadone Danzante +5, Arco Lungo Composito +5 [For +9])\\
 \textbf{Descrizione}\\
 I solar sono i più potenti fra gli angeli, solitamente braccio destro di una divinità o campioni di cause che portano beneficio ad un intero mondo o piano. Un solar ha di solito aspetto quasi umano, anche se alcuni di essi somigliano ad altre razze umanoidi ed alcuni hanno anche forme più inusuali. Un solar è alto circa 2,7 metri, pesa circa 250 kg ed ha una voce profonda ed imperiosa, impossibile da ignorare. La maggior parte di essi ha pelle argentata o dorata.\\
 Benedetti con una serie di capacità magiche più potenti, i solar sono avversari terribili in grado di uccidere da soli le più potenti creature malvagie. Fra i celestiali sono considerati i più eccellenti cercatori di tracce, ed i migliori fra loro, si dice, sono in grado di seguire tracce vecchie di giorni lasciate da un Diavolo della Fossa attraverso il Piano Astrale. Alcuni di essi prendono il manto di uccisori di mostri e danno la caccia a potenti immondi e non morti come i divoratori, le megere notturne, le Ombre Notturne ed i Diavoli della Fossa, compiendo perfino incursioni nei piani  malvagi e nel Piano dell'Energia Negativa per distruggere queste creature alla fonte, prima che possano fare del male ai mortali. Alcuni fra i solar più antichi hanno portato a termine la loro missione, ed hanno fama di uccisori di creature oggi estinte.\\
@@ -23701,7 +23697,7 @@ Tutti gli angeli rispettano il potere e la saggezza dei solar, e sebbene essi te
 \textbf{Ecologia}\\
 Ambiente: Pianure temperate o calde\\
 Organizzazione: Solitario, coppia o nido (3-6)\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 Gli ankheg sono una piaga fin troppo comune per le zone rurali. Questo mostro scavatore grande come un cavallo in genere evita le zone abitate più popolose, ma la sua predilezione per la carne del bestiame e degli esseri umani li tiene lontano dalle zone disabitate. Il loro habitat favorito è rappresentato delle campagne rurali, dato che il terriccio smosso rende loro molto facile muoversi scavando. Si narra di ankheg più grandi che vivono nei deserti remoti, che si cibano di Scorpioni e Cammelli e vengono raramente in contatto con la civiltà (un ankheg del deserto è un ankheg avanzato Enorme).\\
 In combattimento, gli ankheg preferiscono attaccare con il morso. Contro più avversari, un ankheg Afferra uno dei bersagli e tenta di ritirarsi sottoterra. Una creatura trascinata sottoterra può respirare, anche se con difficoltà (anche l'ankheg deve farlo, quindi i tunnel sono abbastanza porosi), ma spesso viene mangiata viva prima che i suoi compagni possano salvarla.\\
@@ -23756,7 +23752,7 @@ Un bersaglio che riesce il Tiro Salvezza è immune al canto di quell'arpia per l
 \textbf{Ecologia}\\
 Ambiente: Paludi Temperate\\
 Organizzazione: Solitario, coppia o stormo (3-12)\\
-Tesoro: Standard (Armatura di Cuoio, Morning Star e altro tesoro)\\
+\textbf{Tesoro}: Standard (Armatura di Cuoio, Morning Star e altro tesoro)\\
 \textbf{Descrizione}\\
 Spesso viste come creature malvagie e corrotte, le arpie sanno come gli altri pensano e agiscono. Questa capacità percettiva offre loro un vantaggio nel trovare i loro pasti preferiti. Sebbene le creature selvatiche cadano facilmente vittime del canto ammaliatore, queste malvagie donne-uccello preferiscono pasti conditi con complessi pensieri senzienti. Le facili prede rendono il pasto noioso.\\
 Anche se in definitiva selvagge e senza alcun rimorso per le loro azioni, diverse arpie vivono presso le società umanoidi e si divertono a sfruttare le creature che reputano potenziali pasti.\\
@@ -23813,7 +23809,7 @@ Le arpie sono marcatamente differenti a seconda della regione in cui vivono. Alc
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi terreno (Piano del Fuoco)\\
 Organizzazione: Solitario, coppia, gruppo (3-6), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o clan (30-100 più 50\% di non combattenti più 1 sergente di 3° livello ogni 20 adulti, 5 tenenti di 5° livello e 3 capitani di 7° livello)\\
-Tesoro: Standard (Corazza a Scaglie Perfetta, Martello da Guerra Perfetto, Martello Leggero, altro tesoro)\\
+\textbf{Tesoro}: Standard (Corazza a Scaglie Perfetta, Martello da Guerra Perfetto, Martello Leggero, altro tesoro)\\
 \textbf{Descrizione}\\
 Una Razza orgogliosa e industriosa proveniente dal Piano del Fuoco, gli Azer lavorano nelle loro fortezze di bronzo e d'ottone, sempre pronti a combattere la loro lunga e ribollente guerra contro gli Efreet. Gli Azer vivono in una società in cui ogni membro sa qual è il suo posto. Nati con specifici doveri, solitamente legati alle attività del padre o della madre, gli Azer si dedicano a queste occupazioni per tutta la vita. Un sistema di caste provvede a tenere ulteriormente in riga la società Azer. I nobili, che regnano senza dover rendere conto a nessuno, indossano kilt di ottone decorato come simbolo della loro casta, mentre quelli dei mercanti e dei proprietari di negozi sono in resistente bronzo. I kilt di rame sono indossati dalla casta lavoratrice, composta da servitori, artigiani e braccianti.\\
 Capaci di incanalare calore tramite le Armi e gli attrezzi in metallo, gli Azer non utilizzano quasi mai Armi non metalliche, e prediligono il corpo a corpo agli attacchi a distanza. Sono soliti fare prigionieri, riportandoli alle loro fortezze e obbligandoli a lavorare per loro per un anno e un giorno.\\
@@ -23864,7 +23860,7 @@ Se il basilisco si trova entro 9 metri dal suo riflesso a luce intensa e lo vede
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario, coppia o colonia (3-6)\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 Il basilisco, spesso chiamato "Re dei Serpenti" è un rettile a otto zampe di indole aggressiva che ha la capacità di trasformare le creature in pietra con il suo sguardo. La leggenda narra che, come la Cockatrice, i primi basilischi nacquero da uova deposte da serpenti e covate da galli, ma ben poco nella fisiologia del basilisco lascia spazio a questa teoria.\\
 I basilischi vivono in quasi tutti gli ambienti asciutti, dalla foresta al deserto, e la loro pelle tende a rispecchiare l'ambiente che li circonda: un basilisco del deserto può essere bronzeo o marrone, mentre uno che vive nelle foreste può essere di colore verde acceso. Tendono a usare come rifugio le grotte, le tane o altre zone riparate. Questi rifugi sono spesso segnalati da statue raffiguranti persone e animali in pose naturali, che non sono altro che i resti pietrificati degli sventurati imbattutisi in un basilisco.\\
@@ -23926,7 +23922,7 @@ Se il behir subisce 30 o più danni in un singolo turno da una creatura che ha i
 \textbf{Ecologia}\\
 Ambiente: Colline e Deserti Caldi\\
 Organizzazione: Solitario o coppia\\
-Tesoro: Doppio\\
+\textbf{Tesoro}: Doppio\\
 \textbf{Descrizione}\\
 Istintivo e bramoso, il behir trascorre gran parte del tempo a strisciare per le colline sabbiose e le rocce del deserto che formano il suo territorio, dando la caccia a tutte le creature che osano entrare nel suo territorio. Le sue sei paia di zampe robuste e dotate di artigli restano piegate ai suoi fianchi per gran parte del tempo, e si stendono solo in combattimento per afferrare i nemici, per Correre al galoppo o per Scalare i pendii delle scogliere a picco, tane di queste creature.\\
 In media il behir è lungo 12 metri e pesa circa 1800 Kg. Oltre alle due corna prominenti sulla testa, molti hanno aculei decorativi a intervalli regolari lungo la spina dorsale.\\
@@ -23982,7 +23978,7 @@ dall'attacco.
 \textbf{Ecologia}\\
 Ambiente: Montagne temperate\\
 Organizzazione: Solitario, coppia, gruppo (3-6) o banda da guerra (7-12 più 2 Guerrieri di 1° livello e 1 capitano di 3°-5° livello)\\
-Tesoro: Equipaggiamento da PNG (Armatura di Cuoio, Scudo Leggero di Legno, Morning Star, 3 Giavellotti, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Armatura di Cuoio, Scudo Leggero di Legno, Morning Star, 3 Giavellotti, altro tesoro)\\
 \textbf{Descrizione}\\
 Il bugbear è il più grande degli esponenti della razza Goblinoide, un bruto dai movimenti pesanti che supera di almeno una testa la maggior parte degli Umani. Sono solitari che preferiscono vivere ed uccidere da soli piuttosto che in tribù, sebbene non sia insolito trovare una piccola banda di Bugbear che collabora o vive con una tribù di Goblin od Hobgoblin fungendo da guardia d'élite o carnefici.\\
 I bugbear non formano grandi insediamenti come i goblin o nazioni come gli hobgoblin; preferiscono qualcosa di più piccolo e caotico che li lasci liberi di fare quello che preferiscono (uccidere e torturare) a un livello più personale. Gli umani sono le prede preferite dei bugbear, e la maggior parte di essi annovera la carne umana come uno degli alimenti principali della propria dieta. Macabri trofei quali orecchie e dita sono decorazioni comuni tra i bugbear.\\
@@ -24033,7 +24029,7 @@ Un tipico bugbear è alto 2,1 metri e pesa 200 kg.\\
 \textbf{Ecologia}\\
 Ambiente: Colline Temperate\\
 Organizzazione: Solitario o coppia\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Creazione di uno sconosciuto mago del passato, il bulette ora è diventato un feroce predatore di collina. Scavando rapidamente sotto il terreno, fende la superficie con la sua pinna dorsale lasciandosi dietro una scia caratteristica. Il bulette balza fuori, liberandosi da pietre e terriccio, per fare a pezzi la sua preda senza rimorsi, dando così origine al suo soprannome di "squalo terrestre".\\
 I bulette sono noti per il pessimo carattere, e attaccano creature molto più grandi di loro senza alcuna paura. Bestie solitarie tranne per le occasionali coppie in fase riproduttiva, passano la maggior parte del tempo pattugliando i loro territori, che possono superare i 4 km2, cacciando e punendo gli intrusi con una furia in grado di scuotere i pendii delle colline.\\
@@ -24093,7 +24089,7 @@ portata 1 m, un bersaglio.
 \textbf{Ecologia}\\
 Ambiente: Pianure e foreste temperate\\
 Organizzazione: Solitario, coppia, banda (3-10), tribù (11-30 più 3 cacciatori di 3° livello e 1 capo di 6° livello)\\
-Tesoro: Standard (Corazza di Piastre, Scudo Pesante di Metallo, Spada Lunga, Lancia, altro tesoro)\\
+\textbf{Tesoro}: Standard (Corazza di Piastre, Scudo Pesante di Metallo, Spada Lunga, Lancia, altro tesoro)\\
 \textbf{Descrizione}\\
 Leggendari cacciatori e abili guerrieri, i centauri sono in parte uomini e in parte cavalli. Generalmente collocata ai margini della civilizzazione, questa stoica popolazione varia enormemente come aspetto: di solito il colore della pelle è molto abbronzato ma simile a quello degli umani delle regioni limitrofe, mentre la parte inferiore del corpo ha le tonalità degli equini locali. Hanno capelli e occhi di colore scuro e i tratti del volto piuttosto marcati, mentre la loro stazza totale dipende dalla taglia del cavallo di cui hanno la parte inferiore del corpo. Quindi, anche se un centauro medio è alto in piedi 2,1 metri e pesa più di 1.000 kg, esistono molteplici varianti regionali, dagli esili corridori delle pianure ai massicci cacciatori di montagna.\\
 I centauri vivono in media circa 60 anni. Distanti dalle altre razze e in conflitto con gli altri della loro specie, i centauri sono una razza antica che lentamente comincia ad accettare il mondo moderno. Anche se la maggioranza dei centauri vive ancora in tribù vagando per vaste pianure o ai margini di mistiche foreste, alcuni hanno abbandonato i modi isolazionisti dei loro antenati per stabilirsi in città cosmopolite. Spesso questi spiriti liberi sono considerati dei reietti e vengono disprezzati dalle loro tribù, e pertanto la decisione di abbandonarle è una scelta pesante. In alcuni casi, comunque, intere tribù guidate da capi progressisti hanno cominciato a commerciare o stringere alleanze con altre comunità di umanoidi, specie Elfi, a volte Gnomi, e più raramente Umani o Nani. Molte razze rimangono caute nei confronti dei centauri, però, per lo più a causa di leggende che li ritraggono come creature territoriali e feroci e dei periodici scontri violenti che essi hanno con i coloni testardi e i paesi in via di espansione.\\
@@ -24150,7 +24146,7 @@ I centauri vivono in media circa 60 anni. Distanti dalle altre razze e in confli
 \textbf{Ecologia}\\
 Ambiente: Colline Temperate\\
 Organizzazione: Solitario, coppia, branco (3-6) o stormo (7-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Le chimere sono mostruose creature nate dal male primordiale. Odiose e fameliche, cacciano sia a terra che in aria. La testa di drago di una chimera può essere di qualunque tipo di drago malvagio, con il soffio corrispondente e le ali generalmente dotate delle stesse scaglie della testa. Le chimere parlano con tre voci che si sovrappongono, ma lo fanno raramente, tipicamente solo per adulare una creatura più potente. Una chimera è alta al garrese 1 metro, raggiungendo la lunghezza di 3 metri e il peso di 350 kg.\\
 Le chimere preferiscono la carne, ma possono sopravvivere di vegetali se necessario (anche se quando sono costrette a farlo il loro umore peggiora ulteriormente). Il fatto che volino significa che possono scegliere con attenzione le loro prede, e generalmente cacciano in vaste aree cercando quelle facili. Sono troppo stupide e belligeranti per acquisire seguaci, anche se a volte una tribù di coboldi può far loro delle offerte. Al contrario, sono abbastanza intelligenti e caparbie da essere mediocri animali domestici, e solo una creatura molto più potente di loro può riuscire a sottometterle. Possono formare collaborazioni paritarie con umanoidi rispettosi o creature simili, e acconsentono anche ad essere usate come cavalcature. Un branco di chimere ha una gerarchia simile a quella dei leoni, con un maschio dominante che comanda il gruppo e la maggior parte delle cacce svolte dalle femmine. Una chimera solitaria può essere un giovane maschio solitario o una femmina con i cuccioli nelle vicinanze.\\
@@ -24208,7 +24204,7 @@ parlare
 \textbf{Ecologia}\\
 Ambiente: Paludi Temperate\\
 Organizzazione: Solitario, coppia o branco (3-6)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I chuul sono predatori corazzati simili ai crostacei, sempre in agguato sotto la superficie degli stagni e dei pantani poco profondi, che escono dal loro nascondiglio per afferrare le loro prede con le loro chele e poi paralizzarle con i tentacoli della bocca prima di mangiarle vive.\\
 I chuul sono eccellenti nuotatori, ma preferiscono attaccare le creature terrestri o abituate ad acque poco profonde. Una volta afferrate le loro vittime, i chuul spesso le trascinano nell'acqua profonda. I lucertoloidi sono le prede preferite dei chuul, anche se le pallide specie di chuul che vivono nei sotterranei preferiscono morlock, duergar, incauti elfi e altri sfortunati che si avvicinano troppo ai loro corsi d'acqua sotterranei, ad eccezione dei trogloditi il cui sapore i chuul trovano particolarmente disgustoso.\\
@@ -24262,7 +24258,7 @@ portata 1 m, un bersaglio.
 \textbf{Ecologia}\\
 Ambiente: Foreste temperate o sotterranei\\
 Organizzazione: solitario, gruppo (2-4), nido (5-30 più un ugual numero di non combattenti, 1 sergente di 3° livello ogni 20 adulti e 1 capo di 4°-6° livello) o tribù (31-300 più di 35\% di non combattenti, 1 sergente di 3° livello ogni 20 adulti, 2 tenenti di 4° livello, 1 capo di 6°-8° livello e 5-16 Ratti Crudeli)\\
-Tesoro: Equipaggiamento da PNG (Armatura di Cuoio, Lancia, Fionda, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Armatura di Cuoio, Lancia, Fionda, altro tesoro)\\
 \textbf{Descrizione}\\
 I coboldi sono creature dell'oscurità, che si incontrano più facilmente in enormi dedali sotterranei o negli angoli bui delle foreste dove il sole non batte mai. A causa della somiglianza fisica, i coboldi si proclamano a gran voce eredi della stirpe draconica e destinati a governare la terra sotto l'ala dei loro grandi cugini divini, ma la maggior parte dei draghi li considera poco più che insetti fastidiosi. Ma, anche se proclamano discendenze divine e l'evidenza del loro destino, i coboldi sono consapevoli della loro debolezza. Codardi ed intriganti, non lottano mai apertamente se possono evitarlo, tendendo invece imboscate e trappole, rintanandosi nei loro dedali dietro una coltre di rozzi ma ingegnosi trabocchetti, o rovesciandosi sul nemico in vaste orde ululanti.\\
 La tonalità dei coboldi varia anche tra i fratelli della stessa covata, spaziando tra i colori dei draghi cromatici, con una predominanza del rosso, e più di rado bianco, verde, blu e nero.\\
@@ -24305,7 +24301,7 @@ La tonalità dei coboldi varia anche tra i fratelli della stessa covata, spazian
 \textbf{Ecologia}\\
 Ambiente: Pianure temperate\\
 Organizzazione: Solitario, coppia, squadriglia (3-5) o stormo (6-12)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Stupide, malevole e repellenti, le cockatrici sono evitate dalle altre creature per la loro capacità di trasformare la carne in pietra. Le leggende affermano che la prima cockatrice emerse da un uovo deposto da un gallo e covato da un rospo. Che questa storia sia vera o no, le cockatrici odierne si riproducono fra loro in tane terrificanti e sporche scavate a casaccio da almeno una dozzina di creature chioccianti. I maschi sono molto più numerosi delle femmine in questi stormi, e si distinguono solo per barbigli e creste. Una tipica cockatrice è alta poco più di 60 centimetri e pesa 2,5 kg.\\
 Anche se la loro dieta consiste principalmente di semi e insetti pietrificati (che nello stomaco della creatura fungono sia da gastroliti che da nutrimento), le cockatrici difendono ferocemente il loro territorio da tutto ciò che ritengono una minaccia, e i vagabondaggi dei maschi raminghi in cerca di nuovi luoghi dove costruire tane a volte li portano ad involontari contatti con gli umani, con risultati devastanti.\\
@@ -24373,7 +24369,7 @@ Nella nuova forma, il couatl mantiene le sue statistiche di gioco e la facoltà 
 \textbf{Ecologia}\\
 Ambiente: foreste calde\\
 Organizzazione: Solitario, coppia o stormo (3-6)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I couatl sono servitori di divinità legali buone, anche se alcuni operano in maniera indipendente da qualsiasi entità superiore. Rispettati ed ammirati per la loro saggezza e bellezza, cercano di portare i mortali sulla retta via e usano i loro poteri per combattere il male, specie quelli noti per viaggiare tra i piani. Alcuni couatl sono visti come divinità benevole da società isolate e, anche se i couatl rabbrividiscono al solo pensiero di fingere di essere una divinità, consentono che si perpetuino questi malintesi poiché permettono loro di guidare queste società su sentieri di pace e cooperazione con i loro vicini. Un couatl è lungo circa 3,6 metri, con un'apertura alare di circa 5 metri e pesa 900 kg.\\
 Come esterni nativi, i couatl devono mangiare. Preferiscono gli stessi alimenti dei veri serpenti, come mammiferi e uccelli, anche se è noto che divorano gli umanoidi malvagi. Poiché preferiscono passare il tempo a perseguire i loro intenti anziché cacciare, apprezzano le offerte di cibo, in particolare piccoli cinghiali e volatili. Un couatl talvolta mostra il suo apprezzamento a un avventuriero o a un gruppo che gli ha reso un servizio donandogli 1d4 delle sue brillanti piume colorate. Queste piume ottenute gratuitamente, se usate come componente materiale aggiuntivo, permettono ad un incantatore che lancia Alleato Planare di evocare quello specifico couatl senza pagare il normale costo in oro o altri valori, a condizione che il couatl approvi il servizio richiesto dall'incantatore.\\
@@ -24430,7 +24426,7 @@ Come esterni nativi, i couatl devono mangiare. Preferiscono gli stessi alimenti 
 \textbf{Ecologia}\\
 Ambiente: Foreste o Paludi Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I cumuli striscianti, chiamati anche soltanto striscianti, sembrano masse vegetali in decomposizione. Sono piante carnivore intelligenti, con un debole per la carne elfica. Il cervello e gli organi sensoriali si trovano nella parte superiore del corpo. Di solito i cumuli striscianti hanno una circonferenza di 2,4 metri e sono alti da 1,8 a 2,7 metri. Pesano circa 1.900 kg.\\
 I cumuli striscianti sono strane creature, più simili a un groviglio di rampicanti parassiti che ad una singola pianta dotata di radici. Sono onnivori, capaci di trarre sostentamento da qualsiasi cosa, avvinghiandosi agli alberi per succhiarne la linfa, inserendo le radici nel terreno per assorbire nutrienti semplici o consumando la carne e le ossa dalle prede.\\
@@ -24503,7 +24499,7 @@ Di solito i cumuli striscianti conducono un'esistenza nomade e solitaria in prof
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario o banda di guerra (1 Balor e 2-5 Glabrezu)\\
-Tesoro: Standard (Spada Lunga Sacrilega+1, Frusta Infuocata+1, altro tesoro)\\
+\textbf{Tesoro}: Standard (Spada Lunga Sacrilega+1, Frusta Infuocata+1, altro tesoro)\\
 \textbf{Descrizione}\\
 Quando la gente sussurra terrificanti racconti di creature demoniache, immagina per lo più un'imponente figura di fuoco e carne, un incubo cornuto armato di frusta e spada fiammeggianti, che vola nella notte in cerca delle sue prede. Il demone che queste persone temono è il Balor, e questa paura è pienamente giustificata, dal momento che pochi demoni possono eguagliare il possente Balor in forza o in brutalità.\\
 Nell'Abisso, i Balor sono per lo più al servizio dei signori dei demoni, in qualità di generali o capitani (quando non si tratti di balor estremamente potenti, noti come signori dei balor). Un balor solitamente comanda vaste legioni di demoni e, sebbene spesso consenta a questi servi bramosi e sbavanti di combattere le sue battaglie, è tutt'altro che un codardo. Se si presenta l'opportunità di unirsi ad uno scontro, sono pochi i balor che scelgono di trattenersi.\\
@@ -24563,7 +24559,7 @@ Un Balor è alto 4,2 metri e pesa 2.250 kg. Solo le anime mortali più crudeli p
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario, coppia, banda (3-5), gruppo (6-12) o folla (13+)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Anche il più infimo demone dell'Abisso è pericoloso e possiede la necessità impellente di spargere rovina e sgomento. Il miserabile dretch è tanto orripilante e fetido quanto crudele, anche se non possiede la forza ed il potere per riuscire a soddisfare la sua voglia di brutalizzare gli altri nel suo reame nativo. Lo scopo dell'esistenza dei dretch è quello di servire demoni più potenti come vittime sacrificabili, e solo pochi fortunati riescono a sopravvivere abbastanza a lungo da evolversi.\\
 I dretch sono i bersagli preferiti dai dilettanti in evocazioni abissali. Relativamente deboli e facili da intimorire, i dretch spesso possono essere obbligati a lunghi periodi di servitù utilizzando vaghe promesse di opportunità di sfogare le loro frustrazioni e la loro rabbia contro avversari più deboli. Eppure il potenziale evocatore di dretch farebbe meglio a ricordarsi che questi demoni sono codardi ed infidi quanto gli altri demoni. Un dretch che si trova di fronte un nemico più potente sarà assai lieto di scambiare qualsiasi informazione di cui disponga in cambio della sua miserevole vita.\\
@@ -24632,7 +24628,7 @@ A volontà: \emph{dissolvi magie, individuazione del magico, oscurità}
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario o drappello (1 glabrezu, 1 Succube e 2-5 Vrock)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Mentre la Succube è un demone che adesca la sua preda sfruttandone i desideri e le necessità carnali, il glabrezu è un tentatore di altro genere. Feroce e dalla forma bestiale, il glabrezu è in realtà un maestro di inganni e bugie. Con la sua abilità di nascondere la sua vera forma dietro piacenti illusioni, usa la sua magia per esaudire i desideri degli umanoidi mortali, come forma di ricompensa per coloro che soccombono ai suoi inganni e raggiri. Un desiderio esaudito da un glabrezu appaga la necessità di chi lo esprime nel modo più rovinoso possibile, sebbene queste conseguenze possano non rivelarsi immediatamente tali. Un fabbro che fatica ad affermarsi potrebbe desiderare fama ed abilità nella professione scelta, solo per scoprire che il suo miglior patrono è un crudele e sadico omicida che usa le armi per promuovere i propri distruttivi desideri. Un uomo solo che esprime il desiderio di avere una compagna, potrebbe vedere il suo desiderio avverarsi con una sua vecchia fiamma ritornata alla "vita" in forma di vampiro, ed altri esempi di questo tipo. Il glabrezu è assai creativo nel soddisfare i desideri di un mortale.\\
 Un glabrezu è alto 5,4 metri e pesa poco più di 3.000 kg. Questi perfidi demoni si originano dalle anime dei traditori, dei falsi e dei sovversivi: anime di mortali che, in vita, giurarono il falso o utilizzarono il tradimento e l'inganno per rovinare le vite altrui.\\
@@ -24695,7 +24691,7 @@ Un glabrezu è alto 5,4 metri e pesa poco più di 3.000 kg. Questi perfidi demon
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario o banda (2-4)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 l'hezrou vive nelle vaste paludi, acquitrini e corsi d'acqua dell'Abisso, a suo agio sia nell'acqua che sulla terraferma. La presenza di un hezrou ha un effetto dannoso su flora, causando nodosità e mutazioni, e acque circostanti, rendendole maleodoranti e dal sapore salmastro, peculiarità più facilmente individuabili nel Piano Materiale che nell'Abisso. L'esposizione prolungata a questa corruzione causa orrende trasformazioni e deformità. Spesso intere comunità isolate di mutanti deformi devono il loro aspetto contorto non tanto ai loro depravati costumi quanto alla vicinanza di un hezrou.\\
 Sebbene sia abbastanza intelligente, si può onestamente dire che un hezrou sprechi il proprio intelletto. Questi esseri preferiscono i piaceri più semplici: dormire, il gusto della tortura, la beatitudine di cibarsi di carne vivente o la gioia di sentire qualcosa di bello rompersi e sbriciolarsi nella stretta dei loro pugni. Non cercano spesso di costruire imperi o porsi alla testa di culti, sebbene pochi hezrou rifiuterebbero potenziali seguaci che vengano ad offrirglisi di loro spontanea volontà.\\
@@ -24765,7 +24761,7 @@ Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che 
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario, coppia o plotone (1 marilith, 1-3 Glabrezu e 3-14 Babau)\\
-Tesoro: Doppio (6 Spade Lunghe, altro tesoro)\\
+\textbf{Tesoro}: Doppio (6 Spade Lunghe, altro tesoro)\\
 \textbf{Descrizione}\\
 Sovrane di orde demoniache e regine di nazioni abissali, le temibili marilith servono i signori dei demoni come governanti, consigliere e persino amanti, eppure la loro supremazia come strateghe le rende particolarmente richieste come generali e comandanti d'armate. Le marilith più potenti non sono al servizio di nessuno e comandano invece fameliche legioni demoniache.\\
 Una marilith è alta da 1,8 a 2,7 metri, lunga 6 metri dalla testa alla punta della coda, e pesa 2.000 kg. Solo le anime malvagie più arroganti ed orgogliose, solitamente quelle di crudeli sovrani, sadici generali e signori della guerra particolarmente violenti, possono causare la nascita di una marilith.\\
@@ -24831,7 +24827,7 @@ Orrore del demone gemente per le successive 24 ore.
 \textbf{Ecologia}
 Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario o banda di guerra (1 nalfeshnee, 1 Hezrou e 2-5 Vrock)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Sono pochi i demoni che comprendono le meccaniche interne che regolano l'Abisso come i nalfeshnee, e non è raro che questi demoni servano l'Abisso stesso invece che un signore dei demoni. Alcuni sovrintendono i reami organici che generano i nuovi demoni, mentre altri custodiscono luoghi di particolare importanza nei recessi nascosti del piano. Spesso il regno di un nalfeshnee nell'Abisso è superiore per forze e dimensioni al più grande dei regni mortali, in quanto questi demoni hanno una predisposizione naturale a governare ed imporre una sorta di ordine al caos dell'Abisso. Gli evocatori mortali spesso li richiamano per il loro folle ma impareggiabile intelletto, esaminando accuratamente gli accordi presi con questi demoni onde evitare eventuali conseguenze nascoste e risvolti non voluti, in quanto un nalfeshnee raramente accetta qualcosa che, in qualche modo contorto, non gli consenta di soddisfare le necessità ed i desideri dell'Abisso.\\
 I nalfeshnee sono alti 6 metri e pesano 4.000 kg. Sono creati dalle anime di malvagi mortali avari o bramosi, in particolare di coloro che hanno regnato su imperi di schiavitù, furto, brigantaggio e altri vizi ancora più violenti.\\
@@ -24889,7 +24885,7 @@ avvelenato
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario o stormo (2-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Il quasit è forse il demone meno potente, ma non è tra i meno rispettati: persino i quasit si ritengono superiori alle orde di Dretch e, fedeli alla propria natura, i Dretch mancano del coraggio o degli stimoli necessari a dimostrare loro che si sbagliano. Il ruolo primario in vita di un quasit è quello di famiglio al servizio di un incantatore, ma quei quasit che sfuggono a questa umiliante servitù acquisiscono una volontà propria e sono molto più pericolosi. Un quasit tipico è alto 45 centimetri e pesa solo 4 kg.\\
 Unici tra le orde demoniache, i quasit non nascono dalle anime di malvagi mortali deceduti, ma da anime viventi: quando un incantatore cerca di richiamare a sé un quasit come famiglio, la sua anima sfiora l'Abisso ed esso reagisce, creando dalla sua materia un quasit collegato all'anima dell'incantatore e generando un potente legame tra i due.\\
@@ -24954,7 +24950,7 @@ Raramente un quasit decide di ignorare la morte del proprio padrone e di rimaner
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario, coppia o banda (3-10)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Profani campioni dell'Abisso, i vrock incarnano tutta la rabbia, l'odio e la violenza di questo reame. Tanto voraci e grottescamente opportunisti quanto il saprofago a cui assomigliano, i vrock si deliziano nello spargimento di sangue, godendo del suono e delle sensazioni derivanti dallo strappare gli intestini ancora pulsanti da una creatura vivente.\\
 Un vrock tipico è alto 2,4 metri e pesa 200 kg. Queste creature solitamente si originano dalle anime di malvagi mortali colmi di odio e di collera, in particolare coloro che erano criminali professionisti, mercenari o assassini.\\
@@ -25004,7 +25000,7 @@ Un vrock tipico è alto 2,4 metri e pesa 200 kg. Queste creature solitamente si 
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Abaddon)\\
 Organizzazione: Solitario\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature più malvagie di cavalcarli, e non sono mai soltanto cavalcature, ma correi nella distruzione provocata dai loro cavalieri.\\
 
@@ -25069,7 +25065,7 @@ Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Inferno)\\
 Organizzazione: Solitario, coppia, squadra (3-10) o truppa (10-40)\\
-Tesoro: Standard (Falcione, altro tesoro)\\
+\textbf{Tesoro}: Standard (Falcione, altro tesoro)\\
 \textbf{Descrizione}\\
 Guerrieri scelti delle legioni infernali, i diavoli barbuti, o barbazu, combattono selvaggiamente in nome dei loro signori infernali e in battaglia comandano orde brutali di dannati. Si radunano e si addestrano con i loro falcioni forgiati negli inferi, tra le volte del terzo girone dell'Inferno, Erebo, ma ritornano inevitabilmente nel primo girone, Averno, per servire al fianco del temibile signore Barbatos.\\
 I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di mantenere una distanza di 3 metri tra loro ed i loro avversari, così che possono utilizzare le loro caratteristiche armi ad asta con la massima efficacia. Contro un avversario che ha una portata superiore (oppure è in grado di evitare la tattica preferita del diavolo), gettano i falcioni e si affidano ai loro artigli ed alle orribili barbe. In posizione eretta i diavoli barbuti sono alti più di 1,8 metri (sebbene la posizione accovacciata che tengono in battaglia li faccia spesso sembrare più bassi) e pesano più di 100 kg.\\
@@ -25134,7 +25130,7 @@ Ogni catena animata è un oggetto con Difesa 20, 20 Punti Ferita, resistenza ai 
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario, coppia, anello (3-6) o catena (7-20)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}
 Spesso classificati dai profani tra le fila dei diavoli infernali, i sadomasochistici non sono veri diavoli. Anche se alcuni sono noti per vivere all'Inferno, essi esistono al di fuori delle gerarchie stabilite dagli dei degli inferi e dai suoi arcidiavoli e a volte si possono trovare su altri piani, in particolare sul Piano delle Ombre. Molti suggeriscono che siano nativi dell'Inferno che esisteva prima dell'avvento della stirpe diabolica, anche se altri ipotizzano che siano stati portati sul piano da qualche sadica potenza. Indipendentemente dalle loro origini vagano per i piani assecondano il loro desiderio di causare e ricevere sofferenza, ricercando il dolore attraverso violenti rapimenti e sadiche depravazioni.\\
 
@@ -25203,7 +25199,7 @@ riesce.
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Inferno)\\
 Organizzazione: Solitario, coppia o stormo (3-10)\\
-Tesoro: Standard (Catena Chiodata Sacrilega+1, altro tesoro)\\
+\textbf{Tesoro}: Standard (Catena Chiodata Sacrilega+1, altro tesoro)\\
 \textbf{Descrizione}\\
 Tra i più letali guerrieri degli arcidiavoli ed abili comandanti dei diavoli minori, i diavoli cornuti divulgano le regole dell'Inferno dovunque passano. Questi diavoli maggiori sono addestrati, forgiati e riforgiati per essere tra i più implacabili ed obbedienti guerrieri del multiverso. I diavoli cornuti delle truppe degli eserciti infernali sono noti come cornugon, mentre i più grandi tra loro sono chiamati malebranche.\\
 Un diavolo cornuto tipico raggiunge la ragguardevole altezza di 2,7 metri, è dotato di ali con un'apertura di 4,2 metri, e pesa 350 kg.\\
@@ -25280,7 +25276,7 @@ A volontà: \emph{individuazione del magico, palla di fuoco}
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Inferno)\\
 Organizzazione: Solitario, coppia o concilio (3-9)\\
-Tesoro: Doppio\\
+\textbf{Tesoro}: Doppio\\
 \textbf{Descrizione}
 Sovrani di reami infernali, generali delle armate dell'Inferno e consiglieri degli arcidiavoli, i diavoli della fossa sono la personificazione del terribile e spaventoso apice della razza diabolica.\\
 Massicci, dal fisico indomito e dotati di ingegnosi intelletti malvagi, questi diabolici tiranni possiedono grande autonomia sia al servizio degli arcidiavoli che nella loro sovranità su distese infernali di schiavi o quando sono impegnati a soggiogare i mondi mortali. Solidi muscoli si tendono sui loro giganteschi corpi, corazzati da spesse placche taglienti capaci di bloccare quasi tutti gli attacchi. Le fauci dotate di zanne grandi come pugnali ed i loro volti bestiali nascondono alcune tra le menti più insidiose dell'Inferno.\\
@@ -25427,7 +25423,7 @@ Il muro rimane per 1 minuto o finché il diavolo non è reso inabile o muore. Il
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Inferno)\\
 Organizzazione: Solitario, squadra (2-3), concilio (4-10) o contingente (1-3 diavoli del ghiaccio, 2-6 diavoli cornuti e 1-4 diavoli d'ossa\\
-Tesoro: Standard (Lancia Gelida+1, altro tesoro)\\
+\textbf{Tesoro}: Standard (Lancia Gelida+1, altro tesoro)\\
 \textbf{Descrizione}\\
 Strateghi illuminati delle armate dell'Inferno, gli insettoidi diavoli del ghiaccio sono tra le menti più ingegnose e crudeli nelle legioni dell'inferno. Noto come gelugon tra le fila dei diavoli, un diavolo del ghiaccio nasconde nel suo petto un cuore ghiacciato trafugato ad un mortale, che gli permette di prendere decisioni libero da emozioni. Nati nel girone ghiacciato di Cocito, il settimo girone infernale, la maggior parte dei diavoli del ghiaccio migra a Caina, l'ottavo girone, dove complotta per dannare il mondo da corti di gelido acciaio. Sebbene abbiano le sembianze più aliene e mostruose tra tutti i diavoli, a pochi altri viene accordato un maggiore rispetto.\\
 In combattimento un gelugon manda avanti i suoi sottoposti, così da poter valutare le tattiche, i punti di forza e le debolezze dell'avversario nelle retrovie, e fornire loro supporto con le sue capacità magiche, evitando di coglierli nell'area di effetto dei suoi incantesimi: atteggiamento non dovuto ad un senso di cameratismo, bensì alla fredda e logica verità che i suoi alleati possono sopravvivere più a lungo in uno scontro se non sono esposti a fuoco amico.\\
@@ -25495,7 +25491,7 @@ I gelugon sono alti 3,6 metri e pesano approssimativamente 350 kg.\\
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Inferno)\\
 Organizzazione: Solitario, coppia, gruppo (3-5) o plotone (6-11)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Sentinelle delle volte dell'Inferno, carcerieri delle anime più nere e armi viventi delle forge infernali, i diavoli uncinati, noti ai diabolisti come hamatula, impongono ai dannati i loro ceppi e custodiscono il nefasto operato dei diavoli maggiori. Un hamatula ama sentire il sangue caldo sulle proprie spine e preferisce gettarsi nella mischia quando gli viene offerta l'opportunità di combattere.\\
 Gli hamatula sono collezionisti ed organizzatori, e sono gli alleati favoriti di bramosi evocatori, dal momento che spesso portano con sé tesori tentatori dalle volte dell'Inferno o conoscono il sentiero per ottenere mortali ricchezze. Se lasciati agire liberamente, nei nascondigli di questi diavoli spesso fanno mostra i trofei trafitti di vecchie vittime, appesi come perverse collezioni di insetti su muri insanguinati.\\
@@ -25561,7 +25557,7 @@ La maggior parte dei diavoli uncinati è alta dai 2,1 metri in su e pesa 150 kg,
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Inferno)\\
 Organizzazione: Solitario o trio\\
-Tesoro: Triplo (Arco Lungo Composito Infuocato+1 [Forza +5], corda, Spada Lunga+1)\\
+\textbf{Tesoro}: Triplo (Arco Lungo Composito Infuocato+1 [Forza +5], corda, Spada Lunga+1)\\
 \textbf{Descrizione}\\
 Note con molti nomi, i Caduti, le Ali Cineree e le Furie, i diavoli conosciuti come erinni insultano la loro forma angelica con la loro brama di vendetta e sanguinosa giustizia. Carnefici, non giudici, le erinni volteggiano sopra i cornicioni affilati come lame di Dite, il secondo girone cosmopolita dell'Inferno, sempre attente a cogliere ogni occasione di battaglia, che sia a difesa dell'inferno, per il capriccio dei loro diabolici signori o per l'appassionata chiamata di capricciosi evocatori mortali. Tutte le erinni intrecciano con i loro stessi capelli letali corde viventi, che utilizzano in battaglia per intralciare e sollevare in aria i loro nemici, schernendoli e condannandoli per le loro trasgressioni prima di lasciarli precipitare da grandi altezze.\\
 Le erinni sono angeli bellissimi ed oscuri che accrescono deliberatamente la propria sensualità con cicatrici e lividi. Eppure, nonostante la loro bellezza, le erinni non sono seduttrici: mancano loro la sottigliezza e la pazienza richieste per questa raffinata arte emotiva, poiché preferiscono risolvere i loro problemi con atti di rapida ed atroce violenza. Spesso una erinni tratterrà il suo colpo mortale mentre tenta di uccidere un nemico, solo per prolungarne le sofferenze. La morte è in genere l'unico modo per sfuggire alle attenzioni di una erinni, e quelle più potenti sono abilissime nel tenere i loro nemici in vita ma inermi, così da prolungare il loro tormento, arrivando addirittura a mantenerli vivi con la magia. Si dice che le più potenti torturatrici erinni siano dotate di capacità che permettono alle sofferenze da loro inflitte di perdurare anche dopo la morte del soggetto.\\
@@ -25623,7 +25619,7 @@ La maggior parte delle erinni è alta poco meno di 1,8 metri e pesa circa 70 kg,
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Inferno)\\
 Organizzazione: Solitario, coppia o stormo (3-10)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Nati direttamente dalle fosse dell'Inferno, gli imp sono i diavoli meno potenti, anche se queste crudeli ed invadenti creature svolgono un ruolo importante nella corruzione delle anime mortali. Libere dalle gerarchie e dai doveri delle armate infernali, gli imp si dilettano ad ogni opportunità di viaggiare fino al Piano Materiale e di tentare astutamente i mortali, spingendoli a compiere atti sempre più depravati.\\
 
@@ -25686,7 +25682,7 @@ cosparsi di acqua sacra.
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Inferno)\\
 Organizzazione: Solitario, coppia, gruppo (3-5), sciame (6-17) o schiera (10-40 o più)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 I più infimi tra i diavoli, i lemure hanno origine dalle fila delle anime condannate all'inferno, masse informi di carne tremolante. La scintilla di istinto o di memoria che sopravvive nella loro coscienza addormentata solitamente dà forma ai loro tratti, che imitano quelli dei suoi torturatori o delle anime torturate che li circondano. Grotteschi ed inutili, i tratti di un lemure non rivelano nulla di quello che è stato un tempo. Molti sfoggiano diversi orribili volti o sono nulla più di colonne ribollenti di carne cancerosa. Solamente i loro arti bitorzoluti, che agitano in continuazione, sembrano funzionare correttamente, e vengono usati solo per distruggere qualsiasi forma di vita non infernale che si avvicini troppo.\\
 I lemure in movimento si consolidano in forme alte più di 1,2 metri e pesanti più di 100 kg, sebbene questi disgustosi diavoli, quando stanno riposando, spesso hanno l'indistinto aspetto di masse di carne disciolta dai tratti deformi.\\
@@ -25739,7 +25735,7 @@ I diavoli maggiori sono in grado di riconoscere i più corrotti tra loro e, per 
 \textbf{Ecologia}\\
 Ambiente: Acquatico Caldo\\
 Organizzazione: Solitario, coppia o branco (3-6)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Il plesiosauro è un rettile acquatico dal lungo collo. Sebbene tecnicamente non sia un dinosauro, questa creatura ed i suoi simili si trovano spesso a cacciare in laghi ed oceani nei quali è facile trovare dei dinosauri.\\
 
@@ -25789,7 +25785,7 @@ Il plesiosauro è un rettile acquatico dal lungo collo. Sebbene tecnicamente non
 \textbf{Ecologia}\\
 Ambiente: Foreste e Pianure Calde\\
 Organizzazione: Solitario, coppia o branco (3-6)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Il tirannosauro è un predatore primario che misura 12 metri di lunghezza e pesa 7.000 kg.\\
 
@@ -25839,7 +25835,7 @@ portata 1 m, una creatura prona.
 \textbf{Ecologia}\\
 Ambiente: Pianure Calde\\
 Organizzazione: Solitario, coppia o branco (5-8)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Il triceratopo è un erbivoro irascibile e caparbio. Un tipico triceratopo è lungo 9 metri e pesa 10.000 kg.\\
 
@@ -25899,7 +25895,7 @@ portata 1 m, un bersaglio.
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario, coppia o banda (3-6)\\
-Tesoro: Equipaggiamento da PNG\\
+\textbf{Tesoro}: Equipaggiamento da PNG\\
 \textbf{Descrizione}\\
 I doppelganger sono strani esseri che possono assumere la forma di coloro che incontrano. Nella sua forma naturale, la creatura somiglia più o meno ad un umanoide, ma snello e fragile, con membra magre e tratti facciali non del tutto formati. La sua carnagione è pallida, è glabro ed i suoi occhi sono bianchi e vacui.\\
 I doppelganger preferiscono infiltrarsi in società dove possono ammassare ricchezza e potere, e vedono scarse prospettive nel fondare città coi loro simili. I doppelganger più giovani sperimentano le loro abilità su piccole tribù di orchi o goblin, poi si spostano in società più complesse come comunità naniche, elfiche e umane. Piuttosto che diventare bersagli occupando posizioni di comando, preferiscono mantenere il potere da dietro il trono, o usare molteplici identità per manipolare cittadini influenti o intere gilde.\\
@@ -25977,7 +25973,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Montagne Fredde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Anche se molti lo considerano il più debole e bestiale tra i draghi cromatici, il drago bianco supplisce alla sua mancanza di astuzia con la pura e semplice ferocia. I draghi bianchi vivono su remote e gelide cime montuose, e nei bassopiani artici, facendo la loro tana in scintillanti caverne piene di ghiaccio e neve. Preferiscono che i loro pasti siano completamente congelati.\\
 
@@ -26060,7 +26056,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Montagne Fredde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Anche se molti lo considerano il più debole e bestiale tra i draghi cromatici, il drago bianco supplisce alla sua mancanza di astuzia con la pura e semplice ferocia. I draghi bianchi vivono su remote e gelide cime montuose, e nei bassopiani artici, facendo la loro tana in scintillanti caverne piene di ghiaccio e neve. Preferiscono che i loro pasti siano completamente congelati.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Bianco}\\
@@ -26126,7 +26122,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Montagne Fredde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Anche se molti lo considerano il più debole e bestiale tra i draghi cromatici, il drago bianco supplisce alla sua mancanza di astuzia con la pura e semplice ferocia. I draghi bianchi vivono su remote e gelide cime montuose, e nei bassopiani artici, facendo la loro tana in scintillanti caverne piene di ghiaccio e neve. Preferiscono che i loro pasti siano completamente congelati.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Bianco}\\
@@ -26184,7 +26180,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Montagne Fredde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Anche se molti lo considerano il più debole e bestiale tra i draghi cromatici, il drago bianco supplisce alla sua mancanza di astuzia con la pura e semplice ferocia. I draghi bianchi vivono su remote e gelide cime montuose, e nei bassopiani artici, facendo la loro tana in scintillanti caverne piene di ghiaccio e neve. Preferiscono che i loro pasti siano completamente congelati.\\
 
@@ -26260,7 +26256,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Picchi montuosi\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi blu sono intriganti consumati ed ossessivamente ordinati. In combattimento, i draghi blu preferiscono prendere di sorpresa i nemici, se possibile, e non esitano a ritirarsi se le cose si mettono male. Preferiscono fare la loro tana vicino a quelli che controllano, qualche volta anche entro i confini di una città.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Blu}\\
@@ -26343,7 +26339,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Picchi montuosi\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi blu sono intriganti consumati ed ossessivamente ordinati. In combattimento, i draghi blu preferiscono prendere di sorpresa i nemici, se possibile, e non esitano a ritirarsi se le cose si mettono male. Preferiscono fare la loro tana vicino a quelli che controllano, qualche volta anche entro i confini di una città.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Blu}\\
@@ -26408,7 +26404,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Picchi montuosi\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi blu sono intriganti consumati ed ossessivamente ordinati. In combattimento, i draghi blu preferiscono prendere di sorpresa i nemici, se possibile, e non esitano a ritirarsi se le cose si mettono male. Preferiscono fare la loro tana vicino a quelli che controllano, qualche volta anche entro i confini di una città.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Blu}\\
@@ -26467,7 +26463,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Picchi montuosi\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi blu sono intriganti consumati ed ossessivamente ordinati. In combattimento, i draghi blu preferiscono prendere di sorpresa i nemici, se possibile, e non esitano a ritirarsi se le cose si mettono male. Preferiscono fare la loro tana vicino a quelli che controllano, qualche volta anche entro i confini di una città.\\
 
@@ -26507,7 +26503,7 @@ Il drago può effettuare 3 azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Deserti Caldi\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi gialli sono predatori famelici e combattenti indisciplinati. Amano la caccia ed uccidere, sono consumati predatori che istintivamente aggrediscono chiunque sia nel loro territorio. Il deserto è il loro terreno dove scavano trappole grezze per catturare le loro povere vittime.
 Il soffio di un drago giallo è un onda di calore (danno da fuoco).
@@ -26593,7 +26589,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Paludi Calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Signori delle paludi e degli acquitrini più cupi, i draghi neri sono i padroni incontrastati del loro territorio, che dominano con crudeltà e infondendo terrore in chi abita nelle vicinanze. I draghi neri si stanziano nelle zone più remote delle paludi, specie in caverne sul fondo di pozze fetide e buie. Dentro, ammassano i loro luridi tesori e dormono tra radici e fango. I draghi neri amano il cibo un po' marcio e spesso lasciano un pasto a marcire in una pozza per giorni prima di consumarlo. I draghi neri preferiscono tesori che non si decompongono o degradano, accumulando tesori di monete, pietre preziose, gioielli e altri oggetti di pietra o metallo.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Nero}\\
@@ -26678,7 +26674,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Paludi Calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Signori delle paludi e degli acquitrini più cupi, i draghi neri sono i padroni incontrastati del loro territorio, che dominano con crudeltà e infondendo terrore in chi abita nelle vicinanze. I draghi neri si stanziano nelle zone più remote delle paludi, specie in caverne sul fondo di pozze fetide e buie. Dentro, ammassano i loro luridi tesori e dormono tra radici e fango. I draghi neri amano il cibo un po' marcio e spesso lasciano un pasto a marcire in una pozza per giorni prima di consumarlo. I draghi neri preferiscono tesori che non si decompongono o degradano, accumulando tesori di monete, pietre preziose, gioielli e altri oggetti di pietra o metallo.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Nero}\\
@@ -26744,7 +26740,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Paludi Calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Signori delle paludi e degli acquitrini più cupi, i draghi neri sono i padroni incontrastati del loro territorio, che dominano con crudeltà e infondendo terrore in chi abita nelle vicinanze. I draghi neri si stanziano nelle zone più remote delle paludi, specie in caverne sul fondo di pozze fetide e buie. Dentro, ammassano i loro luridi tesori e dormono tra radici e fango. I draghi neri amano il cibo un po' marcio e spesso lasciano un pasto a marcire in una pozza per giorni prima di consumarlo. I draghi neri preferiscono tesori che non si decompongono o degradano, accumulando tesori di monete, pietre preziose, gioielli e altri oggetti di pietra o metallo.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Nero}\\
@@ -26804,7 +26800,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Paludi Calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Signori delle paludi e degli acquitrini più cupi, i draghi neri sono i padroni incontrastati del loro territorio, che dominano con crudeltà e infondendo terrore in chi abita nelle vicinanze. I draghi neri si stanziano nelle zone più remote delle paludi, specie in caverne sul fondo di pozze fetide e buie. Dentro, ammassano i loro luridi tesori e dormono tra radici e fango. I draghi neri amano il cibo un po' marcio e spesso lasciano un pasto a marcire in una pozza per giorni prima di consumarlo. I draghi neri preferiscono tesori che non si decompongono o degradano, accumulando tesori di monete, pietre preziose, gioielli e altri oggetti di pietra o metallo.\\
 
@@ -26878,7 +26874,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Montagne calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Poche creature sono più crudeli e terribili del possente drago rosso. Sovrano dei cromatici, il terribile drago rosso porta rovina e morte nelle terre minacciate dalla sua presenza.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Rosso}\\
@@ -26961,7 +26957,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Montagne calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Poche creature sono più crudeli e terribili del possente drago rosso. Sovrano dei cromatici, il terribile drago rosso porta rovina e morte nelle terre minacciate dalla sua presenza.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Rosso}\\
@@ -27026,7 +27022,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Montagne calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Poche creature sono più crudeli e terribili del possente drago rosso. Sovrano dei cromatici, il terribile drago rosso porta rovina e morte nelle terre minacciate dalla sua presenza.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Rosso}\\
@@ -27084,7 +27080,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Montagne calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Poche creature sono più crudeli e terribili del possente drago rosso. Sovrano dei cromatici, il terribile drago rosso porta rovina e morte nelle terre minacciate dalla sua presenza.\\
 
@@ -27163,7 +27159,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Foreste Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi verdi vivono nelle antiche foreste del mondo, vagando in cerca di preda sotto giganteschi tetti di foglie. Di tutti i draghi cromatici, i draghi verdi sono forse quelli con cui ci si può più facilmente accordare diplomaticamente.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Verde}\\
@@ -27249,7 +27245,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Foreste Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi verdi vivono nelle antiche foreste del mondo, vagando in cerca di preda sotto giganteschi tetti di foglie. Di tutti i draghi cromatici, i draghi verdi sono forse quelli con cui ci si può più facilmente accordare diplomaticamente.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Verde}\\
@@ -27316,7 +27312,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Foreste Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi verdi vivono nelle antiche foreste del mondo, vagando in cerca di preda sotto giganteschi tetti di foglie. Di tutti i draghi cromatici, i draghi verdi sono forse quelli con cui ci si può più facilmente accordare diplomaticamente.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Verde}\\
@@ -27377,7 +27373,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Foreste Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi verdi vivono nelle antiche foreste del mondo, vagando in cerca di preda sotto giganteschi tetti di foglie. Di tutti i draghi cromatici, i draghi verdi sono forse quelli con cui ci si può più facilmente accordare diplomaticamente.\\
 
@@ -27464,7 +27460,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Montagne Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Argento}\\
@@ -27554,7 +27550,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Montagne Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Argento}\\
@@ -27622,7 +27618,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Montagne Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Argento}\\
@@ -27684,7 +27680,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Montagne Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.\\
 
@@ -27767,7 +27763,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Zone Costiere Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Bronzo}\\
@@ -27857,7 +27853,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Zone Costiere Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Bronzo}\\
@@ -27926,7 +27922,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Zone Costiere Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Bronzo}\\
@@ -27990,7 +27986,7 @@ portata 1 m, un bersaglio.
 \textbf{Ecologia}\\
 Ambiente: Zone Costiere Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate\\
 
@@ -28075,7 +28071,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Pianure calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi d'oro sono l'emblema della virtù. Gli altri draghi metallici li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago d'Oro}\\
@@ -28166,7 +28162,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Pianure calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi d'oro sono l'emblema della virtù. Gli altri draghi metallici li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago d'Oro}\\
@@ -28235,7 +28231,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Pianure calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi d'oro sono l'emblema della virtù. Gli altri draghi metallici li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago d'Oro}\\
@@ -28298,7 +28294,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Pianure calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 I draghi d'oro sono l'emblema della virtù. Gli altri draghi metallici li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto.\\
 
@@ -28381,7 +28377,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Deserti Caldi\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago d'Ottone}\\
@@ -28467,7 +28463,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Deserti Caldi\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago d'Ottone}\\
@@ -28532,7 +28528,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Deserti Caldi\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago d'Ottone}\\
@@ -28593,7 +28589,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Deserti Caldi\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti.\\
 
@@ -28678,7 +28674,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Colline Calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago di Rame}\\
@@ -28764,7 +28760,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Ecologia}\\
 Ambiente: Colline Calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago di Rame}\\
@@ -28832,7 +28828,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Colline Calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago di Rame}\\
@@ -28893,7 +28889,7 @@ Gli incantesimi a disposizione sono:\\
 \textbf{Ecologia}\\
 Ambiente: Colline Calde\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici.\\
 
@@ -28961,7 +28957,7 @@ A volontà: \emph{luci danzanti}
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi sotterraneo\\
 Organizzazione: Solitario, coppia o gruppo (3-8)\\
-Tesoro: doppio (Mazza Pesante Perfetta, Arco Lungo Composito Perfetto [Forza +2] con 20 Frecce, altro tesoro)\\
+\textbf{Tesoro}: doppio (Mazza Pesante Perfetta, Arco Lungo Composito Perfetto [Forza +2] con 20 Frecce, altro tesoro)\\
 \textbf{Descrizione}\\
 Creato dal corpo di un elfo, alterato e mutato attraverso speciali veleni ed elisir per assumere le caratteristiche di un ragno gigante, il drider è una creatura pericolosa.\\
 I drider sono sessualmente dimorfici. La parte inferiore da ragno del corpo di un drider femmina è lucente ed aggraziata, spesso simile al corpo di una vedova nera, mentre il busto superiore di elfo mantiene le sue curve allettanti e il bel viso (con l'eccezione delle venefiche zanne acuminate). La parte inferiore del corpo di un drider maschio è tozza come una tarantola, mentre quella superiore ha un fisico asciutto e supporta un'orrenda faccia più da ragno che da elfo, completa di mandibole zannute.\\
@@ -29029,7 +29025,7 @@ La driade non può tenere affascinati più di un umanoide o tre bestie alla volt
 \textbf{Ecologia}\\
 Ambiente: Foreste Temperate\\
 Organizzazione: Solitario, coppia o boschetto (3-8)\\
-Tesoro: standard (Arco Lungo Perfetto con 20 Frecce, Pugnale, altro tesoro)\\
+\textbf{Tesoro}: standard (Arco Lungo Perfetto con 20 Frecce, Pugnale, altro tesoro)\\
 \textbf{Descrizione}\\
 Le driadi sono folletti-albero che amano i boschi appartati lontani dagli umanoidi bisognosi di legname. L'interesse principale delle driadi è la propria sopravvivenza e quella delle adorate foreste, e sono note per costringere magicamente i viaggiatori ad aiutarle in quei compiti che non possono espletare. Sono amichevoli con druidi e guardiaboschi non malvagi, dato che riconoscono la loro empatia o il loro rispetto per la natura.\\
 Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di natura, possono bloccare e sventare le minacce alle loro dimore o trasformare i nemici in alleati. Alcune tengono uno o più umanoidi ammaliati nel proprio territorio per difenderlo o per sviare gli assalitori. I nemici resi inabili in genere vengono trascinati ai confini della foresta dagli alleati delle driadi e scacciati, ma quelli malvagi o ostili vengono uccisi una volta finito il combattimento.\\
@@ -29087,7 +29083,7 @@ perforanti quando ingrandito.
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi sotterraneo\\
 Organizzazione: solitario, gruppo (2-5), squadra (6-12 più 3 sergenti di 3° livello e 1 capo di 3°-8° livello), o clan (13-80 più 25\% di bambini non combattenti più 1 sergente di 3° livello ogni 5 adulti, 3-6 tenenti di 3°-6° livello, e 1-4 capitani di 9° livello)\\
-Tesoro: equipaggiamento da PNG (Cotta di Maglia, Scudo Pesante di Metallo, Martello da Guerra, Balestra Leggera con 20 Quadrelli, 3d6 mo, altro tesoro)\\
+\textbf{Tesoro}: equipaggiamento da PNG (Cotta di Maglia, Scudo Pesante di Metallo, Martello da Guerra, Balestra Leggera con 20 Quadrelli, 3d6 mo, altro tesoro)\\
 \textbf{Descrizione}\\
 Lontani parenti dei Nani, più cupi e deformi, i Duergar sono creature dal pessimo carattere che odiano gli intrusi nei loro reami sotterranei, ma mai più dei Nani. Vivono in comunità nelle profondità del sottosuolo. Hanno pelle grigio opaco, come fosse sporca di polvere o cenere, ma questa tonalità naturale permette di mimetizzarsi meglio nelle zone sotterranee. Sono una Razza di schiavisti, ma mentre costringono i prigionieri non Nani a lavori massacranti, uccidono senza remore i Nani catturati. In combattimento, i Duergar tirano di balestra, e poi passano al Martello da Guerra qualche round dopo. Se in inferiorità numerica, o se c'è un pericolo (e spazio) adeguato, un Duergar userà la sua capacità Ingrandire ed attacchera'.
 
@@ -29148,7 +29144,7 @@ L'elementale può afferrare una creatura Enorme o fino a due Grandi o più picco
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Piano dell'Acqua)\\
 Organizzazione: Solitario, coppia o gruppo (3-8)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Gli elementali dell'acqua sono creature pazienti e inflessibili composte di acqua vivente, dolce o salata. Preferiscono coprire d'acqua i loro avversari o trascinarveli dentro per ottenere un vantaggio.\\
 Come gli altri elementali, tutti gli elementali dell'acqua hanno aspetto e forma unici. Molti sono creature dall'aspetto simile ad un'ondata con faccia vagamente umanoide e onde più piccole ai lati che fungono da braccia. Un'altra forma comune è quella di una qualche creatura acquatica, come uno squalo o un polpo, ma fatta interamente d'acqua.\\
@@ -29213,7 +29209,7 @@ L'elementale può afferrare una creatura Grande o fino a due Medie o più piccol
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Piano dell'Acqua)\\
 Organizzazione: Solitario, coppia o gruppo (3-8)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Gli elementali dell'acqua sono creature pazienti e inflessibili composte di acqua vivente, dolce o salata. Preferiscono coprire d'acqua i loro avversari o trascinarveli dentro per ottenere un vantaggio.\\
 Come gli altri elementali, tutti gli elementali dell'acqua hanno aspetto e forma unici. Molti sono creature dall'aspetto simile ad un'ondata con faccia vagamente umanoide e onde più piccole ai lati che fungono da braccia. Un'altra forma comune è quella di una qualche creatura acquatica, come uno squalo o un polpo, ma fatta interamente d'acqua.\\
@@ -29277,7 +29273,7 @@ L'elementale può afferrare una creatura Media o fino a due Piccole alla volta. 
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Piano dell'Acqua)\\
 Organizzazione: Solitario, coppia o gruppo (3-8)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Gli elementali dell'acqua sono creature pazienti e inflessibili composte di acqua vivente, dolce o salata. Preferiscono coprire d'acqua i loro avversari o trascinarveli dentro per ottenere un vantaggio.\\
 Come gli altri elementali, tutti gli elementali dell'acqua hanno aspetto e forma unici. Molti sono creature dall'aspetto simile ad un'ondata con faccia vagamente umanoide e onde più piccole ai lati che fungono da braccia. Un'altra forma comune è quella di una qualche creatura acquatica, come uno squalo o un polpo, ma fatta interamente d'acqua.\\
@@ -29338,7 +29334,7 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno da botta e n
 \textbf{Ecologia}\\
 Ambiente: Piano dell'Aria\\
 Organizzazione: Solitario, coppia o gruppo (3-8)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Gli elementali dell'aria sono rapide creature volanti fatte d'aria. Primitivi e territoriali, non amano essere evocati o controllati dai mortali, e preferiscono trascorrere il loro tempo sul Piano dell'Aria, volando attraverso il cielo infinito.\\
 Sebbene tutti gli elementali dell'aria della stessa taglia abbiano le stesse statistiche, l'aspetto esatto di ognuno varia molto da individuo a individuo: uno può apparire come un vortice animato di vento e fumo, mentre un altro come una creatura di fumo simile ad un uccello con occhi scintillanti e ali di vento.\\
@@ -29401,7 +29397,7 @@ Un elementale dell'Aria Grande è alto 4,8 m e pesa 2 kg.\\
 \textbf{Ecologia}
 Ambiente: Qualsiasi (Piano del Fuoco)\\
 Organizzazione: Solitario, coppia o gruppo (3-8)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Gli elementali del fuoco sono creature veloci e crudeli fatte di fiamme viventi. Si divertono a spaventare quelli più deboli di loro, e terrorizzano qualsiasi creatura che possano incendiare. Un elementale del fuoco non può entrare nel'acqua o in qualsiasi liquido ininfiammabile. Una massa d'acqua è una barriera impenetrabile a meno che l'elementale possa scavalcarla o saltarla, oppure venga coperta con materiale infiammabile (come uno strato d'olio).\\
 Gli elementali del fuoco hanno un aspetto variabile; in genere si manifestano in forma di spire serpentine fatte di fumo e fiamme, ma alcuni elementali del fuoco prendono sembianze più simili a quelle di umani, demoni o altri mostri per aumentare il terrore quando compaiono improvvisamente. Il corpo di un elementale del fuoco sembra fatto di fiamme o sbuffi di scintille, fumo o cenere semistabili.\\
@@ -29462,7 +29458,7 @@ Un elementale del fuoco grande è alto 4,8 metri\\
 \textbf{Ecologia}
 Ambiente: Qualsiasi (Piano della Terra)\\
 Organizzazione: Solitario, coppia o gruppo (3-8)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Gli elementali della terra sono creature lente ed ostinate fatte di pietra o terra. Quando stanno completamente fermi sono indistinguibili da un mucchio di pietre o una piccola collina.\\
 
@@ -29526,7 +29522,7 @@ Un elementale della terra grande è alto 4,8 metri e pesa 3000 kg.\\
 \textbf{Ecologia}\\
 Ambiente: Foreste Temperate\\
 Organizzazione: solitario, coppia o nido (3-6 più 2-8 ragni giganti)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Gli ettercap sono alti di solito 1,8 metri e pesano circa 100 kg. Sono solitari e raramente si uniscono ad altri della loro razza, tranne per l'accoppiamento. Quando fanno gruppo, tendono ad attrarre varie specie di ragni, formando uno strano connubio di ettercap e aracnidi.\\
 Gli ettercap sono noti per la costruzione di astute trappole fatte di ragnatele e altri materiali naturali, che usano per catturare prede. Costruiscono rifugi di ragnatela, tra i rami più alti gli alberi lontano dagli altri predatori terrestri, e usano ragni mostruosi come vedette e guardiani.\\
@@ -29582,7 +29578,7 @@ Gli ettercap non sono coraggiosi, ma le loro trappole spesso impediscono al nemi
 \textbf{Ecologia}\\
 Ambiente: Colline fredde\\
 Organizzazione: Solitario, coppia, gruppo (3-6), truppa (1-2 più 1-2 Orsi Bruni, banda (3-6 più 1-2 Orsi Bruni) o colonia (3-6 più 1-2 Orsi Bruni e 7-12 Orchi, o 9-16 Goblin)\\
-Tesoro: Standard (Armatura di Cuoio, 2 Mazzafrusti Leggeri, 4 Giavellotti, altro tesoro)\\
+\textbf{Tesoro}: Standard (Armatura di Cuoio, 2 Mazzafrusti Leggeri, 4 Giavellotti, altro tesoro)\\
 \textbf{Descrizione}\\
 Gli ettin, o giganti a due teste, sono cacciatori notturni malevoli e imprevedibili. Le due teste gli concedono impareggiabili poteri di percezione, facendone dei guardiani eccellenti.\\
 Gli ettin sembrano Giganti delle Colline o Giganti delle Rocce, ma il volto zannuto tradisce una discendenza orchesca. Hanno pelle marrone rosata e non si lavano mai se non vi sono costretti, cosa che li rende così sporchi e sudici che la loro pelle sembra spessa e grigia.\\
@@ -29596,7 +29592,7 @@ In genere formano delle coppie riproduttive per allevare la prole solo per brevi
 \textbf{Ecologia}
 Ambiente: qualsiasi\\
 Organizzazione: solitario\\
-Tesoro: equipaggiamento da PNG\\
+\textbf{Tesoro}: equipaggiamento da PNG\\
 \textbf{Descrizione}\\
 Quando ad un'anima non è concesso il riposo a causa di qualche grave ingiustizia, vera o presunta, a volte essa torna come fantasma. Questi esseri sono eternamente angosciati, privi di sostanza e incapaci di rimettere le cose a posto. Sebbene i fantasmi possano avere qualsiasi Tratto, molti si aggrappano al mondo dei viventi con un forte senso di odio e rabbia, e come risultato diventano  malvagi; anche una creatura buona dopo morta può diventare un fantasma odioso e crudele.\\
 
@@ -29665,7 +29661,7 @@ La possessione dura finché il corpo scende a 0 Punti Ferita, il fantasma la ter
 \textbf{Ecologia}
 Ambiente: qualsiasi\\
 Organizzazione: solitario\\
-Tesoro: equipaggiamento da PNG\\
+\textbf{Tesoro}: equipaggiamento da PNG\\
 \textbf{Descrizione}\\
 Quando ad un'anima non è concesso il riposo a causa di qualche grave ingiustizia, vera o presunta, a volte essa torna come fantasma. Questi esseri sono eternamente angosciati, privi di sostanza e incapaci di rimettere le cose a posto. Sebbene i fantasmi possano avere qualsiasi Tratto, molti si aggrappano al mondo dei viventi con un forte senso di odio e rabbia, e come risultato diventano  malvagi; anche una creatura buona dopo morta può diventare un fantasma odioso e crudele.\\
 
@@ -29725,7 +29721,7 @@ Gli oggetti originali vengono lasciati indietro, proprio come le spoglie fisiche
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi Sotterraneo\\
 Organizzazione: Solitario\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Disgustosa, nauseante e affamata: queste sono le uniche parole che descrivono in modo appropriato la fauce gorgogliante. Bestie ripugnanti che si nascondono nelle grotte, nelle fogne e negli incubi, le fauci non hanno altro senso sociale, ecologico o religioso diverso dalla loro capacità di far impazzire coloro che le ascoltano. Alcuni studiosi credono che le fauci gorgoglianti siano una variante più piccola del molto più pericoloso shoggoth, mentre altri teorizzano che sia una punizione di qualche potente entità o divinità inflitta a coloro che l'hanno offesa.\\
 
@@ -29772,7 +29768,7 @@ Disgustosa, nauseante e affamata: queste sono le uniche parole che descrivono in
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi sotterraneo\\
 Organizzazione: Solitario, coppia o macchia (3-12)\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 Un fungo stridente è alto circa 50 cm, dall'ampio cappello marrone. Una volta emesso l'urlo il cappello si sgonfia. \\
 Si racconta di Cuochi Duergar specializzati nel cuocere questi funghi in pietanze sopraffine.
@@ -29824,7 +29820,7 @@ I più bravi riescono anche a non fare sgonfiare il cappello.\\
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi sotterraneo\\
 Organizzazione: Solitario, coppia o macchia (3-12)\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 I funghi viola sono uno dei più noti e temuti pericoli delle caverne. Un viaggiatore può spesso notare i segni lasciati dal fungo viola su coloro che vivono o cacciano nei luoghi in cui questi funghi carnivori si appostano. Queste profonde e orribili cicatrici sembrano solchi scavati nella carne: i segni di un incontro ravvicinato con un fungo viola.\\
 Un fungo viola si nutre della materia organica putrefatta, ma a differenza della maggioranza dei funghi non è un consumatore passivo. I viticci di un fungo viola possono colpire con inaspettata rapidità e sono ricoperti di un veleno virulento che causa la putrefazione delle carni con nauseante velocità. Questo potente veleno, se trascurato, può far marcire rapidamente un intero braccio o una gamba, lasciandosi dietro solo ossa che presto si corroderanno anch'esse.\\
@@ -29891,7 +29887,7 @@ Un fungo viola è alto 1,2 metri e pesa 25 kg.\\
 \textbf{Ecologia}
 Ambiente: Qualsiasi Palude\\
 Organizzazione: Solitario, coppia o sequenza (3-4)\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 Ogni cacciatore e agricoltore che viva vicino ad un acquitrino o a una palude ha dato un nome a queste sfere di luce fioca: jack lanterna, candele dei defunti, fuochi che camminano, luci dei pini, luci fantasma, luci di giunco; ma tutti sanno che si tratta di pericolosi predatori e false guide nell'oscurità.\\
 
@@ -29961,7 +29957,7 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 \textbf{Ecologia}
 Ambiente: Qualsiasi Sotterraneo\\
 Organizzazione: Solitario, coppia o gruppo (3-6)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Il fustigatore è un cacciatore da agguato. Capace di modificare la colorazione e la forma del suo corpo, un fustigatore nascosto sembra una stalagmite di pietra o ghiaccio (o in luoghi dal soffitto basso, una colonna di pietra o ghiaccio). Nelle aree prive di questi tratti per nascondersi un fustigatore può comprimere il suo corpo fino a sembrare un masso. Le sferze che può estroflettere non sono di carne ma di uno spesso materiale semiliquido simile a cera parzialmente fusa ma con la resistenza di una catena di ferro e la capacità di intirizzire la carne e indebolire le forze. Il fustigatore può usare queste sferze con grande maestria e farle volare fino a 15 metri per rubare gli oggetti che attraggono la sua attenzione.\\
 
@@ -30025,7 +30021,7 @@ Un fustigatore è alto 2,7 metri e pesa 1.100 kg.\\
 \textbf{Ecologia}
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario, coppia o stormo (3-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I gargoyle spesso sembrano essere statue alate di pietra, poiché possono rimanere immobili indefinitamente per poi sorprendere i nemici. I gargoyle tendono a comportamenti ossessivo-compulsivi, tanto diversi quanto abbondante è la loro specie. Libri, ninnoli rubati, armi e trofei raccolti dai nemici caduti sono solo alcuni esempi dei tipi di oggetti che un gargoyle può collezionare per decorare la sua tana e il suo territorio.\\
 
@@ -30099,7 +30095,7 @@ Una creatura può usare la sua azione per liberare una creatura intralciata dal 
 \textbf{Ecologia}
 Ambiente: Qualsiasi (Piano dell'Aria)\\
 Organizzazione: Solitario, coppia, compagnia (3-6) o banda (7-10)\\
-Tesoro: Standard (Scimitarra Perfetta, altro tesoro)\\
+\textbf{Tesoro}: Standard (Scimitarra Perfetta, altro tesoro)\\
 \textbf{Descrizione}\\
 I Djinn (singolare djinni) sono Geni provenienti dal Piano Elementale dell'Aria. Si dice che siano fatti di nuvole e abbiano la forza delle tempeste più potenti. Un Djinni è alto circa 3 metri e pesa circa 500 kg.\\
 
@@ -30165,7 +30161,7 @@ A volontà: \emph{individuazione del magico}
 \textbf{Ecologia}
 Ambiente: Qualsiasi (Piano del Fuoco)\\
 Organizzazione: Solitario, coppia, compagnia (3-6) o banda (7-12)\\
-Tesoro: Standard (Falchion Perfetto, altro tesoro)\\
+\textbf{Tesoro}: Standard (Falchion Perfetto, altro tesoro)\\
 \textbf{Descrizione}\\
 Gli Efreet (singolare Efreeti) sono Geni provenienti dal Piano del Fuoco. Sono alti 3,6 metri e pesano circa 1.000 kg.\\
 Gli Efreet hanno pochi alleati tra gli altri Geni: odiano i Djinni, e li attaccano a vista, non sopportano i Marid, e vedono i Janni come deboli e fragili. Gli Efreet spesso cooperano bene con gli Shaitan, eppure anche queste alleanze sono temporanee.\\
@@ -30227,7 +30223,7 @@ ore.
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi terreno\\
 Organizzazione: Solitario, gruppo (2-4) o branco (7-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I ghast sono Ghoul con l'archetipo semplice avanzato. La paralisi di un ghast ha effetto anche sugli Elfi. I ghast si aggirano in branchi o comandano gruppi di Ghoul comuni. Il fetore di morte e putrefazione che circonda queste creature è travolgente.\\
 
@@ -30279,7 +30275,7 @@ I ghast sono Ghoul con l'archetipo semplice avanzato. La paralisi di un ghast ha
 \textbf{Ecologia}
 Ambiente: Qualsiasi terreno\\
 Organizzazione: Solitario, gruppo (2-4) o branco (7-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I ghoul sono non morti che frequentano i cimiteri e mangiano i cadaveri. Le leggende sostengono che i primi ghoul fossero umani cannibali che una fame innaturale ha riportato indietro dalla morte, oppure umani che in vita si nutrivano dei resti in decomposizione dei loro simili e che morirono (e poi rinacquero) a causa di un'orrenda malattia; la vera origine di questi non morti necrofagi è incerta.\\
 I ghoul si appostano ai margini della civilizzazione (dentro o nei pressi dei cimiteri o nelle fogne cittadine) dove possono reperire ampie scorte del loro cibo preferito. Sebbene preferiscano i corpi in putrefazione e spesso seppelliscano le loro vittime per migliorarne il sapore, mangiano i morti freschi se hanno abbastanza fame.\\
@@ -30334,7 +30330,7 @@ Anche se molti ghoul di superficie vivono in modo primitivo, delle voci parlano 
 \textbf{Ecologia}\\
 Ambiente: Colline Temperate\\
 Organizzazione: Solitario, gruppo (2-5), banda (6-8), gruppo di razzia (9-12 più 1d4 Lupi Crudeli) o tribù (13-30 più 35\% non combattente più 1 capo combattente di 4°-6° livello, 11-16 Lupi Crudeli, 1-4 Ogre e 13-20 schiavi orchi)\\
-Tesoro: Standard (Armatura di Pelle, Randello Pesante, altro tesoro)\\
+\textbf{Tesoro}: Standard (Armatura di Pelle, Randello Pesante, altro tesoro)\\
 \textbf{Descrizione}\\
 I giganti delle colline hanno pelle che varia dal marrone chiaro al rossastro, capelli castani o neri, ed occhi dello stesso colore. Indossano strati di pelli rozzamente conciate con ancora il pelo. Raramente lavano o riparano i propri indumenti, e preferiscono semplicemente aggiungere nuovi strati man mano che i vecchi si logorano. Gli adulti sono alti circa 3 metri e pesano più o meno 550 kg. I giganti delle colline possono vivere fino a 200 anni, anche se raramente raggiungono quest'età.\\
 I giganti delle colline preferiscono combattere dall'alto di sporgenze e rupi, da dove possono colpire gli avversari con rocce e massi, limitando così il rischio personale. Amano effettuare attacchi di oltrepassare contro creature più piccole all'inizio del combattimento, e solo dopo prendono posizione e iniziano a roteare i loro massicci randelli.\\
@@ -30390,7 +30386,7 @@ I giganti delle colline solitari e non malvagi sono molto rari, ma li si può tr
 \textbf{Ecologia}
 Ambiente: Montagne calde\\
 Organizzazione: Solitario, gruppo (2-5), banda (6-12 più un 35\% non combattenti e 1 adepto o Devoto di 1°-2° livello), gruppo di razziatori (6-12 più 1 adepto o mago di 3°-5° livello, 2-5 Segugi Infernali e 2-3 Troll o Ettin) o tribù (20-30 più 1 adepto, mago o Devoto di 6°-7° livello; 1 re Guerriero o guardiaboschi di 8°-9° livello; e 17-38 Segugi Infernali, 12-22 Troll, 7-12 Ettin e 1-2 Draghi Rossi Giovani)\\
-Tesoro: Standard (Mezza Armatura, Spadone, altro tesoro)\\
+\textbf{Tesoro}: Standard (Mezza Armatura, Spadone, altro tesoro)\\
 \textbf{Descrizione}\\
 I giganti del fuoco sono i giganti più rigidi e marziali, sempre pronti alla guerra e a trattare brutalmente chiunque incontrino. La loro rigida struttura di comando prevede soldati, ufficiali e persino generali, e che tutti obbediscano agli ordini del loro re senza discutere.\\
 
@@ -30449,7 +30445,7 @@ I giganti del fuoco preferiscono i luoghi caldi: più caldi sono meglio è. Si p
 \textbf{Ecologia}\\
 Ambiente: Montagne fredde\\
 Organizzazione: Solitario, banda (3-5), gruppo (6-12 più 35\% non combattenti e 1 mago o Devoto di 1°-2° livello), gruppo di razziatori (6-12 più 35\% non combattenti, 1 Devoto o mago di 3°-5° livello, 1-4 Lupi Invernali e 2-3 Ogre) o tribù (21-30 più 1 adepto, mago o Devoto di 6°-7° livello; 1 jarl Barbaro o guardiaboschi 7°-9° livello; e 15-36 Lupi Invernali, 13-22 Ogre e 1-2 Draghi Bianchi Giovani)\\
-Tesoro: Standard (Giaco di Maglia, Ascia Bipenne, altro tesoro)\\
+\textbf{Tesoro}: Standard (Giaco di Maglia, Ascia Bipenne, altro tesoro)\\
 \textbf{Descrizione}\\
 Un gigante del gelo ha capelli azzurri o giallo sporco, e occhi in genere dello stesso colore. Si vestono con pelli e pellicce, adornandosi con qualsiasi gioiello possiedano. I giganti del gelo combattenti indossano anche giachi di maglia ed elmi di metallo decorati con corna e piume. Un maschio adulto è alto 5 metri e pesa circa 1.400 kg. Le femmine sono leggermente più basse e snelle, ma per il resto sono identiche ai maschi. I giganti del gelo possono vivere fino a 250 anni.\\
 
@@ -30516,7 +30512,7 @@ A volontà: \emph{individuazione del magico, luce, nube di nebbia}
 \textbf{Ecologia}\\
 Ambiente: Montagne Temperate\\
 Organizzazione: Solitario, gruppo (2-5), famiglia (2-5 più 35\% non combattenti più 1 mago o Devoto di 4°-7° livello e 2-5 Grifoni) o tribù (6-20 più 1 oracolo mago o Devoto di 7°-12° livello e 2-5 Grifoni)\\
-Tesoro: Standard (Giaco di Maglia, Morning Star, altro tesoro)\
+\textbf{Tesoro}: Standard (Giaco di Maglia, Morning Star, altro tesoro)\\
 \textbf{Descrizione}\\
 Il colore pelle dei giganti delle nuvole varia dal bianco latte al blu polvere. I maschi adulti sono alti circa 5,4 metri e pesano approssimativamente 2.500 kg. Le femmine sono leggermente più basse e snelle. I giganti delle nuvole possono vivere fino a 400 anni, vestono con abiti preziosi e gioielli. Per molti l'aspetto indica lo status. Migliori sono i vestiti e più raffinati i gioielli, più importante è chi li indossa. Inoltre apprezzano la musica, e la maggioranza suona uno o più strumenti (l'arpa è uno dei preferiti).\\
 
@@ -30578,7 +30574,7 @@ Sono molte le leggende che parlano di magiche città dei giganti delle nuvole si
 \textbf{Ecologia}
 Ambiente: Montagne temperate\\
 Organizzazione: Solitario, gruppo (2-5), banda (4-8), gruppo di caccia (9-12 più 1 Anziano) o tribù (13-30 più 35\% non combattenti, 1-3 Anziani e 4-6 Orsi Crudeli)\\
-Tesoro: Standard (Randello Pesante, altro tesoro)\\
+\textbf{Tesoro}: Standard (Randello Pesante, altro tesoro)\\
 \textbf{Descrizione}\\
 I giganti delle rocce preferiscono spessi indumenti di cuoio, tinti con tonalità di marrone e grigio per confondersi con la pietra che li circonda. Gli adulti sono alti circa 3,6 metri, pesano circa 750 kg e possono vivere fino a 800 anni.\\
 I giganti delle rocce, se possibile, combattono a distanza, ma se non possono evitare la mischia usano giganteschi randelli di pietra. Una delle tattiche favorite dai giganti delle rocce è di stare immobili, mimetizzandosi con il paesaggio, per poi avanzare scagliando rocce e sorprendere i nemici.\\
@@ -30647,7 +30643,7 @@ A volontà: \emph{caduta controllata, individuazione del magico,} \emph{levitazi
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi caldo\\
 Organizzazione: Solitario o famiglia (2-5 più 1 mago o Devoto di livello 7°-10°, 1-2 Roc, 2-6 Grifoni e 2-8 Squali)\\
-Tesoro: Standard (Corazza di Piastre Perfetta, Arco Lungo Composito Perfetto [Forza +14] con 20 Frecce, Spadone Perfetto, altro tesoro)\\
+\textbf{Tesoro}: Standard (Corazza di Piastre Perfetta, Arco Lungo Composito Perfetto [Forza +9] con 20 Frecce, Spadone Perfetto, altro tesoro)\\
 \textbf{Descrizione}\\
 I giganti delle tempeste tendono ad avere carnagione abbronzata, anche se rari esemplari hanno pelle viola, capelli viola o blu scuri e occhi grigio argento o porpora. Il colore viola è considerato di buon auspicio tra i giganti delle tempeste, e coloro che lo posseggono tendono a diventare capi tra la loro gente. Gli adulti sono normalmente alti 6,3 metri e pesano 6.000 kg. I giganti delle tempeste possono vivere fino a 600 anni.\\
 
@@ -30707,7 +30703,7 @@ I giganti delle tempeste vivono in belle torri, castelli o in insediamenti cinti
 \textbf{Ecologia}\\
 Ambiente: Pianure calde, deserti\\
 Organizzazione: Solitario, coppia, gruppo di caccia (2-5 e 1-2 Iene), banda (10-100 adulti più 50\% piccoli non combattenti, 1 sergente di 3° livello ogni 20 adulti, 1 capo di 4°-6° livello e 5-8 Iene) o tribù (20-200 più 1 sergente di 3° livello ogni 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 7-12 Iene e 4-7 ienodonti)\\
-Tesoro: equipaggiamento da PNG (Armatura di Cuoio, Scudo Pesante di Legno, Lancia, altro tesoro)\\
+\textbf{Tesoro}: equipaggiamento da PNG (Armatura di Cuoio, Scudo Pesante di Legno, Lancia, altro tesoro)\\
 \textbf{Descrizione}\\
 Gli gnoll sono una razza di umanoidi grandi e grossi che assomigliano alle iene non solo per il semplice aspetto; mostrano un'evidente affinità con questi animali spazzini, tanto da tenerli come animali di compagnia, e riflettono molti dei comportamenti di tali animali.\\
 
@@ -30777,7 +30773,7 @@ A volontà: \emph{anti-individuazione} (personale)
 \textbf{Ecologia}
 Ambiente: Qualsiasi sotterraneo\\
 Organizzazione: Solitario, compagnia (2-4), squadra (5-20 più 1 capo 3°-6° e due sergenti di 3° livello), o banda (30-50 più 1 sergente di 3° livello ogni 20 adulti, 5 tenenti di 5° livello, 3 capitani di 7° livello, e 2-5 Elementali della Terra Medi)\\
-Tesoro: Equipaggiamento da PNG (Piccone Pesante, Balestra Leggera con 10 Quadrelli, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Piccone Pesante, Balestra Leggera con 10 Quadrelli, altro tesoro)\\
 \textbf{Descrizione}\\
 Gli svirfneblin, o "gnomi delle profondità", sono una branca della razza gnomesca. Dimorano nel sottosuolo, in città nascoste, al sicuro dagli elfi scuri e da altre razze sotterranee. La loro pelle è del colore della roccia, di solito grigia o marrone. I maschi sono calvi e le femmine hanno radi capelli grigi. Il legame di uno svirfneblin con il reame dei folletti è molto più forte di quello degli Gnomi di superficie; questo rende gli svirfneblin stranamente distaccati dalle loro emozioni oppure soggetti ad improvvise e violente manifestazioni emotive. Gli svirfneblin hanno combattuto a lungo contro i Duergar e non riescono a distinguere bene i Duergar dai Nani.\\
 
@@ -30844,7 +30840,7 @@ Gli svirfneblin, o "gnomi delle profondità", sono una branca della razza gnomes
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario o gruppo (2-4)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 I golem di argilla non indossano abiti, eccezion fatta per un indumento di cuoio trattato o metallo attorno ai fianchi. Mediamente sono alti più di 2,4 metri e pesano 300 chili.\\
 \textbf{Costruzione}
@@ -30913,7 +30909,7 @@ portata 1 m, un bersaglio.
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario o gruppo (2-4)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Un golem di carne è una mostruosa collezione di parti anatomiche umanoidi trafugate e cucite insieme. La sua carne cadaverica ha tonalità verde pallido o giallognola. Un golem di carne indossa qualsiasi tipo di vestito che il suo creatore desideri, normalmente solo un logoro paio di pantaloni. Non ha Equipaggiamento né armi. Un golem di carne è alto più di 2,4 metri e pesa 250 kg.\\
 
@@ -30984,7 +30980,7 @@ Anche se molti golem di carne sono privi di ragione, si narra di golem ecceziona
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario o gruppo (2-4)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Un golem di ferro ha un corpo di forma umanoide in ferro. Il creatore può dargli qualsiasi forma desideri, ma presenta quasi sempre un'armatura di qualche tipo, sia essa cerimoniale e preziosa o semplice e d'uso. Rispetto ad un golem di pietra ha sembianze molto più definite. I golem di ferro, talvolta, portano con sé un'arma, anche se il più delle volte tendono a preferirle i loro attacchi schianto.\\
 
@@ -31051,7 +31047,7 @@ Per costruire un golem di ferro occorrono 2.500 kg di ferro, fuso con tinture ra
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario o gruppo (2-4)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Un golem di pietra ha un corpo umanoide fatto di pietra, spesso stilizzato per soddisfare il suo creatore. Ad esempio, può essere scolpito in modo da indossare un'armatura, con particolari simboli scolpiti sulla corazza, o avere dei disegni intarsiati nella pietra dei suoi arti. La testa è spesso scolpita per sembrare un elmo o la testa di qualche bestia. Sebbene possa essere scolpito con uno scudo o un'arma di pietra come una spada, queste scelte estetiche non influenzano le sue capacità in combattimento.\\
 
@@ -31112,7 +31108,7 @@ Il corpo di un golem di pietra viene scolpito da un unico blocco di pietra dura,
 \textbf{Ecologia}\\
 Ambiente: Pianure Temperate, Colline Rocciose e Sotterranei\\
 Organizzazione: Solitario, coppia, branco (3-4) o mandria (5-12)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Le gorgoni sono creature magiche e irascibili: sebbene a prima vista possano sembrare dei costrutti, sotto le piastre metalliche dall'aspetto artificiale sono fatte di carne e ossa. Come tori aggressivi, sfidano qualsiasi creatura sconosciuta che incontrano, spesso travolgendo il cadavere del loro avversario o frantumando i suoi resti pietrificati finché la creatura non è più riconoscibile. Le femmine sono pericolose quanto i maschi, e i due sessi hanno l'identico aspetto. Una tipica gorgone è alta 1,8 metri e lunga 2,4 metri. Pesa circa 2.000 kg.\\
 
@@ -31171,7 +31167,7 @@ portata 1 m, un bersaglio.
 \textbf{Ecologia}: \\
 Ambiente: Qualsiasi Sotterraneo\\
 Organizzazione: Solitario o ammasso (2-5)\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 
 \textbf{Descrizione}
 Il vermiforme grick è il terrore delle caverne e dei cunicoli in cui abita, attendendo in agguato nei pressi di tunnel molto trafficati o città sotterranee, per balzare fuori dal buio e catturare le sue prede. È raro che tali prede vengano consumate sul posto. Il grick preferisce portare il cibo fresco nella sua tana, uno stretto cunicolo o sull'alta sporgenza di una caverna, dove può consumarlo con piccoli morsi, in tranquillità.\\
@@ -31229,7 +31225,7 @@ I grick contano sul loro colore scuro e sulla capacità di scalare i muri per te
 \textbf{Ecologia}\\
 Ambiente: Colline Temperate\\
 Organizzazione: Solitario, coppia o branco (6-10)\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 I grifoni sono potenti predatori aerei, che piombano dai loro altissimi nidi per afferrare le loro prede con il becco e gli artigli. Aggressivi e territoriali, non sono semplici bestie, bensì combattenti astuti e compagni leali verso coloro che si guadagnano il loro rispetto, combattendo fino alla morte per proteggere i loro amici e i loro simili.\\
 
@@ -31399,7 +31395,7 @@ portata 1 m, un bersaglio.
 \textbf{Ecologia}\\
 Ambiente: Colline Temperate\\
 Organizzazione: Gruppo (4-9), banda da guerra (10-24) o tribù (25+ più 50\% non combattenti, 1 sergente di 3° livello per 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 6-12 Leopardi e 1-4 Ogre o 1-2 Troll)\\
-Tesoro: Equipaggiamento da PNG (Corazza di Cuoio Borchiato, Scudo Leggero di Metallo, Spada Lunga, Arco Lungo con 20 Frecce, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Corazza di Cuoio Borchiato, Scudo Leggero di Metallo, Spada Lunga, Arco Lungo con 20 Frecce, altro tesoro)\\
 \textbf{Descrizione}\\
 Gli Hobgoblin sono militaristi e prolifici, una combinazione che li rende molto pericolosi in alcune regioni. Procreano rapidamente, rimpiazzando i membri caduti con nuovi soldati mantenendo costante il loro numero indipendentemente dalle sorti della guerra. Generalmente basta poco perché dichiarino guerra, ma nella maggior parte dei casi il motivo è per catturare nuovi Schiavi: la vita da Schiavi in un covo di Hobgoblin è brutale e breve, e nuovi Schiavi sono sempre necessari per rimpiazzare quelli che muoiono o che vengono mangiati.\\
 Tra tutte le Razze Goblinoidi quella degli Hobgoblin è di gran lunga la più civilizzata.
@@ -31465,7 +31461,7 @@ Al termine del suo turno, l'idra ricresce due teste per ciascuna delle sue teste
 \textbf{Ecologia}\\
 Ambiente: Paludi Temperate\\
 Organizzazione: Solitario\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 L'idra è un drago a più teste, ma stupido.\\
 
@@ -31518,7 +31514,7 @@ portata 1 m, un bersaglio.
 \textbf{Ecologia}\\
 Ambiente: Colline Temperate o Pianure\\
 Organizzazione: Solitario, coppia o stormo (7-12)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 L'ippogrifo ha le ali, le zampe anteriori e la testa di un grande rapace e la coda e il corpo di un magnifico cavallo. Dato che i cavalli sono il cibo preferito dei grifoni, gli studiosi affermano che un mago con senso dell'umorismo tanto tempo fa creò come scherzo questa sfortunata fusione tra un cavallo e un falco.\\
 
@@ -31601,7 +31597,7 @@ Il kraken può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi Oceano\\
 Organizzazione: Solitario\\
-Tesoro: Triplo\\
+\textbf{Tesoro}: Triplo\\
 \textbf{Descrizione}\\
 Il leggendario kraken è una delle più grandi paure dei marinai, perché è una creatura della taglia di una balena, può colpire delle profondità senza esser visto, può comandare i venti e le condizioni meteorologiche necessarie alla nave per muoversi, e possiede il crudele intelletto della maggior parte dei più spietati e creativi criminali del mondo. Alcuni credono che i kraken siano una punizione divina, mentre altri li ritengono i veri signori delle profondità, che considerano le razze che respirano aria nient'altro che bestiame.\\
 
@@ -31672,7 +31668,7 @@ gli artigli e uno con il pugnale o il Tocco Intossicante.
 \textbf{Ecologia}\\
 Ambiente: Deserti Temperati\\
 Organizzazione: Solitario, coppia o setta (3-12)\\
-Tesoro: Doppio (Pugnale+1, altro tesoro)\\
+\textbf{Tesoro}: Doppio (Pugnale+1, altro tesoro)\\
 
 \textbf{Descrizione}\\
 Eredi piene d'odio di un'antica maledizione, le lamie hanno l'aspetto di donne snelle ed attraenti dalla cintola in su, mentre sotto hanno il corpo di un possente leone. Anche le loro fattezze umanoidi portano tratti distintivi dei felini, i loro occhi sono stretti e ferini e i loro denti somigliano alle zanne dei predatori. Una tipica lamia in piedi è alta 1,8 metri, è lunga 2,4 metri e pesa più di 325 kg.\\
@@ -31706,7 +31702,7 @@ Le lamie presentate qui sono solo gli esponenti più comuni e meno potenti di qu
 
 \textbf{Movimento} 9 m
 
-\textbf{Tiri Salvezza}: Tempra +6, Riflessi +7, Volontà +11
+\textbf{Tiri Salvezza}: Tempra +11, Riflessi +12, Volontà +16
 
 \textbf{Resistenze al Danno} freddo, fulmine, da Vuoto
 
@@ -31775,7 +31771,7 @@ Il lich può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu�
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario\\
-Tesoro: Equipaggiamento da PNG (Anello di Protezione +2, Fascia della Sapienza +2 (Consapevolezza), Stivali della Levitazione, pergamena di Dominare Persone, pergamena di Teletrasporto, pozione di Invisibilità)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Anello di Protezione +2, Fascia della Sapienza +2 (Consapevolezza), Stivali della Levitazione, pergamena di Dominare Persone, pergamena di Teletrasporto, pozione di Invisibilità)\\
 
 \textbf{Descrizione}
 Poche creature sono più temute dei lich. Apice delle arti Necromantiche, il lich è un incantatore che ha scelto di rinunciare alla vita ed ingannare la morte diventando non morto. Anche se molti di coloro che raggiungono simili vette di potenza farebbero di tutto per raggiungere l'immortalità, l'idea di diventare un lich è aborrita da molte creature. Il processo prevede di estrarre la forza vitale dell'incantatore e imprigionarla in un filatterio preparato in modo speciale; l'incantatore cede la sua vita, ma rimane intrappolato tra la vita e la morte, e fintanto che il suo filatterio rimane intatto può continuare le sue ricerche e il suo lavoro senza temere il passare del tempo.\\
@@ -31835,7 +31831,7 @@ Poche creature sono più temute dei lich. Apice delle arti Necromantiche, il lic
 \textbf{Ecologia}\\
 Ambiente: paludi temperate\\
 Organizzazione: solitario, coppia, banda (3-12) o tribù (13-60)\\
-Tesoro: Equipaggiamento da PNG (Scudo Pesante di Legno, Morning Star, 3 Giavellotti)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Scudo Pesante di Legno, Morning Star, 3 Giavellotti)\\
 
 \textbf{Descrizione}\\
 I lucertoloidi sono rettili predatori orgogliosi e potenti che fanno le loro case comuni in sparuti villaggi nei recessi di paludi e acquitrini. Privi di interesse verso la colonizzazione delle terre aride e soddisfatti delle loro semplici armi e dei rituali che li hanno serviti bene per millenni, i lucertoloidi sono visti da molte delle altre razze come selvaggi retrogradi, ma all'interno delle loro isolate comunità sono in realtà un popolo vitale ricco di tradizioni e con una storia orale che risale a prima che l'uomo camminasse in posizione eretta.\\
@@ -31899,7 +31895,7 @@ I lucertoloidi presentati qui vivono in ambienti paludosi. Le tribù lucertoloid
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi Foresta o Pianura\\
 Organizzazione: Solitario, coppia, famiglia (3-8) o truppa (3-8 più 1-4 Cinghiali)\\
-Tesoro: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, altro tesoro)\\
 \textbf{Descrizione}\\
 Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi all'insù, pelo ispido e incisivi prominenti. Hanno capelli rossi, castani o neri ma alcuni sono anche biondi, canuti o calvi. Hanno di norma peluria sul labbro superiore, e i maschi di solito non riescono a far crescere la barba. Poiché sono testardi e aggressivi, hanno piccole comunità di loro simili e non si mischiano ai non licantropi: di solito vivono in piccole fattorie dall'aspetto assolutamente normale. Tendono ad avere grandi famiglie e molti figli.\\
 
@@ -31958,7 +31954,7 @@ Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi 
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi Terreno\\
 Organizzazione: Solitario, coppia o branco (3-6)\\
-Tesoro: Equipaggiamento da PNG (Cotta di Maglia, Spada Lunga, Balestra Leggera con 20 Quadrelli, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Cotta di Maglia, Spada Lunga, Balestra Leggera con 20 Quadrelli, altro tesoro)\\
 \textbf{Descrizione}\\
 Nella forma umana i lupi mannari somigliano a persone normali, anche se alcuni tendono ad avere un aspetto ferino e capelli ribelli. Sopracciglia che crescono unendosi, dito indice più lungo del medio e strane voglie sul palmo della mano sono tutti segni comunemente accettati che una persona sia in realtà un lupo mannaro. Naturalmente, questi segni rivelatori non sono sempre accurati, perché questi tratti fisici esistono anche nelle persone normali, ma nelle zone dove i lupi mannari sono un problema comune, questi tratti possono essere considerati schiaccianti a prescindere.\\
 
@@ -32017,7 +32013,7 @@ in forma di orso o ibrida
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi Foresta\\
 Organizzazione: Solitario, coppia, famiglia (3-6) o truppa (3-6 più 1-4 orsi Neri o Grigi)\\
-Tesoro: Equipaggiamento da PNG (Giaco di Maglia, Ascia da Battaglia Perfetta, 2 Asce da Lancio Perfette, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Giaco di Maglia, Ascia da Battaglia Perfetta, 2 Asce da Lancio Perfette, altro tesoro)\\
 \textbf{Descrizione}\\
 Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spalle larghe, tratti aspri e occhi scuri. Hanno capelli rossi, castani o neri e sembrano abituati a una vita di duro lavoro. Anche se i più benigni fra i licantropi, sono evitati dalla maggior parte delle persone normali, che temono la loro trasformazione animalesca. Per la maggior parte vivono in zone boschive isolate o in piccole unità familiari della loro stessa specie. Evitano di affrontare gli stranieri, ma non esitano se devono scacciare umanoidi malvagi dai loro territori.\\
 
@@ -32076,7 +32072,7 @@ Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spa
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi Urbano\\
 Organizzazione: Solitario, coppia, branco (5-10) o gilda (11-30 più 5-12 Ratti Crudeli)\\
-Tesoro: Equipaggiamento da PNG (Armatura di Cuoio Borchiato Perfetta, Spada Corta, Balestra Leggera con 20 Quadrelli, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Armatura di Cuoio Borchiato Perfetta, Spada Corta, Balestra Leggera con 20 Quadrelli, altro tesoro)\\
 \textbf{Descrizione}\\
 I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e vispi, e hanno movimenti nervosi. I maschi spesso hanno sottili baffi striminziti.\\
 
@@ -32140,7 +32136,7 @@ I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e v
 \textbf{Ecologia}
 Ambiente: Qualsiasi Pianura o Palude\\
 Organizzazione: Solitario o coppia\\
-Tesoro: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Spada Corta, 2 Pugnali, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Spada Corta, 2 Pugnali, altro tesoro)\\
 \textbf{Descrizione}\\
 Le tigri mannare in forma umanoide hanno grandi occhi, nasi allungati, zigomi sporgenti e capelli castani o rossi, oppure bianchi, neri o grigio-blu. I loro movimenti sono attenti e aggraziati, e chi li guarda potrebbe scambiarli per un ottimo tagliaborse, un danzatore aggraziato o un'abile cortigiana.\\
 
@@ -32196,7 +32192,7 @@ Le tigri mannare in forma umanoide hanno grandi occhi, nasi allungati, zigomi sp
 \textbf{Ecologia}
 Ambiente: Colline e Paludi Calde\\
 Organizzazione: Solitario, coppia o branco (3-6)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 
 \textbf{Descrizione}\\
 Le manticore sono feroci predatori che controllano vaste aree in cerca di carne fresca. Una tipica manticora è lunga circa 3 metri e pesa circa 500 kg. Alcune hanno la testa simile a quella di un umano, in genere barbuto. Maschi e femmine sono molto simili.\\
@@ -32270,7 +32266,7 @@ riesce, la creatura è immune al gemito del manto assassino per le successive 24
 \textbf{Ecologia}
 Ambiente: Sotterranei\\
 Organizzazione: Solitario, coppia, schiera (3-6) o stormo (7-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Simili a mante volanti orribilmente malvagie, i manti assassini sono creature misteriose e paranoiche. Un tipico esemplare ha un'apertura alare di 2,4 metri e pesa 50 kg.\\
 
@@ -32328,7 +32324,7 @@ Una creatura può staccare il mantoscuro con un'azione e riuscendo una prova di 
 \textbf{Ecologia}
 Ambiente: Qualsiasi (sotterraneo)\\
 Organizzazione: Solitario, coppia o nidiata (3-12)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 l'apertura tentacolare di un mantoscuro ha un'ampiezza di poco inferiore agli 1 m; quando è appeso alla volta di una caverna, mascherato da stalattite, la sua lunghezza varia tra i 60 ed i 90 cm. Un esemplare tipico di mantoscuro pesa 20 kg. La testa ed il corpo della creatura sono solitamente del colore del basalto o del granito scuro, ma i suoi tentacoli membranosi possono cambiare colore per adattarsi all'ambiente circostante.\\
 
@@ -32396,7 +32392,7 @@ Se la medusa vede il suo riflesso su di una superficie riflettente entro 9 metri
 \textbf{Ecologia}\\
 Ambiente: Paludi temperate e sotterranei\\
 Organizzazione: Solitario\\
-Tesoro: Doppio (Pugnale, Arco Lungo Perfetto con 20 Frecce, altro tesoro)\\
+\textbf{Tesoro}: Doppio (Pugnale, Arco Lungo Perfetto con 20 Frecce, altro tesoro)\\
 \textbf{Descrizione}\\
 Le meduse sono creature simili agli umani con serpenti al posto dei capelli. Dalla distanza di 9 metri o più, una medusa può passare facilmente per una bella donna se indossa qualcosa che copre la sua chioma serpentina; quando indossa un abbigliamento che ne cela la testa e il volto può essere scambiata per un'umana anche a distanza ravvicinata. Le meduse usano bugie e travestimenti per celare il loro volto fino a che gli avversari non sono abbastanza vicini da usare il loro sguardo pietrificante, anche se gli piace giocare con la loro preda e possono usare delle frecce fiammeggianti per intrappolare i nemici a distanza. Alcune si divertono a creare intricate decorazioni con le loro vittime, usando la pietrificazione per dare un certo tocco ai loro nascondigli paludosi, ma molte meduse hanno cura di nascondere le prove dei loro scontri precedenti così che i loro nuovi nemici non si accorgano della loro pericolosa presenza.\\
 
@@ -32467,7 +32463,7 @@ freddo.
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (piano elementale dell'aria)\\
 Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.\\
 
@@ -32531,7 +32527,7 @@ I mephit del ghiaccio comunemente si trovano sul Piano dell'Aria. Questi mephit 
 \textbf{Ecologia}\\\
 Ambiente: Qualsiasi (piano elementale del fuoco)\\
 Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.\\
 I mephit del magma comunemente si trovano sul Piano del Fuoco. Questi mephit sono stupidi bruti.\\
@@ -32597,7 +32593,7 @@ portata 1 m, una creatura.
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (piano elementale dell'aria)\\
 Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.\\
 I mephit della polvere comunemente si trovano sul Piano dell'Aria. Questi mephit sono irritanti ed insistenti.\\
@@ -32657,7 +32653,7 @@ portata 1 m, una creatura.
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (piano elementale del fuoco)\\
 Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.\\
 I mephit del vapore comunemente si trovano sul Piano del Fuoco. Questi mephit sono insolenti e sprezzanti.\\
@@ -32725,7 +32721,7 @@ I cambiamenti apportati da questo effetto non sono in grado di superare le ispez
 \textbf{Ecologia}\\
 Ambiente: qualsiasi acquatico\\
 Organizzazione: solitario o congrega (3 megere di qualsiasi specie)\\
-Tesoro: standard\\
+\textbf{Tesoro}: standard\\
 \textbf{Descrizione}\\
 Queste perfide e mostruose megere possiedono dei tratti terrificanti che pochi osano fissare, traggono piacere dalla discordia e dalla morte dei marinai, e tormentano la gente di mare con ineluttabili sciagure. Le megere marine hanno sempre un aspetto terribile e, malgrado la loro natura famelica, in genere sono creature emaciate che sembrano sul punto di morir di fame. Sono alte 1,8 metri e pesano 75 kg.\\
 
@@ -32811,7 +32807,7 @@ A volontà: \emph{dardo incantato, individuazione del magico} 2/giorno ciascuno:
 
 \textbf{Movimento} 9 m
 
-\textbf{Tiri Salvezza}: Temp. +6, Rifl. +7, Vol. +7
+\textbf{Tiri Salvezza}: Tempra +6, Riflessi +7, Volontà +7
 
 \textbf{Competenze} Arcano +3, Muoversi Silenziosamente / Nascondersi +3, Ingannare +4, Consapevolezza +4
 
@@ -32845,7 +32841,7 @@ I cambiamenti apportati da questo effetto non sono in grado di superare le ispez
 \textbf{Ecologia}
 Ambiente: Paludi temperate\\
 Organizzazione: Solitario o congrega (3 megere di qualsiasi tipo)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Terrificanti vecchie rugose che frequentano ripugnanti paludi e foreste intricate, le megere verdi nutrono un odio intenso per tutto ciò che è bello e puro. Facendo uso delle loro svariate capacità illusorie, queste vegliarde si dilettano nell'uccidere gli innocenti, nello sconvolgere gli animi nobili e nell'avvilire i cuori puri. Amano utilizzare Camuffare Se Stesso per assumere le forme di giovani e attraenti ragazze così da sedurre e strappare giovani uomini ai loro affetti e parenti, e corrompere nobili e onesti cittadini con ogni sorta di depravazione e scandalo. Alcune megere verdi preferiscono rivelare la loro reale natura ai loro amati in un momento attentamente architettato per spingere l'uomo alla pazzia per l'orrore e la vergogna. Altre prolungano il loro amoreggiamento e fanno di tutto per rovinare completamente la vita degli uomini da loro sedotti prima di mostrare loro la verità. Infine, i più fortunati di questi sventurati finiscono per essere divorati dalla megera verde loro amante: per gli sfortunati, il destino finale può essere molto peggiore, dato che la crudele fantasia della megera verde è immensa. Una tipica megera verde è alta tra 1,5 e 1,8 metri e pesa poco meno di 80 kg.\\
 
@@ -32911,7 +32907,7 @@ acido.
 \textbf{Ecologia}
 Ambiente: Sotterranei o Paludi Temperati\\
 Organizzazione: Solitario\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Le Ameba Paglierina sono masse animate di protoplasma di colore simile ad un repellente amalgama di giallo, arancio e marrone. Quando a riposo, il loro corpo piatto e pulsante è alto circa 15 centimetri e si estende tutto intorno; in movimento, si raccolgono in una forma vagamente sferica e sembrano quasi spostarsi rotolando. I loro corpi malleabili permettono loro di attraversare fessure e buchi molto più piccoli dello spazio che occupano. Le creature che vivono sottoterra spesso sigillano tutte le aperture per difendersi dalle Ameba Paglierina.\\
 
@@ -32985,7 +32981,7 @@ Una creatura sommersa può tentare di fuggire effettuando un'azione per compiere
 \textbf{Ecologia}
 Ambiente: Qualsiasi sotterraneo\\
 Organizzazione: Solitario\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 Tra i predatori più insoliti e peculiari dei dungeon, i cubi gelatinosi trascorrono la loro esistenza vagabondando senza meta per i cunicoli sotterranei e le oscure caverne, inglobando materiali organici come piante, rifiuti, carogne e anche creature viventi. La materia che il cubo non può digerire, come metalli e pietra, riempie di detriti il volume della creatura, e a volte questa può espellerne una parte dal suo corpo. Spesso il tesoro e gli averi delle vittime passate restano dentro il cubo gelatinoso: immagine spettrale dei loro resti materiali.\\
 
@@ -33047,7 +33043,7 @@ La melma può divorare metallo non magico dello spessore di 5 centimetri in un 1
 \textbf{Ecologia}\\
 Ambiente: Paludi fredde e sotterranei\\
 Organizzazione: Solitario\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Strisciando attraverso le fredde paludi e gli acquitrini nebbiosi o, a volte in sotterranei e caverne, le melme grigie consumano ogni sostanza organica che incontrano. Sebbene priva di intelligenza, la melma grigia è una delle creature che dà non pochi problemi per la sua trasparenza. Anche se non può arrampicarsi facilmente sui muri o nuotare, la sua abitudine di nascondersi nel fango spesso lungo le rive paludose o di rimanere immobile in pozze dall'aspetto innocuo sul pavimento grigio di un sotterraneo, la rendono molto difficile da notare e da evitare.\\
 
@@ -33111,7 +33107,7 @@ Il protoplasma nero può divorare legno o metallo non magico dello spessore di 5
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi sotterraneo\\
 Organizzazione: Solitario\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 I protoplasmi neri sono gli spazzini del mondo sotterraneo, costantemente alla ricerca di cibo. Possono percepire corpi organici o metallici nel raggio di 18 metri e attaccano in modo istintivo tali oggetti o esseri finché non li dissolvono, o finché la melma non viene uccisa. Un protoplasma nero si riproduce staccando un pezzo del proprio corpo e formando un nuovo protoplasma più piccolo che raggiunge l'età adulta nel giro di un mese. Alcune tra le creature più intelligenti nel mondo sotterraneo usano i protoplasmi neri per smaltire in modo naturale la spazzatura, creando cave di pietra atte ad ospitare il protoplasma, per poi gettarvi i rifiuti organici o i nemici.\\
 Gli esemplari più grandi di protoplasmi neri sono stati avvistati nelle regioni più profonde del mondo: individui Mastodontici che possiedono fino a 30 DV. Si dice che esistano anche protoplasmi colorati: alcuni bianchi che vivono nelle zone artiche, marroni nelle paludi e di colore rossiccio che popolano il deserto.\\
@@ -33175,7 +33171,7 @@ questo afferrare hanno -1d6.
 \textbf{Ecologia}
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 Si ritiene che i mimic siano il risultato del tentativo di un alchimista di dar vita ad un oggetto inanimato attraverso l'applicazione di un reagente mistico, la cui formula è andata perduta. Nel corso degli anni, queste creature strane ma intelligenti hanno appreso la capacità di trasformarsi in simulacri degli oggetti manufatti, in particolare nei luoghi frequentati poco da un ristretto numero di creature, dove aumentano le loro probabilità di successo con un attacco alle loro vittime.\\
 Anche se i mimic non sono intrinsecamente malvagi, alcuni saggi suggeriscono che attacchino gli uomini e le altre creature intelligenti più per passatempo che per sfamarsi. Il desiderio di ingannare gli altri è parte del loro essere, e i loro attacchi a sorpresa rappresentano il culmine di questo desiderio.\\
@@ -33233,7 +33229,7 @@ Un tipico mimic ha un volume di 2 metri cubi (1 m per 1 m per 2 m) e pesa circa 
 \textbf{Ecologia}\\
 Ambiente: Rovine Temperate e Sotterranei\\
 Organizzazione: Solitario, coppia o gruppo (3-4)\\
-Tesoro: Standard (Ascia Bipenne, altro tesoro)\\
+\textbf{Tesoro}: Standard (Ascia Bipenne, altro tesoro)\\
 \textbf{Descrizione}\\
 Nessuno porta rancore come un minotauro. Disprezzati dalle razze civilizzate e nati secoli fa da una maledizione divina, i minotauri hanno cacciato, ucciso e divorato gli umanoidi inferiori per punire offese vere o presunte più a lungo di quanto riescono a ricordare. La maggior parte delle culture ha leggende su come i minotauri furono creati da divinità vendicative o offese che punirono gli umani deformando le loro sembianze, sottraendo loro bellezza e intelligenza, e dotandoli di teste di toro. Eppure la maggioranza dei minotauri moderni disprezza queste leggende e non crede di essere lo scherzo di qualche divinità, ma modelli di perfezione divina creati dal crudele e potente signore dei demoni Baphomet.\\
 I nascondigli tradizionali dei minotauri sono i labirinti, sia i dedali costruiti per confondere e sconcertare, sia quelli naturali creati da un intrico di caverne o altri passaggi sotterranei. Grazie alla loro astuzia naturale, i minotauri usano i loro nascondigli labirintici per scoraggiare gli incauti nemici che cercano di scovarli o che semplicemente incappano nei loro nascondigli e si perdono, dando lentamente la caccia agli intrusi che cercano inutilmente di trovare una via d'uscita. Solo quando la disperazione ha nettamente preso il sopravvento il minotauro colpisce le sue perdute vittime. Quando hanno a che fare con un gruppo, spesso i minotauri lasciano scappare uno creatura, affinché diffonda il suo terribile racconto e attiri altri, che sperano di uccidere queste bestie, nei loro labirinti. Naturalmente, per i minotauri, questi aspiranti eroi rappresentano delle pietanze deliziose.\\
@@ -33448,7 +33444,7 @@ livello 6 (1 slot): \emph{visione del vero}
 \textbf{Ecologia}\\
 Ambiente: Pianure Temperate\\
 Organizzazione: Solitario, coppia o nido (3-6)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Sebbene abbiano un aspetto feroce, con scaglie brillanti, cappucci simili a quelli dei cobra e potenti corpi serpentini, i naga guardiani fungono da coscienziosi protettori di luoghi di eccezionale potere e sacralità. Spesso le loro scaglie sfoggiano disegni elaborati simili a quelli degli esotici serpenti della giungla. Un tipico naga guardiano raggiunge la lunghezza di 4,2 metri e un peso approssimativo di 175 kg.\\
 Mentre alcuni naga guardiani aderiscono a pratiche esotiche di divinità antiche o dimenticate, altri sono semplicemente attratti da siti dalla spiccata bellezza naturale, quali templi su imponenti cascate, pinnacoli naturali e cime di montagne, custodendoli con il massimo della reverenza e del senso del dovere. Spesso questi naga si uniscono a fedi ancora attive, servendo come protettori di santuari o antichi tesori. Una coppia di naga può stabilirsi nei pressi di un sito che ritengono meritevole di protezione, covandovi una nidiata e crescendovi la prole. Quando i giovani raggiungono l'età adulta, possono scegliere di partire per cercare la propria casa o rimanere a proteggere la zona sorvegliata dai loro genitori. A volte, un naga guardiano che custodisce delle rovine od un tempio è solo l'ultimo di una successione di sentinelle che si sono avvicendate nel corso dei secoli. Queste sentinelle spesso prendono lo stesso nome dei loro predecessori sembrando un unico individuo eccezionalmente longevo.\\
@@ -33694,7 +33690,7 @@ livello 5 (2 slot): \emph{dominare persone}
 \textbf{Ecologia}\\
 Ambiente: Colline fredde o temperate\\
 Organizzazione: Solitario, coppia, gruppo (3-4) o famiglia (5-16)\\
-Tesoro: Standard (Armatura di Pelle, Randello Pesante, 4 Giavellotti, altro)\\
+\textbf{Tesoro}: Standard (Armatura di Pelle, Randello Pesante, 4 Giavellotti, altro)\\
 \textbf{Descrizione}\\
 Nelle storie riguardanti gli ogre ci sono elementi orrendi: brutalità e ferocia, cannibalismo e tortura. Poi stupri, smembramenti, necrofilia, incesto, mutilazioni e altri esempi di crudeltà. Coloro che non hanno mai incontrato gli ogre ritengono queste storie un avvertimento. Chi è sopravvissuto ad un simile incontro sa che le storie sono niente in confronto alla realtà.\\
 
@@ -33769,7 +33765,7 @@ Se un umanoide non malvagio muore a causa di questo attacco, entro 1d4 ore dal s
 \textbf{Ecologia}
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario, coppia, gruppo (3–6) o sciame (7–12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 
 \textbf{Descrizione}\\
 La malvagia ombra si muove lungo il confine tra il buio delle tenebre e la dura verità della luce. L’ombra preferisce infestare le rovine che la civiltà si lascia alle spalle, dove dà la caccia alle creature viventi tanto sciocche da incappare nel suo territorio. L’ombra è un orribile non morto, e come tale non ha scopi o motivazioni apparenti oltre a risucchiare forza vitale e vitalità dagli esseri viventi.
@@ -33917,7 +33913,7 @@ A volontà: \emph{invisibilità, oscurità}
 \textbf{Ecologia}\\
 Ambiente: Colline e montagne temperate o sotterranei\\
 Organizzazione: solitario, gruppo (2-4), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o banda \\
-Tesoro: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Falchion, 4 Giavellotti, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Falchion, 4 Giavellotti, altro tesoro)\\
 \textbf{Descrizione}\\
 La differenza principale fra gli orchi e gli umanoidi civilizzati, oltre alla loro forza bruta ed all'intelligenza inferiore, è il loro carattere. Come cultura, gli orchi sono violenti ed aggressivi, ed il forte domina il debole attraverso paura e brutalità. Prendono ciò che vogliono con la forza e non si fanno scrupoli a prendere interi villaggi come schiavi se ne hanno la possibilità. Non si curano delle comodità, ed i loro villaggi e campi tendono ad essere luoghi sporchi e precari, pieni di risse fra ubriachi, arene per i combattimenti ed altri divertimenti sadici. Privi della pazienza necessaria a coltivare e capaci di allevare solo gli animali più robusti ed autosufficienti, gli orchi ritengono più semplice prendere agli altri il frutto del loro lavoro. Sono arroganti e lesti ad infuriarsi quando sfidati, ma si preoccupano dell'onore solo finché farlo porta loro beneficio.\\
 
@@ -33973,7 +33969,7 @@ Un orco maschio adulto è alto 1,8 metri e pesa circa 105 kg. Gli orchi e gli um
 \textbf{Ecologia}\\
 \textbf{Ambiente: Foreste Temperate}
 Organizzazione: Solitario, coppia o branco (3-8)\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 Le origini dell'orsogufo sono oggetto di dibattito fra gli studiosi delle creature mostruose. La maggior parte di essi concorda che fu un Mago, in passato, a crearne il primo esemplare unendo un orso con un gufo gigante; forse come esperimento su qualche folle concetto della natura della vita, ma più probabilmente a causa della sua totale pazzia. Quale che fosse lo scopo originale di una creazione tanto folle come l'orsogufo, la creatura ha iniziato a riprodursi, ed è divenuta uno dei predatori più conosciuto delle zone boschive.\\
 Gli orsigufo sono selvaggi predatori, noti per il loro pessimo temperamento, la loro aggressività e la loro ferocia. Tendono ad attaccare tutto ciò che si muove loro davanti, anche se questo non mostra intenzioni bellicose. Molti studiosi che hanno incontrato queste creature nelle terre selvagge hanno notato che hanno sempre occhi iniettati di sangue che ruotano tutto attorno poco prima di un attacco. Questo è generalmente visto come segno di follia, che suggerisce che tutti gli orsigufo nascano con un bisogno patologico di combattere ed uccidere, ma i ricercatori più realisti ritengono sia dovuto alla struttura dei loro occhi acuti.\\
@@ -34034,7 +34030,7 @@ Questa riduzione dei Punti Ferita massimi del personaggio, perdura finché la ma
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi Sotterraneo\\
 Organizzazione: Solitario, coppia o gruppo (3-4)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Gli otyugh sono creature particolarmente luride ed orride che vivono in luoghi che le persone sane di mente tendono ad evitare. Le loro tane si trovano nelle fogne, nei pozzi neri, nelle discariche e nelle paludi più mefitiche: più un luogo è sporco, più attira gli otyugh. Amano il ruolo dello spazzino, e vagano per le caverne sotterranee in cerca di nuovi bocconcini in mezzo ai rifiuti. Una volta trovati, si ingozzano e riportano alla loro tana quello che non riescono a consumare in una volta sola. Gli otyugh passano parecchio tempo nelle loro luride tane, che riempiono di carogne e letame, che rilasciano effluvi mefitici.\\
 Le creature intelligenti che vivono nelle zone sotterranee vicino agli otyugh a volte formano alleanze di convenienza con essi. Forniscono loro rifiuti e carne cruda agli otyugh, rendendoli un vero e proprio mezzo di smaltimento. In cambio, gli otyugh lasciano in pace i loro benefattori, non li attaccano e possono anche fare da guardiani.\\
@@ -34080,7 +34076,7 @@ La cosa che la maggior parte delle razze trova terrificante degli otyugh non è 
 \textbf{Ecologia}
 Ambiente: Pianure Temperate e Calde\\
 Organizzazione: Solitario, coppia o branco (6-10)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Il pegaso è un magnifico cavallo alato che a volte serve la causa del bene. Seppur molto apprezzati come cavalcature volanti, i pegasi sono creature timide che difficilmente stringono amicizie. Un tipico pegaso è alto 1,8 metri al garrese, pesa 750 kg ed ha un'apertura alare di 6 metri. La maggior parte dei pegasi è bianca, ma a volte alcuni esemplari hanno colori diversi.\\
 
@@ -34202,7 +34198,7 @@ convocatore.
 \textbf{Ecologia}\\
 Ambiente: Foreste temperate\\
 Organizzazione: Solitario, coppia o nido (3-5)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Gli pseudodraghi sono piccoli parenti dei veri draghi, giocosi e timidi. Parlano cinguettando, sibilando, ringhiando e facendo le fusa, ma possono comunicare telepaticamente con qualsiasi creatura intelligente. Se avvicinati pacificamente con offerte di cibo, sono disposti a condividere informazioni su quanto si trova nel loro territorio, ma minacce e violenza li fanno fuggire.\\
 
@@ -34267,7 +34263,7 @@ A volontà: \emph{camuffare sé stesso, illusione minore, individuazione} \emph{
 \textbf{Ecologia}
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario, coppia o culto (3-12)\\
-Tesoro: Doppio (Pugnale+1, altro tesoro)\\
+\textbf{Tesoro}: Doppio (Pugnale+1, altro tesoro)\\
 \textbf{Descrizione}\\
 Il rakshasa è uno spirito maligno che si traveste da creatura umanoide così da poter seguire la sua preda in incognito. Personificazione dei tabù della maggioranza delle società e capace di assumere l'aspetto di quelli che cerca di corrompere, un rakshasa compie moltissime azioni orribili. Se fossero umani, la loro blasfemia, il cannibalismo e gli atti ancora peggiori che compiono li marchierebbero come criminali meritevoli del più crudele degli inferni.\\
 Quando non ha un altro aspetto, il rakshasa appare come un umanoide con la testa di un animale. Spesso ha il capo di un grosso felino (come tigri o pantere) o serpente (quali cobra o vipere) e, seppur sia più raro, può avere testa di gorilla, sciacallo, avvoltoio, elefante, mantide, lucertola, rinoceronte, cinghiale e molte altre ancora. In molti casi, il tipo di testa posseduta da un rakshasa dice qualcosa della sua personalità: un rakshasa dalla testa di tigre è furtivo e famelico, mentre uno con la testa di cinghiale può essere ghiotto e crudele. Queste differenze raramente incidono sulle statistiche base del rakshasa, anche se esistono varianti più potenti della standard con molteplici teste, poteri magici più potenti, e strane e letali capacità speciali aggiuntive.\\
@@ -34322,7 +34318,7 @@ Se il remorhaz subisce 30 o più danni in un singolo turno da una creatura al su
 \textbf{Ecologia}\\
 Ambiente: Deserti Freddi e Ghiacciai\\
 Organizzazione: Solitario\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 In un mondo di ghiaccio e neve, i remorhaz sono particolarmente temuti per il terribile fuoco che brucia dentro i loro corpi. Questo fuoco interiore fa sì che le piastre lungo il suo dorso divengano roventi quando la creatura è particolarmente arrabbiata, eccitata o nel panico. Le creature che si sono adattate alle regioni artiche spesso sono particolarmente vulnerabili al fuoco, il che rende la principale difesa del remorhaz incredibilmente potente e gli assicura il ruolo di pericoloso predatore delle zone ghiacciate. I remorhaz vivono in estesi labirinti scavati nel cuore dei ghiacciai. Queste bestie usano il loro calore per scavare tunnel nel ghiaccio, tunnel le cui lisce pareti vitree si ricongelano rapidamente lungo la loro scia creando numerosi dedali incredibilmente stabili.\\
 
@@ -34378,7 +34374,7 @@ Se l'oggetto con cui entra in contatto è un'armatura o scudo di metallo indossa
 \textbf{Ecologia}
 Ambiente: Qualsiasi Sotterraneo\\
 Organizzazione: Solitario, coppia o nido (3-10)\\
-Tesoro: Accidentale (nessun tesoro di metallo)\\
+\textbf{Tesoro}: Accidentale (nessun tesoro di metallo)\\
 \textbf{Descrizione}\\
 Di tutte le bestie terrificanti che un esploratore può incontrare nel sottosuolo, solo il rugginofago ha come obbiettivo quello cui l'avventuriero medio da più valore: il suo tesoro.\\
 Lungo in genere 1 metro e dal peso di almeno 100 kg, il rugginofago somiglia ad un crostaceo e sarebbe già abbastanza spaventoso anche senza l'alieno processo nutritivo da cui prende il nome. I rugginofagi mangiano gli oggetti di metallo, preferendo quelli di ferro e di leghe ferrose come l'acciaio ma divorano anche mithral, Adamantio e metalli incantati con uguale facilità. Qualsiasi metallo toccato dalle delicate antenne del rugginofago o dalla sua pelle corazzata si corrode e si riduce in polvere in pochi secondi, facendone una delle bestie più temute dagli avventurieri sotterranei e dai Nani minatori che devono difendere le loro forge e competere con loro per l'oro.\\
@@ -34444,7 +34440,7 @@ Fortunatamente, spesso è possibile sfuggire alle attenzioni di un rugginofago l
 \textbf{Ecologia}\\
 Ambiente: Oceani Temperati o Caldi\\
 Organizzazione: Solitario, coppia, squadra (5-8), pattuglia (11-20 più 1 tenente di 3° livello e 1-2 Squali), banda (20-80 più 100\% non combattenti, 1 tenente di 3° livello e 1 capitano di 4° livello ogni 20 adulti, e 1-2 Squali) o tribù (70-160 più 100\% non combattenti, 1 tenente di 3° livello ogni 20 adulti, 1 capitano di 4° livello ogni 40 adulti, 9 guardie di 4° livello, 1-4 novizie di 3°-6° livello, 1 sacerdotessa di 7° livello, 1 barone di 6°-8° livello, e 5-8 Squali)
-Tesoro: Equipaggiamento da PNG (Tridente, Balestra Pesante con 10 Quadrelli, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Tridente, Balestra Pesante con 10 Quadrelli, altro tesoro)\\
 \textbf{Descrizione}\\
 Famelici e crudeli, i sahuagin sono, sfortunatamente, tra le razze oceaniche più prosperose. Grandi città sono state costruite da questa razza nelle buie profondità delle fosse oceaniche, e alcune fortezze sorgono nei pressi delle coste da dove lanciano assalti continui contro i nemici che respirano aria che vivono vicino alla riva. Orgogliosi e bellicosi, i sahuagin si alleano raramente con altri, e vedono le altre razze acquatiche, come aboleth, marinidi e simili come concorrenti. Le sole creature che sembrano rispettare oltre ai loro simili sono gli squali; in questi implacabili predatori, infatti, i sahuagin rivedono molto di loro stessi. Un sahuagin è alto 2,1 metri e pesa circa 125 kg.\\
 
@@ -34506,7 +34502,7 @@ I sahuagin sono soggetti a mutazioni genetiche, e quando nasce un mutante assurg
 \textbf{Ecologia}
 Ambiente: Qualsiasi (Piano del Fuoco)\\
 Organizzazione: Solitario, coppia o gruppo (3-5)\\
-Tesoro: Standard (Lancia, altro tesoro ininfiammabile)\\
+\textbf{Tesoro}: Standard (Lancia, altro tesoro ininfiammabile)\\
 \textbf{Descrizione}\\
 Le Salamandre sono native del Piano del Fuoco, dove le loro legioni di fieri combattenti sono molto temute dagli altri abitanti del Piano. Poiché molte delle più forti Razze Elementali del Fuoco Schiavizzano le Salamandre per la loro Abilità nella metallurgia e capacità combattiva, le Salamandre odiano gli Efreet e gli altri con fervore.\\
 
@@ -34569,7 +34565,7 @@ Abitando zone così estreme, le Salamandre posseggono solo tesori che resistono 
 \textbf{Ecologia}\\
 Ambiente: Foreste Temperate\\
 Organizzazione: Solitario, coppia, banda (3-6) o festino (7-11)\\
-Tesoro: Standard (Pugnale, Arco Corto più 20 Frecce, flauto di pan perfetto, altro tesoro)\\
+\textbf{Tesoro}: Standard (Pugnale, Arco Corto più 20 Frecce, flauto di pan perfetto, altro tesoro)\\
 \textbf{Descrizione}\\
 I satiri, conosciuti in molte regioni come fauni, sono creature debosciate ed edoniste delle parti più profonde e primordiali delle foreste. Adorano il vino, la musica e i piaceri della carne, sono rinomati come libertini e bellimbusti che corteggiano le fanciulle sprovvedute e i pastorelli e si lasciano dietro una scia di spiegazioni imbarazzanti e gravidanze indesiderate.\\
 
@@ -34633,7 +34629,7 @@ I bambini nati da questi incontri sono sempre satiri di sangue puro e vengono ge
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Qualsiasi\\
-Tesoro: Nessuno (Giaco di Maglia Rotto, Scimitarra Rotta)\\
+\textbf{Tesoro}: Nessuno (Giaco di Maglia Rotto, Scimitarra Rotta)\\
 \textbf{Descrizione}\\
 Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrileghe. Per la maggior parte, gli scheletri sono automi privi di volontà, ma possiedono un'astuzia malvagia concessa loro dalla forza che li anima: un'astuzia che permette loro di portare armi ed indossare armature.\\
 
@@ -34875,7 +34871,7 @@ La sfinge può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 \textbf{Ecologia}\\
 Ambiente: Colline o Deserti Caldi\\
 Organizzazione: Solitario\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Le androsfingi, le più potenti tra le sfingi comuni, ritengono di rappresentare tutto ciò che c'è di degno e nobile nella loro specie e si atteggiano come se il peso del mondo intero poggiasse sul loro buon esempio. Guardano le Criosfingi con sufficienza paternalistica, le Ieracosfingi con malcelato disgusto e le Ginosfingi come le uniche altre sfingi degne del loro tempo.\\
 
@@ -34956,7 +34952,7 @@ La sfinge può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 \textbf{Ecologia}
 Ambiente: Deserti e colline caldi\\
 Organizzazione: Solitario, coppia o culto (3-6)\\
-Tesoro: Doppio\\
+\textbf{Tesoro}: Doppio\\
 \textbf{Descrizione}\\
 Anche se esistono diversi tipi di sfinge, quella alla quale gli studiosi si riferiscono come Ginosfinge (un nome che molte sfingi trovano offensivo) è una creatura saggia e maestosa ma al contempo terrificante se arrabbiata. Meno moraliste delle loro controparti maschili (le Androsfingi, creature totalmente differenti da quella presentata qui), le sfingi sono prudenti e metodiche quando prendono delle decisioni, e sono orgogliose della loro fredda logica e della loro imparzialità. Hanno poca pazienza con le varianti inferiori di sfingi, considerandole poco più che animali. Le sfingi amano gli enigmi e gli indovinelli complicati, e fanno tesoro di fatti insoliti e dilemmi arcani molto più che di oro o gemme.\\
 
@@ -35064,7 +35060,7 @@ Lo strige può staccarsi spendendo 1 metro di movimento. Lo fa automaticamente d
 \textbf{Ecologia}
 Ambiente: Paludi temperate e calde\\
 Organizzazione: Solitario, colonia (2-4), stormo (5-8), nugolo (9-14) o sciame (15-40)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Gli strige sono pericolosi succhiasangue che infestano le paludi e predano animali selvatici, bestiame ed ignari viaggiatori. Pur essendo deboli individualmente, sciami di queste creature sono capaci di prosciugare un uomo in pochi minuti, lasciando dietro a loro solo un cadavere essiccato.\\
 
@@ -35131,7 +35127,7 @@ L'immondo può tenere affascinato solo un bersaglio alla volta. Se ne affascina 
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario, coppia o harem (3-12)\\
-Tesoro: doppio\\
+\textbf{Tesoro}: doppio\\
 \textbf{Descrizione}\\
 Tra le orde demoniache una succube spesso può raggiungere altissimi livelli di potere, utilizzando le sue manipolazioni ed il suo fascino sensuale, e molte guerre demoniache imperversano a causa delle subdole macchinazioni di queste creature. Una succube si origina dalle anime di malvagi mortali particolarmente libidinosi ed avidi.\\
 
@@ -35217,7 +35213,7 @@ Il tarrasque può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Il leggendario tarrasque è fra i mostri più distruttivi del mondo. Fortunatamente, passa la maggior parte del suo tempo in una specie di profondo letargo in una sconosciuta caverna in un remoto angolo del mondo. Quando si risveglia, però, muoiono interi regni.\\
 Pur non particolarmente intelligente, il tarrasque è abbastanza intelligente da capire alcune parole in Parlata delle Profondità (pur non potendo parlare). Allo stesso modo, la furia non è incontrollata: si concentra sulla creatura che l'ha danneggiato maggiormente ed è difficile distrarlo con l'inganno.\\
@@ -35276,7 +35272,7 @@ Pur non particolarmente intelligente, il tarrasque è abbastanza intelligente da
 \textbf{Ecologia}
 Ambiente: Acquatico temperato\\
 Organizzazione: Solitario\\
-Tesoro: Doppio\\
+\textbf{Tesoro}: Doppio\\
 \textbf{Descrizione}\\
 Le testuggini dragone abitano nelle acque dolci e salate, dove si attestano tra i più grandi pericoli per i marinai e coloro che viaggiano per nave attraverso le rotte marine del mondo. Gli esperti marinai sanno quello che vogliono le testuggini dragone della zona e frequentemente fanno offerte in oro e magia per garantirsi un passaggio sicuro o evitano completamente l'area. Da parte sua, una testuggine dragona apprezza ed anche si aspetta tali pedaggi e regalie, e una testuggine dragona che si aspetta regali ma viene ignorata è davvero un nemico pericoloso.\\
 
@@ -35336,7 +35332,7 @@ I grandi pesci, come tonni, storioni ed anche squali sono compresi tra i cibi pr
 \textbf{Ecologia}\\
 Ambiente: Montagne Fredde\\
 Organizzazione: Solitario o banda (2-4)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I troll possiedono artigli affilati ed incredibili capacità rigenerative che permettono loro di guarire quasi tutte le ferite. Sono gobbi, brutti ma fortissimi: combinata con i loro artigli, la loro forza gli permette di lacerare la carne a mani nude. I troll sono alti circa 4 metri, ma la loro postura li fa apparire più bassi. Un troll adulto pesa circa 500 kg.\\
 
@@ -35387,7 +35383,7 @@ usata con due mani per effettuare un attacco da mischia.
 \textbf{Ecologia}\\
 Ambiente: Oceani temperati\\
 Organizzazione: Solitario, pattuglia (2-6), banda (6-10 più un tenete di 3° livello, compagnia (11-60 più 3 tenenti di 3° livello, 2 comandanti di 5° livello, 1 commodoro di 7° livello e 3-12 Calamari\\
-Tesoro: Equipaggiamento da PNG (Tridente, Balestra Leggera con 10 Quadrelli, altro tesoro)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Tridente, Balestra Leggera con 10 Quadrelli, altro tesoro)\\
 \textbf{Descrizione}\\
 Fisicamente, gli Uomini Pesce somigliano ai loro antenati, con fronti espressive, pelle pallida, capelli scuri e occhi porpora. Hanno tre sottili branchie sul collo, ma possono passare per Umani per brevi periodi, se lo desiderano.\\
 
@@ -35445,7 +35441,7 @@ Fisicamente, gli Uomini Pesce somigliano ai loro antenati, con fronti espressive
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi foresta\\
 Organizzazione: Solitario o macchia (2-7)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I treant sono guardiani delle foreste ed ambasciatori degli alberi. Antichi quanto le foreste stesse, si vedono come genitori e pastori piuttosto che giardinieri: sono lenti e metodici, ma terrificanti quando costretti a combattere per difendere il loro gregge. Anche se raramente cercano la compagnia delle razze dalla vita breve ed hanno un'innata sfiducia verso i cambiamenti, mostrano tolleranza verso chi desidera imparare dai loro lunghi, lenti monologhi, specialmente coloro nei cui occhi leggono il desiderio di proteggere le regioni selvagge. Contro coloro che minacciano le loro foreste, specialmente i boscaioli che raccolgono legna o coloro che vorrebbero disboscare una foresta per costruire una strada o un forte, la rabbia dei treant si scatena rapida e devastante. Sono in grado di demolire ciò che gli altri costruiscono: un tratto che li aiuta durante i loro eccessi di furia.\\
 
@@ -35504,7 +35500,7 @@ Un tipico treant è alto 9 metri, con un tronco del diametro di 60 centimetri, e
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi terreno (Piano del Fuoco)\\
 Organizzazione: Solitario o banda (2-8)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Benché i magmin popolino il Piano del Fuoco, a volte scivolano nelle crepe elementali nel Piano Materiale. Queste crepe di solito si formano in luoghi di forte calore, come vulcani o fiumi sotterranei di magma, o in luoghi di forte e imprevedibile magia. Quest'ultimo scenario termina di solito in eventi più complessi, dato che i magmin tendono ad appiccare involontariamente fuoco agli oggetti infiammabili vicini.\\
 
@@ -35592,7 +35588,7 @@ L'unicorno può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. 
 \textbf{Ecologia}\\
 Ambiente: Foreste Temperate\\
 Organizzazione: Solitario, coppia o benedizione (3-6)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Gli unicorni sono fiere, intelligenti creature silvane che preferiscono rimanere isolate, apparendo solo per difendere le loro dimore dal male. Evitano tutte le creature tranne i folletti buoni, le donne umanoidi buone e gli animali nativi della loro foresta, ma potrebbero unirsi ad altre creature buone contro nemici comuni. Un tipico unicorno è lungo 2,4 metri, alto 1 metro al garrese e pesa 600 kg.\\
 
@@ -35696,7 +35692,7 @@ morso.
 \textbf{Ecologia}
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario o famiglia (vampiro più 2-8 Progenie)\\
-Tesoro: Equipaggiamento da PNG (Anello della Protezione +2, Fascia della Seduzione +4, Mantello della Resistenza +3)\\
+\textbf{Tesoro}: Equipaggiamento da PNG (Anello della Protezione +2, Fascia della Seduzione +4, Mantello della Resistenza +3)\\
 \textbf{Descrizione}\\
 I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi. Hanno un aspetto molto simile a quando erano in vita, diventando spesso più attraenti, sebbene alcuni appaiano invece duri e ferini.\\
 
@@ -35767,7 +35763,7 @@ I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario, coppia, gruppo (3-6) o turba (7-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 Un Vampiro può decidere di creare da una vittima una progenie vampirica anziché farne un vampiro completo solo quando usa la sua capacità creare progenie su una creatura umanoide. Questa decisione deve essere presa come azione gratuita appena un vampiro uccide una creatura appropriata usando risucchio di sangue o risucchio di energia. \\
 
@@ -35822,7 +35818,7 @@ Se il verme subisce 30 o più danni in un singolo turno da una creatura al suo i
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi sotterraneo\\
 Organizzazione: Solitario\\
-Tesoro: Accidentale\\
+\textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 I vermi purpurei sono giganteschi necrofagi che abitano nelle regioni più profonde del mondo, mangiando qualsiasi materiale organico incontrino. Sono noti per inghiottire le loro prede intere. Non è insolito sentire di un gruppo di avventurieri scomparso all'interno delle fameliche fauci di un verme purpureo, gridando di terrore mentre i suoi membri sparivano uno alla volta.\\
 
@@ -35882,7 +35878,7 @@ Un verme purpureo generalmente reclama una grande caverna sotterranea come sua t
 \textbf{Ecologia}\\
 Ambiente: Colline temperate o calde\\
 Organizzazione: Solitario, coppia o stormo (3-6)\\
-Tesoro: standard\\
+\textbf{Tesoro}: standard\\
 \textbf{Descrizione}\\
 Le viverne sono rettili brutali e violenti imparentati con i draghi. Sono sempre aggressive ed impazienti e preferiscono raggiungere i loro scopi utilizzando la forza. Per questa ragione, i draghi guardano alle viverne con superiorità, considerando questi loro lontani parenti come selvaggi primitivi privi di stile ed intelligenza.\\
 
@@ -35959,7 +35955,7 @@ Un umanoide ucciso da questo attacco si rianima 24 ore più tardi come zombi sot
 \textbf{Ecologia}\\
 Ambiente: qualsiasi\\
 Organizzazione: Solitario, coppia, gruppo (3-6) o branco (7-12)\\
-Tesoro: Standard\\
+\textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
 I wight sono umanoidi risorti come non morti a causa della necromanzia, di una morte violenta o di una personalità estremamente malevola. In alcuni casi, un wight sorge quando uno spirito non morto si lega permanentemente ad un cadavere, spesso quello di un guerriero. Sono appena riconoscibili da chi li conosceva in vita: le loro carni sono corrotte dalla malvagità e dalla non morte, gli occhi ardono d'odio ed i denti divengono quelli di una bestia. In un certo senso, un wight è l'anello di congiunzione tra ghoul e spettri: un cadavere deforme che risucchia energia vitale col tocco.\\
 
@@ -36020,7 +36016,7 @@ che conosceva in vita
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario, coppia, gruppo (3-6) o branco (7-12)\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le creature viventi, avendo perduto la maggior parte del legame con la loro vita precedente.\\
 
@@ -36080,7 +36076,7 @@ I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le cr
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Piano della Terra)\\
 Organizzazione: Solitario, coppia o gruppo (3-6)\\
-Tesoro: Standard (solo metalli preziosi, gemme e gioielli e gemme magiche)\\
+\textbf{Tesoro}: Standard (solo metalli preziosi, gemme e gioielli e gemme magiche)\\
 \textbf{Descrizione}
 Strane creature larghe quanto alte, gli xorn hanno poco interesse verso i nativi del Piano Materiale, non fosse per le gemme ed i metalli preziosi che potrebbero avere con sé. Nascosti sotto la superficie del terreno per un tempo che ad un umano potrebbe sembrare lunghissimo, uno xorn può attendere mesi, perfino anni, per la preda ideale, per poi assalire chi porta con sé il suo cibo preferito, come una gemma particolare o un determinato tipo di argento. Gli avventurieri che si addentrano nelle regioni abitate dagli xorn portano spesso con sé piccole pepite di minerali o gemme e cristalli di scarso valore da utilizzare come tributo. Anche se il suo valore è solitamente direttamente proporzionale al suo sapore e all'appetibilità che esso può avere, la maggior parte degli xorn è piuttosto ingorda, e preferisce la quantità alla qualità.\\
 
@@ -36136,7 +36132,7 @@ Gli xorn non sono molto religiosi, ma quelli fra loro che trovano la fede sono s
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Qualsiasi\\
-Tesoro: Nessuno\\
+\textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 Gli zombi sono i cadaveri animati di creature morte, costretti a muoversi da magie necromantiche come Animare Morti. Anche se gli zombi incontrati di norma sono lenti e robusti, altri possiedono tratti differenti, che permettono loro di diffondere una malattia o di muoversi più rapidi.\\
 
