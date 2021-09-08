@@ -18,7 +18,7 @@
 
 **0.11** pubblicata versione 0.10, aggiornata copertina, correzioni ad animalia, limitato livello massimo incantesimo scaricabile tramite guerriero della magia, aggiornato pugno di ferro, correzioni minori a masterizzazione, cambiato livello apl per difficolta', corretta procedura comandi per anydice, aggiunto incantesimo piroesperto, aggiunto incantesimo hodor, sistemato allineamento testo, aggiunta header con nome sezione, alcuni dettagli su termini comuni, aggiunte opzioni magiche su armi armature e scudi
 
-*0.12* pubblicata versione 0.11, aggiornata copertina,
+*0.12* pubblicata versione 0.11, aggiornata copertina, rimossi da indice (ma non dall'analitico) le capacita' delle armi ed armature, rimossi da indice l'elenco delle liste magiche, 
 
 Perche OBSS ???
 
