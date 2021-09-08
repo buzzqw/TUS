@@ -16,7 +16,9 @@
 
 **0.10** pubblicata versione 0.9, aggiornata copertina, aggiunta regola opzione per giocare senza competenze (very old school), aggiornata terminologia di successo e fallimento critico magico, aggiornata terminologia di danni critici, cambieti riferimenti ad acqua santa ad acqua sacra, ulteriori indicazione su punti esperienza, aggiunta tipologia di moneta electrum, aggiunta regola opzionale per modificatori d'eta', correzioni minori su ts mostri, corretti requisti di alcuni oggetti magici, minime correzioni all'italiano in oggetti magici, allineamento testo oggetti magici, chiarimenti su arma sacro vendicatore, recuperata 1 pagina da oggetti magici, inserito caso di interruzione concentrazione, aggiunto incantesimo Gragnola di Ghiande Infuocate di Kyrin
 
-*0.11* pubblicata versione 0.10, aggiornata copertina, correzioni ad animalia, limitato livello massimo incantesimo scaricabile tramite guerriero della magia, aggiornato pugno di ferro, correzioni minori a masterizzazione, cambiato livello apl per difficolta', corretta procedura comandi per anydice, aggiunto incantesimo piroesperto, aggiunto incantesimo hodor, sistemato allineamento testo, aggiunta header cono nome sezione, alcuni dettagli su termini comuni, aggiunte opzioni magiche su armi armature e scude, 
+**0.11** pubblicata versione 0.10, aggiornata copertina, correzioni ad animalia, limitato livello massimo incantesimo scaricabile tramite guerriero della magia, aggiornato pugno di ferro, correzioni minori a masterizzazione, cambiato livello apl per difficolta', corretta procedura comandi per anydice, aggiunto incantesimo piroesperto, aggiunto incantesimo hodor, sistemato allineamento testo, aggiunta header con nome sezione, alcuni dettagli su termini comuni, aggiunte opzioni magiche su armi armature e scudi
+
+*0.12* pubblicata versione 0.11, aggiornata copertina,
 
 Perche OBSS ???
 

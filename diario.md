@@ -1,3 +1,11 @@
+**08/09/2021** 
+
+E' da piu' di una settimana che sto completamente rifacendo la parte degli oggetti magici. Riprendendo gli oggetti magici delle prime edizioni, modificandoli ed integrandoli nel sistema. Parliamo di circa 30 pagine aggiuntive di oggetti e tabelle!
+
+Un vero lavoraccio! spero di finire entro settimana.
+
+Ho anche "aggiustato" il layout, adesso totalmente giustificato ed aggiunto un header con il titolo della sezione.. nulla di che ma da un aspetto piu' professionale!
+
 **02/09/2021**
 
 Mi sono dedidato ad una rilettura veloce delle armi, proiettili ed armature magiche, da li ho fatto dei riferimenti anche nell'equipaggiamento, da li poi sono passato al combattimento, da li sono passato alle reti e bolas e poi ho riottimizzato il tutto.
