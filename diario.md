@@ -1,3 +1,10 @@
+**09/09/2021**
+
+FINITO! ho finito l'inserimento ed l rifacimento della parte delgi oggetti magici. Ci saranno errori, sviste, correzioni da fare, ma il grosso e' chiuso. Non e' stato facile rivedere tutto il layout di passa 240 oggetti magici.
+Rispetto a primac'e' stato un aumento di oltre 10 pagine tra tabelle e nuovi oggetti, un totale di quasi 60 pagie.
+
+E si, finalmente ci sono le tabelle per la generazione casuale degli oggetti magici, per chi volesse divertisi!
+
 **08/09/2021** 
 
 E' da piu' di una settimana che sto completamente rifacendo la parte degli oggetti magici. Riprendendo gli oggetti magici delle prime edizioni, modificandoli ed integrandoli nel sistema. Parliamo di circa 30 pagine aggiuntive di oggetti e tabelle!
