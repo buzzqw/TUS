@@ -22,6 +22,8 @@
 
 *0.13* pubblicata versione 0.12, aggiornata copertina, riviste tabelle generazione oggetti magici, aggiunte nuove immagini a capito generazione oggetti magici, migliorato layout capito generazione oggetti magici,
 
+10/09/2021 STAMPA
+
 Perche OBSS ???
 
 Non e' una domanda a cui e' facile rispondere.

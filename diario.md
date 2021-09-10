@@ -1,11 +1,17 @@
+**10/09/2021**
+
+Approfittando di uno sconto del 15% di LULU ho deciso di mandare stampa OBSS. E' la prima versione che stampo ma sono gia' estremamente soddisfatto. La parte di generazione degli oggetti magici e' piu' per folklore e tradizione, sono sempre stato uno che preferisce ragionare e mettere gli oggetti magici quando serviva.
+
+Oltretutto l'inserimento di moltissimi oggetti magici tradizionali, presi dalle vecchie edizioni concede ancora feeling migliore al progetto.
+
 **09/09/2021**
 
 FINITO! ho finito l'inserimento ed l rifacimento della parte delgi oggetti magici. Ci saranno errori, sviste, correzioni da fare, ma il grosso e' chiuso. Non e' stato facile rivedere tutto il layout di passa 240 oggetti magici.
-Rispetto a primac'e' stato un aumento di oltre 10 pagine tra tabelle e nuovi oggetti, un totale di quasi 60 pagie.
+Rispetto a primac'e' stato un aumento di oltre 10 pagine tra tabelle e nuovi oggetti, un totale di quasi 60 pagine di oggetti e tabelle magiche.
 
 E si, finalmente ci sono le tabelle per la generazione casuale degli oggetti magici, per chi volesse divertisi!
 
-**08/09/2021** 
+**08/09/2021**
 
 E' da piu' di una settimana che sto completamente rifacendo la parte degli oggetti magici. Riprendendo gli oggetti magici delle prime edizioni, modificandoli ed integrandoli nel sistema. Parliamo di circa 30 pagine aggiuntive di oggetti e tabelle!
 
