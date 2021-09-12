@@ -24,7 +24,7 @@
 
 10/09/2021 STAMPA
 
-*0.14* aggiunto medaglione della caduta piuma,
+*0.14* aggiunto medaglione della caduta piuma, modificato range di visione crempuscolare alle mezze razze,
 
 Perche OBSS ???
 
