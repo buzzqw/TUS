@@ -61,13 +61,50 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{cancel}
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
 
-\pagestyle{fancy}
 
-\fancyhf{} % clear all header and footers
-\renewcommand{\sectionmark}[1]{\markright{#1}}
-\renewcommand{\subsectionmark}[1]{\markright{#1}}
+\usetikzlibrary{shapes.misc,calc}
+\definecolor{lightgray}{gray}{0.95}
+
+\fancypagestyle{plain}{%
+	%% Clear all headers and footers
+	\fancyhf{}
+	%% Right headers on odd pages
+	\fancyhead[RO]{%
+		\rotatebox{90}{
+			\begin{tikzpicture}[overlay,remember picture]
+				\node[fill=lightgray,text=black,
+				font=\footnotesize,
+				inner ysep=12pt, inner xsep=20pt,
+				rounded rectangle,anchor=east,
+				xshift=-60mm,yshift=-23mm, text height=0.4cm]
+				at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
+				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\end{tikzpicture}
+		}	
+	}
+	%% Left headers on even pages
+	\fancyhead[LE]{%
+		\rotatebox{90}{
+			\begin{tikzpicture}[overlay,remember picture]
+				\node[fill=lightgray,text=black,
+				font=\footnotesize,
+				inner ysep=12pt, inner xsep=20pt,
+				rounded rectangle,anchor=east,
+				xshift=-60mm,yshift=-3mm, text height=0.4cm]
+				at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
+				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\end{tikzpicture}
+		}	
+	}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+}
+% ----------------------------------------------------------------
+\pagestyle{plain}
 \fancyfoot[C]{\thepage}
-\fancyhead[LE,RO]{\rightmark}
+%\renewcommand\sectionmark[1]{\markboth{\thesection.~#1}{}} 
+
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
 %\usepackage{xltabular}
 \usepackage{tabularx}
