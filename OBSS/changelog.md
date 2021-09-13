@@ -24,7 +24,7 @@
 
 10/09/2021 STAMPA
 
-*0.14* aggiunto medaglione della caduta piuma, modificato range di visione crempuscolare alle mezze razze, modificata durata incantesimo Luce, modificata durata incantesimo Luci danzanti, modificato raggio di luce di produrre fiamma, aggiunto incantesimo Lanciafiamme, inserito in margine pagia la sezione, 
+*0.14* aggiunto medaglione della caduta piuma, modificato range di visione crempuscolare alle mezze razze, modificata durata incantesimo Luce, modificata durata incantesimo Luci danzanti, modificato raggio di luce di produrre fiamma, aggiunto incantesimo Lanciafiamme, inserito in margine pagina la sezione, modificato titolo di sezione, 
 
 Perche OBSS ???
 

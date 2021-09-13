@@ -61,7 +61,6 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{cancel}
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
 
-
 \usetikzlibrary{shapes.misc,calc}
 \definecolor{lightgray}{gray}{0.95}
 
@@ -72,13 +71,13 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 	\fancyhead[RO]{%
 		\rotatebox{90}{
 			\begin{tikzpicture}[overlay,remember picture]
-				\node[fill=lightgray,text=black,
-				font=\footnotesize,
-				inner ysep=12pt, inner xsep=20pt,
-				rounded rectangle,anchor=east,minimum width=7cm,
-				xshift=-60mm,yshift=-23mm, text height=0.4cm]
-				at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
-				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\node[fill=lightgray,text=black,
+			font=\footnotesize,
+			inner ysep=12pt, inner xsep=20pt,
+			rounded rectangle,anchor=east,minimum width=7cm,
+			xshift=-60mm,yshift=-23mm, text height=0.4cm]
+			at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
+			{\sffamily\itshape\small\nouppercase{\leftmark}};
 			\end{tikzpicture}
 		}	
 	}
@@ -86,13 +85,13 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 	\fancyhead[LE]{%
 		\rotatebox{90}{
 			\begin{tikzpicture}[overlay,remember picture]
-				\node[fill=lightgray,text=black,
-				font=\footnotesize,
-				inner ysep=12pt, inner xsep=20pt,
-				rounded rectangle,anchor=east,minimum width=7cm,
-				xshift=-60mm,yshift=-3mm, text height=0.4cm]
-				at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
-				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\node[fill=lightgray,text=black,
+			font=\footnotesize,
+			inner ysep=12pt, inner xsep=20pt,
+			rounded rectangle,anchor=east,minimum width=7cm,
+			xshift=-60mm,yshift=-3mm, text height=0.4cm]
+			at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
+			{\sffamily\itshape\small\nouppercase{\leftmark}};
 			\end{tikzpicture}
 		}	
 	}
@@ -102,8 +101,6 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 % ----------------------------------------------------------------
 \pagestyle{plain}
 \fancyfoot[C]{\thepage}
-%\renewcommand\sectionmark[1]{\markboth{\thesection.~#1}{}} 
-
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
 %\usepackage{xltabular}
@@ -134,10 +131,11 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
 
 
-%\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
-\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textfrak{}
+\titleformat{\section}{\filcenter\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
+%\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textfrak{}
 \titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
 \titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
+
 
 
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
