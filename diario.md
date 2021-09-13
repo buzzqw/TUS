@@ -1,3 +1,16 @@
+**13/09/2021**
+
+Ho voluto modificare la visione crepuscolare delle mezze razze (mezz'elfo, mezz'orco) dandogli giustamente solo meta' della visione che hanno le razze "intere". Sono convinto che ci siano fin troppe razza con modalita' di visione oltre la norma.
+
+C'e' da dire che in OBSS non ci sono cosi' tante razze.. pero' su 8 razze 4 hanno qualche forma di visione estesa.
+Ho anche modificato gli incantesimi di illuminazione, gia' non erano piu' trucchetti, ho voluto proseguire andando a modificare anche gli altri incantesimi che potevano essere usati per illuminazione.  Very hardcore!
+
+Infine sono riuscito, dopo numerose prove a mettere sul bordo pagino il nome della sezione, questo oltre a essere piu' comodo quando si sfoglia velocemente il tomo gli concede un aspetto molto piu' professionale.
+
+Sono arrivato alla dirittura di arrivo e le ultime modifiche hanno spesso riguardato il layout, non vorrei dire ma ho visto manuale con un layout e struttura fatti molto peggio. Non e' certo professionale, ma sicuramente e' oltre il livello amatoriale e a livello base-professionale. 
+
+Il prossimo passo penso che sia la rivisitazione totale della parte avventure in dungeon, con una completa riscrittura molto piu' personalizzata.
+
 **10/09/2021**
 
 Approfittando di uno sconto del 15% di LULU ho deciso di mandare stampa OBSS. E' la prima versione che stampo ma sono gia' estremamente soddisfatto. La parte di generazione degli oggetti magici e' piu' per folklore e tradizione, sono sempre stato uno che preferisce ragionare e mettere gli oggetti magici quando serviva.
