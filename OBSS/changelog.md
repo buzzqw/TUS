@@ -20,11 +20,13 @@
 
 **0.12** pubblicata versione 0.11, aggiornata copertina, rimossi da indice (ma non dall'analitico) le capacita' delle armi ed armature, rimossi da indice l'elenco delle liste magiche, rivista completamente la sezione oggetti magici, aggiunte tabelle per gerazioni oggetti magici, aggiunti nuovi oggetti magici, aggiunte nuove immagini,
 
-**0.13** pubblicata versione 0.12, aggiornata copertina, riviste tabelle generazione oggetti magici, aggiunte nuove immagini a capito generazione oggetti magici, migliorato layout capito generazione oggetti magici, dettagli su fulmine, 
+**0.13** pubblicata versione 0.12, aggiornata copertina, riviste tabelle generazione oggetti magici, aggiunte nuove immagini a capito generazione oggetti magici, migliorato layout capito generazione oggetti magici, dettagli su fulmine 
 
 10/09/2021 STAMPA
 
-*0.14* aggiunto medaglione della caduta piuma, modificato range di visione crempuscolare alle mezze razze, modificata durata incantesimo Luce, modificata durata incantesimo Luci danzanti, modificato raggio di luce di produrre fiamma, aggiunto incantesimo Lanciafiamme, inserito in margine pagina la sezione, modificato titolo di sezione, corretti numerosi casi di è al posto di E', aggiunta abilita' concentrato, 
+**0.14** aggiunto medaglione della caduta piuma, modificato range di visione crempuscolare alle mezze razze, modificata durata incantesimo Luce, modificata durata incantesimo Luci danzanti, modificato raggio di luce di produrre fiamma, aggiunto incantesimo Lanciafiamme, inserito in margine pagina la sezione, modificato titolo di sezione, corretti numerosi casi di è al posto di E', aggiunta abilita' concentrato 
+
+*0.15* pubblicata versione 0.14, aggiornata copertina,
 
 Perche OBSS ???
 
