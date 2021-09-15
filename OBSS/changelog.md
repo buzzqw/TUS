@@ -26,9 +26,9 @@
 
 **0.14** aggiunto medaglione della caduta piuma, modificato range di visione crempuscolare alle mezze razze, modificata durata incantesimo Luce, modificata durata incantesimo Luci danzanti, modificato raggio di luce di produrre fiamma, aggiunto incantesimo Lanciafiamme, inserito in margine pagina la sezione, modificato titolo di sezione, corretti numerosi casi di è al posto di E', aggiunta abilita' concentrato 
 
-*0.15* pubblicata versione 0.14, aggiornata copertina, aggiunti dettagli alla aspettativa di vita delle razze, allineate immagini, migliorie layout famiglio, reimpaginato parte iniziale mostruario, corretto riferimento a TUS nel mostruario, corretti allineamento box veleno e affrontare i mostri, aggiunte due frasi motivazionali presi da Dnd Master Sete DnD Immortal Set di Mentzer,  ripulito il codice latex, modficato incantesimo mani brucianti
+**0.15** pubblicata versione 0.14, aggiornata copertina, aggiunti dettagli alla aspettativa di vita delle razze, allineate immagini, migliorie layout famiglio, reimpaginato parte iniziale mostruario, corretto riferimento a TUS nel mostruario, corretti allineamento box veleno e affrontare i mostri, aggiunte due frasi motivazionali presi da Dnd Master Sete DnD Immortal Set di Mentzer,  ripulito il codice latex, modficato incantesimo mani brucianti
 
-**0.15** pubblicata versione 0.15, aggiornata copertina, aggiornati parametri per prova di pronto soccorso, 
+**0.16** pubblicata versione 0.15, aggiornata copertina, aggiornati parametri per prova di pronto soccorso, 
 
 
 Perche OBSS ???
@@ -50,3 +50,35 @@ Ho anche altri progetti di semplificazione tanto per rimanere fedele al nome del
 per adesso sto compilando il sistema con le immagini disabilitate per fare prima.. se volete il sistema con le immagini chiedetelo.. altrimenti aspettate che si vada un po' piu' a stabilizzare il tutto.
 
 In realta' il sistema e' gia' bello che pronto.. ma ci mettero' continuamente le mani finche' non e' ancora meglio!
+
+
+
+-----------
+
+Da Stampa 10/09/2021 STAMPA >>>> Modifiche rispetto alla 0.15 - 2021-09-15
+
+Mezz'elfo > visione crepuscolare 9 m
+Mezzorco  > visione crepuscolare 9 m
+
+Incantesimi:
+
+Luce  >  Livello 1, Durata: 1 Turno per Competenza Magica
+Luce Diurna > Durata 1 Ora
+Luci Danzanti > Durata 1 minuto, luce fioca 3 m/raggio
+Mani Brucianti > 1d4 per CM, max 5d4
+Produrre Fiamma > Durata 10 minuti, luce fioca 1 m/raggio
+
+
+Abilita' Concentrato:
+Requisito: Competenza Magica 2
+Tiri Salvezza: +1 Tempra, +1 Volontà
+Scegli una Lista di Magia, la DC dei Tiri Salvezza dei tuoi incantesimi in quella lista aumenta di 1. L'Abilità può essere presa più volte sulla stessa Lista di Magia o su altre liste purché la volta che prendi quest'Abilità sia sia inferiore a CM/4.
+
+
+Competenza Pronto Soccorso- Aggiornati tempi di durata
+
+Una prova riuscita (base DC 15) in Pronto Soccorso può fare recuperare 1d4 Punti Ferita dopo uno scontro o concedere un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Da fare entro 1 turno dal termine del combattimento. Costo 12 round.
+
+Una prova riuscita (base DC 15) in Pronto Soccorso riduce di 1 i danni da Sanguinamento. Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 3, e la prova la riduce comunque di 1 alla volta. Costo 1 minuto.
+
+
