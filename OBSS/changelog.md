@@ -26,7 +26,10 @@
 
 **0.14** aggiunto medaglione della caduta piuma, modificato range di visione crempuscolare alle mezze razze, modificata durata incantesimo Luce, modificata durata incantesimo Luci danzanti, modificato raggio di luce di produrre fiamma, aggiunto incantesimo Lanciafiamme, inserito in margine pagina la sezione, modificato titolo di sezione, corretti numerosi casi di è al posto di E', aggiunta abilita' concentrato 
 
-*0.15* pubblicata versione 0.14, aggiornata copertina, aggiunti dettagli alla aspettativa di vita delle razze, allineate immagini, migliorie layout famiglio, reimpaginato parte iniziale mostruario, corretto riferimento a TUS nel mostruario, corretti allineamento box veleno e affrontare i mostri, aggiunte due frasi motivazionali presi da Dnd Master Sete DnD Immortal Set di Mentzer,  ripulito il codice latex, modficato incantesimo mani brucianti, 
+*0.15* pubblicata versione 0.14, aggiornata copertina, aggiunti dettagli alla aspettativa di vita delle razze, allineate immagini, migliorie layout famiglio, reimpaginato parte iniziale mostruario, corretto riferimento a TUS nel mostruario, corretti allineamento box veleno e affrontare i mostri, aggiunte due frasi motivazionali presi da Dnd Master Sete DnD Immortal Set di Mentzer,  ripulito il codice latex, modficato incantesimo mani brucianti
+
+**0.15** pubblicata versione 0.15, aggiornata copertina,
+
 
 Perche OBSS ???
 

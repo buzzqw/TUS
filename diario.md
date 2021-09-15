@@ -1,3 +1,14 @@
+**15/09/2021**
+
+Ok.. continuo a pubblicare versioni.. puo' mandare in confusione!
+
+L'obiettivo e' uno solo, rendere disponibile la migliore versione.
+Posso assicurarvi che ogni versione e' migliore della precedente, ma a questo punto del progetto ogni versione e' gia' piu' che buona!
+
+Quindi non sentitevi obbligati a stampare ogni versione.. scaricate l'ultima, controllate il changelog.. valutate se tenere la versione attuale o usare la nuova.
+In ogni caso non sbaglierete!
+
+
 **13/09/2021**
 
 Ho voluto modificare la visione crepuscolare delle mezze razze (mezz'elfo, mezz'orco) dandogli giustamente solo meta' della visione che hanno le razze "intere". Sono convinto che ci siano fin troppe razza con modalita' di visione oltre la norma.
