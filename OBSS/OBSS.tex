@@ -13,9 +13,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{setspace}
 \usepackage[a4paper]{geometry}
-%\geometry{verbose,tmargin=2cm,bmargin=2.2cm,lmargin=1.5cm,rmargin=2cm}
 \geometry{verbose,tmargin=2cm,bmargin=2.5cm,lmargin=1.5cm,rmargin=2cm}  %std
-%\geometry{verbose,tmargin=1.6cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
 \setcounter{secnumdepth}{-1}
 \usepackage{booktabs}
 \usepackage{url}
@@ -26,32 +24,19 @@
 %\usepackage[allfiguresdraft]{draftfigure}  %senza figure, deve rimanere alla riga 24
 
 \usepackage{amssymb}
-%\usepackage[export]{adjustbox}
-%\usepackage{float}
-%\PassOptionsToPackage{normalem}{ulem}
-%\usepackage{ulem}
-%\usepackage{amsmath}
 \usepackage{makeidx}
 \usepackage{multirow}
 \usepackage{titlesec}
-%\usepackage{textcomp}
-%\usepackage{background}
 \usepackage[unicode=true, bookmarks=true,
 pdftitle={OBSS - Old Bell School System},pdfauthor={Andres Zanzani},
 breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 {hyperref}
 \hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
 \usepackage{bookmark}
-%\usepackage{tgbonum}
-%\usepackage{baskervald}
 \usepackage{yfonts}
 \usepackage{lettrine}
 \usepackage{calligra}
 \renewcommand{\LettrineFontHook}{\calligra}
-%\newenvironment{spell}{\fontfamily{Bookinsanity}\selectfont}{\par}
-%\newcommand{\spell}{\fontfamily{Bookinsanity}\selectfont}
-
-
 \usepackage{accanthis}
 \usepackage{palatino}
 \usepackage{wrapfig}
@@ -112,18 +97,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{hyperref}
 \usepackage{tikz}
 
-%\usepackage{tabulary}
-
-%\usetikzlibrary{backgrounds,calc}
-%\pgfdeclarelayer{background}
-%\pgfdeclarelayer{foreground}
-%\pgfsetlayers{background,main,foreground}
-%\pdfminorversion=5
-%%\makeatletter
-%%\makeatother
 \raggedbottom
-
-%textfrak
 
 \usepackage{array}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
@@ -132,19 +106,13 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 \newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
 
-
 \titleformat{\section}{\filcenter\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
 %\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textfrak{}
 \titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
 \titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
 
-
-
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
-
-%\titleformat{\subsection}{\large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
-%\titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
 
 \setcounter{tocdepth}{3}
 
@@ -167,50 +135,6 @@ underlay={%
 drop fuzzy shadow % adds drop shadow
 }
 
-\newtcolorbox{narratoresmall}{
-enhanced, % enable advanced settings
-%left = 3mm,
-left = 9mm, % pushes text away from the left edge by 10mm
-sharp corners, % disables rounded corners
-rounded corners = southeast, % "round" the bottom right corner
-arc is angular, % make the "round" corner an angle
-arc = 3mm, % controls corner cut
-boxrule=0.6pt, % sets box line thickness
-underlay={%
-\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
-\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
-\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
-
-},
-drop fuzzy shadow % adds drop shadow
-}
-
-\newtcolorbox{narratorewide}{
-enhanced, % enable advanced settings
-%left = 3mm,
-width=0.95\textwidth,
-left = 9mm, % pushes text away from the left edge by 10mm
-sharp corners, % disables rounded corners
-rounded corners = southeast, % "round" the bottom right corner
-arc is angular, % make the "round" corner an angle
-arc = 3mm, % controls corner cut
-boxrule=0.6pt, % sets box line thickness
-underlay={%
-\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
-\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
-\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
-
-},
-drop fuzzy shadow % adds drop shadow
-}
-
-\newtcolorbox{enfasismall}{
-enhanced,
-arc=5pt,
-boxrule=0.3pt,
-width=0.425\textwidth
-}
-
 
 \newtcolorbox{enfasi}{
 enhanced,
@@ -218,64 +142,8 @@ arc=5pt,
 boxrule=0.3pt
 }
 
-\newtcolorbox{enfasiwide}{
-enhanced,
-arc=5pt,
-boxrule=0.3pt,
-width=0.95\textwidth
-}
-
-
-\newtcolorbox{esempio}{
-enhanced,
-title = Example,
-before upper={\parindent15pt\noindent} % add paragraph indentation
-}
-
-%\backgroundsetup{
-%scale=1,
-%color=black,
-%opacity=0.4,
-%angle=0,
-%contents={%
-%\includegraphics[width=\paperwidth,height=\paperheight]{paper.jpg}
-%}%
-%}
-
-%\backgroundsetup{
-%scale=1,
-%angle=0,
-%opacity=1,
-%color=black,
-%contents={\begin{tikzpicture}[overlay]
-%\node at ([xshift=6cm,yshift=-2.5cm] current page.north east)
-%{\includegraphics[width = 3cm]{destra.png}};
-%node at (([xshift=6cm,yshift=-2cm] current page.north west)
-%{\includegraphics[width = 3cm]{sinistra.png}} ;
-%node at (([xshift=-12cm,yshift=-2.5cm]current page.south west)
-%{\includegraphics[width = 3cm]{sinistra2.png}} ;
-%node at ([xshift=-18cm,yshift=-2.5cm] current page.south east)
-%{\includegraphics[width = 3cm]{destra2.png}};
-%\end{tikzpicture}}
-%contents={\includegraphics[width=\paperwidth,height=\paperheight]{paper.jpg}}
-%}
-
-%\pdfcompresslevel=0
-%\pdfobjcompresslevel=0
-
-%\backgroundsetup{contents={}}
-
-%\setlength{\parindent}{1em}
-
-%\setlength{\parindent}{2em}
-
-% arara: pdflatex: { synctex: yes, shell: no}
 
 \begin{document}
-
-%%\normalsize
-
-%%\linespread{1.5}
 
 \bigskip
 Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni
@@ -22032,9 +21900,7 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 
 \medskip
 
-\begin{narratorewide}
-L'elenco è di esempio per poter generare casualmente degli effetti sul possessore dell'oggetto. Prendete spunto e siate creativi!  Non fate però che una maledizione renda impossibile giocare il personaggio piuttosto deve essere vissuta come l'occasione per provare, fare, qualcosa di diverso. Non gettate mai un oggetto maledetto a caso nel mucchio dei tesori, pensate sempre cosa potrà accadere e quali conseguenze si genereranno. Un oggetto maledetto richiede sempre un alto livello di attenzione e pianificazione da parte del Narratori
-\end{narratorewide}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}L'elenco è di esempio per poter generare casualmente degli effetti sul possessore dell'oggetto. Prendete spunto e siate creativi!  Non fate però che una maledizione renda impossibile giocare il personaggio piuttosto deve essere vissuta come l'occasione per provare, fare, qualcosa di diverso. Non gettate mai un oggetto maledetto a caso nel mucchio dei tesori, pensate sempre cosa potrà accadere e quali conseguenze si genereranno. Un oggetto maledetto richiede sempre un alto livello di attenzione e pianificazione da parte del Narratori\end{narratore}\end{changemargin}
 
 \bigskip
 
@@ -23474,15 +23340,14 @@ Come gli animali, le creature vegetali non danno peso ai tesori, e tutto ciò ch
 
 \subsection{I Mostri}
 
-\begin{narratorewide}
 
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Le creature qui presentate vogliono essere un esempio, corposo, dei nemici che i tuoi amici potrebbero incontrare. Attenzione, non è detto che siano tutti nemici o per forza che abbiano intenzione negative.
-
+		
 Creature più civilizzate avranno una loro condotta etica e morale individuale, anche all'interno di uno stesso gruppo di "nemici" c'è chi potrebbe essere più "nemico" o semplicemente indifferente.
-
+		
 Sfrutta le peculiarità e unicità delle creature per creare incontri non scontati e sfidanti dal punto di vista tattico. Non essere scontato ma neanche assurdo nelle scelte, deve sempre esserci della coerenza nel piazzare le creature.
-
-\end{narratorewide}
+\end{narratore}\end{changemargin}
 
 
 \bigskip
