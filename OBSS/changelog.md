@@ -28,7 +28,7 @@
 
 *0.15* pubblicata versione 0.14, aggiornata copertina, aggiunti dettagli alla aspettativa di vita delle razze, allineate immagini, migliorie layout famiglio, reimpaginato parte iniziale mostruario, corretto riferimento a TUS nel mostruario, corretti allineamento box veleno e affrontare i mostri, aggiunte due frasi motivazionali presi da Dnd Master Sete DnD Immortal Set di Mentzer,  ripulito il codice latex, modficato incantesimo mani brucianti
 
-**0.15** pubblicata versione 0.15, aggiornata copertina,
+**0.15** pubblicata versione 0.15, aggiornata copertina, aggiornati parametri per prova di pronto soccorso, 
 
 
 Perche OBSS ???
