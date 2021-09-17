@@ -20,15 +20,15 @@
 
 **0.12** pubblicata versione 0.11, aggiornata copertina, rimossi da indice (ma non dall'analitico) le capacita' delle armi ed armature, rimossi da indice l'elenco delle liste magiche, rivista completamente la sezione oggetti magici, aggiunte tabelle per gerazioni oggetti magici, aggiunti nuovi oggetti magici, aggiunte nuove immagini,
 
-**0.13** pubblicata versione 0.12, aggiornata copertina, riviste tabelle generazione oggetti magici, aggiunte nuove immagini a capito generazione oggetti magici, migliorato layout capito generazione oggetti magici, dettagli su fulmine 
+**0.13** pubblicata versione 0.12, aggiornata copertina, riviste tabelle generazione oggetti magici, aggiunte nuove immagini a capito generazione oggetti magici, migliorato layout capito generazione oggetti magici, dettagli su fulmine
 
 10/09/2021 STAMPA
 
-**0.14** aggiunto medaglione della caduta piuma, modificato range di visione crempuscolare alle mezze razze, modificata durata incantesimo Luce, modificata durata incantesimo Luci danzanti, modificato raggio di luce di produrre fiamma, aggiunto incantesimo Lanciafiamme, inserito in margine pagina la sezione, modificato titolo di sezione, corretti numerosi casi di è al posto di E', aggiunta abilita' concentrato 
+**0.14** aggiunto medaglione della caduta piuma, modificato range di visione crempuscolare alle mezze razze, modificata durata incantesimo Luce, modificata durata incantesimo Luci danzanti, modificato raggio di luce di produrre fiamma, aggiunto incantesimo Lanciafiamme, inserito in margine pagina la sezione, modificato titolo di sezione, corretti numerosi casi di è al posto di E', aggiunta abilita' concentrato
 
 **0.15** pubblicata versione 0.14, aggiornata copertina, aggiunti dettagli alla aspettativa di vita delle razze, allineate immagini, migliorie layout famiglio, reimpaginato parte iniziale mostruario, corretto riferimento a TUS nel mostruario, corretti allineamento box veleno e affrontare i mostri, aggiunte due frasi motivazionali presi da Dnd Master Sete DnD Immortal Set di Mentzer,  ripulito il codice latex, modficato incantesimo mani brucianti
 
-*0.16* pubblicata versione 0.15, aggiornata copertina, aggiornati parametri per prova di pronto soccorso, 
+*0.16* pubblicata versione 0.15, aggiornata copertina, aggiornati parametri per prova di pronto soccorso, aggiornate tiri salvezza abilita' colpo indebilente e colpo paralizzante,
 
 
 Perche OBSS ???
@@ -55,7 +55,7 @@ In realta' il sistema e' gia' bello che pronto.. ma ci mettero' continuamente le
 
 -----------
 
-Da Stampa 10/09/2021 STAMPA >>>> Modifiche rispetto alla 0.15 - 2021-09-15
+Da Stampa 10/09/2021 STAMPA >>>> Modifiche al 2021-09-17
 
 Mezz'elfo > visione crepuscolare 9 m
 Mezzorco  > visione crepuscolare 9 m
@@ -74,6 +74,13 @@ Requisito: Competenza Magica 2
 Tiri Salvezza: +1 Tempra, +1 Volontà
 Scegli una Lista di Magia, la DC dei Tiri Salvezza dei tuoi incantesimi in quella lista aumenta di 1. L'Abilità può essere presa più volte sulla stessa Lista di Magia o su altre liste purché la volta che prendi quest'Abilità sia sia inferiore a CM/4.
 
+
+Colpo Indebolente:
+... Tiro Salvezza Riflessi DC pari 10+CA/2+DES
+
+
+Colpo Paralizzante:
+... deve effettuare un Tiro Salvezza Tempra con DC pari 10+CA/2+DES ....
 
 Competenza Pronto Soccorso- Aggiornati tempi di durata
 
