@@ -1,3 +1,14 @@
+**20/09/2021**
+
+Con l'ultimo aggiornamento (0.16) le cose piu' importante inserite sono state la nuova introduzione al capitolo dei dungeon e la rarita' degli incantesimi.
+
+Per quanto fosse fomralmente corretta la sezione sui dungon ho voluto inserire un cappello informativo piu' personalizzato e "vissuto" su cosa e' un dungeon in un sistema di ruolo e cosa ci sideve aspettare.
+Mi rendo conto che ci sarebbe da fare un volume solo dedicato a questo argomento, ho voluto comunque inserire alcuni suggerimenti che potessero aiutare il narratore alla prime armi a costruire un dungeon credibile. Ci sono tanti errori e leggerezze che si possono commettere quando si crea un dungeon .. e prima o poi si pagano, mettere qualche nota puo' aiutare, non risolvere ma sicuramente aiutare.
+
+La rarita' degl iincantesimi e' potenzialmente solo flavour. Ma per me no.
+In un sistema dove gli incantesimi si possono trovare ed anzi andare a caccia di incantesimi e' l'unico modo per trovarli di nuovi avere una indicazione sulla rarita' degli stessi puo' essere utile per sapere cosa si potrebbe trovare.
+Per cercare un incatesimo molto raro e' necessario cercare dove un incantatore di adeguata esperienza e ricche biblioteche puo' averlo lasciato.. insomma non e' ovvio trovare sempre incantesimi diversi e utili.. spesso si troveranno, se non si cerca in maniera oculata, sempre gli stessi incantesimi comuni...
+
 **15/09/2021**
 
 Ok.. continuo a pubblicare versioni.. puo' mandare in confusione!
@@ -18,7 +29,7 @@ Ho anche modificato gli incantesimi di illuminazione, gia' non erano piu' trucch
 
 Infine sono riuscito, dopo numerose prove a mettere sul bordo pagino il nome della sezione, questo oltre a essere piu' comodo quando si sfoglia velocemente il tomo gli concede un aspetto molto piu' professionale.
 
-Sono arrivato alla dirittura di arrivo e le ultime modifiche hanno spesso riguardato il layout, non vorrei dire ma ho visto manuale con un layout e struttura fatti molto peggio. Non e' certo professionale, ma sicuramente e' oltre il livello amatoriale e a livello base-professionale. 
+Sono arrivato alla dirittura di arrivo e le ultime modifiche hanno spesso riguardato il layout, non vorrei dire ma ho visto manuale con un layout e struttura fatti molto peggio. Non e' certo professionale, ma sicuramente e' oltre il livello amatoriale e a livello base-professionale.
 
 Il prossimo passo penso che sia la rivisitazione totale della parte avventure in dungeon, con una completa riscrittura molto piu' personalizzata.
 
