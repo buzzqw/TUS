@@ -5,7 +5,7 @@ Con l'ultimo aggiornamento (0.16) le cose piu' importante inserite sono state la
 Per quanto fosse fomralmente corretta la sezione sui dungon ho voluto inserire un cappello informativo piu' personalizzato e "vissuto" su cosa e' un dungeon in un sistema di ruolo e cosa ci sideve aspettare.
 Mi rendo conto che ci sarebbe da fare un volume solo dedicato a questo argomento, ho voluto comunque inserire alcuni suggerimenti che potessero aiutare il narratore alla prime armi a costruire un dungeon credibile. Ci sono tanti errori e leggerezze che si possono commettere quando si crea un dungeon .. e prima o poi si pagano, mettere qualche nota puo' aiutare, non risolvere ma sicuramente aiutare.
 
-La rarita' degl iincantesimi e' potenzialmente solo flavour. Ma per me no.
+La rarita' degl incantesimi e' potenzialmente solo flavour. Ma per me no.
 In un sistema dove gli incantesimi si possono trovare ed anzi andare a caccia di incantesimi e' l'unico modo per trovarli di nuovi avere una indicazione sulla rarita' degli stessi puo' essere utile per sapere cosa si potrebbe trovare.
 Per cercare un incatesimo molto raro e' necessario cercare dove un incantatore di adeguata esperienza e ricche biblioteche puo' averlo lasciato.. insomma non e' ovvio trovare sempre incantesimi diversi e utili.. spesso si troveranno, se non si cerca in maniera oculata, sempre gli stessi incantesimi comuni...
 
