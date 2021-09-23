@@ -2,7 +2,7 @@
 
 Con l'ultimo aggiornamento (0.16) le cose piu' importante inserite sono state la nuova introduzione al capitolo dei dungeon e la rarita' degli incantesimi.
 
-Per quanto fosse fomralmente corretta la sezione sui dungon ho voluto inserire un cappello informativo piu' personalizzato e "vissuto" su cosa e' un dungeon in un sistema di ruolo e cosa ci sideve aspettare.
+Per quanto fosse fomralmente corretta la sezione sui dungeon ho voluto inserire un cappello informativo piu' personalizzato e "vissuto" su cosa e' un dungeon in un sistema di ruolo e cosa ci sideve aspettare.
 Mi rendo conto che ci sarebbe da fare un volume solo dedicato a questo argomento, ho voluto comunque inserire alcuni suggerimenti che potessero aiutare il narratore alla prime armi a costruire un dungeon credibile. Ci sono tanti errori e leggerezze che si possono commettere quando si crea un dungeon .. e prima o poi si pagano, mettere qualche nota puo' aiutare, non risolvere ma sicuramente aiutare.
 
 La rarita' degl incantesimi e' potenzialmente solo flavour. Ma per me no.
