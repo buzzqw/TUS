@@ -56,7 +56,7 @@ In realta' il sistema e' gia' bello che pronto.. ma ci mettero' continuamente le
 
 -----------
 
-Da Stampa 10/09/2021 STAMPA >>>> Modifiche al 2021-09-17
+Da Stampa 10/09/2021 STAMPA >>>> Modifiche al 2021-09-23
 
 Mezz'elfo > visione crepuscolare 9 m
 Mezzorco  > visione crepuscolare 9 m
@@ -68,6 +68,10 @@ Luce Diurna > Durata 1 Ora
 Luci Danzanti > Durata 1 minuto, luce fioca 3 m/raggio
 Mani Brucianti > 1d4 per CM, max 5d4
 Produrre Fiamma > Durata 10 minuti, luce fioca 1 m/raggio
+Pelle di Pietra > Durata 1 ora, protegge 1d4+1/2 CM volte
+Preghiera di Guarigione > 6 creature, recuperano 2d6 + il tuo mod inc
+Scudo > protegge da dardo incantato e deflagrazione occulta
+Spostamento Planare > proibito
 
 
 Abilita' Concentrato:
