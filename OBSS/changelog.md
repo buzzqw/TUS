@@ -32,7 +32,7 @@
 
 22/09/2021 STAMPA
 
-*0.17* pubblicata versione 0.16, aggiornata copertina, aggiunta concentrazione ad arma spirituale,
+*0.17* pubblicata versione 0.16, aggiornata copertina, aggiunta concentrazione ad arma spirituale e modificato effetto, modificata difesa concessa da armatura magica,
 
 Perche OBSS ???
 
@@ -62,6 +62,8 @@ Da Stampa 22/09/2021 STAMPA >>>> Modifiche al 2021-09-26
 Incantesimi:
 
 Arma Spirituale > Durata: 3 minuti, Concentrazione. Basta 1 azione per spostarlo. Puoi effettuare un attacco da incantesimo in mischia contro una creatura entro 1 metro dall'arma con un bonus al colpire pari a Competenza Magica/4. Se colpisci, il bersaglio subisce danni da forza pari a 1d4 + il tuo modificatore di caratteristica per incantesimi da incantatore + Competenza Magica/4.
+
+Armatura magica > La Difesa del bersaglio diventa 13 + Destrezza +1/6 Competenza Magica.
 
 -----------
 
