@@ -30,7 +30,9 @@
 
 **0.16** pubblicata versione 0.15, aggiornata copertina, aggiornati parametri per prova di pronto soccorso, aggiornate tiri salvezza abilita' colpo indebilente e colpo paralizzante, aggiunte le abilita' iconiche (adattate dal mio Codex Aureus), rifatta parte iniziale avventure nei dungeon, inserite esempi di trappole tipiche da dungeon, aggiunto incantesimo trasforma pietra in fango, aggiornato indice mostri ed incantesimi, raggruppati in indice oggetti magici, raggruppati in indice armi magiche, raggruppati in indice armature e scudi magici, aggiunto concetto di rarità agli incantesimi, separati indici, avviata etichettatura rarita' incantesimi (fino ad eroismo), modificato avanzamento danno fiamma sacra, aggiornata rarita' fino a nube di nebbia, modificato incantesimo pelle di pietra, modificato preghiera di guarigione, modificato incantesimo scudo, messo spostamento planare tra incantesimi proibiti, aggiornata rarita' fino a suggestione di massa, corretta scuola incantesimo terremoto, terminato inserimento rarita' incantesimi
 
-*0.17* pubblicata versione 0.16, aggiornata copertina,
+22/09/2021 STAMPA
+
+*0.17* pubblicata versione 0.16, aggiornata copertina, aggiunta concentrazione ad arma spirituale,
 
 Perche OBSS ???
 
@@ -53,6 +55,13 @@ per adesso sto compilando il sistema con le immagini disabilitate per fare prima
 In realta' il sistema e' gia' bello che pronto.. ma ci mettero' continuamente le mani finche' non e' ancora meglio!
 
 
+
+
+Da Stampa 22/09/2021 STAMPA >>>> Modifiche al 2021-09-26
+
+Incantesimi:
+
+Arma Spirituale > Durata: 3 minuti, Concentrazione. Basta 1 azione per spostarlo. Se colpisci, il bersaglio subisce danni da forza pari a 1d4 + il tuo modificatore di caratteristica per incantesimi da incantatore + Competenza Magica/4.
 
 -----------
 
