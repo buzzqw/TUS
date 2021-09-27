@@ -32,7 +32,7 @@
 
 22/09/2021 STAMPA
 
-*0.17* pubblicata versione 0.16, aggiornata copertina, aggiunta concentrazione ad arma spirituale e modificato effetto, modificata difesa concessa da armatura magica,
+*0.17* pubblicata versione 0.16, aggiornata copertina, aggiunta concentrazione ad arma spirituale e modificato effetto, modificata difesa concessa da armatura magica, aggiunto dettaglio per copertura limitata, 
 
 Perche OBSS ???
 
