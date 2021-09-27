@@ -1,3 +1,11 @@
+**27/09/2021**
+
+Proseguono i piccoli aggiornamenti in base al playtesting, perlopiu' bilanciamenti e modifiche ad incantesimi per riprendere il sentimento di un tempo.
+
+Ho mandato in stampa la 0.16, sara' una ottima copia con cui partire.
+Sto temporeggiando nel pubblicizzare il sistema, nel voler allargare il playtesting e distribuzione... vorrei poter distribuire un manuale che ha gia' tante ore di controllo e gioco sulle spalle.
+
+
 **20/09/2021**
 
 Con l'ultimo aggiornamento (0.16) le cose piu' importante inserite sono state la nuova introduzione al capitolo dei dungeon e la rarita' degli incantesimi.
