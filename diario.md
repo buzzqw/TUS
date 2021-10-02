@@ -1,3 +1,10 @@
+**02/10/2021**
+
+Non ho abbandonato OBSS! Assolutamente NO!
+
+Semplicemente OBSS richiede meno manutenzione, meno correzioni data la sua maturita'. Ci sono ancora commit interessanti e quindi vi invito a scaricare sempre l'ultima versione disponibile!
+
+
 **27/09/2021**
 
 Proseguono i piccoli aggiornamenti in base al playtesting, perlopiu' bilanciamenti e modifiche ad incantesimi per riprendere il sentimento di un tempo.
