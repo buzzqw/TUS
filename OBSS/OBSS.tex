@@ -16409,7 +16409,7 @@ Attivatore: visivo (Visione del Vero)
 
 Ripristino: nessuno
 
-Effetto: Attacco di contatto a distanza 18 metri +10, Punti Ferita max calano di 10d4
+Effetto: Attacco di contatto a distanza 18 metri +10, Punti Ferita max calano di 10d4 + Affaticata.
 
 TS: Tempra DC 23 nega dopo 24 ore
 
@@ -35999,14 +35999,14 @@ I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi
 
 \emph{\textbf{Morso.} Attacco con arma da mischia}: +6 a colpire, portata 1 m, una creatura afferrata dal vampiro, inabile o intralciata.
 
-\emph{Colpisce:} 6 (1d6 + 3) danni perforanti più 7 (2d6) danni da Vuoto. I Punti Ferita massimi del bersaglio sono ridotti di un ammontare pari al danno da Vuoto subito, e il vampiro recupera un numero di Punti Ferita pari a quell'ammontare. Questa riduzione permane fino alla nuova alba. Il bersaglio muore se questo effetto riduce i suoi Punti Ferita massimi a 0. La creature prende -2 a tutte le prove (vedi condizione Risucchio di Energia).
+\emph{Colpisce:} 6 (1d6 + 3) danni perforanti più 7 (2d6) danni da Vuoto. I Punti Ferita massimi del bersaglio sono ridotti di un ammontare pari al danno da Vuoto subito, e il vampiro recupera un numero di Punti Ferita pari a quell'ammontare. Questa riduzione permane fino alla nuova alba. Il bersaglio muore se questo effetto riduce i suoi Punti Ferita massimi a 0. La creatura diventa Affaticata.
 
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
 Organizzazione: Solitario, coppia, gruppo (3-6) o turba (7-12)\\
 \textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
-Un Vampiro può decidere di creare da una vittima una progenie vampirica anziché farne un vampiro completo solo quando usa la sua capacità creare progenie su una creatura umanoide. Questa decisione deve essere presa come azione gratuita appena un vampiro uccide una creatura appropriata usando risucchio di sangue o risucchio di energia. \\
+Un Vampiro può decidere di creare da una vittima una progenie vampirica anziché farne un vampiro completo solo quando usa la sua capacità creare progenie su una creatura umanoide. Questa decisione deve essere presa come azione gratuita appena un vampiro uccide una creatura appropriata usando il morso. \\
 
 
 \medskip\index[Mostruario]{Verme Purpureo}\textbf{Verme Purpureo}
@@ -41513,10 +41513,27 @@ Concentrandosi completamente sull'incantesimo (2 Azioni), si possono ricevere pe
 
 Ovviamente ordini palesemente autodistruttivi non vengono eseguiti. Una volta stabilito il controllo, il raggio di azione entro il quale può essere mantenuto è illimitato purché entrambi i soggetti rimangano sullo stesso piano. Non c'è bisogno di vedere il soggetto per controllarlo. Se ogni giorno non si trascorre almeno 1 minuto a concentrarsi sull'incantesimo, il soggetto riceve un nuovo Tiro Salvezza per liberarsi dal controllo.
 
-\textbf{Dormire}\index{Dormire}: Ogni volta che un personaggio termina un periodo di 24 ore senza dormire almeno 8 ore, deve superare un tiro salvezza su Costituzione con DC 12, altrimenti diventa Affaticato. Ogni riposo mancato ulteriore lo renderà ancora più Affaticato cumulando le penalità relative.
-Se il personaggio resta sveglio per più giorni, lottare contro il sonno diventa più difficile. Dopo le prime 24 ore, la DC aumenta di 5 per ogni periodo consecutivo di 24 ore trascorso senza aver dormito 8 ore. La DC torna a 12 quando il personaggio completa un riposo di almeno 8 ore.
+\textbf{Dormire}\index{Dormire}: Ogni volta che un personaggio termina un periodo di 24 ore senza dormire almeno 8 ore, deve superare un tiro salvezza su Tempra con DC 15, altrimenti diventa Affaticato. Ogni riposo mancato ulteriore lo renderà ancora più Affaticato cumulando le penalità relative.
+Se il personaggio resta sveglio per più giorni, lottare contro il sonno diventa più difficile. Dopo le prime 24 ore, la DC aumenta di 5 per ogni periodo consecutivo di 24 ore trascorso senza aver dormito 8 ore. La DC torna a 15 quando il personaggio completa un riposo di almeno 8 ore.
 
 \textbf{Esausto}:\index{Esausto} Un personaggio esausto si muove a velocità dimezzata e subisce penalità -2 a Costituzione e Destrezza. Dopo 1 ora di completo riposo (o Ristorare Inferiore), un personaggio esausto diventa solo Affaticato. Un personaggio Affaticato diventa Esausto compiendo una azione che normalmente lo affaticherebbe.
+
+Una creatura Esausta può essere ulteriormente influenzata da effetti di affaticamento ulteriori. Un effetto di Affaticamento farà aumentare di un grado il livello di Esausto
+
+\medskip
+
+\begin{tabularx}{0.45\textwidth}{lX}
+\textbf{Condizioni} & \textbf{Grado di}\\
+&\textbf{Affaticamento}\\
+\hline
+vedi \textbf{Affaticato}&1\\
+vedi \textbf{Esausto}&2\\
+-1d6 ai TC e TS&3\\
+Punti Ferita Massimi dimezzati&4\\
+Morte&5\\
+\end{tabularx}
+
+Le penalità indicate sono cumulative.\\
 
 \textbf{Inabile}\index{Inabile}: Una creatura inabile non può effettuare azioni o reazioni.
 
@@ -41596,8 +41613,6 @@ L'unica opzione di movimento per una creatura prona è di strisciare, a meno che
 Il personaggio può eseguire una prova di Acrobatica, se è pari o superiore a 15 ed entro 20 ti permette di dimezzare questi malus e costa una Azione alzarsi, se fai 20 o più annulli i malus e costa 1 Azione alzarsi.
 
 \textbf{Punti Ferita Massimi}\index{Punti Ferita Massimi}: una creatura che subisca un attacco che abbassa i Punti Ferita massimo deve calare prima i Punti Ferita massimi attuali e poi diminuisce dello stesso ammontare i Punti Ferita attuali. Se i Punti Ferita massimi arrivano a 0 la creatura è morta.
-
-\textbf{Risucchio di Energia}\index{Risucchio di Energia}: una creatura che subisca un attacco da risucchio di energia oltre al danno segnato prende un -2 ad ogni prova (Tiro per Colpire, Prove di Competenze o Abilità, Prove di di Magia o Tiri Salvezza) che effettua. Il malus e' comulativo per ogni attacco subito.
 
 \textbf{Scosso}:\index{Scosso}I personaggi che sono scossi subiscono penalità -2 ai Tiri per Colpire, ai Tiri Salvezza e alle prove.
 
