@@ -32,7 +32,9 @@
 
 22/09/2021 STAMPA
 
-*0.17* pubblicata versione 0.16, aggiornata copertina, aggiunta concentrazione ad arma spirituale e modificato effetto, modificata difesa concessa da armatura magica, aggiunto dettaglio per copertura limitata, dettagliato penalita' per quanto riguarda il tornare dalla morte, modificato colpo di grazia, un personaggio che muore  torna affaticato, aggiunto dettaglio su ruolo Narratore, aggiornato incantesimo Ristorare Superiore, aggiunti livelli di affaticamento, aggiornato incantesimo trucco della corda,
+**0.17** pubblicata versione 0.16, aggiornata copertina, aggiunta concentrazione ad arma spirituale e modificato effetto, modificata difesa concessa da armatura magica, aggiunto dettaglio per copertura limitata, dettagliato penalita' per quanto riguarda il tornare dalla morte, modificato colpo di grazia, un personaggio che muore  torna affaticato, aggiunto dettaglio su ruolo Narratore, aggiornato incantesimo Ristorare Superiore, aggiunti livelli di affaticamento, aggiornato incantesimo trucco della corda, aggiornato screen
+
+*0.18* pubblicata versione 0.17, aggiornata copertina
 
 Perche OBSS ???
 
