@@ -34,7 +34,7 @@
 
 **0.17** pubblicata versione 0.16, aggiornata copertina, aggiunta concentrazione ad arma spirituale e modificato effetto, modificata difesa concessa da armatura magica, aggiunto dettaglio per copertura limitata, dettagliato penalita' per quanto riguarda il tornare dalla morte, modificato colpo di grazia, un personaggio che muore  torna affaticato, aggiunto dettaglio su ruolo Narratore, aggiornato incantesimo Ristorare Superiore, aggiunti livelli di affaticamento, aggiornato incantesimo trucco della corda, aggiornato screen
 
-*0.18* pubblicata versione 0.17, aggiornata copertina, tolta capacita' versatile da lista armi leggere, aggiunta Abilita' Pugno Potente, modificata abilita' volonta' ferrea e resistenza della pietra e riflessi fulminei, riorganizzato talento armi versatili, rivista lista d'armi armi leggere,  un arma versatile applica il bonus della destrezza solo al tiro per colpire, variante attacchi multipli, l'Azione Multiattacco variante consuma 2 Azioni, layout, cambiata variante degli attacchi multipli, 
+*0.18* pubblicata versione 0.17, aggiornata copertina, tolta capacita' versatile da lista armi leggere, aggiunta Abilita' Pugno Potente, modificata abilita' volonta' ferrea e resistenza della pietra e riflessi fulminei, riorganizzato talento armi versatili, rivista lista d'armi armi leggere,  un arma versatile applica il bonus della destrezza solo al tiro per colpire, variante attacchi multipli, l'Azione Multiattacco variante consuma 2 Azioni, layout, cambiata variante degli attacchi multipli, cambiato bonus carica, combattere da posizione sopraelevata da +2 al tc, piccoli chiarimenti in lista d'armi, 
 
 Perche OBSS ???
 
