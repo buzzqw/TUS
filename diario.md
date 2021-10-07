@@ -1,6 +1,6 @@
 **06/10/2021**
 
-WOW! dico solo questo. WOW. Mi e' arrivata la copia di OBSS stampata da Lulu, versione 0.16, veramente bello. Un manuale strutturato bene, impaginato quasi professionalmente, ben paginato! Ho visto diversi errori di battitura.. e ci sta.. sembra che chi faccia il playtesting non controlli bene il testo!
+WOW! dico solo questo. WOW. Mi e' arrivata la copia di OBSS stampata da Lulu, versione 0.16, veramente bello. Un manuale strutturato bene, impaginato quasi professionalmente, ben organizzato! Ho visto diversi errori di battitura.. e ci sta.. sembra che chi faccia il playtesting non controlli bene il testo!
 Quando l'ho sfogliato mi sono quasi commosso. Certo la 0.16 e' gia' "vecchia" ma.. mi piace e tanto, sia come sistema sia come libro. 
 
 Da collezionista di GDR la struttura di un manuale e' la prima cosa che guardo e OBSS mi rende orgoglioso!
