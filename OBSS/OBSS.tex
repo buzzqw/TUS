@@ -80,7 +80,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 			font=\footnotesize,
 			inner ysep=12pt, inner xsep=20pt,
 			rounded rectangle,anchor=east,minimum width=7cm,
-			xshift=-60mm,yshift=-3mm, text height=0.4cm]
+			xshift=-60mm,yshift=-2mm, text height=0.4cm]
 			at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
 			{\sffamily\itshape\small\nouppercase{\leftmark}};
 			\end{tikzpicture}
@@ -5973,17 +5973,23 @@ Per prendere come bersaglio una cosa, devi avere la traiettoria sgombera verso d
 
 Se un incantesimo prende come bersaglio una creatura a tua scelta, puoi scegliere anche te stesso, a meno che la creatura non debba essere ostile o sia specificato che non possa essere tu. Se ti trovi nell'area di effetto di un incantesimo lanciato da te, anche tu ne sarai influenzato.
 
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/tarothanged.png}
-
-	\textit{Tarocchi - L'Impiccato}
-\end{center}
+%\begin{center}
+%	\includegraphics[width=0.6\linewidth]{immagini/tarothanged.png}
+%
+%	\textit{Tarocchi - L'Impiccato}
+%\end{center}
 
 \subsubsection{Aree di Effetto}\index{Area di Effetto incantesimi}
 
 Incantesimi come mani brucianti e cono di freddo coprono un'area, permettendogli di colpire più creature alla volta.
 
 La descrizione di un incantesimo specifica la sua area di effetto, che di solito rientra in una di queste cinque forme: cilindro, cono, cubo, linea o sfera. Ogni area di effetto ha un punto di origine, un luogo da cui erutta l'energia dell'incantesimo. Le regole per ciascuna forma specificano come posizionare il suo punto di origine. Di solito il punto di origine è un punto nello spazio, ma alcuni incantesimi hanno un'area la cui origine è una creatura o un oggetto.
+
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{immagini/3dforme.png}
+
+	\textit{Cono, Sfera, Cilindro, Cubo}
+\end{center}
 
 \begin{itemize}
 \item  \textit{\textbf{Cilindro}}: il punto di origine di un cilindro è il centro di un cerchio di specifico raggio, come indicato nella descrizione dell'incantesimo. Il cerchio deve essere sul pavimento o all'altezza dell'effetto dell'incantesimo. L'energia in un cilindro si espande in linee dritte dal punto di origine al perimetro del cerchio, formando la base del cilindro. L'effetto dell'incantesimo parte poi dal basso verso l'alto o dall'alto verso il basso, fino a una distanza uguale all'altezza del cilindro.Il punto di origine del cilindro è incluso nella sua area di effetto.
@@ -6004,11 +6010,7 @@ Il punto di origine della sfera è incluso nella sua area di effetto.
 
 \end{itemize}
 
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/3dforme.png}
 
-\textit{Cono, Sfera, Cilindro, Cubo}
-\end{center}
 
 \subsubsection{Rarità degli Incantesimi}\index{Rarità degli Incantesimi}
 
@@ -6046,6 +6048,21 @@ Un Seguace ottiene +1d6 alle Prove di Magia nelle scuole preferita dal Patrono. 
 Un Devoto aggiunge +1d6 alle Prova di Magia nelle scuole preferite dal Patrono e ignora un 1 tirato nella Prova di Magia. Devi usare l'energia preferita del Patrono nei tuoi incantesimi.
 \end{itemize}
 
+\subsubsection{Prova di Magia}\index{Prova di Magia}\index{Successo critico magico}\index{Fallimento critico magico}
+
+Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni e bene, anzi agisca oltre le sue normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un \emph{\textbf{Prova di Magia}} e tirare \textbf{3d6 + 1d6 ogni 4 punti di Competenza Magica} + eventuali bonus.
+
+Se nell'insieme di dadi lanciati ci sono almeno due 1 oppure un 1 e due 2 saranno successe brutte cose, questo caso viene chiamato \textbf{fallimento critico magico}, l'incantesimo non si manifesta ed i Punti Magia sono spesi.
+Per verificare quanti fallimenti critici magici sono stati fatti controllate per primo quante coppie di 1 sono presenti, controllate poi se e' rimasto una altro 1 da associare a due 2.
+
+Controllata l'assenza di fallimento critico se nel tiro di dadi ci sono almeno due 6 avrai ottenuto un \textbf{successo critico magico}, come per le Golden Rules continuerai a tirare un dado per ogni 6 fatto o che andrai a fare. Conta i 6 che fai, ogni due è un successo critico magico! Eventuali 1 tirati a seguito del successo critico non contano per il fallimento critico. \textbf{Per ogni critico ottenuto la DC del Tiro Salvezza aumenta di 1}.
+
+Se non c'è nessun risultato "particolare" (ne fallimento ne successo critico) l'incantesimo se non richiesto diversamente si manifesta normalmente.
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+		Concedete un +1d6 alla Prova di Magia, se richiesta, quando il giocatore declama con perizia e trasporto il lancio dell'incantesimo. Se dice "\textit{Lancio una palla di fuoco}" non otterrà vantaggi ma se con trasporto declama "\textit{Per tutti i fuochi infernali possa Nedraf trascinarvi all'inferno con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!}" allora un bonus di +1d6 è più che doveroso.
+\end{narratore}\end{changemargin}
+
 \subsubsection{Accesso alle Liste di Magia}\hypertarget{scuoleelivelli}{}\index{Livello Incantesimi per Abilità}
 
 Un incantatore può scrivere incantesimi nel suo Tomo solo se appartengono ad una Lista di Magia che ha appreso tramite l'Abilità Adepto della Magia.
@@ -6053,6 +6070,10 @@ Un incantatore può scrivere incantesimi nel suo Tomo solo se appartengono ad un
 Gli unici incantesimi che si possono copiare sul Tomo pur non avendo mai appreso una Lista di Magia sono quelli della Scuola Universale.
 
 Il numero di volte che viene presa l'Abilità \hyperlink{scuoladimagia}{Adepto della Magia} sulla stessa Lista stabilisce, assieme alla Competenza Magica ed al punteggio di Caratteristica collegato alla Lista, il massimo livello di incantesimo lanciabile di quella Lista di Magia.
+
+Nella tabella sono indicati i punteggi minimi di Competenza Magica e quante volte deve essere presa Adepto di Magia, nonché il valore minimo di Caratteristica necessario su quella Lista per accedere ai livelli degli incantesimi.
+
+Es. con Competenza Magica 12 se ho preso 0 volte l'Abilità Adepto della Magia posso lanciare solo incantesimi di livello 0 (Trucchetti), se ho preso una volta l'Abilità (su lista Fuoco ad esempio) posso arrivare fino al quarto livello, se l'ho presa due volte fino al sesto livello, se l'ho presa tre volte comunque non posso andare oltre il sesto livello.
 
 \medskip
 
@@ -6083,28 +6104,9 @@ Magica $\downarrow$&&&&&&\\
 
 \medskip
 
-Nella tabella sono indicati i punteggi minimi di Competenza Magica e quante volte deve essere presa Adepto di Magia, nonché il valore minimo di Caratteristica necessario su quella Lista per accedere ai livelli degli incantesimi.
-
-Es. con Competenza Magica 12 se ho preso 0 volte l'Abilità Adepto della Magia posso lanciare solo incantesimi di livello 0 (Trucchetti), se ho preso una volta l'Abilità (su lista Fuoco ad esempio) posso arrivare fino al quarto livello, se l'ho presa due volte fino al sesto livello, se l'ho presa tre volte comunque non posso andare oltre il sesto livello.
-
 \emph{Leggete la tabella in questo modo}: andate sulla riga della vostra Competenza Magica e incrociate la colonna con le volte che avete preso Adepto della Magia su quella Lista di Magia, avete accesso ai livelli di incantesimo indicati da quando partono i check in su.
 
 Il livello massimo di incantesimo che trovate deve essere verificato con il punteggio di Caratteristica, della Lista Magia, minimo necessario. Nell'esempio precedente,  devo avere Forza 3 o più per lanciare incantesimi di 6 livello, altrimenti si può lanciare fino al livello che il punteggio di Caratteristica mi concede. Qui l'elenco delle \hyperlink{elencoscuole}{Liste di Magia} con i loro incantesimi e la loro \hyperlink{lescuoledimagia}{descrizione}
-
-\subsubsection{Prova di Magia}\index{Prova di Magia}\index{Successo critico magico}\index{Fallimento critico magico}
-
-Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni e bene, anzi agisca oltre le sue normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un \emph{\textbf{Prova di Magia}} e tirare \textbf{3d6 + 1d6 ogni 4 punti di Competenza Magica} + eventuali bonus.
-
-Se nell'insieme di dadi lanciati ci sono almeno due 1 oppure un 1 e due 2 saranno successe brutte cose, questo caso viene chiamato \textbf{fallimento critico magico}, l'incantesimo non si manifesta ed i Punti Magia sono spesi.
-Per verificare quanti fallimenti critici magici sono stati fatti controllate per primo quante coppie di 1 sono presenti, controllate poi se e' rimasto una altro 1 da associare a due 2.
-
-Controllata l'assenza di fallimento critico se nel tiro di dadi ci sono almeno due 6 avrai ottenuto un \textbf{successo critico magico}, come per le Golden Rules continuerai a tirare un dado per ogni 6 fatto o che andrai a fare. Conta i 6 che fai, ogni due è un successo critico magico! Eventuali 1 tirati a seguito del successo critico non contano per il fallimento critico. \textbf{Per ogni critico ottenuto la DC del Tiro Salvezza aumenta di 1}.
-
-Se non c'è nessun risultato "particolare" (ne fallimento ne successo critico) l'incantesimo se non richiesto diversamente si manifesta normalmente.
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-Concedete un +1d6 alla Prova di Magia, se richiesta, quando il giocatore declama con perizia e trasporto il lancio dell'incantesimo. Se dice "\textit{Lancio una palla di fuoco}" non otterrà vantaggi ma se con trasporto declama "\textit{Per tutti i fuochi infernali possa Nedraf trascinarvi all'inferno con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!}" allora un bonus di +1d6 è più che doveroso.
-\end{narratore}\end{changemargin}
 
 \medskip
 
@@ -6114,14 +6116,20 @@ Concedete un +1d6 alla Prova di Magia, se richiesta, quando il giocatore declama
 \textit{Merlin. Howard Pyle illustration from the 1903 edition of The Story of King Arthur and His Knights}
 \end{center}
 
-\medskip
-
 \subsubsection{Opzionale - Magia Suprema}\index{It's over 9000!}\index{Opzionale - Magia Suprema}
 Per gestire una magia di altissimo livello fatta da incantatori supremi o altamente specializzati possono essere applicate queste regole opzionali.
 
 - \textbf{Magia Suprema}\index{Magia suprema}: se si vuole che gli incantatori di alto livello dominino la magia nella maniera più completa stabilite che ogni 6 punti di Competenza Magica il giocatore ignori un 1 tirato nella Prova di Magia.
 
 - \textbf{Specialista}\index{Specialista}: l'incantatore aggiunge 1d6, ed ignora un 1 od un 2 nella Prova di Magia, per ogni volta che ha preso l'Abilità Adepto della Magia. Il vantaggio si computa e applica per Lista di Magia.
+
+\subsubsection{Opzionale - Arte Magica}\index{Ars Magica}\index{Opzionale - Arte Magica}
+
+Un approccio estremamente libero alla magia può essere quello di non limitare, se non in parte, il numero di incantesimi lanciabili.
+
+- Un incantatore può lanciare CM/2+modificatore di caratteristica da incantesimo incantesimi al giorno (questo valore è chiamato Soglia)
+
+- Per ogni incantesimo che si vuole lanciare oltre la Soglia l'incantatore deve effettuare una Prova di Magia e confrontare il risultato con 12 + 2xLivello Incantesimo che si vuole lanciare. Se la prova riesce l'incantesimo è lanciato, se la prova fallisce l'incantesimo non viene lanciato e la Soglia aumenta di 1 per i prossimi incantesimi. Se la prova riesce di 10 o più la Soglia si abbassa di 1. Non vale la regola del successo critico o fallimento critico nella Prova di Magia
 
 \subsubsection{Fallimento Critico nella Prova della Magia}\index{Fallimento Critico nella Prova della Magia}
 
