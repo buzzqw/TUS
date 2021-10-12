@@ -1,3 +1,14 @@
+**12/10/2021**
+
+Mi e' costato, piu' che fatica stress..., ma ho inserito dei "template" di classe all'interno di OBSS. Vuole essere un aiuto a costruire i personaggi, nulla di che ma mi rendo conto che per me e' indubbiamente piu' facile prepare qualcosa conoscendo bene il sistema.
+
+La parte piu' difficile e' incastrare le abilita', finche' fai un "mono classe" e' facile, ma se vuoi fare qualcosa di piu' ibrido devi trovare i giusti bilanciamenti.
+Il lavoro non e' ancora prettamente completo, ad esempio nel paladino mancano diverse abilita' come l'immunita' alla malattie, il bonus ai tiri salvezza.. queste piu' che abilita' sono vantaggi da pagare con svantaggi come l'etica, la poverta'..
+
+Il prossimo passo importante, in previsione della versione 0.20 che mi piacerebbe portare a 1.0 ovvero a prima stabile e' trovare una copertina decente.
+
+Lancio un appello agli artisti e disegnatori che giocano ai miei gdr.. potete inviare/proporre una cover ?
+
 **08/10/2021**
 
 C'e' stata una sessione particolarmente interessante, combattuta e gestita in maniera arguta dai giocatori, mi ha portato a ricontrollare e chiarire parte della sezione del combattimento. Nessuna modifica trascendentale ma come sempre piccoli aggiustamenti.
