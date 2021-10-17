@@ -1,3 +1,13 @@
+**17/10/2021**
+
+Ho voluto aggiungere un paio di mostri iconici del fantasy, il panopticon (colui che tutto vede) ricco di occhi e raggi magici, il G.E.C. (grande essere chitinoso) dalle potenti chele e lo sguardo che confonde ed il B.O.C. (black ops cat) il grande felino che distorce la luce.
+
+Sono mostri tradizionali e solo perche' il nome "originale" e' una IP della WotC non significa che non sia possibile riprodurli con nomi diversi!
+Ce ne sarebbe anche altri.. ma ammetto che non sono mai stato affascinato dall'uomo seppia...
+
+La pubblicazione della 0.19 chiude un altro piccolo capitolo, i prossimi passi sono la copertina e valutare se arricchire la preparazione delle schede, con template piu' completi e ricchi.
+
+
 **12/10/2021**
 
 Mi e' costato, piu' che fatica stress..., ma ho inserito dei "template" di classe all'interno di OBSS. Vuole essere un aiuto a costruire i personaggi, nulla di che ma mi rendo conto che per me e' indubbiamente piu' facile prepare qualcosa conoscendo bene il sistema.
