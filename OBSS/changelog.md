@@ -38,7 +38,7 @@
 
 **0.19** pubblicata versione 0.18, aggiornata copertina, aggiunto suggerimento per denaro al primo livello, il cubo gelatinoso ha immunità alla armi da taglio, minori modifiche a tabella punti esperienza, minime correzione nel capito draghi, dettagli su giorni della settimana e calendario, dettagli su varinte non usare competenze, rinominata moring star in mazza chiodata, aggiunta' abilita' Un solo corpo, una sola mente, un solo spirito, rimosso abilita' preferito e lasciato solo specialista, aggiunti esempi di build di personaggi per classe, alcune precisazioni su classi, aggiunto mostro orchetto, corretti riferimenti a falchion con falcione, aggiunto mostro panopticon, aggiunto il grande essere chitinoso G.E.C., aggiunto il Black Ops Cat B.O.C
 
-*0.20* pubblicata versione 0.19, aggiornata copertina, dettagli su personaggi per stile, dettagli su Panopticon ed Orchi, 
+*0.20* pubblicata versione 0.19, aggiornata copertina, dettagli su personaggi per stile, dettagli su Panopticon ed Orchi, modificato tiro salvezza paralisi per ghoul, corretti riferimenti a turno con round in mostruario, 
 
 
 
