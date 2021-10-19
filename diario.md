@@ -1,6 +1,6 @@
 **19/10/2021**
 
-Negli ultimi due giorni ho inserito alcuni mostri che stranamente non erano inclusi nella OGL, chiaramente ho dovuto dargli dei nomi diversi ma le abilita' proprie sono quelle caratteristiche. Gli inserimenti sono orchetto, panopticon, grande essere chitinoso, Black Ops Cat, Fenice, Divora Cervelli, Verme Strisciante Tentacolato ed il Teschio Fiammeggiante.
+Negli ultimi due giorni ho inserito alcuni mostri che stranamente non erano inclusi nella OGL, chiaramente ho dovuto dargli dei nomi diversi ma le abilita' proprie sono quelle caratteristiche. Gli inserimenti sono Orchetto, Panopticon, Grande Essere Chitinoso, Black Ops Cat, Fenice, Divora Cervelli, Verme Strisciante Tentacolato ed il Teschio Fiammeggiante.
 
 Ed e' stata proprio l'inserimento della Fenice che mi ha data l'illuminazione per la copertina.
 
