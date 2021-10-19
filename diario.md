@@ -1,3 +1,17 @@
+**19/10/2021**
+
+Negli ultimi due giorni ho inserito alcuni mostri che stranamente non erano inclusi nella OGL, chiaramente ho dovuto dargli dei nomi diversi ma le abilita' proprie sono quelle caratteristiche. Gli inserimenti sono orchetto, panopticon, grande essere chitinoso, Black Ops Cat, Fenice, Divora Cervelli, Verme Strisciante Tentacolato ed il Teschio Fiammeggiante.
+
+Ed e' stata proprio l'inserimento della Fenice che mi ha data l'illuminazione per la copertina.
+
+Inizialmente avevo pensato di inserire una immagine di dungeon, di un classico drago, una qualche runa.. ma poi mentre scrivevo della fenice ho pensato che i miei gdr sono proprio come lei, non muoiono mai veramente ma resciuscitano in nuove vesti, prendendo il meglio di prima e diventando sempre piu' forti.
+
+Una nota curiosa sulla immagine usata, non trovando una attribuzione precisa ho provato a cercarla con google image e mi sono venuti fuori almeno 10 siti diversi che si attribuivano la licenza e qualcuno che invece diceva che era in pubblico dominio.
+Sicuramente l'immagine l'ha fatta qualcuno/una e sono ben disposto a rimuoverla se ho infranto qualche copyright ma voglio ben vedere chi si arroghera' il diritto di farla sua quando sono anche troppi a reclamarla.
+
+Un'altra aggiunta e' stata una regola opzionale sul combattimento, ovvero l'introduzione di una regola di semplificazione, per fare in modo di non doversi ricordare di troppi bonus e malue, alla fine basta capire se c'e' il bonus o meno e se e' significativo. Questa variante rende il combattimento piu' fluido e divertente essendo piu' dadi che possono esplodere. In un futuro dopo un adeguato playtesting valutero' di usara come metodo fisso di risoluzione dei combattimenti.
+
+
 **17/10/2021**
 
 Ho voluto aggiungere un paio di mostri iconici del fantasy, il panopticon (colui che tutto vede) ricco di occhi e raggi magici, il G.E.C. (grande essere chitinoso) dalle potenti chele e lo sguardo che confonde ed il B.O.C. (black ops cat) il grande felino che distorce la luce.
