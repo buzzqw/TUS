@@ -10,7 +10,7 @@
 \usepackage{caption}
 \usepackage[utf8]{inputenc}
 %\usepackage[utf8x]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage[T1]{fontenc}  %\usepackage[B1,T1]{fontenc}
 \usepackage{setspace}
 \usepackage[a4paper]{geometry}
 \geometry{verbose,tmargin=1.7cm,bmargin=2.3cm,lmargin=1.5cm,rmargin=2cm}  %std
@@ -39,6 +39,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{calligra}
 \renewcommand{\LettrineFontHook}{\calligra}
 \usepackage{accanthis}
+\usepackage{auncial}
 \usepackage{palatino}
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
@@ -111,6 +112,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
 
 \titleformat{\section}{\filcenter\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
+%\titleformat{\section}{\filcenter\huge\bfseries\aunclfamily}{\thesection}{1em}\textsc{}
 %\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textfrak{}
 \titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
 \titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
@@ -2456,7 +2458,7 @@ Non conta come cadi, ma se e come ti rialzi (anonimo)
 Non sono un eroe. No e non lo sarò mai. Sono solo un cattivo che viene pagato per pestare tipi peggiori di lui. (Deadpool)
 
 \medskip
- 
+
 Occhio per occhio... e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti aborrivano la violenza!)}\end{enfasi}\end{changemargin}\medskip
 
 
@@ -26526,13 +26528,13 @@ A volontà: \emph{Confusione (un unico bersaglio), Infliggi Ferite Gravi, Invisi
 
 \emph{\textbf{Artiglio.} Attacco con arma da mischia}: +9 al a colpire, portata 1 m, una creatura.
 
-\emph{Colpisce:} 3 danni da taglio (1d4+1) 
+\emph{Colpisce:} 3 danni da taglio (1d4+1)
 
 \textbf{Abilità speciali}
 
 \emph{\textbf{Furto del corpo}}
 
-Spendendo 3 Azioni un Divora Cervelli può diventare minuscolo e strisciare nella bocca/naso/orecchie di una creatura indifesa o morta ed arrivare al cervello per nutrirsene. Si tratta di una azione che uccide la creatura. Il Divora Cervelli assume il controllo del corpo e lo può usare a suo piacimento, come se controllasse la vittima con un incantesimo Dominare Mostri. Il Divora Cervelli ha pieno accesso a tutte le capacità difensive e offensive dell’ospite tranne che per le capacità magiche e gli incantesimi (anche se il Divora Cervelli può comunque usare le proprie capacità magiche). Un corpo ospite non deve essere morto da più di 1 giorno perché questa capacità funzioni, e anche dopo essere stati occupati con successo i corpi si decompongono diventando inutilizzabili in 7 giorni (a meno che questo periodo venga prolungato con l'incantesimo Riposo Inviolato). Finché il Divora Cervelli occupa il corpo, conosce (e può parlare) i linguaggi conosciuti dalla vittima e le informazioni sulla sua identità e personalità, ma non può possederne gli specifici ricordi e conoscenze. Il danno inflitto al corpo, che ha il doppio dei Punti Ferita originali, ospite non danneggia il Divora Cervelli e se il corpo ospite viene distrutto il Divora Cervelli esce ed è Stordito per 1 round. 
+Spendendo 3 Azioni un Divora Cervelli può diventare minuscolo e strisciare nella bocca/naso/orecchie di una creatura indifesa o morta ed arrivare al cervello per nutrirsene. Si tratta di una azione che uccide la creatura. Il Divora Cervelli assume il controllo del corpo e lo può usare a suo piacimento, come se controllasse la vittima con un incantesimo Dominare Mostri. Il Divora Cervelli ha pieno accesso a tutte le capacità difensive e offensive dell’ospite tranne che per le capacità magiche e gli incantesimi (anche se il Divora Cervelli può comunque usare le proprie capacità magiche). Un corpo ospite non deve essere morto da più di 1 giorno perché questa capacità funzioni, e anche dopo essere stati occupati con successo i corpi si decompongono diventando inutilizzabili in 7 giorni (a meno che questo periodo venga prolungato con l'incantesimo Riposo Inviolato). Finché il Divora Cervelli occupa il corpo, conosce (e può parlare) i linguaggi conosciuti dalla vittima e le informazioni sulla sua identità e personalità, ma non può possederne gli specifici ricordi e conoscenze. Il danno inflitto al corpo, che ha il doppio dei Punti Ferita originali, ospite non danneggia il Divora Cervelli e se il corpo ospite viene distrutto il Divora Cervelli esce ed è Stordito per 1 round.
 
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi sotterraneo\\
@@ -26541,9 +26543,9 @@ Organizzazione: Solitario, covata (2-6) o tribù (7-16)\\
 \textbf{Descrizione}\\
 Un Divora Cervelli altro non e' che un cervello di circa 50 cm dotato di 4 potenti zampe artigliate.
 
-Ritenuti da qualcuno invasori provenienti da un’altra dimensione o pianeta, i sinistri divoracervelli sono certamente una tra le razze più crudeli del mondo. Incapaci di provare emozioni o di sguazzare nei peccati del proprio piacere fisico, i divora cervelli sono costretti a rubare corpi per soddisfare la loro golosità, lussuria e crudeltà. Esistono storie che narrano di intere città sotterranee di queste creature che indossano corpi come se fossero vestiti per consumare spaventose orge e macabri festini. Divora Cervelli solitari spesso vivono in rovine o caverne ai margini delle regioni civilizzate per poter fare periodiche scorrerie in città per “acquistare” un nuovo allettante corpo. 
+Ritenuti da qualcuno invasori provenienti da un’altra dimensione o pianeta, i sinistri divoracervelli sono certamente una tra le razze più crudeli del mondo. Incapaci di provare emozioni o di sguazzare nei peccati del proprio piacere fisico, i divora cervelli sono costretti a rubare corpi per soddisfare la loro golosità, lussuria e crudeltà. Esistono storie che narrano di intere città sotterranee di queste creature che indossano corpi come se fossero vestiti per consumare spaventose orge e macabri festini. Divora Cervelli solitari spesso vivono in rovine o caverne ai margini delle regioni civilizzate per poter fare periodiche scorrerie in città per “acquistare” un nuovo allettante corpo.
 
-Un Divora Cervelli è lungo 90 cm e pesa circa 30 kg. 
+Un Divora Cervelli è lungo 90 cm e pesa circa 30 kg.
 
 
 \medskip\index[Mostruario]{Doppelganger}\textbf{Doppelganger}
@@ -30472,11 +30474,11 @@ A volontà: \emph{Cura Ferite Critiche, Dissolvi Magie, Fiamma Perenne, Muro di 
 
 \emph{\textbf{Morso.} Attacco con arma da mischia}: +23 al a colpire, portata 6 m, una creatura.
 
-\emph{Colpisce:} 19 danni perforanti (2d8+8 + 1d6 da Luce) 
+\emph{Colpisce:} 19 danni perforanti (2d8+8 + 1d6 da Luce)
 
 \emph{\textbf{Artiglio.} Attacco con arma da mischia}: +23 al a colpire, portata 6 m, una creatura.
 
-\emph{Colpisce:} 17 danni da taglio (2d6+8 + 1d6 da Luce) 
+\emph{Colpisce:} 17 danni da taglio (2d6+8 + 1d6 da Luce)
 
 \textbf{Abilità speciali}
 
@@ -30487,7 +30489,7 @@ Una Fenice può resuscitare in questo modo una volta all’anno, se muore prima 
 
 \emph{\textbf{Ali di fiamma}}
 
-La Fenice può trasformare le sue piume in fiamma come azione di reazione gratuita. Queste piume infliggono 1d6 danni da fuoco + 1d6 danni da Luce a tutte le creature entro 6 metri all’inizio del suo round. 
+La Fenice può trasformare le sue piume in fiamma come azione di reazione gratuita. Queste piume infliggono 1d6 danni da fuoco + 1d6 danni da Luce a tutte le creature entro 6 metri all’inizio del suo round.
 
 \textbf{Ecologia}\\
 Ambiente: Deserti e colline calde\\
@@ -34846,13 +34848,13 @@ Per quanto la vulgata dica che gli orchi siano stati creati da Cattalm per distr
 Organizzazione: Solitario, coppia o branco (3-8)\\
 \textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
-L'Orrore Arrampicamuri è un feroce predatore del sottosuolo, difende aggressivamente i suoi territori di caccia. Le caverne sotterranee in cui queste creature risiedono rimbombano dei colpi e dei fruscii dei loro uncini quando queste creature si arrampicano sulle rupi rocciose o sulle pareti delle caverne. 
+L'Orrore Arrampicamuri è un feroce predatore del sottosuolo, difende aggressivamente i suoi territori di caccia. Le caverne sotterranee in cui queste creature risiedono rimbombano dei colpi e dei fruscii dei loro uncini quando queste creature si arrampicano sulle rupi rocciose o sulle pareti delle caverne.
 
 Un Orrore Arrampicamuri è una creatura mostruosa dalla testa simile a quella di un avvoltoio e dal torace di un enorme scarabeo, protetto da un esoscheletro tempestato di protuberanze ossee aguzze. Trae il suo nome oltre che dall'orrendo aspetto dal fatto che usando gli arti lunghi e muscolosi che terminano con dei micidiali artigli uncinati ricurvi stia arrampicato sulle pareti.
 
-Echi nell'Oscurità. Gli Orrore Arrampicamuri comunicano colpendo il loro esoscheletro o le superfici rocciose circostanti con i loro uncini. Ciò che agli altri appare come un frastuono casuale è in realtà un elaborato linguaggio che soltanto gli Orrore Arrampicamuri capiscono e il cui eco si diffonde per chilometri e chilometri nell'sottosuolo. 
+Echi nell'Oscurità. Gli Orrore Arrampicamuri comunicano colpendo il loro esoscheletro o le superfici rocciose circostanti con i loro uncini. Ciò che agli altri appare come un frastuono casuale è in realtà un elaborato linguaggio che soltanto gli Orrore Arrampicamuri capiscono e il cui eco si diffonde per chilometri e chilometri nell'sottosuolo.
 
-Branco di Predatori. Gli Orrore Arrampicamuri sono creature onnivore: si nutrono di funghi, licheni, vegetali e di qualsiasi creatura riescano a catturare. Grazie agli arti uncinati, gli orrori beneficiano di un'ottima presa sulle superfici rocciose e usano le loro abilità da scalatori per tendere imboscate alle prede dall'alto. Vanno a caccia in branco e collaborano per affrontare gli avversari più grossi e pericolosi. Se una battaglia va male, un Orrore Arrampicamuri si arrampica rapidamente lungo la parete di una caverna per fuggire. 
+Branco di Predatori. Gli Orrore Arrampicamuri sono creature onnivore: si nutrono di funghi, licheni, vegetali e di qualsiasi creatura riescano a catturare. Grazie agli arti uncinati, gli orrori beneficiano di un'ottima presa sulle superfici rocciose e usano le loro abilità da scalatori per tendere imboscate alle prede dall'alto. Vanno a caccia in branco e collaborano per affrontare gli avversari più grossi e pericolosi. Se una battaglia va male, un Orrore Arrampicamuri si arrampica rapidamente lungo la parete di una caverna per fuggire.
 
 Clan Solidali. Gli orrori uncinati vivono in vasti gruppi familiari o clan. Ogni clan è retto dalla femmina più anziana, che solitamente pone il suo compagno a capo dei cacciatori del clan. Gli Orrore Arrampicamuri depongono le uova in un'area centrale e ben difesa delle caverne usate come tana. \\
 
@@ -34967,7 +34969,7 @@ Organizzazione: Solitario, coppia o branco (3-8)\\
 \textbf{Tesoro}: Accidentale\\
 \textbf{Descrizione}\\
 Le origini dell'orsogufo saggio sono misteriose quanto quelli del suo parente non saggio ma gli appassionati di queste creature li fanno discendere direttamente da Nethergal come variante dell'orsogufo originale.
-Solitamente l'Orsogufo saggio ama circondarsi di libri ed adora la compagnia di altri saggi ma non disdegna i racconti di avventurieri e le belle ballate dei cantastorie. L'Orsogufo saggio ha un vero talento per le lingue e pur non potendo parlare in maniera comprensibile ad un uomo riesce a comprendere tantissime lingue parlate e scritte ed in pochi giorni è in grado di apprenderne di nuove (come Vantaggio Lingua universale). 
+Solitamente l'Orsogufo saggio ama circondarsi di libri ed adora la compagnia di altri saggi ma non disdegna i racconti di avventurieri e le belle ballate dei cantastorie. L'Orsogufo saggio ha un vero talento per le lingue e pur non potendo parlare in maniera comprensibile ad un uomo riesce a comprendere tantissime lingue parlate e scritte ed in pochi giorni è in grado di apprenderne di nuove (come Vantaggio Lingua universale).
 Solitamente più deboli e fragili del parente stretto sono comunque esseri temibili in combattimento.
 Di preferenza un Orsogufo saggio non attacca se non per difesa e cerca un approccio il più tattico e utile possibile. Un tratto caratteristico degli Orsigufi saggi e' una sciarpa portata intorno all'assente collo.
 
