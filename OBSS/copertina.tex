@@ -9,6 +9,8 @@
 \usepackage{tikz}
 \usepackage{rotating}
 \usepackage{yfonts}
+\usepackage[T1]{fontenc}
+\usepackage{xfakebold}
 
 \usepackage[absolute,overlay]{textpos}
 
@@ -32,29 +34,23 @@
 
 
 
-\tikz[remember picture,overlay]  \node[opacity=0.3, xshift=(\paperwidth)*0.5+4cm,yshift=0.35cm,inner sep=0pt] at (current page.east){\includegraphics[width=\paperwidth,height=\pdfpageheight]{copertina.png}};
+\tikz[remember picture,overlay]  \node[opacity=1, xshift=(\paperwidth)*0.5+4cm,yshift=0.35cm,inner sep=0pt] at (current page.east){\includegraphics[width=\paperwidth,height=\pdfpageheight]{copertina.png}};
 
 
 %\tikz[remember picture,overlay] \node[opacity=0.3,inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth,height=\paperheight]{example-image}};
 
-\begin{textblock*}{20cm}(28.5cm,3cm) % {block width} (coords)
-\Huge \textbf{Old Bell School System (OBSS)}\\
+\begin{textblock*}{20cm}(28.5cm,7cm) % {block width} (coords)
+\Huge {\textbf{Old Bell School System (OBSS)}}\\
 
 \end{textblock*}
 
-\begin{textblock*}{20cm}(31cm,4.5cm) % {block width} (coords)
-%{\Huge \textit{Adventures Game}}\\
-\calligra\Huge{Adventures Game}\\
-
-\end{textblock*}
-
-\begin{textblock*}{20cm}(34.5cm,6cm) % {block width} (coords)
-		{\LARGE \versione}
+\begin{textblock*}{20cm}(31cm,28.5cm) % {block width} (coords)
+		{\color{red} \calligra\Huge{Adventures Game} \LARGE \textbf{v\versione}}
 \end{textblock*}
 
 \begin{textblock*}{2cm}(22cm,3cm) % {block width} (coords)
 \begin{turn}{270}
-	{\Huge Old Bell School System - \versione}\\
+	{\Huge Old Bell School System}\\
 \end{turn}
 \end{textblock*}
 
