@@ -1,3 +1,11 @@
+**21/10/2021**
+
+In previsione di una nuova stampa ho pubblicato la 0.20.
+E' una versione estremamente importante in quanto formalizza la nuova copertina e apporta un pao di modifiche interessanti.
+
+Vengono inseriti dei vecchi mostri e migliorata la regola opzionale Unica Regola si ono due nuove abilità molto interessanti per i combattenti.
+
+
 **19/10/2021**
 
 Negli ultimi due giorni ho inserito alcuni mostri che stranamente non erano inclusi nella OGL, chiaramente ho dovuto dargli dei nomi diversi ma le abilita' proprie sono quelle caratteristiche. Gli inserimenti sono Orchetto, Panopticon, Grande Essere Chitinoso, Black Ops Cat, Fenice, Divora Cervelli, Verme Strisciante Tentacolato ed il Teschio Fiammeggiante.
