@@ -40,7 +40,7 @@
 
 **0.20** pubblicata versione 0.19, aggiornata copertina, dettagli su personaggi per stile, dettagli su Panopticon ed Orchi, modificato tiro salvezza paralisi per ghoul, corretti riferimenti a turno con round in mostruario, aggiunta variante regole combattimento, aggiunto mostro Fenice, aggiunto mostro Divora Cervelli, aggiunto mostro Verme Strisciante Tentacolato, aggiunto mostro Teschio Fiammeggiante, rifatta la copertina con una nuova immagine, aggiunto mostro Orsogufo saggio, migliorata copertina, ulteriori chiarimenti su unica regola, correzione minore a lista armi asce, tolto da lista d'arma armi aggraziate il danno da destrezza lasciato solo il tiro per colpire, aggiunta abilita' danza della lama, aggiunta abilita' un braccio un arma, aggiunta abilita' artista dell'arma,
 
-*0.21* pubblicata versione 0.20, aggiornata copertina, 
+*0.21* pubblicata versione 0.20, aggiornata copertina, aggiornato orsogufo saggio, 
 
 Perche OBSS ???
 
