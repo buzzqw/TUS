@@ -1,3 +1,11 @@
+**26/10/2021**
+
+Ho inserito diversi suggerimenti e consigli su come cercare di gestire le proced di competenza, sul fatto che se un giocatore dice COME fa qualcosa e non COSA fa allora la prova potrebbe essere stata fatta anche senza tiri di dadi.
+Lo scopo come ho scritto e' l'immersione nel personaggio, nell'ambiente, nella situazione, "cerco dietro il mobile, sposto la statua" " Ehi tu porco levale le mani di dosso..." sono tutti esempio di prove  dove il giocatore dichiarando cosa fa evita di fare la prova e di fallire quindi.
+
+E' un vecchio assioma dell'OSR, quando ancora non c'erano le competenze, che rimane tutt'ora validissimo.
+
+
 **21/10/2021**
 
 In previsione di una nuova stampa ho pubblicato la 0.20.
