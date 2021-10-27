@@ -1,0 +1,21 @@
+
+name: Compila OBSSv2
+on: [push,workflow_dispatch]
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Compile LaTeX document
+         uses: xu-cheng/latex-action@v2
+        with:
+          root_file: "OBSS.tex"
+          latexmk_use_xelatex: true
+          working_directory: ./OBSS
+      - name: Upload pdf
+        uses: actions/upload-artifact@v2
+        with:
+          name: "OBSS - Old Bell School System"
+          path: "./OBSS/OBSS.pdf"  
+          
