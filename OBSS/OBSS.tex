@@ -1,4 +1,4 @@
-\documentclass[a4paper,10 pt,twoside,openany]{book}
+\documentclass[a4paper,twoside,openany]{book}
 %\documentclass[a4paper,10 pt,draft,twoside,openany]{book}
 \usepackage{quoting}
 \usepackage{tcolorbox}
@@ -40,7 +40,11 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \renewcommand{\LettrineFontHook}{\calligra}
 \usepackage{accanthis}
 \usepackage{auncial}
-\usepackage{palatino}
+
+\usepackage{fontspec}
+%\setmainfont{Readex Pro}
+\setmainfont[Ligatures=TeX,Scale=0.94]{Readex Pro}
+%\usepackage{palatino}
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
 \usepackage{tcolorbox}
@@ -2158,9 +2162,8 @@ In questi casi il personaggio ed il Narratore effettuano una prova, chi ottiene 
 \textit{Bible Pictures and What They Teach Us. Prova Consapevolezza, Muoversi Silenziosamente}
 \end{center}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Ogni qual volta la prova opposta riguarda una \textbf{caratteristica correlata ai Tiri Salvezza} (Costituzione, Destrezza, Saggezza) per tutti gli interessati, fate fare un Tiro Salvezza come valore contrapposto. Es. una prova di braccio di ferro è un Tiro Salvezza su Tempra contrapposto. Chi riesce a fare più alto con il Tiro Salvezza vince.
-\end{narratore}\end{changemargin}
+
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Non fate che siano le prove a governare il vostro gioco. \textbf{Fate giocare i giocatori}, fateli recitare, fateli partecipare ed in base a quanto dicono stabilite se la prova è passata o meno.
@@ -6428,7 +6431,7 @@ Es. con Competenza Magica 8 se ho preso 0 volte l'Abilità Adepto della Magia po
 \medskip
 
 {\small
-	\begin{tabular}{l|lllllll}
+	\begin{tabular}{l|lllll|ll}
 		
 CM&\multicolumn{5}{c}{Adepto della magia}&Valore&Livello Inc.\\
 &0&1&2&3&4&Caratt.&Max\\
@@ -42732,11 +42735,15 @@ Nella sezione Versione di progetti di GitHub troverete i pacchetti di Manuale, S
 
 Qualsiasi segnalazione o consiglio che vogliate darmi è più che ben accetto! Aprite una issue su GitHub!
 
-\vspace{1.5cm}
+\vspace{1.2cm}
 
 \section{Ringraziamenti}\index{Ringraziamenti}\index{EditoriFolli}
 
 Un enorme ringraziamento ad \href{http://www.editorifolli.it/gdr/dnd5/srd5/}{EditoriFolli} ed ai suoi collaboratori per il lavoro di traduzione della SRD della 5e. Senza il loro lavoro questo manuale non sarebbe stato possibile.
+
+\bigskip
+
+Ringrazio \href{https://github.com/ThomasJockin/readexpro}{Readex} ( url https://github.com/ThomasJockin/readexpro ) per il font usato. Readex e' un font dall'alta leggibilità anche per persone con difficoltà di lettura.
 
 }
 
