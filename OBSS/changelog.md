@@ -42,7 +42,7 @@
 
 **0.21** pubblicata versione 0.20, aggiornata copertina, aggiornato orsogufo saggio, abbassati i requisiti degli incantesimi per quanto riguarda la competenza magica, migliorie in esempi di personaggi per stile, chiarimenti su punti ferita, chiarimento su costo armature in pelle di drago, modificato acciaio vivente, aggiunto suggerimento su gestione prove, aggiornata scheda, rimossa abilita' senso trappola deve essere il giocatore a cercare e non aspettare un automatismo,  impostato font a Readex Font Family https://github.com/ThomasJockin/readexpro
 
-*0.22* pubblicata versione 0.21, aggiornata copertina, modificata copertina perche' sia compilabile con xelatex (e pdflatex), sistemati caratteri bold, 
+*0.22* pubblicata versione 0.21, aggiornata copertina, modificata copertina perche' sia compilabile con xelatex (e pdflatex), sistemati caratteri bold, sistemati caratteri italici, 
 
 Perche OBSS ???
 
