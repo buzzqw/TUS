@@ -1,5 +1,5 @@
 
-name: Compila OBSSv2
+name: Compila OBSSv3
 on: [push,workflow_dispatch]
 jobs:
   build_latex:
