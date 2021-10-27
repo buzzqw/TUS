@@ -42,7 +42,10 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{auncial}
 
 \usepackage{fontspec}
-\setmainfont[Path=../altro/readexpro-master/fonts/ttf/,Ligatures=TeX,Scale=0.94]{ReadexPro-Regular.ttf}
+
+\setmainfont[Path=../altro/readexpro-master/fonts/ttf/,BoldFont=ReadexPro-bold.ttf,Ligatures=TeX,Scale=0.94]{ReadexPro-Regular.ttf}
+%ItalicFont = *-Italic,
+
 %\usepackage{palatino}
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
@@ -115,8 +118,6 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
 
 \titleformat{\section}{\filcenter\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
-%\titleformat{\section}{\filcenter\huge\bfseries\aunclfamily}{\thesection}{1em}\textsc{}
-%\titleformat{\section}{\huge\bfseries\accanthis}{\thesection}{1em}\textfrak{}
 \titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
 \titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
 
