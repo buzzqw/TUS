@@ -1,3 +1,13 @@
+**27/10/2021**
+
+Non e' stato per nulla facile, ma sono riuscito a cambiare font. Voi direte che e' una cavolata.. ma in latex non e' immediato specialmente per un neofita, specialmente se non e' un font standard, specialmente se poi devi compilare con xelatex, specialmente se devi differenziare il font normale dal bold dall'italico...
+
+In compenso il tutto e' venuto bene, mi piace veramente molto. Non e' un font con uno stile fantasy, ma e' molto leggibile e l'ho scelto perche' affatica poco la vista ed e' ben tollerato anche da persone dislessiche. 
+
+Ho tolto l'abilita' Senso Trappola, ed e' stato un sollievo, non ha senso una abilita' che lavora al tuo posto, devi giocare, cercare, soffrire! non devi lasciare che una abilita' faccia tutto in automatico.. non e' un MOBA!
+
+Aspetto la prossima offerta di Lulu e mando in stampa. La versione corrente a differenza della 0.16 ha molte precisazioni, suggerimenti nonch'e' una nuova copertina, e nuovi font. So bene che OBSS non raggiungera' mai la notorieta' (e forse non la merita' neanche!) ma personalmente ci gioco, piace e continuero' a lavorarci, a questa o altre incarnazioni.
+
 **26/10/2021**
 
 Ho inserito diversi suggerimenti e consigli su come cercare di gestire le proced di competenza, sul fatto che se un giocatore dice COME fa qualcosa e non COSA fa allora la prova potrebbe essere stata fatta anche senza tiri di dadi.
