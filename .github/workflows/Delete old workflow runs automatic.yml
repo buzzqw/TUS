@@ -7,7 +7,7 @@ on:
       days:
         description: 'Number of days.'
         required: true
-        default: 60
+        default: 30
 
 jobs:
   del_runs:
@@ -18,5 +18,5 @@ jobs:
         with:
           token: ${{ secrets.SECRETTOKEN }}
           repository: buzzqw/TUS
-          retain_days: 60
-          keep_minimum_runs: 60
+          retain_days: 30
+          keep_minimum_runs: 30
