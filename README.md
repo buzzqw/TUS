@@ -20,7 +20,7 @@ Entrate nella cartella OBSS e scaricate il PDF del manuale e della scheda!**
 
 Entrambi i sistemi vengono forniti in file sorgente in formato TEX e compilato in PDF.
 
-Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian) con pdflatex.
+Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian) con xelatex.
 
 Il gioco e' pressoche' completo anche se in fase di costante perfezionamento. Nel manuale c'e' la parte per i Giocatori, per il Master e pure il mostruario (senza immagini...).
 
