@@ -1,8 +1,15 @@
+**01/11/2021**
+
+Ho approfittato di uno sconto del 20% su LULU per mandare in stampa la versione 0.22.
+Forse e' uscita un po' prima del previsto, ma era da un po' che volevo concretizzare la nuova copertina e tutte le modifiche!
+
+A breve dovrebbe incominciare un nuovo round di playtesting, abbastanza fiducioso degli esiti.
+
 **27/10/2021**
 
 Non e' stato per nulla facile, ma sono riuscito a cambiare font. Voi direte che e' una cavolata.. ma in latex non e' immediato specialmente per un neofita, specialmente se non e' un font standard, specialmente se poi devi compilare con xelatex, specialmente se devi differenziare il font normale dal bold dall'italico...
 
-In compenso il tutto e' venuto bene, mi piace veramente molto. Non e' un font con uno stile fantasy, ma e' molto leggibile e l'ho scelto perche' affatica poco la vista ed e' ben tollerato anche da persone dislessiche. 
+In compenso il tutto e' venuto bene, mi piace veramente molto. Non e' un font con uno stile fantasy, ma e' molto leggibile e l'ho scelto perche' affatica poco la vista ed e' ben tollerato anche da persone dislessiche.
 
 Ho tolto l'abilita' Senso Trappola, ed e' stato un sollievo, non ha senso una abilita' che lavora al tuo posto, devi giocare, cercare, soffrire! non devi lasciare che una abilita' faccia tutto in automatico.. non e' un MOBA!
 

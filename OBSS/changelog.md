@@ -42,7 +42,10 @@
 
 **0.21** pubblicata versione 0.20, aggiornata copertina, aggiornato orsogufo saggio, abbassati i requisiti degli incantesimi per quanto riguarda la competenza magica, migliorie in esempi di personaggi per stile, chiarimenti su punti ferita, chiarimento su costo armature in pelle di drago, modificato acciaio vivente, aggiunto suggerimento su gestione prove, aggiornata scheda, rimossa abilita' senso trappola deve essere il giocatore a cercare e non aspettare un automatismo,  impostato font a Readex Font Family https://github.com/ThomasJockin/readexpro
 
-*0.22* pubblicata versione 0.21, aggiornata copertina, modificata copertina perche' sia compilabile con xelatex (e pdflatex), sistemati caratteri bold, sistemati caratteri italici, sistemato anche il grassetto italico, coorezioni minori a Variante attacchi multipli, suggerimenti su tiro o non tiro prove, esplicitato che in caso di successo critico nella prova di magia il ts aumenta di 2 per successo, aggiornato screen per tabella massimo  livello incantesimi, aggiornato screen Effetti Fallimento Critico Prova di Magia, chiarimenti minimo in regole base magia, aggiunto e specificato accesso agli incatesimi per i draghi,
+**0.22* pubblicata versione 0.21, aggiornata copertina, modificata copertina perche' sia compilabile con xelatex (e pdflatex), sistemati caratteri bold, sistemati caratteri italici, sistemato anche il grassetto italico, coorezioni minori a Variante attacchi multipli, suggerimenti su tiro o non tiro prove, esplicitato che in caso di successo critico nella prova di magia il ts aumenta di 2 per successo, aggiornato screen per tabella massimo  livello incantesimi, aggiornato screen Effetti Fallimento Critico Prova di Magia, chiarimenti minimo in regole base magia, aggiunto e specificato accesso agli incatesimi per i draghi
+
+**0.23* pubblicata versione 0.22, aggiornata copertina,
+
 
 Perche OBSS ???
 
