@@ -1,3 +1,9 @@
+**02/11/2021**
+
+Ho voluto inserire una opzione nelle Prove di Magia per non considerare gli 1 e due tirati, praticamente pagando punti magia in piu' si ignorano i risultati.
+Ho voluto mettere questa opzione perche'  i punti magia sono comunque tanti ed e' giusto dare possibilita' al giocatore di sfruttarli come meglio crede.
+Certo, cosi' facendo si rischia un po' l'effetto nova.. ma penso che sia equilibrato, puntero' nel prossimo giro di playtesting su questo aspetto.
+
 **01/11/2021**
 
 Ho approfittato di uno sconto del 20% su LULU per mandare in stampa la versione 0.22.
