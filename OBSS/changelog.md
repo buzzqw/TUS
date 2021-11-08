@@ -44,7 +44,7 @@
 
 **0.22* pubblicata versione 0.21, aggiornata copertina, modificata copertina perche' sia compilabile con xelatex (e pdflatex), sistemati caratteri bold, sistemati caratteri italici, sistemato anche il grassetto italico, coorezioni minori a Variante attacchi multipli, suggerimenti su tiro o non tiro prove, esplicitato che in caso di successo critico nella prova di magia il ts aumenta di 2 per successo, aggiornato screen per tabella massimo  livello incantesimi, aggiornato screen Effetti Fallimento Critico Prova di Magia, chiarimenti minimo in regole base magia, aggiunto e specificato accesso agli incatesimi per i draghi
 
-**0.23* pubblicata versione 0.22, aggiornata copertina, aggiunta possibilita' in prova di magia per ignorare 1 e 2 tirati, chiarito controincantesimo con gestione del critico nella prova di magia, layout, sostituito CR con GS casi residuali, 
+**0.23* pubblicata versione 0.22, aggiornata copertina, aggiunta possibilita' in prova di magia per ignorare 1 e 2 tirati, chiarito controincantesimo con gestione del critico nella prova di magia, layout, sostituito CR con GS ncasi residuali, 
 
 
 Perche OBSS ???
