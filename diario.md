@@ -1,3 +1,13 @@
+**08/11/2021**
+
+Ho ripreso a giocare piu' assiduamente, adesso sono in due gruppi come player e uno come master (pardon Narratore) di OBSS.
+Non e' facile ma cerco di sfruttare le occasioni, situazioni che mi capitano negli altri gruppi per valutare come in OBSS sarebbe gestito.
+Per adesso ammetto che ogni situazione sarebbe stata gestita e forse anche meglio, ma questi sono pareri personali.
+
+Un vero master non finisce mai di imparare perche' la vera conoscenza non e' solo nelle regole ma nel come queste sono applicate. L'esperienza di gioco insegna a trovare gli approcci migliori e capire quali regole sono da modificare, specialmente in base al gruppo cono cui si gioca.
+Non sono nozioni che si riescono ad applicare facilmente in un manuale, e questo mi dispiace.. o meglio forse se facessi un manuale solo per il Narratore riuscirei a riversare un po' di pareri e consigli..
+Magari ci pensero'.. probabilmente no, vedremo!
+
 **02/11/2021**
 
 Ho voluto inserire una opzione nelle Prove di Magia per non considerare gli 1 e due tirati, praticamente pagando punti magia in piu' si ignorano i risultati.
