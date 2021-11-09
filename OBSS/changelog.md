@@ -46,8 +46,7 @@
 
 02/11/2021 STAMPA
 
-**0.23* pubblicata versione 0.22, aggiornata copertina, aggiunta possibilita' in prova di magia per ignorare 1 e 2 tirati, chiarito controincantesimo con gestione del critico nella prova di magia, layout, sostituito CR con GS casi residuali, correzioni minime al layout incantesimi come mancanza punti o doppio spazio, corretti riferimenti in esempi personaggi per stile a valore competenza armi/magica,
-
+**0.23* pubblicata versione 0.22, aggiornata copertina, aggiunta possibilita' in prova di magia per ignorare 1 e 2 tirati, chiarito controincantesimo con gestione del critico nella prova di magia, layout, sostituito CR con GS casi residuali, correzioni minime al layout incantesimi come mancanza punti o doppio spazio, corretti riferimenti in esempi personaggi per stile a valore competenza armi/magica, modificato incantesimo lanciafiamme, modificato 4 volta di Batteria Estesa,
 
 Perche OBSS ???
 
