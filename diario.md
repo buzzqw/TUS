@@ -1,3 +1,12 @@
+**10/11/2021**
+
+Con l'obiettivo di rileggere le parti piu' critiche ovvero salienti ed usate di OBSS sono partito rileggendo la parte di combattimento.
+
+Ho apportato numerose modifiche, ma nell'assoluta maggioranza chiarimenti, presisazioni, semplificazioni dei termini. Insomma nessuna meccanica cambiata.
+
+Nei prossimi giorni continuero' la rilettura con l'obiettivo di mandare una nuova stampa entro Natale.
+A quel punto molto probabilmente rendero' pubblica la stampa in print on demand (POD) su lulu.com
+
 **08/11/2021**
 
 Ho ripreso a giocare piu' assiduamente, adesso sono in due gruppi come player e uno come master (pardon Narratore) di OBSS.
