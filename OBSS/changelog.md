@@ -46,7 +46,7 @@
 
 02/11/2021 STAMPA
 
-**0.23* pubblicata versione 0.22, aggiornata copertina, aggiunta possibilita' in prova di magia per ignorare 1 e 2 tirati, chiarito controincantesimo con gestione del critico nella prova di magia, layout, sostituito CR con GS casi residuali, correzioni minime al layout incantesimi come mancanza punti o doppio spazio, corretti riferimenti in esempi personaggi per stile a valore competenza armi/magica, modificato incantesimo lanciafiamme, modificato 4 volta di Batteria Estesa, numerosi minime correzioni e chiarimenti in combattimento, aggiunto dettaglio per colpi mirati, rimosso combattere sulla difensiva doppione di maestria del combattimento, ulteriori chiarimenti in combattimento minime correzioni interpretative, 
+**0.23* pubblicata versione 0.22, aggiornata copertina, aggiunta possibilita' in prova di magia per ignorare 1 e 2 tirati, chiarito controincantesimo con gestione del critico nella prova di magia, layout, sostituito CR con GS casi residuali, correzioni minime al layout incantesimi come mancanza punti o doppio spazio, corretti riferimenti in esempi personaggi per stile a valore competenza armi/magica, modificato incantesimo lanciafiamme, modificato 4 volta di Batteria Estesa, numerosi minime correzioni e chiarimenti in combattimento, aggiunto dettaglio per colpi mirati, rimosso combattere sulla difensiva doppione di maestria del combattimento, ulteriori chiarimenti in combattimento minime correzioni interpretative, chiarimenti su lista armi doppie, modificato stordimento quando colti di sorpresa dato da armi da stordimento, modificato bonus lista armi 12 per spada, 
 
 Perche OBSS ???
 
