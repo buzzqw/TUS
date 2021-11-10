@@ -100,9 +100,8 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
-%\usepackage{xltabular}
+\usepackage{xltabular}
 \usepackage{tabularx}
-%\usepackage{longtable}
 \usepackage{pdfpages}
 \usepackage{hyperref}
 \usepackage{tikz}
@@ -2703,11 +2702,11 @@ Queste precisazioni hanno senso e vanno usate quando si tratta di combattere ed 
 
 Nel caso di spostamento diagonale si conta una distanza di 1,5 metri per quadretto, in caso di arrotondamenti sull'ultimo quadretto si fa per difetto, ovvero si torna indietro all'ultimo attraversato.
 
-Per \textbf{distanza di Tocco} \index{Distanza di Tocco} \index{Tocco}si intende una distanza che permette il toccare l'avversario, quindi non più di un metro per creature di taglia media. La distanza di tocco è anche chiamata \textbf{distanza di mischia}.
-
-Se non indicata nell'avversario/mostro la distanza di tocco aumenta di 1 metro per ogni taglia oltre la media.
+Per \textbf{distanza di Tocco} \index{Distanza di Tocco} \index{Tocco}si intende una distanza che permette il toccare l'avversario, quindi non più di un metro per creature di taglia media senza armi lunghe o con portata. La distanza di tocco è anche chiamata \textbf{distanza di mischia}.
 
 Per \textbf{distanza di Mischia} \index{Distanza di Mischia} \index{Mischia}si intende una distanza che permette il combattimento corpo a corpo (1 metro attorno al personaggio, oppure 2 metri in caso di arma lunga). Nei mostri questa distanza è indicata dalla portata, per le armi da lancio è chiamata gittata.
+
+Se non indicata nell'avversario/mostro la distanza di mischia/tocco aumenta di 0.5 metri per ogni taglia oltre la media.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Esempi di Distanza in Combattimento]
 Es. per un umano armato di lancia, la distanza di mischia è 2 metri perché l'arma è lunga.
@@ -4015,7 +4014,7 @@ Scegliere un accozzaglia di Abilità solo perché forti non rende un personaggio
 
 E' possibile cambiare una Abilità scelta, rispettando comunque i requisiti, al 5, 7, 11 e 17 livello, purché ci sia una giustificazione e si sia in accordo con il Narratore.
 
-Le capacità fornite dalle Abilità se non descritto diversamente sono cumulative o se si tratta dello stesso bonus si applica quello maggiore.
+Le capacità fornite dalle Abilità se non descritte diversamente sono cumulative o se si tratta dello stesso bonus si applica quello maggiore.
 
 \subsection{Tiri Salvezza ed Abilita'}
 
@@ -4028,7 +4027,7 @@ Quando scegliete una Abilità fate anche caso a quali Tiri Salvezza aumenta!
 Questo elenco non potrà mai essere esaustivo data la fantasia dei giocatori! Cercate però di capire se quello che il giocatore vuole è una Abilità o Competenza, l'avere una capacità o sapere fare qualcosa di particolare.
 Valutate bene i prerequisiti e i vantaggi che concede, cercate sempre di essere bilanciati, piuttosto concedete dei vantaggi a scalare, ovvero prendendo più volte l'Abilità.
 
-Ricordatevi anche di segnare i bonus relativi ai Tiri Salvezza. Solitamente una Abilità concreta concede un bonus di +3 divisi tra 2 Tiri Salvezza, una Abilità più generica concede un 2 punti da dividere tra un solo Tiro Salvezza o due.
+Ricordatevi anche di segnare i bonus relativi ai Tiri Salvezza. Solitamente una Abilità concreta e pratica concede un bonus di +3 divisi tra 2 Tiri Salvezza, una Abilità più generica concede un 2 punti da dividere tra un solo Tiro Salvezza o due.
 
 \subsection*{Adepto della Magia}\index{Adepto della Magia}\hypertarget{scuoladimagia}{}
 
@@ -4038,7 +4037,7 @@ Ricordatevi anche di segnare i bonus relativi ai Tiri Salvezza. Solitamente una 
 
 E' solo tramite questa Abilità che si può accedere ad una Liste di Magia.
 
-Le volte che viene presa questa l'Abilità, selezionando sempre la stessa Scuola, permette di accedere a livello superiori di incantesimo.
+Le volte che viene presa questa l'Abilità, selezionando sempre la stessa Scuola, permette di accedere ai livelli superiori di incantesimo.
 
 Un incantatore può prendere più volta l'Abilità Adepto della Magia e applicarla ad una nuova Liste di Magia oppure ad una stessa già conosciuta.
 
@@ -4056,6 +4055,8 @@ Le \textbf{seconda volta} che prendi questa Abilità, Lista Pugno Vuoto 9, Gru d
 
 Le \textbf{terza volta} che prendi questa Abilità, Lista Pugno Vuoto 12, Gru d'Argento 6, Pugno di Ferro 3, la tua distanza di mischia diventa di 4 metri.
 
+Finché l'avversario non raggiunge alla proprio distanza di mischia il personaggio quest'ultimo avrà un bonus di +4 all'iniziativa, come se usasse un arma lunga.
+
 \subsection*{Animalia}\index{Animalia}
 
 \textbf{Requisito}: Seguace o Devoto di Efrem oppure Shayalia, Competenza Magica 2.
@@ -4072,7 +4073,7 @@ La \textbf{seconda volta}, Competenza Magica 6, che si prende questa Abilità si
 
 La \textbf{terza volta} che si prende questa Abilità, Competenza Magica 10, si acquisisce la capacità di trasformarsi in animali non magici di taglia minuta o enorme e ci si può trasformare 5 volte al giorno. Il tempo minimo di trasformazione giornaliera è di 16 ore. Qualsiasi equipaggiamento non magico viene lasciato a terra durante la trasformazione.
 
-Quello magico viene assorbito nella trasformazione e continua ad avere effetto se possibile. Armature e scudi anche magici non applicano alcun bonus alla Difesa ma se hanno capacità magiche possono essere usate.
+Quello magico viene assorbito nella trasformazione e continua ad avere effetto se possibile. Armature e scudi anche magici non applicano alcun bonus alla Difesa ma se hanno capacità magiche possono essere usate. Oggetti che richiedono una attivazione non possono essere usati.
 
 \textbf{Regole base per la trasformazione}
 
@@ -4094,7 +4095,7 @@ Se il personaggio possiede la scurovisione viene persa a meno che non la possied
 
 La \textbf{quarta volta}, Competenza Magica 16, si acquisisce di trasformarsi in animali di taglia piccolissima o mastodontica ed anche magici (sempre nel limite della taglia ed il Grado di Sfida massimo è pari alla metà del punteggio di Competenza Magica). Il tempo minimo di trasformazione è di 24 ore al giorno, e può trasformarsi quante volte si vuole al giorno.
 
-Tutto l'equipaggiamento viene assorbito nella nuova forma. Quello magico continua ad avere effetto se possibile. Armature e Scudi applicano il bonus magico alla Difesa della creatura ed eventuali capacità magiche possono essere usate.
+Tutto l'equipaggiamento viene assorbito nella nuova forma. Quello magico continua ad avere effetto se possibile. Armature e Scudi applicano il bonus magico alla Difesa della creatura ed eventuali capacità magiche possono essere attivate.
 
 \subsection*{Animaletto / Famiglio}\index{Famiglio}
 
@@ -4102,7 +4103,7 @@ Tutto l'equipaggiamento viene assorbito nella nuova forma. Quello magico continu
 
 Guadagni un animale naturale. Questo animaletto ha al massimo un numero di dadi vita pari alla tua Saggezza. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
 
-\textbf{Requisito}: Competenza Magica 1, se prendi due volte questa Abilità guadagni un Famiglio (vedi capitolo specifico).
+\textbf{Requisito}: Competenza Magica 1, se \textbf{prendi due volte} questa Abilità guadagni un Famiglio (vedi capitolo specifico).
 
 \subsection*{Armatura del Devoto}\index{Armatura del Devoto}
 
@@ -4112,11 +4113,11 @@ Guadagni un animale naturale. Questo animaletto ha al massimo un numero di dadi 
 
 Il costante allenamento con la tua armatura ti permette di indossare armature leggere senza dover fare una Prova di Magia.
 
-La \textbf{seconda volta} che si prende questa Abilità, Tratti in comune 6, esegui la Prova di Magia senza dadi aggiuntivi quando indossi armature medie.
+La \textbf{seconda volta} che si prende questa Abilità, Tratti in comune 6, esegui la Prova di Magia senza dadi aggiuntivi dati da armature medie.
 
-La \textbf{terza volta} che si prende questa Abilità, Tratti in comune 8, esegui la Prova di Magia con 1 dado aggiuntivo quando indossi armature pesanti.
+La \textbf{terza volta} che si prende questa Abilità, Tratti in comune 8, esegui la Prova di Magia con solo 1 dado aggiuntivo dato da armature pesanti.
 
-La \textbf{quarta volta} che si prende l'Abilità, Tratti in comune con il Patrono 12, esegui la Prova di Magia senza dadi aggiuntivi quando indossi armature pesanti.
+La \textbf{quarta volta} che si prende l'Abilità, Tratti in comune con il Patrono 12, esegui la Prova di Magia senza dadi aggiuntivi dati da armature pesanti.
 
 \subsection*{Armatura della Montagna Incantata}\index{Armatura della Montagna Incantata}
 
@@ -4159,7 +4160,7 @@ Scegli un arma. Ottieni un +1 a Iniziativa e Tiro per Colpire quando usi questa 
 
 \textbf{Requisito}: Competenza Armi 2.
 
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
+\textbf{Tiri Salvezza}: +1 Volontà, +1 Tempra
 
 Scegli una Lista d'Armi, su questi armi ottieni un +1 al colpire.
 
@@ -13186,7 +13187,7 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 
 \end{multicols}
 
-\pagebreak
+\bigskip
 
 \subsubsection{Tabella collegamento Patrono - Tratto}\index{Tabella collegamento Patrono - Tratto}
 
@@ -19314,6 +19315,11 @@ Amuleti, Collane e Gioielli Tipo 2&7-8\\
 \end{tabularx}
 
 
+\begin{center}
+	\includegraphics[width=0.8\linewidth]{immagini/gauntlet.png}\\
+\end{center}
+
+
 \subsubsection{Cinture, Elmi, Stivali e Guanti}\index{Tabella Generazione Cinture, Elmi, Stivali e Guanti}
 
 \begin{tabularx}{0.45\textwidth}{lX}
@@ -19339,12 +19345,6 @@ Amuleti, Collane e Gioielli Tipo 2&7-8\\
 91-95 &Stivali della Velocità\\
 96-100 &Stivali Danzanti\\
 \end{tabularx}
-
-
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/gauntlet.png}\\
-\end{center}
-
 
 \subsubsection{Bacchette, Bastoni e Verghe}\index{Tabella Generazione Bacchette, Bastoni e Verghe}
 
@@ -19542,6 +19542,9 @@ Anello Tipo 2 &17-18\\
 
 \medskip
 
+\begin{center}
+	\includegraphics[width=0.8\linewidth]{immagini/romanring.png}
+\end{center}
 
 \begin{tabular}{ll}
 \textbf{1d100} & \textbf{Anelli Tipo 2}\\
@@ -19563,10 +19566,6 @@ Anello Tipo 2 &17-18\\
 
 \end{tabular}
 
-
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/romanring.png}
-\end{center}
 
 \subsubsection{Cappelli, Mantelli, Occhiali, Tuniche}\index{Tabella Generazione Cappelli, Mantelli, Occhiali, Tuniche}
 
