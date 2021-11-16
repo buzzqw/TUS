@@ -6,6 +6,13 @@ Sono solo numeri.. come ho sempre detto ogni versione e' buona a se stante ma mi
 Anzi sapendo ad ogni nuova stampa trovo tante piccole sviste .. ci sara' sicuramente una 1.1 e 1.2...
 Quindi continuo con la mia numerazione!
 
+EDIT: ho ceduto alla tentazione e mandato in stampa anche la 0.23, considerando i tempi di consegna posso considerarlo il mio regalo di natale.
+Diciamo che vorrei focalizzare il playtest, avere piu' feedback possibili per confezionare la prossima versione il piu' corposa possibile per le modifiche e correzioni (se ancora ci sono!).
+Detta diversamente considero la stampa della 0.23 come l'ultima beta sul quale focalizzare l'attenzione prima di uscire con la versione definitiva.
+Non sto dicendo che la 0.24 sia l'ultima, la "versione per le stampe", anzi usciranno ancora diverse versioni che raccoglieranno i vari feedback e correzioni, quello che voglio dire e' che la prossima STAMPA sara' la definitiva, quella che voglio giudicare pronte per essere distribuita massivamente. E' stato un processo molto lungo e snervante sotto molti aspetti arrivare fino a qui ma la soddisfazione e' stata tanta. 
+Confido che molti altri giocatori possano trovare il sistema divertente, con quel giusto mix di regole per renderlo appagante sia per chi viene da Pathfinder che dalla 5e o da altri sistemi, praticamente per chiunque ami il GDR fantasy.
+
+
 **10/11/2021**
 
 Con l'obiettivo di rileggere le parti piu' critiche ovvero salienti ed usate di OBSS sono partito rileggendo la parte di combattimento.

@@ -52,7 +52,7 @@
 
 16/11/2021 STAMPA
 
-*0.25* 
+*0.25* aggiornata copertina, 
 
 Perche OBSS ???
 
