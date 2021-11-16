@@ -54,22 +54,3 @@
 
 *0.25* aggiornata copertina, 
 
-Perche OBSS ???
-
-Non e' una domanda a cui e' facile rispondere.
-
-Parto da un altra informazione, quando sono stressato o nervoso allora la mia testa si mette a rimestare su tutto cio' che ho in corso, trova 1000 difetti in qualisiasi cosa e vuole rifare da capo e meglio.
-
-Cosi' e' nato OBSS. DBS e' un eccellente sistema .. MA non e' perfetto, ma per fortuna e' perfettibile!
-
-- DBS non ha le liste/scuole di magia che mi piacciono
-
-- Mi sono rotto le scatole di chi non accetta che la magia non e' una entita' sempre precisa e disponibile, ma anzi capricciosa ed egoista
-
-ed ecco qua OBSS! dove le scuole di magia sono state modificate ed arricchite pesantemente, dove e' si vero che non c'e' la prova di magia alla DBS per vedere di riuscire, ma la prova comunque rimane o su basa volontaria o perche' si e' in difficolta'.
-
-Ho anche altri progetti di semplificazione tanto per rimanere fedele al nome del gioco, anche se pero' qui sono combattuto, dopo 30 anni di esperienza nei giochi di ruolo so che ai novellini, senza offesa, e' necessario fornire piu' indicazioni possibili.
-
-per adesso sto compilando il sistema con le immagini disabilitate per fare prima.. se volete il sistema con le immagini chiedetelo.. altrimenti aspettate che si vada un po' piu' a stabilizzare il tutto.
-
-In realta' il sistema e' gia' bello che pronto.. ma ci mettero' continuamente le mani finche' non e' ancora meglio!
