@@ -1,3 +1,11 @@
+**16/11/2021**
+
+E anche la 0.23 e' stata pubblicata. Ha un changelog importante, corposo, eppure nulla di trascendentale, e' il *labor lime* continuo che so bene mi caratterizza.
+E' si vero che si sono diverse modifiche ma nessuna veramente impattante, eppure e' una ottima versione, talmente ottima che sono stato tentato di chiamarla 0.99, per dare l'idea che siamo prossimi alla versione 1.0.
+Sono solo numeri.. come ho sempre detto ogni versione e' buona a se stante ma migliora con il tempo, e' solo per il fatto di chiamarla 1.0 non significa che non ci lavorero' su piu'.
+Anzi sapendo ad ogni nuova stampa trovo tante piccole sviste .. ci sara' sicuramente una 1.1 e 1.2...
+Quindi continuo con la mia numerazione!
+
 **10/11/2021**
 
 Con l'obiettivo di rileggere le parti piu' critiche ovvero salienti ed usate di OBSS sono partito rileggendo la parte di combattimento.
