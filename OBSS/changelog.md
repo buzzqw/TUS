@@ -52,5 +52,5 @@
 
 16/11/2021 STAMPA
 
-*0.25* aggiornata copertina, sostituito mithril con mithral il primo e' una IP della famiglia Tolkien, 
+*0.25* aggiornata copertina, sostituito mithril con mithral il primo e' una IP della famiglia Tolkien, migliorie layout introduzione, minime modifiche intruduzione, modificato bonus 12 a lista spada, 
 
