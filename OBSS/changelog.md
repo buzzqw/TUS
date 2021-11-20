@@ -52,5 +52,5 @@
 
 16/11/2021 STAMPA
 
-*0.25* aggiornata copertina, sostituito mithril con mithral il primo e' una IP della famiglia Tolkien, migliorie layout introduzione, minime modifiche intruduzione, modificato bonus 12 a lista spada, aggiunto elenco di opzioni che solitamente abilito, modificato il danno del dardo incantato, aggiornata tabella grado di sfida per obiettivo APL, rilettura capitolo masterizzare, riletto piani ed apportati chiarimenti e specifiche ai piani positivi negativi, aggiunto incantesimo trasformazione furiosa di restser,
+*0.25* aggiornata copertina, sostituito mithril con mithral il primo e' una IP della famiglia Tolkien, migliorie layout introduzione, minime modifiche intruduzione, modificato bonus 12 a lista spada, aggiunto elenco di opzioni che solitamente abilito, modificato il danno del dardo incantato, aggiornata tabella grado di sfida per obiettivo APL, rilettura capitolo masterizzare, riletto piani ed apportati chiarimenti e specifiche ai piani positivi negativi, aggiunto incantesimo trasformazione furiosa di restser, aggiunto incantesimo bolla vitale,
 
