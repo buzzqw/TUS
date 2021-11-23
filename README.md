@@ -1,4 +1,4 @@
-[![Compila OBSS](https://github.com/buzzqw/TUS/actions/workflows/compila%20OBSS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml)
+[![Compila OBSSv3](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml)
 [![Compila Copertina OBSS](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina%20OBSS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina%20OBSS.yml)
 [![Compila Screen OBSS](https://github.com/buzzqw/TUS/actions/workflows/Compila%20Screen%20OBSS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/Compila%20Screen%20OBSS.yml)
 
