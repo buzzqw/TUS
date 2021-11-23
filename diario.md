@@ -1,3 +1,25 @@
+**23/11/2021**
+
+Probabilmente pubblichero' la nuova versioni a giorni. Sono ormai positivamente convinto dello stato finale del manuale. Controllanto il changelog sono per la maggior parte correzioni veramente minori o piccole aggiunte. Non che non servano pero' non cambiano il gioco.
+
+Sono pronto a passare oltre? Ho delle idee in effetti...
+OBSS era nato come semplificazione a DBS invece nel lavoro di semplificazione e chiarimento l'ho solo arricchito. Mi chiedo pero' se sia sbagliato o no. Nei principi dell'OSR che OBSS richiama le regole non sono fondamentali ed anzi volutamente lasciano al Narratore/Master la decisione. Non e' sbagliato come approccio, ma lascia al Narratore molta responsabilita'. Un Narratore di esperienza che ha gia' molte conoscenze di altri sistemi e conosce a menadito il sistema allora puo' gestire tutto facilmente in autonomia stabilendo regole al momento a seconda della situazione. Narratori con meno esperienza devono avere piu' linee guida. Non e' un errore, non e' sbagliato avere esperienza o averne poca. 
+
+Tutto sta quanto **volutamente** il manuale tralascia al Narratore. Sono dell'opinione che il manuale deve dare piu' regole e suggerimenti possibile, poi sta a te, Narratore, applicarli, modificarli.. gestirli. Tuo il tavolo tue le regole .. giusto ?
+Un manuale per essere *fatto bene* non deve essere farcito di tabelle casuali o mancanze palesi, piuttoso deve dare tutti gli strumenti per capire come interagire con le regole e come applicarle.
+
+Sotto questo aspetto OBSS lo reputo eccellente. Mi chiedo quindi avrebbe senso un nuovo gioco, una nuova versione piu' **ridotta** ?
+Non dico semplificata, perche' ben pochi manuali OSR in realta' sono semplificati, e se lo sono e' perche' lasciano al Narratore tutto l'onere delle regole e situazioni. Ci sono pezzi del manuale che potrei **eliminare** ed altri semplificare senza fare **semplificazioni**.
+La vera domanda e' *ne vale la pena* ?
+OBSS mi piace cosi', se qualcosa di nuovo faro', ed e' *certo* che lo faro' prima o poi, allora deve essere diverso. Nulla mi vieta' di prendere il meglio di OBSS ma per coerenza e' opportuno che sia veramente diverso.
+
+E sorge un altra domanda.. ma con tutti i retrocloni che ci sono.. ne serve un altro ??? (e ci aggingerei altri punti interrogativi..)
+Parto dal presupposto che i manuali che creo li faccio per me innanzi tutto e poi per chi li puo' apprezzare!
+
+Pero' si.. un altro retroclone forse no, dovrei cambiare totalmente sistema magari basarmi su un sistema a poll o sul d100... o qualcosa di ancora diverso (a scale di dadi mi intriga).
+
+Vedremo.... per adesso vi dico buona lettura e buon gioco, non manca molto al link ufficiale per il POD di OBSS.
+
 **16/11/2021**
 
 E anche la 0.23 e' stata pubblicata. Ha un changelog importante, corposo, eppure nulla di trascendentale, e' il *labor lime* continuo che so bene mi caratterizza.
