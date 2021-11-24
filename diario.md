@@ -1,6 +1,6 @@
 **23/11/2021**
 
-Probabilmente pubblichero' la nuova versioni a giorni. Sono ormai positivamente convinto dello stato finale del manuale. Controllanto il changelog sono per la maggior parte correzioni veramente minori o piccole aggiunte. Non che non servano pero' non cambiano il gioco.
+Probabilmente pubblichero' la nuova versione a giorni. Sono ormai positivamente convinto dello stato finale del manuale. Controllanto il changelog sono per la maggior parte correzioni veramente minori o piccole aggiunte. Non che non servano pero' non cambiano il gioco.
 
 Sono pronto a passare oltre? Ho delle idee in effetti...
 OBSS era nato come semplificazione a DBS invece nel lavoro di semplificazione e chiarimento l'ho solo arricchito. Mi chiedo pero' se sia sbagliato o no. Nei principi dell'OSR che OBSS richiama le regole non sono fondamentali ed anzi volutamente lasciano al Narratore/Master la decisione. Non e' sbagliato come approccio, ma lascia al Narratore molta responsabilita'. Un Narratore di esperienza che ha gia' molte conoscenze di altri sistemi e conosce a menadito il sistema allora puo' gestire tutto facilmente in autonomia stabilendo regole al momento a seconda della situazione. Narratori con meno esperienza devono avere piu' linee guida. Non e' un errore, non e' sbagliato avere esperienza o averne poca. 
