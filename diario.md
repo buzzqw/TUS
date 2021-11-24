@@ -1,3 +1,21 @@
+**24/11/2021**
+
+Mi sono concentrato su alcuni aggiunte puramente funzionali, quali andare ad inserire l'elenco dei mostri per grado di sfida.
+Grazie a grep non e' stato impossibile ottenere un elenco gia' bello che formattato..
+
+Non e' un elenco che usero' spesso, pero' per un novizio, ed ancora di piu' per dare un senso di completezza al manuale ci sta', lo rende piu' professionale.
+
+Oggi conto di pubblicare l'attuale versione e forse anche mandare in stampa.
+Sono le stampe finali, quella prima di lasciare libero il manuale, non che gia' non lo fosse, per tutti.
+
+OBSS e' arrivato adesso a 555 pagine, un bel tomo, l'obiettivo e' non andare oltre le 600 altrimenti l'obiettivo di *snellire* non viene proprio centrato! In ogni caso il manuale comprende anche il mostruario, la parte del Narratore e tutti i tesori.. tolto quelli il manuale del giocatore sarebbe di meno di 300 pagine di cui 90 di incantesimi! 
+
+OK.. non e' cosi' snello ma non devi essere *riduttivo* ma *concreto ed essenziale*. Ecco sul punto **essenziale** ammetto che non e' proprio cosi', ma alla fine e' quello che ho fatto e scritto quindi mi devo *arrangiare!*
+
+Un ultimo dubbio riguarda la **Cosmologia** se cambiarla o meno, adottando degli *dei* piu' tradizionali. E' un dubbio piuttosto importante che ha influenze piu' estese di quello che sembra.
+
+Ci pensero' su.. e molto e bene.
+
 **23/11/2021**
 
 Probabilmente pubblichero' la nuova versione a giorni. Sono ormai positivamente convinto dello stato finale del manuale. Controllanto il changelog sono per la maggior parte correzioni veramente minori o piccole aggiunte. Non che non servano pero' non cambiano il gioco.
