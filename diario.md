@@ -1,3 +1,23 @@
+**29/11/2021**
+
+Sono rimasto basito (F4), se non sconvolto per tutte le rivelazioni recentemente uscite sulla Paizo e l'ambiente di lavoro.
+Avevo letto diverse intervisti ad ex lavoratori in cui si lamentava un ambiente di lavoro tossico, misogino, fatto di straordinari non pagati, carichi di lavoro spoporzionati.. e ho sempre pensato che fossero commenti di ex lavoratori arrabbiati, che fossero voci volutamente esagerate.
+Poi ho letto l'intervista a Sean K Reynolds https://seankreynolds.wordpress.com/2021/11/22/wired-article-about-working-conditions-at-tabletop-companies/ , persona che gode della mia massima fiducia e ci sono rimasto veramene male.
+
+Da bambino volevo diventare uno scrittore di fiabe, crescendo ho conosciuto i giochi di ruolo e diventare un master e raccontare avventure e' stata la naturale evoluzione di un sogno di bambino. Ho sempre pensato che fosse bellissimo scrivere manuali ed avventure per professione l'unione perfetta di una passione fortissima e di un lavoro pagato.
+Ed anzi, ho sempre pensato che fosse un lavoro anche ben pagato, consierando l'impegno, energie mentali, competenza richiesta per creare qualcosa di veramente bello.
+Ed i manuali della Paizo serano cosi' fatti bene, pieni di dettagli, competenza, passione che WOW certo che sarei andato a lavorare presso di loro!
+
+Leggere gli antefatti e poi l'intervista a Sean mi ha veramente colpito. Non avrei mai pensato che la Paizo fosse un covo, e mi riferisco ai manager, di misogini, sfruttatori, padroni che sottopagano i dipendenti e li costringono a lavorare anche durante le feste per mantenere i ritmi di lavori assegnati.
+E oltretutto per una paga che giudicherei scarsa pure se fosse espressa in euro! (ed in america sarebbe veramente bassa).
+
+Alla Paizo ho lasciato migliaia di euro, ho comprato praticamente ogni volume di Pathfinder 1 uscito e sto facendo la stessa cosa con Pathfinder 2, ma adesso voglio riflettere con attenzione.
+Io stimo ed apprezzo chi scrive per la Paizo ma non accetto che sfruttino il lavoro cosi' vilmente. E' vero che il mondo degli scrittori di giochi di ruolo e' pieno di persone che lo farebbero anche per pochi spicci, ma qui si parla di lavoro, di professionalita' e non solo di passione. Il lavoro va sempre retribuito e trattato con rispetto.
+
+Sto seriamente pensando di smettere di acquistare prodotti della Paizo come ritorsione per come si sono comportati e continuano a comportarsi.
+
+E' un motivo in piu' per continuare a lavorare ancor di piu' su OBSS, sui miei sistemi. Voglio concentrarmi sul manuale, espanderlo, arricchirlo, fare in modo che possa veramente diventare un sistema assolutamente usabile ed anzi godibile (e penso che gia' sia cosi').
+
 **24/11/2021**
 
 Mi sono concentrato su alcuni aggiunte puramente funzionali, quali andare ad inserire l'elenco dei mostri per grado di sfida.
