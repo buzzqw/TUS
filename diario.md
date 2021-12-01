@@ -1,3 +1,21 @@
+**01/12/2021**
+
+Sto riflettendo sui bonus al tiro per colpire dei mostri. Il linea di principio i bonus al colpire della 5e sono piu' bassi di pathfinder essendoci il concetto di bonus competenza cappato.. mi viene pero' anche da pensare che sulla classe armatura invece il problema-differenza con pathfinder non dovrebbe porsi, alla fine le armature, destrezza, scudi.. proteggono tutti uguali. Rimane il discorso dei bonus magici che in pathfinder sono sicuramente piu' comuni che nella 5e.. ma alla fine dovrebbe essere una differenza di +3/4 a favore della classe armatura in pathfinder.
+
+C'e' da dire che la classe armatura della 5e sono piu' basse di pathfinder e questo puo' giustificare il minor bonus al colpire che si ha nella 5e. Altro fattore sono il tipo di bonus che si ha nella 5e rispetto ad altri sistemi, applicare un vantaggio al tiro per colpire equivale mediamente ad un +4 / +5 di bonus, che non e' certo poco.
+
+In OBSS  questi bonus sono meno comuni e quindi il "povero" mostro si ritrova con un bonus al colpire piu' basso.. eppure non mi torna ancora.
+
+La CA del mostro e' piu' bassa ed e' piu' basso il TC, ma i mostri non fanno a guerra tra di loro (piu' o meno) ma contro i personaggi, quindi avere una CA piu' bassa viene incontro al bonus al colpire piu' basso dei personaggi.
+Il TC pero' non me lo spiego, la CA dei personaggi e' in linea con le precedenti edizioni di gioco di ruolo, 10 + armatura + scudo + destrezza + bonus magici. Questa e' una, oserei dire, costante nel calcolo ed armature e scudi danno le medesime protezioni di sempre, va bene che i bonus magici sono piu' rari/scarsi nella 5e ma da qui a togliere quasi un 30% di bonus al colpire mi sembra veramente troppo.
+
+Purtroppo il playtesting fatto finora non ha affrontato mostri di alto livello ne tanto meno i personaggi lo erano.
+
+In OBSS i mostri hanno tutti una classe armatura piu' alta proprio per pareggiare il bonus al colpire dei personaggi, ma il tiro per colpire.. e' quello standard della 5e.
+
+Devo ricontrollare tutti i bonus al colpire dei mostri, mediamente vanno alzati di meta' valore del CR.
+
+
 **29/11/2021**
 
 Sono rimasto basito (F4), se non sconvolto per tutte le rivelazioni recentemente uscite sulla Paizo e l'ambiente di lavoro.
