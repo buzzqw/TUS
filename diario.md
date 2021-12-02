@@ -1,3 +1,9 @@
+**02/12/2021**
+
+Ho poi modificato i tiri per colpire dei mostri aumentandoli di meta' del loro CR, vedremo nei prossimi playtesting come la modifica impatta. Ho modificato moltissimi incantesimi aggiungendo il critico nella prova di magia. OBSS diviene ogni volta un prodotto piu' solido e personalizzato sempre un poco piu' diverso dalla 5e o Pathfinder. 
+La strada e' quella giusta, un prodotto che si ispira, trae il meglio, ma e' capace di creare ed innovare.
+
+
 **01/12/2021**
 
 Sto riflettendo sui bonus al tiro per colpire dei mostri. Il linea di principio i bonus al colpire della 5e sono piu' bassi di pathfinder essendoci il concetto di bonus competenza cappato.. mi viene pero' anche da pensare che sulla classe armatura invece il problema-differenza con pathfinder non dovrebbe porsi, alla fine le armature, destrezza, scudi.. proteggono tutti uguali. Rimane il discorso dei bonus magici che in pathfinder sono sicuramente piu' comuni che nella 5e.. ma alla fine dovrebbe essere una differenza di +3/4 a favore della classe armatura in pathfinder.
