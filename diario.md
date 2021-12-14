@@ -1,3 +1,15 @@
+**14/12/2021**
+
+Nulla di nuovo ?
+E' normale che le versione possano andare a rilento, e non solo le versioni ma anche solo i commit.
+E' da parecchio che OBSS ha raggiunto una certa maturita' e quello che viene modificato sono spesso chiarimenti linguistici e solo rare volte spiegazioni migliori di regole.
+Il playtesting serve a questo, per trovare difetti, falle e piu' semplicemente cose da chiarire meglio.
+
+Siete tutti invitati a comunicarmi i problemi, difficolta' dubbi.. che avete su OBSS, mi fa solo piacere poter migliorare il gioco ed il manuale!
+
+Aspettero' il nuovo anno prima di mandare una nuovo stampa, non c'e' nulla di trascendentale, ma e' sempre bello avere l'ultima versione sottomano.
+
+
 **02/12/2021**
 
 Ho poi modificato i tiri per colpire dei mostri aumentandoli di meta' del loro CR, vedremo nei prossimi playtesting come la modifica impatta. Ho modificato moltissimi incantesimi aggiungendo il critico nella prova di magia. OBSS diviene ogni volta un prodotto piu' solido e personalizzato sempre un poco piu' diverso dalla 5e o Pathfinder. 
