@@ -6,7 +6,7 @@ Il sistema magico e' a spell point ed usa gli incatesimi della 5e, molto modific
 
 OBSS si rifà alla filosofia OSR (Old School Renaissance) ma comunque in chiave moderna, ne abbraccia i principi ma non esclude un sistema di regole più completo che possa aiutare il Narratore.
 
-Scaricate il manuale OBSS.pdf [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS.pdf) e la scheda OBSS-scheda.pdf [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda.pdf).
+Scaricate il manuale OBSS.pdf [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS.pdf) oppure senza copertina [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-nocopertina.pdf) e la scheda OBSS-scheda.pdf [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda.pdf).
 E' anche disponibile uno schermo per il Narratore (veramente brutto.. perdonate!) [link](https://github.com/buzzqw/TUS/blob/master/OBSS/screen.pdf).
 
 Il manuale di OBSS e' completo, un bel tomo di oltre 500 pagine, con tutto cio' che serve per giocare! Troverete i capitoli che interessano i Giocatori ed il Narratore, compreso tutti i mostri della SRD della 5ed (piu' qualche aggiunta).
