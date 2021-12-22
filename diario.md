@@ -1,3 +1,9 @@
+**22/12/2021**
+
+Ho voluto rilasciare la 0.28, nulla di particolare, ho solo voluto raccogliere le ultime modifiche in una versione prima di fine anno.
+Il lavoro di controllo prosegue ma ormai le verde modifichce sono molto poche. Come sempre ci sono chiarimenti, piccole modifiche, qualche opzione.
+In paricolare e' presente l'opzione che permette di lanciare incantesimi in armatura, con qualsiasiasi tipo di armatura e senza mai effettuare prove di magia, semplicemente ogni incantesimo diventa a tocco. Semplice ed immediata, ammetto anche parecchio exploitable..tipo incantatori in armatura completa che si gettano nei campi di battaglia forti della loro corazza e buffano/debuffano i compagni se non proprio lanciano dardo incantato a contatto!
+
 **14/12/2021**
 
 Nulla di nuovo ?
@@ -12,7 +18,7 @@ Aspettero' il nuovo anno prima di mandare una nuovo stampa, non c'e' nulla di tr
 
 **02/12/2021**
 
-Ho poi modificato i tiri per colpire dei mostri aumentandoli di meta' del loro CR, vedremo nei prossimi playtesting come la modifica impatta. Ho modificato moltissimi incantesimi aggiungendo il critico nella prova di magia. OBSS diviene ogni volta un prodotto piu' solido e personalizzato sempre un poco piu' diverso dalla 5e o Pathfinder. 
+Ho poi modificato i tiri per colpire dei mostri aumentandoli di meta' del loro CR, vedremo nei prossimi playtesting come la modifica impatta. Ho modificato moltissimi incantesimi aggiungendo il critico nella prova di magia. OBSS diviene ogni volta un prodotto piu' solido e personalizzato sempre un poco piu' diverso dalla 5e o Pathfinder.
 La strada e' quella giusta, un prodotto che si ispira, trae il meglio, ma e' capace di creare ed innovare.
 
 
@@ -64,7 +70,7 @@ Non e' un elenco che usero' spesso, pero' per un novizio, ed ancora di piu' per 
 Oggi conto di pubblicare l'attuale versione e forse anche mandare in stampa.
 Sono le stampe finali, quella prima di lasciare libero il manuale, non che gia' non lo fosse, per tutti.
 
-OBSS e' arrivato adesso a 555 pagine, un bel tomo, l'obiettivo e' non andare oltre le 600 altrimenti l'obiettivo di *snellire* non viene proprio centrato! In ogni caso il manuale comprende anche il mostruario, la parte del Narratore e tutti i tesori.. tolto quelli il manuale del giocatore sarebbe di meno di 300 pagine di cui 90 di incantesimi! 
+OBSS e' arrivato adesso a 555 pagine, un bel tomo, l'obiettivo e' non andare oltre le 600 altrimenti l'obiettivo di *snellire* non viene proprio centrato! In ogni caso il manuale comprende anche il mostruario, la parte del Narratore e tutti i tesori.. tolto quelli il manuale del giocatore sarebbe di meno di 300 pagine di cui 90 di incantesimi!
 
 OK.. non e' cosi' snello ma non devi essere *riduttivo* ma *concreto ed essenziale*. Ecco sul punto **essenziale** ammetto che non e' proprio cosi', ma alla fine e' quello che ho fatto e scritto quindi mi devo *arrangiare!*
 
@@ -77,7 +83,7 @@ Ci pensero' su.. e molto e bene.
 Probabilmente pubblichero' la nuova versione a giorni. Sono ormai positivamente convinto dello stato finale del manuale. Controllanto il changelog sono per la maggior parte correzioni veramente minori o piccole aggiunte. Non che non servano pero' non cambiano il gioco.
 
 Sono pronto a passare oltre? Ho delle idee in effetti...
-OBSS era nato come semplificazione a DBS invece nel lavoro di semplificazione e chiarimento l'ho solo arricchito. Mi chiedo pero' se sia sbagliato o no. Nei principi dell'OSR che OBSS richiama le regole non sono fondamentali ed anzi volutamente lasciano al Narratore/Master la decisione. Non e' sbagliato come approccio, ma lascia al Narratore molta responsabilita'. Un Narratore di esperienza che ha gia' molte conoscenze di altri sistemi e conosce a menadito il sistema allora puo' gestire tutto facilmente in autonomia stabilendo regole al momento a seconda della situazione. Narratori con meno esperienza devono avere piu' linee guida. Non e' un errore, non e' sbagliato avere esperienza o averne poca. 
+OBSS era nato come semplificazione a DBS invece nel lavoro di semplificazione e chiarimento l'ho solo arricchito. Mi chiedo pero' se sia sbagliato o no. Nei principi dell'OSR che OBSS richiama le regole non sono fondamentali ed anzi volutamente lasciano al Narratore/Master la decisione. Non e' sbagliato come approccio, ma lascia al Narratore molta responsabilita'. Un Narratore di esperienza che ha gia' molte conoscenze di altri sistemi e conosce a menadito il sistema allora puo' gestire tutto facilmente in autonomia stabilendo regole al momento a seconda della situazione. Narratori con meno esperienza devono avere piu' linee guida. Non e' un errore, non e' sbagliato avere esperienza o averne poca.
 
 Tutto sta quanto **volutamente** il manuale tralascia al Narratore. Sono dell'opinione che il manuale deve dare piu' regole e suggerimenti possibile, poi sta a te, Narratore, applicarli, modificarli.. gestirli. Tuo il tavolo tue le regole .. giusto ?
 Un manuale per essere *fatto bene* non deve essere farcito di tabelle casuali o mancanze palesi, piuttoso deve dare tutti gli strumenti per capire come interagire con le regole e come applicarle.
@@ -105,7 +111,7 @@ Quindi continuo con la mia numerazione!
 EDIT: ho ceduto alla tentazione e mandato in stampa anche la 0.23, considerando i tempi di consegna posso considerarlo il mio regalo di natale.
 Diciamo che vorrei focalizzare il playtest, avere piu' feedback possibili per confezionare la prossima versione il piu' corposa possibile per le modifiche e correzioni (se ancora ci sono!).
 Detta diversamente considero la stampa della 0.23 come l'ultima beta sul quale focalizzare l'attenzione prima di uscire con la versione definitiva.
-Non sto dicendo che la 0.24 sia l'ultima, la "versione per le stampe", anzi usciranno ancora diverse versioni che raccoglieranno i vari feedback e correzioni, quello che voglio dire e' che la prossima STAMPA sara' la definitiva, quella che voglio giudicare pronte per essere distribuita massivamente. E' stato un processo molto lungo e snervante sotto molti aspetti arrivare fino a qui ma la soddisfazione e' stata tanta. 
+Non sto dicendo che la 0.24 sia l'ultima, la "versione per le stampe", anzi usciranno ancora diverse versioni che raccoglieranno i vari feedback e correzioni, quello che voglio dire e' che la prossima STAMPA sara' la definitiva, quella che voglio giudicare pronte per essere distribuita massivamente. E' stato un processo molto lungo e snervante sotto molti aspetti arrivare fino a qui ma la soddisfazione e' stata tanta.
 Confido che molti altri giocatori possano trovare il sistema divertente, con quel giusto mix di regole per renderlo appagante sia per chi viene da Pathfinder che dalla 5e o da altri sistemi, praticamente per chiunque ami il GDR fantasy.
 
 
