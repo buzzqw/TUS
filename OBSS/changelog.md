@@ -68,6 +68,6 @@
 
 STAMPA
 
-0.30
+0.30 aggiunta esempio Tups e la trappola,
 
 -aggiunti \label{} fino a famiglio
