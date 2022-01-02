@@ -68,6 +68,6 @@
 
 STAMPA
 
-0.30 aggiunta esempio Tups e la trappola,
+0.30 aggiunta esempio Tups e la trappola, modificato recupero punti ferita massimi,
 
 -aggiunti \label{} fino a famiglio
