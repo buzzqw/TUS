@@ -19,6 +19,8 @@ OBSS e' indirizzato a Narratori (o Master come chiamati altrove) novizi che abbi
 
 Un changelog scritto in maniera un po' piu' comprensibile dei commit e' il file changelog.md [link](https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md), mentre in diario.md [link](https://github.com/buzzqw/TUS/blob/master/diario.md) troverete i miei deliri di autore (poche cose attualmente!)
 
+Ho creato un canale Telegram per parlare e confrontarsi su [OBSS](https://t.me/obssgdr)
+
 Buon Divertimento e Buon Gioco!
 
 Andres
