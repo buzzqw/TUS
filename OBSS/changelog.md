@@ -62,10 +62,10 @@
 
 **0.28** pubblicata versione 0.27, aggiornata copertina, aggiornata abilita' danza della lama, modificato tiro rapido perche' includesse anche ricarca rapida e rimosso ricarica rapida, specificato come tocco pietoso interagisce con punti ferita massimi ridotti e affaticamento, corretta scrittura in prova intimidire, corretta indicazione in screen su riconoscere creature, chiarimenti su afferrare, modificato spingere, semplificato attacco furtivo, note su esplorazioni in dungeon, minime correzioni in razze, collegamento punti ferita temporanei e recupero, aggiornata dicitura punti ferita massimi su scheda, indicazioni di strisciare, migliorato layout combattimento, allineato layout mostruario, ulteriori indicazioni su copertura totale, suggerimenti su uso scheda, aggiunta spada larga,  aggiunta regola opzionale per incantesimi in armatura, aggiornata abilita' danza della lama
 
-*0.29* pubblicata versione 0.28, aggiornata copertina, aggiunta arma estoc, aggiunto mostro dobi, dettaglio su danno di tipo diverso con le armi, aggiunto dettagli sui divora cervelli, aggiunta informazione su uso corda in arrampicarsi, dettaglio su rincorsa per prova di saltare, aggiornata descrizione dei nibali, dettaglio su creature invisibili, aggiornati mostri e chiarimenti su punti ferita massimi, migliorie a layout magie, chiarimenti magia
+**0.29** pubblicata versione 0.28, aggiornata copertina, aggiunta arma estoc, aggiunto mostro dobi, dettaglio su danno di tipo diverso con le armi, aggiunto dettagli sui divora cervelli, aggiunta informazione su uso corda in arrampicarsi, dettaglio su rincorsa per prova di saltare, aggiornata descrizione dei nibali, dettaglio su creature invisibili, aggiornati mostri e chiarimenti su punti ferita massimi, migliorie a layout magie, chiarimenti magia
 
 31/12/2021 STAMPA
 
-0.30 aggiunta esempio Tups e la trappola, modificato recupero punti ferita massimi,
+*0.30* aggiunta esempio Tups e la trappola, modificato recupero punti ferita massimi, ogni movimento costa una azione di movimento, opzione per gestione danno massivo, minori chiarimenti e correzioni in combattimento, 
 
 -aggiunti \label{} fino a famiglio
