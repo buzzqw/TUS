@@ -66,6 +66,6 @@
 
 31/12/2021 STAMPA
 
-*0.30* aggiunta esempio Tups e la trappola, modificato recupero punti ferita massimi, ogni movimento costa una azione di movimento, opzione per gestione danno massivo, minori chiarimenti e correzioni in combattimento, 
+*0.30* aggiunta esempio Tups e la trappola, modificato recupero punti ferita massimi, ogni movimento costa una azione di movimento, opzione per gestione danno massivo, minori chiarimenti e correzioni in combattimento, aggiunto incantesimo sonnellino, religione e' sotto conoscenze (int), suonare e' sotto intrannere, rimosso giocoliere,
 
 -aggiunti \label{} fino a famiglio
