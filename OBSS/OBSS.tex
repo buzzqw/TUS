@@ -1001,7 +1001,7 @@ Sono presentati più sistemi per tirare le caratteristiche.
 Personalmente suggerisco l'approccio della \textbf{Modalità Base}. In OBSS i personaggi non sono eroi, non sono i prescelti che si ergono a difensori del pianeta. I personaggi sono persone normali coinvolte spesso loro malgrado in situazioni al limite se non oltre la sopravvivenza.
 
 \begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/dice4.png}
+\includegraphics[width=0.7\linewidth]{immagini/dice4.png}
 \end{center}
 
 L'indubbio vantaggio di tirare i valori in ordine delle caratteristiche è che permette di scombinare gli schemi ed evitare build fatte a tavolino.
@@ -1038,17 +1038,33 @@ Non c'è l'\textbf{Eccezione} del +4 nella Modalità che vorrei
 
 \medskip
 
-\begin{tabular}{ll}
-\textbf{Totale dei dadi}& \textbf{Valore Caratteristica}\\
+\end{multicols}
+
+\begin{tabularx}{0.9\textwidth}{lX|lX}
+\textbf{Totale dei dadi}& \textbf{Valore Caratteristica}&\textbf{Totale dei dadi}& \textbf{Valore Caratteristica}\\
 \toprule
-3 (o meno)&-3\\
-4-5&-2\\
-6-7-8&-1\\
-9-10-11-12&+0\\
-13-14-15&+1\\
-16-17&+2\\
-18 (o più)&+3\\
-\end{tabular}
+3 (o meno)&-3&18 (o più)&+3\\
+4-5&-2&16-17&+2\\
+6-7-8&-1&13-14-15&+1\\
+9-10-11-12&+0&&\\
+\end{tabularx}
+
+\begin{multicols}{2}
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tiriamo le Caratteristiche di Tups]
+		
+* \textbf{Il primo tiro}: \cancel{1},1,4,6, totale 11, la caratteristica di Forza ha valore +0.
+		
+* \textbf{Secondo tiro}: \cancel{5},6,6,6, totale 18, la caratteristica di Destrezza ha valore +3
+		
+* \textbf{Terzo tiro}: \cancel{1},1,2,1, totale 4, la caratteristica di Costituzione ha valore -2
+		
+* \textbf{Quarto tiro}: 6,6,6,6, totale 18, la caratteristica di Intelligenza ha valore +4 (eccezzione per i quattro 6 tirati)
+		
+* \textbf{Quinto tiro}: 3,4,\cancel{2},6, totale 13, la caratteristica di Saggezza è +1
+		
+* \textbf{Sesto tiro}: 3,4,2,\cancel{1}, totale 9, la caratteristica di Carisma è +0
+\end{tcolorbox}\end{changemargin}
 
 \subsubsection{Modalita' opzionale (Caratteristiche - per i codardi!)}\index{Caratteristiche - Modalità opzionale per i codardi}\label{modalitapericodardi}
 
@@ -1060,30 +1076,13 @@ Se il Narratore lo concede è possibile che ogni giocatore distribuisca 4 punti 
 
 L'aumento di Caratteristica ha effetto retroattivo solo per gli aumenti di Costituzione, andando a ripercuotersi sui Punti Ferita massimi. L'aumento di Caratteristica applica immediatamente il modificatore ai Tiri Salvezza e Tiri per Colpire ed Iniziativa, l'aumento di Intelligenza si ripercuote nel successivo livello nel numero di Competenze acquisite.
 
-\medskip
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tiriamo le Caratteristiche di Tups]
-
-* \textbf{Il primo tiro}: \cancel{1},1,4,6, totale 11, la caratteristica di Forza ha valore +0.
-
-* \textbf{Secondo tiro}: \cancel{5},6,6,6, totale 18, la caratteristica di Destrezza ha valore +3
-
-* \textbf{Terzo tiro}: \cancel{1},1,2,1, totale 4, la caratteristica di Costituzione ha valore -2
-
-* \textbf{Quarto tiro}: 6,6,6,6, totale 18, la caratteristica di Intelligenza ha valore +4 (eccezione per i quattro 6)
-
-* \textbf{Quinto tiro}: 3,4,\cancel{2},6, totale 13, la caratteristica di Saggezza è +1
-
-* \textbf{Sesto tiro}: 3,4,2,\cancel{1}, totale 9, la caratteristica di Carisma è +0
-\end{tcolorbox}\end{changemargin}
-
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/guerrieroispirato.png}
-\end{center}
+%\begin{center}
+%\includegraphics[width=0.5\linewidth]{immagini/guerrieroispirato.png}
+%\end{center}
 
 \end{multicols}
 
-\medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 I giocatori comunque si lamenteranno delle Caratteristiche tirate, è normale, specialmente i giocatori più inesperti. Cercate di fargli capire che non deve limitarsi a guardare le Caratteristiche ma vedere l'insieme generale del personaggio. Suggeritegli Abilità che possano sopperire allo svantaggio.
@@ -4970,7 +4969,7 @@ Quando fai un danno critico con il tuo pugnale sommi la tua Competenza Armi al d
 
 \textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
 
-Ogni volta che colpisci il medesimo avversario fai un danno aggiuntivo (Max +1 per round di combattimento, anche se lo colpisci più volte nel round) fino ad un massimo +5. La prima volta che non colpisci nel round l'avversario il bonus torna a +0. Il bonus si può mantenere su un solo avversario alla volta.
+Ogni volta che colpisci il medesimo avversario, a partire dal secondo round, fai un danno aggiuntivo (Max +1 per round di combattimento, anche se lo colpisci più volte nel round) fino ad un massimo +5. La prima volta che non colpisci nel round l'avversario il bonus torna a +0. Il bonus si può mantenere su un solo avversario alla volta.
 
 \subsection*{Radici magiche}\index{Radici magiche}\label{radicimagiche}
 
@@ -5232,7 +5231,7 @@ Scegli una Lista d'Armi. Il danno da Forza applicato dalle armi di quella lista 
 
 L'Abilità può essere presa più volte e il punteggio della Lista d'Armi deve essere 4 volte superiore le volte prese quest'Abilità.
 
-Se prendi \textbf{4 volte} quest'Abilità sulla stessa Lista d'Armi i bonus all danno si riducono a +4 ma tiri due volte il danno e scegli il risultato migliore.
+Se prendi \textbf{4 volte} quest'Abilità sulla stessa Lista d'Armi i bonus al danno si riducono a +4 ma tiri due volte il danno e scegli il risultato migliore.
 
 \subsection*{Un solo corpo, una sola mente, un solo spirito}\index{Un solo corpo, una sola mente, un solo spirito}\label{USCMS}
 
@@ -5544,7 +5543,7 @@ Vantaggi/Svantaggi: nessuno
 
 Lista d'Armi: Spada e Scudo oppure a scelta
 
-Abilità suggerite: vedi sopra
+Abilità suggerite: vedi sotto
 
 \textbf{Varianti}:
 
@@ -5590,7 +5589,7 @@ Abilità suggerite: vedi sopra
 
 Lista d'Armi: Spada e Scudo o a scelta
 
-Abilità suggerite: vedi sopra
+Abilità suggerite: vedi sotto
 
 Vantaggi e Svantaggi: selezionare ciò che si preferisce (immunità alle malattie, bonus ai tiri salvezza.. da pagare con svantaggi tipo povertà, codice etico...)
 
@@ -5630,7 +5629,7 @@ Può prendere 5 volte Competenza Armi ed arriva a lanciare comunque incantesimi 
 
 Lista d'Armi: Armi semplici
 
-Abilità suggerite: vedi sopra
+Abilità suggerite: vedi sotto
 
 \medskip
 
@@ -5668,7 +5667,7 @@ Può prendere 5 volte Competenza Armi ed arriva a lanciare comunque incantesimi 
 
 Lista d'armi: come suggerito dal Patrono
 
-Abilità suggerite: vedi sopra
+Abilità suggerite: vedi sotto
 
 \medskip
 
@@ -5705,7 +5704,7 @@ Ad ogni livello prende sempre Competenza Magica come Competenza attiva.
 
 Può prendere 5 volte Competenza Armi ed arriva a lanciare comunque incantesimi di 9 livello.
 
-Abilità suggerite: vedi sopra
+Abilità suggerite: vedi sotto
 
 Lista d'Armi: Armi semplici
 
@@ -5784,7 +5783,7 @@ Vantaggi/Svantaggi: nessuno
 
 Lista d'Armi: Spada o a scelta
 
-Abilità suggerite: vedi sopra
+Abilità suggerite: vedi sotto
 
 \medskip
 
@@ -14104,13 +14103,13 @@ Gli Scudi possono essere di tipo Leggero, Medio, Pesante.
 \begin{tabular}{lcccccc}
 \textbf{Scudi} & \textbf{Costo} & \textbf{Bonus Difesa} & \textbf{Malus TC} & \textbf{Prova magia} & \textbf{Peso (kg)} & \textbf{Tipo}\\
 \toprule
-Brocchiero& 5 mo &  0& 1& SI&1  & L\\
-Scudo leggero di legno   & 3 mo  &  0& 2& SI&2  & L\\
-Scudo leggero di metallo & 9  mo  &  0& 3&SI& 3  & L\\
-Scudo medio legno   & 5 mo   &  -1& 4& +1d6&3  & M\\
-Scudo medio metallo & 12 mo  & -1  & 5& +1d6&5  & M\\
-Scudo pesante di legno   & 7  mo  &  -2    & 6& +2d6&5  & P\\
-Scudo pesante di metallo & 20 mo  &  -2    & 7& +2d6&7  & P\\
+Brocchiero&					5 mo 	&  1	& 0& SI	&1  & L\\
+Scudo leggero di legno   & 	3 mo  	&  0	& 0& SI	&2  & L\\
+Scudo leggero di metallo & 	9  mo  	&  0	& 0& SI	&3  & L\\
+Scudo medio legno   & 		5 mo   	&  2	& 1& +1d6&3  & M\\
+Scudo medio metallo & 		12 mo  	&  2  	& 1& +1d6&5  & M\\
+Scudo pesante di legno   & 	7  mo  	&  3    & 2& +2d6&5  & P\\
+Scudo pesante di metallo & 	20 mo  	&  3    & 2& +2d6&7  & P\\
 \end{tabular}
 
 \medskip
