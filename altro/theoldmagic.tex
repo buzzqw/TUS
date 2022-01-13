@@ -64,7 +64,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 %\usetikzlibrary{backgrounds,calc}
 %\pgfdeclarelayer{background}
 %\pgfdeclarelayer{foreground}
-%\pgfsetlayers{background,main,foreground}  
+%\pgfsetlayers{background,main,foreground}
 %\pdfminorversion=5
 %%\makeatletter
 %%\makeatother
@@ -95,7 +95,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
 		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
 		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
-		
+
 	},
 	drop fuzzy shadow % adds drop shadow
 }
@@ -139,29 +139,29 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 
 
 \begin{document}
-	
-	
+
+
 	\title{Dungeon Bell System (DBS)\\\vspace{1cm}The Old Magic}
 	\date{\today\\
 		\includegraphics[bb=0 0 1148 636,width=6.85139in,height=3.79514in]{copertina.png}}
 	\author{Andres Zanzani}
 	\maketitle
 	\thispagestyle{empty}
-	
+
     \newpage~
-	
+
 	%%\normalsize
-	
+
 	%%\linespread{1.5}
-	
-	
+
+
 	\setcounter{page}{1}
 	\pagebreak
-	
-	\begin{multicols}{2}  
+
+	\begin{multicols}{2}
 		{\small \tableofcontents{}}
 	\end{multicols}
-	
+
 	\pagebreak{}
 
 
@@ -177,10 +177,10 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \begin{note}
 	In questo volumetto troverete le regole ed il funzionamento della Vecchia Magia, come era chiamata in Yeru; un metodo oramai perso, di cui pochissimi rammentano l'esistenza e meno ancora lo sanno usare\\
 
-	Le \textit{Essenze} sono la magia declinabile tramite l'associazione Verbo - Nome, ovvero la possibilità di creare effetti magici associando un verbo (creare, distruggere, muovere..) ad un nome (persona, oggetto, elemento..). Questo sistema e' meno intuitivo nei primi utilizzi eppure una volta entrati nel processo creativo vi renderete conto di avere la possibilità di fare quasi tutto.\\	
-	
+	Le \textit{Essenze} sono la magia declinabile tramite l'associazione Verbo - Nome, ovvero la possibilità di creare effetti magici associando un verbo (creare, distruggere, muovere..) ad un nome (persona, oggetto, elemento..). Questo sistema e' meno intuitivo nei primi utilizzi eppure una volta entrati nel processo creativo vi renderete conto di avere la possibilità di fare quasi tutto.\\
+
 	\textbf{Tutte le regole qui presentate sostituiscono in toto le il sistema magico di DBS.}
-	
+
 \end{note}
 
 \subsection{Le Essenze}
@@ -257,11 +257,11 @@ L'Essenza di Creazione e Protezione userà un CM a +4, per la Cura e Difesa a +5
 Ci sono dei punti fermi, delle regole che sovrintendono la magia e queste sono:
 \begin{itemize}
 	\item Non è permesso riportare in vita i morti. Solo un Patrono può restituire l'anima ad un corpo.
-	
+
 	\item Non è permesso creare vita
-	
+
 	\item Declama la tua magia o non funzionerà
-	
+
 \end{itemize}
 
 \subsubsection{Creature ed Elementi}\index{Creature ed Elementi}
@@ -296,7 +296,7 @@ Le \textbf{Virtù} comprendono i Tratti
 \medskip
 \begin{tabular}{llllll}
 	\toprule
-	\multicolumn{2}{c}{\textbf{Creature}} &\multirow{2}{*}{\textbf{Energia}}  &\multirow{2}{*}{\textbf{Elementi}}  
+	\multicolumn{2}{c}{\textbf{Creature}} &\multirow{2}{*}{\textbf{Energia}}  &\multirow{2}{*}{\textbf{Elementi}}
 	&\multirow{2}{*}{\textbf{Concetto}} &\multirow{2}{*}{\textbf{Virtù}}\\
 	\textit{Naturali}& \textit{Magiche} \\
 	\hline
@@ -407,37 +407,37 @@ A questo valore si sottrae l'eventuale riduzione dato dal Tempo di Lancio
 	+8&4 ore&entro 700 metri&8 obiettivi - 10m/r&&3 ore\\
 	\hline
 	+9&6 ore&entro 1000 metri&9 obiettivi - 10m/r&&6 ore\\
-	\hline	
+	\hline
 	+11&12 ore&entro 3 km&11 obiettivi - 12m/r& 10cm\^{}3/100gr&1 giorno\\
-	\hline	
+	\hline
 	+13&1 giorno&entro 5 km&&20cm\^{}3/500gr&1 settimana\\
-	\hline	
+	\hline
 	+16&1 settimana&entro 10 Km&13 obiettivi - 14m/r&50cm\^{}3/3kg&1 mese\\
-	\hline	
+	\hline
 	+19&10 giorni&entro 20 Km&16 obiettivi - 18m/r&1m\^{}3/25kg&\\
-	\hline	
+	\hline
 	+20&2 settimane&entro 50 Km&20 obiettivi - 22 m/r&&-\\
-	\hline	
+	\hline
 	+22&3 settimane&entro 70 Km&50 obiettivi - 18m/r&2CB/100kg&\\
-	\hline	
+	\hline
 	+25&1 mese&entro 100 Km&una piccola città&4CB/200kg&\\
-	\hline	
+	\hline
 	+28&3 mesi&entro 150 Km&una città&8CB/400kg&\\
-	\hline	
+	\hline
 	+30&6 mesi&entro 250 Km&una grande città&&-\\
-	\hline	
+	\hline
 	+31&8 mesi&entro 300 Km&una regione'&16CB/800kg&-\\
-	\hline	
+	\hline
 	+34&9 mesi&entro 350 Km&una regione grande&32CB/1.6ton&-\\
-	\hline	
+	\hline
 	+37&11 mesi&entro 450 Km&una regione grande&64CB/3.2ton&-\\
-	\hline	
+	\hline
 	+40&1 anno&entro 500 Km&un continente&&-\\
-	\hline	
+	\hline
 	+43&5 anni&entro 1000 Km&piu' continenti&128CB/6.4ton&-\\
-	\hline	
+	\hline
 	+60&permanente&il pianeta&il pianeta&&-\\
-	\hline	
+	\hline
 \end{tabularx}
 \bigskip
 
@@ -538,9 +538,7 @@ Se l'incantatore acquisisce la capacità di un attacco (solitamente magico e non
 
 Es. Creo un Muro di Fuoco, la magia ha successo e creo un muro con LP 25 (4 cubi base). Il danno per chi' attraversa o ci e' in contatto e' di 5d6, come se fosse una Essenza di Attacco a LP 19.
 
-Si deve considerare che la manifestazione dell'Essenza si completi e sia usabile dal round successivo. La manifestazione farà effetto il round successivo nella sequenza di iniziativa pari a quella del round precedente.
-
-Se acquisisce una forma di attacco naturale potrà comunque usare l'attacco dal round successivo con un danno coerente alla forma di attacco acquisito (morso, artiglio..).
+Se acquisisce una forma di attacco naturale il danno sarà coerente alla forma di attacco acquisito (morso, artiglio..).
 
 \subsubsection{Usare due Essenze concatenate}\index{Usare due Essenze concatenate}
 
@@ -572,7 +570,7 @@ Il mago può modificare a piacimento la difficoltà della magia che va a formula
 	Magia efficace: sacrificando PF puo’ aumentare la difficoltà a resistere alla magia
 	\begin{itemize}
 		\item Sacrificando 4 punti ferita la difficoltà del Tiro Salvezza aumenta di 1
-		\item Sacrificando 8 punti ferita la difficoltà del TS aumenta di 2		
+		\item Sacrificando 8 punti ferita la difficoltà del TS aumenta di 2
 		\item Sacrificando 16 punti ferita la difficoltà del TS aumenta di 3
 	\end{itemize}
 \end{itemize}
@@ -617,7 +615,7 @@ Nella tabella delle Essenza il primo livello di potere è indicato come "< xx", 
 
 Se non si riesce a superare la difficoltà base l'Essenza non avrà effetto e manifestazione e sarà contata tra le Essenze usate nel giorno.
 
-In sintesi l'incantatore deve superare, con il suo check su Competenza Magica, la difficoltà data dai parametri base (Area di Effetto, Distanza, Durata, impedimenti..) se supera questo valore ha di sicuro ottenuto il valore minimo di effetto, controllando di quanto ha superato il valore capirà il livello di potere ottenuto.
+In sintesi l'incantatore deve superare, con il suo check su Competenza Magica, la difficoltà data dai parametri base (Area di Effetto, Distanza, Durata, impedimenti..) se supera questo valore controlla il risultato con la tabella per capire il livello di potere ottenuto.
 
 Il sistema privilegia un uso accorto e ragionato delle Essenze, il giocatore e' spinto a calcolare ed usare sempre il minimo sufficiente di Area di Effetto, Durata, Distanza proprio per ottenere il massimo effetto (piu' sono alti i fattori di base piu' e' probabile che il livello di potere ottenuto sia basso)
 Tentare una cura planetaria puo' essere divertente, ma e' solo uno spreco di Essenza, a meno di non essere un Patrono o quasi.
@@ -632,7 +630,7 @@ Distanza: nasce dal palmo della mano, ovvero ha come distanza massima mischia (t
 
 Area di Effetto: un solo obiettivo, difficoltà +1 (non e' 0 un quanto la magia agisce non su me stesso)
 
-Durata: 0, istantanea, difficoltà+0
+Durata: 0, istantanea, difficoltà +0
 
 La difficoltà base è quindi 1, Se con la prova di magia ottengo 8 (o comunque 1 o piu') avrò il minimo effetto, ovvero uno shock da 1d6 di danno.
 
@@ -712,7 +710,7 @@ L'ultimo consiglio è infine rivolto specificatamente ai Narratore, lasciate che
 \subsubsection{Lista delle Essenze}\index{Lista delle Essenze}\index{Essenze}
 
 \begin{itemize}
-	
+
 	\item
 	\textbf{Alterare} (Intelletto): la capacità di alterare il corpo per dargli capacità o aspetto diverse o superiori\index{Alterare}
 	\item
@@ -741,7 +739,7 @@ L'ultimo consiglio è infine rivolto specificatamente ai Narratore, lasciate che
 	\textbf{Rivelazione} (Magnetismo): la capacità di aumentare la consapevolezza nel proprio ambiente e utilizzare la magia per osservazione e divinazione\index{Rivelazione}
 	\item
 	\textbf{Trasformazione} (Potenza): la capacità di trasformare un elemento o creatura in un altro elemento e /o creature\index{Trasformazione}
-	
+
 \end{itemize}
 
 \bigskip
@@ -807,7 +805,7 @@ Esempi:
 	"Con il potere della natura. Questo ragno mi concederà la sua tela"
 	\item
 	"Per il soffio del grande Gurthok. Possa io soffiare fiamme" .
-	
+
 	Solo dal round successivo potrò soffiare fiamme e potrà sfruttare l'Alterazione come forma di Attacco con un livello di potere di due gradini inferiori a quello ottenuto per l'Alterazione.
 \end{itemize}
 
@@ -923,7 +921,7 @@ I costi base sono 4, se con la prova faccio 24, avrò un livello di potere pari 
 	\item
 	Al target viene concesso un Tiro Salvezza su Arbitrio per negare gli effetti. In caso di fallimento critico la durata viene raddoppiata.
 	\item
-	Puoi anche influenzare emotivamente l'obiettivo rendendolo piu' coraggioso, impaurito, attento, impavido, brutale...      
+	Puoi anche influenzare emotivamente l'obiettivo rendendolo piu' coraggioso, impaurito, attento, impavido, brutale...
 \end{itemize}
 
 \medskip
@@ -1076,7 +1074,7 @@ Non si possono creare Creature (naturali o magiche) secondo la regola che non si
 	\item Non e' possibile creare qualcosa di magico
 	\item Se si crea materia solida attorno all'obiettibo ed entro distanza di 3 metri (o il doppio della sua portata se è maggiore) dallo stesso, viene concesso un Tiro Salvezza su Riflessi per uscire dalla creazione prima che questa sia completa.
 	\item La massa creata si distribuisce in blocchi connessi tra loro.
-	\item La massa creata obbedisce alle leggi delle fisica quando possibile. Un muro d'acqua cade il round successivo alla creazione.
+	\item La massa creata obbedisce alle leggi delle fisica quando possibile. Un muro d'acqua cade il round successivo alla creazione, una fiamma si spegne il round successivo.
 	\item Un cubo base è un cubo di lato 1 metro
 \end{itemize}
 
@@ -1149,8 +1147,8 @@ L'Essenza della Cura è la \textbf{capacità di riempire il vuoto causato da una
 	Una Essenza di Cura usata su un non morto equivale a causargli un danno pari all'ammontare che l'Essenza di Attacco avrebbe causato. Un Tiro Salvezza su Tempra può dimezzare i danni. Un successo critico li dimezza ulteriormente. Un fallimento Critico li raddoppia.
 	\item
 	L'Essenza di Cura ha un Area di Effetto sempre a target e mai a raggio. Se sono indicati più target questi devono essere entro un metro l'uno dall'altro.
-	\item      
-	L'Essenza di Cura usata su un oggetto ne sistema i meccanismi rotti ma non puo' crearne pezzi mancanti 
+	\item
+	L'Essenza di Cura usata su un oggetto ne sistema i meccanismi rotti ma non puo' crearne pezzi mancanti
 \end{itemize}
 
 
@@ -1248,7 +1246,7 @@ Durata: 1 giorno, contingenza, +6
 
 Cura: 4d6 PF, +16
 
-Tempo di lancio: 10 minuti -6 
+Tempo di lancio: 10 minuti -6
 
 La Benedizione della Fenice e' una contingenza che dura un giorno, se si viene feriti mortalmente (i pf scendono sotto la metà) viene lanciata in automatico una cura da 4d6 (riuscendo in una prova di magia a difficoltà 16, altrimenti curerà di meno)
 
@@ -1368,7 +1366,7 @@ Consultare la \textbf{Tabella Modificatore Distruzione Elementi} per verificare 
 	2                     & Inumana                & Adamantio, Oro\\
 	2.5                   & Ultraterrena           & Acciaio Nanico Runico, Platino, Gemme\\
 	5                     & Divina                 & Artefatti \\
-	
+
 \end{tabular}
 
 \bigskip
@@ -1488,8 +1486,7 @@ Creare una zona di Oscurità equivale ad usare l'Essenza Distruzione sulla Luce.
 \textbf{Verbo}: Illudo\\
 \textbf{Nome}: --\\
 
-l'Essenza Illusione è la \textbf{capacità di creare immagini, suoni,
-	odori, profumi di cose che non esistono}.
+l'Essenza Illusione è la \textbf{capacità di creare immagini, suoni, odori, profumi di cose che non esistono}.
 \begin{itemize}
 	\item
 	Una Illusione non può mai essere usata per ferire direttamente un avversario.
@@ -1503,6 +1500,8 @@ l'Essenza Illusione è la \textbf{capacità di creare immagini, suoni,
 	E' sempre e solo sensoriale (uditiva, visiva, olfattiva), e non influenza mai il tocco.
 	\item
 	In base alla complessità e precisione dell'oggetto diminuire quantità e volumi.
+	\item
+	Non si paga la difficoltà data da Obiettivo.
 \end{itemize}
 
 \bigskip
@@ -1705,9 +1704,9 @@ Se si sposta una Creatura questa ha diritto ad un TS su Tempra ogni round di dur
 	E' possibile usare la Essenza di Movimento per fare cadere una massa su singolo target o più target a seconda della dimensione della massa, vedi indicazione Area. Il danno causato è di 1d6 per cubo base che colpisce l'avversario. Quindi una colonna alta 8 cubi e larga 1 fa 8d6 di danni. Massimo 20d6, Tiro Salvezza su Riflessi per dimezzare. In caso di fallimento critico i danni si raddoppiano, in caso di successo critico i danni si dimezzano ulteriormente.
 	\item
 	Le aree influenzate sono indicative, ricordarsi di distribuire i cubi secondo numero e forma volute.
-	
+
 	\item E' possibile usare l'Essenza di Movimento per tenere bloccata una porta (vuoi spingendo la porta o spostando il chiavistello...)
-	
+
 \end{itemize}
 \bigskip
 
@@ -1870,11 +1869,11 @@ L'Essenza di Trasformazione prende la materia già pronta e concede all'incantat
 	Se si vuole trasformare la materia in un insieme di materia (fango, lava, pane.. si devono considerare le difficolà di ogni singolo elemento che lo compone, acqua e terra, terra e fuoco)
 	\item
 	Se un soggetto è influenzato da una Essenza di Trasformazione viene concesso un Tiro Salvezza su Tempra per annullarne gli effetti.
-	\item	
+	\item
 	La Trasformazione se applicata per ottenere un Elemento/Energia Magico ha una Difficoltà aggiuntiva di +6.
-	\item	
-	La trasformazione di Elementi o Energia e' permanente ed ha Difficoltà come Durata 8      
-	
+	\item
+	La trasformazione di Elementi o Energia e' permanente ed ha Difficoltà come Durata 8
+
 \end{itemize}
 
 
@@ -1886,10 +1885,10 @@ Esempi:
 	\item
 	"Per i riti degli antichi alchimisti ciò che era adesso non è più lui"
 	Esempio pratico:
-	
+
 	Trasformando in acqua un cubo di 3{*}3{*}3 (27 cubi base) di terra si mette in seria difficoltà l'avversario (Tiro salvezza su riflessi concesso per evitare di cadere)
 	\item
-	Si puo' trasformare un pezzo di un lucchetto/serratura per bloccarlo od aprirlo. La prova va confrontata con la resistenza del Elemento che compone il lucchetto.      
+	Si puo' trasformare un pezzo di un lucchetto/serratura per bloccarlo od aprirlo. La prova va confrontata con la resistenza del Elemento che compone il lucchetto.
 \end{itemize}
 
 \bigskip
@@ -1903,7 +1902,7 @@ Esempi:
 	L'Essenza di Trasformazione se effettuata su una creatura senziente costa il livello superiore di potere. Per trasformare in pietra una creatura normale di 4 CR (in caso di PG il Livello è il CR) la prova ha difficoltà 28
 	\item
 	Non si può influenzare o trasformare in una creatura con più di 3 CR superiore alla CM dell'incantatore
-	\item 
+	\item
 	Si puo' trasformare solo una Creatura alla volta. Il costo per l'Obiettivo e' +1
 	\item
 	Se si vuole trasformare in una creatura magica la Difficoltà passa la Livello di Potere superiore (e si somma con il costo della senziente)
@@ -1913,10 +1912,10 @@ Esempi:
 	Al target viene concesso un Tiro Salvezza su Arbitrio per negare gli effetti
 	\item
 	Il target trasformato mantiene le caratteristiche mentali (Intelletto, Volontà) precedenti ma prende quelle fisiche della creatura (Potenza, Agilità, Magnetismo)
-	
+
 	\item
-	La trasformazione di Creature e' permanente ed ha difficoltà come Durata 8.      
-	
+	La trasformazione di Creature e' permanente ed ha difficoltà come Durata 8.
+
 \end{itemize}
 
 \bigskip
@@ -1957,7 +1956,7 @@ Esempi:
 
 \pagebreak
 
-{\scriptsize 
+{\scriptsize
 	\printindex}
 
 \end{document}

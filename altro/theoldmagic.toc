@@ -41,5 +41,4 @@
 \contentsline {subsubsection}{Essenza Protezione}{30}{subsubsection*.39}%
 \contentsline {subsubsection}{Essenza Rivelazione}{31}{subsubsection*.40}%
 \contentsline {subsubsection}{Essenza Trasformazione}{32}{subsubsection*.41}%
-\contentsline {subsubsection}{Esempi di formulazioni Essenze}{34}{subsubsection*.42}%
-\contentsline {chapter}{Indice Analitico}{35}{section*.43}%
+\contentsline {chapter}{Indice Analitico}{34}{section*.42}%
