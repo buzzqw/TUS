@@ -1,3 +1,12 @@
+**14/01/2022**
+
+Sto proseguendo con le attivita' di chiarimento e semplificazione. Ho incominciato riorganizzando le competenze, specialmente quelle di conoscenza e poi mi sono interessato al combattimento.
+Qui ho rimosso il concetto di attacco d'opportunita' lasciandolo solo all'abilita' Opportunista che prevede la possibilita' solo in uscita dall'area di mischia.
+Ho proseguito modificando l'attacco con arma lunga, per quanto appropriato un bonus all'iniziativa diventava troppo complesso da gestire, a questo punto l'ho ridotto ad un bonus al colpire di +2, in questo modo diventa anche meno "scalabile" a livello di build.
+
+E' uscita la 0.31 dopo un accurato lavoro di layout, e' un ottima release, probabile base per le prossime stampe.
+
+
 **22/12/2021**
 
 Ho voluto rilasciare la 0.28, nulla di particolare, ho solo voluto raccogliere le ultime modifiche in una versione prima di fine anno.
