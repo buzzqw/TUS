@@ -70,7 +70,7 @@
 
 **0.31** pubblicata versione 0.30, aggiornata copertina, rimosso attacco di opportunita' e lasciato abilita' opportunista, modificato bonus arma lunga reso piu' facile da gestire con bonus al colpire, aggiunto mettersi in difensiva che concede +2 difesa al costo di 1 azione, grosso lavoro di layout
 
-
+**0.32** pubblicata versione 0.31, aggiornata copertina,
 
 
 -aggiunti \label{} fino a famiglio
