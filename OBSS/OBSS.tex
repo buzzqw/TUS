@@ -9783,7 +9783,7 @@ Se una creatura sta impugnando o indossando l'oggetto e subisce danno da esso, l
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Istantanea\\
-Puoi porre fine a una malattia non magica o condizione che affligge una creatura con cui sei a contatto. La condizione può essere accecato, assordato o paralizzato. Da Esausto può portare ad Affaticato. Si recupera 2d6 Punti Ferita Massimi persi, ma non aumentano i Punti Ferita attuali.
+Puoi porre fine a una malattia non magica o condizione che affligge una creatura con cui sei a contatto. La condizione può essere accecato, assordato o paralizzato. Da Esausto(1) può portare ad Affaticato oppure da Esausto(3) ad Esausto(2). Si recupera 2d6 Punti Ferita Massimi persi, ma non aumentano i Punti Ferita attuali.
 A discrezione del Narratore se la condizione è stata causata da una magia, il valore di Competenza Magica di chi lancia questo incantesimo deve superare la Competenza Magica di chi ha originato l'effetto.
 Eventualmente puoi effettuare una Prova di Magia e per ogni successo critico aggiungi 6 alla propria Competenza Magica per capire se si è in grado di rimuovere l'effetto.\\
 
@@ -9809,7 +9809,7 @@ Fai recuperare 1d2 punti ad una statistica al bersaglio. Recuperi 1 punto se la 
 \item
 I Punti Ferita massimi tornano al valore normale.
 \item
-Sei in grado alleviare da condizioni ulteriori di affaticamento riducendolo di un grado (da 4 a 3, da 3 a 2..)
+Sei in grado alleviare da condizioni ulteriori di affaticamento riducendoli di 2 gradi (da 3 a 1)
 \end{itemize}
 
 \medskip\textbf{Risveglio}\index[Incantesimi]{Risveglio}\\
@@ -43663,7 +43663,7 @@ L'affascinatore ha +1d6 su qualsiasi prova di caratteristica per interagire soci
 
 \textbf{Affaticato}\index{Affaticato}\hypertarget{affaticato}{}: Un personaggio affaticato non può correre o Caricare e subisce una penalità -1 a Costituzione e Destrezza. Se compie qualsiasi cosa normalmente affaticante diventa Esausto.
 
-Ci vogliono 8 ore di riposo totale per rimuovere la condizione di affaticato. Se un personaggio non dorme almeno 6 ore alla mattina è affaticato.
+Ci vogliono 8 ore di riposo totale per rimuovere la condizione di affaticato. Se un personaggio non dorme almeno 6 ore o dorme con un armatura media o pesante alla mattina è affaticato.
 
 \textbf{Afferrato}\index{Afferrato}: Un personaggio afferrato non può muoversi, deve usare due Azioni per liberarsi (TS Tempra contrapposto).
 
@@ -43736,14 +43736,15 @@ Una creatura Esausta se influenzata da effetti di affaticamento ulteriori aument
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{lX}
-\textbf{Condizioni} & \textbf{Livello di Affaticamento}\\
+\begin{tabularx}{0.45\textwidth}{llX}
+\textbf{Condizioni} & \textbf{Penalità}&\textbf{Lv.  Affaticamento}\\
+&Des - Cos&\\
 \hline
-vedi \textbf{Affaticato}&1\\
-vedi \textbf{Esausto}&2*\\
--1d6 ai TC e TS&3*\\
-Punti Ferita Massimi dimezzati&4*\\
-Morte&5\\
+vedi \textbf{Affaticato}&1&\\
+vedi \textbf{Esausto}&2&2*\\
+Esausto(2)- &2&3*\\
+Esausto(3)- &2&4*\\
+Esausto(4)- &Morte&5\\
 \end{tabularx}
 
 Le penalità indicate sono cumulative. Ogni 24 ore di riposo si recupera un livello di Affaticamento segnato con un \textbf{*} .\\

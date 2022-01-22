@@ -68,9 +68,9 @@
 
 **0.30** aggiunta esempio Tups e la trappola, modificato recupero punti ferita massimi, ogni movimento costa una azione di movimento, opzione per gestione danno massivo, minori chiarimenti e correzioni in combattimento, aggiunto incantesimo sonnellino, religione e' sotto conoscenze (int), suonare e' sotto intrannere, rimosso giocoliere, aggiunta resistenza alla magia, aggiornata descrizione questa e' la mia arma, corretta tabella scudi, aggiornata scheda, aggiornato incantesimo capanna, aggiornato incantesimo luce, modificato accesso incantesimi 1 livello, layout, rilettura introduzione e termini comuni, rilettura caratteristiche speciali, controllo caratteristiche, minore miglioria impaginazione a competenze, rimossa natura magica e sostituita con miti e leggende, piccole correzioni di layout ad incantesimi
 
-**0.31** pubblicata versione 0.30, aggiornata copertina, rimosso attacco di opportunita' e lasciato abilita' opportunista, modificato bonus arma lunga reso piu' facile da gestire con bonus al colpire, aggiunto mettersi in difensiva che concede +2 difesa al costo di 1 azione, grosso lavoro di layout, disattivare trappole magiche richiede conoscenza di arcana, 
+**0.31** pubblicata versione 0.30, aggiornata copertina, rimosso attacco di opportunita' e lasciato abilita' opportunista, modificato bonus arma lunga reso piu' facile da gestire con bonus al colpire, aggiunto mettersi in difensiva che concede +2 difesa al costo di 1 azione, grosso lavoro di layout, disattivare trappole magiche richiede conoscenza di arcana,
 
-*0.32* pubblicata versione 0.31, aggiornata copertina, allineato tiro salvezza magia 3d6+livello+caratteristica+1xabilita'+2critico,
+*0.32* pubblicata versione 0.31, aggiornata copertina, allineato tiro salvezza magia 3d6+livello+caratteristica+1xabilita'+2critico, chiarimenti su esausto,
 
 
 -aggiunti \label{} fino a famiglio
