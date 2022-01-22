@@ -70,7 +70,7 @@
 
 **0.31** pubblicata versione 0.30, aggiornata copertina, rimosso attacco di opportunita' e lasciato abilita' opportunista, modificato bonus arma lunga reso piu' facile da gestire con bonus al colpire, aggiunto mettersi in difensiva che concede +2 difesa al costo di 1 azione, grosso lavoro di layout, disattivare trappole magiche richiede conoscenza di arcana,
 
-*0.32* pubblicata versione 0.31, aggiornata copertina, allineato tiro salvezza magia 3d6+livello+caratteristica+1xabilita'+2critico, chiarimenti su esausto,
+*0.32* pubblicata versione 0.31, aggiornata copertina, allineato tiro salvezza magia 3d6+livello+caratteristica+1xabilita'+2critico, chiarimenti su esausto, modificato incantesimo velocita', modificato incantesimo lentezza,
 
 
 -aggiunti \label{} fino a famiglio
