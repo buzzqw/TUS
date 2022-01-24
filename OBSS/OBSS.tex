@@ -2308,7 +2308,7 @@ In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 del
 
 \item \textbf{Arrampicarsi} \index{Arrampicarsi} \textit{Si hanno penalità dovuta all'Armatura.}
 
-\begin{tabular}{ll}
+\begin{tabularx}{0.45\textwidth}{Xl}
 \textbf{Esempio di Superficie} & \textbf{DC}\\
 \toprule
 Parete grezza con appigli, mattoni sporgenti&10\\
@@ -2320,7 +2320,7 @@ Ti puoi appoggiare a 2 pareti opposte&-10\\
 Ti puoi appoggiare a 2 parete angolari&-5\\
 Puoi usare una corda&-10\\
 Superficie scivolosa&+5\\
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -13720,7 +13720,7 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 
 \textbf{Tabella: Lista della Armi}\index{Tabella Lista della Armi}
 
-\begin{tabular}{lllll}
+\begin{tabularx}{0.99\textwidth}{lllXl}
 \textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata, Lista, Speciale} & Peso (kg)\\
 \toprule
 Alabarda& 10 & G/1d10 P/T& \textbf{Lance}, \textbf{Aste}, Controcarica, Arma lunga, ED9 & 4\\
@@ -13762,10 +13762,10 @@ Mazza Leggera& 3& P/1d6 B/T& \textbf{Armi Leggere}, \textbf{Rompi Cranio}, \text
 Mazza Pesante& 5& M/1d8 B/T& \textbf{Rompi Cranio}& 2\\
 Mazza chiodata& 6& M 1d8 B/P&\textbf{Rompi Cranio},\textbf{ Armi Semplici}& 1\\
 Naginata& 8& G/1d10 T&\textbf{Lance}, Arma lunga, ED9& 2\\
-\end{tabular}
+\end{tabularx}
 
 
-\begin{tabular}{lllll}
+\begin{tabularx}{0.99\textwidth}{lllXl}
 \textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata, Lista, Speciale} & Peso (kg)\\
 \toprule
 Picca Leggera& 4& M/1d4 P&\textbf{Armi della morte}& 1\\
@@ -13783,7 +13783,7 @@ Spadone a due mani& 50 & G/2d6 T&\textbf{Spade}& 3\\
 Stocco& 20 & P/1d6 P& \textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile& 1\\
 Tridente& 15 & M/1d6 P/T& 3 metri, \textbf{Aste}, \textbf{Armi da tiro}, Arma Lunga, Controcarica& 2\\
 Urgrosh& 18 & M/1d6 T/P& \textbf{Lance}, \textbf{Armi doppie} & 3\\
-\end{tabular}
+\end{tabularx}
 
 
 \bigskip
@@ -13838,7 +13838,7 @@ Un giavellotto tirato entro 12 metri non ha malus, ma tirato entro 24 metri ha u
 \medskip
 
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/bow2.png}
+\includegraphics[width=0.6\linewidth]{immagini/bow2.png}
 \end{center}
 
 \medskip
@@ -15350,20 +15350,15 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 \medskip
 
-\begin{tabular}{lllll}
+\begin{tabularx}{0.95\textwidth}{llXXX}
 \textbf{d\%} & \textbf{Meteo} & \textbf{Clima Freddo}& \textbf{Clima Temperato {*}}   & \textbf{Deserto}\\
 \toprule
 01-70   & Normale& Freddo, calmo   & Normale per la stagione {*}{*} & Torrido,calmo\\
-71-80   & Anormale    & Ondata di Caldo (01-30)&&   \\
-   &   & Ondata di Freddo (31-100) & Ondata di Caldo (01-50)&\\
-   &   &  & Ondata di Freddo (51-100) & Torrido,ventilato\\
-81-90   & Inclemente  & Precipitazioni (neve)& Precipitazioni&    \\
-   &   &  & (normali per la stagione) & Torrido, ventilato\\
-91-99   & Tempesta    & Tempesta di neve& Tempesta di fulmini &   \\
-   &   &  & tempesta di neve& Tempesta di polvere\\
-100& Tempesta violenta& Tormenta   & Bufera,tormenta  & \\
-   &   &  & uragano,tornado & Acquazzone\\
-\end{tabular}
+71-80   & Anormale    & Ondata di Caldo (01-30) - Ondata di Freddo (31-100)&Ondata di Caldo (01-50) - Ondata di Freddo (51-100)& Torrido,ventilato  \\
+81-90   & Inclemente  & Precipitazioni (neve)& Precipitazioni (normali per la stagione)& Torrido, ventilato   \\
+91-99   & Tempesta    & Tempesta di neve& Tempesta di fulmini - tempesta di neve& Tempesta di polvere  \\
+100& Tempesta violenta& Tormenta   & Bufera, tormenta, uragano, tornado  & Acquazzone\\
+\end{tabularx}
 
 \medskip
 
@@ -17770,10 +17765,10 @@ I veleni fanno parte della lunga tradizione dei problemi ed avversità nei gioch
 
 \medskip
 
-\begin{tabularx}{1\textwidth}{m{4.5cm}lllm{7cm}l} %{XlllXl}
+\begin{tabularx}{1\textwidth}{m{4.5cm}lllm{6.5cm}l} %{XlllXl}
 \toprule
 %\begin{xltabular}{0.99\textwidth}{llllll} %{XlllXl}
-\textbf{Nome Veleno} & \textbf{Uso} & \textbf{TS} & \textbf{Ins.} & \textbf{Effetto (danno)} & \textbf{Costo}\\
+\textbf{Nome Veleno} & \textbf{Uso} & \textbf{TS} & \textbf{Ins.} & \textbf{Effetto (danno)} & \textbf{MO}\\
 \toprule
 Mistura Rossa \index{Mistura Rossa}   & F  & 13    & -  & -1d6 TC/TS per 10 minuti   & 10\\
 \toprule
@@ -19659,7 +19654,7 @@ Quando nel \textit{Bonus Magico} c'e' scritto \textit{ritira + Capacità Special
 
 \textbf{Tabella: Capacità Speciale Armature/Scudi Tipo 1}\index{Tabella Capacità Speciale Armature/Scudi Tipo 1}
 
-\begin{tabular}{ll}
+\begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Capacità Speciale Armature/Scudi Tipo 1}\\
 1-5 & Ariete\\
 6-10 &Bilanciata\\
@@ -19681,13 +19676,13 @@ Quando nel \textit{Bonus Magico} c'e' scritto \textit{ritira + Capacità Special
 86-90& Soffio del Dragone\\
 91-95& Tocco Fantasma\\
 95-100 & Armatura/Scudo Maledetto\\
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
 \textbf{Tabella: Capacità Speciale Armature/Scudi Tipo 2}\index{Tabella Capacità Speciale Armature/Scudi Tipo 2}
 
-\begin{tabular}{ll}
+\begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Capacità Speciale Armature/Scudi Tipo 2}\\
 1-5 &Accecante\\
 6-10 &Adamantio\\
@@ -19708,7 +19703,7 @@ Quando nel \textit{Bonus Magico} c'e' scritto \textit{ritira + Capacità Special
 81-85 &Titanica\\
 86-90 &Vulnerabilità\\
 91-100& Armatura/Scudo Maledetto\\
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -23025,7 +23020,7 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 28-29   & II personaggio ora porta un segno distintivo (un tatuaggio, una strana luminescenza ecc.).\\
 30-32   & II sesso del Personaggio cambia.\\
 33-34   & La razza o la specie del Personaggio cambiano.\\
-35      & II personaggio viene colpito da una Malattia determinata casualmente, che non può essere curata.\\
+35      & II PG viene colpito da una Malattia determinata casualmente, che non può essere curata.\\
 36-39   & L'oggetto emette costantemente suoni sgradevoli (lamenti, maledizioni, insulti...).\\
 40      & L'oggetto ha un aspetto ridicolo (colori sgargianti, forma,brilla di un alone rosa ecc.).\\
 41      & Un unicorno blu, visibile solo con la magia, di dimensioni piccole vola sempre\\
@@ -43574,7 +43569,11 @@ Per aggiungere altri mostri a OBSS vi invito a convertirli da Pathfinder o dalla
 
 \textbf{Conversione da Pathfinder}
 
-Prendiamo ad esempio l'Orco comune da https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orc/ tralasciamo le parti descrittive e concentriamoci sui numeri e valori.
+Prendiamo ad esempio l'Orco comune
+
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orc/
+
+tralasciamo le parti descrittive e concentriamoci sui numeri e valori.
 
 \bigskip
 
@@ -43969,9 +43968,23 @@ Il font \textit{Italico} e \textbf{\textit{Italico Grassetto}} sono presi da \hr
 
 \pagebreak
 
+
+
 \includepdf[pages={1,2},scale=0.95]{OBSS-scheda.pdf}
 
-\pagebreak
+%amazon
+%\begin{tikzpicture}[remember picture,overlay]
+%	\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(1cm,1cm)$) {
+%\includegraphics[scale=0.95]{OBSS-scheda-0.png}
+%	};
+%\end{tikzpicture}
+%\pagebreak
+%\begin{tikzpicture}[remember picture,overlay]
+%	\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(1cm,1cm)$) {
+%	\includegraphics[scale=0.95]{OBSS-scheda-1.png}
+%	};
+%\end{tikzpicture}
+%\pagebreak
 
 
 \section{Le mie Opzioni}\index{Le mie Opzioni}
