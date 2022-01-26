@@ -1,3 +1,8 @@
+**26/01/2022**
+
+Ho dovuto apportare modifiche sostanziali al layout per via della stampa su amazon. Ho dovuto allargare i margini ovvero creare un testo piu' stretto, questo ha chiaramente allungato il documento e spaginato tutto.. ma visto il risparmio di spesa (quando stampato da amazon il pod costa molto meno) direi che ne vale la pena.
+
+
 **14/01/2022**
 
 Sto proseguendo con le attivita' di chiarimento e semplificazione. Ho incominciato riorganizzando le competenze, specialmente quelle di conoscenza e poi mi sono interessato al combattimento.

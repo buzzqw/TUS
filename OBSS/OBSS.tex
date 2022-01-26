@@ -13,7 +13,7 @@
 \usepackage[T1]{fontenc}  %\usepackage[B1,T1]{fontenc}
 \usepackage{setspace}
 \usepackage[a4paper]{geometry}
-\geometry{verbose,tmargin=1.7cm,bmargin=2.3cm,lmargin=1.5cm,rmargin=2cm}  %std
+\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}  %std
 \setcounter{secnumdepth}{-1}
 \usepackage{booktabs}
 \usepackage{url}
@@ -62,42 +62,13 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usetikzlibrary{shapes.misc,calc}
 \definecolor{lightgray}{gray}{0.95}
 
-\fancypagestyle{plain}{%
-	%% Clear all headers and footers
-	\fancyhf{}
-	%% Right headers on odd pages
-	\fancyhead[RO]{%
-		\rotatebox{90}{
-			\begin{tikzpicture}[overlay,remember picture]
-			\node[fill=lightgray,text=black,
-			font=\footnotesize,
-			inner ysep=12pt, inner xsep=20pt,
-			rounded rectangle,anchor=east,minimum width=7cm,
-			xshift=-60mm,yshift=-20mm, text height=0.4cm]
-			at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
-			{\sffamily\itshape\small\nouppercase{\leftmark}};
-			\end{tikzpicture}
-		}
-	}
-	%% Left headers on even pages
-	\fancyhead[LE]{%
-		\rotatebox{90}{
-			\begin{tikzpicture}[overlay,remember picture]
-			\node[fill=lightgray,text=black,
-			font=\footnotesize,
-			inner ysep=12pt, inner xsep=20pt,
-			rounded rectangle,anchor=east,minimum width=7cm,
-			xshift=-60mm,yshift=-0mm, text height=0.4cm]
-			at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
-			{\sffamily\itshape\small\nouppercase{\leftmark}};
-			\end{tikzpicture}
-		}
-	}
-	\renewcommand{\headrulewidth}{0pt}
-	\renewcommand{\footrulewidth}{0pt}
-}
-% ----------------------------------------------------------------
-\pagestyle{plain}
+\usetikzlibrary{shapes.misc,calc}
+\definecolor{lightgray}{gray}{0.95}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
@@ -155,6 +126,7 @@ boxrule=0.3pt
 
 \begin{document}
 
+\fontsize{10}{12}\selectfont
 
 \def \versione {0.32} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(5.5cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(9cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{20cm}(6cm,27.5cm) {\color{red} \calligra\Huge{Adventures Game} \LARGE \textbf{v\versione}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty}
 
@@ -262,9 +234,10 @@ Andres Zanzani
 		"May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
 \end{tcolorbox}\end{changemargin}
 
+\medskip
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.9\textwidth]{immagini/Dragon_by_Henry_Justice_Ford_grey.png}
+\includegraphics[keepaspectratio,width=0.80\textwidth]{immagini/Dragon_by_Henry_Justice_Ford_grey.png}
 
 \textit{The End of the Dragon - Henry Justice Ford}
 \end{center}
@@ -1050,16 +1023,13 @@ Non c'è l'\textbf{Eccezione} del +4 nella Modalità che vorrei.
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{lX}
-\textbf{Totale dei dadi}& \textbf{Valore Caratteristica}\\
+\begin{tabularx}{0.45\textwidth}{lX|lX}
+\textbf{Val. tirato}& \textbf{Caratt.}&\textbf{Val. tirato}& \textbf{Caratt.}\\
 \toprule
-3 (o meno)&-3\\
-4-5&-2\\
-6-7-8&-1\\
-9-10-11-12&+0\\
-13-14-15&+1\\
-16-17&+2\\
-18 (o più)&+3\\
+3 (o meno)&-3&13-14-15&+1\\
+4-5&-2&16-17&+2\\
+6-7-8&-1&18 (o più)&+3\\
+9-10-11-12&+0&&\\
 \end{tabularx}
 
 \subsubsection{Modalita' opzionale (Caratteristiche - per i codardi!)}\index{Caratteristiche - Modalità opzionale per i codardi}\label{modalitapericodardi}
@@ -1074,7 +1044,7 @@ L'aumento di Caratteristica ha effetto retroattivo solo per gli aumenti di Costi
 
 
 \begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/guerrieroispirato.png}
+\includegraphics[width=0.45\linewidth]{immagini/guerrieroispirato.png}
 \end{center}
 
 \end{multicols}
@@ -2008,7 +1978,7 @@ Non creare personaggio che siano contro gli altri personaggi o diano sempre fast
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/threasure2.png}
+	\includegraphics[width=0.8\linewidth]{immagini/threasure2.png}
 \end{center}
 
 \pagebreak
@@ -2133,7 +2103,7 @@ In questi casi il personaggio ed il Narratore effettuano una prova, chi ottiene 
 - Braccio di ferro: prova contrapposta Tiro Salvezza Tempra (con modificatore forza)
 
 \begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/Foster_Bible_Pictures.png}
+\includegraphics[width=0.5\linewidth]{immagini/Foster_Bible_Pictures.png}
 
 \textit{Bible Pictures and What They Teach Us. Prova Consapevolezza, Muoversi Silenziosamente}
 \end{center}
@@ -2186,7 +2156,7 @@ Svantaggio molto forte        & -2d6            & -8\\
 \end{tabular}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-La matematica nella distribuzione 3d6 è diversa da quella del d20. I vantaggi e svantaggi pesano molto di più, fanno molta più riuscita. Cercate di rimanere sempre nell'ambito di +-2 e solo in situazioni particolari di effettivo e forte vantaggio o svantaggio applicate bonus o malus maggiori.
+I bonus e malus nel tiro di 3d6 fanno più \textit{riuscita} che nella prova fatta con il d20.  Cercate di rimanere sempre nell'ambito di +-2 e solo in situazioni particolari di effettivo e forte vantaggio o svantaggio applicate bonus o malus maggiori.
 \end{narratore}\end{changemargin}
 
 \subsubsection{Fattore tempo}\index{Fattore tempo}\label{fattoretempo}
@@ -2283,13 +2253,13 @@ La DC delle prova è pari al grado di Sfida della creatura + 10, un fallimento n
 Il personaggio usa 2 Azioni e contrappone la prova al Tiro Salvezza su Volontà con bonus dato dal Carisma dell'avversario.
 Se il Tiro Salvezza fallisce, l'avversario fino all'inizio del round successivo ha -2 al Tiro per Colpire e -2 alla Difesa contro colui che l'ha intimidito.
 
-Se chi resiste alla prova di Intimidire riesce in maniera critica, ovvero di 10 o più è chi ha fatto la prova deve effettuare un Tiro Salvezza su Volontà con modificatore Carisma a DC 10+Grado di Sfida dell'avversario (o Livello) o subire le medesime penalità come se fosse stato intimidito.
+Se chi resiste alla prova di Intimidire riesce in maniera critica, ovvero di 10 o più è chi ha fatto la prova ad effettuare un Tiro Salvezza su Volontà con modificatore Carisma a DC 10+Grado di Sfida dell'avversario (o Livello) o subire le medesime penalità come se fosse stato intimidito.
 Se il tiro contrapposto riesce in maniera critica (l'avversario fallisce di più di 10 il Tiro Salvezza) la durata dell'effetto permane fino a fine combattimento.
 
 \item
 Un eventuale prova sulla \textbf{Professione} viene fatta con 3d6+Saggezza+metà del livello.
 
-\item \textbf{Saltare}\index{Tabella Saltare} \textit{Si hanno penalità dovuta all'Armatura.}
+\item \textbf{Saltare}\index{Tabella Saltare} \textit{Penalità dovuta all'Armatura.}
 
 
 \begin{tabular}{lc|lc}
@@ -2306,7 +2276,7 @@ Un eventuale prova sulla \textbf{Professione} viene fatta con 3d6+Saggezza+metà
 Se non si ha almeno 3 metri di rincorsa si salta la metà.
 In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 della lunghezza saltata. Se esegui un salto in lungo di 4 metri a metà salto sei in alto di 1 metro.
 
-\item \textbf{Arrampicarsi} \index{Arrampicarsi} \textit{Si hanno penalità dovuta all'Armatura.}
+\item \textbf{Arrampicarsi} \index{Arrampicarsi} \textit{Penalità dovuta all'Armatura.}
 
 \begin{tabularx}{0.45\textwidth}{Xl}
 \textbf{Esempio di Superficie} & \textbf{DC}\\
@@ -2315,7 +2285,7 @@ Parete grezza con appigli, mattoni sporgenti&10\\
 Un albero, una corda senza nodi&15\\
 Una parete liscia con appigli &20\\
 Un muro con pochissimi appigli&25\\
-Una parete naturale non liscia senza appigli&30\\
+Una parete naturale liscia senza appigli&30\\
 Ti puoi appoggiare a 2 pareti opposte&-10\\
 Ti puoi appoggiare a 2 parete angolari&-5\\
 Puoi usare una corda&-10\\
@@ -2347,15 +2317,12 @@ Sopravvivenza può essere usata al posto di Disattivare Congegni con un -2d6 per
 
 \medskip
 
-\item \textbf{Nascondersi} \index{Nascondersi} \textit{Si hanno penalità dovuta all'Armatura.}
+\item \textbf{Nascondersi} \index{Nascondersi} \textit{Penalità dovuta all'Armatura.}
 
-Tutti possono nascondersi dietro un muretto, ma solo chi ha la competenza ha la certezza che difficilmente sarà notato.
-La prova va richiesta quando nascondersi non è immediato, facile o veloce; solo chi ha esperienza, e la competenza, sa come e dove nascondersi in situazioni critiche.
-Alla prova di Nascondersi si oppone la prova di Consapevolezza.
+Tutti possono nascondersi dietro un muretto, ma solo chi ha la competenza ha la certezza che difficilmente sarà notato. Alla prova di Nascondersi si oppone la prova di Consapevolezza.
+Si può essere visti con una prova di Consapevolezza a DC 13 se non si usa la competenza Nascondersi.
 
-Usando 2 Azioni (e probabilmente una altra Azione per spostarti) puoi cercare di nasconderti alla vista degli avversari. Esegui una prova di Nascondersi, DC 15 (ed il Narratore valuterà eventuali modifiche circostanziali), se ci riesci ottieni una Copertura media.
-
-La copertura può essere riferita a più avversari o solo qualcuno, il Narratore può valutare in caso di critici nella prova una copertura anche maggiore. Non è possibile nascondersi se l'ambiente non lo permette, per quando la tua prova possa essere alta non puoi nasconderti se non c'è qualcosa che ti può coprire.
+Usando 2 Azioni (e probabilmente una altra Azione per spostarti) puoi cercare di nasconderti alla vista degli avversari. Non è possibile nascondersi se l'ambiente non lo permette, per quando la tua prova possa essere alta non puoi nasconderti se non c'è qualcosa che ti può nascondere.
 
 \item \textbf{Muoversi Silenziosamente} \index{Muoversi Silenziosamente} \textit{Si hanno penalità dovuta all'Armatura.}
 
@@ -5135,7 +5102,7 @@ Quando usi questa Abilità puoi dichiarare di usare la Tempesta di Furia come tu
 Fai un unico Tiro per Colpire a -4 e se vai a segno colpisci a mani nude un numero di volte l'avversario pari a Competenza Armi/4.
 
 \begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/kenilguerriero.png}
+\includegraphics[width=0.5\linewidth]{immagini/kenilguerriero.png}
 \end{center}
 
 \subsection*{Tiro preciso}\index{Tiro preciso}\label{tiropreciso}
@@ -5575,7 +5542,7 @@ Vantaggi e Svantaggi: selezionare ciò che si preferisce (immunità alle malatti
 6	&1d4	&4/2	&-\\
 7	&1d4+3	&5/2	&Incanalare energia\\
 8	&1d4+3	&6/2	&-\\
-9	&1d4	&6/3	&Incanalare energia a distanza\\
+9	&1d4	&6/3	&Incanalare en. a distanza\\
 10	&1d4+3	&7/3	&-\\
 11	&1d4+3	&8/3	&Tocco pietoso\\
 12	&1d4	&8/4	&-\\
@@ -11783,7 +11750,7 @@ Da un grande Vantaggio deriva un grosso Svantaggio ! (cit. "Da un grande potere 
 \textbf{Artigli}\index{Artigli} 5: ogni tanto ricordati di spuntare gli unghiotti. 1d4 di danno per attacco. Gli attacchi naturali con la seconda mano prendono il bonus al danno dato da Forza.
 
 \begin{center}
-\includegraphics[width=0.4\linewidth]{immagini/claw.png}
+\includegraphics[width=0.3\linewidth]{immagini/claw.png}
 \end{center}
 
 
@@ -11856,7 +11823,7 @@ Recuperi i Punti Ferita come se avessi il doppio del punteggio di Costituzione.
 \textbf{La mia ombra è mia amica} \index{La mia ombra è mia amica}10: Riesci a posizionare la tua ombra dove vuoi entro 3 metri. La tua ombra può manipolare gli oggetti come fosse un servitore invisibile. Si considera tu possa lanciare Incantesimi a tocco tramite la tua ombra (che deve essere presente) entro 3 metri.
 
 \begin{center}
-\includegraphics[width=0.4\linewidth]{immagini/shadow.png}
+\includegraphics[width=0.35\linewidth]{immagini/shadow.png}
 \end{center}
 
 \textbf{Legami di furia} 15\index{Legami di furia} : Puoi evocare lacci eterei che minacciano i tuoi nemici. Per 3 volte al giorno con il costo di 1 Azione tutti gli avversari in raggio entro 9 metri attorno a te sono intralciati per un round. Tiro Salvezza vs Riflessi DC 10 + 1/2 LV + Carisma) per liberarsi.
@@ -12580,15 +12547,11 @@ Sciofobia           & Paura Delle Ombre\\
 
 \begin{multicols}{2}
 
-Queste abilità rappresentano l'apice di un personaggio, non inteso come le abilità capstone del 20esimo livello, ma come abilità legate al modo di ruolare, al tipo di personaggio che si e' andato a creare e crescere.
-
-Queste abilità andrebbero date solo a personaggi che sono stati portati dal primo ad almeno il 12esimo livello, è un riconoscimento al giocatore.
+Queste abilità rappresentano l'apice di un personaggio, non inteso come le abilità capstone del 20esimo livello, ma come abilità legate al modo di ruolare, al tipo di personaggio che si e' andato a creare e crescere. Queste abilità andrebbero date solo a personaggi che sono stati portati dal primo ad almeno il 12esimo livello, è un riconoscimento al giocatore.
 
 Sono abilità opzionali perché forti, peculiari, uniche e "rotte". Il Narratore dovrebbe darle alla fine di una lunga ed unica campagna quando i personaggio ormai sono leggenda.
 
-Ogni personaggio può’ avere una sola abilità epica, da prendere non prima del 12 lv.
-Queste capacità’ contraddistinguono gli eroi, capaci di azioni al limite e oltre l’umano.
-I giocatori sono invitati a creare nuove Abilità Iconiche in base allo sviluppo del personaggio.
+Ogni personaggio può’ avere una sola abilità iconica, una capacità’ che contraddistingue gli eroi, capaci di azioni al limite e oltre l’umano. I giocatori sono invitati a creare nuove Abilità Iconiche in base allo sviluppo del personaggio.
 
 \subsection{Una Luce contro le tenebre}\index{Una Luce contro le tenebre}
 
@@ -12628,8 +12591,7 @@ Applichi il bonus dato da Intelligenza o Saggezza alle prove che userebbero le c
 \textbf{Requisiti: non temere al morte, non essere avventato}
 
 Sei la cosa più’ simile alla morte che i tuoi nemici vedranno mai.
-Quando uccidi un nemico tutti gli avversari (che possono aver
-visto la scena) in 10m di raggio devono fare un TS Volontà DC 10+Competenza Armi + Carisma od essere influenzati come dall'incatesimo Paura. L'abilità e' usabile 3 volte al giorno.
+Quando uccidi un nemico tutti gli avversari (che possono aver visto la scena) in 10m di raggio devono fare un TS Volontà DC 10+Competenza Armi + Carisma od essere influenzati come dall'incatesimo Paura. L'abilità e' usabile 3 volte al giorno.
 
 \subsection{La Furia Magica}\index{La Furia Magica}
 
@@ -12660,7 +12622,7 @@ Una volta al giorno quando i tuoi Punti Ferita scendono sotto 1, con una Reazion
 
 \textbf{Requisiti: una vita dedicata a cacciare ed inseguire}
 
-Le tue prove di Sopravvivenza per seguire traccie hanno un +10 di bonus. Il primo colpo che va a segno contro un avversario che seguivi da almeno 6 round ottiene automaticamente 3 critici.
+Le tue prove di Sopravvivenza per seguire traccie hanno un +10 di bonus. Il primo colpo che va a segno contro un avversario che controllavi da almeno 6 round ottiene automaticamente 3 critici.
 
 \end{multicols}
 
@@ -13565,8 +13527,10 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 \subsubsection{Tabella collegamento Patrono - Tratto}\index{Tabella collegamento Patrono - Tratto}\hypertarget{tabellacollegamentopatronotratto}{}\label{tabellacollegamentopatronotratto}
 
 \medskip
+{\small
 %\begin{xltabular}{1\textwidth}{lllllll}
 \begin{tabular}{lllllll}
+
 \textbf{Patrono} & \textbf{Tratto} & \textbf{Tratto} & \textbf{Tratto} & \textbf{Tratto} & \textbf{Tratto}& \textbf{Tratto}\\
 \toprule
 \textbf{Ljust}& Coraggioso& Generoso& Empatico& Protettivo& Istintivo& Anticonformista\\
@@ -13595,8 +13559,9 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 \textbf{Tazher}& Scontroso& Calcolatore& Perfezionista& Cattivo& Insensibile& Burbero\\
 \textbf{Thaft}& Semplice& Silenzioso& Mite& Sicuro& Disciplinato& Ottimista\\
 \textbf{Torbiorn}& Altezzoso& Ansioso& Vanitoso& Permaloso& Cauto& Irascibile\\
-\end{tabular}
 
+\end{tabular}
+}
 
 \bigskip
 
@@ -13720,6 +13685,7 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 
 \textbf{Tabella: Lista della Armi}\index{Tabella Lista della Armi}
 
+%\begin{tabularx}{lllll}
 \begin{tabularx}{0.99\textwidth}{lllXl}
 \textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata, Lista, Speciale} & Peso (kg)\\
 \toprule
@@ -13760,14 +13726,14 @@ Manganello& 1& P/1d6 B& \textbf{Armi da stordimento}, non letale& 0.5\\
 Martello da guerra& 5& M/1d8 B/P& 6 metri, \textbf{Rompi Cranio}& 1.5\\
 Mazza Leggera& 3& P/1d6 B/T& \textbf{Armi Leggere}, \textbf{Rompi Cranio}, \textbf{Armi Semplici}&1\\
 Mazza Pesante& 5& M/1d8 B/T& \textbf{Rompi Cranio}& 2\\
-Mazza chiodata& 6& M 1d8 B/P&\textbf{Rompi Cranio},\textbf{ Armi Semplici}& 1\\
-Naginata& 8& G/1d10 T&\textbf{Lance}, Arma lunga, ED9& 2\\
 \end{tabularx}
 
 
 \begin{tabularx}{0.99\textwidth}{lllXl}
 \textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata, Lista, Speciale} & Peso (kg)\\
 \toprule
+Mazza chiodata& 6& M 1d8 B/P&\textbf{Rompi Cranio},\textbf{ Armi Semplici}& 1\\
+Naginata& 8& G/1d10 T&\textbf{Lance}, Arma lunga, ED9& 2\\
 Picca Leggera& 4& M/1d4 P&\textbf{Armi della morte}& 1\\
 Picca Pesante& 8& G/1d6 P&\textbf{Armi della morte}, Arma lunga& 3\\
 Pugnale& 2& P/1d4 P& 6 metri, \textbf{Armi leggere}, \textbf{Armi da tiro}, \textbf{Armi Semplici}& 0.5\\
@@ -13838,7 +13804,7 @@ Un giavellotto tirato entro 12 metri non ha malus, ma tirato entro 24 metri ha u
 \medskip
 
 \begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/bow2.png}
+\includegraphics[width=0.7\linewidth]{immagini/bow2.png}
 \end{center}
 
 \medskip
@@ -13894,10 +13860,10 @@ In questo caso essendo i malus superiori ai 3d6 il personaggio non tira dadi ma 
 
 \end{multicols}
 
-\addvspace{4cm}
+\addvspace{2.5cm}
 
 \begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/armiriempitivo3.png}
+\includegraphics[width=0.7\linewidth]{immagini/armiriempitivo3.png}
 \end{center}
 
 
@@ -14486,15 +14452,15 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 \begin{tabular}{lllll}
 \toprule
 \textbf{Cavalcatura}&\textbf{Costo}&\textbf{Mov.}&\textbf{Carico}&Km/h\\
-&(\textbf{mo})&&&\\
-Asino o Mulo&8&12 m&210 kg&6km\\
-Cammello&50&15 m&240 kg&8km\\
-Cavallo da Galoppo&75&18 m&240 kg&12km\\
-Cavallo da Guerra&400&18 m&270 kg&9km\\
-Cavallo da Tiro&50&12 m&270 kg&6km\\
-Elefante&200&12 m&660 kg&6km\\
-Mastino&25&12 m&97,5 kg&6km\\
-Pony&30&12 m&112,5 kg&6km\\
+&(\textbf{mo})&&kg&\\
+Asino o Mulo&8&12 m&210&6km\\
+Cammello&50&15 m&240&8km\\
+Cavallo da Galoppo&75&18 m&240&12km\\
+Cavallo da Guerra&400&18 m&270&9km\\
+Cavallo da Tiro&50&12 m&270&6km\\
+Elefante&200&12 m&660&6km\\
+Mastino&25&12 m&97,5&6km\\
+Pony&30&12 m&112,5&6km\\
 \end{tabular}
 
 \bigskip
@@ -14589,7 +14555,7 @@ Aristocratico&Minimo di 10 mo\\
 \textbf{Modesto}. Uno stile di vita modesto tiene un personaggio fuori dai bassifondi e gli consente di prendersi cura del suo equipaggiamento. Il personaggio vive in una parte vecchia della città, ha una camera in affitto in una pensione, una locanda o un tempio. Non patisce la fame o la sete e vive in un ambiente pulito, anche se spartano. Gli individui comuni che conducono uno stile di vita modesto includono soldati con una famiglia, manovali, studenti, sacerdoti, incantatori dilettanti e così via.
 
 \begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/mercante.png}
+\includegraphics[width=0.8\linewidth]{immagini/mercante.png}
 \end{center}
 
 
@@ -14599,7 +14565,7 @@ Aristocratico&Minimo di 10 mo\\
 
 
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/lucullo.png}
+\includegraphics[width=0.6\linewidth]{immagini/lucullo.png}
 
 \textit{Lucio Licinio Lucullo. Roma, 117 aC, Napoli 56 aC). Militare e politico romano}
 \end{center}
@@ -14647,11 +14613,6 @@ Buono (bottiglia)&10 mo\\
 Comune (caraffa)&2 ma\\
 \end{tabular}
 
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/riempitivocavalieriapranzo.png}
-\end{center}
-
-
 \subsubsection{Servizi}
 
 
@@ -14689,6 +14650,9 @@ Se l’incantesimo a ha conseguenze pericolose, l’incantatore deve ricevere de
 
 Non tutti i villaggi e i paesi hanno un incantatore abbastanza capace a manipolare la magia. Come regola generale, è necessario spostarsi almeno in un piccolo paese per essere abbastanza sicuri di trovare un incantatore. In un piccolo paese si potrebbe trovare un incantatore in grado di lanciare incantesimi a livello 2, in un grande paese quelli a livello 3, una piccola città per quelli a livello 5, in una grande città per quelli di livello 6, in una metropoli per quelli di livello 8. Nemmeno in una metropoli si è certi di trovare un incantatore capaci di lanciare magie con livello 9 o piu’.
 
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/riempitivocavalieriapranzo.png}
+\end{center}
 
 \subsubsection{Lo Zaino Standard\texorpdfstring{\huge{\textregistered}}{\textregistered}} \index{Zaino Standard}
 
@@ -14699,10 +14663,10 @@ Questo il contenuto dello zaino dell'avventuriero: cintura, 3 candele, 6 torce, 
 
 \end{multicols}
 
-\bigskip
+\medskip
 
 \begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/carrozza.png}
+\includegraphics[width=0.45\linewidth]{immagini/carrozza.png}
 \end{center}
 
 
@@ -15351,13 +15315,13 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 \medskip
 
 \begin{tabularx}{0.95\textwidth}{llXXX}
-\textbf{d\%} & \textbf{Meteo} & \textbf{Clima Freddo}& \textbf{Clima Temperato {*}}   & \textbf{Deserto}\\
-\toprule
-01-70   & Normale& Freddo, calmo   & Normale per la stagione {*}{*} & Torrido,calmo\\
-71-80   & Anormale    & Ondata di Caldo (01-30) - Ondata di Freddo (31-100)&Ondata di Caldo (01-50) - Ondata di Freddo (51-100)& Torrido,ventilato  \\
-81-90   & Inclemente  & Precipitazioni (neve)& Precipitazioni (normali per la stagione)& Torrido, ventilato   \\
-91-99   & Tempesta    & Tempesta di neve& Tempesta di fulmini - tempesta di neve& Tempesta di polvere  \\
-100& Tempesta violenta& Tormenta   & Bufera, tormenta, uragano, tornado  & Acquazzone\\
+	\textbf{d\%} & \textbf{Meteo} & \textbf{Clima Freddo}& \textbf{Clima Temperato {*}}   & \textbf{Deserto}\\
+	\toprule
+	01-70   & Normale& Freddo, calmo   & Normale per la stagione {*}{*} & Torrido,calmo\\
+	71-80   & Anormale    & Ondata di Caldo (01-30) - Ondata di Freddo (31-100)&Ondata di Caldo (01-50) - Ondata di Freddo (51-100)& Torrido,ventilato  \\
+	81-90   & Inclemente  & Precipitazioni (neve)& Precipitazioni (normali per la stagione)& Torrido, ventilato   \\
+	91-99   & Tempesta    & Tempesta di neve& Tempesta di fulmini - tempesta di neve& Tempesta di polvere  \\
+	100& Tempesta violenta& Tormenta   & Bufera, tormenta, uragano, tornado  & Acquazzone\\
 \end{tabularx}
 
 \medskip
@@ -15676,7 +15640,7 @@ Un equipaggio che eccede il numero minimo non influenza il movimento, ma i suoi 
 \medskip
 
 \begin{tabular}{lllllllll}
-\textbf{Tipo}  & \textbf{Difesa} & \textbf{PF} & \textbf{TS base} & \textbf{Vel. (m/s)} & \textbf{Arma} & \textbf{Speronamento} & \textbf{Quad}. & \textbf{Equipaggio}\\
+\textbf{Tipo}  & \textbf{Difesa} & \textbf{PF} & \textbf{TS base} & \textbf{Vel. (m/s)} & \textbf{Arma} & \textbf{Sperona} & \textbf{Quad}. & \textbf{Equipaggio}\\
 \toprule
 Zattera   & 9     & 10& +0& 4.5  & 0   & 1d6    & 1    & 1/4\\
 Barca a Remi   & 9& 20& +2& 9    & 0   & 2d6+6  & 1    & 1/3\\
@@ -16296,7 +16260,7 @@ Molte porte segrete richiedono un metodo speciale per essere aperte, come un bot
 Un costruttore potrebbe piazzare una porta segreta molto bassa vicino al pavimento oppure molto in alto su un muro, in modo da rendere più difficile sia il rinvenimento che l'utilizzo della porta.
 
 \begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/arcoserpenti.png}
+\includegraphics[width=0.6\linewidth]{immagini/arcoserpenti.png}
 
 \textit{Henry Justice Ford}
 \end{center}
@@ -17342,25 +17306,6 @@ Ripristino: nessuno
 Effetto: +9 contatto a distanza 18 metri, 30d6 danni, TS: Tempra DC 19 riduce a 5d6 danni
 
 
-\textbf{Ferimento}
-
-grado di Sfida: 14
-
-Tipo: magico
-
-DC Sopravvivenza: 31
-
-DC Disattivare Congegni: 31
-
-Attivatore: contatto
-
-Ripristino: nessuno
-
-Effetto: Sanguinamento 5, attacco di contatto in mischia +6
-
-TS: Tempra DC 19 annulla
-
-
 \textbf{Galleria di Fulmini}
 
 grado di Sfida: 17
@@ -17446,7 +17391,9 @@ TS: Tempra DC 23 riduce a 5d12 danni altrimenti 10d12
 
 \end{multicols}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups e la trappola]
+\medskip
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups e la trappola]{\small
 In questo esempio vi porto l'approccio vecchia scuola quando si presumevano nelle trappole.
 Nulla vieta al Narratore di permettere prove di Sopravvivenza o Disattivare Congegni. Posso solo dire che questo approccio è pero' più coinvolgente.
 
@@ -17478,7 +17425,7 @@ Prosegui nel corridoio?
 
 \textit{Tups}: ci incastro il piede di porco cosi' che' il meccanismo non faccia aprire la botola [\textit{Tups non chiede di tirare un dado per capire come disarmarla o disarmarla direttamente, spiega al Narratore come lo fa e basta}]
 
-\textit{Narratore}: attraversi la zona adesso in sicurezza e vedi che si apre su una piccola stanza con due porte di legno rinforzato...
+\textit{Narratore}: attraversi la zona adesso in sicurezza e vedi che si apre su una piccola stanza con due porte di legno rinforzato... }
 
 \medskip
 
@@ -17519,7 +17466,7 @@ La Fama aumenta e diminuisce in base alle proprie azioni. La Fama attuale determ
 \medskip
 
 \begin{tabularx}{0.95\textwidth}{lX}
-\textbf{Eventi}&\textbf{Modificatore di Fama}\\
+\textbf{Eventi}&\textbf{Mod. Fama}\\
 \toprule
 \textbf{Eventi Positivi}&\\
 Acquisire un tesoro notevole da un degno avversario&+1\\
@@ -17535,7 +17482,7 @@ Saccheggiare la roccaforte di un nobile potente(nemico)&+1\\
 Sconfiggere in singolar tenzone un nemico con un GS più alto del proprio livello&+15\\
 Come gruppo vincere un incontro di combattimento con un APL +3 più&+1\\
 Sconfiggere in combattimento un diffamatore pubblico&+2\\
-Superare una prova di Professione con DC 30 o più per creare un'opera d'arte o un oggetto &+2\\
+Superare una prova di Professione con DC 30 o più per creare un'opera od un oggetto &+2\\
 Superare una prova pubblica di Intimidire con DC 30 o più (devono esserci testimoni)&+2\\
 Superare una prova pubblica di Intrattenere con DC 30 o più (devono esserci testimoni)&+2\\
 Completare un'avventura con una difficoltà adeguato al proprio livello&+3\\
@@ -17697,7 +17644,7 @@ L'effetto di un veleno/pozione è immediato dopo l'insorgenza. Verificare la des
 Ci sono alcuni casi in cui è presente la voce Frequenza, in questi rare occasioni il Tiro Salvezza va ripetuto ogni volta che passa la Frequenza indicata, in caso di fallimento del Tiro Salvezza i danni indicati vengono riapplicati.
 
 \begin{center}
-\includegraphics[height=0.5\linewidth]{immagini/potion.png}
+\includegraphics[height=0.7\linewidth]{immagini/potion.png}
 \end{center}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
@@ -17744,7 +17691,7 @@ Ottenendo un 3 o 4 naturale con la prova di Erboristeria ci si espone al veleno 
 Gli esempi seguenti rappresentano solo alcuni dei possibili veleni. Tutti i costi sono espressi in Monete d'Oro.
 
 \begin{center}
-\includegraphics[height=0.4\linewidth]{immagini/poison.png}
+\includegraphics[height=0.6\linewidth]{immagini/poison.png}
 \end{center}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
@@ -19062,7 +19009,7 @@ Per creare un anello magico, un personaggio ha bisogno di una fonte di calore. H
 Il costo di produzione dell'anello è pari a livello*livello*4000, un Anello con Invisibilità costa 2*2*4000=16000 mo
 
 \begin{center}
-\includegraphics[width=0.3\linewidth]{immagini/onering2.png}
+\includegraphics[width=0.5\linewidth]{immagini/onering2.png}
 
 \textit{Non c'è bisogno di dire che Anello sia...}
 \end{center}
@@ -21223,7 +21170,7 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 \end{multicols}
 
 \begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/bacchette.png}
+	\includegraphics[width=0.3\linewidth]{immagini/bacchette.png}
 
 \end{center}
 
@@ -22131,8 +22078,10 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 
 \end{multicols}
 
+\vspace{3cm}
+
 \begin{center}
-	\includegraphics[width=0.3\linewidth]{immagini/borsetta.png}
+	\includegraphics[width=0.6\linewidth]{immagini/borsetta.png}
 
 	\textit{Borsetta conservante, modello classico, Tipo II}
 \end{center}
@@ -43569,7 +43518,7 @@ Per aggiungere altri mostri a OBSS vi invito a convertirli da Pathfinder o dalla
 
 \textbf{Conversione da Pathfinder}
 
-Prendiamo ad esempio l'Orco comune
+Prendiamo ad esempio l'Orco comune da
 
 https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orc/
 
@@ -43968,23 +43917,25 @@ Il font \textit{Italico} e \textbf{\textit{Italico Grassetto}} sono presi da \hr
 
 \pagebreak
 
+%\includepdf[pages={1,2},scale=0.95]{OBSS-scheda.pdf}
+
+\begin{tikzpicture}[remember picture,overlay]
+	\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(1cm,1cm)$) {
+		\includegraphics[scale=0.95]{OBSS-scheda-0.png}
+	};
+\end{tikzpicture}
 
 
-\includepdf[pages={1,2},scale=0.95]{OBSS-scheda.pdf}
+\pagebreak
 
-%amazon
-%\begin{tikzpicture}[remember picture,overlay]
-%	\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(1cm,1cm)$) {
-%\includegraphics[scale=0.95]{OBSS-scheda-0.png}
-%	};
-%\end{tikzpicture}
-%\pagebreak
-%\begin{tikzpicture}[remember picture,overlay]
-%	\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(1cm,1cm)$) {
-%	\includegraphics[scale=0.95]{OBSS-scheda-1.png}
-%	};
-%\end{tikzpicture}
-%\pagebreak
+\begin{tikzpicture}[remember picture,overlay]
+	\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(1cm,1cm)$) {
+		\includegraphics[scale=0.95]{OBSS-scheda-1.png}
+	};
+\end{tikzpicture}
+
+
+\pagebreak
 
 
 \section{Le mie Opzioni}\index{Le mie Opzioni}
