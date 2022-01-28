@@ -1,3 +1,11 @@
+**28/01/2022**
+
+Sono diversi giorni che mi ritrovo ad aprire il manuale di OBSS e praticamente non fare nulla di che.
+Ho arricchito la tabella dei punti esperienza, prendendo ispirazione dalla stessa che usavo quando masterizzavo la 2e. Altri tempi..altri stili.
+
+Sta di fatto che finche' non parte un round di test fatto da piu' gruppi difficilmente mettero' mano significativamente al sistema. Sono soddisfatto.
+
+
 **26/01/2022**
 
 Ho dovuto apportare modifiche sostanziali al layout per via della stampa su amazon. Ho dovuto allargare i margini ovvero creare un testo piu' stretto, questo ha chiaramente allungato il documento e spaginato tutto.. ma visto il risparmio di spesa (quando stampato da amazon il pod costa molto meno) direi che ne vale la pena.
