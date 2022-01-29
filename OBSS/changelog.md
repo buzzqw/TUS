@@ -76,7 +76,7 @@
 
 **0.32** aggiunte ulteriori indicazioni per punti esperienza premio
 
-*0.33* pubblicata versione 0.32, aggiornata copertina, 
+*0.33* pubblicata versione 0.32, aggiornata copertina, corretto danno mostro ombra,
 
 
 
