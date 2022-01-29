@@ -76,7 +76,7 @@
 
 **0.32** aggiunte ulteriori indicazioni per punti esperienza premio
 
-*0.33* pubblicata versione 0.32, aggiornata copertina, corretto danno mostro ombra,
+*0.33* pubblicata versione 0.32, aggiornata copertina, corretto danno mostro ombra, modificato combattimento a due mani semplificandolo, aggiornamenti layout, 
 
 
 
