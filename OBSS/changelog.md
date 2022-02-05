@@ -78,9 +78,9 @@
 
 *0.33* pubblicata versione 0.32, aggiornata copertina, corretto danno mostro ombra, modificato combattimento a due mani semplificandolo, aggiornamenti layout, modificato livello di accesso magia riducendo le volte necessarie di adepto della magia, aggiornati esempi di personaggi per stile, aggiornato screen
 
-30/01/2022 aggiornata versione POD 0.32, modificato effetto critico per disarmare finta fare cadere avversario,
+30/01/2022 aggiornata versione POD 0.32
 
-0.33 modificato tiro salvezza per il ferpillon,
+0.33 modificato tiro salvezza per il ferpillon, modificato effetto critico per disarmare finta fare cadere avversario,
 
 
 
