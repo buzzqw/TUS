@@ -82,6 +82,6 @@
 
 0.33 modificato tiro salvezza per il ferpillon, modificato effetto critico per disarmare finta fare cadere avversario,
 
-
+07/02/2022 aggiornata versione POD 0.33
 
 -aggiunti \label{} fino a famiglio
