@@ -72,7 +72,7 @@
 
 **0.32** pubblicata versione 0.31, aggiornata copertina, allineato tiro salvezza magia 3d6+livello+caratteristica+1xabilita'+2critico, chiarimenti su esausto, modificato incantesimo velocita', modificato incantesimo lentezza, aggiornamenti layout, ulteriori aggiornamenti per rendere compatibile con amazon pod
 
-26/01/2022 STAMPA
+26/01/2022 STAMPA AMAZON
 
 **0.32** aggiunte ulteriori indicazioni per punti esperienza premio
 
