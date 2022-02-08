@@ -67,6 +67,10 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\leftmark}
+\fancyhead[RE,LO]{}
+
 
 
 \fancyfoot[C]{\thepage}
@@ -3434,10 +3438,10 @@ Se la cavalcatura è intelligente avere un cavaliere non restringe le azioni che
 
 %\vspace{2cm}
 
-\vspace{1cm}
+\vspace{2cm}
 
 \begin{center}
-	\includegraphics[width=0.60\linewidth]{immagini/fauchard.png}
+	\includegraphics[width=0.70\linewidth]{immagini/fauchard.png}
 \end{center}
 
 
@@ -43924,7 +43928,7 @@ Il font \textit{Italico} e \textbf{\textit{Italico Grassetto}} sono presi da \hr
 \pagebreak
 
 %\includepdf[pages={1,2},scale=0.95]{OBSS-scheda.pdf}
-
+\thispagestyle{plain}
 \begin{tikzpicture}[remember picture,overlay]
 	\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(1cm,1cm)$) {
 		\includegraphics[scale=0.95]{OBSS-scheda-0.png}
@@ -43933,7 +43937,7 @@ Il font \textit{Italico} e \textbf{\textit{Italico Grassetto}} sono presi da \hr
 
 
 \pagebreak
-
+\thispagestyle{plain}
 \begin{tikzpicture}[remember picture,overlay]
 	\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(1cm,1cm)$) {
 		\includegraphics[scale=0.95]{OBSS-scheda-1.png}
