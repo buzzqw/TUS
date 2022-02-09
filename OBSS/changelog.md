@@ -86,4 +86,8 @@
 
 0.33 eliminato header da pagina con scheda, messo header con titolo capitolo sulla destra, aggiunti esempi di zaini gia' pronti, precisata indicazione usare arma senza competenza, diverse precisazioni da lettura ultimo pod, riorganizzato layout tabella degli strumenti,
 
+08/02/2022 aggiornata versione POD
+
+0.34 pubblicata versione 0.33, aggiornata copertina, 
+
 -aggiunti \label{} fino a famiglio
