@@ -1,3 +1,23 @@
+**14/02/2022**
+
+Proseguono piccole correzioni e chiarimenti e piu' affino OBSS piu' mi viene la voglia di partire con un altro progetto.
+Il processo e' sempre quello, una volta che arrivo ad una situzione accettabile del giono ricomincio da capo con un altro sistema.
+Magari le modifiche non saranno eclatanti ma la voglia di sperimentare non finisce mai.
+
+I punti su cui sto ragionando solo:
+- introduzione di classi, alla maniera della vecchia scuola ovvero poche capacita' ma uniche
+- meno feat tra cui scegliere, meno feat da scegliere
+- un sistema di combattimento che riprenda l'unica regola
+- un sistema magico ancora basato su obss ma con MOLTI meno incantesimi
+- ragionare su un sistema di competenze alternativo (solo la professione?)
+- ragionare su un sistema non piu' basato sul puro d20 ma a dadi scalabili
+- creare un sistema piu' snello ma che fornisca il framework sufficiente per gestire ogni situazione
+
+forse mi sto preoccupando troppo, obss ha delle eccellenti potenzialita' ancora non tutte esplorate.
+
+E poi.. ma lavorare su un setting ? ... non credo, pur se sono convinto del buon lavoro che andrei a dare.. io sono piu' uno da regoalmenti.
+
+
 **28/01/2022**
 
 Sono diversi giorni che mi ritrovo ad aprire il manuale di OBSS e praticamente non fare nulla di che.

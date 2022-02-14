@@ -86,7 +86,7 @@
 
 **0.33** eliminato header da pagina con scheda, messo header con titolo capitolo sulla destra, aggiunti esempi di zaini gia' pronti, precisata indicazione usare arma senza competenza, diverse precisazioni da lettura ultimo pod, riorganizzato layout tabella degli strumenti
 
-08/02/2022 aggiornata versione POD
+08/02/2022 aggiornata versione POD, STAMPA
 
 *0.34* pubblicata versione 0.33, aggiornata copertina, specificata prova necessaria a lanciare incantesimi in volo, sonnellino e' usufruibile solo ogni 36 ore, dettagli su ristorare superiore ed inferirore, chiarimenti su risata incontrollabile, aggiunta possibilita' di rimuovere maledizioni permanentemente, aggiunto successo critico in rimuovi malattie, aggiunto successo critico per reggia meravigliosa, modificato bonus da lista armi leggere, aggiunto a tutte le liste armi un bonus al sesto grado pari ad +1d6 al tiro per colpire, modificato bonus livello 8 armi rompi cranio, ridotto il malus cumulativo alla prova di pronto soccorso dopo essere andato morente, aggiunto danno usando torcia come arma improvvisata, chiarimenti su opzione l'unica regola, 
 
