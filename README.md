@@ -18,13 +18,13 @@ E allora e' nato OBSS, dove la magia e' a Spell Point ma comunque ha quel quid c
 **OBSS e' il sistema attualmente sviluppato e giocato, TUS e DBS vengono lasciati per coerenza storica.
 Entrate nella cartella OBSS e scaricate il PDF del manuale e della scheda!**
 
+Qui il Print on Demand (POD) su Amazon https://www.amazon.it/dp/B09R3HPJJX
+
 OBSS viene fornito in file sorgente in formato TEX e compilato in PDF. I giochi di ruolo qui presenti sono gratuiti, potete scaricarli ed usarli a vostro piacimento, nel rispetto della licenza.
 
 Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian) con xelatex (per via del font usato che aiuta nella lettura ed e' amichevole per chi soffre di dislessia).
 
 Il gioco e' completo anche se in fase di costante perfezionamento. Nel manuale c'e' la parte per i Giocatori, per il Narratore (il Master) e pure il mostruario (senza immagini...). E' anche disponibile uno schermo per il Narratore anche se e' MOLTO poco bello...
-
-Il manuale e' disponibile in POD (prind on demand) su richiesta. Una volta "terminato" il playtesting sara' disponibile in POD senza doverlo richiedere. Mandatemi un messaggio se volete l'ultima versione mandata alle stampe.
 
 **Nota**: abbiate pazienza per il pessimo codice di Latex, sono alle prime armi!
 
