@@ -92,7 +92,7 @@
 
 21/02/2022 aggiornata versione POD
 
-*0.35* pubblicata versione 0.35, aggiornata copertina, aggiunta possibilita' di tentare piu' magie nel medesimo round, piccole correzioni grammaticali, dettagli su procurarsi cibo con  prova di Sopravvivenza, dettaglio su recupero punti ferita massimi, modificate penalita' livelli di affaticamento, aggiunti chiarimenti su via e morte, 
+*0.35* pubblicata versione 0.35, aggiornata copertina, aggiunta possibilita' di tentare piu' magie nel medesimo round, piccole correzioni grammaticali, dettagli su procurarsi cibo con  prova di Sopravvivenza, dettaglio su recupero punti ferita massimi, modificate penalita' livelli di affaticamento, aggiunti chiarimenti su via e morte,
 
 
 -aggiunti \label{} fino a famiglio
