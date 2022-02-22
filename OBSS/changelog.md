@@ -92,7 +92,7 @@
 
 21/02/2022 aggiornata versione POD
 
-*0.35* pubblicata versione 0.35, aggiornata copertina,
+*0.35* pubblicata versione 0.35, aggiornata copertina, aggiunta possibilita' di tentare piu' magie nel medesimo round, 
 
 
 
