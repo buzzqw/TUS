@@ -1,3 +1,32 @@
+**22/02/2022**
+
+Oggi e' un giorno particolare, e' il compleanno di mio figlio. 14 anni sono una bella eta'.. o meglio sono una bruttissima eta'  e gli anni a seguire sono anche peggiori, ma con il senno di poi e l'esperienza tutto viene addolcito e reso meno brutto di quanto quegli anni ti hanno fatto vedere.
+
+Fatto sta che pensavo questi giorni sulla mia "eredita'" e non parlo dei classici beni materiali (casa, macchina..poc'altro!) ma della sterminata collezione di manuali di giochi di ruolo (ad oggi quasi 400 volumi) e dei manuali che io ho fatto.
+
+So gia' che non e' un giocatore, o meglio lo e' per il computer, ma non di ruolo. E questo mi dispiace infinitamente. Il gioco di ruolo mi ha dato e sta continuando a dare ancora tantissimo, sia dal lato umano conoscendo tante persone unite da una passione comune, che semplicemente divertendomi con qualcosa che mi piace e tanto.
+Il gioco di ruolo e' catarchico e stimola la mente, la creativita' e fantasia, aiuto a rapportarsi meglio con le persone e stimola la capacita' di gestione interpersonale.
+
+Spero, prego, che eventuali nipoti (se arrivo a vederli) potranno godere della mia collezione e chissa' magari portare avanti un ultimo manuale che ancora non ho finito... perche' non si finisce mai di giocare, crescere ed imparare!
+
+Tornando a OBSS ho pubblicato la versione 0.34 e caricata anche su amazon. Sono molto soddisfatto di come sta venendo, riesco sempre a correggere, chiarire, migliorare qualche cosa, il playtesting e' fondamentale sotto questo aspetto. Vorrei dire che il lavoro e' ormi completo ma so gia' che mi aspettano tante altri piccole e grandi modifiche. Ed e' giusto cosi', posso pero' dire che ogni versione e' giocabile, completa  e funzionante, poi chiaro che la successiva e' sempre meglio!
+
+
+**20/02/2022**
+
+Un futuro per OBSS ?
+e' da diverse settimane che penso al prossimo manuale. Ho gia' scritto le linee guida, poco piu' di una pagina, dove viene illustrato in pochissime parole il funzionamento del gioco.
+Di base e' una versione di OBSS dove diverse opzioni diventano lo standard con pero' diverse eccezioni. Ci sono le classi, i bonus/malus funzionano diversamente, la magia e' a incantesimi per livello e non a spell point.. insomma ci sono tante altre cose diverse.
+
+Mi conosco, so che prima o poi mi ci mettero' piu' seriamente a svilupparlo eppure questa volta mi sto sforzando a ragionare bene prima.
+Voglio capire non solo come strutturare le regole e come implementarle, per non ritoccarle venti volte dopo, ma, onestamente, la domanda che piu' mi faccio e' un altra.
+
+Serve un nuovo gioco OSR ?
+la risposta e' no .. parliamoci chiaro. Se poi aggiungo "in italiano" ? allora la risposta diventa NI.
+E' un valore aggiunto anche per qualcun'altro o solo per me?
+In base a come rispondo a questa domanda posso poi decidere se "Dark Catacomb" merita di essere scritto o meno.
+
+
 **14/02/2022**
 
 Proseguono piccole correzioni e chiarimenti e piu' affino OBSS piu' mi viene la voglia di partire con un altro progetto.
