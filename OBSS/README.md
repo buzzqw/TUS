@@ -1,6 +1,6 @@
 **Il print on demand (POD) e' disponibile su Amazon** https://www.amazon.it/dp/B09R3HPJJX
 
-In questa cartella troverete il materiale per giocare al gioco di ruolo Old Bell School System (OBSS). Tutto il materiale e' scritto in italiano.
+In questa cartella troverete il materiale per giocare al gioco di ruolo Old Bell School System (OBSS). Tutto il materiale e' scritto in italiano, gratuito e gratis (giusto per enfatizzare!)
 
 Il gioco usa ed e' licenziato con la OGL 5.1, quella di Dungeon & Dragons, questo significa che se conoscete DnD vi sara' facile e veloce capirne le meccaniche.
 
