@@ -94,6 +94,8 @@
 
 **0.35** pubblicata versione 0.34, aggiornata copertina, aggiunta possibilita' di tentare piu' magie nel medesimo round, piccole correzioni grammaticali, dettagli su procurarsi cibo con  prova di Sopravvivenza, dettaglio su recupero punti ferita massimi, modificate penalita' livelli di affaticamento, aggiunti chiarimenti su via e morte, modificato aiutare in combattimento, ridotto malus nel combattimento a due armi da -5 a -4 cumulativo, chiarimento per portata per mostri, allineati modificatori per combattimento contro creatura invisibile, alcune correzioni testuali, modificata abilita' ali della fenice, aggiornata abilita' gru d'argento, rilettura di tutte le abilita' e correzioni ed aggiornamenti vari, chiarimenti su attraversamento quadretti occupati da compagni, aggiunte due immagini riempitive, dettagli su incantesimi copiabili in tomo di magia
 
+27/02/2022 aggiornata versione POD
+
 *0.36* pubblicata versione 0.35, aggiornata copertina,
 
 
