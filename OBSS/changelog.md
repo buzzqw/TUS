@@ -96,7 +96,7 @@
 
 27/02/2022 aggiornata versione POD
 
-*0.36* pubblicata versione 0.35, aggiornata copertina, riletto ed aggiornato capitolo movimento modificate indicazioni su trasporto di creature con piu' zampe, minori chiarimenti in masterizzare, 
+*0.36* pubblicata versione 0.35, aggiornata copertina, riletto ed aggiornato capitolo movimento modificate indicazioni su trasporto di creature con piu' zampe, minori chiarimenti in masterizzare, nota su utilizzo tomo magia come pergamena, 
 
 
 -aggiunti \label{} fino a famiglio
