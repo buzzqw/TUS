@@ -96,7 +96,7 @@
 
 27/02/2022 aggiornata versione POD
 
-*0.36* pubblicata versione 0.35, aggiornata copertina, riletto ed aggiornato capitolo movimento modificate indicazioni su trasporto di creature con piu' zampe, minori chiarimenti in masterizzare, nota su utilizzo tomo magia come pergamena, 
+*0.36* pubblicata versione 0.35, aggiornata copertina, riletto ed aggiornato capitolo movimento modificate indicazioni su trasporto di creature con piu' zampe, minori chiarimenti in masterizzare, nota su utilizzo tomo magia come pergamena, riletto capitolo su pozioni e veleni con chiarimenti e monori correzioni, ridotti prezzi delle pozioni naturali, chiarimenti su effetto dipedenza da droghe, 
 
 
 -aggiunti \label{} fino a famiglio
