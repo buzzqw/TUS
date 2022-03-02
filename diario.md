@@ -1,3 +1,9 @@
+**02/03/2022**
+
+Ho mandato in pod la versione 0.36, e' vero che ci sara' scritto 0.37, ma e' perche' e' stata aggiornato dopo il cambio di versione.. ma l'unica differenza e' un cambiamento sul'linclusione della copertina, da png sono tornato a pdf.
+
+Sono molto soddisfatto della "correzioni" degli ultimi giorni. Non sono chiaramente correzioni ma un numero piuttosto abbondante di correzioni di battitura. Certo, ovvio, c'e' anche qualche piccolo chiarimento, doveroso, io non mi fermo mai nel migliorare un manuale. OBSS o quello che verra' non e' certo statico ne lo sara'. Ho gia' diverse idee in cantiere...
+
 **22/02/2022**
 
 Oggi e' un giorno particolare, e' il compleanno di mio figlio. 14 anni sono una bella eta'.. o meglio sono una bruttissima eta'  e gli anni a seguire sono anche peggiori, ma con il senno di poi e l'esperienza tutto viene addolcito e reso meno brutto di quanto quegli anni ti hanno fatto vedere.

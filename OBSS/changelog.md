@@ -104,5 +104,7 @@
 
 02/03/2022 aggiornata versione POD
 
+*0.37* 
+
 
 -aggiunti \label{} fino a famiglio
