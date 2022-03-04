@@ -100,11 +100,11 @@
 
 01/03/2022 aggiornata versione POD
 
-*0.37* pubblicata versione 0.36, aggiornata copertina, aggiornato metodo di inclusione scheda in manuale, 
+*0.37* pubblicata versione 0.36, aggiornata copertina, aggiornato metodo di inclusione scheda in manuale,
 
-02/03/2022 aggiornata versione POD
+02/03/2022 aggiornata versione POD, dettaglio su animalia e piante,
 
-*0.37* 
+*0.37*
 
 
 -aggiunti \label{} fino a famiglio
