@@ -2513,7 +2513,7 @@ Concentrarsi su un Incantesimo     		& 1\\
 Salire o scendere dalla cavalcatura		& 1\\
 Azione Immediata - Azione Reazione		& I - R\\
 Bere una pozione tenuta in mano			& I\\
-Fare un oggetto tenuto in mano   		& R\\
+Usare un oggetto tenuto in mano   		& R\\
 Gettarsi a terra prono				& R\\
 Riconoscere un Incantesimo			& R\\
 \end{tabularx}
@@ -6553,6 +6553,8 @@ Il giocatore costretto alla Prova di Magia può essere lui a richiederla e subir
 \subsubsection{Concentrazione}\index{Colpito mentre concentrato}\index{Concentrazione}
 
 Perdi la concentrazione su di un incantesimo se lanci un altro incantesimo che richieda concentrazione. Non ti puoi concentrare su due incantesimi alla volta.
+
+Interrompere la concentrazione costa 1 Reazione.
 
 Se vieni colpito mentre sei concentrato su un incantesimo devi effettuare una Prova di Magia e ottenere almeno 1 successo critico magico o perdi la concentrazione. Anche in questo caso puoi pagare il costo in Punti Magia aggiuntivo per ignorare 1 o 2.
 
@@ -18097,8 +18099,6 @@ Può anche effettuare una Azione di Scatto\index{Scatto} ovvero percorrere il do
 
 Un personaggio può effettuare fino a 3 Azioni di Scatto, ovvero corre per tutto il round percorrendo quindi il suo movimento * 6. Se il personaggio striscia o si muova a carponi si considera il terreno come difficile.
 
-Un personaggio può attraversare ma non sostare in una zona occupata da un compagno senza problemi.
-
 \subsubsection{Movimento Ostacolato}\index{Terreno difficile}
 
 Terreno difficile, ostacoli o scarsa visibilità possono impedire i movimenti. Quando il movimento è ostacolato si va a metà della velocità. Quindi sono necessari 2 Azioni per coprire la propria distanza di 9 metri (se si è umano senza ingombro..). Oppure con una Azione di movimento si copre solo 4 metri.
@@ -18110,6 +18110,25 @@ In alcune situazioni il movimento è talmente ostacolato che la distanza percorr
 Non applicate questa regola per attraversare terreni impraticabili o per muoversi quando non è possibile farlo in alcun modo.
 
 Non si può \textbf{Scattare} (Correre) o \textbf{Caricare} \index{Carica su Terreno difficile} \index{Scatto su terreno difficile}agevolmente attraverso un \textbf{percorso che ostacola il movimento}, ovvero terreno difficile. Il giocatore può tentare una prova di Acrobatica a DC 20 per riuscire a caricare o correre, comunque percorrendo solo la metà della distanza. La prova di Acrobatica non è necessaria, pur percorrendo metà movimento, se si ha il Vantaggio Rinoceronte.
+
+\index{Attraversare nemici}\index{Movimento attraverso}Un personaggio può \textbf{attraversare} ma non sostare in \textbf{una zona occupata} da un compagno senza problemi.
+
+I corpi dei \textbf{nemici} rendono il terreno (quadretto) dove sono difficile e se sono vivi e' necessario eseguire un Tiro Salvezza o su Riflessi o Tempra contrapposto (ognuno scegli quello che preferisce) a quello dell'avversario al quale si vuole attraversare il quadretto. Se si fallisce la prova si torna indietro al più vicino quadretto libero e si considera fatta l'Azione o Azioni di movimento. Se il nemico ha l'Abilità \hyperlink{opportunista}{Opportunista} oltre ad ostacolare il passaggio può eseguire un attacco.
+
+Un personaggio a contatto con un altra creatura può usare una Azione di Movimento per \textbf{scambiarsi di posto}, se la creatura è ostile è necessario un Tiro Salvezza contrapposto di Tempra per riuscire a scambiarsi. Per ogni \textbf{taglia di differenza}, chi ha quella maggiore, prende +1d6 di bonus alla prova.\index{Scambiare di posto}
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups nel cunicolo]   %box giocatore
+Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. E' alla quarta posizione.
+
+Improvvisamente un nemico si para davanti e Tups è il più veloce a reagire, usando una Azione di Movimento \textit{attraversa} i 3 compagni che ha davanti.
+
+
+Le opzioni si Tups sono:
+
+- Se decide di scambiarsi con il primo compagno della fila usa quindi una Azione per arrivare fino a li ed un altra Azione per scambiarsi ma il compagno non ha un posto libero dove posizionarsi. \textit{Questa scelta di Azioni non possibile}.
+
+- Se decide di arrivare fino all'inizio della fila (1 Azione di Movimento) potrebbe tentare di attraversare lo spazio dell'avversario. Usando una spallato (Tiro Salvezza su Tempra) cerca di passare oltre ma fallisce nel Tiro Salvezza contrapposto ed e' costretto a tornare indietro al più vicino quadretto libero. Se la creatura ha l'Abilita' Opportunista potrebbe anche eseguire un attacco contro di lui. Ha speso 1 Azione di movimento per arrivare in cima alla fila e per tentare di passare, fallendo è costretto a tornare al primo posto libero, il suo posto iniziale. Se la la spallata fosse riuscita allora sarebbe andato oltre l'avversario, avrebbe usato 1 Azione per arrivare fino in cima alla fila ed oltrepassare l'avversario.
+\end{tcolorbox}\end{changemargin}
 
 \subsection{Movimento Locale}\index{Movimento Locale}
 
@@ -18190,11 +18209,10 @@ Una cavalcatura che porta un cavaliere può muoversi con andatura veloce. Tuttav
 
 \end{multicols}
 
-\medskip
-
-\begin{center}
-\includegraphics[height=0.3\linewidth]{immagini/carretto.png}
-\end{center}
+%\medskip
+%\begin{center}
+%\includegraphics[height=0.3\linewidth]{immagini/carretto.png}
+%\end{center}
 
 \subsection{Tabella: Cavalcature e Veicoli}\index{Cavalcature}\index{Veicoli}\index{Tabella Cavalcature e Veicoli}\index{Cavallo movimento}
 
