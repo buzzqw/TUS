@@ -100,11 +100,11 @@
 
 01/03/2022 aggiornata versione POD
 
-*0.37* pubblicata versione 0.36, aggiornata copertina, aggiornato metodo di inclusione scheda in manuale,
+*0.37* pubblicata versione 0.36, aggiornata copertina, aggiornato metodo di inclusione scheda in manuale
 
 02/03/2022 aggiornata versione POD
 
-*0.37*  dettaglio su animalia e piante, dettaglio su interrompere concentrazione, dettaglio su movimento attraverso compagni e nemici, dettaglio su scambiarsi di posizione,
+*0.37*  dettaglio su animalia e piante, dettaglio su interrompere concentrazione, dettaglio su movimento attraverso compagni e nemici, dettaglio su scambiarsi di posizione, ulteriori chiarimenti su condivisione spazi, aggiunto chiarimento su potenziamento trucchetti,
 
 
 -aggiunti \label{} fino a famiglio
