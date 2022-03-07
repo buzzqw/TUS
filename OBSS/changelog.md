@@ -114,7 +114,6 @@ Aggiungere immagini:
 54 nascondigli e coperture 5
 252 pericoli avventura, piante velenose 5
 262 notorieta', 4
-290 regole su oggetti magici , acquistare oggetti magici 4
 358 cicli millenari 6
 368 descrizione piani 3
 
