@@ -104,7 +104,7 @@
 
 02/03/2022 aggiornata versione POD
 
-*0.37*  dettaglio su animalia e piante, dettaglio su interrompere concentrazione, dettaglio su movimento attraverso compagni e nemici, dettaglio su scambiarsi di posizione, ulteriori chiarimenti su condivisione spazi, aggiunto chiarimento su potenziamento trucchetti,
+*0.37*  dettaglio su animalia e piante, dettaglio su interrompere concentrazione, dettaglio su movimento attraverso compagni e nemici, dettaglio su scambiarsi di posizione, ulteriori chiarimenti su condivisione spazi, aggiunto chiarimento su potenziamento trucchetti, chiarito che un incantesimo con successo critico automatico aumenta tempo di lancio di 1 azione, aggiunto critico magico su colpo accurato, usare un trucchetto potenziato costa 2 punti magia, aggiunto critico magico su fiamma sacra, aggiunto critico magico su marchio magico,  modificato critico magico su randello, aggiunto critico magico su taumaturgia, aggiunto critico magico su salvare i morenti, 
 
 
 -aggiunti \label{} fino a famiglio
