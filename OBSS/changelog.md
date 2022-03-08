@@ -111,7 +111,6 @@
 
 Aggiungere immagini:
 
-54 nascondigli e coperture 4 "na creatura invisibile nell’acqua muov"
 59 "uando un personaggio usa un arma present" , riempitivo lungo
 79 "attraverso il famiglio. Attivare questa", , riempitivo lungo
 223 "piede di porco o un ariete portatile aume", riepitivo lungo
