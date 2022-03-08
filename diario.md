@@ -1,6 +1,22 @@
+**08/03/2022**
+
+E' sempre cosi', l'ho gia' detto, appena dopo aver mandato un volume in stampe ti vengono in mente modifiche bellissime che devi assolutamente fare!
+Ed e' cosi' che si sta sviluppando, ed anzi terminando la 0.37. Ho lavorato molto su i Trucchetti.
+
+Ho voluto renderli "piu' incantesimi" e' meno trucchi, potenziati si tramite aggiunta di critico magico, ma allo stesso tempo non spammabili se non con un costo, almeno ad alti livelli.
+L'obiettivo era non creare dei one trick pony (vedi il warlock ed il suo Eldricth blast) ma renderli comunque interessanti. Potete gia' leggere le modifiche nell'ultima versione compilata di OBSS.
+
+Stavo leggendo in questo periodo Shadow of the demon lord e lo trovo un buon sistema, affascinante nel suo riuscire a mescolare due sistemi che a me piacciono molto come warhammer fantasy ed il d20. Mi piace come gestisce le classi e i boons.
+E' semplice, pratico, ma comunque funzionante, i dadi di bonus/malus non si sommano tutti, bensi si tirano tutti e si prende il valore maggiore.
+Essenziale ma effettivamente molto pratico... potrei cannibalizzare l'idea.. se ci penso un altro po'.
+
+Il discorso delle classi ad albero, a percorso, mi ha sempre affascinato e lo trovo oggettivamente un sistema di progressione molto naturale e corretto. Non impili abilita' uno dietro l'altra, ma attraverso un percorso di vita apprendi nuove specializzazioni ed abilita'. Il sistema di OBSS e' una estremizzazione dello stesso principio alla fine.
+
+Sono convinto che OBSS potra' essere espanso da altri volenterosi ed appassionati per introdurre nuove abilita' ed allargare cosi' la lista delle possibilita' senza pero' intaccare l'equilibro che ho provato a costruire. Detta diversamente nuove abilita' si ma che non siano rotte.
+
 **02/03/2022**
 
-Ho mandato in pod la versione 0.36, e' vero che ci sara' scritto 0.37, ma e' perche' e' stata aggiornato dopo il cambio di versione.. ma l'unica differenza e' un cambiamento sul'linclusione della copertina, da png sono tornato a pdf.
+Ho mandato in pod la versione 0.36, e' vero che ci sara' scritto 0.37, ma e' perche' e' stata aggiornato dopo il cambio di versione.. ma l'unica differenza e' un cambiamento sull' inclusione della copertina, da png sono tornato a pdf.
 
 Sono molto soddisfatto della "correzioni" degli ultimi giorni. Non sono chiaramente correzioni ma un numero piuttosto abbondante di correzioni di battitura. Certo, ovvio, c'e' anche qualche piccolo chiarimento, doveroso, io non mi fermo mai nel migliorare un manuale. OBSS o quello che verra' non e' certo statico ne lo sara'. Ho gia' diverse idee in cantiere...
 

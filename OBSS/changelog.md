@@ -104,15 +104,21 @@
 
 02/03/2022 aggiornata versione POD
 
-*0.37*  dettaglio su animalia e piante, dettaglio su interrompere concentrazione, dettaglio su movimento attraverso compagni e nemici, dettaglio su scambiarsi di posizione, ulteriori chiarimenti su condivisione spazi, aggiunto chiarimento su potenziamento trucchetti, chiarito che un incantesimo con successo critico automatico aumenta tempo di lancio di 1 azione, aggiunto critico magico su colpo accurato, usare un trucchetto potenziato costa 2 punti magia, aggiunto critico magico su fiamma sacra, aggiunto critico magico su marchio magico,  modificato critico magico su randello, aggiunto critico magico su taumaturgia, aggiunto critico magico su salvare i morenti, aggiunta alcune immagini per riempire le pagine particolarmente vuote, opzione per recupero da affaticato di punti magia, dettagliato che per potenziare un trucchetto e' necessario avere preso piu' volte adepto della magia in quella lista, 
+*0.37*  dettaglio su animalia e piante, dettaglio su interrompere concentrazione, dettaglio su movimento attraverso compagni e nemici, dettaglio su scambiarsi di posizione, ulteriori chiarimenti su condivisione spazi, aggiunto chiarimento su potenziamento trucchetti, chiarito che un incantesimo con successo critico automatico aumenta tempo di lancio di 1 azione, aggiunto critico magico su colpo accurato, usare un trucchetto potenziato costa 2 punti magia, aggiunto critico magico su fiamma sacra, aggiunto critico magico su marchio magico,  modificato critico magico su randello, aggiunto critico magico su taumaturgia, aggiunto critico magico su salvare i morenti, aggiunta alcune immagini per riempire le pagine particolarmente vuote, opzione per recupero da affaticato di punti magia, dettagliato che per potenziare un trucchetto e' necessario avere preso piu' volte adepto della magia in quella lista, modificato critico magico caduta morbida, 
 
 
 -aggiunti \label{} fino a famiglio
 
 Aggiungere immagini:
 
-54 nascondigli e coperture 5
-252 pericoli avventura, piante velenose 5
-358 cicli millenari 6
-368 descrizione piani 3
+54 nascondigli e coperture 4 "na creatura invisibile nell’acqua muov"
+59 "uando un personaggio usa un arma present" , riempitivo lungo
+79 "attraverso il famiglio. Attivare questa", , riempitivo lungo
+223 "piede di porco o un ariete portatile aume", riepitivo lungo
+238 "circostanti. Un vicolo buio di giorno non è b", riempitivo lungo
+240 "n esisteva o non è sopravvissuta alcuna", riepitivo lungo
+252 "Quercia Velenosa" pericoli avventura, piante velenose 5
+287 "ando si determina il prezzo di un oggetto ma", riepitivo lungo
+358 "dopo la vittoria giacciono insieme p" cicli millenari 6
+368 descrizione piani 3, riepitivo lungo
 
