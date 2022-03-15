@@ -120,3 +120,6 @@ Aggiungere immagini:
 358 "dopo la vittoria giacciono insieme p" cicli millenari 6
 368 descrizione piani 3, riepitivo lungo
 
+> valutare
+togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello.
+

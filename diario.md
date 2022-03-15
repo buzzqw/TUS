@@ -1,3 +1,21 @@
+**15/03/2022**
+
+Il lavoro sulla 0.37 mi ha dato diverse soddisfazioni, vuoi grazie a playtesting vuoi perche' ero ispirato. Il changelog come semmpre e' a disposizione, non sto a ripeterlo, pero' contiene un ottimo insieme di piccoli chiarimenti e modifiche che a mio parere arricchiscono il gioco.
+Ho lavorato doverosamente sul capitolo della cosmologia, in particolare ho praticamente riscritto l'introduzione. Non e' cambiato lo spirito o i concetti ma almeno e' stato riscritto in un italiano corretto, piu' o meno. Era tra i pezzi piu' vecchi, originari, ereditati da TUS.
+Mi viene da pensare che del testo originale rimane ben poco, forse qualche descrizione di Patroni, da rivedere anche quelli prima o poi. Devo stare attento! se vado a modificare anche quelli rischio di dover togliere la coautrice!!
+
+Molto probabilmente domani pubblico la 0.37, se non oggi e a brevissimo mando in POD la nuova versione.
+
+Che sia quella definitiva ? ma assolutamente no.. nuove prove, test, collaudi, idee, paturnie mi verranno in mente e ci sara' una nuova meravigliosa versione di OBSS.
+In tanto mi godo questa, eccellente e funzionale.
+
+Tra le tante che mi sono venute in mente, e lo scrivo giusto per fissarlo meglio... e' vincolare l'aumento di caratteristica (quello che viene chiamato ASI nella 5e) a determinate Abilità o insieme di questi.. Esempio ogni 4 nuove abilita' aumenti di 1 un punteggio di caratteristica.
+
+Perche ? togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. Per l'ASI posso risolvere come indicato, per APL ovvero per determinare "la classe di difficolta' degli scontri" posso usare la somma di CM+CA che al 99% equivale al livello.
+
+Ci pensero' e molto seriamente, e' una modifica non impattante in senso assoluto, ma che chiaramente distacca OBSS dal d20 standard... e che problema c'e' !?!?
+
+
 **08/03/2022**
 
 E' sempre cosi', l'ho gia' detto, appena dopo aver mandato un volume in stampe ti vengono in mente modifiche bellissime che devi assolutamente fare!
