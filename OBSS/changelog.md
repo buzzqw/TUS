@@ -110,7 +110,7 @@
 
 16/03/2022 aggiornata versione POD
 
-*0.38* ridotto danno di Riscaldare il Metallo, 
+*0.38* ridotto danno di Riscaldare il Metallo, indicate penalita' per prove usando scurovisione, 
 
 
 
