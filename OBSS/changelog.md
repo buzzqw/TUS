@@ -108,6 +108,14 @@
 
 *0.38* pubblicata versione 0.36, aggiornata copertina, il massimo valore di una caratteristica cheviene aumentata e' pari al 4+bonus razziale, 
 
+16/03/2022 aggiornata versione POD
+
+*0.38* ridotto danno di Riscaldare il Metallo, 
+
+
+
+
+
 -aggiunti \label{} fino a famiglio
 
 Aggiungere immagini:
