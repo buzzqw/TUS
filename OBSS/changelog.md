@@ -110,7 +110,7 @@
 
 16/03/2022 aggiornata versione POD
 
-*0.38* ridotto danno di Riscaldare il Metallo, indicate penalita' per prove usando scurovisione, piccole note a energia positiva curativa, modificati poteri di Shayalia sulla cura animali,
+*0.38* ridotto danno di Riscaldare il Metallo, indicate penalita' per prove usando scurovisione, piccole note a energia positiva curativa, modificati poteri di Shayalia sulla cura animali, modificato metodo ti tiro della caratteristiche, la professione aumenta di 1 una caratteristica,
 
 
 
@@ -133,3 +133,4 @@ Aggiungere immagini:
 > valutare
 togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello.
 
+> caratteristiche 3d6, 7 volte. poi modificatori razziali , poi modificatori di caratteristica da professione
