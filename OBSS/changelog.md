@@ -110,7 +110,7 @@
 
 16/03/2022 aggiornata versione POD
 
-*0.38* ridotto danno di Riscaldare il Metallo, indicate penalita' per prove usando scurovisione, piccole note a energia positiva curativa, modificati poteri di Shayalia sulla cura animali, modificato metodo ti tiro della caratteristiche, la professione aumenta di 1 una caratteristica, modificata azioni per usare mano magica, modificata prova di alzarsi da prono, dettaglio copertura fornito da creature, rinominato prove di destrezza a malus competenze nelle prove, dettagli su espansione incantesimi, chiarimenti su punto di origine incantesimi, aggiornato nuovamente mano magica, migliorie layout capitolo magia, minimi chiarimenti in caratteristiche, ridotte penalita' al tiro per colpire per scudo, aggiornato logo per scheda, chiarimenti su incantesimo metamorfosi, 
+*0.38* ridotto danno di Riscaldare il Metallo, indicate penalita' per prove usando scurovisione, piccole note a energia positiva curativa, modificati poteri di Shayalia sulla cura animali, modificato metodo ti tiro della caratteristiche, la professione aumenta di 1 una caratteristica, modificata azioni per usare mano magica, modificata prova di alzarsi da prono, dettaglio copertura fornito da creature, rinominato prove di destrezza a malus competenze nelle prove, dettagli su espansione incantesimi, chiarimenti su punto di origine incantesimi, aggiornato nuovamente mano magica, migliorie layout capitolo magia, minimi chiarimenti in caratteristiche, ridotte penalita' al tiro per colpire per scudo, aggiornato logo per scheda, chiarimenti su incantesimo metamorfosi, aggiunto successo critico magico in eroismo-crescita vegetale-alterare se stessi-fermare il tempo-localizza oggetto, aggiunto successo/fallimento critico in dito della morte, modificato danno critico da freccia acida, cambiata durata degli incantesimi gragnole, corretta indicazione per successo critico in rimuovi maledizioni, individuazione del bene e male per identificare il patrono seguito, modificata durata per identificazione magico ed identificazione malattie e veleni, modificato critico magico ad inviare e mani brucianti, 
 
 @bobon123
 
@@ -129,6 +129,8 @@ Aggiungere immagini:
 287 "ando si determina il prezzo di un oggetto ma", riepitivo lungo
 358 "dopo la vittoria giacciono insieme p" cicli millenari 6
 368 descrizione piani 3, riepitivo lungo
+
+> modificare durate fisse ed impostarle in base al valore di CM o somma Tratti
 
 > valutare
 togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello.
