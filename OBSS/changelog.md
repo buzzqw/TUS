@@ -110,7 +110,7 @@
 
 16/03/2022 aggiornata versione POD
 
-*0.38* ridotto danno di Riscaldare il Metallo, indicate penalita' per prove usando scurovisione, piccole note a energia positiva curativa, modificati poteri di Shayalia sulla cura animali, modificato metodo ti tiro della caratteristiche, la professione aumenta di 1 una caratteristica, modificata azioni per usare mano magica, modificata prova di alzarsi da prono, dettaglio copertura fornito da creature, rinominato prove di destrezza a malus competenze nelle prove, dettagli su espansione incantesimi, chiarimenti su punto di origine incantesimi, aggiornato nuovamente mano magica, migliorie layout capitolo magia, 
+*0.38* ridotto danno di Riscaldare il Metallo, indicate penalita' per prove usando scurovisione, piccole note a energia positiva curativa, modificati poteri di Shayalia sulla cura animali, modificato metodo ti tiro della caratteristiche, la professione aumenta di 1 una caratteristica, modificata azioni per usare mano magica, modificata prova di alzarsi da prono, dettaglio copertura fornito da creature, rinominato prove di destrezza a malus competenze nelle prove, dettagli su espansione incantesimi, chiarimenti su punto di origine incantesimi, aggiornato nuovamente mano magica, migliorie layout capitolo magia, minimi chiarimenti in caratteristiche, 
 
 @bobon123
 
