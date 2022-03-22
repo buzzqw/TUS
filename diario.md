@@ -1,3 +1,15 @@
+**22/03/2022**
+
+La 0.37 e' durata anche meno del previsto, una serie di migliorie riguardante le caratteristiche e tutta una serie di aggiornamenti riguardanti gli incantesimi mi fara' rilasciare la 0.38 nei prossimi giorni e susseguentemente il POD.
+Questa versione ha modificato la modalita' standard di tiro delle caratteristiche, abbassando le probabilita' di valori piu' alti ma allo stesso tempo concedendo bonus statici.
+Le caratteristiche adesso si tirano con 3d6, ritirando evetualmente un 1 tirato e si continuano a tirare in ordine; se ne tirano 7 potendo sostituire la settima tirata ad una qualsiasi altra tirata. Il risultato come prima si confronta con la tabella dei punteggi tirati e si capisce il valora della caratteristica.
+A questo punto si applicano i modificatori razziali che comunque non posso portare una caratteristica ad oltre +/-3.
+Una volta scelta la professione, in base alla stessa od al background il giocatore aumentera' a piacere una caratteristica di 1, portandola fino ad un massimo di 3+modificatori razziali.
+In questo modo le caratteristiche non sono solo "figlie" della razza e dadi ma anche della storia stessa del personaggio. Ringrazio @bobon123 e @Bille Boo per la profiqua discussione su dragonslair.it
+
+Sono stati aggiornati diversi incantesimi per quanto riguarda la possibilita' di fare critico e ho dato una riletta ai Patroni.
+Continuo a confermare che mi piacciono, sono quel quid che se usato bene puo' rendere diverso il setting da mille altri.
+
 **15/03/2022**
 
 Il lavoro sulla 0.37 mi ha dato diverse soddisfazioni, vuoi grazie a playtesting vuoi perche' ero ispirato. Il changelog come semmpre e' a disposizione, non sto a ripeterlo, pero' contiene un ottimo insieme di piccoli chiarimenti e modifiche che a mio parere arricchiscono il gioco.
