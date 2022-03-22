@@ -1,6 +1,6 @@
 **22/03/2022**
 
-La 0.37 e' durata anche meno del previsto, una serie di migliorie riguardante le caratteristiche e tutta una serie di aggiornamenti riguardanti gli incantesimi mi fara' rilasciare la 0.38 nei prossimi giorni e susseguentemente il POD.
+La 0.37 e' durata anche meno del previsto, una serie di migliorie riguardante le caratteristiche e tutta una serie di aggiornamenti su gli incantesimi mi fara' rilasciare la 0.38 nei prossimi giorni e susseguentemente il POD.
 Questa versione ha modificato la modalita' standard di tiro delle caratteristiche, abbassando le probabilita' di valori piu' alti ma allo stesso tempo concedendo bonus statici.
 Le caratteristiche adesso si tirano con 3d6, ritirando evetualmente un 1 tirato e si continuano a tirare in ordine; se ne tirano 7 potendo sostituire la settima tirata ad una qualsiasi altra tirata. Il risultato come prima si confronta con la tabella dei punteggi tirati e si capisce il valora della caratteristica.
 A questo punto si applicano i modificatori razziali che comunque non posso portare una caratteristica ad oltre +/-3.
