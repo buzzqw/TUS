@@ -114,7 +114,7 @@
 
 23/03/2022 aggiornata versione POD
 
-*0.39* pubblicata versione 0.38, aggiornata copertina,modificato vantaggio aiutare un altro,
+*0.39* pubblicata versione 0.38, aggiornata copertina,modificato vantaggio aiutare un altro, modificata durata nube puzzolente,
 
 
 -aggiunti \label{} fino a famiglio
