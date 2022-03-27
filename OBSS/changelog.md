@@ -114,7 +114,7 @@
 
 23/03/2022 aggiornata versione POD
 
-*0.39* pubblicata versione 0.38, aggiornata copertina,modificato vantaggio aiutare un altro, modificata durata nube puzzolente, corretto in condizioni prono, chiarito meglio che chi afferra e' anche afferrato, anche in spingere l'avversario c'e' il bonus per differenza di taglia, corretto bonus per spingere ed afferrare per differenza di taglia +4 ad 1d6,
+*0.39* pubblicata versione 0.38, aggiornata copertina,modificato vantaggio aiutare un altro, modificata durata nube puzzolente, corretto in condizioni prono, chiarito meglio che chi afferra e' anche afferrato, anche in spingere l'avversario c'e' il bonus per differenza di taglia, corretto bonus per spingere ed afferrare per differenza di taglia +4 ad 1d6, nascondersi costa 1 azione, usare una competenza costa 1 azione se non specificato diversamente,
 
 
 -aggiunti \label{} fino a famiglio
