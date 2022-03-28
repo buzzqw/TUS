@@ -114,14 +114,13 @@
 
 23/03/2022 aggiornata versione POD
 
-*0.39* pubblicata versione 0.38, aggiornata copertina, modificato vantaggio aiutare un altro, modificata durata nube puzzolente, corretto in condizioni prono, chiarito meglio che chi afferra e' anche afferrato, anche in spingere l'avversario c'e' il bonus per differenza di taglia, corretto bonus per spingere ed afferrare per differenza di taglia +4 ad 1d6, nascondersi costa 1 azione, usare una competenza costa 1 azione se non specificato diversamente, aggiornato screen, dettagli su durata prove, aggiornati dettagli su dialogo in combattimento, suggerimento su gestione iniziative in combattimento, non si possono spendere più di metà dei Punti Magia posseduti per potenziare un incantesimo, 
+*0.39* pubblicata versione 0.38, aggiornata copertina, modificato vantaggio aiutare un altro, modificata durata nube puzzolente, corretto in condizioni prono, chiarito meglio che chi afferra e' anche afferrato, anche in spingere l'avversario c'e' il bonus per differenza di taglia, corretto bonus per spingere ed afferrare per differenza di taglia +4 ad 1d6, nascondersi costa 1 azione, usare una competenza costa 1 azione se non specificato diversamente, aggiornato screen, dettagli su durata prove, aggiornati dettagli su dialogo in combattimento, suggerimento su gestione iniziative in combattimento, non si possono spendere più di metà dei Punti Magia posseduti per potenziare un incantesimo, aggiunta immagine dal castello di Bran, 
 
 
 -aggiunti \label{} fino a famiglio
 
 Aggiungere immagini:
 
-59 "uando un personaggio usa un arma present" , riempitivo lungo
 79 "attraverso il famiglio. Attivare questa", , riempitivo lungo
 223 "piede di porco o un ariete portatile aume", riepitivo lungo
 238 "circostanti. Un vicolo buio di giorno non è b", riempitivo lungo
