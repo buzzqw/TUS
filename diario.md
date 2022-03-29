@@ -1,3 +1,18 @@
+**29/03/2022**
+
+Vorrei dire di essere alle battute finali ... ma non ne sono mai cosi' certo.
+Oggettivamente le ultime modifiche se pure importanti, quali la variazione dei costi di diverse Azioni e' importante, ma concettualmente non cambia il gioco, non introduce meccaniche nuove. Ovvio che ribilancia il tutto e cambia anche in profondita' certe meccaniche, ma il flusso del gioco, le opzioni e scelte rimangono le stesse.
+
+Ammetto che sono sempre in trepida attesa dei feedback di ritorno dalle sessioni del giovedi' e venerdi'. Sono state sempre costruttive e mi permettono ogni volta di chiarire quell'aspetto che pensavo fosse gia' a posto!
+A dirla tutta spesso mi stupisco dei dubbi che ne escono e mi sembra che andare a precisare cosi' dettagliatamente snatura un gioco di ruolo e piu' ancora snatura il ruolo del Narratore al quale si lascia il ruolo di arbitro e non piu' di gran orchestratore che giustamente interpreta a suo sentimento anche le regole.
+
+E' un equilibro non facile, forse per questo sono numerosi piu' numerosi i box di consigli per il narratore che per il giocatore.
+
+Le prossime valutazioni riguardano se approcciare una gestione dell'ingombro alla Pathfinder2, andare ad implementare una gestione delle professioni ad alberto quindi che abilita' integrate o quasi, cambiare i patroni ma questo ha una pura valenza personale.
+
+Quello che mi attira di piu' sono le professioni/classi ad albero, gli altri sono modifiche che possono essere fatte o meno ma non cambiano il senso del gioco..
+Preparero' qualche schema.. puo' essere molto interessante! 
+
 **22/03/2022**
 
 La 0.37 e' durata anche meno del previsto, una serie di migliorie riguardante le caratteristiche e tutta una serie di aggiornamenti su gli incantesimi mi fara' rilasciare la 0.38 nei prossimi giorni e susseguentemente il POD.
