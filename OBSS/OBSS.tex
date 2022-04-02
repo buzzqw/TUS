@@ -1099,7 +1099,7 @@ Esempio di calcolo:
 
 Un personaggio di livello 6 ha: 20-6 = 14/5 = 3 (arrotondi per all'intero più vicino) Punti Fato da usare nella sessione.
 
-Un Punto Fato si usa come Azione di Reazione ed ogni Punto Fato utilizzato concede un bonus di +1d6 alla prova in corso. Il Punto Fato può essere utilizzato per avere un dado in più nel Tiro Salvezza oppure nei Tiri per Colpire, con potenziale esplosione del dado, oppure una prova di competenza.
+Un Punto Fato si usa come Azione Immediata o di Reazione ed ogni Punto Fato utilizzato concede un bonus di +1d6 alla prova in corso. Il Punto Fato può essere utilizzato per avere un dado in più nel Tiro Salvezza oppure nei Tiri per Colpire, con potenziale esplosione del dado, oppure una prova di competenza.
 
 Non può essere usato per aumentare valori fissi (come la Difesa) od il danno di un arma.
 
@@ -2244,7 +2244,7 @@ In acqua calme DC 10, in acque mosse ha DC 15, in acque molto mosse DC 20, tempe
 
 Un eventuale prova sulla \textbf{Professione} viene fatta con 3d6+Saggezza+metà del livello.\\
 
-\textbf{Pronto Soccorso}\hypertarget{prontosoccorso}{}\index{Pronto Soccorso}. Una prova riuscita (base DC 15) fa recuperare 1d4 Punti Ferita \textbf{dopo uno scontro} o concedere un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Da fare entro 1 turno dal termine del combattimento. Costo 2 minuti.
+\textbf{Pronto Soccorso}\hypertarget{prontosoccorso}{}\index{Pronto Soccorso}. Una prova riuscita (DC 15) fa recuperare 1d4 Punti Ferita \textbf{dopo uno scontro} o concede un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Da fare entro 1 turno dal termine del combattimento. Costo 2 minuti.
 
 Una prova riuscita (base DC 12) riduce di 1 i danni da \hyperlink{sanguinamento}{\textbf{Sanguinamento}}. Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 2. Costo 2 Azioni. Un trattamento di 1 minuto garantisce 1 successo, senza prova. Ogni successo critico riduce il sanguinamento di un punto ulteriore.
 
@@ -2252,19 +2252,23 @@ Una prova riuscita (base DC 13) per \textbf{prendersi cura per 8 ore} di un pazi
 
 \textbf{Saltare}\index{Tabella Saltare} \textit{Penalità dovuta all'Armatura.}\\
 
-\begin{tabular}{lc|lc}
-\textbf{Salto in Lungo} & \textbf{DC}&\textbf{Salto in Alto} & \textbf{DC}\\
-\multicolumn{2}{c}{Lunghezza} &\multicolumn{2}{c}{Altezza} \\
-\toprule
-1.5 m                              & 5 & 0.02 m                           & 4\\
-3 m                                & 10 &0.5 m                            & 8\\
-5 m                                & 15 & 1 m                              & 12\\
-7 m                                & 20 & 1.5 m                            & 16\\
-+1,5 m                             & +5 &+0.5 m                           & +4\\
-\end{tabular}
+%\begin{tabular}{lc|lc}
+%\textbf{Salto in Lungo} & \textbf{DC}&\textbf{Salto in Alto} & \textbf{DC}\\
+%\multicolumn{2}{c}{Lunghezza} &\multicolumn{2}{c}{Altezza} \\
+%\toprule
+%1.5 m                              & 5 & 0.02 m                           & 4\\
+%3 m                                & 10 &0.5 m                            & 8\\
+%5 m                                & 15 & 1 m                              & 12\\
+%7 m                                & 20 & 1.5 m                            & 16\\
+%+1,5 m                             & +5 &+0.5 m                           & +4\\
+%\end{tabular}
 
-Se non si ha almeno 3 metri di rincorsa si salta la metà.
-In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 della lunghezza saltata. Se esegui un salto in lungo di 4 metri a metà salto sei in alto di 1 metro. 2 Azioni.\\
+La distanza saltata in lungo è pari a 0.50m + 0.50m per risultato della prova oltre 5. Es se nella prova di saltare faccio 7, il salto sarà lungo 0.50+(7-5)*0.50=1m, con 16 nella prova 0.50+(16-5)*0.50=6m.
+Non e' possibile saltare piu' del proprio movimento.
+
+La distanza saltata in alto segue le stesse regole ma la base saltata è 0.25m + 0.25m per punteggio oltre 8.
+
+Se non si ha almeno 3 metri di rincorsa si salta la metà. In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 della lunghezza saltata. Se esegui un salto in lungo di 4 metri a metà salto sei in alto di 1 metro. 1 Azione.\\
 
 \textbf{Sopravvivenza}\index{Sopravvivenza}
 
@@ -4622,7 +4626,7 @@ L'Abilità non è cumulabile con "Incanalare energia a distanza".
 
 Tramite la tua esibizione, canora, di balletto, oratoria.. sei in grado di infondere coraggio nei compagni in grado di sentirti o vederti, nel raggio di 6 metri.
 
-La prima volta che prendi questa Abilità i tuoi compagni hanno un bonus di +1 al Tiro per Colpire ed al danno in combattimento.
+La prima volta che prendi questa Abilità i tuoi compagni hanno un bonus di +1 al Tiro per Colpire ed al Danno in combattimento.
 
 La \textbf{seconda volta} che prendi questa Abilità puoi decidere di infondere fino a 2 di questi bonus. +2 TC, +2 Difesa, +2 Danno, +2 Tiro Salvezza su Volontà. I tuoi compagni devono essere entro 12 metri di raggio.
 
@@ -14076,7 +14080,7 @@ Carrucola e Paranco&1 mo&2,5 kg&Carta (un foglio)&2 ma&-\\
 Catena (3 metri)&5 mo&5 kg&Chiodo da Rocciatore&5 mr&0,125 kg\\
 Clessidra&25 mo&0,5 kg&Coperta&5 ma&1,5 kg\\
 Corda di Canapa (15 metri)&1 mo&5 kg&Corda di Seta (15 metri)&10 mo&2,5 kg\\
-Cote per Affilare&1 mr&0,5 kg&Custodia per Mappe / Pergamene&1 mo&0,5 kg\\
+Cote per Affilare&1 mr&0,5 kg&Porta Mappe / Pergamene&1 mo&0,5 kg\\
 Custodia per Dardi da Balestra&1 mo&0,5 kg&Faretra&1 mo&0,5 kg\\
 Fiala&1 mo&-&Fischietto da Richiamo&5 mr&-\\
 Bacchetta&10 mo&0,5 kg&Bastone&5 mo&2 kg\\
@@ -14084,14 +14088,14 @@ Cristallo&10 mo&0,5 kg&Globo&20 mo&1,5 kg\\
 Verga&10 mo&1 kg&Bacchetta in Legno di Tasso&10 mo&0,5 kg\\
 Bastone di Legno&5 mo&2 kg&Rametto di Vischio&1 mo&-\\
 Cerata&5 ma&1kg&Forziere&5 mo&12,5 kg\\
-Fuoco dell'Alchimista (ampolla)&50 mo&0,5 kg&Gancio di metallo &1 mo&1.5 kg\\
+Fuoco Alchemico (ampolla)&50 mo&0,5 kg&Gancio di metallo &1 mo&1.5 kg\\
 Gessetto (1 pezzo)&1 mr&-&Giaciglio&1 mo&3,5 kg\\
 Inchiostro (30 grammi)&10 mo&-&Lampada&5 ma&0,5 kg\\
 Lanterna a Lente Sporgente&10 mo&1 kg&Lanterna Schermabile&5 mo&1 kg\\
 Lente d'Ingrandimento&100 mo&-&Libro&25 mo&2,5 kg\\
 Libro degli Incantesimi&50 mo&1,5 kg&Manette&2 mo&3 kg\\
 Martello&1 mo&1,5 kg&Martello da Demolizione&2 mo&5 kg\\
-Aghi da Cerbottana (50)&1 mo&0,5 kg&Frecce (20)&1 mo&0,5 kg\\
+Bandoliera &1 mo&0,5 kg&Frecce (20)&1 mo&0,5 kg\\
 Olio (ampolla)&1 ma&0,5 kg&Otre&2 ma&2,5 kg\\
 Pennino&2 mr&-&Pergamena (un foglio)&1 ma&-\\
 Piccone da Minatore&2 mo&5 kg&Piede di Porco&2 mo&2,5 kg\\
@@ -14122,11 +14126,13 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 
 \textbf{Acqua Sacra}. Con un’azione, puoi spargere il contenuto di questa ampolla su di una creatura entro 1 metri da te o lanciare l’ampolla fino a 6 metri, fracassandola all’impatto. In entrambi i casi, effettua un Tiro per Colpire a distanza contro la creatura o l’oggetto, trattando l’acqua sacra come un’arma improvvisata. Se colpisci, e il bersaglio è un immondo o un non morto, subisce 2d4 danni da energia positiva.
 
-\textbf{Antitossina}. Una creatura che beve da questa fiala di liquido ottiene +1d6 sui tiri salvezza contro il veleno per 1 ora. Non conferisce alcun bonus ai non morti e ai costrutti.
+\textbf{Antitossina}. Una creatura che beve da questa fiala di liquido ottiene +1d6 sui Tiri Salvezza contro il veleno per 1 ora. Non conferisce alcun bonus ai non morti e ai costrutti.
 
-\textbf{Ariete Portatile}. Puoi usare un ariete portatile per abbattere le porte. Nel farlo, ottieni un bonus di +4 alle prove di Forza. Un altro personaggio può aiutarti con l’uso dell’ariete, dandoti +1d6 sulla prova.
+\textbf{Ariete Portatile}. Puoi usare un ariete portatile per abbattere le porte. Nel farlo, ottieni un bonus di +1d6 alle prove di Forza. Un altro personaggio può aiutarti con l’uso dell’ariete, dandoti +2 sulla prova.
 
 \textbf{Attrezzatura da Pesca}. Questo kit comprende un’asta di legno, filo di seta, taglierino di legno, ami d’acciaio, peso di piombo, esche di velluto e un retino.
+
+\textbf{Bandoliera}. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo. Estrarre un oggetto da essa costa 1 Azione, come se fosse alla cintura.
 
 \textbf{Biglie di Metallo}. Con un’azione, puoi spargere una singola borsa di queste minuscole biglie di metallo per coprire un’area piana quadrata di 3 metri di lato. Una creatura che attraversa l’area coperta deve superare un Tiro Salvezza su Riflessi con DC 12 o cadere prona. Una creatura che attraversa l’area a metà velocità non deve effettuare il Tiro Salvezza.
 
@@ -14161,7 +14167,7 @@ peso che puoi normalmente sollevare.
 \end{center}
 
 
-\textbf{Fuoco dell’Alchimista}. Questo fluido appiccicoso si incendia quando entra a contatto con l’aria. Con due azioni, puoi lanciare questa ampolla fino a 6 metri, fracassandola all’impatto. Effettua un Tiro per Colpire a distanza contro la creatura o l’oggetto, trattando il fuoco dell’alchimista come un’arma improvvisata. Se colpisci, il bersaglio subisce 1d6 danni da fuoco all’inizio di ciascun suo round. Una creatura può porre fine a questi danni spendendo due Aziono e superando una prova di Destrezza con DC 12. Se la prova riesce le fiamme si estinguono.
+\textbf{Fuoco Alchemico}. Questo fluido appiccicoso si incendia quando entra a contatto con l’aria. Con due azioni, puoi lanciare questa ampolla fino a 6 metri, fracassandola all’impatto. Effettua un Tiro per Colpire a distanza contro la creatura o l’oggetto, trattando il fuoco alchemico come un’arma improvvisata. Se colpisci, il bersaglio subisce 1d6 danni da fuoco all’inizio di ciascun suo round. Una creatura può porre fine a questi danni spendendo due Aziono e superando una prova di Destrezza con DC 12. Se la prova riesce le fiamme si estinguono.
 
 \textbf{Kit da Guaritore}. Questo kit è una borsa di cuoio contenente bende, unguenti e stecche. Il kit può essere usato dieci volte. Concede un +2 alle prove di pronto soccorso.
 
@@ -14203,7 +14209,7 @@ Le manette hanno 15 Punti Ferita e Durezza 2
 \textbf{Serratura}. Insieme alla serratura viene fornita una chiave. Senza la chiave, una creatura può scassinare questa serratura superando una prova di Disattivare Congegni con DC 17. Il Narratore può decidere che per cifre maggiori sono disponibili serrature di qualità migliore.
 
 \begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/serratura.png}
+\includegraphics[width=0.6\linewidth]{immagini/serratura.png}
 \end{center}
 
 \textbf{Simbolo Sacro}. Un simbolo sacro è la raffigurazione di un Patrono. Potrebbe essere un amuleto che raffigura il simbolo di un Patrono, lo stesso simbolo accuratamente inciso o intrecciato su di un emblema o scudo, o una minuscola scatola contenente una reliquia sacra.
@@ -19102,9 +19108,9 @@ Creare un bastone richiede 1 giorno per ogni 1.000 mo del prezzo base.
 
 Esistono due tipologie di Pergamene magiche, quelle eseguibili da tutti (dette ISY SCROLL, o Facili) e quelle invece che richiedono la capacità magica di lanciare incantesimi, ovvero Competenza Magica maggiore o uguale a 1.
 
-Le pergamene facili hanno un costo di produzione pari a livello*livello*160.
+Le pergamene facili hanno un costo di produzione pari a livello*livello*160 mo.
 
-Le pergamene normali, non facili, hanno un costo di produzione pari a livello*livello*80
+Le pergamene normali, non facili, hanno un costo di produzione pari a livello*livello*80 mo.
 
 Il costo della pergamena va valutato in base alla rarità e livello dell'incantesimo. Un incantesimo molto raro o di alto livello può facilmente costare livello*livello*livello*80.
 
@@ -19116,7 +19122,7 @@ Se una pergamena include più incantesimi il costo è pari alla somma dei vari i
 
 L'incantatore deve conoscere gli incantesimi che inserisce nella pergamena. Per preparare una pergamena è necessario 30 minuti di lavoro per livello di incantesimo presente.
 
-Una pergamena ISY può contenere incantesimi di livello 3 come massimo, mentre una pergoamento normale può contenere come massimo livello di incantesimo 9, in caso di più incantesimi il massimo livello è 8.
+Una pergamena ISY può contenere incantesimi di livello 3 come massimo, mentre una pergamena normale può contenere come massimo livello di incantesimo 9, in caso di più incantesimi il massimo livello è 8.
 
 \medskip
 
@@ -19124,7 +19130,7 @@ Per leggere una pergamena è necessario:\\
 
 \textbf{in caso di pergamene ISY SCROLL}:
 
-- per comprendere il contenuto è sufficiente una prova di Arcana a difficoltà DC 10
+- per comprendere il contenuto è sufficiente una prova di Intelligenza (o Arcana se conosciuta) a difficoltà DC 10
 
 - per poter leggere e lanciare l'incantesimo della pergamena è necessaria una prova di Intelligenza (o Arcana se conosciuta) a difficoltà 12.\\
 
@@ -43771,7 +43777,7 @@ Una creatura può attraversare una zona occupata da una creatura paralizzata (o 
 
 \textbf{Pietrificato}: \index{Pietrificato}Un personaggio pietrificato è stato trasformato in pietra ed è privo di sensi ed Indifeso. Se un personaggio pietrificato si incrina o si rompe, ma i pezzi rotti sono uniti al corpo quando ritorna di carne, il personaggio non viene ferito o danneggiato. Se il corpo pietrificato del personaggio è incompleto quando viene ritrasformato in carne, il corpo rimane incompleto e potrebbe avere una qualche perdita permanente di Punti Ferita e/o altre menomazioni.
 
-\textbf{Paura}:\index{Paura} Incantesimi, Oggetti Magici e certe creature possono influenzare i personaggi con paura. In molti casi, il personaggio deve effettuare un Tiro Salvezza su Volontà per resistere agli effetti, e un tiro fallito indica che il personaggio è scosso, spaventato o in preda al panico.
+\textbf{Paura}:\index{Paura} Incantesimi, Oggetti Magici e certe creature possono influenzare i personaggi con paura. In molti casi, il personaggio deve effettuare un Tiro Salvezza su Volontà per resistere agli effetti, e un tiro fallito indica che il personaggio è Scosso, Spaventato o In preda al Panico.
 
 \textbf{Prono}\index{Prono}: chi è prono ha un -1d6 ad attaccare ed un -4 alla Difesa. Alzarsi da prono costa 2 Azioni.
 L'unica opzione di movimento per una creatura prona è di strisciare (terreno difficile), a meno che non si rialzi e ponga termina alla sua condizione. Per alzarsi spende 2 Azioni.
@@ -43791,13 +43797,13 @@ A parte ciò, una volta che sono fuori vista (o udito) dalla fonte della loro pa
 
 I personaggi che non sono in grado di fuggire possono combattere (anche se continuano ad essere scossi).
 
-\textbf{Stordito/Svenuto}:\index{Stordito}\index{Svenuto} si considera che sia Indifeso.
-
 \textbf{In Preda al Panico}:\index{In Preda al Panico} I personaggi in preda al panico sono scossi e, inoltre, hanno una probabilità del 50\% di far cadere a terra qualsiasi cosa stanno tenendo in mano e di fuggire dalla fonte del loro terrore il più in fretta possibile seguendo un percorso di fuga completamente casuale.
 
 I personaggi in preda al panico fuggono davanti a qualsiasi altro pericolo che possano trovarsi di fronte. A parte ciò, una volta che sono fuori vista (o udito) dalla fonte della loro paura, possono agire normalmente.
 
 I personaggi in preda al panico prendono anche la condizione Accovacciato se non possono fuggire.
+
+\textbf{Stordito/Svenuto}:\index{Stordito}\index{Svenuto} si considera che sia Indifeso.
 
 \textbf{Trattenere} il fiato: COS*6 round. Ogni Azione -1 round. Incantesimo -3 round. Poi Tiro salvezza su Tempra DC 12 +1 per round.
 
