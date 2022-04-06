@@ -26,3 +26,5 @@ Ho creato un canale Telegram per parlare e confrontarsi su [OBSS](https://t.me/o
 Buon Divertimento e Buon Gioco!
 
 Andres
+
+[![Github All Releases](https://img.shields.io/github/downloads/TUS/OBSS/total.svg)]()
