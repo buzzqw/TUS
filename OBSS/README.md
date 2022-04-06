@@ -31,7 +31,8 @@ Andres
 
 [![Github all releases](https://img.shields.io/github/downloads/TUS/OBSS/OBSS.pdf/total.svg)](https://github.com/buzzqw/TUS/releases)
 
-[![Github All Releases](https://img.shields.io/github/downloads/TUS/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/TUS/OBSS/OBSS.pdf/total.svg)]()
+
 [![Github All Releases](https://img.shields.io/github/downloads/TUS/OBSS/total.svg)]()
 
 
