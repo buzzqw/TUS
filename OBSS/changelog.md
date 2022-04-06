@@ -118,7 +118,7 @@
 
 05/04/2022 aggiornata versione POD
 
-*0.40* pubblicata versione 0.39, aggiornata copertina, lo scheletro dimezza i danni da taglio e perforanti anche se da arma magica, allineata indicazioni arma/armi +1 in immunita',
+*0.40* pubblicata versione 0.39, aggiornata copertina, lo scheletro dimezza i danni da taglio e perforanti anche se da arma magica, allineata indicazioni arma/armi +1 in immunita', la telepatia funziona anche in zone non magiche, riletto capitolo introduttivo mostruario con piccoli chiarimenti, reso piu' chiaro indicazione resistenza alle armi nei mostri, 
 
 
 -aggiunti \label{} fino a famiglio
