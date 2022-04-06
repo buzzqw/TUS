@@ -29,6 +29,7 @@ Andres
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
-[![Github All Releases](https://img.shields.io/github/downloads/buzzqw/TUS/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/buzzqw/TUS/total.svg)]()  [![TUS download month](https://img.shields.io/github/downloads/buzzqw/TUS/total.svg)]
+
 
 
