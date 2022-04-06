@@ -27,4 +27,4 @@ Buon Divertimento e Buon Gioco!
 
 Andres
 
-[![Github All Releases](https://img.shields.io/github/downloads/TUS/OBSS/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/TUS/TUS/total.svg)]()
