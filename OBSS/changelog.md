@@ -118,7 +118,7 @@
 
 05/04/2022 aggiornata versione POD
 
-*0.40* pubblicata versione 0.39, aggiornata copertina, lo scheletro dimezza i danni da taglio e perforanti anche se da arma magica, allineata indicazioni arma/armi +1 in immunita', la telepatia funziona anche in zone non magiche, riletto capitolo introduttivo mostruario con piccoli chiarimenti, reso piu' chiaro indicazione resistenza alle armi nei mostri, 
+*0.40* pubblicata versione 0.39, aggiornata copertina, lo scheletro dimezza i danni da taglio e perforanti anche se da arma magica, allineata indicazioni arma/armi +1 in immunita', la telepatia funziona anche in zone non magiche, riletto capitolo introduttivo mostruario con piccoli chiarimenti, reso piu' chiaro indicazione resistenza alle armi nei mostri, aggiunta regola opzionale per mantenere piu' incantesimo contemporaneamente in concentrazione, chiarimenti su contro incantesimo, modificata incantesimo capanna, quando una persona va pf negativi e viene curato aumenta di 1 il livello di affaticamento, modificata prova di magia per imparare incantesimi di livello superiore se si e' devoti,
 
 
 -aggiunti \label{} fino a famiglio
