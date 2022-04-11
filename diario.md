@@ -1,3 +1,17 @@
+**11/04/2022**
+
+Le ultime due sessioni non hanno apportato modifiche, solo un chiarimento sull'essere afferrato e cosa comporta alla Difesa e Tiri Salvezza.
+E cio' e' bene.
+Il sistema si sta dimostrando maturo e completo. Richiede un approccio consapevole, ma come tutti i nuovi giochi, specialmente di ruolo, non deve mai essere dato per scontato.
+O meglio, nella mia idea di gioco di ruolo perfetto le regole devono essere il framework su dove il Narratore lavora, non sono le "regole" del gioco, ma i mattoni su cui costruire l'avventura.
+Poche basi che servono a tutto; un po' utopico, specialmente in un manuale di 568 pagine.. (che pero' comprende 177 pagine di mostri, 83 di incantesimi, 51 di oggetti magici...)
+
+Rimane il fatto che sono orgoglioso di OBSS, penso che abbia delle ottime potenzialita' espresse anche nelle decine di regole opzionali presenti. regole che rendono il gioco sempre diverso, dinamico e adattabile ai vari stili di gioco.
+
+Voglio pubblicare la 0.40 velocemente, so gia' che e' un errore, ed il giorno dopo se non il giorno stesso usciro' con ulteriori modifiche.. oltretutto fra poco incomincero' una nuova serie di avventure con personaggi diversi quindi e' probabile che mi si presentino situazioni alternative a quelle gia' capitate e "gestite" nel manuale!
+Ma va bene cosi', finche' lavoro su OBSS sono soddisfatto, quando non ci lavorero' spero solo di voler incominciare subito il seguito "Dark Catacomb"
+
+
 **29/03/2022**
 
 Vorrei dire di essere alle battute finali ... ma non ne sono mai cosi' certo.
