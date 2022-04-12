@@ -2504,7 +2504,7 @@ E' possibile usare un Azione di Attacco e Lanciare un Incantesimo solo se è suf
 
 \textbf{Azione di Movimento*}: un Azione di Movimento è una Azione dedicata a spostarsi. Ci si può spostare fino a tutto il proprio movimento (9 metri per umani, 6 metri per nani..).
 
-\textbf{Lanciare un Incantesimo*}: solitamente sono necessarie 2 Azioni. Nella descrizione dell'incantesimo è indicato il numero di Azioni necessarie. Nel capitolo della Magia sono specificate le \hyperlink{piumagieround}{regole}.
+\textbf{Lanciare un Incantesimo*}: solitamente sono necessarie 2 Azioni. Nella descrizione dell'incantesimo è indicato il numero di Azioni necessarie. Nel capitolo della Magia sono specificate le \hyperlink{piumagieround}{regole} (pag. \pageref{piumagieround}).
 
 \textbf{Scambiare un dialogo con qualcuno*}: Un dialogo può essere di pochi secondi se non di minuti. Il Narratore valuterà quanto questo dura.
 
@@ -5874,7 +5874,7 @@ Il famiglio può trasmettere l'Incantesimo proprio come il padrone. E' necessari
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{Q}{este} Abilità non sono selezionabili da parte del giocatore, bensì possono essere innate nelle creature.
 
-\subsection{Etereo}\index{Etereo}
+\subsection{Etereo}\index{Etereo}\label{etero}
 
 
 Una creatura diventata Eterea è situata nel Piano Etereo che è sovrapposto a quello Materiale.
@@ -5885,7 +5885,7 @@ Gli Incantesimi se non opportunamente formulati e modificati non agiscono su cre
 
 Una creatura eterea non può attaccare una creatura materiale ed Incantesimi lanciati mentre ci si trova in condizione di etereo possono influenzare solo elementi eterei. Alcune creature o oggetti materiali hanno attacchi o effetti speciali che funzionano anche sul Piano Etereo. Una creatura eterea considera tutte le altre creature eteree come se tutti fossero materiali.
 
-\subsection{Resistenza al Danno}\index{Resistenza al Danno}
+\subsection{Resistenza al Danno}\index{Resistenza al Danno}\label{resistenzaaldanno}
 
 Determinate creature o protezioni conferiscono la capacità di Resistere ad una tipologia di Danno.
 
@@ -5898,7 +5898,7 @@ Un creatura con una Resistenza al Fuoco dimezza (riduce) tutto il danno che rice
 Possono esistere abilità o incantesimi che ignorano questa Resistenza. Più resistenze uguali non si sommano, per il fatto che due oggetti mi danno resistenza al fuoco non riduco ad un quarto il danno, se ne applica solo una.
 Se una capacità ignora la resistenza al danno passerà la resistenza anche se ho due fonti di resistenza.
 
-\subsection{Riduzione del Danno - DR}\index{Riduzione del Danno}
+\subsection{Riduzione del Danno - DR}\index{Riduzione del Danno}\label{resistenzaaldannodr}
 
 Determinate creature o Abilità conferiscono la capacità soprannaturale di resistere al danno di certe tipologie di armi o fino ad un certo ammontare (per attacco).
 
@@ -5935,7 +5935,7 @@ Adamantio               & +3              & Livello 12\\
 
 \textbf{Proiettili (frecce, dardi, sassi) tirati da armi magiche NON sono considerati magiche.}\index{Frecce magiche}
 
-\subsection{Resistenza alla Magia}\index{Resistenza alla Magia}
+\subsection{Resistenza alla Magia}\index{Resistenza alla Magia}\label{resistenzaallamagia}
 
 Viene indicata come Resistenza alla Magia (oppure con la sigla RM) seguita da un numero. La creatura non e' influenzata da incantesimi di quel livello o meno. Un incantesimo viene considerato di un livello superiore per ogni Critico magico ottenuto nella Prova di Magia.
 
@@ -5943,13 +5943,15 @@ Pur se non influenzata dagli effetti diretti viene comunque interessata dagli ef
 
 La Resistenza alla Magia non può essere abbassata neanche dalla creatura che la possiede.
 
-\subsection{Immunita' al danno}\index{Immunità al danno}
+\subsection{Immunita' al danno}\index{Immunità al danno}\label{immunitaaldanno}
 
 E' estremamente raro ma ci sono creature o effetti magici che rendono immune ad una forma di danno, possa essere fisica (danno da arma..) o magica (le varie forme di energia).
 
 Una creatura immune ad una forma di danno non subisce danno da quell'attacco. Una creatura che ha invece la capacità di avere i propri danni irresistibili, ovvero che non possono essere ridotti da resistenza, penetrerà solo in parte l'immunità della creatura rendendola soltanto resistente a quel danno.
 
-\subsection{Vulnerabilita' al Danno}\index{Vulnerabilità al Danno}
+Una creatura che riporta "Immunità al Danno Vuoto, Veleno; armi +2" significa che e' immune al danno da Vuoto, da Veleno e che per ferirlo serve un arma con un bonus magico +3 o superiore, oppure un personaggio che attacchi con armi naturali e sia di livello 12 o superiore oppure che abbia preso la Lista d'Armi Pugno Vuoto almeno 6 volte (vedi pag. \pageref{equivalenzaarmimagiche}).
+
+\subsection{Vulnerabilita' al Danno}\index{Vulnerabilità al Danno}\label{vulnerabilitadanno}
 
 Determinate creature o magie rendono più efficaci alcuni effetti causando maggiore danno al soggetto vulnerabile.
 
@@ -5957,33 +5959,31 @@ Essere Vulnerabili ad un tipo specifico di Danno significa automaticamente raddo
 
 Un creatura con una Vulnerabilità al Fuoco raddoppia tutto il danno subito poi se possibile effettua il Tiro Salvezza indicato dall'incantesimo o effetto.
 
-\subsection{Paura}\index{Paura}
-
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/the-scream.png}
-
-\textit{L'urlo (titolo originale: Skrik)\\Edvard Munch - Data 1893–1910}
-\end{center}
-
+\subsection{Paura}\index{Paura}\label{paura}
 
 Incantesimi, Oggetti Magici e certe creature possono influenzare i personaggi con paura. In molti casi, il personaggio deve effettuare un Tiro Salvezza su Volontà per resistere agli effetti, e un tiro fallito indica che il personaggio è \textbf{Scosso}. Successivi Tiri Salvezza o effetti di paura porteranno il personaggio nello stato di \textbf{Spaventato} e poi in \textbf{Preda al Panico}.
 
-\textbf{Scosso}\index{Scosso}
+\textbf{Scosso}\index{Scosso}\label{scosso}
 
 I personaggi che sono scossi subiscono penalità di -2 ai Tiri per Colpire, ai Tiri Salvezza e alle prove di competenza.
 
-\textbf{Spaventato}\index{Spaventato}
+\textbf{Spaventato}\index{Spaventato}\label{spaventato}
 
 I personaggi spaventati sono anche scossi, e inoltre fuggono dalla fonte della loro paura il più velocemente possibile, anche se possono scegliere la direzione di fuga. A parte ciò, una volta che sono fuori vista (o udito) dalla fonte della loro paura, possono agire normalmente. Se la durata della paura non è ancora arrivata al termine, qualora dovessero incontrare di nuovo la fonte della loro paura, cercherebbero nuovamente di fuggire. I personaggi che non sono in grado di fuggire possono combattere (anche se continuano ad essere scossi).
 
-\textbf{In Preda al Panico}\index{In Preda al Panico}
+\begin{center}
+	\includegraphics[width=0.8\linewidth]{immagini/the-scream.png}
+	
+	\textit{L'urlo (titolo originale: Skrik)\\Edvard Munch - Data 1893–1910}
+\end{center}
+
+\textbf{In Preda al Panico}\index{In Preda al Panico}\label{inpredaalpanico}
 
 I personaggi in preda al panico sono scossi e, inoltre, hanno una probabilità del 50\% di far cadere a terra qualsiasi cosa stanno tenendo in mano, e di fuggire dalla fonte del loro terrore il più in fretta possibile seguendo un percorso di fuga completamente casuale. I personaggi in preda al panico fuggono davanti a qualsiasi altro pericolo che possano trovarsi di fronte.
 
 A parte ciò, una volta che sono fuori vista (o udito) dalla fonte della loro paura, possono agire normalmente. I personaggi in preda al panico prendono anche la condizione Accovacciato se non possono fuggire.
 
-\subsection{Paralizzato}\index{Paralizzato}
-
+\subsection{Paralizzato}\index{Paralizzato}\label{paralizzato}
 
 Un personaggio paralizzato è bloccato sul posto ed è incapace di muoversi od agire
 
@@ -5993,7 +5993,7 @@ Ha punteggi effettivi di Forza e Destrezza pari a 0, è \hyperlink{morente}{Indi
 
 \pagebreak
 
-\section{La Magia}\index{Magia}
+\section{La Magia}\index{Magia}\label{lamagia}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 La magia non è nel pendolino, ma in chi lo usa. (NCIS - Unità anticrimine)\\
@@ -6036,13 +6036,13 @@ Comunque non preoccuparti, in questo capitolo è scritto tutto quello che ti ser
 
 \end{center}
 
-\subsection{Le caratteristiche degli incantesimi}\index{Le caratteristiche degli incantesimi}
+\subsection{Le caratteristiche degli incantesimi}\index{Le caratteristiche degli incantesimi}\label{caratteristicheincantesimi}
 
 La descrizione di ciascun incantesimo inizia con un blocco di informazioni che comprende il livello, Liste di Magia, tempo di lancio, gittata, componenti e durata dell'incantesimo. Il resto della descrizione ci informa dell'effetto dell'incantesimo.
 
 Quando un personaggio lancia qualsiasi incantesimo, si usano le seguenti regole base indipendentemente dall'effetto dell'incantesimo.
 
-\subsubsection{Tempo di Lancio}\index{Tempo di Lancio Incantesimi}
+\subsubsection{Tempo di Lancio}\index{Tempo di Lancio Incantesimi}\label{magietempodilancio}
 
 La maggior parte degli incantesimi possono essere lanciati con due Azioni. Alcuni incantesimi richiedono un'Azione Immediata, una Reazione o molto più tempo per essere lanciati.
 
@@ -6058,7 +6058,7 @@ Alcuni incantesimi possono essere lanciati come Reazioni. Questi incantesimi ric
 
 Certi incantesimi richiedono più tempo per essere lanciati: minuti o addirittura ore. Quando lanci un incantesimo con tempo di lancio più lungo di due Azioni, devi spendere una azione ogni round successivo per mantenere l'incantesimo, ovvero mantenere la concentrazione (vedi "Concentrazione" di seguito). Se vuoi tentare di lanciare l'incantesimo di nuovo, dovrai ricominciare da capo. L'iniziativa può essere lanciata l'ultimo round di lancio quando l'incantesimo si manifesta.
 
-\subsubsection{Le Liste di Magia}\hypertarget{lescuoledimagia}{} \index{Le Liste di Magia}
+\subsubsection{Le Liste di Magia}\hypertarget{lescuoledimagia}{} \index{Le Liste di Magia}\label{magielistadimagia}
 
 Le tradizioni magiche in tutto Yeru hanno formalizzato nel corso dei millenni gli incantesimi in liste omogenee per tipologia ed effetto. Ci sono quindi liste che riguardano il Fuoco, o altri elementi, le illusioni, le energie curative...
 
@@ -6129,13 +6129,13 @@ In OBSS solo un Patrono ha sufficiente potere per poter riportare in vita un mor
 \end{changemargin}
 
 
-\subsubsection{Gittata}\index{Gittata}
+\subsubsection{Gittata}\index{Gittata}\label{magiegittata}
 
 Il bersaglio di un incantesimo deve essere nella gittata dell'incantesimo. Per un incantesimo come dardo incantato, il bersaglio è una creatura. Per un incantesimo come palla di fuoco, il bersaglio è il punto nello spazio da cui la sfera di fuoco esplode. La maggior parte degli incantesimi hanno una gittata espressa in metri. Alcuni incantesimi possono prendere a bersaglio solo una creatura (te compreso) con cui sei in contatto fisico. Altri incantesimi, come l'incantesimo scudo, agiscono solo su di te: questi incantesimi hanno come gittata personale. Un incantesimo che ha come area di effetto "un alleato" può essere lanciato anche su se stesso.
 
 Gli incantesimi che creano coni o linee di effetto che originano da te, hanno anch'essi gittata personale, a indicare che sei tu il punto di origine dell'effetto dell'incantesimo (vedi "Aree di Effetto" più avanti in questo capitolo).
 
-\subsubsection{Lanciare Incantesimi in Armatura}\index{Lanciare Incantesimi in Armatura}
+\subsubsection{Lanciare Incantesimi in Armatura}\index{Lanciare Incantesimi in Armatura}\label{magielanciareincantesimiinarmatura}
 
 Data la concentrazione mentale e i gesti precisi richiesti l'armatura distrae e sbilancia i flussi. La Prova di Magia nel lancio dell'incantesimo viene modificata come indicato nella sezione delle \hyperlink{armatureemagie}{armature}.
 
@@ -6144,7 +6144,7 @@ Data la concentrazione mentale e i gesti precisi richiesti l'armatura distrae e 
 L'armatura blocca i flussi magici e non permette la canalizzazione corretta.
 Questa opzione prevede tutti gli incantesimi lanciati dall'incantatore diventino con Gittata a tocco, ovvero scaricabili solo tramite la mano dell'incantatore. Non sono richieste Prove di Magia.
 
-\subsubsection{Durata}\index{Durata Incantesimi}
+\subsubsection{Durata}\index{Durata Incantesimi}\label{magiedurata}
 
 La durata di un incantesimo è la lunghezza di tempo per cui esso persiste. La durata può essere espressa in round, minuti, ore o addirittura anni. Alcuni incantesimi specificano che i loro effetti durano finché l'incantesimo non viene dissolto o distrutto. Un incantesimo può essere interrotto dal proprio incantatore come azione immediata.
 
@@ -6164,7 +6164,7 @@ Alcuni incantesimi richiedono che tu mantenga la concentrazione per tenerne la m
 Normali attività, come muoversi e attaccare, non interferiscono con la concentrazione. Mantenere la concentrazione costa 1 Azione a round.
 \end{itemize}
 
-\subsubsection{Componenti}\index{Componenti}
+\subsubsection{Componenti}\index{Componenti}\label{magiecomponenti}
 
 Le componenti di un incantesimo sono i requisiti fisici che devi soddisfare per lanciarlo. La descrizione di ciascun incantesimo indica se richieda componenti verbali (V), somatiche (S) o materiali (M). Se non sei in grado di fornire una o più delle componenti dell'incantesimo, non potrai lanciarlo.
 
@@ -6183,11 +6183,11 @@ Lanciare taluni incantesimi richiede oggetti particolari,specificati tra parente
 Se un incantesimo indica che la componente materiale viene consumata dall'incantesimo, l'incantatore deve fornire questa componente per ogni lancio dell'incantesimo.
 Un incantatore deve avere una mano libera per avere accesso a queste componenti, ma può essere la stessa mano utilizzata per eseguire le componenti somatiche.
 
-\subsubsection{Essere inabile o ucciso}\index{Essere inabile o ucciso per la Magia}
+\subsubsection{Essere inabile o ucciso}\index{Essere inabile o ucciso per la Magia}\label{magieessereucciso}
 
-Perdi la concentrazione su di un incantesimo se svieni o muori. Se scendi sotto gli zero Punti Ferita perdi la metà dei Punti Magia rimanenti, con un minimo di 10 punti persi.
+Perdi la concentrazione su di un incantesimo se svieni o muori. Se scendi sotto gli zero Punti Ferita perdi la metà dei Punti Magia rimanenti, con un minimo di 10 punti persi. Tutti gli incantesimi su cui stai tenendo la concentrazione vengono interrotti.
 
-\subsubsection{Bersagli}\index{Bersagli}
+\subsubsection{Bersagli}\index{Bersagli}\label{magiebersagli}
 
 Un normale incantesimo richiede che tu scelga uno o più bersagli che siano affetti dalla sua magia. La descrizione dell'incantesimo ti dice se l'incantesimo prende a bersaglio creature, oggetti o un punto di origine per generare un'area di effetto (descritta di seguito). A meno che l'incantesimo non abbia un effetto percepibile, una creatura potrebbe non capire mai di essere stata bersaglio di un incantesimo. Un effetto come un fulmine crepitante è palese, ma un effetto più subdolo, come il tentativo di leggere i pensieri di una creatura, di solito non viene notato, a meno che l'incantesimo non dica altrimenti.
 
@@ -6207,7 +6207,7 @@ Se un incantesimo prende come bersaglio una creatura a tua scelta od un alleato,
 %	\textit{Tarocchi - L'Impiccato}
 %\end{center}
 
-\subsubsection{Aree di Effetto}\index{Area di Effetto incantesimi}
+\subsubsection{Aree di Effetto}\index{Area di Effetto incantesimi}\label{magieareedieffetto}
 
 Incantesimi come mani brucianti e cono di freddo coprono un'area, permettendogli di colpire più creature alla volta.
 
@@ -6240,17 +6240,17 @@ Una palla di fuoco che viene generata in una stanza di 9x9 m ne prenderà una bu
 
 \end{itemize}
 
-\subsubsection{Rarità degli Incantesimi}\index{Rarità degli Incantesimi}
+\subsubsection{Rarità degli Incantesimi}\index{Rarità degli Incantesimi}\label{magieraritaincantesimi}
 
 Su alcuni Incantesimi è indicata la Rarità ovvero quanto è probabile trovare questo incantesimo o quanto può essere conosciuto. La rarità dipende non solo dal livello stesso dell'incantesimo, ovviamente gli incantesimi più potenti sono anche i più rari, ma anche da quanto normalmente sono diffusi e conosciuti nella lista. Il Narratore userà questa scala per valutare cosa può essere trovato più facilmente: Comune (60\%) - Non Comune (24\%) - Raro (10\%) - Molto Raro (5\%) - Leggendario (1\%).
 
-\subsubsection{Combinare Effetti Magici}\index{Combinare Effetti Magici}
+\subsubsection{Combinare Effetti Magici}\index{Combinare Effetti Magici}\label{magiecombinareeffettimagici}
 
 Gli effetti di incantesimi diversi si sommano fino a che la loro durata si sovrappone. Tuttavia, gli effetti dello stesso incantesimo o che danno lo stesso bonus lanciato più volte sullo stesso bersaglio non si combinano. Sarà invece l'incantesimo più potente fra quelli lanciati (per esempio quello che e' costato più Punti Magia) ad applicarsi finché le durate si sovrappongono.
 
 In caso di effetti istantanei gli effetti agiscono singolarmente se agiscono nel medesimo segmento di iniziativa. Es. Se vengo colpito da un fulmine a segmento di iniziativa 4 e poi da un altro fulmine a segmento di iniziativa 8 farò due distinti Tiri Salvezza con relativa gestione del danno.
 
-\subsection{Regole di base}\index{Regole Base per la Magia}
+\subsection{Regole di base}\index{Regole Base per la Magia}\label{magieregoledibase}
 
 \begin{itemize}
 
@@ -6276,7 +6276,7 @@ Un Seguace ottiene +1d6 alle Prove di Magia nelle scuole preferita dal Patrono. 
 Un Devoto aggiunge +1d6 alle Prova di Magia nelle scuole preferite dal Patrono e può ignorare un dado tirato nella Prova di Magia. Deve usare l'energia preferita del Patrono nei suoi incantesimi.
 \end{itemize}
 
-\subsubsection{Prova di Magia}\index{Prova di Magia}\index{Successo critico magico}\index{Fallimento critico magico}
+\subsubsection{Prova di Magia}\index{Prova di Magia}\index{Successo critico magico}\index{Fallimento critico magico}\label{magieprovadimagia}
 
 Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni e bene, anzi agisca oltre le sue normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un \textit{\textbf{Prova di Magia}} e tirare \textbf{3d6 + 1d6 ogni 4 punti di Competenza Magica} + eventuali bonus.
 
@@ -6297,7 +6297,7 @@ Pagando un costo in punti magia aggiuntivo l'incantatore può ignorare gli 1 o d
 Un incantatore può anche volontariamente fallire la Prova di Magia.
 
 
-\subsubsection{Accesso alle Liste di Magia}\hypertarget{scuoleelivelli}{}\index{Livello Incantesimi per Abilità}
+\subsubsection{Accesso alle Liste di Magia}\hypertarget{scuoleelivelli}{}\index{Livello Incantesimi per Abilità}\label{magieaccessoallelistedimagia}
 
 Il numero di volte che viene presa l'Abilità \hyperlink{scuoladimagia}{Adepto della Magia} sulla stessa Lista di Magia stabilisce, assieme alla Competenza Magica ed al punteggio di Caratteristica collegato alla Lista, il massimo livello di incantesimo lanciabile da quella Lista di Magia, come indicato nella tabella.
 
@@ -6334,7 +6334,7 @@ CM&\multicolumn{4}{c}{Adepto della magia}&Valore&Livello Inc.\\
 Il livello massimo di incantesimo che trovate deve essere verificato con il punteggio di Caratteristica, della Lista Magia, minimo necessario. Nell'esempio precedente, devo avere Forza 3 o più per lanciare incantesimi di 6 livello, altrimenti si può lanciare fino al livello che il punteggio di Caratteristica mi concede. Qui l'elenco delle \hyperlink{elencoscuole}{Liste di Magia} con i loro incantesimi e la loro \hyperlink{lescuoledimagia}{descrizione}
 
 
-\subsubsection{Opzionale - Magia Suprema}\index{It's over 9000!}\index{Opzionale - Magia Suprema}
+\subsubsection{Opzionale - Magia Suprema}\index{It's over 9000!}\index{Opzionale - Magia Suprema}\label{}\label{opzionalemagiasuprema}
 Per gestire una magia di altissimo livello fatta da incantatori supremi o altamente specializzati possono essere applicate una di queste regole.
 
 - \textbf{Magia Suprema}\index{Magia suprema}\hypertarget{magiasuprema}{}: se si vuole che gli incantatori di alto livello dominino la magia nella maniera più completa stabilite che ogni 6 punti di Competenza Magica il giocatore possa ignorare un dado tirato nella Prova di Magia.
@@ -6352,7 +6352,7 @@ Per gestire una magia di altissimo livello fatta da incantatori supremi o altame
 %\end{center}
 
 
-\subsubsection{Fallimento Critico nella Prova della Magia}\index{Fallimento Critico nella Prova della Magia}
+\subsubsection{Fallimento Critico nella Prova della Magia}\index{Fallimento Critico nella Prova della Magia}\label{magiefallimentocriticonellaprovadimagia}
 
 Se la Prova di Magia ha avuto un fallimento critico magico tira 3d6 e consulta la seguente tabella. Per ogni fallimento critico magico aggiuntivo al primo sottrai 1d6, fino a tirare un solo 1d6 per verificarne gli effetti.
 
@@ -6388,7 +6388,7 @@ Se la Prova di Magia ha avuto un fallimento critico magico tira 3d6 e consulta l
 
 \bigskip
 
-\subsubsection{I Punti Magia}\index{I Punti Magia}
+\subsubsection{I Punti Magia}\index{I Punti Magia}\label{magiepuntimagia}
 
 A seconda del punteggio in Competenza Magica l'incantatore ha a disposizione un certo ammontare di Punti Magia.
 
@@ -6427,11 +6427,11 @@ Se volete un approccio più difficile, per ogni grado di Affaticamento si recupe
 \end{narratore}\end{changemargin}
 
 
-\subsubsection{Quando si hanno pochi Punti Magia}\index{Quando si hanno pochi Punti Magia}\hypertarget{quandosihannopochipuntimagia}{}
+\subsubsection{Quando si hanno pochi Punti Magia}\index{Quando si hanno pochi Punti Magia}\hypertarget{quandosihannopochipuntimagia}{}\label{magiequandosihannopochipuntimagia}
 
 Quando l'incantatore scende sotto il 50\% dei Punti Magia a disposizione ogni ulteriore lancio di incantesimi deve essere fatto con una Prova di Magia.
 
-\subsubsection{Successo Critico Automatico magico}\index{Successo Critico Automatico magico}\index{Nova}
+\subsubsection{Successo Critico Automatico magico}\index{Successo Critico Automatico magico}\index{Nova}\label{magienova}
 
 L'incantatore può decidere di spendere in aggiunta il doppio dei Punti Magia normali dell'incantesimo per avere in automatico un successo critico magico.
 La scelta può essere fatta più volte e ogni volta il costo dell'incantesimo raddoppia rispetto al precedente. E' necessaria superare una Prova di Magia.
@@ -6442,13 +6442,13 @@ Es. Palla di Fuoco, voglio che faccia 2 critici magici, pago 4 Punti Magia per l
 
 Non si possono spendere più di metà dei Punti Magia posseduti per potenziare un incantesimo.
 
-\subsubsection{Lanciare più volte il medesimo incantesimo}\index{Lanciare più volte il medesimo incantesimo}
+\subsubsection{Lanciare più volte il medesimo incantesimo}\index{Lanciare più volte il medesimo incantesimo}\label{magielanciarepiuvolteincantesimo}
 
 Ogni volta che viene lanciato un incantesimo già usato nel giorno il costo in Punti Magia aumenta del medesimo costo. Es. lancio la prima volta la Palla di Fuoco (4 Punti Magia), la seconda volta costerà 8 Punti Magia, la terza 12, poi 16...
 
 Questo effetto non si ha con il lancio dei Trucchetti.
 
-\subsubsection{Il Tomo della Magia}\index{Tomo della Magia}\index{Il Tomo della Magia}
+\subsubsection{Il Tomo della Magia}\index{Tomo della Magia}\index{Il Tomo della Magia}\label{magietomodellamagia}
 
 Se i Patroni garantiscono l'accesso alla fonte della magia è solo l'applicazione di antichi riti e formule che permette di manifestare questa energia grezza in una forma ed espressione che chiamiamo incantesimo.
 
@@ -6491,13 +6491,13 @@ Tramite un rito magico difficile e costoso potrà per un solo giorno sostituire 
 Gli incantesimi diventano oggetti e premi magici a tutti gli effetti. Sfruttate la sete di conoscenza e potere dei personaggi per costruire avventure interessanti che possano ruotare attorno tomi antichi e leggendari incantesimi perduti.
 \end{narratore}\end{changemargin}
 
-\subsubsection{Studiare gli incantesimi}\index{Studiare gli incantesimi}
+\subsubsection{Studiare gli incantesimi}\index{Studiare gli incantesimi}\label{magiestudiareincantesimi}
 
 Il personaggio che vuole lanciare magie deve ogni giorno ripassare le antiche formule sul suo Tomo. Questa operazione è piuttosto rapida, impiegando solo 1 ora +1 minuto per Competenza Magica.
 
 Se l'incantatore non ha ripassato gli incantesimi appena sveglio o comunque prima di lanciarli deve fare una Prova di Magia per ogni incantesimo finché non avrà ripassato.
 
-\subsubsection{Tiro per Colpire con le Magie}\index{Tiro per Colpire con Incantesimi}
+\subsubsection{Tiro per Colpire con le Magie}\index{Tiro per Colpire con Incantesimi}\label{magietiropercolpireconlemagie}
 
 Quando l'incantesimo ti dice di fare un Tiro per Colpire se è un "\textbf{attacco a distanza con incantesimo}" devi effettuare un Tiro per Colpire contro la Difesa dell'avversario. Questo Tiro per Colpire è effettuato con 3d6+ \textbf{Competenza Armi} + Destrezza + Abilità e modificatori vari.
 
@@ -6509,13 +6509,13 @@ E' anche possibile che sia richiesto un Tiro per Colpire con incantesimo a tocco
 
 Quando la magia è ad area non è necessario effettuare un Tiro per Colpire se non per difficili e specificate aree, ovvero si mira in una area ben circoscritta o si vuole evitare di colpire qualcuno con un incantesimo ad area.
 
-\subsubsection{L'esplosione del 6 nella Magia}\index{Esplosione del 6 nella Magia}
+\subsubsection{L'esplosione del 6 nella Magia}\index{Esplosione del 6 nella Magia}\label{magieesplosionedelsei}
 
 Anche nella Prova di Magia i 6 esplodono, i 6 tirati nella Prova di Magia vengono ritirati, e ritirati ancora nel caso.
 
 Tenete traccia di quanti critici (due 6 tirati) fate, potrebbero servire per ottenere effetti "speciali" nell'incantesimo! Ricordate che se effettuate un critico non si scalano i Punti Magia dell'incantesimo e la DC del Tiro Salvezza aumenta di 2 per successo critico magico fatto. Eventuali "extra" Punti Magia pagati si pagano sempre, indipendentemente dal critico ottenuto.
 
-\subsubsection{Tiro Salvezza - Resistere all'incantesimo}\index{Tiro Salvezza - Resistere all'Incantesimo}\index{Tiro Salvezza Incantesimi}
+\subsubsection{Tiro Salvezza - Resistere all'incantesimo}\index{Tiro Salvezza - Resistere all'Incantesimo}\index{Tiro Salvezza Incantesimi}\label{magietirosalvezza}
 
 Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + livello incantesimo + modificatore caratteristica per incantesimo + 1 x Abilità prese in quella Liste di Magia +2 per successo critico ottenuto nella Prova di Magia.
 
@@ -6538,7 +6538,7 @@ Per i mostri o comunque per un lancio di incantesimi dato da abilità magiche in
 
 
 
-\subsubsection{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto}
+\subsubsection{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto}\label{magiedistratto}
 
 Se l'incantatore è severamente \textbf{Distratto}, impedito, disturbato, è sanguinante, è sotto attacco mentre cerca di lanciare un incantesimo deve effettuare una Prova di Magia.
 
@@ -6549,7 +6549,7 @@ Un incantesimo fallito per distrazione sottrae metà dei Punti Magia del costo d
 
 Il giocatore costretto alla Prova di Magia può essere lui a richiederla e subirne le eventuali conseguenze, fallimento o successo critico magico e pagare i Punti Magia per intero. Un incantatore che lancia incantesimi mentre è in combattimento ha un -4 alla Difesa.
 
-\subsubsection{Concentrazione}\index{Colpito mentre concentrato}\index{Concentrazione}
+\subsubsection{Concentrazione}\index{Colpito mentre concentrato}\index{Concentrazione}\label{magieconcentrazione}
 
 Perdi la concentrazione su di un incantesimo se lanci un altro incantesimo che richieda concentrazione. Non ti puoi concentrare su due incantesimi alla volta.
 
@@ -6563,26 +6563,26 @@ Mentre sei concentrato puoi lanciare solo Trucchetti.
 
 Ogni 6 punti di CM si può mantenere la concentrazione su un incantesimo aggiuntivo. Se la concentrazione viene interrotta si perdono tutti gli incantesimi mantenuti in concentrazione.
 
-\subsubsection{Conservare la magia}\index{Conservare la magia}
+\subsubsection{Conservare la magia}\index{Conservare la magia}\label{magieconservare}
 
 L'incantatore può lanciare l'incantesimo (solitamente 2 Azioni) e trattenerlo nel suo pugno, senza manifestarlo. Per farlo deve lanciare l'incantesimo dopo di che lo può trattenere fino ad 1 round per punto di modificatore di caratteristica da incantesimi +2 round per volte che ha preso Adepto della Magia nella lista di appartenenza dell'incantesimo.
 
 Per trattenere l'incantesimo l'incantatore deve rimanere Concentrato (costo 1 Azione per round) e pagare un quarto del costo in Punti Magia dell'incantesimo per round.
 Per lanciare l'incantesimo conservato è sufficiente tirare l'iniziativa ed usare 1 Azione. Non è possibile lanciare ulteriori incantesimi che non siano Trucchetti finché si conserva un'incantesimo e nel round in cui si lancia.
 
-\subsubsection{Influenzati da più Magie}\index{Influenzati da più Magie}
+\subsubsection{Influenzati da più Magie}\index{Influenzati da più Magie}\label{magieinfluenzatodapiumagie}
 
 Quando un personaggio è influenzato da \textbf{due o più effetti magici} che danno lo stesso tipo di bonus, malus o danno nello stesso segmento di iniziativa (protezione verso fuoco, bonus alla Difesa o TS... , multiple palle di acido), si tiene conto solo di quella che ha la Tiro Salvezza o Bonus maggiore
 
 Un personaggio che prende 2 Palle di Fuoco nel medesimo segmento di Iniziativa farà il Tiro Salvezza solo per quella con il Tiro Salvezza più alto, indipendentemente che sia quella con il danno maggiore. Se prende una Palla di Fuoco in due tempi diversi del medesimo round farà due Tiri Salvezza distinti prendendo il danno relativo.
 
-\subsubsection{Tentare più Magie nello stesso round}\index{Tentare più Magie nello stesso round}\index{Magie multiple nello stesso round}\hypertarget{piumagieround}{}
+\subsubsection{Tentare più Magie nello stesso round}\index{Tentare più Magie nello stesso round}\index{Magie multiple nello stesso round}\hypertarget{piumagieround}{}\label{piumagieround}
 
 Normalmente non è possibile lanciare più incantesimi a round anche se la somma delle Azioni lo permette. Alcuni riti oscuri e pratiche esoteriche permettono con grande rischio di provare a lanciare anche più incantesimi, purché sempre nelle 3 Azioni a round. E' necessario avere Competenza Magica almeno 3.
 
 L'incantatore una volta lanciato normalmente il primo incantesimo deve effettuare una Prova di Magia. Se gli riesce un successo critico magico (almeno 2 volte 6) allora gli riesce di lanciare il secondo incantesimo, se la prova di magia invece non ottiene un critico magico allora si considera come un fallimento critico magico, con gli effetti del caso.
 
-\subsubsection{Alterare le Magie}\index{Alterare le Magie}
+\subsubsection{Alterare le Magie}\index{Alterare le Magie}\label{magiealteraremagie}
 
 L'incantatore può modificare gli incantesimi in diversi modi. Queste possibilità aggiungono versatilità all'incantatore ed e' opportuno che il giocatore le abbia sempre presenti nelle situazioni più critiche.
 
@@ -6608,7 +6608,7 @@ Uno o più compagni possono usare alternativamente Magie Efficaci. Requisito Com
 
 Le possibilità concesse da Alterare le Magie sono cumulabili tra loro.
 
-\subsubsection{Tentare Incantesimi con impedimenti}\index{Tentare Incantesimi con impedimenti} \index{Impedimenti}
+\subsubsection{Tentare Incantesimi con impedimenti}\index{Tentare Incantesimi con impedimenti} \index{Impedimenti}\label{magieconimpedimenti}
 
 Il lancio di un incantesimo è vincolato a gesti e parole particolari e unici. Quando il personaggio si trova in una situazione in cui non può gesticolare o parlare allora può tentare di lanciare l'incantesimo comunque anche se diventa molto più difficile.
 
@@ -6616,7 +6616,7 @@ I Punti Magia richiesti per il lancio di incantesimi se non può gesticolare ven
 
 Se l'incantesimo ha anche componenti materiali questi devono essere comunque forniti (posti entro 30 cm dall'incantatore) oppure non è possibile lanciare l'incantesimo.
 
-\subsubsection{Definizioni obiettivi degli incantesimi}\index{Obiettivi degli incantesimi}
+\subsubsection{Definizioni obiettivi degli incantesimi}\index{Obiettivi degli incantesimi}\label{magiedefinizioniobiettivi}
 
 Negli incantesimi sotto elencati troverete spesso i riferimenti alle tipologie di soggetti ed obiettivi influenzabili nonché a diverse tipologie di energia ed elementi.
 
@@ -24147,7 +24147,7 @@ In caso di personaggio con Lista d'Armi Pugno Vuoto si controlla quanto volte si
 
 \medskip
 
-\textbf{Tabella: Equivalenza Armi Magiche}\index{Tabella Equivalenza Armi Magiche}\hypertarget{equivalenzemagiche}{}
+\textbf{Tabella: Equivalenza Armi Magiche}\index{Tabella Equivalenza Armi Magiche}\hypertarget{equivalenzemagiche}{}\label{equivalenzaarmimagiche}
 
 \medskip
 
@@ -24155,12 +24155,12 @@ In caso di personaggio con Lista d'Armi Pugno Vuoto si controlla quanto volte si
 \toprule
 \textbf{Immunità} & \textbf{Magia Arma} & \textbf{Attacco Nat.}& \textbf{Pugno Vuoto}\\
 +1      	   	& +1     &  3&  2\\
-+2         		& +2     &  6&  3\\
-Ferro Freddo 	& +2     &  9&  4\\
-Argento  		& +2     &  9&  4\\
-Adamantio       & +3     &  12& 5\\
-+3      		& +3     &  15& 6\\
-+4        	 	& +4     &  18& 7\\
++2         		& +2     &  6&  4\\
+Ferro Freddo 	& +1     &  4&  2\\
+Argento  		& +1     &  4&  2\\
+Adamantio       & +2     &  6&  4\\
++3      		& +3     &  12& 6\\
++4        	 	& +4     &  16& 8\\
 +5        	 	& +5     & - &  8\\
 \end{tabular}
 
