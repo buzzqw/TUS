@@ -123,6 +123,8 @@
 *0.41* pubblicata versione 0.40, aggiornata copertina, rivista tutta la tabella dei tratti con aggiunzioni e sottrazioni (adesso ci sono 234 tratti), aggiornati tratti dei patroni, riorganizzata tabella patrono-tratti, aggiunti tratti a patroni,
 
 
+16/04/2022 aggiornata versione POD
+
 -aggiunti \label{} fino a la magia
 
 Aggiungere immagini:
