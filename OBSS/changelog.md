@@ -125,7 +125,7 @@
 
 16/04/2022 aggiornata versione POD
 
-*0.42* pubblicata versione 0.41, aggiornata copertina,
+*0.42* pubblicata versione 0.41, aggiornata copertina, corretta indicazione quadretti occupati in taglia, aggiunto in screen portata e taglia mostri, 
 
 
 -aggiunti \label{} fino a la magia
