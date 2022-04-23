@@ -125,7 +125,7 @@
 
 16/04/2022 aggiornata versione POD
 
-*0.42* pubblicata versione 0.41, aggiornata copertina, corretta indicazione quadretti occupati in taglia, aggiunto in screen portata e taglia mostri, 
+*0.42* pubblicata versione 0.41, aggiornata copertina, corretta indicazione quadretti occupati in taglia, aggiunto in screen portata e taglia mostri, dettagliato gittata arma da spargimento, dettagliato caso di fallimento prova arrampicarsi, aggiornato screen con indicazioni scalata,
 
 
 -aggiunti \label{} fino a la magia
