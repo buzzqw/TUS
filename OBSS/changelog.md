@@ -125,7 +125,7 @@
 
 16/04/2022 aggiornata versione POD
 
-*0.42* pubblicata versione 0.41, aggiornata copertina, corretta indicazione quadretti occupati in taglia, aggiunto in screen portata e taglia mostri, dettagliato gittata arma da spargimento, dettagliato caso di fallimento prova arrampicarsi, aggiornato screen con indicazioni scalata, numerose migliorie al layout immagini, aggiunta di label ad immagini, migliorie a layout razze-caratteristiche-competenze, correzioni di ortografia,
+*0.42* pubblicata versione 0.41, aggiornata copertina, corretta indicazione quadretti occupati in taglia, aggiunto in screen portata e taglia mostri, dettagliato gittata arma da spargimento, dettagliato caso di fallimento prova arrampicarsi, aggiornato screen con indicazioni scalata, numerose migliorie al layout immagini, aggiunta di label ad immagini, migliorie a layout razze-caratteristiche-competenze, correzioni di ortografia, semplificata unica regola, precisato che in azione multiattacco l'avversario e' uno solo, modificata abilita' proseguire, modificato tiro critico variante rimessa esplosione del danno, corretta regola su sorpresa a vicenda, ricontrollo capitolo combattimento, 
 
 
 -aggiunti \label{} fino a la magia
