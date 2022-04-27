@@ -1,3 +1,19 @@
+**19/04/2022**
+
+Ho mandato in POD l'ultima versione. Sono molto soddisfatto e quasi triste!
+sicuramente ci saranno ancora modifiche e correzioni da fare, non posso escluderlo ed anzi ne sono piuttosto certo, pero' incomincio a sentire che il compito di OBSS e' ormai terminato.
+E' ora di passare oltre ?
+Non posso escluderlo. 
+
+Non voglio mettermi a fare il solito hack di una mod di un hack.. devo cercare di creare qualcosa di mio. Ovvio che ormai nel gdr si fa fatica ad inventare qualcosa di nuovo, specialmente a livello di meccaniche, pero'.. devo voglio provarci.
+
+Ho dei punti da cui partire ma devo svilupparli prima anche solo di metterli in "bella".
+
+Le domandi di partenza sono le solite: cosa ha il sistema che puo' attirare piu' o piacere di piu' dei mostri sacri come DnD o Pathfinder (1/2) ? Non si tratta solo di penetrazione di pubblico ma piu' semplicemente di dare qualcosa che faccia apprezzare piu' un sistema rispetto ad un altro.
+Un insieme di regole che faccia dire immediatamente che piace.
+
+Ho da lavorare e per come avevo approcciato Dark Catacombs devo rivedere tutto.
+
 **11/04/2022**
 
 Le ultime due sessioni non hanno apportato modifiche, solo un chiarimento sull'essere afferrato e cosa comporta alla Difesa e Tiri Salvezza.
