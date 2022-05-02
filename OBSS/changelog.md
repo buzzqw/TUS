@@ -125,9 +125,12 @@
 
 16/04/2022 aggiornata versione POD
 
-*0.42* pubblicata versione 0.41, aggiornata copertina, corretta indicazione quadretti occupati in taglia, aggiunto in screen portata e taglia mostri, dettagliato gittata arma da spargimento, dettagliato caso di fallimento prova arrampicarsi, aggiornato screen con indicazioni scalata, numerose migliorie al layout immagini, aggiunta di label ad immagini, migliorie a layout razze-caratteristiche-competenze, correzioni di ortografia, semplificata unica regola, precisato che in azione multiattacco l'avversario e' uno solo, modificata abilita' proseguire, modificato tiro critico variante rimessa esplosione del danno, corretta regola su sorpresa a vicenda, ricontrollo capitolo combattimento, aggiornato screen con misure salto, aggiornato screen per danno da caduta, aggiunto link e danno da caduta in esempio salto, meglio segnato costo azioni per competenze in esempi, meglio segnato costo azioni per competenze in screen, aiutare un altro il bonus massimo e' un quarto, modifiche alla prova di intimidire dati da taglia ed intelligenza, aggiornato screen sezione combattimento e migliorato layout
+**0.42** pubblicata versione 0.41, aggiornata copertina, corretta indicazione quadretti occupati in taglia, aggiunto in screen portata e taglia mostri, dettagliato gittata arma da spargimento, dettagliato caso di fallimento prova arrampicarsi, aggiornato screen con indicazioni scalata, numerose migliorie al layout immagini, aggiunta di label ad immagini, migliorie a layout razze-caratteristiche-competenze, correzioni di ortografia, semplificata unica regola, precisato che in azione multiattacco l'avversario e' uno solo, modificata abilita' proseguire, modificato tiro critico variante rimessa esplosione del danno, corretta regola su sorpresa a vicenda, ricontrollo capitolo combattimento, aggiornato screen con misure salto, aggiornato screen per danno da caduta, aggiunto link e danno da caduta in esempio salto, meglio segnato costo azioni per competenze in esempi, meglio segnato costo azioni per competenze in screen, aiutare un altro il bonus massimo e' un quarto, modifiche alla prova di intimidire dati da taglia ed intelligenza, aggiornato screen sezione combattimento e migliorato layout
+
+02/05/2022 aggiornata versione POD
 
 
+*0.43* pubblicata versione 0.42 aggiornata copertina,
 
 
 -aggiunti \label{} fino a la magia
