@@ -130,7 +130,7 @@
 02/05/2022 aggiornata versione POD
 
 
-*0.43* pubblicata versione 0.42 aggiornata copertina,
+*0.43* pubblicata versione 0.42 aggiornata copertina, chiarimenti su lista d'arma scudo, 
 
 
 -aggiunti \label{} fino a la magia
