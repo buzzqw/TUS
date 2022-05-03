@@ -130,7 +130,7 @@
 02/05/2022 aggiornata versione POD
 
 
-*0.43* pubblicata versione 0.42 aggiornata copertina, chiarimenti su lista d'arma scudo, 
+*0.43* pubblicata versione 0.42 aggiornata copertina, chiarimenti su lista d'arma scudo, per essere intimiditi e' sufficiente int -3 o piu',
 
 
 -aggiunti \label{} fino a la magia
