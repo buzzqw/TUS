@@ -1,3 +1,16 @@
+**04/05/2022**
+
+Playtest e controllo proseguono senza grossi intoppi, ci sono come sempre interventi ma per lo piu' estetici.
+Certe volte mi chiedo se vorro' prima o poi assegnare la versione 1.0, o meglio.. definire una versione "stabile". 
+Temo che se continuo cosi' alla 1.0 ci arrivo nel giro di un paio d'anni anche solo proseguendo la normale numerazione!!!
+
+Sono tranquillo in ogni caso, nelle ultime 6 sessioni sono intervenuto solo su chiarimenti del saltare/cadere e poco altro.
+
+Quello che noto e' che bisogna essere chiari nel dire che il livello di power di OBSS e' diverso, inferiore ad altri giochi di ruolo piu' noti. E' un concetto che va esplicitato altrimenti i giocatori piu' moderni abituati a sentire il potere possono trovare OBSS un po' deprimente.
+Quello che va capito e' che e' si vero che ci puo' essere un allineamento verso il basso del power level, ma questo e' un fattore voluto. OBSS non cerca i poter esagerati ma l'inventiva dei giocatori e quel rischio nel tirare i dadi e gioieri delle scelte effettuate!
+
+Bisogna partire da una mente libera e pronta ad accettare il sistema senza fare confronti altrimenti il 90% del divertimento viene perso. Anche OBSS sa dare potenza e sensazioni "piene" ma non fate mai l'errore di paragonarlo ad un altro sistema, non vuole essere simile.
+
 **19/04/2022**
 
 Ho mandato in POD l'ultima versione. Sono molto soddisfatto e quasi triste!
