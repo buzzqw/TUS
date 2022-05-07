@@ -2182,7 +2182,9 @@ Il Narratore valuterà la possibilità che più di un personaggio fornisca aiuto
 
 \subsection{Prove fatte dal Narratore}\label{provefattedalnarratore}
 
-Evitate di fare voi le prove al posto dei Giocatori. Siate descrittivi ma non andate a dire al Giocatore che potrebbe servire una prova di qualcosa. Qualora dovesse essere necessario eseguire delle prove di nascosto dal giocatore non tirate nessun dado ma aggiungete a 9 il valore della Caratteristica e punteggio competenza in questione del personaggio e confrontate il risultato con la difficoltà della prova.
+Evitate di fare voi le prove al posto dei Giocatori. Siate descrittivi ma non andate a dire al Giocatore che potrebbe servire una prova di qualcosa. Qualora dovesse essere necessario eseguire delle prove di nascosto dal giocatore non tirate nessun dado ma aggiungete a 10 il valore della Caratteristica e punteggio competenza (od il valore del Tiro Salvezza) in questione del personaggio e confrontate il risultato con la difficoltà della prova.
+
+\textbf{Questo sistema può velocizzare le prove contrapposte evitando di tirare i dadi per i \textit{nemici} e fornendo un DC statica da battere.}\index{DC Statica nelle prove}
 
 \subsection{Tirare o non Tirare dadi}\label{tirarenontiraredadi}
 
@@ -2629,19 +2631,21 @@ A distanza di mischia una creatura di dimensioni medie può avere al massimo 8 c
 
 La tabella che segue mostra quante creature che possono circondare una creatura di taglia media a seconda della propria taglia.
 
-\textbf{Tabella: Taglia e Scala delle Creature}\index{Tabella Taglia e Scala delle Creature}
+\medskip
+
+\textbf{Tabella: Taglia, Scala delle Creature e numero per quadretto}\index{Tabella Taglia, Scala delle Creature e numero per quadretto}
 
 \medskip
 
-\begin{tabular}{ll}
-\textbf{Taglia} & \textbf{Creature}\\
-\multicolumn{1}{c}{della Creatura}&  \multicolumn{1}{c}{in distanza di mischia}\\
+\begin{tabular}{lll}
+\multirow{2}{*}\textbf{Taglia} &\multirow{2}{*}\textbf{Creature}&\multirow{2}{*}\textbf{n. creature}\\
+{Creatura}&{in mischia}&{nel quadretto}\\
 \toprule
-Piccolissima                   & 100\\
-Minuta                         & 64\\
-Minuscola                      & 32\\
-Piccola                        & 16\\
-Media                          & 8\\
+Piccolissima                   & 100&16\\
+Minuta                         & 64&8\\
+Minuscola                      & 32&4\\
+Piccola                        & 16&2\\
+Media                          & 8&1\\
 \end{tabular}
 
 \smallskip
@@ -18056,11 +18060,17 @@ Non si può \textbf{Scattare} (Correre) o \textbf{Caricare} \index{Carica su Ter
 
 \textbf{Muoversi da prono}\index{Muoversi da prono}\index{Muoversi a carponi} è considerato terreno difficile.
 
+Il terreno dove sono presenti dei corpi di creature si considera difficile.
+
+\subsubsection{Attraverso i nemici}\index{Attraverso i nemici}\index{Attraversare quadretti occupati}
+
 \index{Attraversare nemici}\index{Movimento attraverso}Un personaggio può \textbf{attraversare} ma non sostare in \textbf{una zona occupata} da un compagno senza essere \hyperlink{ristretto}{\textbf{ristretti}}\index{Ristretto}. Se il movimento lo porta a \textbf{condividere}\index{Condividere il quadretto} il medesimo quadretto di mappa (ipotizzando entrambe le creature di taglia media) avrà un -1d6 al Tiro per Colpire ed un -4 alla Difesa.
 
-I corpi delle creature a terra rendono il terreno (quadretto) dove sono difficile e se sono vivi ed ostili e' necessario eseguire un Tiro Salvezza o su Riflessi o Tempra contrapposto (ognuno sceglie quello che preferisce) a quello dell'avversario al quale si vuole \textbf{attraversare} il quadretto, questa Azione costa 1 Azione. Se si fallisce la prova si torna nel quadretto più prossimo, potenzialmente condividendolo con qualcuno e si considerano terminate le Azioni (movimento e tentativo di oltrepassare). Se il nemico ha l'Abilità \hyperlink{opportunista}{Opportunista} oltre ad ostacolare il passaggio può eseguire un attacco.
+Per attraversare il terreno dove c'è una creatura ostile e' necessario eseguire un Tiro Salvezza o su Riflessi o Tempra contrapposto (a scelta) a quello dell'avversario al quale si vuole \textbf{attraversare} il quadretto, questo \textbf{costa 1 Azione}. Se si fallisce la prova si torna nel quadretto più prossimo che non sia della creatura che si voleva attraversare, potenzialmente condividendolo con qualcuno e si considerano terminate le Azioni (movimento e tentativo di oltrepassare). Se il nemico ha l'Abilità \hyperlink{opportunista}{Opportunista} oltre ad ostacolare il passaggio può eseguire un attacco.
 
-Un personaggio a contatto con un altra creatura può usare una Azione per \textbf{scambiarsi di posto}, se la creatura è ostile è necessario un Tiro Salvezza contrapposto di Tempra per riuscire a scambiarsi. Per ogni \textbf{taglia di differenza}, chi ha quella maggiore, prende +1d6 di bonus alla prova.\index{Scambiare di posto}
+\subsubsection{Scambiarsi di posto}\index{Scambiarsi di posto}\index{Scambiarsi di posto}
+
+Un personaggio a contatto con un altra creatura può usare \textbf{una Azione} per \textbf{scambiarsi di posto}, se la creatura è ostile è necessario un Tiro Salvezza contrapposto di Tempra per riuscire a scambiarsi. Per ogni \textbf{taglia di differenza}, chi ha quella maggiore, prende +1d6 di bonus alla prova.\index{Scambiare di posto}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups nel cunicolo]   %box giocatore
 Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. E' alla quarta posizione.
@@ -18069,13 +18079,13 @@ Improvvisamente un nemico si para davanti e Tups è il più veloce a reagire, us
 
 Le opzioni si Tups sono:
 
-- Se decide di scambiarsi con il primo compagno della fila usa quindi una Azione per arrivare fino a li ed un altra Azione per scambiarsi ma il compagno non ha un posto libero dove posizionarsi. Deve rimanere ristretto con il compagno.
+- Se decide di scambiarsi con il primo compagno della fila usa quindi una Azione per arrivare fino a li ed un altra Azione per scambiarsi ma il compagno non ha un posto libero dove posizionarsi. Deve rimanere ristretto con il compagno. Gli rimangono 2 Azioni.
 
-- Se decide di arrivare fino all'inizio della fila (1 Azione di Movimento) potrebbe tentare di attraversare lo spazio dell'avversario. Usando una spallata (Tiro Salvezza su Tempra) cerca di passare oltre ma fallisce nel Tiro Salvezza contrapposto ed e' costretto a tornare indietro al quadretto prossimo più vicino rimanendo ristretto con il compagno.
+- Se decide di arrivare fino all'inizio della fila (1 Azione di Movimento) potrebbe tentare di attraversare lo spazio dell'avversario. Dando una spallata (Tiro Salvezza su Tempra) cerca di passare oltre ma fallisce nel Tiro Salvezza contrapposto ed e' costretto a tornare indietro al quadretto prossimo più vicino rimanendo ristretto con il compagno. Gli rimane una Azione da usare saggiamente.
 \end{tcolorbox}\end{changemargin}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}   %box narratore
-Se volete un crudo realismo allora è terreno difficile attraversare anche zone dove ci sono creature amichevoli. \end{narratore}\end{changemargin}
+%\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}   %box narratore
+%Se volete un crudo realismo allora è terreno difficile attraversare anche zone dove ci sono creature amichevoli. \end{narratore}\end{changemargin}
 
 \subsection{Movimento Locale}\index{Movimento Locale}
 
@@ -43864,7 +43874,7 @@ I personaggi in preda al panico prendono anche la condizione Accovacciato se non
 
 \textbf{Trattenere} il fiato: COS*6 round. Ogni Azione -1 round. Incantesimo -3 round. Poi Tiro salvezza su Tempra DC 12 +1 per round.
 
-\textbf{Ristretto}\index{Ristretto}\hypertarget{ristretto}{} : due creature medie che condividono lo stesso quadretto di mappa si considerano ristretti. Entrambe le creature prendono -1d6 al Tiro per Colpire ed alla Difesa (-4) finché condividono lo spazio.
+\textbf{Ristretto}\index{Ristretto}\hypertarget{ristretto}{} : due creature medie o piccole che condividono lo stesso quadretto di mappa si considerano ristretti. Entrambe le creature prendono -1d6 al Tiro per Colpire ed alla Difesa (-4) finché condividono lo spazio. Una creature può condividere il quadretto con una creatura di taglia almeno tre volte piu' grande senza penalità.
 
 \textbf{Rotto}\index{Rotto}: La condizione rotto ha i seguenti effetti, a seconda dell'oggetto:
 
