@@ -130,7 +130,7 @@
 02/05/2022 aggiornata versione POD
 
 
-*0.43* pubblicata versione 0.42 aggiornata copertina, chiarimenti su lista d'arma scudo, per essere intimiditi e' sufficiente int -3 o piu', abilita' fare infuriare deve avere int -3 o piu', rilettura di sfondare ed entrare, aggiornato ed espansa utlita' prove fatte dal narratore, migliorato layout attraversare creature, dettagli condivisione spazi creature piccole e medie,
+*0.43* pubblicata versione 0.42 aggiornata copertina, chiarimenti su lista d'arma scudo, per essere intimiditi e' sufficiente int -3 o piu', abilita' fare infuriare deve avere int -3 o piu', rilettura di sfondare ed entrare, aggiornato ed espansa utlita' prove fatte dal narratore, migliorato layout attraversare creature, dettagli condivisione spazi creature piccole e medie, dettagliato meglio individuare invisibile,
 
 
 -aggiunti \label{} fino a la magia
