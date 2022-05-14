@@ -1,7 +1,20 @@
+**14/05/2022**
+
+Mi sto accorgendo che il sistema a farsa di dettagliare non ha piu' quasi nulla della struttura snella ed immediata che volevo.
+Va bene che le regole di base sono le stesse ma tutti i dettagli che ho messo, che non stravolgono le regole, ma aiutano ad applicarle, alla fine generano un senso di confusione.
+E non mi piace per nulla!!!
+
+E' vero che il sistema a questo punto e' pressoch'e' completo e testato ma la questione di fondo rimane: e' cio' che voglio? OBSS e' diventato qualcosa di diverso da quello che volevo?
+E' la solita rivisitazione di DnD o Pathfinder o e' qualcosa di nuovo ?
+
+C'e' da dire che OBSS e' nato come variante di DnD e Pathfinder quindi  e' giusto, normale che sembri una "rivisitazione" ma l'idea mia, almeno quella iniziale, da dove e' partito tutto voleva essere diversa.
+
+Temo che OBSS debba generare uno spin-off dove DEVO ignorare molti dettagli.
+
 **04/05/2022**
 
 Playtest e controllo proseguono senza grossi intoppi, ci sono come sempre interventi ma per lo piu' estetici.
-Certe volte mi chiedo se vorro' prima o poi assegnare la versione 1.0, o meglio.. definire una versione "stabile". 
+Certe volte mi chiedo se vorro' prima o poi assegnare la versione 1.0, o meglio.. definire una versione "stabile".
 Temo che se continuo cosi' alla 1.0 ci arrivo nel giro di un paio d'anni anche solo proseguendo la normale numerazione!!!
 
 Sono tranquillo in ogni caso, nelle ultime 6 sessioni sono intervenuto solo su chiarimenti del saltare/cadere e poco altro.
@@ -16,7 +29,7 @@ Bisogna partire da una mente libera e pronta ad accettare il sistema senza fare 
 Ho mandato in POD l'ultima versione. Sono molto soddisfatto e quasi triste!
 sicuramente ci saranno ancora modifiche e correzioni da fare, non posso escluderlo ed anzi ne sono piuttosto certo, pero' incomincio a sentire che il compito di OBSS e' ormai terminato.
 E' ora di passare oltre ?
-Non posso escluderlo. 
+Non posso escluderlo.
 
 Non voglio mettermi a fare il solito hack di una mod di un hack.. devo cercare di creare qualcosa di mio. Ovvio che ormai nel gdr si fa fatica ad inventare qualcosa di nuovo, specialmente a livello di meccaniche, pero'.. devo voglio provarci.
 
@@ -54,7 +67,7 @@ E' un equilibro non facile, forse per questo sono numerosi piu' numerosi i box d
 Le prossime valutazioni riguardano se approcciare una gestione dell'ingombro alla Pathfinder2, andare ad implementare una gestione delle professioni ad alberto quindi che abilita' integrate o quasi, cambiare i patroni ma questo ha una pura valenza personale.
 
 Quello che mi attira di piu' sono le professioni/classi ad albero, gli altri sono modifiche che possono essere fatte o meno ma non cambiano il senso del gioco..
-Preparero' qualche schema.. puo' essere molto interessante! 
+Preparero' qualche schema.. puo' essere molto interessante!
 
 **22/03/2022**
 
