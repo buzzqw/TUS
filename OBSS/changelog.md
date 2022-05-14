@@ -129,7 +129,7 @@
 02/05/2022 aggiornata versione POD
 
 
-*0.43* pubblicata versione 0.42 aggiornata copertina, chiarimenti su lista d'arma scudo, per essere intimiditi e' sufficiente int -3 o piu', abilita' fare infuriare deve avere int -3 o piu', rilettura di sfondare ed entrare, aggiornato ed espansa utilita' prove fatte dal narratore, migliorato layout attraversare creature, dettagli condivisione spazi creature piccole e medie, dettagliato meglio individuare invisibile, controllo e rilettura capitolo oggetti maledetti e piccoli chiarimenti, indicazioni e domande in creazione personaggio, migliorati esempi per archetipi personaggi, nota su azioni consapevolezza, durata azione disattivare trappole con sopravvivenza,
+*0.43* pubblicata versione 0.42 aggiornata copertina, chiarimenti su lista d'arma scudo, per essere intimiditi e' sufficiente int -3 o piu', abilita' fare infuriare deve avere int -3 o piu', rilettura di sfondare ed entrare, aggiornato ed espansa utilita' prove fatte dal narratore, migliorato layout attraversare creature, dettagli condivisione spazi creature piccole e medie, dettagliato meglio individuare invisibile, controllo e rilettura capitolo oggetti maledetti e piccoli chiarimenti, indicazioni e domande in creazione personaggio, migliorati esempi per archetipi personaggi, nota su azioni consapevolezza, durata azione disattivare trappole con sopravvivenza, regola opzionale per tiro per colpire incantesimi, un incantesimo su pergamena normale deve essere al massimo di livello +1 lanciabile, chiarimenti su ritardare azione, specificato preparare azioni, suggerimenti su prove a difficolta' statica, chiarimenti su bersaglio incantesimi e visibilita',
 
 
 -aggiunti \label{} fino a la magia
