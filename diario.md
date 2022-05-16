@@ -1,6 +1,21 @@
+**16/05/2022**
+
+Modularita'. Opzioni. Possibilita'. Credo che in queste tre parole ci possa essere il futuro di OBSS.
+Fin dall'inizio ho sempre usato le parti segnate come "Opzionale" per includere approcci alternativi o soluzioni diverse e molte di queste oggettivamente conferiscono un volto diverso a OBSS.
+Non me ne pento, anzi, sono sempre stato dell'opinione che un Master/Narratore esperto abbia piena liberta' nel personalizzare il gioco e le regole opzionali vogliono essere consigli, approcci, suggerimenti su come rendere proprio il gioco.
+
+Mi rendo conto che questo non risolve il dilemma che prospettavo i giorni scorsi ma permette di "tagliare" e prendere scorciatoie, insomma rende OBSS un gioco di ruolo piu' maturo.
+
+Il lavoro dell'ultimo mese e' stato principalmente per chiarire, dettagliare, semplificare dove possibile insomma il labor lime che si applica ad un prodotto ormai finito.
+
+Ammetto che potrebbero essere parole al vento... dato che, anche se non a brevissimo, dovrei partire con una campagna con un gruppo di giocatori esperti, non di OBSS, ma comunque formati e quindi con aspettative.
+
+Sara' molto importante in questo caso mettere in chiaro che il "profilo" di potere dei personaggi in OBSS e' ben diverso da quello della 5e o di Pathfinder 1 o 2. In OBSS non c'e' una questione di potere ma di possibilita'.
+
+
 **14/05/2022**
 
-Mi sto accorgendo che il sistema a farsa di dettagliare non ha piu' quasi nulla della struttura snella ed immediata che volevo.
+Mi sto accorgendo che il sistema a forza di dettagliare non ha piu' quasi nulla della struttura snella ed immediata che volevo.
 Va bene che le regole di base sono le stesse ma tutti i dettagli che ho messo, che non stravolgono le regole, ma aiutano ad applicarle, alla fine generano un senso di confusione.
 E non mi piace per nulla!!!
 
