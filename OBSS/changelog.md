@@ -132,7 +132,7 @@
 
 14/05/2022 aggiornata versione POD
 
-*0.44* pubblicata versione 0.43 aggiornata copertina,
+*0.44* pubblicata versione 0.43 aggiornata copertina, aggiornato alzarsi da prono con acrobatica 6 o piu' costa una azione od una reazione, 
 
 
 
