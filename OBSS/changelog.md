@@ -140,10 +140,8 @@
 
 Aggiungere immagini:
 
-250 "Quercia Velenosa" pericoli avventura, piante velenose 5
-287 "ando si determina il prezzo di un oggetto ma", riepitivo lungo
-358 "dopo la vittoria giacciono insieme p" cicli millenari 6
-368 descrizione piani 3, riepitivo lungo
+356 "dopo la vittoria giacciono insieme p" cicli millenari 6
+366 descrizione piani 3, riepitivo lungo
 
 > modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 
