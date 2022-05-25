@@ -1,3 +1,15 @@
+**25/05/2022**
+
+Le ultime modifiche sulle competenze mi hanno lasciato un po' interdetto.
+E' vero che non cambia molto a livello di regole o di flusso di gioco, la modifica e' molto piu' impattante a livello scenografico con personaggi che possono dimostrare le loro capacita' in brevissimo tempo.
+Cio' che mi ha lasciato un po' in difficolta' e' stato che questa modifica, per quanto mi piaccia, "rompe" la linearlita'/omogeneita' della risoluzione delle azioni.
+Introduce una nuova meccanica che prima non c'era.
+
+I test per adesso sono positivi. Solo ad un integralista potrebbe dare fastidio la regola, ma allora ce ne sono molte altre che appaiono e scompaiono (una tra tutte i due "critici" ovvero quello fatto con +10 nelle prove e quello ottenuto tramite due 6 nei TC e TS...
+
+Si.. un po' di allineamento regolo prima poi e' da fare !
+
+
 **16/05/2022**
 
 Modularita'. Opzioni. Possibilita'. Credo che in queste tre parole ci possa essere il futuro di OBSS.
