@@ -136,8 +136,7 @@
 
 25/05/2022 aggiornata versione POD
 
-*0.45* pubblicata versione 0.44 aggiornata copertina, precisato che non si puo' diventare proni se si vola, corretto modificatore invisibilita' in condizioni, indicazioni su scassinare porte, dettagli su sanguinamento e cure, precisazioni ad abiltia' animalia, aggiornata tabella pozioni naturali,
-
+*0.45* pubblicata versione 0.44 aggiornata copertina, precisato che non si puo' diventare proni se si vola, corretto modificatore invisibilita' in condizioni, indicazioni su scassinare porte, dettagli su sanguinamento e cure, precisazioni ad abiltia' animalia, aggiornata tabella pozioni naturali, Schivata prodigiosa aggiunti altri gradi, colpo furtivo e' solo alla schiena, aggiunta abilita' pelle coriacea, ferocia aggiunti altri gradi, aggiunta abilita' Litania versatile, aggiunta abilita' Figlia di Shayalia, aggiunta a schermo come riconoscere i mostri, 
 
 
 -aggiunti \label{} fino a la magia
