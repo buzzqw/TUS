@@ -140,7 +140,7 @@
 
 04/06/2022 aggiornata versione POD
 
-*0.46* pubblicata versione 0.45 aggiornata copertina, modificato Variante attacchi multipli,
+*0.46* pubblicata versione 0.45 aggiornata copertina, modificato Variante attacchi multipli, modificata variante attacchi multipli, modificato combattimento a due armi,
 
 -aggiunti \label{} fino a la magia
 
