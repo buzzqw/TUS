@@ -142,7 +142,7 @@
 
 **0.46** pubblicata versione 0.45 aggiornata copertina, modificato Variante attacchi multipli, modificata variante attacchi multipli, modificato combattimento a due armi
 
-*0.47* pubblicata versione 0.46 aggiornata copertina,
+*0.47* pubblicata versione 0.46 aggiornata copertina, layout,
 
 
 -aggiunti \label{} fino a la magia
