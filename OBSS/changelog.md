@@ -142,7 +142,9 @@
 
 **0.46** pubblicata versione 0.45 aggiornata copertina, modificato Variante attacchi multipli, modificata variante attacchi multipli, modificato combattimento a due armi
 
-*0.47* pubblicata versione 0.46 aggiornata copertina, layout,
+05/06/2022 aggiornata versione POD
+
+*0.47* pubblicata versione 0.46 aggiornata copertina, layout, minimi chiarimenti in combattimento, 
 
 
 -aggiunti \label{} fino a la magia
