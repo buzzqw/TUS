@@ -144,7 +144,7 @@
 
 05/06/2022 aggiornata versione POD
 
-*0.47* pubblicata versione 0.46 aggiornata copertina, layout, minimi chiarimenti in combattimento, 
+*0.47* pubblicata versione 0.46 aggiornata copertina, layout, minimi chiarimenti in combattimento, modificato vantaggio Controllo del Metabolismo, corretta dicitura Bere fa molto bene, corretto danno vantaggio Denti, incantesimo intralciare spostato in animali e piante, modificata abilita' legami di furia, aggiornata vantaggio ottimo gusto e olfatto, modificato costo vantaggio visione del vero, 
 
 
 -aggiunti \label{} fino a la magia
