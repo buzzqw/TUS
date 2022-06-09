@@ -1,3 +1,14 @@
+**09/06/2022**
+
+Il sistema matura e migliora ogni giorno, certo che a leggere queste note viene da pensare che prima OBSS facesse pena..
+Non e' cosi', lo gia' detto, e lo ripeto, e' vero che le modifiche sono continue ma sono quasi sempre dettagli, chiarimenti, incomprensioni insomma modifiche mai funzionali ma per rendere il sistema sempre piu' apprezzabile e godibile.
+
+Certo che capita, raramente, di modificare qualche cosa di piu' significativo ma sempre e solo per il meglio e a questo punto non si cambia qualcosa che e' rotto ma qualcosa che funziona e si vuole fare meglio.
+
+Scaricate sempre l'ultima versione e divertitevi come io mio diverto a giocarlo e a scriverlo!
+
+
+
 **25/05/2022**
 
 Le ultime modifiche sulle competenze mi hanno lasciato un po' interdetto.
@@ -7,7 +18,7 @@ Introduce una nuova meccanica che prima non c'era.
 
 I test per adesso sono positivi. Solo ad un integralista potrebbe dare fastidio la regola, ma allora ce ne sono molte altre che appaiono e scompaiono (una tra tutte i due "critici" ovvero quello fatto con +10 nelle prove e quello ottenuto tramite due 6 nei TC e TS...
 
-Si.. un po' di allineamento regolo prima poi e' da fare !
+Si.. un po' di allineamento regole prima poi e' da fare !
 
 
 **16/05/2022**
