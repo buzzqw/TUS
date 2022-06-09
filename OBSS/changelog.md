@@ -144,7 +144,7 @@
 
 05/06/2022 aggiornata versione POD
 
-*0.47* pubblicata versione 0.46 aggiornata copertina, layout, minimi chiarimenti in combattimento, modificato vantaggio Controllo del Metabolismo, corretta dicitura Bere fa molto bene, corretto danno vantaggio Denti, incantesimo intralciare spostato in animali e piante, modificata abilita' legami di furia, aggiornata vantaggio ottimo gusto e olfatto, modificato costo vantaggio visione del vero, rilettura capitolo introduttivo mostruario, corretta indicazione per apprendere incantesimi fuori lista, modificata durata studiare gli incantesimi, dettaglio bonus dinamici nel multi attacco,  chiarimenti su arma troppo grande, correzione su differenza di taglia in copertura, 
+*0.47* pubblicata versione 0.46 aggiornata copertina, layout, minimi chiarimenti in combattimento, modificato vantaggio Controllo del Metabolismo, corretta dicitura Bere fa molto bene, corretto danno vantaggio Denti, incantesimo intralciare spostato in animali e piante, modificata abilita' legami di furia, aggiornata vantaggio ottimo gusto e olfatto, modificato costo vantaggio visione del vero, rilettura capitolo introduttivo mostruario, corretta indicazione per apprendere incantesimi fuori lista, modificata durata studiare gli incantesimi, dettaglio bonus dinamici nel multi attacco,  chiarimenti su arma troppo grande, correzione su differenza di taglia in copertura, controllo lista d'armi, 
 
 
 -aggiunti \label{} fino a la magia
