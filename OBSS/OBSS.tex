@@ -2949,9 +2949,11 @@ Ogni singola freccia, dardo, pugnale o arma con gittata scagliata conta come un 
 
 La prima azione di attacco non ha malus mentre la seconda azione di attacco ha -5 al colpire. Successivi Tiri per Colpire cumuleranno -5 al colpire, quindi un terzo attacco avrà -10 ed un quarto attacco -15...
 
-Se il malus al colpire cumulativo diventa maggiore del Tiro per Colpire non è più possibile fare ulteriori attacchi.
+Se il malus al colpire cumulativo diventa maggiore del bonus al Tiro per Colpire non è più possibile fare ulteriori attacchi.
 
 Se ho Competenza Armi 5, Forza 1, +2 al compire come bonus dalla Lista d'Armi e +1 al colpire dato da una Abilità, +2 perché fiancheggio e +1 per arma magica il primo Tiro per Colpire sarà 3d6+12, il secondo sarà 3d6+7, il terzo 3d6+2. Non è possibile effettuare un quarto attacco in quanto il bonus al colpire diventerebbe negativo.
+
+Eventuali bonus al colpire dinamici, es. +1d6, si applicano al Tiro per Colpire e non al computo del bonus per calcolare il numero di attacchi multipli. Nel caso di esempio il Tiro per Colpire diventa 4d6+12/+7+2.
 
 Il giocatore può dichiarare di effettuare gli attacchi su bersagli differenti. Ogni attacco può essere inframmezzato da una Azione di Movimento, purché abbia abbastanza Azioni.
 
@@ -3066,8 +3068,6 @@ Concedete un bonus o malus (+-1/2 se non esplicitato diversamente) ogni qual vol
 
 \textbf{Quando il malus è alla Difesa considerare ogni -1d6 come un -4 alla Difesa}.
 
-Se non si vuole tirare il dado di bonus/malus considerare allora ogni d6 come valore +-4 (a seconda che sia un bonus od un malus).
-
 \textbf{In linea di principio in combattimento un bonus leggero è un +1, medio +2, alto +1d6 (o +4), un bonus molto alto è +2d6 (o +8), viceversa per per i malus}.
 
 \bigskip
@@ -3106,7 +3106,7 @@ Quando sei prono puoi strisciare\index{Strisciare}\index{Carponi} o muoverti a c
 
 l'avversario deve essere entro 2 Azioni di movimento (18 o 12 metri solitamente) ed a non meno di 3 metri. Si deve correre fino ad essere a distanza di mischia.
 
-Si ottiene un +1d6 a Tiro per Colpire, -4 alla Difesa fino alla fine del round, gli attacchi successivi al primo hanno un -10 al colpire (questo per valutare se è possibile farlo o meno). La carica e attacco/attacchi costa 3 Azioni. Non si considerano altri malus per avere corso oltre quelli indicati.
+Si ottiene un +1d6 a Tiro per Colpire, -4 alla Difesa fino alla fine del round, l'attacco successivo al primo prende un -10 al colpire ed un eventuale successivo -15/20... La carica e attacco/attacchi costa 3 Azioni. Non si considerano altri malus per avere corso oltre quelli indicati.
 L'azione di Carica ti porta addosso, in mischia, con l'avversario. L'attacco se fatto con arma lunga ha comunque il bonus di +2 al Tiro per Colpire e colpisce da distanza, per poi finire a contatto con l'avversario.
 
 \begin{center}
@@ -3146,7 +3146,7 @@ L'attaccante colpisce automaticamente ed infligge tre colpi critici.
 \textit{Decollazione di San Giovanni Battista. Concattedrale di San Giovanni a La Valletta (Malta). (Caravaggio). \\Colpo di Grazia}
 \end{center}
 
-\subsubsection{Tiri Mirati}\index{Tiri Mirati}\label{tirimirati}
+\subsubsection{Tiri Mirati}\index{Tiri Mirati}\label{tirimirati}\index{Mirare a parti specifiche}
 
 OBSS non prevede la possibilità di effettuare tiri mirati con qualsiasi arma o incantesimo, tranne se questo lo specifica.
 Quando si colpisce il bersaglio lo si colpisce genericamente, senza possibilità di specificare se alla testa, gamba o altro, medesimo concetto vale in caso di colpi ad oggetti, es. se miri ad un cardine di una porta colpisci tutta la porta. Questo non impedisce al Narratore di valutare conseguenze adeguate.
@@ -3185,7 +3185,7 @@ il giocatore può liberamente aggiungere un +1 al danno togliendo 1 al Tiro per 
 
 \subsubsection{Fiancheggiare} \index{Fiancheggiare}\label{fiancheggiare}
 
-se due personaggi sono attorno allo stesso bersaglio ma non sono a fianco entrambi prendono +2 al Tiro per Colpire o alla Difesa (a loro scelta quale bonus prendere).
+se due personaggi sono attorno allo stesso bersaglio ma non sono a fianco tra loro prendono +2 al Tiro per Colpire o alla Difesa (a loro scelta quale bonus prendere).
 
 Al massimo ci possono essere 4 personaggi attorno ad una creatura di taglia media che prendono il bonus di fiancheggiare. Il tipo di bonus si sceglie round per round, se non dichiarato vale come +2 al Tiro per Colpire.
 
@@ -3254,23 +3254,21 @@ Il bonus al danno dato dalla forza sull’arma secondaria viene dimezzato.
 
 E’ possibile usare l’arma secondaria per migliorare la Difesa di un punto ma non si possono fare attacchi.
 
-
 \subsubsection{Mettersi sulla difensiva} \index{Mettersi sulla difensiva}\label{mettersisulladifensiva}
 
 Usi una Azione per preparati meglio ai successivi attacchi degli avversari. Fino all'inizio del prossimo round hai un +2 alla Difesa.
 
-Il giocatore può liberamente aggiungere un +1 alla Difesa togliendo 2 al Tiro per Colpire (requisito Competenza Armi +1). Non si può togliere più di Competenza Armi/4 al Tiro per Colpire.
+Il giocatore può liberamente aggiungere un +1 alla Difesa togliendo 2 al Tiro per Colpire. Non si può togliere più di Competenza Armi/4 al Tiro per Colpire.
 
 \subsubsection{Difesa totale} \index{Difesa totale}\label{difesatotale}
 
 costa 2 Azioni, non puoi eseguire nessun attacco o lancio di incantesimo, puoi fare solo una Azione e guadagni un +4 in Difesa.
 
-
 \subsubsection{Arma troppo grande}\index{Arma troppo grande} \label{armatroppogrande}
 
 attaccare con un'\textbf{Arma troppo grande} \index{Arma troppo grande}rispetto alla propria taglia è problematico.
 
-Normalmente una creatura può usare un arma della propria dimensione oppure usando due mani un arma di una sola taglia superiore.
+Normalmente una creatura può usare un arma fino della propria taglia oppure usando due mani un arma di una sola taglia superiore.
 
 Se l'arma non è tra quelle "usabili", esempio un Alabarda (arma grande) per una creatura di taglia piccola la penalità al Tiro per Colpire è -1d6.
 
@@ -3288,7 +3286,7 @@ costa 2 Azioni e ti sposti fino a 3 metri. Un'avversario ti può colpire se ha u
 
 Può essere usata per uscire dalla mischia senza causare attacchi di opportunità e poi muoversi od effettuare un attacco utilizzando l'Azione rimasta anche se a -1d6 al colpire.
 
-Se per disingaggiare l'avversario è necessario spostarsi di più di 3 metri, a causa della portata di mischia dell'avversario, è necessario usare anche un'Azione di Movimento.
+Se per disingaggiare l'avversario è necessario spostarsi di più di 3 metri, a causa della portata dell'avversario, è necessario usare anche un'Azione di Movimento.
 
 \subsubsection{Arma Lunga} \index{Arma Lunga}\label{armalunga}
 
@@ -3312,7 +3310,7 @@ Come terza azioni si allontana di altri 9 metri e urla imprechi verso Tups.
 
 Tups è a questo punto a 11 metri dall'avversario, decide di caricare aprendo così la propria difesa ma ottenendo un bonus al colpire.
 
-Carica il brigante colpendolo e arrivandogli addosso. Il brigante molto ferito prova a colpirlo confidando che la sua difficoltà ad usare una arma lunga così da vicino sia bilanciata dalla corsa di Tups.
+Carica il brigante colpendolo e arrivandogli addosso. Il brigante molto ferito prova a colpirlo confidando che la sua difficoltà ad usare una arma lunga così da vicino sia bilanciata dalle penalita' date dalla corsa di Tups.
 
 Tups viene colpito ed il brigante getta a terra la lancia ed estrae un corto pugnale e si mette sulla difensiva.
 
