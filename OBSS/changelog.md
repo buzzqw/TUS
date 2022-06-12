@@ -148,7 +148,7 @@
 
 11/06/2022 aggiornata versione POD
 
-*0.48* pubblicata versione 0.47 aggiornata copertina,
+*0.48* pubblicata versione 0.47 aggiornata copertina, chiarito che attraversare i nemici costa 1 azione,
 
 
 -aggiunti \label{} fino a la magia
