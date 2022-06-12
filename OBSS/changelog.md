@@ -148,9 +148,13 @@
 
 11/06/2022 aggiornata versione POD
 
-*0.48* pubblicata versione 0.47 aggiornata copertina, chiarito che attraversare i nemici costa 1 azione,
+*0.48* pubblicata versione 0.47 aggiornata copertina, chiarito che attraversare i nemici costa 1 azione
 
 12/06/2022 aggiornata versione POD
+
+aggiornato incantesimo luce,
+
+
 
 -aggiunti \label{} fino a la magia
 
