@@ -152,7 +152,7 @@
 
 12/06/2022 aggiornata versione POD
 
-aggiornato incantesimo luce,
+aggiornato incantesimo luce, aggiornato incantesimo scurovisione, evidenziata possibilita' di ignorare 1 e 2 tirati nella prova di magia, 
 
 
 
