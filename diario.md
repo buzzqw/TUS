@@ -1,3 +1,15 @@
+**20/06/2022**
+
+nell'ultimo periodo non ci sono state grosse novita', qualche piccola correzione, aggiunta una abilita'... 
+Il sistema procede nella sua fase di stabilita' progressiva, ovvero poche/nessuna modifica e qualche chiarimento.
+
+Un fatto interessante e' che, probabilmente a settembre, avro' un master che provera' il sistema, detta diversamente non saro' io il Narratore, ma un amico.
+Questo cambia la prospettiva e sicuramente arricchira' ma ancora di piu' permettera' di controllare la bonta' del sistema e del mauale stesso.
+Non vedo l'ora  di poter assistere a come il sistema si comporta nelle mani di un master esperto.
+
+Come ho sempre detto piu' feedback ricevo piu' il sistema puo' migliorare, oltretutto data la modularita' di OBSS e' molto facile arricchirlo con opzioni e nuove scelte.
+
+
 **09/06/2022**
 
 Il sistema matura e migliora ogni giorno, certo che a leggere queste note viene da pensare che prima OBSS facesse pena..
