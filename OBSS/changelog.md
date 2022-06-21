@@ -152,7 +152,7 @@
 
 12/06/2022 aggiornata versione POD
 
-aggiornato incantesimo luce, aggiornato incantesimo scurovisione, evidenziata possibilita' di ignorare 1 e 2 tirati nella prova di magia, allineato condizione paralizzato in condizioni, aggiunta abilita' dadi truccati, aggiornata forma elementale, dettagli su scambiarsi di posto, modificato moltiplicatore trasporto peso per creature con tante zampe, allineato accecato ed invisibilita' per cercare una creatura a distanza doppia della mischia, 
+aggiornato incantesimo luce, aggiornato incantesimo scurovisione, evidenziata possibilita' di ignorare 1 e 2 tirati nella prova di magia, allineato condizione paralizzato in condizioni, aggiunta abilita' dadi truccati, aggiornata forma elementale, dettagli su scambiarsi di posto, modificato moltiplicatore trasporto peso per creature con tante zampe, allineato accecato ed invisibilita' per cercare una creatura a distanza della mischia, 
 
 
 
