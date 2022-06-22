@@ -166,4 +166,12 @@ Aggiungere immagini:
 > modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 
 > valutare
-togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello.
+- togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
+- aggiungere altri mostri , porting ? 
+- rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
+- verificare in testing statistiche, rischio mix/max
+- abilita' probabile altre. capire cosa, attenzione in testing a richieste che esulano o spaccano sistema
+- analizzare gestione mancanti, punti troppo forti, punti esploitabili, valutare sempre con attenzione quando dettagliare quando dare indicazioni
+- gestione opzioni: sono troppe ? analizzare altri sistemi per capire se si sta esagerando. Controllare opzioni e stabilire quale debbano rimanere e quali essere default
+- YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
+- Patroni: va tutto bene? controllare nuove opzioni: tratti, armi, liste, caratteristica
