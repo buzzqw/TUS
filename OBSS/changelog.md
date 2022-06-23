@@ -152,7 +152,7 @@
 
 12/06/2022 aggiornata versione POD
 
-aggiornato incantesimo luce, aggiornato incantesimo scurovisione, evidenziata possibilita' di ignorare 1 e 2 tirati nella prova di magia, allineato condizione paralizzato in condizioni, aggiunta abilita' dadi truccati, aggiornata forma elementale, dettagli su scambiarsi di posto, modificato moltiplicatore trasporto peso per creature con tante zampe, allineato accecato ed invisibilita' per cercare una creatura a distanza della mischia, aggiornata scheda Tàhil, aggiornati prezzi di alcuni mostri, il modificatore di caratteristica per incantesimi puo' essere anche la caratteristica collegata alla prima lista di magia presa, 
+aggiornato incantesimo luce, aggiornato incantesimo scurovisione, evidenziata possibilita' di ignorare 1 e 2 tirati nella prova di magia, allineato condizione paralizzato in condizioni, aggiunta abilita' dadi truccati, aggiornata forma elementale, dettagli su scambiarsi di posto, modificato moltiplicatore trasporto peso per creature con tante zampe, allineato accecato ed invisibilita' per cercare una creatura a distanza della mischia, aggiornata scheda Tàhil, aggiornati prezzi di alcuni mostri, il modificatore di caratteristica per incantesimi puo' essere anche la caratteristica collegata alla prima lista di magia presa, ogni notte si recupera cos+2*ca,
 
 
 
@@ -167,7 +167,7 @@ Aggiungere immagini:
 
 > valutare
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
-- aggiungere altri mostri , porting ? 
+- aggiungere altri mostri , porting ?
 - rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
 - verificare in testing statistiche, rischio mix/max
 - abilita' probabile altre. capire cosa, attenzione in testing a richieste che esulano o spaccano sistema
