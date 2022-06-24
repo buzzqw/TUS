@@ -156,6 +156,10 @@ aggiornato incantesimo luce, aggiornato incantesimo scurovisione, evidenziata po
 
 *0.49* pubblicata versione 0.47 aggiornata copertina,
 
+24/06/2022 aggiornata versione POD
+
+
+
 
 
 -aggiunti \label{} fino a la magia
