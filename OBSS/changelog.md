@@ -154,9 +154,11 @@
 
 aggiornato incantesimo luce, aggiornato incantesimo scurovisione, evidenziata possibilita' di ignorare 1 e 2 tirati nella prova di magia, allineato condizione paralizzato in condizioni, aggiunta abilita' dadi truccati, aggiornata forma elementale, dettagli su scambiarsi di posto, modificato moltiplicatore trasporto peso per creature con tante zampe, allineato accecato ed invisibilita' per cercare una creatura a distanza della mischia, aggiornata scheda Tàhil, aggiornati prezzi di alcuni mostri, il modificatore di caratteristica per incantesimi puo' essere anche la caratteristica collegata alla prima lista di magia presa, ogni notte si recupera cos+2*ca+cm
 
-*0.49* pubblicata versione 0.47 aggiornata copertina,
-
 24/06/2022 aggiornata versione POD
+
+*0.49* pubblicata versione 0.48 aggiornata copertina, aggiunto mostro Sibilante,  riordinate meglio gradi di sfida per mostri,
+
+
 
 
 
