@@ -156,7 +156,7 @@ aggiornato incantesimo luce, aggiornato incantesimo scurovisione, evidenziata po
 
 24/06/2022 aggiornata versione POD
 
-*0.49* pubblicata versione 0.48 aggiornata copertina, aggiunto mostro Sibilante,  riordinate meglio gradi di sfida per mostri, aggiunto incantesimo Lettura del Magico, corretta prova arrampicato Trucco della Corda,
+*0.49* pubblicata versione 0.48 aggiornata copertina, aggiunto mostro Sibilante,  riordinate meglio gradi di sfida per mostri, aggiunto incantesimo Lettura del Magico, corretta prova arrampicato Trucco della Corda, aggiunto mostro Blatta esplosiva,
 
 
 
