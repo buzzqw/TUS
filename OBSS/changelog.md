@@ -156,7 +156,7 @@ aggiornato incantesimo luce, aggiornato incantesimo scurovisione, evidenziata po
 
 24/06/2022 aggiornata versione POD
 
-*0.49* pubblicata versione 0.48 aggiornata copertina, aggiunto mostro Sibilante,  riordinate meglio gradi di sfida per mostri, aggiunto incantesimo Lettura del Magico, corretta prova arrampicato Trucco della Corda, aggiunto mostro Blatta esplosiva, chiariti tiri salvezza per conversione mostri dalla 5e, aggiunto mostro Maledetti immortale, aggiornato foglio mostri cr con dati mostri medi, chiarimento su danno da Luce e Vuoto, 
+*0.49* pubblicata versione 0.48 aggiornata copertina, aggiunto mostro Sibilante,  riordinate meglio gradi di sfida per mostri, aggiunto incantesimo Lettura del Magico, corretta prova arrampicato Trucco della Corda, aggiunto mostro Blatta esplosiva, chiariti tiri salvezza per conversione mostri dalla 5e, aggiunto mostro Maledetti immortale, aggiornato foglio mostri cr con dati mostri medi, chiarimento su danno da Luce e Vuoto, precisata indicazione monete d'oro alla creazione del personaggio, 
 
 
 
