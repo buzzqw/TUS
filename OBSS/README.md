@@ -1,3 +1,6 @@
+**A first, semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS_eng.pdf** not all is translated, but enough to play!
+
+
 **Il print on demand (POD) e' disponibile su Amazon** https://www.amazon.it/dp/B09R3HPJJX
 
 In questa cartella troverete il materiale per giocare al gioco di ruolo Old Bell School System (OBSS). Tutto il materiale e' scritto in italiano, gratuito e gratis (giusto per enfatizzare!)
