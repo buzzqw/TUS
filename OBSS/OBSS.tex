@@ -54,6 +54,20 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \tcbset{colback=brown!10, fonttitle=\scshape}
 \usepackage{imakeidx}
 \usepackage{cancel}
+
+\def\CountIndexOccurrences#1{%
+\expandafter\newcount\csname #1\endcsname%
+\expandafter\newcount\csname #1\endcsname%
+\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
+\IfFileExists{#1.idx}{\input{#1.idx}}{}%
+}
+\CountIndexOccurrences{OBSS}
+\CountIndexOccurrences{Incantesimi}
+\CountIndexOccurrences{Mostruario}
+\CountIndexOccurrences{OggettiMagici}
+\def\TotalBox#1{%
+\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
+
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
 \makeindex[columns=3, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
 \makeindex[columns=3, name=Mostruario, title=Lista dei Mostri, intoc=true]
@@ -80,6 +94,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{hyperref}
 \usepackage{tikz}
 \usepackage[absolute,overlay]{textpos}
+\usepackage{etoolbox}
 
 \raggedbottom
 
@@ -123,6 +138,7 @@ enhanced,
 arc=5pt,
 boxrule=0.3pt
 }
+
 
 \begin{document}
 
@@ -6794,7 +6810,7 @@ Il danno causato da \textbf{Luce}\index{Luce} è per metà da fuoco e per metà 
 
 Il danno causato da \textbf{Vuoto}\index{Vuoto} è per metà da freddo e per metà da energia negativa, eventuali protezioni si applicano alle rispettive metà del danno.
 
-La sola \textbf{energia negativa} danneggia\index{Energia Negativa} i viventi e cura i non morti, la sola \textbf{energia positiva}\index{Energia Positiva} danneggia i non morti ma non cura i viventi (a discrezione del Narratore l'esposizione per un potrebbe equivalere ad un incantesimo di Ristorare Inferiore), vedi anche descrizioni dei Piani.  Un vivente prende danno pieno da Luce o da Vuoto se non ha specifiche resistenze.
+La sola \textbf{energia negativa} danneggia\index{Energia Negativa} i viventi e cura i non morti, la sola \textbf{energia positiva}\index{Energia Positiva} danneggia i non morti ma non cura i viventi (a discrezione del Narratore l'esposizione per un round potrebbe equivalere ad un incantesimo di Ristorare Inferiore), vedi anche descrizioni dei Piani.  Un obiettivo prende danno pieno da Luce o da Vuoto se non ha resistenze inerenti.
 
 Un caso particolare è l'\textbf{energia positiva Curativa}\index{Energia positiva curativa} che cura i viventi e danneggia i non morti. Questa energia è quella dell'Imposizione delle mani, Incanalare energia e degli incantesimi di Cura.
 
@@ -14057,7 +14073,11 @@ Un'armatura perfetta è un armatura creata da un abilissimo fabbro che pur non e
 
 Un fabbro per creare un arma perfetta deve superare di 10 la DC impostata per la creazione dell'armatura.
 
-Un Armatura perfetta costa il doppio di un armatura normale.
+Un Armatura perfetta costa il doppio di un armatura normale.\\
+
+\textbf{Armature magiche}\index{Armature magiche}\index{Scudi magici}
+
+Un armatura magica o scudo magico non solo protegge meglio ma è anche più leggera e affine alla magia. Una armatura +2 abbassa di 1 il Malus Competenza. Una armatura/scudo +3 inoltre toglie 1 dado dalla Prova di Magia se aggiunto. Una armatura +4 abbassa di 2 il Malus Competenza.
 
 
 \begin{center}
@@ -14139,7 +14159,7 @@ Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\
 \vfill
 
 \begin{center}
-\includegraphics[width=0.35\linewidth]{immagini/armaturacorpetto.png}
+\includegraphics[width=0.3\linewidth]{immagini/armaturacorpetto.png}
 \end{center}
 
 \pagebreak
@@ -32784,6 +32804,65 @@ Organizzazione: Solitario, compagnia (2-4), squadra (5-20 più 1 capo 3°-6° e 
 \textbf{Descrizione}\\
 Gli svirfneblin, o "gnomi delle profondità", sono una branca della razza gnomesca. Dimorano nel sottosuolo, in città nascoste, al sicuro dagli elfi scuri e da altre razze sotterranee. La loro pelle è del colore della roccia, di solito grigia o marrone. I maschi sono calvi e le femmine hanno radi capelli grigi. Il legame di uno svirfneblin con il reame dei folletti è molto più forte di quello degli Gnomi di superficie; questo rende gli svirfneblin stranamente distaccati dalle loro emozioni oppure soggetti ad improvvise e violente manifestazioni emotive. Gli svirfneblin hanno combattuto a lungo contro i Duergar e non riescono a distinguere bene i Duergar dai Nani.
 
+\medskip\index[Mostruario]{Globulo}\textbf{Globulo}
+
+\textit{Piccola aberrazione, malvagio}
+
+\textbf{FORZA} -2
+
+\textbf{DESTREZZA} +2
+
+\textbf{COSTITUZIONE} +0
+
+\textbf{INTELLIGENZA} +3
+
+\textbf{SAGGEZZA} +1
+
+\textbf{CARISMA} +3
+
+\textbf{Iniziativa} +3 -- \textbf{Difesa} 15
+
+\textbf{Punti Ferita} 30 (5d10 + 5)
+
+\textbf{Movimento} volare 18 m
+
+\textbf{Tiri Salvezza}: Tempra +4, Riflessi +6, Volontà +5
+
+\textbf{Competenze} -
+
+\textbf{Sensi} scurovisione 36 m
+
+\textbf{Linguaggi} comprende il comune ma non lo parla
+
+\textbf{Sfida} 1 (200 PX)
+
+\textbf{Vulnerabilità} Fuoco
+
+\textbf{Immunità} Vuoto, Freddo
+
+\textbf{Immunità alle condizioni} veleno, prono
+
+\textbf{Odio i volatili} il Globulo ha +1d6 al Tiro per Colpire contro gli uccelli. Attacca prima gli uccelli e creature volanti
+
+\textbf{Natura inusuale} il Globulo non respira
+
+\textbf{Odio l'acqua} il Globulo detesta bagnarsi e ogni 5 litri di acqua spruzzata su lui subisce 1d4 di danno
+
+\textbf{Azioni}
+
+\textit{\textbf{Tentacolo}}. Attacco in mischia, +5 al colpire, portata 3 metri, un obiettivo
+
+\textit{\textbf{Colpisce}} 5 (1d6+2) di danno da Vuoto. Il bersaglio deve fare un Tiro Salvezza su Tempra a DC 11 o aumentare il grado di Affaticamento di 1.
+
+\textbf{\textit{Brillio}} una volta al giorno il Globulo diventa estremamente luminoso, le creature nel raggio di 6 metri attorno a lui devono fare un Tiro Salvezza su Tempra a DC 13 o diventare ciechi per 3 round.
+
+\textbf{Ecologia}
+Ambiente: Qualsiasi, desertico, notturno\\
+Organizzazione: Solitario, gruppi 2d4\\
+\textbf{Tesoro}: Nessuno\\
+\textbf{Descrizione}\\
+I Globuli sono aberrazioni magiche provenienti da qualche portale aperto verso l'Oltre. Creature di freddo e vuoto sembrano delle piccole stelle che anelano solo di risucchiare la vita della creature incontrate.
+Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avversario finché questo è esausto. Una volta ucciso di un Globulo non rimane che una piccola creatura a forma di stella con un grosso occhio centrale, completamente bianco.
 
 \subsection{Golem}
 
@@ -37722,6 +37801,46 @@ Organizzazione: Solitario\\
 \textbf{Tesoro}: Speciale\\
 \textbf{Descrizione}\\
 Potrebbe essere scambiata per una piccola topina bianca, ma La Topi è molto di più. Furba, intelligente, bellissima adora andare al mercato e comprare borsette.
+
+
+\medskip\textbf{Torciascura}\\\index[Mostruario]{Torciascura}
+\textit{Media, non morto, malvagio}\\
+\textbf{Forza}: +3\\
+\textbf{Destrezza}: +1\\
+\textbf{Costituzione}: +2\\
+\textbf{Intelligenza}: +0\\
+\textbf{Saggezza}: -1\\
+\textbf{Carisma}: -2\\
+\textbf{Difesa}: 17 -- \textbf{Iniziativa}: +2\\
+\textbf{Punti Ferita}: 75 (12d10 +20)\\
+\textbf{Movimento}: 6 m\\
+\textbf{Tiri Salvezza}: Tempra +9, Riflessi +8, Volontà +7 \\
+\textbf{Sensi}: Scurovisione, vede nell'oscurità magica\\
+\textbf{Resistenze al Danno} da Vuoto; da arma non magica o che non sia argentata\\
+\textbf{Immunità al Danno} veleno\\
+\textbf{Immunità alle Condizioni} avvelenato, affaticamento\\
+\textbf{Vulnerabilità} Luce\\
+\textbf{Invisibile al buio} un Torciascura e' completamente invisibile finché è nell'oscurità\\
+\textbf{Lingue}: Comprende il Comume, ma non parla\\
+\textit{\textbf{Natura Non Morta.}} Torciascura non ha bisogno di aria, cibo, bevande o sonno.\\
+\textbf{Sfida} 4 (1100 PX)\\
+\textit{\textbf{Sensibilità alla Luce}}. Mentre è alla luce del sole, Torciascura ha -1d6 ai tiri di attacco\\
+\textbf{Multiattacco}\\
+\textit{\textbf{Attacco}} Torciascura attacca due volte con la sua torcia oppure esegue Cono di Tristezza\\
+\textit{\textbf{Torcia}} Attacco di mischia, +8 al colpire\\
+\textit{\textbf{Colpisce}} 7 (1d6+3) di danno da botta, lancia l'incantesimo Oscurità sull'obiettivo colpito, durata fino alla distruzione del Torciascura\\
+\textit{\textbf{Cono di Tristezza}} cono di 6 metri. Le creature colpite devono effettuare un Tiro Salvezza su Volontà DC 14 o cadere in una triste disperazione che conferisce -1d6 al Tiro per Colpire, -2 al danno da mischia.\\
+\textbf{Ecologia}\\
+Ambiente: Dungeon\\
+Organizzazione: Solitario, gruppo 2d4\\
+\textbf{Tesoro}: Speciale\\
+\textbf{Descrizione}\\
+Un Torciascura era un avventuriero, come voi, morto in preda al terrore dopo che l'ultima torcia si spense. Un Torciascura è un non morto, solitamente umanoide, dall'aspetto vagamente indefinito, che brandisce una torcia che emana pura oscurità. Il suo scopo è uccidere nuovi avventurieri avvolgendoli nell'oscurità eterna. 
+
+Solitamente il Torciascura si nasconde nell'oscurità aspettando di toccare l'avversario ed avvolgerlo nella sua maledizione. Una creatura uccisa da un Torciascura torna in vita come Torciascura dopo 1d3 giorni.
+
+Un Torciascura quando viene distrutto lascia a terra la sua torcia. Questa torcia, di pura oscurità può lanciare l'incantesimo Oscurità a tocco tre volte al giorno, fuori dalle mani di un Torciascura se esposta alla luce del sole si distrugge in 2d4 round.
+
 
 \medskip\index[Mostruario]{Troll}\textbf{Troll}
 
@@ -43643,7 +43762,7 @@ Omuncolo, Sfida 0 (10 PX)\\
 Pirana, Sfida 0 (10 PX)\\
 Popolano, Sfida 0 (10 PX)\\
 Ragno, Sfida 0 (10 PX)\\
-Rana, Sfida 0 (0 PX)}\\
+Rana, Sfida 0 (10 PX)}\\
 Ratto, Sfida 0 (10 PX)\\
 Scarabeo di Fuoco Gigante, Sfida 0 (10 PX)\\
 Sciacallo, Sfida 0 (10 PX)\\
@@ -43665,8 +43784,8 @@ Pony, Sfida 1/8 (25 PX)\\
 Ratto Gigante, Sfida 1/8 (25 PX)\\
 Serpente Velenoso, Sfida 1/8 (25 PX)\\
 Serpente Volante, Sfida 1/8 (25 PX)\\
-Strige (Uccello Stigeo), Sfida 1/8 (25 PX)\\
 Strige, Sfida 1/8 (25 PX)\\
+Strige (Uccello Stigeo), Sfida 1/8 (25 PX)\\
 Uomo Acquatico, Sfida 1/8 (25 PX)\\
 Accolito, Sfida 1/4 (50 PX)\\
 Alce, Sfida 1/4 (50 PX)\\
@@ -43685,7 +43804,11 @@ Lupo, Sfida 1/4 (50 PX)\\
 Mefito di Vapore, Sfida 1/4 (50 PX)\\
 Pantera, Sfida 1/4 (50 PX)\\
 Pseudodrago, Sfida 1/4 (50 PX)\\
+Ragno Lupo Gigante  , Sfida 1/4 (50 PX)\\
+Rana Gigante  , Sfida 1/4 (50 PX)\\
 Scheletro, Sfida 1/4 (50 PX)\\
+Sciame di Corvi  , Sfida 1/4 (50 PX)\\
+Sciame di Pipistrelli  , Sfida 1/4 (50 PX)\\
 Sciame di Ratti, Sfida 1/4 (50 PX)\\
 Serpente Costrittore, Sfida 1/4 (50 PX)\\
 Serpente Velenoso Gigante, Sfida 1/4 (50 PX)\\
@@ -43693,13 +43816,9 @@ Spada Volante, Sfida 1/4 (50 PX)\\
 Spiritello, Sfida 1/4 (50 PX)\\
 Tasso Gigante, Sfida 1/4 (50 PX)\\
 Zombi, Sfida 1/4 (50 PX)\\
-Ragno Lupo Gigante  , Sfida 1/4 (50 PX)\\
-Rana Gigante  , Sfida 1/4 (50 PX)\\
-Sciame di Corvi  , Sfida 1/4 (50 PX)\\
-Sciame di Pipistrelli  , Sfida 1/4 (50 PX)\\
 Caprone Gigante, Sfida 1/2 (100 PX)\\
-Cavallo Marino Gigante, Sfida 1/2 (100 PX)\\
 Cavallo da Guerra, Sfida 1/2 (100 PX)\\
+Cavallo Marino Gigante, Sfida 1/2 (100 PX)\\
 Coccodrillo, Sfida 1/2 (100 PX)\\
 Cockatrice, Sfida 1/2 (100 PX)\\
 Esploratore, Sfida 1/2 (100 PX)\\
@@ -43722,6 +43841,7 @@ Satiro, Sfida 1/2 (100 PX)\\
 Scheletro di Cavallo da Guerra, Sfida 1/2 (100 PX)\\
 Sciame di Insetti, Sfida 1/2 (100 PX)\\
 Sciame di Ragni, Sfida 1/2 (100 PX)\\
+Sciame di Scarabei  , Sfida 1/2 (100 PX)\\
 Sciame di Vespe, Sfida 1/2 (100 PX)\\
 Sciami, Sfida 1/2 (100 PX)\\
 Scimmione, Sfida 1/2 (100 PX)\\
@@ -43729,8 +43849,6 @@ Squalo Corallino, Sfida 1/2 (100 PX)\\
 Uomo Magma (Magmin), Sfida 1/2 (100 PX)\\
 Vespa Gigante, Sfida 1/2 (100 PX)\\
 Worg, Sfida 1/2 (100 PX)\\
-Sciame di Scarabei  , Sfida 1/2 (100 PX)\\
-Orco, Sfida 1 (100 PX)\\
 Aquila Gigante, Sfida 1 (200 PX)\\
 Armatura Animata, Sfida 1 (200 PX)\\
 Arpia, Sfida 1 (200 PX)\\
@@ -43743,10 +43861,13 @@ Drago di Rame Cucciolo, Sfida 1 (200 PX)\\
 Driade, Sfida 1 (200 PX)\\
 Duergar, Sfida 1 (200 PX)\\
 Ghoul, Sfida 1 (200 PX)\\
+Globulo, Sfida 1 (200 PX)\\
 Iena Gigante, Sfida 1 (200 PX)\\
 Imp, Sfida 1 (200 PX)\\
 Ippogrifo, Sfida 1 (200 PX)\\
+Leone  , Sfida 1 (200 PX)\\
 Mago Avventuriero, Sfida 1 (200 PX)\\
+Orco, Sfida 1 (100 PX)\\
 Orso Bruno, Sfida 1 (200 PX)\\
 Quasit, Sfida 1 (200 PX)\\
 Ragno Gigante, Sfida 1 (200 PX)\\
@@ -43754,25 +43875,23 @@ Rospo Gigante, Sfida 1 (200 PX)\\
 Sciame di Pirana, Sfida 1 (200 PX)\\
 Spia, Sfida 1 (200 PX)\\
 Tigre, Sfida 1 (200 PX)\\
-Leone  , Sfida 1 (200 PX)\\
-Teschio Fiammeggiante, Sfida 2 (200 PX)\\
 Albero Risvegliato, Sfida 2 (450 PX)\\
 Alce Gigante, Sfida 2 (450 PX)\\
 Ameba Paglierina, Sfida 2 (450 PX)\\
 Ankheg, Sfida 2 (450 PX)\\
 Azer, Sfida 2 (450 PX)\\
 Berserker, Sfida 2 (450 PX)\\
-Blatta Esplosiva , Sfida 2 (450 PX)\\
+Blatta Esplosiva, Sfida 2 (450 PX)\\
 Capitano dei Banditi/Pirata, Sfida 2 (450 PX)\\
 Centauro, Sfida 2 (450 PX)\\
 Cinghiale Gigante, Sfida 2 (450 PX)\\
 Cubo Gelatinoso, Sfida 2 (450 PX)\\
 Diavolo Spinoso, Sfida 2 (450 PX)\\
 Drago Bianco Cucciolo, Sfida 2 (450 PX)\\
-Drago Nero Cucciolo, Sfida 2 (450 PX)\\
-Drago Verde Cucciolo, Sfida 2 (450 PX)\\
 Drago d'Argento Cucciolo, Sfida 2 (450 PX)\\
 Drago di Bronzo Cucciolo, Sfida 2 (450 PX)\\
+Drago Nero Cucciolo, Sfida 2 (450 PX)\\
+Drago Verde Cucciolo, Sfida 2 (450 PX)\\
 Druido, Sfida 2 (450 PX)\\
 Elementale dell'Acqua Minore, Sfida 2 (450 PX)\\
 Ettercap, Sfida 2 (450 PX)\\
@@ -43797,6 +43916,7 @@ Serpente Costrittore Gigante, Sfida 2 (450 PX)\\
 Sibilante, Sfida 2 (450 PX)\\
 Squalo Cacciatore, Sfida 2 (450 PX)\\
 Tappeto del Soffocamento, Sfida 2 (450 PX)\\
+Teschio Fiammeggiante, Sfida 2 (200 PX)\\
 Tigre dai Denti a Sciabola, Sfida 2 (450 PX)\\
 Zombi Ogre, Sfida 2 (450 PX)\\
 Balena Assassina (Orca), Sfida 3 (700 PX)\\
@@ -43814,18 +43934,20 @@ Megera Verde, Sfida 3 (700 PX)\\
 Minotauro, Sfida 3 (700 PX)\\
 Mummia, Sfida 3 (700 PX)\\
 Orrore Arrampicamuri, Sfida 3 (700 PX)\\
-Orsogufo Saggio, Sfida 3 (700 PX)\\
 Orsogufo, Sfida 3 (700 PX)\\
+Orsogufo Saggio, Sfida 3 (700 PX)\\
 Ragno Fase, Sfida 3 (700 PX)\\
 Scorpione Gigante, Sfida 3 (700 PX)\\
 Segugio Infernale, Sfida 3 (700 PX)\\
 Veterano, Sfida 3 (700 PX)\\
 Wight, Sfida 3 (700 PX)\\
 B.O.C., Sfida 4 (1.100 PX)\\
+Banshee, Sfida 4 (1.100 PX)\\
 Chuul, Sfida 4 (1.100 PX)\\
 Cinghiale Mannaro, Sfida 4 (1.100 PX)\\
 Couatl, Sfida 4 (1.100 PX)\\
 Drago Rosso Cucciolo, Sfida 4 (1.100 PX)\\
+Elefante, Sfida 4 (1.100 PX)\\
 Ettin, Sfida 4 (1.100 PX)\\
 Fantasma, Sfida 4 (1.100 PX)\\
 Lamia, Sfida 4 (1.100 PX)\\
@@ -43833,8 +43955,7 @@ Maledetti immortale, Sfida 4 (1.100 PX)\\
 Protoplasma Nero, Sfida 4 (1.100 PX)\\
 Succube, Sfida 4 (1.100 PX)\\
 Tigre Mannara, Sfida 4 (1.100 PX)\\
-Banshee, Sfida 4 (1.100 PX)\\
-Elefante, Sfida 4 (1.100 PX)\\
+Torciascura, Sfida 4 (1.100 PX)\\
 Verme Strisciante Tentacolato, Sfida 4 (1.100 PX)\\
 Bulette, Sfida 5 (1.800 PX)\\
 Coccodrillo Gigante, Sfida 5 (1.800 PX)\\
@@ -43866,30 +43987,30 @@ Grande Mago, Sfida 6 (2.300 PX)\\
 Mammut, Sfida 6 (2.300 PX)\\
 Medusa, Sfida 6 (2.300 PX)\\
 Persecutore Invisibile, Sfida 6 (2.300 PX)\\
+Progenie Vampirica  , Sfida 6 (1.800 PX)\\
 Viverna, Sfida 6 (2.300 PX)\\
 Vrock, Sfida 6 (2.300 PX)\\
-Progenie Vampirica  , Sfida 6 (1.800 PX)\\
-Drago Nero Giovane, Sfida 7 (2.900 PX)\\
 Drago di Rame Giovane, Sfida 7 (2.900 PX)\\
+Drago Nero Giovane, Sfida 7 (2.900 PX)\\
 Gigante di Pietra, Sfida 7 (2.900 PX)\\
 Guardiano Protettore, Sfida 7 (2.900 PX)\\
 Oni, Sfida 7 (2.900 PX)\\
 Scimmione Gigante, Sfida 7 (2.900 PX)\\
 Assassino, Sfida 8 (3.900 PX)\\
-Drago Verde Giovane, Sfida 8 (3.900 PX)\\
+Diavolo delle Catene , Sfida 8 (3.900 PX)\\
 Drago di Bronzo Giovane, Sfida 8 (3.900 PX)\\
+Drago Verde Giovane, Sfida 8 (3.900 PX)\\
 Gigante del Gelo, Sfida 8 (3.900 PX)\\
 Hezrou, Sfida 8 (3.900 PX)\\
 Idra, Sfida 8 (3.900 PX)\\
 Manto Assassino, Sfida 8 (3.900 PX)\\
 Naga Spirituale, Sfida 8 (3.900 PX)\\
 Tirannosauro, Sfida 8 (3.900 PX)\\
-Diavolo delle Catene , Sfida 8 (3.900 PX)\\
-Divora Cervelli, Sfida 9 (3.900 PX)\\
-Elementale dell'Acqua Maggiore, Sfida 9 (3.900 PX)\\
 Diavolo d'Ossa, Sfida 9 (5000 PX)\\
+Divora Cervelli, Sfida 9 (5000 PX)\\
 Drago Blu Giovane, Sfida 9 (5000 PX)\\
 Drago d'Argento Giovane, Sfida 9 (5000 PX)\\
+Elementale dell'Acqua Maggiore, Sfida 9 (5000 PX)\\
 Gigante del Fuoco, Sfida 9 (5000 PX)\\
 Gigante delle Nuvole, Sfida 9 (5000 PX)\\
 Glabrezu, Sfida 9 (5000 PX)\\
@@ -43897,11 +44018,11 @@ Golem di Argilla, Sfida 9 (5000 PX)\\
 Uomo Albero (Treant), Sfida 9 (5000 PX)\\
 Aboleth, Sfida 10 (5.900 PX)\\
 Angelo Deva, Sfida 10 (5.900 PX)\\
-Drago Rosso Giovane, Sfida 10 (5.900 PX)\\
 Drago d'Oro Giovane, Sfida 10 (5.900 PX)\\
+Drago Rosso Giovane, Sfida 10 (5.900 PX)\\
+G.E.C., Sfida 10 (5.900 PX)\\
 Golem di Pietra, Sfida 10 (5.900 PX)\\
 Naga Guardiano, Sfida 10 (5.900 PX)\\
-G.E.C., Sfida 10 (5900 PX)\\
 Behir, Sfida 11 (7.200 PX)\\
 Diavolo Cornuto, Sfida 11 (7.200 PX)\\
 Djinni, Sfida 11 (7.200 PX)\\
@@ -43919,8 +44040,8 @@ Rakshasa, Sfida 13 (10000 PX)\\
 Vampiro, Sfida 13 (10000 PX)\\
 Diavolo del Ghiaccio, Sfida 14 (11.500 PX)\\
 Drago di Rame Adulto, Sfida 14 (11.500 PX)\\
-Drago Verde Adulto, Sfida 15 (13000 PX)\\
 Drago di Bronzo Adulto, Sfida 15 (13000 PX)\\
+Drago Verde Adulto, Sfida 15 (13000 PX)\\
 Fenice, Sfida 15 (13000 PX)\\
 Mummia Sovrana, Sfida 15 (13000 PX)\\
 Verme Purpureo, Sfida 15 (13000 PX)\\
@@ -43930,9 +44051,9 @@ Drago d'Argento Adulto, Sfida 16 (15000 PX)\\
 Golem di Ferro, Sfida 16 (15000 PX)\\
 Marilith, Sfida 16 (15000 PX)\\
 Androsfinge, Sfida 17 (18000 PX)\\
+Drago d'Oro Adulto, Sfida 17 (18000 PX)\\
 Drago Nero Adulto, Sfida 17 (18000 PX)\\
 Drago Rosso Adulto, Sfida 17 (18000 PX)\\
-Drago d'Oro Adulto, Sfida 17 (18000 PX)\\
 Testuggine Dragona, Sfida 17 (18000 PX)\\
 Cavaliere Nero, Sfida 18 (20000 PX)\\
 Balor, Sfida 19 (22000 PX)\\
@@ -43940,21 +44061,21 @@ Diavolo della Fossa, Sfida 20 (25000 PX)\\
 Drago Bianco Antico, Sfida 20 (25000 PX)\\
 Drago d'Ottone Antico, Sfida 20 (25000 PX)\\
 Angelo Solar, Sfida 21 (33000 PX)\\
-Drago Nero Antico, Sfida 21 (33000 PX)\\
 Drago di Rame Antico, Sfida 21 (33000 PX)\\
+Drago Nero Antico, Sfida 21 (33000 PX)\\
 Lich, Sfida 21 (33000 PX)\\
-Drago Verde Antico, Sfida 22 (41000 PX)\\
 Drago di Bronzo Antico, Sfida 22 (41000 PX)\\
+Drago Verde Antico, Sfida 22 (41000 PX)\\
 Drago Blu Antico, Sfida 23 (50000 PX)\\
 Drago d'Argento Antico, Sfida 23 (50000 PX)\\
-Kraken, Sfida 23 (50000 PX)\\
 Drago Giallo Antico, Sfida: 23 (50000 PX)\\
-Drago Rosso Antico, Sfida 24 (62000 PX)\\
+Kraken, Sfida 23 (50000 PX)\\
 Drago d'Oro Antico, Sfida 24 (62000 PX)\\
+Drago Rosso Antico, Sfida 24 (62000 PX)\\
 Demogorgone, Sfida 26 (90000 PX)\\
 Orcus, Sfida 26 (90000 PX)\\
-Tarrasque, Sfida 30 (155000 PX)\\
 Tàhil, Sfida 30 (155000 PX)\\
+Tarrasque, Sfida 30 (155000 PX)\\
 }
 
 \end{multicols}
@@ -44548,12 +44669,21 @@ Per qualsiasi utilizzo di OBSS o sue parti od idee siete pregati di comunicarlo 
 
 \pagebreak
 
+
 {\scriptsize\printindex}
+
+\TotalBox{OBSS}
 
 {\scriptsize\printindex[Incantesimi]}
 
+\TotalBox{Incantesimi}
+
 {\scriptsize\printindex[OggettiMagici]}
 
+\TotalBox{OggettiMagici}
+
 {\scriptsize\printindex[Mostruario]}
+
+\TotalBox{Mostruario}
 
 \end{document}
