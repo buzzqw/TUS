@@ -1,4 +1,4 @@
-**A first, semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS_eng.pdf** not all is translated, but enough to play!
+**A first, semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS_eng.pdf** !!!
 
 
 **Il print on demand (POD) e' disponibile su Amazon** https://www.amazon.it/dp/B09R3HPJJX
