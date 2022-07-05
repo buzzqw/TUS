@@ -1,3 +1,17 @@
+**05/07/2022**
+
+INGLESE!!!
+
+lo so che non importa a nessuno al mondo, anzi, ad uno importa, ME, ma grazie a google translate, script di python, e tante tante ore di lavoro di affinamento ho la prima versione inglese di OBSS.
+Adesso il divertimento e' mantenerla aggiornata.. ma e' un altro discorso. Ho voluto mettermi adesso che il sistema ha oggettivamente raggiunto una sua maturita' e quindo le modifiche o aggiunte devono essere poche'.
+
+Il sistema nelle ultime settimane di verifica non ha dato particolari segni di fragilita', anzi ad ogni controllo e' risultato adeguato, chiaro che qualcosa trovo sempre e miglioro sempre, ma fa parte del labor lime continue di un opera a cui tengo molto.
+
+E' stata pubblicato la 0.49, una versione non certo eccelsa per cambiamenti, ma sempre nel solco del miglioramento.
+
+Le modifiche su cui ragiono sono diverse e numerose, quelle che apporto sono molte di meno, il sistema ha una sua impronta, non voglio snaturare anche solo con opzioni.
+Quando vorro' ci mettero 5 minuti a preparare un nuovo file, un nuovo sistema e liberare le idee, ma adesso non e' cosi'.
+
 **20/06/2022**
 
 nell'ultimo periodo non ci sono state grosse novita', qualche piccola correzione, aggiunta una abilita'... 
