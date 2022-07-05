@@ -21,9 +21,6 @@
 \usepackage{setspace}
 \usepackage{graphicx}
 
-%\usepackage[allfiguresdraft]{draftfigure}  %senza figure, deve rimanere alla riga 24
-%\geometry{verbose,tmargin=2cm,bmargin=2.5cm,lmargin=1.5cm,rmargin=2cm}  %basic
-%\geometry{verbose,tmargin=1.7cm,bmargin=2.3cm,lmargin=1.5cm,rmargin=2cm}  %reduced
 \usepackage{amssymb}
 \usepackage{makeidx}
 \usepackage{multirow}
@@ -44,9 +41,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{ragged2e}
 
 \setmainfont[Path=../altro/fonts/,BoldItalicFont=DejaVuSerif-BoldItalic.ttf,ItalicFont=DejaVuSerif-Italic.ttf,BoldFont=ReadexPro-bold.ttf,Ligatures=TeX,Scale=0.94]{ReadexPro-Regular.ttf}
-%ItalicFont = *-Italic,
 
-%\usepackage{palatino}
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
 \usepackage{tcolorbox}
@@ -141,10 +136,8 @@ boxrule=0.3pt
 
 
 \begin{document}
-
 \def \versione {0.50} \fontsize{10}{12}\selectfont
-
-\thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(5.5cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(9cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{20cm}(4cm,27.5cm) {\color{red} \calligra\Huge{Fantasy Adventure Game} \LARGE \textbf{v\versione}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %riga 131 %rimuovere questa riga per togliere la copertina
+\thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(5.5cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(9cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{20cm}(4cm,27.5cm) {\color{red} \calligra\Huge{Fantasy Adventure Game} \LARGE \textbf{v\versione}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %riga 140 %rimuovere questa riga per togliere la copertina
 
 \bigskip
 Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni
