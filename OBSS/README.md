@@ -1,7 +1,28 @@
 **A first, semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS_eng.pdf** !!!
 
+In this folder you will find material for playing the Old Bell School System (OBSS) role-playing game.  The game uses and is licensed with OGL 5.1, that of Dungeon & Dragons, this means that if you know DnD it will be easy and quick to grasp the mechanics (even if quite different!)
 
-**Il print on demand (POD) e' disponibile su Amazon** https://www.amazon.it/dp/B09R3HPJJX
+The magic system is a spell point and uses the 5e spells, much modified and others added by me (with inspiring OSR theme). The combat remains easy, fast but much fun and tactical.
+
+OBSS refers to the OSR (Old School Renaissance) philosophy but in any case in a modern key, it embraces its principles but does not exclude a more complete system of rules that can help the Narrator.
+
+Download the OBSS_eng.pdf manual https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS_eng.pdf 
+
+The OBSS manual is complete, a nice tome of over 500 pages, with everything you need to play! You will find the chapters that interest the Players and the Storyteller, including all the 5ed SRD monsters (plus a few additions).
+
+I suggest you always download the latest version of the manual directly from this page, the one published in the versions is usually a long way back.
+
+Old Bell School System is a mature, well-finished, complete game written with passion and a keen eye for the fairness of the rules. It has a homogeneous structure and unlike many "home" manuals (or homebrew if preferred) it has a careful, almost professional layout.
+
+OBSS is aimed at novice Storytellers (or Masters as called elsewhere) who want to have fun and learn, the most experienced Storytellers will find a system with a blend that is usually captivating, refined but at the same time familiar.
+
+A changelog written in a slightly more understandable way than commits is the file changelog.md link, while in diario.md link you will find my author's delusions (few things currently!) (only in italian!)
+
+I created a Telegram channel https://t.me/obssgdr to talk and discuss on OBSS
+
+Have fun and have a good game!
+
+**Il print on demand (POD) in ITALIANO e' disponibile su Amazon** https://www.amazon.it/dp/B09R3HPJJX
 
 In questa cartella troverete il materiale per giocare al gioco di ruolo Old Bell School System (OBSS). Tutto il materiale e' scritto in italiano, gratuito e gratis (giusto per enfatizzare!)
 
