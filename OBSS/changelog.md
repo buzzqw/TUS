@@ -161,7 +161,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 05/07/2022 aggiornata versione POD
 
-*0.50* pubblicata versione 0.49 aggiornata copertina,
+*0.50* pubblicata versione 0.49 aggiornata copertina, da 0 PF ad 1 la prova di pronto soccorso ha DC 12,
 
 
 
