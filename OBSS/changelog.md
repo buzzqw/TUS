@@ -178,7 +178,7 @@ Aggiungere immagini:
 
 > modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 
-> valutare
+> valutare:
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
 - aggiungere altri mostri , porting  > in corso, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
 - rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
@@ -189,3 +189,5 @@ Aggiungere immagini:
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
 - Patroni: va tutto bene? controllare nuove opzioni: tratti, armi, liste, caratteristica
 - valutare versione "stabile" se ha senso dirlo, forse dopo fine round di molti test con altri narratori
+. valutare competenza singola arma a devoti come quella del patrono
+. valutare movimento diagonale fare pesare 1m e non 1.5m
