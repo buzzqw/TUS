@@ -21,6 +21,7 @@
 \usepackage{setspace}
 \usepackage{graphicx}
 
+%\usepackage[allfiguresdraft]{draftfigure}  %senza figure, deve rimanere alla riga 24
 \usepackage{amssymb}
 \usepackage{makeidx}
 \usepackage{multirow}
@@ -133,7 +134,6 @@ enhanced,
 arc=5pt,
 boxrule=0.3pt
 }
-
 
 \begin{document}
 \def \versione {0.50} \fontsize{10}{12}\selectfont
@@ -2260,24 +2260,23 @@ Una prova di Acrobatica riuscita con DC 15 permette al personaggio di dimezzare 
 \begin{tabularx}{0.45\textwidth}{Xl}
 	\textbf{Esempio di Superficie} & \textbf{DC}\\
 	\toprule
-	Parete grezza con appigli, mattoni sporgenti&10\\
-	Un albero, una corda senza nodi&15\\
-	Una parete liscia con appigli &20\\
-	Un muro con pochissimi appigli&25\\
-	Una parete naturale liscia senza appigli&30\\
+	Parete grezza con appigli, mattoni sporgenti&+10\\
+	Un albero, una corda senza nodi&+15\\
+	Una parete liscia con appigli &+20\\
+	Un muro con pochissimi appigli&+25\\
+	Una parete naturale liscia senza appigli&+30\\
 	Ti puoi appoggiare a 2 pareti opposte&-8\\
 	Ti puoi appoggiare a 2 parete angolari&-4\\
 	Puoi usare una corda&-8\\
 	Superficie scivolosa&+5\\
 	Corda con nodi&-4\\
 	Scendere con una corda&-4\\
+	Muoversi a velocità dimezzata&+10\\
 \end{tabularx}
 
 \smallskip
 
 Usare una corda\index{Arrampicarsi su una corta}\index{Salire su una corda}, scalare od arrampicarsi equivale a muoversi in un terreno doppiamente difficile.
-
-Aumentando la DC di 10, da dichiararsi prima della prova, ci si muove a velocità dimezzata (terreno solamente difficile).
 
 In caso di fallimento della prova si consuma l'Azione senza spostarsi. Se la fallisci di 10 o più perdi la presa e cadi, puoi fare un Tiro Salvezza su Riflessi alla stessa difficoltà per afferrarti a qualcosa, se fallisci anche il TS cadi fino in fondo.
 
@@ -18592,13 +18591,13 @@ Un cavallo essendo Grande e quadrupede, con Forza 3, puo trasportare senza probl
 
 \subsubsection{Nuotare}\index{Nuotare}
 
-Una creatura con una velocità di Nuotare può muoversi attraverso l'acqua alla sua velocità indicata senza fare prove di Nuotare. Si guadagna un bonus di +8 su qualsiasi prova di Nuotare per eseguire un'azione particolare o evitare un pericolo. La creatura può sempre scegliere di prendere 10 su una prova di Nuotare, anche se distratti o in pericolo quando si nuota. Non può prendere il 10 solo in caso di acque tempestose. Una tale creatura può utilizzare l'azione di correre mentre nuota, a condizione che nuoti in linea retta.
+Una creatura con una velocità di Nuotare può muoversi attraverso l'acqua alla sua velocità indicata senza fare prove di Nuotare. Si guadagna un bonus di +2d6 su qualsiasi prova di Nuotare per eseguire un'azione particolare o evitare un pericolo. La creatura può sempre scegliere di prendere 10 su una prova di Nuotare, anche se distratti o in pericolo quando si nuota. Non può prendere il 10 solo in caso di acque tempestose. Una tale creatura può utilizzare l'azione di correre mentre nuota, a condizione che nuoti in linea retta.
 
 Se non si ha il tipo di movimento Nuotare muoversi nell'acqua si considera come "terreno" difficile, e quindi ci si muovo a metà della velocità indicata da movimento. La prova di Nuotare è necessaria ogni volta che ci si deve muovere, in caso di fallimento non ci si sposta e si ha un -1 alla prova successiva, in caso di fallimento critico la successiva prova prende un -1d6. Quando la prova è inferiore a 5 si incomincia ad affondare ed affogare.
 
 \subsubsection{Scalare}\index{Scalare}
 
-Una creatura con una velocità di Scalare ha un bonus di +8 su tutti le prove di Arrampicarsi. La creatura se  deve fare una prova di Arrampicarsi per arrampicarsi su qualsiasi parete o pendenza  può sempre scegliere di prendere 10, anche se di fretta o minacciata durante la salita.
+Una creatura con una velocità di Scalare ha un bonus di +2d6 su tutti le prove di Arrampicarsi. La creatura se  deve fare una prova di Arrampicarsi per arrampicarsi su qualsiasi parete o pendenza  può sempre scegliere di prendere 10, anche se di fretta o minacciata durante la salita.
 
 Se una creatura con una velocità di Scalare tenta una scalata rapida (vedi sopra), è come se eseguisse una Azione di Scatto e fa una singola prova di Arrampicarsi con una penalità di -5.
 
