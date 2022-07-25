@@ -161,7 +161,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 05/07/2022 aggiornata versione POD
 
-*0.50* pubblicata versione 0.49 aggiornata copertina, da 0 PF ad 1 la prova di pronto soccorso ha DC 12, nota su golem di pietra, specificato che aumentare la difficolta' di 10 nella prova di scalare va fatto prima di tirare i dadi, migliorato layout regole per competenze, suggerimenti per gestione prove, ancora migliorie a layout lingue,
+*0.50* pubblicata versione 0.49 aggiornata copertina, da 0 PF ad 1 la prova di pronto soccorso ha DC 12, nota su golem di pietra, specificato che aumentare la difficolta' di 10 nella prova di scalare va fatto prima di tirare i dadi, migliorato layout regole per competenze, suggerimenti per gestione prove, ancora migliorie a layout lingue, modificato requisito necessario in infondere paura ed infondere coraggio, 
 
 
 
@@ -173,8 +173,8 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 Aggiungere immagini:
 
-356 "dopo la vittoria giacciono insieme p" cicli millenari 6
-366 descrizione piani 3, riepitivo lungo
+358 "dopo la vittoria giacciono insieme p" cicli millenari 6
+368 descrizione piani 3, riempitivo lungo
 
 > modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 
