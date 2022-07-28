@@ -171,7 +171,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 Aggiungere immagini:
 
-358 "dopo la vittoria giacciono insieme p" cicli millenari 6
+169 fine incantesimi, tavola ouija ?
 368 descrizione piani 3, riempitivo lungo
 
 > modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
