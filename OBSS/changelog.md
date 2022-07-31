@@ -162,9 +162,11 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 05/07/2022 aggiornata versione POD
 
 
-*0.50* pubblicata versione 0.49 aggiornata copertina, da 0 PF ad 1 la prova di pronto soccorso ha DC 12, nota su golem di pietra, specificato che aumentare la difficolta' di 10 nella prova di scalare va fatto prima di tirare i dadi, migliorato layout regole per competenze, suggerimenti per gestione prove, ancora migliorie a layout lingue, modificato requisito necessario in infondere paura ed infondere coraggio,  aggiunto incantesimi dissolvi magia avanzato, corretta forza in rete intralciante, aggiornato tabella patrono tratti, aggiornata shaylaila, aggiornati tratti Laydel, aggiornamento tratti, aggiunta abilita' passo felpato, corretto in vita e morte indicazione recupero punti ferita naturale, corretto nome lista pugno vuoto, chiarito meglio che gli attacchi distanza o versatili usano la destrezza, chiarimenti su azione di carica, corretta dizione alzarsi da prono, allineato aiutare un altro tra competenze e combattimento,
+**0.50** pubblicata versione 0.49 aggiornata copertina, da 0 PF ad 1 la prova di pronto soccorso ha DC 12, nota su golem di pietra, specificato che aumentare la difficolta' di 10 nella prova di scalare va fatto prima di tirare i dadi, migliorato layout regole per competenze, suggerimenti per gestione prove, ancora migliorie a layout lingue, modificato requisito necessario in infondere paura ed infondere coraggio,  aggiunto incantesimi dissolvi magia avanzato, corretta forza in rete intralciante, aggiornato tabella patrono tratti, aggiornata shaylaila, aggiornati tratti Laydel, aggiornamento tratti, aggiunta abilita' passo felpato, corretto in vita e morte indicazione recupero punti ferita naturale, corretto nome lista pugno vuoto, chiarito meglio che gli attacchi distanza o versatili usano la destrezza, chiarimenti su azione di carica, corretta dizione alzarsi da prono, allineato aiutare un altro tra competenze e combattimento,
 
+30/07/2022 aggiornata versione POD
 
+*0.51* pubblicata versione 0.50 aggiornata copertina, allineato successi e fallimenti critici in tiri per colpire-check-tiri salvezza, 3 volte 6 nel TS riesci, se manchi e fai 2x1 oppure 1x1 e 2x2 accadono brutte cose,
 
 
 -aggiunti \label{} fino a la magia

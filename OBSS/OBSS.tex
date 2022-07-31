@@ -136,7 +136,7 @@ boxrule=0.3pt
 }
 
 \begin{document}
-\def \versione {0.50} \fontsize{10}{12}\selectfont
+\def \versione {0.51} \fontsize{10}{12}\selectfont
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(5.5cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(9cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{20cm}(4cm,27.5cm) {\color{red} \calligra\Huge{Fantasy Adventure Game} \LARGE \textbf{v\versione}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %riga 140 %rimuovere questa riga per togliere la copertina
 
 \bigskip
@@ -382,7 +382,7 @@ Ad ogni passaggio di livello si guadagna un certo numero di Punti Ferita, stabil
 
 \textbf{Successo Critico/Fallimento Critico Magico}\index{Successo Critico Magico} \index{Fallimento Critico Magico}: nel caso in cui il giocatore passi la Prova di Magia con dei critici (due 1 oppure due 6). Il successo critico magico porta a spettacolose modifiche nell'incantesimo, viceversa potrebbero succedere brutte cose all'incantatore.
 
-\textbf{Successo Critico/Fallimento Critico nel Tiro Salvezza}\index{Sucesso Critico Magico nel Tiro Salvezza} \index{Fallimento Critico nel Tiro Salvezza}: a seconda dell'incantesimo in caso di successo critico nel Tiro Salvezza (riuscito di 10 o più) si dimezzano ulteriormente gli effetti mentre in caso di fallimento critico (si fallisce di 10 o più) si subisce ancora di più il danno.
+\textbf{Successo Critico/Fallimento Critico nel Tiro Salvezza}\index{Sucesso Critico Magico nel Tiro Salvezza} \index{Fallimento Critico nel Tiro Salvezza}: a seconda dell'incantesimo in caso di successo critico nel Tiro Salvezza (prova riuscita ed almeno due 6 tirati) si dimezzano ulteriormente gli effetti mentre in caso di fallimento critico (si fallisce di 10 o più) si subisce ancora di più il danno.
 
 \textbf{Tiro per Colpire (TC)}:\index{Tiro per Colpire} \index{TC}è una prova di Attacco (Competenza Armi) contro Difesa (armatura + scudo + Abilità + magia...). Il Tiro per Colpire può essere da mischia (ovvero per le creature prossime alla tua arma, a distanza di mischia) oppure da distanza (per archi, balestre, ma anche pugnali lanciati..).. Leggi bene il capitolo del combattimento.
 
@@ -1461,29 +1461,19 @@ Non hai veramente capito qualcosa fino a quando non sei in grado di spiegarlo a 
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{L}{e} Competenze rappresentano il cosa si conosce ed il cosa si sa fare. I punteggi delle stesse rappresentano quando bene è conosciuta la competenza e quindi più è alto il valore più si è esperti.
 
-Se non specificato diversamente per tutte le prove di competenza (Base, Attive) valgono tre regole base \index{Regole Base} chiamate \textbf{Golden Rules}:\index{Golden Rules}
-
-\begin{itemize}
-\item
-I \textbf{6 esplodono}, ovvero se nella prova dei 3d6 un dado fa sei, somma il risultato e ritira, e se fa 6 nuovamente sommi il risultato e ritiri ancora e ancora..
-\item
-Gli \textbf{1 portano male}, se fai 1 con il dado togli 1 alla somma dei dadi tirati (e quindi il dado che ha fatto uno conta zero)
-\item
-\textbf{Affidarsi alla sorte}. Ogni 4 punti tra Competenza (Base o Attiva) e Caratteristica che rinunci a sommare nella prova tiri un dado a 6 in più (Tiro per Colpire, Tiro Salvezza, prove Competenza). Questo quattro non può essere tolto dal punteggio dato da Abilità o oggetti magici.
-
-\end{itemize}
-
 \subsection{Competenze di Base}\index{Competenze di Base}\label{competenzebase}
-
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 %Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti; la maggior parte, anzi, assaggiato quanto lo studio sia fatica e provata la stanchezza sulla propria pelle, butta alla leggera la noce ancor prima di aver rotto il guscio per gustarne il gheriglio. (Richard de Bury)\medskip
 
-Lo studio è per i perdenti! (Lobo)}\end{enfasi}\end{changemargin}
+
+Lo studio è per i perdenti! (Lobo) }\end{enfasi}\end{changemargin}
 
 Ogni personaggio ha una Professione iniziale, un percorso di vita e lavoro che l'ha portato ad apprendere determinate competenze ovvero ciò che faceva (e volendo continua a fare) prima di cimentarsi in pericolose avventure.
 
 Sono elencate alcune Professioni e le loro competenze relative, il personaggio acquisisce queste competenze con il punteggio indicato nella tabella.
+
+Nella scheda va segnata la Professione iniziale e le competenze acquisite, ovviamente in accordo con il Narratore è possibile selezionare delle competenze diverse e anche scegliere professioni diverse!
 
 \end{multicols}
 
@@ -1525,15 +1515,17 @@ Sono elencate alcune Professioni e le loro competenze relative, il personaggio a
 
 \begin{multicols}{2}
 
-Nella scheda va segnata la Professione iniziale e le competenze acquisite, ovviamente in accordo con il Narratore è possibile selezionare delle competenze diverse e anche scegliere professioni diverse!
-
 Ad ogni nuova professione che andrete a creare associate 4 competenze prese da questa lista, una competenza partirà con un punteggio di 1, due competenze partiranno con il punteggio di 2 e quella più specifica e professionale partirà con il punteggio di 3.
 
 Il giocatore \textbf{aumenta di 1 il punteggio di una caratteristica che si collega alla Professione o background} fino al valore massimo di 4+modifiche razziali. Potrebbe essere Intelligenza per un Apprendista mago, ma se questo fa il culturista per hobby potrebbe essere anche Forza.
 
 Ovviamente una professione non si esplicita in sole 4 competenze ma queste sono quelle che più entreranno in uso durante le avventure, il Narratore sarà aiutato dalla vostra professione a capire come il vostro personaggio potrà risolvere le situazioni e come interagirà con gli altri personaggi.
 
-Qui sotto c'è la \textbf{Tabella elenco competenze} da cui scegliere per eventuali nuove professioni o personalizzazioni delle stesse.
+Qui sotto c'è la \textbf{Tabella elenco competenze} da cui scegliere per eventuali nuove professioni o personalizzazioni delle stesse.\\
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti; la maggior parte, anzi, assaggiato quanto lo studio sia fatica e provata la stanchezza sulla propria pelle, butta alla leggera la noce ancor prima di aver rotto il guscio per gustarne il gheriglio. (Richard de Bury)\medskip
+}\end{enfasi}\end{changemargin}	\medskip
 
 In accordo con il Narratore è anche possibile cambiare l'ordine delle Competenze rendendo più capace il personaggio in alcune competenze piuttosto che altre.
 
@@ -1725,6 +1717,8 @@ E' possibile che vengano richiesti dei Tiri Salvezza con modificatori diversi, o
 
 Quando viene chiesto un Tiro Salvezza significa fare una prova sulla Competenza Attiva richiesta, possa essere Volontà, Tempra o Riflessi.
 La prova si andrà ad eseguire tirando 3d6 + valore della Competenza Attiva richiesta ovvero il punteggio nel Tiro Salvezza su Volontà, Riflessi o Tempra + il valore della Caratteristica collegata alla tipologia Competenza Attiva (Saggezza, Destrezza o Costituzione) + Abilità + bonus magici (oggetti che influenzano il Tiro Salvezza) e modificatori vari presenti.
+
+Se ottieni \textbf{tre volte 6 nel Tiro Salvezza} lo stesso è riuscito, indipendentemente dal risultato finale.\index{Tre volte 6 nei Tiri Salvezza}
 
 \subsubsection{Competenza Armi}\label{competenzaarmi}
 
@@ -2088,13 +2082,37 @@ Evita di chiedere una prova qualora i giocatori dichiarino COME effettuano la pr
 
 Se devi fare una prova su una Caratteristica devi tirare 3d6 e sommare il punteggio della Caratteristica e altri modificatori. Comunica questo risultato al Narratore che la confronterà con la difficoltà (DC).
 
+\subsection{Le Golden Rules}\index{Le Golden Rules}
+
+Se non specificato diversamente per tutte le prove di competenza (Base, Attive) valgono tre regole base \index{Regole Base} chiamate \textbf{Golden Rules}:\index{Golden Rules}
+
+\begin{itemize}
+\item
+I \textbf{6 esplodono}, ovvero se nella prova dei 3d6 un dado fa sei, somma il risultato e ritira, e se fa 6 nuovamente sommi il risultato e ritiri ancora e ancora..
+\item
+Gli \textbf{1 portano male}, se fai 1 con il dado togli 1 alla somma dei dadi tirati (e quindi il dado che ha fatto uno conta zero)
+\item
+\textbf{Affidarsi alla sorte}. Ogni 4 punti tra Competenza (Base o Attiva) e Caratteristica che rinunci a sommare nella prova tiri un dado a 6 in più (Tiro per Colpire, Tiro Salvezza, prove Competenza). Questo quattro non può essere tolto dal punteggio dato da Abilità o oggetti magici.
+
+\begin{center}\textbf{\textit{Corollario}}\end{center}
+
+\item \textbf{Tirare 3 volte 6 è un successo}, sia nelle Prove di Competenza, Tiri Salvezza e Tiri per Colpire indipendentemente dal risultato finale.\index{Tirare tre volte 6}
+
+\item \textbf{Tirare 3 volte 1 e' fallimento}, sia nelle Prove che Tiri Salvezza che Tiri per Colpire indipendentemente dal risultato finale. \index{Tirare tre volte 1}
+
+\item \textbf{Tirare due volte 6} è presagio di buona ventura (Successo Critico) se riesci nella prova
+
+\item\textbf{Tirare 2 volte 1 oppure 1 volta 1 e due volte 2} è presagio di brutte cose (Fallimento Critico) se fallisci la prova
+
+\end{itemize}
+
+Sfruttate le \textbf{Golden Rules} a vostro vantaggio! Osate, tentate, rischiate quando la situazione non permette altre soluzioni!
+
 \subsection{Superare o Fallire la prova}\index{Superare o Fallire la prova di tanto}\label{superareofallirelaprova}\index{Successo critico nelle prove}
 
-Ogni qual volta la prova è superata brillantemente (di 10 o più rispetto alla difficoltà necessaria) il Narratore può decidere di dare maggiori informazioni, concedere bonus alle azioni successive (+1/+2).. qualsiasi cosa possa valorizzare quanto agevolmente la prova è stata superata.
+Ogni qual volta la prova è \textbf{superata con un critico}, ovvero la prova è riuscita e si sono tirati almeno due 6 il Narratore può decidere di dare maggiori informazioni, concedere un bonus alle azioni successive (+1).. qualsiasi cosa possa valorizzare quanto agevolmente la prova è stata superata.\index{Superare la prova con un Critico}
 
-Viceversa se la prova fallisce di 10 o più rispetto al valore necessario il Narratore potrebbe descrivere come miseramente la prova è fallita e come il risultato pessimo influenzi l'azione o quelle successive.
-
-Se la somma dei dadi è 0 (zero) perché avete tirate 3 volte 1 la prova non è automaticamente fallita, semplicemente si andrà a contare solo il vostro punteggio di Competenza e Caratteristica per stabilire se avete passato o meno la prova. Questi situazioni non si applicano alla prova del Tiro per Colpire o Tiro Salvezza, troverete nel capitoli combattimento e magie le regole specifiche.
+Viceversa se la prova fallisce \textbf{e si sono tirati due 1 oppure un 1 e due 2} il Narratore potrebbe descrivere come miseramente la prova è fallita e come il risultato pessimo influenzi l'Azione e quelle successive.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Questo premio cozza chiaramente con il suggerimento di "premiare" il COME fare e non il COSA fare. Il Narratore, anche in base al gruppo che deve gestire dovrà ben destreggiarsi e cercare un equilibrio.\end{narratore}\end{changemargin}
@@ -2108,15 +2126,20 @@ Fate in modo che siano le domande ed i ragionamenti dei giocatori a rivelare gli
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Non è solo la scheda!]{
 Non cercate per forza la soluzione nella scheda. Usate la vostra capacità di immaginare, di risolvere, di intuire per uscire e risolvere situazioni. La scheda rappresenta solo una piccola parte di ciò che il vostro personaggio può fare. }\end{tcolorbox}\end{changemargin}
 
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+Non fate che siano le prove a governare il vostro gioco. \textbf{Fate giocare i giocatori}, fateli recitare, fateli partecipare ed in base a quanto dicono stabilite se la prova è passata o meno.
+
+Se vi dicono "convinco la guardia a farci passare" fate fare una prova di Intimidire (o Diplomazia), se invece intavolano un dialogo convincente potete considerare che la prova sia stata fatta con esito positivo (o negativo se non sono riusciti ad argomentare!) Premiate il COME più che il COSA.
+\end{narratore}\end{changemargin}
+
 \subsection{Prove contrapposte}\index{Prove opposte}\label{proveopposte}\index{Prove Contrapposte}
 
 Ci sono situazioni in cui il personaggio deve effettuare una prova in contrapposizione con un avversario, ad esempio muoversi silenziosamente alle spalle di una guardia, rubare dalle tasche del mercante, intimidire l'orchetto per farsi dare indicazioni..
 
 In questi casi il personaggio ed il Narratore effettuano una prova, chi ottiene il valore più alto vince, in caso di parità vince chi ha il valore più alto nella Competenza, poi nella Caratteristica ed infine l'eventuale "avversario".
 
-Per \textbf{velocizzare} il gioco potete decidere di impostare la difficoltà (per il \textit{giocatore}) a 10 + Tiro Salvezza / Competenza / modificatori dell'avversario ... evitando di tirare i dadi per i \textit{nemici} e fornendo un DC statica da battere.\index{DC Statica nelle prove contrapposte}
-
-\bigskip
+Per \textbf{velocizzare} il gioco potete decidere di impostare la difficoltà (per il \textit{giocatore}) a 10 + Tiro Salvezza / Competenza / modificatori dell'avversario ... evitando di tirare i dadi per i \textit{nemici} e fornendo un DC statica da battere.\index{DC Statica nelle prove contrapposte}\\
 
 \textbf{Alcuni esempi di prova opposte}
 
@@ -2138,13 +2161,9 @@ Per \textbf{velocizzare} il gioco potete decidere di impostare la difficoltà (p
 
 - Braccio di ferro: prova contrapposta Tiro Salvezza Tempra (con modificatore forza)
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-Non fate che siano le prove a governare il vostro gioco. \textbf{Fate giocare i giocatori}, fateli recitare, fateli partecipare ed in base a quanto dicono stabilite se la prova è passata o meno.
+\medskip
 
-Se vi dicono "convinco la guardia a farci passare" fate fare una prova di Intimidire (o Diplomazia), se invece intavolano un dialogo convincente potete considerare che la prova sia stata fatta con esito positivo (o negativo se non sono riusciti ad argomentare!) Premiate il COME più che il COSA.
-\end{narratore}\end{changemargin}
-
-Ogni qual volta la prova opposta riguarda una \textbf{caratteristica} fate fare un Tiro Salvezza come valore contrapposto valutando il tipo e la Caratteristica da usare.
+Ogni qual volta la \textbf{prova opposta} riguarda una \textbf{caratteristica} fate fare un Tiro Salvezza come valore contrapposto valutando il tipo e la Caratteristica da usare.
 
 \subsection{Vantaggi e Svantaggi} \index{Vantaggi}\index{Bonus}\index{Malus}\index{Svantaggi}\label{vantaggi}
 
@@ -2213,22 +2232,6 @@ Evitate di fare voi le prove al posto dei Giocatori. Siate descrittivi ma non an
 
 Non fate tirare dadi per prove che non hanno possibilità di fallire, per le prove che non hanno \textbf{problemi} se sono fallite o possono essere ritentate senza problemi. Fate tirare i dadi ogni qual volta la prova può avere un risultato \textbf{spettacoloso} o \textbf{fallimentare}, fate godere il giocatore del successo o temere del fallimento critico.
 
-\subsection{Golden Rules}\label{goldenrules}
-
-\begin{itemize}
-
-\item
-\textbf{Esplosione del 6}: \index{Esplosione del 6} nelle prove di competenze base e attive. Se con un dado fai 6 lo sommi e ritiri e continui così se fai ancora 6.
-
-\item
-\textbf{Tirare un 1}: \index{Tirare un 1 nelle prove}porta male anche nelle prove di competenze base e attive, ovvero non si somma. Non è un fallimento automatico è solo un tiro molto basso (zero + valore di competenza)
-
-\item
-\textbf{Tentare la sorte}\index{Tentare la sorte}: posso togliere 4 punti tra punteggio di competenza e dalla Caratteristica per aggiungere un 1d6 al tiro (Tiro per Colpire, Tiro Salvezza, prove Competenza)
-\end{itemize}
-
-Sfruttate le \textbf{Golden Rules} a vostro vantaggio! Osate, tentate, rischiate quando la situazione non permette altre soluzioni!
-
 \subsubsection{Opzionale - Successo Parziale}\index{Successo Parziale}\index{Prova con Rischio}\index{Opzionale - Successo Parziale}\hypertarget{successoparziale}{}\label{successoparziale}
 
 Il Narratore può anche decidere di valutare una prova non riuscita come un successo parziale.
@@ -2276,7 +2279,7 @@ Una prova di Acrobatica riuscita con DC 15 permette al personaggio di dimezzare 
 	Muoversi a velocità dimezzata&+10\\
 \end{tabularx}
 
-\smallskip
+\medskip
 
 Usare una corda\index{Arrampicarsi su una corta}\index{Salire su una corda}, scalare od arrampicarsi equivale a muoversi in un terreno doppiamente difficile.
 
@@ -2413,6 +2416,13 @@ La prova di \textbf{Valutare}\index{Valutare} e' un base alla rarità dell'ogget
 
 \end{multicols}
 
+\medskip
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Prove Prove e Prove!]
+A essere cinici un gioco di ruolo è tutta una prova, vuoi per riuscire a fare un salto, per colpire qualcuno, per evitare una trappola od un incantesimo.. sono sempre prove!
+Ma tu devi essere piu' intelligente e furbo. Le prove possono essere quasi sempre evitate o affrontate con vantaggio. Gioca con arguzia, usa la tua immaginazione, sii creativo! Il Narratore non potrà che esserne contento e tu soddisfatto!!!
+\end{tcolorbox}\end{changemargin}
+
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Le prove sono una parte molto importante nel gioco ed il vostro approccio ad esse, al pari degli scontri, determina la tipologia di avventura.
 
@@ -2466,7 +2476,7 @@ La \textbf{Telepatia}\index{Telepatia} è un mezzo per parlare con qualsiasi cre
 \vfill
 
 \begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/Pieter_Bruegel_the_Elder-The_Tower_of_Babel.png}
+\includegraphics[width=0.4\linewidth]{immagini/Pieter_Bruegel_the_Elder-The_Tower_of_Babel.png}
 
 	\textit{La Torre di Babele, Pieter Bruegel il Vecchio.\\
 ... Per questo la si chiamò Babele, perché là il Signore confuse la lingua di tutta la terra e di là il Signore li disperse su tutta la terra. (Genesi 11, 1-9.)}
@@ -2934,9 +2944,11 @@ In caso si tiri un 1 nel Tiro per Colpire questo abbassa di 1 (quindi 1 non cont
 
 Anche per il Tiro per Colpire valgono le regole base delle Competenze. La Difesa è un valore fisso e come tale usa i modificatori per le prove a valore fisso.
 
-\subsection{Tirare 3 volte 1}\index{Tirare 3 volte 1}\label{tiraretrevolteuno}
+\subsection{Fallimento Critico}\index{Tirare 2 volte 1 oppure 2 volte 2 ed una volta 1}\label{tiraretrevolteuno}
 
-Se nei primi 3 Tiri per Colpire fai tre volte 1 mancherai l'avversario (indipendentemente dal risultato finale del Tiro per Colpire) ed il Narratore potrebbe decidere brutte cose sul tuo attacco (ti cade l'arma, colpisci un amico, ti si rompe l'arma, ti ferisci, cadi, appare un \hyperlink{diavolodellafossa}{Diavolo della Fossa} per deriderti...)
+Se hai tirato tre volte 1 hai mancato, indipendentemente dal risultato finale.
+
+Se si e' mancato e si sono tirati almeno due 1 oppure un 1 e due 2 il Narratore potrebbe decidere brutte cose sul tuo attacco (ti cade l'arma, colpisci un amico, ti si rompe l'arma, ti ferisci, cadi, appare un \hyperlink{diavolodellafossa}{Diavolo della Fossa} per deriderti...)
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 OBSS vuole essere divertente da giocare, vuole che i giocatori si divertano e vedano i risultati ottenuti dai dadi (e ovviamente dalle loro scelte). Le Golden Rules e l'Esplosione del Danno vogliono proprio togliere la patina ai dadi e fare divertire. Un giocatore, apprezzerà, ancor più se di esperienza, come i tiri dei dadi non siano solo un numero ma bensì aprano la possibilità di fare la differenza. Chiedete al giocatore di descrivere il colpo critico e fatelo recitare nella sua gloria di potenza!
@@ -6514,10 +6526,10 @@ Un Devoto aggiunge +1d6 alle Prova di Magia nelle scuole preferite dal Patrono e
 
 Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni e bene, anzi agisca oltre le sue normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un \textit{\textbf{Prova di Magia}} e tirare \textbf{3d6 + 1d6 ogni 4 punti di Competenza Magica} + eventuali bonus.
 
-Se nell'insieme di dadi lanciati ci sono almeno due 1 oppure un 1 e due 2 saranno successe brutte cose, questo caso viene chiamato \textbf{fallimento critico magico}, l'incantesimo non si manifesta ed i Punti Magia sono spesi.
+Se nell'insieme di dadi lanciati ci sono almeno due 1 oppure un 1 e due 2 saranno successe brutte cose, questo caso viene chiamato \textbf{fallimento critico magico}\index{Fallimento Critico Magico}, l'incantesimo non si manifesta ed i Punti Magia sono spesi.
 Per verificare quanti fallimenti critici magici sono stati fatti controllate per primo quante coppie di 1 sono presenti, controllate poi se è rimasto una altro 1 da associare ad un 1 od a due 2.
 
-Controllata l'assenza di fallimento critico se nel tiro di dadi ci sono almeno due 6 avrai ottenuto un \textbf{successo critico magico}, come per le Golden Rules continuerai a tirare un dado per ogni 6 fatto o che andrai a fare. Conta i 6 che fai, ogni due è un successo critico magico! Eventuali 1 tirati a seguito del successo critico non contano per il fallimento critico. \textbf{Per ogni critico ottenuto la DC del Tiro Salvezza aumenta di 2}.
+Controllata l'assenza di fallimento critico se nel tiro di dadi ci sono almeno due 6 avrai ottenuto un \textbf{successo critico magico}\index{Successo Critico Magico}, come per le Golden Rules continuerai a tirare un dado per ogni 6 fatto o che andrai a fare. Conta i 6 che fai, ogni due è un successo critico magico! Eventuali 1 tirati a seguito del successo critico non contano per il fallimento critico. \textbf{Per ogni critico ottenuto la DC del Tiro Salvezza aumenta di 2}.
 
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
@@ -6526,7 +6538,7 @@ Concedete un +1d6 od ignorare un 2 nella Prova di Magia, se richiesta, quando il
 
 Se non c'è nessun risultato "particolare" (ne fallimento ne successo critico) l'incantesimo se non richiesto diversamente si manifesta normalmente.
 
-Pagando un costo in punti magia aggiuntivo l'incantatore \textbf{può ignorare gli 1 o 2 tirati}.\index{Incantesimi, Ignorare 1 o 2 in Prova Magia} Pagando una volta aggiuntiva il costo dell'incantesimo può ignorare un dado tirato, pagando il doppio ne può ignorare due, pagando il quadruplo ne può ignorare 3... Questo pagamento si fa prima di effettuare la Prova di Magia. In caso di Critico Magico i Punti Magia del costo aggiuntivo dell'incantesimo si pagano lo stesso.
+Pagando un costo in punti magia aggiuntivo l'incantatore \textbf{può ignorare gli 1 o 2 tirati}.\index{Incantesimi, Ignorare 1 o 2 in Prova Magia} Pagando una volta aggiuntiva il costo dell'incantesimo può ignorare fino un dado tirato, pagando il doppio ne può ignorare fino due, pagando il quadruplo ne può ignorare fino a 3... Questo pagamento si fa prima di effettuare la Prova di Magia. In caso di Critico Magico i Punti Magia del costo aggiuntivo dell'incantesimo si pagano lo stesso.
 
 Un incantatore può anche volontariamente fallire la Prova di Magia.
 
@@ -6738,7 +6750,7 @@ Se l'incantatore non ha ripassato gli incantesimi appena sveglio o comunque prim
 
 Quando l'incantesimo ti dice di fare un Tiro per Colpire se è un "\textbf{attacco a distanza con incantesimo}" devi effettuare un Tiro per Colpire contro la Difesa dell'avversario. Questo Tiro per Colpire è effettuato con 3d6+ \textbf{Competenza Armi} + Destrezza + Abilità e modificatori vari.
 
-Se il Tiro \textbf{per Colpire con incantesimo è in mischia} eseguirai un Tiro per Colpire contro la Difesa dell'avversario con il valore di Forza. Questo tiro per colpire è effettuato con 3d6+ \textbf{Competenza Armi} + Forza ed Abilità e modificatore vari.
+Se il \textbf{Tiro per Colpire con incantesimo è in mischia} eseguirai un Tiro per Colpire contro la Difesa dell'avversario con il valore di Forza. Questo tiro per colpire è effettuato con 3d6+ \textbf{Competenza Armi} + Forza ed Abilità e modificatore vari.
 
 E' anche possibile che sia richiesto un Tiro per Colpire con incantesimo a tocco, in questo caso la Difesa del soggetto diviene 10 + Destrezza + oggetti magici, ignorando armatura e scudo.
 
@@ -6777,12 +6789,17 @@ Tups che ha Intelligenza 4 e ha preso 1 volta Adepto della Magia nella lista del
 
 Se sei tu a dover resistere ad una magia il Narratore non ti dirà di fare un Tiro Salvezza a difficoltà 18, è lui che confronta il tuo tiro con la difficoltà, potrà dirti che la prova è complessa, difficile o facile...
 
-Se il Tiro Salvezza riesce o fallisce di più di 10 (\textbf{successo critico salvezza}\index{Successo Critico Incantesimi} o \textbf{fallimento critico salvezza}\index{Fallimento Critico Incantesimi}) il Narratore potrà decidere di applicare svantaggi o vantaggi al risultato finale.\index{Più di 10}.
+Se nel Tiro Salvezza tiri 3 volte 6 sei riuscito a passare ed ottieni un \textbf{Successo Critico Salvezza}.
+
+Se il Tiro Salvezza riesce ed tiri almeno due 6 nel lancio dei dadi ottieni un \textbf{successo critico salvezza}\index{Successo Critico Incantesimi}.
+
+Se nel Tiro Salvezza tiri 3 volte 1 hai fallito il tiro ed ottieni un \textbf{Fallimento Critico Salvezza}.\index{Tre 1 nei Tiri Salvezza magici}
+
+Se il Tiro Salvezza fallisce ed tiri almeno due 1 oppure un 1 e due 2 nel lancio dei dadi ottieni un \textbf{fallimento critico salvezza}\index{Fallimento Critico Incantesimi}.{Due 1 nei Tiri Salvezza magici}
+
 E' anche possibile che nella descrizione dell'incantesimo sia riportato cosa succede in caso di successo o fallimento critico del Tiro Salvezza.
 
-Per i mostri o comunque per un lancio di incantesimi dato da abilità magiche innate, se non specificato la DC del Tiro Salvezza è pari alla 10 + 2 x livello dell'incantesimo + Intelligenza.
-
-
+Per i \textbf{mostri} o comunque per un lancio di incantesimi dato da abilità magiche innate, se non specificato la \textbf{DC del Tiro Salvezza è pari alla 10 + 2 x livello dell'incantesimo + Intelligenza}.\index{DC Tiro Salvezza Incantesimo mostri}
 
 \subsubsection{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto}\label{magiedistratto}
 
