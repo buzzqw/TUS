@@ -61,7 +61,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \CountIndexOccurrences{Incantesimi}
 \CountIndexOccurrences{Mostruario}
 \CountIndexOccurrences{OggettiMagici}
-\def\TotalBox#1{%
+\def\TotalBox#1{\vfill% 
 \fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
 
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
@@ -2094,15 +2094,15 @@ Gli \textbf{1 portano male}, se fai 1 con il dado togli 1 alla somma dei dadi ti
 \item
 \textbf{Affidarsi alla sorte}. Ogni 4 punti tra Competenza (Base o Attiva) e Caratteristica che rinunci a sommare nella prova tiri un dado a 6 in più (Tiro per Colpire, Tiro Salvezza, prove Competenza). Questo quattro non può essere tolto dal punteggio dato da Abilità o oggetti magici.
 
-\begin{center}\textbf{\textit{Corollario}}\end{center}
+\begin{center}\textbf{\textit{Corollario}}\end{center}\index{Corollario Golden Rules}
 
 \item \textbf{Tirare 3 volte 6 è un successo}, sia nelle Prove di Competenza, Tiri Salvezza e Tiri per Colpire indipendentemente dal risultato finale.\index{Tirare tre volte 6}
 
 \item \textbf{Tirare 3 volte 1 e' fallimento}, sia nelle Prove che Tiri Salvezza che Tiri per Colpire indipendentemente dal risultato finale. \index{Tirare tre volte 1}
 
-\item \textbf{Tirare due volte 6} è presagio di buona ventura (Successo Critico) se riesci nella prova
+\item \textbf{Tirare due volte 6} è presagio di buona ventura (Successo Critico) se riesci nella prova \index{Successo Critico}
 
-\item\textbf{Tirare 2 volte 1 oppure 1 volta 1 e due volte 2} è presagio di brutte cose (Fallimento Critico) se fallisci la prova
+\item\textbf{Tirare 2 volte 1 oppure 1 volta 1 e due volte 2} è presagio di brutte cose (Fallimento Critico) se fallisci la prova \index{Fallimento Critico}
 
 \end{itemize}
 
@@ -2115,7 +2115,7 @@ Non cercate per forza la soluzione nella scheda. Usate la vostra capacità di im
 
 \subsection{Superare o Fallire la prova}\index{Superare o Fallire la prova di tanto}\label{superareofallirelaprova}\index{Successo critico nelle prove}
 
-La prova è superata quando tirati i 3d6 e sommata la Competenza interessata ed la Caratteristica nonché i vari modificatori il risultato è pari o maggiore alla DC stabilita dal Narratore.
+La prova è superata quando tirati i 3d6 e sommata la Competenza interessata e la Caratteristica nonché i vari modificatori il risultato è pari o maggiore alla DC stabilita dal Narratore.
 
 Se il risultato è inferiore alla difficoltà la prova è fallita.
 
@@ -2456,31 +2456,37 @@ La \textbf{Telepatia}\index{Telepatia} è un mezzo per parlare con qualsiasi cre
 
 \medskip
 
+\begin{multicols}{2}
+
+
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Prove Prove e Prove!]
 		A essere cinici un gioco di ruolo è tutta una prova, vuoi per riuscire a fare un salto, per colpire qualcuno, per evitare una trappola od un incantesimo...!
 		Devi essere piu' intelligente e furbo. Le prove possono essere spesso evitate o affrontate con vantaggio. Gioca con arguzia, usa la tua immaginazione, sii creativo! Il Narratore non potrà che esserne contento e tu soddisfatto!!!
 \end{tcolorbox}\end{changemargin}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-		Le prove sono una parte molto importante nel gioco ed il vostro approccio ad esse, al pari degli scontri, determina la tipologia di avventura.
-
-		Ascoltate il giocatore e percepite il suo entusiasmo, cercate di capire le intenzioni finali, gli scopi.
-		Un giocatore coinvolto e partecipativo contagia con il entusiasmo anche agli altri giocatori! Ascoltate attentamente le proposte che vi fanno anche se vi sembrano \textit{poco assennate} o \textit{semplicemente folli}, nulla vi vieta di avvertire della potenziale pericolosità delle scelte, cercate comunque di non bloccare l'entusiasmo. E se non trovate una regola adatta alla situazione usate il \textbf{buon senso}, similitudine ad altre azioni, fatevi coinvolgere nella descrizione dei fatti, siate teatrali quando necessario! Il buon spirito del gruppo ne gioverà sicuramente!
-
-		Se poi i giocatori vi dicono di fare una prova di Consapevolezza oppure "faccio una prova di saltare" seguiteli nei loro propositi ma allo stesso tempo fate di tutto per coinvolgerli ulteriormente.
-
-		\textbf{Non c'è una regola per tutto! Divertimento e buon senso non devono mai mancare}!
-
-\end{narratore}\end{changemargin}
-
 \vfill
 
 \begin{center}
-\includegraphics[width=0.4\linewidth]{immagini/Pieter_Bruegel_the_Elder-The_Tower_of_Babel.png}
+\includegraphics[width=0.8\linewidth]{immagini/Pieter_Bruegel_the_Elder-The_Tower_of_Babel.png}
 
 	\textit{La Torre di Babele, Pieter Bruegel il Vecchio.\\
-... Per questo la si chiamò Babele, perché là il Signore confuse la lingua di tutta la terra e di là il Signore li disperse su tutta la terra. (Genesi 11, 1-9.)}
+"... Per questo la si chiamò Babele, perché là il Signore confuse la lingua di tutta la terra e di là il Signore li disperse su tutta la terra." (Genesi 11, 1-9.)}
 \end{center}
+	
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+Le prove sono una parte molto importante nel gioco ed il vostro approccio ad esse, al pari degli scontri, determina la tipologia di gioco ed avventura. Ascoltate il giocatore e percepite il suo entusiasmo, cercate di capire le intenzioni finali, gli scopi.
+Un giocatore coinvolto e partecipativo contagia con il entusiasmo anche agli altri giocatori! Ascoltate attentamente le proposte che vi fanno anche se vi sembrano \textit{poco assennate} o \textit{semplicemente folli}, nulla vi vieta di avvertire della potenziale pericolosità delle scelte, cercate comunque di non bloccare l'entusiasmo. E se non trovate una regola adatta alla situazione usate il \textbf{buon senso}, similitudine ad altre azioni, fatevi coinvolgere nella descrizione dei fatti, siate teatrali quando necessario! Il buon spirito del gruppo ne gioverà sicuramente!
+
+Se poi i giocatori vi dicono di fare una prova di Consapevolezza oppure "faccio una prova di saltare" seguiteli nei loro propositi ma allo stesso tempo fate di tutto per coinvolgerli ulteriormente.
+
+\textbf{Non c'è una regola per tutto! Divertimento e buon senso non devono mai mancare}!
+
+\end{narratore}\end{changemargin}
+
+
+\end{multicols}
+
 
 \pagebreak
 
@@ -5295,7 +5301,7 @@ La \textbf{terza volta} che prendi l'Abilità puoi influenzare anche creature di
 
 Quando usi questa Abilità puoi dichiarare di usare la Tempesta di Furia come tua unica azione (3 Azioni).
 
-Fai un unico Tiro per Colpire a -5 e se colpisci causi un danno critico pari a Competenza Armi/4 volte.
+Fai un unico Tiro per Colpire a -5 e se colpisci causi un danno critico pari a Competenza Armi/4 volte.\\
 
 \begin{center}
 \includegraphics[width=0.5\linewidth]{immagini/kenilguerriero.png}
@@ -6482,13 +6488,13 @@ La descrizione di un incantesimo specifica la sua area di effetto, che di solito
 \textit{\textbf{Sfera}}: selezioni il punto di origine di una sfera, e la sfera si estenderà da quel punto fino ad incontrare un ostacolo insormontabile o la sua dimensione espresse nel raggio. La misura della sfera è indicata come raggio in metri che si estende da quel punto.
 Il punto di origine della sfera è incluso nella sua area di effetto.
 
-Una palla di fuoco che viene generata in una stanza di 9x9 m ne prenderà una buona parte, come in una stanza di 6x6 m la andrà a riempire tutta. In una stanza di 3x3 m se ha modo di uscire da una porta od una finestra continuerà la sua esplosione fino ad arrivare ai 6 metri di raggio. Una palla di fuoco in un corridoio di 3x3 m lo saturerà per 6 metri avanti e indietro dal punto di origine.
+Una palla di fuoco che viene generata in una stanza di 9x9 m ne prenderà una buona parte, come in una stanza di 6x6 m la andrà a riempire tutta. In una stanza di 3x3 m se ha modo di uscire da una porta od una finestra continuerà la sua esplosione fino ad arrivare ai 6 metri di raggio. Una palla di fuoco in un corridoio di 3x3 m lo saturerà per 3 metri avanti e indietro dal punto di origine.
 
 \end{itemize}
 
 \subsubsection{Rarità degli Incantesimi}\index{Rarità degli Incantesimi}\label{magieraritaincantesimi}\index{Incantesimi, Rarita' incantesimi}
 
-Su alcuni Incantesimi è indicata la Rarità ovvero quanto è probabile trovare questo incantesimo o quanto può essere conosciuto. La rarità dipende non solo dal livello stesso dell'incantesimo, ovviamente gli incantesimi più potenti sono anche i più rari, ma anche da quanto normalmente sono diffusi e conosciuti nella lista. Il Narratore userà questa scala per valutare cosa può essere trovato più facilmente: Comune (60\%) - Non Comune (24\%) - Raro (10\%) - Molto Raro (5\%) - Leggendario (1\%), (1/13,14/15,16,17,18).
+Su alcuni Incantesimi è indicata la Rarità ovvero quanto è probabile trovare questo incantesimo o quanto può essere conosciuto. La rarità dipende non solo dal livello stesso dell'incantesimo, ovviamente gli incantesimi più potenti sono anche i più rari, ma anche da quanto normalmente sono diffusi e conosciuti nella lista. Il Narratore userà questa scala per valutare cosa può essere trovato più facilmente: Comune (70\%) - Non Comune (23\%) - Raro (5\%) - Molto Raro (1.5\%) - Leggendario (0.5\%), (1-70,71-93,94-97,98-99,100)
 
 \subsubsection{Combinare Effetti Magici}\index{Combinare Effetti Magici}\label{magiecombinareeffettimagici}\index{Incantesimi, Combinare effetti}
 
@@ -6538,7 +6544,7 @@ Concedete un +1d6 od ignorare un 2 nella Prova di Magia, se richiesta, quando il
 
 Se non c'è nessun risultato "particolare" (ne fallimento ne successo critico) l'incantesimo se non richiesto diversamente si manifesta normalmente.
 
-Pagando un costo in punti magia aggiuntivo l'incantatore \textbf{può ignorare gli 1 o 2 tirati}.\index{Incantesimi, Ignorare 1 o 2 in Prova Magia} Pagando una volta aggiuntiva il costo dell'incantesimo può ignorare fino un dado tirato, pagando il doppio ne può ignorare fino due, pagando il quadruplo ne può ignorare fino a 3... Questo pagamento si fa prima di effettuare la Prova di Magia. In caso di Critico Magico i Punti Magia del costo aggiuntivo dell'incantesimo si pagano lo stesso.
+Pagando un costo in punti magia aggiuntivo l'incantatore \textbf{può ignorare gli 1 o 2 tirati}.\index{Incantesimi, Ignorare 1 o 2 in Prova Magia} Pagando una volta aggiuntiva il costo dell'incantesimo può ignorare fino un dado tirato, pagando il doppio ne può ignorare fino due, pagando il quadruplo ne può ignorare fino a 3 (e poi x8...). Questo pagamento si fa prima di effettuare la Prova di Magia. In caso di Critico Magico i Punti Magia del costo aggiuntivo dell'incantesimo si pagano lo stesso.
 
 Un incantatore può anche volontariamente fallire la Prova di Magia.
 
@@ -6898,11 +6904,11 @@ Il danno causato da \textbf{Vuoto}\index{Vuoto} è per metà da freddo e per met
 
 La sola \textbf{energia negativa} danneggia\index{Energia Negativa} i viventi e cura i non morti, la sola \textbf{energia positiva}\index{Energia Positiva} danneggia i non morti ma non cura i viventi (a discrezione del Narratore l'esposizione per un round potrebbe equivalere ad un incantesimo di Ristorare Inferiore), vedi anche descrizioni dei Piani.  Un obiettivo prende danno pieno da Luce o da Vuoto se non ha resistenze inerenti.
 
-Un caso particolare è l'\textbf{energia positiva Curativa}\index{Energia positiva curativa} che cura i viventi e danneggia i non morti. Questa energia è quella dell'Imposizione delle mani, Incanalare energia e degli incantesimi di Cura.
+Un caso particolare è l'\textbf{energia positiva Curativa}\index{Energia positiva curativa} che cura i viventi e danneggia i non morti. Questa energia è quella dell'Imposizione delle mani, Incanalare energia e degli incantesimi di Cura.\\
 
 \end{multicols}
 
-\vfill
+%\vfill
 
 \begin{center}
 \includegraphics[width=0.2\linewidth]{immagini/Voynich_Manuscript.png}

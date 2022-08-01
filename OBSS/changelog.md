@@ -166,7 +166,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 30/07/2022 aggiornata versione POD
 
-*0.51* pubblicata versione 0.50 aggiornata copertina, allineato successi e fallimenti critici in tiri per colpire-check-tiri salvezza, 3 volte 6 nel TS riesci, se manchi e fai 2x1 oppure 1x1 e 2x2 accadono brutte cose,
+*0.51* pubblicata versione 0.50 aggiornata copertina, allineato successi e fallimenti critici in tiri per colpire-check-tiri salvezza, 3 volte 6 nel TS riesci, se manchi e fai 2x1 oppure 1x1 e 2x2 accadono brutte cose, corretta misura palla di fuoco in corridoio, aggiornata percentuale rarita' incantesimi,  ulteriori ottimizzazioni layout, 
 
 
 -aggiunti \label{} fino a la magia
