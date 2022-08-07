@@ -195,3 +195,15 @@ Aggiungere immagini:
 - valutare versione "stabile" se ha senso dirlo, forse dopo fine round di molti test con altri narratori
 . valutare competenza singola arma a devoti come quella del patrono
 . valutare movimento diagonale fare pesare 1m e non 1.5m
+
+spendere i soldi: equipaggiamento, oggetti magici
+piu' azioni per i mostri
+piu' tipo di afflizioni
+piu' malattie
+piu' maledizioni
+danni alle caratteristiche
+mostri che danno penalita' a TS
+risucchio dei livelli
+attacchi ai tratti, abbassare punteggio tratti
+dadi aggiuntivi per esperienza su competenze
+lista armi balestre
