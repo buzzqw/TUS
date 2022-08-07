@@ -170,6 +170,9 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 04/08/2022 aggiornata versione POD
 
+
+cambiati i componenti dell'incantesimo Capanna, layout,
+
 -aggiunti \label{} fino a la magia
 
 Aggiungere immagini:
