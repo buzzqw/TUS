@@ -170,8 +170,11 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 04/08/2022 aggiornata versione POD
 
+*0.51* cambiati i componenti dell'incantesimo Capanna, layout, dettagli su Nethergal e Sixiser, aggiornato mostro Cavaliere Nero, aggiornata abilita' esperto, aggiornata lista armi balestra, aggiornato incantesimo Dito, aggiunto incantesimo Scagliare maledizione minore, 
 
-cambiati i componenti dell'incantesimo Capanna, layout, dettagli su Nethergal e Sixiser,
+
+
+
 
 -aggiunti \label{} fino a la magia
 
@@ -192,18 +195,11 @@ Aggiungere immagini:
 - gestione opzioni: sono troppe ? analizzare altri sistemi per capire se si sta esagerando. Controllare opzioni e stabilire quale debbano rimanere e quali essere default
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
 - Patroni: va tutto bene? controllare nuove opzioni: tratti, armi, liste, caratteristica
-- valutare versione "stabile" se ha senso dirlo, forse dopo fine round di molti test con altri narratori
-. valutare competenza singola arma a devoti come quella del patrono
-. valutare movimento diagonale fare pesare 1m e non 1.5m
-
-spendere i soldi: equipaggiamento, oggetti magici
-piu' azioni per i mostri
-piu' tipo di afflizioni
-piu' malattie
-piu' maledizioni
-danni alle caratteristiche
-mostri che danno penalita' a TS
-risucchio dei livelli
-attacchi ai tratti, abbassare punteggio tratti
-dadi aggiuntivi per esperienza su competenze
-lista armi balestre
+- valutare competenza singola arma a devoti come quella del patrono
+- valutare movimento diagonale fare pesare 1m e non 1.5m
+- spendere i soldi: equipaggiamento, oggetti magici
+- piu' tipologie di azioni per i mostri
+- piu' malattie debolezze
+- piu' maledizioni diverse, piu' effetti
+- danni alle caratteristiche
+- mostri che danno penalita' a TS 
