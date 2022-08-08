@@ -170,7 +170,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 04/08/2022 aggiornata versione POD
 
-*0.51* cambiati i componenti dell'incantesimo Capanna, layout, dettagli su Nethergal e Sixiser, aggiornato mostro Cavaliere Nero, aggiornata abilita' esperto, aggiornata lista armi balestra, aggiornato incantesimo Dito, aggiunto incantesimo Scagliare maledizione minore, 
+*0.51* cambiati i componenti dell'incantesimo Capanna, layout, dettagli su Nethergal e Sixiser, aggiornato mostro Cavaliere Nero, aggiornata abilita' esperto, aggiornata lista armi balestra, aggiornato incantesimo Dito, aggiunto incantesimo Scagliare maledizione minore, aggiornato capitolo Piani, 
 
 
 
@@ -186,7 +186,6 @@ Aggiungere immagini:
 > modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 
 > valutare:
-- rifare il capitolo Piani, renderlo piu' coerente con yeru e diverso
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
 - aggiungere altri mostri , porting  > in corso, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
 - rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
