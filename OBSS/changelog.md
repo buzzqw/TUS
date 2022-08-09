@@ -170,7 +170,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 04/08/2022 aggiornata versione POD
 
-*0.51* cambiati i componenti dell'incantesimo Capanna, layout, dettagli su Nethergal e Sixiser, aggiornato mostro Cavaliere Nero, aggiornata abilita' esperto, aggiornata lista armi balestra, aggiornato incantesimo Dito, aggiunto incantesimo Scagliare maledizione minore, aggiornato capitolo Piani, riletto ed aggiornato capitolo Oggetti maledetti, aggiornata tabella effetti oggetti mafici maledetti, rilettura prima parte cosmologia e minimi chiarimenti, corretto accecato in condizioni, corrette alcune condizioni in Condizioni, 
+*0.51* cambiati i componenti dell'incantesimo Capanna, layout, dettagli su Nethergal e Sixiser, aggiornato mostro Cavaliere Nero, aggiornata abilita' esperto, aggiornata lista armi balestra, aggiornato incantesimo Dito, aggiunto incantesimo Scagliare maledizione minore, aggiornato capitolo Piani, riletto ed aggiornato capitolo Oggetti maledetti, aggiornata tabella effetti oggetti mafici maledetti, rilettura prima parte cosmologia e minimi chiarimenti, corretto accecato in condizioni, corrette alcune condizioni in Condizioni, rilettura capitolo trappole, 
 
 
 
