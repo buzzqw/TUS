@@ -170,7 +170,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 04/08/2022 aggiornata versione POD
 
-*0.51* cambiati i componenti dell'incantesimo Capanna, layout, dettagli su Nethergal e Sixiser, aggiornato mostro Cavaliere Nero, aggiornata abilita' esperto, aggiornata lista armi balestra, aggiornato incantesimo Dito, aggiunto incantesimo Scagliare maledizione minore, aggiornato capitolo Piani, riletto ed aggiornato capitolo Oggetti maledetti, aggiornata tabella effetti oggetti mafici maledetti, rilettura prima parte cosmologia e minimi chiarimenti, corretto accecato in condizioni, corrette alcune condizioni in Condizioni, rilettura capitolo trappole, personalizzati i Piani, aggiunti riferimenti indice per piani, 
+*0.51* cambiati i componenti dell'incantesimo Capanna, layout, dettagli su Nethergal e Sixiser, aggiornato mostro Cavaliere Nero, aggiornata abilita' esperto, aggiornata lista armi balestra, aggiornato incantesimo Dito, aggiunto incantesimo Scagliare maledizione minore, aggiornato capitolo Piani, riletto ed aggiornato capitolo Oggetti maledetti, aggiornata tabella effetti oggetti mafici maledetti, rilettura prima parte cosmologia e minimi chiarimenti, corretto accecato in condizioni, corrette alcune condizioni in Condizioni, rilettura capitolo trappole, personalizzati i Piani, aggiunti riferimenti indice per piani, note aggiuntive in creazione personaggio, 
 
 
 
@@ -198,7 +198,5 @@ Aggiungere immagini:
 - valutare competenza singola arma a devoti come quella del patrono
 - valutare movimento diagonale fare pesare 1m e non 1.5m
 - spendere i soldi: equipaggiamento, oggetti magici
-- piu' tipologie di azioni per i mostri
+- piu' tipologie di azioni per i mostri, piu' tipologie di attacchi e danni (penalita' ai ts, maledizioni, danni alle caratteristiche..)
 - piu' malattie debolezze
-- danni alle caratteristiche
-- mostri che danno penalita' a TS 

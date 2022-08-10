@@ -3,12 +3,20 @@
 
 Una vita che non aggiornavo il diario!
 OBSS continua ad evolversi, possono essere modifiche che neanche si notano, oppure piu' significative come la gestione unico del fallimento, ma OBSS non e' mai statico.
-Confido a settembre di partire con il nuovo gruppo, spero che rimanga stabile.. anche se non e' detto.
+Confido a settembre di partire con il nuovo gruppo, spero che rimanga confermato.. anche se non e' detto.
 
 La pubblicazione di nuove versione procede, come sempre, forse un po piu' lentamente.. ma ci sta, e' normale che ci siano sempre meno cose da guardare.
 Entro fine mese sicuramente pubblico la 0.51 cosi' che possa andare in vacanza con l'ultima versione.. e si parta a settembre con un manuale appena pronto.
 
 Ho aggiunto diverse considerazioni, verifiche, proposte alla fine del changelog, cosi' da tenere un appunto una nota di cio' che potrebbe, non e' detto, servire aggiornare.
+
+I lavori piu' recenti hanno influito sul rendere omogeneo tra TS, TC e Prove di Magia il tirare i critici, sia di fallimento che di successo, in questo maniera si ha una meccanica unica e piu' facilmente ricordabile per gestire critici e fumble.
+
+Altro lavoro abbastanza importante e' stato sul capitolo dei Piani. Ho reso il tutto piu' personalizzato, per fare in modo che ci sia una maggiore impronta e non sia tutto lasciato al caso o semplicemente basato su un altro gioco.
+
+Un prossimo passo riguardera' i mostri, voglio inserire piu' tipologie di attacco, sfide diverse. Fare in modo che il nemico non sia solo una sacca gonfia di punti ferita, ma ance qualcosa che e' da temere per i vari possibili attacchi.
+
+Ci sono poi mille e piu' opzioni e modifiche ma le tengo da parte per il nuovo manuale, non sarebbero coerenti adesso.
 
 
 **05/07/2022**
