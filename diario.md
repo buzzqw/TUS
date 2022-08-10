@@ -1,3 +1,16 @@
+
+**09/08/2022**
+
+Una vita che non aggiornavo il diario!
+OBSS continua ad evolversi, possono essere modifiche che neanche si notano, oppure piu' significative come la gestione unico del fallimento, ma OBSS non e' mai statico.
+Confido a settembre di partire con il nuovo gruppo, spero che rimanga stabile.. anche se non e' detto.
+
+La pubblicazione di nuove versione procede, come sempre, forse un po piu' lentamente.. ma ci sta, e' normale che ci siano sempre meno cose da guardare.
+Entro fine mese sicuramente pubblico la 0.51 cosi' che possa andare in vacanza con l'ultima versione.. e si parta a settembre con un manuale appena pronto.
+
+Ho aggiunto diverse considerazioni, verifiche, proposte alla fine del changelog, cosi' da tenere un appunto una nota di cio' che potrebbe, non e' detto, servire aggiornare.
+
+
 **05/07/2022**
 
 INGLESE!!!
