@@ -174,7 +174,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 10/08/2022 aggiornata versione POD
 
-*0.52* pubblicata versione 0.51 aggiornata copertina, modificato Magie Efficaci per gestire casi senza punti magia, passo sicuro da un +1 all'iniziativa,
+*0.52* pubblicata versione 0.51 aggiornata copertina, modificato Magie Efficaci per gestire casi senza punti magia, passo sicuro da un +1 all'iniziativa, altre citazioni,
 
 
 
