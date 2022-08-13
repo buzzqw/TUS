@@ -4,7 +4,7 @@
 
 **0.4** aggiunto screen, migliorata tabella massimo incantesimo lanciabile, modificato e chiarito costo per successi critici multipli, ricontrollati patroni piccole modifiche, corretta indicazione prova magia per armatura imbottita in screen, ancora ottimizzazione box, chiarimenti su prova di nascondersi, correzioni ortografiche, dettagli su lingue, dettagli su energia positiva curativa,  chiarito che senza componenti materiali l'incantesimo fallisce, diverse correzioni di accenti
 
-**0.5** aggiornata versione copertina, abilitate immagini,  deflagrazione occulta e' di 1 livello, aggiornata la scheda, aggiornato screen, aggiornato elenco fallimento critico, corretti diversi errori di battitura (fino ad avanziamo di livello), note su caratteristiche, aggiunti consigli su punti ferita e punti fato, chiarimenti su competenza attive base, chiarimenti su tiri salvezza, corretto fattore cm per prova magica, aggiunto chiarimenti ad alterare le magie e modificato circolo di potere, aggiunta opzione per modifiche prova di magia, aggiornata scheda, aggiornato screen, aggiornato dc per ts da incantesimi generici, aggiunto alterare la magia a screen, distratto perdi meta' costo incantesimo
+**0.5** aggiornata versione copertina, abilitate immagini,  deflagrazione occulta e' di 1 livello, aggiornata la scheda, aggiornato s, aggiornato elenco fallimento critico, corretti diversi errori di battitura (fino ad avanziamo di livello), note su caratteristiche, aggiunti consigli su punti ferita e punti fato, chiarimenti su competenza attive base, chiarimenti su tiri salvezza, corretto fattore cm per prova magica, aggiunto chiarimenti ad alterare le magie e modificato circolo di potere, aggiunta opzione per modifiche prova di magia, aggiornata scheda, aggiornato screen, aggiornato dc per ts da incantesimi generici, aggiunto alterare la magia a screen, distratto perdi meta' costo incantesimo
 
 **0.6** pubblicata versione 0.5, aggiunta regola per recupero punti ferita massimi, chiarimenti su tiri salvezza, aggiunto lo zaino standard, chiarito uso strumenti professionali, per ogni successo critico nella prova di magia la dc del ts aumenta di 1, per ogni fallimento critico aggiuntivo sottrai 1d6 al tiro della prova per verificare cosa succede nel fallimento, layout, diversi chiarimenti su punti ferita temporanei, chiarimenti su punti ferita massimi, alcuni chiarimenti su Alterare le Magie, aggiornato screen, benedizione ha il vincolo di essere seguace o devoto, rimossi i danni di tipo psichico, spostati diversi incantesimi in lista universale Illusione Minore - Benedizione - Benedici Acqua, spostato evoca creature boschive in incantesimi perduti
 
@@ -174,7 +174,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 10/08/2022 aggiornata versione POD
 
-*0.52* pubblicata versione 0.51 aggiornata copertina, modificato Magie Efficaci per gestire casi senza punti magia, passo sicuro da un +1 all'iniziativa, altre citazioni, indicazioni su riposi ravvicinati, prove di gruppo, rivisti dadi vita per taglia, rimosso l'ultimo d20,
+*0.52* pubblicata versione 0.51 aggiornata copertina, modificato Magie Efficaci per gestire casi senza punti magia, passo sicuro da un +1 all'iniziativa, altre citazioni, indicazioni su riposi ravvicinati, prove di gruppo, rivisti dadi vita per taglia, rimosso l'ultimo d20, aggiornato riscaldare metallo,
 
 
 
