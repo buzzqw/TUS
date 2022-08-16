@@ -174,7 +174,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 10/08/2022 aggiornata versione POD
 
-*0.52* pubblicata versione 0.51 aggiornata copertina, modificato Magie Efficaci per gestire casi senza punti magia, passo sicuro da un +1 all'iniziativa, altre citazioni, indicazioni su riposi ravvicinati, prove di gruppo, rivisti dadi vita per taglia, rimosso l'ultimo d20, aggiornato riscaldare metallo, aggiornato capitolo generazione oggetti magici, aggiornate immagini, rimosso piano del limbo e sostituito con piano della genesi, indicazioni su trovare e generare oggetti magici, aggiornata tabella fallimenti critici magici, aggiunto mostro Goblin-Gablin-Campione Gablin, correzioni italiano,
+*0.52* pubblicata versione 0.51 aggiornata copertina, modificato Magie Efficaci per gestire casi senza punti magia, passo sicuro da un +1 all'iniziativa, altre citazioni, indicazioni su riposi ravvicinati, prove di gruppo, rivisti dadi vita per taglia, rimosso l'ultimo d20, aggiornato riscaldare metallo, aggiornato capitolo generazione oggetti magici, aggiornate immagini, rimosso piano del limbo e sostituito con piano della genesi, indicazioni su trovare e generare oggetti magici, aggiornata tabella fallimenti critici magici, aggiunto mostro Goblin-Gablin-Campione Gablin, correzioni italiano, alterare le magie aggiunto sacrificio magico,
 
 
 
