@@ -186,20 +186,21 @@ Aggiungere immagini:
 169 fine incantesimi, tavola ouija ?
 368 descrizione piani 3, riempitivo lungo
 
-> modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
-
 > valutare:
+- modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
 - aggiungere altri mostri , porting  > in corso, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
+- piu' azioni paricolari e uniche per i nemici che non siano solo sacchi di pf, piu' tipologie di attacchi e danni (penalita' ai ts, maledizioni, danni alle caratteristiche..)
 - rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
+- YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
+- spendere i soldi: equipaggiamento, oggetti magici
+- piu' malattie debolezze maledizioni
+- rituali/incantesimi di alto livello 9+ dove si deve essere tuttu seguaci con X punti in Tratti comuni per lanciarlo
+- valutare competenza singola arma a devoti come quella del patrono
+
+> Secondarie
+- valutare movimento diagonale fare pesare 1m e non 1.5m
 - verificare in testing statistiche, rischio mix/max
 - abilita' probabile altre. capire cosa, attenzione in testing a richieste che esulano o spaccano sistema
 - analizzare gestione mancanti, punti troppo forti, punti esploitabili, valutare sempre con attenzione quando dettagliare quando dare indicazioni
 - gestione opzioni: sono troppe ? analizzare altri sistemi per capire se si sta esagerando. Controllare opzioni e stabilire quale debbano rimanere e quali essere default
-- YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
-- Patroni: va tutto bene? controllare nuove opzioni: tratti, armi, liste, caratteristica
-- valutare competenza singola arma a devoti come quella del patrono
-- valutare movimento diagonale fare pesare 1m e non 1.5m
-- spendere i soldi: equipaggiamento, oggetti magici
-- piu' tipologie di azioni per i mostri, piu' tipologie di attacchi e danni (penalita' ai ts, maledizioni, danni alle caratteristiche..)
-- piu' malattie debolezze
