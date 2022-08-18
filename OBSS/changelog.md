@@ -189,14 +189,15 @@ Aggiungere immagini:
 > valutare:
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
-- aggiungere altri mostri , porting  > in corso, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
+- aggiungere altri mostri, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
 - piu' azioni paricolari e uniche per i nemici che non siano solo sacchi di pf, piu' tipologie di attacchi e danni (penalita' ai ts, maledizioni, danni alle caratteristiche..)
 - rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
 - spendere i soldi: equipaggiamento, oggetti magici
 - piu' malattie debolezze maledizioni
 - rituali/incantesimi di alto livello 9+ dove si deve essere tuttu seguaci con X punti in Tratti comuni per lanciarlo
-- valutare competenza singola arma a devoti come quella del patrono
+- psionici ?
+- magia freeform maxare al 5/6 livello
 
 > Secondarie
 - valutare movimento diagonale fare pesare 1m e non 1.5m
