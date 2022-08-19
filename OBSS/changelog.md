@@ -174,7 +174,11 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 10/08/2022 aggiornata versione POD
 
-*0.52* pubblicata versione 0.51 aggiornata copertina, modificato Magie Efficaci per gestire casi senza punti magia, passo sicuro da un +1 all'iniziativa, altre citazioni, indicazioni su riposi ravvicinati, prove di gruppo, rivisti dadi vita per taglia, rimosso l'ultimo d20, aggiornato riscaldare metallo, aggiornato capitolo generazione oggetti magici, aggiornate immagini, rimosso piano del limbo e sostituito con piano della genesi, indicazioni su trovare e generare oggetti magici, aggiornata tabella fallimenti critici magici, aggiunto mostro Goblin-Gablin-Campione Gablin, correzioni italiano, alterare le magie aggiunto sacrificio magico, rivisto completamente gestione ingombro togliendo pesi e mettendo un valore di ingombro dato da peso e volume, aggiornta scheda con CdC, aggiornati carichi per cavalcature, aggiunta Abilita' il Patrono e' la mia Arma, aggiunta gittata a Catena Chiodata, aggiunti mostri ghoul nero - ghoul putrescente - ghoul madre, recuperi un punto fato ogni volta che tiri tre volte 1 in una prova, modificato radici magiche, aggiunta abilita' tattico, aggiunta abilita' danno coordinato, aggiunta abilita' infondere energia magica,
+**0.52** pubblicata versione 0.51, aggiornata copertina, modificato Magie Efficaci per gestire casi senza punti magia, passo sicuro da un +1 all'iniziativa, altre citazioni, indicazioni su riposi ravvicinati, prove di gruppo, rivisti dadi vita per taglia, rimosso l'ultimo d20, aggiornato riscaldare metallo, aggiornato capitolo generazione oggetti magici, aggiornate immagini, rimosso piano del limbo e sostituito con piano della genesi, indicazioni su trovare e generare oggetti magici, aggiornata tabella fallimenti critici magici, aggiunto mostro Goblin-Gablin-Campione Gablin, correzioni italiano, alterare le magie aggiunto sacrificio magico, rivisto completamente gestione ingombro togliendo pesi e mettendo un valore di ingombro dato da peso e volume, aggiornta scheda con CdC, aggiornati carichi per cavalcature, aggiunta Abilita' il Patrono e' la mia Arma, aggiunta gittata a Catena Chiodata, aggiunti mostri ghoul nero - ghoul putrescente - ghoul madre, recuperi un punto fato ogni volta che tiri tre volte 1 in una prova, modificato radici magiche, aggiunta abilita' tattico, aggiunta abilita' danno coordinato, aggiunta abilita' infondere energia magica
+
+19/08/2022 aggiornata versione POD
+
+*0.53* pubblicata versione 0.52, aggiornata copertina,
 
 
 
