@@ -174,7 +174,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 10/08/2022 aggiornata versione POD
 
-*0.52* pubblicata versione 0.51 aggiornata copertina, modificato Magie Efficaci per gestire casi senza punti magia, passo sicuro da un +1 all'iniziativa, altre citazioni, indicazioni su riposi ravvicinati, prove di gruppo, rivisti dadi vita per taglia, rimosso l'ultimo d20, aggiornato riscaldare metallo, aggiornato capitolo generazione oggetti magici, aggiornate immagini, rimosso piano del limbo e sostituito con piano della genesi, indicazioni su trovare e generare oggetti magici, aggiornata tabella fallimenti critici magici, aggiunto mostro Goblin-Gablin-Campione Gablin, correzioni italiano, alterare le magie aggiunto sacrificio magico, rivisto completamente gestione ingombro togliendo pesi e mettendo un valore di ingombro dato da peso e volume, aggiornta scheda con CdC, aggiornati carichi per cavalcature, aggiunta Abilita' il Patrono e' la mia Arma, aggiunta gittata a Catena Chiodata, aggiunti mostri ghoul nero - ghoul putrescente - ghoul madre,
+*0.52* pubblicata versione 0.51 aggiornata copertina, modificato Magie Efficaci per gestire casi senza punti magia, passo sicuro da un +1 all'iniziativa, altre citazioni, indicazioni su riposi ravvicinati, prove di gruppo, rivisti dadi vita per taglia, rimosso l'ultimo d20, aggiornato riscaldare metallo, aggiornato capitolo generazione oggetti magici, aggiornate immagini, rimosso piano del limbo e sostituito con piano della genesi, indicazioni su trovare e generare oggetti magici, aggiornata tabella fallimenti critici magici, aggiunto mostro Goblin-Gablin-Campione Gablin, correzioni italiano, alterare le magie aggiunto sacrificio magico, rivisto completamente gestione ingombro togliendo pesi e mettendo un valore di ingombro dato da peso e volume, aggiornta scheda con CdC, aggiornati carichi per cavalcature, aggiunta Abilita' il Patrono e' la mia Arma, aggiunta gittata a Catena Chiodata, aggiunti mostri ghoul nero - ghoul putrescente - ghoul madre, recuperi un punto fato ogni volta che tiri tre volte 1 in una prova, modificato radici magiche, aggiunta abilita' tattico, aggiunta abilita' danno coordinato, aggiunta abilita' infondere energia magica,
 
 
 
@@ -184,14 +184,12 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 Aggiungere immagini:
 
 169 fine incantesimi, tavola ouija ?
-368 descrizione piani 3, riempitivo lungo
+
 
 > valutare:
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
-- aggiungere altri mostri, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
 - piu' azioni paricolari e uniche per i nemici che non siano solo sacchi di pf, piu' tipologie di attacchi e danni (penalita' ai ts, maledizioni, danni alle caratteristiche..)
-- rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
 - spendere i soldi: equipaggiamento, oggetti magici
 - piu' malattie debolezze maledizioni
@@ -200,6 +198,8 @@ Aggiungere immagini:
 - magia freeform maxare al 5/6 livello
 
 > Secondarie
+- aggiungere altri mostri, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
+- rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
 - valutare movimento diagonale fare pesare 1m e non 1.5m
 - verificare in testing statistiche, rischio mix/max
 - abilita' probabile altre. capire cosa, attenzione in testing a richieste che esulano o spaccano sistema
