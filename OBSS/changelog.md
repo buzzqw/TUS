@@ -183,7 +183,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 28/08/2022 aggiornata versione POD
 
-*0.54* pubblicata versione 0.53, aggiornata copertina, aggiornato screen con penalita' scurovisione, suggerimento su sostituzione componenti di incantesimi,
+*0.54* pubblicata versione 0.53, aggiornata copertina, aggiornato screen con penalita' scurovisione, suggerimento su sostituzione componenti di incantesimi, aggiornamenti a licenza,
 
 
 
