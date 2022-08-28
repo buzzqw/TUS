@@ -178,8 +178,12 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 19/08/2022 aggiornata versione POD
 
-*0.53* pubblicata versione 0.52, aggiornata copertina, ottimizzato layout, specificato costo azioni danno cordinato, specificato costo azioni  tattico, aggiornate abilita' infondere coraggio - infondere paura - litania versatile, controllo ingombro, aggiunta scala di corda, corretto ingombro zaino,
+**0.53** pubblicata versione 0.52, aggiornata copertina, ottimizzato layout, specificato costo azioni danno cordinato, specificato costo azioni  tattico, aggiornate abilita' infondere coraggio - infondere paura - litania versatile, controllo ingombro, aggiunta scala di corda, corretto ingombro zaino
 
+
+28/08/2022 aggiornata versione POD
+
+*0.54* pubblicata versione 0.53, aggiornata copertina,
 
 
 
