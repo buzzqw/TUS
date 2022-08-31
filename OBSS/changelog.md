@@ -183,7 +183,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 28/08/2022 aggiornata versione POD
 
-*0.54* pubblicata versione 0.53, aggiornata copertina, aggiornato screen con penalita' scurovisione, suggerimento su sostituzione componenti di incantesimi, aggiornamenti a licenza, modificato tempo di preparazione pozioni magiche, nota su creazione oggetti magici, modificato incantesimo scudo ed aggiundo critico magico, modificato incantesimo scudo della fede aggiungendo critico magico, aggiunte informazioni su interventi dei Patroni,
+*0.54* pubblicata versione 0.53, aggiornata copertina, aggiornato screen con penalita' scurovisione, suggerimento su sostituzione componenti di incantesimi, aggiornamenti a licenza, modificato tempo di preparazione pozioni magiche, nota su creazione oggetti magici, modificato incantesimo scudo ed aggiundo critico magico, modificato incantesimo scudo della fede aggiungendo critico magico, aggiunte informazioni su interventi dei Patroni, layout,
 
 
 
