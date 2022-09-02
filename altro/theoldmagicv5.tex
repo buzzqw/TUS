@@ -1,0 +1,639 @@
+\documentclass[a4paper,twoside,openany]{book}
+%\documentclass[a4paper,draft,twoside,openany]{book}
+\usepackage{quoting}
+\usepackage{tcolorbox}
+\usepackage{tikz}
+\usetikzlibrary{shadows}
+\usepackage{multicol}
+\usepackage{tocloft}
+\usepackage{lmodern}
+\usepackage{caption}
+\usepackage[utf8]{inputenc}
+%\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}  %\usepackage[B1,T1]{fontenc}
+\usepackage{setspace}
+\usepackage[a4paper]{geometry}
+\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}  %std
+\setcounter{secnumdepth}{-1}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage[italian]{babel}
+\usepackage{setspace}
+\usepackage{graphicx}
+
+%\usepackage[allfiguresdraft]{draftfigure}  %senza figure, deve rimanere alla riga 24
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{multirow}
+\usepackage{titlesec}
+\usepackage[unicode=true, bookmarks=true,
+pdftitle={OBSS - Old Bell School System},pdfauthor={Andres Zanzani},
+breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
+{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
+\usepackage{bookmark}
+\usepackage{yfonts}
+\usepackage{lettrine}
+\usepackage{calligra}
+\renewcommand{\LettrineFontHook}{\calligra}
+\usepackage{accanthis}
+\usepackage{auncial}
+\usepackage{fontspec}
+\usepackage{ragged2e}
+
+\setmainfont[Path=../altro/fonts/,BoldItalicFont=DejaVuSerif-BoldItalic.ttf,ItalicFont=DejaVuSerif-Italic.ttf,BoldFont=ReadexPro-bold.ttf,Ligatures=TeX,Scale=0.94]{ReadexPro-Regular.ttf}
+
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins}
+\tcbset{colback=brown!10, fonttitle=\scshape}
+\usepackage{imakeidx}
+\usepackage{cancel}
+
+\def\CountIndexOccurrences#1{%
+	\expandafter\newcount\csname #1\endcsname%
+	\expandafter\newcount\csname #1\endcsname%
+	\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
+	\IfFileExists{#1.idx}{\input{#1.idx}}{}%
+}
+\CountIndexOccurrences{OBSS}
+\CountIndexOccurrences{Incantesimi}
+\CountIndexOccurrences{Mostruario}
+\CountIndexOccurrences{OggettiMagici}
+\def\TotalBox#1{\vfill%
+	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
+
+\makeindex[columns=3, title=Indice Analitico, intoc=true]
+\makeindex[columns=3, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
+\makeindex[columns=3, name=Mostruario, title=Lista dei Mostri, intoc=true]
+\makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
+
+\usetikzlibrary{shapes.misc,calc}
+\definecolor{lightgray}{gray}{0.95}
+
+\usetikzlibrary{shapes.misc,calc}
+\definecolor{lightgray}{gray}{0.95}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\leftmark}
+\fancyhead[RE,LO]{}
+
+\fancyfoot[C]{\thepage}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+
+\usepackage{xltabular}
+\usepackage{tabularx}
+\usepackage{pdfpages}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{etoolbox}
+\usepackage{soul}
+
+
+\raggedbottom
+
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{D}[1]{>{\centering}m{#1}}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+
+\titleformat{\section}{\filcenter\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
+\titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
+\titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
+
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+
+\setcounter{tocdepth}{3}
+
+\newtcolorbox{narratore}{
+	enhanced, % enable advanced settings
+	%left = 3mm,
+	%width=0.45\textwidth,
+	left = 9mm, % pushes text away from the left edge by 10mm
+	sharp corners, % disables rounded corners
+	rounded corners = southeast, % "round" the bottom right corner
+	arc is angular, % make the "round" corner an angle
+	arc = 3mm, % controls corner cut
+	boxrule=0.6pt, % sets box line thickness
+	underlay={%
+		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+
+	},
+	drop fuzzy shadow }
+
+\newtcolorbox{enfasi}{
+	enhanced,
+	arc=5pt,
+	boxrule=0.3pt
+}
+
+
+\begin{document}
+
+
+    \newpage~
+
+	%%\normalsize
+
+	%%\linespread{1.5}
+
+
+	\setcounter{page}{1}
+	\pagebreak
+
+	\begin{multicols}{2}
+		{\small \tableofcontents{}}
+	\end{multicols}
+
+	\pagebreak{}
+
+
+
+\section{La Magia}\index{Magia}\index{Essenza}
+
+
+\label{la-magia}
+\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+"Le parole sono, nella mia NON modesta opinione, la nostra massima ed inesauribile fonte di magia. In grado sia di infliggere dolore che di alleviarlo" (Albus Silente)
+
+		\medskip
+
+"Klaatu Verata Nikto! (Ash, Armata delle Tenebre)"
+
+} \end{tcolorbox}
+
+\begin{multicols}{2}
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+
+In questo capitolo troverete le regole opzionali ed il funzionamento della Vecchia Magia, come era chiamata in Yeru; un metodo oramai perso, di cui pochissimi rammentano l'esistenza e meno ancora lo sanno usare\\
+
+\textbf{Tutte le regole qui presentate sostituiscono in toto le il sistema magico di OBSS.}
+
+\end{narratore}\end{changemargin}
+
+\subsection{Introduzione}
+
+Si intende incantatore o mago qualsiasi usufruitore di Essenze a qualsiasi titolo ed uso.
+
+Le \textit{Essenze} sono la magia declinabile tramite l'associazione Verbo - Nome, ovvero la possibilità di creare effetti magici associando un verbo (creare, distruggere, muovere..) ad un nome (persona, oggetto, elemento..). Questo sistema e' meno intuitivo nei primi utilizzi eppure una volta entrati nel processo creativo vi renderete conto di avere la possibilità di fare quasi tutto.
+
+\subsection{Le Essenze}
+
+Le magia delle Essenze discende dai Patroni, ogni volta che si formula una Essenza si attinge al supremo potere di un Patrono.
+
+Questo rende la magia accessibile, ma non tutti sanno dominarla e chi non la sa dominare ne viene dominato.
+
+Solo essendo un Devoto si hanno i bonus concessi dal Patrono, ma anche la limitazione nei Nomi e nei Verbi. \index{Devoto}
+
+\subsubsection{Le regole delle Essenze}\index{regole delle Essenze}
+
+\label{le-regole-delle-essenze}
+
+Ci sono dei punti fermi, delle regole che sovrintendono la magia e queste sono:
+\begin{itemize}
+\item Non è permesso riportare in vita i morti. Solo un Patrono può restituire l'anima ad un corpo.
+
+\item Non è permesso creare vita
+
+\item Declama la tua magia o non funzionerà
+
+\end{itemize}
+
+\subsubsection{I Verbi}\index{Verbi}
+
+I \textbf{Verbi} rappresentano ciò che si va ad eseguire con il Nome. Indicano l'azione intrapresa.\\
+
+I Verbi sono:\\
+~
+\textbf{Alterare}: ciò che riguarda il migliorare, rendere più efficace, modificare, alterare, plasmare. spostare..\\
+\textbf{Attaccare}: ciò che riguarda l'attaccare, causare dolore... \\
+\textbf{Creare}: ciò che riguarda il creare dal nulla, convocare\\
+\textbf{Riparare}: ciò che porta alla condizione originale, il curare, il riparare, ripristinare...\\
+\textbf{Distruggere}: ciò che riguarda l'indebolire, ridurre, rompere, deteriorare, danneggiare, distruggere...\\
+\textbf{Conoscere}:	ciò che riguarda il conoscere, il rilevare, il rivelare, l'apprendere...\\
+
+
+\subsubsection{I Nomi}\index{Nomi}
+
+Ogni Verbo che si va a formulare ha un ambito di applicazione che riguarda il Corpo, la Mente, lo Spirito, l'Energia e la Materia. Questi sono genericamente chiamati i \textbf{Nomi}.
+
+Il \textbf{Corpo} riguarda le Creature Naturali e Magiche che non siano Immondi o nativi di altri Piani. Può riguardare le caratteristiche fisiche, la salute, il movimento, la dimensione.
+
+La \textbf{Mente} comprende la memoria, la percezione, le emozioni, i linguaggi, le azioni.
+
+Lo \textbf{Spirito} come il Corpo, ma permette di agire anche su Immondi e creature extra planari.
+
+\textbf{Energia} comprende: Fuoco, Luce, Suono, Elettricità, Energia Positiva, Energia Negativa, Freddo, Vuoto.
+
+La \textbf{Materia} comprende: Acqua, Terra, Aria, Metallo, Legno, Ghiaccio, Nebbia. L'obiettivo non deve essere senziente o vivente.
+
+\bigskip
+
+Nelle specifiche delle Essenze troverete se queste lavorano su Materia, Corpo, Energia, Spirito, Mente o solo specifiche componenti di queste.
+
+
+\subsubsection{Adepto della Magica, Competenza Magica ed Essenze}\index{Competenza Magica}\index{Essenza}
+
+\label{competenza-magica-ed-essenza}
+
+Ogni volta che il personaggio prende l'Abilità Adepto della Magia può scegliere un Verbo oppure un Nome non conosciuto oppure applicare un bonus di specializzazione di +1 ad un Verbo o Nome già noto.
+
+Quando il personaggio attribuisce il primo punto a Competenza Magica apprende un Verbo o Nome a sua scelta, successivamente a punteggio di Competenza Magica 7,13,19 apprende un nuovo Nome o Verbo oppure applica un bonus di specializzazione di +1 ad un Nome o Verbo già noto.
+
+Ogni volta che il personaggio attribuisce un punto a Competenza Magica scegli un Nome già noto ed attribuisce un bonus di specializzazione di +1 a questo.
+
+Ogni incantatore ha quindi un proprio punteggio di Competenza Magica + bonus di specializzazione (da Verbo e Nome) + caratteristica collegata al Nome + vari ed eventuali. Questa somma viene genericamente chiamata \textbf{Valore dell'Essenza}.\index{Valore dell'Essenza}
+
+\bigskip
+
+\textbf{Es. Un personaggio ha 8 punti in Competenza Magica ed ha preso 3 volte Adepto della Magia}
+
+Come \textit{Verbi} ha scelto: Alterare, Riparare. La terza scelta è stata prendere il Nome Mente.\\
+Con 8 punti in Competenza Magica ha potuto prendere 2 \textit{Nomi} (al 1 ed al 7) ed ha scelto: Corpo e Materia.
+
+Questo bonus di specializzazione si somma anche nelle prove di Concentrazione che riguardino questa essenza.\\
+
+\textbf{Esempio}: Un incantatore di 8 livello invece ha 4 punti di Competenza Magica e 2 volte Adepto della Magia
+
+\textit{Verbi}: Riparare, Alterare\\
+\textit{Nomi}: Corpo\\
+Su Corpo, che è l'unico nome, ha attribuito i punti di specializzazione.
+
+\bigskip
+
+\textbf{Il punteggio di specializzazione di un Verbo o Nome deve essere inferiore o pari a metà del valore di Competenza Magica}. Es. se hai CM a 4 il bonus di specializzazione massimo a Verbo o Nome può essere +2
+
+\subsubsection{Specifiche dei Nomi}\index{Specifiche dei Nomi}
+
+\label{Specifiche dei Nomi}
+
+I Nomi (Corpo, Mente, Spirito, Energia, Materia) hanno ben specifici ambiti di azione.
+
+Il \textbf{Corpo} riguarda la materia vivente di qualsiasi creatura, anche magica, purché non sia Immonda o nativa di un altro Piano.
+
+La \textbf{Mente} riguarda tutto ciò che viene elaborato dall'intelletto e come tale può essere applicato solo a creature con Intelligenza maggiore od uguale a -3.
+
+Lo \textbf{Spirito} similmente al Corpo agisce invece soltanto su creature extra planari o immonde.
+
+L'\textbf{Energia} comprende: Fuoco, Luce, Suono, Elettricità, Energia Positiva, Energia Negativa, Freddo, Vuoto.
+
+La \textbf{Materia} sono: Acqua, Terra, Aria
+
+Il danno causato da \textbf{Luce} e' per metà da fuoco e per metà da energia positiva, ovvero una resistenza al fuoco od all'energia positiva si applica solo su metà del danno causato dall'attacco.
+
+Il danno causato da \textbf{Vuoto} e' per metà da freddo e per metà da energia negativa, eventuali protezioni si applicano alle rispettive metà del danno.
+
+\subsubsection{Caratteristiche base delle Essenze}\index{Caratteristiche base delle Essenze}
+
+\label{caratteristiche-base-delle-essenze}
+
+Ogni magia che si va a creare ha queste caratteristiche di base:
+
+\smallskip
+
+\textbf{Tempo di lancio}: due Azioni\index{Tempo di lancio}
+
+\textbf{Durata}: istantanea\index{Durata}
+
+\textbf{Distanza}: distanza di mischia (a tocco)\index{Distanza}
+
+\textbf{Area di Effetto}: 1 creatura/Area.
+
+\textit{Obiettivi}: ogni obiettivo conta quando un obiettivo nella verifica
+
+Vedi poi nella Tabella della Essenza i costi per ogni dettaglio delle caratteristiche di base.
+
+\textbf{Sommando le varie caratteristiche  della magia si determina la difficoltà dell'Essenza al quale andrà sommata la Potenza scelta nel Verbo. La Prova di Magia è da fare ogni qual volta questa difficoltà è superiore al punteggio di Valore dell'Essenza}.
+
+\subsubsection{La Prova di Magia}
+
+Ogni qual volta la sommatoria delle difficoltà data dalla formulazione dell'Essenza è superiore alla Valore dell'Essenza è necessario effettuare una Prova di Magia ed ottenere un Successo Critico Magico, altrimenti si verifica sui Fallimento Critici Magici.
+
+
+\subsubsection{Tiro per Colpire ed Essenze}\index{Tiro per Colpire ed Essenze}
+
+Quando la l'Area di Effetto e' una creatura ovvero la magia deve colpire una sola creatura e' necessario un Tiro per Colpire.\\
+Quando l'Area di Effetto e' data da piu' singoli soggetti (selezionati) devo fare un TC per ogni avversario.\\
+Quando l'Area di Effetto e' ad area non e' necessario effettuare un TC se non per difficili e specificate aree, ovvero si mira in una area ben circoscritta.
+
+Nelle specifiche dei Verbi è scritto il Tiro Salvezza da effettuare.
+
+
+\subsubsection{Recitare l'Essenza}\index{Recitare l'Essenza}\index{Recitare}
+
+\label{recitare-lessenza}
+
+Può sembrare sciocco o inutile ma se un giocatore non recita la sua Essenza questa non funzionerà.
+
+In OBSS la magia è libera e freeform basata sul Verbo-Nome, ovvero non ci sono liste di incantesimi, ogni giocatore si inventa gli effetti che vuole, prendendo ispirazione (e limiti) dalle linee guida dei Verbi.
+
+Il giocatore declamerà la sua Essenza dichiarando che Verbo e Nome usa e formulerà la magia es. "Crea - Fuoco. Possa questa piana ardere come il Deserto di Fiamma di Daruk-Yum.
+
+Il Narratore deve preoccuparsi di fare declamare sempre l'Essenza, questo perché aiuta a comprendere cosa si vuole ottenere dall'Essenza, cosa che i fattori numerici (distanza, obiettivo, durata... ) non descrivono propriamente.
+
+\subsubsection{Potenziamenti delle Caratteristiche dell'Essenza}\index{Potenziamenti delle Caratteristiche dell'Essenza}
+
+\label{potenziamenti-delle-caratteristiche-dellessenza}
+
+I potenziamenti definiscono e migliorano l'Essenza che si va a lanciare; questi possono riguardare il Tempo di Lancio, la Durata, la Distanza, Area di Effetto/Obiettivi e la Potenza applicata (indicata nel Verbo).
+
+La tabella va usata per determinare per ogni singolo fattore e si sommano le relative Difficoltà trovate, questo valore si sottrae l'eventuale riduzione dato dal Tempo di Lancio
+
+\end{multicols}
+
+\bigskip
+
+\begin{tabularx}{0.95\textwidth}{lXXXXX}
+\hline
+\textbf{Difficoltà} &\textbf{Durata} &\textbf{Distanza} &\textbf{Obiettivo/AoE} & \textbf{Volume/Massa} &\textbf{Tempo di Lancio (riduzione)} \\
+\hline
+0	& Istantanea			& Tocco			& Se Stesso		&	-		& 2 Azioni\\
+\hline
++1	& Concentrazione - 1r*CM& 3 metri		& 1 obiettivo	&	1 CB	& 1 round\\
+\hline
++2	& 1 minuto				& entro 10 m	& 2 obiettivo - 2m/r&	2 CB	& 5 round\\
+\hline
++3	& 5 minuti				& entro 20 m	& 4 obiettivi - 3m/r&	3 CB	& 10 round\\
+\hline
++5	& 10 minuti				& entro 50 m	& 6 obiettivi - 4m/r&	6 CB	& 5 minuti\\
+\hline
++8	& 20 minuti				& entro 100 m	& 10 obiettivi - 6 m/r&	9 CB	& 10 minuti\\
+\hline
++13	& 40 minuti				& entro 200 m	& 20 obiettivi - 8 m/r&	16 CB	& 3 turni (30 minuti)\\
+\hline
++21 & 1 ora					& entro 500 m	& 40 obiettivi - 12m/r&	25 CB	& 1 ora\\
+\hline
+\end{tabularx}
+\bigskip
+
+\begin{multicols}{2}
+
+\textbf{Durata} \index{Durata}: per Durata di una Essenza si intende sia quanto dura l'effetto sia quanto lo si può trattenere sia la possibilità di attivarlo a posteriori prima che debba manifestarsi. Un incantatore può trattenere un numero di round pari al suo valore in Competenza Magica + Intelligenza.
+
+Il Verbo di Ripristinare e di Attaccare hanno sempre durata Istantanea ovvero producono gli effetti e cessano di essere attivi e possono essere attivati (contingenza) in base alla Durata.
+
+La Distruzione di Materia è \textbf{sempre permanente come effetto} ed ha una Durata Istantanea come effetto che ha costo +8.
+
+In caso di contingenza ovvero di lancio posticipato di una Essenza a seguito di un evento scatenante concordato, la difficoltà della Durata e' pari alla metà della difficoltà data della massima Durata stabilita.
+
+Es. se voglio che una Essenza (Ripristino Corpo) mi si scateni entro un ora appena scendo sotto i 10 PF la difficoltà aumenta di 11.
+
+
+\textbf{Distanza} \index{Distanza}: Per Distanza si intende a che misura si deve manifestare l'Essenza.
+Qualsiasi distanza oltre se stessi o tocco, quindi in mischia, aumenta la difficoltà.
+
+
+\textbf{Obiettivo - Area di Effetto} \index{Target}\index{Area di Effetto}: o si opera per obiettivi oppure in caso di selezione per area di effetto tutti i soggetti nell'area diventano obiettivi.
+
+I soggetti influenzati dalla medesima Essenza devono essere entro 3 metri dal primo obiettivo oppure è necessario operare tramite un area di effetto circolare (es in 3 metri di raggio.)
+
+Si opera per Obiettivo/Area di Effetto quando l'obiettivo non è Materia o Energia.
+
+\textbf{Volume/Massa}: da usare al posto di Obiettivo quando si agisce sui Nomi quale Materia ed Energia. La dicitura CB sta per Cubo Base, ovvero un cubo con spigolo 1m*1m*1m.
+
+\textbf{Deselezione} (+1)\index{deselezione}: con questo potenziamento escludi una creatura od oggetto dall'area di  effetto. Ogni +1 toglie una creatura media (+2 se taglia Grande) dagli effetti della magia (se Area di Effetto a Raggio).
+
+Es. voglio tirare una Fuoco Palla toroidale attorno a me. La Difficoltà è +3 per i tre metri di raggio e +1 di Deselezione (mi escludo dall'esplosione).
+
+Es. voglio tirare una Fuoco Palla ai miei nemici intorno a me. La Difficoltà è +3 (perché scelgo 4 soggetti) nella Area di Effetto e su ognuno di loro "cadrà" una Fuoco Palla di che interesserà solo loro singolarmente. I soggetti influenzati devono essere tutti entro 3 metri dal primo obiettivo colpito.
+
+\textbf{Tempo di Lancio} \index{Tempo di lancio} \index{Riduzione costi}
+Aumentando significativamente il tempo di lancio  si puo' diminuire la Difficoltà totale.
+
+\subsubsection{Aree di effetto diverse}\index{Aree di effetto diverse}
+
+\label{aree-di-effetto-diverse}
+
+\textbf{L'Area di Effetto può essere non solo sferica, ma anche una linea od un cono.}
+
+L'incantatore potrà ridurre l'area di effetto, fino ad essere uno spicchio (il cono) della circonferenza iniziale oppure una linea.
+
+La lunghezza dell'effetto in \textbf{linea} e' pari al doppio dell'Area di Effetto. Quindi un Essenza di Attacco con Area di Effetto 12m/r diventa una linea larga un metro (fisso) con lunghezza dal punto di origine (Distanza) di 24 metri (peri fanatici deve essere un parallelogramma di 24 m$^2$).
+
+In caso di effetto a \textbf{cono} il punto di origine e' sempre l'incantatore e la distanza raggiunta e' quella pari all'Area di Effetto mentre la parte finale e' pari alla metà dell'Area di Effetto.
+
+Es. Tramite l'Essenza di Creazione voglio creare uno sbuffo di vento a forma di cono.
+Con un Area di Effetto di 8m/r (Difficoltà 13) posso creare un cono che parte dalla mia mano e lungo 8 metri con una parte finale larga 4 metri.
+
+Tenete a disposizione dei segnalini per "disegnare" l'area di effetto.
+
+\subsubsection{Influenzati da più Essenze}\index{Influenzati da più Essenze}
+
+\label{influenzati-da-piu-essenze}
+
+Quando un personaggio è influenzato contemporaneamente da \textbf{due o più effetti temporanei creati da Essenze} che danno lo stesso tipo di bonus, malus o danno (protezione verso fuoco, bonus alla Difesa o TS... , multiple palle di acido), si tiene conto solo di quella dal livello di potere maggiore.
+
+\subsubsection{Scegliere l'effetto dell'Essenza}\index{Scegliere l'effetto dell'Essenza}
+
+\label{scegliere-leffetto-dellessenza}
+
+Nella descrizione delle Essenze quando trovate per un livello di potere elencati più possibilità, dovete sceglierne uno solo.
+
+Esempio:
+
+\medskip
+
+\begin{tabularx}{0.45\textwidth}{lX}
+	\toprule
+	<11 & Rimuovi la condizione abbagliato\\
+	& Curi 1d6 pf
+\end{tabularx}
+
+oppure se sono separate da una {/}
+\medskip
+
+Esempio: \textit{19 - Attribuisci la condizione di: Malato / Accecato / Assordato / Esausto / Nauseato}
+
+\subsubsection{Altre regole}
+
+\label{altre-regole}
+
+\subsubsection{Attacco con Essenze non di Attacco}\index{Attacco con Essenze non di Attacco}
+
+Alcune Essenze implicano un danno anche se non è il Verbo di Attacco, come riportato negli esempi per Alterare, ma concettualmente valido anche per altre Essenze
+
+Se l'incantatore acquisisce la capacità di un attacco tramite un Alterare, ma anche Creare (vedi pioggia di fuoco..) potrà usare questi poteri dal round successivo facendo un danno di due livelli di Potenza inferiore del Verbo di Attacco Attacco, se questo è una manifestazione di Energia.
+
+Es. Creo un Muro di Fuoco, l'Essenza ha successo e creo un muro con Potenza 8. Il danno per chi' attraversa o ci e' in contatto e' di 3d6, come se fosse una Essenza di Attacco a Potere 3.
+
+Se acquisisce una forma di attacco naturale il danno sarà coerente alla forma di attacco acquisito (morso, artiglio..).
+
+\subsubsection{Essenze Cumulate}\index{Essenze Cumulate}
+
+Il giocatore potrebbe volere sommare in un unico lancio di magia piu' essenze.
+
+Ad esempio potrebbe declamare una magia di Attacco che insegua (Alterare) l'obiettivo, oppure una Illusione (Mente) che effettivamente scaldi (Energia).
+
+In questo caso si devono conteggiare un unica volta potenziamenti base e sommare entrambe le Potenze (Attacco/Alterare, Mente/Energia). Quindi l'Essenza formulata anche se e' generata da due Verbi ha una sola comune distanza, obiettivo, durata e la somma di entrambe per Potenza per determinare il confronto con il Valore dell'Essenza.
+
+\subsubsection{Riuscire e Fallire nella Essenza}\index{Riuscire e Fallire nella prova di Magia}
+
+\label{riuscire-e-fallire-nella-prova-di-magia}
+
+Per formulare una Essenza è necessario individuare Verbo e Nome da usare.
+Stabilire Durata, Distanza, Obiettivo/Area di Effetto/Volume/Massa ed eventualmente Tempo di riduzione.
+
+Si sommano ogni singolo fattore di difficoltà.
+
+Si controlla poi nella scheda del Verbo la Potenza che si vuole applicare e si somma anche questa.
+
+Se il punteggio di Competenza Magica + bonus di specializzazione Verbo e Nome + caratteristica correlata al Nome  (Valore dell'Essenza) con la somma precedentemente fatta.
+
+Se il Valore dell'Essenza è superiore l'Essenza viene liberata. Se il Valore dell'Essenza è inferiore entro 6 punti è necessario ottenere un Successo Critico Magico nella Prova di Magia.
+
+\subsubsection{Il Limite delle Essenze}
+
+
+\textbf{Un incantatore può formulare nel giorno un numero di Essenze pari a (CM/2)+3.} \index{Magie al giorno}
+
+\subsubsection{La Prova di Magia}
+
+La Prova di Magia si esegue tirando 3d6 (+1d6 ogni 4 punti di Competenza Magica).
+
+La Prova di Magia è obbligatoria quando si esegue un Essenza la cui difficoltà è superiore al Valore dell'Essenza.
+
+La Prova di Magia può essere richiesta, anche quando non necessaria, per ottenere un migliore (si spera) effetto magico.
+
+Se nell'insieme di dadi lanciati ci sono almeno due 1 oppure un 1 e due 2 saranno successe brutte cose, questo caso viene chiamato \textbf{fallimento critico magico}\index{Fallimento Critico Magico}.
+
+Per verificare quanti fallimenti critici magici sono stati fatti controllate per primo quante coppie di 1 sono presenti, controllate poi se è rimasto una altro 1 da associare ad un 1 od a due 2.
+
+Controllata l'assenza di fallimento critico se nel tiro di dadi ci sono almeno due 6 avrai ottenuto un \textbf{successo critico magico}\index{Successo Critico Magico}.
+
+In caso di Prova di Magia obbligatoria questa viene passata solo se si ottiene almeno un Successo Critico Magico, qualsiasi altro risultato viene considerato come un Fallimento Critico Magico.
+
+In caso di Prova di Magia volontaria questa viene passata solo se non si ottiene un Fallimento Critico Magico.
+
+\subsubsection{L'esplosione del 6 nella Magia}\index{esplosione del 6 nella Magia}
+
+\label{lesplosione-del-6-nella-magia}
+
+Nella Prova di Magia i 6 esplodono, ma in maniera diversa.
+
+I 6 tirati nella Prova di Magia vengono ritirati, e ritirati ancora nel caso.
+
+Ogni due 6 tirati si ottiene un Successo Critico Magico ed aumenta di uno il livello di Potenza ottenuto, ovvero si scala al livello di Potenza immediatamente successivo.
+
+Es. Tups vuole incenerire l'orchetto che lo sta caricando. La sua prova di Magia è data da 3d6 + 1d6 aggiuntivo (ha 5 in Competenza Magica). Tups deve ottenere di piu' dalla sua Essenza e tenta una Prova di Magia a causa dell'elevata difficoltà rispetto al Valore dell'Essenza.
+
+Se tirasse con i dadi 6, 4, 3. la Prova di Magia rischierebbe di fallire! Deve ritirare il 6 e sperare di ottenere un altro 6 per ottenere il Critico Magico necessario a passare la prova.
+
+Ritira poi il 6 ed ottiene un altro 6, ritira anche questo e ottiene un altro 6! La situazione è decisamente esplosiva!!! Ritira ancora e ottiene un 2.
+
+A questo punto Tups è riuscito nella Prova di Magia ed ha ottenuto anche due Critico Magico aggiuntivo! Il suo Dardo Infuocato (che lui chiama Spiedo Rovente) aveva Potenza 5, quindi 5d6 di danno, ma avendo fatto 2 Critico Magico scala al secondo livello di Potenza successivo diventando 13d6 di danno!
+
+
+\subsubsection{Fallimento Critico nella Prova di Magia}\index{Fallimento Critico nella Prova di Magia}\label{magiefallimentocriticonellaprovadimagia}\index{Incantesimi, Fallimento Prova di Magia}
+
+Se la Prova di Magia ha avuto un fallimento critico magico tira 3d6 e consulta la seguente tabella. Per ogni fallimento critico magico aggiuntivo al primo sottrai 1d6, fino a tirare un solo 1d6.
+
+%\end{multicols}
+
+\textbf{Tabella: Effetti Fallimento Critico magico}\index{Tabella Effetti Fallimento Critico Prova di Magia}
+
+\medskip
+{\small
+	\begin{tabularx}{0.45\textwidth}{lX}
+		\hline
+1 & Aumenti la condizione di Affaticato di 2 gradi\\
+2 & Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia\\
+3 & Manifesti una modifica corporea minore\\
+4 & Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 3 metri intorno a te compreso, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 1d6 di danni per livello di incantesimo\\
+5 & Per 3 round sei sotto l'influenza dell'incantesimo Confusione\\
+6 & Sei paralizzato per 3 round\\
+7 & Vieni teletrasportato entro 3d10 metri in una direzione casuale\\
+8 & Diventi Invisibile ed incapace di parlare per 6 round\\
+9 &  Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round\\
+10 & Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round\\
+11 & Il prossimo incantesimo che lanci ha effetti se possibile minimizzati\\
+12 & Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 50 metri\\
+13 & Ti cadono tutti i peli del corpo, per fortuna possono ricrescere\\
+14 & Emetti una rumorosa e pestilenziale flatulenza. Una insegna luminosa di 1m x 50cm sopra la tua testa ti indica e ti sbeffeggia\\
+15 & Ogni oggetto che tieni in mano ti cade a terra\\
+16 & Guadagni 2d6 Punti Magia\\
+17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
+18 & Tutte le creature, escluso te, nel raggio di 6 metri da te subiscono 1d10 danni non resistibili\\
+\end{tabularx}}
+
+
+\subsubsection{Resistere all'Essenza (Tiro Salvezza)}\index{Resistere all'Essenza}\index{Tiro Salvezza}
+
+\label{resistere-allessenza-tiro-salvezza}
+
+Una volta che l'Essenza è manifestata, anche in base alla descrizione della stessa e note del Verbo, è possibile dimezzare o annullare l'effetto dell'Essenza.
+
+Il tiro salvezza richiesto, in base a quanto indicato nell'Essenza, ha difficoltà pari 10+Difficoltà totale dell'Essenza formulata. Per ogni Successo Critico Magico ottenuto la difficoltà del Tiro Salvezza aumenta di 2.
+
+Se il Tiro Salvezza riesce o fallisce di più di 10 (\textbf{successo critico}\index{Successo Critico} o \textbf{fallimento critico}\index{Fallimento Critico}) il Narratore potrà decidere di applicare svantaggi o vantaggi al risultato finale.\index{Più di 10}.
+
+Nella descrizione delle Essenze è indicato cosa succede in caso di riuscita o fallimento del Tiro Salvezza ed anche se e' possibile un successo o fallimento critico.
+
+\subsubsection{Più Essenze nello stesso round}\index{Più Essenze nello stesso round}
+
+Ad alti livelli un incantatore può usare i Livelli di Poteri inferiore con estrema facilità fino a poter usare più Essenze nello stesso round.
+
+L'incantatore può lanciare più Essenze nello stesso round purché la somma dei delle Difficoltà sia inferiore al valore più basso del Valore dell'Essenza usato.
+
+Questa capacità non è usufruibile prima di avere CM a 8.
+
+\subsubsection{Mantenere la Concentrazione}\index{Mantenere di Concentrazione}\index{Concentrazione}
+
+Una Essenza formulata puo' essere conservata nel mago per 1 round per CM aumentando la Difficoltà di 1.
+Il mago non puo' pero' formulare altre Essenze finché mantiene la concentrazione attiva.
+
+Quando vuole rilasciare l'Essenza formulata dovrà tirare l'iniziativa e rilasciarla al momento stabilito.
+
+\subsubsection{Check di Concentrazione}\index{Check di Concentrazione}
+
+Se il mago viene è severamente distratto, impedito, disturbato, sotto attacco,sanguinante, mentre effettua una Essenza deve effettuare una Prova di Magia con Successo Critico Magico o fallire nella formulazione.
+
+\subsubsection{I Livelli di Potenza}
+
+I gradi di Potenza sono descrittivi, è nella buona fede del giocatore e Narratore che il sistema può funzionare correttamente.
+
+Solo il Verbo di Attacco causa dei danni stabiliti pari alla Potenza in d6.
+
+\medskip
+
+\begin{tabularx}{0.45\textwidth}{lll}
+	\toprule
+\textbf{Potenza}	&	\textbf{Difficoltà} & \textbf{Capacità}\\
+
+0       & Banale	        & Mediocre	\\
+1       & Facile    	    & Normale	\\
+2       & Normale       	& Buona		\\
+3       & Difficile        	& Ottimo	\\
+5       & Molto difficile  	& Eccellente	\\
+8       & Eroica    	   	& Stupefacente	\\
+13      & Quasi impossibile & Epica	\\
+21      & Impossibile     	& Oltre l'umano	\\
+\end{tabularx}
+
+
+\subsubsection{Un ultimo suggerimento}
+
+L'ultimo consiglio è infine rivolto specificatamente ai Narratore, lasciate che i giocatori si esprimano inventando nuove magie e manifestazioni curiose e poco ortodosse. Cercate di valutarne la correttezza ricordando che le Essenza e come sono descritte vogliono essere degli esempi. Lo scopo finale è sempre e solo divertirsi.
+
+
+\bigskip
+
+Suggerisco di segnarsi nella scheda le Essenze e formulazioni più usate, quasi a creare un proprio libro di magia così che sia più facile calcolare i costi degli incantesimi tipici.
+
+
+
+
+\end{multicols}
+
+
+
+\end{document}

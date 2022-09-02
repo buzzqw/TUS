@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.8.15)  10 JUN 2022 08:00
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.8.15)  31 AUG 2022 16:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1463,7 +1463,12 @@ Requested font "[lmroman7-regular]:mapping=tex-text;" at 7.0pt
  -> /usr/share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf
 runsystem(makeindex theoldmagic.idx)...executed safely (allowed).
 
-(./theoldmagic.ind) [34
+(./theoldmagic.ind)
+Underfull \hbox (badness 10000) in alignment at lines 1980--1980
+[][][][] 
+ []
+
+[34
 
 
 
@@ -1477,10 +1482,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  30463 strings out of 477220
  613643 string characters out of 5832722
- 1047825 words of memory out of 5000000
+ 1047826 words of memory out of 5000000
  49560 multiletter control sequences out of 15000+600000
  432447 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  112i,12n,116p,497b,875s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on theoldmagic.xdv (35 pages, 810940 bytes).
+Output written on theoldmagic.xdv (35 pages, 814448 bytes).
