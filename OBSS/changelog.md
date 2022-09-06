@@ -203,7 +203,7 @@ Aggiungere immagini:
 - piu' malattie debolezze maledizioni
 - rituali/incantesimi di alto livello 9+ dove si deve essere tuttu seguaci con X punti in Tratti comuni per lanciarlo
 - psionici ?
-- magia freeform maxare al 5/6 livello
+- magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
 
 > Secondarie
 - aggiungere altri mostri, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
