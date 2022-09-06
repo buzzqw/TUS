@@ -1,4 +1,31 @@
 
+**06/09/2022**
+
+Dato che a breve parte una nuovo gruppo ho voluto esplicitare cosa intendo e faccio per collaudo/playtesting
+
+lo scopo del playtesting e' comprendere se OBSS e':
+
+Divertente, Funzionale, Completo
+
+Divertente: l'insieme di regole non deve risultare noioso, castrante, limitante, deve permettere diversificazione, liberta' di azione
+
+Funzionale: deve esserci coerenza di regole, non devono esserci sbilanciamenti eccessivi
+
+Completo: il sistema deve avere tutte le informazioni necessarie, il Narratore deve poter trovare se non tutte le regole quasi e comunque avere gli strumenti per stabilire come muoversi indipendentemente che sia di esperienza o meno
+
+Note: 
+
+Magia: e' sempre la parte piu' delicata. E' necessario un collaudo evolutivo e progressivo, testando vari livelli e consumo di punti magia. fare usare altre opzioni, utilizzo modifiche incantesimi
+
+Incontri: ogni personaggio funziona per uno scontro, e' da verificare seguendo le regole scritte per la gestione degli incontri i personaggi muoiono oppure non sentono problemi. E' necessario verificare l'uso delle "risorse" quali PF, Punti Magia..
+
+Insegnare a giocare Old School: non e' mai facile.. ma alla 4 trappola solitamente diventano piu' prudenti! Imparare a vedere il personaggio non solo come un insieme di abilita' e competenza ma come una persona che puo' ingegnarsi a cercare soluzioni.
+
+Mostri: verificare bilanciamento
+
+
+
+
 **09/08/2022**
 
 Una vita che non aggiornavo il diario!
