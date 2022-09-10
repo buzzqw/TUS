@@ -13,6 +13,9 @@
 \usepackage[absolute,overlay,showboxes]{textpos}
 %\usepackage[width=457.86mm, height=303.28mm]{geometry}
 \pagenumbering{gobble}
+
+\newcommand{\riga}{\rule{\textwidth}{0.4pt}}
+
 \begin{document}
 	%	 \thispagestyle{empty}
 
@@ -675,10 +678,12 @@ Se la prova di Intimidire fallisce in maniera critica chi ha fatto la prova deve
 \textbf{Saltare} 1 Azione\\
 \textit{Si hanno penalità dovuta all'Armatura}
 
-\textbf{Distanza saltata in lungo}: 0.50m+0.50m xDC > 8. H=1/4 salto. Max 1 movimento.\\
-\textbf{Distanza saltata in alto}: 0.25m+0.25m xDC > 8. Max 1/2 movimento\\
+\textbf{Distanza saltata in lungo}: 0.50m+[(Prova-8)x0.50m]. H=1/4 dist. Max 1 mov.\\
+\textbf{Distanza saltata in alto}: 0.25m+[(Prova-8)x0.25m]. Max 1/2 mov.\\
 
-Rincorsa 3 metri si salta la metà.
+Rincorsa 3 metri altrimenti metà.
+
+\riga
 
 \textbf{Danno Caduta}: H(m)/3xD6. Ogni 3 dadi oltre i 20 aggiungete 6 di danno (X/3)d6+(X/3-20)*6. Proni. Prova Acrobatica DC 15 1/2 danno entro 9m.  Cadute su superfici morbide (terreno morbido, fango ecc.) -1d6 danni.
 

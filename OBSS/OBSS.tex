@@ -152,6 +152,8 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 \newpage~\thispagestyle{empty}%%\newpage~\thispagestyle{empty}
 
 
+\newcommand{\riga}{\rule{\textwidth}{0.4pt}}
+
 \pagebreak
 
 \setcounter{page}{1}
@@ -4125,11 +4127,13 @@ Se il personaggio possiede la scurovisione viene persa a meno che non la possied
 
 \subsection*{Animaletto / Famiglio}\index{Famiglio}\label{famiglio-abilita}
 
+\textbf{Requisito}: Competenza Magica 1
+
 \textbf{Tiri Salvezza}: +1 Volontà, +1 Tempra
 
 Guadagni un animale naturale. Questo animaletto ha al massimo un numero di dadi vita pari alla tua Saggezza. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
 
-\textbf{Requisito}: Competenza Magica 1, se \textbf{prendi due volte} questa Abilità guadagni un Famiglio (vedi capitolo specifico).
+La \textbf{seconda volta} che prendi questa Abilità guadagni un Famiglio (vedi capitolo specifico).
 
 \subsection*{Armatura del Devoto}\index{Armatura del Devoto}\label{armaturadeldoveto}
 
@@ -4796,6 +4800,8 @@ L'energia proviene dalle mani (non conta se ci sono guanti) ed influenza una o p
 
 \textbf{Requisito}: Incanalare energia
 
+\textbf{Tiri Salvezza}: +2 Riflessi
+
 Puoi lanciare l'energia, come da Incanalare Energia, fino a 9 metri, influenza un raggio di 3 metri. Usa 2 azioni.
 
 La \textbf{seconda volta} che prendi questa Abilità l'energia arriva fino alla distanza di 18 metri.
@@ -4838,9 +4844,9 @@ Attivare, mantenere o cambiare effetto dell'Abilità richiede 1 Azione. Puoi man
 
 \subsection*{Infondere Energia Magica}\index{Infondere Energia Magica}\label{infondereenergiamagica}
 
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
-
 \textbf{Requisito}: Competenza Armi 1, Competenza Magica 2
+
+\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
 
 Sai manipolare le energie magiche in maniera istintiva.
 
@@ -4947,6 +4953,14 @@ Scegli una Liste di Magia, ottieni un +1d6 alla Prova di Magia nel lancio di inc
 	\textit{The Colossus (also known as The Giant), is known in Spanish as El Coloso. Non è di Goya ma di un allievo.}
 \end{center}
 
+\subsection*{Molla}\index{Molla}\label{Molla}
+
+\textbf{Requisito}: Forza 0
+
+\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
+
+Puoi ignorare il requisito dei 3 metri di rincorsa prima di un salto.
+
 \subsection*{Montagna umana}\index{Montagna umana}\label{montagnaumana}
 
 \textbf{Tiri Salvezza}: +3 Tempra
@@ -5001,17 +5015,17 @@ Se deve tirare una freccia ad un orchetto entro 15 m non ha penalità, se l'orch
 
 \subsection*{Opportunista}\index{Opportunista}\label{opportunista}\hypertarget{opportunista}{}
 
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
-
 \textbf{Requisito}: Competenza Armi 2
+
+\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
 
 Puoi tentare di colpire un avversario che \textbf{esca} o \textbf{attraversi} un area di mischia che tu minacci. L'Abilità è usabile una volta per round come Reazione. Questo attacco viene anche chiamato attacco di opportunità nel manuale e ci sono diverse creature che non ne scatenano la reazione.
 
 \subsection*{Passo Felpato}\index{Passo Felpato}\label{passofelpato}
 
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
-
 \textbf{Requisito}: Muoversi Silenziosamente ad 1 o più
+
+\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
 
 Il tuo passo è naturalmente silenzioso.
 
@@ -5135,9 +5149,9 @@ Consumi 2 Azioni. Effettui un unico Tiro per Colpire con -5 di penalità. Se col
 
 \subsection*{Questo è il mio pugnale}\index{Questo è il mio pugnale}\label{questoeilmiopugnale}
 
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Riflessi
-
 \textbf{Requisito}: Competenza Armi 1
+
+\textbf{Tiri Salvezza}: +2 Tempra, +1 Riflessi
 
 Quando fai un danno critico con il tuo pugnale sommi la tua Competenza Armi al danno. L'Abilità è usabile 1 volta per avversario e si applica automaticamente al primo danno critico effettuato.
 
@@ -5260,9 +5274,11 @@ L'Abilità è usabile un numero di volte al giorno pari alla Saggezza ma un non 
 
 \subsection*{Schivare trappole}\index{Schivare trappole}\label{schivaretrappole}
 
+\textbf{Requisito}: Destrezza 2
+
 \textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
 
-La \textbf{prima volta} che prendi l'Abilità, requisito Destrezza 2, ottieni un bonus di +1d6 al Tiro Salvezza per evitare l'effetto delle trappole.
+La \textbf{prima volta} che prendi l'Abilità ottieni un bonus di +1d6 al Tiro Salvezza per evitare l'effetto delle trappole.
 
 La \textbf{seconda volta} che prendi l'Abilità, requisito Competenza Armi 5, anche se la trappola non concede Tiro Salvezza la tua naturale propensione ad evitare i danni ti concede un Tiro Salvezza su Riflessi per dimezzare i danni.
 
@@ -5272,15 +5288,17 @@ E' anche possibile usare questa Abilità, usa una Reazione, per evitare Attacco 
 
 \subsection*{Schivata prodigiosa}\index{Schivata prodigiosa}\label{schivataprodigioso}
 
+\textbf{Requisito}: Destrezza 3
+
 \textbf{Tiri Salvezza}: +2 Riflessi
 
 Come Reazione ad una Azione di attacco puoi aggiungere +2 alla tua Difesa. Puoi applicare il bonus dopo il Tiro per Colpire dell'avversario anche dopo che hai saputo che ti ha colpito.
 
 Puoi usare l'Abilità fino a 3 volte al giorno.
 
-La \textbf{seconda volta} che prendi l'Abilità, requisito Competenza Armi 4 e Destrezza 3, un avversario non prende il bonus al colpire da fiancheggiamento contro di te.
+La \textbf{seconda volta} che prendi l'Abilità, requisito Competenza Armi 4, un avversario non prende il bonus al colpire da fiancheggiamento contro di te.
 
-La \textbf{terza volta} che prendi l'Abilità, requisito Competenza Armi 8 e Destrezza 3, un avversario non prende il bonus al colpire per attaccarti alle spalle contro di te.
+La \textbf{terza volta} che prendi l'Abilità, requisito Competenza Armi 8, un avversario non prende il bonus al colpire per attaccarti alle spalle contro di te.
 
 \subsection*{Seconda pelle}\index{Seconda pelle}\label{secondapelle}\hypertarget{secondapelle}{}
 
@@ -5342,9 +5360,9 @@ La \textbf{terza volta} che prendi l'Abilità puoi influenzare anche creature di
 
 \subsection*{Tattico}\index{Specialista}\label{tattico}
 
-\textbf{Tiri Salvezza}: +1 Tempra , +1 Volontà
-
 \textbf{Requisito}: Competenza Armi 1, Intelligenza 1
+
+\textbf{Tiri Salvezza}: +1 Tempra , +1 Volontà
 
 Hai una capacità quasi istintiva di gestire e prevedere l'esito dei combattimenti.
 
@@ -6337,7 +6355,7 @@ Il tuo personaggio deve avere preso una Liste di Magia tramite l'Abilità Adepto
 
 L'Abilità Adepto della Magia ti permette di accedere ad una Lista di Magia e quindi poter imparare gli incantesimi che le appartengono, senza quella impareresti solo gli incantesimi della lista Universale.
 
-La Competenza Magica ti permette di avere più Punti Magia, quindi più incantesimi, di rendere i tuoi incantesimi più difficili da resistere ed insieme all'Abilità Adepto della Magia di accedere a incantesimi di più alto livello. 
+La Competenza Magica ti permette di avere più Punti Magia, quindi più incantesimi, di rendere i tuoi incantesimi più difficili da resistere ed insieme all'Abilità Adepto della Magia di accedere a incantesimi di più alto livello.
 
 Comunque non preoccuparti, in questo capitolo è scritto tutto quello che ti serve sapere!
 
@@ -6350,11 +6368,11 @@ Quando un personaggio lancia qualsiasi incantesimo, si usano le seguenti regole 
 \medskip
 
 \begin{center}
-	
+
 	\includegraphics[width=0.7\linewidth]{immagini/Hex32.png}
-	
+
 	\textit{The Witchcraft Art of Jacques de Gheyn II}
-	
+
 \end{center}
 
 
@@ -13870,7 +13888,7 @@ In accordo con il Narratore, ed adeguatamente motivato, è possibile cambiare Va
 
 \begin{multicols}{2}
 
-\label{ricchezza-e-denaro} 
+\label{ricchezza-e-denaro}
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{L}{e} monete comuni si presentano in diverse denominazioni in base al valore relativo del metallo di cui sono composte. I tre tipi più comuni di monete sono la moneta d’oro (mo), la moneta d’argento (ma) e la moneta di rame (mr).
 
@@ -23875,18 +23893,41 @@ La settimana è a sua volta diviso in 7 giorni di nome
 
 Il giorno è diviso in 24 ore
 
+\subsection{Oltre la morte}
+
+Gli Yeruiti hanno una visione abbastanza pessimistica di ciò che succede dopo la morte. Per i più dopo la morte non c'è nulla se non la dissoluzione del corpo.
+
+I Devoti e Seguaci credono che il loro spirito si riunirà con il Patrono, rendendolo più forte.
+
+Altri ancora credono ancora che ogni spirito si incarni per 4 volte per essere poi giudicato dai Patroni della Genesi e mandato nel piano a lui assegnato.
+
+Quale sia la verità non è dato sapere.
+
+\subsection{Gli Dei Antichi ed i 7 Cicli}\index{Gli Dei Antichi ed i 7 Cicli}\index{Dei Antichi}\index{7 Cicli}
+
+Narra la leggenda, praticamente sconosciuta anche ai più eruditi, che 7 cicli or sono i Patrono non c'erano. Non erano sempre presenti a corromperti, a trascinarti nella perdizione o scatenarti orde di nemici.
+
+Una volta, la prima volta, i Patroni della Genesi affidarono ad Atmos il \textbf{Libro degli Dei}\index{Libro degli Dei}, un tomo dallo straordinario potere, capace di creare divinità.
+
+Atmos scrisse al sui interno i loro Nomi, le capacità, l'etica e lo scopo. Nacquero così 15 divinità, alcune buone, altre indifferenti, poche prettamente malvage, con lo scopo di educare, istruire, migliorare le creature di Yeru.
+
+Cosa successe esattamente poi non si sa, alcuni saggi suppongono che anche questi dei fallirono nella missione nobile di innalzare Yeru dalle barbarie ed inciviltà, altri dicono che il loro apporto non fosse abbastanza diretto, in ogni caso vennero banditi e sostituiti con i Patroni.
+
+Sicuramente più diretti, spietati, interessati alla vita su Yeru. Non avevano lo scopo di migliorare la vita forse, ma indubbiamente davano molto più divertimento ai Patroni della Genesi.
+
+Il Libro degli Dei venne distrutto e disperso. Un'altra leggenda racconta che una, ed una sola pagina di quel magnifico libro si sia salvata, e chiunque la trovi e scriva il suo nome potrà diventare una divinità, o forse un Patrono schiavo delle sue pulsioni ?
+
 \end{multicols}
 
-\subsection{I cicli millenari}\index{I cicli millenari}
+\subsection{I Cicli Millenari}\index{I cicli millenari}
 
 \begin{changemargin}{0cm}{0.5cm}\begin{enfasi}{
-Vidi poi un angelo che scendeva dal cielo con la chiave dell'Abisso e una gran catena in mano.
+		Vidi poi un angelo che scendeva dal cielo con la chiave dell'Abisso e una gran catena in mano.
 
-Afferrò il dragone, il serpente antico - cioè il diavolo, satana - e lo incatenò per mille anni;
+		Afferrò il dragone, il serpente antico - cioè il diavolo, satana - e lo incatenò per mille anni;
 
-lo gettò nell'Abisso, ve lo rinchiuse e ne sigillò la porta sopra di lui, perché non seducesse più le nazioni, fino al compimento dei mille anni. Dopo questi dovrà essere sciolto per un pò di tempo. (Apocalisse 20,1-3, apostolo Giovanni)
+		lo gettò nell'Abisso, ve lo rinchiuse e ne sigillò la porta sopra di lui, perché non seducesse più le nazioni, fino al compimento dei mille anni. Dopo questi dovrà essere sciolto per un pò di tempo. (Apocalisse 20,1-3, apostolo Giovanni)
 }\end{enfasi}\end{changemargin}\medskip
-
 
 \begin{multicols}{2}
 
@@ -23933,7 +23974,7 @@ Sfruttate a vostro favore e beneficio di avventura il mutamento dei Patroni, fat
 \vfill
 
 \begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/Aztec_calendar.png}\\
+	\includegraphics[width=0.6\linewidth]{immagini/Aztec_calendar.png}\\
 
 	\medskip
 
