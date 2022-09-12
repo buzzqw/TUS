@@ -186,7 +186,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 10/09/2022 aggiornata versione POD
 
-*0.55* pubblicata versione 0.54, aggiornata copertina, aggiunta regola opzione Gestione Universale Manovre, aggiunta abilita' un passo nel vento, layout, 
+*0.55* pubblicata versione 0.54, aggiornata copertina, aggiunta regola opzione Gestione Universale Manovre, layout, aggiornata abilita' molla, 
 
 -aggiunti \label{} fino a la magia
 
