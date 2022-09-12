@@ -1,3 +1,23 @@
+**12/09/2022**
+
+Nel tempo ho raccolto diverse idee per  mie sistemi ed anche se mi piacerebbe applicarle tutte non e' certo possibile altrimenti si creerebbe un accozzaglia di procedure ben poco coerenti.
+
+Elenco qui un po' di cose che mi piacciono e che vedrei bene in un sistema
+
+- magia rischiosa. Incantesimi modulari (fusione incantesimi ?) e potenziamenti incantesimi
+- effetti penalizzanti in caso di perdita eccessiva di pf (bloodied condition)
+- piu' meccaniche con meno meccaniche. piu' liberi di agire semplificando il controllo
+- migliore gestione delle risorse rendendo le risorse piu' importanti
+- usage dice e riduzione usage dice per successo automatico (ad esempio al posto di un check)
+- classi/multiclassi significative
+- poche razze ma caratterizzate
+- armature come riduzione al danno
+- meno pf in genere, basta sacchi di pf
+- avere anche opzioni per downtime
+- abilita'/cm/ca/ts che si comprano con l'esperienza e quindi abolizione dei livelli.
+
+Per quanto molti di queste mi piacerebbe inserirle in OBSS non e' possibile perchè si creerebbe un sistema completamente diverso.
+In un prossimo sistema potranno essere inserite, ma non in OBSS, non certo tutte.
 
 **06/09/2022**
 
