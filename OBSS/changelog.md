@@ -186,7 +186,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 10/09/2022 aggiornata versione POD
 
-*0.55* pubblicata versione 0.54, aggiornata copertina, aggiunta regola opzione Gestione Universale Manovre, layout, aggiornata abilita' molla, aggiornamenta lista Raggruppamento Abilita' per Stile, aggiornata lista d'armi rompi cranio-balestre-palle rotanti-armi da stordimento-aste-scudi, aggiunto opzione punti chaos, aggiornate lista d'armi, aggiunte un po' di immagini ad lista di armi, aggiunto Opzionale - Elenco Manovre d'Arme,
+*0.55* pubblicata versione 0.54, aggiornata copertina, aggiunta regola opzione Gestione Universale Manovre, layout, aggiornata abilita' molla, aggiornamenta lista Raggruppamento Abilita' per Stile, aggiornata lista d'armi rompi cranio-balestre-palle rotanti-armi da stordimento-aste-scudi, aggiunto opzione punti chaos, aggiornate lista d'armi, aggiunte un po' di immagini ad lista di armi, aggiunto Opzionale - Elenco Manovre d'Arme, dettagli su Afferrare e Bloccato, aggiornato screen, chiarimenti su arrapicarsi, precisato malus attaccare quando sei attaccato ad una parete, semplificati calcoli per salto in lungo ed in alto, attaccare da afferrato ha-2 al colpire,
 
 
 
