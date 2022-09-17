@@ -869,7 +869,7 @@ Un personaggio con un punteggio di Forza pari a -5 è morto.
 Abbaiare stanca. La forza non conta niente nella vita. Saper schivare è quello che conta. (Daniel Pennac)
 }\end{enfasi}\end{changemargin}
 
-La Destrezza misura l'agilità, i riflessi, l'equilibrio ed il coordinamento; determina la Difesa ed i Tiri per Colpire con Armi da Tiro.
+La Destrezza misura l'agilità, i riflessi, l'equilibrio ed il coordinamento; determina la Difesa ed i Tiri per Colpire con Armi da Lancio.
 
 Una prova di Destrezza può essere impiegata per qualsiasi tentativo di muoversi agilmente, schivare un colpo o per evitare di perdere l'equilibrio o borseggiare.
 
@@ -2098,7 +2098,7 @@ Gli \textbf{1 portano male}, se fai 1 con il dado togli 1 alla somma dei dadi ti
 
 \item \textbf{Tirare 3 volte 6 è un successo}, sia nelle Prove di Competenza, Tiri Salvezza e Tiri per Colpire indipendentemente dal risultato finale.\index{Tirare tre volte 6}
 
-\item \textbf{Tirare 3 volte 1 è fallimento}, sia nelle Prove che Tiri Salvezza che Tiri per Colpire indipendentemente dal risultato finale. \index{Tirare tre volte 1}
+\item \textbf{Tirare 3 volte 1 è fallimento}, sia nelle Prove di Competenza, Tiri Salvezza e Tiri per Colpire indipendentemente dal risultato finale. \index{Tirare tre volte 1}
 
 \item \textbf{Tirare due volte 6} è presagio di buona ventura (Successo Critico) se riesci nella prova \index{Successo Critico}
 
@@ -2663,7 +2663,7 @@ Riconoscere un Incantesimo			& R\\
 
 \medskip
 
-Per Attacco si intende sia l'uso di armi in mischia che l'uso di armi da lancio o tiro come archi, balestre o pugnali da lancio. Nel caso di armi da tiro o lancio ogni tiro o lancio conta come un attacco.
+Per Attacco si intende sia l'uso di armi in mischia che l'uso di armi da lancio o tiro come archi, balestre o pugnali da lancio. Nel caso di armi da lancio ogni lancio conta come un attacco.
 
 E' possibile usare un Azione di Attacco e Lanciare un Incantesimo solo se è sufficiente usare una sola Azione, Azione di Reazione o Azione Immediata, per lanciare l'incantesimo. Se il personaggio è sotto attacco allora per quel round si considererà Distratto.
 
@@ -2921,7 +2921,7 @@ Il giocatore può decidere di rinunciare a del bonus dato dalla Competenza Armi 
 
 Ogni Tiro per Colpire (3d6 + Competenza con Armi + Forza o Destrezza + eventuali bonus/malus) si raffronta la Difesa ovvero un valore pari a 10 + Destrezza + Scudo + Armatura + eventuali bonus/malus.
 
-Se il Tiro per Colpire è pari o superiore al valore della Difesa l'avversario è stato colpito e si stabilirà il danno della ferita, dato dall'arma + punteggio Forza ed altri fattori quali bonus magici e di Abilità.
+Se il \textbf{Tiro per Colpire}, ovvero la somma dei dadi e modificatori, è pari o superiore al valore della Difesa l'avversario è stato colpito e si stabilirà il danno della ferita, dato dall'arma + punteggio Forza ed altri fattori quali bonus magici e di Abilità.
 
 Se il TC (Tiro per Colpire) è più basso della Difesa allora l'avversario avrà parato, schivato, evitato.. La scelta la si lascia al giocatore (o Narratore), evitato l'attacco non si subiscono ferite.
 
@@ -2952,7 +2952,13 @@ In caso si tiri un 1 nel Tiro per Colpire questo abbassa di 1 (quindi 1 non cont
 
 Anche per il Tiro per Colpire valgono le regole base delle Competenze. La Difesa è un valore fisso e come tale usa i modificatori per le prove a valore fisso.
 
-\subsection{Fallimento Critico}\index{Tirare 2 volte 1 oppure 2 volte 2 ed una volta 1}\label{tiraretrevolteuno}
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/critico.png}
+
+	\textit{Henry Justice Ford}
+\end{center}
+
+\subsection{Tirare 3 volte 1}\index{Tirare 2 volte 1 oppure 2 volte 2 ed una volta 1}\label{tiraretrevolteuno}\index{Tirare 3 volte 1}
 
 Se hai tirato tre volte 1 hai mancato, indipendentemente dal risultato finale.
 
@@ -2971,11 +2977,6 @@ Se nei primi 3 Tiri per Colpire fai tre volte 6 prenderai l'avversario indipende
 Ogni qual volta hai colpito, tiri un \textbf{danno aggiuntivo di arma} (senza bonus magici o di Abilità o Forza, solo il dado dell'arma) per ogni due volte che hai tirato 6 nel Tiro per Colpire, questo danno viene anche chiamato \textbf{danno critico}. Se hai fatto fa due Tiri Critici si intende che devi tirare 2 dadi di arma in più.
 
 
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/critico.png}
-
-	\textit{Henry Justice Ford}
-\end{center}
 
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Esempio Tiro Critico]
@@ -3053,7 +3054,9 @@ Questa variante serve a velocizzare il gioco facendo un unico Tiro per Colpire. 
 \end{center}
 
 
-\subsection{Armi da Tiro - Archi - Balestre (Arco / Balestre / Pugnali..)}\index{Attacchi multipli armi da tiro}\label{armidatiro}
+\subsection{Armi da Lancio}\index{Attacchi multipli armi da lancio}\label{armidatiro}\index{Armi da Tiro}\index{Armi da Lancio}
+
+Le armi da lancio sono tutte le armi con una gittata, ovvero che possono essere lanciate o lanciano dei proiettili. Le principali armi da lancio sono gli archi, balestre, fionde ma anche pugnali, giavellotti, lance qualora siano gettate.
 
 Il bonus al danno dato da Forza si applica in automatico per le fionde, pugnali, giavellotti..ovvero con tutte le armi che vengono lanciate "a mano", gli archi applicano questo bonus solo se sono di tipo composito, le balestre non lo applicano mai.
 
@@ -3071,8 +3074,91 @@ Un pugnale tirato entro 6 metri non ha malus, ma tirato tra i 6 ed i 12 metri ha
 \begin{center}
 	\includegraphics[width=0.75\linewidth]{immagini/fenice.png}
 
-	\textit{Henry Justice Ford ... attenzione alla caduta della piuma di Fenice..}
+	\textit{Henry Justice Ford}
 \end{center}
+
+\subsection{Armi Leggere} \index{Armi Leggere}\label{armileggere}
+
+queste armi sono leggere ed indicate per il \hyperlink{combattimentoaduemani}{combattimento a due mani}.
+
+\subsection{Armi Versatili} \index{Armi Versatili}\label{armiversatili}
+
+su armi con il talento Versatile puoi decidere se usare la Destrezza invece della Forza sui Tiri per Colpire. Al danno si usa sempre la Forza.
+
+\subsection{Arma Lunga} \index{Arma Lunga}\label{armalunga}
+
+l'arma lunga da diritto a colpire più lontano ovvero a 2 metri. Concede un bonus al Tiro per Colpire di +2. Questo bonus rimane valido finché l'avversario non entra in distanza della propria mischia.
+
+Nel caso in cui anche l'avversario abbia un arma lunga non considerate il bonus (sono entrambi nella propria area di mischia).
+
+\subsubsection{Arma lunga a breve distanza} \index{Arma lunga a breve distanza}\label{armalungabrevedistanza}
+
+è possibile usare un'arma lunga in mischia con un avversario dotato di arma non lunga o con portata inferiore a 2 metri con un -1d6 al Tiro per Colpire, ad eccezione del Bastone.
+
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Combattimento con Arma Lunga]
+		Es. Tups armato di spada lunga affronta uno brigante armato di lancia lunga. Tups ha iniziativa 15, il brigante 12.
+
+		Tups sfruttando la sua agilità arriva sotto il brigante colpendolo potentemente. Il brigante trovandosi in mischia con Tups non riesce a sfruttare la sua arma lunga che anzi lo penalizza.
+
+		Usa una Azione per allontanarsi di due metri e poi attacca con un bonus di +2 perché l'avversario è distante.
+
+		Come terza azioni si allontana di altri 9 metri e urla imprechi verso Tups.
+
+		Tups è a questo punto a 11 metri dall'avversario, decide di caricare aprendo così la propria difesa ma ottenendo un bonus al colpire.
+
+		Carica il brigante colpendolo e arrivandogli addosso. Il brigante molto ferito prova a colpirlo confidando che la sua difficoltà ad usare una arma lunga così da vicino sia bilanciata dalle penalità date dalla corsa di Tups.
+
+		Tups viene colpito ed il brigante getta a terra la lancia ed estrae un corto pugnale e si mette sulla difensiva.
+
+\end{tcolorbox}\end{changemargin}
+
+\subsection{Arma Doppia} \index{Arma Doppia}\label{armadippia}
+
+un'arma doppia è un'arma che è pericolosa da entrambe le estremità. Può essere usata come arma singola, oppure, incorrendo nelle penalità del combattimento con due armi, come appunto due armi. Se non specificato un'arma doppia usata per combattimento con due armi equivale ad usare due armi medie.
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/twoweapon.png}
+\end{center}
+
+\subsection{Combattimento con due armi}\index{Combattimento con due armi}\hypertarget{combattimentoaduemani}{}\label{combattimentoduemani}
+
+il combattimento con due armi è possibile solo se l’arma secondaria è leggera o si usa un arma doppia.
+
+Gli attacchi fatti con l’arma secondaria si considerano attacchi multipli.
+Se attacco una prima volta, indipendente che sia con l’arma primaria o secondaria, questo avrà il Tiro per Colpire a pieno bonus, gli altri attacchi avranno il -5 al colpire e così via.
+
+Il bonus al danno dato dalla forza sull’arma secondaria viene dimezzato.
+
+E’ possibile usare l’arma secondaria per migliorare la Difesa di un punto ma non si possono fare attacchi con quell'arma.
+
+\subsection{Carica} \index{Carica}\label{carica}
+
+l'avversario deve essere entro 2 Azioni di movimento (18 o 12 metri solitamente) ed a non meno di 3 metri. Si deve correre fino ad essere a distanza di mischia.
+
+Si ottiene un +1d6 a Tiro per Colpire, -4 alla Difesa fino alla fine del round, l'attacco successivo al primo prende un -10 al colpire ed un eventuale successivo -15,20...
+
+Il movimento ed attacco/attacchi costa 2 Azioni. Non si considerano altri malus per avere corso oltre quelli indicati.
+L'azione di Carica ti porta addosso, in mischia, con l'avversario. L'attacco se fatto con arma lunga ha comunque il bonus di +2 al Tiro per Colpire e colpisce da distanza, per poi finire a contatto con l'avversario.
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/pilum.png}
+
+	\textit{Soldati romani armati di Pilum, pronti per una controcarica.}
+\end{center}
+
+\subsubsection{Controcarica}\index{Controcarica}\label{controcarica}
+
+un Tiro per Colpire effettuato effettuato con un'arma con il talento controcarica se usata contro un avversario/cavalcatura in carica infligge un tiro critico e colpisce per prima, tranne in cui l'avversario abbia un arma lunga o portata maggiore di chi prepara la Controcarica, in questo caso l'attacco è regolato dai tiri di iniziativa.
+
+\subsubsection{Preparare una arma lunga/da controcarica contro una carica} \index{Preparare una arma lunga contro una carica}\label{prepararearmalungacontrocarica}
+
+E' una Reazione.
+
+\subsubsection{Carica con Arma da Controcarica} \index{Controcarica}\label{caricaarmadacontrocarica}
+
+se il Tiro per Colpire ha successo quando usi un arma con il talento controcarica per caricare un avversario questa infligge un tiro critico.
+
 
 \subsection{Attacchi con armi a spargimento} \index{Armi a spargimento}\index{Acqua Benedetta}\index{Olio Incediato}\label{attacchiarmidaspargimento}\hypertarget{spargimento}{}
 
@@ -3111,6 +3197,10 @@ Per valutare se un personaggio è sorpreso effettuate un Tiro Salvezza su Rifles
 Se il personaggio è sull'attenti e si aspetta un agguato fategli fare una prova di Consapevolezza a DC 15, se la prova passa allora il personaggio non è sorpreso.
 
 Quando personaggi e nemici sono colti entrambi di sorpresa per valutare chi effettivamente è sorpreso effettuate un Tiro Salvezza su Riflessi, chi ottiene più di 15 non è sorpreso.
+
+\subsection{Magia in combattimento}\index{Magia in combattimento}\label{magiaincombattimento}
+
+l'incantatore che lancia una magia mentre è in combattimento (ha un avversario in mischia o viene bersagliato da distanza) prende un -4 alla Difesa e si considera Distratto.
 
 \subsection{Modificatori di attacco o difesa per situazioni particolari} \index{Situazioni particolari}\label{modificatoriattaccodifesaparticolari}
 
@@ -3160,7 +3250,7 @@ Ricordate sempre lo scopo è divertirsi, a scapito (per il Narratore) di qualche
 	\textit{Henry Justice Ford}
 \end{center}
 
-\subsection{Azioni particolari in combattimento} \label{azioniparticolaricombattimento}
+\subsection{Altre azioni e situazioni in Combattimento} \label{Altre Azioni in Combattimento}\index{Altre azioni e situazioni in Combattimento}
 
 \subsubsection{Attacco a mani nude} \index{Pugno}\index{Calci} \index{Fare a botte}\label{attaccomaninude}
 
@@ -3182,30 +3272,7 @@ Quando sei prono puoi strisciare\index{Strisciare}\index{Carponi} o muoverti a c
 	\textit{A Connecticut Yankee in King Arthur's Court / Samuel Clemens. New York : Charles L. Webster \& Co., 1889}
 \end{center}
 
-\subsubsection{Carica} \index{Carica}\label{carica}
 
-l'avversario deve essere entro 2 Azioni di movimento (18 o 12 metri solitamente) ed a non meno di 3 metri. Si deve correre fino ad essere a distanza di mischia.
-
-Si ottiene un +1d6 a Tiro per Colpire, -4 alla Difesa fino alla fine del round, l'attacco successivo al primo prende un -10 al colpire ed un eventuale successivo -15/20... La carica e attacco/attacchi costa 2 Azioni + 1 Azione se si è percorso più di Azione di Movimento. Non si considerano altri malus per avere corso oltre quelli indicati.
-L'azione di Carica ti porta addosso, in mischia, con l'avversario. L'attacco se fatto con arma lunga ha comunque il bonus di +2 al Tiro per Colpire e colpisce da distanza, per poi finire a contatto con l'avversario.
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/pilum.png}
-
-	\textit{Soldati romani armati di Pilum, pronti per una controcarica.}
-\end{center}
-
-\subsubsection{Controcarica}\index{Controcarica}\label{controcarica}
-
-un Tiro per Colpire effettuato effettuato con un'arma con il talento controcarica se usata contro un avversario/cavalcatura in carica infligge un tiro critico e colpisce per prima, tranne in cui l'avversario abbia un arma lunga o portata maggiore di chi prepara la Controcarica, in questo caso l'attacco è regolato dai tiri di iniziativa.
-
-\subsubsection{Preparare una arma lunga/da controcarica contro una carica} \index{Preparare una arma lunga contro una carica}\label{prepararearmalungacontrocarica}
-
-E' una Reazione.
-
-\subsubsection{Carica con Arma da Controcarica} \index{Controcarica}\label{caricaarmadacontrocarica}
-
-se il Tiro per Colpire ha successo quando usi un arma con il talento controcarica per caricare un avversario questa infligge un tiro critico.
 
 \subsubsection{Aiutare un altro}\index{Aiutare}\label{aiutare}
 
@@ -3245,13 +3312,7 @@ se vuoi fare danno non letale con un'arma non predisposta al danno non letale ha
 
 usare un'arma senza l'adeguata competenza, ovvero non avere la Lista d'Armi d'appartenenza dell'arma, impone un -1d6 al Tiro per Colpire. Non puoi usare la capacità Versatile di un arma se non la sai usare. Un Arma Semplice è usabile anche senza competenza specifica.
 
-\subsubsection{Armi Leggere} \index{Armi Leggere}\label{armileggere}
 
-queste armi sono leggere ed indicate per il \hyperlink{combattimentoaduemani}{combattimento a due mani}.
-
-\subsubsection{Armi Versatili} \index{Armi Versatili}\label{armiversatili}
-
-su armi con il talento Versatile puoi decidere se usare la Destrezza invece della Forza sui Tiri per Colpire. Al danno si usa sempre la Forza.
 
 \subsubsection{Lanciare armi} \index{Lanciare armi}\label{lanciarearmi}
 
@@ -3296,10 +3357,6 @@ Se la creatura può fronteggiare più creature contemporaneamente queste non god
 
 un'arma non leggera se usata a due mani permette di applicare una volta e mezzo il danno dovuto dalla Forza. Questo bonus non si applica se l'arma è troppo grande o non si conosce.
 
-\subsubsection{Arma Doppia} \index{Arma Doppia}\label{armadippia}
-
-un'arma doppia è un'arma che è pericolosa da entrambe le estremità. Può essere usata come arma singola, oppure, incorrendo nelle penalità del combattimento con due armi, come appunto due armi. Se non specificato un'arma doppia usata per combattimento con due armi equivale ad usare due armi medie.
-
 \subsubsection{Maestria del combattimento} \index{Maestria del combattimento}\label{maestriacombattimento}
 
 il giocatore può liberamente aggiungere +4 alla Difesa per ogni -1d6 al Tiro per Colpire. Il bonus è applicabile solo per gli attacchi in mischia. Viceversa può prendere un -4 Difesa per alzare di +1d6 il Tiro per Colpire e quindi migliorare l'attacco.
@@ -3317,22 +3374,6 @@ non è facile prendere la mira corretta e non colpire il proprio compagno, hai u
 \subsubsection{Usare un'arma da lancio sotto minaccia} \index{Usare un'arma da lancio sotto minaccia}\label{usarearmalanciosottominaccia}
 
 usare un'arma da lancio come arco, balestra o pugnale (che si vuole lanciare) mentre si combatte in mischia impone la negazione del bonus della Destrezza alla Difesa ed il Tiro per Colpire ha un -1d6.
-
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/twoweapon.png}
-\end{center}
-
-\subsubsection{Combattimento con due armi}\index{Combattimento con due armi}\hypertarget{combattimentoaduemani}{}\label{combattimentoduemani}
-
-il combattimento con due armi è possibile solo se l’arma secondaria è leggera o si usa un arma doppia.
-
-Gli attacchi fatti con l’arma secondaria si considerano attacchi multipli.
-Se attacco una prima volta, indipendente che sia con l’arma primaria o secondaria, questo avrà il Tiro per Colpire a pieno bonus, gli altri attacchi avranno il -5 al colpire e così via.
-
-Il bonus al danno dato dalla forza sull’arma secondaria viene dimezzato.
-
-E’ possibile usare l’arma secondaria per migliorare la Difesa di un punto ma non si possono fare attacchi con quell'arma.
 
 \subsubsection{Mettersi sulla difensiva} \index{Mettersi sulla difensiva}\label{mettersisulladifensiva}
 
@@ -3356,7 +3397,7 @@ Nella tabella delle armi la taglia è segnata come P (piccola), M (media), G (gr
 
 
 \begin{center}
-	\includegraphics[width=0.7\linewidth]{immagini/angelospadone.png}
+	\includegraphics[width=0.6\linewidth]{immagini/angelospadone.png}
 \end{center}
 
 
@@ -3368,39 +3409,10 @@ Può essere usata per uscire dalla mischia senza causare attacchi di opportunit�
 
 Se per disingaggiare l'avversario è necessario spostarsi di più di 3 metri, a causa della portata dell'avversario, è necessario usare anche un'Azione di Movimento.
 
-\subsubsection{Arma Lunga} \index{Arma Lunga}\label{armalunga}
-
-l'arma lunga da diritto a colpire più lontano ovvero a 2 metri. Concede un bonus al Tiro per Colpire di +2. Questo bonus rimane valido finché l'avversario non entra in distanza della propria mischia.
-
-Nel caso in cui anche l'avversario abbia un arma lunga non considerate il bonus (sono entrambi nella propria area di mischia).
-
-\subsubsection{Arma lunga a breve distanza} \index{Arma lunga a breve distanza}\label{armalungabrevedistanza}
-
-è possibile usare un'arma lunga in mischia con un avversario dotato di arma non lunga o con portata inferiore a 2 metri con un -1d6 al Tiro per Colpire, ad eccezione del Bastone.
 
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Combattimento con Arma Lunga]
-Es. Tups armato di spada lunga affronta uno brigante armato di lancia lunga. Tups ha iniziativa 15, il brigante 12.
 
-Tups sfruttando la sua agilità arriva sotto il brigante colpendolo potentemente. Il brigante trovandosi in mischia con Tups non riesce a sfruttare la sua arma lunga che anzi lo penalizza.
-
-Usa una Azione per allontanarsi di due metri e poi attacca con un bonus di +2 perché l'avversario è distante.
-
-Come terza azioni si allontana di altri 9 metri e urla imprechi verso Tups.
-
-Tups è a questo punto a 11 metri dall'avversario, decide di caricare aprendo così la propria difesa ma ottenendo un bonus al colpire.
-
-Carica il brigante colpendolo e arrivandogli addosso. Il brigante molto ferito prova a colpirlo confidando che la sua difficoltà ad usare una arma lunga così da vicino sia bilanciata dalle penalità date dalla corsa di Tups.
-
-Tups viene colpito ed il brigante getta a terra la lancia ed estrae un corto pugnale e si mette sulla difensiva.
-
-\end{tcolorbox}\end{changemargin}
-
-\subsubsection{Magia in combattimento}\index{Magia in combattimento}\label{magiaincombattimento}
-
-l'incantatore che lancia una magia mentre è in combattimento (ha un avversario in mischia o viene bersagliato da distanza) prende un -4 alla Difesa e si considera Distratto.
-
-\subsection{Azioni Opzionali in Combattimento}\label{azioniopzionaliincombattimento}
+\subsection{Manovre Opzionali in Combattimento}\label{azioniopzionaliincombattimento}
 
 Queste Azioni di combattimento sono a discrezione del Narratore che può concederle o meno.
 
@@ -4028,7 +4040,7 @@ Non è possibile applicare questi bonus se si usa più di uno scudo.
 
 \end{itemize}
 
-\subsection{Armi da tiro} Lancia corta da fante, Ascia ad una mano, Giavellotto, Tridente\index{Armi da tiro}\label{listarmitiro}
+\subsection{Armi da Lancio} Lancia corta da fante, Ascia ad una mano, Giavellotto, Tridente\index{Armi da lancio}\label{listarmitiro}
 
 Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tue armi con tale forza da fare due danni critici ma la precisione ne risente -5 al Tiro per Colpire. Costa 2 Azioni.
 
@@ -5653,7 +5665,7 @@ Fai un unico Tiro per Colpire a -5 e se colpisci causi un danno critico pari a C
 
 \textbf{Tiri Salvezza}: +2 Riflessi
 
-Guadagni un +1 colpire e +1 al danno ed al Tiro per Colpire, con armi da tiro o archi, con bersagli entro 9 metri.
+Guadagni un +1 colpire e +1 al danno ed al Tiro per Colpire, con armi da lancio o archi, con bersagli entro 9 metri.
 
 \subsection*{Tiro rapido}\index{Tiro rapido}\label{tirorapido}
 
@@ -14259,16 +14271,16 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 \textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata, Lista, Speciale}\\
 \toprule
 Alabarda& 10 & G/1d10 P/T& \textbf{Lance}, \textbf{Aste}, Controcarica, Arma lunga, ED9 \\
-Arco Corto& 30 & M/1d6 P& 15 metri, \textbf{Arco}, da tiro\\
-Arco Corto Composito& note*& M/Frecce& 20 metri, \textbf{Arco}, da tiro\\
-Arco Lungo& 75 & G/Frecce& 20 metri, \textbf{Arco}, da tiro\\
-Arco Lungo Composito& note*& G/Frecce& 36 metri, \textbf{Arco}, da tiro\\
-Ascia ad una mano& 6  & M/1d6 T& 6 metri, \textbf{Asce}, \textbf{Armi da Tiro}, Versatile\\
+Arco Corto& 30 & M/1d6 P& 15 metri, \textbf{Archi}\\
+Arco Corto Composito& note*& M/Frecce& 20 metri, \textbf{Archi}\\
+Arco Lungo& 75 & G/Frecce& 20 metri, \textbf{Archi}\\
+Arco Lungo Composito& note*& G/Frecce& 36 metri, \textbf{Archi}\\
+Ascia ad una mano& 6  & M/1d6 T& 6 metri, \textbf{Asce}, \textbf{Armi da Lancio}, Versatile\\
 Ascia da battaglia& 10 & M/1d10 T&\textbf{Asce}\\
 Ascia Martello& 16 & M/1d6 T/B& \textbf{Asce}\\
-Balestra ad una mano& 100& M/Dardi& 6 metri, \textbf{Balestre}, da tiro\\
-Balestra leggera& 35 & P/Dardi& 15 metri, \textbf{Balestre}, \textbf{Armi Semplici}, da tiro\\
-Balestra pesante& 50 & G/Dardi& 30 metri \textbf{Balestre}, da tiro\\
+Balestra ad una mano& 100& M/Dardi& 6 metri, \textbf{Balestre}\\
+Balestra leggera& 35 & P/Dardi& 15 metri, \textbf{Balestre}, \textbf{Armi Semplici}\\
+Balestra pesante& 50 & G/Dardi& 30 metri \textbf{Balestre}\\
 Bastone& 3& M/1d6 B& \textbf{Armi Semplici}, Arma lunga, Versatile\\
 Brandistocco& 10 & M/2d4 P/T& \textbf{Lance}, Controcarica, Arma lunga\\
 Catena chiodata& 25 & G/2d4 P& 3 metri, \textbf{Palle rotanti}, Arma lunga\\
@@ -14277,18 +14289,18 @@ Falce& 18 & G/2d4 P/T& \textbf{Armi della Morte}, Arma lunga\\
 Falcetto& 6& P/1d6 T& \textbf{Armi della Morte}\\
 Falcione& 75 & M/2d4 T& \textbf{Armi Aggraziate}, \textbf{Lance}, ED7\\
 Falcione in asta& 12 & G/1d10 P/T& \textbf{Lance}, Controcarica, Arma lunga, ED9\\
-Fionda& -& P/1d4 B& 10 metri, \textbf{Archi}, da tiro\\
+Fionda& -& P/1d4 B& 10 metri, \textbf{Archi}\\
 Flagello& 8& M/1d8 B& \textbf{Palle Rotanti}, \textbf{Rompi Cranio}\\
 Flagello Doppio& 90 & M/1d10 B& \textbf{Palle Rotanti}, \textbf{Armi doppie}\\
 Flagello Pesante& 15 & M/1d10 B& \textbf{Palle Rotanti}, \textbf{Armi doppie}\\
 Frusta& 1& M/1d3 T& \textbf{Palle Rotanti}, Arma lunga\\
-Giavellotto& 1& P/1d6P& 12 metri, \textbf{Aste}, \textbf{Armi da tiro} \textbf{Armi Semplici}\\
+Giavellotto& 1& P/1d6P& 12 metri, \textbf{Aste}, \textbf{Armi da Lancio} \textbf{Armi Semplici}\\
 Grande Ascia Doppia& 25 & G/1d12 T& \textbf{Asce}, \textbf{Armi doppie}, Arma lunga\\
 Grosso randello& 2& M/1d8 B&\textbf{Rompi Cranio}\\
 Guanto chiodato& 5& P/1d4 P&\textbf{Armi da Stordimento}\\
 Katana& 300& M/1d10 T& \textbf{Spade}, \textbf{Armi letali}, ED9\\
 Lancia& 10 & G/1d8 P&\textbf{Lance}, Arma lunga, Controcarica\\
-Lancia corta da fante& 1& M/1d6 P& 6 metri, \textbf{Armi da tiro}, \textbf{Armi Semplici}, \textbf{Aste}\\
+Lancia corta da fante& 1& M/1d6 P& 6 metri, \textbf{Armi da Lancio}, \textbf{Armi Semplici}, \textbf{Aste}\\
 Lancia da fante& 2& M/1d8 P&6 metri, \textbf{Lance}, Arma lunga, Controcarica\\
 Machete& 10 & M/1d6 T&\textbf{Armi letali}\\
 Manganello& 1& P/1d6 B& \textbf{Armi da stordimento}, non letale\\
@@ -14303,7 +14315,7 @@ Mazza chiodata& 6& M 1d8 B/P&\textbf{Rompi Cranio},\textbf{ Armi Semplici}\\
 Naginata& 8& G/1d10 T&\textbf{Lance}, Arma lunga, ED9\\
 Picca Leggera& 4& M/1d4 P&\textbf{Armi della morte}\\
 Picca Pesante& 8& G/1d6 P&\textbf{Armi della morte}, Arma lunga\\
-Pugnale& 2& P/1d4 P& 6 metri, \textbf{Armi leggere}, \textbf{Armi da tiro}, \textbf{Armi Semplici}\\
+Pugnale& 2& P/1d4 P& 6 metri, \textbf{Armi leggere}, \textbf{Armi da Lancio}, \textbf{Armi Semplici}\\
 Pugno/Calcio nudo& note*& P/1d4 B&Versatile\\
 Randello& 1& P/1d6 B&\textbf{Rompi Cranio}, \textbf{Armi Semplici}\\
 Scimitarra& 15 & M/1d6 T&\textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile\\
@@ -14314,7 +14326,7 @@ Spada larga& 12 & M/2d4 T&\textbf{Spade}\\
 Spada Lunga& 15 & M/1d8 T&\textbf{Spade}\\
 Spadone a due mani& 50 & G/2d6 T&\textbf{Spade}\\
 Stocco& 20 & P/1d6 P& \textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile\\
-Tridente& 15 & M/1d6 P/T& 3 metri, \textbf{Aste}, \textbf{Armi da tiro}, Arma Lunga, Controcarica\\
+Tridente& 15 & M/1d6 P/T& 3 metri, \textbf{Aste}, \textbf{Armi da Lancio}, Arma Lunga, Controcarica\\
 Urgrosh& 18 & M/1d6 T/P& \textbf{Lance}, \textbf{Armi doppie}\\
 \end{xltabular}
 
