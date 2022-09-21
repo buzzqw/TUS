@@ -188,7 +188,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 **0.55** pubblicata versione 0.54, aggiornata copertina, aggiunta regola opzione Gestione Universale Manovre, layout, aggiornata abilita' molla, aggiornamenta lista Raggruppamento Abilita' per Stile, aggiornata lista d'armi rompi cranio-balestre-palle rotanti-armi da stordimento-aste-scudi, aggiunto opzione punti chaos, aggiornate lista d'armi, aggiunte un po' di immagini ad lista di armi, aggiunto Opzionale - Elenco Manovre d'Arme, dettagli su Afferrare e Bloccato, aggiornato screen, chiarimenti su arrapicarsi, precisato malus attaccare quando sei attaccato ad una parete, semplificati calcoli per salto in lungo ed in alto, attaccare da afferrato ha-2 al colpire, aggiunta abilita' lista d'armi a 10,14 e 20 punti, corretti riferimenti armi da tiro ed armi da lancio, riorganizzato capitolo combattimento e reso piu' leggibile e congruente, uniformata gestione della sorpresa, corretto numero azione alzarsi da prono con punteggio acrobatica alto, semplificato uso disingaggiare, migliorie layout
 
-*0.56* pubblicata versione 0.55, aggiornata copertina, chiarito meglio capacita' di carico per creature di taglia grande e piu', chiariti malus per arrampicata, migliorata struttura screen, 
+*0.56* pubblicata versione 0.55, aggiornata copertina, chiarito meglio capacita' di carico per creature di taglia grande e piu', chiariti malus per arrampicata, migliorata struttura screen, aggiornato screen, aggiunta nota per arrampicarsi in fretta, 
 
 
 
