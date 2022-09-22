@@ -67,7 +67,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
 \makeindex[columns=3, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
 \makeindex[columns=3, name=Mostruario, title=Lista dei Mostri, intoc=true]
-\makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true] 
+\makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
 
 \usetikzlibrary{shapes.misc,calc}
 \definecolor{lightgray}{gray}{0.95}
@@ -135,7 +135,7 @@ enhanced,
 arc=5pt,
 boxrule=0.3pt
 }
-\begin{document} 
+\begin{document}
 \def \versione {0.56} \fontsize{10}{12}\selectfont
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(5.5cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(9cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{20cm}(4cm,27.5cm) {\color{red} \calligra\Huge{Fantasy Adventure Game} \LARGE \textbf{v\versione}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %riga 140 %rimuovere questa riga per togliere la copertina
 
@@ -170,7 +170,7 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 
 \smallskip
 
-\begin{multicols}{2} 
+\begin{multicols}{2}
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{O}{BSS} è un gioco di ruolo (GDR o RPG, Role Play Game in inglese) narrativo e collaborativo nel quale i giocatori creano personaggi che vivranno fantastiche e strabilianti avventure. Il Narratore si preoccuperà di dipanare la storia e fare partecipare i personaggi. Come in un gioco di narrazione ogni personaggio contribuirà attivamente alla storia con le sue scelte, le sue decisioni e le sue azioni.
 
 Se sei un giocatore ti accorgerai presto che non è un mondo facile, le cose non vengono regalate ne sono semplici. Saranno più le volte che vorranno ucciderti e derubarti di quelle che vorranno offrirti da bere.
@@ -1570,7 +1570,7 @@ La \textbf{Conoscenza} va esplicitata su quale argomento verte: Dungeon, Legge, 
 
 \begin{multicols}{2}
 
-Ad ogni \textbf{livello successivo al primo} distribuisci un numero di punti pari la metà del punteggio di Intelligenza +1 (Int/2)+1 con un minimo di 1 punto, tra le competenze già conosciute o perfezionate nell'avventura o apprese ex novo.
+Ad ogni \textbf{livello successivo al primo} distribuisci un numero di punti pari la metà del punteggio di Intelligenza +1, [(Int/2)+1], con un minimo di 1 punto, tra le competenze già conosciute o perfezionate nell'avventura o apprese ex novo.
 
 \textbf{Nessuna competenza di Base o Attiva può avere un punteggio superiore al livello del personaggio+2.}
 
@@ -1599,7 +1599,7 @@ In ogni caso ricordate sempre di valutare con attenzione come il giocatore dichi
 
 \textbf{Arcana (INT)}: Con questa competenza si è esperti di magia e di incantesimi, di oggetti magici è si è grado di identificare gli incantesimi che vengono lanciati. 1 Azione.
 
-\textbf{Arrampicarsi (FOR)}: Con questa competenza si possono scalare superfici verticali, dalle mura cittadine alle pareti rocciose. E' legata all'Azione di movimento.
+\textbf{Arrampicarsi (FOR)}: Con questa competenza si possono scalare superfici verticali, dalle mura cittadine alle pareti rocciose. E' legata all'Azione di movimento. Con 8 punti il movimento è solo dimezzato.
 
 \textbf{Artigianato (INT)}: E' necessario specificare la tipologia di Artigianato in cui si è competente. Si è competente, ma non a livello di Professione, in una forma di artigianato.
 
@@ -1687,7 +1687,7 @@ La prova se pertinente alla professione si risolve con un 3d6+Saggezza+1/2LV, se
 
 \subsection{Competenze Attive}\index{Competenze Attive}\label{competenzeattive}
 
-Ogni personaggio prende 1 punto da distribuire nelle Competenze Attive a livello.
+\textbf{Ogni personaggio prende 1 punto da distribuire nelle Competenze Attive a livello}.
 
 \medskip
 
@@ -16539,7 +16539,7 @@ Gli eroi morti negli scontri ritornano come spaventosi generali Non Morti. I poc
 \end{center}
 
 
- 
+
 \pagebreak
 
 \section{Avventure nei Dungeon}\index{Dungeon}
