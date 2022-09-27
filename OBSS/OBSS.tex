@@ -137,7 +137,7 @@ boxrule=0.3pt
 }
 \begin{document}
 \def \versione {0.56} \fontsize{10}{12}\selectfont
-\thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(5.5cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(9cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{20cm}(4cm,27.5cm) {\color{red} \calligra\Huge{Fantasy Adventure Game} \LARGE \textbf{v\versione}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %riga 140 %rimuovere questa riga per togliere la copertina
+\thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(5.5cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(9cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{20cm}(4cm,27.5cm) {\color{red} \calligra\Huge{Fantasy Adventure Game} \LARGE \textbf{v\versione}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
 \bigskip
 Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni\\
@@ -6334,7 +6334,7 @@ Nipote del signor Wing: Lo tenga lontano dalla luce, lui odia la luce forte, spe
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{ famigli} sono animali scelti dal personaggio, tramite l'Abilità Famiglio, perché gli siano d'aiuto nelle avventure e per compagnia. Un famiglio ha un legame speciale con il suo padrone.
 
-Un famiglio è un normale animale che mantiene aspetto, Dadi Vita, Competenza Armi, bonus ai Tiri Salvezza, Abilità del normale animale che era, ma viene trattato come creatura magica al fine di determinare qualsiasi effetto che dipenda dal suo tipo.
+Un famiglio è un normale animale ma viene trattato come creatura magica al fine di determinare qualsiasi effetto che dipenda dal suo tipo.
 
 Solo un normale animale, non modificato, può diventare un famiglio.
 
@@ -6376,11 +6376,7 @@ Volpe       &  +1 al Tiro Salvezza su Riflessi\\
 
 Utilizzare le statistiche base di una creatura della specie del famiglio, apportando i seguenti cambiamenti.
 
-\medskip
-
-\textbf{Dadi Vita}: Ai fini degli effetti legati al numero dei Dadi Vita, utilizzare il punteggio di Competenza Magica del personaggio del padrone o il normale totale di DV del famiglio, quale dei due sia più alto.
-
-\medskip
+\medskip{}
 
 \textbf{Attacchi}: Utilizzare la Competenza Armi del padrone se più alta. Utilizzare il modificatore di Destrezza o Forza del famiglio, quale dei due sia più alto per calcolare il bonus di attacco del famiglio con gli Attacchi Naturali. Il danno è uguale a quello di una normale creatura della specie del famiglio. Il famiglio tira la propria iniziativa.
 
@@ -6390,7 +6386,7 @@ Utilizzare le statistiche base di una creatura della specie del famiglio, apport
 
 \medskip
 
-\textbf{Tiro Salvezza}: Per ogni Tiro Salvezza, utilizzare i bonus al Tiro Salvezza del famiglio (Tempra +2, Riflessi +2, Volontà +0) o quelli del padrone quali siano i migliori. Il famiglio applica i suoi valori di caratteristica come bonus ai Tiri Salvezza e non prende nessuno dei bonus che il suo padrone può avere.
+\textbf{Tiro Salvezza}: Per ogni Tiro Salvezza, utilizzare i Tiri Salvezza del famiglio o quelli del padrone quali siano i migliori. Il famiglio applica i suoi valori di caratteristica come bonus ai Tiri Salvezza e non prende nessuno dei bonus che il suo padrone può avere.
 
 \medskip
 
@@ -6432,7 +6428,7 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 
 \begin{multicols}{2}
 
-\bigskip
+\textbf{Azioni del Famiglio}\index{Azioni del Famiglio}: un famiglio se non comandato segue il suo istinto animale. Comandare un famiglio impiega 1 Azione. Il famiglio esegue 2 Azioni a round.
 
 \textbf{Competenza Magica del Padrone}: il numero indicato qui è il valore di Competenza Magica del padrone del famiglio, articolato in fasce.
 
@@ -6871,7 +6867,7 @@ Ogni volta che un incantatore acquisisce un punto in Competenza Magica può appr
 \item
 Ogni volta che l'incantatore acquisisce un punto in Competenza Magica può rinunciare ad apprendere un incantesimo di livello 1 o superiore per apprendere due Trucchetti (livello 0) che conosca.
 \item
-Ogni volta che l'incantatore acquisisce un punto in Competenza Magica è possibile dimenticare un incantesimo appreso e sostituirlo con un altro a disposizione nel Tomo, purché sia entro il massimo livello lanciabile.
+Ogni volta che l'incantatore acquisisce un punto in Competenza Magica è possibile dimenticare un numero di incantesimi pari alla metà del punteggio di CM e sostituirli con altri a disposizione nel Tomo, purché siano entro il massimo livello lanciabile.
 \item
 Il numero di incantesimi formulabile al giorno dipende dalla capacità dell'incantatore. Vedi \textbf{Tabella Punti magia e Competenza Magica}.
 \item
@@ -7064,7 +7060,7 @@ Ogni incantesimo occupa un numero di pagine nel Tomo pari al proprio livello, co
 Un Tomo (libro) di incantesimi costa 10 mo per pagina.
 
 Un incantatore può copiare sul suo Tomo incantesimi che appartengano ad una Liste di Magia a lui conosciuta (od Universale), il livello massimo copiabile è di un livello superiore al suo massimo lanciabile (vedi \hyperlink{scuoleelivelli}{Liste di Magia}) .
-Se l'incantesimo è di più alto livello o di una Lista di Magia non conosciuta l'incantatore deve fare una Prova di Magia ed ottenere un successo critico magico. Se il personaggio è un Devoto e l'incantesimo appartiene alla Lista di Magia a lui conosciuta e preferita del Patrono allora la Prova di Magia si esegue solo se l'incantesimo è di tre o più livelli superiori al massimo lanciabile.
+Se l'incantesimo è di più alto livello o di una Lista di Magia non conosciuta l'incantatore deve fare una Prova di Magia ed ottenere un successo critico magico. Se il personaggio è un Devoto e l'incantesimo appartiene ad una Lista di Magia a lui conosciuta e preferita del Patrono allora la Prova di Magia si esegue solo se l'incantesimo è di tre o più livelli superiori al massimo lanciabile.
 
 Se non ottiene almeno un successo critico magico non potrà tentare di copiare quell'incantesimo fino al prossimo punto di Competenza Magica acquisito. Se ottiene un fallimento critico magico accadranno brutte cose al Tomo e 1d4 incantesimi verranno cancellati dal Tomo stesso.
 
@@ -7087,7 +7083,7 @@ I personaggi dovranno intraprendere perigliose avventure, pagare mercenari, cerc
 Ogni incantesimo è alla stregua di un oggetto magico, un vero tesoro da cercare e ottenere!
 \end{tcolorbox}\end{changemargin}
 
-Tramite un rito magico difficile e costoso potrà per un solo giorno sostituire 1 incantesimo con altro presente nel Tomo. Questo rito, della durata di 1 ora per livello e dal costo di 50 mo sempre per livello dell'incantesimo, permetterà per le 24 ore successive di sostituire un incantesimo appreso con uno presente in un Tomo e apprendibile dato il livello ma non vincolato alle Lista di Magia conosciute.
+Tramite un rito magico difficile e costoso potrà per un solo giorno \textbf{sostituire 1 incantesimo} con altro presente nel Tomo. Questo rito, della durata di 1 ora per livello e dal costo di 50 mo sempre per livello dell'incantesimo, permetterà per le 24 ore successive di sostituire un incantesimo appreso con uno presente in un Tomo e apprendibile dato il livello ma non vincolato alle Lista di Magia conosciute.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Gli incantesimi diventano oggetti e premi magici a tutti gli effetti. Sfruttate la sete di conoscenza e potere dei personaggi per costruire avventure interessanti che possano ruotare attorno tomi antichi e leggendari incantesimi perduti.
@@ -28208,7 +28204,7 @@ Un Divora Cervelli è lungo 90 cm e pesa circa 30 kg.
 \textbf{Sensi}: visione crepuscolare 18 m \\
 \textbf{Lingue}: - \\
 \textbf{Sfida} 0 (10 PX)\\
-\textbf{Immunità}: al danno delle armi non magiche\\
+\textbf{Immunità}: al danno delle armi non magiche non da botta\\
 \textbf{Resistenza}: danni da taglio, perforazione\\
 \textit{\textbf{Dobi}} Il Dobi si appiccica, per spostarlo è necessario essere gentili e chiederglielo.\\
 \textit{\textbf{Dobi Dobi Dobi}} Quando il Dobi subisce più di 3 punti ferita di danno con un arma non da botta si divide in due Dobi più piccoli ognuno con lo stesso ammontare di Punti Ferita rimasti al Dobi precedente.\\
