@@ -193,7 +193,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 **0.56** pubblicata versione 0.55, aggiornata copertina, chiarito meglio capacita' di carico per creature di taglia grande e piu', chiariti malus per arrampicata, migliorata struttura screen, aggiornato screen, aggiunta nota per arrampicarsi in fretta, aggiunte svantaggi di ruolo vecchio dentro - umarel - consigliori, sostituita tabella per determinare massimo livello di incantesimi lanciabile con 3 regole piu' lineari, corretta caratteristica correlata a lista fuoco, corretto riferimento regole aiutare un altro, aggiornati riferimenti successo critico nelle prove, aggiornato screen con nuova tabella massimo livello incantesimi, rilettura capitolo introduzione e razze, aggiornata regola magia per cambio incantesimi appresi all'aumentare del punteggio di ca, aggiornati font readerxpro a ultima versione
 
 
-*0.57* pubblicata versione 0.56, aggiornata copertina, aggiunta terza di copertina, afferrare e successo critico, finta e' ingannare contro percepire emozioni, aggiornato disarmare, aggiornata condizione assordato-inabile, aggiunta Abilita' Fortunato-Sfortunato, cambiate penalita' per livelli affaticato, aggiornato screen,
+*0.57* pubblicata versione 0.56, aggiornata copertina, aggiunta terza di copertina, afferrare e successo critico, finta e' ingannare contro percepire emozioni, aggiornato disarmare, aggiornata condizione assordato-inabile, aggiunta Abilita' Fortunato-Sfortunato, cambiate penalita' per livelli affaticato, aggiornato screen, aggiornata prova intimidire,
 
 
 
