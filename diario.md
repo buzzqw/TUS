@@ -1,3 +1,23 @@
+**05/10/2022**
+
+Ci sono state diverse migliorie vi invito a leggere il changelog.. magari scrivero' un altra volta dei vari cambiamenti...
+
+Purtroppo il mio pc non e' un "fulmine di guerra", e' un normale core I3 con 16gb ram e ssd, ma per latex quello che conta e' la cpu e non tanto i core, quanto la pura potenza.. ed il mio pc e' piuttosto scarso..
+
+Una possibile ottimizzazione del codice puo' essere "spacchettare" il codice (obss.tex) in tanti file, e poi usare \include{nomefile.tex}
+Il vantaggio e' che quando si ricompila il master e puoi SOLO ricompilare il master non i singoli "include" (anche perche' e' codice tex pure senza header tipo \begin{document}....) latex ricompila solo il documento modificato e poi "fonde" il tutto nel pdf finale.
+Ci sono delle minime considerazioni da fare praticamente ogni include mette in testa e fine un pagebreak, quindi non lo usi a meta' di un foglio.. ma quando incomincia un nuovo capitolo...
+Ho provato a separare il mostruario ed effettivamente un po' di tempo lo guadagni, non un esagerazione, ma comunque e' percepibile.
+
+Sarebbero da valutare diversi include..
+- Incantesimi
+- Mostruario
+- Oggetti magici e generazione causale
+
+questi sono i pezzi grossi e omogenei, ci sono pero' tanti altri pezzi che effettivamente sono i piu' "aggiornati" quali Combattimento, Magia e anche tutto il pezzo delle Avventure, Maasterizzare..
+
+Devo valutare con attenzione.. oppure compro un nuovo pc...!
+
 **12/09/2022**
 
 Nel tempo ho raccolto diverse idee per  mie sistemi ed anche se mi piacerebbe applicarle tutte non e' certo possibile altrimenti si creerebbe un accozzaglia di procedure ben poco coerenti.
