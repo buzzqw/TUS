@@ -7,7 +7,7 @@ In pratica, riprendendo una idea di 13age, se manchi almeno 2 volte, puoi ottene
 Non rompe l'equilibrio del gioco ed anzi stimola a rimanere attivi e concentrati.
 
 Le prove sono andate a buon fine e anche se c'e' un vincolo di CA sono risultate interessanti a tutti.
-La cosa buona e' che adesso non ci sono piu' livelli morti (se non molto alti), praticamente prendi qualcosa ad ogni passaggoo..
+La cosa buona e' che adesso non ci sono piu' livelli morti (se non molto alti), praticamente prendi qualcosa ad ogni passaggio..
 
 
 **05/10/2022**
