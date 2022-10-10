@@ -1,3 +1,15 @@
+**10/10/2022**
+
+Come scrivevo ci sono state piccole modifiche, spesso opzionali, ma comunque interessanti negli ultimi mesi.
+
+In particolare sono state introdotte le manovre d'armi, come regola opzionale, ma che io terro' sempre attiva. Queste manovre permettono a chi di base attacca... di ottenere qualcosa anche se manca tutte le volte.
+In pratica, riprendendo una idea di 13age, se manchi almeno 2 volte, puoi ottenere dei vantaggi immediati opppure al round successivo. Sembrano spesso delle stupidate ma servono a tenere il gioco attivo a chi combatte solo e si ritrova in una pessima serata.
+Non rompe l'equilibrio del gioco ed anzi stimola a rimanere attivi e concentrati.
+
+Le prove sono andate a buon fine e anche se c'e' un vincolo di CA sono risultate interessanti a tutti.
+La cosa buona e' che adesso non ci sono piu' livelli morti (se non molto alti), praticamente prendi qualcosa ad ogni passaggoo..
+
+
 **05/10/2022**
 
 Ci sono state diverse migliorie vi invito a leggere il changelog.. magari scrivero' un altra volta dei vari cambiamenti...
