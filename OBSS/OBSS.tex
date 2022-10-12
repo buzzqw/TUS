@@ -51,7 +51,20 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{imakeidx}
 \usepackage{cancel}
 
-\newread\myscriptresult
+\def\CountIndexOccurrences#1{%
+\expandafter\newcount\csname #1\endcsname%
+\expandafter\newcount\csname #1\endcsname%
+\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
+\IfFileExists{#1.idx}{\input{#1.idx}}{}%
+}
+\CountIndexOccurrences{OBSS}
+\CountIndexOccurrences{Incantesimi}
+\CountIndexOccurrences{Mostruario}
+\CountIndexOccurrences{OggettiMagici}
+\def\TotalBox#1{\vfill%
+	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
+
+%\newread\myscriptresult
 
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
 \makeindex[columns=3, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
@@ -16224,48 +16237,57 @@ Per qualsiasi utilizzo di OBSS o sue parti od idee siete pregati di comunicarlo 
 
 
 {\scriptsize\printindex}
- 
-\immediate\write18{./contaobss.sh > contaobssidx.txt}
-\immediate\openin\myscriptresult=./contaobssidx.txt
-\read\myscriptresult to \ScriptResult  
-\immediate\closein\myscriptresult
+
+%\immediate\write18{./contaobss.sh > contaobssidx.txt}
+%\immediate\openin\myscriptresult=./contaobssidx.txt
+%\read\myscriptresult to \ScriptResult
+%\immediate\closein\myscriptresult
 
 \vfill
 
-Totale elementi nell'indice \ScriptResult
+%Totale elementi nell'indice \ScriptResult
+
+\TotalBox{OBSS}
+
 
 {\scriptsize\printindex[Incantesimi]}
 
-\immediate\write18{./contaspell.sh > contaspell.txt}
-\immediate\openin\myscriptresult=./contaspell.txt
-\read\myscriptresult to \ScriptResult  
-\immediate\closein\myscriptresult
+%\immediate\write18{./contaspell.sh > contaspell.txt}
+%\immediate\openin\myscriptresult=./contaspell.txt
+%\read\myscriptresult to \ScriptResult
+%\immediate\closein\myscriptresult
 
 \vfill
 
-Totale elementi in questo indice \ScriptResult
+%Totale elementi in questo indice \ScriptResult
+
+\TotalBox{Incantesimi}
 
 {\scriptsize\printindex[OggettiMagici]}
 
 
-\immediate\write18{./contaomagici.sh > contaomagici.txt}
-\immediate\openin\myscriptresult=./contaomagici.txt
-\read\myscriptresult to \ScriptResult  
-\immediate\closein\myscriptresult
+%\immediate\write18{./contaomagici.sh > contaomagici.txt}
+%\immediate\openin\myscriptresult=./contaomagici.txt
+%\read\myscriptresult to \ScriptResult
+%\immediate\closein\myscriptresult
 
 \vfill
 
-Totale elementi in questo indice \ScriptResult
+%Totale elementi in questo indice \ScriptResult
+
+\TotalBox{OggettiMagici}
 
 {\scriptsize\printindex[Mostruario]}
 
 \vfill
 
-Totale elementi in questo indice \ScriptResult
+\TotalBox{Mostruario}
 
-\immediate\write18{./contamostri.sh > contamostri.txt}
-\immediate\openin\myscriptresult=./contamostri.txt
-\read\myscriptresult to \ScriptResult  
-\immediate\closein\myscriptresult
+%Totale elementi in questo indice \ScriptResult
+
+%\immediate\write18{./contamostri.sh > contamostri.txt}
+%\immediate\openin\myscriptresult=./contamostri.txt
+%\read\myscriptresult to \ScriptResult
+%\immediate\closein\myscriptresult
 
 \end{document}
