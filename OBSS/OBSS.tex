@@ -51,18 +51,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{imakeidx}
 \usepackage{cancel}
 
-\def\CountIndexOccurrences#1{%
-\expandafter\newcount\csname #1\endcsname%
-\expandafter\newcount\csname #1\endcsname%
-\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
-\IfFileExists{#1.idx}{\input{#1.idx}}{}%
-}
-\CountIndexOccurrences{OBSS}
-\CountIndexOccurrences{Incantesimi}
-\CountIndexOccurrences{Mostruario}
-\CountIndexOccurrences{OggettiMagici}
-\def\TotalBox#1{\vfill%
-\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
+\newread\myscriptresult
 
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
 \makeindex[columns=3, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
@@ -134,6 +123,17 @@ enhanced,
 arc=5pt,
 boxrule=0.3pt
 }
+
+
+
+
+
+
+
+
+
+
+
 
 \begin{document}
 \def \versione {0.58} \fontsize{10}{12}\selectfont
@@ -16224,19 +16224,48 @@ Per qualsiasi utilizzo di OBSS o sue parti od idee siete pregati di comunicarlo 
 
 
 {\scriptsize\printindex}
+ 
+\immediate\write18{./contaobss.sh > contaobssidx.txt}
+\immediate\openin\myscriptresult=./contaobssidx.txt
+\read\myscriptresult to \ScriptResult  
+\immediate\closein\myscriptresult
 
-\TotalBox{OBSS}
+\vfill
+
+Totale elementi nell'indice \ScriptResult
 
 {\scriptsize\printindex[Incantesimi]}
 
-\TotalBox{Incantesimi}
+\immediate\write18{./contaspell.sh > contaspell.txt}
+\immediate\openin\myscriptresult=./contaspell.txt
+\read\myscriptresult to \ScriptResult  
+\immediate\closein\myscriptresult
+
+\vfill
+
+Totale elementi in questo indice \ScriptResult
 
 {\scriptsize\printindex[OggettiMagici]}
 
-\TotalBox{OggettiMagici}
+
+\immediate\write18{./contaomagici.sh > contaomagici.txt}
+\immediate\openin\myscriptresult=./contaomagici.txt
+\read\myscriptresult to \ScriptResult  
+\immediate\closein\myscriptresult
+
+\vfill
+
+Totale elementi in questo indice \ScriptResult
 
 {\scriptsize\printindex[Mostruario]}
 
-\TotalBox{Mostruario}
+\vfill
+
+Totale elementi in questo indice \ScriptResult
+
+\immediate\write18{./contamostri.sh > contamostri.txt}
+\immediate\openin\myscriptresult=./contamostri.txt
+\read\myscriptresult to \ScriptResult  
+\immediate\closein\myscriptresult
 
 \end{document}

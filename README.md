@@ -24,7 +24,7 @@ Qui il Print on Demand (POD) su Amazon https://www.amazon.it/dp/B09R3HPJJX
 
 OBSS viene fornito in file sorgente in formato TEX e compilato in PDF. I giochi di ruolo qui presenti sono gratuiti, potete scaricarli ed usarli a vostro piacimento, nel rispetto della licenza.
 
-Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian) con xelatex (per via del font usato che aiuta nella lettura ed e' amichevole per chi soffre di dislessia).
+Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian) con xelatex (per via del font usato che aiuta nella lettura ed e' amichevole per chi soffre di dislessia). Per compilare uso la stringa latexmk -xelatex --shell-escape OBSS.tex
 
 Il gioco e' completo anche se in fase di costante perfezionamento. Nel manuale c'e' la parte per i Giocatori, per il Narratore (il Master) e pure il mostruario (senza immagini...). E' anche disponibile uno schermo per il Narratore anche se e' MOLTO poco bello...
 
