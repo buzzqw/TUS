@@ -1221,7 +1221,7 @@ Nella scheda troverai dei \textbf{check} da mettere vicino ai Tratti, questi ven
 
 Sarà il Narratore durante l'avventura a dirti quando segnare, o cancellare, dei punti parziali. \textbf{In linea di massima si presume che un personaggio acquisti almeno un punto Tratto a livello.}
 
-All'aumentare del valore del Tratto il personaggio potrà acquisire dei poteri, indipendentemente sia un credente (Seguace o Devoto) di quel Patrono o meno.
+All'aumentare del valore della somma dei Tratti comuni con il Patrono il personaggio potrà acquisire dei poteri, indipendentemente sia un credente (Seguace o Devoto) di quel Patrono o meno.
 
 - A \textbf{5} punti si può incominciare a sentire la presenza di un Patrono legato ad un Tratto
 
@@ -5558,49 +5558,17 @@ L'Abilità può essere presa nuovamente purché il valore di Competenza Magica s
 
 Concentrandoti sulla potenza del tuo Patrono convogli l'energia positiva ed allontani o distruggi i non-morti.
 
-Effettua una prova tirando 1d6 (valgono le Golden Rules) per ogni volta che hai preso questa Abilità e poi somma i Tratti in comune con il tuo Patrono. Confronta il risultato con questa tabella per capire gli effetti ottenuti.
+Effettua una prova tirando 1d6 + il punteggio del Tratto in comune con il Patrono a più alto valore, questo totale è il tuo Potere Divino.
 
-\end{multicols}
+Partendo dai non morti più deboli intorno a te, nel raggio di 6 metri, sottrai il Grado di Sfida dal Potere Divino finché questo non è più sufficiente a scacciare nessuno.
 
-%\addvspace{5cm}
+Se il Potere Divino è almeno il doppio del Grado di Sfida, il non-morto viene distrutto e si sottrae appunto il doppio del Grado di Sfida dal valore del Potere Divino.
 
-\textbf{Tabella: Scacciare Non Morti}\index{Tabella Scacciare Non Morti}
-
-\medskip
-
-\begin{tabularx}{0.9\textwidth}{Xllllllllll}
-\textbf{Non Morto} & \multicolumn{6}{c}\textbf{\textbf{Valore Prova}}\\
-\textbf{o Grado di Sfida} &2-4 & 5-8 &9-11 &12-15&16-18&19-22&23-25&26-29&30-32&33-36\\
-\toprule
-\textbf{Scheletro}     & - & T   & T   & T   & D   & D   & D   & D*  & D*  & D*  \\
-\textbf{Zombie} & - & -   & T   & T   & T   & D   & D   & D   & D*  & D*  \\
-\textbf{Ghoul}& - & -   & -   & T   & T   & T   & D   & D   & D   & D*  \\
-\textbf{Ghast}& - & -   & -   & -   & T   & T   & T   & D   & D   & D   \\
-\textbf{Wraith}& - & -   &-    & -   & -   & T   & T   & T   & D   & D   \\
-\textbf{Mummia}& - & -   &-    &-    & -   & -   & T   & T   & T   & D   \\
-\textbf{Spettro}&-  & -   &-    &-    &-    & -   & -   & T   & T   & T   \\
-\textbf{Vampiro}&-  & -   & -   &-    &-    &-    & -   & -   & T   & T   \\
-\textbf{Fantasma}&-  & -   &-    & -   &-    &-    &-    & -   & -   & T   \\
-\textbf{Lich}&-  & -   &-    & -   &-    &-    &-    & -   & -   & T   \\
-\end{tabularx}
-
-\bigskip
-
-\textit{Legenda}:
-
-T: 1d4 creature scappano per 1 minuto il più lontano possibile. Se aggredite non sono più spaventate e rispondono all'attacco.
-
-D: 1d4 creature vengono distrutte
-
-D*: 2d4 creature vengono distrutte
-
-\begin{multicols}{2}
-
-Le creature eseguono un Tiro Salvezza su Volontà a DC pari alla prova di Scacciare i Non Morti per resistere all'effetto.
+I non-morti eseguono un Tiro Salvezza su Volontà a DC pari a 10 + Potere Divino per resistere all'effetto.
 
 L'Abilità è usabile un numero di volte al giorno pari alla Saggezza ma un non morto può essere influenzato solo una volta al giorno dal tuo effetto.
 
-
+Un non-morto che viene scacciato è sotto \hyperlink{condizionepaura}{Paura} per 1d4 round, un non-morto distrutto viene ridotto in polvere ed energia divina.
 
 
 \subsection*{Schivare trappole}\index{Schivare trappole}\label{schivaretrappole}
@@ -5827,7 +5795,7 @@ La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire au
 
 \begin{center}
 
-\includegraphics[width=0.8\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+\includegraphics[width=0.9\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 
 \textit{attorno ad un fuoco, vittoriosi un altro giorno!}
 \end{center}
@@ -15904,7 +15872,7 @@ Se un personaggio pietrificato si incrina o si rompe, ma i pezzi rotti sono unit
 
 La creatura dispone di resistenza a tutti i danni. La creatura è immune ai veleni e le malattie, ma gli eventuali i veleni e le malattie già presenti nel suo sistema vengono solo sospesi, non neutralizzati.
 
-\textbf{Paura, Spaventato}:\index{Paura}\index{Spaventato} Incantesimi, Oggetti Magici e certe creature possono influenzare i personaggi con paura. In molti casi, il personaggio deve effettuare un Tiro Salvezza su Volontà per resistere agli effetti, e un tiro fallito indica che il personaggio è Spaventato. Una creatura spaventata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Competenza finché la sorgente della sua paura è visibile. Una creatura spaventata non può avvicinarsi volontariamente alla sorgente della sua paura.
+\textbf{Paura, Spaventato}:\index{Paura}\index{Spaventato}\hypertarget{condizionepaura}{} Incantesimi, Oggetti Magici e certe creature possono influenzare i personaggi con paura. In molti casi, il personaggio deve effettuare un Tiro Salvezza su Volontà per resistere agli effetti, e un tiro fallito indica che il personaggio è Spaventato. Una creatura spaventata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Competenza finché la sorgente della sua paura è visibile. Una creatura spaventata non può avvicinarsi volontariamente alla sorgente della sua paura.
 
 \textbf{Prono}\index{Prono}: chi è prono ha un -1d6 ad attaccare ed un -4 alla Difesa. Alzarsi da prono costa 2 Azioni. Non si può diventare proni se si vola.
 L'unica opzione di movimento per una creatura prona è di strisciare (terreno difficile), a meno che non si rialzi e ponga termina alla sua condizione.
