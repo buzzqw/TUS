@@ -197,7 +197,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 04/10/2022 aggiornata versione POD
 
-*0.58* pubblicata versione 0.57, aggiornata copertina, migliore layout in tabella affaticamento, separato obss in piu' file tex per maggiore velocita' compilazione, alzata la difficolta' di sentire rumori da addormentato, aggiunte ulteriori effetti ad affaticato, aggiunto critico magico a raggio di affaticamento, aggiornato vantaggio caduta gatto, migliore layout in tabella dimensioni e dadi vita mostri, cambiata metodologia di contare gli elementi dell'indice questo dovrebbe ripristinare la creazione del docx, a seguito dell'ultimo commit pero' vanno in errore le action di compilazione su github a questo punto tolgo la versione docx tanto e' orrenda, correzioni di lingua, indicazione su poteri e somma tratti, semplificata gestione dello scacciare non morti,
+*0.58* pubblicata versione 0.57, aggiornata copertina, migliore layout in tabella affaticamento, separato obss in piu' file tex per maggiore velocita' compilazione, alzata la difficolta' di sentire rumori da addormentato, aggiunte ulteriori effetti ad affaticato, aggiunto critico magico a raggio di affaticamento, aggiornato vantaggio caduta gatto, migliore layout in tabella dimensioni e dadi vita mostri, cambiata metodologia di contare gli elementi dell'indice questo dovrebbe ripristinare la creazione del docx, a seguito dell'ultimo commit pero' vanno in errore le action di compilazione su github a questo punto tolgo la versione docx tanto e' orrenda, correzioni di lingua, indicazione su poteri e somma tratti, semplificata gestione dello scacciare non morti, dettaglio sull'abisso,
 
 
 
