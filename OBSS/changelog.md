@@ -203,7 +203,9 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 0.58-221022-C corretta indicazione di Miti in Miti e Leggende, controllate tutte le Abilita' ed aggiunto requisito dove manca, specificato che Flagello Danzante e' da usarsi su armi della lista d'arme Palle Rotanti, prendendo 3 volte adepto della magia l'accesso e' fino al 7 livello di incantesimi, rimosso metodo di lancio caratteristiche modalita' che vorrei perche' sbilanciata, modificato metodo di lancio caratteristiche per codardi in 5 punti da distribuire, aggiornata indicazione dadi vita per abilita' animaletto, modificato incantesimo arma energetica, aggiunta arma maglio da guerra, specificato che la spada bastarda se usata ad una mano da 1d8 ed a due mani 1d10, al primo livello l'incantatore apprende due incantesimi + metà del modificatore di caratteristica (arrotondato per difetto) + 2 Trucchetti, sul tomo di magia a punteggio competenza magica 1 apprendi 2 + modificatore da caratteristica per incantesimi di magie a sua scelta dalla Liste di Magia appresa oppure dalla Liste Universale e 3 Trucchetti, aggiornato elenco incantesimi per alfabetico-rarita'-livello
 
-0.58 layout tratti patroni, aggiunta scheda ad uso narratore per tenere traccia dei personaggi, aggiunto incantesimo gragnola di limoni di Kyrin, aggiunto incantesimo Lettura della terra di Kyrin, 
+0.58 layout tratti patroni, aggiunta scheda ad uso narratore per tenere traccia dei personaggi, aggiunto incantesimo gragnola di limoni di Kyrin, aggiunto incantesimo Lettura della terra di Kyrin
+
+0.59 pubblicata versione 0.58, aggiornata copertina, rimossi flagelli da lista armi rompicranio, 
 
 
 
