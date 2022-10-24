@@ -205,7 +205,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 0.58 layout tratti patroni, aggiunta scheda ad uso narratore per tenere traccia dei personaggi, aggiunto incantesimo gragnola di limoni di Kyrin, aggiunto incantesimo Lettura della terra di Kyrin
 
-0.59 pubblicata versione 0.58, aggiornata copertina, rimossi flagelli da lista armi rompicranio, 
+0.59 pubblicata versione 0.58, aggiornata copertina, rimossi flagelli da lista armi rompicranio, il famiglio agisce nel round del padrone, aggiunto mostro scimmia, 
 
 
 
