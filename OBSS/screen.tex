@@ -729,13 +729,15 @@ Cerca di occultare le traccie&DC +5\\
 \begin{textblock*}{5cm}(1cm,1cm) % larghezza box, coord X, coord Y
 \textbf{Prova di Magia}\\
 3d6 + 1d6*(1/4 Comp. Magica)\\
+Ignori un dado per ogni Adepto della Magia oltre il primo nella lista\\
 Fallimento Critico: due volte 1, un 1 e due 2\\
+
 
 \riga
 
 \textbf{Distratto}\\
 Sei Distratto se: occulti il lancio di incantesimo, Impedito, disturbato, sanguinante, sotto attacco (-4 Difesa)-
-Se fallimento perdi metà Punti Magia. No effetti negativi.\\
+Se fallimento perdi metà Punti Magia. No effetti negativi o positivi.\\
 
 \riga
 
@@ -782,8 +784,6 @@ DC è 10 + 2 x livello incantesimo + Intelligenza
 
 \riga
 
-\textbf{Lanciare più volte il medesimo incantesimo} il costo aumento di se stesso. 4,8,12.. Non con Trucchetti
-
 \end{textblock*}
 
 
@@ -794,30 +794,30 @@ DC è 10 + 2 x livello incantesimo + Intelligenza
 \riga
 
 \textbf{Devoto}\\
-3 Tratti in comune con Patrono. Un Devoto aggiunge +1d6 alla Prova di Magia nelle scuole preferite dal Patrono e ignora un 1 tirato nella Prova di Magia. Devi usare l'energia preferita del Patrono nei tuoi incantesimi.
+3 Tratti in comune con Patrono. Un Devoto aggiunge +1d6 alla Prova di Magia nelle scuole preferite dal Patrono e ignora un dado tirato nella Prova di Magia. Devi usare l'energia preferita del Patrono nei tuoi incantesimi.
 
 \riga
 
 \textbf{Fallimento Critico Prova di Magia - 3d6 -1d6 x Fallimento Crit. Min. 1d6}
 \begin{tabularx}{0.95\textwidth}{lX}
-1 & Per tre giorni non sei piu' in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia\\
-2 & Subisci 30 Punti Ferita di danno e dimezzi i Punti Magia rimanenti.\\
-3 & Vieni investito da una roboante colonna di fuoco. In un raggio di 3 metri intorno a te compreso, chiunque deve fare un Tiro Salvezza su Riflessi DC 18 per dimezzare o subire 1d4 di danni per livello di incantesimo\\
-4 & Per un minuto sei sotto l'influenza dell'incantesimo Confusione\\
-5 & Sei paralizzato per 1 minuto\\
-6 & Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe ad effettuare una Prova di Magia. Durata 1 minuto.\\
-7 & Diventi Invisibile ed incapace di parlare per 1 minuto\\
-8 & Vieni avvolto solo tu da una cortina di oscurità magica per 1 minuto\\
-9 & Il battito del tuo cuore è come il battito di un tamburo, si puo sentire entro 50 metri\\
-10 & Il prossimo incantesimo che lanci ha effetti se possibile minimizzati\\
-11 & Perdi 10 Punti Magia e 10 Punti Ferita\\
-12 & Emetti una rumorosa e pestilenziale flatulenza. Una insegna luminosa di 1m x 50cm sopra la tua testa ti indica e ti sbeffeggia.\\
+1 & Aumenti la condizione di Affaticato di 2 gradi\\
+2 & Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia\\
+3 & Manifesti una modifica corporea minore\\
+4 & Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 3 metri intorno a te compreso, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 1d6 di danni per livello di incantesimo\\
+5 & Per 3 round sei sotto l'influenza dell'incantesimo Confusione\\
+6 & Sei paralizzato per 3 round\\
+7 & Vieni teletrasportato entro 3d10 metri in una direzione casuale\\
+8 & Diventi Invisibile ed incapace di parlare per 6 round\\
+9 &  Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round\\
+10 & Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round\\
+11 & Il prossimo incantesimo che lanci ha effetti se possibile minimizzati\\
+12 & Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 50 metri\\
 13 & Ti cadono tutti i peli del corpo, per fortuna possono ricrescere\\
-14 & Ogni oggetto che tieni in mano ti cade a terra\\
-15 & I tuoi vestiti non magici scompaiono\\
-16 & Guadagni 10 Punti Magia\\
+14 & Emetti una rumorosa e pestilenziale flatulenza. Una insegna luminosa di 1m x 50cm sopra la tua testa ti indica e ti sbeffeggia\\
+15 & Ogni oggetto che tieni in mano ti cade a terra\\
+16 & Guadagni 2d6 Punti Magia\\
 17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
-18 & Tutte le creature, escluso te, nel raggio di 3 metri da te subiscono 1d10 danni da Forza\\
+18 & Tutte le creature, escluso te, nel raggio di 6 metri da te subiscono 1d10 danni non resistibili
 \end{tabularx}
 
 \riga
@@ -825,18 +825,16 @@ DC è 10 + 2 x livello incantesimo + Intelligenza
 \textbf{Massimo Livello Incantesimo lanciabile}
 
 \begin{itemize}
-\item
-\textbf{Adepto della Magia} (Regola 1) \\
-- 0 volte = entro il livello 0 | 1 volta = entro il livello 4\\
-- 2 volte = entro il livello 6 | 3 volte = ogni livello di incantesimo
+	\item
+	\textbf{Adepto della Magia} (Regola 1) \\
+	- presa 1 volta puoi lanciare solo incantesimi entro il livello 4 compreso\\
+	- presa 2 volte puoi lanciare solo incantesimi entro il livello 6 compreso\\
+	- presa 3 volte puoi lanciare ogni livello di incantesimo
+	
+	\item
+	\textbf{Competenza Magica} (Regola 2)\\
+	- puoi lanciare incantesimi entro la metà +1 del valore di Competenza Magica, es CM 7 = (7/2)+1 = 3+1 = 4lv incantesimi
 
-\item
-\textbf{Caratt. collegata alla Liste di Magia} (Regola 2) \\
-- entro il doppio +1 del della caratteristica, es. Int. 3 = (3x2)+1 = max 7lv
-
-\item
-\textbf{Competenza Magica} (Regola 3)\\
-- entro la metà +1 di CM, es CM 7 = (7/2)+1 = 3+1 = 4lv incantesimi
 \end{itemize}
 
 \riga
