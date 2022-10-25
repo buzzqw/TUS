@@ -205,7 +205,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 0.58 layout tratti patroni, aggiunta scheda ad uso narratore per tenere traccia dei personaggi, aggiunto incantesimo gragnola di limoni di Kyrin, aggiunto incantesimo Lettura della terra di Kyrin
 
-0.59 pubblicata versione 0.58, aggiornata copertina, rimossi flagelli da lista armi rompicranio, il famiglio agisce nel round del padrone, aggiunto mostro scimmia, 
+0.59 pubblicata versione 0.58, aggiornata copertina, rimossi flagelli da lista armi rompicranio, il famiglio agisce nel round del padrone, aggiunto mostro scimmia, aggiornata regola per gestione massimo livello di incantesimi, si apprende una nuova Lista di Magia quando assegna il primo punto di Competenza Magica e ogni 3, rimossa regola per costo aggiuntivo incantesimi se lo lanci piu' volte, per l'accesso alla lista di magia Universale basta avere assegnato 1 punto in competenza magica, corrette indicazioni rarita' incantesimi, al primo punto di Competenza Magica apprendi (puoi lanciare) 2 incantesimi + modificatore di caratteristica + 2 Trucchetti, quando assegni un punto in Competenza Magica puoi cambiare lo stesso numero di incantesimi appresi, il massimo livello di incantesimi lanciabile nella scuola universale e' pari al massimo livello lanciabile in un altra lista, rimossa opzione Arte Magica, l'incantatore può ignorare un dado tirato nella Prova di Magia per ogni volta che ha preso l'Abilità Adepto della Magia oltre la prima il vantaggio si computa e applica per Lista di Magia, 
 
 
 
