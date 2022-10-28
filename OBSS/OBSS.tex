@@ -19,11 +19,9 @@
 \usepackage[italian]{babel}
 \usepackage{setspace}
 \usepackage{graphicx}
-
-
-%\usepackage[allfiguresdraft]{draftfigure}  %senza figure, deve rimanere alla riga 24
 \usepackage{amssymb}
 \usepackage{makeidx}
+%\usepackage[allfiguresdraft]{draftfigure}  %senza figure, deve rimanere alla riga 24
 \usepackage{multirow}
 \usepackage{titlesec}
 \usepackage[unicode=true, bookmarks=true,
@@ -63,29 +61,21 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \CountIndexOccurrences{OggettiMagici}
 \def\TotalBox#1{\vfill%
 	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
-
-%\newread\myscriptresult
-
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
 \makeindex[columns=3, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
 \makeindex[columns=3, name=Mostruario, title=Lista dei Mostri, intoc=true]
 \makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
-
 \usetikzlibrary{shapes.misc,calc}
 \definecolor{lightgray}{gray}{0.95}
-
 \usetikzlibrary{shapes.misc,calc}
 \definecolor{lightgray}{gray}{0.95}
-
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE,RO]{\leftmark}
 \fancyhead[RE,LO]{}
-
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-
 \usepackage{xltabular}
 \usepackage{tabularx}
 \usepackage{pdfpages}
@@ -94,25 +84,19 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage[absolute,overlay]{textpos}
 \usepackage{etoolbox}
 \usepackage{soul}
-
 \raggedbottom
-
 \usepackage{array}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 \newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
-
 \titleformat{\section}{\filcenter\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
 \titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
 \titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
-
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
-
 \setcounter{tocdepth}{3}
-
 \newtcolorbox{narratore}{
 enhanced, % enable advanced settings
 %left = 3mm,
@@ -127,7 +111,6 @@ underlay={%
 \path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
 \path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
 \path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
-
 },
 drop fuzzy shadow }
 
@@ -137,11 +120,15 @@ arc=5pt,
 boxrule=0.3pt
 }
 
-
-
-
-
-
+\usepackage{zref-savepos,graphicx}
+\newcommand{\filltopageendgraphics}[2][]{%\filltopageendgraphics[width=.5\linewidth]{image-a}
+		\par
+	\zsaveposy{top-\thepage}% Mark (baseline of) top of image
+	\vfill
+	\zsaveposy{bottom-\thepage}% Mark (baseline of) bottom of image
+	\smash{\includegraphics[keepaspectratio=true,height=\dimexpr\zposy{top-\thepage}sp-\zposy{bottom-\thepage}sp\relax,#1]{#2}}%
+	\par
+}
 
 
 
@@ -1075,9 +1062,9 @@ La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabell
 \end{tcolorbox}\end{changemargin}
 
 
-\subsection{Aumentare le Caratteristiche}\label{aumentarelecaratteristiche}
+\subsection{Aumentare le Caratteristiche}\label{aumentarelecaratteristiche}\hypertarget{aumentarelecaratteristiche}{}
 
-\textbf{Ogni quattro livelli} (4, 8, 12 e fino al 16) si può aumentare di un punto una Caratteristica, fino a raggiungere un massimo di valore 4 + il bonus, o malus, razziale della caratteristica. Per aumentare oltre questo valore sono necessari oggetti magici o magie. L'aumento di Caratteristica ha effetto retroattivo solo per gli aumenti di Costituzione, andando a ripercuotersi sui Punti Ferita massimi. L'aumento di Caratteristica applica immediatamente il modificatore ai Tiri Salvezza e Tiri per Colpire ed Iniziativa, l'aumento di Intelligenza si ripercuote nel successivo livello nel numero di Competenze acquisite.
+Tramite l'Abilità Supremo si può aumentare di un punto una Caratteristica, fino a raggiungere un massimo di valore 4 + il bonus, o malus, razziale della caratteristica. Per aumentare oltre questo valore sono necessari oggetti magici o magie. L'aumento di Caratteristica ha effetto retroattivo solo per gli aumenti di Costituzione, andando a ripercuotersi sui Punti Ferita massimi. L'aumento di Caratteristica applica immediatamente il modificatore ai Tiri Salvezza e Tiri per Colpire ed Iniziativa, l'aumento di Intelligenza si ripercuote nel successivo livello nel numero di Competenze acquisite.
 
 \begin{center}
 \includegraphics[width=0.45\linewidth]{immagini/guerrieroispirato.png}
@@ -1952,7 +1939,7 @@ Ogni qual volta il Narratore ti confermi il passaggio di livello sono da compier
 
 - Se avete assegnato un punto in Competenza Armi stabilite se prendete una nuova Lista d'Armi o approfondite la conoscenza di una lista già appresa.
 
-- Ad ogni livello dispari (3,5,7,9..) prendete una nuova Abilità o migliorate una Abilità esistente, state attenti ai prerequisiti.
+- Controllata se prendete una nuova Abilità o migliorate una Abilità esistente, state attenti ai prerequisiti.
 
 - Aggiornate lo schema dei Tiri Salvezza in base alle nuove Abilità prese.
 
@@ -4349,7 +4336,7 @@ I giocatori in accordo con il Narratore possono creare loro Manovre d'Arme perso
 
 Le Abilità costituiscono una buona parte di ciò che può fare il personaggio, vanno scelte con attenzione e cura. E' scegliendo le Abilità che si stabilisce lo stile e capacità del personaggio, se lo si vole più guerriero o mago o curatore.. o qualsivoglia combinazione e peculiarità.
 
-\textbf{Al primo livello si prendono due Abilità}. Ogni 2 livelli successivi, quindi al 3, 5, 7, 9..., si prende un'altra Abilità che può essere la stessa già presa oppure una nuova Abilità appresa durante le avventure.
+\textbf{Al primo livello si prendono due Abilità}. Successivamente si prende una Abilità al 2,3, 4,6,7,8,10,11,12,14,15,16,18,19,20 questa può essere la stessa già presa oppure una nuova Abilità appresa durante le avventure.
 
 E' possibile che siano indicati dei Requisiti sotto il nome dell'Abilità, in questo caso vanno rispettati per prendere l'Abilità in questione.
 Eventuali requisiti successivi vengono indicati volta per volta.
@@ -5709,6 +5696,14 @@ La \textbf{seconda volta} che prendi l'Abilità puoi influenzare anche creature 
 
 La \textbf{terza volta} che prendi l'Abilità puoi influenzare anche creature di due taglie superiori.
 
+\subsection*{Supremo}\index{Supremo}\label{supremo}
+
+\textbf{Requisito}: somma CA+CM multiplo di 4
+
+\textbf{Tiri Salvezza}: +1 a due Tiri Salvezza a piacere
+
+Tramite l'Abilità Supremo è possibile aumentare di 1 punto una Caratteristica rispettando le regole di \hyperlink{aumentarelecaratteristiche}{Aumentare le Caratteristiche}.
+
 \subsection*{Tattico}\index{Specialista}\label{tattico}
 
 \textbf{Requisito}: Competenza Armi 1, Intelligenza 1
@@ -5841,7 +5836,9 @@ La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire au
 
 \begin{center}
 
-\includegraphics[width=0.9\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+\includegraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+
+%\filltopageendgraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 
 \textit{attorno ad un fuoco, vittoriosi un altro giorno!}
 \end{center}
@@ -7370,7 +7367,7 @@ Un caso particolare è l'\textbf{energia positiva Curativa}\index{Energia positi
 \begin{center}
 \includegraphics[width=0.4\linewidth]{immagini/Voynich_Manuscript.png}
 
-%\filltopageendgraphics[keepaspectratio]{immagini/Voynich_Manuscript.png}
+%\filltopageendgraphics[width=0.6\linewidth]{immagini/Voynich_Manuscript.png} e togliere \vfill
 
 \smallskip
 
