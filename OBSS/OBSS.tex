@@ -136,7 +136,7 @@ boxrule=0.3pt
 
 
 \begin{document}
-\def \versione {0.60} \fontsize{10}{12}\selectfont
+\def \versione {0.61} \fontsize{10}{12}\selectfont
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(5.5cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(9cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{20cm}(4cm,27.5cm) {\color{red} \calligra\Huge{Fantasy Adventure Game} \LARGE \textbf{v\versione}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
 \bigskip
@@ -1074,6 +1074,8 @@ L'aumento di Caratteristica applica immediatamente il modificatore ai Tiri Salve
 
 \end{multicols}
 
+\vfill
+
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 I giocatori comunque si lamenteranno delle Caratteristiche tirate, è normale, specialmente i giocatori più inesperti. Cercate di fargli capire che non deve limitarsi a guardare le Caratteristiche ma vedere l'insieme generale del personaggio. Suggeritegli Abilità che possano sopperire allo svantaggio.
 \end{narratore}\end{changemargin}
@@ -1885,7 +1887,7 @@ Se non hai punti in Competenza Armi puoi usare solo le \hyperlink{armi.semplici}
 
 I Tiri Salvezza migliorano quando si scelgono le Abilità, i punteggi dei Tiri Salvezza determinano la tua capacità di sopravvivenza e di resistere a traumi e magie
 
-Le Competenze Base vengono assegnata in base alla Professione scelta. Sceglila con attenzione e cura. La Professione determina cosa sai fare, e ricorda che in base al background e professione scelta aumenti una caratteristica di 1, fino ad un massimo di 4 + modificatore razziale.
+Le Competenze Base vengono assegnata in base alla Professione scelta. Sceglila con attenzione e cura, oltre alle competenze previste dalla Professione scelta ne puoi prendere una quinta data dal tuo background oppure aumentare la capacità in una. La Professione determina cosa sai fare, e ricorda che in base al background e professione scelta aumenti una caratteristica di 1, fino ad un massimo di 4 + modificatore razziale.
 
 I Punti Ferita sono pari a 1d4 + Costituzione + 3 se hai messo 1 punto in Competenza Armi (CA).
 
@@ -2863,7 +2865,7 @@ Se un attacco o incantesimo porta il personaggio direttamente a -(10+COS*2), il 
 
 Quando un personaggio torna a Punti Ferita positivi dopo che era andato negativo perde la metà dei Punti Magia rimanenti con un minimo di 10 e diviene ulteriormente  \hyperlink{affaticato}{Affaticato}.
 
-Quando un personaggio arriva a Punti Ferita negativi pari 10+doppio del suo punteggio di Costituzione é \hyperlink{morto}{\textbf{morto}} (-10-(COS*2)).
+Quando un personaggio arriva a Punti Ferita negativi pari 10+doppio del suo punteggio di Costituzione é \hyperlink{morto}{\textbf{morto}} [-(10+(COS*2))].
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = La morte del personaggio]
 Cerca di capire perché è morto, quali sono le cause, gli errori commessi. Quali sono le scelte che lo hanno portato fino a li. Ogni personaggio che muore è una ferita personale ma anche esperienza e consapevolezza. Fanne tesoro sia tu ma anche tutto il gruppo. Se qualcosa non ha funzionato cercate di capirlo insieme, senza accusarsi o darsi colpe ma con lo spirito consapevole che si può migliorare, tutti.
