@@ -211,7 +211,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 04/11/2022 aggiornata versione POD
 
-0.61 pubblicata versione 0.60, aggiornata copertina, dettaglio su costruzione personaggio, layout, modificati incantesimi velocita' e lentezza, chiarimenti su critico automagico, ulteriori chiarimenti su incantesimi velocita' e lentezza, aggiornate penalita' per lancia incantesimo e attacco nello stesso round, aggiornata abilita' guerriero della magia,
+0.61 pubblicata versione 0.60, aggiornata copertina, dettaglio su costruzione personaggio, layout, modificati incantesimi velocita' e lentezza, chiarimenti su critico automagico, ulteriori chiarimenti su incantesimi velocita' e lentezza, aggiornate penalita' per lancia incantesimo e attacco nello stesso round, aggiornata abilita' guerriero della magia, italiano questo sconosciuto, 
 
 
 -aggiunti \label{} fino a la magia
