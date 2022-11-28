@@ -1,3 +1,18 @@
+**28/11/2022**
+
+Quando giunge il momento di passare oltre, di lasciare cio' che si e' creato per raggiungere un nuovo obiettivo ?
+
+E' giusto lasciare cio' che si e' creato al proprio destino senza curarsene piu' per inseguire nuovi sogni e obiettivi ?
+
+In questo momento OBSS ha raggiunto una buona maturita' , ovvio che tutto e migliorabile, ma e' giunto il momento di passare oltre ? di lasciare che OBSS cresca anche senza di me ma seguito dai vari Narratori che gia' lo stanno usando ?
+
+Non fraintendete, mi piace giocare e fare da narratore a OBSS eppure vorrei vedere OBSS brillare di luce propria e ho la sensazione che finche' sara' sotto di me non diventera' mai a pieno.
+O forse e' un illusione se non un errore ?
+
+I grandi autori hanno cullato e coltivato i loro sogni ed idee per tutta la vita, OBSS deve essere la mia oppure ci sara' dell'altro ?
+Mi auguro che OBSS posso dare gioia e divertimento a tutti coloro che lo provano, ammetto che gia' questo mi basterebbe.
+
+
 **10/10/2022**
 
 Come scrivevo ci sono state piccole modifiche, spesso opzionali, ma comunque interessanti negli ultimi mesi.
