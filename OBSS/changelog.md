@@ -211,10 +211,10 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 04/11/2022 aggiornata versione POD
 
-0.61 pubblicata versione 0.60, aggiornata copertina, dettaglio su costruzione personaggio, layout, modificati incantesimi velocita' e lentezza, chiarimenti su critico automagico, ulteriori chiarimenti su incantesimi velocita' e lentezza, aggiornate penalita' per lancia incantesimo e attacco nello stesso round, aggiornata abilita' guerriero della magia, italiano questo sconosciuto, corretta difesa scudo leggero di legno e metallo, citazione per Rezh, specificato che una pergamena quando usata o copiata si distrugge, aggiunto linguaggio necril e dato ad alcuni non morti, aggiunto oggetto magico balestra del dardo incantato, 
+0.61 pubblicata versione 0.60, aggiornata copertina, dettaglio su costruzione personaggio, layout, modificati incantesimi velocita' e lentezza, chiarimenti su critico automagico, ulteriori chiarimenti su incantesimi velocita' e lentezza, aggiornate penalita' per lancia incantesimo e attacco nello stesso round, aggiornata abilita' guerriero della magia, italiano questo sconosciuto, corretta difesa scudo leggero di legno e metallo, citazione per Rezh, specificato che una pergamena quando usata o copiata si distrugge, aggiunto linguaggio necril e dato ad alcuni non morti, aggiunto oggetto magico balestra del dardo incantato, aggiunti suggerimenti per combattimento sociale, 
 
 
--aggiunti \label{} fino a la magia
+- aggiunti \label{} fino a la magia
 
 Aggiungere immagini:
 
@@ -222,6 +222,7 @@ Aggiungere immagini:
 
 
 > valutare:
+- combattimento sociale
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
 - piu' azioni paricolari e uniche per i nemici che non siano solo sacchi di pf, piu' tipologie di attacchi e danni (penalita' ai ts, maledizioni, danni alle caratteristiche..)
