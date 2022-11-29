@@ -222,6 +222,7 @@ Aggiungere immagini:
 
 
 > valutare:
+- indicazioni su sessione zero
 - combattimento sociale, ampliare
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
