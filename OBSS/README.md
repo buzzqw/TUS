@@ -6,7 +6,7 @@ The magic system is a spell point and uses the 5e spells, much modified and othe
 
 OBSS refers to the OSR (Old School Renaissance) philosophy but in any case in a modern key, it embraces its principles but does not exclude a more complete system of rules that can help the Narrator.
 
-Download the OBSS_eng.pdf manual https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS_eng.pdf 
+Download the OBSS_eng.pdf manual https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS_eng-v2.pdf 
 
 The OBSS manual is complete, a nice tome of over 500 pages, with everything you need to play! You will find the chapters that interest the Players and the Storyteller, including all the 5ed SRD monsters (plus a few additions).
 
