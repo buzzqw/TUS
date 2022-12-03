@@ -1,4 +1,4 @@
-**A first, semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS_eng.pdf** !!!
+**A semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v2.pdf** !!!
 
 In this folder you will find material for playing the Old Bell School System (OBSS) role-playing game.  The game uses and is licensed with OGL 5.1, that of Dungeon & Dragons, this means that if you know DnD it will be easy and quick to grasp the mechanics (even if quite different!)
 
