@@ -2,7 +2,7 @@
 [![Compila Copertina OBSS](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina%20OBSS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina%20OBSS.yml)
 [![Compila Screen OBSS](https://github.com/buzzqw/TUS/actions/workflows/Compila%20Screen%20OBSS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/Compila%20Screen%20OBSS.yml)
 
-**A first, semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v2.pdf** !!!
+**A semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v2.pdf** !!!
 
 In questo repository troverete tre giochi di ruolo (RPG o GDR) strettamente connessi, TUS e DBS e OBSS
 
