@@ -215,7 +215,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 05/12/2022 aggiornata versione POD
 
-**0.62** pubblicata versione 0.61, aggiornata copertina, update english manual obss-eng-v2.pdf,
+**0.62** pubblicata versione 0.61, aggiornata copertina, update english manual obss-eng-v2.pdf, aggiornato incantesimo guida, update english manual (casting time, tricks), 
 
 
 
