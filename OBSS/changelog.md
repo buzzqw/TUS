@@ -211,7 +211,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 04/11/2022 aggiornata versione POD
 
-0.61 pubblicata versione 0.60, aggiornata copertina, dettaglio su costruzione personaggio, layout, modificati incantesimi velocita' e lentezza, chiarimenti su critico automagico, ulteriori chiarimenti su incantesimi velocita' e lentezza, aggiornate penalita' per lancia incantesimo e attacco nello stesso round, aggiornata abilita' guerriero della magia, italiano questo sconosciuto, corretta difesa scudo leggero di legno e metallo, citazione per Rezh, specificato che una pergamena quando usata o copiata si distrugge, aggiunto linguaggio necril e dato ad alcuni non morti, aggiunto oggetto magico balestra del dardo incantato, aggiunti suggerimenti per combattimento sociale, aggiornate penalita' movimento in esausto, aggiornato manuale inglese, aggiunta scheda in inglese,  
+0.61 pubblicata versione 0.60, aggiornata copertina, dettaglio su costruzione personaggio, layout, modificati incantesimi velocita' e lentezza, chiarimenti su critico automagico, ulteriori chiarimenti su incantesimi velocita' e lentezza, aggiornate penalita' per lancia incantesimo e attacco nello stesso round, aggiornata abilita' guerriero della magia, italiano questo sconosciuto, corretta difesa scudo leggero di legno e metallo, citazione per Rezh, specificato che una pergamena quando usata o copiata si distrugge, aggiunto linguaggio necril e dato ad alcuni non morti, aggiunto oggetto magico balestra del dardo incantato, aggiunti suggerimenti per combattimento sociale, aggiornate penalita' movimento in esausto, aggiornato manuale inglese, aggiunta scheda in inglese, conservare un incantesimo costa 1 punto magia a round, 
 
 
 - aggiunti \label{} fino a la magia
