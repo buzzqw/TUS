@@ -219,7 +219,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 06/12/2022 aggiornata versione POD
 
-0.62a 
+0.62a aggiornato incantesimo ridurre/ingrandire, aggiunta razza Sornelian creature antropomorfe, aggiunta razza Golian creature discendenti da giganti, aggiunta razza Sulian discententi dagli spiriti elementali, 
 
 
 
