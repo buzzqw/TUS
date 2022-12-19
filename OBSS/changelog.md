@@ -223,7 +223,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 07/12/2022 aggiornata versione POD
 
-0.62b aggiornato sulian, aggiornata dicitura per incantesimi tocco/contatto, layout, correzioni linguistiche,  aggiornato sornelian, 
+0.62b aggiornato sulian, aggiornata dicitura per incantesimi tocco/contatto, layout, correzioni linguistiche,  aggiornato sornelian, rimosso riferimento a traverstirsi, aggiornata professione giocatore di carte, 
 
 
 
