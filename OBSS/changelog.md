@@ -235,6 +235,7 @@ Aggiungere immagini:
 
 
 > valutare:
+- gestione downtime
 - indicazioni su sessione zero
 - combattimento sociale, ampliare
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
