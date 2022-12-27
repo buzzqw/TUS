@@ -225,6 +225,10 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 0.62b aggiornato sulian, aggiornata dicitura per incantesimi tocco/contatto, layout, correzioni linguistiche,  aggiornato sornelian, rimosso riferimento a traverstirsi, aggiornata professione giocatore di carte, aggiunti alcune voci d'indice, fixed reach and ranged misuse, sistemato esempio pronto soccorso con morente, specificato che condizione Dominato non termina se uno diventa morente, precisato che un bonus al colpire di +xd6 vale solo per il primo attacco, citazione per capitolo masterizzare
 
+27/12/2022 aggiornata versione POD
+
+0.63 pubblicata versione 0.62, aggiornata copertina, 
+
 
 
 - aggiunti \label{} fino a la magia
