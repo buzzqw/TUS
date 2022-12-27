@@ -239,6 +239,7 @@ Aggiungere immagini:
 
 
 > valutare:
+- gestione downtime
 - indicazioni su sessione zero
 - downtime, attivita
 - combattimento sociale, ampliare
