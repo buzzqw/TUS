@@ -239,6 +239,7 @@ Aggiungere immagini:
 
 
 > valutare:
+- sistema di bonus malus ridotto. Puoi avere diversi e numerosi Bonus o Malus (Bonus or Banes). Ognuno pesa 1d4, si cumulano e si scartano a vicenda. Simile alla one rules ? solo che i bonus sono ridotti.
 - gestione downtime
 - indicazioni su sessione zero
 - downtime, attivita
