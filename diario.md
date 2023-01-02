@@ -1,3 +1,18 @@
+
+**02/01/2023**
+
+Un altro Anno e' passato. OBSS ha raggiunto una certa maturita' e le ultime modifiche sono mere correzioni lessicali o poco di piu'.
+E' giunto il momento di passare oltre ?
+Il lavoro su Dark Catacomb prosegue, anche se e' stato "forkato" in due opzioni di gioco distinte, una piu' d20 based piu' simile a OBSS e l'altra invece piu' d100 based e quindi molto diversa.
+Allo stato attuale solo una pubblicizzazione di OBSS in Inglese potrebbe portare molti nuovi giocatori e quindi fare emergere nuovi errori e sviste.
+Non e' mia intenzione fare ancora questo passo, bene se viene spontaneamente, ma mi sta bene lavorare sul manuale inglese per renderlo .. piu' inglese.. e non un accozzaglia di parole s frasi sbagliate.
+
+Ci sono parecchi impegni personali e lavorativi all'orizzonte, il nuovo sistema se arrivera' sara' proprio a causa dello stress che andro' ad accumulare.
+Non so cosa augurarmi!
+
+Vi auguro a tutti buon anno, possiate giocare, divertirvi, amare ed essere amati.
+
+
 **28/11/2022**
 
 Quando giunge il momento di passare oltre, di lasciare cio' che si e' creato per raggiungere un nuovo obiettivo ?

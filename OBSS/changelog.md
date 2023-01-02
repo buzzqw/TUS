@@ -240,18 +240,17 @@ Aggiungere immagini:
 
 > valutare:
 - sistema di bonus malus ridotto. Puoi avere diversi e numerosi Bonus o Malus (Bonus or Banes). Ognuno pesa 1d4, si cumulano e si scartano a vicenda. Simile alla one rules ? solo che i bonus sono ridotti.
-- gestione downtime
-- indicazioni su sessione zero
-- downtime, attivita
+- gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
+- indicazioni su sessione zero, quali domande, cosa dire
 - combattimento sociale, ampliare
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
-- togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
-- piu' azioni paricolari e uniche per i nemici che non siano solo sacchi di pf, piu' tipologie di attacchi e danni (penalita' ai ts, maledizioni, danni alle caratteristiche..)
+- togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
+- piu' azioni particolari e uniche per i nemici che non siano solo sacchi di pf, piu' tipologie di attacchi e danni (penalita' ai ts, maledizioni, danni alle caratteristiche..)
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
 - spendere i soldi: equipaggiamento, oggetti magici
 - piu' malattie debolezze maledizioni
-- rituali/incantesimi di alto livello 9+ dove si deve essere tuttu seguaci con X punti in Tratti comuni per lanciarlo
-- psionici ?
+- rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
+- psionici ? ispirazione da 2ed/3ed
 - magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
 
 > Secondarie
