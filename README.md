@@ -6,7 +6,7 @@
 
 In questo repository troverete tre giochi di ruolo (RPG o GDR) strettamente connessi, TUS e DBS e OBSS
 
-Tutto parte da TUS, un rpg ispirato a D20 OGL (e' licenziato con la OGL 5.1) che usa 3d6 al posto del d20 per una distribuzione normalizzata. E' un sistema classless dove la magia e' freeform ed e' ispirata a Ars Magica e Talislanta. Il sistema e' basato su prove i cui dadi possono esplodere (anche il danno) ed un sistema di svantaggi e vantaggi alla Gurps.
+Tutto parte da TUS, un rpg ispirato a D20 OGL (e' licenziato con la OGL 1.a) che usa 3d6 al posto del d20 per una distribuzione normalizzata. E' un sistema classless dove la magia e' freeform ed e' ispirata a Ars Magica e Talislanta. Il sistema e' basato su prove i cui dadi possono esplodere (anche il danno) ed un sistema di svantaggi e vantaggi alla Gurps.
 Non c'e' allineamento ma un sistema di Tratti che vanno a caratterizzare il personaggio.
 
 TUS e' il sistema, un po' complesso nella gestione magica da cui e' disceso DBS.
