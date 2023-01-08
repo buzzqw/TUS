@@ -227,7 +227,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 27/12/2022 aggiornata versione POD
 
-0.63 pubblicata versione 0.62, aggiornata copertina, specificato come calcolare Consapevolezza dei mostri, desiderio e' leggendario, corretto incantesimo gragnola di ghiande infuocate di kyrin, 
+0.63 pubblicata versione 0.62, aggiornata copertina, specificato come calcolare Consapevolezza dei mostri, desiderio e' leggendario, corretto incantesimo gragnola di ghiande infuocate di kyrin, rimossa difesa a sorpresa ma dato -4 a difesa e tiri salvezza, 
 
 
 
