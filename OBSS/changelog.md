@@ -233,7 +233,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 09/01/2023 aggiornata versione POD
 
-0.65 pubblicata versione 0.64, aggiornata copertina,
+0.65 pubblicata versione 0.64, aggiornata copertina, aggiornato orso gufo in orso del chaos, 
 
 
 
