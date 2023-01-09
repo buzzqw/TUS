@@ -1,3 +1,11 @@
+**09/01/2023**
+
+Probabilmente e' prematuro, sicuramente e' eccessivo ma le voci non confermate sul cambio della licenza OGL sono preoccupanti e mi portano ad anticipare il progetto Dark Catacomb.
+Aspettero' fino all'ufficialita' della nuova versione della licenza, ma se come sembra rendera' non piu' pubblicabili tutti i lavori che usano la vecchia versione, allora sono problemi.
+Si sta scatenando un putiferio nell'ambiente, specialmente tra i POCHI che seguono i 3pp e hanno interesse all'ambiente.
+E' una manovra veramente a tenaglia, i giocatori non vedranno molta differenza, alla fine cambia solo per i grandi editori che praticamente scompariranno o accetteranno drastici tagli agli introiti oltre i 750k. Per i piccoli e gli homebrew siamo onesti, cambia poco e nulla, continueranno a lavorare nell'ombra o pubblicare su dmguild. 
+Non voglio dire altro se non che allo stato attuale la manovra non mi piace per nulla.
+
 
 **02/01/2023**
 
