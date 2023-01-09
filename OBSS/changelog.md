@@ -229,8 +229,6 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 0.63 pubblicata versione 0.62, aggiornata copertina, specificato come calcolare Consapevolezza dei mostri, desiderio e' leggendario, corretto incantesimo gragnola di ghiande infuocate di kyrin, rimossa difesa a sorpresa ma dato -4 a difesa e tiri salvezza
 
-
-
 0.64 aggiornata copertina, aggiornata licenza a Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), 
 
 
