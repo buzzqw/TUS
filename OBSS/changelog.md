@@ -231,7 +231,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 
 
-0.64 aggiornata copertina, aggiornata licenza a Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 
+0.64 aggiornata copertina, aggiornata licenza a Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), 
 
 
 
