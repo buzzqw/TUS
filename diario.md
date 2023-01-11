@@ -1,3 +1,25 @@
+**11/01/2023**
+
+Mi viene un nervoso tanto.. piu' penso a questa storia della OGL piu' mi sale la bile...
+
+Parte dal presupposto che sappiate gia' tutto.. e se non lo sapete informatevi quanto prima!
+
+Allo stato attuali ho solo pochi dubbi, tutti cattivissimi tranne uno.
+
+Opzione 1) la Licenza OGL 1.0a viene revocata, non e' possibile piu' pubblicare con la vecchia licenza se non previo accordo con la WotC e la nuova licenza 1.1
+Opzione 2) la Licenza OGL 1.0a NON viene revocata, ne viene rilasciata la nuova licenza 1.1. Questa e' forse l'opzione peggiore perche' lascia tutti in balia di cio' che potra' succedere
+Opzione 3) la Licenza OGL 1.1 com attualmente presentata viene ritirata e presentata in maniera piu' affine ed amichevole alla 1.0a. Questa e' l'unica opzione accettabile.
+
+Quello che temo di piu' l'opzione 2). 
+L'unica cosa positiva e' che permettera' a tutti di lavorare sui propri manuali ed epurarli dal materiale SRD/IP della Wizard anche se impedira' di vendere quanto gia' prodotto.
+La strada e' tracciata..prima o poi la OGL come la conosciamo sara' revocata. Questo purtroppo sembra la strada piu' ovvia.
+
+Aspettiamo i prossimi giorni...
+
+Intanto io sto epurando OBSS da materiale IP o fortemente identitario.. e cambiato la licenza in ShareAlike 4.0 International.
+
+
+
 **09/01/2023**
 
 Probabilmente e' prematuro, sicuramente e' eccessivo ma le voci non confermate sul cambio della licenza OGL sono preoccupanti e mi portano ad anticipare il progetto Dark Catacomb.
