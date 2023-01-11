@@ -1,6 +1,6 @@
 **A semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v2.pdf** !!!
 
-In this folder you will find material for playing the Old Bell School System (OBSS) role-playing game.  The game uses and is licensed with OGL 5.1, that of Dungeon & Dragons, this means that if you know DnD it will be easy and quick to grasp the mechanics (even if quite different!)
+In this folder you will find material for playing the Old Bell School System (OBSS) role-playing game.  The game uses and is licensed with ShareAlike 4.0 International and inspired by DnD history. This means that if you know DnD it will be easy and quick to grasp the mechanics (even if quite different!)
 
 The magic system is a spell point and uses the 5e spells, much modified and others added by me (with inspiring OSR theme). The combat remains easy, fast but much fun and tactical.
 
@@ -26,7 +26,7 @@ Have fun and have a good game!
 
 In questa cartella troverete il materiale per giocare al gioco di ruolo Old Bell School System (OBSS). Tutto il materiale e' scritto in italiano, gratuito e gratis (giusto per enfatizzare!)
 
-Il gioco usa ed e' licenziato con la OGL 5.1, quella di Dungeon & Dragons, questo significa che se conoscete DnD vi sara' facile e veloce capirne le meccaniche.
+Il gioco usa ed e' licenziato con la ShareAlike 4.0 International e ispirato a DnD, questo significa che se conoscete DnD vi sara' facile e veloce capirne le meccaniche.
 
 Il sistema magico e' a spell point ed usa gli incatesimi della 5e, molto modificati ed altri aggiunti da me. Il combattimento rimane il medesimo di DSB ovvero aperto, dinamico, esplosivo e divertente.
 
@@ -54,5 +54,3 @@ Andres
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 [![Github All Releases](https://img.shields.io/github/downloads/buzzqw/TUS/total.svg)]() [![Github Downloads (monthly)](https://img.shields.io/github/downloads/buzzqw/TUS/latest/total.svg)]()
-
-
