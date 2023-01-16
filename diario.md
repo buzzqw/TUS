@@ -1,3 +1,14 @@
+16/01/2023
+
+e cosi' fu che la Wizard provava a rittrattare.. 
+Pessimo pessimo affare. Gestita veramente male. La fiducia e' ormai persa.
+Non perderanno i giocatori, ma la fiducia da parte dei produttori 3pp si.
+Sara' da vedere la nuova licenza.. sicuramente sara' vincolante per la nuova OneDnD.. e chissa' che lacci e lacciuoli avra'.
+
+Personalmente OBSS lo portero' penso alla licenza ORC in sviluppo alla Paizo. Aspettiamo notizie intanto ho fatto un vero lavoro certosino nel pulire il manuale da tutto cio' che poteva essere in odore di 5e.
+
+Pensavo di passare a Dark Catacomb invece sono sempre piu' coinvolto in OBSS... !
+
 **11/01/2023**
 
 Mi viene un nervoso tanto.. piu' penso a questa storia della OGL piu' mi sale la bile...
