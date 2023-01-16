@@ -11,7 +11,7 @@ Opzione 2) la Licenza OGL 1.0a NON viene revocata, ne viene rilasciata la nuova 
 Opzione 3) la Licenza OGL 1.1 com attualmente presentata viene ritirata e presentata in maniera piu' affine ed amichevole alla 1.0a. Questa e' l'unica opzione accettabile.
 
 Quello che temo di piu' l'opzione 2). 
-L'unica cosa positiva e' che permettera' a tutti di lavorare sui propri manuali ed epurarli dal materiale SRD/IP della Wizard anche se impedira' di vendere quanto gia' prodotto.
+L'unica cosa positiva e' che permettera' a tutti di lavorare sui propri manuali ed epurarli dal materiale SRD/IP della Wizard e non impedira' di vendere quanto gia' prodotto.
 La strada e' tracciata..prima o poi la OGL come la conosciamo sara' revocata. Questo purtroppo sembra la strada piu' ovvia.
 
 Aspettiamo i prossimi giorni...
