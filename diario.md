@@ -1,4 +1,12 @@
-16/01/2023
+**25/01/2023**
+
+la situazione attuale e' ancora molto fluida. Sicuramente i passi indietro della WOTC hanno aiutato la consapevolezza nel definire i gdr e DnD come un prodotto basato sulla condivisione di esperienze e gioco. 
+Aspettiamo nuove licenze, nuove SRD.. una nuova ondata di gdr ci aspetta.
+
+Nel mentre ho proseguito nel controllare/aggiornare incantesimi e mostri in OBSS, cosi' che sia sempre piu' distintivo e distinto dalla SRD della 5e.
+
+
+**16/01/2023**
 
 e cosi' fu che la Wizard provava a rittrattare.. 
 Pessimo pessimo affare. Gestita veramente male. La fiducia e' ormai persa.
