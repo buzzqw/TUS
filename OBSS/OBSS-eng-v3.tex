@@ -39,7 +39,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{fontspec}
 \usepackage{ragged2e}
 
-\setmainfont[Path=../altro/fonts/,BoldItalicFont=DejaVuSerif-BoldItalic.ttf,ItalicFont=DejaVuSerif-Italic.ttf,BoldFont=ReadexPro-bold.ttf,Ligatures=TeX,Scale=0.94]{ReadexPro-Regular.ttf}   %togliere questa e fontspec per usare pdflatex
+\setmainfont[Path=../altro/fonts/,BoldItalicFont=DejaVuSerif-BoldItalic.ttf,ItalicFont=DejaVuSerif-Italic.ttf,BoldFont=ReadexPro-bold.ttf,Ligatures=TeX,Scale=0.94]{ReadexPro-Regular.ttf} %togliere questa e fontspec per usare pdflatex
 
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
@@ -219,7 +219,7 @@ Never give up on your dreams, persevere until you make them come true.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{You can find out more about a person in an hour of gameplay than in a year of conversation. (Plato)}\end{tcolorbox}\end{changemargin}\medskip
 
-\smallskip
+\begin{multicols}{2}
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{O}{BSS} is a tabletop role-playing game (RPG) in which players create characters who will embark on fantastic and amazing adventures. The game master, known as the Arbiter, will guide the story based on the choices of the characters. As in a storytelling game, each character will actively contribute to the story with their choices, decisions, and actions.
 
@@ -284,29 +284,22 @@ Happy reading and have fun!
 Andres Zanzani
 \end{flushright}
 
-\smallskip
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}
-"Although the masculine form of appellation is typically used when listing the level titles of the various types of characters, these names can easily be changed to the feminine if desired. This is fantasy, what's in a name? In all but a few cases sex makes no difference to ability!" Gary Gygax, Advanced Dungeons \& Dragons Players Handbook
-\end{tcolorbox}\end{changemargin}
-
-
+\end{multicols}
 
 \vfill
 
 \begin{center}
 \includegraphics[keepaspectratio,width=0.85\textwidth]{immagini/Dragon_by_Henry_Justice_Ford_grey.png}
-
+	
 \textit{The End of the Dragon - Henry Justice Ford}
 \end{center}
 
-%\begin{wrapfigure}{l}{0.2\textwidth}
-%\centering
-%\includegraphics[width=4cm]{Dragon_by_Henry_Justice_Ford.png}
-%\end{wrapfigure}
+\vspace{1cm}
 
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}
+"Although the masculine form of appellation is typically used when listing the level titles of the various types of characters, these names can easily be changed to the feminine if desired. This is fantasy, what's in a name? In all but a few cases sex makes no difference to ability!" Gary Gygax, Advanced Dungeons \& Dragons Players Handbook
+\end{tcolorbox}\end{changemargin}
 
-%\begin{figure}[h]\centering\includegraphics[width=18cm]{Dragon_by_Henry_Justice_Ford.png}\end{figure}
 
 \pagebreak{}
 
@@ -1142,9 +1135,9 @@ I personally suggest the \textbf{Basic Mode} approach. In OBSS the characters ar
 \includegraphics[width=0.55\linewidth]{immagini/dice4.png}
 \end{center}
 
-The undoubted advantage of pulling the values   in order of the characteristics is that it allows you to mess up the schemes and avoid builds done at the table.
+The undoubted advantage of pulling the values in order of the characteristics is that it allows you to mess up the schemes and avoid builds done at the table.
 
-It is probable that the results you hoped for will not come or that they will even come in features that did not interest you. That's okay. Change your mind, let yourself be inspired by the values   obtained! Have fun with the new character, build something new and different, be amazed.
+It is probable that the results you hoped for will not come or that they will even come in features that did not interest you. That's okay. Change your mind, let yourself be inspired by the values obtained! Have fun with the new character, build something new and different, be amazed.
 
 Ability rolls are made in order, so the first roll is for Strength, then for Dexterity, Constitution, Intelligence, Wisdom, and finally Charisma.
 
@@ -1286,7 +1279,7 @@ Calculation example:
 
 A level 6 character has: 20-6 = 14/5 = 3 (round to nearest integer) Fate Points to use in the session.
 
-A Fate Point is used as an immediate or reaction action, and each Fate Point used grants a +1d6 bonus to the current check. The Fate Point can be used to have an extra die in the Saving Throw or in the Attack Rolls, with potential explosion of the die, or a proficiency check. It cannot be used to increase fixed values   (such as Defence) or the damage of a weapon.
+A Fate Point is used as an immediate or reaction action, and each Fate Point used grants a +1d6 bonus to the current check. The Fate Point can be used to have an extra die in the Saving Throw or in the Attack Rolls, with potential explosion of the die, or a proficiency check. It cannot be used to increase fixed values (such as Defence) or the damage of a weapon.
 
 %\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Punti Fato - Usali]\index{Punti Fato - usali}
 %Un errore comune per chi incomincia a giocare a OBSS è non usare i Punti Fato, perché ci si scorda oppure perché si vuole conservarli. Il mio suggerimento è di usarli ogni volta che sia necessario più che allo scontro in se alla situazione nel suo insieme. Si impara con l'esperienza quando usarli bene e quando è bene usarli, in ogni caso i primi tempi.. usali e basta. Meglio avere un +1d6 di bonus che non averlo e morire.
@@ -1796,7 +1789,7 @@ In any case, always remember to carefully evaluate how the player claims to carr
 
 \textbf{Knowledge of Law (INT)}: With this proficiency you know the Law of a region. You are expert in knowing the rules and quibbles. You know how to cite cases and you know other hustlers and judges. 2 Actions.
 
-\textbf{Knowledge of Languages  (INT)}: Each point in this skill allows you to learn a new written and spoken language. A good Language score helps you understand unfamiliar languages   and make yourself understood. It is also used to understand complex texts. Variable cost.
+\textbf{Knowledge of Languages  (INT)}: Each point in this skill allows you to learn a new written and spoken language. A good Language score helps you understand unfamiliar languages and make yourself understood. It is also used to understand complex texts. Variable cost.
 
 \textbf{Knowledge of Myths and Legends (INT)}: You have a real passion for traditional and more remote myths and legends. Learn about locations, history and legendary creatures. 1 Action.
 
@@ -1858,7 +1851,7 @@ In any case, always remember to carefully evaluate how the player claims to carr
 
 \subsubsection{Optional - Don't use Basic Skills}\index{Optional - Don't use Basic Skills}\label{nonusarecompetenze}
 
-Let the players choose their profession and do not score any base Skill values   or scores.
+Let the players choose their profession and do not score any base Skill values or scores.
 Think with an open mind and understand, both you Arbiter and you Player, for each situation who has the profession and Skills that best suit the check.
 If pertinent to the profession, the check resolves with a 3d6+Wisdom+1/2LV, if it is not pertinent the Arbiter will reduce the bonus given by the level, using the most appropriate Characteristic. Better yet, based on the description of how the check is carried out, the outcome will be decided.
 
@@ -2023,7 +2016,7 @@ Consult the chapter of \hyperlink{assegnazione.punteggi.caratteristica}{Characte
 
 If you have Intelligence 2 or higher choose another \hyperlink{linguaggi}{language} (pg. \pageref{linguaggi}) spoken/written besides Common, and if you have 3 you can choose 2 more languages.
 
-And if the Trait values   didn't come out as you expected then let the chaos lead you and create something different but equally fun and great.
+And if the Trait values didn't come out as you expected then let the chaos lead you and create something different but equally fun and great.
 
 Switch to Active Skills, here you have 1 point to distribute between Weapons Skill and Magical Skill.
 
@@ -2247,7 +2240,7 @@ The Arbiter won't tell you give me a check at difficulty 10, but he will say tha
 \textbf{Diff.} & \textbf{Description} & \textbf{Level}\\
 \textbf{DC}&\textbf{difficulty}& \textbf{Proficiency}\\
 \toprule
-5 &   Extremely Easy & Mediocre\\
+5 & Extremely Easy & Mediocre\\
 10 & Easy & Normal\\
 15 & Normal & Good\\
 20 & Difficult & Excellent\\
@@ -2557,11 +2550,11 @@ If carried out during the hours of rest, the caregiver will be Fatigued.
 %\textbf{Salto in Lungo} & \textbf{DC}&\textbf{Salto in Alto} & \textbf{DC}\\
 %\multicolumn{2}{c}{Lunghezza} &\multicolumn{2}{c}{Altezza} \\
 %\toprule
-%1.5 m                              & 5 & 0.02 m                           & 4\\
-%3 m                                & 10 &0.5 m                            & 8\\
-%5 m                                & 15 & 1 m                              & 12\\
-%7 m                                & 20 & 1.5 m                            & 16\\
-%+1,5 m                             & +5 &+0.5 m                           & +4\\
+%1.5 m  & 5 & 0.02 m & 4\\
+%3 m  & 10 &0.5 m  & 8\\
+%5 m  & 15 & 1 m  & 12\\
+%7 m  & 20 & 1.5 m  & 16\\
+%+1,5 m & +5 &+0.5 m & +4\\
 %\end{tabular}
 
 The \textbf{long jump distance} is equal to 30cm per check result, rounded to the nearest integer. Eg if in the jump check I do 11, the jump will be 30cm*11=330cm=3 meters long, with 16 in the check it is 30cm*16=480cm=5m.
@@ -2618,7 +2611,7 @@ A member of a race may very well have a first language other than that of his ow
 
 Some languages* cannot be spoken except by creatures of that species or cultural group.
 
-Use the narrative richness that different languages   can give. An adventure, in an environment where no one understands each other, can lead to very interesting implications.
+Use the narrative richness that different languages can give. An adventure, in an environment where no one understands each other, can lead to very interesting implications.
 
 \end{multicols}
 
@@ -3017,7 +3010,7 @@ Average & 8&1\\
 \end{tabular}
 
 \smallskip
-These are the typical values   of creatures for the listed size. There are frequent exceptions.
+These are the typical values of creatures for the listed size. There are frequent exceptions.
 
 \end{multicols}
 
@@ -6831,7 +6824,7 @@ Use the base stats of a creature of the familiar's species, making the following
 
 \medskip
 
-\textbf{Saving Throw}: For each Saving Throw, use the familiar's save or the master's save, whichever is better. The familiar applies its characteristics values   as a bonus on Saving Throws and takes none of the bonuses its master may have.
+\textbf{Saving Throw}: For each Saving Throw, use the familiar's save or the master's save, whichever is better. The familiar applies its characteristics values as a bonus on Saving Throws and takes none of the bonuses its master may have.
 
 \medskip
 
@@ -7175,7 +7168,7 @@ In OBSS only a Patron has enough power to bring a dead man back to life.
 
 \subsubsection{Range}\index{Range, Spell}\label{magiegittata}\index{Spell, Range}
 
-The target of a spell must be within range of the spell. For a spell like Magic Missile, the target is a creature. For a spell like fireball, the target is the point in space from which the fireball explodes. Most spells have a range in meters. Some spells can only target a creature (including you) that you are in physical contact with. Other spells, such as the shield spell, affect only you—these spells have a personal range. A spell that has "an ally" as its area of   effect can also be cast on itself.
+The target of a spell must be within range of the spell. For a spell like Magic Missile, the target is a creature. For a spell like fireball, the target is the point in space from which the fireball explodes. Most spells have a range in meters. Some spells can only target a creature (including you) that you are in physical contact with. Other spells, such as the shield spell, affect only you—these spells have a personal range. A spell that has "an ally" as its area of effect can also be cast on itself.
 
 Spells that create cones or lines of effect that originate from you also have personal range, indicating that you are the point of origin of the spell's effect (see "Areas of Effect" later in this chapter).
 
@@ -7237,7 +7230,7 @@ If you drop below zero Hit Points, you lose half of your remaining Spell Points,
 
 \subsubsection{Targets}\index{Targets}\label{magiebersagli}\index{Spell, Targets}
 
-A normal spell requires you to choose one or more targets to be affected by its magic. The spell description tells you whether the spell targets creatures, objects, or a point of origin to generate an area of   effect (described below). Unless the spell has a discernible effect, a creature may never realize it has been the target of a spell. An effect such as crackling lightning is obvious, but a subtler effect, such as attempting to read a creature's thoughts, usually goes unnoticed unless the spell says otherwise.
+A normal spell requires you to choose one or more targets to be affected by its magic. The spell description tells you whether the spell targets creatures, objects, or a point of origin to generate an area of effect (described below). Unless the spell has a discernible effect, a creature may never realize it has been the target of a spell. An effect such as crackling lightning is obvious, but a subtler effect, such as attempting to read a creature's thoughts, usually goes unnoticed unless the spell says otherwise.
 
 Casting a spell is an action that does not go unnoticed. A Hide check (difficulty 13) or casting the spell as if distracted allows you to conceal the casting, if it doesn't happen directly in front of the observer.
 
@@ -7247,7 +7240,7 @@ To target a creature or object, you must see it and have a clear path to it, and
 
 \textbf{Targeting Yourself}\index{Target yourself}\index{Spell, Target yourself}
 
-If a spell targets a creature of your choice or an ally, you can also choose yourself, unless the creature must be hostile or specified that it can't be you. If you are within the area of   effect of a spell you cast, you will be affected as well.
+If a spell targets a creature of your choice or an ally, you can also choose yourself, unless the creature must be hostile or specified that it can't be you. If you are within the area of effect of a spell you cast, you will be affected as well.
 
 %\begin{center}
 %\includegraphics[width=0.6\linewidth]{immagini/tarothanged.png}
@@ -7266,24 +7259,24 @@ If a spell targets a creature of your choice or an ally, you can also choose you
 
 Spells such as Burning Wave and cone of cold cover an area, allowing him to strike multiple creatures at once.
 
-A spell description specifies its area of   effect, which usually falls in one of five shapes: cylinder, cone, cube, line, or sphere. Each area of   effect has a point of origin, a place from which the spell's energy manifests. The rules for each shape specify how to place its point of origin. Usually the point of origin is a point in space, but some spells have an area whose origin is a creature or object.
+A spell description specifies its area of effect, which usually falls in one of five shapes: cylinder, cone, cube, line, or sphere. Each area of effect has a point of origin, a place from which the spell's energy manifests. The rules for each shape specify how to place its point of origin. Usually the point of origin is a point in space, but some spells have an area whose origin is a creature or object.
 
 
 \begin{itemize}
-\item \textit{\textbf{Cylinder}}: A cylinder's point of origin is the center of a circle of specified radius, as indicated in the spell description. The circle must be on the floor or level with the spell's effect. The energy in a cylinder expands in straight lines from the point of origin to the perimeter of the circle, forming the base of the cylinder. The effect of the spell then starts from bottom to top or from top to bottom, up to a distance equal to the height of the cylinder. The point of origin of the cylinder is included in its area of   effect.
+\item \textit{\textbf{Cylinder}}: A cylinder's point of origin is the center of a circle of specified radius, as indicated in the spell description. The circle must be on the floor or level with the spell's effect. The energy in a cylinder expands in straight lines from the point of origin to the perimeter of the circle, forming the base of the cylinder. The effect of the spell then starts from bottom to top or from top to bottom, up to a distance equal to the height of the cylinder. The point of origin of the cylinder is included in its area of effect.
 
 \item
 
-\textit{\textbf{Cone}}: A cone extends in a direction of your choice from its point of origin. The diameter of a cone at a given point along its length is equal to that point's distance from the point of origin. A cone's area of   effect specifies its maximum length. The point of origin of the cone is not included in its area of   effect unless you decide otherwise.
+\textit{\textbf{Cone}}: A cone extends in a direction of your choice from its point of origin. The diameter of a cone at a given point along its length is equal to that point's distance from the point of origin. A cone's area of effect specifies its maximum length. The point of origin of the cone is not included in its area of effect unless you decide otherwise.
 
 \item
-\textit{\textbf{Cube}}: Select the point of origin of a corner of the cube. The dimensions of the cube are expressed as the length of each of its edges. The cube's point of origin is not included in its area of   effect unless you decide otherwise.
+\textit{\textbf{Cube}}: Select the point of origin of a corner of the cube. The dimensions of the cube are expressed as the length of each of its edges. The cube's point of origin is not included in its area of effect unless you decide otherwise.
 
 \item
-\textit{\textbf{Line}}: A line extends from its point of origin in a straight path along its entire length and covers an area defined by its width. The point of origin of the line is not included in its area of   effect, unless you decide otherwise.
+\textit{\textbf{Line}}: A line extends from its point of origin in a straight path along its entire length and covers an area defined by its width. The point of origin of the line is not included in its area of effect, unless you decide otherwise.
 
 \item
-\textit{\textbf{Sphere}}: Select the point of origin of a sphere and the sphere will extend from that point until it meets an insurmountable obstacle or its size expressed in radius. The size of the sphere is given as the radius in meters extending from that point. The sphere's point of origin is included in its area of   effect.
+\textit{\textbf{Sphere}}: Select the point of origin of a sphere and the sphere will extend from that point until it meets an insurmountable obstacle or its size expressed in radius. The size of the sphere is given as the radius in meters extending from that point. The sphere's point of origin is included in its area of effect.
 
 A fireball that is spawned in a 9x9m room will take a good chunk of it, and in a 6x6m room it will fill it all. In a 3x3m room, if it has the opportunity to exit through a door or window, it will continue its explosion up to a 6m radius. A fireball in a 3x3m corridor will saturate it 3m back and forth from its point of origin.
 
@@ -7717,7 +7710,7 @@ If a Natural Creature has magical powers then it is also considered a Magical Cr
 
 - \textbf{Energy} includes: Force, Fire, Light, Sound, Electricity, Positive Energy, Negative Energy, Cold, Void.
 
-\subsubsection{Energy or Light Damage}
+\subsubsection{Energy, Light and Void Damage}
 
 The damage caused by \textbf{Light}\index{Light} is half fire and half positive energy, ie a resistance to fire or positive energy only applies to half of the damage caused by the attack.
 
@@ -7814,7 +7807,7 @@ Aquatic adaptation. You adapt your body to an aquatic environment by developing 
 \textit{Natural Weapons}. You develop claws, fangs, spikes, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate for the chosen natural weapon with which you are proficient. Finally, the natural weapon is magical and you receive a +1 bonus on attack and damage rolls made when using it.\\
 \textit{Appearance Change}. Transform your appearance. Decide on your outward appearance, including height, weight, facial features, the sound of your voice, hair length, complexion, and any quirks you desire. You can appear as a member of another race, though none of your stats change. You also can't appear as a creature of a different size than your own, and your base form remains the same; if you are bipedal, you cannot use this spell to become quadrupedal, for example.\\
 At any point during the spell's duration, you can use two Actions to change in appearance again in this way.\\
-\textbf{For each magical critical success you roll} in the Test of Magic you can alter another subject or double the duration.
+\textbf{For each magical critical success you roll} in the Magic Test you can alter another subject or double the duration.
 
 \medskip\textbf{Anathema}\index[Spells]{Anathema}\\
 \textbf{School}: Enchantment\\
@@ -7846,7 +7839,7 @@ The target's equipment melds into the new form. The target cannot activate, wiel
 \textbf{Components}: V, S, M (a drop of blood, a piece of meat and a pinch of bone dust)\\
 \textbf{Duration}: Instant\\
 This spell creates an undead minion. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a nefarious semblance of life, reanimating them as an undead creature. The target becomes a skeleton if you choose bones or a zombie if you choose corpse. During each of your rounds, you can use an Action to mentally command any creature you create with this spell that is within 20 meters of you (if you control multiple creatures, you can command all or some of them at the same time, by sending the same command to all). You decide what action the creature will take and where it will move during its next round, or issue it a general command, such as to guard a particular room or corridor. If you send no commands, the creature simply defends itself against hostile creatures. Once given an order, the creature will continue to do so until it is fulfilled. The creature is under your control for 24 hours, after which it will stop following any commands you give it. To maintain control over the creature for another 24 hours, you must cast this spell on it again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.\\.
-\textbf{For each magical critical success you roll} in the Test of Magic you animate or reassert control over two undead creatures. Each of these creatures must come from a different corpse or pile of bones.
+\textbf{For each magical critical success you roll} in the Magic Test you animate or reassert control over two undead creatures. Each of these creatures must come from a different corpse or pile of bones.
 
 \medskip\textbf{Animate Objects}\index[Spells]{Animate Objects}\\
 \textbf{School}: Transmutation\\
@@ -7860,14 +7853,14 @@ As an Action, you can mentally command any creature you spawned with this spell 
 \textbf{For each magical critical success rolled} in the Magic Test, the maximum duration doubles.
 \bigskip
 
-\medskip\textbf{Slippery}\index[Spells]{Slippery}\\
+\medskip\textbf{Grease}\index[Spells]{Grease}\\
 \textbf{School}: Animals and Plants\\
 \textbf{Level}: 1, Common\\
 \textbf{Casting Time}: 2 Actions\\
 \textbf{Range}: 18 meters\\
 \textbf{Components}: V, S, M (a piece of pork rind or butter or "unto topetto") \\
 \textbf{Duration}: 1 minute\\
-Slippery grease covers the ground in a 10-foot square, centered on a point within range, and turns it into hindering terrain for the duration\\
+Grease grease covers the ground in a 10-foot square, centered on a point within range, and turns it into hindering terrain for the duration\\
 When the blubber appears, each target standing in the area must succeed at a Reflex save or be knocked prone. A creature that enters the area or ends its round there must succeed at a Reflex save or be knocked prone.
 
 \medskip\textbf{Anti-Detection}\index[Spells]{Anti-Detection}\\
@@ -7937,7 +7930,7 @@ When you cast the spell and as 2 Actions during your subsequent rounds, you can 
 \textbf{Duration}: Until dissolved\\
 You cast the spell against a locked door, window, portal, chest, or other entrance, and it becomes locked for the duration. You and the creatures you indicated when you cast this spell can open the item normally. You can also readied a password that, when spoken within 1 meter of the item, suppresses the spell for 1 minute. Otherwise the opening is impassable until it is destroyed or the spell is dispelled or suppressed. Casting lock pick on the item suppresses Magic Lock for 10 minutes.\\
 While affected by this spell, the item is more difficult to destroy or force open; the DC for breaking it or picking a lock on it increases by 10.\\
-\textbf{For each magical critical success rolled} in the Test of Magic you can affect another lock.
+\textbf{For each magical critical success rolled} in the Magic Test you can affect another lock.
 
 \medskip\textbf{Arcane Sword}\index[Spells]{Arcane Sword}\\
 \textbf{School}: Invocation\\
@@ -7981,7 +7974,7 @@ If you are returned to your body prematurely, your companions must remain in the
 \textbf{Duration}: Instant\\
 After spending the casting time drawing magical patterns with a precious gem, you touch a Huge or smaller beast or plant. The target must either have no Intelligence score or have Intelligence -3 or less. The target gains 0 Intelligence. The target also gains the ability to speak a language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, vines, and so on, and gains human-like senses. The Arbiter will choose the statistics appropriate to the awakened plant type, such as the statistics for awakened bush or awakened tree. \\
 The awakened beast or plant is fascinated by you for 30 days or until you or your companions do it damage. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.\\
-\textbf{For each magical critical success you roll} in the Test of Magic you double the duration of the fascination up to a maximum of 1 year.
+\textbf{For each magical critical success you roll} in the Magic Test you double the duration of the fascination up to a maximum of 1 year.
 
 \medskip\textbf{Banishment}\index[Spells]{Banishment}\\
 \textbf{School}: Abjuration\\
@@ -7991,7 +7984,7 @@ The awakened beast or plant is fascinated by you for 30 days or until you or you
 \textbf{Component}: V, S, M (an object despised by the target)\\
 \textbf{Duration}: 1 minute\\
 You try to send a creature within range and that you can see to another plane of existence. The target must succeed at a Will save or be banished. If the target is native to the plane of existence you are on, you exile the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, when it will reappear in the space it left or in the nearest unoccupied space if its original space is now occupied. If the target is native to a different plane of existence than the one you are on, the target vanishes with a soft bang, returning to its home plane. If the spell ends before 1 minute has elapsed, the target reappears in the space it left or in the nearest unoccupied space if its original space is occupied. \\
-\textbf{For each magical critical success you roll} in the Test of Magic you can affect another creature.
+\textbf{For each magical critical success you roll} in the Magic Test you can affect another creature.
 
 \medskip\textbf{Barkskin}\index[Spells]{Barkskin}\\
 \textbf{School}: Animals and Plants\\
@@ -8228,7 +8221,7 @@ You point your finger, and the creature that harmed you is momentarily engulfed 
 \textbf{Components}: V, S, M (some fur; a piece of amber, glass, or a crystal rod; and three silver pins)\\
 \textbf{Duration}: Instant\\
 You create a bolt of light that strikes a target of your choice that you can see within range. This generates a further bolt that hits the closest target within 6 meters. The process continues until 7 targets have been hit or there are no more new ranged opponents. A target can be a creature or object of at least medium size and can be the target of only one bolt. A target must make a Reflex save. The target takes 8d6 lightning damage on a failed save, or half as much damage on a successful one. \\
-\textbf{For each magical critical success rolled} in the Test of Magic the bolt shoots towards an additional target.\\
+\textbf{For each magical critical success rolled} in the Magic Test the bolt shoots towards an additional target.\\
 \textbf{Save Critical Success/Failure}: On a critical failure the damage is doubled, on a critical success the damage is further halved
 
 \medskip\textbf{Change Memory}\index[Spells]{Change Memory}\\
@@ -8507,7 +8500,7 @@ When changing weather conditions, find the current condition on the following ta
 
 - 5 Storm\\
 
-\textbf{For each magical critical success rolled} in the Test of Magic the duration increases by 8 hours.
+\textbf{For each magical critical success rolled} in the Magic Test the duration increases by 8 hours.
 
 \medskip\textbf{Counterspell}\index[Spells]{Counterspell}\\
 \textbf{School}: Abjuration\\
@@ -8615,7 +8608,7 @@ The spell's damage increases by 1d4 when you reach MP 5, MP 11 and MP 17, but it
 \textbf{Duration}: Instant\\
 Your hand fills with positive healing energy, a creature you touch regains a number of hit points equal to 5d8 + 3* Characteristic modifier for spells. This spell when used on an undead, attack roll with touch spell, damages it by the same amount. \\
 Unless otherwise stated, this spell cannot be used on animals or plants. \\
-\textbf{For each magical critical success rolled} in the Test of Magic you heal an additional 1d6 hit points.\\
+\textbf{For each magical critical success rolled} in the Magic Test you heal an additional 1d6 hit points.\\
 If the caster and the creature healed are both Followers of the same Patron, the spell heals an additional 1d8. \\
 If the spellcaster and the cured creature are both Devotees of the same Patron, each value on the dice equal to 1,2,3 will be considered 4.
 
@@ -8628,7 +8621,7 @@ If the spellcaster and the cured creature are both Devotees of the same Patron, 
 \textbf{Duration}: Instant\\
 Your hand fills with positive healing energy, a creature you touch regains a number of Hit Points equal to 1d8 + spell Characteristic modifier. This spell when used on an undead, attack roll with touch spell, damages it by the same amount. \\
 Unless otherwise stated, this spell cannot be used on animals or plants. \\
-\textbf{For each magical critical success rolled} in the Test of Magic you heal an additional 1d6 hit points.\\
+\textbf{For each magical critical success rolled} in the Magic Test you heal an additional 1d6 hit points.\\
 If the caster and the creature healed are both Followers of the same Patron, the spell heals an additional 1d8. \\
 If the spellcaster and the cured creature are both Devotees of the same Patron, each value on the dice equal to 1,2,3 will be considered 4.
 
@@ -8641,7 +8634,7 @@ If the spellcaster and the cured creature are both Devotees of the same Patron, 
 \textbf{Duration}: Instant\\
 Your hand fills with positive healing energy, a creature you touch regains a number of hit points equal to 3d8 + 2* Characteristic modifier for spells. This spell when used on an undead, attack roll with touch spell, damages it by the same amount. \\
 Unless otherwise stated, this spell cannot be used on animals or plants. \\
-\textbf{For each magical critical success rolled} in the Test of Magic you heal an additional 1d6 hit points.\\
+\textbf{For each magical critical success rolled} in the Magic Test you heal an additional 1d6 hit points.\\
 If the caster and the creature healed are both Followers of the same Patron, the spell heals an additional 1d8. \\
 If the spellcaster and the cured creature are both Devotees of the same Patron, each value on the dice equal to 1,2,3 will be considered 4.
 
@@ -8666,7 +8659,7 @@ A light must be within 6 meters of another light created with this spell, and th
 \textbf{Duration}: 10 minutes\\
 The magical darkness spreads from a point of your choice within range to fill a 10-foot-radius sphere for the spell's duration. Darkness spreads around corners. A creature with darkvision can't see in this darkness, and nonmagical light can't illuminate it.\\
 If the spot you chose is on an item you are carrying or one that is not being worn or carried, the darkness emanates from the item and moves with it. Completely covering the source of the darkness with an opaque object, such as a pot or helmet, blocks the darkness.\\
-If any part of this spell's area overlaps with the area of   light created by a spell of difficulty 13 or lower, the spell that created the light is dispelled.
+If any part of this spell's area overlaps with the area of light created by a spell of difficulty 13 or lower, the spell that created the light is dispelled.
 
 
 
@@ -8687,7 +8680,7 @@ A willing creature you touch gains the ability to see in the dark. For the durat
 \textbf{Range}: 18 meters\\
 \textbf{Components}: V, S\\
 \textbf{Duration}: 1 hour\\
-A sphere of light with a 30-foot radius expands from a point of your choice within range. The sphere radiates bright light and dim light for an additional 10 meters. If you pick a spot on an object that you are holding or that is not being worn or carried, light radiates from the object and moves with it. Covering an object completely with something opaque, such as a vase or helmet, blocks light. If any part of this spell's area overlaps with the area of   darkness created by a 3-level or lower spell, the spell that created the darkness is dispelled. The light created is considered sunlight.
+A sphere of light with a 30-foot radius expands from a point of your choice within range. The sphere radiates bright light and dim light for an additional 10 meters. If you pick a spot on an object that you are holding or that is not being worn or carried, light radiates from the object and moves with it. Covering an object completely with something opaque, such as a vase or helmet, blocks light. If any part of this spell's area overlaps with the area of darkness created by a 3-level or lower spell, the spell that created the darkness is dispelled. The light created is considered sunlight.
 
 \medskip\textbf{Deadly Mist}\index[Spells]{Deadly Mist}\\
 \textbf{School}: Water, Air\\
@@ -8707,7 +8700,7 @@ You create a 6 meters-radius sphere of poisonous yellow-green mist centered on a
 \textbf{Components}: V, S\\
 \textbf{Duration}: 8 hours\\
 You cast the spell while touching a creature. Grant the target protection from death. The first time the target drops to 0 hit points as a result of damage taken, the target drops to 1 hit point instead and the spell ends. If the spell is still active when the target is the victim of an effect that would kill them instantly without inflicting damage, that effect is negated on the target instead and the spell ends. \\
-\textbf{For every two magical Critical Successes rolled} in the Test of Magic the spell protects one more time.\\
+\textbf{For every two magical Critical Successes rolled} in the Magic Test the spell protects one more time.\\
 
 \medskip\textbf{Delayed Fireball}\index[Spells]{Delayed Fireball}\\
 \textbf{School}: Fire\\
@@ -8789,7 +8782,7 @@ You will be Distracted while you have this spell active for casting other spells
 You teleport from your current location to anywhere else within range. You arrive exactly at the desired place. It can be a place you can see, one you can visualize, or one you can describe by indicating distance and direction, such as "30 meters down" or "90 meters up northwest at a 45 degree angle." \\
 You may carry items whose weight does not exceed your Encumbrance capacity. You can also bring along a willing creature of your size or smaller with gear up to the limit of its carrying capacity. The creature must be within 1 meter of you when you cast this spell. \\
 Should you arrive at a place already occupied by an object or creature, you and the creature traveling with you each take 4d6 points of force damage, and the spell fails to teleport.\\
-\textbf{For every two magical critical successes you roll} in the Test of Magic you can bring one more creature.
+\textbf{For every two magical critical successes you roll} in the Magic Test you can bring one more creature.
 
 \medskip\textbf{Discover Traps}\index[Spells]{Discover Traps}\\
 \textbf{School}: Divination\\
@@ -9110,7 +9103,7 @@ You ignore all objects and effects that are not on the Ethereal Plane, allowing 
 \textbf{Components}: V, S\\
 \textbf{Duration}: Instant\\
 Convert raw materials into finished products of the same material. For example, you can make a small wooden bridge from a pile of trees, a rope from a pile of hemp, and clothing from flax or wool. Choose raw materials that you can see within range. You can craft one Large or smaller item (contained in one 10-foot cube, or eight connected 3-foot cubes) given enough raw materials. If you're working with metal, stone, or other mineral substances, the crafted item can't be larger than Medium size (contained in a single 3-foot cube). The quality of the items created by this spell is commensurate with the quality of the raw materials.\\
-You cannot create or transmute magical creatures or items with this spell. You also cannot use it to craft items that normally require a high level of crafting, such as jewelry, weapons, glass, or Armour, unless you are proficient with the type of crafting tools used to craft these items. In case of critical in the Test of Magic you can process more volumes or produce with higher quality.
+You cannot create or transmute magical creatures or items with this spell. You also cannot use it to craft items that normally require a high level of crafting, such as jewelry, weapons, glass, or Armour, unless you are proficient with the type of crafting tools used to craft these items. In case of critical in the Magic Test you can process more volumes or produce with higher quality.
 
 \medskip\textbf{Fairy Dust}\index[Spells]{Fairy Dust}\\
 \textbf{School}: Fire, Air\\
@@ -9129,7 +9122,7 @@ In a 10-foot-diameter sphere, everyone in it is covered in glittering, luminous 
 \textbf{Components}: V, S, M (a small amount of distilled alcohol or spirit)\\
 \textbf{Duration}: 1 hour\\
 Empowering yourself with a necromantic semblance of vitality, you gain 1d4 + 4 temporary hit points for the duration.\\
-\textbf{For each magical critical success rolled} in the Test of Magic you gain 5 temporary hit points.
+\textbf{For each magical critical success rolled} in the Magic Test you gain 5 temporary hit points.
 
 \medskip\textbf{Fast Step}\index[Spells]{Fast Step}\\
 \textbf{School}: Transmutation\\
@@ -9204,7 +9197,7 @@ A humanoid slain by this spell reanimates as a zombie under your permanent comma
 \textbf{Duration}: Instant\\
 You hurl a fiery spark at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object affected by this spell catches fire, if it is not being worn or carried. \\
 The spell's damage increases by 1d8 when you reach MP 5, MP 11, and MP 17. \\
-\textbf{For every two magical critical successes you roll} in the Test of Magic, you cast an additional spark.
+\textbf{For every two magical critical successes you roll} in the Magic Test, you cast an additional spark.
 
 \medskip\textbf{Fire Shield}\index[Spells]{Fire Shield}\\
 \textbf{School}: Fire, Water\\
@@ -9258,7 +9251,7 @@ At the start of each of your rounds, the cloud moves 3 meter away from you in a 
 \textbf{Components}: V, S\\
 \textbf{Duration}: Instant\\
 A storm composed of roaring flames appears at a point you choose within range. The storm area consists of up to ten cubes with 3 meter edges, which you can arrange however you like. Each cube must have at least one face adjacent to that of another cube. Each creature in the area must make a Reflex save. It takes 7d10 fire damage on a failed save, or half as much damage on a successful one. Fire damages objects in the area and ignites flammable objects that are not worn or carried. If you wish, the plant life in the area is unaffected by the effects of this spell. \\
-\textbf{For each magical critical success you roll} in the Magic Test you increase the area of   a 10-foot cube. \\
+\textbf{For each magical critical success you roll} in the Magic Test you increase the area of a 10-foot cube. \\
 \textbf{Save Critical Success/Failure}: On a critical failure the damage is doubled, on a critical success the damage is further halved
 
 \medskip\textbf{Flame Strike}\index[Spells]{Flame Strike}\\
@@ -9313,7 +9306,7 @@ This spell creates a perfectly circular, slightly concave horizontal plane of fo
 \textbf{Duration}: 10 minutes \\
 You cast the spell touching a willing creature. For the duration, the target gains a flying speed of 20 meters. When the spell ends, if still in the air, the target falls, unless he is able to stop the descent. \\
 Casting a spell while flying is more difficult, being Distracted if failing a DC 11 Fly check.\\
-\textbf{For each magical critical success you roll} in the Test of Magic you can target an additional creature or double the duration.
+\textbf{For each magical critical success you roll} in the Magic Test you can target an additional creature or double the duration.
 
 \medskip\textbf{Force}\index[Spells]{Force}\\
 \textbf{School}: Heal\\
@@ -9353,7 +9346,7 @@ You cast the spell while touching a willing creature to grant it a limited abili
 \textbf{Duration}: 1 hour\\
 You cast the spell touching a willing creature. For its duration, the target's movement ignores hindering terrain, and spells or other magical effects cannot reduce its speed or cause the target to be paralyzed or entangled. \\
 The target can use two Actions to automatically break free of any nonmagical restraints, such as handcuffs or a creature it's grabbed by. Finally, being underwater does not incur penalties to the target's movement or attacks.\\
-\textbf{For two magical critical successes rolled} in the Test of Magic you can affect another creature.
+\textbf{For two magical critical successes rolled} in the Magic Test you can affect another creature.
 
 \medskip\textbf{Freezing Sphere}\index[Spells]{Freezing Sphere}\\
 \textbf{School}: Water\\
@@ -9387,7 +9380,7 @@ This spell allows you to convince a natural beast that you don't want to harm it
 \textbf{Duration}: Concentration, max 1 hour\\
 You turn a willing creature, along with whatever it is wearing and carrying, into a vaporous cloud for the duration. The spell ends if the creature drops to 0 hit points. Incorporeal creatures ignore this effect. While in this form, the target's only method of movement is a fly speed of 3 meter. The target can enter and occupy another creature's space. The target has resistance to nonmagical damage, and has +1d6 on Fortitude and Reflex saves. The target can pass through small holes, bottlenecks, and even simple holes, although it treats liquids as solid surfaces. The target cannot fall and remains hovering in the air even if stunned or otherwise incapacitated. \\
 While in the form of a vaporous cloud, the target cannot speak or manipulate objects, and any objects it is wearing or carrying cannot be thrown, used, or otherwise employed. The target cannot attack or cast spells.\\
-\textbf{For every two magical critical successes you roll} in the Test of Magic you can affect one other creature.
+\textbf{For every two magical critical successes you roll} in the Magic Test you can affect one other creature.
 
 \medskip\textbf{Geas}\index[Spells]{Geas}\\
 \textbf{School}: Enchantment\\
@@ -9570,7 +9563,7 @@ If the caster and the cured creature are both \textbf{Devotees} of the same Patr
 \textbf{Components}: V\\
 \textbf{Duration}: Instant\\
 A creature of your choice that you can see within range regains Hit Points equal to 1d4 + your Characteristic modifier for spellcasting spells. This spell deals the same amount of damage to an undead.\\
-\textbf{For each magical critical success rolled} in the Test of Magic the healing increases by 1d4.\\
+\textbf{For each magical critical success rolled} in the Magic Test the healing increases by 1d4.\\
 If the caster and the creature healed are both Followers of the same Patron, the spell heals an additional 1d4. \\
 If the spellcaster and the creature cured are both Devotees of the same Patron, the spell heals an additional 2d4.
 
@@ -9614,7 +9607,7 @@ attend the banquet. A creature that participates in the feast gains several bene
 \textbf{Components}: V, S\\
 \textbf{Duration}: 1 minute\\
 A willing creature you touch is imbued with courage. Until the spell ends, the creature is immune to being frightened and, at the start of each of its rounds, gains temporary hit points equal to your Intelligence value or spell modifier. When the spell ends, the target loses any remaining temporary hit points derived from this spell. \\
-\textbf{For each magical critical success you roll} in the Test of Magic you can affect another creature.
+\textbf{For each magical critical success you roll} in the Magic Test you can affect another creature.
 
 \medskip\textbf{Holy Aura}\index[Spells]{Holy Aura}\\
 \textbf{School}: Abjuration\\
@@ -9646,7 +9639,7 @@ The spell's damage increases by 1d8 when the sum of Traits in common with the Pa
 \textbf{Duration}: 8 hours\\
 An immobile half-sphere of force with a 10-foot radius forms around and above you, remaining stationary for the duration. The spell ends if you leave the area. Eight Medium or smaller creatures can enter the dome with you. The spell fails if the area includes a larger creature or more than nine creatures. Creatures and objects inside the dome can pass through it freely when you cast this spell. All other creatures and objects must make a Fortitude save or are prevented from crossing it for that round. Spells and other magical effects cannot extend beyond or through the dome if of 1 level or lower. The atmosphere inside the space is comfortable and dry, whatever the climate outside.\\
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, any color you choose, but is transparent from the inside.\\
-\textbf{For each magical critical success rolled} in the Test of Magic the spell lasts 2 hours longer.
+\textbf{For each magical critical success rolled} in the Magic Test the spell lasts 2 hours longer.
 
 \medskip\textbf{Hypnotic Texture}\index[Spells]{Hypnotic Texture}\\
 \textbf{School}: Illusion\\
@@ -9664,7 +9657,7 @@ You create a twisted web of color that moves through the air within a 30-foot cu
 \textbf{Range}: 90 meters\\
 \textbf{Components}: V, S, M (a pinch of powder and a few drops of water)\\
 \textbf{Duration}: Instant\\
-A hail of ice slams the ground in a 6 meters-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Reflex save. The creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much on a successful one. The hail turns the storm's area of   effect into hindering terrain until the end of your next round.\\
+A hail of ice slams the ground in a 6 meters-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Reflex save. The creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much on a successful one. The hail turns the storm's area of effect into hindering terrain until the end of your next round.\\
 \textbf{For each magical critical success rolled} in the Magic Test the damage increases by 1d8.\\
 \textbf{Save Critical Success/Failure}: On a critical failure the damage is doubled, on a critical success the damage is further halved
 
@@ -9739,7 +9732,7 @@ Make a melee spell attack against a creature within reach. On a hit, the target 
 \textbf{Range}: 90 meters\\
 \textbf{Components}: V, S, M (a few grains of sugar, a few grains of wheat, a little lard)\\
 \textbf{Duration}: 10 minutes\\
-A swarm of hungry locusts fills a 6 meters-radius sphere centered on a point you choose within range. The sphere propagates around corners. The sphere remains for the duration, and its area is in dim light. The area of   the sphere is difficult terrain.\\
+A swarm of hungry locusts fills a 6 meters-radius sphere centered on a point you choose within range. The sphere propagates around corners. The sphere remains for the duration, and its area is in dim light. The area of the sphere is difficult terrain.\\
 When the area appears, each creature in it must make a Fortitude save. A creature takes 4d10 damage on a failed save, or half as much damage on a successful one. A creature must also make this Saving Throw when it enters the spell's area for the first time in a round, or if it ends its round therein. \\
 \textbf{For each magical critical success rolled} in the Magic Test the damage increases by 1d8.
 
@@ -9847,7 +9840,7 @@ Name or describe a person, place or object. The spell brings to your mind a brie
 \textbf{Duration}: 1 round per Magic Proficiency, Concentration\\
 Enchant a bottle with at least 9 drops of lemon inside.
 Each round, by spending 1 Action, you can spray up to 2 drops of lemon, of the total 9, against one or more targets within 30 meters. Make a single Attack Roll with ranged spells, with a bonus equal to the times you took Animals and Plants or Land Lists, per target regardless of the number of drops you roll at it. Each drop on a hit does 1d4+2 acid damage.\\
-\textbf{For each magical critical success you roll} in the Test of Magic you may throw an extra lemon drop.
+\textbf{For each magical critical success you roll} in the Magic Test you may throw an extra lemon drop.
 
 \medskip\textbf{Kyrin's Acorn Hail}\index[Spells]{Kyrin's Acorn Hail}\\
 \textbf{School}: Animals and Plants\\
@@ -9869,9 +9862,9 @@ Each round, by spending 1 Action, you can throw up to 5 acorns at one or more ta
 \textbf{Duration}: 1 minute per Magic Proficiency, Concentration\\
 You cast 9 browns of magical energy and they begin swirling 60cm above your shoulder.
 Each round, by spending 1 Action, you can throw up to 5 browns at one or more targets. Make only one Attack Roll with ranged spells, with a bonus equal to the number of times you have taken Lists of Animals and Plants, per target regardless of the number of acorns you throw at it. Each acorn does 2d8+4 bludgeoning damage if it hits\\
-\textbf{For each magical critical success you roll} in the Test of Magic you can enchant two more browns.
+\textbf{For each magical critical success you roll} in the Magic Test you can enchant two more browns.
 
-\medskip\textbf{Kyrin's Fire Acorn Hail}\index[Spells]{Kyrin's Fire Acorn Hail}\\
+\medskip\textbf{Kyrin Fire Acorn Hail}\index[Spells]{Kyrin Fire Acorn Hail}\\
 \textbf{School}: Animals and Plants, Fire\\
 \textbf{Level}: 3, Rare\\
 \textbf{Casting Time}: 2 Action\\
@@ -9937,7 +9930,7 @@ Lightning when thrown at worked hardstone bounces at an angle of 180 degrees - t
 \textbf{Components}: V, S, M (a piece of hound fur) \\
 \textbf{Duration}: Instant\\
 Describe or name a specific type of beast or plant. By focusing on the voice of nature in your surroundings, you learn the direction and distance to the nearest creature or plant of that species, if any within 7.5 kilometers.\\
-\textbf{For each Magical Critical Success rolled} in the Test of Magic you increase the controlled area by 1km
+\textbf{For each Magical Critical Success rolled} in the Magic Test you increase the controlled area by 1km
 
 \medskip\textbf{Locate Creature}\index[Spells]{Locate Creature}\\
 \textbf{School}: Divination\\
@@ -10145,7 +10138,7 @@ If the spellcaster and creature healed are both \textbf{Devoted} of the same Pat
 \textbf{Components}: V\\
 \textbf{Duration}: Instant\\
 As you speak words of healing, up to six creatures of your choice that you can see within range regain Hit Points equal to 1d4 + your Characteristic modifier for spellcasting. This spell deals the same amount of damage to undead.\\
-\textbf{For each magical critical success rolled} in the Test of Magic the healing increases by 1d4.\\
+\textbf{For each magical critical success rolled} in the Magic Test the healing increases by 1d4.\\
 If the caster and the creature healed are both Followers of the same Patron, the spell heals an additional 1d4. \\
 If the spellcaster and the creature cured are both Devotees of the same Patron, the spell heals an additional 2d4.
 
@@ -10158,7 +10151,7 @@ If the spellcaster and the creature cured are both Devotees of the same Patron, 
 \textbf{Duration}: 1 Turn, Concentration\\
 You create a luminous bolt of magical force. Launching one or more darts already summoned costs 1 Action. The bolt strikes a creature of your choice that you can see within range. A bolt deals 1d4 + 1 force damage to its target, and you can direct them to hit one or more creatures.\\
 You create an additional bolt when you reach MP 3, MP 5, MP 7, and MP 9. Damage increases by 2 for each time you took Adept of Magic on the Universal List, up to a maximum of 5 increases.\\
-\textbf{For each magical critical success rolled} in the Test of Magic the spell creates an additional bolt.
+\textbf{For each magical critical success rolled} in the Magic Test the spell creates an additional bolt.
 
 \medskip\textbf{Mass Suggestion}\index[Spells]{Mass Suggestion}\\
 \textbf{School}: Enchantment\\
@@ -10202,7 +10195,7 @@ Minor damage to the stone does no harm to you, but its partial destruction or ch
 \textbf{Components}: V, S, M (a handful of clay, crystal, glass, or mineral orbs)\\
 \textbf{Duration}: Instant\\
 You assault the mind of a creature within range and that you can see, seeking to fragment its intellect and personality. The target takes 4d6 points of damage and must make a Will save. On a failed save, the creature's Intelligence and Charisma scores drop to -4. The creature can't cast spells, activate magic items, understand languages, or communicate in any intelligible way. The creature can, however, identify its friends, track them, and even protect them. After 30 days, the creature can repeat the Saving Throw against the spell. If successful, the spell ends. If it fails, the effect is permanent. \\
-the spell can be ended within 30 days of a greater restoration, healing, or wish.
+The spell can be ended within 30 days with Greater restoration, Heal or Wish.
 
 \medskip\textbf{Message}\index{Cantrip - Message}\\
 \textbf{School}: Transmutation\\
@@ -10246,7 +10239,7 @@ The creature is limited in the actions it can perform by the nature of its new f
 \textbf{Components}: V, S\\
 \textbf{Duration}: Instant\\
 Searing balls of fire crash to the ground in four different spots that are within range and that you can see. Each creature in a 6-foot-radius sphere centered on the point you choose must make a Reflex save. The sphere propagates around corners. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as many times.
-this damage if it succeeds. A creature in the area of   more than one burst of fire is affected only once.\\
+this damage if it succeeds. A creature in the area of more than one burst of fire is affected only once.\\
 \textbf{Save Critical Success/Failure}: On a critical failure the damage is doubled, on a critical success the damage is further halved\\
 \textbf{Every 3 crits gained} in Magic Test choose another point of impact.
 
@@ -10296,7 +10289,7 @@ The illusion includes audible, visual, tactile, and olfactory elements so that i
 Every time a creature hits you it actually hit an illusory image.
 If a creature makes multiple attacks in turn, it can scatter an image for each successful attack. If you are hit by an area spell, all images vanish.\\
 A creature that can't see, or relies on senses other than sight (such as blindsight), or that can distinguish illusions as false (such as true seeing), is unaffected by this spell. \\
-\textbf{For each magical critical success you roll} in the Test of Magic you create one more duplicate image up to a maximum total of 8 images.
+\textbf{For each magical critical success you roll} in the Magic Test you create one more duplicate image up to a maximum total of 8 images.
 
 \medskip\textbf{Mislead}\index[Spells]{Mislead}\\
 \textbf{School}: Illusion\\
@@ -10315,7 +10308,7 @@ You can see through his eyes and hear through his ears as if you were in his spa
 \textbf{Range}: 36 meters\\
 \textbf{Components}: V, S, M (an iron shovel and a small bag containing a mix of soil types - clay, manure, and sand)\\
 \textbf{Duration}: Concentration, max 2 hours\\
-Choose an area on the ground within range no larger than 13 meters on a side. For durability, you can reshape dirt, sand, or clay in the area in any way you like. You can raise or lower the altitude of the area, create or fill a moat, erect or lower a wall, or form a pillar. The extent of these changes cannot exceed half the area's largest size. Thus, if you operate on a square 12 meters on each side, you can create a pillar 6 meters high, raise or lower the altitude of the land by 6 meters, dig a ditch 6 meters deep, and so on. It takes 10 minutes to complete these changes. After every 10 minutes you spend concentrating on the spell, you can choose a new area of   land to work on.\\
+Choose an area on the ground within range no larger than 13 meters on a side. For durability, you can reshape dirt, sand, or clay in the area in any way you like. You can raise or lower the altitude of the area, create or fill a moat, erect or lower a wall, or form a pillar. The extent of these changes cannot exceed half the area's largest size. Thus, if you operate on a square 12 meters on each side, you can create a pillar 6 meters high, raise or lower the altitude of the land by 6 meters, dig a ditch 6 meters deep, and so on. It takes 10 minutes to complete these changes. After every 10 minutes you spend concentrating on the spell, you can choose a new area of land to work on.\\
 Because the terrain changes slowly, creatures in the area usually can't be entangled or injured by the movement of the terrain. The spell can't manipulate natural stone or stone buildings. Rocks and structures move to adjust to the new terrain. If the way you shape the terrain would make a structure unstable, it could collapse. Likewise, this spell does not directly affect plant growth. The loose earth carries with it any vegetable present.
 
 \medskip\textbf{Omen}\index[Spells]{Omen}\\
@@ -10353,7 +10346,7 @@ Any spell of Level 4 (excluding higher results from critical magic) or lower cas
 \textbf{Components}: V, S, M (ashes from a burnt mistletoe leaf and a spruce twig)\\
 \textbf{Duration}: Concentration, 1 hour
 For the duration of the spell, your tracks cannot be followed except by magical means. The creature receiving this bonus leaves no tracks or other signs of its passage.\\
-\textbf{For each magical critical success you roll} in the Test of Magic you can include another creature in the benefits of the spell.
+\textbf{For each magical critical success you roll} in the Magic Test you can include another creature in the benefits of the spell.
 
 \medskip\textbf{Pass door}\index[Spells]{Pass door}\\
 \textbf{School}: Earth\\
@@ -10444,7 +10437,7 @@ You speak a word of power that can overwhelm the mind of a creature within range
 \textbf{Components}: V\\
 \textbf{Duration}: Instant\\
 Up to six creatures of your choice that you can see within range each regain Hit Points equal to 2d6 + your Characteristic modifier for spellcasting. This spell deals the same amount of damage to undead. \\
-\textbf{For each magical critical success rolled} in the Test of Magic the healing increases by 1d8.
+\textbf{For each magical critical success rolled} in the Magic Test the healing increases by 1d8.
 
 \medskip\textbf{Prestidigitation}\index{Cantrip - Prestidigitation}\\
 \textbf{School}: Universal\\
@@ -10553,12 +10546,12 @@ Physical interaction with the image reveals it as an illusion, as things pass th
 \textbf{Level}: 6, Uncommon\\
 \textbf{Cast Time}: 10 minutes\\
 \textbf{Range}: Contact\\
-\textbf{Components}: V, S, M (a spray of Holy Water, rare incense, and a ruby   powder worth 1000 gp)\\
+\textbf{Components}: V, S, M (a spray of Holy Water, rare incense, and a ruby powder worth 1000 gp)\\
 \textbf{Duration}: 1 day\\
 Create a magical travel ward that protects up to 4,000 square meters of floor space, up to a height of 10 meters above the ground. For the duration, creatures cannot teleport into the area or use passageways, such as the one created by the portal spell, to enter the area. The spell protects the area from planar travel, and thus prevents creatures from entering the area via the Astral Plane, Ethereal Plane, or Plane of Shadow, or the planeshift spell. \\
 Additionally, the spell damages creature types of your choice when casting. Choose one or more of the following: celestials, elementals, fey, demons, and undead. When a selected creature enters the spell's area for the first time in a round or begins its round here, the creature takes 5d10 Light or Void damage (your choice, when you cast the spell). \\
 When you cast this spell, you can establish a password. A creature that speaks the password while entering the spell's area takes no damage from it.\\
-The spell's area cannot overlap with the area of   another forbidding spell. If you cast forbidding every day for 30 days in the same place, the spell will last until dispelled, and the material components are consumed on the last casting.
+The spell's area cannot overlap with the area of another forbidding spell. If you cast forbidding every day for 30 days in the same place, the spell will last until dispelled, and the material components are consumed on the last casting.
 
 \medskip\textbf{Project Image}\index[Spells]{Project Image}\\
 \textbf{School}: Illusion\\
@@ -10580,7 +10573,7 @@ Physical interaction with the image reveals it as an illusion, as things pass th
 \textbf{Components}: V, S\\
 \textbf{Duration}: 10 minutes\\
 You cast the spell touching a willing creature. For the duration, the target has resistance to one type of damage you choose: acid, cold, fire, electricity, or sound. You can sacrifice the entire duration of the spell by ending it to completely negate damage taken from an energy source.\\
-\textbf{For each magical critical success you roll} in the Test of Magic you can affect another person or double the duration.
+\textbf{For each magical critical success you roll} in the Magic Test you can affect another person or double the duration.
 
 \medskip\textbf{Protection from Good and Evil}\index[Spells]{Protection from Good and Evil}\\
 \textbf{School}: Abjuration\\
@@ -10611,7 +10604,7 @@ For the duration of the spell, the target has +1d6 on Saving Throws against pois
 \textbf{Components}: V, S\\
 \textbf{Duration}: 1 minute\\
 You cast the spell touching a willing creature. For the duration, the target has damage reduction from the chosen energy equal to 5. You can sacrifice the entire duration of the spell, ending it, to reduce the damage taken from an energy source by 20 (as if you had Damage Resistance 20 from that energy source).\\
-\textbf{For each magical critical success you roll} in the Test of Magic you can affect another person or double the duration.
+\textbf{For each magical critical success you roll} in the Magic Test you can affect another person or double the duration.
 
 \medskip\textbf{Pure Polymorph}\index[Spells]{Pure Polymorph}\\
 \textbf{School}: Animals and Plants\\
@@ -10707,7 +10700,7 @@ The spell's damage increases by 1d8 when you reach MP 5, MP 11 and MP 17, but it
 \textbf{Component}: V, S, M (a fragment of an enchanted item)\\
 \textbf{Duration}: 1 minute, while used\\
 You grant the target the ability to read a scroll or magical writing. For a duration of 1 minute or until used once, whichever comes first, the creature automatically succeeds in understanding a magical scroll or casting the contents of the scroll while meeting the criteria and rules for casting spells from scrolls.
-\textbf{For each magical Critical Success rolled} in the Test of Magic you may read or understand one more scroll.
+\textbf{For each magical Critical Success rolled} in the Magic Test you may read or understand one more scroll.
 
 \medskip\textbf{Reading the land of Kyrin}\index[Spells]{Reading the land of Kyrin}\index{Ecolocazione}\\
 \textbf{School}: Earth\\
@@ -10739,7 +10732,7 @@ The creature brought back to life must make a DC 15 Fortitude save or, due to th
 \textbf{Components}: V, S, M (a rosary and Blessed Water)\\
 \textbf{Duration}: 1 hour\\
 You cast the spell upon touching a creature to stimulate its natural healing ability. The target regains 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its rounds (6 hit points per minute). Severed limbs from the target's body (fingers, legs, tails, and so on), if any, are restored in 2 minutes. If you have the severed part and hold it against the stump, the spell causes the limb to sew itself back together in 3 rounds with the stump.\\
-\textbf{For each magical critical success rolled} in the Test of Magic double the hit points recovered per round.
+\textbf{For each magical critical success rolled} in the Magic Test double the hit points recovered per round.
 
 \medskip\textbf{Reincarnation}\index[Spells]{Reincarnation}\\
 \textbf{School}: Animals and Plants\\
@@ -10786,7 +10779,7 @@ If the object or person has been cursed with the Bestow Curse spell, or otherwis
 
 The spellcaster can perform a Magic Test and for each critical success add 2 to his Magic Expertise to see if he is able to remove the curse.
 
-Whether it was enough to cast the spell or it was cast with a Test of Magic, the curse remains, but the spell allows the object to be removed and thrown away.\\
+Whether it was enough to cast the spell or it was cast with a Magic Test, the curse remains, but the spell allows the object to be removed and thrown away.\\
 \textbf{On three critical successes} at the Arbiter's discretion the curse can be permanently removed from the item.
 
 \medskip\textbf{Remove Disease}\index[Spells]{Remove Disease}\\
@@ -10920,7 +10913,7 @@ Instead of targeting a creature, you can target a place you've seen before. When
 \textbf{Duration}: Instant\\
 You create three beams of fire and project them at three targets within range. You can throw them at the same target or at different targets.\\
 Make one ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.\\
-\textbf{For each magical critical success you roll} in the Test of Magic you create an additional ray.
+\textbf{For each magical critical success you roll} in the Magic Test you create an additional ray.
 
 \medskip\textbf{Secret Chest}\index[Spells]{Secret Chest}\\
 \textbf{School}: Summon\\
@@ -11020,7 +11013,7 @@ Physical interaction with the image reveals it as an illusion, as things pass th
 \textbf{Level}: 7, Rare\\
 \textbf{Casting Time}: 12 hours\\
 \textbf{Range}: Contact\\
-\textbf{Components}: V, S, M (a lot of snow or ice to make a full-size copy of the duplicated creature; some hair, nails, or other body parts of that creature to place in the snow or to ice; and a powdered ruby   worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)\\
+\textbf{Components}: V, S, M (a lot of snow or ice to make a full-size copy of the duplicated creature; some hair, nails, or other body parts of that creature to place in the snow or to ice; and a powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)\\
 \textbf{Duration}: Until dissolved\\
 You shape an illusory duplicate of a beast or humanoid that remains within range for the spell's entire casting time. The duplicate is a creature, partly real and made of ice or snow, that can take actions and interact like a normal creature. It appears to be identical to the original, but has half that creature's maximum hit points and comes unequipped. Otherwise, the illusion uses all the stats of the creature it duplicates.\\
 The simulacrum is friendly towards you and the creatures you designate. It obeys your spoken commands, moving and acting according to yourwishes and acting during your round of combat. The simulacrum lacks the ability to learn or become more powerful, and thus never increases in level or ability, nor can it recover expended spell slots.\\
@@ -11035,7 +11028,7 @@ If the simulacrum is damaged, you can repair it in an alchemical laboratory, usi
 \textbf{Duration}: 1 minute\\
 This spell puts creatures into a magical torpor. Roll 5d8; the total is the number of creature hit points the spell can affect. Creatures within 6 meters of the point you choose within range are affected in ascending order of Hit Points (ignoring unconscious creatures).\\
 Starting with the creature with the lowest number of current hit points, each affected creature is knocked unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper. . Subtract each creature's hit points from the total before considering the creature with the next lowest hit point value. A creature's hit points must be equal to or less than its remaining total for the effect to affect it. Undead and creatures that can't be charmed are unaffected by this spell.\\
-\textbf{For each magical critical success rolled} in the Test of Magic affects an additional 2d8 hit points.
+\textbf{For each magical critical success rolled} in the Magic Test affects an additional 2d8 hit points.
 
 \medskip\textbf{Sleet Storm}\index[Spells]{Sleet Storm}\\
 \textbf{School}: Water\\
@@ -11044,7 +11037,7 @@ Starting with the creature with the lowest number of current hit points, each af
 \textbf{Range}: 45 meters\\
 \textbf{Components}: V, S, M (a pinch of powder and a few drops of water)\\
 \textbf{Duration}: 1 minute\\
-Until the spell ends, freezing rain and sleet rain down in a 6 meters-tall, 40-foot-radius cylinder centered on a point you choose within range. The area is in dim light, while the exposed flames are extinguished. The ground in the area is covered in slippery ice, making it difficult terrain. When a creature enters the spell's area for the first time in a round or begins its round there, it must make a Reflex save. On a failed save, it falls prone. If a creature in the spell's area is concentrating, it must succeed at a Fortitude save against the DC of the spell's save or lose concentration.
+Until the spell ends, freezing rain and sleet rain down in a 6 meters-tall, 40-foot-radius cylinder centered on a point you choose within range. The area is in dim light, while the exposed flames are extinguished. The ground in the area is covered in Grease ice, making it difficult terrain. When a creature enters the spell's area for the first time in a round or begins its round there, it must make a Reflex save. On a failed save, it falls prone. If a creature in the spell's area is concentrating, it must succeed at a Fortitude save against the DC of the spell's save or lose concentration.
 
 \medskip\hypertarget{lentezza}{\textbf{Slow}}\index[Spells]{Slow}\\
 \textbf{School}: Transmutation\\
@@ -11219,7 +11212,7 @@ Summoned creatures are friendly to you and your companions. Roll initiative for 
 You summon a spirit that takes the form of an unusually intelligent, strong, and loyal mount, forming a lasting bond with it. Appearing in an unoccupied, ranged space, the steed takes the form of your choice, such as that of a warhorse, pony, camel, moose, or hound (the Arbiter may give you the ability to summon steeds as well other types of animals). The steed has the stats of the chosen form, though it is celestial, fey, or demon type (your choice) instead of its normal type. Additionally, if your steed has Intelligence -3 or less, its Intelligence becomes -2, and it gains the ability to understand one language of your choice among those you can speak. Your steed serves as a mount, both in and out of combat, and you possess an instinctive bond with it, allowing you to fight as a whole.\\
 When the steed drops to 0 hit points, it disappears, leaving no physical form behind. you can dismiss the steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to full Hit Points.\\
 You can't have more than one steed bonded by this spell at a time. As an action, you can free the steed from this bond at any time, making it disappear.\\
-\textbf{For each magical critical success rolled} in the Test of Magic the spell lasts an hour longer.
+\textbf{For each magical critical success rolled} in the Magic Test the spell lasts an hour longer.
 
 \medskip\textbf{Summon elemental}\index[Spells]{Summon elemental}\\
 \textbf{School}: Air, Water, Earth, Fire\\
@@ -11333,7 +11326,7 @@ You manifest a minor trick within range, a sign of supernatural power. You creat
 - Change the look of your eyes for 1 minute.\\
 
 If you cast this spell multiple times, you can keep up to three one-minute effects active at a time, and you can stop these effects as an action.\\
-\textbf{For each magical Critical Success rolled} in the Test of Magic you can manifest an additional magical effect.
+\textbf{For each magical Critical Success rolled} in the Magic Test you can manifest an additional magical effect.
 
 
 \medskip\textbf{Telekinesis}\index[Spells]{Telekinesis}\\
@@ -11358,7 +11351,7 @@ You can exert precise control over objects with your telekinetic grip, allowing 
 \textbf{Components}: V, S, M (pieces of eggshells from two different species of creatures)\\
 \textbf{Duration}: 1 hour\\
 You establish a telepathic link between up to eight willing creatures of your choice within range, psychically linking each creature to the others for the duration of the spell. Creatures with an Intelligence score of -3 or lower ignore this spell. Until the spell ends, the targets can communicate telepathically via this link, whether or not they share a common language. Communication is possible at any distance, but cannot extend across different planes of existence.\\
-\textbf{For each magical critical success rolled} in the Test of Magic the duration increases by 1 hour.
+\textbf{For each magical critical success rolled} in the Magic Test the duration increases by 1 hour.
 
 \medskip\textbf{Teleport}\index[Spells]{Teleport}\\
 \textbf{School}: Summon\\
@@ -11414,7 +11407,7 @@ You briefly stop the flow of time for everyone but you. Time does not pass for o
 \textbf{Components}: V, M (a small clay model of a ziggurat)\\
 \textbf{Duration}: 1 hour\\
 This spell gives the creature you were in contact with when you cast the spell the ability to understand any spoken language it hears. Additionally, when the target speaks, any creature that knows at least one language and can hear the target understands what it says. \\
-\textbf{For each magical critical success rolled} in the Test of Magic the duration doubles or affects another creature.
+\textbf{For each magical critical success rolled} in the Magic Test the duration doubles or affects another creature.
 
 \medskip\textbf{Tracer Bolt}\index[Spells]{Tracer Bolt}\\
 \textbf{School}: Invocation\\
@@ -11774,7 +11767,7 @@ Any creature hostile to you that enters a space within 3 meter of the guardian f
 \textbf{Duration}: Concentration, max 1 hour\\
 Choose a creature you can see within range. The creature is mystically marked as your prey. Until the spell ends, you deal an additional 1d6 points of damage to the target each time you hit them with a weapon attack, and you have +1d6 on Mindfulness or Survival checks to find it.\\
 If the target drops to 0 hit points before the spell ends, you can use an immediate action during your next round to mark a new creature.\\
-\textbf{For each magical critical success you roll} in the Test of Magic you can maintain your concentration on the spell for another hour.
+\textbf{For each magical critical success you roll} in the Magic Test you can maintain your concentration on the spell for another hour.
 
 \medskip\textbf{Moonglow}\index[Spells]{Moonglow}\\
 \textbf{School}: Invocation\\
@@ -11870,7 +11863,7 @@ The creature brought back to life must make a DC 13 Fortitude save or not come b
 \textbf{Component}: V, S, M (an offering to your Patron of at least 5 gp, which the spell consumes)\\
 \textbf{Duration}: Instant\\
 A creature at 0 Hit Points, with which you are in contact, returns to 1 HP. The spell has no effect on undead or constructs.\\
-\textbf{For each magical critical success you roll} in the Test of Magic you heal the creature 1d4 hit points.
+\textbf{For each magical critical success you roll} in the Magic Test you heal the creature 1d4 hit points.
 
 \medskip\textbf{Spirit Guardians}\index[Spells]{Spirit Guardians}\\
 \textbf{School}: Summon\\
@@ -11879,7 +11872,7 @@ A creature at 0 Hit Points, with which you are in contact, returns to 1 HP. The 
 \textbf{Range}: Self (4 meter radius)\\
 \textbf{Components}: V, S, M (a holy symbol)\\
 \textbf{Duration}: Concentration, max 10 minutes\\
-You summon spirits to protect you. For the duration, they will float around you at a distance of 4 meters. If you are good or neutral, the spectral form will be angelic or fey (your choice). If you are evil, they will look demon-like. When you cast this spell, you can designate any number of creatures to be immune to it. An affected creature's speed is halved within the area, and when a creature enters the area for the first time during a round or begins its round there, it must make a Will save. On a failed save, it takes 3d8 Light damage (if you are good or neutral) or 3d8 Void damage (if you are evil), or half as much damage on a successful one. \\
+You summon spirits to protect you. For the duration, they will float around you at a distance of 4 meters. You designed the aspect of your Spirit Guardians. When you cast this spell, you can designate any number of creatures to be immune to it. An affected creature's speed is halved within the area, and when a creature enters the area for the first time during a round or begins its round there, it must make a Will save. On a failed save, it takes 3d8 Light or Void damage, or half as much damage on a successful one. \\
 \textbf{For each magical critical success rolled} in the Magic Test the damage increases by 1d8
 
 
@@ -12027,7 +12020,7 @@ Fairy Dust, Uncommon, 2\\
 Searing Ray, Common, 2\\
 Heat Metal, Uncommon, 2\\
 Fireball, Common, 2\\
-Kyrin's Fire Acorn Hail, Rare, 3\\
+Kyrin Fire Acorn Hail, Rare, 3\\
 Fireball, Common, 3\\
 Summon Lesser Elementals, Uncommon, 4\\
 Wall of Fire, Uncommon, 4\\
@@ -12107,7 +12100,7 @@ Entangle, Common, 1\\
 Talking to Animals, Common, 1\\
 Purify Food and Drink, Common, 1\\
 Find Familiar, Legendary, 1\\
-Slippery, Common, 1\\
+Grease, Common, 1\\
 Friendship with Animals, Uncommon, 1\\
 Messenger Animal, Common, 2\\
 Good Berry, Common, 2\\
@@ -12121,7 +12114,7 @@ Barkskin, Common, 2\\
 Web, Common, 2\\
 Plant Growth, Uncommon, 3\\
 Summon Animals, Uncommon, 3\\
-Kyrin's Fire Acorn Hail, Rare, 3\\
+Kyrin Fire Acorn Hail, Rare, 3\\
 Kyrin Lemon Hail, Very Rare, 3\\
 Speak with Plants, Rare, 3\\
 Dominate Beasts, Common, 4\\
@@ -14299,7 +14292,7 @@ Usually a character with 1 part Weapon Proficiency or Magic Proficiency with 125
 \subsubsection{Other Wealth - Trade Goods}\index{Other Wealth}
 
 Merchants usually trade goods even without the use of coins.
-To get an idea of   commercial transactions, some trade goods are described in the table.
+To get an idea of commercial transactions, some trade goods are described in the table.
 
 \medskip
 
@@ -15283,7 +15276,7 @@ Aristocrat&Minimum of 10 gp\\
 
 \textbf{Affluent}. A character capable of adopting a comfortable lifestyle can afford quality clothes and take care of his equipment without difficulty. He lives in a house on a reputable block or has a private room at a quality inn. He associates with merchants, skilled craftsmen and military officers.
 
-\textbf{Rich}. A character who adopts a wealthy lifestyle lives in luxury, even if he may not have achieved the social prestige associated with the old values   of nobility and royal blood. He leads a lifestyle comparable to that of a highly successful merchant, a valued servant of a royal house, or an owner of some small business. He lodges in a respectable abode, usually a spacious house in a respectable part of town or a comfortable apartment at a well-known inn. He is probably assisted by a small group of servants.
+\textbf{Rich}. A character who adopts a wealthy lifestyle lives in luxury, even if he may not have achieved the social prestige associated with the old values of nobility and royal blood. He leads a lifestyle comparable to that of a highly successful merchant, a valued servant of a royal house, or an owner of some small business. He lodges in a respectable abode, usually a spacious house in a respectable part of town or a comfortable apartment at a well-known inn. He is probably assisted by a small group of servants.
 
 
 \begin{center}
@@ -16408,7 +16401,7 @@ Even when the adventurers meet an evildoer committed to committing the most horr
 
 Each city has its own laws regarding weapons that can be carried in public and restrictions on spells.
 
-City laws may not affect all characters equally. A man of faith moving with a weapon in tow is not hindered in any way by the law of lassoing weapons, but a spellcaster suffers a considerable reduction in his power if his Tome is confiscated at his hands. city   gates.
+City laws may not affect all characters equally. A man of faith moving with a weapon in tow is not hindered in any way by the law of lassoing weapons, but a spellcaster suffers a considerable reduction in his power if his Tome is confiscated at his hands. city gates.
 
 \textbf{Urban Elements}
 
@@ -16963,7 +16956,7 @@ Locks are often fitted with traps, usually poison needles that snap out to prick
 
 A special door might have a keyless lock, but one that requires guessing the right combination of nearby levers or pressing symbols on a panel in the correct order in order to open it.
 
-\textbf{Locked Doors}: Dungeons are often damp places, and in some cases doors get stuck, particularly if they are made of wood. It is usually assumed that approximately 10\% of wooden doors and 5\% of other doors are blocked. These values   can be doubled (to 20\% and 10\% respectively) in the case of long-abandoned or neglected dungeons.
+\textbf{Locked Doors}: Dungeons are often damp places, and in some cases doors get stuck, particularly if they are made of wood. It is usually assumed that approximately 10\% of wooden doors and 5\% of other doors are blocked. These values can be doubled (to 20\% and 10\% respectively) in the case of long-abandoned or neglected dungeons.
 
 \textbf{Barred Doors}: When a character tries to break through a barred door, it is the quality of the bar that makes the difference, not the material of the door itself. Breaking through a door closed by a wooden bar requires a Strength check with a DC of 25, and the DC rises to 30 in the case of a metal bar.
 
@@ -17304,7 +17297,7 @@ Anyone who always sets the trap in the same place will not catch any iguanas. (A
 Almost everywhere a trap can be encountered. Traps can be magical or mechanical in nature. Mechanical traps include pits, arrows, falling boulders, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. Magic traps are magical trap devices or trap spells. Magic trap devices when activated generate the effects of a spell. Trap spells are spells such as glyph of ward and symbol that function like traps.
 
 \textbf{The Traps in the Game}
-When the adventurers encounter a trap, you should know how the trap activates and what it does, as well as have an idea of   how the characters can spot the trap and be able to disarm or avoid it.
+When the adventurers encounter a trap, you should know how the trap activates and what it does, as well as have an idea of how the characters can spot the trap and be able to disarm or avoid it.
 
 \subsubsection{Trigger a Trap}
 Most traps are triggered when a creature travels to or touches something that the creator of the trap intended to protect. Normal activation systems are pressure plates or false floor sections, pulling a cord, turning a handle and using the wrong key in the lock. Magical traps often activate when a creature enters an area or touches an object. Some magical traps (such as the glyph of warding spell) have more complex triggering conditions, including using passwords to prevent the trap from activating.
@@ -18213,7 +18206,7 @@ While some heroes settle for the rewards of their exploits or hide behind a vene
 
 A hero who cannot tell anyone his story is soon forgotten, along with his untold efforts. The story of the prodigious deeds becomes the yardstick by which a hero is measured, and sculpts both his identity and his reputation.
 
-Reputation represents how the general public positively or negatively perceives the character. This perception precedes him, speaks for him in his absence and determines how he will be treated by those who have heard of him. Reputation does different things for different character types, based on the social and cultural values   of different regions. A character who embodies the qualities of a hero in one region might be considered depraved or lewd in another. An icon widely revered and respected in her homeland could slip from fame to oblivion if she travels to a neighboring kingdom.
+Reputation represents how the general public positively or negatively perceives the character. This perception precedes him, speaks for him in his absence and determines how he will be treated by those who have heard of him. Reputation does different things for different character types, based on the social and cultural values of different regions. A character who embodies the qualities of a hero in one region might be considered depraved or lewd in another. An icon widely revered and respected in her homeland could slip from fame to oblivion if she travels to a neighboring kingdom.
 
 When using these reputation rules, the Arbiter must establish what reputation means to the players and NPCs in the campaign. For example, a Viking-themed campaign might base its reputation on plunder.
 
@@ -18814,7 +18807,7 @@ Running as a move action doubles your movement speed, not triples it. Only in no
 
 \subsection{Table: Movement \& Distance \& Speed: Walk}\index{Movement by walking}\index{Table Movement \& Distance \& Speed: Walking}
 
-This table shows the basic ground movement values   in non-combat situations.
+This table shows the basic ground movement values in non-combat situations.
 
 \bigskip
 
@@ -18894,7 +18887,7 @@ He could decide to (among the various options):
 
 \end{tcolorbox}\end{changemargin}
 
-%\begin{changemargin}{0.3cm}{0.3cm}\begin{narrator}   %box narratore
+%\begin{changemargin}{0.3cm}{0.3cm}\begin{narrator} %box narratore
 %Se volete un crudo realismo allora è terreno difficile attraversare anche zone dove ci sono creature amichevoli. \end{narrator}\end{changemargin}
 
 \subsection{Local Movement}\index{Local Movement}
@@ -19042,7 +19035,7 @@ Carrying a roll of 12 meters x 6 meters of silk is not a demanding physical acti
 
 There may be light but extremely bulky objects (hollow trunks, silk carpets, in fact...) or small but very heavy objects (mercury spheres, gold-woven clothes), for all these objects the weight value must also be reasoned according to the clutter.
 
-Each object has its own Encumbrance value, in principle \textbf{every 3 kg there is 1 as Encumbrance factor}. This value can also become 5Kg if the object is easily transportable. The Encumbrance values   of the objects add together to give the total load carried to compare with the Cargo Capacity of the creature.\index{Weight and Encumbrance}
+Each object has its own Encumbrance value, in principle \textbf{every 3 kg there is 1 as Encumbrance factor}. This value can also become 5Kg if the object is easily transportable. The Encumbrance values of the objects add together to give the total load carried to compare with the Cargo Capacity of the creature.\index{Weight and Encumbrance}
 
 Objects with low weight and volume have encumbrance \textbf{Light} (L). These items count as 1 Encumbrance for every 10. Every 500 coins has 1 Encumbrance.\index{Encumbrance of money}
 
@@ -19064,7 +19057,7 @@ In case more creatures push the cart, consider the tallest one as CoC and add ha
 
 \subsubsection{Larger and Smaller Creatures}
 
-The \textbf{Table: Overall dimensions transported according to size}\index{Table Overall dimensions transported according to size} show the basic overall dimensions according to size. To the value given by the size must be added the values   of Strength and Constitution.\\
+The \textbf{Table: Overall dimensions transported according to size}\index{Table Overall dimensions transported according to size} show the basic overall dimensions according to size. To the value given by the size must be added the values of Strength and Constitution.\\
 
 \medskip
 
@@ -19220,7 +19213,7 @@ Take this experience points table
 2 & 11 px & 12 & 355 px\\
 3 & 25 px & 13 & 400 px\\
 4 & 60 px & 14 & 450 px\\
-5 &   100 px & 15 & 500 px\\
+5 & 100 px & 15 & 500 px\\
 6 & 130 px & 16 & 555 px\\
 7 & 165 px & 17 & 610 px\\
 8 & 200 px & 18 & 670 px\\
@@ -19496,7 +19489,7 @@ Table: Character Wealth by Level can also be used to allocate Equipment for char
 
 For a balanced method, characters that are created after 1st level should spend 25\% of their wealth on weapons, 25\% on Armour and protective items, 25\% on other magic items, 15\% for expendable items such as wands, scrolls, and potions, and 10\% for normal equipment and coins. Different character types may spend their wealth differently than suggested; for example, arcane spellcasters might spend more on consumable and magical items than on weapons.
 
-\textbf{Table: Treasure Values   per Encounter} lists the amount of treasure each encounter should award based on the average character level and XP progression rate of the campaign. Easy encounters should award treasure one-half the level of the average PC level. The most dangerous, difficult, and heroic encounters should respectively award a treasure one, two, or three levels higher than the PCs' average level. If the spell is rare in the game, halve these values. If the game is more epic, double these values.
+\textbf{Table: Treasure Values per Encounter} lists the amount of treasure each encounter should award based on the average character level and XP progression rate of the campaign. Easy encounters should award treasure one-half the level of the average PC level. The most dangerous, difficult, and heroic encounters should respectively award a treasure one, two, or three levels higher than the PCs' average level. If the spell is rare in the game, halve these values. If the game is more epic, double these values.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narrator}
 How to distribute treasure is an important matter. Treasures shouldn't be slammed in your face, much less hidden that you can't find them.
@@ -19519,7 +19512,7 @@ This will motivate players to continue exploring, face monsters, and actively se
 
 \medskip
 
-\textbf{Table: Treasure Values per Encounter}\index{Treasure}\index{Table Treasure Values   per Encounter}
+\textbf{Table: Treasure Values per Encounter}\index{Treasure}\index{Table Treasure Values per Encounter}
 
 \begin{tabularx}{0.45\textwidth}{XX|XX}
 
@@ -19529,7 +19522,7 @@ This will motivate players to continue exploring, face monsters, and actively se
 2 & 100 & 12 & 2200\\
 3 & 150 & 13 & 3000\\
 4 & 200 & 14 & 3700\\
-5 &   300 & 15 & 4500\\
+5 & 300 & 15 & 4500\\
 6 & 400 & 16 & 6000\\
 7 & 550 & 17 & 8000\\
 8 & 750 & 18 & 11000\\
@@ -19566,7 +19559,7 @@ In principle you can grant that a monster with Standard Treasure has 4\% of havi
 2 & 250 & 12 & 60000\\
 3 & 500 & 13 & 90000\\
 4 & 1000 & 14 & 120000\\
-5 &   2000 & 15 & 150000\\
+5 & 2000 & 15 & 150000\\
 6 & 3000 & 16 & 180000\\
 7 & 5000 & 17 & 220000\\
 8 & 9000 & 18 & 270000\\
@@ -19586,7 +19579,7 @@ Often it is sufficient to tell your players that they have found 5,000 gp in gem
 
 The information on the following pages can help you determine random treasure types: many of the items have been given values, but you can assign them as you see fit. It's easier to place the most expensive items first: if you like, you can also determine the magic items randomly using the tables in Magic Items, to determine which items are in the treasury.
 
-Once you have used up a considerable portion of the treasure's value, the rest can simply be scattered coins and non-magical items with values   defined according to your needs.
+Once you have used up a considerable portion of the treasure's value, the rest can simply be scattered coins and non-magical items with values defined according to your needs.
 
 \textbf{Coins}: Coins in a hoard can be copper, silver, gold, and platinum: silver and gold are the most common, but you can decide otherwise. For coins and their exchange value go to Equipment.
 
@@ -19616,7 +19609,7 @@ This cost increase grants no additional capabilities: a 40,000 gp gem-embellishe
 
 \textbf{Jewellery Normal} (100-500 gp): Most jewelery is made from silver, gold, jade, or coral, and often decorated with semi-precious gems or medium-grade gemstones. Normal jewelery includes all types of minor jewelery plus bracelets, necklaces and brooches.
 
-\textbf{Precious Jewels} (500 gp or more): Precious jewels are made of gold, mithral,   platinum, or similar rare metals. Such objects include types of plain jewelry plus sceptres, pendants, and other large objects.
+\textbf{Precious Jewels} (500 gp or more): Precious jewels are made of gold, mithral, platinum, or similar rare metals. Such objects include types of plain jewelry plus sceptres, pendants, and other large objects.
 
 \textbf{Finely Crafted Tools} (100-300 gp): This category includes tools for Professions or Skills: see Equipment for details and costs of these items.
 
@@ -19680,7 +19673,7 @@ At the same time there may be situations that prove unpleasant for some players 
 
 \subsection{About OBSS and dice rolls}\index{About OBSS and dice rolls}
 
-OBSS uses a unique dice rolling system mixing a 3d6 distribution with the potential of exploding 6s. This system manages to guarantee a good variance and even if by concentrating the results around the central values   of the distribution it leaves the upper limit open to particularly lucky shots.
+OBSS uses a unique dice rolling system mixing a 3d6 distribution with the potential of exploding 6s. This system manages to guarantee a good variance and even if by concentrating the results around the central values of the distribution it leaves the upper limit open to particularly lucky shots.
 
 If you want to have fun studying the corresponding curve, I recommend the site \href{https://anydice.com/}{Anydice}. This is the pseudo code to insert:
 
@@ -20851,7 +20844,7 @@ Ring Type 2 &17-18\\
 \textbf{1d100} & \textbf{Manuals and Tomes}\\
 1-9 & Golem Handbook\\
 10-24 & Handbook of Good Health\\
-25-40 & Action Speed   Manual\\
+25-40 & Action Speed Manual\\
 40-54 & Exercise Manual\\
 55-69 &Tome of Authority and Influence\\
 70-84 &Tome of Understanding\\
@@ -21901,7 +21894,7 @@ If you're not a dwarf, you gain the following additional benefits when wearing t
 - you have +2 on Saving Throws against poison and you have resistance to poison damage. You have darkvision with a range of 20 meters. You can speak, read, and write Dwarven.
 
 \index[MagicItem]{Helmet of Understanding Tongues}\subsubsection*{Helmet of Understanding Tongues}
-600 gp, common, While wearing this helm, you can use two actions to cast the spell comprehend languages   from it at will.
+600 gp, common, While wearing this helm, you can use two actions to cast the spell comprehend languages from it at will.
 
 \index[MagicItem]{Helmet of Luster}\subsubsection*{Helmet of Luster}
 75,000 gp, legendary, this glowing helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals, and 4d10 opals. Any gems extracted from the helmet are reduced to dust. When all gems are removed or destroyed, the helmet loses its magic. While wearing it you get the following benefits:
@@ -21916,7 +21909,7 @@ You can use two actions to cast one of the following spells, using a helmet gem 
 As long as it has at least one diamond, the helm emits light in a 30-foot radius when at least one undead is within this area. Any undead that starts its round within the area takes 1d6 points of light damage.
 
 \item
-As long as the helmet has at least one ruby   in it, you have resistance to fire damage.
+As long as the helmet has at least one ruby in it, you have resistance to fire damage.
 \end{itemize}
 
 \medskip
@@ -22009,7 +22002,7 @@ This wand has 7 charges. The wand regains 1d3 + 1 expended charges at dawn each 
 300 gp, uncommon, this wand points to the closest secret passageway within 6 meters. The effect consumes one charge of the 7 available, every day at dawn all charges are recovered.
 
 \index[MagicItem]{Wand of Light}\subsubsection*{Wand of Light}
-3500 gp, rare, a wand of light manifests several spells and consumes 1 charge + level of the manifested spell. The manifestable spells are: dancing lights, light, everlasting flame, daylight. Finally, by expending 5 charges, the wielder can create a beam of intense sunlight. The intense yellow-gold light has a range of 36 m, and forms a sphere of light with a diameter of 12 m. Anyone in the area of   effect is blinded and stunned for 1 round if they fail a DC 17 Fortitude save. The golden orb has a devastating effect on undead, inflicting 6d6 light wounds with no Saving Throw possible. This wand has 7 charges. The wand regains 2 expended charges at dawn each day. However, if you expend the wand's last charge, roll 1d6; if you roll a 1, the wand crumbles to dust and is destroyed.
+3500 gp, rare, a wand of light manifests several spells and consumes 1 charge + level of the manifested spell. The manifestable spells are: dancing lights, light, everlasting flame, daylight. Finally, by expending 5 charges, the wielder can create a beam of intense sunlight. The intense yellow-gold light has a range of 36 m, and forms a sphere of light with a diameter of 12 m. Anyone in the area of effect is blinded and stunned for 1 round if they fail a DC 17 Fortitude save. The golden orb has a devastating effect on undead, inflicting 6d6 light wounds with no Saving Throw possible. This wand has 7 charges. The wand regains 2 expended charges at dawn each day. However, if you expend the wand's last charge, roll 1d6; if you roll a 1, the wand crumbles to dust and is destroyed.
 
 \index[MagicItem]{Warmage Wand}\subsubsection*{Warmage Wand}
 1500/5500/25000 gp, uncommon (+1), rare (+2), or very rare (+3), while holding this wand, you gain a bonus on spell attack rolls determined by the wand's rarity. Also, you ignore light cover when you make a spell attack.
@@ -22116,7 +22109,7 @@ spend charges.
 - \textit{Tree Shape}. You can use two actions to plant one end of the staff in fertile ground and spend 1 charge to transform the staff into a vigorous fruit tree. The tree is 18 meters tall, with a trunk 1.5 meters in diameter; at the top its branches extend 6 meters. The tree looks like a normal tree but radiates a faint aura of transmutation magic if it is targeted by the detect magic spell. While in contact with the tree and using another action to speak its command word, you return the staff to its normal shape. Any creature on the tree falls when it transforms back into a staff.
 
 \index[MagicItem]{Staff of Charming}\subsubsection*{Staff of Charming}
-12,000 gp, rare, While holding this staff, you can use two actions to expend 1 charge to cast charm person, command, or understand languages   with it, using your DC of spell saves. The staff can be used as a magical fighting staff.
+12,000 gp, rare, While holding this staff, you can use two actions to expend 1 charge to cast charm person, command, or understand languages with it, using your DC of spell saves. The staff can be used as a magical fighting staff.
 
 If you are wielding the staff and fail a Saving Throw against an enchantment spell that targets only you and not an area, you can make the failed save a success. You cannot use this staff property again until dawn the following day.
 
@@ -22203,7 +22196,7 @@ Note: the Staff of the Archimage and of Power are similar, this is because they 
 28,000 gp, rare, by expending 1 charge, the wielder can cast dominate beasts, with 2 charges dominate people, and with 3 charges dominate monsters.
 
 \index[MagicItem]{Rod of Absorption}\subsubsection*{Rod of Absorption}
-50,000 gp, very rare, While holding this rod, you can use an Action to absorb a spell that targets only you and has no area of   effect. The absorbed spell's effect is canceled, and the spell's energy (not the spell itself) is absorbed by the rod. During its existence the rod can absorb and contain up to a sum of 31 Levels of spells. Once the rod has absorbed 8 spells (max level 4), it cannot absorb any more. If you are the target of a spell that the rod cannot contain, the rod has no effect on the spell. When you pick up the rod, you know how many spells the rod has absorbed so far. If you are a spellcaster and hold the rod, you can convert all the energy contained to have 10 more Spell Points.
+50,000 gp, very rare, While holding this rod, you can use an Action to absorb a spell that targets only you and has no area of effect. The absorbed spell's effect is canceled, and the spell's energy (not the spell itself) is absorbed by the rod. During its existence the rod can absorb and contain up to a sum of 31 Levels of spells. Once the rod has absorbed 8 spells (max level 4), it cannot absorb any more. If you are the target of a spell that the rod cannot contain, the rod has no effect on the spell. When you pick up the rod, you know how many spells the rod has absorbed so far. If you are a spellcaster and hold the rod, you can convert all the energy contained to have 10 more Spell Points.
 
 \index[MagicItem]{Immovable Rod}\subsubsection*{Immovable Rod}
 5,000 gp, Uncommon, this flat iron rod has a button on one end. You can use two actions to press the button, which causes the rod to magically stay in place. Until you or another creature uses two actions to press the button again, the rod won't move, even if it defies gravity. The rod can support up to 4000 kilos of weight. More weight causes the rod to deactivate and fall. A creature can use two actions to make a DC 30 Strength check, moving the rod 3 meter on a success.
@@ -22552,7 +22545,7 @@ rare, the wearer of this cursed ring is convinced that it has a power chosen by 
 cost varies, rarity varies, while wearing this ring, you have a +1 (5000 gp, rare), +2 (7500 gp, rare), +3 (12,000 gp, very rare) bonus to Defence and Saving Throws.
 
 \index[MagicItem]{Enchantment Keeping Ring}\subsubsection*{Enchantment Keeping Ring}
-35,000 gp, legendary, While wearing this ring, you have +1d6 on Saving Throws against any spell that targets only you and not an area of   effect. Additionally, if you make a critical saving success and the spell is 6-level or lower, the spell has no effect on you and instead targets the caster who cast the spell.
+35,000 gp, legendary, While wearing this ring, you have +1d6 on Saving Throws against any spell that targets only you and not an area of effect. Additionally, if you make a critical saving success and the spell is 6-level or lower, the spell has no effect on you and instead targets the caster who cast the spell.
 
 \index[MagicItem]{Ring of Regeneration}\subsubsection*{Ring of Regeneration}
 12,000 gp, very rare, while wearing this ring, you regain 1d6 hit points every 10 minutes, provided you have at least 1 hit point left. If you lose a body part, the ring causes the missing part to grow back to full function in 1d6 + 1 days, provided you always have at least 1 hit point left over the entire period.
@@ -22648,7 +22641,7 @@ You can use two actions to cast the web spell (save DC 15). The web created by t
 6000 gp, uncommon, while wearing this cloak with the hood pulled up, you can breathe underwater, and have a swim speed of 20 meters. Pulling the hood up or down takes 1 action.
 
 \index[MagicItem]{Cloak of the Bat}\subsubsection*{Cloak of the Bat}
-6,000 gp, rare, while wearing this cloak, you have +1d6 on Dexterity checks. In areas of dim light or darkness, you can grasp the edges of the cloak with both hands and use it to move at a flying speed of 12 meters. If you were to stop holding the edges of the Cape while flying this way, you would lose your flying speed. While wearing the Cloak in an area of   dim light or darkness, you can use your action to cast polymorph upon yourself, transforming you into a bat. While in bat form, maintain your Intelligence, Wisdom, and Charisma scores. The Cloak cannot be used in this way again until the next dawn.
+6,000 gp, rare, while wearing this cloak, you have +1d6 on Dexterity checks. In areas of dim light or darkness, you can grasp the edges of the cloak with both hands and use it to move at a flying speed of 12 meters. If you were to stop holding the edges of the Cape while flying this way, you would lose your flying speed. While wearing the Cloak in an area of dim light or darkness, you can use your action to cast polymorph upon yourself, transforming you into a bat. While in bat form, maintain your Intelligence, Wisdom, and Charisma scores. The Cloak cannot be used in this way again until the next dawn.
 
 \index[MagicItem]{Cloak of Protection}\subsubsection*{Cloak of Protection}
 varies in rarity, varies in cost, while wearing this cloak, you gain a +1 (uncommon, 3500 gp), +2 (rare, 6000 gp), +3 (very rare, 15000 gp) bonus to Defence and Saving Throws.
@@ -23028,7 +23021,7 @@ Alternatively, when you light the candle for the first time, you can cast the ga
 You and any creatures you designate when using the shackles can use two actions to remove them. Once every 30 days, the bound creature can make a DC 40 Strength check. On a successful one, the creature breaks free and destroys the shackles.
 
 \index[MagicItem]{Supreme Glue}\subsubsection*{Supreme Glue}
-400 gp, uncommon, this milky-white, viscous substance can form a permanent adhesive bond between any two objects. It must be contained in a jar or cruet that has been coated inside with oil of slipperiness. When found, its container holds 1d6 + 1 per pound. 30 grams of glue can cover a square area of   30 centimeters on each side. The glue takes 1 minute to set. Once the glue sets, the bond created can only be broken by the universal solvent or oil of the ethereal form, or by the wish spell.
+400 gp, uncommon, this milky-white, viscous substance can form a permanent adhesive bond between any two objects. It must be contained in a jar or cruet that has been coated inside with oil of slipperiness. When found, its container holds 1d6 + 1 per pound. 30 grams of glue can cover a square area of 30 centimeters on each side. The glue takes 1 minute to set. Once the glue sets, the bond created can only be broken by the universal solvent or oil of the ethereal form, or by the wish spell.
 
 \subsubsection*{Necklace of Salubrious Air}\index[MagicItem]{Necklace of Salubrious Air}
 2500 gp, uncommon, this necklace is a chain with a platinum medallion. The necklace's magic surrounds the wearer with a bubble of pure air, making them immune to the effects of vapors and gases. The bubble allows you to survive in an airless environment for a week.
@@ -23277,7 +23270,7 @@ Average undead, neutral evil
 
 \textbf{Hit Points} half his summoner's hit points
 
-\textbf{Movement}: Speed   18m, fly 18m (floats)
+\textbf{Movement}: Speed 18m, fly 18m (floats)
 
 \textbf{Immunity to Damage}: Void, poison
 
@@ -23285,7 +23278,7 @@ Average undead, neutral evil
 
 \textbf{Senses}: darkvision 18m, True Seeing 18m
 
-\textbf{Languages}: All languages   known to its summoner
+\textbf{Languages}: All languages known to its summoner
 
 \textbf{Challenge} (0 XP)
 
@@ -23300,7 +23293,7 @@ Average undead, neutral evil
 \index[MagicItem]{Miniature of Wondrous Power}\subsubsection*{Miniature of Wondrous Power}
 varying rarity, varying cost, a miniature of wondrous power is a figurine of a beast, small enough to fit in your pocket. If you use two actions to speak a command word and throw the figure to a point on the ground within 20 meters of you, the figure becomes a living creature. If the space where the creature would appear is occupied by another creature or object, or if there is not enough space for the creature, the figure does not transform.
 
-The creature is friendly towards you and your companions. It understands your languages   and obeys your orders. If you don't command it, the creature defends itself but takes no other actions. See the Bestiary for the creature's other stats.
+The creature is friendly towards you and your companions. It understands your languages and obeys your orders. If you don't command it, the creature defends itself but takes no other actions. See the Bestiary for the creature's other stats.
 
 The creature remains for the duration specified for each figure. At the end of the duration, the creature reverts to its miniature form. It transforms early if it drops to 0 hit points or if you use two actions to speak the command word again while touching it. After the creature reverts to a miniature, its properties can't be used again until a certain amount of time has passed, as specified in the miniature's description.
 
@@ -23429,7 +23422,7 @@ If a friendly swarm cannot hear the fife's music at the start of the round, your
 
 Each pot of paint is sufficient to cover 90 square meters of surface area, allowing you to create inanimate objects and terrain features (doors, pits, flowers, trees, cells, rooms, or weapons) that take up a total of 270 cubic meters. It takes 10 minutes to cover 90 squares.
 
-When you complete the painting, the painted terrain feature or object becomes a real, non-magical object. Thus, painting a door on a wall creates a real door that can be opened to access what lies beyond it. Painting a pit on the floor creates a real pit, the depth of which counts towards the total area of   items you can craft.
+When you complete the painting, the painted terrain feature or object becomes a real, non-magical object. Thus, painting a door on a wall creates a real door that can be opened to access what lies beyond it. Painting a pit on the floor creates a real pit, the depth of which counts towards the total area of items you can craft.
 
 Nothing created from pigments can be worth more than 25 gp. If you paint a higher value object (a diamond or a pile of gold), the object will appear authentic, but close examination will reveal that it is made of plaster, bone, or some other worthless material.
 
@@ -23977,7 +23970,7 @@ Furthermore, the city never appears in the same place but moves following a not 
 
 \subsubsection{The Silent Sea}
 
-There is a particular area of   sea, between three major islands and containing several smaller islands, where all sound is silenced. A sound that is generated in those waters, and not on dry land, is silenced. Two distinct floating cities dedicated to ancient psionic traditions have arisen.
+There is a particular area of sea, between three major islands and containing several smaller islands, where all sound is silenced. A sound that is generated in those waters, and not on dry land, is silenced. Two distinct floating cities dedicated to ancient psionic traditions have arisen.
 
 \subsubsection{Blue Gorilla Tower}
 
@@ -24877,7 +24870,7 @@ If a monster is naturally blind, this is noted in parentheses, indicating that t
 
 \subsection{Languages}
 
-The languages   a monster can speak are listed in alphabetical order. Sometimes a monster can understand a language but not speak it, and this is indicated in this entry. If a monster does not have the Languages note, it means it knows no languages other than its own tongue (if applicable).
+The languages a monster can speak are listed in alphabetical order. Sometimes a monster can understand a language but not speak it, and this is indicated in this entry. If a monster does not have the Languages note, it means it knows no languages other than its own tongue (if applicable).
 
 \subsection{Telepathy}
 
@@ -24885,7 +24878,7 @@ Telepathy is an ability that allows a monster to communicate mentally with anoth
 
 A telepathic monster need not see the contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range or if the telepathic monster contacts another creature within range. A telepathic monster can initiate or end a telepathic conversation without using an action, but while the monster is incapacitated, it cannot initiate telepathic contact, and any ongoing contact is ended. To initiate telepathic communication the target must have at least been identified.
 
-A creature in the area of   a \textit{anti-magic field} or anywhere else where magic doesn't work can send or receive telepathic messages.
+A creature in the area of a \textit{anti-magic field} or anywhere else where magic doesn't work can send or receive telepathic messages.
 
 \subsection{Challenge}
 
@@ -25510,7 +25503,7 @@ All angels respect the power and wisdom of Solars, and though they tend to work 
 
 \textit{\textbf{False Appearance.}} While the Armour remains immobile, it is indistinguishable from normal Armour.
 
-\textit{\textbf{Susceptibility to Anti-Magic.}} The Armour is incapacitated if it is in the area of   a \textit{anti-magic field}. If targeted by \textit{dispel} \textit{magic}, the Armour must succeed on a Fortitude save against the spell's save DC or be unconscious for 1 minute.
+\textit{\textbf{Susceptibility to Anti-Magic.}} The Armour is incapacitated if it is in the area of a \textit{anti-magic field}. If targeted by \textit{dispel} \textit{magic}, the Armour must succeed on a Fortitude save against the spell's save DC or be unconscious for 1 minute.
 
 \textbf{Actions}
 
@@ -25558,7 +25551,7 @@ All angels respect the power and wisdom of Solars, and though they tend to work 
 
 \textit{\textbf{False Appearance.}} While the weapon remains motionless and not flying, it is indistinguishable from a normal sword.
 
-\textit{\textbf{Susceptibility to Anti-Magic.}} The sword is incapacitated if it is in the area of   a \textit{anti-magic field}. If targeted by \textit{dispel} \textit{magic}, the sword must succeed on a Fortitude save against the spell's save DC or be unconscious for 1 minute.
+\textit{\textbf{Susceptibility to Anti-Magic.}} The sword is incapacitated if it is in the area of a \textit{anti-magic field}. If targeted by \textit{dispel} \textit{magic}, the sword must succeed on a Fortitude save against the spell's save DC or be unconscious for 1 minute.
 
 \textbf{Actions}
 
@@ -25605,7 +25598,7 @@ All angels respect the power and wisdom of Solars, and though they tend to work 
 
 \textit{\textbf{False Appearance.}} While the carpet remains motionless, it is indistinguishable from a normal carpet.
 
-\textit{\textbf{Susceptibility to Anti-Magic.}} The carpet is incapacitated while in the area of   a \textit{anti-magic field}. If targeted by \textit{dispel} \textit{magic}, the carpet must succeed on a Fortitude save against the DC of the caster's save or be knocked unconscious for 1 minute.
+\textit{\textbf{Susceptibility to Anti-Magic.}} The carpet is incapacitated while in the area of a \textit{anti-magic field}. If targeted by \textit{dispel} \textit{magic}, the carpet must succeed on a Fortitude save against the DC of the caster's save or be knocked unconscious for 1 minute.
 
 \textit{\textbf{Damage transfer.}} While grappling a creature, the carpet takes only half the damage dealt to it, and the creature grabbed by the carpet takes the other half.
 
@@ -26149,7 +26142,7 @@ If the basilisk is within 10 meters of its reflection in bright light and sees i
 \textbf{Ecology}\\
 Environment: Any\\
 Organization: Solitary, pair or colony (3-6)\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 The basilisk, often called the "King of Serpents" is an eight-legged reptile of an aggressive disposition that has the ability to turn creatures to stone with its gaze. Legend has it that, like the Cockatrice, the first basilisks were born from eggs laid by snakes and brooded by roosters, but very little in basilisk physiology leaves room for this theory.
 
@@ -26391,7 +26384,7 @@ at will: \textit{Produce Flame}
 \textbf{Ecology}\\
 Environment: Any\\
 Organization solitary, pair, patrol (2d4)\\
-\textbf{Honey}: none\\
+\textbf{Treasure}: none\\
 
 \textbf{Description}
 
@@ -26542,7 +26535,7 @@ At Will: \textit{Confusion (single target), Inflict Serious Wounds, Invisibility
 
 \textit{\textbf{Theft of the body}}
 
-By spending 3 Actions a Brains Eater can become tiny and crawl into the mouth/nose/ears of a helpless or dead creature and get to the brain to feed on it. This is an action that kills the creature. The brain devourer assumes control of the body and can use it at will, as if controlling the victim with a dominate monster spell. The Brains Eater has full access to all defensive and offensive abilities of the host except for spell-like abilities and spells (although the Brains Eater can still use its own spell-like abilities). A host body must not have been dead for more than 1 day for this ability to work, and even after successful occupation the bodies decompose and become useless in 7 days (unless this period is extended with the inviolate rest spell). While the Brains Eater occupies the body, he knows (and can speak) the languages   known to the victim and information about his identity and personality of hers, but cannot possess the specific memories and knowledge. Damage dealt to the host body, which has double its original hit points, does no harm to the brain devourer, and if the host body is destroyed the brain devourer exits and is stunned for 1 round.
+By spending 3 Actions a Brains Eater can become tiny and crawl into the mouth/nose/ears of a helpless or dead creature and get to the brain to feed on it. This is an action that kills the creature. The brain devourer assumes control of the body and can use it at will, as if controlling the victim with a dominate monster spell. The Brains Eater has full access to all defensive and offensive abilities of the host except for spell-like abilities and spells (although the Brains Eater can still use its own spell-like abilities). A host body must not have been dead for more than 1 day for this ability to work, and even after successful occupation the bodies decompose and become useless in 7 days (unless this period is extended with the inviolate rest spell). While the Brains Eater occupies the body, he knows (and can speak) the languages known to the victim and information about his identity and personality of hers, but cannot possess the specific memories and knowledge. Damage dealt to the host body, which has double its original hit points, does no harm to the brain devourer, and if the host body is destroyed the brain devourer exits and is stunned for 1 round.
 
 \textbf{Ecology}\\
 Environment: Any dungeon\\
@@ -26712,7 +26705,7 @@ Organization: Solitary, pair, group (3-6), or warband (7-12 plus 2 1st-level Fig
 \textbf{Description}\\
 The Bugbear is the largest of the goblinoid race, a heavy-moving brute that outnumbers most humans by at least a head. They are loners who prefer to live and kill alone rather than in tribes, although it is not uncommon to find a small band of Bugbears teaming up or living with a tribe of Goblins or Hobgoblins serving as elite guards or executioners.
 
-Bugbears don't form large settlements like goblins or nations like hobgoblins; they prefer something smaller and more chaotic that leaves them free to do what they like (killing and torturing) on   a more personal level. Humans are bugbears' favorite prey, and most bugbears count human flesh as a staple of their diets. Gruesome trophies such as ears and fingers are common decorations among bugbears.
+Bugbears don't form large settlements like goblins or nations like hobgoblins; they prefer something smaller and more chaotic that leaves them free to do what they like (killing and torturing) on a more personal level. Humans are bugbears' favorite prey, and most bugbears count human flesh as a staple of their diets. Gruesome trophies such as ears and fingers are common decorations among bugbears.
 
 Bugbears, when turning to religion, favor deities of murder and violence, with various demon lords being favorites. A typical Bugbear stands 2.1 meters tall and weighs 200 kg.
 
@@ -27316,7 +27309,7 @@ As native outsiders, couatls must eat. They prefer the same foods as true snakes
 \textbf{Ecology}\\
 Environment: Any dungeon\\
 Organization solitary, pair, tribe (8-12 +3d6 small)\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 
 A typical Crawling Tentacled Worm is an annelid nearly 10.5 meter long and weighing around 1,000 pounds. Dark in color (of various shades from blue to green to brown) it is a large worm with a powerful mouth and long, light tentacles along the entire head.
@@ -27539,7 +27532,7 @@ While stuck to the target, the darkmantle can't attack any other creature except
 
 A creature can detach the darkmantle as an action and with a successful DC 13 Strength check. During its round, the darkmantle can detach itself from the target by using 1 meter of movement.
 
-\textit{\textbf{Aura of Darkness (1/day).}} A magical darkness with a 5 meter radius extends from the darkmantle, moving with it, and spreading around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision cannot penetrate this darkness, nor can it be illuminated by any natural light. If any part of the darkness overlaps an area of   light created by a spell of 2 level or lower, the spell that is creating the light is dispelled.
+\textit{\textbf{Aura of Darkness (1/day).}} A magical darkness with a 5 meter radius extends from the darkmantle, moving with it, and spreading around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision cannot penetrate this darkness, nor can it be illuminated by any natural light. If any part of the darkness overlaps an area of light created by a spell of 2 level or lower, the spell that is creating the light is dispelled.
 
 \textbf{Ecology}
 Environment: Any (Dungeon)\\
@@ -28661,7 +28654,7 @@ Organization: Solitary, squad (2-3), council (4-10), or contingent (1-3 ice devi
 \textbf{Description}\\
 Enlightened strategists of Hell's armies, the insectoid ice devils are among the most ingenious and ruthless masterminds in Hell's legions. Known as a gelugon among the ranks of devils, an ice devil hides within its chest a frozen heart stolen from mortals, which allows it to make emotionless decisions. Born in the frozen circle of Cocytus, Hell's seventh circle, most ice devils migrate to Caina, the eighth circle, where they plot to damn the world from courts of icy steel. While they have the most alien and monstrous appearance of all devils, few others are accorded greater respect.
 
-In combat, a gelugon sends his subordinates forward, so that he can evaluate the tactics, strengths and weaknesses of the opponent in the rear, and provide them with support with his magical abilities, avoiding catching them in the area of   effect of his Spells: Attitude not due to a sense of camaraderie, but to the cold, logical truth that your allies can survive longer in a fight if they aren't exposed to friendly fire. Gelugons stand 10.5 meter tall and weigh approximately 800 pounds.
+In combat, a gelugon sends his subordinates forward, so that he can evaluate the tactics, strengths and weaknesses of the opponent in the rear, and provide them with support with his magical abilities, avoiding catching them in the area of effect of his Spells: Attitude not due to a sense of camaraderie, but to the cold, logical truth that your allies can survive longer in a fight if they aren't exposed to friendly fire. Gelugons stand 10.5 meter tall and weigh approximately 800 pounds.
 
 
 \
@@ -29204,7 +29197,7 @@ Tyrannosaurus is a primary predator measuring 12 meters in length and weighing 7
 \textbf{Ecology}\\
 Environment: Swamps\\
 Organization: group\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 {\small "...I moved the leaves of the marsh and saw on the ground a strange ball of fur, about ten centimeters in diameter, of a light color. Curious, I picked it up, stroking its soft fur and scrutinized it carefully. It seemed to have no limbs or signs of having a snout with eyes, ears, mouth, but as soon as I stroked it the ball vibrated, making a squeak.
 	
@@ -29223,8 +29216,6 @@ Organization: group\\
 \
 
 \textbf{Dog of Death}\index[Monsters]{Dog of Death}
-
-The Dog of Death is a hideous two-headed hound that prowls plains, deserts, and dungeons.
 
 \textit{Medium Monstrosity, Neutral Evil}
 
@@ -29265,6 +29256,9 @@ The Dog of Death is a hideous two-headed hound that prowls plains, deserts, and 
 \textit{\textbf{Bite.} Melee Weapon Attack}: +4 to hit, reach 1m, one target.
 
 \textit{Hit:} 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Fortitude save against the disease or be poisoned until the disease is cured. After every 24 hours, the creature must repeat the Saving Throw, reducing its maximum hit points by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its maximum hit points to 0.
+
+\textbf{Description}\\
+The Dog of Death is a hideous two-headed hound that prowls plains, deserts, and dungeons.
 
 \
 
@@ -32928,7 +32922,7 @@ Organization: Solitary, pair, gang (3-6), troop (1-2 plus 1-2 Brown Bears, gang 
 Ettins, or two-headed giants, are malevolent and unpredictable nocturnal hunters. The two heads grant him unparalleled powers of perception, making them excellent guardians.\\
 Ettins look like hill giants or stone giants, but their fanged faces betray orc ancestry. They have pinkish brown skin and never wash unless they have to, which makes them so dirty and grimy that their skin looks thick and gray.\\
 Adults are 3.9 meters tall and weigh 2,600 kg. Ettins live about 75 years.\\
-Ettins have no language of their own but speak a mix of Giant, Goblin, and Orc slang. Creatures that speak any of these languages   can communicate with an ettin by making a DC 15 Intelligence check. The check is made once for each piece of information; if the other creature speaks two of these languages   the DC is 10, while for someone who speaks all three it is 5.\\
+Ettins have no language of their own but speak a mix of Giant, Goblin, and Orc slang. Creatures that speak any of these languages can communicate with an ettin by making a DC 15 Intelligence check. The check is made once for each piece of information; if the other creature speaks two of these languages the DC is 10, while for someone who speaks all three it is 5.\\
 While ettins aren't very intelligent, they are cunning warriors. They prefer to ambush their victims rather than engage them in combat, but once battle has begun, an ettin fights furiously until the enemy is killed.\\
 Ettins are solitary creatures, making their home in the safety of rock caves and hollows, often surrounded by holes and ditches, and they sometimes keep cave bears as pets or guardians.\\
 A particularly powerful ettin can attract a group of followers, especially goblins or orcs. However, these gatherings are more of an exception, and rarely last long, with individualistic ettins going their separate ways as soon as opportunities for looting and robbery diminish or if the leader is killed.\\
@@ -33337,7 +33331,7 @@ Fighting without looking at the G.E.C. imposes -1d6 on attack rolls.
 \textbf{Ecology}\\
 Environment: Underground\\
 Organization: solitary, group (2-4) \\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 The Great Chitinous Being, or G.E.C, is an insect with a vague humanoid appearance almost 4 meters tall, powerful and equipped with two very strong and resistant claws capable of digging and shearing any material. 4 small, central and multi-faceted eyes give off a faint iridescent luminescence that confuse the creatures that meet their gaze.
 
@@ -33392,7 +33386,7 @@ Probably the result of some transformation spell gone bad the G.E.C. they are ma
 \textbf{Ecology}\\
 Environment: Anywhere\\
 Organization: Group (8-12), warband (10-24), or tribe (50+, 1 sergeant 3rd level per 20 adults, 1 or 2 lieutenants 4th or 5th level, 1 leader 6th -8th level, 6-12 wild wolves and 1-4 Ogres or 1-2 Gablin Champion)\\
-\textbf{Honey}: Occasional\\
+\textbf{Treasure}: Occasional\\
 \textbf{Description}\\
 The Gablin are the scum of the scum, it is said that a Gablin is born with every bad thought and surely there are so many.
 The Gablin are small humanoids with dark skin, with green streaks initially generated by the will of Cattalm with the sole purpose of bringing destruction, death and suffering.
@@ -33572,7 +33566,7 @@ Gargoyles tend to lead a solitary lifestyle, though they sometimes form fearsome
 
 Gargoyles are known to inhabit the heart of larger cities, hunkered down among the stone decorations of cathedrals and buildings where they hide in plain sight by day, swooping down to feed on vagrants, beggars and other unfortunates by night.
 
-The longer a gargoyle tribe dwells in an area of   buildings or ruins, the more its members begin to resemble the architectural style of the area. The changes a gargoyle's appearance undergoes are slow and subtle, but over the years they can become radical.
+The longer a gargoyle tribe dwells in an area of buildings or ruins, the more its members begin to resemble the architectural style of the area. The changes a gargoyle's appearance undergoes are slow and subtle, but over the years they can become radical.
 
 An unusual variant of the gargoyle does not live among buildings and ruins but under the waves of the sea. These creatures are known as kapoacinths; they have the same base statistics as normal gargoyles, except they have the aquatic subtype and their wings grant them a swim speed of 13 meters (but are useless for flying). Kapoacinths inhabit shallow coastal regions where they can crawl out of the surf to prey on area residents. They are more likely to form flocks, as kapoacinths prefer group life to solitary life.
 
@@ -33955,7 +33949,7 @@ Ghouls are undead who frequent graveyards and eat corpses. Legends hold that the
 Ghouls lurk at the fringes of civilization (in or near graveyards or city sewers) where they can source ample supplies of their favorite food. Though they prefer rotting bodies and often bury their victims to enhance the flavor, they eat the dead fresh if hungry enough.
 
 
-While many surface ghouls live primitively, rumors speak of ghoul cities deep underground ruled by priests who worship cruel ancient gods or strange demon lords of hunger. These "civilized" ghouls are no less horrific in their eating habits, and indeed their concept of a well-laid banquet table is perhaps even more horrific than the idea of   a fresh meal taken from a coffin.
+While many surface ghouls live primitively, rumors speak of ghoul cities deep underground ruled by priests who worship cruel ancient gods or strange demon lords of hunger. These "civilized" ghouls are no less horrific in their eating habits, and indeed their concept of a well-laid banquet table is perhaps even more horrific than the idea of a fresh meal taken from a coffin.
 
 \
 
@@ -35826,7 +35820,7 @@ Goblins are ravenous and can eat huge quantities of food. a goblin doesn't give 
 
 \textbf{Senses} darkvision 18m
 
-\textbf{Languages} understands its creator's languages   but cannot speak
+\textbf{Languages} understands its creator's languages but cannot speak
 
 \textbf{Challenge} 9 (5000 XP)
 
@@ -35895,7 +35889,7 @@ A clay golem can be sculpted from a single block of clay weighing at least 1,000
 
 \textbf{Senses} darkvision 18m
 
-\textbf{Languages} understands its creator's languages   but cannot
+\textbf{Languages} understands its creator's languages but cannot
 speak
 
 \textbf{Challenge} 5 (1,800 XP)
@@ -35966,7 +35960,7 @@ While many flesh golems lack reason, exceptional golems are said to have somehow
 
 \textbf{Senses} darkvision 40m
 
-\textbf{Languages} understands its creator's languages   but cannot speak
+\textbf{Languages} understands its creator's languages but cannot speak
 
 \textbf{Challenge} 16 (15000 XP)
 
@@ -36041,7 +36035,7 @@ To build an iron golem requires 2,500 kg of iron, fused with rare dyes worth at 
 
 \textbf{Senses} darkvision 40m
 
-\textbf{Languages} understands its creator's languages   but cannot speak
+\textbf{Languages} understands its creator's languages but cannot speak
 
 \textbf{Challenge} 10 (5,900 XP)
 
@@ -36255,7 +36249,7 @@ Terrifying wrinkled crones who haunt foul swamps and tangled forests, green hags
 \textbf{Ecology}: \\
 Environment any dungeon\\
 Organization: Solitary or Cluster (2-5)\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 
 \textbf{Description}
 The vermiform grick is the terror of the caverns and burrows it inhabits, waiting in ambush near busy tunnels or subterranean cities, to leap out of the darkness and capture its prey. It is rare for such prey to be consumed on the spot. The grick prefers to carry fresh food to its lair, a narrow burrow or to the high ledge of a cave, where it can consume it in small bites in peace.
@@ -36316,7 +36310,7 @@ Gricks rely on their dark color and ability to scale walls to keep out of sight 
 \textbf{Ecology}\\
 Environment: Temperate Hills\\
 Organization: Solitary, Pair, or Pack (6-10)\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 Griffon vultures are powerful aerial predators, swooping down from their towering nests to snatch their prey with their beaks and claws. Aggressive and territorial, they are no mere beasts, but cunning fighters and loyal companions to those who earn their respect, fighting to the death to protect their friends and kin.
 
@@ -36827,7 +36821,7 @@ A Hobgoblin is 1 meter tall and weighs 80 kg.
 
 \textbf{Senses} darkvision 18m, blindsight 3m
 
-\textbf{Languages} understands its creator's languages   but cannot speak
+\textbf{Languages} understands its creator's languages but cannot speak
 
 \textbf{Challenge} 0 (10 XP)
 
@@ -37590,7 +37584,7 @@ Organization: Solitary\\
 \textbf{Treasure}: NPC gear (Ring of Protection +2, Sash of Lore +2 (Awareness), Boots of Levitation, scroll of Dominate Person, scroll of Teleportation, potion of Invisibility)\\
 
 \textbf{Description}
-Few creatures are more feared than liches. The pinnacle of the necromantic arts, the lich is a spellcaster who has chosen to give up life and cheat death by becoming undead. While many who reach such heights of power would do anything to achieve immortality, the idea of   becoming a lich is abhorrent by many creatures. The process involves extracting the caster's life force and imprisoning it in a specially prepared phylactery; the spellcaster surrenders his life, but remains caught between life and death, and as long as his phylactery remains intact he can continue his research and work without fear of the passage of time.
+Few creatures are more feared than liches. The pinnacle of the necromantic arts, the lich is a spellcaster who has chosen to give up life and cheat death by becoming undead. While many who reach such heights of power would do anything to achieve immortality, the idea of becoming a lich is abhorrent by many creatures. The process involves extracting the caster's life force and imprisoning it in a specially prepared phylactery; the spellcaster surrenders his life, but remains caught between life and death, and as long as his phylactery remains intact he can continue his research and work without fear of the passage of time.
 
 
 
@@ -38064,7 +38058,7 @@ While manticores are similar to magical creations, they have long been counted a
 
 A creature that isn't surprised can look away to avoid the Saving Throw at the start of its round. In that case, he can't see the jellyfish until the start of his next round, when he can look away again. If he looks at the jellyfish in the meantime, he must immediately make the Saving Throw.
 
-If the medusa sees her reflection on a reflective surface within 10 meters of her in an area of   bright light, she is affected by her own gaze as a result of her own curse.
+If the medusa sees her reflection on a reflective surface within 10 meters of her in an area of bright light, she is affected by her own gaze as a result of her own curse.
 
 \textbf{Actions}
 
@@ -38413,7 +38407,7 @@ this grabs have -1d6.
 \textbf{Ecology}
 Environment: Any\\
 Organization: Solitary\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 Mimics are believed to be the result of an alchemist's attempt to bring an inanimate object to life through the application of a mystical reagent, the formula for which has been lost. Over the years, these strange but intelligent creatures have learned the ability to transform themselves into simulacra of manufactured objects, particularly in places rarely frequented by a small number of creatures, where they increase their chances of success with an attack on their victims.
 
@@ -38753,7 +38747,7 @@ DC 13 or fall prone.
 
 \textbf{Senses} darkvision 18m
 
-\textbf{Languages} the languages   he knew in life
+\textbf{Languages} the languages he knew in life
 
 \textbf{Challenge} 15 (13000 XP)
 
@@ -38862,7 +38856,7 @@ one with the bite and one with the tail.
 
 \textit{Hit:} 7 (1d8 + 3) slashing damage.
 
-\textit{\textbf{Appearances (Recharge after 1 hour).}} When not in bright light, the cloaker creates three illusory duplicates of itself, which move with it and mimic its actions, swapping positions to make it impossible to figure out what the real killer cloak is. If the original is in an area of   bright light, the duplicates vanish.
+\textit{\textbf{Appearances (Recharge after 1 hour).}} When not in bright light, the cloaker creates three illusory duplicates of itself, which move with it and mimic its actions, swapping positions to make it impossible to figure out what the real killer cloak is. If the original is in an area of bright light, the duplicates vanish.
 
 Whenever a creature targets the cloaker with an attack or harmful spell while duplicates are still present, that creature randomly determines whether it targets the cloaker or one of the duplicates. A creature that can't see or that relies on senses other than sight ignores this magical effect.
 
@@ -38928,7 +38922,7 @@ Their motivations are mysterious and confusing, and they distrust even their own
 \textbf{Ecology}\\
 Environment: Any dungeon\\
 Organization: Solitary, pair or scrub (3-12)\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 Purple mushrooms are one of the best known and most feared cave hazards. A traveler can often notice the marks left by the purple mushroom on those who live or hunt where these carnivorous mushrooms lurk. These deep, horrific scars look like furrows carved into the flesh—the marks of a close encounter with a purple mushroom.
 
@@ -38984,7 +38978,7 @@ A purple mushroom is 4 feet tall and weighs 50 pounds.
 \textbf{Ecology}\\
 Environment: Any dungeon\\
 Organization: Solitary, pair or scrub (3-12)\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 A screeching mushroom is about 50 cm tall, with a broad brown cap. Once the scream is emitted, the hat deflates.
 
@@ -39499,7 +39493,7 @@ What most races find terrifying about otyughs isn't their diet or the smell of t
 \textbf{Ecology}\\
 \textbf{Environment: Temperate Forests}
 Organization: Solitary, pair, or pack (3-8)\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 The origins of the Owlbear are a matter of debate among scholars of monstrous creatures. Most of them agree that it was a wizard, in the past, who created the first specimen by combining a bear with a giant owl; perhaps as an experiment in some insane concept of the nature of life, but more likely due to his utter madness. Whatever the original purpose of a creation as insane as the Owlbear, the creature has begun to reproduce, and has become one of the best-known predators of the woodlands.
 
@@ -39818,7 +39812,7 @@ Environment: Deserts and hot hills\\
 Organization: Solitary\\
 \textbf{Treasure}: Standard\\
 \textbf{Description}\\
-Legend has it that the Phoenixes are Ljust's pet birds, they are certainly majestic and beautiful creatures and they emanate a Light similar to that of the Patroness of Genesis. The movement of their wings makes no noise while their voice is singing. The phoenix is   a legendary bird of fire and light that usually lives in deserts. They are very intelligent and wise creatures and sometimes using their metamorphosis ability they go to cities where they help those who fight against the darkness.
+Legend has it that the Phoenixes are Ljust's pet birds, they are certainly majestic and beautiful creatures and they emanate a Light similar to that of the Patroness of Genesis. The movement of their wings makes no noise while their voice is singing. The phoenix is a legendary bird of fire and light that usually lives in deserts. They are very intelligent and wise creatures and sometimes using their metamorphosis ability they go to cities where they help those who fight against the darkness.
 
 \
 
@@ -40111,7 +40105,7 @@ If the worm takes 30 or more damage in a single turn from a creature within it, 
 \textbf{Ecology}\\
 Environment: Any dungeon\\
 Organization: Solitary\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 Purple worms are gigantic scavengers that inhabit the deepest regions of the world, eating any organic material they encounter. They are known to swallow their prey whole. It is not uncommon to hear of a group of adventurers disappearing into the ravenous jaws of a purple worm, screaming in terror as its members vanish one by one.
 
@@ -40517,9 +40511,9 @@ Environment any dungeon\\
 Organization: Solitary, pair, or nest (3-10)\\
 \textbf{Treasure}: Accidental (no metal treasure)\\
 \textbf{Description}\\
-Of all the terrifying beasts an explorer may encounter underground, only the rust monster targets the one the average adventurer values   most: his treasure.
+Of all the terrifying beasts an explorer may encounter underground, only the rust monster targets the one the average adventurer values most: his treasure.
 
-Typically 1 meter long and weighing at least 100 kg, the rust monster resembles a crustacean and would be scary enough even without the alien feeding process from which it takes its name. Rust-eaters eat metal objects, preferring those made of iron and ferrous alloys such as steel, but they also eat mithral,   adamantium, and enchanted metals with equal ease. Any metal touched by the rust monster's delicate antennae or Armoured hide corrodes and crumbles to dust in seconds, making it one of the most feared beasts by subterranean adventurers and Dwarf miners who must defend their forges and compete with them for gold.
+Typically 1 meter long and weighing at least 100 kg, the rust monster resembles a crustacean and would be scary enough even without the alien feeding process from which it takes its name. Rust-eaters eat metal objects, preferring those made of iron and ferrous alloys such as steel, but they also eat mithral, adamantium, and enchanted metals with equal ease. Any metal touched by the rust monster's delicate antennae or Armoured hide corrodes and crumbles to dust in seconds, making it one of the most feared beasts by subterranean adventurers and Dwarf miners who must defend their forges and compete with them for gold.
 
 While rust monsters have no innate tendency for violence, their insatiable hunger drives them to charge anything that comes close with enough metal on them, and any resistance is met with unexpected ferocity. It is not uncommon for rust monsters in metal-poor areas to follow fleeing victims for days using their metal sniffing ability, provided they still have metal objects intact.\\
 Fortunately, it is often possible to escape a rust monster's attentions by throwing a dense metal object, such as a shield, at it and running in the opposite direction. Those who frequent rust monster-infested areas quickly learn to keep wooden or stone weapons close at hand.
@@ -40899,7 +40893,7 @@ The children born of these encounters are always full-blooded satyrs and are gen
 
 \textit{\textbf{Weakness to sunlight.}} While in sunlight, the shadow has -1d6 on attack rolls, proficiency checks, and Saving Throws.
 
-\textit{\textbf{Spirit of the Shadow.}} While in an area of   dim light the Shadow regenerates 5 Hit Points at the start of its round, if in an area of   darkness it regenerates 10 Hit Points at the start of its round and can become invisible using 1 Action. Shadow Spirit increases the Shadow's Challenge Rating by 1.
+\textit{\textbf{Spirit of the Shadow.}} While in an area of dim light the Shadow regenerates 5 Hit Points at the start of its round, if in an area of darkness it regenerates 10 Hit Points at the start of its round and can become invisible using 1 Action. Shadow Spirit increases the Shadow's Challenge Rating by 1.
 
 \textit{\textbf{Shadow Stealth.}} When in dim light or darkness, the shadow can take the Hide action as a bonus action.
 
@@ -41022,7 +41016,7 @@ Dark gray to brown in color, they prefer to hide in the dark and attack when hun
 
 \textbf{Senses} darkvision 18m
 
-\textbf{Languages} understands all the languages   he spoke in life but cannot speak
+\textbf{Languages} understands all the languages he spoke in life but cannot speak
 
 \textbf{Challenge} 1/4 (50 XP)
 
@@ -41237,7 +41231,7 @@ A submerged creature can attempt to escape by taking an action to make a DC 12 S
 \textbf{Ecology}
 Environment any dungeon\\
 Organization: Solitary\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 One of the dungeons' most unusual and peculiar predators, gelatinous cubes spend their existence aimlessly roaming underground tunnels and dark caverns, consuming organic materials such as plants, refuse, carrion, and even living creatures. Matter that the cube cannot digest, such as metal and stone, fills the creature's volume with debris, and it can sometimes expel some of it from its body. Often the treasure and possessions of past victims remain inside the gelatinous cube: ghostly image of their material remains.
 
@@ -42878,7 +42872,7 @@ A Vampire can decide to create a vampire spawn from a victim instead of making a
 \textbf{Ecology}\\
 \textbf{Environment: Underground}
 Organization: Solitary, pair, or pack (3-8)\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 The Wallcrawler Horror is a ferocious predator of the underground, aggressively defending its hunting grounds. The subterranean caverns in which these creatures dwell thunder with the thumping and swishing of their hooks as these creatures clamber up rocky cliffs or cave walls.
 
@@ -42888,7 +42882,7 @@ A wall-crawler horror is a monstrous creature with a vulture-like head and a mas
 
 \textit{Pack of Raiders}. Wallcrawler Horrors are omnivorous creatures: they feed on fungi, lichens, plants, and any creature they can catch. With their hooked limbs, horrors gain a good grip on rocky surfaces and use their climbing skills to ambush prey from above. They hunt in packs and work together to take on the biggest and most dangerous opponents. If a battle goes badly, a wall-climbing horror quickly scrambles up a cave wall to escape.
 
-\textit{Solidarity Clans}. Hook horrors live in large family groups or clans. Each clan is led by the eldest female, who usually places her mate in charge of the clan's hunters. Wallcrawler Horrors spawn in a central, well-defended area of   caves used as lairs.
+\textit{Solidarity Clans}. Hook horrors live in large family groups or clans. Each clan is led by the eldest female, who usually places her mate in charge of the clan's hunters. Wallcrawler Horrors spawn in a central, well-defended area of caves used as lairs.
 
 \
 
@@ -43525,7 +43519,7 @@ Organization: Solitary, Pair, or Pack (3-8)\\
 \textbf{Treasure}: Standard + 10\% Textbooks and Tomes\\
 \textbf{Description}\\
 The wise Owlbear's origins are as mysterious as those of its unwise kin, but aficionados of these creatures claim it directly descended from Nethergal as a variant of the original Owlbear.
-Usually the wise Owlbear loves to surround himself with books and adores the company of other wise men but does not disdain the tales of adventurers and the enthralling ballads of Arbiters. The wise Owlbear has a real talent for languages   and although he cannot speak in a way understandable to a man he can understand many spoken and written languages   and in a few days he is able to learn new ones (such as Universal Language Advantage) both spoken and written. Wise Owlbear is able to read any language or code if he has the opportunity to study it for 3 days.
+Usually the wise Owlbear loves to surround himself with books and adores the company of other wise men but does not disdain the tales of adventurers and the enthralling ballads of Arbiters. The wise Owlbear has a real talent for languages and although he cannot speak in a way understandable to a man he can understand many spoken and written languages and in a few days he is able to learn new ones (such as Universal Language Advantage) both spoken and written. Wise Owlbear is able to read any language or code if he has the opportunity to study it for 3 days.
 Usually weaker and more fragile than the close relative, they are however fearsome beings in combat.
 Preferably a wise Owlbear does not attack except in Defence and seeks as tactical and useful an approach as possible. A characteristic trait of wise Owlbears is a scarf worn around the absent neck. Killing a wise Owlbear is an affront to the Devotees and Followers of Nethergal, it has also happened that the Patron himself takes away the ability to communicate to those who have been guilty of cruelty with his favorite creatures.
 
@@ -43567,7 +43561,7 @@ The Mage Hand spell is usually used to leaf through the more delicate tomes and 
 
 \textbf{Senses} darkvision 40m
 
-\textbf{Languages} the languages   he knew in life
+\textbf{Languages} the languages he knew in life
 
 \textbf{Challenge} 2 (450 XP)
 
@@ -43592,7 +43586,7 @@ The Mage Hand spell is usually used to leaf through the more delicate tomes and 
 \textbf{Ecology}
 Environment any swamp\\
 Organization: Solitary, pair or sequence (3-4)\\
-\textbf{Honey}: Accidental\\
+\textbf{Treasure}: Accidental\\
 \textbf{Description}\\
 Every hunter and farmer who lives near a marsh or marsh has named these orbs of dim light: jack lanterns, candles of the dead, walking fires, pine lights, ghost lights, rush lights; but everyone knows that they are dangerous predators and false guides in the dark.
 
@@ -43963,7 +43957,7 @@ Xorns are not terribly religious, but those among them who find faith are usuall
 
 \textbf{Senses} darkvision 18m
 
-\textbf{Languages} understands all the languages   he spoke in life but cannot speak
+\textbf{Languages} understands all the languages he spoke in life but cannot speak
 
 \textbf{Challenge} 1/4 (50 XP)
 
