@@ -238,7 +238,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 30/01/2023 aggiornata versione POD
 
-0.66 pubblicata versione 0.65, aggiornata copertina, 
+0.66 pubblicata versione 0.65, aggiornata copertina, aggiunto suggerimento opzionale per mostri arrabbiati, 
 
 
 - aggiunti \label{} fino a la magia
@@ -249,6 +249,7 @@ Aggiungere immagini:
 
 
 > valutare:
+- aggiungere bloodied ai singolo mostri
 - sistema di bonus malus ridotto. Puoi avere diversi e numerosi Bonus o Malus (Bonus or Banes). Ognuno pesa 1d4, si cumulano e si scartano a vicenda. Simile alla one rules ? solo che i bonus sono ridotti.
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
 - indicazioni su sessione zero, quali domande, cosa dire
