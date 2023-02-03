@@ -272,3 +272,19 @@ Aggiungere immagini:
 - abilita' probabile altre. capire cosa, attenzione in testing a richieste che esulano o spaccano sistema
 - analizzare gestione mancanti, punti troppo forti, punti esploitabili, valutare sempre con attenzione quando dettagliare quando dare indicazioni
 - gestione opzioni: sono troppe ? analizzare altri sistemi per capire se si sta esagerando. Controllare opzioni e stabilire quale debbano rimanere e quali essere default
+
+and 4e making all spells use attack rolls while saving throws were specifically to end ongoing effects was brilliant.
+abilita': non usi spell point ma devi sempre supereare prova di magia, con meno dadi a seconda del livello spell
+A Boon or Bane adds or subtracts 1d6 to/from your d20 roll. If you have multiple then you take the highest roll and use that. So 3 Boons rolling 2, 4, and 5 would add 5 to your d20 roll.
+usage dice
+I'd rather replace them with traits that just....give you benefits. Rather than a Religion skill, your character is "Religious" and they can invoke it just to know things about religion instead of having to roll. Rather than a Perception skill, your character is "Perceptive" and immune to Surprise or something. Now, I don't need to pump my Dex just to have a good stealth roll; I can just be "Stealthy."
+I just read a German roleplaying system that was incredibly simple. The only way to level a skill, was to roll a 4 on a 1d4 when using said skill.
+
+Say for example, you were trying to do an athletics check. Roll a 1d4, and on a 4, your athletics check improves, and you may now roll 2d4. Next time you roll a 4 on both dice, you level that skill again. Of course the more dice are added, the harder it becomes to level that skill further. But it means you can only improve a skill by using it.
+
+I appreciate the simplicity of this system, even if d4's are kinda crap to roll with.
+Could use d6 instead, and say the first level requires 6, while every level thereafter requires 5 or 6. Things will level slightly faster after that initial hump, but that really only makes it about 1 level faster for most achievable levels due to the exponential nature of the difficulty curve, e.g. 3^4 is roughly comparable to 4^3, and 3^5 is actually not far off from 4^4. Anything past that is largely not going to be worth seeking, since 3^6 is 729 and 4^5 is 1024. You probably won't roll enough skill rolls to level it up any further, either way.
+
+Each type of action uses X number of action points and your reactions are included in those 3 points. For example: a Normal attack is 2 AP, a Slow attack is 3 AP with a bonus to the roll, and a Fast attack is 1 AP with a penalty to the roll. Defending against an attack is 1 AP and is a reaction. You aren't automatically hit if you don't defend. Defending just gives you an additional chance to thwart your enemies by reducing damage, disarming them, making a counterattack, etc. Refreshing AP at the end of the turn like @FrozenNorth suggested sounds like a cool optional rule that I will need to try next time I play.
+
+
