@@ -1,3 +1,21 @@
+**06/02/2023**
+
+Quanto ha senso fare un altro manuale che e' una variante del precedente? Solo perche' cambiano i dadi da tirare, i bonus li calcoli cosi' o cosa'.. allora si fa un nuovo manuale ?
+direi proprio di no...
+
+Probabilmente si deve cambiare approccio in maniera radicale, prima parti dall'ambientazione poi ci costruisci il sistema attorno.
+Questo anche per non creare un insieme vuoto di regole, prive di coerenza narrativa.
+
+Questo non e' certo positivo per me che sono un "tecnico", un regolista...
+
+E' la morte di OBSS o di Dark Catacomb ? probabilmente no pero' sono sempre piu' convinto che serva un approccio diverso.
+Vale anche un discorso contrario, che ci si specializza in una tipologia di sistemi e poi si perfeziona sempre di piu'.
+
+Se si vuole fare un lavoro fatto bene a questo punto e' necessario costruire in maniera certosina le basi, partire con un progetto gia' stabile, perche' se parti e poi migliori.. non termini mai.
+Che sia meglio un sistema finito ma perfettibile ? No.
+Se mai parto con DC la sviluppo sara' ben piu' rapido.
+
+
 **25/01/2023**
 
 la situazione attuale e' ancora molto fluida. Sicuramente i passi indietro della WOTC hanno aiutato la consapevolezza nel definire i gdr e DnD come un prodotto basato sulla condivisione di esperienze e gioco. 
