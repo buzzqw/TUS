@@ -238,7 +238,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 30/01/2023 aggiornata versione POD
 
-0.66 pubblicata versione 0.65, aggiornata copertina, aggiunto suggerimento opzionale per mostri arrabbiati, specificato che ogni manovra conta come un attacco, aggiornata Unica Regola, modificato l'effetto critico su disperdi magia avanzato, corretto esempio max livello incantesimo lanciabile, corretta formula max livello incantesimo lanciabile, rimossi esempi di personaggi per stile, orsogufo e' un animale, alcune correzioni su capacita' date dai patroni, totally update and better translate traits and patron's trait, fix english till charge, flagello pesante non e' un arma doppia, il falcione non e' un arma lunga, naginata fa 1d12, sistemata lista armi rompi cranio, tridente non e' una lancia, aggiornate altre liste d'armi, 
+0.66 pubblicata versione 0.65, aggiornata copertina, aggiunto suggerimento opzionale per mostri arrabbiati, specificato che ogni manovra conta come un attacco, aggiornata Unica Regola, modificato l'effetto critico su disperdi magia avanzato, corretto esempio max livello incantesimo lanciabile, corretta formula max livello incantesimo lanciabile, rimossi esempi di personaggi per stile, orsogufo e' un animale, alcune correzioni su capacita' date dai patroni, totally update and better translate traits and patron's trait, fix english till charge, flagello pesante non e' un arma doppia, il falcione non e' un arma lunga, naginata fa 1d12, sistemata lista armi rompi cranio, tridente non e' una lancia, aggiornate altre liste d'armi, aggiornate armi rimossa lancia leggera da fante perche' uguale al giavellotto, correct yards to meters, 
 
 
 - aggiunti \label{} fino a la magia
