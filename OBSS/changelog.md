@@ -272,13 +272,11 @@ Aggiungere immagini:
 - analizzare gestione mancanti, punti troppo forti, punti esploitabili, valutare sempre con attenzione quando dettagliare quando dare indicazioni
 - gestione opzioni: sono troppe ? analizzare altri sistemi per capire se si sta esagerando. Controllare opzioni e stabilire quale debbano rimanere e quali essere default
 
-and 4e making all spells use attack rolls while saving throws were specifically to end ongoing effects was brilliant.
-abilita': non usi spell point ma devi sempre supereare prova di magia, con meno dadi a seconda del livello spell
+- eliminare Tiri salvezza, il tuo tiro per colpire/prova di magia deve essere superiore ad un valore statico, dipendente da livello abilita', dell'avversario
+- abilita': non usi spell point ma devi sempre supereare prova di magia, con meno dadi a seconda del livello spell
+- usage dice
+- al posto di competenze usare professione con lista "espansa", avvero dei tratti ma professionali / di competenza
 
-usage dice
-
-I'd rather replace them with traits that just....give you benefits. Rather than a Religion skill, your character is "Religious" and they can invoke it just to know things about religion instead of having to roll. Rather than a Perception skill, your character is "Perceptive" and immune to Surprise or something. Now, I don't need to pump my Dex just to have a good stealth roll; I can just be "Stealthy."
-I just read a German roleplaying system that was incredibly simple. The only way to level a skill, was to roll a 4 on a 1d4 when using said skill.
 
 Say for example, you were trying to do an athletics check. Roll a 1d4, and on a 4, your athletics check improves, and you may now roll 2d4. Next time you roll a 4 on both dice, you level that skill again. Of course the more dice are added, the harder it becomes to level that skill further. But it means you can only improve a skill by using it.
 I appreciate the simplicity of this system, even if d4's are kinda crap to roll with.
