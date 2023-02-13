@@ -238,7 +238,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 30/01/2023 aggiornata versione POD
 
-0.66 pubblicata versione 0.65, aggiornata copertina, aggiunto suggerimento opzionale per mostri arrabbiati, specificato che ogni manovra conta come un attacco, aggiornata Unica Regola, modificato l'effetto critico su disperdi magia avanzato, corretto esempio max livello incantesimo lanciabile, corretta formula max livello incantesimo lanciabile, rimossi esempi di personaggi per stile, orsogufo e' un animale, alcune correzioni su capacita' date dai patroni, totally update and better translate traits and patron's trait, fix english till charge, flagello pesante non e' un arma doppia, il falcione non e' un arma lunga, naginata fa 1d12, sistemata lista armi rompi cranio, tridente non e' una lancia, aggiornate altre liste d'armi, aggiornate armi rimossa lancia leggera da fante perche' uguale al giavellotto, correct yards to meters, aggiunto effetto critico ulteriore per esilio, fixed solar flare, fixed wall of stone spell, fixed english spell name, some fixes, aggiunto vantaggio molto fortunato, aggiunto quarto potenziamento a figlia di shayalia, 
+0.66 pubblicata versione 0.65, aggiornata copertina, aggiunto suggerimento opzionale per mostri arrabbiati, specificato che ogni manovra conta come un attacco, aggiornata Unica Regola, modificato l'effetto critico su disperdi magia avanzato, corretto esempio max livello incantesimo lanciabile, corretta formula max livello incantesimo lanciabile, rimossi esempi di personaggi per stile, orsogufo e' un animale, alcune correzioni su capacita' date dai patroni, totally update and better translate traits and patron's trait, fix english till charge, flagello pesante non e' un arma doppia, il falcione non e' un arma lunga, naginata fa 1d12, sistemata lista armi rompi cranio, tridente non e' una lancia, aggiornate altre liste d'armi, aggiornate armi rimossa lancia leggera da fante perche' uguale al giavellotto, correct yards to meters, aggiunto effetto critico ulteriore per esilio, fixed solar flare, fixed wall of stone spell, fixed english spell name, some fixes, aggiunto vantaggio molto fortunato, aggiunto quarto potenziamento a figlia di shayalia, aggiunta opzione di combattimento colpo preciso, modificato maestria in combattimento, modificati colpi potenti, specificato che in Prendere la Mira non ti puoi muovere, 
 
 
 - aggiunti \label{} fino a la magia
@@ -271,7 +271,6 @@ Aggiungere immagini:
 - abilita' probabile altre. capire cosa, attenzione in testing a richieste che esulano o spaccano sistema
 - analizzare gestione mancanti, punti troppo forti, punti esploitabili, valutare sempre con attenzione quando dettagliare quando dare indicazioni
 - gestione opzioni: sono troppe ? analizzare altri sistemi per capire se si sta esagerando. Controllare opzioni e stabilire quale debbano rimanere e quali essere default
-
 - eliminare Tiri salvezza, il tuo tiro per colpire/prova di magia deve essere superiore ad un valore statico, dipendente da livello abilita', dell'avversario
 - abilita': non usi spell point ma devi sempre supereare prova di magia, con meno dadi a seconda del livello spell
 - usage dice
@@ -283,5 +282,3 @@ I appreciate the simplicity of this system, even if d4's are kinda crap to roll 
 Could use d6 instead, and say the first level requires 6, while every level thereafter requires 5 or 6. Things will level slightly faster after that initial hump, but that really only makes it about 1 level faster for most achievable levels due to the exponential nature of the difficulty curve, e.g. 3^4 is roughly comparable to 4^3, and 3^5 is actually not far off from 4^4. Anything past that is largely not going to be worth seeking, since 3^6 is 729 and 4^5 is 1024. You probably won't roll enough skill rolls to level it up any further, either way.
 
 Each type of action uses X number of action points and your reactions are included in those 3 points. For example: a Normal attack is 2 AP, a Slow attack is 3 AP with a bonus to the roll, and a Fast attack is 1 AP with a penalty to the roll. Defending against an attack is 1 AP and is a reaction. You aren't automatically hit if you don't defend. Defending just gives you an additional chance to thwart your enemies by reducing damage, disarming them, making a counterattack, etc. Refreshing AP at the end of the turn like @FrozenNorth suggested sounds like a cool optional rule that I will need to try next time I play.
-
-
