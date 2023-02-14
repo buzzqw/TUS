@@ -249,7 +249,7 @@ Aggiungere immagini:
 
 
 > valutare:
-- aggiungere bloodied ai singolo mostri
+- aggiungere bloodied/Arrabbiato ai singolo mostri
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
 - indicazioni su sessione zero, quali domande, cosa dire
 - combattimento sociale, ampliare
