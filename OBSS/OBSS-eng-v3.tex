@@ -2048,7 +2048,7 @@ Every time the Arbiter confirms that you have leveled up, you have to carry out 
 
 - If you have assigned a point in Weapon Proficiency, establish whether you take a new Weapon List or deepen your knowledge of an already learned list.
 
-- Checked if you take a new Feat or improve an existing Feat, pay attention to the prerequisites.
+- Checked if you take a new Feat or improve an existing Feat, pay attention to the prerequisites. Remember that you get a new Feat at all levels except 5-10-15-20.
 
 - Updated the Save Throw scheme based on the new Feat taken.
 
@@ -3128,7 +3128,7 @@ Other times the opponent is surprised and cannot fully defend himself.
 
 If it is \textbf{enough to touch the opponent} the Defence will be 10 + Dexterity + magic bonuses + Feats, without Shield and Armour bonuses. This is the value of \textbf{Touch Defence}.
 
-If \textbf{the opponent is surprised} or does not expect the attack, the Defence will suffer -3 penalty. This is the value of \textbf{Surprise Defence}.
+If \textbf{the opponent is surprised} or does not expect the attack, the Defense will have a -4 penalty and also the Reflex saving throws. This is the value of the \textbf{Surprise Defense}.
 
 \textbf{The Golden Rules also apply to shooting to hit. The d6 explode in case you roll 6 with the die, make 1 bad luck and trust of luck (i.e. subtract 4 points between Weapon Proficiency and Strength or Dexterity to add 1d6 to the Attack Roll, not from the bonuses given by Feats or magic items).}
 
@@ -18625,6 +18625,8 @@ Terrain where creature bodies are present is considered difficult\index{Muoversi
 \index{Through enemies}\index{Moviment through}A character may \textbf{cross} but not stop in \textbf{a zone occupied} by a companion without being \hyperlink{ristretto}{\textbf{restrict}}\index{Restrict}. If the movement takes him to \textbf{sharing}\index{Sharing place} the same square of the map (assuming both medium-sized creatures) he will have a -1d6 to attack roll and a -4 to Defence.
 
 To cross terrain where there is a hostile creature, it is necessary to make a Saving Throw or Reflex or Fortitude opposed (your choice) to that of the opponent whose terrain you want to \textbf{cross} through. If you fail the check, you return to the closest square other than that of the creature you wanted to cross, potentially sharing it with someone, and the Action (the movement and attempt to cross) is considered finished. If the enemy has the Feat\hyperlink{opportunista}{Opportunist} besides obstructing the passage he can perform an attack. It costs 1 Action.
+
+Two small size creatures con share the square map.
 
 \subsubsection{Exchange places}\index{Exchange places}
 
@@ -49121,17 +49123,39 @@ The greatness of man is in the decision to be stronger than his condition. (Albe
 
 \label{condizioni}
 
-\textbf{Dice Increase}\index{Dice Increase}\index{Dice Size}: when the rule tells you to increase the size of a die, follow this pattern.
 
-1d4 > 1d6 > 1d8 > 1d10 > 2d6 > 2d8 > 2d10 > 3d6 > 3d8 > 3d10
+
+
+\textbf{Bleeding}\index{Bleeding}\index{Bleeding}\hypertarget{bleeding}{}: A creature that is taking bleed damage takes the listed amount of damage at the start of its round. Bleeding can be reduced with a successful DC 12 First Aid check, 2 Actions.
+
+For each Bleeding value above 1 the difficulty increases by 2. Cost \textbf{2 Actions}. A 1 minute treatment guarantees 1 success, no check. Each critical success reduces the bleeding by one additional point. Some bleed effects cause ability damage or even ability drain.
+Bleeding is reduced by 1 for each Potion or Spell healing die. If the subject's Hit Points are restored to their maximum, the bleeding stops. \index{Bleeding and healing}
+
+Unless otherwise indicated, the bleed damage stacks with a maximum of 10 hit points per round.
+
 
 \textbf{Blind}:\index{Blind} The character can't see anything. he takes a –2 penalty to most Strength- and Dexterity-based proficiencies.
 
 All checks or activities based on vision (such as reading, or any Awareness check based on vision) automatically fail. All opponents are treated as having invisibility towards the blinded character.
 
-Blinded characters must make a DC 12 Acrobatics check to move faster than their half speed. Creatures that fail this check are knocked prone. Characters who are blinded for a long time may become accustomed to some of these penalties and begin to overcome some, at the Arbiter's discretion.
+Blind characters always treat the terrain as difficult and must make a DC 12 Acrobatics check to move faster than their half speed. Creatures that fail this check are knocked prone. Characters who are blinded for a long time may become accustomed to some of these penalties and begin to overcome some, at the Arbiter's discretion.
 
 Attacking a creature invisible to it has a -1d6 attack roll, an invisible creature attacking a blind creature has a +1d6 attack roll.
+
+\textbf{Blocked}\index{Blocked}\hypertarget{blocked}{}: A blocked creature has its arms blocked.  Creature can move by trying to Push, must use two Actions to free herself (see Grabbed). He loses his Dexterity bonus on Defence and Reflex saves. A blocked spellcaster must make a critically successful Magic Test or fail to cast spells.
+
+\textbf{Broken}\index{Broken}: The broken condition has the following effects, depending on the object:
+
+- If the object is a weapon, all attacks made with the object take a -2 penalty to attack and damage rolls. Such weapons only score a critical roll with a natural 3x6 and deal up to only 1x additional damage.
+
+- If the item is Armour or a shield, the bonus it grants to Defence is halved, rounding up. Broken Armour doubles the Armour penalty to the Proficiency Check.
+
+- If the item is a tool required for a Proficiency, all Proficiency checks made with it suffer a -2 penalty.
+
+- If the item is a wand or staff, use twice as many charges each time it is used.
+
+- If the item does not fit into any of the above categories, the broken condition has no effect on its use. Items with the broken condition, regardless of type, are worth 25\% of their normal cost. If the item is magical, it can only be repaired with the Craft spell used by a spellcaster of equal or higher level than the one who created the item.
+
 
 \textbf{Charmed}:\index{Charmed}: A charmed creature cannot attack or target the charmer with special abilities or harmful magical effects.
 
@@ -49140,30 +49164,6 @@ Any potential threat, such as an approaching hostile creature, allows the charme
 An ally of the charmed creature can shake it to allow it to make a new Saving Throw by spending 2 Actions.
 
 The charmer has +1d6 on any ability checks to interact socially with the creature.
-
-\textbf{Fatigued}\index{Fatigued}\index{Flatigated}\hypertarget{fatigued}{}: A fatigued character cannot run or charge and takes a -2 penalty to Defence and Attack Rolls and Saving Throws. If he does anything normally fatiguing, he becomes exhausted.
-
-It takes 8 hours of total rest to remove the fatigued condition. If a character does not sleep for at least 6 hours or sleeps with medium or heavy Armour in the morning, he is fatigued.
-
-\textbf{Grabbed}\index{Grabbed}: A grabbed character cannot move but can try to Push. She must use two Actions to free herself (opposed Fortitude save). She loses her Dexterity bonus on Defence and Reflex saves.
-
-She can attack with melee weapons if adequate (hardly using a broadsword, halberd.. dagger or shortsword is more likely). Grabbed creature have -2 to Hit.
-
-\textbf{Friendly}:\index{Friendly} A friendly creature will not attack the character unless explicitly threatened.
-
-\textbf{Drown/Hold Breath}: \index{Drown}\index{Hold Breath} Any character can hold his breath for a number of rounds equal to 6 rounds for his Constitution score, with a minimum of 3 rounds. For each Action you take, the remaining duration decreases by 1 round. After this period of time, the character must make a DC 12 Fortitude save each round to continue holding his breath. Each round, DC increases by 1.
-
-\textbf{Deafened}:\index{Deafened}\index{Deaf} A deafened character cannot listen. He automatically fails all sound-based Awareness checks and is considered distracted when casting spells with at least verbal components.
-
-Characters who are deafened for extended periods of time can get used to these penalties and overcome some of them, at the Arbiter's discretion.
-
-\textbf{Poisoned}\index{Poisoned}: any subject under the influence of a poison or potion is considered poisoned, regardless of whether this is already producing its effects or has yet to produce them given the time of onset.
-
-\textbf{Blocked}\index{Blocked}\hypertarget{blocked}{}: A blocked creature has its arms blocked. She can move by trying to Push, she must use two Actions to free herself (ST Fortitude opposed). He loses his Dexterity bonus on Defence and Reflex saves. A blocked spellcaster must make a critically successful Spell Check or fail to cast spells. consider Distracted.
-
-\textbf{Coup de grace}:\index{Coup de grace} As its only action in the round, a creature can use a melee weapon to deal a coup de grace to a helpless character. He can also use a bow or crossbow, as long as it is adjacent to the target.
-
-The attacker strikes automatically and inflicts three critical rolls. Creatures immune to critical rolls cannot be coup de grace.
 
 \textbf{Confused}: \index{Confused}A confused creature is mentally befuddled and cannot act normally. A confused creature cannot distinguish an ally from an enemy and treats all as enemies.
 
@@ -49185,15 +49185,34 @@ Roll a die on the table below at the start of each confused creature's round eac
 
 A confused creature unable to take the indicated action will do nothing but stammer incoherently. Attackers have no special advantage when attacking a confused creature. Any confused creature that is attacked automatically attacks its attacker on its next round, as long as it remains confused when its round comes.
 
+
+
+\textbf{Coup de grace}:\index{Coup de grace} As its only action in the round, a creature can use a melee weapon to deal a coup de grace to a helpless character. He can also use a bow or crossbow, as long as it is adjacent to the target.
+
+The attacker strikes automatically and inflicts three critical rolls. Creatures immune to critical rolls cannot be coup de grace.
+
+\textbf{Damage Resistance}\index{Damage Resistance}: A creature that has Damage Resistance is considered to automatically halve damage from the specified source, e.g. Damage Resistance: Sound. Damage Resistance can also be indicated with a numerical value, e.g. Damage Resistance: Fire 10. In this case the protection works on the first 10 damage suffered, in the event of an effect that grants a Saving Throw to halve, first the amount of protection is removed from the total, then the Saving Throw is performed to halve the residual damage.
+
+
+\textbf{Dead}:\index{Dead}\hypertarget{dead}{} The character's soul leaves his body permanently. Dead characters cannot benefit from normal or magical healing, and cannot be brought back to life by a spell. Only a Patron has enough power to return the soul to the body and bring the creature back to life. The School of Necromancy has spells for reanimating a body as undead.
+
+
+\textbf{Deafened}:\index{Deafened}\index{Deaf} A deafened character cannot listen. He automatically fails all sound-based Awareness checks and is considered distracted when casting spells with at least verbal components.
+
+Characters who are deafened for extended periods of time can get used to these penalties and overcome some of them, at the Arbiter's discretion.
+
+
+\textbf{Dice Increase}\index{Dice Increase}\index{Dice Size}: when the rule tells you to increase the size of a die, follow this pattern.
+
+1d4 > 1d6 > 1d8 > 1d10 > 2d6 > 2d8 > 2d10 > 3d6 > 3d8 > 3d10
+
 \textbf{Distracted}\index{Distracted}: If the spellcaster is severely distracted, impeded, disturbed, bleeding, is under attack while trying to cast a spell, he must make a Magic Test.
 
 If the check gets a critical failure the spell fails but suffers no consequences, if the check gets a critical success this is not considered.
 
 A failed spell due to distraction does not subtract Spell Points.
 
-\textbf{Dominated}:\index{Dominated} you are able to control the actions of any humanoid creature through a telepathic link with the subject's mind.
-
-If you have a common language, you can generally force the subject to execute commands within the limits of his abilities. If you don't share any language, you can only issue basic commands like "come here", "go there", "fight" or "stand still". You are aware of what the subject is feeling but receive no direct sensory perceptions from it, nor can you communicate with it telepathically.
+\textbf{Dominated}:\index{Dominated} If you have a common language, you can generally force the subject to execute commands within the limits of his abilities. If you don't share any language, you can only issue basic commands like "come here", "go there", "fight" or "stand still". You are aware of what the subject is feeling but receive no direct sensory perceptions from it, nor can you communicate with it telepathically.
 
 Once an order is given to the dominated creature, it continues to attempt to carry it out to the exclusion of all other activities except those necessary for day-to-day survival (such as eating, sleeping, and so on). Thanks to this limited spectrum of activity, an Awareness check with DC 15 (rather than DC 25) can determine whether the subject's behavior has been affected by an enchantment effect.
 
@@ -49201,8 +49220,19 @@ By concentrating fully on the spell (2 actions), one can receive sensory percept
 
 Obviously blatantly self-destructive orders are not carried out. Once control is established, the range within which it can be maintained is unlimited as long as both subjects remain on the same footing. No need to see the subject to check it. If at least 1 minute is not spent concentrating on the spell each day, the subject receives a new Saving Throw to break free from the control.
 
-\textbf {Sleep} \ index {Sleep}: Whenever a character ends a 24-hour period without sleeping for at least 8 hours, he must make a DC 12 Fortitude save or become fatigued. Each further missed rest will make him even more fatigued by cumulating the relative penalties.
-If the character stays awake for more days, fighting sleep becomes more difficult. After the first 24 hours, DC increases by 4 for each consecutive 24-hour period without 8 hours of sleep. DC resets to 12 when character completes a rest of at least 8 hours.
+
+\textbf{Drown/Hold Breath}: \index{Drown}\index{Hold Breath} Any character can hold his breath for a number of rounds equal to 6 rounds for his Constitution score, with a minimum of 3 rounds. For each Action you take, the remaining duration decreases by 1 round. After this period of time, the character must make a DC 12 Fortitude save each round to continue holding his breath. Each round, DC increases by 1.
+
+\textbf{Dying} \index{Dying}: A dying character has -1 Hit Points. Each round he loses 1 hit point until he dies or is healed. See also \textbf{Helpless}.
+
+
+
+\textbf{Entangled}:\index{Entangled}\hypertarget{entangled}{} An entangled character has movement difficulties, but can still try to move, unless the restraining bonds are anchored to an immovable object or held by an opposing force.
+
+An entangled creature can move at half speed and cannot run or charge. It takes a –2 penalty on attack rolls and a –2 penalty on Dexterity checks.
+
+An entangled character trying to cast a spell is considered distracted.
+
 
 \textbf{Exhausted}:\index{Exhausted}\hypertarget{exhausted}{}An exhausted character moves slower and takes a -4 penalty to attack, Defence, and Saving Throws. After 1 hour of complete rest (or lesser restoration), an exhausted character becomes fatigued. A fatigued character becomes exhausted by taking an action that would normally fatigue him.
 
@@ -49216,15 +49246,15 @@ An Exhausted creature when affected by further fatigue effects increases its fat
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{lcl}
-\textbf{Conditions}& \textbf{Penalty}&\textbf{Recovery}\\
-&AR - Defence - Save&\\
-\hline
-see \textbf{Fatigued}&2&1h\\
-see \textbf{Exhausted} (1)&4&1h\\
-Exhausted (2) &6&8h\\
-Exhausted (3) &8&24h\\
-Exhausted (4) &Death&--\\
+\begin{tabularx}{0.40\textwidth}{lcl}
+	\textbf{Conditions}& \textbf{Penalty}&\textbf{Recovery}\\
+	&AR - Def. - ST&\\
+	\hline
+	see \textbf{Fatigued}&2&1h\\
+	see \textbf{Exhausted} (1)&4&1h\\
+	Exhausted (2) &6&8h\\
+	Exhausted (3) &8&24h\\
+	Exhausted (4) &Death&--\\
 \end{tabularx}
 
 
@@ -49232,103 +49262,100 @@ Exhausted (4) &Death&--\\
 
 After 8 hours of rest you go from Exhausted 2 to Exhausted 1. After 24 hours of rest you recover from Exhausted 3 to Exhausted 2.\\
 
-Fatigue affects other factors as well.
+Fatigue affects skill check and movement.
 
 \textbf{Table: Fatigue Penalty}\index{Fatigue Penalty Table}
 
 \medskip
 
 \begin{tabularx}{0.45\textwidth}{lcl}
-\textbf{Conditions}& \textbf{What}&Penalty\\
-\hline
-Fatigued&Proficiency Checks&-1d6\\
-Exhausted&Moving&-2m\\
-Exhausted (2) &Movement&--4m\\
-Exhausted (3) &Movement&-8m\\
+	\textbf{Conditions}& \textbf{What}&Penalty\\
+	\hline
+	Fatigued&Proficiency Checks&-1d6\\
+	Exhausted&Moving&-2m/-1d6\\
+	Exhausted (2) &Movement&--4m/-2d6\\
+	Exhausted (3) &Movement&-8m/-3d6\\
 \end{tabularx}
 
 \medskip
 
-\textbf{Flat-footed}\index{Flat-footed}: a flat-footed creature loses its Defence Dexterity and Reflex saves. The Defence will not count any bonuses given by Shield. You will not be able to react, you will not use Actions or Reactions unless explicitly permitted; from the following round you will be able to declare the initiative and act normally.
 
-\textbf{Incapacitated}\index{Incapacitated}: An incapacitated creature cannot take actions or reactions. Melee attacks against an incapacitated creature have a +1d6 bonus. She's unprepared.
+\textbf{Fatigued}\index{Fatigued}\index{Flatigated}\hypertarget{fatigued}{}: A fatigued character cannot run or charge and takes a -2 penalty to Defence and Attack Rolls and Saving Throws. If he does anything normally fatiguing, he becomes exhausted.
 
-\textbf{Grappling}:\index{Fighting} A grappled creature is held by a creature, trap, or effect. See \textbf{Grabbed}.
+It takes 8 hours of total rest to remove the fatigued condition. If a character does not sleep for at least 6 hours or sleeps with medium or heavy Armour in the morning, he is fatigued.
 
-\textbf{Helpless}:\index{Helpless}\hypertarget{helpless}{} A character asleep, unconscious, dying, or for some other reason completely at the mercy of his opponents, is considered helpless.
+\textbf{Fear, Frightened}:\index{Fear}\index{Frightened}\hypertarget{conditionfear}{} Spells, Magic Items, and certain creatures can affect characters with fear. In most cases, the character must make a Will save to resist the effects, and a failed save indicates that the character is frightened.
 
-An unconscious creature is also incapacitated (see condition), cannot move or speak, and is unaware of its surroundings.
-The creature drops anything it is holding and falls prone. The creature automatically fails Fortitude and Reflex saves.
+A frightened creature has -1d6 on attack rolls, Saving Throws, and Skill checks as long as the source of its fear is visible. A frightened creature cannot voluntarily approach the source of its fear.
 
-Ranged attacks gain no particular bonus against helpless targets, other than the fact that there is no Defence bonus given by Dexterity.
+\textbf{Flat-footed / Surprised}\index{Surprised}\index{Flat-footed}: 
+A surprised/flat-footed creature has a -4 penalty to Defense and Reflex saves. You will not be able to react, you will not use Actions or Reactions unless explicitly permitted; from the following round you will be able to declare the initiative and act normally.
 
-Cannot perform actions.
 
-\textbf{Entangled}:\index{Entangled}\hypertarget{entangled}{} An entangled character has movement difficulties, but can still try to move, unless the restraining bonds are anchored to an immovable object or held by an opposing force.
+\textbf{Friendly}:\index{Friendly} A friendly creature will not attack the character unless explicitly threatened.
 
-An entangled creature can move at half speed and cannot run or charge. It takes a –2 penalty on attack rolls and a –2 penalty on Dexterity checks.
+\textbf{Grabbed}\index{Grabbed}: A grabbed character cannot move but can try to Push. Must use two Actions to free herself (Fortitude Saving Throw opposed with Strength bonus, +1d6 per Size difference). You loses her Dexterity bonus on Defence and Reflex saves.
 
-An entangled character trying to cast a spell is considered distracted.
+You can attack with melee weapons if small (hardly using a broadsword, halberd.. dagger or shortsword is more likely). Grabbed creature have -2 to Hit.
+
+\textbf{Grappling}:\index{Grappling} A grappled or Grappling creature is held by a creature, trap, or effect. See \textbf{Grabbed}.
+
+\textbf{Helpless}:\index{Helpless}\index{Unconscious}\index{Dying}\index{Sleeping}\hypertarget{helpless}{} A character asleep, unconscious, dying, or for some other reason completely at the mercy of his opponents, is considered helpless.
+
+A helpless creature cannot take Actions or Reactions or speak, attacks against it have a +1d6 bonus. Creature has a -4 penalty to Defense. He is unaware of what is happening around him. The creature drops anything it is holding and falls prone.
+
+The creature automatically fails Fortitude and Reflex saves.
+
+Ranged attacks gain no particular bonus against helpless targets.
+
+\textbf{Holding breath}: CON*6 rounds. Each Action -1 round. Spells -3 rounds. When holding breath end make a Saving Throw Fortitude DC 12 +1 per round.
+
+
+\textbf{Incapacitated}\index{Incapacitated}: An incapacitated creature is Flat footed and cannot make Actions.
 
 \textbf{Invisible}:\index{Invisible} Invisible creatures cannot be seen.
 Attacking a creature invisible to it has a -1d6 to attack, an invisible creature attacking a creature that does not see it has +1d6 to attack.
 
-\textbf{Dying} \index{Dying}: A dying character has -1 Hit Points and is considered Helpless for the penalties and is close to death. Each round he loses 1 hit point until he dies or is healed.
+\textbf{Loss of characteristic points}\index{Loss of characteristic points}\index{Loss of characteristic points}: when the characteristic scores decrease, remember to remove any Hit Points 1 per point of Constitution lost per level, lower Saving Throws (Dex , Constitution, Wisdom), Attack Rolls (Strength and Dexterity), Defence (Defence). If not listed as permanent, you recover 1 point of Characteristics per day of rest.
 
-\textbf{Dead}:\index{Dead}\hypertarget{dead}{} The character's soul leaves his body permanently. Dead characters cannot benefit from normal or magical healing, and cannot be brought back to life by a spell. Only a Patron has enough power to return the soul to the body and bring the creature back to life. The School of Necromancy has spells for reanimating a body as undead.
+\textbf{Maximum Hit Points}\index{Maximum Hit Points}: A creature that suffers an attack that lowers the maximum hit points must first decrease the current maximum hit points and then decrease the current maximum hit points by the same amount if not already removed. If the maximum hit points reach 0, the creature is dead. Maximum hit points are recovered at the rate of 1 per Constitution value per 8 hours of rest.
 
-\textbf{Paralysed}: \index{Paralysed}A paralyzed character is frozen in place and unable to move or act, he is helpless and can only perform mental actions.
+\textbf{Nauseated}\index{Nauseated}: If the penalty is not already stated, a nauseated creature has -1d6 on attack rolls, saving throws, and proficiency checks.
+
+\textbf{Paralysed}: \index{Paralysed}A paralyzed character is frozen in place and unable to move or act, he is \textbf{Helpless} and can only perform mental actions.
 
 When paralyzed, a winged creature in flight can no longer flap its wings and falls. A paralyzed swimmer can no longer Swim and may drown.
 
 Terrain occupied by a paralyzed (or dead) creature is treated as hindering terrain.
 
-\textbf{Loss of characteristic points}\index{Loss of characteristic points}\index{Loss of characteristic points}: when the characteristic scores decrease, remember to remove any Hit Points 1 per point of Constitution lost per level, lower Saving Throws (Dex , Constitution, Wisdom), Attack Rolls (Strength and Dexterity), Defence (Defence). If not listed as permanent, you recover 1 point of Characteristics per day of rest.
-
-\textbf{Petrified}: \index{Petrified}A petrified character has been turned to stone and is unconscious and helpless.
+\textbf{Petrified}: \index{Petrified}A petrified character has been turned to stone and is unconscious and \textbf{Helpless}.
 
 If a petrified character cracks or breaks, but the broken pieces are joined to the body when it returns to flesh, the character is not injured or harmed. If the character's petrified body is incomplete when transformed back into flesh, the body remains incomplete and may have some permanent loss of Hit Points and/or other ailments.
 
 The creature has resistance to all damage. The creature is immune to poisons and diseases, but any poisons and diseases already in its system are only suspended, not neutralized.
 
-\textbf{Fear, Frightened}:\index{Fear}\index{Frightened}\hypertarget{conditionfear}{} Spells, Magic Items, and certain creatures can affect characters with fear. In most cases, the character must make a Will save to resist the effects, and a failed save indicates that the character is frightened. A frightened creature has -1d6 on attack rolls, Saving Throws, and proficiency checks as long as the source of its fear is visible. A frightened creature cannot voluntarily approach the source of its fear.
+\textbf{Poisoned}\index{Poisoned}: any subject under the influence of a poison or potion is considered poisoned, regardless of whether this is already producing its effects or has yet to produce them given the time of onset.
 
-\textbf{Prone}\index{Prone}: whoever is prone has a -1d6 to attack and a -4 to Defence. Getting up from prone costs 2 Actions. You cannot become prone if you fly.
+\textbf{Prone}\index{Prone}: whoever is prone has a -1d6 to attack and a -4 to Defense. Getting up from prone costs 2 Actions. You cannot become prone if you fly.
 A prone creature's only movement option is to crawl (difficult terrain), unless it stands up and ends its condition.
 
-costs two Actions. The player can make an Acrobatics check if he rolls 13 or more it costs 1 Action to stand up. If you roll three 1's on the check check, you cannot take any other actions that round and remain prone.
+The player can make an Acrobatics check if he rolls 13 or more it costs 1 Action to stand up.
 
 When the Acrobatics score reaches 6, getting up from prone costs 1 Action. With Acrobatics 8 it costs an Immediate Action.
 
-\textbf{Maximum Hit Points}\index{Maximum Hit Points}: A creature that suffers an attack that lowers the maximum hit points must first decrease the current maximum hit points and then decrease the current maximum hit points by the same amount if not already removed. If the maximum hit points reach 0, the creature is dead. Maximum hit points are recovered at the rate of 1 per Constitution value per 8 hours of rest.
+If you roll three 1's on the test check, you cannot take any other actions that round and remain prone.
 
-\textbf{Damage Resistance}\index{Damage Resistance}: A creature that has Damage Resistance is considered to automatically halve damage from the specified source, e.g. Damage Resistance: Sound. Damage Resistance can also be indicated with a numerical value, e.g. Damage Resistance: Fire 10. In this case the protection works on the first 10 damage suffered, in the event of an effect that grants a Saving Throw to halve, first the amount of protection is removed from the total, then the Saving Throw is performed to halve the residual damage.
-
-\textbf{Stunned/Knocked Out}:\index{Stunned}\index{Knocked Out} is considered Helpless. He cannot move and can hardly speak.
-
-\textbf{Holding} breath: CON*6 rounds. Each Action -1 round. Enchantment -3 rounds. Then Fortitude save DC 12 +1 per round.
+he terrain is considered difficult and you are still considered prone until you stand up.
 
 \textbf{Restricted}\index{Restricted}\hypertarget{restricted}{} : Two medium or small creatures sharing the same map square are considered restricted. Both creatures take -1d6 to attack and Defence (-4) while sharing the space. A creature can share a square with a creature at least three times its size without penalty.
 
-\textbf{Broken}\index{Broken}: The broken condition has the following effects, depending on the object:
 
-- If the object is a weapon, all attacks made with the object take a -2 penalty to attack and damage rolls. Such weapons only score a critical roll with a natural 3x6 and deal up to only 1x additional damage.
+\textbf {Sleep} \index {Sleep}: Whenever a character ends a 24-hour period without sleeping for at least 8 hours, he must make a DC 12 Fortitude save or become fatigued. Each further missed rest will make him even more fatigued by cumulating the relative penalties.
+If the character stays awake for more days, fighting sleep becomes more difficult. After the first 24 hours, DC increases by 4 for each consecutive 24-hour period without 8 hours of sleep. DC resets to 12 when character completes a rest of at least 8 hours.
 
-- If the item is Armour or a shield, the bonus it grants to Defence is halved, rounding down. Broken Armour doubles the Armour penalty to the Proficiency Check.
+\textbf{Stunned/Knocked Out}:\index{Stunned}\index{Knocked Out} is considered \textbf{Helpless}.
 
-- If the item is a tool required for a Proficiency, all Proficiency checks made with it suffer a -2 penalty.
-
-- If the item is a wand or staff, use twice as many charges each time it is used.
-
-- If the item does not fit into any of the above categories, the broken condition has no effect on its use. Items with the broken condition, regardless of type, are worth 25\% of their normal cost. If the item is magical, it can only be repaired with the Craft spell used by a spellcaster of equal or higher level than the one who created the item.
-
-\textbf{Unconscious}\index{Unconscious}: a creature while unconscious is Helpless and cannot speak or take actions.
-
-\textbf{Bleeding}\index{Bleeding}\index{Bleeding}\hypertarget{bleeding}{}: A creature that is taking bleed damage takes the listed amount of damage at the start of its round. Bleeding can be reduced with a successful DC 12 First Aid check, 2 Actions.
-For each Bleeding value above 1 the difficulty increases by 2. Cost \textbf{2 Actions}. A 1 minute treatment guarantees 1 success, no trial. Each critical success reduces the bleeding by one additional point. Some bleed effects cause ability damage or even ability drain.
-Bleeding is reduced by 1 for each Potion or Spell healing die. If the subject's Hit Points are restored to their maximum, the bleeding stops. \index{Bleeding and healing}
-
-Unless otherwise indicated, the bleed damage stacks with a maximum of 10 hit points per round.
+\textbf{Unconscious}\index{Unconscious}: is considered to be \textbf{Helpless}.
 
 \textbf{Vulnerability}\index{Vulnerability}: works the opposite of Resistance. The damage is doubled before any Saving Throw.
 
