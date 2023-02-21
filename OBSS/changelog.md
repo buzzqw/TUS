@@ -242,7 +242,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 20/02/2023 aggiornata versione POD
 
-0.67 pubblicata versione 0.66, aggiornata copertina, 
+0.67 pubblicata versione 0.66, aggiornata copertina, corrette immunita' e resistenze per diavoli e demoni, 
 
 
 - aggiunti \label{} fino a la magia
