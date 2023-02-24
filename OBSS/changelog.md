@@ -242,7 +242,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 20/02/2023 aggiornata versione POD
 
-0.67 pubblicata versione 0.66, aggiornata copertina, corrette immunita' e resistenze per diavoli e demoni, aggiornata manovra d'armi eureka, corretto tiro salvezza golem di carne, corretto senso olfatto rugginofago, fixed foot/meters, sistemate qualche dimensione, aggiunta regola opzionale incantesimi come rituali, modificato numero di oggetti magici massimo indossabili, corretta tabella incantesimo reincarnazione, fixes on magic competence and magic proficiency, fixed english translation, added labels, dettaglio sui troll, aggiornata tabella punti magia, modificata abilita' animali, modificata abilita' sangue puro, modificata abilità forma elementale, 
+0.67 pubblicata versione 0.66, aggiornata copertina, corrette immunita' e resistenze per diavoli e demoni, aggiornata manovra d'armi eureka, corretto tiro salvezza golem di carne, corretto senso olfatto rugginofago, fixed foot/meters, sistemate qualche dimensione, aggiunta regola opzionale incantesimi come rituali, modificato numero di oggetti magici massimo indossabili, corretta tabella incantesimo reincarnazione, fixes on magic competence and magic proficiency, fixed english translation, added labels, dettaglio sui troll, aggiornata tabella punti magia, modificata abilita' animali, modificata abilita' sangue puro, modificata abilità forma elementale, chiarimento su trappole magiche, 
 
 
 - aggiunti \label{} fino a piani
