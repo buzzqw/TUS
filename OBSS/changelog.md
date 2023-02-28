@@ -248,9 +248,10 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 0.68 pubblicata versione 0.67, aggiornata copertina, dettagliato tiri salvezza e sensi in animalia, modificato valore passivo per trovare creature nascoste
 
-27/02/2023 aggiornata versione POD, corretta dizione azioni leggendari con azioni aggiuntive, migliore spiegazione ad utilizzo ristorare inferiore per ridurre i gradi di affaticamento, fixed command spell, fixed confusion spell, aggiunte note su combattimenti troppo veloci e combattimenti con il boss, 
+27/02/2023 aggiornata versione POD
 
-0.68 
+0.68 corretta dizione azioni leggendari con azioni aggiuntive, migliore spiegazione ad utilizzo ristorare inferiore per ridurre i gradi di affaticamento, fixed command spell, fixed confusion spell, aggiunte note su combattimenti troppo veloci e combattimenti con il boss, 
+
 
 
 - aggiunti \label{} fino a piani
