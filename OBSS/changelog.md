@@ -246,7 +246,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 27/02/2023 aggiornata versione POD
 
-0.68 pubblicata versione 0.67, aggiornata copertina,
+0.68 pubblicata versione 0.67, aggiornata copertina, dettagliato tiri salvezza e sensi in animalia, 
 
 
 - aggiunti \label{} fino a piani
