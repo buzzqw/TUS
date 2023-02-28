@@ -246,7 +246,11 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 27/02/2023 aggiornata versione POD
 
-0.68 pubblicata versione 0.67, aggiornata copertina, dettagliato tiri salvezza e sensi in animalia, modificato valore passivo per trovare creature nascoste, 
+0.68 pubblicata versione 0.67, aggiornata copertina, dettagliato tiri salvezza e sensi in animalia, modificato valore passivo per trovare creature nascoste
+
+27/02/2023 aggiornata versione POD, corretta dizione azioni leggendari con azioni aggiuntive, 
+
+0.68 
 
 
 - aggiunti \label{} fino a piani
