@@ -26,11 +26,23 @@ Piu' il valore della competenza e' alta piu' solitamente si fa presto a svolgere
 Percezione (Consapevolezza in OBSS) e' una competenza a valore base fisso, vale infatti 1/3 del livello (piu' saggezza)
 Non serve sempre fare tiri di consapevolezza, basta descrivere accuratamente cosa si fa e come.
 
+Regole di base per le competenze
+in OBSS ci sono le cosidette Golden Rules. Le prove si fanno tirando 3d6 + valore caratteristica + competenza...
+Se tiri 3 volte 6 il successo e' automatico
+Se tiri 3 volte 1 il fallimento e' automatico
+se tiri almeno 2 volte 6 e la prova riesce hai un successo critico
+se tiri almeno 2 volte 1 oppure 2 volte 2 e la prova fallisce hai un fallimento critico
+ogni volta che tiri un 6 ritiri il dado e sommi
+ogni volta che tiri un 1 non conti il dado
+puoi togliere 4 punti dalla competenza o caratteristica usata nella prova per tirare un d6 in piu' 
+
 Dato che il personaggio non ha classi scegliendo le abilita' (Feat) vai a costruirlo. Sono oltre 120 le Abilita' da scegliere, molte possono essere prese piu' volte per "sbloccare" ulteriori capacita' straordinarie.. Le abilita' si prendono a tutti i livelli tranne che al 5, 10, 15, 20 livello.
 Alcune abilita' vanno a mimare quelle piu' canoniche delle classi, molte altre sono diverse e peculiari del sistema. E' facile e spontaneo costruire il personaggio che piu' si preferisce.
 Le abilita' aumentano i Tiri Salvezza. Ogni volta che si prende una abilita' si aumentano i punteggi dei tiri salvezza, questo e' l'unico modo per aumentare i tiri salvezza.
 
 Tutti i personaggi possono avere dei vantaggi e svantaggi. Obbligatorio uno svantaggio di ruolo, un piccolo difetto che rende tutti i piu' "normali". Ci sono poi i vantaggi e svantaggi reali, molti anche impegnativi da giocare che caratterizzano e rendono unico il personaggio. Piu' un vantaggio e' potente piu' e' necessario "pagare" con svantaggi.
+
+
 
 
 combattimento
