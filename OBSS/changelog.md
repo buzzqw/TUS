@@ -288,6 +288,27 @@ Benedizione: la creatura può lanciare un incantesimo che ha già lanciato e non
 Sovraccarico: solo draghi, lancia 1d6, se ottieni  4-5-6 il drago puo' soffiare questo round
 
 
+Last Energies: The creature regains its CR in hit points
+
+Damage Resistance: The creature gains damage resistance equal to its CR until end of combat
+
+Sprint: The creature takes one more move action per round
+
+Recovery: the creature can make a new saving throw to interrupt an effect in progress on itself
+
+Focus: The creature interrupts a mental effect in progress on itself
+
+Mighty Blows: The creature deals at least one critical damage per round when it strikes
+
+Deep Claws: Creature causes or increases bleeding by 2 with each successful hit up to a maximum of 10 bleeding
+
+Brutality: The creature attacks with unprecedented ferocity. +1d6 to attack roll, counts an extra 6 in the crit count.
+
+Blessing: The creature can cast a spell it has already cast and can't cast again
+
+Overload: Dragons only, roll 1d6, if you roll 4-5-6 the dragon can breath again this round
+
+
 > valutare:
 - aggiungere bloodied/Arrabbiato ai singolo mostri
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
