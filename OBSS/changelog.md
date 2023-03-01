@@ -285,7 +285,7 @@ Brutalità: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 
 
 Benedizione: la creatura può lanciare un incantesimo che ha già lanciato e non potrebbe più lanciare
 
-
+Sovraccarico: solo draghi, lancia 1d6, se ottieni  4-5-6 il drago puo' soffiare questo round
 
 
 > valutare:
