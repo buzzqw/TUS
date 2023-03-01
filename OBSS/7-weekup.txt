@@ -27,7 +27,7 @@ Percezione (Consapevolezza in OBSS) e' una competenza a valore base fisso, vale 
 Non serve sempre fare tiri di consapevolezza, basta descrivere accuratamente cosa si fa e come.
 
 Regole di base per le competenze
-in OBSS ci sono le cosidette Golden Rules. Le prove si fanno tirando 3d6 + valore caratteristica + competenza...
+in OBSS ci sono le cosidette Golden Rules. Le prove (check, tiri salvezza, tiri per colpire) si fanno tirando 3d6 + valore caratteristica + competenza...
 Se tiri 3 volte 6 il successo e' automatico
 Se tiri 3 volte 1 il fallimento e' automatico
 se tiri almeno 2 volte 6 e la prova riesce hai un successo critico
@@ -42,17 +42,29 @@ Le abilita' aumentano i Tiri Salvezza. Ogni volta che si prende una abilita' si 
 
 Tutti i personaggi possono avere dei vantaggi e svantaggi. Obbligatorio uno svantaggio di ruolo, un piccolo difetto che rende tutti i piu' "normali". Ci sono poi i vantaggi e svantaggi reali, molti anche impegnativi da giocare che caratterizzano e rendono unico il personaggio. Piu' un vantaggio e' potente piu' e' necessario "pagare" con svantaggi.
 
+Combattimento
+
+l'iniziativa e' una prova di destrezza o intelligenza
+
+si hanno 3 azioni a round come in PF2
+
+il Tiro per Colpire e' 3d6+forza/destrezza+competenza armi + bonus vari (da lista armi, da magia..) contro il valore di Difesa dell'avversario.
+la difesa e' 10+armatura+scudo+destrezza+vari
+
+gli attacchi multipli prendono il valore del Tiro per Colpire e per ogni tiro oltre il primo tolgono 5. Quindi se hai +12 al Tiro per Colpire fai un attacco a +12, uno a +7 ed uno a +2, se e' negativo non puoi farlo
+
+fare 1 attacco costa 1 azione, 2 attacchi costa 2 azioni, 3 o piu' attacchi costano 3 azioni. Ogni freccia scagliata costa 1 azione
+
+Ogni volta che tiri due volte 6 nel Tiro per Colpire tiri un danno di arma (sono arma senza altri bonus) in piu'
+Quando il dado dell'arma fa il massimo possibile ritiri il dado e sommi (solo per armi che fanno almeno 8 di danno)
+
+se si attacca con un arma lunga hai +2 al tiro per colpire, ma se l'avversario ti viene addosso hai un -1d6
+
+i punti ferita sono 1d4+costituzione +3 se hai messo un punto a competenza armi a quel livello
+
+si muore quando si arriva a (10+COS*2) punti ferita negativi. Quando si e' a punti feriti negativi ogni round si perde un punto ferita finche' si muore o si e' curato
 
 
-
-combattimento
-punti ferita
-iniziativa
-le azioni a round
-il multiattacco
-attaccare e tirare incantesimi
-critici in combattimento (e opzione >6)
-esplosione del danno
 
 la magia
 troppo per elencare tutte le differenze,  va letta..
@@ -69,6 +81,7 @@ quando si ci specializza in una scuola di magia si ottengono poteri speciali
 gli incantesimi sono quelli di DnD5e , molti modificati ed altrettanti aggiunti
 
 
+Opzionali
 
 
 
