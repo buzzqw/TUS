@@ -264,6 +264,30 @@ Aggiungere immagini:
 169 fine incantesimi, tavola ouija ?
 
 
+per arrabbiato
+
+
+Ultime energie: la creatura recupera il suo GS in punti ferita
+
+Resistenza al Danno: la creatura acquisisce resistenza al danno pari al suo GS fino a fine combattimento
+
+Scatto: la creatura acquisisce una Azione di Movimento in più a round
+
+Ripresa: la creatura può effettuare un nuovo Tiro Salvezza per interrompere un effetto in corso su di se
+
+Focalizzare: la creatura interrompe un effetto mentale su di se in corso
+
+Colpi possenti: la creatura causa almeno un danno critico a round quando colpisce
+
+Artigli profondi: la creatura causa o aumenta sanguinamento di 2 ad ogni colpo andato a segno fino ad un massimo valore di 10 di sanguinamento	
+
+Brutalità: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, si conta un 6 in più nella conta dei critici.
+
+Benedizione: la creatura può lanciare un incantesimo che ha già lanciato e non potrebbe più lanciare
+
+
+
+
 > valutare:
 - aggiungere bloodied/Arrabbiato ai singolo mostri
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
