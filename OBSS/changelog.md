@@ -254,7 +254,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 28/02/2023 aggiornata versione POD
 
-0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, 
+0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, 
 
 
 - aggiunti \label{} fino a piani
