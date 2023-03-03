@@ -254,7 +254,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 28/02/2023 aggiornata versione POD
 
-0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, 
+0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiuno capitolo malattie, 
 
 
 - aggiunti \label{} fino a piani
@@ -310,6 +310,8 @@ Overload: Dragons only, roll 1d6, if you roll 4-5-6 the dragon can breath again 
 
 
 > valutare:
+- un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster 
+- aggiungere malattie e veleni ai mostri
 - aggiungere bloodied/Arrabbiato ai singolo mostri
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
 - indicazioni su sessione zero, quali domande, cosa dire

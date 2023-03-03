@@ -10519,7 +10519,7 @@ Tornare dalla morte è un'ordalia. Il bersaglio subisce una penalità di -4 a tu
 Lanci l'incantesimo a contatto di una creatura per stimolare la sua capacità di guarigione naturale. Il bersaglio recupera 4d8 + 15 Punti Ferita. Per la durata dell'incantesimo, il bersaglio recupera 1 punto ferita all'inizio di ciascun suo round (6 Punti Ferita al minuto). Le membra recise del corpo del bersaglio (dita, gambe, code e così via), se ne ha, vengono ripristinate in 2 minuti. Se hai la parte recisa e la tieni appoggiata al moncherino, l'incantesimo fa sì che l'arto si ricucia in 3 round col moncherino.\\
 \textbf{Per ogni Successo Critico magico ottenuto} nella Prova di Magia raddoppi i Punti Ferita recuperati per round.
 
-\medskip\textbf{Rimuovi Malattia}\index[Incantesimi]{Rimuovi Malattia}\\
+\medskip\textbf{Rimuovi Malattia}\index[Incantesimi]{Rimuovi Malattia}\label{rimuovimalattie}\hypertarget{rimuovimalattie}{} \\
 \textbf{Scuola}: Cura\\
 \textbf{Livello}: 4, Comune\\
 \textbf{Tempo di Lancio}: 1 turno\\
@@ -18464,6 +18464,32 @@ Yaveth\index{Yaveth}& I  & 1 turno  & 20& Cura 2d8 Punti Ferita& MO5 & 100 \\
 
 \subsubsection{Note sulle pianticine...}
 
+\textbf{Bava fermentata di Lucos}: Lucos e' una lucertola erbivora e pacifica. La bava raccolta va fatta fermentare al buoi per 1 settimana prima di essere utilizzabile.
+
+\textbf{Toporagno Viola}: secondo molti il Toporagno è l'animaletto preferito di Cattalm. Aggressivo, violento, pericoloso in ogni sua fibra.
+
+\textbf{Dita di Daraka}: le Dita di Daraka sono il frutto dell'albero di Daraka. Il baccello di forma allungata e nera ricorda le dita dell'antica dea dell'oscurità
+
+\textbf{Olio di Nabar}: le piccole bacche di Nabar sono esclusivamente mangiate dai Toporagni, immuni ai loro malefici effetti. Bollito a lungo diviene un ottimo unguento per la pelle.
+
+\textbf{Uovo di Urk}: Urk e' un grosso coleottero, l'uovo è poco piu' grande di una nocciola. Il sapore è disgustono sapendo di muffa e terra.
+
+\textbf{Miscela 31}: un insieme studiato di droghe per i cavalli. Terminato l'effetto la creatura deve fare un Tiro Salvezza DC 23 o cadere svenuto per 12 ore.
+
+\textbf{Bacca Viola di Barsar}: curiosità il Toporagno viola ' schifato da queste bacche.
+
+\textbf{Veleno di Ottalm}: l'Ottalm e' una variante di Toporagno viola dotato di un pungiglione velenoso
+
+\textbf{Cenere di Corteccia Gialla}: la corteccia va prima macerata e battuta in acqua e sale. La poltiglia risultante va seccata e poi fatta scaldare senza bruciarla direttamente
+
+\textbf{Lingua Rossa di Xabax}: è il petalo lungo della Xabax. Dei 7 petali solo quello lungo ha i sostanze necessarie a preparare l'unguento.
+
+\textbf{Radice secca di Kathaus}: piccolo tubero nero estremamente duro e legnoso. Solitamente si lascia seccare al sole prima di macinarla
+
+\textbf{Petali di Lisbeth}: estremamente profumati, assomigliano a quelli di rosa
+
+\textbf{Fumi di Curna}: la Curna è l'inflorescenza del cardo mariano
+
 \textbf{Corteccia di Aklent}: chiamato anche \textit{Cespuglio Puzzola} per il suo pungente e caratteristico odore.
 
 \textbf{Estratto di radice Gisenosa}: pianta tipo cardo, estremamente spinosa. Tende a crescere circondata dal \textit{Tribulus terrestris} o "baciapiedi".
@@ -18473,6 +18499,8 @@ Yaveth\index{Yaveth}& I  & 1 turno  & 20& Cura 2d8 Punti Ferita& MO5 & 100 \\
 \subsection{Dove trovare le piante}
 
 Es: Gusterbloon FT5. La prima Lettera indica il CLIMA, la Seconda indica l'AMBIENTE, la Terza indica la RARITA'. La rarità indica la possibilità, su un d10, di trovare l'erba/pianta ricercata. Tirare 1d10 e fare di più del numero indicato, chiaramente se c'è corrispondenza di clima ed ambiente.
+
+\medskip
 
 \textbf{Tabella: della corrispondenza Pozioni - Luoghi}\index{Tabella della corrispondenza Pozioni - Luoghi}
 
@@ -18522,8 +18550,9 @@ Queste pozioni generiche come le pozioni naturali hanno effetto solo la prima vo
 \textbf{Tabella: Elenco Droghe}\index{Tabella Elenco Droghe}
 
 \medskip
+{\small 
 
-\begin{tabularx}{0.99\textwidth}{llllXrr}
+\begin{tabularx}{0.99\textwidth}{XlllXrr}
 \textbf{Nome}  & \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Loc.} & \textbf{Costo} \\
 \toprule
 Foglie fermentate di Luside\index{Foglie fermentate di Luside}  & I  & 1 turno  & 17& Allucinazioni sensoriali per 2d4 ore. +2 Carisma ed Intelligenza & SF7 & 5  \\
@@ -18534,8 +18563,8 @@ Unto Grigio \index{Unto Grigio} & I  & 1 round & 24& Rimuove condizionamenti men
 \toprule
 Cenere di Arpasur \index{Cenere di Arpasur}  & R  & 1 round & 20& Rimuove 2 livelli di affaticato  & FT6 & 10  \\
 \toprule
-Carne secca di Ragno Viola \index{Carne secca di Ragno Viola} & I  & 1 round & 24& +4 Forza -4 Intelligenza (minimo -3) per 1 turno& SH7 & 30 \\
-\toprule
+%Carne secca di Toporagno Viola \index{Carne secca di Ragno Viola} & I  & 1 round & 24& +4 Forza -4 Intelligenza (minimo -3) per 1 turno& SH7 & 30 \\
+%\toprule
 Estratto alcolico di Melzaa\index{Estratto alcolico di Melzaa}  & I  & 1 round & 20& +1d4 Forza, +1d4 Destrezza. -1d6 Tiro Salvezza su Volontà. Per 3 ore & AF6 & 25 \\
 \toprule
 Essenza profumata di Inut\index{Essenza profumata do Inut} & R  & I  & 15& +2 Intelligenza, per 1d8 ore& HB6 & 15 \\
@@ -18544,7 +18573,7 @@ Polline di Julnnaus\index{Polline di Julnnaus} & R  & I  & 20& +3 Costituzione p
 \toprule
 Polline del fiore di Erain \index{Polline del fiore di Erain} & R  & 1 round  & 20& +2 Forza e Intelligenza e Destrezza. +3d6 Punti Ferita temporanei, per 1 ora  & FT7 & 75 \\
 \end{tabularx}
-
+}
 \begin{multicols}{2}
 
 \medskip
@@ -18556,6 +18585,43 @@ Le droghe danno dipendenza. Terminato l'effetto entro 24 ore effettuare un Tiro 
 Ogni qual volta si prende una nuova dose entro 2 settimane dalla prima il Tiro Salvezza per non diventare dipendenti aumenta di 1. Non prendere una dose aumenta il livello di Affaticamento di uno.
 
 Sono necessari 7 Tiri Salvezza riusciti di seguito per terminare l'effetto di dipendenza.
+
+
+\subsection{Malattie}\index{Malattie}\hypertarget{malattie}{}\label{malattie}
+
+Le malattie in linea di principio si gesticono come dei veleni, si esegue un Tiro Salvezza per verificare se la malattia ha preso e quindi farà effetto.
+Solitamente il tempo di scatenamento di una malattia non è così immedidato come un veleno eppure quelle magiche possono essere dirompenti ed agire in pochi minuti.
+
+Una malattia può richiedere più Tiri Salvezza riusciti in successione per guarire una volta fallito il primo per evitarla.
+
+Ogni malattia  deve aver indicato il tempo di insorgenza, il Tiro Salvezza iniziale, ogni quanto va rifatto il Tiro Salvezza, quanti successi al TS sono necessari per guarire, gli effetti che si subiscono ed ogni quanto.
+
+Es. Febbre Demoniaca minore: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -2 Costituzione e Saggezza/6 ore.
+
+La Febbre Demoniaca minore costringe al Tiro Salvezza su Tempra a DC 18 dopo un solo minuto che la si è presa. Successivamente ogni 6 ore va rifatto il Tiro Salvezza e la malattia permane finchè non si sono fatti almeno 3 successi consecutivi al TS. Ogni 6 ore il malato perde 2 punti a Costituzione e Saggezza.
+
+Per guarire da una malattia, non naturale, come quelle afflitte dai mostri è necessario passare i Tiri Salvezza richiesti oppure avere a disposizione un incantesimo di \hyperlink{rimuovimalattie}{Rimuovi Malattie} (pag. \pageref{rimuovimalattie}).
+
+L'incantesimo Rimuovi Malattie garantisce 2 Tiri Salvezza riusciti, ma se questo non è sufficiente per rimuovere la malattia allora l'afflitto dovrà passare uno o più successivi Tiri Salvezza per riuscire a liberarsi dell'afflizione.
+
+Ogni Critico Magico ottenuto con la Prova della magia nel lancio dell'incantesimo  equivale a passare 2 ulteriori Tiri Salvezza.\\
+
+Esempi di Malattie:\\
+
+\textbf{Influenza Demoniaca}:  1 minuto, TS Tempra DC 16, 12 ore, 2 successi, -1 Costituzione/12 ore\index{Influenza Demoniaca}\\
+
+\textbf{Corruzione di Rezh}: 1 giorno, TS Volontà DC 18, 1 ora, 2 successi, -1d6 Punti Ferita Massimi/6 ore\index{Corruzione di Rezh}\\
+
+\textbf{Piaga Funginea}\index{Piaga Funginea}: 8 ore, TS Tempra DC 24, 12 ore, 2 successi, -1 punto a Destrezza e Intelligenza/12 ore\\
+
+\textbf{Torpore Violento}\index{Torpore Violento}: 24 ore, TS Volontà DC 12, 1 successo, +1 al Danno con Armi da Mischia e -1 Saggezza/12 ore\\
+
+\textbf{Febbre Demoniaca minore}\index{Febbre Demoniaca minore}: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -2 Costituzione e Saggezza/6 ore\\
+
+\textbf{Sangue Nero}\index{Sangue Nero}: 10 minuti, TS Tempra 28, 12 ore, 1 successo, perdita metà Punti Ferita rimasti/4 ore\\
+
+\textbf{Peste T}\index{Peste T}: 1 minuto, TS Tempra 30, 2 ore, 3 successi, esegui 3 successi consecutivi altrimenti vieni trasformati in uno zombi\\
+
 
 
 \end{multicols}
@@ -26161,7 +26227,7 @@ I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono
 
 \textit{\textbf{Morso.} Attacco con arma da mischia}: +3 a colpire, portata 1 m, una creatura.
 
-\textit{Colpisce:} 3 (1d4 + 1) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 11 per non essere magicamente pietrificato. Se fallisce il Tiro Salvezza, la creatura inizia a trasformarsi in pietra ed è intralciata. Al termine del turno successivo deve ripetere il Tiro Salvezza. Se lo riesce, l'effetto ha termine. Se lo fallisce, la creatura è pietrificata per 24 ore.
+\textit{Colpisce:} 3 (1d4 + 1) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 11 per non essere magicamente pietrificato. Se fallisce il Tiro Salvezza, la creatura inizia a trasformarsi in pietra ed è intralciata. Al termine del round successivo deve ripetere il Tiro Salvezza. Se lo riesce, l'effetto ha termine. Se lo fallisce, la creatura è pietrificata per 24 ore.
 
 \textbf{Ecologia}\\
 Ambiente: Pianure temperate\\
