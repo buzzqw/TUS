@@ -18296,13 +18296,13 @@ Not all poisons are toxic when ingested or inhaled.
 
 To identify a natural potion, a check of Herbalism is required at DC 12 + the rarity of the plant or, in the case of poisons, the difficulty is equal to the Saving Throw of the same. It costs 1 Action every 10 of DC or with Herbalism 6 or more it costs 1 Action every 15 DC and with 12 points it costs 1 Action every 20 DC. Potions unless otherwise described must be drunk (ingested).
 
-\textbf{Touch}: Contracted the moment someone touches the poison with bare skin. Contact poisons usually have an onset time of 1 round. A contact poison can be an ointment, balm, liquid of any density, or even powder if specified for contact and not inhalation.
+\textbf{Touch (C)}: Contracted the moment someone touches the poison with bare skin. Contact poisons usually have an onset time of 1 round. A contact poison can be an ointment, balm, liquid of any density, or even powder if specified for contact and not inhalation.
 
-\textbf{Ingested}: Trigger when a creature eats or drinks them. Ingested poisons usually have an onset time of 10 minutes.
+\textbf{Ingested (I)}: Trigger when a creature eats or drinks them. Ingested poisons usually have an onset time of 10 minutes.
 
-\textbf{Wounding}: Transferred mainly with the attacks of some creatures and with weapons doused with poison. Wounding poisons usually have an instantaneous onset time.
+\textbf{Wounding (F)}: Transferred mainly with the attacks of some creatures and with weapons doused with poison. Wounding poisons usually have an instantaneous onset time.
 
-\textbf{Inhalation}: Activate the moment a creature enters an area containing such poisons. Many inhaled poisons fill a volume equal to a cube with an edge of 3x3x3 meters per dose. Creatures may attempt to hold their breath while within the area to avoid inhaling the toxin.
+\textbf{Inhalation (R)}: Activate the moment a creature enters an area containing such poisons. Many inhaled poisons fill a volume equal to a cube with an edge of 3x3x3 meters per dose. Creatures may attempt to hold their breath while within the area to avoid inhaling the toxin.
 A creature can hold its breath for 6 rounds per its Constitution score, with a minimum of 3 rounds, and each Action decreases the remaining time by 1 round.
 After the time has elapsed they must make a Fortitude save at difficulty 12 each round to avoid inhaling the gas. Each round you hold your breath, the difficulty check increases by 1.
 See also the rules for holding your breath and choking in \hyperlink{trattenereilfiato}{Environment}
@@ -18340,6 +18340,9 @@ If you are exposed to different poisons, you must make a Saving Throw for each t
 The \textbf{Remove Poison} spell removes poisons, and therefore the poisoned condition, which have not yet taken effect as long as the DC of the poison is lower than the DC of the Remove Poison spell.
 
 Each Magic Critical obtained with the Magic Test in casting the spell is equivalent to +4 in the calculation of the DC see (\hyperlink{spell save}{Saving Throws - Resist the spell}, pag. \pageref{spell save}) to overcome the DC of the poison.
+
+Poisons are presented, especially in the Monstruarium, with this wording: Poison Name, Use (I/R/F/C), Onset time, DC, Effect.
+
 
 \medskip
 
@@ -26190,7 +26193,9 @@ If the basilisk is within 10 meters of its reflection in bright light and sees i
 
 \textit{\textbf{Bite.} Melee Weapon Attack}: +7 to hit, reach 1m, one target.
 
-\textit{Hit:} 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
+\textit{Hit:} 10 (2d6 + 3) piercing damage plus Basilisk poison's.
+
+\textit{Poison.} Basilisk poison's, F, istant, 14, slowed 1/3r.
 
 \textbf{Ecology}\\
 Environment: Any\\
@@ -27205,7 +27210,7 @@ Chuul are surprisingly intelligent, and many engage in idle speculation about th
 
 \textit{\textbf{Bite.} Melee Weapon Attack}: +3 to hit, reach 3 ft., one creature.
 
-\textit{Hit:} 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Fortitude save or be magically petrified. On a failed save, the creature begins to turn to stone and is restrained. At the end of the next round he must repeat the Saving Throw. If it succeeds, the effect ends. On a failed save, the creature is petrified for 24 hours.
+\textit{Hit:} 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Fortitude save or be Slowed 1/1m by progressive petrification. If subsequent bites cause the creature to have no more Actions, the creature is petrified for 24 hours.
 
 \textbf{Ecology}\\
 Environment: Temperate lowlands\\
@@ -28223,7 +28228,10 @@ A glabrezu stands 18 feet tall and weighs just over 3500kg. These evil demons or
 
 \textit{\textbf{Bite.} Melee Weapon Attack}: +11 to hit, reach 1m, one target.
 
-\textit{Hit:} 15 (2d10 + 4) piercing damage.
+\textit{Hit:} 15 (2d10 + 4) piercing damage and Lesser Demonic Fever disease.
+
+\textit{Lesser Demonic Fever}: 1 minute, save Fortitude DC 18, 6 hours, 3 successes, -1 Constitution and Wisdom/6 hours.
+
 
 \textbf{Ecology}\\
 Environment: Any (Abyss)\\
@@ -28359,7 +28367,10 @@ A marilith stands 6 to 9 feet tall, 6 meters long from head to tip of tail, and 
 
 \textit{\textbf{Bite.} Melee Weapon Attack}: +18 to hit, reach 1m, one target.
 
-\textit{Hit:} 32 (5d10 + 5) piercing damage.
+\textit{Hit:} 32 (5d10 + 5) piercing damage and Demonic Fever.
+
+\textit{Demonic Fever}: 1 minute, Saving Throw Fortitude DC 23, 4 hours, 3 successes, -1 Constitution and Wisdom/4 hours.
+
 
 \textit{\textbf{Halo of Horror (Cooldown 5-6).}} The demon emits a shimmering, multicolored magical light. Any creature within 5 meters of the demon that can see the light must succeed on a DC 15 Will save or be frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself on a successful one. If the creature's Saving Throw succeeds or the effect ends for it, the creature is immune to the Halo of
 Horror of the moaning demon for the next 24 hours.
@@ -28970,7 +28981,7 @@ A typical horned devil grows to a remarkable 2.7 meters tall, has wings with a s
 
 \textit{\textbf{Bite.} Melee Weapon Attack}: +10 to hit, reach 1m, one target.
 
-\textit{Hit:} 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
+\textit{Hit:} 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage. Fortidude Saving Throw DC 18 or Slowed 1/1r.
 
 \textit{\textbf{Wall of Ice (Cooldown 6).}} The devil magically forms a wall of opaque ice on a solid surface that he can see within 20 meters of him. The wall is 30 centimeters thick and up to 9 meters wide by a maximum of 3 meters in height, or a hemispherical dome of up to 6 meters in diameter. When the wall appears, any creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Reflex save, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
 
@@ -33092,7 +33103,7 @@ Usually they form reproductive pairs to rear their offspring only for short peri
 
 \textit{Hit:} 12 (3d6 + 3) bludgeoning damage. The creature must make a DC 11 Fortitude save or fall prone.
 
-\textit{\textbf{Fire Mash}} Ranged Attack: +7 on hit, reach 3 meter, 2 squares. The Blast Roach regurgitates a sticky, flammable liquid into the air. Reload 1/3-6.
+\textit{\textbf{Fire Mash}} Ranged Attack: +7 on hit, reach 3 meter. The Blast Roach regurgitates a sticky, flammable liquid into the air. Reload 1/3-6.
 
 \textit{Hit:} 18 (4d6 + 6) fire damage. DC 13 Reflex save to halve.
 
@@ -49705,6 +49716,8 @@ he terrain is considered difficult and you are still considered prone until you 
 
 \textbf {Sleep} \index {Sleep}: Whenever a character ends a 24-hour period without sleeping for at least 8 hours, he must make a DC 12 Fortitude save or become fatigued. Each further missed rest will make him even more fatigued by cumulating the relative penalties.
 If the character stays awake for more days, fighting sleep becomes more difficult. After the first 24 hours, DC increases by 4 for each consecutive 24-hour period without 8 hours of sleep. DC resets to 12 when character completes a rest of at least 8 hours.
+
+\textbf{Slowed}\index{Slowed}: a slowed creature is unable to perform all 3 possible Actions in the round. Slowed down is always indicated with two values, the first indicates how many less Actions are done per round, the second the duration of the effect, if marked with a - then it has no indicated end. Ex. Slowed 1/3r, Slowed 2/- .
 
 \textbf{Stunned/Knocked Out}:\index{Stunned}\index{Knocked Out} is considered \textbf{Helpless}.
 

@@ -254,7 +254,9 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 28/02/2023 aggiornata versione POD
 
-0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiuno capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, 
+0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiuno capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, 
+
+controllo morsi : Drago Bianco Antico
 
 
 - aggiunti \label{} fino a piani
