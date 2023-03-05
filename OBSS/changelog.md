@@ -254,9 +254,10 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 28/02/2023 aggiornata versione POD
 
-0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiuno capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, 
+0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiuno capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, aggiunta malattia fustigatore, aggiunto veleno a G.E.C., aggiunta malattia gnoll, aggiunto arrabbiato a CR 5 boulette, Cumulo strisciante, fustigatore, golem di carne, Gorgone, otyugh, Salamadra, Wraith, Xorn
 
-controllo morsi : Drago Bianco Antico
+
+arrabbiato fatto cr 5
 
 
 - aggiunti \label{} fino a piani
@@ -269,7 +270,7 @@ Aggiungere immagini:
 per arrabbiato
 
 
-Ultime energie: la creatura recupera il suo GS in punti ferita
+\textit{\textbf{Arrabbiato:}} Ultime energie: la creatura recupera tre volte il suo GS in punti ferita. Costa 1 Azione.
 
 Resistenza al Danno: la creatura acquisisce resistenza al danno pari al suo GS fino a fine combattimento
 
@@ -290,7 +291,8 @@ Benedizione: la creatura può lanciare un incantesimo che ha già lanciato e non
 Sovraccarico: solo draghi, lancia 1d6, se ottieni  4-5-6 il drago puo' soffiare questo round
 
 
-Last Energies: The creature regains its CR in hit points
+
+\textit{\textbf{Angry:}} Last Energies: The creature regains three times its CR in hit points. Cost 1 Action.
 
 Damage Resistance: The creature gains damage resistance equal to its CR until end of combat
 
@@ -312,8 +314,7 @@ Overload: Dragons only, roll 1d6, if you roll 4-5-6 the dragon can breath again 
 
 
 > valutare:
-- un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster 
-- aggiungere malattie e veleni ai mostri
+- un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  xDC
 - aggiungere bloodied/Arrabbiato ai singolo mostri
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
 - indicazioni su sessione zero, quali domande, cosa dire
