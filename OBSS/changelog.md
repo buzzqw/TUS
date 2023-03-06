@@ -254,10 +254,17 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 28/02/2023 aggiornata versione POD
 
-0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiuno capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, aggiunta malattia fustigatore, aggiunto veleno a G.E.C., aggiunta malattia gnoll, aggiunto arrabbiato a CR 5 boulette, Cumulo strisciante, fustigatore, golem di carne, Gorgone, otyugh, Salamadra, Wraith, Xorn, aggiunto arrabbiato a CR 6 chimera, vrock, drider, fioritura ossea, Persecutore Invisibile, 
+0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiuno capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, aggiunta malattia fustigatore, aggiunto veleno a G.E.C., aggiunta malattia gnoll, corretto tiri salvezza assassino, corretto ts a divora cervelli, corretti incantesimi a gigante delle nubi
+aggiunto Arrabbiato a:
+5 boulette, Cumulo strisciante, fustigatore, golem di carne, Gorgone, otyugh, Salamadra, Wraith, Xorn
+6 chimera, vrock, drider, fioritura ossea, Persecutore Invisibile, 
+chiarimenti su danni da sanguinamento, 
+7 drago nero giovane, drago di rame giovane, gigante di pietra, oni
+8 Hezrou, diavolo delle catene, tirannosauro, drago di bronzo giovane, gigante del ghiaggio, manto assassino, corretti 
+9 glabrezu, Diavolo d'Ossa, drago blu giovane, drago giovane d'argento, gigante del fuoco, gigante delle nubi
 
 
-arrabbiato fatto cr 6
+arrabbiato fatto cr 9
 
 
 - aggiunti \label{} fino a piani
