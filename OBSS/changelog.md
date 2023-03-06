@@ -262,9 +262,11 @@ chiarimenti su danni da sanguinamento,
 7 drago nero giovane, drago di rame giovane, gigante di pietra, oni
 8 Hezrou, diavolo delle catene, tirannosauro, drago di bronzo giovane, gigante del ghiaggio, manto assassino, corretti 
 9 glabrezu, Diavolo d'Ossa, drago blu giovane, drago giovane d'argento, gigante del fuoco, gigante delle nubi
+10 drago giovane rosso, drago giovane d'oro, G.E.C
+11 Behir, Remorhaz, 
 
 
-arrabbiato fatto cr 9
+arrabbiato fatto cr 11
 
 
 - aggiunti \label{} fino a piani
