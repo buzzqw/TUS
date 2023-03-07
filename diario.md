@@ -1,3 +1,20 @@
+**07/03/2023**
+
+Il lavoro su OBSS sta continuando imperterrito.
+Se vedete la mole di cambiamenti nell'ultimo mese c'e' da rimanere sorpresi.
+Ma non era cosi' ben playtestato e controllato e curato ? Allora perche' tutte queste modiche ?
+
+L'occhi attento non si ferma alla forma ma ne saggia il contenuto e ne studia le differenze!
+
+Detta in maniera piu' chiara e' si vero che ci sono meccaniche anche nuove ma queste non rendono il precedente manuale inutile! Il lavoro recente e' nato da una ripresa piu' accentuata del playtest con controlli piu' precisi e dedicati.
+Ho voluto chiarire ed implementare situazioni e gestioni in maniera piu' conforme piu' intuitivi, vedi lavoro su maledizioni malattie e veleni.
+
+L'ultimo lavoro "grosso" e' stato implementare la meccanica *arrabbiato* a diversi mostri, riprendendo quello che era il *bloodied* della 4ed.
+Per adesso e' implementato nei mostri, non tutti, da CR 10 a 15, valutero' se inserirlo anche per CR minori o maggiori.
+
+Riguardo a Dark Catacomb mi sto sempre piu' convincendo che l'approccio giusto e' fare che ogni cosa ha un valore di difesa da battere. Non si fa il tiro per il tiro salvezza ma e' il caster che deve superare la mia difisa magica con il suo incantesimo. Questa operazione semplifica le cose e rende ancora piu' lineare gli approcci.
+
+
 **06/02/2023**
 
 Quanto ha senso fare un altro manuale che e' una variante del precedente? Solo perche' cambiano i dadi da tirare, i bonus li calcoli cosi' o cosa'.. allora si fa un nuovo manuale ?

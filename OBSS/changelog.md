@@ -271,7 +271,7 @@ chiarimenti su danni da sanguinamento,
 15 drago verde adulto, fenice, mummia sovrana, 
 
 
-arrabbiato fatto cr 13
+arrabbiato fatto cr 15
 
 
 - aggiunti \label{} fino a piani
