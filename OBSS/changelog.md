@@ -254,7 +254,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 28/02/2023 aggiornata versione POD
 
-0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiunto capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, aggiunta malattia fustigatore, aggiunto veleno a G.E.C., aggiunta malattia gnoll, corretto tiri salvezza assassino, corretto ts a divora cervelli, corretti incantesimi a gigante delle nubi, maggiori chiarimenti su condizione avvelenato causata dai mostri, chiarimento su incantesimi in armatura, controllati tiri salvezza cr 11+, aggiornat la scheda, 
+0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiunto capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, aggiunta malattia fustigatore, aggiunto veleno a G.E.C., aggiunta malattia gnoll, corretto tiri salvezza assassino, corretto ts a divora cervelli, corretti incantesimi a gigante delle nubi, maggiori chiarimenti su condizione avvelenato causata dai mostri, chiarimento su incantesimi in armatura, controllati tiri salvezza cr 11+, aggiornata la scheda, chiarimenti su multiattacco, 
 
 aggiunto Arrabbiato a:
 5 boulette, Cumulo strisciante, fustigatore, golem di carne, Gorgone, otyugh, Salamadra, Wraith, Xorn
@@ -265,10 +265,13 @@ chiarimenti su danni da sanguinamento,
 9 glabrezu, Diavolo d'Ossa, drago blu giovane, drago giovane d'argento, gigante del fuoco, gigante delle nubi
 10 drago giovane rosso, drago giovane d'oro, G.E.C
 11 Behir, Remorhaz
+12 Erinni, Panoptikhan
+13 nalfeshnee, Drago Bianco Adulto, Drago d'ottone Adulto, gigante delle tempeste
+14 diavolo di ghiaccio, drago di rame adulto, 
+15 drago verde adulto, fenice, mummia sovrana, 
 
 
-
-arrabbiato fatto cr 11
+arrabbiato fatto cr 13
 
 
 - aggiunti \label{} fino a piani
