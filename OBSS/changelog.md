@@ -328,6 +328,7 @@ Overload: Dragons only, roll 1d6, if you roll 4-5-6 the dragon can breath again 
 
 
 > valutare:
+- gestione morale mostri
 - un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  xDC
 - aggiungere bloodied/Arrabbiato ai singolo mostri
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
