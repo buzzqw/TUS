@@ -254,7 +254,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 28/02/2023 aggiornata versione POD
 
-0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiunto capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, aggiunta malattia fustigatore, aggiunto veleno a G.E.C., aggiunta malattia gnoll, corretto tiri salvezza assassino, corretto ts a divora cervelli, corretti incantesimi a gigante delle nubi, maggiori chiarimenti su condizione avvelenato causata dai mostri, chiarimento su incantesimi in armatura, controllati tiri salvezza cr 11+, aggiornata la scheda, chiarimenti su multiattacco, aggiornata tabella per tesoro per incontro, better english manual layout, indicazioni su penalita' magia con armatura e scudi, aggiunte formule per costruire elementali, chiarimenti su danno coordinato, aggiunta abilita' potere del patrono, chiarimenti su prova di magia ed armature, chiarimenti su armatura del devoto, chiarimenti su danza della lama, 
+0.68 aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiunto capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, aggiunta malattia fustigatore, aggiunto veleno a G.E.C., aggiunta malattia gnoll, corretto tiri salvezza assassino, corretto ts a divora cervelli, corretti incantesimi a gigante delle nubi, maggiori chiarimenti su condizione avvelenato causata dai mostri, chiarimento su incantesimi in armatura, controllati tiri salvezza cr 11+, aggiornata la scheda, chiarimenti su multiattacco, aggiornata tabella per tesoro per incontro, better english manual layout, indicazioni su penalita' magia con armatura e scudi, aggiunte formule per costruire elementali, chiarimenti su danno coordinato, aggiunta abilita' potere del patrono, chiarimenti su prova di magia ed armature, chiarimenti su armatura del devoto, chiarimenti su danza della lama, chiarimenti su danno coordinato, 
 
 aggiunto Arrabbiato a:
 5 boulette, Cumulo strisciante, fustigatore, golem di carne, Gorgone, otyugh, Salamadra, Wraith, Xorn
@@ -269,9 +269,10 @@ chiarimenti su danni da sanguinamento,
 13 nalfeshnee, Drago Bianco Adulto, Drago d'ottone Adulto, gigante delle tempeste
 14 diavolo di ghiaccio, drago di rame adulto, 
 15 drago verde adulto, fenice, mummia sovrana, 
+16 planetar, marilith, drago blu adulto, drago d'argento adulto, 
+17 drago nero adulto, drago rosso adulto, drago d'oro adulto, androsfinge, 
 
-
-arrabbiato fatto cr 15
+arrabbiato fatto cr 17
 
 
 - aggiunti \label{} fino a piani
