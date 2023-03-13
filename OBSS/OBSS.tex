@@ -10574,7 +10574,7 @@ Se l'oggetto o persona è stato maledetto tramite l'incantesimo Scagliare Maledi
 
 Sia che sia stato sufficiente lanciare l'incantesimo oppure sia stato lanciato con una Prova di Magia, la maledizione resta, ma l'incantesimo permette di rimuovere l'oggetto e gettarlo.
 
-\medskip\textbf{Rimuovi Veleno}\index[Incantesimi]{Rimuovi Veleno}\\
+\medskip\textbf{Rimuovi Veleno}\index[Incantesimi]{Rimuovi Veleno}\label{incrimuoviveleno}\hypertarget{incrimuoviveleno}\\
 \textbf{Scuola}: Acqua, Cura\\
 \textbf{Livello}: 3, Comune\\
 \textbf{Tempo di Lancio}: 1 round\\
@@ -18266,13 +18266,6 @@ I veleni qui proposti sono alcuni dei tanti presenti e possibili. Usali come lin
 
 Se si viene esposti a veleni diversi è necessario effettuare un Tiro Salvezza per ogni tipo di veleno assunto.
 
-L'incantesimo \textbf{Rimuovi Veleno} rimuove i veleni, e quindi la condizione avvelenato, che non hanno ancora fatto effetto purchè la DC del Veleno sia inferiore alla DC dell'incantesimo Rimuovi Veleno. Se la DC del veleno non è espressa allora si considera che basta il semplice lancio dell'incantesimo per annullarne gli effetti.
-
-Ogni Critico Magico ottenuto con la Prova della magia nel lancio dell'incantesimo  equivale a +4 nel calcolo della DC vedi (\hyperlink{magietirosalvezza}{Tiri Salvezza - Resistere all'incantesimo}, pag. \pageref{magietirosalvezza}) per superare quello del veleno.
-
-I Veleni sono presentati, specialmente nel Mostruario con questa dizione: Nome Veleno, Uso (I/R/F/C), tempo Insorgenza, DC del Tiro Salvezza, Effetto. 
-
-\medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Veleno ?]
 {Il veleno è un arma a doppio taglio. Finché la usi tu va bene ma se te la usano contro, magari lo stesso, diventa un problema. Ci sono anche degli aspetti etici nell'usare i veleni, valuta se i tuoi Tratti ti permettono di usare dei veleni e di che tipi.}\end{tcolorbox}\end{changemargin}
@@ -18288,6 +18281,17 @@ Un pozione di veleno è sufficiente per coprire di veleno un arma media oppure 3
 
 Una creatura sotto gli effetti di un veleno, che si siano già scatenati o meno, ha la condizione di Avvelenato.
 
+\subsection{Rimuovere il veleno}
+
+L'incantesimo \hyperlink{incrimuoviveleno}{Rimuovi Veleno} (pag. \pageref{incrimuoviveleno}) rimuove i veleni, e quindi la condizione avvelenato, che non hanno ancora fatto effetto purchè la DC del Veleno sia inferiore alla DC dell'incantesimo Rimuovi Veleno. Se la DC del veleno non è espressa allora si considera che basta il semplice lancio dell'incantesimo per annullarne gli effetti.
+
+Ogni Critico Magico ottenuto con la Prova della magia nel lancio dell'incantesimo  equivale a +4 nel calcolo della DC vedi (\hyperlink{magietirosalvezza}{Tiri Salvezza - Resistere all'incantesimo}, pag. \pageref{magietirosalvezza}) per superare quello del veleno.
+
+Una prova di Pronto Soccorso\index{Pronto Soccorso e Veleni}\index{Veleni e Pronto Soccorso}, che sia almeno la metà della DC del veleno entro il tempo dell'insorgenza, permette di effettuare un nuovo Tiro Salvezza. Una volta fatta la prova non è più possibile rifarla se non dopo l'insorgenza.
+Un trattamento continuativo di Pronto Soccorso per 8 ore permette di effettuare un nuovo Tiro Salvezza dopo l'attivazione del veleno.
+
+\medskip
+
 \subsection{Creare Veleni Naturali}\index{Creare Veleni Naturali}\label{crearevelenonaturale}
 
 I veleni naturali possono essere realizzati usando Erboristeria. La DC per preparare un veleno è uguale alla DC del Tiro Salvezza su Tempra che richiede -5. Se gli ingredienti si comprano il costo per preparare la pozione è metà del costo di vendita indicato, se si cercano in natura il costo per produzione scende ad un quarto. Il tempo per preparare queste pozioni/droghe è pari alla DC/2 in ore.
@@ -18296,8 +18300,10 @@ Ottenendo un fallimento critico con la prova di Erboristeria ci si espone al vel
 
 Gli esempi seguenti rappresentano solo alcuni dei possibili veleni. Tutti i costi sono espressi in Monete d'Oro.
 
+I Veleni sono presentati, specialmente nel Mostruario con questa dizione: Nome Veleno, Uso (I/R/F/C), tempo Insorgenza, DC del Tiro Salvezza, Effetto. 
+
 \begin{center}
-\includegraphics[height=0.5\linewidth]{immagini/poison.png}
+\includegraphics[height=0.3\linewidth]{immagini/poison.png}
 \end{center}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
@@ -18309,7 +18315,7 @@ I veleni fanno parte della lunga tradizione dei problemi ed avversità nei gioch
 \vfill
 
 \begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/funeralebarca.png}
+\includegraphics[width=0.4\linewidth]{immagini/funeralebarca.png}
 \end{center}
 
 
@@ -18643,13 +18649,15 @@ Solitamente il tempo di scatenamento di una malattia non è così immedidato com
 
 Una malattia richiede un Tiro Salvezza per evitare completamente di prendere il malanno e poi più Tiri Salvezza riusciti in successione per guarire una volta fallito il primo.
 
-Ogni malattia  deve aver indicato il tempo di insorgenza, il Tiro Salvezza iniziale, ogni quanto va rifatto il Tiro Salvezza, quanti successi al TS sono necessari per guarire, gli effetti che si subiscono ed ogni quanto.
+Ogni malattia  deve aver indicato il tempo di insorgenza, il Tiro Salvezza iniziale, ogni quanto va rifatto il Tiro Salvezza, quanti successi al TS sono necessari per guarire, gli effetti che si subiscono.
 
-Es. Febbre Demoniaca minore: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -1 Costituzione e Saggezza/6 ore.
+Es. Febbre Demoniaca minore: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -1 Costituzione e Saggezza
 
 La Febbre Demoniaca minore costringe al Tiro Salvezza su Tempra a DC 18 dopo un solo minuto che la si è presa. Successivamente ogni 6 ore va rifatto il Tiro Salvezza e la malattia permane finchè non si sono fatti almeno 3 successi consecutivi al TS. Ogni 6 ore il malato perde 1 punti a Costituzione e Saggezza.
 
 Per guarire da una malattia, non naturale, come quelle afflitte dai mostri è necessario passare i Tiri Salvezza richiesti oppure avere a disposizione un incantesimo di \hyperlink{rimuovimalattie}{Rimuovi Malattie} (pag. \pageref{rimuovimalattie}).
+
+Una prova di \textbf{Pronto Soccorso}\index{Pronto Soccorso e Malattie}\index{Malattie e pronto soccorso}, con DC pari almeno alla metà della DC della malattia (o 15 se non indicata), effettuata tra un Tiro Salvezza e successivo, permette di avere un +1 al Tiro Salvezza per resistere agli effetti della malattia.
 
 L'incantesimo Rimuovi Malattie garantisce la guarigione dall'afflizione purchè la DC di lancio dell'incantesimo sia superiore alla DC della malattia.
 
@@ -18665,13 +18673,13 @@ Esempi di Malattie:\\
 
 \textbf{Piaga Funginea}\index{Piaga Funginea}: 8 ore, TS Tempra DC 24, 12 ore, 2 successi, -1 punto a Destrezza e Intelligenza/12 ore
 
-\textbf{Torpore Violento}\index{Torpore Violento}: 24 ore, TS Volontà DC 12, 1 successo, +1 al Danno con Armi da Mischia e -1 Saggezza/12 ore
+\textbf{Torpore Violento}\index{Torpore Violento}: 24 ore, TS Volontà DC 12, 12 ore, 1 successo, +1 al Danno con Armi da Mischia e -1 Saggezza
 
-\textbf{Febbre Demoniaca minore}\index{Febbre Demoniaca minore}: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -1 Costituzione e Saggezza/6 ore
+\textbf{Febbre Demoniaca minore}\index{Febbre Demoniaca minore}: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -1 Costituzione e Saggezza
 
-\textbf{Sangue Nero}\index{Sangue Nero}: 10 minuti, TS Tempra 28, 12 ore, 1 successo, perdita metà Punti Ferita rimasti/4 ore
+\textbf{Sangue Nero}\index{Sangue Nero}: 10 minuti, TS Tempra 28, 12 ore, 1 successo, perdita metà Punti Ferita rimasti
 
-\textbf{Peste T}\index{Peste T}: 1 minuto, TS Tempra 30, 2 ore, 3 successi, esegui 3 successi consecutivi altrimenti vieni trasformati in uno zombi
+\textbf{Peste T}\index{Peste T}: 1 minuto, TS Tempra 30, 2 ore, 3 successi, esegui 3 successi consecutivi altrimenti vieni trasformato in uno zombi
 
 \end{multicols}
 
@@ -26857,7 +26865,7 @@ Un glabrezu è alto 5,4 metri e pesa poco più di 3000 kg. Questi perfidi demoni
 
 \textit{Colpisce:} 15 (2d10 + 4) danni perforanti e malattia Febbre Demoniaca minore.
 
-\textit{Febbre Demoniaca minore}: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -1 Costituzione e Saggezza/6 ore.
+\textit{Febbre Demoniaca minore}: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -1 Costituzione e Saggezza.
 
 \textit{\textbf{Arrabbiato:}} Hezrou rilascia una nube di fetore incendiaria. Tutte le creature attorno a lui entro 3 metri devono fare un Tiro Salvezza su Riflessi DC 18 per dimezzare i 4d10 di danno da fuoco. Costa 2 Azioni.
 
@@ -32945,7 +32953,7 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 
 \textit{Colpisce:} 22 (4d8 + 4) danni perforanti e Malattia Necrosi Purulenta
 
-\textit{Necrosi Purulenta:}  1 giorno, TS Tempra DC 15, 12 ore, 1 successo, -1 Costituzione/6 ore.
+\textit{Necrosi Purulenta:}  1 giorno, TS Tempra DC 15, 12 ore, 1 successo, -1 Costituzione.
 
 \textit{\textbf{Viticcio.} Attacco con arma da mischia}: +7 a colpire, portata 15 m, una creatura.
 
@@ -34087,7 +34095,7 @@ I giganti delle tempeste vivono in belle torri, castelli o in insediamenti cinti
 
 \textit{Colpisce:} 4 (1d4 + 2) danni perforanti, Malattia Rabbia Gnoll
 
-\textit{Rabbia Gnoll:} 1 giorno, TS Tempra DC 13, 1 ora, 1 successo, -2 Saggezza/12 ore
+\textit{Rabbia Gnoll:} 1 giorno, TS Tempra DC 13, 12 ora, 1 successo, -2 Saggezza
 
 \textit{\textbf{Lancia.} Attacco con arma da mischia o a Distanza}: +4 a colpire, portata 1 m o gittata 6 m, un bersaglio.
 

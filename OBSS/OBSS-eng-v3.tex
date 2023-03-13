@@ -10691,7 +10691,7 @@ You can end even a natural disease. In the case of magical diseases your DC must
 
 \textbf{For each magical critical success gained} in the Magic Test you can heal one more person or count +4 in DC to overcome the DC disease's.
 
-\medskip\textbf{Remove Poison}\index[Spells]{Remove Poison}\\
+\medskip\textbf{Remove Poison}\index[Spells]{Remove Poison}\label{incrimuoviveleno}\hypertarget{incrimuoviveleno}{}\\
 \textbf{School}: Water, Heal\\
 \textbf{Level}: 3, Common\\
 \textbf{Casting Time}: 1 round\\
@@ -18359,7 +18359,7 @@ The effect of a poison/potion is immediate after onset. Check the description of
 There are some cases in which the Frequency item is present, in these rare occasions the Saving Throw must be repeated every time the indicated Frequency passes, in case of failure of the Saving Throw the indicated damages are re-applied.
 
 \begin{center}
-\includegraphics[height=0.5\linewidth]{immagini/potion.png}
+\includegraphics[height=0.4\linewidth]{immagini/potion.png}
 \end{center}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narrator}
@@ -18380,17 +18380,6 @@ The poisons proposed here are some of the many present and possible. Use them as
 
 If you are exposed to different poisons, you must make a Saving Throw for each type of poison taken.
 
-The \textbf{Remove Poison} spell removes poisons, and therefore the poisoned condition, which have not yet taken effect as long as the DC of the poison is lower than the DC of the Remove Poison spell. If the DC of Poison isn't specified the casto of Remove Poison spell's is enough to dispel the effect of poison.
-
- Se la DC del veleno non è espressa allora si considera che basta il semplice lancio dell'incantesimo per annullarne gli effetti.
-
-Each Magic Critical obtained with the Magic Test in casting the spell is equivalent to +4 in the calculation of the DC see (\hyperlink{spell save}{Saving Throws - Resist the spell}, pag. \pageref{spell save}) to overcome the DC of the poison.
-
-Poisons are presented, especially in the Monstruarium, with this wording: Poison Name, Use (I/R/F/C), Onset time, DC of Saving Throw, Effect.
-
-
-\medskip
-
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Poison ?]
 {Poison is a double-edged sword. As long as you use it it's fine but if they use it against you, maybe the same, it becomes a problem. There are also ethical aspects to using poisons, consider whether your Traits allow you to use poisons and what types.
 }\end{tcolorbox}\end{changemargin}
@@ -18406,6 +18395,16 @@ A potion of poison is enough to cover a medium weapon or 3 arrows with poison. T
 
 A creature under the effects of a poison, whether already unleashed or not, has the poisoned condition.
 
+\subsection{Remove Poison}
+
+The \textbf{Remove Poison} spell removes poisons, and therefore the poisoned condition, which have not yet taken effect as long as the DC of the poison is lower than the DC of the Remove Poison spell. If the DC of Poison isn't specified the casto of Remove Poison spell's is enough to dispel the effect of poison.
+
+Each Magic Critical obtained with the Magic Test in casting the spell is equivalent to +4 in the calculation of the DC see (\hyperlink{spell save}{Saving Throws - Resist the spell}, pag. \pageref{magietirosalvezza}) to overcome the DC of the poison.
+
+A First Aid check\index{First Aid and Poisons}\index{Poisons and First Aid}, which is at least half the DC of the poison within the onset time, allows you to make a new saving throw. Once the check has been done, it is no longer possible to do it again until after the onset.
+A continuous treatment of First Aid for 8 hours allows you to make a new saving throw after the activation of the poison.
+
+
 \subsection{Create Natural Poisons}\index{Create Natural Poisons}\label{crearevelenonaturale}
 
 Natural poisons can be crafted using Herbalism. The DC to brew a poison is equal to the DC of a Fortitude save which requires -5. If you buy the ingredients, the cost to prepare the potion is half of the indicated selling cost, if you look for them in nature, the production cost drops to a quarter. The time to prepare these potions/drugs is equal to DC/2 in hours.
@@ -18414,8 +18413,10 @@ A critical failure on Herbalism check exposes you to the poison during its prepa
 
 The following examples represent just a few of the possible poisons. All costs are expressed in Gold Coins.
 
+Poisons are presented, especially in the Monstruarium, with this wording: Poison Name, Use (I/R/F/C), Onset time, DC of Saving Throw, Effect.
+
 \begin{center}
-\includegraphics[height=0.4\linewidth]{immagini/poison.png}
+\includegraphics[height=0.35\linewidth]{immagini/poison.png}
 \end{center}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narrator}
@@ -18427,7 +18428,7 @@ Poisons are part of the long tradition of trouble and adversity in RPGs. When yo
 \vfill
 
 \begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/funeralebarca.png}
+\includegraphics[width=0.4\linewidth]{immagini/funeralebarca.png}
 \end{center}
 
 
@@ -18760,13 +18761,15 @@ Usually the triggering time of a disease is not as immediate as a poison and yet
 
 A disease requires a saving throw to completely avoid taking the disease and then multiple successful saving throws in succession to heal once the first fails.
 
-Each disease must have indicated the time of onset, the initial saving throw, how often the saving throw must be redone, how many successes on the ST are needed to heal, the effects suffered and how often.
+Each disease must have indicated the time of onset, the initial saving throw, how often the saving throw must be redone, how many successes on the ST are needed to heal, the effects suffered.
 
-Ex. Lesser Demonic Fever: 1 minute, save Fortitude DC 18, 6 hours, 3 successes, -1 Constitution and Wisdom/6 hours.
+Ex. Lesser Demonic Fever: 1 minute, save Fortitude DC 18, 6 hours, 3 successes, -1 Constitution and Wisdom.
 
 Lesser Demonic fever forces a DC 18 Fortitude save after only one minute of taking it. Subsequently every 6 hours the saving throw must be redone and the disease persists until at least 3 consecutive successes have been made on the TS. Every 6 hours the sufferer loses 2 points to Constitution and Wisdom.
 
 To recover from a non-natural disease, such as those afflicted by monsters, it is necessary to pass the required Saving Throws or have a \hyperlink{remove disease}{Remove Disease} spell available (p. \pageref{rimuovimalattie}).
+
+A \textbf{First Aid}\index{First Aid and Disease}\index{Disease and First Aid} test, with DC equal to at least half the DC of the disease (or 15 if not indicated), carried out between one Saving Throw and the next, allows you to have a +1 to the Saving Throw to resist the effects of the disease.
 
 The remove disease spell grants healing from the affliction as long as the spell's DC is higher than the disease's DC.
 
@@ -18778,15 +18781,15 @@ Examples of Diseases:\\
 
 \textbf{Daemonic Influence}: 1 minute, save Fortitude DC 16, 12 hours, 2 successes, -1 Constitution/12 hours\index{Demon Influence}
 
-\textbf{Rezh's Corruption}: 1 day, Will save DC 18, 1 hour, 2 successes, -1d6 Max Hit Points/6 hours\index{Rezh's Corruption}
+\textbf{Rezh's Corruption}: 1 day, Will save DC 18, 1 hour, 2 successes, -1d6 Max Hit Points\index{Rezh's Corruption}
 
-\textbf{Funginean Plague}\index{Funginean Plague}: 8 hours, TS Fortitude DC 24, 12 hours, 2 successes, -1 point to Dexterity and Intelligence/12 hours
+\textbf{Funginean Plague}\index{Funginean Plague}: 8 hours, TS Fortitude DC 24, 12 hours, 2 successes, -1 point to Dexterity and Intelligence
 
-\textbf{Violent Torpor}\index{Violent Torpor}: 24 hours, Will save DC 12, 1 success, +1 Damage with Melee Weapons and -1 Wisdom/12 hours
+\textbf{Violent Torpor}\index{Violent Torpor}: 24 hours, Will save DC 12, 12 hours, 1 success, +1 Damage with Melee Weapons and -1 Wisdom
 
-\textbf{Lesser Demonic Fever}\index{Lesser Demonic Fever}: 1 minute, save Fortitude DC 18, 6 hours, 3 successes, -1 Constitution and Wisdom/6 hours
+\textbf{Lesser Demonic Fever}\index{Lesser Demonic Fever}: 1 minute, save Fortitude DC 18, 6 hours, 3 successes, -1 Constitution and Wisdom
 
-\textbf{Black Blood}\index{Black Blood}: 10 minutes, save Fortitude 28, 12 hours, 1 success, loss of half Hit Points remaining/4 hours
+\textbf{Black Blood}\index{Black Blood}: 10 minutes, save Fortitude 28, 12 hours, 1 success, loss of half Hit Points remaining
 
 \textbf{Pox T}\index{Pox T}: 1 minute, save Fortitude 30, 2 hours, 3 success, if not save three time in a row trasform in a zombi
 
@@ -28358,7 +28361,7 @@ A glabrezu stands 18 feet tall and weighs just over 3500kg. These evil demons or
 
 \textit{Hit:} 15 (2d10 + 4) piercing damage and Lesser Demonic Fever disease.
 
-\textit{Lesser Demonic Fever}: 1 minute, save Fortitude DC 18, 6 hours, 3 successes, -1 Constitution and Wisdom/6 hours.
+\textit{Lesser Demonic Fever}: 1 minute, save Fortitude DC 18, 6 hours, 3 successes, -1 Constitution and Wisdom.
 
 \textit{\textbf{Angry:}} Hezrou releases an incendiary cloud of stench. All creatures around him within 10 feet must make a DC 18 Reflex save to halve the 4d10 fire damage. Cost 2 Actions.
 
@@ -36187,7 +36190,7 @@ Clever and cunning, they prefer to attack by staying airborne and wearing down t
 
 \textit{Hit:} 4 (1d4 + 2) piercing damage, Disease Gnoll Rage
 
-\textit{Gnoll Rage:} 1 day, save Fortitude DC 13, 1 hour, 1 success, -2 Wisdom/12 hours
+\textit{Gnoll Rage:} 1 day, save Fortitude DC 13, 12 hour, 1 success, -2 Wisdom
 
 \textit{\textbf{Spear.} Melee or Ranged weapon attack}: +4 to hit, reach 1m or range 6m, one target.
 
@@ -41008,7 +41011,7 @@ A remorhaz is 7 meters long and weighs 5000 kg.
 
 \textit{Hit:} 22 (4d8 + 4) piercing damage and Purulent Necrosis Disease
 
-\textit{Purulent necrosis:} 1 day, save Fortitude DC 15, 12 hours, 1 success, -1 Constitution/6 hours.
+\textit{Purulent necrosis:} 1 day, save Fortitude DC 15, 12 hours, 1 success, -1 Constitution.
 
 \textit{\textbf{Tender.} Melee Weapon Attack}: +7 to hit, reach 15m, one creature.
 
