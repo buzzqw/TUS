@@ -139,6 +139,8 @@ boxrule=0.3pt
 \def \versione {0.68} \fontsize{10}{12}\selectfont
 \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(5.5cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(9cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{20cm}(4cm,27.5cm){\color{red} \calligra\Huge{Fantasy Adventure Game} \LARGE \textbf{v\versione}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
+
+
 \bigskip
 Dedicated to the only Woman ever loved, the one who accompanies me every day in my dreams\\
 
@@ -19584,19 +19586,19 @@ For a balanced method, characters that are created after 1st level should spend 
 \begin{tabularx}{0.45\textwidth}{XX}
 \textbf{Challenge Rating} & \textbf{per Encounter (mo)} \\
 \toprule
-\textbf{0 (Easy)} & LV*LV*10\\
-\textbf{+2 (Medium)} & LV*LV*30\\
-\textbf{+3 (High)} & LV*LV*50\\
-\textbf{+4 (Extraordinary)} & LV*L*70\\
-\textbf{+6 (Deadly)} & LV*LV*80\\
-\textbf{+8 (Epic)} & LV*LV*100\\
+\textbf{0 (Easy)} & LV*LV*5\\
+\textbf{+2 (Medium)} & LV*LV*10\\
+\textbf{+3 (High)} & LV*LV*15\\
+\textbf{+4 (Extraordinary)} & LV*L*20\\
+\textbf{+6 (Deadly)} & LV*LV*25\\
+\textbf{+8 (Epic)} & LV*LV*30\\
 \end{tabularx}
 \bigskip{}
 
 Use this table to get an indication of the Treasure value of the encounter.\index{Monster Treasure}
 
-A Double Treasure\index{Double Treasure} means that a party facing a match with a Challenge Rating of +2 compared to APL will find the equivalent of Level * Level * 30 * 2 in equivalent gold pieces.
-Ex. APL 6lv faces an encounter on High Difficulty (APL+3), they will get the equivalent of 6*6*50 gold from the encounter, 1800 gp.
+A Double Treasure\index{Double Treasure} means that a party facing a match with a Challenge Rating of +2 compared to APL will find the equivalent of Level * Level * 10 * 2 in equivalent gold pieces.
+Ex. APL 6lv faces an encounter on High Difficulty (APL+3), they will get the equivalent of 6*6*15 gold from the encounter, 540 gp.
 
 An accidental treasure indicates that there may be treasures, objects, coins only "accidentally" obtained, perhaps by killing other creatures. Stated differently, the creature does not collect treasures, but it could still have accumulated something.
 
@@ -19610,7 +19612,32 @@ In principle, each magic item found by the players is placed by the Arbiter with
 
 Nothing prevents you from cheering up \hyperlink{generazionetesorimagici}{Random Generation of Magical Objects} (pag \pageref{generazionetesorimagici}) I just ask you to be careful.
 
-In principle you can grant that a monster with Standard Treasure has 2\% of having a magic item, a Double Treasure has 4\% and a Triple Treasure 8\%. Obviously evaluate case by case depending on the type of monster and if, for example, it has a lair, it goes hunting for adventurers...
+You can grant that a monster with Standard Treasure has 1\% of having a magic item, a Double Treasure has 3\% and a Triple Treasure 5\%. Obviously evaluate case by case depending on the type of monster and if, for example, it has a lair, it goes hunting for adventurers...\index{Probability of Magical Object in treasure}
+
+If you prefer an established and balanced distribution, follow these guidelines. \index{Magical object per level}
+
+As for \textit{permanent} magic items (weapons, armor, other items with no charges or with daily charges) you can distribute the items according to this scheme:
+
+\begin{itemize}
+\item level 1st to 4th: one uncommon item
+\item level 5th to 7th: second uncommon item
+\item level 8 to 10: one rare item
+\item level 11 to 13: secondd rare item
+\item level 14 to 16: one very rare item
+\item beyond 17 level: second very rare or legendary item.
+\end{itemize}
+
+Concerning \textit{consumables} such as potions, scrolls or items with a decreasing use of charges
+
+\begin{itemize}
+\item 1 common consumable each level from 1 to 5
+\item 1 uncommon consumable every level from 6 to 10
+\item 1 rare consumable every level from 11 to 15
+\item 1 very rare consumable for each level from 16 to 19
+\item 1 legendary consumable at level 20
+\end{itemize}
+
+All of this clearly depends on the level of magic you want to give the adventure.
 
 
 \subsubsection{Table: Character Wealth by Level}\index{Table Character Wealth by Level}
@@ -19618,16 +19645,16 @@ In principle you can grant that a monster with Standard Treasure has 2\% of havi
 \begin{tabular}{ll|ll}
 \textbf{Level} & \textbf{Wealth} & \textbf{Level} & \textbf{Wealth}\\
 \toprule
-1 & 100 & 11 & 40000\\
-2 & 250 & 12 & 60000\\
-3 & 500 & 13 & 90000\\
-4 & 1000 & 14 & 120000\\
-5 & 2000 & 15 & 150000\\
-6 & 3000 & 16 & 180000\\
-7 & 5000 & 17 & 220000\\
-8 & 9000 & 18 & 270000\\
-9 & 15000 & 19 & 350000\\
-10 & 25000 & 20 & 450000\
+1 & 100 & 11 & 13900\\
+2 & 160 & 12 & 19900\\
+3 & 220 & 13 & 25900\\
+4 & 340 & 14 & 37900\\
+5 & 530 & 15 & 49800\\
+6 & 2030 & 16 & 67700\\
+7 & 3660 & 17 & 85700\\
+8 & 5780 & 18 & 142000\\
+9 & 8100 & 19 & 253000\\
+10 & 11000 & 20 & 365000\\
 \end{tabular}
 
 \smallskip
