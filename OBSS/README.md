@@ -2,6 +2,8 @@
 
 In this folder you will find material for playing the Old Bell School System (OBSS) role-playing game.  The game uses and is licensed with ShareAlike 4.0 International and inspired by DnD history. This means that if you know DnD it will be easy and quick to grasp the mechanics (even if quite different!)
 
+**Please read the https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-in-short.txt for a quick rundown on the most interesting parts**
+
 The magic system is based on spell point and many and more spell are modified and others added by me (with inspiring OSR theme). The combat remains easy, fast but much fun and tactical.
 
 OBSS refers to the OSR (Old School Renaissance) philosophy but in any case in a modern key, it embraces its principles but does not exclude a more complete system of rules that can help the Narrator.
@@ -27,6 +29,8 @@ Have fun and have a good game!
 In questa cartella troverete il materiale per giocare al gioco di ruolo Old Bell School System (OBSS). Tutto il materiale e' scritto in italiano, gratuito e gratis (giusto per enfatizzare!)
 
 Il gioco usa ed e' licenziato con la ShareAlike 4.0 International e ispirato a DnD, questo significa che se conoscete DnD vi sara' facile e veloce capirne le meccaniche.
+
+**Leggi il file https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-in-breve.txt per una veloce carrellato sulle caratteristiche principali di OBSS!**
 
 Il sistema magico e' a spell point ed molti incantesimi sono modificati ed altri aggiunti da me. Il combattimento rimane il medesimo di DSB ovvero aperto, dinamico, esplosivo e divertente.
 
