@@ -18,7 +18,7 @@ Old Bell School System is a mature, well-finished, complete game written with pa
 
 OBSS is aimed at novice Arbiters (or Masters as called elsewhere) who want to have fun and learn, the most experienced Arbiters will find a system with a blend that is usually captivating, refined but at the same time familiar.
 
-A changelog written in a slightly more understandable way than commits is the file changelog.md link, while in diario.md link you will find my author's delusions (few things currently!) (only in italian!)
+A changelog written in a slightly more understandable way than commits is the file changelog.md, while in diario.md you will find my author's delusions (few things currently!) (only in italian!)
 
 I created a Telegram channel https://t.me/obssgdr to talk and discuss on OBSS
 
