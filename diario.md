@@ -1,3 +1,63 @@
+**13/03/2023**
+
+mi chiedo quali possono essere le prossime priorita' per OBSS.
+Le idee sono tante ma come gia' detto non tutte possono essere applicate senza stravolgere eccessivamente il sistema.
+Quelle che possono essere applicate senza grossi problemi possono essere:
+
+
+- gestione morale mostri
+- gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
+- combattimento sociale, ampliare
+- modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
+- spendere i soldi: equipaggiamento, oggetti magici
+- piu' maledizioni
+- YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
+- psionici ? ispirazione da 2ed/3ed
+- rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
+- valutare movimento diagonale fare pesare 1m e non 1.5m
+- usage dice
+
+Ovvio che ci sono priorita' e priorita'. Un sistema di psionicismo ha una priorita' molto bassa quando tutto il resto non lo prevede.
+Anche cio' che riguarda l'espandere ed ampliare per quanto anche necessario non e' una priorita'.
+
+e cosi' riduciamo a:
+
+- gestione morale mostri
+- gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
+- modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
+- spendere i soldi: equipaggiamento, oggetti magici
+- YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
+- rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
+- valutare movimento diagonale fare pesare 1m e non 1.5m
+- usage dice
+
+Ovvio, lavorare sul setting dovrebbe essere la priorita', ma proprio perche' ha una priorita' cosi' alta deve essere affrontato in un progetto separato. Come l'usage dice, bella meccanica .. ma se non la applico non serve. 
+
+e arriviamo a
+
+- gestione morale mostri
+- gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
+- modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
+- spendere i soldi: equipaggiamento, oggetti magici
+- rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
+- valutare movimento diagonale fare pesare 1m e non 1.5m
+
+e qui incominciamo ad entrare nelle parti piu' meccaniche, ma sforzandosi ancora qualcosa puo' essere limato.
+Ad esempio le durate degli incantesimi per quanto interessante la modifica proposta non arricchisce il sistema. Downtime e spesa dei soldi e' interessante, ma in OBSS gli avventurieri non hanno tempo da perdere e soldi da spendere.. 
+
+e questo porta a:
+
+- gestione morale mostri
+- rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
+- valutare movimento diagonale fare pesare 1m e non 1.5m
+
+cio' che rimane sono modifiche impattanti (tranne l'ultima) e significative e meritevoli.
+
+La morale personalmente parlando non l'ho mai gestita con un tiro di dadi, un Narratore dovrebbe sempre sapere quando un nemico vuole ritirarsi, lo sa in base condotta della creatura, piani, obiettivi, morale..
+
+
+
+
 **07/03/2023**
 
 Il lavoro su OBSS sta continuando imperterrito.

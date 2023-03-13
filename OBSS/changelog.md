@@ -271,7 +271,7 @@ aggiunto Arrabbiato a:
 16 planetar, marilith, drago blu adulto, drago d'argento adulto, 
 17 drago nero adulto, drago rosso adulto, drago d'oro adulto, androsfinge, 
 
-0.69 pubblicata versione 0.68, aggiornata copertina, 
+0.69 pubblicata versione 0.68, aggiornata copertina, layout, 
 
 
 
