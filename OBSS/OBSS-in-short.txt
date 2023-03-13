@@ -1,0 +1,120 @@
+Subjects:
+
+Race:
+Races all have their own specific connotation.
+There is the human (the usual), elf (once xenophobic, almost extinct), half-elf, half-orc, dwarf (the pure communists), gnomes (ingenuity and nature), nibali (all the same), diverse (children of a patron), sornelian (anthropomorphic animals), golian (descendants of giants), sulian (with elemental blood).
+
+Patrons:
+they are the deities of OBSS, capricious, touchy but also kind and always interested in your cabbages..
+The more devotees they have the happier they are. Devotees are not generically those who "believe in them" but those who have similar character traits.
+They are very different from each other, never completely good or completely bad. They reward those who follow their dictates, willingly or not.
+They command magic and have fondnesses for certain schools.
+
+Traits:
+in short, it is your character. Choose 5 from a list of over 200. They are important because Traits are related to Patrons and to choose a certain patron as a Devotee it is necessary to have some traits in common with that one. The higher the score, the more that trait characterizes your personality. Regardless of whether you follow a patron or not there will be someone who will be happy with your main trait and whether you like it or not will grant you powers (starting from 5 points)
+
+Classes:
+OBSS has no classes, each player builds the character based on the adventures and situations he encounters.
+At each level he can decide to improve the score of Weapon Proficiency or Magic Proficiency. With the first you hit better, with the second you cast spells.
+
+Magical Proficiency:
+It doesn't make sense to make characters that only take points in CM, magicians also have to know how to hit.
+The higher the CM score, the more spells you can cast and the harder it is to resist the spell.
+Having a high CM score leads to knowing more magic lists even if in a very superficial way.
+
+
+Weapon Proficiency
+Every time you give Weapon Proficiency a point, you can assign a point to a list of weapons, i.e. a homogeneous set of weapons. You can take multiple lists of weapons and therefore learn about many different types of weapons or specialize in certain "families" (swords, axes, clubs ..) acquiring more and more spectacular abilities with experience
+
+Skills:
+The skills (knowledge, athletics, cheating) are not chosen, but a profession is chosen and this grants 4 skills, then the player chooses a fifth from the background.
+The higher the value of the competence, the more usually it is quick to carry out the action of interest.
+As you level up your skill scores can be increased or new skills taken.
+
+Perception (Awareness in OBSS):
+it is a skill with a fixed base value, in fact it is worth 1/3 of the level (plus wisdom). You don't always need to make awareness rolls, just accurately describe what you do and how.
+
+Basic rules for competencies
+in OBSS there are the so-called Golden Rules. The tests (checks, saving throws, hit rolls) are made by rolling 3d6 + characteristic value + competence...
+The following rules apply to all tests:
+If you roll 3 times 6, success is automatic
+If you roll 3 times 1, failure is automatic
+if you roll at least 2 times 6 and the check is successful you have a critical success
+if you roll at least 2 times 1 or 2 times 2 and the test fails you have a critical failure
+every time you roll a 6 you roll back the dice and add up
+every time you roll a 1 you don't count the die
+you can subtract 4 points from the proficiency or ability used in the check to roll an extra d6
+
+Feats':
+Since the character has no class, choose the skills (Feat) to build it. There are over 120 Skills to choose from, many can be taken multiple times to "unlock" further extraordinary abilities. Skills are taken at all levels except 5, 10, 15, 20 level.
+Some abilities mimic the more canonical ones of the classes, many others are different and peculiar to the system. It's easy and spontaneous to build the character you prefer and think about.
+Skills increase saving throws. Each time you take a skill you increase your saving throw scores, this is the only way to increase your saving throws.
+
+Advantages and disadvantages:
+All characters can have advantages and disadvantages. Mandatory a role disadvantage, a small flaw that makes everyone more "normal". Then there are the real advantages and disadvantages, many even challenging to play that characterize and make the character unique. The more powerful an advantage is, the more it is necessary to "pay" with disadvantages.
+
+Combat:
+initiative is a test of dexterity or intelligence
+
+you have 3 actions per round as in PF2
+
+the Attack Roll is 3d6+strength/dexterity+weapons proficiency + various bonuses (from weapons list, from magic...) against the opponent's Defense value.
+defense is 10+armor+shield+dexterity+various
+
+multiple attacks take the value of the roll to hit and for each roll after the first they subtract 5. So if you have +12 on the roll to hit make one attack at +12, one at +7 and one at +2, if it is negative you can not do this. In practice, the number of attacks depends on your skill rather than just on the level.
+
+making 1 attack costs 1 action, 2 attacks costs 2 actions, 3 or more attacks cost 3 actions. Each arrow fired costs 1 action
+
+Every time you roll a 6 with the d6 (3d6 of the test) you can roll another die (golden rules...)
+Every time you roll twice 6 in the Attack Roll you roll one more weapon damage (they are weapons without other bonuses)
+When the die of the weapon does the maximum possible, reroll the die and add (only for weapons that do at least 8 damage)
+
+if attacking with a long weapon you have +2 to hit, but if the opponent runs into you you have -1d6
+
+
+Life and death:
+hit points are 1d4+constitution +3 if you put a point into weapon proficiency at that level
+
+you die when you reach (10+CON*2) negative hit points. When at negative hit points each round you lose one hit point until you die or are healed
+
+
+Magic:
+in order to cast a spell well, you need to know the spell list (magic list) that contains it. Knowing a list of magic costs one feat, Adept of Magic
+
+every 3 points in Magic Proficiency you learn a list of basic magic (max first level spells)
+
+The "free" spells are not known. Each spell must be found and copied onto your tome of magic.
+Depending on your Magic Proficiency score, you can learn new spells. A known spell is a spell copied to the tome of magic, a learned spell can be cast as many times as you want.
+
+Casting a spell costs a magic point equal to the level of the spell, depending on the magic proficiency score you have more magic points
+
+depending on how many times you have studied the magic list you can cast higher level spells and access small powers related to the list
+
+when you are distracted, in combat, bleeding.. you have to make a magic test to be able to cast the spell
+
+you can also voluntarily make a magic test in order to obtain a critical effect of the spell (greater effect, duration, damage...)
+
+if the saving throw critically succeeds or fails critically (depending on whether you rolled a 1 or a 6) you can take a quarter or double damage
+
+the spellcaster can "squeeze more magic" to make the spell more difficult to resist, automatically obtains a critical effect
+
+a spell can be cast and then waited before manifesting it
+
+companions can collaborate in casting spells making it more effective
+
+the spells are those of dnd5e, with several additions and many modifications
+
+
+Potions, Poisons, Diseases and drugs:
+there is a rich recipe book for all enthusiasts
+
+Monsters:
+those of the 5e srd plus the missing classics, plus many other new ones
+all worse
+
+Experience Points:
+based on past difficulty or have you killed monsters
+you get experience points for treasure found
+
+Optional Rules
+many optional rules for even more fun

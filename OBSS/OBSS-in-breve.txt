@@ -23,7 +23,7 @@ Piu' il punteggio di CM e' alto piu' incantesimi puoi tirare e piu' e' difficile
 Avere punteggio alto di CM porta a conoscere piu' liste di magia anche se in maniera molto superficiale.
 
 
-Competenza Armi
+Competenza Armi:
 Ogni volta che dai un punto a Competenza Armi puoi assegnare un punto ad una lista d'armi, ovvero un insieme omogeneo di armi. Si possono prendere piu' liste di armi e quindi conoscere tanti tipi di armi diverse o specializzarsi in determinate "famiglie" (spade, asce, mazze..) acquisendo con l'esperienza sempre piu' capacita' spettacolari
 
 Competenze:
@@ -54,7 +54,6 @@ Vantaggi e Svantaggi:
 Tutti i personaggi possono avere dei vantaggi e svantaggi. Obbligatorio uno svantaggio di ruolo, un piccolo difetto che rende tutti piu' "normali". Ci sono poi i vantaggi e svantaggi reali, molti anche impegnativi da giocare che caratterizzano e rendono unico il personaggio. Piu' un vantaggio e' potente piu' e' necessario "pagare" con svantaggi.
 
 Combattimento:
-
 l'iniziativa e' una prova di destrezza o intelligenza
 
 si hanno 3 azioni a round come in PF2
@@ -79,8 +78,7 @@ i punti ferita sono 1d4+costituzione +3 se hai messo un punto a competenza armi 
 si muore quando si arriva a (10+COS*2) punti ferita negativi. Quando si e' a punti feriti negativi ogni round si perde un punto ferita finche' si muore o si e' curato
 
 
-La magia
-
+La magia:
 per poter lanciare bene un incantesimo bisogna conoscere la lista di incantesimi (lista di magia) che la contiene. Conoscere una lista di magia costa una abilita' (un feat), Adepto della Magia
 
 ogni 3 punti in Competenza Magia apprendi una lista di magia in maniera basilare (max primo livello di incantesimi)
