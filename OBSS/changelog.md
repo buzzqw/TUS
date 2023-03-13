@@ -279,88 +279,28 @@ aggiunto Arrabbiato a:
 
 Aggiungere immagini:
 
-169 fine incantesimi, tavola ouija ?
-
-
-per arrabbiato
-
-
-\textit{\textbf{Arrabbiato:}} Ultime energie: la creatura recupera tre volte il suo GS in punti ferita. Costa 1 Azione.
-
-Resistenza al Danno: la creatura acquisisce resistenza al danno pari al suo GS fino a fine combattimento
-
-Scatto: la creatura acquisisce una Azione di Movimento in più a round
-
-Ripresa: la creatura può effettuare un nuovo Tiro Salvezza per interrompere un effetto in corso su di se
-
-Focalizzare: la creatura interrompe un effetto mentale su di se in corso
-
-Colpi possenti: la creatura causa almeno un danno critico a round quando colpisce
-
-Artigli profondi: la creatura causa o aumenta sanguinamento di 2 ad ogni colpo andato a segno fino ad un massimo valore di 10 di sanguinamento	
-
-Brutalità: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, si conta un 6 in più nella conta dei critici.
-
-Benedizione: la creatura può lanciare un incantesimo che ha già lanciato e non potrebbe più lanciare
-
-Sovraccarico: solo draghi, lancia 1d6, se ottieni  4-5-6 il drago puo' soffiare questo round
-
-
-
-\textit{\textbf{Angry:}} Last Energies: The creature regains three times its CR in hit points. Cost 1 Action.
-
-Damage Resistance: The creature gains damage resistance equal to its CR until end of combat
-
-Sprint: The creature takes one more move action per round
-
-Recovery: the creature can make a new saving throw to interrupt an effect in progress on itself
-
-Focus: The creature interrupts a mental effect in progress on itself
-
-Mighty Blows: The creature deals at least one critical damage per round when it strikes
-
-Deep Claws: Creature causes or increases bleeding by 2 with each successful hit up to a maximum of 10 bleeding
-
-Brutality: The creature attacks with unprecedented ferocity. +1d6 to attack roll, counts an extra 6 in the crit count.
-
-Blessing: The creature can cast a spell it has already cast and can't cast again
-
-Overload: Dragons only, roll 1d6, if you roll 4-5-6 the dragon can breath again this round
+178 fine incantesimi
+295 fine Le avventure in OBSS
+385 fine Tipologie di Tesoro
 
 
 > valutare:
 - gestione morale mostri
-- un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  xDC
-- aggiungere bloodied/Arrabbiato ai singolo mostri
+- un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
 - indicazioni su sessione zero, quali domande, cosa dire
 - combattimento sociale, ampliare
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
-- piu' azioni particolari e uniche per i nemici che non siano solo sacchi di pf, piu' tipologie di attacchi e danni (penalita' ai ts, maledizioni, danni alle caratteristiche..)
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
 - spendere i soldi: equipaggiamento, oggetti magici
-- piu' malattie debolezze maledizioni
+- piu' maledizioni
 - rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
 - psionici ? ispirazione da 2ed/3ed
 - magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
-
-> Secondarie
 - aggiungere altri mostri, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
 - rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
 - valutare movimento diagonale fare pesare 1m e non 1.5m
-- verificare in testing statistiche, rischio mix/max
 - abilita' probabile altre. capire cosa, attenzione in testing a richieste che esulano o spaccano sistema
-- analizzare gestione mancanti, punti troppo forti, punti esploitabili, valutare sempre con attenzione quando dettagliare quando dare indicazioni
 - gestione opzioni: sono troppe ? analizzare altri sistemi per capire se si sta esagerando. Controllare opzioni e stabilire quale debbano rimanere e quali essere default
-- eliminare Tiri salvezza, il tuo tiro per colpire/prova di magia deve essere superiore ad un valore statico, dipendente da livello abilita', dell'avversario
-- abilita': non usi spell point ma devi sempre supereare prova di magia, con meno dadi a seconda del livello spell
 - usage dice
-- al posto di competenze usare professione con lista "espansa", avvero dei tratti ma professionali / di competenza
-
-
-Say for example, you were trying to do an athletics check. Roll a 1d4, and on a 4, your athletics check improves, and you may now roll 2d4. Next time you roll a 4 on both dice, you level that skill again. Of course the more dice are added, the harder it becomes to level that skill further. But it means you can only improve a skill by using it.
-I appreciate the simplicity of this system, even if d4's are kinda crap to roll with.
-Could use d6 instead, and say the first level requires 6, while every level thereafter requires 5 or 6. Things will level slightly faster after that initial hump, but that really only makes it about 1 level faster for most achievable levels due to the exponential nature of the difficulty curve, e.g. 3^4 is roughly comparable to 4^3, and 3^5 is actually not far off from 4^4. Anything past that is largely not going to be worth seeking, since 3^6 is 729 and 4^5 is 1024. You probably won't roll enough skill rolls to level it up any further, either way.
-
-Each type of action uses X number of action points and your reactions are included in those 3 points. For example: a Normal attack is 2 AP, a Slow attack is 3 AP with a bonus to the roll, and a Fast attack is 1 AP with a penalty to the roll. Defending against an attack is 1 AP and is a reaction. You aren't automatically hit if you don't defend. Defending just gives you an additional chance to thwart your enemies by reducing damage, disarming them, making a counterattack, etc. Refreshing AP at the end of the turn like @FrozenNorth suggested sounds like a cool optional rule that I will need to try next time I play.
