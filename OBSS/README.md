@@ -6,7 +6,7 @@ In this folder you will find material for playing the Old Bell School System (OB
 
 The magic system is based on spell point and many and more spell are modified and others added by me (with inspiring OSR theme). The combat remains easy, fast but much fun and tactical.
 
-OBSS refers to the OSR (Old School Renaissance) philosophy but in any case in a modern key, it embraces its principles but does not exclude a more complete system of rules that can help the Narrator.
+OBSS refers to the OSR (Old School Renaissance) philosophy but in any case in a modern key, it embraces its principles but does not exclude a more complete system of rules that can help the Arbiter.
 
 Download the OBSS-eng-v3.pdf manual https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v3.pdf 
 
