@@ -55,7 +55,7 @@ cio' che rimane sono modifiche impattanti (tranne l'ultima) e significative e me
 
 La morale personalmente parlando non l'ho mai gestita con un tiro di dadi, un Narratore dovrebbe sempre sapere quando un nemico vuole ritirarsi, lo sa in base condotta della creatura, piani, obiettivi, morale..
 
-
+direi che da lavorare rimane comunque ancora molto..
 
 
 **07/03/2023**
