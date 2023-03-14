@@ -271,7 +271,7 @@ aggiunto Arrabbiato a:
 16 planetar, marilith, drago blu adulto, drago d'argento adulto, 
 17 drago nero adulto, drago rosso adulto, drago d'oro adulto, androsfinge, 
 
-0.69 pubblicata versione 0.68, aggiornata copertina, layout, 
+0.69 pubblicata versione 0.68, aggiornata copertina, layout,  corretta indicazione punti esperienza per scontro mortale ed epico, 
 
 
 
@@ -301,6 +301,4 @@ Aggiungere immagini:
 - aggiungere altri mostri, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
 - rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
 - valutare movimento diagonale fare pesare 1m e non 1.5m
-- abilita' probabile altre. capire cosa, attenzione in testing a richieste che esulano o spaccano sistema
-- gestione opzioni: sono troppe ? analizzare altri sistemi per capire se si sta esagerando. Controllare opzioni e stabilire quale debbano rimanere e quali essere default
 - usage dice
