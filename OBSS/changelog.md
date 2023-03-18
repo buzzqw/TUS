@@ -271,7 +271,7 @@ aggiunto Arrabbiato a:
 16 planetar, marilith, drago blu adulto, drago d'argento adulto, 
 17 drago nero adulto, drago rosso adulto, drago d'oro adulto, androsfinge, 
 
-0.69 pubblicata versione 0.68, aggiornata copertina, layout, corretta indicazione punti esperienza per scontro mortale ed epico, layout, aggiunta possibilità ritiro prova se si usano tutti i punti fato, chiarimenti su dissolvi magia e controincantesimo, 
+0.69 pubblicata versione 0.68, aggiornata copertina, layout, corretta indicazione punti esperienza per scontro mortale ed epico, layout, aggiunta possibilità ritiro prova se si usano tutti i punti fato, chiarimenti su dissolvi magia e controincantesimo, rottura attrezzi da scasso con fallimento critico prova apertura lucchetto, 
 
 
 
