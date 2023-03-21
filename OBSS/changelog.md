@@ -271,6 +271,8 @@ aggiunto Arrabbiato a:
 16 planetar, marilith, drago blu adulto, drago d'argento adulto, 
 17 drago nero adulto, drago rosso adulto, drago d'oro adulto, androsfinge, 
 
+10/03/2023 aggiornata versione POD
+
 0.69 pubblicata versione 0.68, aggiornata copertina, layout, corretta indicazione punti esperienza per scontro mortale ed epico, layout, aggiunta possibilità ritiro prova se si usano tutti i punti fato, chiarimenti su dissolvi magia e controincantesimo, rottura attrezzi da scasso con fallimento critico prova apertura lucchetto, aggiornato incantesimo disintegrazione, chiarimenti su mettersi sulla difensiva, layout tesori per livello, 
 
 
