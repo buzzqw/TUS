@@ -266,14 +266,14 @@ aggiunto Arrabbiato a:
 11 Behir, Remorhaz
 12 Erinni, Panoptikhan
 13 nalfeshnee, Drago Bianco Adulto, Drago d'ottone Adulto, gigante delle tempeste
-14 diavolo di ghiaccio, drago di rame adulto, 
-15 drago verde adulto, fenice, mummia sovrana, 
-16 planetar, marilith, drago blu adulto, drago d'argento adulto, 
-17 drago nero adulto, drago rosso adulto, drago d'oro adulto, androsfinge, 
+14 diavolo di ghiaccio, drago di rame adulto
+15 drago verde adulto, fenice, mummia sovrana
+16 planetar, marilith, drago blu adulto, drago d'argento adulto
+17 drago nero adulto, drago rosso adulto, drago d'oro adulto, androsfinge
 
 10/03/2023 aggiornata versione POD
 
-0.69 pubblicata versione 0.68, aggiornata copertina, layout, corretta indicazione punti esperienza per scontro mortale ed epico, layout, aggiunta possibilità ritiro prova se si usano tutti i punti fato, chiarimenti su dissolvi magia e controincantesimo, rottura attrezzi da scasso con fallimento critico prova apertura lucchetto, aggiornato incantesimo disintegrazione, chiarimenti su mettersi sulla difensiva, layout tesori per livello, 
+0.69 pubblicata versione 0.68, aggiornata copertina, layout, corretta indicazione punti esperienza per scontro mortale ed epico, layout, aggiunta possibilità ritiro prova se si usano tutti i punti fato, chiarimenti su dissolvi magia e controincantesimo, rottura attrezzi da scasso con fallimento critico prova apertura lucchetto, aggiornato incantesimo disintegrazione, chiarimenti su mettersi sulla difensiva, layout tesori per livello, fixed lettrine, 
 
 
 
@@ -281,7 +281,6 @@ aggiunto Arrabbiato a:
 
 Aggiungere immagini:
 
-178 fine incantesimi
 295 fine Le avventure in OBSS
 385 fine Tipologie di Tesoro
 
