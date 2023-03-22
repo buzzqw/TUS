@@ -4494,7 +4494,7 @@ Players in agreement with the Arbiter can create their own Weapon Maneuvers base
 
 \pagebreak
 
-\section{Feat}\index{Feat}\hypertarget{abilita}{}\label{abilita}
+\section{Feats}\index{Feats}\hypertarget{abilita}{}\label{abilita}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{emphasis}{Martyrdom is the only way for a man to become famous if he has no ability (George Bernard Shaw, The Devil's Disciple)} \end{emphasis}\end{changemargin}\medskip
 
@@ -4567,9 +4567,12 @@ The \textbf{first time} you take this Feat, you can turn into an animal, up to m
 \textbf{Vision and Senses}: like that of the transformed animal\\
 \textbf{Languages}: you understand the ones you understood before but you can speak only if the new form allows it\\
 \textbf{Skills}: same as your originals if applicable\\
+\textit{Resistance / Immunity}: none\\
 \textbf{Actions}:\\
-\textit{Roll to Attack}: Weapon Proficiency + Wisdom\\
-\textit{Damage}: as caused by the animal\\
+\textit{Attack Roll}: Weapon Proficiency + Wisdom\\
+\textit{Attack}: normal, as caused by the animal\\
+\textit{Special Attack}: none\\
+
 
 The transformation is for 10 minutes per score in Magical Proficiency. You can transform 2 times a day. Any equipment is merged with you and is inactive.\\
 
@@ -4584,8 +4587,11 @@ The \textbf{second time} that you take this Feat, Magic Proficiency requirement 
 \textbf{Vision and Senses}: like that of the transformed animal\\
 \textbf{Languages}: you understand the ones you understood before but you can speak only if the new form allows it\\
 \textbf{Skills}: same as your originals if applicable\\
-\textit{Roll to Attack}: Weapon Proficiency + Wisdom\\
-\textit{Damage}: as caused by the animal\\
+\textit{Resistance / Immunity}: 1 resistance\\
+\textbf{Actions}:\\
+\textit{Attack Roll}: Weapon Proficiency + Wisdom\\
+\textit{Attack}: normal, as caused by the animal\\
+\textit{Special Attack}: none\\
 
 The transformation is for 20 minutes per Magical Proficiency score. You can transform 4 times a day. Any equipment is merged with you and is inactive.\\
 
@@ -4599,14 +4605,17 @@ The \textbf{third time} that you take this Feat, Magic Proficiency requirement 9
 \textbf{Saving Throw}: you can choose your values or those of the animal\\
 \textbf{Languages}: you understand the ones you understood before but you can speak only if the new form allows it. You can speak the animal own language.\\
 \textbf{Skills}: same as your originals if applicable\\
-\textit{Roll to Attack}: Weapon Proficiency + Wisdom\\
-\textit{Damage}: as caused by the animal\\
+\textit{Resistance / Immunity}: 2 resistances\\
+\textbf{Actions}:\\
+\textit{Attacking Roll}: Weapon Proficiency + Wisdom\\
+\textit{Attack}: normal, as caused by the animal\\
+\textit{Special Attack}: 1 special attack\\
 
 The transformation is 8 hours total per day. You can transform 6 times a day. 
 
 All equipment is absorbed into the new form. The magical one continues to take effect if possible. Armor and shields or magical items do not apply any bonus to Defense but if they have magical abilities that are always active they remain valid. Items that require activation cannot be used.\\
 
-The \textbf{fourth time}, Magic Proficiency 16, costs 1 Action to transform into an animal, up to Huge size. The transformation time is up to 24 hours per day, and he can transform as many times as he likes per day.
+The \textbf{fourth time}, Magic Proficiency 16, costs 1 Action to transform into an animal, up to Huge size. In addition to the ability from third grade animal you also acquire one immunity and one more special attack. The transformation time is up to 24 hours per day, and he can transform as many times as he likes per day.
 
 All equipment is absorbed into the new form. The magical one continues to take effect if possible. Armor and Shields apply the magical bonus to the creature's Defense and any magical abilities can be activated.\\
 
@@ -6494,7 +6503,7 @@ If a familiar is dismissed, lost, or dies, it can be replaced a week later with 
 \toprule
 Owl & +2 to Arcana Checks\\
 Crow & +2 on Intimidate checks\\
-\textit{Dobi} & +2 on Will save\\
+\textit{Dobi} & +2 on Will save vs Enchantment\\
 Weasel & +1 on Intelligence checks\\
 Hawk & +2 on Sight Awareness\\
 Cat & +2 on Move Silently checks\\
@@ -6502,11 +6511,11 @@ Owl & +2 on Hearing Awareness\\
 Otter & +2 to Swim checks\\
 Lizard & +2 on Survival checks\\
 Bat & +2 on Acrobatics checks\\
-Rat & +1 on Fortitude save\\
+Rat & +1 on Save vs Disease\\
 Hedgehog & +1 on Will save\\
 Toad & +2 on Saving Throw vs poison\\
 Monkey & +2 to Fairy Hands, Escape Artist checks\\
-\textit{Mice} & you become Mice's pet!!!\\
+\textit{La Topi} & you become Topi's pet!!!\\
 Fox & +1 on Reflex saves\\
 \end{tabularx}
 
@@ -6516,7 +6525,7 @@ Use the base stats of a creature of the familiar's species, making the following
 
 \medskip{}
 
-\textbf{Attacks}: Use master's Weapon Proficiency if higher. Use the familiar's Dexterity or Strength modifier, whichever is higher, to calculate the familiar's attack bonus with natural attacks. The damage is equal to that of a normal creature of the familiar's species. The familiar acts on the master's turn.
+\textbf{Attacks}: Use master's Weapon Proficiency if higher. Use the familiar's Dexterity or Strength modifier, whichever is higher, to calculate the familiar's attack bonus with natural attacks. The damage is equal to that of a normal creature of the familiar's species. The familiar acts on the master's round.
 
 \medskip
 
@@ -6525,6 +6534,8 @@ Use the base stats of a creature of the familiar's species, making the following
 \medskip
 
 \textbf{Saving Throw}: For each Saving Throw, use the familiar's save or the master's save, whichever is better. The familiar applies its characteristics values as a bonus on Saving Throws and takes none of the bonuses its master may have.
+
+\textbf{Actions of Familiar}\index{Actions of Familiar}: commanding a familiar takes 1 Action. The familiar performs 2 Actions per round. Without commands, the Familiar does nothing but defend itself and attack those who attack it.
 
 \medskip
 
@@ -6566,9 +6577,7 @@ All familiars possess special abilities (or attribute them to their masters) acc
 
 \begin{multicols}{2}
 
-\textbf{Actions of Familiar}\index{Actions of Familiar}: Uncommanded a familiar follows its animal instinct. Commanding a familiar takes 1 Action. The familiar performs 2 Actions per round. Without further instructions Familiar will only defend himself.
-
-\textbf{Master's Magic Proficiency}: The number listed here is the familiar's master's Magic Proficiency value, broken down into bands.
+\textbf{Master's Magic Proficiency}: The number listed here is the familiar's master's Magic Proficiency value.
 
 \textbf{Defence Bonus}: The number listed here is in addition to the familiar's Defence.
 
@@ -6576,27 +6585,27 @@ All familiars possess special abilities (or attribute them to their masters) acc
 
 \textbf{Special}: The special abilities gained by the familiar (and/or master).
 
-\textbf{Alert}: When the familiar is within arm's reach of the master, the master gains +1 on Awareness checks
+\textit{\textbf{Alert}}: When the familiar is within arm's reach of the master, the master gains +1 on Awareness checks
 
-\textbf{Sharing Spells}: At his discretion, the master may cast any Spells that affect "himself" on his familiar (such as a Touch Spell), in place of himself.
+\textit{\textbf{Sharing Spells}}: At his discretion, the master may cast any Spells that affect "himself" on his familiar (such as a Touch Spell), in place of himself.
 
 The master can cast spells on his familiar even if they normally do not affect creatures of the familiar's type (magical creatures).
 
-\textbf{Empathetic Link}: The master has an empathic link with his familiar up to a distance of 1 km. The master cannot see through the familiar's eyes, but can communicate with it telepathically. Due to the limited nature of the bond, only generic emotions (fear, tranquility, joy...) can be communicated.
+\textit{\textbf{Empathic Link}}: The master has an empathic link with his familiar up to a distance of 1 km. The master cannot see through the familiar's eyes, but can communicate with it telepathically. Due to the limited nature of the bond, only generic emotions (fear, tranquility, joy...) can be communicated.
 
-\textbf{Transmit Touch Spells}: The familiar can transmit Touch Spells for him. If the master and familiar are within 10 meters when the master casts a touch spell, he can designate his familiar as the "spell deliverer" (if touch).
+\textit{\textbf{Deliver Touch Spells}}: The familiar can transmit Touch Spells for him. If the master and familiar are within 10 meters when the master casts a touch spell, he can designate his familiar as the "spell deliverer" (if touch).
 
-The familiar can deliver the Spell just like the master. The familiar's attack must be in the same round, but later as an action of casting the spell.
+The familiar can deliver the Spell just like the master. The familiar use one of his action to deliver the spell attack. 
 
-\textbf{Talk to Master}: The familiar and master can communicate verbally, as if using a common language. Other creatures or animals are unable to understand their conversation, except by using magical aids. The capacity works within 50m and must feel.
+\textit{\textbf{Talk to Master}}: The familiar and the master can communicate verbally, as if using a common language. Other creatures or animals are unable to understand their conversation, except by using magical aids. The ability works within 50m and they must be able to hear each other's words.
 
-\textbf{Talking with Animals of Its Species}: The familiar is able to communicate with animals of its generic species: bats with bats, mice with rodents, cats with felines, hawks and owls, and crows with birds, snakes and lizards with reptiles, toads with amphibians, monkeys with other primates, weasels with stoats and mustelids... Communication is limited by the Intelligence of the creatures the familiar communicates with.
+\textit{\textbf{Talking with Animals of Its Species}}: The familiar is able to communicate with animals of its generic species: bats with bats, mice with rodents, cats with felines, hawks and owls, and crows with birds, snakes and lizards with reptiles, toads with amphibians, monkeys with other primates, weasels with stoats and mustelids... Communication is limited by the Intelligence of the creatures the familiar communicates with.
 
-\textbf{See Through Familiar}: The master can see through the familiar. Activating this Feat costs 1 Immediate Action. The familiar must be within 30 meters.
+\textit{\textbf{See Through Familiar}}: The master can see through the familiar. Activating this ability costs 1 Immediate Action. The familiar must be within 50 meters.
 
 \medskip
 
-However special, intelligent and unique a familiar remains an animal and as such cannot use magic items or scrolls, it can even use a potion if it has the ability to drink it. An intelligent familiar could perform simple and immediate tasks.
+However special, intelligent and unique a familiar remains an animal and as such cannot use magic items or scrolls, it can even use a potion if it has the ability to drink it. An very intelligent familiar could perform simple and immediate tasks.
 
 \end{multicols}
 
