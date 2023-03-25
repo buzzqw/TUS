@@ -2843,11 +2843,13 @@ Exchange a dialogue with someone* & 3\\
 \small{Exchange a few words with someone*} & 0\\
 Searching for something in the backpack & 2\\
 Use a hand held item & 1\\
+{\small Take from belt or ready} & 1\\
 Drink a potion held at the belt & 1\\
 Drawing/Sheathing Weapon & 1\\
 Holding the Shield & 1\\
 Using a Magic Item & 2\\
 Test a skill* & 1\\
+Breaking down a door &1\\
 Hide & 1\\
 Focus on a Spell & 1\\
 Mount or dismount & 1\\
@@ -3463,7 +3465,7 @@ If you haven't taken the Empty Fist weapon list, a punch or kick will do 1d2+STR
 
 \subsubsection{Stand up off prone}\index{Stand up off prone}\label{alzarsidaprono}
 
-costs two Actions. The player can make an Acrobatics check if he rolls 13 or more it costs 1 Action to stand up. If you roll three 1's on the check check, you cannot take any other actions that round and remain prone.
+costs two Actions. The player can make an Acrobatics check if he rolls 13 or more it costs 1 Action to stand up. If you do a critical failure check, you cannot take any other actions that round and remain prone.
 
 When the Acrobatics score reaches 6, getting up from prone costs 1 Action. With Acrobatics 8 it costs an Immediate Action.
 
@@ -7290,6 +7292,8 @@ It is also possible that a Touch spell Attack Roll is required, in which case th
 \medskip
 
 When the spell is area effect it is not necessary to make an attack roll except for difficult and specified areas, i.e. you aim in a well circumscribed area and you want to avoid hitting someone with an area spell.
+
+Weapon Attack rolls or Spell Attack rools stack the multiple attack penalties.\index{Multiple attack spell penalty}
 
 \subsubsection{Optional - Attack Roll with Spells}\index{Optional - Attack Roll with Spells}
 
@@ -11418,6 +11422,22 @@ You can use this carrying ability once per round for the duration of the spell. 
 \textbf{Duration}: 1 hour\\
 You cast the spell touching a willing creature. The target gains the ability to see things as they really are. For the duration, the creature has true sight, notices secret doors hidden by magic, and can see into the Ethereal Plane, out to a range of 16 meters.
 
+\medskip\textbf{Twigs to Serpents}\index[Spells]{Twigs to Serpents}\\
+\textbf{School}: Animals and Plants\\
+\textbf{Level}: 3, Uncommon\\
+\textbf{Casting Time}: 2 Actions\\
+\textbf{Range}: 18 meters\\
+\textbf{Components}: V, S, M (several twigs and a drop of snake venom)\\
+\textbf{Duration}: Concentration up to 1 minute\\
+You transform 1d4 twigs, +1 for each time you took the Animals and Plants Magic List, into venomous snakes. Snakes always act, in your turn, in unison and perform the same Action against the same opponent.
+
+These snakes, considered tiny objects, have Defense 13 and 10 Hit Points. If they drop below 0 hit points, they return to broken twigs.
+
+As an Action you can command the snakes to attack. Make an attack roll as per the melee spell attack for each snake against a creature within 1 meter of them. Each snake that strikes deals 1 penetration damage and forces a DC 14 Fortitude save, on a failed save the creature takes 2d4 poison damage, or half on a successful one.
+
+With one Action you can command the snakes to move up to 6 meters.\\
+\textbf{Every magical critical success you roll} in the Magic Trial creates a new snake.
+
 \medskip\textbf{Uncontrollable Laughter}\index[Spells]{Uncontrollable Laughter}\\
 \textbf{School}: Enchantment\\
 \textbf{Level}: 1, Uncommon\\
@@ -12056,7 +12076,7 @@ Mind Shield, Uncommon, 8\\
 Imprison, Rare, 9\\
 
 
-\flushleft{\medskip\textbf{Animal and Plants - Wisdom}}
+\flushleft{\medskip\textbf{Animals and Plants - Wisdom}}
 
 Magic Club, Common, 0\\
 Poison Spray, Uncommon, 0\\
@@ -12081,6 +12101,7 @@ Kyrin Lemon Hail, Very Rare, 3\\
 Plant Growth, Uncommon, 3\\
 Speak with Plants, Rare, 3\\
 Summon Animals, Uncommon, 3\\
+Twigs to Serpents, Uncommon, 3\\
 Dominate Beasts, Common, 4\\
 Giant Insect, Uncommon, 4\\
 Locate Creature, Common, 4\\
