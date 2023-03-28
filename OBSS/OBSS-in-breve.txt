@@ -3,38 +3,38 @@ Argomenti:
 Razze:
 Le razze hanno tutte una loro connotazione specifica.
 C'e' l'umano (il solito), elfo (una volta xenofobi, quasi estinti), mezzelfo, mezzorco, nano (i puri comunisti),  gnomi (ingegnosita' e natura), nibali (tutti uguali tra di loro), diversi (figli di un patrono), sornelian (animali antropomorfi), golian (discendenti dei giganti), sulian (con sangue elementale).
+Ogni razza ha i suoi modificatori di caratteristica e peculiarità.
 
 Patroni:
 sono le divinita' di OBSS, capricciose, permalose ma anche gentili e sempre interessate ai tuoi cavoli..
 Piu' devoti hanno piu' sono contenti. I Devoti non sono genericamente chi "crede in loro" ma chi ha tratti caratteriali simili.
 Sono molto diversi tra loro, mai completamente buoni o completamente cattivi. Premiano chi segue i loro dettami, volenti o meno.
-Comandano la magia e hanno predilizioni per alcune scuole.
+Comandano la magia, hanno predilezioni per alcune liste di magia e favoriscono l'uso di certe armi.
 
 Tratti:
-in breve e' il vostro carattere. Ne scegliete 5 da una lista di oltre 200. Sono importanti perchè i Tratti sono legati ai Patroni e per scegliere un certo patrono come Devoto e' necessario avere qualche tratto in comune con quello. Piu' il punteggio e' alto piu' quel tratto e' caratterizzante della vostra personalita'. Indipendentemente che seguiate un patrono o meno ce ne sara' qualcuno che sara' contento del vostro tratto principale e che lo vogliate o meno vi concedera' dei poteri (a partire dal 5 punti)
+in breve e' il vostro carattere. Ne scegliete 5 da una lista di oltre 200. Sono importanti perchè i Tratti sono legati ai Patroni e per scegliere un certo Patrono per essere Devoto e' necessario avere qualche tratto in comune con quello. Piu' il punteggio e' alto piu' quel tratto e' caratterizzante della vostra personalita'. Indipendentemente che seguiate un patrono o meno ce ne sara' qualcuno che sara' contento del vostro tratto principale e che lo vogliate o meno vi concedera' dei poteri (a partire dal 5 punti)
 
 Classi:
 OBSS non ha classi, ogni giocatore costruisce il personaggio in base alle avventure e situazioni che incontra.
 Ad ogni livello puo' decidere di migliorare il punteggio di Competenza Armi oppure Competenza Magica. Con il primo colpisci meglio, con il secondo lanci incantesimi.
 
 Competenza Magica:
-Non ha senso fare personaggio che prendano solo punti in CM, anche i maghi devono sapere colpire.
 Piu' il punteggio di CM e' alto piu' incantesimi puoi tirare e piu' e' difficile resistere all'incantesimo.
 Avere punteggio alto di CM porta a conoscere piu' liste di magia anche se in maniera molto superficiale.
-
+Non ha senso fare personaggio che prendano solo punti in CM, anche i maghi devono sapere colpire.
 
 Competenza Armi:
-Ogni volta che dai un punto a Competenza Armi puoi assegnare un punto ad una lista d'armi, ovvero un insieme omogeneo di armi. Si possono prendere piu' liste di armi e quindi conoscere tanti tipi di armi diverse o specializzarsi in determinate "famiglie" (spade, asce, mazze..) acquisendo con l'esperienza sempre piu' capacita' spettacolari
+Ogni volta che dai un punto a Competenza Armi puoi assegnare un punto ad una lista d'armi, ovvero un insieme omogeneo di armi. Si possono apprendere piu' liste di armi e quindi conoscere tanti tipi di armi diverse o specializzarsi in determinate "famiglie" (spade, asce, mazze..) acquisendo con l'esperienza sempre piu' capacita' spettacolari con l'uso.
 
 Competenze:
-Le competenze (conoscenze, atletica, raggirare) non si scelgono, bensi' si sceglie una professione e questa sta concede 4 competenze, poi il giocatore ne sceglie una quinta da background.
+Le competenze (conoscenze, atletica, raggirare) non si scelgono al primo livello, bensi' si sceglie una professione e questa sta concede 4 competenze, poi il giocatore ne sceglie una quinta da background.
 Piu' il valore della competenza e' alta piu' solitamente si fa presto a svolgere l'azione che interessa.
 Con il passare dei livelli i punteggi delle competenze possono essere aumentate o prese nuove competenze.
 
 Percezione (Consapevolezza in OBSS):
 e' una competenza a valore base fisso, vale infatti 1/3 del livello (piu' saggezza). Non serve sempre fare tiri di consapevolezza, basta descrivere accuratamente cosa si fa e come.
 
-Regole di base per le competenze
+Regole di base per le competenze:
 in OBSS ci sono le cosidette Golden Rules. Le prove (check, tiri salvezza, tiri per colpire) si fanno tirando 3d6 + valore caratteristica + competenza...
 Valgono per tutte le prove queste regole:
 Se tiri 3 volte 6 il successo e' automatico
@@ -54,67 +54,46 @@ Vantaggi e Svantaggi:
 Tutti i personaggi possono avere dei vantaggi e svantaggi. Obbligatorio uno svantaggio di ruolo, un piccolo difetto che rende tutti piu' "normali". Ci sono poi i vantaggi e svantaggi reali, molti anche impegnativi da giocare che caratterizzano e rendono unico il personaggio. Piu' un vantaggio e' potente piu' e' necessario "pagare" con svantaggi.
 
 Combattimento:
-l'iniziativa e' una prova di destrezza o intelligenza
-
-si hanno 3 azioni a round come in PF2
-
-il Tiro per Colpire e' 3d6+forza/destrezza+competenza armi + bonus vari (da lista armi, da magia..) contro il valore di Difesa dell'avversario.
-la difesa e' 10+armatura+scudo+destrezza+vari
-
-gli attacchi multipli prendono il valore del Tiro per Colpire e per ogni tiro oltre il primo tolgono 5. Quindi se hai +12 al Tiro per Colpire fai un attacco a +12, uno a +7 ed uno a +2, se e' negativo non puoi farlo. In pratica il numero di attacchi dipende dalla tua bravura piu' che solo dal livello.
-
-fare 1 attacco costa 1 azione, 2 attacchi costa 2 azioni, 3 o piu' attacchi costano 3 azioni. Ogni freccia scagliata costa 1 azione
-
-Ogni volta che tiri un 6 con il d6 (3d6 della prova) puoi tirare un altro dado (golden rules...)
-Ogni volta che tiri due volte 6 nel Tiro per Colpire tiri un danno di arma (sono arma senza altri bonus) in piu'
-Quando il dado dell'arma fa il massimo possibile ritiri il dado e sommi (solo per armi che fanno almeno 8 di danno)
-
-se si attacca con un arma lunga hai +2 al tiro per colpire, ma se l'avversario ti viene addosso hai un -1d6
-
+- l'iniziativa e' una prova di destrezza o intelligenza
+- si hanno 3 azioni a round come in PF2
+- il Tiro per Colpire e' 3d6+forza/destrezza+competenza armi + bonus vari (da lista armi, da magia..) contro il valore di Difesa dell'avversario. la difesa e' 10+armatura+scudo+destrezza+vari
+- gli attacchi multipli prendono il valore del Tiro per Colpire e per ogni tiro oltre il primo tolgono 5. Quindi se hai +12 al Tiro per Colpire fai un attacco a +12, uno a +7 ed uno a +2, se e' negativo non puoi farlo. In pratica il numero di attacchi dipende dalla tua bravura piu' che solo dal livello.
+- fare 1 attacco costa 1 azione, 2 attacchi costa 2 azioni, 3 o piu' attacchi costano 3 azioni. Ogni freccia scagliata costa 1 azione
+- Ogni volta che tiri un 6 con il d6 (3d6 della prova) puoi tirare un altro dado (golden rules...)
+- Ogni volta che tiri due volte 6 nel Tiro per Colpire tiri un danno di arma (sono arma senza altri bonus) in piu'
+- Quando il dado dell'arma fa il massimo possibile ritiri il dado e sommi (solo per armi che fanno almeno 8 di danno)
+- se si attacca con un arma lunga hai +2 al tiro per colpire, ma se l'avversario ti viene addosso hai un -1d6
 
 Vita e Morte:
-i punti ferita sono 1d4+costituzione +3 se hai messo un punto a competenza armi a quel livello
-
-si muore quando si arriva a (10+COS*2) punti ferita negativi. Quando si e' a punti feriti negativi ogni round si perde un punto ferita finche' si muore o si e' curato
-
+- i punti ferita sono 1d4+costituzione +3 se hai messo un punto a competenza armi a quel livello
+- si muore quando si arriva a (10+COS*2) punti ferita negativi. Quando si e' a punti feriti negativi ogni round si perde un punto ferita finche' si muore o si e' curato
 
 La magia:
-per poter lanciare bene un incantesimo bisogna conoscere la lista di incantesimi (lista di magia) che la contiene. Conoscere una lista di magia costa una abilita' (un feat), Adepto della Magia
-
-ogni 3 punti in Competenza Magia apprendi una lista di magia in maniera basilare (max primo livello di incantesimi)
-
-Non si conoscono gli incantesimi "a gratis". Ogni incantesimi va trovato e copiate sul proprio tomo della magia.
-A seconda del punteggio di Competenza Magica si possono conoscere apprendere nuovi incantesimi. Un incantesimi conosciuto e' un incatesimi copiato sul tomo di magia, un incantesimo appreso si puo' lanciare quante volte si vuole.
-
-Lanciare un incatesimo costa un punto magia pari al livello dell'incatesimo, a seconda del punteggio di competenza magica si hanno piu' punti magia
-
-a seconda di quante volte si e' studiata la lista di magia si possono lanciare incantesimi di piu' alto livello e si accede a piccoli poteri legati alla lista
-
-quando si e' distratti, in combattimento, sanguinanti.. si deve fare una prova di magia per riuscire a lanciare l'incantesimo
-
-si puo' anche volontariamente fare una prova di magia per poter ottenere un effetto critico dell'incantesimo (maggiore effetto, durata, danno..)
-
-se il tiro salvezza riesce criticamente o fallisce criticamente (a seconda si sia tirato degli 1 o dei 6) si puo' prendere un quarto di danno o il doppio
-
-l'incantatore puo' "spremersi" per fare in modo che l'incantesimo sia piu' difficile da resistere, ottenga in automatico un effetto critico
-
-un incatesimo si puo' lanciare e poi aspettare prima di manifestarlo
-
-i compagni possono collaborare nel lancio di incantesimi rendendolo piu' efficace
-
-gli incatesimi sono quelle di dnd5e, con diverse aggiunte e molte modifiche
+- per poter lanciare bene un incantesimo bisogna conoscere la lista di incantesimi (lista di magia) che la contiene. Conoscere una lista di magia costa una abilita' (un feat), Adepto della Magia
+- ogni 3 punti in Competenza Magia apprendi una lista di magia in maniera basilare (max primo livello di incantesimi)
+- Non si conoscono gli incantesimi "a gratis". Ogni incantesimi va trovato e copiate sul proprio tomo della magia.
+- A seconda del punteggio di Competenza Magica si possono conoscere apprendere nuovi incantesimi. Un incantesimi conosciuto e' un incatesimo copiato sul tomo di magia, un incantesimo appreso si puo' lanciare quante volte si vuole.
+- Lanciare un incantesimo costa un punto magia pari al livello dell'incantesimo, a seconda del punteggio di competenza magica si hanno piu' punti magia
+- a seconda di quante volte si e' studiata la lista di magia si possono lanciare incantesimi di piu' alto livello e si accede a piccoli poteri legati alla lista
+- quando si e' distratti, in combattimento, sanguinanti.. si deve fare una prova di magia per riuscire a lanciare l'incantesimo
+- si puo' anche volontariamente fare una prova di magia per poter ottenere un effetto critico dell'incantesimo (maggiore effetto, durata, danno..)
+- se si fallisce nella prova di magia in modo critico succedono brutte cose
+- se il tiro salvezza riesce criticamente o fallisce criticamente (a seconda si sia tirato degli 1 o dei 6) si puo' prendere un quarto di danno o il doppio
+- l'incantatore puo' usare una prova di magia/usare piu' energie magiche per fare in modo che l'incantesimo sia piu' difficile da resistere, ottenga in automatico un effetto critico o funzioni in maniera particolare
+- un incatesimo si puo' lanciare e poi aspettare prima di manifestarlo
+- i compagni possono collaborare nel lancio di incantesimi rendendolo piu' efficace
+- gli incatesimi sono quelle di dnd5e, con diverse aggiunte e molte modifiche
 
 
 Pozioni, Veleni, Malattie e droghe
 c'e' un ricco ricettario per tutti gli appasionati
 
 Mostri:
-quelli della 5e srd piu' i classici mancanti, piu' molti altri nuovi
-tutti piu' cattivi
+quelli della 5e srd piu' i classici mancanti, piu' molti altri nuovi, tutti piu' cattivi
 
 Punti Esperienza:
-in base alle difficolta' passate o hai ai mostri uccisi 
-si prende punti esperienza per tesoro trovato
+- in base alle difficolta' passate o hai ai mostri uccisi. 
+- si prende punti esperienza per tesoro trovato
 
 Regole Opzionali
 tante regole opzionali per divertirsi ancora di piu'
