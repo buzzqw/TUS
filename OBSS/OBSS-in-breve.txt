@@ -61,6 +61,7 @@ Combattimento:
 - fare 1 attacco costa 1 azione, 2 attacchi costa 2 azioni, 3 o piu' attacchi costano 3 azioni. Ogni freccia scagliata costa 1 azione
 - Ogni volta che tiri un 6 con il d6 (3d6 della prova) puoi tirare un altro dado (golden rules...)
 - Ogni volta che tiri due volte 6 nel Tiro per Colpire tiri un danno di arma (sono arma senza altri bonus) in piu'
+- Il giocatore puo' preferire di tirare un nuovo danno di arma per quanto colpisca bene l'avversario
 - Quando il dado dell'arma fa il massimo possibile ritiri il dado e sommi (solo per armi che fanno almeno 8 di danno)
 - se si attacca con un arma lunga hai +2 al tiro per colpire, ma se l'avversario ti viene addosso hai un -1d6
 

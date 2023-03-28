@@ -61,6 +61,7 @@ Combat:
 - making 1 attack costs 1 action, 2 attacks costs 2 actions, 3 or more attacks cost 3 actions. Each arrow fired costs 1 action
 - Every time you roll a 6 with the d6 (3d6 of the test) you can roll another dice (golden rules...)
 - Every time you roll twice 6 in the Attack Roll you roll one more weapon damage (they are weapons without other bonuses)
+- The player may prefer to roll a new weapon damage dice on well it hits the opponent
 - When the die of the weapon does the maximum possible you reroll the die and add (only for weapons that do at least 8 damage)
 - if you attack with a long weapon you have +2 to hit, but if the opponent runs into you you have -1d6 on hit
 
