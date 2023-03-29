@@ -1,3 +1,16 @@
+**29/03/2023**
+
+Negli ultimi giorni mi sto dedicando ad una revisione del sistema dei punti esperienza.
+Personalmente non mi piace il sistema milestone, tende ad appiattire troppo il gioco di ruolo a non premiare chi veramente si impegna a giocare.
+Non e' questione di chi e' piu' bravo a giocare, perche' non giudichi chi sa meglio le regole le classi o i trucchi del mestiere, bensi' deve essere un premio a chi si impegna, si diverte, fa divertire a chi partecipa come persona e giocatore.
+
+Non e' questione di fare il personaggio simpatico o antipatico, se lo giochi bene e non sei contro il gruppo, allora puoi essere premiato.
+
+Come avrete capito non si tratta solo di punti esperienza per aver ucciso i mostri ma di un sistema premiante in base a come giocato ed all'apporto del personaggio e giocatore nel gruppo.
+
+Molto probabilmente questa mia sensibilita' e' dovuta ad esperienze personali, ad anni di gioco, ed infatti voglio sforzarmi di fare capire che non si vuole punire nessuno ma premiare chi costruisce insieme agli altri.
+
+
 **13/03/2023**
 
 mi chiedo quali possono essere le prossime priorita' per OBSS.
