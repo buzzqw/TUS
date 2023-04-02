@@ -277,7 +277,7 @@ aggiunto Arrabbiato a:
 
 30/03/2023 aggiornata versione POD
 
-0.70 pubblicata versione 0.69, aggiornata copertina, aggiornata durata muro di forza, specificato che la creatura creata da simulacro ha meta' di CM e CA, bisogna essere un devoto di Efrem o Shayalia per imparare l'incantesimi trasformazione, il tempo di lancio dell'incantesimi rinascita e' di 10 minuti, capanna protegge solo da incantesimi tipo trucchetto,  
+0.70 pubblicata versione 0.69, aggiornata copertina, aggiornata durata muro di forza, specificato che la creatura creata da simulacro ha meta' di CM e CA, bisogna essere un devoto di Efrem o Shayalia per imparare l'incantesimi trasformazione, il tempo di lancio dell'incantesimi rinascita e' di 10 minuti, capanna protegge solo da incantesimi tipo trucchetto, modificato critico a cavalcatura fantasma, chiarimenti su effetto critico magica su durata incantesimo, 
 
 
 - aggiunti \label{} fino a piani
@@ -289,10 +289,10 @@ Aggiungere immagini:
 
 
 > valutare:
+- motivazioni, un elenco di frasi o indicazione  che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
 - gestione morale mostri
 - un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
-- indicazioni su sessione zero, quali domande, cosa dire
 - combattimento sociale, ampliare
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
