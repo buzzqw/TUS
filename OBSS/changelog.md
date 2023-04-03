@@ -289,7 +289,7 @@ Aggiungere immagini:
 
 
 > valutare:
-- motivazioni, un elenco di frasi o indicazione  che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
+- motivazioni, un elenco di frasi o indicazione che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
 - gestione morale mostri
 - un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
@@ -303,5 +303,4 @@ Aggiungere immagini:
 - psionici ? ispirazione da 2ed/3ed
 - magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
 - aggiungere altri mostri, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
-- rivedere punti esperienza. valutare togliere milestone e lasciare punti esperienza. oppure mettere punti esperienza di default
 - valutare movimento diagonale fare pesare 1m e non 1.5m
