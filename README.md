@@ -1,6 +1,6 @@
-[![Compila OBSSv3](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml)
-[![Compila Copertina OBSS](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina%20OBSS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila%20copertina%20OBSS.yml)
-[![Compila Screen OBSS](https://github.com/buzzqw/TUS/actions/workflows/Compila%20Screen%20OBSS.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/Compila%20Screen%20OBSS.yml)
+[![Compila OBSS](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml)
+[![Compila OBSS english](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml)
+
 
 **A semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v3.pdf** !!! (update to latest commit!!)
 Here you can read an extreme summary of the system [OBSS](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-in-short.txt)
