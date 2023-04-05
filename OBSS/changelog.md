@@ -281,7 +281,7 @@ aggiunto Arrabbiato a:
 
 05/04/2023 aggiornata versione POD
 
-0.71 pubblicata versione 0.70, aggiornata copertina,
+0.71 pubblicata versione 0.70, aggiornata copertina, aggiornati playtesters, 
 
 - aggiunti \label{} fino a piani
 
