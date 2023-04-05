@@ -277,8 +277,11 @@ aggiunto Arrabbiato a:
 
 30/03/2023 aggiornata versione POD
 
-0.70 pubblicata versione 0.69, aggiornata copertina, aggiornata durata muro di forza, specificato che la creatura creata da simulacro ha meta' di CM e CA, bisogna essere un devoto di Efrem o Shayalia per imparare l'incantesimi trasformazione, il tempo di lancio dell'incantesimi rinascita e' di 10 minuti, capanna protegge solo da incantesimi tipo trucchetto, modificato critico a cavalcatura fantasma, chiarimenti su effetto critico magica su durata incantesimo, aggiunta rabbia a drago rosso antico, qualche correzione su dimensione mostri, aggiunte citazioni per tutti i patroni tranne per quelli della genesi, 
+0.70 pubblicata versione 0.69, aggiornata copertina, aggiornata durata muro di forza, specificato che la creatura creata da simulacro ha meta' di CM e CA, bisogna essere un devoto di Efrem o Shayalia per imparare l'incantesimi trasformazione, il tempo di lancio dell'incantesimi rinascita e' di 10 minuti, capanna protegge solo da incantesimi tipo trucchetto, modificato critico a cavalcatura fantasma, chiarimenti su effetto critico magica su durata incantesimo, aggiunta rabbia a drago rosso antico, qualche correzione su dimensione mostri, aggiunte citazioni per tutti i patroni tranne per quelli della genesi
 
+05/04/2023 aggiornata versione POD
+
+0.71 pubblicata versione 0.70, aggiornata copertina,
 
 - aggiunti \label{} fino a piani
 
