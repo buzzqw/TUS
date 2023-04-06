@@ -283,6 +283,9 @@ aggiunto Arrabbiato a:
 
 0.71 pubblicata versione 0.70, aggiornata copertina, aggiornati playtesters, 
 
+06/04/2023 aggiornata versione POD
+
+
 - aggiunti \label{} fino a piani
 
 Aggiungere immagini:
