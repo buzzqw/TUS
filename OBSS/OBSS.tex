@@ -2300,6 +2300,12 @@ Ogni qual volta la prova è \textbf{superata con un critico}, ovvero la prova è
 
 Viceversa se la prova fallisce \textbf{e si sono tirati due 1 oppure un 1 e due 2} il Narratore potrebbe descrivere come miseramente la prova è fallita e come il risultato pessimo influenzi l'Azione e quelle successive.
 
+Una prova può essere ripetuta\index{Ripetere una prova}\index{Rifare una prova} finchè non mutano le condizioni che permettono alla prova di essere ripetuta.
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+Se la prova può essere ripetuta fino all'eventuale successo senza problemi o interruzioni allora non fate fare la prova, descrivete i tentativi, le difficoltà incontrate e dichiarate il successo.
+\end{narratore}\end{changemargin}
+
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Questo premio cozza chiaramente con il suggerimento di "premiare" il COME fare e non il COSA fare. Il Narratore, anche in base al gruppo che deve gestire dovrà ben destreggiarsi e cercare un equilibrio.\end{narratore}\end{changemargin}
 
@@ -3727,11 +3733,11 @@ nel caso il personaggio cambi dimensione \index{Modificare le dimensioni} la sua
 \begin{tabular}{ll|ll}
 	\textbf{Taglia} & \textbf{Difesa}&	\textbf{Taglia} & \textbf{Difesa}\\
 	\toprule
-	Piccolissima & +8& Minuta		 	 & +4\\
-	Minuscola  & +2& Piccola  & +1\\
-	Media  & +0& Grande & -1\\
-	Enorme & -2& Mastodontica & -4\\
-	Colossale  & -8&&\\
+	Piccolissima	& +8 & Grande & -1\\
+	Minuta		 	& +4 & Enorme & -2\\
+	Minuscola  		& +2 & Mastodontica & -4\\
+	Piccola  		& +1 & Colossale  & -8\\
+	Media  			& +0 &&\\	
 \end{tabular}
 
 
@@ -9576,7 +9582,36 @@ Se quando lanci questo incantesimo ti trovi all'esterno in condizioni di tempest
 \textbf{Durata}: massimo 10 minuti\\
 Bandisci una creatura a gittata e che puoi vedere in un semipiano labirintico. Il bersaglio rimane lì per la durata dell'incantesimo o finché non fugge dal labirinto. Il bersaglio può impiegare 3 Azioni per tentare di fuggire. Quando lo fa, effettua una prova di Intelligenza DC 25. Se la supera, fugge, e l'incantesimo termina (un minotauro o un demone goristro riescono automaticamente).\\
 Quando l'incantesimo termina, il bersaglio riappare nello spazio che aveva lasciato o, se quello spazio è occupato, nel più vicino spazio non occupato.\\
-\textbf{Per ogni Successo Critico magico ottenuto} nella Prova di Magia la durata aumenta di 10 minuti. Con due Successo Critico Magico puoi influenzare un altra creatura.\\
+\textbf{Per ogni Successo Critico magico ottenuto} nella Prova di Magia la durata aumenta di 10 minuti. Con due Successo Critico Magico puoi influenzare un altra creatura.
+
+\medskip\textbf{Lacrima di Laydel}\index[Incantesimi]{Lacrima di Laydel}\\
+\textbf{Scuola}: Invocazione\\
+\textbf{Livello}: 2, Molto Raro/Comune\\
+\textbf{Tempo di Lancio}: 2 Azione/1 Azione\\
+\textbf{Gittata}: 36 metri\\
+\textbf{Componenti}: V, S, M (una lacrima dell'incantatore)\\
+\textbf{Durata}: Istantaneo\\
+L'incantatore permea di magia una lacrima che getta contro l'avversario, è necessario un Tiro per Colpire con Incantesimi a distanza.
+La creatura subisce 1d6+2d6 di danno, per stabilire il tipo di danno consultare la tabella con i valori del primo d6 tirato.
+
+\medskip
+
+\begin{tabular}{l|l}
+\textbf{1d6}&\textbf{Energia}\\
+\hline
+1 &Fuoco\\
+2 &Elettricità\\
+3 &Freddo\\
+4 &Suono\\
+5 &Vuoto\\
+6 &Forza\\
+\end{tabular}
+
+\medskip
+
+Il danno che l'obiettivo subisce e' pari a tipo di Energia che risulta dal primo d6. Se il primo dado è un 6 ed è 6 anche uno degli altri dadi allora tira nuovamente 1d6 e somma al danno.
+
+Per un Devoto di Laydel questo incantesimo è Comune e ha un tempo di lancio di 1 Azione inoltre può continuare a tirare ulteriori d6 di danno purchè continui a tirare 6 con quel dado.
 
 \medskip\textbf{Lama Infuocata}\index[Incantesimi]{Lama Infuocata}\\
 \textbf{Scuola}: Fuoco\\
@@ -11856,7 +11891,7 @@ Non puoi avere più di un famiglio alla volta. \\
 \vfill
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.70\textwidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
+\includegraphics[keepaspectratio,width=0.60\textwidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
 
 \textit{The Circle of Solomon and Triangle of Solomon from The Goetia: The Lesser Key of Solomon the King, The Book of Evil Spirits by L. W. De Laurence}
 \end{center}
@@ -12171,6 +12206,7 @@ Aura Magica dell'Arcanista, Non Comune, 2\\
 Bocca Magica, Comune, 2\\
 Immagine Speculare, Comune, 2\\
 Invisibilità, Comune, 2\\
+Lacrima di Laydel, Molto Raro, 2\\
 Sfocatura, Comune, 2\\
 Silenzio, Comune, 2\\
 Destriero Fantasma, Comune, 3\\
@@ -13826,7 +13862,7 @@ Ledyal ha anche una sorella gemella, o forse un'altra personalità. O forse sono
 - \textbf{Somma dei Tratti in comune a 20 punti}: Irradi una sfera curativa intorno a te. Ogni creatura nel raggio di 6 metri viene curata di 60 Punti Ferita. Una volta al giorno. In caso di Laydel l'effetto è opposto. Costo 2 Azioni\\
 - \textbf{Elementi}: Energia Positiva, Elettricità\\
 - \textbf{Vantaggio}: Guaritore (Ledyal) oppure Senza paura (Laydel)\\
-- \textbf{Liste Magia Privilegiate}: Invocazione o Cura\\
+- \textbf{Liste Magia Privilegiate}: Cura o Invocazione\\
 - \textbf{Arma Preferita}: Manganello/Catena chiodata
 
 \subsubsection{Nethergal}\index{Nethergal}\label{nethergal}
@@ -14712,7 +14748,9 @@ Scudo pesante di metallo & 	20 mo  	&  3  & 1& +2d6  & P\\
 
 \textbf{Penalità TC}: è la penalità al Tiro per Colpire che si ha quando si imbraccia lo scudo.
 
-\textbf{Tipo}: indica la taglia dello scudo. \textbf{L}eggero, \textbf{M}edio, \textbf{P}esante. Uno \textbf{Scudo} Leggero ha \textbf{Ingombro} 1, uno Scudo Medio ha Ingombro 2, uno Scudo Pesante ha Ingombro 4.\index{Imgombro per Scudi}
+\textbf{Tipo}: indica la taglia dello scudo. \textbf{L}eggero, \textbf{M}edio, \textbf{P}esante.
+
+Uno \textbf{Scudo} Leggero ha \textbf{Ingombro} 1, uno Scudo Medio ha Ingombro 2, uno Scudo Pesante ha Ingombro 4.\index{Imgombro per Scudi}
 
 La penalità alla Prova di Magia si somme con quella eventualmente dovuta dall'armatura.\index{Penalità Magia Scudo ed Armatura}
 
@@ -15683,11 +15721,11 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 \begin{tabular}{ll|ll}
 \textbf{Taglia} & \textbf{Mod.}&\textbf{Taglia} & \textbf{Mod.}\\
 \toprule
-Piccolissima  & -16&Minuta  & -12\\
-Minuscola & -8&Piccola & -4\\
-Normale & +0&Grande  & +4\\
-Enorme  & +8&Mastodontica  & +12\\
-Colossale & +16&&\\
+Piccolissima  & -16& Grande  & +4\\
+Minuta  & -12 &Enorme  & +8\\
+Minuscola & -8& Mastodontica  & +12\\
+Piccola & -4  & Colossale & +16\\
+Normale & +0&&\\
 \end{tabular}
 
 \medskip
@@ -19168,11 +19206,11 @@ Nella \textbf{Tabella: Ingombro trasportato in base alla taglia}\index{Ingombro 
 \begin{tabularx}{0.45\textwidth}{ll|ll}
 \textbf{Taglia}	& \textbf{Ing.}&\textbf{Taglia} & \textbf{Ing.}\\
 \toprule
-Piccolissima & 1/4&Minuta & 1\\
-Minuscola & 4&Piccola & 9\\
-Media & 16&Grande & 25\\
-Enorme& 36&Mastodontica&49\\
-Colossale&64&&\\
+Piccolissima &1/4& Grande & 25\\
+Minuta & 1 & Enorme& 36\\
+Minuscola & 4& Mastodontica&49\\
+Piccola & 9 & Colossale&64\\
+Media & 16&&\\
 \end{tabularx}
 
 \medskip
@@ -31727,7 +31765,7 @@ Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrar
 
 \medskip\index[Mostruario]{Tàhil}\textbf{Tàhil}
 
-\textit{mastodontica drago}
+\textit{Colossale drago}
 
 \textbf{FORZA} +10
 

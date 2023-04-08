@@ -2301,6 +2301,11 @@ Whenever the check is \textbf{passed with a critical score}, i.e. the check is s
 Conversely, if the check fails \textbf{and two 1s were rolled or one 1 and two 2s} the Arbiter could describe how miserably the check failed and how the bad result affects the Action and the subsequent ones.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narrator}
+If the test can be repeated until eventual success without problems or interruptions then do not have the test done, describe the attempts, the difficulties encountered and declare success.
+\end{narrator}\end{changemargin}
+
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narrator}
 This award clearly clashes with the suggestion to "reward" the HOW to do and not the WHAT to do. The Arbiter, also on the basis of the group he has to manage, will have to juggle well and seek a balance.\end{narrator}\end{changemargin}
 
 \subsection{Awareness}\index{Awareness}\label{consapevolezza2}
@@ -2984,11 +2989,11 @@ The following table shows how many creatures that can surround a medium-sized cr
 \multirow{2}{*}\textbf{Size} &\multirow{2}{*}\textbf{Creatures}&\multirow{2}{*}\textbf{n. creatures}\\
 {Creature}&{melee}&{in square}\\
 \toprule
-Very small & 100&16\\
-Minute & 64&8\\
-lowercase & 32&4\\
+Fine & 100&16\\
+Diminutive & 64&8\\
+Tiny & 32&4\\
 Small & 16&2\\
-Average & 8&1\\
+Medium & 8&1\\
 \end{tabular}
 
 \smallskip
@@ -3715,13 +3720,13 @@ if the character changes size \index{Change own size} his Defence changes accord
 \bigskip
 
 \begin{tabular}{ll|ll}
-\textbf{Bounty} & \textbf{Defence}& \textbf{Bounty} & \textbf{Defence}\\
+\textbf{Size} & \textbf{Defence}& \textbf{Size} & \textbf{Defence}\\
 \toprule
-Very Small & +8& Tiny & +4\\
-Small & +2& Small & +1\\
-Medium & +0& Large & -1\\
-Huge & -2& Gargantuan & -4\\
-Colossal & -8&&\\
+Diminutive & +8 &Large & -1\\
+Tiny & +4 & Huge & -2\\
+Small & +2 & Gargantuan & -4\\
+Small & +1 &Colossal & -8\\
+Medium & +0&&\\
 \end{tabular}
 
 
@@ -10143,7 +10148,7 @@ You can also specify conditions that will trigger a special activity for the dur
 \textbf{Duration}: maximum 10 minutes\\
 Banish a creature that you can see within range on a labyrinthine demiplane. The target remains there for the duration of the spell or until it escapes the labyrinth. The target can take 3 Actions to attempt to escape. When he does, he makes a DC 25 Intelligence check.
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.\\
-\textbf{For each magical critical success rolled} in the Magic Test, the duration increases by 10 minutes. With two magical critical successes you can affect another creature. \\
+\textbf{For each magical critical success rolled} in the Magic Test, the duration increases by 10 minutes. With two magical critical successes you can affect another creature.
 
 \medskip\textbf{One with stone}\index[Spells]{One with stone}\\
 \textbf{School}: Earth\\
@@ -11319,6 +11324,34 @@ You manifest a minor trick within range, a sign of supernatural power. You creat
 If you cast this spell multiple times, you can keep up to three one-minute effects active at a time, and you can stop these effects as an action.\\
 \textbf{For each magical Critical Success rolled} in the Magic Test you can manifest an additional magical effect.
 
+\medskip\textbf{Laydel's Tear}\index[Spells]{Laydel's Tear}\\
+\textbf{School}: Invocation\\
+\textbf{Level}: 2, Very Rare/Common\\
+\textbf{Casting Time}: 2 Action/1 Action\\
+\textbf{Range}: 36 meters\\
+\textbf{Components}: V, S, M (a teardrop of caster)\\
+\textbf{Duration}: Instant\\
+The caster imbues a tear with magic which he throws at the opponent, requiring a ranged spell attack roll.
+The creature suffers 1d6+2d6 of damage, to establish the type of damage consult the table with the values of the first d6 rolled.
+
+\medskip
+
+\begin{tabular}{l|l}
+	\textbf{1d6}&\textbf{Energy}\\
+	\hline
+	1 &Fire\\
+	2 &Electricity\\
+	3 &Cold\\
+	4 &Sound\\
+	5 &Void\\
+	6 &Force\\
+\end{tabular}
+
+\medskip
+
+The damage the target takes is equal to the Energy type that results from the first d6. If the first die is a 6 and one of the other dice is a 6 as well, then roll 1d6 again and add to the damage.
+
+For a Laydel Devotee this spell is Common and has a casting time of 1 Action and can continue to roll further d6s of damage as long as he continues to roll 6s with that die.
 
 \medskip\textbf{Telekinesis}\index[Spells]{Telekinesis}\\
 \textbf{School}: Transmutation\\
@@ -12296,6 +12329,7 @@ Divine Favor, Uncommon, 1\\
 Luminescence, Uncommon, 1\\
 Tracer Bolt, Uncommon, 1\\
 Greater Blessing, Uncommon, 2\\
+Laydel's Tear, Very Rare, 2\\
 Marking Smite, Common, 2\\
 Shatter, Common, 2\\
 Shining Smite, Uncommon, 2\\
@@ -13948,7 +13982,7 @@ Ledyal also has a twin sister/brother, or maybe another personality. Or maybe th
 - \textbf{Sum of common Traits to 20 points}: Radiate a healing sphere around you. Each creature within a 6 meters radius is healed for 60 hit points. Once a day. In Laydel's case the effect is the opposite. Cost 2 Actions\\
 - \textbf{Elements}: Positive Energy, Electricity\\
 - \textbf{Advantage}: Healer (Ledyal) or Fearless (Laydel)\\
-- \textbf{Privileged Spell Lists}: Invocation or Heal\\
+- \textbf{Privileged Spell Lists}: Heal or Invocation\\
 - \textbf{Favored Weapon}: Truncheon/Spiked Chain
 
 \subsubsection{Nethergal}\index{Nethergal}\label{nethergal}
@@ -14848,7 +14882,9 @@ Heavy metal shield & 20 gp & 3 & 1& +2d6 & P\\
 
 \textbf{AR Penalty}: it is the penalty to the attack roll that occurs when holding the shield.
 
-\textbf{Type}: Indicates the size of the shield. \textbf{L}light, \textbf{M}ed, \textbf{P}heavy. A \textbf{Shield} Light has \textbf{Encumbrance} 1, a Medium Shield has Encumbrance 2, a Heavy Shield has Encumbrance 4.\index{Encumbrance for Shield}
+\textbf{Type}: Indicates the size of the shield. \textbf{L}light, \textbf{M}ed, \textbf{P}heavy. 
+
+A \textbf{Shield} Light has \textbf{Encumbrance} 1, a Medium Shield has Encumbrance 2, a Heavy Shield has Encumbrance 4.\index{Encumbrance for Shield}
 
 Shield penalty to Magic Test add to penalty due to Armor.\index{Magic Test penalty due to Shield and Armor}
 
@@ -15710,9 +15746,9 @@ Huge & -4 &4-9m\\
 Large & -2 &2.4-4m\\
 Average & +0 &1.2-2.4m\\
 Small & +2 &60-120cm\\
-Lowercase & +4 &30-60cm\\
-Petite & +6 &15-30cm\\
-Very small & +8 &5-20cm\\
+Tiny & +4 &30-60cm\\
+Diminutive & +6 &15-30cm\\
+Fine & +8 &5-20cm\\
 \end{tabularx}
 
 \smallskip
@@ -15820,11 +15856,11 @@ Creatures larger or smaller than Medium have bounty bonuses or penalties on the 
 \begin{tabular}{ll|ll}
 \textbf{Size} & \textbf{Mod.}&\textbf{Size} & \textbf{Mod.}\\
 \toprule
-Tiny & -16&Diminutive & -12\\
-Lowercase & -8&Small & -4\\
-Normal & +0&Large & +4\\
-Huge & +8&Mammoth & +12\\
-Colossal & +16&&\\
+Fine & -16 & Large & +4\\
+Diminutive & -12 & Huge & +8\\
+Tiny & -8 & Large &+12\\
+Small & -4 & Gargantuan & +16\\
+Medium & +0&&\\
 \end{tabular}
 
 \medskip
@@ -16057,7 +16093,7 @@ Also, if the object falls from less than 3 meter away, it deals half the listed 
 \toprule
 Tiny or Smaller & 1d6\\
 Small & 2d6\\
-Average & 3d6\\
+Medium & 3d6\\
 Large & 4d6\\
 Huge & 6d6\\
 Gargantuan & 8d6\\
@@ -19316,11 +19352,11 @@ The \textbf{Table: Overall dimensions transported according to size}\index{Table
 \begin{tabularx}{0.45\textwidth}{ll|ll}
 \textbf{Size} & \textbf{Eng.}&\textbf{Size} & \textbf{Eng.}\\
 \toprule
-Very Small & 1/4&Thin & 1\\
-Lowercase & 4&Small & 9\\
-Medium & 16&Large & 25\\
-Huge& 36&Mammoth&49\\
-Colossal&64&&\\
+Fine & 1/4 &  Large & 25\\
+Diminutive & 1 & Huge& 36\\
+Tiny & 4 & Gargantuan&49\\
+Small & 9 & Colossal&64\\
+Medium & 16 &&\\
 \end{tabularx}
 
 \medskip
@@ -24962,13 +24998,13 @@ If not indicated, the range of a creature depends on the size and the weapon use
 \begin{tabularx}{0.95\textwidth}{llllll}
 \toprule
 \textbf{Cut}& \textbf{Space} & \textbf{Example}&\textbf{Squares}&\textbf{Hit Die}&\textbf{Range}\\
-Lowercase & 25 x 25 cm&Cat, Sprite& 1/4&d4&0m\\
-Small & 0.5 x 0.5m & Goblin, Dog, Gnome&1/2&d6&0m\\
-Medium & 1 x 1m & Orc, Human, Elf, Dwarf, Nibali &1&d8&1m\\
-Large & 3x3m& Ogre&2x2&d10&2m\\
-Huge & 5x5m & Giant, Ent&3x3&d12&3m\\
-Gargantuan & 6x6m&Kraken, Dragon&4x4&3d6&4m\\
-Colossal & 12 x 12m&Elder Dragon, Tarrasque&6x6&2d12&6m\\
+Tiny & 25 x 25 cm&Cat, Sprite& 1/4&d4&0m\\
+Small & 0.5 x 0.5 m & Goblin, Dog, Gnome&1/2&d6&0m\\
+Medium & 1 x 1 m & Orc, Human, Elf, Dwarf, Nibali &1&d8&1m\\
+Large & 2 x 2 m& Ogre&2x2&d10&2m\\
+Huge & 5x5 m & Giant, Ent&3x3&d12&3m\\
+Gargantuan & 6x6 m&Kraken, Dragon&4x4&3d6&4m\\
+Colossal & 12 x 12 m&Elder Dragon, Tarrasque&6x6&2d12&6m\\
 \end{tabularx}
 
 \medskip
@@ -43221,7 +43257,7 @@ It is universally known that trolls can naturally mutate by acquiring for short 
 
 \index[Monsters]{Tàhil}\textbf{Tàhil}
 
-\textit{Gargantuan dragon}
+\textit{Colossal dragon}
 
 \textbf{STRENGTH} +10
 
@@ -46549,48 +46585,6 @@ Winter wolves inhabit the Arctic regions and are evil, intelligent creatures wit
 \textit{Hit:} 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Fortitude save or fall prone.
 
 \textit{\textbf{Icy Breath (Cooldown 5-6).}} The wolf exhales a blast of icy wind in a 5-meter cone. Each creature in that area must make a DC 12 Reflex save, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
-
-\medskip\textbf{Mammoth}\index[Monsters]{Mammoth}
-
-The mammoth is an elephant-like creature with thick fur and long tusks.
-
-\textit{Huge beast, unaligned}
-
-\textbf{STRENGTH} +7
-
-\textbf{DEXTERITY} -1
-
-\textbf{CONSTITUTION} +5
-
-\textbf{INTELLIGENCE} -4
-
-\textbf{WISDOM} +0
-
-\textbf{CHARISMA} -2
-
-\textbf{Initiative} -1 -- \textbf{Defence} 16
-
-\textbf{Hit Points} 126 (11d12 + 55)
-
-\textbf{Move} 12m
-
-\textbf{Saving Throws}: Fortitude +14, Reflexes +10, Will +7
-
-\textbf{Languages} -
-
-\textbf{Challenge} 6 (2300 XP)
-
-\textit{\textbf{Rrumbling Charge.}} If the mammoth moves at least 6 meters directly toward a creature and hits it with a gore attack during the same turn, the target must succeed on a DC 18 Fortitude save or fall prone. If the target is prone, the mammoth can make a stomp attack against it as a bonus action.
-
-\textbf{Actions}
-
-\textit{\textbf{Gore.} Melee Weapon Attack}: +10 to hit, reach 3m, one target.
-
-\textit{Hit:} 25 (4d8 + 7) piercing damage.
-
-\textit{\textbf{Stamp.} Melee Weapon Attack}: +10 to hit, reach 1m, one prone creature.
-
-\textit{Hit:} 29 (4d10 + 7) bludgeoning damage.
 
 \medskip\textbf{Mastiff}\index[Monsters]{Mastiff}
 

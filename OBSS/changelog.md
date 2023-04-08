@@ -283,7 +283,7 @@ aggiunto Arrabbiato a:
 
 0.71 pubblicata versione 0.70, aggiornata copertina, aggiornati playtesters, 
 
-06/04/2023 aggiornata versione POD
+06/04/2023 aggiornata versione POD, aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, severla fix on moster size, migliore lettura alcune tabelle per taglia, indicazioni su rifare la prova, 
 
 
 - aggiunti \label{} fino a piani
