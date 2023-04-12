@@ -51,7 +51,7 @@ Abilita':
 Dato che il personaggio non ha classi scegliendo le abilita' (Feat) vai a costruirlo. Sono oltre 120 le Abilita' da scegliere, molte possono essere prese piu' volte per "sbloccare" ulteriori capacita' straordinarie.. Le abilita' si prendono a tutti i livelli tranne che al 5, 10, 15, 20 livello.
 Alcune abilita' vanno a mimare quelle piu' canoniche delle classi, molte altre sono diverse e peculiari del sistema. E' facile e spontaneo costruire il personaggio che piu' si preferisce e si e' pensato.
 Le abilita' aumentano i Tiri Salvezza. Ogni volta che si prende una abilita' si aumentano i punteggi dei tiri salvezza, questo e' l'unico modo per aumentare i tiri salvezza.
-Gli aumenti di caratteristica si prendono tramite abilita'.
+Gli aumenti di caratteristica si prendono tramite abilita', ovvero si possono prendere o meno.
 
 Vantaggi e Svantaggi:
 Tutti i personaggi possono avere dei vantaggi e svantaggi. Obbligatorio uno svantaggio di ruolo, un piccolo difetto che rende tutti piu' "normali". Ci sono poi i vantaggi e svantaggi reali, molti anche impegnativi da giocare che caratterizzano e rendono unico il personaggio. Piu' un vantaggio e' potente piu' e' necessario "pagare" con svantaggi.
@@ -89,19 +89,20 @@ La magia:
 - gli incatesimi sono quelle di dnd5e, con diverse aggiunte e molte modifiche
 
 
-Pozioni, Veleni, Malattie e droghe
+Pozioni, Veleni, Malattie e droghe:
 c'e' un ricco ricettario per tutti gli appasionati
 
 Mostri:
-quelli della 5e srd piu' i classici mancanti, piu' molti altri nuovi, tutti piu' cattivi
+- quelli della 5e srd piu' i classici mancanti, piu' molti altri nuovi, tutti piu' cattivi
+- i mostri quando gravemente feriti possono arrabbiarsi e diventare ancora piu' cattivi
 
 Punti Esperienza:
-- in base alle difficolta' passate o hai ai mostri uccisi. 
-- si prende punti esperienza per tesoro trovato
+- in base ai mostri uccisi, alla collaborazione di gruppo, alle idee e proposte avute
+- si prendono punti esperienza per tesori o monete d'ora trovate
 
 Punti Fato:
 sono punti che possono essere usati per aggiungere dadi alla prova o anche ritirare la prova effettuata.
 sono a scalare, ovvero piu' si e' di basso livello piu' se ne hanno.
 
-Regole Opzionali
+Regole Opzionali:
 tante regole opzionali per divertirsi ancora di piu'

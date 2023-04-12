@@ -89,19 +89,21 @@ Magic:
 - spells are those of dnd5e, with several additions and many modifications
 
 
-Potions, Poisons, Diseases and drugs
+Potions, Poisons, Diseases and drugs:
 there is a rich recipe book for all enthusiasts
 
 Monsters:
-those of the 5e srd plus the missing classics, plus many other new ones, all meaner
+- those of the 5e srd plus the missing classics, plus many other new ones, all meaner
+- monsters when seriously injured can get angry and become even more evil
 
 Experience Points:
-- based on past difficulty or have you killed monsters.
-- you get experience points for treasure found
+- based on the monsters killed, the group collaboration, the ideas and proposals received
+- you get experience points for treasure or gold coins found
+
 
 Fate Points:
 are points that can be used to add dice to the test or even reroll the test performed.
 they are scalar, i.e. the more low level you are, the more you have.
 
-Optional Rules
+Optional Rules:
 many optional rules for even more fun
