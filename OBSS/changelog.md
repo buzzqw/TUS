@@ -283,7 +283,11 @@ aggiunto Arrabbiato a:
 
 0.71 pubblicata versione 0.70, aggiornata copertina, aggiornati playtesters, 
 
-06/04/2023 aggiornata versione POD, aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several fix on moster size, migliore lettura alcune tabelle per taglia, indicazioni su rifare la prova, migliore gestione tiro salvezza telecinesi, chiarimenti su prova di caratteristica, sort alphabetically common term, aggiunto foglio utilita' per tenera traccia di torce e combattimenti, aggiunto incantesimo benedizione di cattalm, 
+06/04/2023 aggiornata versione POD, aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several fix on moster size, migliore lettura alcune tabelle per taglia, indicazioni su rifare la prova, migliore gestione tiro salvezza telecinesi, chiarimenti su prova di caratteristica, sort alphabetically common term, aggiunto foglio utilita' per tenera traccia di torce e combattimenti, aggiunto incantesimo benedizione di cattalm
+
+13/04/2023 aggiornata versione POD
+
+0.72 pubblicata versione 0.71, aggiornata copertina,
 
 
 - aggiunti \label{} fino a piani
