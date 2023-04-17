@@ -1,3 +1,21 @@
+**17/04/2023**
+
+Che OBSS sia giunto alla sua conclusione, al suo compimento ?
+ci sto pensando sempre di piu' in queste settimane, accorgendomi che le modifiche non sono piu' significative, ma neanche evocative o entusiasmanti.
+Qualche incantesimo nuovo, una nuova abilita', tante piccole correzioni ortografiche.. ma.. nulla che abbia veramente la consistenza dei primi tempi.
+
+Ora, so benissimo che dopo aver scritto tutto cio' usciranno dal playtesting suggerimenti e modifiche fantasmagoriche.. eppure sono mediamente convinto che la fine si avvicini.
+Oltretutto per un motivo molto pratico, il volume ha raggiunto le 590 pagine senza la copertina, che e' il limite massimo di pagine per il POD su amazon.
+Detta diversamente cio' che scrivo o ci sta nello spazio a disposizione oppure devo togliere qualcosa...  E non e' affatto bello.
+Unica soluzione se veramente lo spazio non mi bastasse.. e' separare il mostruario in un volume proprio.
+
+Questo cosa mi ha abbastanza spiazzato, o meglio.. parliamoci chiaro, OBSS ha raggiunto le 590 pagine, non proprio poco, eppure mi preoccupo se non mi bastera'..
+
+Nei prossimi mesi sicuramente usciranno nuove versioni di OBSS, ne sono certo, forse anche con modifiche importanti..eppure sento sempre piu' vicino il momento del distacco.
+Distacco, e se fosse invece una evoluzione ? in cosa potrebbe evolversi OBSS.. cosa potrebbe perdere, acquistare o modificare le regole ?
+
+Qualche idea c'e' l'ho gia'.. ma aspetto che diventino piu' concrete!
+
 **29/03/2023**
 
 Negli ultimi giorni mi sto dedicando ad una revisione del sistema dei punti esperienza.
