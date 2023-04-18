@@ -17,12 +17,12 @@ You can be Devotees if you have at least 3 Traits in common with a Patron, if th
 
 Classes:
 OBSS has no classes, each player builds the character based on the adventures and situations he encounters.
-At each level he can decide to improve the score of Weapon Proficiency or Magic Proficiency. With the first you hit better, with the second you cast spells.
-It is the Abilities that build the character's abilities, the class.
+At each level player can decide to improve the score of Weapon Proficiency or Magic Proficiency. With the first you hit better, with the second you cast spells.
+It is the Feats that build the character's abilities, the class.
 
 Magical Proficiency:
-The higher the CM score, the more spells you can cast and the harder it is to resist the spell.
-Having a high CM score leads to knowing more magic lists even if in a very superficial way.
+The higher the MP score, the more spells you can cast and the harder it is to resist the spell.
+Having a high MP score leads to knowing more magic lists even if in a very superficial way.
 It doesn't make sense to make characters that only take points in CM, magicians also have to know how to hit.
 
 Weapon Proficiency:
@@ -47,8 +47,8 @@ every time you roll a 6 you roll back the dice and add up
 every time you roll a 1 you don't count the die
 you can subtract 4 points from the score of the Competence or characteristic used in the test to roll an extra d6 (to be used to hope for an explosion of the die)
 
-Ability':
-Since the character has no class, choose the skills (Feat) to build it. There are over 120 Skills to choose from, many can be taken multiple times to "unlock" further extraordinary abilities. Skills are taken at all levels except 5, 10, 15, 20 level.
+Feat':
+Since the character has no class, choose the ability (Feat) to build it. There are over 120 Skills to choose from, many can be taken multiple times to "unlock" further extraordinary abilities. Skills are taken at all levels except 5, 10, 15, 20 level.
 Some abilities mimic the more canonical ones of the classes, many others are different and peculiar to the system. It's easy and spontaneous to build the character you prefer and think about.
 Skills increase saving throws. Each time you take a skill you increase your saving throw scores, this is the only way to increase your saving throws.
 Ability increases are taken through skills.
@@ -60,11 +60,11 @@ Combat:
 - initiative is a test of dexterity or intelligence
 - you have 3 actions per round as in PF2
 - the attack roll is 3d6+strength/dexterity+weapons proficiency + various bonuses (from weapons list, from magic...) against the opponent's Defense value. defense is 10+armor+shield+dexterity+various
-- multiple attacks take the value of the roll to hit and for each roll after the first they subtract 5. So if you have +12 on the roll to hit make one attack at +12, one at +7 and one at +2, if it is negative you can't do it. In practice, the number of attacks depends on your skill rather than just on the level.
+- multiple attacks take the value of the roll to hit and for each roll after the first then subtract 5. So if you have +12 on the roll to hit make one attack at +12, one at +7 and one at +2, if it is negative you can't do it. In practice, the number of attacks depends on your skill rather than just on the level.
 - making 1 attack costs 1 action, 2 attacks costs 2 actions, 3 or more attacks cost 3 actions. Each arrow fired costs 1 action
 - Every time you roll a 6 with the d6 (3d6 of the test) you can roll another dice (golden rules...)
-- Every time you roll twice 6 in the Attack Roll you roll one more weapon damage (they are weapons without other bonuses)
-- The player may prefer to roll a new weapon damage however well it hits the opponent
+- Every time you roll twice 6 in the Attack Roll you roll one more weapon damage 
+- The player may prefer to roll a new weapon damage how well he hits the opponent
 - When the die of the weapon does the maximum possible you reroll the die and add (only for weapons that do at least 8 damage)
 - if you attack with a long weapon you have +2 to hit, but if the opponent runs into you you have -1d6
 
