@@ -1,3 +1,24 @@
+**19/04/2023**
+
+Quali regole di OBSS sono "bloated" quali aspetti ridondanti, cosa si potrebbe semplificare senza rinunciare al contenuto ?
+
+Sono indubbiamente arrivato alla fase del *labor lime* tanto caro ai romani.. e come diceva Catullo e' la parte piu' difficile.
+
+Razionalizzare, rendere omogeneo, togliere idiosincrasie. Mostrare e rendere OBSS come un quadro e non un accozzaglia di colori, neanche immagini.
+
+Come ? rileggendo, giocando, rileggendo, giocando e giocando. E giocando. Party diversi, persone diverse, mastar diversi. Un playtest distribuito sarebbe bellissimo, anche se poi probabilmente non avrei le risorse per gestire velocemente tutti gli esiti..
+
+Dark Catacom e' morto ? No, in qualche maniera e' il punto di arrivo ma non per questo la destinazione finale ne il sistema al quale OBSS deve piegarsi.
+Il raccogliere e sviluppare idee alternative e' servito e serve per costruire e tendere sempre piu' ad un prodotto migliore.
+Un buon manuale non puo' partire perfetto (a meno che sia fatto da una solo parola) ma deve cercare di diventarlo, con i suoi limiti e caratteristiche.
+
+Fare OBSS in d100 od in d20 ? perche' non in 3d12.. cambierebbe ben poco. se non cambia la meccanica ed il sistema usare dadi diversi non cambia nulla.
+
+Trasformare OBSS in un sistema d100 alla WarHammer ? questo sarebbe diverso, ma.. conviene? porta vantaggi?
+
+Non esiste un gioco di ruolo perfetto in assoluto, puo' pero' esistere un gioco di ruolo preferito per affinita' e propria sensibilita'. OBSS e' questo per me.
+
+
 **17/04/2023**
 
 Che OBSS sia giunto alla sua conclusione, al suo compimento ?

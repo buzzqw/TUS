@@ -287,7 +287,7 @@ aggiunto Arrabbiato a:
 
 13/04/2023 aggiornata versione POD
 
-0.72 pubblicata versione 0.71, aggiornata copertina, aggiunto nelle condizioni fiancheggiato, aggiunta incantesimo confusione contagiosa, migliorie al layout sessione zero, dettagli su alzarsi da prono, 
+0.72 pubblicata versione 0.71, aggiornata copertina, aggiunto nelle condizioni fiancheggiato, aggiunta incantesimo confusione contagiosa, migliorie al layout sessione zero, dettagli su alzarsi da prono, aggiornato layout copertina, 
 
 
 - aggiunti \label{} fino a piani
@@ -297,20 +297,20 @@ Aggiungere immagini:
 295 fine Le avventure in OBSS
 385 fine Tipologie di Tesoro
 
-
 > valutare:
-- motivazioni, un elenco di frasi o indicazione che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
-- gestione morale mostri
-- un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
+- separare il mostruario se pagine non sufficienti 
+- gestione morale mostri: CR+Forza/Saggezza vs TS Volonta'
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
-- combattimento sociale, ampliare
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
-- togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
+- combattimento sociale, ampliare
 - spendere i soldi: equipaggiamento, oggetti magici
+- togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
 - piu' maledizioni
 - rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
 - psionici ? ispirazione da 2ed/3ed
-- magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
-- aggiungere altri mostri, arrivati a 600pg di tomo separare il mostruario (se ha almeno 200pg)
 - valutare movimento diagonale fare pesare 1m e non 1.5m
+- motivazioni, un elenco di frasi o indicazione che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
+- un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
+- usage dice
+- magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
