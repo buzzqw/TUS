@@ -287,7 +287,7 @@ aggiunto Arrabbiato a:
 
 13/04/2023 aggiornata versione POD
 
-0.72 pubblicata versione 0.71, aggiornata copertina, aggiunto nelle condizioni fiancheggiato, aggiunta incantesimo confusione contagiosa, migliorie al layout sessione zero, dettagli su alzarsi da prono, aggiornato layout copertina, 
+0.72 pubblicata versione 0.71, aggiornata copertina, aggiunto nelle condizioni fiancheggiato, aggiunta incantesimo confusione contagiosa, migliorie al layout sessione zero, dettagli su alzarsi da prono, aggiornato layout copertina, modificata magia eterea, 
 
 
 - aggiunti \label{} fino a piani
