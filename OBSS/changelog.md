@@ -298,13 +298,13 @@ Aggiungere immagini:
 385 fine Tipologie di Tesoro
 
 > valutare:
+- spendere i soldi: equipaggiamento, oggetti magici
 - separare il mostruario se pagine non sufficienti 
 - gestione morale mostri: CR+Forza/Saggezza vs TS Volonta'
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
 - combattimento sociale, ampliare
-- spendere i soldi: equipaggiamento, oggetti magici
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
 - piu' maledizioni
 - rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
