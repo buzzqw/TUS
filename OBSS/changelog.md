@@ -289,6 +289,10 @@ aggiunto Arrabbiato a:
 
 0.72 pubblicata versione 0.71, aggiornata copertina, aggiunto nelle condizioni fiancheggiato, aggiunta incantesimo confusione contagiosa, migliorie al layout sessione zero, dettagli su alzarsi da prono, aggiornato layout copertina, modificata magia eterea, aggiornato Gragnola di Limoni Kyrin, dettagli su attacchi a distanza in mischia, aggiunto incantesimo Succo concentrato di Ribes di Kyrin, aggiornato incantesimo passo veloce, layout incantesimi, chiarimenti su capacita' di carico, chiarimenti su invisibilita', aggiornato layout oggetti magici, aggiornata lista oggetti, aggiurnato layout merci e servizi, aggiornata lista d'equipaggiamento con nuovo materiale, chiarimenti su arma vorpal, modificato gemma della luminosita'
 
+26/04/2023 aggiornata versione POD
+
+0.73 pubblicata versione 0.72, aggiornata copertina,
+
 
 - aggiunti \label{} fino a piani
 
