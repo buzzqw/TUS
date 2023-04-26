@@ -287,7 +287,7 @@ aggiunto Arrabbiato a:
 
 13/04/2023 aggiornata versione POD
 
-0.72 pubblicata versione 0.71, aggiornata copertina, aggiunto nelle condizioni fiancheggiato, aggiunta incantesimo confusione contagiosa, migliorie al layout sessione zero, dettagli su alzarsi da prono, aggiornato layout copertina, modificata magia eterea, aggiornato Gragnola di Limoni Kyrin, dettagli su attacchi a distanza in mischia, aggiunto incantesimo Succo concentrato di Ribes di Kyrin, aggiornato incantesimo passo veloce, layout incantesimi, chiarimenti su capacita' di carico, chiarimenti su invisibilita', aggiornato layout oggetti magici, aggiornata lista oggetti, aggiurnato layout merci e servizi, aggiornata lista d'equipaggiamento con nuovo materiale, 
+0.72 pubblicata versione 0.71, aggiornata copertina, aggiunto nelle condizioni fiancheggiato, aggiunta incantesimo confusione contagiosa, migliorie al layout sessione zero, dettagli su alzarsi da prono, aggiornato layout copertina, modificata magia eterea, aggiornato Gragnola di Limoni Kyrin, dettagli su attacchi a distanza in mischia, aggiunto incantesimo Succo concentrato di Ribes di Kyrin, aggiornato incantesimo passo veloce, layout incantesimi, chiarimenti su capacita' di carico, chiarimenti su invisibilita', aggiornato layout oggetti magici, aggiornata lista oggetti, aggiurnato layout merci e servizi, aggiornata lista d'equipaggiamento con nuovo materiale, chiarimenti su arma vorpal, modificato gemma della luminosita'
 
 
 - aggiunti \label{} fino a piani
@@ -298,14 +298,14 @@ Aggiungere immagini:
 385 fine Tipologie di Tesoro
 
 > valutare:
-- spendere i soldi: equipaggiamento, oggetti magici
-- separare il mostruario se pagine non sufficienti 
-- gestione morale mostri: CR+Forza/Saggezza vs TS Volonta'
+- spendere i soldi: oggetti magici, fortezze ?
+- separare il mostruario se pagine non sufficienti  (e 200+ pagine)
+- gestione morale mostri: CR+Forza/Saggezza vs TS Volonta' ???
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
 - combattimento sociale, ampliare
-- togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. ASI aumento ogni X abilita' prese. APL usare la somma di CM+CA che al 99% equivale al livello
+- togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. APL usare la somma di CM+CA che al 99% equivale al livello
 - piu' maledizioni
 - rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
 - psionici ? ispirazione da 2ed/3ed
