@@ -291,7 +291,7 @@ aggiunto Arrabbiato a:
 
 26/04/2023 aggiornata versione POD
 
-0.73 pubblicata versione 0.72, aggiornata copertina, aggiornato incantesimo onda tonante, 
+0.73 pubblicata versione 0.72, aggiornata copertina, aggiornato incantesimo onda tonante, aggiornata abilita' Furia, 
 
 
 - aggiunti \label{} fino a piani
