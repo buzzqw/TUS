@@ -1,3 +1,24 @@
+**26/04/2023**
+
+Ennesimo versione di OBSS? no, non la vedo cosi'. Non devo rispiegare ancora cosa e' per me il processo di scrittura e perfezionamento.
+
+mi rendo pero' conto che puo' essere spiazzante per un esterno vedere tante versioni una di seguito all'altra.
+Oltretutto quando, a controllare, le modifiche tra una versione e la successiva sono ormai delle vere piccolezze o aggiunte minoritarie...
+
+E quindi ? smetto di portare avanti OBSS ??? MAI 
+pero' e' necessario stabilire, formalmente, una versione "definitiva" (obbrobio!!!)
+Attualmente siamo alla versione 0.73 e voglio *sfidarmi*, ovvero ogni settimana che non modifico nulla che possa essere veramente, coscientemente impattante, aggiungo una versione e quando arrivo alla 0.99 allora procedo a pubblicare la 1.0 e dichiararla definitiva. Ovvio che se modifico qualcosa che impatta.. la versione aumenta e non faccio altro che avvicinarmi alla 1.0!!
+Onestamente se avessi seguito questi propositi qualche versione in meno ci sarebbe...
+
+Detta in altre maniera ho 23 settimane (fino al 4/10 se ho fatto i conti bene..), anzi per assurdo se ho molte modifiche, ovvero ho premura di "versionare", ancora di meno !!! mi viene quasi da ridere.. ma ci sto, mi va bene. E' una questione di rispetto per le persone che usano il sistema, per quelli che vorrebbero usarlo ed anche per me in qualche maniera.
+
+Ho paura per il dopo ? un po' si , ma sono sufficiente fiducioso che un'altra bella crisi mi portera' a creare qualcosa di nuovo e conto diverso.
+
+Che cosa il nuovo sistema non deve avere da OBSS ? sarebbe troppo facile dire cosa voglio portarmi dietro e sarebbe altrettanto poco costruttivo.
+
+Non voglio portarmi dietro il sistema classless, non mi voglio portare dietro i 3d6 (o d20 che sia), non voglio portarmi dietro la magia gia' scritta... la lista e' tutta da fare, ma non ho paura.
+
+
 **19/04/2023**
 
 Quali regole di OBSS sono "bloated" quali aspetti ridondanti, cosa si potrebbe semplificare senza rinunciare al contenuto ?
@@ -10,7 +31,7 @@ Come ? rileggendo, giocando, rileggendo, giocando e giocando. E giocando. Party 
 
 Dark Catacom e' morto ? No, in qualche maniera e' il punto di arrivo ma non per questo la destinazione finale ne il sistema al quale OBSS deve piegarsi.
 Il raccogliere e sviluppare idee alternative e' servito e serve per costruire e tendere sempre piu' ad un prodotto migliore.
-Un buon manuale non puo' partire perfetto (a meno che sia fatto da una solo parola) ma deve cercare di diventarlo, con i suoi limiti e caratteristiche.
+Un buon manuale non puo' partire perfetto (a meno che sia fatto da una sola parola) ma deve cercare di diventarlo, con i suoi limiti e caratteristiche.
 
 Fare OBSS in d100 od in d20 ? perche' non in 3d12.. cambierebbe ben poco. se non cambia la meccanica ed il sistema usare dadi diversi non cambia nulla.
 
