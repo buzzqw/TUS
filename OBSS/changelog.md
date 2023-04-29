@@ -293,7 +293,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 26/04/2023 aggiornata versione POD
 
-0.73 pubblicata versione 0.72, aggiornata copertina, aggiornato incantesimo onda tonante, aggiornata abilita' Furia, aggiunta abilita' sifone nero, aggiunte opzioni ad alterare gli incantesimi magia mirata e magia lontana, rinominato dardo incantato in dardo arcano, ogni danno critico che si subisce aumenta la difficolta' della prova di magia, 
+0.73 pubblicata versione 0.72, aggiornata copertina, aggiornato incantesimo onda tonante, aggiornata abilita' Furia, aggiunta abilita' sifone nero, aggiunte opzioni ad alterare gli incantesimi magia mirata e magia lontana, rinominato dardo incantato in dardo arcano, ogni danno critico che si subisce aumenta la difficolta' della prova di magia, aggiunta tabella punti esperienza per grado di sfida, 
 
 
 
