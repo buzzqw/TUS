@@ -298,7 +298,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 01/05/2023 aggiornata versione POD
 
-0.73b aggiornata copertina, corretto distratto da condizioni, corretto distratto da screen, chiarito distratto per occultare incantesimo,  chiarimenti su lancaire piu' incatesimi per round, aggiornata magia mirata, 
+0.73b aggiornata copertina, corretto distratto da condizioni, corretto distratto da screen, chiarito distratto per occultare incantesimo,  chiarimenti su lancaire piu' incatesimi per round, aggiornata magia mirata, fixed coins translation, 
 
 
 
