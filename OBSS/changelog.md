@@ -298,11 +298,13 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 01/05/2023 aggiornata versione POD
 
-0.73b aggiornata copertina, corretto distratto da condizioni, corretto distratto da screen, chiarito distratto per occultare incantesimo,  chiarimenti su lancaire piu' incatesimi per round, aggiornata magia mirata, fixed coins translation
+0.73b aggiornata copertina, corretto distratto da condizioni, corretto distratto da screen, chiarito distratto per occultare incantesimo,  chiarimenti su lanciare piu' incatesimi per round, aggiornata magia mirata, fixed coins translation
 
 01/05/2023 aggiornata versione POD
 
-0.73c aggiornato residui distratto e -4 difesa, lanciare incantesimi mentre si nuota richiede una prova di magia, 
+0.73c aggiornato residui distratto e -4 difesa, lanciare incantesimi mentre si nuota richiede una prova di magia
+
+03/05/2023 aggiornata versione POD
 
 
 
@@ -323,10 +325,14 @@ Aggiungere immagini:
 - combattimento sociale, ampliare
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. APL usare la somma di CM+CA che al 99% equivale al livello
 - piu' maledizioni
-- rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
-- psionici ? ispirazione da 2ed/3ed
 - valutare movimento diagonale fare pesare 1m e non 1.5m
 - motivazioni, un elenco di frasi o indicazione che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
 - un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
 - usage dice
 - magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
+
+
+> ESPANSIONI:principalmente per mancanza di pagine, da valutare dopo riduzione font mostruario.
+
+- rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
+- psionici ? ispirazione da 2ed/3ed

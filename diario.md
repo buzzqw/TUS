@@ -1,3 +1,17 @@
+**03/05/2023**
+
+La 0.73 si sta dimostrando abbastanza solida. Ho proceduto a creare 3 sotto versioni (a,b,c) principalmente dovute alla modifica degli effetti di Distratto. Praticamente avevo lasciato indietro riferimenti al -4 alla difesa.
+
+Sono piuttosto soddisfatto della modifica a Distratto, alla fine e' giusto che sia una semplice prova di magia, senza altre penalita' aggiuntive. 
+
+Le versione, fatte solo per il POD, e' per avere sempre disponibile la versione che piu' giudico pronta per il gioco.
+
+Ci avviciniamo all 1.0 ? alla versione stabile ? non credo, i feedback che ricevo dai tavoli stanno indubbiamente diminuendo, ma preferisco tenermi la versione aperta prima di procedere ad una chiusura quanto mai fittizia.
+Diavolo sarebbe bello avere i 50000 giocatori ed i 6 mesi che aveva avuto di playtesting Pathfinder.. ma non sono la Paizo ne il manuale inglese e' cosi' raffinato e preciso per sfondare sul mercato anglofono...
+
+OBSS avra' mai successo ? sicuramente no. Uscira' dai 4 tavoli in cui e' giocato ? forse si. Le potenzialita' per sfondare ci sono, ma da qui a diventare, non certo mainstream, ma almeno "noto", bhe'.. le possibilita' sono abbastanza scarse, almeno non nel breve. E non perche' il prodotto non sia pronto ma perche' il mercato e' restio ad accettare nuovi media e per penetrarlo ci vogliono anni.
+
+
 **26/04/2023**
 
 Ennesimo versione di OBSS? no, non la vedo cosi'. Non devo rispiegare ancora cosa e' per me il processo di scrittura e perfezionamento.
