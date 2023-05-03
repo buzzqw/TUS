@@ -327,12 +327,12 @@ Aggiungere immagini:
 - piu' maledizioni
 - valutare movimento diagonale fare pesare 1m e non 1.5m
 - motivazioni, un elenco di frasi o indicazione che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
-- un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
-- usage dice
-- magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
 
 
 > ESPANSIONI:principalmente per mancanza di pagine, da valutare dopo riduzione font mostruario.
 
 - rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
 - psionici ? ispirazione da 2ed/3ed
+- un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
+- usage dice
+- magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
