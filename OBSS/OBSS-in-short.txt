@@ -48,7 +48,7 @@ every time you roll a 1 you don't count the die
 you can subtract 4 points from the score of the Competence or characteristic used in the test to roll an extra d6 (to be used to hope for an explosion of the die)
 
 Feat':
-Since the character has no class, choose the ability (Feat) to build it. There are over 120 Skills to choose from, many can be taken multiple times to "unlock" further extraordinary abilities. Skills are taken at all levels except 5, 10, 15, 20 level.
+Since the character has no class, choose the ability (Feat) to build it. There are over 120 Skills to choose from, many can be taken multiple times to "unlock" further extraordinary abilities. Fear Feat are taken at all levels except 5, 10, 15, 20 level.
 Some abilities mimic the more canonical ones of the classes, many others are different and peculiar to the system. It's easy and spontaneous to build the character you prefer and think about.
 Skills increase saving throws. Each time you take a skill you increase your saving throw scores, this is the only way to increase your saving throws.
 Ability increases are taken through skills.
