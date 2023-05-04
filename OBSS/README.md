@@ -30,7 +30,7 @@ In questa cartella troverete il materiale per giocare al gioco di ruolo Old Bell
 
 Il gioco usa ed e' licenziato con la ShareAlike 4.0 International e ispirato a DnD, questo significa che se conoscete DnD vi sara' facile e veloce capirne le meccaniche.
 
-**Leggi il file https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-in-breve.txt per una veloce carrellato sulle caratteristiche principali di OBSS!**
+**Leggi il file https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-in-breve.txt per una veloce esposizione sulle caratteristiche principali di OBSS!**
 
 Il sistema magico e' a spell point ed molti incantesimi sono modificati ed altri aggiunti da me. Il combattimento rimane il medesimo di DSB ovvero aperto, dinamico, esplosivo e divertente.
 
