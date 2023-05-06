@@ -304,7 +304,9 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.73c aggiornato residui distratto e -4 difesa, lanciare incantesimi mentre si nuota richiede una prova di magia
 
-03/05/2023 aggiornata versione POD, cambiato flusso di compilazione adesso i pdf vengono ottimizzati per spazio occupato prima del caricamento, aggiornata abilita' iconico l'ombra, aggiornata abilita' iconica furia magica, corretta difesa a gigante del fuoco, corrette lingue parlate da tàhil, aggiornato incantesimo trucco della corda, l'incantesimo parola guaritrice e' una reazione, il teletrasporto da curyan a tyia ha solo il 5% di successo, 
+03/05/2023 aggiornata versione POD
+
+0.73d cambiato flusso di compilazione adesso i pdf vengono ottimizzati per spazio occupato prima del caricamento, aggiornata abilita' iconico l'ombra, aggiornata abilita' iconica furia magica, corretta difesa a gigante del fuoco, corrette lingue parlate da tàhil, aggiornato incantesimo trucco della corda, l'incantesimo parola guaritrice e' una reazione, il teletrasporto da curyan a tyia ha solo il 5% di successo, 
 
 
 
