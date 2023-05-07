@@ -306,7 +306,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 03/05/2023 aggiornata versione POD
 
-0.73d cambiato flusso di compilazione adesso i pdf vengono ottimizzati per spazio occupato prima del caricamento, aggiornata abilita' iconico l'ombra, aggiornata abilita' iconica furia magica, corretta difesa a gigante del fuoco, corrette lingue parlate da tàhil, aggiornato incantesimo trucco della corda, l'incantesimo parola guaritrice e' una reazione, il teletrasporto da curyan a tyia ha solo il 5% di successo, aggiornata durata di scopri trappole, aggiornato incantesimo desiderio, 
+0.73d cambiato flusso di compilazione adesso i pdf vengono ottimizzati per ridurre lo spazio occupato prima del caricamento, aggiornata abilita' iconico l'ombra, aggiornata abilita' iconica furia magica, corretta difesa a gigante del fuoco, corrette lingue parlate da tàhil, aggiornato incantesimo trucco della corda, l'incantesimo parola guaritrice e' una reazione, il teletrasporto da curyan a tyia ha solo il 5% di successo, aggiornata durata di scopri trappole, aggiornato incantesimo desiderio, 
 
 
 
@@ -318,7 +318,6 @@ Aggiungere immagini:
 385 fine Tipologie di Tesoro
 
 > valutare:
-- incantesimi rituali: incantesimi particolari nel tuo Tomo che puoi lanciare anche se non studiati, rari e lunghi da castare
 - spendere i soldi: oggetti magici, fortezze ?
 - separare il mostruario se pagine non sufficienti  (e 200+ pagine)
 - gestione morale mostri: CR+Forza/Saggezza vs TS Volonta' ???
@@ -341,18 +340,4 @@ Aggiungere immagini:
 - magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
 
 
-rituali
 
-Legend Lore 5
-Find The Path 6
-Locate Animals Or Plants 2
-Detect Poison And Disease 1
-Contact Other Plane 5
-Augury 2
-Divination 4
-Commune With Nature 5
-Commune 5
-Speak With Dead 3
-Comprehend Languages
-Purify Food and Drink
-Phantom Steed 3
