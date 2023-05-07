@@ -306,7 +306,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 03/05/2023 aggiornata versione POD
 
-0.73d cambiato flusso di compilazione adesso i pdf vengono ottimizzati per ridurre lo spazio occupato prima del caricamento, aggiornata abilita' iconico l'ombra, aggiornata abilita' iconica furia magica, corretta difesa a gigante del fuoco, corrette lingue parlate da tàhil, aggiornato incantesimo trucco della corda, l'incantesimo parola guaritrice e' una reazione, il teletrasporto da curyan a tyia ha solo il 5% di successo, aggiornata durata di scopri trappole, aggiornato incantesimo desiderio, 
+0.73d cambiato flusso di compilazione adesso i pdf vengono ottimizzati per ridurre lo spazio occupato prima del caricamento, aggiornata abilita' iconico l'ombra, aggiornata abilita' iconica furia magica, corretta difesa a gigante del fuoco, corrette lingue parlate da tàhil, aggiornato incantesimo trucco della corda, l'incantesimo parola guaritrice e' una reazione, il teletrasporto da curyan a tyia ha solo il 5% di successo, aggiornata durata di scopri trappole, aggiornato incantesimo desiderio, unificato nome in acqua santa di acqua benedetta ed acqua sacra, 
 
 
 
