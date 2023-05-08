@@ -291,7 +291,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.72 pubblicata versione 0.71, aggiornata copertina, aggiunto nelle condizioni fiancheggiato, aggiunta incantesimo confusione contagiosa, migliorie al layout sessione zero, dettagli su alzarsi da prono, aggiornato layout copertina, modificata magia eterea, aggiornato Gragnola di Limoni Kyrin, dettagli su attacchi a distanza in mischia, aggiunto incantesimo Succo concentrato di Ribes di Kyrin, aggiornato incantesimo passo veloce, layout incantesimi, chiarimenti su capacita' di carico, chiarimenti su invisibilita', aggiornato layout oggetti magici, aggiornata lista oggetti, aggiurnato layout merci e servizi, aggiornata lista d'equipaggiamento con nuovo materiale, chiarimenti su arma vorpal, modificato gemma della luminosita'
 
-26/04/2023 aggiornata versione POD
+26/04/2023 aggiornata versione POD x
 
 0.73 pubblicata versione 0.72, aggiornata copertina, aggiornato incantesimo onda tonante, aggiornata abilita' Furia, aggiunta abilita' sifone nero, aggiunte opzioni ad alterare gli incantesimi magia mirata e magia lontana, rinominato dardo incantato in dardo arcano, ogni danno critico che si subisce aumenta la difficolta' della prova di magia, aggiunta tabella punti esperienza per grado di sfida, chiarimenti alla definizione di distratto, chiarimenti su abilita' di lista, verifica font 11 su conversione mostri - elenco mostri per gs, piccoli aggiornamenti su Elenco Manovre d'Arme, modificato distratto, alterare la magia efficace, modificato incantatore prudente, aggiornato screen
 
@@ -310,8 +310,9 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 08/05/2023 aggiornata versione POD 
 
-0.74a pubblicata versione 0.73d, aggiornata copertina, aggiornato incantesimo terreno illusorio, aggiornati incantesimi che richiedevano prove su caratteristiche, aggiornato incantesimo identificare, aggiornata procedura di identificazione oggetti magici, aggiornato incantesimo allucinazione mortale - cecita' avanzata - colpo infuocato - cono di freddo - esplosione solare - nube mortale - piaga degli insetti - tocco vampiro - tempesta di ghiaccio - palla di fuoco - dardo di fuoco, 
+0.74a pubblicata versione 0.73d, aggiornata copertina, aggiornato incantesimo terreno illusorio, aggiornati incantesimi che richiedevano prove su caratteristiche, aggiornato incantesimo identificare, aggiornata procedura di identificazione oggetti magici, aggiornato effetto critico per l'incantesimo allucinazione mortale - cecita' avanzata - colpo infuocato - cono di freddo - esplosione solare - nube mortale - piaga degli insetti - tocco vampiro - tempesta di ghiaccio - palla di fuoco - dardo di fuoco
 
+08/05/2023 aggiornata versione POD 
 
 
 
