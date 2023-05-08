@@ -310,7 +310,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 08/05/2023 aggiornata versione POD 
 
-0.74a pubblicata versione 0.73d, aggiornata copertina, aggiornato incantesimo terreno illusorio, aggiornati incantesimi che richiedevano prove su caratteristiche, aggiornato incantesimo identificare, aggiornata procedura di identificazione oggetti magici,  
+0.74a pubblicata versione 0.73d, aggiornata copertina, aggiornato incantesimo terreno illusorio, aggiornati incantesimi che richiedevano prove su caratteristiche, aggiornato incantesimo identificare, aggiornata procedura di identificazione oggetti magici, aggiornato incantesimo allucinazione mortale - cecita' avanzata - colpo infuocato - cono di freddo - esplosione solare - nube mortale - piaga degli insetti - tocco vampiro - tempesta di ghiaccio - palla di fuoco - dardo di fuoco, 
 
 
 
