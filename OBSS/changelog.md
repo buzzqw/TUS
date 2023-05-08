@@ -306,7 +306,12 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 03/05/2023 aggiornata versione POD
 
-0.73d cambiato flusso di compilazione adesso i pdf vengono ottimizzati per ridurre lo spazio occupato prima del caricamento, aggiornata abilita' iconico l'ombra, aggiornata abilita' iconica furia magica, corretta difesa a gigante del fuoco, corrette lingue parlate da tàhil, aggiornato incantesimo trucco della corda, l'incantesimo parola guaritrice e' una reazione, il teletrasporto da curyan a tyia ha solo il 5% di successo, aggiornata durata di scopri trappole, aggiornato incantesimo desiderio, unificato nome in acqua santa di acqua benedetta ed acqua sacra, 
+0.73d cambiato flusso di compilazione adesso i pdf vengono ottimizzati per ridurre lo spazio occupato prima del caricamento, aggiornata abilita' iconico l'ombra, aggiornata abilita' iconica furia magica, corretta difesa a gigante del fuoco, corrette lingue parlate da tàhil, aggiornato incantesimo trucco della corda, l'incantesimo parola guaritrice e' una reazione, il teletrasporto da curyan a tyia ha solo il 5% di successo, aggiornata durata di scopri trappole, aggiornato incantesimo desiderio, unificato nome in acqua santa di acqua benedetta ed acqua sacra
+
+08/05/2023 aggiornata versione POD 
+
+0.74a pubblicata versione 0.73d, aggiornata copertina, aggiornato incantesimo terreno illusorio, aggiornati incantesimi che richiedevano prove su caratteristiche, aggiornato incantesimo identificare, aggiornata procedura di identificazione oggetti magici,  
+
 
 
 
@@ -338,6 +343,3 @@ Aggiungere immagini:
 - un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
 - usage dice
 - magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
-
-
-

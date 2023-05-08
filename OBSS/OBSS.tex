@@ -136,7 +136,7 @@ boxrule=0.3pt
 
 
 \begin{document}
-\def \versione {0.73d} \fontsize{10}{12}\selectfont
+\def \versione {0.74a} \fontsize{10}{12}\selectfont
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
 \bigskip
@@ -2449,7 +2449,7 @@ Ci sono situazioni in cui il gruppo deve fare una prova di competenza ma il risu
 
 \medskip
 
-Per \textbf{riconoscere un oggetto magico}\index{Riconoscere oggetto magico} e le sue capacità è necessaria una prova di \textbf{Arcana} a difficoltà 25. Questa può dare indicazioni di massima sui poteri e ambiti di utilizzo, ma solo tramite \hyperlink{incantesimoidentificare}{Identificare} puoi apprenderne i dettagli, bonus magici e cariche. \textbf{1 minuto}. Con punteggio Arcana 6 costa 3 round, 12 costa 1 round, 18 costa 1 Azione.
+Per \textbf{riconoscere un oggetto magico}\index{Riconoscere oggetto magico} e le sue capacità è necessaria una prova di \textbf{Arcana} a difficoltà 20 per avere indicazioni di massima sui poteri e ambiti di utilizzo, solo con un risultato di almeno 30 nella prova, puoi apprenderne i dettagli, bonus magici e cariche. \textbf{10 minuti}. Con punteggio Arcana 6 costa 5 minuti, con 12 costa 1 minuto, con Arcana 18 costa 1 Round.
 
 \medskip
 
@@ -6934,7 +6934,7 @@ Incantesimi come Onda rovente e cono di freddo coprono un'area, permettendogli d
 La descrizione di un incantesimo specifica la sua area di effetto, che di solito rientra in una di queste cinque forme: cilindro, cono, cubo, linea o sfera. Ogni area di effetto ha un punto di origine, un luogo da cui si manifesta l'energia dell'incantesimo. Le regole per ciascuna forma specificano come posizionare il suo punto di origine. Di solito il punto di origine è un punto nello spazio, ma alcuni incantesimi hanno un'area la cui origine è una creatura o un oggetto.
 
 \begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/3dforme.png}
+	\includegraphics[width=0.55\linewidth]{immagini/3dforme.png}
 
 	\textit{Cono, Sfera, Cilindro, Cubo}
 \end{center}
@@ -7172,7 +7172,7 @@ Se volete un approccio più difficile, per ogni grado di Affaticamento si recupe
 
 Specialmente ai primi livelli può essere molto fastidioso non aver appreso un incantesimo pur avendolo a disposizione nel Tomo della Magia.
 
-Con questa regola opzionale l'incantatore può lanciare un incantesimo, entro il 3 livello, che sia presente sul suo Tomo di Magia o anche che abbia appreso, allungandone il tempo di lancio ad 1 ora per costo in Punto Magia. In caso di incantesimo appreso così lanciato non si usano Punti Magia.
+Con questa regola opzionale l'incantatore può lanciare un incantesimo, entro il 3 livello, che sia presente sul suo Tomo di Magia o anche che abbia appreso, allungandone il tempo di lancio ad 1 ora per costo in Punto Magia. In caso di incantesimo appreso così lanciato non si usano Punti Magia, ma è necessario superare una Prova di Magia.
 
 
 \subsubsection{Quando si hanno pochi Punti Magia}\index{Quando si hanno pochi Punti Magia}\hypertarget{quandosihannopochipuntimagia}{}\label{magiequandosihannopochipuntimagia}\index{Incantesimi, Pochi Punti Magia}
@@ -7278,6 +7278,10 @@ Se nella Prova di Magia avessi ottenuto un successo critico magico avresti fatto
 
 Nella descrizione dell'incantesimo è scritto che Tiro Salvezza è necessario eseguire.
 
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups lancia un Fulmine!]
+Tups che ha Intelligenza 4 e ha preso 1 volta Adepto della Magia nella lista dell'Aria, lancia l'incantesimo Fulmine. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 3 (livello incantesimo) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 1 x 1 (Adepto della Magia preso 1 volta in Lista Aria) ovvero 10+3+4+2x1 = 19 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un successo critico magico la DC sarebbe diventata 21.
+\end{tcolorbox}\end{changemargin}
+
 Se sei tu a dover resistere ad una magia il Narratore non ti dirà di fare un Tiro Salvezza a difficoltà 18, è lui che confronta il tuo tiro con la difficoltà, potrà dirti che la prova è complessa, difficile o facile...
 
 \begin{itemize}
@@ -7299,10 +7303,6 @@ Se il Tiro Salvezza fallisce ed tiri almeno due 1 oppure un 1 e due 2 nel lancio
 E' anche possibile che nella descrizione dell'incantesimo sia riportato cosa succede in caso di successo o fallimento critico del Tiro Salvezza.
 
 Per i \textbf{mostri} o comunque per un lancio di incantesimi dato da abilità magiche innate, se non specificato la \textbf{DC del Tiro Salvezza è pari alla 10 + 2 x livello dell'incantesimo + Intelligenza}.\index{DC Tiro Salvezza Incantesimo mostri}\index{Difficoltà incantesimi dei mostri}
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups lancia un Fulmine!]
-Tups che ha Intelligenza 4 e ha preso 1 volta Adepto della Magia nella lista dell'Aria, lancia l'incantesimo Fulmine. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 3 (livello incantesimo) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 1 x 1 (Adepto della Magia preso 1 volta in Lista Aria) ovvero 10+3+4+2x1 = 19 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un successo critico magico la DC sarebbe diventata 21.
-\end{tcolorbox}\end{changemargin}
 
 \subsubsection{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto}\label{magiedistratto}
 
@@ -8405,7 +8405,7 @@ Fino al termine dell'incantesimo, controlli qualsiasi acqua libera all'interno d
 Il livello dell'acqua resta elevato fino al termine dell'incantesimo o finché non scegli un effetto diverso. Se questo effetto ha prodotto un'onda, l'onda si ripete all'inizio del tuo round successivo, finché perdura l'effetto di allagamento.\\
 - \textit{Dividere le Acque}. Fai sì che l'acqua nell'area si sposti a lato per creare un varco. Il varco si estende per l'area dell'incantesimo, e l'acqua divisa forma un muro su entrambi i lati del varco. Il varco resta fino al termine dell'incantesimo o finché non scegli un effetto diverso. L'acqua tornerà poi lentamente a riempire il varco nel corso del round successivo, fino a che non sarà risalita al suo normale livello.\\
 - \textit{Ridirigere il Flusso}. Fai sì che l'acqua corrente nell'area si muova in una direzione a tua scelta, anche se l'acqua deve superare degli ostacoli, risalire muri o dirigersi verso altre direzioni improbabili. L'acqua nell'area si muove secondo le tue indicazioni, ma una volta giunta oltre l'area dell'incantesimo, riprende il suo flusso in base alle condizioni del terreno. L'acqua continua a muoversi nella direzione da te scelta fino al termine dell'incantesimo o finché non scegli un effetto diverso.\\
-- \textit{Turbine}. Questo effetto richiede un corpo d'acqua che copra un quadrato di 15 metri di lato e abbia una profondità di 7 metri. Fai sì che si formi un turbine al centro dell'area. Il turbine produce un vortice largo 1 metro alla base, largo fino a 15 metri in cima e alto 7 metri. Qualsiasi creatura od oggetto nell'acqua e che si trovi entro 7 metri dal vortice viene trascinato 3 metri verso di esso. Una creatura può nuotare per allontanarsi dal vortice effettuando una prova di Destrezza (Atletica) contro la DC del Tiro Salvezza dell'incantesimo.
+- \textit{Turbine}. Questo effetto richiede un corpo d'acqua che copra un quadrato di 15 metri di lato e abbia una profondità di 7 metri. Fai sì che si formi un turbine al centro dell'area. Il turbine produce un vortice largo 1 metro alla base, largo fino a 15 metri in cima e alto 7 metri. Qualsiasi creatura od oggetto nell'acqua e che si trovi entro 7 metri dal vortice viene trascinato 3 metri verso di esso. Una creatura può nuotare per allontanarsi dal vortice effettuando una prova di Nuotare contro la DC del Tiro Salvezza dell'incantesimo.
 
 Quando una creatura entra nel vortice per la prima volta durante un round o inizia lì il suo round, deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, la creatura subisce 2d8 danni da botta e viene catturata dal vortice fino al termine dell'incantesimo. Se supera il Tiro Salvezza, la creatura subisce la metà di questi danni, e non è catturata dal vortice. Una creatura catturata dal vortice può usare 3 Azioni per cercare di nuotare via dal vortice come descritto sopra, ma ha -1d6 alle prove di Destrezza (Atletica) per farlo. La prima volta durante ciascun round in un cui un oggetto entra nel vortice, l'oggetto subisce 2d8 danni da botta; questo danno viene subito ogni round in cui l'oggetto rimane nel vortice.
 
@@ -9193,7 +9193,7 @@ Se il contenitore viene distrutto o l'incantesimo termina, la tua anima ritorna 
 \textbf{Componenti}: V. S, M (incenso e diamante in polvere del valore di almeno 200 mo, che l'incantesimo consuma)\\
 \textbf{Durata}: Fino a che dissolto o attivato \\
 Quando lanci questo incantesimo, inscrivi un glifo che danneggia altre creature su di una superficie (come un tavolo o una sezione di pavimento o muro) o all'internodi un oggetto che può essere chiuso (come un libro, una pergamena o un forziere) per celare il glifo. Se scegli una superficie, il glifo può coprire un'area di superficie non maggiore di 3 metri di diametro. Se scegli un oggetto, quell'oggetto deve restare al suo posto; se l'oggetto viene spostato più di 3 metri dal punto in cui è stato lanciato l'incantesimo, il glifo è spezzato, e l'incantesimo termina senza essere stato attivato.\\
-Il glifo è quasi invisibile e può essere trovato con una prova di Intelligenza contro la DC del Tiro Salvezza dei tuoi incantesimi. Decidi tu cosa attivi il glifo al momento del lancio dell'incantesimo.\\
+Il glifo è quasi invisibile e può essere trovato con una prova Consapevolezza contro la DC del Tiro Salvezza dei tuoi incantesimi. Decidi tu cosa attivi il glifo al momento del lancio dell'incantesimo.\\
 Per i glifi inscritti su di una superficie, l'attivazione tipica comprende entrare in contatto o stare sopra il glifo, rimuovere un altro oggetto che copra il glifo, avvicinarsi a una certa distanza dal glifo, o manipolare l'oggetto su cui è inscritto il glifo. Per i glifi inscritti su di un oggetto, l'attivazione tipica comprende aprire l'oggetto, avvicinarsi a una certa distanza dall'oggetto, o vedere o leggere il glifo. Una volta che il glifo è stato attivato, l'incantesimo ha termine.\\
 Puoi definire meglio l'attivazione così che l'incantesimo si attivi solo in determinate circostanze o secondo certe peculiarità fisiche (come l'altezza o il peso), specie di creatura (per esempio, l'interdizione potrebbe agire contro le aberrazioni o gli elfi oscuri), o specifici Tratti. Puoi anche predisporre condizioni per evitare che il glifo venga attivato, come la pronuncia di una parola d'ordine.\\
 Quando inscrivi il glifo scegli rune esplosive o glifo incantesimo.
@@ -9304,7 +9304,7 @@ Se l'incantatore e creatura curata sono entrambi \textbf{Devoti} dello stesso Pa
 \textbf{Gittata}: 3 metri\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Istantanea\\
-Lanci l'incantesimo a contatto di una creatura consenziente. Una volta, prima che l'incantesimo termini, il bersaglio può tirare un d4 e sommare il risultato tirato a una prova di caratteristica a sua scelta. Può tirare il dado prima o dopo aver effettuato la prova di caratteristica. L'incantesimo ha poi termine. Non è possibile lanciare Guida sulla stessa creatura ad intervalli inferiori ad 1 ora.
+Lanci l'incantesimo a contatto di una creatura consenziente. Una volta, prima che l'incantesimo termini, il bersaglio può tirare un d4 e sommare il risultato tirato a una prova di competenza a sua scelta. Può tirare il dado prima o dopo aver effettuato la prova di caratteristica. L'incantesimo ha poi termine. Non è possibile lanciare Guida sulla stessa creatura ad intervalli inferiori ad 1 ora.
 
 \medskip\textbf{Guscio Anti-Vita}\index[Incantesimi]{Guscio Anti-Vita}\\
 \textbf{Scuola}: Animali e Piante\\
@@ -9323,9 +9323,9 @@ La barriera impedisce a una creatura soggetta di attraversarla in alcun modo. Un
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S, M (una gemma del valore di almeno 10 mo e una piuma di gufo che l'incantesimo consumano)\\
 \textbf{Durata}: Istantanea\\
-Scegli un oggetto con cui devi restare a contatto per tutto il lancio dell'incantesimo. Se si tratta di un oggetto magico o altro oggetto imbevuto di magia effettua una prova di Arcana a DC 25 con un +10 di bonus, se riesci ne apprendi le proprietà e come usarle e quante cariche abbia, se ne ha. \\
+Scegli un oggetto con cui devi restare a contatto per tutto il lancio dell'incantesimo. Se si tratta di un oggetto magico o altro oggetto imbevuto di magia effettua una prova di Arcana a DC 30 con un +2d6  bonus, se riesci ne apprendi le proprietà e come usarle e quante cariche abbia, se ne ha.\\
 Apprendi se degli incantesimi stiano agendo sull'oggetto e cosa siano. Se l'oggetto è stato creato da un incantesimo, apprendi quale incantesimo lo abbia creato. Se invece durante l'esecuzione resti a contatto con una creatura, apprendi se degli incantesimi stiano agendo su di essa e quali siano.\\
-\textbf{Solo Se ottieni un Successo Critico magico} apprendi se l'oggetto è \hyperlink{oggettimaledettiid}{maledetto}.
+\textbf{Solo se ottieni un Successo Critico magico} apprendi se l'oggetto è \hyperlink{oggettimaledettiid}{maledetto}.
 
 \medskip\textbf{Illusione Minore}\index[Incantesimi]{Illusione Minore}\\
 \textbf{Scuola}: Universale\\
@@ -9471,7 +9471,7 @@ Per la durata, percepisci la presenza e posizione di veleni, creature velenose e
 \textbf{Componenti}: V, S, M (un pezzo di rame)\\
 \textbf{Durata}: 1 minuto\\
 Per la durata, puoi leggere i pensieri di certe creature. Quando lanci questo incantesimo e con altre due Azioni in ciascun round successivo sino al termine dell'incantesimo, puoi concentrare la tua mente su qualsiasi creatura che tu possa vedere e si trovi entro 9 metri da te. Se la creatura che hai scelto ha un punteggio di Intelligenza -3 o meno o non parla nessun linguaggio, la creatura ignora l'effetto.\\
-Inizialmente, apprendi solo i pensieri di superficie della creatura: quelli più ricorrenti. Con un'azione, puoi o spostare la tua attenzione sui pensieri di un'altra creatura o tentare di sondare più a fondo la mente della stessa creatura. Se sondi più a fondo, il bersaglio deve effettuare un Tiro Salvezza su Volontà. Se lo fallisce, ottieni una percezione dei suoi ragionamenti (se ve ne sono), del suo stato emotivo, e di ogni cosa abbia prevalenza nei suoi pensieri (come una preoccupazione, l'amore, o l'odio). Se supera il Tiro Salvezza, l'incantesimo termina. A ogni modo, il bersaglio sa che stai sondando la sua mente e, a meno che non sposti la tua attenzione verso la mente di un'altra creatura, nel suo round la creatura può usare la 2 Azioni per effettuare una prova di Intelligenza contesa dalla tua prova di Intelligenza; se la vince, l'incantesimo termina.\\
+Inizialmente, apprendi solo i pensieri di superficie della creatura: quelli più ricorrenti. Con un'azione, puoi o spostare la tua attenzione sui pensieri di un'altra creatura o tentare di sondare più a fondo la mente della stessa creatura. Se sondi più a fondo, il bersaglio deve effettuare un Tiro Salvezza su Volontà. Se lo fallisce, ottieni una percezione dei suoi ragionamenti (se ve ne sono), del suo stato emotivo, e di ogni cosa abbia prevalenza nei suoi pensieri (come una preoccupazione, l'amore, o l'odio). Se supera il Tiro Salvezza, l'incantesimo termina. A ogni modo, il bersaglio sa che stai sondando la sua mente e, a meno che non sposti la tua attenzione verso la mente di un'altra creatura, nel suo round la creatura può usare la 2 Azioni per effettuare un Tiro Salvezza su Volontà contrapposto; se la vince, l'incantesimo termina.\\
 Le domande poste verbalmente alla creatura bersaglio, ovviamente, modellano il corso dei suoi pensieri, cosicché questo incantesimo risulta particolarmente efficace negli interrogatori.\\
 Puoi anche usare questo incantesimo per individuare la presenza di creature pensanti che non puoi vedere. Quando lanci questo incantesimo o con 2 Azioni nella sua durata, puoi cercare pensieri entro 9 metri da te. L'incantesimo può penetrare le barriere, ma è bloccato da 60 centimetri di pietra, 5 centimetri di metallo che non sia il piombo, o un sottile foglio di piombo. Non puoi individuare una creatura con Intelligenza -3 o meno, o una creatura che non parla alcun linguaggio. Una volta individuata in questo modo la presenza di una creatura, puoi leggerne i pensieri per la durata dell'incantesimo finché resta nella gittata, come descritto sopra, anche se non puoi vederla.
 Mentre hai attivo questo incantesimo per il lancio di altri incantesimo risulterai Distratto.
@@ -9844,7 +9844,7 @@ La mano è un oggetto che ha Difesa 25 e Punti Ferita uguali ai tuoi Punti Ferit
 Quando lanci l'incantesimo e come 2 Azioni durante i tuoi round successivi, puoi muovere la mano fino a 18 metri e poi generare uno dei seguenti effetti.\\
 
 - \textit{Mano Afferrante}. La mano cerca di afferrare una creatura di taglia Enorme o più piccola che si trovi entro 1 metro da essa. Per risolvere l'azione di afferrare usi la Forza della mano. Se il bersaglio è di taglia Media o inferiore, hai +1d6 alla prova. Mentre la mano tiene afferrato il bersaglio, puoi usare un'Azione per fare stritolare il bersaglio dalla mano. Quando lo fai, il bersaglio subisce danni da botta pari a 2d6 + il tuo valore di Intelligenza o Saggezza\\
-- \textit{Mano di Forza}. La mano cerca di spingere una creatura di 1 metro in una direzione a tua scelta. Effettua una prova di Forza della mano contesa dalla prova di Forza del bersaglio. Se il bersaglio è di taglia Media o inferiore, hai +1d6 alla prova. Se vinci la contesa, la mano spinge il bersaglio di 1 metro più 1 metro moltiplicato per il valore di Intelligenza o Saggezza (minimo 1 metro). La mano si muove assieme al bersaglio per restare entro 1 metro da lui.\\
+- \textit{Mano di Forza}. La mano cerca di spingere una creatura di 1 metro in una direzione a tua scelta. Effettua un Tiro Salvezza su Tempra con modificatore da incantesimi contrapposto al bersaglio. Se il bersaglio è di taglia Media o inferiore, hai +1d6 alla prova. Se vinci la contesa, la mano spinge il bersaglio di 1 metro più 1 metro moltiplicato per il valore di Intelligenza o Saggezza (minimo 1 metro). La mano si muove assieme al bersaglio per restare entro 1 metro da lui.\\
 - \textit{Mano Frapposta}. La mano si frappone tra di te e una creatura di tua scelta finché non le dai un comando diverso. La mano si muove di modo da restare tra di te e il bersaglio, fornendoti metà copertura contro il bersaglio. Il bersaglio non può muoversi attraverso lo spazio della mano se il suo punteggio di Forza è uguale o inferiore al punteggio di Forza della mano. Se il suo punteggio di Forza è superiore al punteggio di Forza della mano, il bersaglio può muoversi attraverso lo spazio della mano, ma considera quello spazio come fosse terreno difficile. \\
 - \textit{Pugno Serrato}. La mano colpisce una creatura o un oggetto entro 1 metro da essa. Effettua un attacco in mischia con incantesimo usando la mano. Se colpisci, il bersaglio subisce 4d8 danni da forza.\\
 
@@ -11467,7 +11467,7 @@ Quando una creatura entra nell'area soggetta per la prima volta in un round o co
 Provochi un disturbo sismico in un punto sul terreno a gittata e che puoi vedere. Per la durata, un intenso tremore scuote il terreno in un cerchio di 30 metri di raggio centrato su quel punto e scuote le creature e le strutture in quell'area che sono a contatto del terreno.Il terreno nell'area diventa terreno difficile. Ogni creatura a terra che si sta concentrando deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, la sua concentrazione è infranta.\\
 Quando lanci questo incantesimo e alla fine di ogni round che hai speso a concentrarti su di esso, ogni creatura nell'area che si trovi a terra deve effettuare un Tiro Salvezza su Riflessi. Se lo fallisce, la creatura cade prona.\\
 Questo incantesimo ha effetti aggiuntivi a seconda del tipo di terreno nell'area, a discrezione del Narratore. Fenditure. All'inizio del round successivo a quello in cui hai lanciato l'incantesimo si aprono delle fenditure per tutta l'area dell'incantesimo. Un totale di 1d6 fenditure si aprono in punti scelti dal Narratore. Ognuna di esse è profonda 1d10 x 3 metri, larga 3 metri e si estende da un lato dell'area dell'incantesimo all'altro. Una creatura che si trova sul punto in cui si apre una fenditura deve superare un Tiro Salvezza su Riflessi o cadervi dentro. Una creatura che riesca il Tiro Salvezza si sposta sul bordo della fenditura, nel momento in cui questa si apre.\\
-Una fenditura che si apre sotto una struttura la fa crollare immediatamente (vedi sotto). Strutture. Il tremore infligge 50 danni da botta a qualsiasi struttura in contatto col terreno nell'area quando lanci l'incantesimo e alla fine di ciascuno dei tuoi round fino al termine dell'incantesimo. Se una struttura scende a 0 Punti Ferita, crolla e potrebbe danneggia le creature vicine. Una creatura distante dalla struttura metà della altezza o meno della struttura, deve effettuare un Tiro Salvezza su Riflessi. Se lo fallisce, la creatura subisce 5d6 danni da botta, cade prona ed è sommersa dalle macerie. Dovrà poi impiegare un'azione riuscendo una prova di Destrezza (Atletica) DC 20 per liberarsi. Il Narratore può modificare verso l'alto o il basso la DC, a seconda della natura delle macerie. Se supera il Tiro Salvezza, la creatura subisce solo la metà dei danni e non cade né resta sepolta.
+Una fenditura che si apre sotto una struttura la fa crollare immediatamente (vedi sotto). Strutture. Il tremore infligge 50 danni da botta a qualsiasi struttura in contatto col terreno nell'area quando lanci l'incantesimo e alla fine di ciascuno dei tuoi round fino al termine dell'incantesimo. Se una struttura scende a 0 Punti Ferita, crolla e potrebbe danneggia le creature vicine. Una creatura distante dalla struttura metà della altezza o meno della struttura, deve effettuare un Tiro Salvezza su Riflessi. Se lo fallisce, la creatura subisce 5d6 danni da botta, cade prona ed è sommersa dalle macerie. Dovrà poi impiegare 2 azioni riuscendo una prova di Destrezza (Atletica) DC 20 per liberarsi. Il Narratore può modificare verso l'alto o il basso la DC, a seconda della natura delle macerie. Se supera il Tiro Salvezza, la creatura subisce solo la metà dei danni e non cade né resta sepolta.
 
 \medskip\textbf{Terreno Illusorio}\index[Incantesimi]{Terreno Illusorio}\\
 \textbf{Scuola}: Illusione\\
@@ -11476,8 +11476,8 @@ Una fenditura che si apre sotto una struttura la fa crollare immediatamente (ved
 \textbf{Gittata}: 90 metri\\
 \textbf{Componenti}: V, S, M (una pietra, un rametto e un pezzo di pianta verde)\\
 \textbf{Durata}: 24 ore \\
-Fai sì che un pezzo di terreno naturale a gittata, in un cubo di 45 metri di spigolo, appaia, risuoni e odori come qualche altro tipo di terreno naturale. Di conseguenza, campi aperti o una strada possono essere trasformati in un acquitrino, colline, un crepaccio o qualche altro tipo di terreno difficile o invalicabile. Un laghetto può essere trasformato in una radura erbosa, un precipizio in una lieve pendenza, un burrone cosparso di rocce in una strada ampia e liscia. Le strutture edificate, l'equipaggiamento e le creature all'interno dell'area non mutano d'aspetto.\\
-Le peculiarità tattili del terreno sono immutate, così che le creature che entrano nell'area è probabile che svelino l'illusione. Se al contatto la differenza non è ovvia, una creatura che esamina con cautela l'illusione può tentare una prova di Intelligenza (Indagare) contro la DC del Tiro Salvezza dei tuoi incantesimi per dubitare di essa. Una creatura che riconosca l'illusione per quello che è, la percepisce come una vaga immagine sovrapposta al terreno.
+Fai sì che un pezzo di terreno naturale a gittata, in un cubo di 150 metri di spigolo, appaia, risuoni e odori come qualche altro tipo di terreno naturale. Di conseguenza, campi aperti o una strada possono essere trasformati in un acquitrino, colline, un crepaccio o qualche altro tipo di terreno difficile o invalicabile. Un laghetto può essere trasformato in una radura erbosa, un precipizio in una lieve pendenza, un burrone cosparso di rocce in una strada ampia e liscia. Le strutture edificate, l'equipaggiamento e le creature all'interno dell'area non mutano d'aspetto.\\
+Le peculiarità tattili del terreno sono immutate, così che le creature che entrano nell'area è probabile che svelino l'illusione. Se al contatto la differenza non è ovvia, una creatura che esamina con cautela l'illusione può tentare una prova di Consapevolezza contro la DC del Tiro Salvezza dei tuoi incantesimi per dubitare di essa. Una creatura che riconosca l'illusione per quello che è, la percepisce come una vaga immagine sovrapposta al terreno.
 
 \medskip\textbf{Tocco Gelido}\index{Trucchetto - Tocco Gelido}\\
 \textbf{Scuola}: Necromanzia\\
@@ -20465,7 +20465,7 @@ Se il bonus è alle \textbf{Caratteristiche} si conta solo quello con il bonus m
 \item
 Un personaggio \textbf{non può portare più di due anelli magici} altrimenti entrano in risonanza causando 1d6 di danno (non riducibile o curabile magicamente) a round per ogni anello oltre il secondo.
 \item
-Per \textbf{riconoscere un oggetto magico} e le sue capacità è necessario l'incantesimo Identificare. Prova di Arcana DC 25 1 Minuto. Con punteggio Arcana 6 costa 3 round, 12 costa 1 round, 18 costa 1 Azione.
+Per \textbf{riconoscere un oggetto magico} e le sue capacità è necessario una prova di Arcana a DC 30. \textbf{10 minuti}. Con punteggio Arcana 6 costa 5 minuti, con 12 costa 1 minuto, con Arcana 18 costa 1 Round.
 \item
 Un \textbf{oggetto magico che manifesta incantesimi} non esegue alcuna Prova di Magia. Il \textbf{Tiro Salvezza} che impone, se non specificato, è pari a 10 + livello*2 dell'incantesimo che manifesta.\index{Tiro Salvezza per incantesimi da oggetto}
 \item
@@ -23978,7 +23978,7 @@ Una maledizione può manifestarsi a seguito dalle influenze negative od emoziona
 
 \medskip
 
-Gli oggetti maledetti sono \hypertarget{oggettimaledettiid}{identificati} come qualsiasi altro oggetto magico con una sola eccezione: a meno che non la prova di Arcana per identificare l'oggetto non superi 30 o l'incantesimo Identificare sia lanciato con una Prova di Magia ed ottenga un critico magico (2 volte 6) la maledizione non viene individuata. Se la prova è sotto 30 o senza critico magico tutto quello che viene rivelato è l'originale scopo dell'oggetto magico.
+Gli oggetti maledetti sono \hypertarget{oggettimaledettiid}{identificati} come qualsiasi altro oggetto magico con una sola eccezione: a meno che non la prova di Arcana per identificare l'oggetto non superi 35 o l'incantesimo Identificare sia lanciato con una Prova di Magia ed ottenga un critico magico (2 volte 6) la maledizione non viene individuata. Se la prova è sotto 35 o senza critico magico tutto quello che viene rivelato è l'originale scopo dell'oggetto magico.
 
 Se si sa che l'oggetto è maledetto, la natura della maledizione può essere determinata usando la DC \hyperlink{identificareom}{standard} per identificare l'oggetto.
 

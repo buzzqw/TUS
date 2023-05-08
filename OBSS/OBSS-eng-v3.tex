@@ -136,7 +136,7 @@ boxrule=0.3pt
 
 
 \begin{document}
-\def \versione {0.73d} \fontsize{10}{12}\selectfont
+\def \versione {0.74a} \fontsize{10}{12}\selectfont
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
 
@@ -2440,7 +2440,8 @@ There are situations in which the group has to make a proficiency check but the 
 
 \medskip
 
-In order to \textbf{recognize a magic object}\index{Recognize magical object} and its abilities, a check of \textbf{Arcana} at difficulty 25 is required. This can give general indications on the powers and areas of use, but only through \hyperlink{incantesimoidentificare}{Identify} you can learn its details, magical bonuses and charges. \textbf{1 minute}. With Arcana score 6 costs 3 rounds, 12 costs 1 round, 18 costs 1 Action.
+To \textbf{recognize a magic object}\index{Recognize magic object} and its abilities, a check of \textbf{Arcana} at difficulty 20 is necessary to have general indications on the powers and areas of use, only with a result of at least 30 in the check, you can learn its details, magical bonuses and charges. \textbf{10 minutes}. With Arcana score 6 costs 5 minutes, with 12 it costs 1 minute, with Arcana 18 costs 1 Round.
+
 
 \medskip
 
@@ -7252,7 +7253,7 @@ If you want a more difficult approach, for each degree of Fatigue you recover 20
 
 Especially at the first levels it can be very annoying not to have learned a spell despite having it available in the Tome of Magic.
 
-With this optional rule the spellcaster can cast a spell, within the 3rd level, which is present in his Tome of Magic or even which he has learned, lengthening its casting time to 1 hour per Magic Point cost. In case of a spell casted in this way, no Magic Points are used.
+With this optional rule the spellcaster can cast a spell, within the 3rd level, which is present in his Tome of Magic or even which he has learned, lengthening its casting time to 1 hour per Magic Point cost. In case of a spell casted in this way, no Magic Points are used but a Magic Test must be passed.
 
 
 \subsubsection{When low on Spell Points}\index{When low on Spell Points}\hypertarget{quandosihannopochipuntimagia}{}\label{magiequandosihannopochipuntimagia}\index{Spell, Low Spell Points}
@@ -8947,7 +8948,7 @@ This spell can only be cast by Followers or Devotees of Ephrem, Erondil, Gaya, S
 You cause a seismic disturbance at a point on the ground that you can see within range and. For the duration, an intense tremor shakes the ground in a 30m radius circle centered on that point, and shakes creatures and structures in that area that are in contact with the ground. The terrain in the area becomes hindering terrain. Each creature on the ground that is concentrating must make a Fortitude save. If he fails, his concentration is broken.\\
 When you cast this spell, and at the end of each round you spend concentrating on it, each creature in the area that is on the ground must make a Reflex save. On a failed save, the creature falls prone.\\
 This spell has additional effects depending on the type of terrain in the area, at the Arbiter's discretion. Fissures. At the beginning of the round following the one in which you cast the spell, fissures open throughout the spell's area. A total of 1d6 fissures open at locations chosen by the Arbiter. Each is 1d10 x 3 meter deep, 3 meter wide, and extends from one side of the spell's area to the other. A creature standing on the spot where a fissure opens must succeed at a Reflex save or fall into it. A creature that succeeds at its Saving Throw moves to the edge of the fissure as it opens.\\
-A fissure that opens under a structure immediately causes it to collapse (see below). Structures. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your rounds until the spell ends. If a structure drops to 0 hit points, it collapses and may damage nearby creatures. A creature half the height of the structure or less away from the structure must make a Reflex save. On a failed save, the creature takes 5d6 bludgeoning damage, falls prone, and is engulfed in rubble. He must then use an action with a successful DC 20 Dexterity (Athletics) check to free himself. The Arbiter can adjust the DC up or down, depending on the nature of the rubble. On a successful save, the creature takes only half damage and does not fall or become buried.
+A fissure that opens under a structure immediately causes it to collapse (see below). Structures. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your rounds until the spell ends. If a structure drops to 0 hit points, it collapses and may damage nearby creatures. A creature half the height of the structure or less away from the structure must make a Reflex save. On a failed save, the creature takes 5d6 bludgeoning damage, falls prone, and is engulfed in rubble. He must then use 2 actions with a successful DC 20 Dexterity (Athletics) check to free himself. The Arbiter can adjust the DC up or down, depending on the nature of the rubble. On a successful save, the creature takes only half damage and does not fall or become buried.
 
 \medskip\textbf{Elastic Sphere}\index[Spells]{Elastic Sphere}\\
 \textbf{School}: Invocation\\
@@ -9624,9 +9625,9 @@ A hail of ice slams the ground in a 6 meters-radius, 12m high cylinder centered 
 \textbf{Range}: Contact\\
 \textbf{Components}: V, S, M (a gem worth at least 10 gp and an owl feather that the spell consumes)\\
 \textbf{Duration}: Instant\\
-Choose an object that you must remain in contact with throughout the entire casting of the spell. If it is a magic object or other object imbued with magic, make a check of Arcana at DC 25 with a +10 bonus, if you succeed you learn its properties and how to use them and how many charges it has, if any. \\
+Choose an object that you must remain in contact with throughout the entire casting of the spell. If it is a magic object or other object imbued with magic, make a check of Arcana at DC 30 with a +2d6 bonus, if you succeed you learn its properties and how to use them and how many charges it has, if any. \\
 You learn if any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. If, on the other hand, you remain in contact with a creature during the execution, you learn if any spells are acting on it and what they are.\\
-\textbf{Only If you roll a magical Critical Success} learn if the item is \hyperlink{oggettimaledettiid}{cursed}.
+\textbf{Only if you roll a magical Critical Success} learn if the item is \hyperlink{oggettimaledettiid}{cursed}.
 
 \medskip\textbf{Illusionary Terrain}\index[Spells]{Illusionary Terrain}\\
 \textbf{School}: Illusion\\
@@ -9635,7 +9636,7 @@ You learn if any spells are affecting the item and what they are. If the item wa
 \textbf{Range}: 90 meters\\
 \textbf{Components}: V, S, M (a stone, a twig and a piece of green plant)\\
 \textbf{Duration}: 24 hours \\
-You make a piece of natural terrain within range, in a 115 meters cube, look, sound, and smell like some other type of natural terrain. As a result, open fields or a road can be turned into a swamp, hills, a crevasse, or some other type of difficult or impassable terrain. A pond can be transformed into a grassy clearing, a precipice into a gentle slope, a rock-strewn ravine into a wide, smooth road. Built structures, equipment, and creatures within the area do not change in appearance.\\
+You make a piece of natural terrain within range, in a 150 meters cube, look, sound, and smell like some other type of natural terrain. As a result, open fields or a road can be turned into a swamp, hills, a crevasse, or some other type of difficult or impassable terrain. A pond can be transformed into a grassy clearing, a precipice into a gentle slope, a rock-strewn ravine into a wide, smooth road. Built structures, equipment, and creatures within the area do not change in appearance.\\
 The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to reveal the illusion. If the difference isn't obvious to touch, a creature warily examining the illusion can attempt an Intelligence (Investigation) check against your spell's save DC to disbelieve it. A creature that recognizes the illusion for what it is perceives it as a vague image superimposed on the ground.
 
 \medskip\textbf{Illusory Written}\index[Spells]{Illusory Written}\\
@@ -20605,7 +20606,7 @@ If the bonus is at \textbf{Characteristics} only the one with the highest bonus 
 \item
 A character \textbf{may not wear more than two magic rings} otherwise they resonate causing 1d6 damage (not magically reducible or curable) per round for each ring beyond the second.
 \item
-To \textbf{recognize a magic item} and its abilities requires the spell Identify. Arcana check DC 25 1 Minute. With Arcana score 6 costs 3 rounds, 12 costs 1 round, 18 costs 1 Action.
+To \textbf{recognize a magic item} and its abilities, a DC 30 Arcana check is required. \textbf{10 minutes}. With Arcana score 6 it costs 5 minutes, with 12 it costs 1 minute, with Arcana 18 it costs 1 Round.
 \item
 A \textbf{magic item that manifests spells} does not perform any Magic Tests. The \textbf{Saving Throw} it imposes, if not specified, is equal to 10 + level*2 of the spell it manifests.\index{Saving Throw from magical objects}
 \item
@@ -24127,7 +24128,7 @@ A curse can manifest as a result of extreme negative or emotional influences aff
 
 \medskip
 
-Cursed items are \hypertarget{oggettimaledettiid}{identificati} like any other magic item with one exception: unless the Arcana check to identify the item exceeds 30 or the Identify spell is cast with a Magic Test and rolls a magic critical (2 times 6) the curse is not detected. If the check is under 30 or without a magic crit all that is revealed is the original purpose of the magic item.
+Cursed items are \hypertarget{oggettimaledettiid}{identificati} like any other magic item with one exception: unless the Arcana check to identify the item exceeds 35 or the Identify spell is cast with a Magic Test and rolls a magic critical (2 times 6) the curse is not detected. If the check is under 35 or without a magic crit all that is revealed is the original purpose of the magic item.
 
 If the object is known to be cursed, the nature of the curse can be determined by using DC \hyperlink{identificareom}{standard} to identify the object.
 
@@ -25845,7 +25846,7 @@ At will: \textit{detect good and evil}
 
 \textit{\textbf{Shapeshift.}} The deva can magically transform into a humanoid or beast whose challenge rating is equal to or lower than her own, or revert to her true form. Upon death he reverts to his true form. Any equipment he is wearing or carrying is absorbed or transported into the new form (the deva's choice).
 
-In the new form, the deva retains its game stats and the ability to speak, but its Defence, movement methods, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any stats or abilities (Additional Actions and lair shares) possessed by his new form and not his original.
+In the new form, the deva retains its game stats and the ability to speak, but its Defence, movement methods, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any stats or abilities (Additional Actions and lair actions) possessed by his new form and not his original.
 
 \textbf{Ecology}
 Environment: Any plane with good Traits\\
@@ -27904,7 +27905,7 @@ At will: \textit{detect good and evil, detect magic, detect thoughts}
 
 \textit{\textbf{Shapeshift.}} The Couatl can magically transform into a humanoid or beast whose challenge rating is equal to or lower than its own, or revert to its true form. Upon death it returns to its true form. Any equipment he is wearing or carrying is absorbed or carried into the new form (the couatl's choice).
 
-In the new form, the Couatl retains its game stats and ability to speak, but its Defence, movement methods, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any stats or abilities (Additional Actions and lair shares) possessed by his new form and not his original. If the new form has a bite attack, the Couatl can use its own bite in the new form.
+In the new form, the Couatl retains its game stats and ability to speak, but its Defence, movement methods, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any stats or abilities (Additional Actions and lair action) possessed by his new form and not his original. If the new form has a bite attack, the Couatl can use its own bite in the new form.
 
 \textbf{Ecology}\\
 Environment: Warm Forests\\
