@@ -314,9 +314,9 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 08/05/2023 aggiornata versione POD 
 
-0.74b scambiato bonus lista armi omogenea a 6 e 14 punti, cambiato bonus a 14 punti in lista omogenea armi, aggiunta azioni tiro critico, aggiornato le mie opzioni, riorganizzato maestria del combattimento e mettersi in difesa, chiarimenti in esempio combattimento Tups contro arma lunga, chiarimenti su combattimento a cavallo ed azioni, 
+0.74b scambiato bonus lista armi omogenea a 6 e 14 punti, cambiato bonus a 14 punti in lista omogenea armi, aggiunta azioni tiro critico, aggiornato le mie opzioni, riorganizzato maestria del combattimento e mettersi in difesa, chiarimenti in esempio combattimento Tups contro arma lunga, chiarimenti su combattimento a cavallo ed azioni, aggiornato screen, 
 
-09/05/2023 aggiornata versione POD 
+#09/05/2023 aggiornata versione POD 
 
 
 - aggiunti \label{} fino a piani
