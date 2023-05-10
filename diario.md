@@ -1,3 +1,25 @@
+**10/05/2023**
+
+ok, non so il perche' ma mi sono perso le note del diario scritte ieri.. misteri di git..
+
+La 0.73 ha avuto vita breve.. la 0.74 e' gia' stata partorita.
+
+Le modifiche principali della 0.73 hanno riguardato principalmente la magia e quindi il togliere il malus alla difesa da distratto e rendere quindi piu' uniforme l'uso di distratto e prova della magia, sono state aggiornate le possibilita' di alterare le magia e le abilita' relative sempre alle prove di magia.
+
+Altre modifiche sempre agli incantesimi hanno riguardato gli effetti del critico magico, per renderlo un po' piu' "interessante".
+
+Ovviamente il lavoro non si e' fermato sugli incantesimi ma ha riguardato anche le abilita' iconiche, i bonus dati dalle liste d'arma e sullo spirito di lavorare su combattimento ho introdotto una regola opzionale, ma per me validissima, per "accumulare" i critici d'arma ottenuti (e non "usati/scaricati") e sfruttarli per "azioni critiche".
+
+L'idea di base e' che il combattimento sia un flusso di azioni e reazioni e cio' che viene fatto adesso puo' avere ripercussioni nei round successivi.
+Praticamente il personaggio quando fa un critico al colpire (i due 6) non scarica il dado dell'arma come danno, ma li puo' accumulare, fino ad un massimo di 3 di numero ed in tre round, e sfruttarli, ovvero usarli, per fare azioni che mi piace definire piu' tattiche.
+
+Dalle simulazioni e controlli fatti non rompe l'equilibrio ed anzi piace ai giocatori, essendo comunque opzionale, ma l'ho messo nella lista delle mie opzioni, sta al giocatore ed al narratore accordarsi se permetterlo.
+
+Sotto molto punti di vista sono contento di questi sviluppi "improvvisi" mi piace riuscire a differenziare OBSS dagli altri sistemi e.. onestamente della versione mi interessa relativamente poco.
+
+Secondo diversi articoli che ho letto ci vorranno almeno 2 anni, dopo la "versione definitiva" (ahhahah, riferito al concetto definitivo) per poter avere una certa visibilita'. Vibilita' che OBSS non avra' non essendo io un animale sociale o abituato a spendersi su quei strumenti.
+
+
 **03/05/2023**
 
 La 0.73 si sta dimostrando abbastanza solida. Ho proceduto a creare 3 sotto versioni (a,b,c) principalmente dovute alla modifica degli effetti di Distratto. Praticamente avevo lasciato indietro riferimenti al -4 alla difesa.
