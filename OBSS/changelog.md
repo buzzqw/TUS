@@ -318,7 +318,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 09/05/2023 aggiornata versione POD 
 
-0.75 pubblicata versione 0.74, aggiornata copertina,
+0.75 pubblicata versione 0.74, aggiornata copertina, dettaglio su manovre in combattimento, 
 
 
 - aggiunti \label{} fino a piani
