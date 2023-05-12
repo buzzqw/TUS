@@ -324,6 +324,9 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.75a aggiunta opzione uno con Shayalia per gestire animalia in maniera diversa,  dettaglio sul minimo arrotondamento, aggiornato uno con shayalia, 
 
+12/05/2023 aggiornata versione POD 
+
+0.75b
 
 - aggiunti \label{} fino a piani
 
