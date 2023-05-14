@@ -326,7 +326,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 12/05/2023 aggiornata versione POD 
 
-0.75b
+0.75b piccoli chiarimenti su trappole magiche, 
 
 - aggiunti \label{} fino a piani
 
