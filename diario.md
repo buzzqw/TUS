@@ -1,3 +1,17 @@
+**15/05/2023**
+
+Ho praticamente cambiato approccio.. almeno per il POD.
+Ho deciso di pubblicare spesso e poche modifiche. Dato lo stato del manuale, preferisco pubblicare su Amazon spesso, anche piu' di quanto le pubblicazione su github proseguino.
+
+Voglio che chi compra il manuale cartaceo abbia la versione migliore. Non e' piu' una questione di "l'ultima versione stabile" quanto piuttosto avere in mano la "versione migliore".
+
+Proprio per questo su Amazon c'e' la 0.75b mentre l'ultima versione pubblicata e' la 0.74.
+
+Mi sto documentando su come poter fare un sito (wordpress) sul manuale.. l'obiettivo e' quello di pubblicizzare OBSS nel momento in cui dichiaro la STABLE.
+
+Ok, vero, potrei gia' dichiararla, ma per deformazione stilistica la lascero' macerare renderla una versione migliore, sempre e comunque.
+Conto entro fine anno, spero anche prima, di poter dichiarare la versione finale.
+
 **10/05/2023**
 
 ok, non so il perche' ma mi sono perso le note del diario scritte ieri.. misteri di git..
