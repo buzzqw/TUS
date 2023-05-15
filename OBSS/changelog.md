@@ -328,6 +328,10 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.75b piccoli chiarimenti su trappole magiche, dettagli su incantesimi pietra in carne, chiarimenti su tempo di lancio incantesimi piu' lunghi di un round
 
+15/05/2023 aggiornata versione POD 
+
+0.75c 
+
 - aggiunti \label{} fino a piani
 
 Aggiungere immagini:
