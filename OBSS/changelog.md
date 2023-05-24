@@ -330,7 +330,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 15/05/2023 aggiornata versione POD 
 
-0.75c aggiunta versione scheda espansa su 3 pagine OBSS-scheda-v3.pdf, dettagli su riuscita e fallimento prove, piccoli dettagli su movimento, layout movimento, aggiornato incantesimo Guida, chiarimenti su golian, aggiornati vermi della carne,  
+0.75c aggiunta versione scheda espansa su 3 pagine OBSS-scheda-v3.pdf, dettagli su riuscita e fallimento prove, piccoli dettagli su movimento, layout movimento, aggiornato incantesimo Guida, chiarimenti su golian, aggiornati vermi della carne,  aggiornato screen con note su copertura e ts, 
 
 - aggiunti \label{} fino a piani
 
