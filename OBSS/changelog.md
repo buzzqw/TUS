@@ -308,30 +308,33 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.73d cambiato flusso di compilazione adesso i pdf vengono ottimizzati per ridurre lo spazio occupato prima del caricamento, aggiornata abilita' iconico l'ombra, aggiornata abilita' iconica furia magica, corretta difesa a gigante del fuoco, corrette lingue parlate da tàhil, aggiornato incantesimo trucco della corda, l'incantesimo parola guaritrice e' una reazione, il teletrasporto da curyan a tyia ha solo il 5% di successo, aggiornata durata di scopri trappole, aggiornato incantesimo desiderio, unificato nome in acqua santa di acqua benedetta ed acqua sacra
 
-08/05/2023 aggiornata versione POD 
+08/05/2023 aggiornata versione POD
 
 0.74a pubblicata versione 0.73d, aggiornata copertina, aggiornato incantesimo terreno illusorio, aggiornati incantesimi che richiedevano prove su caratteristiche, aggiornato incantesimo identificare, aggiornata procedura di identificazione oggetti magici, aggiornato effetto critico per l'incantesimo allucinazione mortale - cecita' avanzata - colpo infuocato - cono di freddo - esplosione solare - nube mortale - piaga degli insetti - tocco vampiro - tempesta di ghiaccio - palla di fuoco - dardo di fuoco
 
-08/05/2023 aggiornata versione POD 
+08/05/2023 aggiornata versione POD
 
 0.74b scambiato bonus lista armi omogenea a 6 e 14 punti, cambiato bonus a 14 punti in lista omogenea armi, aggiunta azioni tiro critico, aggiornato le mie opzioni, riorganizzato maestria del combattimento e mettersi in difesa, chiarimenti in esempio combattimento Tups contro arma lunga, chiarimenti su combattimento a cavallo ed azioni, aggiornato screen
 
-09/05/2023 aggiornata versione POD 
+09/05/2023 aggiornata versione POD
 
 0.75 pubblicata versione 0.74, aggiornata copertina, dettaglio su manovre in combattimento, dettagli su finta, dettagli su prova di magia e costo incantesimi, modificato ingombro torcia e lanterne e olio
 
-10/05/2023 aggiornata versione POD 
+10/05/2023 aggiornata versione POD
 
 0.75a aggiunta opzione uno con Shayalia per gestire animalia in maniera diversa,  dettaglio sul minimo arrotondamento, aggiornato uno con shayalia 
 
-12/05/2023 aggiornata versione POD 
+12/05/2023 aggiornata versione POD
 
 0.75b piccoli chiarimenti su trappole magiche, dettagli su incantesimi pietra in carne, chiarimenti su tempo di lancio incantesimi piu' lunghi di un round
 
-15/05/2023 aggiornata versione POD 
+15/05/2023 aggiornata versione POD
 
 0.75c aggiunta versione scheda espansa su 3 pagine OBSS-scheda-v3.pdf, dettagli su riuscita e fallimento prove, piccoli dettagli su movimento, layout movimento, aggiornato incantesimo Guida, chiarimenti su golian, aggiornati vermi della carne,  aggiornato screen con note su copertura e ts, corretti hyperlink morente magieefficagi magiaspecialista, dettagli su rappresaglia, dettagli su radici magiche
 
+30/05/2023 aggiornata versione POD
+
+0.76 pubblicata versione 0.75, aggiornata copertina, 
 
 
 - aggiunti \label{} fino a piani
