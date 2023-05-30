@@ -334,7 +334,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 30/05/2023 aggiornata versione POD
 
-0.76 pubblicata versione 0.75, aggiornata copertina, 
+0.76 pubblicata versione 0.75, aggiornata copertina, migliorata indicazione su conversione mostri, 
 
 
 - aggiunti \label{} fino a piani
@@ -350,7 +350,7 @@ Aggiungere immagini:
 - gestione morale mostri: CR+Forza/Saggezza vs TS Volonta' ???
 - gestione downtime, cosa fare in downtime o meglio come stabilire cosa si ottiene in downtime
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
-- YERU: lavorare sul mondo. Luoghi notevoli, citta', Curian/Tyia, ... c'e' tutto da fare.
+- YERU: lavorare sul mondo. Luoghi notevoli, citta', Curyan/Tyia, ... c'e' tutto da fare.
 - combattimento sociale, ampliare
 - togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. APL usare la somma di CM+CA che al 99% equivale al livello
 - piu' maledizioni
@@ -362,6 +362,9 @@ Aggiungere immagini:
 
 - rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
 - psionici ? ispirazione da 2ed/3ed
+
+> Opzionali / Altro Sistema
+
 - un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
 - usage dice
 - magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
