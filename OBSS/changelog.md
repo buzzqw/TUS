@@ -338,7 +338,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 05/06/2023 aggiornata versione POD 
 
-0.76b
+0.76b dettagli su muro di forza, 
 
 
 - aggiunti \label{} fino a piani
