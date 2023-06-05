@@ -334,7 +334,11 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 30/05/2023 aggiornata versione POD
 
-0.76 pubblicata versione 0.75, aggiornata copertina, migliorata indicazione su conversione mostri, rilettura termini comuni, aggiornato accesso alle liste di magia, aggiornato modificatore per tenere una spada a due mani, diversi chiarimenti e migliorie a layout manovre, 
+0.76a pubblicata versione 0.75, aggiornata copertina, migliorata indicazione su conversione mostri, rilettura termini comuni, aggiornato accesso alle liste di magia, aggiornato modificatore per tenere una spada a due mani, diversi chiarimenti e migliorie a layout manovre
+
+05/06/2023 aggiornata versione POD 
+
+0.76b
 
 
 - aggiunti \label{} fino a piani
