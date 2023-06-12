@@ -338,14 +338,14 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 05/06/2023 aggiornata versione POD 
 
-0.76b dettagli su muro di forza,  chiarimenti ulteriori su dimensioni arma, 
+0.76b dettagli su muro di forza,  chiarimenti ulteriori su dimensioni arma, layout su mostri, 
 
 
 - aggiunti \label{} fino a piani
 
 Aggiungere immagini:
 
-295 fine Le avventure in OBSS
+298 fine Le avventure in OBSS
 385 fine Tipologie di Tesoro
 
 > valutare:
