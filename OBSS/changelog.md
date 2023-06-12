@@ -345,8 +345,9 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 Aggiungere immagini:
 
+179 fine elenco incantesimi
 298 fine Le avventure in OBSS
-385 fine Tipologie di Tesoro
+356 fine Descrizione degli Oggetti Magici
 
 > valutare:
 - spendere i soldi: oggetti magici, fortezze ?
