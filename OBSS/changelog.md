@@ -338,7 +338,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 05/06/2023 aggiornata versione POD 
 
-0.76b dettagli su muro di forza,  chiarimenti ulteriori su dimensioni arma, layout su mostri, 
+0.76b dettagli su muro di forza,  chiarimenti ulteriori su dimensioni arma, layout su mostri, corretti punti esperienza necessari per livello 18, 
 
 
 - aggiunti \label{} fino a piani
