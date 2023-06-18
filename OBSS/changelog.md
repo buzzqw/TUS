@@ -350,7 +350,8 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
-- riaddestramento
+- tabella lista dei fumble (mischia, distanza, magia)
+- ipotesi togliere incantesimi di 7 8 9 livello
 - spendere i soldi: oggetti magici, fortezze ?
 - separare il mostruario se pagine non sufficienti  (e 200+ pagine)
 - gestione morale mostri: CR+Forza/Saggezza vs TS Volonta' ???
