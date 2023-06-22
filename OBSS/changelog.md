@@ -338,7 +338,12 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 05/06/2023 aggiornata versione POD 
 
-0.76b dettagli su muro di forza,  chiarimenti ulteriori su dimensioni arma, layout su mostri, corretti punti esperienza necessari per livello 18-20, se fai tre volte uno e' possibile (1-3 su d6) che lasci cadere l'arma, rimosso effetto fumble, piccole modifiche elenco manovre d'armi, modificato limite per portare armature leggere, 
+0.76b dettagli su muro di forza,  chiarimenti ulteriori su dimensioni arma, layout su mostri, corretti punti esperienza necessari per livello 18-20, se fai tre volte uno e' possibile (1-3 su d6) che lasci cadere l'arma, rimosso effetto fumble, piccole modifiche elenco manovre d'armi, modificato limite per portare armature leggere
+
+22/06/2023 aggiornata versione POD 
+
+0.77 pubblicata versione 0.76, aggiornata copertina
+
 
 
 - aggiunti \label{} fino a piani
