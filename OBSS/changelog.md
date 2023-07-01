@@ -342,7 +342,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 22/06/2023 aggiornata versione POD 
 
-0.77 pubblicata versione 0.76, aggiornata copertina, correzioni minori, 
+0.77 pubblicata versione 0.76, aggiornata copertina, correzioni minori, aggiornata animalia, 
 
 
 
