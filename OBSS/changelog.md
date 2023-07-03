@@ -344,6 +344,9 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.77a pubblicata versione 0.76, aggiornata copertina, correzioni minori, aggiornata animalia, estrazione veloce non ha il requistio di destrezza 1, aggiornato muro mentale, 
 
+03/07/2023 aggiornata versione POD 
+
+0.77b
 
 
 - aggiunti \label{} fino a piani
