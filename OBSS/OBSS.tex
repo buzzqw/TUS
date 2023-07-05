@@ -76,45 +76,6 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \fancyhead[RE,LO]{}
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-
-
-\fancypagestyle{plain}{%
-	%% Clear all headers and footers
-	\fancyhf{}
-	%% Right headers on odd pages
-	\fancyhead[RO]{%
-		\rotatebox{90}{
-			\begin{tikzpicture}[overlay,remember picture]
-				\node[fill=lightgray,text=black,
-				font=\footnotesize,
-				inner ysep=12pt, inner xsep=20pt,
-				rounded rectangle,anchor=east,minimum width=7cm,
-				xshift=-60mm,yshift=-23mm, text height=0.4cm]
-				at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
-				{\sffamily\itshape\small\nouppercase{\leftmark}};
-			\end{tikzpicture}
-		}
-	}
-	%% Left headers on even pages
-	\fancyhead[LE]{%
-		\rotatebox{90}{
-			\begin{tikzpicture}[overlay,remember picture]
-				\node[fill=lightgray,text=black,
-				font=\footnotesize,
-				inner ysep=12pt, inner xsep=20pt,
-				rounded rectangle,anchor=east,minimum width=7cm,
-				xshift=-60mm,yshift=-2mm, text height=0.4cm]
-				at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
-				{\sffamily\itshape\small\nouppercase{\leftmark}};
-			\end{tikzpicture}
-		}
-	}
-	\renewcommand{\headrulewidth}{0pt}
-	\renewcommand{\footrulewidth}{0pt}
-}
-\pagestyle{plain}
-\fancyfoot[C]{\thepage}
-\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 \usepackage{xltabular}
 \usepackage{tabularx}
 \usepackage{pdfpages}
@@ -174,10 +135,9 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 
-
 \begin{document}
-\def \versione {0.77b} \fontsize{10}{12}\selectfont
-\thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 180
+\def \versione {0.77a} \fontsize{10}{12}\selectfont
+\thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
 \bigskip
 Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni\\
