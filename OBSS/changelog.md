@@ -346,7 +346,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 03/07/2023 aggiornata versione POD
 
-0.77b aggiornamenti su tiro critico 
+0.77b aggiornamenti su tiro critico, rimossa compattazione pdf da pc di casa, 
 
 - aggiunti \label{} fino a piani
 
