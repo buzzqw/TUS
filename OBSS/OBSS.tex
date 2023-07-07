@@ -136,7 +136,7 @@ boxrule=0.3pt
 
 
 \begin{document}
-\def \versione {0.77a} \fontsize{10}{12}\selectfont
+\def \versione {0.77b} \fontsize{10}{12}\selectfont
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
 \bigskip
@@ -5328,12 +5328,11 @@ Qualsiasi prova di Acrobatica che coinvolga il maneggiare oggetti o l'equilibrio
 
 Puoi lanciare un secondo pugnale come azione immediata all'azione di attacco di lancio pugnale con un -3 al Tiro per Colpire. Un eventuale terzo pugnale lanciato ha la normale penalità di -5 (e -10.. e così via).
 
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/Early_Egyptian_juggling_art.png}
-	
-	\textit{This ancient wall painting appears to depict jugglers.}
-\end{center}
+%\begin{center}
+%	\includegraphics[width=0.9\linewidth]{immagini/Early_Egyptian_juggling_art.png}
+%	
+%	\textit{This ancient wall painting appears to depict jugglers.}
+%\end{center}
 
 \subsection*{Guerriero della Magia}\index{Guerriero della Magia}\label{guerrierodellamagia}
 
@@ -5773,25 +5772,33 @@ Ogni ulteriori due volte che prendi l'Abilità il tuo movimento aumenta di 1 met
 
 \textbf{Requisito}: Saggezza 1
 
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Riflessi
+\textbf{Tiri Salvezza}: +2 Tempra, +1 Riflessi\\
 
-E' la capacità di non essere rallentati in un ambiente ostile. E' necessario dichiarare su quale ambiente si prende l'Abilità. In questi ambienti il terreno naturale non è difficile per te.
-
-\bigskip
 
 \begin{tabular}{l|l}
-\textbf{Ambiente} & \textbf{Ambiente}\\
-\toprule
-Giungla& Acquatico \\
-Montagna e colline& Foresta  \\
-Pianura& Deserto e brullo  \\
-Palude & Ghiacciai e tundra  \\
-Urbano& Sotterraneo  \\
-\end{tabular}
+	\textbf{Ambiente} & \textbf{Ambiente}\\
+	\toprule
+	Giungla & Aquatico \\
+	Montagna & Collina \& Foresta \\
+	Pianura & Desertico \\
+	Palude & Ghiacciai \& Tundra \\
+	Urbano& Sotterraneo \\
+\end{tabular}\\
 
-\bigskip
+E' la capacità di non essere rallentati in un ambiente ostile. E' necessario dichiarare su quale ambiente si prende l'Abilità. In questi ambienti il terreno naturale non è difficile. Finché ci si muove nell'ambiente scelto si ha un +1 alle prove di Iniziativa.
 
-Ogni qual volta si prende nuovamente questa Abilità si sceglie un ambiente diverso e si aggiunge al precedente. Finché ci si muove nell'ambiente scelto si ha un +1 alle prove di Iniziativa.
+Ogni qual volta si prende nuovamente questa Abilità si sceglie un ambiente diverso e si aggiunge al precedente o ci si specializza sullo stesso.
+
+Le \textbf{seconda volta} che prendi quest'Abilità sul medesimo terreno acquisisci una capacità specifica a seconda del terreno.
+
+\textit{Ghiacciai / Montagna / Tundra}: Riduzione danni da Freddo pari al livello\\
+\textit{Costale / Aquatico}: velocità di nuoto pari al tuo movimento\\
+\textit{Desertico}: Riduzione danni da Fuoco pari al livello\\
+\textit{Giungla / Foresta / Collina / Pianura}: il tuo movimento aumenta di 1 metro su questo terreno\\
+\textit{Sotterraneo}: Visione crepuscolare 9 metri\\
+\textit{Urbano}: +1 Linguaggio, +1 a scelta in due Conoscenze
+\textit{Palude}: +2 ai Tiri Salvezza contro Veleno
+
 
 \subsection*{Pelle coriacea}\index{Pelle coriacea}\label{pellecoriacea}
 

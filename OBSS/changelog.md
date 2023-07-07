@@ -344,7 +344,9 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.77a pubblicata versione 0.76, aggiornata copertina, correzioni minori, aggiornata animalia, estrazione veloce non ha il requistio di destrezza 1, aggiornato muro mentale, chiarimenti su azioni tiro critico, aggiornamenti su tiro critico, rimossa compattazione pdf da pc di casa
 
-05/07/2023 aggiornata versione POD, better english layout, 
+05/07/2023 aggiornata versione POD
+
+0.77b better english layout, aggiornata abilita' passo sicuro, 
 
 
 
