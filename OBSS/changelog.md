@@ -346,7 +346,11 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 05/07/2023 aggiornata versione POD
 
-0.77b better english layout, aggiornata abilita' passo sicuro, note su pozioni di cura, modificatori per combattimento con creature invisibili, 
+0.77b better english layout, aggiornata abilita' passo sicuro, note su pozioni di cura, modificatori per combattimento con creature invisibili, aggiornato screen 
+
+11/07/2023 aggiornata versione POD
+
+0.77c
 
 
 
