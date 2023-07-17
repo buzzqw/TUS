@@ -350,7 +350,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 11/07/2023 aggiornata versione POD
 
-0.77c
+0.77c 
 
 
 
