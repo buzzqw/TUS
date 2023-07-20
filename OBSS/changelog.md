@@ -350,11 +350,8 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 11/07/2023 aggiornata versione POD
 
-<<<<<<< HEAD
-0.77c 
-=======
 0.77c aggiornato golem di argilla e golem di carne, 
->>>>>>> 271cb887d7522d13c43c61c3cf037c6ed6b0b9b2
+
 
 
 
