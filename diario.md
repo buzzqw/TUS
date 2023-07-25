@@ -1,3 +1,23 @@
+**25/07/2023**
+
+Non pensavo di aver lasciato passare due mesi dall'ultimo aggiornamento.
+
+Si ci sono diversi aggiornamenti, alcuni anche interessanti ma di questi potete leggere i commit ed il changelog. Scusate man non ho voglia di fare il riassuntino...
+
+Quello piu' interessante e' come da settimane non modifichi praticamente nulla se non magari aggiornare qualche mostro...
+Che sia finalmente arrivata la fine della beta di OBSS???
+
+ammetto che mi fa piu' paura del previsto. Non e' nella mia natura dichiarare un prodotto finito... tutto scorre e tutto muta.
+
+OBSS ha bisogno di una serie pesante e massiccia di collaudo, diavolo, mi piacerebbero i 6 mesi e 50000 giocatori del collaudo di PF1.. anche se poi di magagne ne sono uscite e tante!
+
+Rimango comunque nella mia indicazione, se non succede nulla di eccezionale per fine anno dichiaro la 1.0, qualsiasi versione ci sia attiva.
+
+Anche adesso penso di aggiungere un mostro, un incantesimo, qualche regola opzionale..  e sicuramente lo faro'.. se meritera'.
+
+Devo ottenere di piu' dalle sessioni di test, devo fare in modo di mettere in criticita' il sistema, cercare quelle regolamentazioni che non ci sono e che un master novello cerca, non usando il Buon Senso(R)!
+
+
 **15/05/2023**
 
 Ho praticamente cambiato approccio.. almeno per il POD.
