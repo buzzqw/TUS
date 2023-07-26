@@ -31,6 +31,8 @@ facciamo un brainstorming libero e folle
 - questo implica che non ci saranno mai incantesimi super potenti in tutto..
 
 
+... da continuare...
+
 **25/07/2023**
 
 Non pensavo di aver lasciato passare due mesi dall'ultimo aggiornamento.
