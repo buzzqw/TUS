@@ -1,3 +1,36 @@
+**26/07/2023**
+
+Proviamo un gioco, butta via l'acqua ed il bambino..
+
+facciamo un brainstorming libero e folle
+
+- il master non tira dadi
+- il giocatore od avversario attacca tirando un dado e deve di meno del suo valore di attacco. Non c'e' difesa, se il tiro per colpire fa troppo alto hai mancato.
+- il giocatore tira un dado per lanciare incantesimi, piu' riesce (tiro basso) piu' l'incantesimo riesce meglio. puo' non tirare dato per avere un risultato fisso di base poco potente
+- se l'incantesimo riesce nel lancio non c'e' TS. detta diversamente non c'e' mai TS
+- le statistiche  non possono togliere.. altrimenti difficile da calcolare. le statistiche hanno un range di valori "corti" -20,-10,0,+10,+20. cosi' e' piu' facile sommare alla prova
+- si fa d100 + valore statistica/competenza,  bisogna tirare piu' alto della difficolta'
+	- vantaggio: diri due dadi e prendi il meglio come decine  |  svantaggio: tiri due dadi e prendi il peggio come decine | attenzione al valore 0 zero
+	- bonus/malus 1d10, 2d10, 3d10 (normale, buono, alto). Puoi avere un solo bonus o malus, se ne hai piu' di uno tiri piu' dadi ma prendi il valore piu' alto/basso, come avere vantaggio o svantaggio
+- no classi, albero con dipendenze. ogni ramo ti da delle abilita' , come i feat
+- competenze: hai una professione. per fare una prova tiri il d100. le difficolta' sono fisse da superare, medio - difficile - 51 / 76. se e' collegata alla professione tiri con vantaggio e sommi statistica
+- fare 00 o 01 e'  successo critico o fallimento  critico
+- non ci sono competenze fisse, il giocatore dichiara cio' che fa e' solo il master a stabilire se serve una prova. 
+- razze no scurovisione
+- i rami presi possono aggiungere "competenze professionali". aumentano pf, competenze armi, competenze magica, competenze professionali. Per passare da un ramo ad un altro devi avere un valore minimo in certi punteggi
+- il tempo e' un fattore, tabelle random per incontri basati su tempo trascorso
+- no livelli, quando una prova fallisce tirando 00-05 segni un pallino. quando c'e' riposo e tempo fai una prova per ogni pallino, se tiri 95-100 allora alzi di 1 il punteggio
+- armi: armi piccole 1d6, armi medie 1d8, armi grandi 2 mani 1d10
+- sistema 3 azioni.
+- azioni personalizzate e prove particolari: solo se possono fallire sono prove.
+- armatura: assorbe il danno e penalizza certe prove, ovvero tiro sotto alla prova richiesta. attenzione che in questa maniera tutti disarmano, fanno cadere.... Impostare 
+- scudo assorbe il danno e penalizza certe prove. valutare scudo che effetti alternativi puo' avere.
+- punti ferita: a seconda della razza ed ogni ramo che prendi lo aumenta di un valore dipendente dal ramo scelto, ma l'aumento e' sempre poco (1-4)	
+- certi rami magici possono privilegiare certe scuole di magia. lavorare su liste e ridurre e tanto. l'idea di base e' per esempio crea fuoco puo' diventare a seconda del punteggio del tiro altre cose, il valore influenza la distanza, AoE, danno, se e' un raggio o esplosione e che raggio...  Pochi incantesimi ma che si evolvono
+- lanciare un incantesimo non e' facile. la difficolta' base e' 51.   Es. int +10, magia 15  = devi fare 1d100 e sommare 25 e fare piu' di 51. Ogni punteggio +10 rispetto alla prova potenzi un fattore dell'incantesimo (distanza, AoE, danno, tipo di effetto..)
+- questo implica che non ci saranno mai incantesimi super potenti in tutto..
+
+
 **25/07/2023**
 
 Non pensavo di aver lasciato passare due mesi dall'ultimo aggiornamento.
