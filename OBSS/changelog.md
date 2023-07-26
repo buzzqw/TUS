@@ -367,7 +367,7 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
-- tabella lista dei fumble (mischia, distanza, magia)
+- stress, basso alto, bonus e malus, recupero
 - ipotesi togliere incantesimi di 7 8 9 livello
 - spendere i soldi: oggetti magici, fortezze ?
 - separare il mostruario se pagine non sufficienti  (e 200+ pagine)
