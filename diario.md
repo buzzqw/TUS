@@ -25,13 +25,19 @@ passiamo a 2d10.. e non d100
 - no livelli, quando una prova fallisce tirando 19 segni un pallino. quando c'e' riposo e tempo fai una prova per ogni pallino, se tiri 2 allora alzi di 1 il punteggio
 - armi: armi piccole 1d6, armi medie 1d8, armi grandi 2 mani 1d10
 - sistema 3 azioni.
-- azioni personalizzate e prove particolari: solo se possono fallire sono prove. fare un elenco con manovre e prove
+- azioni personalizzate e prove particolari: solo se possono fallire sono prove. fare un elenco con manovre e relative prove
 - armatura: assorbe il danno e penalizza certe prove, ovvero tiro sotto alla prova richiesta. attenzione che in questa maniera tutti disarmano, fanno cadere.... Impostare 
 - scudo assorbe il danno e penalizza certe prove. valutare scudo che effetti alternativi puo' avere.
 - punti ferita: a seconda della razza ed ogni ramo che prendi lo aumenta di un valore dipendente dal ramo scelto, ma l'aumento e' sempre poco (1-4)	
 - certi rami magici possono privilegiare certe scuole di magia. lavorare su liste e ridurre e tanto. l'idea di base e' per esempio crea fuoco puo' diventare a seconda del punteggio del tiro altre cose, il valore influenza la distanza, AoE, danno, se e' un raggio o esplosione e che raggio...  Pochi incantesimi ma che si evolvono
-- lanciare un incantesimo: tirare a secondo dall'incantesimo su mente, corpo o volonta'.  Ogni punteggio -3 rispetto alla prova, es. mente 13 e tiro 8, potenzi un fattore dell'incantesimo (distanza, AoE, danno, tipo di effetto..). Gli incantesimi hanno un punteggio minimo di mente/corpo/volonta' per essere tirati
+- lanciare un incantesimo: tirare a secondo dall'incantesimo su mente, corpo o volonta'.  Ogni punteggio -3 rispetto alla prova, es. mente 13 e tiro 8, potenzi un fattore dell'incantesimo (distanza, AoE, danno, tipo di effetto..). Gli incantesimi hanno un punteggio minimo di mente/corpo/volonta' per essere tirati ed anche di capacita' magica
 - questo implica che non ci saranno mai incantesimi super potenti in tutto..
+- PF: corpo + ramo/rami. quindi da 4 a 12/13. Rami combattenti aggiungono 3, magici 1.. molto magici se avanzati 0, rami ibridi 2/1
+- PF: recupero. ogni notte recuperi 1/2 corpo (o corpo?)
+- quanti incantesimi lanciare:  a piacere, ma ogni volta che lanci lo stesso il punteggio minimo richiesta di capacita' magica dell'incantesimo aumenta di 1. quindi tiro l'incantesimo cura, richiede corpo 1 e capacita' magica 11 - la prova cmq la faccio sul mio punteggio di capacita' magica e devo fare piu' basso, lo ritiro e richiede corpo 2 e capacita' magica 12, arrivo ad un certo punto che non posso piu' soddisfare i requisiti richiesti anche se le prove le ho sempre superate
+- quando lanci un incantesimo e fallisci la prova non succede nulla, ma l'incantesimo l'hai lanciato e quindi di requisiti minimi aumentano di 1
+- quando lanci un incantesimo e fallisci con 19-20 la prova succedono cose brutte
+- quando lanci un incantesimo e riesci con 2 la prova ha successo, non aumenti il requisiti ed ottieni quello che si chiama "effetto massimo".
 
 
 **26/07/2023**
