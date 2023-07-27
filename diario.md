@@ -7,7 +7,7 @@ passiamo a 2d10.. e non d100
 
 - il master non tira dadi
 - il giocatore od avversario attacca tirando un dado e deve di meno del suo valore di attacco. Non c'e' difesa, se il tiro per colpire fa piu' del tuo valore di attacco hai mancato.
-- il giocatore tira un dado per lanciare incantesimi, piu' riesce (tiro basso) piu' l'incantesimo riesce meglio. puo' non tirare dato per avere un risultato fisso di base poco potente
+- il giocatore tira un dado per lanciare incantesimi, piu' riesce (tiro basso) piu' l'incantesimo riesce meglio. puo' non tirare dato per avere un risultato fisso di base poco potente. chiamato effetto minimo nella descrizione dell'incantesimo
 - se l'incantesimo riesce nel lancio non c'e' TS. detta diversamente non c'e' mai TS
 - le statistiche sono corpo, mente, volonta'
 - le statistiche vanno da 4 a 12. 2d6 + razziale. max 13. Nessuna statistica sotto il 3. Seconda del ramo prendi dei bonus o malus (solo rami molto avanzati, sempre a fare il mago aumenti mente)
