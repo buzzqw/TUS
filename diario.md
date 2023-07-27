@@ -23,7 +23,7 @@ passiamo a 2d10.. e non d100
 - razze no scurovisione
 - il tempo e' un fattore, tabelle random per incontri basati su tempo trascorso, si computa il tempo reale.
 - no livelli, quando una prova fallisce tirando 19 segni un pallino. quando c'e' riposo e tempo fai una prova per ogni pallino, se tiri 2 allora alzi di 1 il punteggio
-- armi: armi piccole 1d6, armi medie 1d8, armi grandi 2 mani 1d10. non sommi valore forza. arma leggera ha requisito forza 6, media 9, grande 11. 
+- armi: armi piccole 1d6, armi medie 1d8, armi grandi 2 mani 1d10. non sommi valore forza. arma leggera ha requisito forza 6, media 9, grande 11. ogni arma ha un requisito per l'uso altrimenti svantaggio nell'uso
 - sistema 3 azioni.
 - iniziativa: 2d10 - 2 arma leggera, +2 arma media, +6 arma 2 mani
 - azioni personalizzate e prove particolari: solo se possono fallire sono prove. fare un elenco con manovre e relative prove e cosa significa fallire
