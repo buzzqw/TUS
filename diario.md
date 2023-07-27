@@ -37,7 +37,7 @@ passiamo a 2d10.. e non d100
 - quanti incantesimi lanciare:  a piacere, ma ogni volta che lanci lo stesso il punteggio minimo richiesta di capacita' magica dell'incantesimo aumenta di 1. quindi tiro l'incantesimo cura, richiede corpo 1 e capacita' magica 11 - la prova cmq la faccio sul mio punteggio di capacita' magica e devo fare piu' basso, lo ritiro e richiede corpo 2 e capacita' magica 12, arrivo ad un certo punto che non posso piu' soddisfare i requisiti richiesti anche se le prove le ho sempre superate
 - quando lanci un incantesimo e fallisci la prova non succede nulla, ma l'incantesimo l'hai lanciato e quindi di requisiti minimi aumentano di 1
 - quando lanci un incantesimo e fallisci con 19-20 la prova succedono cose brutte
-- quando lanci un incantesimo e riesci con 2 la prova ha successo, non aumenti il requisiti ed ottieni quello che si chiama "effetto massimo" ed e' descritto nella scheda
+- quando lanci un incantesimo e riesci con 2 la prova ha successo, non aumenti il requisiti ed ottieni quello che si chiama "effetto massimo" ed e' descritto nella scheda dell'incantesimo
 - quando colpisci  a seconda di quanto bene colpisci, ovvero se hai un margine di -3,-6,-9..., rispetto alla tua prova ottieni dei bonus, danno azioni movimento..
 
 
