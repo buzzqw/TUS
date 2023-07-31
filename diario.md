@@ -2,7 +2,7 @@
 
 - magia: deve essere lanciare piu' difficile lanciare incantesimi e consumare "risorse" (pf/energia/stamina..)
 - quando qualcuno attacca si e' presi se la prova di difesa e' oltre il valore di difesa. si presume che l'attacco colpisce sempre se la difesa non funziona bene. Questo significa che le classi combattenti non aumentano l'attacco ma solo la difesa. alcuni rami avanzati di combattimento danno delle penalita' alla difesa avversaria.
-
+- se il mostro tira la sua difesa c'e' il rischio che riesca sempre ad alti livelli. considerare abilita' che abbassano la difesa, l'idea di base e' che se un mostro ha difesa 16 o piu' deve essere di un livello tale da dover affrontare pg con rami che danno penalita' alla difesa
 
 **27/07/2023**
 
@@ -10,8 +10,6 @@ riproviamo
 
 passiamo a 2d10.. e non d100
 
-
-- il master non tira dadi
 - il giocatore tira un dado per lanciare incantesimi, piu' riesce (tiro basso) piu' l'incantesimo riesce meglio. puo' non tirare dato per avere un risultato fisso di base poco potente. chiamato effetto minimo nella descrizione dell'incantesimo
 - se l'incantesimo riesce nel lancio non c'e' TS. detta diversamente non c'e' mai TS
 - le statistiche sono corpo, mente, volonta'
@@ -36,7 +34,7 @@ passiamo a 2d10.. e non d100
 - scudo assorbe il danno e penalizza certe prove. valutare scudo che effetti alternativi puo' avere.
 - punti ferita: a seconda della razza ed ogni ramo che prendi lo aumenta di un valore dipendente dal ramo scelto, ma l'aumento e' sempre poco (1-4)	
 - certi rami magici possono privilegiare certe scuole di magia. lavorare su liste e ridurre e tanto. l'idea di base e' per esempio crea fuoco puo' diventare a seconda del punteggio del tiro altre cose, il valore influenza la distanza, AoE, danno, se e' un raggio o esplosione e che raggio...  Pochi incantesimi ma che si evolvono
-- lanciare un incantesimo: tirare a secondo dall'incantesimo su mente, corpo o volonta'.  Ogni punteggio -3 rispetto alla prova, es. mente 13 e tiro 8, potenzi un fattore dell'incantesimo (distanza, AoE, danno, tipo di effetto..). Gli incantesimi hanno un punteggio minimo di mente/corpo/volonta' per essere tirati ed anche di capacita' magica
+- lanciare un incantesimo: tirare a secondo dall'incantesimo su capacita' magica e avere un punteggio minimo di  mente, corpo o volonta'.  Ogni punteggio -3 rispetto alla prova, es. capacita' magica 13 e tiro 8, potenzi un fattore dell'incantesimo (distanza, AoE, danno, tipo di effetto..). Gli incantesimi hanno un punteggio minimo di mente/corpo/volonta' per essere tirati ed anche di capacita' magica
 - questo implica che non ci saranno mai incantesimi super potenti in tutto..
 - PF: corpo + ramo/rami. quindi da 4 a 12/13. Rami combattenti aggiungono 3, magici 1.. molto magici se avanzati 0, rami ibridi 2/1
 - PF: recupero. ogni notte recuperi 1/2 corpo (o corpo?)
@@ -44,7 +42,7 @@ passiamo a 2d10.. e non d100
 - quando lanci un incantesimo e fallisci la prova non succede nulla, ma l'incantesimo l'hai lanciato e quindi di requisiti minimi aumentano di 1
 - quando lanci un incantesimo e fallisci con 19-20 la prova succedono cose brutte
 - quando lanci un incantesimo e riesci con 2 la prova ha successo, non aumenti il requisiti ed ottieni quello che si chiama "effetto massimo" ed e' descritto nella scheda dell'incantesimo
-- quando colpisci  a seconda di quanto bene colpisci, ovvero se hai un margine di -3,-6,-9..., rispetto alla tua prova ottieni dei bonus, danno azioni movimento..
+- quando difendi  a seconda di quanto bene difendi, ovvero se hai un margine di -3,-6,-9..., rispetto alla tua prova ottieni dei bonus, azioni movimento, penalita' all'attacco successivo
 - mostri:
 
 **26/07/2023**
