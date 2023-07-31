@@ -3,6 +3,7 @@
 - magia: deve essere lanciare piu' difficile lanciare incantesimi e consumare "risorse" (pf/energia/stamina..)
 - quando qualcuno attacca si e' presi se la prova di difesa e' oltre il valore di difesa. si presume che l'attacco colpisce sempre se la difesa non funziona bene. Questo significa che le classi combattenti non aumentano l'attacco ma solo la difesa. alcuni rami avanzati di combattimento danno delle penalita' alla difesa avversaria.
 - se il mostro tira la sua difesa c'e' il rischio che riesca sempre ad alti livelli. considerare abilita' che abbassano la difesa, l'idea di base e' che se un mostro ha difesa 16 o piu' deve essere di un livello tale da dover affrontare pg con rami che danno penalita' alla difesa
+- statistica fortuna si usa per abbassare il tiro fatto. recuperi 1 quando fai un fallimento critico
 
 **27/07/2023**
 
