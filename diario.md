@@ -1,6 +1,8 @@
 **31/07/2023*
 
-magia: deve essere lanciare piu' difficile lanciare incantesimi e consumare "risorse" (pf/energia/stamina..)
+- magia: deve essere lanciare piu' difficile lanciare incantesimi e consumare "risorse" (pf/energia/stamina..)
+- quando qualcuno attacca si e' presi se la prova di difesa e' oltre il valore di difesa. si presume che l'attacco colpisce sempre se la difesa non funziona bene. Questo significa che le classi combattenti non aumentano l'attacco ma solo la difesa. alcuni rami avanzati di combattimento danno delle penalita' alla difesa avversaria.
+
 
 **27/07/2023**
 
