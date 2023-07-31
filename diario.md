@@ -1,3 +1,7 @@
+**31/07/2023*
+
+magia: deve essere lanciare piu' difficile lanciare incantesimi e consumare "risorse" (pf/energia/stamina..)
+
 **27/07/2023**
 
 riproviamo
