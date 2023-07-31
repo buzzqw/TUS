@@ -12,7 +12,6 @@ passiamo a 2d10.. e non d100
 
 
 - il master non tira dadi
-- il giocatore od avversario attacca tirando un dado e deve di meno del suo valore di attacco. Non c'e' difesa, se il tiro per colpire fa piu' del tuo valore di attacco hai mancato.
 - il giocatore tira un dado per lanciare incantesimi, piu' riesce (tiro basso) piu' l'incantesimo riesce meglio. puo' non tirare dato per avere un risultato fisso di base poco potente. chiamato effetto minimo nella descrizione dell'incantesimo
 - se l'incantesimo riesce nel lancio non c'e' TS. detta diversamente non c'e' mai TS
 - le statistiche sono corpo, mente, volonta'
@@ -32,7 +31,7 @@ passiamo a 2d10.. e non d100
 - armi: armi piccole 1d6, armi medie 1d8, armi grandi 2 mani 1d10. non sommi valore forza. arma leggera ha requisito forza 6, media 9, grande 11. ogni arma ha un requisito per l'uso altrimenti svantaggio nell'uso
 - sistema 3 azioni.
 - iniziativa: 2d10 - 2 arma leggera, +2 arma media, +6 arma 2 mani
-- azioni personalizzate e prove particolari: solo se possono fallire sono prove. fare un elenco con manovre e relative prove e cosa significa fallire. Se sono manovre di attacco questa si considera si successo se non si passa una prova di difesa
+- azioni personalizzate e prove particolari: solo se possono fallire sono prove. fare un elenco con manovre e relative prove e cosa significa fallire. Se sono manovre di attacco questa si considera di successo se non si passa una prova di difesa
 - armatura: assorbe il danno e penalizza certe prove, ovvero tiro sotto alla prova richiesta. attenzione che in questa maniera tutti disarmano, fanno cadere.... Impostare 
 - scudo assorbe il danno e penalizza certe prove. valutare scudo che effetti alternativi puo' avere.
 - punti ferita: a seconda della razza ed ogni ramo che prendi lo aumenta di un valore dipendente dal ramo scelto, ma l'aumento e' sempre poco (1-4)	
