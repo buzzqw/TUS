@@ -356,7 +356,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.77d aggiornamento per pod
 
-0.78a pubblicata versione 0.77d, aggiornata copertina, 
+0.78a pubblicata versione 0.77d, aggiornata copertina, aggiornata descrizione scurovisione
 
 
 
