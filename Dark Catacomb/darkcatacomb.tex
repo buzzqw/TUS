@@ -269,7 +269,7 @@ Scheda\\
 
 Le Caratteristiche\index{caratteristiche} di un personaggio servono a comprendere quando possa essere forte e robusto, ma anche atletico se non intelligente e di buon senso. Rappresentano le potenzialità su cui le Competenze costruiscono l'esperienza.
 
-Queste Caratteristiche sono Corpo \index{Corpo}, Mente \index{Mente} e Volontà \index{Volontà}.
+Queste Caratteristiche sono Corpo \index{Corpo}, Mente \index{Mente} e Volontà \index{Volontà} e \textbf{Vitalità}\index{Vitalità}
 
 \textbf{Corpo} rappresenta tutte le caratteristiche fisiche, quindi forza, resistenza, capacità atletiche. Corpo influenzerà tutte le prove basate sul fisico del personaggio.
 
@@ -277,11 +277,15 @@ Queste Caratteristiche sono Corpo \index{Corpo}, Mente \index{Mente} e Volontà 
 
 \textbf{Volontà} rappresenta il buon senso ma anche il saper resistere a shock emotivi. Volontà viene usato quando si gestiscono animali e si deve fare un lavoro che richieda impegno e dedizione.
 
+\textbf{Vitalità} rappresenta l'energia vitale del personaggio e la sua capacità di resistere a colpi od incantesimi.
+
 \subsection{Come stabilire le Caratteristiche del personaggio}\index{Come stabilire le Caratteristiche del personaggio}
 
-Il giocatore tira 2d10 e somma il risultato, questo tiro e computo lo esegue per ogni Caratteristica.
+Il giocatore tira 2d10 e somma il risultato, questo tiro e computo lo esegue per ogni Caratteristica tranne Vitalità.
 
-Se il valore sommato di una Caratteristica è inferiore a 6 segnerà 6 nella Caratteristica. Se il valore sommato di una Caratteristica è superiore a 12 segnerà comunque 12 nella Caratteristica.
+Se il valore sommato di una Caratteristica è inferiore a 6 segnerai 6 nella Caratteristica. Se il valore sommato di una Caratteristica è superiore a 12 segnerai comunque 12 nella Caratteristica.
+
+Il punteggio di \textbf{Vitalità} è pari al punteggio di Corpo aumentato dai punti indicati dal Ramo scelto.\index{Vitalità iniziale}
 
 \subsubsection{I modificatori alla prove}\index{Modificatori alla prove}
 
@@ -309,10 +313,6 @@ Il Personaggio non è obbligato ad effettuare una Prova ogni volta che tenta di 
 
 \subsection{Le Competenze}
 
-I Rami di base concedono 6 Competenze, mentre i Rami Avanzati concedono 7 Competenze.
-
-\medskip
-
 \begin{tabular*}{0.93\linewidth}{@{\extracolsep{\fill}}lll}
 \textbf{Corpo} & \textbf{Mente} & \textbf{Volontà}\\
 \toprule
@@ -322,7 +322,7 @@ Artista della fuga		& Erboristeria				& Diplomazia			\\
 Armi piccole 			& Disattivare congegni		& \textit{Consapevolezza}	\\
 Armi medie 				& Falsificare				& Mani di fata\\
 Armi a due mani			& Incantamento				& Gestire animali\\
-Intimidire		 		& Ingannare					& Muoversi silenziosamente\\
+Intimidire		 		& Raggirare					& Muoversi silenziosamente\\
 Nuotare					& Intrattenere				& Orientamento\\
 Rissa					& Nascondersi				& Percepire Emozioni \\ 
 Saltare 		 		& Natura					& Seguire tracce\\
@@ -333,17 +333,21 @@ Usare corda				& Pronto soccorso			& Sopravvivenza\\
 
 La \textbf{Conoscenza} va esplicitata su quale argomento verte: Dungeon, Legge, Lingue, Piani, Occulto, Architettura ed Ingegneria, Nobiltà ed Araldica, Miti e Leggende, Religione, Storia, Geografia ...\\
 
+Alcune Competenze hanno una importanza peculiare nel sistema: \textbf{Incantamento} e le varie \textbf{Armi}, la prima permette di lanciare incantesimi e ne aiuta a determinare l'efficacia, la seconda indica la Competenza del personaggio con le varie tipologie di armi e quanto è capace di usarle.
+
 \begin{multicols}{2}
 
 \subsection{Le Prove}\index{Effettuare una Prova}
 
 Ogni Competenza ha un valore numerico che ne stabilisce il grado di capacità nell'uso, più e' alto maggiore sarà la facilità con cui supero le prove.
 
-Le Caratteristiche sono usate come modificati alla prova.
+Il valore di Caratteristica-10 è usato come modificatore alla Prova.
 
-Per effettuare una Prova su una Competenza o Caratteristica è sufficiente tirare 2d10, sommarli, e controllare il valore ottenuto con quello della Competenza o Caratteristica.
+Per effettuare una Prova su una Competenza è sufficiente tirare 2d10, sommarli e controllare il valore ottenuto con quello della somma tra il valore della Competenza ed il bonus dato dalla Caratteristica.
 
-Se il valore della Prova è \textbf{inferiore} al valore della Competenza o Caratteristica allora la Prova è \textbf{riuscita}, viceversa se la somma ottenuta nella Prova è \textbf{superiore} al valore della Caratteristica o Competenza la prova è \textbf{fallita}.
+Se il valore della Prova è \textbf{inferiore} al valore della somma di Competenza e bonus Caratteristica allora la Prova è \textbf{riuscita}, viceversa se la somma ottenuta nella Prova è \textbf{superiore} al valore della somma del bonus della Caratteristica e della Competenza la prova è \textbf{fallita}.
+
+\subsubsection{I modificatori alla Prova}\index{Modificatori alla Prova}
 
 L'Arbitro può decidere la presenza di modificatori alla Prova in base alla situazione in cui si svolge la Prova.
 
@@ -357,11 +361,9 @@ Es. Devo scalare una parete. Ho un bonus perché sono presenti degli appigli, ho
 
 I modificatori, bonus o penalità, alla Prove assumono il valore di 1, qualora ci sia un solo bonus o penalità, 1d4 qualora ci siano due modificatori omogenei attivi. Nel caso i modificatori siano tre o più, ovviamente di tipo omogeneo, si ha il cosiddetto \textbf{\textit{Vantaggio}} oppure \textbf{\textit{Svantaggio}}.
 
-In caso di \textbf{Vantaggio} tiro 3d10 per effettuare la Prova e scarto quello con il valore più alto, poi sommo gli altri due dadi per verificare l'esito della Prova.
+In caso di \textbf{Vantaggio} tiro 3d10 per effettuare la Prova e scarto quello con il valore più alto, poi sommo gli altri due dadi per verificare l'esito della Prova.\index{Vantaggio}
 
-In caso di \textbf{Svantaggio} tiro 3d10 e scarto quello con valore più basso, poi sommo gli altri due dadi per verificare l'esito della Prova. 
-
-
+In caso di \textbf{Svantaggio}\index{Svantaggio} tiro 3d10 e scarto quello con valore più basso, poi sommo gli altri due dadi per verificare l'esito della Prova. 
 
 \end{multicols}
 
@@ -376,10 +378,138 @@ In caso di \textbf{Svantaggio} tiro 3d10 e scarto quello con valore più basso, 
 
 I \textbf{Rami} sono la professione del personaggio, è l'insieme delle competenze che il personaggio conosce. In altri sistema di gioco il Ramo sarebbe l'equivalente della classe.
 
-Ogni Ramo conferisce al personaggio dei punti Vitalità e delle Competenze.
+Ogni Ramo conferisce al personaggio dei punti Vitalità, da sommare a Corpo per stabilire il valore iniziale, e delle Competenze. I Rami di base concedono 6 Competenze, mentre i Rami Avanzati concedono 7 Competenze. Mentre i Rami di base possono essere presi come prima professione da chiunque, i Rami avanzati possono essere appresi solo a patto di soddisfare i requisiti richiesti.
 
 
+
+\begin{tabular*}{0.93\linewidth}{@{\extracolsep{\fill}}lll}
+	\textbf{Corpo} & \textbf{Mente} & \textbf{Volontà}\\
+	\toprule
+	Acrobatica				& Arcana					& Artigianato			\\	
+	Arrampicarsi			& Conoscenza *				& Cavalcare				\\
+	Artista della fuga		& Erboristeria				& Diplomazia			\\
+	Armi piccole 			& Disattivare congegni		& Osservare	\\
+	Armi medie 				& Falsificare				& Mani di fata\\
+	Armi a due mani			& Incantamento				& Gestire animali\\
+	Intimidire		 		& Raggirare					& Muoversi silenziosamente\\
+	Nuotare					& Intrattenere				& Orientamento\\
+	Rissa					& Nascondersi				& Percepire Emozioni \\ 
+	Saltare 		 		& Natura					& Seguire tracce\\
+	Usare corda				& Pronto soccorso			& Sopravvivenza\\
+							& Tradizioni locali			& Mercanteggiare\\
+\end{tabular*}	
 	
+Nella tabella sottostante sono indicati i nomi dei Rami di base, il valore da sommare a Vitalità per determinarne il punteggio iniziale e le 6 competenze conosciute.
+Nella prima Competenza (1') il personaggio partirà con un punteggio di 6, nella seconda di 5, nella terza di 4, nella quarta di 3, nella terza di 2, nella seconda di 1, nella prima di 0 (la conoscerà soltanto senza aver un punteggio).
+
+\begin{tabular*}{0.93\linewidth}{@{\extracolsep{\fill}}llllllll}
+
+\textbf{Ramo}	&\textbf{Vitalità}	&1'			&2'			&3'			&4'		&5'			&6'\\
+Rivoluzionario	&5			&Tradizioni locali	&Armi piccole	&Intimidire		&Osservare		&Sopravvivenza		&Storia\\
+Mendicante		&3			&Osservare			&Sopravvivenza	&Mercanteggiare &Armi Piccole	&Nascondersi		&Mani di fata\\					
+Barcaiolo		&4			&Nuotare			&Orientamento	&Armi a due mani&Usare corda	&Natura marina		&Sopravvivenza\\					
+Guardia del corpo&6			&Armi a due mani	&Orientamento	&Medicina		&Osservare		&Conoscenza			&Intimidire\\					
+Cacciatore di Taglie&7		&Armi da tiro		&Intimidire		&Seguire tracce	&Osservare		&Mercanteggiare		&Armi piccole\\					
+Intrattenitore	&3			&Intrattenere		&Camuffarsi		&Storia			&Armi piccole	&Raggirare			&Diplomazia\\					
+Baro			&6			&Raggirare			&Osservare		&Armi piccole	&Mani di fata	&Rissa				&Intimidire\\					
+Bullo			&6			&Rissa				&Intimidire		&Nascondersi	&Osservare		&Cavalcare			&Mani di fata\\					
+Cacciatore		&6			&Natura				&Sopravvivenza	&Armi da tiro	&Furtività		&Armi Piccole		&Osservare\\					
+Apprendista prete&2			&Cultura			&Incantamento	&Pronto soccorso&Intimidire		&Armi Piccole		&Tradizioni locali\\					
+				&6			&					&				&				&				&					&\\					
+				&6			&					&				&				&				&					&\\					
+				&6			&					&				&				&				&					&\\					
+				&6			&					&				&				&				&					&\\					
+				&6			&					&				&				&				&					&\\					
+				&6			&					&				&				&				&					&\\													
+
+mercenario 8 resistenza, 4 comp armi
+armi da tiro, armi medie, armi a due mani, armi piccole, conoscenza dei bassifondi
+
+milizia cittadina   8 resistenza, 4 comp armi
+armi da tiro, armi a due mani, armi medie, intimidire, cavalcare
+
+minatore  4 resistenza, 2 comp armi
+armi medie, sopravvivenza, atletica , valutare, orientamento
+
+nobile 4 resistenza, 2 comp armi
+linguaggi, cultura, intimidire,  diplomazia, storia, valutare, cavalcare
+
+bandito  6 resistenza, 3 comp armi
+armi piccole, armi medie, medicina, borseggiare, intimidire
+
+commerciante  4 resistenza, 2 comp armi
+mercanteggiare, conoscenza dei bassifondi, valutare, armi piccole, cavalcare
+
+contafrottole  4 resistenza, 2 comp armi
+armi piccole, storia, valutare, Raggirare, conoscenza dei bassifondi
+
+bracconiere  6 resistenza, 3 comp armi
+armi medie, armi da tiro, medicina, furtivita', sopravvivenza
+
+guardia a cavallo 8 resistenza, 4 comp armi
+armi da tiro, armi medie, orientamento, armi a due mani, cavalcare
+
+soldato 8 resistenza, 4 comp armi
+armi da tiro, armi piccole, armi medie, armi a due mani, intimidire
+
+ladro  4 resistenza, 2 comp armi
+armi piccole, furtivita', conoscenza dei bassifondi, borseggiare, osservare
+
+razziatore  4 resistenza, 2 comp armi
+armi medie, atletica, intimidire, valutare,  mercanteggiare
+
+apprendista mago  4 resistenza, 2 comp armi
+armi piccole, cultura,  storia, linguaggi, incantamento
+
+
+rami avanzati hanno prerequisiti, i rami avanzati si ripreondono ogni 5 punti distribuiti (e non ogni 3)
+
+
+assassino, corpo 12, conoscenza bassifondi 12, armi piccole 12
+armi da tiro , conoscenza dei bassifondi  camuffarsi , armi medie , furtivita' , osservare, 5 resistenza
+
+sgherro, corpo 12, intimidire 12, armi piccole 12
+armi da tiro, rissa , armi a due mani , conoscenza dei bassifondi , valutare, mani  di fata, intimidire,  6 resistenza
+
+capitano della guardia, volonta' 12, armi medie 12, armi a due mani 12
+armi da tiro , cavalcare , intimidire , conoscenza dei bassifondi , storia, medicina, 4 resistenza
+
+ciarlatano, mente 12, Raggirare 12, valutare 12
+cavalcare , osservare ,  intimidire , conoscenza dei bassifondi, storia, furtivita,  3 resistenza
+
+esploratore, corpo 12, osservare 12, orientamento 12
+lame piccole, atletica ,  nuotare , armi da tiro ,  cavalcare, cultura,  linguaggi,  5 resistenza
+
+cavaliere errante, volonta' 12, cavalcare 12, armi medie 12
+armi da tiro, armi a due mani , diplomazia , medicina , linguaggi, storia,  5 resistenza
+
+capitano mercenario, corpo 12, armi medie 12, intimidire1 12
+armi piccole , medicina , sopravvivenza , armi da tiro , armi a due mani , valutare,  6 resistenza
+
+mercante mente 12, valutare 12, mercanteggiare 12
+armi piccole , persuadere  ,  osservare , cavalcare , cultura, armi medie,  5 resistenza
+
+menestrello mente 12, Raggirare 12, conoscenza bassi fondi 12
+armi piccole , Raggirare , cultura , camuffarsi , diplomazia, storia,  4 resistenza
+
+capo bandito corpo 12, armi piccole 12m, cavalcare 12
+armi da tiro , intimidire , armi medie, sopravvivenza, valutare, conoscenza dei bassifondi, 5 resistenza
+
+prete volonta' volonta' 12, storia 12, diplomazia 12
+armi medie, cavalcare ,  cultura , incantamento , linguaggi , intimidire,  4 resistenza
+
+monaco corpo 12, volonta' 12, medicina 12
+rissa, diplomazia  , cultura , storia , linguaggi , medicina ,  4 resistenza
+
+spia mente 12, armi piccole 12, camuffarsi 12
+atletica , armi da tiro ,  intimidire , raggirare , borseggiare, cultura,  4 resistenza
+
+soldato veterano corpo 12, cavalcare 12, armi medie 12
+rissa , armi piccole  ,sopravvivenza , indimidire , armi da tiro , atletica,  6 resistenza
+
+mago mente 12, cultura 12, intimidire 12
+armi medie , cultura , diplomazia , storia , incantamento ,valutare,  4 resistenza
+
 \end{multicols}
 
 \pagebreak
@@ -506,123 +636,7 @@ comp armi / combattimento e' pari a numero di armi +1 alla partenza (e modificat
 
 incatamento se presente parte con un valore di +3
 
-rivoluzionario  4 resistenza, 2 comp armi
-armi piccole, intimidire, osservare, storia, conoscenza dei bassifondi
 
-mendicante 4 resistenza, 2 comp armi
-armi piccole, valutare, raggirare, osservare, conoscenza dei bassifondi
-
-barcaiolo 4 resistenza, 2 comp armi
-cultura, orientamento, armi a due mani,  mercanteggiare, nuotare
-
-guardia del corpo 6 resistenza, 3 comp armi
-armi medie, medicina, armi da tiro, intimidire, osservare
-
-cacciatore di taglie 6 resistenza, 3 comp armi
-armi piccole, valutare, armi da tiro, osservare, conoscenza dei bassifondi
-
-Intrattenitore 4 resistenza, 2 comp armi
-armi piccole, diplomazia, storia, cultura, camuffarsi
-
-Baro  6 resistenza, 3 comp armi
-armi piccole, osservare, raggirare, rissa, borseggiare
-
-bullo 4 resistenza, 2 comp armi
-rissa, intimidire, cavalcare, intimidire,  osservare
-
-Cacciatore 4 resistenza, 2 comp armi
-armi da tiro, furtivita', nuotare,  osservare, sopravvivenza
-
-Apprendista prete 4 resistenza, 2 comp armi
-armi piccole, cultura, incantamento, medicina, intimidire
-
-mercenario 8 resistenza, 4 comp armi
-armi da tiro, armi medie, armi a due mani, armi piccole, conoscenza dei bassifondi
-
-milizia cittadina   8 resistenza, 4 comp armi
-armi da tiro, armi a due mani, armi medie, intimidire, cavalcare
-
-minatore  4 resistenza, 2 comp armi
-armi medie, sopravvivenza, atletica , valutare, orientamento
-
-nobile 4 resistenza, 2 comp armi
-linguaggi, cultura, intimidire,  diplomazia, storia, valutare, cavalcare
-
-bandito  6 resistenza, 3 comp armi
-armi piccole, armi medie, medicina, borseggiare, intimidire
-
-commerciante  4 resistenza, 2 comp armi
-mercanteggiare, conoscenza dei bassifondi, valutare, armi piccole, cavalcare
-
-contafrottole  4 resistenza, 2 comp armi
-armi piccole, storia, valutare, raggirare, conoscenza dei bassifondi
-
-bracconiere  6 resistenza, 3 comp armi
-armi medie, armi da tiro, medicina, furtivita', sopravvivenza
-
-guardia a cavallo 8 resistenza, 4 comp armi
-armi da tiro, armi medie, orientamento, armi a due mani, cavalcare
-
-soldato 8 resistenza, 4 comp armi
-armi da tiro, armi piccole, armi medie, armi a due mani, intimidire
-
-ladro  4 resistenza, 2 comp armi
-armi piccole, furtivita', conoscenza dei bassifondi, borseggiare, osservare
-
-razziatore  4 resistenza, 2 comp armi
-armi medie, atletica, intimidire, valutare,  mercanteggiare
-
-apprendista mago  4 resistenza, 2 comp armi
-armi piccole, cultura,  storia, linguaggi, incantamento
-
-
-rami avanzati hanno prerequisiti, i rami avanzati si ripreondono ogni 5 punti distribuiti (e non ogni 3)
-
-
-assassino, corpo 12, conoscenza bassifondi 12, armi piccole 12
-armi da tiro , conoscenza dei bassifondi  camuffarsi , armi medie , furtivita' , osservare, 5 resistenza
-
-sgherro, corpo 12, intimidire 12, armi piccole 12
-armi da tiro, rissa , armi a due mani , conoscenza dei bassifondi , valutare, mani  di fata, intimidire,  6 resistenza
-
-capitano della guardia, volonta' 12, armi medie 12, armi a due mani 12
-armi da tiro , cavalcare , intimidire , conoscenza dei bassifondi , storia, medicina, 4 resistenza
-
-ciarlatano, mente 12, raggirare 12, valutare 12
-cavalcare , osservare ,  intimidire , conoscenza dei bassifondi, storia, furtivita,  3 resistenza
-
-esploratore, corpo 12, osservare 12, orientamento 12
-lame piccole, atletica ,  nuotare , armi da tiro ,  cavalcare, cultura,  linguaggi,  5 resistenza
-
-cavaliere errante, volonta' 12, cavalcare 12, armi medie 12
-armi da tiro, armi a due mani , diplomazia , medicina , linguaggi, storia,  5 resistenza
-
-capitano mercenario, corpo 12, armi medie 12, intimidire1 12
-armi piccole , medicina , sopravvivenza , armi da tiro , armi a due mani , valutare,  6 resistenza
-
-mercante mente 12, valutare 12, mercanteggiare 12
-armi piccole , persuadere  ,  osservare , cavalcare , cultura, armi medie,  5 resistenza
-
-menestrello mente 12, raggirare 12, conoscenza bassi fondi 12
-armi piccole , raggirare , cultura , camuffarsi , diplomazia, storia,  4 resistenza
-
-capo bandito corpo 12, armi piccole 12m, cavalcare 12
-armi da tiro , intimidire , armi medie, sopravvivenza, valutare, conoscenza dei bassifondi, 5 resistenza
-
-prete volonta' volonta' 12, storia 12, diplomazia 12
-armi medie, cavalcare ,  cultura , incantamento , linguaggi , intimidire,  4 resistenza
-
-monaco corpo 12, volonta' 12, medicina 12
-rissa, diplomazia  , cultura , storia , linguaggi , medicina ,  4 resistenza
-
-spia mente 12, armi piccole 12, camuffarsi 12
-atletica , armi da tiro ,  intimidire , raggirare , borseggiare, cultura,  4 resistenza
-
-soldato veterano corpo 12, cavalcare 12, armi medie 12
-rissa , armi piccole  ,sopravvivenza , indimidire , armi da tiro , atletica,  6 resistenza
-
-mago mente 12, cultura 12, intimidire 12
-armi medie , cultura , diplomazia , storia , incantamento ,valutare,  4 resistenza
 
 
 incantesimi:
