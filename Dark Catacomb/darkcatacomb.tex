@@ -290,7 +290,7 @@ Il punteggio di \textbf{Vitalità} è pari al punteggio di Corpo aumentato dai p
 \subsubsection{I modificatori alla prove}\index{Modificatori alla prove}
 
 Ogni Prova di Competenza viene modificata dal punteggio della Caratteristica connessa. 
-Il modificatore alla prove di Competenza è pari al punteggio di Caratteristica -10. Nelle Competenze è indicata la Caratteristica che la modifica.
+Il modificatore alla prove di Competenza è pari al punteggio di Caratteristica -10. Nelle Competenze è indicata la Caratteristica che la modifica. Questo modificatore viene applicato sia che abbia un valore positivo o negativo al valore della Competenza.
 
 \end{multicols}
 
@@ -325,10 +325,6 @@ Queste Competenze quando apprese faranno parte del bagaglio culturale, conosciti
 
 Il Personaggio in base a quello che viene dichiarato effettuerà una Prova per capire se riesce e come nell'intento. 
 
-\begin{narratore}
-Il Personaggio non è obbligato ad effettuare una Prova ogni volta che tenta di usare una sua Competenza, in base alla descrizione di come svolge la l'intervento l'Arbitro decide della buona, o meno, riuscita della Prova.	
-\end{narratore}
-
 \end{multicols}
 
 \subsection{Le Competenze}
@@ -361,17 +357,17 @@ Alcune Competenze hanno una importanza peculiare nel sistema: \textbf{Incantamen
 
 Ogni Competenza ha un valore numerico che ne stabilisce il grado di capacità nell'uso, più e' alto maggiore sarà la facilità con cui supero le prove.
 
-Il valore di Caratteristica-10 è usato come modificatore alla Prova assumendo quindi valori sia positivi che negativi, anche se negativo viene comunque chiamato bonus.
+Il valore di Caratteristica-10 è usato come modificatore alla Prova assumendo quindi valori sia positivi che negativi, anche se negativo viene comunque chiamato bonus nel manuale.
 
-Per effettuare una Prova su una Competenza è sufficiente tirare 2d10, sommarli e controllare il valore ottenuto con quello della somma tra il valore della Competenza ed il bonus dato dalla Caratteristica, questa valore si chiama valore della Prova.
-
-Se il valore della Prova è \textbf{inferiore} al valore della somma di Competenza e bonus Caratteristica allora la Prova è \textbf{riuscita}, viceversa se la somma ottenuta nella Prova è \textbf{superiore} al valore della somma del bonus della Caratteristica e della Competenza la prova è \textbf{fallita}.
+Per verificare l'esito di una Prova di Competenza è necessario sommare il valore di Competenza con il bonus di Caratteristica e sottrarre il risultato della somma di 2d10.
 
 Per \textbf{Punteggio di Competenza}\index{Punteggio di Competenza} (PC) (e non valore di Competenza) si intende il valore già sommato del bonus di caratteristica e del valore di Competenza.\index{Punteggio di Competenza}\index{PC}
 
-Si definisce \textbf{Margine di Successo}\index{Margine di Successo} (MS) il valore di differenza tra quanto tirato con i dadi ed il valore della Competenza.\index{Margine di Successo}\index{MS} Il Margine di Successo può essere negativo quando la prova riesce e positivo quando la prova fallisce.
+Si definisce \textbf{Margine di Successo}\index{Margine di Successo} (MS) il valore di differenza tra il Punteggio di Competenza (PC) con quanto tirato con i dadi.\index{Margine di Successo}\index{MS}
 
-La \textbf{Prova d'Armi}\index{Prova d'Armi} per difendersi viene anche accorciata in PDA.
+Il Margine di Successo (MS) può assumere valori negativi o positivi. Mentre in una prova di Competenza o Caratteristica il successo della stessa è solo nel MS positivo, con una prova contrapposta non è detto che un valore negativo sia un insuccesso, dipende da quanto fatto dal contendente
+ 
+La \textbf{Prova d'Armi}\index{Prova d'Armi} per difendersi viene anche accorciata in PDA. Come per la altre Prove si effettua somma del valore di Competenza con il bonus di Caratteristica (solitamente Corpo) e al risultato si sottrae quello del tiro di 2d10.
 
 \subsubsection{I modificatori alla Prova}\index{Modificatori alla Prova}
 
@@ -380,6 +376,8 @@ L'Arbitro può decidere la presenza di modificatori alla Prova in base alla situ
 Qualora ci sia una \textbf{penalità} (ho fretta, è buio, corro, l'avversario è a cavallo ed io sono appiedato..) la difficoltà della Prova aumenta, ovvero devo \textbf{aumentare il valore della Prova} effettuata della penalità presente.
 
 Se invece ho un \textbf{bonus} allora la difficoltà della Prova diminuisce, ovvero devo \textbf{diminuire il valore della Prova} effettuata del bonus presente.
+
+Un Bonus sarà un valore positivo che sommo ai 2d10 tirati nella Prova.\index{Applicare il Bonus}. Una Penalità è un valore negativo che sottraggo al Punteggio dei Competenza.
 
 I \textbf{modificatori alla Prova si cumulano} tra di loro se omogenei, tutti positivi o tutti negativi, e si annullano o scalano a vicenda se di tipo opposto (bonus e penalità).
 
@@ -505,31 +503,31 @@ Una prova di Atletica riuscita permette al personaggio di dimezzare il danno qua
 
 Usare una corda\index{Arrampicarsi su una corta}\index{Salire su una corda}, scalare od arrampicarsi equivale a muoversi in un \textbf{terreno doppiamente difficile}. Se la prova di Arrampicarsi riesce si sale di 30 cm per PA speso.
 
-In caso di fallimento della prova si consumano i PA senza spostarsi. Se la prova fallisce (MS positivo) di 6 o più perdi la presa e cadi. I modificatori indicati nella tabella si sommano.\\
+In caso di fallimento della prova si consumano i PA senza spostarsi. Se la prova fallisce (MS negativo) di 6 o più perdi la presa e cadi. I modificatori indicati nella tabella si sommano.\\
 
 \begin{tabularx}{0.45\textwidth}{Xl}
 	\textbf{Esempio di Superficie} & Mod.\\
 	\toprule
-	Movimento solo dimezzato & +1\\
-	Superficie scivolosa&+1\\
-	Parete grezza con appigli, mattoni sporgenti&+1\\
-	Una corda senza nodi&+2\\
-	Una parete con appigli &-2\\
-	Un muro/parete con pochissimi appigli&+3\\
-	Ti puoi appoggiare a 2 pareti opposte&-2\\
-	Ti puoi appoggiare a 2 pareti angolari&-1\\
-	Puoi usare una corda&-2\\
+	Movimento solo dimezzato & -1\\
+	Superficie scivolosa&-1\\
+	Parete grezza con appigli, mattoni sporgenti&-1\\
+	Una corda senza nodi&-2\\
+	Una parete con appigli &+2\\
+	Un muro/parete con pochissimi appigli&-3\\
+	Ti puoi appoggiare a 2 pareti opposte&+2\\
+	Ti puoi appoggiare a 2 pareti angolari&+1\\
+	Puoi usare una corda&+2\\
 \end{tabularx}\\
 
-i modificatori indicati sono sulla prova effettuata dal giocatore, se positivo è una penalità (alzi il valore del dado tirato).
+i modificatori indicati sono sulla prova effettuata dal giocatore, se positivo è un bonus (alzi il Punteggio di Competenza).
 
 \medskip
 
 Per \textbf{identificare una pozione o veleno naturale}\index{Identificare Veleno}\index{Erboristeria} \index{Identificare Pozione}è necessario una prova di \textbf{Erboristeria}.
 
-Costa 5 minuti. Se il MS è -3 impieghi 4 minuti, se -6 impieghi 3 minuti, con -9 impieghi 2 minuti, -12 impieghi 1 minuto, -15 impieghi 1 round.
+Costa 5 minuti. Se il MS è +3 impieghi 4 minuti, se +6 impieghi 3 minuti, con -9 impieghi 2 minuti, +12 impieghi 1 minuto, +15 impieghi 1 round.
 
-Se la prova fallisce ed il MS è +6 ha assunto la pozione consumandone una dose.
+Se la prova fallisce ed il MS è -6 ha assunto la pozione consumandone una dose.
 
 \medskip
 
@@ -551,15 +549,15 @@ La prova di Furtività va effettuata solo se c'è qualcuno che può sentire/vede
 
 \textbf{Nuotare}\index{Nuotare} \textit{Penalità dovuta all'Armatura}
 
-In acque calme basta una prova riuscita di nuotare, se le acque sono mosse il MS deve essere di almeno 3, e di 6 se molto mosse e 9 se tempestose. La prova è necessaria per stare a galla o nuotare. Nuotare in acqua si considera \textbf{terreno difficile}.
+In acque calme basta una prova riuscita di nuotare, se le acque sono mosse il MS deve essere di almeno 3, e di 6 se molto mosse e 9 se tempestose. La prova è necessaria sia per stare a galla o nuotare. Nuotare in acqua si considera \textbf{terreno difficile}.
 
 \medskip
 
 \textbf{Pronto Soccorso}\hypertarget{prontosoccorso}{}\label{prontosoccorso}\index{Pronto Soccorso}. Una prova riuscita fa recuperare 1d4 Vitalità se fatta entro 1 minuto dal termine dello scontro.
 
-Concede 1 Bonus ad una prova di Caratteristica contro un veleno se non ha ancora fatto effetto. Costo \textbf{2 minuti}. Con MS di -6 costa 1 minuto. Con MS -9 costa 3 round, con MS -12 costa 1 round.
+Concede 1 Bonus ad una prova di Caratteristica contro un veleno se non ha ancora fatto effetto. Costo \textbf{2 minuti}. Con MS di +6 costa 1 minuto. Con MS +9 costa 3 round, con MS +12 costa 1 round.
 
-Una prova riuscita riduce di 1 i danni da \hyperlink{sanguinamento}{\textbf{Sanguinamento}}. Se la prova riesce con MS -3 riduce di 2 punti, con MS -6 riduce di 3 punti.
+Una prova riuscita riduce di 1 i danni da \hyperlink{sanguinamento}{\textbf{Sanguinamento}}. Se la prova riesce con MS +3 riduce di 2 punti, con MS +6 riduce di 3 punti.
 
 Un trattamento di almeno 8 ore permette di recuperare al paziente il doppio di Corpo in punti Vitalità. Se effettuato durante le ore di riposo chi prende cura risulterà Affaticato.
 
@@ -569,13 +567,13 @@ Un trattamento di almeno 8 ore permette di recuperare al paziente il doppio di C
 
 Con una prova di Atletica è possibile saltare in lungo 3 metri. Per ogni MS salti 30 cm in più.
 
-La \textbf{distanza saltata in alto} è pari a 100 + 10cm per MS.
+La \textbf{distanza saltata in alto} è pari a 90cm + 10cm per MS.
 
 In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 della lunghezza saltata. Se esegui un salto in lungo di 6 metri a metà salto sei in alto di 1.5 metri.
 
 Scendere da meno di 1m non usa PA. Se non si ha almeno 3 metri di rincorsa si salta la metà.
 
-Vitalità persa per caduta (pag. \pageref{cadute}): 3x altezza caduta (in metri). Prova di Atletica per ridurre di 6 di danno
+Vitalità persa per caduta (pag. \pageref{cadute}): 3x altezza caduta (in metri). Prova di Atletica per dimezzare il danno se cadi da meno di 9 metri.
 
 \medskip
 
@@ -588,18 +586,18 @@ Vitalità persa per caduta (pag. \pageref{cadute}): 3x altezza caduta (in metri)
 \begin{tabular}{ll}
 	Situazioni & Mod.\\
 	\toprule
-	Se il terreno è molto morbido& -2\\
-	Se il terreno è morbido& -1\\
+	Se il terreno è molto morbido& +2\\
+	Se il terreno è morbido& +1\\
 	Se il terreno è stabile& 0\\
-	Se il terreno è duro& +2\\
-	Ogni 6 creature inseguite& -1\\
-	Ogni 24 ore passate & +1\\
-	Visibilità scarsa&+1\\
-	Ogni ora di pioggia&+1 \\
-	Cerca di occultare le traccie& +1\\
+	Se il terreno è duro& -2\\
+	Ogni 6 creature inseguite& +1\\
+	Ogni 24 ore passate & -1\\
+	Visibilità scarsa&-1\\
+	Ogni ora di pioggia&-1 \\
+	Cerca di occultare le traccie& -1\\
 \end{tabular}\\
 
-Un Modificatore negativo è un bonus (abbassa il risultato dei dadi), un modificatore positivo è una penalità (alza il risultato dei dadi).
+Un Modificatore negativo è una penalità (abbassa il risultato dei dadi), un modificatore positivo è un bonus (alza il risultato del Punteggio di Competenza).
 
 Sopravvivenza può essere usata al posto di \textbf{Disattivare Congegni} con Svantaggio.
 
@@ -607,7 +605,7 @@ Una prova di Sopravvivenza per foraggiare cibo procura viveri per una persona ag
 
 \medskip
 
-La prova di \textbf{Mercanteggiare}\index{Mercanteggiare} serve per abbassare il prezzo di una merce e per valutare un oggetto. Oggetti molto rari richiedono un MS di almeno -3.
+La prova di \textbf{Mercanteggiare}\index{Mercanteggiare} serve per abbassare il prezzo di una merce e per valutare un oggetto. Oggetti molto rari richiedono un MS di almeno +3 per essere valutati.
 
 
 \end{multicols}
@@ -750,8 +748,6 @@ Per prendere un \textbf{Ramo avanzato} si devono soddisfare i requisiti indicati
 
 \pagebreak
 
-
-
 \section{Combattimento}\index{Combattimento}\label{Combattimento}\hypertarget{Combattimento}{}
 
 \begin{multicols}{2}
@@ -759,6 +755,7 @@ Per prendere un \textbf{Ramo avanzato} si devono soddisfare i requisiti indicati
 Il combattimento è diviso in 2 fasi:\index{Combattimento}
 \begin{itemize}
 	\item verifica delle Azioni
+	\item verifica Iniziativa
 	\item risoluzione delle Azioni (movimento, attacco, azione varie..)
 \end{itemize}
 
@@ -766,18 +763,22 @@ L'unità base di tempo nelle scene di combattimento è il Round ovvero una unit�
 
 Ogni personaggio può eseguire diverse Azioni nel round ed ognuna di queste costa dei Punti Azione. \textbf{Chi meno ne esegue più è veloce nell'eseguirle}.
 
-All'inizio di ogni round il giocatore dichiara quanti PA userà ed agirà quando si arriverà al suo punteggio di PA. Non è necessario che dichiari cosa andrà ad eseguire.
+All'inizio di ogni round il giocatore dichiara quanti PA userà. Non è necessario che dichiari cosa andrà ad eseguire.
 
-Il personaggio od avversario che usa meno Punti Azione (PA) incomincia per primo. A parità di PA utilizzati parte per primo l'avversario.
+La verifica dell'Iniziativa\index{Iniziativa} consiste nel tirare 2d10 sottrarre Corpo o Mente ed aggiungere i PA che si intendono usare.
+
+\textbf{Il personaggio od avversario che ha un valore dell'Iniziativa più basso incomincia per primo.}
+
+A parità di Iniziativa chi usa meno Punti Azione (PA) incomincia per primo, se i PA usati sono uguali parte per primo l'avversario.
 A parità di PA usati tra i personaggi questi si mettono d'accordo tra loro per agire in che ordine.
 
-Il personaggio potrebbe anche usare meno PA di quanti dichiarati, ma agirà in ogni caso nel segmento di iniziativa come aveva inizialmente dichiarato.
-Un personaggio non può dichiarare un certo numero di PA e poi usarne di più.
+Il personaggio potrebbe anche usare meno PA di quanti dichiarati, ma agirà in ogni caso nell'ordine stabilito dal valore dell'Iniziativa.
 
+\textbf{Un personaggio non può dichiarare un certo numero di PA e poi usarne di più.}
 
 \subsubsection{Il Tempo (Round, Minuti e Turni)}\index{Round}\label{iltempo}
 
-Un \textbf{round} dura 10 secondi circa, è un lasso di tempo sufficiente per agire, correre, parlare.. combattere. Un Minuto sono quindi 6 round, ed un Turno dura 10 Minuti (o 60 round).
+Un \textbf{round} dura 10 secondi circa, è un lasso di tempo sufficiente per agire, correre, parlare.. combattere. Un Minuto sono 6 round ed un Turno dura 10 Minuti (o 60 round).
 
 I round si usano nelle scene di combattimento o dove la tensione deve rimanere costantemente alta ed ad ogni Azione corrisponde un evolversi della situazione.
 
