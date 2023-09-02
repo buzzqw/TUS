@@ -360,6 +360,8 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.78a aggiornamento per pod
 
+0.78b chiarimenti su salire gradini
+
 - aggiunti \label{} fino a piani
 
 Aggiungere immagini:
