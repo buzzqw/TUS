@@ -2778,7 +2778,7 @@ Gli incantesimi che creano coni o linee di effetto che originano da te, hanno an
 
 Data la concentrazione mentale e i gesti precisi richiesti l'armatura distrae e sbilancia i flussi. La Prova di Incantamento subisce le Penalità di Competenza indicate dalla armatura.
 
-La strego aumentando di 1 il PA di lancio può ridurre di una la Penalità data dall'armatura.
+La strego aumentando di 1 il PA di lancio può ridurre di uno la Penalità data dall'armatura.
 
 \subsubsection{Durata}\index{Durata Incantesimi}\label{magiedurata}\index{Incantesimi, Durata}
 
@@ -2903,7 +2903,7 @@ Dopo 8 ore di riposo la Prova di Incantamento torna normale
 Ogni qual volta la Strega tira due 1 nella Prova di Incantamento non perde il punto Vigore e perde 1 Penalità alla Prova di Incantamento
 
 \item 
-Ogni 6 punti Vigore sacrificati può aggiungere 1 effetto critico all'incantesimo oppure non cumula la Penalità alla Prova di Incantamento
+Ogni 6 punti Vigore sacrificati può aggiungere 1 effetto critico all'incantesimo
 
 \item 
 La Strega può scegliere di usare diversi effetti critici per incantesimo (uno da 1 critico, uno da 2 critici ed uno da 3 critici) purché li abbia a disposizione
@@ -2962,7 +2962,7 @@ In Dark Catacomb non esistono i libri di magia o le pergamene di incantesimo. Qu
 
 \subsubsection{Prova per Colpire con le Magie}\index{Tiro per Colpire con Incantesimi}\label{magietiropercolpireconlemagie}\index{Incantesimi, Tiro per Colpire}
 
-Quando l'incantesimo dice che è necessario colpire l'avversario, la Strega deve effettuare una Prova di Incantamento, con modificatore di Caratteristica in base al Verbo usato.
+Quando l'incantesimo dice che è necessario colpire l'avversario, la Strega deve effettuare una Prova di Incantamento, con modificatore di Caratteristica in base al Verbo usato opposta alla PDAD dell'avversario.
 
 \medskip
 
@@ -2983,6 +2983,8 @@ Se la Strega è severamente \textbf{Distratta}, cerca di nascondere il lancio de
 Perdi la concentrazione su di un incantesimo se lanci un altro incantesimo che richieda concentrazione. Non ti puoi concentrare su due incantesimi alla volta. Interrompere la concentrazione costa una Reazione.
 
 Se vieni colpito\index{Colpito mentre tieni la concentrazione} mentre sei concentrato su un incantesimo devi effettuare una Prova di Corpo o perdi la concentrazione.
+
+Mantenere la Concentrazione costa 2 PA a round.\index{Costo PA concentrarsi}
 
 \subsubsection{Influenzati da più Magie}\index{Influenzati da più Magie}\label{magieinfluenzatodapiumagie}
 
@@ -3009,9 +3011,12 @@ Se una Creatura Naturale ha poteri magici allora si considera anche come Creatur
 
 \begin{multicols}{2}
 
+%il danno subito a vigore e' solitamente pari ad un 1/3 del massimo danno causato
+
+\subsection{Attaccare}
 
 \textbf{Attacco Elementale I}\\
-\textbf{Prerequisiti}: Corpo 4, Incantamento 3
+\textbf{Prerequisiti}: Volontà 4, Incantamento 3
 \textbf{Verbo}: Attaccare (Volontà)\\
 \textbf{Nome}: variabile\\
 \textbf{Punti Azione}: 4\\
@@ -3029,11 +3034,11 @@ Il bersaglio subisce 1d6 danni a Vigore.
 \textbf{Ogni 1 successo critico}: puoi influenzare una persona in più che non ne sia già influenzata\\
 \textbf{Ogni 1 successo critico}: puoi aumentare la gittata di 9 metri\\
 \textbf{Ogni 2 successo critico}: crei un altro lampo di energia che può colpire chi preferisci\\
-\textbf{Ogni 2 successo critico}: aumenti di 1 il danno a Vigore causato\\
-\textbf{Con 3 successo critico}: il dado di danno a Vigore diventa 1d8
+\textbf{Ogni 2 successo critico}: aumenti di 1 il danno a Vigore causato per ogni dado di danno\\
+\textbf{Con 3 successo critico}: il dado di danno a Vigore diventa 1d8\\
 
 \textbf{Attacco Elementale II}\\
-\textbf{Prerequisiti}: Corpo 5, Incantamento 6
+\textbf{Prerequisiti}: Volontà 6, Incantamento 6
 \textbf{Verbo}: Attaccare (Volontà)\\
 \textbf{Nome}: variabile\\
 \textbf{Punti Azione}: 6\\
@@ -3051,15 +3056,15 @@ Il bersaglio subisce 2d6 danni a Vigore.
 \textbf{Ogni 1 successo critico}: puoi influenzare una persona in più che non ne sia già influenzata\\
 \textbf{Ogni 1 successo critico}: puoi aumentare la gittata di 9 metri\\
 \textbf{Ogni 2 successo critico}: crei un altro lampo di energia che può colpire chi preferisci\\
-\textbf{Ogni 2 successo critico}: aumenti di 2 il danno a Vigore causato\\
-\textbf{Con 3 successo critico}: il dado di danno a Vigore diventa 2d8
+\textbf{Ogni 2 successo critico}: aumenti di 1 il danno a Vigore causato per ogni dado di danno\\
+\textbf{Con 3 successo critico}: il dado di danno a Vigore diventa 2d8\\
 
 \textbf{Attacco Elementale III}\\
-\textbf{Prerequisiti}: Corpo 9, Incantamento 9
+\textbf{Prerequisiti}: Volontà 8, Incantamento 9
 \textbf{Verbo}: Attaccare (Volontà)\\
 \textbf{Nome}: variabile\\
-\textbf{Punti Azione}: 9\\
-\textbf{Costo}: 8 Punti Vigore
+\textbf{Punti Azione}: 8\\
+\textbf{Costo}: 6 Punti Vigore
 \textbf{Gittata}: 18 metri\\
 \textbf{Area di Effetto}: 2 bersaglio\\
 \textbf{Durata}: istantanea\\
@@ -3073,8 +3078,167 @@ I bersagli, distinti, subiscono 3d6 danni a Vigore.
 \textbf{Ogni 1 successo critico}: puoi influenzare una persona in più \\
 \textbf{Ogni 1 successo critico}: puoi aumentare la gittata di 9 metri\\
 \textbf{Ogni 2 successo critico}: crei un altro lampo di energia che può colpire chi preferisci\\
-\textbf{Ogni 2 successo critico}: aumenti di 3 il danno a Vigore causato\\
-\textbf{Con 3 successo critico}: il dado di danno a Vigore diventa 3d8
+\textbf{Ogni 2 successo critico}: aumenti di 1 il danno a Vigore causato per ogni dado di danno\\
+\textbf{Con 3 successo critico}: il dado di danno a Vigore diventa 3d8\\
+
+
+
+\textbf{Attacco Elementale IV}\\
+\textbf{Prerequisiti}: Volontà 10, Incantamento 12
+\textbf{Verbo}: Attaccare (Volontà)\\
+\textbf{Nome}: variabile\\
+\textbf{Punti Azione}: 9\\
+\textbf{Costo}: 8 Punti Vigore
+\textbf{Gittata}: 9 metri\\
+\textbf{Area di Effetto}: 2 bersaglio\\
+\textbf{Durata}: istantanea\\
+\textbf{Rarità}: Comune\\
+\textbf{Descrizione}: focalizzi la magia della sorgente in un lampo energetico. Il personaggio può scegliere l'Elemento da usare.
+
+I bersagli, distinti, subiscono 4d6 danni a Vigore.
+
+
+\textbf{Effetti Critici}:\\
+\textbf{Ogni 1 successo critico}: puoi influenzare una persona in più \\
+\textbf{Ogni 1 successo critico}: puoi aumentare la gittata di 9 metri\\
+\textbf{Ogni 2 successo critico}: crei un altro lampo di energia che può colpire chi preferisci\\
+\textbf{Ogni 2 successo critico}: aumenti di 1 il danno a Vigore causato per ogni dado di danno\\
+\textbf{Con 3 successo critico}: il dado di danno a Vigore diventa 4d8\\
+
+\subsection{Creare}
+
+\textbf{Crea Elemento I}\\
+\textbf{Prerequisiti}: Corpo 4, Incantamento 3
+\textbf{Verbo}: Creare (Corpo)\\
+\textbf{Nome}: variabile\\
+\textbf{Punti Azione}: 4\\
+\textbf{Costo}: 2 Punti Vigore
+\textbf{Gittata}: 9 metri\\
+\textbf{Area di Effetto}: 1 cubo entro 10x10cm\\
+\textbf{Durata}: 1 round\\
+\textbf{Rarità}: Comune\\
+\textbf{Descrizione}: crei un oggetto di dimensione entro 10cm x 10cm di legno, acqua, ferro, ghiaccio.
+L'oggetto la cui forma è a tua scelta anche se grezza, appare entro 9 metri da te. 
+L'oggetto non può avere parti mobili ed è unica come forma (non possono essere più oggetti). L'oggetto risponde alle normali leggi della fisica.
+
+L'oggetto scompare alla fine dell'incantesimo o quando annullato con una Reazione.
+
+
+\textbf{Effetti Critici}:\\
+\textbf{Ogni 1 successo critico}: puoi creare un volume di 10x10cm in più od aumentare a 20x20cm il cubo iniziale\\
+\textbf{Ogni 1 successo critico}: puoi aumentare la gittata di 9 metri\\
+\textbf{Ogni 2 successo critico}: l'oggetto dura un round in più\\
+\textbf{Con 3 successo critico}: l'oggetto puù essere creato anche con fuoco o da elettricità (1d6 di danno a contatto).\\
+
+
+\textbf{Crea Elemento II}\\
+\textbf{Prerequisiti}: Corpo 6, Incantamento 6
+\textbf{Verbo}: Creare (Corpo)\\
+\textbf{Nome}: variabile\\
+\textbf{Punti Azione}: 6\\
+\textbf{Costo}: 4 Punti Vigore
+\textbf{Gittata}: 9 metri\\
+\textbf{Area di Effetto}: 1 cubo entro 30x30cm\\
+\textbf{Durata}: 2 round\\
+\textbf{Rarità}: Comune\\
+\textbf{Descrizione}: crei un oggetto di dimensione entro 30cm x 30cm di legno, acqua, ferro, ghiaccio.
+L'oggetto la cui forma è a tua scelta anche se grezza, appare entro 9 metri da te. 
+L'oggetto non può avere parti mobili ed è unica come forma (non possono essere più oggetti). L'oggetto risponde alle normali leggi della fisica.
+
+L'oggetto scompare alla fine dell'incantesimo o quando annullato con una Reazione.
+
+
+\textbf{Effetti Critici}:\\
+\textbf{Ogni 1 successo critico}: puoi creare un volume di 20x20cm in più od aumentare a 40x40cm il cubo iniziale\\
+\textbf{Ogni 1 successo critico}: puoi aumentare la gittata di 9 metri\\
+\textbf{Ogni 2 successo critico}: l'oggetto dura un round in più\\
+\textbf{Con 3 successo critico}: l'oggetto può essere creato anche con fuoco o da elettricità (2d6 di danno a contatto).\\
+
+\textbf{Crea Elemento III}\\
+\textbf{Prerequisiti}: Corpo 8, Incantamento 9
+\textbf{Verbo}: Creare (Corpo)\\
+\textbf{Nome}: variabile\\
+\textbf{Punti Azione}: 8\\
+\textbf{Costo}: 6 Punti Vigore
+\textbf{Gittata}: 9 metri\\
+\textbf{Area di Effetto}: 1 cubo entro 50x50cm\\
+\textbf{Durata}: 3 round\\
+\textbf{Rarità}: Comune\\
+\textbf{Descrizione}: crei fino a due oggetti entro volume di 50cm x 50cm di legno, acqua, ferro, ghiaccio.
+L'oggetto la cui forma è a tua scelta anche se grezza, appare entro 9 metri da te. 
+L'oggetto può avere 2 parti mobili. L'oggetto risponde alle normali leggi della fisica.
+
+L'oggetto scompare alla fine dell'incantesimo o quando annullato con una Reazione.
+
+\textbf{Effetti Critici}:\\
+\textbf{Ogni 1 successo critico}: puoi creare un volume di 30x30cm in più od aumentare a 60x60cm il cubo iniziale\\
+\textbf{Ogni 1 successo critico}: puoi aumentare la gittata di 9 metri\\
+\textbf{Ogni 2 successo critico}: l'oggetto dura un round in più\\
+\textbf{Con 3 successo critico}: l'oggetto può essere creato anche con fuoco o da elettricità (3d6 di danno a contatto).\\
+
+
+\textbf{Crea Elemento IV}\\
+\textbf{Prerequisiti}: Corpo 10, Incantamento 13
+\textbf{Verbo}: Creare (Corpo)\\
+\textbf{Nome}: variabile\\
+\textbf{Punti Azione}: 9\\
+\textbf{Costo}: 8 Punti Vigore
+\textbf{Gittata}: 9 metri\\
+\textbf{Area di Effetto}: 1 cubo entro 100x100cm\\
+\textbf{Durata}: 4 round\\
+\textbf{Rarità}: Comune\\
+\textbf{Descrizione}: crei uno o più oggetti entro un volume di dimensione entro 100cm x 100cm di legno, acqua, ferro, ghiaccio.
+Gli oggetti la cui forma è a tua scelta anche se grezza, appaiono entro 9 metri da te. 
+L'oggetto può avere fino a 3 parti mobili. L'oggetto risponde alle normali leggi della fisica.
+
+L'oggetto scompare alla fine dell'incantesimo o quando annullato con una Reazione.
+
+\textbf{Effetti Critici}:\\
+\textbf{Ogni 1 successo critico}: puoi creare un volume di 50x50cm in più od aumentare a 120x120cm il cubo iniziale\\
+\textbf{Ogni 1 successo critico}: puoi aumentare la gittata di 9 metri\\
+\textbf{Ogni 2 successo critico}: l'oggetto dura un round in più\\
+\textbf{Con 3 successo critico}: l'oggetto può essere creato anche con fuoco o da elettricità (3d6 di danno a contatto).\\
+
+
+\textbf{Crea Mente}\\
+\textbf{Prerequisiti}: Corpo 6, Incantamento 6
+\textbf{Verbo}: Creare (Corpo)\\
+\textbf{Nome}: Mente\\
+\textbf{Punti Azione}: 6\\
+\textbf{Costo}: 4 Punti Vigore
+\textbf{Gittata}: personale\\
+\textbf{Area di Effetto}: te stesso\\
+\textbf{Durata}: 1 round\\
+\textbf{Rarità}: Comune\\
+\textbf{Descrizione}: un lampo di genio ti illumina. 
+
+Ottieni 3 Bonus alla prossima Prova di Competenza entro la fine del round successivo.
+
+
+\textbf{Effetti Critici}:\\
+\textbf{Ogni 1 successo critico}: la durata diviene 2 round\\
+
+
+\textbf{Crea Mente II}\\
+\textbf{Prerequisiti}: Corpo 10, Incantamento 12
+\textbf{Verbo}: Creare (Corpo)\\
+\textbf{Nome}: Mente\\
+\textbf{Punti Azione}: 8\\
+\textbf{Costo}: 8 Punti Vigore
+\textbf{Gittata}: 9 metri\\
+\textbf{Area di Effetto}: una creatura\\
+\textbf{Durata}: 1 round\\
+\textbf{Rarità}: Comune\\
+\textbf{Descrizione}: una creatura a tua scelta ha un'ottima intuizione e ottiene 3 Bonus alla prossima Prova di Competenza.
+
+
+\textbf{Effetti Critici}:\\
+\textbf{Ogni 1 successo critico}: la durata diviene 2 round\\
+\textbf{Ogni 1 successo critico}: puoi aumentare la gittata di 9 metri\\
+\textbf{Ogni 2 successo critico}: puoi influenzare una creatura in più\\
+
+
+
 
 \end{multicols}
 
@@ -3089,10 +3253,7 @@ APPUNTI
 ispirarsi a nome verbo, ma fai te gli accoppiamenti e stabilisci te cosa succede per ogni critico 
 i livelli (II, III..) aggiuntivi hanno prerequisiti di consocenza magica maggiore e statistica maggiore, causano una maggiore perdita di resistenza ma garantiscono maggiore risultato, il tempo di lancio (iniziativa) e' piu' lenta piu' e' potente l'incantesimo.
 
-Attacco Elementale I, II, III, IV, V
-Creare Elemento I, II, III
 Creare Corpo  ???
-Creare Mente  ???
 Muovere Elemento I, II
 Muovere Corpo (feather fall, levitate, volare..)
 Muovere Elemento
