@@ -12,7 +12,7 @@ They are very different from each other, never completely good or completely bad
 They command magic, have a fondness for certain magic lists, and favor the use of certain weapons.
 
 Traits:
-in short, it is your character. Choose 5 from a list of over 200. They are important because the Traits are related to the Patrons and to choose a certain Patron to be Devoted it is necessary to have some traits in common with that one. The higher the score, the more that trait characterizes your personality. Regardless of whether you follow a patron or not there will be someone who will be happy with your main trait and whether you like it or not will grant you powers (starting from 5 points).
+in short, it is your personality. Choose 5 from a list of over 200. They are important because the Traits are related to the Patrons and to choose a certain Patron to be Devoted it is necessary to have some traits in common with that one. The higher the score, the more that trait characterizes your personality. Regardless of whether you follow a patron or not there will be someone who will be happy with your main trait and whether you like it or not will grant you powers (starting from 5 points).
 You can be Devotees if you have at least 3 Traits in common with a Patron, if they are 2 you can be Followers. Being Devotees or Followers brings advantages as long as you follow the Traits of the Patron.
 
 Classes:
