@@ -8,7 +8,7 @@ The magic system is based on spell point and many and more spell are modified an
 
 OBSS refers to the OSR (Old School Renaissance) philosophy but in any case in a modern key, it embraces its principles but does not exclude a more complete system of rules that can help the Arbiter.
 
-Download the OBSS-eng-v3.pdf manual https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v3.pdf 
+Download the OBSS (english versione) manual https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v3.pdf 
 
 The OBSS manual is complete, a nice tome of over 500 pages, with everything you need to play! You will find the chapters that interest the Players and the Arbiter, including all usable monsters (plus a few additions).
 
