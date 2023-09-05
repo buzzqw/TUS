@@ -10,7 +10,7 @@ OBSS refers to the OSR (Old School Renaissance) philosophy but in any case in a 
 
 Download the OBSS (english versione) manual https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v3.pdf 
 
-The OBSS manual is complete, a nice tome of over 500 pages, with everything you need to play! You will find the chapters that interest the Players and the Arbiter, including all usable monsters (plus a few additions).
+The OBSS manual is complete, a nice tome of near 600 pages, with everything you need to play! You will find the chapters that interest the Players and the Arbiter, including all usable monsters (plus a few additions).
 
 I suggest you always download the latest version of the manual directly from this page, the one published in the versions is usually a long way back.
 
@@ -41,7 +41,7 @@ E' anche disponibile uno schermo per il Narratore (veramente brutto.. perdonate!
 
 Il **print on demand (POD)** e' disponibile su Amazon https://www.amazon.it/dp/B09R3HPJJX
 
-Il manuale di OBSS e' completo, un bel tomo di oltre 500 pagine, con tutto cio' che serve per giocare! Troverete i capitoli che interessano i Giocatori ed il Narratore, compreso tutti i mostri liberamente usabili (piu' qualche aggiunta).
+Il manuale di OBSS e' completo, un bel tomo di quasi 600 pagine, con tutto cio' che serve per giocare! Troverete i capitoli che interessano i Giocatori ed il Narratore, compreso tutti i mostri liberamente usabili (piu' qualche aggiunta).
 
 Vi suggerisco di scaricare sempre l'ultima versione del manuale direttamente dal questa pagina, quella pubblicata nelle versioni solitamente e' parecchio indietro.
 
