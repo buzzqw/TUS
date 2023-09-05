@@ -47,34 +47,34 @@ every time you roll a 6 you roll back the dice and add up
 every time you roll a 1 you don't count the die
 you can subtract 4 points from the score of the Competence or characteristic used in the test to roll an extra d6 (to be used to hope for an explosion of the die)
 
-Feat':
-Since the character has no class, choose the ability (Feat) to build it. There are over 120 Skills to choose from, many can be taken multiple times to "unlock" further extraordinary abilities. Fear Feat are taken at all levels except 5, 10, 15, 20 level.
-Some abilities mimic the more canonical ones of the classes, many others are different and peculiar to the system. It's easy and spontaneous to build the character you prefer and think about.
-Skills increase saving throws. Each time you take a skill you increase your saving throw scores, this is the only way to increase your saving throws.
-Ability increases are taken through skills.
+Feats:
+Since the character has no class, choose the ability (Feat) to build it. There are over 120 Feats to choose from, many can be taken multiple times to "unlock" further extraordinary abilities. Feats are taken at all levels except 5, 10, 15, 20 level.
+Some abilities mimic the more canonical ones of the classes, many others are differents and peculiar to the system. It's easy and spontaneous to build the character you prefer and think about.
+Feats increase saving throws. Each time you take a feat you increase your saving throw scores, this is the only way to increase your saving throws.
+Ability increases are taken through feat.
 
 Advantages and disadvantages:
 All characters can have advantages and disadvantages. Mandatory a role disadvantage, a small flaw that makes everyone more "normal". Then there are the real advantages and disadvantages, many even challenging to play that characterize and make the character unique. The more powerful an advantage is, the more it is necessary to "pay" with disadvantages.
 
 Combat:
-- initiative is a test of dexterity or intelligence
+- initiative is a check of dexterity or intelligence
 - you have 3 actions per round as in PF2
 - the attack roll is 3d6+strength/dexterity+weapons proficiency + various bonuses (from weapons list, from magic...) against the opponent's Defense value. defense is 10+armor+shield+dexterity+various
-- multiple attacks take the value of the roll to hit and for each roll after the first then subtract 5. So if you have +12 on the roll to hit make one attack at +12, one at +7 and one at +2, if it is negative you can't do it. In practice, the number of attacks depends on your skill rather than just on the level.
+- multiple attacks comulate a -6 penalty. So if you have +12 on the attack roll (due to strenght, weapon proficiency, magica weapon, feats...)  make one attack at +12, one at +7 and one at +2, if it is negative you can't do it. In practice, the number of attacks depends on your skill rather than just on the level.
 - making 1 attack costs 1 action, 2 attacks costs 2 actions, 3 or more attacks cost 3 actions. Each arrow fired costs 1 action
 - Every time you roll a 6 with the d6 (3d6 of the test) you can roll another dice (golden rules...)
-- Every time you roll twice 6 in the Attack Roll you roll one more weapon damage 
+- Every time you roll twice 6 in the Attack Roll you roll one more weapon damage (only the dice of weapon)
 - The player may prefer to roll a new weapon damage how well he hits the opponent
 - When the die of the weapon does the maximum possible you reroll the die and add (only for weapons that do at least 8 damage)
 - if you attack with a long weapon you have +2 to hit, but if the opponent runs into you you have -1d6
 
 Life and death:
-- hit points are 1d4+toughness +3 if you put a point in weapon proficiency at that level
+- hit points are 1d4+Constitution +3 if you put a point in weapon proficiency at that level
 - you die when you reach (10+CON*2) negative hit points. When at negative hit points each round you lose one hit point until you die or are healed
 
 Magic:
 - in order to cast a spell well, you need to know the spell list (magic list) that contains it. Knowing a list of magic costs one feat, Adept of Magic
-- every 3 points in Magic Proficiency you learn a basic list of magic (max first level of spells)
+- every 3 points in Magic Proficiency you learn a basic list of magic (first level of spells)
 - The "free" spells are not known. Each spell must be found and copied onto your tome of magic.
 - Depending on your Magic Proficiency score you can learn new spells. A known spell is a spell copied to the tome of magic, a learned spell can be cast as many times as you want.
 - Casting a spell costs a magic point equal to the level of the spell, depending on the magic proficiency score you have more magic points
@@ -86,19 +86,19 @@ Magic:
 - the spellcaster can use a magic test/use more magical energies to make the spell more difficult to resist, automatically get a critical effect or work in a particular way
 - a spell can be cast and then wait before manifesting it
 - companions can collaborate in casting spells making it more effective
-- spells are those of dnd5e, with several additions and many modifications
+- spells are those of dnd5e, with several additions and many more modifications
 
 
 Potions, Poisons, Diseases and drugs:
 there is a rich recipe book for all enthusiasts
 
 Monsters:
-- those of the 5e srd plus the missing classics, plus many other new ones, all meaner
+- those of the 5e srd plus the missing classics, plus many other new ones, all tougher
 - monsters when seriously injured can get angry and become even more dangerous
 
 Experience Points:
 - based on the monsters killed, the group collaboration, the ideas and proposals received
-- you get experience points for treasure and gold coins found
+- get experience points for treasure and gold coins found
 
 
 Fate Points:
