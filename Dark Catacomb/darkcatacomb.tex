@@ -1257,7 +1257,7 @@ Quando si parla di "\textbf{quadretto}" \index{Quadretto}per indicare una distan
 
 Nel caso di spostamento diagonale\index{Movimento diagonale}\index{Spostarsi di lato} si conta una distanza di 2 quadretti, in caso di arrotondamenti sull'ultimo quadretto si fa per eccesso.
 
-\textbf{Se ci si sposta in terreno "difficile"}, si consumano il doppio di PA per spostarsi di 1.5 metri.
+\textbf{Se ci si sposta in terreno "difficile"}, si consumano il +1 PA per spostarsi di 1.5 metri.
 
 \subsection{Distanza}\index{Distanza}\label{distanza}
 
@@ -3360,7 +3360,7 @@ Luce Diurna  & 6 metri & 12 metri & 1 ora \\
 
 \medskip
 
-La \textbf{Luce fioca}\index{Luce Fioca} è la luce oltre una fonte di luce. E' il passare in un corridoio di 3 metri se è illuminato solo da fioche candele. Era una notte di luna piena finchè c'era...
+La \textbf{Luce fioca}\index{Luce Fioca} è la luce oltre una fonte di luce. E' il passare in un corridoio di 3 metri se è illuminato solo da fioche candele. Era una notte di luna piena finché c'era...
 
 In linea di massima una fonte di luce crea luce fioca in un raggio doppio rispetto al raggio di luce normale. Una creatura in Luce Fioca ha un -2 alle Prove di Consapevolezza.
 
@@ -3506,7 +3506,11 @@ Colossale  & 10d6\\
 
 \bigskip
 
-Lasciar cadere addosso ad una creatura un oggetto richiede una Prova di Corpo (non c'è  PDAA). Questi attacchi hanno di solito una gittata di 3 metri. Se un oggetto cade su una creatura (invece di venire lanciato), quella creatura deve effettuare una Prova di Corpo per dimezzare il danno se è consapevole dell'oggetto che sta cadendo. Gli oggetti cadenti che sono parte di una trappola usano le regole relative alle trappole invece che quelle qui descritte.
+Lasciar cadere addosso ad una creatura un oggetto equivale a riuscire in una Prova di Rissa con Svantaggio. 
+
+Questi attacchi hanno di solito una gittata di 3 metri. Se un oggetto cade su una creatura (invece di venire lanciato), quella creatura deve effettuare una Prova di Corpo per dimezzare il danno se è consapevole dell'oggetto che sta cadendo.
+
+Gli oggetti cadenti che sono parte di una trappola usano le regole relative alle trappole invece che quelle qui descritte.
 
 \subsubsection{Pericoli dell'Acqua}\index{Pericoli dell'Acqua}\index{Acqua}
 
@@ -3608,7 +3612,7 @@ Quando si muovono nelle differenti situazioni di movimento (Tattico, Locale Via 
 
 Il personaggio che corre ha 2 Penalità al PDAA ed al PDAD.
 
-Correre come azione di movimento raddoppia la velocità di movimento e non la triplica. Solo in situazioni di non combattimento la corsa triplica il movimento (movimento locale, via terra)
+In situazioni di non combattimento la corsa triplica il movimento (movimento locale, via terra)
 
 \subsection{Tabella: Movimento e Distanza e Velocita': a Piedi}\index{Movimento a Piedi}\index{Tabella Movimento e Distanza e Velocità : a Piedi}
 
@@ -3648,9 +3652,7 @@ Può anche usare un PA per effettuare uno scatto ovvero spostandosi fino a 3 met
 
 Terreno difficile, ostacoli o scarsa visibilità possono impedire i movimenti. Quando il movimento è ostacolato ci si muove a metà della velocità, sono necessarie +1 Punti Azione per coprire 1.5 metri, ovvero servono 2 PA ogni 1.5 metri.
 
-Se esiste più di una condizione particolare, aggiungere tra loro tutti i costi aggiuntivi applicabili, ovvero se un terreno è difficile e ci si muove a carponi significa che ogni 1.5 costa 3 PA.
-
-Ogni condizione di maggiore difficoltà aumenta il costa in PA per 1.5m di 1.
+Se esiste più di una condizione particolare, aggiungere tra loro tutti i costi aggiuntivi applicabili, ovvero se un terreno è difficile e ci si muove a carponi significa che ogni 1.5 costa 1 PA +1 PA (terreno difficile) +1 PA (carponi).
 
 In alcune situazioni il movimento è talmente ostacolato\index{Movimento quasi impossibile} che la distanza percorribile e' minima. In tal caso si possono utilizzare tutte e 10 i PA per muoversi di solo 1.5 metri in qualsiasi direzione.
 
@@ -3666,7 +3668,13 @@ Il terreno dove sono presenti dei corpi di creature si considera difficile\index
 
 \index{Attraversare nemici}\index{Movimento attraverso}Un personaggio può \textbf{attraversare} ma non sostare in \textbf{una zona occupata} da un compagno.
 
-Per attraversare il terreno dove c'è una creatura ostile è necessario eseguire una Prova di Corpo contrapposta a quello dell'avversario al quale si vuole \textbf{attraversare} il terreno. Se si fallisce la prova si torna nel quadretto più prossimo che non sia della creatura che si voleva attraversare od occupato. Attraversare uno spazio occupato da una creatura avversario costa, oltre ai PA per movimento fatto 1 PA in più per creatura attraversata.
+Per attraversare il terreno dove c'è una creatura ostile è necessario eseguire una Prova di Corpo contrapposta a quello dell'avversario al quale si vuole \textbf{attraversare} il terreno.
+
+Se si fallisce la prova si torna nel quadretto più prossimo che non sia della creatura che si voleva attraversare od occupato.
+
+Uno spazio occupato da una creatura avversaria si considera terreno difficile.\index{Terreno difficile e nemici}
+
+Attraversare un terreno dove ci sono creature amichevoli non comporta prove o costi aggiuntivi di PA.
 
 
 \subsubsection{Scambiarsi di posto}\index{Scambiarsi di posto}\index{Scambiarsi di posto}\label{scambiarsidiposto}
@@ -3741,9 +3749,9 @@ Tundra Ghiacciata & x1  & \texttimes 3/4 & \texttimes 3/4\\
 
 In un giorno di cammino normale, si può camminare per 8 ore. Il resto del giorno viene sfruttato per fare e disfare il campo, riposarsi e mangiare.
 
-Se si cammina di più di 8 ore è necessario effettuare un Tiro Salvezza su Tempra a difficoltà 11 +1 per ogni giorno consecutivo di marcia forzata o si diventa Affaticati. Il Tiro Salvezza viene effettuato ogni 2 ore oltre le 8 di cammino.
+Se si cammina di più di 8 ore è necessario effettuare una Prova di Corpo con un MS di +1 per ogni giorno consecutivo di marcia forzata o si diventa Affaticati. La Prova di Corpo viene effettuata ogni 2 ore oltre le 8 di cammino.
 
-La marcia forzata può essere tenuta per un numero di giorni pari al valore di Costituzione+1 prima di incorrere nell'Affaticamento indipendentemente dall'esito del Tiro Salvezza.
+La marcia forzata può essere tenuta per un numero di giorni pari al valore di Corpo+1 prima di incorrere nell'Affaticamento indipendentemente dall'esito della Prova di Corpo.
 
 
 \textbf{Movimento in sella}\index{Movimento in sella}\label{movimentoacavallo}
@@ -3789,7 +3797,9 @@ Galea (remi e vele) & 15000kg & 6km  & 144km \\
 
 Una cavalcatura può portare in groppa una creatura solo se di taglia inferiore alla sua. Il movimento al giorno si intende per 6 ore di cavalcata, oltre queste ore la cavalcatura si sfianca richiedendo un giorno intero di riposo.\index{Ore di cavalcata al giorno}
 
-**Zattere, chiatte e barconi sono usati su laghi e fiumi. Se seguono la corrente, sommare la velocità della corrente (di solito 4,5 km/h) alla velocità dell'imbarcazione. Oltre a essere spinta con i remi per 10 ore, l'imbarcazione può anche essere trasportata dalla corrente per altre 14 ore, se qualcuno è in grado di guidarla, e quindi si aggiungono altri 63 km alla distanza giornaliera percorsa. Queste imbarcazioni non possono essere spinte a remi contro una corrente molto forte, ma possono essere tirate controcorrente da animali da soma sulla riva.
+**Zattere, chiatte e barconi sono usati su laghi e fiumi. Se seguono la corrente, sommare la velocità della corrente (di solito 4,5 km/h) alla velocità dell'imbarcazione. Oltre a essere spinta con i remi per 10 ore, l'imbarcazione può anche essere trasportata dalla corrente per altre 14 ore, se qualcuno è in grado di guidarla, e quindi si aggiungono altri 63 km alla distanza giornaliera percorsa.
+
+Queste imbarcazioni non possono essere spinte a remi contro una corrente molto forte, ma possono essere tirate controcorrente da animali da soma sulla riva.
 
 \textbf{Bardature da Cavalcatura}\index{Bardature da Cavalcatura}\index{Armature da Cavallo}
 
@@ -3814,16 +3824,18 @@ Portare un rotolo di 12 metri x 6 metri di seta non è una attività fisica impe
 
 Ci possono essere oggetti leggeri ma estremamente ingombranti (tronchi cavi, tappeti di seta appunto..) oppure piccoli ma pesantissimi (sfere di mercurio, vestiti intessuti d'oro), per tutti questi oggetti il valore del peso deve essere ragionato anche in funzione dell'ingombro.
 
-Ogni oggetto ha un proprio valore di Ingombro, in linea di massima \textbf{ogni 3 kg si ha 1 come fattore di Ingombro}. Questo valore può diventare anche 5Kg se l'oggetto è facilmente trasportabile. I valori di Ingombro degli oggetti si sommano tra di loro per dare il carico totale portato da confrontare con la Capacità di Carico della creatura.\index{Kili ed Ingombro}
+Ogni oggetto ha un proprio valore di Ingombro, in linea di massima \textbf{ogni 3 kg si ha 1 come fattore di Ingombro}. Questo valore può diventare anche 5Kg se l'oggetto è facilmente trasportabile.
+
+I valori di Ingombro degli oggetti si sommano tra di loro per dare il carico totale portato da confrontare con la Capacità di Carico della creatura.\index{Kili ed Ingombro}
 
 Gli oggetti con scarso peso e volume hanno ingombro \textbf{Leggero} (L). Questi oggetti contano come 1 di Ingombro ogni 10. Ogni 500 monete si ha 1 di Ingombro.\index{Ingombro delle monete}
 
 
 \subsubsection{Capacita' di Carico}\label{capacitadicarico}\index{Capacita' di Carico}
 
-La Capacità di Carico di una creatura è data dalla somma di fattori quali Taglia e Corpo.
+La Capacità di Carico di una creatura è data dalla somma di fattori quali Taglia e modificatore di Corpo (Corpo -10).
 
-La Taglia di una creatura concede un bonus alla \textbf{CdC} (Capacità di Carico) pari a 9 se Piccola, 16 se Media, 25 se Grande. L'Ingombro di una creatura se trasportata di peso è pari alla metà della sua Capacità di Carico data dalla taglia più il suo ingombro.\index{Ingombro Creature trasportate}
+La Taglia di una creatura concede un bonus alla \textbf{CdC} (Capacità di Carico) pari a 9 se Piccola, 16 se Media, 25 se Grande.
 
 Quando la CdC totale viene superata allora muoversi diventa problematico.  Si diviene appesantiti e si usano 2 PA per 1.5 m. 
 
@@ -3831,9 +3843,9 @@ Se la CdC viene doppiata allora non ci si può più muovere per l'ingombro dei p
 
 \textit{Ricordate che l'armatura e scudo indossati hanno un Ingombro dimezzato rispetto a quanto segnato.}
 
-Es. Tups ha indosso una Armatura ad Anelli (ingombro 2 essendo indossata), una spada lunga (arma media, incombro 2), una mazza chiodata (ing. 2), 18 oggetti leggeri (ing. 1), uno zaino (ing. 1), una tenda (ing. 2), una lanterna (ing 1). Totale Ingombro = 11.
+Es. Tups ha indosso una Armatura ad Anelli (ingombro 2 essendo indossata), una spada lunga (arma media, ingombro 2), una mazza chiodata (ing. 2), 18 oggetti leggeri (ing. 1), uno zaino (ing. 1), una tenda (ing. 2), una lanterna (ing 1). Totale Ingombro = 11.
 
-Tups e' una creatura Media con Forza -1 e Costituzione -1 (è un po' gracile e debole..) questo gli concede una Capacità di Carico di 16-1-1=14.
+Tups e' una creatura Media con Corpo 8 (è un po' gracile e debole..) questo gli concede una Capacità di Carico di 16-2=14.
 
 Se il carico viene appoggiato su un carro puoi spingerlo a movimento pieno se entro il tuo CdC, a metà movimento se entro il doppio della CdC ed ad un quarto del movimento se entro il quadruplo della CdC.
 
@@ -3922,9 +3934,11 @@ Volare per una creatura dotata di questa abilità è come camminare per una crea
 
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-Un giorno, un uomo fu colpito da una freccia avvelenata. Gli amici e i parenti, in ansia, chiamarono un medico. Quando gli si avvicinarono per prendere la freccia, l'uomo disse loro: "Prima di farlo, vorrei sapere chi mi ha trafitto con questa freccia... Era uno schiavo, un re, o un bramino? Era grande? Piccolo? Di che colore era la sua pelle? Dove viveva? E la freccia com'è stata costruita? Quale veleno è stato impiegato? ..."
+Non c'è veleno peggiore del veleno di un serpente,\\
+non c'è ira peggiore dell'ira di un nemico. (Siracide 25-14)\\\medskip
 
-Mentre si stava ponendo tutte queste domande... il veleno fece il suo effetto e l'uomo ferito finì per morire. (Budda)}\end{enfasi}\end{changemargin}\medskip
+Se tu ascolti attentamente la voce del SIGNORE che è il tuo Dio, e fai ciò che è giusto agli occhi suoi, porgi orecchio ai suoi comandamenti e osservi tutte le sue leggi, io non ti infliggerò nessuna delle infermità che ho inflitte agli Egiziani, perché io sono il SIGNORE, colui che ti guarisce (Esodo 15:26)
+}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
