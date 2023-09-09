@@ -583,9 +583,7 @@ Queste Caratteristiche sono \textbf{Corpo} \index{Corpo}, \textbf{Mente} \index{
 
 \subsection{Come stabilire le Caratteristiche del personaggio}\index{Come stabilire le Caratteristiche del personaggio}
 
-Il giocatore tira 2d10 e somma il risultato, questo tiro e computo lo esegue per ogni Caratteristica tranne Vigore.
-
-Se il valore sommato di una Caratteristica è inferiore a 6 segnerai 6 nella Caratteristica. Se il valore sommato di una Caratteristica è superiore a 12 segnerai comunque 12 nella Caratteristica.
+Il giocatore tira 1d6+6 e segna la somma per ogni Caratteristica tranne Vigore.
 
 Il punteggio di \textbf{Vigore} è pari al punteggio di Corpo aumentato dai punti indicati dal Ramo scelto.\index{Vigore iniziale}
 
@@ -661,7 +659,7 @@ Alcune Competenze hanno una importanza peculiare nel sistema: \textbf{Incantamen
 
 Ogni Competenza ha un valore numerico che ne stabilisce il grado di capacità nell'uso, più e' alto maggiore sarà la facilità con cui supero le prove.
 
-Il valore di Caratteristica-10 è usato come modificatore alla Prova assumendo quindi valori sia positivi che negativi, anche se negativo viene comunque chiamato bonus nel manuale.
+Il valore di (Caratteristica-8) è chiamato Modificatore di Caratteristica assumendo quindi valori sia positivi che negativi.
 
 Per verificare l'esito di una Prova di Competenza è necessario sommare il valore di Competenza con il bonus di Caratteristica e sottrarre il risultato della somma di 2d10.\index{Esito della Prova}
 
@@ -669,12 +667,13 @@ Per \textbf{Punteggio di Competenza}\index{Punteggio di Competenza} (PC) (e non 
 
 Si definisce \textbf{Margine di Successo}\index{Margine di Successo} (MS) il valore di differenza tra il Punteggio di Competenza (PC) con quanto tirato con i dadi.\index{Margine di Successo}\index{MS}
 
-Il Margine di Successo (\textbf{MS}) può assumere valori negativi o positivi. Mentre in una prova di Competenza o Caratteristica il successo della stessa è solo nel MS positivo, con una prova contrapposta non è detto che un valore negativo sia un insuccesso, dipende da quanto fatto dal contendente
+Il Margine di Successo (\textbf{MS}) può assumere valori negativi o positivi. Mentre in una Prova di Competenza o Caratteristica il successo della stessa è solo nel MS positivo, con una Prova contrapposta non è detto che un valore negativo sia un insuccesso, dipende da quanto fatto dal contendente
 
 La Prova di Competenza d'Armi viene effettuata sia per Difendersi che per Attaccare. Nel manuale troverete la Prova d'Armi per difendersi come \textbf{PDAD} e quella per Attaccare come \textbf{PDAA}.\index{PDAD}\index{PDAA}
  
-Le \textbf{Prova d'Armi}, sia PDAD che PDAA \index{Prova d'Armi}, come per la altre Prove si effettuano sommando del valore di Competenza con il bonus di Caratteristica (solitamente Corpo) e al risultato si sottrae quello del tiro di 2d10.
-Anche per PDAD e PDAA si può calcolare il Margine di Successo.
+Le \textbf{Prova d'Armi}, sia PDAD che PDAA \index{Prova d'Armi}, come per la altre Prove si effettuano sommando del valore di Competenza con il modificatore di Caratteristica (solitamente Corpo) e al risultato si sottrae quello del tiro di 2d10.
+
+Per PDAD e PDAA è fondamentale calcolare il Margine di Successo.
 
 \subsubsection{I modificatori alla Prova}\index{Modificatori alla Prova}\index{Bonus}\index{Penalità}
 
@@ -684,19 +683,50 @@ Qualora ci sia una \textbf{penalità} (ho fretta, è buio, corro, l'avversario �
 
 Se invece ho un \textbf{bonus} allora la difficoltà della Prova diminuisce, ovvero devo \textbf{diminuire il valore della Prova} effettuata del bonus presente.
 
-Un Bonus sarà un valore positivo che sommo ai 2d10 tirati nella Prova.\index{Applicare il Bonus}. Una Penalità è un valore negativo che sottraggo al Punteggio dei Competenza.
+\subsubsection{Bonus e Penalità}
+
+Un Bonus sarà un valore positivo che sommo al Punteggio di Competenza.\index{Applicare il Bonus}.
+
+Una Penalità è un valore negativo che sottraggo al Punteggio dei Competenza. \index{Applicare Penalità}
 
 I \textbf{modificatori alla Prova si cumulano} tra di loro se omogenei, tutti positivi o tutti negativi, e si annullano o scalano a vicenda se di tipo opposto (bonus e penalità).
 
 Es. Devo scalare una parete. Ho un Bonus perché sono presenti degli appigli, ho una Penalità perché sta piovendo, ho due Bonus perché posso aiutarmi con una corda, ho una Penalità perché è buio. La differenza totale tra bonus e Penalità é di 1 Bonus.
 
-I \textbf{modificatori}, Bonus o Penalità, alla Prove assumono il valore di \textbf{1}, qualora ci sia un solo Bonus o Penalità, \textbf{1d4} qualora ci siano due modificatori omogenei attivi. Nel caso i modificatori siano tre o più, ovviamente di tipo omogeneo, si ha il cosiddetto \textbf{\textit{Vantaggio}} oppure \textbf{\textit{Svantaggio}}.
+I \textbf{modificatori}, Bonus o Penalità, alla Prove assumono il valore di \textbf{1}, qualora ci sia un solo Bonus o Penalità.
+
+Se i Bonus o Penalità diventano 2 allora tirerò 1d4 per calcolare il valore del modificatore della Prova.
+
+Nel caso i modificatori siano tre, ovviamente di tipo omogeneo, si ha il cosiddetto \textbf{\textit{Vantaggio}} oppure \textbf{\textit{Svantaggio}}.
 
 In caso di \textbf{Vantaggio} tiro 3d10 per effettuare la Prova e scarto quello con il valore più alto, poi sommo gli altri due dadi per verificare l'esito della Prova.\index{Vantaggio}
 
 In caso di \textbf{Svantaggio}\index{Svantaggio} tiro 3d10 e scarto quello con valore più basso, poi sommo gli altri due dadi per verificare l'esito della Prova.
 
-Qualora i Bonus o Penalità alla Prova superino i 3 ogni ulteriore modificatore si conta come modificatore numerico e basta. 
+Qualora i Bonus o Penalità alla Prova superino i 3 farò la Prova con Vantaggio o Svantaggio ed il computo dei punti rimanenti si applicheranno come modificatore alla Prova.\index{Molti modificatori}
+
+Questa regola si applica anche agli eventuali Bonus e Penalità che potessero essere al \textbf{danno} causato da un incantesimo o attacco.
+
+\textbf{Esempio}. Carico da Invisibile, ho Vantaggio perché carico (3 Bonus) e Vantaggio perché invisibile (3 bonus). In questo caso la Prova di PDAA la eseguo con Vantaggio ed i 3 punti Bonus rimanenti li uso come +3 da sommare ai dadi tirati.
+
+\textbf{Nel caso di Vantaggio o Svantaggio relativo al danno} \index(Danno con Vantaggio)\index{Attacco con Vantaggio} sottraggo o aggiungo 1 al danno fatto, oppure 1d4 oppure tiro due dadi di danno dell'arma e scelgo il più alto o il più basso a seconda del tipo di modificatore.
+
+Ulteriori Bonus o Penalità al danno oltre il tre si applicano come singoli modificatori al danno.
+
+\textbf{Esempio}. Tups deve arrampicarsi su un albero, che si può considerare come una parete con appigli (2 Bonus).
+Tups ha 8 in Corpo e 4 in Arrampicarsi.
+Il suo Punteggio di Competenza sarà 4+0 (Corpo-8)= 4.
+
+Tups tira con i 2d10 4 e 2, per un totale di 6. Tira il 1d4 e fa 3.
+Tups somma 3 al suo Punteggio di Competenza portandolo a 7 che è superiore a quanto tirato dai dadi. Tups riesce ad arrampicarsi.
+
+\textbf{Esempio}. Lucia trova una boccetta contenente un liquido opalescente in un vecchio laboratorio abbandonato.
+Esegue una Prova di Erboristeria per capire che liquido è.
+Lucia ha Mente 12 ed Erboristeria 6, per un punteggio totale di 4 (12-8) +6 = 10.
+
+L'Arbitro gli dice che il liquido è veramente particolare e non è facile capire cosa potrà essere e impone 1 Penalità. Quindi il Punteggio di Competenza diventa 9.
+
+Lucia tira 2d10 e fa 6 e 4 per un totale di 10. Purtroppo la prova non è riuscita per 1.
 
 \subsection{Prove di Competenza - Prove semplici}\index{Prove di Competenza}\index{Prove Semplici}
 
@@ -706,21 +736,34 @@ E' possibile che sia chiesta una Prova con un MS (Margine di Successo) di un cer
 
 \subsection{Prove Contrapposte}\index{Prove Contrapposte}\index{Prove Contrapposte}
 
-Viene definita una Prova Contrapposta quando la Prova viene eseguita in contrapposizione da due contendenti per valutare chi ha successo.
+\textbf{Viene definita una Prova Contrapposta quando la Prova viene eseguita in contrapposizione da due contendenti per valutare chi ha successo}.
 
-Il raffronto che viene eseguito è solo sul Margine di Successo, chi ha quello maggiormente positivo ha successo.
+\textbf{Il raffronto che viene eseguito è solo sul Margine di Successo, chi ha quello maggiormente positivo ha successo.}
+
+Esempio: Tups e Lucia si sfidano a freccette.
+Entrambi i contendenti effettueranno una Prova d'Armi da Tiro.
+
+Tups in Armi da tiro a 2 ed in Corpo ha 8, Lucia in Armi da Tiro ha 6 ed in Corpo 10.
+
+Tups tira 2d10 e tira 2 ed 3, Lucia tira 2d10 e fa 7 ed 8.
+
+La Prova di Tups ha un MS di (2+0)-(2+3)= -3, un tiro scarso.
+
+La Prova di Lucia ha un MS di (6+2)-(7+8)= -7, un tiro che a fatica prende il tabellone.
+
+La Prova l'ha vinta Tups perché ha il Margine di Successo più alto.
 
 \subsection{Prove senza Competenza}\index{Prove senza Competenza}
 
-A discrezione dell'Arbitro si possono fare Prove di Competenze anche se non si è addestrati.
+Se una Prova richiesta è comunque relativa al Ramo intrapreso è possibile fare una Prova come fosse semplice.
 
-Il Punteggio di Competenza si considera pari al modificatore di Caratteristica.
+Altrimenti non è possibile effettuare la Prova.
 
 \subsection{Migliorare le Competenze}\index{Migliorare le Competenze}\hypertarget{Migliorare le Competenze}{} \label{Migliorare le Competenze}
 
 Ogni qual volta vi effettua una Prova su una Competenza e questa ha come risultato dei dadi \textbf{19 o 20} si mette un segno vicino alla Competenza. Si possono avere fino a cinque segni vicino ad una singola Competenza.
 
-Quando il personaggio ha tempo di riflettere su quanto accaduto, sulle prove che ha fatto e come queste sono riuscite o fallite, può tirare 2d10 e se la somma dei dadi è superiore al suo \textbf{punteggio di Competenza} allora quel punteggio aumenta di 1.
+Quando il personaggio ha tempo di riflettere su quanto accaduto, sulle prove che ha fatto e come queste sono riuscite o fallite, può tirare 2d10 e se la somma dei dadi è superiore al suo \textbf{Punteggio di Competenza} allora quel punteggio aumenta di 1.
 
 Una volta fatta questa tiro si cancellano tre segni dalla Competenza.	
 
@@ -1327,15 +1370,32 @@ Ogni qual volta una creatura \textbf{decida di Attaccare} deve effettuare una Pr
 
 Ogni qual volta una creatura \textbf{vuole difendersi} deve effettuare una Prova d'Arma di difesa (PDAD), ovvero somma il suo valore di Competenza d'Armi, nell'arma che sta usando per difendersi, con il modificatore di Corpo e sottrae la somma di 2d10. La differenza è il Margine di Successo (MS) ottenuto.\index{Difesa}\index{Difendersi}. Se non ha armi in mano usa il valore di Rissa.\index{Difendersi senza armi}
 
-\textbf{L'attaccante confronta il suo MS con quello di chi si difende, se superiore o uguale avrà colpito e causerà i danni al Vigore in base all'arma usata.}
+\textbf{Quando il MS di chi attacca è pari o superiore al MS di chi difende allora chi attacca ha colpito chi si difende. Viceversa se MS di chi si difende è superiore al MS di chi attacca allora chi si difende avrà parato o schivato l'attacco.}
 
-Il linea di massima le Armi piccole causano 1d6 di danno, le Armi medie 1d8, le Armi grandi 1d10, Rissa causa 1d4, controllate questi valori nell'equipaggiamento. Questi numeri sono da aumentare con il modificatore dato da Corpo.\index{Calcolare il danno}
+Chi si difende non usa Punti Azione nel farlo  (non e' neanche il suo round).
+
+Ci sono situazioni che possono avvantaggiare la difesa quali coperture, nascondigli, come fosse, porte, compagni di taglia molto più grande della propria. Consultate i paragrafi relativi ai \hyperlink{coperture}{Nascondigli e Coperture} per capire il vantaggio che possono dare.
+
+\subsubsection{Ferire l'avversario}
+
+Se l'attaccante porta l'attacco con successo allora si calcola il danno causato.
+
+Controllate nell'equipaggiamento il danno causato dalla vostra arma, solitamente le armi più sono piccole meno danno fanno.
+
+Il danno causato dall'attacco andato a segno sarà pari al danno causato dall'arma e da modificatore di Corpo.
+Il Modificatore di Corpo si applica nei combattimenti in corpo a corpo, non si applica con Armi da Tiro come Archi o Balestre.
 
 Al danno causato dall'attacco si sottrae l'eventuale protezione data dall'armatura, il danno rimanente (con un minimo 1) si sottrae al punteggio Vigore.
 
 Se i modificatori e circostanze portano il danno inflitto con un arma ad essere negativo o zero comunque farai 1 danno a Vigore.\index{Danno minimo a Vigore}
 
-Ci sono situazioni che possono avvantaggiare la difesa quali coperture, nascondigli, come fosse, porte, compagni di taglia molto più grande della propria. Consultate i paragrafi relativi ai \hyperlink{coperture}{Nascondigli e Coperture} per capire il vantaggio che possono dare.
+\subsubsection{Quando colpisci molto bene...}\index{Colpire molto bene}
+
+Ogni MS +2 a favore dell'attacco hai 1 Bonus al danno.
+
+\subsubsection{Quando ti difendi molto bene...}\index{Difendersi molto bene}
+
+Ogni MS +4 a favore della difesa ottieni 1 Bonus alla PDAA entro la fine del round successivo.
 
 \subsection{Sfortuna e Fortuna nella prova d'Armi per difenderti}\index{Tiro Fortunato}\index{Tiro Sfortunato}\index{Tiri Bassi o Alti}
 
@@ -1463,22 +1523,6 @@ l'attaccante ha Svantaggio se usa un arma improvvisata, usa un arma senza la com
 
 Chi ha corso nel round ha 2 Penalità al PDAD ed al PDAA
 
-
-\subsubsection{Quando colpisci molto bene...}\index{Colpire molto bene}
-
-quando la differenza tra il MS di chi attacca e quello di chi difende è tra i 3 ed i 5 l'attacco causa 1 punto di danno a Vigore in più.
-
-Se la differenza è tra 6 e 8 causa 2 danni in più.
-
-Se la differenza è 9 o più l'attaccante ha Vantaggio nel dado dell'arma, ovvero tira due dadi per il danno l'arma e sceglie il quello che preferisce.
-
-\subsubsection{Quando ti difendi molto bene...}\index{Difendersi molto bene}
-
-quando la differenza tra il MS di chi si difende e quello di che attacca è tra i 3 ed i 5 ottieni 1 Bonus alla prima PDAA effettuata entro la fine del round successivo.
-
-Se la differenza è tra 6 o 8 ottieni due Bonus alla prima PDAA effettuata entro la fine del round successivo.
-
-Se la differenza è 9 o più ottieni Vantaggio alla prima PDAA entro la fine del round successivo.
 
 \subsubsection{Aiutare un altro}\index{Aiutare}\label{aiutare}
 
