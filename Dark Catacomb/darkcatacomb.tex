@@ -1360,7 +1360,8 @@ un tempo per demolire e un tempo per costruire. (Ecclesiaste, 3:1)
 
 Ogni qual volta una creatura \textbf{decida di Attaccare} deve effettuare una Prova d'Arma d'attacco (PDAA), ovvero somma il suo valore di Competenza d'Armi, nell'arma che sta usando, con il modificatore di Corpo e sottrae la somma di 2d10. La differenza è il Margine di Successo (MS) ottenuto.\index{Attacco}
 
-Ogni qual volta una creatura \textbf{vuole difendersi} deve effettuare una Prova d'Arma di difesa (PDAD), ovvero somma il suo valore di Competenza d'Armi, nell'arma che sta usando per difendersi, con il modificatore di Corpo e sottrae la somma di 2d10. La differenza è il Margine di Successo (MS) ottenuto.\index{Difesa}\index{Difendersi}. Se non ha armi in mano usa il valore di Rissa.\index{Difendersi senza armi}
+Ogni qual volta una creatura \textbf{vuole difendersi} deve effettuare una Prova d'Arma di difesa (PDAD), ovvero somma il suo valore di Competenza d'Armi, nell'arma che sta usando per difendersi, con il modificatore di Corpo e sottrae la somma di 2d10. La differenza è il Margine di Successo (MS) ottenuto.\index{Difesa}\index{Difendersi}.
+Se non ha armi in mano usa il valore di Rissa.\index{Difendersi senza armi}
 
 \textbf{Quando il MS di chi attacca è pari o superiore al MS di chi difende allora chi attacca ha colpito chi si difende. Viceversa se MS di chi si difende è superiore al MS di chi attacca allora chi si difende avrà parato o schivato l'attacco.}
 
@@ -4311,6 +4312,7 @@ E' lasciata alla fantasia dell'Arbitro il ritrovamento di oggetti magici, il sug
 %\textit{Vigore}: (incantamento+arma1+arma2)*1.5+Corpo (arma 1+arma2+arma3)*1.5+Corpo
 %\textit{Comp. Armi}: indicare la competenza armi ed il valore es. Armi medie +6
 %\textit{Comp Incatamento}:  indicare se presente il valore di Incantamento
+%\textit{Difesa}: Riduzione XX, Scudo ZZ
 %\textit{Competenze}: indicare Competenza e punteggio, Cavalcare +3, solitamente mettere 5 competenze oltre le armi
 %\textit{Movimento}: 1PA:1.5m
 %\textit{Sensi speciali}: se la creatura ha Visione Normale, Visione Crepuscolare, Scurovisione, Visione Assoluta. Indicare, tranne per Visione Assoluto la distanza vista
@@ -4338,31 +4340,36 @@ E' lasciata alla fantasia dell'Arbitro il ritrovamento di oggetti magici, il sug
 
 %\textbf{nomecreatura}\index{nomecreatura}:	\\
 %\textit{Tipo}: Umano, Risorto, Demone, Angelo	\\
-%\textit{Corpo}: \\
-%\textit{Mente}: \\
-%\textit{Volontà}:	\\
-%\textit{Vigore}: \\
+%\textit{Corpo}:  - %\textit{Mente}: - %\textit{Volontà}:	\\
+%\textit{Vigore}: - \\ %(arma1+armi/2)*1.5+Corpo
 %\textit{Comp. Armi}: Rissa, Armi piccole , Armi medie , Armi grandi \\
+%\textit{Difesa}: Riduzione XX (armatura), Scudo ZZ (scudo)\\
 %\textit{Comp Incantamento}: 	\\
 %\textit{Competenze}:		\\
-%\textit{Movimento}: 1PA:1.5m	\\
+%\textit{Movimento}: 1 PA x 1.5m	\\
 %\textit{Sensi speciali}: Visione Crepuscolare 18m, Scurovisione, Visione Assoluta 	\\	
+%\textit{Natura Non Morta}: Un Risorto non ha bisogno di aria, cibo, bevande o sonno.
 %\textit{Linguaggi}: Lingua Franca, Celestiale, Demoniaco\\
-%\textit{Difficoltà}:	\\
+%\textit{Difficoltà}: vigore/14 	\\
 %\textit{Azioni Tipiche}: Attacco con arma	\\
 %\textit{Attacco con arma e danno}: 	\\
+%\textit{Abilità speciali}: -	\\
+%\textit{Abilità speciali}: risortobase Immune ad affascinato, avvelenato, affaticamento	\\
+%\textit{Immunità}: demone affascinato, avvelenato, affaticamento	\\
+%\textit{Resistenza}: demone freddo, elettricità, fuoco	\\
 %\textit{Abilità speciali}: -	\\
 %\textit{Ecologia}: 	\\
 %\textit{Descrizione}:	\\
 
+\begin{multicols}{2}
+
 
 \textbf{Bandito Esperto}\index{Bandito Esperto}\\
 \textit{Tipo}: Umano\\
-\textit{Corpo}:11\\
-\textit{Mente}:8\\
-\textit{Volontà}:8\\
+\textit{Corpo}:11 - \textit{Mente}:8 - \textit{Volontà}:8\\
 \textit{Vigore}:  30 \\ %(8+3+2)*1.5+11
 \textit{Comp. Armi}: Armi medie 8, Rissa 6, Armi da tiro 4\\
+\textit{Difesa}: Riduzione 1d3 (Cuoio rinforzato)\\
 \textit{Comp Incantamento}: -\\
 \textit{Competenze}: Atletica 4, Usare corda 3, Mercanteggiare 4, Cavalcare 3, Mani di fata 5\\
 \textit{Movimento}: 1 PA x 1.5m\\
@@ -4370,11 +4377,30 @@ E' lasciata alla fantasia dell'Arbitro il ritrovamento di oggetti magici, il sug
 \textit{Linguaggi}: Lingua Franca\\
 \textit{Difficoltà}: 2\\
 \textit{Azioni Tipiche}: Attacco con arma\\
-\textit{Attacco con arma e danno}: Spada Lunga +11, 1d8+3\\
+\textit{Attacco con arma e danno}: Spada Lunga +11, danno 1d8+3\\
 \textit{Abilità speciali}: -\\
 \textit{Ecologia}: gruppo 1d6\\
 \textit{Descrizione}: umano poco di buono\\
 
+\textbf{Risorto Base}\index{Risorto Base}\\
+\textit{Tipo}: Risorto\\
+\textit{Corpo}:12 - \textit{Mente}:2 - \textit{Volontà}:6\\
+\textit{Vigore}:  24 \\ %(arma1+armi/2)*1.5+Corpo
+\textit{Comp. Armi}: Rissa 8\\
+\textit{Difesa}: -\\
+\textit{Comp Incantamento}: -\\
+\textit{Competenze}: \\
+\textit{Movimento}: 1 PA x 1.5m\\
+\textit{Sensi speciali}: -\\
+\textit{Linguaggi}: Lingua Franca\\
+\textit{Difficoltà}: 1\\
+\textit{Azioni Tipiche}: Attacco con artiglio\\
+\textit{Attacco con arma e danno}: Artiglio +12, danno 1d4+4\\
+\textit{Abilità speciali}: Immune ad affascinato, avvelenato, affaticamento	\\
+\textit{Ecologia}: gruppo 1d6\\
+\textit{Descrizione}: risorto di base, molto simile ad uno zombie\\
+
+\end{multicols}
 
 \pagebreak
 
