@@ -2985,21 +2985,30 @@ La Strega può utilizzare l'incantesimo come è descritto oppure eseguendo una P
 
 La Prova di Incantamento di ogni incantesimo usa il modificatore della Caratteristica indicata nel Prerequisito
 
-- Se tira due volte 1 nella Prova di Incantamento non perde il Costo base di Vigore.
+\begin{itemize}
 
-- Se tira due volte 0 succedono delle brutte cose vedi Fallimento Critico nella Prova di Incantamento.
+\item
+Se tira due volte 1 nella Prova di Incantamento non perde il Costo base di Vigore.
 
-- Se esegue una Prova di Incantamento l'incantesimo riesce purché il Margine di Successo sia entro -2.
+\item
+Se tira due volte 0 succedono delle brutte cose vedi Fallimento Critico nella Prova di Incantamento.
 
-- Se la Prova di Incantamento riesce con un Margine di Successo può scegliere un effetto critico per ogni MS ottenuto.
+\item
+Se esegue una Prova di Incantamento l'incantesimo riesce purché il Margine di Successo sia entro -2.
+
+\item
+Se la Prova di Incantamento riesce con un Margine di Successo può scegliere un effetto critico per ogni MS ottenuto.
+
+\end{itemize}
 
 \textbf{Esempio}: Lucia vuole lanciare un Attacco Energetico e decide di fare una Prova di Incantamento per sperare in un risultato migliore.
 
 Esegue una Prova di Incantamento (ha punteggio 5) e somma il modificatore di Volontà pari a +2.
-Lucia tira 2d10 ed ottiene 9, la Prova ha avuto un Margine di Successo di -2. Per poco non ha invece fallito l'incantesimo!
+Lucia tira 2d10 ed ottiene come somma 9, la Prova ha avuto un Margine di Successo di -2. Per poco non ha invece fallito l'incantesimo!
+
+Mentre i Successi Critici altro non sono che i Margini di Successo ottenuti, per Effetto Critico s intende il gruppo di successi critici che si usa (es. \textit{Con tre successi critico:...} è un effetti critico che usa 3 successi critici).
 
 \subsection{Regole di base}\index{Regole Base per la Magia}\label{magieregoledibase}\index{Incantesimi, Regole base}
-
 
 \begin{itemize}
 
@@ -3010,13 +3019,13 @@ Se non esegue alcuna Prova utilizzerà gli effetti descritti dall'incantesimo se
 Ogni incantesimo ha un Costo in Vigore descritto nell'incantesimo stesso. Se non si paga in anticipo l'incantesimo non funziona correttamente
 
 \item 
-Ogni punto di effetto critico che si usa costa 1 Vigore
+Ogni effetto critico che si usa costa 1 Vigore
 
 \item 
-Ogni due di effetto critico che si usa il PA aumenta di 1
+Ogni tre effetti critici che si usa il PA aumenta di 1. In caso i PA superino i 10, il totale rimane a 10 ma l'incantesimo si manifesta a fine round.
 
 \item 
-Ogni 4 punti Vigore sacrificati in aggiunta al Costo può aggiungere 1 effetto critico all'incantesimo
+Ogni 2 punti Vigore sacrificati in aggiunta al Costo può aggiungere 1 successo critico all'incantesimo
 
 \item 
 Gli effetti critici sono cumulabili quando scritto "Ogni..."
@@ -3027,7 +3036,7 @@ La Riduzione al danno data dall'Armatura se efficace viene esplicitata nella des
 \end{itemize}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-Concedete 1 Bonus quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice "\textit{Lancio una Sfera di Energia}" non otterrà vantaggi ma se con trasporto declama "\textit{Per il sacro Fuoco dell'Eterno Altare! Possano gli Arcangeli distruggervi con le sacre fiamme. Bruciate indegni. Sfera di Energia!}" allora 1 Bonus alla Prova di Incantamento, ridurre il danno a Vigore o anche non aumentare la successiva Prova può starci.
+Concedete 1 Bonus quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice "\textit{Lancio una Sfera di Energia}" non otterrà vantaggi ma se con trasporto declama "\textit{Per il sacro Fuoco dell'Eterno Altare! Possano gli Arcangeli distruggervi con le sacre fiamme. Bruciate indegni. Sfera di Energia!}" allora 1 Bonus alla Prova di Incantamento, ridurre il danno a Vigore.
 \end{narratore}\end{changemargin}
 
 \subsubsection{Imparare un nuovo incantesimo}
@@ -3035,12 +3044,13 @@ Concedete 1 Bonus quando il personaggio declama con perizia e trasporto il lanci
 Una Strega che trova un incantesimo che non conosce deve farsi insegnare a formularlo con una Prova di Incantamento.
 
 \begin{narratore}
-	In Dark Catacomb non esistono i libri di magia o le pergamene di incantesimo. Quando si trova qualcuna che conosce un nuovo incantesimo lo si deve imparare.
+	In Dark Catacomb non esistono i libri di magia o le pergamene di incantesimo, non c'è sistema che permetta di scrivere il canto di un incantesimo. Quando si trova qualcuna che conosce un nuovo incantesimo lo si deve imparare.\\
+	La cosa più simile ad una \textit{pergamena} può essere una boccetta con dentro il canto dell'incantesimo.
 \end{narratore}
 
 \subsubsection{Prova per Colpire con le Magie}\index{Tiro per Colpire con Incantesimi}\label{magietiropercolpireconlemagie}\index{Incantesimi, Tiro per Colpire}
 
-Quando l'incantesimo dice che è necessario colpire l'avversario, la Strega deve effettuare una Prova di Incantamento, con modificatore di Caratteristica in base a quando indicato opposta alla PDAD dell'avversario.
+Quando l'incantesimo dice che è necessario colpire l'avversario, la Strega deve effettuare una Prova di Incantamento, con modificatore di Caratteristica in base a quando indicato opposta alla Prova indicata dall'incantesimo.
 
 \medskip
 
@@ -3060,7 +3070,7 @@ Se la Strega è severamente \textbf{Distratta}, cerca di nascondere il lancio de
 
 Perdi la concentrazione su di un incantesimo se lanci un altro incantesimo che richieda concentrazione. Non ti puoi concentrare su due incantesimi alla volta. Interrompere la concentrazione costa una Reazione.
 
-Se vieni colpito\index{Colpito mentre tieni la concentrazione} mentre sei concentrato su un incantesimo devi effettuare una Prova di Corpo o perdi la concentrazione.
+Se vieni colpito\index{Colpito mentre tieni la concentrazione} mentre sei concentrato su un incantesimo devi effettuare una Prova di Incantamento o perdi la concentrazione.
 
 Mantenere la Concentrazione costa 2 PA a round.\index{Costo PA concentrarsi}
 
@@ -3133,7 +3143,7 @@ Se una Creatura Naturale ha poteri magici allora si considera anche come Creatur
 %il danno subito a vigore e' solitamente pari ad un 1/3 del massimo danno causato
 
 \subsubsection*{Attacco Energetico}\index{Attacco Energetico}
-\textbf{Prerequisiti}: Volontà 6, Incantamento 4
+\textbf{Prerequisiti}: Volontà 6, Incantamento 4\\
 \textbf{Punti Azione}: 4\\
 \textbf{Costo}: 2 Punti Vigore
 \textbf{Gittata}: 9 metri\\
@@ -3149,7 +3159,7 @@ Il bersaglio subisce 1d6 danni a Vigore.\\
 \textbf{Con 3 successo critico}: il dado di dado a Vigore diventa 1d8
 
 \subsubsection*{Barriera Energetica}
-\textbf{Prerequisiti}: Mente 6, Incantamento 6
+\textbf{Prerequisiti}: Mente 6, Incantamento 6\\
 \textbf{Punti Azione}: 6\\
 \textbf{Costo}: 4 Punti Vigore
 \textbf{Gittata}: personale\\
@@ -3163,7 +3173,7 @@ Il bersaglio subisce 1d6 danni a Vigore.\\
 
 
 \subsubsection*{Colpo di Genio}
-\textbf{Prerequisiti}: Corpo 6, Incantamento 6
+\textbf{Prerequisiti}: Corpo 6, Incantamento 6\\
 \textbf{Punti Azione}: 6\\
 \textbf{Costo}: 4 Punti Vigore
 \textbf{Gittata}: personale\\
@@ -3177,7 +3187,7 @@ Ottieni 2 Bonus alla prossima Prova di Competenza entro la fine del round succes
 \textbf{Ogni 3 successo critico}: puoi influenzare una creatura in più
 
 \subsubsection*{Crea Elemento}
-\textbf{Prerequisiti}: Corpo 4, Incantamento 4
+\textbf{Prerequisiti}: Corpo 4, Incantamento 4\\
 \textbf{Punti Azione}: 4\\
 \textbf{Costo}: 2 Punti Vigore
 \textbf{Gittata}: 9 metri\\
@@ -3201,7 +3211,7 @@ L'oggetto scompare alla fine dell'incantesimo o quando annullato con una Reazion
 slow haste
 
 \subsubsection*{Purificazione}
-\textbf{Prerequisiti}: Volontà 10, Incantamento 10
+\textbf{Prerequisiti}: Volontà 10, Incantamento 10\\
 \textbf{Punti Azione}: 8\\
 \textbf{Costo}: 6 Punti Vigore
 \textbf{Gittata}: tocco \\
@@ -3219,7 +3229,7 @@ slow haste
 Veleni, Malattie e Maledizione più infauste possono richiedere un MS maggiore.
 
 \subsubsection*{Sfera di Energia}
-\textbf{Prerequisiti}: Volontà 10, Incantamento 12
+\textbf{Prerequisiti}: Volontà 10, Incantamento 12\\
 \textbf{Punti Azione}: 6\\
 \textbf{Costo}: 12 Punti Vigore
 \textbf{Gittata}: 18 metri\\
@@ -3236,7 +3246,7 @@ I bersagli colpiti subiscono 4d6 danni a Vigore oppure la metà se la loro Prova
 \textbf{Ogni 3 successo critico}: aumenti di 1 metro il raggio di esplosione
 
 \subsubsection*{Tocco di Cura}
-\textbf{Prerequisiti}: Volontà 6, Incantamento 6
+\textbf{Prerequisiti}: Volontà 6, Incantamento 6\\
 \textbf{Punti Azione}: 6\\
 \textbf{Costo}: 3 Punti Vigore
 \textbf{Gittata}: tocco \\
@@ -3362,11 +3372,9 @@ Le terre non si potranno vendere per sempre, perché la terra è mia e voi siete
 	
 Dalle città sotterranee ai dungeon zeppi di trappole, l'ambiente aiuta a definire il mondo, renderlo vivo, dinamico e ricco. Consente di creare un'esperienza di gioco emozionante e coinvolgente.
 	
-\subsection{Regole Ambientali}
-
 \label{regole-ambientali}
 
-\subsubsection{Visione e Luce}\index{Visione}\index{Luce}
+\subsection{Visione e Luce}\index{Visione}\index{Luce}
 
 \label{sec:visione-e-luce}
 
@@ -3473,7 +3481,7 @@ Inoltre, una creatura accecata non può usare incantesimi che prevedano l'uso de
 
 Vedi dettagli modificatori di attacco in \hyperlink{invisibilita}{Invisibilità} (pag \pageref{invisibilita}).
 
-\subsubsection{Cadute}\index{Cadute}\index{Cadere}\hypertarget{cadute}{}
+\subsection{Cadute}\index{Cadute}\index{Cadere}\hypertarget{cadute}{}
 
 \label{cadute}
 
@@ -3497,7 +3505,7 @@ Si subiscono 2d6 di danni da una caduta oltre i 15 metri e si calcola il danno c
 
 I personaggi che si tuffano volontariamente in acqua non subiscono danni se superano una Prova di Atletica o di Nuotare se l'acqua è profonda almeno 6 metri. E' richiesto un MS in più per ogni 5 metri oltre i 15 metri di altezza.
 
-\subsubsection{Effetti dell'Acido}\index{Acido}
+\subsection{Effetti dell'Acido}\index{Acido}
 
 \label{effetti-dellacido}
 
@@ -3507,13 +3515,13 @@ I vapori prodotti dalla maggior parte degli acidi sono equivalenti a veleni inal
 
 Le creature immuni alle proprietà caustiche dell'acido potrebbero comunque annegare se vi vengono totalmente immerse (vedi Annegamento).
 
-\subsubsection{Effetti del Fumo}\index{Fumo}
+\subsection{Effetti del Fumo}\index{Fumo}
 
 \label{effetti-del-fumo}
 
 Un personaggio costretto a respirare del fumo denso deve superare un Tiro di Corpo ogni round. E' richiesto un MS per ogni round che permane nell'area di fumo oppure passa il round a tossire e soffocare. Un personaggio che continua a soffocare per 2 round consecutivi subisce 1d6 Danni Non Letali per ulteriore round di esposizione. Il fumo oscura la vista, fornendo Copertura leggera (+2 alla PDAD) ai personaggi che si trovano al suo interno.
 
-\subsubsection{Fame e Sete}\index{Fame}\index{Sete}
+\subsection{Fame e Sete}\index{Fame}\index{Sete}
 
 \label{fame-e-sete}
 
@@ -3523,7 +3531,7 @@ Ogni giorno senza cibo è necessario effettuare una Prova di Corpo con un MS di 
 
 Se si fallisce la Prova di Corpo si subiscono 1d4 di danno e si diventa sempre più Affaticati. Le penalità date dall'affaticamento rimangono finché non si mangia e beve abbastanza.
 
-\subsubsection{Oggetti Cadenti}\index{Oggetti Cadenti}
+\subsection{Oggetti Cadenti}\index{Oggetti Cadenti}
 
 \label{oggetti-cadenti}
 
@@ -3562,7 +3570,7 @@ Questi attacchi hanno di solito una gittata di 3 metri. Se un oggetto cade su un
 
 Gli oggetti cadenti che sono parte di una trappola usano le regole relative alle trappole invece che quelle qui descritte.
 
-\subsubsection{Pericoli dell'Acqua}\index{Pericoli dell'Acqua}\index{Acqua}
+\subsection{Pericoli dell'Acqua}\index{Pericoli dell'Acqua}\index{Acqua}
 
 \label{pericoli-dellacqua}
 
@@ -3580,7 +3588,7 @@ Se la Prova di Corpo fallisce il personaggio va immediatamente a 0 di Vigore e s
 
 Si può annegare in sostanze diverse dall'acqua, come la sabbia, le sabbie mobili, la polvere molto fine o un silos pieno di farro o semplicemente trattenendo il respiro.
 
-\subsubsection{Pericoli del Caldo}\index{Caldo}
+\subsection{Pericoli del Caldo}\index{Caldo}
 
 \label{pericoli-del-caldo}
 
@@ -3590,7 +3598,7 @@ Temperature superiori causano lo stesso ammontare di danno ma per minuto reale.
 
 L'acqua bollente infligge 1d6 danni da scottatura, a meno che il personaggio non vi venga completamente immerso, nel qual caso subirebbe 10d6 danni per round di esposizione.
 
-\subsubsection{Prendere Fuoco}\index{Prendere Fuoco}\index{Fuoco}
+\subsection{Prendere Fuoco}\index{Prendere Fuoco}\index{Fuoco}
 
 \label{prendere-fuoco}
 
@@ -3607,7 +3615,7 @@ La lava o il magma infliggono 2d6 danni per round di esposizione, tranne in caso
 I danni provocati dal magma continuano per 1d3 round dopo il termine dell'esposizione, ma questi danni addizionali sono solo la metà di quelli inflitti durante l'ultimo round di effettivo contatto. Un'Immunità o una Resistenza al fuoco serve anche come resistenza o resistenza alla lava o al magma. Tuttavia, le creature Immuni o Resistenti al Fuoco potrebbero annegare se immerse nella lava (vedi Annegamento).
 
 
-\subsubsection{Pericoli del Freddo}\index{Freddo}
+\subsection{Pericoli del Freddo}\index{Freddo}
 
 \label{pericoli-del-freddo}
 
@@ -3623,7 +3631,7 @@ Temperature sotto i -20° C causano 1d6 di danno ogni minuto reale. Solo protezi
 
 I personaggi che camminano sul ghiaccio è come se camminassero su terreno difficile. 
 
-\subsubsection{Soffocamento Lento}\index{Soffocamento}
+\subsection{Soffocamento Lento}\index{Soffocamento}
 
 Un personaggio di taglia Media può respirare tranquillamente per circa 6 ore in una camera sigillata che misura 3 metri di lato. Dopo questo tempo, subisce 1d6 Danni Non Letali ogni 15 minuti. Ogni ulteriore personaggio di taglia Media oppure ogni fuoco significativo (una torcia, per esempio) riducono proporzionalmente la durata dell'aria respirabile. Una volta privi di sensi per l'accumulo di Danni Non Letali, i personaggi iniziano a subire Danni Letali allo stesso ritmo. I personaggi di taglia Piccola consumano metà dell'aria dei personaggi di taglia Media.
 
@@ -4312,6 +4320,13 @@ E' lasciata alla fantasia dell'Arbitro il ritrovamento di oggetti magici, il sug
 \pagebreak
 
 \section{Mostruario}
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Non lasciarti vincere dal male, ma vinci con il bene il male. (Romani 12:21)\\
+
+La nostra battaglia infatti non è contro creature fatte di sangue e di carne, ma contro i Principati e le Potestà, contro i dominatori di questo mondo di tenebra, contro gli spiriti del male che abitano nelle regioni celesti. (Efesini 6:12)
+
+}\end{enfasi}\end{changemargin}\medskip
 
 %\textbf{Nome Creatura}\index{nomecreatura}:
 %\textit{Tipo}: Umano, Risorto, Demone, Angelo
