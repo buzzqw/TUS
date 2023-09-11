@@ -929,7 +929,7 @@ In acque calme basta una Prova riuscita di nuotare, se le acque sono mosse il MS
 
 Concede 1 Bonus ad una Prova di Caratteristica contro un veleno se non ha ancora fatto effetto. Costo \textbf{2 minuti}. Con MS di +6 costa 1 minuto. Con MS +9 costa 3 round, con MS +12 costa 1 round.
 
-Una Prova riuscita riduce di 1 i danni da \hyperlink{sanguinamento}{\textbf{Sanguinamento}}. Se la Prova riesce con MS +3 riduce di 2 punti, con MS +6 riduce di 3 punti.
+Una Prova riuscita riduce di 1 i danni da \hyperlink{sanguinamento}{\textbf{Sanguinamento}}. Ogni MS +3 riduci di 1 punto ulteriore il sanguinamento.
 
 Un trattamento di almeno 8 ore permette di recuperare al paziente il doppio di Corpo in punti Vigore. Se effettuato durante le ore di riposo chi prende cura risulterà Affaticato.
 
@@ -3360,7 +3360,6 @@ Dissolvi Magie
 Dissolvi il Male
 ESP
 Evoca Elementale
-Fulmine Magico
 Giara Magica
 Immagine Illusoria
 Immagine Proiettata
@@ -3374,7 +3373,6 @@ Invisibilità
 Invisibilità nel Raggio di 3 Metri
 Lettura dei Linguaggi
 Lettura del Magico
-Levitazione
 Localizzare Oggetto
 Luce (Oscurità)
 Luce Perenne (Oscurità Perenne)
@@ -3410,13 +3408,11 @@ Silenzio nel Raggio di 5 Metri
 Sonno
 Spostamento del Terreno
 Telecinesi
-Teletrasporto
 Terreno Illusorio
 Trasforma Pietra in Carne
 Trasforma Roccia in Fango
-Velocità
 Ventriloquio
-Volare
+
 
 
 
@@ -4483,9 +4479,27 @@ La nostra battaglia infatti non è contro creature fatte di sangue e di carne, m
 \textit{Ecologia}: gruppo 1d6\\
 \textit{Descrizione}: umano poco di buono\\
 
+\textbf{Risorto Affamato}\index{Risorto Affamato}\\
+\textit{Tipo}: Risorto\\
+\textit{Corpo}:14 - \textit{Mente}:2 - \textit{Volontà}:6\\
+\textit{Vigore}:  29 \\ %(arma1+armi/2)*1.5+Corpo
+\textit{Comp. Armi}: Rissa 10\\
+\textit{Difesa}: -\\
+\textit{Comp Incantamento}: -\\
+\textit{Competenze}: \\
+\textit{Movimento}: 1 PA x 1.5m\\
+\textit{Sensi speciali}: -\\
+\textit{Linguaggi}: Lingua Franca\\
+\textit{Difficoltà}: 2\\
+\textit{Azioni Tipiche}: Attacco con artiglio o morso\\
+\textit{Attacco con arma e danno}: Artiglio +12, danno 1d4+4 +1 Sanguinamento; Morso +10, danno 1d4+6\\
+\textit{Abilità speciali}: Immune ad affascinato, avvelenato, affaticamento	\\
+\textit{Ecologia}: gruppo 2d6\\
+\textit{Descrizione}: risorto di base, molto simile ad uno zombie ma più forte ed affamato\\
+
 \textbf{Risorto Base}\index{Risorto Base}\\
 \textit{Tipo}: Risorto\\
-\textit{Corpo}:12 - \textit{Mente}:2 - \textit{Volontà}:6\\
+\textit{Corpo}:12 - \textit{Mente}:2 - \textit{Volontà}:4\\
 \textit{Vigore}:  24 \\ %(arma1+armi/2)*1.5+Corpo
 \textit{Comp. Armi}: Rissa 8\\
 \textit{Difesa}: -\\
@@ -4493,7 +4507,7 @@ La nostra battaglia infatti non è contro creature fatte di sangue e di carne, m
 \textit{Competenze}: \\
 \textit{Movimento}: 1 PA x 1.5m\\
 \textit{Sensi speciali}: -\\
-\textit{Linguaggi}: Lingua Franca\\
+\textit{Linguaggi}: -\\
 \textit{Difficoltà}: 1\\
 \textit{Azioni Tipiche}: Attacco con artiglio\\
 \textit{Attacco con arma e danno}: Artiglio +12, danno 1d4+4\\
@@ -4514,10 +4528,11 @@ La nostra battaglia infatti non è contro creature fatte di sangue e di carne, m
 \textbf{Affaticato}\index{Affaticato}: ogni grado di affaticamento corrisponde ad una Penalità alle Prove di Caratteristica e Competenza. Quando superano le 3 ogni Penalità aggiuntiva è un -1 alla Prova.
 Quando le Penalità totali superano i -6 si muore.
 
+\textbf{Immunità}\index{Immunità}: una creatura Immune ad una tipologia di danno o effetto non è influenzato dallo stesso.
 
 \textbf{Resistenza}\index{Resistenza}: una creatura Resistente ad una tipologia di danno dimezza, prima di qualsiasi Prova, il danno ricevuto dalla stessa tipo 
 
-\textbf{Immunità}\index{Immunità}: una creatura Immune ad una tipologia di danno o effetto non è influenzato dallo stesso.
+\textbf{Sanguinamento}\index{Sanguinamento}: una creatura che soffre di Sanguinamento perde un numero di Vigore pari al valore di Sanguinamento alla fine di ogni suo round.
 
 \pagebreak
 \pagebreak
