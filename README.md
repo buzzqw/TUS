@@ -2,7 +2,7 @@
 
 **Welcome to my Role Play Games archive!**
 
-you will find several role-playing days, all designed by me, complete rules (and pdf) that allow you to play and have fun with friends.
+you will find several role-playing systems, all designed by me, complete rules (and pdf) that allow you to play and have fun with friends.
 
 I suggest you focus your attention on two systems:
 
