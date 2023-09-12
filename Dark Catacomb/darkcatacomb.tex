@@ -48,22 +48,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{imakeidx}
 \usepackage{cancel}
 
-\def\CountIndexOccurrences#1{%
-	\expandafter\newcount\csname #1\endcsname%
-	\expandafter\newcount\csname #1\endcsname%
-	\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
-	\IfFileExists{#1.idx}{\input{#1.idx}}{}%
-}
-\CountIndexOccurrences{OBSS}
-\CountIndexOccurrences{Incantesimi}
-\CountIndexOccurrences{Mostruario}
-\CountIndexOccurrences{OggettiMagici}
-\def\TotalBox#1{\vfill%
-	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
 \makeindex[columns=3, title=Indice Analitico, intoc=true]
-\makeindex[columns=3, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
-\makeindex[columns=3, name=Mostruario, title=Lista dei Mostri, intoc=true]
-\makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
 \usetikzlibrary{shapes.misc,calc}
 \definecolor{lightgray}{gray}{0.95}
 \usetikzlibrary{shapes.misc,calc}
@@ -75,6 +60,8 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \fancyhead[RE,LO]{}
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+
+
 \usepackage{xltabular}
 \usepackage{tabularx}
 \usepackage{pdfpages}
@@ -586,7 +573,7 @@ Il punteggio di \textbf{Vigore} è pari al punteggio di Corpo aumentato dai punt
 \subsubsection{I modificatori alla prove}\index{Modificatori alla prove}
 
 Ogni Prova di Competenza viene modificata dal punteggio della Caratteristica connessa. 
-Il modificatore alla prove di Competenza è pari al punteggio di Caratteristica -10. Nelle Competenze è indicata la Caratteristica che la modifica. Questo modificatore viene applicato sia che abbia un valore positivo o negativo al valore della Competenza.
+Il modificatore alla prove di Competenza è pari al punteggio di Caratteristica -8. Nelle Competenze è indicata la Caratteristica che la modifica. Questo modificatore viene applicato sia che abbia un valore positivo o negativo al valore della Competenza.
 
 \end{multicols}
 
