@@ -1,35 +1,33 @@
-[![Compila OBSS](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml)
-[![Compila OBSS english](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml)
+**ENGLISH**
 
+**Welcome to my Role Play Games archive!**
 
-**A semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v3.pdf** !!! (update to latest commit!!)
-Here you can read an extreme summary of the system [OBSS](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-in-short.txt)
+you will find several role-playing days, all designed by me, complete rules (and pdf) that allow you to play and have fun with friends.
 
-In questo repository troverete tre giochi di ruolo (RPG o GDR) strettamente connessi, TUS e DBS e [OBSS](https://github.com/buzzqw/TUS/tree/master/OBSS)
+I suggest you focus your attention on two systems:
 
-Tutto parte da TUS, un rpg ispirato a D20 (e' licenziato con la Attribution-ShareAlike 4.0 International) che usa 3d6 al posto del d20 per una distribuzione normalizzata. E' un sistema classless dove la magia e' freeform ed e' ispirata a Ars Magica e Talislanta. Il sistema e' basato su prove i cui dadi possono esplodere (anche il danno) ed un sistema di svantaggi e vantaggi alla Gurps.
-Non c'e' allineamento ma un sistema di Tratti che vanno a caratterizzare il personaggio.
+- **OBSS (Old Bell School System)**: a system loosely based on 5e. Very complete and tested.  [OBSS](https://github.com/buzzqw/TUS/tree/master/OBSS)
 
-TUS e' il sistema, un po' complesso nella gestione magica da cui e' disceso DBS.
+- **Dark Catacomb**: a new, different system, with a simplified set of rules. Set in a world where the Apocalypse has arrived.  [Dark Catacomb](https://github.com/buzzqw/TUS/tree/master/Dark%20Catacomb)
 
-DBS prende l'impalcatura (competenze, combattimento, tratti, patroni) di TUS e sostituisce la parte piu' complessa, quella della magia con un sistema di base 5ed modificato pesantemente.
+The manuals are provided in source files in TEX format and compiled in PDF. The role-playing games present here are free, you can download them and use them as you wish, in compliance with the license.
 
-Purtroppo anche DBS ha ricevuto critiche per la parte di magia, non per la complessita' ma per il rischio intrinseco a lanciare gli incantesimi.
+**Italiano**
 
-E allora e' nato OBSS, dove la magia e' a Spell Point ma comunque ha quel quid che la rende piu' avvincente e non "rischiosa".
+**Benvenuti nel mio archivio di giochi di ruolo!**
 
-**OBSS e' il sistema attualmente sviluppato e giocato, TUS e DBS vengono lasciati per coerenza storica.
-Entrate nella cartella OBSS e scaricate il PDF del manuale e della scheda!**
+troverai diverse sistemi di giochi di ruolo, tutte create da me, regole complete (e pdf) che ti permetteranno di giocare e divertirti con gli amici.
 
-Qui il Print on Demand (POD) su Amazon https://www.amazon.it/dp/B09R3HPJJX
+Ti suggerisco di focalizzare la tua attenzione su due sistemi:
 
-OBSS viene fornito in file sorgente in formato TEX e compilato in PDF. I giochi di ruolo qui presenti sono gratuiti, potete scaricarli ed usarli a vostro piacimento, nel rispetto della licenza.
+- **OBSS (Old Bell School System)**: un sistema vagamente basato su 5e. Molto completo e testato. [OBSS](https://github.com/buzzqw/TUS/tree/master/OBSS)
+
+- **Catacomba Oscura**: un sistema nuovo e diverso, con un insieme di regole semplificato. Ambientato in un mondo in cui è arrivata l'Apocalisse. [Catacomba oscura](https://github.com/buzzqw/TUS/tree/master/Dark%20Catacomb)
+
+I manuali vengono forniti in file sorgente in formato TEX e compilato in PDF. I giochi di ruolo qui presenti sono gratuiti, potete scaricarli ed usarli a vostro piacimento, nel rispetto della licenza.
 
 Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian) con xelatex (per via del font usato che aiuta nella lettura ed e' amichevole per chi soffre di dislessia). Per compilare uso la stringa latexmk -xelatex --shell-escape OBSS.tex
 
-Il gioco e' completo anche se in fase di costante perfezionamento. Nel manuale c'e' la parte per i Giocatori, per il Narratore (il Master) e pure il mostruario (senza immagini...). E' anche disponibile uno schermo per il Narratore anche se e' MOLTO poco bello...
-
 **Nota**: abbiate pazienza per il pessimo codice di Latex, sono alle prime armi!
-
 
 Andres Zanzani
