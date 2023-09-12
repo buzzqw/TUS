@@ -22,7 +22,7 @@ Ti suggerisco di focalizzare la tua attenzione su due sistemi:
 
 - **OBSS (Old Bell School System)**: un sistema vagamente basato su 5e. Molto completo e testato. [OBSS](https://github.com/buzzqw/TUS/tree/master/OBSS)
 
-- **Catacomba Oscura**: un sistema nuovo e diverso, con un insieme di regole semplificato. Ambientato in un mondo in cui è arrivata l'Apocalisse. [Catacomba oscura](https://github.com/buzzqw/TUS/tree/master/Dark%20Catacomb)
+- **Dark Catacomb**: un sistema nuovo e diverso, con un insieme di regole semplificato. Ambientato in un mondo in cui è arrivata l'Apocalisse. [Catacomba oscura](https://github.com/buzzqw/TUS/tree/master/Dark%20Catacomb)
 
 I manuali vengono forniti in file sorgente in formato TEX e compilato in PDF. I giochi di ruolo qui presenti sono gratuiti, potete scaricarli ed usarli a vostro piacimento, nel rispetto della licenza.
 
