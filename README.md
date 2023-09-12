@@ -1,4 +1,4 @@
-**ENGLISH**
+-------------------------------  **ENGLISH**  -------------------------------  
 
 **Welcome to my Role Play Games archive!**
 
@@ -12,7 +12,7 @@ I suggest you focus your attention on two systems:
 
 The manuals are provided in source files in TEX format and compiled in PDF. The role-playing games present here are free, you can download them and use them as you wish, in compliance with the license.
 
-**Italiano**
+-------------------------------  **Italiano**  -------------------------------  
 
 **Benvenuti nel mio archivio di giochi di ruolo!**
 
