@@ -368,7 +368,8 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 Aggiungere immagini:
 
-179 fine elenco incantesimi
+178 fine incantesimi normali
+190 inizia svantaggi
 298 fine Le avventure in OBSS
 356 fine Descrizione degli Oggetti Magici
 
