@@ -364,7 +364,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79 pubblicata versione 0.78b, aggiornamento per pod
 
-0.79a 
+0.79a chiarimenti su durata luce
 
 - aggiunti \label{} fino a piani
 
