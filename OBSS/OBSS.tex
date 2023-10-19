@@ -129,15 +129,16 @@ boxrule=0.3pt
 	\smash{\includegraphics[keepaspectratio=true,height=\dimexpr\zposy{top-\thepage}sp-\zposy{bottom-\thepage}sp\relax,#1]{#2}}%
 	\par
 }
-
+\newcommand\Yuge{\fontsize{42}{50}\selectfont}
 
 \usepackage{accanthis}
 \usepackage[framemethod=TikZ]{mdframed}
 
-
 \begin{document}
 \def \versione {0.79b} \fontsize{10}{12}\selectfont
+
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
+
 
 \bigskip
 Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni\\
@@ -3693,7 +3694,7 @@ Crepuscolare & Normale & Invisi. (pag. \pageref{invisibilita})\\
 Questa opzione vuole semplificare la gestione di qualsiasi prova contrapposta, possa essere relativo a della Competenze di Base o Attiva.
 
 Quando una creatura/personaggio ha un vantaggio o svantaggio tira in aggiunta 1d6 alla prova. Se ha due vantaggi tira 2d6, se ne ha tre di vantaggi tira 3d6... 
-Alla prova aggiunge o sottrae, in caso di bonus o penalità, il valore più alto tra i dadi tirati. Per questi dadi non vale l'esplosione del risutato.
+Alla prova aggiunge o sottrae, in caso di bonus o penalità, il valore più alto tra i dadi tirati. Per questi dadi non vale l'esplosione del risultato.
 
 Uno Svantaggio annulla un Vantaggio se presente.
 
@@ -7243,6 +7244,10 @@ Con questa regola opzionale l'incantatore può lanciare un incantesimo, entro il
 
 Quando l'incantatore scende sotto il 50\% dei Punti Magia a disposizione ogni ulteriore lancio di incantesimi deve essere fatto con una Prova di Magia.
 
+\subsubsection*{Opzionale - Il Vizio della Magia}\index{Opzionale - Il Vizio della Magia}
+
+Se volete un approccio che riduca la quantità di incantesimi lanciati dagli incantatori, stabilite che il costo in Punti Magia di ogni incantesimo è pari al Livello  dell'incantesimo + il costo stesso x le volte che è già stato lanciato, al giorno.
+
 \subsubsection{Successo Critico Automagico}\index{Successo Critico Automagico}\index{Nova}\label{magienova}\index{Incantesimi, Successo Critico automatico}
 
 L'incantatore può decidere di spendere in aggiunta il \textbf{doppio dei Punti Magia} normali dell'incantesimo per avere in automatico un \textbf{successo critico magico}.
@@ -7305,9 +7310,11 @@ Se l'incantatore non ha ripassato gli incantesimi appena sveglio o comunque prim
 
 \subsubsection{Tiro per Colpire con le Magie}\index{Tiro per Colpire con Incantesimi}\label{magietiropercolpireconlemagie}\index{Incantesimi, Tiro per Colpire}
 
-Quando l'incantesimo ti dice di fare un Tiro per Colpire se è un "\textbf{attacco a distanza con incantesimo}" devi effettuare un Tiro per Colpire contro la Difesa dell'avversario. Questo Tiro per Colpire è effettuato con 3d6+ \textbf{Competenza Armi} + Destrezza + Abilità e modificatori vari.
+Diversi incantesimi devono essere scagliati e colpire un avversario per funzionare. 
 
-Se il \textbf{Tiro per Colpire con incantesimo è in mischia} eseguirai un Tiro per Colpire contro la Difesa dell'avversario con il valore di Forza. Questo tiro per colpire è effettuato con 3d6+ \textbf{Competenza Armi} + Forza ed Abilità e modificatore vari.
+Quando l'incantesimo di dice di fare un \textit{Tiro per colpire con incantesimo} (a distanza o mischia) devi effettuare un Tiro per Colpire contro la Difesa dell'avversario.
+
+Questo Tiro per Colpire è effettuato con 3d6+ \textbf{Competenza Armi} + \textbf{Modificatore di caratteristica per incantesimi} + \textbf{Abilità} e \textbf{modificatori vari}.
 
 E' anche possibile che sia richiesto un Tiro per Colpire con incantesimo a tocco, in questo caso la Difesa del soggetto diviene 10 + Destrezza + oggetti magici, ignorando armatura e scudo.
 
@@ -7319,12 +7326,7 @@ Quando la magia è ad area non è necessario effettuare un Tiro per Colpire se n
 
 \subsubsection{Opzionale - Tiro per Colpire con Incantesimi}\index{Opzionale - Tiro per Colpire con Incantesimi}
 
-Se volete facilitare il colpire agli incantatori suggerisco due possibili approcci:
-
-- Il Tiro per Colpire è modificato non dalla Forza o Destrezza ma dal Modificatore di caratteristica per incantesimi
-
-- Il Tiro per Colpire è basato non dalla Competenza Armi + Forza/Destrezza ma da Competenza Magica + Modificatore di caratteristica per incantesimi
-
+Se volete facilitare il colpire agli incantatori potete decidere che il Tiro per Colpire è modificato non dalla Competenza Armi ma dalla Competenza Magica.
 
 \subsubsection{L'esplosione del 6 nella Magia}\index{Esplosione del 6 nella Magia}\label{magieesplosionedelsei}\index{Critico Magico}
 

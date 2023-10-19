@@ -368,7 +368,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79a aggiornamento per pod
 
-0.79b minori correzioni, 
+0.79b minori correzioni, aggiunto regola opzione su costo degli incantesimi, cambiate regole per tiro per colpire a caster, aggiornata scheda, aggiornata scheda utilita', 
 
 
 
