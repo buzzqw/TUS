@@ -107,7 +107,7 @@ rounded corners = southeast, % "round" the bottom right corner
 arc is angular, % make the "round" corner an angle
 arc = 3mm, % controls corner cut
 boxrule=0.6pt, % sets box line thickness
-underlay={%
+underlay={% 
 \path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
 \path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
 \path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
