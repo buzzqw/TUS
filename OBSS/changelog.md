@@ -372,7 +372,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79b aggiornamento per pod
 
-0.79c pubblicata verisone 0.79b
+0.79c pubblicata verisone 0.79b, correzioni linguistiche, 
 
 
 
