@@ -7066,8 +7066,7 @@ If a spell targets a creature of your choice or an ally, you can also choose you
 
 Spells such as Burning Wave and cone of cold cover an area, allowing him to strike multiple creatures at once.
 
-A spell description specifies its area of effect, which usually falls in one of five shapes: cylinder, cone, cube, line, or sphere. Each area of effect has a point of origin, a place from which the spell's energy manifests. The rules for each shape specify how to place its point of origin. Usually the point of origin is a point in space, but some spells have an area whose origin is a creature or object.
-
+A spell description specifies its area of effect, which usually falls in one of five shapes: cylinder, cone, cube, line, or sphere. Each area of effect has a point of origin, a place from which the spell's energy manifests. The rules for each shape specify how to place its point of origin. Usually the point of origin is a point in space, but some spells have an area whose origin is a creature or object. The origin point must always be valid.
 
 \begin{itemize}
 \item \textit{\textbf{Cylinder}}: A cylinder's point of origin is the center of a circle of specified radius, as indicated in the spell description. The circle must be on the floor or level with the spell's effect. The energy in a cylinder expands in straight lines from the point of origin to the perimeter of the circle, forming the base of the cylinder. The effect of the spell then starts from bottom to top or from top to bottom, up to a distance equal to the height of the cylinder. The point of origin of the cylinder is included in its area of effect.
@@ -7083,9 +7082,9 @@ A spell description specifies its area of effect, which usually falls in one of 
 \textit{\textbf{Line}}: A line extends from its point of origin in a straight path along its entire length and covers an area defined by its width. The point of origin of the line is not included in its area of effect, unless you decide otherwise.
 
 \item
-\textit{\textbf{Sphere}}: Select the point of origin of a sphere and the sphere will extend from that point until it meets an insurmountable obstacle or its size expressed in radius. The size of the sphere is given as the radius in meters extending from that point. The sphere's point of origin is included in its area of effect.
+\textit{\textbf{Sphere}}: select the point of origin of a sphere, which must be valid (see Range and Targets) and the sphere will extend from that point until it encounters an insurmountable obstacle or its size expressed in the radius . The size of the sphere is indicated as the radius in meters that extends from that point. The sphere's point of origin is included in its area of ​​effect.
 
-A fireball that is spawned in a 9x9m room will take a good chunk of it, and in a 6x6m room it will fill it all. In a 3x3m room, if it has the opportunity to exit through a door or window, it will continue its explosion up to a 6m radius. A fireball in a 3x3m corridor will saturate it 3m back and forth from its point of origin.
+A fireball that is spawned in a 9x9m room will take a good chunk of it, and in a 6x6m room it will fill it all. In a 3x3m room, if it has the opportunity to exit through a door or window, it will continue its explosion up to a 6m radius. A fireball in a 3x3m corridor will saturate it 6m back and forth from its point of origin.
 
 \end{itemize}
 
@@ -7276,19 +7275,28 @@ Spell Points are all recovered with 8 hours of rest.\index{Spell, Recovering Spe
 
 
 %\begin{tabularx}{0.45\textwidth}{XX|XX}
-%\textbf{Comp. Magia} & \textbf{Punti Magia}&\textbf{Comp. Magia} & %\textbf{Punti Magia}\\
-%\hline
-%1&5 &11&61\\
-%2&8&12&72\\
-%3&11&13&84\\
-%4&14	&14&97\\
-%	5&	17	&15&111\\
-%	6&	21	&16&116\\
-%	7&	26	&17&132\\
-%	8&	34	&18&149\\
-%	9&	42	&19&167\\
-%	10&	51	&20&186\\
-%	20+&prec.+ 19&&\\
+%\textbf{Livello Inc.} & \textbf{Punti Magia}&\textbf{Livello Inc.} & \textbf{Punti Magia}\\
+
+%1& 	2	& 6& 	9\\
+%2& 	3	& 7&	10\\
+%3&		5	& 8& 	11\\
+%4& 	6	& 9& 	13\\
+%5&	7&&\\
+%\end{tabularx}
+
+
+%\begin{tabularx}{0.45\textwidth}{XX|XX}
+%\textbf{Comp. Magia} & \textbf{Punti Magia}&\textbf{Comp. Magia} & \textbf{Punti Magia}\\
+%1 &	4	&2 	&6\\
+%3 &	14	&4 	&17\\
+%5 &	27	&6 	&32\\
+%7 &	38	&8	&44\\
+%9 &	57	&10 &64\\
+%11&	73	&12 &73\\
+%13 &83	&14 &83\\
+%15 &94	&16 &94\\
+%17 &107	&18 &114\\
+%19 &123	&20 &133\\
 %\end{tabularx}
 
 

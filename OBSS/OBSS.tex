@@ -6996,7 +6996,7 @@ Se un incantesimo prende come bersaglio una creatura a tua scelta od un alleato,
 
 Incantesimi come Onda rovente e cono di freddo coprono un'area, permettendogli di colpire più creature alla volta.
 
-La descrizione di un incantesimo specifica la sua area di effetto, che di solito rientra in una di queste cinque forme: cilindro, cono, cubo, linea o sfera. Ogni area di effetto ha un punto di origine, un luogo da cui si manifesta l'energia dell'incantesimo. Le regole per ciascuna forma specificano come posizionare il suo punto di origine. Di solito il punto di origine è un punto nello spazio, ma alcuni incantesimi hanno un'area la cui origine è una creatura o un oggetto.
+La descrizione di un incantesimo specifica la sua area di effetto, che di solito rientra in una di queste cinque forme: cilindro, cono, cubo, linea o sfera. Ogni area di effetto ha un punto di origine, un luogo da cui si manifesta l'energia dell'incantesimo. Le regole per ciascuna forma specificano come posizionare il suo punto di origine. Di solito il punto di origine è un punto nello spazio, ma alcuni incantesimi hanno un'area la cui origine è una creatura o un oggetto. Il punto di origine deve essere sempre valido.
 
 \begin{center}
 	\includegraphics[width=0.55\linewidth]{immagini/3dforme.png}
@@ -7018,9 +7018,9 @@ La descrizione di un incantesimo specifica la sua area di effetto, che di solito
 \textit{\textbf{Linea}}: una linea si estende dal suo punto di origine in un percorso dritto per tutta la sua lunghezza e copre un'area definita dalla sua larghezza. Il punto di origine della linea non è incluso nella sua area di effetto, a meno che tu non decida altrimenti.
 
 \item
-\textit{\textbf{Sfera}}: selezioni il punto di origine di una sfera e la sfera si estenderà da quel punto fino ad incontrare un ostacolo insormontabile o la sua dimensione espresse nel raggio. La misura della sfera è indicata come raggio in metri che si estende da quel punto. Il punto di origine della sfera è incluso nella sua area di effetto.
+\textit{\textbf{Sfera}}: selezioni il punto di origine di una sfera, che deve essere valido (vedi Gittata e Bersagli) e la sfera si estenderà da quel punto fino ad incontrare un ostacolo insormontabile o la sua dimensione espresse nel raggio. La misura della sfera è indicata come raggio in metri che si estende da quel punto. Il punto di origine della sfera è incluso nella sua area di effetto.
 
-Una palla di fuoco che viene generata in una stanza di 9x9 m ne prenderà una buona parte e in una stanza di 6x6 m la riempirà tutta. In una stanza di 3x3 m se ha modo di uscire da una porta od una finestra continuerà la sua esplosione fino ad arrivare ai 6 metri di raggio. Una palla di fuoco in un corridoio di 3x3 m lo saturerà per 3 metri avanti e indietro dal punto di origine.
+Una palla di fuoco che viene generata in una stanza di 9x9 m ne prenderà una buona parte e in una stanza di 6x6 m la riempirà tutta. In una stanza di 3x3 m se ha modo di uscire da una porta od una finestra continuerà la sua esplosione fino ad arrivare ai 6 metri di raggio. Una palla di fuoco in un corridoio di 3x3 m lo saturerà per 6 metri avanti e indietro dal punto di origine.
 
 \end{itemize}
 
@@ -7210,23 +7210,30 @@ I Punti Magia si recuperano tutti con 8 ore di riposo.\index{Incantesimi, Recupe
 
 \end{tabularx}
 
-
 %\begin{tabularx}{0.45\textwidth}{XX|XX}
-%	\textbf{Comp. Magia} & \textbf{Punti Magia}&\textbf{Comp. Magia} & %\textbf{Punti Magia}\\
-%	\hline
-%	1&	5 	&11&61\\
-%	2&	8	&12&72\\
-%	3&	11	&13&84\\
-%	4&	14	&14&97\\
-%	5&	17	&15&111\\
-%	6&	21	&16&116\\
-%	7&	26	&17&132\\
-%	8&	34	&18&149\\
-%	9&	42	&19&167\\
-%	10&	51	&20&186\\
-%	20+&prec.+ 19&&\\
+%\textbf{Livello Inc.} & \textbf{Punti Magia}&\textbf{Livello Inc.} & \textbf{Punti Magia}\\
+
+%1& 	2	& 6& 	9\\
+%2& 	3	& 7&	10\\
+%3&		5	& 8& 	11\\
+%4& 	6	& 9& 	13\\
+%5&	7&&\\
 %\end{tabularx}
 
+
+%\begin{tabularx}{0.45\textwidth}{XX|XX}
+%\textbf{Comp. Magia} & \textbf{Punti Magia}&\textbf{Comp. Magia} & \textbf{Punti Magia}\\
+%1 &	4	&2 	&6\\
+%3 &	14	&4 	&17\\
+%5 &	27	&6 	&32\\
+%7 &	38	&8	&44\\
+%9 &	57	&10 &64\\
+%11&	73	&12 &73\\
+%13 &83	&14 &83\\
+%15 &94	&16 &94\\
+%17 &107	&18 &114\\
+%19 &123	&20 &133\\
+%\end{tabularx}
 
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
