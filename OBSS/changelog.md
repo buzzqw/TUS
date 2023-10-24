@@ -359,7 +359,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 0.78a pubblicata versione 0.77d, aggiornata copertina, aggiornata descrizione scurovisione
 
 0.78a aggiornamento per pod
-
+a
 0.78b chiarimenti su salire gradini
 
 0.79 pubblicata versione 0.78b, aggiornamento per pod
@@ -372,7 +372,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79b aggiornamento per pod
 
-0.79c pubblicata verisone 0.79b, correzioni linguistiche, 
+0.79c pubblicata verisone 0.79b, correzioni linguistiche, rilettura capitolo regole su oggetti magici, avventure e disastri, avventure nei dungeon, 
 
 
 
