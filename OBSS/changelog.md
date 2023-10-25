@@ -372,7 +372,7 @@ a
 
 0.79b aggiornamento per pod
 
-0.79c pubblicata verisone 0.79b, correzioni linguistiche, rilettura capitolo regole su oggetti magici, avventure e disastri, avventure nei dungeon, ingrandite immagini razze, 
+0.79c pubblicata verisone 0.79b, correzioni linguistiche, rilettura capitolo regole su oggetti magici, avventure e disastri, avventure nei dungeon, ingrandite immagini razze, rilettura delle razze modificata abilia' golian gigante delle colline  e golian gigante di pietra, 
 
 
 
