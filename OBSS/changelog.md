@@ -372,7 +372,7 @@ a
 
 0.79b aggiornamento per pod
 
-0.79c pubblicata verisone 0.79b, correzioni linguistiche, rilettura capitolo regole su oggetti magici, avventure e disastri, avventure nei dungeon, ingrandite immagini razze, rilettura delle razze modificata abilia' golian gigante delle colline  e golian gigante di pietra, rilettura caratteristiche, aggiunta abilita' allungo, rivisto regole per prove contrapposte
+0.79c pubblicata verisone 0.79b, correzioni linguistiche, rilettura capitolo regole su oggetti magici, avventure e disastri, avventure nei dungeon, ingrandite immagini razze, rilettura delle razze modificata abilia' golian gigante delle colline  e golian gigante di pietra, rilettura caratteristiche, aggiunta abilita' allungo, rivisto regole per prove contrapposte, aggiornata prova di intimidire, chiarite usi ed esempi di prove contrapposte, 
 
 
 
