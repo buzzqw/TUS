@@ -1898,9 +1898,9 @@ Se ottieni \textbf{tre volte 6 nel Tiro Salvezza} lo stesso è riuscito, indipen
 
 La \textbf{Competenza Armi} (abbreviata in \textbf{CA}) indica la capacità e bravura nell'usare un arma. La competenza si riflette direttamente nelle prove per colpire l'avversario con armi.
 
-Il \textbf{Tiro per Colpire per le armi da mischia}\index{Armi da mischia} si risolve con una prova di Competenza Armi (\textbf{CA}) + \textbf{Forza} + eventuali Abilità e bonus magici contrapposto alla Difesa dell'avversario (Destrezza + armatura/scudi/bonus).
+Il \textbf{Tiro per Colpire per le armi da mischia}\index{Armi da mischia} si risolve con una prova di Competenza Armi (\textbf{CA}) + \textbf{Forza} + eventuali Abilità e bonus magici contro la Difesa dell'avversario (Destrezza + armatura/scudi/bonus).
 
-Il \textbf{Tiro per Colpire con armi da distanza} \index{Armi da distanza}(archi, balestre, pugnali da lancio, giavellotti, sassi..) si risolve con una prova di Competenza Armi (\textbf{CA}) + \textbf{Destrezza} + eventuali capacità e bonus magici contrapposto alla Difesa dell'avversario (Destrezza + armatura/scudi/bonus).
+Il \textbf{Tiro per Colpire con armi da distanza} \index{Armi da distanza}(archi, balestre, pugnali da lancio, giavellotti, sassi..) si risolve con una prova di Competenza Armi (\textbf{CA}) + \textbf{Destrezza} + eventuali capacità e bonus magici contro la Difesa dell'avversario (Destrezza + armatura/scudi/bonus).
 
 Quando si assegna un punto ad \textbf{CA} va sempre precisata su quale gruppo di arma si prende, se non si dichiara allora è come averlo preso nel gruppo Armi Semplici.
 Controllare l'elenco \hyperlink{lista.armi}{Armi per Tipologia Omogenea} (pag. \pageref{lista.armi}).\index{Tipologia Omogenea}
@@ -2333,9 +2333,11 @@ Se vi dicono "convinco la guardia a farci passare" fate fare una prova di Intimi
 
 Ci sono situazioni in cui il personaggio deve effettuare una prova in contrapposizione con un avversario, ad esempio muoversi silenziosamente alle spalle di una guardia, rubare dalle tasche del mercante, intimidire l'orchetto per farsi dare indicazioni..
 
-In questi casi il personaggio ed il Narratore effettuano una prova, chi ottiene il valore più alto vince, in caso di parità vince chi ha il valore più alto nella Competenza, poi nella Caratteristica ed infine l'eventuale "avversario".
+In questo caso il personaggio effettua una prova la cui \textbf{difficoltà (DC) è pari 10 + il punteggio} della Competenza / Tiro Salvezza / modificatori dell'avversario.
 
-Per \textbf{velocizzare} il gioco potete decidere di impostare la difficoltà (per il \textit{giocatore}) a 10 + Tiro Salvezza / Competenza / modificatori dell'avversario ... evitando di tirare i dadi per i \textit{nemici} e fornendo un DC statica da battere.\index{DC Statica nelle prove contrapposte}\\
+Chi ottiene il valore più alto vince, in caso di parità vince chi ha il valore più alto nella Competenza, poi nella Caratteristica ed infine l'eventuale \textit{avversario}. \index{DC Statica nelle prove contrapposte}
+
+Usate questo sistema di confronto ogni volta che viene chiamata la\textbf{ prova come contrapposta}.\\
 
 \textbf{Alcuni esempi di prova opposte}
 
@@ -2355,11 +2357,11 @@ Per \textbf{velocizzare} il gioco potete decidere di impostare la difficoltà (p
 
 - Slegarsi da delle corde: Usare Corde Vs Artista della fuga
 
-- Braccio di ferro: prova contrapposta Tiro Salvezza Tempra (con modificatore forza)
+- Braccio di ferro: prova contrapposta di Tiro Salvezza Tempra (con modificatore forza)
 
 \medskip
 
-Ogni qual volta la \textbf{prova opposta} riguarda una \textbf{caratteristica} fate fare un Tiro Salvezza come valore contrapposto valutando il tipo e la Caratteristica da usare.
+Ogni qual volta la \textbf{prova opposta} riguarda una \textbf{caratteristica} e non una Competenza fate fare un Tiro Salvezza come valore contrapposto valutando il tipo e la Caratteristica da usare come modificatore.
 
 \subsection{Vantaggi e Svantaggi} \index{Vantaggi}\index{Bonus}\index{Malus}\index{Penalità}\index{Svantaggi}\label{vantaggi}
 
@@ -3130,7 +3132,7 @@ Ogni 8 ore di riposo si recupera il punteggio di Costituzione in Punti Ferita Ma
 
 \begin{multicols}{2}
 
-Il \textbf{Tiro per Colpire} è una prova contrapposta alla Difesa dell'avversario.
+Il \textbf{Tiro per Colpire} è una prova di confronto alla Difesa dell'avversario.
 
 Se l'attaccante usa:
 
@@ -3145,6 +3147,7 @@ Se l'attaccante usa:
 \end{itemize}
 
 Chi si difende ha una \textbf{Difesa} pari a: 10 + Destrezza + Scudo + Armatura + eventuali bonus magici ed Abilità e bonus circostanziali, per i mostri il valore della Difesa è già segnato.
+
 Il giocatore può decidere di rinunciare a del bonus dato dalla Competenza Armi per avere un migliore punteggio di Difesa. Questi punti non saranno a disposizione nell'attacco successivo (vedi Altre azioni e situazioni).
 
 \begin{center}
@@ -19230,7 +19233,7 @@ Il terreno dove sono presenti dei corpi di creature si considera difficile\index
 
 \index{Attraversare nemici}\index{Movimento attraverso}Un personaggio può \textbf{attraversare} ma non sostare in \textbf{una zona occupata} da un compagno senza essere \hyperlink{ristretto}{\textbf{ristretti}}\index{Ristretto}. Se il movimento lo porta a \textbf{condividere}\index{Condividere il quadretto} il medesimo quadretto di mappa (ipotizzando entrambe le creature di taglia media) avrà un -1d6 al Tiro per Colpire ed un -4 alla Difesa.
 
-Per attraversare il terreno dove c'è una creatura ostile è necessario eseguire un Tiro Salvezza su Riflessi o Tempra contrapposto (a scelta) a quello dell'avversario al quale si vuole \textbf{attraversare} il terreno. \textbf{Attraversare lo spazio occupato da un nemico costa 1 Azione}.
+Per attraversare il terreno dove c'è una creatura ostile è necessario eseguire un Tiro Salvezza su Riflessi o Tempra (a scelta) e fare almeno 11 in più del punteggio del Tiro Salvezza di Tempra o Riflessi (il più alto) della creatura avversaria al quale si vuole \textbf{attraversare} il terreno. \textbf{Attraversare lo spazio occupato da un nemico costa 1 Azione}.
 
 Se si fallisce la prova si torna al quadretto più prossimo libero e si considera terminata sia l'Azione di movimento che quella di oltrepassare.
 
