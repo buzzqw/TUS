@@ -372,7 +372,7 @@ a
 
 0.79b aggiornamento per pod
 
-0.79c pubblicata verisone 0.79b, correzioni linguistiche, rilettura capitolo regole su oggetti magici, avventure e disastri, avventure nei dungeon, ingrandite immagini razze, rilettura delle razze modificata abilia' golian gigante delle colline  e golian gigante di pietra, rilettura caratteristiche, aggiunta abilita' allungo, rivisto regole per prove contrapposte, aggiornata prova di intimidire, chiarite usi ed esempi di prove contrapposte, chiarimenti su tiri salvezza incantesimi, chiarimenti su equivalenza attacchi naturali e armi magiche, chiarimento su armi doppie, aggiornato rompi cranio, aggiornato balestre, aggiornato palle rotanti, aggiornamento su lista lance, aggiornato lista scudi
+0.79c pubblicata versione 0.79b, correzioni linguistiche, rilettura capitolo regole su oggetti magici, avventure e disastri, avventure nei dungeon, ingrandite immagini razze, rilettura delle razze modificata abilia' golian gigante delle colline  e golian gigante di pietra, rilettura caratteristiche, aggiunta abilita' allungo, rivisto regole per prove contrapposte, aggiornata prova di intimidire, chiarite usi ed esempi di prove contrapposte, chiarimenti su tiri salvezza incantesimi, chiarimenti su equivalenza attacchi naturali e armi magiche, chiarimento su armi doppie, aggiornato rompi cranio, aggiornato balestre, aggiornato palle rotanti, aggiornamento su lista lance, aggiornato lista scudi
 
 0.79c aggiornamento per pod
 
