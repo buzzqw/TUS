@@ -376,7 +376,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79c aggiornamento per pod
 
-0.79d chiarimenti in prove, dettagli su alternativa a componenti incantesimi, 
+0.79d chiarimenti in prove, dettagli su alternativa a componenti incantesimi, corretto benedizione di cattalm, corretti alcuni errori di battitura in incantesimi, 
 
 
 
