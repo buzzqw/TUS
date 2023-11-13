@@ -376,7 +376,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79c aggiornamento per pod
 
-0.79d chiarimenti in prove, dettagli su alternativa a componenti incantesimi, corretto benedizione di cattalm, corretti alcuni errori di battitura in incantesimi, aggiunta regola opzionale per usare le scambiare le competenza attive al posto dei feat, 
+0.79d chiarimenti in prove, dettagli su alternativa a componenti incantesimi, corretto benedizione di cattalm, corretti alcuni errori di battitura in incantesimi, aggiunta regola opzionale per scambiare le competenza attive con dei feat, aggiornata abilita' Infondere Energia Magica, aggiunta abilita' Infondere Energia Magica Superiore, better english layout, 
 
 
 
