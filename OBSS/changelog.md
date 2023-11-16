@@ -364,7 +364,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79 pubblicata versione 0.78b, aggiornamento per pod
 
-0.79a chiarimenti su durata luce, chiarimenti su quando fare le prove, dettagli su arrampicarsi, aggiornato uso Punti Fato, riformulata distrazione maggiore, aggiornato spirito benevolo, aggiornato premonizione, piccole correnzioni in capitolo magia, aggiornate immagini per le razze, 
+0.79a chiarimenti su durata luce, chiarimenti su quando fare le prove, dettagli su arrampicarsi, aggiornato uso Punti Fato, riformulata distrazione maggiore, aggiornato spirito benevolo, aggiornato premonizione, piccole correnzioni in capitolo magia, aggiornate immagini per le razze
 
 0.79a aggiornamento per pod
 
