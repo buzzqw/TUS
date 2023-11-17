@@ -393,6 +393,7 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
+- ragionare su prova di magia. farla diventare una prova di arcana e contare i successi/multipli di 6 dal valore ?
 - stress, basso alto, bonus e malus, recupero
 - ipotesi togliere incantesimi di 7 8 9 livello
 - spendere i soldi: oggetti magici, fortezze ?
