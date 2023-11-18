@@ -380,7 +380,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79d aggiornamento per pod
 
-0.79e pubblicata versione 0.79d, aggiornata copertina, rivista prova di magia 
+0.79e pubblicata versione 0.79d, aggiornata copertina, rivista prova di magia, aggiunto seconda scelta ad abilita' Incantatore da combattimento, aggiornato muro mentale, corretto esempio tiro salvezza incantesimo,  
 
 
 - aggiunti \label{} fino a piani
