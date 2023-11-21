@@ -74,7 +74,7 @@ Life and death:
 
 Magic:
 - in order to cast a spell well, you need to know the spell list (magic list) that contains it. Knowing a list of magic costs one feat, Adept of Magic
-- every 3 points in Magic Proficiency you learn a basic list of magic (first level of spells)
+- every 4 points in Magic Proficiency you learn a basic list of magic (first level of spells)
 - The "free" spells are not known. Each spell must be found and copied onto your tome of magic.
 - Depending on your Magic Proficiency score you can learn new spells. A known spell is a spell copied to the tome of magic, a learned spell can be cast as many times as you want.
 - Casting a spell costs a magic point equal to the level of the spell, depending on the magic proficiency score you have more magic points
