@@ -380,7 +380,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79d aggiornamento per pod
 
-0.79e pubblicata versione 0.79d, aggiornata copertina, rivista prova di magia, aggiunto seconda scelta ad abilita' Incantatore da combattimento, aggiornato muro mentale, corretto esempio tiro salvezza incantesimo, aggiornata condizione indifeso, modificata abilita' tempesta di furia, aggiunto quinto potenziamento ad armatura della montagna incantata, aggiunto secondo potenzialmente ad estrazione rapida, aggiornato colpo mortale - colpo indebolente - colpo mortale, chiarimenti su danno coordinato - danza della lama - tocco pietoso - un braccio un arma - energia psichica - Iaijutsu - Incantatore da Combattimento - la mia pelle, aggiornate scheda e screen per nuova prova di magia, 
+0.79e pubblicata versione 0.79d, aggiornata copertina, rivista prova di magia, aggiunto seconda scelta ad abilita' Incantatore da combattimento, aggiornato muro mentale, corretto esempio tiro salvezza incantesimo, aggiornata condizione indifeso, modificata abilita' tempesta di furia, aggiunto quinto potenziamento ad armatura della montagna incantata, aggiunto secondo potenzialmente ad estrazione rapida, aggiornato colpo mortale - colpo indebolente - colpo mortale, chiarimenti su danno coordinato - danza della lama - tocco pietoso - un braccio un arma - energia psichica - Iaijutsu - Incantatore da Combattimento - la mia pelle, aggiornate scheda e screen per nuova prova di magia, chiarimenti su concentrazione e concentrazioni multiple, modificato effetto critico magico nel tiro salvezza adesso ogni critico aumenta di 1, 
 
 
 - aggiunti \label{} fino a piani
