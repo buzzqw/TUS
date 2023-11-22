@@ -273,15 +273,15 @@ aggiunto Arrabbiato a:
 
 10/03/2023 aggiornata versione POD
 
-0.69 pubblicata versione 0.68, aggiornata copertina, layout, corretta indicazione punti esperienza per scontro mortale ed epico, layout, aggiunta possibilità ritiro prova se si usano tutti i punti fato, chiarimenti su dissolvi magia e controincantesimo, rottura attrezzi da scasso con fallimento critico prova apertura lucchetto, aggiornato incantesimo disintegrazione, chiarimenti su mettersi sulla difensiva, layout tesori per livello, fixed lettrine, migliorata capacita' animalia, aggiornato famiglio, aggiornata abilita' infondere energia magica, fixed empty fist/hollow hand, layout pag/ref, golian charimenti su danno gigante della tempesta, golian modificati metri aggiuntivi quando grandi, dettagli su combattimento socale, aggiunto incantesimo bastoni in serpenti, specificato azioni per sfondare porte - prendere oggetto pronto, dettagli su alzarsi da prono, aggiornato screen, arricchita sezione come sopravvivere e divertirsi, indicazioni su sessione zero, aggiornate caratteristiche torcia-lanterna-lanterna schermabile introdotto concetto di durata come tempo reale, corretto su schermo disingaggiare, modificati incantesimi luce-luci danzanti-luce diurna-scurovisione-luce perenne, aggiunto schema per modificatori combattimenti al buio, diversi aggiornamenti ad altri incantesesimi di luce, errore calcolo danno da caduta, aggiornato obss-in-breve, rivista assegnazione punti esperienza, modificata tabella punti esperienza per livello, aggiunto in esempio sfida i punti esperienza guadagnati, aggiornata copertina con nuova immagine 
+**0.69** pubblicata versione 0.68, aggiornata copertina, layout, corretta indicazione punti esperienza per scontro mortale ed epico, layout, aggiunta possibilità ritiro prova se si usano tutti i punti fato, chiarimenti su dissolvi magia e controincantesimo, rottura attrezzi da scasso con fallimento critico prova apertura lucchetto, aggiornato incantesimo disintegrazione, chiarimenti su mettersi sulla difensiva, layout tesori per livello, fixed lettrine, migliorata capacita' animalia, aggiornato famiglio, aggiornata abilita' infondere energia magica, fixed empty fist/hollow hand, layout pag/ref, golian charimenti su danno gigante della tempesta, golian modificati metri aggiuntivi quando grandi, dettagli su combattimento socale, aggiunto incantesimo bastoni in serpenti, specificato azioni per sfondare porte - prendere oggetto pronto, dettagli su alzarsi da prono, aggiornato screen, arricchita sezione come sopravvivere e divertirsi, indicazioni su sessione zero, aggiornate caratteristiche torcia-lanterna-lanterna schermabile introdotto concetto di durata come tempo reale, corretto su schermo disingaggiare, modificati incantesimi luce-luci danzanti-luce diurna-scurovisione-luce perenne, aggiunto schema per modificatori combattimenti al buio, diversi aggiornamenti ad altri incantesesimi di luce, errore calcolo danno da caduta, aggiornato obss-in-breve, rivista assegnazione punti esperienza, modificata tabella punti esperienza per livello, aggiunto in esempio sfida i punti esperienza guadagnati, aggiornata copertina con nuova immagine 
 
 30/03/2023 aggiornata versione POD
 
-0.70 pubblicata versione 0.69, aggiornata copertina, aggiornata durata muro di forza, specificato che la creatura creata da simulacro ha meta' di CM e CA, bisogna essere un devoto di Efrem o Shayalia per imparare l'incantesimi trasformazione, il tempo di lancio dell'incantesimi rinascita e' di 10 minuti, capanna protegge solo da incantesimi tipo trucchetto, modificato critico a cavalcatura fantasma, chiarimenti su effetto critico magica su durata incantesimo, aggiunta rabbia a drago rosso antico, qualche correzione su dimensione mostri, aggiunte citazioni per tutti i patroni tranne per quelli della genesi
+**0.70** pubblicata versione 0.69, aggiornata copertina, aggiornata durata muro di forza, specificato che la creatura creata da simulacro ha meta' di CM e CA, bisogna essere un devoto di Efrem o Shayalia per imparare l'incantesimi trasformazione, il tempo di lancio dell'incantesimi rinascita e' di 10 minuti, capanna protegge solo da incantesimi tipo trucchetto, modificato critico a cavalcatura fantasma, chiarimenti su effetto critico magica su durata incantesimo, aggiunta rabbia a drago rosso antico, qualche correzione su dimensione mostri, aggiunte citazioni per tutti i patroni tranne per quelli della genesi
 
 05/04/2023 aggiornata versione POD
 
-0.71 pubblicata versione 0.70, aggiornata copertina, aggiornati playtesters
+**0.71** pubblicata versione 0.70, aggiornata copertina, aggiornati playtesters
 
 06/04/2023 aggiornata versione POD
 
@@ -289,11 +289,11 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 13/04/2023 aggiornata versione POD
 
-0.72 pubblicata versione 0.71, aggiornata copertina, aggiunto nelle condizioni fiancheggiato, aggiunta incantesimo confusione contagiosa, migliorie al layout sessione zero, dettagli su alzarsi da prono, aggiornato layout copertina, modificata magia eterea, aggiornato Gragnola di Limoni Kyrin, dettagli su attacchi a distanza in mischia, aggiunto incantesimo Succo concentrato di Ribes di Kyrin, aggiornato incantesimo passo veloce, layout incantesimi, chiarimenti su capacita' di carico, chiarimenti su invisibilita', aggiornato layout oggetti magici, aggiornata lista oggetti, aggiurnato layout merci e servizi, aggiornata lista d'equipaggiamento con nuovo materiale, chiarimenti su arma vorpal, modificato gemma della luminosita'
+**0.72** pubblicata versione 0.71, aggiornata copertina, aggiunto nelle condizioni fiancheggiato, aggiunta incantesimo confusione contagiosa, migliorie al layout sessione zero, dettagli su alzarsi da prono, aggiornato layout copertina, modificata magia eterea, aggiornato Gragnola di Limoni Kyrin, dettagli su attacchi a distanza in mischia, aggiunto incantesimo Succo concentrato di Ribes di Kyrin, aggiornato incantesimo passo veloce, layout incantesimi, chiarimenti su capacita' di carico, chiarimenti su invisibilita', aggiornato layout oggetti magici, aggiornata lista oggetti, aggiurnato layout merci e servizi, aggiornata lista d'equipaggiamento con nuovo materiale, chiarimenti su arma vorpal, modificato gemma della luminosita'
 
 26/04/2023 aggiornata versione POD x
 
-0.73 pubblicata versione 0.72, aggiornata copertina, aggiornato incantesimo onda tonante, aggiornata abilita' Furia, aggiunta abilita' sifone nero, aggiunte opzioni ad alterare gli incantesimi magia mirata e magia lontana, rinominato dardo incantato in dardo arcano, ogni danno critico che si subisce aumenta la difficolta' della prova di magia, aggiunta tabella punti esperienza per grado di sfida, chiarimenti alla definizione di distratto, chiarimenti su abilita' di lista, verifica font 11 su conversione mostri - elenco mostri per gs, piccoli aggiornamenti su Elenco Manovre d'Arme, modificato distratto, alterare la magia efficace, modificato incantatore prudente, aggiornato screen
+**0.73** pubblicata versione 0.72, aggiornata copertina, aggiornato incantesimo onda tonante, aggiornata abilita' Furia, aggiunta abilita' sifone nero, aggiunte opzioni ad alterare gli incantesimi magia mirata e magia lontana, rinominato dardo incantato in dardo arcano, ogni danno critico che si subisce aumenta la difficolta' della prova di magia, aggiunta tabella punti esperienza per grado di sfida, chiarimenti alla definizione di distratto, chiarimenti su abilita' di lista, verifica font 11 su conversione mostri - elenco mostri per gs, piccoli aggiornamenti su Elenco Manovre d'Arme, modificato distratto, alterare la magia efficace, modificato incantatore prudente, aggiornato screen
 
 
 01/05/2023 aggiornata versione POD
@@ -310,7 +310,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 08/05/2023 aggiornata versione POD
 
-0.74a pubblicata versione 0.73d, aggiornata copertina, aggiornato incantesimo terreno illusorio, aggiornati incantesimi che richiedevano prove su caratteristiche, aggiornato incantesimo identificare, aggiornata procedura di identificazione oggetti magici, aggiornato effetto critico per l'incantesimo allucinazione mortale - cecita' avanzata - colpo infuocato - cono di freddo - esplosione solare - nube mortale - piaga degli insetti - tocco vampiro - tempesta di ghiaccio - palla di fuoco - dardo di fuoco
+**0.74a** pubblicata versione 0.73d, aggiornata copertina, aggiornato incantesimo terreno illusorio, aggiornati incantesimi che richiedevano prove su caratteristiche, aggiornato incantesimo identificare, aggiornata procedura di identificazione oggetti magici, aggiornato effetto critico per l'incantesimo allucinazione mortale - cecita' avanzata - colpo infuocato - cono di freddo - esplosione solare - nube mortale - piaga degli insetti - tocco vampiro - tempesta di ghiaccio - palla di fuoco - dardo di fuoco
 
 08/05/2023 aggiornata versione POD
 
@@ -318,7 +318,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 09/05/2023 aggiornata versione POD
 
-0.75 pubblicata versione 0.74, aggiornata copertina, dettaglio su manovre in combattimento, dettagli su finta, dettagli su prova di magia e costo incantesimi, modificato ingombro torcia e lanterne e olio
+**0.75** pubblicata versione 0.74, aggiornata copertina, dettaglio su manovre in combattimento, dettagli su finta, dettagli su prova di magia e costo incantesimi, modificato ingombro torcia e lanterne e olio
 
 10/05/2023 aggiornata versione POD
 
@@ -334,7 +334,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 30/05/2023 aggiornata versione POD
 
-0.76a pubblicata versione 0.75, aggiornata copertina, migliorata indicazione su conversione mostri, rilettura termini comuni, aggiornato accesso alle liste di magia, aggiornato modificatore per tenere una spada a due mani, diversi chiarimenti e migliorie a layout manovre
+**0.76a** pubblicata versione 0.75, aggiornata copertina, migliorata indicazione su conversione mostri, rilettura termini comuni, aggiornato accesso alle liste di magia, aggiornato modificatore per tenere una spada a due mani, diversi chiarimenti e migliorie a layout manovre
 
 05/06/2023 aggiornata versione POD 
 
@@ -342,7 +342,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 22/06/2023 aggiornata versione POD 
 
-0.77a pubblicata versione 0.76, aggiornata copertina, correzioni minori, aggiornata animalia, estrazione veloce non ha il requistio di destrezza 1, aggiornato muro mentale, chiarimenti su azioni tiro critico, aggiornamenti su tiro critico, rimossa compattazione pdf da pc di casa
+**0.77a** pubblicata versione 0.76, aggiornata copertina, correzioni minori, aggiornata animalia, estrazione veloce non ha il requistio di destrezza 1, aggiornato muro mentale, chiarimenti su azioni tiro critico, aggiornamenti su tiro critico, rimossa compattazione pdf da pc di casa
 
 05/07/2023 aggiornata versione POD
 
@@ -356,13 +356,13 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.77d aggiornamento per pod
 
-0.78a pubblicata versione 0.77d, aggiornata copertina, aggiornata descrizione scurovisione
+**0.78**a pubblicata versione 0.77d, aggiornata copertina, aggiornata descrizione scurovisione
 
 0.78a aggiornamento per pod
 
 0.78b chiarimenti su salire gradini
 
-0.79 pubblicata versione 0.78b, aggiornamento per pod
+**0.79** pubblicata versione 0.78b, aggiornamento per pod
 
 0.79a chiarimenti su durata luce, chiarimenti su quando fare le prove, dettagli su arrampicarsi, aggiornato uso Punti Fato, riformulata distrazione maggiore, aggiornato spirito benevolo, aggiornato premonizione, piccole correnzioni in capitolo magia, aggiornate immagini per le razze
 
@@ -383,6 +383,8 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 0.79e pubblicata versione 0.79d, aggiornata copertina, rivista prova di magia, aggiunto seconda scelta ad abilita' Incantatore da combattimento, aggiornato muro mentale, corretto esempio tiro salvezza incantesimo, aggiornata condizione indifeso, modificata abilita' tempesta di furia, aggiunto quinto potenziamento ad armatura della montagna incantata, aggiunto secondo potenzialmente ad estrazione rapida, aggiornato colpo mortale - colpo indebolente - colpo mortale, chiarimenti su danno coordinato - danza della lama - tocco pietoso - un braccio un arma - energia psichica - Iaijutsu - Incantatore da Combattimento - la mia pelle, aggiornate scheda e screen per nuova prova di magia, chiarimenti su concentrazione e concentrazioni multiple, modificato effetto critico magico nel tiro salvezza adesso ogni critico aumenta di 1
 
 0.79e  aggiornato pod
+
+chiarimenti su distanza per provare ad individuare, 
 
 
 - aggiunti \label{} fino a piani
