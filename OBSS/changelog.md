@@ -384,7 +384,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79e  aggiornato pod
 
-chiarimenti su distanza per provare ad individuare, chiarimenti su lista scudi, chiarimenti su condizione confuso, aggiornata condizione indifeso, corretta citazione di Gygax, rilettura primi capitoli, dettagli sui corollari alle golden rules, note su prendere il 10, altre correzioni linguistiche e chiarimenti, 
+chiarimenti su distanza per provare ad individuare, chiarimenti su lista scudi, chiarimenti su condizione confuso, aggiornata condizione indifeso, corretta citazione di Gygax, rilettura primi capitoli, dettagli sui corollari alle golden rules, note su prendere il 10, altre correzioni linguistiche e chiarimenti, corretta indicazione su riprendersi da perdita punti ferita temporanei, 
 
 
 - aggiunti \label{} fino a piani
