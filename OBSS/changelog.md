@@ -398,6 +398,7 @@ Aggiungere immagini:
 
 > valutare:
 - opportunista valutare se darlo a quali mostri
+- recupero punti ferita cos+2*ca+cm, trovare formula piu' semplice
 - ragionare su prova di magia. farla diventare una prova di arcana e contare i successi/multipli di 6 dal valore ?
 - stress, basso alto, bonus e malus, recupero
 - ipotesi togliere incantesimi di 7 8 9 livello
