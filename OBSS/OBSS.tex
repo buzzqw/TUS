@@ -2590,7 +2590,7 @@ Se il terreno è morbido& DC +10\\
 Se il terreno è stabile& DC +15\\
 Se il terreno è duro& DC +20\\
 Ogni 3 creature inseguite& DC -1\\
-A seconda della taglia& DC +-4\\
+A seconda della taglia& DC $\pm4$\\
 Ogni 24 ore passate / Visibilità scarsa&DC +2\\
 Ogni ora di pioggia&DC +4\\
 %Visibilità scarsa&DC +2\\
@@ -3061,7 +3061,7 @@ Quando un personaggio torna a Punti Ferita positivi dopo che era andato negativo
 
 Quando un personaggio arriva a Punti Ferita negativi pari 10+doppio del suo punteggio di Costituzione é \hyperlink{morto}{\textbf{morto}} [-(10+(COS*2))].
 
-Un personaggio che arriva con i Punti Ferita non Letali a 0 o meno sviene finché i Punti Ferita normali non sono tornati ad 1.
+Un personaggio con i Punti Ferita non Letali a 0 o meno sviene finché i Punti Ferita normali non sono tornati ad 1.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = La morte del personaggio]
 Cerca di capire perché è morto, quali sono le cause, gli errori commessi. Quali sono le scelte che lo hanno portato fino a li. Ogni personaggio che muore è una ferita personale ma anche esperienza e consapevolezza. Fanne tesoro sia tu ma anche tutto il gruppo. Se qualcosa non ha funzionato cercate di capirlo insieme, senza accusarsi o darsi colpe ma con lo spirito consapevole che si può migliorare, tutti.
@@ -3376,7 +3376,7 @@ Se non specificato un'arma doppia usata per combattimento con due armi equivale 
 Gli attacchi fatti con l’arma secondaria si considerano attacchi multipli.
 Se attacco una prima volta, indipendente che sia con l’arma primaria o secondaria, questo avrà il Tiro per Colpire a pieno bonus, gli altri attacchi avranno il -5 al colpire e così via.
 
-Il bonus al danno dato dalla forza sull’arma secondaria viene dimezzato. Se l'arma secondaria non e' \textbf{Leggera} il Tiro per Colpire ha un -1d6.
+Il bonus al danno dato dalla forza sull’arma secondaria viene dimezzato. Se l'arma secondaria non e' \textbf{Leggera} il Tiro per Colpire ha un ulteriore -3 al colpire (es. 0,-8,-10,-18..).
 
 E’ possibile usare l’arma secondaria per migliorare la Difesa di un punto ma non si possono fare attacchi con quell'arma.
 
@@ -3413,12 +3413,11 @@ un Tiro per Colpire effettuato con un'arma con il talento controcarica se usata 
 
 \subsubsection{Preparare una arma lunga/da controcarica contro una carica} \index{Preparare una arma lunga contro una carica}\label{prepararearmalungacontrocarica}
 
-E' una Reazione.
+Solo un arma lunga o con il tratto controcarica può essere usato contro una carica. Preparare l'arma costa una Reazione.
 
 \subsubsection{Carica con Arma da Controcarica} \index{Controcarica}\label{caricaarmadacontrocarica}
 
 se il Tiro per Colpire ha successo quando usi un arma con il talento controcarica per caricare un avversario questa infligge un tiro critico.
-
 
 \subsection{Attacchi con armi a spargimento} \index{Armi a spargimento}\index{Acqua santa}\index{Olio Incediato}\label{attacchiarmidaspargimento}\hypertarget{spargimento}{}
 
@@ -3468,10 +3467,10 @@ Il migliore suggerimento che si può dare nel gestire le situazioni di combattim
 
 Non è una questione di miniature, spazi, quadretti.. è una questione di divertimento e visualizzazione della scena. Soluzioni non ortodosse per situazioni non ortodosse.
 
-Concedete un bonus o penalità (+-1/2 se non esplicitato diversamente) ogni qual volta il giocatore abbia un vantaggio o svantaggio ed allo stesso modo all'avversario.\\
+Concedete un bonus o penalità ($\pm1-2$ se non indicato diversamente) ogni qual volta il giocatore abbia un vantaggio o svantaggio ed allo stesso modo all'avversario.\\
 
 
-\textbf{Esempi in situazione di Attacco (bonus o penalità al Tiro per Colpire). In caso si applichino più bonus o penalità va scelto quello con il punteggio maggiore.}
+\textbf{Esempi in situazione di Attacco (bonus o penalità al Tiro per Colpire)}
 
 \begin{itemize}
 \item Situazioni con +2 bonus: fiancheggiare l'avversario, posizione sopraelevata, attaccare alla schiena, arma lunga  ...
@@ -3689,9 +3688,9 @@ Crepuscolare & Normale & Invisi. (pag. \pageref{invisibilita})\\
 
 \subsection{Opzionale - L'Unica Regola}\index{Opzionale - L'Unica Regola}\hypertarget{lunicaregola}{}\label{lunicaregola}
 
-Questa opzione vuole semplificare la gestione di qualsiasi prova contrapposta, possa essere relativo a della Competenze di Base o Attiva.
+Questa opzione vuole semplificare la gestione di qualsiasi prova contrapposta, possa essere relativa alle Competenze di Base o Attiva.
 
-Quando una creatura/personaggio ha un vantaggio o svantaggio tira in aggiunta 1d6 alla prova. Se ha due vantaggi tira 2d6, se ne ha tre di vantaggi tira 3d6...
+Quando una creatura o personaggio ha un vantaggio o svantaggio tira in aggiunta 1d6 alla prova. Se ha due vantaggi tira 2d6, se ne ha tre di vantaggi tira 3d6...
 Alla prova aggiunge o sottrae, in caso di bonus o penalità, il valore più alto tra i dadi tirati. Per questi dadi non vale l'esplosione del risultato.
 
 Uno Svantaggio annulla un Vantaggio se presente.
@@ -3738,15 +3737,13 @@ I due contendenti perdono il bonus di Destrezza alla Difesa ed ai Tiri Salvezza 
 
 Muovere una creatura afferrata richiede \hyperlink{spingereavversario}{Spingere un avversario}.
 
-Ogni contendente può attaccare l'altro afferrato con un arma piccola usabile con una mano o con pugni e calci.
+Ogni contendente può attaccare l'altro afferrato con un arma piccola o con pugni e calci.
 
 \subsubsection{Fare cadere un avversario*} \index{Fare cadere un avversari}\label{farecadereavversario}
 
 è una Prova Contrapposta di Forza o Destrezza, ogni contendente sceglie quella che preferisce.
 
-Ognuno fa un Tiro Salvezza su Tempra (con modificatore Forza) o Riflessi (con modificatore Destrezza) e si confrontano i risultati.
-
-Per ogni gamba/zampa o differenza di Taglia in più ottieni un bonus di +2 alla prova.
+Per ogni gamba/zampa o differenza di Taglia in più il contendente ottiene un bonus di +2 alla prova.
 
 Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che cade.
 
@@ -3811,7 +3808,7 @@ Combattere da posizione sopraelevata concede un +2 al Tiro per Colpire se l'avve
 Salire o Scendere dalla cavalcatura costa 1 Azione se si ha la competenza Cavalcare, altrimenti 2 Azioni.
 
 \item
-Se una magia o situazione sposta (bruscamente) la cavalcatura contro la tua volontà devi effettuare un Tiro Salvezza su Riflessi a DC 13, o una prova di Cavalcare alla stessa difficoltà, o venire disarcionato
+Se una magia o situazione sposta (bruscamente) la cavalcatura contro la tua volontà devi effettuare un Tiro Salvezza su Riflessi a DC 13, o una prova di Cavalcare alla stessa difficoltà, o venire disarcionato.
 \end{itemize}
 
 
@@ -3838,7 +3835,7 @@ Ogni bonus e penalità riportato da queste 3 Azioni vale solo per la cavalcatura
 
 Fare eseguire una Azione ad una cavalcatura costa 1 Azione al cavaliere.
 
-Se la cavalcatura è intelligente avere un cavaliere non restringe le azioni che la cavalcatura può effettuare e questa si muove e agisce come desidera. Potrebbe fuggire dal combattimento, lanciarsi all'attacco e divorare un nemico ferito gravemente, o agire in qualche altro modo contro la tua volontà.
+Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferisce a discapito delle indicazioni del cavaliere. Potrebbe fuggire dal combattimento, lanciarsi all'attacco e divorare un nemico ferito gravemente, o agire in qualche altro modo contro la volontà di chi la cavalca.
 
 \end{multicols}
 
@@ -3872,11 +3869,11 @@ E se fosse alle nostre spalle e neanche l'abbiamo visto ?
 
 \subsection{La Copertura}\index{Copertura}\label{copertura}
 
-Se l'obiettivo è noto che ci sia ma è occultato in qualche maniera allora si dice che ha "copertura".
+Se l'obiettivo è noto che ci sia ma è occultato in qualche maniera allora si dice che ha \textbf{copertura}.
 
 \begin{itemize}
 \item
-Se l'obiettivo ha più della metà (ma non totale) della superficie "visibile" allora la copertura si definisce \textbf{leggera}, ovvero ha +2 alla Difesa. Può essere il caso di una creatura dietro un altra creatura della medesima taglia o di 1 taglia più grande.
+Se l'obiettivo \textbf{ha più della metà} (ma non totale) della superficie \textit{visibile} allora la copertura si definisce \textbf{leggera}, ovvero ha +2 alla Difesa. Può essere il caso di una creatura dietro un altra creatura della medesima taglia o di 1 taglia più grande.
 
 Può essere il caso di un arciere in piedi dietro un muretto di 1 metro.
 
@@ -3887,19 +3884,19 @@ Può essere il caso di un arciere in piedi dietro un muretto di 1 metro.
 \end{center}
 
 \item
-Se l'obiettivo ha meno della metà (ma almeno un terzo) della superficie "visibile" allora la copertura si definisce \textbf{media}, ovvero ha +4 alla Difesa. Può essere il caso di una creatura dietro un altra creatura di 2 taglie più grande.
+Se l'obiettivo ha \textbf{meno della metà} (ma almeno un terzo) della superficie \textit{visibile} allora la copertura si definisce \textbf{media}, ovvero ha +4 alla Difesa. Può essere il caso di una creatura dietro un altra creatura di 2 taglie più grande.
 
 Può essere il caso di un nemico armato di balestra che si sporge quel tanto per tenere appoggiata la balestra al muretto e sparare (spalle, braccia e testa visibili).
 
 \item
-Se l'obiettivo si sa dove è ma si nasconde completamente affacciandosi solo per controllare i personaggi o tirare una freccia ogni tanto, dietro ad un muro, finestra, porta, tavolo, una creatura più grande di lui (almeno 3 taglie).. allora la copertura si definisce \textbf{completa}, ovvero ha +8 alla Difesa.
+Se l'obiettivo si sa dove è ma \textbf{si nasconde completamente} affacciandosi solo per controllare i personaggi o tirare una freccia ogni tanto, dietro ad un muro, finestra, porta, tavolo, una creatura più grande di lui (almeno 3 taglie).. allora la copertura si definisce \textbf{completa}, ovvero ha +8 alla Difesa.
 Questo può essere anche il caso di una creatura completamente occultata dalla oscurità, in cui si ipotizza la presenza per suoni, tracce, magie lanciate o proiettili sparati.
 
-Chiaramente un avversario che non si sa dove è non può essere colpito normalmente...
+Chiaramente un avversario che non si sa dove è non può essere colpito normalmente.
 
 \end{itemize}
 
-Metà del bonus di copertura si applica anche ai Tiri Salvezza contro Incantesimi che abbiano un effetto ad area (es. Palle di Fuoco che esplodano intorno..).
+Metà del bonus di copertura si applica anche ai Tiri Salvezza contro Incantesimi che abbiano un effetto ad area (es. Palle di Fuoco che esplodano intorno..).\index{Copertura nei Tiri Salvezza}
 
 \subsection{Invisibilita'}\index{Invisibilità} \hypertarget{invisibilita}{}\label{invisibilita}
 
@@ -3911,7 +3908,7 @@ Se un avversario è invisibile o non si sa dove è si seguono le regole della In
 \textit{c'è qualcuno davanti a questo muro ?}
 \end{center}
 
-Anche se si è invisibili non è detto che non si possa essere percepiti diversamente attraverso altri sensi, come l'olfatto, l'udito o il tatto. L'invisibilità rende una creatura non individuabile tramite la vista ma non rende di per sé una creatura impercettibile o immune ai Tiri Critici o Esplosioni del Danno.
+Anche se si è invisibili non è detto che non si possa essere percepiti diversamente attraverso altri sensi, come l'olfatto, l'udito o il tatto. L'invisibilità rende una creatura non individuabile tramite la vista ma non rende di per sé una creatura non percepibile o immune ai Tiri Critici o Esplosioni del Danno.
 
 Una creatura accecata, che combatte contro una creatura invisibile o che combatte nell'oscurità più completa, senza scurovisione, può effettuare una prova di Consapevolezza, 1 Azione, a difficoltà 20, oppure 2 Azioni a Difficoltà 15, per \textbf{individuare} una creatura se entro 6 metri da questa.\index{Individuare bersagli}
 
@@ -3943,7 +3940,7 @@ Questi modificatori sono cumulativi tra loro.
 
 Se la creatura invisibile ha attaccato in mischia e non si è spostata si considera \textbf{automaticamente individuata}.
 
-Se la prova per individuare riesce l'osservatore ha la sensazione che "ci sia qualcosa" ma non può vederlo o prenderlo di mira in modo accurato con un attacco.
+Se la prova per individuare riesce l'osservatore ha la sensazione che \textit{ci sia qualcosa} ma non può vederlo o prenderlo di mira in modo accurato con un attacco.
 
 Chi attacca una creatura per lei \textbf{invisibile ma individuata} ha un -1d6 al Tiro per Colpire, la creatura che attacca colui che non la vede ha +1d6 al Tiro per Colpire.
 
@@ -3984,7 +3981,7 @@ Le creature invisibili non possono utilizzare gli attacchi con lo sguardo. L'inv
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{O}{gni} qual volta si assegna un punto a Competenza Armi si può decidere se continuare a perfezionarsi in una Lista di Armi già nota o apprendere una nuova, se non si dichiara l'uso questo è assegnato alla Lista delle Armi Semplici.
 
-Nella scheda segnatevi a quale Lista d'Armi assegnate il punto di Competenza Armi. I bonus segnati sono cumulativi se non indicato diversamente.
+Nella scheda segnatevi a quale Lista d'Armi assegnate il punto di Competenza Armi.
 
 Per riassegnare un punto di Competenza Armi in un altra lista sono necessari almeno 4 ore di allenamento per 4 mesi.
 
@@ -3994,13 +3991,13 @@ I punti assegnati in una Lista d'Arma non si sommano al Tiro per Colpire! Bisogn
 
 Tutte le Liste d'Armi concedono, se non scritto diversamente, questi vantaggi:
 
-\begin{itemize}
+\begin{itemize}\index{Bonus comuni Lista d'armi}
 
 \item 6 punti: se affronti qualcuno che usa la tua arma sei immediatamente in grado di capire la sua capacità di Competenza Armi.
 
-\item 10 punti: se colpisci con almeno due attacchi nel medesimo round il secondo causa sempre 1 danno critico
+\item 10 punti: se colpisci con almeno due attacchi il medesimo avversario nel round il secondo causa sempre 1 danno critico
 
-\item 14 punti: se colpisci con almeno due attacchi nel medesimo round puoi usare una Azione Immediata per spostarti di un metro.
+\item 14 punti: se colpisci con almeno due attacchi il medesimo avversario nel round puoi usare una Azione Immediata per spostarti di un metro.
 
 \item 18 punti: quando effettui un Tiro per Colpire consideri anche i 5 per il conteggio dei Critici (ma non ritiri il dado).
 
@@ -4008,7 +4005,7 @@ Tutte le Liste d'Armi concedono, se non scritto diversamente, questi vantaggi:
 
 \end{itemize}
 
-I bonus indicati nelle Liste d'Armi si applicano solo quando combatti con le armi indicate.
+I bonus indicati nelle Liste d'Armi si applicano solo quando combatti con le armi indicate dalla stessa lista.
 
 I vantaggi indicati sono cumulativi se non indicato diversamente.
 
@@ -4958,11 +4955,11 @@ La \textbf{seconda volta} che prendi l'Abilità, requisito Consapevolezza a 3, r
 
 \textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
 
-La \textbf{prima volta} che prendi questa Abilità il constante e’ continuo allenamento ti permette di ridurre la penalità del multiattacco dato dall’attacco con l’arma secondaria. Quando attacchi con l’arma secondaria cumuli penalità al colpire di -4 al posto di -5.
+La \textbf{prima volta} che prendi questa Abilità il constante e’ continuo allenamento ti permette di ridurre la penalità del multiattacco dato dall’attacco con l’arma secondaria. Quando attacchi con l’arma secondaria cumuli penalità al colpire di -4 al posto di -5 se l'arma e' leggera.
 
 \textbf{Requisito} Destrezza 3, Competenza Armi 12
 
-La \textbf{seconda volta} puoi usare un arma media come arma secondaria.
+La \textbf{seconda volta} se l'arma secondaria non è leggera non cumuli l'ulteriore -3 al colpire.
 
 \textbf{Requisito} Competenza Armi 18
 
@@ -6576,7 +6573,7 @@ Utilizzare le statistiche base di una creatura della specie del famiglio, apport
 
 \medskip
 
-\textbf{Tiro Salvezza}: Per ogni Tiro Salvezza, utilizzare i Tiri Salvezza del famiglio o quelli del padrone quali siano i migliori. Il famiglio applica i suoi valori di caratteristica come bonus ai Tiri Salvezza e non prende nessuno dei bonus che il suo padrone può avere.
+\textbf{Tiro Salvezza}: Per ogni Tiro Salvezza, utilizzare i Tiri Salvezza del famiglio o quelli del padrone quali siano i migliori. Il famiglio applica i suoi valori di Caratteristica come bonus ai Tiri Salvezza e non prende nessuno dei bonus che il suo padrone può avere.
 
 \textbf{Azioni del Famiglio}\index{Azioni del Famiglio}: comandare un famiglio impiega 1 Azione. Il famiglio esegue 2 Azioni a round. Senza comandi il Famiglio non fa nulla se non difendersi ed attaccare chi lo attacca.
 
@@ -6606,17 +6603,17 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 \begin{tabularx}{0.95\textwidth}{cccX}
 \textbf{CM del Padrone} & \textbf{Bonus Difesa} & \textbf{Bonus Intelligenza} & \textbf{Speciale}\\
 \toprule
-1-2  & +1 & 0  & Allerta, Condividere Incantesimi, \\
-&  & 				  	 & Legame Empatico\\
-3-4  & +1 & +1 & Trasmettere Incantesimi a contatto\\
-5-6  & +2 & +1 & Parlare con gli Animali della Sua Specie\\
-7-8  & +3 & +1 & Parlare con il Padrone\\
-9-10 & +3 & +2 & -\\
-11-12  & +4 & +2 & Vedere attraverso Famiglio\\
-13-14  & +5 & +2 & -\\
-15-16  & +5 & +3 & -\\
-17-18  & +6 & +3 & -\\
-19-20  & +7  & +3  & -\\
+1-2  	& +1 & 0  & Allerta, Condividere Incantesimi, \\
+			      & &  & Legame Empatico\\
+3-4  	& +1 & +1 & Trasmettere Incantesimi a contatto\\
+5-6  	& +2 & +1 & Parlare con gli Animali della Sua Specie\\
+7-8  	& +3 & +1 & Parlare con il Padrone\\
+9-10 	& +3 & +2 & -\\
+11-12   & +4 & +2 & Vedere attraverso Famiglio\\
+13-14   & +5 & +2 & -\\
+15-16   & +5 & +3 & -\\
+17-18   & +6 & +3 & -\\
+19-20   & +7 & +3 & -\\
 \end{tabularx}
 
 \begin{multicols}{2}
@@ -6624,23 +6621,23 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 
 \textbf{Competenza Magica del Padrone}: il numero indicato qui è il valore di Competenza Magica del padrone del famiglio, articolato in fasce.
 
-\textbf{Bonus Difesa}: il numero indicato qui è in aggiunta alla Difesa del famiglio.
+\textbf{Bonus Difesa}: il bonus indicato è da sommare alla Difesa del famiglio.
 
-\textbf{Bonus Intelligenza}: questo valore si aggiunge al punteggio di Intelligenza del famiglio.
+\textbf{Bonus Intelligenza}: il bonus indicato si aggiunge al punteggio di Intelligenza del famiglio.
 
 \textbf{Speciale}: le capacità speciali acquisite dal famiglio (e/o dal padrone).
 
 \textit{\textbf{Allerta}}: quando il famiglio è a portata di braccio dal padrone, questi guadagna +1 alle prove di Consapevolezza
 
-\textit{\textbf{Condividere Incantesimi}}: a propria discrezione, il padrone può lanciare qualsiasi Incantesimi che abbia effetto su di "sé" sul suo famiglio (come un Incantesimo a contatto), al posto di se stesso.
+\textit{\textbf{Condividere Incantesimi}}: a propria discrezione, il padrone può lanciare qualsiasi Incantesimi che abbia effetto su di \textit{sé} sul suo famiglio (come un Incantesimo a contatto), al posto di se stesso.
 
 Il padrone può lanciare sul suo famiglio incantesimi anche se questi normalmente non hanno effetto su creature del tipo del famiglio (creature magiche).
 
 \textit{\textbf{Legame Empatico}}: il padrone ha un legame empatico con il suo famiglio fino a una distanza di 1 km. Il padrone non può vedere attraverso gli occhi del famiglio, ma può comunicare telepaticamente con esso. A causa della natura limitata del legame, si possono comunicare solo emozioni generiche (paura, tranquillità, gioia...).
 
-\textit{\textbf{Trasmettere Incantesimi a Contatto}}: il famiglio può trasmettere Incantesimi a contatto per lui. Se il padrone e il famiglio sono entro 9 metri quando il padrone lancia un Incantesimo a contatto, egli può designare il suo famiglio come "colui che consegna l'Incantesimo".
+\textit{\textbf{Trasmettere Incantesimi a Contatto}}: il famiglio può trasmettere Incantesimi a contatto per lui. Se il padrone e il famiglio sono entro 9 metri quando il padrone lancia un Incantesimo con Gittata a contatto, egli può designare il suo famiglio come \textit{colui che consegna l'Incantesimo}.
 
-Il famiglio può trasmettere l'Incantesimo proprio come il padrone. Il famiglio usa una sua Azione per effettuare un attacco magico.
+Il famiglio può trasmettere l'Incantesimo proprio come il padrone. Il famiglio usa una sua Azione per effettuare un attacco.
 
 \textit{\textbf{Parlare col Padrone}}: il famiglio e il padrone possono comunicare verbalmente, come se utilizzassero un linguaggio comune. Le altre creature o animali non sono in grado di comprendere la loro conversazione, se non utilizzando ausili magici. La capacità funziona entro i 50m e devono sentirsi.
 
@@ -6677,7 +6674,7 @@ Per quanto speciale, intelligente ed unico un famiglio rimane un animale e come 
 
 Una creatura diventata Eterea è situata nel Piano Etereo che è sovrapposto a quello Materiale.
 
-Una creatura eterea è Invisibile, senza sostanza e capace di muoversi in qualsiasi direzione, persino su e giù. Una creatura eterea può muoversi attraverso oggetti solidi, incluse altre creature viventi. Una creatura eterea può vedere e udire ciò che accade sul Piano Materiale, ma ogni cosa appare grigia ed effimera. La vista e l'udito di una creatura eterea che si trova sul Piano Materiale sono limitati a una distanza di 9 metri.
+Una creatura eterea è Invisibile, senza sostanza e capace di muoversi in qualsiasi direzione, persino su e giù. Una creatura eterea può muoversi attraverso oggetti solidi, incluse altre creature viventi. Una creatura eterea può vedere e udire ciò che accade sul Piano Materiale, ma ogni cosa appare grigia ed incosistente. La vista e l'udito di una creatura eterea che si trova sul Piano Materiale sono limitati a una distanza di 9 metri.
 
 Gli Incantesimi se non opportunamente formulati e modificati non agiscono su creature eteree. Una creatura eterea ha Resistenza al Danno verso Luce o Vuoto, ed ignora tutte le altre forme di Energia.
 
@@ -6694,15 +6691,13 @@ La Resistenza al Danno può assumere anche dei valori. Quando viene scritto Resi
 Un creatura con una Resistenza al Fuoco dimezza (riduce) tutto il danno che riceve dalla fiamme, magiche o meno.
 
 Possono esistere abilità o incantesimi che ignorano questa Resistenza. Più resistenze uguali non si sommano, per il fatto che due oggetti mi danno resistenza al fuoco non riduco ad un quarto il danno, se ne applica solo una.
-Se una capacità ignora la resistenza al danno passerà la resistenza anche se ho due fonti di resistenza.
+Se una capacità ignora la resistenza al danno passerà la resistenza anche se ho due o più fonti di resistenza.
 
 \subsection{Riduzione del Danno - DR}\index{Riduzione del Danno}\label{resistenzaaldannodr}\hypertarget{riduzionedeldanno}{}
 
 Determinate creature o Abilità conferiscono la capacità soprannaturale di resistere al danno di certe tipologie di armi o fino ad un certo ammontare (per attacco).
 
 Solitamente assume il valore di XX/ZZ ovvero quanto danno (XX) è ignorato se non si è attaccati con (ZZ). Ignorare il danno significa anche che effetti connessi all'attacco non funzionano, come veleni sull'arma.
-
-E' applicabile un'unica DR in caso ce ne siano di più di una contemporanea, la scelta va fatta ad inizio scontro e rimane la stessa finché non è finito lo scontro.
 
 \begin{center}
 \includegraphics[width=0.8\linewidth]{immagini/morteachille.png}
@@ -6741,7 +6736,7 @@ Può venire indicata con un dado, es. \textit{Resistenza alla Magia. Il deva ha 
 
 Oppure seguita da un numero e livello, es. \textit{Resistenza alla Magia: 3lv}. In questo caso la creatura non è influenzata da incantesimi di quel livello o meno. Un incantesimo viene considerato di un livello superiore per ogni Critico magico ottenuto nella Prova di Magia.
 
-Pur se non influenzata dagli effetti diretti viene comunque interessata dagli effetti indiretti, ad esempio può cadere nella fossa creata da un incantesimo di Disintegrazione.
+L'obiettivo della magia pur se non influenzato dagli effetti diretti viene comunque interessato dagli effetti indiretti, ad esempio può cadere nella fossa creata da un incantesimo di Disintegrazione.
 
 La Resistenza alla Magia non può essere abbassata neanche dalla creatura che la possiede.
 
@@ -6751,7 +6746,7 @@ E' estremamente raro ma ci sono creature o effetti magici che rendono immune ad 
 
 Una creatura immune ad una forma di danno non subisce danno da quell'attacco. Una creatura che ha invece la capacità di avere i propri danni irresistibili, ovvero che non possono essere ridotti da resistenza, penetrerà solo in parte l'immunità della creatura rendendola soltanto resistente a quel danno.
 
-Una creatura che riporta "Immunità al Danno Vuoto, Veleno; armi +2" significa che è immune al danno da Vuoto, da Veleno e che per ferirlo serve un arma con un bonus magico +3 o superiore, oppure un personaggio che attacchi con armi naturali e sia di livello 12 o superiore oppure che abbia preso la Lista d'Armi Pugno Vuoto almeno 6 volte (pag. \pageref{equivalenzaarmimagiche}).
+Una creatura che riporta "Immunità al Danno Vuoto, Veleno; armi +2" significa che non subisce danno da Vuoto, da Veleno e che per ferirlo serve un arma con un bonus magico +3 o superiore, oppure un personaggio che attacchi con armi naturali e sia di livello 12 o superiore oppure che abbia preso la Lista d'Armi Pugno Vuoto almeno 6 volte (pag. \pageref{equivalenzaarmimagiche}).
 
 \subsection{Vulnerabilita' al Danno}\index{Vulnerabilità al Danno}\label{vulnerabilitadanno}
 
@@ -6767,7 +6762,7 @@ Incantesimi, Oggetti Magici e certe creature possono influenzare i personaggi co
 
 \textbf{Spaventato}\label{spaventato}\index{Spaventato}
 
-Una creatura spaventato ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Competenza finché la sorgente della sua paura è visibile. Una creatura spaventata non può avvicinarsi volontariamente alla sorgente della sua paura.
+Una creatura spaventata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Competenza finché la sorgente della sua paura è visibile. Una creatura spaventata non può avvicinarsi volontariamente alla sorgente della sua paura.
 
 \subsection{Paralizzato}\index{Paralizzato}\label{paralizzato}
 
@@ -8151,9 +8146,10 @@ Conferisci un potenziamento magico a una creatura con cui sei in contatto. Scegl
 \textbf{Gittata}: 18 metri\\
 \textbf{Componenti}: V, S, M (un pizzico di lime, acqua e terra)\\
 \textbf{Durata}: Permanente\\
-Cerchi di trasformare in pietra una creatura a gittata che puoi vedere. Se il corpo del bersaglio è fatto di carne, la creatura deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, è intralciata e la sua carne comincia a indurirsi. Se supera il Tiro Salvezza, la creatura non subisce l'incantesimo. Una creatura intralciata da questo incantesimo deve effettuare un altro Tiro Salvezza su Tempra al termine di ciascun suo round. Se supera il Tiro Salvezza con successo per tre volte, l'incantesimo termina. Se fallisce il Tiro Salvezza per tre volte, viene trasformata in pietra e resta vittima della condizione pietrificato per la durata. I successi e i fallimenti non devono essere continuativi; tenere traccia di entrambi finché il bersaglio non ne ottiene tre di un tipo.\\
+Cerchi di trasformare in pietra una creatura a gittata che puoi vedere. Se il corpo del bersaglio è fatto di carne, la creatura deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, perde 1 Azione a round la sua carne comincia a indurirsi. Se supera il Tiro Salvezza, la creatura non subisce l'incantesimo. La creatura che fallisce il Tiro Salvezza iniziale il round dopo deve effettuare un nuovo Tiro Salvezza su Tempra. Se supera il Tiro Salvezza con successo l'effetto di rallentamento e l'incantesimo terminano.
+Se fallisce il Tiro Salvezza viene trasformata in pietra e resta vittima della condizione pietrificato per la durata.\\
 Se la creatura viene danneggiata fisicamente mentre è pietrificata, soffre di deformità simili ai danni arrecati alla pietra, se ritorna al suo stato originale. Se mantieni la tua concentrazione su questo incantesimo per la sua intera possibile durata, la creatura è trasformata in pietra finché l'effetto non viene rimosso.\\
-L'incantesimo \textit{Pietra in Carne} fa tornare una creatura di carne purché non sia stata trasformata da più di un anno. L'incantesimo Dispelli Magia non è in grado di annullarne gli effetti.
+L'incantesimo \textit{Pietra in Carne} fa tornare una creatura di carne purché non sia stata trasformata da più di un anno. L'incantesimo Dissolvi Magia non è in grado di annullarne gli effetti.
 
 \medskip\textbf{Cecità/Sordità}\index[Incantesimi]{Cecità/Sordità}\\
 \textbf{Scuola}: Necromanzia\\
@@ -46268,7 +46264,7 @@ Il terreno occupato da una creatura paralizzata (o morta) si considera come terr
 
 Se un personaggio pietrificato si incrina o si rompe, ma i pezzi rotti sono uniti al corpo quando ritorna di carne, il personaggio non viene ferito o danneggiato. Se il corpo pietrificato del personaggio è incompleto quando viene ritrasformato in carne, il corpo rimane incompleto e potrebbe avere una qualche perdita permanente di Punti Ferita e/o altre menomazioni.
 
-La creatura dispone di resistenza a tutti i danni. La creatura è immune ai veleni e le malattie, ma gli eventuali i veleni e le malattie già presenti nel suo sistema vengono solo sospesi, non neutralizzati.
+La creatura dispone di resistenza a tutti i danni. La creatura è immune ai veleni e le malattie, ma gli eventuali i veleni e le malattie già presenti nel suo sistema vengono solo sospesi, non neutralizzati. La creatura non ha percezione dell'ambiente ne capacità cognitive.
 
 \textbf{Paura, Spaventato}:\index{Paura}\index{Spaventato}\hypertarget{condizionepaura}{} Incantesimi, Oggetti Magici e certe creature possono influenzare i personaggi con paura. In molti casi, il personaggio deve effettuare un Tiro Salvezza su Volontà per resistere agli effetti, e un tiro fallito indica che il personaggio è Spaventato.
 
