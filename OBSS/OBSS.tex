@@ -48,7 +48,6 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \tcbset{colback=brown!10, fonttitle=\scshape}
 \usepackage{imakeidx}
 \usepackage{cancel}
-
 \def\CountIndexOccurrences#1{%
 \expandafter\newcount\csname #1\endcsname%
 \expandafter\newcount\csname #1\endcsname%
@@ -136,6 +135,7 @@ boxrule=0.3pt
 
 \begin{document}
 \def \versione {0.79e} \fontsize{10}{12}\selectfont
+
 
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
@@ -14717,7 +14717,7 @@ Una spada o comunque un arma non fatta per essere lanciata può comunque essere 
 
 \textbf{Esempio}: Una creatura piccola che usa un alabarda in combattimento ravvicinato ha -1d6 perché l'arma è grande, -1d6 perché non è competente, -1d6 perché usa l'arma in mischia.
 
-In questo caso essendo le penalità superiori ai 3d6 il personaggio non tira dadi ma usa solo la sua Competenza Armi come valore per colpire.
+In questo caso essendo le penalità superiori ai 3d6 il personaggio non tira dadi ma usa solo la sua Competenza Armi e Forza come valore per colpire.
 
 
 \end{multicols}
