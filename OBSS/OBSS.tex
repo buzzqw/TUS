@@ -60,9 +60,9 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \CountIndexOccurrences{OggettiMagici}
 \def\TotalBox#1{\vfill%
 	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
-\makeindex[columns=3, title=Indice Analitico, intoc=true]
-\makeindex[columns=3, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
-\makeindex[columns=3, name=Mostruario, title=Lista dei Mostri, intoc=true]
+\makeindex[columns=4, title=Indice Analitico, intoc=true]
+\makeindex[columns=4, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
+\makeindex[columns=4, name=Mostruario, title=Lista dei Mostri, intoc=true]
 \makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
 \usetikzlibrary{shapes.misc,calc}
 \definecolor{lightgray}{gray}{0.95}
@@ -137,7 +137,8 @@ boxrule=0.3pt
 \def \versione {0.80} \fontsize{10}{12}\selectfont
 
 
-\thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
+\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
+
 
 
 \bigskip
@@ -201,8 +202,9 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 %}
 
 \pagebreak
-
+\cleardoublepage
 \setcounter{page}{1}
+\pagenumbering{Roman}
 
 \begin{multicols}{2}
 {\small \tableofcontents{}}
@@ -216,6 +218,10 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 \end{tcolorbox}\end{changemargin}
 
 \pagebreak
+
+\cleardoublepage
+\setcounter{page}{1}
+\pagenumbering{arabic}
 
 \section{Introduzione}
 
@@ -2886,8 +2892,8 @@ Estrarre o Rinfoderare l'arma		& 1\\
 Imbracciare lo scudo				& 1\\
 Usare un oggetto magico				& 2\\
 Eseguire prova su una competenza*	& 1\\
-Sfondare una porta a spallate/calci	&1\\
-Forzare porta con piede di porco	&2\\
+Sfondare una porta a spallate/calci	& 1\\
+Forzare porta con piede di porco	& 2\\
 Nascondersi							& 1\\
 Concentrarsi su un Incantesimo		& 1\\
 Salire o scendere dalla cavalcatura	& 1\\
@@ -15199,7 +15205,7 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 
 \textbf{Attrezzatura da Pesca}. Questo kit comprende un’asta di legno, filo di seta, taglierino di legno, ami d’acciaio, peso di piombo, esche di velluto e un retino.
 
-\textbf{Bandoliera}. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo. Estrarre un oggetto da essa costa 1 Azione, come se fosse alla cintura.
+\textbf{Bandoliera}. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo. Estrarre e bere un oggetto da essa costa 1 Azione, come fosse dalla cintura.\index{Bandoliera}
 
 \textbf{Biglie di Metallo}. Con un’azione, puoi spargere una singola borsa di queste minuscole biglie di metallo per coprire un’area piana quadrata di 3 metri di lato. Una creatura che attraversa l’area coperta deve superare un Tiro Salvezza su Riflessi con DC 12 o cadere prona. Una creatura che attraversa l’area a metà velocità non deve effettuare il Tiro Salvezza.
 
@@ -19051,12 +19057,12 @@ Nella tabella sono indicati i costi ed effetti di queste pozioni. L'insorgenza �
 	Cura potenziata& recuperi 3d8+3 Punti Ferita & 125  & Ingestione\\
 	Indebolente& -1d6 TC. TS DC 15 Tempra & 34 & Ingestione\\
 	Indebolente potenziata& -1d6 TC. TS DC 18 Tempra& 50 & Ferimento \\
-	Veleno& subisci 2d4+2 di danno. TS DC 15 Tempra & 30 & Ingestione \\
-	Veleno potenziata& subisci 2d4+2 di danno. TS DC 18 Tempra & 25 & Ferimento \\
+	Veleno& subisci 2d6+2 di danno. TS DC 15 Tempra & 30 & Ingestione \\
+	Veleno potenziata& subisci 2d8+2 di danno. TS DC 18 Tempra & 25 & Ferimento \\
 	Rimuovi Veleno& annulla l'insorgenza di un veleno se presa entro l'attivazione, oppure concede un nuovo TS con +1d6 & 75 & Ingestione\\
 \end{tabularx}
 
-Queste pozioni generiche come le pozioni naturali hanno effetto solo la prima volta che sono prese nell'arco delle 24 ore.
+Queste pozioni generiche come le pozioni naturali hanno effetto solo la prima volta che sono prese nell'arco delle 24 ore. Se il personaggio dedica 2 Azioni a bere una Pozione di Cura questa avrà effetto massimizzato.
 
 
 \subsection{Opzionale - Droghe}\index{Droga}\index{Opzionale - Droghe}\hypertarget{droghe}{}\label{droghe}
@@ -25524,7 +25530,7 @@ Questa tabella indica per GS i Punti Esperienza relativi.
 \medskip
 
 
-\textbf{Tabella: Grado di Sfida e Punti Esperienza}\index{\textbf{Tabella Punti Esperienza per Grado di Sfida}}
+\textbf{Tabella: Grado di Sfida e Punti Esperienza}\index{Tabella Punti Esperienza per Grado di Sfida}
 
 \medskip
 

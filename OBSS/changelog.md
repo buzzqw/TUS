@@ -387,7 +387,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79f aggiornato pod
 
-**0.80** aggiornata copertia, cambiato peso razioni secche, 
+**0.80** aggiornata copertia, cambiato peso razioni secche, chiarimenti su uso bandoliera, rivisto layout indici, 
 
 - aggiunti \label{} fino a piani
 
@@ -399,6 +399,7 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
+- se iniziativa 2 critici, fai 1 azione in piu' quel round
 - opportunista valutare se darlo a quali mostri
 - recupero punti ferita cos+2*ca+cm, trovare formula piu' semplice
 - ragionare su prova di magia. farla diventare una prova di arcana e contare i successi/multipli di 6 dal valore ?

@@ -61,10 +61,10 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \CountIndexOccurrences{MagicItem}
 \def\TotalBox#1{\vfill%
 \fbox{There are \expandafter\the\csname #1\endcsname\ entries in this index}\par}
-\makeindex[columns=3, title=Index, intoc=true]
-\makeindex[columns=3, name=Spells, title=Spells List, intoc=true]
-\makeindex[columns=3, name=Monsters, title=Monsters List, intoc=true]
-\makeindex[columns=3, name=MagicItem, title=Magic Item List, intoc=true]
+\makeindex[columns=4, title=Index, intoc=true]
+\makeindex[columns=4, name=Spells, title=Spells List, intoc=true]
+\makeindex[columns=4, name=Monsters, title=Monsters List, intoc=true]
+\makeindex[columns=4, name=MagicItem, title=Magic Item List, intoc=true]
 \usetikzlibrary{shapes.misc,calc}
 \definecolor{lightgray}{gray}{0.95}
 \usetikzlibrary{shapes.misc,calc}
@@ -15365,7 +15365,7 @@ Any sufficiently advanced technology is indistinguishable from magic. (Arthur C.
 
 \textbf{Fishing Equipment}. This kit includes a wooden rod, silk thread, wooden cutter, steel hooks, lead weight, velvet lures and a landing net.
 
-\textbf{Bandolier}. This specialized belt for holding small items such as potions or scrolls is worn around the neck. Extracting an item from it costs 1 Action, as if it were on your belt.
+\textbf{Bandolier}. This specialized belt for holding small items such as potions or scrolls is worn around the neck. Extracting and drinking an item from it costs 1 Action.\index{Bandolier}
 
 \textbf{Metal Marbles}. As an action, you can scatter a single bag of these tiny metal marbles to cover a flat area 10 feet square on a side. A creature that passes through the covered area must succeed at a DC 12 Reflex save or be knocked prone. A creature that passes through the area at half speed need not make a saving throw.
 
@@ -19242,16 +19242,17 @@ The table shows the costs and effects of these potions. The onset is always imme
 \begin{tabularx}{0.95\textwidth}{lXcc}
 \textbf{Potion Name}& \textbf{Effect}& \textbf{Cost (gp)}& \textbf{Application}\\
 \toprule
-Heals & recovers 1d8+1 Hit Points & 50 & Ingested\\
+Heal & recovers 1d8+1 Hit Points & 50 & Ingested\\
 Empowered Heal & recover 3d8+3 Hit Points & 125 & Ingested\\
 Weakening & -1d6 AR. Save DC 15 Fortitude & 34 & Ingested\\
 Empowered Weakening & -1d6 AR. Save DC 18 Fortitude& 50 & Wounding \\
-Poison & you take 2d4+2 damage. Save DC 15 Fortitude & 30 & Ingested \\
-Empowered poison & you take 2d4+2 damage. Save DC 18 Fortitude & 25 & Wounding \\
+Poison & you take 2d6+2 damage. Save DC 15 Fortitude & 30 & Ingested \\
+Empowered poison & you take 2d8+2 damage. Save DC 18 Fortitude & 25 & Wounding \\
 Remove Poison & nullifies the onset of a poison if taken within the activation, or grants a new Saving Throw with +1d6 & 75 & Ingested\\
 \end{tabularx}
 
-These generic potions like natural potions only take effect the first time they are taken within 24 hours.
+These generic potions like natural potions only take effect the first time they are taken within 24 hours. If the character dedicates 2 Actions to drinking a Healing Potion, this will have a maximized effect.
+
 
 
 \subsection{Optional - Drugs}\index{Drugs}\index{Optional - Drugs}\hypertarget{droghe}{}\label{droghe}
