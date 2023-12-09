@@ -134,7 +134,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.79f} \fontsize{10}{12}\selectfont
+\def \versione {0.80} \fontsize{10}{12}\selectfont
 
 
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
@@ -8596,8 +8596,8 @@ Crei cibo e acqua in contenitori a gittata, sufficienti a sostenere fino a cinqu
 \textbf{Gittata}: 9 metri\\
 \textbf{Componenti}: V, S, M (lievito di birra, malto, acqua)\\
 \textbf{Durata}: 1 ora\\
-Crei 1 litro di birra. La qualità e tipologia di birra dipende dal lievito, malto e acqua usata.
-Maggiore è il tempo di lancio dell'incantesimo più viene alta la gradazione alcolica, con un tempo di lancio di due azioni la gradazione è di 4.3, se 1 azione è analcolica, ogni azione spesa aumenta la gradazione di 0.3 vol fino ad un massimo di 12.5 vol.
+Crei un boccale di birra, 0.5 litri. La qualità e tipologia di birra dipende dal lievito, malto e acqua usata.
+Maggiore è il tempo di lancio dell'incantesimo più viene alta la gradazione alcolica, con un tempo di lancio di due azioni la gradazione è di 4.3, se viene impiegata 1 azione la birra generata è analcolica, ogni azione spesa aumenta la gradazione di 0.3 vol fino ad un massimo di 12.5 vol.
 Dopo un ora la birra svanisce, quando consumata dopo un ora terminano anche eventuali effetti alcolici della stessa sulle persone che l'hanno bevuta.\\
 \textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia aumenti di un litro o di un ora la durata.
 
@@ -15142,7 +15142,7 @@ Pozione di Cura potenziata & 125 mo & L\\
 \textbf{Oggetto}    & \textbf{Costo} & \textbf{Ingombro}\\
 Profumo & 5 mo & L\\
 Rampino & 1 mo& 1 \\
-Razioni da viaggio (al giorno)  & 5 ma& 1 \\
+Razioni da viaggio (al giorno)  & 5 ma& L \\
 Remo  & 2 mo& 2\\
 Rete da pesca (2,25 m)& 4 mo& 1 \\
 Sacche da sella & 4 mo& 2\\
@@ -15303,7 +15303,7 @@ peso che puoi normalmente sollevare.
 \end{center}
 
 
-\textbf{Tribolo}. Con un’azione, puoi spargere una singola borsa di questi minuscoli triboli per coprire un’area quadrata di 1 metri di lato. Una creatura che attraversa l’area coperta deve superare un Tiro Salvezza su Riflessi con DC 17 o subire 1 danno perforante. Finché la creatura non recupera almeno 1 punto ferita, la sua velocità a piedi è diminuita di 3 metri. Una creatura che attraversa l’area a metà velocità non deve effettuare il Tiro
+\textbf{Tribolo}. Con un’azione, puoi spargere una singola borsa di questi minuscoli triboli per coprire un’area quadrata di 1 metro di lato. Una creatura che attraversa l’area coperta deve superare un Tiro Salvezza su Riflessi con DC 15 o subire 1 danno perforante. Finché la creatura non recupera almeno 1 punto ferita, la sua velocità a piedi è diminuita di 3 metri. Una creatura che attraversa l’area a metà velocità non deve effettuare il Tiro
 
 \textbf{Veleno Base}. Puoi usare il veleno in questa fiala per coprire un’arma tagliente o perforante o fino a tre pezzi di munizioni. Applicare il veleno necessita un’azione. Una creatura colpita da un’arma o munizione avvelenata deve superare un Tiro Salvezza su tempra con DC 12 o subire 1d4 danni da veleno.
 Una volta applicato, il veleno mantiene la sua efficacia per 1 minuto prima di seccarsi.
@@ -15658,15 +15658,16 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 \textbf{Agiato}. Un personaggio in grado di adottare uno stile di vita agiato può permettersi abiti di qualità e prendersi cura del proprio equipaggiamento senza difficoltà. Vive in un'abitazione in un isolato di buona fama o dispone di una stanza privata presso una locanda di qualità. Frequenta mercanti, abili artigiani e ufficiali militari.
 
-\textbf{Ricco}. Un personaggio che adotta uno stile di vita ricco vive nel lusso, anche se forse non ha raggiunto il prestigio sociale associato ai vecchi valori della nobiltà e del sangue reale. Conduce uno stile di vita paragonabile a quello di un mercante di grande successo, uno stimato servitore di un casato reale o un proprietario di alcune piccole attività commerciali. Alloggia in una dimora rispettabile, solitamente una casa spaziosa in una parte rispettabile della città o un comodo appartamento presso una locanda rinomata. Probabilmente è assistito da un piccolo gruppo di servitori.
-
-\textbf{Aristocratico}. Il personaggio vive comodamente e nell'abbondanza e frequenta gli ambienti popolati dalle figure più potenti della comunità. Dispone di una dimora eccellente, forse una casa nel quartiere più elegante della città o forse una serie di camere nella locanda più rinomata. Pranza ai ristoranti migliori, si serve presso i sarti più abili e alla moda e può contare su vari servitori che si occupano di ogni suo bisogno. Riceve inviti agli eventi di società dei ricchi e dei potenti e trascorre le sue serate in compagnia di politici, capi di gilda, sommi sacerdoti e nobili. Deve anche vedersela con gli inganni e i tradimenti perpetrati ai livelli più alti. Più grande è la sua ricchezza, maggiori sono le possibilità che sia trascinato in qualche intrigo politico, a volte come pedina, a volte come partecipante attivo.
 
 \begin{center}
 	\includegraphics[width=0.6\linewidth]{immagini/lucullo.png}
-
+	
 	\textit{Lucio Licinio Lucullo. Roma, 117 aC, Napoli 56 aC). Militare e politico romano}
 \end{center}
+
+\textbf{Ricco}. Un personaggio che adotta uno stile di vita ricco vive nel lusso, anche se forse non ha raggiunto il prestigio sociale associato ai vecchi valori della nobiltà e del sangue reale. Conduce uno stile di vita paragonabile a quello di un mercante di grande successo, uno stimato servitore di un casato reale o un proprietario di alcune piccole attività commerciali. Alloggia in una dimora rispettabile, solitamente una casa spaziosa in una parte rispettabile della città o un comodo appartamento presso una locanda rinomata. Probabilmente è assistito da un piccolo gruppo di servitori.
+
+\textbf{Aristocratico}. Il personaggio vive comodamente e nell'abbondanza e frequenta gli ambienti popolati dalle figure più potenti della comunità. Dispone di una dimora eccellente, forse una casa nel quartiere più elegante della città o forse una serie di camere nella locanda più rinomata. Pranza ai ristoranti migliori, si serve presso i sarti più abili e alla moda e può contare su vari servitori che si occupano di ogni suo bisogno. Riceve inviti agli eventi di società dei ricchi e dei potenti e trascorre le sue serate in compagnia di politici, capi di gilda, sommi sacerdoti e nobili. Deve anche vedersela con gli inganni e i tradimenti perpetrati ai livelli più alti. Più grande è la sua ricchezza, maggiori sono le possibilità che sia trascinato in qualche intrigo politico, a volte come pedina, a volte come partecipante attivo.
 
 \end{multicols}
 
