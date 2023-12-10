@@ -387,7 +387,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79f aggiornato pod
 
-**0.80** aggiornata copertia, cambiato peso razioni secche, chiarimenti su uso bandoliera, rivisto layout indici, 
+**0.80** aggiornata copertia, cambiato peso razioni secche, chiarimenti su uso bandoliera, rivisto layout indici, metodo aggiuntivo per bere pozioni generiche, aggiunto incantesimo Palla di fango di Eithne, 
 
 - aggiunti \label{} fino a piani
 
