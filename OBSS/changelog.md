@@ -387,7 +387,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79f aggiornata versione POD
 
-**0.80** aggiornata copertia, cambiato peso razioni secche, chiarimenti su uso bandoliera, rivisto layout indici, metodo aggiuntivo per bere pozioni generiche, aggiunto incantesimo Palla di fango di Eithne, chiarimenti su sfondare e rompere oggetti, controllati valori per sfondare ed entrare, 
+**0.80** aggiornata copertia, cambiato peso razioni secche, chiarimenti su uso bandoliera, rivisto layout indici, metodo aggiuntivo per bere pozioni generiche, aggiunto incantesimo Palla di fango di Eithne, chiarimenti su sfondare e rompere oggetti, controllati valori per sfondare ed entrare, rilettura pericoli ambientali, allineata gestione soffocare ed affogare, 
 
 - aggiunti \label{} fino a piani
 
