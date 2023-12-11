@@ -357,7 +357,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 **0.78** pubblicata versione 0.77d, aggiornata copertina, aggiornata descrizione scurovisione
 
-0.78a aggiornamento per pod
+0.78a aggiornata versione POD
 
 0.78b chiarimenti su salire gradini
 
@@ -365,27 +365,27 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.79a chiarimenti su durata luce, chiarimenti su quando fare le prove, dettagli su arrampicarsi, aggiornato uso Punti Fato, riformulata distrazione maggiore, aggiornato spirito benevolo, aggiornato premonizione, piccole correnzioni in capitolo magia, aggiornate immagini per le razze
 
-0.79a aggiornamento per pod
+0.79a aaggiornata versione POD
 
 0.79b minori correzioni, aggiunto regola opzione su costo degli incantesimi, cambiate regole per tiro per colpire a caster, aggiornata scheda, aggiornata scheda utilita', aggiornamenti e semplificazioni su passare attraverso lo spazio occupato dai nemici, corretto esempio esplosione palla di fuoco
 
-0.79b aggiornamento per pod
+0.79b aggiornata versione POD
 
 0.79c pubblicata versione 0.79b, correzioni linguistiche, rilettura capitolo regole su oggetti magici, avventure e disastri, avventure nei dungeon, ingrandite immagini razze, rilettura delle razze modificata abilia' golian gigante delle colline  e golian gigante di pietra, rilettura caratteristiche, aggiunta abilita' allungo, rivisto regole per prove contrapposte, aggiornata prova di intimidire, chiarite usi ed esempi di prove contrapposte, chiarimenti su tiri salvezza incantesimi, chiarimenti su equivalenza attacchi naturali e armi magiche, chiarimento su armi doppie, aggiornato rompi cranio, aggiornato balestre, aggiornato palle rotanti, aggiornamento su lista lance, aggiornato lista scudi
 
-0.79c aggiornamento per pod
+0.79c aggiornata versione POD
 
 0.79d chiarimenti in prove, dettagli su alternativa a componenti incantesimi, corretto benedizione di cattalm, corretti alcuni errori di battitura in incantesimi, aggiunta regola opzionale per scambiare le competenza attive con dei feat, aggiornata abilita' Infondere Energia Magica, aggiunta abilita' Infondere Energia Magica Superiore, better english layout, modificato prendere il 16 in 14, diverse correzioni nella scrittura in capitolo competenze, modificata difficolta' riconoscere un incantesimo, chiarimenti su saltare, dettagli su telepatia
 
-0.79d aggiornamento per pod
+0.79d aggiornata versione POD
 
 0.79e pubblicata versione 0.79d, aggiornata copertina, rivista prova di magia, aggiunto seconda scelta ad abilita' Incantatore da combattimento, aggiornato muro mentale, corretto esempio tiro salvezza incantesimo, aggiornata condizione indifeso, modificata abilita' tempesta di furia, aggiunto quinto potenziamento ad armatura della montagna incantata, aggiunto secondo potenzialmente ad estrazione rapida, aggiornato colpo mortale - colpo indebolente - colpo mortale, chiarimenti su danno coordinato - danza della lama - tocco pietoso - un braccio un arma - energia psichica - Iaijutsu - Incantatore da Combattimento - la mia pelle, aggiornate scheda e screen per nuova prova di magia, chiarimenti su concentrazione e concentrazioni multiple, modificato effetto critico magico nel tiro salvezza adesso ogni critico aumenta di 1
 
-0.79e  aggiornato pod
+0.79e  aggiornata versione POD
 
 0.79f chiarimenti su distanza per provare ad individuare, chiarimenti su lista scudi, chiarimenti su condizione confuso, aggiornata condizione indifeso, corretta citazione di Gygax, rilettura primi capitoli, dettagli sui corollari alle golden rules, note su prendere il 10, altre correzioni linguistiche e chiarimenti, corretta indicazione su riprendersi da perdita punti ferita temporanei, rimossa difesa a tocco come valore, modificato incantesimo ferire, chiarimenti su punti ferita massimi, modificato attacco di vampiri e progenie vampirica, chiarimenti su incantesimi a tocco, modificato PF in Punti Ferita dove opportuno, aggiornato attacco a due armi, chiarimenti su condizione pietrificato, ulteriori chiarimenti minori e correzioni, cambiato livello massimo accessibilita' lista universale della magia, chiarimenti su forma del cono, chiarimenti su combinare oggetti magici, chiarimenti su incantesimi nel tomo di magia, cambiata durata studiare gli incantesimi, chiarimenti su magia mirata, chiarimenti su aumentare il tempo, chiarimenti su vantaggi, modificato costo base azioni per attivare vantaggi, aggiornata abilita' artigli - duro da soggiogare - illuminato - la mia ombra e' la mia amica - legami di furia - mani di fata - parlare con le piante - resistenza al magico, modificato svantaggio depressione - incubi ricorrenti - onesta' compulsiva, cambiato volte che si puo' usare imposizione delle mani e incanalare energia adesso e' pari alla meta' della somma del punteggio dei tratti in comune con il patrono,  rilettura parte iniziale cosmologia, aggiornati gs di animalia - data possibilita' di aumentare i valori base dell'animale - aggiunta la possibilita' di gestire una trasformazione parziale, aggiornati editti di Sumkjr, aggiornata dizione danno perforante, chiarimenti su valore merci, 
 
-0.79f aggiornato pod
+0.79f aggiornata versione POD
 
 **0.80** aggiornata copertia, cambiato peso razioni secche, chiarimenti su uso bandoliera, rivisto layout indici, metodo aggiuntivo per bere pozioni generiche, aggiunto incantesimo Palla di fango di Eithne, 
 
