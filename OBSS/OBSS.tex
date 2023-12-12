@@ -2977,28 +2977,10 @@ Quando si parla di "\textbf{quadretto}" \index{Quadretto}per indicare una distan
 
 Nel caso di spostamento diagonale\index{Movimento diagonale}\index{Spostarsi di lato} si conta una distanza di 1,5 metri per quadretto, in caso di arrotondamenti sull'ultimo quadretto si fa per difetto, ovvero si torna indietro all'ultimo attraversato.
 
-\textbf{Se ci si sposta in terreno "difficile", si percorre la metà del movimento disponibile quindi un umano copre 3 metri per Azione di movimento (ogni quadretto attraversato conta per due).}
+\textbf{Se ci si sposta in terreno "difficile", si percorre la metà del movimento disponibile quindi un umano copre 4 metri per Azione di movimento (ogni quadretto attraversato conta per due).}
 
-\subsubsection*{Creature Grandi e Piccole in Combattimento}\index{Creature Grandi e Piccole in Combattimento}\label{creaturegrandipiccole}
+Nel Mostruario sono indicate le dimensioni e relativi spazi occupati dalle creature di \hyperlink{tagliaedimensioni}{taglia} diversa (pag \pageref{tagliaedimensioni}).
 
-La tabella che segue mostra quante creature che possono circondare una creatura di taglia media a seconda della propria taglia.
-
-\medskip
-
-\textbf{Tabella: Taglia e Creature per numero per quadretto}\index{Tabella Taglia, Scala delle Creature e numero per quadretto}
-
-\medskip
-
-\begin{tabular}{lll}
-	\multirow{2}{*}\textbf{Taglia} &\multirow{2}{*}\textbf{Creature}&\multirow{2}{*}\textbf{n. creature}\\
-	{Creatura}&{in mischia}&{nel quadretto}\\
-	\toprule
-	Piccolissima & 100&16\\
-	Minuta & 64&8\\
-	Minuscola  & 32&4\\
-	Piccola  & 16&2\\
-	Media  & 8&1\\
-\end{tabular}
 
 \subsection{Distanza}\index{Distanza}\label{distanza}
 
@@ -3006,19 +2988,20 @@ Per \textbf{distanza di Tocco} \index{Distanza di Tocco} \index{Tocco}si intende
 
 Per \textbf{distanza di Mischia} \index{Distanza di Mischia} \index{Mischia}si intende una distanza che permette il combattimento corpo a corpo (1 metro attorno al personaggio, oppure 2 metri in caso di arma lunga). Nei mostri questa distanza è indicata dalla portata, per le armi da lancio è chiamata gittata.
 
-Se non indicata nell'avversario/mostro la distanza di mischia/tocco aumenta di 1 metro per ogni taglia oltre la media.\index{Taglia e distanza di mischia}
+Se non indicata nella scheda del avversario la \textbf{portata} è pari a metà dello spazio occupato arrotondato per eccesso. Un gigante delle colline, taglia enorme 3 quadretti, ha portata 2 quadretti, ovvero colpisce creature a 2 metri da lui.\index{Taglia e distanza di mischia}\index{Portata}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Esempi di Distanza in Combattimento]
 Es. per una creatura armata di lancia, la distanza di mischia è 2 metri perché l'arma è lunga. Per uno gnomo armato di martello la distanza di mischia è 1 metro.
-Per un Gigante di Collina la distanza di mischia (portata) è 3 metri. Per gli attacchi con archi, balestre o armi lanciate si parla di Gittata.
 \end{tcolorbox}\end{changemargin}
 
 A distanza di mischia una creatura di dimensioni medie può avere al massimo 8 creature medie.
 
 \end{multicols}
 
+\vfill
+
 \begin{center}
-\includegraphics[width=0.4\linewidth]{immagini/camminata.png}
+\includegraphics[width=0.5\linewidth]{immagini/camminata.png}
 \end{center}
 
 \pagebreak
@@ -25071,7 +25054,7 @@ Se non indicata la portata di una creatura dipende dalla taglia e dall'arma usat
 
 \end{multicols}
 
-\textbf{Tabella: Categorie di Taglia, Quadretti occupati e Portata}\index{Tabella Categorie di Taglia, Quadretti occupati e Portata}\index{Portata per creature}\index{Quadretti per creature}\index{Taglia e quadretti}\index{Creature per quadretto}
+\textbf{Tabella: Categorie di Taglia, Quadretti occupati e Portata}\index{Tabella Categorie di Taglia, Quadretti occupati e Portata}\index{Portata per creature}\index{Quadretti per creature}\index{Taglia e quadretti}\index{Creature per quadretto}\label{tagliaedimensioni}\hypertarget{tagliaedimensioni}{} 
 
 \medskip
 
@@ -25080,16 +25063,17 @@ Se non indicata la portata di una creatura dipende dalla taglia e dall'arma usat
 \textbf{Taglia}& \textbf{Spazio} & \textbf{Esempio}&\textbf{Quadretti}&\textbf{Dado Vita}&\textbf{Portata}\\
 Minuscola & 25 x 25 cm&Gatto, spiritello& 1/4&d4&0m\\
 Piccola & 0,5 x 0,5 m & Goblin, cane, Gnomo&1/2&d6&0m\\
-Media & 1 x 1 m & Orco, Umano, Elfo, Nano, Nibali &1&d8&1m\\
-Grande & 3 x 3 m& Ogre&2x2&d10&2m\\
-Enorme & 5 x 5 m & Gigante, Ent&3x3&d12&3m\\
-Mastodontico & 6 x 6 m&Kraken, Drago&4x4&3d6&4m\\
+Media & 1 x 1 m & Orco, Umano, Elfo, Nano, Nibali &1&d8&0m\\
+Grande & 2 x 2 m& Ogre&2x2&d10&1m\\
+Enorme & 3 x 3 m & Gigante, Ent&3x3&d12&2m\\
+Mastodontico & 4 x 4 m&Kraken, Drago&4x4&3d6&2m\\
 Colossale & 12 x 12 m&Drago anziano, Tarrasque&6x6&2d12&6m\\
 \end{tabularx}
 
+
 \medskip
 
-Le dimensioni occupate sulla griglia sono ridotte rispetto alla grandezza effettiva in quanto le miniature in commercio sono predisposte con la scala 1 quadretto=1.5metri. \textit{Quando OBSS diventerà il gioco di ruolo dominante al mondo allora avrà le sue miniature in scala!}
+I piu' avvezzi avranno notato che le dimensioni delle creature sono inferiori alle solite, questo perché le miniature in commercio sono fatte per scala 1 quadretto=1.5 metri, mentre in OBSS 1 quadretto=1 metro.
 
 \begin{multicols}{2}
 
