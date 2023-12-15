@@ -391,8 +391,11 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80 aggiornata versione POD
 
-0.80a aggiunte due citazioni di Seneca, migliorie al layout, minute su oggetti maledetti, cambiato nome linguaggio Necril in Exspiram - Acquan in Aquar, Arian in Ictum - Terran in Tremus per ispirazione dagli equivalenti latini, chiarimenti su variante iniziativa, chiarimenti su iniziativa, aggiunto successo critico e fallimento critico al tiro salvezza di onda rovente, modificato critico magico per spruzzo colorato, chiarimenti minori su portata, corretto esempio magia selvaggia, aggiornato uomo albero, 
+0.80a aggiunte due citazioni di Seneca, migliorie al layout, minute su oggetti maledetti, cambiato nome linguaggio Necril in Exspiram - Acquan in Aquar, Arian in Ictum - Terran in Tremus per ispirazione dagli equivalenti latini, chiarimenti su variante iniziativa, chiarimenti su iniziativa, aggiunto successo critico e fallimento critico al tiro salvezza di onda rovente, modificato critico magico per spruzzo colorato, chiarimenti minori su portata, corretto esempio magia selvaggia, aggiornato uomo albero
 
+0.80a aggiornata versione POD
+
+0.80b
 
 - aggiunti \label{} fino a piani
 
