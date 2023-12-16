@@ -407,6 +407,7 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
+- ts spell, complesso da calcolare. Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 per ogni Successo Critico Magico nella Prova di Magia.
 - se iniziativa 2 critici, fai 1 azione in piu' quel round
 - opportunista valutare se darlo a quali mostri
 - recupero punti ferita cos+2*ca+cm, trovare formula piu' semplice
