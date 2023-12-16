@@ -422,49 +422,43 @@ Un Arma Leggera ha Ingombro 1, Media ha 2, Grande ha 4.
 
 ~\newpage
 
-\begin{textblock*}{15cm}(1cm,1cm) % larghezza box, coord X, coord Y
+\begin{textblock*}{18cm}(1cm,1cm) % larghezza box, coord X, coord Y
 
-\begin{tabular}{lllllll}
-\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{-Comp.} &  \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}\\
+\begin{tabular}{cccccccc}
+\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{-Comp.} &  \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Ingombro (indossato)}\\
 \hline
-Imbottita   & 5    & 1   & 0  &  L   & 0   & No\\
-Cuoio   & 10   & 2   & 0   & L   & 0   & SI\\
-Cuoio rinforzato   & 25  &3  & 0   &    L   & 0 &SI \\
-Giaco di Maglia   & 15   & 4  & -1  &  M   & 0  &+1d6\\
-Scaglie& 50   & 5  & -1  &  M   & 0 &+1d6 \\
-Anelli & 150  & 6  & -1  &  M   & 0  &+1d6\\
-Pettorale    & 200  & 6  & -2  &  M  &  0 &+1d6 \\
-Bande   & 250  & 7  & -2  &  P   & 0  &+2d6 \\
-Mezza armatura   & 1200 & 8  & -2  &  P   & 1 &+2d6  \\
-da Campo& 1400 & 9 & -3  &   P   & 2  &+2d6 \\
-Completa& 1500 & 10  & -4  & P   & 3  &+2d6 \\
+Imbottita   & 5    & 1   & 0  &  L   & 0   & No&1\\
+Cuoio   & 10   & 2   & 0   & L   & 0   & SI&1\\
+Cuoio rinforzato   & 25  &3  & 0   &    L   & 0 &SI&1 \\
+Giaco di Maglia   & 15   & 4  & -1  &  M   & 0  &+1d6&2\\
+Scaglie& 50   & 5  & -1  &  M   & 0 &+1d6 &2\\
+Anelli & 150  & 6  & -1  &  M   & 0  &+1d6&2\\
+Pettorale    & 200  & 6  & -2  &  M  &  0 &+1d6 &2\\
+Bande   & 250  & 7  & -2  &  P   & 0  &+2d6 &4\\
+Mezza armatura   & 1200 & 8  & -2  &  P   & 1 &+2d6&4  \\
+da Campo& 1400 & 9 & -3  &   P   & 2  &+2d6&4 \\
+Completa& 1500 & 10  & -4  & P   & 3  &+2d6&4 \\
 \end{tabular}
 
 \riga
 
-\begin{tabular}{lccccc}
-\textbf{Scudi} & \textbf{Costo} & \textbf{Difesa} & \textbf{Penalità TC} & \textbf{Prova magia} & \textbf{Tipo}\\
+\begin{tabular}{lcccccc}
+\textbf{Scudi} & \textbf{Costo} & \textbf{Difesa} & \textbf{Penalità TC} & \textbf{Prova magia} & \textbf{Tipo} & \textbf{Ingombro (indossato)}\\
 \hline
-Brocchiero& 5 mo  &  0& 1& SI& L\\
-Scudo leggero di legno   & 3 mo  &  0& 2& SI  & L\\
-Scudo leggero di metallo & 9  mo  &  0& 3&SI  & L\\
-Scudo medio legno   & 5 mo   &  -1& 4& +1d6  & M\\
-Scudo medio metallo & 12 mo  & -1  & 5& +1d6  & M\\
-Scudo pesante di legno   & 7  mo  &  -2    & +2d6&5  & P\\
-Scudo pesante di metallo & 20 mo  &  -2    & +2d6&7  & P\\
+Brocchiero& 5 mo  &  0& 1& SI& L&1\\
+Scudo leggero di legno   & 3 mo  &  0& 2& SI  & L&1\\
+Scudo leggero di metallo & 9  mo  &  0& 3&SI  & L&1\\
+Scudo medio legno   & 5 mo   &  -1& 4& +1d6  & M&2\\
+Scudo medio metallo & 12 mo  & -1  & 5& +1d6  & M&2\\
+Scudo pesante di legno   & 7  mo  &  -2    & +2d6&5  & P&2\\
+Scudo pesante di metallo & 20 mo  &  -2    & +2d6&7  & P&2\\
 \end{tabular}
-
-\riga
-
-\textbf{Ingombri Armature e Scudi}\\
-Una Armatura Leggera ha Ingombro 2, Media 4, Pesante 8.\\
-Uno Scudo Leggero ha Ingombro 1, Media 2, Pesante 4.
 
 \riga
 
 \textbf{Tempi per indossare e togliere l'armatura}\index{Tabella Tempi per indossare e togliere l'armatura}\\
 
-\begin{tabular}{llll}
+\begin{tabular}{lccc}
 \textbf{Tipo di Armatura}& \textbf{Indossare} & \textbf{in fretta} & \textbf{Togliere}\\
 Scudo								& 1 azione 	& -     	& 1 azione\\
 Imbottita, Cuoio, Cuoio rinforzata  & 1 minuto	& 3 round  	& - \\
@@ -472,15 +466,17 @@ Giaco di Maglia						& 1 minuto	& 5 round  & 5 round\\
 Scaglie, Anelli, Pettorale, Bande   & 4 minuti 	& 1 minuto{*}  & 1 minuto\\
 Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\\
 \end{tabular}
+\medskip
+
+** è necessario qualcuno che aiuti ad indossarla
 
 \end{textblock*}
 
-\begin{textblock*}{12cm}(1cm,14.7cm) % larghezza box, coord X, coord Y
+\begin{textblock*}{12cm}(1cm,13.6cm) % larghezza box, coord X, coord Y
 
-\begin{tabular}{lllll}
+\begin{tabular}{ccccc}
 \hline
-\textbf{Cavalcatura}&\textbf{Costo}&\textbf{Mov.}&\textbf{Carico}&Km/h\\
-&(\textbf{mo})&&&\\
+\textbf{Cavalcatura}&\textbf{Costo (mo)}&\textbf{Mov.}&\textbf{Carico}&Km/h\\
 Asino o Mulo&8&12 m&210 kg&6km\\
 Cammello&50&15 m&240 kg&8km\\
 Cavallo da Galoppo&75&18 m&240 kg&12km\\
@@ -494,7 +490,7 @@ Carretto/Carro    & 15/30 mo & 9/12 m   &150/600kg    & 3/6km              \\
 
 \riga
 
-\begin{tabular}{ll}
+\begin{tabular}{cc}
 
 \textbf{Contenitore}&\textbf{Capienza}\\
 Ampolla o Boccale&0,5 litri liquidi\\
@@ -517,8 +513,8 @@ Zaino*&			1 cubo di 30 cm/15 kg di oggetti\\
 
 
 \begin{tabular}{l|cc|c}
-\textbf{Fonte di} &\multicolumn{2}{c}{\textbf{Raggio in metri}}& \textbf{Durata}  \\
-\textbf{Luce}& \textbf{Luce} & \textbf{Luce Fioca} &\\
+\textbf{Fonte di Luce} &\multicolumn{2}{c}{\textbf{Raggio in metri}}& \textbf{Durata}  \\
+& \textbf{Luce} & \textbf{Luce Fioca} &\\
 Candela  & 1 metro & -  & 1 ora\\
 Torcia & 3 metri & 6 metri  & 1 ora\\
 Lanterna & 6 metri & 6 metri  & 3 ore \\
@@ -532,12 +528,12 @@ Luce Diurna  & 6 metri & 12 metri & 1 ora \\
 
 \end{textblock*}
 
-\begin{textblock*}{6cm}(13.4cm,14.7cm) % larghezza box, coord X, coord Y
+\begin{textblock*}{6cm}(13.4cm,13.6cm) % larghezza box, coord X, coord Y
 
 \begin{tabular}{ll}
 \textbf{Oggetto}&\textbf{Costo}\\
 \textbf{Birra}&\\
-Boccale&4 mr\\
+Boccale&5 mr\\
 Caraffa (4 litri)&2 ma\\
 \textbf{Pietanze} &\\
 Banchetto (a persona)&10 mo\\
@@ -613,7 +609,7 @@ Tradizioni locali
 
 \riga
 
-\textbf{Riconoscere un incantesimo}\\ Arcana DC 11 + livello dell'incantesimo. 1 Reazione
+\textbf{Riconoscere un incantesimo}\\ Arcana DC 10 + livello dell'incantesimo. 1 Reazione
 
 \riga
 
@@ -788,21 +784,21 @@ Mod. Caratteristica + \\
 \riga
 
 \textbf{Tiro Salvezza Incantesimo}\\
-DC = 10 + Competenza Magica/x + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 x Critico nella Prova di Magia
+DC = 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 x Critico nella Prova di Magia
 
 \riga
 
 \textbf{Tiro Salvezza Magia da Oggetto}\\
-DC = 10 + 3 x livello incantesimo manifestato
+DC = 10 + 2 x livello incantesimo manifestato
 
 \riga
 
 \textbf{Tiro Salvezza Incantesimo Mostro}\\
-DC è 10 + 3 x livello incantesimo + Intelligenza
+DC è 10 + 2 x livello incantesimo + Intelligenza
 
 \riga
 
-\textbf{Quando si hanno < 50\& Punti Magia} ogni incantesimo deve essere fatto con una Prova di Magia.
+\textbf{Quando si hanno < 50\% Punti Magia} ogni incantesimo deve essere fatto con una Prova di Magia.
 
 \riga
 
