@@ -57,10 +57,12 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \CountIndexOccurrences{OBSS}
 \CountIndexOccurrences{Incantesimi}
 \CountIndexOccurrences{Mostruario}
+\CountIndexOccurrences{Tabelle}
 \CountIndexOccurrences{OggettiMagici}
 \def\TotalBox#1{\vfill%
 	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
 \makeindex[columns=4, title=Indice Analitico, intoc=true]
+\makeindex[columns=3, name=Tabelle, title=Lista delle Tabelle, intoc=true]
 \makeindex[columns=4, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
 \makeindex[columns=4, name=Mostruario, title=Lista dei Mostri, intoc=true]
 \makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
@@ -129,13 +131,11 @@ boxrule=0.3pt
 	\par
 }
 \newcommand\Yuge{\fontsize{42}{50}\selectfont}
-
 \usepackage{accanthis}
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
 \def \versione {0.80b} \fontsize{10}{12}\selectfont
-
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
@@ -1175,7 +1175,7 @@ Ogni giocatore distribuisca 5 punti tra le 6 Caratteristiche, ogni Caratteristic
 
 Ogni giocatore tiro 4d6 per 6 volte e somma i migliori 3 risultati ogni volta. Il risultato ottenuto viene controllato con la \textbf{Tabella: Tiro delle Caratteristiche} ed assegnato in ordine.
 
-\subsubsection{Tabella: Tiro delle Caratteristiche}\index{Tabella Tiro delle Caratteristiche}
+\subsubsection{Tabella: Tiro delle Caratteristiche}\index[Tabelle]{Tabella Tiro delle Caratteristiche}
 
 La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabella per determinare i valori effettivi della Caratteristiche.\\
 
@@ -1363,7 +1363,7 @@ Il Narratore è libero di inserire nuovi Tratti a suo piacere o richiesti dai gi
 
 \end{multicols}
 
-\textbf{Tabella dei Tratti}\index{Tabella dei Tratti}
+\textbf{Tabella dei Tratti}\index[Tabelle]{Tabella dei Tratti}
 
 \begin{multicols}{6}
 {\small
@@ -1650,7 +1650,7 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, ovvia
 
 \end{multicols}
 
-\textbf{Tabella: Elenco delle Professioni e relative Competenze}\index{Tabella Elenco delle Professioni e relative Competenze}\index{Professioni}
+\textbf{Tabella: Elenco delle Professioni e relative Competenze}\index[Tabelle]{Tabella Elenco delle Professioni e relative Competenze}\index{Professioni}
 
 \medskip
 
@@ -1715,7 +1715,7 @@ Non sottovalutate la scelta della Professione! Non tutto può risolversi con asc
 
 \medskip
 
-\textbf{Tabella: Elenco Competenze e relativa Caratteristica d'uso}\index{Tabella Elenco Competenze e relativa Caratteristica d'uso}
+\textbf{Tabella: Elenco Competenze e relativa Caratteristica d'uso}\index[Tabelle]{Tabella Elenco Competenze e relativa Caratteristica d'uso}
 
 \medskip
 
@@ -2243,7 +2243,7 @@ Il Narratore non ti dirà fammi una prova a difficoltà 10, ma dirà che la prov
 
 \medskip
 
-\textbf{Tabella: Classe di difficoltà}\index{Tabella Classe di difficoltà}
+\textbf{Tabella: Classe di difficoltà}\index[Tabelle]{Tabella Classe di difficoltà}
 
 \medskip
 \begin{tabularx}{0.45\textwidth}{lll}
@@ -2386,7 +2386,7 @@ Il giocatore può richiedere di effettuare la prova anche se il risultato è cer
 
 \medskip
 
-\textbf{Tabella: Modificatori, Vantaggi e Svantaggi}:\index{Tabella Modificatori, Vantaggi e Svantaggi}
+\textbf{Tabella: Modificatori, Vantaggi e Svantaggi}:\index[Tabelle]{Tabella Modificatori, Vantaggi e Svantaggi}
 
 \medskip
 
@@ -2553,7 +2553,7 @@ Se effettuato durante le ore di riposo chi amministra la cura risulterà Affatic
 
 \medskip
 
-\textbf{Saltare}\index{Tabella Saltare} \textit{Penalità dovuta all'Armatura.} \textbf{1 Azione}\\
+\textbf{Saltare}\index[Tabelle]{Tabella Saltare} \textit{Penalità dovuta all'Armatura.} \textbf{1 Azione}\\
 %\begin{tabular}{lc|lc}
 %\textbf{Salto in Lungo} & \textbf{DC}&\textbf{Salto in Alto} & \textbf{DC}\\
 %\multicolumn{2}{c}{Lunghezza} &\multicolumn{2}{c}{Altezza} \\
@@ -2623,7 +2623,7 @@ Usate la ricchezza narrativa che lingue diverse possono dare. Una avventura, in 
 
 \end{multicols}
 
-\textbf{Tabella delle Lingue}\index{Tabella delle Lingue}
+\textbf{Tabella delle Lingue}\index[Tabelle]{Tabella delle Lingue}
 
 \medskip
 
@@ -2864,7 +2864,7 @@ Se il personaggio ha già compiuto tutte le Azioni allora potrà agire nel round
 
 \bigskip
 
-\textbf{Tabella: Azioni per Round}\index{Tabella delle Azioni per Round}
+\textbf{Tabella: Azioni per Round}\index[Tabelle]{Tabella delle Azioni per Round}
 
 
 \begin{tabularx}{0.45\textwidth}{Xc}
@@ -3906,7 +3906,7 @@ Permettete sempre la prova al giocatore valutando i modificatori opportuni.
 
 \medskip
 
-\textbf{Tabella Modificatori alla prova di Consapevolezza per Rilevare Creature Invisibili}\index{Tabella Modificatori Consapevolezza per Rilevare Creature Invisibili}
+\textbf{Tabella Modificatori alla prova di Consapevolezza per Rilevare Creature Invisibili}\index[Tabelle]{Tabella Modificatori Consapevolezza per Rilevare Creature Invisibili}
 
 \medskip
 
@@ -6529,7 +6529,7 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 \medskip
 
 
-\textbf{Tabella: Tipi di Famiglio}\index{Tabella Tipi di Famiglio}
+\textbf{Tabella: Tipi di Famiglio}\index[Tabelle]{Tabella Tipi di Famiglio}
 
 \medskip
 
@@ -6591,7 +6591,7 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 \end{multicols}
 
 
-\textbf{Tabella: Abilità e Bonus del Famiglio}\index{Tabella Abilità del Famiglio}
+\textbf{Tabella: Abilità e Bonus del Famiglio}\index[Tabelle]{Tabella Abilità del Famiglio}
 
 \medskip
 
@@ -6705,7 +6705,7 @@ Determinate armi, particolarmente magiche possono ignorare la DR \index{Ignorare
 
 \medskip
 
-\textbf{Tabella: Equivalenza Armi Magiche}\index{Tabella Equivalenza Armi Magiche}
+\textbf{Tabella: Equivalenza Armi Magiche}\index[Tabelle]{Tabella Equivalenza Armi Magiche}
 
 
 \begin{tabular}{lll}
@@ -7150,7 +7150,7 @@ Se la Prova di Magia ha avuto un Fallimento Critico Magico tira 3d6 e consulta l
 
 \medskip
 
-\textbf{Tabella: Effetti Fallimento Critico magico}\index{Tabella Effetti Fallimento Critico Prova di Magia}
+\textbf{Tabella: Effetti Fallimento Critico magico}\index[Tabelle]{Tabella Effetti Fallimento Critico Prova di Magia}
 
 \medskip
 {\small
@@ -7197,7 +7197,7 @@ I Punti Magia si recuperano tutti con 8 ore di riposo. \index{Incantesimi, Recup
 
 \medskip
 
-\textbf{Tabella Punti Magia per Competenza Magica}\index{Tabella Punti Magia per Competenza Magica}
+\textbf{Tabella Punti Magia per Competenza Magica}\index[Tabelle]{Tabella Punti Magia per Competenza Magica}
 
 \medskip
 
@@ -7808,7 +7808,7 @@ I bonus concessi da Competenza Magica/4 possono essere sostituiti dalla somma de
 Lanci l'incantesimo a contatto di una creatura consenziente che non indossa un'armatura. Una forza magica protettiva circonda il bersaglio fino al termine dell'incantesimo. La Difesa del bersaglio diventa 13 + Destrezza +1/6 Competenza Magica. L'incantesimo termina se il bersaglio indossa un'armatura o interrompe l'incantesimo con un'azione.\\
 \textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia la Difesa aumenta di 1.
 
-\medskip\textbf{Artificio Druidico}\index{Trucchetto - Artificio Druidico}\\
+\medskip\textbf{Artificio Druidico}\index[Incantesimi]{Trucchetto - Artificio Druidico}\\
 \textbf{Scuola}: Universale\\
 \textbf{Livello}: 0, Non Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
@@ -7907,7 +7907,7 @@ Con una Azione puoi comandare i serpenti di attaccare. Esegui un Tiro per Colpir
 Con una Azione puoi comandare i serpenti di spostarsi fino a 6 metri.\\
 \textbf{Ogni Successo Critico Magico ottenuto} nella Prova di Magia crei un nuovo serpente.
 
-\medskip\textbf{Beffa Crudele}\index{Trucchetto - Beffa Crudele}\\
+\medskip\textbf{Beffa Crudele}\index[Incantesimi]{Trucchetto - Beffa Crudele}\\
 \textbf{Scuola}: Ammaliamento\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 1 Azione\\
@@ -8242,7 +8242,7 @@ Questo incantesimo produce il duplicato inerte di una creatura vivente come salv
 In qualsiasi momento dopo che il clone è maturato, se la creatura originale muore, la sua anima si trasferisce nel clone, purché l'anima sia libera e consenziente a tornare. Il clone è fisicamente identico all'originale e ha la stessa personalità, ricordi e caratteristiche, ma nulla dell'equipaggiamento dell'originale. I resti fisici della creatura originale, se esistono ancora, divengono inerti e non possono essere riportati alla vita, dato che l'anima della creatura è altrove. \\
 \textbf{Questo incantesimo non è selezionabile se i Patroni sono attivi}
 
-\medskip\textbf{Colpo Accurato}\index{Trucchetto - Colpo Accurato}\\
+\medskip\textbf{Colpo Accurato}\index[Incantesimi]{Trucchetto - Colpo Accurato}\\
 \textbf{Scuola}: Divinazione\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
@@ -8765,7 +8765,7 @@ Crei un dardo luminoso di forza magica. Lanciare uno o più dardi già evocati c
 Crei un dardo aggiuntivo quando raggiungi CM 3, CM 5, CM 7 e CM 9. Il danno aumenta di 2 per volta che hai preso Adepto della Magia sulla Lista Universale fino ad un massimo di 5 aumenti.\\
 \textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia l'incantesimo crea un dardo aggiuntivo.
 
-\medskip\textbf{Dardo occulto}\index{Trucchetto - Dardo occulto}\\
+\medskip\textbf{Dardo occulto}\index[Incantesimi]{Trucchetto - Dardo occulto}\\
 \textbf{Scuola}: Invocazione\\
 \textbf{Livello}: 1, Comune\\
 \textbf{Tempo di Lancio}: 1 Azione\\
@@ -9117,7 +9117,7 @@ Fermi brevemente il flusso del tempo per tutti, tranne che per te. Il tempo non 
 \textbf{Durata}: 1 giorno\\
 Una luminosità simile a quella prodotta da una torcia si sprigiona da un oggetto con cui sei in contatto. L'effetto sembra quello di una normale fiamma, ma non produce calore né necessita ossigeno. Una fiamma perenne può essere celata o nascosta ma non può essere smorzata né spenta.
 
-\medskip\textbf{Fiamma Sacra}\index{Trucchetto - Fiamma Sacra}\\
+\medskip\textbf{Fiamma Sacra}\index[Incantesimi]{Trucchetto - Fiamma Sacra}\\
 \textbf{Scuola}: Universale\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 1 Azione\\
@@ -9128,7 +9128,7 @@ Una luminosità simile a quella prodotta da una fiaccola discende su di una crea
 Il danno dell'incantesimo aumenta di 1d8 quando la somma dei Tratti in comune con il Patrono raggiunge 5, 11 e 17, ma costa 2 Azioni lanciarlo potenziato e 2 Punti Magia.\\
 \textbf{Per ogni due Successo Critico Magico ottenuto} nella Prova di Magia discende una fiamma in più che deve colpire un bersaglio diverso entro gittata.
 
-\medskip\textbf{Fiotto Acido}\index{Trucchetto - Fiotto Acido}\\
+\medskip\textbf{Fiotto Acido}\index[Incantesimi]{Trucchetto - Fiotto Acido}\\
 \textbf{Scuola}: Evocazione\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 1 Azione\\
@@ -9884,7 +9884,7 @@ Lanci l'incantesimo a contatto di un oggetto che non sia più grosso di 3 metri 
 Una sfera di luce con raggio 6 metri si espande da un punto a tua scelta entro la gittata. La sfera irradia luce intensa e luce fioca per ulteriori 12 metri. Se scegli un punto su di un oggetto che stai reggendo o che non è indossato o trasportato, la luce si irradia dall'oggetto e si muove con esso. Coprire completamente un oggetto con qualcosa di opaco, come un vaso o un elmo, blocca la luce. Se qualsiasi parte dell'area di questo incantesimo si sovrappone con l'area di oscurità creata da un incantesimo di livello 3 o più basso, l'incantesimo che ha creato l'oscurità viene dissolto. La luce creata si considera luce solare.\\
 \textbf{Nota}: i Devoti di Ljust o Sumkjr prendono +1 ai Tiri Salvezza finché illuminati da questo incantesimo
 
-\medskip\textbf{Luci Danzanti}\index{Trucchetto - Luci Danzanti}\\
+\medskip\textbf{Luci Danzanti}\index[Incantesimi]{Trucchetto - Luci Danzanti}\\
 \textbf{Scuola}: Invocazione\\
 \textbf{Livello}: 1, Non Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
@@ -9935,7 +9935,7 @@ Quando lanci l'incantesimo e come 2 Azioni durante i tuoi round successivi, puoi
 \medskip
 \textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia il danno dell'opzione pugno serrato aumenta di 1d8 e il danno dell'opzione mano afferrante aumenta di 1d6.
 
-\medskip\textbf{Mano Magica}\index{Trucchetto - Mano Magica}\\
+\medskip\textbf{Mano Magica}\index[Incantesimi]{Trucchetto - Mano Magica}\\
 \textbf{Scuola}: Evocazione\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
@@ -9946,7 +9946,7 @@ Una mano spettrale fluttuante compare in un punto a gittata, scelto da te. La ma
 Le Azioni necessarie a muovere ed usare la mano magica sono le stesse che useresti per usare la tua mano. Puoi usare la mano per manipolare un oggetto, aprire una porta o un contenitore non chiusi a chiave, inserire o recuperare un oggetto da un contenitore aperto, o versare fuori i contenuti di una fiala. Puoi muovere la mano di 9 metri ogni volta che la usi. La mano non può attaccare, attivare oggetti magici o trasportare oggetti con Ingombro maggiore di 2.\\
 \textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia l'Ingombro sollevato aumenta di 1 o raddoppi la durata.
 
-\medskip\textbf{Marchio Magico}\index{Trucchetto - Marchio Magico}\\
+\medskip\textbf{Marchio Magico}\index[Incantesimi]{Trucchetto - Marchio Magico}\\
 \textbf{Scuola}: Universale\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
@@ -9958,7 +9958,7 @@ Un incantesimo di Individuazione del Magico o Lettura del magico mostra la scrit
 Se la scritta è posta su una creatura questa scompare nel giro di un mese.\\
 \textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia scrivi un logo in più.
 
-\medskip\textbf{Messaggio}\index{Trucchetto - Messaggio}\\
+\medskip\textbf{Messaggio}\index[Incantesimi]{Trucchetto - Messaggio}\\
 \textbf{Scuola}: Trasmutazione\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
@@ -10493,7 +10493,7 @@ Gettando bastoncini intarsiati con gemme, facendo rotolare ossa di drago, impila
 
 L'incantesimo non tiene conto di ogni possibile circostanza che possa modificare il risultato, come il lancio di ulteriori incantesimi o la perdita o l'arrivo di un alleato. Se lanci l'incantesimo due o più volte prima che sia sorto il nuovo sole, c'è una probabilità cumulativa del 25\% che per ogni lancio dopo il primo tu ottenga una lettura erronea. Il Narratore effettua questo tiro in segreto.
 
-\medskip\textbf{Prestidigitazione}\index{Trucchetto - Prestidigitazione}\\
+\medskip\textbf{Prestidigitazione}\index[Incantesimi]{Trucchetto - Prestidigitazione}\\
 \textbf{Scuola}: Universale\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
@@ -10522,7 +10522,7 @@ Se lanci questo incantesimo più volte, puoi tenere attivi fino a tre effetti no
 \textbf{Durata}: 8 ore\\
 Lanci l'incantesimo a contatto di una creatura consenziente per conferirle una limitata capacità di vedere nell'immediato futuro. Per la durata, il bersaglio non può essere sorpreso e ha +1d6 sui Tiri per Colpire, prove di caratteristica e Tiri Salvezza. Inoltre, sempre per la durata, le altre creature hanno -1d6 sui Tiri per Colpire contro il bersaglio. L'incantesimo ha immediatamente termine se lo lanci di nuovo prima che la sua durata abbia fine.
 
-\medskip\textbf{Produrre Fiamma}\index{Trucchetto - Produrre Fiamma}\\
+\medskip\textbf{Produrre Fiamma}\index[Incantesimi]{Trucchetto - Produrre Fiamma}\\
 \textbf{Scuola}: Fuoco\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 1 Azione\\
@@ -10620,7 +10620,7 @@ La prossima volta che colpisci una creatura con un attacco in mischia con arma n
 \textbf{Durata}: Istantanea\\
 Tutti i cibi e le bevande non magiche in una sfera di 1 metro di raggio, centrata in un punto a gittata di tua scelta, vengono purificati e liberati da veleni e malattie. Un cibo in decomposizione viene ripulito e reso commestibile.
 
-\medskip\textbf{Raggio di Gelo}\index{Trucchetto - Raggio di Gelo}\\
+\medskip\textbf{Raggio di Gelo}\index[Incantesimi]{Trucchetto - Raggio di Gelo}\\
 \textbf{Scuola}: Acqua\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 1 Azione\\
@@ -10665,7 +10665,7 @@ Ogni creatura che inizia il suo round nella ragnatela o che vi entra durante il 
 Una creatura intralciata dalle ragnatele può usare 2 Azioni per effettuare un nuovo Tiro Salvezza. Se lo supera, non è più intralciata.\\
 La ragnatela è infiammabile e se esposta alle fiamme prende fuoco immediatamente e per 2 round causando a ogni creatura dentro la sua area 2d4 di danno da fuoco.
 
-\medskip\textbf{Randello Incantato}\index{Trucchetto - Randello Incantato}\\
+\medskip\textbf{Randello Incantato}\index[Incantesimi]{Trucchetto - Randello Incantato}\\
 \textbf{Scuola}: Animali e Piante\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 1 Azione Immediata\\
@@ -10728,7 +10728,7 @@ La creatura reincarnata ricorda la sua vita e le sue esperienze passate (stesso 
 \textit{Nota}: un Devoto o Seguace di Shayalia od Efrem reincarnerà la creatura sempre in un animale, però potendo scegliere il tipo.\\
 Non è possibile reincarnarsi in uno gnomo se non si era prima uno gnomo.
 
-\medskip\textbf{Resistenza}\index{Trucchetto - Resistenza}\\
+\medskip\textbf{Resistenza}\index[Incantesimi]{Trucchetto - Resistenza}\\
 \textbf{Scuola}: Abiurazione\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 1 Reazione\\
@@ -10817,7 +10817,7 @@ Una creatura morta nell'ultimo minuto e con cui sei in contatto, ritorna in vita
 La creatura riportata in vita deve effettuare un Tiro Salvezza su Tempra a DC 15 oppure per il trauma subito non torna in vita, se torna in vita è Esausta 2.\\
 \textbf{Nota}: a discrezione del Narratore questo potrebbe essere l'unico incantesimo concesso per riportare in vita una creatura, altrimenti vale la regola che solo un Patrono può riportare in vita.
 
-\medskip\textbf{Riparare}\index{Trucchetto - Riparare}\\
+\medskip\textbf{Riparare}\index[Incantesimi]{Trucchetto - Riparare}\\
 \textbf{Scuola}: Terra\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 1 minuto\\
@@ -11383,7 +11383,7 @@ Otto raggi di luce multicolore partono dalla tua mano. Ogni raggio è di un dive
 - \textit{7. Violetto}. Se fallisce il Tiro Salvezza, il bersaglio è accecato. Deve poi effettuare un Tiro Salvezza su Volontà all'inizio del tuo prossimo round. Se supera il Tiro Salvezza, la cecità termina. Se fallisce il Tiro Salvezza, la creatura viene trasportata su di un altro piano di esistenza a scelta del Narratore e non è più accecata (di solito, una creatura che non è sul suo piano natio, viene esiliata su di esso, mentre le altre creature sono di solito portate nei piani Astrale o Etereo).\\
 - \textit{8. Speciale}. Il bersaglio è colpito da due raggi. Tira altre due volte, ritirando gli 8.
 
-\medskip\textbf{Spruzzo Velenoso}\index{Trucchetto - Spruzzo Velenoso}\\
+\medskip\textbf{Spruzzo Velenoso}\index[Incantesimi]{Trucchetto - Spruzzo Velenoso}\\
 \textbf{Scuola}: Animali e Piante\\
 \textbf{Livello}: 0, Non Comune\\
 \textbf{Tempo di Lancio}: 1 Azione\\
@@ -11394,7 +11394,7 @@ Stendi la mano verso una creatura a gittata e che puoi vedere, e proietti una nu
 Il danno dell'incantesimo aumenta di 1d8 quando raggiungi CM 5, CM 11 e CM 17, ma costa 2 Azioni lanciarlo potenziato e 2 Punti Magia, è altresì necessario avere preso Adepto della Magia in questa Lista di Magia un numero di volte pari ai potenziamenti che si vogliono applicare.\\
 \textbf{Per ogni due Successo Critico Magico ottenuto} nella Prova di Magia influenzi un altra creatura entro gittata.
 
-\medskip\textbf{Stretta Folgorante}\index{Trucchetto - Stretta Folgorante}\\
+\medskip\textbf{Stretta Folgorante}\index[Incantesimi]{Trucchetto - Stretta Folgorante}\\
 \textbf{Scuola}: Aria\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 1 Azione\\
@@ -11438,7 +11438,7 @@ Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro
 Puoi anche specificare condizioni che attiveranno un'attività speciale per la durata dell'incantesimo. Per esempio, potresti suggerire a un gruppo di soldati di cedere tutti i loro soldi al primo mendicante che incontrino. Se la condizione non viene soddisfatta prima del termine dell'incantesimo, l'attività non verrà svolta. Se tu o uno qualsiasi dei tuoi compagni danneggia una creatura soggetta a questo incantesimo, per quella creatura l'incantesimo ha termine.\\
 \textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia aggiungi un giorno alla durata.
 
-\medskip\textbf{Taumaturgia}\index{Trucchetto - Taumaturgia}\\
+\medskip\textbf{Taumaturgia}\index[Incantesimi]{Trucchetto - Taumaturgia}\\
 \textbf{Scuola}: Universale\\
 \textbf{Livello}: 0, Non Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
@@ -11574,7 +11574,7 @@ Una fenditura che si apre sotto una struttura la fa crollare immediatamente (ved
 Fai sì che un pezzo di terreno naturale a gittata, in un cubo di 150 metri di spigolo, appaia, risuoni e odori come qualche altro tipo di terreno naturale. Di conseguenza, campi aperti o una strada possono essere trasformati in un acquitrino, colline, un crepaccio o qualche altro tipo di terreno difficile o invalicabile. Un laghetto può essere trasformato in una radura erbosa, un precipizio in una lieve pendenza, un burrone cosparso di rocce in una strada ampia e liscia. Le strutture edificate, l'equipaggiamento e le creature all'interno dell'area non mutano d'aspetto.\\
 Le peculiarità tattili del terreno sono immutate, così che le creature che entrano nell'area è probabile che svelino l'illusione. Se al contatto la differenza non è ovvia, una creatura che esamina con cautela l'illusione può tentare una prova di Consapevolezza contro la DC del Tiro Salvezza dei tuoi incantesimi per dubitare di essa. Una creatura che riconosca l'illusione per quello che è, la percepisce come una vaga immagine sovrapposta al terreno.
 
-\medskip\textbf{Tocco Gelido}\index{Trucchetto - Tocco Gelido}\\
+\medskip\textbf{Tocco Gelido}\index[Incantesimi]{Trucchetto - Tocco Gelido}\\
 \textbf{Scuola}: Necromanzia\\
 \textbf{Livello}: 0, Comune\\
 \textbf{Tempo di Lancio}: 1 Azione\\
@@ -11976,7 +11976,7 @@ Questo incantesimo chiude tutte le ferite, neutralizza qualsiasi veleno, cura tu
 L'incantesimo può fornire anche un nuovo corpo se l'originale non esiste più, in qual caso devi pronunciare il nome della creatura. La creatura riapparirà poi in uno spazio non occupato di tua scelta, entro 3 metri da te. \\
 \textbf{Questo incantesimo non dovrebbe essere disponibile. Solo un Patrono può riportare in vita.}
 
-\medskip\textbf{Salvare i Morenti}\index{Trucchetto - Salvare i Morenti}\\
+\medskip\textbf{Salvare i Morenti}\index[Incantesimi]{Trucchetto - Salvare i Morenti}\\
 \textbf{Scuola}: Animali e Piante\\
 \textbf{Livello}: 0, Leggendario\\
 \textbf{Tempo di Lancio}: 1 round\\
@@ -13323,7 +13323,7 @@ sei claudicante
 
 \bigskip
 
-\textbf{Tabella Fobie (5-15 punti)}\index{Fobie}\index{Tabella delle Fobie}
+\textbf{Tabella Fobie (5-15 punti)}\index{Fobie}\index[Tabelle]{Tabella delle Fobie}
 
 \begin{tabular}{ll}
 \textbf{Nome Fobia} & \textbf{Descrizione}\\
@@ -13591,7 +13591,7 @@ Le capacità acquisite legate ai Tratti in comune sono indipendenti dall'essere 
 
 \bigskip
 
-\textbf{Tabella Elementi - Energia}\index{Tabella degli Elementi}
+\textbf{Tabella Elementi - Energia}\index[Tabelle]{Tabella degli Elementi}
 
 \medskip
 
@@ -14459,7 +14459,7 @@ La moneta più comune è la moneta d'oro (mo). Una moneta d'oro vale 10 monete d
 
 \medskip
 
-\textbf{Tabella: Equivalenza delle Monete}\index{Tabella Equivalenza delle Monete}
+\textbf{Tabella: Equivalenza delle Monete}\index[Tabelle]{Tabella Equivalenza delle Monete}
 
 \medskip
 
@@ -14489,7 +14489,7 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 
 \medskip
 
-\textbf{Tabella: Esempi altre ricchezze}\index{Tabella Esempi altre ricchezze}
+\textbf{Tabella: Esempi altre ricchezze}\index[Tabelle]{Tabella Esempi altre ricchezze}
 
 \medskip
 
@@ -14538,7 +14538,7 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 
 \medskip
 
-\textbf{Tabella: Lista della Armi}\index{Tabella Lista della Armi}
+\textbf{Tabella: Lista della Armi}\index[Tabelle]{Tabella Lista della Armi}
 
 %\begin{tabularx}{lllll}
 \begin{xltabular}{0.99\textwidth}{lllX}
@@ -14606,7 +14606,7 @@ Un \textbf{Arma} Piccola ha \textbf{Ingombro} 1, una Arma Media ha Ingombro 2, u
 
 \medskip
 
-\textbf{Tabella: Lista dei proiettili - Archi - Balestre - Fionde}\index{Tabella Lista dei proiettili - Archi - Balestre - Fionde}
+\textbf{Tabella: Lista dei proiettili - Archi - Balestre - Fionde}\index[Tabelle]{Tabella Lista dei proiettili - Archi - Balestre - Fionde}
 
 \begin{tabular}{lcc}
 \textbf{Nome Proiettile}& \textbf{Numero di colpi/Costo (mo)} & \textbf{Danno / Tipo}\\
@@ -14744,7 +14744,7 @@ Armatura Fantozzi: banderuola 4 venti in funzione di pennacchio, pauroso elmo vi
 
 Le Penalità Competenze è la penalità che si applica alle prove di competenza influenzate dal peso ed Ingombro dell'armatura. Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella serve come linea guida per il Narratore.\index{Penalità armatura}
 
-\subsubsection{Tabella Armature}\index{Tabella Armature}
+\subsubsection{Tabella Armature}\index[Tabelle]{Tabella Armature}
 
 \label{tabella-armature}
 \begin{tabular}{llllllll}
@@ -14875,7 +14875,7 @@ Gli Scudi possono essere di tipo Leggero, Medio, Pesante.
 
 \end{multicols}
 
-\subsubsection{Tabella Scudi}\index{Tabella Scudi}
+\subsubsection{Tabella Scudi}\index[Tabelle]{Tabella Scudi}
 
 \label{tabella-scudi}
 
@@ -14915,7 +14915,7 @@ Indossare e togliere armature è una operazione che richiede tempo ed attenzione
 
 \end{multicols}
 
-\textbf{Tabella: Tempi per indossare e togliere l'armatura}\index{Tabella Tempi per indossare e togliere l'armatura}
+\textbf{Tabella: Tempi per indossare e togliere l'armatura}\index[Tabelle]{Tabella Tempi per indossare e togliere l'armatura}
 
 \begin{tabular}{llll}
 \textbf{Tipo di Armatura}& \textbf{Indossare} & \textbf{Indossare in fretta} & \textbf{Togliere}\\
@@ -15688,7 +15688,7 @@ All'uopo il capitano De Medici ha fatto brunire tutte le armature, per sorprende
 
 Le armature e le armi si possono costruire con materiali che possiedono delle innate qualità speciali. Se si costruisce un'armatura o arma con più di un materiale speciale, si ricevono i benefici solo del materiale prevalente. Si può però costruire un'arma doppia con ogni testa fatta di un materiale speciale diverso.
 
-\subsubsection{Acciaio Vivente}\index{Acciaio Vivente}\index{Tabella Costo Acciaio Vivente}
+\subsubsection{Acciaio Vivente}\index{Acciaio Vivente}\index[Tabelle]{Tabella Costo Acciaio Vivente}
 
 \label{acciaio-vivente}
 
@@ -15711,7 +15711,7 @@ Le armature e gli scudi di acciaio vivente sono formalmente di legno ma hanno le
 
 L'acciaio vivente ha 35 Punti Ferita per 2,5 cm di spessore e Durezza 15.
 
-\subsubsection{Adamantio}\index{Adamantio}\index{Tabella Costo Adamantio}
+\subsubsection{Adamantio}\index{Adamantio}\index[Tabelle]{Tabella Costo Adamantio}
 
 \label{adamantio}
 
@@ -15734,7 +15734,7 @@ Quindi le armi e le munizioni in adamantio hanno Bonus di +1 ai Tiri per Colpire
 
 Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un terzo dei Punti Ferita in più del normale. L'adamantio ha 40 Punti Ferita per 2,5 cm di spessore e Durezza 20.
 
-\subsubsection{Argento Alchemico}\index{Argento Alchemico}\index{Tabella Costo Armi Argentate}
+\subsubsection{Argento Alchemico}\index{Argento Alchemico}\index[Tabelle]{Tabella Costo Armi Argentate}
 
 \label{argento-alchemico}
 
@@ -15765,7 +15765,7 @@ Gli oggetti senza parti di metallo non possono essere costruiti in ferro freddo.
 Il ferro freddo ha 30 Punti Ferita per 2,5 cm di spessore e Durezza 10.
 
 
-\subsubsection{Mithral}\index{Mithral}\index{Tabella Costo Armi Mithral}
+\subsubsection{Mithral}\index{Mithral}\index[Tabelle]{Tabella Costo Armi Mithral}
 
 \label{mithral}
 
@@ -15842,7 +15842,7 @@ Il reato di furto sarà punito con il marchio a fuoco dei ladri, in pieno petto.
 
 A seconda delle dimensioni dell'oggetto questo può essere più o meno facile da colpire.\\
 
-\textbf{Tabella: Taglia e Difesa degli Oggetti - Colpire un Oggetto}\index{Tabella Taglia e Difesa degli Oggetti - Colpire un Oggetto}
+\textbf{Tabella: Taglia e Difesa degli Oggetti - Colpire un Oggetto}\index[Tabelle]{Tabella Taglia e Difesa degli Oggetti - Colpire un Oggetto}
 
 \medskip
 
@@ -15877,7 +15877,7 @@ Poiché la Durezza non influisce sulla DC per rompere l'oggetto, questo valore d
 \end{multicols}
 
 
-\textbf{Tabella: Durezza e Punti Ferita oggetti}\index{Tabella Durezza e Punti Ferita oggetti}
+\textbf{Tabella: Durezza e Punti Ferita oggetti}\index[Tabelle]{Tabella Durezza e Punti Ferita oggetti}
 
 \begin{tabularx}{0.95\textwidth}{lllll}
 \toprule{}
@@ -15939,7 +15939,7 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 
 \medskip
 
-\textbf{Tabella: Modificatori prova di Forza in base alla propria taglia}\index{Tabella Modificatori prova di Forza per Sfondare porta}
+\textbf{Tabella: Modificatori prova di Forza in base alla propria taglia}\index[Tabelle]{Tabella Modificatori prova di Forza per Sfondare porta}
 
 \medskip
 
@@ -16025,7 +16025,7 @@ Vi sarete accorti o lo farete presto, che le fonti di luce magiche funzionano in
 
 \bigskip
 
-\textbf{Tabella: Fonti di luce}\index{Tabella delle fonti di luce}
+\textbf{Tabella: Fonti di luce}\index[Tabelle]{Tabella delle fonti di luce}
 
 \medskip
 
@@ -16171,7 +16171,7 @@ Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la met
 
 \bigskip
 
-\textbf{Tabella: Danno da Oggetti Cadenti}\index{Tabella Danno da Oggetti Cadenti}
+\textbf{Tabella: Danno da Oggetti Cadenti}\index[Tabelle]{Tabella Danno da Oggetti Cadenti}
 
 \medskip
 
@@ -16294,7 +16294,7 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 \medskip
 
-\textbf{Tabella: Tempo Atmosferico Casuale}\index{Tabella Tempo Atmosferico Casuale}
+\textbf{Tabella: Tempo Atmosferico Casuale}\index[Tabelle]{Tabella Tempo Atmosferico Casuale}
 
 \medskip
 
@@ -16434,7 +16434,7 @@ I venti possono creare turbini di sabbia o polvere, alimentare grossi incendi, r
 
 \medskip
 
-\textbf{Tabella: Effetti del Vento Forza del Vento}\index{Tabella Effetti del Vento Forza del Vento}
+\textbf{Tabella: Effetti del Vento Forza del Vento}\index[Tabelle]{Tabella Effetti del Vento Forza del Vento}
 
 \medskip
 
@@ -16629,7 +16629,7 @@ Un equipaggio che eccede il numero minimo non influenza il movimento, ma i suoi 
 
 \end{multicols}
 
-\textbf{Tabella: Statistiche delle Navi}\index{Tabella Statistiche delle Navi}
+\textbf{Tabella: Statistiche delle Navi}\index[Tabelle]{Tabella Statistiche delle Navi}
 
 \medskip
 
@@ -16759,7 +16759,7 @@ Una torre da assedio tipica occupa uno spazio di 4 metri. Le creature al suo int
 
 \medskip
 
-\textbf{Tabella: Modificatori di Attacco delle Catapulte}\index{Tabella Modificatori di Attacco delle Catapulte}
+\textbf{Tabella: Modificatori di Attacco delle Catapulte}\index[Tabelle]{Tabella Modificatori di Attacco delle Catapulte}
 
 \medskip
 
@@ -16773,7 +16773,7 @@ Tiro consecutivo (gli operatori non riescono a vedere dove sono caduti i colpi a
 
 \bigskip
 
-\textbf{Tabella: Macchine d'Assedio}\index{Tabella Macchine d'Assedio}
+\textbf{Tabella: Macchine d'Assedio}\index[Tabelle]{Tabella Macchine d'Assedio}
 
 \medskip
 
@@ -17047,7 +17047,7 @@ Le regole seguenti riguardano i terreni di base che si possono trovare in un dun
 A volte, pareti in mattoni (pietre accatastate una sopra l'altra solitamente, ma non sempre, tenute insieme con la calce) dividono i dungeon in corridoi e stanze. Le pareti dei dungeon possono anche essere scolpite nella nuda roccia, ottenendo così un aspetto scalpellato, oppure possono essere composte di pietra liscia e semplice come si trova nelle caverne naturali. Le pareti dei dungeon sono difficili da danneggiare o da sfondare, ma di solito sono facilmente scalabili.
 
 \end{multicols}
-\textbf{Tabella: Pareti}\index{Tabella Pareti}
+\textbf{Tabella: Pareti}\index[Tabelle]{Tabella Pareti}
 \medskip
 
 \begin{tabularx}{0.95\textwidth}{XllllX}
@@ -17065,7 +17065,7 @@ Legno  & 15 cm& 20  & 5 & 60& 21\\
 
 \medskip
 
-\textbf{Tabella: Scavare un tunnel}\index{Tabella Scavare un tunnel}
+\textbf{Tabella: Scavare un tunnel}\index[Tabelle]{Tabella Scavare un tunnel}
 
 \medskip
 
@@ -17161,7 +17161,7 @@ Pavimenti Trasparenti: I pavimenti trasparenti, fatti di vetro rinforzato o di m
 
 \end{multicols}
 
-\textbf{Tabella: Porte}\index{Tabella Porte}
+\textbf{Tabella: Porte}\index[Tabelle]{Tabella Porte}
 
 \medskip
 
@@ -17537,7 +17537,7 @@ Se il gruppo è numeroso i turni di guardia per vegliare e controllare l'ambient
 
 \medskip{}
 
-\textbf{Tabella: Durata turni di guardia}\index{Tabella Durata turni di guardia}
+\textbf{Tabella: Durata turni di guardia}\index[Tabelle]{Tabella Durata turni di guardia}
 
 In questa tabella vengono indicate la durata dei turni di guardia ed il tempo totale di riposo del gruppo, nell'ipotesi di riposare almeno 8 ore.
 
@@ -17626,7 +17626,7 @@ Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tab
 \end{center}
 
 
-\textbf{Tabella: DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}\index{Tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}
+\textbf{Tabella: DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}\index[Tabelle]{Tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}
 
 \medskip
 
@@ -17640,7 +17640,7 @@ Mortale&21-26&+12 a +15\\
 
 \medskip
 
-\textbf{Tabella: Gravità del Danno per Livello}\index{Tabella Gravità del Danno per Livello}
+\textbf{Tabella: Gravità del Danno per Livello}\index[Tabelle]{Tabella Gravità del Danno per Livello}
 
 \medskip
 
@@ -18498,7 +18498,7 @@ La Fama aumenta e diminuisce in base alle proprie azioni. La Fama attuale determ
 
 \end{multicols}
 
-\textbf{Tabella: come acquisire punti Fama}\index{Tabella come acquisire punti Fama}
+\textbf{Tabella: come acquisire punti Fama}\index[Tabelle]{Tabella come acquisire punti Fama}
 
 \medskip
 
@@ -18565,7 +18565,7 @@ Le seguenti azioni e condizioni influenzano il modificatore alle prove di Carism
 
 \medskip
 
-\textbf{Tabella: Modificatori della Sfera di Notorietà}\index{Tabella Modificatori della Sfera di Notorietà}
+\textbf{Tabella: Modificatori della Sfera di Notorietà}\index[Tabelle]{Tabella Modificatori della Sfera di Notorietà}
 
 \end{multicols}
 
@@ -18620,7 +18620,7 @@ Se si ha una Fama negativa, i PNG non malvagi spesso avranno reazioni maldispost
 
 \end{multicols}
 
-\textbf{Tabella: Reazioni alla Fama Negativa}\index{Tabella Reazioni alla Fama Negativa}
+\textbf{Tabella: Reazioni alla Fama Negativa}\index[Tabelle]{Tabella Reazioni alla Fama Negativa}
 
 \medskip
 
@@ -18762,7 +18762,7 @@ I veleni fanno parte della lunga tradizione dei problemi ed avversità nei gioch
 
 
 
-\textbf{Tabella: Veleni}\index{Tabella Veleni}\label{tabellaveleni}
+\textbf{Tabella: Veleni}\index[Tabelle]{Tabella Veleni}\label{tabellaveleni}
 
 \medskip
 
@@ -18999,7 +18999,7 @@ Es: Gusterbloon FT5. La prima Lettera indica il CLIMA, la Seconda indica l'AMBIE
 
 \medskip
 
-\textbf{Tabella: della corrispondenza Pozioni - Luoghi}\index{Tabella della corrispondenza Pozioni - Luoghi}
+\textbf{Tabella: della corrispondenza Pozioni - Luoghi}\index[Tabelle]{Tabella della corrispondenza Pozioni - Luoghi}
 
 \medskip
 
@@ -19023,7 +19023,7 @@ Il Narratore è libero di usare tutte le pozioni e veleni indicate sopra oppure 
 
 Nella tabella sono indicati i costi ed effetti di queste pozioni. L'insorgenza è sempre immediata, la durata per le cure è immediata, per le altre è 1 ora (quindi la pozione Rimuovi Veleno ti "immunizza" per 1 ora contro un veleno). Per le pozioni che causano danno il Tiro Salvezza è per annullarne gli effetti.
 
-\textbf{Tabella: delle pozioni generiche}\index{Tabella delle pozioni generiche}\label{pozionigeneriche}
+\textbf{Tabella: delle pozioni generiche}\index[Tabelle]{Tabella delle pozioni generiche}\label{pozionigeneriche}
 
 \medskip
 
@@ -19044,7 +19044,7 @@ Queste pozioni generiche come le pozioni naturali hanno effetto solo la prima vo
 
 \subsection{Opzionale - Droghe}\index{Droga}\index{Opzionale - Droghe}\hypertarget{droghe}{}\label{droghe}
 
-\textbf{Tabella: Elenco Droghe}\index{Tabella Elenco Droghe}
+\textbf{Tabella: Elenco Droghe}\index[Tabelle]{Tabella Elenco Droghe}
 
 \medskip
 {\small
@@ -19172,7 +19172,7 @@ Quando si muovono nelle differenti situazioni di movimento (Tattico, Locale Via 
 Il personaggio che corre ha penalità di 1d6 nel Tiro per Colpire e di 4 nella Difesa nel round in cui corre.
 Correre come azione di movimento raddoppia la velocità di movimento e non la triplica. Solo in situazioni di non combattimento la corsa triplica il movimento (movimento locale, via terra)
 
-\subsection{Tabella: Movimento e Distanza e Velocita': a Piedi}\index{Movimento a Piedi}\index{Tabella Movimento e Distanza e Velocità : a Piedi}
+\subsection{Tabella: Movimento e Distanza e Velocita': a Piedi}\index{Movimento a Piedi}\index[Tabelle]{Tabella Movimento e Distanza e Velocità : a Piedi}
 
 Questa tabella mostra i valori base di movimento a terra in situazioni di non combattimento.
 
@@ -19363,7 +19363,7 @@ Una cavalcatura che porta un cavaliere può muoversi con andatura veloce. Tuttav
 %\includegraphics[height=0.3\linewidth]{immagini/carretto.png}
 %\end{center}
 
-\subsection{Tabella: Cavalcature e Veicoli}\index{Cavalcature}\index{Veicoli}\index{Tabella Cavalcature e Veicoli}\index{Cavallo movimento}\index{Movimento al giorno su cavallo}
+\subsection{Tabella: Cavalcature e Veicoli}\index{Cavalcature}\index{Veicoli}\index[Tabelle]{Tabella Cavalcature e Veicoli}\index{Cavallo movimento}\index{Movimento al giorno su cavallo}
 
 \medskip
 
@@ -19477,7 +19477,7 @@ Creature con 4 zampe o più possono trasportare carichi maggiori. Consulta la Ta
 %\includegraphics[height=0.5\linewidth]{immagini/cavallo.png}
 %\end{center}
 
-\textbf{Tabella: modificatori trasporto per creature con più zampe}\index{Tabella modificatori trasporto per creature con più zampe}
+\textbf{Tabella: modificatori trasporto per creature con più zampe}\index[Tabelle]{Tabella modificatori trasporto per creature con più zampe}
 
 \medskip
 
@@ -19609,7 +19609,7 @@ Non esagerate mai nell'assegnazione dei Punti Esperienza altrimenti rischierete 
 
 \medskip
 
-\textbf{Tabella: Punti Esperienza per Livello}\index{Tabella Punti Esperienza per Livello}\label{tabellapuntiesperienza}
+\textbf{Tabella: Punti Esperienza per Livello}\index[Tabelle]{Tabella Punti Esperienza per Livello}\label{tabellapuntiesperienza}
 
 \begin{tabularx}{0.45\textwidth}{lX|lX}
 \textbf{Livello} & \textbf{Punti Esperienza}&\textbf{Livello} & \textbf{Punti Esperienza}\\
@@ -19717,7 +19717,7 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 
 \medskip
 
-\textbf{Tabella: Determinare gli Incontri}\index{Tabella Determinare gli Incontri}
+\textbf{Tabella: Determinare gli Incontri}\index[Tabelle]{Tabella Determinare gli Incontri}
 
 \medskip
 
@@ -19763,7 +19763,7 @@ Partendo da un grado di Sfida stabilito (10) seguite questa tabella per stabilir
 
 \medskip
 
-\textbf{Tabella: Peso grado di Sfida per calcolo APL}\index{Tabella Peso grado di Sfida per calcolo APL}
+\textbf{Tabella: Peso grado di Sfida per calcolo APL}\index[Tabelle]{Tabella Peso grado di Sfida per calcolo APL}
 
 \medskip
 
@@ -19892,7 +19892,7 @@ Questo stimolerà i giocatori a continuare l'esplorazione, affrontare i mostri e
 
 \medskip
 
-\textbf{Tabella: Valori del Tesoro per Incontro}\index{Tesoro}\index{Tabella Valori del Tesoro per Incontro}\label{valoretesoroincontro}
+\textbf{Tabella: Valori del Tesoro per Incontro}\index{Tesoro}\index[Tabelle]{Tabella Valori del Tesoro per Incontro}\label{valoretesoroincontro}
 
 \begin{tabularx}{0.45\textwidth}{XX}
 
@@ -19929,7 +19929,7 @@ La Tabella: Ricchezza dei Personaggi per Livello può anche essere usata per sta
 
 Per un metodo equilibrato, i personaggi che vengono creati dopo il 1° livello dovrebbero spendere il 25\% della loro ricchezza per le armi, il 25\% per armatura e oggetti di protezione, il 25\% per altri oggetti magici, il 15\% per oggetti che si consumano come bacchette, pergamene e pozioni e il 10\% per un equipaggiamento normale e monete. Tipi di personaggio differenti potrebbero spendere diversamente la loro ricchezza rispetto a come suggerito; ad esempio, gli incantatori arcani potrebbero spendere di più per oggetti magici e a consumo che per le armi.\\
 
-\textbf{Tabella: Ricchezza dei Personaggi per Livello in monete d'oro}\index{Tabella Ricchezza dei Personaggi per Livello}
+\textbf{Tabella: Ricchezza dei Personaggi per Livello in monete d'oro}\index[Tabelle]{Tabella Ricchezza dei Personaggi per Livello}
 
 \begin{tabular}{ll|ll}
 \textbf{Livello} & \textbf{Ricchezza} & \textbf{Livello} & \textbf{Ricchezza}\\
@@ -20659,7 +20659,7 @@ I prezzi indicati si riferiscono agli oggetti al massimo delle loro cariche (qua
 
 \end{multicols}
 
-\subsection{Acquisire Oggetti Magici}\index{Acquisire Oggetti Magici}\index{Tabella Acquisire Oggetti Magici}
+\subsection{Acquisire Oggetti Magici}\index{Acquisire Oggetti Magici}\index[Tabelle]{Tabella Acquisire Oggetti Magici}
 
 \label{acquisire-oggetti-magici}
 
@@ -20735,7 +20735,7 @@ Come prima cosa è necessario stabilire che tipologia di oggetto si andrà a gen
 
 \medskip
 
-\textbf{Tabella: Tipologia di Oggetto magico}\index{Tabella Tipologia di Oggetto magico}
+\textbf{Tabella: Tipologia di Oggetto magico}\index[Tabelle]{Tabella Tipologia di Oggetto magico}
 
 \medskip
 
@@ -20755,7 +20755,7 @@ Oggetti Magici vari&18\\
 
 \subsubsection{Armi}
 
-\textbf{Tabella: Generazione Armi}\index{Tabella Generazione Armi}
+\textbf{Tabella: Generazione Armi}\index[Tabelle]{Tabella Generazione Armi}
 
 \medskip
 
@@ -20779,7 +20779,7 @@ Quando nel \textit{Bonus Magico} c'è scritto \textit{ritira + Capacità Special
 
 \medskip
 
-\textbf{Tabella: Capacità Speciale Armi Tipo 1}\index{Tabella Capacità Speciale Armi Tipo 1}
+\textbf{Tabella: Capacità Speciale Armi Tipo 1}\index[Tabelle]{Tabella Capacità Speciale Armi Tipo 1}
 
 \medskip
 
@@ -20812,7 +20812,7 @@ Quando nel \textit{Bonus Magico} c'è scritto \textit{ritira + Capacità Special
 %
 %\medskip
 
-\textbf{Tabella: Capacità Speciale Armi Tipo 2}\index{Tabella Capacità Speciale Armi Tipo 2}
+\textbf{Tabella: Capacità Speciale Armi Tipo 2}\index[Tabelle]{Tabella Capacità Speciale Armi Tipo 2}
 
 \medskip
 
@@ -20841,7 +20841,7 @@ Quando nel \textit{Bonus Magico} c'è scritto \textit{ritira + Capacità Special
 \includegraphics[width=0.7\linewidth]{immagini/shield1.png}
 \end{center}
 
-\textbf{Tabella: Capacità Speciale Armi Tipo 3}\index{Tabella Capacità Speciale Armi Tipo 3}
+\textbf{Tabella: Capacità Speciale Armi Tipo 3}\index[Tabelle]{Tabella Capacità Speciale Armi Tipo 3}
 
 \medskip
 
@@ -20879,7 +20879,7 @@ Quando nel \textit{Bonus Magico} c'è scritto \textit{ritira + Capacità Special
 
 \subsubsection{Armature e Scudi}
 
-\textbf{Tabella: Generazione Armature/Scudi}\index{Tabella Generazione Armature/Scudi}
+\textbf{Tabella: Generazione Armature/Scudi}\index[Tabelle]{Tabella Generazione Armature/Scudi}
 
 \medskip
 
@@ -20900,7 +20900,7 @@ Quando nel \textit{Bonus Magico} c'è scritto \textit{ritira + Capacità Special
 
 Quando nel \textit{Bonus Magico} c'è scritto \textit{ritira + Capacità Speciale Armature/Scudi Tipo...} significa che devi ritirare il 1d100, ignorando altri risultato sopra 80 e tenere il bonus magico ottenuto, poi potrai tirare sulla \textit{Tabella Capacità Speciale Armature/Scudi Tipo...} risultante.
 
-\textbf{Tabella: Capacità Speciale Armature/Scudi Tipo 1}\index{Tabella Capacità Speciale Armature/Scudi Tipo 1}
+\textbf{Tabella: Capacità Speciale Armature/Scudi Tipo 1}\index[Tabelle]{Tabella Capacità Speciale Armature/Scudi Tipo 1}
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Capacità Speciale Armature/Scudi Tipo 1}\\
@@ -20928,7 +20928,7 @@ Quando nel \textit{Bonus Magico} c'è scritto \textit{ritira + Capacità Special
 
 \medskip
 
-\textbf{Tabella: Capacità Speciale Armature/Scudi Tipo 2}\index{Tabella Capacità Speciale Armature/Scudi Tipo 2}
+\textbf{Tabella: Capacità Speciale Armature/Scudi Tipo 2}\index[Tabelle]{Tabella Capacità Speciale Armature/Scudi Tipo 2}
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Capacità Speciale Armature/Scudi Tipo 2}\\
@@ -20957,7 +20957,7 @@ Quando nel \textit{Bonus Magico} c'è scritto \textit{ritira + Capacità Special
 
 Quando viene indicata la capacità speciale Maledetta, dovete ritirare ed invertire i bonus magici dell'arma, quindi un'armatura o scudo +2 diviene un'armatura o scudo -2.
 
-\subsubsection{Amuleti, Collane e Gioielli}\index{Tabella Generazione Amuleti, Collane e Gioielli}
+\subsubsection{Amuleti, Collane e Gioielli}\index[Tabelle]{Tabella Generazione Amuleti, Collane e Gioielli}
 
 
 \begin{tabular}{ll}
@@ -21013,7 +21013,7 @@ Amuleti, Collane e Gioielli Tipo 2&7-8\\
 \end{center}
 
 
-\subsubsection{Cinture, Elmi, Stivali e Guanti}\index{Tabella Generazione Cinture, Elmi, Stivali e Guanti}
+\subsubsection{Cinture, Elmi, Stivali e Guanti}\index[Tabelle]{Tabella Generazione Cinture, Elmi, Stivali e Guanti}
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Cinture, Elmi, Stivali e Guanti}\\
@@ -21039,7 +21039,7 @@ Amuleti, Collane e Gioielli Tipo 2&7-8\\
 96-100 &Stivali Danzanti\\
 \end{tabularx}
 
-\subsubsection{Bacchette, Bastoni e Verghe}\index{Tabella Generazione Bacchette, Bastoni e Verghe}
+\subsubsection{Bacchette, Bastoni e Verghe}\index[Tabelle]{Tabella Generazione Bacchette, Bastoni e Verghe}
 
 Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
@@ -21054,7 +21054,7 @@ Verghe&8\\
 
 \medskip
 
-\textbf{Tabella: Generazione Bacchette}\index{Tabella Generazione Bacchette}
+\textbf{Tabella: Generazione Bacchette}\index[Tabelle]{Tabella Generazione Bacchette}
 
 \medskip
 
@@ -21088,7 +21088,7 @@ Verghe&8\\
 
 \medskip
 
-\textbf{Tabella: Generazione Bastoni}\index{Tabella Generazione Bastoni}
+\textbf{Tabella: Generazione Bastoni}\index[Tabelle]{Tabella Generazione Bastoni}
 
 \medskip
 
@@ -21112,7 +21112,7 @@ Verghe&8\\
 
 \medskip
 
-\textbf{Tabella: Generazione Verghe}\index{Tabella Generazione Verghe}
+\textbf{Tabella: Generazione Verghe}\index[Tabelle]{Tabella Generazione Verghe}
 
 \medskip
 
@@ -21136,7 +21136,7 @@ Verghe&8\\
 \textit{Drinking cup depicting scenes from the Odyssey, Athens 550–525 B.C.}
 \end{center}
 
-\subsubsection{Pozioni, Filtri e Olii}\index{Tabella Generazione Pozioni, Filtri e Olii}
+\subsubsection{Pozioni, Filtri e Olii}\index[Tabelle]{Tabella Generazione Pozioni, Filtri e Olii}
 
 \begin{tabular}{ll}
 \textbf{Pozione}&\textbf{1d8}\\
@@ -21198,7 +21198,7 @@ Pozione Tipo 3 &8\\
 96-100& Pozione di Veleno Maggiore\\
 \end{tabular}
 
-\subsubsection{Anelli}\index{Tabella Generazione Anelli}
+\subsubsection{Anelli}\index[Tabelle]{Tabella Generazione Anelli}
 
 \begin{tabular}{ll}
 \textbf{Anello}&\textbf{3d6}\\
@@ -21254,7 +21254,7 @@ Anello Tipo 2 &17-18\\
 \end{tabular}
 
 
-\subsubsection{Cappelli, Mantelli, Occhiali, Tuniche}\index{Tabella Generazione Cappelli, Mantelli, Occhiali, Tuniche}
+\subsubsection{Cappelli, Mantelli, Occhiali, Tuniche}\index[Tabelle]{Tabella Generazione Cappelli, Mantelli, Occhiali, Tuniche}
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Cappelli, Mantelli, Occhiali, Tuniche}\\
@@ -21285,7 +21285,7 @@ Anello Tipo 2 &17-18\\
 \end{tabularx}
 
 
-\subsubsection{Manuali e Tomi}\index{Tabella Generazione Manuali e Tomi}
+\subsubsection{Manuali e Tomi}\index[Tabelle]{Tabella Generazione Manuali e Tomi}
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Manuali e Tomi}\\
@@ -21298,7 +21298,7 @@ Anello Tipo 2 &17-18\\
 85-100& Tomo del Pensiero Limpido\\
 \end{tabularx}
 
-\subsubsection{Oggetti Magici vari}\index{Tabella Generazione Oggetti Magici vari}
+\subsubsection{Oggetti Magici vari}\index[Tabelle]{Tabella Generazione Oggetti Magici vari}
 
 Tirare 1d10 per determinare se si trova un oggetto magico raro o leggendario oppure dalle liste degli oggetti magici vari
 
@@ -21317,7 +21317,7 @@ Rari e Leggendari&10\\
 \medskip
 
 
-\subsubsection{Rari e Leggendari}\index{Tabella Generazione Rari e Leggendari}
+\subsubsection{Rari e Leggendari}\index[Tabelle]{Tabella Generazione Rari e Leggendari}
 
 \medskip
 
@@ -21358,7 +21358,7 @@ Rari e Leggendari&10\\
 
 \medskip
 
-\subsubsection{Oggetti magici vari 1}\index{Tabella Generazione Oggetti magici vari 1}
+\subsubsection{Oggetti magici vari 1}\index[Tabelle]{Tabella Generazione Oggetti magici vari 1}
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Oggetti magici vari 1}\\
@@ -21377,7 +21377,7 @@ Rari e Leggendari&10\\
 95-100&Zainetto Pratico\\
 \end{tabularx}
 
-\subsubsection{Oggetti magici vari 2}\index{Tabella Generazione Oggetti magici vari 2}
+\subsubsection{Oggetti magici vari 2}\index[Tabelle]{Tabella Generazione Oggetti magici vari 2}
 
 
 \begin{tabularx}{0.45\textwidth}{lX}
@@ -21397,7 +21397,7 @@ Rari e Leggendari&10\\
 \end{tabularx}
 
 \medskip
-\subsubsection{Oggetti magici vari 3}\index{Tabella Generazione Oggetti magici vari 3}
+\subsubsection{Oggetti magici vari 3}\index[Tabelle]{Tabella Generazione Oggetti magici vari 3}
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Oggetti magici vari 3}\\
@@ -21420,7 +21420,7 @@ Rari e Leggendari&10\\
 \end{center}
 
 
-\subsubsection{Oggetti magici vari 4}\index{Tabella Generazione Oggetti magici vari 4}
+\subsubsection{Oggetti magici vari 4}\index[Tabelle]{Tabella Generazione Oggetti magici vari 4}
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Oggetti magici vari 4}\\
@@ -24220,7 +24220,7 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 
 \bigskip
 
-\textbf{Tabella: Effetti degli oggetti magici maledetti}\index{Tabella Effetti degli oggetti magici maledetti}
+\textbf{Tabella: Effetti degli oggetti magici maledetti}\index[Tabelle]{Tabella Effetti degli oggetti magici maledetti}
 
 \medskip
 
@@ -24752,7 +24752,7 @@ Le caratteristiche magiche di un piano definisce la magia su quel piano rispetto
 
 \end{multicols}
 
-\textbf{Tabella: Effetti della Magia Selvaggia}\index{Tabella Effetti della Magia Selvaggia}
+\textbf{Tabella: Effetti della Magia Selvaggia}\index[Tabelle]{Tabella Effetti della Magia Selvaggia}
 
 \medskip
 
@@ -25078,7 +25078,7 @@ Se non indicata la portata di una creatura dipende dalla taglia e dall'arma usat
 
 \end{multicols}
 
-\textbf{Tabella: Categorie di Taglia, Quadretti occupati e Portata}\index{Tabella Categorie di Taglia, Quadretti occupati e Portata}\index{Portata per creature}\index{Quadretti per creature}\index{Taglia e quadretti}\index{Creature per quadretto}\label{tagliaedimensioni}\hypertarget{tagliaedimensioni}{} 
+\textbf{Tabella: Categorie di Taglia, Quadretti occupati e Portata}\index[Tabelle]{Tabella Categorie di Taglia, Quadretti occupati e Portata}\index{Portata per creature}\index{Quadretti per creature}\index{Taglia e quadretti}\index{Creature per quadretto}\label{tagliaedimensioni}\hypertarget{tagliaedimensioni}{} 
 
 \medskip
 
@@ -25246,7 +25246,7 @@ In caso di personaggio con Lista d'Armi \textbf{Pugno Vuoto} si controlla quanto
 
 \medskip
 
-\textbf{Tabella: Equivalenza Armi Magiche}\index{Tabella Equivalenza Armi Magiche}\hypertarget{equivalenzemagiche}{}\label{equivalenzaarmimagiche}
+\textbf{Tabella: Equivalenza Armi Magiche}\index[Tabelle]{Tabella Equivalenza Armi Magiche}\hypertarget{equivalenzemagiche}{}\label{equivalenzaarmimagiche}
 
 \medskip
 
@@ -25526,7 +25526,7 @@ Questa tabella indica per GS i Punti Esperienza relativi.
 \medskip
 
 
-\textbf{Tabella: Grado di Sfida e Punti Esperienza}\index{Tabella Punti Esperienza per Grado di Sfida}
+\textbf{Tabella: Grado di Sfida e Punti Esperienza}\index[Tabelle]{Tabella Punti Esperienza per Grado di Sfida}
 
 \medskip
 
@@ -28824,7 +28824,7 @@ I Draghi di Ljust presenti su Yeru sono errori di trasporto, magari perché il p
 
 \medskip
 
-\textbf{Tabella: accesso Lista di Magia per Draghi}\index{Tabella accesso Lista di Magia per Draghi}
+\textbf{Tabella: accesso Lista di Magia per Draghi}\index[Tabelle]{Tabella accesso Lista di Magia per Draghi}
 
 \medskip
 
@@ -46201,7 +46201,7 @@ Una creatura Esausta se influenzata da effetti di affaticamento ulteriori aument
 
 \medskip
 
-\textbf{Tabella: Livelli Affaticamento}\index{Tabella Livelli Affaticamento}
+\textbf{Tabella: Livelli Affaticamento}\index[Tabelle]{Tabella Livelli Affaticamento}
 
 \medskip
 
@@ -46223,7 +46223,7 @@ Dopo 8 ore di riposo si passa da Esausto 2 ad Esausto 1. Dopo 12 ore di riposo s
 
 L'Affaticamento ha ripercussioni anche sulle prove di competenza e movimento.
 
-\textbf{Tabella: Penalità Affaticamento}\index{Tabella Penalità Affaticamento}
+\textbf{Tabella: Penalità Affaticamento}\index[Tabelle]{Tabella Penalità Affaticamento}
 
 \medskip
 
@@ -46586,6 +46586,20 @@ Qualsiasi utilizzo di OBSS o sue parti od idee siete pregati di comunicarlo prev
 %Totale elementi nell'indice \ScriptResult
 
 \TotalBox{OBSS}
+
+{\scriptsize\printindex[Tabelle]}
+
+%\immediate\write18{./contaspell.sh > contaspell.txt}
+%\immediate\openin\myscriptresult=./contaspell.txt
+%\read\myscriptresult to \ScriptResult
+%\immediate\closein\myscriptresult
+
+\vfill
+
+%Totale elementi in questo indice \ScriptResult
+
+\TotalBox{Tabelle}
+
 
 
 {\scriptsize\printindex[Incantesimi]}
