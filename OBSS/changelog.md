@@ -395,7 +395,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80a aggiornata versione POD
 
-0.80b aggiornate tabelle screen, chiarimenti su attraversare nemici, ancora chiarimenti su portata, corretta presenza in indice dei trucchetti, creato un indice per le tabelle, corrette alcune imprecisioni nei mostri, 
+0.80b aggiornate tabelle screen, chiarimenti su attraversare nemici, ancora chiarimenti su portata, corretta presenza in indice dei trucchetti, creato un indice per le tabelle, corrette alcune imprecisioni nei mostri, anche nell'iniziativa valgono le golden rules, stabilito effetto critico nella prova di inziativa, 
 
 - aggiunti \label{} fino a piani
 
@@ -409,7 +409,7 @@ Aggiungere immagini:
 > valutare:
 - ts spell, complesso da calcolare. Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 per ogni Successo Critico Magico nella Prova di Magia.
 - ts oggetti/mostri 10+2xspell level
-- se iniziativa 2 critici, fai 1 azione in piu' quel round
+- se iniziativa 2 critici, fai 1 azione in piu' quel round, 1 critico + 1 reazione, 2 critici +1 azione?
 - opportunista valutare se darlo a quali mostri
 - recupero punti ferita cos+2*ca+cm, trovare formula piu' semplice
 - ragionare su prova di magia. farla diventare una prova di arcana e contare i successi/multipli di 6 dal valore ?
