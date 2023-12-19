@@ -399,7 +399,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80b aggiornata versione POD
 
-0.80b uso corsivo al posto di apici dove appropriato, 
+0.80b uso corsivo al posto di apici dove appropriato, piccole correzioni, 
 
 
 - aggiunti \label{} fino a piani
