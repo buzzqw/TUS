@@ -395,7 +395,12 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80a aggiornata versione POD
 
-0.80b aggiornate tabelle screen, chiarimenti su attraversare nemici, ancora chiarimenti su portata, corretta presenza in indice dei trucchetti, creato un indice per le tabelle, corrette alcune imprecisioni nei mostri, anche nell'iniziativa valgono le golden rules, stabilito effetto critico nella prova di inziativa, 
+0.80b aggiornate tabelle screen, chiarimenti su attraversare nemici, ancora chiarimenti su portata, corretta presenza in indice dei trucchetti, creato un indice per le tabelle, corrette alcune imprecisioni nei mostri, anche nell'iniziativa valgono le golden rules, stabilito effetto critico nella prova di inziativa
+
+0.80b aggiornata versione POD
+
+0.80b uso corsivo al posto di apici dove appropriato, 
+
 
 - aggiunti \label{} fino a piani
 
