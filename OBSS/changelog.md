@@ -399,7 +399,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80b aggiornata versione POD
 
-0.80b uso corsivo al posto di apici dove appropriato, piccole correzioni, prendere il 10/14/18 non puo' essere fatto nelle prove di conoscenza, 
+0.80b uso corsivo al posto di apici dove appropriato, piccole correzioni, prendere il 10/14/18 non puo' essere fatto nelle prove di conoscenza, rinominato magmin in ignim, 
 
 
 - aggiunti \label{} fino a piani
