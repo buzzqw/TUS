@@ -399,7 +399,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80b aggiornata versione POD
 
-0.80b uso corsivo al posto di apici dove appropriato, piccole correzioni, prendere il 10/14/18 non puo' essere fatto nelle prove di conoscenza, rinominato magmin in ignim, aggiornato incantesimo dito - cuoco invisibile - distruggere acqua (su un elementale), aggiornata abilita' di lista sangue morto - passo lungo, 
+0.80b uso corsivo al posto di apici dove appropriato, piccole correzioni, prendere il 10/14/18 non puo' essere fatto nelle prove di conoscenza, rinominato magmin in ignim, aggiornato incantesimo dito - cuoco invisibile - distruggere acqua (su un elementale), aggiornata abilita' di lista sangue morto - passo lungo, layout su patroni, 
 
 
 - aggiunti \label{} fino a piani
