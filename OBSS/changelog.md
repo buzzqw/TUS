@@ -399,12 +399,12 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80b aggiornata versione POD
 
-0.80b uso corsivo al posto di apici dove appropriato, piccole correzioni, prendere il 10/14/18 non puo' essere fatto nelle prove di conoscenza, rinominato magmin in ignim, aggiornato incantesimo dito - cuoco invisibile - distruggere acqua (su un elementale), aggiornata abilita' di lista sangue morto - passo lungo, layout su patroni, aggiunta variante tiro cricio,  ulteriori chiarimenti su variante tiro critico, chiarimenti su tempo di lancio incantesimi maggiore di 1 round, 
+0.80b uso corsivo al posto di apici dove appropriato, piccole correzioni, prendere il 10/14/18 non puo' essere fatto nelle prove di conoscenza, rinominato magmin in ignim, aggiornato incantesimo dito - cuoco invisibile - distruggere acqua (su un elementale), aggiornata abilita' di lista sangue morto - passo lungo, layout su patroni, aggiunta variante tiro critico,  ulteriori chiarimenti su variante tiro critico, l'iniziativa su tempo di lancio incantesimi maggiore di 1 round e' quella del primo round 
 
 0.80b aggiornata versione POD
 
 
-0.80c 
+0.80c rinominato Deynos in Elysan, corretto costo azioni di attacco extra per mostri, 
 
 - aggiunti \label{} fino a piani
 
@@ -419,7 +419,6 @@ Aggiungere immagini:
 - se combattimento in luce fioca il -2 anche all'iniziativa
 - ts spell, complesso da calcolare. Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 per ogni Successo Critico Magico nella Prova di Magia.
 - ts oggetti/mostri 10+2xspell level
-- se iniziativa 2 critici, fai 1 azione in piu' quel round, 1 critico + 1 reazione, 2 critici +1 azione?
 - opportunista valutare se darlo a quali mostri
 - recupero punti ferita cos+2*ca+cm, trovare formula piu' semplice
 - ragionare su prova di magia. farla diventare una prova di arcana e contare i successi/multipli di 6 dal valore ?

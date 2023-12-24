@@ -135,7 +135,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.80b} \fontsize{10}{12}\selectfont
+\def \versione {0.80c} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
@@ -2857,7 +2857,7 @@ Se non specificato diversamente un oggetto o Abilità che prevede un certo numer
 
 Un personaggio può eseguire fino a 3 Azioni, 1 Azione Immediata ed 1 Azione di Reazione per round.
 
-Se \textbf{nel round} del \textbf{tiro dell'iniziativa} il personaggio nella prova stessa ha tirato un \textbf{successo critico}, due volte 6, potrà usare una Azione di Reazione od Immediata in piu', se ha tirato almeno due successi critici la sua grande reattività gli permette di eseguire una Azione in piu'.\index{Critico nell'Iniziativa}. Se invece tira un fallimento critico  l'estrema lentezza gli impedirà di usare la Reazione o Azione Immediata, se tira almeno due fallimenti critici farà una azione in meno.
+Se \textbf{nel round} del \textbf{tiro dell'iniziativa} il personaggio nella prova stessa ha tirato un \textbf{successo critico}, due volte 6, potrà usare una Azione di Reazione od Immediata in piu', se ha tirato almeno \textbf{due successi critici} la sua grande reattività gli permette di eseguire una Azione in piu'.\index{Critico nell'Iniziativa}. Se invece tira un \textbf{fallimento critico}  l'estrema lentezza gli impedirà di usare la Reazione o Azione Immediata, se tira almeno \textbf{due fallimenti critici} farà una azione in meno.
 
 Queste Azioni possono essere eseguite nell'ordine preferito.
 
@@ -13531,7 +13531,7 @@ Gradh percepì sin da subito che i Draghi rappresentavano un elemento di ulterio
 
 Diffidente per natura Gradh decise di proporre ai Patroni della Genesi di fare un patto con i Draghi.
 
-Ecco che poco più di 300 anni fa, il 15 Prineva del 65 del sesto ciclo, sull'irraggiungibile isola di Alantia che divide Tiya e Curyan si trovarono da una parte la fiamma di Ljust e Calicante, Lynx e Gradh da altra, mentre Tàhil, il drago rosso malvagio ed immortale e Deynos\index{Deynos}, il drago d'argento sapiente e buono dall'altra. Atmos, ovunque, teneva traccia degli accadimenti.
+Ecco che poco più di 300 anni fa, il 15 Prineva del 65 del sesto ciclo, sull'irraggiungibile isola di Alantia che divide Tiya e Curyan si trovarono da una parte la fiamma di Ljust e Calicante, Lynx e Gradh da altra, mentre Tàhil, il drago rosso malvagio ed immortale e Elysan\index{Elysan}, il drago d'argento sapiente e buono dall'altra. Atmos, ovunque, teneva traccia degli accadimenti.
 
 Gradh cercò di imporre la cacciata dei Draghi e Lynx la chiusura permanente dei Portali. Ljust cercò di mediare capendo che non tutti i Draghi erano malvagi e che avrebbero potuto portare conoscenza e nuova spinta evolutiva a Yeru.
 
@@ -13539,7 +13539,7 @@ Calicante finse di dare ragione a Ljust con il solo scopo di portare maggior cao
 
 Capito che l'esito dell'incontro era già deciso Gradh e Lynx abbandonarono la Piana della Solitudine lasciando ai Draghi ed ai Patroni della Genesi di formalizzare la spartizione di Yeru. Era stata una sonora sconfitta per tutti e due, Gradh da allora fu ancora più diffidente, se non prevenuto, verso tutti i draghi.
 
-Tàhil diventò il Primo Generale di Calicante e l'Oscuro Odio creò per lui una regno segreto ed irraggiungibile, una terra per lui ed i Draghi in cui potessero riposarsi per poi portare distruzione su Yeru. Deynos giurò fedeltà e fiducia a Ljust e insieme promisero di governare Curyan al meglio delle possibilità.
+Tàhil diventò il Primo Generale di Calicante e l'Oscuro Odio creò per lui una regno segreto ed irraggiungibile, una terra per lui ed i Draghi in cui potessero riposarsi per poi portare distruzione su Yeru. Elysan giurò fedeltà e fiducia a Ljust e insieme promisero di governare Curyan al meglio delle possibilità.
 
 Lynx, ormai spettatore esterno, non rimase senza fare niente, temendo il peggio creò un Portale che portasse ad un nuovo Yeru, un pianeta diverso e fuori dall'influenza di Draghi e Patroni. Le sue ricerche lo portano in un mondo quasi idilliaco ricco di natura, vita animale e senza Patroni, come a lui piaceva. Lo chiamò Ker\index{Ker} in memoria di una antica amata. Sono pochissime le informazioni su questo mondo, solo pochi alti Devoti di Lynx lo conoscono e ancora meno lo hanno visitato.
 
@@ -24458,7 +24458,7 @@ Si è sempre cercato di distruggere i portali dei draghi, con sacrificio e sangu
 
 
 %Tàhil rosso
-%Deynos argento
+%Elysan argento
 %Curyan vita
 %Tiya scuro
 
@@ -25421,7 +25421,7 @@ Suggerisco che per i nemici sia comunque applicabile il Tiro Critico mentre l'Es
 Una creatura ha -1d6 ai tiri per colpire con un'arma costruita per una taglia superiore alla sua. Il Narratore può decidere che le armi di due o più taglie più grandi di quella dell'attaccante sono del tutto impossibili da usare.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-Una creatura che abbia almeno Grado di Sfida 6 a discrezione del Narratore può sferrare un attacco di Opportunità (vedi \hyperlink{opportunista}{Opportunista} pag. \pageref{opportunista})\\
+Una creatura che abbia almeno Grado di Sfida 6 a discrezione del Narratore può sferrare un attacco di Opportunità al costo di 1 Reazione (vedi \hyperlink{opportunista}{Opportunista} pag. \pageref{opportunista}).\\
 
 Per valorizzare i mostri e renderli più incisivi potete decidere che ogni mostro abbia una  \hyperlink{riduzionedeldanno}{Riduzione del Danno} pari a metà del suo Grado di Sfida ( $\frac{GS}{2}$/- )
 
@@ -25431,7 +25431,7 @@ Per valorizzare i mostri e renderli più incisivi potete decidere che ogni mostr
 
 Una creatura che può effettuare più attacchi durante il suo round ha l'abilità Multiattacco. L'Azione Multiattacco consuma 2 Azioni anche se porta più di 2 attacchi. Ogni attacco segue le recole del \hyperlink{attacchimultiplimischia}{multiattacco} (pag. \pageref{attacchimultiplimischia}).
 
-Altre Azioni elencate sotto Multiattacco ma non facente parte di quelle elencate nella descrizione del Multiattacco costano sempre 2 Azioni.\index{Multiattacco}
+Altre Azioni di Attacco elencate sotto Multiattacco ma non facente parte di quelle elencate nella descrizione del Multiattacco costano 1 Azione.\index{Multiattacco}
 
 \subsubsection{Regole dell'Afferrare per i Mostri}
 
@@ -30534,7 +30534,7 @@ Vedi Descrizione Drago Verde Antico.
 \subsubsection{Draghi di Ljust}
 
 Pochissimi draghi buoni o di Ljust come vengono chiamati, sono presenti in Yeru.
-Deynos è probabilmente il più noto e potente, un antico drago d'argento.
+Elysan è probabilmente il più noto e potente, un antico drago d'argento.
 
 
 \medskip\index[Mostruario]{Drago d'Argento Antico}\textbf{Drago d'Argento Antico}
