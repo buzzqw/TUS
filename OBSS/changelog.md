@@ -404,7 +404,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 0.80b aggiornata versione POD
 
 
-0.80c rinominato Deynos in Elysan, corretto costo azioni di attacco extra per mostri, 
+0.80c rinominato Deynos in Elysan, corretto costo azioni di attacco extra per mostril, dettagli aggiuntivi su invisibilità, 
 
 - aggiunti \label{} fino a piani
 
