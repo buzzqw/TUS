@@ -408,7 +408,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80c aggiornata versione POD
 
-
+0.80c aggiornata abilita' un colpo un morto, 
 
 
 
