@@ -408,7 +408,9 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80c aggiornata versione POD
 
-0.80c aggiornata abilita' un colpo un morto, 
+0.80d aggiornata abilita' un colpo un morto, chiarimenti su uso scudo, aggiorna lista scudo, aggiornata abilita' lo scudo e' mio amico, riordinato elenco lista armi, chiarimenti su danneggiamento oggetti incantati, in caso di critico magico fulmine e palla di fuoco aumentano di 2d6 il danno, sostituiti livelli di esausto con livelli di affaticato per rendere tutto piu' lineare, modificato condizione afferrato e differenzato da bloccato
+
+0.80d aggiornata versione POD
 
 
 

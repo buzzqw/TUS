@@ -135,7 +135,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.80c} \fontsize{10}{12}\selectfont
+\def \versione {0.80d} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
@@ -2887,6 +2887,7 @@ Eseguire più di due attacchi		& 3\\
 Lanciare un'Incantesimo*			& 2\\
 Eseguire una Azione di  Movimento*	& 1\\
 Scatto								& 1\\
+Alzare lo scudo						& 1\\
 Alzarsi da prono					& 2\\
 Aiutare qualcuno					& 2\\
 Scambiare un dialogo con qualcuno*	& 3\\
@@ -2896,7 +2897,6 @@ Prendere qualcosa dalla cintura o di pronto & 1\\
 Usare un oggetto tenuto in mano		& 1\\
 Bere una pozione tenuta alla cintura& 1\\
 Estrarre o Rinfoderare l'arma		& 1\\
-Imbracciare lo scudo				& 1\\
 Usare un oggetto magico				& 2\\
 Eseguire prova su una competenza*	& 1\\
 Sfondare una porta a spallate/calci	& 1\\
@@ -3143,7 +3143,7 @@ Se l'attaccante usa:
 \textbf{Incantesimo}: l'attaccante deve effettuare un Tiro per Colpire (TC) = 3d6 + Competenza Armi + Forza (per incantesimi in mischia) oppure + Destrezza (per incantesimi a distanza) eventuali Abilità e modificatori circostanziali.
 \end{itemize}
 
-Chi si difende ha una \textbf{Difesa} pari a: 10 + Destrezza + Scudo + Armatura + eventuali bonus magici ed Abilità e bonus circostanziali, per i mostri il valore della Difesa è già indicato.
+Chi si difende ha una \textbf{Difesa} pari a: 10 + Destrezza + Scudo (se ha usato l'Azione Alzare lo Scudo) + Armatura + eventuali bonus magici ed Abilità e bonus circostanziali, per i mostri il valore della Difesa è già indicato.
 
 Il giocatore può decidere di rinunciare a parte del bonus dato dalla Competenza Armi per avere un migliore punteggio di Difesa. Questi punti non saranno a disposizione nell'attacco successivo (vedi Altre azioni e situazioni).
 
@@ -3156,7 +3156,7 @@ Il giocatore può decidere di rinunciare a parte del bonus dato dalla Competenza
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{La difesa è sempre legittima (anonima vittima)}\end{enfasi}\end{changemargin}\medskip
 
-Ogni Tiro per Colpire (3d6 + Competenza con Armi + Forza o Destrezza + eventuali bonus/penalità) si raffronta la Difesa ovvero un valore pari a 10 + Destrezza + Scudo + Armatura + eventuali bonus/penalità.
+Ogni Tiro per Colpire (3d6 + Competenza con Armi + Forza o Destrezza + eventuali bonus/penalità) si raffronta la Difesa ovvero un valore pari a 10 + Destrezza + Scudo quando alzato + Armatura + eventuali bonus/penalità.
 
 Se il \textbf{Tiro per Colpire}, ovvero la somma dei dadi e modificatori, è pari o superiore al valore della Difesa l'avversario è stato colpito e si stabilirà il danno della ferita, dato dall'arma + punteggio Forza ed altri fattori quali bonus magici e di Abilità. 
 
@@ -3728,9 +3728,6 @@ Chi vince può spingere l'avversario fino a 0.5 metri nella direzione che vuole 
 è una Prova Contrapposta di Forza. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza. Se chi riesce nella manovra ottiene un successo critico si considera l'avversario \hyperlink{bloccato}{Bloccato}.
 
 Costa 2 Azioni fare e mantenere e liberarsi dalla presa. Si considera che chi afferra è anche afferrato ed abbia almeno una mano occupata nell'afferrare.
-
-I due contendenti perdono il bonus di Destrezza alla Difesa ed ai Tiri Salvezza su Riflessi.
-
 Muovere una creatura afferrata richiede \hyperlink{spingereavversario}{Spingere un avversario}.
 
 Ogni contendente può attaccare l'altro afferrato con un arma piccola o con pugni e calci.
@@ -4002,61 +3999,6 @@ I bonus indicati nelle Liste d'Armi si applicano solo quando combatti con le arm
 
 I vantaggi indicati sono cumulativi se non indicato diversamente.
 
-\subsection{Armi Leggere}\index{Armi Leggere} Spada Corta, Mazza leggera, Stocco, Scimitarra, Ascia ad una mano, Pugnale\label{listaarmileggere}
-
-\begin{itemize}
-
-\item 4 punti: puoi usare le Destrezza al posto della Forza nel Tiro per Colpire.
-
-\item 8 punti: aumenti di un grado il dado di danno dell'arma. Se il dado di danno diventa 8 o più l'arma acquisisce l'EDX sul massimo valore del dado.
-
-\item 12 punti: aumenti di un grado il dado di danno dell'arma. L'EDX si riduce di 1.
-
-\item 16 punti: consumando una Reazione eviti il primo attacco del round in distanza di mischia e puoi effettuare un attacco di risposta.
-
-\end{itemize}
-
-\subsection{Scuri e Accette}\index{Scuri e Accette} Ascia ad una mano, Ascia da battaglia, Ascia Martello, Grande Ascia Doppia\label{listaasce}
-
-Chiamate \textit{Asce} nella Tabella: Lista della Armi
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/scurieaccette.png}
-\end{center}
-
-\begin{itemize}
-
-\item 4 punti: La furia dei tuoi attacchi è tale che guadagni un +2 al danno sul colpo.
-
-\item 8 punti: le ferite che provochi sono cosi profonde che causi Sanguinamento. Sul primo attacco del round se andato a segno causa 1 punto di danno extra da Sanguinamento. Il danno si applica fino alla fine del round successivo.
-
-\item 12 punti: le ferite che provochi sono cosi profonde che causi Sanguinamento. Ogni tuo attacco andato a segno aumenta di uno il sanguinamento fino ad un massimo di Sanguinamento 5. Il danno si applica finché la ferita non è medicata (non è cumulativo con il vantaggio a 8 punti).
-
-\item 16 punti: consumi 3 Azioni, puoi effettuare 1 attacco contro tutte le creature in un cono pari al tuo movimento. Non si cumulano le penalità al multi attacco finché l'attacco non e' terminato.
-
-\end{itemize}
-
-\subsection{Rompi Cranio} \index{Rompi Cranio}Flagello, Grosso randello, Maglio da guerra, Martello da guerra, Mazza Leggera, Mazza Pesante, Mazza chiodata, Randello
-\label{listaarmirompicranio}
-
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/arma-mazza3.png}
-\end{center}
-
-
-\begin{itemize}
-\item 4 punti: sei diventato cosi abile che puoi controllare la forza dei tuo colpi, puoi fare danno non letale senza penalità al colpire (altrimenti -1d6 al Tiro per Colpire).
-
-Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (non cumulabile con Colpi Potenti).
-
-\item 8 punti: I tuo colpi frastornano il nemico. Se colpisci in maniera critica l'avversario a tua scelta prende un -2 al Tiro per Colpire o alla Difesa fino alla fine del prossimo round.
-
-\item 12 punti: aumenti di un grado il dado di danno dell'arma.
-
-\item 16 punti: usando una Reazione ogni volta che colpisci con un tiro critico puoi effettuare un altro Tiro per Colpire con lo stesso punteggio contro diverso avversario purché in distanza di mischia.
-
-\end{itemize}
-
 \subsection{Archi} \index{Archi} Arco Lungo, Arco Corto, Arco Lungo Composito, Arco Corto Composito\label{listaarmiarchi}
 
 
@@ -4077,27 +4019,19 @@ Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (
 \end{itemize}
 
 
-
-\subsection{Balestre}\index{Balestre}Balestra leggera, Balestra pesante, Balestra ad una mano\label{listaarmibalestr}
-
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/arma-balestra.png}
-\end{center}
-
+\subsection{Armi Leggere}\index{Armi Leggere} Spada Corta, Mazza leggera, Stocco, Scimitarra, Ascia ad una mano, Pugnale\label{listaarmileggere}
 
 \begin{itemize}
 
-\item 4 punti: guadagni l'Abilità Tiro rapido.
+\item 4 punti: puoi usare le Destrezza al posto della Forza nel Tiro per Colpire.
 
-\item 8 punti: ogni Azione che dedichi a mirare, fino ad un massimo di 2, ti concede un +2 a colpire.
+\item 8 punti: aumenti di un grado il dado di danno dell'arma. Se il dado di danno diventa 8 o più l'arma acquisisce l'EDX sul massimo valore del dado.
 
-\item 12 punti: la tua mira e freddezza sono leggendari. Puoi decidere di prendere la mira su un avversario per tutto il round. Il primo Tiro per Colpire effettuato con successo il round successivo causa due danni critici aggiuntivi. Cumulativo con il bonus a 8 punti.
+\item 12 punti: aumenti di un grado il dado di danno dell'arma. L'EDX si riduce di 1.
 
-\item 16 punti: raddoppi la gittata della balestra.
+\item 16 punti: consumando una Reazione eviti il primo attacco del round in distanza di mischia e puoi effettuare un attacco di risposta.
 
 \end{itemize}
-
 
 \subsection{Armi doppie} \index{Armi doppie} Grande Ascia Doppia, Flagello Doppio, Spada a due lame, Urgrosh\label{listaarmidoppie}
 
@@ -4109,24 +4043,6 @@ Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (
 \item 12 punti: la tua maestria è tale che l'avversario vede 3 armi. Puoi eseguire due attacchi con la mano secondaria entrambi con un -6 al Tiro per Colpire. Non cumulabile con Abilità Combattimento a due Armi o con il bonus a 4 o 8 punti.
 
 \item 16 punti: usando una Reazione ogni volta che colpisci con un tiro critico puoi effettuare un altro Tiro per Colpire con lo stesso punteggio contro diverso avversario purché in distanza di mischia.
-
-\end{itemize}
-
-
-\subsection{Palle rotanti} Flagello, Flagello Pesante, Flagello Doppio, Catena chiodata, Frusta\label{listaarmipallerotanti}
-
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/mazzafrusto.png}
-\end{center}
-
-\begin{itemize}
-\item 4 punti: dopo un'Azione di Attacco (1 o due Azioni) puoi effettuare un ulteriore attacco (consumando 1 Azione) a -5 sul Tiro per Colpire su un altro avversario in mischia (non può essere lo stesso bersaglio degli altri colpi). Il Tiro per Colpire viene fatto anche se il bonus è negativo.
-
-\item 8 punti: l'impatto dei tuo colpi è tale da stordire i nemici. Se colpisci l'avversario con un critico questo subirà -4 Difesa fino alla fine del prossimo round.
-
-\item 12 punti: la precisione ed abilità nel roteare la tua arma è tale da confondere la difesa del nemico, ignori la protezione (Difesa) data dallo scudo.
-
-\item 16 punti: puoi usare una Reazione ed usare la tua arma per cercare di deviare un Tiro per Colpire su un altro compagno a distanza di mischia da te. Questo Tiro per Colpire prende un -6.
 
 \end{itemize}
 
@@ -4151,9 +4067,9 @@ Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (
 
 
 \begin{center}
-	\includegraphics[width=0.7\linewidth]{immagini/scythe-types.png}
+\includegraphics[width=0.7\linewidth]{immagini/scythe-types.png}
 
-	\textit{Eric Sloane. A Museum of Early American Tools.}
+\textit{Eric Sloane. A Museum of Early American Tools.}
 
 \end{center}
 
@@ -4181,28 +4097,26 @@ Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (
 
 \end{itemize}
 
-\subsection{Lance} \index{Lance}Alabarda, Urgrosh, Lancia da fante, Naginata, Falcione in asta, Lancia, Brandistocco\label{listarmilance}
+\subsection{Armi da Lancio} Ascia ad una mano, Giavellotto, Tridente. Fionda, Pugnale\index{Armi da lancio}\label{listarmitiro}
 
-\begin{center}
-	\includegraphics[width=0.85\linewidth]{immagini/arma-asta.png}
-
-	\textit{1 Spiedo dei lanzichenecchi; 2 Picca; 3 Lancia; 4 Spiedo da caccia; 5 Buttafuoco; 6 Falcione; 7 Partigiana ; 8 Alabarda; 9 Alabarda; 10 Roncone; 11 Mazzapicchio; 12 Berdica}\end{center}
+Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tue armi con tale forza da fare due danni critici ma la precisione ne risente -1d6 al Tiro per Colpire. Costa 2 Azioni.
 
 \begin{itemize}
-\item 4 punti: puoi usarla anche contro avversari a distanza di 1 metro senza penalità.
+\item 4 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +2 al colpire e un +1 ai danni.
 
-\item 8 punti: usata contro una carica od in carica, purché abbia l'abilità Controcarica, fai due danni critici in aggiunta al danno.
+\item 8 punti: la tua abilità ti permette di non avere tempi morti dopo il lancio di un arma puoi istantaneamente estrarne un altra senza consumare azioni.
 
-\item 12 punti: la portata della tua lancia diventa 3 metri.
+\item 12 punti: raddoppi la Gittata dell'arma.
 
-\item 16 punti: se non sei in mischia con un avversario puoi usare la tecnica della Colpo Perforante (questa azione richiede tutte le 3 Azioni). Carichi, puoi sacrificare 1 punto CA e guadagnare 4 al danno (massimo 10 CA/40 danno) poi esegui un attacco solo col arma. Questo colpo ti porta in mischia con l'avversario e ti lascia scoperto per quel round dandoti un -4 alla Difesa.
+\item 16 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +4 al colpire e un +4 ai danni.
+
 
 \end{itemize}
 
 %\begin{center}
-%	\includegraphics[width=0.75\linewidth]{immagini/katana3.png}
+%\includegraphics[width=0.75\linewidth]{immagini/katana3.png}
 %
-%	\textit{Katana}
+%\textit{Katana}
 %\end{center}
 
 \subsection{Armi letali} Katana, Machete\index{Armi letali}\label{listarmiletali}
@@ -4220,9 +4134,9 @@ Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (
 
 
 %\begin{center}
-%	\includegraphics[width=0.8\linewidth]{immagini/alabarda2.png}
+%\includegraphics[width=0.8\linewidth]{immagini/alabarda2.png}
 %
-%	\textit{Alabarde}
+%\textit{Alabarde}
 %\end{center}
 
 \subsection{Aste} \index{Aste}Giavellotto, Estoc, Tridente, Alabarda\label{listaarmiaste}
@@ -4239,92 +4153,59 @@ Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (
 
 \end{itemize}
 
-\subsection{Spade}\index{Spade} Spada Corta, Spada Lunga, Spadone a due mani, Spada bastarda, Spada a due lame, Spada larga, Katana, Spada a due lame
+\subsection{Balestre}\index{Balestre}Balestra leggera, Balestra pesante, Balestra ad una mano\label{listaarmibalestr}
+
+
+%\begin{center}
+%\includegraphics[width=0.9\linewidth]{immagini/arma-balestra.png}
+%\end{center}
+
+
+\begin{itemize}
+
+\item 4 punti: guadagni l'Abilità Tiro rapido.
+
+\item 8 punti: ogni Azione che dedichi a mirare, fino ad un massimo di 2, ti concede un +2 a colpire.
+
+\item 12 punti: la tua mira e freddezza sono leggendari. Puoi decidere di prendere la mira su un avversario per tutto il round. Il primo Tiro per Colpire effettuato con successo il round successivo causa due danni critici aggiuntivi. Cumulativo con il bonus a 8 punti.
+
+\item 16 punti: raddoppi la gittata della balestra.
+
+\end{itemize}
+
+
+\subsection{Lance} \index{Lance}Alabarda, Urgrosh, Lancia da fante, Naginata, Falcione in asta, Lancia, Brandistocco\label{listarmilance}
 
 \begin{center}
-	\includegraphics[width=0.95\linewidth]{immagini/arma-tipi-di-spade.png}
+\includegraphics[width=0.85\linewidth]{immagini/arma-asta.png}
 
-	\textit{A Sciabola, B Scimitarra, C Spada ad una mano, D Spada larga, D Stocco, E Spada lunga, F Spada a una mano e mezza o bastarda, G Spadone a due mani}
-\end{center}
-
+\textit{1 Spiedo dei lanzichenecchi; 2 Picca; 3 Lancia; 4 Spiedo da caccia; 5 Buttafuoco; 6 Falcione; 7 Partigiana ; 8 Alabarda; 9 Alabarda; 10 Roncone; 11 Mazzapicchio; 12 Berdica}\end{center}
 
 \begin{itemize}
+\item 4 punti: puoi usarla anche contro avversari a distanza di 1 metro senza penalità.
 
-\item 4 punti: la tua maestria nella tecnica della spada ti conferisce +1 a danno e Tiro per Colpire.
+\item 8 punti: usata contro una carica od in carica, purché abbia l'abilità Controcarica, fai due danni critici in aggiunta al danno.
 
-\item 8 punti: la tua maestria nella tecnica della spada ti conferisce +2 a danno e Tiro per Colpire.
+\item 12 punti: la portata della tua lancia diventa 3 metri.
 
-\item 12 punti: hai raggiunto l'apice della maestria con la spada i tuo colpi sono precisi e difficili da prevedere ottieni +1 a danno, Tiro per Colpire e Difesa (quando hai la tua spada in mano), l'EDX della spada se presente si abbassa di 1.
-
-\item 16 punti: la tua maestria nella tecnica della spada ti conferisce +4 a danno e Tiro per Colpire.
+\item 16 punti: se non sei in mischia con un avversario puoi usare la tecnica della Colpo Perforante (questa azione richiede tutte le 3 Azioni). Carichi, puoi sacrificare 1 punto CA e guadagnare 4 al danno (massimo 10 CA/40 danno) poi esegui un attacco solo col arma. Questo colpo ti porta in mischia con l'avversario e ti lascia scoperto per quel round dandoti un -4 alla Difesa.
 
 \end{itemize}
 
-\subsection{Scudi}\index{Scudi} Scudi Leggeri, Medi, Pesanti\label{listaarmiscudi}
-
-Sei un maestro nell'uso degli scudi, anche come arma.
-
-Puoi usare lo scudo come arma, uno scudo piccolo fa 1d4 di danno (B/T), uno scudo medio fa 1d6 di danno (B/T), uno scudo pesante fa 1d8 di danno (B/T).
-Non hai penalità al colpire con lo scudo, per te lo scudo non è un arma improvvisata. Questa Lista d'Armi non ha il bonus dei 6 punti e quello dei 18 comuni alle altre Liste d'Armi.
-
-\begin{itemize}
-\item 1 punto: sei competente in tutte le tipologie di scudo. Non hai il vincolo del limite di Forza 1 sugli Scudi Pesanti.
-
-\item 2 punti: il bonus di Difesa aumenta di 1 e ogni 4 volte che prendi la competenza. Usare lo scudo come arma non ti fa perdere il bonus alla Difesa dato dallo scudo.
-
-\item 3 punti: la penalità Competenza Magica data dallo scudo diminuisce di un dado ed ogni 4 volte che prendi la competenza.
-
-\item 4 punti: la penalità alla Competenza Armi diminuisce di 1 e di 1 ogni 4 volte che prendi la competenza.
-
-La tua tecnica mescola efficacemente difesa e attacco. Il tuo scudo fornisce un bonus aggiuntivo di +1 alla Difesa. Puoi lanciare il tuo scudo con una gittata di 6 metri.
-
-\item 5 punti: aumenta di 1 la categoria di danno dello scudo (1d4 - 1d6 - 1d8 - 1d10 - 2d6 - 2d8 - 2d10) ed ogni 4 punti ulteriori in lista (9,13,17..).
-
-\item 8 punti: ogni alleato adiacente (entro 1 metro) a te ha un +1 Difesa. Se desideri puoi subire il danno di un attacco diretto ad un alleato entro 1 metro. Usare questa Abilità è una Reazione. Puoi lanciare il tuo scudo con una gittata di 9 metri.
-
-\item 12 punti: puoi lanciare il tuo scudo come fosse un arma con gittata 12 metri. Se ottieni un tiro critico lo scudo una volta che ha colpito torna nelle tue mani a fine round. Puoi subire il danno dei compagni (vedi 8 punti) entro 2 metri.
-
-\item 16 punti: se riesci a difenderti da almeno 2 attacchi da un medesimo avversario guadagni un attacco gratuito contro di lui. Costa 1 Reazione.
-
-\item 18 punti: lo scudo lanciato ha una gittata di 18 metri e torna nelle tue mani, se non impossibilitato, nelle tue mani. Questo ti permette di effettuare attacchi multipli anche da lancio. Puoi subire il danno dei compagni (vedi 8 punti) entro 8 metri, ma lo scudo rimane dove hai parato il colpo.
-
+\subsection{Palle rotanti} Flagello, Flagello Pesante, Flagello Doppio, Catena chiodata, Frusta\label{listaarmipallerotanti}
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/scudotorre.png}
-	\textit{Henry Justice Ford. Scudo Pesante}
+\includegraphics[width=0.6\linewidth]{immagini/mazzafrusto.png}
 \end{center}
 
-Non è possibile applicare questi bonus se si usa più di uno scudo.
-
-\end{itemize}
-
-\subsection{Spade e Scudi}\index{Spade e Scudi} Spada Corta, Spada Lunga, Spada larga, Scudo Piccolo, Scudo Medio\label{listaarmispadescudi}
-
 \begin{itemize}
+\item 4 punti: dopo un'Azione di Attacco (1 o due Azioni) puoi effettuare un ulteriore attacco (consumando 1 Azione) a -5 sul Tiro per Colpire su un altro avversario in mischia (non può essere lo stesso bersaglio degli altri colpi). Il Tiro per Colpire viene fatto anche se il bonus è negativo.
 
-\item 4 punti: la tua maestria nella tecnica della spada e scudo ti conferisce +1 alla Difesa ed al Tiro per Colpire.
+\item 8 punti: l'impatto dei tuo colpi è tale da stordire i nemici. Se colpisci l'avversario con un critico questo subirà -4 Difesa fino alla fine del prossimo round.
 
-\item 8 punti: La tua maestria nella tecnica della spada e scudo ti conferisce +2 alla Difesa ed al Tiro per Colpire.
+\item 12 punti: la precisione ed abilità nel roteare la tua arma è tale da confondere la difesa del nemico, ignori la protezione (Difesa) data dallo scudo.
 
-\item 12 punti: hai raggiunto l'apice della maestria con la spada e scudo, la tua capacità ti conferisce +2 alla Difesa, danno e Tiro per Colpire.
-
-\item 16 punti: ogni round puoi decidere se prendere +4 al colpire ed al danno oppure +4 alla Difesa ed ai Tiri Salvezza su Riflessi
-
-\end{itemize}
-
-\subsection{Armi da Lancio} Ascia ad una mano, Giavellotto, Tridente. Fionda, Pugnale\index{Armi da lancio}\label{listarmitiro}
-
-Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tue armi con tale forza da fare due danni critici ma la precisione ne risente -1d6 al Tiro per Colpire. Costa 2 Azioni.
-
-\begin{itemize}
-\item 4 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +2 al colpire e un +1 ai danni.
-
-\item 8 punti: la tua abilità ti permette di non avere tempi morti dopo il lancio di un arma puoi istantaneamente estrarne un altra senza consumare azioni.
-
-\item 12 punti: raddoppi la Gittata dell'arma.
-
-\item 16 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +4 al colpire e un +4 ai danni.
-
+\item 16 punti: puoi usare una Reazione ed usare la tua arma per cercare di deviare un Tiro per Colpire su un altro compagno a distanza di mischia da te. Questo Tiro per Colpire prende un -6.
 
 \end{itemize}
 
@@ -4349,6 +4230,122 @@ Puoi usare il valore della Saggezza al colpire ed al Danno al posto di Forza o D
 
 Consultate \hyperlink{equivalenzemagiche}{Vulnerabilità, Resistenza e Immunità} per sapere quanto è magico il vostro colpo.
 
+\subsection{Rompi Cranio} \index{Rompi Cranio}Flagello, Grosso randello, Maglio da guerra, Martello da guerra, Mazza Leggera, Mazza Pesante, Mazza chiodata, Randello
+\label{listaarmirompicranio}
+
+\begin{center}
+\includegraphics[width=0.9\linewidth]{immagini/arma-mazza3.png}
+\end{center}
+
+
+\begin{itemize}
+\item 4 punti: sei diventato cosi abile che puoi controllare la forza dei tuo colpi, puoi fare danno non letale senza penalità al colpire (altrimenti -1d6 al Tiro per Colpire).
+
+Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (non cumulabile con Colpi Potenti).
+
+\item 8 punti: I tuo colpi frastornano il nemico. Se colpisci in maniera critica l'avversario a tua scelta prende un -2 al Tiro per Colpire o alla Difesa fino alla fine del prossimo round.
+
+\item 12 punti: aumenti di un grado il dado di danno dell'arma.
+
+\item 16 punti: usando una Reazione ogni volta che colpisci con un tiro critico puoi effettuare un altro Tiro per Colpire con lo stesso punteggio contro diverso avversario purché in distanza di mischia.
+
+\end{itemize}
+
+\subsection{Scudi}\index{Scudi} Scudi Leggeri, Medi, Pesanti\label{listaarmiscudi}
+
+Sei un maestro nell'uso degli scudi, anche come arma.
+
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/scudotorre.png}
+	\textit{Henry Justice Ford. Scudo Pesante}
+\end{center}
+
+Puoi usare lo scudo come arma, uno scudo piccolo fa 1d4 di danno (B/T), uno scudo medio fa 1d6 di danno (B/T), uno scudo pesante fa 1d8 di danno (B/T).
+Non hai penalità al colpire con lo scudo, per te lo scudo non è un arma improvvisata. Questa Lista d'Armi non ha il bonus dei 6 punti e quello dei 18 comuni alle altre Liste d'Armi.
+
+\begin{itemize}
+\item 1 punto: sei competente in tutte le tipologie di scudo. Non hai il vincolo del limite di Forza 1 sugli Scudi Pesanti. Puoi usare l'Azione Alzare lo Scudo come Reazione.
+
+\item 2 punti: il bonus di Difesa quando alzi lo scudo aumenta di 1 e ogni 4 volte che prendi la competenza. Usare lo scudo come arma non ti fa perdere il bonus alla Difesa dato dallo scudo.
+
+\item 3 punti: la penalità Competenza Magica data dallo scudo diminuisce di un dado ed ogni 4 volte che prendi la competenza.
+
+\item 4 punti: la penalità alla Competenza Armi diminuisce di 1 e di 1 ogni 4 volte che prendi la competenza.
+
+La tua tecnica mescola efficacemente difesa e attacco. Il tuo scudo fornisce un bonus aggiuntivo di +1 alla Difesa quando alzato. Puoi lanciare il tuo scudo con una gittata di 6 metri.
+
+\item 5 punti: aumenta di 1 la categoria di danno dello scudo (1d4 - 1d6 - 1d8 - 1d10 - 2d6 - 2d8 - 2d10) ed ogni 4 punti ulteriori in lista (9,13,17..).
+
+\item 8 punti: ogni alleato adiacente (entro 1 metro) a te ha un +1 Difesa. Se desideri puoi subire il danno di un attacco diretto ad un alleato entro 1 metro. Usare questa Abilità è una Reazione. Puoi lanciare il tuo scudo con una gittata di 9 metri.
+
+\item 12 punti: puoi lanciare il tuo scudo come fosse un arma con gittata 12 metri. Se ottieni un tiro critico lo scudo una volta che ha colpito torna nelle tue mani a fine round. Puoi subire il danno dei compagni (vedi 8 punti) entro 2 metri.
+
+\item 16 punti: se riesci a difenderti da almeno 2 attacchi da un medesimo avversario guadagni un attacco gratuito contro di lui. Costa 1 Reazione. Lo scudo si considera sempre alzato anche se non usi Azioni per alzarlo.
+
+\item 18 punti: lo scudo lanciato ha una gittata di 18 metri e torna nelle tue mani, se non impossibilitato, nelle tue mani. Questo ti permette di effettuare attacchi multipli anche da lancio. Puoi subire il danno dei compagni (vedi 8 punti) entro 8 metri, ma lo scudo rimane dove hai parato il colpo. 
+
+Non è possibile applicare questi bonus se si usa più di uno scudo.
+
+\end{itemize}
+
+
+\subsection{Scuri e Accette}\index{Scuri e Accette} Ascia ad una mano, Ascia da battaglia, Ascia Martello, Grande Ascia Doppia\label{listaasce}
+
+Chiamate \textit{Asce} nella Tabella: Lista della Armi
+
+\begin{center}
+\includegraphics[width=0.9\linewidth]{immagini/scurieaccette.png}
+\end{center}
+
+\begin{itemize}
+
+\item 4 punti: La furia dei tuoi attacchi è tale che guadagni un +2 al danno sul colpo.
+
+\item 8 punti: le ferite che provochi sono cosi profonde che causi Sanguinamento. Sul primo attacco del round se andato a segno causa 1 punto di danno extra da Sanguinamento. Il danno si applica fino alla fine del round successivo.
+
+\item 12 punti: le ferite che provochi sono cosi profonde che causi Sanguinamento. Ogni tuo attacco andato a segno aumenta di uno il sanguinamento fino ad un massimo di Sanguinamento 5. Il danno si applica finché la ferita non è medicata (non è cumulativo con il vantaggio a 8 punti).
+
+\item 16 punti: consumi 3 Azioni, puoi effettuare 1 attacco contro tutte le creature in un cono pari al tuo movimento. Non si cumulano le penalità al multi attacco finché l'attacco non e' terminato.
+
+\end{itemize}
+
+\subsection{Spade}\index{Spade} Spada Corta, Spada Lunga, Spadone a due mani, Spada bastarda, Spada a due lame, Spada larga, Katana, Spada a due lame
+
+\begin{center}
+\includegraphics[width=0.95\linewidth]{immagini/arma-tipi-di-spade.png}
+
+\textit{A Sciabola, B Scimitarra, C Spada ad una mano, D Spada larga, D Stocco, E Spada lunga, F Spada a una mano e mezza o bastarda, G Spadone a due mani}
+\end{center}
+
+
+\begin{itemize}
+
+\item 4 punti: la tua maestria nella tecnica della spada ti conferisce +1 a danno e Tiro per Colpire.
+
+\item 8 punti: la tua maestria nella tecnica della spada ti conferisce +2 a danno e Tiro per Colpire.
+
+\item 12 punti: hai raggiunto l'apice della maestria con la spada i tuo colpi sono precisi e difficili da prevedere ottieni +1 a danno, Tiro per Colpire e Difesa (quando hai la tua spada in mano), l'EDX della spada se presente si abbassa di 1.
+
+\item 16 punti: la tua maestria nella tecnica della spada ti conferisce +4 a danno e Tiro per Colpire.
+
+\end{itemize}
+
+\subsection{Spade e Scudi}\index{Spade e Scudi} Spada Corta, Spada Lunga, Spada larga, Scudo Piccolo, Scudo Medio\label{listaarmispadescudi}
+
+\begin{itemize}
+
+\item 4 punti: la tua maestria nella tecnica della spada e scudo ti conferisce +1 alla Difesa ed al Tiro per Colpire.
+
+\item 8 punti: La tua maestria nella tecnica della spada e scudo ti conferisce +2 alla Difesa ed al Tiro per Colpire.
+
+\item 12 punti: hai raggiunto l'apice della maestria con la spada e scudo, la tua capacità ti conferisce +2 alla Difesa, danno e Tiro per Colpire.
+
+\item 16 punti: ogni round puoi decidere se prendere +4 al colpire ed al danno oppure +4 alla Difesa ed ai Tiri Salvezza su Riflessi
+
+\end{itemize}
+
+
 \subsection{Armi Semplici} Pugnale, Mazza Leggera, Randello, Mazza chiodata, Bastone, Balestra (Leggera), Giavellotto.\index{Armi Semplici}\hypertarget{armi.semplici}{}\label{listaarmisemplice}
 
 Questa suddivisione è sceglibile anche da chi non ha assegnato punti a Competenza Armi.
@@ -4367,9 +4364,9 @@ Utilizzando 2 Azioni può concentrarsi e passare ad utilizzare i bonus derivanti
 
 
 \begin{center}
-	\includegraphics[width=0.55\linewidth]{immagini/brancastle.png}
+\includegraphics[width=0.60\linewidth]{immagini/brancastle.png}
 
-	\textit{Castello di Bran, Transilvania}
+\textit{Castello di Bran, Transilvania}
 \end{center}
 
 \pagebreak
@@ -4552,10 +4549,10 @@ I giocatori in accordo con il Narratore possono creare loro Manovre d'Arme perso
 \vfill
 
 \begin{center}
-	%\includegraphics[width=0.12\linewidth,angle=90]{immagini/Bushido_Calligraphy.png}
-	\includegraphics[width=0.10\linewidth]{immagini/Bushido_Calligraphy.png}
+%\includegraphics[width=0.12\linewidth,angle=90]{immagini/Bushido_Calligraphy.png}
+\includegraphics[width=0.10\linewidth]{immagini/Bushido_Calligraphy.png}
 
-	\textit{Trascrizione in kanji di} bushido
+\textit{Trascrizione in kanji di} bushido
 \end{center}
 
 
@@ -4751,8 +4748,8 @@ La \textbf{seconda volta} che prendi questa Abilità guadagni un Famiglio (vedi 
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/animalia3.png}
-	\textit{Henry Justice Ford}
+\includegraphics[width=0.9\linewidth]{immagini/animalia3.png}
+\textit{Henry Justice Ford}
 \end{center}
 
 \subsection*{Armatura del Devoto}\index{Armatura del Devoto}\label{armaturadeldoveto}
@@ -5660,11 +5657,11 @@ Attivare e mantenere l'Abilità richiede 2 Azioni. Puoi mantenere l'Abilità un 
 
 \textbf{Tiri Salvezza}: +1 Tempra, +1 Riflessi
 
-Puoi usare un Brocchiero senza dover fare una Prova di Magia quando lanci un incantesimo.
+Puoi indossare un Brocchiero senza dover fare una Prova di Magia quando lanci un incantesimo.
 
-La \textbf{seconda volta} che si prende questa Abilità, requisito Competenza Armi 3, la penalità alla Competenza Armi diminuisce di 1.
+La \textbf{seconda volta} che si prende questa Abilità, requisito Competenza Armi 3, puoi usare scudi medi senza dover fare una Prova di Magia.
 
-La \textbf{terza volta} che si prende questa Abilità, requisito Competenza Armi 5, la penalità alla Competenza Armi diminuisce di 3, puoi usare scudi leggeri senza dover fare una Prova di Magia.
+La \textbf{terza volta} che si prende questa Abilità, requisito Competenza Armi 5, la penalità a Tiro per Colpire diminuisce di 1.
 
 \subsection*{Magie potenti}\index{Magie potenti}\label{magiepotenti}
 
@@ -6237,7 +6234,7 @@ Usando l'Imposizione delle mani puoi, rinunciando ad un numero di d6 curativi in
 
 \textbf{3d6} Punteggio Tratti in comune 6: Stordito - Confuso - Spaventato
 
-\textbf{4d6} Punteggio Tratti in comune 9: Malato - Avvelenato - Paralizzato - Con Punti Ferita Massimi ridotti (recupero di 2d6) - Esausto (riduci di un grado)
+\textbf{4d6} Punteggio Tratti in comune 9: Malato - Avvelenato - Paralizzato - Con Punti Ferita Massimi ridotti (recupero di 2d6) - Affaticato (riduci di un grado)
 
 La \textbf{seconda volta} che prendi l'Abilità, requisito somma Tratti in comune 11, puoi anche, rinunciando completamente ai dadi di cura, rigenerare gli arti - togliere la condizione di Accecato oppure Sordo.
 
@@ -6927,7 +6924,7 @@ Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie 
 
 Il bersaglio di un incantesimo deve essere nella gittata dell'incantesimo. Per un incantesimo come Dardo arcano, il bersaglio è una creatura. Per un incantesimo come palla di fuoco, il bersaglio è il punto nello spazio da cui la sfera di fuoco esplode. La maggior parte degli incantesimi hanno una gittata espressa in metri. Alcuni incantesimi possono prendere a bersaglio solo una creatura (te compreso) con cui sei in contatto fisico. Altri incantesimi, come l'incantesimo scudo, agiscono solo su di te: questi incantesimi hanno come gittata \textit{personale}. Un incantesimo che ha come area di effetto \textit{un alleato} può essere lanciato anche su se stesso.
 
-Gli incantesimi che creano coni o linee di effetto che originano da te, hanno anch'essi gittata personale, a indicare che sei tu il punto di origine dell'effetto dell'incantesimo (vedi \textit{Aree di Effetto} più avanti in questo capitolo).
+Gli incantesimi che creano coni o linee di effetto che originano da te, hanno anch'essi gittata personale\index{Gittata Personale}, a indicare che sei tu il punto di origine dell'effetto dell'incantesimo (vedi \textit{Aree di Effetto} più avanti in questo capitolo).
 
 \subsubsection{Lanciare Incantesimi in Armatura}\index{Lanciare Incantesimi in Armatura}\label{magielanciareincantesimiinarmatura}\index{Incantesimi, in Armatura}
 
@@ -9226,7 +9223,7 @@ Una freccia verde luminosa saetta verso un bersaglio a gittata ed esplode con un
 Esplodi un fulmine che forma una linea lunga 30 metri e larga 1 metro che parte da dove ti trovi in una direzione scelta da te. Ogni creatura sulla linea deve superare un Tiro Salvezza su Riflessi. La creatura subisce 8d6 danni da fulmine se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.\\
 Il fulmine incendia gli oggetti infiammabili nell'area che non sono indossati o trasportati.\\
 Il fulmine se lanciato contro della pietra dura lavorata rimbalza con un angolo di uscita uguale a quello di entrata (\textbackslash|/) (180-angolo di entrata). Un fulmine lanciato in acqua crea una sfera di 3 metri di raggio di elettricità nel punto in cui entra.\\
-\textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia il danno aumenta di 3d6.\\
+\textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia il danno aumenta di 2d6.\\
 \textbf{Tiro Salvezza Successo/Fallimento Critico}: In caso di fallimento critico il danno raddoppia, in caso di successo critico il danno viene ulteriormente dimezzato
 
 \medskip\textbf{Fulmini Incatenati}\index[Incantesimi]{Fulmini Incatenati}\\
@@ -10230,7 +10227,7 @@ Mi sparpaglio in giro per evitare incantesimi ad area (detta da un giocatore per
 Un fascio di luce gialla parte dal tuo dito puntato verso un punto a gittata scelto da te e poi esplode con un boato roboante e si trasforma in lingua di fiamme.\\
 Ogni creatura in una sfera di 6 metri di raggio centrata in quel punto deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 8d6 danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.\\
 Il fuoco si propaga ed occupa tutto il volume disponibile entro i 6 metri dal punto di esplosione. Il fuoco incendia gli oggetti infiammabili nell'area che non sono indossati o trasportati.\\
-\textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia il danno base aumenta di 3d6.\\
+\textbf{Per ogni Successo Critico Magico ottenuto} nella Prova di Magia il danno base aumenta di 2d6.\\
 \textbf{Tiro Salvezza Successo/Fallimento Critico}: In caso di fallimento critico il danno raddoppia, in caso di successo critico il danno viene ulteriormente dimezzato
 
 \medskip\textbf{Palla di Fuoco Ritardata}\index[Incantesimi]{Palla di Fuoco Ritardata}\\
@@ -10822,7 +10819,7 @@ L'obiettivo oggetto dell'incantesimo non è più avvelenato.
 \textbf{Componenti}: V, S, M (diamante del valore di 300 mo, che l'incantesimo consuma)\\
 \textbf{Durata}: Istantanea\\
 Una creatura morta nell'ultimo minuto e con cui sei in contatto, ritorna in vita con 1 punto ferita. Questo incantesimo non può riportare in vita le persone morte di vecchiaia, né può ripristinare le parti del corpo mancanti.\\
-La creatura riportata in vita deve effettuare un Tiro Salvezza su Tempra a DC 15 oppure per il trauma subito non torna in vita, se torna in vita è Esausta 2.\\
+La creatura riportata in vita deve effettuare un Tiro Salvezza su Tempra a DC 15 oppure per il trauma subito non torna in vita, se torna in vita è Affaticato 3.\\
 \textbf{Nota}: a discrezione del Narratore questo potrebbe essere l'unico incantesimo concesso per riportare in vita una creatura, altrimenti vale la regola che solo un Patrono può riportare in vita.
 
 \medskip\textbf{Riparare}\index[Incantesimi]{Trucchetto - Riparare}\\
@@ -13139,7 +13136,7 @@ Non facciamolo, aspettiamo domani..magari è meglio!
 
 \textbf{Incubi Ricorrenti}\index{Incubi Ricorrenti}
 
-\textbf{10}: Il personaggio non riesce a dormire bene. Ogni notte tira un d4. Con 1 il personaggio dorme normalmente, 2 o 3 il personaggio dorme un sonno agitato e si sveglia affaticato, con 4 ti svegli in piena notte urlando, la mattina sei esausto.
+\textbf{10}: Il personaggio non riesce a dormire bene. Ogni notte tira un d4. Con 1 il personaggio dorme normalmente, 2 o 3 il personaggio dorme un sonno agitato e si sveglia affaticato, con 4 ti svegli in piena notte urlando, la mattina sei Affaticato.
 
 \textbf{Libro Aperto}\index{Libro Aperto}
 
@@ -14848,7 +14845,7 @@ Le armature medie offrono più protezione di quelle leggere, ma limitano i movim
 
 \textbf{Usare un'Armatura senza l'adeguata competenza} impedisce di usare il bonus di Destrezza e diminuisce il bonus alla Difesa fornito di 1.
 
-\textbf{Usare uno Scudo senza l'adeguata competenza} peggiora il Tiro per Colpire di 1 e diminuisce di 1 il Bonus Difesa concesso.
+\textbf{Alzare uno Scudo senza l'adeguata competenza} peggiora il Tiro per Colpire di 1 e diminuisce di 1 il Bonus Difesa concesso.
 
 \textbf{Dormire in Armatura}: se si dorme in un'armatura media o pesante, il giorno seguente si è automaticamente \hyperlink{affaticato}{Affaticati}.
 
@@ -14900,16 +14897,18 @@ Scudo pesante di metallo & 	20 mo  	&  3  & 1& +2d6  & P\\
 \end{tabular}
 
 \begin{multicols}{2}
+	
+Mentre un armatura fornisce il suo bonus alla Difesa costantemente, uno scudo aiuta a difendersi solo quando questo è non solo indossato ma anche alzato, ovvero in quel round si è usata una Azione per alzarlo. Il bonus che concede alla Difesa si conta solo nel round da quando lo scudo è alzato.
 
-\textbf{Bonus Difesa}: è il bonus che si applica alla Difesa quando si imbraccia lo scudo.
+\textbf{Bonus Difesa}: è il bonus che si applica alla Difesa quando si è usata l'Azione di alzare lo scudo.
 
-\textbf{Penalità TC}: è la penalità al Tiro per Colpire che si ha quando si imbraccia lo scudo.
+\textbf{Penalità TC}: è la penalità al Tiro per Colpire che si ha quando lo scudo è indossato.
 
 \textbf{Tipo}: indica la taglia dello scudo. \textbf{L}eggero, \textbf{M}edio, \textbf{P}esante.
 
 Uno \textbf{Scudo} Leggero ha \textbf{Ingombro} 1, uno Scudo Medio ha Ingombro 2, uno Scudo Pesante ha Ingombro 4.\index{Imgombro per Scudi}
 
-La penalità alla Prova di Magia si somme con quella eventualmente dovuta dall'armatura.\index{Penalità Magia Scudo ed Armatura}
+La penalità alla \textbf{Prova di Magia} si somme con quella eventualmente dovuta dall'armatura e si applica quando lo scudo è indossato o alzato.\index{Penalità Magia Scudo ed Armatura}
 
 Uno scudo può essere usato come \textbf{arma improvvisata}. Il Tiro per Colpire è penalizzato di -1d6 e uno scudo piccolo fa 2 di danno (B/T), uno scudo medio fa 1d4 di danno (B/T), uno scudo pesante fa 1d6 di danno (B/T).
 
@@ -14949,11 +14948,13 @@ Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\
 \end{multicols}
 
 
-\vfill
+%\vfill
 
-\begin{center}
-\includegraphics[width=0.3\linewidth]{immagini/armaturacorpetto.png}
-\end{center}
+%\begin{center}
+%\includegraphics[width=0.3\linewidth]{immagini/armaturacorpetto.png}
+%\end{center}
+
+\pagebreak
 
 
 \section{Merci e Servizi}\index{Merci}\index{Servizi}
@@ -15600,7 +15601,7 @@ La polvere fornisce anche Bonus +8 alle prove di Sopravvivenza per individuare l
 
 \label{rimedi-alchemici}
 
-\textbf{Aiuto Gassato} 25 mo, questo pacchetto è pieno di foglie dai bordi spinosi e ha un odore pungente quasi abbastanza forte da far lacrimare gli occhi. Mentre si masticano le foglie, si ignorano gli effetti dell'essere affaticati o esausti. Le foglie durano per 10 round, dopodiché ne rimane solo un mucchietto di poltiglia.
+\textbf{Aiuto Gassato} 25 mo, questo pacchetto è pieno di foglie dai bordi spinosi e ha un odore pungente quasi abbastanza forte da far lacrimare gli occhi. Mentre si masticano le foglie, si ignorano gli effetti dell'essere affaticati. Le foglie durano per 10 round, dopodiché ne rimane solo un mucchietto di poltiglia.
 Quando l'effetto dell'aiuto gassato si esaurisce, si aumenta di 1 grado il livello di affaticamento. Un pacchetto basta per 1 sola volta.
 
 \textbf{Balsamo Anti-veleno} 15 mo, questo balsamo alle erbe può essere applicato direttamente sulla pelle per prevenire gli effetti dei Veleni a contatto. Se una creatura tocca un veleno a contatto, ma applica su di sé il balsamo entro 1 round dal contatto, effettua il Tiro Salvezza due volte e tiene il risultato migliore. Monouso.
@@ -15928,6 +15929,8 @@ Allo stesso modo è decisamente difficile abbattere una porta o un muro di pietr
 Un oggetto custodito da un personaggio (che lo tenga in mano, lo tocchi o lo indossi) riesce nel Tiro Salvezza se il personaggio riesce nello stesso.
 
 \textbf{Gli Oggetti Magici hanno sempre Tiro Salvezza}. Il bonus ai Tiri Salvezza su Tempra, Riflessi o Volontà di un Oggetti Magico è pari a 2 + livello x2 dell’incantesimo piu’ potente che ospitano. Se l'oggetto non ha un incantesimo si considera un bonus di +4 per ogni +1 di bonus posseduto. Gli Oggetti Magici custoditi (indossati) effettuano il Tiro Salvezza solo se il loro possessore fallisce il proprio. Se un effetto influenza specificatamente l'oggetto magico e non chi lo indossa allora è solo l'oggetto magico ad effettuare il Tiro Salvezza.
+
+Un \textbf{oggetto incantato}\index{Danneggiare oggetti incantati} come un arma o armatura ha Durezza e Punti Ferita doppi rispetto ad un oggetto normale e la DC per romperlo aumenta della metà.
 
 \textbf{Oggetti animati}: Gli oggetti animati contano come creature per determinarne la Difesa (non sono considerati oggetti inanimati).
 
@@ -34737,7 +34740,7 @@ Organizzazione: Solitario, gruppi 2d4\\
 \textbf{Tesoro}: Nessuno\\
 \textbf{Descrizione}\\
 I Globuli sono aberrazioni magiche provenienti da qualche portale aperto verso l'Oltre. Creature di freddo e vuoto sembrano delle piccole stelle che anelano solo di risucchiare la vita della creature incontrate.
-Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avversario finché questo è esausto. Una volta ucciso di un Globulo non rimane che una piccola creatura a forma di stella con un grosso occhio centrale, completamente bianco.
+Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avversario finché questo è mortalmente affaticato. Una volta ucciso di un Globulo non rimane che una piccola creatura a forma di stella con un grosso occhio centrale, completamente bianco.
 
 
 \medskip\index[Mostruario]{Goblin}\textbf{Goblin}
@@ -46158,9 +46161,51 @@ Un alleato della creatura affascinata può scuoterla per permettergli un nuovo T
 
 L'affascinatore ha +1d6 su qualsiasi prova di Competenza per interagire socialmente con la creatura.
 
-\textbf{Affaticato}\index{Affaticato}\hypertarget{affaticato}{}: Un personaggio affaticato non può correre o Caricare e subisce una penalità -2 a Difesa e Tiro per Colpire e Tiri Salvezza. Se compie qualsiasi cosa normalmente affaticante diventa Esausto.
+\textbf{Affaticato}\index{Affaticato}\hypertarget{affaticato}{}\index{Esausto}: Un personaggio affaticato non può correre o Caricare e subisce una penalità -2 a Difesa e Tiro per Colpire e Tiri Salvezza. Se compie qualsiasi cosa normalmente affaticante aumenta il suo grado di Affaticato.
 
-Ci vogliono 8 ore di riposo totale per rimuovere la condizione di affaticato. Se un personaggio non dorme almeno 6 ore o dorme con un armatura media o pesante alla mattina è affaticato.
+Se un personaggio non dorme almeno 6 ore o dorme con un armatura media o pesante alla mattina è affaticato.
+
+Un personaggio Affaticato 2 si muove più lentamente e subisce penalità -4 Tiri per Colpire, Difesa e Tiri Salvezza. Dopo 1 ora di completo riposo (o Ristorare Inferiore), un personaggio Affaticato 2 diventa Affaticato. 
+
+\medskip
+
+\textbf{Tabella: Livelli Affaticamento}\index[Tabelle]{Tabella Livelli Affaticamento}
+
+\medskip
+
+\begin{tabularx}{0.45\textwidth}{lcl}
+\textbf{Condizioni}& \textbf{Penalità}&\textbf{Recupero}\\
+&TC - Difesa - TS&\\
+\hline
+Affaticato &2&1h\\
+Affaticato 2&4&1h\\
+Affaticato 3&6&8h\\
+Affaticato 4&8&12h\\
+Affaticato 5&Svenuto&12h\\
+Affaticato 6&Morte&--\\
+\end{tabularx}
+
+\medskip
+
+Dopo 8 ore di riposo una creatura passa da Affaticato 3 ad Affaticato 2 e dopo un altra ora passa ad Affaticato, purché non subisca ulteriori affaticamenti
+
+L'Affaticamento ha ripercussioni anche sulle prove di competenza e movimento.
+
+\medskip
+
+\textbf{Tabella: Penalità Affaticamento}\index[Tabelle]{Tabella Penalità Affaticamento}
+
+\medskip
+
+\begin{tabularx}{0.45\textwidth}{lcl}
+\textbf{Condizioni}& \textbf{Penalità Mov.} & \textbf{Penalità Comp.}\\
+	\hline
+	Affaticato 2 &-2m&-4\\
+	Affaticato 3 &-3m&-4\\
+	Affaticato 4 &-6m&-4\\
+\end{tabularx}
+
+\medskip
 
 \textbf{Afferrato}\index{Afferrato}: Un personaggio afferrato non può muoversi ma può provare a Spingere. Deve usare due Azioni per liberarsi (TS Tempra contrapposto con bonus Forza +1d6 per Taglia di differenza). Perde il bonus della Destrezza alla Difesa ed ai Tiri Salvezza su Riflessi.
 
@@ -46212,47 +46257,6 @@ Ovviamente ordini palesemente autodistruttivi non vengono eseguiti. Una volta st
 
 \textbf{Dormire}\index{Dormire}: Ogni volta che un personaggio termina un periodo di 24 ore senza dormire almeno 8 ore, deve superare un Tiro Salvezza su Tempra con DC 12, altrimenti diventa Affaticato. Ogni riposo mancato ulteriore lo renderà ancora più Affaticato cumulando le penalità relative.
 Se il personaggio resta sveglio per più giorni, lottare contro il sonno diventa più difficile. Dopo le prime 24 ore, la DC aumenta di 4 per ogni periodo consecutivo di 24 ore trascorso senza aver dormito 8 ore. La DC torna a 12 quando il personaggio completa un riposo di almeno 8 ore.
-
-\textbf{Esausto}:\index{Esausto}\hypertarget{esausto}{}Un personaggio esausto si muove più lentamente e subisce penalità -4 Tiri per Colpire, Difesa e Tiri Salvezza. Dopo 1 ora di completo riposo (o Ristorare Inferiore), un personaggio Esausto diventa Affaticato. Un personaggio Affaticato diventa Esausto compiendo una azione che normalmente lo affaticherebbe.
-
-Una creatura Esausta se influenzata da effetti di affaticamento ulteriori aumenta il suo livello di affaticamento,
-
-\medskip
-
-\textbf{Tabella: Livelli Affaticamento}\index[Tabelle]{Tabella Livelli Affaticamento}
-
-\medskip
-
-\begin{tabularx}{0.45\textwidth}{lcl}
-\textbf{Condizioni}& \textbf{Penalità}&\textbf{Recupero}\\
-&TC - Difesa - TS&\\
-\hline
-vedi \textbf{Affaticato}&2&1h\\
-vedi \textbf{Esausto} (1)&4&1h\\
-Esausto (2) &6&8h\\
-Esausto (3) &8&12h\\
-Esausto (4) &Svenuto&12h\\
-Esausto (5) &Morte&--\\
-\end{tabularx}
-
-\medskip
-
-Dopo 8 ore di riposo si passa da Esausto 2 ad Esausto 1. Dopo 12 ore di riposo si recupera da Esausto 3 a Esausto 2.\\
-
-L'Affaticamento ha ripercussioni anche sulle prove di competenza e movimento.
-
-\textbf{Tabella: Penalità Affaticamento}\index[Tabelle]{Tabella Penalità Affaticamento}
-
-\medskip
-
-\begin{tabularx}{0.45\textwidth}{lcl}
-\textbf{Condizioni}& \textbf{Cosa}&\textbf{Penalità}\\
-\hline
-Affaticato&Prove di Competenza&-2\\
-Esausto&Movimento&-2m/-4\\
-Esausto (2) &Movimento/Prove&-3m/-6\\
-Esausto (3) &Movimento/Prove&-6m/-8\\
-\end{tabularx}
 
 \medskip
 
