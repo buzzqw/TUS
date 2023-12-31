@@ -135,7 +135,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.81} \fontsize{10}{12}\selectfont
+\def \versione {0.80d} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
@@ -2847,11 +2847,11 @@ I round si usano nelle scene di combattimento o dove la tensione deve rimanere c
 Se non specificato diversamente un oggetto o Abilità che prevede un certo numero di usi al giorno \textit{es. una volta al giorno} si ricarica completamente all'alba successiva l'uso.
 
 
-\begin{center}
-	\includegraphics[width=0.75\linewidth]{immagini/hjford-fight.png}
+%\begin{center}
+%	\includegraphics[width=0.6\linewidth]{immagini/hjford-fight.png}
 
-	\textit{\\Fairy book - Fairytale illustration, Henry Justice Ford}
-\end{center}
+%	\textit{\\Fairy book - Fairytale illustration, Henry Justice Ford}
+%\end{center}
 
 \subsection{Azioni nel Round}\index{Azioni nel Round}\index{Azione}\label{azioninelround}
 
@@ -2915,9 +2915,9 @@ Riconoscere un Incantesimo			& R\\
 
 Per \textbf{Azione di Attacco} si intende sia l'uso di armi in mischia che l'uso di armi da lancio o tiro come archi, balestre o pugnali da lancio. Nel caso di armi da lancio ogni lancio/tiro conta come un attacco.
 
-Il personaggio che esegue una Azione di Attacco ed il Lancio di un Incantesimo nel modesimo round si considera Distratto ovvero deve eseguire una Prova di Magia per lanciare l'incantesimo.
+Il personaggio che esegue una Azione di Attacco ed il Lancio di un Incantesimo nel medesimo round si considera Distratto ovvero deve eseguire una Prova di Magia per lanciare l'incantesimo.
 
-\medskip
+\textbf{Alzare lo Scudo}: lo Scudo fornisce il bonus alla Difesa solo nel il round nel quale oltre che imbracciato, ma anche alzato (nonché le eventuali penalità alle competenze o alla Prova di Magia). Nei round in cui non è si usa l'Azione di Alzare lo Scudo non fornisce i suoi modificatori.
 
 \textbf{Azione di Movimento*}: un Azione di Movimento è una Azione dedicata a spostarsi. Ci si può spostare fino a tutto il proprio movimento (9 metri per umani, 6 metri per nani..).
 
@@ -5657,7 +5657,7 @@ Attivare e mantenere l'Abilità richiede 2 Azioni. Puoi mantenere l'Abilità un 
 
 \textbf{Tiri Salvezza}: +1 Tempra, +1 Riflessi
 
-Puoi indossare un Brocchiero senza dover fare una Prova di Magia quando lanci un incantesimo.
+Puoi imbracciare un Brocchiero senza dover fare una Prova di Magia quando lanci un incantesimo.
 
 La \textbf{seconda volta} che si prende questa Abilità, requisito Competenza Armi 3, puoi usare scudi medi senza dover fare una Prova di Magia.
 
@@ -14754,7 +14754,7 @@ Le Penalità Competenze è la penalità che si applica alle prove di competenza 
 \label{tabella-armature}
 \begin{tabular}{llllllll}
 %\begin{xltabular}{0.95\textwidth}{lXXXXXXX}
-\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{Penalità} & \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Ingombro}\\
+\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{Penalità Comp.} & \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Ingombro}\\
 \toprule
 Imbottita  & 5 & 1 & 0  &  L & 0 & NO&2\\
 Cuoio & 10 & 2 & 0 & L & 0 & SI&2\\
@@ -14898,7 +14898,7 @@ Scudo pesante di metallo & 	20 mo  	&  3  & 1& +2d6  & P\\
 
 \begin{multicols}{2}
 	
-Mentre un armatura fornisce il suo bonus alla Difesa costantemente, uno scudo aiuta a difendersi solo quando questo è non solo indossato ma anche alzato, ovvero in quel round si è usata una Azione per alzarlo. 
+Mentre un armatura fornisce il suo bonus alla Difesa costantemente, uno scudo aiuta a difendersi solo quando questo è non solo imbracciato ma anche alzato, ovvero in quel round si è usata una Azione per alzarlo. 
 
 \textbf{Il bonus che concede alla Difesa si conta solo nel round da quando lo scudo è alzato}.\index{Scudo alzato}
 
@@ -14910,7 +14910,7 @@ Mentre un armatura fornisce il suo bonus alla Difesa costantemente, uno scudo ai
 
 Uno \textbf{Scudo} Leggero ha \textbf{Ingombro} 1, uno Scudo Medio ha Ingombro 2, uno Scudo Pesante ha Ingombro 4.\index{Imgombro per Scudi}
 
-La penalità alla \textbf{Prova di Magia} si somme con quella eventualmente dovuta dall'armatura e si applica quando lo scudo è indossato o alzato.\index{Penalità Magia Scudo ed Armatura}
+La penalità alla \textbf{Prova di Magia} si somme con quella eventualmente dovuta dall'armatura e si applica quando lo scudo è imbracciato o alzato.\index{Penalità Magia Scudo ed Armatura}
 
 Uno scudo può essere usato come \textbf{arma improvvisata}. Il Tiro per Colpire è penalizzato di -1d6 e uno scudo piccolo fa 2 di danno (B/T), uno scudo medio fa 1d4 di danno (B/T), uno scudo pesante fa 1d6 di danno (B/T).
 
