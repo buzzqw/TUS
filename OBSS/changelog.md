@@ -404,7 +404,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 0.80b aggiornata versione POD
 
 
-0.80c rinominato Deynos in Elysan, corretto costo azioni di attacco extra per mostril, dettagli aggiuntivi su invisibilità, dettagli su Azioni Tiro Critico, modificato danno da botta in danno contundente
+0.80c rinominato Deynos in Elysan, corretto costo azioni di attacco extra per mostril,demos dettagli aggiuntivi su invisibilità, dettagli su Azioni Tiro Critico, modificato danno da botta in danno contundente
 
 0.80c aggiornata versione POD
 
@@ -412,7 +412,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80d aggiornata versione POD
 
-**0.81** aggiornata copertina
+**0.81** aggiornata copertina, chiarimenti su scudo alzato, 
 
 
 - aggiunti \label{} fino a piani
