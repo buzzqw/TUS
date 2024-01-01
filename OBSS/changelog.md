@@ -412,7 +412,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80d aggiornata versione POD
 
-**0.81** aggiornata copertina, chiarimenti su scudo alzato, aggiornato mostro tarrasque, 
+**0.81** aggiornata copertina, chiarimenti su scudo alzato, aggiornato mostro tarrasque, aggiunto sacco a pelo, 
 
 
 - aggiunti \label{} fino a piani
