@@ -135,7 +135,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.81} \fontsize{10}{12}\selectfont
+\def \versione {0.81a} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
@@ -16541,7 +16541,7 @@ Le regole per il combattimento sott'acqua si applicano alle creature che non son
 
 Il danno da pressione può essere totalmente evitato tramite incantesimi che offrano una resistenza.
 
-\subsection{Combattimento sott'acqua}
+\subsection{Combattimento sott'acqua}\label{combatteresottacqua}\index{Combattimento sott'acqua}
 Le creature che vivono sulla terra hanno considerevoli difficoltà a combattere sott'acqua. L'acqua influenza la Difesa di una creatura, i suoi Tiri per Colpire, i danni e il movimento.
 
 \begin{itemize}
@@ -16552,9 +16552,11 @@ Una creatura che non sia sotto l'incantesimo \textit{Libertà di movimento} o un
 
 Armi come Tridente, Lancia corta, Spada Corta, Giavellotto non hanno penalità al colpire.
 \item
-Se non si ha una movimento di tipo Nuotare ci si può muovere a metà del movimento per Azione di Movimento (terreno difficile)
+Muoversi o nuotare in acqua si considera \textbf{\textit{terreno} difficile}.
 \end{itemize}
 \medskip
+
+Queste penalità sono valide solo se non si ha un movimento ti tipo Nuotare.
 
 \subsubsection{Attacchi a distanza sott'acqua}\index{Attacchi sott'acqua}
 Le armi da lancio sono inefficaci sott'acqua, anche quando vengono lanciate da terra. Gli attacchi con le armi a distanza subiscono penalità -2 ai Tiri per Colpire e -1 al danno per ogni 2 metri d'acqua che attraversano.
@@ -16578,7 +16580,7 @@ Una creatura che non è in grado di respirare sott'acqua consuma tre round di tr
 
 Alcuni incantesimi potrebbero funzionare diversamente sott'acqua, a discrezione del Narratore
 
-\subsection{Affogare}\index{Affogare}\index{Soffocare}
+\subsection{Affogare}\index{Affogare}\index{Soffocare}\label{affogare}
 
 Un personaggio affoga quando non è più in grado di trattenere il respiro sott'acqua, oppure quando la prova di nuotare, considerate le penalità, ha un valore inferiore a 5.
 La prova di Nuotare ha difficoltà in base allo stato delle acque e del tipo di liquido che come minimo sono considerate \textit{terreno difficile}, in cui ci si muove. In caso di acque calme la DC è 10, acque agitate DC 15, acque tempestose DC 20. In caso di fallimento della prova non ci si sposta e si ha un -1 alla prova successiva, in caso di fallimento critico la successiva prova prende un -4.
@@ -19086,7 +19088,7 @@ Foglie fermentate di Luside\index{Foglie fermentate di Luside}  & I  & 1 Turno  
 \toprule
 Ferpillon \index{Ferpillon}& I  & 1 round & 20& Fa dormire per 24 ore& SC5 & 50 \\
 \toprule
-Unto Grigio \index{Unto Grigio} & I  & 1 round & 24& Rimuove condizionamenti mentali causati da incantesimi di livello 5 o meno& AH9 & 80 \\
+Unto Grigio \index{Unto Grigio} & I  & 1 round & 24& Rimuove condizionamenti mentali causati da incantesimi di livello inferiore al 5& AH9 & 80 \\
 \toprule
 Cenere di Arpasur \index{Cenere di Arpasur}  & R  & 1 round & 20& Rimuove 2 livelli di affaticato  & FT6 & 10  \\
 \toprule
@@ -19477,7 +19479,7 @@ La CdC di Tups è superiore al suo ingombro ma deve stare attento, forse è megl
 
 Se il carico viene appoggiato su un carro puoi spingerlo a movimento pieno se entro il tuo CdC, a metà movimento se entro il doppio della CdC ed ad un quarto del movimento se entro il quadruplo della CdC.
 
-In caso più creature spingano il carro considerate come CdC quella più alta ed aggiungete metà della seconda più alta e basta, ignorando le altre creature che spingono.
+In caso più creature spingano o trainino un carro considerate come CdC quella più alta ed aggiungete metà delle altre creature. Un carro può essere spinto da 1 creatura +1 per taglia del carro superiore a media.
 
 \subsubsection{Creature Più Grandi e Più Piccole}
 
@@ -19533,7 +19535,9 @@ Una creatura con una velocità di Nuotare può muoversi attraverso l'acqua alla 
 
 Un incantatore si considera Distratto se lancia un incantesimo mentre nuota.
 
-Se non si ha il tipo di movimento Nuotare \textbf{muoversi nell'acqua} si considera come \textbf{\textit{terreno} difficile}, e quindi ci si muovo a metà della velocità indicata da movimento. La prova di Nuotare è necessaria ogni volta che ci si deve muovere, in caso di fallimento non ci si sposta e si ha un -1 alla prova successiva, in caso di fallimento critico la successiva prova prende un -1d6. Quando la prova è inferiore a 5 si incomincia ad affondare ed affogare.
+Se non si ha il tipo di movimento Nuotare \textbf{muoversi nell'acqua} si considera come \textbf{\textit{terreno} difficile}, e quindi ci si muovo a metà della velocità indicata da movimento. La prova di Nuotare è necessaria ogni volta che ci si deve muovere, in caso di fallimento non ci si sposta e si ha un -1 alla prova successiva, in caso di fallimento critico la successiva prova prende -4. Quando la prova è inferiore a 5 si incomincia ad affondare ed affogare.
+
+Vedi Capitolo Avventure nautiche per prove nuotare e combattimento sott'acqua (pag. \pageref{combatteresottacqua}).
 
 \subsubsection{Scalare}\index{Scalare}\label{scalare}
 
@@ -19564,7 +19568,7 @@ Volare per una creatura dotata di questa abilità è come camminare per una crea
 \vfill
 
 \begin{center}
-\includegraphics[width=0.4\linewidth]{immagini/grifonicastello.png}
+\includegraphics[width=0.35\linewidth]{immagini/grifonicastello.png}
 \end{center}
 
 

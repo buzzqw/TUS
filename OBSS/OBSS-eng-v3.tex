@@ -175,7 +175,7 @@ boxrule=0.3pt
 
 
 \begin{document}
-\def \versione {0.81} \fontsize{10}{12}\selectfont
+\def \versione {0.81a} \fontsize{10}{12}\selectfont
 
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 180
 
@@ -16754,20 +16754,22 @@ The rules for underwater combat apply to creatures that aren't native to this da
 
 Pressure damage can be totally avoided by spells that offer resistance.
 
-\subsection{Underwater Combat}
-Land-dwelling creatures have considerable difficulty fighting underwater. Water affects a creature's Defence, attack rolls, damage, and movement.
+\subsection{Underwater combat}\label{underwatercombat}\index{Underwater combat}
+Creatures that live on land have considerable difficulty fighting underwater. Water affects a creature's defense, attack rolls, damage, and movement.
 
 \begin{itemize}
-\item
-A creature underwater loses its Dexterity bonus to Defence.
-\item
-A creature that is not under the enchantment \textit{Freedom of movement} or a swim speed makes attack rolls with a -1d6 and the opponent is considered to have resistance to slash and bludgeoning damage.
-
-Weapons such as Trident, Shortspear, Shortsword, Javelin have no hit penalty.
-\item
-If you don't have a Swim-type move, you can move halfway through the move as a Move Action (difficult terrain).
+	\item
+	A creature underwater loses its Dexterity bonus to Defense.
+	\item
+	A creature that is not under the \textit{Freedom of Movement} spell or a swim speed makes attack rolls with a -1d6 and the opponent is considered to have resistance to slashing and bludgeoning damage.
+	
+	Weapons such as Trident, Short Spear, Short Sword, Javelin have no hitting penalty.
+	\item
+	Moving or swimming in water is considered \textbf{\textit{terrain} difficult}.
 \end{itemize}
 \medskip
+
+These penalties are only valid if you do not have the movement type Swim.
 
 \subsubsection{Range Attacks Underwater}\index{Range Attacks Underwater}
 Thrown weapons are ineffective underwater, even when thrown from land. Attacks with ranged weapons take a -2 penalty on attack rolls and -1 on damage for every 2 meters of water they pass through.
@@ -16793,7 +16795,7 @@ Some spells may work differently underwater, at the Arbiter's discretion
 
 Remember that a character can hold his breath for CON*6, minimum 3 rounds, rounds before starting to drown and each Action consumes an additional round.
 
-\subsection{Drowning}\index{Drowning}\index{Suffocate}
+\subsection{Drowning}\index{Drowning}\index{Suffocate}\label{drowning}
 
 A character drowns when he is no longer able to hold his breath underwater, or when the Swim check, including penalties, has a value of less than 5.
 The Swim check has difficulties based on the state of the water and the type of liquid which at least are considered "difficult terrain", in which you move. In case of calm waters the DC is 10, troubled waters DC 15, stormy waters DC 20. In case of failure of the check you do not move and you have a -1 to the next check, in case of critical failure the next check takes a -1d6.
@@ -19688,8 +19690,8 @@ The CoC of Tups is higher than he encumbrance but he has to be careful, maybe it
 
 If the load is placed on a cart you can push it at full movement if within your CoC, at half movement if within double your CoC and at a quarter of the movement if within quadruple your CoC.
 
+If multiple creatures push or pull a cart, consider the highest one as the CoC and add half of the other creatures. A chariot can be pushed by 1 creature +1 per chariot size above medium.
 
-In case more creatures push the cart, consider the tallest one as CoC and add half of the second tallest and that's it, ignoring the other pushing creatures.
 
 \subsubsection{Larger and Smaller Creatures}
 
@@ -19747,6 +19749,8 @@ Caster is considered Distracted while swimming.
 
 If you don't have the Swim \textbf{move through water} move type, it's considered \textbf{difficult terrain} so you move at half the speed indicated by move. The Swim check is necessary every time you have to move, in case of failure you don't move and you have a -1 to the next check, in case of critical failure the next check takes a -1d6. When the check is less than 5 you begin to sink and drown.
 
+See the Waer Adventures chapter for swimming and underwater combat rules (page \pageref{underwatercombat}).
+
 \subsubsection{Climb}\index{Climb}\label{scalare}
 
 A creature with a Climb speed has a +2d6 bonus on all Climb checks. If the creature must make a Climb check to climb any wall or slope, it can always choose to take 10, even if in a hurry or threatened during the climb.
@@ -19779,7 +19783,7 @@ Flying for a creature with this ability is like walking for a "ground" creature.
 \vfill
 
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/grifonicastello.png}
+\includegraphics[width=0.5\linewidth]{immagini/grifonicastello.png}
 \end{center}
 
 

@@ -414,6 +414,10 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 **0.81** aggiornata copertina, chiarimenti su scudo alzato, aggiornato mostro tarrasque, aggiunto sacco a pelo, aggiornato capitolo Fanghiglie, Muffe e Funghi, aggiornata descrizione magia lontana, chiarimenti su sacrificio magico, dettagli su malattie, 
 
+0.81 aggiornata versione POD
+
+0.81a chiarimenti su spingere un carro, chiarimenti su nuotare, 
+
 
 
 
