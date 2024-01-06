@@ -416,7 +416,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81 aggiornata versione POD
 
-0.81a chiarimenti su spingere un carro, chiarimenti su nuotare, 
+0.81a chiarimenti su spingere un carro, chiarimenti su nuotare,  aggiunto regolamento opzionale su quando si beve troppo, 
 
 
 
