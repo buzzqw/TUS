@@ -3529,7 +3529,7 @@ Grant a bonus or penalty (+-1/2 unless otherwise stated) whenever the player has
 
 \item Situations with 1d6 bonus: you are invisible, charge...
 
-\item Situations with -2 disadvantage, you're dazzled, you're entagled, you're grabbed...
+\item Situations with -2 disadvantage, you're dazzled, you're entagled, dim light...
 
 \item Situations with a 1d6 disadvantage: you are prone, you are restricted in movement, you are frightened, use a thrown weapon against an opponent in melee, attack with melee long weapon, use an unknown weapon, attack an invisible creature but identified, you are attached to a wall ...\index{Attach while grabbed to wall}
 \end{itemize}
@@ -3539,7 +3539,7 @@ Grant a bonus or penalty (+-1/2 unless otherwise stated) whenever the player has
 \begin{itemize}
 \item +2/+4 bonus situations (Defence bonus): You have cover (see below)...
 
-\item Situations with -2 disadvantage (penalty to Defence): you are entagled...
+\item Situations with -2 disadvantage (penalty to Defence): you are grabbed...
 
 \item Situations with -4 disadvantage: you are surprised, you are blinded, trapped, you are kneeling/sitting/prone, you are confined in a space, you are stunned, you cast a spell while under attack, you are climbing...\index{Defense while grabbed to wall}
 \end{itemize}
@@ -16289,9 +16289,8 @@ Duration is expressed as real time game duration
 \medskip
 
 \textbf{Dim Light}\index{Dim Light} is light beyond a light source. It is passing through a 3-metre corridor if it is lit only by dim candles. It's a full moon night.
-Generally speaking, a light source creates dim light in a beam twice the normal light beam. A creature has -2 on Awarness check.
+Generally speaking, a light source creates dim light in a beam twice the normal light beam. A creature has -2 on Awarness check and To Hit Rolls.
 
-For a creature with normal vision, dim light provides light Cover, or +2 to Defence, and makes Awareness checks more difficult (+2 to DC).
 
 \medskip
 
@@ -50572,7 +50571,8 @@ Blind characters always treat the terrain as difficult and must make a DC 12 Acr
 
 Attacking a creature invisible to it has a -1d6 attack roll, an invisible creature attacking a blind creature has a +1d6 attack roll.
 
-\textbf{Blocked}\index{Blocked}\hypertarget{blocked}{}: A blocked creature has its arms blocked.  Creature can move by trying to Push, must use two Actions to free herself (see Grabbed). A blocked spellcaster must make a critically successful Magic Test or fail to cast spells. -2 to hit rolls.
+\textbf{Blocked}\index{Blocked}\hypertarget{Blocked}{}: A locked creature has its arms locked. He can move by trying to Push, he must use two Actions to free himself (see Grabbed). It loses its Dexterity bonus on Defense and Reflex saving throws. A stranded spellcaster must make a Magic Check with Critical Magical Success or fail to cast spells. -1d6 to attack roll. Anyone who has Blocked a creature is still considered Grabbed.
+
 
 \textbf{Broken}\index{Broken}: The broken condition has the following effects, depending on the object:
 
@@ -50615,17 +50615,13 @@ Roll a die on the table below at the start of each confused creature's round eac
 
 A confused creature unable to take the indicated action will do nothing but stammer incoherently. Attackers have no special advantage when attacking a confused creature. Any confused creature that is attacked automatically attacks its attacker on its next round, as long as it remains confused when its round comes.
 
-
-
 \textbf{Coup de grace}:\index{Coup de grace} As its only action in the round, a creature can use a melee weapon to deal a coup de grace to a helpless character. He can also use a bow or crossbow, as long as it is adjacent to the target.
 
 The attacker strikes automatically and inflicts three critical rolls. Creatures immune to critical rolls cannot be coup de grace.
 
 \textbf{Damage Resistance}\index{Damage Resistance}: A creature that has Damage Resistance is considered to automatically halve damage from the specified source, e.g. Damage Resistance: Sound. Damage Resistance can also be indicated with a numerical value, e.g. Damage Resistance: Fire 10. In this case the protection works on the first 10 damage suffered, in the event of an effect that grants a Saving Throw to halve, first the amount of protection is removed from the total, then the Saving Throw is performed to halve the residual damage.
 
-
 \textbf{Dead}:\index{Dead}\hypertarget{dead}{} The character's soul leaves his body permanently. Dead characters cannot benefit from normal or magical healing, and cannot be brought back to life by a spell. Only a Patron has enough power to return the soul to the body and bring the creature back to life. The School of Necromancy has spells for reanimating a body as undead.
-
 
 \textbf{Deafened}:\index{Deafened}\index{Deaf} A deafened character cannot listen. He automatically fails all sound-based Awareness checks and is considered distracted when casting spells with at least verbal components.
 
@@ -50700,12 +50696,11 @@ A surprised/flat-footed creature has a -4 penalty to Defense and Reflex saves. Y
 
 \textbf{Friendly}:\index{Friendly} A friendly creature will not attack the character unless explicitly threatened.
 
-\textbf{Grabbed}\index{Grabbed}\hypertarget{Blocked}{}: A locked creature has its arms locked. He can move by trying to Push, he must use two Actions to free himself (see Grabbed). It loses its Dexterity bonus on Defense and Reflex saving throws. A stranded spellcaster must make a Magic Check with Critical Magical Success or fail to cast spells. -1d6 to attack roll.
+\textbf{Grabbed}\index{Grabbed}: A grabbed character cannot move but can attempt to Push. He must use two Actions to free himself (Fortitude save opposed with Strength bonus + 1d6 per Size difference).
 
+He can attack with melee weapons if they are small (he will hardly be able to use a greatsword, halberd... a dagger or short sword is more likely). He has -2 Defense.
 
-You can attack with melee weapons if small (hardly using a broadsword, halberd.. dagger or shortsword is more likely).
-
-\textbf{Grappling}:\index{Grappling} A grappled or Grappling creature is held by a creature, trap, or effect. See \textbf{Grabbed}.
+The conditions apply to whoever is grabbed and whoever grabs.
 
 \textbf{Helpless}:\index{Helpless}\index{Unconscious}\index{Dying}\index{Sleeping}\hypertarget{helpless}{}\hypertarget{morente}{} A character asleep, unconscious, dying, or for some other reason completely at the mercy of his opponents, is considered helpless.
 

@@ -3479,7 +3479,7 @@ Concedete un bonus o penalità ($\pm1-2$ se non indicato diversamente) ogni qual
 
 \item Situazioni con 1d6 bonus: sei invisibile, carica...
 
-\item Situazioni con -2 di svantaggio, sei abbagliato, sei intralciato, sei afferrato, luce fioca...
+\item Situazioni con -2 di penalità, sei abbagliato, sei intralciato, luce fioca...
 
 \item Situazioni con 1d6 di svantaggio: sei prono, sei ristretto nei movimenti, sei spaventato, usare un arma da lancio contro un avversario in mischia, attaccare con arma lunga in distanza da mischia, usare un arma non conosciuta, attaccare una creatura invisibile ma individuata, sei attaccato ad una parete ...\index{Attaccare attaccato ad una parete}
 \end{itemize}
@@ -3489,7 +3489,7 @@ Concedete un bonus o penalità ($\pm1-2$ se non indicato diversamente) ogni qual
 \begin{itemize}
 \item Situazioni con +2/+4 bonus (bonus alla Difesa): hai copertura (vedi sotto)...
 
-\item Situazioni con -2 di svantaggio (penalità alla Difesa): sei intralciato...
+\item Situazioni con -2 di svantaggio (penalità alla Difesa): sei  afferrato...
 
 \item Situazioni con -4 di svantaggio: sei sorpreso, intrappolato, sei in ginocchio/seduto/prono, sei ristretto in uno spazio, sei stordito, lanci un incantesimo mentre sei sotto attacco, ti stai arrampicando...\index{Difendersi attaccato ad una parete}
 \end{itemize}
@@ -3734,7 +3734,7 @@ Chi vince può spingere l'avversario fino a 0.5 metri nella direzione che vuole 
 è una Prova Contrapposta di Forza. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza. Se chi riesce nella manovra ottiene un successo critico si considera l'avversario \hyperlink{bloccato}{Bloccato}.
 
 Costa 2 Azioni fare e mantenere e liberarsi dalla presa. Si considera che chi afferra è anche afferrato ed abbia almeno una mano occupata nell'afferrare.
-Muovere una creatura afferrata richiede \hyperlink{spingereavversario}{Spingere un avversario}.
+Muoversi o muovere una creatura afferrata richiede \hyperlink{spingereavversario}{Spingere un avversario}.
 
 Ogni contendente può attaccare l'altro afferrato con un arma piccola o con pugni e calci.
 
@@ -16021,7 +16021,7 @@ L'antidoto principale contro un cattivo ambiente consiste, naturalmente, nel sos
 \label{sec:visione-e-luce}
 
 In un ambiente naturale l'illuminazione può assumere diverse gradazioni e queste gradazioni aiutano a capire fino a che distanza una creatura può vedere.
-qqqqqqqqq
+
 Le gradazione di luce possono essere:
 \begin{itemize}
 \item
@@ -16076,7 +16076,7 @@ La durata indicata è espressa come durata di tempo reale di gioco.\index{Durata
 \medskip
 
 La \textbf{Luce fioca}\index{Luce Fioca} è la luce oltre una fonte di luce. E' il passare in un corridoio di 3 metri se è illuminato solo da fioche candele. E' una notte di luna piena.
-In linea di massima una fonte di luce crea luce fioca in un raggio doppio rispetto al raggio di luce normale. Una creatura in Luce Fioca ha un -2 alle prove di Consapevolezza.
+In linea di massima una fonte di luce crea luce fioca in un raggio doppio rispetto al raggio di luce normale. Una creatura in Luce Fioca ha un -2 alle prove di Consapevolezza ed ai Tiri per Colpire.
 
 \medskip
 
@@ -16116,7 +16116,7 @@ In certi casi, alcuni personaggi o mostri potrebbero essere in grado di vedere m
 
 Le creature Accecate perdono la loro capacità di infliggere danni extra causati ad esempio dall'Abilità di pugnalare alle spalle (ma non da esplosione del danno o critico al colpire).
 
-Le creature accecate consideredano il terreno come difficile \index{Muoversi al buio}. Devono effettuare una prova di Acrobatica con DC 12 per Azione di movimento per muoversi a velocità normale. Se la prova fallisce cadono a terra prone. Le creature accecate non possono caricare.
+Le creature accecate considerano il terreno come difficile \index{Muoversi al buio}. Devono effettuare una prova di Acrobatica con DC 12 per Azione di movimento per muoversi a velocità normale. Se la prova fallisce cadono a terra prone. Le creature accecate non possono caricare.
 
 Una creatura accecata, o che combatte contro una creatura invisibile,\index{Invisibile} può effettuare una prova di Consapevolezza a difficoltà 20 (oppure 10+Muoversi silenziosamente dell'avversario se questo non vuole farsi trovare) per individuare la creatura purché questa sia entro il doppio della distanza di mischia dal personaggio.
 
@@ -16229,7 +16229,7 @@ In caso di acqua più rapida o violenta con una prova riuscita di Nuotare o una 
 
 L'acqua molto profonda non è solo nera come la pece, rendendo molto pericolosa la navigazione, ma infligge danni ancora peggiori a causa della pressione dell'acqua nell'ordine di 1d6 danni al minuto ogni 30 metri che separano il personaggio dalla superficie. Un Tiro Salvezza su Tempra superato con successo (DC 15, +1 per ogni prova precedente) indica che il personaggio immerso non subisce danni in quel minuto. L'acqua molto fredda infligge 1d6 Danni Non Letali per minuto di esposizione a causa dell'ipotermia.
 
-\textbf{Annegamento}\index{Annegamento}\index{Affogare}\index{Soffocare}\hypertarget{trattenereilfiato}{}
+\textbf{Annegamento}\index{Annegamento}\index{Affogare}\index{Soffocare}\hypertarget{trattenereilfiato}{}\label{trattenereilfiato}
 
 Qualsiasi personaggio può trattenere il fiato per un numero di round pari 6 round per il suo punteggio di Costituzione, con un minimo di 3 round. Per ogni Azione compiuta la durata restante diminuisce di 1 round, lanciare un incantesimo consuma 3 round di aria. Trascorso questo periodo di tempo, il personaggio deve effettuare un Tiro Salvezza su Tempra con DC 12 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 1.
 
@@ -46223,11 +46223,13 @@ Dopo 8 ore di riposo una creatura passa da Affaticato 3 ad Affaticato 2 e dopo u
 
 \textbf{Afferrato}\index{Afferrato}: Un personaggio afferrato non può muoversi ma può provare a Spingere. Deve usare due Azioni per liberarsi (TS Tempra contrapposto con bonus Forza +1d6 per Taglia di differenza). 
 
-Può attaccare con armi in mischia se piccole (difficilmente potrà usare uno spadone, alabarda.. un pugnale o spada corta è più probabile). Ha -2 al Tiro per Colpire.
+Può attaccare con armi in mischia se piccole (difficilmente potrà usare uno spadone, alabarda.. un pugnale o spada corta è più probabile). Ha -2 alla Difesa.
+
+Le condizioni valgono su chi è afferrato e su chi afferra.
 
 \textbf{Amichevole}:\index{Amichevole} Una creatura amichevole non attaccherà il personaggio se non minacciata esplicitamente.
 
-\textbf{Annegare/Trattenere il fiato}: \index{Annegare}\index{Trattenere il fiato}\index{Soffocare} Qualsiasi personaggio può trattenere il fiato per un numero di round pari 6 round per il suo punteggio di Costituzione, con un minimo di 3 round. Per ogni Azione compiuta la durata restante diminuisce di 1 round. Trascorso questo periodo di tempo, il personaggio deve effettuare un Tiro Salvezza su Tempra con DC 12 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 1.
+\textbf{Annegare/Trattenere il fiato}: \index{Annegare}\index{Trattenere il fiato}\index{Soffocare} Qualsiasi personaggio può trattenere il fiato per un numero di round pari 6 round per il suo punteggio di Costituzione, con un minimo di 3 round. Per ogni Azione compiuta la durata restante diminuisce di 1 round. Trascorso questo periodo di tempo, il personaggio deve effettuare un Tiro Salvezza su Tempra con DC 12 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 1. Vedi \pageref{trattenereilfiato}
 
 \textbf{Assordato}:\index{Assordato}\index{Sordo} Un personaggio assordato non può ascoltare. Fallisce automaticamente tutte le prove di Consapevolezza basate sul suono e si considera Distratto nel lancio degli incantesimi con componenti almeno verbali.
 
@@ -46235,7 +46237,7 @@ I personaggi che rimangono assordati per lunghi periodi di tempo, possono abitua
 
 \textbf{Avvelenato}\index{Avvelenato}: si considera avvelenato qualsiasi soggetto sotto l'influenza di un veleno o pozione, indipendentemente che questa stia già producendo gli effetti o li debba ancora produrre dato il tempo dell'insorgenza. Se non specificato diversamente la condizione Avvelenato comporta -1 Forza e Destrezza.
 
-\textbf{Bloccato}\index{Bloccato}\hypertarget{bloccato}{}: una creatura bloccata ha la braccia bloccate. Può spostarsi provando a Spingere, deve usare due Azioni per liberarsi (vedi Afferrato). Perde il bonus della Destrezza alla Difesa ed ai Tiri Salvezza su Riflessi. Un incantatore Bloccato deve effettuare una Prova di Magia con Successo Critico Magico o non riesce a formulare magie. -1d6 al Tiro per Colpire.
+\textbf{Bloccato}\index{Bloccato}\hypertarget{bloccato}{}: una creatura bloccata ha la braccia bloccate. Può spostarsi provando a Spingere, deve usare due Azioni per liberarsi (vedi Afferrato). Perde il bonus della Destrezza alla Difesa ed ai Tiri Salvezza su Riflessi. Un incantatore Bloccato deve effettuare una Prova di Magia con Successo Critico Magico o non riesce a formulare magie. -1d6 al Tiro per Colpire. Chi ha Bloccato una creatura si considera comunque Afferrato.
 
 \textbf{Colpo di Grazia}:\index{Colpo di Grazia} Come unica azione nel round, una creatura può utilizzare un'arma da mischia per infliggere un colpo di grazia ad un personaggio indifeso. Può anche usare un arco o una balestra, l'importante è che sia adiacente al bersaglio.
 
@@ -46342,7 +46344,7 @@ Il terreno si considera difficile e sei comunque considerato ancora prono finch�
 
 \textbf{Stordito/Svenuto}:\index{Stordito}\index{Svenuto} si considera che sia \textbf{Indifeso}. Può parlare a fatica.
 
-\textbf{Trattenere il fiato}: COS*6 round. Ogni Azione -1 round. Incantesimo -3 round. Terminato il fiato Tiro salvezza su Tempra DC 12 +1 per round.
+\textbf{Trattenere il fiato}: leggi \textbf{Annegare/Trattenere il fiato}
 
 \textbf{Rallentato}\index{Rallentato}: una creatura rallentata non è in grado di eseguire tutte le 3 possibili Azioni nel round. Rallentato viene sempre indicato con due valori, il primo indica quante Azioni in meno si fanno a round, il secondo la durata dell'effetto, se segnato con un - allora non ha una fine indicata. Es. Rallentato 1/3r, Rallentato 2/-.
 
