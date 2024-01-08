@@ -1,4 +1,17 @@
-**31/07/2023*
+
+**08/01/2024**
+
+no, non mi sono scordato di questo brogliaccio!
+
+gli ultimi mesi sono stati intensi ed intendo nella vita reale.
+Non ho avuto un gran che modo di dedicare energie ai nuovi sistemi e quindi DKC e' rimasto fermo o poco di piu'.
+In compenso ho ripreso ad aggiornare OBSS grazie ad alcuni spinti e suggerimenti nonch'e' situazioni diverse da gestire.
+
+Le nuove versioni rilasciate sono sempre piu' scarne e limitate nel contenuto il che e' assolutamente un bene, significa che la stabilita' tanto agognata e' vicina, forse!
+
+In ogni caso dovrebbe partire un altra avventura a breve sempre usando OBSS e quindi conto di poter stressare il sistema e valutarne ancora stabilita', mancanze, punti di forza.
+
+**31/07/2023**
 
 - magia: deve essere lanciare piu' difficile lanciare incantesimi e consumare "risorse" (pf/energia/stamina..)
 - quando qualcuno attacca si e' presi se la prova di difesa e' oltre il valore di difesa. si presume che l'attacco colpisce sempre se la difesa non funziona bene. Questo significa che le classi combattenti non aumentano l'attacco ma solo la difesa. alcuni rami avanzati di combattimento danno delle penalita' alla difesa avversaria.
