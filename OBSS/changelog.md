@@ -420,7 +420,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81a aggiornata versione POD
 
-0.81b 
+0.81b aggiornata regola opzionale variante iniziativa, 
 
 
 
