@@ -420,7 +420,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81a aggiornata versione POD
 
-0.81b aggiornata regola opzionale variante iniziativa, le regole per il massimo livello di incantesimi sono 2 non 3, aggiunta regola opzionale per calcolo Valore Tiro Salvezza, aggiornata scheda, 
+0.81b aggiornata regola opzionale variante iniziativa, le regole per il massimo livello di incantesimi sono 2 non 3, aggiunta regola opzionale per calcolo Valore Tiro Salvezza, aggiornata scheda, aggiornato metodo per calcolare il massimo livello incantesimo, 
 
 
 
