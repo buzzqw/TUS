@@ -15604,7 +15604,8 @@ Purple&30 gp&1&Camouflage Tricks&25 gp&1\\
 
 A good mount can enable a character to traverse wilderness quickly, but its primary purpose is to carry equipment that would otherwise slow its master.
 
-The "Mounts and Other Animals" table shows the speed and base carrying capacity of each animal. An animal pulling a chariot, cart, wagon, carriage, or sled can move weight equal to five times its carrying capacity, including the weight of the vehicle. If several animals pull the same vehicle, they can add their carrying capacity together.
+The table \textit{Mounts and Other Animals} indicates the costs of transport animals. For information on the movement and transport capacity of each animal, see instructions in the chapter \hyperlink{tabella-cavalcature-e-veicoli}{Table Mounts and Vehicles} (page \pageref{tabella-cavalcature-e-veicoli}).
+
 
 There are other mounts in fantasy worlds than those listed in this section, but these are rare mounts that are not normally available for purchase, such as certain flying mounts (pegasi, griffins, hippogriffs, and other similar animals), or even some aquatic (such as giant seahorses).
 
@@ -15619,7 +15620,7 @@ Obtaining such a mount often requires stealing an egg and raising the creature y
 \end{center}
 
 
-\textbf{Saddle}. A rider can strap into a military saddle to remain at his seat on an active mount during battle. A military saddle grants advantage on checks the character makes to remain in the saddle. An exotic saddle is required to ride an aquatic or flying creature.
+\textbf{Saddle}. A rider can strap into a military saddle to remain at his seat on an active mount during battle. A military saddle grants +1d6 on checks the character makes to remain in the saddle. An exotic saddle is required to ride an aquatic or flying creature.
 
 
 \begin{center}
@@ -15632,19 +15633,21 @@ Obtaining such a mount often requires stealing an egg and raising the creature y
 \subsubsection{Mounts and Other Animals}
 
 
-\begin{tabular}{lllll}
-\toprule
-\textbf{Mount}&\textbf{Cost}&\textbf{Move}&\textbf{Load}&Km/h\\
-&(\textbf{mo})&&kg&\\
-Donkey or Mule&8&12m&210&6km\\
-Camel&50&15m&240&8km\\
-Galloping Horse&75&18m&240&12km\\
-Warhorse&400&18m&270&9km\\
-Draft Horse&50&12m&270&6km\\
-Elephant&200&12m&660&6km\\
-Mastiff&25&12m&97,5&6km\\
-Ponies&30&12m&112.5&6km\\
-\end{tabular}
+\textbf{Table: Mounts and Other Animals}\index{Table Mounts and Other Animals}
+
+\begin{tabularx}{0.42\textwidth}{ll}
+	\toprule
+	\textbf{Mount}&\textbf{Cost}\\
+	Donkey or Mule&8 gp\\
+	Camel&50 gp\\
+	Elephant&200 gp\\
+	Mastino&25 gp\\
+	Galloping Horse&75 gp\\
+	War Horse&400 gp\\
+	Draft Horse&50 gp\\
+	Pony&30 gp\\
+\end{tabularx}
+
 
 \bigskip
 
@@ -19633,23 +19636,29 @@ A mount carrying a rider can move at a fast pace. However, the damage it takes i
 
 \label{tabella-cavalcature-e-veicoli}\index{Dog}\index{Pony}\index{Cart}\index{Raft}\index{Ship}\index{Boat}
 
-\begin{tabularx}{0.95\textwidth}{lXXX}
-\textbf{Mount or Vehicle} & \textbf{Encumbrance Carried} & \textbf{Per Hour} & \textbf{Per Day}\\
-\toprule
-Galloping Dog* & 4 & 6km & 36km \\
-Light Horse* & 10 & 8km & 48km \\
-Heavy Horse* & 25 & 7km & 42km \\
-Ponies* & 8 & 5km & 30km \\
-\textbf{Boat} & & & \\
-\toprule
-Raft or Barge (perch or trailer) & 1000kg & 0.75km & 7.5km \\
-Barge (Oared)** & 2000kg & 1.5km & 15km \\
-Rowboat** & 1000kg & 2.25km & 22.5km \\
-Sailing Vessel (sails) & 4000kg & 3km & 72km \\
-Warship (sails and oars) & 8000kg & 3.75km & 90km \\
-Longship (sails and oars) & 1200kg & 4.5km & 108km \\
-Galley (sails and oars) & 15000kg & 6km & 144km \\
+\begin{tabularx}{0.95\textwidth}{llXX}
+	\textbf{Mount or Vehicle} & \textbf{Carried Encumbrance} & \textbf{Movement} & \textbf{Movement}\\
+	&(CdC)&\textbf{Per hour} & \textbf{Per day}\\
+	\toprule
+	Gallop Dog* & 30 & 6km & 36km \\
+	Light Horse* & 60 & 8km & 48km \\
+	Heavy Horse* & 75 & 7km & 42km \\
+	Pony* & 25 & 5km & 30km \\
+	Donkey or Mule & 55 & 6km & 48km \\
+	Camel & 40 & 8km & 48km \\
+	Elephant & 160 & 6km & 36km \\
+	& & & \\
+	\textbf{Boat} & & & \\
+	\toprule
+	Raft or Barge (pole or trailer) & 1000kg & 0.75km & 7.5km \\
+	Rowing Boat** & 2000kg & 1.5km & 15km \\
+	Rowing Boat** & 1000kg & 2.25km & 22.5km \\
+	Sailing Vessel & 4000kg & 3km & 72km \\
+	Warship (sails and oars) & 8000kg & 3.75km & 90km \\
+	Long Ship (sails and oars) & 1200kg & 4.5km & 108km \\
+	Galley (oars and sails) & 15000kg & 6km & 144km \\
 \end{tabularx}
+
 
 \begin{multicols}{2}
 
@@ -19718,47 +19727,45 @@ If multiple creatures push or pull a cart, consider the highest one as the CoC a
 
 \subsubsection{Larger and Smaller Creatures}
 
-The \textbf{Table: Overall dimensions transported according to size}\index{Table Overall dimensions transported according to size} show the basic overall dimensions according to size. To the value given by the size must be added the values of Strength and Constitution.\\
-
+The \textbf{Table: CdC transported based on size}\index{Encumbrance transported based on size} shows the Load Capacity based on size. The Strength and Constitution values ​​must be added to the value given by the size.
 \medskip
 
 \begin{tabularx}{0.45\textwidth}{ll|ll}
-\textbf{Size} & \textbf{Eng.}&\textbf{Size} & \textbf{Eng.}\\
-\toprule
-Fine & 1/4 &  Large & 25\\
-Diminutive & 1 & Huge& 36\\
-Tiny & 4 & Gargantuan&49\\
-Small & 9 & Colossal&64\\
-Medium & 16 &&\\
+	\textbf{Cut} & \textbf{Eng.}&\textbf{Cut} & \textbf{Eng.}\\
+	\toprule
+	Very small &1/4& Large & 25\\
+	Petite & 1 & Huge & 36\\
+	Tiny & 4& Mammoth&49\\
+	Small & 9 & Colossal&64\\
+	Average & 16&&\\
 \end{tabularx}
 
-\medskip
 
-\subsubsection{Multi-legged creatures}
+Creatures with 4 legs or more can carry larger loads.
 
-Creatures with 4 legs or more can carry greater loads. Consult the table below and possibly multiply the modifiers shown with those due to the size.
 
 %\begin{center}
-%\includegraphics[height=0.5\linewidth]{immagini/cavallo.png}
+%\includegraphics[height=0.5\linewidth]{images/horse.png}
 %\end{center}
 
-\textbf{Table: Carry modifiers for multi-legged creatures}\index{Table Carry modifiers for multi-legged creatures}
+\textbf{Table: Transportation modifiers for multi-legged creatures}\index[Tables]{Table of transportation modifiers for multi-legged creatures}
 
 \medskip
 
 \begin{tabularx}{0.45\textwidth}{ll}
-\textbf{Paws Creature} & \textbf{CoC}\\
-\toprule
-4 legs & x2\\
-6 legs & x2.5\\
-8 legs & x3\\
-12 legs & x4\\
-each other 2 legs & +0.5\\
+	\textbf{Creature Paws} & \textbf{CdC}\\
+	\toprule
+	4 legs & x2\\
+	6 legs & x2.5\\
+	8 legs & x3\\
+	12 legs & x4\\
+	every other 2 legs & +0.5\\
 \end{tabularx}
 
 \medskip
 
-A horse being large and quadrupedal can carry without problems up to a maximum of COC 50.
+These tables are to be used for unusual animals not listed or similar to those in the Mounts and Vehicles Table.
+
 
 \subsection{Other Movement Types}
 
