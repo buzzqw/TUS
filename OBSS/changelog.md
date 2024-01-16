@@ -424,7 +424,11 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81b aggiornata versione POD
 
-0.81c inserita indicazione pagina in mie opzioni, modificati valore tesori per incontri, migliore ordinamento lista di esempio nella tabella durezza e punti ferita oggetti, aggiornate ed allineate tabelle carico animali da trasporto, corretta indicazione nell'uso di una sella militare, 
+0.81c inserita indicazione pagina in mie opzioni, modificati valore tesori per incontri, migliore ordinamento lista di esempio nella tabella durezza e punti ferita oggetti, aggiornate ed allineate tabelle carico animali da trasporto, corretta indicazione nell'uso di una sella militare
+
+0.81c aggiornata versione POD
+
+0.81d
 
 - aggiunti \label{} fino a piani
 
