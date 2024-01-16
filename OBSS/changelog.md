@@ -424,7 +424,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81b aggiornata versione POD
 
-0.81c 
+0.81c inserita indicazione pagina in mie opzioni, modificati valore tesori per incontri, 
 
 - aggiunti \label{} fino a piani
 
