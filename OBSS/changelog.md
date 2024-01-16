@@ -440,7 +440,8 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
-- rimuovere livelli, spendere gli xp per acquistare abilita'/feat, competenze. tutti i livelli devono costare lo stesso importo, es. ogni 1000xp si sale di un livello, 
+- rimuovere livelli, spendere gli xp per acquistare abilita'/feat, competenze.
+- ogni grado di difficolta' di uno scontro (facile, media, alto, straordinario, mortale, epico) da una certa quota di punti esperienza (30,40,60,80,120,160). A 1000 passi di livello e lo spendi. i punti esperienza da mostro vengolo legati alle difficolta' relativa piu' che al mostro stesso
 - ts spell, complesso da calcolare. Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 per ogni Successo Critico Magico nella Prova di Magia.
 - ts oggetti/mostri 10+2xspell level
 - opportunista valutare se darlo a quali mostri
