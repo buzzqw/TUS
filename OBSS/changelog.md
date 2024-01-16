@@ -428,7 +428,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81c aggiornata versione POD
 
-0.81d
+0.81d corretto esempio calcolo tesoro, 
 
 - aggiunti \label{} fino a piani
 
