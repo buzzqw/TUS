@@ -404,7 +404,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 0.80b aggiornata versione POD
 
 
-0.80c rinominato Deynos in Elysan, corretto costo azioni di attacco extra per mostril,demos dettagli aggiuntivi su invisibilità, dettagli su Azioni Tiro Critico, modificato danno da botta in danno contundente
+0.80c rinominato Deynos in Elysan, corretto costo azioni di attacco extra per mostril, dettagli aggiuntivi su invisibilità, dettagli su Azioni Tiro Critico, modificato danno da botta in danno contundente
 
 0.80c aggiornata versione POD
 
@@ -428,7 +428,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81c aggiornata versione POD
 
-0.81d corretto esempio calcolo tesoro, aggiunto sistema opzionale per calcolo punti esperienza basata sul grado relativo della sfida, 
+0.81d corretto esempio calcolo tesoro, aggiunto sistema opzionale per calcolo punti esperienza basata sul grado relativo della sfida, allineate difficolta' apertura porte, 
 
 - aggiunti \label{} fino a piani
 
@@ -440,8 +440,8 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
-- rimuovere livelli, spendere gli xp per acquistare abilita'/feat, competenze. Si tratterebbe di rifare quasi tutto il manuale
-- ts spell, complesso da calcolare. Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 per ogni Successo Critico Magico nella Prova di Magia.
+- dogmi per i patroni, prendere ad esempio  i vecchi dei
+- ts spell, complesso da calcolare. Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 per ogni Successo Critico Magico nella Prova di Magia
 - ts oggetti/mostri 10+2xspell level
 - opportunista valutare se darlo a quali mostri
 - recupero punti ferita cos+2*ca+cm, trovare formula piu' semplice. Cos * lv/2 ?
@@ -455,9 +455,7 @@ Aggiungere immagini:
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curyan/Tyia, ... c'e' tutto da fare.
 - combattimento sociale, ampliare
-- togliere il livello. Allo stato attuale il livello serve veramente a poche cose, l'ASI (gia' tolto) e determinare APL. APL usare la somma di CM+CA che al 99% equivale al livello
 - piu' maledizioni
-- valutare movimento diagonale fare pesare 1m e non 1.5m
 - motivazioni, un elenco di frasi o indicazione che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
 
 
@@ -468,6 +466,7 @@ Aggiungere immagini:
 
 > Opzionali / Altro Sistema
 
+- rimuovere livelli, spendere gli xp per acquistare abilita'/feat, competenze. Si tratterebbe di rifare quasi tutto il manuale
 - un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
 - usage dice
 - magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
