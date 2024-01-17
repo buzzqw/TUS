@@ -428,7 +428,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81c aggiornata versione POD
 
-0.81d corretto esempio calcolo tesoro, 
+0.81d corretto esempio calcolo tesoro, aggiunto sistema opzionale per calcolo punti esperienza basata sul grado relativo della sfida, 
 
 - aggiunti \label{} fino a piani
 
@@ -440,12 +440,11 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
-- rimuovere livelli, spendere gli xp per acquistare abilita'/feat, competenze.
-- ogni grado di difficolta' di uno scontro (facile, media, alto, straordinario, mortale, epico) da una certa quota di punti esperienza (30,40,60,80,120,160). A 1000 passi di livello e lo spendi. i punti esperienza da mostro vengolo legati alle difficolta' relativa piu' che al mostro stesso
+- rimuovere livelli, spendere gli xp per acquistare abilita'/feat, competenze. Si tratterebbe di rifare quasi tutto il manuale
 - ts spell, complesso da calcolare. Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 per ogni Successo Critico Magico nella Prova di Magia.
 - ts oggetti/mostri 10+2xspell level
 - opportunista valutare se darlo a quali mostri
-- recupero punti ferita cos+2*ca+cm, trovare formula piu' semplice
+- recupero punti ferita cos+2*ca+cm, trovare formula piu' semplice. Cos * lv/2 ?
 - ragionare su prova di magia. farla diventare una prova di arcana e contare i successi/multipli di 6 dal valore ?
 - stress, basso alto, bonus e malus, recupero
 - ipotesi togliere incantesimi di 7 8 9 livello
