@@ -428,7 +428,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81c aggiornata versione POD
 
-0.81d corretto esempio calcolo tesoro, aggiunto sistema opzionale per calcolo punti esperienza basata sul grado relativo della sfida, allineate difficolta' apertura porte, corrette indicazioni su Regole dell’Afferrare per i Mostri, migliore impaginazione, diverse correzioni linquistiche, dettagli su stagioni in yeru, corretto incantesimi forniti da collana del rosario, 
+0.81d corretto esempio calcolo tesoro, aggiunto sistema opzionale per calcolo punti esperienza basata sul grado relativo della sfida, allineate difficolta' apertura porte, corrette indicazioni su Regole dell’Afferrare per i Mostri, migliore impaginazione, diverse correzioni linquistiche, dettagli su stagioni in yeru, corretto incantesimi forniti da collana del rosario, chiarimenti su nascondersi, 
 
 - aggiunti \label{} fino a piani
 
