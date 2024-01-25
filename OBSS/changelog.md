@@ -432,7 +432,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81d aggiornata versione POD
 
-0.81e
+0.81e rilettura capitolo introduzione, 
 
 - aggiunti \label{} fino a piani
 
