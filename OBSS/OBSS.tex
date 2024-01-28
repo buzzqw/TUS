@@ -2353,7 +2353,7 @@ Se vi dicono \textit{convinco la guardia a farci passare} fate fare una prova di
 
 Ci sono situazioni in cui il personaggio deve effettuare una Prova Contrapposta ad un avversario, ad esempio muoversi silenziosamente alle spalle di una guardia, rubare dalle tasche del mercante, intimidire l'orchetto per farsi dare indicazioni, spingere un avversario..
 
-In questo caso il personaggio effettua una prova la cui \textbf{difficoltà (DC) è pari 10 + il punteggio} della Caratteristica + Competenza oppure Tiro Salvezza + modificatori attivi sull'avversario.
+In questo caso il personaggio effettua una prova la cui \textbf{difficoltà (DC) è pari 10 + il punteggio} della Caratteristica + Competenza oppure Tiro Salvezza + modificatori (bonus/penalità) contingenti. 
 
 Chi ottiene il valore più alto vince, in caso di parità vince chi ha il valore più alto nella Competenza, poi nella Caratteristica ed infine l'eventuale \textit{avversario}. \index{DC Statica nelle prove contrapposte}\index{Prova Contrapposte}
 
@@ -2367,9 +2367,7 @@ Usate questo sistema di confronto ogni volta che viene chiamata la \textbf{Prova
 
 - Creare una mappa falsa: Falsificare Vs Valutare
 
-- Nascondersi: Nascondersi Vs Consapevolezza
-
-- Muoversi silenziosamente: Muoversi Silenziosamente vs Consapevolezza (purché non visto)
+- Nascondersi / Muoversi Silenziosamente : Competenza  Vs Consapevolezza, purché non visto
 
 - Intimidire: Intimidire Vs Tiro Salvezza su Volontà (con modificatore Carisma)
 
@@ -2407,12 +2405,12 @@ E' possibile che siano chieste Prove Contrapposte con indicato modificatori dive
 \end{center}
 
 
-\subsection{Vantaggi e Svantaggi} \index{Vantaggi}\index{Bonus}\index{Malus}\index{Penalità}\index{Svantaggi}\label{vantaggi}
+\subsection{Vantaggi e Svantaggi, Bonus e Penalità'} \index{Vantaggi}\index{Bonus}\index{Malus}\index{Penalità}\index{Svantaggi}\label{vantaggi}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Audentes fortuna iuvat (\textit{La fortuna aiuta gli audaci}, Virgilio) }\end{enfasi}\end{changemargin}
 
 
-A seconda delle circostanze potranno esserci dei vantaggi od un svantaggi nella prova.
+A seconda delle circostanze potranno esserci dei bonus o penalità nella prove.
 
 Il modificatore nelle \textbf{prove dinamiche}\index{Prove dinamiche} è da usarsi quando la prova viene fatta tirando i 3d6, in questo caso si potranno sommare bonus o penalità (-1, +2...) o addirittura tirare dadi in più od in meno (+1d6, -2d6), fino a non tirare dadi (con 3d6 di penalità)!.
 
@@ -2420,7 +2418,7 @@ Se le penalità accumulate portano i dadi della prova sotto zero si conta solo i
 
 Si intendono \textbf{prove a valore fisso} \index{Prove a valore fisso} quando il valore non dipende dal tiro di dadi (es. Difesa), in questo caso il punteggio si alza/abbassa del valore indicato.
 
-Cercate di rimanere sempre tra questi valori di vantaggio e svantaggio, altrimenti potete dire che la prova è direttamente riuscita o fallita.
+Cercate di rimanere sempre tra questi valori di bonus e penalità, altrimenti potete direttamente dire che la prova è riuscita o fallita.
 
 Il giocatore può richiedere di effettuare la prova anche se il risultato è certo.
 
@@ -2470,7 +2468,7 @@ Consiglio a tutti di leggere l'ottimo articolo di Lorenzo Bertini \href{https://
 
 Più personaggi possono aiutare lo stesso amico; i bonus di questo tipo sono cumulabili fino ad un bonus pari ad un quarto della difficoltà da battere (es +6 nel caso di difficoltà 25).
 
-In caso di prove basate su Competenze chi aiuta deve aver assegnato almeno un punto a quella Competenza.
+\textbf{In caso di prove basate su Competenze chi aiuta deve aver assegnato almeno un punto a quella Competenza}.
 
 Il Narratore valuterà la possibilità che più di un personaggio fornisca aiuto considerando spazi, modi e tempi (non è facile aiutare qualcuno ad infilare un filo nella cruna di un ago).
 
@@ -2486,7 +2484,7 @@ Non fate tirare dadi per prove che non hanno possibilità di fallire, per le pro
 
 Una \textbf{Prova con Rischio} si chiede in prove di particolare tensione ed urgenza in cui è più importante il risultato finale che il rischio che si corre. Questa richiesta va fatta prima di tirare i dadi.
 
-Se la prova fallisce di 1 potrà considerarsi riuscita anche se con un problema leggero, se è fallita di 2 si porta dietro un problema serio se è fallita di 4 è riuscita con un problema critico, se è fallita di oltre 4 la prova non è comunque riuscita. Applicata a competenze come Conoscenza si può decidere di fornire informazioni non complete oppure in parte vere e false, oppure ancora se si tratta di aprire una serratura si potrebbe essere rotto il grimaldello nella serratura!
+Se la prova fallisce di 1 potrà considerarsi riuscita anche se con un problema leggero, se è fallita di 2 si porta dietro un problema serio se è fallita di 4 è riuscita con un problema critico, se è fallita di oltre 4 la prova non è comunque riuscita. Applicata a competenze come Conoscenza si può decidere di fornire informazioni non complete oppure in parte vere e false, oppure ancora se si tratta di aprire una serratura si potrebbe rompere il grimaldello nella serratura!
 
 \subsection{Prove di Gruppo}\label{provedigruppo}\hypertarget{provedigruppo}{}\index{Prove di Gruppo}
 
@@ -2642,9 +2640,6 @@ Ogni ora di pioggia&DC +4\\
 Cerca di occultare le traccie&DC +5\\
 \end{tabular}\\
 
-Si applicano alla prova eventuali modificatori dati dall'occultamento.
-
-
 Sopravvivenza può essere usata al posto di \textbf{Disattivare Congegni} con un -2d6 per disattivare trappole o serrature 1 Azione per DC.
 
 Ogni quattro punti ottenuti nella prova di Sopravvivenza oltre 13 il personaggio è in grado di \textbf{procurarsi cibo} per se stesso ed un altra persona purché si trovi in un ambiente capace di sostenere la vita.
@@ -2655,15 +2650,12 @@ La prova di \textbf{Valutare}\index{Valutare} è un base alla rarità dell'ogget
 
 \subsection{Linguaggi}\index{Linguaggi}\hypertarget{linguaggi}{}\label{linguaggi}
 
-In Yeru ogni cultura è custode di una propria lingua parlata e scritta. Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto superiore o pari a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio.
+In Yeru ogni cultura è custode di una propria lingua parlata e scritta. Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto pari o superiore a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio.
+Un appartenente ad una razza può benissimo avere come prima lingua non quella della propria razza se il background lo giustifica (es. un nano cresciuto presso una tribù di Goblin).
 
 Per ogni punto speso nella Competenza Conoscenza Lingua parla e scrive un altra lingua.
 
-Un appartenente ad una razza può benissimo avere come prima lingua non quella della propria razza se il background lo giustifica (es. un nano cresciuto presso una tribù di Goblin).
-
 Alcune lingue segnate con un \textbf{*} non possono essere parlate se non da creature appartenenti a quella specie o gruppo culturali.
-
-Usate la ricchezza narrativa che lingue diverse possono dare. Una avventura, in un ambiente dove nessuno si capisce, può portare a risvolti molto interessanti.
 
 \end{multicols}
 
@@ -2675,15 +2667,15 @@ Usate la ricchezza narrativa che lingue diverse possono dare. Una avventura, in 
 \textbf{Ambito culturale}& \textbf{Parlato} & \textbf{Scritto}&\textbf{Ambito culturale}& \textbf{Parlato} & \textbf{Scritto}\\
 \toprule
 Umano & Comune& Comune& Nanico& Nanico& Nanico\\Elfico& Elfico & Elfico & Gnomico& Gnomica & Gnomica \\Gnoll & Gnoll & Goblinoide & Giganti& Gigante  & Gigante\\
-Orco& Orchesco & Orchesco & Creature marine senzienti & Aquar& Elfico\\
-Uccelli senzienti& Ictum & Elfico& Abitanti dei boschi*& Silvano& Silvano\\
+Orco& Orchesco & Orchesco & Creature marine senzienti & Aquan& Elfico\\
+Uccelli senzienti& Ictun & Elfico& Abitanti dei boschi*& Silvano& Silvano\\
 Druidico* & Druidico & -& Goblinoide& Goblinoide& Goblinoide\\
 Celestiale& Celestiale & Celestiale& Infernale & Infernale & Infernale\\
 Abissale & Abissale& Abissale& Draghi& Draconico & Draconico\\
-Elementali del Fuoco* & Ignam  & - & Elementali della Terra*& Tremus &-\\
-Elementali dell'Acqua* & Aquar & - & Elementali dell'Aria*& Ictum &-\\
-Nonmorti & Exspiram & - & Sotterrano & Profondità& Profondità\\
-Lingua dei Segni*& dei Segni & dei Segni&Draghi&Draconico&Draconico\\
+Elementali del Fuoco* & Ignan  & - & Elementali della Terra*& Tremun &-\\
+Elementali dell'Acqua* & Aquan & - & Elementali dell'Aria*& Ictun &-\\
+Nonmorti & Exspiran & - & Sotterrano & Profondità& Profondità\\
+Lingua dei Segni*& dei Segni & dei Segni&&&\\
 \end{tabular}}
 
 \medskip
@@ -22967,7 +22959,7 @@ L'anello ha 5 cariche. Recupera 1d4 + 1 cariche ogni giorno all'alba. Gli incant
 \index[OggettiMagici]{Anello degli Elementali dell'Aria}\smallskip* \textbf{Anello degli Elementali dell'Aria}
 250000 mo, leggendario, questo anello è collegato al Piano Elementale dell'Aria. Mentre lo indossi, hai +1d6 ai Tiri per Colpire contro gli elementali del Piano Elementale dell'Aria, ed essi hanno -1d6 ai Tiri per Colpire effettuati contro di te.
 
-Puoi spendere 2 cariche dell'anello per lanciare dominare mostri su di un elementale dell'aria. Inoltre, quando cadi, scendi di 18 metri per round e non subisci danni dalla caduta. Puoi parlare e comprendere l'Ictum.
+Puoi spendere 2 cariche dell'anello per lanciare dominare mostri su di un elementale dell'aria. Inoltre, quando cadi, scendi di 18 metri per round e non subisci danni dalla caduta. Puoi parlare e comprendere l'Ictun.
 
 Se aiuti a uccidere un elementale dell'aria mentre indossi l'anello, ottieni accesso alle seguenti proprietà aggiuntive:
 
@@ -23004,7 +22996,7 @@ Gli incantesimi lanciati tramite l'anello hanno DC del Tiro Salvezza 21.
 \index[OggettiMagici]{Anello degli Elementali della Terra}\smallskip* \textbf{Anello degli Elementali della Terra}
 250000 mo, leggendario, questo anello è collegato al Piano Elementale della Terra. Mentre lo indossi, hai +1d6 ai Tiri per Colpire contro gli elementali del Piano Elementale della Terra, ed essi hanno -1d6 ai Tiri per Colpire effettuati contro di te.
 
-Puoi spendere 2 cariche dell'anello per lanciare dominare mostri su di un elementale della terra. Inoltre, puoi muoverti su terreno difficile composto da macerie, pietre o terra come se fosse terreno normale. Puoi parlare e comprendere il Tremus.
+Puoi spendere 2 cariche dell'anello per lanciare dominare mostri su di un elementale della terra. Inoltre, puoi muoverti su terreno difficile composto da macerie, pietre o terra come se fosse terreno normale. Puoi parlare e comprendere il Tremun.
 
 Se aiuti a uccidere un elementale della terra mentre indossi l'anello, ottieni accesso alle seguenti proprietà aggiuntive:
 
@@ -25223,7 +25215,7 @@ I celestiali sono di natura buona, esempi classici di celestiali sono angeli, co
 
 \smallskip\textbf{Mostruosità}, sono mostri nel senso più stretto del termine creature spaventose che non sono comuni, né davvero naturali, e quasi mai benigne. Alcune sono il risultato di esperimenti magici andati male, mentre altri sono il prodotto di terribili maledizioni (tra cui ricordiamo il minotauro). Sfuggono a qualsiasi categorizzazione, e in qualche modo servono da categoria onnicomprensiva per quelle creature che non corrispondono a nessun altro tipo di mostro.
 
-\smallskip\textbf{Non Morti}, sono creature un tempo vive condotte ad un orribile stato di non morte tramite la pratica della magia negromantica o qualche blasfema maledizione. Tra i non morti si annoverano cadaveri ambulanti, come vampiri e zombi, oppure spiriti incorporei, come fantasmi e spettri. Alcuni non morti più intelligenti parlano Exspiram, una lingua fatti di oscuri sussurri.
+\smallskip\textbf{Non Morti}, sono creature un tempo vive condotte ad un orribile stato di non morte tramite la pratica della magia negromantica o qualche blasfema maledizione. Tra i non morti si annoverano cadaveri ambulanti, come vampiri e zombi, oppure spiriti incorporei, come fantasmi e spettri. Alcuni non morti più intelligenti parlano Exspiran, una lingua fatti di oscuri sussurri.
 
 \smallskip\textbf{Piante}, in questo contesto si tratta di creature vegetali, non della normale flora. La maggior parte di esse sono mobili, e alcune sono carnivore. L'esempio più classico di piante sono i tumuli ambulanti e gli ent. Anche le creature fungoidi come le spore gassose e i miconidi rientrano in questa categoria.
 
@@ -26228,7 +26220,7 @@ A un occhio non allenato gli Azer si somigliano tra loro in modo impressionante.
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} elfico, comune, Exspiram
+\textbf{Linguaggi} elfico, comune, Exspiran
 
 \textbf{Sfida} 4 (1100 PX)
 
@@ -26658,7 +26650,7 @@ Il bulette è un combattente astuto, e sorprende i nemici con agilità impressio
 
 \textbf{Sensi} Scurovisione 36 m
 
-\textbf{Linguaggi} Comune, Abissale, Exspiram
+\textbf{Linguaggi} Comune, Abissale, Exspiran
 
 \textbf{Sfida} 18 (20000 PX)
 
@@ -32489,7 +32481,7 @@ L'elementale può afferrare una creatura di taglia CR/3 oppure 2 di CR/2 oppure.
 \textbf{Immunità al Danno} Veleno\\
 \textbf{Immunità alle Condizioni} afferrato, avvelenato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticamento\\
 \textbf{Sensi} Scurovisione 18 m\\
-\textbf{Linguaggi} Ictum\\
+\textbf{Linguaggi} Ictun\\
 \textbf{Sfida} CR\\
 \textit{\textbf{Forma d'Aria.}} L'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 3 centimetri senza doversi stringere.\\
 \textit{\textbf{Natura Elementale.}} Un elementale non ha bisogno di aria, cibo, bevande o sonno.\\
@@ -32546,7 +32538,7 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 \textbf{Immunità alle Condizioni} afferrato, avvelenato, paralizzato, pietrificato, privo di sensi, prono, affaticamento\\
 \textbf{Vulnerabilità al Danno} suono\\
 \textbf{Sensi} percezione tellurica 18 m, scurovisione 18 m\\
-\textbf{Linguaggi} Tremus\\
+\textbf{Linguaggi} Tremun\\
 \textbf{Sfida} CR\\
 \textit{\textbf{Mostro d'Assedio.}} L'elementale infligge danni doppi agli oggetti e le strutture.\\
 \textit{\textbf{Natura Elementale.}} Un elementale non ha bisogno di aria, cibo, bevande o sonno.\\
@@ -32781,7 +32773,7 @@ Un elementale dell'acqua grande è alto 1,8 metri e pesa 80kg.
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} Ictum
+\textbf{Linguaggi} Ictun
 
 \textbf{Sfida} 5 (1800 PX)
 
@@ -32907,7 +32899,7 @@ Un elementale del fuoco grande è alto 4,8 metri.
 
 \textbf{Sensi} percezione tellurica 18 m, scurovisione 18 m
 
-\textbf{Linguaggi} Tremus
+\textbf{Linguaggi} Tremun
 
 \textbf{Sfida} 5 (1800 PX)
 
@@ -33089,7 +33081,7 @@ In genere formano delle coppie riproduttive per allevare la prole solo per brevi
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} qualsiasi lingua conosciuta in vita, Exspiram
+\textbf{Linguaggi} qualsiasi lingua conosciuta in vita, Exspiran
 
 \textbf{Sfida} 4 (1100 PX)
 
@@ -33214,7 +33206,7 @@ Disgustosa, nauseante e affamata: queste sono le uniche parole che descrivono in
 
 \textbf{Sensi} Scurovisione 18 m, Visione Crepuscolare 18 m
 
-\textbf{Linguaggi} Ictum, Celestiale, Comune, Ignan
+\textbf{Linguaggi} Ictun, Celestiale, Comune, Ignan
 
 \textbf{Sfida} 15 (13000 PX)
 
@@ -33760,7 +33752,7 @@ I Paladini Gablin sono tra i più potenti gablin che si conoscano, i veri eletti
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} Tremus
+\textbf{Linguaggi} Tremun
 
 \textbf{Sfida} 2 (450 PX)
 
@@ -33888,7 +33880,7 @@ Probabilmente frutto di una qualche incantesimo di trasformazione andato a male 
 
 \textbf{Sensi} scurovisione 36 m
 
-\textbf{Linguaggi} Ictum
+\textbf{Linguaggi} Ictun
 
 \textbf{Sfida} 11 (7200 PX)
 
@@ -34025,7 +34017,7 @@ Gli Efreet hanno pochi alleati tra gli altri Geni: odiano i Djinni, e li attacca
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} Comune, Exspiram
+\textbf{Linguaggi} Comune, Exspiran
 
 \textbf{Sfida} 2 (450 PX)
 
@@ -34138,7 +34130,7 @@ Anche se molti ghoul di superficie vivono in modo primitivo, delle voci parlano 
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} Comune, Exspiram
+\textbf{Linguaggi} Comune, Exspiran
 
 \textbf{Sfida} 6 (2300 PX)
 
@@ -34193,7 +34185,7 @@ Il Ghoul Nero rappresenta una delle elite evolutive dei Ghoul. Solitamente a cap
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} Comune, Exspiram
+\textbf{Linguaggi} Comune, Exspiran
 
 \textbf{Sfida} 5 (1800 PX)
 
@@ -34245,7 +34237,7 @@ La Madre Ghoul è solitamente a capo di un clan di ghoul che può raggiungere an
 
 \textbf{Sensi} scurovisione 36 m
 
-\textbf{Linguaggi} Comune, Exspiram
+\textbf{Linguaggi} Comune, Exspiran
 
 \textbf{Sfida} 4 (110 PX)
 
@@ -34747,7 +34739,7 @@ I capi gnoll hanno competenze da guardiaboschi ma non è impossibile trovare anc
 
 \textbf{Sensi} scurovisione 36 m
 
-\textbf{Linguaggi} Gnomica, Linguaggio delle Profondità, Tremus
+\textbf{Linguaggi} Gnomica, Linguaggio delle Profondità, Tremun
 
 \textbf{Sfida} 1/2 (100 PX)
 
@@ -35830,7 +35822,7 @@ Le lamie presentate qui sono solo gli esponenti più comuni e meno potenti di qu
 
 \textbf{Sensi} visione del vero 36 m
 
-\textbf{Linguaggi} Comune più altre cinque lingue, Exspiram
+\textbf{Linguaggi} Comune più altre cinque lingue, Exspiran
 
 \textbf{Sfida} 21 (33000 PX)
 
@@ -36611,7 +36603,7 @@ Tutte le meduse sono femmine. Raramente, una medusa decide di prendere un maschi
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} Aquan, Ictum
+\textbf{Linguaggi} Aquan, Ictun
 
 \textbf{Sfida} 1/2 (100 PX)
 
@@ -36676,7 +36668,7 @@ I mephit del ghiaccio comunemente si trovano sul Piano dell'Aria. Questi mephit 
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} Ignan, Tremus
+\textbf{Linguaggi} Ignan, Tremun
 
 \textbf{Sfida} 1/2 (100 PX)
 
@@ -36740,7 +36732,7 @@ I mephit del magma comunemente si trovano sul Piano del Fuoco. Questi mephit son
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} Ictum, Tremus
+\textbf{Linguaggi} Ictun, Tremun
 
 \textbf{Sfida} 1/2 (100 PX)
 
@@ -38296,7 +38288,7 @@ Questo Orsogufo è presente nelle regioni artiche o montane innevate. A differen
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} comprende e legge i seguenti linguaggi: Comune, Celestiale, Infernale, Nanico, Elfico, Orchesco, Gigante, Exspiram, lingue Elementali
+\textbf{Linguaggi} comprende e legge i seguenti linguaggi: Comune, Celestiale, Infernale, Nanico, Elfico, Orchesco, Gigante, Exspiran, lingue Elementali
 
 \textbf{Sfida} 3 (700 PX)
 
@@ -38556,7 +38548,7 @@ In alcuni pegasi il sangue di un antenato che era un eroico stallone è ancora f
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} Ictum, comprende il Comune ma non lo parla
+\textbf{Linguaggi} Ictun, comprende il Comune ma non lo parla
 
 \textbf{Sfida} 6 (2300 PX)
 
@@ -40336,7 +40328,7 @@ Il corno di un unicorno è la fonte dei suoi poteri, e per utilizzare le proprie
 
 \textbf{Sensi} scurovisione 36 m
 
-\textbf{Linguaggi} le lingue che conosceva in vita, Exspiram
+\textbf{Linguaggi} le lingue che conosceva in vita, Exspiran
 
 \textbf{Sfida} 13 (10000 PX)
 
@@ -40737,7 +40729,7 @@ Una viverna è lunga circa 4,8 metri e la coda rappresenta da sola circa metà d
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} le lingue che conosceva in vita, Exspiram
+\textbf{Linguaggi} le lingue che conosceva in vita, Exspiran
 
 \textbf{Sfida} 3 (700 PX)
 
@@ -40804,7 +40796,7 @@ Essendo non morti, i wight non hanno bisogno di respirare, così a volte si poss
 
 \textbf{Sensi} Scurovisione 18 m
 
-\textbf{Linguaggi} le lingue che conosceva in vita, Exspiram
+\textbf{Linguaggi} le lingue che conosceva in vita, Exspiran
 
 \textbf{Sfida} 5 (1800 PX)
 
@@ -40862,7 +40854,7 @@ I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le cr
 
 \textbf{Sensi} Scurovisione 18 m, senso tellurico 18 m
 
-\textbf{Linguaggi} Tremus
+\textbf{Linguaggi} Tremun
 
 \textbf{Sfida} 5 (1800 PX)
 
@@ -41201,7 +41193,7 @@ L'aquila gigante è una nobile creatura che parla la propria lingua e comprende 
 
 \textbf{Competenze} Consapevolezza +4
 
-\textbf{Lingue} Aquila Gigante, comprende il Comune e l'Ictum ma non può parlarli
+\textbf{Lingue} Aquila Gigante, comprende il Comune e l'Ictun ma non può parlarli
 
 \textbf{Sfida} 1 (200 PX)
 
