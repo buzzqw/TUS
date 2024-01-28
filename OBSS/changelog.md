@@ -432,7 +432,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.81d aggiornata versione POD
 
-0.81e rilettura capitolo introduzione, rilettura capitolo razze, corretta descrizione fiuto, rilettura capitolo caratteristiche speciali, rilettura Le Caratteristiche, rilettura capitolo punti ferita, rilettura capitolo punti fato, corretta velocita' di scalare, rilettura capitolo compentenze, aggiornata tipologia di creatura a bulette e ippogrifo, rilettura costruiamo il personaggio, aggiunta regola cambiare gli incantesimi, 
+0.81e rilettura capitolo introduzione, rilettura capitolo razze, corretta descrizione fiuto, rilettura capitolo caratteristiche speciali, rilettura Le Caratteristiche, rilettura capitolo punti ferita, rilettura capitolo punti fato, corretta velocita' di scalare, rilettura capitolo compentenze, aggiornata tipologia di creatura a bulette e ippogrifo, rilettura costruiamo il personaggio, aggiunta regola cambiare gli incantesimi, dettagli su afferrato, cambiato bonus che da avere piu' gambe in spingere, chiarimenti su prove contrapposte, 
 
 - aggiunti \label{} fino a piani
 
