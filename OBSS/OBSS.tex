@@ -139,6 +139,15 @@ boxrule=0.3pt
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
+%Define centered and automatically spaced columns for tabularx.
+\newcolumntype{Q}{>{\centering\arraybackslash}X}
+
+%Define left-aligned wrapping and automatically spaced columns for tabularx.
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}
+
+%Define left-aligned wrapping columns for tabular.
+\newcolumntype{h}{>{\raggedright\arraybackslash}p}
+
 \bigskip
 Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni\\
 
@@ -2019,6 +2028,8 @@ Per creare un personaggio prova rispondere a queste domande, potranno aiutarti a
 \begin{center}
 \includegraphics[width=0.6\linewidth]{immagini/Leonidas_I_of_Sparta.png}
 
+%\includegraphics[width=\columnwidth]{immagini/Leonidas_I_of_Sparta.png}
+
 \textit{Leonida di Sparta}
 \end{center}
 
@@ -2884,7 +2895,8 @@ Se il personaggio ha già compiuto tutte le Azioni allora potrà agire nel round
 \medskip
 
 
-\begin{tabularx}{0.45\textwidth}{Xc}
+%\begin{tabularx}{0.45\textwidth}{Xc}
+\begin{tabularx}{\columnwidth}{Lc}
 \textbf{Cosa si fa}  & \textbf{Azioni}\\
 \toprule
 Eseguire un attacco					& 1\\
@@ -46338,7 +46350,7 @@ Se il personaggio resta sveglio per più giorni, lottare contro il sonno diventa
 \textbf{Fiancheggiare}\index{Fiancheggiare}\index{Fiancheggiato}: una creatura è fiancheggiata se ha due avversari non affiancatati attorno a se ed una ipotetica linea che unisce gli avversari attraversa il quadretto della creatura completamente . Le due creature prendono +2 al Tiro per Colpire o alla Difesa.
 
 \textbf{Impreparato / Sorpreso}\index{Impreparato}\index{Surpreso}:
-Una creatura sorpresa / impreparata ha una penalità di -4 a Difesa ed ai Tiri Salvezza su Riflessi. Non potrà reagire, non usere Azioni o Reazioni se non esplicitamente permesse; dal round successivo potrà dichiarare l'iniziativa ed agire normalmente.
+Una creatura sorpresa / impreparata ha una penalità di -4 a Difesa ed ai Tiri Salvezza su Riflessi. Non potrà reagire, non userà Azioni o Reazioni se non esplicitamente permesse; dal round successivo potrà dichiarare l'iniziativa ed agire normalmente.
 
 \textbf{Inabile}\index{Inabile}: Una creatura inabile non può effettuare azioni o reazioni. E' Impreparata (-4 a Difesa ed ai Tiri Salvezza su Riflessi)
 
@@ -46411,7 +46423,7 @@ Il terreno si considera difficile e sei comunque considerato ancora prono finch�
 
 \textbf{Rotto}\index{Rotto}: La condizione rotto ha i seguenti effetti, a seconda dell'oggetto:
 
-- Se l'oggetto è un'arma, tutti gli attacchi effettuati con l'oggetto subiscono penalità -2 al Tiro per Colpire ed ai danni. Tali armi ottengono un Colpo Critico soltanto con un 3 volte 6 naturale ed infliggono al massimo solo 1 volta il danno in aggiunta.
+- Se l'oggetto è un'arma, tutti gli attacchi effettuati con l'oggetto subiscono penalità -2 al Tiro per Colpire ed ai danni. Tali armi ottengono un Colpo Critico soltanto con un 3 volte 6 ed infliggono al massimo solo 1 volta il danno in aggiunta.
 
 - Se l'oggetto è un'armatura o uno scudo, il bonus che concede alla Difesa è dimezzato, arrotondando per eccesso. L'armatura rotta raddoppia la penalità di armatura alla Prova sulle Competenze.
 
