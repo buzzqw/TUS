@@ -444,6 +444,7 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
+- lista d'armi, valutare non lista che prendi quando hai X punti in lista, ma dato un certo valore di X dare una lista di scelte
 - dogmi per i patroni, prendere ad esempio  i vecchi dei
 - ts spell, complesso da calcolare. Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 per ogni Successo Critico Magico nella Prova di Magia
 - ts oggetti/mostri 10+2xspell level
