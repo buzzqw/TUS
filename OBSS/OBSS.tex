@@ -3222,11 +3222,11 @@ Se il Tiro per Colpire (TC) è più basso della Difesa allora l'avversario avrà
 
 Ci sono situazioni che possono avvantaggiare la Difesa quali coperture, nascondigli, come fosse, porte, compagni di taglia molto più grande della propria. Consultate i paragrafi relativi ai \hyperlink{coperture}{Nascondigli e Coperture} per capire il vantaggio che possono dare.
 
-Ci sono occasioni in cui non è importante penetrare la difesa e ferire l'avversario ma semplicemente basta toccarelo.
+Ci sono occasioni in cui non è importante penetrare la difesa e ferire l'avversario ma semplicemente basta toccarlo.
 
 Altre volte l'avversario è sorpreso e non può difendersi completamente.
 
-Se è \textbf{sufficiente toccare l'avversario} il Tiro per Colpire ha +1d6 di bonus dato che non è necessario portare il colpo quanto solo sfiorarlo.\index{Toccare l'avversario}. Nel manuale è chiamato Attacco a Tocco.\index{Attacco a tocco}
+Se è \textbf{sufficiente toccare l'avversario} il Tiro per Colpire ha +1d6 di bonus dato che non è necessario portare il colpo quanto solo sfiorarlo.\index{Toccare l'avversario}. Nel manuale è chiamato Attacco a Tocco.\index{Attacco a tocco}\label{attaccoatocco}\hypertarget{attaccoatocco}{}
 
 Se \textbf{l'avversario è sorpreso} ovvero non si aspetta l'attacco la Difesa ed il Tiro Salvezza su Riflessi avranno una penalità di -4. Questo è il valore della \textbf{Difesa di sorpresa}.
 
@@ -3983,6 +3983,8 @@ Se la creatura invisibile ha attaccato in mischia e non si è spostata si consid
 Se la prova per individuare riesce l'osservatore ha la sensazione che \textit{ci sia qualcosa} ma non può vederlo o prenderlo di mira in modo accurato con un attacco.
 
 Chi attacca una creatura per lei \textbf{invisibile ma individuata} ha un -1d6 al Tiro per Colpire, la creatura che attacca colui che non la vede ha +1d6 al Tiro per Colpire.
+
+Una creatura Accecata \index{Accecata}subisce penalità di -2 alle Prove di Competenza basate su Forza e Destrezza e fallisce automaticamente qualsiasi prova di Consapevolezza dipenda dalla vista.
 
 Attaccare un bersaglio non individuato significa attaccare un \textit{quadretto} a caso della mappa. Permettete sempre il Tiro per Colpire,  che ci sia un avversario o meno in quel quadretto. Se il bersaglio è in quel quadretto modificate la sua Difesa di +8, se il \textit{quadretto} è vuoto il Tiro per Colpire non colpirà nessuno ed informerete il personaggio che non si è colpito nulla.
 
@@ -16066,31 +16068,20 @@ Le gradazione di luce possono essere:
 \item
   \textbf{Oscurità}': buio pesto, può essere naturale o magico
 \item
-  \textbf{Luce Fioca/Oscurata leggermente/Penombra}: poca illuminazione, permette di riconoscere le sagome
+  \textbf{Luce Fioca/Scarsa/Penombra}: poca illuminazione, permette di riconoscere le sagome
 \item
-  \textbf{Luce}: luce intensa, una luce brillante, coprente, assolata
+  \textbf{Luce}: luce intensa, luce brillante, coprente, assolata
 \end{itemize}
 
 Saranno le fonti di illuminazione, o la loro assenza, a stabilire quanta luce c'è e fino a che distanza. La Tabella Fonti di Luce indica per le più comuni fonti di luce il raggio illuminato a pieno, quello illuminato in maniera inferiore (Luce Fioca) e la durata.
 
 Molti incantesimi ed oggetti usano come durata il \textit{tempo di gioco reale}, ovvero non si contano i round o turni per stabilire la durata bensì si segna sulla scheda l'orario di accensione della torcia, lanterna, incantesimo. Un altro metodo può essere quello di impostare un timer nello smartphone. In questa maniera risulterà più facile la gestione e maggiore l'attenzione alle risorse consumabili.
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Nota sulle fonti di luce]
-Vi sarete accorti o lo farete presto, che le fonti di luce magiche funzionano in maniera diversa, molto spesso durano molto di meno o generano poca luce. Questo è dovuto al volere di un Patrono e come tale solo un Patrono può annullarne gli effetti (od il Narratore!).
-\end{tcolorbox}\end{changemargin}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}Il diverso funzionamento delle fonti di luce vuole rendere più cupo, oscuro e difficile l'esplorazione, specialmente di caverne e zone prive di fonti luminose. Basta gruppi che castano Luce ogni minuto o gridano \textit{Scurovisione!}. L'oscurità aiuta l'immaginazione ed alza il livello di tensione.
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}Il diverso funzionamento delle fonti di luce vuole rendere più cupo, oscuro e difficile l'esplorazione, specialmente di caverne e zone prive di fonti luminose. Basta gruppi che castano Luce ogni minuto o gridano \textit{Scurovisione!}. L'oscurità aiuta l'immaginazione ed alza il livello di tensione. Enfatizzate il crepitare della fiamma della torcia, l'ondeggiare e a volte quasi spegnersi per le correnti improvvise. Rendete misterioso ciò che c'è intorno ai personaggi!.
 \end{narratore}\end{changemargin}
 
 \medskip
-
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/oscurita.png}
-
-\textit{Henry Justice Ford}
-\end{center}
-
-\bigskip
 
 \textbf{Tabella: Fonti di luce}\index[Tabelle]{Tabella delle fonti di luce}
 
@@ -16102,7 +16093,7 @@ Vi sarete accorti o lo farete presto, che le fonti di luce magiche funzionano in
 \textbf{Fonte di} &\multicolumn{2}{c}{\textbf{Raggio in metri}}& \textbf{Durata}  \\
 \textbf{Luce}& \textbf{Luce} & \textbf{Luce Fioca} &\\
 \toprule
-Candela  & 1 metro & -  & 1 ora\\
+Candela  & - & 1 metro  & 1 ora\\
 Torcia & 3 metri & 6 metri  & 1 ora\\
 Lanterna & 6 metri & 12 metri  & 3 ore \\
 \multicolumn{4}{c}{\textbf{Incantesimi}}\\
@@ -16110,7 +16101,18 @@ Luce 		 & 3 metri & 6 metri  &30 min. \\
 Luce Diurna  & 6 metri & 12 metri & 1 ora \\
 \end{tabular}
 
+\smallskip
+
 La durata indicata è espressa come durata di tempo reale di gioco.\index{Durata Luce}
+
+
+\medskip
+
+\begin{center}
+	\includegraphics[width=0.8\linewidth]{immagini/oscurita.png}
+	
+	\textit{Henry Justice Ford}
+\end{center}
 
 \medskip
 
@@ -16124,7 +16126,7 @@ Il \textbf{personaggio cieco}\index{Cieco} o che combatte nell'oscurità (e non 
 
 \medskip
 
-La \textbf{Luce}\index{Luce} è la luce all'aperto sotto il sole, ma anche se si tiene una torcia in mano o in un corridoio illuminato da lanterne. Nel suo piccolo anche una candela fornisce luce, ma solo quanto basta ad avvolgere chi la porta.
+La \textbf{Luce}\index{Luce} è la luce all'aperto sotto il sole, ma anche se si tiene una torcia in mano o in un corridoio illuminato da lanterne. Se le fonti di luci non si susseguono si creano zone di penombra se non oscurità.
 
 \subsubsection{Tipi di Visione e Illuminazione}
 
@@ -16140,6 +16142,9 @@ Una creatura con \textbf{Scurovisione} \index{Scurovisione} vede nell'oscurità 
 La Scurovisione è una visione in bianco e nero.
 \end{itemize}
 
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Nota sulle fonti di luce]
+Vi sarete accorti o lo farete presto, che le fonti di luce magiche funzionano in maniera diversa, molto spesso durano molto di meno o generano poca luce. Questo è dovuto al volere di un Patrono e come tale solo un Patrono può annullarne gli effetti (od il Narratore!).
+\end{tcolorbox}\end{changemargin}
 
 \subsubsection{Buio}\index{Buio}
 
@@ -16157,9 +16162,9 @@ Le creature Accecate perdono la loro capacità di infliggere danni extra causati
 
 Le creature accecate considerano il terreno come difficile \index{Muoversi al buio}. Devono effettuare una prova di Acrobatica con DC 12 per Azione di movimento per muoversi a velocità normale. Se la prova fallisce cadono a terra prone. Le creature accecate non possono caricare.
 
-Una creatura accecata, o che combatte contro una creatura invisibile,\index{Invisibile} può effettuare una prova di Consapevolezza a difficoltà 20 (oppure 10+Muoversi silenziosamente dell'avversario se questo non vuole farsi trovare) per individuare la creatura purché questa sia entro il doppio della distanza di mischia dal personaggio.
+Una creatura accecata, o che combatte contro una creatura invisibile,\index{Invisibile} può effettuare una prova di Consapevolezza a difficoltà 20 (oppure 10+Muoversi silenziosamente dell'avversario se questo non vuole farsi trovare) per individuare la creatura purché questa sia entro 6 metri dal personaggio.
 
-Una creatura Accecata \index{Accecata}subisce penalità -1d6 alle prove di Consapevolezza e -2 alle Prove di Competenza basate su Forza e Destrezza e fallisce automaticamente qualsiasi prova di Consapevolezza dipenda dalla vista.
+Una creatura Accecata \index{Accecata}subisce penalità di -2 alle Prove di Competenza basate su Forza e Destrezza e fallisce automaticamente qualsiasi prova di Consapevolezza dipenda dalla vista.
 
 Inoltre, una creatura accecata non può usare incantesimi che prevedano l'uso dello sguardo ed è immune agli incantesimi che prevedono lo sguardo.
 
@@ -16193,7 +16198,7 @@ Un personaggio non può utilizzare incantesimi mentre cade, a meno che la caduta
 
 Le cadute in acqua sono gestite in modo leggermente diverso. Fino a quando l'acqua ha una profondità di almeno di 3 metri ed il tuffo è da una altezza entro 12 metri non si subiscono danni.
 
-Per determinare il danno da caduta in acqua sottraete all'altezza di caduta 15 metri, aggiungete 1d6 di danno e per ogni 3 metri rimanenti sono 1d6 di danno aggiuntivo.
+Per determinare il danno da caduta in acqua sottraete all'altezza di caduta 15 metri, aggiungete 1d6 di danno per ogni 3 metri rimanenti ($((H-15)/3)*1d6)$).
 
 I personaggi che si tuffano volontariamente in acqua non subiscono danni se superano una prova di Nuotare con DC 15 e se l'acqua è profonda almeno 6 metri. La DC della prova aumenta di 5 ogni 5 metri oltre i 15 metri di altezza.
 
@@ -16203,7 +16208,7 @@ I personaggi che si tuffano volontariamente in acqua non subiscono danni se supe
 
 Gli acidi corrosivi infliggono 1d6 danni per round di esposizione, tranne nel caso di totale immersione (come in una vasca d'acido), che infligge 10d6 danni per round. Un attacco con l'acido, come quello di una boccetta lanciata o la saliva/soffio di un mostro, deve essere considerato come un round di esposizione.
 
-I vapori prodotti dalla maggior parte degli acidi sono equivalenti a veleni inalati. Coloro che si avvicinano molto ad un grosso ammasso di acido devono effettuare un Tiro Salvezza su Tempra con DC 13 o subiranno 1 danno temporaneo alla Costituzione a round di esposizione. Questo veleno non ha frequenza, pertanto una creatura è salva se si allontana dall'acido.
+I vapori prodotti dalla maggior parte degli acidi sono equivalenti a veleni inalati. Coloro che si avvicinano ad un grosso ammasso di acido devono effettuare un Tiro Salvezza su Tempra con DC 13 o subiranno 1 danno temporaneo alla Costituzione per round di esposizione. Questo veleno non ha frequenza, pertanto una creatura è salva se si allontana dall'acido.
 
 Le creature immuni alle proprietà caustiche dell'acido potrebbero comunque annegare se vi vengono totalmente immerse (vedi Annegamento).
 
@@ -16219,7 +16224,7 @@ Un personaggio costretto a respirare del fumo denso deve superare un Tiro Salvez
 
 I personaggi potrebbero trovarsi senz'acqua o cibo e privo dei mezzi per procurarsene. Nei climi normali, i personaggi di taglia Media hanno bisogno di almeno 2 litri di liquidi e 0.5 kg di cibo decente al giorno per evitare la fame, i personaggi di taglia Piccola necessitano della metà. Nei climi molto caldi, i personaggi possono aver bisogno di due o tre volte quella quantità d'acqua per evitare la disidratazione.
 
-Ogni giorno senza cibo è necessario effettuare un Tiro Salvezza su Tempra a difficoltà 11 +1 per giorno senza cibo, se non si ha da bere la difficoltà aumenta a +3.
+Ogni giorno senza cibo è necessario effettuare un Tiro Salvezza su Tempra a difficoltà 11 +1 per giorno senza cibo, se non si ha da bere la difficoltà aumenta di +3.
 
 Se si fallisce il Tiro Salvezza si subiscono 1d4 di danno e si diventa sempre più Affaticati. Le penalità date dall'affaticamento rimangono finché non si mangia e beve abbastanza.
 
@@ -16256,25 +16261,27 @@ Colossale  & 10d6\\
 
 \bigskip
 
-Lasciar cadere addosso ad una creatura un oggetto richiede un attacco di contatto a distanza (Attacco a tocco basato su Destrezza). Questi attacchi hanno di solito una gittata di 3 metri. Se un oggetto cade su una creatura (invece di venire lanciato), quella creatura deve effettuare un Tiro Salvezza su Riflessi con DC 15 per dimezzare il danno se è consapevole dell'oggetto che sta cadendo. Gli oggetti cadenti che sono parte di una trappola usano le regole relative alle trappole invece che quelle qui descritte.
+Lasciar cadere addosso ad una creatura un oggetto richiede un attacco a tocco a distanza (vedi \hyperlink{attaccoatocco}{Attacco a Tocco}, pag. \pageref{attaccoatocco}) basato su Destrezza). Questi attacchi hanno di solito una gittata di 3 metri. Se un oggetto cade su una creatura (invece di venire lanciato), quella creatura deve effettuare un Tiro Salvezza su Riflessi con DC 15 per dimezzare il danno se è consapevole dell'oggetto che sta cadendo. Gli oggetti cadenti che sono parte di una trappola usano le regole relative alle trappole invece che quelle qui descritte.
 
 \subsubsection{Pericoli dell'Acqua}\index{Pericoli dell'Acqua}\index{Acqua}
 
 \label{pericoli-dellacqua}
 
-Qualsiasi personaggio può attraversare acque relativamente calme che non abbiano una profondità maggiore alla sua altezza, senza bisogno di prove. Allo stesso modo, Nuotare in acque calme richiede una prova con DC 10. I nuotatori addestrati (almeno 1 punto in Nuotare) possono prendere 10. Si ricordi che l'armatura o l'equipaggiamento pesante rendono qualsiasi tentativo di nuotare più difficile. Muoversi in acqua è considerato terreno difficile.
+Qualsiasi personaggio può attraversare acque relativamente calme che non abbiano una profondità maggiore alla sua altezza, senza bisogno di prove. Allo stesso modo, Nuotare in acque calme richiede una prova con DC 10. I nuotatori addestrati (almeno 1 punto in Nuotare) possono prendere 10. Si ricordi che l'armatura o l'equipaggiamento pesante rendono qualsiasi tentativo di nuotare più difficile. Muoversi in acqua è considerato terreno difficile.\index{Nuotare}
 
-In caso di acqua più rapida o violenta con una prova riuscita di Nuotare o una prova di Forza con DC 15, i personaggi non rischiano di finire sott'acqua. Se falliscono, subiscono 1d3 Danni Non Letali per round (1d6 danni letali se le acque scorrono sopra rocce e avvallamenti).
+In caso di acqua più rapida o violenta con una prova riuscita di Nuotare (DC 13) o una prova di Forza con DC 15, i personaggi non rischiano di finire sott'acqua. Se falliscono, subiscono 1d3 Danni Non Letali a round (1d6 danni letali se le acque scorrono sopra rocce e avvallamenti).
 
 L'acqua molto profonda non è solo nera come la pece, rendendo molto pericolosa la navigazione, ma infligge danni ancora peggiori a causa della pressione dell'acqua nell'ordine di 1d6 danni al minuto ogni 30 metri che separano il personaggio dalla superficie. Un Tiro Salvezza su Tempra superato con successo (DC 15, +1 per ogni prova precedente) indica che il personaggio immerso non subisce danni in quel minuto. L'acqua molto fredda infligge 1d6 Danni Non Letali per minuto di esposizione a causa dell'ipotermia.
 
-\textbf{Annegamento}\index{Annegamento}\index{Affogare}\index{Soffocare}\hypertarget{trattenereilfiato}{}\label{trattenereilfiato}
+\textbf{Annegamento}\index{Annegamento}\index{Affogare}\index{Soffocare}\hypertarget{trattenereilfiato}{}\label{trattenereilfiato}\index{Trattenere il fiato}
 
-Qualsiasi personaggio può trattenere il fiato per un numero di round pari 6 round per il suo punteggio di Costituzione, con un minimo di 3 round. Per ogni Azione compiuta la durata restante diminuisce di 1 round, lanciare un incantesimo consuma 3 round di aria. Trascorso questo periodo di tempo, il personaggio deve effettuare un Tiro Salvezza su Tempra con DC 12 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 1.
+Qualsiasi personaggio può trattenere il fiato per un numero di round pari 6 round per il suo punteggio di Costituzione, con un minimo di 3 round. Per ogni Azione compiuta la durata restante diminuisce di 1 round, lanciare un incantesimo con componenti Verbali consuma 2 round di aria in più. Trascorso questo periodo di tempo, il personaggio deve effettuare un Tiro Salvezza su Tempra con DC 12 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 2.
+
+L'incantatore che lanci incantesimi sott'acqua si considera Distratto.
 
 \medskip
 \begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/affogare.png}
+\includegraphics[width=0.7\linewidth]{immagini/affogare.png}
 
 \textit{Henry Justice Ford}\end{center}
 \medskip
@@ -16295,10 +16302,9 @@ Il caldo infernale (temperatura dell'aria sopra i 60° C, fuoco, acqua che bolle
 
 L'acqua bollente infligge 1d6 danni da scottatura, a meno che il personaggio non vi venga completamente immerso, nel qual caso subirebbe 10d6 danni per round di esposizione.
 
-
-\%begin{center}
-%	\includegraphics[height=0.7\linewidth]{immagini/desert.png}
-%\end{center}
+\begin{center}
+	\includegraphics[height=0.7\linewidth]{immagini/desert.png}
+\end{center}
 
 \subsubsection{Prendere Fuoco}\index{Prendere Fuoco}\index{Fuoco}
 
@@ -16306,23 +16312,24 @@ L'acqua bollente infligge 1d6 danni da scottatura, a meno che il personaggio non
 
 I personaggi esposti ad olio bollente, fuochi da campo, fuochi magici non istantanei possono vedere i loro abiti, capelli o equipaggiamento prendere fuoco. Gli incantesimi specificano se sono in grado di appiccare il fuoco.
 
-I personaggi che rischiano di prendere fuoco possono effettuare un Tiro Salvezza su Riflessi con DC 15 per evitare questo destino. Se i vestiti o i capelli di un personaggio prendono fuoco, egli subisce immediatamente 1d6 danni. Per ogni round successivo il personaggio in fiamme deve effettuare un altro Tiro Salvezza su Riflessi. Il fallimento indica che subisce altri 1d6 danni in quel round. Il successo indica che il fuoco si è estinto (ovvero, una volta che supera il Tiro Salvezza, non sta più andando a fuoco).
+I personaggi che rischiano di prendere fuoco possono effettuare un Tiro Salvezza su Riflessi con DC 15 per evitare questo fato. Se i vestiti o i capelli di un personaggio prendono fuoco, egli subisce immediatamente 1d6 danni. Per ogni round successivo il personaggio in fiamme deve effettuare un altro Tiro Salvezza su Riflessi. Il fallimento indica che subisce altri 1d6 danni in quel round. Il successo indica che il fuoco si è estinto (ovvero, una volta che supera il Tiro Salvezza, non sta più andando a fuoco).
 
-Un personaggio che va a fuoco può estinguere automaticamente le fiamme saltando dentro a dell'acqua sufficiente a spegnerle. Se non ci sono grosse quantità d'acqua a disposizione, rotolarsi sul terreno o smorzare la fiamma con mantelli o simili può concedere al personaggio un altro Tiro Salvezza con bonus +1d6.
+Un personaggio che va a fuoco può estinguere automaticamente le fiamme saltando dentro a dell'acqua sufficiente a spegnerle. Se non ci sono grosse quantità d'acqua a disposizione, rotolarsi sul terreno o smorzare la fiamma con mantelli o simili può concedere al personaggio +1d6 al Tiro Salvezza.
 
-Coloro che sono talmente sfortunati dal vedere il loro Equipaggiamento o vestiti prendere fuoco devono superare un Tiro Salvezza su Riflessi (DC 15) per ogni oggetto. Gli oggetti infiammabili che falliscono il tiro, subiscono la stessa quantità di danni del personaggio.
+Coloro che sono talmente sfortunati dal vedere il loro equipaggiamento o vestiti prendere fuoco devono superare un Tiro Salvezza su Riflessi (DC 15) per ogni oggetto. Gli oggetti infiammabili che falliscono il tiro, subiscono la stessa quantità di danni del personaggio.
+
 
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/fuocopericolo.png}
+	\includegraphics[width=0.7\linewidth]{immagini/fuocopericolo.png}
 \end{center}
 
 \medskip
 
 \textbf{Effetti della Lava}\index{Lava}
 
-La lava o il magma infliggono 2d6 danni per round di esposizione, tranne in caso di totale immersione (come quando un personaggio cade nel cratere di un vulcano attivo), che infligge 20d6 danni per round (più eventuali danni da caduta).
+La lava o il magma infliggono 2d6 danni per round di esposizione, tranne in caso di totale immersione (come quando un personaggio cade nel cratere di un vulcano attivo), che infligge 20d6 danni per round (più eventuali danni da caduta e magari trova un anello..).
 
-I danni provocati dal magma continuano per 1d3 round dopo il termine dell'esposizione, ma questi danni addizionali sono solo la metà di quelli inflitti durante l'ultimo round di effettivo contatto. Un'Immunità o una Resistenza al fuoco serve anche come resistenza o resistenza alla lava o al magma. Tuttavia, le creature Immuni o Resistenti al Fuoco potrebbero annegare se immerse nella lava (vedi Annegamento).
+I danni provocati dal magma continuano per 1d3 round dopo il termine dell'esposizione, ma questi danni addizionali sono solo la metà di quelli inflitti durante l'ultimo round di effettivo contatto (20/10/5). Un'Immunità o una Resistenza al fuoco serve anche come resistenza alla lava od al magma. Tuttavia, le creature Immuni o Resistenti al Fuoco potrebbero annegare se immerse nella lava (vedi Annegamento).
 
 
 \subsubsection{Pericoli del Freddo}\index{Freddo}
@@ -16330,7 +16337,7 @@ I danni provocati dal magma continuano per 1d3 round dopo il termine dell'esposi
 \label{pericoli-del-freddo}
 
 I personaggi non ben vestiti in climi freddi (sotto i 5° C) devono superare un Tiro Salvezza su Tempra ogni ora (DC 15, +1 per ogni prova precedente) oppure subiscono 1d6 Danni Non Letali.
-In condizioni di freddo estremo o di esposizione sotto i -17° C, un personaggio scoperto deve effettuare un Tiro Salvezza su Tempra ogni 10 minuti (DC 15, +1 per ogni prova precedente), subendo 1d6 Danni Letali per ogni Tiro Salvezza fallito. I personaggi che indossano abiti invernali hanno bisogno di effettuare la prova per il freddo e l'esposizione solo una volta all'ora.
+In condizioni di freddo estremo o di esposizione sotto i -17° C, un personaggio non adeguatamente vestito deve effettuare un Tiro Salvezza su Tempra ogni 10 minuti (DC 15, +1 per ogni prova precedente), subendo 1d6 Danni Letali per ogni Tiro Salvezza fallito. I personaggi che indossano abiti invernali hanno bisogno di effettuare la prova per il freddo e l'esposizione solo una volta all'ora.
 
 Un personaggio somma il suo valore di competenza di Sopravvivenza ai Tiri Salvezza e può dare un bonus ai compagni pari alla metà del valore per lo stesso Tiro Salvezza.
 
@@ -16369,9 +16376,9 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 	\textbf{d\%} & \textbf{Meteo} & \textbf{Clima Freddo}& \textbf{Clima Temperato {*}} & \textbf{Deserto}\\
 	\toprule
 	01-70 & Normale& Freddo, calmo & Normale per la stagione {*}{*} & Torrido,calmo\\
-	71-80 & Anormale  & Ondata di Caldo (01-30) - Ondata di Freddo (31-100)&Ondata di Caldo (01-50) - Ondata di Freddo (51-100)& Torrido,ventilato  \\
-	81-90 & Inclemente  & Precipitazioni (neve)& Precipitazioni (normali per la stagione)& Torrido, ventilato \\
-	91-99 & Tempesta  & Tempesta di neve& Tempesta di fulmini - tempesta di neve& Tempesta di polvere  \\
+	71-80 & Anormale  & Ondata di Caldo (01-30) / Ondata di Freddo (31-100)&Ondata di Caldo (01-50) - Ondata di Freddo (51-100)& Torrido,ventilato  \\
+	81-90 & Inclemente  & Precipitazioni (neve)& Precipitazioni normali per la stagione& Torrido, ventilato \\
+	91-99 & Tempesta  & Tempesta di neve& Tempesta di fulmini / Tempesta di neve& Tempesta di polvere  \\
 	100& Tempesta violenta& Tormenta & Bufera, tormenta, uragano, tornado  & Acquazzone\\
 \end{tabularx}
 
@@ -16407,9 +16414,7 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 \textbf{Ventilato}: La velocità del vento va da moderata a forte (da 15 a 45 km/h); vedi Tabella: Effetti del Vento.
 
-\textbf{Pioggia, Neve, Nevischio e Grandine}
-
-La brutta stagione frequentemente rallenta o blocca i trasporti via terra e rende praticamente impossibile la navigazione. acquazzoni torrenziali e bufere oscurano la visuale tanto quanto lo farebbe una nebbia densa.
+\textbf{Pioggia, Neve, Nevischio e Grandine}: La brutta stagione frequentemente rallenta o blocca i trasporti via terra e rende praticamente impossibile la navigazione. acquazzoni torrenziali e bufere oscurano la visuale tanto quanto lo farebbe una nebbia densa.
 
 La maggior parte delle precipitazioni si manifesta come pioggia, ma nei climi freddi possono manifestarsi anche come neve, nevischio o grandine. Le precipitazioni di qualsiasi tipo, seguite da un calo della temperatura da sopra a sotto gli 0° C possono produrre ghiaccio.
 
@@ -16420,26 +16425,16 @@ La maggior parte delle precipitazioni si manifesta come pioggia, ma nei climi fr
 \end{center}
 
 
-\textbf{Pioggia intensa}\index{Pioggia intensa}
+\textbf{Pioggia intensa}\index{Pioggia intensa}: La pioggia dimezza la visibilità, e impone penalità -1d6 alle prove di Consapevolezza. Ha lo stesso effetto di un vento molto forte sulle fiamme, sugli attacchi con armi a distanza e sulle prove di Consapevolezza come vento molto forte.
 
-La pioggia dimezza la visibilità, e impone penalità -1d6 alle prove di Consapevolezza. Ha lo stesso effetto di un vento molto forte sulle fiamme, sugli attacchi con armi a distanza e sulle prove di Consapevolezza come vento molto forte.
+\textbf{Neve}\index{Neve}: Mentre cade, la neve ha gli stessi effetti della pioggia su visibilità, attacchi con armi a distanza e prove di Consapevolezza ed il terreno è considerato difficile. Una nevicata della durata di un giorno lascia al suolo 3d6*2.5 centimetri di neve.
 
-\textbf{Neve}\index{Neve}
-
-Mentre cade, la neve ha gli stessi effetti della pioggia su visibilità, attacchi con armi a distanza e prove di Consapevolezza ed il terreno è considerato difficile. Una nevicata della durata di un giorno lascia al suolo 3d6*2.5 centimetri di neve.
-
-\textbf{Neve Fitta}
-
-Una fitta nevicata ha gli stessi effetti di una nevicata normale, ma oscura la visibilità come la nebbia (vedi Nebbia). Un giorno di neve fitta lascia sul terreno 2d4 x 30 centimetri di neve ed il terreno viene considerato doppiamente difficile (movimento/4). Una fitta nevicata accompagnata da venti forti o molto forti può dare origine a cumuli di neve profondi 1d4 x 1 metro, specialmente sopra e intorno ad oggetti abbastanza grandi da deflettere il vento (una capanna o una grande tenda, per esempio).
+\textbf{Neve Fitta}: Una fitta nevicata ha gli stessi effetti di una nevicata normale, ma oscura la visibilità come la nebbia (vedi Nebbia). Un giorno di neve fitta lascia sul terreno 2d4 x 30 centimetri di neve ed il terreno viene considerato doppiamente difficile (movimento/4). Una fitta nevicata accompagnata da venti forti o molto forti può dare origine a cumuli di neve profondi 1d4 x 1 metro, specialmente sopra e intorno ad oggetti abbastanza grandi da deflettere il vento (una capanna o una grande tenda, per esempio).
 C'è una probabilità del 10\% che una nevicata fitta sia accompagnata da fulmini (vedi Tempesta di Fulmini). La neve ha gli stessi effetti del vento moderato sulle fiamme.
 
-\textbf{Nevischio}
+\textbf{Nevischio}: Si tratta fondamentalmente di pioggia congelata, che ha gli stessi effetti della pioggia quando cade (eccetto che la probabilità di estinguere fiamme protette è del 75\%) e quelli della neve una volta depositatasi.
 
-Si tratta fondamentalmente di pioggia congelata, che ha gli stessi effetti della pioggia quando cade (eccetto che la probabilità di estinguere fiamme protette è del 75\%) e quelli della neve una volta depositatasi.
-
-\textbf{Grandine}
-
-La grandine non riduce la visibilità, ma il suono della grandine che cade rende più difficili le prove di Consapevolezza basate sull'udito (penalità -1d6). A volte (probabilità del 5\%) la grandine può essere talmente grossa da infliggere 1 danno letale (per tempesta) a qualsiasi cosa si trovi all'aperto. Una volta depositata, la grandine ha lo stesso effetto della neve sul movimento.
+\textbf{Grandine}: La grandine non riduce la visibilità, ma il suono della grandine che cade rende più difficili le prove di Consapevolezza basate sull'udito (penalità -1d6). A volte (probabilità del 5\%) la grandine può essere talmente grossa da infliggere 1 danno letale (per tempesta) a qualsiasi cosa si trovi all'aperto. Una volta depositata, la grandine ha lo stesso effetto della neve sul movimento.
 
 \subsubsection{Tempeste}\index{Tempeste}
 
@@ -16475,13 +16470,21 @@ Venti molto forti e precipitazioni torrenziali riducono la visibilità a zero, e
 \end{center}
 
 
-\textbf{Bufera}: Sebbene abbiano poche o nessuna precipitazione, le bufere possono provocare danni ingenti a causa della forza del vento.
+\textbf{Bufera}
 
-\textbf{Tormenta}: La combinazione di forti venti, neve fitta (di solito 1d3 \texttimes{} 30 cm) e freddo intenso rende le tormente letali per chiunque non vi sia preparato.
+Sebbene abbiano poche o nessuna precipitazione, le bufere possono provocare danni ingenti a causa della forza del vento.
 
-\textbf{Uragano}: Oltre ai venti molto forti e alla pioggia intensa, gli uragani sono seguiti da inondazioni. Molte attività in un'avventura sono impossibili in queste condizioni.
+\textbf{Tormenta}
 
-\textbf{Tornado}: Oltre ai venti molto forti, i tornado possono ferire gravemente ed uccidere quelli che vengono catturati al suo interno.
+La combinazione di forti venti, neve fitta (di solito 1d3 \texttimes{} 30 cm) e freddo intenso rende le tormente letali per chiunque non vi sia preparato.
+
+\textbf{Uragano}
+
+Oltre ai venti molto forti e alla pioggia intensa, gli uragani sono seguiti da inondazioni. Molte attività in un'avventura sono impossibili in queste condizioni.
+
+\textbf{Tornado}
+
+Oltre ai venti molto forti, i tornado possono ferire gravemente ed uccidere quelli che vengono catturati al suo interno.
 
 \subsubsection{Nebbia}\index{Nebbia}
 
@@ -16505,7 +16508,7 @@ I venti possono creare turbini di sabbia o polvere, alimentare grossi incendi, r
 
 \medskip
 
-\begin{tabular}{lll}
+\begin{tabularx}{0.45\textwidth}{llX}
 \textbf{Intensità} & \textbf{Velocità} & \textbf{Attacchi a Distanza} \\
 \toprule
 Leggero & 0-15km &\\
@@ -16515,7 +16518,7 @@ Molto forte & 45.5-75km/h  & -4 \\
 Bufera  & 76.5-111km/h & impossibile  \\
 Uragano & 12-261km/h & impossibile \\
 Tornado & 262-450km/h  & impossibile\\
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
@@ -16535,17 +16538,17 @@ Oltre a spegnere automaticamente le fiamme non protette, i venti di questa inten
 
 \textbf{Bufera}\index{Bufera}
 
-Abbastanza forti da abbattere i rami o addirittura interi alberi, le bufere estinguono automaticamente le fiamme non protette e hanno una probabilità del 75\% di estinguere quelle protette, come quelle delle lanterne. Gli attacchi con le armi a distanza sono impossibili, e anche le armi da assedio subiscono penalità -1d6 ai Tiri per Colpire. Le prove di Consapevolezza basate sull'udito subiscono penalità -8 per l'ululare del vento.
+Abbastanza forti da abbattere i rami o addirittura interi alberi, le bufere estinguono automaticamente le fiamme non protette e hanno una probabilità del 75\% di estinguere quelle protette, come quelle delle lanterne. Gli attacchi con le armi a distanza sono impossibili, e anche le armi da assedio subiscono penalità -1d6 ai Tiri per Colpire. Le prove di Consapevolezza basate sull'udito subiscono penalità -2d6 per l'ululare del vento.
 
 \textbf{Uragano}\index{Uragano}
 
-Estingue tutte le fiamme. Gli attacchi a distanza sono impossibili (eccetto con le armi da assedio che subiscono penalità -8 ai Tiri per Colpire). Anche le prove di Consapevolezza basate sull'udito sono impossibili e tutto ciò che i personaggi possono udire è l'ululare del vento. Gli uragani spesso sono in grado di abbattere gli alberi.
+Estingue tutte le fiamme. Gli attacchi a distanza sono impossibili (eccetto con le armi da assedio che subiscono penalità -2d6 ai Tiri per Colpire). Anche le prove di Consapevolezza basate sull'udito sono impossibili e tutto ciò che i personaggi possono udire è l'ululare del vento. Gli uragani spesso sono in grado di abbattere gli alberi.
 
 \textbf{Tornado (grado di Sfida 10)}\index{Tornado}
 
-Estingue tutte le fiamme. Tutti gli attacchi a distanza sono impossibili (compresi quelli con le armi da assedio), così come le prove di Consapevolezza basate sull'udito. Invece di essere portati via (vedi Tabella: Effetti del Vento), i personaggi che si trovano nelle immediate vicinanze di un tornado e che falliscono un Tiro Salvezza su Tempra vengono risucchiati dentro il tornado.
+Estingue tutte le fiamme. Tutti gli attacchi a distanza sono impossibili (compresi quelli con le armi da assedio), così come le prove di Consapevolezza basate sull'udito. Invece di essere portati via (vedi Tabella: Effetti del Vento), i personaggi che si trovano nelle immediate vicinanze di un tornado e che falliscono un Tiro Salvezza su Tempra (DC 20+) vengono risucchiati dentro il tornado.
 
-Coloro che entrano in contatto con la nube conica vengono sollevati da terra e sbatacchiati per 1d10 round, subendo 6d6 danni per round, prima di venirne espulsi violentemente (con l'applicazione dei danni da caduta).
+Coloro che entrano in contatto con il tornado vengono sollevati da terra e sbatacchiati per 1d10 round, subendo 6d6 danni per round, prima di venirne espulsi violentemente. La creatura viene espulsa da un altezza di 1d6 metri per round di permanenza nel tornado.
 
 Sebbene la velocità rotatoria di un tornado possa raggiungere i 450 km/h, il cono stesso si muove in avanti ad una media di 45 km/h (circa 75 metri per ogni round). Un tornado è in grado di sradicare alberi, distruggere edifici e provocare altre forme di simile devastazione.
 
