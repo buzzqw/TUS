@@ -1,3 +1,12 @@
+**06/02/2024**
+
+OBSS sta avendo la rilettura se non definitiva sicuramente *quasi finale*. Grazie al supporto dell'ultimo gruppo si e' proceduto alla rilettura di quasi tutto il manuale, andando a correggere storture, allineare modificatori e rendere tutto piu' lineare e fruibile.
+
+Non vorrei dire che sta per nascere la versione 1.0 ma e' sicuramente qualcosa che ci va molto vicino. E' una grande soddisfazione personale avere creato un sistema funzionale, funzionante, divertente da giocare e masterizzare! personalmente mi farebbe ancor più piacere se altri giocatori e master volessere provarlo.
+
+Cambiando completamente argomento ho messo in cantiere, ma senza avere una data di fine, il mio prossimo (ancora..) manuale, ovvero una rivisitazione piuttosto fedele di AdnD 2e.
+Non vi anticipo nulla.. ma ci sara' da divertirsi!!
+
 
 **08/01/2024**
 
