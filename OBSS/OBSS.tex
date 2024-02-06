@@ -120,7 +120,7 @@ enhanced,
 arc=5pt,
 boxrule=0.3pt
 }
-\pdfminorversion=
+
 \usepackage{zref-savepos,graphicx}
 \newcommand{\filltopageendgraphics}[2][]{%\filltopageendgraphics[width=.5\linewidth]{image-a}
 		\par
@@ -161,7 +161,6 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 
 
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
-
 
 {\Huge \begin{center} Old Bell School System \end{center}}
 
@@ -1947,9 +1946,9 @@ Le \textbf{Armi Semplici} sono: Pugnale, Mazza Leggera, Randello, Mazza chiodata
 
 Usare un'\textbf{Arma senza l'adeguata competenza} nel gruppo di appartenenza impone un -1d6 al Tiro per Colpire.\index{Arma senza competenza}
 
-Per poter utilizzare \textbf{Armature Leggere} è necessario avere almeno un punto in Competenza Armi o Forza almeno -1.\index{Armature Leggere}
+Per poter utilizzare \textbf{Armature Leggere} e \textbf{Scudi Leggeri} è necessario avere almeno un punto in Competenza Armi o Forza almeno -1.\index{Armature Leggere}\index{Scudi Leggeri}
 
-Per poter utilizzare \textbf{Armature Medie} e \textbf{Scudi Leggeri} o \textbf{Medi} è necessario avere almeno 2 punto in Competenza Armi.\index{Armature Medie}
+Per poter utilizzare \textbf{Armature Medie} e \textbf{Scudi Medi} è necessario avere almeno 2 punto in Competenza Armi.\index{Armature Medie}
 
 Con almeno 3 punti in Competenza Armi ed 1 in Forza si possono usare senza penalità \textbf{Armature Pesanti} e \textbf{Scudi Pesanti}.\index{Armature Pesanti}\index{Scudi Pesanti}
 
@@ -2905,7 +2904,6 @@ Eseguire più di due attacchi		& 3\\
 Lanciare un'Incantesimo*			& 2\\
 Eseguire una Azione di  Movimento*	& 1\\
 Scatto								& 1\\
-Alzare lo scudo						& 1\\
 Alzarsi da prono					& 2\\
 Aiutare qualcuno					& 2\\
 Scambiare un dialogo con qualcuno*	& 3\\
@@ -2934,8 +2932,6 @@ Riconoscere un Incantesimo			& R\\
 Per \textbf{Azione di Attacco} si intende sia l'uso di armi in mischia che l'uso di armi da lancio o tiro come archi, balestre o pugnali da lancio. Nel caso di armi da lancio ogni lancio/tiro conta come un attacco.
 
 Il personaggio che esegue una Azione di Attacco ed il Lancio di un Incantesimo nel medesimo round si considera Distratto ovvero deve eseguire una Prova di Magia per lanciare l'incantesimo.
-
-\textbf{Alzare lo Scudo}: lo Scudo fornisce il bonus alla Difesa solo nel il round nel quale oltre che imbracciato viene anche a alzato (con  eventuali penalità alle competenze o alla Prova di Magia). Nei round in cui non è si usa l'Azione di Alzare lo Scudo non fornisce i suoi bonus alla Difesa.
 
 \textbf{Azione di Movimento*}: un Azione di Movimento è una Azione dedicata a spostarsi. Ci si può spostare fino a tutto il proprio movimento (9 metri per umani, 6 metri per nani..) per Azione usata.
 
@@ -2996,11 +2992,10 @@ Muoversi entro 2m-3m (Mov. 6m-9m) 	& 1 &Scatto entro  4m-6m (Mov. 6m-9m)  & 1\\
 Alzarsi da prono				& 4& Salire o scendere dalla cavalcatura	& 4\\
 Prendere qualcosa nello zaino	& 8& Usare un oggetto tenuto in mano		& 2\\
 Bere una pozione tenuta alla cintura& 4&Concentrarsi su un Incantesimo		& 3\\
-Estrarre / Rinfoderare l'arma			& 3&Alzare lo scudo		     			& 3\\
+Estrarre / Rinfoderare l'arma			& 3&Gettarsi a terra prono     			& R\\
 Sfondare una porta a spallate/calci	& 5&Forzare porta con piede di porco	& 6\\
 Bere una pozione tenuta in mano& 1&Gettare un oggetto tenuto in mano& R\\
 Prendere qualcosa dalla cintura o di pronto & 3 &Riconoscere un Incantesimo& R\\
-Gettarsi a terra prono& R&&\\
 
 \end{tabularx}
 
@@ -3201,7 +3196,7 @@ Se l'attaccante usa:
 \textbf{Incantesimo}: l'attaccante deve effettuare un Tiro per Colpire (TC) = 3d6 + Competenza Armi + Forza (per incantesimi in mischia) oppure + Destrezza (per incantesimi a distanza) eventuali Abilità e modificatori circostanziali.
 \end{itemize}
 
-Chi si difende ha una \textbf{Difesa} pari a: 10 + Destrezza + Scudo (se ha usato l'Azione Alzare lo Scudo) + Armatura + bonus magici + Abilità e bonus circostanziali, per i mostri il valore della Difesa è già indicato.
+Chi si difende ha una \textbf{Difesa} pari a: 10 + Destrezza + Scudo + Armatura + bonus magici + Abilità e bonus circostanziali, per i mostri il valore della Difesa è già indicato.
 
 Il giocatore può decidere di rinunciare a parte del bonus dato dalla Competenza Armi per avere un migliore punteggio di Difesa. Questi punti non saranno a disposizione nell'attacco successivo (vedi Altre azioni e situazioni).
 
@@ -4303,7 +4298,7 @@ Puoi usare lo scudo come arma, uno scudo piccolo fa 1d4 di danno (B/T), uno scud
 Non hai penalità al colpire con lo scudo, per te lo scudo non è un arma improvvisata. Questa Lista d'Armi non ha il bonus dei 6 punti e quello dei 18 comuni alle altre Liste d'Armi.
 
 \begin{itemize}
-\item 1 punto: sei competente in tutte le tipologie di scudo. Non hai il vincolo del limite di Forza 1 sugli Scudi Pesanti. Puoi usare l'Azione Alzare lo Scudo come Reazione.
+\item 1 punto: sei competente in tutte le tipologie di scudo. Non hai il vincolo del limite di Forza 1 sugli Scudi Pesanti.
 \item 2 punti: il bonus di Difesa quando alzi lo scudo aumenta di 1 e ogni 4 volte che prendi la competenza. Usare lo scudo come arma non ti fa perdere il bonus alla Difesa dato dallo scudo.
 \item 3 punti: la penalità Competenza Magica data dallo scudo diminuisce di un dado ed ogni 4 volte che prendi la competenza.
 \item 4 punti: la penalità alla Competenza Armi diminuisce di 1 e di 1 ogni 4 volte che prendi la competenza.
@@ -4320,7 +4315,6 @@ La tua tecnica mescola efficacemente difesa e attacco. Il tuo scudo fornisce un 
 \item 8 punti: ogni alleato adiacente (entro 1 metro) a te ha un +1 Difesa. Se desideri puoi subire il danno di un attacco diretto ad un alleato entro 1 metro. Usare questa Abilità è una Reazione. Puoi lanciare il tuo scudo con una gittata di 9 metri.
 \item 12 punti: puoi lanciare il tuo scudo come fosse un arma con gittata 12 metri. Se ottieni un tiro critico lo scudo una volta che ha colpito torna nelle tue mani a fine round. Puoi subire il danno dei compagni (vedi 8 punti) entro 2 metri.
 \item 16 punti: se riesci a difenderti da almeno 2 attacchi da un medesimo avversario guadagni un attacco gratuito contro di lui. Costa 1 Reazione. Lo scudo si considera sempre alzato anche se non usi Azioni per alzarlo.
-
 \item 18 punti: lo scudo lanciato ha una gittata di 18 metri e torna nelle tue mani, se non impossibilitato, nelle tue mani. Questo ti permette di effettuare attacchi multipli anche da lancio. Puoi subire il danno dei compagni (vedi 8 punti) entro 8 metri, ma lo scudo rimane dove hai parato il colpo. 
 
 Non è possibile applicare questi bonus se si usa più di uno scudo.
@@ -14799,11 +14793,11 @@ Completa& 1500 & 10  & -4  & P & 3  &+2d6&8\\
 
 \subsubsection{Armature, Scudi e Magia}\index{Armature e Magia}\index{Scudi e Magia}\hypertarget{armatureemagie}{}\label{armatureemagie}
 
-Tutte le Armature, ad esclusione dell'armatura Imbottita forzano chi lancia incantesimi ad superare una Prova di Magia non considerando eventuali successi critici.
+Tutte le Armature, ad esclusione dell'armatura Imbottita forzano chi lancia incantesimi ad superare una Prova di Magia non considerando eventuali successi critici.\index{Armature e Prova di Magia}.  Le Armature e Scudi Leggere obbligano a fare la Prova di Magia con nessun dado aggiunto, quelli Medi con +1d6, quelli Pesanti con +2d6. 
 
-Le Armature e Scudi Leggere obbligano a fare la Prova di Magia con nessun dado aggiunto, quelli Medi con +1d6, quelli Pesanti con +2d6. In pratica più l'armatura o scudo sono pesanti più dadi si tirano più possibilità ci sono di fallire.
+In pratica più l'armatura o scudo sono pesanti più dadi si tirano più possibilità ci sono di fallire.
 
-Anche se è il giocatore a richiedere una Prova di Magia, si eseguirà una sola prova con la somma dei dadi dovuti ad armatura e/o scudi. Il portare l'armatura negherà qualsiasi successo magico critico ottenuto.
+Anche se è il giocatore a richiedere una Prova di Magia, si eseguirà una sola prova con la somma dei dadi dovuti ad armatura e/o scudi. \textbf{Il portare l'armatura o scudo negherà qualsiasi successo magico critico ottenuto ma non impedirà i fallimenti magici critici.}
 
 \medskip
 
@@ -14857,7 +14851,7 @@ Le armature medie offrono più protezione di quelle leggere, ma limitano i movim
 
 \textbf{Usare un'Armatura senza l'adeguata competenza} impedisce di usare il bonus di Destrezza e diminuisce il bonus alla Difesa fornito di 1.
 
-\textbf{Alzare uno Scudo senza l'adeguata competenza} peggiora il Tiro per Colpire di 1 e diminuisce di 1 il Bonus Difesa concesso.
+\textbf{Usare uno Scudo senza l'adeguata competenza} peggiora il Tiro per Colpire di 1 e diminuisce di 1 il Bonus Difesa concesso.
 
 \textbf{Dormire in Armatura}: se si dorme in un'armatura media o pesante, il giorno seguente si è automaticamente \hyperlink{affaticato}{Affaticati}.
 
@@ -14881,8 +14875,8 @@ Un Armatura perfetta costa il doppio di un armatura normale.
 
 Un armatura magica o scudo magico non solo protegge meglio ma è anche più leggera e affine alla magia.
 
-Una armatura +2 abbassa di 1 la penalità di Competenza e di 1 metro la quella al movimento.
-Una armatura o scudo +3 inoltre toglie 1 dado dalla Prova di Magia se aggiunto. Una armatura +4 ulteriormente toglie 1 alla penalità di  Competenza, 1m al Movimento e rimuove 1 dado dalla Prova di Magia.
+Una armatura +1 abbassa di 1 la penalità di Competenza e di 1 metro la quella al movimento.
+Una armatura o scudo +2 inoltre toglie 1 dado dalla Prova di Magia se aggiunto. Una armatura +3 ulteriormente toglie 1 alla penalità di Competenza, 1m al Movimento e rimuove 1 dado dalla Prova di Magia.
 
 \subsubsection{Gli Scudi}
 
@@ -14910,11 +14904,9 @@ Scudo pesante di metallo & 	20 mo  	&  3  & 1& +2d6  & P\\
 
 \begin{multicols}{2}
 	
-Mentre un armatura fornisce il suo bonus alla Difesa costantemente, uno scudo aiuta a difendersi solo quando questo è non solo imbracciato ma anche alzato, ovvero in quel round si è usata una Azione per alzarlo. 
-
 \textbf{Il bonus che concede alla Difesa si conta solo nel round da quando lo scudo è alzato}.\index{Scudo alzato}
 
-\textbf{Bonus Difesa}: è il bonus che si applica alla Difesa quando si è usata l'Azione di alzare lo scudo.
+\textbf{Bonus Difesa}: è il bonus che si applica alla Difesa quando lo scudo è indossato.
 
 \textbf{Penalità TC}: è la penalità al Tiro per Colpire che si ha quando lo scudo è indossato.
 
@@ -14922,13 +14914,13 @@ Mentre un armatura fornisce il suo bonus alla Difesa costantemente, uno scudo ai
 
 Uno \textbf{Scudo} Leggero ha \textbf{Ingombro} 1, uno Scudo Medio ha Ingombro 2, uno Scudo Pesante ha Ingombro 4.\index{Imgombro per Scudi}
 
-La penalità alla \textbf{Prova di Magia} si somme con quella eventualmente dovuta dall'armatura e si applica quando lo scudo è imbracciato o alzato.\index{Penalità Magia Scudo ed Armatura}
+La penalità alla \textbf{Prova di Magia} si somme con quella eventualmente dovuta dall'armatura e si applica quando lo scudo è indossato.\index{Penalità Magia Scudo ed Armatura}
 
-Uno scudo può essere usato come \textbf{arma improvvisata}. Il Tiro per Colpire è penalizzato di -1d6 e uno scudo piccolo fa 2 di danno (B/T), uno scudo medio fa 1d4 di danno (B/T), uno scudo pesante fa 1d6 di danno (B/T).
+Uno scudo può essere usato come \textbf{arma improvvisata}. Il Tiro per Colpire è penalizzato di -1d6 e uno scudo piccolo fa 1d4 di danno (B/T), uno scudo medio fa 1d6 di danno (B/T), uno scudo pesante fa 1d8 di danno (B/T).
 
 Usare lo scudo come arma improvvisata non fa applicare il suo bonus alla Difesa se non si una una Azione per reimpostarlo alla Difesa dopo aver attaccato.
 
-Imbracciare uno scudo occupa una mano/braccio.
+Imbracciare uno scudo occupa la mano ed braccio, ad eccezione del brocchiero che occupa solo il braccio.
 
 \subsubsection{Indossare e Togliere Armature}\index{Indossare e Togliere Armature}
 
@@ -15177,7 +15169,7 @@ Remo  & 2 mo& 2\\
 Rete da pesca (2,25 m)& 4 mo& 1 \\
 Sacche da sella & 4 mo& 2\\
 Sacco (vuoto) & 1 ma& L \\
-Sacco a pelo & 3 mo& 2 \\\index{Sacco a pelo}\index{Letto}
+Sacco a pelo & 3 mo& 2 \\ \index{Sacco a pelo}\index{Letto}
 Sapone (per 0,5 kg) & 5 ma& - \\
 Scala a pioli (3 m) & 2 ma& 3 \\
 Secchio (vuoto)& 5 ma& L\\
@@ -19515,7 +19507,7 @@ Quando la CdC totale viene superata allora muoversi ed effettuare prove di compe
 
 Se la CdC viene doppiata allora non ci si può più muovere per l'ingombro dei pesi portati.
 
-\textit{Ricordate che l'armatura e scudo indossati hanno un Ingombro dimezzato rispetto a quanto segnato.}
+\textit{Ricordate che l'armatura e scudo quando indossati hanno un Ingombro dimezzato rispetto a quanto segnato.}
 
 Es. Tups ha indosso una Armatura ad Anelli (ingombro 2 essendo indossata), una spada lunga (arma media, ingombro 2), una mazza chiodata (ing. 2), 18 oggetti leggeri (ing. 1), uno zaino (ing. 1), una tenda (ing. 2), una lanterna (ing 1). Totale Ingombro = 11.
 
@@ -20365,7 +20357,7 @@ Creare è vivere due volte. (Albert Camus)}\end{enfasi}\end{changemargin}\medski
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{P}{er} Creare Oggetti Magici è necessario avere le Abilità Creazione oggetti magici.
 
-I costi qui elencati sono quelli di produzione, il ricavo si può attestare attorno al 20\% del prezzo di produzione.
+I costi qui elencati sono quelli di produzione, il ricavo si può attestare attorno al 20\% del prezzo di produzione. La DC per creare un oggetto è 15+2*Livello dell'incantesimo contenuto, oppure +4 per ogni +1 dell'oggetto.\index{DC per creare oggetto magico}
 
 Conoscere l'incantesimo (o averlo a disposizione tramite Pergamena) che si applica all'oggetto è un requisito di ogni oggetto magico che si crea.
 
