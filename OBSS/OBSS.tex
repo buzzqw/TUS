@@ -25286,7 +25286,7 @@ La voce Competenze è riservata a quei mostri che sono capaci in una o più comp
 
 Si possono applicare anche altri modificatori, ad esempio, un mostro potrebbe avere un bonus maggiore del previsto per tenere conto della sua grande perizia.
 
-Se non indicata la Competenza Armi di un Mostro è pari al suo Grado di Sfida.
+Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si usa il valore già segnato) la Competenza Armi di un Mostro è pari al suo Grado di Sfida.
 
 \subsection{Vulnerabilità, Resistenze e Immunità}\index{Equivalenze armi}\index{Pugni magici}\label{vulnerabilitaresistenze}
 Alcune creature possiedono vulnerabilità, resistenze o immunità ad un certo tipo di danno. Creature particolari sono addirittura resistenti o immuni agli attacchi non magici (un attacco magico è un attacco sferrato tramite un incantesimo, un oggetto magico o arma, o un'altra fonte di magia).
@@ -25418,8 +25418,7 @@ I tratti speciali (che compaiono dopo il grado di sfida di un mostro ma prima di
 
 Un mostro con il privilegio Incantesimi è in grado di lanciare Incantesimi.
 
-La \textbf{DC è 10 + livello incantesimo x2 + Intelligenza o Saggezza a seconda della caratteristica migliore oppure indicata}. Un mostro non necessita di eseguire Prove di Magia tranne se ha un valore di Competenza Magica (es. Lich, Mummia, Naga...).
-
+La \textbf{DC è 10 + livello incantesimo x2 + Intelligenza o Saggezza a seconda della caratteristica migliore oppure indicata}. Un mostro non necessita di eseguire Prove di Magia tranne se ha un valore di Competenza Magica (es. Lich, Mummia, Naga...). Se è necessario calcolare la Competenza Armi per l'uso di incantesimi e questa non è specificata, allora è pari alla metà del punteggio di Competenza Magica.
 
 \subsection{Incantesimi Innati}
 
@@ -25515,13 +25514,11 @@ Una creatura con azioni aggiuntive può effettuare un certo numero di azioni spe
 
 Se una creatura assume la forma di una creatura con azioni aggiuntive, magari tramite un incantesimo, non ne ottiene però le azioni aggiuntive o le azioni da tana.
 
-\subsubsection{La Tana di una Creatura}
+\subsubsection{La Tana di una Creatura}\index{Tana di una Creatura}\index{Azioni da tana}
 
-Una creatura con azioni aggiuntive può presentare una sezione che ne descrive la tana e gli effetti speciali che vi può creare mentre si trova lì, o per propria volontà o semplicemente grazie alla sua presenza. Questa sezione si applica solo alle creature leggendarie che trascorrono molto tempo nelle loro tane ed è altamente probabile che li vi vengano incontrate.
+Una creatura con Azioni aggiuntive può presentare una sezione che ne descrive la tana e gli effetti speciali che vi può creare mentre si trova lì, o per propria volontà o semplicemente grazie alla sua presenza. Questa sezione si applica solo alle creature leggendarie che trascorrono molto tempo nelle loro tane dove è altamente probabile che li vengano incontrate.
 
-\subsubsection{Azioni da Tana}
-
-Se una creatura con azioni aggiuntive ha un'azione da tana, può usarla per imbrigliare la magia ambientale della sua tana. Al conteggio di iniziativa 10, perdendo i pareggi, la creatura può usare una delle sue opzioni di azioni da tana. Non può farlo mentre è inabile o altrimenti incapace di effettuare azioni. Se sorpresa, non può farne uso fino a dopo il suo primo round di combattimento.
+Se una creatura con azioni aggiuntive ha un'\textbf{Azione da tana}, può usarla per imbrigliare la magia ambientale della sua tana. Al conteggio di iniziativa 10, perdendo i pareggi, la creatura può usare una delle sue opzioni di azioni da tana. Non può farlo mentre è inabile o altrimenti incapace di effettuare azioni. Se sorpresa, non può farne uso fino a dopo il suo primo round di combattimento.
 
 \subsection{Tipologie di Tesoro}
 
@@ -26276,7 +26273,7 @@ I basilischi hanno la capacità di consumare le creature pietrificate; l'acido p
 
 Un basilisco adulto è lungo quasi 3 metri, di cui la metà occupata dalla lunga coda, e pesa 135 chili. Alcune razze presentano delle piccole corna ricurve sul naso o piccole creste di pungiglioni ossuti sopra la testa simili a una corona. Sebbene siano creature in genere solitarie che si riuniscono solo per accoppiarsi e deporre le uova, in zone particolarmente pericolose possono riunirsi in piccoli gruppi per proteggersi e attaccare gli intrusi in massa.
 
-Per motivi ignoti, le donnole e i furetti sono immuni allo sguardo del basilisco, e a volte si intrufolano nelle tane mentre l'adulto è a caccia per cibarsi dei suoi piccoli. Alcune leggende narrano che il sangue di un basilisco può tramutare comuni pietre in un altro materiale, ma probabilmente si tratta di testimoni che hanno mal interpretato la ristorazione magica di creature o di parti del corpo pietrificate in precedenza.
+Per motivi ignoti, le donnole, furetti e topine sono immuni allo sguardo del basilisco, e a volte si intrufolano nelle tane mentre l'adulto è a caccia per cibarsi dei suoi piccoli. Alcune leggende narrano che il sangue di un basilisco può tramutare comuni pietre in un altro materiale, ma probabilmente si tratta di testimoni che hanno mal interpretato la ristorazione magica di creature o di parti del corpo pietrificate in precedenza.
 
 \medskip\index[Mostruario]{Behir}\textbf{Behir}
 
@@ -26602,7 +26599,7 @@ Il bulette è un combattente astuto, e sorprende i nemici con agilità impressio
 
 \textbf{CARISMA} +3
 
-	\textbf{Iniziativa} +3 -- \textbf{Difesa} 28
+\textbf{Iniziativa} +3 -- \textbf{Difesa} 28
 
 \textbf{Punti Ferita} 171 (18d8+90)
 
@@ -26624,7 +26621,7 @@ Il bulette è un combattente astuto, e sorprende i nemici con agilità impressio
 
 \textbf{Sfida} 18 (20000 PX)
 
-\textit{\textbf{Incantesimi.}} Il Cavaliere Nero ha CM 7. La sua caratteristica da incantatore è il Carisma, +3 a colpire con attacchi da incantesimo. Il Cavaliere Nero conosce i seguenti incantesimi:
+\textit{\textbf{Incantesimi.}} Il Cavaliere Nero ha CM 7. La sua caratteristica da incantatore è il Carisma. Il Cavaliere Nero conosce i seguenti incantesimi:
 
 livello 1 (4 slot): \textit{Comando, Dardo arcano, Onda rovente, scudo}
 
@@ -27187,7 +27184,7 @@ Un Balor è alto 4,2 metri e pesa 2.250 kg. Solo le anime mortali più crudeli p
 
 \textbf{Sfida} 26 (90000 PX)
 
-\textit{\textbf{Incantesimi.}} Il Demogorgone ha CM 20. La sua caratteristica da incantatore è il Carisma, +7 a colpire con attacchi da incantesimo. Il Demogorgon conosce i seguenti incantesimi:
+\textit{\textbf{Incantesimi.}} Il Demogorgone ha CM 20. La sua caratteristica da incantatore è il Carisma. Il Demogorgon conosce i seguenti incantesimi:
 
 A volontà: Individuazione del magico, Immagine maggiore
 
@@ -27622,7 +27619,7 @@ I nalfeshnee sono alti 6 metri e pesano 4000 kg. Sono creati dalle anime di malv
 
 \textbf{Sfida} 26 (90000 PX)
 
-\textit{\textbf{Incantesimi.}} Orcus ha CM 17. La sua caratteristica da incantatore è il Carisma, +7 a colpire con attacchi da incantesimo. Orcus conosce i seguenti incantesimi:
+\textit{\textbf{Incantesimi.}} Orcus ha CM 17. La sua caratteristica da incantatore è il Carisma. Orcus conosce i seguenti incantesimi:
 
 A volontà: Individuazione del magico, Tocco gelido
 
@@ -32150,7 +32147,7 @@ Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrar
 
 \textbf{Immortale su Yeru.} Quando il corpo di Tàhil viene ucciso sul Yeru questo si riforma in 3d6 giorni nella tana fatta da Calicante.
 
-\textit{\textbf{Incantesimi.}} Tàhil ha CM 20. La sua caratteristica da incantatore è il Carisma, +9 a colpire con attacchi da incantesimo. Tàhil conosce i seguenti incantesimi:
+\textit{\textbf{Incantesimi.}} Tàhil ha CM 20. La sua caratteristica da incantatore è il Carisma. Tàhil conosce i seguenti incantesimi:
 
 A volontà: Parola Divina
 
@@ -33856,7 +33853,7 @@ Probabilmente frutto di una qualche incantesimo di trasformazione andato a male 
 
 \textit{\textbf{Decesso Elementale.}} Se il djinni muore, il suo corpo si disintegra in una brezza calda, lasciando dietro di sé solo l'equipaggiamento che il djinni stava indossando o trasportando.
 
-\textit{\textbf{Incantesimi Innati.}} La caratteristica da incantatore innato del djinni è il Carisma 17, +9 a colpire con attacchi da incantesimo). Può lanciare in maniera innata i seguenti incantesimi, senza bisogno di componenti materiali:
+\textit{\textbf{Incantesimi Innati.}} La caratteristica da incantatore innato del djinni è il Carisma 17. Può lanciare in maniera innata i seguenti incantesimi, senza bisogno di componenti materiali:
 
 A volontà: \textit{individuazione del bene e del male, individuazione del magico, onda tonante}
 
@@ -33923,7 +33920,7 @@ Verso gli altri Geni, i Djinn vanno d'accordo con gli Janni e i Marid. Sono freq
 
 \textit{\textbf{Decesso Elementale.}} Se l'efreeti muore, il suo corpo si disintegra in un lampo di fuoco e uno sbuffo di fumo, lasciando dietro di sé solo l'equipaggiamento che l'efreeti stava indossando o trasportando.
 
-\textit{\textbf{Incantesimi Innati.}} La caratteristica da incantatore innato dell'efreeti è il Carisma, +7 a colpire con attacchi da incantesimo). Può lanciare in maniera innata i seguenti incantesimi, senza bisogno di componenti materiali:
+\textit{\textbf{Incantesimi Innati.}} La caratteristica da incantatore innato dell'efreeti è il Carisma. Può lanciare in maniera innata i seguenti incantesimi, senza bisogno di componenti materiali:
 
 A volontà: \textit{individuazione del magico}
 
@@ -35796,7 +35793,7 @@ Le lamie presentate qui sono solo gli esponenti più comuni e meno potenti di qu
 
 \textbf{Sfida} 21 (33000 PX)
 
-\textit{\textbf{Incantesimi.}} Il lich ha CM 18. La sua caratteristica da incantatore è l'Intelligenza, +5 a colpire con attacchi da incantesimo). Il lich conosce i seguenti incantesimi:
+\textit{\textbf{Incantesimi.}} Il lich ha CM 18. La sua caratteristica da incantatore è l'Intelligenza. Il lich conosce i seguenti incantesimi:
 
 Trucchetti (a volontà): \textit{mano magica, prestidigitazione, raggio} \textit{di gelo}
 
@@ -36887,7 +36884,7 @@ Le megere marine formano congreghe simili a quelle delle altre megere, ma la lor
 
 \textbf{Sfida} 5 (1800 PX)
 
-\textit{\textbf{Incantesimi Innati.}} La caratteristica da incantatore innato della megera è il Carisma (DC 14 per i Tiri Salvezza degli incantesimi, +6 a colpire con attacchi da incantesimo). La megera può lanciare in maniera innata i seguenti incantesimi, senza aver bisogno di
+\textit{\textbf{Incantesimi Innati.}} La caratteristica da incantatore innato della megera è il Carisma (DC 14 per i Tiri Salvezza degli incantesimi. La megera può lanciare in maniera innata i seguenti incantesimi, senza aver bisogno di
 componenti materiali.
 
 A volontà: \textit{Dardo arcano, individuazione del magico} 2/giorno ciascuno: \textit{raggio di indebolimento, sonno, spostamento} \textit{planare} (personale)
@@ -37460,7 +37457,7 @@ Finché il suo cuore avvizzito rimane intatto, la mummia sovrana non può essere
 
 Il cuore della mummia sovrana ha Difesa 5, 25 Punti Ferita e immunità a tutti i danni eccetto il fuoco.
 
-\textit{\textbf{Incantesimi.}} La mummia ha CM 10. La sua caratteristica da incantatore è la Saggezza, +9 a colpire con attacchi da incantesimo. La mummia ha preparati i seguenti incantesimi: Trucchetti (a volontà): \textit{fiamma sacra, taumaturgia}
+\textit{\textbf{Incantesimi.}} La mummia ha CM 10. La sua caratteristica da incantatore è la Saggezza. La mummia ha preparati i seguenti incantesimi: Trucchetti (a volontà): \textit{fiamma sacra, taumaturgia}
 
 livello 1 (4 slot): \textit{comando, dardo tracciante, scudo della fede}
 
@@ -38395,7 +38392,7 @@ La cosa che la maggior parte delle razze trova terrificante degli otyugh non è 
 
 \textit{Colpisce:} 6 (1d6 + 3) danni da taglio perforanti.
 
-\textit{\textbf{Colui che tutto vede}}. Il Panoptikhan può attivare uno dei suoi tentacoli occhiuti (2 Azioni).
+\textit{\textbf{Colui che tutto vede}}. Il Panoptikhan può attivare uno dei suoi tentacoli occhiuti (2 Azioni). Il Panoptikhan ha CM 14.
 
 \textit{Quello che gela}: l'occhio punta un bersaglio entro 18 metri, su questo viene attivato un raggio di gelo. 8d8 di danno da freddo, Tiro Salvezza Riflessi DC 23 per evitare completamente il colpo.
 
@@ -39400,7 +39397,7 @@ Le androsfingi sono alte 3,6 metri e pesano 500 kg.
 
 \textit{\textbf{Imperscrutabile.}} La sfinge è immune a qualsiasi effetto in grado di percepirne le emozioni o leggerne i pensieri, oltre che a qualsiasi incantesimo di divinazione che rifiuti. Le prove di Saggezza (Percepire Inganni) per discernere le intenzioni o la sincerità della sfinge hanno -1d6.
 
-\textit{\textbf{Incantesimi.}} La sfinge ha CM 9. La sua abilità da incantatore è l'Intelligenza (DC del Tiro Salvezza degli incantesimi 17, +9 a colpire con attacchi da incantesimo). Non ha bisogno di componenti materiali per eseguire i suoi incantesimi. La sfinge tiene preparati i seguenti incantesimi: Trucchetti (a volontà): \textit{illusione minore, mano magica,} \textit{prestidigitazione}
+\textit{\textbf{Incantesimi.}} La sfinge ha CM 9. La sua abilità da incantatore è l'Intelligenza (DC del Tiro Salvezza degli incantesimi 17. Non ha bisogno di componenti materiali per eseguire i suoi incantesimi. La sfinge tiene preparati i seguenti incantesimi: Trucchetti (a volontà): \textit{illusione minore, mano magica,} \textit{prestidigitazione}
 
 livello 1 (4 slot): \textit{identificare, individuazione del magico, scudo}
 
