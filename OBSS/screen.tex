@@ -5,6 +5,7 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{multicol}
+\usepackage{tabularx}
 \usepackage{graphicx}
 \usepackage{xltabular}
 \usepackage[a4paper]{geometry}
@@ -84,7 +85,7 @@ Qualsiasi creatura confusa che venga attaccata, attacca automaticamente a sua vo
 
 \textbf{Paura, Spaventato}:\index{Paura}\index{Spaventato} Una creatura spaventata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Competenza finché la sorgente della sua paura è visibile. Una creatura spaventata non può avvicinarsi volontariamente alla sorgente della sua paura.
 
-\textbf{Prono}\index{Prono}: chi è prono ha un -1d6 ad attaccare ed un -4 alla Difesa. Alzarsi da prono costa 2 Azioni. Non si può diventare proni se si vola.
+\textbf{Prono}\index{Prono}: chi è prono ha un -4 ad attaccare ed un -4 alla Difesa. Alzarsi da prono costa 2 Azioni. Non si può diventare proni se si vola.
 
 \textbf{Rallentato}\index{Rallentato}: viene sempre indicato con due valori, il primo indica quante Azioni in meno si fanno a round, il secondo la durata dell'effetto, se segnato con un - allora non ha una fine indicata. Es. Rallentato 1/3r, Rallentato 2/-.
 
@@ -95,26 +96,31 @@ Una creatura sorpresa / impreparata ha una penalità di -4 a Difesa ed ai Tiri S
 
 \end{multicols}
 
+\begin{tabularx}{0.98\textwidth}{l|X|X}
+	\multicolumn{2}{c}{\textbf{Attaccante}}&\multicolumn{1}{c}{\textbf{Difensore}}\\
+	\textbf{Mod}.&\multicolumn{1}{c}{\textit{Situazione}}&\multicolumn{1}{c}{\textit{Situazione}}\\
+	
+	\textbf{-1}		& Luce fioca		&		\\
+	\hline
+	\textbf{-2}		& Abbagliato, Intralciato 	& Afferrato,	Lanci un incantesimo mentre sei sotto attacco  	\\
+	\hline
+	\textbf{-4}		& Prono	,  Arma Lunga a corta distanza	&  Sorpreso, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
+	\hline
+	\textbf{-1d6}	& Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Avversario invisibile ma Individuato, Afferrato ad una parete					&	\\
+	\hline
+	\textbf{+1}		& 						&  		\\	
+	\hline
+	\textbf{+2}		& Fiancheggia, pos. Sopraelevata, Attacca al spalle, Arma Lunga									& Copertura leggera\\
+	\hline
+	\textbf{+4}		&						& Copertura media\\
+	\hline
+	\textbf{+1d6}	& Invisibile, Carica	& \\
+	\hline
+	\textbf{+8}		&						& Copertura completa\\
+	
+\end{tabularx}
+
 \end{textblock*}
-
-
-\begin{textblock*}{14 cm}(1cm,24.2cm)
-\textbf{Leggere una Pergamena}
-
-\textbf{in caso di pergamene ISY SCROLL}: costo produzione livello*livello*160mo
-
-- Comprendere: Intelligenza od Arcana DC 10
-
-- Lanciare: Intelligenza od Arcana DC 12.
-
-\textbf{in caso di pergamene normali}: costo produzione livello*livello*80mo
-
-- Comprenderne: Arcana a difficoltà 15
-
-- Lanciare: Arcana DC 20 ed avere accesso alla Lista di Magia
-\end{textblock*}
-
-
 
 ~\newpage
 
@@ -196,6 +202,9 @@ Porta di ferro     & 28&	Catena                 & 26 \\
 \end{tabular}
 
 
+
+
+
 \riga
 
 \textbf{Azioni per Round} 
@@ -234,20 +243,40 @@ Riconoscere un Incantesimo			& R\\
 \riga
 
 \textbf{Alzarsi da prono}\\
-2 Azioni. -4 Difesa, -4 Iniziativa. Acrobatica DC 13 1 Azione alzarsi. Tre 1 perdi il round. Acrobatica (6p) 1 Azione, Acrobatica (8p) Azione Immediata.
+2 Azioni. -4 Difesa, Acrobatica DC 13 1 Azione alzarsi. Tre 1 perdi il round. Acrobatica (6p) 1 Azione, Acrobatica (8p) Azione Immediata.
+
+\riga
+
+\textbf{Attacchi con armi a spargimento}\\
+1 2 3\\
+4 \textbf{X} 5\\
+6 7 8\\
+0\\
+X bersaglio, 0 origine. gittata 6 metri. 1d8 per direzione, 2d6 per metri.
+
+\riga
+
+\textbf{Azione di Scatto}\\
+x2 Movimento. -1d6 nel Tiro per Colpire, -4 Difesa, Distratto
+
+
+
+\end{textblock*}
+
+\begin{textblock*}{6.2cm}(13.8cm,1cm) % larghezza box, coord X, coord Y
 
 \riga
 
 \textbf{Taglia e Portata standard}\\
 \begin{tabular}{lll}
-\textbf{Taglia}& \textbf{Spazio} &\textbf{Portata}\\
-Minuscola & 25 x 25 cm&0m\\
-Piccola & 0,5 x 0,5 m &0m\\
-Media & 1 x 1 m & 0m\\
-Grande & 2 x 2 m& 1m\\
-Enorme & 3 x 3 m &2m\\
-Mastodontico & 4 x 4 m&2m\\
-Colossale & 12 x 12 m&6m\\
+	\textbf{Taglia}& \textbf{Spazio} &\textbf{Portata}\\
+	Minuscola & 25 x 25 cm&0m\\
+	Piccola & 0,5 x 0,5 m &0m\\
+	Media & 1 x 1 m & 0m\\
+	Grande & 2 x 2 m& 1m\\
+	Enorme & 3 x 3 m &2m\\
+	Mastodontico & 4 x 4 m&2m\\
+	Colossale & 12 x 12 m&6m\\
 \end{tabular}
 
 \riga
@@ -258,26 +287,8 @@ Una creatura Accecata \index{Accecata}subisce penalità -1d6 alle prove di Consa
 
 Usando Scurovisione/Crepuscolare: Prova di Sopravvivenza per cercare trappole o di Consapevolezza solo visiva prende un -2 di penalità.
 
-Combattere con Scarsa luminosita': -2 Tiro per Colpire
+Combattere con Scarsa luminosita': -1 Tiro per Colpire
 
-
-\end{textblock*}
-
-\begin{textblock*}{6.2cm}(13.8cm,1cm) % larghezza box, coord X, coord Y
-\textbf{Mod. al combattimento}\\
-\textbf{Attacco}:
-\textbf{+2}: fiancheggiare
-
-\textbf{+1d6}: sei invisibile, carica
-
-\textbf{-2}: abbagliato, intralciato, luce fioca
-
-\textbf{-1d6}: prono, ristretto, spaventato, scosso, armi da lancio/lunga in mischia, arma non conosciuta, creatura inv. ma individuata, arrampicando
-
-\textbf{Difesa}: +2/4/8: copertura leggera(30\%)/ media(50\%)/ completa(80\%)
-
-\textbf{-2}: afferrato \textbf{-4}: intrappolato, in ginocchio, seduto, prono, ristretto, stordito, lanci un incantesimo, arrampicando
-\riga
 
 \textbf{Riposare 8 ore} \\fa recuperare COS+2xCA+CM PF, minimo 1.
 
@@ -309,19 +320,6 @@ Se tiro dado e' massimo valore (min 8) ritiri il dado e sommi ancora il valore (
 usi una azione, +1 Difesa fino a inizio round dopo.
 
 
-\riga
-
-\textbf{Attacchi con armi a spargimento}\\
-		1 2 3\\
-		4 \textbf{X} 5\\
-		6 7 8\\
-		0\\
-		X bersaglio, 0 origine. gittata 6 metri. 1d8 per direzione, 2d6 per metri.
-
-\riga
-
-\textbf{Azione di Scatto}\\
-x2 Movimento. -1d6 nel Tiro per Colpire, -4 Difesa, Distratto
 
 \riga
 
@@ -842,18 +840,12 @@ DC è 10 + 2 x livello incantesimo + Intelligenza
 
 \textbf{Massimo Livello Incantesimo lanciabile}
 
-\begin{itemize}
-	\item
-	\textbf{Adepto della Magia} (Regola 1) \\
-	- presa 1 volta puoi lanciare solo incantesimi entro il livello 4 compreso\\
-	- presa 2 volte puoi lanciare solo incantesimi entro il livello 6 compreso\\
-	- presa 3 volte puoi lanciare ogni livello di incantesimo
+- Se Adepto della Magia è stato preso 1 volta il massimo livello di incantesimo lanciabile è (CM+1)/2. Es. CM=6, (6+1)/2=3 livello di incantesimi.
 
-	\item
-	\textbf{Competenza Magica} (Regola 2)\\
-	- puoi lanciare incantesimi entro la metà +1 del valore di Competenza Magica, es CM 7 = (7/2)+1 = 3+1 = 4lv incantesimi
+- Se Adepto della Magia è stato preso 2 volte il massimo livello di incantesimo lanciabile è (CM+3)/2. Es. CM=8, (8+3)/2=5 livello di incantesimi.
 
-\end{itemize}
+- Se Adepto della Magia è stato preso 3 volte il massimo livello di incantesimo lanciabile è (CM+5)/2. Es. CM=11, (11+5)/2=8 livello di incantesimi.
+
 
 \riga
 
@@ -871,7 +863,25 @@ DC è 10 + 2 x livello incantesimo + Intelligenza
 
 \textbf{Circolo del Potere}: tutti Devoti o Seguaci dello stesso Patrono
 Per mago costo la metà dei Punti Magia dell'incantesimo lanciato dal compagno +1d6 alla Prova di Magia del compagno, max +7d6. Tempo lancio almeno 1 turno
+
 \end{textblock*}
+
+\begin{textblock*}{19 cm}(1cm,26.6cm)
+	\textbf{Leggere una Pergamena}
+	
+	\textbf{in caso di pergamene ISY SCROLL}: costo produzione livello*livello*160mo
+	
+	- Comprendere: Intelligenza od Arcana DC 10
+	
+	- Lanciare: Intelligenza od Arcana DC 12.
+	
+	\textbf{in caso di pergamene normali}: costo produzione livello*livello*80mo
+	
+	- Comprenderne: Arcana a difficoltà 15
+	
+	- Lanciare: Arcana DC 20 ed avere accesso alla Lista di Magia
+\end{textblock*}
+
 
 ~\newpage
 
