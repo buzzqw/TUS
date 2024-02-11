@@ -3017,6 +3017,10 @@ If AP used is equal, the person with the highest Dexterity or Intelligence acts 
 
 - In case of Movement 6 m, with 1 AP you move up to 2m or 4m in Dash.
 
+- The Speed ​​spell grants 4 more Action Points. These APs are not counted for the verification of the initiative of those who act first.
+
+- The Slow spell subtracts 4 Action Points. These PAs are added to verify the initiative of who acts first. E.g. I use 4 Action Points, out of a maximum of 6 (10-4 for Slowness), to verify the initiative I used 4+4 points.
+
 - Spells cost 3 AP per Component used (V,S,M), except when the casting time is longer than 1 round.
 
 
@@ -3438,7 +3442,7 @@ If the opponent also has a long weapon, do not consider the bonus (they are both
 
 \subsubsection{Using a long weapon on short distance} \index{Using a long weapon on short distance}\label{armalungabrevedistanza}
 
-it is possible to use a long weapon in melee with an opponent with a short weapon or with a reach of less than 2 meters with a -1d6 on the attack roll, with the exception of the quaterstaff.
+it is possible to use a long weapon in melee with an opponent with a short weapon or with a reach of less than 2 meters with a -4 on the attack roll, with the exception of the quaterstaff.
 
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Long Weapon Combat]
@@ -3547,46 +3551,60 @@ When both characters and enemies are caught by surprise, to determine who is act
 
 the spellcaster who casts a spell while in combat (has an opponent in melee or is targeted from a distance) is considered Distracted.
 
-\subsection{Attack or Defence modifiers for special situations} \index{Attack or Defence modifiers for special situations}\label{modificatoriattaccodifesaparticolari}
+\subsection{Modifiers in attack or defense} \index{Modifiers in attack and defense}\label{particular attack-defense modifiers}
 
-The best suggestion that can be given in managing the most chaotic combat situations is to think of them as a film, evaluate the kinematics of the situation.
+The best tip that can be given in managing the most chaotic combat situations is to think of them like a film, evaluate the cinematic nature of the situation.
 
-It's not a matter of thumbnails, spaces, squares… it's a matter of having fun and visualizing the scene. Unorthodox solutions for unorthodox situations.
+It's not a question of miniatures, spaces, squares... it's a question of fun and visualization of the scene. Unorthodox solutions for unorthodox situations.
 
-Grant a bonus or penalty (+-1/2 unless otherwise stated) whenever the player has an advantage or disadvantage and likewise to the opponent. \\
+Give a bonus or penalty ($\pm 1-2$ unless otherwise indicated) whenever the player has an advantage or disadvantage and likewise to the opponent.\\
 
+\end{multicols}
 
-\textbf{Examples in Attack situation (bonus or penalty on attack rolls). If several bonuses or penalties apply, the one with the highest score must be chosen.}
+\begin{tabularx}{0.98\textwidth}{l|X|X}
+\multicolumn{2}{c}{\textbf{Attacker}}&\multicolumn{1}{c}{\textbf{Defender}}\\
+\textbf{Mod}.&\multicolumn{1}{c}{\textit{Situation}}&\multicolumn{1}{c}{\textit{Situation}}\\
+\toprule
+\textbf{-1} & Dim light & \\
+\hline
+\textbf{-2} & Dazzled, Entangled & Grabbed, You cast a spell while under attack \\
+\hline
+\textbf{-4} & Prone, Long Weapon at close range & Surprised, Prone, Kneeling, Sitting, Restricted, Stunned, Grasped by a wall, Pinned\\
+\hline
+\textbf{-1d6} & Restricted, Frightened, Thrown weapon against opponent in melee, Weapon unknown, Target invisible but detected, Grasped to a wall & \\
+\hline
+%\textbf{+1} & & \\
+%\hline
+\textbf{+2} & Flank, pos. Overhead, Shoulder Attack, Long Weapon & Light Cover\\
+\hline
+\textbf{+4} & & Average coverage\\
+\hline
+\textbf{+1d6} & Invisible, Charge & \\
+\hline
+\textbf{+8} & & Full coverage\\
 
-\begin{itemize}
-\item Situations with +2 bonus: flanking opponent, elevated position, back attack, long weapon ...
-
-\item Situations with 1d6 bonus: you are invisible, charge...
-
-\item Situations with -2 disadvantage, you're dazzled, you're entagled, dim light...
-
-\item Situations with a 1d6 disadvantage: you are prone, you are restricted in movement, you are frightened, use a thrown weapon against an opponent in melee, attack with melee long weapon, use an unknown weapon, attack an invisible creature but identified, you are attached to a wall ...\index{Attach while grabbed to wall}
-\end{itemize}
-
-\textbf{Examples in Defence situation:}
-
-\begin{itemize}
-\item +2/+4 bonus situations (Defence bonus): You have cover (see below)...
-
-\item Situations with -2 disadvantage (penalty to Defence): you are grabbed...
-
-\item Situations with -4 disadvantage: you are surprised, you are blinded, trapped, you are kneeling/sitting/prone, you are confined in a space, you are stunned, you cast a spell while under attack, you are climbing...\index{Defense while grabbed to wall}
-\end{itemize}
-
-\textbf{When written -1d6 it means that one die is rolled less (or two if it is -2d6), likewise if it is written +1d6 one die is rolled to 6 more and it is added}.
-
-\textbf{When the penalty is on Defence treat each -1d6 as a -4 on Defence}.
-
-\textbf{In principle in combat a light bonus is +1, medium +2, high +1d6 (or +4), a very high bonus is +2d6 (or +8), vice versa for penalty} .
+\end{tabularx}
 
 \medskip
 
-Always remember the aim is to have fun, to the detriment (for the Arbiter) of some monsters, don't be rigid but dynamic and adapt to situations.
+\begin{multicols}{2}
+
+When you write -1d6 it means that you roll one die less (or two if it is -2d6), equally if it says +1d6 you roll one die at 6 more and add it.
+
+When the penalty is to Defense, treat each -1d6 as a -4 to Defense.
+
+\textbf{In principle in combat a light bonus is +1, medium +2, high +1d6 (or +4), a very high bonus is +2d6 (or +8), vice versa for penalties}.
+
+\medskip
+
+The bonuses are not added to each other but the one with the highest value is used. If an opponent is above the character, behind him and charging, he has a bonus to hit of +1d6, given by the charge.
+
+The penalties are added to each other. If the character is surprised and prone he has -8 to Defense.
+
+
+\medskip
+
+Always remember the aim is to have fun, at the expense (for the Narrator) of some monsters, do not be rigid but dynamic and adapt to situations.
 
 
 \begin{center}
@@ -3619,16 +3637,18 @@ A roll is made to hit against the opponent's Defence with a 1d6 bonus. If the at
 
 Multiple characters can help the same ally; bonuses of this type are cumulative (maximum 4 on medium size), provided the opponent is surrounded.
 
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/colpodigrazia.png}
+	\textit{Beheading of St. John the Baptist. St. John's Co-Cathedral in Valletta (Malta). (Caravaggio)}
+\end{center}
+
 \subsubsection{Coup de Grace} \index{Coup de Grace}\label{colpodigrazia}
 
 costs 3 Actions, you can use a melee weapon to deal a coup de grâce to a helpless (unconscious or trapped) target. You can also use a bow or crossbow, as long as you are adjacent to the target.
 
 The attacker strikes automatically and inflicts three critical roll.
 
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/colpodigrazia.png}
-\textit{Beheading of St. John the Baptist. St. John's Co-Cathedral in Valletta (Malta). (Caravaggio)}
-\end{center}
 
 \subsubsection{Aimed Shots}\index{Aimed Shots}\label{tirimirati}\index{Aim at specific parts}
 
@@ -3714,6 +3734,8 @@ the player, using 2 Actions, makes only one attack (and must not have made any i
 \subsubsection{Taking Aim (sniper)} \index{Taking Aim (sniper)}\label{cecchino}
 
 you spend 2 Actions per round aiming. You gain a bonus to hit of +1 on the first round, +3 on the second round, and finally +5 on the third and final round. The shot must be fired by the end third round. You cannot use Move Actions while Taking Aim.
+
+
 
 \subsubsection{Using a thrown weapon while aiming at an opponent in combat} \index{Using a thrown weapon while aiming at an opponent in combat}\label{usarearmalancioinmischia}
 
@@ -16285,7 +16307,7 @@ Duration is expressed as real time game duration
 \medskip
 
 \textbf{Dim Light}\index{Dim Light} is light beyond a light source. It is passing through a 3-metre corridor if it is lit only by dim candles. It's a full moon night.
-Generally speaking, a light source creates dim light in a beam twice the normal light beam. A creature has -2 on Awarness check and To Hit Rolls.
+Generally speaking, a light source creates dim light in a beam twice the normal light beam. A creature has -2 on Awarness check and -1 To Hit Rolls.
 
 
 \medskip
@@ -50772,7 +50794,7 @@ The creature has resistance to all damage. The creature is immune to poisons and
 
 \textbf{Poisoned}\index{Poisoned}: any subject under the influence of a poison or potion is considered poisoned, regardless of whether this is already producing its effects or has yet to produce them given the time of onset. The Poisoned condition if isn't detailed cause -1 Strenght and Dexterity.
 
-\textbf{Prone}\index{Prone}: whoever is prone has a -1d6 to attack and a -4 to Defense. Getting up from prone costs 2 Actions. You cannot become prone if you fly.
+\textbf{Prone}\index{Prone}: whoever is prone has a -4 to attack and a -4 to Defense. Getting up from prone costs 2 Actions. You cannot become prone if you fly.
 A prone creature's only movement option is to crawl (difficult terrain), unless it stands up and ends its condition.
 
 The creature can perform an Acrobatics check, costing 1 Action, if it rolls 13 or more it stands up.
