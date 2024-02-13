@@ -440,8 +440,11 @@ aggiornato incantesimo bacche benefiche, aggiornato incantesimo bagliore solare,
 
 aggiornata versione POD 2024/02/12
 
-0.82a dettagli su poliglotta, dettagli su potere del patrono, aggiornato pugno potente, aggiornato sangue puro, requisiti di animalia, incantatore da combattimento,  
+0.82a dettagli su poliglotta, dettagli su potere del patrono, aggiornato pugno potente, aggiornato sangue puro, requisiti di animalia, incantatore da combattimento
 
+aggiornata versione POD 2024/02/13
+
+0.82b
 
 
 - aggiunti \label{} fino a piani
