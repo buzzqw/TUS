@@ -438,9 +438,9 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 aggiornato incantesimo bacche benefiche, aggiornato incantesimo bagliore solare, aggiuntà abilità Parare
 
-aggiornata versione POD  2024/02/12
+aggiornata versione POD 2024/02/12
 
-0.82a dettagli su poliglotta, dettagli su potere del patrono, aggiornato pugno potente, aggiornato sangue puro, 
+0.82a dettagli su poliglotta, dettagli su potere del patrono, aggiornato pugno potente, aggiornato sangue puro, requisiti di animalia, incantatore da combattimento,  
 
 
 
