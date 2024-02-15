@@ -446,7 +446,7 @@ aggiornata versione POD 2024/02/13
 
 0.82b corretta immagine spade in lista d'armi Spade, corretto carattere in pagina Opzionale Elenco manovre d'arme, chiarimenti su tempo di lancio piu' lunghi di un round, modificata diffusione rarita' incantesimi
 
-0.82c 
+0.82c aggiornato screen, 
 
 
 - aggiunti \label{} fino a piani
