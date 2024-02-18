@@ -450,6 +450,8 @@ aggiornata versione POD 2024/02/13
 
 aggiornata versione POD 2024/02/17
 
+0.82d precisazioni su fine round, 
+
 
 - aggiunti \label{} fino a piani
 
