@@ -450,7 +450,11 @@ aggiornata versione POD 2024/02/13
 
 aggiornata versione POD 2024/02/17
 
-0.82d precisazioni su fine round, 
+0.82d precisazioni su fine round
+
+aggiornata versione POD 2024/02/18
+
+0.82e aggiornato colpo paralizzante, aggiornato combattere alla cieca, 
 
 
 - aggiunti \label{} fino a piani

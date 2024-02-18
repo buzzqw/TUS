@@ -135,7 +135,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.82d} \fontsize{10}{12}\selectfont
+\def \versione {0.82e} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
@@ -3743,7 +3743,7 @@ Il valore di EDX se diverso dal massimo danno dell'arma aumenta di 2 (Katana cau
 
 \subsubsection{Difesa totale} \index{Difesa totale}\label{difesatotale}
 
-costa 2 Azioni, non puoi eseguire nessun attacco con armi o lancio di incantesimo, se ti muovi il terreno risulta difficile, guadagni un +4 in Difesa.
+costa 2 Azioni, se ti muovi il terreno risulta difficile, guadagni un +4 in Difesa.
 
 \subsubsection{Disingaggiare} \index{Disingaggiare}\label{disingaggiare}
 
@@ -4966,7 +4966,7 @@ Esegui il Tiro per Colpire ma ignori ogni tiro critico ottenuto. Se colpisci, co
 
 \textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
 
-L'obiettivo dopo che è stato studiato per 6 round (2 Azioni a round) con il prossimo tuo colpo andato a segno in mischia, entro 6 round dal termine studio, deve effettuare un Tiro Salvezza Tempra con DC pari al Tiro per Compire o rimanere paralizzato per 3d6 round.
+Dedichi 2 Azioni a Round, per 5 round, a studiare un avversario. Nel sesto round utilizzando 2 Azioni porti un attacco in mischia o da distanza. L'avversario deve effettuare un Tiro Salvezza Tempra con DC pari al Tiro per Compire o rimanere paralizzato per 3d6 round.
 
 \subsection*{Combattere alla Cieca}\index{Combattere alla Cieca}\label{combattereallacieca}
 
@@ -4976,15 +4976,17 @@ E' l'abilità di attaccare gli avversari che non sono chiaramente percepibili.
 
 \textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
 
-Un avversario con copertura leggera non ottiene bonus alla Difesa, con copertura media ha un +2 alla Difesa, con copertura completa ha un +4 alla Difesa.
+Un avversario con copertura leggera non ottiene bonus alla Difesa, con copertura media ha un +2 alla Difesa, con copertura completa ha un +6 alla Difesa.
 
-Un attaccante invisibile, non ottiene alcun vantaggio al colpire il personaggio in mischia. I bonus dell'attaccante Invisibile si applicano lo stesso solo per gli attacchi da distanza.
+Un attaccante invisibile in mischia non ottiene alcun vantaggio al colpire il personaggio in mischia. 
+
+La \textbf{seconda volta} che prendi l'Abilità, requisito Consapevolezza a 3, riduci di ulteriori due il bonus alla Difesa da creature con copertura copleta.
 
 Non c'è bisogno di effettuare prove di Acrobatica per muoversi a piena velocità mentre si è Accecati.
 
-La \textbf{seconda volta} che prendi l'Abilità, requisito Consapevolezza a 3, riduci di ulteriori due il bonus alla Difesa da creature con copertura coperte o invisibili.
+La penalità al Tiro per Colpire contro creature invisibili è -2.
 
-\textit{Livello Zatoichi}, la \textbf{terza volta} che prendi l'Abilità, requisito Consapevolezza a 5, una creatura invisibile non ha alcun vantaggio contro di te ne tu hai penalità contro di lei.
+\textit{Livello Zatoichi}, la \textbf{terza volta} che prendi l'Abilità, requisito Consapevolezza a 5, in mischia una creatura invisibile non ha alcun vantaggio contro di te ne tu hai penalità contro di lei.
 
 \subsection*{Combattimento con due armi}\index{Combattimento con due armi}\index{Due armi}\label{duearmi}
 
@@ -5038,6 +5040,12 @@ Tramite questa Abilità l'incantatore è in grado di infondere un incantesimo fi
 
 Tramite questa Abilità l'incantatore è in grado di infondere un'incantesimo fino a livello 5 in un oggetto magico.
 
+\begin{center}
+	\includegraphics[width=0.8\linewidth]{immagini/oggettimagiciuomo.png}
+	
+	\textit{Henry Purcell - King Arthur}
+\end{center}
+
 \subsection*{Creare Oggetti Magici Meravigliosi}\index{Creare Oggetti Magici Meravigliosi}\label{creaoggettimagicimeravigliosi}
 
 \textbf{Requisito}: Creare Oggetti Magici Superiori, Competenza Magica 16
@@ -5054,13 +5062,6 @@ Tramite questa Abilità l'incantatore è in grado di infondere un'incantesimo fi
 \textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
 
 Tramite questa Abilità l'incantatore è in grado di infondere un'incantesimo fino fino a livello 9 in un oggetto magico.
-
-
-\begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/oggettimagiciuomo.png}
-
-	\textit{Henry Purcell - King Arthur}
-\end{center}
 
 \subsection*{Dadi truccati}\index{Dadi truccati}\label{daditruccati}
 
