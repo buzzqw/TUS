@@ -454,7 +454,7 @@ aggiornata versione POD 2024/02/17
 
 aggiornata versione POD 2024/02/18
 
-0.82e aggiornato colpo paralizzante, aggiornato combattere alla cieca, 
+0.82e aggiornato colpo paralizzante, aggiornato combattere alla cieca, aggiornata armatura montagna incantata, 
 
 
 - aggiunti \label{} fino a piani
