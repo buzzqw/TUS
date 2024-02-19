@@ -455,7 +455,10 @@ aggiornata versione POD 2024/02/17
 aggiornata versione POD 2024/02/18
 
 0.82e non si e' distratti se si lancia un cantrip, aggiornata lista scudi, aggiornato colpo paralizzante - combattere alla cieca - armatura montagna incantata - colpo mortale - estrazione rapida - ferocia - ho detto cadi - il patrono e' con me - il patrono e' la mia arma - Imposizione delle mani - Imposizione delle mani - Incanalare energia - rimosso Incanalare energia a distanza - aggiunto Incanalare energia selettiva - Infondere Energia Magica - Infondere Energia Magica Superiore - Infondere Paura - La mia pelle - Litania versatile - Lo scudo è mio amico - Pelle coriacea - Specialista - Tattico - Tocco Pietoso - Tutt'uno con la magia - Un braccio, un arma, aggiornata lista Raggruppamento Abilita' per Stile, 
- 
+
+aggiornata versione POD 2024/02/19
+
+0.82f 
 
 - aggiunti \label{} fino a piani
 
