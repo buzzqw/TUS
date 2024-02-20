@@ -1,6 +1,6 @@
 # UnoMostro
 
-##ovvero come giocare a Magic the Gathering (MtG) con le carte da UNO!
+## ovvero come giocare a Magic the Gathering (MtG) con le carte da UNO!
 
 il tutto nasce per avvicinare i miei figli (allora 8 e 9 anni) ai giochi di carte ed alla matematica...
 
@@ -10,6 +10,6 @@ Ecco che nasce Uno Mostro dove le carte numerate sono le creature mostro e le ca
 
 Giocate e divertitevi
 
-Andre
+Andres
 
-##gioco creato e di proprieta' di Andres Zanzani, per qualsiasi uso commerciale contattatemi!
+## gioco creato da Andres Zanzani, per qualsiasi uso commerciale contattatemi!
