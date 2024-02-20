@@ -1,0 +1,30 @@
+Uno Mostro 01/03/2014  rev 1.3
+Uno Mostro 20/02/2024  rev 1.4
+
+
+- Ogni mostro ha forza/resistenza pari a il suo numero (per le carte numerate)
+- Ogni mostro puo' difendere da ogni colore di carta mostro
+- Ogni mostro puo' danneggiare qualsiasi carta mostro, indipendentemente dai colori.
+- Ogni carta mostro puo' essere fermata da tutte le carte mostro di qualsiasi colore e valore
+- La carta mostro che attacca distribuisce il danno a qualsiasi carta ha difeso nel modo che preferisce
+- La carta mostro che difende puo' difendere solo da una carta mostro alla volta. Piu' carte mostro possono difendere da una carta mostro attaccante.
+- La carta 0 permette il controllo per 1 turno di una carta mostro  dell'avversario. Puo' essere giocata nel proprio turno od in quello dell'avversario (ad esempio per mettere a proprio attacco un mostro in difesa o mettere in difesa un mostro in attacco). Puo' essere giocata dopo la dichiarazione della difesa o dell'attacco. Un carta 0 puo' essere usata per contrastare un altra carta 0.
+- La carta cambia turno permette di prendere per sempre una carta mostro (e tutte le carte che sono su questa) dell'avversario. Puo' essere giocata solo nel proprio turno. Prima di dichiarare l'attacco, o dopo la fine dell'attacco, non durante l'attacco e difesa.
+- La carta +2 puo' essere messa su una carta mostro solo nel proprio turno. Aumenta forza e resistenza. E' possibile mettere piu' carte +2 sullo stesso mostro
+- La carta +4 da un piu' +4 alla forza e alla resistenza puo' essere messa su una carta mostro solo nel proprio turno. Non si possono mettere piu' di una carta +4 su una carta mostro 
+- La carta cambia colore distrugge una carta mostro o distrugge una carta +2 o +4 o distrugge la carta divieto. Se distrugge una carta mostro con un o piu' +2 /+4 o divieto, finiscono distrutti anche i +2/+4  e divieto. La carta cambia colore puo' essere usata solo nel proprio turno.
+- Ogni giocatore parte con 7 carte. Non puo' tenere in mano piu' di 7 carte se no scarta nel cimitero, prima di passare il turno, a sua scelta le carte oltre la settima.
+- Ogni giocatore, a parte il primo turno, pesca due carte dal mazzo comune.
+- Nel proprio turno il giocatore puo' scendere con quante carte mostro vuole.
+- Ogni giocatore puo' attaccare con quante carte mostro vuole.
+- Prima si mettono le carte +2 o +4 o cambia colore poi si attacca
+- Ogni giocatore puo' difendere con quante carte mostro vuole. Si possono usare piu' carte mostro in difesa sulla stessa carta mostro attaccante. I danni della difesa si sommano per valutare se la carta bloccata viene uccisa. L'attaccante distribuisce i danni alle carte che hanno bloccato la sua carta mostro come preferisce.
+- La carta divieto si puo' giocare solo nel proprio turno e mettere ad una carta mostro in campo impedendo alla carta mostro di attacare. La carta mostro puo' difendere. Se si mettono 2 carte divieto sulla stessa carta mostro questa carta non puo' attare o difendere.
+- In caso di partite con 3 o piu' giocatori, la difesa di un giocatore puo' essere aiutata anche da altri giocatori.
+- Se una carta mostro non viene uccisa, ovvero subisce un ammontare di danno pari o superiore alla sua resistenza, il turno dopo ha tutta la sua resistenza completa
+- Se una carta mostro attacca e non viene bloccata dalla difesa causa un danno al giocatore pari alla sua forza
+- Ogni giocatore ha 100 punti vita.
+- Il giocatore dichiara l'attacco all'avversario e decide le carte che usa per attaccare, chi si difende decide con che carte mostro si difende, una volta fatta la dichiarazione di attacco e difesa non si possono aggiungere altre creature in attacco o difesa tranne con l'uso della carta 0
+- Una carta +2 o +4 puo' essere usata per pescare 2 carte in piu', puo' essere usata solo nel proprio turno poi viene messa nel cimitero
+- La carta 0 o cambio turno una volta usate di mettono nel cimitero
+- Se le carte del mazzo finiscono si gioca finche' non rimane un giocatore. Se non ci sono carte che possono attaccare o difendere o la situazione e' di stallo (ad esempio ci sono solo carte con divieto sopra), vince chi ha piu' punti vita. 
