@@ -148,6 +148,8 @@ boxrule=0.3pt
 %Define left-aligned wrapping columns for tabular.
 \newcolumntype{h}{>{\raggedright\arraybackslash}p}
 
+\newcommand{\riga}{\rule{\textwidth}{0.4pt}}
+
 \bigskip
 Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni\\
 
@@ -157,10 +159,11 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 \begin{center}\textbf{\versione} - \today\end{center}
 \thispagestyle{empty}
 
+
 \newpage~\thispagestyle{empty}%%\newpage~\thispagestyle{empty}
 
 
-\newcommand{\riga}{\rule{\textwidth}{0.4pt}}
+\pagebreak
 
 {\Huge \begin{center} Old Bell School System \end{center}}
 
@@ -203,11 +206,9 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 
 \end{mdframed}
 
-%}% 
-%}
-
-\pagebreak
 \cleardoublepage
+\pagebreak
+\pagebreak
 \setcounter{page}{1}
 \pagenumbering{Roman}
 
@@ -222,8 +223,8 @@ Mai rinunciare ai tuoi sogni, persevera fino ad renderli reali.
 "May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
 \end{tcolorbox}\end{changemargin}
 
-\pagebreak
-
+\pagebreak~
+\pagebreak~
 
 %\cleardoublepage
 \setcounter{page}{1}
@@ -249,7 +250,7 @@ Se sei il Narratore invece tu governi il mondo, la storia, l'avventura. Il tuo r
 Il tuo compito non è facile, usa fantasia, buon senso e la regola principale: \textbf{divertiti}. Quando sei in difficoltà non cercare la regola precisa, usa la tua più grande alleata: l'immaginazione, unisci un pizzico di assennatezza e cerca di stupire i giocatori. Lo scopo è sempre e solo uno, divertirsi insieme e crescere, come giocatori, come personaggi, come amici.
 
 \begin{center}
-	\includegraphics[keepaspectratio,width=0.90\linewidth]{immagini/dice.png}
+	\includegraphics[keepaspectratio,width=0.95\linewidth]{immagini/dice.png}
 
 	\textit{Tipico set di dadi da gioco di ruolo}
 \end{center}
@@ -360,7 +361,7 @@ A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 \textbf{Competenza Magica (CM)}: \index{Competenza Magica}\index{CM}è la tua capacità di usare le magie, più è alto questo valore più le magie saranno efficaci, più ne avrai a disposizione, più ne potrai lanciare.
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.40\textwidth]{immagini/spiritomagia2.png}
+\includegraphics[keepaspectratio,width=0.4\textwidth]{immagini/spiritomagia2.png}
 \end{center}
 
 \textbf{Difesa}: \index{Difesa}per Difesa si intende il valore totale ottenuto da 10 + Scudo + Armatura + Destrezza + vari ed eventuali bonus. Rappresenta la capacità di non farsi colpire, più alto è più è difficile essere colpito.
@@ -434,22 +435,19 @@ Ad ogni passaggio di livello si guadagna un certo numero di Punti Ferita, stabil
 
 \textbf{Round}:\index{Round} il combattimento o azioni sono divise in round. Un round rappresenta una unità temporale di circa 10 secondi. Durante il round ogni creatura ha la possibilità di agire in base alla sua iniziativa ed eseguire fino a 3 Azioni.
 
-
 \textbf{Successo Critico/Fallimento Critico Magico}\index{Successo Critico Magico} \index{Fallimento Critico Magico}: nel caso in cui il giocatore passi la Prova di Magia con dei critici (due 1 oppure due 6). Il Successo Critico Magico porta a spettacolose modifiche nell'incantesimo, viceversa potrebbero succedere brutte cose all'incantatore.
 
 \textbf{Tiro Salvezza (TS)}:\index{Tiro Salvezza} \index{TS}quando una creatura è sottoposta ad un effetto particolare spesso viene concesso un Tiro Salvezza per mitigare o annullare gli effetti. Il Tiro Salvezza è un'azione che non occupa tempo o azioni.
 
-\begin{center}
-	\includegraphics[width=0.45\textwidth]{immagini/Jan_Steen2.png}
-	
-	\textit{Jan Havicksz. Steen}
-\end{center}
-
-\medskip
-
 I Tiri Salvezza riguardano i riflessi e lo schivare (Riflessi), resistere a veleni/malattie o cambiamenti del corpo (Tempra) oppure per resistere ad attacchi mentali ed effetti che agiscano sull'arbitrio e volontà (Volontà).
 
 \textbf{Successo Critico/Fallimento Critico nel Tiro Salvezza}\index{Sucesso Critico Magico nel Tiro Salvezza} \index{Fallimento Critico nel Tiro Salvezza}: a seconda dell'incantesimo in caso di successo critico nel Tiro Salvezza (Tiro Salvezza riuscito ed almeno due 6 tirati) si dimezzano ulteriormente gli effetti mentre in caso di fallimento critico (si fallisce il Tiro Salvezza e si tirano due 1 oppure un 1 ed due 2) si subisce ancora di più il danno.
+
+\begin{center}
+	\includegraphics[width=0.5\textwidth]{immagini/Jan_Steen2.png}
+	
+	\textit{Jan Havicksz. Steen}
+\end{center}
 
 \textbf{Tiro per Colpire (TC)}:\index{Tiro per Colpire} \index{TC}è una prova di Attacco (Competenza Armi + Forza/Destrezza + Abilità + capacità dati da lista armi...) contro Difesa (armatura + scudo + Abilità + magia...). Il Tiro per Colpire può essere da mischia (ovvero per le creature prossime alla tua arma, a distanza di mischia) oppure da distanza (per archi, balestre, ma anche pugnali lanciati..).. Leggi bene il capitolo del combattimento.
 
@@ -465,7 +463,7 @@ Il gioco di D\&D (ed \textit{OBSS}) non ha né vinti né vincitori, ha solo gioc
 
 \medskip
 
-Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
+Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso:
 
 \medskip
 
@@ -482,7 +480,7 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 
 
 \begin{center}
-	\includegraphics[width=0.4\textwidth]{immagini/cavaliere2.png}
+	\includegraphics[width=0.45\textwidth]{immagini/cavaliere2.png}
 \end{center}
 
 
@@ -762,7 +760,7 @@ Diverso è un attributo che può essere data a qualsiasi razza. Vengono sostitui
 
 
 \begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/diverso.png}
+	\includegraphics[width=0.75\linewidth]{immagini/diverso.png}
 \end{center}
 
 \subsection{Sornelian}\index{Sornelian}\index{Furryman}\label{sornelian}\hypertarget{sornelian}{}
