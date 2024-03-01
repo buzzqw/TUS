@@ -458,7 +458,7 @@ aggiornata versione POD 2024/02/18
 
 aggiornata versione POD 2024/02/19
 
-0.82f 
+0.83 Layout
 
 - aggiunti \label{} fino a piani
 
