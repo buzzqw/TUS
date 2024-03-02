@@ -458,7 +458,7 @@ aggiornata versione POD 2024/02/18
 
 aggiornata versione POD 2024/02/19
 
-0.83 Layout
+0.83 Layout, aggiunti requisiti a specialista - stai giu', corretto esempio tups lancia un fulmine, 
 
 - aggiunti \label{} fino a piani
 
