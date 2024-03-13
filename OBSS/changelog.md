@@ -458,7 +458,11 @@ aggiornata versione POD 2024/02/18
 
 aggiornata versione POD 2024/02/19
 
-0.83 Layout, aggiunti requisiti a specialista - stai giu', corretto esempio tups lancia un fulmine, aggiornata lista armi doppie,  
+0.83 Layout, aggiunti requisiti a specialista - stai giu', corretto esempio tups lancia un fulmine, aggiornata lista armi doppie
+
+aggiornata versione POD 2024/03/13
+
+0.83a 
 
 - aggiunti \label{} fino a piani
 
