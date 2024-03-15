@@ -491,6 +491,8 @@ Aggiungere immagini:
 - combattimento sociale, ampliare
 - piu' maledizioni
 - motivazioni, un elenco di frasi o indicazione che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
+- ogni personaggio ha un elenco di obiettivi che se raggiunge acquisisce maggiore competenza/bonus ai ts/tc...
+
 
 
 > ESPANSIONI:principalmente per mancanza di pagine, da valutare dopo riduzione font mostruario.
