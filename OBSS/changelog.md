@@ -462,7 +462,7 @@ aggiornata versione POD 2024/02/19
 
 aggiornata versione POD 2024/03/13
 
-0.83a 
+0.83a un corpo se trascinato pesa la meta', 
 
 - aggiunti \label{} fino a piani
 
