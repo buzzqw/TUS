@@ -462,7 +462,7 @@ aggiornata versione POD 2024/02/19
 
 aggiornata versione POD 2024/03/13
 
-0.83a un corpo se trascinato pesa la meta', aggiornati hyperlink pareti, 
+0.83a un corpo se trascinato pesa la meta', aggiornati hyperlink pareti, precisioni su regole cavalcature, 
 
 - aggiunti \label{} fino a piani
 
