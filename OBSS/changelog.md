@@ -462,7 +462,7 @@ aggiornata versione POD 2024/02/19
 
 aggiornata versione POD 2024/03/13
 
-0.83a un corpo se trascinato pesa la meta', aggiornati hyperlink pareti, precisioni su regole cavalcature, 
+0.83a un corpo se trascinato pesa la meta', aggiornati hyperlink pareti, precisioni su regole cavalcature, Sixiser può dominare i non morti con lo scaccio, Thaft ha +1d6 al calcolo del potere divino,  
 
 - aggiunti \label{} fino a piani
 
