@@ -464,6 +464,10 @@ aggiornata versione POD 2024/03/13
 
 0.83a un corpo se trascinato pesa la meta', aggiornati hyperlink pareti, precisioni su regole cavalcature, Sixiser può dominare i non morti con lo scaccio, Thaft ha +1d6 al calcolo del potere divino, aggiornato incantesimo carne in pietra, aggiornato incantesimo clone, aggiunti Regole (editti) ai Patroni, aggiunta l'indicazione affianco algli elementi se il patrono e' B/N/M, corrette liste privilegiate per Gaya ed Erondil
 
+aggiornata versione POD 2024/04/11
+
+0.83b
+
 - aggiunti \label{} fino a piani
 
 Aggiungere immagini:
