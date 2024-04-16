@@ -478,7 +478,7 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
-- togliere abilta' supremo, aggiungere un attributo (relativa ad una caratteristica) alle abilita', ogni tot abilita' (8?) con quella caratteristica aumenta di uno
+- togliere abilta' supremo, aggiungere un attributo (relativa ad una caratteristica) alle abilita', ogni tot abilita' (5?) con quella caratteristica aumenta di uno. le abilita' sono 1,1,2,3,5,7,9,11,13,15,17,19,20
 - suggerimento per il narratore, non usare lo screen
 - dogmi per i patroni, prendere ad esempio  i vecchi dei
 - ts spell, complesso da calcolare. Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 per ogni Successo Critico Magico nella Prova di Magia
