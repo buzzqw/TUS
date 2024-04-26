@@ -466,7 +466,7 @@ aggiornata versione POD 2024/03/13
 
 aggiornata versione POD 2024/04/11
 
-0.83b l'orchetto ha il naso da maiale, 
+0.83b l'orchetto ha il naso da maiale, migliorie codice latex, layout, 
 
 - aggiunti \label{} fino a piani
 
