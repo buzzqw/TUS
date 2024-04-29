@@ -466,7 +466,7 @@ aggiornata versione POD 2024/03/13
 
 aggiornata versione POD 2024/04/11
 
-0.83b l'orchetto ha il naso da maiale, migliorie codice latex, layout, 
+0.83b l'orchetto ha il naso da maiale, migliorie codice latex, layout, corretto esempio finta, corretto numero azioni cavalcatura, 
 
 - aggiunti \label{} fino a piani
 
