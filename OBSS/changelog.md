@@ -466,7 +466,7 @@ aggiornata versione POD 2024/03/13
 
 aggiornata versione POD 2024/04/11
 
-0.83b l'orchetto ha il naso da maiale, migliorie codice latex, layout, corretto esempio finta, corretto numero azioni cavalcatura, 
+0.83b l'orchetto ha il naso da maiale, migliorie codice latex, layout, corretto esempio finta, corretto numero azioni cavalcatura, mettere uno scudo da arma improvvisata a difesa costa una reazione, 
 
 - aggiunti \label{} fino a piani
 
