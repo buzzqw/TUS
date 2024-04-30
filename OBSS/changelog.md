@@ -466,7 +466,11 @@ aggiornata versione POD 2024/03/13
 
 aggiornata versione POD 2024/04/11
 
-0.83b l'orchetto ha il naso da maiale, migliorie codice latex, layout, corretto esempio finta, corretto numero azioni cavalcatura, mettere uno scudo da arma improvvisata a difesa costa una reazione, corretta proiezione luce della candela, aggiornato screen, chiarimenti su abilita' supremo, chiarimenti su punti ferita massimi, indicato che una creatura bloccata ha -1d6 al TC, 
+0.83b l'orchetto ha il naso da maiale, migliorie codice latex, layout, corretto esempio finta, corretto numero azioni cavalcatura, mettere uno scudo da arma improvvisata a difesa costa una reazione, corretta proiezione luce della candela, aggiornato screen, chiarimenti su abilita' supremo, chiarimenti su punti ferita massimi, indicato che una creatura bloccata ha -1d6 al TC
+
+aggiornata versione POD 2024/04/30
+
+0.83c 
 
 - aggiunti \label{} fino a piani
 
