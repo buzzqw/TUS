@@ -470,7 +470,7 @@ aggiornata versione POD 2024/04/11
 
 aggiornata versione POD 2024/04/30
 
-0.83c 
+0.83c e' possibile attribuire il punto di competenze attive a quelle di base in rapporto 1 a 4.
 
 - aggiunti \label{} fino a piani
 
