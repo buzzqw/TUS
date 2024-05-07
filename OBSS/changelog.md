@@ -470,7 +470,7 @@ aggiornata versione POD 2024/04/11
 
 aggiornata versione POD 2024/04/30
 
-0.83c e' possibile attribuire il punto di competenze attive a quelle di base in rapporto 1 a 4, aggiornata lista scudo, aggiunta liste armature
+0.84 e' possibile attribuire il punto di competenze attive a quelle di base in rapporto 1 a 4, aggiornata lista scudo, aggiunta liste armature, aggiunte mappe di Curyan e Tiya, aggiunti riferimenti ad autore mappe
 
 - aggiunti \label{} fino a piani
 

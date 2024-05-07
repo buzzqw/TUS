@@ -135,9 +135,14 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.83c} \fontsize{10}{12}\selectfont
+\def \versione {0.84} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
+
+\newcommand\invisiblesection[1]{%
+  \refstepcounter{section}%
+  \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
+  \sectionmark{#1}}
 
 %Define centered and automatically spaced columns for tabularx.
 \newcolumntype{Q}{>{\centering\arraybackslash}X}
@@ -4094,6 +4099,21 @@ I vantaggi indicati sono cumulativi se non indicato diversamente.
 	\includegraphics[width=0.9\linewidth]{immagini/arma-arco.png}
 \end{center}
 
+\subsection{Armature}\index{Lista Armature} \label{listaarmature}
+
+Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa una Armatura.
+
+\begin{itemize}
+
+	\item 1 punto: dimezzi il tempo necessario per indossare e togliere un'armatura
+	\item 2 punti: la Difesa concessa dall'armatura aumenta di 1 punto, dormire in armature medie non causa affaticamento
+	\item 3 punti: la Penalità alla Competenza diminuisce di 1 punto, dormire in armature pesanti non causa affaticamento
+	\item 4 punti: la penalità al Movimento diminuisce di 1 metro, la Difesa dell'armatura aumenta di 1 punto
+	\item 5 punti: i dadi di penalita' alla Prova di Magia diminuiscono di 1 dado, la Penalità alla Competenza diminuiscono di 1 punto, la penalità al Movimento diminuisce di 1 metro
+	\item 6 punti: annulli il danno aggiuntivo del primo Tiro Critico su ogni attacco, in mischia o da distanza. Portare una armatura non obbliga più ad eseguire la Prova di Magia
+	\item 7 punti: annulli la Penalità alla Competenza ed al Movimento
+\end{itemize}
+
 \subsection{Armi Leggere}\index{Armi Leggere} Spada Corta, Mazza leggera, Stocco, Scimitarra, Ascia ad una mano, Pugnale\label{listaarmileggere}
 
 \begin{itemize}
@@ -4187,11 +4207,11 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 
 \subsection{Armi letali} Katana, Machete\index{Armi letali}\label{listarmiletali}
 
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/katana3.png}
-	
-	\emph{Katana}
-\end{center}
+%\begin{center}
+%	\includegraphics[width=0.6\linewidth]{immagini/katana3.png}
+%	
+%	\emph{Katana}
+%\end{center}
 
 
 \begin{itemize}
@@ -4346,17 +4366,6 @@ La tua tecnica mescola efficacemente difesa e attacco. Puoi lanciare il tuo scud
 
 Non è possibile applicare questi bonus se si usa più di uno scudo.
 
-\end{itemize}
-
-\subsection{Armature}\index{Lista Armature} \label{listaarmature}
-
-Questa Lista conferisce solo i bonus cumulativi qui elencati.
-
-\begin{itemize}
-	\item 2 punti: la Difesa dell'armatura aumenta di 1 punto
-	\item 3 punti: la Penalità alla Competenza diminuisce di 1 punto
-	\item 4 punti: la penalità al Movimento diminuisce di 1 metro, la Difesa dell'armatura aumenta di 1 punto
-	\item 5 punti: i dadi di penalita' all'armatura diminuiscono di 1 dado, la Penalità alla Competenza diminuiscono di 1 punto, la penalità al Movimento diminuisce di 1 metro
 \end{itemize}
 
 \subsection{Scuri e Accette}\index{Scuri e Accette} Ascia ad una mano, Ascia da battaglia, Ascia Martello, Grande Ascia Doppia\label{listaasce}
@@ -46555,6 +46564,10 @@ Qualsiasi segnalazione o consiglio che vogliate darmi è più che ben accetto! A
 
 \bigskip
 
+Lorenzo Caputo, per la preziosa collaborazione e pazienza nel preparare le mappe di Yeru e Curyan. Potete contattarlo sulla sua pagina Instagram \href{https://www.instagram.com/galiosjourney/}{galiosjourney} (galiosjourney https://www.instagram.com/galiosjourney/) o tramite mail Frank.thegamer@outlook.com
+
+bigskip
+
 Ringrazio \href{https://github.com/ThomasJockin/readexpro}{Readex} ( https://github.com/ThomasJockin/readexpro ) per il font usato. Readex è un font dall'alta leggibilità anche per persone con difficoltà di lettura.
 
 
@@ -46700,10 +46713,39 @@ Non sono fornite garanzie. La licenza può non conferirti tutte le autorizzazion
 
 \textbf{Note dell'Autore}:
 Qualsiasi utilizzo di OBSS o sue parti od idee siete pregati di comunicarlo preventivamente.
-Le immagini incluse nel manuale sono in pubblico dominio o sono senza licenza. In caso di inclusione per errore di immagini protette da copyright vi invito a segnalarle per la rimozione.
+Le immagini incluse nel manuale, ad esclusione delle mappe di Curyan e Tiya, sono in pubblico dominio o sono senza licenza. In caso di inclusione per errore di immagini protette da copyright vi invito a segnalarle per la rimozione.
 
 \pagebreak
 
+\invisiblesection{Mappe}\index{Mappe}
+
+
+\begin{center}
+	\includegraphics[width=\linewidth]{immagini/Curyan Definitiva zona 0.jpg}\\
+
+	\medskip
+
+	\emph{Dettaglio di Curyan}
+\end{center}
+
+\pagebreak
+
+
+
+\begin{center}
+	\includegraphics[width=\linewidth]{immagini/Tiya Definitiva zona 0.jpg}\\
+
+	\medskip
+
+	\emph{Dettaglio di Tiya}
+\end{center}
+
+Potete scaricare le mappe complete di Curyan \href{https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/Curyan.jpg}{Curyan} e Tiya \href{https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/Tiya.jpg}{Tiya} da github.
+
+La mappa completa dei due continenti è questa \href{https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/Mappacompleta.jpg}{Mappa completa}
+
+
+\pagebreak
 
 {\scriptsize\printindex}
 

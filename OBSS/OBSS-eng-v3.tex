@@ -175,11 +175,16 @@ boxrule=0.3pt
 
 
 \begin{document}
-\def \versione {0.83c} \fontsize{10}{12}\selectfont
+\def \versione {0.84} \fontsize{10}{12}\selectfont
 
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 180
 
 
+
+\newcommand\invisiblesection[1]{%
+  \refstepcounter{section}%
+  \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
+  \sectionmark{#1}}
 
 
 \bigskip
@@ -4396,17 +4401,18 @@ These bonuses cannot be applied if you use more than one shield.
 
 \subsection{Armors}\index{Armor List} \label{Armor List}
 
-This List only grants the cumulative bonuses listed here.
+This List only grants the cumulative bonuses listed here when armor is donned.
 
 \begin{itemize}
-\item 2 points: Armor Defense increases by 1 point
-\item 3 points: the Proficiency Penalty decreases by 1 point
-\item 4 points: Movement penalty decreases by 1 meter, armor Defense increases by 1 point
-\item 5 points: Armor penalty dice decrease by 1 die, Proficiency Penalty decreases by 1 point, Movement penalty decreases by 1 meter
-\end{itemize}
-
-
-
+	\item 1 point: Halve the time it takes to don and undon armor
+	\item 2 points: the Defense granted by the armor increases by 1 point, sleeping in medium armor does not cause fatigue
+	\item 3 points: Proficiency Penalty decreases by 1 point, sleeping in heavy armor does not cause fatigue
+	\item 4 points: Movement penalty decreases by 1 meter, armor Defense increases by 1 point
+	\item 5 points: Magic Test penalty dice decrease by 1 die, Expertise Penalty decreases by 1 point, Movement penalty decreases by 1 meter
+	\item 6 points: You negate the additional damage of the first Critical Roll on every attack, melee or ranged. Wearing armor no longer forces you to take the Magic Test
+	\item 7 points: you have no Competence Penalty and Movement penalty
+	\end{itemize}
+	
 \subsection{Axes and Hatchets}\index{Axes and Hatchets} One-handed Axe, Battle Axe, Hammer Axe, Great Double Axe\label{axe list}
 
 Call \textit{Axes} in Table: Weapon List
@@ -51033,6 +51039,10 @@ A huge thanks to \href{http://www.editorifolli.it/gdr/dnd5/srd5/}{EditoriFolli} 
 
 \bigskip
 
+Lorenzo Caputo, for his precious collaboration and patience in preparing the maps of Yeru and Curyan. You can contact him on his Instagram page \href{https://www.instagram.com/galiosjourney/}{galiosjourney} (galiosjourney https://www.instagram.com/galiosjourney/) or by email Frank.thegamer@outlook.com
+
+\bigskip
+
 Thanks to \href{https://github.com/ThomasJockin/readexpro}{Readex} ( https://github.com/ThomasJockin/readexpro ) for the font used. Readex is a highly legible font, even for people with reading difficulties.
 
 
@@ -51185,6 +51195,34 @@ Any use of OBSS or its parts or ideas, please notify us in advance.
 {\normalsize The images included in this manual are in the public domain or are unlicensed. If i mistakenly include copyrighted images, please report them for removal.}
 
 \pagebreak
+
+\invisiblesection{Mappe}\index{Mappe}
+
+
+\begin{center}
+	\includegraphics[width=\linewidth]{immagini/Curyan Definitiva zona 0.jpg}\\
+
+	\medskip
+
+	\emph{Details of Curyan}
+\end{center}
+
+\pagebreak
+
+
+
+\begin{center}
+	\includegraphics[width=\linewidth]{immagini/Tiya Definitiva zona 0.jpg}\\
+
+	\medskip
+
+	\emph{Details of Tiya}
+\end{center}
+
+You can download the complete maps of Curyan \href{https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/Curyan.jpg}{Curyan} and Tiya \href{https://github.com/ buzzqw/TUS/blob/master/OBSS/images/Tiya.jpg}{Tiya} from github.
+
+The complete map of the two continents is this \href{https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/Mappacomplete.jpg}{Complete map}
+
 
 
 {\scriptsize\printindex{Index}}
