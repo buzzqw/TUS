@@ -135,7 +135,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.84a} \fontsize{10}{12}\selectfont
+\def \versione {0.84} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
@@ -2659,16 +2659,14 @@ Cerca di occultare le traccie&DC +5\\
 
 Sopravvivenza può essere usata al posto di \textbf{Disattivare Congegni} con un -2d6 per disattivare trappole o serrature 1 Azione per DC.
 
-Ogni quattro punti ottenuti nella prova di Sopravvivenza oltre 13 il personaggio è in grado di \textbf{procurarsi cibo} per se stesso ed un altra persona purché si trovi in un ambiente capace di sostenere la vita.
-
-\medskip
+Ogni quattro punti ottenuti nella prova di Sopravvivenza oltre 13 il personaggio è in grado di \textbf{procurarsi cibo} per se stesso ed un altra persona purché si trovi in un ambiente capace di sostenere la vita.\\
 
 La prova di \textbf{Valutare}\index{Valutare} è un base alla rarità dell'oggetto, DC 12 + 2 comune, 4 non comune, 8 raro, 12 molto raro, 16 leggendario. \textbf{3 Azioni}. Con punteggio 6 costa 2 Azioni, con 12 costa 1 Azione.
 
 \subsection{Linguaggi}\index{Linguaggi}\hypertarget{linguaggi}{}\label{linguaggi}
 
-In Yeru ogni cultura è custode di una propria lingua parlata e scritta. Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto pari o superiore a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio.
-Un appartenente ad una razza può benissimo avere come prima lingua non quella della propria razza se il background lo giustifica (es. un nano cresciuto presso una tribù di Goblin).
+In Yeru ogni cultura è custode di una propria lingua. Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto pari o superiore a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio.
+Un appartenente ad una razza può benissimo avere come prima lingua non quella della propria razza se il background lo giustifica (es. un nano cresciuto presso una tribù di goblin).
 
 Per ogni punto speso nella Competenza Conoscenza Lingua parla e scrive un altra lingua.
 
@@ -2683,16 +2681,18 @@ Alcune lingue segnate con un \textbf{*} non possono essere parlate se non da cre
 {\small \begin{tabular}{lll|lll}
 \textbf{Ambito culturale}& \textbf{Parlato} & \textbf{Scritto}&\textbf{Ambito culturale}& \textbf{Parlato} & \textbf{Scritto}\\
 \toprule
-Umano & Comune& Comune& Nanico& Nanico& Nanico\\Elfico& Elfico & Elfico & Gnomico& Gnomica & Gnomica \\Gnoll & Gnoll & Goblinoide & Giganti& Gigante  & Gigante\\
-Orco& Orchesco & Orchesco & Creature marine senzienti & Aquan& Elfico\\
-Uccelli senzienti& Ictun & Elfico& Abitanti dei boschi*& Silvano& Silvano\\
-Druidico* & Druidico & -& Goblinoide& Goblinoide& Goblinoide\\
+%Umano & Comune& Comune& Nanico& Nanico& Nanico\\
+%Elfico& Elfico & Elfico & Gnomico& Gnomica & Gnomica \\
+%Gnoll & Gnoll & Goblinoide & Giganti& Gigante  & Gigante\\
+%Orco& Orchesco & Orchesco & Creature marine senzienti & Aquan& Elfico\\
+Creature marine senzienti & Aquan& Elfico & Uccelli senzienti& Ictun & Elfico\\
+ Abitanti dei boschi*& Silvano& Silvano & Druidico* & Druidico & -\\
 Celestiale& Celestiale & Celestiale& Infernale & Infernale & Infernale\\
 Abissale & Abissale& Abissale& Draghi& Draconico & Draconico\\
 Elementali del Fuoco* & Ignan  & - & Elementali della Terra*& Tremun &-\\
 Elementali dell'Acqua* & Aquan & - & Elementali dell'Aria*& Ictun &-\\
 Nonmorti & Exspiran & - & Sotterrano & Profondità& Profondità\\
-Lingua dei Segni*& dei Segni & dei Segni&&&\\
+%Lingua dei Segni*& dei Segni & dei Segni&&&\\
 \end{tabular}}
 
 \medskip
@@ -2716,7 +2716,7 @@ Devi essere più intelligente e furbo. Le prove possono essere spesso evitate o 
 
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-Le prove sono una parte molto importante nel gioco ed il vostro approccio ad esse, al pari degli incontri, determina la tipologia di gioco ed avventura. Ascoltate il giocatore e percepite il suo entusiasmo, cercate di capire le intenzioni finali, l'obiettivo e lo scopo.
+Le prove sono una parte molto importante nel gioco ed il vostro approccio ad esse, al pari degli incontri, determina la tipologia di gioco. Ascoltate il giocatore e percepite il suo entusiasmo, cercate di capire le intenzioni finali, l'obiettivo e lo scopo.
 
 Un giocatore coinvolto e partecipativo contagia con il suo entusiasmo anche agli altri giocatori! Ascoltate attentamente le proposte che vi fanno anche se vi sembrano \emph{poco assennate} o \emph{semplicemente folli}, nulla vi vieta di avvertire della potenziale pericolosità delle scelte, cercate comunque di non bloccare l'entusiasmo. Se non trovate una regola adatta alla situazione usate il \textbf{buon senso}, similitudine ad altre azioni, fatevi coinvolgere nella descrizione dei fatti, siate teatrali quando necessario! Lo spirito del gruppo ne gioverà sicuramente!
 
@@ -3900,10 +3900,7 @@ Cavalcature particolarmente intelligenti tendono a privilegiare l'autonomia di a
 
 Puoi controllare una cavalcatura solo se questa è stata addestrata ad accettare un cavaliere. Si presume che cavalli addestrati, muli e simili creature abbiano ricevuto tale addestramento.
 
-L'iniziativa di una cavalcatura controllata cambia per corrispondere a quella di chi la cavalca. Si muove secondo le tue indicazioni e ha solo tre opzioni di Azione: Muoversi, Attaccare, Disingaggiare.
-Ogni bonus e penalità riportato da queste 3 Azioni vale solo per la cavalcatura.
-
-Spendendo 1 Azione puoi fare eseguire 2 di queste Azioni alla cavalcatura.
+Spendendo 1 Azione puoi fare eseguire 2 di queste Azioni alla cavalcatura: Muoversi, Attaccare, Disingaggiare. 
 
 Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferisce a discapito delle indicazioni del cavaliere. Potrebbe fuggire dal combattimento, lanciarsi all'attacco e divorare un nemico ferito gravemente, o agire in qualche altro modo contro la volontà di chi la cavalca.
 
@@ -3912,7 +3909,7 @@ Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferis
 \vfill
 
 \begin{center}
-\includegraphics[width=0.29\linewidth]{immagini/napoleone.png} 
+\includegraphics[width=0.30\linewidth]{immagini/napoleone.png} 
 
 \smallskip
 
