@@ -474,7 +474,7 @@ aggiornata versione POD 2024/04/30
 
 aggiornata versione POD 2024/05/07
 
-0.84a correzioni minori al testo, 
+0.84a correzioni minori al testo, aggiunta gestione delle strettoie, 
 
 
 - aggiunti \label{} fino a piani
