@@ -476,6 +476,10 @@ aggiornata versione POD 2024/05/07
 
 0.84a correzioni minori al testo, aggiunta gestione delle strettoie, chiarimenti su azioni dei mostri, dettagli su cadute da grandi altezze, il terreno occupato da un avversario che si attraversa e' considerato difficile 
 
+aggiornata versione POD 2024/05/19
+
+
+
 
 - aggiunti \label{} fino a piani
 
