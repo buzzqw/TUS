@@ -478,7 +478,10 @@ aggiornata versione POD 2024/05/07
 
 aggiornata versione POD 2024/05/19
 
-0.84b aggiornata abilita' sangue puro, 
+0.84a aggiornata abilita' sangue puro
+
+aggiornata versione POD 2024/05/22
+
 
 
 - aggiunti \label{} fino a piani
