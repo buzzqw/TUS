@@ -482,7 +482,7 @@ aggiornata versione POD 2024/05/19
 
 aggiornata versione POD 2024/05/22
 
-0.84b 
+0.84b cambiato nome Saltare in Atletica, 
 
 
 - aggiunti \label{} fino a piani
