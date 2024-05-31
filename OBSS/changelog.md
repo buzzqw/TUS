@@ -486,7 +486,7 @@ aggiornata versione POD 2024/05/22
 
 aggiornata versione POD 2024/05/31
 
-0.84c 
+0.84c aggiornato tool compilazione, 
 
 
 - aggiunti \label{} fino a piani
