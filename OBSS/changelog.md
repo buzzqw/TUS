@@ -482,7 +482,7 @@ aggiornata versione POD 2024/05/19
 
 aggiornata versione POD 2024/05/22
 
-0.84b cambiato nome Saltare in Atletica, dettaglio danno da caduta da 150 metri, 
+0.84b cambiato nome Saltare in Atletica, dettaglio danno da caduta da 150 metri, ancora su danno da caduta, 
 
 
 - aggiunti \label{} fino a piani
