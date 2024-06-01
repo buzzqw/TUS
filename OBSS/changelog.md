@@ -486,7 +486,9 @@ aggiornata versione POD 2024/05/22
 
 aggiornata versione POD 2024/05/31
 
-0.84c aggiornato tool compilazione, dettagli su disattivare trappole magiche con dissolvi magia, 
+0.84c aggiornato tool compilazione, dettagli su disattivare trappole magiche con dissolvi magia
+
+aggiornata versione POD 2024/06/01
 
 
 - aggiunti \label{} fino a piani
