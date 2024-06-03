@@ -490,6 +490,8 @@ aggiornata versione POD 2024/05/31
 
 aggiornata versione POD 2024/06/01
 
+0.84d chiarimenti ulteriori nell'esempio Tups nel tunnel, 
+
 
 - aggiunti \label{} fino a piani
 
