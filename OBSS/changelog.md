@@ -490,7 +490,7 @@ aggiornata versione POD 2024/05/31
 
 aggiornata versione POD 2024/06/01
 
-0.84d chiarimenti ulteriori nell'esempio Tups nel tunnel, 
+0.84d chiarimenti ulteriori nell'esempio Tups nel tunnel, aggiornata difficolta' incantesimi, 
 
 
 - aggiunti \label{} fino a piani
