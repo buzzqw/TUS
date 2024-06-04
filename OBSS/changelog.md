@@ -494,7 +494,11 @@ aggiornata versione POD 2024/06/01
 
 aggiornata versione POD 2024/06/03
 
-0.84d errori di battitura, corretti tratti di Nihar in tabella tratti patrono, aggiornato tabella elenco patrono tratti, 
+0.84d errori di battitura, corretti tratti di Nihar in tabella tratti patrono, aggiornato tabella elenco patrono tratti, specificato che gli attacchi ad artiglio del sornelian sono della lista Scure ed Accette
+
+aggiornata versione POD 2024/06/04
+
+0.84e aggiunto anche attacco sornelia in lista armi, corretto tempo di lancio incantesimo a sulian, dettagli su consapevolezza, chiarimenti su apprendere nuove compenteze/professioni, 
 
 - aggiunti \label{} fino a piani
 
