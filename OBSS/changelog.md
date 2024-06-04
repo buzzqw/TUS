@@ -494,7 +494,7 @@ aggiornata versione POD 2024/06/01
 
 aggiornata versione POD 2024/06/03
 
-0.84d errori di battitura, 
+0.84d errori di battitura, corretti tratti di Nihar in tabella tratti patrono, 
 
 - aggiunti \label{} fino a piani
 
