@@ -494,6 +494,8 @@ aggiornata versione POD 2024/06/01
 
 aggiornata versione POD 2024/06/03
 
+0.84d errori di battitura, 
+
 - aggiunti \label{} fino a piani
 
 Aggiungere immagini:
