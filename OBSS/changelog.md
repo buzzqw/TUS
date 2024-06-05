@@ -498,7 +498,9 @@ aggiornata versione POD 2024/06/03
 
 aggiornata versione POD 2024/06/04
 
-0.84e aggiunto anche attacco sornelia in lista armi, corretto tempo di lancio incantesimo a sulian, dettagli su consapevolezza, chiarimenti su apprendere nuove compenteze/professioni, aggiornato incantesimo velocita',  
+0.84e aggiunto anche attacco sornelia in lista armi, corretto tempo di lancio incantesimo a sulian, dettagli su consapevolezza, chiarimenti su apprendere nuove compenteze/professioni, aggiornato incantesimo velocita'
+
+aggiornata versione POD 2024/06/05  
 
 - aggiunti \label{} fino a piani
 
