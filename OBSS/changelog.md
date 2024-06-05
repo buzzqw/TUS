@@ -502,7 +502,7 @@ aggiornata versione POD 2024/06/04
 
 aggiornata versione POD 2024/06/05  
 
-0.84f aggiunto oggetto ad elenco equipaggiameneto, rilettura fino a combattimento sociale, 
+0.84f aggiunto oggetto ad elenco equipaggiameneto, rilettura fino a combattimento sociale, dettagli su iniziativa, 
 
 - aggiunti \label{} fino a piani
 
