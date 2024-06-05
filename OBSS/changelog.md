@@ -359,7 +359,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.78a aggiornata versione POD
 
-0.78b chiarimenti su salire gradini
+**0.78b** chiarimenti su salire gradini
 
 **0.79** pubblicata versione 0.78b, aggiornamento per pod
 
@@ -389,7 +389,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 **0.80** aggiornata copertina, cambiato peso razioni secche, chiarimenti su uso bandoliera, rivisto layout indici, metodo aggiuntivo per bere pozioni generiche, aggiunto incantesimo Palla di fango di Eithne, chiarimenti su sfondare e rompere oggetti, controllati valori per sfondare ed entrare, rilettura pericoli ambientali, allineata gestione soffocare ed affogare, corretti arrotondamenti piedi metri, allineate dimensioni mostro, uniformata portata
 
-0.80 aggiornata versione POD
+**0.80** aggiornata versione POD
 
 0.80a aggiunte due citazioni di Seneca, migliorie al layout, minute su oggetti maledetti, cambiato nome linguaggio Necril in Exspiram - Acquan in Aquar, Arian in Ictum - Terran in Tremus per ispirazione dagli equivalenti latini, chiarimenti su variante iniziativa, chiarimenti su iniziativa, aggiunto successo critico e fallimento critico al tiro salvezza di onda rovente, modificato critico magico per spruzzo colorato, chiarimenti minori su portata, corretto esempio magia selvaggia, aggiornato uomo albero
 
@@ -414,7 +414,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 **0.81** aggiornata copertina, chiarimenti su scudo alzato, aggiornato mostro tarrasque, aggiunto sacco a pelo, aggiornato capitolo Fanghiglie, Muffe e Funghi, aggiornata descrizione magia lontana, chiarimenti su sacrificio magico, dettagli su malattie, 
 
-0.81 aggiornata versione POD
+**0.81** aggiornata versione POD
 
 0.81a chiarimenti su spingere un carro, chiarimenti su nuotare,  aggiunto regolamento opzionale su quando si beve troppo, chiarimenti su afferrato e bloccato, chiarimenti su intralciato, combattere in luce fioca da -2 al colpire
 
@@ -458,7 +458,7 @@ aggiornata versione POD 2024/02/18
 
 aggiornata versione POD 2024/02/19
 
-0.83 Layout, aggiunti requisiti a specialista - stai giu', corretto esempio tups lancia un fulmine, aggiornata lista armi doppie
+**0.83** Layout, aggiunti requisiti a specialista - stai giu', corretto esempio tups lancia un fulmine, aggiornata lista armi doppie
 
 aggiornata versione POD 2024/03/13
 
@@ -470,7 +470,7 @@ aggiornata versione POD 2024/04/11
 
 aggiornata versione POD 2024/04/30
 
-0.84 e' possibile attribuire il punto di competenze attive a quelle di base in rapporto 1 a 4, aggiornata lista scudo, aggiunta liste armature, aggiunte mappe di Curyan e Tiya, aggiunti riferimenti ad autore mappe
+**0.84** e' possibile attribuire il punto di competenze attive a quelle di base in rapporto 1 a 4, aggiornata lista scudo, aggiunta liste armature, aggiunte mappe di Curyan e Tiya, aggiunti riferimenti ad autore mappe
 
 aggiornata versione POD 2024/05/07
 
@@ -486,11 +486,11 @@ aggiornata versione POD 2024/05/22
 
 aggiornata versione POD 2024/05/31
 
-0.84c aggiornato tool compilazione, dettagli su disattivare trappole magiche con dissolvi magia
+0.84c aggiornato tool compilazione adesso nel POD le mappe sono a massima qualita', dettagli su disattivare trappole magiche con dissolvi magia
 
 aggiornata versione POD 2024/06/01
 
-0.84d chiarimenti ulteriori nell'esempio Tups nel tunnel, aggiornata difficolta' incantesimi, 
+0.84d chiarimenti ulteriori nell'esempio Tups nel tunnel, aggiornata difficolta' incantesimi
 
 aggiornata versione POD 2024/06/03
 
@@ -501,6 +501,8 @@ aggiornata versione POD 2024/06/04
 0.84e aggiunto anche attacco sornelia in lista armi, corretto tempo di lancio incantesimo a sulian, dettagli su consapevolezza, chiarimenti su apprendere nuove compenteze/professioni, aggiornato incantesimo velocita'
 
 aggiornata versione POD 2024/06/05  
+
+0.84f aggiunto oggetto ad elenco equipaggiameneto, rilettura fino a combattimento sociale, 
 
 - aggiunti \label{} fino a piani
 
