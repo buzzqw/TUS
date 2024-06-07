@@ -510,7 +510,7 @@ aggiornata versione POD 2024/06/06
 
 aggiornata versione POD 2024/06/07
 
-0.84h
+0.84h 
 
 
 - aggiunti \label{} fino a piani
