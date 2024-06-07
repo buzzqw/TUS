@@ -508,6 +508,9 @@ aggiornata versione POD 2024/06/06
 
 0.84g aggiornato Prendere la Mira, chiarimenti su durata Maestria di Combattimento, Usare un'arma da lancio sotto minaccia, chiarimenti su cavalcature, dettagli su invisublita' in acqua, aggiornato bonus comuni lista d'armi a punteggio 14, rimossi riferimenti ad azioni gratuite, ricontrollate e scritte meglio liste armi per tipologia
 
+aggiornata versione POD 2024/06/07
+
+0.84h
 
 
 - aggiunti \label{} fino a piani
