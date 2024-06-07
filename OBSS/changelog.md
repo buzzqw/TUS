@@ -504,6 +504,12 @@ aggiornata versione POD 2024/06/05
 
 0.84f aggiunto oggetto ad elenco equipaggiameneto, rilettura fino a combattimento sociale, dettagli su iniziativa, corretto riferimento a tiro per colpire con incantesimo in combattimento, aggiornata Maestria del combattimento
 
+aggiornata versione POD 2024/06/06
+
+0.84g aggiornato Prendere la Mira, chiarimenti su durata Maestria di Combattimento, Usare un'arma da lancio sotto minaccia, chiarimenti su cavalcature, dettagli su invisublita' in acqua, aggiornato bonus comuni lista d'armi a punteggio 14, rimossi riferimenti ad azioni gratuite, ricontrollate e scritte meglio liste armi per tipologia
+
+
+
 - aggiunti \label{} fino a piani
 
 Aggiungere immagini:

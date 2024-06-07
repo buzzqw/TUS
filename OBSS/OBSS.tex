@@ -135,7 +135,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.84f} \fontsize{10}{12}\selectfont
+\def \versione {0.84g} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
@@ -1309,7 +1309,7 @@ Un Punto Fato si usa come Azione Immediata o di Reazione ed il personaggio può 
 
 - negare un Tiro Critico d'arma subito. 1 Punto Fato\\
 
-Usando tutti i Punti Fato a disposizione è possibile ritirare una prova, accettando solo il nuovo risultato ottenuto. Azione gratuita.
+Usando tutti i Punti Fato a disposizione è possibile ritirare una prova, accettando solo il nuovo risultato ottenuto. Non usa Azioni.
 
 \subsection*{Opzionale - Punti Chaos}\index{Opzionale - Punti Chaos}
 
@@ -2875,7 +2875,7 @@ Se non specificato diversamente un oggetto o Abilità che prevede un certo numer
 %Un vero uomo d'azione vede subito dinanzi a sé tante cose da fare che il %lavoro non gli mancherà mai e riuscirà. (Fëdor Dostoevskij)
 %} \end{enfasi}\end{changemargin}\medskip
 
-Un personaggio può eseguire fino a 3 Azioni, 1 Azione Immediata ed 1 Azione di Reazione per round.
+Un personaggio può eseguire fino a 3 Azioni, 1 Azione Immediata, ed 1 Azione di Reazione per Round.
 
 Se \textbf{nel round} del \textbf{tiro dell'iniziativa} il personaggio nella prova stessa ha tirato un \textbf{successo critico}, due volte 6, potrà usare una Azione di Reazione od Immediata in più, se ha tirato almeno \textbf{due successi critici} la sua grande reattività gli permette di eseguire una Azione in più.\index{Critico nell'Iniziativa}. Se invece tira un \textbf{fallimento critico}  l'estrema lentezza gli impedirà di usare la Reazione o Azione Immediata, se tira tre 1 farà una Azione in meno.\index{Fallimento critico nell'iniziativa}\index{Iniziativa, critico}
 
@@ -3694,7 +3694,7 @@ Viceversa può prendere un -2 Difesa per alzare di +1 il Tiro per Colpire e quin
 
 Non si può togliere/aggiungere più di Competenza Armi/4 al Tiro per Colpire/Difesa, migliorare Difesa o TC non consuma Azioni. 
 
-Puoi invece usare una Azione per preparati meglio ai successivi attacchi degli avversari. Fino all'inizio del tuo prossimo round hai un +2 alla Difesa.
+Puoi invece usare una Azione per preparati meglio ai successivi attacchi degli avversari. Fino alla fine del tuo prossimo round hai un +2 alla Difesa.
 
 \subsubsection{Colpo Preciso} \index{Colpo Preciso}\label{colpopreciso}
 
@@ -3702,17 +3702,17 @@ il giocatore, usando 2 Azioni, effettua un solo attacco (e non deve averne fatti
 
 \subsubsection{Prendere la Mira (cecchino)} \index{Prendere la Mira (cecchino)}\label{cecchino}
 
-dedichi 2 Azioni a round a prendere la mira. Hai un bonus al Tiro per Colpire pari a +1 il primo round, +3 il secondo round ed infine nel terzo e ultimo round +5. Il colpo va scagliato entro la fine del terzo round.
+dedichi 2 Azioni a round a prendere la mira contro un obiettivo. Hai un bonus al Tiro per Colpire pari a +1 il primo round, +2 il secondo round ed infine nel terzo e ultimo round di Prendere la Mira +4. 
 
 Non puoi usare Azioni di Movimento mentre prendi la mira.
 
 \subsubsection{Usare un'arma da lancio mirando ad un avversario impegnato in combattimento} \index{Arma da lancio contro avversario impegnato in combattimento}\label{usarearmalancioinmischia}
 
-non è facile prendere la mira corretta e non colpire il proprio compagno, hai un -1d6 al Tiro per Colpire. Il bonus si annulla se c'è una differenza di 2 o più taglie tra avversario e compagno.
+non è facile prendere la mira corretta e non colpire qualcun'altro, hai un -1d6 al Tiro per Colpire. Il bonus si annulla se c'è una differenza di 2 o più taglie tra le creature coinvolte.
 
 \subsubsection{Usare un'arma da lancio sotto minaccia} \index{Usare un'arma da lancio sotto minaccia}\label{usarearmalanciosottominaccia}
 
-usare un'arma da lancio come arco, balestra o pugnale (che si vuole lanciare) mentre si è minacciati in mischia impone la negazione del bonus della Destrezza alla Difesa ed il Tiro per Colpire ha un -1d6.
+usare un'arma da lancio come arco, balestra o pugnale (che si vuole lanciare) mentre si è minacciati in mischia impone una pernalita' di -1d6 al Tiro per Colpire.
 
 \subsubsection{Arma troppo grande}\index{Arma troppo grande} \label{armatroppogrande}
 
@@ -3809,7 +3809,7 @@ Chi vince può spingere o tirare l'avversario fino a 0.5 metri nella direzione c
 
 \subsubsection{Afferrare un avversario*}\index{Afferrare un avversario}\label{afferrareunavversario}
 
-è una Prova Contrapposta di Forza. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza. Se chi riesce nella manovra ottiene un successo critico si considera l'avversario \hyperlink{bloccato}{Bloccato}.
+è una Prova Contrapposta di Forza. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza. Se chi riesce nella manovra ottiene un successo critico si considera che  abbia \hyperlink{bloccato}{Bloccato} l'avversario.
 
 Costa 2 Azioni fare e mantenere e liberarsi dalla presa. Si considera che chi afferra si anche afferrato ed abbia almeno una mano occupata nell'afferrare.
 Muovere una creatura afferrata richiede \hyperlink{spingereavversario}{Spingere un avversario}.
@@ -3865,8 +3865,6 @@ Una cavalcatura ha 2 Azioni e di norma sono usate per spostarsi o per reagire ed
 
 Una cavalcatura agisce nel tuo round e sei tu a decidere quando esegue le sue Azioni rispetto alle tue. Non tira l'iniziativa, usa la tua.
 
-Per fare muovere, attaccare, difendersi, una cavalcatura devi usare una tua Azione.
-
 Gli attacchi verso un personaggio a cavallo (o cavalcatura in genere) se non dichiarati diversamente mirano al cavaliere e non al cavallo.
 
 
@@ -3898,9 +3896,9 @@ Mentre sei in sella, hai due scelte: dai ordini alla tua cavalcatura oppure gli 
 
 Cavalcature particolarmente intelligenti tendono a privilegiare l'autonomia di azione piuttosto che essere comandati.
 
-Puoi controllare una cavalcatura solo se questa è stata addestrata ad accettare un cavaliere. Si presume che cavalli addestrati, muli e simili creature abbiano ricevuto tale addestramento.
+Puoi controllare una cavalcatura solo se questa è stata addestrata ad accettare un cavaliere. Si presume che cavalli addestrati, da guerra, muli e simili creature abbiano ricevuto tale addestramento.
 
-Spendendo 1 Azione puoi fare eseguire 2 di queste Azioni alla cavalcatura: Muoversi, Attaccare, Disingaggiare. 
+Spendendo 1 tua Azione puoi fare eseguire 2 di queste Azioni alla cavalcatura: Muoversi, Attaccare, Disingaggiare. 
 
 Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferisce a discapito delle indicazioni del cavaliere. Potrebbe fuggire dal combattimento, lanciarsi all'attacco e divorare un nemico ferito gravemente, o agire in qualche altro modo contro la volontà di chi la cavalca.
 
@@ -3955,7 +3953,7 @@ Può essere il caso di un arciere in piedi dietro un muretto di 1 metro.
 \item
 Se l'obiettivo ha \textbf{meno della metà} (ma almeno un terzo) della superficie \textbf{visibile} allora la copertura si definisce \textbf{media}, ovvero ha +4 alla Difesa. Può essere il caso di una creatura dietro un altra creatura di 2 taglie più grande.
 
-Può essere il caso di un nemico armato di balestra che si sporge quel tanto per tenere appoggiata la balestra al muretto e sparare (spalle, braccia e testa visibili).
+Può essere il caso di un nemico armato di balestra che si sporge quel tanto per tenere appoggiata la balestra al muretto e sparare (petto, spalle, braccia e testa visibili).
 
 \item
 Se l'obiettivo si sa dove è ma \textbf{si nasconde completamente} affacciandosi solo per controllare  o tirare una freccia ogni tanto, dietro ad un muro, finestra, porta, tavolo, una creatura più grande di lui (almeno 3 taglie).. allora la copertura si definisce \textbf{completa}, ovvero ha +8 alla Difesa.
@@ -4019,7 +4017,7 @@ Qualcuno potrebbe spargere su un oggetto invisibile della farina per tenere trac
 
 Le creature invisibili lasciano impronte. Le loro tracce possono essere seguite senza problemi. Impronte su sabbia, fango o altre superfici soffici possono dare ai nemici indicazioni sulla posizione della creatura invisibile rendendola individuata.
 
-Una creatura invisibile nell'acqua muove il liquido, rivelando la propria posizione. La creatura invisibile rimane comunque difficile da colpire e gode dei benefici di una copertura leggera (+2 alla Difesa).
+Una creatura invisibile nell'acqua muove il liquido, rivelando la propria posizione. La creatura invisibile rimane comunque difficile da colpire e gode dei benefici di una copertura media (+4 alla Difesa).
 
 Una torcia accesa invisibile emana comunque luce (così come un oggetto invisibile soggetto ad una magia di luce).
 
@@ -4063,7 +4061,7 @@ Tutte le Liste d'Armi concedono, se non scritto diversamente, questi vantaggi cu
 
 \item 10 punti: se colpisci con almeno due attacchi il medesimo avversario nel round, il secondo attacco causa 1 danno critico se non ha generati
 
-\item 14 punti: se colpisci con almeno due attacchi il medesimo avversario nel round puoi usare una Azione Immediata per spostarti di un metro.
+\item 14 punti: se colpisci con almeno due attacchi il medesimo avversario nel round puoi spostarti di un metro senza usare Azioni.
 
 \item 18 punti: quando effettui un Tiro per Colpire consideri anche i 5 per il conteggio dei Critici (ma non ritiri il dado).
 
@@ -4102,13 +4100,13 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 \begin{itemize}
 
-	\item 1 punto: dimezzi il tempo necessario per indossare e togliere un'armatura
-	\item 2 punti: la Difesa concessa dall'armatura aumenta di 1 punto, dormire in armature medie non causa affaticamento
-	\item 3 punti: la Penalità alla Competenza diminuisce di 1 punto, dormire in armature pesanti non causa affaticamento
-	\item 4 punti: la penalità al Movimento diminuisce di 1 metro, la Difesa dell'armatura aumenta di 1 punto
-	\item 5 punti: diminuisci di 1 i Tiri Critici subiti per attacco in mischia, la Penalità alla Competenza diminuiscono di 1 punto, la penalità al Movimento diminuisce di 1 metro
-	\item 6 punti: la diminuzione del Tiro Critico subito si applica anche agli attacchi a distanza. Portare una armatura non obbliga più ad eseguire la Prova di Magia
-	\item 7 punti: annulli la Penalità alla Competenza ed al Movimento
+\item 1 punto: dimezzi il tempo necessario per indossare e togliere un'armatura
+\item 2 punti: la Difesa concessa dall'armatura aumenta di 1 punto, dormire in armature medie non causa affaticamento
+\item 3 punti: la Penalità alla Competenza diminuisce di 1 punto, dormire in armature pesanti non causa affaticamento
+\item 4 punti: la penalità al Movimento diminuisce di 1 metro, la Difesa dell'armatura aumenta di 1 punto
+\item 5 punti: diminuisci di 1 i Tiri Critici subiti per attacco in mischia, la Penalità alla Competenza diminuiscono di 1 punto, la penalità al Movimento diminuisce di 1 metro
+\item 6 punti: la diminuzione del Tiro Critico subito si applica anche agli attacchi a distanza. Portare una armatura non obbliga più ad eseguire la Prova di Magia
+\item 7 punti: annulli la Penalità alla Competenza ed al Movimento
 \end{itemize}
 
 \subsection{Armi Leggere}\index{Armi Leggere} Spada Corta, Mazza leggera, Stocco, Scimitarra, Ascia ad una mano, Pugnale\label{listaarmileggere}
@@ -4128,12 +4126,12 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 \subsection{Armi doppie} \index{Armi doppie} Grande Ascia Doppia, Flagello Doppio, Spada a due lame, Urgrosh\label{listaarmidoppie}
 
 \begin{itemize}
-\item 4 punti: la tua competenza nell'uso di queste armi ti rende estremamente versatile dandoti la possibilità a inizio del tuo round di scegliere se essere difensivo o offensivo aumentando di 1 il Tiro per Colpire o la Difesa. Non costa Azioni.
-\item 5 punti: prendendo -4 al Tiro per Colpire al primo attacco che esegui nel round prendi +4 alla Difesa.
+\item 4 punti: la tua competenza nell'uso di queste armi ti rende estremamente versatile dandoti la possibilità a inizio del tuo round di scegliere se essere difensivo o offensivo aumentando di 1 il Tiro per Colpire o la Difesa fine alla fine del round successivo. Non costa Azioni.
+\item 5 punti: prendendo -4 al Tiro per Colpire al primo attacco che esegui nel round prendi +4 alla Difesa fino alla fine del round successivo.
 \item 7 punti: usare un arma doppia non leggera non cumula il -3 aggiuntivo al Tiro per Colpire.
-\item 9 punti: la tua tecnica non lascia punti scoperti, per ogni Tiro per Colpire andato a segno nel round prendi +2 alla Difesa.
+\item 9 punti: la tua tecnica non lascia punti scoperti, per ogni Tiro per Colpire andato a segno nel round prendi +1 alla Difesa fino alla fine del round successivo.
 \item 11 punti: colpisci vorticosamente con la tua arma. Il primo colpo andato a segno equivale a due colpi andati a segno.
-\item 16 punti: ogni volta che colpisci con un tiro critico puoi portare un colpo con l'altra estremità dell'arma. Questo Tiro per Colpire non può a sua volta causare critici e ha -1d6 al tiro.
+\item 16 punti: ogni volta che colpisci con un tiro critico puoi portare, senza usare Azioni, un colpo con l'altra estremità dell'arma. Questo Tiro per Colpire non può a sua volta causare critici e ha -1d6 al tiro.
 
 \end{itemize}
 
@@ -4146,10 +4144,10 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 \begin{itemize}
 \item 4 punti: il tuo stile assomiglia molto ad una danza. Puoi usare il valore del Carisma o Destrezza al Tiro per Colpire.
 \item 5 punti: puoi usare il punteggio di Intrattenere al posto di Competenza Armi nel Tiro per Colpire.
-\item 7 punti: sai colpire dove fa veramente male. Il primo Colpo Critico somma 2 dadi di arma.
+\item 7 punti: sai colpire dove fa veramente male. Il primo Colpo Critico somma un colpo critico aggiuntivo.
 \item 9 punti: il dado dell'arma aumenta di una categoria.
-\item 11 punti: usando una Reazione puoi cercare di intercettare gli attacchi dell'avversario. Usando una Reazione aggiungi +2 alla Difesa.
-\item 16 punti: la tua danza blocca l'avversario ad affrontarti. Costringi l'avversario in mischia con te ad attaccare solo te fino alla fine del prossimo round. 1 Reazione.
+\item 11 punti: usando una Reazione puoi cercare di intercettare gli attacchi dell'avversario. Usando una Reazione aggiungi +2 alla Difesa fino alla fine del round.
+\item 16 punti: la tua danza blocca l'avversario nell'affrontarti. Costringi l'avversario in mischia con te ad attaccare solo te fino alla fine del prossimo round. 1 Reazione.
 
 \end{itemize}
 
@@ -4165,9 +4163,9 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 \begin{itemize}
 \item 4 punti: puoi eseguire un Colpo di Grazia con il costo di 1 Azione.
-\item 5 punti: il primo colpo critico che esegui sull'avversario somma un colpo critico in aggiunta.
+\item 5 punti: il primo colpo critico che esegui sull'avversario somma un colpo critico aggiuntivo.
 \item 7 punti: aumenti di un grado il dado di danno dell'arma.
-\item 9 punti: il primo colpo critico causa 2 dadi di arma di danno.
+\item 9 punti: il primo colpo critico che esegui sull'avversario somma 2 colpo critico aggiuntivi.
 \item 11 punti: aumenti di un grado il dado di danno dell'arma.
 \item 16 punti: aumenti di un grado il dado di danno dell'arma.
 
@@ -4177,9 +4175,9 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 \begin{itemize}
 \item 4 punti: un avversario inconsapevole se colpito con queste armi (durante il round di sorpresa) deve effettuare un Tiro Salvezza Tempra DC 15 oppure essere Rallentato 1/1r.
-\item 5 punti: se causi un danno critico l'avversario deve fare un Tiro Salvezza su Tempra a DC 13 o essere allentato 1/1r.
+\item 5 punti: per ogni Tiro Critico l'avversario deve fare un Tiro Salvezza su Tempra a DC 13 o essere allentato 1/1r.
 \item 7 punti: raddoppi il tuo bonus di danno dato dalla Forza. Il Tiro Salvezza dell'abilità a 4 punti diventa 19.
-\item 9 punti: se causi un danno critico l'avversario deve fare un Tiro Salvezza su Tempra a DC 17 o essere allentato 1/1r.
+\item 9 punti: per ogni Tiro Critico l'avversario deve fare un Tiro Salvezza su Tempra a DC 17 o essere allentato 1/1r.
 \item 11 punti: la tua arma da stordimento fa 1d6 di danno non letale in più. Il Tiro Salvezza dell'abilità a 4 e 9 punti diventa 23
 \item 16 punti: ogni volta che colpisci con un danno critico un avversario, un compagno in mischia con quell'avversario può usare una Reazione per effettuare un attacco contro di lui.
 
@@ -4187,17 +4185,16 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 \subsection{Armi da Lancio} Ascia ad una mano, Giavellotto, Tridente. Fionda, Pugnale\index{Armi da lancio}\label{listarmitiro}
 
-Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tue armi con tale forza da fare due danni critici ma la precisione ne risente -1d6 al Tiro per Colpire. Costa 2 Azioni.
+Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tue armi con tale forza da fare due danni critici aggiuntivi ma la precisione ne risente -1d6 al Tiro per Colpire. Costa 2 Azioni.
 
 
 
 \begin{itemize}
 \item 4 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +1 al colpire e un +1 ai danni.
-\item 5 punti: il primo colpo critico che esegui sull'avversario somma un colpo critico aggiuntivo.
+\item 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
 \item 7 punti: la tua abilità ti permette di non avere tempi morti dopo il lancio di un arma puoi istantaneamente estrarne un altra senza consumare azioni.
 \item 9 punti: il primo Tiro per Colpire scaglia 2 armi. Parti con un -5 al Tiro per Colpire.
-\item 11 punti: hai -1d6 di penalità alla gittata oltre lo standard.
-
+\item 11 punti: riduci di 1d6 la penalità alla gittata oltre lo standard.
 \item 16 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +4 al colpire e un +4 ai danni.
 \end{itemize}
 
@@ -4205,20 +4202,19 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 \subsection{Armi letali} Katana, Machete\index{Armi letali}\label{listarmiletali}
 
 %\begin{center}
-%	\includegraphics[width=0.6\linewidth]{immagini/katana3.png}
-%	
-%	\emph{Katana}
+%\includegraphics[width=0.6\linewidth]{immagini/katana3.png}
+%
+%\emph{Katana}
 %\end{center}
 
 
 \begin{itemize}
 
 \item 4 punti: contro avversari sorpresi aggiungi al danno la tua Competenza Armi.
-\item 5 punti: il primo colpo critico che esegui sull'avversario somma un colpo critico in aggiunta.
+\item 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpi critico in aggiunta.
 \item 7 punti: aumenti di un grado il dado di danno dell'arma. Se questo porta l'arma ad avere il d8 come dado di danno acquisisce anche EDX pari a 8.
-\item 9 punti: il primo colpo critico che esegui sull'avversario somma due colpi critici in aggiunta.
+\item 9 punti: il primo colpo critico che esegui sull'avversario aggiunge due colpi critici.
 \item 11 punti: guadagni EDX. Lo si applica solo facendo il danno massimo con il dado, se l'arma ha già un EDX (ad esempio perché con il bonus precedente è arrivata ad 1d8 di danno) questo diminuisce di 1.
-
 \item 16 punti: aumenti di un grado il dado di danno dell'arma.
 \end{itemize}
 
@@ -4227,9 +4223,9 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 
 
 \begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/alabarda2.png}
-	
-	\emph{Alabarde}
+\includegraphics[width=0.8\linewidth]{immagini/alabarda2.png}
+
+\emph{Alabarde}
 \end{center}
 
 
@@ -4256,9 +4252,9 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 \begin{itemize}
 
 \item 4 punti: guadagni l'Abilità Tiro rapido.
-\item 5 punti: il primo colpo critico che esegui sull'avversario somma un colpo critico in aggiunta.
+\item 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
 \item 7 punti: ogni Azione che dedichi a mirare, fino ad un massimo di 2, ti concede un +2 a colpire.
-\item 9 punti: il primo colpo critico che esegui sull'avversario somma due colpi critici in aggiunta, non si cumula con il vantaggio al punto 4
+\item 9 punti: il primo Tiro Critico che esegui sull'avversario somma due colpi critici in aggiunta, non si cumula con il vantaggio al punto 5.
 \item 11 punti: il primo colpo a segno contro un avversario somma un colpo critico in aggiunta.
 \item 16 punti: riduci di 1d6 la penalità per tirare oltre la gittata standard.
 
@@ -4268,12 +4264,12 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 \subsection{Lance} \index{Lance}Alabarda, Urgrosh, Lancia da fante, Naginata, Falcione in asta, Lancia, Brandistocco\label{listarmilance}
 
 \begin{itemize}
-\item 4 punti: usata contro una carica od in carica, purché abbia l'abilità Controcarica, fai un danno critico aggiuntivo.
+\item 4 punti: usata contro una carica od in carica, purché abbia l'abilità Controcarica, fai un danno critico aggiuntivo se colpisci.
 \item 5 punti: puoi usarla anche contro avversari a distanza di 1 metro senza penalità.
 \item 7 punti: usata contro una carica od in carica, purché abbia l'abilità Controcarica, fai due danni critici aggiuntivi
 \item 9 punti: Usi 3 Azioni. Fai un Tiro per Colpire a -5 e confronti il risultato con la Difesa di tutte le creature in mischia per valutare se le hai colpite.
 \item 11 punti: la portata della tua lancia diventa 3 metri.
-\item 16 punti: Usi 3 Azioni e fai un unico Tiro per Colpire. Se va a segno causi 3 colpi critici aggiuntivi.
+\item 16 punti: Usi 2 Azioni e fai un unico Tiro per Colpire. Se va a segno causi 3 colpi critici aggiuntivi.
 \end{itemize}
 
 \begin{center}
@@ -4285,16 +4281,16 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 
 
 \begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/mazzafrusto.png}
-	\end{center}
+\includegraphics[width=0.6\linewidth]{immagini/mazzafrusto.png}
+\end{center}
 
 \begin{itemize}
 \item 4 punti: se il Tiro per Colpire va a segno puoi effettuare un ulteriore TC (senza consumare Azioni) a -5 contro un avversario in mischia con te che non sia l'avversario gia' colpito.
-\item 5 punti: se colpisci due volte l'avversario, il secondo Tiro per Colpire genera un danno critico aggiuntivo.
-\item 7 punti: l'impatto dei tuo colpi è tale da stordire i nemici. Se colpisci l'avversario con un critico questo subirà -4 Difesa fino alla fine del tuo prossimo round.
-\item 9 punti: puoi usare una Reazione ed usare la tua arma per cercare di deviare un Tiro per Colpire su un altro compagno a distanza di mischia da te. Il compagno prende +2 alla Difesa
+\item 5 punti: se colpisci due volte l'avversario nel round, il secondo Tiro per Colpire genera un danno critico aggiuntivo.
+\item 7 punti: l'impatto dei tuo colpi è tale da stordire i nemici. Se colpisci l'avversario con un Tiro Critico questo subirà -4 Difesa fino alla fine del tuo prossimo round.
+\item 9 punti: puoi usare una Reazione ed usare la tua arma per cercare di deviare un Tiro per Colpire a te indirizzato su una creatura a distanza di mischia da te. 
 \item 11 punti: la precisione ed abilità nel roteare la tua arma è tale da confondere la difesa del nemico, ignori la protezione (Difesa) data dallo scudo.
-\item 16 punti: puoi usare una Reazione ed usare la tua arma per cercare di deviare un Tiro per Colpire su un altro compagno a distanza di mischia da te. Il compagno prende +4 alla Difesa.
+\item 16 punti: puoi usare una Reazione ed usare la tua arma per cercare di proteggere una creatura in mischia con te. La creatura prende +4 alla Difesa.
 \end{itemize}
 
 \subsection{Pugno Vuoto} Pugni e Calci\index{Pugno Vuoto}\hypertarget{pugnovuoto}{}\label{listarmipugnonudo}
@@ -4326,11 +4322,11 @@ Consultate \hyperlink{equivalenzemagiche}{Vulnerabilità, Resistenza e Immunità
 \item 4 punti: sei diventato cosi abile che puoi controllare la forza dei tuo colpi, puoi fare danno non letale senza penalità al colpire (altrimenti -1d6 al Tiro per Colpire).
 
 Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (non cumulabile con Colpi Potenti).
-\item 5 punti: il primo colpo critico che esegui sull'avversario somma un colpo critico aggiuntivo.
-\item 7 punti: i tuo colpi frastornano il nemico. Ogni colpo critico andato a segno abbassa la Difesa di 1 punto. Durata 1 minuto a partire dal primo colpo critico andato a segno.
+\item 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
+\item 7 punti: i tuo colpi frastornano il nemico. Ogni Tiro Critico andato a segno abbassa la Difesa di 1 punto. Durata 1 minuto a partire dal primo colpo critico andato a segno.
 \item 9 punti: aumenti di un grado il dado di danno dell'arma.
-\item 11 punti: il primo colpo critico che esegui sull'avversario somma due colpi critici aggiuntivi. Non si cumula con il vantaggio al punto 5.
-\item 16 punti: usando una Reazione ogni volta che colpisci con un tiro critico puoi effettuare un altro Tiro per Colpire con lo stesso punteggio contro diverso avversario purché in distanza di mischia.
+\item 11 punti: il primo Tiro Critico che esegui sull'avversario somma due colpi critici aggiuntivi. Non si cumula con il vantaggio al punto 5.
+\item 16 punti: usando una Reazione ogni volta che colpisci con un Tiro Critico puoi effettuare un altro Tiro per Colpire con lo stesso punteggio contro diverso avversario purché in distanza di mischia.
 
 \end{itemize}
 
@@ -4351,13 +4347,13 @@ La tua tecnica mescola efficacemente difesa e attacco. Puoi lanciare il tuo scud
 \item 4 punti: la penalità al Tiro per Colpire diminuisce di 1.
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/scudotorre.png}
-	\emph{Henry Justice Ford. Scudo Pesante}
+\includegraphics[width=0.9\linewidth]{immagini/scudotorre.png}
+\emph{Henry Justice Ford. Scudo Pesante}
 \end{center}
 
 \item 5 punti: aumenta di 1 la categoria di danno dello scudo (1d4 - 1d6 - 1d8 - 1d10 - 2d6 - 2d8 - 2d10) ed ogni 4 punti ulteriori in lista (9,13,17..). 
-\item 8 punti: ogni alleato adiacente (entro 1 metro) a te ha un +1 Difesa.  Puoi lanciare lo scudo per difendere un compagno garantendogli +2 alla Difesa, da usare come reazione. Lo scudo cade a terra dove hai difeso il compagno. Puoi lanciare il tuo scudo con una gittata di 9 metri. La penalità Competenza Magica data dallo scudo diminuisce di un dado.
-\item 12 punti: puoi lanciare il tuo scudo come fosse un arma con gittata 12 metri. Se ottieni un tiro critico nel lancio dello scudo una volta che ha colpito torna nelle tue mani a fine round. Ogni alleato adiacente (entro 1 metro) a te ha un +2 Difesa
+\item 8 punti: ogni alleato adiacente (entro 1 metro) a te ha un +1 Difesa. Puoi lanciare lo scudo per difendere un compagno garantendogli +2 alla Difesa, da usare come reazione. Lo scudo cade a terra dove hai difeso il compagno. Puoi lanciare il tuo scudo con una gittata di 9 metri. La penalità Competenza Magica data dallo scudo diminuisce di un dado.
+\item 12 punti: puoi lanciare il tuo scudo come fosse un arma con gittata 12 metri. Se colpisci ed ottieni un Tiro Critico nel lancio dello scudo questo torna nelle tue mani a fine round. Ogni alleato adiacente (entro 1 metro) a te ha un +2 Difesa
 \item 16 punti: se un avversario esegue almeno tue tiri per colpire, mancandoti, nel round guadagni un attacco di scudo contro di lui. Costa 1 Reazione.
 \item 18 punti: lo scudo lanciato ha una gittata di 18 metri e torna nelle tue mani, se non impossibilitato. Questo ti permette di effettuare attacchi multipli anche da lancio con il medesimo scudo. Puoi lanciare lo scudo per difendere un compagno garantendogli +4 alla Difesa, da usare come reazione. Lo scudo cade a terra dove hai difeso il compagno. 
 
@@ -4378,11 +4374,11 @@ Chiamate \emph{Asce} nella Tabella: Lista della Armi
 \begin{itemize}
 
 \item 4 punti: la furia dei tuoi attacchi è tale che guadagni un +2 al danno sul colpo.
-\item 5 punti: il primo colpo critico che esegui sull'avversario somma un colpo critico aggiuntivo.
+\item 5 punti: il primo Triro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
 \item 7 punti: le ferite che provochi sono cosi profonde che causi Sanguinamento. Ogni tuo attacco andato a segno aumenta di 1 il sanguinamento fino ad un massimo di Sanguinamento 5.
 \item 9 punti: ogni colpo critico che provochi aumenta il Sanguinamento di 2, fino ad un massimo di 10.
-\item 11 punti: le ferite che provochi sono cosi profonde che causi molto Sanguinamento. Non il valore di Sanguinamento massimo sale a 15.
-\item 16 punti: consumi 3 Azioni, effettui un singolo Tiro per Colpire che confronti contro tutte le creature in un cono pari al tuo movimento per capire se le hai colpite.
+\item 11 punti: le ferite che provochi sono cosi profonde che causi molto Sanguinamento. Il valore di Sanguinamento massimo sale a 15.
+\item 16 punti: consumi 3 Azioni, effettui un singolo Tiro per Colpire che confronti contro tutte le creature in un cono pari al tuo movimento per capire se le hai colpite. Al termine dell'attacco sei in fondo al cono.
 
 \end{itemize}
 
@@ -4391,11 +4387,11 @@ Chiamate \emph{Asce} nella Tabella: Lista della Armi
 \begin{itemize}
 
 \item 4 punti: la tua maestria nella tecnica della spada ti conferisce +1 a danno e Tiro per Colpire.
-\item 5 punti: il primo colpo critico che esegui sull'avversario somma un colpo critico aggiuntivo.
+\item 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
 \item 7 punti: la tua maestria nella tecnica della spada ti conferisce +2 a danno e Tiro per Colpire.
 \item 9 punti: il primo colpo andato a segno nel round somma un colpo critico.
 \item 12 punti: hai raggiunto l'apice della maestria con la spada i tuo colpi sono precisi e difficili da prevedere ottieni +1 a danno, Tiro per Colpire e Difesa. L'EDX della spada se presente si abbassa di 1.
-\item 16 punti: la tua maestria nella tecnica della spada ti conferisce +3 a danno e Tiro per Colpire.
+\item 16 punti: il dado di danno della tua spada aumenta di una categoria.
 
 La mano che non tiene la spada deve essere libera.
 
@@ -4416,7 +4412,7 @@ La mano che non tiene la spada deve essere libera.
 \item 5 punti: se vai a segno con due colpi consecutivi con la spada puoi effettuare un Tiro per Colpire, senza cumulo ulteriore di penalità da multiattacco, con lo scudo consumando una Reazione.
 \item 7 punti: la tua maestria nella tecnica della spada e scudo ti conferisce +2 alla Difesa ed al Tiro per Colpire.
 \item 9 punti:  usando una Reazione puoi usare lo scudo per proteggere una creatura in mischia con te. La sua Difesa aumenta di 2 punti.
-\item 11 punti: hai raggiunto l'apice della maestria con la spada e scudo, la tua capacità ti conferisce +2 alla Difesa e Tiro per Colpire.
+\item 11 punti: il dado di danno della tua spada aumenta di una categoria.
 \item 16 punti: sommi il valore di Difesa dello Scudo ai Tiri Salvezza su Riflessi.
 
 \end{itemize}
@@ -4863,8 +4859,8 @@ le penalità di tirare frecce da cavallo diminuisce di 2 ogni volta che prendi q
 Le penalità standard sono -4 e -6 a seconda che si trotti (movimento x2) o galoppi (movimento x3)
 
 %\begin{center}
-%	\includegraphics[width=0.9\linewidth]{immagini/horsearcher.png}
-%	\emph{Arcere Assiro}
+%\includegraphics[width=0.9\linewidth]{immagini/horsearcher.png}
+%\emph{Arcere Assiro}
 %\end{center}
 
 
@@ -4909,8 +4905,8 @@ La prima volta che prendi questa Abilità aumenti di 3 i punti Magia a disposizi
 Le volte successive aumenti i Punti Magia di un valore pari all'aumento precedente +1.
 
 %\begin{center}
-%	\includegraphics[width=0.9\linewidth]{immagini/Historia_Mundi_Naturalis.png}
-%	\emph{Woodcut illustration from an edition of Pliny the Elder's Naturalis Historia (1582)}
+%\includegraphics[width=0.9\linewidth]{immagini/Historia_Mundi_Naturalis.png}
+%\emph{Woodcut illustration from an edition of Pliny the Elder's Naturalis Historia (1582)}
 %\end{center}
 
 \subsection*{Batteria Estesa}\index{Batteria Estesa}\label{batteriaestesa}
@@ -4965,9 +4961,9 @@ All'avversario è concesso un Tiro Salvezza Tempra con DC pari al Tiro per Colpi
 
 
 \begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/teseo.png}
+\includegraphics[width=0.8\linewidth]{immagini/teseo.png}
 
-	\emph{Henry Justice Ford - Colpo alle spalle!}
+\emph{Henry Justice Ford - Colpo alle spalle!}
 \end{center}
 
 \subsection*{Colpo Mortale}\index{Colpo Mortale}\label{colpomortale}
@@ -5060,9 +5056,9 @@ Tramite questa Abilità l'incantatore è in grado di infondere un incantesimo fi
 Tramite questa Abilità l'incantatore è in grado di infondere un'incantesimo fino a livello 5 in un oggetto magico.
 
 \begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/oggettimagiciuomo.png}
-	
-	\emph{Henry Purcell - King Arthur}
+\includegraphics[width=0.8\linewidth]{immagini/oggettimagiciuomo.png}
+
+\emph{Henry Purcell - King Arthur}
 \end{center}
 
 \subsection*{Creare Oggetti Magici Meravigliosi}\index{Creare Oggetti Magici Meravigliosi}\label{creaoggettimagicimeravigliosi}
@@ -5239,9 +5235,9 @@ La \textbf{quarta volta} che prendi questa Abilità consideri il totale dei dadi
 Il bonus sono cumulativi ma riferiti a riprendere sempre la stessa Competenza. Non è usabile su Consapevolezza (vedi Percettivo).
 
 \begin{center}
-	\includegraphics[width=0.75\linewidth]{immagini/distillare.png}
-	
-	\emph{The Alchemist Discovering Phosphorus. Joseph Wright of Derby (1771-1795)}
+\includegraphics[width=0.75\linewidth]{immagini/distillare.png}
+
+\emph{The Alchemist Discovering Phosphorus. Joseph Wright of Derby (1771-1795)}
 \end{center}
 
 \subsection*{Estrazione rapida}\index{Estrazione rapida}\label{estrazionerapida}
@@ -5256,7 +5252,7 @@ Puoi estrarre un arma per te non grande con il costo di una Reazione.
 
 La \textbf{seconda volta} che prendi questa Abilità puoi riporre l'arma attuale ed estrarne un'altra come Azione di Movimento.
 
-La \textbf{terza volta} che prendi questa Abilità puoi riporre l'arma attuale ed estrarne un'altra come Azione gratuita.
+La \textbf{terza volta} che prendi questa Abilità puoi riporre l'arma attuale ed estrarne un'altra senza usare azioni.
 
 \subsection*{Fare Infuriare}\index{Fare Infuriare}\label{fareinfuriare}
 
@@ -5395,9 +5391,9 @@ Qualsiasi prova di Acrobatica che coinvolga il maneggiare oggetti o l'equilibrio
 Puoi lanciare un secondo pugnale come azione immediata in seguito all'azione di attacco di lancio di un pugnale, questo pugnale ha un -3 al Tiro per Colpire. Un eventuale terzo pugnale lanciato ha la normale penalità di -5 (e -10.. e così via).
 
 %\begin{center}
-%	\includegraphics[width=0.9\linewidth]{immagini/Early_Egyptian_juggling_art.png}
+%\includegraphics[width=0.9\linewidth]{immagini/Early_Egyptian_juggling_art.png}
 %
-%	\emph{This ancient wall painting appears to depict jugglers.}
+%\emph{This ancient wall painting appears to depict jugglers.}
 %\end{center}
 
 \subsection*{Guerriero della Magia}\index{Guerriero della Magia}\label{guerrierodellamagia}
@@ -5560,9 +5556,9 @@ L'energia proviene dal tuo corpo ed influenza te stesso e due o più creature en
 
 
 \begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/Portrait_of_V_Greatrakesv2.png}
+\includegraphics[width=0.65\linewidth]{immagini/Portrait_of_V_Greatrakesv2.png}
 
-	\emph{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
+\emph{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
 \end{center}
 
 
@@ -5741,9 +5737,9 @@ La \textbf{quarta volta} che prendi questa Abilità aumenti di una taglia (P > M
 
 
 \begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/elcolosso.png}
-	
-	\emph{The Colossus (also known as The Giant), is known in Spanish as El Coloso.}
+\includegraphics[width=0.65\linewidth]{immagini/elcolosso.png}
+
+\emph{The Colossus (also known as The Giant), is known in Spanish as El Coloso.}
 \end{center}
 
 
@@ -5829,13 +5825,13 @@ Ogni ulteriori \textbf{due volte} che prendi l'Abilità il tuo movimento aumenta
 E' la capacità di non essere rallentati in un ambiente ostile. E' necessario dichiarare su quale ambiente si prende l'Abilità. In questi ambienti il terreno naturale non è difficile. Finché ci si muove nell'ambiente scelto si ha un +1 alle prove di Iniziativa.\\
 
 \begin{tabular}{l|l}
-	\textbf{Ambiente} & \textbf{Ambiente}\\
-	\toprule
-	Giungla & Aquatico \& Costale\\
-	Palude & Collina \& Foresta \\
-	Pianura & Desertico \\
-	Montagna & Ghiacciai \& Tundra \\
-	Urbano& Sotterraneo \\
+\textbf{Ambiente} & \textbf{Ambiente}\\
+\toprule
+Giungla & Aquatico \& Costale\\
+Palude & Collina \& Foresta \\
+Pianura & Desertico \\
+Montagna & Ghiacciai \& Tundra \\
+Urbano& Sotterraneo \\
 \end{tabular}\\
 
 Ogni qual volta si prende nuovamente questa Abilità si sceglie un ambiente diverso e si aggiunge al precedente o ci si specializza sullo stesso.\\
@@ -6019,9 +6015,9 @@ La \textbf{seconda volta}, requisito Competenza Magica 1, che prendi l'Abilità 
 
 
 %\begin{center}
-%	\includegraphics[width=0.55\linewidth]{immagini/streghegoya.png}
+%\includegraphics[width=0.55\linewidth]{immagini/streghegoya.png}
 %
-%	\emph{Sabba delle Streghe (Goya, 1798)}
+%\emph{Sabba delle Streghe (Goya, 1798)}
 %\end{center}
 
 \subsection*{Riflessi fulminei}\index{Riflessi fulminei}\label{riflessifulminei}
@@ -6059,7 +6055,7 @@ Il tuo interesse e connessione con la magia non ha eguali. Puoi conoscere un inc
 L'Abilità può essere presa nuovamente purché il valore di Competenza Magica sia almeno 4 volte le volte prese questa Abilità. Quindi con valore minimo di Competenza Magica 4, 8, 12..
 
 \begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/turning-undead-six.png}
+\includegraphics[width=0.6\linewidth]{immagini/turning-undead-six.png}
 \end{center}
 
 \subsection*{Scacciare i non morti}\index{Scacciare i non morti}\label{scacciarenonmorti}
@@ -6250,7 +6246,7 @@ Il tuo dardo da balestra aumenta di una taglia di danno (1d6>1d8>1d10>2d6)
 Guadagni un +1 colpire e +1 al danno ed al Tiro per Colpire, con armi da lancio, archi o balestre, con bersagli entro 9 metri.
 
 %\begin{center}
-%	\includegraphics[width=0.7\linewidth]{immagini/kenilguerriero.png}
+%\includegraphics[width=0.7\linewidth]{immagini/kenilguerriero.png}
 %\end{center}
 
 \subsection*{Tiro rapido}\index{Tiro rapido}\label{tirorapido}
@@ -6384,7 +6380,7 @@ Queste sono suggerimenti per facilitare la costruzione di un personaggio per chi
 
 
 \begin{flushleft}
-	\subsubsection*{Guerriero}
+\subsubsection*{Guerriero}
 
 Allungo\\
 Arma Focalizzata\\
@@ -6596,12 +6592,12 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 \toprule
 Civetta &  +2 alle prove di Arcana\\
 Corvo &  +2 alle prove di Intimidire\\
-\emph{Dobi}		&  +2 al Tiro Salvezza vs Ammaliamento\\
+\emph{Dobi}&  +2 al Tiro Salvezza vs Ammaliamento\\
 Donnola &  +1 alle prove su Intelligenza\\
 Falco &  +2 su Consapevolezza sulla vista\\
 Gatto &  +2 alle prove di Muoversi Silenziosamente\\
 Gufo  &  +2 su Consapevolezza sul udito\\
-Lontra 	  &  +2 alle prove di Nuotare\\
+Lontra   &  +2 alle prove di Nuotare\\
 Lucertola &  +2 alle prove di Sopravvivenza\\
 Pipistrello &  +2 alle prove di Acrobatica\\
 Ratto &  +1 al Tiro Salvezza contro Malattie\\
@@ -6623,9 +6619,9 @@ Utilizzare le statistiche base di una creatura della specie del famiglio, apport
 \medskip
 
 \begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/donnadrago2.png}
+\includegraphics[width=0.65\linewidth]{immagini/donnadrago2.png}
 
-	\emph{Henry Justice Ford}
+\emph{Henry Justice Ford}
 \end{center}
 
 \medskip
@@ -33313,7 +33309,7 @@ Una Fenice può resuscitare in questo modo una volta all’anno, se muore prima 
 
 \emph{\textbf{Ali di fiamma}}
 
-La Fenice può trasformare le sue piume in fiamma come Azione di Reazione gratuita. Queste piume infliggono 1d6 danni da fuoco + 1d6 danni da Luce a tutte le creature entro 6 metri all’inizio del suo round.
+La Fenice può trasformare le sue piume in fiamma senza usare Azioni. Queste piume infliggono 1d6 danni da fuoco + 1d6 danni da Luce a tutte le creature entro 6 metri all’inizio del suo round.
 
 \emph{\textbf{Arrabbiato:}} solo leggende narrano di una Fenice arrabbiata e si dice che sia intervenuto direttamente un Patrono.
 
@@ -40536,7 +40532,7 @@ Ambiente: Qualsiasi\\
 Organizzazione: Solitario, coppia, gruppo (3-6) o turba (7-12)\\
 \textbf{Tesoro}: Standard\\
 \textbf{Descrizione}\\
-Un Vampiro può decidere di creare da una vittima una progenie vampirica anziché farne un vampiro completo solo quando usa la sua capacità creare progenie su una creatura umanoide. Questa decisione deve essere presa come azione gratuita appena un vampiro uccide una creatura appropriata usando il morso.
+Un Vampiro può decidere di creare da una vittima una progenie vampirica anziché farne un vampiro completo solo quando usa la sua capacità creare progenie su una creatura umanoide. Questa decisione deve essere presa appena un vampiro uccide una creatura appropriata usando il morso.
 
 \medskip\index[Mostruario]{Vermi delle carne}\textbf{Vermi delle carne}
 
