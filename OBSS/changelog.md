@@ -510,7 +510,7 @@ aggiornata versione POD 2024/06/06
 
 aggiornata versione POD 2024/06/07
 
-0.84h 
+0.84h corretto danno spada larga a due mani, corretto danno naginata, 
 
 
 - aggiunti \label{} fino a piani
