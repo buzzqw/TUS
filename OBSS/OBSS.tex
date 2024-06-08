@@ -135,7 +135,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.84h} \fontsize{10}{12}\selectfont
+\def \versione {0.85} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 140
 
@@ -1690,15 +1690,15 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite,  in a
 \textbf{Azzeccagarbugli}& Valutare&Ingannare&Percepire Emozioni&Diplomazia\\
 \textbf{Bibliotecario}& Natura e Geografia&Tradizioni locali&Religione e Arcana&Storia\\
 \textbf{Boscaiolo}& Usare corda&Natura& Orientamento&Sopravvivenza\\
-\textbf{Cacciatore}& Muoversi silenz.&Seguire tracce&Sopravvivenza& Natura\\
+\textbf{Cacciatore}& Furtività&Seguire tracce&Sopravvivenza& Natura\\
 \textbf{Carovaniere}& Storia o Geografia&Valutare&Cavalcare&Orientamento\\
 \textbf{Teatrante}& Percepire emozioni& Lingue&Intrattenere&Acrobatica\\
 \textbf{Erborista}& Miti&Geografia&Natura&Erboristeria\\
 \textbf{Giocatore di carte}& Percepire Emozioni&Valutare&Intrattenere&Ingannare\\
 \textbf{Guardia}& Percepire Emozioni&Conoscenza Legge&Cavalcare&Intimidire\\
 \textbf{Guida}& Miti&Dungeon&Natura&Geografia\\
-\textbf{Borseggiatore}  & Disattivare congegni&Artista della fuga&Muoversi silenz.&Mani di fata\\
-\textbf{Delinquente}& Sopravvivenza&Cavalcare&Valutare&Nascondersi\\
+\textbf{Borseggiatore}  & Disattivare congegni&Artista della fuga&Furtività&Mani di fata\\
+\textbf{Delinquente}& Sopravvivenza&Cavalcare&Valutare&Furtività\\
 \textbf{Locandiere}& Pronto soccorso&Valutare&Percepire Emozioni&Diplomazia\\
 \textbf{Mercante}& Lingue&Tradizioni Locali&Valutare&Ingannare\\
 \textbf{Minatore}& Usare corde&Valutare&Orientamento&Dungeon\\
@@ -1748,17 +1748,18 @@ Non sottovalutate la scelta della Professione! Non tutto può risolversi con asc
 \begin{tabular}{lllll}
 	\textbf{Forza} & \textbf{Destrezza} & \textbf{Intelligenza} & \textbf{Saggezza} & \textbf{Carisma}\\
 	\toprule
-Arrampicarsi&	Acrobatica&		Arcana&		Cavalcare&		Diplomazia \\
-Atletica&		Artista della fuga 		&Artigianato 			&\emph{Consapevolezza} & Intrattenere \\
-Intimidire&		Mani di fata 			&Conoscenza			&Gestire animali & Ingannare \\
-Nuotare &	Muoversi silenziosamente & Disattivare congegni 	&Natura			& Tradizioni locali \\
-&				Nascondersi				& Erboristeria 			&Orientamento 	&  \\
-&  				Usare corda				& Falsificare	  		&Percepire Emozioni & \\
-&				 						& Valutare				&Pronto soccorso &\\
-&& 																&Seguire tracce	&\\
-&&										 						&Sopravvivenza	&\\
-&&& 																			&\\
+Arrampicarsi& Acrobatica			& Arcana				&Cavalcare				& Diplomazia \\
+Atletica	& Artista della fuga 	& Artigianato 			&\emph{Consapevolezza} 	& Intrattenere \\
+Intimidire	& Furtività 			& Conoscenza			&Gestire animali 		& Ingannare \\
+Nuotare 	& Mani di fata			& Disattivare congegni 	&Natura					& Tradizioni locali \\
+			& Usare corda			& Erboristeria 			&Orientamento 	&  \\
+			& 						& Falsificare	  		&Percepire Emozioni & \\
+			&				 		& Valutare				&Pronto soccorso &\\
+			&						& 						&Seguire tracce	&\\	
+			&						&						&Sopravvivenza	&\\
 \end{tabular}
+
+\medskip
 
 La \textbf{Conoscenza} va esplicitata su quale argomento verte: Dungeon, Legge, Lingue, Piani, Occulto, Architettura ed Ingegneria, Nobiltà ed Araldica, Miti e Leggende, Religione, Storia, Geografia ...
 
@@ -1847,9 +1848,7 @@ La Competenze con un \textbf{*} subiscono le penalità dovute all'\hyperlink{equ
 
 \textbf{Mani di fata* (DES)}: Con questa competenza si può borseggiare, estrarre un'arma nascosta, oppure compiere altre azioni senza essere notati. 1 Azione.
 
-\textbf{Muoversi silenziosamente* (DES)}: Con questa competenza si è in grado di muoversi senza causare rumore. 1 Azione.
-
-\textbf{Nascondersi* (DES)}: Con questa competenza si è in grado di passare inosservati stando fermi.  1 Azione.
+\textbf{Furtività* (DES)}: Con questa competenza si è in grado di muoversi senza causare rumore o nascondersi nelle ombre. 1 Azione.
 
 \textbf{Natura (SAG)}: Con questa competenza si hanno conoscenze di Animali, Fatati, stagioni e cicli, tempo atmosferico, vegetali. 1 Azione.
 
@@ -2362,7 +2361,7 @@ Se vi dicono \emph{convinco la guardia a farci passare} fate fare una prova di I
 
 \subsubsection{Prove di Competenza contrapposte ad un avversario}\index{Prove Contrapposte ad un avversario}
 
-Ci sono situazioni in cui il personaggio deve effettuare una Prova Contrapposta ad un avversario ad esempio muoversi silenziosamente alle spalle di una guardia, rubare dalle tasche del mercante, intimidire l'orchetto per farsi dare indicazioni, spingere un avversario..
+Ci sono situazioni in cui il personaggio deve effettuare una Prova Contrapposta ad un avversario ad esempio Furtività per muoversi silenziosamente alle spalle di una guardia, rubare dalle tasche del mercante, intimidire l'orchetto per farsi dare indicazioni, spingere un avversario..
 
 In questo caso il personaggio effettua la prova indicata la cui \textbf{difficoltà (DC) è pari 10} + il punteggio della Caratteristica + Competenza oppure Tiro Salvezza + modificatori (bonus/penalità) contingenti. 
 
@@ -2376,7 +2375,7 @@ Chi ottiene il valore più alto vince, in caso di parità vince chi ha il valore
 
 - Creare una mappa falsa: Falsificare Vs Valutare
 
-- Nascondersi / Muoversi Silenziosamente : Competenza  Vs Consapevolezza, purché non visto
+- Furtività : Competenza  Vs Consapevolezza, purché non visto
 
 - Intimidire: Intimidire Vs Tiro Salvezza su Volontà (con modificatore Carisma)
 
@@ -2573,19 +2572,15 @@ Se chi tenta la prova di Intimidire fallisce con un fallimento critico subisce l
 
 \medskip
 
-\textbf{Muoversi Silenziosamente} \index{Muoversi Silenziosamente} \emph{Penalità dovuta all'Armatura.}
+\textbf{Furtività} \index{Nascondersi} \emph{Penalità dovuta all'Armatura.}\index{Muoversi silenziosamente}
 
-Il personaggio che si muove silenziosamente è come fosse su terreno difficile. La prova di Muoversi Silenziosamente va contrapposta con la Consapevolezza dell'avversario. La prova si considera fallita se pur non essendo stati sentiti ci si è fatti vedere. Muoversi a piena velocità impone una penalità alla prova di Muoversi Silenziosamente di 2d6.
+Furtività raccoglie le capacità di muoversi silenziosamente, nascondersi nelle ombre, passare non visto e tutte quelle azioni che richiedono di non essere visti o sentiti.
 
-\medskip
+Un personaggio che cerchi di muoversi senza fare rumore tratta il terreno come difficile, provare a muoversi a movimento normale impone una penalità di 2d6 alla prova. Se il terreno è già difficile diventerà estremamente difficile (1/4 del movimento).
 
-\textbf{Nascondersi} \index{Nascondersi} \emph{Penalità dovuta all'Armatura.}
+Per quanto invece cercare di nascondersi sia una attività apparentemente semplice, solo chi è addestrato in Furtività ha maggiori possibilità di non essere notato.
 
-Tutti possono nascondersi ad esempio dietro un muretto, ma solo chi ha la competenza ha maggiori possibilità di non essere notato.
-
-Usando \textbf{1 Azione} puoi cercare di nasconderti dalla vista degli avversari. Non è possibile nascondersi se l'ambiente non lo permette, per quando la tua prova possa essere alta non puoi nasconderti se non c'è qualcosa che ti può nascondere od occultare. Per nascondersi dietro una creatura questa deve essere almeno di 3 taglie superiori alla tua.
-
-Si possono \textbf{combinare le Azioni di Muoversi Silenziosamente e Nascondersi}. Il personaggio usa 1 Azione per Nascondersi e una o più Azioni per Muoversi Silenziosamente, sempre su terreno difficile. Effettuate entrambe le prove prende la peggiore per il controllo di \emph{osservatori}.
+Usando \textbf{1 Azione} puoi cercare di nasconderti dalla vista degli avversari. Non è possibile nascondersi se l'ambiente non lo permette, per quando la tua prova possa essere alta non puoi nasconderti se non c'è qualcosa che ti può nascondere od occultare. Per nascondersi dietro una creatura questa deve essere almeno di 3 taglie superiori alla tua (altrimenti la creatura fornisce solo copertura).
 
 \medskip
 
@@ -3510,7 +3505,7 @@ se i personaggi vengono colti di sorpresa, ovvero non si aspettano di essere att
 
 Non potrai reagire, non userai Azioni o Reazioni se non esplicitamente permesse; dal round successivo potrai dichiarare l'iniziativa ed agire normalmente. Le medesime considerazioni valgono per gli avversari.
 
-Per valutare se un personaggio è sorpreso effettuate un Tiro Salvezza su Riflessi, confrontandolo con la bravura nel Nascondersi (o Muoversi Silenziosamente) degli avversari, se il Tiro Salvezza è inferiore il personaggio è sorpreso.
+Per valutare se un personaggio è sorpreso effettuate un Tiro Salvezza su Riflessi, confrontandolo con il punteggio di Furtività degli avversari, se il Tiro Salvezza è inferiore il personaggio è sorpreso.
 
 Se il personaggio è sull'attenti e si aspetta un agguato fategli fare un Tiro Salvezza su Riflessi a DC 15, se la prova passa allora il personaggio non è sorpreso.
 
@@ -3989,7 +3984,7 @@ A seconda della distanza della creatura invisibile o di ciò che questa fa ci so
 	\toprule
 Si è mossa  & -4\\
 Ha corso o caricato & -8\\
-Usa Muoversi Silenziosamente  & prova+10\\
+Usa Furtività  & la prova+10\\
 E' ferma e non fa rumori & +8\\
 Per ogni metro oltre i 6 metri  & +2\\
 Ha copertura Legg./Media/Compl. & +4/8/12\\
@@ -5795,15 +5790,15 @@ Usare l'Abilità Parare può essere dichiarata anche dopo che si è saputo di qu
 
 \subsection*{Passo felpato}\index{Passo felpato}\label{passofelpato}
 
-\textbf{Requisito}: Muoversi Silenziosamente 1
+\textbf{Requisito}: Furtività 1
 
 \textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
 
 Il tuo passo è naturalmente silenzioso.
 
-La \textbf{prima} volta che prendi quest'Abilità la penalità per muoversi a piena velocità con la competenza Muoversi Silenziosamente diviene di -1d6.
+La \textbf{prima} volta che prendi quest'Abilità la penalità per muoversi a piena velocità usando Furtività diviene di -1d6.
 
-La \textbf{seconda volta} che prendi quest'Abilità, requisito Destrezza 3, Muoversi Silenziosamente 8, non hai penalità a muoverti a piena velocità.
+La \textbf{seconda volta} che prendi quest'Abilità, requisito Destrezza 3, Furtività 8, non hai penalità a muoverti a piena velocità.
 
 \subsection*{Passo Veloce}\index{Passo Veloce}\label{passoveloce}
 
@@ -6595,7 +6590,7 @@ Corvo &  +2 alle prove di Intimidire\\
 \emph{Dobi}&  +2 al Tiro Salvezza vs Ammaliamento\\
 Donnola &  +1 alle prove su Intelligenza\\
 Falco &  +2 su Consapevolezza sulla vista\\
-Gatto &  +2 alle prove di Muoversi Silenziosamente\\
+Gatto &  +2 alle prove di Furtività\\
 Gufo  &  +2 su Consapevolezza sul udito\\
 Lontra   &  +2 alle prove di Nuotare\\
 Lucertola &  +2 alle prove di Sopravvivenza\\
@@ -7017,7 +7012,7 @@ Se scendi a zero o sotto gli zero Punti Ferita perdi la metà dei Punti Magia ri
 
 Un normale incantesimo richiede che tu scelga uno o più bersagli che siano affetti dalla sua magia. La descrizione dell'incantesimo ti dice se l'incantesimo prende a bersaglio creature, oggetti o un punto di origine per generare un'area di effetto. A meno che l'incantesimo non abbia un effetto percepibile, una creatura potrebbe non capire mai di essere stata bersaglio di un incantesimo. Un effetto come un fulmine crepitante è palese, ma un effetto più subdolo, come il tentativo di leggere i pensieri di una creatura, di solito non viene notato, a meno che l'incantesimo non dica altrimenti.
 
-Lanciare un incantesimo è una azione che non passa inosservata. Una prova di Nascondersi a difficoltà 13 oppure lanciare l'incantesimo come se si fosse Distratto permettono di celare il lancio, se non avviene proprio davanti all'osservatore.
+Lanciare un incantesimo è una azione che non passa inosservata. Una prova di Furtività a difficoltà 15 oppure lanciare l'incantesimo come se si fosse Distratto permettono di celare il lancio, se non avviene proprio davanti all'osservatore.
 
 \subsubsection*{Traiettoria Sgombra Verso il Bersaglio}\index{Incantesimi, vedere bersaglio}
 
@@ -12603,7 +12598,7 @@ Da un grande Vantaggio deriva un grosso Svantaggio ! (cit. \emph{Da un grande po
 
 10: 1 litro birra ti fa recuperare 2d4 Punti Ferita, un bottiglia di liquore buono 2d8 Punti Ferita. Se di pessima qualità no. Non puoi ubriacarti con liquidi naturali.
 
-\textbf{Caduta gatto}\index{Caduta gatto} 5: ignori i primi 3 metri di caduta. +2 a Muoversi Silenziosamente.
+\textbf{Caduta gatto}\index{Caduta gatto} 5: ignori i primi 3 metri di caduta. +2 a Furtività.
 
 \textbf{Camaleonte}\index{Camaleonte} 10-20: la tua pelle può cambiare colore. Tempo necessario 1 minuto/1 round.
 
@@ -12771,7 +12766,7 @@ Guadagni +1d6 nelle prove per riconoscere una Pozione o veleno naturale.
 
 \textbf{Senza paura} \index{Senza paura}10: sei immune alla paura, magica o meno.
 
-\textbf{Silenzioso} \index{Silenzioso}5: +1d6 alle prove di Muoversi silenziosamente.
+\textbf{Silenzioso} \index{Silenzioso}5: +1d6 alle prove di Furtività.
 
 \textbf{Spine} \index{Spine}5: e sei pure brutto. 1d4 di danno.
 
@@ -13271,7 +13266,7 @@ sei lento e svogliato.
 
 Non lo fai apposta, ma c'è sempre un qualche rumore intorno a te. Una spada che sbattocchia, uno sbadiglio, un rutto, una scarpa rumorosa..
 
-\textbf{5}: hai un -2 alle prove di muoversi silenziosamente.
+\textbf{5}: hai un -2 alle prove di Furtività.
 
 \textbf{Sangue Debole}\index{Sangue Debole}
 
@@ -14382,7 +14377,7 @@ Il Devoto di Tazher è il ladro, l'assassino, il bandito, chiunque viva per l'os
 - \textbf{Caratteristica}: Destrezza\\
 - \textbf{Tratti}: Scontroso, Calcolatore, Perfezionista, Cattivo, Insensibile, Burbero, Corrotto, Schivo, Sleale, Fantasioso, Ipocrita\\
 - \textbf{Manifestazione}: l'ombra del Devoto prende vita muovendo l'arma\\
-- \textbf{Somma dei Tratti in comune a 5 punti} punti: Guadagni +2 alle prove di Muoversi Silenziosamente e Nascondersi.\\
+- \textbf{Somma dei Tratti in comune a 5 punti} punti: Guadagni +2 alle prove di Furtività.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Una volta al giorno fai un attacco (senza penalità) in più. Una Azione Immediata.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: finché cammini sopra delle ombre o al buio (luce fioca od oscurità) sei invisibile. Puoi essere comunque rilevato con la luce o incantesimi di divinazione.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Ogni attacco in mischia andato a segno nel round genera un critico. Costo 1 Azione di Reazione da dichiararsi anche dopo il Tiro per Colpire ma prima di sapere se i tiri sono andati a buon segno. Usabile 3 volte al giorno.\\
@@ -16185,7 +16180,7 @@ Le creature Accecate perdono la loro capacità di infliggere danni extra causati
 
 Le creature accecate considerano il terreno come difficile \index{Muoversi al buio}. Devono effettuare una prova di Acrobatica con DC 12 per Azione di movimento per muoversi a velocità normale. Se la prova fallisce cadono a terra prone. Le creature accecate non possono caricare.
 
-Una creatura accecata, o che combatte contro una creatura invisibile,\index{Invisibile} può effettuare una prova di Consapevolezza a difficoltà 20 (oppure 10+Muoversi silenziosamente dell'avversario se questo non vuole farsi trovare) per individuare la creatura purché questa sia entro 6 metri dal personaggio.
+Una creatura accecata, o che combatte contro una creatura invisibile,\index{Invisibile} può effettuare una prova di Consapevolezza a difficoltà 20 (oppure 10+Furtività dell'avversario se questo non vuole farsi trovare) per individuare la creatura purché questa sia entro 6 metri dal personaggio.
 
 Una creatura Accecata \index{Accecata}subisce penalità di -2 alle Prove di Competenza basate su Forza e Destrezza e fallisce automaticamente qualsiasi prova di Consapevolezza dipenda dalla vista.
 
@@ -17123,17 +17118,17 @@ I quattro tipi base di dungeon sono definiti dal loro stato attuale. Molti dunge
 
 \textbf{Struttura in Rovina}: Un tempo abitato, questo luogo è ora abbandonato (completamente o in parte) dai suoi creatori originari ed è occupato da altre creature. Molte creature sotterranee vanno alla ricerca di costruzioni sotterrane ed abbandonate in cui stabilire le loro tane. Qualsiasi trappola che possa essere esistita è stata probabilmente già rimossa o attivata, è possibile trovare bestie erranti.
 
-\textbf{Struttura Occupata}: Questo dungeon viene ancora utilizzato. Delle creature (di solito intelligenti) ancora lo abitano, anche se potrebbero non essere i creatori del dungeon. Una struttura occupata potrebbe essere una casa, una fortezza, un tempio, una miniera attiva, una prigione, un quartier generale...
-
-Questo tipo di dungeon è meno probabile che abbia trappole o bestie erranti, e più probabilmente dispone di guardie organizzate, sia di guardia che di pattuglia. Le trappole e le bestie erranti che si possono incontrare sono spesso sotto il controllo degli occupanti. Le strutture occupate dispongono di arredo adatto agli abitanti, così come decorazioni, riserve di cibo, e la possibilità per gli abitanti di muoversi.
-
 \medskip
 \begin{center}
 	\includegraphics[width=0.7\linewidth]{immagini/avventure_dungeon.png}
-
+	
 	\emph{The Red Romance Book, Henry Justice Ford}
 \end{center}
 \medskip
+
+\textbf{Struttura Occupata}: Questo dungeon viene ancora utilizzato. Delle creature (di solito intelligenti) ancora lo abitano, anche se potrebbero non essere i creatori del dungeon. Una struttura occupata potrebbe essere una casa, una fortezza, un tempio, una miniera attiva, una prigione, un quartier generale...
+
+Questo tipo di dungeon è meno probabile che abbia trappole o bestie erranti, e più probabilmente dispone di guardie organizzate, sia di guardia che di pattuglia. Le trappole e le bestie erranti che si possono incontrare sono spesso sotto il controllo degli occupanti. Le strutture occupate dispongono di arredo adatto agli abitanti, così come decorazioni, riserve di cibo, e la possibilità per gli abitanti di muoversi.
 
 Gli abitanti possono disporre anche di un sistema di comunicazione, e quasi sempre controllano almeno un accesso verso l'esterno.
 
@@ -17252,7 +17247,7 @@ Così come per le pareti, esistono molti tipi di pavimenti per dungeon.
 
 \textbf{Pietrisco Scarso}: Piccoli e sparuti detriti sono presenti a terra. Un pavimento su cui sia presente del pietrisco scarso aggiunge 2 alla DC delle prove di Acrobatica.
 
-\textbf{Pietrisco fitto}: Il terreno è ricoperto di detriti di tutte le dimensioni. Il pietrisco si considera terreno difficile. Un pavimento cosparso di pietrisco fitto aggiunge 5 alla DC delle prove di Acrobatica, e aggiunge 2 alla DC delle prove di Consapevolezza contro Muoversi Silenziosamente.
+\textbf{Pietrisco fitto}: Il terreno è ricoperto di detriti di tutte le dimensioni. Il pietrisco si considera terreno difficile. Un pavimento cosparso di pietrisco fitto aggiunge 5 alla DC delle prove di Acrobatica, e aggiunge 2 alla DC delle prove di Consapevolezza contro Furtività.
 
 \textbf{Pavimento di Pietra Liscia}: Pavimenti lisci, perfetti e a volte anche levigati si trovano solo nei dungeon creati da costruttori capaci e attenti.
 
@@ -17332,7 +17327,7 @@ Le porte segrete nascoste lungo una parete di pietra sono solitamente di pietra.
 \textbf{Porte di Ferro}\index{Porte di Ferro}: Arrugginite ma resistenti, le porte di ferro in un dungeon sono dotate di cardini come quelle di legno. Queste porte sono le porte più resistenti del tipo non magico. Sono di solito chiuse a chiave o sbarrate.
 
 \begin{center}
-\includegraphics[width=0.85\linewidth]{immagini/porta_grey.png}
+\includegraphics[width=0.8\linewidth]{immagini/porta_grey.png}
 \end{center}
 
 \textbf{Sfondare}\index{Sfondare porte}: Le porte dei dungeon possono essere chiuse a chiave, munite di trappole, rinforzate, sbarrate, sigillate magicamente o, a volte, semplicemente bloccate.
@@ -17383,7 +17378,7 @@ Spaccare un cardine è difficile. La maggior parte ha Durezza 10 e 30 Punti Feri
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/cardini.png}
+	\includegraphics[width=0.8\linewidth]{immagini/cardini.png}
 \end{center}
 
 
@@ -17471,8 +17466,8 @@ La fanghiglia verde infligge 1 danno alla Costituzione per ogni round in cui div
 
 Viene indicato il nome della trappola, la DC per la prova di Sopravvivenza per trovare la trappola e le indicazioni d'uso della stessa.\\
 
-\textbf{Stanza allagata, DC 17}: se i personaggi non notano la piastra a pressione sul pavimento questa farà sigillare la porta di ingresso e la stanza incomincerà a riempirsi d'acqua.
-La stanza si riempie d'acqua in 10 round. Una prova di Sopravvivenza a DC 15, combinata con una prova di Nuotare DC 12, fa rilevare la piastra che attiva la fuoriuscita d'acqua.
+%\textbf{Stanza allagata, DC 17}: se i personaggi non notano la piastra a pressione sul pavimento questa farà sigillare la porta di ingresso e la stanza incomincerà a riempirsi d'acqua.
+%La stanza si riempie d'acqua in 10 round. Una prova di Sopravvivenza a DC 15, combinata con una prova di Nuotare DC 12, fa rilevare la piastra che attiva la fuoriuscita d'acqua.
 
 \textbf{Stanza stritolante, DC 15}: se i personaggi non notano la piastra a pressione sul pavimento questa farà sigillare la porta di ingresso e fortissimi rumori di stridii ed ingranaggi riempiranno la stanza. Le pareti incominceranno ad avvicinarsi tra loro come il soffitto al pavimento. Se i personaggi non trovano la mattonella nascosta (DC 17) subiranno 10d6 di danno da stritolamento. La trappola è più facile da rilevare di altre perché le pareti sono più spesse rendendo la stanza più piccola.
 
@@ -17680,7 +17675,7 @@ In questa tabella vengono indicate la durata dei turni di guardia ed il tempo to
 
 \medskip{}
 
-Un rumore brusco concede una prova di Consapevolezza a DC 15, oppure pari alla prova di Muoversi Silenziosamente +8 dell'avversario, per svegliarsi.\index{Svegliarsi per rumore}\index{Rumore nella notte}
+Un rumore brusco concede una prova di Consapevolezza a DC 15, oppure pari alla prova di Furtività +8 dell'avversario, per svegliarsi.\index{Svegliarsi per rumore}\index{Rumore nella notte}
 
 \end{multicols}
 
@@ -19026,7 +19021,7 @@ Garioe\index{Garioe}& I  & 1 round & 25& Cura 2d6 Punti Ferita& AZ7 & 95 \\
 \toprule
 Geffnull \index{Geffnull}& I  & 5 round & 28& Cura 3d8+3 Punti Ferita & EV8 & 150 \\
 \toprule
-Gusterbloon \index{Gusterbloon}  & C  & 1 round & 20& La pelle diventa più scura concedendo un +1d6 alla prove di Nascondersi & CM5 & 8  \\
+Gusterbloon \index{Gusterbloon}  & C  & 1 round & 20& La pelle diventa più scura concedendo un +1d6 alla prove di Furtività & CM5 & 8  \\
 \toprule
 Gylvert\index{Gylvert} & I  & 1 minuto  & 25& Concede respirare sott'acqua per 4 ore & MO7 & 3 \\
 \toprule
@@ -22218,7 +22213,7 @@ Armatura media o pesante, ma non di pelle, non comune +800 mo oltre il prezzo ba
 
 \smallskip* \textbf{Ombra}\index[OggettiMagici]{Armature e Scudi!Ombra}
 
-Quest'armatura rende chi la indossa sfocato ogni volta che tenta di nascondersi, fornendo Bonus di +5 alle sue prove di Nascondersi nelle ombre. La penalità di armatura alla prova si applica normalmente.
+Quest'armatura rende chi la indossa sfocato ogni volta che tenta di nascondersi, fornendo bonus di +4 alle sue prove di Furtività nelle ombre. La penalità di armatura alla prova si applica normalmente.
 
 \textbf{Dettagli}: Aura Illusione debole; Requisiti di Costruzione Creare Oggetti Magici, Invisibilità, Silenzio; Costo +1875 mo.
 
@@ -22552,7 +22547,7 @@ questi guanti possono essere di morbido cuoio o pesante materiale protettivo ada
 5000 mo, non comune, mentre indossi questi stivali, la tua velocità di passeggio diventa 9 metri, a meno che non sia superiore, e la tua velocità non viene ridotta qualora tu sia ingombrato o stia indossando un'armatura pesante. Inoltre, salti tre volte la normale distanza, fino ad un massimo di 9 metri.
 
 \index[OggettiMagici]{Stivali degli Elfi}\smallskip* \textbf{Stivali degli Elfi}
-3000 mo, non comune, mentre indossi questi stivali, i tuoi passi non emettono suoni, quale che sia la superficie che stai attraversando. Hai +1d6 alle prove di Muoversi silenziosamente.
+3000 mo, non comune, mentre indossi questi stivali, i tuoi passi non emettono suoni, quale che sia la superficie che stai attraversando. Il muoverti silenziosamente non ti obbliga a trattare il terreno come difficile (ma potrebbe comunque esserlo).
 
 \index[OggettiMagici]{Stivali dell'Inverno}\smallskip* \textbf{Stivali dell'Inverno}
 10000 mo, rari, mentre indossi questi stivali hai resistenza ai danni da freddo, ignori il terreno difficile prodotto da neve o ghiaccio. Puoi tollerare le temperature fino ai -45° C senza bisogno di ulteriori protezioni. Se indossi abiti pesanti, puoi tollerare temperature fino a -75° C.
@@ -23215,7 +23210,7 @@ Puoi usare due azioni per lanciare l'incantesimo ragnatela (DC del Tiro Salvezza
 60000 mo, raro, mentre indossi questa Mantello, essa proietta un'illusione che ti fa apparire come se stessi in un punto vicino alla tua reale posizione, facendo sì che tutte le creature abbiano -1d6 ai Tiri per Colpire contro di te. Se subisci danni, la proprietà cessa di funzionare fino all'inizio del tuo prossimo round. Questa proprietà è soppressa mentre sei inabile, intralciato o altrimenti impossibilitato a muoverti.
 
 \index[OggettiMagici]{Mantello degli Elfi}\smallskip* \textbf{Mantello degli Elfi}
-5000 mo, non comune, mentre indossi questo Mantello tirando su il cappuccio, le prove di Consapevolezza effettuate per notarti hanno -1d6, e hai +1d6 alle prove di Destrezza effettuate per nasconderti. Tirare su o giù il cappuccio richiede due azioni.
+5000 mo, non comune, mentre indossi questo Mantello tirando su il cappuccio, le prove di Consapevolezza effettuate per notarti hanno -1d6, e hai +1d6 alle prove di Furtività effettuate per nasconderti. Tirare su o giù il cappuccio richiede due azioni.
 
 \index[OggettiMagici]{Mantello della Manta}\smallskip* \textbf{Mantello della Manta}
 6000 mo, non comune, mentre indossi questa Mantello con il cappuccio tirato su, puoi respirare sott'acqua e hai velocità di nuoto 18 metri. Tirare su o giù il cappuccio richiede 1 azione.
@@ -23249,7 +23244,7 @@ queste due lenti di cristallo magico si sovrappongono alle pupille degli occhi. 
 1500 mo, non comune, mentre indossi queste lenti scure, possiedi la scurovisione, con una gittata di 18 metri. Se già possiedi la scurovisione, indossare questi occhiali ne aumenta la gittata di 18 metri.
 
 \smallskip* \textbf{Tunica del Mimetismo}\index[OggettiMagici]{Tunica del Mimetismo}
-1500 mo, raro, quando indossa questa tunica, un personaggio capisce immediatamente il suo potere. Una tunica del mimetismo permette al personaggio di confondersi con l’ambiente circostante, qualunque esso sia, e di nascondersi. Ha +1d6 nelle prove di Nascondersi nelle ombre. Il possessore può assumere a volontà l'aspetto di un altro umanoide, come per l'incantesimo Alterare se stesso (Cambio Aspetto). In questo caso, gli amici del possessore e chi lo conosce molto bene sono istintivamente consci della sua vera identità.
+1500 mo, raro, quando indossa questa tunica, un personaggio capisce immediatamente il suo potere. Una tunica del mimetismo permette al personaggio di confondersi con l’ambiente circostante, qualunque esso sia, e di nascondersi. Ha +1d6 nelle prove di Furtività nelle ombre. Il possessore può assumere a volontà l'aspetto di un altro umanoide, come per l'incantesimo Alterare se stesso (Cambio Aspetto). In questo caso, gli amici del possessore e chi lo conosce molto bene sono istintivamente consci della sua vera identità.
 
 \smallskip* \textbf{Tunica dell’Arcimago}\index[OggettiMagici]{Tunica dell’Arcimago}
 8000 mo, leggendario, questo abito apparentemente normale può essere giallo (01-45 su 1d100), grigio (46-75) o nero (76-00). Può essere indossato solo da un incantatore con Competenza Magica 2 o superiore. Conferisce le seguenti bonus:
@@ -26400,7 +26395,7 @@ Per motivi ignoti, le donnole, furetti e topine sono immuni allo sguardo del bas
 
 \textbf{Tiri Salvezza}: Tempra +15, Riflessi +14, Volontà +13
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +7, Consapevolezza +6
+\textbf{Competenze} Furtività +7, Consapevolezza +6
 
 \textbf{Immunità al Danno} elettricità
 
@@ -26532,7 +26527,7 @@ Nel nido dove dimorano c'è almeno una regina che comanda le blatte, estremament
 
 \textbf{Tiri Salvezza} Tempra +6, Riflessi +7, Volontà +5
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +8, Consapevolezza +6
+\textbf{Competenze} Furtività +8, Consapevolezza +6
 
 \textbf{Resistenza} +4 ai Tiri Salvezza agli incantesimi della Lista Illusione
 
@@ -26593,7 +26588,7 @@ Il Black Ops Cat meglio conosciuto con B.O.C. è un grande felino predatore, ovv
 
 \textbf{Tiri Salvezza} Tempra +2, Riflessi +3, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Sopravvivenza +2
+\textbf{Competenze} Furtività +6, Sopravvivenza +2
 
 \textbf{Sensi} Scurovisione 18 m
 
@@ -27128,7 +27123,7 @@ Come esterni nativi, i couatl devono mangiare. Preferiscono gli stessi alimenti 
 
 \textbf{Tiri Salvezza} Tempra +8, Riflessi +4, Volontà +5
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +2
+\textbf{Competenze} Furtività +2
 
 \textbf{Resistenze al Danno} freddo, fuoco
 
@@ -27787,7 +27782,7 @@ Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei
 
 \textbf{Tiri Salvezza} Tempra +1, Riflessi +3, Volontà +0
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5
+\textbf{Competenze} Furtività +5
 
 \textbf{Resistenze al Danno} freddo, fulmine, fuoco; da arma non magica
 
@@ -28549,7 +28544,7 @@ Le erinni sono angeli bellissimi ed oscuri che accrescono deliberatamente la pro
 
 \textbf{Tiri Salvezza} Tempra +1, Riflessi +6, Volontà +4
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Ingannare +4, Percepire Emozioni +3
+\textbf{Competenze} Furtività +5, Ingannare +4, Percepire Emozioni +3
 
 \textbf{Resistenze al Danno} freddo; da arma non magica o non argentata
 
@@ -28679,7 +28674,7 @@ I diavoli maggiori sono in grado di riconoscere i più corrotti tra loro e, per 
 
 \textbf{Tiri Salvezza} Tempra +18, Riflessi +11, Volontà +9
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +3
+\textbf{Competenze} Furtività +4, Consapevolezza +3
 
 \textbf{Linguaggi} -
 
@@ -29058,7 +29053,7 @@ Nella \textbf{Descrizione di ogni Drago Antico} troverete una breve descrizione 
 
 \textbf{Tiri Salvezza} Tempra +28, Riflessi +20, Volontà +21
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Consapevolezza +13
+\textbf{Competenze} Furtività +6, Consapevolezza +13
 
 \textbf{Immunità al Danno} freddo, armi +1
 
@@ -29154,7 +29149,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +19, Riflessi +13, Volontà +14
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Consapevolezza +11
+\textbf{Competenze} Furtività +5, Consapevolezza +11
 
 \textbf{Immunità al Danno} freddo
 
@@ -29239,7 +29234,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +8, Riflessi +7, Volontà +5
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +6
+\textbf{Competenze} Furtività +3, Consapevolezza +6
 
 \textbf{Immunità al Danno} freddo
 
@@ -29302,7 +29297,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +2, Riflessi +1, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +2, Consapevolezza +4
+\textbf{Competenze} Furtività +2, Consapevolezza +4
 
 \textbf{Immunità al Danno} freddo
 
@@ -29352,7 +29347,7 @@ Vedi descrizione Drago Bianco Antico.\\
 
 \textbf{Tiri Salvezza} Tempra +31, Riflessi +23, Volontà +27
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +7, Consapevolezza +17
+\textbf{Competenze} Furtività +7, Consapevolezza +17
 
 \textbf{Immunità al Danno} Elettricità, armi +1
 
@@ -29452,7 +29447,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +21, Riflessi +16, Volontà +18
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Consapevolezza +12
+\textbf{Competenze} Furtività +5, Consapevolezza +12
 
 \textbf{Immunità al Danno} Elettricità
 
@@ -29538,7 +29533,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +10, Riflessi +8, Volontà +8
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +9
+\textbf{Competenze} Furtività +4, Consapevolezza +9
 
 \textbf{Immunità al Danno} Elettricità
 
@@ -29602,7 +29597,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +4, Riflessi +1, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +2, Consapevolezza +4
+\textbf{Competenze} Furtività +2, Consapevolezza +4
 
 \textbf{Immunità al Danno} Elettricità
 
@@ -29708,7 +29703,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +28, Riflessi +23, Volontà +23
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +9, Consapevolezza +16
+\textbf{Competenze} Furtività +9, Consapevolezza +16
 
 \textbf{Immunità al Danno} acido, armi +1
 
@@ -29813,7 +29808,7 @@ Ebbene si, il Drago Nero è l'unica creatura su Yeru che può portare in vita un
 
 \textbf{Tiri Salvezza} Tempra +22, Riflessi +19, Volontà +18
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +7, Consapevolezza +11
+\textbf{Competenze} Furtività +7, Consapevolezza +11
 
 \textbf{Immunità al Danno} acido
 
@@ -29902,7 +29897,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +9, Riflessi +8, Volontà +7
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Consapevolezza +6
+\textbf{Competenze} Furtività +5, Consapevolezza +6
 
 \textbf{Immunità al Danno} acido
 
@@ -29966,7 +29961,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +2, Riflessi +2, Volontà +0
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +4
+\textbf{Competenze} Furtività +4, Consapevolezza +4
 
 \textbf{Immunità al Danno} acido
 
@@ -30111,7 +30106,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +33, Riflessi +24, Volontà +26
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +7, Consapevolezza +16
+\textbf{Competenze} Furtività +7, Consapevolezza +16
 
 \textbf{Immunità al Danno} Fuoco, armi +1
 
@@ -30203,7 +30198,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +23, Riflessi +17, Volontà +18
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Consapevolezza +13
+\textbf{Competenze} Furtività +6, Consapevolezza +13
 
 \textbf{Immunità al Danno} Fuoco
 
@@ -30290,7 +30285,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +11, Riflessi +8, Volontà +10
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +8
+\textbf{Competenze} Furtività +4, Consapevolezza +8
 
 \textbf{Immunità al Danno} Fuoco
 
@@ -30352,7 +30347,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +4, Riflessi +3, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +2, Consapevolezza +4
+\textbf{Competenze} Furtività +2, Consapevolezza +4
 
 \textbf{Immunità al Danno} Fuoco
 
@@ -30401,7 +30396,7 @@ Vedi Descrizione Drago Rosso Antico.
 
 \textbf{Tiri Salvezza} Tempra +29, Riflessi +23, Volontà +25
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +8, Ingannare +11, Percepire Emozioni +10, Consapevolezza + 15
+\textbf{Competenze} Furtività +8, Ingannare +11, Percepire Emozioni +10, Consapevolezza + 15
 
 \textbf{Immunità al Danno} Veleno, armi +1
 
@@ -30500,7 +30495,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +20, Riflessi +16, Volontà +17
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Ingannare +8, Percepire Emozioni +7, Consapevolezza +12
+\textbf{Competenze} Furtività +6, Ingannare +8, Percepire Emozioni +7, Consapevolezza +12
 
 \textbf{Immunità al Danno} Veleno
 
@@ -30591,7 +30586,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +9, Riflessi +7, Volontà +9
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Ingannare +5, Consapevolezza +7
+\textbf{Competenze} Furtività +4, Ingannare +5, Consapevolezza +7
 
 \textbf{Immunità al Danno} Veleno
 
@@ -30657,7 +30652,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +3, Riflessi +1, Volontà +0
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +4
+\textbf{Competenze} Furtività +3, Consapevolezza +4
 
 \textbf{Immunità al Danno} Veleno
 
@@ -30717,7 +30712,7 @@ Elysan è probabilmente il più noto e potente, un antico drago d'argento.
 
 \textbf{Tiri Salvezza} Tempra +32, Riflessi +23, Volontà +25
 
-\textbf{Competenze} Arcano +11, Muoversi Silenziosamente / Nascondersi +7, Consapevolezza +16, Storia +11
+\textbf{Competenze} Arcano +11, Furtività +7, Consapevolezza +16, Storia +11
 
 \textbf{Immunità al Danno} freddo, armi +1
 
@@ -30808,7 +30803,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +22, Riflessi +16, Volontà +17
 
-\textbf{Competenze} Arcano +8, Muoversi Silenziosamente / Nascondersi +5, Consapevolezza +11, Storia +8
+\textbf{Competenze} Arcano +8, Furtività +5, Consapevolezza +11, Storia +8
 
 \textbf{Immunità al Danno} freddo
 
@@ -30903,7 +30898,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +10, Riflessi +8, Volontà +12
 
-\textbf{Competenze} Arcano +6, Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +8, Storia +6
+\textbf{Competenze} Arcano +6, Furtività +4, Consapevolezza +8, Storia +6
 
 \textbf{Immunità al Danno} freddo
 
@@ -30969,7 +30964,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +3, Riflessi +3, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +2, Consapevolezza +4
+\textbf{Competenze} Furtività +2, Consapevolezza +4
 
 \textbf{Immunità al Danno} freddo
 
@@ -31023,7 +31018,7 @@ Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad u
 
 \textbf{Tiri Salvezza} Tempra +30, Riflessi +22, Volontà +24
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +7, Percepire Emozioni +10, Consapevolezza +17
+\textbf{Competenze} Furtività +7, Percepire Emozioni +10, Consapevolezza +17
 
 \textbf{Immunità al Danno} Elettricità, armi +1
 
@@ -31112,7 +31107,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +21, Riflessi +14, Volontà +16
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Percepire Emozioni +7, Consapevolezza +12
+\textbf{Competenze} Furtività +5, Percepire Emozioni +7, Consapevolezza +12
 
 \textbf{Immunità al Danno} Elettricità
 
@@ -31204,7 +31199,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +10, Riflessi +8, Volontà +10
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Percepire Emozioni +4, Consapevolezza +7
+\textbf{Competenze} Furtività +3, Percepire Emozioni +4, Consapevolezza +7
 
 \textbf{Immunità al Danno} Elettricità
 
@@ -31272,7 +31267,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +2, Riflessi +1, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +2, Consapevolezza +4
+\textbf{Competenze} Furtività +2, Consapevolezza +4
 
 \textbf{Immunità al Danno} Elettricità
 
@@ -31328,7 +31323,7 @@ I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se cau
 
 \textbf{Tiri Salvezza} Tempra +33, Riflessi +26, Volontà +27
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +9, Percepire Emozioni +10, Consapevolezza +17, Ingannare +16
+\textbf{Competenze} Furtività +9, Percepire Emozioni +10, Consapevolezza +17, Ingannare +16
 
 \textbf{Immunità al Danno} Fuoco, armi +1
 
@@ -31419,7 +31414,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +24, Riflessi +19, Volontà +19
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +8, Percepire Emozioni +8, Consapevolezza +14, Ingannare +13
+\textbf{Competenze} Furtività +8, Percepire Emozioni +8, Consapevolezza +14, Ingannare +13
 
 \textbf{Immunità al Danno} Fuoco
 
@@ -31515,7 +31510,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +12, Riflessi +9, Volontà +13
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Percepire Emozioni +5, Consapevolezza +9, Ingannare +9
+\textbf{Competenze} Furtività +6, Percepire Emozioni +5, Consapevolezza +9, Ingannare +9
 
 \textbf{Immunità al Danno} Fuoco
 
@@ -31584,7 +31579,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +3, Riflessi +2, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +4
+\textbf{Competenze} Furtività +4, Consapevolezza +4
 
 \textbf{Immunità al Danno} Fuoco
 
@@ -31639,7 +31634,7 @@ I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveris
 
 \textbf{Tiri Salvezza} Tempra +27, Riflessi +20, Volontà +22
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Consapevolezza +14, Ingannare +10, Storia +9
+\textbf{Competenze} Furtività +6, Consapevolezza +14, Ingannare +10, Storia +9
 
 \textbf{Immunità al Danno} Fuoco, armi +1
 
@@ -31728,7 +31723,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +19, Riflessi +13, Volontà +14
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Consapevolezza +11, Ingannare +8, Storia +7
+\textbf{Competenze} Furtività +5, Consapevolezza +11, Ingannare +8, Storia +7
 
 \textbf{Immunità al Danno} Fuoco
 
@@ -31817,7 +31812,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +9, Riflessi +8, Volontà +7
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +6, Ingannare +5
+\textbf{Competenze} Furtività +3, Consapevolezza +6, Ingannare +5
 
 \textbf{Immunità al Danno} Fuoco
 
@@ -31879,7 +31874,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +2, Riflessi +0, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +2, Consapevolezza +4
+\textbf{Competenze} Furtività +2, Consapevolezza +4
 
 \textbf{Immunità al Danno} Fuoco
 
@@ -31933,7 +31928,7 @@ Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combatter
 
 \textbf{Tiri Salvezza} Tempra +28, Riflessi +24, Volontà +24
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +8, Ingannare +11, Consapevolezza +17
+\textbf{Competenze} Furtività +8, Ingannare +11, Consapevolezza +17
 
 \textbf{Immunità al Danno} acido, armi +1
 
@@ -32024,7 +32019,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +19, Riflessi +15, Volontà +15
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Ingannare +8, Consapevolezza +12
+\textbf{Competenze} Furtività +6, Ingannare +8, Consapevolezza +12
 
 \textbf{Immunità al Danno} acido
 
@@ -32115,7 +32110,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +9, Riflessi +8, Volontà +8
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Ingannare +5, Consapevolezza +7
+\textbf{Competenze} Furtività +4, Ingannare +5, Consapevolezza +7
 
 \textbf{Immunità al Danno} acido
 
@@ -32181,7 +32176,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 
 \textbf{Tiri Salvezza} Tempra +2, Riflessi +2, Volontà +0
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +4
+\textbf{Competenze} Furtività +3, Consapevolezza +4
 
 \textbf{Immunità al Danno} acido
 
@@ -32328,7 +32323,7 @@ Tàhil è il Patrono dei Draghi incarnato. Nulla resiste alla sua furia, follia,
 
 \textbf{Tiri Salvezza} Tempra +11, Riflessi +9, Volontà +9
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +9, Consapevolezza +5
+\textbf{Competenze} Furtività +9, Consapevolezza +5
 
 \textbf{Sensi} scurovisione 36 m
 
@@ -32401,7 +32396,7 @@ I drider sono sessualmente dimorfici. La parte inferiore da ragno del corpo di u
 
 \textbf{Tiri Salvezza} Tempra +5, Riflessi +9, Volontà +7
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Consapevolezza +4
+\textbf{Competenze} Furtività +5, Consapevolezza +4
 
 \textbf{Sensi} Scurovisione 18 m
 
@@ -33019,7 +33014,7 @@ Un elementale della terra grande è alto 4,8 metri e pesa 3000 kg.
 
 \textbf{Tiri Salvezza} Tempra +6, Riflessi +4, Volontà +6
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +3, Sopravvivenza +3
+\textbf{Competenze} Furtività +4, Consapevolezza +3, Sopravvivenza +3
 
 \textbf{Sensi} Scurovisione 18 m
 
@@ -33587,7 +33582,7 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 
 \textbf{Tiri Salvezza}: Tempra +13, Riflessi +5, Volontà +13
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Consapevolezza +6
+\textbf{Competenze} Furtività +5, Consapevolezza +6
 
 \textbf{Sensi} Scurovisione 18 m
 
@@ -34608,7 +34603,7 @@ Sono molte le leggende che parlano di magiche città dei giganti delle nuvole si
 
 \textbf{Sfida} 7 (2900 PX)
 
-\emph{\textbf{Mimetismo di Pietra.}} Il gigante ha +1d6 alle prove di Destrezza (Nascondersi) effettuate per nascondersi su terreni rocciosi.
+\emph{\textbf{Mimetismo di Pietra.}} Il gigante ha +1d6 alle prove di Furtività (Nascondersi) effettuate per nascondersi su terreni rocciosi.
 
 \textbf{Azioni}
 
@@ -34803,7 +34798,7 @@ I capi gnoll hanno competenze da guardiaboschi ma non è impossibile trovare anc
 
 \textbf{Tiri Salvezza}: Tempra +6, Riflessi +6, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +2
+\textbf{Competenze} Furtività +4, Consapevolezza +2
 
 \textbf{Sensi} scurovisione 36 m
 
@@ -34813,7 +34808,7 @@ I capi gnoll hanno competenze da guardiaboschi ma non è impossibile trovare anc
 
 \emph{\textbf{Astuzia Gnomesca.}} Lo gnomo ha +1d6 ai Tiri Salvezza contro la magia.
 
-\emph{\textbf{Camuffamento di Pietra.}} Lo gnomo ha +1d6 alle prove di Destrezza (Nascondersi) effettuate per nascondersi su terreni rocciosi.
+\emph{\textbf{Camuffamento di Pietra.}} Lo gnomo ha +1d6 alle prove di Furtività (Nascondersi) effettuate per nascondersi su terreni rocciosi.
 
 \emph{\textbf{Incantesimi Innati.}} La caratteristica da incantatore innato dello gnomo è l'Intelligenza. Lo gnomo può lanciare questi incantesimi in maniera innata, senza bisogno di componenti:
 
@@ -35330,7 +35325,7 @@ La loro carne è dura e muscolosa (una volta che viene rimossa l'armatura), e pe
 
 \textbf{Sfida} 2 (450 PX)
 
-\emph{\textbf{Camuffamento di Pietra.}} Il grick ha +1d6 alle prove di Destrezza (Nascondersi) effettuate per nascondersi su terreno roccioso.
+\emph{\textbf{Camuffamento di Pietra.}} Il grick ha +1d6 alle prove di Furtività (Nascondersi) effettuate per nascondersi su terreno roccioso.
 
 \textbf{Azioni}
 
@@ -35443,7 +35438,7 @@ I grifoni possono portare fino a 150 kg come carico leggero, 300 kg come carico 
 
 \textbf{Tiri Salvezza}: Tempra +3, Riflessi +1, Volontà +0
 
-\textbf{Competenze} Acrobatica +5, Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +3
+\textbf{Competenze} Acrobatica +5, Furtività +3, Consapevolezza +3
 
 \textbf{Immunità alle Condizioni} accecato
 
@@ -35453,7 +35448,7 @@ I grifoni possono portare fino a 150 kg come carico leggero, 300 kg come carico 
 
 \textbf{Sfida} 1/4 (50 PX)
 
-\emph{\textbf{Camuffamento di Pietra.}} Il grimlock ha +1d6 alle prove di Destrezza (Nascondersi) effettuate per nascondere su terreni rocciosi.
+\emph{\textbf{Camuffamento di Pietra.}} Il grimlock ha +1d6 alle prove di Furtività (Nascondersi) effettuate per nascondere su terreni rocciosi.
 
 \emph{\textbf{Sensi Ciechi.}} Il grimlock non può usare la vista cieca mentre è assordato e non più fiutare.
 
@@ -35809,7 +35804,7 @@ Un kraken è lungo quasi 30 metri e pesa 2000 kg.
 
 \textbf{Tiri Salvezza}: Tempra +6, Riflessi +9, Volontà +11
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Ingannare +7, Percepire Emozioni +4,
+\textbf{Competenze} Furtività +3, Ingannare +7, Percepire Emozioni +4,
 
 \textbf{Sensi} Scurovisione 18 m
 
@@ -35980,7 +35975,7 @@ Poche creature sono più temute dei lich. Apice delle arti Necromantiche, il lic
 
 \textbf{Tiri Salvezza}: Tempra +4, Riflessi +0, Volontà +0
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +3, Sopravvivenza +5
+\textbf{Competenze} Furtività +4, Consapevolezza +3, Sopravvivenza +5
 
 \textbf{Linguaggi} Draconico
 
@@ -36160,7 +36155,7 @@ Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi 
 
 \textbf{Tiri Salvezza}: Tempra +5, Riflessi +1, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +4
+\textbf{Competenze} Furtività +3, Consapevolezza +4
 
 \textbf{Immunità al Danno} da arma non magica o che non sia argentata
 
@@ -36275,7 +36270,7 @@ Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spa
 
 \textbf{Tiri Salvezza}: Tempra +2, Riflessi +5, Volontà +3
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +2
+\textbf{Competenze} Furtività +4, Consapevolezza +2
 
 \textbf{Immunità al Danno} da arma non magica o che non sia argentata
 
@@ -36334,7 +36329,7 @@ I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e v
 
 \textbf{Tiri Salvezza}: Tempra +2, Riflessi +7, Volontà +4
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +5
+\textbf{Competenze} Furtività +4, Consapevolezza +5
 
 \textbf{Immunità al Danno} da arma non magica che non siano argentati
 
@@ -36458,7 +36453,7 @@ Anche se le manticore sono simili a delle creazioni magiche, sono da tempo annov
 
 \textbf{Tiri Salvezza}: Tempra +6, Riflessi +5, Volontà +7
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5
+\textbf{Competenze} Furtività +5
 
 \textbf{Sensi} Scurovisione 18 m
 
@@ -36531,7 +36526,7 @@ Le loro motivazioni sono misteriose e confuse, e diffidano perfino dei loro simi
 
 \textbf{Tiri Salvezza}: Tempra +5, Riflessi +3, Volontà +0
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3
+\textbf{Competenze} Furtività +3
 
 \textbf{Sensi} vista cieca 18 m
 
@@ -36593,7 +36588,7 @@ Il ciclo vitale di un mantoscuro è rapido: i piccoli diventano adulti nell'arco
 
 \textbf{Tiri Salvezza}: Tempra +6, Riflessi +8, Volontà +7
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Ingannare +5, Percepire Emozioni +4, Consapevolezza +4
+\textbf{Competenze} Furtività +5, Ingannare +5, Percepire Emozioni +4, Consapevolezza +4
 
 \textbf{Sensi} Scurovisione 18 m
 
@@ -36661,7 +36656,7 @@ Tutte le meduse sono femmine. Raramente, una medusa decide di prendere un maschi
 
 \textbf{Tiri Salvezza}: Tempra +2, Riflessi +5, Volontà +3
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +2
+\textbf{Competenze} Furtività +3, Consapevolezza +2
 
 \textbf{Vulnerabilità ai Danni} contundenti, fuoco
 
@@ -36726,7 +36721,7 @@ I mephit del ghiaccio comunemente si trovano sul Piano dell'Aria. Questi mephit 
 
 \textbf{Tiri Salvezza}: Tempra +2, Riflessi +5, Volontà +3
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3
+\textbf{Competenze} Furtività +3
 
 \textbf{Vulnerabilità ai Danni} freddo
 
@@ -36790,7 +36785,7 @@ I mephit del magma comunemente si trovano sul Piano del Fuoco. Questi mephit son
 
 \textbf{Tiri Salvezza}: Tempra +2, Riflessi +5, Volontà +3
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +2
+\textbf{Competenze} Furtività +4, Consapevolezza +2
 
 \textbf{Vulnerabilità ai Danni} fuoco
 
@@ -36975,7 +36970,7 @@ Le megere marine formano congreghe simili a quelle delle altre megere, ma la lor
 
 \textbf{Tiri Salvezza}: Tempra +14, Riflessi +8, Volontà +11
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Ingannare +7, Percepire Emozioni +6, Consapevolezza +6,
+\textbf{Competenze} Furtività +6, Ingannare +7, Percepire Emozioni +6, Consapevolezza +6,
 
 \textbf{Resistenze al Danno} freddo, fuoco; da arma non magica o non siano argentati
 
@@ -37032,7 +37027,7 @@ A volontà: \emph{Dardo arcano, individuazione del magico} 2/giorno ciascuno: \e
 
 \textbf{Tiri Salvezza}: Tempra +6, Riflessi +7, Volontà +7
 
-\textbf{Competenze} Arcano +3, Muoversi Silenziosamente / Nascondersi +3, Ingannare +4, Consapevolezza +4
+\textbf{Competenze} Arcano +3, Furtività +3, Ingannare +4, Consapevolezza +4
 
 \textbf{Sensi} Scurovisione 18 m
 
@@ -37357,7 +37352,7 @@ Gli esemplari più grandi di protoplasmi neri sono stati avvistati nelle regioni
 
 \textbf{Tiri Salvezza}: Tempra +5, Riflessi +5, Volontà +6
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5
+\textbf{Competenze} Furtività +5
 
 \textbf{Immunità al Danno} acido
 
@@ -37965,7 +37960,7 @@ Un ogre adulto è alto sui 3 metri e pesa circa 325 kg.
 
 \textbf{Tiri Salvezza}: Tempra +3, Riflessi +3, Volontà +4
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4 (+6 a luce fioca o oscurità)
+\textbf{Competenze} Furtività +4 (+6 a luce fioca o oscurità)
 
 \textbf{Vulnerabilità al Danno} da Luce
 
@@ -37987,7 +37982,7 @@ Un ogre adulto è alto sui 3 metri e pesa circa 325 kg.
 
 \emph{\textbf{Spirito dell'Ombra.}} Mentre si trova in una zona di luce fioca l'Ombra rigenera 5 Punti Ferita all'inizio del suo round, se si trova in una zona di oscurità rigenera 10 Punti Ferita all'inizio del suo round e può diventare invisibile usando 1 Azione. Spirito dell'Ombra aumenta il Grado di Sfida dell'Ombra di 1.
 
-\emph{\textbf{Furtività d'Ombra.}} Quando si trova a luce fioca o all'oscurità, l'ombra può effettuare l'azione Nascondersi come azione bonus.
+\emph{\textbf{Furtività d'Ombra.}} Quando si trova a luce fioca o all'oscurità, l'ombra può effettuare l'azione per nascondersi come azione bonus.
 
 \emph{\textbf{Natura Non Morta.}} Un'ombra non necessita aria, cibo, bevande o sonno.
 
@@ -38606,7 +38601,7 @@ In alcuni pegasi il sangue di un antenato che era un eroico stallone è ancora f
 
 \textbf{Tiri Salvezza}: Tempra +13, Riflessi +11, Volontà +4
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +10, Consapevolezza +8
+\textbf{Competenze} Furtività +10, Consapevolezza +8
 
 \textbf{Resistenze al Danno} da arma non magica
 
@@ -38673,7 +38668,7 @@ A causa delle continue evocazioni, molti cacciatori invisibili avversano gli abi
 
 \textbf{Tiri Salvezza}: Tempra +4, Riflessi +5, Volontà +4
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +3
+\textbf{Competenze} Furtività +4, Consapevolezza +3
 
 \textbf{Sensi} Scurovisione 18 m, vista cieca 3 m
 
@@ -39119,7 +39114,7 @@ Abitando zone così estreme, le Salamandre posseggono solo tesori che resistono 
 
 \textbf{Tiri Salvezza}: Tempra +4, Riflessi +8, Volontà +8
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Intrattenere +6, Consapevolezza +2
+\textbf{Competenze} Furtività +5, Intrattenere +6, Consapevolezza +2
 
 \textbf{Linguaggi} Comune, Elfico, Silvano
 
@@ -39563,7 +39558,7 @@ Una tipica sfinge è lunga 3 metri e pesa circa 400 kg. Anche se le loro ali pos
 
 \textbf{Tiri Salvezza}: Tempra +3, Riflessi +3, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente +4, Consapevolezza +3
+\textbf{Competenze} Furtività +4, Consapevolezza +3
 
 \textbf{Sensi} Scurovisione 18 m
 
@@ -39627,7 +39622,7 @@ Di colore grigio scuro, marrone, preferiscono nascondersi nell'oscurità ed atta
 
 \textbf{Tiri Salvezza}: Tempra +0, Riflessi +5, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +8 (la prova è fatta con -1d6 se lo spiritello sta volando), Consapevolezza +3
+\textbf{Competenze} Furtività +8 (la prova è fatta con -1d6 se lo spiritello sta volando), Consapevolezza +3
 
 \textbf{Linguaggi} Comune, Elfico, Silvano
 
@@ -40388,7 +40383,7 @@ Il corno di un unicorno è la fonte dei suoi poteri, e per utilizzare le proprie
 
 \textbf{Tiri Salvezza} : Tempra +17, Riflessi +17, Volontà +14
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +9, Consapevolezza +17
+\textbf{Competenze} Furtività +9, Consapevolezza +17
 
 \textbf{Immunità al Danno} da Vuoto; da arma non magica
 
@@ -40489,7 +40484,7 @@ I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi
 
 \textbf{CARISMA} +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Consapevolezza +3
+\textbf{Competenze} Furtività +6, Consapevolezza +3
 
 \textbf{Resistenze ai Danni} da Vuoto; da arma non magica
 
@@ -40787,7 +40782,7 @@ Una viverna è lunga circa 4,8 metri e la coda rappresenta da sola circa metà d
 
 \textbf{Tiri Salvezza}: Tempra +3, Riflessi +2, Volontà +5
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +3
+\textbf{Competenze} Furtività +4, Consapevolezza +3
 
 \textbf{Resistenze al Danno} da Vuoto; da arma non magica o che non sia argentata
 
@@ -40916,7 +40911,7 @@ I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le cr
 
 \textbf{Tiri Salvezza}: Tempra +8, Riflessi +2, Volontà +5
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +6
+\textbf{Competenze} Furtività +3, Consapevolezza +6
 
 \textbf{Resistenze al Danno} perforante e tagliente di armi non magiche o che non siano di adamantio
 
@@ -40926,7 +40921,7 @@ I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le cr
 
 \textbf{Sfida} 5 (1800 PX)
 
-\emph{\textbf{Mimetismo di Pietra.}} Lo xorn ha +1d6 alle prove di Destrezza (Nascondersi) effettuate per nascondersi su terreno roccioso.
+\emph{\textbf{Mimetismo di Pietra.}} Lo xorn ha +1d6 alle prove di Furtività (Nascondersi) effettuate per nascondersi su terreno roccioso.
 
 \emph{\textbf{Scorrere sulla Terra.}} Lo xorn può scavare attraversa la terra e la pietra non magiche e non lavorate. Quando lo fa, lo xorn non disturba il materiale che sposta.
 
@@ -41510,7 +41505,7 @@ Il cane della morte è un orribile segugio a due teste che si aggira per pianure
 
 \textbf{Tiri Salvezza}: Tempra +4, Riflessi +5, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +5
+\textbf{Competenze} Furtività +4, Consapevolezza +5
 
 \textbf{Sensi} visione al buio 36 m
 
@@ -41556,7 +41551,7 @@ Il cane intermittente deriva il nome dalla sua abilità di entrare e uscire dall
 
 \textbf{Tiri Salvezza}: Tempra +5, Riflessi +5, Volontà +4
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Consapevolezza +3
+\textbf{Competenze} Furtività +5, Consapevolezza +3
 
 \textbf{Lingue} Cane Intermittente, comprende il Silvano ma non può parlarlo
 
@@ -41964,7 +41959,7 @@ DC 11 o cadere prono.
 
 \textbf{Tiri Salvezza}: Tempra +6, Riflessi +4, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +2
+\textbf{Competenze} Furtività +2
 
 \textbf{Lingue} -
 
@@ -42002,7 +41997,7 @@ DC 11 o cadere prono.
 
 \textbf{Tiri Salvezza}: Tempra +15, Riflessi +8, Volontà +8
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5
+\textbf{Competenze} Furtività +5
 
 \textbf{Lingue} -
 
@@ -42084,7 +42079,7 @@ DC 11 o cadere prono.
 
 %\textbf{Tiri Salvezza}: Tempra +2, Riflessi +4, Volontà +1
 
-%\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Consapevolezza +3
+%\textbf{Competenze} Furtività +5, Consapevolezza +3
 
 %\textbf{Lingue} -
 
@@ -42122,7 +42117,7 @@ DC 11 o cadere prono.
 
 \textbf{Tiri Salvezza}: Tempra +6, Riflessi +7, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +5, Consapevolezza +3
+\textbf{Competenze} Furtività +5, Consapevolezza +3
 
 \textbf{Sensi} visione al buio 18 m
 
@@ -42324,7 +42319,7 @@ Il pirana è un pesce carnivoro dai denti affilati.
 
 \textbf{Tiri Salvezza}: Tempra +1, Riflessi +4, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +3
+\textbf{Competenze} Furtività +4, Consapevolezza +3
 
 \textbf{Lingue} -
 
@@ -42362,7 +42357,7 @@ Il pirana è un pesce carnivoro dai denti affilati.
 
 \textbf{Tiri Salvezza}: Tempra +5, Riflessi +2, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4
+\textbf{Competenze} Furtività +4
 
 \textbf{Sensi} vista cieca 9 m
 
@@ -42402,7 +42397,7 @@ Il pirana è un pesce carnivoro dai denti affilati.
 
 \textbf{Tiri Salvezza}: Tempra +2, Riflessi +5, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +3
+\textbf{Competenze} Furtività +3, Consapevolezza +3
 
 \textbf{Sensi} visione al buio 36 m
 
@@ -42446,7 +42441,7 @@ I gufi giganti sono creature intelligenti che proteggono i regni silvani.
 
 \textbf{Tiri Salvezza}: Tempra +1, Riflessi +4, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +5
+\textbf{Competenze} Furtività +4, Consapevolezza +5
 
 \textbf{Sensi} visione al buio 36 m
 
@@ -42564,7 +42559,7 @@ I gufi giganti sono creature intelligenti che proteggono i regni silvani.
 
 \textbf{Tiri Salvezza}: Tempra +6, Riflessi +7, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Consapevolezza +3
+\textbf{Competenze} Furtività +6, Consapevolezza +3
 
 \textbf{Lingue} -
 
@@ -42697,7 +42692,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 \textbf{Tiri Salvezza}: Tempra +5, Riflessi +5, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +3
+\textbf{Competenze} Furtività +4, Consapevolezza +3
 
 \textbf{Lingue} -
 
@@ -42737,7 +42732,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 \textbf{Tiri Salvezza}: Tempra +7, Riflessi +6, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Consapevolezza +3
+\textbf{Competenze} Furtività +4, Consapevolezza +3
 
 \textbf{Lingue} -
 
@@ -42779,7 +42774,7 @@ I lupi invernali abitano nelle regioni artiche e sono creature malvagie e intell
 
 \textbf{Tiri Salvezza}: Tempra +9, Riflessi +6, Volontà +3
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +5
+\textbf{Competenze} Furtività +3, Consapevolezza +5
 
 \textbf{Immunità al Danno} freddo
 
@@ -42787,7 +42782,7 @@ I lupi invernali abitano nelle regioni artiche e sono creature malvagie e intell
 
 \textbf{Sfida} 3 (700 PX)
 
-\emph{\textbf{Camuffamento di Neve.}} Il lupo ha +1d6 alle prove di Destrezza (Nascondersi) effettuate per nascondersi su terreno innevato.
+\emph{\textbf{Camuffamento di Neve.}} Il lupo ha +1d6 alle prove di Furtività (Nascondersi) effettuate per nascondersi su terreno innevato.
 
 \emph{\textbf{Udito e Olfatto Affinato.}} Il lupo ha +1d6 nelle prove di Saggezza (Consapevolezza) basate su udito o olfatto.
 
@@ -43081,7 +43076,7 @@ Alcuni orsi si sono adattati alla vita sottoterra. Costoro hanno le stesse stati
 
 \textbf{Tiri Salvezza}: Tempra +3, Riflessi +5, Volontà +3
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Consapevolezza +4
+\textbf{Competenze} Furtività +6, Consapevolezza +4
 
 \textbf{Lingue} -
 
@@ -43160,7 +43155,7 @@ Alcuni orsi si sono adattati alla vita sottoterra. Costoro hanno le stesse stati
 
 \textbf{Tiri Salvezza}: Tempra -4, Riflessi +2, Volontà -4
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4
+\textbf{Competenze} Furtività +4
 
 \textbf{Sensi} visione al buio 9 m
 
@@ -43206,7 +43201,7 @@ Il ragno fase possiede l'abilità magica di entrare ed uscire dal Piano Etereo. 
 
 \textbf{Tiri Salvezza}: Tempra +8, Riflessi +8, Volontà +3
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6
+\textbf{Competenze} Furtività +6
 
 \textbf{Sensi} visione al buio 18 m
 
@@ -43250,7 +43245,7 @@ Il ragno fase possiede l'abilità magica di entrare ed uscire dal Piano Etereo. 
 
 \textbf{Tiri Salvezza}: Tempra +4, Riflessi +4, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +7
+\textbf{Competenze} Furtività +7
 
 \textbf{Sensi} vista cieca 3 m, visione al buio 18 m
 
@@ -43302,7 +43297,7 @@ Un ragno lupo gigante caccia le prede su terreno aperto o si nasconde in tane o 
 
 \textbf{Tiri Salvezza}: Tempra +2, Riflessi +4, Volontà +1
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +7, Consapevolezza +3
+\textbf{Competenze} Furtività +7, Consapevolezza +3
 
 \textbf{Sensi} vista cieca 3 m, visione al buio 18 m
 
@@ -43346,7 +43341,7 @@ Un ragno lupo gigante caccia le prede su terreno aperto o si nasconde in tane o 
 
 \textbf{Tiri Salvezza}: Tempra -4, Riflessi +1, Volontà -2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +1
+\textbf{Competenze} Furtività +3, Consapevolezza +1
 
 \textbf{Sensi} visione al buio 9 m
 
@@ -43384,7 +43379,7 @@ Una \textbf{rana} è sprovvista di attacchi. Si nutre di piccoli insetti e di so
 
 \textbf{Tiri Salvezza}: Tempra +2, Riflessi +2, Volontà +0
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +3, Consapevolezza +2
+\textbf{Competenze} Furtività +3, Consapevolezza +2
 
 \textbf{Sensi} visione al buio 9 m
 
@@ -44771,7 +44766,7 @@ Lo strige può staccarsi spendendo 1 metro di movimento. Lo fa automaticamente d
 
 \textbf{Tiri Salvezza}: Tempra +4, Riflessi +4, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Consapevolezza +3
+\textbf{Competenze} Furtività +6, Consapevolezza +3
 
 \textbf{Sensi} visione al buio 18 m
 
@@ -44817,7 +44812,7 @@ Lo strige può staccarsi spendendo 1 metro di movimento. Lo fa automaticamente d
 
 \textbf{Tiri Salvezza}: Tempra +5, Riflessi +3, Volontà +2
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Consapevolezza +3
+\textbf{Competenze} Furtività +6, Consapevolezza +3
 
 \textbf{Lingue} -
 
@@ -45222,7 +45217,7 @@ Una spia è un individuo addestramento nel reperire segreti per conto di qualcun
 
 \textbf{Tiri Salvezza}: Tempra +2, Riflessi +3, Volontà +3
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +4, Percepire Emozioni +4, Investigazione +5, Consapevolezza +6, Ingannare +5, Mani di fata +4
+\textbf{Competenze} Furtività +4, Percepire Emozioni +4, Investigazione +5, Consapevolezza +6, Ingannare +5, Mani di fata +4
 
 \textbf{Lingue} due lingue qualsiasi
 
@@ -45230,7 +45225,7 @@ Una spia è un individuo addestramento nel reperire segreti per conto di qualcun
 
 \emph{\textbf{Attacco Furtivo (1/Turno).}} La spia infligge 7 (2d6) danni aggiuntivi quando colpisce un bersaglio con un attacco con arma e ha +1d6 al tiro di attacco, o quando il bersaglio è entro 1 metro da un alleato dell'assassino che non è inabile e l'assassino non ha -1d6 al tiro di attacco.
 
-\emph{\textbf{Azione Astuta.}} Durante ciascun suo round, la spia può usare un'azione bonus per effettuare l'azione Ritirarsi, Nascondersi o Scattare.
+\emph{\textbf{Azione Astuta.}} Durante ciascun suo round, la spia può usare un'azione bonus per effettuare l'azione Ritirarsi, nascondersi o Scattare.
 
 \textbf{Azioni}
 
@@ -45315,7 +45310,7 @@ Solitari o membri di una gilda, gli assassini sono pagati per eliminare, spesso 
 
 \textbf{Tiri Salvezza}: Tempra +10, Riflessi +11, Volontà +8
 
-\textbf{Competenze} Acrobazia +6, Muoversi Silenziosamente / Nascondersi +9, Consapevolezza +3, Raggiro +3
+\textbf{Competenze} Acrobazia +6, Furtività +9, Consapevolezza +3, Raggiro +3
 
 
 \textbf{Lingue} Gergo dei Ladri più due altre lingue
@@ -45840,7 +45835,7 @@ Abili cacciatori e battitori di piste.
 
 \textbf{Tiri Salvezza}: Tempra +1, Riflessi +2, Volontà +3
 
-\textbf{Competenze} Muoversi Silenziosamente / Nascondersi +6, Natura +4, Consapevolezza +5, Sopravvivenza +5
+\textbf{Competenze} Furtività +6, Natura +4, Consapevolezza +5, Sopravvivenza +5
 
 \textbf{Lingue} una qualsiasi lingua (di solito Comune)
 
