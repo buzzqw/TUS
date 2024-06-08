@@ -512,9 +512,9 @@ aggiornata versione POD 2024/06/07
 
 0.84h corretto danno spada larga a due mani, corretto danno naginata, sostituito muoversi silenziosamente e nascondersi nelle ombre con Furtivita'
 
-0.85  aggiornata versione POD 2024/06/08
+0.85 aggiornata versione POD 2024/06/08
 
-0.85
+0.85a chiarimenti su prove contrapposte 
 
 - aggiunti \label{} fino a piani
 
