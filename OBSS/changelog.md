@@ -516,6 +516,10 @@ aggiornata versione POD 2024/06/07
 
 0.85a chiarimenti su prove contrapposte 
 
+aggiornata versione POD 2024/06/09
+
+0.85b
+
 - aggiunti \label{} fino a piani
 
 Aggiungere immagini:
