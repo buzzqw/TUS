@@ -175,7 +175,7 @@ boxrule=0.3pt
 
 
 \begin{document}
-\def \versione {0.84h} \fontsize{10}{12}\selectfont
+\def \versione {0.85a} \fontsize{10}{12}\selectfont
 
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 180
 
@@ -1701,15 +1701,15 @@ The initial Profession and the skills acquired must be marked on the sheet, obvi
 \textbf{Lawyer}& Evaluate&Deceive&Sense Emotions&Diplomacy\\
 \textbf{Librarian}& Nature\&Geography&Local Trad.&Religion\&Arcana&History\\
 \textbf{Lumberjack}& Use Rope&Nature& Navigation&Survival\\
-\textbf{Hunter}& Move Silently&Track&Survival& Nature\\
+\textbf{Hunter}& Stealth&Track&Survival& Nature\\
 \textbf{Caravaneer}&History or Geography&Appraise&Riding&Orientation\\
 \textbf{Theatre}& Sense emotions& Languages&Entertain&Acrobatics\\
 \textbf{Herbalist}& Myths&Geography&Nature&Herbalist\\
 \textbf{Card Player}& Sense emotions&Evaluate&Entertain&Deceive\\
 \textbf{Guard}& Sense Emotions&Knowledge Law&Ride&Intimidate\\
 \textbf{Guide}& Myths&Dungeons&Nature&Geography\\
-\textbf{Pickpocket} & Disable Device&Escape Artist&Move Silently&Fairy Hands\\
-\textbf{Thug}& Survival&Riding&Sense Emotions&Hide in Shadow\\
+\textbf{Pickpocket} & Disable Device&Escape Artist&Stealth&Fairy Hands\\
+\textbf{Thug}& Survival&Riding&Sense Emotions&Stealth\\
 \textbf{Innkeeper}& First Aid&Appraise&Sense Emotions&Diplomacy\\
 \textbf{Merchant}& Languages&Local Traditions&Evaluate&Deceive\\
 \textbf{Miner}& Use Ropes&Evaluate&Orienteering&Dungeons\\
@@ -1760,8 +1760,8 @@ Do not underestimate the choice of Profession!. Not everything can be resolved w
 Climbing & Acrobatics & Arcana & Riding & Diplomacy \\
 Intimidate& Escape Artist &Craft* &\textit{Awareness} & Entertain \\
 Swimming & Fairy Hands & Knowledge* & Animal Handling & Deceive \\
-Jumping & Move Silently & Disabling Devices & Nature & Local Lore \\
-& Hide in Shadow & Herbalism &Orientation & \\
+Jumping & Stealth & Disabling Devices & Nature & Local Lore \\
+&  & Herbalism &Orientation & \\
 & Use Rope & Falsify & Sense Emotions & \\
 & & Appraise &First Aid &\\
 && &Track &\\
@@ -1855,9 +1855,7 @@ Skill with \textbf{*} get penalty given by \hyperlink{equipaggiamento.armature.s
 
 \textbf{Fairy Hands* (DEX)}: With this skill, you can pickpocket, draw a concealed weapon, or perform other actions without being noticed. 1 Action.
 
-\textbf{Move Silently* (DEX)}: With this skill, you are able to move without making noise. 1 Action.
-
-\textbf{Hide in Shadow* (DEX)}: With this skill, you are able to pass unnoticed while standing still. 1 Action.
+\textbf{Stealth* (DEX)}: With this skill, you are able to move without making noise and hide. 1 Action.
 
 \textbf{Nature (WIS)}: With this skill you have knowledge of Animals, Fairies, seasons and cycles, atmospheric weather, plants. 1 Action.
 
@@ -2276,7 +2274,7 @@ When written -1d6 it means that one die is rolled less (or two if it is -2d6), l
 \begin{center}
 \includegraphics[width=0.6\linewidth]{immagini/Foster_Bible_Pictures.png}
 
-\textit{Bible Pictures and What They Teach Us. Experience Awareness, Move Silently}
+\textit{Bible Pictures and What They Teach Us. Experience Awareness, Stealth}
 \end{center}
 
 
@@ -2596,23 +2594,19 @@ If the person attempting the Intimidate check fails critically, he suffers the s
 
 \medskip
 
-\textbf{Tame an animal} is a check of \textbf{Handle Animals} at the animal's DC 12+CR. 1 minute every 5 of DC. With 6 points the time is 1 minute every 10 DCs, with 12 it is 1 minute every 15 DCs. The creature must have Intelligence -3 or higher.
+\textbf{Tame an animal} is a check of \textbf{Handle Animals} at the animal's DC 12+2*CR. 1 minute every 3 of DC. With 6 points the time is 1 minute every 6 DCs, with 12 it is 1 minute every 10 DCs. The creature must have Intelligence -3 or higher.
 
 \medskip
 
-\textbf{Move Silently} \index{Move silently} \textit{Penalty due to Armour.}
+\textbf{Stealth} \index{Hide} \emph{Armor penalty.}\index{Move silently}
 
-The character moving silently is treated as if they were in difficult terrain. The Move Silently check is compared with the opponent's Awareness. The check is considered failed if, even though they haven't been heard, they have revealed themselves. Moving at full speed imposes a -2d6 penalty on the Move Silently check.
+Stealth gathers the abilities to move silently, hide in shadows, go unseen, and all those actions that require not being seen or heard.
 
-\medskip
+Trying to move silently costs no Actions, it is included in the Move Action used to move. However, the terrain is treated as difficult and if it already was, it becomes doubly difficult. Moving at full speed while trying not to make any noise imposes a 2d6 penalty on your Stealth check.
 
-\textbf{Hide in Shadow} \index{Hide in Shadow} \textit{Penalty due to Armour.}
+Although trying to hide is a seemingly simple activity, only those trained in Stealth have a greater chance of not being noticed.
 
-The Hide in Shadow check is opposed by the Awareness check. 
-
-Using \textbf{1 Action} you can try to hide from sight of opponents. It's not possible to hide if the environment doesn't allow it, even though your check may be high you can't hide if there isn't something that can hide or conceal you.
-
-You may \textbf{combine Move Silently and Hide Actions}. The character uses 1 Action to Hide and one or more Actions to Move Silently, always in hindering terrain. Carried out both checks takes the worst for the control of "observers".
+Using \textbf{1 Action} you can try to hide from your opponents' sight. It is not possible to hide if the environment does not allow it, even though your test may be high you cannot hide if there is not something that can hide or conceal you. To hide behind a creature it must be at least 3 sizes larger than you (otherwise the creature only provides cover).
 
 \medskip
 
@@ -3560,7 +3554,7 @@ If characters are taken by surprise, meaning they don't expect to be attacked, t
 
 During this round and for any attacks made during this round, their Defense and Reflex Saving Throw will suffer a -4 penalty. They won't be able to react, use Actions or Reactions unless explicitly allowed. From the next round, they will be able to declare initiative and act normally, and the same applies to opponents.
 
-To determine if a character is surprised, make a reflex save and compare it to the Hide in Shadow (or Move Silently) skill of the opponent. If the saving throw is lower, the character is surprised.
+To determine if a character is surprised, make a reflex save and compare it to the Stealth (or Stealth) skill of the opponent. If the saving throw is lower, the character is surprised.
 
 If the character is on guard and expects an ambush, have them make a DC 15 reflex save. If the check passes, the character is not surprised.
 
@@ -4056,7 +4050,7 @@ Always allow the player to check by evaluating the appropriate modifiers.
 \toprule
 Moving & -4\\
 Running or charging & -8\\
-Using Move Silently & check+10\\
+Using Stealth & check+10\\
 Not moving and make no sound & +8\\
 Every 1 meter beyond 6 m & +2\\
 Light/Medium/Full Coverage & +4/8/12\\
@@ -6187,15 +6181,15 @@ The \textbf{second time} you take this Feat when you make a check to jump long o
 
 \subsection*{Stepper}\index{Stepper}\label{passofelpato}
 
-\textbf{Requirement}: Move Silently 1
+\textbf{Requirement}: Stealth 1
 
 \textbf{Saving Throws}: +1 Reflex, +1 Fortitude
 
 Your step is naturally silent.
 
-The \textbf{first} time you take this Feat the penalty for moving at full speed with the Move Silently Feat becomes -1d6.
+The \textbf{first} time you take this Feat the penalty for moving at full speed with the Stealth Feat becomes -1d6.
 
-The \textbf{second time} you take this Feat, Dexterity requirement 3, Move Silently 8, you have no penalty to moving at full speed.
+The \textbf{second time} you take this Feat, Dexterity requirement 3, Stealth 8, you have no penalty to moving at full speed.
 
 
 \begin{center}
@@ -6764,7 +6758,7 @@ Crow & +2 on Intimidate checks\\
 \textit{Dobi} & +2 on Will save vs Enchantment\\
 Weasel & +1 on Intelligence checks\\
 Hawk & +2 on Sight Awareness\\
-Cat & +2 on Move Silently checks\\
+Cat & +2 on Stealth checks\\
 Owl & +2 on Hearing Awareness\\
 Otter & +2 to Swim checks\\
 Lizard & +2 on Survival checks\\
@@ -12805,7 +12799,7 @@ From a great advantage comes a great disadvantage! (cit. "With great power comes
 
 10: a liter of beer restores 2d4 Hit Points, a bottle of liquor restores 2d8 Hit Points. Not if it's bad quality. You cannot get drunk on natural liquids.
 
-\textbf{Cat fall}\index{Cat fall} 5: you ignore the first 3 meters of the fall. +2 to Move Silently.
+\textbf{Cat fall}\index{Cat fall} 5: you ignore the first 3 meters of the fall. +2 to Stealth.
 
 \textbf{Chameleon}\index{Chameleon} 10-20: Your skin can change color. Time required 1 minute/1 round.
 
@@ -12974,7 +12968,7 @@ You gain +1d6 on checks to recognize a natural potion or poison.
 
 \textbf{Fearless} \index{Fearless}10: You are immune to fear, magical or otherwise.
 
-\textbf{Silent} \index{Silent}5: +1d6 on move silently.
+\textbf{Silent} \index{Silent}5: +1d6 on Stealth.
 
 \textbf{Spine} \index{Spine}5: and you're ugly too. 1d4 of damage.
 
@@ -13476,7 +13470,7 @@ you are slow and listless
 
 You don't do it on purpose, but there is always some noise around you. A sword flapping, a yawn, a burp, a clattering shoe…
 
-\textbf{5}: You have a -2 on Move Silently checks
+\textbf{5}: You have a -2 on Stealth checks
 
 \textbf{Leakblood}\index{Leakblood}
 
@@ -13672,7 +13666,7 @@ You are capable of unleashing hell with magic. The difficulty (DC) of each of yo
 
 \textbf{Requirement: A life devoted to hiding and surprising enemies}
 
-Three times a day you can switch positions with an opponent within 30 meters as long as you are both in a shaded area. DC Will save equal to the Hide in shadows check +10.\\
+Three times a day you can switch positions with an opponent within 30 meters as long as you are both in a shaded area. DC Will save equal to the Stealth check +10.\\
 
 {\Large{\textbf{The Mother}}}\index{The Mother}
 
@@ -14628,7 +14622,7 @@ Tazher's Devotee is the thief, the murderer, the bandit, anyone who lives for da
 - \textbf{Feature}: Dexterity\\
 - \textbf{Traits}: Grumpy, Calculator, Perfectionist, Bad, Insensitive, Gruff, Corrupted, Reserved, Unfair, Imaginative, Hypocritical\\
 - \textbf{Manifest}: The Devout's shadow comes to life by moving the weapon\\
-- \textbf{Sum of common Traits to 5 points} points: You gain +2 on Hide and Move Silently checks.\\
+- \textbf{Sum of common Traits to 5 points} points: You gain +2 on Hide and Stealth checks.\\
 - \textbf{Sum of common Traits to 10 points}: Once a day you make one more attack (without penalty). An Immediate Action.\\
 - \textbf{Sum of common Traits to 15 points}: As long as you walk on shadows or in darkness (dim light or darkness) you are invisible. You can still be detected with light or divination spells.\\
 - \textbf{Sum of common Traits to 20 points}: Every successful melee attack in this round generates a crit. Cost 1 Reaction Action to be declared also after the Attack Roll but before knowing if the roll were successful. Usable 3 times per day.\\
@@ -16489,7 +16483,7 @@ Blinded creatures lose their Ability to deal extra damage caused by such as Snea
 
 Blinded creatures move at half speed\index{Moving in darkness}. They must make a DC 12 Acrobatics check per move Action to move at normal speed. If the check fails, they fall prone. Blinded creatures cannot charge.
 
-A blinded creature, or fighting an invisible creature,\index{Invisible} can make an Awareness check at difficulty 20 (or 10+Move silently of the opponent if he doesn't want to be found) to detect the creature as long as it is within twice melee distance from the character.
+A blinded creature, or fighting an invisible creature,\index{Invisible} can make an Awareness check at difficulty 20 (or 10+Stealth of the opponent if he doesn't want to be found) to detect the creature as long as it is within twice melee distance from the character.
 
 A blinded creature \index{Blinded} takes a -1d6 penalty on Awareness checks and a -2 penalty on Strength- and Dexterity-based checks, and automatically fails any sight-dependent Awareness check.
 
@@ -17537,7 +17531,7 @@ As with walls, there are many types of dungeon floors.
 
 \textbf{Low Cobblestone}: Small and sparse debris is present on the ground. A floor with little cobblestone on it adds 2 to the DC of Acrobatics checks.
 
-\textbf{Dense Cobblestone}: The ground is covered in debris of all sizes. Cobblestone is considered difficult terrain. A floor strewn with dense cobblestone adds 5 to the DC of Acrobatics checks, and adds 2 to the DC of Awareness (Move Silently) checks
+\textbf{Dense Cobblestone}: The ground is covered in debris of all sizes. Cobblestone is considered difficult terrain. A floor strewn with dense cobblestone adds 5 to the DC of Acrobatics checks, and adds 2 to the DC of Awareness (Stealth) checks
 
 \textbf{Smooth Stone Floor}: Smooth, perfect, and sometimes even polished floors are found only in dungeons created by skilled and careful builders.
 
@@ -17980,7 +17974,7 @@ This table indicates the duration of the guard shifts and the total rest time of
 
 \medskip{}
 
-A sharp noise grants a DC 15 Awareness check, or equal to the opponent's Move Silently check +8, to wake up.\index{Waking up to noise
+A sharp noise grants a DC 15 Awareness check, or equal to the opponent's Stealth check +8, to wake up.\index{Waking up to noise
 }\index{Rumor on night}
 
 \end{multicols}
@@ -22517,7 +22511,7 @@ Medium or heavy Armour, but not leather, uncommon +800 gp above base Armour pric
 
 \smallskip* \textbf{Shadow}\index[MagicItem]{Armour and Shields!Shadow}
 
-This Armour makes the wearer blurry whenever he attempts to hide, providing a +5 bonus on his Hide in Shadows checks. The Armour check penalty applies normally.
+This Armour makes the wearer blurry whenever he attempts to hide, providing a +5 bonus on his Stealth checks. The Armour check penalty applies normally.
 
 \textbf{Details}: Weak Illusion Aura; Building Requirements Craft Magic Item, Invisibility, Silence; Cost +1,875 gp.
 
@@ -22851,7 +22845,7 @@ these gauntlets may be of soft leather or heavy protective material suitable for
 5,000 gp, uncommon, While wearing these boots, your walking speed becomes 10 meters unless faster, and your speed isn't reduced if you're encumbered or wearing heavy Armour. Additionally, you jump three times the normal distance, up to a maximum of 10 meters.
 
 \index[MagicItem]{Elf Boots}\smallskip* \textbf{Elf Boots}
-3000 gp, uncommon, While wearing these boots, your footsteps make no sound, no matter what surface you're crossing. You have +1d6 on Move Silently checks.
+3000 gp, uncommon, While wearing these boots, your footsteps make no sound, no matter what surface you're crossing. You have +1d6 on Stealth checks.
 
 \index[MagicItem]{Winter Boots}\smallskip* \textbf{Winter Boots}
 10,000 gp, rare, while wearing these boots you have resistance to cold damage, ignore hindering terrain produced by snow or ice. You can tolerate temperatures down to -45C without the need for additional protection. If you wear warm clothes, you can tolerate temperatures as low as -75C.
@@ -23551,7 +23545,7 @@ these two magical crystal lenses overlap the pupils of the eyes. When a creature
 1500 gp, uncommon, while wearing these dark lenses, you have darkvision, with a range of 20 meters. If you already have darkvision, wearing these glasses increases its range by 20 meters.
 
 \smallskip* \textbf{Tunic of Camouflage}\index[MagicItem]{Tunic of Camouflage}
-1500 gp, rare, when wearing this robe, a character immediately understands its power. A cloak of camouflage allows the character to blend into whatever surroundings they may have and to hide. It has +1d6 on Hide in Shadows checks. The wielder can assume the appearance of another humanoid at will, as with the alter self (change appearance) spell. In this case, the owner's friends and those who know him very well are instinctively aware of his true identity.
+1500 gp, rare, when wearing this robe, a character immediately understands its power. A cloak of camouflage allows the character to blend into whatever surroundings they may have and to hide. It has +1d6 on Stealth checks. The wielder can assume the appearance of another humanoid at will, as with the alter self (change appearance) spell. In this case, the owner's friends and those who know him very well are instinctively aware of his true identity.
 
 \smallskip* \textbf{Archmage's Robe}\index[MagicItem]{Archmage's Robe}
 8,000 gp, legendary, this seemingly ordinary suit can be yellow (01-45 on 1d100), gray (46-75), or black (76-00). May only be worn by a spellcaster with Magic Proficiency 2 or higher. Grants the following bonuses:
@@ -26958,7 +26952,7 @@ To the untrained eye the Azers are strikingly similar to each other. They are 1.
 
 \textbf{Saving Throws} Fortitude +6, Reflexes +7, Will +5
 
-\textbf{Skills} Move Silently / Hide +8, Awareness +6
+\textbf{Skills} Stealth +8, Awareness +6
 
 \textbf{Resistance} +4 on Saving Throws to spells from the Illusion list
 
@@ -27184,7 +27178,7 @@ For unknown reasons, weasels and ferrets are immune to the basilisk's gaze, and 
 
 \textbf{Saving Throws}: Fortitude +15, Reflexes +14, Will +11
 
-\textbf{Skills} Move Silently / Hide +7, Awareness +6
+\textbf{Skills} Stealth +7, Awareness +6
 
 \textbf{Damage Immunity} Electricity
 
@@ -27750,7 +27744,7 @@ Disgusting, nauseating, and hungry - these are the only words that adequately de
 
 \textbf{Saving Throws} Fortitude +2, Reflexes +3, Will +1
 
-\textbf{Skills} Move Silently / Hide +6, Survival +2
+\textbf{Skills} Stealth +6, Survival +2
 
 \textbf{Senses} Darkvision 18m
 
@@ -27905,7 +27899,7 @@ The Bulette is a cunning fighter, surprising enemies with impressive agility. On
 
 \textbf{Saving Throws}: Fortitude +1, Reflexes +4, Will +1
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +3
+\textbf{Skills} Stealth +4, Awareness +3
 
 \textbf{Languages} -
 
@@ -28431,7 +28425,7 @@ The origins of the Crawling Tentacled Worm are rather speculative, some hypothes
 
 \textbf{Movement} 6m, swim 6m
 
-\textbf{Skills} Move Silently / Hide +2
+\textbf{Skills} Stealth +2
 
 \textbf{Damage Resistances} cold, fire
 
@@ -28499,7 +28493,7 @@ Common creeping mounds lead a nomadic, solitary existence in deep forests and fe
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +4, Will +2
 
-\textbf{Skills} Move Silently / Hide +2
+\textbf{Skills} Stealth +2
 
 \textbf{Languages} -
 
@@ -28600,7 +28594,7 @@ With the aim of finally being killed, he throws himself into every fight hoping 
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +3, Will +0
 
-\textbf{Skills} Move Silently / Hide +3
+\textbf{Skills} Stealth +3
 
 \textbf{Senses} blindsight 18 m
 
@@ -28776,7 +28770,7 @@ Usually a Deathpillager is always accompanied by several guardians (other creatu
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +6, Will +2
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +2
+\textbf{Skills} Stealth +4, Awareness +2
 
 \textbf{Senses} darkvision 40m
 
@@ -29531,7 +29525,7 @@ Orcus is the Daemon Prince of the undead. He favors the company and service of t
 
 \textbf{Saving Throws} Fortitude +1, Reflexes +4, Will +1
 
-\textbf{Skills} Move Silently / Hide +5
+\textbf{Skills} Stealth +5
 
 \textbf{Damage Resistances} cold, electricity, fire; from a non-magical weapon
 
@@ -30295,7 +30289,7 @@ Tyrannosaurus is a primary predator measuring 12 meters in length and weighing 7
 
 \textbf{Saving Throws}: Fortitude +7, Reflexes +6, Will +2
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +3
+\textbf{Skills} Stealth +4, Awareness +3
 
 \textbf{Languages} -
 
@@ -30379,7 +30373,7 @@ Organization: group\\
 
 \textbf{Saving Throws}: Fortitude +4, Reflexes +5, Will +2
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +5
+\textbf{Skills} Stealth +4, Awareness +5
 
 \textbf{Senses} vision in the dark 36 m
 
@@ -30585,7 +30579,7 @@ In the Description of each Ancient Dragon you will find a brief description of t
 
 \textbf{Saving Throws} Fortitude +22, Reflexes +19, Will +18
 
-\textbf{Skills} Move Silently / Hide +7, Awareness +11
+\textbf{Skills} Stealth +7, Awareness +11
 
 \textbf{Damage Immunity} acid
 
@@ -30676,7 +30670,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +21, Reflexes +16, Will +18
 
-\textbf{Skills} Move Silently / Hide +5, Awareness +12
+\textbf{Skills} Stealth +5, Awareness +12
 
 \textbf{Damage Immunity} Electricity
 
@@ -30763,7 +30757,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +18, Reflexes +13, Will +14
 
-\textbf{Skills} Move Silently / Hide +5, Awareness +11, Deceive +8, History +7
+\textbf{Skills} Stealth +5, Awareness +11, Deceive +8, History +7
 
 \textbf{Damage Immunity} Fire
 
@@ -30855,7 +30849,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +21, Reflexes +15, Will +17
 
-\textbf{Skills} Move Silently / Hide +5, Sense Emotions +7, Awareness +12
+\textbf{Skills} Stealth +5, Sense Emotions +7, Awareness +12
 
 \textbf{Damage Immunity} Electricity
 
@@ -30943,7 +30937,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +19, Reflexes +15, Will +16
 
-\textbf{Skills} Move Silently / Hide +6, Deceive +8, Awareness +12
+\textbf{Skills} Stealth +6, Deceive +8, Awareness +12
 
 \textbf{Damage Immunity} acid
 
@@ -31035,7 +31029,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +24, Reflexes +19, Will +19
 
-\textbf{Skills} Move Silently / Hide +8, Sense Emotions +8, Awareness +14, Deceive +13
+\textbf{Skills} Stealth +8, Sense Emotions +8, Awareness +14, Deceive +13
 
 \textbf{Damage Immunity} Fire
 
@@ -31132,7 +31126,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +20, Reflexes +16, Will +17
 
-\textbf{Skills} Move Silently / Hide +6, Deceive +8, Sense Emotions +7, Awareness +12
+\textbf{Skills} Stealth +6, Deceive +8, Sense Emotions +7, Awareness +12
 
 \textbf{Immunity to Damage} Poison
 
@@ -31226,7 +31220,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +23, Reflexes +17, Will +18
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +13
+\textbf{Skills} Stealth +6, Awareness +13
 
 \textbf{Damage Immunity} Fire
 
@@ -31316,7 +31310,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +22, Reflexes +16, Will +17
 
-\textbf{Skills} Arcane +8, Hide / Move Silently +5, Awareness +11, History +8
+\textbf{Skills} Arcane +8, Hide / Stealth +5, Awareness +11, History +8
 
 \textbf{Damage Immunity} cold
 
@@ -31413,7 +31407,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +19, Reflexes +13, Will +14
 
-\textbf{Skills} Move Silently / Hide +5, Awareness +11
+\textbf{Skills} Stealth +5, Awareness +11
 
 \textbf{Damage Immunity} cold
 
@@ -31501,7 +31495,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +28, Reflexes +23, Will +23
 
-\textbf{Skills} Move Silently / Hide +9, Awareness +16
+\textbf{Skills} Stealth +9, Awareness +16
 
 \textbf{Damage Immunity} acid, weapons +1
 
@@ -31607,7 +31601,7 @@ The Black Dragon is the only creature on Yeru that can bring a dead man to life 
 
 \textbf{Saving Throws} Fortitude +31, Reflexes +23, Will +22
 
-\textbf{Skills} Move Silently / Hide +7, Awareness +17
+\textbf{Skills} Stealth +7, Awareness +17
 
 \textbf{Damage Immunity} electricity, weapons +1
 
@@ -31708,7 +31702,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +27, Reflexes +20, Will +22
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +14, Deceive +10, History +9
+\textbf{Skills} Stealth +6, Awareness +14, Deceive +10, History +9
 
 \textbf{Damage Immunity} Fire, weapons +1
 
@@ -31798,7 +31792,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +30, Reflexes +22, Will +25
 
-\textbf{Skills} Move Silently / Hide +7, Sense Emotions +10, Awareness +17
+\textbf{Skills} Stealth +7, Sense Emotions +10, Awareness +17
 
 \textbf{Damage Immunity} electricity, weapons +1
 
@@ -31894,7 +31888,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +28, Reflexes +22, Will +23
 
-\textbf{Skills} Move Silently / Hide +8, Deceive +11, Awareness +17
+\textbf{Skills} Stealth +8, Deceive +11, Awareness +17
 
 \textbf{Damage Immunity} acid, weapons +1
 
@@ -31985,7 +31979,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +33, Reflexes +26, Will +27
 
-\textbf{Skills} Move Silently / Hide +9, Sense Emotions +10, Awareness +17, Deceive +16
+\textbf{Skills} Stealth +9, Sense Emotions +10, Awareness +17, Deceive +16
 
 \textbf{Damage Immunity} Fire, weapons +1
 
@@ -32076,7 +32070,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +29, Reflexes +23, Will +25
 
-\textbf{Skills} Move Silently / Hide +8, Deceive +11, Sense Emotions +10, Awareness +15
+\textbf{Skills} Stealth +8, Deceive +11, Sense Emotions +10, Awareness +15
 
 \textbf{Damage Immunity} poison, weapons +1
 
@@ -32176,7 +32170,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +32, Reflexes +23, Will +25
 
-\textbf{Skills} Arcane +11, Move Silently / Hide +7, Awareness +16, Story +11
+\textbf{Skills} Arcane +11, Stealth +7, Awareness +16, Story +11
 
 \textbf{Damage Immunity} cold, weapons +1
 
@@ -32268,7 +32262,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +28, Reflexes +20, Will +21
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +13
+\textbf{Skills} Stealth +6, Awareness +13
 
 \textbf{Damage Immunity} cold, weapons +1
 
@@ -32364,7 +32358,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +2, Reflexes +2, Will +0
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +4
+\textbf{Skills} Stealth +4, Awareness +4
 
 \textbf{Damage Immunity} acid
 
@@ -32417,7 +32411,7 @@ Read Ancient Black Dragon Description.
 
 \textbf{Saving Throws} Fortitude +4, Reflexes +1, Will +1
 
-\textbf{Skills} Move Silently / Hide +2, Awareness +4
+\textbf{Skills} Stealth +2, Awareness +4
 
 \textbf{Damage Immunity} electricity
 
@@ -32469,7 +32463,7 @@ Read Ancient Blu Dragon Description.
 
 \textbf{Saving Throws} Fortitude +2, Reflexes +0, Will +1
 
-\textbf{Skills} Move Silently / Hide +2, Awareness +4
+\textbf{Skills} Stealth +2, Awareness +4
 
 \textbf{Damage Immunity} Fire
 
@@ -32525,7 +32519,7 @@ Excellent conversationalists, brass dragons prefer to talk rather than fight. Br
 
 \textbf{Saving Throws} Fortitude +2, Reflexes +1, Will +1
 
-\textbf{Skills} Move Silently / Hide +2, Awareness +4
+\textbf{Skills} Stealth +2, Awareness +4
 
 \textbf{Damage Immunity} Electricity
 
@@ -32582,7 +32576,7 @@ Bronze dragons are known to ally with travelers and adventurers if the cause and
 
 \textbf{Saving Throws} Fortitude +3, Reflexes +2, Will +1
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +4
+\textbf{Skills} Stealth +4, Awareness +4
 
 \textbf{Damage Immunity} Fire
 
@@ -32639,7 +32633,7 @@ Golden dragons are the emblem of virtue. Other Ljust's dragons revere them as ag
 
 \textbf{Saving Throws} Fortitude +3, Reflexes +1, Will +0
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +4
+\textbf{Skills} Stealth +3, Awareness +4
 
 \textbf{Immunity to Damage} Poison
 
@@ -32694,7 +32688,7 @@ Read Ancient Green Dragon Description
 
 \textbf{Saving Throws} Fortitude +4, Reflexes +3, Will +1
 
-\textbf{Skills} Move Silently / Hide +2, Awareness +4
+\textbf{Skills} Stealth +2, Awareness +4
 
 \textbf{Damage Immunity} Fire
 
@@ -32745,7 +32739,7 @@ Read Ancient Red Dragon Description
 
 \textbf{Saving Throws} Fortitude +3, Reflexes +3, Will +2
 
-\textbf{Skills} Move Silently / Hide +2, Awareness +4
+\textbf{Skills} Stealth +2, Awareness +4
 
 \textbf{Damage Immunity} cold
 
@@ -32801,7 +32795,7 @@ Of all dragons, the silver ones are the bravest, and hold a code of chivalry tha
 
 \textbf{Saving Throws} Fortitude +2, Reflexes +1, Will +1
 
-\textbf{Skills} Move Silently / Hide +2, Awareness +4
+\textbf{Skills} Stealth +2, Awareness +4
 
 \textbf{Damage Immunity} cold
 
@@ -32852,7 +32846,7 @@ Read Ancient White Dragon Description.
 
 \textbf{Saving Throws} Fortitude +33, Reflexes +24, Will +26
 
-\textbf{Skills} Move Silently / Hide +7, Awareness +16
+\textbf{Skills} Stealth +7, Awareness +16
 
 \textbf{Damage Immunity} Fire, weapons +1
 
@@ -32946,7 +32940,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +9, Reflexes +8, Will +7
 
-\textbf{Skills} Move Silently / Hide +5, Awareness +6
+\textbf{Skills} Stealth +5, Awareness +6
 
 \textbf{Damage Immunity} acid
 
@@ -33013,7 +33007,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +10, Reflexes +8, Will +8
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +9
+\textbf{Skills} Stealth +4, Awareness +9
 
 \textbf{Damage Immunity} Electricity
 
@@ -33078,7 +33072,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +9, Reflexes +8, Will +7
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +6, Deceive +5
+\textbf{Skills} Stealth +3, Awareness +6, Deceive +5
 
 \textbf{Damage Immunity} Fire
 
@@ -33142,7 +33136,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +10, Reflexes +8, Will +10
 
-\textbf{Skills} Move Silently / Hide +3, Sense Emotions +4, Awareness +7
+\textbf{Skills} Stealth +3, Sense Emotions +4, Awareness +7
 
 \textbf{Damage Immunity} Electricity
 
@@ -33212,7 +33206,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +9, Reflexes +8, Will +8
 
-\textbf{Skills} Move Silently / Hide +4, Deceive +5, Awareness +7
+\textbf{Skills} Stealth +4, Deceive +5, Awareness +7
 
 \textbf{Damage Immunity} acid
 
@@ -33280,7 +33274,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +15, Reflexes +12, Will +11
 
-\textbf{Skills} Move Silently / Hide +6, Sense Emotions +5, Awareness +9, Deceive +9
+\textbf{Skills} Stealth +6, Sense Emotions +5, Awareness +9, Deceive +9
 
 \textbf{Damage Immunity} Fire
 
@@ -33351,7 +33345,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +9, Reflexes +7, Will +9
 
-\textbf{Skills} Move Silently / Hide +4, Deceive +5, Awareness +7
+\textbf{Skills} Stealth +4, Deceive +5, Awareness +7
 
 \textbf{Immunity to Damage} Poison
 
@@ -33420,7 +33414,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +15, Reflexes +10 Will +10
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +8
+\textbf{Skills} Stealth +4, Awareness +8
 
 \textbf{Damage Immunity} Fire
 
@@ -33485,7 +33479,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +10, Reflexes +8, Will +12
 
-\textbf{Skills} Arcane +6, Hide / Move Silently +4, Awareness +8, History +6
+\textbf{Skills} Arcane +6, Hide / Stealth +4, Awareness +8, History +6
 
 \textbf{Damage Immunity} cold
 
@@ -33553,7 +33547,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +8, Reflexes +7, Will +5
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +6
+\textbf{Skills} Stealth +3, Awareness +6
 
 \textbf{Damage Immunity} cold
 
@@ -33620,7 +33614,7 @@ This dragon's favorite spells are:\\
 
 \textbf{Saving Throws} Fortitude +5, Reflexes +9, Will +7
 
-\textbf{Skills} Move Silently / Hide +5, Awareness +4
+\textbf{Skills} Stealth +5, Awareness +4
 
 \textbf{Senses} Darkvision 18m
 
@@ -33687,7 +33681,7 @@ Dryads are benevolent guardians of trees, and while not violent in nature, they 
 
 \textbf{Saving Throws} Fortitude +11, Reflexes +9, Will +9
 
-\textbf{Skills} Move Silently / Hide +9, Awareness +5
+\textbf{Skills} Stealth +9, Awareness +5
 
 \textbf{Senses} darkvision 36m
 
@@ -34177,7 +34171,7 @@ Erinyes are beautiful and dark angels who deliberately enhance their sensuality 
 
 \textbf{Saving Throws} Fortitude +6, Reflexes +4, Will +6
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +3, Survival +3
+\textbf{Skills} Stealth +4, Awareness +3, Survival +3
 
 \textbf{Senses} Darkvision 18m
 
@@ -34416,7 +34410,7 @@ The fase dog gets its name from its ability to slip in and out of reality, a tal
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +5, Will +4
 
-\textbf{Skills} Move Silently / Hide +5, Awareness +3
+\textbf{Skills} Stealth +5, Awareness +3
 
 \textbf{Languages} Fase Dog, understands Sylvan but cannot speak it
 
@@ -34613,7 +34607,7 @@ A flying serpent is a richly colored, winged serpent found in remote jungles.
 
 \textbf{Saving Throws}: Fortitude -4, Reflexes +1, Will -2
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +1
+\textbf{Skills} Stealth +3, Awareness +1
 
 \textbf{Senses} vision in the dark 9m
 
@@ -35660,7 +35654,7 @@ Rotting Ghouls are one of the many evolutions of Ghouls. The continuous contact 
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +2, Will +1
 
-\textbf{Skills} Move Silently / Hide +4
+\textbf{Skills} Stealth +4
 
 \textbf{Senses} blindsight 9 m
 
@@ -35702,7 +35696,7 @@ Rotting Ghouls are one of the many evolutions of Ghouls. The continuous contact 
 
 \textbf{Saving Throws}: Fortitude +15, Reflexes +8, Will +8
 
-\textbf{Skills} Move Silently / Hide +5
+\textbf{Skills} Stealth +5
 
 \textbf{Languages} -
 
@@ -35838,7 +35832,7 @@ A giant fire beetle is a nocturnal creature that possesses a pair of glow glands
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +2, Will +0
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +2
+\textbf{Skills} Stealth +3, Awareness +2
 
 \textbf{Senses} vision in the dark 9 m
 
@@ -36020,7 +36014,7 @@ Giant owls are intelligent creatures that protect the woodland kingdoms.
 
 \textbf{Saving Throws}: Fortitude +1, Reflexes +4, Will +1
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +5
+\textbf{Skills} Stealth +4, Awareness +5
 
 \textbf{Senses} vision in the dark 36 m
 
@@ -36250,7 +36244,7 @@ melee against any creature that isn't at full Hit Points.
 
 \textbf{Saving Throws}: Fortitude +4, Reflexes +4, Will +1
 
-\textbf{Skills} Move Silently / Hide +7
+\textbf{Skills} Stealth +7
 
 \textbf{Senses} blindsight 3m, darksight 18m
 
@@ -36474,7 +36468,7 @@ The giant vulture possesses superior intelligence and a mischievous aptitude.
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +7, Will +2
 
-\textbf{Skills} Move Silently / Hide +5, Awareness +3
+\textbf{Skills} Stealth +5, Awareness +3
 
 \textbf{Senses} vision in the dark 18 m
 
@@ -36518,7 +36512,7 @@ A giant wolf spider hunts for prey in open ground or hides in burrows or crevice
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +4, Will +1
 
-\textbf{Skills} Move Silently / Hide +7, Awareness +3
+\textbf{Skills} Stealth +7, Awareness +3
 
 \textbf{Senses} blindsight 3m, darksight 18m
 
@@ -37543,7 +37537,7 @@ Their meat is tough and sinewy (once the Armour is removed), and to those who ta
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +7, Will +7
 
-\textbf{Skills} Arcane +3, Move Silently / Hide +3, Deceive +4, Awareness +4
+\textbf{Skills} Arcane +3, Stealth +3, Deceive +4, Awareness +4
 
 \textbf{Senses} Darkvision 18m
 
@@ -37730,7 +37724,7 @@ Griffins can carry up to 150kg as a light load, 300kg as a medium load and 450kg
 
 \textbf{Saving Throws}: Fortitude +3, Reflexes +1, Will +0
 
-\textbf{Skills} Acrobatics +5, Move Silently / Hide +3, Awareness +3
+\textbf{Skills} Acrobatics +5, Stealth +3, Awareness +3
 
 \textbf{Condition Immunity} blinded
 
@@ -37843,7 +37837,7 @@ Grimlocks are blind, savage humans who inhabit the realm of the deep darklands, 
 
 \textbf{Saving Throws}: Fortitude +14, Reflexes +8, Will +11
 
-\textbf{Skills} Move Silently / Hide +6, Deceive +7, Sense Emotions +6, Awareness +6,
+\textbf{Skills} Stealth +6, Deceive +7, Sense Emotions +6, Awareness +6,
 
 \textbf{Damage Resistances} cold, fire; from a non-magical weapon or are not silvered
 
@@ -38390,7 +38384,7 @@ Hydra is a multi-headed, but stupid dragon.
 
 \textbf{Saving Throws} Fortitude +1, Reflexes +6, Will +4
 
-\textbf{Skills} Move Silently / Hide +5, Deceive +4, Sense Emotions +3
+\textbf{Skills} Stealth +5, Deceive +4, Sense Emotions +3
 
 \textbf{Damage Resistances} cold; from a non-magical or non-silver weapon
 
@@ -38460,7 +38454,7 @@ Unlike other devils, imps often find themselves free and alone in the Material P
 
 \textbf{Saving Throws}: Fortitude +13, Reflexes +11, Will +4
 
-\textbf{Skills} Move Silently / Hide +10, Awareness +8
+\textbf{Skills} Stealth +10, Awareness +8
 
 \textbf{Damage Resistances} from non-magical weapon
 
@@ -38706,7 +38700,7 @@ A kraken is nearly 30 meters long and weighs 2000kg.
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +9, Will +11
 
-\textbf{Skills} Move Silently / Hide +3, Deceive +7, Sense Emotions +4,
+\textbf{Skills} Stealth +3, Deceive +7, Sense Emotions +4,
 
 \textbf{Senses} Darkvision 18m
 
@@ -39010,7 +39004,7 @@ Few creatures are more feared than liches. The pinnacle of the necromantic arts,
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +7, Will +2
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +3
+\textbf{Skills} Stealth +6, Awareness +3
 
 \textbf{Languages} -
 
@@ -39101,7 +39095,7 @@ bite attack as a bonus action.
 
 \textbf{Saving Throws}: Fortitude +4, Reflexes +0, Will +0
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +3, Survival +5
+\textbf{Skills} Stealth +4, Awareness +3, Survival +5
 
 \textbf{Languages} Draconic
 
@@ -39442,7 +39436,7 @@ While manticores are similar to magical creations, they have long been counted a
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +8, Will +7
 
-\textbf{Skills} Move Silently / Hide +5, Deceive +5, Sense Emotions +4, Awareness +4
+\textbf{Skills} Stealth +5, Deceive +5, Sense Emotions +4, Awareness +4
 
 \textbf{Senses} Darkvision 18m
 
@@ -39512,7 +39506,7 @@ All jellyfish are female. Rarely, a medusa decides to take a humanoid male as a 
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +5, Will +3
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +2
+\textbf{Skills} Stealth +4, Awareness +2
 
 \textbf{Vulnerability to Damage} fire
 
@@ -39575,7 +39569,7 @@ Dust mephits are commonly found on the Plane of Air. These mephits are annoying 
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +5, Will +3
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +2
+\textbf{Skills} Stealth +3, Awareness +2
 
 \textbf{Vulnerability to Damage} from slam, fire
 
@@ -39642,7 +39636,7 @@ Ice mephits are commonly found on the Plane of Air. These mephits are aloof and 
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +5, Will +3
 
-\textbf{Skills} Move Silently / Hide +3
+\textbf{Skills} Stealth +3
 
 \textbf{Vulnerability to Damage} cold
 
@@ -39769,7 +39763,7 @@ Steam mephits are commonly found on the Plane of Fire. These mephits are defiant
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +5, Will +6
 
-\textbf{Skills} Move Silently / Hide +5
+\textbf{Skills} Stealth +5
 
 \textbf{Damage Immunity} acid
 
@@ -40233,7 +40227,7 @@ Many cultures practice the sacred art of mummification, though the sinister magi
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +5, Will +7
 
-\textbf{Skills} Move Silently / Hide +5
+\textbf{Skills} Stealth +5
 
 \textbf{Senses} Darkvision 18m
 
@@ -40836,7 +40830,7 @@ What most races find terrifying about otyughs isn't their diet or the smell of t
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +5, Will +2
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +3
+\textbf{Skills} Stealth +3, Awareness +3
 
 \textbf{Senses} vision in the dark 36 m
 
@@ -41023,7 +41017,7 @@ The Panoptikhans have a very long life, in the order of a thousand years but the
 
 \textbf{Saving Throws}: Fortitude +3, Reflexes +5, Will +3
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +4
+\textbf{Skills} Stealth +6, Awareness +4
 
 \textbf{Languages} -
 
@@ -41128,7 +41122,7 @@ The phase spider has the magical ability to enter and exit the Ethereal Plane. I
 
 \textbf{Saving Throws}: Fortitude +8, Reflexes +8, Will +3
 
-\textbf{Skills} Move Silently / Hide +6
+\textbf{Skills} Stealth +6
 
 \textbf{Senses} vision in the dark 18 m
 
@@ -41435,7 +41429,7 @@ Some bears have adapted to life underground. They have the same stats as polar b
 
 \textbf{Saving Throws}: Fortitude +4, Reflexes +5, Will +4
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +3
+\textbf{Skills} Stealth +4, Awareness +3
 
 \textbf{Senses} Darkvision 18m, blindsight 3m
 
@@ -41841,7 +41835,7 @@ A remorhaz is 7 meters long and weighs 5000 kg.
 
 \textbf{Saving Throws}: Fortitude +13, Reflexes +5, Will +13
 
-\textbf{Skills} Move Silently / Hide +5, Awareness +6
+\textbf{Skills} Stealth +5, Awareness +6
 
 \textbf{Senses} Darkvision 18m
 
@@ -41970,7 +41964,7 @@ Fortunately, it is often possible to escape a rust monster's attentions by throw
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +3, Will +2
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +3
+\textbf{Skills} Stealth +6, Awareness +3
 
 \textbf{Languages} -
 
@@ -42156,7 +42150,7 @@ Inhabiting such extreme areas, Salamanders possess only treasures that can withs
 
 \textbf{Saving Throws}: Fortitude +4, Reflexes +8, Will +8
 
-\textbf{Skills} Move Silently / Hide +5, Perform +6, Awareness +2
+\textbf{Skills} Stealth +5, Perform +6, Awareness +2
 
 \textbf{Languages} Common, Elvish, Sylvan
 
@@ -42301,7 +42295,7 @@ The children born of these encounters are always full-blooded satyrs and are gen
 
 \textbf{Saving Throws}: Fortitude +3, Reflexes +3, Will +4
 
-\textbf{Skills} Move Silently / Hide +4 (+6 in dim light or darkness)
+\textbf{Skills} Stealth +4 (+6 in dim light or darkness)
 
 \textbf{Vulnerability to Damage} from Light
 
@@ -42370,7 +42364,7 @@ The evil shadow moves along the border between the darkness of darkness and the 
 
 \textbf{Saving Throws}: Fortitude +3, Reflexes +3, Will +2
 
-\textbf{Skills} Move Silently +4, Awareness +3
+\textbf{Skills} Stealth +4, Awareness +3
 
 \textbf{Senses} Darkvision 18m
 
@@ -42947,7 +42941,7 @@ A typical sphinx is 3 meters long and weighs about 400 kg. While their wings can
 
 \textbf{Saving Throws}: Fortitude -4, Reflexes +2, Will -4
 
-\textbf{Skills} Move Silently / Hide +4
+\textbf{Skills} Stealth +4
 
 \textbf{Senses} vision in the dark 9m
 
@@ -42995,7 +42989,7 @@ A typical sphinx is 3 meters long and weighs about 400 kg. While their wings can
 
 \textbf{Saving Throws}: Fortitude +0, Reflexes +5, Will +2
 
-\textbf{Skills} Move Silently / Hide +8 (check is made with -1d6 if the imp is flying), Awareness +3
+\textbf{Skills} Stealth +8 (check is made with -1d6 if the imp is flying), Awareness +3
 
 \textbf{Languages} Common, Elvish, Sylvan
 
@@ -43618,7 +43612,7 @@ Legends say that Tarrasque is Cattalm's pet.
 
 \textbf{Saving Throws}: Fortitude +4, Reflexes +4, Will +2
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +3
+\textbf{Skills} Stealth +6, Awareness +3
 
 \textbf{Senses} vision in the dark 18m
 
@@ -44080,7 +44074,7 @@ A unicorn's horn is the source of her powers, and to use her magical abilities o
 
 \textbf{Saving Throws}: Fortitude +17, Reflexes +17, Will +14
 
-\textbf{Skills} Move Silently / Hide +9, Awareness +17
+\textbf{Skills} Stealth +9, Awareness +17
 
 \textbf{Damage Immunity} Void; from a non-magical weapon
 
@@ -44183,7 +44177,7 @@ Vampires are undead humanoid creatures that feed on the blood of the living. The
 
 \textbf{CHARISMA} +1
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +3
+\textbf{Skills} Stealth +6, Awareness +3
 
 \textbf{Damage Resistances} from Void; from a non-magical weapon
 
@@ -44619,7 +44613,7 @@ In their humanoid form, wereboars tend to be stocky, with upturned noses, shaggy
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +5, Will +3
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +2
+\textbf{Skills} Stealth +4, Awareness +2
 
 \textbf{Immunity to Damage} from non-magical or non-silver weapon
 
@@ -44680,7 +44674,7 @@ Natural wererats are short, wiry, and muscular, with sharp, alert eyes, and nerv
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +7, Will +4
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +5
+\textbf{Skills} Stealth +4, Awareness +5
 
 \textbf{Immunity to Damage} from non-magical weapons that aren't silver
 
@@ -44746,7 +44740,7 @@ Weretigers in humanoid form have large eyes, elongated noses, prominent cheekbon
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +1, Will +2
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +4
+\textbf{Skills} Stealth +3, Awareness +4
 
 \textbf{Immunity to Damage} from non-magical or non-silver weapon
 
@@ -44805,7 +44799,7 @@ In human form, werewolves resemble normal people, though some tend to have a fer
 
 \textbf{Saving Throws}: Fortitude +3, Reflexes +2, Will +5
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +3
+\textbf{Skills} Stealth +4, Awareness +3
 
 \textbf{Damage Resistances} from Void; from a non-magical or non-silver weapon
 
@@ -44878,7 +44872,7 @@ Winter wolves inhabit the Arctic regions and are evil, intelligent creatures wit
 
 \textbf{Saving Throws}: Fortitude +9, Reflexes +6, Will +3
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +5
+\textbf{Skills} Stealth +3, Awareness +5
 
 \textbf{Damage Immunity} cold
 
@@ -45066,7 +45060,7 @@ Will-o'-the-wisps are ageless and virtually immortal, unless they die a violent 
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +5, Will +1
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +3
+\textbf{Skills} Stealth +4, Awareness +3
 
 \textbf{Languages} -
 
@@ -45284,7 +45278,7 @@ A wyvern is about 5 meters long, with the tail alone accounting for about half t
 
 \textbf{Saving Throws}: Fortitude +8, Reflexes +2, Will +5
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +6
+\textbf{Skills} Stealth +3, Awareness +6
 
 \textbf{Damage Resistances} piercing and slashing non-magical or non-adamantine weapons
 
@@ -45914,7 +45908,7 @@ The Dog of Death is a hideous two-headed hound that prowls plains, deserts, and 
 
 \textbf{Saving Throws}: Fortitude +4, Reflexes +5, Will +2
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +5
+\textbf{Skills} Stealth +4, Awareness +5
 
 \textbf{Senses} vision in the dark 36 m
 
@@ -45960,7 +45954,7 @@ The fase dog gets its name from its ability to slip in and out of reality, a tal
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +5, Will +4
 
-\textbf{Skills} Move Silently / Hide +5, Awareness +3
+\textbf{Skills} Stealth +5, Awareness +3
 
 \textbf{Languages} Fase Dog, understands Sylvan but cannot speak it
 
@@ -46368,7 +46362,7 @@ DC 11 or fall prone.
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +4, Will +2
 
-\textbf{Skills} Move Silently / Hide +2
+\textbf{Skills} Stealth +2
 
 \textbf{Languages} -
 
@@ -46406,7 +46400,7 @@ DC 11 or fall prone.
 
 \textbf{Saving Throws}: Fortitude +15, Reflexes +8, Will +8
 
-\textbf{Skills} Move Silently / Hide +5
+\textbf{Skills} Stealth +5
 
 \textbf{Languages} -
 
@@ -46526,7 +46520,7 @@ DC 11 or fall prone.
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +7, Will +2
 
-\textbf{Skills} Move Silently / Hide +5, Awareness +3
+\textbf{Skills} Stealth +5, Awareness +3
 
 \textbf{Senses} vision in the dark 18 m
 
@@ -46728,7 +46722,7 @@ Pirana is a sharp-toothed carnivorous fish.
 
 \textbf{Saving Throws}: Fortitude +1, Reflexes +4, Will +1
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +3
+\textbf{Skills} Stealth +4, Awareness +3
 
 \textbf{Languages} -
 
@@ -46766,7 +46760,7 @@ Pirana is a sharp-toothed carnivorous fish.
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +2, Will +1
 
-\textbf{Skills} Move Silently / Hide +4
+\textbf{Skills} Stealth +4
 
 \textbf{Senses} blindsight 9 m
 
@@ -46806,7 +46800,7 @@ Pirana is a sharp-toothed carnivorous fish.
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +5, Will +2
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +3
+\textbf{Skills} Stealth +3, Awareness +3
 
 \textbf{Senses} vision in the dark 36 m
 
@@ -46850,7 +46844,7 @@ Giant owls are intelligent creatures that protect the woodland kingdoms.
 
 \textbf{Saving Throws}: Fortitude +1, Reflexes +4, Will +1
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +5
+\textbf{Skills} Stealth +4, Awareness +5
 
 \textbf{Senses} vision in the dark 36 m
 
@@ -46968,7 +46962,7 @@ Giant owls are intelligent creatures that protect the woodland kingdoms.
 
 \textbf{Saving Throws}: Fortitude +6, Reflexes +7, Will +2
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +3
+\textbf{Skills} Stealth +6, Awareness +3
 
 \textbf{Languages} -
 
@@ -47101,7 +47095,7 @@ Some giant lizards possess one or both of the following traits.
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +5, Will +1
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +3
+\textbf{Skills} Stealth +4, Awareness +3
 
 \textbf{Languages} -
 
@@ -47141,7 +47135,7 @@ Some giant lizards possess one or both of the following traits.
 
 \textbf{Saving Throws}: Fortitude +7, Reflexes +6, Will +2
 
-\textbf{Skills} Move Silently / Hide +4, Awareness +3
+\textbf{Skills} Stealth +4, Awareness +3
 
 \textbf{Languages} -
 
@@ -47183,7 +47177,7 @@ Winter wolves inhabit the Arctic regions and are evil, intelligent creatures wit
 
 \textbf{Saving Throws}: Fortitude +9, Reflexes +6, Will +3
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +5
+\textbf{Skills} Stealth +3, Awareness +5
 
 \textbf{Damage Immunity} cold
 
@@ -47443,7 +47437,7 @@ Some bears have adapted to life underground. They have the same stats as polar b
 
 \textbf{Saving Throws}: Fortitude +3, Reflexes +5, Will +3
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +4
+\textbf{Skills} Stealth +6, Awareness +4
 
 \textbf{Languages} -
 
@@ -47522,7 +47516,7 @@ Some bears have adapted to life underground. They have the same stats as polar b
 
 \textbf{Saving Throws}: Fortitude -4, Reflexes +2, Will -4
 
-\textbf{Skills} Move Silently / Hide +4
+\textbf{Skills} Stealth +4
 
 \textbf{Senses} vision in the dark 9m
 
@@ -47568,7 +47562,7 @@ The phase spider has the magical ability to enter and exit the Ethereal Plane. I
 
 \textbf{Saving Throws}: Fortitude +8, Reflexes +8, Will +3
 
-\textbf{Skills} Move Silently / Hide +6
+\textbf{Skills} Stealth +6
 
 \textbf{Senses} vision in the dark 18 m
 
@@ -47612,7 +47606,7 @@ The phase spider has the magical ability to enter and exit the Ethereal Plane. I
 
 \textbf{Saving Throws}: Fortitude +4, Reflexes +4, Will +1
 
-\textbf{Skills} Move Silently / Hide +7
+\textbf{Skills} Stealth +7
 
 \textbf{Senses} blindsight 3m, darksight 18m
 
@@ -47664,7 +47658,7 @@ A giant wolf spider hunts for prey in open ground or hides in burrows or crevice
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +4, Will +1
 
-\textbf{Skills} Move Silently / Hide +7, Awareness +3
+\textbf{Skills} Stealth +7, Awareness +3
 
 \textbf{Senses} blindsight 3m, darksight 18m
 
@@ -47708,7 +47702,7 @@ A giant wolf spider hunts for prey in open ground or hides in burrows or crevice
 
 \textbf{Saving Throws}: Fortitude -4, Reflexes +1, Will -2
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +1
+\textbf{Skills} Stealth +3, Awareness +1
 
 \textbf{Senses} vision in the dark 9m
 
@@ -47746,7 +47740,7 @@ A \textbf{frog} has no attacks. It feeds on small insects and usually lives near
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +2, Will +0
 
-\textbf{Skills} Move Silently / Hide +3, Awareness +2
+\textbf{Skills} Stealth +3, Awareness +2
 
 \textbf{Senses} vision in the dark 9 m
 
@@ -49133,7 +49127,7 @@ The striga can detach itself by expending 1 meter of movement. He does this auto
 
 \textbf{Saving Throws}: Fortitude +4, Reflexes +4, Will +2
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +3
+\textbf{Skills} Stealth +6, Awareness +3
 
 \textbf{Senses} vision in the dark 18m
 
@@ -49179,7 +49173,7 @@ The striga can detach itself by expending 1 meter of movement. He does this auto
 
 \textbf{Saving Throws}: Fortitude +5, Reflexes +3, Will +2
 
-\textbf{Skills} Move Silently / Hide +6, Awareness +3
+\textbf{Skills} Stealth +6, Awareness +3
 
 \textbf{Languages} -
 
@@ -49682,7 +49676,7 @@ A spy is an individual trained to obtain secrets for someone, or sometimes to se
 
 \textbf{Saving Throws}: Fortitude +2, Reflexes +3, Will +3
 
-\textbf{Skills} Move Silently / Hide +4, Sense Emotions +4, Investigation +5, Awareness +6, Deceive +5, Fey Hands +4
+\textbf{Skills} Stealth +4, Sense Emotions +4, Investigation +5, Awareness +6, Deceive +5, Fey Hands +4
 
 \textbf{Languages} any two languages
 
@@ -49775,7 +49769,7 @@ Loners or members of a guild, assassins are paid to eliminate, often quietly and
 
 \textbf{Saving Throws}: Fortitude +10, Reflexes +11, Will +8
 
-\textbf{Skills} Acrobatics +6, Move Silently / Hide +9, Awareness +3, Deceit +3
+\textbf{Skills} Acrobatics +6, Stealth +9, Awareness +3, Deceit +3
 
 
 \textbf{Languages} Thieves' slang plus two other languages
@@ -50300,7 +50294,7 @@ Skilled hunters and track-beaters.
 
 \textbf{Saving Throws}: Fortitude +1, Reflexes +2, Will +3
 
-\textbf{Skills} Move Silently / Hide +6, Nature +4, Awareness +5, Survival +5
+\textbf{Skills} Stealth +6, Nature +4, Awareness +5, Survival +5
 
 \textbf{Languages} any language (usually Common)
 

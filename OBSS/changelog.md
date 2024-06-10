@@ -518,7 +518,7 @@ aggiornata versione POD 2024/06/07
 
 aggiornata versione POD 2024/06/09
 
-0.85b
+0.85b modificata prova di ammansire animali, 
 
 - aggiunti \label{} fino a piani
 
@@ -530,11 +530,8 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
-- armature molto pesanti tolgono tiri critici ( 1 dado..)
 - togliere abilta' supremo, aggiungere un attributo (relativa ad una caratteristica) alle abilita', ogni tot abilita' (5?) con quel attributo aumenta di uno. le abilita' si prendono a  1,1,2,3,5,7,9,11,13,15,17,19,20, farle diventare 1,1,2,3,5,7,9,11,13,15,17,19
 - suggerimento per il narratore, non usare lo screen
-- ts spell, complesso da calcolare. Il Tiro Salvezza in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a 10 + Competenza Magica/2 + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 per ogni Successo Critico Magico nella Prova di Magia
-- ts oggetti/mostri 10+2xspell level
 - opportunista valutare se darlo a quali mostri
 - recupero punti ferita cos+2*ca+cm, trovare formula piu' semplice. Cos * lv/2 ?
 - ragionare su prova di magia. farla diventare una prova di arcana e contare i successi/multipli di 6 dal valore ?
