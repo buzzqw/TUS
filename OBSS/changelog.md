@@ -518,7 +518,7 @@ aggiornata versione POD 2024/06/07
 
 aggiornata versione POD 2024/06/09
 
-0.85b modificata prova di ammansire animali, modificata gestione lancio incantesimi in caduta libera, 
+0.85b modificata prova di ammansire animali, modificata gestione lancio incantesimi in caduta libera, dettagli su oggetti cadenti, 
 
 
 
