@@ -522,6 +522,7 @@ aggiornata versione POD 2024/06/09
 
 aggiornata versione POD 2024/06/12
 
+0.85b reso piu' facile il calcolo dei punti esperienza premio, 
 
 
 - aggiunti \label{} fino a piani
