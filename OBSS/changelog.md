@@ -522,7 +522,11 @@ aggiornata versione POD 2024/06/09
 
 aggiornata versione POD 2024/06/12
 
-0.85b reso piu' facile il calcolo dei punti esperienza premio, 
+0.85b reso piu' facile il calcolo dei punti esperienza premio,  se si e' afferrati si e' distratti, aggiornate penalita' ad intralciare
+
+aggiornata versione POD 2024/06/15
+
+0.85c
 
 
 - aggiunti \label{} fino a piani
