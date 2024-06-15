@@ -7699,7 +7699,7 @@ Se fallisce il Tiro Salvezza, il bersaglio è spaventato per 1 minuto e subisce 
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 1 minuto per Competenza Magica\\
 Assumi una forma diversa. Quando lanci questo incantesimo, scegli una della seguenti opzioni, l'effetto della quale permane per la durata dell'incantesimo. Per la durata dell'incantesimo puoi terminare un'opzione per ottenere i benefici di un'altra.\\
-Adattamento Acquatico. Adatti il tuo corpo a un ambiente acquatico, sviluppando branchie e dita palmate. Puoi respirare sott'acqua e ottieni velocità di nuoto pari alla tua velocità di passeggio.\\
+Adattamento Acquatico. Adatti il tuo corpo a un ambiente acquatico, sviluppando branchie e dita palmate. Puoi respirare sott'acqua e ottieni velocità di nuoto pari alla tua velocità di movimento.\\
 \emph{Armi Naturali}. Sviluppi degli artigli, zanne, spuntoni, corna o una diversa arma naturale a tua scelta. I tuoi colpi senz'armi infliggono 1d6 danni contundenti, perforanti o taglienti, come appropriato all'arma naturale scelta, con la quale sei competente. Infine, l'arma naturale è magica e ricevi un bonus di +1 ai Tiri per Colpire e danno effettuati quando la usi.\\
 \emph{Cambio di Aspetto}. Trasformi il tuo aspetto. Decidi il tuo aspetto esteriore, compresa l'altezza, il peso, i lineamenti facciali, il suono della tua voce, la lunghezza dei capelli, il colorito e qualsiasi peculiarità tu desideri. Puoi apparire come membro di un'altra razza, sebbene nessuna delle tue statistiche cambi. Inoltre non puoi apparire come una creatura di taglia diversa dalla tua, e la tua forma base resta la medesima; se sei bipede, non puoi usare questo incantesimo per diventare quadrupede, per esempio.\\
 In qualsiasi momento della durata dell'incantesimo, puoi usare due Azioni per cambiare nuovamente di aspetto in questo modo.\\
@@ -16196,13 +16196,15 @@ Vedi dettagli modificatori di attacco in \hyperlink{invisibilita}{Invisibilità}
 
 \label{cadute}
 
-Le creature che cadono si fanno male. Dividi l'altezza di caduta (in metri) per 3, arrotonda per difetto, il numero che risulta sono i d6 di danno subiti. Es 16 metri di caduta sono 16/3=5d6 di danno. Per cadute da grandi altezze si suggerisce di applicare 3 di danno ogni 3 metri di caduta (1 danno per metro).
+Le creature che cadono si fanno male. Dividi l'altezza di caduta (in metri) per 3, arrotonda per difetto, il numero che risulta sono i d6 di danno subiti. Es 16 metri di caduta sono 16/3=5d6 di danno. Per praticità si suggerisce di applicare 1 di danno ogni 1 metro di caduta.
 
 Le creature che subiscono danni da una caduta, atterrano in posizione prona.
 
-Una prova di Acrobatica riuscita con DC 15 permette al personaggio di dimezzare il danno quando cade da meno di 9 metri.
+Una prova di Acrobatica riuscita con DC 15 permette al personaggio di ridurre di 3 il danno quando cade da meno di 6 metri.
 
-Cadute su superfici morbide (terreno morbido, fango ecc.) riducono di un 1d6 i danni. Questa riduzione si applica prima della diminuzione del danno per l'uso della competenza Acrobatica.
+Cadute su superfici morbide (terreno morbido, fango ecc.) riducono di 3 i danni. 
+
+Un personaggio può terminare la sua Azione di movimento con una caduta, ma solo se non si è fatto danni può proseguire con la stessa Azione, altrimenti prima deve alzarsi da prono.
 
 
 \begin{center}
@@ -16215,7 +16217,7 @@ In un round di caduta libera si precipita di 150 metri (50d6 oppure 150 di danno
 
 \medskip
 
-\textbf{Cadere in Acqua}\index{Cadere in Acqua}
+\noindent \textbf{Cadere in Acqua}\index{Cadere in Acqua}
 
 Le cadute in acqua sono gestite in modo leggermente diverso. Fino a quando l'acqua ha una profondità di almeno di 3 metri ed il tuffo è da una altezza entro 12 metri non si subiscono danni.
 
@@ -16321,6 +16323,10 @@ Se il Tiro Salvezza fallisce il personaggio va immediatamente a 0 Punti Ferita e
 
 Si può annegare in sostanze diverse dall'acqua, come la sabbia, le sabbie mobili, la polvere molto fine o un silos pieno di farro o semplicemente trattenendo il respiro.
 
+\begin{center}
+	\includegraphics[height=0.7\linewidth]{immagini/desert.png}
+\end{center}
+
 \subsubsection{Pericoli del Caldo}\index{Caldo}
 
 \label{pericoli-del-caldo}
@@ -16332,10 +16338,6 @@ Un personaggio che subisce Danni Non Letali a causa dell'esposizione al caldo, �
 Il caldo infernale (temperatura dell'aria sopra i 60° C, fuoco, acqua che bolle, lava) infligge danni letali. Respirare l'aria con queste temperature infligge 1d6 danni da fuoco al minuto (senza Tiro Salvezza).
 
 L'acqua bollente infligge 1d6 danni da scottatura, a meno che il personaggio non vi venga completamente immerso, nel qual caso subirebbe 10d6 danni per round di esposizione.
-
-\begin{center}
-	\includegraphics[height=0.7\linewidth]{immagini/desert.png}
-\end{center}
 
 \subsubsection{Prendere Fuoco}\index{Prendere Fuoco}\index{Fuoco}
 
@@ -22543,13 +22545,13 @@ Mentre ti concentri su di una creatura con individuazione dei pensieri, puoi usa
 questi guanti possono essere di morbido cuoio o pesante materiale protettivo adatto per l’uso con armature. Nel primo caso sembrano essere guanti della destrezza. Nel secondo caso essi sembrano essere guanti del potere orchesco. Ad ogni prova i guanti sembrano avere le funzioni di cui sopra fino a quando chi li indossa non è sotto attacco o in una situazione di vita o di morte. In quel momento la maledizione si attiva. Il personaggio diviene maldestro, con una probabilità del 50\% ad ogni round di lasciar cadere un oggetto che tiene nelle mani. I guanti riducono la Destrezza di 2 punti. Una volta che la maledizione è attiva, i guanti possono essere rimossi soltanto con un incantesimo Rimuovi Maledizione od un desiderio.
 
 \index[OggettiMagici]{Pantofole del Ragno}\smallskip* \textbf{Pantofole del Ragno}
-5000 mo, non comune, mentre indossi queste scarpe leggere, puoi muoverti verso l'alto, il basso, e lungo superfici verticali e a testa in giù sul soffitto, lasciando libere le mani. Hai una velocità di scalata pari alla velocità di passeggio. Tuttavia, le pantofole non ti permettono di muoverti a questo modo su terreno difficile, come pareti coperte da ghiaccio, da olio, macerie...
+5000 mo, non comune, mentre indossi queste scarpe leggere, puoi muoverti verso l'alto, il basso, e lungo superfici verticali e a testa in giù sul soffitto, lasciando libere le mani. Hai una velocità di scalata pari alla velocità di movimento. Tuttavia, le pantofole non ti permettono di muoverti a questo modo su terreno difficile, come pareti coperte da ghiaccio, da olio, macerie...
 
 \index[OggettiMagici]{Stivali Alati}\smallskip* \textbf{Stivali Alati}
-15000 mo, raro, mentre indossi questi stivali, hai una velocità di volo pari alla tua velocità di passeggio. Puoi usare questi stivali per volare per un massimo di 4 ore, tutte insieme o divise in brevi voli, ciascuno dei quali impiega un minimo di 1 minuto di durata. Se la durata termina mentre stai volando, scendi alla velocità di 9 metri per round finché non atterri. Gli stivali recuperano 2 ore di capacità di volo ogni alba.
+15000 mo, raro, mentre indossi questi stivali, hai una velocità di volo pari alla tua velocità di movimento. Puoi usare questi stivali per volare per un massimo di 4 ore, tutte insieme o divise in brevi voli, ciascuno dei quali impiega un minimo di 1 minuto di durata. Se la durata termina mentre stai volando, scendi alla velocità di 9 metri per round finché non atterri. Gli stivali recuperano 2 ore di capacità di volo ogni alba.
 
 \index[OggettiMagici]{Stivali della Corsa e del Salto}\smallskip* \textbf{Stivali della Corsa e del Salto}
-5000 mo, non comune, mentre indossi questi stivali, la tua velocità di passeggio diventa 9 metri, a meno che non sia superiore, e la tua velocità non viene ridotta qualora tu sia ingombrato o stia indossando un'armatura pesante. Inoltre, salti tre volte la normale distanza, fino ad un massimo di 9 metri.
+5000 mo, non comune, mentre indossi questi stivali, la tua velocità di movimento diventa 9 metri, a meno che non sia superiore, e la tua velocità non viene ridotta qualora tu sia ingombrato o stia indossando un'armatura pesante. Inoltre, salti tre volte la normale distanza, fino ad un massimo di 9 metri.
 
 \index[OggettiMagici]{Stivali degli Elfi}\smallskip* \textbf{Stivali degli Elfi}
 3000 mo, non comune, mentre indossi questi stivali, i tuoi passi non emettono suoni, quale che sia la superficie che stai attraversando. Il muoverti silenziosamente non ti obbliga a trattare il terreno come difficile (ma potrebbe comunque esserlo).
@@ -22858,7 +22860,7 @@ non comune, 200 mo, quando bevi questa pozione, per 1 ora puoi lanciare a volont
 
 \index[OggettiMagici]{Pozione di Arrampicata}\smallskip* \textbf{Pozione di Arrampicata}
 
-comune,250 mo, quando bevi questa pozione, per 1 ora ottieni velocità di scalata pari alla tua velocità di passeggio. Durante questo periodo hai +1d6 alle prove di Resistenza che compi per effettuare una scalata.
+comune,250 mo, quando bevi questa pozione, per 1 ora ottieni velocità di scalata pari alla tua velocità di movimento. Durante questo periodo hai +1d6 alle prove di Resistenza che compi per effettuare una scalata.
 
 \smallskip* \textbf{Pozione della Chiaraudienza animale}\index[OggettiMagici]{Pozione della Chiaraudienza animale}
 
@@ -22966,7 +22968,7 @@ Se lo bevi, subisci 5d6 danni da veleno, e devi superare un tiro Salvezza su Tem
 400 mo, molto raro, quando bevi questa pozione, ottieni l'effetto dell'incantesimo velocità per 1 minuto (non richiede concentrazione).
 
 \index[OggettiMagici]{Pozione di Volo}\smallskip* \textbf{Pozione di Volo}
-500 mo, molto raro, quando bevi questa pozione, per 1 ora ottieni velocità di volo pari alla tua normale velocità di passeggio e puoi fluttuare. Se la pozione ha termine mentre stai volando, cadi a meno che non possiedi qualche altro metodo per restare in aria.
+500 mo, molto raro, quando bevi questa pozione, per 1 ora ottieni velocità di volo pari alla tua normale velocità di movimento e puoi fluttuare. Se la pozione ha termine mentre stai volando, cadi a meno che non possiedi qualche altro metodo per restare in aria.
 
 \index[OggettiMagici]{Filtro d'Amore}\smallskip* \textbf{Filtro d'Amore}
 120 mo, non comune, resterai Affascinato per 1 ora dalla prima creatura che vedrai entro 10 minuti da quando avrai bevuto questo filtro. Se la creatura è di una specie o genere da cui sei normalmente attratto, finché sei Affascinato la considererai il tuo unico e grande amore.
@@ -23018,7 +23020,7 @@ Puoi spendere 2 cariche dell'anello per lanciare dominare mostri su di un elemen
 
 Se aiuti a uccidere un elementale dell'acqua mentre indossi l'anello, ottieni accesso alle seguenti proprietà aggiuntive:
 
-\smallskip- Puoi respirare sott'acqua e hai velocità di nuovo pari alla tua velocità di passeggio.
+\smallskip- Puoi respirare sott'acqua e hai velocità di nuovo pari alla tua velocità di movimento.
 
 \smallskip- Puoi lanciare tramite l'anello i seguenti incantesimi, spendendo il numero di cariche richieste: creare o distruggere acqua (1 carica), controllare tempo atmosferico (3 cariche), muro di ghiaccio (3 cariche) o tempesta di ghiaccio (2 cariche).
 
@@ -23034,7 +23036,7 @@ Se aiuti a uccidere un elementale dell'aria mentre indossi l'anello, ottieni acc
 
 \smallskip- Hai resistenza ai danni da fulmine.
 
-\smallskip- Hai velocità di volo pari alla tua velocità di passeggio e puoi fluttuare.
+\smallskip- Hai velocità di volo pari alla tua velocità di movimento e puoi fluttuare.
 
 \smallskip- Puoi lanciare tramite l'anello i seguenti incantesimi, spendendo il numero di cariche richieste: Fulmini Incatenati (3 cariche), folata di vento (2 cariche) o muro di vento (1 carica).
 
@@ -23199,7 +23201,7 @@ Questa vista può penetrare 30 centimetri di pietra, 2,5 centimetri di metallo c
 \item
 Hai resistenza ai danni da veleno.
 \item
-Hai velocità di scalata pari alla tua velocità di passeggio.
+Hai velocità di scalata pari alla tua velocità di movimento.
 \item
 Puoi muoverti verso l'alto, il basso e lungo superfici verticali e a testa in giù sui soffitti, tenendo le mani libere.
 \item
@@ -24176,7 +24178,7 @@ Piazzare lo zainetto all'interno dello spazio extradimensionale creato da una bo
 2000 mo, non comune, questo strumento sovradimensionato è lungo 3 m e pesante 120 kg (30 Ingombro), e può essere usato solo da un gigante (o da un personaggio ingrandito) per spostare grandi quantità di terriccio e costruire terrapieni (un cubo di 3 m per Turno). La zappa può anche essere usata per spaccare la pietra con grande rapidità. Se usata come un'arma ha un bonus +3 al colpire e infligge 5d6 ferite.
 
 \index[OggettiMagici]{Zoccoli della Velocità}\smallskip* \textbf{Zoccoli della Velocità}
-5000 mo, raro, questi zoccoli di ferro si trovano in set da quattro. Quando tutti e quattro gli zoccoli sono fissati a un cavallo o creatura simile, aumentano la velocità di passeggio di quella creatura di 9 metri.
+5000 mo, raro, questi zoccoli di ferro si trovano in set da quattro. Quando tutti e quattro gli zoccoli sono fissati a un cavallo o creatura simile, aumentano la velocità di movimento di quella creatura di 9 metri.
 
 \index[OggettiMagici]{Zoccoli dello Zefiro}\smallskip* \textbf{Zoccoli dello Zefiro}
 1500 mo, molto raro, questi zoccoli di ferro si trovano in set da quattro. Quando tutti e quattro gli zoccoli sono fissati a un cavallo o creatura simile, permettono a quella creatura di muoversi normalmente, mentre fluttua a circa 10 centimetri dal terreno. Questo effetto vuol dire che la creatura può attraversare o passare sopra superfici non solide o instabili, come l'acqua o la lava. La creatura non lascia tracce e ignora il terreno difficile. Inoltre, la creatura può muoversi alla sua normale velocità per un massimo di 12 ore al giorno senza subire l'affaticamento a causa della marcia forzata.
@@ -25357,7 +25359,7 @@ Potete anche decidere che la creatura annulla una condizione che ha su di se.
 
 Il Movimento di un mostro ti dice di quanto si possa muovere durante il suo round per Azione di Movimento
 
-Tutte le creature possiedono un movimento di passeggio, detto semplicemente movimento del mostro. Le creature che non possiedono alcuna forma di spostamento terreno hanno velocità di passeggio 0 metri.
+Tutte le creature possiedono un movimento di passeggio, detto semplicemente movimento del mostro. Le creature che non possiedono alcuna forma di spostamento terreno hanno velocità di movimento 0 metri.
 
 Alcune creature possiedono uno o più dei seguenti modi di movimento aggiuntivi.
 
@@ -40402,7 +40404,7 @@ Il corno di un unicorno è la fonte dei suoi poteri, e per utilizzare le proprie
 
 \emph{\textbf{Mutaforma.}} Se il vampiro non è sotto la luce del sole o immerso in acqua corrente, può usare una azione per trasformarsi in un Minuscolo pipistrello, una nube di foschia Media, o per tornare alla sua vera forma.
 
-Mentre è in forma di pipistrello, il vampiro non può parlare, la sua velocità di passeggio è 1 metro e ha velocità di volo 9 metri. Le sue statistiche, a parte la taglia e la velocità, sono immutate. Qualsiasi equipaggiamento stia indossando si trasforma con esso, ma quello che stava trasportando viene fatto cadere a terra. Alla morte ritorna alla sua vera forma.
+Mentre è in forma di pipistrello, il vampiro non può parlare, la sua velocità di movimento è 1 metro e ha velocità di volo 9 metri. Le sue statistiche, a parte la taglia e la velocità, sono immutate. Qualsiasi equipaggiamento stia indossando si trasforma con esso, ma quello che stava trasportando viene fatto cadere a terra. Alla morte ritorna alla sua vera forma.
 
 Mentre è in forma di foschia, il vampiro non può effettuare azioni, parlare o manipolare oggetti. È privo di peso, ha velocità di volo 6 metri, può fluttuare, e può entrare nello spazio di una creatura ostile e fermarsi lì. Inoltre, se in uno spazio vi passa dell'aria, la foschia può fare altrettanto senza stringersi, ma non può attraversare l'acqua. Ha +1d6 ai Tiri Salvezza su Tempra e Riflessi ed è immune a tutti i danni non magici, eccetto i danni subiti dalla luce del
 sole.

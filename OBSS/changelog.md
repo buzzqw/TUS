@@ -526,7 +526,7 @@ aggiornata versione POD 2024/06/12
 
 aggiornata versione POD 2024/06/15
 
-0.85c
+0.85c corretti riferimenti a velocita' di passeggio, chiarimenti su azioni di movimento e cadere, 
 
 
 - aggiunti \label{} fino a piani
