@@ -534,6 +534,9 @@ aggiornata versione POD 2024/06/16
 
 aggiornata versione POD 2024/06/18
 
+0.85e corretta aspettativa di vita elfi, 
+
+
 - aggiunti \label{} fino a piani
 
 Aggiungere immagini:
