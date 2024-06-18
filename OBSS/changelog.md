@@ -530,7 +530,9 @@ aggiornata versione POD 2024/06/15
 
 aggiornata versione POD 2024/06/16
 
-0.85d modificata procedura per calcolo massimo livello incantesimi lancibile, 
+0.85d modificata procedura per calcolo massimo livello incantesimi lancibile
+
+
 
 
 - aggiunti \label{} fino a piani
