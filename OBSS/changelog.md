@@ -538,7 +538,7 @@ aggiornata versione POD 2024/06/18
 
 aggiornata versione POD 2024/06/19
 
-0.85f pod 085e
+0.85f pod 085e, aggiornata regola per capire se si e' sorpresi, 
 
 
 - aggiunti \label{} fino a piani
