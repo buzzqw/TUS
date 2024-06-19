@@ -534,7 +534,7 @@ aggiornata versione POD 2024/06/16
 
 aggiornata versione POD 2024/06/18
 
-0.85e corretta aspettativa di vita elfi, 
+0.85e corretta aspettativa di vita elfi, dettagli sul sornelian volante, modificato vantaggio sornelian ottimi sensi, 
 
 
 - aggiunti \label{} fino a piani
