@@ -534,11 +534,13 @@ aggiornata versione POD 2024/06/16
 
 aggiornata versione POD 2024/06/18
 
-0.85e corretta aspettativa di vita elfi, dettagli sul sornelian volante, modificato vantaggio sornelian ottimi sensi, 
+0.85e corretta aspettativa di vita elfi, dettagli sul sornelian volante, modificato vantaggio sornelian ottimi sensi
 
 aggiornata versione POD 2024/06/19
 
-0.85f pod 085e, aggiornata regola per capire se si e' sorpresi, aggiornato metodo per calcolare punteggio prova magia, aggiornata la scheda, aggiornato screen, aggiornata abilita' golian, modificato incantesimo Resurrezione e Resurrezione Pura, 
+0.85f pod 085e, aggiornata regola per capire se si e' sorpresi, aggiornato metodo per calcolare punteggio prova magia, aggiornata la scheda, aggiornato screen, aggiornata abilita' golian, modificato incantesimo Resurrezione e Resurrezione Pura 
+
+aggiornata versione POD 2024/06/24
 
 
 - aggiunti \label{} fino a piani
