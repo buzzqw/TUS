@@ -538,7 +538,7 @@ aggiornata versione POD 2024/06/18
 
 aggiornata versione POD 2024/06/19
 
-0.85f pod 085e, aggiornata regola per capire se si e' sorpresi, aggiornato metodo per calcolare punteggio prova magia, aggiornata la scheda, aggiornato screen,  
+0.85f pod 085e, aggiornata regola per capire se si e' sorpresi, aggiornato metodo per calcolare punteggio prova magia, aggiornata la scheda, aggiornato screen, aggiornata abilita' golian, 
 
 
 - aggiunti \label{} fino a piani
