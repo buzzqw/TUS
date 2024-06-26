@@ -546,7 +546,7 @@ aggiornato massimo livello lanciabile di incantesimo, aggiornato metodo di scelt
 
 aggiornata versione POD 2024/06/26
 
-**0.86** 
+**0.86** riorganizzati modificatori per armature e scudi magici su prove
 
 
 - aggiunti \label{} fino a piani
