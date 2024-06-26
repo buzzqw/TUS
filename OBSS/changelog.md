@@ -542,6 +542,8 @@ aggiornata versione POD 2024/06/19
 
 aggiornata versione POD 2024/06/24
 
+aggiornato massimo livello lanciabile di incantesimo, aggiornato metodo di scelta caratteristica incantesimi, aggiornato numero di incantesimo quando si prende una lista, aggiornati effetti fallimenti critici magici, aggiornato Cambiare gli incantesimi, aggiornato circolo di potere, chiarimenti su critico automagico
+
 
 - aggiunti \label{} fino a piani
 
