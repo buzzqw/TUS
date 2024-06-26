@@ -512,7 +512,7 @@ aggiornata versione POD 2024/06/07
 
 0.84h corretto danno spada larga a due mani, corretto danno naginata, sostituito muoversi silenziosamente e nascondersi nelle ombre con Furtivita'
 
-0.85 aggiornata versione POD 2024/06/08
+**0.85** aggiornata versione POD 2024/06/08
 
 0.85a chiarimenti su prove contrapposte 
 
@@ -543,6 +543,10 @@ aggiornata versione POD 2024/06/19
 aggiornata versione POD 2024/06/24
 
 aggiornato massimo livello lanciabile di incantesimo, aggiornato metodo di scelta caratteristica incantesimi, aggiornato numero di incantesimo quando si prende una lista, aggiornati effetti fallimenti critici magici, aggiornato Cambiare gli incantesimi, aggiornato circolo di potere, chiarimenti su critico automagico
+
+aggiornata versione POD 2024/06/26
+
+**0.86** 
 
 
 - aggiunti \label{} fino a piani
