@@ -548,6 +548,10 @@ aggiornata versione POD 2024/06/26
 
 **0.86** riorganizzati modificatori per armature e scudi magici su prove
 
+aggiornata versione POD 2024/06/26
+
+0.86a
+
 
 - aggiunti \label{} fino a piani
 
