@@ -550,7 +550,7 @@ aggiornata versione POD 2024/06/26
 
 aggiornata versione POD 2024/06/26
 
-0.86a dettagli su bardature, ingombro barca a remi, corretti prezzi delle selle e dello stallaggio, 
+0.86a dettagli su bardature, ingombro barca a remi, corretti prezzi delle selle e dello stallaggio, dettagli su unguento proteggi lama, 
 
 
 - aggiunti \label{} fino a piani
