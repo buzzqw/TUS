@@ -550,7 +550,7 @@ aggiornata versione POD 2024/06/26
 
 aggiornata versione POD 2024/06/26
 
-0.86a dettagli su bardature, ingombro barca a remi, corretti prezzi delle selle e dello stallaggio, dettagli su unguento proteggi lama, 
+0.86a dettagli su bardature, ingombro barca a remi, corretti prezzi delle selle e dello stallaggio, dettagli su unguento proteggi lama, chiarimenti su esposizione a veleni, dettagli su applicazioni veleno su arma, dettagli su veleni e pozioni, aggiornato tempo di ubricatura in opzionale bere troppo,
 
 
 - aggiunti \label{} fino a piani
