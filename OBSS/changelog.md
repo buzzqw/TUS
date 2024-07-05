@@ -554,6 +554,8 @@ aggiornata versione POD 2024/06/26
 
 aggiornata versione POD 2024/07/03
 
+0.86b corretta tabella Combattere al buio
+
 
 - aggiunti \label{} fino a piani
 
