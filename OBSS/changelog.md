@@ -554,7 +554,7 @@ aggiornata versione POD 2024/06/26
 
 aggiornata versione POD 2024/07/03
 
-0.86b corretta tabella Combattere al buio
+0.86b corretta tabella Combattere al buio, aggiunto costo pozione generica,  modificato effetto pozione antiveleno, 
 
 
 - aggiunti \label{} fino a piani
@@ -585,6 +585,11 @@ Aggiungere immagini:
 - ogni personaggio ha un elenco di obiettivi che se raggiunge acquisisce maggiore competenza/bonus ai ts/tc...
 
 
+Mi piace molto ciò che Pendragon RPG fa con i suoi 13 tratti, e penso che sarebbe un sostituto più profondo e interessante per l'allineamento di alcuni stili di gioco in D&D. Ciascun asse è su una scala da 0 a 15. Nessun tratto è necessariamente migliore o peggiore di un altro, sebbene culture diverse valutino tratti diversi. Il tuo personaggio ottiene benefici per avere (e mantenere, attraverso il gameplay coerente con punteggi alti in quei tratti) punteggi alti nei tratti apprezzati dalla tua cultura, ma un punteggio troppo alto costringerà il tuo personaggio ad agire in modi che potrebbero non essere nel tuo interesse. .
+
+Gli assi dei tratti sono casto/lussurioso, energico/pigro, indulgente/vendicativo, generoso/egoista, onesto/ingannevole, modesto/orgoglioso, giusto/arbitrario, misericordioso/crudele, prudente/sconsiderato, spirituale/mondano, temperato/indulgente, fiducioso/ Sospettoso, Valoroso/Codardo.
+
+viene una ragnatela che si espande su certi assi
 
 > ESPANSIONI:principalmente per mancanza di pagine, da valutare dopo riduzione font mostruario.
 
