@@ -175,7 +175,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.86b} \fontsize{10}{12}\selectfont 
+\def \versione {0.86c} \fontsize{10}{12}\selectfont 
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
 
@@ -7123,7 +7123,7 @@ Il personaggio quando assegna il primo punto di Competenza Magica apprende una L
 \item
 Ogni volta che il personaggio apprende una nuova Lista di Magia, vuoi tramite l'Abilità Adepto della Magia oppure per punteggio di Competenza Magica, apprende 2 incantesimi presenti sul suo Tomo di Magia + un numero di Trucchetti (incantesimi di livello 0) pari al modificatore di caratteristica da quella Lista di Magia o dalla Lista Universale.
 \item
-Ogni volta che un incantatore acquisisce un punto in Competenza Magica apprende due nuovi incantesimi che abbia a disposizione nel suo Tomo e che siano entro il massimo livello lanciabile.
+Ogni volta che un incantatore acquisisce un punto in Competenza Magica apprende due nuovi incantesimi che siano a disposizione nel suo Tomo di una Lista di Magia conosciuta e che siano entro il massimo livello lanciabile.
 \item
 Ogni volta che l'incantatore acquisisce un punto in Competenza Magica può rinunciare ad apprendere un incantesimo di livello 1 o superiore per apprendere due Trucchetti che conosca.
 \item
@@ -7336,7 +7336,7 @@ Se i Patroni sono la sorgente della magia è solo l'applicazione di antichi riti
 Ogni usufruitore di magia ha uno o più \textbf{Tomo} degli incantesimi, non pensate solo a un grosso Tomo antico rilegato in pelle, le diverse culture hanno sviluppato nel tempo la capacità di iscrivere le rune degli incantesimi in carte, bastoni, lastre di pietra, tatuaggi... fate la vostra scelta quando create il personaggio.
 Questa scelta non vi impedirà di copiare incantesimi da \textbf{Tomi} fatti diversamente (foglie di tabacco, liquidi della conoscenza..) per voi sarà sempre facile (prova di Arcana DC 12) capire se si è di fronte ad un Tomo di qualche tipo.
 
-Il personaggio quando apprende per la prima volta una Lista di Magia scrive nel Tomo della Magia un numero di incantesimi pari al modificatore da caratteristica per incantesimi +2 e 2 Trucchetti dalla stessa lista. Questi incantesimi saranno di primo livello oppure dalla Lista Universale. Ogni altro incantesimo che vorrà imparare dovrà trovarlo e trascriverlo sul suo Tomo.
+Il personaggio quando apprende per la prima volta una Lista di Magia scrive nel Tomo della Magia un numero di incantesimi, tra trucchetti e non, pari al modificatore da caratteristica per incantesimi +2. Questi incantesimi saranno Trucchetti oppure di primo livello oppure dalla Lista Universale. Ogni altro incantesimo che vorrà imparare dovrà trovarlo e trascriverlo sul suo Tomo.
 
 Ogni incantesimo occupa un numero di pagine nel Tomo pari al proprio livello, con un minimo di una, copiare una pagina di incantesimo porta via 1 ora di lavoro e 10 mo di preziosi inchiostri.\index{Copiare Incantesimi sul Tomo}
 
@@ -7351,13 +7351,13 @@ Un Tomo (libro) di incantesimi costa 10 mo per pagina.
 
 Un incantatore può copiare sul suo Tomo incantesimi che appartengano ad una Lista di Magia a lui conosciuta (od Universale) ed il livello massimo copiabile è di un livello superiore al suo massimo lanciabile (vedi \hyperlink{scuoleelivelli}{Liste di Magia}).
 
-Se l'incantesimo è di più due livelli più alto o di una Lista di Magia non conosciuta l'incantatore deve fare una Prova di Magia ed ottenere un Successo Critico Magico. Se il personaggio è un Devoto e l'incantesimo appartiene ad una Lista di Magia a lui conosciuta e preferita del Patrono allora la Prova di Magia si esegue solo se l'incantesimo è di tre o più livelli superiori al massimo lanciabile.
+Se l'incantesimo è di più due livelli più alto o di una Lista di Magia non conosciuta l'incantatore deve fare una Prova di Magia ed ottenere un Successo Critico Magico. Se il personaggio è un Devoto e l'incantesimo appartiene ad una Lista di Magia a lui conosciuta e preferita del Patrono allora la Prova di Magia si esegue solo se l'incantesimo è di tre o più livelli superiori al massimo lanciabile.\index{Incantesimo non conosciuto}
 
 Se non ottiene almeno un Successo Critico Magico non potrà tentare di copiare quell'incantesimo fino al prossimo punto di Competenza Magica acquisito. Se ottiene un Fallimento Critico Magico accadranno brutte cose al Tomo e 1d4 incantesimi casuali verranno cancellati dal Tomo stesso.
 
 La sorgente di nuovi incantesimi può essere un altro tomo, bastone, pergamena.. insomma qualsiasi cosa che il precedente incantatore usasse per custodire gli incantesimi. Un oggetto magico (bastone magico, anello, verga..bacchetta..) non è idoneo quale fonte da cui copiare l'incantesimo che contiene, si deve copiare dall'equivalente tomo o pergamena di un altro incantatore. Un incantesimo quando copiato sul nuovo Tomo svanisce dal Tomo originale.
 
-Durante le avventure il vostro incantatore potrà copiare tanti e numerosi incantesimi sul suo Tomo ma non potrà apprenderli immediatamente. Il personaggio quando acquisirà un nuovo punto di Competenza Magica potrà dimenticare un numero di incantesimi pari al suo punteggio di Competenza Magica per apprendere altri incantesimi presenti nel suo Tomo che siano di una Lista di Magia e entro il massimo livello di incantesimo possibile.
+Durante le avventure il vostro incantatore potrà copiare tanti e numerosi incantesimi sul suo Tomo ma non potrà apprenderli immediatamente. Il personaggio quando acquisirà un nuovo punto di Competenza Magica potrà dimenticare un numero di incantesimi pari al suo punteggio di Competenza Magica per apprendere altri incantesimi presenti nel suo Tomo che siano di una Lista di Magia conosciuta e entro il massimo livello di incantesimo possibile.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Scegliere gli Incantesimi]
 Gli incantesimi non si apprendono da soli, non si scelgono da una lista già bella che pronta. Ogni incantesimo è un tesoro prezioso che si deve trovare ed imparare.

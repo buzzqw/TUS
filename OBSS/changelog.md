@@ -556,6 +556,10 @@ aggiornata versione POD 2024/07/03
 
 0.86b corretta tabella Combattere al buio, aggiunto costo pozione generica,  modificato effetto pozione antiveleno, rivisti costi creazione oggetti magici, aggiornato effetto massimizzato su pozioni di cura, indicazioni su pozioni generiche
 
+aggiornata versione POD 2024/07/07
+
+0.86c chiarimenti su incantesimi acquisiti quando si prende lista di magia, 
+
 
 - aggiunti \label{} fino a piani
 
