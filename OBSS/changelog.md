@@ -554,7 +554,7 @@ aggiornata versione POD 2024/06/26
 
 aggiornata versione POD 2024/07/03
 
-0.86b corretta tabella Combattere al buio, aggiunto costo pozione generica,  modificato effetto pozione antiveleno, rivisti costi creazione oggetti magici, 
+0.86b corretta tabella Combattere al buio, aggiunto costo pozione generica,  modificato effetto pozione antiveleno, rivisti costi creazione oggetti magici, aggiornato effetto massimizzato su pozioni di cura, indicazioni su pozioni generiche
 
 
 - aggiunti \label{} fino a piani
