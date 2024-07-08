@@ -558,8 +558,11 @@ aggiornata versione POD 2024/07/03
 
 aggiornata versione POD 2024/07/07
 
-0.86c chiarimenti su incantesimi acquisiti quando si prende lista di magia, aggiunto paragrafo societa' di yeru, aggiunto 13esimo mese, 
+0.86c chiarimenti su incantesimi acquisiti quando si prende lista di magia, aggiunto paragrafo societa' di yeru, aggiunto 13esimo mese
 
+aggiornata versione POD 2024/07/08
+
+0.86d 
 
 - aggiunti \label{} fino a piani
 
