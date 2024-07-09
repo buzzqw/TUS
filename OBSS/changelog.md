@@ -562,9 +562,14 @@ aggiornata versione POD 2024/07/07
 
 aggiornata versione POD 2024/07/08
 
-0.86d 
+0.86d  aggiornato incantesimo allucinazione mortale - blocca persona avanzato - caduta piuma - camminare nell'aria  - capanna - cecita'/sordita' avanzata 
+
+
+
 
 - aggiunti \label{} fino a piani
+
+Colpo Luccicante
 
 Aggiungere immagini:
 
@@ -592,11 +597,23 @@ Aggiungere immagini:
 - ogni personaggio ha un elenco di obiettivi che se raggiunge acquisisce maggiore competenza/bonus ai ts/tc...
 
 
-Mi piace molto ciò che Pendragon RPG fa con i suoi 13 tratti, e penso che sarebbe un sostituto più profondo e interessante per l'allineamento di alcuni stili di gioco in D&D. Ciascun asse è su una scala da 0 a 15. Nessun tratto è necessariamente migliore o peggiore di un altro, sebbene culture diverse valutino tratti diversi. Il tuo personaggio ottiene benefici per avere (e mantenere, attraverso il gameplay coerente con punteggi alti in quei tratti) punteggi alti nei tratti apprezzati dalla tua cultura, ma un punteggio troppo alto costringerà il tuo personaggio ad agire in modi che potrebbero non essere nel tuo interesse. .
+13 tratti a coppie, 
+Casto/Lussurioso
+Energetico/Pigro
+Clemente/Vendicativo
+Generoso/Egoista
+Onesto/Disonesto
+Modesto/Orgoglioso
+Egualitario/Dispotico
+Prudente/Incosciente
+Pietoso/Crudele
+Riservato/Mondano
+Moderato/Indulgente
+Fiducioso/Sospettoso
+Valoroso/Codardo
+una prova che coinvolge i tratti potrebbe dare dei vantaggi o svantaggi.
 
-Gli assi dei tratti sono casto/lussurioso, energico/pigro, indulgente/vendicativo, generoso/egoista, onesto/ingannevole, modesto/orgoglioso, giusto/arbitrario, misericordioso/crudele, prudente/sconsiderato, spirituale/mondano, temperato/indulgente, fiducioso/ Sospettoso, Valoroso/Codardo.
 
-viene una ragnatela che si espande su certi assi
 
 > ESPANSIONI:principalmente per mancanza di pagine, da valutare dopo riduzione font mostruario.
 
