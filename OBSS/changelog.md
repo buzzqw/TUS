@@ -562,14 +562,14 @@ aggiornata versione POD 2024/07/07
 
 aggiornata versione POD 2024/07/08
 
-0.86d  aggiornato incantesimo allucinazione mortale - blocca persona avanzato - caduta piuma - camminare nell'aria  - capanna - cecita'/sordita' avanzata 
+0.86d  aggiornato incantesimo allucinazione mortale - blocca persona avanzato - caduta piuma - camminare nell'aria  - capanna - cecita'/sordita' avanzata - Comprensione degli Scritti
 
 
 
 
 - aggiunti \label{} fino a piani
 
-Colpo Luccicante
+Comprensione degli Scritti
 
 Aggiungere immagini:
 
