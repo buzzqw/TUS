@@ -569,7 +569,7 @@ aggiornata versione POD 2024/07/08
 
 - aggiunti \label{} fino a piani
 
-\medskip\textbf{Divinazione}
+Interdizione alla Morte
 
 Aggiungere immagini:
 
