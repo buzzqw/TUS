@@ -562,7 +562,7 @@ aggiornata versione POD 2024/07/07
 
 aggiornata versione POD 2024/07/08
 
-0.86d  aggiornato incantesimo allucinazione mortale - blocca persona avanzato - caduta piuma - camminare nell'aria  - capanna - cecita'/sordita' avanzata - Comprensione degli Scritti - comunione - comunione con la natura - confusione - eroismo - Esplosione Solare  - inaridire - individuazione del magico - intranciare - inviare - 
+0.86d  aggiornato incantesimo allucinazione mortale - blocca persona avanzato - caduta piuma - camminare nell'aria  - capanna - cecita'/sordita' avanzata - Comprensione degli Scritti - comunione - comunione con la natura - confusione - eroismo - Esplosione Solare  - inaridire - individuazione del magico - intranciare - inviare - trucco della corda - viscido in unto - tocco vampirico - sciame di meteore - scagliare maledizione minore - 
 
 
 
