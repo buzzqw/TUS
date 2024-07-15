@@ -566,7 +566,7 @@ aggiornata versione POD 2024/07/08
 
 aggiornata versione POD 2024/07/12
 
-0.86e 
+0.86e aggiornata percentuale di richiesta di intervento del Patrono, 
 
 
 
