@@ -566,7 +566,7 @@ aggiornata versione POD 2024/07/08
 
 aggiornata versione POD 2024/07/12
 
-0.86e aggiornata percentuale di richiesta di intervento del Patrono, chiarimenti su armature in materiali speciali
+0.86e aggiornata percentuale di richiesta di intervento del Patrono, chiarimenti su armature in materiali speciali, dettagli su scagliare frecce in melee, 
 
 
 
@@ -592,6 +592,7 @@ Aggiungere immagini:
 - spendere i soldi: oggetti magici, fortezze ?
 - separare il mostruario se pagine non sufficienti  (e 200+ pagine)
 - gestione morale mostri: CR+Forza/Saggezza vs TS Volonta' ???
+- morale hostile, unfriendly, indifferent, friendly, helpful
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - YERU: lavorare sul mondo. Luoghi notevoli, citta', Curyan/Tyia, ... c'e' tutto da fare.
 - combattimento sociale, ampliare
@@ -600,7 +601,7 @@ Aggiungere immagini:
 - ogni personaggio ha un elenco di obiettivi che se raggiunge acquisisce maggiore competenza/bonus ai ts/tc...
 
 
-13 tratti a coppie, 
+
 Casto/Lussurioso
 Energetico/Pigro
 Clemente/Vendicativo
@@ -615,6 +616,23 @@ Moderato/Indulgente
 Fiducioso/Sospettoso
 Valoroso/Codardo
 una prova che coinvolge i tratti potrebbe dare dei vantaggi o svantaggi.
+
+
+Superbia, l'avarizia, l'ira, l'invidia, la lussuria, la gola e l'accidia e possono essere catalogati in parallelo alle virtù alle quali si oppongono,[3] cioè le tre virtù teologali ( la fede, la speranza e la carità (quest'ultima anche detta amore). ) e le quattro virtù cardinali (la prudenza, la giustizia, la fortezza e la temperanza.)
+
+
+Superbia, l'avarizia, l'ira, l'invidia, la lussuria, la gola e l'accidia (indolenza)
+
+fede, speranza, carità , la prudenza, la giustizia, la fortezza e la temperanza
+
+Superbia - Carita'
+Avarizia - Speranza
+Ira - Giustizia
+Invidia - Fortezza
+Lussuria - Temperanza
+Gola - Fede
+Accidia - Prudenza
+
 
 
 
