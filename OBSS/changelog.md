@@ -602,38 +602,6 @@ Aggiungere immagini:
 
 
 
-Casto/Lussurioso
-Energetico/Pigro
-Clemente/Vendicativo
-Generoso/Egoista
-Onesto/Disonesto
-Modesto/Orgoglioso
-Egualitario/Dispotico
-Prudente/Incosciente
-Pietoso/Crudele
-Riservato/Mondano
-Moderato/Indulgente
-Fiducioso/Sospettoso
-Valoroso/Codardo
-una prova che coinvolge i tratti potrebbe dare dei vantaggi o svantaggi.
-
-
-Superbia, l'avarizia, l'ira, l'invidia, la lussuria, la gola e l'accidia e possono essere catalogati in parallelo alle virtù alle quali si oppongono,[3] cioè le tre virtù teologali ( la fede, la speranza e la carità (quest'ultima anche detta amore). ) e le quattro virtù cardinali (la prudenza, la giustizia, la fortezza e la temperanza.)
-
-
-Superbia, l'avarizia, l'ira, l'invidia, la lussuria, la gola e l'accidia (indolenza)
-
-fede, speranza, carità , la prudenza, la giustizia, la fortezza e la temperanza
-
-Superbia - Carita'
-Avarizia - Speranza
-Ira - Giustizia
-Invidia - Fortezza
-Lussuria - Temperanza
-Gola - Fede
-Accidia - Prudenza
-
-
 
 
 > ESPANSIONI:principalmente per mancanza di pagine, da valutare dopo riduzione font mostruario.
