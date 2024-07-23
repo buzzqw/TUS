@@ -566,7 +566,9 @@ aggiornata versione POD 2024/07/08
 
 aggiornata versione POD 2024/07/12
 
-0.86e aggiornata percentuale di richiesta di intervento del Patrono, chiarimenti su armature in materiali speciali, dettagli su scagliare frecce in melee, 
+0.86e aggiornata percentuale di richiesta di intervento del Patrono, chiarimenti su armature in materiali speciali, dettagli su scagliare frecce in melee
+
+aggiornata versione POD 2024/07/23
 
 
 
