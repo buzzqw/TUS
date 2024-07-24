@@ -3571,11 +3571,11 @@ Concedete un bonus o penalità ($\pm 1-2$) se non indicato diversamente) ogni qu
 \multicolumn{2}{c}{\textbf{Attaccante}}&\multicolumn{1}{c}{\textbf{Difensore}}\\
 \textbf{Mod}.&\multicolumn{1}{c}{\emph{Situazione}}&\multicolumn{1}{c}{\emph{Situazione}}\\
 \toprule
-\textbf{-1}		& Luce fioca		&		\\
+\textbf{-1}		& Affaticato(1), Luce fioca		&Affaticato (1)		\\
 \hline
-\textbf{-2}		& Abbagliato, Intralciato 	& Afferrato, Lanci un incantesimo mentre sei sotto attacco		\\
+\textbf{-2}		& Affaticato(2), Abbagliato, Intralciato	 	& Affaticato(2), Afferrato ,Lanci un incantesimo mentre sei sotto attacco		\\
 \hline
-\textbf{-4}		& Prono	,  Arma Lunga a corta distanza	&  Sorpreso, Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
+\textbf{-4}		& Affaticato(3), Prono, Arma Lunga a corta distanza	&  Affaticato(3), Sorpreso, Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
 \hline
 \textbf{-1d6}	& Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato					&	\\
 \hline
@@ -4135,7 +4135,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 \begin{itemize}
 
 \item 1 punto: dimezzi il tempo necessario per indossare e togliere un'armatura
-\item 2 punti: la Difesa concessa dall'armatura aumenta di 1 punto, dormire in armature medie non causa affaticamento
+\item 2 punti: la Difesa concessa dall'armatura aumenta di 1 punto, ire in armature medie non causa affaticamento
 \item 3 punti: la Penalità alla Competenza diminuisce di 1 punto, dormire in armature pesanti non causa affaticamento
 \item 4 punti: la penalità al Movimento diminuisce di 1 metro, la Difesa dell'armatura aumenta di 1 punto
 \item 5 punti: diminuisci di 1 i Tiri Critici subiti per attacco in mischia, la Penalità alla Competenza diminuiscono di 1 punto, la penalità al Movimento diminuisce di 1 metro
@@ -17700,15 +17700,15 @@ Cura: 1 TS
 
 Ogni avventuriero deve riposarsi ogni tanto, lo deve fare con attenzione e stando attento a non incorrere in brutte e pericolose sorprese.
 
-Ogni volta che un personaggio termina un periodo di 24 ore senza dormire almeno 8 ore, deve superare un Tiro Salvezza su Tempra con DC 12, altrimenti diventa Affaticato.
+Ogni volta che un personaggio termina un periodo di 24 ore senza dormire almeno 8 ore, deve superare un Tiro Salvezza su Tempra con DC 17, altrimenti diventa Affaticato.
 
-Ogni riposo mancato ulteriore lo renderà ancora più Affaticato cumulando le penalità relative. Se il personaggio resta sveglio per più giorni, lottare contro il sonno diventa più difficile. Dopo le prime 24 ore, la DC aumenta di 4 per ogni periodo consecutivo di 24 ore trascorso senza aver dormito 8 ore. La DC torna a 12 quando il personaggio completa un riposo di almeno 8 ore.
+Ogni riposo mancato ulteriore lo renderà ancora più Affaticato cumulando le penalità relative. Se il personaggio resta sveglio per più giorni, lottare contro il sonno diventa più difficile. Dopo le prime 24 ore, la DC aumenta di 4 per ogni periodo consecutivo di 24 ore trascorso senza aver dormito 8 ore. La DC torna a 17 quando il personaggio completa un riposo di almeno 8 ore.
 
 Dormire in armatura media o pesanti rende Affaticati, tranne se hai l'Abilità \hyperlink{secondapelle}{Seconda pelle}.
 
 Non si riesce a dormire le 8 ore ad intervalli minori di 16 ore.\index{Dormire più volte al giorno}
 
-Una attività impegnativa come combattere, lanciare incantesimi, cavalcare, se protratta per più di 10 minuti inficia i benefici del riposo fatto.
+Se il personaggio viene svegliato e coinvolto in una attività impegnativa come combattere, lanciare incantesimi, cavalcare... se questa si protrae per più di 10 minuti obbliga il personaggio a riprendere completamente il riposo.
 
 \subsubsection{Organizzare i Turni di Guardia}
 
@@ -46409,11 +46409,11 @@ Un alleato della creatura affascinata può scuoterla per permettergli un nuovo T
 
 L'affascinatore ha +1d6 su qualsiasi prova di Competenza per interagire socialmente con la creatura.
 
-\textbf{Affaticato}\index{Affaticato}\hypertarget{affaticato}{}\index{Esausto}\label{affaticato}: Un personaggio affaticato non può correre o Caricare e subisce una penalità -2 a Difesa e Tiro per Colpire e Tiri Salvezza. Se compie qualsiasi cosa normalmente affaticante aumenta il suo grado di Affaticato e prende penalità anche al movimento ed alle prove di competenza di Base.
+\textbf{Affaticato}\index{Affaticato}\hypertarget{affaticato}{}\index{Esausto}\label{affaticato}: Un personaggio affaticato non può correre o Caricare e subisce una penalità -1 a Difesa e Tiro per Colpire e Tiri Salvezza. Se compie qualsiasi cosa normalmente affaticante aumenta il suo grado di Affaticato e prende penalità anche al movimento ed alle prove di competenza di Base.
 
-Se un personaggio non dorme almeno 6 (TS Tempra DC 17) ore o dorme con un armatura media o pesante alla mattina è affaticato.
+Se un personaggio non dorme almeno 8 ore (TS Tempra DC 17) nell'arco di 24 ore o dorme con un armatura media o pesante alla mattina è affaticato.
 
-Un personaggio Affaticato 2 si muove più lentamente e subisce penalità -4 Tiri per Colpire, Difesa e Tiri Salvezza. Dopo 1 ora di completo riposo (o Ristorare Inferiore), un personaggio Affaticato 2 diventa Affaticato. 
+Dopo 1 ora di completo riposo (o Ristorare Inferiore), un personaggio Affaticato 2 diventa Affaticato. 
 
 \medskip
 
@@ -46424,16 +46424,16 @@ Un personaggio Affaticato 2 si muove più lentamente e subisce penalità -4 Tiri
 \begin{tabularx}{0.45\textwidth}{lcl}
 	\textbf{Condizioni}& \textbf{Pen./Mov/Comp.}&\textbf{Rec.}\\
 	\hline
-	Affaticato &2/-/-&1h\\
-	Affaticato 2&4/2m/-4&1h\\
-	Affaticato 3&6/3m/-6&8h\\
-	Affaticato 4&8/6m/-8&12h\\
-	Affaticato 5&Svenuto&12h\\
+	Affaticato &1/-/-&1h\\
+	Affaticato 2&2/2m/-4&1h\\
+	Affaticato 3&4/3m/-6&8h\\
+	Affaticato 4&6/6m/-8&12h\\
+	Affaticato 5&Svenuto&6h\\
 	Affaticato 6&Morte&--\\
 \end{tabularx}
 
 
-Dopo 8 ore di riposo una creatura passa da Affaticato 3 ad Affaticato 2 e dopo un altra ora passa ad Affaticato, purché non subisca ulteriori affaticamenti
+Dopo 8 ore di riposo una creatura passa da Affaticato 3 ad Affaticato 2 e dopo un altra ora passa ad Affaticato, purché non subisca ulteriori affaticamenti.
 
 
 \medskip
@@ -46488,8 +46488,8 @@ Concentrandosi completamente sull'incantesimo (2 Azioni), si possono ricevere pe
 
 Ovviamente ordini palesemente autodistruttivi non vengono eseguiti. Una volta stabilito il controllo, il raggio di azione entro il quale può essere mantenuto è illimitato purché entrambi i soggetti rimangano sullo stesso piano. Non c'è bisogno di vedere il soggetto per controllarlo. Se ogni giorno non si trascorre almeno 1 minuto a concentrarsi sull'incantesimo, il soggetto riceve un nuovo Tiro Salvezza per liberarsi dal controllo.
 
-\textbf{Dormire}\index{Dormire}: Ogni volta che un personaggio termina un periodo di 24 ore senza dormire almeno 8 ore, deve superare un Tiro Salvezza su Tempra con DC 12, altrimenti diventa Affaticato. Ogni riposo mancato ulteriore lo renderà ancora più Affaticato cumulando le penalità relative.
-Se il personaggio resta sveglio per più giorni, lottare contro il sonno diventa più difficile. Dopo le prime 24 ore, la DC aumenta di 4 per ogni periodo consecutivo di 24 ore trascorso senza aver dormito 8 ore. La DC torna a 12 quando il personaggio completa un riposo di almeno 8 ore.
+\textbf{Dormire}\index{Dormire}: Ogni volta che un personaggio termina un periodo di 24 ore senza dormire almeno 8 ore, deve superare un Tiro Salvezza su Tempra con DC 17, altrimenti diventa Affaticato. Ogni riposo mancato ulteriore lo renderà ancora più Affaticato cumulando le penalità relative.
+Se il personaggio resta sveglio per più giorni, lottare contro il sonno diventa più difficile. Dopo le prime 24 ore, la DC aumenta di 4 per ogni periodo consecutivo di 24 ore trascorso senza aver dormito 8 ore. La DC torna a 17 quando il personaggio completa un riposo di almeno 8 ore.
 
 \textbf{Fiancheggiare}\index{Fiancheggiare}\index{Fiancheggiato}: una creatura è fiancheggiata se ha due avversari non affiancatati attorno a se ed una ipotetica linea che unisce gli avversari attraversa il quadretto della creatura completamente. Le due creature prendono +2 al Tiro per Colpire o alla Difesa.
 

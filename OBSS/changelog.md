@@ -570,7 +570,7 @@ aggiornata versione POD 2024/07/12
 
 aggiornata versione POD 2024/07/23
 
-**0.87** 
+**0.87** aggiornate penalita' per affaticato, chiarimenti sul dormire poco, 
 
 
 
