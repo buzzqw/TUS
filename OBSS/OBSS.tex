@@ -169,7 +169,7 @@ boxrule=0.3pt
 	\par
 }
 
-%\usepackage[nospace]{varioref}
+\usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
 \newcommand\Yuge{\fontsize{42}{50}\selectfont}
 \usepackage{accanthis}
 \usepackage[framemethod=TikZ]{mdframed}
@@ -2194,7 +2194,7 @@ Il livello di potere \textbf{percepito} dei personaggi in OBSS è inferiore a qu
 Vado matto per i piani ben riusciti! (Colonnello John \emph{Hannibal} Smith, A-Team)}
 \end{enfasi}\end{changemargin}\medskip
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item
 Ogni combattimento è potenzialmente letale. Decidi con raziocinio e approccialo con attenzione. Impara a scappare, non aver paura di sopravvivere.
@@ -2340,7 +2340,7 @@ Se devi fare una prova su una Caratteristica devi tirare 3d6 e sommare il punteg
 
 Se non specificato diversamente per tutte le prove di competenza (Base, Attive) valgono tre regole base \index{Regole Base} chiamate \textbf{Golden Rules}:\index{Golden Rules}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 I \textbf{6 esplodono}, ovvero se nella prova dei 3d6 un dado fa sei, somma il risultato e ritira, e se fa 6 nuovamente sommi il risultato e ritiri ancora e ancora..
 \item
@@ -3127,11 +3127,11 @@ Il meritevole Game Master non uccide mai volontariamente i personaggi dei giocat
 
 Il danno da arma si calcola come somma del dado dell'arma, Forza (o Destrezza se indicato da Abilità) che sia positiva o negativa, bonus dati da Lista d'Armi, bonus dati Abilità, bonus dati dall'arma e bonus circostanziali.\index{Come calcolare il danno dell'arma}\index{Danno dell'arma}
 
-Quando un personaggio raggiunge i 0 (zero) Punti Ferita si considera svenuto\index{Svenuto}, ovvero Indifeso ed Inabile a fare qualsiasi cosa. Una Cura magica (Incantesimo, Pozione..) lo porterà cosciente ed ai Punti Ferita curati. Una prova di Pronto Soccorso, 3 Azioni, a DC 12 lo porterà ad 1 punto ferita. Dopo un ora se non è successo qualcosa a mutare la situazione il personaggio può fare un Tiro Salvezza su Tempra a DC 15, se riesce torna a 1 Punto Ferita, se fallisce va a -1 e diventa morente.\index{Zero PF, recupero da}
+Quando un personaggio raggiunge i 0 (zero) Punti Ferita si considera svenuto\index{Svenuto}, ovvero Indifeso ed Inabile a fare qualsiasi cosa. Una Cura magica (Incantesimo, Pozione..) lo porterà cosciente ed ai Punti Ferita curati. Una prova di Pronto Soccorso, 3 Azioni, a DC 12 lo porterà ad 1 punto ferita. Dopo un ora se non è successo qualcosa a mutare la situazione il personaggio può fare un Tiro Salvezza su Tempra a DC 15, se riesce torna a 1 Punto Ferita, se fallisce va a -1 e diventa morente.\index{Zero PF, recupero da}\index{0 Punti Ferita}
 
 Un personaggio morente ha Punti Ferita negativi (-1 o meno) ed è svenuto e \hyperlink{morente}{prossimo alla morte}. Continuerà a perdere 1 Punto Ferita a round fiche il valore non raggiungerà il doppio della Costituzione +10 ed il personaggio morirà, se non viene curato.
 
-Una magia (incantesimo o pozione) di Cura, di qualsiasi livello lo porterà a 1 Punto Ferita, successive cure funzioneranno normalmente.
+Una magia (incantesimo o pozione) di Cura, di qualsiasi ammontare di cura lo porterà a 1 Punto Ferita, successive cure funzioneranno normalmente.
 
 Una prova di \hyperlink{prontosoccorso}{Pronto Soccorso}, 3 Azioni, a difficoltà 12 più il valore dei Punti Ferita negativi porterà il personaggio a 0 Punti Ferita, ovvero svenuto. Ogni volta successiva che il personaggio torna sotto 0 Punti Ferita la difficoltà della prova di Pronto Soccorso aumenta di 2.
 
@@ -3233,7 +3233,7 @@ Il \textbf{Tiro per Colpire} è una prova contro la Difesa dell'avversario.
 
 Se l'attaccante usa:
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item \textbf{Armi da Mischia o Contatto}: l'attaccante deve effettuare un \textbf{Tiro per Colpire (TC)}= 3d6 + Competenza Armi + Forza + eventuali bonus dati dalla Lista d'Armi + Abilità + bonus magici dell'arma e fattori circostanziali (ambiente, maledizioni..)
 
 \item
@@ -3904,7 +3904,7 @@ Gli attacchi verso un personaggio a cavallo (o cavalcatura in genere) se non dic
 
 \subsubsection{Situazioni e regole}\label{cavallosituazioniregole}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 Ogni qual volta la cavalcatura è colpita il cavaliere deve effettuare una prova di Cavalcare a DC 15 o essere disarcionato.
 
@@ -3941,7 +3941,7 @@ Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferis
 \vfill
 
 \begin{center}
-\includegraphics[width=0.27\linewidth]{immagini/napoleone.png} 
+\includegraphics[width=0.29\linewidth]{immagini/napoleone.png} 
 
 \smallskip
 
@@ -3972,7 +3972,7 @@ E se fosse alle nostre spalle e neanche l'abbiamo notato ?
 
 Se l'obiettivo è noto che ci sia ma è occultato in qualche maniera allora si dice che ha \textbf{copertura}.
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 Se l'obiettivo \textbf{ha più della metà} (ma non totale) della superficie \textbf{visibile} allora la copertura si definisce \textbf{leggera}, ovvero ha +2 alla Difesa. Può essere il caso di una creatura dietro un altra creatura della medesima taglia o di 1 taglia più grande.
 
@@ -4089,7 +4089,7 @@ Usare un arma senza l'adeguata competenza impone un -1d6 al Tiro per Colpire.
 Tutte le Liste d'Armi concedono, se non scritto diversamente, questi vantaggi cumulativi quando il punteggio nella Lista d'Armi raggiunge il valore indicato:
 
 
-\begin{itemize}\index{Bonus comuni Lista d'armi}
+\begin{itemize}[leftmargin=*]\index{Bonus comuni Lista d'armi}
 
 \item 6 punti: se affronti qualcuno che usa un arma in questa lista sei immediatamente in grado di capire la sua capacità di Competenza Armi.
 
@@ -4113,7 +4113,7 @@ I vantaggi indicati sono cumulativi se non indicato diversamente.
 
 
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item 4 punti: aggiungi il valore di Forza al danno, anche se l'arco non è composito. Su un arco corto puoi aggiungere fino a +1 di danno, su un arco lungo fino a +2 di danno.
 \item 5 punti: riduci di 1d6 la penalità per tirare oltre la gittata standard.
@@ -4132,7 +4132,7 @@ I vantaggi indicati sono cumulativi se non indicato diversamente.
 
 Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa una Armatura.
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item 1 punto: dimezzi il tempo necessario per indossare e togliere un'armatura
 \item 2 punti: la Difesa concessa dall'armatura aumenta di 1 punto, ire in armature medie non causa affaticamento
@@ -4145,7 +4145,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 \subsection{Armi Leggere}\index{Armi Leggere} Spada Corta, Mazza leggera, Stocco, Scimitarra, Ascia ad una mano, Pugnale\label{listaarmileggere}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item 4 punti: puoi usare le Destrezza al posto della Forza nel Tiro per Colpire.
 \item 5 punti: puoi estrarre l'arma come parte dell'Azione di Movimento.
@@ -4159,7 +4159,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 \subsection{Armi doppie} \index{Armi doppie} Grande Ascia Doppia, Flagello Doppio, Spada a due lame, Urgrosh\label{listaarmidoppie}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item 4 punti: la tua competenza nell'uso di queste armi ti rende estremamente versatile dandoti la possibilità a inizio del tuo round di scegliere se essere difensivo o offensivo aumentando di 1 il Tiro per Colpire o la Difesa fine alla fine del round successivo. Non costa Azioni.
 \item 5 punti: prendendo -4 al Tiro per Colpire al primo attacco che esegui nel round prendi +4 alla Difesa fino alla fine del round successivo.
 \item 7 punti: usare un arma doppia non leggera non cumula il -3 aggiuntivo al Tiro per Colpire.
@@ -4175,7 +4175,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 \includegraphics[width=0.7\linewidth]{immagini/sciabole.png}
 \end{center}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item 4 punti: il tuo stile assomiglia molto ad una danza. Puoi usare il valore del Carisma o Destrezza al Tiro per Colpire.
 \item 5 punti: puoi usare il punteggio di Intrattenere al posto di Competenza Armi nel Tiro per Colpire.
 \item 7 punti: sai colpire dove fa veramente male. Il primo Colpo Critico somma un colpo critico aggiuntivo.
@@ -4195,7 +4195,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 \end{center}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item 4 punti: puoi eseguire un Colpo di Grazia con il costo di 1 Azione.
 \item 5 punti: il primo colpo critico che esegui sull'avversario somma un colpo critico aggiuntivo.
 \item 7 punti: aumenti di un grado il dado di danno dell'arma.
@@ -4207,7 +4207,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 \subsection{Armi da stordimento}\index{Armi da stordimento} Pugno Vuoto, Manganello, Guanto chiodato\label{listaarmistordimento}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item 4 punti: un avversario inconsapevole se colpito con queste armi (durante il round di sorpresa) deve effettuare un Tiro Salvezza Tempra DC 15 oppure essere Rallentato 1/1r.
 \item 5 punti: per ogni Tiro Critico l'avversario deve fare un Tiro Salvezza su Tempra a DC 13 o essere allentato 1/1r.
 \item 7 punti: raddoppi il tuo bonus di danno dato dalla Forza. Il Tiro Salvezza dell'abilità a 4 punti diventa 19.
@@ -4223,7 +4223,7 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 
 
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item 4 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +1 al colpire e un +1 ai danni.
 \item 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
 \item 7 punti: la tua abilità ti permette di non avere tempi morti dopo il lancio di un arma puoi istantaneamente estrarne un altra senza consumare azioni.
@@ -4242,7 +4242,7 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 %\end{center}
 
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item 4 punti: contro avversari sorpresi aggiungi al danno la tua Competenza Armi.
 \item 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpi critico in aggiunta.
@@ -4263,7 +4263,7 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 \end{center}
 
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item 4 punti: se fai almeno un tiro critico con il Tiro per Colpire puoi lasciare l'arma nel corpo dell'avversario, penalizzandolo con un -1 Destrezza. L'arma quando rimossa fa un danno critico.
 \item 5 punti: puoi effettuare un attacco di opportunità contro gli avversari che attraversano la tua zona di mischia, gratuito.
@@ -4283,7 +4283,7 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 \end{center}
 
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item 4 punti: guadagni l'Abilità Tiro rapido.
 \item 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
@@ -4297,7 +4297,7 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 
 \subsection{Lance} \index{Lance}Alabarda, Urgrosh, Lancia da fante, Naginata, Falcione in asta, Lancia, Brandistocco\label{listarmilance}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item 4 punti: usata contro una carica od in carica, purché abbia l'abilità Controcarica, fai un danno critico aggiuntivo se colpisci.
 \item 5 punti: puoi usarla anche contro avversari a distanza di 1 metro senza penalità.
 \item 7 punti: usata contro una carica od in carica, purché abbia l'abilità Controcarica, fai due danni critici aggiuntivi
@@ -4318,7 +4318,7 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 \includegraphics[width=0.6\linewidth]{immagini/mazzafrusto.png}
 \end{center}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item 4 punti: se il Tiro per Colpire va a segno puoi effettuare un ulteriore TC (senza consumare Azioni) a -5 contro un avversario in mischia con te che non sia l'avversario gia' colpito.
 \item 5 punti: se colpisci due volte l'avversario nel round, il secondo Tiro per Colpire genera un danno critico aggiuntivo.
 \item 7 punti: l'impatto dei tuo colpi è tale da stordire i nemici. Se colpisci l'avversario con un Tiro Critico questo subirà -4 Difesa fino alla fine del tuo prossimo round.
@@ -4333,7 +4333,7 @@ Acquisisci la capacità del \textbf{Tiro Devastante}: puoi lanciare una delle tu
 
 Il giocatore può anche decidere di fare danno non letale non incorrendo in alcuna penalità, al danno può applicare a proprio piacere il valore di Forza o Destrezza.
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item 1 punto: tuoi pugni fanno danno letale (1d4). Puoi usare il valore di Forza o Destrezza al Tiro per Colpire ed al danno.
 \item 4 punti: Saggezza della mano vuota. Puoi usare il valore della Saggezza al colpire ed al Danno al posto di Forza o Destrezza. Le penalità dell'attacco multiplo diventano -4 e non -5.
 \item 5 punti: il punteggio di Difesa base passa da 10 a 11.
@@ -4352,7 +4352,7 @@ Consultate \hyperlink{equivalenzemagiche}{Vulnerabilità, Resistenza e Immunità
 \end{center}
 
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item 4 punti: sei diventato cosi abile che puoi controllare la forza dei tuo colpi, puoi fare danno non letale senza penalità al colpire (altrimenti -1d6 al Tiro per Colpire).
 
 Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (non cumulabile con Colpi Potenti).
@@ -4374,7 +4374,7 @@ Non hai penalità al colpire con lo scudo, per te lo scudo non è un arma improv
 La tua tecnica mescola efficacemente difesa e attacco. Puoi lanciare il tuo scudo con una gittata di 6 metri.
 
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item 1 punto: sei competente in tutte le tipologie di scudo. Non hai il vincolo del limite di Forza 1 sugli Scudi Pesanti.
 \item 2 punti: il bonus di Difesa quando usi lo scudo aumenta di 1 e ogni 4 volte che prendi la competenza. Usare lo scudo come arma non ti fa perdere il bonus alla Difesa dato dallo scudo.
 \item 3 punti: la penalità Competenza Magica data dallo scudo diminuisce di un dado
@@ -4405,7 +4405,7 @@ Chiamate \emph{Asce} nella Tabella: Lista della Armi
 \includegraphics[width=0.9\linewidth]{immagini/scurieaccette.png} 
 \end{center}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item 4 punti: la furia dei tuoi attacchi è tale che guadagni un +2 al danno sul colpo.
 \item 5 punti: il primo Triro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
@@ -4418,7 +4418,7 @@ Chiamate \emph{Asce} nella Tabella: Lista della Armi
 
 \subsection{Spade}\index{Spade} Spada Corta, Spada Lunga, Spadone a due mani, Spada bastarda, Spada a due lame, Spada larga, Katana, Spada a due lame
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item 4 punti: la tua maestria nella tecnica della spada ti conferisce +1 a danno e Tiro per Colpire.
 \item 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
@@ -4440,7 +4440,7 @@ La mano che non tiene la spada deve essere libera.
 
 \subsection{Spade e Scudi}\index{Spade e Scudi} Spada Corta, Spada Lunga, Spada larga, Scudo Piccolo, Scudo Medio\label{listaarmispadescudi}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item 4 punti: la tua maestria nella tecnica della spada e scudo ti conferisce +1 alla Difesa ed al Tiro per Colpire.
 \item 5 punti: se vai a segno con due colpi consecutivi con la spada puoi effettuare un Tiro per Colpire, senza cumulo ulteriore di penalità da multiattacco, con lo scudo consumando una Reazione.
@@ -6922,7 +6922,7 @@ Altre liste più oscure sono quelle demoniache o degli Aboleth, alcune altre son
 
 Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie regole, sebbene alcune regole possano fare riferimento a queste liste. Accanto al nome di ogni Lista è indicata la caratteristica correlata.
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 \emph{Abiurazione} (INT) riguarda incantesimi di natura protettiva, sebbene ne contenga anche alcuni dall'uso aggressivo. Questi incantesimi creano barriere magiche, negano effetti dannosi o bandiscono le creature in altri piani di esistenza.
 
@@ -7003,7 +7003,7 @@ La durata di un incantesimo è la lunghezza di tempo per cui esso persiste. La d
 
 Qualora un critico magico raddoppi la durata si intente sempre riferita alla durata iniziale. Es. se la durata è 2 ore dopo il primo raddoppio diventa 4 ore, con il secondo diventa di 6 ore e poi 8 ore..\index{Successo critico magico sulla durata}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item
 \emph{Istantanea}
@@ -7078,7 +7078,7 @@ La descrizione di un incantesimo specifica la sua area di effetto, che di solito
 	\emph{Cono, Sfera, Cilindro, Cubo}
 \end{center}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item  \emph{\textbf{Cilindro}}: il punto di origine di un cilindro è il centro di un cerchio di specifico raggio, come indicato nella descrizione dell'incantesimo. Il cerchio deve essere sul pavimento o all'altezza dell'effetto dell'incantesimo. L'energia in un cilindro si espande in linee dritte dal punto di origine al perimetro del cerchio, formando la base del cilindro. L'effetto dell'incantesimo parte poi dal basso verso l'alto o dall'alto verso il basso, fino a una distanza uguale all'altezza del cilindro. Il punto di origine del cilindro è incluso nella sua area di effetto.
 
 \item
@@ -7113,7 +7113,7 @@ In caso di incantesimi istantanei gli effetti agiscono singolarmente se agiscono
 
 \subsection{Regole di base}\index{Regole Base per la Magia}\label{magieregoledibase}\index{Incantesimi, Regole base}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item
 L'incantatore al lancio del suo primo incantesimo sceglie se utilizzare come modificatore alla prova di Competenza Magica la Caratteristica collegata alla prima Lista di Magia presa oppure se è un Devoto può scegliere la Caratteristica indicata dal Patrono.\index{Incantesimi, Modificatore alla prova di CM}
@@ -7423,7 +7423,7 @@ Tups che ha Intelligenza 4, Competenza Magica 6, e ha preso 1 volta Adepto della
 
 Se sei tu a dover resistere ad una magia il Narratore non ti dirà di fare un Tiro Salvezza a difficoltà 18, è lui che confronta il tuo tiro con la difficoltà, potrà dirti che la prova è complessa, difficile o facile...
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item
 Se nel Tiro Salvezza tiri 3 volte 6 sei riuscito a passarlo, indipendentemente dal totale, ed ottieni un \textbf{Successo Critico Salvezza}.
@@ -7890,13 +7890,12 @@ Lanci l'incantesimo a contatto di una creatura consenziente che non indossa un'a
 \textbf{Durata}: Istantanea\\
 Sussurrando agli spiriti della natura, crei, a gittata, uno dei seguenti effetti:
 
-- Crei un minuscolo e innocuo effetto sensoriale che predice quale clima ci sarà nel luogo in cui ti trovi per le prossime 24 ore. L'effetto potrebbe manifestarsi come una sfera dorata per i cieli limpidi, una nube per la pioggia, fiocchi di neve per la neve, e così via. L'effetto persiste per 1 round.\\
-
-- Fai immediatamente sbocciare un fiore, un seme o simile pianta.\\
-
-- Crei un istantaneo e innocuo effetto sensoriale, come foglie che cadono, uno sbuffo di vento, il suono di un piccolo animale, o il lieve tanfo di una puzzola. L'effetto deve entrare in un cubo di 1 metro.\\
-
-- Accendi o spegni istantaneamente una candela, una torcia o un piccolo falò.\\
+\begin{itemize}[leftmargin=*]
+	\item Crei un minuscolo e innocuo effetto sensoriale che predice quale clima ci sarà nel luogo in cui ti trovi per le prossime 24 ore. L'effetto potrebbe manifestarsi come una sfera dorata per i cieli limpidi, una nube per la pioggia, fiocchi di neve per la neve, e così via. L'effetto persiste per 1 round.
+	\item Fai immediatamente sbocciare un fiore, un seme o simile pianta.
+	\item Crei un istantaneo e innocuo effetto sensoriale, come foglie che cadono, uno sbuffo di vento, il suono di un piccolo animale, o il lieve tanfo di una puzzola. L'effetto deve entrare in un cubo di 1 metro.
+	\item Accendi o spegni istantaneamente una candela, una torcia o un piccolo falò.
+\end{itemize}
 
 Questo incantesimo può essere lanciato solo da Seguaci o Devoti di Efrem, Erondil, Gaya, Shayalia.
 
@@ -8174,7 +8173,7 @@ Cerchi di affascinare un umanoide a gittata e che puoi vedere. Egli deve effettu
 \textbf{Durata}: Concentrazione, massimo 1 ora\\
 Vieni circondato da una sfera invisibile di anti-magia di 3 metri di raggio. Quest'area è separata dall'energia magica che permea il multiverso. All'interno della sfera non si possono lanciare incantesimi, le creature richiamate scompaiono e anche gli oggetti magici diventano normali. Fino al termine dell'incantesimo, la sfera si muove con te, centrata su di te. Gli incantesimi e altri effetti magici, eccetto quelli creati da un artefatto o Patrono, sono soppressi all'interno della sfera né vi possono penetrare. Uno slot speso per lanciare un incantesimo soppresso è consumato. Mentre un effetto è soppresso, non funziona, ma il tempo che trascorre soppresso è conteggiato per la sua durata.\\
 
-\emph{Effetti con Bersaglio}. Incantesimi e altri effetti magici, come Dardo arcano e charme su persone, che prendono come bersaglio una creatura o un oggetto all'interno della sfera non hanno effetto su quel bersaglio.\\
+\noindent\emph{Effetti con Bersaglio}. Incantesimi e altri effetti magici, come Dardo arcano e charme su persone, che prendono come bersaglio una creatura o un oggetto all'interno della sfera non hanno effetto su quel bersaglio.\\
 \emph{Aree di Magia}. L'area di un altro incantesimo o effetto magico, come palla di fuoco, non può estendersi all'interno della sfera. Se la sfera si sovrappone a un'area di magia, la parte di quell'area coperta dalla sfera viene soppressa. Per esempio, le fiamme generate da un muro di fuoco vengono soppresse all'interno della sfera, creando un buco nel muro se la sovrapposizione è sufficientemente grande. Incantesimi. Qualsiasi incantesimo o altro effetto magico attivo su di una creatura od oggetto all'interno della sfera viene soppresso finché la creatura o l'oggetto si trovano all'interno della sfera.\\
 \emph{Oggetti Magici}. Le proprietà e poteri degli oggetti magici vengono soppressi dalla sfera. Per esempio, una spada lunga +1 all'interno della sfera funziona come una spada lunga non magica. Le proprietà e i poteri delle armi magiche vengono soppressi se sono usati contro un bersaglio all'interno della sfera o impugnate da un attaccante dentro la sfera. Se un'arma magica o munizione magica lascia interamente la sfera (per esempio, se tiri una freccia magica o scagli una lancia magica a un bersaglio al di fuori della sfera), la magia dell'oggetto non è più soppressa non appena esce dalla sfera.\\
 \emph{Magia di Viaggio}. Il teletrasporto e il viaggio planare non funzionano all'interno della sfera, che la sfera sia il punto di destinazione o di partenza di questo viaggio magico. All'interno della sfera, un portale verso un altro luogo, mondo, o piano di esistenza, così come uno spazio extradimensionale come quello creato dall'incantesimo trucco della corda, resta chiuso.\\
@@ -8209,13 +8208,16 @@ Fino al termine dell'incantesimo puoi comandare che l'illuminazione interna sia 
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S, M (pelo o piuma di una bestia)\\
 \textbf{Durata}: massimo 10 minuti\\
-Conferisci un potenziamento magico a una creatura con cui sei in contatto. Scegli uno degli effetti seguenti; il bersaglio ottiene quell'effetto fino al termine dell'incantesimo.\\
-\emph{Astuzia della Volpe}. Il bersaglio ha +1d6 alle prove di Intelligenza e Forza\\
-\emph{Forza del Toro}. Il bersaglio ha +1d6 alle prove di Forza, e la sua capacità di Ingombro raddoppia.\\
-\emph{Grazia del Energia Luminosa}. Il bersaglio ha +1d6 alle prove di Destrezza. Inoltre, qualora non sia inabile, non subisce danni dalle cadute di 6 metri o meno.\\
-\emph{Resistenza dell'Orso}. Il bersaglio ha +1d6 alle prove di Costituzione. Ottiene anche 2d6 Punti Ferita temporanei, che vengono persi alla fine dell'incantesimo.\\
-\emph{Saggezza del Gufo}. Il bersaglio ha +1d6 alle prove di Saggezza. \\
-\emph{Splendore dell'Aquila}. Il bersaglio ha +1d6 alle prove di Carisma.\\
+Conferisci un potenziamento magico a una creatura con cui sei in contatto. Scegli uno degli effetti seguenti; il bersaglio ottiene quell'effetto fino al termine dell'incantesimo.
+
+\begin{itemize}[leftmargin=*]
+\item \emph{Astuzia della Volpe}. Il bersaglio ha +1d6 alle prove di Intelligenza e Forza
+\item \emph{Forza del Toro}. Il bersaglio ha +1d6 alle prove di Forza, e la sua capacità di Ingombro raddoppia.
+\item \emph{Grazia del Energia Luminosa}. Il bersaglio ha +1d6 alle prove di Destrezza. Inoltre, qualora non sia inabile, non subisce danni dalle cadute di 6 metri o meno.
+\item \emph{Resistenza dell'Orso}. Il bersaglio ha +1d6 alle prove di Costituzione. Ottiene anche 2d6 Punti Ferita temporanei, che vengono persi alla fine dell'incantesimo.
+\item \emph{Saggezza del Gufo}. Il bersaglio ha +1d6 alle prove di Saggezza. 
+\item \emph{Splendore dell'Aquila}. Il bersaglio ha +1d6 alle prove di Carisma.
+\end{itemize}
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia puoi prendere come bersaglio un'ulteriore creatura
 
 \medskip\textbf{Carne in Pietra - Pietra in Carne}\index[Incantesimi]{Carne in Pietra}\index[Incantesimi]{Pietra in Carne}\\
@@ -8389,17 +8391,17 @@ Il bersaglio colpito dal colpo subisce 2d6 danni da Luce e diventa visibile per 
 \textbf{Gittata}: 18 metri\\
 \textbf{Componenti}: V\\
 \textbf{Durata}: 1 round\\
-Pronunci un comando di una parola verso una creatura a gittata e che puoi vedere. Il bersaglio deve superare un Tiro Salvezza su Volontà o eseguire il comando entro il suo prossimo round. L'incantesimo non ha effetto se il bersaglio è non morto, se non capisce la tua lingua o se il tuo comando gli recherebbe danni. Seguono alcuni tipici comandi e i loro effetti. Puoi dare comandi diversi da quelli descritti qui, in quel caso il Narratore determinerà il comportamento del bersaglio. Se il bersaglio non può eseguire il tuo comando, l'incantesimo ha fine.\\
+Pronunci un comando di una parola verso una creatura a gittata e che puoi vedere. Il bersaglio deve superare un Tiro Salvezza su Volontà o eseguire il comando entro il suo prossimo round. L'incantesimo non ha effetto se il bersaglio è non morto, se non capisce la tua lingua o se il tuo comando gli recherebbe danni.
 
-- \emph{Avvicinati}. Il bersaglio si muove verso di te per il tragitto più breve e diretto, terminando il suo round se si avvicina a 1 metro da te.\\
+Seguono alcuni tipici comandi e i loro effetti. Puoi dare comandi diversi da quelli descritti qui, in quel caso il Narratore determinerà il comportamento del bersaglio. Se il bersaglio non può eseguire il tuo comando, l'incantesimo ha fine.
 
-- \emph{Fermo}. Il bersaglio non si muove e poi termina il suo round. Una creatura volante resta sul posto, purché le sia possibile. Se deve muoversi per restare in aria, vola la distanza minima necessaria per farlo.\\
-
-- \emph{Getta}. Il bersaglio getta qualsiasi cosa stia tenendo in mano e poi termina il suo round.\\
-
-- \emph{Scappa}. Il bersaglio spende il suo round a muoversi lontano da te con il mezzo più veloce a sua disposizione.\\
-
-- \emph{Striscia}. Il bersaglio si getta prono e poi termina il suo round.\\
+\begin{itemize}[leftmargin=*]
+	\item \emph{Avvicinati}. Il bersaglio si muove verso di te per il tragitto più breve e diretto, terminando il suo round se si avvicina a 1 metro da te.
+	\item \emph{Fermo}. Il bersaglio non si muove e poi termina il suo round. Una creatura volante resta sul posto, purché le sia possibile. Se deve muoversi per restare in aria, vola la distanza minima necessaria per farlo.
+	\item \emph{Getta}. Il bersaglio getta qualsiasi cosa stia tenendo in mano e poi termina il suo round.
+	\item \emph{Scappa}. Il bersaglio spende il suo round a muoversi lontano da te con il mezzo più veloce a sua disposizione.
+	\item \emph{Striscia}. Il bersaglio si getta prono e poi termina il suo round.
+\end{itemize}
 
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia puoi agire su di un'ulteriore creatura. Nel momento in cui lanci l'incantesimo, le creature bersaglio devono trovarsi entro 9 metri l'una da l'altra ed eseguono il medesimo comando.
 
@@ -8467,7 +8469,7 @@ Se lanci l'incantesimo due o più volte prima che sia sorta la nuova alba c'è u
 Per un istante diventi tutt'uno con la natura e ottieni informazioni sul territorio circostante. In ambienti esterni, l'incantesimo ti fornisce informazioni sul territorio entro 5 chilometri da te. In grotte e altri ambienti naturali sotterranei, il raggio è limitato a 100 metri. L'incantesimo non funziona nei luoghi in cui la natura è stata soppiantata da costruzioni, come in sotterranei e paesi.\\
 Apprendi immediatamente informazioni su un massimo di tre argomenti a tua scelta su uno dei seguenti soggetti, in relazione all'area:
 
-- terreno e corpi d'acqua\\
+\noindent- terreno e corpi d'acqua\\
 - piante, minerali, animali e popolazioni prevalenti\\
 - potenti celestiali, elementali, fatati, demoni o non morti\\
 - influenze da altri piani di esistenza\\
@@ -8542,13 +8544,16 @@ Nomina o descrivi una persona, luogo od oggetto. L'incantesimo ti porta alla men
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 7 giorni\\
 Tramite il contatto puoi infliggere malattie. Effettua un attacco da mischia contro una creatura a portata. Se colpisci, infetti la creatura con una malattia a tua scelta tra quelle descritte di seguito. Al termine di ciascun round del bersaglio, esso deve effettuare un Tiro Salvezza su Tempra. Dopo aver fallito tre di questi Tiri Salvezza, gli effetti della malattia permangono per la durata, e la creatura non effettua più Tiri Salvezza. Dopo aver superato tre di questi Tiri Salvezza, la creatura recupera dalla malattia, e l'incantesimo ha termine. \\
-Dato che questo incantesimo induce nel suo bersaglio una malattia naturale, qualsiasi effetto che rimuova le malattie o migliori gli effetti delle malattie si applica a essa.\\
-- \emph{Carne Putrida}. La pelle della creatura marcisce. La creatura ha -1d6 alle prove di Carisma e ogni danno è raddoppiato.\\
-- \emph{Debolezza Accecante}. Il dolore attanaglia la mente della creatura mentre i suoi occhi diventano bianco latte. La creatura ha -1d6 alle prove di Saggezza e ai Tiri Salvezza su Volontà, ed è accecata.\\
-- \emph{Febbre Lurida}. Una febbre devastante sconvolge il corpo della creatura. La creatura ha -1d6 alle prove di Forza e ai Tiri Salvezza su Tempra, e ai Tiri per Colpire che usano la Forza.\\
-- \emph{Fitte}. La creatura è sopraffatta dai tremiti. La creatura ha -1d6 alle prove di Destrezza, ai Tiri Salvezza su Riflessi ed ai Tiri per Colpire che usano la Destrezza.\\
-- \emph{Fuoco Mentale}. La mente della creatura è preda della febbre. La creatura ha -1d6 alle prove di Intelligenza e ai Tiri Salvezza su Volontà, e si comporta come se in combattimento fosse sotto l'effetto dell'incantesimo confusione.\\
-- \emph{Morte Melmosa}. La creatura inizia a sanguinare incessantemente. La creatura ha -1d6 alle prove di Costituzione e ai Tiri Salvezza su Tempra. Inoltre, ogni qualvolta la creatura subisce danni, è stordita fino alla fine del suo prossimo round.\\
+Dato che questo incantesimo induce nel suo bersaglio una malattia naturale, qualsiasi effetto che rimuova le malattie o migliori gli effetti delle malattie si applica a essa.
+
+\begin{itemize}[leftmargin=*]
+	\item \emph{Carne Putrida}. La pelle della creatura marcisce. La creatura ha -1d6 alle prove di Carisma e ogni danno è raddoppiato.
+	\item \emph{Debolezza Accecante}. Il dolore attanaglia la mente della creatura mentre i suoi occhi diventano bianco latte. La creatura ha -1d6 alle prove di Saggezza e ai Tiri Salvezza su Volontà, ed è accecata.
+	\item \emph{Febbre Lurida}. Una febbre devastante sconvolge il corpo della creatura. La creatura ha -1d6 alle prove di Forza e ai Tiri Salvezza su Tempra, e ai Tiri per Colpire che usano la Forza.
+	\item \emph{Fitte}. La creatura è sopraffatta dai tremiti. La creatura ha -1d6 alle prove di Destrezza, ai Tiri Salvezza su Riflessi ed ai Tiri per Colpire che usano la Destrezza.
+	\item \emph{Fuoco Mentale}. La mente della creatura è preda della febbre. La creatura ha -1d6 alle prove di Intelligenza e ai Tiri Salvezza su Volontà, e si comporta come se in combattimento fosse sotto l'effetto dell'incantesimo confusione.
+	\item \emph{Morte Melmosa}. La creatura inizia a sanguinare incessantemente. La creatura ha -1d6 alle prove di Costituzione e ai Tiri Salvezza su Tempra. Inoltre, ogni qualvolta la creatura subisce danni, è stordita fino alla fine del suo prossimo round.
+\end{itemize}
 
 
 \medskip\textbf{Contingenza}\index[Incantesimi]{Contingenza}\\
@@ -8871,12 +8876,15 @@ Il danno dell'incantesimo aumenta di 1d8 quando raggiungi CM 5, CM 11 e CM 17 ma
 \textbf{Durata}: Istantanea\\
 Desiderio è il più potente incantesimo che una creatura mortale possa lanciare. Semplicemente parlando ad alta voce e consumando le gemme tenute in mano, puoi modificare le stesse fondamenta della realtà a seconda dei tuoi bisogni. \\
 L'uso basilare di questo incantesimo è quello di riprodurre l'effetto di qualsiasi altro incantesimo con livello 8 o meno. Non devi soddisfare nessuno dei requisiti dell'incantesimo, comprese le componenti materiali costose. L'incantesimo ha semplicemente effetto.\\
-In alternativa, puoi creare uno dei seguenti effetti a tua scelta:\\
-- Crei un oggetto del valore massimo di 25000 mo, che non sia un oggetto magico. L'oggetto non può avere dimensioni superiori ai 90 metri in qualsiasi dimensione, e compare in uno spazio non occupato sul terreno.\\
-- Permetti fino a venti creature che puoi vedere di recuperare tutti i Punti Ferita, e termini tutti gli effetti su di loro descritti dall'incantesimo ristorare superiore.\\
-- Conferisci a un massimo di dieci creature che puoi vedere la resistenza a un tipo di danno a tua scelta.\\
-- Conferisci a un massimo di dieci creature che puoi vedere l'immunità a un singolo incantesimo o altro effetto magico per 8 ore. Per esempio, potresti rendere te e tutti tuoi compagni immuni all'attacco risucchia vita del lich.\\
-- Annulli un qualsiasi evento recente obbligando a ritirare qualsiasi tiro effettuato nell'ultimo round (compreso il tuo ultimo round). La realtà si rimodella per assecondare il nuovo risultato. Puoi far sì che il nuovo tiro abbia +2d6 o -2d6, puoi scegliere se usare il tiro originale o il nuovo tiro. Potresti anche riuscire a ottenere altro, oltre gli obiettivi negli esempi di cui sopra.\\
+In alternativa, puoi creare uno dei seguenti effetti a tua scelta:
+
+\begin{itemize}[leftmargin=*]
+	\item Crei un oggetto del valore massimo di 25000 mo, che non sia un oggetto magico. L'oggetto non può avere dimensioni superiori ai 90 metri in qualsiasi dimensione, e compare in uno spazio non occupato sul terreno.
+	\item Permetti fino a venti creature che puoi vedere di recuperare tutti i Punti Ferita, e termini tutti gli effetti su di loro descritti dall'incantesimo ristorare superiore.
+	\item Conferisci a un massimo di dieci creature che puoi vedere la resistenza a un tipo di danno a tua scelta.
+	\item Conferisci a un massimo di dieci creature che puoi vedere l'immunità a un singolo incantesimo o altro effetto magico per 8 ore. Per esempio, potresti rendere te e tutti tuoi compagni immuni all'attacco risucchia vita del lich.
+	\item Annulli un qualsiasi evento recente obbligando a ritirare qualsiasi tiro effettuato nell'ultimo round (compreso il tuo ultimo round). La realtà si rimodella per assecondare il nuovo risultato. Puoi far sì che il nuovo tiro abbia +2d6 o -2d6, puoi scegliere se usare il tiro originale o il nuovo tiro. Potresti anche riuscire a ottenere altro, oltre gli obiettivi negli esempi di cui sopra.
+\end{itemize}	
 
 \medskip
 Definisci i tuoi desideri quanto più possibile al Narratore. Il Narratore ha grande spazio di manovra nel decidere cosa accada in questi casi; maggiore il desiderio, più grosse le probabilità che qualcosa vada storto. L'incantesimo potrebbe semplicemente fallire, l'effetto desiderato manifestarsi solo in parte, oppure potresti subire delle conseguenze impreviste, in base a come hai proferito il desiderio. Lo stress del lanciare questo incantesimo per creare qualsiasi effetto che non sia riprodurre un altro incantesimo ti indebolisce.\\
@@ -9081,12 +9089,14 @@ L'incantesimo termina se sei reso inabile o non puoi più parlare.
 \textbf{Gittata}: 18 metri\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 1 Turno, Concentrazione\\
-Evochi spiriti magici che assumono l'aspetto di bestie e compaiono in spazi non occupati a gittata e che puoi vedere. Scegli una delle seguenti opzioni per determinare ciò che appare:\\
+Evochi spiriti magici che assumono l'aspetto di bestie e compaiono in spazi non occupati a gittata e che puoi vedere. Scegli una delle seguenti opzioni per determinare ciò che appare:
 
-- Una bestia di grado di sfida 2 o inferiore\\
-- Due bestie di grado di sfida 1 o inferiore\\
-- Quattro bestie di grado di sfida 1/2 o inferiore\\
-- Otto bestie di grado di sfida 1/4 o inferiore\\
+\begin{itemize}[leftmargin=*]
+	\item Una bestia di grado di sfida 2 o inferiore
+	\item Due bestie di grado di sfida 1 o inferiore
+	\item Quattro bestie di grado di sfida 1/2 o inferiore
+	\item Otto bestie di grado di sfida 1/4 o inferiore
+\end{itemize}
 
 Ogni bestia è considerata anche magica e sparisce quando scende a 0 Punti Ferita o quando l'incantesimo termina. \\
 Le creature evocate sono amichevoli verso di te e i tuoi compagni. .\\
@@ -9122,14 +9132,15 @@ Ogni Lista di Magia può evocare solo il proprio Elementale specifico\\
 \textbf{Gittata}: 27 metri\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 1 Turno, Concentrazione\\
-Evochi degli elementali che compariranno in spazi non occupati a gittata e che puoi vedere. Scegli una della seguenti opzioni per decidere cosa appare:\\
+Evochi degli elementali che compariranno in spazi non occupati a gittata e che puoi vedere. Scegli una della seguenti opzioni per decidere cosa appare:
 
-- Un elementale di grado di sfida 2 o meno\\
-- Due elementali di grado di sfida 1 o meno\\
-- Quattro elementali di grado di sfida 1/2 o meno\\
-- Otto elementali di grado di sfida 1/4 o meno\\
+\begin{itemize}[leftmargin=*]
+	\item Un elementale di grado di sfida 2 o meno
+	\item Due elementali di grado di sfida 1 o meno
+	\item Quattro elementali di grado di sfida 1/2 o meno
+	\item Otto elementali di grado di sfida 1/4 o meno
+\end{itemize}
 
-\medskip
 Un elementale evocato sparisce quando scende a 0 Punti Ferita o l'incantesimo termina.\\
 Ogni Lista di Magia può evocare solo il proprio Elementale specifico\\
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia appariranno due elementale in più di grado inferiore o 1 elementale in più di grado superiore a quello inizialmente scelto.
@@ -9371,6 +9382,7 @@ Quando inscrivi il glifo scegli rune esplosive o glifo incantesimo.
 - \emph{Glifo Incantesimo}. Puoi inserire un incantesimo preparato di livello 2 o inferiore nel glifo lanciandolo come parte della creazione del glifo. L'incantesimo deve prendere come bersaglio una singola creatura o un'area. L'incantesimo che viene inserito non ha effetto immediato se lanciato in questo modo. Quando il glifo è attivato, l'incantesimo inserito viene lanciato. Se l'incantesimo ha un bersaglio, prende come bersaglio la creatura che ha attivato il glifo. Se l'incantesimo agisce su di un'area, l'area è incentrata su quella creatura. Se l'incantesimo evoca creature ostili o crea oggetti o trappole nocive, questi appaiono quanto più vicino possibile all'intruso e lo attaccano. Se l'incantesimo richiede concentrazione, questa è mantenuta fino al termine della sua normale durata.\\
 
 - \emph{Rune Esplosive}. Quando attivato, il glifo erutta energia magica in una sfera di raggio 6 metri centrata sul glifo. La sfera si propaga intorno agli angoli. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 5d8 danni da acido, fulmine, fuoco, freddo o suono se fallisce il Tiro Salvezza (a tua scelta quando crei il glifo), o la metà di questi danni se supera il Tiro Salvezza.\\
+
 \textbf{Per ogni Successo Critico Magico} ottenuto nella prova  di magia il danno del glifo rune esplosive aumenta di 1d8.
 
 \medskip\textbf{Globo di Invulnerabilità}\index[Incantesimi]{Globo di Invulnerabilità}\\
@@ -9573,15 +9585,16 @@ Una creatura che non può vedere, o si affida a sensi diversi dalla vista (come 
 \textbf{Componenti}: V, S, M (una raffigurazione su vello o una statuetta incisa con le fattezze del bersaglio, e una componente speciale che varia a seconda della versione che scegli dell'incantesimo, del valore di almeno 500 mo per Dado Ferita del bersaglio)\\
 \textbf{Durata}: Fino a dissolvimento\\
 Crei dei vincoli magici per bloccare una creatura a gittata e che puoi vedere. Il bersaglio deve superare un Tiro Salvezza su Volontà o essere avvinto dall'incantesimo; se lo supera, è immune all'incantesimo qualora lo lanci di nuovo. Mentre è soggetta a questo incantesimo, la creatura non ha bisogno di respirare, mangiare o bere e non invecchia. Gli incantesimi di divinazione non possono localizzare né percepire il bersaglio.\\
-Quando lanci questo incantesimo, scegli una delle seguenti forme di prigionia.\\
+Quando lanci questo incantesimo, scegli una delle seguenti forme di prigionia.
 
-- \emph{Incatenamento}. Catene pesanti, ben saldate al terreno, tengono il bersaglio ancorato. Il bersaglio è intralciato fino al termine dell'incantesimo, e non può muoversi né essere mosso in alcun modo fino ad allora. La componente speciale per questa versione dell'incantesimo è una catenella di metallo prezioso.\\
-- \emph{Isolamento Minimo}. Il bersaglio rimpicciolisce fino a 2,5 centimetri di altezza ed è imprigionato in una gemma o simile oggetto. La luce può attraversare normalmente la gemma (permettendo al bersaglio di vedere all'esterno e ad altre creature di vedere dentro), ma null'altro può attraversarla, neppure tramite teletrasporto o viaggio planare. La gemma non può essere tagliata né infranta finché l'incantesimo rimane in atto. La componente speciale per questa versione dell'incantesimo è una grande gemma trasparente, come il corindone, il diamante o il rubino.\\
-- \emph{Prigione Confinata}. L'incantesimo trasporta il bersaglio in un minuscolo semipiano interdetto al teletrasporto e al viaggio planare. Il semipiano può essere un labirinto, una gabbia, una torre, o qualsiasi altra struttura chiusa scelta da te. La componente speciale per questa versione dell'incantesimo è una rappresentazione in miniatura della prigione fatta di giada.\\
-- \emph{Sepoltura}. Il bersaglio viene sepolto nelle profondità della terra in una sfera di forza magica grande a sufficienza da contenere il bersaglio. Nulla può attraversare la sfera, né alcuna creatura può teletrasportarsi o usare il viaggio planare per entrarvi o uscire. La componente speciale per questa versione dell'incantesimo è una piccola sfera di mithral.\\
-- \emph{Sopore}. Il bersaglio cade addormentato e non può essere risvegliato. La componente speciale per questa versione dell'incantesimo consiste di rare erbe soporifere.\\
+\begin{itemize}[leftmargin=*]
+	\item \emph{Incatenamento}. Catene pesanti, ben saldate al terreno, tengono il bersaglio ancorato. Il bersaglio è intralciato fino al termine dell'incantesimo, e non può muoversi né essere mosso in alcun modo fino ad allora. La componente speciale per questa versione dell'incantesimo è una catenella di metallo prezioso.
+	\item \emph{Isolamento Minimo}. Il bersaglio rimpicciolisce fino a 2,5 centimetri di altezza ed è imprigionato in una gemma o simile oggetto. La luce può attraversare normalmente la gemma (permettendo al bersaglio di vedere all'esterno e ad altre creature di vedere dentro), ma null'altro può attraversarla, neppure tramite teletrasporto o viaggio planare. La gemma non può essere tagliata né infranta finché l'incantesimo rimane in atto. La componente speciale per questa versione dell'incantesimo è una grande gemma trasparente, come il corindone, il diamante o il rubino.
+	\item \emph{Prigione Confinata}. L'incantesimo trasporta il bersaglio in un minuscolo semipiano interdetto al teletrasporto e al viaggio planare. Il semipiano può essere un labirinto, una gabbia, una torre, o qualsiasi altra struttura chiusa scelta da te. La componente speciale per questa versione dell'incantesimo è una rappresentazione in miniatura della prigione fatta di giada.
+	\item \emph{Sepoltura}. Il bersaglio viene sepolto nelle profondità della terra in una sfera di forza magica grande a sufficienza da contenere il bersaglio. Nulla può attraversare la sfera, né alcuna creatura può teletrasportarsi o usare il viaggio planare per entrarvi o uscire. La componente speciale per questa versione dell'incantesimo è una piccola sfera di mithral.
+	\item \emph{Sonno}. Il bersaglio cade addormentato e non può essere risvegliato. La componente speciale per questa versione dell'incantesimo consiste di rare erbe soporifere.
+\end{itemize}
 
-\medskip
 \emph{\textbf{Terminare l'incantesimo}}. Durante il lancio dell'incantesimo, in qualsiasi delle sue versioni, puoi specificare una condizione che possa porre fine all'incantesimo e liberare il bersaglio. La condizione può essere tanto specifica o elaborata quanto desideri, ma il Narratore deve concordare che la condizione sia ragionevole e possa avverarsi. Le condizioni possono essere basate sul nome, l'identità o il Patrono di una creatura, ma comunque basate su azioni o qualità percepibili e non su cose intangibili come il livello, le Abilità o i Punti Ferita.\\
 Un incantesimo dissolvi magie può porre fine all'incantesimo solo se lanciato da un personaggio con Competenza Magica almeno 18, che prenda come bersaglio la prigione o la componente materiale usata per crearla.\\
 Puoi usare una particolare componente speciale per creare solo una prigione alla volta. Se lanci l'incantesimo di nuovo usando la stessa componente, il bersaglio del primo lancio dell'incantesimo viene immediatamente liberato dal suo vincolo.
@@ -9661,10 +9674,13 @@ Effettua un attacco in mischia con incantesimo contro una creatura a portata. Se
 \textbf{Gittata}: 9 metri\\
 \textbf{Componenti}: V, S, M (un pizzico di ferro in polvere)\\
 \textbf{Durata}: 1 minuto\\
-Fai sì che una creatura od oggetto a gittata e che puoi vedere ingrandisca o rimpicciolisca per la durata dell'incantesimo. Scegli una creatura o un oggetto che non sia né indossato né trasportato. Se il bersaglio non è consenziente, può effettuare un Tiro Salvezza su Tempra, se lo supera, l'incantesimo non ha effetto. Se il bersaglio è una creatura, tutto ciò che sta indossando e trasportando cambia taglia assieme a essa. Qualsiasi oggetto lasciato cadere da una creatura soggetta a questo incantesimo ritorna subito alla sua taglia normale.\\
+Fai sì che una creatura od oggetto a gittata e che puoi vedere ingrandisca o rimpicciolisca per la durata dell'incantesimo. Scegli una creatura o un oggetto che non sia né indossato né trasportato. Se il bersaglio non è consenziente, può effettuare un Tiro Salvezza su Tempra, se lo supera, l'incantesimo non ha effetto. Se il bersaglio è una creatura, tutto ciò che sta indossando e trasportando cambia taglia assieme a essa. Qualsiasi oggetto lasciato cadere da una creatura soggetta a questo incantesimo ritorna subito alla sua taglia normale.
 
-- \emph{Ingrandire}. La taglia del bersaglio raddoppia in tutte le dimensioni, e il suo peso è moltiplicato per otto. Questa crescita aumenta la sua taglia di una categoria: da Media a Grande, per esempio. Se non c'è spazio sufficiente perché il bersaglio raddoppi la sua taglia, la creatura od oggetto assume la taglia più grossa possibile permessagli dallo spazio disponibile. Fino al termine dell'incantesimo, il bersaglio ha +1d6 alle Azioni basate su Forza e ai Tiri Salvezza su Tempra. Le armi del bersaglio crescono per raggiungere la nuova taglia. Mentre queste armi sono ingrandite, gli attacchi del bersaglio con esse faranno una categoria di danno ulteriore.\\
-- \emph{Ridurre}. La taglia del bersaglio si dimezza in tutte le dimensioni, e il suo peso è ridotto a un ottavo. Questa crescita diminuisce la sua taglia di una categoria: da Media a Piccola, per esempio. Fino al termine dell'incantesimo, il bersaglio ha -1d6 alle Azioni basate su Forza e ai Tiri Salvezza su Tempra. Le armi del bersaglio rimpiccioliscono per raggiungere la nuova taglia. Mentre queste armi sono rimpicciolite, gli attacchi del bersaglio con esse faranno una categoria di danno inferiore (ma senza ridurre il danno dell'arma a meno di 1).\\
+\begin{itemize}[leftmargin=*]
+	\item \emph{Ingrandire}. La taglia del bersaglio raddoppia in tutte le dimensioni, e il suo peso è moltiplicato per otto. Questa crescita aumenta la sua taglia di una categoria: da Media a Grande, per esempio. Se non c'è spazio sufficiente perché il bersaglio raddoppi la sua taglia, la creatura od oggetto assume la taglia più grossa possibile permessagli dallo spazio disponibile. Fino al termine dell'incantesimo, il bersaglio ha +1d6 alle Azioni basate su Forza e ai Tiri Salvezza su Tempra. Le armi del bersaglio crescono per raggiungere la nuova taglia. Mentre queste armi sono ingrandite, gli attacchi del bersaglio con esse faranno una categoria di danno ulteriore.
+	\item \emph{Ridurre}. La taglia del bersaglio si dimezza in tutte le dimensioni, e il suo peso è ridotto a un ottavo. Questa crescita diminuisce la sua taglia di una categoria: da Media a Piccola, per esempio. Fino al termine dell'incantesimo, il bersaglio ha -1d6 alle Azioni basate su Forza e ai Tiri Salvezza su Tempra. Le armi del bersaglio rimpiccioliscono per raggiungere la nuova taglia. Mentre queste armi sono rimpicciolite, gli attacchi del bersaglio con esse faranno una categoria di danno inferiore (ma senza ridurre il danno dell'arma a meno di 1).
+\end{itemize}	
+	
 \textbf{Per ogni due Critici ottenuti} nella Prova di Magia la creatura aumenta di un altra taglia, oppure influenzi un altra creature entro 6 metri dalla prima.
 
 \medskip\textbf{Insetto Gigante}\index[Incantesimi]{Insetto Gigante}\\
@@ -9883,7 +9899,7 @@ Mentre sei sotto l'influenza di questo incantesimo sei considerato Distratto nel
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S, M (un frammento di un oggetto incantato)\\
 \textbf{Durata}: 1 minuto, finché usato\\
-L'incantatore conferisce la capacità di leggere una pergamena o una scritta magica ad un bersaglio. Per la durata di 1 minuto o finché usato una volta, quale venga prima, la creatura riesce automaticamente a comprendere una pergamena magica od a lanciare il contenuto della pergamena rispettando i criteri e regole di lancio incantesimi da pergamena.
+L'incantatore conferisce la capacità di leggere una pergamena o una scritta magica ad un bersaglio. Per la durata di 1 minuto o finché usato una volta, quale venga prima, la creatura riesce automaticamente a comprendere una pergamena magica od a lanciare il contenuto della pergamena rispettando i criteri e regole di lancio incantesimi da pergamena.\\
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia puoi leggere o comprendere una pergamena in più.
 
 \medskip\textbf{Libertà di Movimento}\index[Incantesimi]{Libertà di Movimento}\\
@@ -9980,7 +9996,7 @@ Una sfera di luce con raggio 6 metri si espande da un punto a tua scelta entro l
 \textbf{Durata}: 10 minuti di tempo reale di gioco\\
 Crei, a gittata, fino a quattro luci delle dimensioni di una torcia, facendole apparire come torce, lanterne o sfere luminose che fluttuano nell'aria per la durata dell'incantesimo. Puoi anche combinare le quattro luci in un'unica forma luminosa vagamente umanoide di taglia Media. Qualsiasi forma scegli, ciascuna luce emette una luce fioca in un raggio di 3 metri. Come 1 Azione di movimento durante il tuo round, puoi spostare le luci fino a 18 metri in un nuovo punto a gittata.\\
 Una luce deve trovarsi entro 6 metri da un'altra luce creata con questo incantesimo, e le luci svaniscono se eccedono la gittata dell'incantesimo.\\
-\textbf{Per ogni Critico ottenuto} nella Prova di Magia la durata aumenta di 1 ora.
+\textbf{Per ogni Successo Critico Magico} nella Prova di Magia la durata aumenta di 1 ora.
 
 \medskip\textbf{Luminescenza}\index[Incantesimi]{Luminescenza}\\
 \textbf{Scuola}: Invocazione\\
@@ -10076,15 +10092,18 @@ La creatura è limitata nelle azioni che può svolgere dalla natura della sua nu
 \textbf{Componenti}: V, S, M (un goccio di mercurio, un mucchietto di gomma arabica, e uno sbuffo di fumo) \\
 \textbf{Durata}: 1 ora \\
 Scegli una creatura od oggetto non magico a gittata e che puoi vedere. L'incantesimo non ha effetto su di un bersaglio con 0 Punti Ferita. Trasformi la creatura in una creatura diversa, la creatura in un oggetto, o l'oggetto in una creatura (l'oggetto non deve essere indossato né trasportato da un'altra creatura). La trasformazione permane per la durata dell'incantesimo o finché il bersaglio non scende a 0 Punti Ferita o muore. Se ti concentri su questo incantesimo per l'intera durata, la trasformazione diventa permanente.\\
-I mutaforma ignorano questo incantesimo. Una creatura non consenziente può effettuare un Tiro Salvezza su Volontà e, se lo supera, ignora l'effetto di questo incantesimo.\\
+I mutaforma ignorano questo incantesimo. Una creatura non consenziente può effettuare un Tiro Salvezza su Volontà e, se lo supera, ignora l'effetto di questo incantesimo.
 
-- \emph{Creatura in Creatura}. Se trasformi una creatura in un'altra specie di creatura, la nuova forma può essere quella di qualsiasi specie tu voglia, il cui grado di sfida sia pari o inferiore al tuo punteggio di Competenza Magica (o somma Tratti in comune se Devoto di Shayalia). Le statistiche di gioco del bersaglio, compresi i punteggi delle caratteristiche mentali, vengono rimpiazzate dalle statistiche della nuova forma. Egli mantiene però il suoi Tratti e personalità. \\
-Il bersaglio mantiene i medesimi Punti Ferita e ne recupera 1d12 Punti Ferita nella sua nuova forma. Quando ritorna alla sua forma normale, la creatura mantiene i Punti Ferita che ha attualmente. Se arriva a 0, o meno, Punti Ferita nella nuova forma allora torna normale e qualsiasi effetto si ripercuote anche nella forma corrente. La creatura è limitata nelle azioni che può svolgere dalla natura della sua nuova forma, e non può dialogare, lanciare incantesimi, o effettuare qualsiasi altra azione che richieda mani o di parlare, a meno che la nuova forma non sia capace di svolgere queste azioni. L'equipaggiamento del bersaglio si fonde nella nuova forma. La creatura non può attivare, usare, impugnare o beneficiare in alcun modo del suo equipaggiamento. \\
+\begin{itemize}[leftmargin=*]
+	\item \emph{Creatura in Creatura}. Se trasformi una creatura in un'altra specie di creatura, la nuova forma può essere quella di qualsiasi specie tu voglia, il cui grado di sfida sia pari o inferiore al tuo punteggio di Competenza Magica (o somma Tratti in comune se Devoto di Shayalia). Le statistiche di gioco del bersaglio, compresi i punteggi delle caratteristiche mentali, vengono rimpiazzate dalle statistiche della nuova forma. Egli mantiene però il suoi Tratti e personalità. \\
+Il bersaglio mantiene i medesimi Punti Ferita e ne recupera 1d12 Punti Ferita nella sua nuova forma. Quando ritorna alla sua forma normale, la creatura mantiene i Punti Ferita che ha attualmente. Se arriva a 0, o meno, Punti Ferita nella nuova forma allora torna normale e qualsiasi effetto si ripercuote anche nella forma corrente. La creatura è limitata nelle azioni che può svolgere dalla natura della sua nuova forma, e non può dialogare, lanciare incantesimi, o effettuare qualsiasi altra azione che richieda mani o di parlare, a meno che la nuova forma non sia capace di svolgere queste azioni. L'equipaggiamento del bersaglio si fonde nella nuova forma. La creatura non può attivare, usare, impugnare o beneficiare in alcun modo del suo equipaggiamento. 
 
-- \emph{Oggetto in Creatura.} Puoi trasformare un oggetto in un qualsiasi tipo di creatura, purché la taglia della creatura non sia maggiore della taglia dell'oggetto e il grado di sfida della creatura sia 9 o meno. La creatura è amichevole verso di te e i tuoi compagni. Essa agisce durante i tuoi round. Decidi tu quali azioni essa compirà e come si muove. Il Narratore possiede le statistiche della creatura e risolverà tutte le sue azioni e i suoi movimenti.
-Se l'incantesimo diventa permanente, perdi il controllo della creatura. A seconda di come l'hai trattata, potrebbe restare amichevole nei tuoi confronti.\\
+\item \emph{Oggetto in Creatura.} Puoi trasformare un oggetto in un qualsiasi tipo di creatura, purché la taglia della creatura non sia maggiore della taglia dell'oggetto e il grado di sfida della creatura sia 9 o meno. La creatura è amichevole verso di te e i tuoi compagni. Essa agisce durante i tuoi round. Decidi tu quali azioni essa compirà e come si muove. Il Narratore possiede le statistiche della creatura e risolverà tutte le sue azioni e i suoi movimenti.
+Se l'incantesimo diventa permanente, perdi il controllo della creatura. A seconda di come l'hai trattata, potrebbe restare amichevole nei tuoi confronti.
 
-- \emph{Creatura in Oggetto}. Se trasformi una creatura in un oggetto, essa si trasforma assieme a qualsiasi cosa stia indossando o trasportando. Le statistiche della creatura diventano quelle dell'oggetto, e, dopo che l'incantesimo termina e la creatura ritorna alla sua forma normale, questa non ha più ricordi del tempo trascorso in forma di oggetto.
+\item \emph{Creatura in Oggetto}. Se trasformi una creatura in un oggetto, essa si trasforma assieme a qualsiasi cosa stia indossando o trasportando. Le statistiche della creatura diventano quelle dell'oggetto, e, dopo che l'incantesimo termina e la creatura ritorna alla sua forma normale, questa non ha più ricordi del tempo trascorso in forma di oggetto.
+
+\end{itemize}
 
 \medskip\textbf{Miraggio Arcano}\index[Incantesimi]{Miraggio Arcano}\\
 \textbf{Scuola}: Illusione\\
@@ -10181,14 +10200,17 @@ Se crei un muro non verticale del genere, più lungo di 6 metri, devi dimezzare 
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 10 minuti\\
 Un piano di luci brillanti e multicolore forma un muro verticale opaco, largo fino a 27 metri, alto 9 metri e spesso 2,5 centimetri, centrato su di un punto a gittata e che puoi vedere. In alternativa, puoi modellare il muro in una sfera, fino a 9 metri di diametro, centrata su di un punto a gittata di tua scelta. Il muro resta fisso sul posto per la durata dell'incantesimo. Se posizioni il muro in modo che attraversi lo spazio occupato da una creatura, l'incantesimo fallisce e lo slot incantesimo sono sprecati. Il muro irradia luce intensa fino a una gittata di 18 metri e luce fioca per ulteriori 18 metri. Tu e le creature indicate da te al momento del lancio dell'incantesimo potete attraversare e restare vicini al muro senza pericolo. Se un'altra creatura che può vedere il muro si muove entro 6 metri da esso o inizia lì il suo round, deve superare un Tiro Salvezza su Tempra o restare accecata per 1 minuto. Il muro consiste di sette strati, ognuno di un diverso colore. Quando una creatura cerca di immergersi o attraversare il muro, lo fa uno strato alla volta, attraverso tutti gli strati del muro. Mentre si immerge o attraversa ciascuno strato, la creatura deve superare un Tiro Salvezza su Riflessi o subire le proprietà di ciascuno strato, uno alla volta, come descritto di seguito.\\
-Il muro può essere distrutto, uno strato alla volta, in ordine dal rosso al violetto, in un modo specifico per ogni strato. Una volta che uno strato è distrutto, lo sarà per la durata dell'incantesimo. Una verga di cancellazione distrugge un Muro Prismatico, ma un campo anti-magia non ha effetto su di esso.\\
+Il muro può essere distrutto, uno strato alla volta, in ordine dal rosso al violetto, in un modo specifico per ogni strato. Una volta che uno strato è distrutto, lo sarà per la durata dell'incantesimo. Una verga di cancellazione distrugge un Muro Prismatico, ma un campo anti-magia non ha effetto su di esso.
 
-- \emph{1. Rosso}. Il bersaglio subisce 10d6 danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Finché questo strato esiste, gli attacchi a distanza non magici non possono attraversare il muro. Lo strato può essere distrutto infliggendogli 25 danni da freddo.\\
-- \emph{2. Arancio}. Il bersaglio subisce 10d6 danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Finché questo strato esiste, gli attacchi a distanza magici non possono attraversare il muro. Lo strato può essere distrutto da un forte vento. 3. Giallo. Il bersaglio subisce 10d6 danni da fulmine se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Questo strato può essere distrutto infliggendogli 60 danni di forza.\\
-- \emph{4. Verde}. Il bersaglio subisce 10d6 danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Un incantesimo Passa Porta, o un altro incantesimo di pari livello o più alto che può aprire un portale su di una superficie solida, distrugge questo strato.\\
-- \emph{5. Blu}. Il bersaglio subisce 10d6 danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Lo strato può essere distrutto infliggendogli almeno 25 danni da fuoco.\\
-- \emph{6. Indaco}. Se fallisce il Tiro Salvezza, il bersaglio è intralciato. Deve poi effettuare un Tiro Salvezza su Tempra all'inizio di ciascun suo round. Se supera il Tiro Salvezza tre volte,l'incantesimo termina. Se fallisce il Tiro Salvezza tre volte, viene permanentemente trasformato in pietra e diventa vittima della condizione pietrificato. I successi e i fallimenti non devono essere consecutivi; tieni traccia di entrambi finché il bersaglio non ne ha ottenuti tre dello stesso tipo. Finché questo strato esiste, non si possono lanciare incantesimi attraverso il muro. Lo strato viene distrutto dalla luce intensa emanata dall'incantesimo luce diurna o da un simile incantesimo di livello più alto.\\
-- \emph{7. Violetto}. Se fallisce il Tiro Salvezza, il bersaglio è accecato. Deve poi effettuare un Tiro Salvezza su Volontà all'inizio del tuo prossimo round. Se supera il Tiro Salvezza, la cecità termina. Se fallisce il Tiro Salvezza, la creatura viene trasportata su di un altro piano di esistenza a scelta del Narratore e non è più accecata (di solito, una creatura che non è sul suo piano natio, viene esiliata su di esso, mentre le altre creature sono di solito gettate nei piani Astrale o Etereo). Questo strato è distrutto dall'incantesimo dissolvi magie o da un incantesimo simile di pari livello o più alto che possa porre fine a incantesimi ed effetti magici.
+\begin{itemize}[leftmargin=*]
+	\item \emph{1. Rosso}. Il bersaglio subisce 10d6 danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Finché questo strato esiste, gli attacchi a distanza non magici non possono attraversare il muro. Lo strato può essere distrutto infliggendogli 25 danni da freddo.
+	\item \emph{2. Arancio}. Il bersaglio subisce 10d6 danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Finché questo strato esiste, gli attacchi a distanza magici non possono attraversare il muro. Lo strato può essere distrutto da un forte vento. 3. Giallo. Il bersaglio subisce 10d6 danni da fulmine se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Questo strato può essere distrutto infliggendogli 60 danni di forza.
+	\item \emph{4. Verde}. Il bersaglio subisce 10d6 danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Un incantesimo Passa Porta, o un altro incantesimo di pari livello o più alto che può aprire un portale su di una superficie solida, distrugge questo strato.
+	\item \emph{5. Blu}. Il bersaglio subisce 10d6 danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Lo strato può essere distrutto infliggendogli almeno 25 danni da fuoco.
+	\item \emph{6. Indaco}. Se fallisce il Tiro Salvezza, il bersaglio è intralciato. Deve poi effettuare un Tiro Salvezza su Tempra all'inizio di ciascun suo round. Se supera il Tiro Salvezza tre volte,l'incantesimo termina. Se fallisce il Tiro Salvezza tre volte, viene permanentemente trasformato in pietra e diventa vittima della condizione pietrificato. I successi e i fallimenti non devono essere consecutivi; tieni traccia di entrambi finché il bersaglio non ne ha ottenuti tre dello stesso tipo. Finché questo strato esiste, non si possono lanciare incantesimi attraverso il muro. Lo strato viene distrutto dalla luce intensa emanata dall'incantesimo luce diurna o da un simile incantesimo di livello più alto.
+	\item \emph{7. Violetto}. Se fallisce il Tiro Salvezza, il bersaglio è accecato. Deve poi effettuare un Tiro Salvezza su Volontà all'inizio del tuo prossimo round. Se supera il Tiro Salvezza, la cecità termina. Se fallisce il Tiro Salvezza, la creatura viene trasportata su di un altro piano di esistenza a scelta del Narratore e non è più accecata (di solito, una creatura che non è sul suo piano natio, viene esiliata su di esso, mentre le altre creature sono di solito gettate nei piani Astrale o Etereo). Questo strato è distrutto dall'incantesimo dissolvi magie o da un incantesimo simile di pari livello o più alto che possa porre fine a incantesimi ed effetti magici.
+	
+\end{itemize}
 
 \medskip\textbf{Muro di Spine}\index[Incantesimi]{Muro di Spine}\\
 \textbf{Scuola}: Animali e Piante\\
@@ -10362,12 +10384,14 @@ A discrezione del Narratore i vegetali potrebbero svolgere anche altri compiti p
 \textbf{Gittata}: 9 metri\\
 \textbf{Componenti}: V\\
 \textbf{Durata}: Istantanea\\
-Pronunci una parola divina, infusa del potere del tuo Patrono. Scegli un qualsiasi numero di creature a gittata e che puoi vedere. Ogni creatura che può udirti deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, la creatura subisce un effetto in base ai suoi attuali Punti Ferita:\\
+Pronunci una parola divina, infusa del potere del tuo Patrono. Scegli un qualsiasi numero di creature a gittata e che puoi vedere. Ogni creatura che può udirti deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, la creatura subisce un effetto in base ai suoi attuali Punti Ferita:
 
-- 100 Punti Ferita o meno: assordata per 1 minuto\\
-- 40 Punti Ferita o meno: assordata e accecata per 10 minuti\\
-- 30 Punti Ferita o meno: accecata, assordata e stordita per 1 ora\\
-- 20 Punti Ferita o meno: uccisa all'istante\\
+\begin{itemize}[leftmargin=*]
+	\item 100 Punti Ferita o meno: assordata per 1 minuto
+	\item 40 Punti Ferita o meno: assordata e accecata per 10 minuti
+	\item 30 Punti Ferita o meno: accecata, assordata e stordita per 1 ora
+	\item 20 Punti Ferita o meno: uccisa all'istante
+\end{itemize}
 
 Quali che siano i suoi attuali Punti Ferita, un celestiale, elementale, fatato o demone che fallisca il Tiro Salvezza è obbligato a tornare al suo piano di origine (se non vi si trova già) e non può tornare sul tuo attuale piano prima che siano passate 24 ore, a meno dell'uso dell'incantesimo desiderio.
 
@@ -10530,9 +10554,11 @@ Se una creatura è nel fango al momento dell'incantesimo Fango in Pietra può ef
 \textbf{Durata}: Istantanea\\
 L’incantatore sceglie un’area con un fuoco, di almeno 1 metro di spigolo, entro gittata che sia a lui direttamente visibile. Estinguendo le fiamme può creare fuochi d’artificio o fumo.
 
-- \emph{Fuochi d’Artificio}. Il fuoco bersaglio esplode in uno spettacolo luminoso di fiamme e colori. Ogni creatura entro 3 metri dal bersaglio deve superare un Tiro Salvezza su Tempra oppure diventa accecata fino alla fine round successivo.
-
-- \emph{Fumo}. Un fumo nero e denso scaturisce dal fuoco bersaglio e si diffonde in un raggio di 6 metri, muovendosi oltre gli angoli. L’area del fumo è pesantemente oscurata e fornisce copertura media. Il fumo persiste per 1 minuto o finché un vento forte non lo disperde.
+\begin{itemize}[leftmargin=*]
+	
+	\item \emph{Fuochi d’Artificio}. Il fuoco bersaglio esplode in uno spettacolo luminoso di fiamme e colori. Ogni creatura entro 3 metri dal bersaglio deve superare un Tiro Salvezza su Tempra oppure diventa accecata fino alla fine round successivo.
+\item \emph{Fumo}. Un fumo nero e denso scaturisce dal fuoco bersaglio e si diffonde in un raggio di 6 metri, muovendosi oltre gli angoli. L’area del fumo è pesantemente oscurata e fornisce copertura media. Il fumo persiste per 1 minuto o finché un vento forte non lo disperde.
+\end{itemize}
 
 \medskip\textbf{Polvere luccicante}\index[Incantesimi]{Polvere luccicante}\\
 \textbf{Scuola}: Fuoco, Aria\\
@@ -10588,14 +10614,16 @@ L'incantesimo non tiene conto di ogni possibile circostanza che possa modificare
 \textbf{Gittata}: 3 metri\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Massimo 1 ora\\
-Questo incantesimo è un trucco magico minore che gli incantatori novizi impiegano per fare pratica. Crei a gittata uno dei seguenti effetti magici:\\
+Questo incantesimo è un trucco magico minore che gli incantatori novizi impiegano per fare pratica. Crei a gittata uno dei seguenti effetti magici:
 
-- Crei un effetto sensoriale innocuo e istantaneo come una pioggia di scintille, un soffio di vento, una debole nota musicale o uno strano odore.\\
-- Illumini o spegni istantaneamente una candela, una torcia o piccolo fuoco da campo.\\
-- Ripulisci o insozzi istantaneamente un oggetto non più grosso di 30 cm di lato.\\
-- Raffreddi, riscaldi o insapori per 1 ora un cubo di 30 cm di lato di materiale non vivente.\\
-- Fai comparire per 1 ora un colore, un piccolo segno o un simbolo su di un oggetto o una superficie.\\
-- Crei un ninnolo non magico o un'immagine illusoria che entri nella tua mano e che resta fino al termine del tuo prossimo round.\\
+\begin{itemize}[leftmargin=*]
+	\item Crei un effetto sensoriale innocuo e istantaneo come una pioggia di scintille, un soffio di vento, una debole nota musicale o uno strano odore.
+	\item Illumini o spegni istantaneamente una candela, una torcia o piccolo fuoco da campo.
+	\item Ripulisci o insozzi istantaneamente un oggetto non più grosso di 30 cm di lato.
+	\item Raffreddi, riscaldi o insapori per 1 ora un cubo di 30 cm di lato di materiale non vivente.
+	\item Fai comparire per 1 ora un colore, un piccolo segno o un simbolo su di un oggetto o una superficie.
+	\item Crei un ninnolo non magico o un'immagine illusoria che entri nella tua mano e che resta fino al termine del tuo prossimo round.
+\end{itemize}
 
 Se lanci questo incantesimo più volte, puoi tenere attivi fino a tre effetti non istantanei alla volta, e puoi interrompere uno di questi effetti con un'azione.\\
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia puoi attivare un effetto magico in più.
@@ -10811,6 +10839,8 @@ La magia modella un nuovo corpo, che probabilmente provocherà un cambio di razz
 	9&Stessa razza precedente\\
 \end{tabular}
 
+\medskip
+
 La creatura reincarnata ricorda la sua vita e le sue esperienze passate (stesso punteggio di CA e CM, abilità e competenze). Mantiene le capacità che aveva nella sua forma originale se è in grado di applicarle.\\
 \textbf{Questo incantesimo non non è disponibile se non ai Devoti e Seguaci di Shayalia od Efrem}\\
 \emph{Nota}: un Devoto o Seguace di Shayalia od Efrem reincarnerà la creatura sempre in un animale, però potendo scegliere il tipo.\\
@@ -10952,10 +10982,13 @@ Se una creatura sta impugnando o indossando l'oggetto e subisce danno da esso, l
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Istantanea\\
-Puoi porre fine a una malattia non magica o condizione che affligge una creatura con cui sei a contatto. La condizione può essere accecato, assordato o paralizzato. Può ridurre di un grado il livello di Affaticamento. Si recupera 2d6 Punti Ferita Massimi persi, ma non aumentano i Punti Ferita attuali. Puoi recuperare 1 punto di Caratteristica perso non permanentemente.
+Puoi porre fine a una malattia non magica o condizione che affligge una creatura con cui sei a contatto. La condizione può essere accecato, assordato o paralizzato. Può ridurre di un grado il livello di Affaticamento. Si recupera 2d6 Punti Ferita Massimi persi, ma non aumentano i Punti Ferita attuali. Puoi recuperare 1 punto di Caratteristica perso non permanentemente. 
 
-A discrezione del Narratore se la condizione è stata causata da una magia, il valore di Competenza Magica di chi lancia questo incantesimo deve superare la Competenza Magica di chi ha originato l'effetto.
-Eventualmente puoi effettuare una Prova di Magia e per ogni successo critico aggiungi 6 alla propria Competenza Magica per capire se si è in grado di rimuovere l'effetto.
+Non è possibile usufruire di più di un Ristorare Inferiore al giorno.
+
+A discrezione del Narratore se la condizione è stata causata da una magia, il valore di Competenza Magica di chi lancia questo incantesimo deve superare la Competenza Magica di chi ha originato l'effetto. \\
+\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia hai un +4 alla tua Competenza Magica per superare la Competenza Magica avversaria.
+
 
 \medskip\textbf{Ristorare Superiore}\index[Incantesimi]{Ristorare Superiore}\\
 \textbf{Scuola}: Cura\\
@@ -10964,15 +10997,19 @@ Eventualmente puoi effettuare una Prova di Magia e per ogni successo critico agg
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S, M (polvere di diamante del valore di almeno 100 mo, che l'incantesimo consuma)\\
 \textbf{Durata}: Istantanea\\
-Imbevi una creatura a contatto di energia positiva curativa per annullare un effetto debilitante.
-A discrezione del Narratore se la condizione è stata causata da una magia, il valore di Competenza Magica di chi lancia questo incantesimo deve superare la Competenza Magica di chi ha originato l'effetto.
-Eventualmente puoi effettuare una Prova di Magia e per ogni successo critico aggiungi 6 alla propria Competenza Magica per capire se si è in grado di rimuovere l'effetto.
+Imbevi una creatura a contatto di energia positiva curativa per annullare un effetto debilitante, non è possibile usufruire di più di un Ristorare Superiore al giorno:
 
+\begin{itemize}[leftmargin=*]
+	
+	\item Un effetto che ha Affascinato il bersaglio.
+	\item Fai recuperare 2 punti ad una statistica al bersaglio. Recuperi 1 punto se la perdita era permanente.
+	\item I Punti Ferita massimi tornano al valore normale, ma non aumentano i Punti Ferita attuali.
+	\item Sei in grado di alleviare di due gradi le condizioni di Affaticamento.
+\end{itemize}
 
-- Un effetto che ha Affascinato il bersaglio.\\
-- Fai recuperare 2 punti ad una statistica al bersaglio. Recuperi 1 punto se la perdita era permanente.\\
-- I Punti Ferita massimi tornano al valore normale, ma non aumentano i Punti Ferita attuali.\\
-- Sei in grado di alleviare di due gradi le condizioni di Affaticamento.
+A discrezione del Narratore se la condizione è stata causata da una magia, il valore di Competenza Magica di chi lancia questo incantesimo deve superare la Competenza Magica di chi ha originato l'effetto. \\
+\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia hai un +4 alla tua Competenza Magica per superare la Competenza Magica avversaria.
+
 
 \medskip\textbf{Risveglio}\index[Incantesimi]{Risveglio}\\
 \textbf{Scuola}: Animali e Piante\\
@@ -11011,19 +11048,21 @@ La distanza di salto della creatura con cui sei in contatto al momento del lanci
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S, M (erbe, oli e incensi del valore di almeno 1000 mo, che l'incantesimo consuma)\\
 \textbf{Durata}: Fino a che dissolto\\
-Infondi l'area circostante a un punto con cui sei in contatto del potere del tuo Patrono. L'area può avere un raggio massimo di 18 metri, e l'incantesimo fallisce se include un'area già sotto l'effetto di un incantesimo santificare. L'area soggetta all'incantesimo genera i seguenti effetti.
+Infondi l'area circostante a un punto con cui sei in contatto del potere del tuo Patrono. L'area può avere un raggio massimo di 18 metri, e l'incantesimo fallisce se include un'area già sotto l'effetto di un incantesimo santificare. L'area soggetta all'incantesimo genera i seguenti effetti.\\
 \emph{Per prima cosa}, celestiali, elementali, fatati, demoni e non morti non possono entrare nell'area, né una simile creatura può affascinare, spaventare o possederne altre al suo interno. Qualsiasi creatura affascinata, spaventata o posseduta da una creatura simile non è più affascinata,spaventata o posseduta dal momento in cui entra in quest'area. Puoi escludere uno o più tipi di queste creature da questo effetto.\\
-\emph{Seconda cosa}, puoi vincolare un effetto ulteriore all'area. Scegli l'effetto dalla lista seguente, o scegline uno presentatoti dal Narratore. Alcuni di questi effetti si applicano alle creature nell'area; puoi decidere se gli effetti si applichino a tutte le creature, le creature Devote o Seguaci di specifica Patrono, o le creature di un tipo specifico, come orchi o troll. Quando una creatura soggetta all'incantesimo entra in quest'area per la prima volta durante un round o inizia il suo round qui, deve effettuare un Tiro Salvezza su Volontà. Se lo supera, la creatura ignora l'effetto aggiuntivo finché non lascia l'area.\\
+\emph{Seconda cosa}, puoi vincolare un effetto ulteriore all'area. Scegli l'effetto dalla lista seguente, o scegline uno presentatoti dal Narratore. Alcuni di questi effetti si applicano alle creature nell'area; puoi decidere se gli effetti si applichino a tutte le creature, le creature Devote o Seguaci di specifica Patrono, o le creature di un tipo specifico, come orchi o troll. Quando una creatura soggetta all'incantesimo entra in quest'area per la prima volta durante un round o inizia il suo round qui, deve effettuare un Tiro Salvezza su Volontà. Se lo supera, la creatura ignora l'effetto aggiuntivo finché non lascia l'area.
 
-- \emph{Coraggio}. Le creature soggette non possono essere spaventate mentre restano in quest'area. Interferenza Extradimensionale. Le creature soggette non possono muoversi o viaggiare usando il teletrasporto o altri mezzi extradimensionali o interplanari.\\
-\emph{Lingue}. Le creature soggette possono comunicare con qualsiasi altra creatura nell'area, anche se non condividono un linguaggio comune.\\
-- \emph{Luce Diurna}. Luce intensa riempie l'area. L'oscurità magica creata da incantesimi di più basso livello di quella usata per lanciare questo incantesimo non possono estinguere la luce. La durata in questo caso è di una settimana.\\
-- \emph{Oscurità}. L'oscurità riempie l'area. La luce normale, e anche la luce magica creata da incantesimi di più basso livello di quello usato per lanciare questo incantesimo, non possono illuminare l'area.\\
-- \emph{Paura}. Le creature soggette sono spaventate mentre restano in quest'area.\\
-- \emph{Protezione dall'Energia}. Le creature soggette ricevono resistenza a un tipo di danno a tua scelta (a eccezione dei danni contundenti, perforanti o taglienti), finché restano nell'area.\\
-- \emph{Riposo Inviolato}. I corpi morti seppelliti nell'area non possono essere trasformati in non morti.\\
-- \emph{Silenzio}. Nessun suono può emanare dall'interno dell'area, e nessun suono può entrarvi.\\
-- \emph{Vulnerabilità all'Energia}. Le creature soggette ricevono vulnerabilità a un tipo di danno a tua scelta (a eccezione dei danni contundenti, perforanti o taglienti), finché restano nell'area.
+\begin{itemize}[leftmargin=*]
+	\item \emph{Coraggio}. Le creature soggette non possono essere spaventate mentre restano in quest'area. Interferenza Extradimensionale. Le creature soggette non possono muoversi o viaggiare usando il teletrasporto o altri mezzi extradimensionali o interplanari.
+	\item \emph{Lingue}. Le creature soggette possono comunicare con qualsiasi altra creatura nell'area, anche se non condividono un linguaggio comune.
+	\item \emph{Luce Diurna}. Luce intensa riempie l'area. L'oscurità magica creata da incantesimi di più basso livello di quella usata per lanciare questo incantesimo non possono estinguere la luce. La durata in questo caso è di una settimana.
+	\item \emph{Oscurità}. L'oscurità riempie l'area. La luce normale, e anche la luce magica creata da incantesimi di più basso livello di quello usato per lanciare questo incantesimo, non possono illuminare l'area.
+	\item \emph{Paura}. Le creature soggette sono spaventate mentre restano in quest'area.
+	\item \emph{Protezione dall'Energia}. Le creature soggette ricevono resistenza a un tipo di danno a tua scelta (a eccezione dei danni contundenti, perforanti o taglienti), finché restano nell'area.
+	\item \emph{Riposo Inviolato}. I corpi morti seppelliti nell'area non possono essere trasformati in non morti.
+	\item \emph{Silenzio}. Nessun suono può emanare dall'interno dell'area, e nessun suono può entrarvi.
+	\item \emph{Vulnerabilità all'Energia}. Le creature soggette ricevono vulnerabilità a un tipo di danno a tua scelta (a eccezione dei danni contundenti, perforanti o taglienti), finché restano nell'area.
+\end{itemize}
 
 \medskip\textbf{Santuario}\index[Incantesimi]{Santuario}\\
 \textbf{Scuola}: Abiurazione\\
@@ -11044,12 +11083,15 @@ Proteggi una creatura a gittata dagli attacchi. Fino al termine dell'incantesimo
 Proteggi con la magia un'area. L'area è un cubo che può essere piccolo fino a 1 metro di spigolo o grande fino a 30 metri di spigolo. L'incantesimo agisce fino al termine della durata o finché non usi un'azione per interromperlo.\\
 Quando lanci l'incantesimo, decidi che tipo di protezione questo fornisce, scegliendo una o più delle seguenti proprietà:\\
 
-- Il suono non può attraversare il perimetro dell'area protetta.\\
-- Il perimetro dell'area protetta appare buio e nebbioso, impedendo di vedervi attraverso (anche alla scurovisione).\\
-- Sensori creati da incantesimi di divinazione non possono apparire all'interno dell'area protetta o attraversare la sua barriera perimetrale.\\
-- Le creature nell'area non possono essere bersaglio di incantesimi di divinazione.\\
-- Nulla può teletrasportarsi dentro o fuori dell'area protetta.\\
-- All'interno dell'area protetta, il viaggio planare è interdetto.\\
+\noindent- Il suono non può attraversare il perimetro dell'area protetta.
+
+\begin{itemize}[leftmargin=*]
+	\item Il perimetro dell'area protetta appare buio e nebbioso, impedendo di vedervi attraverso (anche alla scurovisione)
+	\item Sensori creati da incantesimi di divinazione non possono apparire all'interno dell'area protetta o attraversare la sua barriera perimetrale
+	\item Le creature nell'area non possono essere bersaglio di incantesimi di divinazione
+	\item Nulla può teletrasportarsi dentro o fuori dell'area protetta.
+	\item All'interno dell'area protetta, il viaggio planare è interdetto.
+	\end{itemize}
 
 Lanciare questo incantesimo sullo stesso punto ogni giorno per un anno, rende l'effetto permanente.\\
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia puoi aumentare le dimensioni del cubo di 10 metri di spigolo oppure aumentare la durata di 12 ore.
@@ -11061,12 +11103,14 @@ Lanciare questo incantesimo sullo stesso punto ogni giorno per un anno, rende l'
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 1 minuto\\
-Una creatura con cui sei a contatto deve superare un Tiro Salvezza su Volontà o restare maledetta per la durata dell'incantesimo. Quando lanci questo incantesimo, scegli la natura della maledizione tra le seguenti opzioni:\\
+Una creatura con cui sei a contatto deve superare un Tiro Salvezza su Volontà o restare maledetta per la durata dell'incantesimo. Quando lanci questo incantesimo, scegli la natura della maledizione tra le seguenti opzioni:
 
-- Scegli un punteggio di caratteristica. Mentre è maledetto, il bersaglio ha -1d6 alle prova di competenza base basate su quella caratteristica ed i Tiri Salvezza basati su quella  caratteristica.\\
-- Mentre è maledetto, il bersaglio ha -1d6 ai Tiri per Colpire e -3 al danno in mischia, contro di te.\\
-- Mentre è maledetto, il bersaglio deve effettuare un Tiro Salvezza su Volontà all'inizio di ciascun suo round. Se lo fallisce, spreca 1 Azione di quel suo round senza fare nulla.\\
-- Mentre il bersaglio è maledetto, ogni tuo attacco ed incantesimo infliggono 1d8 danni da Vuoto aggiuntivi contro di lui.\\
+\begin{itemize}[leftmargin=*]
+	\item Scegli un punteggio di caratteristica. Mentre è maledetto, il bersaglio ha -1d6 alle prova di competenza base basate su quella caratteristica ed i Tiri Salvezza basati su quella  caratteristica.
+	\item Mentre è maledetto, il bersaglio ha -1d6 ai Tiri per Colpire e -3 al danno in mischia, contro di te.
+	\item Mentre è maledetto, il bersaglio deve effettuare un Tiro Salvezza su Volontà all'inizio di ciascun suo round. Se lo fallisce, spreca 1 Azione di quel suo round senza fare nulla.
+	\item Mentre il bersaglio è maledetto, ogni tuo attacco ed incantesimo infliggono 1d8 danni da Vuoto aggiuntivi contro di lui.
+\end{itemize}
 
 L'incantesimo rimuovi maledizione (vedi descrizione) termina questo effetto. A discrezione del Narratore, puoi scegliere una maledizione dall'effetto diverso, ma non dovrebbe essere comunque più potente di quelle descritte qui sopra. Il Narratore detiene il giudizio finale sull'effetto di una maledizione.\\
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia raddoppi la durata. Se ottieni 3 successi critici la durata è permanente.
@@ -11078,11 +11122,13 @@ L'incantesimo rimuovi maledizione (vedi descrizione) termina questo effetto. A d
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 1 minuto\\
-Una creatura con cui sei a contatto deve superare un Tiro Salvezza su Volontà o restare maledetta per la durata dell'incantesimo. Quando lanci questo incantesimo, scegli la natura della maledizione tra le seguenti opzioni:\\
+Una creatura con cui sei a contatto deve superare un Tiro Salvezza su Volontà o restare maledetta per la durata dell'incantesimo. Quando lanci questo incantesimo, scegli la natura della maledizione tra le seguenti opzioni:
 
-- Scegli un punteggio di caratteristica. Mentre è maledetto, il bersaglio ha -1 alle prove di competenza di Base e i Tiri Salvezza basati su quel punteggio di caratteristica.\\
-- Mentre è maledetto, il bersaglio ha -2 ai Tiri per Colpire contro di te.\\
-- Mentre è maledetto, il bersaglio deve effettuare un Tiro Salvezza su Volontà all'inizio di ciascun suo round. Se lo fallisce, spreca 1 Azione di quel suo round senza fare nulla.\\
+\begin{itemize}[leftmargin=*]
+	\item Scegli un punteggio di caratteristica. Mentre è maledetto, il bersaglio ha -1 alle prove di competenza di Base e i Tiri Salvezza basati su quel punteggio di caratteristica.
+	\item Mentre è maledetto, il bersaglio ha -2 ai Tiri per Colpire contro di te.
+	\item Mentre è maledetto, il bersaglio deve effettuare un Tiro Salvezza su Volontà all'inizio di ciascun suo round. Se lo fallisce, spreca 1 Azione di quel suo round senza fare nulla.
+\end{itemize}
 
 L'incantesimo rimuovi maledizione (vedi descrizione) termina questo effetto. A discrezione del Narratore, puoi scegliere una maledizione dall'effetto diverso, ma non dovrebbe essere comunque più potente di quelle descritte qui sopra. Il Narratore detiene il giudizio finale sull'effetto di una maledizione.\\
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia scegli un altra creatura entro 6 metri dalla prima.
@@ -11348,11 +11394,13 @@ Il tuo corpo diventa sfocato, indistinto e tremolante a chiunque ti veda. Per la
 \textbf{Gittata}: Personale\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Concentrazione, massimo 1 minuto\\
-Per la durata dell'incantesimo, i tuoi occhi si tramutano in un vuoto nero infuso di terribile potere. Una creatura a tua scelta entro 18 metri da te e che puoi vedere, deve superare un Tiro Salvezza su Volontà o, per la durata, subire uno dei seguenti effetti di tua scelta. Durante ciascun tuo round, fino al termine dell'incantesimo, puoi usare due Azioni per prendere come bersaglio un'altra creatura, ma non puoi prendere di nuovo come bersaglio una creatura che abbia superato un Tiro Salvezza contro questo lancio di sguardo penetrante.\\
+Per la durata dell'incantesimo, i tuoi occhi si tramutano in un vuoto nero infuso di terribile potere. Una creatura a tua scelta entro 18 metri da te e che puoi vedere, deve superare un Tiro Salvezza su Volontà o, per la durata, subire uno dei seguenti effetti di tua scelta. Durante ciascun tuo round, fino al termine dell'incantesimo, puoi usare due Azioni per prendere come bersaglio un'altra creatura, ma non puoi prendere di nuovo come bersaglio una creatura che abbia superato un Tiro Salvezza contro questo lancio di sguardo penetrante.
 
-- \emph{Addormentato}. Il bersaglio cade privo di sensi. Si risveglia qualora subisca qualsiasi ammontare di danno o se un'altra creatura usa 2 Azioni per scuoterlo dal sonno.\\
-- \emph{Ammalato}. Il bersaglio ha -1d6 ai Tiri per Colpire e le prove su competenze di base. Al termine di ciascun suo round, può effettuare un altro Tiro Salvezza su Volontà. Se lo supera, l'effetto ha termine.\\
-- \emph{Impanicato}. Il bersaglio è spaventato da te. Durante ciascun suo round, la creatura spaventata deve effettuare usare due Azioni di Movimento e muoversi lontano da te tramite il tragitto più breve e sicuro possibile, a meno che non abbia spazio per muoversi. Se il bersaglio si muove in un luogo lontano almeno 18 metri da te, dove non ti possa vedere, questo effetto ha termine.
+\begin{itemize}[leftmargin=*]
+	\item \emph{Addormentato}. Il bersaglio cade privo di sensi. Si risveglia qualora subisca qualsiasi ammontare di danno o se un'altra creatura usa 2 Azioni per scuoterlo dal sonno.
+	\item \emph{Ammalato}. Il bersaglio ha -1d6 ai Tiri per Colpire e le prove su competenze di base. Al termine di ciascun suo round, può effettuare un altro Tiro Salvezza su Volontà. Se lo supera, l'effetto ha termine.
+	\item \emph{Impanicato}. Il bersaglio è spaventato da te. Durante ciascun suo round, la creatura spaventata deve effettuare usare due Azioni di Movimento e muoversi lontano da te tramite il tragitto più breve e sicuro possibile, a meno che non abbia spazio per muoversi. Se il bersaglio si muove in un luogo lontano almeno 18 metri da te, dove non ti possa vedere, questo effetto ha termine.
+\end{itemize}
 
 \medskip\textbf{Silenzio}\index[Incantesimi]{Silenzio}\\
 \textbf{Scuola}: Illusione\\
@@ -11377,27 +11425,19 @@ Decidi tu cosa attivi il glifo al momento del lancio dell'incantesimo.\\
 Per i glifi inscritti su di una superficie, l'attivazione tipica comprende entrare in contatto o stare sopra il glifo, rimuovere un altro oggetto che copra il glifo, avvicinarsi a una certa distanza dal glifo, o manipolare l'oggetto su cui è inscritto il glifo.\\
 Per i glifi inscritti su di un oggetto, l'attivazione tipica comprende aprire l'oggetto, avvicinarsi a una certa distanza dall'oggetto, o vedere o leggere il glifo.\\
 Puoi definire meglio l'attivazione così che l'incantesimo si attivi solo in determinate circostanze o secondo certe peculiarità fisiche (come l'altezza o il peso) o specie di creatura (per esempio, la protezione potrebbe agire contro le megere o i mutaforma). Puoi anche predisporre condizioni per evitare che il glifo venga attivato, come la pronuncia di una parola d'ordine.\\
-Quando inscrivi il glifo scegli una delle opzioni seguenti come suo effetto. Una volta attivato, il glifo riluce, riempiendo una sfera di 18 metri di raggio di luce fioca per 10 minuti, dopo i quali l'incantesimo termina. Ogni creatura nella sfera quando il glifo si attiva diventa bersaglio del suo effetto, così come una creatura che entri per la prima volta nella sfera durante un round o termine lì il suo round.\\
+Quando inscrivi il glifo scegli una delle opzioni seguenti come suo effetto. Una volta attivato, il glifo riluce, riempiendo una sfera di 18 metri di raggio di luce fioca per 10 minuti, dopo i quali l'incantesimo termina. Ogni creatura nella sfera quando il glifo si attiva diventa bersaglio del suo effetto, così come una creatura che entri per la prima volta nella sfera durante un round o termine lì il suo round.
 
-- \emph{Demenza}. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, il bersaglio diventa demente per 1 minuto. Una creatura demente non può effettuare azioni, non comprende quello che gli altri le dicono, non può leggere, e parla solo farfugliando. Il Narratore ne controlla i movimenti, che risultano erratici.\\
-- \emph{Discordia}. Ogni bersaglio deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, il bersaglio inizia a bisticciare e discutere con un'altra creatura per 1 minuto. In questo periodo, è incapace di effettuare qualsiasi comunicazione significativa e ha -1d6 ai Tiri per Colpire e le prove su competenze di base.\\
-- \emph{Dolore}. Ogni bersaglio deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, il bersaglio diventa inabile a causa del dolore lacerante.\\
-- \emph{Morte}. Ogni bersaglio deve effettuare un Tiro Salvezza su Tempra, subendo 10d10 danni da Vuoto se lo fallisce, o la metà di questi danni se lo supera.\\
-- \emph{Paura}. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà e, se lo fallisce, restare spaventato per 1 minuto. Mentre è spaventato, il bersaglio getta qualsiasi cosa stesse tenendo e deve muoversi almeno 9 metri lontano dal glifo durante ciascuno suo round, se in grado.\\
-- \emph{Sfiducia}. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, il bersaglio è sopraffatto dalla disperazione per 1 minuto. Durante questo periodo, non può attaccare o prendere come bersaglio nessuna creatura con capacità, incantesimi o altri effetti magici nocivi.\\
-- \emph{Sonno}. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà, e cadere privo di sensi per 10 minuti se lo fallisce. Una creatura si risveglia se subisce danni o se qualcuno usa un'azione per risvegliarla.\\
-- \emph{Stordimento}. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà, e restare stordito per 1 minuto se lo fallisce.
+\begin{itemize}[leftmargin=*]
+	\item \emph{Demenza}. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, il bersaglio diventa demente per 1 minuto. Una creatura demente non può effettuare azioni, non comprende quello che gli altri le dicono, non può leggere, e parla solo farfugliando. Il Narratore ne controlla i movimenti, che risultano erratici.
+	\item \emph{Discordia}. Ogni bersaglio deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, il bersaglio inizia a bisticciare e discutere con un'altra creatura per 1 minuto. In questo periodo, è incapace di effettuare qualsiasi comunicazione significativa e ha -1d6 ai Tiri per Colpire e le prove su competenze di base.
+	\item \emph{Dolore}. Ogni bersaglio deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, il bersaglio diventa inabile a causa del dolore lacerante.
+	\item \emph{Morte}. Ogni bersaglio deve effettuare un Tiro Salvezza su Tempra, subendo 10d10 danni da Vuoto se lo fallisce, o la metà di questi danni se lo supera.
+	\item \emph{Paura}. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà e, se lo fallisce, restare spaventato per 1 minuto. Mentre è spaventato, il bersaglio getta qualsiasi cosa stesse tenendo e deve muoversi almeno 9 metri lontano dal glifo durante ciascuno suo round, se in grado.
+	\item \emph{Sfiducia}. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, il bersaglio è sopraffatto dalla disperazione per 1 minuto. Durante questo periodo, non può attaccare o prendere come bersaglio nessuna creatura con capacità, incantesimi o altri effetti magici nocivi.
+	\item \emph{Sonno}. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà, e cadere privo di sensi per 10 minuti se lo fallisce. Una creatura si risveglia se subisce danni o se qualcuno usa un'azione per risvegliarla.
+	\item \emph{Stordimento}. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà, e restare stordito per 1 minuto se lo fallisce.
+\end{itemize}
 
-\medskip\textbf{Simulacro}\index[Incantesimi]{Simulacro}\\
-\textbf{Scuola}: Illusione\\
-\textbf{Livello}: 7, Raro\\
-\textbf{Tempo di Lancio}: 12 ore\\
-\textbf{Gittata}: Contatto\\
-\textbf{Componenti}: V, S, M (neve o ghiaccio in quantità per creare una copia a dimensioni reali della creatura duplicata; un pò di capelli, unghie o altro pezzo del corpo di quella creatura da piazzare in mezzo alla neve o al ghiaccio; e un rubino in polvere del valore di 1.500 mo, sparso sopra il duplicato e consumato dall'incantesimo)\\
-\textbf{Durata}: Fino a che dissolto\\
-Modelli un duplicato illusorio di una bestia o umanoide che resti a gittata per l'intero tempo di lancio dell'incantesimo. Il duplicato è una creatura, in parte reale e formata di ghiaccio o neve, che può effettuare azioni e interagire come una normale creatura. Sembra essere identica all'originale, ma ha la metà dei Punti Ferita massimi di quella creatura, la metà del punteggio di Competenza Magica e Competenza Armi, e si presenta priva di equipaggiamento. Altrimenti, l'illusione usa tutte le statistiche della creatura che duplica.\\
-Il simulacro è amichevole verso di te e le creature da te indicate. Obbedisce ai comandi da te pronunciati, muovendosi e agendo in accordo ai tuoi desideri e agendo durante il tuo round in combattimento. Il simulacro è privo della capacità di apprendere o diventare più potente, e quindi non accresce mai di livello o nelle caratteristiche, né può recuperare gli slot incantesimi spesi.\\
-Se il simulacro è danneggiato, puoi ripararlo in un laboratorio alchemico, usando erbe rare e minerali del valore di 100 mo per punto ferita recuperato. Il simulacro rimane finché non scende a 0 Punti Ferita, a quel punto si ritrasforma in neve e si scioglie all'istante. Se lanci di nuovo questo incantesimo, qualsiasi duplicato da te creato con questo incantesimo attualmente attivo viene immediatamente distrutto.
 
 \medskip\textbf{Sogno}\index[Incantesimi]{Sogno}\\
 \textbf{Scuola}: Illusione\\
@@ -11461,16 +11501,19 @@ A partire dalla creatura che ha il minor numero di Punti Ferita attuali, ciascun
 \textbf{Gittata}: Personale (cono di 18 metri)\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Istantanea\\
-Otto raggi di luce multicolore partono dalla tua mano. Ogni raggio è di un diverso colore e ha un potere e uno scopo diverso. Ogni creatura in un cono di 18 metri deve effettuare un Tiro Salvezza su Riflessi. Per ogni bersaglio, tirare un d8 per determinare quale sia il colore del raggio che lo ha colpito.\\
+Otto raggi di luce multicolore partono dalla tua mano. Ogni raggio è di un diverso colore e ha un potere e uno scopo diverso. Ogni creatura in un cono di 18 metri deve effettuare un Tiro Salvezza su Riflessi. Per ogni bersaglio, tirare un d8 per determinare quale sia il colore del raggio che lo ha colpito.
 
-- \emph{1. Rosso}. Il bersaglio subisce 10d6 danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.\\
-- \emph{2. Arancio}. Il bersaglio subisce 10d6 danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.\\
-- \emph{3. Giallo}. Il bersaglio subisce 10d6 danni da fulmine se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.\\
-- \emph{4. Verde}. Il bersaglio subisce 10d6 danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.\\
-- \emph{5. Blu}. Il bersaglio subisce 10d6 danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.\\
-- \emph{6. Indaco}. Se fallisce il Tiro Salvezza, il bersaglio è intralciato. Deve poi effettuare un Tiro Salvezza su Tempra all'inizio di ciascun suo round. Se supera il Tiro Salvezza tre volte, l'incantesimo termina. Se fallisce il Tiro Salvezza tre volte, viene permanentemente trasformato in pietra e diventa vittima della condizione pietrificato. I successi e i fallimenti non devono essere consecutivi; tieni traccia di entrambi finché il bersaglio non ne ha ottenuti tre dello stesso tipo.\\
-- \emph{7. Violetto}. Se fallisce il Tiro Salvezza, il bersaglio è accecato. Deve poi effettuare un Tiro Salvezza su Volontà all'inizio del tuo prossimo round. Se supera il Tiro Salvezza, la cecità termina. Se fallisce il Tiro Salvezza, la creatura viene trasportata su di un altro piano di esistenza a scelta del Narratore e non è più accecata (di solito, una creatura che non è sul suo piano natio, viene esiliata su di esso, mentre le altre creature sono di solito portate nei piani Astrale o Etereo).\\
-- \emph{8. Speciale}. Il bersaglio è colpito da due raggi. Tira altre due volte, ritirando gli 8.
+\begin{itemize}[leftmargin=*]
+	\item \emph{1. Rosso}. Il bersaglio subisce 10d6 danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
+	\item \emph{2. Arancio}. Il bersaglio subisce 10d6 danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
+	\item \emph{3. Giallo}. Il bersaglio subisce 10d6 danni da fulmine se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
+	\item \emph{4. Verde}. Il bersaglio subisce 10d6 danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
+	\item \emph{5. Blu}. Il bersaglio subisce 10d6 danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
+	\item \emph{6. Indaco}. Se fallisce il Tiro Salvezza, il bersaglio è intralciato. Deve poi effettuare un Tiro Salvezza su Tempra all'inizio di ciascun suo round. Se supera il Tiro Salvezza tre volte, l'incantesimo termina. Se fallisce il Tiro Salvezza tre volte, viene permanentemente trasformato in pietra e diventa vittima della condizione pietrificato. I successi e i fallimenti non devono essere consecutivi; tieni traccia di entrambi finché il bersaglio non ne ha ottenuti tre dello stesso tipo.
+	\item \emph{7. Violetto}. Se fallisce il Tiro Salvezza, il bersaglio è accecato. Deve poi effettuare un Tiro Salvezza su Volontà all'inizio del tuo prossimo round. Se supera il Tiro Salvezza, la cecità termina. Se fallisce il Tiro Salvezza, la creatura viene trasportata su di un altro piano di esistenza a scelta del Narratore e non è più accecata (di solito, una creatura che non è sul suo piano natio, viene esiliata su di esso, mentre le altre creature sono di solito portate nei piani Astrale o Etereo).
+	\item \emph{8. Speciale}. Il bersaglio è colpito da due raggi. Tira altre due volte, ritirando gli 8.
+	
+\end{itemize}
 
 \medskip\textbf{Spruzzo Velenoso}\index[Incantesimi]{Trucchetto - Spruzzo Velenoso}\\
 \textbf{Scuola}: Animali e Piante\\
@@ -11534,14 +11577,16 @@ Puoi anche specificare condizioni che attiveranno un'attività speciale per la d
 \textbf{Gittata}: 9 metri\\
 \textbf{Componenti}: V\\
 \textbf{Durata}: Massimo 1 minuto\\
-Manifesti a gittata una trucco minore, un segno di potere soprannaturale. Crei a gittata uno dei seguenti effetti magici:\\
+Manifesti a gittata una trucco minore, un segno di potere soprannaturale. Crei a gittata uno dei seguenti effetti magici:
 
-- La tua voce risuona tre volte più forte del normale per 1 minuto.\\
-- Fai sì che le fiamme tremolino, si intensifichino, affievoliscano o cambino colore per 1 minuto.\\
-- Provochi innocui tremori sul terreno per 1 minuto.\\
-- Crei un rumore istantaneo, come un rombo di tuono, il verso di un corvo, o un sussurro inquietante, che origina da un punto a gittata scelto da te.\\
-- Fai sì che una porta o una finestra non chiusa a chiave si spalanchi o si chiuda di colpo.\\
-- Modifichi l'aspetto dei tuoi occhi per 1 minuto.
+\begin{itemize}[leftmargin=*]
+	\item La tua voce risuona tre volte più forte del normale per 1 minuto.
+	\item Fai sì che le fiamme tremolino, si intensifichino, affievoliscano o cambino colore per 1 minuto.
+	\item Provochi innocui tremori sul terreno per 1 minuto.
+	\item Crei un rumore istantaneo, come un rombo di tuono, il verso di un corvo, o un sussurro inquietante, che origina da un punto a gittata scelto da te.
+	\item Fai sì che una porta o una finestra non chiusa a chiave si spalanchi o si chiuda di colpo.
+	\item Modifichi l'aspetto dei tuoi occhi per 1 minuto.
+\end{itemize}
 
 
 Se lanci questo incantesimo più volte, puoi tenere attivi fino a tre effetti da un minuto alla volta, e puoi interrompere questi effetti con un'azione.\\
@@ -11586,18 +11631,24 @@ Falsa Destinazione&01-50&51-100&-&-\\
 \end{tabular}
 \medskip
 \begin{multicols}{2}
+	
+\begin{itemize}[leftmargin=*]
+		
+\item \emph{Cerchio permanente} indica un cerchio di teletrasporto permanente di cui conosci la sequenza dei sigilli.
+\item \emph{Oggetto associato} indica che possiedi uno oggetto preso negli ultimi sei mesi dalla destinazione desiderata, come il libro della biblioteca di un mago, biancheria della suite reale, o un pezzo di marmo della tomba segreta di un lich.
+\item \emph{Molto familiare} è un luogo in cui sei stato molto spesso, un posto che hai studiato attentamente, o un posto che puoi vedere quando lanci l'incantesimo.
+\emph{Visto casualmente} è un posto che hai visto più di una volta ma con cui non sei molto familiare. 
+\item \emph{Visto una volta} è un posto che hai visto una volta sola, magari tramite la magia.\\ \emph{Descrizione} è un luogo la cui posizione e aspetto conosci solo tramite la descrizione di qualcun altro, magari una mappa.
+\item \emph{Falsa destinazione} è un posto che non esiste. Magari hai cercato di scrutare il nascondiglio di un nemico ma hai invece visto un'illusione, oppure stai cercando di teletrasportarti in un posto familiare che non esiste più. 
+\item \emph{Sul Bersaglio}. Tu e il tuo gruppo (o l'oggetto bersaglio) apparite dove desideri.
+\item \emph{Fuori Bersaglio}. Tu e il tuo gruppo (o l'oggetto bersaglio) apparite a una distanza casuale dalla destinazione in una direzione casuale. La distanza fuori bersaglio è 1d10 x 1d10 percento della distanza viaggiata. Per esempio, se hai provato a viaggiare per 180 chilometri, atterri fuori bersaglio e tiri 5 e 3 su due d10, allora saresti fuori bersaglio del 15\%, ovvero 27 chilometri. Il Narratore determina la direzione fuori bersaglio casualmente, tirando un d8 e indicando l'1 come nord, il 2 come nordest, il 3 come est e così via seguendo le direzioni della bussola. Se ti stai teletrasportando in una città costiera e finisci 27 chilometri al largo in mare, potresti essere nei guai!
+\item \emph{Area Simile}. Tu e il tuo gruppo (o l'oggetto bersaglio) finite in un'area diversa che è visualmente o tematicamente simile all'area bersaglio. Per esempio, se sei diretto al tuo laboratorio personale, potresti finire nel laboratorio di un altro incantatore o in un negozio di oggetti alchemici che possiede molti degli attrezzi e strumenti del tuo laboratorio. In genere, compari nel luogo simile più vicino, ma dato che l'incantesimo non ha limiti di gittata, potresti finire praticamente dovunque sullo stesso piano.
+\item \emph{Errore}. L'imprevedibile magia dell'incantesimo provoca un viaggio difficile. Ogni creatura teletrasportata (o l'oggetto bersaglio) subisce 3d10 danni da forza, e il Narratore ritira sulla tabella per vedere dove finiscano (possono capitare più errori, che infliggono danni ogni volta).
 
-\emph{Cerchio permanente} indica un cerchio di teletrasporto permanente di cui conosci la sequenza dei sigilli.\\
-\emph{Oggetto associato} indica che possiedi uno oggetto preso negli ultimi sei mesi dalla destinazione desiderata, come il libro della biblioteca di un mago, biancheria della suite reale, o un pezzo di marmo della tomba segreta di un lich.\\
-\emph{Molto familiare} è un luogo in cui sei stato molto spesso, un posto che hai studiato attentamente, o un posto che puoi vedere quando lanci l'incantesimo.\\
-\emph{Visto casualmente} è un posto che hai visto più di una volta ma con cui non sei molto familiare. \\
-\emph{Visto una volta} è un posto che hai visto una volta sola, magari tramite la magia.\\ \emph{Descrizione} è un luogo la cui posizione e aspetto conosci solo tramite la descrizione di qualcun altro, magari una mappa.\\
-\emph{Falsa destinazione} è un posto che non esiste. Magari hai cercato di scrutare il nascondiglio di un nemico ma hai invece visto un'illusione, oppure stai cercando di teletrasportarti in un posto familiare che non esiste più. \\
-\emph{Sul Bersaglio}. Tu e il tuo gruppo (o l'oggetto bersaglio) apparite dove desideri.\\
-\emph{Fuori Bersaglio}. Tu e il tuo gruppo (o l'oggetto bersaglio) apparite a una distanza casuale dalla destinazione in una direzione casuale. La distanza fuori bersaglio è 1d10 x 1d10 percento della distanza viaggiata. Per esempio, se hai provato a viaggiare per 180 chilometri, atterri fuori bersaglio e tiri 5 e 3 su due d10, allora saresti fuori bersaglio del 15\%, ovvero 27 chilometri. Il Narratore determina la direzione fuori bersaglio casualmente, tirando un d8 e indicando l'1 come nord, il 2 come nordest, il 3 come est e così via seguendo le direzioni della bussola. Se ti stai teletrasportando in una città costiera e finisci 27 chilometri al largo in mare, potresti essere nei guai!\\
-\emph{Area Simile}. Tu e il tuo gruppo (o l'oggetto bersaglio) finite in un'area diversa che è visualmente o tematicamente simile all'area bersaglio. Per esempio, se sei diretto al tuo laboratorio personale, potresti finire nel laboratorio di un altro incantatore o in un negozio di oggetti alchemici che possiede molti degli attrezzi e strumenti del tuo laboratorio. In genere, compari nel luogo simile più vicino, ma dato che l'incantesimo non ha limiti di gittata, potresti finire praticamente dovunque sullo stesso piano.\\
-\emph{Errore}. L'imprevedibile magia dell'incantesimo provoca un viaggio difficile. Ogni creatura teletrasportata (o l'oggetto bersaglio) subisce 3d10 danni da forza, e il Narratore ritira sulla tabella per vedere dove finiscano (possono capitare più errori, che infliggono danni ogni
-volta).\\
+\end{itemize}
+
+\medskip
+
 \textbf{NOTA}: Teletrasportarsi da Curyan a Tiya e vice versa ha solo il 5\% di riuscita.
 
 \medskip\textbf{Tempesta di Fuoco}\index[Incantesimi]{Tempesta di Fuoco}\\
@@ -11809,17 +11860,24 @@ Quando l'incantesimo termina, i bersagli non possono muoversi o effettuare Azion
 \textbf{Durata}: 24 ore\\
 Crei una interdizione che protegge fino a 225 metri quadri di pavimento (un'area quadrata di 15 metri di lato, o cento quadrati di 1 metro di lato o venticinque quadrati di 3 metri di lato). L'area interdetta può essere alta fino a 6 metri, e modellata come preferisci. Puoi interdire diversi piani di una roccaforte dividendo l'area tra di essi, purché tu possa camminare ininterrottamente in ogni area adiacente, mentre lanci l'incantesimo\\
 Quando lanci questo incantesimo, puoi specificare gli individui che ignorano qualcuno o tutti gli effetti di questo incantesimo. Puoi anche specificare una parola d'ordine che, pronunciata ad alta voce, rende chi la proferisce immune a questi effetti.\\
-Vigilanza e interdizione crea i seguenti effetti all'interno dell'area interdetta.\\
-\emph{Corridoi}. La nebbia riempie tutti i corridoi interdetti, rendendoli oscurati pesantemente. Inoltre, a ogni intersezione o biforcazione del passaggio che offre una scelta di direzione, c'è una probabilità del 50\% che una creatura, escluso te, creda di stare andando nella direzione opposta a quella che ha scelto.\\
-\emph{Porte}. Tutte le porte nell'area interdetta sono chiuse magicamente, come se fossero sigillate dall'incantesimo Serratura Magica. Inoltre, puoi coprire fino a dieci porte con un'illusione (equivalente della funzione oggetto illusorio dell'incantesimo illusione minore) per farle sembrare delle semplici sezioni di muro.\\
-\emph{Scale}. Ragnatele ricoprono da cima a fondo tutte le scale nell'area interdetta, come per l'incantesimo ragnatela. Questi fili ricrescono in 10 minuti se vengono bruciati o strappati mentre vigilanza e interdizione resta attivo.\\
-Altri Incantesimi in Effetto. Puoi piazzare uno dei seguenti effetti magici di tua scelta all'interno dell'area interdetta dell'edificio\\
+Vigilanza e interdizione crea i seguenti effetti all'interno dell'area interdetta.
 
-- Piazza luci danzanti in quattro corridoi. Puoi indicare un semplice programma che le luci ripeteranno per la durata di vigilanza e interdizione.\\
-- Piazza bocca magica in due posti.\\
-- Piazza Nebbia Nauseante in due posti. I vapori appaiono nel posto da te indicato; ritornano entro 10 minuti se dispersi dal vento mentre vigilanza e interdizione è ancora attivo.\\
-- Piazza una folata di vento costante in un corridoio o stanza.\\
-- Piazza una suggestione in un luogo. Seleziona un'area quadrata di 1 metro di lato, e qualsiasi creatura che entra o passa attraverso quell'area riceve mentalmente la suggestione.\\
+\begin{itemize}[leftmargin=*]
+	
+	\item \emph{Corridoi}. La nebbia riempie tutti i corridoi interdetti, rendendoli oscurati pesantemente. Inoltre, a ogni intersezione o biforcazione del passaggio che offre una scelta di direzione, c'è una probabilità del 50\% che una creatura, escluso te, creda di stare andando nella direzione opposta a quella che ha scelto.
+	\item \emph{Porte}. Tutte le porte nell'area interdetta sono chiuse magicamente, come se fossero sigillate dall'incantesimo Serratura Magica. Inoltre, puoi coprire fino a dieci porte con un'illusione (equivalente della funzione oggetto illusorio dell'incantesimo illusione minore) per farle sembrare delle semplici sezioni di muro.
+	\item \emph{Scale}. Ragnatele ricoprono da cima a fondo tutte le scale nell'area interdetta, come per l'incantesimo ragnatela. Questi fili ricrescono in 10 minuti se vengono bruciati o strappati mentre vigilanza e interdizione resta attivo.
+\end{itemize}
+
+Altri Incantesimi in Effetto. Puoi piazzare uno dei seguenti effetti magici di tua scelta all'interno dell'area interdetta dell'edificio
+
+\begin{itemize}[leftmargin=*]
+	\item Piazza luci danzanti in quattro corridoi. Puoi indicare un semplice programma che le luci ripeteranno per la durata di vigilanza e interdizione.
+	\item Piazza bocca magica in due posti.
+	\item Piazza Nebbia Nauseante in due posti. I vapori appaiono nel posto da te indicato; ritornano entro 10 minuti se dispersi dal vento mentre vigilanza e interdizione è ancora attivo.
+	\item Piazza una folata di vento costante in un corridoio o stanza.
+	\item Piazza una suggestione in un luogo. Seleziona un'area quadrata di 1 metro di lato, e qualsiasi creatura che entra o passa attraverso quell'area riceve mentalmente la suggestione.
+\end{itemize}
 
 L'intera area interdetta irradia magia. Un incantesimo dissolvi magie lanciato contro uno specifico effetto, se riesce, rimuove solo quell'effetto Puoi creare una struttura perennemente vigilata e interdetta lanciandovi questo incantesimo ogni giorno per un anno.\\
 \textbf{Se effettui tre critici} la durata è permanente.
@@ -12076,6 +12134,17 @@ L'incantesimo può fornire anche un nuovo corpo se l'originale non esiste più, 
 Una creatura a 0 Punti Ferita, con cui sei a contatto, torna a 1 Punti Ferita. L'incantesimo non ha effetto su non morti o costrutti.\\
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia curi la creatura di 1d4 Punti Ferita.
 
+\medskip\textbf{Simulacro}\index[Incantesimi]{Simulacro}\\
+\textbf{Scuola}: Illusione\\
+\textbf{Livello}: 7, Leggendario\\
+\textbf{Tempo di Lancio}: 12 ore\\
+\textbf{Gittata}: Contatto\\
+\textbf{Componenti}: V, S, M (neve o ghiaccio in quantità per creare una copia a dimensioni reali della creatura duplicata; un pò di capelli, unghie o altro pezzo del corpo di quella creatura da piazzare in mezzo alla neve o al ghiaccio; e un rubino in polvere del valore di 1.500 mo, sparso sopra il duplicato e consumato dall'incantesimo)\\
+\textbf{Durata}: Fino a che dissolto\\
+Modelli un duplicato illusorio di una bestia o umanoide che resti a gittata per l'intero tempo di lancio dell'incantesimo. Il duplicato è una creatura, in parte reale e formata di ghiaccio o neve, che può effettuare azioni e interagire come una normale creatura. Sembra essere identica all'originale, ma ha la metà dei Punti Ferita massimi di quella creatura, la metà del punteggio di Competenza Magica e Competenza Armi, e si presenta priva di equipaggiamento. Altrimenti, l'illusione usa tutte le statistiche della creatura che duplica.\\
+Il simulacro è amichevole verso di te e le creature da te indicate. Obbedisce ai comandi da te pronunciati, muovendosi e agendo in accordo ai tuoi desideri e agendo durante il tuo round in combattimento. Il simulacro è privo della capacità di apprendere o diventare più potente, e quindi non accresce mai di livello o nelle caratteristiche, né può recuperare gli slot incantesimi spesi.\\
+Se il simulacro è danneggiato, puoi ripararlo in un laboratorio alchemico, usando erbe rare e minerali del valore di 100 mo per punto ferita recuperato. Il simulacro rimane finché non scende a 0 Punti Ferita, a quel punto si ritrasforma in neve e si scioglie all'istante. Se lanci di nuovo questo incantesimo, qualsiasi duplicato da te creato con questo incantesimo attualmente attivo viene immediatamente distrutto.
+
 \medskip\textbf{Spostamento Planare}\index[Incantesimi]{Spostamento Planare}\\
 \textbf{Scuola}: Evocazione\\
 \textbf{Livello}: 7, Leggendario\\
@@ -12118,7 +12187,7 @@ Non puoi avere più di un famiglio alla volta. \\
 \vfill
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.60\textwidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
+\includegraphics[keepaspectratio,width=0.55\textwidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
 
 \emph{The Circle of Solomon and Triangle of Solomon from The Goetia: The Lesser Key of Solomon the King, The Book of Evil Spirits by L. W. De Laurence}
 \end{center}
@@ -12457,7 +12526,7 @@ Sogno, Non Comune, 5\\
 Illusione Programmata, Non Comune, 6\\
 Immagine Proiettata, Non Comune, 7\\
 Miraggio Arcano, Raro, 7\\
-Simulacro, Raro, 7\\
+Simulacro, Leggendario, 7\\
 Fatale, Raro, 9\\
 
 \flushleft{\medskip\textbf{Invocazione - Costituzione}}
@@ -12603,7 +12672,7 @@ Pertanto vantaggi e svantaggi vanno anche e soprattutto giocati ed interpretati.
 Il Narratore potrebbe anche inserire vantaggi e svantaggi tematici all'avventura ma anche  peculiari alla caratterizzazione del personaggio come immunità alle malattie, tocchi curativi, capacità extrasensoriali, abilità che modificano il rapporto con un famiglio... Siate sempre scrupolosi nell'analisi e nella valutazione dei benefici, ricordando che ci dovrà essere anche un adeguato valore di Svantaggi.
 
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item
 I Vantaggi con {*} e tutti quelli con costo 15 o superiore sono a discrezione del Narratore nell'essere ammessi alla scelta.
@@ -12703,7 +12772,7 @@ Recuperi i Punti Ferita come se avessi il doppio del punteggio di Costituzione.
 
 \textbf{Molto Fortunato} \index{Molto Fortunato} 10: 2 volte al giorno puoi ritirare un 1 od un 2 sul dado a 6, da dichiarare anche dopo il tiro di dado.
 
-\textbf{Guarigione accelerata}\index{Guarigione accelerata}: 5 ogni mattina recuperi il doppio dei Punti Ferita che normalmente recupereresti. Si cumula con Controllo Metabolismo. \index{Controllo Metabolismo}.
+\textbf{Guarigione accelerata}\index{Guarigione accelerata}: 5 ogni mattina recuperi il doppio dei Punti Ferita che normalmente recupereresti. Si cumula con Controllo Metabolismo. \index{Controllo Metabolismo}
 
 \textbf{Guaritore}\index{Guaritore} 5: sai dove mettere le mani. +1d6 alle prove di Pronto soccorso
 
@@ -12872,7 +12941,7 @@ Uno svantaggio può essere \emph{annullato} nel corso della storia del personagg
 \bigskip
 
 Suggerimenti
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
   Prendi degli svantaggi che siano divertenti da giocare, anche se ti metteranno nei guai.
 \item
@@ -12885,7 +12954,7 @@ Suggerimenti
 
 \textbf{Fai attenzione}:
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
   Evita gli svantaggi che sono difficili da giocare o perché completamente avulsi dal sistema o totalmente inutili o severamente dannosi per gli altri. Se vuoi essere un pacifista estremo, valuta bene il personaggio ed il gruppo..
 \item
@@ -16140,7 +16209,7 @@ L'antidoto principale contro un cattivo ambiente consiste, naturalmente, nel sos
 In un ambiente naturale l'illuminazione può assumere diverse gradazioni e queste gradazioni aiutano a capire fino a che distanza una creatura può vedere.
 
 Le gradazione di luce possono essere:
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
   \textbf{Oscurità}': buio pesto, può essere naturale o magico
 \item
@@ -16206,7 +16275,7 @@ La \textbf{Luce}\index{Luce} è la luce all'aperto sotto il sole, ma anche se si
 
 \subsubsection{Tipi di Visione e Illuminazione}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 Una creatura con \textbf{Visione Normale} \index{Visione Normale}vede fino alla distanza, come raggio circolare intorno alla fonte di luce, indicato in Luce. Oltre è Luce Fioca e oltre ancora Oscurità.
 
@@ -16674,7 +16743,7 @@ Il danno da pressione può essere totalmente evitato tramite incantesimi che off
 \subsection{Combattimento sott'acqua}\label{combatteresottacqua}\index{Combattimento sott'acqua}\hypertarget{combatteresottacqua}{}
 Le creature che vivono sulla terra hanno considerevoli difficoltà a combattere sott'acqua. L'acqua influenza la Difesa di una creatura, i suoi Tiri per Colpire, i danni e il movimento.
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 Una creatura sott'acqua perde il bonus di Destrezza alla Difesa.
 \item
@@ -16684,7 +16753,6 @@ Armi come Tridente, Lancia corta, Spada Corta, Giavellotto non hanno penalità a
 \item
 Muoversi o nuotare in acqua si considera \textbf{\emph{terreno} difficile}.
 \end{itemize}
-\medskip
 
 Queste penalità sono valide solo se non si ha un movimento ti tipo Nuotare.
 
@@ -17129,11 +17197,11 @@ Se progettato con attenzione e cura una caverna può diventare un'ottima esperie
 
 Le condizione naturali del sottosuolo dipendono da vari fattori ma ci sono sicuramente dei punti comuni a tutti.
 
-- Nessuna luce per illuminare gli spazi. Possono esserci sporadici funghi fluorescenti, che irradiano luce fioca nelle vicinanze, ma nulla che possa illuminare tutto l'ambiente
-
-- Ambiente umido
-
-- Temperatura ambiente solitamente fresca, raramente ci sono caverne con temperature estreme sia nel caldo che nel freddo.
+\begin{itemize}[leftmargin=*]
+	\item Nessuna luce per illuminare gli spazi. Possono esserci sporadici funghi fluorescenti, che irradiano luce fioca nelle vicinanze, ma nulla che possa illuminare tutto l'ambiente
+\item Ambiente umido
+\item Temperatura ambiente solitamente fresca, raramente ci sono caverne con temperature estreme sia nel caldo che nel freddo.
+\end{itemize}
 
 \subsubsection{Illuminazione}\index{Illuminazione}
 
@@ -17156,7 +17224,7 @@ In caso di totale buio ed in un ambiente naturale va fatta una prova di Destrezz
 
 Si possono individuare diverse tipologie di caverne:
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 
 \item \textbf{creati dallo scorrere dell'acqua}. In questo caso il tunnel può essere parecchio caotico nel suo dipanarsi a causa del tipo di rocce che l'acqua ha incontrato. Ci possono essere ancora fiumi e laghi sotterranei.
@@ -17741,7 +17809,7 @@ Un rumore brusco concede una prova di Consapevolezza a DC 15, oppure pari alla p
 \vfill
 
 \begin{center}
-	\includegraphics[width=0.45\linewidth]{immagini/mappaparigi.png}
+	\includegraphics[width=0.65\linewidth]{immagini/mappaparigi.png}
 
 	\emph{Antica mappa di Parigi}
 \end{center}
@@ -18767,7 +18835,7 @@ La lingua principale dell'insediamento è diversa dalla propria&-5\\
 
 \subsubsection{Il Livello di Fama}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 
 \item Il punteggio di Fama è ciò che rende popolare il personaggio.
@@ -19322,16 +19390,16 @@ Esempi di Malattie:
 
 \textbf{Peste T}\index{Peste T}: 1 minuto, TS Tempra 30, 2 ore, 3 successi, esegui 3 successi consecutivi altrimenti vieni trasformato in uno zombi. Si trasmette attraverso il ferimento.
 
-\end{multicols}
 
 \vfill
 
 \begin{center}
-	\includegraphics[width=0.18\linewidth]{immagini/plaguedoctor.png}
+	\includegraphics[width=0.7\linewidth]{immagini/plaguedoctor.png}
 
-	\emph{Engraving of the Plague Doctor, Paul Furst, 1656}
+	\emph{Engraving of the Plague Doctor\\, Paul Furst, 1656}
 \end{center}
 
+\end{multicols}
 
 \pagebreak
 
@@ -19354,7 +19422,7 @@ Quando non puoi più correre, cammina veloce; quando non puoi più camminare vel
 
 \medskip
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item Tattico, quando si combatte, si usano le distanze precise, mappa ed i quadretti di 1 metro di lato
 \item Locale, per esplorare una zona, misurato in metri al minuto.
 \item Via Terra, per muoversi da un posto all'altro, misurato in km all'ora o al giorno.
@@ -19491,7 +19559,7 @@ In queste situazione non è fondamentale misurare la distanza in maniera precisa
 
 \medskip
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
   Camminare: Un personaggio può camminare senza problemi in Movimento locale per 8 ore al giorno.
 \item
@@ -19823,7 +19891,7 @@ Non esagerate mai nell'assegnazione dei Punti Esperienza altrimenti rischierete 
 Non dovete però tenere conto solo dei Punti Esperienza concessi dagli avversari ma dovete valutare i personaggi e gruppo durante la sessione.
 
 Ogni qual volta il personaggio od il gruppo:\index{Bonus Punti Esperienza}\label{puntiesperienzabonus}\index{Punti Esperienza Bonus}
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item \textbf{Raggiunga gli obiettivi prefissati} (premio al gruppo od al personaggio);
 \item \textbf{Sfrutti a pieno ed anzi sia alternativo nell'uso delle proprie Abilità e capacità} (premio al personaggio);
 \item \textbf{Risolva i problemi in maniera creativa, fantasiosa e funzionale} (premio al personaggio);
@@ -19838,7 +19906,7 @@ Ogni qual volta il personaggio od il gruppo:\index{Bonus Punti Esperienza}\label
 \end{itemize}
 
 Vi suggerisco anche di valutare queste azioni per premiare l'impegno del giocatore
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item \textbf{Sia collaborativo con gli altri giocatori} (premio al gruppo od al personaggio);
 \item \textbf{Aiuti un giocatore in difficoltà} (premio al personaggio od al gruppo);
 \end{itemize}
@@ -20016,7 +20084,7 @@ Se lo scontro deve essere memorabile non basta piazzare il cattivo, organizzate 
 
 Organizzate i nemici affinché:
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 	
 \item arrivino in più ondate così che ci sia un senso di falso successo
 \item che i nemici arrivino da più parti per non fare concentrare le forze solo da un lato
@@ -20162,7 +20230,7 @@ Se preferite una distribuzione stabilita e bilanciata seguite le  indicazioni so
 
 Per quanto riguarda gli oggetti magici \textbf{permanenti} come armi, armature, altri oggetti senza cariche o con cariche giornaliere, potete distribuire gli oggetti secondo questo schema, cumulativo:
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 	\item livelli 1-4: un oggetto non comune
 	\item livelli 5-7: un secondo oggetto non comune
 	\item livelli 8-10: un oggetto raro
@@ -20173,7 +20241,7 @@ Per quanto riguarda gli oggetti magici \textbf{permanenti} come armi, armature, 
 
 Per quanto riguarda i \textbf{consumabili} come pozioni, pergamene od oggetti con un uso a scalare di cariche, potete distribuire gli oggetti secondo questo schema, cumulativo:
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 	\item livelli 1-5: un consumabile comune
 	\item livelli 6-10: un consumabile non comune
 	\item livelli 11-15: un consumabile raro
@@ -20332,7 +20400,7 @@ Se il metodo può non piacere usate quello che più vi aggrada, personalmente ne
 
 \medskip
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item
 Tu sei il Narratore, tue le Regole, tuo il Mondo.
@@ -20668,17 +20736,17 @@ Per leggere una pergamena è necessario:\\
 
 \textbf{in caso di pergamene ISY SCROLL}:
 
-- per comprendere il contenuto è sufficiente una prova di Intelligenza (o Arcana se conosciuta) a difficoltà DC 10
-
-- per poter leggere e lanciare l'incantesimo della pergamena è necessaria una prova di Intelligenza (o Arcana se conosciuta) a difficoltà 12.
-
-\medskip
+\begin{itemize}[leftmargin=*]
+	\item per comprendere il contenuto è sufficiente una prova di Intelligenza (o Arcana se conosciuta) a difficoltà DC 10
+	\item per poter leggere e lanciare l'incantesimo della pergamena è necessaria una prova di Intelligenza (o Arcana se conosciuta) a difficoltà 12.
+\end{itemize}
 
 \textbf{in caso di pergamene normali}:
 
-- per comprenderne il contenuto è necessaria una prova di Arcana a difficoltà 15
-
-- per poter leggere e lanciare l'incantesimo della pergamena è necessaria una prova di Arcana a difficoltà 11+Livello dell'incantesimo ed avere accesso alla Lista di Magia dell'incantesimo contenuto e che questo sia di livello pari al massimo lanciabile +1.
+\begin{itemize}[leftmargin=*]
+	\item per comprenderne il contenuto è necessaria una prova di Arcana a difficoltà 15
+	\item per poter leggere e lanciare l'incantesimo della pergamena è necessaria una prova di Arcana a difficoltà 11+Livello dell'incantesimo ed avere accesso alla Lista di Magia dell'incantesimo contenuto e che questo sia di livello pari al massimo lanciabile +1
+\end{itemize}
 
 \medskip
 
@@ -20775,7 +20843,7 @@ Quando si determina il prezzo di un oggetto magico inventato bisogna considerare
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{Q}{ueste} sono le indicazioni su l'utilizzo degli oggetti magici.
 
 \label{oggetti-magici}
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 Un personaggio può \textbf{portare numerosi (fino a 10) oggetti magici} su di sé ma per determinare il bonus alla \textbf{Difesa} non si possono sommare più di 2 oggetti (es. 1 anello magico ed un braccialetto). Armatura e Scudo non si considerano in questo conteggio.
 \item
@@ -22476,7 +22544,7 @@ Zaffiro blu&Elementale dell'aria\\
 \index[OggettiMagici]{Gemma della Luminosità}\smallskip* \textbf{Gemma della Luminosità}
 5000 mo, raro, questo prisma ha 50 cariche. Mentre lo impugni, puoi usare due azioni per pronunciare una delle tre parole di comando per provocare uno dei seguenti effetti:
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 La prima parola di comando fa sì che la gemma produca una luce intensa nel raggio di 9 metri e luce fioca per ulteriori 9 metri. L'effetto consuma 1 carica. Dura finché non userai due azioni per ripetere la parola di comando o finché non impiegherai un'altra funzione della gemma, oppure sono passate 6 ore.
 
@@ -22577,7 +22645,7 @@ Se non sei un nano, ottieni i seguenti benefici aggiuntivi quando indossi questa
 
 \medskip
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 Puoi usare due azioni per lanciare uno dei seguenti incantesimi, usando una delle gemme dell'elmo del tipo specificato come componente: luce diurna (opale), muro di fuoco (rubino), palla di fuoco (opale di fuoco) o Spruzzo Prismatico (diamante). Quando l'incantesimo viene lanciato la gemma è distrutta e scompare dall'elmo.
 
@@ -23273,7 +23341,7 @@ Questa vista può penetrare 30 centimetri di pietra, 2,5 centimetri di metallo c
 
 \medskip
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 Hai resistenza ai danni da veleno.
 \item
@@ -23455,6 +23523,9 @@ d100 &Contiene\\
 70-73 &Diavolo (inferiore)\\
 74-75 &Genio Djinni\\
 76-77 &Genio Efreeti\\
+\end{tabular}
+
+\begin{tabular}{ll}
 78-83 &Elementale (qualsiasi)\\
 84-86 &Persecutore invisibile\\
 87-90 &Megera notturna\\
@@ -23587,7 +23658,7 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 \end{multicols}
 
 \begin{center}
-\includegraphics[width=0.35\linewidth]{immagini/borsetta.png}
+\includegraphics[width=0.55\linewidth]{immagini/borsetta.png}
 
 \emph{Borsetta conservante, modello classico, Tipo II}
 \end{center}
@@ -23636,7 +23707,7 @@ questo braciere ha l'apparenza di, e funziona come, un braciere del comando degl
 
 \medskip
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 \emph{Ruscello} produce 4 litri d'acqua.
 \item
@@ -23714,18 +23785,6 @@ Il cubo perde cariche quando la barriera viene presa come bersaglio da certi inc
 
 \medskip
 
-\begin{tabular}{ll}
-\textbf{Incantesimo o Oggetto} &\textbf{Cariche Perse}\\
-\hline
-Dardo arcano (5 colpi) &1\\
-Disintegrazione &1d12\\
-Muro di fuoco &1d4\\
-Passa Porta& 1d6\\
-Spruzzo Prismatico &3d6\\
-\end{tabular}
-
-\medskip
-
 \begin{tabularx}{0.45\textwidth}{llX}
 \textbf{Faccia} & \textbf{Cariche}& \textbf{Effetto}\\
 \hline
@@ -23737,6 +23796,19 @@ Spruzzo Prismatico &3d6\\
 6 &0& La barriera si disattiva. \\
 \end{tabularx}
 
+\medskip
+
+\begin{tabular}{ll}
+	\textbf{Incantesimo o Oggetto} &\textbf{Cariche Perse}\\
+	\hline
+	Dardo arcano (5 colpi) &1\\
+	Disintegrazione &1d12\\
+	Muro di fuoco &1d4\\
+	Passa Porta& 1d6\\
+	Spruzzo Prismatico &3d6\\
+\end{tabular}
+
+\medskip
 
 \smallskip* \textbf{Cubo di protezione dal freddo}\index[OggettiMagici]{Cubo di protezione dal freddo}
 2500 mo, raro, questo ciondolo cubico si attiva e si disattiva premendone una faccia (azione immediata). Quando è attivato, emana un campo protettivo cubico con lo spigolo di 3 m (simile a quello di un cubo di forza ma dall'effetto diverso). La temperatura all’interno del campo protettivo si mantiene a 21 °C. Il campo assorbe tutti gli attacchi di freddo, negandoli completamente. Se nega più di 50 danni da freddo in un round (sia da un singolo attacco che da attacchi multipli), però, il campo magico collassa e non può essere riattivato per un'ora. Se il campo nega più di 100 ferite da freddo in un round, il cubo viene distrutto.
@@ -24409,7 +24481,7 @@ Un oggetto incontrollabile tende ad attivarsi casualmente. Tirare un d\% ogni gi
 
 Alcuni oggetti hanno requisiti molto più difficili da soddisfare perché funzionino. Per far funzionare l'oggetto in questione, potrebbe essere necessario soddisfare una delle seguenti condizioni:
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item Il personaggio deve mangiare il doppio del normale.
 \item Il personaggio deve dormire il doppio del normale.
 \item Il personaggio deve compiere almeno una missione specifica.
@@ -24428,17 +24500,19 @@ Alcuni oggetti hanno requisiti molto più difficili da soddisfare perché funzio
 
 \medskip
 
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/donnalemb.png}
-
-\emph{Donna di Lemb o Statua della Dea della Morte, 3500 AC. DC 40}
-\end{center}
-
-\medskip
 
 I requisiti dipendono dalla convenienza dell'oggetto che non dovrebbero mai essere determinati a caso. Un oggetto intelligente con un requisito spesso impone il proprio requisito grazie alla sua personalità.
 
 Se il requisito non viene soddisfatto, l'oggetto smette di funzionare. Se invece viene soddisfatto, di solito l'oggetto funziona per un giorno intero prima di dover di nuovo soddisfare il requisito (anche se alcuni requisiti vanno soddisfatti una volta sola, altri una volta al mese e altri ancora in continuazione).
+
+
+\begin{center}
+	\includegraphics[width=0.8\linewidth]{immagini/donnalemb.png}
+	
+	\emph{Donna di Lemb o Statua della Dea della Morte, 3500 AC. DC 40}
+\end{center}
+
+\medskip
 
 \subsection{Inconveniente}
 
@@ -24872,7 +24946,7 @@ Per praticità, e solo per aiutare la limitata mente umana, si immagina Yeru (ch
 
 \emph{Piani di Transizione}\index{Piandi di Transiazione}: Questi piani hanno un importante elemento in comune: sono tutti coesistenti agli altri Piani e servono a viaggiare tra realtà in sovrapposizione. Questi piani sono fortemente interconnessi col Piano Materiale, ed è possibile accedervi usando numerosi incantesimi. Sono dotati anche essi di abitanti nativi. Qui di seguito sono descritti alcuni Piani di Transizione.
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 \emph{Piano Astrale}\index{Piano Astrale}: E' il vuoto tra i piani, un Piano argenteo che connette il Piano Materiale ai Piani Energetici ed ai Piani Esterni, il Piano Astrale è il mezzo attraverso cui le anime dei defunti giungono all'aldilà. Un viaggiatore nel Piano Astrale vede il piano come un infinito vuoto periodicamente punteggiato da minuscoli sprazzi di realtà fisica distaccatisi dagli innumerevoli piani sovrapposti. Incantatori potenti utilizzano il Piano Astrale per una breve frazione di secondo quando si teletrasportano, o possono usarlo per viaggiare tra i piani con incantesimi come Proiezione Astrale.
 
@@ -24889,7 +24963,7 @@ Per praticità, e solo per aiutare la limitata mente umana, si immagina Yeru (ch
 
 \medskip
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 Piani Elementali\index{Piani Elementali}: I quattro classici Piani Interni sono Piano dell'Acqua, Piano dell'Aria, Piano del Fuoco e Piano della Terra. Da questi piani provengono le creature note come elementali, ma sono abitati anche da altre bizzarre creature, come geni, xorn, mephit e persecutori invisibili.
 
@@ -25397,7 +25471,7 @@ I celestiali sono di natura buona, esempi classici di celestiali sono angeli, co
 
 Queste categorie possono essere a loro volta raggruppate in tipologie di Creature:
 \smallskip
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item
 Le \textbf{Creature Naturali}: sono Insetti, Rettili, Bestie, Umanoidi, Piante, Creature acquatiche, Mostrusità, Melme
 \item
@@ -25725,7 +25799,7 @@ Vedi anche \hyperlink{valoretesoroincontro}{Tabella: Valori del Tesoro per Incon
 
 \medskip
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item \textbf{Aberrazione}
 Molte aberrazioni hanno scarsa considerazione per i tesori, possedendo solo quel che prendono dai resti delle loro vittime precedenti. Altre sono avversari astuti che usano vari oggetti magici e tesori per potenziare le loro capacità.
@@ -29090,7 +29164,7 @@ I Draghi di Ljust presenti su Yeru sono errori di trasporto, magari perché il p
 
 \textbf{Fallire il Tiro Salvezza} contro il soffio di un drago in maniera critica ne raddoppia i danni subiti mentre riuscire in maniera critica non ne dimezza ulteriormente il danno ricevuto.\index{Soffio del drago}
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 \item Ogni Drago può lanciare incantesimi sino ad un livello massimo pari ad un quarto del suo Grado si Sfida, con un minimo accesso al primo livello.
 \item Ogni Drago ha un numero di Punti Magia pari 5 volte il suo Grado di Sfida
 \item Ogni Drago ha un punteggio di Competenza Magica pari alla metà del suo Grado di Sfida
@@ -46748,7 +46822,7 @@ Anche io sono un Narratore e per quanto abbia costruito OBSS in base alle mie pr
 
 Al mio tavolo di gioco solitamente scelgo queste Opzioni:
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*]
 
 \item
 \hyperlink{successoparziale}{Successo Parziale}  pag. \pageref{successoparziale}
