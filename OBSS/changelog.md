@@ -576,7 +576,7 @@ aggiornata versione POD 2024/07/24
 
 0.87a aggiornati incantesimi ristorare superiore ed inferiore, massivo aggiornamento agli elenchi, 
 
-
+aggiornata versione POD 2024/07/25
 
 
 - aggiunti \label{} fino a piani
