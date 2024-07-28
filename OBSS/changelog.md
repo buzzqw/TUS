@@ -580,6 +580,7 @@ aggiornata versione POD 2024/07/25
 
 0.87b aggiornati tiri salvezza mostri, 
 
+aggiornata versione POD 2024/07/27
 
 - aggiunti \label{} fino a piani
 
