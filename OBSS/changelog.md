@@ -582,9 +582,7 @@ aggiornata versione POD 2024/07/25
 
 aggiornata versione POD 2024/07/27
 
-0.87c 
-
-corretta indicazione nome solar, chiarimenti su condizioni per prova di magia, 
+0.87c corretta indicazione nome solar, chiarimenti su condizioni per prova di magia, riaggiornati DC mostri
 
 
 - aggiunti \label{} fino a piani
