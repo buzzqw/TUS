@@ -578,11 +578,15 @@ aggiornata versione POD 2024/07/24
 
 aggiornata versione POD 2024/07/25
 
-0.87b aggiornati tiri salvezza mostri, 
+0.87b aggiornati tiri salvezza mostri
 
 aggiornata versione POD 2024/07/27
 
 0.87c corretta indicazione nome solar, chiarimenti su condizioni per prova di magia, riaggiornati DC mostri
+
+aggiornata versione POD 2024/07/31
+
+0.87d
 
 
 - aggiunti \label{} fino a piani
