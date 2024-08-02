@@ -586,7 +586,7 @@ aggiornata versione POD 2024/07/27
 
 aggiornata versione POD 2024/07/31
 
-0.87d aggiornato ogni quanto si prende una lista di magia gratuita, 
+0.87d aggiornato ogni quant cm si prende una lista di magia gratuita, 
 
 
 - aggiunti \label{} fino a piani
