@@ -588,7 +588,9 @@ aggiornata versione POD 2024/07/31
 
 0.87d aggiornato ogni quant cm si prende una lista di magia gratuita, corrette difficolta' inseguire una creatura, ridotti tratti a 26 per una piu' facile gestione
 
-0.88 aggiornata versione POD 2024/08/05
+**0.88** aggiornata versione POD 2024/08/05
+
+0.88a 
 
 
 - aggiunti \label{} fino a piani
