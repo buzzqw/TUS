@@ -175,7 +175,7 @@ boxrule=0.3pt
 
 
 \begin{document}
-\def \versione {0.87d} \fontsize{10}{12}\selectfont
+\def \versione {0.88} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
 
@@ -1437,8 +1437,7 @@ Il Narratore è libero di inserire nuovi Tratti a suo piacere o richiesti dai gi
 
 Ogni Tratto è brevemente descritto nel suo significato generico. Il personaggio è libero di interpretare il Tratto come più lo sente proprio. \\
 
-\noindent\textbf{Arroganza}: Eccessivo orgoglio o autoimportanza, spesso accompagnato da un atteggiamento sprezzante verso gli altri.\\
-\textbf{Avidità}: Desiderio assoluto di ricchezza, possedimenti o potere.\\
+\noindent\textbf{Avarizia}: Mancanza di volontà di spendere beni materiali e non.
 \textbf{Cinismo}: Un atteggiamento scettico e diffidente verso le motivazioni e la sincerità altrui.\\
 \textbf{Coraggio}: La capacità di affrontare la paura, il pericolo o le difficoltà con  determinazione.\\
 \textbf{Egoismo}: Chi si preoccupa unicamente di sé stesso, del proprio benessere e della propria tornaconto, spesso a discapito degli altri.\\
@@ -1448,21 +1447,22 @@ Ogni Tratto è brevemente descritto nel suo significato generico. Il personaggio
 \textbf{Giustizia}: Equità, imparzialità e rispetto dei principi morali.\\
 \textbf{Gratitudine}: Riconoscenza e apprezzamento per ciò che si è ricevuto.\\
 \textbf{Indifferenza}: Mancanza di interesse, preoccupazione o emozione.\\
+\textbf{Indolenza}: indifferenza agli stimoli, noia, pigrizia.\\
+\textbf{Ingordigia}: Bramosia di consumare il meglio dei beni materiali e non.\\
 \textbf{Intransigenza}: Rifiuto di compromessi o di cambiare posizione.\\
 \textbf{Invidia}: Sentimento di gelosia o desiderio per ciò che possiede qualcun altro.\\
 \textbf{Ipocrisia}: Fingere di avere virtù o ideali che non si possiedono veramente.\\
+\noindent\textbf{Lussuria}: Liberarsi alle proprie passioni senza controllo morale.\\
 \textbf{Malizia}: Desiderio intenzionale di nuocere o causare sofferenza agli altri.\\
 \textbf{Onestà}: Verità e integrità nelle parole e nelle azioni.\\
 \textbf{Pazienza}: Resistenza e tolleranza di fronte alle avversità e problemi.\\
 \textbf{Perseveranza}: Persistenza e determinazione nel raggiungere gli obiettivi.\\
-\textbf{Pigrizia}: Avversione al lavoro o alla fatica; mancanza di volontà di sforzarsi.\\
 \textbf{Responsabilità}: Responsabilità e affidabilità nell’adempimento dei doveri e degli obblighi.\\
 \textbf{Rancore}: Rabbia ed indignazione a seguito di un trattamento percepito ingiusto.\\
 \textbf{Rispetto}: Stima e considerazione per gli altri in base al loro valore e idee.\\
 \textbf{Sincerità}: Onestà genuina e autenticità nella comunicazione e nel comportamento.\\
 \textbf{Superbia}: Eccessiva stima di sé e dei propri meriti, reali o presunti.\\
-\textbf{Umiltà}: La visione realistica di sé stessi e la capacità di riconoscere i propri limiti.\\
-\textbf{Viltà}: L’opposto del coraggio, mancanza di audacia o volontà nell'affrontare sfide.
+\textbf{Umiltà}: La visione realistica di sé stessi e la capacità di riconoscere i propri limiti.
 
 \end{multicols}
 
@@ -13603,7 +13603,7 @@ Calicante può essere scelto solo dai personaggi che hanno 4 Tratti in comune co
 
 \noindent- \textbf{Simbolo}: Un turbine nero\\
 - \textbf{Caratteristica}: Forza o Destrezza\\
-- \textbf{Tratti}: Malizia, Rancore, Arroganza, Avidità, Cinismo, Egoismo, Superbia. Il Devoto di Calicante ha 4 Tratti in comune con il Patrono.\\
+- \textbf{Tratti}: Malizia, Rancore, Lussuria, Avarizia, Cinismo, Egoismo, Superbia. Il Devoto di Calicante ha 4 Tratti in comune con il Patrono.\\
 - \textbf{Manifestazione}: spada grondante di sangue nero\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Puoi lanciare l'incantesimo Oscurità. Una volta al giorno\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: La tua arma si ammanta di ombra. Guadagni un +2 al Tiro per Colpire e +1d4 di danno da Vuoto per 2d6 round, Una volta al giorno.\\
@@ -13695,7 +13695,7 @@ Il Devoto di Gradh è fiero ed orgoglioso, indomito e protettivo, ed addolorato,
 
 \noindent- \textbf{Simbolo}: Uno scudo con incise sopra due spirali intrecciate.\\
 - \textbf{Caratteristica}: Forza\\
-- \textbf{Tratti}: Coraggio, Gentilezza, Responsabilità, Rispetto, Sincerità, Arroganza, Invidia\\
+- \textbf{Tratti}: Coraggio, Gentilezza, Responsabilità, Rispetto, Sincerità, Superbia, Invidia\\
 - \textbf{Manifestazione}: due spire una nera come ombra ed una lucente come scintilla circondano la tua arma intrecciandosi\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Puoi lanciare l'incantesimo Cura Ferite Serie, ma ti causa 1d6 di danno. 1 volta al giorno\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Per 10 minuti consecutivi hai un bonus di +1d6 Tiro Salvezza su Riflessi e Tempra. Una volta al giorno.\\
@@ -13755,7 +13755,7 @@ Il Devoto di Belevon è ben descritto dal mercante ricco e curioso che mai lasci
 
 \noindent- \textbf{Simbolo}: Una gabbia dorata\\
 - \textbf{Caratteristica}: Intelligenza\\
-- \textbf{Tratti}: Invidia, Arroganza, Egoismo, Malizia, Empatia, Perseveranza, Generosità\\
+- \textbf{Tratti}: Invidia, Lussuria, Egoismo, Malizia, Empatia, Perseveranza, Generosità\\
 - \textbf{Manifestazione}: come se le sbarre dorate di una gabbia si intrecciassero attorno all'incantatore\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Puoi lanciare l'incantesimo Prestidigitazione, 3 volte al giorno.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Acquisisci la capacità lanciare l'incantesimo Immagine Maggiore una volta al giorno.\\
@@ -13789,7 +13789,7 @@ Ogni qual volta succede una calamità si suole dire che \emph{Cattalm ha battuto
 
 \noindent- \textbf{Simbolo}: Un'onda gigante che sovrasta la costa\\
 - \textbf{Caratteristica}: Forza\\
-- \textbf{Tratti}: Arroganza, Cinismo, Egoismo, Intransigenza, Superbia, Sincerità, Perseveranza\\
+- \textbf{Tratti}: Cinismo, Superbia, Egoismo, Intransigenza, Lussuria, Sincerità, Perseveranza\\
 - \textbf{Manifestazione}: il rombo del tuono\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Attraverso le tue armi indebolisci l'avversario designato. A seguito di un colpo critico puoi aumentare di un livello l'affaticamento. Una volta al giorno come Reazione.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco imputridisce cibo (fino a 50kg/Ingombro 10) e acqua (un cubo con uno spigolo di 10 m). Una volta al giorno\\
@@ -13819,7 +13819,7 @@ Un Devoto di Efrem rispetta la vita come la morte, nel processo naturale che è 
 
 \noindent- \textbf{Simbolo}: Una staffa con un rampicante attorcigliato attorno\\
 - \textbf{Caratteristica}: Costituzione\\
-- \textbf{Tratti}: Rispetto, Indifferenza, Pigrizia, Arroganza, Onestà, Perseveranza\\
+- \textbf{Tratti}: Rispetto, Indifferenza, Ingordigia, Indolenza, Onestà, Perseveranza\\
 - \textbf{Manifestazione}: spire di foglie avvolgono la spada\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Il tuo tocco rende docili gli animali non magici. Tiro Salvezza su Volontà 20 per resistere. 3 volte al giorno. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Guadagni un +1d6 a tutte le prove di Sopravvivenza che si effettuano in un ambiente naturale.\\
@@ -13847,7 +13847,7 @@ I Devoti di Erondil sono gli ingegneri dell'impossibile, ogni qual volta si deve
 
 \noindent- \textbf{Simbolo}: un castello di sabbia con un fulmine sopra\\
 - \textbf{Caratteristica}: Saggezza\\
-- \textbf{Tratti}: Superbia, Arroganza, Egoismo, Empatia, Gratitudine, Rispetto\\
+- \textbf{Tratti}: Superbia, Rancore, Egoismo, Empatia, Gratitudine, Rispetto\\
 - \textbf{Manifestazione}: suono di tempesta e rombo di frana\\
 - \textbf{Somma dei Tratti in comune 5 punti}: Non temi più le cadute. Puoi lanciare l'incantesimo Caduta Piuma 3 volte al giorno, solo su di te.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco plasma la pietra. Puoi lanciare l'incantesimo Passa Porta 1 volta al giorno.\\
@@ -13919,7 +13919,7 @@ Sotto vestiti dimessi e lisi, ma sempre puliti nasconde un fisico da combattente
 
 \noindent- \textbf{Simbolo}: Una spada tenuta verticalmente davanti a se\\
 - \textbf{Caratteristica}: Carisma\\
-- \textbf{Tratti}: Intransigenza, Responsabilità, Arroganza, Superbia, Perseveranza, Giustizia\\
+- \textbf{Tratti}: Intransigenza, Responsabilità, Sincerità, Superbia, Perseveranza, Giustizia\\
 - \textbf{Manifestazione}: il mantello o veste del Devoto diventa pulito e lucente\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Maledici il tuo avversario. Lanci una volta al giorno l'incantesimo Scagliare Maledizione. DC 20 per resistere.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Non vuoi essere legato o ammanettato. Due volte al giorno puoi lanciare solo su te stesso Libertà di Movimento.\\
@@ -13979,7 +13979,7 @@ Nethergal ha anche un altro ruolo è il Patrono dei sogni e delle visioni, divid
 
 \noindent- \textbf{Simbolo}: una piuma bianca cangiante\\
 - \textbf{Caratteristica}: Destrezza\\
-- \textbf{Tratti}: Sincerità, Viltà, Rancore, Responsabilità, Onestà, Perseveranza\\
+- \textbf{Tratti}: Sincerità, Indolenza, Rancore, Responsabilità, Onestà, Perseveranza\\
 - \textbf{Manifestazione}: cascata di piume, un oca in volo\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Puoi inviare un messaggio di massimo 144 caratteri ad un soggetto che puoi vedere entro 50 metri senza essere udito/visto. Una volta all'ora. Costo 1 Azione. Il soggetto deve comprendere la lingua usata.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Mettendo la mano su un libro ne apprendi il contenuto come se lo avessi letto. Un libro a settimana. Perdi le conoscenze così acquisite dopo una settimana. Tempo 1 round. La lingua scritta del tomo deve essere nota.\\
@@ -14011,7 +14011,7 @@ Molti capitani di ventura e ufficiali al comando sono Devoti di Nedraf. Il Devot
 
 \noindent- \textbf{Simbolo}: una mano forte, avvolta in una benda sporca di sangue che brandisce una spada\\
 - \textbf{Caratteristica}: Costituzione\\
-- \textbf{Tratti}: Perseveranza, Responsabilità, Gratitudine, Arroganza, Intransigenza, Superbia\\
+- \textbf{Tratti}: Perseveranza, Responsabilità, Gratitudine, Coraggio, Intransigenza, Superbia\\
 - \textbf{Manifestazione}: si spande nell'aria odore di sangue e metallo\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Puoi portare armature leggere senza penalità alla Prova di Magia\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Acquisisci un punto bonus su una Lista armi. Può essere nota o meno\\
@@ -14035,7 +14035,7 @@ Ha le sembianze di un piccolo uomo, dai vestiti sfarzosi e ricercati e dall'espr
 
 \noindent- \textbf{Simbolo}: Una daga appoggiata vicino ad un calice di vino\\
 - \textbf{Caratteristica}: Intelligenza\\
-- \textbf{Tratti}: Umiltà, Coraggio, Empatia, Responsabilità, Invidia, Avidità\\
+- \textbf{Tratti}: Umiltà, Coraggio, Empatia, Responsabilità, Invidia, Avarizia\\
 - \textbf{Manifestazione}: il suono di un brindisi o lo stappare di una bottiglia\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Puoi trasformare l'acqua in vino. Un litro al giorno. Costo 2 Azioni. 2 volte al giorno.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Una Azione Reazione, ottieni un bonus di +2d6 ad una prova di Competenza in quel round. 1 volta al giorno.\\
@@ -14064,7 +14064,7 @@ I suoi Devoti sono abili attori ed intrattenitori, spie sotto copertura, diploma
 
 \noindent- \textbf{Simbolo}: Una maschera teatrale bianca con solo la bocca aperta e gli occhi chiusi\\
 - \textbf{Caratteristica}: Carisma\\
-- \textbf{Tratti}: Viltà, Arroganza, Egoismo, Indifferenza, Ipocrisia, Empatia\\
+- \textbf{Tratti}: Indolenza, Lussuria, Egoismo, Indifferenza, Ipocrisia, Empatia\\
 - \textbf{Manifestazione}: il suono di una risata profonda e contagiosa\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Il tuo eloquio è già leggendario. +2 alle prove di Intrattenere.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Puoi lanciare Immagine Silenziosa 3 volte al giorno.\\
@@ -14088,7 +14088,7 @@ I Devoti di Orlaith spesso sono giudici e giustizieri, persone che hanno deciso 
 
 \noindent- \textbf{Simbolo}: Una mano stesa su un libro chiuso\\
 - \textbf{Caratteristica}: Forza\\
-- \textbf{Tratti}: Giustizia, Coraggio, Responsabilità, Arroganza, Indifferenza, Intransigenza, Rancore\\
+- \textbf{Tratti}: Giustizia, Coraggio, Responsabilità, Lussuria, Indifferenza, Intransigenza, Rancore\\
 - \textbf{Manifestazione}: l'immagine di una stadera, sbilanciata.\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Richiami a te 1 mastino (normale) che obbedisce ai tuoi comandi. Durata 1 minuto. Una volta al giorno. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Un paio di manette si manifesta attorno ai polsi della creatura (massimo taglia grande) entro 27 metri. Tiro Salvezza Riflessi DC 25 per annullare. Costo 2 Azioni. Una volta al giorno. Forza/Artista della Fuga DC 20 per liberarsi.\\
@@ -14116,7 +14116,7 @@ Spesso i Devoti di Rezh diventano esploratori, tombaroli, persone sempre alla ri
 
 \noindent- \textbf{Simbolo}: una pila di monete con un ratto vicino\\
 - \textbf{Caratteristica}: Intelligenza\\
-- \textbf{Tratti}: Avidità, Ipocrisia, Cinismo, Egoismo, Indifferenza, Invidia, Perseveranza\\
+- \textbf{Tratti}: Avarizia, Ipocrisia, Cinismo, Egoismo, Indifferenza, Invidia, Perseveranza\\
 - \textbf{Manifestazione}: un rumore di monete che cadono avvolge l'incantatore\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Sei un esperto di monete e gemme, nessun falsario può ingannarti. +1d6 alle prove di Consapevolezza e Conoscenza relative.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Usi le gemme come ricettacoli. Puoi scaricare un incantesimo di 3 livello o inferiore in una gemma, che deve avere valore minimo di 10mo x livello dell'incantesimo. La gemma conserva l'incantesimo per 6 ore. Per attivare la gemma usi 2 azioni e viene eseguito l'incantesimo che contiene consumando la gemma.\\
@@ -14155,7 +14155,7 @@ Mentre Efrem è il patrono della natura selvaggia, Shayalia incarna la devozione
 
 \noindent- \textbf{Simbolo}: un cuscino stropicciato sporco di sangue\\
 - \textbf{Caratteristica}: Carisma\\
-- \textbf{Tratti}: Cinismo, Empatia, Responsabilità, Arroganza, Ipocrisia, Rancore\\
+- \textbf{Tratti}: Lussuria, Cinismo, Empatia, Responsabilità, Ipocrisia, Rancore\\
 - \textbf{Manifestazione}: il Devoto è avvolto da un mantello di velluto nero\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: I tempi per preparare una pozione sono dimezzati. Gli incantesimi di Cura hanno effetto anche su animali e piante.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco è vita per la natura. I tuoi incantesimi di cura agiscono su animali e piante naturali in maniera massimizzata.\\
@@ -14195,7 +14195,7 @@ I Devoti di Sixiser sono spesso negromanti circondati da non morti ed altre crea
 
 \noindent- \textbf{Simbolo}: Un forziere straripante di ogni cosa che non si può chiudere\\
 - \textbf{Caratteristica}: Saggezza\\
-- \textbf{Tratti}: Pigrizia, Indifferenza, Intransigenza, Malizia, Viltà, Sincerità\\
+- \textbf{Tratti}: Ingordigia, Indifferenza, Intransigenza, Malizia, Indolenza, Sincerità\\
 - \textbf{Manifestazione}: due mani che circondano, come a nascondere, la testa dell'incantatore\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: acquisisci la visione crepuscolare fino 9 metri, o 18 metri se già presente.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: vedi nell'oscurità anche magica entro 9 metri. Individui automaticamente le trappole non magiche entro 3 metri da te.\\
@@ -14275,7 +14275,7 @@ Il Devoto di Tazher è il ladro, l'assassino, il bandito, chiunque viva per l'os
 
 \noindent- \textbf{Simbolo}: Lo scintillio della lama nel buio\\
 - \textbf{Caratteristica}: Destrezza\\
-- \textbf{Tratti}: Egoismo, Arroganza, Cinismo, Indifferenza, Superbia, Malizia, Perseveranza\\
+- \textbf{Tratti}: Egoismo, Malizia, Cinismo, Indifferenza, Superbia, Ipocrisia, Perseveranza\\
 - \textbf{Manifestazione}: l'ombra del Devoto prende vita muovendo l'arma\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Guadagni +2 alle prove di Furtività.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Una volta al giorno fai un attacco (senza penalità) in più. Una Azione Immediata.\\
@@ -14306,7 +14306,7 @@ Thaft è stato plasmato da Atmos.\\
 
 \noindent- \textbf{Simbolo}: Un libro aperto con un teschio sopra\\
 - \textbf{Caratteristica}: Saggezza\\
-- \textbf{Tratti}: Pazienza, Gentilezza, Giustizia, Perseveranza, Arroganza, Indifferenza	\\
+- \textbf{Tratti}: Pazienza, Gentilezza, Giustizia, Perseveranza, Rancore, Indifferenza	\\
 - \textbf{Manifestazione}: si sente il pianto di un bambino appena nato o il sospiro della morte\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Il tuo tocco è letale per i non morti. Un tuo tocco infligge 2d6 di danno ad un non morto. Costo 2 Azioni compreso il tocco. Fino a 3 volte al giorno.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco lenisce. Una volta al giorno puoi rimuovere Cecità o Sordità. Costo 2 Azioni.\\
@@ -14335,7 +14335,7 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 
 \noindent- \textbf{Simbolo}: Uno specchio opaco\\
 - \textbf{Caratteristica}: Carisma\\
-- \textbf{Tratti}: Ipocrisia, Viltà, Superbia, Pigrizia, Empatia, Cinismo, Indifferenza\\
+- \textbf{Tratti}: Ipocrisia, Indolenza, Superbia, Ingordigia, Empatia, Cinismo, Indifferenza\\
 - \textbf{Manifestazione}: schegge di specchio rotto tutto intorno al Devoto come un turbine\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Con un gesto puoi rinfrescare i tuoi vestiti e te stesso rendendoli puliti e profumati. Costo 1 Azione. 3 volte al giorno.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo sputo è velenoso. Se il Tiro per Colpire a tocco va a segno -2 Forza, non cumulabile. Durata 1 minuto. Tre volte al giorno. Costo 1 Azione.\\
@@ -14376,61 +14376,61 @@ I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizz
 
 \begin{multicols}{2}
 
+\medskip
 
-\noindent{
 
-\textbf{Cattalm}: Arroganza, Cinismo, Egoismo, Intransigenza, Superbia, Sincerità, Perseveranza\\
+\noindent \textbf{Rezh}: Avarizia, Ipocrisia, Cinismo, Egoismo, Indifferenza, Invidia, Perseveranza\\
 
-\textbf{Rezh}: Avidità, Ipocrisia, Cinismo, Egoismo, Indifferenza, Invidia, Perseveranza\\
+\textbf{Cattalm}: Cinismo, Superbia, Egoismo, Intransigenza, Lussuria, Sincerità, Perseveranza\\
 
-\textbf{Shayalia}: Cinismo, Responsabilità, Arroganza	Empatia, Ipocrisia, Rancore\\	
+\textbf{Gradh}: Coraggio, Gentilezza, Responsabilità, Rispetto, Sincerità, Superbia, Invidia\\
 
-\textbf{Gradh}: Coraggio, Gentilezza, Responsabilità, Rispetto, Sincerità, Arroganza, Invidia\\
+\textbf{Tazher}: Egoismo, Malizia, Cinismo, Indifferenza, Superbia, Ipocrisia, Perseveranza\\
 
-\textbf{Tazher}: Egoismo, Arroganza, Cinismo, Indifferenza, Superbia, Malizia, Perseveranza\\
+\textbf{Ljust}: Empatia, Coraggio, Pazienza, Rispetto, Sincerità, Perseveranza, Onestà.\\
 
-\textbf{Ljust}: Empatia, Coraggio, Pazienza, Rispetto, Sincerità, Perseveranza, Onestà\\
 \textbf{Gaya}: Generosità, Gentilezza, Sincerità, Cinismo, Invidia, Malizia\\	
 
-\textbf{Sumkjr}: Gentilezza, Coraggio, Generosità, Giustizia, Onestà, Sincerità, Superbia\\
+\textbf{Sumkir}: Gentilezza, Coraggio, Generosità, Giustizia, Onestà, Sincerità, Superbia\\
 
-\textbf{Orlaith}: Giustizia, Coraggio, Responsabilità, Arroganza, Indifferenza, Intransigenza, Rancore\\
+\textbf{Oralith}: Giustizia, Coraggio, Responsabilità, Lussuria, Indifferenza, Intransigenza, Rancore\\
 
-\textbf{Ledyal}: Gratitudine, Gentilezza, Empatia, Onestà, Pazienza, Umiltà\\	
+\textbf{Ledyal}: Gratitudine, Empatia, Gentilezza, Onestà, Pazienza, Umiltà\\	
 
-\textbf{Atmos}: Indifferenza, Giustizia, Perseveranza, Responsabilità, Rancore, Intransigenza\\	
+\textbf{Atmos}: Indifferenza, Giustizia, Perseveranza, Responsabilità, Rancore, Intransigenza.\\
 
-\textbf{Krondal}: Intransigenza, Arroganza, Responsabilità, Superbia, Perseveranza, Giustizia\\	
+\textbf{Orudjs}: Indolenza, Lussuria, Egoismo, Indifferenza, Ipocrisia, Empatia\\	
 
-\textbf{Belevon}: Invidia, Arroganza, Egoismo, Malizia, Empatia, Perseveranza, Generosità\\
+\textbf{Sixiser}: Ingordigia, Indifferenza, Intransigenza, Malizia, Indolenza, Sincerità\\	
 
-\textbf{Torbiorn}: Ipocrisia, Viltà, Superbia, Pigrizia, Empatia, Cinismo, Indifferenza
+\textbf{Krondal}: Intransigenza, Responsabilità, Sincerità, Superbia, Perseveranza, Giustizia\\	
 
-\textbf{Calicante}: Malizia, Rancore, Arroganza, Avidità, Cinismo, Egoismo, Superbia\\
+\textbf{Belevon}: Invidia, Lussuria, Egoismo, Malizia, Empatia, Perseveranza, Generosità\\
+
+\textbf{Torbiorn}: Ipocrisia, Indolenza, Superbia, Ingordigia, Empatia, Cinismo, Indifferenza\\
+
+\textbf{Shayalia}: Lussuria, Cinismo, Empatia, Responsabilità, Ipocrisia, Rancore\\	
+
+\textbf{Calicante}: Malizia, Rancore, Lussuria, Avarizia, Cinismo, Egoismo, Superbia.
 
 \textbf{Atherim}: Onestà, Empatia, Gratitudine, Responsabilità, Sincerità, Intransigenza\\	
 
-\textbf{Thaft}: Pazienza, Giustizia,  Gentilezza, Perseveranza, Arroganza, Indifferenza\\	
+\textbf{Thaft}: Pazienza, Gentilezza, Giustizia, Perseveranza, Rancore, Indifferenza	\\
 
-\textbf{Nedraf}: Perseveranza, Responsabilità, Gratitudine, Arroganza, Intransigenza, 
-Superbia\\	
-
-\textbf{Sixiser}: Pigrizia, Indifferenza, Intransigenza, Malizia, Viltà, Sincerità\\	
+\textbf{Nedraf}: Perseveranza, Responsabilità, Gratitudine, Coraggio, Intransigenza, Superbia\\	
 
 \textbf{Laydel}: Rancore, Perseveranza, Empatia, Intransigenza, Invidia, Cinismo\\	
 
 \textbf{Lynx}: Responsabilità, Coraggio, Onestà, Cinismo, Intransigenza, Rancore\\	
 
-\textbf{Efrem}: Rispetto, Indifferenza, Pigrizia, Arroganza, Onestà, Perseveranza\\	
+\textbf{Efrem}: Rispetto, Indifferenza, Pigrizia, Indolenza, Onestà, Perseveranza\\	
 
-\textbf{Nethergal}: Sincerità, Viltà, Rancore, Responsabilità, Onestà, Perseveranza\\	
+\textbf{Nethergal}: Sincerità, Indolenza, Rancore, Responsabilità, Onestà, Perseveranza\\	
 
-\textbf{Erondil}: Superbia, Arroganza, Egoismo, Empatia, Gratitudine, Rispetto\\	
+\textbf{Erondil}: Superbia, Rancore, Egoismo, Empatia, Gratitudine, Rispetto\\	
 
-\textbf{Nihar}: Umiltà, Coraggio, Empatia, Responsabilità, Invidia, Avidità\\	
+\textbf{Nihar}: Umiltà, Coraggio, Empatia, Responsabilità, Invidia, Avarizia\\	
 
-\textbf{Orudjs}: Viltà, Arroganza, Egoismo, Indifferenza, Ipocrisia, Empatia\\	
-}
 
 \end{multicols}
 
