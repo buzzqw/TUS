@@ -590,7 +590,7 @@ aggiornata versione POD 2024/07/31
 
 **0.88** aggiornata versione POD 2024/08/05
 
-0.88a  correzioni minori, 
+0.88a  correzioni minori, dettagli su costo pozioni di piu' alto livello,
 
 
 - aggiunti \label{} fino a piani
