@@ -590,7 +590,7 @@ aggiornata versione POD 2024/07/31
 
 **0.88** aggiornata versione POD 2024/08/05
 
-0.88a  correzioni minori, dettagli su costo pozioni di piu' alto livello,
+0.88a correzioni minori, dettagli su costo pozioni di piu' alto livello, recupero PF per riposo e' COS * CM o CA a scelta del giocatore, 
 
 
 - aggiunti \label{} fino a piani
@@ -608,7 +608,6 @@ Aggiungere immagini:
 - togliere abilta' supremo, aggiungere un attributo (relativa ad una caratteristica) alle abilita', ogni tot abilita' (5?) con quel attributo aumenta di uno. le abilita' si prendono a  1,1,2,3,5,7,9,11,13,15,17,19,20, farle diventare 1,1,2,3,5,7,9,11,13,15,17,19
 - suggerimento per il narratore, non usare lo screen
 - opportunista valutare se darlo a quali mostri
-- recupero punti ferita cos+2*ca+cm, trovare formula piu' semplice. Cos * lv/2 ?
 - ragionare su prova di magia. farla diventare una prova di arcana e contare i successi/multipli di 6 dal valore ?
 - stress, basso alto, bonus e malus, recupero
 - ipotesi togliere incantesimi di 7 8 9 livello
