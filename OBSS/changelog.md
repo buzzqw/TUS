@@ -592,6 +592,11 @@ aggiornata versione POD 2024/07/31
 
 0.88a correzioni minori, dettagli su costo pozioni di piu' alto livello, recupero PF per riposo e' COS * CM o CA a scelta del giocatore, 
 
+0.88b aggiornata versione POD 2024/08/08
+
+0.88b
+
+
 
 - aggiunti \label{} fino a piani
 
