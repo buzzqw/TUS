@@ -594,8 +594,11 @@ aggiornata versione POD 2024/07/31
 
 0.88b aggiornata versione POD 2024/08/08
 
-0.88b
+0.88b ordinati i tratti nei patroni per rilevanza, cambiato somma punti tratto necessaria a Sumkjir
 
+aggiornata versione POD 2024/08/09
+
+0.88c
 
 
 - aggiunti \label{} fino a piani
