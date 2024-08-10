@@ -598,7 +598,7 @@ aggiornata versione POD 2024/07/31
 
 aggiornata versione POD 2024/08/09
 
-0.88c
+0.88c dettagli su abilita' un colpo un morto, sangue puro, 
 
 
 - aggiunti \label{} fino a piani
