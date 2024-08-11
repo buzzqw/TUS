@@ -600,7 +600,7 @@ aggiornata versione POD 2024/08/09
 
 0.88c dettagli su abilita' un colpo un morto, sangue puro, 
 
-aggiornata versione POD 2024/08/10
+aggiornata versione POD 2024/08/10 x
 
 
 
