@@ -602,7 +602,7 @@ aggiornata versione POD 2024/08/09
 
 aggiornata versione POD 2024/08/10 x
 
-0.88c rimosso dalla prova di magia il sottrarre dadi in base a quante volte si e' preso adepto della magia, 
+0.88c rimosso dalla prova di magia il sottrarre dadi in base a quante volte si e' preso adepto della magia, aggiornato fare cadere l'avversario rimossa nota che chi fa di meno cade, 
 
 
 
