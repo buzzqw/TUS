@@ -606,7 +606,7 @@ aggiornata versione POD 2024/08/10 x
 
 aggiornata versione POD 2024/08/12
 
-
+0.88d 
 
 - aggiunti \label{} fino a piani
 
