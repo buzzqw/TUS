@@ -562,7 +562,7 @@ aggiornata versione POD 2024/07/07
 
 aggiornata versione POD 2024/07/08
 
-0.86d  aggiornato incantesimo allucinazione mortale - blocca persona avanzato - caduta piuma - camminare nell'aria  - capanna - cecita'/sordita' avanzata - Comprensione degli Scritti - comunione - comunione con la natura - confusione - eroismo - Esplosione Solare  - inaridire - individuazione del magico - intranciare - inviare - trucco della corda - viscido in unto - tocco vampirico - sciame di meteore - scagliare maledizione minore - 
+0.86d  aggiornato incantesimo allucinazione mortale - blocca persona avanzato - caduta piuma - camminare nell'aria  - capanna - cecita'/sordita' avanzata - Comprensione degli Scritti - comunione - comunione con la natura - confusione - eroismo - Esplosione Solare  - inaridire - individuazione del magico - intranciare - inviare - trucco della corda - viscido in unto - tocco vampirico - sciame di meteore - scagliare maledizione minore
 
 aggiornata versione POD 2024/07/12
 
@@ -574,7 +574,7 @@ aggiornata versione POD 2024/07/23
 
 aggiornata versione POD 2024/07/24
 
-0.87a aggiornati incantesimi ristorare superiore ed inferiore, massivo aggiornamento agli elenchi, 
+0.87a aggiornati incantesimi ristorare superiore ed inferiore, massivo aggiornamento agli elenchi
 
 aggiornata versione POD 2024/07/25
 
@@ -590,7 +590,7 @@ aggiornata versione POD 2024/07/31
 
 **0.88** aggiornata versione POD 2024/08/05
 
-0.88a correzioni minori, dettagli su costo pozioni di piu' alto livello, recupero PF per riposo e' COS * CM o CA a scelta del giocatore, 
+0.88a correzioni minori, dettagli su costo pozioni di piu' alto livello, recupero PF per riposo e' COS * CM o CA a scelta del giocatore
 
 0.88b aggiornata versione POD 2024/08/08
 
@@ -602,7 +602,7 @@ aggiornata versione POD 2024/08/09
 
 aggiornata versione POD 2024/08/10 x
 
-0.88c rimosso dalla prova di magia il sottrarre dadi in base a quante volte si e' preso adepto della magia, aggiornato fare cadere l'avversario rimossa nota che chi fa di meno cade, modificato gs massimo per animalia a cm/3+ volte che hai preso animalia
+0.88c rimosso dalla prova di magia il sottrarre dadi in base a quante volte si e' preso adepto della magia, aggiornato fare cadere l'avversario rimossa nota che chi fa di meno cade, modificato gs massimo per animalia a cm/2 + volte che hai preso animalia
 
 aggiornata versione POD 2024/08/12
 
