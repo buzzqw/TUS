@@ -608,6 +608,9 @@ aggiornata versione POD 2024/08/12
 
 0.88d 
 
+
+
+
 - aggiunti \label{} fino a piani
 
 Interdizione alla Morte
