@@ -246,7 +246,7 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 27/02/2023 aggiornata versione POD
 
-0.68 pubblicata versione 0.67, aggiornata copertina, dettagliato tiri salvezza e sensi in animalia, modificato valore passivo per trovare creature nascoste
+**0.68** pubblicata versione 0.67, aggiornata copertina, dettagliato tiri salvezza e sensi in animalia, modificato valore passivo per trovare creature nascoste
 
 27/02/2023 aggiornata versione POD
 
@@ -359,7 +359,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.78a aggiornata versione POD
 
-**0.78b** chiarimenti su salire gradini
+0.78b chiarimenti su salire gradini
 
 **0.79** pubblicata versione 0.78b, aggiornamento per pod
 
@@ -389,7 +389,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 **0.80** aggiornata copertina, cambiato peso razioni secche, chiarimenti su uso bandoliera, rivisto layout indici, metodo aggiuntivo per bere pozioni generiche, aggiunto incantesimo Palla di fango di Eithne, chiarimenti su sfondare e rompere oggetti, controllati valori per sfondare ed entrare, rilettura pericoli ambientali, allineata gestione soffocare ed affogare, corretti arrotondamenti piedi metri, allineate dimensioni mostro, uniformata portata
 
-**0.80** aggiornata versione POD
+0.80 aggiornata versione POD
 
 0.80a aggiunte due citazioni di Seneca, migliorie al layout, minute su oggetti maledetti, cambiato nome linguaggio Necril in Exspiram - Acquan in Aquar, Arian in Ictum - Terran in Tremus per ispirazione dagli equivalenti latini, chiarimenti su variante iniziativa, chiarimenti su iniziativa, aggiunto successo critico e fallimento critico al tiro salvezza di onda rovente, modificato critico magico per spruzzo colorato, chiarimenti minori su portata, corretto esempio magia selvaggia, aggiornato uomo albero
 
@@ -601,6 +601,8 @@ aggiornata versione POD 2024/08/09
 0.88c dettagli su abilita' un colpo un morto, sangue puro, 
 
 aggiornata versione POD 2024/08/10 x
+
+0.88c rimosso dalla prova di magia il sottrarre dadi in base a quante volte si e' preso adepto della magia, 
 
 
 
