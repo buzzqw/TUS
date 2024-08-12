@@ -602,7 +602,9 @@ aggiornata versione POD 2024/08/09
 
 aggiornata versione POD 2024/08/10 x
 
-0.88c rimosso dalla prova di magia il sottrarre dadi in base a quante volte si e' preso adepto della magia, aggiornato fare cadere l'avversario rimossa nota che chi fa di meno cade, 
+0.88c rimosso dalla prova di magia il sottrarre dadi in base a quante volte si e' preso adepto della magia, aggiornato fare cadere l'avversario rimossa nota che chi fa di meno cade, modificato gs massimo per animalia a cm/3+ volte che hai preso animalia
+
+aggiornata versione POD 2024/08/12
 
 
 
