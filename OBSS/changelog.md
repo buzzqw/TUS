@@ -606,7 +606,7 @@ aggiornata versione POD 2024/08/10 x
 
 aggiornata versione POD 2024/08/12
 
-0.88d 
+0.88d aggiornata abilita' a dadi truccati, aggiunta possibilita' in prova di magia di ignorare i dadi tirati, 
 
 
 
