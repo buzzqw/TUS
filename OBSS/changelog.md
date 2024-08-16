@@ -610,7 +610,7 @@ aggiornata versione POD 2024/08/12
 
 aggiornata versione POD 2024/08/13
 
-**0.89** chiarimenti su successo critico in arrampicata, chiarimenti su uso golden rules in inziativa, semplificato usi di imposizione delle mani e poteri connessi, 
+**0.89** chiarimenti su successo critico in arrampicata, chiarimenti su uso golden rules in inziativa, semplificato usi di imposizione delle mani e poteri connessi, rimosso vincolo da abilita' sapiente, aggiornato sangue puro, aggiornati requisiti di rappresaglia, 
 
 
 
