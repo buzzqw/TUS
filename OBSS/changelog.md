@@ -614,7 +614,7 @@ aggiornata versione POD 2024/08/13
 
 aggiornata versione POD 2024/08/16
 
-0.89a
+0.89a aggiornata abilita' Fedele, chiarimenti su Freccia chiamata freccia consegnata, 
 
 
 
