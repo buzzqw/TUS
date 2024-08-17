@@ -614,7 +614,7 @@ aggiornata versione POD 2024/08/13
 
 aggiornata versione POD 2024/08/16
 
-0.89a aggiornata abilita' Fedele, chiarimenti su Freccia chiamata freccia consegnata, chiarimenti su lista d'armi pugno vuoto, abilita' ali della fenice - gru d'argento - pugno potente - armatura della montagna d'argento - tempesta di furia, energia psichica - colpo psichico - raggio psichico, 
+0.89a aggiornata abilita' Fedele, chiarimenti su Freccia chiamata freccia consegnata, chiarimenti su lista d'armi pugno vuoto, abilita' ali della fenice - gru d'argento - pugno potente - armatura della montagna d'argento - tempesta di furia, energia psichica - colpo psichico - raggio psichico, aggiornato incantesimo comando, 
 
 
 
