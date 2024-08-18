@@ -175,7 +175,7 @@ boxrule=0.3pt
 
 
 \begin{document}
-\def \versione {0.89a} \fontsize{10}{12}\selectfont
+\def \versione {0.90} \fontsize{10}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
 
@@ -6642,7 +6642,7 @@ Quando un personaggio lancia qualsiasi incantesimo, si usano le seguenti regole 
 
 \begin{center}
 
-	\includegraphics[width=0.7\linewidth]{immagini/Hex32.png}
+	\includegraphics[width=0.6\linewidth]{immagini/Hex32.png}
 
 	\emph{The Witchcraft Art of Jacques de Gheyn II}
 
@@ -6704,7 +6704,7 @@ Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie 
 \emph{Fuoco} (FOR) Gli incantesimi più pericolosi sono qua dentro con tutto ciò che serve a bruciare ed incenerire.
 
 \begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/Leonids-1833.png}
+	\includegraphics[width=0.6\linewidth]{immagini/Leonids-1833.png}
 
 	\emph{The most famous depiction of the famous 1833 Leonids \hyperlink{sciamedimeteore}{Meteor Storm} (Sciame di Meteore!)}
 \end{center}
@@ -6730,6 +6730,8 @@ Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie 
 \emph{Universale} alcuni incantesimi sono capisaldi della magia in se e come tali accessibili a tutti gli incantatori. Per accedere agli incantesimi contenuti in questa Lista di Magia è necessario avere almeno un punto in Competenza Magica. Il massimo livello di incantesimi lanciabile è pari numero di volte che si è presa l'Abilità Adepto della Magia, con un minimo di 1.
 
 \end{itemize}
+
+\smallskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}{Fate capire che ogni Lista di Magia caratterizza il personaggio in maniera univoca. Le Liste di Magia prese danno uno spessore ed un ruolo diverso tra loro.
 }\end{narratore}
@@ -6793,8 +6795,14 @@ Se un incantesimo indica che la componente materiale viene consumata dall'incant
 Un incantatore deve avere una mano libera per avere accesso a queste componenti, ma può essere la stessa mano utilizzata per eseguire le componenti somatiche.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-		Per una gestione più immediata dei componenti potete sostituire i componenti indicati consumando in polvere di gemme un equivalente in  monete d'oro pari a 100 * il quadrato del livello dell'incatesimo ($100*(LV^2)$).
+Per una gestione più immediata dei componenti potete sostituire i componenti indicati consumando in polvere di gemme un equivalente in  monete d'oro pari a 100 * il quadrato del livello dell'incatesimo ($100*(LV^2)$).
 \end{narratore}\end{changemargin}
+
+\medskip
+
+\textbf{Verbale (V)}\index{Componenti Incantesimi}
+
+La componente Verbale rappresenta il canto, le parole, i suoni usati per attivare la sintonia con il Patrono e con la Magia. Se il personaggio è impossibilitato a parlare perché ha un bavaglio o qualcosa che gli ostruisce la bocca allora non può formulare incantesimi con componente Verbale.
 
 \subsubsection{Recuperare da morente}\index{Recuperare da morente}\label{magieessereucciso}\index{Incantesimi, Inabile}
 
@@ -6827,7 +6835,7 @@ Incantesimi come Onda rovente e cono di freddo coprono un'area, permettendogli d
 La descrizione di un incantesimo specifica la sua area di effetto, che di solito rientra in una di queste cinque forme: cilindro, cono, cubo, linea o sfera. Ogni area di effetto ha un punto di origine, un luogo da cui si manifesta l'energia dell'incantesimo. Le regole per ciascuna forma specificano come posizionare il suo punto di origine. Di solito il punto di origine è un punto nello spazio, ma alcuni incantesimi hanno un'area la cui origine è una creatura o un oggetto. Il punto di origine deve essere sempre valido.
 
 \begin{center}
-	\includegraphics[width=0.55\linewidth]{immagini/3dforme.png}
+	\includegraphics[width=0.4\linewidth]{immagini/3dforme.png}
 
 	\emph{Cono, Sfera, Cilindro, Cubo}
 \end{center}
@@ -6914,19 +6922,18 @@ Sommate a CM le volte che avete preso Adepto della Magia e dividete il risultato
 Se Adepto della Magia non è stato preso in quella lista allora il livello massimo di incantesimi lanciabili è 1.
 
 
+\begin{center}
+	\includegraphics[width=0.73\linewidth]{immagini/Arthur-Pyle_The_Enchanter_Merlin.png}
+	
+	\emph{Merlin. Howard Pyle, The Story of King Arthur and His Knights (1903)}
+\end{center}
+
 \subsubsection{Opzionale - Magia Suprema}\index{It's over 9000!}\index{Opzionale - Magia Suprema}
 \label{opzionalemagiasuprema}\hypertarget{opzionalemagiasuprema}{}
 
 - \textbf{Magia Suprema}\index{Magia suprema}\hypertarget{magiasuprema}{}: se si vuole che gli incantatori di alto livello dominino la magia fate che ogni 6 punti di Competenza Magica il giocatore possa ignorare un dado tirato, in aggiunta a quelli dati da Adepto della Magia
 
 \noindent- \textbf{Magia per tutti}\index{Magia per tutti}\label{magiapertutti}: invece che ogni 6 punti assegnati in Competenza Magica l'incantatore apprende una Lista di Magia ogni 2.
-
-
-\begin{center}
-	\includegraphics[width=0.73\linewidth]{immagini/Arthur-Pyle_The_Enchanter_Merlin.png}
-	
-	\emph{Merlin. Howard Pyle, The Story of King Arthur and His Knights (1903)}
-\end{center}
 
 \subsubsection{Prova di Magia}\index{Prova di Magia}\index{Successo critico magico}\index{Fallimento critico magico}\label{magieprovadimagia}\index{Incantesimi, Prova di Magia}
 
@@ -13727,11 +13734,11 @@ Nessuno ha una memoria tanto buona da poter essere un perfetto bugiardo. (Abraha
 
 E' il Patrono che meglio incarna la bugia e la finzione al fine di un proprio tornaconto. Lui ama solo se stesso. E' un narcisista che si circonda solo di persone che lo assecondano e lo adulano. Aborrisce la solitudine ma allo stesso tempo odia essere toccato da qualcuno.
 
-E' sempre alla ricerca di nuove cose, di oggetti meravigliosi che scambia e ricambia con altri oggetti. Gli piace discutere e mercanteggiare, controbattere e portare fino allo stremo la vendita.
+E' sempre alla ricerca di nuove cose, di oggetti meravigliosi che scambia e ricambia con altri oggetti. Gli piace discutere e mercanteggiare fino ad ottenere sempre quello che vuole a costo della vita altrui.
 
-Dall'aspetto di un giovane ragazzo incarna perfettamente una pericolosa canaglia.
+Belevon è un orrendo e deforme Patrono adorato da abiette creature delle caverne più profonde, invidiose di quanto posseduto dagli altri.
 
-Il Devoto di Belevon è ben descritto dal mercante ricco e curioso che mai lascia perdere una occasione di trattare merci nuove. Non è spinto dalla cupidigia o dall'accumulo bensì dall'Arte del commercio e dello scambio.\\
+Il Devoto di Belevon è ben descritto da un uomo lucertola circondato da chincaglieria e resti umani.\\
 
 \noindent- \textbf{Simbolo}: Una gabbia dorata\\
 - \textbf{Caratteristica}: Intelligenza\\
@@ -13763,7 +13770,7 @@ Cattalm adora il chaos che manifesta nei modi più violenti con terremoti, alluv
 
 Ljust non poteva non intervenire nella creazione di un Patrono così esplicitamente malvagio e, di nascosto da Calicante, instillò in Cattalm l'amore e protezione per i bambini. Cattalm distrugge, avvelena, indebolisce ma non i bambini, neanche indirettamente, piuttosto si attiva lui stesso per annullare i malefici causati dalla sua natura.
 
-E' già capitato che interi villaggi venissero inondati e fossero trovati sui tetti in legno a modo di chiatte tutti i piccoli.
+Nella terra di Curyan e Tyan i popoli e creature più barbare adorano Cattalm, orde sterminatrici razziano villaggi e rapiscono i bambini.
 
 Ogni qual volta succede una calamità si suole dire che \emph{Cattalm ha battuto il piede}.\\
 
@@ -13791,11 +13798,13 @@ E' il Patrono di chi fa della natura la propria casa. Incarna in sé gli aspetti
 
 Efrem si prefigge di difendere la Natura dalla contaminazione dell'uomo, da questa specie infestante che distrugge tutto ciò che incontra.
 
-I Devoti di Efrem. chiamati anche druidi\index{Druido}, sono legati maggiormente all'elemento naturale. Manipolano la magia principalmente elementale e si difendono o attaccano usando anche animali e creature naturali. I più potenti costringendo anche i Draghi alla ubbidienza.
+I Devoti di Efrem. chiamati anche druidi\index{Druido}, sono legati maggiormente all'elemento naturale. Manipolano la magia principalmente elementale e si difendono o attaccano usando anche animali e creature naturali. Si dice che i più potenti costringano anche i Draghi alla ubbidienza.
 
 I Devoti di Efrem hanno l'obiettivo supremo di proteggere gli animali e le piante, i luoghi e tutto ciò che è naturale e non artificiale. Solitamente solitario e scontroso non riesce a capire il perché dell'odio che, dal suo punto di vista, l'uomo scarica su Yeru.
 
-Un Devoto di Efrem rispetta la vita come la morte, nel processo naturale che è l'evoluzione ed il ciclo vitale. A volte decide di stabilirsi in un certo ambiente e lo elegge come suo territorio e come fosse la sua casa lo protegge. Altre volte decide di essere ramingo ed intervenire in tutta Yeru per proteggere le sue amate piante ed animali.\\
+Un Devoto di Efrem rispetta la vita come la morte, nel processo naturale che è l'evoluzione ed il ciclo vitale. A volte decide di stabilirsi in un certo ambiente e lo elegge come suo territorio e come fosse la sua casa lo protegge. Altre volte decide di essere ramingo ed intervenire in tutta Yeru per proteggere le sue amate piante ed animali.
+
+Nelle terre più desolate, nelle regioni più naturali i Devoti di Efrem costruiscono utopie tra umanoidi e animali, dove l'equilibrio viene mantenuto con il sangue di qualsiasi che si ribelli al loro volere.\\
 
 \noindent- \textbf{Simbolo}: Una staffa con un rampicante attorcigliato attorno\\
 - \textbf{Caratteristica}: Costituzione\\
@@ -13823,7 +13832,8 @@ Pur con fatica perché se il risultato finale non lo soddisfa scatena i suoi ful
 Ordinato ed esuberante è il signore delle tempeste, dei tuoni e dei fulmini, dei terremoti e distruzioni. Ama circondarsi del fragore del tuono, del rombo della terra che si sgretola. Sa essere distruttivo verso coloro che non rispettano Yeru.
 Ha braccia e petto ricoperti da tatuaggi quasi argentei che narrano le leggende della Terra e dell'Aria.
 
-I Devoti di Erondil sono gli ingegneri dell'impossibile, ogni qual volta si deve sfidare la materia, la gravità e la stessa ragione un Devoto di Erondil troverà pane per i suoi denti, troverà la sfida adatta ad un Costruttore dell'Impossibile.\\
+I Devoti di Erondil sono gli ingegneri dell'impossibile.\\
+
 
 \noindent- \textbf{Simbolo}: un castello di sabbia con un fulmine sopra\\
 - \textbf{Caratteristica}: Saggezza\\
@@ -13856,11 +13866,13 @@ Patrono di Acqua e Fuoco, nelle profondità della terra, dove acqua e lava si in
 
 Dipinge mescolando il caldo ed il freddo. L'acqua cristallina ed impetuosa al fuoco intrigante ed ardente. Gelosa del bello e delle arti tiene tutte le sue opere al sicuro in un ordine quasi maniacale e protette. Da vera artista utilizza gli elementi per far risplendere le meraviglie della natura. Gaya è la pittrice di tramonti e delle tempeste.
 
-I Devoti di Gaya sono artisti volubili e sopra le righe. Sono coloro che ricreano la magia dell'alba o del tramonto o del mare in tempesta nelle loro opere, sono coloro che mettono poesia e follia nella normalità.\\
+I Devoti di Gaya sono artisti volubili e sopra le righe. Sono coloro che ricreano la magia dell'alba o del tramonto o del mare in tempesta nelle loro opere, sono coloro che mettono poesia e follia nella normalità.
+
+Ma Gaya ha anche un lato molto più subdolo e violento, una vena di follia malvagia che adora portare distruzione con fiamme e acqua. Nelle profondità delle caverne creature affini all'acqua od al fuoco adorano Gaya e uccidono chiunque non sia d'accordo con loro.\\
 
 \noindent- \textbf{Simbolo}: un pennello sul cielo\\
 - \textbf{Caratteristica}: Intelligenza\\
-- \textbf{Tratti}: Generosità, Gentilezza, Sincerità, Cinismo, Invidia, Intransigenza, Superbia\\
+- \textbf{Tratti}: Generosità, Gentilezza, Sincerità, Cinismo, Invidia, Malizia, Superbia\\
 - \textbf{Manifestazione}: spire di fuoco e acqua avvolgono all'incantatore\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Puoi creare fino a 5 litri di acqua o 1 litro di liquore di buona qualità. Una volta al giorno. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo metabolismo non teme il freddo. Resisti al Danno magico da freddo e sei immune a quello naturale.\\
@@ -13886,16 +13898,18 @@ I Devoti di Gaya sono artisti volubili e sopra le righe. Sono coloro che ricrean
 La libertà, Sancio, è uno dei più preziosi doni che i cieli abbiano mai dato agli uomini; né i tesori che racchiude la terra né che copre il mare sono da paragonare ad essa; per la libertà, come per l'onore, si può e si deve mettere a repentaglio la vita. (Miguel de Cervantes)
 }\end{enfasi}\end{changemargin}
 
-E' un Patrono potente ma schivo e riservato. Si tiene in disparte, fuori dai giochi finché non percepisce la privazione della libertà.
+Krondal il folle, Krondal l'assassino, Krondal il salvatore.
 
-Non può vedere nel futuro, non può conoscere le persone ma il suo formidabile istinto lo fa diventare il combattente più temibile che si possa incontrare. Coraggioso fin quasi all'avventato, agisce in battaglia senza paura. Dallo spirito buono, Krondal entra in campo nei momenti più importanti, quando non è una situazione a decidersi ma il futuro della vita, della propria libertà personale.
+Questi e molti altri sono gli appellativi di Krondal, il Patrono che non potrai mai veramente capire completamente.
 
-Krondal, la furia cieca, nutre un profondo rispetto per la libertà ed è profondamente contrario ad ogni estremismo, razzismo o dittatura.
+Krondal abbraccia lo spirito anarchico e libero nella maniera più assoluta. Tutti secondo Krondal devono fare solo ciò che vogliono.
 
-Un Devoto di Krondal è tipicamente una guardia del corpo, un protettore, lo sceriffo che sa e deve decidere per il bene del suo paese, costi quello che costi.
-Un Devoto di Krondal non giudica le persone o i fatti in base al loro contesto bensì si attiene alla sua etica di protezione e libertà.
+Il suo motto è \emph{Nessuno conosce Nessuno} perché non puoi sapere il futuro e quello che ti aspetta.
 
-Sotto vestiti dimessi e lisi, ma sempre puliti nasconde un fisico da combattente.\\
+Krondal nutre un profondo rispetto per la libertà e non può criticare le scelte, estreme o meno che vengano fatte, eppure per suo dettato divino perseguita intransigente per portare giustizia.
+
+Un Devoto di Krondal è tipicamente una guardia del corpo, un protettore, lo sceriffo al quale non interessano i motivi della scelta ma che sa giudicare le azioni compiute.\\
+
 
 \noindent- \textbf{Simbolo}: Una spada tenuta verticalmente davanti a se\\
 - \textbf{Caratteristica}: Carisma\\
@@ -13991,7 +14005,7 @@ Molti capitani di ventura e ufficiali al comando sono Devoti di Nedraf. Il Devot
 
 \noindent- \textbf{Simbolo}: una mano forte, avvolta in una benda sporca di sangue che brandisce una spada\\
 - \textbf{Caratteristica}: Costituzione\\
-- \textbf{Tratti}: Perseveranza, Responsabilità, Coraggio, Intransigenza, Gratitudine, Superbia, Cinismo\\	\\
+- \textbf{Tratti}: Perseveranza, Responsabilità, Coraggio, Intransigenza, Gratitudine, Superbia, Cinismo\\
 - \textbf{Manifestazione}: si spande nell'aria odore di sangue e metallo\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Puoi portare armature leggere senza penalità alla Prova di Magia\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Acquisisci un punto bonus su una Lista armi. Può essere nota o meno\\
@@ -14009,7 +14023,7 @@ Molti capitani di ventura e ufficiali al comando sono Devoti di Nedraf. Il Devot
 Che cos'è un eroe? È un individuo dotato di un grande talento e straordinario coraggio, che sa scegliere il bene al posto del male, che sacrifica se stesso per salvare gli altri, ma soprattutto... che agisce quando ha tutto da perdere e nulla da guadagnare. (Lo chiamavano Jeeg Robot, film)
 }\end{enfasi}\end{changemargin}
 
-E' il Patrono degli eroi per caso. Ponderato e tranquillo è amante del buon vino e del gozzovigliare. E' colui che non sceglieresti mai come compagno d'armi a causa del suo aspetto \emph{comune} e del suo atteggiamento goliardico. Ma poi al momento di esserci, di combattere, di far la differenza ecco che strabilia tutti e risolve la partita.
+E' il Patrono degli eroi per caso. Ponderato e tranquillo è amante del buon vino e del gozzovigliare. E' colui che non sceglieresti mai come compagno d'armi a causa del suo aspetto \emph{comune} e del suo atteggiamento goliardico. Ma poi al momento di esserci, di combattere, di far la differenza ecco che con un colpo fortunato risolve la sfida.
 
 Ha le sembianze di un piccolo uomo, dai vestiti sfarzosi e ricercati e dall'espressione guardinga ed allegra. Si protegge sempre e a qualunque costo, mostrando al mondo esattamente ciò che il mondo vuole vedere. Controlla attentamente la realtà attorno a sé e anche se è sempre più facile vederlo con un calice in mano, se non ci si lascia ingannare dalle apparenze si noterà come i suoi occhi non perdano mai di vista il pericolo, il problema. Sta attento, non si fida di nulla e di nessuno. Ha fatto dei suoi difetti i suoi punti di forza.\\
 
@@ -14018,7 +14032,7 @@ Ha le sembianze di un piccolo uomo, dai vestiti sfarzosi e ricercati e dall'espr
 - \textbf{Tratti}: Umiltà, Coraggio, Empatia, Responsabilità, Invidia, Avarizia, Ipocrisia\\
 - \textbf{Manifestazione}: il suono di un brindisi o lo stappare di una bottiglia\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Puoi trasformare l'acqua in vino. Un litro al giorno. Costo 2 Azioni. 2 volte al giorno.\\
-- \textbf{Somma dei Tratti in comune a 10 punti}: Una Azione Reazione, ottieni un bonus di +2d6 ad una prova di Competenza in quel round. 1 volta al giorno.\\
+- \textbf{Somma dei Tratti in comune a 10 punti}: Una Azione Reazione, ottieni un bonus di +2d6 ad una prova di Competenza in quel round. 3 volta al giorno.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: La tua arma leggera causa sempre un danno critico quando colpisci. Il bonus è sempre attivo.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: I manicaretti che prepari sono buonissimi. Chiunque si sazi con una pietanza da te preparata recupera 2d6 Punti Ferita e viene curato dai veleni anche magici. Max 6 persone al giorno. 0.5 ore di preparazione per persona.\\
 - \textbf{Elementi/B}: Energia Positiva, Fuoco\\
@@ -14033,14 +14047,19 @@ Ha le sembianze di un piccolo uomo, dai vestiti sfarzosi e ricercati e dall'espr
 Nulla è più facile che illudersi. Perché l'uomo crede vero ciò che desidera. (Demostene)
 }\end{enfasi}\end{changemargin}
 
+Orudjs striscia nelle profondità delle caverne, circondato da gemme, tesori, servitori zelanti.
 
-Ovvero il Patrono della illusione e della finzione. Colui che solo con il dono della parola, il gesticolare delle mani, la voce carismatica e lo sguardo intrigante riesce a vendere ogni sua parola come verità assoluta. Adora il teatro per ciò che per lui è, la rappresentazione della falsità umana, l'essere tante persone ed in realtà nessuna. Adora la politica ed i suoi intrighi. Finge di ascoltare chi gli sta vicino ma in realtà non è interessato alle storie altrui perché le sue sono sempre le migliori.
+Descritto come una melma informe da chi ha percepito una parvenza della forma, Orudjs è Patrono della illusione e della finzione.
 
-E' un codardo senza limiti e le poche verità che dice, e sono veramente rare, sono da lui dette solo per salvarsi.
+Con il solo pensiero convince chiunque di qualsiasi cosa voglia. Adora il teatro per ciò che per lui è, la rappresentazione della falsità, l'essere tante persone ed in realtà nessuna.
 
-Dall'aspetto piuttosto ordinario e quasi scontato appena apre bocca ed inizia i suoi racconti riesce a calamitare l'attenzione dell'intera sala. Possiede infatti una voce calda e suadente che accompagnata alla buonissima dialettica da lui posseduta, incanta ogni orecchio in ascolto.
+Dove domina regna il caos dove ognuno è convinto di essere nel giusto e guerre tra clan nutrano la sua fame senza fine.
 
-I suoi Devoti sono abili attori ed intrattenitori, spie sotto copertura, diplomatici o politicanti.\\
+Finge di ascoltare chi gli sta vicino ma in realtà non è interessato alle storie altrui perché le sue sono sempre le migliori. E' un codardo senza limiti ed un bugiardo con sempre un tornaconto.
+
+I suoi Devoti sono creature deboli, che hanno bisogno di un padrone, di una voce che gli dica costantemente di cosa hanno bisogno e cosa vogliono.
+
+Ma anche abili attori ed intrattenitori, spie sotto copertura, diplomatici o politicanti.\\
 
 \noindent- \textbf{Simbolo}: Una maschera teatrale bianca con solo la bocca aperta e gli occhi chiusi\\
 - \textbf{Caratteristica}: Carisma\\
@@ -14064,7 +14083,9 @@ Io sono fatto per combattere il crimine, non per governarlo. Non è ancora giunt
 
 Ovvero il Patrono della Giustizia e della Vendetta. Lui segue pedissequamente le leggi e pretende che i suoi sottoposti eseguano senza alcuna discussione gli ordini impartiti. E' mosso da uno spirito gentile e buono che però tiene ben nascosto dietro le sue azioni dirette ed incisive, spudorate e mortali. Orlaith è vendetta che si fa legge. Agisce per senso di giustizia con i suoi metodi. Di lui attirano il portamento e lo sguardo fiero.
 
-I Devoti di Orlaith spesso sono giudici e giustizieri, persone che hanno deciso di portare la giustizia ovunque, perché Orlaith non può stare fermo, c'è sempre qualcuno da giudicare e punire.\\
+I Devoti di Orlaith spesso sono giudici e giustizieri, persone che hanno deciso di portare la giustizia ovunque, perché Orlaith non può stare fermo, c'è sempre qualcuno da giudicare e punire.
+
+Attenti ai Seguaci di Orlaith, lussuria, rancore ed indifferenza li rendono odiosi e mal disposti verso tutti.
 
 \noindent- \textbf{Simbolo}: Una mano stesa su un libro chiuso\\
 - \textbf{Caratteristica}: Forza\\
@@ -14072,7 +14093,7 @@ I Devoti di Orlaith spesso sono giudici e giustizieri, persone che hanno deciso 
 - \textbf{Manifestazione}: l'immagine di una stadera, sbilanciata.\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Richiami a te 1 mastino (normale) che obbedisce ai tuoi comandi. Durata 1 minuto. Una volta al giorno. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Un paio di manette si manifesta attorno ai polsi della creatura (massimo taglia grande) entro 27 metri. Tiro Salvezza Riflessi DC 25 per annullare. Costo 2 Azioni. Una volta al giorno. Forza/Artista della Fuga DC 20 per liberarsi.\\
-- \textbf{Somma dei Tratti in comune a 15 punti}: Crei un raggio di Luce lungo 27 metri e largo pochi centimetri. Ogni creatura attraversata subisce 5d6 di danno, DC 25 Riflessi per dimezzare. Una volta al giorno. Costo 2 Azioni.\\
+- \textbf{Somma dei Tratti in comune a 15 punti}: Crei un raggio di Luce lungo 27 metri e largo pochi centimetri. Ogni creatura attraversata subisce 8d6 di danno, DC 25 Riflessi per dimezzare. Una volta al giorno. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Il tuo udito è solo per la verità. Intorno a te per 3 metri, te compreso, è sempre attiva Zona di Verità.\\
 - \textbf{Elementi/B}: Luce, Suono\\
 - \textbf{Vantaggio}: Senso comune\\
@@ -14089,14 +14110,13 @@ L'avidità, non trovo una parola migliore, è valida, l'avidità è giusta, l'av
 
 Il Patrono che disprezza tutto. Rezh ama, vuole, tocca, rimira solo le sue monete lucide e brillanti. Non sono mai abbastanza, nessuna ricchezza è mai sufficiente per lei. Rezh, l'avara tiene tutto per sè, non conosce compassione, non conosce carità, non conosce condivisione. La sua fame di denaro, di ricchezze la rende prona a qualsiasi bassezza. Disprezza tutto e tutti e giudica tutto e tutti seguendo solo il suo personale metro di giudizio. In ogni moneta c'è un pò di Rezh. Nella ossidatura di ogni moneta si può vedere l'impronta di Rezh.
 
-Se il denaro compra la libertà Rezh deve accumularne ancora e ancora se mai sarà abbastanza.
+Nelle profondità delle caverne i devoti di Rezh scavano cercando tesori, profanano catacombe e cacciano, cacciano ed uccidono chiunque abbia con se qualcosa di prezioso, anche il migliore amico.
 
-I Devoti di Rezh solitamente sono scelti da lei tra le fila dei più avidi e ricchi. Il loro scopo è di accumulare ricchezze, sempre di più.
-Spesso i Devoti di Rezh diventano esploratori, tombaroli, persone sempre alla ricerca di un tesoro e di una moneta in più.\\
+Tra gli umani i Devoti di Rezh diventano esploratori, tombaroli, persone sempre alla ricerca di un tesoro e di una moneta in più.\\
 
 \noindent- \textbf{Simbolo}: una pila di monete con un ratto vicino\\
 - \textbf{Caratteristica}: Intelligenza\\
-- \textbf{Tratti}:Avarizia,	Indifferenza, Egoismo, Invidia, Ipocrisia, Cinismo, Perseveranza\\
+- \textbf{Tratti}: Avarizia, Indifferenza, Egoismo, Invidia, Ipocrisia, Cinismo, Perseveranza\\
 - \textbf{Manifestazione}: un rumore di monete che cadono avvolge l'incantatore\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Sei un esperto di monete e gemme, nessun falsario può ingannarti. +1d6 alle prove di Consapevolezza e Conoscenza relative.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Usi le gemme come ricettacoli. Puoi scaricare un incantesimo di 3 livello o inferiore in una gemma, che deve avere valore minimo di 10mo x livello dell'incantesimo. La gemma conserva l'incantesimo per 6 ore. Per attivare la gemma usi 2 azioni e viene eseguito l'incantesimo che contiene consumando la gemma.\\
@@ -14128,7 +14148,7 @@ I Devoti di Shayalia sono spie, figli bastardi, amanti di potenti signori che ag
 Ljust disgustata dalla visione di un Patrono del genere instillò in Shayalia l'amore e passione per le piante ed animali. E così molti dei più famosi botanici, erboristi e zoologi sono Devoti di Shayalia, forse le uniche cose che Shayalia veramente può amare.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-Mentre Efrem è il patrono della natura selvaggia, Shayalia incarna la devozione e l'amore per la natura. Il primo sovraintende dall'alto la natura incontaminata, la seconda si cala e diventa tutt'uno con essa costruendo magnifici giardini.
+Mentre Efrem è il patrono della natura selvaggia, Shayalia incarna la devozione e l'amore umano per la natura. Il primo sovraintende dall'alto la natura incontaminata, la seconda si cala e diventa tutt'uno con essa costruendo magnifici giardini.
 \end{narratore}\end{changemargin}
 
 \medskip
@@ -14248,11 +14268,13 @@ Il Patrono delle Ombre; colui che silenzioso, ti uccide. Non saprai mai il perch
 
 Doppiogiochista dall'animo cattivo, chiedi il suo aiuto solo se sei disposto a pagarne il prezzo che lui e lui solo deciderà.
 
-Vive di notte, vive la notte. Le ombre sono le sue amiche e la tenebra il suo mantello. Profondamente individualista con un carattere scontroso e permaloso, non ha amici, non intrattiene relazioni di alcun tipo.
+Vive di oscurità e sangue. Le ombre sono le sue amiche e la tenebra il suo mantello. 
+
+Si circonda di assassini, mercenari, chiunque uccida senza provare sentimenti. Nelle profondità del sottosuolo nutre i suoi adepti di dolore, sangue e morte.
 
 Ljust inorridita da tanto odio e nichilismo instillò nel Patrono il rispetto per i morti. Un Devono si Tazher non si accanirà contro un defunto ne violerà il suo cadavere. Molti cacciatori di non morti sono devoti di Tazher.
 
-Il Devoto di Tazher è il ladro, l'assassino, il bandito, chiunque viva per l'oscurità ed il proprio tornaconto. Un Devoto di Tazher è estremamente pericoloso in combattimento.\\
+L'umano Devoto di Tazher è il ladro, l'assassino, il bandito, chiunque viva per l'oscurità ed il proprio tornaconto. Un Devoto di Tazher è estremamente pericoloso in combattimento.\\
 
 \noindent- \textbf{Simbolo}: Lo scintillio della lama nel buio\\
 - \textbf{Caratteristica}: Destrezza\\
@@ -14310,13 +14332,15 @@ Il Patrono che meglio incarna il concetto \emph{non è mai abbastanza}. Alto, be
 
 Nulla è mai abbastanza per lui. Nessuno è mai alla sua altezza. Ed eccolo che con arroganza e ironia va a modificare tutto il modificabile per poter placare questa profonda insoddisfazione. Qualora il risultato finale raggiunto non lo soddisfi, e accade molto spesso, ecco che prende il sopravvento il suo cinismo e distrugge tutto senza curarsi della sofferenza che sta arrecando a chi gli sta attorno.
 
+Nelle lande abbandonate il Devoto di Torbiorn è il Tiranno dal pugno di ferro che agisce solo per proprio desiderio e piacere senza curarsi di nessun'altro.
+
 Il Devoto di Torbiorn è il tipico aristocratico ricco e svogliato,colui che cerca sempre la strada più facile e meno rischiosa.
 
 Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovamento.\\
 
 \noindent- \textbf{Simbolo}: Uno specchio opaco\\
 - \textbf{Caratteristica}: Carisma\\
-- \textbf{Tratti}: Ipocrisia, Indolenza, Superbia, Ingordigia, Empatia, Cinismo, Indifferenza\\
+- \textbf{Tratti}: Ipocrisia, Indolenza, Superbia, Ingordigia, Cinismo, Indifferenza, Empatia\\
 - \textbf{Manifestazione}: schegge di specchio rotto tutto intorno al Devoto come un turbine\\
 - \textbf{Somma dei Tratti in comune a 5 punti} punti: Con un gesto puoi rinfrescare i tuoi vestiti e te stesso rendendoli puliti e profumati. Costo 1 Azione. 3 volte al giorno.\\
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo sputo è velenoso. Se il Tiro per Colpire a tocco va a segno -2 Forza, non cumulabile. Durata 1 minuto. Tre volte al giorno. Costo 1 Azione.\\
@@ -14367,7 +14391,7 @@ I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizz
 
 \textbf{Ljust}: Empatia, Onestà.Coraggio, Sincerità, Pazienza, Rispetto, Perseveranza\\
 
-\textbf{Gaya}: Generosità, Gentilezza, Sincerità, Cinismo, Invidia, Intransigenza, Superbia\\
+\textbf{Gaya}: Generosità, Gentilezza, Sincerità, Cinismo, Invidia, Malizia, Superbia\\
 
 \textbf{Sumkir}: Gentilezza, Coraggio, Onestà, Sincerità, Generosità, Giustizia, Superbia\\
 
@@ -14385,7 +14409,7 @@ I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizz
 
 \textbf{Belevon}: Invidia, Egoismo, Lussuria, Malizia, Empatia, Perseveranza, Generosità\\
 
-\textbf{Torbiorn}: Ipocrisia, Indolenza, Superbia, Ingordigia, Empatia, Cinismo, Indifferenza\\
+\textbf{Torbiorn}: Ipocrisia, Indolenza, Superbia, Ingordigia, Cinismo, Indifferenza, Empatia\\
 
 \textbf{Shayalia}: Lussuria, Cinismo, Empatia, Responsabilità, Ipocrisia, Rancore, Perseveranza\\
 
@@ -15589,9 +15613,9 @@ Quando l'effetto dell'aiuto gassato si esaurisce, si aumenta di 1 grado il livel
 
 \textbf{Amaro Fortificante} 20 mo, questo liquido alcolico genera una piacevole sensazione di calore quando ingerito. Per l'ora successiva, si ottiene Bonus +2 ai Tiri Salvezza contro Paura. Usare più dosi nell'arco delle stesse 24 ore rende Nauseati per 1 ora. La confezione è per 3 usi.
 
-\begin{center}
-	\includegraphics[width=0.7\linewidth]{immagini/zaino.png}
-\end{center}
+%\begin{center}
+%	\includegraphics[width=0.7\linewidth]{immagini/zaino.png}
+%\end{center}
 
 \subsubsection{Lo Zaino Standard\texorpdfstring{\huge{\textregistered}}{\textregistered}} \index{Zaino Standard}
 
@@ -15600,15 +15624,17 @@ Prendetela come spunto per capire che oggetti avere dietro, non segnateveli tutt
 
 Questo il contenuto dello zaino dell'avventuriero: cintura, 3 candele, 6 torce, esca e acciarino, 7 razioni secche, fiasca d'acqua, materasso arrotolato, cerata, tenda, 18 metri corda, rete, specchio di metallo, piede di porco, bussola, 3 olio da lanterna, inchiostro, gesso, carboncino, uncino, vanga, amo da pesca, stracci, cavo di metallo 2m, fischietto, 6 fiale da pozione vuota, biglie di marmo, campanella in ottone, 1kg di farina in sacchetto, 3 zeppe, catena di metallo 12 metri, 2 manette, 8 chiodi da rocciatore, martello, carrucola, rampino.
 
-\begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/mercante.png}
-\end{center}
+%\begin{center}
+%	\includegraphics[width=0.8\linewidth]{immagini/mercante.png}
+%\end{center}
 
 \subsection{Spese e Stile di Vita}\index{Spese e Stile di Vita}
 
-Quando non si calano nelle viscere della terra, non esplorano rovine in cerca di tesori perduti o non muovono guerra alle forze dell'oscurità incombente, anche gli avventurieri devono pensare ai bisogni più comuni. Anche in un modo fantastico, la gente deve soddisfare bisogni basilari come un vitto, alloggio e vestiario. Tutto questo ha un costo, anche se certi stili di vita costano più di altri.\\
+Quando non si calano nelle viscere della terra, non esplorano rovine in cerca di tesori perduti o non muovono guerra alle forze dell'oscurità incombente, anche gli avventurieri devono pensare ai bisogni più comuni. Anche in un modo fantastico, la gente deve soddisfare bisogni basilari come un vitto, alloggio e vestiario. Tutto questo ha un costo e se certi stili di vita costano più di altri.\\
 
-Le spese dello stile di vita sono un modo semplice per tenere conto dei costi della vita in un mondo fantasy. Coprono l'alloggio, il cibo, le bevande e tutte le altre necessità essenziali di un personaggio. Queste spese coprono inoltre il costo di manutenzione dell'equipaggiamento del personaggio, per consentirgli di essere pronto quando giungerà la prossima chiamata all'avventura. All'inizio di ogni settimana o mese (a scelta del giocatore), ogni personaggio sceglie uno stile di vita dalla tabella Spese dello Stile di Vita e paga il prezzo richiesto per mantenere quello stile di vita. I prezzi elencati sono giornalieri, quindi chi desidera calcolare il suo costo di sostentamento per un periodo di trenta giorni dovrà moltiplicare il prezzo indicato per 30. Un personaggio può cambiare il suo stile di vita da un periodo all'altro, in base ai fondi a sua disposizione, oppure può mantenere lo stesso stile di vita nel corso di tutta la propria carriera.
+Per semplificare le spese giornaliere il giocatore può dichiarare di tenere un certo tenore di vita e sottrarre giornalmente le spese in un unicum, senza sottrarre le singole spese effettuate.
+
+I prezzi elencati sono giornalieri, quindi chi desidera calcolare il suo costo di sostentamento per un periodo di trenta giorni dovrà moltiplicare il prezzo indicato per 30.
 
 La scelta dello stile di vita può avere delle conseguenze. Un personaggio che mantiene uno stile di vita ricco può stringere più facilmente contatti con i ricchi e i potenti, ma corre il rischio di attirare qualche ladro. Analogamente, uno stile di vita povero può aiutarlo a evitare i criminali, ma difficilmente gli consentirà di stringere contatti importanti.\\
 
@@ -15630,39 +15656,43 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 \end{tabular}\\
 
 
-\textbf{Miserabile}. Il personaggio vive in condizioni disumane. Non ha un luogo che può chiamare casa e si ripara dove può, intrufolandosi in un granaio, rannicchiandosi in una vecchia cassa o affidandosi al buon cuore di chi è più fortunato di lui. Uno stile di vita miserabile presenta pericoli in abbondanza. La violenza, le malattie e la fame seguono il personaggio ovunque egli si rechi. Gli altri miserabili potrebbero mettere gli occhi sulla sua armatura, le sue armi e la sua attrezzatura da avventuriero, che rappresentano una fortuna per i loro parametri. La maggior parte della gente non prende minimamente in considerazione il personaggio.
-
-\textbf{Squallido}. Il personaggio vive in una stalla piena di spifferi, una capanna dal pavimento di fango situata appena fuori dal paese o in un ostello pieno di pulci nel quartiere peggiore della città. Beneficia di un minimo riparo dagli elementi, ma vive in un ambiente disperato e spesso violento, in luoghi afflitti dalle malattie, dalla fame e dalle disgrazie. La maggior parte della gente non lo prende minimamente in considerazione e la legge lo protegge poco o nulla. La maggior parte delle persone che conduce questo stile di vita è segnata da qualche terribile disgrazia: bollati come esuli, affetti da un disturbo mentale o da una malattia di qualche tipo.
-
-\textbf{Povero}. Uno stile di vita povero significa dover tirare avanti senza le comodità disponibili in una comunità stabile. Vitto e alloggio essenziali, abiti di scarsa qualità e condizioni di vita imprevedibili generano come risultato uno stile di vita forse sufficiente a sopravvivere, ma di sicuro poco piacevole. Il personaggio dorme in un ostello o in una sala comune al primo piano di una taverna. Beneficia di un minimo di protezione legale, ma deve comunque vedersela con atti di violenza, crimini e malattie. I manovali privi di una specializzazione, robivechi, mendicanti, ladri, mercenari e altre figure poco raccomandabili tendono ad adottare questo stile di vita.
 
 %\begin{center}
 %\includegraphics[width=0.7\linewidth]{immagini/mendicante.png}
+%
 %\emph{Mendicante - Francesco Londonio}
 %\end{center}
 
-\textbf{Modesto}. Uno stile di vita modesto tiene un personaggio fuori dai bassifondi e gli consente di prendersi cura del suo equipaggiamento. Il personaggio vive in una parte vecchia della città, ha una camera in affitto in una pensione, una locanda o un tempio. Non patisce la fame o la sete e vive in un ambiente pulito, anche se spartano. Gli individui comuni che conducono uno stile di vita modesto includono soldati con una famiglia, manovali, studenti, sacerdoti, incantatori dilettanti e così via.
 
-\textbf{Agiato}. Un personaggio in grado di adottare uno stile di vita agiato può permettersi abiti di qualità e prendersi cura del proprio equipaggiamento senza difficoltà. Vive in un'abitazione in un isolato di buona fama o dispone di una stanza privata presso una locanda di qualità. Frequenta mercanti, abili artigiani e ufficiali militari.
+%\end{multicols}
 
-\textbf{Ricco}. Un personaggio che adotta uno stile di vita ricco vive nel lusso, anche se forse non ha raggiunto il prestigio sociale associato ai vecchi valori della nobiltà e del sangue reale. Conduce uno stile di vita paragonabile a quello di un mercante di grande successo, uno stimato servitore di un casato reale o un proprietario di alcune piccole attività commerciali. Alloggia in una dimora rispettabile, solitamente una casa spaziosa in una parte rispettabile della città o un comodo appartamento presso una locanda rinomata. Probabilmente è assistito da un piccolo gruppo di servitori.
+%\vfill
 
-
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/lucullo.png}
-	
-	\emph{Lucio Licinio Lucullo. Roma, 117 aC, Napoli 56 aC). Militare e politico romano}
-\end{center}
+%\begin{center}
+%\includegraphics[width=0.5\linewidth]{immagini/carrozza.png}
+%\end{center}
 
 
-\textbf{Aristocratico}. Il personaggio vive comodamente e nell'abbondanza e frequenta gli ambienti popolati dalle figure più potenti della comunità. Dispone di una dimora eccellente, forse una casa nel quartiere più elegante della città o forse una serie di camere nella locanda più rinomata. Pranza ai ristoranti migliori, si serve presso i sarti più abili e alla moda e può contare su vari servitori che si occupano di ogni suo bisogno. Riceve inviti agli eventi di società dei ricchi e dei potenti e trascorre le sue serate in compagnia di politici, capi di gilda, sommi sacerdoti e nobili. Deve anche vedersela con gli inganni e i tradimenti perpetrati ai livelli più alti. Più grande è la sua ricchezza, maggiori sono le possibilità che sia trascinato in qualche intrigo politico, a volte come pedina, a volte come partecipante attivo.
+%\pagebreak
+
+
+\subsubsection{Lavorare in città}\index{Lavorare in città}\index{Downtime}
+
+Durante le pause tra un avventura ed un altra o perché deve passare un certo lasso di tempo perché una certa cosa accada, i personaggi possono cercare di mettere a frutto le loro Competenze per guadagnare qualche moneta.
+
+I personaggi effettuano una prova al giorno della loro abilità professionale (es Artigianato oppure Erboristeria od Intrattenere...) in base al successo guadagneranno o meno.
+
+La prova di professione eseguitela con 3d6+Saggezza+1/2 livello, se questa ottiene un valore superiore a 15 allora il personaggio ha ottenuto un compenso. Sottraete alla prova effettuata 15 ed elevate al quadrato questa differenza, saranno le monete d'argento guadagnate nel giorno. ($(15-Prova)^2$).
 
 \end{multicols}
 
 \vfill
 
 \begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/carrozza.png}
+\includegraphics[width=0.5\linewidth]{immagini/fognelondra.png}
+
+\emph{Mappa delle fogne di Londra, 1880}\\
+\emph{fondamentale per tutti i cacciatori di ratti...}
 \end{center}
 
 
@@ -15802,7 +15832,7 @@ Se la pelle di drago proviene da un Drago che ha immunità ad un tipo di energia
 
 Un Armatura in Pelle di Drago obbliga a fare una Prova di Magia senza dadi aggiuntivi quando lanci incantesimo, la penalità alla Competenze diminuiscono di 1 (fino a un minimo di 0), le penalità al movimento diminuiscono di 1 metro.
 
-Le armature di pelle di drago costano 10 volte un'armatura di quel tipo, ma non richiedono più tempo per essere costruite. Un armatura di drago non è quasi mai in vendita.
+Le armature di pelle di drago costano 10 volte un'armatura di quel tipo, ma non richiedono più tempo per essere costruite. Un armatura di drago non è mai in vendita.
 
 La pelle di drago ha 10 Punti Ferita per 2,5 cm di spessore e Durezza 10. Solitamente la pelle di drago è spessa da 1,25 a 2,5 cm.
 
@@ -16551,387 +16581,12 @@ Gli effetti magici non sono influenzati, tranne quelli che richiedono un Tiro pe
 
 \begin{center}
 
-\includegraphics[width=0.78\linewidth]{immagini/avventure_acqua_grey.png}
+\includegraphics[width=0.75\linewidth]{immagini/avventure_acqua_grey.png}
 
 \emph{The Mermaid and the Boy - Henry Justice Ford}
 \end{center}
 
-\subsection{Avventure Nautiche}
-
-L'acqua può fornire l'ambientazione per un'esperienza di gioco diversa ed unica: l'avventura nautica. In un simile scenario, gli effetti e i pericoli delle avventure subacquee sono sostituiti dalle sfide di superficie, dal momento che i personaggi e i loro avversari utilizzano navi e barche per spostarsi in tale ambiente. Di solito, le avventure nautiche si risolvono normalmente, con un combattimento a bordo di una nave simile ad uno terrestre. Se il combattimento avviene durante una tempesta o in mari agitati, considerate il ponte della nave come terreno difficile. Ricordatevi di considerare gli effetti sulle prove di Concentrazione per il tempo atmosferico od il rollio.
-
-\subsubsection{Combattimento Rapido in Mare}
-
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-Tutti sanno fare il timoniere col mare calmo (Lucio Anneo Seneca)
-}
-\end{enfasi}\end{changemargin}\medskip
-
-Quando sono le navi a combattere, le cose cambiano un pò. Le regole seguenti non hanno lo scopo di simulare accuratamente tutti gli aspetti di un combattimento navale, ma solo fornirvi rapide e semplici regole per sbrogliare tali situazioni quando si tramutano in un'avventura nautica, che sia una battaglia tra due navi o tra una nave ed un mostro marino.
-
-\textbf{Preparazione}: Stabilite quali tipi di navi sono coinvolte nel combattimento (vedi Tabella: Statistiche delle Navi). Utilizzate una griglia da battaglia ampia e vuota per rappresentare le acque in cui ha luogo la battaglia. Un singolo quadretto corrisponde a 9 metri di distanza. Raffigurate ogni nave piazzando dei segnalini che occupino l'appropriato numero di quadretti (le navi giocattolo sono ottimi segnalini e potete reperirle nei negozi di modellismo).
-
-\textbf{Cominciare il Combattimento}: Quando il combattimento inizia, lasciate che i personaggi (ed importanti PNG alleati) tirino l'Iniziativa normalmente; la nave si muove ed attacca sulla base del risultato di iniziativa del capitano. Se una delle navi in battaglia usa le vele per spostarsi, determinate casualmente in quale direzione sta soffiando il vento tirando 1d8 e seguendo le linee guida per le Armi a Spargimento che mancano il bersaglio.
-
-\textbf{Movimento}: Sulla base del punteggio di Iniziativa del capitano, la nave può muoversi alla propria velocità base in un singolo round come se l'Azione corrispondesse a quella del capitano stesso (o al doppio della sua velocità come unica azione del round), finché ha il proprio equipaggio minimo al completo. La nave può incrementare o diminuire la propria velocità di 9 metri per round, fino al raggiungimento della velocità massima. In alternativa, il capitano può cambiare direzione (al massimo un lato di un quadretto alla volta) (2 Azioni). Una nave può cambiare direzione solo all'inizio del round.
-
-\textbf{Attacchi}: I membri in eccesso rispetto al requisito minimo di equipaggio di una nave possono essere collocati a manovrare le Macchine d'Assedio. Le Macchine d'Assedio attaccano sulla base del punteggio di Iniziativa del capitano.
-
-
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/acquapericoli.png}
-\end{center}
-
-Una nave può anche tentare di speronare un bersaglio se ospita l'equipaggio minimo. Per speronare un bersaglio, la nave deve muoversi di almeno 9 metri e finire con la prua in un quadretto adiacente ad esso.
-Quindi, il capitano della nave effettua una prova di Professione (marinaio): se il risultato è pari o superiore alla Difesa del bersaglio, la nave colpisce il suo obiettivo, infliggendogli danni come indicato nella Tabella: Statistiche delle Navi e allo stesso tempo subendo il danno minimo. Una nave equipaggiata con uno sperone infligge al bersaglio 3d6 danni addizionali (l'imbarcazione attaccante non subisce danno addizionale).
-
-\textbf{Affondamento}\index{Affondamento}
-
-Una nave ottiene la condizione in affondamento quando i suoi Punti Ferita scendono a 0 o meno. Una nave in affondamento non può muoversi o attaccare e dopo 10 round si considera affondata. Ogni 25 danni subiti da una nave che affonda si riduce l'affondamento di 1 round. L'incantesimo di Fabbricare consente di riparare una nave che affonda se i Punti Ferita della stessa sono riportati sopra lo 0, caso in cui la nave perde la condizione in affondamento. In genere, le riparazioni non magiche richiedono troppo tempo per salvare una nave dall'affondamento una volta che questa inizia a sprofondare.
-
-\textbf{Statistiche di una Nave}
-
-Nel mondo reale esiste una grande varietà di barche e navi, dalle piccole zattere agli imponenti galeoni. A rappresentanza di ciò, la Tabella: Statistiche delle Navi classifica sette dimensioni standard di nave e le rispettive statistiche. Così come le culture del mondo reale hanno creato ed adattato differenti tipi di imbarcazioni, così le razze di mondi fantasy potrebbero creare le proprie bizzarre navi.
-I Narratore potrebbero utilizzare o modificare queste statistiche per soddisfare le esigenze delle loro creazioni e, comunque, descrivere tali mezzo di trasporto a proprio piacimento. Tutte le navi presentano i seguenti tratti.
-
-
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/navenotte.png}
-\end{center}
-
-\textbf{Tipo}: Si tratta di una categoria generale che elenca la tipologia base di nave.
-
-\textbf{Difesa}: La Difesa della nave. Per calcolare la Difesa effettiva di una nave, aggiungete il punteggio di Professione (marinaio) del capitano alla Difesa base della stessa. Gli attacchi di contatto contro una nave ignorano il modificatore del capitano. Una nave non è mai sorpresa.
-
-\textbf{TS Base}: Il modificatore dei Tiri Salvezza Base di una nave (Tempra, Riflessi e Saggezza) hanno lo stesso valore. Per determinare gli effettivi modificatori dei Tiro Salvezza di una nave, aggiungete il modificatore di Professione (marinaio) del capitano a questo valore.
-
-\textbf{Velocità Massima}: La velocità massima di una nave in combattimento. Un asterisco indica che la nave ha delle vele e può spostarsi a velocità raddoppiata se si muove nella stessa direzione del vento. Una nave che abbia solo delle vele può spostarsi solo in presenza di vento.
-
-\textbf{Armamenti}: Il numero di Macchine d'Assedio che possono essere equipaggiate sulla nave. Uno sperone utilizza uno di questi slot e una nave può essere equipaggiata soltanto con uno sperone.
-
-\textbf{Speronamento}: L'ammontare di danni che infligge una nave con un attacco di speronamento riuscito (senza uno sperone).
-
-\textbf{Quadretti}: Il numero di quadretti che la nave occupa sulla griglia di combattimento.
-
-\textbf{Equipaggio}: Il primo numero indica l'equipaggio minimo di cui la nave ha bisogno per funzionare normalmente, ad esclusione degli addetti alle armi. Il secondo indica il numero massimo della ciurma più i soldati o passeggeri aggiuntivi. Una nave senza il suo equipaggio minimo può soltanto muoversi, cambiare velocità, cambiare direzione, o speronare se il suo capitano supera una prova di Professione (marinaio) con DC 20.
-Un equipaggio che eccede il numero minimo non influenza il movimento, ma i suoi componenti possono sostituire i membri caduti o manovrare armi aggiuntive.
-
-\bigskip
-
 \end{multicols}
-
-\textbf{Tabella: Statistiche delle Navi}\index[Tabelle]{Tabella Statistiche delle Navi}
-
-\medskip
-
-\begin{tabular}{lllllllll}
-\textbf{Tipo}  & \textbf{Difesa} & \textbf{PF} & \textbf{TS base} & \textbf{Vel. (m/s)} & \textbf{Arma} & \textbf{Sperona} & \textbf{Quad}. & \textbf{Equipaggio}\\
-\toprule
-Zattera & 9 & 10& +0& 4.5  & 0 & 1d6  & 2  & 1/4\\
-Barca a Remi & 9& 20& +2& 9  & 0 & 2d6+6  & 6  & 1/3\\
-Battello  & 8& 60& +4& 9  & 1 & 2d6+6  & 12  & 4/15+100\\
-Nave Lunga& 6& 75& +5& 18 & 1 & 4d6+18 & 40  & 50/75+100\\
-Barca a Vela & 6& 125  & +6& 18 & 2 & 3d6+12 & 20  & 20/50+120\\
-Nave da Guerra & 2& 175  & +7& 18 & 3 & 3d6+12 & 35  & 60/80+160\\
-Galea& 2& 200  & +8& 27 & +4  & 6d6+24 & 60  & 200/250+200\\
-\end{tabular}
-
-\vfill
-
-\begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/Galley_running_before_the_wind.png}
-	
-	\smallskip
-	
-	\emph{Gelea sottile, lunghezza 45m, larghezza 5m, pescaggio circa 200 cm}	
-	
-\end{center}
-
-\pagebreak
-
-\section{Avventure in Citta'}\index{Città}
-
-\label{avventure-in-citta}
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-Dio creò la campagna, e l'uomo creò la città. (William Cowper)}\end{enfasi}\end{changemargin}\medskip
-
-\begin{multicols}{2}
-
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{A}{ prima} vista, una città è molto simile a un dungeon, in quanto è composta da pareti, porte, stanze e corridoi. Le avventure ambientate in città differiscono da quelle ambientate nei dungeon per due motivi principali: accesso ad un maggior numero di risorse e devono tenere conto della presenza delle forze dell'ordine.
-
-\textbf{Accesso alle Risorse}: A differenza dei dungeon e delle terre selvagge, i personaggi possono comprare e vendere Equipaggiamento molto rapidamente in città. Una città grande o una metropoli probabilmente dispongono di PNG ed esperti di alto livello specializzati nei settori più oscuri della conoscenza, in grado di offrire aiuto e di interpretare gli indizi. Quando i personaggi sono feriti e contusi, possono sempre fare ritorno alle comodità delle loro camere nella locanda.
-
-La libertà di effettuare una ritirata e l'accesso alle merci del mercato significa che i giocatori dispongono di un maggior controllo sui ritmi di gioco in un'avventura in città.
-
-%\begin{center}
-%	\includegraphics[width=0.8\linewidth]{immagini/cavalieri.png}
-%\end{center}
-
-\textbf{Forze dell'Ordine}: L'altro elemento di distinzione tra andare all'avventura in una città ed esplorare un dungeon sta nel fatto che il dungeon è, quasi per definizione, un luogo senza regole dove la sola legge è quella della giungla: uccidere o essere uccisi.
-
-Una città, d'altro canto, è sorretta da un codice di leggi, molte delle quali sono state ideate esplicitamente per prevenire quel genere di comportamento nel quale gli avventurieri indulgono spesso e volentieri: uccidere e saccheggiare. Tuttavia, le leggi cittadine riconoscono la gravità della minaccia che i mostri costituiscono alla stabilità cittadina, ed è assai raro che la proibizione di uccidere valga anche per mostri come le Aberrazioni o gli Immondi.
-
-La maggior parte degli umanoidi malvagi, tuttavia, solitamente gode della stessa protezione riservata a tutti gli altri cittadini. Avere un insieme di Tratti malvagi non è un crimine (tranne forse in quelle città dove vige una severa teocrazia, col potere magico necessario per far valere la legge); soltanto gli atti malvagi vengono considerati un'infrazione alla legge.
-
-
-Anche quando gli avventurieri incontrano un malfattore impegnato a commettere i crimini più orribili nei confronti della popolazione cittadina, la legge vede comunque di cattivo occhio chi si fa giustizia da solo uccidendo il malfattore o impedendo in altri modi che venga condotto davanti a un tribunale per essere processato.
-
-\textbf{Limitazioni alle Armi e agli Incantesimi}
-
-Ogni città ha le sue leggi riguardo alle armi che è possibile portare con sé circolando in pubblico e alle limitazioni agli incantesimi.
-
-Le leggi cittadine potrebbero non influenzare tutti i personaggi in egual modo. Un uomo di fede che si muove con un'arma al seguito non viene ostacolato in alcun modo dalla legge che impone di legare con un laccio le armi, ma un incantatore subisce una riduzione considerevole del suo potere se il suo Tomo viene confiscato alle porte della città.
-
-\textbf{Elementi Urbani}
-
-Pareti, porte, illuminazione scarsa e terreno sconnesso: sotto molti aspetti una città è simile a un dungeon. Di seguito vengono descritti nuovi elementi adatti a un'ambientazione cittadina.
-
-\textbf{Mura e Cancelli}
-
-Molte città sono difese da un cerchio di mura. Delle normali mura cittadine sono in pietra rinforzata, spesse 1 metro e alte 6 metri. Un muro del genere è piuttosto liscio ed è necessaria una prova di Arrampicarsi con DC 30 per potervisi arrampicare. Le mura dispongono di piccoli merli su un lato per fornire un parapetto alle guardie in cima, lo spazio per camminare sulle mura è a malapena sufficiente per una guardia.
-
-
-\medskip
-
-\begin{center}
-	\includegraphics[width=0.85\linewidth]{immagini/muraparigi.png}
-	
-	\emph{Cronache, Jean Froissart. La Regina Isabella di Francia arriva a Parigi, 15 secolo}
-\end{center}
-
-\medskip
-
-\textbf{Le mura}
-
-A differenza delle città più piccole, le metropoli spesso sono dotate anche di mura interne, a volte delle vecchie mura erette quando la città era più piccola, oppure mura che separano i vari quartieri gli uni dagli altri. A volte queste mura sono alte e larghe come quelle esterne, ma molto più spesso hanno dimensioni ridotte.
-
-\textbf{Torri di Guardia}: Alcune mura cittadine sono dotate di torri di guardia che spuntano a intervalli regolari. Sono poche le città che hanno guardie a sufficienza da collocare su ogni torre di guardia, a meno che la città non si aspetti un attacco dall'esterno. Le torri offrono una visuale elevata della campagna circostante oltre ad un baluardo di difesa contro gli invasori nemici.
-
-Le torri di guardia solitamente sono più alte di 3 metri rispetto al muro di cui fanno parte, e il loro diametro è pari a 5 volte lo spessore delle mura. Delle feritoie per gli arcieri si aprono ai piani alti della torre, e la cima è merlata allo stesso modo delle mura circostanti. Nelle torri più piccole (del diametro di circa 7 metri, lungo un muro spesso 1 metro) una semplice scala a pioli collega l'interno della torre al tetto. Nelle torri più grandi si trovano vere e proprie scale.
-
-L'accesso alla torre è protetto da pesanti porte in legno, con rinforzi in ferro e serrature buone (Disattivare Congegni DC 25). Normalmente è il capitano delle guardie a custodire la chiave d'accesso alla torre, e una seconda copia viene conservata nella fortezza interna o nella caserma cittadina.
-
-\textbf{Cancelli}: Un tipico cancello d'accesso alla città è composto da una guardiola con due saracinesche e delle feritoie nello spazio tra di esse. Nei paesi e nelle città piccole, l'entrata principale è protetta da doppie porte di ferro incastrate nelle mura cittadine.
-
-I cancelli rimangono solitamente aperti durante il giorno e chiusi a chiave o sbarrati di notte. Generalmente, soltanto un cancello lascia entrare i viaggiatori dopo il tramonto, ed è sorvegliato da guardie che apriranno le porte solo per qualcuno che abbia un aspetto onesto, presenti i documenti appropriati o le corrompa con una cifra sufficiente (in base al tipo di città e di guardie).
-
-
-\textbf{Guardie e Soldati}
-
-Una città solitamente è dotata di personale militare di servizio a tempo pieno pari all'1\% della sua popolazione adulta, i soldati di ronda o di leva possono essere pari al 5\% della popolazione. I soldati a tempo pieno sono guardie cittadine responsabili del mantenimento dell'ordine in città, con un ruolo simile a quello della polizia moderna, e (in misura assai minore) della difesa della città dagli assalti esterni. I soldati in leva forzata vengono chiamati alle armi in caso di un attacco in città.
-
-Un tipico schieramento di guardie cittadine si distribuisce in tre turni di servizio da otto ore ciascuno, col 30\% delle sue forze in servizio di giorno (dalle 8 alle 16), il 35\% in servizio di sera (dalla 16 alle 24) e il 35\% di servizio nel turno di notte (dalle 24 alle 8). In qualsiasi momento, l'80\% delle guardie in servizio è di pattuglia per le strade, mentre il 20\% rimanente è assegnato a varie postazioni per la città, pronti a reagire ad eventuali allarmi. Una postazione di guardia simile è presente almeno in ogni vicinato cittadino (un vicinato è composto da vari quartieri).
-
-La maggioranza delle guardie cittadine è composta da combattenti, quasi tutti di 1° livello. Gli ufficiali sono combattenti di livello più alto e forse anche qualche incantatore.
-
-\textbf{Macchine d'Assedio}\index{Macchine d'Assedio}
-
-Le macchine d'assedio sono grosse armi, strutture temporanee o meccanismi tradizionalmente usati per assediare un castello o una fortezza.
-
-\textbf{Catapulta Pesante}: \index{Catapulta}Una catapulta pesante è una gigantesca macchina d'assedio in grado di scagliare macigni o altri oggetti pesanti con grande forza. Dal momento che l'arco di lancio della catapulta è molto alto, il marchingegno è in grado di colpire anche aree al di fuori della sua linea di visuale. Per fare fuoco con una catapulta pesante, il capo degli operatori del macchinario effettua una prova speciale con DC 15 usando solo il suo valore di Competenza Attacco con il suo modificatore di Intelligenza, la penalità per la gittata e il modificatore relativo alla sezione inferiore della Tabella: Macchine d'Assedio.
-
-Se la prova ha successo, il macigno della catapulta colpisce la zona di mischia a cui la catapulta aveva mirato, infliggendo i danni indicati a qualsiasi oggetto o personaggio nella zona. I personaggi che superano con successo un Tiro Salvezza su Riflessi con DC 15 subiscono danni dimezzati. Una volta che il macigno ha colpito la zona, i tiri successivi colpiranno la stessa zona, a meno che la catapulta non venga ridirezione o il vento non cambi direzione o velocità.
-
-Se il macigno di una catapulta manca il bersaglio, usa la tabella delle armi a \hyperlink{spargimento}{spargimento} (pag. \pageref{attacchiarmidaspargimento}). La distanza coperta è pari a 1d4x10 metri.
-
-
-\medskip
-
-\begin{center}
-	\includegraphics[width=0.85\linewidth]{immagini/armidaassedio.png}
-\end{center}
-
-Per caricare una catapulta è necessaria una serie di azioni che portano via tutto il round. Occorre una prova di Forza con DC 15 per abbassare il braccio della catapulta; la maggior parte delle catapulte hanno ruote che permettono fino a due operatori di usare l'azione di Aiutare un Altro per assistere l'operatore principale della carrucola.
-
-Una prova di Professione (ingegnere d'assedio) con DC 15 consente di agganciare il braccio in posizione, e poi un'altra prova di Professione (ingegnere d'assedio) con DC 15 servirà per caricare il proiettile sulla catapulta. Sono necessarie quattro round per ricaricare una catapulta pesante (vari operatori della catapulta possono compiere queste azioni nello stesso round, quindi quattro persone possono ricaricare una catapulta nel giro di 1 solo round). Una catapulta pesante occupa uno spazio di 4 metri.
-
-\textbf{Catapulta Leggera}: Questa è una versione più piccola e più leggera della catapulta pesante. Funziona essenzialmente come una catapulta pesante, con la differenza che è necessaria una prova di Forza con DC 10 per agganciare il braccio al suo posto, e soltanto 2 round per ridirezionare la catapulta. Una catapulta leggera occupa uno spazio di 3 metri.
-
-\textbf{Balista}: \index{Balista}Una balista è in pratica una balestra pesante enorme fissa. La sua taglia rende difficile il suo utilizzo per la maggior parte delle creature.Quindi, una creatura media subisce penalità -1d6 ai Tiri per Colpire quando usa una balista, e una creatura piccola subisce penalità -6. Per una creatura di taglia inferiore alla grande sono necessari 2 round per ricaricare la balista dopo aver fatto fuoco.
-
-Una balista occupa uno spazio di 2 metri.
-
-\textbf{Ariete}:\index{Ariete} Questo tronco massiccio a volte è legato e sospeso a un traliccio mobile che consente a coloro che lo manovrano di farlo oscillare con forza sempre crescente contro un bersaglio. Come unica azione del round, il personaggio più vicino alla punta dell'ariete effettua un Tiro per Colpire contro la Difesa della costruzione, applicando penalità -1d6 per la mancanza di competenza (non è possibile avere competenza nell'uso di questo macchinario). Oltre ai danni indicati nella Tabella: Macchine d'Assedio, fino a nove altri personaggi possono spingere l'ariete e aggiungere i loro modificatori di Forza al danno dell'ariete, se riservano un'azione di attacco per farlo. E' necessaria almeno una creatura Enorme o di taglia superiore, 2 creature Grandi, 4 creature Medie oppure 8 creature Piccole per manovrare un ariete (le creature Minuscole o di taglia inferiore non possono usare un ariete).
-
-Un ariete solitamente è lungo 9 metri. In una battaglia, le creature che manovrano un ariete devono disporsi in due file adiacenti di eguale lunghezza con l'ariete sorretto tra le due file.
-
-\textbf{Torre da Assedio}\index{Torre da Assedio}: Questo macchinario è un'enorme torre di legno montata su ruote o cilindri che può essere spinta contro un muro per consentire agli assedianti di scalare la torre e quindi arrivare in cima alle mura beneficiando di Copertura. Le pareti in legno della torre di solito sono spesse circa 30 cm.
-
-Una torre da assedio tipica occupa uno spazio di 4 metri. Le creature al suo interno la spingono a una velocità di 3 metri (una torre da assedio non può correre). Le otto creature che spingono la torre al pian terreno godono di copertura completa, quelle ai piani superiori godono di copertura media e possono tirare attraverso le feritoie per gli arcieri.
-
-\end{multicols}
-
-\medskip
-
-\textbf{Tabella: Modificatori di Attacco delle Catapulte}\index[Tabelle]{Tabella Modificatori di Attacco delle Catapulte}
-
-\medskip
-
-\begin{tabular}{p{0.52\textwidth}p{0.40\textwidth}}
-	\textbf{Circostanza}  & \textbf{Modificatore}\\
-	\toprule
-	- La linea di visuale non giunge fino alla zona bersaglio & -6\\
-	- Tiro consecutivo (gli operatori riescono a vedere dove sono caduti i colpi andati a vuoto più recenti )  & +2 cumulativo per per colpo mancato precedente (max +10)\\
-	- Tiro consecutivo (gli operatori non riescono a vedere dove sono caduti i colpi andati a vuoto più recenti ma un osservatore fornisce indicazioni) & +1 cumulativo per per colpo mancato precedente (max +5))\\
-\end{tabular}
-
-\medskip
-
-\textbf{Tabella: Macchine d'Assedio}\index[Tabelle]{Tabella Macchine d'Assedio}
-
-\medskip
-
-%\begin{tabular}{lllll}
-%\textbf{Macchina} & \textbf{Costo (mo)} & \textbf{Danno} & %\textbf{Gittata} & \textbf{Soldati}\\
-%\toprule
-%Catapulta pesante & 800  & 6d6  & 60m & 4\\
-%Catapulta leggera & 550 & 4d6  & 45m & 2\\
-%Ballista& 500  & 3d8  & 36m & 1\\
-%Ariete  & 1000 & 3d6  & -  & 10\\
-%Torre da Assedio  & 2000 & -  & -  & 20\\
-%\end{tabular}
-
-\begin{tabularx}{0.95\textwidth}{lXlll|lXlll}
-\textbf{Macchina} & \textbf{Costo (mo)} & \textbf{Danno} & \textbf{Gittata} & \textbf{Soldati}&\textbf{Macchina} & \textbf{Costo (mo)} & \textbf{Danno} & \textbf{Gittata} & \textbf{Soldati}\\
-\toprule
-Catapulta &&&&&Catapulta&&&&\\
-pesante & 800  & 6d6  & 60m & 4& leggera & 550 & 4d6  & 45m & 2\\
-\hline
-Ballista& 500  & 3d8  & 36m & 1&Ariete  & 1000 & 3d6  & -  & 10\\
-\hline
-\multicolumn{5}{l}{Torri da assedio}& & 2000 & -  & -  & 20\\
-
-
-\end{tabularx}
-
-\begin{multicols}{2}
-
-\medskip
-
-\textbf{Strade Cittadine}\index{Strade Cittadine}
-
-Le tipiche strade di una città sono strette e tortuose. La maggior parte delle vie cittadine è larga dai 3 ai 6 metri, mentre i vicoli vanno da una larghezza di 3 metri a una di soltanto 1 metro. Se il pavimento lastricato è in buone condizioni è possibile muoversi normalmente, mentre le strade in brutte condizioni e gravemente rovinate vengono considerate equivalenti terreno difficile.
-
-Alcune città non hanno grandi viali d'accesso, specialmente quelle che sono cresciute gradualmente partendo come piccoli insediamenti. Le città che sono state progettate a tavolino, o che forse sono state consumate da un grave incendio che ha consentito alle autorità di costruire nuove strade su quelle che un tempo erano aree abitate, potrebbero disporre di alcune strade più grandi che le attraversano. Queste strade principali sono ampie 8 metri, e consentono ai carri di passare l'uno di fianco all'altro, con marciapiedi di 1 metro su entrambi i lati.
-
-\textbf{Folla}: Le strade cittadine sono gremite di gente che va e viene, impegnata nelle varie faccende giornaliere. Nella maggior parte dei casi non è necessario includere ogni popolano di 1° livello sulla mappa quando si giunge a un combattimento sul viale principale della città. E' sufficiente invece indicare quali zone sulla mappa sono occupati dalla folla. Se la folla vede qualcosa di pericoloso, si allontanerà alla velocità di 9 metri per round a conteggio di Iniziativa 10. Per entrare in contatto con la folla bisogna avere una distanza di mischia. La folla fornisce Copertura Completa.
-
-\textbf{Dirigere la Folla}: è necessaria una prova di Diplomazia con DC 15 o di Intimidire con DC 20 per convincere una folla a spostarsi in una certa direzione, e la folla deve essere in grado di sentire o vedere il personaggio che effettua il tentativo. E' necessaria tutto un round per effettuare la prova di Diplomazia, mentre serve solo un'Azione per effettuare la prova di Intimidire.
-
-Se due o più personaggi tentano di spingere la folla in due direzioni diverse, effettuano prove di Diplomazia o di Intimidire contrapposte per determinare a chi la folla darà ascolto. La folla ignorerà entrambi, se tutti e due i risultati delle prove dovessero essere inferiori alle DC sopra indicate.
-
-\textbf{Tetti}: Per arrampicarsi su un tetto di solito è necessario scalare un muro, a meno che un personaggio non possa raggiungere un tetto saltando giù da una finestra, un balcone o un ponte più alto. I tetti piatti sono comuni solo nelle zone a clima caldo (la neve, accumulandosi, può far crollare un tetto piatto) e sono facili da percorrere correndo. Spostarsi sulla cima di un tetto richiede una prova di Acrobatica con DC 20. Spostarsi orizzontalmente su un tetto inclinato (muovendosi in parallelo alla sua cima, in pratica) richiede una prova di Acrobatica con DC 15. Spostarsi su e giù lungo un tetto inclinato richiede una prova di Acrobatica con DC 10.
-
-Prima o poi un personaggio giungerà alla fine del tetto, e dovrà effettuare un lungo salto per passare al tetto successivo o per scendere a terra. La distanza che separa un tetto dal successivo di solito è di 3 metri, ma il tetto dall'altra parte potrebbe essere più alto o più basso di 1 metro, o alla stessa altezza. Si usano le indicazioni date per Acrobatica per determinare se il personaggio è in grado di effettuare un salto.
-
-\textbf{Fognature}: Per entrare nelle fognature, i personaggi solitamente devono aprire una grata (1 round) e saltare in basso per 3 metri. Le fognature sono costruite esattamente come dei dungeon, con la differenza che il pavimento è scivoloso o ricoperto d'acqua. Le fognature sono anche simili ai dungeon per quello che riguarda le creature che è possibile incontrare al loro interno. Alcune città sono state costruite sulle rovine di civiltà più antiche, quindi le fognature potrebbero anche condurre a tesori e pericoli appartenenti a un'era passata.
-
-\textbf{Edifici Cittadini}
-La maggior parte degli edifici cittadini è divisa in tre categorie. Molti edifici in una città sono alti da due a cinque piani e sono costruiti l'uno di fianco all'altro per formare lunghe file, interrotte soltanto dalle vie principali o secondarie. Questi edifici a schiera solitamente ospitano un negozio a pianterreno, con uffici o appartamenti ai piani superiori. Le locande, le imprese commerciali più ricche e i magazzini più grandi (oltre a eventuali mulini, concerie e altre attività che richiedano molto spazio) in genere sono grossi edifici indipendenti alti fino a cinque piani.
-Infine, le abitazioni, i negozi, i magazzini e i depositi più piccoli sono dei semplici edifici di legno a un piano, specialmente nei quartieri più poveri.
-
-\textbf{Illuminazione Cittadina}
-Se una città possiede grandi viali d'accesso, questi saranno illuminati da lanterne appese a un'altezza di circa 2 metri sui lati degli edifici. Queste lanterne sono poste a una distanza di 9 metri l'una dall'altra, quindi l'illuminazione in queste strade è praticamente continua. Le strade secondarie e i vicoli non sono illuminati; è consuetudine per i cittadini pagare un lanternaio che li accompagni, se devono uscire di notte. I vicoli possono essere luoghi bui anche di giorno, grazie alle ombre degli edifici più alti circostanti. Un vicolo buio di giorno non è buio a sufficienza da poter conferire copertura completa ma leggera.
-
-\subsubsection{Lavorare in città}\index{Lavorare in città}\index{Downtime}
-
-Durante le pause tra un avventura ed un altra o perché deve passare un certo lasso di tempo perché una certa cosa accada, i personaggi possono cercare di mettere a frutto le loro Competenze per guadagnare qualche moneta.
-
-I personaggi effettuano una prova al giorno di Artigianato oppure Erboristeria od Intrattenere (a seconda dell'attività che svolgono), in base al successo guadagneranno o meno.
-
-Sottraete 15 alla prova effettuata, se la prova è 16 o più, dal personaggio ed elevate a quadrato la differenza, il risultato sono le monete d'argento guadagnate ($(15-Prova)^2$).
-
-\end{multicols}
-
-\vfill
-
-\begin{center}
-	\includegraphics[width=0.58\linewidth]{immagini/fognelondra.png}
-
-	\emph{Mappa delle fogne di Londra, 1880}
-\end{center}
-
-
-\pagebreak
-
-\section{Avventure e Disastri}\index{Avventure}\index{Disastri}
-
-\label{avventure-e-disastri}
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-Per prima cosa, nessuno rimane indietro. (anonimo)}\end{enfasi}\end{changemargin}\medskip
-
-\begin{multicols}{2}
-
-
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{ disastri} naturali sono pericoli ambientali terrificanti che portano morte e devastazione. Quelli soprannaturali possono essere anche più distruttivi, poiché possono sfigurare per sempre un mondo. Un disastro è più simile ad un'avventura che ad un incontro, e non ha uno specifico Grado di Sfida. Piuttosto, ogni parte del disastro dovrebbe essere trattata come un incontro separato ideato con un grado di Sfida adeguato ai PG.
-
-Sotto vengono presentate le regole per gestire gli effetti di tre diversi tipi di disastri, sia naturali che soprannaturali. Alcuni disastri si verificano rapidamente, come terremoti e tsunami, mentre altri procedono attraverso numerose fasi, come gli incendi forestali, i vulcani e le sollevazioni di non morti. Aggiustate lo schema dell'avventura per adattarlo al disastro, per permettere agli eventi di svolgersi nel corso di pochi minuti o molti giorni a seconda di quello che vi serve.
-
-\textbf{Vulcani}\index{Vulcani}
-
-Quando la crosta terrestre si rompe ed espelle il suo cuore fuso ha luogo uno dei disastri naturali più drammatici: l'eruzione di un vulcano. Le eruzioni vulcaniche offrono una vasta gamma di opzioni al Narratore, inclusi lava, bombe laviche, gas venefici e colate piroclastiche. I Narratore potrebbero anche considerare l'idea di far presagire una drammatica eruzione vulcanica (o draghi vulcanici) con pericoli preesistenti, come valanghe e terremoti minori.
-
-\textbf{Lava}\index{Lava}
-
-I flussi lavici generalmente sono associati alle eruzioni non esplosive e possono essere un elemento permanente dei vulcani attivi. Le colate laviche sono per lo più lente e si muovono a 5 metri per round, ma quelle più calde sono rapide e raggiungono i 12 metri per round. La lava incanalata, come in un tubo lavico, è molto pericolosa, poiché si muove alla velocità di 36 metri per round (un pericolo con grado di Sfida 6). Le creature raggiunte da una colata lavica devono superare un Tiro Salvezza su Riflessi con DC 20 o sono sommerse dalla lava. Il successo indica che sono a contatto con la Lava ma non Immerse.
-
-\textbf{Bombe Laviche} (grado di Sfida 2 o 8)\index{Bombe Laviche}
-
-Agglomerati di pietra fusa possono essere scagliati a molti chilometri da un vulcano che erutta, raffreddandosi in solida pietra prima di raggiungere il terreno. Una tipica bomba lavica colpisce un punto designato dal Narratore ed esplode in un raggio di 6 metri. Tutte le creature nell'area devono superare un Tiro Salvezza su Riflessi con DC 15 o subiscono 4d6 danni. Le creature che hanno Copertura o sono in grado di coprirsi (come con uno scudo) ottengono un bonus di +2 a questo tiro. A volte si formano bombe laviche molto grandi che infliggono 12d6 danni. Le bombe laviche normali hanno grado di Sfida 2, quelle grandi grado di Sfida 5.
-
-\textbf{Gas Venefici} (grado di Sfida 5)\index{Gas Venefici}
-
-Una delle minacce più insidiose di un vulcano è il gas tossico, spesso non notato tra il fuoco e la distruzione. Diversi tipi di vapori venefici scaturiscono da un'eruzione vulcanica, alcuni visibili, altri no. I gas venefici infliggono 1d3 danni alla Costituzione per round se inalati (Tempra DC 15 nega, la DC aumenta di 1 per ogni round di esposizione), quelli visibili funzionano anche come Fumo Denso. Le nubi di gas venefici si muovono verso il basso e generalmente arrivano ad una altezza di 6 metri. Forti venti possono deviare le nubi di gas, così come alte barriere a condizione che il gas abbia un altro posto dove andare.
-
-\textbf{Colate Piroclastiche} (grado di Sfida 10)
-
-Alcune eruzioni vulcaniche creano una devastante ondata di cenere ardente, gas bollenti e detriti vulcanici chiamata colata piroclastica che può viaggiare per chilometri. Una colata piroclastica viene trattata come una Valanga che viaggia a 150 metri per round, combinata con gli effetti dei gas venefici indicati sopra. Il contatto con i detriti roventi della colata infligge 2d6 danni da fuoco per round, mentre qualsiasi creatura seppellita dalla colata subisce 10d6 danni per round.
-
-\textbf{Tsunami}\index{Tsunami}
-
-Gli tsunami, talvolta attribuiti ad onde di marea, sono tremende ondate d'acqua causate da terremoti sottomarini, esplosioni vulcaniche, smottamenti o impatti di asteroidi. Gli tsunami non si possono individuare finché non raggiungono l'acqua poco profonda, quando la massa d'acqua forma una grande onda. A seconda dalle dimensioni dello tsunami e della pendenza della costa, l'onda può coprire qualsiasi distanza, dal centinaio di metri fino ad oltre un chilometro sulla terra ferma, lasciandosi dietro una scia di distruzione. L'acqua poi si ritira, trascinando via ogni sorta di detriti e creature fino in alto mare.
-
-L'esatta devastazione causata è soggetta alla discrezione del Narratore, ma un tipico tsunami abbatte o sradica tutte le strutture temporanee o mal costruite sul suo percorso, distrugge circa il 25\% degli edifici ben costruiti (causando danni significativi a quelli che restano) e lascia le fortificazioni solide leggermente danneggiate. Almeno 1/4 della popolazione che vive nell'area (inclusi animali e mostri) muore nel disastro, trascinato in mare, affogato sulla spiaggia o seppellito sotto le macerie.
-
-Una creatura può evitare di essere portata via dal mare con una prova di Nuotare con DC 25; altrimenti viene trascinata a 6d6 x 3 metri dalla riva. Le acque dopo uno tsunami sono sempre considerate agitate o tempestose, salvo influenze magiche. Una creatura coinvolta nel cedimento di un edificio subisce 6d6 danni (TS su Riflessi DC 15 dimezza), o la metà se la struttura è particolarmente piccola. c'è una probabilità del 50\% che la creatura venga sepolta (come per un Crollo), o che lo tsunami possa distruggere l'edificio, liberando la creatura dalle macerie.
-
-\textbf{Sollevazione di Non Morti}\index{Non Morti}
-
-Frutto di un'antica maledizione o della volontà di un Patrono, uno dei disastri soprannaturali più terrificanti è la sollevazione di Non Morti: il morto che emerge dalla tomba per reclamare i viventi. Questo disastro può colpire qualsiasi area dove sono stati sepolti dei morti, non solo paesi e città. Più di un campo di battaglia ha visto sorgere una legione di rinsecchiti combattenti Non Morti. Le sollevazioni di Non Morti si svolgono ad ondate, con la tempistica che varia secondo le forze principali in gioco. Gli eventi possono succedersi nel corso di pochi giorni, con la devastazione di una città, o protrarsi per settimane con la popolazione terrorizzata che si rannicchia dietro porte sprangate e lotta per sopravvivere. Durante il giorno, spesso la vita ritorna ad una parvenza di normalità, poiché la luce del giorno sopprime temporaneamente il potere della non morte.
-
-\textbf{I Morti Inquieti}
-
-Nelle prime notti di una sollevazione di Non Morti, i morti recenti si rianimano come zombi. Quelli sepolti in terra consacrata non si rianimano, ma i corpi lasciati insepolti o in fosse comuni barcollano fuori per le strade, portando scompiglio. Inizialmente, solo alcuni cadaveri sono capaci di liberarsi dalle loro bare e tombe, ma ogni sera, il numero di cadaveri vivi aumenta. Quando giunge l'alba, i morti cercano la sicurezza nelle loro tombe o di altri luoghi nascosti. Chiunque venga colto dalla luce del giorno si agita Confuso finché non viene distrutto o raggiunge un rifugio. A discrezione del Narratore, cadaveri di non umanoidi possono risorgere come Non Morti nelle notti seguenti.
-
-\textbf{Il Risveglio degli Scheletri}
-
-Con l'avanzare della sollevazione, cadaveri sempre più vecchi si uniscono alle schiere dei Non Morti. Scheletri che recano tracce di vesti funebri marcite da tempo scavano con gli artigli una via d'uscita da cimiteri e cripte, ed agiscono con una malevolenza ed organizzazione raramente riscontrate tra i loro simili. I Non Morti rimangono privi di Intelligenza, ma il potere magico dietro all'incursione dona loro l'efficienza e l'acume tattico di un esercito di viventi. Gli Scheletri scovano armi e corazze con cui equipaggiarsi per la battaglia. L'élite degli Scheletri campioni guida le truppe, utilizzando Oggetti Magici trafugati da tombe abbandonate. Infine, anche Ghoul e Wight vagano in cerca di preda per le strade durante il buio, insieme ad altri Non Morti minori dotati di libero arbitrio
-
-\textbf{Anime Perse}
-
-Mentre la sollevazione raduna le forze, si risvegliano anche le anime inquiete di cadaveri da tempo ridotti in polvere. Fantasmi, Ombre, Wraith e persino Spettri sorgono per dare la caccia ai vivi. Alcuni Fantasmi potrebbero liberarsi dalla malevola influenza della sollevazione e dei personaggi intraprendenti potrebbero raccogliere preziose informazioni da questi spiriti inquieti.
-
-L'infusione di energia negativa fortifica i Non Morti all'interno dell'area dell'incursione, concedendo i benefici di una Benedizione. Le aree una volta consacrate sono ora trattate come terreno normale e possono fungere da nuove fonti di cadaveri per le armate Non Morte; il terreno santificato rimane inviolato.
-
-Quando i Non Morti diventano più forti, l'ondata crescente di energia negativa avvicina il Piano delle Ombre, stingendo o ingrigendo i colori tranne durante le ore più brillanti del giorno. Anche i Non Morti più vulnerabili alla luce possono muoversi impunemente dal tardo pomeriggio alla mezza mattinata.
-
-\textbf{Necropoli}
-
-Il flusso di energia negativa è irreversibile, l'oscurità infine reclama l'area, coprendola con un'ombra perpetua.Il terreno santificato resta un raro santuario, ma solo finché non viene distrutto dalle forze malevoli esterne.
-
-Gli eroi morti negli scontri ritornano come spaventosi generali Non Morti. I pochi superstiti viventi vengono assoggettati come schiavi. L'area diviene una città della morte o ne viene cominciata la costruzione se non esisteva o non è sopravvissuta alcuna città. I Non Morti dotati di libero arbitrio si radunano in questo nuovo santuario e solo gli eroi più grandi riescono a tornare da quest'area ormai avvizzita al mondo dei vivi.
-
-\end{multicols}
-
-\vfill
-
-\begin{center}
-	\includegraphics[width=0.45\linewidth]{immagini/anubis.png}
-
-	\emph{Rappresentazione di \href{https://it.wikipedia.org/wiki/Anubi}{Anubi}}
-\end{center}
-
 
 
 \pagebreak
@@ -18504,176 +18159,7 @@ Una trappola visibile/ovvia obbliga i giocatori ad interagire con essa, a sforza
 
 \pagebreak
 
-\subsection{Opzionale - Reputazione e Fama}\index{Reputazione}\index{Fama}\index{Opzionale - Reputazione e Fama}
 
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-Fama e onore vanno talvolta più facilmente a chi non li ricerca. (Tito Livio)}\end{enfasi}\end{changemargin}\medskip
-
-\begin{multicols}{2}
-
-Benché alcuni eroi si accontentino delle ricompense delle loro imprese o si nascondano dietro una scorza di umiltà, altri cercano di vivere per sempre nelle saghe e nei canti delle loro epiche imprese. La storia misura il successo di un eroe con racconti di trionfo e audacia, ripetuti per generazioni.
-
-Un eroe che non possa rievocare a nessuno la sua storia cade presto nell'oblio, insieme ai suoi sforzi non raccontati. Il racconto delle prodi gesta diviene il metro con cui si misura un eroe, e scolpisce tanto la sua identità quanto la sua reputazione.
-
-La reputazione rappresenta il modo in cui il pubblico in generale percepisce positivamente o negativamente il personaggio. Questa percezione lo precede, parla per lui in sua assenza e determina come sarà trattato da chi ne ha sentito parlare. La reputazione implica cose diverse per tipi di personaggio diversi, in base ai valori sociali e culturali di regioni differenti. Un personaggio che incarni le qualità di eroe in una regione potrebbe essere considerato un depravato o uno scostumato in un'altra. Un'icona ampiamente riverita e rispettata in madrepatria potrebbe scivolare dalla fama all'oblio se si reca in un regno confinante.
-
-Quando si usano queste regole per la reputazione, il Narratore deve stabilire cosa significa la reputazione per i giocatori e i PNG della campagna. Per esempio, una campagna a tema vichingo potrebbe basare la reputazione sui saccheggi.
-
-Se si riesce ad acquisire una reputazione forte o notevole, si potrebbe essere lodati per le proprie azioni e ricompensati con risorse superiori a quelle ottenibili dagli individui meno noti. Allo stesso modo, si può usare la reputazione per influenzare socialmente, politicamente o economicamente la gente.
-
-La Fama aumenta e diminuisce in base alle proprie azioni. La Fama attuale determina la reputazione complessiva, la Sfera di Notorietà definisce i luoghi in cui si possono applicare i benefici della reputazione.
-
-\end{multicols}
-
-\textbf{Tabella: come acquisire punti Fama}\index[Tabelle]{Tabella come acquisire punti Fama}
-
-\medskip
-
-\begin{tabularx}{0.95\textwidth}{lX}
-\textbf{Eventi}&\textbf{Mod. Fama}\\
-\toprule
-\textbf{Eventi Positivi}&\\
-Acquisire un tesoro notevole da un degno avversario&+1\\
-Consacrare un tempio al proprio Patrono&+1\\
-Creare un Oggetto Magico potente&+12\\
-Aumentare di un Livello&+1\\
-Individuare e disarmare tre o più trappole con GS adeguato di fila&+1\\
-Effettuare una scoperta storica, scientifica o magica degna di nota&+1\\
-Possedere un oggetto leggendario o un artefatto&+14\\
-Ricevere una medaglia o una simile onorificenza da una figura pubblica&+1\\
-Restituire un Oggetto Magico significativo o una reliquia al suo proprietario&+1\\
-Saccheggiare la roccaforte di un nobile potente(nemico)&+1\\
-Sconfiggere in singolar tenzone un nemico con un GS più alto del proprio livello&+15\\
-Come gruppo vincere un incontro di combattimento con un APL +3 più&+1\\
-Sconfiggere in combattimento un diffamatore pubblico&+2\\
-Superare una prova di Professione con DC 30 o più per creare un'opera od un oggetto &+2\\
-Superare una prova pubblica di Intimidire con DC 30 o più (devono esserci testimoni)&+2\\
-Superare una prova pubblica di Intrattenere con DC 30 o più (devono esserci testimoni)&+2\\
-Completare un'avventura con una difficoltà adeguato al proprio livello&+3\\
-Ottenere un titolo formale (lady, lord, cavaliere e così via)&+3\\
-Sconfiggere un rivale chiave (della campagna) in combattimento&+5\\
-\textbf{Eventi Negativi}&\\
-Essere condannato per un crimine lieve&-1\\
-Accompagnarsi a una persona disdicevole&-18\\
-Essere condannato per un crimine grave non violento&-2\\
-Fuggire pubblicamente da un incontro con un avversario più debole&-3\\
-Attaccare gente innocente&-5\\
-Essere condannato per un crimine grave violento&-5\\
-Perdere pubblicamente un incontro con un avversario più debole&-5\\
-Essere condannato per omicidio&-8\\
-Essere condannato per tradimento&-10\\
-\end{tabularx}
-
-\bigskip
-
-\begin{multicols}{2}
-
-\subsubsection{Fama}
-
-Si comincia il gioco con una Fama pari al proprio livello del personaggio + il proprio modificatore di Carisma. La fama va da -100 a 100, con 0 che rappresenta la mancanza di notorietà.
-
-Nel corso della campagna, parole e gesta aiutano a costruirsi una reputazione. Benché un avventuriero compia molte imprese, non tutte sono abbastanza significative da garantire un cambiamento di Fama. Se possibile, il Narratore dovrebbe attenersi a quelle imprese che influenzano direttamente la storia o la campagna, e non assegnare punti per le vittorie secondarie.
-
-La significatività di un'impresa specifica dovrebbe essere a discrezione del Narratore, ma la Tabella: Eventi di Fama fornisce alcuni esempi. Se la Fama scende sotto 0, vedi Discredito e Infamia più avanti.
-
-\subsubsection{Sfera di Notorieta'}
-
-La reputazione di un personaggio viaggia di pari passo al racconto delle sue imprese. Anche se è un grande eroe nella sua terra, quando viaggia altrove scoprirà presto che la sua reputazione diminuisce e che prima o poi giungerà in regioni in cui è completamente sconosciuto. Maggiore è la reputazione, più si estende l'Area Influenzata.
-
-La Fama determina il raggio massimo della Sfera di Notorietà. La Sfera di Notorietà ha un raggio di 150 chilometri, e in genere aumenta di altri 150 chilometri quando la Fama arriva a 10, 20, 30, 40 e 55.
-
-Accrescere la Sfera di Notorietà non è sempre automatico, si può esprimere un parere su dove si concentri la propria reputazione. Per esempio, si potrebbe richiedere che la propria sfera si estenda più a sud verso una grande città e ignori le tribù barbariche a est, o che si estenda all'interno verso un altro paese anziché all'esterno, sull'oceano.
-
-Sebbene la reputazione possa diffondersi per caso, in genere lo fa volutamente, perché i cantastorie girovaghi abbelliscono le storie delle gesta di un personaggio per renderle più divertenti, i suoi alleati amplificano le più comuni imprese, i suoi nemici ripetono pettegolezzi su di lui per assoldare altri e combatterlo, o il personaggio stesso racconta la sua storia ad ascoltatori compiaciuti.
-
-Il luogo in cui si narrano queste storie determina dove si sarà conosciuti e crea una Sfera di Notorietà: un'eroica maga potrebbe assoldare dei Bardi per vantarsi della propria magia in un regno vicino che prevede di visitare, mentre un Barbaro antagonista potrebbe spingere verso sud i sopravvissuti feriti delle sue razzie, per diffondere la paura tra le sue prossime vittime.
-
-Le seguenti azioni e condizioni influenzano il modificatore alle prove di Carisma, Diplomazia o Intimidire allo scopo di espandere la Sfera di Notorietà.
-
-\medskip
-
-\textbf{Tabella: Modificatori della Sfera di Notorietà}\index[Tabelle]{Tabella Modificatori della Sfera di Notorietà}
-
-\end{multicols}
-
-\medskip
-
-\begin{tabularx}{0.95\textwidth}{Xl}
-\textbf{Azione}&\textbf{Modificatore alla Prova}\\
-\toprule
-Alleati o servitori diffondono storie delle imprese del PG prima del suo arrivo&+5\\
-Un Bardo diffonde storie o canti delle imprese del PG prima del suo arrivo&+1/2 Punteggio Intrattene del Bardo\\
-Si hanno contatti con i PNG dell'insediamento&+1\\
-Si hanno nemici nell'insediamento&+1\\
-Distanza dalla propria Sfera di Notorietà&-1 per 15 chilometri\\
-La lingua principale dell'insediamento è diversa dalla propria&-5\\
-\end{tabularx}
-
-\begin{multicols}{2}
-
-\subsubsection{Il Livello di Fama}
-
-\begin{itemize}[leftmargin=*]
-
-
-\item Il punteggio di Fama è ciò che rende popolare il personaggio.
-
-\item Un punteggio di fama entro i 10 punti ne faranno un eroe locale, di una piccola città.
-
-\item Un punteggio di fama tra i 10 e 20 punti ne faranno un personaggio pubblico, noto a tutti in una piccola città o eroe di quartiere in una grande città.
-
-\item Un punteggio tra i 20 e 30 punti rende il personaggio noto a tutti anche in una grande città, le sue gesta sono anche conosciute in regione magari non con tutti i dettagli.
-
-\item Un punteggio tra i 30 e 40 è una vera è propria celebrità nella sua città, conosciuto per nome anche nelle città limitrofe e rispettato in tutta la regione.
-
-\item Una fama tra i 40 e 50 punti rendono il personaggio una vera eminenza rispettata nello stato.
-
-\item Un punteggio oltre i 55 punte fanno del personaggio una leggenda le cui gesta vengono tramandata ed ingigantite nei secoli a venire.
-
-\end{itemize}
-
-\subsubsection{Discredito e Infamia}
-
-
-Se la propria Fama scende sotto 0, la reputazione è basata sull'infamia piuttosto che sulla Fama. Si consideri la Fama come un numero positivo anziché un numero negativo per tutte le regole legate a Fama, Sfera di Notorietà e Punti Prestigio (per esempio, una Fama da antagonista di -20 equivale a una Fama da eroe di 20 per i suoi ammiratori.
-
-
-Nel caso in cui un evento possa accrescere la Fama, si può scegliere di aumentare la Fama (portandola più vicina a 0) o di diminuirla (rendendola un numero negativo maggiore). Per esempio, se la Fama di un personaggio è 20 e si tira pubblicamente un 30 su una prova di Professione per creare una spada (cosa che in genere vale +2), si può aumentare la Fama a 18 o diminuirla a 22.
-
-Gli eventi negativi che diminuiscono la Fama contano sempre come negativi (un antagonista che attacchi gente innocente non ispira simpatia al pubblico).
-
-Se si ha una Fama negativa, i PNG non malvagi spesso avranno reazioni maldisposte o ostili (vedi Tabella: Reazioni alla Fama Negativa). Si noti che se si ha una reputazione di persona potente e pericolosa, i PNG potrebbero evitare il PG anziché confrontarsi con lui.
-
-
-\end{multicols}
-
-\textbf{Tabella: Reazioni alla Fama Negativa}\index[Tabelle]{Tabella Reazioni alla Fama Negativa}
-
-\medskip
-
-\begin{tabularx}{0.95\textwidth}{lX}
-\textbf{Fama}&\textbf{Reazione}\\
-\toprule
--5&Mercanti, mercenari e locandieri addebitano un al PG 10\% aggiuntivo per scoraggiare dal fare affari nella loro comunità.\\
--8&Mercanti, mercenari e locandieri si rifiutano di fare affari. Al PG che entra in un negozio viene immediatamente chiesto di andarsene. Se si rifiuta, il proprietario chiama le autorità o i concittadini per buttarlo fuori.\\
--10&Quando il PG si avvicina, i negozi chiudono le finestre e sbarrano le porte. La maggior parte dei cittadini si rifiuta di parlargli. Altri lo spronano ad andarsene immediatamente. Se resta più di 24 ore o agisce platealmente contro i cittadini, la sua Fama diminuisce di 5 e i cittadini si radunano per scacciare il PG.\\
--15&Incendiata dalla spudorata audacia del PG di presentarsi nella comunità, una folla inferocita si raduna. Se il PG non se ne va entro pochi minuti, la folla comincia a bombardarlo con frutta marcia, rami e pietre.\\
--20&Una folla inferocita si forma subito dopo l'ingresso in città del PG. Non volendo attendere un processo potenzialmente corrotto, cercano di catturarlo e giustiziarlo per i suoi crimini.\\
--25&Una figura autoritaria ha promulgato un editto di arresto contro il PG, compresa una ricompensa per chiunque lo catturi. La cosa è risaputa e molti vogliono riscuoterla.\\
--30&Una figura autoritaria ha messo una taglia sulla testa del PG. La cosa è risaputa e molti vogliono riscuoterla.\\
-
-\end{tabularx}
-
-\vfill
-
-\begin{center}
-\includegraphics[keepaspectratio,width=0.55\textwidth]{immagini/Eastern_Story_Teller_1878.png}
-
-\emph{Le leggende vengono raccontate. Travelers in the Middle East Archive, Wilhelm Gentz}
-\end{center}
-
-\pagebreak
 
 \section{Veleni, Pozioni e Malattie}\index{Veleni}\index{Pozioni}\index{Malattie}
 
@@ -19333,7 +18819,7 @@ Un personaggio a contatto con un altra creatura può usare \textbf{una Azione} p
 
 Passare attraverso uno spazio di una taglia più piccola equivale a muoversi in terreno difficile. Es. una creatura media, che occupa 1 quadretto, che deve passare per una strettoia da mezzo quadretto (mezzo metro) tratta quel percorso come terreno difficile.
 
-Non è possibile attraversare restringimenti più stretti della metà della creatura.
+Non è possibile attraversare restringimenti più stretti della metà.
 
 \subsection{Movimento Locale}\index{Movimento Locale}\label{movimentolocale}
 
@@ -19464,7 +18950,7 @@ Gli oggetti con scarso peso e volume hanno ingombro \textbf{Leggero} (L). Questi
 
 \subsubsection{Capacita' di Carico}\label{capacitadicarico}\index{Capacita' di Carico}
 
-La Capacità di Carico di una creatura è data dalla somma di Taglia, Forza e la Costituzione.
+La Capacità di Carico di una creatura è data dalla \textbf{somma di Taglia, Forza e la Costituzione}.
 
 La Taglia di una creatura concede un bonus alla \textbf{CdC} (Capacità di Carico) pari a 9 se Piccola, 16 se Media, 25 se Grande. L'Ingombro di una creatura se trascinata\index{Trascinare un corpo} di peso è pari alla metà della sua Capacità di Carico data dalla taglia più il suo ingombro.\index{Ingombro Creature trasportate}
 
