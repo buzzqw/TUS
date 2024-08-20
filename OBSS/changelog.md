@@ -620,7 +620,7 @@ aggiornata versione POD 2024/08/16
 
 aggiornata versione POD 2024/08/18
 
-0.90a aggiornati oggetti magici, 
+0.90a aggiornati oggetti magici, dettagli su combattimenti sott'acqua, 
 
 
 
