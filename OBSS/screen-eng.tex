@@ -422,20 +422,20 @@ A Light Weapon has Encumbrance 1, Medium has 2, Large has 4.
 
 \begin{textblock*}{15cm}(1cm,1cm) % box width, coord X, coord Y
 
-\begin{tabular}{lllllll}
-\textbf{Armor} & \textbf{Cost (gp)} & \textbf{Defense} & \textbf{-Comp.} & \textbf{Type} & \textbf{Move.} & \textbf{Try Magic}\\
+\begin{tabular}{llllllll}
+\textbf{Armour} & \textbf{Cost (gp)} & \textbf{Defence} & \textbf{Penalty Skill} & \textbf{Type} & \textbf{Move} & \textbf{Magic Test}&\textbf{Encumbrance}\\
 \hline
-Padded & 5 & 1 & 0 & L & 0 & No\\
-Leather & 10 & 2 & 0 & L & 0 & SI\\
-Reinforced Leather & 25 &3 & 0 & L & 0 &SI \\
-Jersey & 15 & 4 & -1 & M & 0 &+1d6\\
-Scales& 50 & 5 & -1 & M & 0 &+1d6 \\
-Rings & 150 & 6 & -1 & M & 0 &+1d6\\
-Breastplate & 200 & 6 & -2 & M & 0 &+1d6 \\
-Bands & 250 & 7 & -2 & P & 0 &+2d6 \\
-Half armor & 1200 & 8 & -2 & P & 1 &+2d6 \\
-from Field& 1400 & 9 & -3 & P & 2 &+2d6 \\
-Complete & 1500 & 10 & -4 & P & 3 &+2d6 \\
+Padded & 5 & 1 & 0 & L & 0 			& NO&2\\
+Leather & 10 & 2 & 0 & L & 0		& YES&2\\
+Studded Leather & 25 &3 & 0 & L & 0 & YES&2\\
+Chain shirt & 15 & 4 & -1 & M & 0 	&+2&4\\
+Scales & 50 & 5 & -1 & M & 0 		&+2&4\\
+Chain Rings & 150 & 6 & -1 & M & 0 	&+2&4\\
+Breastplate & 200 & 6 & -2 & M & 0 	&+2&4\\
+Bands & 250 & 7 & -2 & P & 0 		&+1&8\\
+Half Armour & 1200 & 8 & -2 & P & 1 &+1,2&8\\
+from Field& 1400 & 9 & -3 & P & 2 	&+1,2&8\\
+Complete & 1500 & 10 & -4 & P & 3 	&+1,1&8\\
 \end{tabular}
 
 \linex
@@ -443,13 +443,12 @@ Complete & 1500 & 10 & -4 & P & 3 &+2d6 \\
 \begin{tabular}{lccccc}
 \textbf{Shields} & \textbf{Cost} & \textbf{Defense} & \textbf{TC Penalty} & \textbf{Try Magic} & \textbf{Type}\\
 \hline
-Buckler& 5 gp & 0& 1& SI& L\\
-Light wooden shield & 3 gp & 0& 2& SI & L\\
-Light Metal Shield & 9 gp & 0& 3&SI & L\\
-Medium wood shield & 5 gp & -1& 4& +1d6 & M\\
-Medium metal shield & 12 gp & -1 & 5& +1d6 & M\\
-Heavy wooden shield & 7 gp & -2 & +2d6&5 & P\\
-Heavy metal shield & 20 gp & -2 & +2d6&7 & P\\
+Light wooden shield 	 & 	3 mo  	&  1	& 0& YES	& L\\
+Light Metal Shieldo 	& 	9 mo  	&  1	& 0& YES  	& L\\
+Medium wood shield		 &	5 mo 	&  2	& 0& +2		& M\\
+Medium metal shield	 	 &	12 mo  	&  2  	& 0& +2  	& M\\
+Medium metal shield 	 & 	9  mo  	&  3 	& 1& +1,2  	& P\\
+Heavy metal shiel		 & 	20 mo  	&  3	& 1& +1,2  	& P\\
 \end{tabular}
 
 \linex
@@ -815,59 +814,55 @@ DC is 10 + 2 x spell level + Intelligence
 
 \textbf{Magic Test Critical Failure - 3d6 -1d6 x Crit. mins 1d6}
 \begin{tabularx}{0.95\textwidth}{lX}
-1 & Increase fatigued by 2 ranks\\
-2 & For 1 day you are no longer able to channel magical energies. You cannot cast spells except by making a critical magical success in the Magic Trial\\
-3 & You exhibit a minor body modification\\
-4 & You are hit by a thundering column of Light and Void. In a 10-foot radius around you, anyone must make a DC 15 Reflex save to take half or take 1d6 damage per spell level\\
-5 & ​​For 3 rounds you are under the influence of the Confusion spell\\
+1 & For 1 day you are no longer able to channel magical energies. You cannot cast spells unless you make a critical magical success on the Magic Test\\
+2 & Increase your Fatigued status by 2 ranks\\
+3 & You exhibit minor body modification\\
+4 & You are hit by a thundering column of Light and Void. In a 10-foot radius centered on you, anyone must make a DC 15 Reflex saving throw to halve or take 1d6 points of damage per spell level\\
+5 & For 3 rounds you are under the influence of the Confusion spell\\
 6 & You are paralyzed for 3 rounds\\
-7 & Be teleported within 3d10 meters in a random direction\\
-8 & You become invisible and unable to speak for 6 rounds\\
-9 & Only you are enveloped in a curtain of impenetrable magical darkness for 6 rounds\\
-10 & You can't speak well, you stutter. Each spell cast forces you to pass a Magic Test. Duration 3 rounds\\
-11 & The next spell you cast has effects minimized if possible\\
-12 & Your heartbeat is like the beating of a drum, it can be heard within 50 meters\\
-13 & All your body hair is falling out, luckily it can grow back\\
-14 & You emit a loud and pestilential flatulence. A 1m x 50cm luminous sign above your head indicates and mocks you\\
+7 & You are teleported 3d10 meters in a random direction\\
+8 & Only you are shrouded in impenetrable magical darkness for 6 rounds\\
+9 & You become invisible and unable to speak for 6 rounds\\
+10 & You can't speak well, you stutter. Each spellcasting forces you to pass a Magic Test. Duration 3 rounds\\
+11 & The next spell you cast has effects that are minimized if possible\\
+12 & All creatures within 60 feet know exactly where you are and what you were trying to do.\\
+13 & Your heartbeat is like the beating of a drum, it can be heard within 36 meters\\
+14 & All your body hair falls out, luckily it can grow back\\
 15 & Every object you hold in your hand falls to the ground\\
-16 & Earn 2d6 Magic Points\\
-17 & An anvil falls, 3d6 damage Reflex save DC 15 to halve, on a random creature, excluding you, within six meters\\
-18 & All creatures, except you, within 20 feet of you take 1d10 unresistable damage
+16 & Gain 2d6 Magic Points\\
+17 & An anvil falls, 3d6 damage Reflex save DC 15 to halve, on one random creature, excluding you, within twenty feet\\
+18 & Creatures, excluding you, within 20 feet of you take 3d10 unresistible damage
 \end{tabularx}
 
 \linex
 
 \textbf{Maximum Spell Level that can be cast}
 
-\begin{itemize}
-\item
-\textbf{Adept of Magic} (Rule 1) \\
-- taken once you can only cast spells up to and including level 4\\
-- taken 2 times you can only cast spells up to and including level 6\\
-- taken 3 times you can cast each level of spell
+Add to CM the times you took Adept of Magic and divide the result by 2. E.g. CM=8, Adept of Magic taken 4 times, (8+4)/2=6, or CM=13, Adept of Magic 1 time, (13+1)/2=7 spell level.
 
-\item
-\textbf{Magical Expertise} (Rule 2)\\
-- you can cast spells within +1 half of the Magic Proficiency value, e.g. CM 7 = (7/2)+1 = 3+1 = 4lv spells
-
-\end{itemize}
 
 \linex
 
 \textbf{Alter Magic}
 
-\textbf{Effective Magic}: Caster ignores a 1 or 2 rolled in the Magic Test paying x2,x3,x4 spell cost.
+- \textbf{Punishing Spells}: 2 times spell cost, +1 die in the Magic Test. Reaction
 
-\textbf{Ethereal Magic}: increasing the Magic Points spent in the spell by 3, your spells have full effect on ethereal or incorporeal creatures
+- \textbf{Effective spells}: 3 times spell cost, -1 die in the Magic Test. Reaction
 
-\textbf{Merciful Magic}: spells inflict temporary damage by increasing spent Magic Points by 3.
+- \textbf{Ethereal Magic}\index{Ethereal Magic}: +3 Magic Points, hit ethereal or incorporeal creatures. Immediate Action.
 
-\textbf{Increase casting time} from 2 Actions to 1 round -1 in Magic Points
+- \textbf{Magic Sacrifice}\index{Magic Sacrifice}: -4 HP +1 Magic Point. You can't sacrifice more than half your current Hit Points at a time. Immediate Action.
 
-\textbf{Collaborative Magic}: another wizard costing half Magic Points grants +1d6 to the companion's Magic Test.
+- \textbf{Pitiful Magic}\index{Pitiful Magic}: +3 Magic Points and temporary damage. 1 Action.
 
-\textbf{Circle of Power}: all Devotees or Followers of the same Patron
-Cost per mage half the Magic Points of the spell cast by the companion +1d6 to the companion's Magic Test, max +7d6. Cast time at least 1 turn
+- \textbf{Targeted Magic}\index{Targeted Magic}: every two times Adept of Magic exclude 1 target from spell. Cost 2 Magic Points per excluded creature. 1 Action.
+
+- \textbf{Far Magic}\index{Far Magic}: +1 Magic Points increase the casting distance up to 9 meters. 1 Action.
+
+- \textbf{Increase time}\index{Increase time} +1 Action, -1 Magic Point
+
+- \textbf{Circle of Power}\index{Circle of Power}: see description
+
 \end{textblock*}
 
 ~\newpage

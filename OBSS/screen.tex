@@ -436,31 +436,30 @@ La CdC è pari a 9 (P), 16 (M), 25 (G) + Forza + Costituzione.
 \begin{tabular}{cccccccc}
 \textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{-Comp.} &  \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Ingombro (indossato)}\\
 \hline
-Imbottita   & 5    & 1   & 0  &  L   & 0   & No&1\\
-Cuoio   & 10   & 2   & 0   & L   & 0   & SI&1\\
-Cuoio rinforzato   & 25  &3  & 0   &    L   & 0 &SI&1 \\
-Giaco di Maglia   & 15   & 4  & -1  &  M   & 0  &+1d6&2\\
-Scaglie& 50   & 5  & -1  &  M   & 0 &+1d6 &2\\
-Anelli & 150  & 6  & -1  &  M   & 0  &+1d6&2\\
-Pettorale    & 200  & 6  & -2  &  M  &  0 &+1d6 &2\\
-Bande   & 250  & 7  & -2  &  P   & 0  &+2d6 &4\\
-Mezza armatura   & 1200 & 8  & -2  &  P   & 1 &+2d6&4  \\
-da Campo& 1400 & 9 & -3  &   P   & 2  &+2d6&4 \\
-Completa& 1500 & 10  & -4  & P   & 3  &+2d6&4 \\
+Imbottita  		& 5 	& 1  & 0   & L & 0 & NO	&2\\
+Cuoio 			& 10	& 2  & 0   & L & 0 & SI	&2\\
+Cuoio rinforzato& 25  	& 3  & 0   & L & 0 & SI	&2\\
+Giaco di Maglia & 15 	& 4  & -1  & M & 0 &+2	&4\\
+Scaglie			& 50 	& 5  & -1  & M & 0 &+2	&4\\
+Anelli 			& 150  	& 6  & -1  & M & 0 &+2	&4\\
+Pettorale  		& 200  	& 6  & -2  & M & 0 &+2	&4\\
+Bande 			& 250  	& 7  & -2  & P & 0 &+1	&8\\
+Mezza armatura  & 1200 	& 8  & -2  & P & 1 &+1,2&8\\
+da Campo		& 1400  & 9  & -3  & P & 2 &+1,2&8\\
+Completa		& 1500  & 10 & -4  & P & 3 &+1,1&8\\
 \end{tabular}
 
 \riga
 
-\begin{tabular}{lcccccc}
-\textbf{Scudi} & \textbf{Costo} & \textbf{Difesa} & \textbf{Penalità TC} & \textbf{Prova magia} & \textbf{Tipo} & \textbf{Ingombro (indossato)}\\
+\begin{tabular}{lccccc}
+\textbf{Scudi} & \textbf{Costo} & \textbf{Difesa} & \textbf{Penalità TC} & \textbf{Prova magia} &  \textbf{Ingombro (indossato)}\\
 \hline
-Brocchiero& 5 mo  &  0& 1& SI& L&1\\
-Scudo leggero di legno   & 3 mo  &  0& 2& SI  & L&1\\
-Scudo leggero di metallo & 9  mo  &  0& 3&SI  & L&1\\
-Scudo medio legno   & 5 mo   &  -1& 4& +1d6  & M&2\\
-Scudo medio metallo & 12 mo  & -1  & 5& +1d6  & M&2\\
-Scudo pesante di legno   & 7  mo  &  -2    & +2d6&5  & P&2\\
-Scudo pesante di metallo & 20 mo  &  -2    & +2d6&7  & P&2\\
+Scudo leggero di legno 	 & 	3 mo  	&  1	& 0& SI	  	& L\\
+Scudo leggero di metallo & 	9 mo  	&  1	& 0& SI	  	& L\\
+Scudo medio legno		 &	5 mo 	&  2	& 0& +2		& M\\
+Scudo medio metallo	 	 &	12 mo  	&  2  	& 0& +2  	& M\\
+Scudo pesante di legno   & 	9  mo  	&  3 	& 1& +1,2  	& P\\
+Scudo pesante di metallo & 	20 mo  	&  3	& 1& +1,2  	& P\\
 \end{tabular}
 
 \riga
@@ -791,7 +790,7 @@ Mod. Caratteristica + \\
 \riga
 
 \textbf{Tiro Salvezza Incantesimo}\\
-DC = 10 + Competenza Magica + modificatore caratteristica per incantesimo + 2 x Abilità prese in quella Liste di Magia +1 x Critico nella Prova di Magia
+DC = 10 + Competenza Magica + modificatore caratteristica per incantesimo + 1 x Adepto della Magia +1 x Critico nella Prova di Magia
 
 \riga
 
@@ -805,11 +804,7 @@ DC è 10 + 2 x livello incantesimo + Intelligenza
 
 \riga
 
-\textbf{Quando si hanno < 50\% Punti Magia} ogni incantesimo deve essere fatto con una Prova di Magia.
-
-\riga
-
-\textbf{Successo Critico Automatico}:  x2 costo Punti Magia cumulativo. Es. 4,8,16,32..
+\textbf{Opzionale Successo Critico Auto matico}:  x2 costo Punti Magia cumulativo. Es. 4,8,16,32..
 
 \riga
 
@@ -829,57 +824,56 @@ DC è 10 + 2 x livello incantesimo + Intelligenza
 
 \textbf{Fallimento Critico Prova di Magia - 3d6 -1d6 x Fallimento Crit. Min. 1d6}
 \begin{tabularx}{0.95\textwidth}{lX}
-1 & Aumenti la condizione di Affaticato di 2 gradi\\
-2 & Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia\\
+1 & Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia\\
+2 & Aumenti la condizione di Affaticato di 2 gradi\\
 3 & Manifesti una modifica corporea minore\\
-4 & Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 3 metri intorno a te compreso, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 1d6 di danni per livello di incantesimo\\
+4 & Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 3 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 1d6 di danni per livello dell'incantesimo\\
 5 & Per 3 round sei sotto l'influenza dell'incantesimo Confusione\\
 6 & Sei paralizzato per 3 round\\
-7 & Vieni teletrasportato entro 3d10 metri in una direzione casuale\\
-8 & Diventi Invisibile ed incapace di parlare per 6 round\\
-9 &  Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round\\
+7 & Vieni teletrasportato di 3d10 metri in una direzione casuale\\
+8 &  Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round\\
+9 & Diventi Invisibile ed incapace di parlare per 6 round\\
 10 & Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round\\
 11 & Il prossimo incantesimo che lanci ha effetti se possibile minimizzati\\
-12 & Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 50 metri\\
-13 & Ti cadono tutti i peli del corpo, per fortuna possono ricrescere\\
-14 & Emetti una rumorosa e pestilenziale flatulenza. Una insegna luminosa di 1m x 50cm sopra la tua testa ti indica e ti sbeffeggia\\
+12 & Tutte le creature nel raggio di 18 metri sanno esattamente dove sei e cosa tentavi di fare.\\
+13 & Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 36 metri\\
+14 & Ti cadono tutti i peli del corpo, per fortuna possono ricrescere\\
 15 & Ogni oggetto che tieni in mano ti cade a terra\\
 16 & Guadagni 2d6 Punti Magia\\
 17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
-18 & Tutte le creature, escluso te, nel raggio di 6 metri da te subiscono 1d10 danni non resistibili
+18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni non resistibili
 \end{tabularx}
 
 \riga
 
 \textbf{Massimo Livello Incantesimo lanciabile}
 
-- Se Adepto della Magia è stato preso 1 volta il massimo livello di incantesimo lanciabile è (CM+1)/2. Es. CM=6, (6+1)/2=3 livello di incantesimi.
-
-- Se Adepto della Magia è stato preso 2 volte il massimo livello di incantesimo lanciabile è (CM+3)/2. Es. CM=8, (8+3)/2=5 livello di incantesimi.
-
-- Se Adepto della Magia è stato preso 3 volte il massimo livello di incantesimo lanciabile è (CM+5)/2. Es. CM=11, (11+5)/2=8 livello di incantesimi.
-
+Sommate a CM le volte che avete preso Adepto della Magia e dividete il risultato per 2. Es. CM=8, Adepto della Magia preso 4 volte, (8+4)/2=6, oppure CM=13 e Adepto della Magia 1 volta, (13+1)/2=7 livello di incantesimi.
 
 \riga
 
 \textbf{Alterare la Magia}
 
-\textbf{Magia efficace}: l'Incantatore 1,2 tirato nella Prova di Magia pagando x2,x3,x4. Anche compagna
+- \textbf{Magie Punitive}: 2 volte costo magia, +1 dado nella Prova di Magia. Reazione
 
-\textbf{Magia eterea}: aumentando di 3 i Punti Magia spesi nell'incantesimo le proprie magie hanno pieno effetto su creature eteree o incorporee
+- \textbf{Magie efficaci}: 3 volte costo magia, -1 dado nella Prova di Magia. Reazione
 
-\textbf{Magia pietosa}: aumentando di 3 i Punti Magia spesi le magie infliggono danni temporanei.
+- \textbf{Magia eterea}\index{Magia eterea}: +3 Punti Magia, colpisci creature eteree o incorporee. Azione Immediata.
 
-\textbf{Aumentare il tempo} di lancio da 2 Azioni a 1 round -1 in Punti Magia
+- \textbf{Sacrificio Magico}\index{Sacrificio magico}: -4 PF +1 Punto Magia. Non puoi sacrificare più di metà dei Punti Ferita attuali alla volta. Azione Immediata.
 
-\textbf{Magie collaborative}: un altro mago costo metà Punti Magia concede +1d6 alla Prova di Magia del compagno.
+- \textbf{Magia pietosa}\index{Magia pietosa}: +3 Punti Magia e danni temporanei. 1 Azione.
 
-\textbf{Circolo del Potere}: tutti Devoti o Seguaci dello stesso Patrono
-Per mago costo la metà dei Punti Magia dell'incantesimo lanciato dal compagno +1d6 alla Prova di Magia del compagno, max +7d6. Tempo lancio almeno 1 turno
+- \textbf{Magia mirata}\index{Magia mirata}: ogni due volte Adepto della Magia escludi 1 target da incantesimo. Costo 2 Punti Magia per creatura esclusa. 1 Azione.
 
+- \textbf{Magia lontana}\index{Magia lontana}: +1 Punti Magia aumenti fino a 9 metri la distanza di lancio. 1 Azione.
+
+- \textbf{Aumentare il tempo}\index{Aumentare il tempo} +1 Azione,  -1 Punto Magia
+
+- \textbf{Circolo del Potere}\index{Circolo del Potere}: vedi descrizione
 \end{textblock*}
 
-\begin{textblock*}{19 cm}(1cm,26.6cm)
+\begin{textblock*}{19 cm}(1cm,25.6cm)
 	\textbf{Leggere una Pergamena}
 	
 	\textbf{in caso di pergamene ISY SCROLL}: costo produzione livello*livello*160mo
