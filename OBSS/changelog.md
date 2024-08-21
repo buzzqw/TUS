@@ -620,7 +620,7 @@ aggiornata versione POD 2024/08/16
 
 aggiornata versione POD 2024/08/18
 
-0.90a aggiornati oggetti magici, dettagli su combattimenti sott'acqua, rivisto sistema magico semplificandolo, rivista tabella fallimenti critici magici, aggiornato elenco abilita' di lista, aggiornata scheda, aggiornato screen, 
+0.90a aggiornati oggetti magici, dettagli su combattimenti sott'acqua, rivisto sistema magico semplificandolo, rivista tabella fallimenti critici magici, aggiornato elenco abilita' di lista, aggiornata scheda, aggiornato screen, chiarimenti su pericoli d'avventura, 
 
 
 - aggiunti \label{} fino a piani
