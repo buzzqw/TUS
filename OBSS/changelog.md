@@ -620,8 +620,11 @@ aggiornata versione POD 2024/08/16
 
 aggiornata versione POD 2024/08/18
 
-0.90a aggiornati oggetti magici, dettagli su combattimenti sott'acqua, rivisto sistema magico semplificandolo, rivista tabella fallimenti critici magici, aggiornato elenco abilita' di lista, aggiornata scheda, aggiornato screen, chiarimenti su pericoli d'avventura, aggiornata abilita' armatura del dovoto - elemenalista - forma elementale, corretto Opzionale - Variante Tiri Critici, modificato creare pergamente, aggiunto mostro Silku, aggiornata abilita' incantatore da combattimento, aggiornati riferimenti errati a nomenclatura azioni, 
+0.91 aggiornati oggetti magici, dettagli su combattimenti sott'acqua, rivisto sistema magico semplificandolo, rivista tabella fallimenti critici magici, aggiornato elenco abilita' di lista, aggiornata scheda, aggiornato screen, chiarimenti su pericoli d'avventura, aggiornata abilita' armatura del dovoto - elemenalista - forma elementale, corretto Opzionale - Variante Tiri Critici, modificato creare pergamente, aggiunto mostro Silku, aggiornata abilita' incantatore da combattimento, aggiornati riferimenti errati a nomenclatura azioni, 
 
+aggiornata versione POD 2024/08/23
+
+0.92
 
 - aggiunti \label{} fino a piani
 
