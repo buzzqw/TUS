@@ -616,7 +616,7 @@ aggiornata versione POD 2024/08/16
 
 0.89a aggiornata abilita' Fedele, chiarimenti su Freccia chiamata freccia consegnata, chiarimenti su lista d'armi pugno vuoto, abilita' ali della fenice - gru d'argento - pugno potente - armatura della montagna d'argento - tempesta di furia, energia psichica - colpo psichico - raggio psichico, aggiornato incantesimo comando
 
-0.90 incominciata riduzione del manuale, aggiornato belenvon - orudjs - rezh - tazher - torbiorn - gaya
+**0.90** incominciata riduzione del manuale, aggiornato belenvon - orudjs - rezh - tazher - torbiorn - gaya
 
 aggiornata versione POD 2024/08/18
 
@@ -624,7 +624,7 @@ aggiornata versione POD 2024/08/18
 
 aggiornata versione POD 2024/08/23
 
-**0.92**
+**0.92** aggiornato mostro Silku, chiarimenti su copertura in combattimento, 
 
 - aggiunti \label{} fino a piani
 

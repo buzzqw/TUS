@@ -79,38 +79,38 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 
 
 \fancypagestyle{plain}{%
-	%% Clear all headers and footers
-	\fancyhf{}
-	%% Right headers on odd pages
-	\fancyhead[RO]{%
-		\rotatebox{90}{
-			\begin{tikzpicture}[overlay,remember picture]
-				\node[fill=lightgray,text=black,
-				font=\footnotesize,
-				inner ysep=12pt, inner xsep=20pt,
-				rounded rectangle,anchor=east,minimum width=7cm,
-				xshift=-60mm,yshift=-23mm, text height=0.4cm]
-				at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
-				{\sffamily\itshape\small\nouppercase{\leftmark}};
-			\end{tikzpicture}
-		}
-	}
-	%% Left headers on even pages
-	\fancyhead[LE]{%
-		\rotatebox{90}{
-			\begin{tikzpicture}[overlay,remember picture]
-				\node[fill=lightgray,text=black,
-				font=\footnotesize,
-				inner ysep=12pt, inner xsep=20pt,
-				rounded rectangle,anchor=east,minimum width=7cm,
-				xshift=-60mm,yshift=-2mm, text height=0.4cm]
-				at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
-				{\sffamily\itshape\small\nouppercase{\leftmark}};
-			\end{tikzpicture}
-		}
-	}
-	\renewcommand{\headrulewidth}{0pt}
-	\renewcommand{\footrulewidth}{0pt}
+%% Clear all headers and footers
+\fancyhf{}
+%% Right headers on odd pages
+\fancyhead[RO]{%
+\rotatebox{90}{
+\begin{tikzpicture}[overlay,remember picture]
+\node[fill=lightgray,text=black,
+font=\footnotesize,
+inner ysep=12pt, inner xsep=20pt,
+rounded rectangle,anchor=east,minimum width=7cm,
+xshift=-60mm,yshift=-23mm, text height=0.4cm]
+at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
+{\sffamily\itshape\small\nouppercase{\leftmark}};
+\end{tikzpicture}
+}
+}
+%% Left headers on even pages
+\fancyhead[LE]{%
+\rotatebox{90}{
+\begin{tikzpicture}[overlay,remember picture]
+\node[fill=lightgray,text=black,
+font=\footnotesize,
+inner ysep=12pt, inner xsep=20pt,
+rounded rectangle,anchor=east,minimum width=7cm,
+xshift=-60mm,yshift=-2mm, text height=0.4cm]
+at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
+{\sffamily\itshape\small\nouppercase{\leftmark}};
+\end{tikzpicture}
+}
+}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
 }
 \pagestyle{plain}
 \fancyfoot[C]{\thepage}
@@ -338,7 +338,7 @@ Andres Zanzani
 
 \begin{center}
 \includegraphics[keepaspectratio,width=0.85\textwidth]{immagini/Dragon_by_Henry_Justice_Ford_grey.png}
-	
+
 \textit{The End of the Dragon - Henry Justice Ford}
 \end{center}
 
@@ -387,7 +387,7 @@ OBSS wants to continue in the wake of an inclusive and free game. Each group is 
 \textbf{Damage Resistance (DR)}, \textbf{Resistance}: \index{Damage Resistance}\index{RD}: A creature might have resistance to one type of damage. In this case it is considered that you automatically halve the damage taken before applying any Saving Throws.
 
 \begin{center}
-	\includegraphics[width=0.4\textwidth]{immagini/cavaliere2.png}
+\includegraphics[width=0.4\textwidth]{immagini/cavaliere2.png}
 \end{center}
 
 \textbf{Defence}: \index{Defence}Defence means the total value obtained from 10 + Shield + Armour + Dexterity + various and any bonuses. It represents the difficulty in being hit, the higher it is the harder it is to be hit.
@@ -423,7 +423,7 @@ Each time you level up, you gain a certain number of Hit Points, established by 
 \textbf{Magic Proficiency (MP)}: \index{Magic Proficiency}\index{MP}is your ability to use spells, the higher this value is, the more effective the spells will be.
 
 \begin{center}
-	\includegraphics[keepaspectratio,width=0.40\textwidth]{immagini/spiritomagia2.png}
+\includegraphics[keepaspectratio,width=0.40\textwidth]{immagini/spiritomagia2.png}
 \end{center}
 
 \textbf{Magic Test}\index{Magic Test}: The Magic Test can be due for particular situations, for example when the character is injured or distracted, but it can also be requested by the player.
@@ -440,9 +440,9 @@ Any creature you can reach with your non-ranged weapon is considered melee. A la
 \textbf{Movement}: \index{Movement}Movement represents the ability to move. A Move Action represents the movement of the character. The higher the movement value, the more meters a creature can move.
 
 \begin{center}
-	\includegraphics[width=0.40\textwidth]{immagini/merlin.png}
-	
-	\textit{Merlin dictating his prophecies to his scribe. Robert de Boron's Merlin en prose (written ca 1200)}
+\includegraphics[width=0.40\textwidth]{immagini/merlin.png}
+
+\textit{Merlin dictating his prophecies to his scribe. Robert de Boron's Merlin en prose (written ca 1200)}
 \end{center}
 
 \textbf{One is bad luck}: \index{One bad luck}If you roll a 1 with the die, subtract 1 from the total roll. This does not mean that a 6 thrown becomes a 5, the explosion of the 6 remains.. only that you subtract 1 from the final result. Put differently, 1 equals 0.
@@ -455,9 +455,9 @@ Any creature you can reach with your non-ranged weapon is considered melee. A la
 
 %\begin{wrapfigure}{c}{0.5\textwidth}
 \begin{center}
-	\includegraphics[width=0.35\textwidth]{immagini/Sakramentarz_tyniecki_02.png}
-	
-	\textit{Sakramentarz Tyniecki: Majuskuła "V".}
+\includegraphics[width=0.35\textwidth]{immagini/Sakramentarz_tyniecki_02.png}
+
+\textit{Sakramentarz Tyniecki: Majuskuła "V".}
 \end{center}
 
 \textbf{PNG}: \index{NPC}non-player character. They are particular characters, important or not, that the Arbiter keeps to lead the adventure.
@@ -1502,10 +1502,10 @@ The initial Profession and the skills acquired must be marked on the sheet, obvi
 \begin{tabularx}{0.95\textwidth}{lllll}
 \textbf{\textbf{Profession}}& \textbf{1 point} & \textbf{2 points} & \textbf{2 points} & \textbf{3 points}\\ 
 \toprule
-\textbf{Acolyte}& Occult	& History or Geography 	& Arcana	& Religion\\
-\textbf{Alchemist}	& Appraise	&Nature		& Herbalism	& Arcana\\
-\textbf{Farmer}		& Survival	&Track	& Animal Handling	&Nature \\
-\textbf{Mage's Apprentice}& History \& Geography	&Occult &Myths \& Legends &Arcana\\
+\textbf{Acolyte}& Occult& History or Geography & Arcana& Religion\\
+\textbf{Alchemist}& Appraise&Nature& Herbalism& Arcana\\
+\textbf{Farmer}& Survival&Track& Animal Handling&Nature \\
+\textbf{Mage's Apprentice}& History \& Geography&Occult &Myths \& Legends &Arcana\\
 \textbf{Lawyer}& Evaluate&Deceive&Sense Emotions&Diplomacy\\
 \textbf{Librarian}& Nature\&Geography&Local Trad.&Religion\&Arcana&History\\
 \textbf{Lumberjack}& Use Rope&Nature& Navigation&Survival\\
@@ -1718,7 +1718,7 @@ Attributing the Active Skills point to \textbf{Basic Skills} means distributing 
 
 Wang Chi:  You Ready, Jack?
 
-Jack Burton: I Was Born ready. 	(Big Trouble in Little China, Film 1986)
+Jack Burton: I Was Born ready. (Big Trouble in Little China, Film 1986)
 }\end{emphasis}\end{changemargin}
 
 
@@ -2192,10 +2192,10 @@ Don't let checks dictate your game. Encourage the players to role-play, to inter
 If they state, "I convince the guard to let us through," you may perform an Intimidate (or Diplomacy) check. If instead, they engage in a persuasive conversation, you can consider the check as having a positive outcome (or negative if they fail to persuade). Emphasize the HOW they did it, rather than just the WHAT they did.
 \end{narrator}\end{changemargin}
 
-\subsection{The Evidence}\index{Opposing Evidence}\label{opposing Evidence}\index{Comparing Evidence}
+\subsection{The Check}\index{Opposing Check}\label{opposing Evidence}\index{Comparing Check}
 
 
-\subsubsection{Proficiency Tests pitted against an opponent}\index{Tests pitted against an opponent}
+\subsubsection{Proficiency Tests against an opponent}\index{Tests against an opponent}
 
 There are situations in which the character must perform an Opposite Test against an opponent, for example moving silently behind a guard, stealing from the merchant's pockets, intimidating the orc to give him directions, pushing an opponent...
 
@@ -2221,6 +2221,14 @@ Whoever obtains the highest value wins, in case of a tie, the winner is the one 
 
 - Arm wrestling: Fortitude save (with Strength modifier)
 
+
+\begin{center}
+\includegraphics[width=0.6\linewidth]{immagini/Foster_Bible_Pictures.png}
+
+\emph{Bible Pictures and What They Teach Us}
+\end{center}
+
+
 \subsubsection{Opposing Characteristic Tests}
 
 Whenever the \textbf{Test} or \textbf{Opposed Test} concerns a \textbf{Characteristic} and not a Competence, make the test (3d6+) by adding the most suitable Saving Throw to the most suitable Characteristic.
@@ -2230,12 +2238,12 @@ Whenever the \textbf{Test} or \textbf{Opposed Test} concerns a \textbf{Character
 \textbf{Table: Opposed Trials and Modifiers}\index{Table of Opposed Trials and Modifiers}\label{Table of Opposed Trials and Modifiers}
 
 \begin{tabularx}{0.45\textwidth}{Xl}
-	\toprule
-	\textbf{Contrasted Test} & \textbf{TS} \\
-	Strength & Temper \\
-	Dexterity & Reflexes \\
-	Constitution & Temper \\
-	Intelligence, Wisdom, Charisma & Will \\
+\toprule
+\textbf{Contrasted Test} & \textbf{TS} \\
+Strength & Temper \\
+Dexterity & Reflexes \\
+Constitution & Temper \\
+Intelligence, Wisdom, Charisma & Will \\
 \end{tabularx}
 
 \medskip
@@ -2246,14 +2254,10 @@ It is possible that Contrasting Tests may be requested with different modifiers 
 
 If the Test is opposed to a \textit{static opponent}, i.e. not a creature equipped with Characteristics and Skills, but a lock, something to push... then the test is performed by comparing 3d6 + the Characteristic involved + the Active Skill ( TS) most suitable against the difficulty (\textbf{DC}) established by the Narrator.
 
-\medskip
 
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/Foster_Bible_Pictures.png}
-	
-	\emph{Bible Pictures and What They Teach Us}
-\end{center}
-
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narrator}
+The bonuses and penalties on the 3d6 roll have more \textit{effect} than on the d20 check. Try to always stay within the range of $\pm2$ and apply greater bonuses or penalty only in particular situations of effective and strong advantage or disadvantage.
+\end{narrator}\end{changemargin}
 
 
 \subsection{Pros and Cons} \index{Bonus}\index{Pro}\index{Penalty}\index{Disavantage}\label{vantaggi}
@@ -2291,10 +2295,6 @@ Normal disadvantage & -2 & -2\\
 Strong Disadvantage & -1d6 & -4\\
 Very Strong Disadvantage & -2d6 & -8\\
 \end{tabular}
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narrator}
-The bonuses and penalties on the 3d6 roll have more \textit{effect} than on the d20 check. Try to always stay within the range of $\pm2$ and apply greater bonuses or penalty only in particular situations of effective and strong advantage or disadvantage.
-\end{narrator}\end{changemargin}
 
 \subsubsection{Time Factor}\index{Time Factor}\label{fattoretempo}
 
@@ -2495,36 +2495,36 @@ The \textbf{Appraise}\index{Appraise} check is based on the rarity of the item, 
 
 \subsection{Languages}\index{Languages}\hypertarget{linguaggi}{}\label{linguaggi}
 
-In Yeru, each culture has its own unique spoken and written language. Any character with an Intelligence score of -2 or higher can speak the language of their culture, and if their score is 0 or higher, they can write it as well. For each score greater than or equal to 2, the character can speak and write another language, which will be selected during character creation.
+In Yeru each culture is the guardian of its own language. Any character with at least Intelligence -2 speaks the language of their culture, with 0 they write it. For every point equal to or greater than 2, speak and write another language which will be chosen when creating the character.
+A member of a race can very well have as a first language not that of his own race if the background justifies it (e.g. a dwarf who grew up in a goblin tribe).
 
-For each point in the Language Knowledge skill, the character can speak and write another language.
+For every point spent in the Language Proficiency he speaks and writes another language.
 
-It's possible for a member of a race to have a first language that's different from the language of their race if their background justifies it (e.g., a Dwarf raised in a Goblin tribe).
-
-Some languages* cannot be spoken except by creatures belonging to that specific species or cultural group.
-
-Make use of the narrative richness that different languages can bring. Adventures in an environment where no one understands each other can lead to very interesting and unique situations.
+Some languages ​​marked with a \textbf{*} can only be spoken by creatures belonging to that species or cultural group.
 
 \end{multicols}
 
-\textbf{Table: List of Languages}\index{Table List languages}
+\textbf{Language Table}\index[Tables]{Language Table}
 
 \medskip
 
 {\small \begin{tabular}{lll|lll}
 \textbf{Cultural field}& \textbf{Spoken} & \textbf{Written}&\textbf{Cultural field}& \textbf{Spoken} & \textbf{Written}\\
 \toprule
-Human & Common& Common& Dwarven& Dwarven& Dwarven\\Elven& Elven & Elven & Gnomish& Gnomish & Gnomish \\Gnoll & Gnoll & Goblinoid & Giants& Giant & Giant\\
-Ogre & Orc & Orc & Sentient Sea Creatures & Aquan & Elven\\
-Sentient Birds& Ictum & Elven& Woodland Dwellers*& Silvanus& Silvanus\\
-Druidic* & Druidic & -& Goblinoid& Goblinoid& Goblinoid\\
-Celestial& Celestial & Celestial& Infernal & Infernal & Infernal\\
+%Human & Common& Common& Dwarven& Dwarven& Dwarven\\
+%Elven& Elven & Elven & Gnomic& Gnomic & Gnomic \\
+%Gnoll & Gnoll & Goblinoid & Giants& Giant & Giant\\
+%Orc & Orc & Orc & Sentient Sea Creatures & Aquan & Elven\\
+Sentient Sea Creatures & Aquan & Elven & Sentient Birds & Ictun & Elven\\
+Woodland Dwellers*& Silvanus& Silvanus & Druidic* & Druidic & -\\
+Celestial & Celestial & Celestial & Infernal & Infernal & Infernal\\
 Abyssal & Abyssal& Abyssal& Dragons& Draconic & Draconic\\
 Fire Elementals* & Ignan & - & Earth Elementals*& Tremun &-\\
-Water Elementals* & Aquan & - & Air Elementals*& Ictum &-\\
-Undead & Exspiram & - & Undercommon & Depth creat. & Depth creat.\\
-Sign Language*& of Signs & Signs&&&\\
+Water Elementals* & Aquan & - & Air Elementals*& Ictun &-\\
+Undead & Exspiran & - & Underground & Depths & Depths\\
+%Sign Language*& Signs & Signs&&&\\
 \end{tabular}}
+
 \medskip
 
 \textbf{Telepathy}\index{Telepathy} is a means of speaking with any creature that has speech and Intelligence greater than -3. There is no language constraint, telepathy acts as a universal translator.
@@ -2538,14 +2538,14 @@ Sign Language*& of Signs & Signs&&&\\
 To be cynical, an RPG is all about checks, whether it's making a jump, hitting someone, avoiding a trap or a spell... You need to be cunning and clever. Checks can often be dodged or used to your advantage. Play with wit, use your imagination, be creative! The Arbiter will be pleased and you will be satisfied!!!
 \end{tcolorbox}\end{changemargin}
 
-\vfill
+%\vfill
 
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/Pieter_Bruegel_the_Elder-The_Tower_of_Babel.png}
-
-\textit{The Tower of Babel, Pieter Bruegel the Elder.\\
-"... Therefore it was called Babel, because there the Lord confused the language of all the earth and from there the Lord scattered them over all the earth." (Genesis 11, 1-9.)}
-\end{center}
+%\begin{center}
+%\includegraphics[width=0.8\linewidth]{immagini/Pieter_Bruegel_the_Elder-The_Tower_of_Babel.png}
+%
+%\textit{The Tower of Babel, Pieter Bruegel the Elder.\\
+%"... Therefore it was called Babel, because there the Lord confused the language of all the earth and from there the Lord scattered them over all the earth." (Genesis 11, 1-9.)}
+%\end{center}
 
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narrator}
@@ -2816,18 +2816,18 @@ If AP used is equal, the person with the highest Dexterity or Intelligence acts 
 
 
 \begin{tabularx}{0.95\textwidth}{Xl|Xl}
-	\textbf{What is done} & \textbf{PA}&\textbf{What is done} & \textbf{PA}\\
-	\toprule
-	Attacking with Light Weapon / Bare Hands & 3 &Attacking with Medium / Missile Weapon & 4\\
-	Attack with Large Weapon & 5 & Use Magic Item & 6\\
-	Move within 2m-3m (Move 6m-9m) & 1 &Sprint within 4m-6m (Move 6m-9m) & 1\\
-	Rise from prone & 4& Mount or dismount & 4\\
-	Take something in your backpack & 8& Use a hand-held object & 2\\
-	Drinking a potion held on your belt & 4&Concentrating on a spell & 3\\
-	Draw / Sheathe the weapon & 3& Take something from your belt or ready & 3\\
-	Breaking down a door with your shoulder/kicking & 5&Forcing door with crowbar & 6\\
-	Drinking a hand-held potion& 1&Throwing a hand-held object& R\\
-	Falling prone& R&Recognize a Spell& R\\
+\textbf{What is done} & \textbf{PA}&\textbf{What is done} & \textbf{PA}\\
+\toprule
+Attacking with Light Weapon / Bare Hands & 3 &Attacking with Medium / Missile Weapon & 4\\
+Attack with Large Weapon & 5 & Use Magic Item & 6\\
+Move within 2m-3m (Move 6m-9m) & 1 &Sprint within 4m-6m (Move 6m-9m) & 1\\
+Rise from prone & 4& Mount or dismount & 4\\
+Take something in your backpack & 8& Use a hand-held object & 2\\
+Drinking a potion held on your belt & 4&Concentrating on a spell & 3\\
+Draw / Sheathe the weapon & 3& Take something from your belt or ready & 3\\
+Breaking down a door with your shoulder/kicking & 5&Forcing door with crowbar & 6\\
+Drinking a hand-held potion& 1&Throwing a hand-held object& R\\
+Falling prone& R&Recognize a Spell& R\\
 \end{tabularx}
 
 \begin{multicols}{2}
@@ -3171,9 +3171,9 @@ Player are invited to create and suggest new Critical Actions that must be appro
 This option is compatible and usable with also \textbf{Optional - Critical Roll Variant}.
 
 \begin{center}
-	\includegraphics[width=0.7\linewidth]{immagini/esplosionedanno.png}
-	
-	\textit{Henry Justice Ford}
+\includegraphics[width=0.7\linewidth]{immagini/esplosionedanno.png}
+
+\textit{Henry Justice Ford}
 \end{center}
 
 
@@ -3443,9 +3443,9 @@ When prone you can crawl\index{Crawl}\index{On all fours} or crawl. The terrain 
 
 
 \begin{center}
-	\includegraphics[width=0.55\linewidth]{immagini/vantaggio.png}
-	
-	\textit{Henry Justice Ford}
+\includegraphics[width=0.55\linewidth]{immagini/vantaggio.png}
+
+\textit{Henry Justice Ford}
 \end{center}
 
 \subsubsection{Help another}\index{Help another}\label{aiutare}
@@ -3458,8 +3458,8 @@ Multiple characters can help the same ally; bonuses of this type are cumulative 
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/colpodigrazia.png}
-	\textit{Beheading of St. John the Baptist. St. John's Co-Cathedral in Valletta (Malta). (Caravaggio)}
+\includegraphics[width=0.9\linewidth]{immagini/colpodigrazia.png}
+\textit{Beheading of St. John the Baptist. St. John's Co-Cathedral in Valletta (Malta). (Caravaggio)}
 \end{center}
 
 \subsubsection{Coup de Grace} \index{Coup de Grace}\label{colpodigrazia}
@@ -3560,7 +3560,15 @@ you spend 2 Actions per round aiming. You gain a bonus to hit of +1 on the first
 
 \subsubsection{Using a thrown weapon while aiming at an opponent in combat} \index{Using a thrown weapon while aiming at an opponent in combat}\label{usarearmalancioinmischia}
 
-it is not easy to aim correctly and not hit your partner, you have a -1d6 to attack. The bonus is cancelled if there is a difference of 2 or more sizes between the opponent and the companion. In case of Critical Miss the other creature get hit.
+It's not easy to aim correctly and not hit someone else. If the character wants to hit the opponent (or at least a specific target) and not the companion he is fighting with, he has a -2 to the attack roll.
+
+However, if the target is behind other creatures then he will have cover given by the size difference between him and the other creatures.
+
+See \hyperlink{copertura}{Cover} (page \pageref{copertura}). Each additional creature, in line, that \emph{covers} the target increases the cover provided by one step.
+
+E.g. If I want to hit an opponent in front of one of my companions (if he were next to companion I would have -2 on the attack roll as mentioned above) this opponent has \emph{light cover} (+2 Defense), if I have two companions in a row and then the opponent to hit will have \emph{average coverage} (+4 Defense), if there are 3 teammates then the \emph{coverage will be complete} (+8 Defense).
+
+If the target is 2 or more sizes larger among the creatures involved in the cover, these penalties do not apply. In case of a critical failure in the attack roll, hit a creature that provided cover or who was next to the target.
 
 \subsubsection{Using a thrown weapon under threat} \index{Using a thrown weapon under threat}\label{usarearmalanciosottominaccia}
 
@@ -3581,31 +3589,35 @@ Fighting in low light conditions involves difficulties summarized in this diagra
 \medskip
 
 \begin{tabular}{lll}
-	\textbf{Vision} & \multicolumn{2}{c}{\textbf{Condition}}\\
-	& Dim Light & Darkness\\
-	\toprule
-	Normal & -1 TH, Awarn. & Invisi. (page \pageref{invisibility})\\
-	Twilight & Normal & Invisi. (page \pageref{invisibility})\\
+\textbf{Vision} & \multicolumn{2}{c}{\textbf{Condition}}\\
+& Dim Light & Darkness\\
+\toprule
+Normal & -1 TH, Awarn. & Invisi. (page \pageref{invisibility})\\
+Twilight & Normal & Invisi. (page \pageref{invisibility})\\
 \end{tabular}
 
 
 \subsubsection{Weapon too big}\index{Weapon too big} \label{armatroppogrande}
 
-The size indicated in the weapon table (see \hyperlink{dimensionediunarma}{Weapon size} ) refers to a medium creature. For a small creature, the size is considered to be one category larger, so a short sword that is small in the hand of a small creature is considered a medium-sized weapon. This does not change the damage caused or the type of damage.
+The size indicated in the weapon table (see \hyperlink{sizeofaweapon}{Dimensions of Weapons}) refers to a medium-sized creature. For a small-sized creature, the size must be understood as a higher category, e.g. a short sword that is small in size used by a small-sized creature is considered a medium-sized weapon.
 
-Similarly, a large weapon, such as a two-handed greatsword, becomes a medium-sized weapon in the hands of a giant.
+Likewise, a large weapon, such as a two-handed greatsword, becomes a medium-sized weapon in the hands of a giant.
 
-Normally, a creature can use a weapon up to its size with one hand or use two hands with a weapon one size larger.
+This does not change its damage or the type of damage the weapon causes.
 
-Attacking with a \textbf{Weapon too big} \index{Weapon too big}relative to your size is problematic.
+A creature can use a weapon of its own size size or one size smaller with one hand, and must use two hands to wield a weapon of one size larger.
 
-If the weapon is not among those "usable", for example a halberd (large weapon) for a creature of small size, the penalty on the attack roll is -1d6. Likewise, a small weapon cannot be used with two hands for a medium-sized creature.
+If the weapon is not among those usable, for example a Halberd (large weapon) for a small creature the penalty on the attack roll is -1d6. The same principle applies to a giant-sized longsword (1d10 damage) in the hands of a medium-sized creature.
 
-In the weapon table, size is marked as P (small), M (medium), G (large), E (huge). A "larger" version of a weapon increases the weapon's damage by one category (1d4->1d6, 1d6->1d8, 1d8->1d10, 1d10->2d6, 2d6->2d8, 2d8->2d10, 2d10 ->3d6...)
+Likewise, a small weapon is not two-handed for a medium-sized creature. You cannot use a weapon that is 2 sizes larger or smaller than your own.
+
+In the weapons table the size is marked as P (small), M (medium), G (large), E (huge). A larger version of a weapon increases the weapon's damage by one category (1d4->1d6, 1d6->1d8, 1d8->1d10, 1d10->2d6, 2d6->2d8, 2d8->2d10 , 2d10->3d6...).
+
+E.g. a two-handed greatsword for a giant (+1 size) goes from 2d6 to 2d8 damage.
 
 
 \begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/angelospadone.png}
+\includegraphics[width=0.6\linewidth]{immagini/angelospadone.png}
 \end{center}
 
 \subsection{Optional - The Only Rule}\index{Optional - The Only Rule}\hypertarget{lunicaregola}{}\label{lunicaregola}
@@ -3670,10 +3682,7 @@ If the person attempting the maneuver fails and gets a critical failure, he fall
 
 It costs 2 Actions.
 
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narrator} %box narratore
 Checks such as \textbf{Disarm}, \textbf{Feint}, \textbf{Push}, \textbf{Grab}, \textbf{Drop} can be resolved by setting the difficulty of the check taker ( and not the player) to a fixed value equal to 10 + the relative modifiers.
-\end{narrator}\end{changemargin}
 
 \subsubsection*{Optional - Universal Maneuver Management}\index{Optional - Universal Maneuver Management}
 
@@ -3783,7 +3792,6 @@ If the mount is smart having a rider does not restrict the actions the mount can
 %\includegraphics[width=0.7\linewidth]{immagini/fauchard.png}
 %\end{center}
 
-\pagebreak
 
 \section{Hideouts and cover} \index{Hideouts}\index{Cover}\hypertarget{coperture}{}
 
@@ -3796,7 +3804,7 @@ If the mount is smart having a rider does not restrict the actions the mount can
 It could be hidden behind a low wall or some barrels, if not behind a muscular and gigantic familiar.
 What if he was behind us and we didn't even see him?
 
-\subsection{The Coverage}\index{Coverage}\label{copertura}
+\subsection{The Coverage}\index{Coverage}\label{copertura}\hypertarget{copertura}{}
 
 If the target is known to exist but is cloaked in some way then it is said to have "cover".
 
@@ -3983,7 +3991,7 @@ The benefits shown are cumulative unless otherwise indicated.
 \item 9 points: your technique leaves no points uncovered, for each successful attack roll in the round you get +2 to Defense.
 \item 11 points: Swipe with your weapon. The first hit is equivalent to two hits.
 \item 16 points: Whenever you hit with a critical roll you can deliver a blow with the other end of the weapon. This attack roll cannot itself cause critical attacks and is -1d6 to the roll.
-	
+
 \end{itemize}
 
 \subsection{Graceful Weapons}\index{Graceful Weapons} Rapier, Scimitar, Glaive\\\label{gracious weapon list}
@@ -4076,9 +4084,9 @@ You gain the \textbf{Devastating Shot} ability: you can throw one of your weapon
 \subsection{Polearms} \index{Polearms}Javelin, Estoc, Trident, Halberd\label{armiaste list}
 
 \begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/alabarda2.png}
-	
-	\textit{Halberds}
+\includegraphics[width=0.8\linewidth]{immagini/alabarda2.png}
+
+\textit{Halberds}
 \end{center}
 
 \begin{itemize}[leftmargin=*]
@@ -4117,9 +4125,9 @@ You gain the \textbf{Devastating Shot} ability: you can throw one of your weapon
 
 
 \begin{center}
-	\includegraphics[width=0.85\linewidth]{immagini/arma-asta.png}
-	
-	\textit{1 Landsknecht skewer; 2 Pike; 3 Spear; 4 Hunting skewer; 5 Buttfire; 6 Glaive; 7 Partisan; 8 Halberd; 9 Halberd; 10 Roncone; 11 Mazzapicchio; 12 Berdica}
+\includegraphics[width=0.85\linewidth]{immagini/arma-asta.png}
+
+\textit{1 Landsknecht skewer; 2 Pike; 3 Spear; 4 Hunting skewer; 5 Buttfire; 6 Glaive; 7 Partisan; 8 Halberd; 9 Halberd; 10 Roncone; 11 Mazzapicchio; 12 Berdica}
 \end{center}
 
 \begin{itemize}[leftmargin=*]
@@ -4135,7 +4143,7 @@ You gain the \textbf{Devastating Shot} ability: you can throw one of your weapon
 
 
 \begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/mazzafrusto.png}
+\includegraphics[width=0.6\linewidth]{immagini/mazzafrusto.png}
 \end{center}
 
 \begin{itemize}[leftmargin=*]
@@ -4159,11 +4167,11 @@ The Empty Fist List does not benefit from the Critical Hit, except for the advan
 The player can also decide to do non-lethal damage without incurring any penalties; he can apply the Strength or Dexterity value to the damage as he wishes.
 
 \begin{itemize}[leftmargin=*]
-	\item 1 point: your fists deal lethal damage (1d4). You can use your Strength or Dexterity value on attack rolls and damage rolls.
-	\item 4 points: Wisdom of the Empty Hand. You can use Wisdom on Hit and Damage in place of Strength or Dexterity. Multiple attack penalties become -4 instead of -5.
-	\item 5 points: Base Defense score goes from 10 to 11.
-	\item 9 points: solitary strike. You use three Actions to deliver a single devastating blow, if the blow hits, it adds 2 additional critical hits.
-	\item 11 points: You gain a bonus to hit and damage equal to double the characteristic used to determine this bonus.
+\item 1 point: your fists deal lethal damage (1d4). You can use your Strength or Dexterity value on attack rolls and damage rolls.
+\item 4 points: Wisdom of the Empty Hand. You can use Wisdom on Hit and Damage in place of Strength or Dexterity. Multiple attack penalties become -4 instead of -5.
+\item 5 points: Base Defense score goes from 10 to 11.
+\item 9 points: solitary strike. You use three Actions to deliver a single devastating blow, if the blow hits, it adds 2 additional critical hits.
+\item 11 points: You gain a bonus to hit and damage equal to double the characteristic used to determine this bonus.
 \end{itemize} 
 
 See \hyperlink{magical equivalences}{Vulnerability, Resistance and Immunity} to find out how magical your strike is.
@@ -4182,7 +4190,7 @@ You can choose to reduce the attack roll by 4 to increase the damage by 8 (does 
 \item 16 points: using a Reaction every time you hit with a critical roll you can make another attack roll with the same score against a different opponent as long as it is within melee range.
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/arma-mazza3.png}
+\includegraphics[width=0.9\linewidth]{immagini/arma-mazza3.png}
 \end{center}
 
 \end{itemize}
@@ -4226,15 +4234,15 @@ These bonuses cannot be applied if you use more than one shield.
 This List only grants the cumulative bonuses listed here when armor is donned.
 
 \begin{itemize}[leftmargin=*]
-	\item 1 point: Halve the time it takes to don and undon armor
-	\item 2 points: the Defense granted by the armor increases by 1 point, sleeping in medium armor does not cause fatigue
-	\item 3 points: Proficiency Penalty decreases by 1 point, sleeping in heavy armor does not cause fatigue
-	\item 4 points: Movement penalty decreases by 1 meter, armor Defense increases by 1 point
-	\item 5 points: Magic Test penalty dice decrease by 1 die, Expertise Penalty decreases by 1 point, Movement penalty decreases by 1 meter
-	\item 6 points: You negate the additional damage of the first Critical Roll on every attack, melee or ranged. Wearing armor no longer forces you to take the Magic Test
-	\item 7 points: you have no Competence Penalty and Movement penalty
-	\end{itemize}
-	
+\item 1 point: Halve the time it takes to don and undon armor
+\item 2 points: the Defense granted by the armor increases by 1 point, sleeping in medium armor does not cause fatigue
+\item 3 points: Proficiency Penalty decreases by 1 point, sleeping in heavy armor does not cause fatigue
+\item 4 points: Movement penalty decreases by 1 meter, armor Defense increases by 1 point
+\item 5 points: Magic Test penalty dice decrease by 1 die, Expertise Penalty decreases by 1 point, Movement penalty decreases by 1 meter
+\item 6 points: You negate the additional damage of the first Critical Roll on every attack, melee or ranged. Wearing armor no longer forces you to take the Magic Test
+\item 7 points: you have no Competence Penalty and Movement penalty
+\end{itemize}
+
 \subsection{Axes and Hatchets}\index{Axes and Hatchets} One-handed Axe, Battle Axe, Hammer Axe, Great Double Axe\label{axe list}
 
 Call \textit{Axes} in Table: Weapon List
@@ -4258,9 +4266,9 @@ Call \textit{Axes} in Table: Weapon List
 
 
 \begin{center}
-	\includegraphics[width=0.95\linewidth]{immagini/arma-tipi-di-spade.png}
-	
-	\textit{A Saber, B Scimitar, C One-handed sword, D Broad sword, D Rapier, E Long sword, F One-and-a-half-handed or bastard sword, G Two-handed broadsword}
+\includegraphics[width=0.95\linewidth]{immagini/arma-tipi-di-spade.png}
+
+\textit{A Saber, B Scimitar, C One-handed sword, D Broad sword, D Rapier, E Long sword, F One-and-a-half-handed or bastard sword, G Two-handed broadsword}
 \end{center}
 
 \begin{itemize}[leftmargin=*]
@@ -4640,8 +4648,8 @@ When transformed you can channel your Magic Points to improve the transformation
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/animalia3.png}
-	\textit{Henry Justice Ford}
+\includegraphics[width=0.9\linewidth]{immagini/animalia3.png}
+\textit{Henry Justice Ford}
 \end{center}
 
 \subsection*{Armour of the Devout}\index{Armour of the Devout}\label{armaturadeldoveto}
@@ -4724,8 +4732,8 @@ You gain a +1d6 bonus on Knowledge Herbalism and in brewing and creating natural
 You can shoot 1 arrow, once per day, as a reaction, with no hit penalty from multiattack. The bow must be already draw.
 
 \begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/kameame.png}
-	\textit{Kamehameha!}
+\includegraphics[width=0.8\linewidth]{immagini/kameame.png}
+\textit{Kamehameha!}
 \end{center}
 
 
@@ -4799,9 +4807,9 @@ With this Feat, the spellcaster is able to infuse a spell up to level 3 into a m
 
 
 \begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/oggettimagiciuomo.png}
-	
-	\textit{Henry Purcell - King Arthur}
+\includegraphics[width=0.8\linewidth]{immagini/oggettimagiciuomo.png}
+
+\textit{Henry Purcell - King Arthur}
 \end{center}
 
 
@@ -5015,9 +5023,9 @@ It is not usable on Awareness (see Perceptive).
 
 
 \begin{center}
-	\includegraphics[width=0.75\linewidth]{immagini/distillare.png}
-	
-	\textit{The Alchemist Discovering Phosphorus. Joseph Wright of Derby (1771-1795)}
+\includegraphics[width=0.75\linewidth]{immagini/distillare.png}
+
+\textit{The Alchemist Discovering Phosphorus. Joseph Wright of Derby (1771-1795)}
 \end{center}
 
 
@@ -5112,9 +5120,9 @@ When you make a critical roll, i.e. you rolled at least 2 6s, you are considered
 Your fighting style is represented by blind killing spree. Add +1d6 to damage on each successful melee attack and your opponents gain +1d6 on hitting towards you. You can decide to activate this Feat round by round. Cost 1 Immediate Action per round.
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/Early_Egyptian_juggling_art.png}
-	
-	\textit{This ancient wall painting appears to depict jugglers.}
+\includegraphics[width=0.9\linewidth]{immagini/Early_Egyptian_juggling_art.png}
+
+\textit{This ancient wall painting appears to depict jugglers.}
 \end{center}
 
 
@@ -5214,9 +5222,9 @@ The \textbf{fourth time} you take this Feat increases by one size (S > M > H > G
 
 
 \begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/elcolosso.png}
-	
-	\textit{The Colossus (also known as The Giant), is known in Spanish as El Coloso. It is not by Goya but by a pupil.}
+\includegraphics[width=0.65\linewidth]{immagini/elcolosso.png}
+
+\textit{The Colossus (also known as The Giant), is known in Spanish as El Coloso. It is not by Goya but by a pupil.}
 \end{center}
 
 \subsection*{Horse Archer}\index{Horse Archer}\label{arcereacavallo}
@@ -5260,8 +5268,8 @@ The \textbf{third time} you have a +1d6 on Saving Throws from magical poisons an
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/horsearcher.png}
-	\textit{Assyrian Archer}
+\includegraphics[width=0.9\linewidth]{immagini/horsearcher.png}
+\textit{Assyrian Archer}
 \end{center}
 
 
@@ -5448,9 +5456,9 @@ Energy comes from your body and affects yourself and the creatures around you. R
 
 
 \begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/Portrait_of_V_Greatrakesv2.png}
-	
-	\textit{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
+\includegraphics[width=0.65\linewidth]{immagini/Portrait_of_V_Greatrakesv2.png}
+
+\textit{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
 \end{center}
 
 
@@ -5505,9 +5513,9 @@ Once per day you can make the Arbiter reroll 1d6 of a check (attack rolls, profi
 
 
 \begin{center}
-	\includegraphics[width=0.55\linewidth]{immagini/streghegoya.png}
-	
-	\textit{Sabbath of the Witches (Goya, 1798)}
+\includegraphics[width=0.55\linewidth]{immagini/streghegoya.png}
+
+\textit{Sabbath of the Witches (Goya, 1798)}
 \end{center}
 
 
@@ -5750,7 +5758,7 @@ This ability does not affect being Distracted while casting.
 
 
 \begin{center}
-	\includegraphics[width=0.7\linewidth]{immagini/kenilguerriero.png}
+\includegraphics[width=0.7\linewidth]{immagini/kenilguerriero.png}
 \end{center}
 
 
@@ -5979,9 +5987,9 @@ The \textbf{second time} you take this Feat, Dexterity requirement 3, Stealth 8,
 
 
 \begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/teseo.png}
-	
-	\textit{Henry Justice Ford - Backstab!}
+\includegraphics[width=0.8\linewidth]{immagini/teseo.png}
+
+\textit{Henry Justice Ford - Backstab!}
 \end{center}
 
 \subsection*{Stone Strength}\index{Stone Strength}\label{resistenzadellapietra}
@@ -6026,13 +6034,13 @@ It is the Feat not to be slowed down in a hostile environment. It is necessary t
 \bigskip
 
 \begin{tabular}{l|l}
-	\textbf{Environment} & \textbf{Environment}\\
-	\toprule
-	Jungle & Aquatic \& Coastal\\
-	Swamp & Hill \& Forest \\
-	Plains & Desert \\
-	Mountains & Glaciers \& Tundra \\
-	Urban& Underground \\
+\textbf{Environment} & \textbf{Environment}\\
+\toprule
+Jungle & Aquatic \& Coastal\\
+Swamp & Hill \& Forest \\
+Plains & Desert \\
+Mountains & Glaciers \& Tundra \\
+Urban& Underground \\
 \end{tabular}\\
 
 Each time you take this Skill again you choose a different environment and add to the previous one or specialize in the same one.
@@ -6125,7 +6133,7 @@ The \textbf{second time} you take this Feat you can miss the opponent with one h
 
 
 \begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/turning-undead-six.png}
+\includegraphics[width=0.6\linewidth]{immagini/turning-undead-six.png}
 \end{center}
 
 \subsection*{Turning undead}\index{Turning undead}\label{scacciarenonmorti}
@@ -6267,8 +6275,8 @@ The Feat can be taken multiple times and the Weapon List score must be 4 times h
 If you take \textbf{4 times} this Feat on the same Weapon List the bonuses on hitting are reduced to +1, instead of +4, but you make two attack rolls for the first two attacks of the round and choose which roll hold.
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/Historia_Mundi_Naturalis.png}
-	\textit{Woodcut illustration from an edition of Pliny the Elder's Naturalis Historia (1582)}
+\includegraphics[width=0.9\linewidth]{immagini/Historia_Mundi_Naturalis.png}
+\textit{Woodcut illustration from an edition of Pliny the Elder's Naturalis Historia (1582)}
 \end{center}
 
 
@@ -6819,11 +6827,11 @@ When a character casts any spell, the following basic rules are used regardless 
 \medskip
 
 \begin{center}
-	
-	\includegraphics[width=0.6\linewidth]{immagini/Hex32.png}
-	
-	\emph{The Witchcraft Art of Jacques de Gheyn II}
-	
+
+\includegraphics[width=0.6\linewidth]{immagini/Hex32.png}
+
+\emph{The Witchcraft Art of Jacques de Gheyn II}
+
 \end{center}
 
 
@@ -6919,7 +6927,7 @@ Spells that create cones or lines of effect that originate from you also have pe
 
 \subsubsection{Casting Spells in Armor}\index{Casting Spells in Armor}\label{casting spells in armor}\index{Spells, in Armor}
 
-Given the mental concentration and precise gestures required, the armor distracts and unbalances the flows. The Magic Test when casting the spell is mandatory and is modified as indicated in the \hyperlink{armorandmagic}{armor} section (page \pageref{armorandmagic}).
+Given the mental concentration and precise gestures required, the armor distracts and unbalances the flows. The Magic Test when casting the spell is mandatory and is modified as indicated in the \hyperlink{armatureemagie}{armor} section (page \pageref{armatureemagie}).
 
 \subsubsection{Optional - Armor Spells}\index{Optional - Armor Spells}
 
@@ -7082,7 +7090,7 @@ While Magical Competence indicates the study and dedication to Magic in the most
 To establish the maximum level of spells that can be cast, it is necessary to know the Magical Proficiency value and how many times the Adept of Magic feat has been taken.
 
 Add to CM the times you took Adept of Magic and divide the result by 2. E.g. CM=8, Adept of Magic taken 4 times, (8+4)/2=6, or CM=13, Adept of Magic 1 time, (13+1)/2=7 spell level.
-	
+
 \begin{center}
 \includegraphics[width=0.73\linewidth]{immagini/Arthur-Pyle_The_Enchanter_Merlin.png}
 
@@ -7324,7 +7332,7 @@ Even in the Magic Test the 6s explode, the 6s rolled in the Magic Test are rerol
 
 Keep track of how many criticals (two 6s rolled) you roll, they could be used to get \emph{special effects} in the spell! Remember that for each magical critical the DC of the saving throw increases by 1.
 
-\subsubsection{Saving Throw - Resist the spell}\index{Saving Throw - Resist the spell}\index{Saving Throw Spells}\label{spellsavethrow}\hypertarget{spellsavethrow}{}
+\subsubsection{Saving Throw - Resist the spell}\index{Saving Throw - Resist the spell}\index{Saving Throw Spells}\label{magietirosalvezza}\hypertarget{magietirosalvezza}{}
 
 The T\textbf{iro Salvation} based on what is required by the spell has difficulty (DC) equal to \textbf{10} + \textbf{Magical Proficiency} + \textbf{characteristic modifier for spell} + \textbf{times you took Magic Adept feat} +\textbf{1 for each Magical Critical Success} in the Magic Test.
 
@@ -7338,7 +7346,7 @@ Tups who has Intelligence 4, Magical Proficiency 6, and has taken Adept of Magic
 
 If you are the one who has to resist a spell, the Narrator will not tell you to make a saving throw at difficulty 18, he is the one who compares your roll with the difficulty, he will be able to tell you that the test is complex, difficult or easy...
 
-\begin{itemize}[leftmargin=*]
+\begin{itemize}[leftmargin=*] 
 
 \item
 If you roll 6 on your saving throw 3 times you succeed, regardless of the total, and get a \textbf{Critical Success Save}.
@@ -7574,15 +7582,15 @@ The indicated abilities can be activated if with the previous Actions the spellc
 % \emph{Tarot - The Hanged Man}
 %\end{center}
 
-\vfill
+%\vfill
 
-\begin{center}
-\includegraphics[width=0.32\linewidth]{immagini/Voynich_Manuscript.png}
-
-\smallskip
-
-\emph{A page from Voynich's manuscript, still undeciphered.}
-\end{center}
+%\begin{center}
+%\includegraphics[width=0.32\linewidth]{immagini/Voynich_Manuscript.png}
+%
+%\smallskip
+%
+%\emph{A page from Voynich's manuscript, still undeciphered.}
+%\end{center}
 
 
 \pagebreak
@@ -7596,12 +7604,6 @@ The indicated abilities can be activated if with the previous Actions the spellc
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = More special effects!]
 The spells listed are those of the 5th edition plus some of my suggestions and other reinterpretations. If you have any suggestions for the Arbiter to handle unexpected crits, talk to him! The spirit of collaboration must always be constructive.
 \end{tcolorbox}\end{changemargin}
-
-~
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narrator}\index{Optional - Alternatives to Magical Critial Success}
-An alternative to the effects of magical Critical Success may be that with spells that cause direct damage or cures, instead of the additional dice, just add half the value of the dice rounded up for each dice. Eg. A 1d10 + 1d8 damage per critical effect becomes 1d10+5.
-\end{narrator}\end{changemargin}
 
 \medskip\textbf{Acid Arrow}\index[Spells]{Acid Arrow}\\
 \textbf{Magic List}: Water, Earth\\
@@ -14558,7 +14560,7 @@ In agreement with the Arbiter, and adequately motivated, it is possible to chang
 \vfill
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.7\textwidth]{immagini/jung-archetipi-eng.png}
+\includegraphics[keepaspectratio,width=0.85\textwidth]{immagini/jung-archetipi-eng.png}
 
 \textit{Jung's 12 Archetypes}
 \end{center}
@@ -14889,17 +14891,17 @@ The Skills penalty is the penalty that applies to skill checks influenced by the
 %\begin{xltabular}{0.95\textwidth}{lXXXXXXX}
 \textbf{Armour} & \textbf{Cost (gp)} & \textbf{Defence} & \textbf{Penalty Skill} & \textbf{Type} & \textbf{Move} & \textbf{Magic Test}&\textbf{Encumbrance}\\
 \toprule
-Padded & 5 & 1 & 0 & L & 0 			& NO&2\\
-Leather & 10 & 2 & 0 & L & 0		& YES&2\\
+Padded & 5 & 1 & 0 & L & 0 & NO&2\\
+Leather & 10 & 2 & 0 & L & 0& YES&2\\
 Studded Leather & 25 &3 & 0 & L & 0 & YES&2\\
-Chain shirt & 15 & 4 & -1 & M & 0 	&+2&4\\
-Scales & 50 & 5 & -1 & M & 0 		&+2&4\\
-Chain Rings & 150 & 6 & -1 & M & 0 	&+2&4\\
-Breastplate & 200 & 6 & -2 & M & 0 	&+2&4\\
-Bands & 250 & 7 & -2 & P & 0 		&+1&8\\
+Chain shirt & 15 & 4 & -1 & M & 0 &+2&4\\
+Scales & 50 & 5 & -1 & M & 0 &+2&4\\
+Chain Rings & 150 & 6 & -1 & M & 0 &+2&4\\
+Breastplate & 200 & 6 & -2 & M & 0 &+2&4\\
+Bands & 250 & 7 & -2 & P & 0 &+1&8\\
 Half Armour & 1200 & 8 & -2 & P & 1 &+1,2&8\\
-from Field& 1400 & 9 & -3 & P & 2 	&+1,2&8\\
-Complete & 1500 & 10 & -4 & P & 3 	&+1,1&8\\
+from Field& 1400 & 9 & -3 & P & 2 &+1,2&8\\
+Complete & 1500 & 10 & -4 & P & 3 &+1,1&8\\
 \end{tabular}
 
 \begin{multicols}{2}
@@ -15023,12 +15025,12 @@ Shields can be of Light, Medium, Heavy type.
 \begin{tabular}{lccccc}
 \textbf{Shields} & \textbf{Cost} & \textbf{Defence Bonus} & \textbf{AR Penalty} & \textbf{Magic Test} & \textbf{Type}\\
 \toprule
-Light wooden shield 	 & 	3 mo  	&  1	& 0& YES	  	& L\\
-Light Metal Shieldo 	& 	9 mo  	&  1	& 0& YES  	& L\\
-Medium wood shield		 &	5 mo 	&  2	& 0& +2		& M\\
-Medium metal shield	 	 &	12 mo  	&  2  	& 0& +2  	& M\\
-Medium metal shield 	 & 	9  mo  	&  3 	& 1& +1,2  	& P\\
-Heavy metal shiel		 & 	20 mo  	&  3	& 1& +1,2  	& P\\
+Light wooden shield  & 3 mo  &  1& 0& YES  & L\\
+Light Metal Shieldo & 9 mo  &  1& 0& YES  & L\\
+Medium wood shield &5 mo &  2& 0& +2& M\\
+Medium metal shield  &12 mo  &  2  & 0& +2  & M\\
+Medium metal shield  & 9  mo  &  3 & 1& +1,2  & P\\
+Heavy metal shiel & 20 mo  &  3& 1& +1,2  & P\\
 \end{tabular}
 
 \begin{multicols}{2}
@@ -15086,7 +15088,7 @@ Half Armour, Field, Complete & 4 minutes{*}{*}& 4 minutes{*}& 1d4+1 minutes\\
 
 \begin{center}
 %\includegraphics[width=0.4\linewidth]{immagini/armaturacorpetto.png}
-\includegraphics[width=0.4\linewidth]{immagini/buckler.png}
+\includegraphics[width=0.7\linewidth]{immagini/buckler.png}
 
 \textit{Buckler, front and back}
 
@@ -15854,6 +15856,80 @@ These are the contents of the adventurer's backpack: belt, 3 candles, 6 torches,
 
 \pagebreak
 
+\subsection{Expenses and Lifestyle}\index{Expenses and Lifestyle}
+
+\begin{multicols}{2}
+
+
+When not descending into the bowels of the earth, exploring ruins for lost treasure, or waging war against the forces of looming darkness, adventurers must also think of the most common needs. Even in a fantastic way, people must satisfy basic needs such as food, shelter and clothing. All this has a cost and certain lifestyles cost more than others.\\
+
+To simplify daily expenses, the player can declare that he has a certain standard of living and subtract the expenses as a whole on a daily basis, without subtracting the individual expenses made.
+
+The prices listed are daily, so those who wish to calculate their cost of subsistence for a period of thirty days will have to multiply the price indicated by 30.
+
+Your lifestyle choice can have consequences. A character who maintains a wealthy lifestyle can more easily make contacts with the rich and powerful, but runs the risk of attracting a few thieves. Similarly, a poor lifestyle may help him avoid criminals, but it is unlikely to enable him to make important contacts.\\
+
+
+\textbf{Lifestyle Expenses}
+
+\medskip
+
+\begin{tabular}{ll}
+\textbf{Lifestyle}&\textbf{Price per day}\\
+\toprule
+Miserable&-\\
+Shabby&1 but\\
+Poor&2 but\\
+Modesto&1 mo\\
+Well-off&2 mo\\
+Rich&4 mo\\
+Aristocrat&Minimum 10 gp\\
+\end{tabular}\\
+
+
+
+%\begin{center}
+%\includegraphics[width=0.7\linewidth]{images/mendicante.png}
+%
+%\emph{Beggar - Francesco Londonio}
+%\end{center}
+
+
+%\end{multicols}
+
+%\vfill
+
+%\begin{center}
+%\includegraphics[width=0.5\linewidth]{images/carriage.png}
+%\end{center}
+
+
+%\pagebreak
+
+
+\subsubsection{Working in the city}\index{Working in the city}\index{Downtime}
+
+During breaks between one adventure and another or because a certain amount of time must pass for a certain thing to happen, the characters can try to make use of their skills to earn some coins.
+
+The characters make one test per day of their professional skill (e.g. Crafts or Herbalism or Entertaining...) based on their success they will earn or not.
+
+Perform the profession check with 3d6+Wisdom+1/2 level, if this obtains a value greater than 15 then the character has obtained a reward. Subtract 15 from the test performed and square this difference, it will be the silver coins earned that day. ($(15-Try)^2$).
+
+\end{multicols}
+
+\vfill
+
+\begin{center}
+\includegraphics[width=0.8\linewidth]{immagini/fognelondra.png}
+
+\emph{Map of London sewers, 1880}\\
+\emph{essential for all rat hunters...}
+\end{center}
+
+
+\pagebreak
+
+
 \subsection{Special Materials}\index{Special Materials}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{emphasis}{
@@ -16413,7 +16489,7 @@ In the event of faster or more violent water with a successful Swim check (DC 13
 
 Very deep water is not only pitch black, making navigation very dangerous, but it inflicts even worse damage due to water pressure on the order of 1d6 points of damage per minute for every 30 meters that separate you from the surface. A successful Fortitude save (DC 15, +1 for each previous check) indicates that the submerged character takes no damage in that minute. Very cold water deals 1d6 points of non-lethal damage per minute of exposure from hypothermia.
 
-\textbf{Drowning}\index{Drowning}\index{Suffocate}\hypertarget{trattenereilfiato}{}
+\textbf{Drowning}\index{Drowning}\index{Suffocate}\hypertarget{trattenereilfiato}{}\label{trattenereilfiato}
 
 Any character can hold its breath for a number of rounds equal to 6 rounds by its Constitution score, with a minimum of 3 rounds. For each Action taken, the remaining duration decreases by 1 round, casting a spell with Verbal componente consumes 2 more rounds of air. After this period of time, the character must make a DC 12 Fortitude save each round to continue holding his breath. Each round, DC increases by 2.
 
@@ -16709,26 +16785,25 @@ Although a tornado's rotational speed can reach 450 km/h, the cone itself moves 
 
 \section{Water Adventures}\index{Water Adventures}
 
-\label{avventure-in-acqua}
+\label{adventures-in-water}
 \begin{changemargin}{0.3cm}{0.3cm}\begin{emphasis}{
-He looked at the sea and realized how alone he was now. (The Old Man and the Sea, Ernest Hemingway)}\end{emphasis}\end{changemargin}\medskip
-
+She looked at the sea and understood how alone he was now. (The Old Man and the Sea, Ernest Hemingway)}\end{emphasis}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{W}{ater} allows societies to exist, but it can also destroy them. Life could not exist without it. Trade and travel are facilitated by its presence. Yet, water can also kill, both by drowning people and by generating large-scale floods and tsunamis. Life on earth is dependent on water but at the same time fears it.
+\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{Water} allows societies to exist, but it can also destroy them. Life could not exist without it. Trade and travel are facilitated by his presence. Yet water can also kill, both by drowning people and by generating large-scale floods and tsunamis. Terrestrial life is dependent on water but at the same time fears it.
 
-\textbf{Water Adventures}
+\textbf{Aquatic Adventures}
 
-A water adventure can take place anywhere that water is the main feature of the land: such as swamps, rivers, lakes, ponds, oceans, the Plane of Water, and the like. Aquatic adventures, however, do not require characters to have the ability to breathe underwater; the introduction of Aquatic challenges for low-level adventurers bring a lot of tension and danger to an adventure.
+An aquatic adventure can take place anywhere water is the main element of the land: such as swamps, rivers, lakes, ponds, oceans, the Plane of Water, and the like. Aquatic adventures, however, do not require characters to have the ability to breathe underwater; The introduction of Aquatic challenges for low-level adventurers brings a lot of tension and a sense of danger to an adventure.
 
 \textbf{Adapting to Aquatic Environments}
 
-The rules for underwater combat apply to creatures that aren't native to this dangerous environment, like most PCs. For extended Aquatic adventures and particularly deep explorations, characters will require the use of magic to continue their adventures. Transformation or Abjuration spells are of obvious use.
+The rules for underwater combat apply to creatures that are not native to this dangerous environment, like most PCs. For prolonged Aquatic adventures and particularly in-depth explorations, characters will require the use of magic to continue their adventures. Transformation or Abjuration spells are of obvious use.
 
-Pressure damage can be totally avoided by spells that offer resistance.
+Pressure damage can be completely avoided with spells that offer resistance.
 
-\subsection{Underwater combat}\label{underwatercombat}\index{Underwater combat}
+\subsection{Underwater combat}\label{combatteresottacqua}\index{Underwater combat}\hypertarget{combatteresottacqua}{}
 Creatures that live on land have considerable difficulty fighting underwater. Water affects a creature's defense, attack rolls, damage, and movement.
 
 \begin{itemize}[leftmargin=*]
@@ -16757,296 +16832,25 @@ Magical effects are unaffected, except those that require an attack roll (see ab
 
 Nonmagical \textbf{fire} (including alchemist's fire) does not burn underwater. Fire spells or magical effects are ineffective underwater. A partially submerged creature has fire resistance.
 
-\textbf{Casting spell underwater}\index{Casting spell underwater}
+\textbf{Casting spells underwater}\index{Casting spells underwater}
 
-Casting spells while underwater can be difficult for those without the ability to breathe underwater.
+Casting spells underwater can be difficult for those without the ability to breathe underwater.
 
-A creature that is unable to breathe underwater expends three rounds of holding its breath to cast a spell underwater.
+A creature unable to breathe underwater spends three rounds of holding its breath to cast a spell with a V component.
 
-Some spells may work differently underwater, at the Arbiter's discretion
+Some spells may function differently underwater, at the discretion of the Master
 
-Remember that a character can hold his breath for CON*6, minimum 3 rounds, rounds before starting to drown and each Action consumes an additional round.
-
-\subsection{Drowning}\index{Drowning}\index{Suffocate}\label{drowning}
-
-A character drowns when he is no longer able to hold his breath underwater, or when the Swim check, including penalties, has a value of less than 5.
-The Swim check has difficulties based on the state of the water and the type of liquid which at least are considered "difficult terrain", in which you move. In case of calm waters the DC is 10, troubled waters DC 15, stormy waters DC 20. In case of failure of the check you do not move and you have a -1 to the next check, in case of critical failure the next check takes a -1d6.
-A drowning character must make a DC 12 Fortitude save each round to hold his breath and each subsequent round the check increases by 1, each Action taken increases the next difficulty by 1. When the check fails the character goes to 0 Points Wounded, she faints, and from the next round she loses 1 hit point per round.
-
-
-\subsection{Nautical Adventures}
-
-Water can provide the setting for a different and unique gaming experience: nautical adventure. In such a scenario, the effects and perils of underwater adventures are replaced by surface challenges, as characters and their opponents use ships and boats to navigate that environment. Usually, nautical adventures are resolved normally, with a combat aboard a ship similar to a terrestrial one. If combat occurs during a storm or in rough seas, treat the ship's deck as hindering terrain. Remember to consider the effects of weather or roll on Concentration checks.
-
-\begin{center}
-
-\includegraphics[width=0.8\linewidth]{immagini/avventure_acqua_grey.png}
-
-\textit{The Mermaid and the Boy" 1904 by H.J.Ford}
-\end{center}
-
-
-\subsubsection{Fast Sea Combat}
-
-When ships do battle, things change a bit. The following rules are not intended to accurately simulate all aspects of a naval combat, but only to provide you with quick and simple rules for unraveling such situations when they escalate into a nautical adventure, whether it be a battle between two ships or between a ship and a ship. a sea monster.
-
-{Preparation:} Determine which types of ships are involved in the combat (see Table: Ship Statistics). Use a large, empty battle grid to represent the waters where the battle takes place. A single square corresponds to 10 meters of distance. Depict each ship by placing tokens that occupy the appropriate number of squares (toy ships make great tokens and can be found at model stores).
-
-{Starting Combat:} When combat begins, let the characters (and key NPC allies) roll Initiative normally; the ship moves and attacks based on the captain's initiative result. If one of the ships in the battle uses sail to navigate, randomly determine which way the wind is blowing by rolling 1d8 and following the guidelines for Missing Splash Weapons.
-
-{Movement:} Based on the captain's Initiative score, the ship can move at its base speed in a single round as if the Action matched that of the captain himself (or at double its speed as the only action of the round), as long as it has its own minimum full crew. The ship can increase or decrease its speed by 10 meters per round, up to maximum speed. Alternatively, the captain can change direction (maximum one side of a square at a time) (2 Actions). A ship can only change direction at the start of the round.
-
-{Attacks:} Those in excess of a ship's minimum manning requirement may be placed to man Siege Engines. Siege Engines attack based on the Captain's Initiative score.
+See Chapter Environment for rules on \hyperlink{trattenereilfiato}{hold your breath} (page \pageref{trattenereilfiato}).
 
 
 \begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/acquapericoli.png}
+
+\includegraphics[width=0.5\linewidth]{immagini/avventure_acqua_grey.png}
+
+\emph{The Mermaid and the Boy - Henry Justice Ford}
 \end{center}
-
-A ship may also attempt to ram a target if it is carrying the minimum crew. To ram a target, the ship must move at least 10 meters and end up with its bow in a square adjacent to it.
-Then, the ship's captain makes a Profession (sailor) check: if the result equals or exceeds the target's Defence, the ship strikes its target, inflicting damage as indicated on Table: Ship Statistics and at the same time suffering the minimal damage. A ship equipped with a rake deals an additional 3d6 points of damage to the target (the attacking vessel takes no additional damage).
-
-\textbf{Sinking}\index{Sinking}
-
-A ship gains the sinking condition when its Hit Points drop to 0 or less. A sinking ship cannot move or attack and is considered sunk after 10 rounds. For every 25 points of damage taken from a sinking ship, the sinking is reduced by 1 round. The Fabricate spell allows you to repair a sinking ship if its Hit Points are restored above 0, in which case the ship loses its sinking condition. Generally, nonmagical repairs take too long to save a ship from sinking once it begins to sink.
-
-\textbf{Ship Stats}
-
-In the real world, there is a huge variety of boats and ships, from small rafts to massive galleons. Representing this, Table: Ship Statistics classifies seven standard ship sizes and their respective statistics. Just as real-world cultures have created and adapted different types of vessels, so races in fantasy worlds might create their own bizarre ships.
-Arbiters may use or modify these statistics to suit the needs of their creations, and still describe such means of transportation as they see fit. All ships have the following traits.
-
-\textbf{Type}: This is a general category listing the basic type of ship.
-
-\textbf{Defence}: The Defence of the ship. To calculate a ship's effective Defence, add the captain's Profession (sailor) score to the base Defence of the ship. Touch attacks against a ship ignore the captain's modifier. A ship is never flat-footed.
-
-\textbf{Basic Save}: A ship's basic Saving Throw modifiers (Fortitude, Reflexes, and Wisdom) have the same value. To determine a ship's effective save modifiers, add the captain's Profession (sailor) modifier to this value.
-
-\textbf{Max Speed}: The maximum speed of a ship in combat. An asterisk indicates that the ship has sails and can move twice as fast if it moves in the same direction as the wind. A ship with only sails can move only in the presence of wind.
-
-\textbf{Armaments}: The number of Siege Engines that can be equipped on the ship. A rake uses one of these slots, and a ship can only be equipped with a rake.
-
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/navenotte.png}
-\end{center}
-
-
-\textbf{Ramming}: The amount of damage a ship deals with a successful ramming attack (without a ramming).
-
-\textbf{Squares}: The number of squares the ship occupies on the combat grid.
-
-\textbf{Crew}: The first number indicates the minimum crew the ship needs to operate normally, excluding gun handlers. The second indicates the maximum number of crew plus additional soldiers or passengers. A ship without its minimum crew can only move, change speed, change direction, or ram if its captain succeeds at a DC 20 Profession (sailor) check.
-A crew exceeding the minimum number does not affect movement, but crew members can replace fallen members or man additional weapons.
-
-\bigskip
 
 \end{multicols}
-
-\textbf{Table: Ship Statistics}\index{Table Ship Statistics}
-
-\medskip
-
-\begin{tabular}{lllllllll}
-\textbf{Type} & \textbf{Defence} & \textbf{HP} & \textbf{Base ST} & \textbf{Sp. (m/s)} & \textbf{Weapon} & \textbf{Spur} & \textbf{Quad}. & \textbf{Crew}\\
-\toprule
-Raft & 9 & 10& +0& 4.5 & 0 & 1d6 & 2 & 1/4\\
-Rowboat & 9& 20& +2& 9 & 0 & 2d6+6 & 6 & 1/3\\
-Boat & 8& 60& +4& 9 & 1 & 2d6+6 & 12 & 4/15+100\\
-Longship& 6& 75& +5& 18 & 1 & 4d6+18 & 40 & 50/75+100\\
-Sailboat & 6& 125 & +6& 18 & 2 & 3d6+12 & 20 & 20/50+120\\
-Warship & 2& 175 & +7& 18 & 3 & 3d6+12 & 35 & 60/80+160\\
-Galley& 2& 200 & +8& 27 & +4 & 6d6+24 & 60 & 200/250+200\\
-\end{tabular}
-
-\pagebreak
-
-\section{City Adventures}\index{City}
-
-\label{avventure-in-citta}
-\begin{changemargin}{0.3cm}{0.3cm}\begin{emphasis}{
-God created the countryside, and man created the city. (William Cowper)}\end{emphasis}\end{changemargin}\medskip
-
-
-\begin{multicols}{2}
-
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{A}{t} first view, a city is very similar to a dungeon, as it is made up of walls, doors, rooms and corridors . Adventures set in cities differ from those set in dungeons in two main ways. Characters have access to more resources and must be mindful of the presence of law enforcement.
-
-\textbf{Access to Resources}: Unlike dungeons and wilds, characters can buy and sell Equipment very quickly in the city. A large city or metropolis likely has NPCs and high-level experts specializing in the more obscure fields of knowledge who can offer help and interpret clues. And when characters are battered and bruised, they can always return to the comfort of their rooms at the inn.
-
-The freedom to retreat and access market goods means players have more control over the pace of a city adventure.
-
-\textbf{Enforcement}: The other element of distinction between adventuring in a city and exploring a dungeon is that the dungeon is, almost by definition, a place without rules where the only law is that of the jungle: kill or be killed.
-
-A city, on the other hand, is governed by a code of laws, many of which are explicitly designed to prevent the kind of behavior adventurers indulge in more often than not: killing and looting. However, city laws recognize the serious threat monsters pose to city stability, and the prohibition of killing rarely applies to monsters such as aberrations or Fiends.
-
-Most evil humanoids, however, usually enjoy the same protection as all other citizens. Having a set of evil Traits is not a crime (except perhaps in cities where there is a strict theocracy, with magical power necessary to enforce the law); only evil deeds are considered a breach of the law.
-
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/cavalieri.png}
-\end{center}
-
-
-Even when the adventurers meet an evildoer committed to committing the most horrific crimes against the city population, the law still frowned upon those who take justice into their own hands by killing the evildoer or otherwise preventing him from being brought before a court to be processed.
-
-\textbf{Weapon and Spell Limitations}
-
-Each city has its own laws regarding weapons that can be carried in public and restrictions on spells.
-
-City laws may not affect all characters equally. A man of faith moving with a weapon in tow is not hindered in any way by the law of lassoing weapons, but a spellcaster suffers a considerable reduction in his power if his Tome is confiscated at his hands. city gates.
-
-\textbf{Urban Elements}
-
-Walls, doors, dim lighting, and uneven ground—in many ways, a city is similar to a dungeon. New elements suitable for a city setting are described below.
-
-\textbf{Walls and Gates}
-
-Many cities are defended by a circle of walls. Normal city walls are made of reinforced stone, 1 meter thick and 6 meters high. Such a wall is fairly smooth and requires a DC 30 Climb check to climb it. The walls have small crenellations on one side to provide a parapet for the guards at the top, and the walking space on the walls is barely enough for a guard.
-
-\textbf{The Walls}
-
-Unlike smaller cities, metropolises often also have internal walls, sometimes the old walls erected when the city was smaller, or walls that separate the various districts from each other. Sometimes these walls are as high and wide as the outer ones, but much more often they are the size of a city large or small.
-
-\textbf{Watchtowers}: Some city walls have watchtowers that pop up at regular intervals. Few cities have enough guards to place on each watchtower, unless the city expects an attack from outside. The towers offer an elevated view of the surrounding countryside as well as a bastion of Defence against enemy invaders.
-
-\medskip
-
-\begin{center}
-\includegraphics[width=0.85\linewidth]{immagini/muraparigi.png}
-
-\textit{Chronicles, Jean Froissart. Queen Isabella of France arrives in Paris, 15th century}
-\end{center}
-
-\medskip
-
-
-Watchtowers are usually 3 meter taller than the wall they are part of, and their diameter is 5 times the thickness of the walls. Loopholes for archers open on the upper floors of the tower, and the top is crenellated in the same way as the surrounding walls. In the smaller towers (about 7.5 meters in diameter, along a 1.5 meter thick wall) a simple ladder connects the inside of the tower to the roof. In the larger towers there are real stairs.
-
-Access to the tower is protected by heavy wooden doors, with iron reinforcements and good locks (Disable Devices DC 25). Normally the captain of the guard keeps the access key to the tower, and a second copy is kept in the inner fortress or in the city barracks.
-
-\textbf{Gates}: A typical city gate is composed of a gatehouse with two portcullis and loopholes in the space between them. In towns and small towns, the main entrance is protected by double iron doors set into the city walls.
-
-The gates usually remain open during the day and locked or barred at night. Generally, only one gate lets travelers in after dark, and it is guarded by guards who will only open the gates for someone who looks honest, presents the proper papers, or bribes them sufficiently (depending on the type of city and guards).
-
-\textbf{Guards and Soldiers}
-
-A city typically has full-time service military personnel equal to 1\% of its adult population, in addition to duty or conscript soldiers equal to 5\% of the population. Full-time soldiers are city guards responsible for maintaining order in the city, in a role similar to that of modern police, and (to a much lesser extent) defending the city from outside assaults. Conscripted soldiers are called up in the event of an attack on the city.
-
-A typical array of city guards deploys into three eight-hour duty shifts, with 30\% of its force on daytime duty (8am to 4pm), 35\% on evening duty (from 16 to 24) and 35\% of service in the night shift (from 24 to 8). At any one time, 80\% of the guards on duty are patrolling the streets, while the remaining 20\% are assigned to various posts around the city, ready to react to any alarms. A similar guard post is present at least in every city neighborhood (a neighborhood is made up of several neighborhoods).
-
-The majority of city guards are combatants, mostly 1st level. Officers are higher-level fighters, and maybe even some spellcasters.
-
-\textbf{Siege Engines}\index{Siege Engines}
-
-Siege engines are large weapons, temporary structures, or mechanisms traditionally used to besiege a castle or fortress.
-
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/armidaassedio.png}
-\end{center}
-
-
-\textbf{Heavy Catapult}: \index{Catapult}A heavy catapult is a gigantic siege engine capable of hurling boulders or other heavy objects with great force. Since the launch arc of the catapult is very high, the contraption is able to hit even areas outside its line of sight. To fire a heavy catapult, the chief machine operator makes a DC 15 special check using only his Attack Proficiency value with his Intelligence modifier, range penalty, and modifier from the lower section of the Table : Siege Engines.
-
-If the check is successful, the catapult's boulder strikes the melee zone the catapult aimed at, dealing the indicated damage to any objects or characters in the area. Characters who make a successful DC 15 Reflex save take half damage. Once the boulder has hit the zone, subsequent roll will hit the same zone, unless the catapult is redirected or the wind changes direction or speed.
-
-If a catapult's boulder misses, use the weapons table on \hyperlink{spargimento}{splash} (page \pageref{attacchiarmidaspargimento}). The distance covered is 1d4x3 meter.
-
-Loading a catapult requires a series of actions that take up the whole round. It takes a DC 15 Strength check to lower the catapult arm; most catapults have wheels that allow up to two operators to use the Assist Another action to assist the main pulley operator.
-
-A Profession (siege engineer) check with DC 15 will snap the arm into place, and then another Profession (siege engineer) check with DC 15 will load the projectile onto the catapult. It takes four rounds to reload a heavy catapult (several catapult operators can perform these actions in the same round, so four people can reload a catapult in just 1 round). A heavy catapult takes up a space of 5 meters.
-
-
-\textbf{Light Catapult}: This is a smaller and lighter version of the heavy catapult. It functions essentially as a heavy catapult, except that a DC 10 Strength check is required to snap the arm into place, and only 2 rounds to redirect the catapult. A light catapult occupies a 3m space.
-
-\textbf{Ballista}: \index{Balista}A ballista is basically a huge stationary heavy crossbow. Its size makes it difficult for most creatures to use. Thus, a medium creature takes a -1d6 penalty on attack rolls when using a ballista, and a small creature takes a -6 penalty. A smaller than large creature takes 2 rounds to reload the ballista after firing.
-
-A ballista takes up a space of 2 meters.
-
-\textbf{Ram}:\index{Ram} This massive trunk is sometimes tethered and suspended from a movable trellis that allows its wielder to swing it with ever-increasing force at a target. As the only action of the round, the character closest to the ram's point makes an Attack Roll against the building's Defence, applying a –1d6 penalty for lack of proficiency (it is not possible to have proficiency in using this machine). In addition to the damage listed on Table: Siege Engines, up to nine other characters can push the ram and add their Strength modifiers to the ram's damage, if they reserve an attack action to do so. It takes at least one Huge or larger creature, 2 Large creatures, 4 Medium creatures, or 8 Small creatures to man a ram (Tiny or smaller creatures can't use a ram).
-
-A ram is usually 10 meters long. In a battle, creatures flying a ram must line up in two adjacent lines of equal length with the ram supported between the two lines.
-
-\textbf{Siege Tower}\index{Siege Tower}: This machine is a huge wooden tower mounted on wheels or cylinders which can be pushed against a wall to allow the besiegers to scale the tower and thus get to the top of the walls benefiting from Coverage. The wooden walls of the tower are usually about 30 cm thick.
-
-A typical siege tower occupies a space of 5 meters. Creatures within it push it with a speed of 3 meter (a siege tower can't run). The eight creatures pushing the tower on the ground floor have full cover, those on the upper floors have Improved Cover and can shoot through loopholes for archers.
-
-\end{multicols}
-
-\medskip
-
-\textbf{Table: Catapult Attack Modifiers}\index{Table Catapult Attack Modifiers}
-
-\medskip
-
-\begin{tabular}{p{0.57\textwidth}p{0.35\textwidth}}
-\textbf{Circumstance} & \textbf{Modifier}\\
-\toprule
-Line of sight does not reach target area & -6\\
-Consecutive Shot (operators can see where most recent misses landed) & Cumulative +2 per previous miss (max +10)\\
-Consecutive Shot (operators can't see where most recent misses landed but a spotter provides guidance) & Cumulative +1 per previous miss (max +5))\\
-\end{tabular}
-
-\bigskip
-
-\textbf{Table: Siege Engines}\index{Table Siege Engines}
-
-\medskip
-
-\begin{tabular}{lllll}
-\textbf{Machine} & \textbf{Cost (gp)} & \textbf{Damage} & \textbf{Range} & \textbf{Soldiers}\\
-\toprule
-Heavy Catapult & 800 & 6d6 & 60m & 4\\
-Light Catapult & 550 & 4d6 & 45m & 2\\
-Ballista & 500 & 3d8 & 36m & 1\\
-Ram & 1000 & 3d6 & - & 10\\
-Siege Towers & 2000 & - & - & 20\\
-\end{tabular}
-
-\begin{multicols}{2}
-
-\bigskip
-
-\textbf{City Streets}\index{City Streets}
-
-Typical city streets are narrow and winding. Most city streets are 3 to 6 meters wide, while alleyways range from 3 meters to only 1 meters wide. If the paved floor is in good condition, it is possible to move normally, while badly damaged and badly damaged roads are considered equivalent to scattered debris, and increase the DC of Acrobatics checks by 2.
-
-Some cities don't have large driveways, especially those that have grown gradually from small settlements. Cities that were either pre-planned, or perhaps consumed by a major fire that allowed authorities to build new roads on what were once inhabited areas, may have some larger roads running through them. These main roads are 8 meters wide, allowing wagons to pass side by side, with 1 meter sidewalks on either side.
-
-\textbf{Crowd}: The city streets are filled with people who come and go, busy with various daily chores. In most cases it is not necessary to include every 1st level commoner on the map when it comes to a fight on the main avenue of the city. Instead, it is sufficient to indicate which areas on the map are occupied by the crowd. If the crowd sees anything dangerous, it will move away at a speed of 10 meters per round at an initiative count of 10. You must have melee distance to make contact with the crowd. Crowd provides Full Coverage.
-
-\textbf{Lead the Crowd}: A DC 15 Diplomacy or DC 20 Intimidate check is required to get a crowd to move in a certain direction, and the crowd must be able to hear or see the character doing so the attempt. It takes a whole round to make the Diplomacy check, while it takes only one Action to make the Intimidate check.
-
-If two or more characters attempt to push the crowd in two different directions, they make opposed Diplomacy or Intimidate checks to determine who the crowd will listen to. The crowd will ignore both if both check results fall below the above DCs.
-
-\textbf{Rooftops}: Climbing a roof usually requires scaling a wall, unless a character can reach a roof by jumping off a higher window, balcony, or bridge. Flat roofs are only common in warm climates (accumulating snow can cause a flat roof to collapse) and are easy to run across. Moving to the top of a roof requires a DC 20 Acrobatics check. Moving horizontally across a sloped roof (moving parallel to its top, basically) requires a DC 15 Acrobatics check. Moving up and down a sloped roof requires an Acrobatics check with DC 10.
-
-Sooner or later a character will reach the end of the roof, and will have to make a long jump to move to the next roof or to get down to the ground. The distance from one roof to the next is usually 3 meters, but the roof on the other side may be 1 meters higher or lower, or the same height. The guidelines given for Acrobatics (the peak height in a long jump is equal to one-quarter the horizontal distance) are used to determine if the character is capable of making a jump.
-
-\textbf{Sewers}: To enter the sewers, characters usually have to open a grate (1 round) and jump down 3 meter. Sewers are built exactly like dungeons, except that the floor is slippery or covered in water. Sewers are also similar to dungeons in terms of the creatures that can be encountered within them. Some cities were built on the ruins of older civilizations, so the sewers could also lead to treasures and dangers from a bygone era.
-
-\textbf{City Buildings}
-Most city buildings are divided into three categories. Many buildings in a city are two to five stories high and are built side by side to form long rows, interrupted only by main or side streets. These terraced buildings usually house a shop on the ground floor, with offices or apartments on the upper floors. Inns, wealthier trading establishments, and larger warehouses (as well as any mills, tanneries, and other space-intensive businesses) are usually large free-standing buildings up to five stories tall.
-Finally, smaller houses, shops, warehouses and warehouses are simple one-story wooden buildings, especially in poorer neighborhoods.
-
-\textbf{City Lighting}
-If a city has large driveways, these will be lit by lanterns hung about 2 meters high on the sides of the buildings. These lanterns are placed at a distance of 9 meters from each other, so the lighting in these streets is practically continuous. Secondary streets and alleyways are not lit; it is customary for citizens to pay a lantern man to accompany them, if they have to go out at night. The alleyways can be dark places even during the day, thanks to the shadows of the surrounding taller buildings. A dark alley in daytime is not dark enough to impart full but light cover.
-
-\subsubsection{Working in the city}\index{Working in the city}\index{Downtime}
-
-During breaks between one adventure and another or because a certain amount of time must pass for a certain thing to happen, the characters can try to make use of their Skills to earn some income.
-
-The characters make one check per day in Crafts or Herbalism or Entertain (depending on the activity they carry out), depending on their success they will earn or not.
-
-Subtract 15 from the check made, if the check is 16 or more, by the character and square the difference, the result is the silver coins earned ($(15-Test)^2$).
-
-
-\end{multicols}
-
-\vfill
-
-\begin{center}
-\includegraphics[width=0.77\linewidth]{immagini/fognelondra.png}
-
-\textit{London Sewer Map, 1880}
-\end{center}
 
 
 \pagebreak
@@ -17062,8 +16866,6 @@ First, no one is left behind. (anonymous)}\end{emphasis}\end{changemargin}\medsk
 
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{N}{atural} disasters are terrifying environmental hazards that bring death and devastation. Supernatural ones can be even more destructive, as they can forever disfigure a world. A disaster is more like an adventure than an encounter, and doesn't have a specific Challenge Rating. Rather, each part of the disaster should be treated as a separate encounter designed with a Challenge rating appropriate to the PCs.
-
-Below are the rules for dealing with the effects of three different types of disasters, both natural and supernatural. Some disasters occur rapidly, such as earthquakes and tsunamis, while others proceed through many stages, such as forest fires, volcanoes, and undead risings. Adjust the adventure outline to fit the disaster, to allow events to unfold over the course of a few minutes or several days depending on what you need.
 
 \textbf{Volcanoes}\index{Volcanoes}
 
@@ -17093,41 +16895,17 @@ The exact devastation caused is subject to the Arbiter's discretion, but a typic
 
 A creature can avoid being swept out to sea with a DC 25 Swim check; otherwise it is washed 6d6 x 3 meter from shore. The waters after a tsunami are always considered rough or stormy, barring magical influences. A creature caught in the collapse of a building takes 6d6 points of damage (DC 15 Reflex save halves), or half that much if the structure is particularly small. there is a 50\% chance that the creature will be buried (as with a Collapse), or that the tsunami can destroy the building, freeing the creature from the rubble.
 
-\textbf{Undead Rising}\index{Undead Rising}
 
-The result of an ancient curse or necromantic acts, one of the most terrifying supernatural disasters is the undead rising: the dead who emerge from the grave to claim the living. This disaster can affect any area where the dead have been buried, not just towns and cities. More than one battlefield has seen the rise of a legion of withered undead combatants. Undead uprisings occur in waves, with the timing varying according to the major forces at play. Events can unfold over the course of a few days, with a city devastated, or stretch over weeks with a terrified population cowering behind locked doors and struggling to survive. During the day, life often returns to some semblance of normality, as daylight temporarily suppresses the power of undeath.
-
-\textbf{The Restless Dead}
-
-In the first few nights of an undead uprising, the recently dead reanimate as zombies. Those buried in consecrated ground do not revive, but bodies left unburied or in mass graves stagger out into the streets, wreaking havoc. Initially, only a few corpses are able to free themselves from their coffins and graves, but every evening, the number of living corpses increases. When dawn comes, the dead seek safety in their graves or other hidden places. Anyone caught in the daylight flails Confused until they are destroyed or reach shelter. At the Arbiter's discretion, nonhumanoid corpses may be resurrected as undead on subsequent nights.
-
-\textbf{The Skeletons Awakened}
-
-As the uprising progresses, older and older corpses join the ranks of the undead. Skeletons bearing traces of long-rotten burial garments claws their way out of cemeteries and crypts, and act with a malevolence and organization rarely found among their kin. The undead remain devoid of Intelligence, but the magical power behind the raid gives them the efficiency and tactical acumen of a living army. Skeletons seek out weapons and Armour to equip themselves for battle. Elite Skeleton champions lead the troops, using Magic Items looted from abandoned tombs. Finally, Ghouls and Wights also prowl the streets after dark, along with other lesser Undead with free will
-
-\textbf{Lost Souls}
-
-As the uprising gathers strength, so do the restless souls of corpses long since reduced to dust. Ghosts, Shadows, Wraiths, and even Specters rise to hunt the living. Some Ghosts may break free from the malevolent influence of the uprising, and enterprising characters may glean valuable information from these restless spirits.
-
-The infusion of negative energy fortifies undead within the raid area, granting the benefits of a Blessing. Areas once consecrated are now treated as normal terrain, and can serve as new sources of corpses for undead armies; the sanctified ground remains inviolate.
-
-As the undead grow stronger, the rising tide of negative energy approaches the Plane of Shadow, dulling or graying colors except during the brightest hours of the day. Even the undead most vulnerable to light can move with impunity from late afternoon to midmorning.
-
-\textbf{Necropolis}
-
-The flow of negative energy is irreversible, the darkness eventually claiming the area, covering it in perpetual shadow. The hallowed ground remains a rare sanctuary, but only until it is destroyed by malevolent outside forces.
-
-Heroes who die in battles return as fearsome undead generals. The few living survivors are subjected as slaves. The area becomes a city of death or construction begins if no city existed or survived. Undead with free will gather in this new sanctuary, and only the greatest heroes are able to return from this now withered area to the world of the living.
 
 \end{multicols}
 
-\vfill
+%\vfill
 
-\begin{center}
-\includegraphics[width=0.45\linewidth]{immagini/anubis.png}
-
-\textit{Representation \href{https://it.wikipedia.org/wiki/Anubi}{Anubi}}
-\end{center}
+%\begin{center}
+%\includegraphics[width=0.45\linewidth]{immagini/anubis.png}
+%
+%\textit{Representation \href{https://it.wikipedia.org/wiki/Anubi}{Anubi}}
+%\end{center}
 
 
 
@@ -19753,7 +19531,7 @@ Caster is considered Distracted while swimming.
 
 If you don't have the Swim \textbf{move through water} move type, it's considered \textbf{difficult terrain} so you move at half the speed indicated by move. The Swim check is necessary every time you have to move, in case of failure you don't move and you have a -1 to the next check, in case of critical failure the next check takes a -1d6. When the check is less than 5 you begin to sink and drown.
 
-See the Waer Adventures chapter for swimming and underwater combat rules (page \pageref{underwatercombat}).
+See the Water Adventures chapter for swimming and underwater combat rules (page \pageref{combatteresottacqua}).
 
 \subsubsection{Climb}\index{Climb}\label{scalare}
 
@@ -24610,7 +24388,7 @@ The border open sea area is wild and inscrutable. The deepest and most powerful 
 
 Many areas of Yeru are still unmapped and unexplored, the primordial chaos rules these areas and everything becomes possible.
 
-There are few cities that exceed 50,000 inhabitants. Every state has a capital which, due to the mocking fate of Yeru, is very often destroyed or disappears. The law is often absent and only that of the strongest is in force.
+There are few cities that exceed 50,000 inhabitants. Every state has a capital which, due to the mocking fate of Yeru, is very often destroyed or disappears. The law is often absent and only that of the strongest is in force. 
 
 
 Wide moors unfold where ancient remains of vanished civilizations are a refuge for new inhabitants. Layer upon layer of historic civilizations beneath your feet with treasures, secrets, caves and protectors.
@@ -29370,7 +29148,7 @@ Orcus is the Daemon Prince of the undead. He favors the company and service of t
 
 \textbf{Initiative} +3 -- \textbf{Defense} 15
 
-\textbf{Hit Points} 18 (4d6+3)
+\textbf{Hit Points} 42 (4d8+24)
 
 \textbf{Movement} 9 m 
 
@@ -29396,7 +29174,7 @@ Orcus is the Daemon Prince of the undead. He favors the company and service of t
 
 \textbf{Actions}
 
-\emph{\textbf{Claws.} Melee Weapon Attack}: +4 to hit, reach 1 m, one target. \emph{Hit:} 6 (1d6 + 3) slashing damage. If the target is a creature, it must succeed on a DC 14 Fortitude save or take 5 (2d4) poison damage.
+\emph{\textbf{Claws.} Melee Weapon Attack}: +5 to hit, reach 1 m, one target. \emph{Hit:} 6 (1d6 + 3) slashing damage. If the target is a creature, it must succeed on a DC 14 Fortitude save or take 5 (2d4) poison damage.
 
 \emph {\textbf {Change appearance (at will).}} The Silku can appear as a medium-sized humanoid at its will. A DC 16 Awareness check is required to perceive the true appearance. 
 
