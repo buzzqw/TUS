@@ -624,7 +624,10 @@ aggiornata versione POD 2024/08/18
 
 aggiornata versione POD 2024/08/23
 
-**0.92** aggiornato mostro Silku, chiarimenti su copertura in combattimento, 
+**0.92** aggiornato mostro Silku, chiarimenti su copertura in combattimento, dettagli su Arma troppo grande, 
+
+
+
 
 - aggiunti \label{} fino a piani
 
