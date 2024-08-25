@@ -624,7 +624,7 @@ aggiornata versione POD 2024/08/18
 
 aggiornata versione POD 2024/08/23
 
-**0.92** aggiornato mostro Silku, chiarimenti su copertura in combattimento, dettagli su Arma troppo grande, messe in ordine alfabetico lista professioni, specificati quanti incantesimi ci sono nel Tomo di Magia al primo livello, corretto in elenco incantesimi aria incantesimi caduto piuma, modificati requisiti per devoto e seguace, 
+**0.92** aggiornato mostro Silku, chiarimenti su copertura in combattimento, dettagli su Arma troppo grande, messe in ordine alfabetico lista professioni, specificati quanti incantesimi ci sono nel Tomo di Magia al primo livello, corretto in elenco incantesimi aria incantesimi caduto piuma, modificati requisiti per devoto e seguace, specificato che non si puo' essere devoti o seguaci di piu' patroni contemporaneamente, 
 
 
 
