@@ -626,6 +626,10 @@ aggiornata versione POD 2024/08/23
 
 **0.92** aggiornato mostro Silku, chiarimenti su copertura in combattimento, dettagli su Arma troppo grande, messe in ordine alfabetico lista professioni, specificati quanti incantesimi ci sono nel Tomo di Magia al primo livello, corretto in elenco incantesimi aria incantesimi caduto piuma, modificati requisiti per devoto e seguace, specificato che non si puo' essere devoti o seguaci di piu' patroni contemporaneamente, allineato capitolo Costruiamo il personaggio a nuove regole sulla magia, specificato che adepto della magia quando preso permette di conoscere un incantesimo in piu, aggiornata la scheda, aggiornato abilita' sifone nero - stai giu'- chiarimenti su toccata e fuga 
 
+aggiornata versione POD 2024/08/24
+
+**0.93**
+
 
 
 
