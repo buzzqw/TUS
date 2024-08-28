@@ -628,7 +628,7 @@ aggiornata versione POD 2024/08/23
 
 aggiornata versione POD 2024/08/24
 
-**0.93** ulteriori chiarimenti su arma troppo grande, 
+**0.93** ulteriori chiarimenti su arma troppo grande, aggiornta scheda, 
 
 
 
