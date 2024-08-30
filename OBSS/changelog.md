@@ -628,7 +628,7 @@ aggiornata versione POD 2024/08/23
 
 aggiornata versione POD 2024/08/24
 
-**0.93** ulteriori chiarimenti su arma troppo grande, aggiornata scheda, corretti imprecisioni minori in scuri ed accette, corretto riferimento a precedente tratto, aggiornata abilita' golian delle colline, al primo livello i pf sono 8+cos+fattore ca, ai livelli successivi i pf presi sono 1d6+cos+fattore ca, aggiornati cantrip  riferimenti liste di magia, 
+**0.93** ulteriori chiarimenti su arma troppo grande, aggiornata scheda, corretti imprecisioni minori in scuri ed accette, corretto riferimento a precedente tratto, aggiornata abilita' golian delle colline, al primo livello i pf sono 8+cos+fattore ca, ai livelli successivi i pf presi sono 1d6+cos+fattore ca, aggiornati cantrip  riferimenti liste di magia, aggiornato dardo arcano, modificata montagna umana, 
 
 
 
