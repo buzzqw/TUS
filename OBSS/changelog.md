@@ -628,7 +628,12 @@ aggiornata versione POD 2024/08/23
 
 aggiornata versione POD 2024/08/24
 
-**0.93** ulteriori chiarimenti su arma troppo grande, aggiornata scheda, corretti imprecisioni minori in scuri ed accette, corretto riferimento a precedente tratto, aggiornata abilita' golian delle colline, al primo livello i pf sono 8+cos+fattore ca, ai livelli successivi i pf presi sono 1d6+cos+fattore ca, aggiornati cantrip  riferimenti liste di magia, aggiornato dardo arcano, modificata montagna umana, 
+**0.93** ulteriori chiarimenti su arma troppo grande, aggiornata scheda, corretti imprecisioni minori in scuri ed accette, corretto riferimento a precedente tratto, aggiornata abilita' golian delle colline, al primo livello i pf sono 8+cos+fattore ca, ai livelli successivi i pf presi sono 1d6+cos+fattore ca, aggiornati cantrip  riferimenti liste di magia, aggiornato dardo arcano, modificata montagna umana 
+
+aggiornata versione POD 2024/08/30
+
+**0.94** 
+
 
 
 
@@ -645,10 +650,10 @@ Aggiungere immagini:
 356 fine Descrizione degli Oggetti Magici
 
 > valutare:
-- togliere abilta' supremo, aggiungere un attributo (relativa ad una caratteristica) alle abilita', ogni tot abilita' (5?) con quel attributo aumenta di uno. le abilita' si prendono a  1,1,2,3,5,7,9,11,13,15,17,19,20, farle diventare 1,1,2,3,5,7,9,11,13,15,17,19
+- togliere abilta' supremo, aggiungere un attributo (relativa ad una caratteristica) alle abilita', ogni tot abilita' (4?) con quel attributo aumenta di uno. le abilita' si prendono a  1,1,2,3,4,6,7, 8, 9,11,12,13,14,16,17,18,19 farle diventare
+			   1,1,2,3,5,6,7, 9,11,13,15,17,19
 - suggerimento per il narratore, non usare lo screen
 - opportunista valutare se darlo a quali mostri
-- ragionare su prova di magia. farla diventare una prova di arcana e contare i successi/multipli di 6 dal valore ?
 - stress, basso alto, bonus e malus, recupero
 - ipotesi togliere incantesimi di 7 8 9 livello
 - spendere i soldi: oggetti magici, fortezze ?
