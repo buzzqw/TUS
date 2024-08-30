@@ -632,7 +632,7 @@ aggiornata versione POD 2024/08/24
 
 aggiornata versione POD 2024/08/30
 
-**0.94** modificata modalita' di aumento caratteristiche adesso e' legata alle abilita' prese, 
+**0.94** modificata modalita' di aumento caratteristiche adesso e' legata alle abilita' prese, aggiornato regole per piu' incantesimi a round, corretto effetto critico a stretta folgorante,  
 
 
 
