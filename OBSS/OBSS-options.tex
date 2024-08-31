@@ -1,0 +1,1780 @@
+\documentclass[a4paper,twoside,openany]{book}
+\usepackage{quoting}
+\usepackage{tcolorbox}
+\usepackage{tikz}
+\usetikzlibrary{shadows}
+\usepackage{multicol}
+\usepackage{tocloft}
+\usepackage{lmodern}
+\usepackage{caption}
+\usepackage[utf8]{inputenc}
+%\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}  %\usepackage[B1,T1]{fontenc}
+\usepackage{setspace}
+\usepackage[a4paper]{geometry}
+\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}  %std
+\setcounter{secnumdepth}{-1}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage[italian]{babel}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{makeidx}
+%\usepackage[allfiguresdraft]{draftfigure}  %senza figure, deve rimanere alla riga 24
+\usepackage{multirow}
+\usepackage{titlesec}
+\usepackage[unicode=true, bookmarks=true, pdftitle={OBSS Options}, pdfsubject={Old Bell School System Options}, pdfauthor={Andres Zanzani}, breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
+{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
+\usepackage{bookmark}
+\usepackage{yfonts}
+\usepackage{lettrine}
+\usepackage{calligra}
+\renewcommand{\LettrineFontHook}{\calligra}
+\usepackage{accanthis}
+\usepackage{auncial}
+\usepackage{fontspec}
+\usepackage{ragged2e}
+
+\setmainfont[Path=../altro/fonts/,BoldItalicFont=DejaVuSerif-BoldItalic.ttf,ItalicFont=DejaVuSerif-Italic.ttf,BoldFont=ReadexPro-bold.ttf,Ligatures=TeX,Scale=0.94]{ReadexPro-Regular.ttf} %togliere questa e fontspec per usare pdflatex
+
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins}
+\tcbset{colback=brown!10, fonttitle=\scshape}
+\usepackage{imakeidx}
+\usepackage{cancel}
+\def\CountIndexOccurrences#1{%
+\expandafter\newcount\csname #1\endcsname%
+\expandafter\newcount\csname #1\endcsname%
+\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
+\IfFileExists{#1.idx}{\input{#1.idx}}{}%
+}
+\CountIndexOccurrences{OBSS}
+\CountIndexOccurrences{Incantesimi}
+\CountIndexOccurrences{Mostruario}
+\CountIndexOccurrences{Tabelle}
+\CountIndexOccurrences{OggettiMagici}
+\def\TotalBox#1{\vfill%
+\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
+\makeindex[columns=4, title=Indice Analitico, intoc=true]
+\makeindex[columns=3, name=Tabelle, title=Lista delle Tabelle, intoc=true]
+\makeindex[columns=4, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
+\makeindex[columns=4, name=Mostruario, title=Lista dei Mostri, intoc=true]
+\makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
+\usetikzlibrary{shapes.misc,calc}
+\definecolor{lightgray}{gray}{0.95}
+\usetikzlibrary{shapes.misc,calc}
+\definecolor{lightgray}{gray}{0.95}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyhead[LE,RO]{\leftmark}
+\fancyhead[RE,LO]{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+
+
+\fancypagestyle{plain}{%
+%% Clear all headers and footers
+\fancyhf{}
+%% Right headers on odd pages
+\fancyhead[RO]{%
+\rotatebox{90}{
+\begin{tikzpicture}[overlay,remember picture]
+\node[fill=lightgray,text=black,
+font=\footnotesize,
+inner ysep=12pt, inner xsep=20pt,
+rounded rectangle,anchor=east,minimum width=7cm,
+xshift=-60mm,yshift=-21mm, text height=0.4cm]
+at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
+{\sffamily\itshape\small\nouppercase{\leftmark}};
+\end{tikzpicture}
+}
+}
+%% Left headers on even pages
+\fancyhead[LE]{%
+\rotatebox{90}{
+\begin{tikzpicture}[overlay,remember picture]
+\node[fill=lightgray,text=black,
+font=\footnotesize,
+inner ysep=12pt, inner xsep=20pt,
+rounded rectangle,anchor=east,minimum width=7cm,
+xshift=-60mm,yshift=-4mm, text height=0.4cm]
+at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
+{\sffamily\itshape\small\nouppercase{\leftmark}};
+\end{tikzpicture}
+}
+}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+}
+\pagestyle{plain}
+\fancyfoot[C]{\thepage}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+\usepackage{xltabular}
+\usepackage{tabularx}
+\usepackage{pdfpages}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{etoolbox}
+\usepackage{soul}
+\raggedbottom
+\usepackage{array}
+
+\newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{D}[1]{>{\centering}m{#1}}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\titleformat{\section}{\filcenter\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
+\titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
+\titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+\setcounter{tocdepth}{3}
+\newtcolorbox{narratore}{
+enhanced, % enable advanced settings
+%left = 3mm,
+%width=0.45\textwidth,
+left = 9mm, % pushes text away from the left edge by 10mm
+sharp corners, % disables rounded corners
+rounded corners = southeast, % "round" the bottom right corner
+arc is angular, % make the "round" corner an angle
+arc = 3mm, % controls corner cut
+boxrule=0.6pt, % sets box line thickness
+underlay={%
+\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+},
+drop fuzzy shadow }
+
+\newtcolorbox{enfasi}{
+enhanced,
+arc=5pt,
+boxrule=0.3pt
+}
+
+\usepackage{zref-savepos,graphicx}
+\newcommand{\filltopageendgraphics}[2][]{%\filltopageendgraphics[width=.5\linewidth]{image-a}
+\par
+\zsaveposy{top-\thepage}% Mark (baseline of) top of image
+\vfill
+\zsaveposy{bottom-\thepage}% Mark (baseline of) bottom of image
+\smash{\includegraphics[keepaspectratio=true,height=\dimexpr\zposy{top-\thepage}sp-\zposy{bottom-\thepage}sp\relax,#1]{#2}}%
+\par
+}
+
+\usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
+\newcommand\Yuge{\fontsize{42}{50}\selectfont}
+\usepackage{accanthis}
+\usepackage[framemethod=TikZ]{mdframed}
+
+
+\begin{document}
+\def \versione {0.89a} \fontsize{10}{12}\selectfont
+
+\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{OPTIONS}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
+
+\newcommand\invisiblesection[1]{%
+\refstepcounter{section}%
+\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
+\sectionmark{#1}}
+
+%Define centered and automatically spaced columns for tabularx.
+\newcolumntype{Q}{>{\centering\arraybackslash}X}
+
+%Define left-aligned wrapping and automatically spaced columns for tabularx.
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}
+
+%Define left-aligned wrapping columns for tabular.
+\newcolumntype{h}{>{\raggedright\arraybackslash}p}
+
+\newcommand{\riga}{\rule{\textwidth}{0.4pt}}
+
+\bigskip
+Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni\\
+
+Mai rinunciare ai tuoi desideri, persevera fino ad renderli reali.
+
+\vspace{\fill}
+\begin{center}\textbf{\versione} - \today\end{center}
+\thispagestyle{empty}
+
+
+\newpage~\thispagestyle{empty}%%\newpage~\thispagestyle{empty}
+
+
+\pagebreak
+
+{\Huge \begin{center} Old Bell School System \end{center}}
+
+\bigskip
+
+\begin{center}{\LARGE Opzioni aggiuntive}\\ \end{center}
+
+\begin{center}di \end{center}
+
+{\LARGE \begin{center} Andres Zanzani \end{center}}
+
+\vspace{2cm}
+
+\begin{center}
+\includegraphics[keepaspectratio,width=0.50\textwidth]{immagini/copertina_old_scratch.png}
+\end{center}
+
+\vfill
+
+\begin{mdframed}[roundcorner=10pt]
+
+\medskip
+
+\textbf{Playtesting}: Fabrizio Bonetti, Emanuele Pezzi, Leonardo Pezzi, Nicola Ricottone, Marco Valmori, Edoardo Zanzani, Isotta Zanzani, Federica Angeli, Samuele Mazzotti, Simona Bissi, Lucia Dolcini, Carlo Dall'Ara, SicuramenteNonMirko, Dario Galassi, Stefano Mannino, Francesco Converso.
+
+\bigskip
+
+\begin{flushleft}\textbf{Condizioni d'uso}: OBSS, Old Bell School System, è un marchio registrato di Andres Zanzani (azanzani@gmail.com), licenziato con Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Consultare i dettagli nel capitolo Licenza.
+\end{flushleft}
+
+\vspace{0.5cm}
+
+\begin{center}
+\includegraphics[keepaspectratio,width=0.25\textwidth]{immagini/CC_BY-SA_icon.svg.png}
+\end{center}
+
+\medskip
+
+\end{mdframed}
+
+\cleardoublepage
+\pagebreak
+\pagebreak
+\setcounter{page}{1}
+\pagenumbering{Roman}
+
+\begin{multicols}{2}
+{\small \tableofcontents{}}
+
+\end{multicols}
+
+\vfill
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}
+"May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
+\end{tcolorbox}\end{changemargin}
+
+\pagebreak~
+\pagebreak~
+
+%\cleardoublepage
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+\section{Introduzione}
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{"Il possibile è una creatura alata che volteggia eternamente su di noi\\
+"Bisogna catturarla"\\
+"Sì, ma viva." (Victor Hugo)}
+\end{tcolorbox}\end{changemargin}\medskip
+
+\smallskip
+
+\begin{multicols}{2}
+\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{B}{envenuti} nel manuale di opzioni e regolamenti aggiuntivi di OBSS.
+
+\end{multicols}
+
+\pagebreak
+
+\subsection{Opzionale - Reputazione e Fama}\index{Reputazione}\index{Fama}\index{Opzionale - Reputazione e Fama}
+
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Fama e onore vanno talvolta più facilmente a chi non li ricerca. (Tito Livio)}\end{enfasi}\end{changemargin}\medskip
+
+\begin{multicols}{2}
+
+Benché alcuni eroi si accontentino delle ricompense delle loro imprese o si nascondano dietro una scorza di umiltà, altri cercano di vivere per sempre nelle saghe e nei canti delle loro epiche imprese. La storia misura il successo di un eroe con racconti di trionfo e audacia, ripetuti per generazioni.
+
+Un eroe che non possa rievocare a nessuno la sua storia cade presto nell'oblio, insieme ai suoi sforzi non raccontati. Il racconto delle prodi gesta diviene il metro con cui si misura un eroe, e scolpisce tanto la sua identità quanto la sua reputazione.
+
+La reputazione rappresenta il modo in cui il pubblico in generale percepisce positivamente o negativamente il personaggio. Questa percezione lo precede, parla per lui in sua assenza e determina come sarà trattato da chi ne ha sentito parlare. La reputazione implica cose diverse per tipi di personaggio diversi, in base ai valori sociali e culturali di regioni differenti. Un personaggio che incarni le qualità di eroe in una regione potrebbe essere considerato un depravato o uno scostumato in un'altra. Un'icona ampiamente riverita e rispettata in madrepatria potrebbe scivolare dalla fama all'oblio se si reca in un regno confinante.
+
+Quando si usano queste regole per la reputazione, il Narratore deve stabilire cosa significa la reputazione per i giocatori e i PNG della campagna. Per esempio, una campagna a tema vichingo potrebbe basare la reputazione sui saccheggi.
+
+Se si riesce ad acquisire una reputazione forte o notevole, si potrebbe essere lodati per le proprie azioni e ricompensati con risorse superiori a quelle ottenibili dagli individui meno noti. Allo stesso modo, si può usare la reputazione per influenzare socialmente, politicamente o economicamente la gente.
+
+La Fama aumenta e diminuisce in base alle proprie azioni. La Fama attuale determina la reputazione complessiva, la Sfera di Notorietà definisce i luoghi in cui si possono applicare i benefici della reputazione.
+
+\end{multicols}
+
+\textbf{Tabella: come acquisire punti Fama}\index[Tabelle]{Tabella come acquisire punti Fama}
+
+\medskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+\textbf{Eventi}&\textbf{Mod. Fama}\\
+\toprule
+\textbf{Eventi Positivi}&\\
+Acquisire un tesoro notevole da un degno avversario&+1\\
+Consacrare un tempio al proprio Patrono&+1\\
+Creare un Oggetto Magico potente&+12\\
+Aumentare di un Livello&+1\\
+Individuare e disarmare tre o più trappole con GS adeguato di fila&+1\\
+Effettuare una scoperta storica, scientifica o magica degna di nota&+1\\
+Possedere un oggetto leggendario o un artefatto&+14\\
+Ricevere una medaglia o una simile onorificenza da una figura pubblica&+1\\
+Restituire un Oggetto Magico significativo o una reliquia al suo proprietario&+1\\
+Saccheggiare la roccaforte di un nobile potente(nemico)&+1\\
+Sconfiggere in singolar tenzone un nemico con un GS più alto del proprio livello&+15\\
+Come gruppo vincere un incontro di combattimento con un APL +3 più&+1\\
+Sconfiggere in combattimento un diffamatore pubblico&+2\\
+Superare una prova di Professione con DC 30 o più per creare un'opera od un oggetto &+2\\
+Superare una prova pubblica di Intimidire con DC 30 o più (devono esserci testimoni)&+2\\
+Superare una prova pubblica di Intrattenere con DC 30 o più (devono esserci testimoni)&+2\\
+Completare un'avventura con una difficoltà adeguato al proprio livello&+3\\
+Ottenere un titolo formale (lady, lord, cavaliere e così via)&+3\\
+Sconfiggere un rivale chiave (della campagna) in combattimento&+5\\
+\textbf{Eventi Negativi}&\\
+Essere condannato per un crimine lieve&-1\\
+Accompagnarsi a una persona disdicevole&-18\\
+Essere condannato per un crimine grave non violento&-2\\
+Fuggire pubblicamente da un incontro con un avversario più debole&-3\\
+Attaccare gente innocente&-5\\
+Essere condannato per un crimine grave violento&-5\\
+Perdere pubblicamente un incontro con un avversario più debole&-5\\
+Essere condannato per omicidio&-8\\
+Essere condannato per tradimento&-10\\
+\end{tabularx}
+
+\bigskip
+
+\begin{multicols}{2}
+
+\subsubsection{Fama}
+
+Si comincia il gioco con una Fama pari al proprio livello del personaggio + il proprio modificatore di Carisma. La fama va da -100 a 100, con 0 che rappresenta la mancanza di notorietà.
+
+Nel corso della campagna, parole e gesta aiutano a costruirsi una reputazione. Benché un avventuriero compia molte imprese, non tutte sono abbastanza significative da garantire un cambiamento di Fama. Se possibile, il Narratore dovrebbe attenersi a quelle imprese che influenzano direttamente la storia o la campagna, e non assegnare punti per le vittorie secondarie.
+
+La significatività di un'impresa specifica dovrebbe essere a discrezione del Narratore, ma la Tabella: Eventi di Fama fornisce alcuni esempi. Se la Fama scende sotto 0, vedi Discredito e Infamia più avanti.
+
+\subsubsection{Sfera di Notorieta'}
+
+La reputazione di un personaggio viaggia di pari passo al racconto delle sue imprese. Anche se è un grande eroe nella sua terra, quando viaggia altrove scoprirà presto che la sua reputazione diminuisce e che prima o poi giungerà in regioni in cui è completamente sconosciuto. Maggiore è la reputazione, più si estende l'Area Influenzata.
+
+La Fama determina il raggio massimo della Sfera di Notorietà. La Sfera di Notorietà ha un raggio di 150 chilometri, e in genere aumenta di altri 150 chilometri quando la Fama arriva a 10, 20, 30, 40 e 55.
+
+Accrescere la Sfera di Notorietà non è sempre automatico, si può esprimere un parere su dove si concentri la propria reputazione. Per esempio, si potrebbe richiedere che la propria sfera si estenda più a sud verso una grande città e ignori le tribù barbariche a est, o che si estenda all'interno verso un altro paese anziché all'esterno, sull'oceano.
+
+Sebbene la reputazione possa diffondersi per caso, in genere lo fa volutamente, perché i cantastorie girovaghi abbelliscono le storie delle gesta di un personaggio per renderle più divertenti, i suoi alleati amplificano le più comuni imprese, i suoi nemici ripetono pettegolezzi su di lui per assoldare altri e combatterlo, o il personaggio stesso racconta la sua storia ad ascoltatori compiaciuti.
+
+Il luogo in cui si narrano queste storie determina dove si sarà conosciuti e crea una Sfera di Notorietà: un'eroica maga potrebbe assoldare dei Bardi per vantarsi della propria magia in un regno vicino che prevede di visitare, mentre un Barbaro antagonista potrebbe spingere verso sud i sopravvissuti feriti delle sue razzie, per diffondere la paura tra le sue prossime vittime.
+
+Le seguenti azioni e condizioni influenzano il modificatore alle prove di Carisma, Diplomazia o Intimidire allo scopo di espandere la Sfera di Notorietà.
+
+\medskip
+
+\textbf{Tabella: Modificatori della Sfera di Notorietà}\index[Tabelle]{Tabella Modificatori della Sfera di Notorietà}
+
+\end{multicols}
+
+\medskip
+
+\begin{tabularx}{0.95\textwidth}{Xl}
+\textbf{Azione}&\textbf{Modificatore alla Prova}\\
+\toprule
+Alleati o servitori diffondono storie delle imprese del PG prima del suo arrivo&+5\\
+Un Bardo diffonde storie o canti delle imprese del PG prima del suo arrivo&+1/2 Punteggio Intrattene del Bardo\\
+Si hanno contatti con i PNG dell'insediamento&+1\\
+Si hanno nemici nell'insediamento&+1\\
+Distanza dalla propria Sfera di Notorietà&-1 per 15 chilometri\\
+La lingua principale dell'insediamento è diversa dalla propria&-5\\
+\end{tabularx}
+
+\begin{multicols}{2}
+
+\subsubsection{Il Livello di Fama}
+
+\begin{itemize}[leftmargin=*]
+
+
+\item Il punteggio di Fama è ciò che rende popolare il personaggio.
+
+\item Un punteggio di fama entro i 10 punti ne faranno un eroe locale, di una piccola città.
+
+\item Un punteggio di fama tra i 10 e 20 punti ne faranno un personaggio pubblico, noto a tutti in una piccola città o eroe di quartiere in una grande città.
+
+\item Un punteggio tra i 20 e 30 punti rende il personaggio noto a tutti anche in una grande città, le sue gesta sono anche conosciute in regione magari non con tutti i dettagli.
+
+\item Un punteggio tra i 30 e 40 è una vera è propria celebrità nella sua città, conosciuto per nome anche nelle città limitrofe e rispettato in tutta la regione.
+
+\item Una fama tra i 40 e 50 punti rendono il personaggio una vera eminenza rispettata nello stato.
+
+\item Un punteggio oltre i 55 punte fanno del personaggio una leggenda le cui gesta vengono tramandata ed ingigantite nei secoli a venire.
+
+\end{itemize}
+
+\subsubsection{Discredito e Infamia}
+
+
+Se la propria Fama scende sotto 0, la reputazione è basata sull'infamia piuttosto che sulla Fama. Si consideri la Fama come un numero positivo anziché un numero negativo per tutte le regole legate a Fama, Sfera di Notorietà e Punti Prestigio (per esempio, una Fama da antagonista di -20 equivale a una Fama da eroe di 20 per i suoi ammiratori.
+
+
+Nel caso in cui un evento possa accrescere la Fama, si può scegliere di aumentare la Fama (portandola più vicina a 0) o di diminuirla (rendendola un numero negativo maggiore). Per esempio, se la Fama di un personaggio è 20 e si tira pubblicamente un 30 su una prova di Professione per creare una spada (cosa che in genere vale +2), si può aumentare la Fama a 18 o diminuirla a 22.
+
+Gli eventi negativi che diminuiscono la Fama contano sempre come negativi (un antagonista che attacchi gente innocente non ispira simpatia al pubblico).
+
+Se si ha una Fama negativa, i PNG non malvagi spesso avranno reazioni maldisposte o ostili (vedi Tabella: Reazioni alla Fama Negativa). Si noti che se si ha una reputazione di persona potente e pericolosa, i PNG potrebbero evitare il PG anziché confrontarsi con lui.
+
+
+\end{multicols}
+
+\textbf{Tabella: Reazioni alla Fama Negativa}\index[Tabelle]{Tabella Reazioni alla Fama Negativa}
+
+\medskip
+
+\begin{tabularx}{0.95\textwidth}{lX}
+\textbf{Fama}&\textbf{Reazione}\\
+\toprule
+-5&Mercanti, mercenari e locandieri addebitano un al PG 10\% aggiuntivo per scoraggiare dal fare affari nella loro comunità.\\
+-8&Mercanti, mercenari e locandieri si rifiutano di fare affari. Al PG che entra in un negozio viene immediatamente chiesto di andarsene. Se si rifiuta, il proprietario chiama le autorità o i concittadini per buttarlo fuori.\\
+-10&Quando il PG si avvicina, i negozi chiudono le finestre e sbarrano le porte. La maggior parte dei cittadini si rifiuta di parlargli. Altri lo spronano ad andarsene immediatamente. Se resta più di 24 ore o agisce platealmente contro i cittadini, la sua Fama diminuisce di 5 e i cittadini si radunano per scacciare il PG.\\
+-15&Incendiata dalla spudorata audacia del PG di presentarsi nella comunità, una folla inferocita si raduna. Se il PG non se ne va entro pochi minuti, la folla comincia a bombardarlo con frutta marcia, rami e pietre.\\
+-20&Una folla inferocita si forma subito dopo l'ingresso in città del PG. Non volendo attendere un processo potenzialmente corrotto, cercano di catturarlo e giustiziarlo per i suoi crimini.\\
+-25&Una figura autoritaria ha promulgato un editto di arresto contro il PG, compresa una ricompensa per chiunque lo catturi. La cosa è risaputa e molti vogliono riscuoterla.\\
+-30&Una figura autoritaria ha messo una taglia sulla testa del PG. La cosa è risaputa e molti vogliono riscuoterla.\\
+
+\end{tabularx}
+
+\vfill
+
+\begin{center}
+\includegraphics[keepaspectratio,width=0.55\textwidth]{immagini/Eastern_Story_Teller_1878.png}
+
+\emph{Le leggende vengono raccontate. Travelers in the Middle East Archive, Wilhelm Gentz}
+\end{center}
+
+\pagebreak
+
+\subsection{Avventure Nautiche}
+
+\begin{multicols}{2}
+
+L'acqua può fornire l'ambientazione per un'esperienza di gioco diversa ed unica: l'avventura nautica. In un simile scenario, gli effetti e i pericoli delle avventure subacquee sono sostituiti dalle sfide di superficie, dal momento che i personaggi e i loro avversari utilizzano navi e barche per spostarsi in tale ambiente. Di solito, le avventure nautiche si risolvono normalmente, con un combattimento a bordo di una nave simile ad uno terrestre. Se il combattimento avviene durante una tempesta o in mari agitati, considerate il ponte della nave come terreno difficile. Ricordatevi di considerare gli effetti sulle prove di Concentrazione per il tempo atmosferico od il rollio.
+
+\subsubsection{Combattimento Rapido in Mare}
+
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Tutti sanno fare il timoniere col mare calmo (Lucio Anneo Seneca)
+}
+\end{enfasi}\end{changemargin}\medskip
+
+Quando sono le navi a combattere, le cose cambiano un pò. Le regole seguenti non hanno lo scopo di simulare accuratamente tutti gli aspetti di un combattimento navale, ma solo fornirvi rapide e semplici regole per sbrogliare tali situazioni quando si tramutano in un'avventura nautica, che sia una battaglia tra due navi o tra una nave ed un mostro marino.
+
+\textbf{Preparazione}: Stabilite quali tipi di navi sono coinvolte nel combattimento (vedi Tabella: Statistiche delle Navi). Utilizzate una griglia da battaglia ampia e vuota per rappresentare le acque in cui ha luogo la battaglia. Un singolo quadretto corrisponde a 9 metri di distanza. Raffigurate ogni nave piazzando dei segnalini che occupino l'appropriato numero di quadretti (le navi giocattolo sono ottimi segnalini e potete reperirle nei negozi di modellismo).
+
+\textbf{Cominciare il Combattimento}: Quando il combattimento inizia, lasciate che i personaggi (ed importanti PNG alleati) tirino l'Iniziativa normalmente; la nave si muove ed attacca sulla base del risultato di iniziativa del capitano. Se una delle navi in battaglia usa le vele per spostarsi, determinate casualmente in quale direzione sta soffiando il vento tirando 1d8 e seguendo le linee guida per le Armi a Spargimento che mancano il bersaglio.
+
+\textbf{Movimento}: Sulla base del punteggio di Iniziativa del capitano, la nave può muoversi alla propria velocità base in un singolo round come se l'Azione corrispondesse a quella del capitano stesso (o al doppio della sua velocità come unica azione del round), finché ha il proprio equipaggio minimo al completo. La nave può incrementare o diminuire la propria velocità di 9 metri per round, fino al raggiungimento della velocità massima. In alternativa, il capitano può cambiare direzione (al massimo un lato di un quadretto alla volta) (2 Azioni). Una nave può cambiare direzione solo all'inizio del round.
+
+\textbf{Attacchi}: I membri in eccesso rispetto al requisito minimo di equipaggio di una nave possono essere collocati a manovrare le Macchine d'Assedio. Le Macchine d'Assedio attaccano sulla base del punteggio di Iniziativa del capitano.
+
+
+\begin{center}
+\includegraphics[width=0.9\linewidth]{immagini/acquapericoli.png}
+\end{center}
+
+Una nave può anche tentare di speronare un bersaglio se ospita l'equipaggio minimo. Per speronare un bersaglio, la nave deve muoversi di almeno 9 metri e finire con la prua in un quadretto adiacente ad esso.
+Quindi, il capitano della nave effettua una prova di Professione (marinaio): se il risultato è pari o superiore alla Difesa del bersaglio, la nave colpisce il suo obiettivo, infliggendogli danni come indicato nella Tabella: Statistiche delle Navi e allo stesso tempo subendo il danno minimo. Una nave equipaggiata con uno sperone infligge al bersaglio 3d6 danni addizionali (l'imbarcazione attaccante non subisce danno addizionale).
+
+\textbf{Affondamento}\index{Affondamento}
+
+Una nave ottiene la condizione in affondamento quando i suoi Punti Ferita scendono a 0 o meno. Una nave in affondamento non può muoversi o attaccare e dopo 10 round si considera affondata. Ogni 25 danni subiti da una nave che affonda si riduce l'affondamento di 1 round. L'incantesimo di Fabbricare consente di riparare una nave che affonda se i Punti Ferita della stessa sono riportati sopra lo 0, caso in cui la nave perde la condizione in affondamento. In genere, le riparazioni non magiche richiedono troppo tempo per salvare una nave dall'affondamento una volta che questa inizia a sprofondare.
+
+\textbf{Statistiche di una Nave}
+
+Nel mondo reale esiste una grande varietà di barche e navi, dalle piccole zattere agli imponenti galeoni. A rappresentanza di ciò, la Tabella: Statistiche delle Navi classifica sette dimensioni standard di nave e le rispettive statistiche. Così come le culture del mondo reale hanno creato ed adattato differenti tipi di imbarcazioni, così le razze di mondi fantasy potrebbero creare le proprie bizzarre navi.
+I Narratore potrebbero utilizzare o modificare queste statistiche per soddisfare le esigenze delle loro creazioni e, comunque, descrivere tali mezzo di trasporto a proprio piacimento. Tutte le navi presentano i seguenti tratti.
+
+
+\begin{center}
+\includegraphics[width=0.8\linewidth]{immagini/navenotte.png}
+\end{center}
+
+\textbf{Tipo}: Si tratta di una categoria generale che elenca la tipologia base di nave.
+
+\textbf{Difesa}: La Difesa della nave. Per calcolare la Difesa effettiva di una nave, aggiungete il punteggio di Professione (marinaio) del capitano alla Difesa base della stessa. Gli attacchi di contatto contro una nave ignorano il modificatore del capitano. Una nave non è mai sorpresa.
+
+\textbf{TS Base}: Il modificatore dei Tiri Salvezza Base di una nave (Tempra, Riflessi e Saggezza) hanno lo stesso valore. Per determinare gli effettivi modificatori dei Tiro Salvezza di una nave, aggiungete il modificatore di Professione (marinaio) del capitano a questo valore.
+
+\textbf{Velocità Massima}: La velocità massima di una nave in combattimento. Un asterisco indica che la nave ha delle vele e può spostarsi a velocità raddoppiata se si muove nella stessa direzione del vento. Una nave che abbia solo delle vele può spostarsi solo in presenza di vento.
+
+\textbf{Armamenti}: Il numero di Macchine d'Assedio che possono essere equipaggiate sulla nave. Uno sperone utilizza uno di questi slot e una nave può essere equipaggiata soltanto con uno sperone.
+
+\textbf{Speronamento}: L'ammontare di danni che infligge una nave con un attacco di speronamento riuscito (senza uno sperone).
+
+\textbf{Quadretti}: Il numero di quadretti che la nave occupa sulla griglia di combattimento.
+
+\textbf{Equipaggio}: Il primo numero indica l'equipaggio minimo di cui la nave ha bisogno per funzionare normalmente, ad esclusione degli addetti alle armi. Il secondo indica il numero massimo della ciurma più i soldati o passeggeri aggiuntivi. Una nave senza il suo equipaggio minimo può soltanto muoversi, cambiare velocità, cambiare direzione, o speronare se il suo capitano supera una prova di Professione (marinaio) con DC 20.
+Un equipaggio che eccede il numero minimo non influenza il movimento, ma i suoi componenti possono sostituire i membri caduti o manovrare armi aggiuntive.
+
+\bigskip
+
+\end{multicols}
+
+\textbf{Tabella: Statistiche delle Navi}\index[Tabelle]{Tabella Statistiche delle Navi}
+
+\medskip
+
+\begin{tabular}{lllllllll}
+\textbf{Tipo}  & \textbf{Difesa} & \textbf{PF} & \textbf{TS base} & \textbf{Vel. (m/s)} & \textbf{Arma} & \textbf{Sperona} & \textbf{Quad}. & \textbf{Equipaggio}\\
+\toprule
+Zattera & 9 & 10& +0& 4.5  & 0 & 1d6  & 2  & 1/4\\
+Barca a Remi & 9& 20& +2& 9  & 0 & 2d6+6  & 6  & 1/3\\
+Battello  & 8& 60& +4& 9  & 1 & 2d6+6  & 12  & 4/15+100\\
+Nave Lunga& 6& 75& +5& 18 & 1 & 4d6+18 & 40  & 50/75+100\\
+Barca a Vela & 6& 125  & +6& 18 & 2 & 3d6+12 & 20  & 20/50+120\\
+Nave da Guerra & 2& 175  & +7& 18 & 3 & 3d6+12 & 35  & 60/80+160\\
+Galea& 2& 200  & +8& 27 & +4  & 6d6+24 & 60  & 200/250+200\\
+\end{tabular}
+
+\vfill
+
+\begin{center}
+\includegraphics[width=0.6\linewidth]{immagini/Galley_running_before_the_wind.png}
+
+\smallskip
+
+\emph{Gelea sottile, lunghezza 45m, larghezza 5m, pescaggio circa 200 cm}
+
+\end{center}
+
+\pagebreak
+
+\section{Avventure in Citta'}\index{Città}
+
+\label{avventure-in-citta}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Dio creò la campagna, e l'uomo creò la città. (William Cowper)}\end{enfasi}\end{changemargin}\medskip
+
+\begin{multicols}{2}
+
+\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{A}{ prima} vista, una città è molto simile a un dungeon, in quanto è composta da pareti, porte, stanze e corridoi. Le avventure ambientate in città differiscono da quelle ambientate nei dungeon per due motivi principali: accesso ad un maggior numero di risorse e devono tenere conto della presenza delle forze dell'ordine.
+
+\textbf{Accesso alle Risorse}: A differenza dei dungeon e delle terre selvagge, i personaggi possono comprare e vendere Equipaggiamento molto rapidamente in città. Una città grande o una metropoli probabilmente dispongono di PNG ed esperti di alto livello specializzati nei settori più oscuri della conoscenza, in grado di offrire aiuto e di interpretare gli indizi. Quando i personaggi sono feriti e contusi, possono sempre fare ritorno alle comodità delle loro camere nella locanda.
+
+La libertà di effettuare una ritirata e l'accesso alle merci del mercato significa che i giocatori dispongono di un maggior controllo sui ritmi di gioco in un'avventura in città.
+
+%\begin{center}
+%\includegraphics[width=0.8\linewidth]{immagini/cavalieri.png}
+%\end{center}
+
+\textbf{Forze dell'Ordine}: L'altro elemento di distinzione tra andare all'avventura in una città ed esplorare un dungeon sta nel fatto che il dungeon è, quasi per definizione, un luogo senza regole dove la sola legge è quella della giungla: uccidere o essere uccisi.
+
+Una città, d'altro canto, è sorretta da un codice di leggi, molte delle quali sono state ideate esplicitamente per prevenire quel genere di comportamento nel quale gli avventurieri indulgono spesso e volentieri: uccidere e saccheggiare. Tuttavia, le leggi cittadine riconoscono la gravità della minaccia che i mostri costituiscono alla stabilità cittadina, ed è assai raro che la proibizione di uccidere valga anche per mostri come le Aberrazioni o gli Immondi.
+
+La maggior parte degli umanoidi malvagi, tuttavia, solitamente gode della stessa protezione riservata a tutti gli altri cittadini. Avere un insieme di Tratti malvagi non è un crimine (tranne forse in quelle città dove vige una severa teocrazia, col potere magico necessario per far valere la legge); soltanto gli atti malvagi vengono considerati un'infrazione alla legge.
+
+
+Anche quando gli avventurieri incontrano un malfattore impegnato a commettere i crimini più orribili nei confronti della popolazione cittadina, la legge vede comunque di cattivo occhio chi si fa giustizia da solo uccidendo il malfattore o impedendo in altri modi che venga condotto davanti a un tribunale per essere processato.
+
+\textbf{Limitazioni alle Armi e agli Incantesimi}
+
+Ogni città ha le sue leggi riguardo alle armi che è possibile portare con sé circolando in pubblico e alle limitazioni agli incantesimi.
+
+Le leggi cittadine potrebbero non influenzare tutti i personaggi in egual modo. Un uomo di fede che si muove con un'arma al seguito non viene ostacolato in alcun modo dalla legge che impone di legare con un laccio le armi, ma un incantatore subisce una riduzione considerevole del suo potere se il suo Tomo viene confiscato alle porte della città.
+
+\textbf{Elementi Urbani}
+
+Pareti, porte, illuminazione scarsa e terreno sconnesso: sotto molti aspetti una città è simile a un dungeon. Di seguito vengono descritti nuovi elementi adatti a un'ambientazione cittadina.
+
+\textbf{Mura e Cancelli}
+
+Molte città sono difese da un cerchio di mura. Delle normali mura cittadine sono in pietra rinforzata, spesse 1 metro e alte 6 metri. Un muro del genere è piuttosto liscio ed è necessaria una prova di Arrampicarsi con DC 30 per potervisi arrampicare. Le mura dispongono di piccoli merli su un lato per fornire un parapetto alle guardie in cima, lo spazio per camminare sulle mura è a malapena sufficiente per una guardia.
+
+
+\medskip
+
+\begin{center}
+\includegraphics[width=0.85\linewidth]{immagini/muraparigi.png}
+
+\emph{Cronache, Jean Froissart. La Regina Isabella di Francia arriva a Parigi, 15 secolo}
+\end{center}
+
+\medskip
+
+\textbf{Le mura}
+
+A differenza delle città più piccole, le metropoli spesso sono dotate anche di mura interne, a volte delle vecchie mura erette quando la città era più piccola, oppure mura che separano i vari quartieri gli uni dagli altri. A volte queste mura sono alte e larghe come quelle esterne, ma molto più spesso hanno dimensioni ridotte.
+
+\textbf{Torri di Guardia}: Alcune mura cittadine sono dotate di torri di guardia che spuntano a intervalli regolari. Sono poche le città che hanno guardie a sufficienza da collocare su ogni torre di guardia, a meno che la città non si aspetti un attacco dall'esterno. Le torri offrono una visuale elevata della campagna circostante oltre ad un baluardo di difesa contro gli invasori nemici.
+
+Le torri di guardia solitamente sono più alte di 3 metri rispetto al muro di cui fanno parte, e il loro diametro è pari a 5 volte lo spessore delle mura. Delle feritoie per gli arcieri si aprono ai piani alti della torre, e la cima è merlata allo stesso modo delle mura circostanti. Nelle torri più piccole (del diametro di circa 7 metri, lungo un muro spesso 1 metro) una semplice scala a pioli collega l'interno della torre al tetto. Nelle torri più grandi si trovano vere e proprie scale.
+
+L'accesso alla torre è protetto da pesanti porte in legno, con rinforzi in ferro e serrature buone (Disattivare Congegni DC 25). Normalmente è il capitano delle guardie a custodire la chiave d'accesso alla torre, e una seconda copia viene conservata nella fortezza interna o nella caserma cittadina.
+
+\textbf{Cancelli}: Un tipico cancello d'accesso alla città è composto da una guardiola con due saracinesche e delle feritoie nello spazio tra di esse. Nei paesi e nelle città piccole, l'entrata principale è protetta da doppie porte di ferro incastrate nelle mura cittadine.
+
+I cancelli rimangono solitamente aperti durante il giorno e chiusi a chiave o sbarrati di notte. Generalmente, soltanto un cancello lascia entrare i viaggiatori dopo il tramonto, ed è sorvegliato da guardie che apriranno le porte solo per qualcuno che abbia un aspetto onesto, presenti i documenti appropriati o le corrompa con una cifra sufficiente (in base al tipo di città e di guardie).
+
+
+\textbf{Guardie e Soldati}
+
+Una città solitamente è dotata di personale militare di servizio a tempo pieno pari all'1\% della sua popolazione adulta, i soldati di ronda o di leva possono essere pari al 5\% della popolazione. I soldati a tempo pieno sono guardie cittadine responsabili del mantenimento dell'ordine in città, con un ruolo simile a quello della polizia moderna, e (in misura assai minore) della difesa della città dagli assalti esterni. I soldati in leva forzata vengono chiamati alle armi in caso di un attacco in città.
+
+Un tipico schieramento di guardie cittadine si distribuisce in tre turni di servizio da otto ore ciascuno, col 30\% delle sue forze in servizio di giorno (dalle 8 alle 16), il 35\% in servizio di sera (dalla 16 alle 24) e il 35\% di servizio nel turno di notte (dalle 24 alle 8). In qualsiasi momento, l'80\% delle guardie in servizio è di pattuglia per le strade, mentre il 20\% rimanente è assegnato a varie postazioni per la città, pronti a reagire ad eventuali allarmi. Una postazione di guardia simile è presente almeno in ogni vicinato cittadino (un vicinato è composto da vari quartieri).
+
+La maggioranza delle guardie cittadine è composta da combattenti, quasi tutti di 1° livello. Gli ufficiali sono combattenti di livello più alto e forse anche qualche incantatore.
+
+\textbf{Macchine d'Assedio}\index{Macchine d'Assedio}
+
+Le macchine d'assedio sono grosse armi, strutture temporanee o meccanismi tradizionalmente usati per assediare un castello o una fortezza.
+
+\textbf{Catapulta Pesante}: \index{Catapulta}Una catapulta pesante è una gigantesca macchina d'assedio in grado di scagliare macigni o altri oggetti pesanti con grande forza. Dal momento che l'arco di lancio della catapulta è molto alto, il marchingegno è in grado di colpire anche aree al di fuori della sua linea di visuale. Per fare fuoco con una catapulta pesante, il capo degli operatori del macchinario effettua una prova speciale con DC 15 usando solo il suo valore di Competenza Attacco con il suo modificatore di Intelligenza, la penalità per la gittata e il modificatore relativo alla sezione inferiore della Tabella: Macchine d'Assedio.
+
+Se la prova ha successo, il macigno della catapulta colpisce la zona di mischia a cui la catapulta aveva mirato, infliggendo i danni indicati a qualsiasi oggetto o personaggio nella zona. I personaggi che superano con successo un Tiro Salvezza su Riflessi con DC 15 subiscono danni dimezzati. Una volta che il macigno ha colpito la zona, i tiri successivi colpiranno la stessa zona, a meno che la catapulta non venga ridirezione o il vento non cambi direzione o velocità.
+
+Se il macigno di una catapulta manca il bersaglio, usa la tabella delle armi a spargimento. La distanza coperta è pari a 1d4x10 metri.
+
+
+\medskip
+
+\begin{center}
+\includegraphics[width=0.85\linewidth]{immagini/armidaassedio.png}
+\end{center}
+
+Per caricare una catapulta è necessaria una serie di azioni che portano via tutto il round. Occorre una prova di Forza con DC 15 per abbassare il braccio della catapulta; la maggior parte delle catapulte hanno ruote che permettono fino a due operatori di usare l'azione di Aiutare un Altro per assistere l'operatore principale della carrucola.
+
+Una prova di Professione (ingegnere d'assedio) con DC 15 consente di agganciare il braccio in posizione, e poi un'altra prova di Professione (ingegnere d'assedio) con DC 15 servirà per caricare il proiettile sulla catapulta. Sono necessarie quattro round per ricaricare una catapulta pesante (vari operatori della catapulta possono compiere queste azioni nello stesso round, quindi quattro persone possono ricaricare una catapulta nel giro di 1 solo round). Una catapulta pesante occupa uno spazio di 4 metri.
+
+\textbf{Catapulta Leggera}: Questa è una versione più piccola e più leggera della catapulta pesante. Funziona essenzialmente come una catapulta pesante, con la differenza che è necessaria una prova di Forza con DC 10 per agganciare il braccio al suo posto, e soltanto 2 round per ridirezionare la catapulta. Una catapulta leggera occupa uno spazio di 3 metri.
+
+\textbf{Balista}: \index{Balista}Una balista è in pratica una balestra pesante enorme fissa. La sua taglia rende difficile il suo utilizzo per la maggior parte delle creature.Quindi, una creatura media subisce penalità -1d6 ai Tiri per Colpire quando usa una balista, e una creatura piccola subisce penalità -6. Per una creatura di taglia inferiore alla grande sono necessari 2 round per ricaricare la balista dopo aver fatto fuoco.
+
+Una balista occupa uno spazio di 2 metri.
+
+\textbf{Ariete}:\index{Ariete} Questo tronco massiccio a volte è legato e sospeso a un traliccio mobile che consente a coloro che lo manovrano di farlo oscillare con forza sempre crescente contro un bersaglio. Come unica azione del round, il personaggio più vicino alla punta dell'ariete effettua un Tiro per Colpire contro la Difesa della costruzione, applicando penalità -1d6 per la mancanza di competenza (non è possibile avere competenza nell'uso di questo macchinario). Oltre ai danni indicati nella Tabella: Macchine d'Assedio, fino a nove altri personaggi possono spingere l'ariete e aggiungere i loro modificatori di Forza al danno dell'ariete, se riservano un'azione di attacco per farlo. E' necessaria almeno una creatura Enorme o di taglia superiore, 2 creature Grandi, 4 creature Medie oppure 8 creature Piccole per manovrare un ariete (le creature Minuscole o di taglia inferiore non possono usare un ariete).
+
+Un ariete solitamente è lungo 9 metri. In una battaglia, le creature che manovrano un ariete devono disporsi in due file adiacenti di eguale lunghezza con l'ariete sorretto tra le due file.
+
+\textbf{Torre da Assedio}\index{Torre da Assedio}: Questo macchinario è un'enorme torre di legno montata su ruote o cilindri che può essere spinta contro un muro per consentire agli assedianti di scalare la torre e quindi arrivare in cima alle mura beneficiando di Copertura. Le pareti in legno della torre di solito sono spesse circa 30 cm.
+
+Una torre da assedio tipica occupa uno spazio di 4 metri. Le creature al suo interno la spingono a una velocità di 3 metri (una torre da assedio non può correre). Le otto creature che spingono la torre al pian terreno godono di copertura completa, quelle ai piani superiori godono di copertura media e possono tirare attraverso le feritoie per gli arcieri.
+
+\end{multicols}
+
+\medskip
+
+\textbf{Tabella: Modificatori di Attacco delle Catapulte}\index[Tabelle]{Tabella Modificatori di Attacco delle Catapulte}
+
+\medskip
+
+\begin{tabular}{p{0.52\textwidth}p{0.40\textwidth}}
+\textbf{Circostanza}  & \textbf{Modificatore}\\
+\toprule
+- La linea di visuale non giunge fino alla zona bersaglio & -6\\
+- Tiro consecutivo (gli operatori riescono a vedere dove sono caduti i colpi andati a vuoto più recenti )  & +2 cumulativo per per colpo mancato precedente (max +10)\\
+- Tiro consecutivo (gli operatori non riescono a vedere dove sono caduti i colpi andati a vuoto più recenti ma un osservatore fornisce indicazioni) & +1 cumulativo per per colpo mancato precedente (max +5))\\
+\end{tabular}
+
+\medskip
+
+\textbf{Tabella: Macchine d'Assedio}\index[Tabelle]{Tabella Macchine d'Assedio}
+
+\medskip
+
+%\begin{tabular}{lllll}
+%\textbf{Macchina} & \textbf{Costo (mo)} & \textbf{Danno} & %\textbf{Gittata} & \textbf{Soldati}\\
+%\toprule
+%Catapulta pesante & 800  & 6d6  & 60m & 4\\
+%Catapulta leggera & 550 & 4d6  & 45m & 2\\
+%Ballista& 500  & 3d8  & 36m & 1\\
+%Ariete  & 1000 & 3d6  & -  & 10\\
+%Torre da Assedio  & 2000 & -  & -  & 20\\
+%\end{tabular}
+
+\begin{tabularx}{0.95\textwidth}{lXlll|lXlll}
+\textbf{Macchina} & \textbf{Costo (mo)} & \textbf{Danno} & \textbf{Gittata} & \textbf{Soldati}&\textbf{Macchina} & \textbf{Costo (mo)} & \textbf{Danno} & \textbf{Gittata} & \textbf{Soldati}\\
+\toprule
+Catapulta &&&&&Catapulta&&&&\\
+pesante & 800  & 6d6  & 60m & 4& leggera & 550 & 4d6  & 45m & 2\\
+\hline
+Ballista& 500  & 3d8  & 36m & 1&Ariete  & 1000 & 3d6  & -  & 10\\
+\hline
+\multicolumn{5}{l}{Torri da assedio}& & 2000 & -  & -  & 20\\
+
+
+\end{tabularx}
+
+\begin{multicols}{2}
+
+\medskip
+
+\textbf{Strade Cittadine}\index{Strade Cittadine}
+
+Le tipiche strade di una città sono strette e tortuose. La maggior parte delle vie cittadine è larga dai 3 ai 6 metri, mentre i vicoli vanno da una larghezza di 3 metri a una di soltanto 1 metro. Se il pavimento lastricato è in buone condizioni è possibile muoversi normalmente, mentre le strade in brutte condizioni e gravemente rovinate vengono considerate equivalenti terreno difficile.
+
+Alcune città non hanno grandi viali d'accesso, specialmente quelle che sono cresciute gradualmente partendo come piccoli insediamenti. Le città che sono state progettate a tavolino, o che forse sono state consumate da un grave incendio che ha consentito alle autorità di costruire nuove strade su quelle che un tempo erano aree abitate, potrebbero disporre di alcune strade più grandi che le attraversano. Queste strade principali sono ampie 8 metri, e consentono ai carri di passare l'uno di fianco all'altro, con marciapiedi di 1 metro su entrambi i lati.
+
+\textbf{Folla}: Le strade cittadine sono gremite di gente che va e viene, impegnata nelle varie faccende giornaliere. Nella maggior parte dei casi non è necessario includere ogni popolano di 1° livello sulla mappa quando si giunge a un combattimento sul viale principale della città. E' sufficiente invece indicare quali zone sulla mappa sono occupati dalla folla. Se la folla vede qualcosa di pericoloso, si allontanerà alla velocità di 9 metri per round a conteggio di Iniziativa 10. Per entrare in contatto con la folla bisogna avere una distanza di mischia. La folla fornisce Copertura Completa.
+
+\textbf{Dirigere la Folla}: è necessaria una prova di Diplomazia con DC 15 o di Intimidire con DC 20 per convincere una folla a spostarsi in una certa direzione, e la folla deve essere in grado di sentire o vedere il personaggio che effettua il tentativo. E' necessaria tutto un round per effettuare la prova di Diplomazia, mentre serve solo un'Azione per effettuare la prova di Intimidire.
+
+Se due o più personaggi tentano di spingere la folla in due direzioni diverse, effettuano prove di Diplomazia o di Intimidire contrapposte per determinare a chi la folla darà ascolto. La folla ignorerà entrambi, se tutti e due i risultati delle prove dovessero essere inferiori alle DC sopra indicate.
+
+\textbf{Tetti}: Per arrampicarsi su un tetto di solito è necessario scalare un muro, a meno che un personaggio non possa raggiungere un tetto saltando giù da una finestra, un balcone o un ponte più alto. I tetti piatti sono comuni solo nelle zone a clima caldo (la neve, accumulandosi, può far crollare un tetto piatto) e sono facili da percorrere correndo. Spostarsi sulla cima di un tetto richiede una prova di Acrobatica con DC 20. Spostarsi orizzontalmente su un tetto inclinato (muovendosi in parallelo alla sua cima, in pratica) richiede una prova di Acrobatica con DC 15. Spostarsi su e giù lungo un tetto inclinato richiede una prova di Acrobatica con DC 10.
+
+Prima o poi un personaggio giungerà alla fine del tetto, e dovrà effettuare un lungo salto per passare al tetto successivo o per scendere a terra. La distanza che separa un tetto dal successivo di solito è di 3 metri, ma il tetto dall'altra parte potrebbe essere più alto o più basso di 1 metro, o alla stessa altezza. Si usano le indicazioni date per Acrobatica per determinare se il personaggio è in grado di effettuare un salto.
+
+\textbf{Fognature}: Per entrare nelle fognature, i personaggi solitamente devono aprire una grata (1 round) e saltare in basso per 3 metri. Le fognature sono costruite esattamente come dei dungeon, con la differenza che il pavimento è scivoloso o ricoperto d'acqua. Le fognature sono anche simili ai dungeon per quello che riguarda le creature che è possibile incontrare al loro interno. Alcune città sono state costruite sulle rovine di civiltà più antiche, quindi le fognature potrebbero anche condurre a tesori e pericoli appartenenti a un'era passata.
+
+\textbf{Edifici Cittadini}
+La maggior parte degli edifici cittadini è divisa in tre categorie. Molti edifici in una città sono alti da due a cinque piani e sono costruiti l'uno di fianco all'altro per formare lunghe file, interrotte soltanto dalle vie principali o secondarie. Questi edifici a schiera solitamente ospitano un negozio a pianterreno, con uffici o appartamenti ai piani superiori. Le locande, le imprese commerciali più ricche e i magazzini più grandi (oltre a eventuali mulini, concerie e altre attività che richiedano molto spazio) in genere sono grossi edifici indipendenti alti fino a cinque piani.
+Infine, le abitazioni, i negozi, i magazzini e i depositi più piccoli sono dei semplici edifici di legno a un piano, specialmente nei quartieri più poveri.
+
+\textbf{Illuminazione Cittadina}
+Se una città possiede grandi viali d'accesso, questi saranno illuminati da lanterne appese a un'altezza di circa 2 metri sui lati degli edifici. Queste lanterne sono poste a una distanza di 9 metri l'una dall'altra, quindi l'illuminazione in queste strade è praticamente continua. Le strade secondarie e i vicoli non sono illuminati; è consuetudine per i cittadini pagare un lanternaio che li accompagni, se devono uscire di notte. I vicoli possono essere luoghi bui anche di giorno, grazie alle ombre degli edifici più alti circostanti. Un vicolo buio di giorno non è buio a sufficienza da poter conferire copertura completa ma leggera.
+
+
+\end{multicols}
+
+\pagebreak
+
+\subsection{Spese e Stile di Vita}\index{Spese e Stile di Vita}
+
+\begin{multicols}{2}
+
+Quando non si calano nelle viscere della terra, non esplorano rovine in cerca di tesori perduti o non muovono guerra alle forze dell'oscurità incombente, anche gli avventurieri devono pensare ai bisogni più comuni. Anche in un modo fantastico, la gente deve soddisfare bisogni basilari come un vitto, alloggio e vestiario. Tutto questo ha un costo, anche se certi stili di vita costano più di altri.\\
+
+Le spese dello stile di vita sono un modo semplice per tenere conto dei costi della vita in un mondo fantasy. Coprono l'alloggio, il cibo, le bevande e tutte le altre necessità essenziali di un personaggio. Queste spese coprono inoltre il costo di manutenzione dell'equipaggiamento del personaggio, per consentirgli di essere pronto quando giungerà la prossima chiamata all'avventura. All'inizio di ogni settimana o mese (a scelta del giocatore), ogni personaggio sceglie uno stile di vita dalla tabella Spese dello Stile di Vita e paga il prezzo richiesto per mantenere quello stile di vita. I prezzi elencati sono giornalieri, quindi chi desidera calcolare il suo costo di sostentamento per un periodo di trenta giorni dovrà moltiplicare il prezzo indicato per 30. Un personaggio può cambiare il suo stile di vita da un periodo all'altro, in base ai fondi a sua disposizione, oppure può mantenere lo stesso stile di vita nel corso di tutta la propria carriera.
+
+La scelta dello stile di vita può avere delle conseguenze. Un personaggio che mantiene uno stile di vita ricco può stringere più facilmente contatti con i ricchi e i potenti, ma corre il rischio di attirare qualche ladro. Analogamente, uno stile di vita povero può aiutarlo a evitare i criminali, ma difficilmente gli consentirà di stringere contatti importanti.\\
+
+
+\textbf{Spese dello Stile di Vita}
+
+\medskip
+
+\begin{tabular}{ll}
+\textbf{Stile di Vita}&\textbf{Prezzo al Giorno}\\
+\toprule
+Miserabile&-\\
+Squallido&1 ma\\
+Povero&2 ma\\
+Modesto&1 mo\\
+Agiato&2 mo\\
+Ricco&4 mo\\
+Aristocratico&Minimo di 10 mo\\
+\end{tabular}\\
+
+
+\textbf{Miserabile}. Il personaggio vive in condizioni disumane. Non ha un luogo che può chiamare casa e si ripara dove può, intrufolandosi in un granaio, rannicchiandosi in una vecchia cassa o affidandosi al buon cuore di chi è più fortunato di lui. Uno stile di vita miserabile presenta pericoli in abbondanza. La violenza, le malattie e la fame seguono il personaggio ovunque egli si rechi. Gli altri miserabili potrebbero mettere gli occhi sulla sua armatura, le sue armi e la sua attrezzatura da avventuriero, che rappresentano una fortuna per i loro parametri. La maggior parte della gente non prende minimamente in considerazione il personaggio.
+
+\textbf{Squallido}. Il personaggio vive in una stalla piena di spifferi, una capanna dal pavimento di fango situata appena fuori dal paese o in un ostello pieno di pulci nel quartiere peggiore della città. Beneficia di un minimo riparo dagli elementi, ma vive in un ambiente disperato e spesso violento, in luoghi afflitti dalle malattie, dalla fame e dalle disgrazie. La maggior parte della gente non lo prende minimamente in considerazione e la legge lo protegge poco o nulla. La maggior parte delle persone che conduce questo stile di vita è segnata da qualche terribile disgrazia: bollati come esuli, affetti da un disturbo mentale o da una malattia di qualche tipo.
+
+\textbf{Povero}. Uno stile di vita povero significa dover tirare avanti senza le comodità disponibili in una comunità stabile. Vitto e alloggio essenziali, abiti di scarsa qualità e condizioni di vita imprevedibili generano come risultato uno stile di vita forse sufficiente a sopravvivere, ma di sicuro poco piacevole. Il personaggio dorme in un ostello o in una sala comune al primo piano di una taverna. Beneficia di un minimo di protezione legale, ma deve comunque vedersela con atti di violenza, crimini e malattie. I manovali privi di una specializzazione, robivechi, mendicanti, ladri, mercenari e altre figure poco raccomandabili tendono ad adottare questo stile di vita.
+
+%\begin{center}
+%\includegraphics[width=0.7\linewidth]{immagini/mendicante.png}
+%\emph{Mendicante - Francesco Londonio}
+%\end{center}
+
+\textbf{Modesto}. Uno stile di vita modesto tiene un personaggio fuori dai bassifondi e gli consente di prendersi cura del suo equipaggiamento. Il personaggio vive in una parte vecchia della città, ha una camera in affitto in una pensione, una locanda o un tempio. Non patisce la fame o la sete e vive in un ambiente pulito, anche se spartano. Gli individui comuni che conducono uno stile di vita modesto includono soldati con una famiglia, manovali, studenti, sacerdoti, incantatori dilettanti e così via.
+
+\textbf{Agiato}. Un personaggio in grado di adottare uno stile di vita agiato può permettersi abiti di qualità e prendersi cura del proprio equipaggiamento senza difficoltà. Vive in un'abitazione in un isolato di buona fama o dispone di una stanza privata presso una locanda di qualità. Frequenta mercanti, abili artigiani e ufficiali militari.
+
+\textbf{Ricco}. Un personaggio che adotta uno stile di vita ricco vive nel lusso, anche se forse non ha raggiunto il prestigio sociale associato ai vecchi valori della nobiltà e del sangue reale. Conduce uno stile di vita paragonabile a quello di un mercante di grande successo, uno stimato servitore di un casato reale o un proprietario di alcune piccole attività commerciali. Alloggia in una dimora rispettabile, solitamente una casa spaziosa in una parte rispettabile della città o un comodo appartamento presso una locanda rinomata. Probabilmente è assistito da un piccolo gruppo di servitori.
+
+
+\begin{center}
+\includegraphics[width=0.6\linewidth]{immagini/lucullo.png}
+
+\emph{Lucio Licinio Lucullo. Roma, 117 aC, Napoli 56 aC). Militare e politico romano}
+\end{center}
+
+
+\textbf{Aristocratico}. Il personaggio vive comodamente e nell'abbondanza e frequenta gli ambienti popolati dalle figure più potenti della comunità. Dispone di una dimora eccellente, forse una casa nel quartiere più elegante della città o forse una serie di camere nella locanda più rinomata. Pranza ai ristoranti migliori, si serve presso i sarti più abili e alla moda e può contare su vari servitori che si occupano di ogni suo bisogno. Riceve inviti agli eventi di società dei ricchi e dei potenti e trascorre le sue serate in compagnia di politici, capi di gilda, sommi sacerdoti e nobili. Deve anche vedersela con gli inganni e i tradimenti perpetrati ai livelli più alti. Più grande è la sua ricchezza, maggiori sono le possibilità che sia trascinato in qualche intrigo politico, a volte come pedina, a volte come partecipante attivo.
+
+\end{multicols}
+
+\vfill
+
+\begin{center}
+\includegraphics[width=0.5\linewidth]{immagini/carrozza.png}
+\end{center}
+
+
+
+
+\pagebreak
+
+\section{Avventure e Disastri}\index{Avventure}\index{Disastri}
+
+\label{avventure-e-disastri}
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Per prima cosa, nessuno rimane indietro. (anonimo)}\end{enfasi}\end{changemargin}\medskip
+
+\begin{multicols}{2}
+
+
+\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{ disastri} naturali sono pericoli ambientali terrificanti che portano morte e devastazione. Quelli soprannaturali possono essere anche più distruttivi, poiché possono sfigurare per sempre un mondo. Un disastro è più simile ad un'avventura che ad un incontro, e non ha uno specifico Grado di Sfida. Piuttosto, ogni parte del disastro dovrebbe essere trattata come un incontro separato ideato con un grado di Sfida adeguato ai PG.
+
+Sotto vengono presentate le regole per gestire gli effetti di tre diversi tipi di disastri, sia naturali che soprannaturali. Alcuni disastri si verificano rapidamente, come terremoti e tsunami, mentre altri procedono attraverso numerose fasi, come gli incendi forestali, i vulcani e le sollevazioni di non morti. Aggiustate lo schema dell'avventura per adattarlo al disastro, per permettere agli eventi di svolgersi nel corso di pochi minuti o molti giorni a seconda di quello che vi serve.
+
+\textbf{Vulcani}\index{Vulcani}
+
+Quando la crosta terrestre si rompe ed espelle il suo cuore fuso ha luogo uno dei disastri naturali più drammatici: l'eruzione di un vulcano. Le eruzioni vulcaniche offrono una vasta gamma di opzioni al Narratore, inclusi lava, bombe laviche, gas venefici e colate piroclastiche. I Narratore potrebbero anche considerare l'idea di far presagire una drammatica eruzione vulcanica (o draghi vulcanici) con pericoli preesistenti, come valanghe e terremoti minori.
+
+\textbf{Lava}\index{Lava}
+
+I flussi lavici generalmente sono associati alle eruzioni non esplosive e possono essere un elemento permanente dei vulcani attivi. Le colate laviche sono per lo più lente e si muovono a 5 metri per round, ma quelle più calde sono rapide e raggiungono i 12 metri per round. La lava incanalata, come in un tubo lavico, è molto pericolosa, poiché si muove alla velocità di 36 metri per round (un pericolo con grado di Sfida 6). Le creature raggiunte da una colata lavica devono superare un Tiro Salvezza su Riflessi con DC 20 o sono sommerse dalla lava. Il successo indica che sono a contatto con la Lava ma non Immerse.
+
+\textbf{Bombe Laviche} (grado di Sfida 2 o 8)\index{Bombe Laviche}
+
+Agglomerati di pietra fusa possono essere scagliati a molti chilometri da un vulcano che erutta, raffreddandosi in solida pietra prima di raggiungere il terreno. Una tipica bomba lavica colpisce un punto designato dal Narratore ed esplode in un raggio di 6 metri. Tutte le creature nell'area devono superare un Tiro Salvezza su Riflessi con DC 15 o subiscono 4d6 danni. Le creature che hanno Copertura o sono in grado di coprirsi (come con uno scudo) ottengono un bonus di +2 a questo tiro. A volte si formano bombe laviche molto grandi che infliggono 12d6 danni. Le bombe laviche normali hanno grado di Sfida 2, quelle grandi grado di Sfida 5.
+
+\textbf{Gas Venefici} (grado di Sfida 5)\index{Gas Venefici}
+
+Una delle minacce più insidiose di un vulcano è il gas tossico, spesso non notato tra il fuoco e la distruzione. Diversi tipi di vapori venefici scaturiscono da un'eruzione vulcanica, alcuni visibili, altri no. I gas venefici infliggono 1d3 danni alla Costituzione per round se inalati (Tempra DC 15 nega, la DC aumenta di 1 per ogni round di esposizione), quelli visibili funzionano anche come Fumo Denso. Le nubi di gas venefici si muovono verso il basso e generalmente arrivano ad una altezza di 6 metri. Forti venti possono deviare le nubi di gas, così come alte barriere a condizione che il gas abbia un altro posto dove andare.
+
+\textbf{Colate Piroclastiche} (grado di Sfida 10)
+
+Alcune eruzioni vulcaniche creano una devastante ondata di cenere ardente, gas bollenti e detriti vulcanici chiamata colata piroclastica che può viaggiare per chilometri. Una colata piroclastica viene trattata come una Valanga che viaggia a 150 metri per round, combinata con gli effetti dei gas venefici indicati sopra. Il contatto con i detriti roventi della colata infligge 2d6 danni da fuoco per round, mentre qualsiasi creatura seppellita dalla colata subisce 10d6 danni per round.
+
+\textbf{Tsunami}\index{Tsunami}
+
+Gli tsunami, talvolta attribuiti ad onde di marea, sono tremende ondate d'acqua causate da terremoti sottomarini, esplosioni vulcaniche, smottamenti o impatti di asteroidi. Gli tsunami non si possono individuare finché non raggiungono l'acqua poco profonda, quando la massa d'acqua forma una grande onda. A seconda dalle dimensioni dello tsunami e della pendenza della costa, l'onda può coprire qualsiasi distanza, dal centinaio di metri fino ad oltre un chilometro sulla terra ferma, lasciandosi dietro una scia di distruzione. L'acqua poi si ritira, trascinando via ogni sorta di detriti e creature fino in alto mare.
+
+L'esatta devastazione causata è soggetta alla discrezione del Narratore, ma un tipico tsunami abbatte o sradica tutte le strutture temporanee o mal costruite sul suo percorso, distrugge circa il 25\% degli edifici ben costruiti (causando danni significativi a quelli che restano) e lascia le fortificazioni solide leggermente danneggiate. Almeno 1/4 della popolazione che vive nell'area (inclusi animali e mostri) muore nel disastro, trascinato in mare, affogato sulla spiaggia o seppellito sotto le macerie.
+
+Una creatura può evitare di essere portata via dal mare con una prova di Nuotare con DC 25; altrimenti viene trascinata a 6d6 x 3 metri dalla riva. Le acque dopo uno tsunami sono sempre considerate agitate o tempestose, salvo influenze magiche. Una creatura coinvolta nel cedimento di un edificio subisce 6d6 danni (TS su Riflessi DC 15 dimezza), o la metà se la struttura è particolarmente piccola. c'è una probabilità del 50\% che la creatura venga sepolta (come per un Crollo), o che lo tsunami possa distruggere l'edificio, liberando la creatura dalle macerie.
+
+\textbf{Sollevazione di Non Morti}\index{Non Morti}
+
+Frutto di un'antica maledizione o della volontà di un Patrono, uno dei disastri soprannaturali più terrificanti è la sollevazione di Non Morti: il morto che emerge dalla tomba per reclamare i viventi. Questo disastro può colpire qualsiasi area dove sono stati sepolti dei morti, non solo paesi e città. Più di un campo di battaglia ha visto sorgere una legione di rinsecchiti combattenti Non Morti. Le sollevazioni di Non Morti si svolgono ad ondate, con la tempistica che varia secondo le forze principali in gioco. Gli eventi possono succedersi nel corso di pochi giorni, con la devastazione di una città, o protrarsi per settimane con la popolazione terrorizzata che si rannicchia dietro porte sprangate e lotta per sopravvivere. Durante il giorno, spesso la vita ritorna ad una parvenza di normalità, poiché la luce del giorno sopprime temporaneamente il potere della non morte.
+
+\textbf{I Morti Inquieti}
+
+Nelle prime notti di una sollevazione di Non Morti, i morti recenti si rianimano come zombi. Quelli sepolti in terra consacrata non si rianimano, ma i corpi lasciati insepolti o in fosse comuni barcollano fuori per le strade, portando scompiglio. Inizialmente, solo alcuni cadaveri sono capaci di liberarsi dalle loro bare e tombe, ma ogni sera, il numero di cadaveri vivi aumenta. Quando giunge l'alba, i morti cercano la sicurezza nelle loro tombe o di altri luoghi nascosti. Chiunque venga colto dalla luce del giorno si agita Confuso finché non viene distrutto o raggiunge un rifugio. A discrezione del Narratore, cadaveri di non umanoidi possono risorgere come Non Morti nelle notti seguenti.
+
+\textbf{Il Risveglio degli Scheletri}
+
+Con l'avanzare della sollevazione, cadaveri sempre più vecchi si uniscono alle schiere dei Non Morti. Scheletri che recano tracce di vesti funebri marcite da tempo scavano con gli artigli una via d'uscita da cimiteri e cripte, ed agiscono con una malevolenza ed organizzazione raramente riscontrate tra i loro simili. I Non Morti rimangono privi di Intelligenza, ma il potere magico dietro all'incursione dona loro l'efficienza e l'acume tattico di un esercito di viventi. Gli Scheletri scovano armi e corazze con cui equipaggiarsi per la battaglia. L'élite degli Scheletri campioni guida le truppe, utilizzando Oggetti Magici trafugati da tombe abbandonate. Infine, anche Ghoul e Wight vagano in cerca di preda per le strade durante il buio, insieme ad altri Non Morti minori dotati di libero arbitrio
+
+\textbf{Anime Perse}
+
+Mentre la sollevazione raduna le forze, si risvegliano anche le anime inquiete di cadaveri da tempo ridotti in polvere. Fantasmi, Ombre, Wraith e persino Spettri sorgono per dare la caccia ai vivi. Alcuni Fantasmi potrebbero liberarsi dalla malevola influenza della sollevazione e dei personaggi intraprendenti potrebbero raccogliere preziose informazioni da questi spiriti inquieti.
+
+L'infusione di energia negativa fortifica i Non Morti all'interno dell'area dell'incursione, concedendo i benefici di una Benedizione. Le aree una volta consacrate sono ora trattate come terreno normale e possono fungere da nuove fonti di cadaveri per le armate Non Morte; il terreno santificato rimane inviolato.
+
+Quando i Non Morti diventano più forti, l'ondata crescente di energia negativa avvicina il Piano delle Ombre, stingendo o ingrigendo i colori tranne durante le ore più brillanti del giorno. Anche i Non Morti più vulnerabili alla luce possono muoversi impunemente dal tardo pomeriggio alla mezza mattinata.
+
+\textbf{Necropoli}
+
+Il flusso di energia negativa è irreversibile, l'oscurità infine reclama l'area, coprendola con un'ombra perpetua.Il terreno santificato resta un raro santuario, ma solo finché non viene distrutto dalle forze malevoli esterne.
+
+Gli eroi morti negli scontri ritornano come spaventosi generali Non Morti. I pochi superstiti viventi vengono assoggettati come schiavi. L'area diviene una città della morte o ne viene cominciata la costruzione se non esisteva o non è sopravvissuta alcuna città. I Non Morti dotati di libero arbitrio si radunano in questo nuovo santuario e solo gli eroi più grandi riescono a tornare da quest'area ormai avvizzita al mondo dei vivi.
+
+\end{multicols}
+
+\vfill
+
+\begin{center}
+\includegraphics[width=0.45\linewidth]{immagini/anubis.png}
+
+\emph{Rappresentazione di \href{https://it.wikipedia.org/wiki/Anubi}{Anubi}}
+\end{center}
+
+
+\pagebreak
+
+\subsection{Abilità}
+
+\subsubsection*{Vampiro}\index{Vampiro}\label{abilitavampiro}
+
+\textbf{Requisito}: Odore del sangue (Vantaggi)
+
+\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
+
+\textbf{Caratteristica Potenziata}: una caratteristica a scelta
+
+La tua sete di sangue diventa cura. Il bonus di sete di sangue può aumentare fino a +5.
+
+Se il bonus aumenta da +3 a +4 o +5 puoi, ingurgitando il sangue avversario, puoi curarti di 1d6 impiegando un 2 Azioni
+
+\pagebreak
+
+
+\section{Vantaggi}\index{Vantaggi}\hypertarget{vantaggi}{}\label{vantaggiinizio}
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Adoro fare il supereroe! L'orario di lavoro è pessimo, la paga è inesistente... ma almeno non corro il rischio di venire licenziato! (PK)
+}\end{enfasi}\end{changemargin}\medskip
+
+\begin{multicols}{2}
+
+\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{O}{gni} personaggio può avere, e non è obbligatorio averne, dei Vantaggi. Questi devono essere interessanti, piacevoli, divertenti e soprattutto giocabili.
+
+Ogni Vantaggio ha un costo, da pagare ad ogni livello. Non deve essere obbligatorio prendere un Vantaggio, né tanto meno si devono prendere vantaggi solo perché fanno essere forti. Lo scopo di un Vantaggio è stupire e divertirsi.
+
+Avere un Vantaggio significa essere diverso, essere un freak, avere quel particolare che ti rende speciale ed unico, ma non per questo sempre il più forte, potente o invincibile. Un vantaggio non è solo una capacità, è un'occasione di gioco di ruolo. Il giocatore è invitato ad essere creativo nella scelta dei vantaggi ed anche nella creazione di nuovi, il costo poi si decide con il Narratore. Ed è sempre e comunque il Narratore ad avere l'ultima parola sui Vantaggi scelti.
+
+Diversi vantaggi non hanno un effetto pratico concreto ed immediato ma sono di arricchimento al background, alla storia del personaggio. Quando si scelgono i vantaggi, e di conseguenza gli svantaggi, non è come andare a fare spesa di poteri super e straordinarie abilità, ma di peculiarità, manie, specialità che il personaggio possiede e che ancora una volta lo rendono diverso, unico, solo tuo.
+
+Pertanto vantaggi e svantaggi vanno anche e soprattutto giocati ed interpretati.
+
+Il Narratore potrebbe anche inserire vantaggi e svantaggi tematici all'avventura ma anche  peculiari alla caratterizzazione del personaggio come immunità alle malattie, tocchi curativi, capacità extrasensoriali, abilità che modificano il rapporto con un famiglio... Siate sempre scrupolosi nell'analisi e nella valutazione dei benefici, ricordando che ci dovrà essere anche un adeguato valore di Svantaggi.
+
+
+\begin{itemize}[leftmargin=*]
+
+\item
+I Vantaggi con {*} e tutti quelli con costo 15 o superiore sono a discrezione del Narratore nell'essere ammessi alla scelta.
+
+\item
+I Vantaggi si scelgono al primo livello, ogni vantaggio preso a livelli successivi va concordato con il Narratore.
+
+\item
+I punti di costo di un Vantaggio si pagano con i punti presi dagli Svantaggi.
+
+\item
+I bonus dati alle competenze si intendono specifiche sulla prova quando indicato tra parentesi.
+
+\item Se non indicato diversamente costa due Azione attivare un Vantaggio (se l'effetto non è permanente).
+
+\end{itemize}
+
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Da un grande Vantaggio deriva un grosso Svantaggio ! (cit. \emph{Da un grande potere derivano grandi responsabilità}, Amazing Fantasy 15, Stan Lee)
+}\end{enfasi}\end{changemargin}\medskip
+
+
+\subsection{Elenco Vantaggi}\index{Elenco Vantaggi}
+
+\textbf{Ali della provvidenza} \index{Ali della provvidenza}20 : hai delle ali, a te la scelta di forma e colore, solitamente stanno sulle scapole e ti fanno volare. Se non concordato diversamente il movimento in volo è pari a quello razziale di terra.
+
+\textbf{Ambidestro}\index{Ambidestro} 10: puoi usare indifferentemente entrambe le mani. Le penalità alle prove dove si usano due mani diminuiscono di 2
+
+\textbf{Amico degli animali}\index{Amico degli animali} 5: +2 alle prove per gestire gli animali (anche selvaggi)
+
+\textbf{Anfibio}\index{Anfibio} 20: puoi respirare sia sott'acqua che l'aria
+
+\textbf{Arcobaleno}\index{Arcobaleno} 5: sei un artista. Le tue dita spontaneamente producono colore
+
+\textbf{Aura di coraggio}\index{Aura di coraggio} 15: intorno a te, in distanza entro 3 metri infondi coraggio. +2 Tiro Salvezza vs effetti naturali o magici di paura.
+
+\textbf{Artigli}\index{Artigli} 5: ogni tanto ricordati di spuntare gli unghiotti. 1d4 di danno per attacco. Gli attacchi naturali con la seconda mano prendono il bonus al danno dato da Forza.
+10: gli artigli causano 1d6 di danno.
+
+%\begin{center}
+%\includegraphics[width=0.3\linewidth]{immagini/claw.png}
+%\end{center}
+
+
+\textbf{Bere fa bene}\index{Bere fa bene} 5: Prerequisito: Il fegato non conta. Il tuo corpo metabolizza l'alcool in maniera molto efficace. Un litro di birra ti fa recuperare 1d4 Punti Ferita, un bottiglia di liquore 1d8 Punti Ferita. Se di pessima qualità no.. Puoi comunque ubriacarti.
+
+10: 1 litro birra ti fa recuperare 2d4 Punti Ferita, un bottiglia di liquore buono 2d8 Punti Ferita. Se di pessima qualità no. Non puoi ubriacarti con liquidi naturali.
+
+\textbf{Caduta gatto}\index{Caduta gatto} 5: ignori i primi 3 metri di caduta. +2 a Furtività.
+
+\textbf{Camaleonte}\index{Camaleonte} 10-20: la tua pelle può cambiare colore. Tempo necessario 1 minuto/1 round.
+
+\textbf{Cambiaforma}\index{Cambiaforma} 40: come incantesimo Alterare Se Stesso. Può essere usato ogni 10 minuti.
+
+\textbf{Camminare sull'aria} \index{Camminare sull'aria}30: non troppo controllato. Qualsiasi cosa che non sia camminare richiede una prova di Destrezza o cadere prono (ma non per terra).
+
+\textbf{Camminare sulle acque} \index{Camminare sulle acque} 30: ma non darti delle arie..
+
+\textbf{Magnetico} \index{Magnetico}5-10: sprigioni luce quando vuoi. per fortuna non letteralmente. $\pm1/2$ alle prove basate sul Carisma.
+
+\textbf{Consumi ridotti} \index{Consumi ridotti}5: bevi e mangi la metà di un uomo normale. Sei sotto peso.
+
+\textbf{Controllo del metabolismo} \index{Controllo del metabolismo} 10: solo il nome è fantastico! Ogni round riduci di 2 il danno da Sanguinamento.
+
+Recuperi i Punti Ferita come se avessi il doppio del punteggio di Costituzione.
+
+\textbf{Cure efficaci} \index{Cure efficaci}10: +1d6 Punti Ferita curati ogni volta che tu usi un incantesimo di Cura su te stesso o altri.
+
+\textbf{Daredevil} \index{Daredevil}10: ti piace buttarti nelle mischia, specialmente se si corrono pericoli. +2 Tiri per Colpire / Difesa finché sei circondato da tre o più avversari.
+
+\textbf{Denti} \index{Denti}5: il tuo morso fa male, 1d6. Lavati i denti ogni tanto..
+
+\textbf{Digestione universale} \index{Digestione universale}5: purché non faccia male si mangia, +2 Tiro Salvezza su Tempra vs Veleni. Immune ai disturbi di stomaco naturali.
+
+\textbf{Direzione Assoluta} \index{Direzione Assoluta}5: sai sempre dove è il nord magnetico. Hai un +1d6 alle prove di orientamento.
+
+\textbf{Duro da soggiogare} \index{Duro da soggiogare}10: +2 Tiro Salvezza su Volontà su incantesimi della Lista Ammaliamento.
+
+\textbf{Duro da uccidere} \index{Duro da uccidere}5: non svieni a 0 Punti Ferita, ma a -LV/2 in Punti Ferita. Muori a 15 + Costituzionex3 Punti Ferita.
+
+\textbf{Empatia con le piante} \index{Empatia con le piante}10: io comprendo la sofferenza dell'erba pestata.
+
+\textbf{Empatia} 5: +2 alle prove di Percepire Emozioni.
+
+\textbf{Empatia Animale} \index{Empatia Animale}10: +1d6 alle prove per gestire gli animali (anche selvaggi).
+
+\textbf{Empatia Spirituale} \index{Empatia spirituale}5: non parli con gli spiriti, ma ne senti le emozioni.
+
+\textbf{Ermafrodito} \index{Ermafrodito}0: lgbtE!.
+
+\textbf{Forgiato nell'acciaio} \index{Forgiato nell'acciaio}5: Tramite dolorose operazioni la tua pelle è stata rivestita con placche di metallo. La tua Difesa base è 13.
+
+\textbf{Forma d'ombra} \index{Forma d'ombra}30: considera il poterti trasformare in un ombra per 1 ora per livello. Puoi spostarti solo su zone ombreggiate.
+
+\textbf{Fortunato} \index{Fortunato}5: 2 volte al giorno puoi ritirare un 1 sul dado a 6, da dichiarare prima del tiro di dado.
+
+\textbf{Molto Fortunato} \index{Molto Fortunato} 10: 2 volte al giorno puoi ritirare un 1 od un 2 sul dado a 6, da dichiarare anche dopo il tiro di dado.
+
+\textbf{Guarigione accelerata}\index{Guarigione accelerata}: 5 ogni mattina recuperi il doppio dei Punti Ferita che normalmente recupereresti. Si cumula con Controllo Metabolismo. \index{Controllo Metabolismo}
+
+\textbf{Guaritore}\index{Guaritore} 5: sai dove mettere le mani. +1d6 alle prove di Pronto soccorso
+
+\textbf{Il fegato non si conta} \index{Il fegato non si conta}10: puoi bere tanto e non ti ubriachi
+
+\textbf{Illuminato} \index{Illuminato}10-20: fai luce.. letteralmente. Emetti luce in un raggio di 3/6 metri, 1 ora a livello. Puoi controllare (20) l'emissione o meno (10).
+
+\textbf{Immune}\index{Immune} 5-20: a cosa ?
+
+\textbf{Invisibile} \index{Invisibile}40: il tuo corpo è invisibile. Sempre. E non è magia...
+
+\textbf{Ira} \index{Ira}5: sei capace di infuriarti. +2 al danno in mischia e -1 Tiro per Colpire e Difesa. Ogni altri 5 punti +2 danno -1 Tiro per Colpire e Difesa, max 20 punti. Durata 4 (anche non consecutivi) round ogni 5 punti. Si attiva con una Azione.
+
+\textbf{La mia ombra è mia amica} \index{La mia ombra è mia amica}10: Riesci a posizionare la tua ombra dove vuoi entro 3 metri. La tua ombra può manipolare gli oggetti come fosse un servitore invisibile. Si considera tu possa lanciare Incantesimi a Contatto tramite la tua ombra (che deve essere presente) entro 3 metri. Devono sussistere le condizione per esserci un ombra.
+
+\begin{center}
+\includegraphics[width=0.35\linewidth]{immagini/shadow.png}
+\end{center}
+
+\textbf{Legami di furia} 15\index{Legami di furia} : Puoi evocare lacci eterei che minacciano i tuoi nemici. Per 3 volte al giorno con il costo di 2 Azioni tutti gli avversari in raggio entro 9 metri attorno a te sono influenzati dall'incantesimo Intralciare fino al round successivo, DC 10 + 1/2 LV + Carisma.
+
+\textbf{Lento e Fermo} 5: \index{Lento e Fermo}Sei eccezionalmente stabile sui tuoi piedi. Non puoi essere mosso o sollevato se non da una creatura di 2 taglie superiori.
+
+\textbf{Lingua universale} \index{Lingua universale}10. Le tue capacità linguistiche sono impressionanti. Dopo due giorni a contatto con una nuova lingua sei in grado di parlarla correttamente. Dopo 7 giorni di lontananza dall'ambiente dimentichi la lingua. Guadagni un +2 alle prove basate sui linguaggi.
+
+\textbf{Magia esplosiva} \index{Magia esplosiva}10: I tuoi incantesimi di Invocazione che causano danno hanno un dado in più di danno (quando c'è da tirare un dado..).
+
+\textbf{Mani di Fata} \index{Mani di Fata}10: +1d6 prova di Mani di Fata e Artista della Fuga che coinvolgano le mani. Puoi prendere 14 come prendessi un 10 nelle prove relative.
+
+\textbf{Mano Piede palmata} \index{Mano Piede palmata}5: +1d6 alle prove di nuotare.
+
+\textbf{Mattiniero} \index{Mattiniero}5-10-15: ti basta dormire 6/5/4 ore per notte per essere riposato completamente.
+
+\textbf{Medium} \index{Medium}10-20: alcune volte lo vuoi tu, altre volte ti cercano loro.
+
+\textbf{Memoria fotografica}\index{Memoria fotografica} 20-50: per fortuna non è permanente (50). +2d6 alle prove per ricordare dettagli (Conoscenza e Consapevolezza).
+
+\textbf{Naso peloso} \index{Naso peloso}5: le tue narici filtrano le tossine presenti nell'aria che respiri. +2 alle prove relative. Il tuo naso è di dimensioni.. non piccole.
+
+\textbf{Non dormi}\index{Non dormi} 20{*}: e non so come fai..
+
+\textbf{Non invecchi}\index{Non invecchi} 20{*}: non invecchi (ma possono ucciderti lo stesso).
+
+\textbf{Non mangi bevi} \index{Non mangi bevi}20: e non so come fai..
+
+\textbf{Non respiri} \index{Non respiri}20: e non so come fai..
+
+\textbf{L'Odore del sangue} \index{L'Odore del sangue}10: L'odore di sangue è una droga potente
+Prerequisiti: non puoi avere \emph{Il fegato non conta}. Guadagni un +1 a Tiro per Colpire ed un +1 al danno per ogni nemico che hai ucciso con la tua arma nel round. Questo bonus non può superare il +4/+4. Il bonus rimane attivo fino al round successivo all'ultima uccisione fatta. Creature con meno di 3 LV di te non contano.
+
+\textbf{Oracolo} \index{Oracolo}20: per qualcuno è una maledizione. L'uso va sempre concordato con il Narratore ed il Patrono.
+
+\textbf{Ottima vista} \index{Ottima vista}5: hai un ottima vista (12/10). +2 alle prove relative di Consapevolezza che usano la vista.
+
+\textbf{Ottimo olfatto e gusto} \index{Ottimo olfatto e gusto}5: hai un ottimo gusto ed olfatto. +2 alle prove di Consapevolezza che usano olfatto o gusto.
+
+Guadagni +1d6 nelle prove per riconoscere una Pozione o veleno naturale.
+
+\textbf{Ottimo tatto} \index{Ottimo tatto}5: Hai un ottimo tatto. sai leggere con le dita. Sei in grado di trovare una porta nascosta toccando la parete.
+
+\begin{center}
+\includegraphics[width=0.9\linewidth]{immagini/braille2.png}
+\end{center}
+
+
+\textbf{Ottimo udito}\index{Ottimo udito} 5: Hai un ottimo udito. +2 alle prove di Consapevolezza che coinvolgono l'udito.
+
+\textbf{Parlare con gli animali}\index{Parlare con gli animali} 20: scegli una famiglia (ovini, marsupiali, caviette..).
+
+\textbf{Parlare con le piante} \index{Parlare con le piante}25: ho sempre voluto parlare con le zucchine..
+
+\textbf{Percezione Cieca}(vista cieca):\index{Percezione Cieca} \index{Vista Cieca}30: riesci a percepire qualsiasi cosa con i tuoi sensi entro 18 metri, dall'odore, al calore. Riesci a \emph{vedere} attraverso e fino 18 metri, 5 cm di pietra, 10 cm di legno, 0.2 cm di metallo.
+
+\textbf{Perfetto equilibrio} 5:\index{Perfetto equilibrio} +2 alle prove relative di Acrobatica.
+
+\textbf{Piedi veloci}\index{Piedi veloci} 10/20: il tuo movimento aumenta di 1/2 metri.
+
+\textbf{Pollice verde}\index{Pollice verde} 5: +1d6 alle prove di Professione (Erboristeria, Giardiniere..).
+
+\textbf{Polmoni di ferro}\index{Polmoni di ferro} 5: puoi trattenere il respiro 2*Costituzione minuti (minimo 2 minuti).
+
+\textbf{Precognizione} 30{*}\index{Precognizione}: Come l'incantesimo Previsione.
+
+\textbf{Recupero}\index{Recupero} 10: Il tuo corpo produce spontaneamente caffeina. Impieghi la metà del tempo per recuperare dalla condizione affaticato.
+
+\textbf{Resistenza}\index{Resistenza} 5-10: +1/+2 Tiro Salvezza a Riflessi o Tempra o Volontà.
+
+\textbf{Resistenza al danno}\index{Resistenza al danno} 10: -1 danno. -1 danno aggiuntivo ogni 5 punti aggiuntivi. Stabilisce il tipo di resistenza (taglio, contundente, perforazione, fuoco..).
+
+\textbf{Resistenza al magico}\index{Resistenza al magico} 20: Hai una Resistenza alla Magia 2.
+
+\textbf{Ricostruzione}\index{Ricostruzione} 30: perdere una mano non è mai stato un problema..
+
+\textbf{Rigenerazione}\index{Rigenerazione} 30: +1 Punti Ferita per Turno (non rigeneri arti).
+
+\textbf{Rigenerazione veloce} 40: +1 Punti Ferita per round (non rigeneri arti). Muori se distruggono il tuo corpo (o non rimane che cenere).
+
+\textbf{Rimpicciolimento} 30: puoi diminuire fino a due taglie. Durata fino a 8 ore.
+
+\hypertarget{rinoceronte}{}\textbf{Rinoceronte} 10 : La tua carica è distruttiva. Si considera che niente sotto la robustezza di sbarre di ferro (durezza 15) possa fermare la tua carica. Dietro di te lasci una scia di distruzione. +2 ai Tiri per Colpire in Carica e +1d6 di danno.
+In caso di terreno difficile la prova di Acrobazia non è necessaria, anche se corri solo metà del movimento.
+
+The Acrobatics check is not necessary, even if you complete half the movement, if you have the Advantage \hyperlink{rinoceronte}{Ryno}.
+
+
+\textbf{Scudo Mentale}\index{Scudo Mentale} 5: +2 Tiro Salvezza su controlli ed influenze mentali.
+
+\textbf{Sensi protetti}\index{Sensi protetti} 5: +2 Tiro Salvezza contro suoni/luci/vapori o incantesimi che agiscano su e tramite i tuoi sensi.
+
+\textbf{Senso comune}\index{Senso comune} 5: se stai per fare una brutta figura un campanellino ti avvisa.
+
+\textbf{Senso della moda}\index{Senso della moda} 5: sai sempre come vestirti bene, anche solo con uno straccetto.
+
+\textbf{Senso delle vibrazioni} \index{Senso delle vibrazioni} \index{Senso Tellurico} (Senso Tellurico) 30: tutto fa tremare un poco la terra, o quasi, raggio di 18 metri intorno a te.
+
+\textbf{Senso del tempo} \index{Senso del tempo}5: sai sempre che ore sono, giorno o notte.
+
+\textbf{Senso ragno}\index{Senso ragno} 15: no non ti ha morso un uomo radioattivo, ma sei estremamente sensibile ai pericoli. +2 iniziativa, non puoi essere sorpreso.
+
+\textbf{Senza paura} \index{Senza paura}10: sei immune alla paura, magica o meno.
+
+\textbf{Silenzioso} \index{Silenzioso}5: +1d6 alle prove di Furtività.
+
+\textbf{Spine} \index{Spine}5: e sei pure brutto. 1d4 di danno.
+
+\textbf{Super piastrine} \index{Super piastrine}5: Riduci il danno da Sanguinamento di 1 a fine di ogni round.
+
+\textbf{Talento per le lingue}\index{Talento per le lingue} 5: Impari due lingue investendo 1 punto in Conoscenza Linguistica.
+
+\textbf{Talento selvaggio}: \index{Talento selvaggio}Parliamone.
+
+\textbf{Tocco gelido} \index{Tocco gelido}10: Toccando un morto (entro 1 giorno per livello) puoi vedere e sentire cosa è successo nel suo ultimo round di vita.
+
+\textbf{Troll} \index{Troll}60: Rigeneri 5 Punti Ferita a round anche se i Punti Ferita sono negativi. Rigeneri anche arti. Puoi essere \emph{ucciso} solo da fuoco o acido. Una condizione potrebbe comunque tenerti a Punti Ferita negativi (es. immerso sott'acqua).
+
+\textbf{Udito subsonico}\index{Udito subsonico} 10: Senti le frequenze inudibili per gli umani (come un cane)
+
+\textbf{Vedere l'invisibile} \index{Vedere l'invisibile}15: Meglio la vista a raggi X.. sbav..
+
+\textbf{Comprensione del vero}\index{Comprensione del vero} 5: La verità ha un suono tutto suo. +1d6 alla prove di Percepire Emozioni.
+
+\textbf{Vista demoniaca} \index{Vista demoniaca}15: Vedi nell'oscurità più totale, anche magica, fino a 18 metri.
+
+\textbf{Visione Perimetrale} \index{Visione Perimetrale}5: Sogliola ? +2 alle prove di Consapevolezza da lato.
+
+\textbf{Visione Telescopica}\index{Visione Telescopica} 10: +1d6 alle prove di Consapevolezza basata su visione ma da lontano.
+
+\textbf{Voce suadente} \index{Voce suadente}5: +2 alle prove di Carisma che usano la voce,
+
+\textbf{Voce subsonica}\index{Voce subsonica} 10: Emetti suoni non udibili dagli umani. I cani ti odiano.
+
+\end{multicols}
+
+\pagebreak
+
+\section{Svantaggi}\index{Svantaggi}
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Se devi essere storpio, meglio essere uno storpio ricco. (Tyrion Lannister)}\end{enfasi}\end{changemargin}\medskip
+
+\begin{multicols}{2}
+
+\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{U}{no} svantaggio caratterizza il personaggio, ne definisce limiti e paure. Ogni personaggio deve avere almeno 1 svantaggio di ruolo e questo non gli da punti bonus.
+
+I punti presi con gli Svantaggi psico/fisici servono a coprire i punti spesi con i Vantaggi. Ovviamente l'Evil Narratore gradisce anche più svantaggi...
+
+\textbf{Ogni giocatore deve giocare i suoi svantaggi altrimenti non acquisisce punti esperienza e gli sarà negato l'uso dei Vantaggi.}
+
+Uno svantaggio può essere \emph{annullato} nel corso della storia del personaggio e deve esserci una avventura che giustifichi il tutto. Come sempre il Narratore ha l'ultima parola su ogni scelta di vantaggi e svantaggi.
+
+\bigskip
+
+Suggerimenti
+\begin{itemize}[leftmargin=*]
+\item
+Prendi degli svantaggi che siano divertenti da giocare, anche se ti metteranno nei guai.
+\item
+Prendi degli svantaggi che siano interessanti da giocare con gli altri giocatori anche se metteranno loro nei guai.
+\item
+Prendi degli svantaggi che c'entrino con il personaggio.
+\item
+Prendi degli svantaggi di cui non andrai a pentirti.
+\end{itemize}
+
+\textbf{Fai attenzione}:
+
+\begin{itemize}[leftmargin=*]
+\item
+Evita gli svantaggi che sono difficili da giocare o perché completamente avulsi dal sistema o totalmente inutili o severamente dannosi per gli altri. Se vuoi essere un pacifista estremo, valuta bene il personaggio ed il gruppo..
+\item
+Non prendere svantaggi che ti possa vergognare a recitare.
+\item
+Non prendere svantaggi che non c'entrano con il personaggio (in perfetta contraddizione con quanto già detto...).
+\item
+Non prendere svantaggi insulsi (tipo la paura di girare a destra, degli ascensori..).
+\item
+Se prendi uno svantaggio severo, recitalo bene, il Narratore saprà ricompensarti.
+\end{itemize}
+
+\subsection{Svantaggi di Ruolo e Svantaggi Psico/Fisici}\hypertarget{svantaggi}{}\label{svantaggidiruolo}
+
+Gli svantaggi si dividono in due categorie, \textbf{Svantaggi di Ruolo} e \textbf{Svantaggi psico/fisici}.
+
+Gli \textbf{Svantaggi di Ruolo} sono dei piccoli difetti, tic, problemi grandi e piccoli che servono a dare uno spessore più \emph{umano} al personaggio. Hanno una descrizione volutamente ambigua e scherzosa, sceglili con attenzione e discuti con il Narratore come intendi interpretare questo svantaggio.
+
+Il giocatore è invitato a creare nuovi svantaggi di ruolo. Questi svantaggi non concedono un bonus o penalità ne danno punti per prendere vantaggi. \emph{Però sono divertenti!}
+
+\bigskip
+
+Gli \textbf{Svantaggi psico/fisici} sono invece più impattanti nel gioco, nella quotidianità dando concreti svantaggi. Questi svantaggi forniscono i punti con i quali \textbf{pagare} i vantaggi. In fondo trovate un elenco di Fobie.
+
+\end{multicols}
+
+\pagebreak
+
+\subsubsection{Svantaggi di Ruolo}\index{Svantaggi di Ruolo}
+
+
+\begin{multicols}{2}
+
+
+\textbf{Alcolismo}:\index{Alcolismo} ti piace bere, e tanto.. ma quando smetti ?
+
+\textbf{Alla moda}\index{Alla moda}: tua probabilmente, anche con vestiti nuovi non ti vesti mai bene. L'accostamento di colori è sempre un pugno nell'occhio.
+
+\textbf{Amico degli animali}:\index{Amico degli animali} intesi come pulci, zecche, pidocchi, cimici.. mosche. Hai uno zoo su di te.
+
+\textbf{Attira animali}: \index{Attira animali}non sai il perché ma sei sempre circondata da gatti, cani, coniglietti, coccatrici..
+
+\textbf{Attira guai}\index{Attira guai}: non è colpa mia se il drago ha deviato per venire a fare la popò qui..
+
+\textbf{Banana}: \index{Banana}quella che provi a farti nei capelli, ma non riesci. I tuoi capelli non vanno d'accordo con te.
+
+\textbf{Bassa soglia del dolore}: \index{Bassa soglia del dolore}mi ha graffiato, aiuto! sto morendo!!!
+
+\textbf{Brufoli}: \index{Brufoli}pieno, hai la faccia butterata e continuano a formarsi questi disgustosi brufoli gialli.
+
+\textbf{Ciuccione}: \index{Ciuccione}non lo fai spesso, ma nei momenti in cui sei più nervoso tiri fuori il vecchio ciuccio di legno.. (o in mancanza va sempre bene il proprio pollice).
+
+\textbf{Codardo}:\index{Codardo} è meglio scappare, pardon, raccogliamo prima di tutte le informazioni prima di attaccare.
+
+\textbf{Cogito ergo sum}: \index{Cogito ergo sum}hai la tendenza a parlare tra te e te, ma ad alta voce anche se ci sono persone intorno e pure se non sono amichevoli.
+
+\textbf{Consigliori}\index{Consigliori}: non capiscono mai ma lo fai per loro. Non capiscono mai quanto sei generoso con i tuoi preziosi consigli.
+
+\textbf{Credulone}: \index{Credulone}ma dai ? davvero ? e a quale altezza volava l'asino ?
+
+\textbf{Criceto}: \index{Criceto}intesa come memoria. Non riesci ad associare nomi a volti.
+
+\textbf{Denti marci}: \index{Denti marci}probabilmente lo spazzolino che usi non ha setole di vero cinghiale...
+
+\textbf{Dita nel naso}:\index{Dita nel naso} spero che siano almeno buone.
+
+\textbf{Diva}: \index{Diva}o almeno tu credi di esserlo. Non perdi occasione per dare sfoggio delle tue inesistenti capacità canore, comiche, estetiche... con grosse risate di tutti.
+
+\textbf{Faccia comune}: \index{Faccia comune}come ti chiami ? mi sembra di averti già visto...
+
+\textbf{Galante}: \index{Galante}al limite del maniacale, in ogni tuo gesto sei formale, appropriato e cordiale.
+
+\textbf{Killer}:\index{Killer} no, non sei un assassino. Hai però sempre le mani ed i piedi freddi.
+
+\textbf{Impaurisci animali}: \index{Impaurisci animali}può essere anche comodo, se non fosse per i cavalli che scappano e gli orsi che attaccano...
+
+\textbf{Incapace di divertirsi}: \index{Incapace di divertirsi}quindi ? è un problema tuo, non mio.
+
+\textbf{Inglese}: \index{Inglese}inteso come umorismo. Nessuno mai capisce le tue battute.
+
+\textbf{Mangione}: \index{Mangione}CIOMP!. Mai lesinare, potrebbe essere l'ultimo pasto!
+
+\textbf{Meteora}:\index{Meteora} soffri di meteorismo compulsivo e rumoroso, per non parlare dell'odore sgradevole.
+
+\textbf{Megalomane}:\index{Megalomane} coinvolgiamo gli eserciti dei sette regni e penetriamo nel dungeon!
+
+\textbf{Mentina}: \index{Mentina}se mangiassi solo aglio e cipolla il tuo alito sarebbe meno puzzolente
+
+\textbf{Musichiere}: \index{Musichiere}con la bocca. Fischi di continuo, in ogni occasione che sei sovrappensiero o molto teso.. ti metti a fischiettare.
+
+\textbf{Non empatico}: \index{Non empatico}perché piange il bambino a cui ho appena dato a fuoco l'orsetto ?
+
+\textbf{Ossessione}:\index{Ossessione} ancora, ancora, ancora. Un'altra tubetto di crema per la pelle!!
+
+\textbf{Pacco}: \index{Pacco}il tuo. Hai sempre una mano laggiù. Forse i pantaloni sono stretti ? e no, non ti stringo la mano.
+
+\textbf{Pessimo carattere}: \index{Pessimo carattere}va bene essere burbero.. ma devi sempre renderlo palese ?
+
+\textbf{Pezzata}: \index{Pezzata}no, non la mucca o la tua cavalla ma la tua ascella. Sudi copiosamente, che sia per caldo o freddo.. o nervoso.
+
+\textbf{Rigidezza mentale}:\index{Rigidezza mentale} no, non capisco, la mappa dice di andare a destra. Non mi importa se non c'è una destra.
+
+\textbf{Saccente}\index{Saccente}: la risposta giusta è solo la tua. Non c'è dubbio.. per te.
+
+\textbf{Sangue dal naso}: \index{Sangue dal naso}capita, e sempre appena vedi una donna/uomo (a seconda dei gusti) che ti piace.
+
+\textbf{Sciarpina}: \index{Sciarpina}devi sempre avere addosso e visibile un capo di un certo tipo, altrimenti non esci di caverna.
+
+\textbf{Segreto}: \index{Segreto}ho un segreto, talmente tanto segreto che non so se lo so neanche io...
+
+\textbf{Seguire il Chaos}: \index{Seguire il Chaos}è più forte di te, non riesci mai ad ubbidire a qualsiasi legge o autorità preposta.
+
+\textbf{Seguire la Legge}: \index{Seguire la Legge}è più forte di te, non importa che legge sia, tu non la violi.
+
+\textbf{Tatuato:} \index{Tatuato}il tatuaggio è il modo di vivere. Hai almeno il 30\% del corpo già tatuato e non perdi occasioni per farti nuovi tatuaggi.
+
+\textbf{Topi}:\index{Topi} sei una TOPI!
+
+\textbf{Umarel}\index{Umarel}: ogni volta che c'è un lavoro di costruzione è più forte di te, devi fermarti e commentare la pessima capacità dei lavoratori o dei progettisti.
+
+\textbf{Unghie}:\index{Unghie} sei un divoratore compulsivo di unghie, la punta delle dita ti sanguina a volte.
+
+\textbf{Ultima parola}\index{Ultima parola}: è più forte di te, devi avere l'ultima parola in ogni discorso.
+
+\textbf{Vecchio dentro}\index{Vecchio dentro}: \emph{Ehhh ai miei tempi!}. Non è questione di età anagrafica. Hai sempre da lamentarti su qualsiasi cosa, la tua vitalità è quella di un ottantenne.
+
+\end{multicols}
+
+\pagebreak
+
+\subsection{Svantaggi psico/fisici}\index{Svantaggi psico/fisici}
+
+
+\begin{multicols}{2}
+
+\textbf{Albino}\index{Albino}
+
+Sei Bianco, quasi fosse latte. Non ti abbronzi e non sopporti la luce, la tua pelle è delicata.
+
+\textbf{13}: Oltre ad essere estremamente riconoscibile hai i seguenti svantaggi: Miopia e Fotosensibilità e Pelle Sensibile.
+
+\textbf{Allergia}\index{Allergia}
+
+Hai una qualche forma allergica. Spero non grave. Assicurati di avere sempre con te una pozione di di rimuovi veleno.
+
+\textbf{5:} In presenza di un allergene specifico il personaggio starnutisce sonoramente finché l'allergene non viene allontanato, -1 a tutte le prove (es. Allergico alla Birra).
+
+\textbf{10}: Il personaggio soffre di attacchi di tosse, iperlacrimazione, giramenti di testa, -2 a tutte le prove. Tiro Salvezza su Tempra DC 10 per non soffocare. Il tiro va ripetuto ogni 20 round finché non ti sei allontanato dall'allergene.
+
+\textbf{15:} Il personaggio soffre di violenti attacchi di tosse, nausea, sudori freddi, palpitazione. -1d6 a tutte le prove, è necessario un Tiro Salvezza su Tempra DC 15 o perdere i sensi. I tiri vanno ripetuti ogni 5 round finché l'allergene non è allontanato.
+
+\textbf{20}: Il personaggio cade in preda di una crisi respiratoria, ed è incapace di compiere qualsiasi Azione che non sia vomitare, annaspare nel vomito e tentare di sopravvivere. Fallendo un Tiro Salvezza su Tempra DC 25 il personaggio muore in preda a spasmi disumani. Il tiro va ripetuto ogni round fino a che l'allergene non è allontanato.
+
+Nota: allergeni troppo rari non valgono.
+
+\textbf{Allucinazioni}\index{Allucinazioni}
+
+c'è qualcosa che non va nella tua testa, ogni tanto si innesca una scintilla.
+
+\textbf{10}: Il personaggio vede e sente cose che non ci sono. Ogni giorno tiri un 1d6.
+Se escono 1 o 2, non succede nulla.
+Con 3,4 o 5 si verificheranno uno o due episodi allucinatori con modalità e tempi a discrezione del Narratore.
+Con 6 il personaggio sarà vittima di visioni orrende e disgustose (o il contrario) con durata di 1d4 ore.
+
+\textbf{Amnesia}\index{Amnesia}
+
+\textbf{10}: Hai dimenticato il tuo passato e con quello il ricordo di amici, nemici, obiettivi. Non c'è modo di recuperare i ricordi perduti.
+
+\textbf{Asceta}\index{Asceta}
+
+10, lo dice la regola. Non porterai con te più di 10 oggetti.
+
+\textbf{20}: non puoi possedere più di 10 oggetti magici o normali o monete o armi. Per fortuna i vestiti non contano.
+
+\textbf{Balbuziente}\index{Balbuziente}
+
+Sai parlare, ma male.
+
+\textbf{5:} Hai una fastidiosa tendenza a balbettare proprio quando hai qualcosa da dire di importante. In queste situazioni critiche dalle tue labbra escono solo suoni abbozzati. Hai -2 alle prove basate sull'uso della parola.
+
+\textbf{Pessimo Carattere}\index{Pessimo Carattere}
+
+Le buone maniere sono sempre opzionali.
+
+\textbf{5}: Non hai mai imparato l'arte della diplomazia e detesti essere contraddetto o insultato. Questo non significa che passi alle vie di fatto, ma che di fronte ad un insulto o ad una critica schietta tendi a zittire il proprio interlocutore con espressioni davvero poco simpatiche. Hai un -2 alle prove basate sul Carisma
+
+\textbf{Spendaccione}\index{Spendaccione}
+
+\textbf{10}: devi spendere metà dei tuoi guadagni di missione in piaceri futili.
+
+\textbf{15}: devi spendere tutti i tuoi guadagni di missione in piaceri futili.
+
+Devi mangiare cibi costosi, bere vino e liquori pregiati, comprare vestiti lussuosi, riposare in locande di grido. Non puoi spendere in armi od oggetti magici, puoi acquistare equipaggiamento non magico.
+
+\textbf{Caritatevole}\index{Caritatevole}
+
+\textbf{10}: devi donare metà dei tuoi guadagni di missione in beneficenza.
+
+\textbf{15}: non può tenere più di 10 mo in contanti.
+
+\textbf{Cecità}\index{Cecità}
+
+\textbf{10}: Sei orbo, visione laterale compromessa, problemi nel capire la distanza delle cose.
+Le competenze quali Consapevolezza e i Tiro per Colpire per colpire con armi da lancio hanno un -4. La Difesa peggiora di 2.
+
+\textbf{20}: sei cieco. Non vedi. tutti i nemici sono Invisibili.
+
+\textbf{Cleptomania}\index{Cleptomania}
+
+\textbf{5}: Senti il bisogno irresistibile di appropriarti di oggetti \emph{interessanti}, di tanto in tanto. Se in un giorno non hai rubato almeno un oggetto non potrai usare Punti Fato nel giorno seguente.
+
+\textbf{Codice Etico/Voto}\index{Codice Etico}\index{Voto}
+
+Hai fatto un voto, una promessa, un giuramento che condiziona il tuo agire.
+
+5-10 : stabilisci bene le regole, nero su bianco, e sii chiaro con il Narratore.
+
+\textbf{Compulsivo}\index{Compulsivo}
+
+Ci sono certi comportamenti, per te necessari, dei quali non puoi fare assolutamente a meno (es: camminare evitando le macchie sul terreno o passando solo su quelle, sfilare l'arma solo in un certo modo, ecc).
+Questi comportamenti vanno dichiarati ed esplicitati al momento della scelta dello svantaggio.
+
+\textbf{5-10}: quando sei preda del comportamento compulsivo hai un -2 alle prove di Consapevolezza / sei sempre l'ultimo ad agire indipendentemente dall'iniziativa tirata o dall'ordine di marcia.
+
+\textbf{Daltonismo}\index{Daltonismo}
+
+Sei cieco ai colori, un tramonto sarà qualcosa di triste visto in grigio.
+
+\textbf{5}: non hai la consapevolezza dei colori (acromatopsia). Vedi tutto in scala di grigi.
+
+\textbf{Deformità}\index{Deformità}
+
+Non tutti nascono belli o dritti. C'è anche chi nasce storto e brutto.
+
+\textbf{5}: Malformazione minore, incide a scelta tra Forza o Destrezza o Costituzione. Togli 1 punto a questa statistica.
+
+\textbf{10}: Due caratteristiche a tua scelta non possono superare i 2 punti se non magicamente. Hai movimento dimezzato.
+
+\textbf{20}: Malformazione grave. Tre caratteristiche a tua scelta non possono superare 1 punto se non magicamente. Hai movimento dimezzato.
+
+\textbf{Depressione}\index{Depressione}
+
+Ogni giorno è un pessimo giorno e nulla lo farà migliorare.
+
+\textbf{8}: Adori il Blues ma purtroppo hai perso la gioia di vivere, l'entusiasmo, la speranza.
+
+Nulla sembra avere importanza, non fai che trascinarti stancamente da un giorno all'altro. -2 ad ogni prova di Competenza di Base.
+
+\textbf{Dipendenza}\index{Dipendenza}
+
+\textbf{10}: Hai una dipendenza, possa essere alcool, droga, formaggio...Se non ne consumi ogni giorno una congrua dose (il Narratore ti saprà dire quanto basta) prendi un -2 a tutti i Tiri Salvezza. Dopo 3 giorni di astinenza divieni anche Depresso
+
+\textbf{Dislessia}\index{Dislessia}
+
+jk j0j zo mdbbdfd
+
+\textbf{10}: Non sei in grado di leggere e scrivere. Non sei capace di associare correttamente suoni a lettere e forme a suoni.
+
+\textbf{Disonestà Compulsiva}\index{Disonestà Compulsiva}
+
+Menti, è più forte di te.
+
+\textbf{5}: Il personaggio è portato dalla propria insicurezza a mentire sempre e comunque. Ogni volta che il personaggio è costretto ad ammettere le proprie responsabilità o comunque a parlare contro il proprio interesse, o in qualunque situazione in cui si senta \emph{esaminato}, egli si inventerà storielle piuttosto fantasiose anche mettendo in pericolo amici e parenti.
+
+\textbf{Dolore Cronico}\index{Dolore Cronico}
+
+oh che male. Incantatore usi una cura su di me anche oggi ?
+
+\textbf{10}: non recuperi Punti Ferita se non magicamente.
+
+\textbf{Emofilia}\index{Emofilia}
+
+tendi a sanguinare sempre, anche nei momenti meno opportuni.
+
+\textbf{8}: CEROTTO!!! (ogni attacco che subisci automaticamente cumula Sanguinamento +1)
+
+\textbf{Epilessia}\index{Epilessia}
+
+sempre e solo nei momenti meno opportuni.
+
+\textbf{15}: ogni qual volta fai un fallimento critico con un Tiro Salvezza o un Tiro per Colpire, cadi a terra per 1d6 round in preda alle convulsioni, si considera che il Tiro per Colpire o Tiro Salvezza sia fallito. Sei considerato indifeso finché preda delle convulsioni.
+
+\textbf{Feticismo}\index{Feticismo}
+
+Se non annusi un piede di donna diventi depresso.
+
+\textbf{5}: Il personaggio è irresistibilmente attratto da un oggetto, corpo, categoria... Ogni giorno in cui egli si trova lontano dalla sua fonte di piacere, si consideri caduto in Depressione.
+
+\textbf{Ricordi}\index{Ricordi}
+
+ehi.. ci sei? perché ti sei paralizzato ? e queste cose quando le hai imparate ?
+
+\textbf{5}: ad ogni prova di competenza tira un d4. Con 1-2 fai la prova normale, con 3 fai la prova con un -2, con 4 fai la prova con un +2.
+
+\textbf{Fobie}\index{Fobie}
+
+\textbf{Varie, 2-10}: Il personaggio è terrorizzato da un oggetto, da una categoria di persone o di esseri viventi, da una situazione. In presenza della causa scatenante, il personaggio cade in preda ad un attacco di panico: l'unico suo desiderio è quello di fuggire il più possibile lontano dalla fonte del suo terrore, con ogni mezzo; chiunque gli sbarri il cammino è da considerarsi un nemico. Se il personaggio si trova nell'impossibilità di fuggire, egli cade in uno stato catatonico finché la causa scatenante non viene eliminata. Vedere in fondo tabella possibili fobie.
+
+\textbf{Fotosensibilità}\index{Fotosensibilita}
+
+La luce anche se leggera ti da fastidio.
+
+\textbf{5}: Il personaggio ha un -1 in ogni prova Competenza Base in cui la luminosità è almeno quella diurna.
+
+\textbf{10}: Il personaggio ha un -2 in ogni Competenza Base e Tiro per Colpire in cui la luminosità è almeno quella di una lanterna o incantesimo di luce.
+
+\textbf{20}: Il personaggio ha un -3 in ogni Competenza Base e Tiro per Colpire in cui la luminosità è almeno quella di una torcia.  Il personaggio è così sensibile che è per lui impossibile muoversi liberamente in luoghi direttamente o meno illuminati, preferirà muoversi e viaggiare di notte.
+
+\textbf{Ghiro}\index{Ghiro}
+
+ti piace dormire e tanto. Ronf.
+
+\textbf{5}: +2 per ogni 2 ore oltre le 8, altrimenti sei affaticato..
+
+\textbf{Goffaggine}\index{Goffaggine}
+
+\textbf{10}:Il punteggio della Destrezza non può superare 2. Hai un -2 a tutte le prove che richiedano Destrezza (disattivare congegni, svuotare tasche, arrampicarsi, iniziativa....).
+
+\textbf{Igienista}\index{Igenista}
+
+ho finito il sapone. HO FINITO IL SAPONE! .. non tocco quella spada, anche se brilla di luce sacra e vola a mezz'aria finché non sarà disinfettata!
+
+\textbf{5}: hai l'impulso a pulirti di continuo e pulire tutto ciò che dovrai toccare.
+
+\textbf{Incoscienza}\index{Incoscienza}
+
+\textbf{5}: Se devi fare una cosa il piano più diretto ed immediato è la scelta migliore. Non riesci a studiare piani che durino più di un minuto. Prendi un +1 all'Iniziativa ed un -1 al Tiro per Colpire.
+
+\textbf{Indeciso}\index{Indeciso}
+
+Non facciamolo, aspettiamo domani..magari è meglio!
+
+\textbf{10}: non agisci mai per primo. -1d6 alle prove di iniziativa.
+
+\textbf{Incubi Ricorrenti}\index{Incubi Ricorrenti}
+
+\textbf{10}: Il personaggio non riesce a dormire bene. Ogni notte tira un d4. Con 1 il personaggio dorme normalmente, 2 o 3 il personaggio dorme un sonno agitato e si sveglia Affaticato, con 4 ti svegli in piena notte urlando, la mattina sei Affaticato.
+
+\textbf{Libro Aperto}\index{Libro Aperto}
+
+si, lo so, posso stare zitto, tanto avete già capito tutto.
+
+\textbf{5}: non è che non sei in grado di mentire è che hai un -1d6 alle prove di Ingannare.
+
+\textbf{Emicrania}\index{Emicrania}
+
+Non è mai un buon giorno. Soffri di continui e feroci mal di testa.
+
+\textbf{15}: Il personaggio soffre di violenti mal di testa. Ogni giorno il personaggio tira un d4: con 1 il personaggio non lamenta alcun effetto, con 2 o 3 subisce una penalità di -1 a tutti le prove, con 4 la penalità diventa -2.
+
+\textbf{Maledetto}\index{Maledetto}
+
+Sei Maledetto. Un oscuro destino ha macchiato la tua anima.
+
+\textbf{5-10}: porti una maledizione. Discutine con il Narratore.
+
+\textbf{Miopia}\index{Miopia}
+
+Spera di trovare degli occhiali.
+
+\textbf{5}: Ci vedi poco. Hai un -2 ai Tiri per Colpire con armi da gittata e prove di Consapevolezza oltre i 12 metri.
+
+\textbf{15}: Ci vedi molto poco. Hai -1d6 al Tiro per Colpire con armi da gittata e prove di Consapevolezza oltre i 9 metri. Hai -2 nei combattimenti in mischia.
+
+\textbf{Muto}\index{Muto}
+
+Non puoi parlare e cosa peggiore non riesci neanche ad infamare il tizio che ti sta pestando il piede.
+
+\textbf{10}: Non sei in grado di emettere suoni. Non parli o meglio nessuno ti sente. Prendi un -1d6 alle prove basate sulla parola.
+
+\textbf{Discalculia}\index{Discalculia}
+
+1+1= ?
+
+\textbf{10}: il personaggio ha un disturbo che gli impedisce di padroneggiare il concetto di numerazione. Non solo non è in grado di svolgere le operazioni più semplici, non è neanche in grado di comprendere i concetti di maggiore/minore, o informazioni quantitative di qualunque tipo.
+Attenzione al resto che ti danno...
+
+\textbf{Obesità}\index{Obesità}
+
+Sei decisamente fuori forma, e di tanto.
+
+\textbf{10}: Destrezza non può essere sopra 2. Hai un -2 alla prove di Destrezza ed ai Tiri Salvezza su riflessi. Guadagni un +2 ai Tiri Salvezza su Tempra.
+
+\textbf{Olfatto/Gusto Difettoso}\index{Olfatto/Gusto Difettoso}
+
+Naso, palato, lingua bruciata, abuso di peperoncino o wasabi.. possono essere tante le cause.
+
+\textbf{5}: -2 due alle prove che usano gusto od olfatto. Non senti sapori e odori se non estremi.
+
+\textbf{Onestà Compulsiva}\index{Onestà Compulsiva}
+
+\textbf{10}: Non sai mentire, la sola idea di dire una menzogna ti rende nervoso.
+
+\textbf{Ossa di Cristallo}\index{Ossa di Cristallo}
+
+Si chiamerebbe osteogenesi imperfetta ma per te sono solo dolori continui.
+
+\textbf{5}: Il personaggio ha le ossa fragili. Ogni danno causato da arma contundente causa 2 Punti Ferita in più di danno.
+
+\textbf{10}: Il personaggio ha le ossa molto fragili. Ogni danno causato da arma contundente causa 5 Punti Ferita in più di danno.
+
+\textbf{Monco}\index{Monco}
+
+Sei monco, a te la scelta quale sia la mano.
+
+\textbf{7}: ti manca la mano secondaria.
+
+\textbf{13}: ti manca la mano primaria. -2 a tutti i tiri che coinvolgono l'uso della mano.
+
+\textbf{Paranoioso}\index{Paranoioso}
+
+Sei paranoico e noioso.
+
+\textbf{5}: Ti comporti sempre in modo furtivo, anche senza che ce ne sia effettivo bisogno, destando così sospetti nelle persone che hai attorno.
+
+Ogni prova di Consapevolezza usata per comprendere l'agire ed il pensare dell'avversario ha una difficoltà di -5 aggiuntiva ed un fallimento critico ti convince che il target ha qualcosa di vitale da nascondere.
+
+\textbf{Pelle Sensibile}\index{Pelle Sensibile}
+
+Non ami il Sole, o almeno la tua pelle non lo ama.
+
+\textbf{5}: Il tuo personaggio si scotta facilmente, un'esposizione prolungata senza le adeguate protezioni comporta dolorose e antiestetiche bruciature e disagi. Ogni danno da fuoco o Luce causa 2 danni aggiunti.
+
+\textbf{10}: Sei oltremodo sensibile agli ultravioletti. Ogni danno da fuoco o Luce causa 5 danni aggiunti.
+
+\textbf{Pigro}\index{Pigro}
+
+sei lento e svogliato.
+
+\textbf{5}: -2 all'iniziativa.
+
+\textbf{Rumoroso}\index{Rumoroso}
+
+Non lo fai apposta, ma c'è sempre un qualche rumore intorno a te. Una spada che sbattocchia, uno sbadiglio, un rutto, una scarpa rumorosa..
+
+\textbf{5}: hai un -2 alle prove di Furtività.
+
+\textbf{Sangue Debole}\index{Sangue Debole}
+
+\textbf{10}: Il sistema immunitario del personaggio fa decisamente pena. -2 ai Tiri Salvezza su Tempra.
+
+\textbf{Sbadataggine}\index{Sbadataggine}
+
+Ops..non me ne ero accorta!
+
+\textbf{10}: Tendi a non fare caso a quello che succede intorno a te, meno che tu non abbia ottimi motivi per stare all'erta, o non stia cercando attivamente qualcosa prendi un -1d6 a Consapevolezza.
+
+\textbf{Schizofrenia}\index{Schizofrenia}
+
+Non sono stato io, ma l'altro!
+
+\textbf{4}: Hai più personalità, o forse ne è convinto l'altro.
+
+Il personaggio ha almeno una seconda personalità (max 6).
+Ogni Personalità in più da gestire, oltre la prima, concede un +1 al costo.
+Quindi avere 3 personalità porta lo svantaggio a 6 punti.
+
+Ogni giorno viene tirato 1d6, con 1-2 è la personalità 1, con 3-4 e' la personalità 2, con 5-6 è la terza personalità che viene alla luce.
+
+\textbf{Sfortunato}\index{Sfortunato}
+
+le cose non capitano e basta, bisogna saperle anche cercare.
+
+\textbf{5}: ignori il primo critico che fai (TC o TS) nella giornata.
+
+\textbf{7}: ignori i primi tre critici che fai (TC o TS) nella giornata.
+
+\textbf{Sindrome Maniaco Depressiva}\index{Sindrome Maniaco Depressiva}\index{Depressione}
+
+Oggi è venerdì !!! è Venerdì!!!
+
+\textbf{7}: Il personaggio alterna stati di euforia a momenti di cupa disperazione. Ogni giorno viene tirato 1d4. Con 1 il personaggio ha un umore \emph{normale}. Con 2 o 3 si consideri in Depressione, con 4 è in uno stato di gioiosa esaltazione (vedi Incoscienza ) e spavalderia.
+
+\textbf{Soggezione}\index{Soggezione}
+
+chiedo scusa.
+
+\textbf{10}: Il personaggio è molto insicuro e tende a fidarsi ciecamente degli altri, specie se carismatici. Prendi un -2 alle prove di Intimidire e Intrattenere
+Prendi un -2 ai Tiri Salvezza su Ammalialmento.
+
+\textbf{Sonno Leggero}\index{Sonno Leggero}\index{affaticato}
+.
+Ogni rumore ti disturba, non riesci mai a dormire bene
+
+\textbf{5}: Se dormi in una zona con rumori naturali / umani (bosco/città) non riesci a riposare bene. La mattina sei Affaticato. Puoi evitare il problema usando tappi per le orecchie, che ti impongono un -1d6 alle prove di Consapevolezza su udito per svegliarti.
+
+\textbf{Sordità}\index{Sordità}
+
+Il silenzio ha un suono tutto suo dice chi ci sente, per te è solo uno straziante urlo muto.
+
+\textbf{10}: Non ci senti. Non puoi fare prove di Consapevolezza che richiedano l'uso dell'udito. Non puoi ascoltare le persone che parlano. Ma puoi leggere le labbra se sai farlo.
+
+\textbf{Vertigini}\index{Vertigini}
+
+I disagi si manifestano nel momento in cui il personaggio è conscio dell'altezza. Solo per il fatto di camminare in posizione sopraelevata non ha penalità
+
+\textbf{5}: Ad altezze superiori i 20 metri tendi a bloccarti. Prendi un -2 a tutte le prova su Competenza Base, Tiri per Colpire e Tiri Salvezza.
+
+\textbf{7}: Ad altezze superiori i 10 metri tendi a bloccarti. Prendi un -4 a tutte le prova su Competenza Base, Tiri per Colpire e Tiri Salvezza.
+
+\textbf{10}: Ad altezze superiori i 6 metri tendi a bloccarti. Prendi un -1d6 a tutte le prova su Competenza Base, Tiri per Colpire e Tiri Salvezza.
+
+\textbf{Visione notturna ridotta}\index{Visione notturna ridotta}
+
+I tuoi occhi non lavorano bene con luminosità ridotta.
+
+\textbf{5}: Quando la luminosità è fioca il personaggio ha un -2 addizionale ai Tiro per Colpire.
+
+\textbf{Timidezza}\index{Timidezza}
+
+\textbf{5}: Sei timido e riservato.
+
+Hai un -1 alle prove basate su Carisma
+
+\textbf{Zoppo}\index{Zoppo}
+
+sei claudicante.
+
+\textbf{5}: il tuo movimento per Azione si riduce di 2 metri (da 9 a 7, da 6 a 4).
+
+\textbf{7}: il tuo movimento per Azione si dimezza (da 9 a 4, da 6 a 3).
+
+\textbf{10}: sei significativamente storpio. -2 alle prove che richiedono Destrezza, il tuo movimento è dimezzato.
+
+\end{multicols}
+
+\bigskip
+
+\textbf{Tabella Fobie (5-15 punti)}\index{Fobie}\index[Tabelle]{Tabella delle Fobie}
+
+\begin{tabular}{ll}
+\textbf{Nome Fobia} & \textbf{Descrizione}\\
+\toprule
+Blennofobia & Paura Delle Cose Viscide\\
+Keraunofobia  & Paura Dei Tuoni\\
+Ipocondria  & Paura Delle Malattie\\
+Claustrofobia & Paura Dei Luoghi Chiusi\\
+Coimetrofobia & Paura Del Cimitero\\
+Edonofobia  & Paura Di Poter Provare Piacere Fisico\\
+Eisoptrofobia & Paura Degli Specchi\\
+Glossofobia & Paura Di Parlare In Pubblico\\
+Monofobia & Paura Di Rimanere Solo\\
+Necrofobia  & Paura Dei Corpi Morti\\
+Nictofobia  & Paura Del Buio\\
+Acrofobia & Paura Delle Altezze\\
+Agorafobia  & Paura Degli Spazi Aperti\\
+Rupofobia & Paura Dello Sporco E Non Igienico. Senti il bisogno di pulire\\
+Afefobia  & Paura Del Contatto E Di Essere Toccati\\
+Asimmetrofobia  & Paura Delle Cose Non Simmetriche\\
+Gimnofobia  & Paura Della Nudità\\
+Emofobico & Paura Del Sangue\\
+Traumatofobia & Paura Di Ferirsi\\
+Sciofobia & Paura Delle Ombre\\
+\end{tabular}
+
+
+
+
+{\scriptsize\printindex}
+
+\end{document}
