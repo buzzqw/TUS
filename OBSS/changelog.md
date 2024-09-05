@@ -637,7 +637,7 @@ aggiornata versione POD 2024/08/30
 aggiornata versione POD 2024/09/04
 
 
-**0.95** aggiornata tabella tiro caratteristiche, aggiornato box Tups arriva al 4' livello, 
+**0.95** aggiornata tabella tiro caratteristiche, aggiornato box Tups arriva al 4' livello, riviste abilita' di lista, 
 
 
 
