@@ -1221,7 +1221,7 @@ Ogni giocatore tira 4d6 per 6 volte e somma i migliori 3 risultati ogni volta. I
 
 \subsubsection{Modalita' opzionale (per i codardi!)}\index{Caratteristiche - Modalità opzionale per i codardi}\label{modalitapericodardi}
 
-Ogni giocatore distribuisce 5 punti tra le 6 Caratteristiche, ogni Caratteristica deve avere come minimo un punteggio di -1 e come massimo 2 prima dei modificatori razziali.
+Ogni giocatore distribuisce 4 punti tra le 6 Caratteristiche, ogni Caratteristica deve avere come minimo un punteggio di -1 e come massimo 2 prima dei modificatori razziali.
 
 \medskip
 
@@ -1252,10 +1252,10 @@ La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabell
 \begin{tabularx}{0.45\textwidth}{lX|lX}
 	\textbf{Val. tirato}& \textbf{Caratt.}&\textbf{Val. tirato}& \textbf{Caratt.}\\
 	\toprule
-	3 (o meno)&-3&13-14-15&+1\\
+	3 (o meno)&-3&12-13-14-15&+1\\
 	4-5&-2&16-17&+2\\
 	6-7-8&-1&18 (o più)&+3\\
-	9-10-11-12&+0&&\\
+	9-10-11&+0&&\\
 \end{tabularx}
 
 \medskip
@@ -1282,7 +1282,7 @@ L'aumento di Caratteristica applica immediatamente il modificatore ai Tiri Salve
 \vfill
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-I giocatori comunque si lamenteranno delle Caratteristiche tirate, è normale, specialmente i giocatori più inesperti. Cercate di fargli capire che non deve limitarsi a guardare le Caratteristiche ma vedere l'insieme generale del personaggio. Suggeritegli Abilità che possano aiutarlo a sopperire alle Caratteristiche.
+I giocatori comunque si lamenteranno delle Caratteristiche tirate, è normale, specialmente i giocatori più inesperti. Cercate di fargli capire che non deve limitarsi a guardare le Caratteristiche ma vedere l'insieme generale del personaggio. Suggeritegli Abilità che possano aiutarlo a sopperire ai valori delle Caratteristiche.
 \end{narratore}\end{changemargin}
 
 \medskip
@@ -1303,38 +1303,49 @@ Avere delle Caratteristiche basse non è la morte del personaggio! Cercate piutt
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{ Punti Ferita} rappresentano l'energia vitale del personaggio ma anche l'abilità, fortuna, la  capacità del personaggio di resistere e combattere. Finché il personaggio/avversario ha almeno 1 Punto Ferita (PF) combatterà e lotterà al meglio delle sue capacità.
 
-- Ogni personaggio parte con 8 Punti Ferita al primo livello + il punteggio della Costituzione.
+\begin{itemize}[leftmargin=*]
+\item Ogni personaggio parte con 8 Punti Ferita al primo livello + il punteggio della Costituzione.
 
-- Ad ogni livello, oltre il primo, guadagna 1d6 Punti Ferita + il punteggio della Costituzione.
+\item Ad ogni livello, oltre il primo, guadagna 1d6 Punti Ferita + il punteggio della Costituzione.
 
-Ogni punto preso in Competenza Armi aumenta i Punti Ferita presi di 3. Ulteriori Abilità possono i Punti Ferita.
+\item Ogni punto preso in Competenza Armi aumenta i Punti Ferita presi di 3. Ulteriori Abilità possono i Punti Ferita.
+\end{itemize}
 
 Segna nella scheda i Punti Ferita massimi che hai ed indica il valore attuale di volta in volta che ne perdi o recuperi. Segna sulla scheda sempre qual é l'ammontare dei Punti Ferita attuale, dopo ogni danno subito. I Punti Ferita Massimi sono l'ammontare di Punti Ferita quando il personaggio è \emph{perfettamente sano}.
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Sto per morire!]\index{Sto per morire!}
-SCAPPA! Ritirati, nasconditi, esci dal combattimento. Non c'è gloria nell'essere morto. Meglio una ritirata che un TPK (Total Party Kill ovvero morte di tutto il gruppo).
-\end{tcolorbox}\end{changemargin}
+%\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Sto per morire!]\index{Sto per morire!}
+%SCAPPA! Ritirati, nasconditi, esci dal combattimento. Non c'è gloria nell'essere morto. Meglio una ritirata che un TPK (Total Party Kill ovvero morte di tutto il gruppo).
+%\end{tcolorbox}\end{changemargin}
 
+\medskip
 
 I \textbf{Punti Ferita si recuperano} in diversi modi:\index{Recupero Punti Ferita}
 
-- per ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione * CA o CM (a scelta del personaggio, con un minimo di 1 PF recuperato)\index{Recupero PF dormendo}
+\begin{itemize}[leftmargin=*]
+	
+\item per ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione * CA o CM (a scelta del personaggio, con un minimo di 1 PF recuperato)\index{Recupero PF dormendo}
 
-- tramite magie curative (incantesimi, pozioni.. o altri effetti magici)
+\item tramite magie curative (incantesimi, pozioni.. o altri effetti magici)
 
-- competenza \hyperlink{prontosoccorso}{Pronto Soccorso} (pag. \pageref{prontosoccorso}), tramite trattamenti più o meno lunghi
+\item competenza \hyperlink{prontosoccorso}{Pronto Soccorso} (pag. \pageref{prontosoccorso}), tramite trattamenti più o meno lunghi
+
+\end{itemize}
 
 I \textbf{Punti Ferita} possono essere anche \textbf{temporanei}\index{Punti Ferita Temporanei} ovvero aggiunti o tolti temporaneamente ai tuoi attuali.
 
-Una magia che conceda +10 Punti Ferita temporanei alzerà i Punti Ferita attuali di 10, se subisci 8 di danno ti rimarranno 2 Punti Ferita temporanei. Se invece subisci 13 di danno oltre a perdere tutti i Punti Ferita temporanei subirai anche 3 Punti Ferita \emph{normali}.
+\noindent\begin{itemize}[leftmargin=*]
+	
+\item Una magia che conceda +10 Punti Ferita temporanei alzerà i Punti Ferita attuali di 10, se subisci 8 di danno ti rimarranno 2 Punti Ferita temporanei. Se invece subisci 13 di danno oltre a perdere tutti i Punti Ferita temporanei subirai anche 3 Punti Ferita \emph{normali}.
 
-- Quando ottieni Punti Ferita temporanei devi scegliere se l'effetto sostituisce il precedente. I Punti Ferita temporanei non si cumulano e non possono essere superiori alla metà dei Punti Ferita massimi. Una magia di cura fa recuperare i PF normali, non i PF temporanei persi.
+\item Quando ottieni Punti Ferita temporanei devi scegliere se l'effetto sostituisce il precedente. I Punti Ferita temporanei non si cumulano e non possono essere superiori alla metà dei Punti Ferita massimi. Una magia di cura fa recuperare i PF normali, non i PF temporanei persi.
 
-- Al termine dell'effetto che concede Punti Ferita temporanei questi scompaiono facendo rimanere la creatura ai suoi Punti Ferita.
+\item Al termine dell'effetto che concede Punti Ferita temporanei questi scompaiono facendo rimanere la creatura ai suoi Punti Ferita.
 
-- Se non esplicitato diversamente i Punti Ferita Temporanei scompaiono dopo un ora da quando si sono aggiunti.
+\item Se non esplicitato diversamente i Punti Ferita Temporanei scompaiono dopo un ora da quando si sono aggiunti.
 
-- I Punti Ferita Temporanei vanno tolti per primi quando si viene feriti.
+\item I Punti Ferita Temporanei vanno tolti per primi quando si viene feriti.
+
+\end{itemize}
 
 Un'arma o effetto che causa danni non letali vuole dire che causa \hyperlink{recuperopuntiferitanonletali}{ferite temporanee}\label{feritetemporanee}.
 
@@ -1351,7 +1362,7 @@ Un Punto Fato si usa come Azione gratuita ed il personaggio può usare i Punto F
 
 \smallskip
 
-\noindent\begin{itemize}
+\noindent\begin{itemize}[leftmargin=*]
 \item aggiungere 1d6 ad un Tiro Salvezza, al Tiro per Colpire, ad una Prova di Competenza. Da dichiarasi prima del tiro dei dadi. Il dado aggiunto può esplodere secondo le Golden Rules. 1 o più Punto Fato
 \item ritirare 1d6 (che magari ha fatto 1...). 2 Punto Fato
 \item recuperare 3 Punti Ferita anche se sono negativi. 1 Punto Fato
@@ -1365,7 +1376,7 @@ Un sistema per aggiungere tensione è gestire un insieme di Punti Fato condivisi
 
 Ogni giocatore è libero di prendere un dado alla volta ed usarlo come se fossero Punti Fato.
 
-Il chaos è dato dal fatto che questi dadi vengono poi spostati in un altro contenitore che il Narratore, sempre massimo uno alla volta per avversario, userà a \emph{suo beneficio}. Una volta che il Narratore ha usato il dado lo rimette nel contenitore dei giocatori.
+I dadi usati dai giocatori vengono poi spostati in un altro contenitore che il Narratore, sempre massimo uno alla volta per avversario, userà a \emph{suo beneficio}. Una volta che il Narratore ha usato il dado lo rimette nel contenitore dei giocatori.
 
 \end{multicols}
 
@@ -1420,14 +1431,15 @@ Ogni azione particolarmente importante dove il personaggio abbia seguito un Trat
 
 All'aumentare del valore della somma dei Tratti comuni con il Patrono il personaggio potrà acquisire dei poteri, indipendentemente sia un credente (Seguace o Devoto) o meno di quel Patrono.
 
-- A \textbf{5} punti si può incominciare a sentire la presenza di un Patrono
+\noindent\begin{itemize}[leftmargin=*]
+\item A \textbf{5} punti si può incominciare a sentire la presenza di un Patrono
 
-- A \textbf{10} punti si sente la vicinanza di un Patrono
+\item A \textbf{10} punti si sente la vicinanza di un Patrono
 
-- A \textbf{15} punti si è legati ad Patrono
+\item A \textbf{15} punti si è legati ad Patrono
 
-- A \textbf{20} punti si è un campione del Patrono
-
+\item A \textbf{20} punti si è un campione del Patrono
+\end{itemize}
 
 Non è necessario credere in un Patrono per sentirne la vicinanza, esserne legati o campione, semplicemente è la propria natura (i propri Tratti) che è affine al Patrono, che lo si voglia o meno.
 
@@ -1513,7 +1525,7 @@ Ogni personaggio ha una Professione iniziale, un percorso di vita e lavoro che l
 
 Sono elencate alcune Professioni e le loro competenze relative, il personaggio acquisisce queste competenze con il punteggio indicato nella tabella.
 
-Nella scheda va segnata la Professione iniziale e le competenze acquisite,  in accordo con il Narratore è possibile selezionare delle competenze diverse e anche scegliere professioni diverse!
+Nella scheda va segnata la Professione iniziale e le competenze acquisite,  in accordo con il Narratore è possibile selezionare delle competenze diverse e anche creare professioni diverse!
 
 \end{multicols}
 
@@ -1721,19 +1733,20 @@ La prova se pertinente alla professione si risolve con un 3d6+Saggezza+1/2LV, se
 
 \subsection{Competenze Attive}\index{Competenze Attive}\label{competenzeattive}
 
-\textbf{Il personaggio prende 1 punto, ad ogni livello, da distribuire tra le Competenze Attive od attribuirlo alle Competenze di Base.}.
-
-\medskip
+\textbf{Il personaggio prende 1 punto, ad ogni livello, da distribuire tra le Competenze Attive od attribuirlo alle Competenze di Base.}.\\
 
 Le \textbf{Competenze Attive} sono: Competenza Magica, Competenza Armi, Tiri Salvezza (Riflessi, Tempra, Volontà).
 
-- \textbf{Competenza Magica (CM)}: \index{CM}\index{Competenza Magica} indica la capacità e competenza nel lanciare un'incantesimo.
+\noindent\begin{itemize}[leftmargin=*]
 
-- \textbf{Competenza Armi (CA)}: \index{CA}\index{Competenza Armi} è la capacità e bravura di combattere con un'arma da mischia o da tiro/distanza.
+\item \textbf{Competenza Magica (CM)}: \index{CM}\index{Competenza Magica} indica la capacità e competenza nel lanciare un'incantesimo.
 
-- I \textbf{Tiri Salvezza} vengono aumentati dalle Abilità scelte.
+\item \textbf{Competenza Armi (CA)}: \index{CA}\index{Competenza Armi} è la capacità e bravura di combattere con un'arma da mischia o da tiro/distanza.
 
-Attribuire il punto di Competenze Attive alle \textbf{Competenza di Base} significa distribuire 4 punti aggiuntivi su almeno 3 Competenze di Base a piacere.\index{Aumentare Competenze di Base}
+\item I \textbf{Tiri Salvezza} vengono aumentati dalle Abilità scelte.
+\end{itemize}
+
+Attribuire il punto di Competenze Attive alle \textbf{Competenza di Base} significa distribuire 4 punti aggiuntivi su almeno 3 Competenze di Base a piacere.\index{Aumentare Competenze di Base}\\
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{C'è solo un modo per allenarsi: quello giusto. (Carl Lewis)
 \medskip
@@ -1762,28 +1775,26 @@ La prova si andrà ad eseguire tirando 3d6 + valore della Competenza Attiva rich
 E' possibile che vengano richiesti dei Tiri Salvezza con modificatori diversi, ovvero un Tiro Salvezza su Tempra con modificatore Forza oppure un Tiro Salvezza su Volontà con modificatore Carisma. Sarà il Narratore a dirvi quando si applica un modificatore diverso.
 \end{tcolorbox}\end{changemargin}
 
-Se ottieni \textbf{tre volte 6 nel Tiro Salvezza} lo stesso è riuscito, indipendentemente dal risultato finale.\index{Tre volte 6 nei Tiri Salvezza}
-
 \subsubsection{Competenza Armi}\label{competenzaarmi}
 
 La \textbf{Competenza Armi} (abbreviata in \textbf{CA}) indica la capacità e bravura nell'usare un arma. La competenza si riflette direttamente nelle prove per colpire l'avversario con armi.
 
-Il \textbf{Tiro per Colpire per le armi da mischia}\index{Armi da mischia} si risolve con una prova di Competenza Armi (\textbf{CA}) + \textbf{Forza} + eventuali Abilità + bonus da Lista d'Armi, bonus magici e modificatori contro la Difesa dell'avversario (Destrezza + armatura/scudi/modificatori).
+Il \textbf{Tiro per Colpire per le armi da mischia}\index{Armi da mischia} si risolve con una prova di Competenza Armi (\textbf{CA}) + \textbf{Forza} + eventuali Abilità + bonus da Lista d'Armi + bonus magici e modificatori contro la Difesa dell'avversario (Destrezza + armatura+scudo+modificatori).
 
 Il \textbf{Tiro per Colpire con armi da distanza} \index{Armi da distanza}(archi, balestre, pugnali da lancio, giavellotti, sassi..) si risolve con una prova di Competenza Armi (\textbf{CA}) + \textbf{Destrezza} + bonus da Lista d'Armi + eventuali capacità, bonus magici e modificatori contro la Difesa dell'avversario (Destrezza + armatura/scudi/modificatori).
 
-Quando si assegna un punto ad \textbf{CA} va sempre precisata su quale gruppo di arma si prende, se non si dichiara allora è come averlo preso nel gruppo Armi Semplici.
+Quando si assegna un punto ad \textbf{CA} è necessario precisare su quale gruppo di arma si prende, se non si dichiara allora è come averlo preso nel gruppo Armi Semplici.
 Controllare l'elenco \hyperlink{lista.armi}{Armi per Tipologia Omogenea} (pag. \pageref{lista.armi}).\index{Tipologia Omogenea}
 
 Il personaggio può decidere di assegnare il suo punto ad una tipologia di armi che già conosce, migliorando così la sua capacità ed talento nell'uso od apprendere un altra tipologia di armi.
 
-Più è alto il punteggio in una tipologia d'armi più facilmente può usufruire di vantaggi nella stessa, ma conoscerà meno armi.
+Più è alto il punteggio in una tipologia d'armi più facilmente può usufruire di vantaggi con le armi della stessa, ma conoscerà meno armi.
 
 Se il giocatore non ha assegnato alcun punto nella \textbf{CA} può utilizzare senza penalità al colpire solo le armi raggruppate come Armi Semplici.
 
-Un personaggio che usa un arma presente nelle Liste d'Armi che conosce o nelle Armi Semplici applicherà sempre il suo valore di Competenza Armi (CA) al Tiro per Colpire, solo quando usa un arma non nota avrà delle penalità (-1d6).
-
 Le \textbf{Armi Semplici} sono: Pugnale, Mazza Leggera, Randello, Mazza chiodata, Bastone, Balestra (Leggera), Giavellotto\index{Armi Semplici}
+
+Un personaggio che usa un arma presente nelle Liste d'Armi che conosce o nelle Armi Semplici applicherà sempre il suo valore di Competenza Armi (CA) al Tiro per Colpire, solo quando usa un arma non nota avrà delle penalità (-1d6).
 
 Usare un'\textbf{Arma senza l'adeguata competenza} nel gruppo di appartenenza impone un -1d6 al Tiro per Colpire.\index{Arma senza competenza}
 
@@ -1799,25 +1810,26 @@ Usare uno \textbf{Scudo senza l'adeguata competenza} peggiora il Tiro per Colpir
 
 \subsubsection{Competenza Magica}\label{competenzamagica}
 
-La \textbf{Competenza Magica} (abbreviata in \textbf{CM}) permette al personaggio di poter conoscere più incantesimi, più potenti, più efficaci e più facilmente.
+La \textbf{Competenza Magica} (abbreviata in \textbf{CM}) permette al personaggio di poter conoscere più incantesimi, più potenti, più efficaci e più facilmente lanciabili.
 
 Un personaggio con alta \textbf{Competenza Magica} sa manipolare più incantesimi e con risultati migliori.
 
-Il valore di Competenza Magica stabilisce insieme all'Abilità Adepto della Magia stabilisce il livello massimo di incantesimi lanciabile.
+Il valore di Competenza Magica stabilisce insieme all'Abilità Adepto della Magia il livello massimo di incantesimi lanciabile.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups arriva al 4' livello!]
 
 Tups è arrivato al 4' livello! Ecco come ha distribuito i punti delle Competenze Attive.
 
-\textbf{1 livello}: +1 Competenza Armi, Abilità: Armatura del Devoto (+2 Volontà, +1 Riflessi), Arma Focalizzata (+1 Riflessi, +1 Tempra)
+\textbf{1 livello}: +1 Competenza Armi, Abilità: Armatura del Devoto (+2 Volontà, +1 Riflessi, Costituzione), Il Patrono è la mia Arma (+1 Riflessi, +1 Volontà, Costituzione)
 
-\textbf{2 livello}: +1 Competenza Magica, Abilità: Colpi Poderosi (+2 Tempra)
+\textbf{2 livello}: +1 Competenza Magica, Abilità: Colpi Poderosi (+2 Tempra, Costituzione)
 
-\textbf{3 livello}: +1 Competenza Magica, Abilità: Fedele (+2 Volontà, +1 Tempra)
+\textbf{3 livello}: +1 Competenza Magica, Abilità: Fedele (+2 Volontà, +1 Tempra, Costituzione). Il punteggio di Costituzione aumenta di 1.
 
-\textbf{4 livello}: +1 Competenza Armi, Abilità: Incantatore Prudente (+2 Riflessi, +1 Tempra)
+\textbf{4 livello}: +1 Competenza Armi, Abilità: Incantatore Prudente (+2 Riflessi, +1 Tempra, Intelligenza)
 
-\textbf{\emph{Totale}}: +2 CA, +2 CM, +5 Tiro Salvezza Riflessi, +5 Tiro Salvezza Tempra, +4 Tiro Salvezza Volontà
+\textbf{\emph{Totale}}: +2 CA, +2 CM, +4 Tiro Salvezza Riflessi, +5 Tiro Salvezza Tempra, +4 Tiro Salvezza Volontà
+
 \end{tcolorbox}\end{changemargin}
 
 Ogni punto attribuito nella Competenze di Base o Competenza Armi o Magica permette di usufruire di +1 nella prova relativa (Tiro per Colpire, Competenza Magica)
@@ -4747,6 +4759,12 @@ Se prendi \textbf{4 volte} quest'Abilità sulla stessa Lista d'Armi i bonus al c
 
 Usando 3 Azioni puoi eseguire un singolo attacco (con penalità di 1d6 al Tiro per Colpire) contro tutti gli avversari in mischia attorno a te.
 
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/Historia_Mundi_Naturalis.png}
+	
+	\emph{Woodcut illustration from an edition of Pliny the Elder's Naturalis Historia (1582)}
+\end{center}
+
 \subsection*{Batteria Magica}\index{Batteria Magica}\label{batteriamagica}
 
 \textbf{Requisito}: Competenza Magica 3
@@ -4761,12 +4779,6 @@ La prima volta che prendi questa Abilità aumenti di 3 i punti Magia a disposizi
 
 Le volte successive, requisito CM 6/9/12, aumenti i Punti Magia di un valore pari all'aumento precedente +1.
 
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/Historia_Mundi_Naturalis.png}
-
-\emph{Woodcut illustration from an edition of Pliny the Elder's Naturalis Historia (1582)}
-\end{center}
-
 \subsection*{Batteria Estesa}\index{Batteria Estesa}\label{batteriaestesa}
 
 \textbf{Requisito}: Competenza Magica 1, Adepto della Magia
@@ -4779,25 +4791,7 @@ Riesci a sopportare meglio lo stress di lanciare incantesimi.
 
 Quando effettui una Prova di Magia e riesci in almeno un Successo Critico Magico il costo dell'incantesimo diminuisce di un punto, con un costo minimo di 1.
 
-\subsection*{Colpi poderosi}\index{Colpi poderosi}\label{colpipoderosi}
-
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +2 Tempra
-
-\textbf{Caratteristica Potenziata}: Forza o Costituzione
-
-Il tuo stile enfatizza colpi poderosi.
-
-Guadagni un +1 al danno con una Lista d'Arma.
-
-\begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/teseo.png}
-	
-	\emph{Henry Justice Ford - Colpo furtivo!}
-\end{center}
-
-\subsection*{Colpo furtivo}\index{Colpo furtivo}\index{Attacco alle spalle}\label{attaccoallespalle}\label{colpofurtivo}
+\subsection*{Colpo Furtivo}\index{Colpo furtivo}\index{Attacco alle spalle}\label{attaccoallespalle}\label{colpofurtivo}
 
 \textbf{Requisito}: Competenza Armi 3
 
@@ -4812,6 +4806,13 @@ La \textbf{seconda volta} che si prende questa Abilità, requisito Competenza Ar
 La \textbf{terza volta} che si prende questa Abilità, requisito Competenza Armi 10, causi 3 danni critici aggiuntivi.
 
 La \textbf{quarta} che si prende questa Abilità, requisito Competenza Armi 12, causi 4 danni critici aggiuntivi.
+
+
+\begin{center}
+	\includegraphics[width=0.8\linewidth]{immagini/teseo.png}
+	
+	\emph{Henry Justice Ford - Colpo furtivo!}
+\end{center}
 
 \subsection*{Colpo Indebolente}\index{Colpo Indebolente}\label{colpoindebolente}
 
@@ -4844,6 +4845,18 @@ Esegui il Tiro per Colpire con penalità di -1d6, se colpisci causi 3 danni crit
 \textbf{Caratteristica Potenziata}: Forza o Destrezza
 
 Dedichi 2 Azioni a Round, per 5 round, a studiare un avversario che puoi minacciare. Nel sesto round utilizzando 2 Azioni porti un attacco in mischia o da distanza. L'avversario deve effettuare un Tiro Salvezza su Tempra con DC pari al Tiro per Compire o rimanere paralizzato per 3d6 round.
+
+\subsection*{Colpi Poderosi}\index{Colpi poderosi}\label{colpipoderosi}
+
+\textbf{Requisito}: Competenza Armi 1
+
+\textbf{Tiri Salvezza}: +2 Tempra
+
+\textbf{Caratteristica Potenziata}: Forza o Costituzione
+
+Il tuo stile enfatizza colpi poderosi.
+
+Guadagni un +1 al danno con una Lista d'Arma.
 
 \subsection*{Combattere alla Cieca}\index{Combattere alla Cieca}\label{combattereallacieca}
 
@@ -4931,7 +4944,7 @@ Le \textbf{terza volta} che prendi questa Abilità, requisito Competenza Magica 
 
 Le \textbf{quarta volta} che prendi questa Abilità, requisito Competenza Magica 18, l'incantatore è in grado di infondere un incantesimo fino a livello 9 in un oggetto magico.
 
-\subsection*{Dadi truccati}\index{Dadi truccati}\label{daditruccati}
+\subsection*{Dadi Truccati}\index{Dadi truccati}\label{daditruccati}
 
 \textbf{Requisito}: Competenza Magica 6
 
@@ -5497,7 +5510,7 @@ L'energia proviene dalle mani (non conta se ci sono guanti) e si applica con un 
 	\emph{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
 \end{center}
 
-\subsection*{Incanalare energia} \index{Incanalare energia}\label{incanalareenergia}
+\subsection*{Incanalare Energia} \index{Incanalare energia}\label{incanalareenergia}
 
 \textbf{Requisito}: Imposizione delle mani, Competenza Magica 1, Tratti comuni 4
 
@@ -5663,7 +5676,7 @@ La \textbf{prima volta} che si prende questa Abilità, requisito Competenza Magi
 
 La \textbf{seconda volta} che si prende questa Abilità, requisito Competenza Armi 5, la penalità a Tiro per Colpire data dallo scudo diminuisce di 1.
 
-\subsection*{Magie potenti}\index{Magie potenti}\label{magiepotenti}
+\subsection*{Magie Potenti}\index{Magie potenti}\label{magiepotenti}
 
 \textbf{Requisito}: Competenza Magica 5
 
@@ -5801,7 +5814,7 @@ Se hai movimento 6m passi a movimento 7m, se hai movimento 9m passi a movimento 
 
 Ogni ulteriori \textbf{due volte} che prendi l'Abilità il tuo movimento aumenta di 1 metro per Azione di Movimento, fino ad un massimo di +3 metri a round.
 
-\subsection*{Passo sicuro}\index{Passo sicuro}\label{passosicuro}
+\subsection*{Passo Sicuro}\index{Passo sicuro}\label{passosicuro}
 
 \textbf{Requisito}: Saggezza 1
 
@@ -5833,7 +5846,7 @@ Le \textbf{seconda volta} che prendi quest'Abilità sul medesimo terreno acquisi
 \emph{Sotterraneo}: Visione crepuscolare 9 metri\\
 \emph{Urbano}: +1 Linguaggio, +1 a scelta in due Conoscenze
 
-\subsection*{Pelle coriacea}\index{Pelle coriacea}\label{pellecoriacea}
+\subsection*{Pelle Coriacea}\index{Pelle coriacea}\label{pellecoriacea}
 
 \textbf{Requisito}: Costituzione 2
 
@@ -6183,7 +6196,7 @@ Il bonus può essere usato al Tiro per Colpire, Tiri Salvezza causati dall'avver
 
 La capacità di non lasciare impronte nell'ambiente scelto. Ogni volta che prendi questa Abilità puoi scegliere un ambiente diverso (vedi Abilità Passo Sicuro) di cui hai preso l'Abilità. La difficoltà della prova di Seguire Tracce per inseguirti aumentata di 10.
 
-\subsection*{Sifone nero}\index{Sifone nero}\label{sifonenero}
+\subsection*{Sifone Nero}\index{Sifone nero}\label{sifonenero}
 
 \textbf{Requisito}: Competenza magia 6, Seguace o Devoto di Tazher, punti Tratto in comune 6
 
@@ -6279,7 +6292,7 @@ Riesci a imprimere un mortale effetto ai tuoi proiettili.
 
 Il tuo dardo da balestra aumenta di una taglia di danno.
 
-\subsection*{Tiro preciso}\index{Tiro preciso}\label{tiropreciso}
+\subsection*{Tiro Preciso}\index{Tiro preciso}\label{tiropreciso}
 
 \textbf{Requisito}: Destrezza 3, Competenza Armi 1
 
@@ -6293,7 +6306,7 @@ Guadagni un +1 colpire e +1 al danno ed al Tiro per Colpire, con armi da lancio,
 %\includegraphics[width=0.7\linewidth]{immagini/kenilguerriero.png}
 %\end{center}
 
-\subsection*{Tiro rapido}\index{Tiro rapido}\label{tirorapido}
+\subsection*{Tiro Rapido}\index{Tiro rapido}\label{tirorapido}
 
 \textbf{Requisito}: Destrezza 3, Tiro Preciso, Competenza Armi 2
 
