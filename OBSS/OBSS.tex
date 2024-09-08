@@ -115,7 +115,7 @@
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 \usepackage{xltabular}
-\usepackage{tabularx}
+\usepackage{tabularx} 
 \usepackage{pdfpages}
 \usepackage{hyperref}
 \usepackage{tikz}
@@ -124,7 +124,7 @@
 \usepackage{soul}
 \raggedbottom
 \usepackage{array}
-
+\usepackage{longtable} 
 \newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{D}[1]{>{\centering}m{#1}}
@@ -13603,7 +13603,7 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 
 \textbf{Tabella: Lista della Armi}\index[Tabelle]{Tabella Lista della Armi}
 
-%\begin{tabularx}{lllll}
+%\begin{xtabularx}{lllll}
 \begin{xltabular}{0.99\textwidth}{lllX}
 \textbf{Arma}&\textbf{Costo}&\textbf{Dim./Danno} & \textbf{Gittata, Lista, Speciale}\\
 \toprule
@@ -21099,7 +21099,7 @@ Questa bacchetta ha 7 cariche. La bacchetta recupera 1d3 + 1 cariche spese all'a
 \index[OggettiMagici]{Bacchetta delle Meraviglie}\smallskip* \textbf{Bacchetta delle Meraviglie}
 25000 mo, molto raro, mentre impugni questa bacchetta, puoi spendere 1 carica con due azioni e scegliere un bersaglio entro 36 metri da te. Il bersaglio può essere una creatura, un oggetto o un punto nello spazio. Il Narratore decide o determina casualmente cosa accadrà quando fai uso della bacchetta. Gli incantesimi lanciati tramite la bacchetta hanno DC del Tiro Salvezza 18. Se l'incantesimo normalmente ha una gittata espressa in metri, la gittata diventa 36 metri qualora non lo sia già. Se un effetto copre un'area, devi centrare l'incantesimo sul bersaglio e includervelo. Se un effetto più agire su più soggetti possibili, il Narratore determina casualmente chi sia affetto.
 
-Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica ogni giorno all'alba. Se spendi l'ultima carica della bacchetta, tira 1d6 se ottieni 1 la bacchetta si riduce in polvere ed è distrutta.
+Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica ogni giorno all'alba. 
 
 Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta questa tabella.
 
@@ -21172,7 +21172,7 @@ Inoltre non può effettuare reazioni. Come sua azione, la creatura può usare so
 8000 mo, non comune, mentre la impugni, puoi usare due azioni per spendere 1 carica per lanciare tramite essa l'incantesimo ragnatela (DC del Tiro Salvezza 18). Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica spesa all'alba di ciascun giorno. 
 
 \index[OggettiMagici]{Bacchetta del Vincolo}\smallskip* \textbf{Bacchetta del Vincolo}
-10000 mo, raro, questa bacchetta ha 7 cariche per le seguenti proprietà. La bacchetta recupera 1 carica spese all'alba di ciascun giorno. Tuttavia, se spendi l'ultima carica della bacchetta, tira 1d6 se ottieni 1 la bacchetta si riduce in polvere ed è distrutta. Mentre impugni questa bacchetta, puoi usare due azioni e spendere alcune delle sue cariche per lanciare uno dei seguenti incantesimi (DC del Tiro Salvezza 21):
+10000 mo, raro, questa bacchetta ha 7 cariche per le seguenti proprietà. La bacchetta recupera 1 carica spese all'alba di ciascun giorno. Mentre impugni questa bacchetta, puoi usare due azioni e spendere alcune delle sue cariche per lanciare uno dei seguenti incantesimi (DC del Tiro Salvezza 21):
 
 \textbf{blocca mostri} (5 cariche) o \textbf{blocca persone} (2 cariche).
 
@@ -21187,7 +21187,7 @@ Inoltre non può effettuare reazioni. Come sua azione, la creatura può usare so
 
 \index[OggettiMagici]{Bastone dei Boschi}\smallskip* \textbf{Bastone dei Boschi}
 44000 mo, raro, il bastone può essere impugnato come un bastone da combattimento magico che conferisce un bonus di +2 ai Tiri per Colpire e danno effettuati con esso. Quando lo impugni hai anche un bonus di +2 ai Tiri per Colpire con incantesimi.
-Questo bastone ha 10 cariche per le seguenti proprietà. Recupera 2 cariche spese ogni giorno all'alba. Se spendi l'ultima carica del bastone, tira 1d6 se ottieni 1 il bastone si annerisce, si trasforma in cenere, ed è distrutto.
+Questo bastone ha 10 cariche per le seguenti proprietà. Recupera 2 cariche spese ogni giorno all'alba. 
 
 - \emph{Incantesimi}. Puoi usare due azioni per spendere 1 o più cariche del bastone per lanciare tramite esso uno dei seguenti incantesimi, utilizzando la tua DC del Tiro Salvezza degli incantesimi: amicizia con gli animali (1 carica), localizza animali e piante (1 carica), muro di spine (6 cariche), parlare con gli animali (3 cariche), pelle coriacea (2 cariche) o risveglio (5 cariche). Puoi inoltre usare due azioni per lanciare tramite il bastone l'incantesimo passare senza tracce senza spendere cariche.
 
@@ -21200,16 +21200,16 @@ Se stai impugnando il bastone e fallisci un Tiro Salvezza contro un incantesimo 
 
 Se riesci in un Tiro Salvezza contro un incantesimo di ammaliamento che prende come bersaglio solo te, con o senza l'intervento del bastone, puoi usare una Azione di Reazione per spendere 3 carica dal bastone e rivolgere l'incantesimo contro chi lo ha lanciato, come se l'incantesimo fosse stato lanciato da te.
 
-Il bastone ha 7 cariche, e recupera 1 carica spesa ogni giorno all'alba. Se spendi l'ultima carica, tira 1d6 se ottieni 1 il bastone diventa un bastone da combattimento normale.
+Il bastone ha 7 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
 \index[OggettiMagici]{Bastone del Colpire}\smallskip* \textbf{Bastone del Colpire}
-25000 mo, molto raro, questo bastone può essere impugnato come un bastone da combattimento magico che conferisce un bonus di +3 ai Tiri per Colpire e di danno effettuati con esso. Quando colpisci con un attacco da mischia facendo uso del bastone, puoi spendere fino a 3 delle sue cariche. Per ogni carica spesa, il bersaglio subisce 1d6 danni da forza aggiuntivi. Il bastone ha 10 cariche, e recupera 2 cariche spese ogni giorno all'alba. Se spendi l'ultima carica, tira 1d6 se ottieni 1 il bastone diventa un bastone da combattimento normale.
+25000 mo, molto raro, questo bastone può essere impugnato come un bastone da combattimento magico che conferisce un bonus di +3 ai Tiri per Colpire e di danno effettuati con esso. Quando colpisci con un attacco da mischia facendo uso del bastone, puoi spendere fino a 3 delle sue cariche. Per ogni carica spesa, il bersaglio subisce 1d6 danni da forza aggiuntivi. Il bastone ha 10 cariche, e recupera 2 cariche spese ogni giorno all'alba. 
 
 \index[OggettiMagici]{Bastone del Fuoco}\smallskip* \textbf{Bastone del Fuoco}
 16000 mo, molto raro, mentre impugni questo bastone, hai resistenza al danno da fuoco.
 Inoltre, puoi usare due azioni per spendere 1 o più delle sue cariche per lanciare tramite esso uno dei seguenti incantesimi: Onda rovente (1 carica, DC 13), muro di fuoco (4 cariche, DC 19) o palla di fuoco (3 cariche, DC 17).
 
-Il bastone ha 10 cariche, e recupera 2 carica spesa ogni giorno all'alba. Se spendi l'ultima carica del bastone, tira 1d6 se ottieni 1 il bastone si annerisce, si trasforma in cenere, ed è distrutto.
+Il bastone ha 10 cariche, e recupera 2 carica spesa ogni giorno all'alba. 
 
 \index[OggettiMagici]{Bastone del Gelo}\smallskip* \textbf{Bastone del Gelo}
 26000 mo, molto raro, mentre impugni questo bastone, hai resistenza ai danni da freddo.
@@ -21217,13 +21217,13 @@ Inoltre, puoi usare due azioni per spendere 1 o più delle sue cariche per lanci
 
 - \emph{Incantesimi}: cono di freddo (5 cariche, DC 21), muro di ghiaccio (4 cariche, DC 19), nube di nebbia (1 carica, DC 13) o tempesta di ghiaccio (4 cariche, DC 19).
 
-Il bastone ha 10 cariche, e recupera 2 carica spesa ogni giorno all'alba. Se spendi l'ultima carica del bastone, tira 1d6 se ottieni 1 il bastone si trasforma in acqua e si distrugge.
+Il bastone ha 10 cariche, e recupera 2 carica spesa ogni giorno all'alba. 
 
 \index[OggettiMagici]{Bastone di Guarigione}\smallskip* \textbf{Bastone della Guarigione}
-13000 mo, raro, mentre lo impugni, puoi usare due azioni per spendere 1 o più delle sue cariche per lanciare tramite esso uno dei seguenti incantesimi: cura ferite leggere (1 carica), ristorare inferiore (2 cariche), rimuovi malattie (3 cariche). Questo bastone ha 10 cariche, e recupera 1 carica spesa ogni giorno all'alba. Se spendi l'ultima carica del bastone, tira 1d6 se ottieni 1 il bastone svanisce in un lampo di luce, perso per sempre.
+13000 mo, raro, mentre lo impugni, puoi usare due azioni per spendere 1 o più delle sue cariche per lanciare tramite esso uno dei seguenti incantesimi: cura ferite leggere (1 carica), ristorare inferiore (2 cariche), rimuovi malattie (3 cariche). Questo bastone ha 10 cariche, e recupera 1 carica spesa ogni giorno all'alba. 
 
 \index[OggettiMagici]{Bastone degli Insetti Sciamanti}\smallskip* \textbf{Bastone degli Insetti Sciamanti}
-160000 mo, raro, questo bastone ha 10 cariche che puoi impiegare per usare le proprietà sotto descritte e recupera 1 carica ogni giorno all'alba. Se spendi l'ultima carica del bastone, tira 1d6 se ottieni 1 uno sciame di insetti consuma e distrugge il bastone, e poi si disperde.
+160000 mo, raro, questo bastone ha 10 cariche che puoi impiegare per usare le proprietà sotto descritte e recupera 1 carica ogni giorno all'alba. 
 
 - \emph{Incantesimi}. Mentre impugni questo bastone, puoi usare due azioni per spendere le sue cariche ed lanciare uno dei seguenti incantesimi: insetto gigante (4 cariche, DC 19) o piaga degli insetti (5 cariche, DC 21).
 
@@ -21973,6 +21973,12 @@ Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 120
 
 Un'altra creatura può usare due azioni per afferrare la creatura all'interno della borsa e tirarla fuori, superando una prova di Forza con DC 25 (e sempre che non venga a sua volta trascinata dentro la borsa). La materia animale o vegetale posta dentro la borsa viene divorata ed è persa per sempre se inizia il proprio round all'interno della borsa.
 
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/genielamp.png}
+\end{center}
+
+
 \index[OggettiMagici]{Bottiglia dell'Efreeti}\smallskip* \textbf{Bottiglia dell'Efreeti}
 15000 mo, molto raro, questa bottiglia di ottone dipinta pesa 500 grammi. Quando usi due azioni per rimuoverne il tappo, una nube di denso fumo fuoriesce dalla bottiglia. Al termine del tuo round, il fumo si dissipa in un lampo di fuoco innocuo, e un efreeti compare in uno spazio non occupato entro 9 metri da te. La prima volta che la bottiglia viene aperta, il Narratore determina casualmente cosa accade.
 
@@ -21987,12 +21993,6 @@ Un'altra creatura può usare due azioni per afferrare la creatura all'interno de
 \end{tabularx}
 
 
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/genielamp.png}
-\end{center}
-
-
 \index[OggettiMagici]{Borsa dei Fagioli}\smallskip* \textbf{Borsa dei Fagioli}
 5000 mo, raro, all'interno di questa borsa si trovano 3d4 fagioli secchi. La borsa pesa 250 grammi più 125 grammi per ogni fagiolo che contiene.
 
@@ -22000,14 +22000,17 @@ Se riversi il contenuto della borsa sul terreno, i fagioli esplodono in un raggi
 
 Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati. Se rimuovi il fagiolo dalla borsa, lo pianti nel terreno o la sabbia, e lo innaffi, il fagiolo produrrà un effetto 1 minuto dopo, a partire dal punto del terreno in cui è stato piantato. Il Narratore sceglie l'effetto o lo determina casualmente.
 
-%\end{multicols}
-
 
 \noindent\begin{tabularx}{0.50\textwidth}{lX}
 \textbf{d100} & \textbf{Effetto}\\
 \hline
 01 &Spuntano 5d4 funghi. Se una creatura mangia un fungo, tira un dado. Se il risultato è dispari esegui un tiro Salvezza su Tempra con DC 18 o subire 5d6 danni da veleno e restare avvelenato per 1 ora. Se il risultato è pari ottiene 5d6 Punti Ferita temporanei per 1 ora.\\
 02-10 &Erutta un geyser che sputa acqua, birra, succo di frutta, tè, aceto, vino od olio (a discrezione del Narratore) 9 metri in aria per 1d12 round.\\
+\end{tabularx}
+
+\noindent\begin{tabularx}{0.50\textwidth}{lX}
+	\textbf{d100} & \textbf{Effetto}\\
+	\hline
 11-20 &Spunta un uomo albero. C'è una probabilità del 50\% che l'uomo albero sia malvagio e ti attacchi.\\
 21-30 &Una statua di pietra animata con le tue fattezze si leva dal terreno. Essa comincerà a minacciarti verbalmente. Se dovessi andartene e altre persone giungessero sul posto, la statua ti descriverebbe come il più pericoloso dei criminali, e li esorterebbe ad cercarti e attaccarti. Se ti trovi sullo stesso piano di esistenza della statua, essa saprà sempre dove sei. Dopo 24 ore la statua diventerà inanimata.\\
 31-40 &Un fuoco da campo che produce fiamme blu spunta dal terreno e brucia per 24 ore (o finché non viene spento).\\
@@ -22015,13 +22018,7 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 51-60 &Compaiono 1d4 + 8 rospi fucsia. Ogniqualvolta un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del Narratore. Il mostro resta per 1 minuto e poi scompare in un sbuffo di fumo fucsia. \\
 61-70 & Una bulette esce dal terreno e attacca.\\
 71-80 &Cresce un albero da frutta. Possiede 1d10 + 20 frutti. 1d8 di questi funzionano come una pozione magica determinata a caso, mentre uno di loro funge da veleno ingerito del tipo determinato dal Narratore. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono, e mantengono la propria magia per 30 giorni. \\
-81-90 &Compare un nido con 1d4 + 3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se il Tiro Salvezza riesce, la
-creatura aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità. Se il Tiro Salvezza fallisce, la creatura subisce 10d6 danni da forza a causa di un'esplosione magica al suo interno.
-\end{tabularx}
-
-\noindent\begin{tabularx}{0.50\textwidth}{lX}
-	\textbf{d100} & \textbf{Effetto}\\
-
+81-90 &Compare un nido con 1d4 + 3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se il Tiro Salvezza riesce, la creatura aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità. Se il Tiro Salvezza fallisce, la creatura subisce 10d6 danni da forza a causa di un'esplosione magica al suo interno.\\
 91-99 &Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. La piramide è considerata come la tana della mummia sovrana, e il suo sarcofago contiene un tesoro a scelta del Narratore.\\
 100 &Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza.
 \end{tabularx}
