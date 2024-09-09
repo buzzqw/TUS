@@ -13,7 +13,7 @@ jobs:
           latexmk_use_xelatex: true
           working_directory: ./OBSS
       - name: Upload pdf
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: "OBSS - Old Bell School System"
           path: "./OBSS/OBSS-eng-v3.pdf"  
