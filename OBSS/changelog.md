@@ -636,9 +636,11 @@ aggiornata versione POD 2024/08/30
 
 aggiornata versione POD 2024/09/04
 
+**0.95** aggiornata tabella tiro caratteristiche, aggiornato box Tups arriva al 4' livello, riviste abilita' di lista, aggiornati incantesimi, rimossi incantesimi non idonei al sistema, aggiornati i tratti, chiarimenti su concentrazione, aggiornate metodi di manovre, correzioni su dizioni inzio/fine round, controllo uso reazioni, dettagli su uso esca ed acciarino, aggiornata tabella fumble magici, minori correzioni a capitolo avanziamo di livello, aggiornate trappole
 
-**0.95** aggiornata tabella tiro caratteristiche, aggiornato box Tups arriva al 4' livello, riviste abilita' di lista, aggiornati incantesimi, rimossi incantesimi non idonei al sistema, aggiornati i tratti, chiarimenti su concentrazione, aggiornate metodi di manovre, correzioni su dizioni inzio/fine round, controllo uso reazioni, dettagli su uso esca ed acciarino, aggiornata tabella fumble magici, minori correzioni a capitolo avanziamo di livello, aggiornate trappole, 
+aggiornata versione POD 2024/09/09
 
+**0.96**  l'abilita' animalia non permette di curare piante, 
 
 
 - aggiunti \label{} fino a piani
