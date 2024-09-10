@@ -640,7 +640,7 @@ aggiornata versione POD 2024/09/04
 
 aggiornata versione POD 2024/09/09
 
-**0.96**  l'abilita' animalia non permette di curare piante, 
+**0.96** aggiornato Attacco Turbinante, aggiunto incantesimo Lacrima di Ljust, 
 
 
 - aggiunti \label{} fino a piani
