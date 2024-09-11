@@ -174,7 +174,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.96} \fontsize{10}{12}\selectfont
+\def \versione {0.97} \fontsize{10}{12}\selectfont
 
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
@@ -21449,23 +21449,23 @@ Se lo bevi, subisci 5d6 danni da veleno, e devi superare un tiro Salvezza su Tem
 \subsection{Anelli}
 
 \index[OggettiMagici]{Anello Accumula Incantesimi}\smallskip* \textbf{Anello Accumula Incantesimi}
-24000 mo, raro, questo anello immagazzina gli incantesimi lanciati su di esso, conservandoli fino a che chi lo indossa non ne faccia uso. L'anello può accumulare fino a 3 Incantesimi per un totale di 17 Punti Magia con un massimo di 6 punti magia singolo.
+24000 mo, raro, questo anello immagazzina gli incantesimi lanciati su di esso, conservandoli fino a che chi lo indossa non ne faccia uso. L'anello può accumulare fino a 3 Incantesimi fino ad un massimo di 15 Punti Magia, con un massimo di 6 Punti Magia per singolo incantesimo.
 
 Qualsiasi creatura può lanciare un incantesimo accumulato di livello da 1 a 5 sull'anello toccandolo. L'incantesimo ha una DC pari a 10 + 2 x Livello incantesimo, l'eventuale Tiro per Colpire viene effettuato da chi lancia l'incantesimo.
 
-L'incantatore lanciato deve mirare all'anello per farlo assorbire. Se l'anello non può contenere l'incantesimo, l'incantesimo si manifesta normalmente. Un incantesimo lanciato tramite questo anello non è più contenuto al suo interno, e libera spazio per altri incantesimi.
+Per caricare l'incantesimo nell'anello il mago deve mirare all'anello per farlo assorbire. Se l'anello non può contenere l'incantesimo, l'incantesimo si manifesta normalmente. Un incantesimo lanciato tramite questo anello non è più contenuto al suo interno, e libera spazio per altri incantesimi.
 
 \index[OggettiMagici]{Anello dell'Ariete}\smallskip* \textbf{Anello dell'Ariete}
 5000 mo, raro, mentre indossi questo anello, puoi usare due azioni per spendere da 1 a 3 cariche per attaccare una creatura visibile entro 18 metri da te.
 
-L'anello produce una testa di ariete spettrale ed effettua il suo Tiro per Colpire con un bonus di +7. Se colpisce, per ogni carica spesa, il bersaglio subisce 2d10 danni da forza e viene spinto di 1 metro lontano da te.
+L'anello produce una testa di ariete spettrale ed effettua il suo Tiro per Colpire a distanza con un bonus di +7. Se colpisce, per ogni carica spesa, il bersaglio subisce 2d10 danni da forza e viene spinto di 1 metro lontano da te.
 
-In alternativa, puoi spendere da 1 a 3 cariche dell'anello con due azioni per tentare di sfondare una porta entro 18 metri da te. L'effettui una prova con Forza +5 ogni carica spesa.
+In alternativa, puoi spendere da 1 a 3 cariche dell'anello con due azioni per tentare di sfondare una porta entro 18 metri da te. L'effettui una prova con bonus +1d6 ogni carica spesa.
 
-Questo anello ha 3 cariche, e recupera 1d3 cariche spese ogni mattina all'alba.
+Questo anello ha 3 cariche, e recupera 1 carica spesa ogni mattina all'alba.
 
 \index[OggettiMagici]{Anello di Caduta Piuma}\smallskip* \textbf{Anello di Caduta Piuma}
-2000 mo, raro, se cadi da più di 1 metro e indossi questo anello si attiva l'incantesimo Caduta Piuma
+2000 mo, raro, se cadi da più di 1 metro e indossi questo anello si attiva in automatico l'incantesimo Caduta Piuma
 
 \index[OggettiMagici]{Anello di Camminare sull'Acqua}\smallskip* \textbf{Anello di Camminare sull'Acqua}
 1500 mo, non comune, mentre indossi questo anello, puoi stare in piedi o muoverti su qualsiasi superficie liquida come se fosse terreno solido.
@@ -21544,56 +21544,56 @@ L'anello ha 5 cariche. Recupera 1d4 + 1 cariche ogni giorno all'alba.
 Gli incantesimi lanciati tramite l'anello hanno DC del Tiro Salvezza 21.
 
 \smallskip* \textbf{Anello del Controllo delle persone}\index[OggettiMagici]{Anello del Controllo delle persone}
-2500 mo, raro, questo anello conferisce a chi lo indossa la capacità di usare l'incantesimo charme una volta la giorno. L'effetto dura finché chi esercita il controllo non vi pone termine, passa 1 ora o non viene usato dispersione della magia.
+2500 mo, raro, questo anello conferisce a chi lo indossa la capacità di usare l'incantesimo \emph{charme} una volta la giorno. L'effetto dura finché chi esercita il controllo non vi pone termine, passa 1 ora o non viene usato dissolvi magia.
 
 \smallskip* \textbf{Anello del Controllo delle piante}\index[OggettiMagici]{Anello del Controllo delle piante}
 5000 mo, molto raro, chi indossa questo anello può controllare le piante e le creature vegetali in un’area quadrata di 3x3 m entro una distanza di 18 metri. Anche se una pianta è immobile, essa si può spostare mentre è sotto l’effetto di questo anello. Il controllo dura fintanto che chi lo esercita mantiene una concentrazione totale, che impedisce ogni altra Azione.
 
 \smallskip* \textbf{Anello della Debolezza}\index[OggettiMagici]{Anello della Debolezza}
-raro, una volta indossato, questo anello può essere rimosso solo da rimuovere maledizione. Nel corso di 6 round, la forza di chi indossa l’anello si riduce a -3.
+raro, una volta indossato, questo anello può essere rimosso solo da \emph{rimuovere maledizione}. Il portatore perde un punto di Forza a round finché non si riduce a -3.
 
 \index[OggettiMagici]{Anello dei Tre Desideri}\smallskip* \textbf{Anello dei Tre Desideri}
 75000 mo, leggendario, mentre indossi quest'anello, puoi usare due azioni per spendere 1 delle sue 1d3 cariche per lanciare tramite esso l'incantesimo desiderio. L'anello perde la sua magia quando usi l'ultima carica.
 
 \index[OggettiMagici]{Anello di Elusione}\smallskip* \textbf{Anello di Elusione}
-5000 mo, raro, mentre indossi questo anello e fallisci un Tiro Salvezza su Riflessi, puoi usare la tua Azione di Reazione per spendere 1 carica per riuscire il Tiro Salvezza che hai appena fallito. Questo anello ha 3 cariche, e recupera 1d3 cariche spese ogni mattina all'alba.
+5000 mo, raro, mentre indossi questo anello e fallisci un Tiro Salvezza su Riflessi, puoi usare la tua Azione di Reazione per spendere 1 carica per ripetere il Tiro Salvezza che hai appena fallito. Questo anello ha 3 cariche, e recupera 1 carica spesa ogni mattina all'alba.
 
 \index[OggettiMagici]{Anello dell'Evocazione dello Djinni}\smallskip* \textbf{Anello dell'Evocazione dello Djinni}
-35000 mo, leggendario, mentre indossi quest'anello, puoi pronunciarne la parola di comando con due azioni per evocare uno specifico djinni del Piano Elementale dell'Aria. Lo djinni compare in uno spazio non occupato a tua scelta, entro 36 metri da te. Resta finché rimani concentrato (come se ti concentrassi su di un incantesimo), per un massimo di 1 ora, o finché non scende a 0 Punti Ferita. Poi ritorna al suo piano natio.
+35000 mo, leggendario, mentre indossi quest'anello, puoi pronunciarne la parola di comando, con due azioni, per evocare uno specifico djinni del Piano Elementale dell'Aria. Lo djinni compare in uno spazio non occupato a tua scelta, entro 36 metri da te. Resta finché rimani concentrato (come se ti concentrassi su di un incantesimo), per un massimo di 1 ora, o finché non scende a 0 Punti Ferita. Poi ritorna al suo piano natio.
 
 Finché resta evocato, lo djinni è amichevole verso di te e i tuoi compagni. Obbedisce a qualsiasi comando gli dai, non importa la lingua usata. Se non gli impartisci ordini, lo djinni si difenderà dagli attacchi ma non effettuerà nessun'altra Azione.
 
-Dopo la partenza dello djinni, esso non potrà più essere evocato prima che siano passate 24 ore, e se lo djinni muore l'anello perde la sua magia.
+Dopo la partenza dello djinni, esso non potrà più essere evocato prima che siano passate 24 ore e se lo djinni muore l'anello perde la sua magia.
 
 \index[OggettiMagici]{Anello di Influenza sugli Animali}\smallskip* \textbf{Anello di Influenza sugli Animali} \emph{Anello, raro} 4000 mo
 
-Mentre indossi questo anello, puoi usare due azioni per spendere 1 delle sue cariche per lanciare tramite esso uno dei seguenti incantesimi: amicizia con gli animali (DC del Tiro Salvezza 15), parlare con gli animali, paura (DC del Tiro Salvezza 15, prende come bersaglio solo bestie che hanno Intelligenza -2 o meno).
+Mentre indossi questo anello, puoi usare due azioni per spendere 1 delle sue cariche per lanciare tramite esso uno dei seguenti incantesimi: \emph{amicizia con gli animali} (DC del Tiro Salvezza 15), \emph{parlare con gli animali}, \emph{paura} (DC del Tiro Salvezza 15, prende come bersaglio solo bestie che hanno Intelligenza -2 o meno).
 
-Questo anello ha 3 cariche, e recupera 1d3 cariche spese ogni giorno all'alba.
+Questo anello ha 3 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
 \smallskip* \textbf{Anello dell’Inganno}\index[OggettiMagici]{Anello dell’Inganno}
 raro, chi indossa questo anello maledetto è convinto che abbia un potere scelto dal Narratore o determinato casualmente.
 
 \index[OggettiMagici]{Anello di Invisibilità}\smallskip* \textbf{Anello di Invisibilità}
-10000 mo, molto raro, mentre indossi quest'anello, puoi renderti invisibile con due azioni. Tutto ciò che indossi o trasporti diventa invisibile assieme a te. Resti invisibile finché l'anello non viene rimosso, attacchi o lanci un incantesimo, o finché non usi due azioni per tornare visibile.
+10000 mo, molto raro, mentre indossi quest'anello, puoi renderti invisibile con due azioni. Tutto ciò che indossi o trasporti diventa invisibile assieme a te. Resti invisibile finché l'anello non viene rimosso, attacchi o lanci un incantesimo, o finché non usi due azioni per tornare visibile. L'anello è usabile 3 volte al giorno.
 
 \index[OggettiMagici]{Anello di Libertà di Azione}\smallskip* \textbf{Anello di Libertà di Azione}
 20000 mo, raro, mentre indossi questo anello, il terreno difficile non ti costa movimento aggiuntivo. Inoltre, la magia non può né ridurre la tua velocità né renderti paralizzato o intralciato.
 
 \index[OggettiMagici]{Anello del Nuoto}\smallskip* \textbf{Anello del Nuoto}
-3000 mo, non comune, mentre indossi questo anello, hai velocità di nuoto 12 metri.
+3000 mo, non comune, mentre indossi questo anello, hai velocità di nuoto pari al tuo Movimento.
 
 \index[OggettiMagici]{Anello di Protezione}\smallskip* \textbf{Anello di Protezione}
 costo vario, rarità varia, mentre indossi questo anello, hai un bonus da +1 (5000 mo, raro), +2 (7500 mo, raro), +3 (12000mo, molto raro) alla Difesa e ai Tiri Salvezza.
 
 \index[OggettiMagici]{Anello Respingi Incantesimi}\smallskip* \textbf{Anello Respingi Incantesimi}
-35000 mo, leggendario, mentre indossi quest'anello, hai +1d6 ai Tiri Salvezza contro qualsiasi incantesimo che prende come bersaglio solo te e non un'area di effetto. Inoltre, se fai un Successo Critico Salvezza e l'incantesimo ha livello 6 o più basso, l'incantesimo non ha effetto su di te e invece prende come bersaglio l'incantatore che ha lanciato l'incantesimo
+35000 mo, leggendario, mentre indossi quest'anello, hai +1d6 ai Tiri Salvezza contro qualsiasi incantesimo che prende come bersaglio solo te e non un'area di effetto. Inoltre, se fai un Successo Critico Salvezza e l'incantesimo ha livello 5 o più basso, l'incantesimo non ha effetto su di te e invece prende come bersaglio l'incantatore che ha lanciato l'incantesimo.
 
 \index[OggettiMagici]{Anello di Rigenerazione}\smallskip* \textbf{Anello di Rigenerazione}
-12000 mo, molto raro, mentre indossi questo anello, recuperi 1d6 Punti Ferita ogni 10 minuti, purché ti rimanga almeno 1 punto ferita. Se perdi una parte del corpo, l'anello fa sì che la parte mancante ricresca e ritorni alla sua completa funzionalità in 1d6 + 1 giorni, purché per tutto il periodo ti rimanga sempre almeno 1 punto ferita.
+12000 mo, molto raro, mentre indossi questo anello, recuperi 1d6 Punti Ferita ogni 10 minuti, purché ti rimanga almeno 1 Punto Ferita. Se perdi una parte del corpo, l'anello fa sì che la parte mancante ricresca e ritorni alla sua completa funzionalità in 1d6 + 1 giorni, purché per tutto il periodo ti rimanga sempre almeno 1 Punto Ferita.
 
 \index[OggettiMagici]{Anello di Resistenza}\smallskip* \textbf{Anello di Resistenza}
-6000 mo, raro, mentre indossi questo anello, hai resistenza a un tipo di danno. La gemma incastonata nell'anello indica il tipo di danno, che viene scelto o determinato casualmente dal Narratore.
+12000 mo, raro, mentre indossi questo anello, hai resistenza a un tipo di danno. La gemma incastonata nell'anello indica il tipo di danno, che viene scelto o determinato casualmente dal Narratore.
 
 \medskip
 
@@ -21616,19 +21616,17 @@ costo vario, rarità varia, mentre indossi questo anello, hai un bonus da +1 (50
 \medskip
 
 \index[OggettiMagici]{Anello del Salto}\smallskip* \textbf{Anello del Salto}
-2500 mo, non comune, mentre indossi questo anello, con due azioni puoi lanciare tramite esso l'incantesimo saltare a volontà, ma il bersaglio puoi essere solo tu.
+2500 mo, non comune, mentre indossi questo anello, con due azioni puoi lanciare tramite esso l'incantesimo salto\emph{saltare} a volontà, ma il bersaglio puoi essere solo tu.
 
 \index[OggettiMagici]{Anello dello Scudo Mentale}\smallskip* \textbf{Anello dello Scudo Mentale}
-16000 mo, non comune, mentre indossi questo anello, sei immune alla magia che permette alle altre creature di leggere i tuoi pensieri, determinare se stai mentendo, conoscere i tuoi Tratti, o apprendere che tipo di creatura sei. Le creature possono comunicare telepaticamente con te solo se glielo concedi.
-
-Puoi usare due azioni per far diventare invisibile l'anello fino a che un'altra Azione non lo renderà di nuovo visibile, finché non lo rimuovi o muori. Se muori mentre indossi questo anello, la tua anima vi viene catturata, a meno che non ospiti già un'altra anima. Puoi decidere di rimanere nell'anello o raggiungere la vita ultraterrena. Finché la tua anima resta nell'anello, puoi comunicare telepaticamente con qualsiasi creatura lo indossi. Chi lo indossa non può impedire questa forma di comunicazione telepatica.
+16000 mo, non comune, mentre indossi questo anello, sei immune alla magia che permette alle altre creature di leggere i tuoi pensieri, determinare se stai mentendo, conoscere i tuoi Tratti o apprendere che tipo di creatura sei. Le creature possono comunicare telepaticamente con te solo se glielo concedi.
 
 \index[OggettiMagici]{Anello delle Stelle Cadenti}\smallskip* \textbf{Anello delle Stelle Cadenti}
-14000 mo, molto raro, mentre indossi questo anello a luce fioca o all'oscurità, puoi lanciare tramite esso luci danzanti e luce a volontà. Lanciare uno dei due incantesimi tramite l'anello richiede due azioni. L'anello ha 6 cariche per le seguenti altre proprietà.
+14000 mo, molto raro, mentre indossi questo anello a luce fioca o all'oscurità, puoi lanciare tramite esso \emph{luci danzanti} e \emph{luce} a volontà. Lanciare uno dei due incantesimi tramite l'anello richiede due azioni. L'anello ha 6 cariche per le seguenti altre proprietà.
 
-L'anello recupera 1d6 cariche spese ogni giorno all'alba.
+L'anello recupera 1 carica spesa ogni giorno all'alba.
 
-\emph{Luminescenza}. Spendi 1 carica con due azioni per lanciare tramite l'anello l'incantesimo luminescenza.
+\emph{Luminescenza}. Spendi 1 carica con due azioni per lanciare tramite l'anello l'incantesimo \emph{luminescenza}.
 
 \emph{Palla di fulmini}. Puoi spendere 2 cariche con due azioni per creare da una a quattro sfere di fulmini di 1 metro di diametro. Più sfere crei, meno potente sarà ciascuna sfera individualmente.
 Ogni sfera compare in uno spazio non occupato visibile entro 36 metri da te. La sfera dura finché ti concentri su di essa (come se ti concentrassi su di un incantesimo), fino a un massimo di 1 minuto. Ogni sfera irradia luce fioca in un raggio di 9 metri. Con due azioni puoi muovere ciascuna sfera di massimo 9 metri, ma senza superare i 36 metri di distanza da te. Quando una creatura, a parte te, si trova entro 1 metro da una sfera, la sfera scarica i fulmini contro quella creatura e poi scompare. Quella creatura deve effettuare un Tiro Salvezza su Riflessi con DC 18. Se fallisce il Tiro Salvezza, la creatura subisce danni da fulmine in base al numero di sfere da te creato (4 sfere, 2d4 danni; 3 sfere, 2d6 danni; 2 sfere, 5d4 danni; 1 sfera, 4d12 danni).
@@ -21636,7 +21634,7 @@ Ogni sfera compare in uno spazio non occupato visibile entro 36 metri da te. La 
 \emph{Stelle Cadenti}. Puoi spendere da 1 a 3 cariche con due azioni. Per ogni carica spesa, scagli una scintilla di luce dall'anello in un punto visibile entro 18 metri da te. Ogni creatura, in cubo di 3 metri di lato originante da quel punto, viene ricoperta di scintille e deve effettuare un Tiro Salvezza di Destrezza DC 15, subendo 5d4 danni da fuoco se lo fallisce, o la metà di questi danni se lo supera.
 
 \index[OggettiMagici]{Anello di Telecinesi}\smallskip* \textbf{Anello di Telecinesi}
-80000 mo, molto raro, mentre indossi questo anello, puoi lanciare a volontà l'incantesimo telecinesi, ma puoi prendere come bersaglio solo oggetti che non siano indossati o trasportati.
+80000 mo, molto raro, mentre indossi questo anello, puoi lanciare a volontà l'incantesimo \emph{telecinesi}, ma puoi prendere come bersaglio solo oggetti che non siano indossati o trasportati.
 
 \index[OggettiMagici]{Anello della Vista ai Raggi X}\smallskip* \textbf{Anello della Vista ai Raggi X}
 6000 mo, raro, mentre indossi questo anello, puoi usare due azioni per pronunciarne la parola di comando. Quando lo fai, puoi vedere attraverso la materia solida per 1 minuto. Questa vista ha un raggio di 9 metri. Per te, gli oggetti solidi all'interno del raggio appaiono trasparenti e non impediscono alla luce di attraversarli.
@@ -21647,10 +21645,10 @@ Questa vista può penetrare 30 centimetri di pietra, 2,5 centimetri di metallo c
 
 
 \index[OggettiMagici]{Bandana dell'Intelligenza}\smallskip* \textbf{Bandana dell'Intelligenza}
-8000 mo, raro, mentre indossi questa bandana il tuo Intelligenza è +4. La fascetta non ha effetto se hai già Intelligenza è già +4 o più alta.
+8000 mo, raro, mentre indossi questa bandana la tua Intelligenza è +4. La bandana non ha effetto se hai già Intelligenza è già +4 o più alta.
 
 \index[OggettiMagici]{Cappello del Camuffamento}\smallskip* \textbf{Cappello del Camuffamento}
-5000 mo, non comune, mentre indossi questo cappello, puoi usare due azioni per lanciare a volontà l'incantesimo camuffare sé stesso. L'incantesimo termina quando il cappello viene rimosso.
+5000 mo, non comune, mentre indossi questo cappello, puoi usare due azioni per lanciare a volontà l'incantesimo \emph{camuffare sé stesso}. L'incantesimo termina quando il cappello viene rimosso.
 
 \index[OggettiMagici]{Mantello dell'Aracnide}\smallskip* \textbf{Mantello dell'Aracnide}
 8000 mo, molto raro, mentre indossi questo elegante abito di seta nera intessuto con fili d'argento, ottieni i seguenti benefici:
@@ -21667,39 +21665,38 @@ Puoi muoverti verso l'alto, il basso e lungo superfici verticali e a testa in gi
 \item
 Non puoi essere catturato da alcuna sorta di ragnatela e ti muovi attraverso le ragnatele come fossero terreno difficile.
 \item
-Puoi usare due azioni per lanciare l'incantesimo ragnatela (DC del Tiro Salvezza 15). La ragnatela creata dall'incantesimo riempie il doppio della sua normale area. Una volta usata, questa proprietà della Mantello non può essere usata di nuovo fino alla prossima alba.
+Puoi usare due azioni per lanciare l'incantesimo \emph{ragnatela} (DC del Tiro Salvezza 15). La ragnatela creata dall'incantesimo riempie il doppio della sua normale area. Una volta usata, questa proprietà della Mantello non può essere usata di nuovo fino alla prossima alba.
 \end{itemize}
 
 \index[OggettiMagici]{Mantella del Ciarlatano}\smallskip* \textbf{Mantella del Ciarlatano}
-8000 mo, raro, mentre indossi questa mantella che odora lievemente di zolfo, puoi usarla per lanciare l'incantesimo porta dimensionale con due azioni. La proprietà di questa mantella non può essere usata di nuovo fino all'alba. Quando scompari, ti lasci alle spalle una nube di fumo, e riappari alla tua destinazione all'interno di una simile nube di fumo. Questo fumo oscura leggermente lo spazio che hai lasciato e quello dove riappari, e si dissipa alla fine del tuo prossimo round. Un vento leggero o più forte disperde il fumo.
+8000 mo, raro, mentre indossi questa mantella che odora lievemente di zolfo, puoi usarla per lanciare l'incantesimo \emph{porta dimensionale} con due azioni. La proprietà di questa mantella non può essere usata di nuovo fino all'alba. Quando scompari, ti lasci alle spalle una nube di fumo e riappari alla tua destinazione all'interno di una simile nube di fumo. Questo fumo oscura leggermente lo spazio che hai lasciato e quello dove riappari e si dissipa alla fine del tuo prossimo round. Un vento leggero o più forte disperde il fumo.
 
 \index[OggettiMagici]{Mantello di Distorsione}\smallskip* \textbf{Mantello di Distorsione}
 60000 mo, raro, mentre indossi questa Mantello, essa proietta un'illusione che ti fa apparire come se stessi in un punto vicino alla tua reale posizione, facendo sì che tutte le creature abbiano -1d6 ai Tiri per Colpire contro di te. Se subisci danni, la proprietà cessa di funzionare fino all'inizio del tuo prossimo round. Questa proprietà è soppressa mentre sei inabile, intralciato o altrimenti impossibilitato a muoverti.
 
 \index[OggettiMagici]{Mantello degli Elfi}\smallskip* \textbf{Mantello degli Elfi}
-5000 mo, non comune, mentre indossi questo Mantello tirando su il cappuccio, le prove di Consapevolezza effettuate per notarti hanno -1d6, e hai +1d6 alle prove di Furtività effettuate per nasconderti. Tirare su o giù il cappuccio richiede due azioni.
+5000 mo, non comune, mentre indossi questo Mantello tirando su il cappuccio, le prove di Consapevolezza effettuate per notarti hanno -1d6, e hai +1d6 alle prove di Furtività effettuate per nasconderti. Tirare su o giù il cappuccio richiede due Azioni.
 
 \index[OggettiMagici]{Mantello della Manta}\smallskip* \textbf{Mantello della Manta}
-6000 mo, non comune, mentre indossi questa Mantello con il cappuccio tirato su, puoi respirare sott'acqua e hai velocità di nuoto 18 metri. Tirare su o giù il cappuccio richiede 1 Azione.
+6000 mo, non comune, mentre indossi questa Mantello con il cappuccio tirato su, puoi respirare sott'acqua e hai velocità di nuoto 18 metri. Tirare su o giù il cappuccio richiede 2 Azioni.
 
 \index[OggettiMagici]{Mantello del Pipistrello}\smallskip* \textbf{Mantello del Pipistrello}
-6000 mo, raro, mentre indossi questa Mantello, hai +1d6 alle prove di Destrezza. In aree di luce fioca o oscurità, puoi afferrare i bordi della Mantello con entrambe le mani e usarla per muoverti a velocità di volo 12 metri. Se dovessi smettere di tenere i bordi della Mantello mentre voli a questo modo, perdi la tua velocità di volo. Mentre indossi la Mantello in un'area di luce fioca o oscurità, puoi usare la tua Azione per lanciare metamorfosi su di te, trasformandoti in un pipistrello. Quando sei in forma di pipistrello, mantieni i tuoi punteggi di Intelligenza, Saggezza e Carisma. La Mantello non può essere impiegata di nuovo in questo modo fino alla prossima alba.
+6000 mo, raro, in aree di luce fioca o oscurità, puoi afferrare i bordi della Mantello con entrambe le mani e usarla per muoverti a velocità di volo 12 metri. Se dovessi smettere di tenere i bordi del Mantello mentre voli a questo modo, perdi la tua velocità di volo. Mentre indossi la Mantello in un'area di luce fioca o oscurità, puoi usare due Azioni per lanciare \emph{metamorfosi} su di te, trasformandoti in un pipistrello. Quando sei in forma di pipistrello, mantieni i tuoi punteggi di Intelligenza, Saggezza e Carisma. La Mantello non può essere impiegata di nuovo in questo modo fino alla prossima alba.
 
 \index[OggettiMagici]{Mantello di Protezione}\smallskip* \textbf{Mantello di Protezione}
 rarità varia, costo vario, mentre indossi questa Mantello, ottieni un bonus di +1 (non comune, 3500 mo),+2 (raro, 6000 mo),+3 (molto raro, 15000 mo) alla Difesa e ai Tiri Salvezza.
 
 \index[OggettiMagici]{Mantello della Resistenza agli Incantesimi}\smallskip* \textbf{Mantello della Resistenza agli Incantesimi}
-non comune, 3000 mo, mentre indossi questa Mantello, hai +2 ai Tiri Salvezza contro incantesimi.
-
+non comune, 3000 mo, mentre indossi questa Mantello, hai +1 ai Tiri Salvezza contro incantesimi.
 
 \smallskip* \textbf{Mantello della velenosità}\index[OggettiMagici]{Mantello della velenosità}
-raro, 4000 mo, questo mantello è di solito fatto di lana, sebbene possa essere anche di pelle. L’indumento può essere manipolato senza pericolo, ma appena viene indossato causa 5d6 di danno da veleno. Ogni round successivo può essere fatto un Tiro Salvezza su Tempra DC 21 per ridurre di 1d6 il danno fino ad un minimo di 1d6 di danno rimanente. Il mantello può essere rimosso soltanto con un incantesimo Rimuovi Maledizione o desiderio.
+raro, 4000 mo, questo mantello è di solito fatto di lana, sebbene possa essere anche di pelle. L’indumento può essere manipolato senza pericolo, ma appena viene indossato causa 5d6 di danno da veleno. Ogni round successivo può essere fatto un Tiro Salvezza su Tempra DC 21 per ridurre ad 1d6 il danno. Il mantello può essere rimosso soltanto con un incantesimo \emph{Rimuovi Maledizione} o \emph{Desiderio}.
 
 \smallskip* \textbf{Occhi della pietrificazione}\index[OggettiMagici]{Occhi della pietrificazione}
-queste due lenti di cristallo magico si sovrappongono alle pupille degli occhi. Quando una creatura mette queste lenti, viene immediatamente pietrificata senza Tiro Salvezza. Circa un quarto di questi oggetti (probabilità del 25\%) consentono invece a chi le mette di pietrificare con lo sguardo, ma in questo caso le vittime hanno diritto a un Tiro Salvezza. Non è possibile combinare due tipi di lenti magiche.
+queste due lenti di cristallo magico si sovrappongono alle pupille degli occhi. Quando una creatura mette queste lenti, viene immediatamente pietrificata senza Tiro Salvezza. Circa un quarto di questi oggetti (probabilità del 25\%) consentono invece a chi le mette di pietrificare con lo sguardo, ma in questo caso le vittime hanno diritto a un Tiro Salvezza DC 17. Non è possibile combinare due tipi di lenti magiche.
 
 \index[OggettiMagici]{Occhi Affascinanti}\smallskip* \textbf{Occhi Affascinanti}
-3000 mo, non comune, mentre indossi queste lenti di cristallo davanti agli occhi, puoi spendere 1 carica con due azioni per lanciare l'incantesimo charme su persone (DC del Tiro Salvezza 15) su di un umanoide entro 9 metri da te, purché tu e il bersaglio vi possiate vedere. Le lenti hanno 3 cariche e recuperano 1 carica di quelle spese ogni giorno all'alba.
+3000 mo, non comune, mentre indossi queste lenti di cristallo davanti agli occhi, puoi spendere 1 carica con due azioni per lanciare l'incantesimo \emph{charme su persone} (DC del Tiro Salvezza 15) su di un umanoide entro 9 metri da te, purché tu e il bersaglio vi possiate vedere. Le lenti hanno 3 cariche e recuperano 1 carica di quelle spese ogni giorno all'alba.
 
 \index[OggettiMagici]{Occhi dell'Aquila}\smallskip* \textbf{Occhi dell'Aquila}
 4500 mo, non comune, mentre indossi queste lenti di cristallo davanti agli occhi, hai +1d6 alle prove di Consapevolezza basate sulla vista. In condizioni di visibilità limpida, puoi distinguere i dettagli anche di creature e oggetti molto distanti delle dimensioni di 50 centimetri.
@@ -21708,36 +21705,36 @@ queste due lenti di cristallo magico si sovrappongono alle pupille degli occhi. 
 2500 mo, non comune, mentre indossi queste lenti di cristallo davanti agli occhi, puoi vedere molto meglio del normale fino a una distanza di 30 centimetri. Hai +1d6 alle prove di Consapevolezza basata su vista mentre perlustri un'area o studi un oggetto a distanza ravvicinata.
 
 \index[OggettiMagici]{Occhiali da Notte}\smallskip* \textbf{Occhiali da Notte}
-1500 mo, non comune, mentre indossi queste lenti scure, possiedi la scurovisione, con una gittata di 18 metri. Se già possiedi la scurovisione, indossare questi occhiali ne aumenta la gittata di 18 metri.
+3500 mo, non comune, mentre indossi queste lenti scure, possiedi la scurovisione, con una gittata di 9 metri. Se già possiedi la scurovisione, indossare questi occhiali ne aumenta la gittata di 18 metri.
 
 \smallskip* \textbf{Tunica del Mimetismo}\index[OggettiMagici]{Tunica del Mimetismo}
-1500 mo, raro, quando indossa questa tunica, un personaggio capisce immediatamente il suo potere. Una tunica del mimetismo permette al personaggio di confondersi con l’ambiente circostante, qualunque esso sia, e di nascondersi. Ha +1d6 nelle prove di Furtività per nascondersi nelle ombre. Il possessore può assumere a volontà l'aspetto di un altro umanoide, come per l'incantesimo Alterare se stesso (Cambio Aspetto). In questo caso, gli amici del possessore e chi lo conosce molto bene sono istintivamente consci della sua vera identità.
+2500 mo, raro, quando indossa questa tunica, un personaggio capisce immediatamente il suo potere. Una tunica del mimetismo permette al personaggio di confondersi con l’ambiente circostante, qualunque esso sia, e di nascondersi. Ha +1d6 nelle prove di Furtività per nascondersi nelle ombre. Il possessore può assumere a volontà l'aspetto di un altro umanoide, come per l'incantesimo \emph{Alterare se stesso} (Cambio Aspetto). In questo caso, gli amici del possessore e chi lo conosce molto bene sono istintivamente consci della sua vera identità.
 
 \smallskip* \textbf{Tunica dell’Arcimago}\index[OggettiMagici]{Tunica dell’Arcimago}
 8000 mo, leggendario, questo abito apparentemente normale può essere giallo (01-45 su 1d100), grigio (46-75) o nero (76-00). Può essere indossato solo da un incantatore con Competenza Magica 2 o superiore. Conferisce le seguenti bonus:
 
-- Difesa 15
+- Difesa base 15
 
 - +2 ai Tiri Salvezza contro incantesimi e oggetti magici
 
 \index[OggettiMagici]{Tunica dei Colori Scintillanti}\smallskip* \textbf{Tunica dei Colori Scintillanti}
-6000 mo, molto raro, questa vestaglia ha 3 cariche, e recupera 1d3 cariche spese ogni giorno all'alba. Quando la indossi, puoi usare due azioni e spendere 1 carica per far sì che l'indumento produca una trama mutevole di colori abbaglianti fino al termine del tuo prossimo round. Durante questo periodo, la vestaglia emana luce intensa in un raggio di 9 metri e luce fioca per ulteriori 9 metri. Le creature che ti vedono hanno -1d6 ai Tiri per Colpire contro di te. Inoltre, qualsiasi creatura sotto la luce intensa e che ti veda quando il potere della vestaglia viene attivato, deve superare un Tiri Salvezza su Volontà con DC 17 o restare stordita fino al termine dell'effetto.
+6000 mo, molto raro, questa vestaglia ha 3 cariche, e recupera 1 carica spesa ogni giorno all'alba. Quando la indossi, puoi usare due azioni e spendere 1 carica per far sì che l'indumento produca una trama mutevole di colori abbaglianti fino al termine del tuo prossimo round. Durante questo periodo, la vestaglia emana luce intensa in un raggio di 9 metri e luce fioca per ulteriori 9 metri. Le creature che ti vedono hanno -1d6 ai Tiri per Colpire contro di te. Inoltre, qualsiasi creatura sotto la luce intensa e che ti veda quando il potere della vestaglia viene attivato, deve superare un Tiri Salvezza su Volontà con DC 17 o restare stordita fino al termine dell'effetto.
 
 \smallskip* \textbf{Tunica dell’Indebolimento}\index[OggettiMagici]{Tunica dell’Indebolimento}
-5000 mo, raro, una tunica dell’indebolimento sembra un abito magico di un altro tipo. Appena un personaggio la indossa, la sua Forza e la sua Intelligenza scendono a -3 ed egli perde la capacità di lanciare incantesimi. La tunica può essere rimossa facilmente, ma per ripristinare gli attributi occorre Rimuovi Maledizione seguito da guarigione.
+5000 mo, raro, una tunica dell’indebolimento sembra un abito magico di un altro tipo. Appena un personaggio la indossa, la sua Forza e la sua Intelligenza scendono a -3 ed egli perde la capacità di lanciare incantesimi. La tunica può essere rimossa facilmente, ma per ripristinare gli attributi occorre \emph{Rimuovi Maledizione} seguito da \emph{guarigione}.
 
 \index[OggettiMagici]{Tunica degli Occhi}\smallskip* \textbf{Tunica degli Occhi}
-30000 mo, raro, questa vestaglia è adornata da un disegno di occhi. Mentre la indossi, ottieni i seguenti benefici:
+30000 mo, leggendario, questa vestaglia è adornata da un disegno di occhi. Mentre la indossi, ottieni i seguenti benefici:
 
 - La vestaglia ti permette di vedere in tutte le direzioni e hai +1d6 alle prove di Consapevolezza basate sulla vista.
 
-- Hai scurovisione con una portata di 36 metri.
+- Hai scurovisione con una portata di 18 metri.
 
 - Puoi vedere creature e oggetti invisibili, oltre che nel Piano Etereo, fino a una gittata di 36 metri.
 
 Gli occhi della vestaglia non possono essere chiusi o distolti, e mentre indossi questa vestaglia non viene mai considerato a occhi chiusi o distolti.
 
-L'incantesimo luce lanciato sulla vestaglia o l'incantesimo luce diurna lanciato entro 1 metro dalla vestaglia ti rendono accecato per 1 minuto. Al termine di ciascun tuo round, puoi effettuare un tiro Salvezza su Tempra (DC 13 per luce o DC 17 per luce diurna), ponendo fine alla condizione accecato in caso lo superi.
+L'incantesimo \emph{luce} lanciato sulla vestaglia o l'incantesimo luce diurna lanciato entro 1 metro dalla vestaglia ti rendono accecato per 1 minuto. Al termine di ciascun tuo round, puoi effettuare un tiro Salvezza su Tempra (DC 15 per luce o DC 19 per luce diurna), ponendo fine alla condizione accecato in caso lo superi.
 
 \index[OggettiMagici]{Tunica degli Oggetti Utili}\smallskip* \textbf{Tunica degli Oggetti Utili}
 300 mo, non comune, mentre indossi questa vestaglia ricoperta da toppe di varie forme e colori, puoi usare due azioni per staccare una delle toppe, facendola diventare l'oggetto o la creatura che rappresenta. Quando l'ultima toppa viene rimossa, la vestaglia diventa un indumento normale. La vestaglia possiede due di ciascuna delle seguenti toppe:
@@ -21773,7 +21770,7 @@ Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 t
 \medskip
 
 \index[OggettiMagici]{Tunica delle Stelle}\smallskip* \textbf{Tunica delle Stelle}
-60000 mo, raro, mentre indossi questa vestaglia, ottieni un bonus di +1 ai Tiri Salvezza. Sei stelle, posizionate sulla parte superiore frontale della vestaglia, sono più grosse delle altre. Mentre indossi questa vestaglia, puoi usare due azioni per estrarre una delle stelle e usarla per lanciare Dardo arcano. Ogni giorno al tramonto, la stella rimossa ricompare sulla vestaglia. Mentre indossi la vestaglia, puoi usare due azioni per entrare nel Piano Astrale assieme a tutto ciò che indossi o trasporti. Resterai lì fino a quando userai due azioni per ritornare al piano in cui ti trovavi prima. Ricompari nell'ultimo spazio da te occupato, o se quello spazio è occupato, nello spazio non occupato più vicino.
+60000 mo, raro, mentre indossi questa vestaglia, ottieni un bonus di +1 ai Tiri Salvezza. Sei stelle, posizionate sulla parte superiore frontale della vestaglia, sono più grosse delle altre. Mentre indossi questa vestaglia, puoi usare 1 Azione per estrarre una delle stelle e usarla per lanciare Dardo arcano (1d4+1). Ogni giorno al tramonto, la stella rimossa ricompare sulla vestaglia. Mentre indossi la vestaglia, puoi usare due azioni per entrare nel Piano Astrale assieme a tutto ciò che indossi o trasporti. Resterai lì fino a quando userai due azioni per ritornare al piano in cui ti trovavi prima. Ricompari nell'ultimo spazio da te occupato, o se quello spazio è occupato, nello spazio non occupato più vicino.
 
 \subsection{Manuali, Tomi, Libri}
 
@@ -21797,7 +21794,7 @@ Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. 
 \end{tabular}
 
 \smallskip* \textbf{Manuale della Buona salute}\index[OggettiMagici]{Manuale della buona salute}
-15000 mo, molto raro, questo tomo contiene istruzioni per rafforzare il corpo e la salute. Per leggere il libro occorrono 24 ore in un minimo di 3 giorni. Le sue istruzioni andranno seguite per 4 settimane, al termine delle quali il lettore guadagnerà permanentemente un punto di Costituzione. Una volta letto, il libro perde il suo potere magico e il lettore non potrà mai più usarne uno simile.
+15000 mo, molto raro, questo tomo contiene istruzioni per rafforzare il corpo e la salute. Per leggere il libro occorrono 24 ore in un minimo di 3 giorni. Le sue istruzioni andranno seguite per 4 settimane, al termine delle quali il lettore guadagnerà permanentemente un punto di Costituzione. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo.
 
 \smallskip* \textbf{Manuale della Velocità di azione}\index[OggettiMagici]{Manuale della velocità di azione}
 15000 mo, molto raro, questo tomo contiene esercizi per l'equilibrio e la coordinazione. Funziona come un manuale della buona salute, ma fa ottenere un punto di Destrezza.
@@ -21806,13 +21803,16 @@ Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. 
 15000 mo, molto raro, questo tomo funziona esattamente come il manuale della salute, ma conferisce al lettore un punto di Forza.
 
 \index[OggettiMagici]{Tomo dell'Autorità e dell'Influenza}\smallskip* \textbf{Tomo dell'Autorità e dell'Influenza}
-15000 mo, molto raro, questo libro contiene indicazioni su come influenzare e affascinare il prossimo, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Carisma aumenta di 1. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.
+15000 mo, molto raro, questo libro contiene indicazioni su come influenzare e affascinare il prossimo, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Carisma aumenta di 1. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo.
+
 
 \index[OggettiMagici]{Tomo della Comprensione}\smallskip* \textbf{Tomo della Comprensione}
-15000 mo, molto raro, questo libro contiene esercizi di intuizione e discernimento, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Saggezza aumenta di 1, e così fa il tuo punteggio massimo per quella caratteristica. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.
+15000 mo, molto raro, questo libro contiene esercizi di intuizione e discernimento, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Saggezza aumenta di 1, e così fa il tuo punteggio massimo per quella caratteristica. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo.
+
 
 \index[OggettiMagici]{Tomo del Pensiero Limpido}\smallskip* \textbf{Tomo del Pensiero Limpido}
-15000 mo, molto raro, questo libro contiene esercizi di memoria e logica, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Intelligenza aumenta di 1. Poi il manuale perde la sua magia, per recuperarla dopo un secolo.
+15000 mo, molto raro, questo libro contiene esercizi di memoria e logica, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Intelligenza aumenta di 1. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo.
+
 
 \subsection{Oggetti Magici Vari}
 
@@ -21820,12 +21820,12 @@ Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. 
 500 mo, raro, questo liquido dolce può essere usato per purificare l’acqua (anche per desalinizzare quella di mare) e per trasformare veleni, acidi e altri liquidi nocivi in una bevanda potabile. Inoltre, l’acqua purificatrice neutralizza l'efficacia di ogni altra pozione. Questa pozione può trasformare fino a 1000 metri cubi di quasi tutti i liquidi a base d’acqua, ma solo 10 metri cubi di acido. Gli effetti sono permanenti e un liquido purificato non può essere deteriorato o contaminato di nuovo per un periodo di 5d4 round.
 
 \index[OggettiMagici]{Ali del Volo}\smallskip* \textbf{Ali del Volo}
-54000 mo, leggendario, mentre indossi questo Mantello, puoi usare due azioni per pronunciare la sua parola di comando, trasformandola in un paio di ali da pipistrello o da uccello che spuntano dalla tua schiena per 1 ora o finché non ripeti la parola di comando con un'Azione. Le ali ti forniscono velocità di volo 18 metri. Quando scompaiono, non potrai più usarle fino all'alba del giorno dopo ore.
+54000 mo, leggendario, mentre indossi questo Mantello, puoi usare due azioni per pronunciare la sua parola di comando, trasformandola in un paio di ali da pipistrello o da uccello che spuntano dalla tua schiena per 1 ora o finché non ripeti la parola di comando con un'Azione. Le ali ti forniscono velocità di volo 18 metri. Quando scompaiono, non potrai più usarle fino all'alba del giorno dopo.
 
 \index[OggettiMagici]{Ampolla di Ferro}\smallskip* \textbf{Ampolla di Ferro}
 35000 mo, leggendario, questa bottiglia di ferro ha un tappo di ottone. Puoi usare due azioni per pronunciare la parola di comando dell'ampolla, prendendo come bersaglio una creatura visibile entro 18 metri da te. Se il bersaglio è nativo di un piano di esistenza diverso da quello in cui ti trovi, deve superare un Tiro Salvezza su Volontà con DC 21 o venir intrappolato nell'ampolla. Se il bersaglio è già stato intrappolato nell'ampolla, riceve +1d6 al Tiro Salvezza. Una volta intrappolata, la creatura rimarrà nell'ampolla finché non sarà liberata. L'ampolla può contenere solo una creatura alla volta. Una creatura intrappolata nell'ampolla non ha bisogno di respirare, mangiare o dormire e non invecchia. Puoi usare due azioni per rimuovere il tappo dell'ampolla e liberare la creatura che contiene. La creatura sarà amichevole verso di te e i tuoi compagni per 1 ora e obbedirà ai vostri comandi per quella durata. Se non le impartisci comandi o gliene dai uno che provocherebbe la sua morte, si difenderà ma non compirà altre azioni. Al termine della durata, la creatura agirà in base al suo normale comportamento
 
-L'incantesimo identificare rivela che una creatura si trova all'interno dell'ampolla, ma l'unico modo per determinare che sorta di creatura sia è di aprire l'ampolla. Un'ampolla di ferro appena scoperta potrebbe già contenere una creatura scelta dal Narratore o determinata casualmente.
+L'incantesimo \emph{identificare} rivela che una creatura si trova all'interno dell'ampolla, ma l'unico modo per determinare che sorta di creatura sia è di aprire l'ampolla. Un'ampolla di ferro appena scoperta potrebbe già contenere una creatura scelta dal Narratore o determinata casualmente.
 
 \medskip
 
@@ -21849,7 +21849,7 @@ d100 &Contiene\\
 92-95 &Salamandra\\
 96 &Angelo Solar\\
 97-99 &Succube/Incubo\\
-100 &Xorn\\
+100 &La Topi\\
 \end{tabular}
 \medskip
 
@@ -21899,15 +21899,15 @@ La seconda parola di comando fa sì che la scatola si dispieghi in una nave lung
 
 La terza parola di comando fa sì che la barca pieghevole ritorni a piegarsi nella scatola, purché nessuna creatura sia a bordo. Qualsiasi oggetto a bordo che non possa entrare nella scatola resta fuori della scatola mentre questa si piega. Qualsiasi oggetto a bordo che possa entrare nella scatola, vi entra.
 
-\smallskip* \textbf{Bacinella dell’annegamento}: questa bacinella maledetta ha l'apparenza di un'anfora elementale dell'acqua. Tuttavia, invece di evocare un elementale, sprigiona un globo d’acqua che avvolge la testa del personaggio. Questi affoga in 2d4 round a meno che non riesca in un Tiro Salvezza contro incantesimi. L'acqua è “appiccicosa” e può essere rimossa solo con la magia (dispersione della magia o distruggere acqua).
+\smallskip* \textbf{Bacinella dell’annegamento}: questa bacinella maledetta ha l'apparenza di un'anfora elementale dell'acqua. Tuttavia, invece di evocare un elementale, sprigiona un globo d’acqua che avvolge la testa del personaggio. Questi affoga in 2d4 round a meno che non riesca in un Tiro Salvezza Riflessi DC 19. L'acqua è “appiccicosa” e può essere rimossa solo con la magia (\emph{Dissolvi magia} o \emph{distruggere acqua}).
 
 \index[OggettiMagici]{Battaglio dell'Apertura}\smallskip* \textbf{Battaglio dell'Apertura}
-1500 mo, raro, questo tubo metallico cavo misura circa 30 centimetri di lunghezza e pesa 0,5 chili. Puoi batterlo con due azioni, puntandolo verso un oggetto entro 36 metri che può essere aperto, come una porta o una serratura. Il battaglio emette un suono limpido, e una serratura o laccio dell'oggetto si apre a meno che il suono sia impedito dal raggiungere l'oggetto. Se non rimangono serrature o lacci da aprire, l'oggetto si apre da sé.
+1500 mo, raro, questo tubo metallico cavo misura circa 30 centimetri di lunghezza e pesa 0,5 chili. Puoi batterlo con due azioni, puntandolo verso un oggetto entro 36 metri che può essere aperto, come una porta o una serratura non magica. Il battaglio emette un suono limpido e una serratura o chiusura dell'oggetto si apre a meno che il suono sia impedito dal raggiungere l'oggetto. Se non rimangono serrature o lacci da aprire, l'oggetto si apre da sé.
 
 Il battaglio può essere usato dieci volte. Dopo la decima, si spacca e diventa inutilizzabile.
 
 \smallskip* \textbf{Balestra dei Dardi Arcani}\index[OggettiMagici]{Balestra dei Dardi Arcani} questa balestra piccola ad una mano ha la capacità di manifestare un dardo magico.
-Spendendo 2 Azioni è possibile sparare un dardo magico come se fosse un singolo Dardo arcano.
+Spendendo 1 Azione è possibile sparare un dardo magico come se fosse un singolo Dardo arcano.
 
 \smallskip* \textbf{Battaglio del Cannibalismo}\index[OggettiMagici]{Battaglio del Cannibalismo}
 questo oggetto sembra una Battaglio dell'apertura. Funziona come tale per il primo round di uso (ed ha 1d4x10 cariche per questo scopo). Tuttavia, al secondo tintinnio tutte le creature entro 18 m devono riuscire in un Tiro Salvezza su Volontà DC 21 o cadere preda di una fame vorace, attaccando il più vicino umanoide per ucciderlo e divorarlo. A round alterni è permesso un nuovo Tiro Salvezza. Se non sono presenti umanoidi, le creature affette attaccheranno le altre creature presenti.
@@ -21921,7 +21921,6 @@ Le Borse Conservanti si suddividono in 4 tipi (Tipo I, II, III; IV) a seconda da
 Se la borsa è sovraccarica, perforata o strappata, la borsa si rompe ed è distrutta e il suo contenuto sparpagliato per il Piano Astrale. Se la borsa viene rivoltata, i suoi contenuti vengono espulsi, illesi, ma la borsa dev'essere rimessa nel verso giusto prima che possa essere riutilizzata. Le creature che respirano, piazzate nella borsa, possono sopravvivervi per un numero di minuti pari a 10 diviso il numero di creature (minimo 1 minuto), dopodiché inizieranno a soffocare.
 
 Piazzare una borsa conservante all'interno dello spazio extradimensionale generato da uno zainetto pratico, un buco portatile o simile oggetto, distrugge entrambi gli oggetti e apre un portale verso il Piano Astrale. Il portale origina nel punto in cui un oggetto è stato posto all'interno dell'altro. Qualsiasi creatura entro 3 metri dal portale viene risucchiata al suo interno e ricompare in un posto a caso sul Piano Astrale, poi il portale si richiude. Il portale è a senso unico e non può essere riaperto.
-
 
 Alcuni incantatori preferiscono creare Bauli Conservanti, che funzionano nell'identico modo delle borse conservanti.
 

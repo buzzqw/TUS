@@ -640,12 +640,15 @@ aggiornata versione POD 2024/09/04
 
 aggiornata versione POD 2024/09/09
 
-**0.96a** aggiornato Attacco Turbinante, aggiunto incantesimo Lacrima di Ljust, gli elfi prendono l'abilita' Concentrato, i nani prendono l'abilita' Muro Mentale, aggiunti dettagli in armatura e scudi, chiarimenti minori su tesori,  dettagli su penalita' data da corsa e caria, 
+**0.96** aggiornato Attacco Turbinante, aggiunto incantesimo Lacrima di Ljust, gli elfi prendono l'abilita' Concentrato, i nani prendono l'abilita' Muro Mentale, aggiunti dettagli in armatura e scudi, chiarimenti minori su tesori,  dettagli su penalita' data da corsa e caria
 
+aggiornata versione POD 2024/09/11
+
+**0.97** rilettura oggetti magici anelli - cappelli - manuali - oggetti magici vari - 
 
 - aggiunti \label{} fino a piani
 
-Interdizione alla Morte
+Bottiglia dell'Efreeti
 
 Aggiungere immagini:
 
