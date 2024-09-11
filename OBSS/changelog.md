@@ -640,7 +640,7 @@ aggiornata versione POD 2024/09/04
 
 aggiornata versione POD 2024/09/09
 
-**0.96a** aggiornato Attacco Turbinante, aggiunto incantesimo Lacrima di Ljust, gli elfi prendono l'abilita' Concentrato, i nani prendono l'abilita' Muro Mentale, aggiunti dettagli in armatura e scudi, chiarimenti minori su tesori,  
+**0.96a** aggiornato Attacco Turbinante, aggiunto incantesimo Lacrima di Ljust, gli elfi prendono l'abilita' Concentrato, i nani prendono l'abilita' Muro Mentale, aggiunti dettagli in armatura e scudi, chiarimenti minori su tesori,  dettagli su penalita' data da corsa e caria, 
 
 
 - aggiunti \label{} fino a piani
