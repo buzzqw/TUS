@@ -644,11 +644,11 @@ aggiornata versione POD 2024/09/09
 
 aggiornata versione POD 2024/09/11
 
-**0.97** rilettura oggetti magici anelli - cappelli - manuali - oggetti magici vari - 
+**0.97** rilettura descrizione oggetti magici,
 
 - aggiunti \label{} fino a piani
 
-Bottiglia dell'Efreeti
+Pietra Arcana
 
 Aggiungere immagini:
 
