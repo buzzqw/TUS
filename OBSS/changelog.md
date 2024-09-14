@@ -644,7 +644,7 @@ aggiornata versione POD 2024/09/09
 
 aggiornata versione POD 2024/09/11
 
-**0.97** rilettura descrizione oggetti magici,
+**0.97** rilettura descrizione oggetti magici, aggiornato zaino standard, 
 
 - aggiunti \label{} fino a piani
 
