@@ -644,7 +644,12 @@ aggiornata versione POD 2024/09/09
 
 aggiornata versione POD 2024/09/11
 
-**0.97** rilettura descrizione oggetti magici, aggiornato zaino standard, 
+**0.97** rilettura descrizione oggetti magici, aggiornato zaino standard
+
+aggiornata versione POD 2024/09/14
+
+**0.98** aggiornato livello rimuovi malattia, ristorare inferiore non rimuove le malattie, 
+
 
 - aggiunti \label{} fino a piani
 
