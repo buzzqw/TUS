@@ -648,7 +648,11 @@ aggiornata versione POD 2024/09/11
 
 aggiornata versione POD 2024/09/14
 
-**0.98** aggiornato livello rimuovi malattia, ristorare inferiore non rimuove le malattie, riscritta completamente l'ambientazione, riscritta cosmologia, riscritto yeru, 
+**0.98** aggiornato livello rimuovi malattia, ristorare inferiore non rimuove le malattie, riscritta completamente l'ambientazione, riscritta cosmologia, riscritto yeru
+
+aggiornata versione POD 2024/09/16
+
+**0.99a**
 
 
 - aggiunti \label{} fino a piani
