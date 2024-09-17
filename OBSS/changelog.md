@@ -652,7 +652,7 @@ aggiornata versione POD 2024/09/14
 
 aggiornata versione POD 2024/09/16
 
-**0.99a**
+**0.99a** aggiunto incantesimo chiudi portale, aggiornato capitolo Luoghi notevoli, aggiornato capitolo I Cicli millenari, aggiunta sezione Gli artefatti del vecchio mondo, 
 
 
 - aggiunti \label{} fino a piani
