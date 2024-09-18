@@ -656,7 +656,7 @@ aggiornata versione POD 2024/09/16
 
 aggiornata versione POD 2024/09/18
 
-0.99b layout, aggiornata abilita' Parata, aggiornato Colpo Preciso, chiarimenti su Usare un'arma da lancio mirando ad un avversario impegnato in combattimento, aggiunta abilita' Precisino, aggiunta abilita' Uno con l'arco, rimossa abilita' arciere a cavallo, 
+0.99b layout, aggiornata abilita' Parata, aggiornato Colpo Preciso, chiarimenti su Usare un'arma da lancio mirando ad un avversario impegnato in combattimento, aggiunta abilita' Precisino, aggiunta abilita' Uno con l'arco, rimossa abilita' arciere a cavallo, corretti alcuni oggetti magici, corrette indicazioni pozioni guaritrici e veleni in oggetti magici, 
 
 
 - aggiunti \label{} fino a piani
