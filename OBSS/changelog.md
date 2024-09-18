@@ -652,9 +652,11 @@ aggiornata versione POD 2024/09/14
 
 aggiornata versione POD 2024/09/16
 
-**0.99a** aggiunto incantesimo chiudi portale, aggiornato capitolo Luoghi notevoli, aggiornato capitolo I Cicli millenari, aggiunta sezione Gli artefatti del vecchio mondo, aggiunte proposte di avventure, migliorata parte di ambientazione, aggiunte informazioni su religione, aggiornato capitolo linque, aggiornato capitolo merci e monete, inserite note sulle regioni, rimosse le mappe di curyan e tyian dal manuale, 
+**0.99a** aggiunto incantesimo chiudi portale, aggiornato capitolo Luoghi notevoli, aggiornato capitolo I Cicli millenari, aggiunta sezione Gli artefatti del vecchio mondo, aggiunte proposte di avventure, migliorata parte di ambientazione, aggiunte informazioni su religione, aggiornato capitolo linque, aggiornato capitolo merci e monete, inserite note sulle regioni, rimosse le mappe di curyan e tyian dal manuale
 
-0.99b  
+aggiornata versione POD 2024/09/18
+
+0.99b layout, aggiornata abilita' Parata, aggiornato Colpo Preciso, chiarimenti su Usare un'arma da lancio mirando ad un avversario impegnato in combattimento, aggiunta abilita' Precisino, aggiunta abilita' Uno con l'arco, rimossa abilita' arciere a cavallo, 
 
 
 - aggiunti \label{} fino a piani

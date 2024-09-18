@@ -174,14 +174,14 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.99a} \fontsize{10}{12}\selectfont
+\def \versione {0.99b} \fontsize{10}{12}\selectfont
 
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
 
-\newcommand\invisiblesection[1]{%
- \refstepcounter{section}%
- \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
+\newcommand\invisiblesection[1]{
+ \refstepcounter{section}
+ \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}
  \sectionmark{#1}}
 
 %Define centered and automatically spaced columns for tabularx.
@@ -200,8 +200,24 @@ Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogn
 
 Mai rinunciare ai tuoi desideri, persevera fino ad renderli reali.
 
-\vspace{\fill}
+
+
+
+\vfill
+
+
 \begin{center}\textbf{\versione} - \today\end{center}
+
+\vspace{1cm}
+
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}
+\begin{center}
+	Non temere l'ignoto, affrontalo con rispetto.
+\end{center}
+\end{tcolorbox}\end{changemargin}
+
+
 \thispagestyle{empty}
 
 
@@ -1789,6 +1805,8 @@ Il \textbf{Tiro Salvezza su Riflessi} indica quanto si è agili e pronti per evi
 Quando viene chiesto un Tiro Salvezza significa fare una prova sulla Competenza Attiva richiesta, possa essere Volontà, Tempra o Riflessi.
 La prova si andrà ad eseguire tirando 3d6 + valore della Competenza Attiva richiesta ovvero il punteggio nel Tiro Salvezza su Volontà, Riflessi o Tempra + il valore della Caratteristica collegata alla tipologia Competenza Attiva (Saggezza, Destrezza o Costituzione) + Abilità + bonus magici (oggetti che influenzano il Tiro Salvezza) e modificatori vari presenti.
 
+\medskip
+
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tiri Salvezza non standard]
 E' possibile che vengano richiesti dei Tiri Salvezza con modificatori diversi, ovvero un Tiro Salvezza su Tempra con modificatore Forza oppure un Tiro Salvezza su Volontà con modificatore Carisma. Sarà il Narratore a dirvi quando si applica un modificatore diverso.
@@ -2003,9 +2021,9 @@ Il livello di potere \textbf{percepito} dei personaggi in OBSS è inferiore a qu
 \subsection{Come Sopravvivere e Divertirsi}\index{Linee guida per i giocatori}\label{suggerimentigiocatori}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-- Ci vuole un piano.
+-\noindent Ci vuole un piano.
 
-- Da quando gli eroi hanno bisogno di piani? (Final Fantasy XIII)
+-\noindent Da quando gli eroi hanno bisogno di piani? (Final Fantasy XIII)
 
 \medskip
 
@@ -2073,7 +2091,9 @@ Non aver paura di discutere con gli altri personaggi, ma assicurati sempre non s
 %\smallskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-La candela accesa da entrambe le parti dura la metà. (Anonimo)
+\begin{center}
+	La candela accesa da entrambe le parti dura la metà. (Anonimo)
+\end{center}
 }\end{enfasi}\end{changemargin}
 
 %\begin{center}
@@ -2329,9 +2349,9 @@ Consiglio a tutti di leggere l'ottimo articolo di Lorenzo Bertini \href{https://
 Se vuoi prendere questi valori chiedilo al Narratore, sarà lui che ti dirà se in base alla situazione, urgenza, pericolosità di ciò che ti circonda riesci a prendere il punteggio. Mettersi a scassinare una porta in un dungeon chiedendo il 10 richiede un estremo sangue freddo ed incoscienza. Prendere il 10/14/18 non deve essere concesso per le prove di conoscenza.
 
 
-\subsubsection{Aiutare un Altro}\label{aiutarealtro}
+\subsubsection{Aiutare un Altro nelle Prove}\label{aiutarealtro}\index{Aiutare un altro nelle Prove}
 
-\index{Aiutare un altro} Si può aiutare un amico in una prova dandogli supporto e suggerimenti. L'aiutante deve effettuare la \textbf{medesima prova} con un bonus di +1d6, se ci riesce non ottiene effetti ma da un +1 alla prova del compagno. Se esegue un successo critico allora il bonus è di +2.
+Si può aiutare un amico in una prova dandogli supporto e suggerimenti. L'aiutante deve effettuare la \textbf{medesima prova} con un bonus di +1d6, se ci riesce non ottiene effetti ma da un +1 alla prova del compagno. Se esegue un successo critico allora il bonus è di +2.
 
 Più personaggi possono aiutare lo stesso personaggio; i bonus di questo tipo sono cumulabili fino ad un bonus pari ad un quarto della difficoltà da battere (es +6 nel caso di difficoltà 25).\index{Aiutare un altro}
 
@@ -2509,7 +2529,7 @@ La difficoltà dell prova di \textbf{Valutare}\index{Valutare} è in base alla r
 
 \subsection{Linguaggi}\index{Linguaggi}\hypertarget{linguaggi}{}\label{linguaggi}
 
-Nel mondo attuale c'è la lingua Comune, un insieme di idiomi comprensibili più o meno a chiunque, e le lingue delle razze \emph{nuove}.
+Nel mondo attuale c'è la lingua Comune, una costruita da insieme di idiomi comprensibile più o meno a chiunque e le lingue delle razze \emph{nuove}.
 
 Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto pari o superiore a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio.
 
@@ -3400,7 +3420,7 @@ Concedete un bonus o penalità ($\pm 1-2$) se non indicato diversamente) ogni qu
 \hline
 %\textbf{+1}		& 						& 		\\	
 %\hline
-\textbf{+2}		& Fiancheggia, pos. Sopraelevata, Attacca al spalle, Arma Lunga									& Copertura leggera\\
+\textbf{+2}		& Fiancheggia, Posizione Sopraelevata, Attacca al spalle, Arma Lunga									& Copertura leggera\\
 \hline
 \textbf{+4}		&						& Copertura media\\
 \hline
@@ -3449,7 +3469,7 @@ due armi che non mancheranno mai a nessuno sono i propri pugni e calci.
 
 Se non si ha preso la lista d'armi \emph{Pugno Vuoto} un pugno o calcio farà 1d2 + Forza di danno non letale. Solo con la Lista d'Armi Pugno Vuoto si diventa artisti marziali.
 
-\subsubsection{Aiutare un altro}\index{Aiutare}\label{aiutare}
+\subsubsection{Aiutare un altro in combattimento}\index{Aiutare in combattimento}\label{aiutare}
 
 si può aiutare un compagno ad attaccare o a difendersi negli scontri in mischia, distraendo o interferendo con l'avversario. Si può portare un attacco in mischia (1 Azione) contro un avversario che ha già ingaggiato battaglia con un proprio alleato.
 
@@ -3549,33 +3569,47 @@ Viceversa può prendere un -2 Difesa per alzare di +1 il Tiro per Colpire e quin
 
 Non si può togliere/aggiungere più di Competenza Armi/4 al Tiro per Colpire/Difesa, migliorare Difesa o TC non consuma Azioni. 
 
-Puoi invece usare una Azione per preparati meglio ai successivi attacchi degli avversari. Fino alla fine del tuo prossimo round hai un +2 alla Difesa.
+\subsubsection{Preparare la Difesa}\index{Preparare la Difesa}\label{preparareladifesa}\hypertarget{preparareladifesa}{}
+
+Puoi usare una Azione per preparati meglio ai successivi attacchi degli avversari. Fino all'inizio del tuo prossimo round hai un +2 alla Difesa.
+
+\subsubsection{Difesa totale} \index{Difesa totale}\label{difesatotale}
+
+costa 2 Azioni, se ti muovi il terreno risulta difficile, guadagni un +4 in Difesa.
+
+\subsubsection{Disingaggiare} \index{Disingaggiare}\label{disingaggiare}
+
+costa 1 Azione, ti sposti di 1 metro e non causi attacchi di opportunità.\index{Fare un passo}
 
 \subsubsection{Colpo Preciso} \index{Colpo Preciso}\label{colpopreciso}
 
-il giocatore, usando 2 Azioni, effettua un solo attacco (e non deve averne fatti nel round). Su questo singolo attacco ottiene un bonus di +2 al Tiro per Colpire.
+il giocatore, usando 2 Azioni, effettua un solo attacco (e non deve averne fatti nel round). Su questo singolo attacco ottiene un bonus di +1d4 al Tiro per Colpire.
 
 \subsubsection{Prendere la Mira (cecchino)} \index{Prendere la Mira (cecchino)}\label{cecchino}
 
-dedichi 2 Azioni a round a prendere la mira contro un obiettivo. Hai un bonus al Tiro per Colpire pari a +1 il primo round, +2 il secondo round ed infine nel terzo e ultimo round di Prendere la Mira +4. 
+dedichi 2 Azioni a round a prendere la mira contro un obiettivo. Hai un bonus al Tiro per Colpire pari a +1 il primo round, +2 il secondo round ed infine nel terzo e ultimo round di Prendere la Mira il bonus arriva a +4. 
 
 Non puoi usare Azioni di Movimento mentre prendi la mira.
 
 \subsubsection{Usare un'arma da lancio mirando ad un avversario impegnato in combattimento} \index{Arma da lancio contro avversario impegnato in combattimento}\label{usarearmalancioinmischia}
 
-non è facile prendere la mira corretta e non colpire qualcun'altro. Se il personaggio vuole colpire l'avversario (o comunque un obiettivo specifico) e non il compagno con cui combatte ha un -2 al Tiro per Colpire.
+non è facile prendere la mira corretta e non colpire qualcun'altro.
 
-Se invece l'obiettivo è dietro altre creature allora avrà una copertura data dalla differenza di taglie tra lui e le altre creature.
+Oltre le eventuali penalità della \hyperlink{copertura}{Copertura} (pag. \pageref{copertura}), -2 al Tiro per Colpire se i due contendenti sono della medesima taglia, si ha una penalità aggiuntiva di -2 al Tiro per Colpire.
 
-Vedi \hyperlink{copertura}{Copertura} (pag. \pageref{copertura}). Ogni creatura aggiuntiva, in linea, che \emph{copre} l'obiettivo aumenta di un grado la copertura fornita.
+Ogni creatura aggiuntiva, in linea, che \emph{copre} l'obiettivo aumenta di un grado la copertura fornita.
 
-Es. Se voglio colpire un avversario davanti ad un mio compagno (se fosse a fianco avrei il -2 al Tiro per Colpire come detto sopra) questo avversario ha \emph{copertura leggera} (+2 Difesa), se ho due compagni in fila e poi l'avversario da colpire questo avrà \emph{copertura media} (+4 Difesa), se sono 3 compagni allora la \emph{copertura sarà completa} (+8 Difesa).
+Es. Se voglio colpire un avversario coperto da un mio compagno oltre alla penalità di -2 al Tiro per Colpire perché è in combattimento con qualcuno questo avversario ha \emph{copertura leggera} (+2 Difesa), se ho due compagni in fila e poi l'avversario da colpire questo avrà \emph{copertura media} (+4 Difesa), se sono 3 compagni allora la \emph{copertura sarà completa} (+8 Difesa).
 
-Se chi si deve colpire è di 2 o più taglie maggiore tra le creatura coinvolte nella copertura queste penalità non si applicano. In caso di Fallimento Critico nel Tiro per Colpire si colpisca una creatura che dava copertura o chi era a fianco dell'obbiettivo.
+Se chi si deve colpire è di 2 o più taglie maggiore tra le creatura coinvolte nella copertura queste penalità non si applicano. In caso di Fallimento Critico nel Tiro per Colpire si colpisca casualmente una creatura che dava copertura o chi era a fianco dell'obbiettivo.
+
+Vedi anche Abilità \hypertarget{precisino}{Precisino} (pag. \pageref{precisino}).
 
 \subsubsection{Usare un'arma da lancio sotto minaccia} \index{Usare un'arma da lancio sotto minaccia}\label{usarearmalanciosottominaccia}
 
 usare un'arma da lancio come arco, balestra o pugnale (che si vuole lanciare) mentre si è minacciati in mischia impone una penalità di -1d6 al Tiro per Colpire.
+
+Vedi anche Abilità \hyperlink{unoconlarco}{Uno con l'arco} (pag. \pageref{unoconlarco}.)
 
 \begin{center}
 	\includegraphics[width=0.65\linewidth]{immagini/angelospadone.png}
@@ -3607,14 +3641,6 @@ Es. Spada Lunga per una creatura media può causare 1d8 ad una mano o 1d10 a due
 Se l'arma deve essere tenuta a due mani perché troppo grande per la propria taglia questo modificatore non si considera (es. uno spadone a due mani per una creatura di taglia media).
 
 Il valore di EDX se diverso dal massimo danno dell'arma aumenta di 2 (Katana causerà 2d6 di danno ed avrà ED11) quando usata a due mani.
-
-\subsubsection{Difesa totale} \index{Difesa totale}\label{difesatotale}
-
-costa 2 Azioni, se ti muovi il terreno risulta difficile, guadagni un +4 in Difesa.
-
-\subsubsection{Disingaggiare} \index{Disingaggiare}\label{disingaggiare}
-
-costa 1 Azione, ti sposti di 1 metro e non causi attacchi di opportunità.\index{Fare un passo}
 
 \subsubsection{Combattere al buio}\index{Combattere al Buio}
 
@@ -4690,6 +4716,18 @@ La \textbf{seconda volta} che prendi questa Abilità guadagni un \hyperlink{fami
 \emph{Henry Justice Ford}
 \end{center}
 
+\subsection*{Armato}\index{Armato}\label{armato}\hyperlink{armato}{}
+
+\textbf{Requisito}: Forza 3, Competenza Armi 1
+
+\textbf{Tiri Salvezza}: +2 Tempra
+
+\textbf{Caratteristica Potenziata}: Forza o Costituzione
+
+Quando usi un arma di una taglia troppo grande la penalità al colpire diventa -2.
+
+La \textbf{seconda volta} che prendi questa Abilità, requisito  Competenza Armi 6, non hai penalità nell'usare un arma di una taglia superiore.
+
 \subsection*{Armatura del Devoto}\index{Armatura del Devoto}\label{armaturadeldoveto}
 
 \textbf{Requisito}: Valore singolo Tratto in comune con il Patrono 4, essere Devoto o Seguace
@@ -4727,17 +4765,17 @@ La \textbf{quarta volta} che prendi questa Abilità, requisito Pugno Vuoto 8, ac
 La \textbf{quinta volta} che prendi questa Abilità, requisito Pugno Vuoto 13, acquisisci una riduzione al danno (DR) di 5/-
 
 
-\subsection*{Arciere a cavallo}\index{Arciere a cavallo}\label{arcereacavallo}
+%\subsection*{Arciere a cavallo}\index{Arciere a cavallo}\label{arcereacavallo}
+%
+%\textbf{Requisito}: Competenza Armi 1
 
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Destrezza o Saggezza
-
-le penalità di tirare frecce da cavallo diminuisce di 2 ogni volta che prendi questa Abilità.
-
-Le penalità standard sono -4 e -6 a seconda che si trotti (movimento x2) o galoppi (movimento x3)
+%\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
+%
+%\textbf{Caratteristica Potenziata}: Destrezza o Saggezza
+%
+%le penalità di tirare frecce da cavallo diminuisce di 2 ogni volta che prendi questa Abilità.
+%
+%Le penalità standard sono -4 e -6 a seconda che si trotti (movimento x2) o galoppi (movimento x3)
 
 %\begin{center}
 %\includegraphics[width=0.9\linewidth]{immagini/horsearcher.png}
@@ -4883,7 +4921,7 @@ Guadagni un +1 al danno con una Lista d'Arma.
 
 \subsection*{Combattere alla Cieca}\index{Combattere alla Cieca}\label{combattereallacieca}
 
-E' l'abilità di attaccare gli avversari che non sono chiaramente percepibili.
+E' l'abilità di attaccare in mischia gli avversari che non sono chiaramente percepibili.
 
 \textbf{Requisito}: Consapevolezza 2
 
@@ -4895,7 +4933,7 @@ Un avversario con copertura leggera non ottiene bonus alla Difesa, con copertura
 
 Un attaccante invisibile in mischia non ottiene alcun vantaggio al colpire il personaggio in mischia. 
 
-La \textbf{seconda volta} che prendi l'Abilità, requisito Consapevolezza a 3, riduci di ulteriori due il bonus alla Difesa da creature con copertura copleta.
+La \textbf{seconda volta} che prendi l'Abilità, requisito Consapevolezza a 3, riduci di ulteriori due il bonus alla Difesa da creature con copertura completa.
 
 Non c'è bisogno di effettuare prove di Acrobatica per muoversi a piena velocità mentre si è Accecati.
 
@@ -5159,7 +5197,7 @@ La \textbf{terza volta} che prendi questa Abilità aggiungi 1d6 alla prova. Puoi
 
 La \textbf{quarta volta} che prendi questa Abilità consideri il totale dei dadi tirati come 10 se ha tirato da 4-9.
 
-Il bonus sono cumulativi se riferiti sempre la stessa Competenza. Non è usabile su Consapevolezza (vedi Percettivo).
+Il bonus sono cumulativi se riferiti sempre la stessa Competenza. Non è usabile su Consapevolezza (vedi \hyperlink{percettivo}{Percettivo}, pag. \pageref{percettivo}).
 
 \begin{center}
 \includegraphics[width=0.75\linewidth]{immagini/distillare.png}
@@ -5760,6 +5798,19 @@ La \textbf{quarta volta} che prendi questa Abilità aumenti di una taglia (P > M
 
 La tua mente è addestrata contro chi vuole influenzarla. Ogni volta che prendi questa Abilità guadagni +1 ai Tiri Salvezza contro gli incantesimi della Lista di Magia di Ammaliamento.
 
+\subsection*{Occhi della magia}\index{Occhi della magia}\label{rilevareilmagico}\index{Occhi della magia}
+
+\textbf{Requisito}: Competenza Magica 1
+
+\textbf{Tiri Salvezza}: +1 Volontà, +1 Tempra
+
+\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Carisma
+
+Se lo puoi vedere sai anche se è magico. Costa una Azione attivare la vista magica e dura un round.
+
+La \textbf{seconda volta}, requisito Competenza Magica 1, che prendi l'Abilità attivare la vista magica costa una Reazione.
+
+
 \subsection*{Occhio Clinico}\index{Occhio Clinico}\label{occhioclinico}
 
 \textbf{Requisito}: Competenza Armi 3
@@ -5802,11 +5853,11 @@ Puoi tentare di colpire in mischia un avversario che \textbf{esca} o \textbf{att
 
 \textbf{Caratteristica Potenziata}: Forza o Destrezza
 
-La \textbf{prima volta} che prendi questa Abilità usi una Azione per aumentare la tua Difesa di 1. 
+La \textbf{prima volta} che prendi questa Abilità quando usi l'Azione per \hyperlink{preparareladifesa}{Preparare la Difesa} (pag. \pageref{preparareladifesa}) di 1. 
 
-La \textbf{seconda volta} che prendi quest'Abilità, requisito Competenza Armi 6 oppure Pugno Vuoto 4, usando una Azione aumenti di 2 la Difesa.
+La \textbf{seconda volta} che prendi quest'Abilità, requisito Competenza Armi 6 oppure Pugno Vuoto 4, usi una Azione Immediata per Preparare la Difesa.
 
-La \textbf{terza volta} che prendi quest'Abilità, requisito Competenza Armi 9 oppure Pugno Vuoto 6, puoi usare la tua capacità per aumentare la Difesa +2 di una creatura a distanza di mischia da te. Costa una Reazione.
+La \textbf{terza volta} che prendi quest'Abilità, requisito Competenza Armi 9 oppure Pugno Vuoto 6, puoi usare Preparare la Difesa su una creatura a distanza di mischia da te.
 
 Usare l'Abilità Parare deve essere dichiarata nel proprio round e rimane attiva fino all'inizio del tuo round successivo.
 
@@ -5887,7 +5938,7 @@ La \textbf{quarta volta} che prendi questa abilità, requisito Competenza Armi 1
 
 I bonus sono cumulativi.
 
-\subsection*{Percettivo}\index{Percettivo}\label{percettivo}
+\subsection*{Percettivo}\index{Percettivo}\label{percettivo}\hypertarget{percettivo}{}
 
 \textbf{Requisito}: Saggezza 0
 
@@ -5951,6 +6002,16 @@ Se riescono tutte e tre le prove è probabile che si sia una Manifestazione del 
 \textbf{Caratteristica Potenziata}: Intelligenza o Carisma
 
 Il primo Tiro per Colpire nel giorno ha un bonus di +1d6 e causa un tiro critico.
+
+\subsection*{Precisino}\index{Precisino}\label{precisino}\hyperlink{precisino}{}
+
+\textbf{Requisito}: Competenza Armi 2
+
+\textbf{Tiri Salvezza}: +1 Riflessi, +1 Volontà
+
+\textbf{Caratteristica Potenziata}: Destrezza o Charisma
+
+Quando scagli un proiettile diminuisci di 2 la penalità data da Copertura.
 
 \subsection*{Proseguire}\index{Proseguire}\label{proseguire}
 
@@ -6064,18 +6125,6 @@ La quarta volta che prendi questa Abilità puoi decidere di riuscire automaticam
 	
 	\emph{Sabba delle Streghe (Goya, 1798)}
 \end{center}
-
-\subsection*{Rilevare il Magico}\index{Rilevare il Magico}\label{rilevareilmagico}\index{Occhi della magia}
-
-\textbf{Requisito}: Competenza Magica 1
-
-\textbf{Tiri Salvezza}: +1 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Carisma
-
-Se lo puoi vedere sai anche se è magico. Costa una Azione attivare la vista magica e dura un round.
-
-La \textbf{seconda volta}, requisito Competenza Magica 1, che prendi l'Abilità attivare la vista magica costa una Reazione.
 
 \subsection*{Riflessi fulminei}\index{Riflessi fulminei}\label{riflessifulminei}
 
@@ -6302,7 +6351,7 @@ La \textbf{seconda volta} che prendi quest'Abilità, requisito Intelligenza 2, C
 
 Quando usi questa Abilità puoi dichiarare di usare la Tempesta di Furia come tua unica Azione (3 Azioni).
 
-Fai un unico Tiro per Colpire con -1d6 e se colpisci con i tuoi attacchi naturali causi un numero di danno critico pari a Lista Pugno Vuoto/4.
+Fai un unico Tiro per Colpire con -1d6 e se colpisci con il tuo attacco naturale causi un numero di danno critico pari a Lista Pugno Vuoto/4.
 
 \subsection*{Testa cava}\index{Testa cava}\label{testacava}
 
@@ -6373,9 +6422,9 @@ La tua Caratteristica ha un +1 al valore per determinare effetti dell'incantesim
 
 Scegli una Lista d'Armi. Il danno da Forza applicato dalle armi di quella lista aumenta di 1.
 
-L'Abilità può essere presa più volte e il punteggio della Lista d'Armi deve essere 4 volte superiore alle volte che hai presa.
+L'Abilità può essere presa più volte e il punteggio della Lista d'Armi deve essere 4 volte superiore alle volte che hai preso questa Abilità.
 
-Se prendi \textbf{4 volte} quest'Abilità sulla stessa Lista d'Armi i bonus al danno si riducono a +2 ma tiri due volte il danno e scegli il risultato migliore. Non si applica sull'esplosione del danno o sul danno critico.
+Se prendi \textbf{4 volte} quest'Abilità sulla stessa Lista d'Armi il bonus al danno si riduce a +2 ma tiri due volte il danno e scegli il risultato migliore. Non si applica sull'esplosione del danno o sul danno critico.
 
 \subsection*{Un colpo un morto}\index{Un gesto un morto}\label{ungestounmorto}
 
@@ -6396,6 +6445,20 @@ La \textbf{seconda volta} il bonus al Tiro per Colpire per Incantesimi diventa +
 \textbf{Caratteristica Potenziata}: Nessuna
 
 Assegnate un punto a Competenza Armi oppure Competenza Magica. Questa Abilità può essere presa al massimo 2 volte.
+
+\subsection*{Uno con l'arco}\index{Uno con l'arco}\label{unoconlarco}\hypertarget{unoconlarco}{}
+
+\textbf{Requisito}: Competenza Armi, 4
+
+\textbf{Tiro Salvezza}: +1 Tempra, +1 Riflessi
+
+\textbf{Caratteristica Potenziata}: Destrezza o Costituzione
+
+A discapito del nome questa Abilità si applica a tutte le armi che lanciano proiettili.
+
+La penalità per scagliare proiettili mentre si usa un Arma da Lancio sotto minaccia diventa -2.
+
+La \textbf{seconda volta} che prendi questa Abilità, Destrezza 3 e Competenza Armi 7, le penalità vengono annullate.
 
 \subsection*{Volonta' Ferrea}\index{Volontà Ferrea}\label{volontaferrea}
 
@@ -6471,6 +6534,7 @@ Un braccio, un arma\\
 
 \subsubsection*{Barbaro}
 
+Armato\\
 Colpo Mortale\\
 Conoscenza istintiva\\
 Ferocia\\
@@ -6530,7 +6594,6 @@ Sfortunato\\
 
 \subsubsection*{Ranger}
 
-Arciere a cavallo\\
 Combattimento con due armi\\
 Conoscenza istintiva\\
 Difendere Cavalcatura\\
@@ -6540,6 +6603,7 @@ Occhio Clinico\\
 Occhio di Falco\\
 Passo sicuro\\
 Passo Veloce\\
+Precisino\\
 Più sono grossi più fanno rumore quando cadono\\
 Segugio\\
 Senza Traccia\\
@@ -6547,6 +6611,7 @@ Spara e Scappa\\
 Testa Cava\\
 Tiro preciso\\
 Tiro rapido\\
+Uno con l'arco\\
 
 \subsubsection*{Druido}
 
@@ -6586,7 +6651,7 @@ Elementalista\\
 Incantatore Prudente\\
 Il Patrono è con me\\
 Magie potenti\\
-Rilevare il Magico\\
+Occhi della magia\\
 Sapiente\\
 Specialista\\
 Tutt'uno con la magia\\
