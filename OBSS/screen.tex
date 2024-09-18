@@ -8,6 +8,7 @@
 \usepackage{tabularx}
 \usepackage{graphicx}
 \usepackage{xltabular}
+
 \usepackage[a4paper]{geometry}
 \geometry{verbose,tmargin=2cm,bmargin=2.5cm,lmargin=1.5cm,rmargin=2cm}
 %\usepackage[absolute,overlay]{textpos}
@@ -89,7 +90,7 @@ Ogni round tira
 
 \textbf{Morente}: -1 pf a round
 
-\textbf{Nauseato}: non son specificato -1d6 TS, TC, Prove
+\textbf{Nauseato}: -1d6 TS, TC, Prove
 
 \textbf{Paralizzato}: No Azioni o Reazioni. +2d6 al TC avversari. Fallimento TS Riflessi. NO destrezza alla Difesa. E' terreno difficile.
 
@@ -113,19 +114,18 @@ Ogni round tira
 
 \begin{tabularx}{0.98\textwidth}{l|X|X}
 	\multicolumn{2}{c}{\textbf{Attaccante}}&\multicolumn{1}{c}{\textbf{Difensore}}\\
-	\textbf{Mod}.&\multicolumn{1}{c}{\textit{Situazione}}&\multicolumn{1}{c}{\textit{Situazione}}\\
-	
-	\textbf{-1}		& Luce fioca		&		\\
+	\textbf{Mod}.&\multicolumn{1}{c}{\emph{Situazione}}&\multicolumn{1}{c}{\emph{Situazione}}\\
+	\textbf{-1}		& Affaticato (1), Luce fioca		&Affaticato (1)		\\
 	\hline
-	\textbf{-2}		& Abbagliato, Intralciato 	& Afferrato,	Lanci un incantesimo mentre sei sotto attacco  	\\
+	\textbf{-2}		& Affaticato (2), Abbagliato, Intralciato 	& Affaticato (2), Afferrato, Lanci un incantesimo mentre sei sotto attacco\\
 	\hline
-	\textbf{-4}		& Prono	,  Arma Lunga a corta distanza	&  Sorpreso, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
+	\textbf{-4}		& Affaticato (3), Prono, Arma Lunga a corta distanza	& Affaticato (3), Sorpreso, Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
 	\hline
-	\textbf{-1d6}	& Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Avversario invisibile ma Individuato, Afferrato ad una parete					&	\\
+	\textbf{-1d6}	& Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato					&	\\
 	\hline
-	\textbf{+1}		& 						&  		\\	
-	\hline
-	\textbf{+2}		& Fiancheggia, pos. Sopraelevata, Attacca al spalle, Arma Lunga									& Copertura leggera\\
+	%\textbf{+1}		& 						& 		\\	
+	%\hline
+	\textbf{+2}		& Fiancheggia, Posizione Sopraelevata, Attacca al spalle, Arma Lunga									& Copertura leggera\\
 	\hline
 	\textbf{+4}		&						& Copertura media\\
 	\hline
@@ -134,6 +134,7 @@ Ogni round tira
 	\textbf{+8}		&						& Copertura completa\\
 	
 \end{tabularx}
+
 
 \end{textblock*}
 
@@ -200,8 +201,8 @@ Se tiro dado e' massimo valore (min 8) ritiri il dado e sommi ancora il valore (
 \textbf{Rompere Oggetti - DC Forza}\\
 \begin{tabular}{ll|ll}
 Corda   		   & 23&	Porta semplice         & 14\\
-Porta legno        & 14&	Porta robusta          & 18\\
-Porta di ferro     & 28&	Catena                 & 26 \\
+Porta legno buono  & 18&	Porta robusta          & 25\\
+Porta di ferro     & 30&	Catena                 & 26 \\
 \end{tabular}
 
 \riga
@@ -306,8 +307,9 @@ Usando Scurovisione/Crepuscolare: Prova di Sopravvivenza per cercare trappole o 
 
 Combattere con Scarsa luminosita': -1 Tiro per Colpire
 
+\riga
 
-\textbf{Riposare 8 ore} \\fa recuperare COS+2xCA+CM PF, minimo 1.
+\textbf{Riposare 8 ore} \\fa recuperare CA o CM x COS, minimo 1.
 
 \riga
 
@@ -334,8 +336,8 @@ Ogni qual volta hai colpito, tiri un dado arma aggiuntivo e non sommi altro per 
 
 \riga
 
-\textbf{Mettersi in difensiva}\\
-usi una azione, +1 Difesa fino a inizio round dopo.
+\textbf{Preparare la Difesa}\\
+usi una azione, +2 Difesa fino a inizio round dopo.
 
 
 
@@ -492,7 +494,7 @@ Cammello&50&15 m&240 kg&8km\\
 Cavallo da Galoppo&75&18 m&240 kg&12km\\
 Cavallo da Guerra&400&18 m&270 kg&9km\\
 Cavallo da Tiro&50&12 m&270 kg&6km\\
-Elefante&200&12 m&660 kg&6km\\
+Elefante&500&12 m&660 kg&6km\\
 Mastino&25&12 m&97,5 kg&6km\\
 Pony&30&12 m&112,5 kg&6km\\
 Carretto/Carro    & 15/30 mo & 9/12 m   &150/600kg    & 3/6km              \\
@@ -632,7 +634,7 @@ Con punteggio 6 costa 2 Azioni, con 12 costa 1 Azione.
 
 {\textbf{I 6 esplodono}} - se fai 6, sommi e ritiri\\
 Gli \textbf{1 portano male}, se fai 1 con il dado vale zero\\
-\textbf{Affidarsi alla sorte}. -4 punti di competenza/caratteristica = +1d6\\
+\textbf{Affidarsi alla sorte}. Ogni 4 punti tra Competenza Base o Attiva o caratteristica = +1d6\\
 \end{textblock*}
 
 
@@ -729,14 +731,15 @@ Rincorsa 3 metri altrimenti metà.
 \textit{Penalità dovuta all'Armatura su Forza}\\
 Acqua calme DC 10.\\
 Acque mosse ha DC 15\\
-Acque tempestose DC 20
+Acque molto mosse ha DC 20\\
+Acque tempestose DC 25
 
 \riga
 
 
 \textbf{Sopravvivenza}
 \begin{tabular}{ll}
-Difficoltà base  & DC 10\\
+Difficoltà base  & DC 15\\
 Se il terreno è molto morbido& DC +5\\
 Se il terreno è morbido& DC +10\\
 Se il terreno è stabile& DC +15\\
@@ -760,14 +763,14 @@ Cerca di occultare le traccie&DC +5\\
 
 \begin{textblock*}{5cm}(1cm,1cm) % larghezza box, coord X, coord Y
 \textbf{Prova di Magia}\\
-3d6 + Aggiungi 1d6 ogni 2 Liste di magia conosciuta, ignori un 1 per ogni Adepto della Magia nella lista dell'incantesimo\\
+3d6 + Aggiungi 1d6 ogni 2 Liste di magia conosciuta, ignori un 1 per ogni 2 Adepto della Magia\\
 Fallimento Critico: due volte 1, un 1 e due 2\\
 
 
 \riga
 
 \textbf{Distratto}\\
-Sei Distratto se: occulti il lancio di incantesimo, Impedito, disturbato, sanguinante, sotto attacco.\\
+Sei Distratto se: occulti il lancio di incantesimo, severamente Distratto, impedito, sanguinante, afferrato, è sotto attacco\\
 
 \riga
 
@@ -810,17 +813,27 @@ DC è 10 + 2 x livello incantesimo + Intelligenza
 
 \riga
 
+\textbf{Leggere una Pergamena}
+	
+	ISY SCROLL: Comprendere: Intelligenza od Arcana DC 10
+	
+	Lanciare: Intelligenza od Arcana DC 12.
+	
+	normali: Comprenderne: Arcana a difficoltà 15
+	
+	- Lanciare: Arcana DC 20 ed avere accesso alla Lista di Magia
+
 \end{textblock*}
 
 
 \begin{textblock*}{13.5cm}(6.5cm,1cm) % larghezza box, coord X, coord Y
 \textbf{Seguace}\\
-2 Tratti comuni con Patrono. Se sei un Seguace ottieni +1d6 alle Prove di Magia nella scuola preferita dal Patrono. Puoi usare l'energia preferita del Patrono nei tuoi incantesimi.\\
+1 Tratti comuni con Patrono. Se sei un Seguace ottieni +1d6 alle Prove di Magia nella scuola preferita dal Patrono. Puoi usare l'energia preferita del Patrono nei tuoi incantesimi.\\
 
 \riga
 
 \textbf{Devoto}\\
-3 Tratti in comune con Patrono. Un Devoto aggiunge +1d6 alla Prova di Magia nelle scuole preferite dal Patrono e ignora un dado tirato nella Prova di Magia. Devi usare l'energia preferita del Patrono nei tuoi incantesimi.
+2 Tratti in comune con Patrono. Un Devoto aggiunge +1d6 alla Prova di Magia nelle scuole preferite dal Patrono e ignora un dado tirato nella Prova di Magia. Devi usare l'energia preferita del Patrono nei tuoi incantesimi.
 
 \riga
 
@@ -831,19 +844,19 @@ DC è 10 + 2 x livello incantesimo + Intelligenza
 3 & Manifesti una modifica corporea minore\\
 4 & Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 3 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 1d6 di danni per livello dell'incantesimo\\
 5 & Per 3 round sei sotto l'influenza dell'incantesimo Confusione\\
-6 & Sei paralizzato per 3 round\\
+6 & Perdi la concentrazione su qualsiasi incantesimo e per un minuto parli in rima\\
 7 & Vieni teletrasportato di 3d10 metri in una direzione casuale\\
-8 &  Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round\\
+8 & Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round\\
 9 & Diventi Invisibile ed incapace di parlare per 6 round\\
 10 & Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round\\
-11 & Il prossimo incantesimo che lanci ha effetti se possibile minimizzati\\
-12 & Tutte le creature nel raggio di 18 metri sanno esattamente dove sei e cosa tentavi di fare.\\
+11 & Manifesti l'incantesimo Unto sotto i tuoi piedi\\
+12 & Il prossimo incantesimo che lanci ha effetti se possibile minimizzati\\
 13 & Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 36 metri\\
-14 & Ti cadono tutti i peli del corpo, per fortuna possono ricrescere\\
-15 & Ogni oggetto che tieni in mano ti cade a terra\\
+14 & Tutte le creature nel raggio di 36 metri sanno esattamente dove sei e cosa tentavi di fare.\\
+15 & Tutte le creature in una semisfera di 9 metri di raggio centrata su di te subiscono 1d10 danni da Vuoto.\\
 16 & Guadagni 2d6 Punti Magia\\
 17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
-18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni non resistibili
+18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili
 \end{tabularx}
 
 \riga
@@ -873,23 +886,12 @@ Sommate a CM le volte che avete preso Adepto della Magia e dividete il risultato
 - \textbf{Aumentare il tempo}\index{Aumentare il tempo} +1 Azione,  -1 Punto Magia
 
 - \textbf{Circolo del Potere}\index{Circolo del Potere}: vedi descrizione
+
+\riga
+
 \end{textblock*}
 
-\begin{textblock*}{19 cm}(1cm,25.6cm)
-	\textbf{Leggere una Pergamena}
-	
-	\textbf{in caso di pergamene ISY SCROLL}: costo produzione livello*livello*160mo
-	
-	- Comprendere: Intelligenza od Arcana DC 10
-	
-	- Lanciare: Intelligenza od Arcana DC 12.
-	
-	\textbf{in caso di pergamene normali}: costo produzione livello*livello*80mo
-	
-	- Comprenderne: Arcana a difficoltà 15
-	
-	- Lanciare: Arcana DC 20 ed avere accesso alla Lista di Magia
-\end{textblock*}
+
 
 
 ~\newpage
