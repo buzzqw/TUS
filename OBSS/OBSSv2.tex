@@ -174,7 +174,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.99.2} \fontsize{10}{12}\selectfont
+\def \versione {0.99.3} \fontsize{10}{12}\selectfont
 
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
@@ -6998,7 +6998,7 @@ Alcuni incantesimi possono essere lanciati come Reazioni. Questi incantesimi ric
 \textbf{Tempo di Lancio Più Lungo}
 
 Certi incantesimi richiedono più tempo per essere lanciati: round, minuti o addirittura ore. 
-Quando lanci un incantesimo con un tempo di lancio di 3 Azioni, o 1 round, significa che passi un intero round a formulare l'incantesimo e quando il tempo di lancio è esaurito, tiri l'incantesimo con l'iniziativa che hai tirato all'inizio della formulazione ed usi una Azione per lanciare l'incantesimo.
+Quando lanci un incantesimo con un tempo di lancio di 1 round, significa che passi un intero round a formulare l'incantesimo e il round successivo usando 1 Azione tiri l'incantesimo con l'iniziativa che hai tirato all'inizio della formulazione.
 
 Quando la formulazione dura più di 1 round devi spendere 1 Azione a round per continuare la formulazione. Per quei round è come se dovessi mantenere la Concentrazione per determinare eventuali effetti.
 
@@ -7009,34 +7009,34 @@ Quando la formulazione dura più di 1 round devi spendere 1 Azione a round per c
 Le Liste qui presentate solo quelle codificate ed insegnate nelle poche scuole di magia. Si racconta ulteriori liste create, curate e diffuse in circoli ristretti o sette. Una di queste liste segrete è quella degli gnomi Devoti di Shayalia, una lista prettamente naturale che mescola la Lista tradizionale degli Animali e Piante con alcuni incantesimi dalle Liste degli elementi.
 Altre liste più oscure sono quelle demoniache o degli Aboleth, alcune altre sono legate all'appartenenza a gruppi di Devoti. Altre liste più nefaste arrivano a corrompere l'anima dei personaggi imponendo anche i Tratti. Al personaggio queste liste saranno normalmente chiuse ma non è detto che con l'aumentare della Competenza Magica non sia lui stesso a creare nuove liste di incantesimi.
 
-Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie regole, sebbene alcune regole possano fare riferimento a queste liste. Accanto al nome di ogni Lista è indicata la caratteristica correlata.
+Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie regole, sebbene alcune regole possano fare riferimento a queste liste.
 
 \begin{itemize}[leftmargin=*]
 \item
-\emph{Abiurazione} (INT) riguarda incantesimi di natura protettiva, sebbene ne contenga anche alcuni dall'uso aggressivo. Questi incantesimi creano barriere magiche, negano effetti dannosi o bandiscono le creature in altri piani di esistenza.
+\emph{Abiurazione} riguarda incantesimi di natura protettiva, sebbene ne contenga anche alcuni dall'uso aggressivo. Questi incantesimi creano barriere magiche, negano effetti dannosi o bandiscono le creature in altri piani di esistenza.
 
 \item
-\emph{Acqua} (DES) sono gli incantesimi che agiscono sull'elemento acqua e freddo ed in minima parte anche sulle cure
+\emph{Acqua} sono gli incantesimi che agiscono sull'elemento acqua e freddo ed in minima parte anche sulle cure
 
 \item
-\emph{Aria} (CAR) riguarda gli incantesimi che manipolano ed usano l'aria ed anche l'elettricità.
+\emph{Aria} riguarda gli incantesimi che manipolano ed usano l'aria ed anche l'elettricità.
 
 \item
-\emph{Ammaliamento} (CAR) riguarda incantesimi che agiscono sulla mente altrui, influenzandone o controllandone il comportamento. Questi incantesimi possono far sì che i nemici considerino l'incantatore un amico od addirittura controllare un'altra creatura come fosse una marionetta.
+\emph{Ammaliamento} riguarda incantesimi che agiscono sulla mente altrui, influenzandone o controllandone il comportamento. Questi incantesimi possono far sì che i nemici considerino l'incantatore un amico od addirittura controllare un'altra creatura come fosse una marionetta.
 
 \item
-\emph{Animali e Piante} (SAG) questi sono gli incantesimi che agiscono su animali e piante, naturali o magiche.
+\emph{Animali e Piante} questi sono gli incantesimi che agiscono su animali e piante, naturali o magiche.
 
 \item
-\emph{Cura} (SAG) riguarda gli incantesimi che permettono di recuperare le energie fisiche, mentali ed annullare debolezze e veleni.
+\emph{Cura} riguarda gli incantesimi che permettono di recuperare le energie fisiche, mentali ed annullare debolezze e veleni.
 
 \item
-\emph{Divinazione} (SAG) riguarda incantesimi che rivelano informazioni perdute nel tempo, dimenticate, visioni del futuro, la posizione di oggetti nascosti, la verità dietro le illusioni od immagini di persone e luoghi lontani.
+\emph{Divinazione} riguarda incantesimi che rivelano informazioni perdute nel tempo, dimenticate, visioni del futuro, la posizione di oggetti nascosti, la verità dietro le illusioni od immagini di persone e luoghi lontani.
 
 \item
-\emph{Evocazione} (INT) riguarda incantesimi che trasportano oggetti e creature da un luogo all'altro. Alcuni incantesimi richiamano creature o oggetti al fianco dell'incantatore, mentre altri permettono all'incantatore di teletrasportarsi da un luogo a un altro. Alcune evocazioni creano oggetti o effetti dal nulla.
+\emph{Evocazione} riguarda incantesimi che trasportano oggetti e creature da un luogo all'altro. Alcuni incantesimi richiamano creature o oggetti al fianco dell'incantatore, mentre altri permettono all'incantatore di teletrasportarsi da un luogo a un altro. Alcune evocazioni creano oggetti o effetti dal nulla.
 
-\emph{Fuoco} (FOR) Gli incantesimi più pericolosi sono qua dentro con tutto ciò che serve a bruciare ed incenerire.
+\emph{Fuoco} Gli incantesimi più pericolosi sono qua dentro con tutto ciò che serve a bruciare ed incenerire.
 
 \begin{center}
 	\includegraphics[width=0.6\linewidth]{immagini/Leonids-1833.png}
@@ -7045,21 +7045,21 @@ Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie 
 \end{center}
 
 
-\emph{Illusione} (SAG) riguarda incantesimi che ingannano i sensi e la mente altrui. Fanno vedere alle persone cose che non esistono, non gli fanno notare le cose che esistono, fanno udire rumori fasulli o ricordare cose che non sono mai accadute. Alcune illusioni creano immagini spettrali che chiunque può vedere.
+\emph{Illusione} riguarda incantesimi che ingannano i sensi e la mente altrui. Fanno vedere alle persone cose che non esistono, non gli fanno notare le cose che esistono, fanno udire rumori fasulli o ricordare cose che non sono mai accadute. Alcune illusioni creano immagini spettrali che chiunque può vedere.
 
 \item
-\emph{Invocazione} (COS) riguarda incantesimi che manipolano l'energia magica per produrre un effetto desiderato.
+\emph{Invocazione} riguarda incantesimi che manipolano l'energia magica per produrre un effetto desiderato.
 
 \item
-\emph{Necromanzia} (COS) riguarda incantesimi che manipolano le energie della vita e della morte. Questi incantesimi possono conferire una riserva aggiuntiva di forza vitale, risucchiare l'energia vitale da un'altra creatura, creare non morti o addirittura riportare in vita i morti (se concesso).
+\emph{Necromanzia} riguarda incantesimi che manipolano le energie della vita e della morte. Questi incantesimi possono conferire una riserva aggiuntiva di forza vitale, risucchiare l'energia vitale da un'altra creatura, creare non morti o addirittura riportare in vita i morti (se concesso).
 
 \emph{In OBSS solo un Patrono ha sufficiente potere per poter riportare in vita un morto}.
 
 \item
-\emph{Terra} (COS) Gli incantesimi che agiscono e muovono la terra
+\emph{Terra} Gli incantesimi che agiscono e muovono la terra
 
 \item
-\emph{Trasmutazione} (DES) riguarda incantesimi che cambiano le proprietà di una creatura, oggetto o ambiente.
+\emph{Trasmutazione} riguarda incantesimi che cambiano le proprietà di una creatura, oggetto o ambiente.
 
 \item
 \emph{Universale} alcuni incantesimi sono capisaldi della magia in se e come tali accessibili a tutti gli incantatori. Per accedere agli incantesimi contenuti in questa Lista di Magia è necessario avere almeno un punto in Competenza Magica. Il massimo livello di incantesimi lanciabile in questa lista è pari numero di volte che si è presa l'Abilità Adepto della Magia, con un minimo di 1.
@@ -7226,7 +7226,7 @@ Con il termine \textbf{appreso}\index{Incatesimi, Appreso} si intende un incante
 Con il termine \textbf{conosciuto}\index{Incantesimi, Conosciuto} si intente un incantesimo presente sul Tomo della Magia che però non si è appreso, ovvero non si è memorizzato e non si può lanciare quando voluto.
 \end{itemize}
 
-\subsubsection{Accesso alle Liste di Magia}\index{Accesso alle Liste di Magia}
+\subsubsection{Accesso agli Incantesimi}\index{Accesso agli Incantesimi}
 
 L’incantatore può lanciare gli incantesimi solo se conosciuti e presenti nel sul Tomo di Magia.
 
@@ -7234,12 +7234,14 @@ L’incantatore può lanciare gli incantesimi solo se conosciuti e presenti nel 
 
 Mentre la Competenza Magica indica lo studio e dedizione alla Magia nella forma più astratta è solo l'Abilità Adepto della Magia che permette di capire quanto si è \emph{portati} nel formulare gli incantesimi. 
 
-Per stabilire il livello massimo lanciabile di incantesimi è necessario conoscere il valore di Competenza Magica e quante volte si è presa l'Abilità Adepto della Magia.
+Per stabilire il livello massimo lanciabile di incantesimi sommate il punteggio di Competenza Magica ed Adepto della Magia, dividendo per due. Confrontate il risultato con il punteggio del modificatore di caratteristica per incantesimi, prendendo il valore minore.
 
-Sommate a CM le volte che avete preso Adepto della Magia e dividete il risultato per 2. Es. CM=8, Adepto della Magia preso 4 volte, (8+4)/2=6, oppure CM=13 e Adepto della Magia 1 volta, (13+1)/2=7 livello di incantesimi. Il livello minimo è comunque 1.
+Es. CM=8, Adepto della Magia preso 4 volte, (8+4)/2=6, oppure CM=13 e Adepto della Magia 1 volta, (13+1)/2=7 livello di incantesimi. 
+
+Se modificatore da lancio per incantesimi è pari a 0 il massimo di incantesimi lanciabili sarà 2lv, tra uno e due sarà 3lv, con tre sarà il 5lv, con quattro sarà il 7lv, con cinque o più sarà 9lv.
 
 \begin{center}
-	\includegraphics[width=0.76\linewidth]{immagini/Arthur-Pyle_The_Enchanter_Merlin.png}
+	\includegraphics[width=0.88\linewidth]{immagini/Arthur-Pyle_The_Enchanter_Merlin.png}
 	
 	\emph{Merlin. Howard Pyle, The Story of King Arthur and His Knights (1903)}
 \end{center}
@@ -7248,17 +7250,17 @@ Sommate a CM le volte che avete preso Adepto della Magia e dividete il risultato
 
 Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni bene ed anzi agisca oltre normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un \emph{\textbf{Prova di Magia}} e confidare nelle sue capacità.
 
-L'incantatore tira \textbf{3d6 + 1d6 ogni due punti di Competenza Magica} (arrotondato per eccesso) conosciute più eventuali bonus o Abilità.
+L'incantatore tira \textbf{3d6 + 1d6 ogni due punti di Competenza Magica} (arrotondato per eccesso) più eventuali bonus o Abilità.
 
 L'incantatore può \textbf{ignorare un dado tirato} nella Prova di Magia per \textbf{ogni due volte} che ha preso \textbf{Adepto della Magia}.
 
 Se nell'insieme di dadi lanciati ci sono \textbf{almeno due 1} oppure \textbf{un 1 e due 2} saranno successe brutte cose, questo caso viene chiamato \textbf{Fallimento Critico Magico}\index{Fallimento Critico Magico}, l'incantesimo non si manifesta ed \textbf{i Punti Magia sono spesi}.
 
-Per verificare quanti fallimenti critici magici sono stati fatti controllate per inizialmente quante coppie di 1 sono presenti, controllate poi se è rimasto una altro 1 da associare a due 2.
+Per verificare quanti fallimenti critici magici sono stati fatti controllate inizialmente quante coppie di 1 sono presenti, controllate poi se è rimasto una altro 1 da associare a due 2.
 
 Controllata l'assenza di fallimento critico se nel tiro di dadi ci sono almeno due 6 avrai ottenuto un \textbf{Successo Critico Magico}\index{Successo Critico Magico}, come per le Golden Rules continuerai a tirare un dado per ogni 6 fatto o che andrai a fare. Conta i 6 che fai, ogni due è un Successo Critico Magico! Eventuali 1 tirati a seguito del successo critico non contano per il fallimento critico. \textbf{Per ogni successo critico la DC del Tiro Salvezza dell'incantesimo aumenta di 1}.
 
-Qualsiasi risultato che non sia un Successo critico magico od un Fallimento critico magico farà manifestare l'incantesimo senza effetti particolari se non richiesto esplicitamente.
+Qualsiasi risultato che non sia un Successo critico magico od un Fallimento critico magico farà manifestare l'incantesimo senza effetti particolari se non richiesti esplicitamente.
 
 Quando viene richiesto di superare o fare una Prova di Magia è sufficiente non fare un Fallimento Critico Magico.
 
@@ -7273,11 +7275,9 @@ C'è sempre un certo pericolo... ma cosa è la Magia senza rischi!
 
 Per ogni volta, fino ad un massimo di tre volte, che paga il costo dell'incantesimo, può \textbf{aggiungere} 1d6 in più nella Prova di magia. \index{Prova di Magia, più dadi}
 
-\textbf{Dopo aver effettuato} la Prova di Magia, usando una Reazione, lascia fluire le sue capacita' magiche per poter eliminare qualche dado tirato nella prova.
+\textbf{Dopo aver effettuato} la Prova di Magia, usando una Reazione, per ogni due volte che paga il costo dell'incantesimo (fino ad un massimo di sei volte), può \textbf{ignorare} un dado tirato nella Prova di magia. \index{Prova di Magia, ignorare i dadi}
 
-Per ogni due volte, fino ad un massimo di sei volte, che paga il costo dell'incantesimo, può \textbf{ignorare} un dado tirato nella Prova di magia. \index{Prova di Magia, ignorare i dadi}
-
-Un incantatore può anche volontariamente fallire la Prova di Magia.
+Un incantatore può anche \textbf{volontariamente fallire la Prova di Magia}.
 
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
@@ -7287,22 +7287,24 @@ Concedete un +1d6 nella Prova di Magia, o ignorare un 1 tirato nella Prova di Ma
 \subsubsection{Opzionale - Magia Suprema}\index{It's over 9000!}\index{Opzionale - Magia Suprema}
 \label{opzionalemagiasuprema}\hypertarget{opzionalemagiasuprema}{}
 
-- \textbf{Magia Suprema}\index{Magia suprema}\hypertarget{magiasuprema}{}: se si vuole che gli incantatori di alto livello dominino la magia fate che ogni 6 punti di Competenza Magica il giocatore possa ignorare un dado tirato nella Prova di Magia in aggiunta a quelli dovuti da Adepto della Magia.
+- \textbf{Magia Suprema}\index{Magia suprema}\hypertarget{magiasuprema}{}: se si vuole che gli incantatori di alto livello dominino la magia fate che ogni 4 punti di Competenza Magica il giocatore aggiunga 1d6 alla Prova di Magia ed allo stesso tempo possa ignorare un dado tirato nella prova.
+
+Questa opzione rende la Prova di Magia più vantaggiosa più si sale di esperienza e Competenza Magica.
 
 \subsubsection{Fallimento Critico nella Prova di Magia}\index{Fallimento Critico nella Prova di Magia}\label{magiefallimentocriticonellaprovadimagia}\index{Incantesimi, Fallimento Prova di Magia}
 
-Se la Prova di Magia ha avuto un Fallimento Critico Magico tira 3d6 e consulta la seguente tabella. Per ogni Fallimento Critico Magico aggiuntivo al primo tira un 1d6 in meno, fino a tirare un solo 1d6.
+Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico tira 3d6 e consulta la seguente tabella. Per ogni Fallimento Critico Magico che si è manifestato nel lancio dell'incantesimo tira un 1d6 in meno, fino a tirare un solo 1d6.
 
 %\end{multicols}
 
-\medskip
+\bigskip
 
 \textbf{Tabella: Effetti Fallimento Critico magico}\index[Tabelle]{Tabella Effetti Fallimento Critico Prova di Magia}
 
 \medskip
 
 \noindent\begin{tabularx}{0.5\textwidth}{lX}
-\hline
+\hline\\
 1 & Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia\\
 2 & Aumenti la condizione di Affaticato di 2 gradi\\
 3 & Manifesti una modifica corporea minore\\
