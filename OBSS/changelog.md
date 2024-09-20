@@ -660,7 +660,7 @@ aggiornata versione POD 2024/09/18
 
 aggiornata versione POD 2024/09/19
 
-0.99.3 corretto massimo livello di incantesimi lanciabili, migliorato il testo nelle prove di magia, chiarimenti su tiri salvezza, aggiornate e corrette abilita' di lista, 
+0.99.3 corretto massimo livello di incantesimi lanciabili, migliorato il testo nelle prove di magia, chiarimenti su tiri salvezza, aggiornate e corrette abilita' di lista, aggiornata scheda, descrizione di Gradh, 
 
 
 
