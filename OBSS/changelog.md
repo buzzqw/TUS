@@ -660,7 +660,11 @@ aggiornata versione POD 2024/09/18
 
 aggiornata versione POD 2024/09/19
 
-0.99.3 corretto massimo livello di incantesimi lanciabili, migliorato il testo nelle prove di magia, chiarimenti su tiri salvezza, aggiornate e corrette abilita' di lista, aggiornata scheda, descrizione di Gradh, chiarimenti pozioni e veleni, controllato capitolo masterizzare, piccole precisazioni in capitolo movimento, aggiornata immagine elfi, dettagli e chiarimenti su round di sorpresa, chiarito cosa succede quando spingi, dettagli su chiarimenti di creatura portata di peso, aggiornati poteri di Tazher, 
+0.99.3 corretto massimo livello di incantesimi lanciabili, migliorato il testo nelle prove di magia, chiarimenti su tiri salvezza, aggiornate e corrette abilita' di lista, aggiornata scheda, descrizione di Gradh, chiarimenti pozioni e veleni, controllato capitolo masterizzare, piccole precisazioni in capitolo movimento, aggiornata immagine elfi, dettagli e chiarimenti su round di sorpresa, chiarito cosa succede quando spingi, dettagli su chiarimenti di creatura portata di peso, aggiornati poteri di Tazher
+
+aggiornata versione POD 2024/09/20
+
+0.99.4 rinominato raggio di affaticamento in raggio di indebolimento, aggiunto incantesimo raggio mortale, 
 
 
 

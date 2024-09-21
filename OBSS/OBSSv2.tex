@@ -174,7 +174,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.99.3} \fontsize{10}{12}\selectfont
+\def \versione {0.99.4} \fontsize{10}{12}\selectfont
 
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
@@ -10774,15 +10774,32 @@ Un fascio gelato di luce azzurra colpisce una creatura a gittata. Effettua un at
 Il danno dell'incantesimo aumenta di 1d8 quando raggiungi CM 5, CM 11 e CM 17, ma costa 2 Azioni lanciarlo potenziato e 2 Punti Magia, è altresì necessario avere preso Adepto della Magia un numero di volte pari ai potenziamenti che si vogliono applicare.\\
 \textbf{Per ogni due Successo Critico Magico ottenuto} nella Prova di Magia crei un fascio gelato aggiuntivo.
 
-\medskip\textbf{Raggio di Affaticamento}\index[Incantesimi]{Raggio di Affaticamento}\\
+\medskip\textbf{Raggio di Indebolimento}\index[Incantesimi]{Raggio di Indebolimento}\\
 \textbf{Lista di Magia}: Necromanzia\\
-\textbf{Livello}: 2, Comune\\
+\textbf{Livello}: 1, Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
 \textbf{Gittata}: 18 metri\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 1 minuto\\
-Un fascio nero di energia debilitante parte dal tuo dito diretto contro una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio infliggerà la metà dei danni con gli attacchi con arma che usano la Forza fino al termine dell'incantesimo. Non si può essere influenzati da più di un Raggio di Affaticamento al giorno.\\
+Un fascio nero di energia debilitante parte dal tuo dito diretto contro una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio, quando attacca con un arma che usa la Forza come modificatore, tirerà due volte per il danno prendendo il risultato inferiore fino al termine dell'incantesimo. Non si può essere influenzati da più di un Raggio di Indebolimento al giorno.\\
 \textbf{Per ogni due Successo Critico Magico ottenuto} nella Prova di Magia aumenti di 1 il livello di Affaticamento del bersaglio.
+
+\medskip\textbf{Raggio mortale}\index[Incantesimi]{Raggio mortale}\\
+\textbf{Lista di Magia}: Necromanzia\\
+\textbf{Livello}: 2, Raro\\
+\textbf{Tempo di Lancio}: 2 Azioni\\
+\textbf{Gittata}: 6 metri\\
+\textbf{Componenti}: V, S, M (del sangue rappreso)\\
+\textbf{Durata}: Istantaneo\\
+Un fascio nero di energia crepitante parte dalle tue mani verso una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Indipendentemente dal fatto se colpisci o meno, il bersaglio deve effettuare un Tiro Salvezza su Tempra.
+
+Se il Tiro per Colpire va a segno la creatura effettua il Tiro Salvezza con -2 di penalità, se il Tiro per Colpire genera un Tiro Critico il Tiro Salvezza viene fatto con -4 di penalità.
+
+Se manchi il Tiro Salvezza viene fatto senza modificatori aggiuntivi.
+
+La condizione Affaticato della creatura aumenta di 1\\
+\textbf{Per ogni tre Successo Critico Magico ottenuto} nella Prova di Magia aumenti di 1 il livello di Affaticamento del bersaglio.
+
 
 \medskip\textbf{Raggio Rovente}\index[Incantesimi]{Raggio Rovente}\\
 \textbf{Lista di Magia}: Fuoco\\
@@ -11980,11 +11997,11 @@ Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di ra
 
 \vfill
 
-\begin{center}
-\includegraphics[keepaspectratio,width=0.3\textwidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
+%\begin{center}
+%\includegraphics[keepaspectratio,width=0.3\textwidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
 
-\emph{The Circle of Solomon and Triangle of Solomon from The Goetia: The Lesser Key of Solomon the King, The Book of Evil Spirits by L. W. De Laurence}
-\end{center}
+%\emph{The Circle of Solomon and Triangle of Solomon from The Goetia: The Lesser Key of Solomon the King, The Book of Evil Spirits by L. W. De Laurence}
+%\end{center}
 
 \pagebreak
 
@@ -12354,9 +12371,10 @@ Gabbia di Forza, Raro, 8\\
 \noindent Tocco Gelido, Comune, 0\\
 Vita Falsata, Comune, 1\\
 Grido di dolore, Raro, 1\\
+Raggio di Indebolimento, Comune, 1\\
 Cecità/Sordità, Comune, 2\\
 Infliggi Ferite, Comune, 2\\
-Raggio di Affaticamento, Comune, 2\\
+Raggio mortale, Raro, 2\\
 Riposo Inviolato, Non Comune, 2\\
 Aiuto, Non Comune, 2\\
 Animare Morti, Comune, 3\\
