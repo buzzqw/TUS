@@ -1,5 +1,5 @@
 System.synctex.gz
-/home/azanzani/TUS/varie/*
+/home/andres/TUS/varie/*
 *.bat
 *.gz
 *.aux
@@ -22,3 +22,4 @@ System.synctex.gz
 *.fdb_latex
 caricagit-casa.sh
 caricagit-lavoro.bat 
+/home/andres/TUS/OBSS/done/
