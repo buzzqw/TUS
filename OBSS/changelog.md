@@ -666,7 +666,8 @@ aggiornata versione POD 2024/09/20
 
 0.99.4 rinominato raggio di affaticamento in raggio di indebolimento, aggiunto incantesimo raggio mortale
 
-0.99.4.s1 aggiunta nota per la Taglia nella Scheda,allineati a destra nello schema dell'arma i totali, aggiornato Caparbio con Testardo nei tratti di Lynx, specificato meglio che Calci pugni si danno senza penalita', quando si effettua una prova su una competenza non posseduta la prova si esegue con 2d6+modificatore e non 1d6+modificatore,  chiarito come Adepto della Magia permette di apprendere un incantesimi aggiuntivo, corretta errata attribuzione di Luci danzanti ai trucchetti, aggiornato elenco playtester
+0.99.4.s1 aggiunta nota per la Taglia nella Scheda,allineati a destra nello schema dell'arma i totali, aggiornato Caparbio con Testardo nei tratti di Lynx, specificato meglio che Calci pugni si danno senza penalita', quando si effettua una prova su una competenza non posseduta la prova si esegue con 2d6+modificatore e non 1d6+modificatore,  chiarito come Adepto della Magia permette di apprendere un incantesimi aggiuntivo, corretta errata attribuzione di Luci danzanti ai trucchetti, aggiornato elenco playtester, la lista degli incantesimi al primo livello conosciuti è piu' generosa
+- gli incantesimi si possono cambiare giorno per giorno
 
 0.99.5
 
