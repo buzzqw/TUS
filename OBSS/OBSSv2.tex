@@ -174,7 +174,7 @@ boxrule=0.3pt
 \usepackage[framemethod=TikZ]{mdframed}
 
 \begin{document}
-\def \versione {0.99.4.s1} \fontsize{10}{12}\selectfont
+\def \versione {0.99.5} \fontsize{10}{12}\selectfont
 
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
@@ -855,7 +855,7 @@ Diverso è un attributo che può essere data a qualsiasi razza. Vengono sostitui
 	
 \end{center}
 
-La genesi dei Sornelian è dovuta a Patrono \hyperlink{efrem}{Efrem} (pag. \pageref{efrem}). Efrem decise che la natura doveva avere maggiore voce nelle questioni terrestri e stabilì che esistessero animali antropomorfi affinché riequilibrassero la strapotenza delle altre creature umanoidi.
+La genesi dei Sornelian è dovuta al Patrono \hyperlink{efrem}{Efrem} (pag. \pageref{efrem}). Efrem decise che la natura doveva avere maggiore voce nelle questioni terrestri e stabilì che esistessero animali antropomorfi affinché riequilibrassero la strapotenza delle altre creature umanoidi.
 
 Un Sornelian ha una testa simile a quella di un animale antropomorfo ma il corpo è più simile ad un bipede umanoide. A seconda dell'animale il Sornelian potrebbe anche avere pelliccia, piume, squame ed artigli. Le dimensioni di un Sornelian dipendono molto dall'animale originario variando dalla taglia piccola a quella media. L'aspetto antropomorfo di un Sornelian è vario quanto sono vari gli animali a cui assomigliano.
 
@@ -871,21 +871,23 @@ Un Sornelian ha una testa simile a quella di un animale antropomorfo ma il corpo
 
 \textbf{Vantaggi}: Alla creazione il giocatore sceglie 2 capacità tra quelle elencate che più caratterizzano il suo Sornelian. Sono indicati tra parentesi alcuni animali di esempio.
 
-- \emph{Scalatore} (orso, gatto, lucertola, scoiattolo). Hai artigli uncinati, unghie affilate o una coda serpentina. Hai una velocità di arrampicata pari alla metà del tuo Movimento. Se scegli due volte questa capacità la velocità di scalata è pari al tuo Movimento.
-
-- \emph{Predatore} (orso, felino). I tuoi attacchi naturali (artigli, fauci..) causano 1d6 di danno letale. Questi attacchi ricadono nella Lista d'Armi Scuri ed Accette. Se scegli due volte questa capacità il tuo attacco naturale causa 1d8 di danno.
-
-- \emph{Volante} (pipistrello, aquila, gufo, corvo). Hai ali rudimentali. Quando cadi da almeno 3 metri puoi usare una Reazione per planare ed atterrare in sicurezza, come incantesimo Caduta Piuma (pag. \pageref{cadutapiuma}), senza subire danni da caduta. Quando esegui una prova di Salto in Lungo o in Alto tiri 1d6 in più. Se scegli due volte questa capacità puoi volare per 1 minuto, continuativo, al giorno.
+- \emph{Corazzato} (tartaruga, armadillo, granchio, pesce scatola cornuto, alligatore). Hai buona parte del corpo ricoperto da una robusta corazza. La tua Difesa naturale è 12. Se scegli due volte questa capacità gli avversari non hanno vantaggi al Tiro per Colpire alle spalle o quando ti fiancheggiano.
 
 - \emph{Corridore} (cervo, levriero, cavallo, velociraptor). Aumenti la tua velocità di Movimento di 3 metri. Se scegli due volte questa capacità il tuo Movimento diventa di 12 metri.
 
+- \emph{Creatura notturna} (gatto, lucertola, pipistrello, delfino, gufo). Hai visione crepuscolare 9 metri. Se scegli due volte questa capacità la visione crepuscolare arriva fino a 18 metri.
+
 - \emph{Nuotatore} (coccodrillo, delfino, rana, squalo). Puoi trattenere il respiro fino a 1 Turno per punto di Costituzione, minimo 1, hai una velocità di nuoto pari a metà del tuo Movimento. Hai Riduzione al danno da freddo pari a 4. Se scegli due volte questa capacità hai delle rudimentali branchie che ti permettono di respirare sott'acqua, la riduzione al danno da freddo passa a 10.
 
-- \emph{Creatura notturna} (gatto, lucertola, pipistrello, delfino, gufo). Hai visione crepuscolare 9 metri. Se scegli due volte questa capacità la visione crepuscolare arriva fino a 18 metri.
+- \emph{Predatore} (orso, felino). I tuoi attacchi naturali (artigli, fauci..) causano 1d6 di danno letale e non sono armi improvvisate. Questi attacchi ricadono nella Lista d'Armi Scuri ed Accette. Se scegli due volte questa capacità il tuo attacco naturale causa 1d8 di danno.
+
+- \emph{Robusto} (rinoceronte, ippopotamo, elefante). Ad ogni passaggio di livello tiri il d8 invece che il d6 per determinare i Punti Ferita. Se scegli due volte questa capacità ogni punto di CA assegnato aumenta di 5 i Punti Ferita e non 3.
+
+- \emph{Scalatore} (orso, gatto, lucertola, scoiattolo). Hai artigli uncinati, unghie affilate o una coda serpentina. Hai una velocità di arrampicata pari alla metà del tuo Movimento. Se scegli due volte questa capacità la velocità di scalata è pari al tuo Movimento.
 
 - \emph{Sensi Eccellenti (udito, vista, olfatto...)} (cane, pipistrello, gufo). Hai un +2 di bonus alle prove di Consapevolezza basate sui sensi. Se scegli due volte questa capacità il bonus diventa +1d6.
 
-- \emph{Robusto} (rinoceronte, ippopotamo, elefante). Ad ogni passaggio di livello tiri il d8 invece che il d6 per determinare i Punti Ferita. Se scegli due volte questa capacità ogni punto di CA assegnato aumenta di 5 i Punti Ferita e non 3.
+- \emph{Volante} (pipistrello, aquila, gufo, corvo). Hai ali rudimentali. Quando cadi da almeno 3 metri puoi usare una Reazione per planare ed atterrare in sicurezza, come incantesimo Caduta Piuma (pag. \pageref{cadutapiuma}), senza subire danni da caduta. Quando esegui una prova di Salto in Lungo o in Alto tiri 1d6 in più. Se scegli due volte questa capacità puoi volare per 1 minuto, continuativo, al giorno.
 
 \subsection{Golian}\index{Golian}\index{Uomini gigante}\label{golian}\hypertarget{golian}{}
 
@@ -993,7 +995,7 @@ Se l'argomento è per voi motivo di non divertimento chiaritelo con il Narratore
 \vfill
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.85\textwidth]{immagini/Dragon_by_Henry_Justice_Ford_grey.png}
+\includegraphics[keepaspectratio,width=0.73\textwidth]{immagini/Dragon_by_Henry_Justice_Ford_grey.png}
 
 \emph{The End of the Dragon - Henry Justice Ford}
 \end{center}
@@ -3083,6 +3085,8 @@ Se l'attaccante usa:
 \end{itemize}
 
 Chi si difende ha una \textbf{Difesa} pari a: 10 + Destrezza + Scudo + Armatura + bonus magici + Abilità e bonus circostanziali, per i mostri il valore della Difesa è già indicato.
+
+Si intende Difesa naturale il punteggio di 10 alla base del calcolo della Difesa, alcune eccezionali abilità possono aumentare questo valore.\index{Difesa naturale}
 
 Il giocatore può decidere di rinunciare a parte del bonus dato dalla Competenza Armi per avere un migliore punteggio di Difesa. Questi punti non saranno a disposizione nell'attacco successivo (vedi Altre azioni e situazioni).
 
