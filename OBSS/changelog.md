@@ -668,7 +668,7 @@ aggiornata versione POD 2024/09/20
 
 0.99.4.s1 aggiunta nota per la Taglia nella Scheda, allineati a destra nello schema dell'arma i totali, aggiornato Caparbio con Testardo nei tratti di Lynx, specificato meglio che Calci pugni si danno senza penalita', quando si effettua una prova su una competenza non posseduta la prova si esegue con 2d6+modificatore e non 1d6+modificatore, chiarito come Adepto della Magia permette di apprendere un incantesimi aggiuntivo, corretta errata attribuzione di Luci danzanti ai trucchetti, aggiornato elenco playtester, la lista degli incantesimi al primo livello conosciuti è piu' generosa, gli incantesimi si possono cambiare giorno per giorno, aggiornato incantesimo lacrima di ljust
 
-0.99.5 aggiunto Corazzato tra le capacita' dei Sornelian, specificato requisito a fortunato, aggiunti collegamenti tra raggruppamento abilita' per stile ed abilita' relative, 
+0.99.5 aggiunto Corazzato tra le capacita' dei Sornelian, specificato requisito a fortunato, aggiunti collegamenti tra raggruppamento abilita' per stile ed abilita' relative, aggiunti in raggruppamenti per stile abilita' assenti, 
 
 
 
