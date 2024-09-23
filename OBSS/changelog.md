@@ -670,7 +670,7 @@ aggiornata versione POD 2024/09/20
 
 aggiornata versione POD 2024/09/22
 
-0.99.5 aggiunto Corazzato tra le capacita' dei Sornelian, specificato requisito a fortunato, aggiunti collegamenti tra raggruppamento abilita' per stile ed abilita' relative, aggiunti in raggruppamenti per stile abilita' assenti, 
+0.99.5 aggiunto Corazzato tra le capacita' dei Sornelian, specificato requisito a fortunato, aggiunti collegamenti tra raggruppamento abilita' per stile ed abilita' relative, aggiunti in raggruppamenti per stile abilita' assenti, la prova di intimidire si puo' fare anche con 1 sola azione, 
 
 
 
