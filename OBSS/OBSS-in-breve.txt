@@ -69,16 +69,15 @@ Combattimento:
 - se si attacca con un arma lunga hai +2 al tiro per colpire, ma se l'avversario ti viene addosso hai un -1d6
 
 Vita e Morte:
-- i punti ferita sono 1d4+costituzione +3 se hai messo un punto a competenza armi a quel livello
+- i punti ferita sono al privo livello 8+cos+3 e hai messo un punto a competenza armi a quel livello, ai livelli dopo 1d6+costituzione +3 se hai messo un punto a competenza armi a quel livello
 - si muore quando si arriva a (10+COS*2) punti ferita negativi. Quando si e' a punti feriti negativi ogni round si perde un punto ferita finche' si muore o si viene curati
 
 La magia:
-- per poter lanciare bene un incantesimo bisogna conoscere la lista di incantesimi (lista di magia) che la contiene. Conoscere una lista di magia costa una abilita' (un feat), Adepto della Magia
-- ogni 4 punti in Competenza Magia apprendi una lista di magia in maniera basilare (max primo livello di incantesimi)
+- per poter lanciare bene un incantesimo bisogna avere l'incantesimo su proprio tomo di magia
 - Non si conoscono gli incantesimi "a gratis". Ogni incantesimi va trovato e copiato sul proprio tomo della magia.
 - A seconda del punteggio di Competenza Magica si possono conoscere apprendere nuovi incantesimi. Un incantesimi conosciuto e' un incatesimo copiato sul tomo di magia, un incantesimo appreso si puo' lanciare quante volte si vuole.
 - Lanciare un incantesimo costa un punto magia pari al livello dell'incantesimo, a seconda del punteggio di competenza magica si hanno piu' punti magia
-- a seconda di quante volte si e' studiata la lista di magia si possono lanciare incantesimi di piu' alto livello e si accede a piccoli poteri legati alla lista
+- a seconda di quante volte si e' studiata la magia tramite l'abilita' Adepto della Magia si possono lanciare incantesimi di piu' alto livello e si accede a piccoli poteri legati alla lista
 - quando si e' distratti, in combattimento, sanguinanti.. si deve fare una prova di magia per riuscire a lanciare l'incantesimo
 - si puo' anche volontariamente fare una prova di magia per poter ottenere un effetto critico dell'incantesimo (maggiore effetto, durata, danno..)
 - se si fallisce nella prova di magia in modo critico succedono brutte cose
