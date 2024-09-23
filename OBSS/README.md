@@ -3,7 +3,7 @@
 [![Compila OBSS english](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml)
 
 
-**A semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v3.pdf** !!! Always update to latest commit!
+**A semi automatic ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-eng-v3.pdf** !!! (based on 0.94 version)
 
 In this folder you will find material for playing the Old Bell School System (OBSS) role-playing game.  The game uses and is licensed with ShareAlike 4.0 International and inspired by DnD history. This means that if you know DnD it will be easy and quick to grasp the mechanics (even if quite different!) 
 
