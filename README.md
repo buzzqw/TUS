@@ -26,7 +26,7 @@ Ti suggerisco di focalizzare la tua attenzione su due sistemi:
 
 I manuali vengono forniti in file sorgente in formato TEX e compilato in PDF. I giochi di ruolo qui presenti sono gratuiti, potete scaricarli ed usarli a vostro piacimento, nel rispetto della licenza.
 
-Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian) con xelatex (per via del font usato che aiuta nella lettura ed e' amichevole per chi soffre di dislessia). Per compilare uso la stringa latexmk -xelatex --shell-escape OBSS.tex
+Una versione aggiornata di TexLive e' in grado di produrre il pdf. Personalmente utilizzo TexStudio (su Arch e Debian) con xelatex (per via del font usato che aiuta nella lettura ed e' amichevole per chi soffre di dislessia). Per compilare uso la stringa latexmk -xelatex --shell-escape OBSSv2.tex
 
 **Nota**: abbiate pazienza per il pessimo codice di Latex, sono alle prime armi!
 
