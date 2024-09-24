@@ -3686,7 +3686,7 @@ Queste Azioni di combattimento sono a discrezione del Narratore che può concede
 
 \subsubsection{Disarmare*}\index{Disarmare}\label{disarmare}
 
-fai una Prova Contrapposta di Competenza Armi + Destrezza o Forza (3d6+CA+For o Des)
+fai una Prova Contrapposta di Competenza Armi (o bonus al colpire in caso di mostri) + Destrezza o Forza (3d6+CA+For o Des)
 
 Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che perde l'arma. Costa 2 Azioni.
 
@@ -3698,28 +3698,26 @@ Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che pr
 
 \subsubsection{Spingere un avversario*} \index{Spingere un avversario}\label{spingereavversario}\hypertarget{spingereavversario}{}\index{Tirare un avversario}
 
-è una Prova Contrapposta di Atletica. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza.
+è una Prova di Atletica contrapposta a Tempra. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza.
 
-Chi vince può spingere o tirare l'avversario fino a 0.5 metri nella direzione che vuole per successo nella prova (fino al massimo del suo movimento). Es. se vinci la prova di 7 sposti l'avversario fino a 3 metri. Costa 2 Azioni, oppure la Reazione se vince chi resiste alla spinta. Chi spinge si muove assieme a chi è spinto.
+Chi vince può spingere o tirare l'avversario fino a 0.5 metri nella direzione che vuole per successo nella prova (fino al massimo del suo movimento). Es. se vinci la prova di 7 sposti l'avversario fino a 3 metri. Costa 2 Azioni, oppure la Reazione se vince chi resiste alla spinta. Chi spinge si può muovere assieme a chi è spinto.
 
 \subsubsection{Afferrare un avversario*}\index{Afferrare un avversario}\label{afferrareunavversario}
 
-è una Prova Contrapposta di Atletica. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza. Se chi riesce nella manovra ottiene un successo critico si considera che abbia \hyperlink{bloccato}{Bloccato} l'avversario.
+è una Prova di Atletica contrapposta a Tempra. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza. Se chi riesce nella manovra ottiene un successo critico si considera che abbia \hyperlink{bloccato}{Bloccato} l'avversario.
 
 Costa 2 Azioni fare e mantenere e liberarsi dalla presa. Si considera che chi afferra sia anche Afferrato ed abbia almeno una mano occupata nell'afferrare.
 Muovere una creatura afferrata richiede \hyperlink{spingereavversario}{Spingere un avversario}.
 
-Ogni contendente può attaccare l'altro afferrato con un arma piccola o armi naturali. La Difesa ha una penalità di -2 e si è considerati Distratti.
+Ogni contendente può attaccare l'altro afferrato con un arma piccola o armi naturali, la Difesa ha una penalità di -2 e si è considerati Distratti.
 
 \subsubsection{Fare cadere un avversario*} \index{Fare cadere un avversari}\label{farecadereavversario}
 
-è una Prova Contrapposta di Atletica.
+è una Prova di Atletica contrapposta a Tempra per mettere Prono l'avversario.
 
-Per ogni gamba/zampa in più il contendente ottiene un bonus di +1 alla prova, mentre ottiene un +1d6 per differenza di Taglia.
+Per ogni gamba/zampa in più il contendente ottiene un bonus di +1 alla prova e ottiene un +1d6 per differenza di Taglia.
 
-Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che cade.
-
-Costa 2 Azioni. 
+Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che cade. Costa 2 Azioni. 
 
 \subsubsection*{Opzionale - Gestione Universale Manovre}\index{Opzionale - Gestione Universale Manovre}
 
@@ -3762,7 +3760,6 @@ Una cavalcatura agisce nel tuo round e sei tu a decidere quando esegue le sue Az
 
 Gli attacchi verso un personaggio a cavallo (o cavalcatura in genere) se non dichiarati diversamente mirano al cavaliere e non al cavallo.
 
-
 \subsubsection{Situazioni e regole}\label{cavallosituazioniregole}
 
 \begin{itemize}[leftmargin=*]
@@ -3784,7 +3781,6 @@ Se una magia o situazione sposta, bruscamente, la cavalcatura contro la tua volo
 Se si e' disarcionati si cade a terra proni e si subiscono 1d6 di danno.
 \end{itemize}
 
-
 \subsubsection{Controllare una Cavalcatura}\label{controllocavalcatura}
 
 Mentre sei in sella, hai due scelte: dai ordini alla tua cavalcatura oppure gli permetti di agire da sola.
@@ -3798,6 +3794,7 @@ Spendendo 1 tua Azione puoi fare eseguire 2 di queste Azioni alla cavalcatura: M
 Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferisce a discapito delle indicazioni del cavaliere. Potrebbe fuggire dal combattimento, lanciarsi all'attacco e divorare un nemico ferito gravemente, o agire in qualche altro modo contro la volontà di chi la cavalca.
 
 \end{multicols}
+
 
 %\vfill
 
@@ -3842,7 +3839,8 @@ Può essere il caso di un arciere in piedi dietro un muretto di 1 metro.
 
 \begin{center}
 	\includegraphics[width=0.9\linewidth]{immagini/hide.png}
-	\emph{British Soldiers Hiding From Boer Fire At The Battle Of Majuba Hill.}
+
+\emph{British Soldiers Hiding From Boer Fire At The Battle Of Majuba Hill.}
 \end{center}
 
 \item
@@ -24222,7 +24220,7 @@ Per \textbf{riconoscere un mostro} si effettua una prova di Conoscenza. (\textbf
 
 \emph{Natura}: Bestie, Piante, Fatati\\
 
-La DC delle prova è pari 10 + grado di Sfida della creatura + fattore di rarità/notorietà (comune (0), non comune (+1), raro (+2), molto raro (+4), leggendario +(8)).
+La DC delle prova è pari 10 + grado di Sfida della creatura + fattore di rarità/notorietà (comune (0), non comune (+1), raro (+2), molto raro (+4), leggendario +(8)). Se la Competenza non è a disposizione la prova si effettua con solo 2d6.
 
 Le informazioni ottenibili dipendono dal grado di successo ottenuto. \\
 
