@@ -48,29 +48,28 @@ ogni volta che tiri un 1 non conti il dado
 puoi togliere 4 punti dal punteggio della Competenza o caratteristica usata nella prova per tirare un d6 in piu' (da usarsi per sperare in una esplosione del dado)
 
 Abilita':
-Dato che il personaggio non ha classi scegliendo le abilita' (Feat) vai a costruirlo. Sono oltre 140 le Abilita' da scegliere, molte possono essere prese piu' volte per "sbloccare" ulteriori capacita' straordinarie.. Le abilita' si prendono a tutti i livelli tranne che al 5, 10, 15, 20 livello.
+Dato che il personaggio non ha classi scegliendo le abilita' (Feat) vai a costruirlo. Sono oltre 140 le Abilita' da scegliere, molte possono essere prese piu' volte per "sbloccare" ulteriori capacita' straordinarie.. Le abilita' si prendono ai livelli 1 e 2, 3, 4, 5, 6, 7, 10, 11, 13, 14, 16, 18.
 Alcune abilita' vanno a mimare quelle piu' canoniche delle classi, molte altre sono diverse e peculiari del sistema. E' facile e spontaneo costruire il personaggio che piu' si preferisce e si e' pensato.
 Le abilita' aumentano i Tiri Salvezza. Ogni volta che si prende una abilita' si aumentano i punteggi dei tiri salvezza, questo e' l'unico modo per aumentare i tiri salvezza.
 Gli aumenti di caratteristica si prendono tramite abilita', ovvero si possono prendere o meno.
 
-Vantaggi e Svantaggi:
-Tutti i personaggi possono avere dei vantaggi e svantaggi. Obbligatorio uno svantaggio di ruolo, un piccolo difetto che rende tutti piu' "normali". Ci sono poi i vantaggi e svantaggi reali, molti anche impegnativi da giocare che caratterizzano e rendono unico il personaggio. Piu' un vantaggio e' potente piu' e' necessario "pagare" con svantaggi.
 
 Combattimento:
 - l'iniziativa e' una prova di destrezza o intelligenza
 - si hanno 3 azioni a round come in PF2
 - il Tiro per Colpire e' 3d6+forza/destrezza+competenza armi + bonus vari (da lista armi, da magia..) contro il valore di Difesa dell'avversario. la difesa e' 10+armatura+scudo+destrezza+vari
-- gli attacchi multipli prendono il valore del Tiro per Colpire e per ogni tiro oltre il primo tolgono 5. Quindi se hai +12 al Tiro per Colpire fai un attacco a +12, uno a +7 ed uno a +2, se e' negativo non puoi farlo. In pratica il numero di attacchi dipende dalla tua bravura piu' che solo dal livello.
+- Negli attacchi multipli il primo attacco ha il punteggio pieno del Tiro per Colpire e per ogni tiro oltre il primo tolgono 5, purche' il totale non sia negativo. Quindi se hai +12 al Tiro per Colpire fai un attacco a +12, uno a +7 ed uno a +2. In pratica il numero di attacchi dipende dalla tua bravura piu' che solo dal livello.
 - fare 1 attacco costa 1 azione, 2 attacchi costa 2 azioni, 3 o piu' attacchi costano 3 azioni. Ogni freccia scagliata costa 1 azione
 - Ogni volta che tiri un 6 con il d6 (3d6 nel colpire) puoi tirare un altro dado (golden rules...)
 - Ogni volta che tiri due volte 6 nel Tiro per Colpire tiri un danno di arma (sono arma senza altri bonus) in piu'
-- Il giocatore puo' preferire di tirare un nuovo danno di arma per quanto colpisca bene l'avversario
 - Quando il dado dell'arma fa il massimo possibile ritiri il dado e sommi (solo per armi che fanno almeno 8 di danno)
 - se si attacca con un arma lunga hai +2 al tiro per colpire, ma se l'avversario ti viene addosso hai un -1d6
+- quando combatti puoi fare finte, spingere, afferrare, disarmare...
 
 Vita e Morte:
 - i punti ferita sono al privo livello 8+cos+3 e hai messo un punto a competenza armi a quel livello, ai livelli dopo 1d6+costituzione +3 se hai messo un punto a competenza armi a quel livello
 - si muore quando si arriva a (10+COS*2) punti ferita negativi. Quando si e' a punti feriti negativi ogni round si perde un punto ferita finche' si muore o si viene curati
+- quando si hanno punti ferita negativi qualsiasi cura porta ad 1 Punto Ferita, successive cure magiche curano l'ammontare normale
 
 La magia:
 - per poter lanciare bene un incantesimo bisogna avere l'incantesimo su proprio tomo di magia
