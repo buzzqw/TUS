@@ -104,3 +104,70 @@ sono a scalare, ovvero piu' si e' di basso livello piu' se ne hanno.
 
 Regole Opzionali:
 tante regole opzionali per divertirsi ancora di piu'
+
+
+----------------------------
+
+
+2024-09-23
+
+Valgono sulle prove, tiri per colpire, tiri salvezza:
+
+Se tiri 3 volte 6 il successo e' automatico
+Se tiri 3 volte 1 il fallimento e' automatico
+se tiri almeno 2 volte 6 e la prova riesce hai un successo critico
+se tiri almeno 2 volte 1 oppure 2 volte 2 e la prova fallisce hai un fallimento critico
+ogni volta che tiri un 6 ritiri il dado e sommi
+ogni volta che tiri un 1 non conti il dado
+puoi togliere 4 punti dal punteggio della Competenza o caratteristica usata nella prova per tirare un d6 in piu' (da usarsi per sperare in una esplosione del dado)
+
+
+2024-09-24
+
+Pillola sul combattimento in OBSS
+
+- l'iniziativa e' una prova di destrezza o intelligenza
+- si hanno 3 azioni a round come in PF2- il Tiro per Colpire e' 3d6+forza/destrezza+competenza armi + bonus vari (da lista armi, da magia..) contro il valore di Difesa dell'avversario. la difesa e' 10+armatura+scudo+destrezza+vari
+- Negli attacchi multipli il primo attacco ha il punteggio pieno del Tiro per Colpire e per ogni tiro oltre il primo tolgono 5, purche' il totale non sia negativo. Quindi se hai +12 al Tiro per Colpire fai un attacco a +12, uno a +7 ed uno a +2. In pratica il numero di attacchi dipende dalla tua bravura piu' che solo dal livello.
+- fare 1 attacco costa 1 azione, 2 attacchi costa 2 azioni, 3 o piu' attacchi costano 3 azioni. Ogni freccia scagliata costa 1 azione
+- Ogni volta che tiri un 6 con il d6 (3d6 nel colpire) puoi tirare un altro dado (golden rules...)- Ogni volta che tiri due volte 6 nel Tiro per Colpire tiri un danno di arma (sono arma senza altri bonus) in piu'
+- Quando il dado dell'arma fa il massimo possibile ritiri il dado e sommi (solo per armi che fanno almeno 8 di danno)- se si attacca con un arma lunga hai +2 al tiro per colpire, ma se l'avversario ti viene addosso hai un -1d6
+- quando combatti puoi fare finte, spingere, afferrare, disarmare..
+
+2024-09-25
+
+Fiancheggiamento/Attaccare alle Spalle +2 al colpire
+Preparare la Difesa: costa 1 azione, +2 alla Difesa
+Difesa totale: costa 2 Azioni, se ti muovi il terreno risulta difficile, guadagni un +4 in Difesa.
+Disingaggiare: costa 1 Azione, ti sposti di 1 metro e non causi attacchi di opportunità.
+Colpo Preciso: costa 2 azioni, +2 al colpire nel solo unico attacco del round
+Prendere la Mira: 2 azioni a round, +1 al colpire cumulativo, max 3 round
+Arma troppo grande: -1d6 al colpire
+Arma lunga: da diritto a colpire più lontano ovvero a 2 metri e concede un bonus al Tiro per Colpire di +2. Questo bonus rimane valido finché l'avversario non entra in distanza della propria mischia. 
+Arma lunga a breve distanza: se usata in mischia stretta -1d6 al colpire
+
+combattere al buio
+Luce Fioca: -1 Tiro per Colpire, -2 Consapevolezza 
+Oscurita': vedi invisibiltia'
+
+2024-09-26
+
+Disarmare: fai una Prova Contrapposta di Competenza Armi (o bonus al colpire in caso di mostri) + Destrezza o Forza (3d6+CA+For o Des)
+Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che perde l'arma. Costa 2 Azioni.
+
+Finta: fai una Prova Contrapposta di Competenza Armi + Ingannare (chi fa la finta) contro Competenza Armi + Percepire Emozioni (chi subisce la finta). Se la prova riesce l'avversario ha un -2 alla Difesa contro di te fino alla fine del tuo round successivo.
+Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che prende -2 alla Difesa fino alla fine del suo round successivo. Costa 1 Azione.
+
+Spingere un avversario: è una Prova di Atletica contrapposta a Tempra. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza.
+Chi vince può spingere o tirare l'avversario fino a 0.5 metri nella direzione che vuole per successo nella prova (fino al massimo del suo movimento). Es. se vinci la prova di 7 sposti l'avversario fino a 3 metri. Costa 2 Azioni, oppure la Reazione se vince chi resiste alla spinta. Chi spinge si può muovere assieme a chi è spinto senza usare altre azioni.
+
+Afferrare un avversario: è una Prova di Atletica contrapposta a Tempra. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza. Se chi riesce nella manovra ottiene un successo critico si considera che abbia Bloccato l'avversario.
+Costa 2 Azioni fare e mantenere e liberarsi dalla presa. Si considera che chi afferra sia anche Afferrato ed abbia almeno una mano occupata nell'afferrare.
+Muovere una creatura afferrata richiede Spingere un avversario.
+Ogni contendente può attaccare l'altro afferrato con un arma piccola o armi naturali, la Difesa ha una penalità di -2 e si è considerati Distratti.
+
+Fare cadere un avversario: è una Prova di Atletica contrapposta a Tempra per mettere Prono l'avversario.
+Per ogni gamba/zampa in più il contendente ottiene un bonus di +1 alla prova e ottiene un +1d6 per differenza di Taglia. Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che cade. Costa 2 Azioni. 
+
+
+
