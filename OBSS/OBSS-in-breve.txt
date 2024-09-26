@@ -2,7 +2,7 @@ Argomenti:
 
 Razze:
 Le razze hanno tutte una loro connotazione specifica.
-C'e' l'umano (il solito), elfo (una volta xenofobi, ora quasi estinti), mezzelfo, mezzorco, nano (i puri comunisti),  gnomi (ingegnosita' e natura), nibali (tutti uguali tra di loro), diversi (figli di un patrono), sornelian (animali antropomorfi), golian (discendenti dei giganti), sulian (con sangue elementale).
+C'e' l'umano (il solito), elfo (una volta assassini, ora quasi estinti), mezzelfo, mezzorco, nano (i puri comunisti),  gnomi (ingegnosita' e natura), nibali (tutti uguali tra di loro), diversi (figli di un patrono), sornelian (animali antropomorfi), golian (discendenti dei giganti), sulian (con sangue elementale).
 Ogni razza ha i suoi modificatori di caratteristica e peculiarità.
 
 Patroni:
@@ -22,7 +22,7 @@ Sono le Abilita' che costruiscono le capacita' del personaggio, la classe.
 
 Competenza Magica:
 Piu' il punteggio di Competenza Magica (CM) e' alto piu' incantesimi puoi tirare e piu' e' difficile resistere all'incantesimo.
-Avere punteggio alto di CM porta a conoscere piu' liste di magia.
+Avere punteggio alto di CM porta a conoscere piu' incantesimi.
 Non ha senso fare personaggio che prendano solo punti in CM, anche i maghi devono sapere colpire.
 
 Competenza Armi:
@@ -109,7 +109,7 @@ tante regole opzionali per divertirsi ancora di piu'
 ----------------------------
 
 
-2024-09-23
+Pillole su OBSS:
 
 Valgono sulle prove, tiri per colpire, tiri salvezza:
 
