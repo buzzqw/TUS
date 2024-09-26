@@ -674,7 +674,7 @@ aggiornata versione POD 2024/09/22
 
 aggiornata versione POD 2024/09/25
 
-0.99.6 corretto raggio luce lacrima di ljust in ambiente, specificato ruolo durezza in oggetti, aggiornato capitolo pericoli in avventura, chiarimenti su prove di statistica, cambiata immagine Diversi, note su immagini create da ai, corretti link, 
+0.99.6 corretto raggio luce lacrima di ljust in ambiente, specificato ruolo durezza in oggetti, aggiornato capitolo pericoli in avventura, chiarimenti su prove di statistica, cambiata immagine Diversi, note su immagini create da ai, corretti link, controllati prove competenze e caratteristiche, 
 
 
 
