@@ -173,7 +173,7 @@ boxrule=0.3pt
 \usepackage{accanthis}
 \usepackage[framemethod=TikZ]{mdframed}
 
-\begin{document}
+\begin{document} 
 \def \versione {0.99.6} \fontsize{10}{12}\selectfont
 
 
@@ -2257,7 +2257,7 @@ Se vi dicono \emph{convinco la guardia a farci passare} fate fare una prova di I
 
 Ci sono situazioni in cui il personaggio deve effettuare una Prova Contrapposta ad un avversario ad esempio Furtività per muoversi silenziosamente alle spalle di una guardia, rubare dalle tasche del mercante, intimidire l'orchetto per farsi dare indicazioni, spingere un avversario..
 
-In questo caso il personaggio effettua la prova indicata la cui \textbf{difficoltà (DC) è pari 10} + il punteggio della Caratteristica + Competenza oppure Tiro Salvezza + modificatori (bonus/penalità) contingenti. 
+In questo caso il personaggio effettua la prova indicata la cui \textbf{difficoltà (DC) è pari 10} + il punteggio della Caratteristica + Competenza oppure Tiro Salvezza (come indicato dalla prova) + modificatori (bonus/penalità) contingenti. 
 
 Chi ottiene il valore più alto vince, in caso di parità vince chi ha il valore più alto nella Competenza, poi nella Caratteristica ed infine l'eventuale \emph{avversario}. \index{DC Statica nelle prove contrapposte}\index{Prova Contrapposte}\\
 
@@ -2304,7 +2304,7 @@ E' possibile che siano chieste Prove Contrapposte con indicato modificatori dive
 
 Alcune prove possono essere indicate come \emph{Esegui prova di Destrezza a DC 20}. In questo caso è necessario effettuare la prova sommando esclusivamente il punteggio della caratteristica indicata. Es. 3d6 + 1 (il valore della Destrezza).
 
-\subsubsection{Prove non contrapposte, statiche}\index{Prove non contrapposte, statiche}
+\subsubsection{Prove contro una DC statica}\index{Prove non contrapposte, statiche}
 
 Qualora la Prova sia contrapposta ad un \textit{avversario statico}, ovvero non una creatura dotata di Caratteristiche ed Competenze, ma ad una serratura, un salto da compiere.. allora si esegue la prova confrontando 3d6 + la Caratteristica interessata + la Competenza Attiva (TS/CM/CA) o Competenza Base (Disattivare Congegni, Atletica...) più idonea contro la difficoltà (\textbf{DC}) stabilita dal Narratore.
 
@@ -2449,9 +2449,8 @@ Impiega 1 Azione ogni 10 di DC. Con 6 in Erboristeria il tempo è 1 Azione ogni 
 
 \medskip
 
-\textbf{Intimidire}\index{Intimidire}. Il personaggio usa \textbf{2 Azioni} ed esegue una Prova Contrapposta a Tiro Salvezza su Volontà con bonus dato dal Carisma.
-La prova può essere tentata anche con 1 sola Azione ma in questo caso con un -4 di penalità.
-Se il Tiro Salvezza fallisce, l'avversario fino alla fine del suo round successivo ha -1 al Tiro per Colpire e -1 alla Difesa contro colui che l'ha intimidito. L'avversario deve avere Intelligenza pari o maggiore di -3. Il Tiro Salvezza prende un bonus di +2 o svantaggio di -2 per taglia di differenza. In caso di successo critico il modificatore diventa -2.
+\textbf{Intimidire}\index{Intimidire}. Il personaggio usa \textbf{1 Azione} ed esegue una Prova Contrapposta al Tiro Salvezza su Volontà con bonus dato dal Carisma.
+Se il Tiro Salvezza fallisce, l'avversario fino alla fine del suo round successivo ha -1 al Tiro per Colpire contro colui che l'ha intimidito. L'avversario deve avere Intelligenza pari o maggiore di -3. Il Tiro Salvezza prende un bonus di +2 o svantaggio di -2 per taglia di differenza. In caso di successo critico il modificatore diventa -2.
 
 Se chi tenta la prova di Intimidire fallisce con un fallimento critico subisce le medesime penalità come se fosse stato intimidito.
 
@@ -2467,15 +2466,14 @@ Furtività raccoglie le capacità di muoversi silenziosamente, nascondersi nelle
 
 Cercare di muoversi silenziosamente non costa Azioni, è \emph{compresa} nell'Azione di Movimento usata per spostarsi. Il terreno viene però trattato come difficile e se già lo fosse diviene doppiamente difficile. Muoversi a piena velocità cercando di non fare rumore impone alla prova di Furtività una penalità di 2d6.
 
-Per quanto invece cercare di nascondersi sia una attività apparentemente semplice, solo chi è addestrato in Furtività ha maggiori possibilità di non essere notato.
-
 Usando \textbf{1 Azione} puoi cercare di nasconderti dalla vista degli avversari. Non è possibile nascondersi se l'ambiente non lo permette, per quando la tua prova possa essere alta non puoi nasconderti se non c'è qualcosa che ti può nascondere od occultare. Per nascondersi dietro una creatura questa deve essere almeno di 3 taglie superiori alla tua (altrimenti la creatura fornisce solo copertura).
 
 \medskip
 
 \textbf{Nuotare}\index{Nuotare} \emph{Penalità dovuta all'Armatura}
 
-In acqua calme DC 10, in acque mosse ha DC 15, in acque molto mosse DC 20, tempestose DC 25. La prova è necessaria per stare a galla o nuotare. Nuotare in acqua si considera \textbf{terreno difficile}.
+In acqua calme DC 10, in acque mosse ha DC 15, in acque molto mosse DC 20, tempestose DC 25. La prova è necessaria per stare a galla o nuotare. Nuotare in acqua si considera \textbf{terreno difficile}.\\
+Vedi Capito \hyperlink{combatteresottacqua}{Avventure in Acqua} (pag. \pageref{combatteresottacqua}).
 
 \medskip
 
@@ -2484,6 +2482,8 @@ Un eventuale prova sulla \textbf{Professione} viene fatta con 3d6+Saggezza+metà
 \medskip
 
 \textbf{Pronto Soccorso}\hypertarget{prontosoccorso}{}\label{prontosoccorso}\index{Pronto Soccorso}. Una prova riuscita (DC 15) fa recuperare 1d4 Punti Ferita \textbf{dopo uno scontro} o concede un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Da fare entro 1 Turno dal termine del combattimento. Costo \textbf{2 minuti}. Con punteggio 6 costa 1 minuto. Con punteggio 12 costa 3 round, con punteggio 18 costa 1 round.
+
+Oggetti come Borsa del Guaritore e Fermasangue possono essere utili nelle prove.
 
 Una prova riuscita (base DC 12) riduce di 1 i danni da \hyperlink{sanguinamento}{\textbf{Sanguinamento}}. Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 2. Costo \textbf{2 Azioni}. Un trattamento di 1 minuto garantisce 1 successo, senza prova. Ogni prova riuscita con successo critico riduce il sanguinamento di un punto ulteriore.
 
@@ -2512,7 +2512,7 @@ In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/3 del
 
 Se non si ha almeno 3 metri di rincorsa si salta la metà. In lungo si salta al massimo il proprio movimento ed in alto la metà.
 
-\textbf{Scendere o Salire} entro 50 cm è terreno difficile, tra i 50 e 150 cm è terreno doppiamente difficile, oltre è cadere o arrampicarsi. Il danno da caduta (pag. \pageref{cadute}): 1d6 danni ogni 3 metri in caduta. Acrobatica DC 15 per dimezzare il danno (per cadute entro 9m).\index{Scendere e Salire}
+\textbf{Scendere o Salire} entro 50 cm è terreno difficile, tra i 50 e 150 cm è terreno doppiamente difficile, oltre è cadere o arrampicarsi. Il danno da caduta (pag. \pageref{cadute}): 1d6 danni ogni 3 metri in caduta. Acrobatica DC 15 per dimezzare il danno (per cadute entro 6m).\index{Scendere e Salire}
 
 \medskip
 
@@ -2537,11 +2537,11 @@ Ogni ora di pioggia&DC +4\\
 Cerca di occultare le traccie&DC +5\\
 \end{tabular}\\
 
-Sopravvivenza può essere usata al posto di \textbf{Disattivare Congegni} con un -2d6 per disattivare trappole o serrature 1 Azione per DC.
+Sopravvivenza può essere usata al posto di \textbf{Disattivare Congegni} con un -1d6 per disattivare trappole o serrature. 1 Azione per DC.
 
-Ogni quattro punti ottenuti nella prova di Sopravvivenza oltre 13 il personaggio è in grado di \textbf{procacciare cibo} per se stesso ed un altra persona purché si trovi in un ambiente capace di sostenere la vita.\\
+Ogni tre punti ottenuti nella prova di Sopravvivenza oltre 13 il personaggio è in grado di \textbf{procacciare cibo} per se stesso ed un altra persona purché si trovi in un ambiente capace di sostenere la vita.\\
 
-La difficoltà dell prova di \textbf{Valutare}\index{Valutare} è in base alla rarità dell'oggetto, DC 12 + 2 comune, 4 non comune, 8 raro, 12 molto raro, 16 leggendario. \textbf{3 Azioni}. Con punteggio 6 impiega 2 Azioni, con 12 impiega 1 Azione.
+\textbf{Valutare} la difficoltà \index{Valutare} è in base alla rarità dell'oggetto, DC 12 + 2 comune, 4 non comune, 8 raro, 12 molto raro, 16 leggendario. \textbf{3 Azioni}. Con punteggio 6 impiega 2 Azioni, con 12 impiega 1 Azione.
 
 \subsection{Linguaggi}\index{Linguaggi}\hypertarget{linguaggi}{}\label{linguaggi}
 
@@ -14834,7 +14834,7 @@ Non tutti i villaggi e i paesi hanno un incantatore abbastanza capace a manipola
 
 La sostanza non agisce su creature di taglia Enorme o superiore. Una creatura volante non viene appiccicata al suolo, ma deve effettuare un Tiro Salvezza su Riflessi con DC 15 o perde la capacità di Volare (sempre che usi le ali per farlo), cadendo a terra. La borsa dell'impedimento non funziona sott'acqua.
 
-\textbf{Fermasangue} 25 mo, questa sostanza rosa e appiccicosa aiuta a curare le ferite. Utilizzarne una dose concede Bonus +4 alle prove di Pronto Soccorso. 6 Usi.
+\textbf{Fermasangue} 25 mo, questa sostanza rosa e appiccicosa aiuta a curare le ferite. Utilizzarne una dose concede Bonus +4 alle prove di Pronto Soccorso. 4 Usi.
 
 \textbf{Fiasco Alcalino} 15 mo, questo fiasco di liquidi caustici reagisce con gli acidi naturali delle melme. E' possibile lanciare un fiasco alcalino come arma a spargimento con gittata 3 metri. Contro le creature non melme un fiasco alcalino funziona come un'Ampolla d'acido. Contro le melme e altre creature acide il fiasco alcalino infligge i danni raddoppiati indicati da Ampolla d'Acido.
 
