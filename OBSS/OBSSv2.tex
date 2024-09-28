@@ -8,8 +8,7 @@
 \usepackage{lmodern}
 \usepackage{caption}
 \usepackage[utf8]{inputenc}
-%\usepackage[utf8x]{inputenc}
-\usepackage[T1]{fontenc} %\usepackage[B1,T1]{fontenc}
+\usepackage[T1]{fontenc}
 \usepackage{setspace}
 \usepackage[a4paper]{geometry}
 \geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm} %std
@@ -21,8 +20,8 @@
 \usepackage{graphicx}
 \usepackage{amssymb}
 \usepackage{makeidx}
-%\usepackage[allfiguresdraft]{draftfigure} %senza figure, deve rimanere alla riga 24
 \usepackage{multirow}
+%\usepackage[allfiguresdraft]{draftfigure} %senza figure, deve rimanere alla riga 24
 \usepackage{titlesec}
 \usepackage[unicode=true, bookmarks=true, pdftitle={OBSS}, pdfsubject={Old Bell School System}, pdfauthor={Andres Zanzani}, breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 {hyperref}
@@ -32,13 +31,8 @@
 \usepackage{lettrine}
 \usepackage{calligra}
 \renewcommand{\LettrineFontHook}{\calligra}
-\usepackage{accanthis}
 \usepackage{auncial}
-\usepackage{fontspec}
 \usepackage{ragged2e}
-
-\setmainfont[Path=../altro/fonts/,BoldItalicFont=DejaVuSerif-BoldItalic.ttf,ItalicFont=DejaVuSerif-Italic.ttf,BoldFont=ReadexPro-bold.ttf,Ligatures=TeX,Scale=0.94]{ReadexPro-Regular.ttf} %togliere questa e fontspec per usare pdflatex
-
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
 \usepackage{tcolorbox}
@@ -75,7 +69,6 @@
 \fancyhead[RE,LO]{}
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-
 
 \fancypagestyle{plain}{%
 	%% Clear all headers and footers
@@ -129,9 +122,6 @@
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 \newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
-\titleformat{\section}{\filcenter\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
-\titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
-\titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
 \setcounter{tocdepth}{3}
@@ -169,31 +159,26 @@ boxrule=0.3pt
 }
 
 \usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
-\newcommand\Yuge{\fontsize{42}{50}\selectfont}
-\usepackage{accanthis}
 \usepackage[framemethod=TikZ]{mdframed}
+\usepackage{garamondx}
 
 \begin{document} 
-\def \versione {0.99.6} \fontsize{10}{12}\selectfont
-
-
-\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\medskip \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
+\def \versione {0.99.6} \fontsize{11}{12}\selectfont
 
 \newcommand\invisiblesection[1]{
- \refstepcounter{section}
- \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}
- \sectionmark{#1}}
-
+	\refstepcounter{section}
+	\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}
+	\sectionmark{#1}}
 %Define centered and automatically spaced columns for tabularx.
 \newcolumntype{Q}{>{\centering\arraybackslash}X}
-
 %Define left-aligned wrapping and automatically spaced columns for tabularx.
 \newcolumntype{L}{>{\raggedright\arraybackslash}X}
-
 %Define left-aligned wrapping columns for tabular.
 \newcolumntype{h}{>{\raggedright\arraybackslash}p}
-
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
+
+\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\medskip \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
+
 
 \bigskip
 Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni
@@ -443,7 +428,7 @@ OBSS vuole continuare nel solco di un gioco inclusivo e libero. Ogni gruppo è l
 
 \textbf{Arrotondamenti}: \index{Arrotondamenti}sempre per difetto se non esplicitato diversamente ma con un minimo di 1. Es. 7/2 = 3, 9/4=2, 1/2=1
 
-\textbf{Abilità}: \index{Abilità}sono le capacità particolari che il personaggio ha imparato ad usare. Sono spesso simili a capacità magiche, permettono azioni particolari ed anche di sovvertire le regole a volte. Si prendono ai passaggi di livello (vedi \hypertarget{abilita}{Abilità}, pag. \pageref{abilita})
+\textbf{Abilità}: \index{Abilità}sono le capacità particolari che il personaggio ha imparato ad usare. Sono spesso simili a capacità magiche, permettono azioni particolari ed anche di sovvertire le regole a volte. Si prendono ai passaggi di livello (vedi \hyperlink{abilita}{Abilità}, pag. \pageref{abilita})
 
 \textbf{Azione}: \index{Azione}è ciò che si fa in un intervallo di tempo. Ogni cosa che viene fatta dal personaggio si misura in Azioni. Combattere, lanciare Incantesimi, scassinare, bere pozioni, lo spostarsi... in ogni round si possono fare 3 Azioni.
 
@@ -472,7 +457,7 @@ A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 \textbf{Competenza Magica (CM)}: \index{Competenza Magica}\index{CM}è la tua capacità di usare le magie, più è alto questo valore più le magie saranno efficaci, più ne avrai a disposizione, più ne potrai lanciare.
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.4\textwidth]{immagini/spiritomagia2.png}
+\includegraphics[keepaspectratio,width=0.35\textwidth]{immagini/spiritomagia2.png}
 \end{center}
 
 \textbf{Difesa}: \index{Difesa}per Difesa si intende il valore totale ottenuto da 10 + Scudo + Armatura + Destrezza + vari ed eventuali bonus. Rappresenta la capacità di non farsi colpire, più alto è più è difficile essere colpito.
@@ -2506,7 +2491,12 @@ Se chi tenta la prova di Intimidire fallisce con un fallimento critico subisce l
 
 \textbf{Ammansire un animale} è una prova di \textbf{Gestire Animali} a DC 12+2*GS dell'animale. Impiega 1 minuto ogni 3 di DC, con 6 punti il tempo è 1 minuto ogni 6 di DC, con 12 è 1 minuto ogni 10 DC eseguire la prova. La creatura deve avere Intelligenza -3 o superiore.
 
-\medskip
+\begin{center}
+	\includegraphics[width=0.56\linewidth]{immagini/Foster_Bible_Pictures.png}
+	
+	\emph{Bible Pictures and What They Teach Us}
+\end{center}
+
 
 \textbf{Furtività} \index{Nascondersi} \emph{Penalità dovuta all'Armatura.}\index{Muoversi silenziosamente}
 
@@ -2637,25 +2627,17 @@ La \textbf{Telepatia}\index{Telepatia} è un mezzo per parlare con qualsiasi cre
 
 \begin{multicols}{2}
 
-\begin{center}
-	\includegraphics[width=0.56\linewidth]{immagini/Foster_Bible_Pictures.png}
-	
-	\emph{Bible Pictures and What They Teach Us}
-\end{center}
-
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Prove Prove e Prove!]
 Ad essere cinici un gioco di ruolo è tutta una prova, vuoi per riuscire a fare un salto, per colpire qualcuno, per evitare una trappola od un incantesimo...!
 Devi essere più intelligente e furbo. Le prove possono essere spesso evitate o affrontate con vantaggio. Gioca con arguzia, usa la tua immaginazione, sii creativo!
 \end{tcolorbox}\end{changemargin}
 
 
+\begin{center}
+\includegraphics[width=0.8\linewidth]{immagini/Pieter_Bruegel_the_Elder-The_Tower_of_Babel.png}
 
-
-%\begin{center}
-%\includegraphics[width=0.8\linewidth]{immagini/Pieter_Bruegel_the_Elder-The_Tower_of_Babel.png}
-
-%	\emph{La Torre di Babele, Pieter Bruegel il Vecchio.}
-%\end{center}
+	\emph{La Torre di Babele, Pieter Bruegel il Vecchio.}
+\end{center}
 
 {\small 
 
@@ -2788,12 +2770,10 @@ Il Narratore chiederà al più veloce, quello con l'iniziativa più alta, di dic
 
 In questo modo la scelta dell'azione avviene quando è il round del giocatore che potrà agire anche in base alle Azioni e risoluzioni già avvenute.
 
-
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/Arthur-Pyle_Two_Knights.png}
-\emph{Howard Pyle, from the 1903 edition of The Story of King Arthur and His Knights}
-\end{center}
-
+%\begin{center}
+%\includegraphics[width=0.9\linewidth]{immagini/Arthur-Pyle_Two_Knights.png}
+%\emph{Howard Pyle, from the 1903 edition of The Story of King Arthur and His Knights}
+%\end{center}
 
 \subsubsection{Il Tempo (Round, Minuti e Turni)}\index{Round}\label{iltempo}
 
@@ -3125,7 +3105,7 @@ Ogni 8 ore di riposo, nelle 24 ore, si recupera 1d4 + Costituzione in Punti Feri
 %\includegraphics[width=0.7\linewidth]{immagini/caravaggioSalomeLondon.png}
 
 %\emph{Salomè con la testa del Battista è un dipinto di Caravaggio realizzato in olio su tela (91x106 cm) tra il 1607 e il 1610.\\ È conservato nella National Gallery di Londra.}
-\includegraphics[width=0.43\linewidth]{immagini/giantdeath.png}
+\includegraphics[width=0.4\linewidth]{immagini/giantdeath.png}
 
 \emph{Henry Justice Ford}
 
@@ -5698,6 +5678,12 @@ La \textbf{seconda volta} che prendi l'Abilità divieni immune ai veleni natural
 
 La \textbf{terza volta} hai un +1d6 ai Tiro Salvezza ai veleni magici e subire gli effetti di fumi tossici (ma puoi sempre soffocare).
 
+\begin{center}
+	\includegraphics[width=0.65\linewidth]{immagini/Portrait_of_V_Greatrakesv2.png}
+	
+	\emph{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
+\end{center}
+
 \subsection*{Imposizione delle mani} \index{Imposizione delle mani}\label{imposizionedellemani}\hypertarget{imposizionedellemani}{}
 
 \textbf{Requisito}: Competenza Magica 1, Tratti comuni 3, essere Devoto o Seguace
@@ -5727,13 +5713,6 @@ Ogni uso dell'Abilità Imposizione delle mani per curare riduce il valore di San
 In caso di malattie magiche una eventuale prova di contrasto è fatta con 3d6 + somma punti Tratto in comune + Saggezza.
 
 L'energia proviene dalle mani (non conta se ci sono guanti) e si applica con un Attacco a Tocco. Usa 2 Azioni. Tiro Salvezza su Tempra DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto. 2 Azioni.
-
-
-\begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/Portrait_of_V_Greatrakesv2.png}
-	
-	\emph{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
-\end{center}
 
 \subsection*{Incanalare Energia} \index{Incanalare energia}\label{incanalareenergia}\hypertarget{incanalareenergia}{}
 
@@ -6261,6 +6240,12 @@ Ogni volta che colpisci il medesimo avversario, a partire dal secondo round, fai
 
 La \textbf{seconda volta} che prendi questa Abilità, Competenza Armi 5, puoi mancare l'avversario con un colpo e non perdere i benefici.
 
+\begin{center}
+	\includegraphics[width=0.55\linewidth]{immagini/streghegoya.png}
+	
+	\emph{Sabba delle Streghe (Goya, 1798)}
+\end{center}
+
 \subsection*{Radici magiche}\index{Radici magiche}\label{radicimagiche}\hypertarget{radicimagiche}{}
 
 \textbf{Requisito}: Competenza Magica 1
@@ -6271,11 +6256,6 @@ La \textbf{seconda volta} che prendi questa Abilità, Competenza Armi 5, puoi ma
 
 Finché sei influenzato da un tuo incantesimo, utilizzando un'Azione la tua arma guadagna un +1 al colpire ed al danno e si considera un'arma magica fino alla fine del round.
 
-\begin{center}
-	\includegraphics[width=0.55\linewidth]{immagini/streghegoya.png}
-	
-	\emph{Sabba delle Streghe (Goya, 1798)}
-\end{center}
 
 \subsection*{Rappresaglia}\index{Rappresaglia}\label{rappresaglia}\hypertarget{rappresaglia}{}
 
@@ -6651,7 +6631,7 @@ La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire au
 
 \begin{center}
 
-\includegraphics[width=0.8\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+\includegraphics[width=0.85\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 
 %%\filltopageendgraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 
@@ -12432,11 +12412,11 @@ Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di ra
 
 \vfill
 
-%\begin{center}
-%\includegraphics[keepaspectratio,width=0.3\textwidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
+\begin{center}
+\includegraphics[keepaspectratio,width=0.6\textwidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
 
-%\emph{The Circle of Solomon and Triangle of Solomon from The Goetia: The Lesser Key of Solomon the King, The Book of Evil Spirits by L. W. De Laurence}
-%\end{center}
+\emph{The Circle of Solomon and Triangle of Solomon from The Goetia: The Lesser Key of Solomon the King. The Book of Evil Spirits by L. W. De Laurence}
+\end{center}
 
 \pagebreak
 
@@ -13940,7 +13920,9 @@ Un Devoto di Krondal è tipicamente una guardia del corpo, un protettore, lo sce
 \subsubsection{Ledyal}\index{Ledyal}\index{Laydel}\label{ledyal}\label{laydel}\hypertarget{ledyal}{} \hypertarget{laydel}{}\index{Gratitudine}\index{Rancore}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-L'anima di un uomo è immortale e incorruttibile. (Platone)\\
+L'anima di un uomo è immortale e incorruttibile. (Platone)
+
+\medskip
 
 Non è il corpo che mi definisce (anonima creatura)
 }\end{enfasi}\end{changemargin}
@@ -14443,13 +14425,13 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 \end{multicols}
 
 
-%\vfill
+\vfill
 
-%\begin{center}
-%\includegraphics[keepaspectratio,width=0.75\textwidth]{immagini/archetipijung.png}
-%
-%\emph{I 12 Archetipi di Jung}
-%\end{center}
+\begin{center}
+\includegraphics[keepaspectratio,width=0.75\textwidth]{immagini/archetipijung.png}
+
+\emph{I 12 Archetipi di Jung}
+\end{center}
 
 \pagebreak
 
@@ -14895,13 +14877,17 @@ Le armi che potrete trovare funzionanti sono i revolver, gli shotgun, i fucili s
 
 \textbf{Danno}: 2d8 danni
 
-\textbf{Regole}: E' necessario riuscire in un Tiro per Colpire a Difesa 18
+\textbf{Regole}: E' necessario riuscire in un Tiro per Colpire a Difesa 16
+
+\medskip
+
+Per i fucili semi-automatici ed automatici vale questa regola: Vanno a segno 2 proiettili differenza tra il Tiro per Colpire e Difesa. Es. Tiro per Colpire 16 contro Difesa 14, la differenza è 2, in quella scarica di proiettili (6) sono andati a segno 4 colpi, ovviamente non possono andare a segno più proiettili dei colpi sparati per Azione.
 
 \medskip
 
 \textbf{Fucile Semi-automatico}:
 
-\textbf{Azioni}: 1 per un 2 colpi sparati
+\textbf{Azioni}: 1 Azione per un 3 colpi sparati
 
 \textbf{Caricatore}: 21 proiettili
 
@@ -14909,13 +14895,13 @@ Le armi che potrete trovare funzionanti sono i revolver, gli shotgun, i fucili s
 
 \textbf{Danno}: 1d8 danni a proiettile
 
-\textbf{Regole}: e' necessario un Tiro per Colpire con armi a distanza ogni 2 colpi sparati.
+\textbf{Regole}: e' necessario un Tiro per Colpire con armi a distanza ogni 3 colpi sparati. +1 al Tiro per Colpire per Azione in cui si spara sempre al medesimo obiettivo.
 
 \medskip
 
 \textbf{Fucile Automatico}:
 
-\textbf{Azioni}: 1 per un 3 colpo sparato
+\textbf{Azioni}: 1 per un 6 colpo sparato
 
 \textbf{Caricatore}: 30 proiettili
 
@@ -14923,7 +14909,7 @@ Le armi che potrete trovare funzionanti sono i revolver, gli shotgun, i fucili s
 
 \textbf{Danno}: 1d6 danni a proiettile
 
-\textbf{Regole}: e' necessario un Tiro per Colpire con armi a distanza ogni 3 colpi sparati.
+\textbf{Regole}: e' necessario un Tiro per Colpire con armi a distanza ogni 6 colpi sparati. -1 al Tiro per Colpire per Azione in cui si spara sempre al medesimo obiettivo.
 
 }
 
@@ -15546,9 +15532,16 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 
 \textbf{Trappola da Caccia}. 12 mo, 2. Usi due azioni per disporre questa trappola, formata da un anello d’acciaio seghettato, che scatta quando una creatura calpesta la piastra metallica al centro di essa. La trappola è fissata tramite una catena pesante a un oggetto immobile, come un albero o uno spuntone conficcato nel terreno. Una creatura che calpesti la piastra deve superare un Tiro Salvezza su Riflessi con DC 15 o subire 1d4 danni perforanti e interrompere il movimento. Una creatura può usare 2 azioni per superare un Tiro Salvezza Tempra con Forza con DC 15, e se la riesce si libera o libera un’altra creatura a portata. Ogni tentativo fallito infligge 1 danno perforante alla creatura intrappolata.
 
-\begin{center}
-	\includegraphics[width=0.4\linewidth]{immagini/tribolo.png}
-\end{center}
+
+%\begin{wrapfigure}{r}{0.3\textwidth}
+%	\begin{center}
+%		\includegraphics[width=0.25\textwidth]{immagini/tribolo.png}
+%	\end{center}
+%\end{wrapfigure}
+
+%\begin{center}
+%	\includegraphics[width=0.2\linewidth]{immagini/tribolo.png}
+%\end{center}
 
 
 \textbf{Tribolo}. Con un’Azione, puoi spargere una singola borsa di questi minuscoli triboli per coprire un’area quadrata di 1 metro di lato. Una creatura che attraversa l’area coperta deve superare un Tiro Salvezza su Riflessi con DC 15 o subire 1 danno perforante. Finché la creatura non recupera almeno 1 punto ferita, la sua velocità a piedi è diminuita di 3 metri. Una creatura che attraversa l’area a metà velocità non deve effettuare il Tiro
@@ -15760,6 +15753,10 @@ Pedaggio di ingresso&5 mr/5 ma
 \end{tabularx}
 
 
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{immagini/riempitivocavalieriapranzo.png}
+\end{center}
+
 \subsubsection{Servizi Magici}
 
 \textbf{Livello Incantesimo x Livello Incantesimo ×100 mo}
@@ -15767,10 +15764,6 @@ Pedaggio di ingresso&5 mr/5 ma
 Questo è il costo per avere un incantatore che manipola la magia, più eventuali componenti dell'incantesimo. Questo costo presuppone che si possa andare dall’incantatore e chiedergli di eseguire una certa magia a proprio piacimento (solitamente gli servono almeno 8 ore per prepararsi). Se si vuole portare da qualche parte l’incantatore per fargli usare la magia è necessario negoziare con lui, e la risposta di base è \emph{no}.
 
 Se l’incantesimo ha conseguenze pericolose, l’incantatore deve ricevere delle prove certe che il personaggio ha la possibilità di pagare e che non mancherà di farlo nel caso queste conseguenze si verifichino (sempre che accetti di lanciare l’incantesimo richiesto, cosa nient’affatto sicura). Quando si tratta di incantesimi che trasportano il personaggio e l’incantatore lungo una distanza, è necessario pagare l’incantesimo due volte anche se il personaggio non desidera tornare indietro con l’incantatore.
-
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/riempitivocavalieriapranzo.png}
-\end{center}
 
 Non tutti i villaggi e i paesi hanno un incantatore abbastanza capace a manipolare la magia. Come regola generale, è necessario spostarsi almeno in un piccolo paese per essere abbastanza sicuri di trovare un incantatore. In un piccolo paese si potrebbe trovare un incantatore in grado di lanciare incantesimi a livello 2, in un grande paese quelli a livello 3, una piccola città per quelli a livello 5, in una grande città per quelli di livello 6, in una metropoli per quelli di livello 8. Nemmeno in una metropoli si è certi di trovare un incantatore capaci di lanciare magie con livello 9 o piu’.
 
@@ -15926,10 +15919,10 @@ La prova di professione eseguitela con 3d6+Saggezza+1/2 livello, se questa ottie
 
 \end{multicols}
 
-\vfill
+\bigskip
 
 \begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/fognelondra.png}
+\includegraphics[width=0.45\linewidth]{immagini/fognelondra.png}
 
 \emph{Mappa delle fogne di Londra, 1880}
 
@@ -16622,10 +16615,6 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 \textbf{Torrido}: Temperatura tra i 30° e i 43° C durante il giorno e tra 6 e 11 gradi in meno di notte.
 
-\textbf{Ventilato}: La velocità del vento va da moderata a forte (da 15 a 45 km/h); vedi Tabella: Effetti del Vento.
-
-\textbf{Pioggia, Neve, Nevischio e Grandine}: La brutta stagione frequentemente rallenta o blocca i trasporti via terra e rende praticamente impossibile la navigazione. acquazzoni torrenziali e bufere oscurano la visuale tanto quanto lo farebbe una nebbia densa.
-
 
 \begin{center}
 	\includegraphics[width=0.9\linewidth]{immagini/Paesaggio-pioggia-Auvers.png}
@@ -16633,6 +16622,10 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 	\emph{Vincent van Gogh, Paesaggio sotto la pioggia ad Auvers, 1890, olio su tela, cm 50 x 100}
 \end{center}
 
+
+\textbf{Ventilato}: La velocità del vento va da moderata a forte (da 15 a 45 km/h); vedi Tabella: Effetti del Vento.
+
+\textbf{Pioggia, Neve, Nevischio e Grandine}: La brutta stagione frequentemente rallenta o blocca i trasporti via terra e rende praticamente impossibile la navigazione. acquazzoni torrenziali e bufere oscurano la visuale tanto quanto lo farebbe una nebbia densa.
 
 La maggior parte delle precipitazioni si manifesta come pioggia, ma nei climi freddi possono manifestarsi anche come neve, nevischio o grandine. Le precipitazioni di qualsiasi tipo, seguite da un calo della temperatura da sopra a sotto gli 0° C possono produrre ghiaccio.
 
@@ -18425,7 +18418,7 @@ L'effetto di un veleno/pozione è immediato dopo l'insorgenza. Verificare la des
 Ci sono alcuni casi in cui è presente la voce Frequenza, in queste occasioni il Tiro Salvezza va ripetuto ogni volta che passa la Frequenza indicata, in caso di fallimento del Tiro Salvezza gli effetti indicati vengono nuovamente applicati.
 
 \begin{center}
-\includegraphics[height=0.65\linewidth]{immagini/potion.png}
+\includegraphics[height=0.6\linewidth]{immagini/potion.png}
 \end{center}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
@@ -18884,7 +18877,7 @@ Esempi di Malattie:
 \vfill
 
 \begin{center}
-	\includegraphics[width=0.32\linewidth]{immagini/plaguedoctor.png}
+	\includegraphics[width=0.28\linewidth]{immagini/plaguedoctor.png}
 	
 	\emph{Engraving of the Plague Doctor, Paul Furst, 1656}
 \end{center}
@@ -20556,9 +20549,9 @@ Il Narratore nella preparazione dell'avventura può piazzare gli oggetti magici 
 Questo approccio non è sempre suggerito, i risultati potrebbero stravolgere l'avventura se non tutta la campagna! Solitamente se un nemico ha un oggetto magico c'è un motivo e questo oggetto avrà uno scopo. Rimane il fatto che ogni tanto, tirare dadi sulle tabelle di generazione causale dei tesori magici da molta soddisfazione ed è divertente!
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore} %box narratore
-La Terra è un mondo a basso profilo magico, gli oggetti magici esistono ma sono rari ed ancor di più quelli più potenti. Mentre pozioni naturali e piccoli ninnoli possono essere trovati ovunque quello che ha impedito la creazione di tanti oggetti è il costo per creare gli stessi. Forse un tempo erano più accessibili ma ora la creazione degli oggetti più potenti, ed intendo spade +3 non oggetti meravigliosi o quasi unici, richiedono risorse che quasi nessuno possiede o ha interesse a spendere.
+La Terra è un mondo a basso profilo magico, gli oggetti magici esistono ma sono rari ed ancor di più quelli più potenti. Mentre pozioni naturali e piccoli ninnoli possono essere trovati ovunque quello che ha impedito la creazione di tanti oggetti è la consocenza ed il costo per creare gli stessi.
 
-Questo fa si che se si vuole avere qualche speranza di ottenere qualche oggetto magico è necessario esplorare le zone più antiche, meno conosciute... e più si scende in profondità più c'è possibilità di trovare qualcosa.
+Solo nella antiche profondità dove i primi Patroni hanno portato i loro tesori si possono trovare oggetti e meraviglie neppure di questo mondo... e più si scende in profondità più c'è possibilità di trovare qualcosa.
 \end{narratore}\end{changemargin}
 
 Come prima cosa è necessario stabilire che tipologia di oggetto si andrà a generare.
@@ -20607,11 +20600,12 @@ Oggetti Magici vari&18
 
 Quando nel \emph{Bonus Magico} c'è scritto \emph{ritira + Capacità Speciale Armi Tipo...} significa che devi ritirare il 1d100, ignorando altri risultato sopra 80 e tenere il bonus magico ottenuto, poi potrai tirare sulla \emph{Tabella Capacità Speciale Armi Tipo...} risultante.
 
-\medskip
+
+\begin{center}
+	\includegraphics[width=0.4\linewidth]{immagini/armatura-med.png}
+\end{center}
 
 \textbf{Tabella: Capacità Speciale Armi Tipo 1}\index[Tabelle]{Tabella Capacità Speciale Armi Tipo 1}
-
-\medskip
 
 \begin{tabular}{ll}
 \textbf{1d100} & \textbf{Capacità Speciale Armi Tipo 1}\\
@@ -20634,13 +20628,6 @@ Quando nel \emph{Bonus Magico} c'è scritto \emph{ritira + Capacità Speciale Ar
 100 &Vorpal
 \end{tabular}
 
-%\medskip
-%
-%\begin{center}
-%\includegraphics[width=0.55\linewidth]{immagini/armatura-med.png}
-%\end{center}
-%
-%\medskip
 
 \textbf{Tabella: Capacità Speciale Armi Tipo 2}\index[Tabelle]{Tabella Capacità Speciale Armi Tipo 2}
 
@@ -21244,9 +21231,9 @@ Rari e Leggendari&10
 97-100& Ventaglio Arcano
 \end{tabularx}
 
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/ancientdrum.png}
-\end{center}
+%\begin{center}
+%\includegraphics[width=0.8\linewidth]{immagini/ancientdrum.png}
+%\end{center}
 
 
 \subsubsection{Oggetti magici vari 4}\index[Tabelle]{Tabella Generazione Oggetti magici vari 4}
@@ -21280,11 +21267,11 @@ Rari e Leggendari&10
 \end{tabularx}
 
 
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/ancientbraziers2.png}
-
-\emph{Teotihuacano Old God vessels: Top - stone brazier in Natural History Museum of Los Angeles County}
-\end{center}
+%\begin{center}
+%\includegraphics[width=0.6\linewidth]{immagini/ancientbraziers2.png}
+%
+%\emph{Teotihuacano Old God vessels: Top - stone brazier in Natural History Museum of Los Angeles County}
+%\end{center}
 
 \pagebreak
 
@@ -23161,7 +23148,7 @@ Un'altra creatura può usare due azioni per afferrare la creatura all'interno de
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/genielamp.png}
+	\includegraphics[width=0.6\linewidth]{immagini/genielamp.png}
 \end{center}
 
 
@@ -46421,11 +46408,11 @@ Un enorme ringraziamento ad \href{http://www.editorifolli.it/gdr/dnd5/srd5/}{Edi
 
 %\bigskip
 
-Ringrazio \href{https://github.com/ThomasJockin/readexpro}{Readex} ( https://github.com/ThomasJockin/readexpro ) per il font usato. Readex è un font dall'alta leggibilità anche per persone con difficoltà di lettura.
+%Ringrazio \href{https://github.com/ThomasJockin/readexpro}{Readex} ( https://github.com/ThomasJockin/readexpro ) per il font usato. Readex è un font dall'alta leggibilità anche per persone con difficoltà di lettura.
 
-Il font \emph{Italico} e \textbf{\emph{Italico Grassetto}} sono presi da \href{https://dejavu-fonts.github.io/}{Dejavu} ( https://dejavu-fonts.github.io/ )
+%Il font \emph{Italico} e \textbf{\emph{Italico Grassetto}} sono presi da \href{https://dejavu-fonts.github.io/}{Dejavu} ( https://dejavu-fonts.github.io/ )
 
-\bigskip
+%\bigskip
 
 Le immagini usate per le razze, a parte per gli Umani e Golian, sono state generate con Bing Image Creator e sono le uniche immagini create da AI nel manuale.
 
