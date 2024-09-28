@@ -674,7 +674,7 @@ aggiornata versione POD 2024/09/22
 
 aggiornata versione POD 2024/09/25
 
-0.99.6 corretto raggio luce lacrima di ljust in ambiente, specificato ruolo durezza in oggetti, aggiornato capitolo pericoli in avventura, chiarimenti su prove di statistica, cambiata immagine Diversi, note su immagini create da ai, corretti link, controllati prove competenze e caratteristiche, aggiornata prova di intimidire, corretta indicazione altezza massima caduta per prova di acrobatica, aggiornato capitolo cosmologia, ottimizazzione codice latex, reso compatibile il sorgente con lualatex e pdflatex, rimosso il font readerx per garamond, aumentata grandezza font a 11, aggiornate regole su armi da fuoco, corretto hyperlink ad abilita', 
+0.99.6 corretto raggio luce lacrima di ljust in ambiente, specificato ruolo durezza in oggetti, aggiornato capitolo pericoli in avventura, chiarimenti su prove di statistica, cambiata immagine Diversi, note su immagini create da ai, corretti link, controllati prove competenze e caratteristiche, aggiornata prova di intimidire, corretta indicazione altezza massima caduta per prova di acrobatica, aggiornato capitolo cosmologia, ottimizazzione codice latex, reso compatibile il sorgente con lualatex e pdflatex, rimosso il font readerx per charter, aumentata grandezza font a 11, aggiornate regole su armi da fuoco, corretto hyperlink ad abilita', 
 
 
 
