@@ -160,10 +160,7 @@ boxrule=0.3pt
 
 \usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
 \usepackage[framemethod=TikZ]{mdframed}
-%\usepackage{garamondx}
-%\usepackage{tgpagella} % \fontsize{10.5}{12.5}\selectfont
-%\usepackage{mlmodern} % \fontsize{10.5}{12.5}\selectfont
-\usepackage{charter}  % \fontsize{10.5}{12.5}\selectfont
+%\usepackage{garamondx} %\usepackage{tgpagella} % \fontsize{10.5}{12.5}\selectfont %\usepackage{mlmodern} % \fontsize{10.5}{12.5}\selectfont \usepackage{charter}  % \fontsize{10.5}{12.5}\selectfont
 
 
 
@@ -174,13 +171,11 @@ boxrule=0.3pt
 	\refstepcounter{section}
 	\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}
 	\sectionmark{#1}}
-%Define centered and automatically spaced columns for tabularx.
 \newcolumntype{Q}{>{\centering\arraybackslash}X}
-%Define left-aligned wrapping and automatically spaced columns for tabularx.
 \newcolumntype{L}{>{\raggedright\arraybackslash}X}
-%Define left-aligned wrapping columns for tabular.
 \newcolumntype{h}{>{\raggedright\arraybackslash}p}
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
+
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\medskip \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
 
@@ -409,7 +404,6 @@ D\&D ha nelle proprie origini tratti misogini e razzisti che con il tempo sono s
 OBSS vuole continuare nel solco di un gioco inclusivo e libero. Ogni gruppo è libero di approcciare argomenti controversi come meglio crede ma sempre nel rispetto di ogni giocatore e sensibilità. Non fate che OBSS sia motivo di litigio ma di unione e spirito fraterno, un gioco che unisca e mai divida.
 \end{tcolorbox}\end{changemargin}
 
-
 \pagebreak{}
 
 \subsection{Termini Comuni}\label{Termini Comuni}
@@ -417,6 +411,7 @@ OBSS vuole continuare nel solco di un gioco inclusivo e libero. Ogni gruppo è l
 \begin{multicols}{2}
 
 \lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{T}{i} elenco un pò di termini\index{Termini comuni} e concetti che troverai ripetuti più volte nel libro.
+
 
 \textbf{Arrotondamenti}: \index{Arrotondamenti}sempre per difetto se non esplicitato diversamente ma con un minimo di 1. Es. 7/2 = 3, 9/4=2, 1/2=1
 
@@ -1406,7 +1401,8 @@ I dadi usati dai giocatori vengono poi spostati in un altro contenitore che il N
 E' un diritto naturale saziarsi l'anima con la vendetta. (Attila)
 \smallskip
 
-Est Sularus Oth Mithas. ("Il mio onore è la mia vita", Giuramento dei Cavalieri di Solamnia)}\end{enfasi}\end{changemargin}\medskip
+%Est Sularus Oth Mithas. ("Il mio onore è la mia vita", Giuramento dei Cavalieri di Solamnia)
+}\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -1543,7 +1539,7 @@ Se il personaggio è completamente difforme ai suoi Tratti non acquisirà punti 
 \includegraphics[height=0.35\linewidth]{immagini/troll.png}
 \end{center}
 
-\bigskip
+\medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Se un viaggiatore non riporta qualcosa da condividere, non è un \emph{Eroe} ma un impostore, un egoista privo di saggezza. (Il viaggio dell’Eroe, Christopher Vogler)}\end{enfasi}\end{changemargin}
 
@@ -1870,12 +1866,26 @@ La \textbf{Competenza Magica} (abbreviata in \textbf{CM}) permette al personaggi
 
 Un personaggio con alta \textbf{Competenza Magica} sa manipolare più incantesimi e con risultati migliori.
 
-Il valore di Competenza Magica stabilisce insieme all'Abilità Adepto della Magia il livello massimo di incantesimi lanciabile.
+Il valore di Competenza Magica stabilisce insieme all'Abilità Adepto della Magia ed al modificatore di caratteristica per incantesimi il livello massimo di incantesimi lanciabile.
+
+Il punto di Competenza Magica, a differenza di quello di Competenza Armi, non è necessario dichiararlo su una Lista di Magia, Patrono o altro. Il punto si \emph{trasforma} in grezzo potere magico.
+
+E' necessario avere almeno 1 punto in Competenza Magica se si vuole essere degli usufruitori di magia, se si vuole conoscere il come funziona la magia e la connessione di questa con i Patroni.
+
+Non è strettamente necessario mettere sempre il punto di Competenza Attiva in Competenza Magia se si vuole fare un incantatore, anzi, qualche punto in Competenza Armi serve anche al mago più bravo se vuole sapere \emph{mirare e colpire} un avversario con un incantesimo.
+
+Un punteggio di Competenza Magica 14 e aver preso 4 volte Adepto della Magia, avendo 5 nel modificatore di caratteristica per incantesimi, è sufficente per poter lanciare incantesimi di massimo livello. CM 9 e Adepto della Magia preso tre volte vi possono garantire il sesto livello di incantesimi.
+
+\subsubsection{Opzionale - Abilità come Competenze Attive}\index{Opzionale - Abilità come Competenze Attive}
+
+Il Narratore può concedere su richiesta del giocatore di poter usare il punto di Competenza Attiva non per aumentare la Competenza Magica o delle Armi, bensì per selezionare una nuova Abilità, rispettando i requisiti.
+
+\subsubsection{I punteggi delle Competenze Base e Attive}\label{punteggicompetenzebaseattive}\index{I punteggi delle Competenze Base e Attive}
 
 Ogni punto attribuito nella Competenze di Base o Competenza Armi o Magica permette di usufruire di +1 nella prova relativa (Tiro per Colpire, Competenza Magica)
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups arriva al 4' livello!]
-		
+
 Tups è arrivato al 4' livello! Ecco come ha distribuito i punti delle Competenze Attive.
 
 \textbf{1 livello}: +1 Competenza Armi, Abilità: Armatura del Devoto (+2 Volontà, +1 Riflessi, Costituzione), Il Patrono è la mia Arma (+1 Riflessi, +1 Volontà, Costituzione)
@@ -1890,16 +1900,12 @@ Tups è arrivato al 4' livello! Ecco come ha distribuito i punti delle Competenz
 
 \end{tcolorbox}\end{changemargin}
 
-\subsubsection{Opzionale - Abilità come Competenze Attive}\index{Opzionale - Abilità come Competenze Attive}
-
-Il Narratore può concedere su richiesta del giocatore di poter usare il punto di Competenza Attiva non per aumentare la Competenza Magica o delle Armi, bensì per selezionare una nuova Abilità, rispettando i requisiti.
-
 \end{multicols}
 
 \vfill
 
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/giavellottiragazzo4.png}
+\includegraphics[width=0.5\linewidth]{immagini/giavellottiragazzo4.png}
 \end{center}
 
 
@@ -5321,6 +5327,13 @@ Il tempo di lancio dell'incantesimo aumenta di 1 Azione, se il tempo totale di l
 
 La \textbf{seconda volta} che prendi questa Abilità, requisito Competenza Magica 6, scegli un nuovo tipo di Energia. Quando effettui la sostituzione puoi scegliere tra i tipi di energia a disposizione. Non hai più la penalità al tempo di lancio dell'incantesimo.
 
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/distillare.png}
+	
+	\emph{The Alchemist Discovering Phosphorus. Joseph Wright of Derby (1771-1795)}
+\end{center}
+
+
 \subsection*{Esperto}\index{Esperto}\label{esperto}\hypertarget{esperto}{}
 
 \textbf{Requisito}: Caratteristica collegata almeno a -1
@@ -5338,12 +5351,6 @@ La \textbf{terza volta} che prendi questa Abilità aggiungi 1d6 alla prova. Puoi
 La \textbf{quarta volta} che prendi questa Abilità consideri il totale dei dadi tirati come 10 se ha tirato da 4-9.
 
 Il bonus sono cumulativi se riferiti sempre la stessa Competenza. Non è usabile su Consapevolezza (vedi \hyperlink{percettivo}{Percettivo}, pag. \pageref{percettivo}).
-
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/distillare.png}
-
-\emph{The Alchemist Discovering Phosphorus. Joseph Wright of Derby (1771-1795)}
-\end{center}
 
 \subsection*{Estrazione rapida}\index{Estrazione rapida}\label{estrazionerapida}\hypertarget{estrazionerapida}{}
 
@@ -5428,6 +5435,24 @@ La \textbf{seconda volta} che prendi questa Abilità, requisito somma Tratti in 
 La \textbf{terza volta} che prendi questa Abilità, requisito somma Tratti in comune 12, sei sempre sotto l'effetto dell'incantesimo Santuario verso qualsiasi animale non magico.
 
 La \textbf{quarta volta} che prendi questa Abilità, requisito Animalia preso 4 volte, puoi trasformati usando Animalia, in qualsiasi creatura purché non sia un immondo o drago.
+
+\subsection*{Figlio Unico}\index{Figlio Unico}\label{figliounico}\hypertarget{figliounico}{}
+
+Sei in grado formulare magie anche senza avere mai studiato, in te scorre potente il sangue di un Patrono. Scegli un Patrono ed individua la sua Lista Magica preferita, non è necessario avere Tratti in comune o essere un Devoto o Seguage. 
+
+\textbf{Requisito}: Costituzione 0
+
+\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
+
+La \textbf{prima volta} che prendi questa Abilità scegli due Trucchetti dalla Lista Magica. Puoi lanciare questi Trucchetti senza dover effettuare Prove di Magia o limitazioni d'armatrua.
+
+La \textbf{seconda volta} che prendi questa Abilità individua altri due Trucchetti, o se sei un Seguace scegli un incantesimo di primo livello. Hai CM pari al valore del Tratto a punteggio più alto in comune con il Patrono. Requisito Tratto in comune a punteggio 3.
+
+La \textbf{terza volta} che prendi questa Abilità individua altri due Trucchetti, o se sei un Devoto scegli un incantesimo di secondo livello. Hai CM pari al valore del Tratto a punteggio più alto in comune con il Patrono. Requisito Tratto in comune a punteggio 5.
+
+La \textbf{quarta volta} che prendi questa Abilità individua altri due Trucchetti, o se sei un Devoto scegli un incantesimo di terzo livello. Hai CM pari al valore del Tratto a punteggio più alto in comune con il Patrono. Requisito Tratto in comune a punteggio 7.
+
+Le Abilità 2, 3, 4 possono essere prese più volte.
 
 \subsection*{Finta Morte}\index{Finta Morte}\label{fintamorte}\hypertarget{fintamorte}{}
 
@@ -5581,6 +5606,12 @@ I bonus sono attivi anche se non stai combattendo.
 
 Se colpisci 3 volte entro 2 round un avversario questo deve fare una Tiro Salvezza su Tempra con DC pari al Tiro per Colpire dell'ultimo attacco o cadere prono. Il Tiro Salvezza ha 1d6 di modificatore per taglia di differenza.
 
+\begin{center}
+	\includegraphics[width=0.55\linewidth]{immagini/streghegoya.png}
+	
+	\emph{Sabba delle Streghe (Goya, 1798)}
+\end{center}
+
 \subsection*{Il Patrono è con me}\index{Il Patrono è con me}\label{ilpatronoeconme}\hypertarget{ilpatronoeconme}{}
 
 \textbf{Requisito}: Devoto, Somma Tratti comuni con il Patrono 2
@@ -5696,6 +5727,12 @@ La \textbf{terza volta} che prendi questa Abilità, somma Tratti in comune 6, pu
 
 La \textbf{quarta volta} che prendi questa Abilità, somma Tratti in comune 8, puoi togliere le condizioni: Accecato, Assordato, Avvelenato, Malato* (3 usi).
 
+\begin{center}
+	\includegraphics[width=0.65\linewidth]{immagini/Portrait_of_V_Greatrakesv2.png}
+	
+	\emph{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
+\end{center}
+
 La \textbf{quinta volta} che prendi questa Abilità, somma Tratti in comune 10, puoi togliere le condizioni: Confuso, Paralizzato, Affascinato (4 usi).
 
 La \textbf{sesta volta} che prendi questa Abilità, somma Tratti in comune 12, puoi togliere le condizioni: Dominato, Pietrificato, Affaticato 3 (5 usi).
@@ -5705,12 +5742,6 @@ Ogni uso dell'Abilità Imposizione delle mani per curare riduce il valore di San
 In caso di malattie magiche una eventuale prova di contrasto è fatta con 3d6 + somma punti Tratto in comune + Saggezza.
 
 L'energia proviene dalle mani (non conta se ci sono guanti) e si applica con un Attacco a Tocco. Usa 2 Azioni. Tiro Salvezza su Tempra DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto. 2 Azioni.
-
-\begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/Portrait_of_V_Greatrakesv2.png}
-	
-	\emph{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
-\end{center}
 
 \subsection*{Incanalare Energia} \index{Incanalare energia}\label{incanalareenergia}\hypertarget{incanalareenergia}{}
 
@@ -6248,12 +6279,6 @@ La \textbf{seconda volta} che prendi questa Abilità, Competenza Armi 5, puoi ma
 
 Finché sei influenzato da un tuo incantesimo, utilizzando un'Azione la tua arma guadagna un +1 al colpire ed al danno e si considera un'arma magica fino alla fine del round.
 
-\begin{center}
-	\includegraphics[width=0.55\linewidth]{immagini/streghegoya.png}
-	
-	\emph{Sabba delle Streghe (Goya, 1798)}
-\end{center}
-
 \subsection*{Rappresaglia}\index{Rappresaglia}\label{rappresaglia}\hypertarget{rappresaglia}{}
 
 \textbf{Requisito}: Competenza Armi 1, almeno Seguace di Gradh o Nedraf o Orlaith o Sumkjr
@@ -6628,7 +6653,7 @@ La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire au
 
 \begin{center}
 
-\includegraphics[width=0.85\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+\includegraphics[width=0.65\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 
 %%\filltopageendgraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 
@@ -6731,6 +6756,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{danzadellalama}{Danza della Lama}\\
 \hyperlink{esperto}{Esperto}\\
 \hyperlink{fareinfuriare}{Fare Infuriare}\\
+\hyperlink{figliounico}{Figlio Unico}\\
 \hyperlink{fortunato}{Fortunato}\\
 \hyperlink{guerrierodellamagia}{Guerriero della Magia}\\
 \hyperlink{incantatoredacombattimento}{Incantatore da Combattimento}\\
@@ -8743,40 +8769,47 @@ Se lanci l'incantesimo due o più volte prima che sia sorta la nuova alba c'è u
 \textbf{Gittata}: Personale\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Istantanea\\
-Per un istante diventi tutt'uno con la natura e ottieni informazioni sul territorio circostante. In ambienti esterni, l'incantesimo ti fornisce informazioni sul territorio entro 5 chilometri da te. In grotte e altri ambienti naturali sotterranei, il raggio è limitato a 100 metri. L'incantesimo non funziona nei luoghi in cui la natura è stata soppiantata da costruzioni, come in sotterranei e paesi.\\
+Per un istante diventi tutt'uno con la natura e ottieni informazioni sul territorio circostante. In ambienti esterni, l'incantesimo ti fornisce informazioni sul territorio entro 5 chilometri da te. In grotte e altri ambienti naturali sotterranei, il raggio è limitato a 100 metri. L'incantesimo non funziona nei luoghi in cui la natura è stata soppiantata da costruzioni, come in sotterranei e paesi.
+
 Apprendi immediatamente informazioni su un massimo di tre argomenti a tua scelta su uno dei seguenti soggetti, in relazione all'area:
 
-\noindent- terreno e corpi d'acqua\\
-- piante, minerali, animali e popolazioni prevalenti\\
-- potenti celestiali, elementali, fatati, demoni o non morti\\
-- influenze da altri piani di esistenza\\
-- edifici\\
+\setlength{\parindent}{0cm}{- terreno e corpi d'acqua
+
+- piante, minerali, animali e popolazioni prevalenti
+
+- potenti celestiali, elementali, fatati, demoni o non morti
+
+- influenze da altri piani di esistenza
+
+- edifici}
+
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia apprendi un argomento aggiuntivo.
 
-\textbf{NOTA}: Se sei un Devoto di Efrem si considera che tu abbia fatto un Successo Critico Magico in più.
+\textbf{NOTA}: Se sei un Devoto di Efrem ottiene sempre almeno un Successo Critico Magico.
 
-\medskip\textbf{Confusione}\index[Incantesimi]{Confusione}\\\hypertarget{incconfusione}{}\label{incconfusione}
+\medskip\textbf{Confusione}\index[Incantesimi]{Confusione}\hypertarget{incconfusione}{}\label{incconfusione}\index{Effetti Confusione}\index{Tabella Effetti Confusione}\\
 \textbf{Lista di Magia}: Ammaliamento\\
 \textbf{Livello}: 4, Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
 \textbf{Gittata}: 27 metri\\
 \textbf{Componenti}: V, S, M (tre gusci di noce)\\
 \textbf{Durata}: 1 minuto\\
-Questo incantesimo assale e piega la mente delle creature, generando illusioni e provocando azioni incontrollate. Quando lanci questo incantesimo ogni creatura, in una sfera di 3 metri di raggio centrata su di un punto da te scelto entro la gittata, deve superare un Tiro Salvezza su Volontà o subirne gli effetti. Un bersaglio soggetto all'incantesimo non può effettuare reazioni e deve tirare un d10 all'inizio di ciascun suo round per determinare il proprio comportamento per quel round.
 
 \medskip
 
 \begin{tabularx}{0.45\textwidth}{lX}
-\hline
-d10 & Comportamento\\
-1 & La creatura usa tutte le sue Azioni per per muoversi in una direzione casuale. Per determinare la direzione tira un d8\\
-2-5 & La creatura non fa nulla per tutto il round\\
-6 	& La creatura effettua un attacco contro se stessa e finisce il round\\
-7-8 & La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina.\\
-9-10 & La creatura può agire e muoversi normalmente.
+	\hline
+	d10 & Comportamento\\
+	1 & La creatura usa tutte le sue Azioni per per muoversi in una direzione casuale. Per determinare la direzione tira un d8\\
+	2-5 & La creatura non fa nulla per tutto il round\\
+	6 	& La creatura effettua un attacco contro se stessa e finisce il round\\
+	7-8 & La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina.\\
+	9-10 & La creatura può agire e muoversi normalmente.
 \end{tabularx}
 
 \medskip
+
+Questo incantesimo assale e piega la mente delle creature, generando illusioni e provocando azioni incontrollate. Quando lanci questo incantesimo ogni creatura, in una sfera di 3 metri di raggio centrata su di un punto da te scelto entro la gittata, deve superare un Tiro Salvezza su Volontà o subirne gli effetti. Un bersaglio soggetto all'incantesimo non può effettuare reazioni e deve tirare un d10 all'inizio di ciascun suo round per determinare il proprio comportamento per quel round.
 
 Al termine di ciascun suo round, un bersaglio soggetto all'incantesimo può effettuare un Tiro Salvezza su Volontà. Se lo supera, per lui l'effetto ha termine. 
 
@@ -10832,6 +10865,8 @@ Pronunci una parola di potere che costringe a morire all'istante una creatura a 
 Te e fino a cinque creature consenzienti entro 1 metro da te vi teletrasportate istantaneamente in un luogo sicuro indicato precedentemente, detto santuario. Tu e tutte le creature teletrasportate con te, riapparite nello spazio non occupato più vicino al punto indicato quando hai preparato questo santuario (vedi sotto). Se lanci questo incantesimo senza aver prima preparato un santuario, l'incantesimo non ha effetto.\\
 Devi indicare un santuario, che sia dedicato o fortemente collegato al tuo Patrono. Se tenti di lanciare l'incantesimo perché ti porti in un'area che non sia dedicata dal tuo Patrono, l'incantesimo non ha effetto.
 
+NOTA: devi essere un Devoto o Seguace per poter lanciare questo incantesimo.
+
 \medskip\textbf{Passa Porta}\index[Incantesimi]{Passa Porta}\\
 \textbf{Lista di Magia}: Terra\\
 \textbf{Livello}: 5, Non Comune\\
@@ -10898,7 +10933,7 @@ Mentre è spaventata da questo incantesimo, una creatura deve, durante ciascun s
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S, M (una manciata di corteccia di quercia)\\
 \textbf{Durata}: 1 ora\\
-La pelle del bersaglio con cui sei in contatto al momento del lancio dell'incantesimo diventa ruvida e dall'aspetto simile alla corteccia fino al termine dell'incantesimo e la Difesa del bersaglio non può essere inferiore a 16, quale che sia l'armatura che stia indossando.
+La pelle del bersaglio con cui sei in contatto al momento del lancio dell'incantesimo diventa ruvida e dall'aspetto simile alla corteccia fino al termine dell'incantesimo e la Difesa del bersaglio diviene 16 indipendentemente dall'armatura che stia indossando.
 
 \medskip\textbf{Pelle di Pietra}\index[Incantesimi]{Pelle di Pietra}\\
 \textbf{Lista di Magia}: Terra\\
@@ -10909,7 +10944,7 @@ La pelle del bersaglio con cui sei in contatto al momento del lancio dell'incant
 \textbf{Durata}: 1 ora\\
 Lanci l'incantesimo a contatto di una creatura consenziente, la cui pelle si tramuta in una sostanza dura come la pietra. Tira 1d4+metà del valore di CM, la somma risultante è le volte che un attacco con arma di mischia o distanza viene annullato (indipendentemente che di colpisca o meno).
 
-\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia aumenti di 1 gli attacchi annullati.
+\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia aumenti di 2 gli attacchi annullati.
 
 \medskip\textbf{Piaga degli Insetti}\index[Incantesimi]{Piaga degli Insetti}\\
 \textbf{Lista di Magia}: Animali e Piante\\
@@ -11193,9 +11228,9 @@ La ragnatela è infiammabile e se esposta alle fiamme prende fuoco immediatament
 \textbf{Gittata}: Contatto\\
 \textbf{Componenti}: V, S, M (vischio, una foglia di quadrifoglio, e una randello o bastone da combattimento)\\
 \textbf{Durata}: 1 minuto\\
-Il legno di un randello o bastone da combattimento che stai impugnando viene infuso del potere della natura. Per la durata dell'incantesimo, usando quell'arma puoi usare la tua caratteristica da incantatore al posto della Forza per i Tiri per Colpire e danno da mischia, e il dado di danno dell'arma diventa un d8. L'arma diventa anche magica, se già non lo è. L'incantesimo ha termine se lo lanci di nuovo o se lasci l'arma.
+Il legno di un randello o bastone da combattimento che stai impugnando viene infuso del potere della natura. Per la durata dell'incantesimo, usando quell'arma puoi usare la tua caratteristica da incantatore al posto della Forza per i Tiri per Colpire e danno da mischia e il dado di danno dell'arma diventa un d8. L'arma diventa anche magica, se già non lo è. L'incantesimo ha termine se lo lanci di nuovo o se lasci l'arma.
 
-\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia la durata raddoppia oppure prendi un +1 al danno.
+\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia la durata raddoppia oppure aggiungi un +1 al danno.
 
 \medskip\textbf{Reggia Meravigliosa}\index[Incantesimi]{Reggia Meravigliosa}\\
 \textbf{Lista di Magia}: Evocazione\\
@@ -12044,9 +12079,9 @@ Puoi esercitare un controllo preciso sugli oggetti tramite la tua presa telecine
 \textbf{Gittata}: 3 metri\\
 \textbf{Componenti}: V\\
 \textbf{Durata}: Istantanea\\
-Questo incantesimo teletrasporta istantaneamente te e altre otto creature consenzienti (oppure un singolo oggetto) a gittata e che puoi vedere, scelte da te, in una destinazione di tua scelta. Se il bersaglio è un oggetto, deve poter entrare in un cubo di 3 metri di spigolo, e non può essere tenuto o trasportato da una creatura non consenziente.\\
+Questo incantesimo teletrasporta istantaneamente te e altre otto creature consenzienti (oppure un singolo oggetto) a gittata e che puoi vedere, scelte da te, in una destinazione di tua scelta. Se il bersaglio è un oggetto, deve poter entrare in un cubo di 3 metri di spigolo e non può essere tenuto o trasportato da una creatura non consenziente.\\
 La destinazione che scegli ti deve essere nota, e deve essere sullo stesso piano di esistenza in cui ti trovi. La tua familiarità con la destinazione determina se vi riesce ad arrivare.\\
-Il DM tira un d100 e consulta la tabella.
+Il Narratore tira un d100 e consulta la tabella.
 \end{multicols}
 \medskip
 \begin{tabular}{lllll}
@@ -12407,13 +12442,13 @@ Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di ra
 
 \end{multicols}
 
-%\vfill
-%
-%\begin{center}
-%\includegraphics[keepaspectratio,width=0.6\textwidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
+\vfill
 
-%\emph{The Circle of Solomon and Triangle of Solomon from The Goetia: The Lesser Key of Solomon the King. The Book of Evil Spirits by L. W. De Laurence}
-%\end{center}
+\begin{center}
+\includegraphics[keepaspectratio,width=0.4\textwidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
+
+\emph{The Circle of Solomon and Triangle of Solomon from The Goetia: The Lesser Key of Solomon the King. The Book of Evil Spirits by L. W. De Laurence}
+\end{center}
 
 \pagebreak
 
@@ -14426,122 +14461,126 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 
 \subsubsection{Elenco Patrono - Tratto}\index{Elenco Patrono - Tratto}\hypertarget{tabellacollegamentopatronotratto}{}\label{tabellacollegamentopatronotratto}
 
-\medskip
+\smallskip
 
 I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizzante.
 
 \medskip
 
+\setlength{\parindent}{0cm}{
+	
 \textbf{Gaya}: Altruista, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
 
-\medskip
+\smallskip
 
 \textbf{Calicante}: Ambizioso, Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro
 
-\medskip
+\smallskip
 
 \textbf{Erondil}: Arrogante, Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
 
-\medskip
+\smallskip
 
 \textbf{Rezh}: Avaro, Indeciso, Ambizioso, Invidioso, Manipolativo, Cinico, Paziente
 
-\medskip
+\smallskip
 
 \textbf{Sixiser}: Cauto, Indeciso, Intransigente, Impulsivo	Disonesto, Cinico, Sospettoso
 
-\medskip
+\smallskip
 
 \textbf{Cattalm}: Cinico, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
 
-\medskip
+\smallskip
 
 \textbf{Ljust}: Compassionevole, Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente
 
-\medskip
+\smallskip
 
 \textbf{Gradh}: Coraggioso, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
 
-\medskip
+\smallskip
 
 \textbf{Nihar}: Curioso, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Manipolativo
 
-\medskip
+\smallskip
+
 \textbf{Tazher}: Disonesto, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Manipolativo
 
-\medskip
+\smallskip
 
 \textbf{Shayalia}: Dissoluto, Cinico, Manipolativo, Vendicativo, Paziente, Compassionevole, Vanitoso
 
-\medskip
+\smallskip
 
 \textbf{Ledyal}: Entusiasta, Compassionevole, Cauto, Gentile, Curioso, Timido, Testardo
 
-\medskip
+\smallskip
 
 \textbf{Nethergal}: Estroverso, Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
 
-\medskip
+\smallskip
 
 \textbf{Sumkir}: Gentile, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
 
-\medskip
+\smallskip
 
 \textbf{Atmos}: Indeciso, Cauto, Intransigente, Paziente, Vendicativo, Curioso, Avaro
 
-\medskip
+\smallskip
 
 \textbf{Krondal}: Intransigente, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
 
-\medskip
+\smallskip
 
 \textbf{Belevon}: Invidioso, Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
 
-\medskip
+\smallskip
 
 \textbf{Orudjs}: Impulsivo, Dissoluto, Ambizioso, Indeciso, Manipolativo, Compassionevole, Disonesto
 
-\medskip
+\smallskip
 
 \textbf{Efrem}: Leale, Indeciso, Cauto, Impulsivo, Testardo, Paziente, Ambizioso
 
-\medskip
+\smallskip
 
 \textbf{Torbiorn}: Manipolativo, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
 
-\medskip
+\smallskip
 
 \textbf{Nedraf}: Paziente, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
 
-\medskip
+\smallskip
 
 \textbf{Atherim}: Sospettoso, Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso\
 
-\medskip
+\smallskip
 
 \textbf{Thaft}: Timido, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
 
-\medskip
+\smallskip
 
 \textbf{Lynx}: Testardo, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
 
-\medskip
+\smallskip
 
 \textbf{Orlaith}: Vanitoso, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
 
-\medskip
+\smallskip
 
 \textbf{Laydel}: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
 
-\medskip
+\smallskip
 
 \textbf{Tàhil}: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
 
+}
 
 \vfill
 
 \begin{center}
-	\includegraphics[keepaspectratio,width=0.36\textwidth]{immagini/archetipijung.png}
+	\includegraphics[keepaspectratio,width=0.56\textwidth]{immagini/archetipijung.png}
 	
 	\emph{I 12 Archetipi di Jung}
 \end{center}
@@ -14929,7 +14968,7 @@ Ogni qual volta il Tiro per Colpire sia un fallimento critico c'è stato un prob
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{lX}
+\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \toprule
 \textbf{dado}& \textbf{Effetto}\\
 1	& il proiettile è difettoso, per fortuna non ci sono altri problemi. Costa una Azione  togliere il proiettile inceppato. \\
@@ -14946,7 +14985,7 @@ Ogni qual volta il Tiro per Colpire sia un fallimento critico c'è stato un prob
 \vfill
 
 \begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/armiriempitivo3.png}
+\includegraphics[width=0.7\linewidth]{immagini/armiriempitivo3.png}
 \end{center}
 
 
@@ -14970,21 +15009,21 @@ Le Penalità Competenze è la penalità che si applica alle prove di competenza 
 \subsubsection{Tabella Armature}\index[Tabelle]{Tabella Armature}
 
 \label{tabella-armature}
-\begin{tabular}{llllllll}
+\noindent\begin{tabular}{llllllll}
 %\begin{xltabular}{0.95\textwidth}{lXXXXXXX}
-\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{Penalità Comp.} & \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Ingombro}\\
+\textbf{Armatura} & \textbf{Costo} & \textbf{Difesa} & \textbf{Pen. Comp.} & \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Ingombro}\\
 \toprule
-Imbottita 		& 5 	& 1 & 0 & L & 0 & NO	&2\\
-Cuoio 			& 10	& 2 & 0  & L & 0 & SI	&2\\
-Cuoio rinforzato& 25  	& 3  & 0   & L & 0 & SI	&2\\
-Giaco di Maglia & 15 	& 4  & -1  & M & 0 &+2	&4\\
-Scaglie			& 50 	& 5  & -1  & M & 0 &+2	&4\\
-Anelli 			& 150  	& 6  & -1  & M & 0 &+2	&4\\
-Pettorale  		& 200  	& 6  & -2  & M & 0 &+2	&4\\
-Bande 			& 250  	& 7  & -2  & P & 0 &+1	&8\\
-Mezza armatura  & 1200 	& 8  & -2  & P & 1 &+1,2&8\\
-da Campo		& 1400  & 9  & -3  & P & 2 &+1,2&8\\
-Completa		& 1500  & 10 & -4  & P & 3 &+1,1&8\\
+Imbottita 		& 5 mo	 & 1 & 0 & L & 0 & NO	&2\\
+Cuoio 			& 10 mo	 & 2 & 0  & L & 0 & SI	&2\\
+Cuoio rinforzato& 25 mo  & 3  & 0   & L & 0 & SI	&2\\
+Giaco di Maglia & 15 mo	 & 4  & -1  & M & 0 &+2	&4\\
+Scaglie			& 50 mo	 & 5  & -1  & M & 0 &+2	&4\\
+Anelli 			& 150 mo & 6  & -1  & M & 0 &+2	&4\\
+Pettorale  		& 200 mo & 6  & -2  & M & 0 &+2	&4\\
+Bande 			& 250 mo & 7  & -2  & P & 0 &+1	&8\\
+Mezza armatura  & 1200 mo& 8  & -2  & P & 1 &+1,2&8\\
+da Campo		& 1400 mo& 9  & -3  & P & 2 &+1,2&8\\
+Completa		& 1500 mo& 10 & -4  & P & 3 &+1,1&8\\
 \end{tabular}
 
 \begin{multicols}{2}
@@ -15014,8 +15053,6 @@ Es. Tups è in armatura pettorale e lancia un incantesimo. E' obbligato dal port
 Nella prova esce 4,5,2 / 3,4,1,1. Toglie i due 1 per Adepto della Magia ma aggiunge un 2 per l'armatura. Nel complesso non ha ottenuto fallimenti critici, grazie ai dadi tolti da Adepto della Magia, riesce quindi a formulare l'incantesimo. Se avesse indossato una Mezza armatura la prova sarebbe fallita.
 
 Anche se è il giocatore a richiedere una Prova di Magia, si eseguirà la prova con i valori dovuti ad armatura e/o scudi. \textbf{Il portare l'armatura o scudo negherà qualsiasi successo magico critico ottenuto ma non impedirà i fallimenti magici critici.}
-
-\medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore} Quando conteggiate l'Ingombro dato dall'armatura e scudo \textbf{indossato} dovete dividerlo per due.
 
@@ -16468,19 +16505,19 @@ Se non si ha il tipo di movimento Nuotare \textbf{muoversi nell'acqua} si consid
 
 Se la creatura sa nuotare non sono necessarie prove per muoversi normalmente in acque calme, tranne in cui voglia \emph{correre} (DC 13) o le acque siano mosse (DC 15) o siano tempestose (DC 20).
 
+\medskip
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/affogare.png}
+	
+	\emph{Henry Justice Ford}\end{center}
+\medskip
+
 Se la creatura non sa nuotare allora deve fare una Tiro Salvezza su Tempra a DC 13 ogni round che vuole muoversi, se le acqua sono mosse la DC e' 19 e se sono tempestose la DC è 24, se si vuole \emph{correre} la DC aumenta di 4.
 In caso di fallimento non ci si sposta e si ha un -1 alla prova successiva, in caso di fallimento critico la successiva prova prende -4. Quando le penalità cumulate sono 9 o più si incomincia ad affondare ed annegare (vedi sotto).
 
 Se la prova di nuotare fallisce la creature subisce 1d6 danni letali se le acque scorrono sopra rocce e avvallamenti.
 
 L'acqua molto profonda non è solo nera come la pece ma infligge danni ancora peggiori a causa della pressione nell'ordine di 1d6 danni al minuto ogni 30 metri che separano il personaggio dalla superficie. Un Tiro Salvezza su Tempra superato con successo (DC 15, +1 per ogni prova precedente) indica che il personaggio immerso non subisce danni in quel minuto. L'acqua, oltre i 150 metri di profondità, è molto fredda ed infligge 1d6 Danni Non Letali per minuto di esposizione a causa dell'ipotermia.
-
-\medskip
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/affogare.png}
-
-\emph{Henry Justice Ford}\end{center}
-\medskip
 
 \textbf{Annegamento / Trattenere il fiato}\index{Annegamento}\index{Affogare}\index{Soffocare}\hypertarget{trattenereilfiato}{}\label{trattenereilfiato}\index{Trattenere il fiato}
 
@@ -16492,17 +16529,19 @@ Se il Tiro Salvezza fallisce il personaggio va immediatamente a 0 Punti Ferita e
 
 Si può annegare in sostanze diverse dall'acqua, come la sabbia, le sabbie mobili, la polvere molto fine o un silos pieno di farro o semplicemente trattenendo il respiro.
 
-\begin{center}
-	\includegraphics[height=0.7\linewidth]{immagini/desert.png}
-\end{center}
-
 \subsubsection{Pericoli del Caldo}\index{Caldo}
 
 \label{pericoli-del-caldo}
 
+
+\begin{center}
+	\includegraphics[height=0.7\linewidth]{immagini/desert.png}
+\end{center}
+
 Una creatura sottoposta a temperature molto elevate (sopra i 40° C) deve superare un Tiro Salvezza su Tempra ogni ora (DC 15, +1 per ogni prova precedente) oppure subisce 1d4 danni Non Letali. Se indossa abiti pesanti o qualsiasi tipo di armatura, subisce penalità -1d6 a questi Tiri Salvezza. Un personaggio somma il suo valore di competenza di Sopravvivenza e può dare un bonus ai compagni pari alla metà del valore per lo stesso Tiro Salvezza. I personaggi Privi di Sensi iniziano a subire danni letali (1d4 danni all'ora).
 
 Un personaggio che subisce Danni Non Letali a causa dell'esposizione al caldo, è soggetto ad un colpo di calore ed è Affaticato. Queste penalità terminano quando il personaggio recupera i Danni Non Letali subiti a causa del caldo.
+
 
 Il caldo infernale (temperatura dell'aria sopra i 60° C, fuoco, acqua che bolle, lava) infligge danni letali. Respirare l'aria con queste temperature infligge 1d6 danni da fuoco al minuto (senza Tiro Salvezza).
 
@@ -16512,20 +16551,17 @@ L'acqua bollente infligge 1d6 danni da scottatura, a meno che il personaggio non
 
 \label{prendere-fuoco}
 
-I personaggi esposti ad olio bollente, fuochi da campo, fuochi magici non istantanei possono vedere i loro abiti, capelli o equipaggiamento prendere fuoco. Gli incantesimi specificano se sono in grado di appiccare il fuoco.
-
-I personaggi che rischiano di prendere fuoco possono effettuare un Tiro Salvezza su Riflessi con DC 15 per evitare questo fato. Se i vestiti o i capelli di un personaggio prendono fuoco, egli subisce immediatamente 1d6 danni. Per ogni round successivo il personaggio in fiamme deve effettuare un altro Tiro Salvezza su Riflessi. Il fallimento indica che subisce altri 1d6 danni in quel round. Il successo indica che il fuoco si è estinto (ovvero, una volta che supera il Tiro Salvezza, non sta più andando a fuoco).
-
-Un personaggio che va a fuoco può estinguere automaticamente le fiamme saltando dentro a dell'acqua sufficiente a spegnerle. Se non ci sono grosse quantità d'acqua a disposizione, rotolarsi sul terreno o smorzare la fiamma con mantelli o simili può concedere al personaggio +1d6 al Tiro Salvezza.
-
-Coloro che sono talmente sfortunati dal vedere il loro equipaggiamento o vestiti prendere fuoco devono superare un Tiro Salvezza su Riflessi (DC 15) per ogni oggetto. Gli oggetti infiammabili che falliscono il tiro, subiscono la stessa quantità di danni del personaggio.
-
-
 \begin{center}
 	\includegraphics[width=0.7\linewidth]{immagini/fuocopericolo.png}
 \end{center}
 
-\medskip
+I personaggi esposti ad olio bollente, fuochi da campo, fuochi magici non istantanei possono vedere i loro abiti, capelli o equipaggiamento prendere fuoco. Gli incantesimi specificano se sono in grado di appiccare il fuoco.
+
+I personaggi che rischiano di prendere fuoco possono effettuare un Tiro Salvezza su Riflessi con DC 15 per evitare questo fato. Se i vestiti o i capelli di un personaggio prendono fuoco, egli subisce immediatamente 1d6 danni. Per ogni round successivo il personaggio in fiamme deve effettuare un altro Tiro Salvezza su Riflessi. Il fallimento indica che subisce altri 1d6 danni in quel round. Il successo indica che il fuoco si è estinto (una volta che supera il Tiro Salvezza non sta più andando a fuoco).
+
+Un personaggio che va a fuoco può estinguere automaticamente le fiamme saltando dentro a dell'acqua sufficiente a spegnerle. Se non ci sono grosse quantità d'acqua a disposizione, rotolarsi sul terreno o smorzare la fiamma con mantelli o simili può concedere al personaggio +1d6 al Tiro Salvezza.
+
+Coloro che sono talmente sfortunati dal vedere il loro equipaggiamento o vestiti prendere fuoco devono superare un Tiro Salvezza su Riflessi (DC 15) per ogni oggetto. Gli oggetti infiammabili che falliscono il tiro, subiscono la stessa quantità di danni del personaggio.
 
 \textbf{Effetti della Lava}\index{Lava}
 
@@ -16538,6 +16574,10 @@ I danni provocati dal magma continuano per 1d3 round dopo il termine dell'esposi
 
 \label{pericoli-del-freddo}
 
+\begin{center}
+	\includegraphics[height=0.7\linewidth]{immagini/snowfall.png}
+\end{center}
+
 I personaggi non ben vestiti in climi freddi (sotto i 5° C) devono superare un Tiro Salvezza su Tempra ogni ora (DC 15, +1 per ogni prova precedente) oppure subiscono 1d6 Danni Non Letali.
 In condizioni di freddo estremo o di esposizione sotto i -17° C, un personaggio non adeguatamente vestito deve effettuare un Tiro Salvezza su Tempra ogni 10 minuti (DC 15, +1 per ogni prova precedente), subendo 1d6 Danni Letali per ogni Tiro Salvezza fallito. I personaggi che indossano abiti invernali hanno bisogno di effettuare la prova per il freddo e l'esposizione solo una volta all'ora.
 
@@ -16547,9 +16587,6 @@ Un personaggio che subisce Danni Non Letali a causa del freddo o dell'esposizion
 
 Le condizioni di freddo intollerabile o di esposizione (sotto i -28° C) infliggono ai personaggi 1d6 danni letali per minuto (senza alcun Tiro Salvezza) se non specificatamente protetti.
 
-\begin{center}
-	\includegraphics[height=0.6\linewidth]{immagini/snowfall.png}
-\end{center}
 
 \subsubsection{Effetti del Ghiaccio}\index{Ghiaccio}
 
@@ -16615,7 +16652,8 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 
 \begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/Paesaggio-pioggia-Auvers.png}
+	
+	\includegraphics[width=0.95\linewidth]{immagini/Paesaggio-pioggia-Auvers.png}
 	
 	\emph{Vincent van Gogh, Paesaggio sotto la pioggia ad Auvers, 1890, olio su tela, cm 50 x 100}
 \end{center}
@@ -16786,6 +16824,14 @@ Le regole per il combattimento sott'acqua si applicano alle creature che non son
 
 Il danno da pressione può essere totalmente evitato tramite incantesimi che offrano una resistenza.
 
+\begin{center}
+	
+	\includegraphics[width=0.4\linewidth]{immagini/avventure_acqua_grey.png}
+	
+	\emph{The Mermaid and the Boy - Henry Justice Ford}
+\end{center}
+
+
 \subsection{Combattimento sott'acqua}\label{combatteresottacqua}\index{Combattimento sott'acqua}\hypertarget{combatteresottacqua}{}
 Le creature che vivono sulla terra hanno considerevoli difficoltà a combattere sott'acqua. L'acqua influenza la Difesa di una creatura, i suoi Tiri per Colpire, i danni e il movimento.
 
@@ -16824,14 +16870,6 @@ Una creatura incapace di respirare sott'acqua spende tre round di trattenere il 
 Alcuni incantesimi potrebbero funzionare diversamente sott'acqua, a discrezione dell'Arbitro
 
 Vedi Capitolo Ambiente per le regole sul \hyperlink{trattenereilfiato}{trattenere il respiro} (pag. \pageref{trattenereilfiato}).
-
-
-\begin{center}
-
-\includegraphics[width=0.4\linewidth]{immagini/avventure_acqua_grey.png}
-
-\emph{The Mermaid and the Boy - Henry Justice Ford}
-\end{center}
 
 \end{multicols}
 
@@ -16928,7 +16966,7 @@ I quattro tipi base di dungeon sono definiti dal loro stato attuale. Molti dunge
 
 \medskip
 \begin{center}
-	\includegraphics[width=0.7\linewidth]{immagini/avventure_dungeon.png}
+	\includegraphics[width=0.8\linewidth]{immagini/avventure_dungeon.png}
 	
 	\emph{The Red Romance Book, Henry Justice Ford}
 \end{center}
@@ -16947,7 +16985,7 @@ Alcuni dungeon sono parzialmente occupati e parzialmente vuoti o in rovina. In q
 Il dungeon del tipo riparo sicuro è quello che avrà più trappole e meno bestie erranti. E' normalmente costruito in base alla funzionalità piuttosto che all'aspetto, anche se a volte viene decorato con statue e pareti dipinte, specie per le tombe di personaggi importanti.
 
 \begin{center}
-	\includegraphics[width=0.65\linewidth]{immagini/dungeon.png}
+	\includegraphics[width=0.7\linewidth]{immagini/dungeon.png}
 \end{center}
 
 A volte, però, una sala del tesoro o una cripta vengono costruite in modo da ospitare guardiani viventi. Il problema con questa strategia è che occorre tenere in vita le creature tra un tentativo di intrusione e un altro. La magia è di solito la soluzione migliore per rifornire di cibo e acqua queste creature. I costruttori di tombe e sepolcri, di solito, pongono non morti e costrutti, che non hanno bisogno di sostentamento o di riposo, a protezione dei loro dungeon. Le trappole magiche possono attaccare gli intrusi convocando mostri nel dungeon che scompaiono quando terminano il loro compito.
@@ -17047,9 +17085,13 @@ Così come per le pareti, esistono molti tipi di pavimenti per dungeon.
 
 \textbf{Lastricato Irregolare}: Col passare del tempo, alcuni pavimenti possono diventare talmente irregolari da richiedere una prova di Acrobatica con DC 10 per correre o Caricare sulla loro superficie. Coloro che falliscono la prova non possono muoversi durante quel round. Pavimenti così pericolosi dovrebbero essere in realtà l'eccezione e non la regola.
 
+\medskip
+
 \begin{center}
-	\includegraphics[width=0.7\linewidth]{immagini/pavimento_grey.png}
+	\includegraphics[width=0.9\linewidth]{immagini/pavimento_grey.png}
 \end{center}
+
+\medskip
 
 \textbf{Pavimento di Pietra Scolpita}: Ruvidi e irregolari, i pavimenti scolpiti nella pietra sono di solito coperti da pietre smosse, ghiaia, polvere e altri detriti. Una prova di Acrobatica con DC 10 è necessaria per correre o Caricare su un simile pavimento. Un fallimento significa che il personaggio può ancora agire, ma non può correre o Caricare in quel round.
 
@@ -17295,6 +17337,13 @@ E' necessario una prova di Atletica DC 13 oppure subire 2d6 di danno da taglio.
 \textbf{Trincia Dito, DC 14}: questa trappola è molto subdola. Si presenta con un foro di circa 1 cm di diametro e profondo 7 cm. Qualsiasi cosa che ne tocchi il fondo farà scattare la trappola, causando 2d4 di danno al dito/oggetto inserito. La lama potrebbe anche essere avvelenata.
 
 \end{multicols}
+
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/GBP14.png}
+	
+	\textit{Carceri d'invenzione, XIV / The Gothic Arch, Giovanni Battista Piranesi}
+\end{center}
 
 \pagebreak
 
@@ -18859,7 +18908,7 @@ Esempi di Malattie:
 
 \textbf{Corruzione di Rezh}: 1 giorno, TS Volontà DC 18, 1 ora, 2 successi, -1d6 Punti Ferita Massimi\index{Corruzione di Rezh}
 
-\textbf{Piaga Funginea}\index{Piaga Funginea}: 8 ore, TS Tempra DC 24, 12 ore, 2 successi, -1 punto a Destrezza e Intelligenza
+%\textbf{Piaga Funginea}\index{Piaga Funginea}: 8 ore, TS Tempra DC 24, 12 ore, 2 successi, -1 punto a Destrezza e Intelligenza
 
 \textbf{Torpore Violento}\index{Torpore Violento}: 24 ore, TS Volontà DC 12, 12 ore, 1 successo, +1 al Danno con Armi da Mischia e -1 Saggezza
 
@@ -19423,6 +19472,7 @@ Un mostro non deve essere per forza ucciso per averne i Punti Esperienza, è suf
 
 Nel limite del possibile ogni sessione dovrebbe includere una parte di ruolo, una parte di esplorazione, tre parti di combattimento (anche molte più di tre), una parte di riposo.
 
+\medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Può sembrare anacronistico quando c'è già in sviluppo la sesta edizione del più famoso gioco di ruolo tornare a premiare i personaggi in base all'oro preso ai mostri.
@@ -19431,6 +19481,8 @@ Posso però garantirvi che qualora il vostro gruppo sia particolarmente \emph{po
 
 OBSS si rifà ai principi dell'OSR e come tale la fase di esplorazione e combattimento ha un proprio peso importante e vitale.
 \end{narratore}\end{changemargin}
+
+\medskip
 
 Sia chiaro che nulla vi vieta di approntare un passaggio di livello basato su punti fissi (milestone) durante l'avventura. Vostro il tavolo, vostre le regole!
 
@@ -19441,6 +19493,7 @@ Sia chiaro che nulla vi vieta di approntare un passaggio di livello basato su pu
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Che è la vita senza speranza? Una gittata di dadi fra le tenebre, fra i deliri. (Ambrogio Bazzero)}
 \end{enfasi}\end{changemargin}
 
+\medskip
 
 Un incontro è un momento di tensione e speranza, paura e sfida. E' l'occasione di mostrare e manifestare le proprie capacità e di lavorare come gruppo.
 
@@ -19465,7 +19518,7 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 
 \textbf{Determinare il grado di Sfida}: Il Grado di Sfida (GS) è un numero di convenienza usato per indicare i rischi relativi presentati da un mostro, una trappola, un pericolo o un altro incontro: più il grado di Sfida è alto, più pericoloso è l'incontro. Riferitevi alla Tabella: Determinare gli Incontri per determinare il Grado di Sfida che il vostro gruppo dovrebbe affrontare, in base alla difficoltà della sfida che volete e al APL.
 
-\medskip
+\columnbreak
 
 \textbf{Tabella: Determinare gli Incontri}\index[Tabelle]{Tabella Determinare gli Incontri}
 
@@ -19536,6 +19589,7 @@ Partendo da un grado di Sfida stabilito (10) seguite questa tabella per stabilir
 +2	& 100
 \end{tabularx}
 
+\medskip
 
 \textbf{Per raggiungere l'obiettivo dobbiamo sommare \emph{le percentuali} di ogni singolo avversario fino a raggiungere 100, ovvero il 100\% della sfida.}
 
@@ -19662,6 +19716,8 @@ Per aiutarvi nel disporre i tesori, la quantità di oggetti magici e di bottino 
 \textbf{Tabella: Valori del Tesoro per Incontro}\index{Tesoro}\index[Tabelle]{Tabella Valori del Tesoro per Incontro}\label{valoretesoroincontro}\hypertarget{valoretesoroincontro}{}
 
 \begin{tabularx}{0.45\textwidth}{XX}
+	
+\medskip
 
 \textbf{Grado di Sfida} & \textbf{per Incontro (mo)} \\
 \toprule
@@ -19672,7 +19728,8 @@ Per aiutarvi nel disporre i tesori, la quantità di oggetti magici e di bottino 
 \textbf{+6 (Mortale)} 			& LV*LV*15\\
 \textbf{+8 (Epica)} 			& LV*LV*20
 \end{tabularx}
-\bigskip{}
+
+\medskip
 
 Usate questa tabella per avere un indicazione del valore del Tesoro del incontro.\index{Tesoro della Sfida}
 
@@ -19688,13 +19745,15 @@ Gli incontri contro dei PNG solitamente ricompensano con un tesoro tre volte sup
 
 Animali, Vegetali, Costrutti, Non Morti non intelligenti, Melme e trappole sono ottimi \emph{incontri con poco tesoro}. In alternativa, se i personaggi affrontano un certo numero di creature con poco o nessun tesoro, dovrebbero avere l'occasione di ottenere un certo numero di oggetti di valore più significativo nell'immediato futuro per compensare lo squilibrio. Come regola generale, i personaggi non dovrebbero possedere alcun oggetto magico di valore superiore alla metà della ricchezza totale del personaggio, pertanto controllate bene prima di ricompensare i personaggi con oggetti molti costosi.
 
+\columnbreak
+
 \subsection{Ricchezza dei Personaggi per Livello}\index{Richezza per Livello}
 
 \textbf{Tabella: Ricchezza dei Personaggi per Livello}\index[Tabelle]{Tabella Ricchezza dei Personaggi per Livello}
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{XX|XX}
+\noindent\begin{tabularx}{0.50\textwidth}{XX|XX}
 	\textbf{Livello} & \textbf{Ricchezza (mo)} & \textbf{Livello} & \textbf{Ricchezza (mo)}\\
 	\toprule
 	1 & 100 & 11 & 13900\\
@@ -22273,37 +22332,40 @@ Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica ogni giorno all'al
 
 Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta questa tabella.
 
-\end{multicols}
+%\end{multicols}
 
-\vfill
+%\vfill
+%
+%\begin{center}
+%\includegraphics[width=0.6\linewidth]{immagini/bacchette.png}
+%\end{center}
 
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/bacchette.png}
+%\medskip
 
-\end{center}
-
-\medskip
-
-\begin{tabularx}{0.95\textwidth}{lX}
+\noindent\begin{tabularx}{0.50\textwidth}{lX}
 \textbf{d100}& \textbf{Contenuti}\\
 \hline
-01-05 &Lanci lentezza.\\
-06-10 &Lanci fuoco delle fate.\\
+01-05 &Lanci l'incatesimo Lentezza.\\
+06-10 &Lanci l'incatesimo Luminescenza,.\\
 11-15 &Sei stordito fino all'inizio del tuo prossimo round, e ritieni che sia accaduto qualcosa di stupefacente.\\
-16-20 &Lanci folata di vento.\\
-21-25 &Lanci individuazione dei pensieri sul bersaglio da te scelto. Se il tuo a bersaglio non è una creatura, subisci invece 1d6 danni.\\
-26-30 &Lanci Nebbia Nauseante.\\
+16-20 &Lanci l'incatesimo Folata di vento.\\
+21-25 &Lanci l'incatesimo Individuazione dei pensieri sul bersaglio da te scelto. Se il tuo a bersaglio non è una creatura, subisci invece 1d6 danni.\\
+26-30 &Lanci l'incatesimo Nebbia Nauseante.\\
 31-33 &Pioggia abbondante precipita in un raggio di 18 metri centrato sul bersaglio. L'area diventa oscurata leggermente. La pioggia continua a cadere fino all'inizio del tuo prossimo round.\\
 34-36 &Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. Tira un d100 per determinare che specie di animale compaia 01-25, un rinoceronte; 26-50, un elefante; 51-100, un ratto.\\
-37-46 &Lanci fulmine.\\
+37-46 &Lanci Fulmine.\\
 47-49 &Una nube di 600 enormi farfalle riempie un raggio di 9 metri intorno al bersaglio. L'area diventa oscurata pesantemente. Le farfalle restano per 10 minuti.\\
 50-53 &Ingrandisci il bersaglio come se avessi lanciato l'incantesimo ingrandire/ridurre. Se il bersaglio non può essere soggetto all'incantesimo, o se non è una creatura, tu diventi il bersaglio.\\
-54-58 &Lanci oscurità.\\
+54-58 &Lanci l'incantesimo oscurità.
+\end{tabularx}
+\noindent\begin{tabularx}{0.50\textwidth}{lX}
+	\textbf{d100}& \textbf{Contenuti}\\
+	\hline
 59-62 &Erba folta spunta in un raggio di 18 metri intorno al bersaglio.Se vi è già dell'erba, questa cresce di dieci volte e resta così per 1 minuto.\\
 63-65 &Un oggetto a scelta del Narratore scompare sul Piano Etereo.L'oggetto non deve essere né indossato né trasportato, deve essere entro 36 metri dal bersaglio, e non più grande di 3 metri in ciascuna dimensione.\\
 66-69 &Ti rimpicciolisci come se avessi lanciato su di te l'incantesimo ingrandire/ridurre.\\
-70-79 &Lanci palla di fuoco.\\
-80-84 &Lanci invisibilità su di te.\\
+70-79 &Lanci l'incatesimo Palla di fuoco.\\
+80-84 &Lanci l'incatesimo Invisibilità su di te.\\
 85-87 &Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore.\\
 88-90& Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea.\\
 91-95 &Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi.\\
@@ -22311,9 +22373,15 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 98-00 &Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie.
 \end{tabularx}
 
+\columnbreak
+
+\begin{center}
+\includegraphics[width=0.8\linewidth]{immagini/bacchette.png}
+\end{center}
+
 \medskip
 
-\begin{multicols}{2}
+%\begin{multicols}{2}
 
 \index[OggettiMagici]{Bacchetta della Negazione}\smallskip* \textbf{Bacchetta della Negazione}
 35000 mo, molto raro, questa bacchetta nega gli incantesimi o effetti simili prodotti da oggetti magici. Il possessore punta la bacchetta verso l'oggetto entro 36 metri, ed essa emana un raggio di colore grigio chiaro che colpisce il bersaglio. Il raggio annulla automaticamente le manifestazione di incantesimi o effetti simili di livello 3 o meno. Ciascun uso della bacchetta costa 1 carica ed essa può essere usata solo una volta per round. Questa bacchetta ha 3 cariche. La bacchetta recupera 1 carica ogni giorno all'alba. 
@@ -23184,19 +23252,19 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 \textbf{d100} & \textbf{Effetto}\\
 \hline
 01 &Spuntano 5d4 funghi. Se una creatura mangia un fungo, tira un dado. Se il risultato è dispari esegui un tiro Salvezza su Tempra con DC 18 o subire 5d6 danni da veleno e restare avvelenato per 1 ora. Se il risultato è pari ottiene 5d6 Punti Ferita temporanei per 1 ora.\\
-02-10 &Erutta un geyser che sputa acqua, birra, succo di frutta, tè, aceto, vino od olio (a discrezione del Narratore) a 9 metri in aria per 1d12 round.
-\end{tabularx}
-
-\noindent\begin{tabularx}{0.50\textwidth}{lX}
-	\textbf{d100} & \textbf{Effetto}\\
-	\hline
+02-10 &Erutta un geyser che sputa acqua, birra, succo di frutta, tè, aceto, vino od olio (a discrezione del Narratore) a 9 metri in aria per 1d12 round.\\
 11-20 &Spunta un uomo albero. C'è una probabilità del 50\% che l'uomo albero sia malvagio e ti attacchi.\\
 21-30 &Una statua di pietra animata con le tue fattezze si leva dal terreno. Essa comincerà a minacciarti verbalmente. Se dovessi andartene e altre persone giungessero sul posto, la statua ti descriverebbe come il più pericoloso dei criminali e li esorterebbe ad cercarti e attaccarti. Se ti trovi sullo stesso piano di esistenza della statua, essa saprà sempre dove sei. Dopo 24 ore la statua diventerà inanimata.\\
 31-40 &Un fuoco da campo che produce fiamme blu spunta dal terreno e brucia per 24 ore (o finché non viene spento).\\
 41-50 &Sputano 1d6 + 6 funghi urlatori.\\
 51-60 &Compaiono 1d4 + 8 rospi fucsia. Ogniqualvolta un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del Narratore. Il mostro resta per 1 minuto e poi scompare in un sbuffo di fumo fucsia. \\
 61-70 & Una bulette esce dal terreno e attacca.\\
-71-80 &Cresce un albero da frutta. Possiede 1d10 + 20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono, e mantengono la propria magia per 30 giorni. \\
+71-80 &Cresce un albero da frutta. Possiede 1d10 + 20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono, e mantengono la propria magia per 30 giorni. 
+\end{tabularx}
+
+\noindent\begin{tabularx}{0.50\textwidth}{lX}
+\textbf{d100} & \textbf{Effetto}\\
+\hline
 81-90 &Compare un nido con 1d4 + 3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se il Tiro Salvezza riesce, la creatura aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità. Se il Tiro Salvezza fallisce, la creatura subisce 10d6 danni da forza a causa di un'esplosione magica al suo interno.\\
 91-99 &Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. La piramide è considerata come la tana della mummia sovrana, e il suo sarcofago contiene un tesoro a scelta del Narratore.\\
 100 &Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza.
@@ -23318,6 +23386,8 @@ Il cubo perde cariche quando la barriera viene presa come bersaglio da certi inc
 
 Qui sotto le proprietà di ogni faccia attivabile ed il relativo costo in cariche.
 
+\medskip
+
 \noindent\begin{tabularx}{0.45\textwidth}{llX}
 	\textbf{Faccia} & \textbf{Cariche}& \textbf{Effetto}\\
 	\hline
@@ -23328,6 +23398,8 @@ Qui sotto le proprietà di ogni faccia attivabile ed il relativo costo in carich
 	5 &5 &Nulla può attraversare la barriera. Muri,pavimenti e soffitti possono attraversarla a tua discrezione.\\
 	6 &0& La barriera si disattiva.
 \end{tabularx}
+
+\medskip
 
 Ogni attivazione dura un minuto.
 
@@ -23394,17 +23466,9 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 \vfill
 
 \begin{center}
-	\includegraphics[width=0.38\linewidth]{immagini/borsetta.png}
-	
-	\emph{Borsetta conservante, modello classico, Tipo II}
+\includegraphics[width=0.5\linewidth]{immagini/Incenso.png}
+
 \end{center}
-
-%\medskip
-
-%\begin{center}
-%\includegraphics[width=0.55\linewidth]{immagini/Incenso.png}
-
-%\end{center}
 
 \begin{tabular}{ll|ll}
 \textbf{Carta da Gioco}& \textbf{Illusione}&\textbf{Carta da Gioco}& \textbf{Illusione}\\
@@ -23845,6 +23909,15 @@ Piazzare lo zainetto all'interno dello spazio extradimensionale creato da una bo
 
 \end{multicols}
 
+\vfill
+
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{immagini/borsetta.png}
+	
+	\emph{Borsetta conservante, modello classico, Tipo II}
+\end{center}
+
+
 \pagebreak
 
 \section{Oggetti Maledetti}\index{Oggetti Maledetti}
@@ -24028,21 +24101,19 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}L'elenco è di esempio per poter generare casualmente degli effetti sul possessore dell'oggetto. Prendete spunto e siate creativi!  Non fate però che una maledizione renda impossibile giocare il personaggio piuttosto deve essere vissuta come l'occasione per provare, fare, qualcosa di diverso. Non gettate mai un oggetto maledetto a caso nel mucchio dei tesori, pensate sempre cosa potrà accadere e quali conseguenze si genereranno. Un oggetto maledetto richiede sempre un alto livello di attenzione e pianificazione da parte del Narratore\end{narratore}\end{changemargin}
 
-
-\begin{center}
-	\includegraphics[width=0.2\linewidth]{immagini/donnalemb.png}
-	
-	\emph{Donna di Lemb o Statua della Dea della Morte, 3500 AC. DC 40}
-\end{center}
-
 \medskip
 
+\begin{center}
+\includegraphics[width=0.24\linewidth]{immagini/donnalemb.png}
+	
+\emph{Donna di Lemb o Statua della Dea della Morte, 3500 AC. DC 40}
+\end{center}
 
 \textbf{Tabella: Effetti degli oggetti magici maledetti}\index[Tabelle]{Tabella Effetti degli oggetti magici maledetti}
 
 \medskip
 
-{\small
+%{\small
 \begin{tabularx}{0.95\textwidth}{lX}
 \textbf{\%} & \textbf{Inconveniente}\\
 \toprule
@@ -24095,7 +24166,8 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 98  & II personaggio non può più usare oggetti magici o Incantesimi con livello oltre 3\\
 99  & II personaggio non può più usare Incantesimi\\
 100 & Tira due volte
-\end{tabularx}}
+\end{tabularx}
+%}
 
 \pagebreak
 
