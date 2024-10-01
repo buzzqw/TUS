@@ -1,6 +1,6 @@
 --- IN BREVE ---
 
---- SCARICATE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf ---
+--- ** SCARICATE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf ** ---
 
 --- IN BREVE ---
 
