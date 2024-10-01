@@ -678,7 +678,7 @@ aggiornata versione POD 2024/09/25
 
 aggiornata versione POD 2024/10/01
 
-0.99.7 
+0.99.7 layout in lista d'armi, 
 
 
 
