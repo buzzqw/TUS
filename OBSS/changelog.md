@@ -676,7 +676,9 @@ aggiornata versione POD 2024/09/25
 
 0.99.6 corretto raggio luce lacrima di ljust in ambiente, specificato ruolo durezza in oggetti, aggiornato capitolo pericoli in avventura, chiarimenti su prove di statistica, cambiata immagine Diversi, note su immagini create da ai, corretti link, controllati prove competenze e caratteristiche, aggiornata prova di intimidire, corretta indicazione altezza massima caduta per prova di acrobatica, aggiornato capitolo cosmologia, ottimizazzione codice latex, reso compatibile il sorgente con lualatex e pdflatex, rimosso il font readerx per charter, aumentata grandezza font a 11, aggiornate regole su armi da fuoco, corretto hyperlink ad abilita', ottimizzazione testo (-32 pagine!), ulteriori ottimizzazioni, aggiunta Abilita' Figlio Unico, aggiornato incantesimo pelle di pietra, aggiornata pagina licenza, aggiornate Azioni Tiro Critico, aggiornato alzarsi da prono, aggiornato metodo di calcolo bonus comulativi, aggiunti dettagli su nethergal - rezh, dettagli su nebbia, sistemate diverse immagini, modificate penalita' per tiro oltre la prima gittata, aggiornata la scheda, aggiunti hyperlink a tutti gli incantesimi in incantesimi per lista-livello-rarita', aggiunti hyperlink a tutti i mostri in lista mostri per grado e sfida
 
+aggiornata versione POD 2024/10/01
 
+0.99.7 
 
 
 
