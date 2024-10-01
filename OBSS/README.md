@@ -1,3 +1,7 @@
+--- IN BREVE ---
+--- SCARICATE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf ---
+--- IN BREVE ---
+
 
 [![Compila OBSS](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml)
 [![Compila OBSS english](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml)
