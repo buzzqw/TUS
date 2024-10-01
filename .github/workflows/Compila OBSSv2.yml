@@ -10,11 +10,10 @@ jobs:
       - name: Compile LaTeX document
         uses: dante-ev/latex-action@latest
         with:
-          root_file: "OBSS.tex"
+          root_file: "OBSSv2.tex"
           working_directory: ./OBSS
       - name: Upload pdf
         uses: actions/upload-artifact@v4
         with:
           name: "OBSS - Old Bell School System"
-          path: "./OBSS/OBSS.pdf"  
-          
+          path: "./OBSS/OBSSv2.pdf"       
