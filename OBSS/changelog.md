@@ -678,7 +678,7 @@ aggiornata versione POD 2024/09/25
 
 aggiornata versione POD 2024/10/01
 
-0.99.7 layout in lista d'armi, 
+0.99.7 layout in lista d'armi, corretto indicazione recupero pf in capitolo combattimento, correnti alcuni link ad incantesimi, rimossa katana da lista spade, corretta in equipaggiamento fionda come armi da lancio, Ascia da battaglia e' un arma grande, corretto danno per Grande ascia doppia, aggiunto metodo per ottenere i tesori delle creature, incominciato ad aggiornare indicazione tesoro ai mostri, 
 
 
 
