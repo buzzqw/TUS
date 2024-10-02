@@ -19749,15 +19749,24 @@ OBSS usa un sistema di tiro di dadi peculiare andando a mescolare una distribuzi
 
 Se volete divertirvi a studiare la curva corrispondente vi consiglio il sito  \href{https://anydice.com/}{Anydice}. Questo lo pseudo codice da inserire:
 
-{\small function: explode ROLLEDVALUE:n \{
+\medskip
 
-if ROLLEDVALUE = 6 \{ result: 6 + [explode d6] \}
+\begin{verbatim}
 
-if ROLLEDVALUE = 1 \{ result: 0 \}
+function: explode ROLLED:n \{
 
-result: ROLLEDVALUE\}
+if ROLLED = 6 \{ result: 6 + [explode d6] \}
 
-output 3d[explode d6]}
+if ROLLED = 1 \{ result: 0 \}
+
+result: ROLLED\}
+
+output 3d[explode d6]
+
+\end{verbatim}
+
+
+\medskip
 
 oppure cliccate \href{https://anydice.com/program/2610e}{qui} per il codice già inserito.
 
@@ -19989,7 +19998,7 @@ Le monete in possesso di mostri e creature selvagge non saranno certo fior di co
 
 \medskip
 
-Usate la Tabella \hyperlink{Valore delle gemme}{veloredellegemme} (pag. \pageref{valoredellegemme}) per determinare il valore delle gemme trovate. Qui sono elencate le gemme per valore.
+Usate la Tabella \hyperlink{valoredellegemme}{Valore delle gemme} (pag. \pageref{valoredellegemme}) per determinare il valore delle gemme trovate. Qui sono elencate le gemme per valore.
 
 \textbf{Gemme}: Anche se potete assegnare qualsiasi valore ad una gemma, alcune possono valere di più delle altre. Utilizzate le categorie di valore qui sotto (e le pietre preziose associate) come guida di riferimento quando assegnate i valori alle pietre preziose.
 
@@ -20058,11 +20067,11 @@ I Tesori magici possono essere trovati dai personaggi in tre modi:
 
 \medskip
 
-- addosso ai nemici o nelle loro tane
+- \textbf{addosso ai nemici o nelle loro tane}
 
-- dispersi o nascosti nel dungeon
+- \textbf{dispersi o nascosti nel dungeon}
 
-- comprati (!!!)
+- \textbf{comprati} (!!!)
 
 \medskip
 
