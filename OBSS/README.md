@@ -1,8 +1,8 @@
---- IN BREVE ---
+--- QUESTO E' L'ULTIMA VERSIONE DEL MANUALE ---
 
 --- ** SCARICATE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf ** ---
 
---- IN BREVE ---
+--- QUESTO E' L'ULTIMA VERSIONE DEL MANUALE ---
 
 
 [![Compila OBSS](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml)
