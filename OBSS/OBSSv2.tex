@@ -160,12 +160,13 @@ boxrule=0.3pt
 
 \usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
 \usepackage[framemethod=TikZ]{mdframed}
-%\usepackage{garamondx} %\usepackage{tgpagella} % \fontsize{10.5}{12.5}\selectfont %\usepackage{mlmodern} % \fontsize{10.5}{12.5}\selectfont \usepackage{charter}  % \fontsize{10.5}{12.5}\selectfont
+%\usepackage{garamondx} %\usepackage{tgpagella} % \fontsize{10.5}{12.5}\selectfont %\usepackage{mlmodern} % \fontsize{10.5}{12.5}\selectfont
+\usepackage{charter}  % \fontsize{10.5}{12.5}\selectfont
 
 
 
 \begin{document} 
-\def \versione {0.99.7} \fontsize{10.5}{12.5}\selectfont
+\def \versione {0.99.8} \fontsize{10.5}{12.5}\selectfont
 
 \newcommand\invisiblesection[1]{
 	\refstepcounter{section}
@@ -291,11 +292,12 @@ Mai rinunciare ai tuoi desideri, persevera fino ad renderli reali.
 \setcounter{page}{1}
 \pagenumbering{arabic}
 
-\section{La storia fino ad adesso...}
-
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
 Il fatto che gli uomini non imparino molto dalla storia è la lezione più importante che la storia ci insegna. (Aldous Huxley)
 }\end{tcolorbox}\end{changemargin}
+
+
+\section{La storia fino ad adesso...}
 
 \begin{multicols}{2}
 
@@ -7366,6 +7368,14 @@ Incantesimi come Onda rovente e cono di freddo coprono un'area, permettendogli d
 
 La descrizione di un incantesimo specifica la sua area di effetto, che di solito rientra in una di queste cinque forme: cilindro, cono, cubo, linea o sfera. Ogni area di effetto ha un punto di origine, un luogo da cui si manifesta l'energia dell'incantesimo. Le regole per ciascuna forma specificano come posizionare il suo punto di origine. Di solito il punto di origine è un punto nello spazio, ma alcuni incantesimi hanno un'area la cui origine è una creatura o un oggetto. Il punto di origine deve essere sempre valido.
 
+
+\begin{center}
+	\includegraphics[width=0.5\linewidth]{immagini/3dforme.png}
+	
+	\emph{Cono, Sfera, Cilindro, Cubo}
+\end{center}
+
+
 \begin{itemize}[leftmargin=*]
 \item \emph{\textbf{Cilindro}}: il punto di origine di un cilindro è il centro di un cerchio di specifico raggio, come indicato nella descrizione dell'incantesimo. Il cerchio deve essere sul pavimento o all'altezza dell'effetto dell'incantesimo. L'energia in un cilindro si espande in linee dritte dal punto di origine al perimetro del cerchio, formando la base del cilindro. L'effetto dell'incantesimo parte poi dal basso verso l'alto o dall'alto verso il basso, fino a una distanza uguale all'altezza del cilindro. Il punto di origine del cilindro è incluso nella sua area di effetto.
 
@@ -7374,12 +7384,6 @@ La descrizione di un incantesimo specifica la sua area di effetto, che di solito
 \emph{\textbf{Cono}}: un cono si estende in una direzione a tua scelta dal suo punto di origine. Il diametro del un cono in un dato punto della sua lunghezza è uguale alla distanza di quel punto dal punto di origine. L'area di effetto di un cono specifica la sua lunghezza massima. Il punto di origine del cono non è incluso nella sua area di effetto, a meno che tu non decida altrimenti. 
 
 Es. Un Cono di Freddo di 9 metri è largo al termine 9 metri e si allunga dal punto di origine di 9 metri, a 3 metri di distanza dal punto di origine è largo 3 metri.
-
-\begin{center}
-	\includegraphics[width=0.5\linewidth]{immagini/3dforme.png}
-	
-	\emph{Cono, Sfera, Cilindro, Cubo}
-\end{center}
 
 \item
 \emph{\textbf{Cubo}}: selezioni il punto di origine di un angolo del cubo. Le dimensioni del cubo vengono espresse come lunghezza di ciascun suo spigolo. Il punto di origine del cubo non è incluso nella sua area di effetto, a meno che tu non decida altrimenti.
@@ -7469,7 +7473,6 @@ Qualsiasi risultato che non sia un Successo critico magico od un Fallimento crit
 
 Quando viene richiesto di superare o fare una Prova di Magia è sufficiente non fare un Fallimento Critico Magico.
 
-
 \subsubsection{Modificare la Prova di Magia}
 
 \textbf{Prima di effettuare} la Prova di Magia l'incantatore può decidere investire ulteriori Punti Magia per migliorare la sua Prova di Magia.
@@ -7485,13 +7488,6 @@ Un incantatore può anche \textbf{volontariamente fallire la Prova di Magia}.
 Concedete un +1d6 nella Prova di Magia, o ignorare un 1 tirato nella Prova di Magia, quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice \emph{Lancio una palla di fuoco} non otterrà vantaggi ma se con trasporto declama \emph{Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!} allora si!.
 \end{narratore}\end{changemargin}
 
-\medskip
-
-\begin{center}
-	\includegraphics[width=0.7\linewidth]{immagini/Arthur-Pyle_The_Enchanter_Merlin.png}
-	
-	\emph{Merlin. Howard Pyle, The Story of King Arthur and His Knights (1903)}
-\end{center}
 
 %\subsubsection{Opzionale - Magia Suprema}\index{It's over 9000!}\index{Opzionale - Magia Suprema}
 %\label{opzionalemagiasuprema}\hypertarget{opzionalemagiasuprema}{}
@@ -7533,6 +7529,8 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico tira 3d6 e con
 17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
 18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili
 \end{tabularx}
+
+
 
 \subsubsection{I Punti Magia}\index{I Punti Magia}\label{magiepuntimagia}\index{Incantesimi, Punti Magia}
 
@@ -7592,6 +7590,14 @@ I Punti Magia si recuperano tutti con 8 ore di riposo. \index{Incantesimi, Recup
 %19&	123	&20 &133\\
 %\end{tabularx}
 
+
+\medskip
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/Arthur-Pyle_The_Enchanter_Merlin.png}
+	
+	\emph{Merlin. Howard Pyle, The Story of King Arthur and His Knights (1903)}
+\end{center}
 
 \subsubsection*{Incantesimi come Rituali}\index{Incantesimi come Rituali}\index{Rituali, Incantesimi}
 
@@ -7837,11 +7843,11 @@ Lo studio della magia e l'approfondita conoscenza delle Liste di Magia porta l'i
 
 Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore ha lanciato un incantesimo, non Trucchetto, dalla Lista di Magia indicata. L'incantatore può scegliere il potere che vuole purché abbia preso Adepto della Magia almeno il numero indicato di volte.
 
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/tarothanged.png}
-
-	\emph{Tarocchi - L'Impiccato}
-\end{center}
+%\begin{center}
+%	\includegraphics[width=0.6\linewidth]{immagini/tarothanged.png}
+%
+%	\emph{Tarocchi - L'Impiccato}
+%\end{center}
 
 \emph{\textbf{Lista Abiurazione}}
 
@@ -12471,7 +12477,7 @@ Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di ra
 %I Narratori più esperti si accorgeranno presto che non sono presenti tutti gli incantesimi della 5ed. E' stata fatta una scrematura per eliminare gli incantesimi che più sbilanciavano il gioco a favore dei caster o non erano idonei per il sistema ed ambientazione.
 %\end{narratore}\end{changemargin}
 
-\end{multicols}
+
 
 \vfill
 
@@ -12480,6 +12486,8 @@ Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di ra
 
 \emph{The Circle of Solomon and Triangle of Solomon from The Goetia: The Lesser Key of Solomon the King. The Book of Evil Spirits by L. W. De Laurence}
 \end{center}
+
+\end{multicols}
 
 \pagebreak
 
@@ -14473,10 +14481,8 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 
 %\end{narratore}\end{changemargin}
 
-\end{multicols}
 
 
-\pagebreak
 
 \subsubsection{Elenco Patrono - Tratto}\index{Elenco Patrono - Tratto}\hypertarget{tabellacollegamentopatronotratto}{}\label{tabellacollegamentopatronotratto}
 
@@ -14599,10 +14605,12 @@ I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizz
 \vfill
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.56\textwidth]{immagini/archetipijung.png}
+\includegraphics[keepaspectratio,width=0.54\textwidth]{immagini/archetipijung.png}
 
 \emph{I 12 Archetipi di Jung}
 \end{center}
+
+\end{multicols}
 
 \pagebreak
 
@@ -16848,7 +16856,7 @@ Il danno da pressione può essere totalmente evitato tramite incantesimi che off
 
 \begin{center}
 
-\includegraphics[width=0.4\linewidth]{immagini/avventure_acqua_grey.png}
+\includegraphics[width=0.35\linewidth]{immagini/avventure_acqua_grey.png}
 
 \emph{The Mermaid and the Boy - Henry Justice Ford}
 \end{center}
@@ -20186,15 +20194,12 @@ Gli stessi oggetti magici possono avere funzioni aggiunte dal Narratore per arri
 \medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}
-Come sarebbe bello dire 'per caso'? .. "Tu credi davvero che ci sia qualcosa che succede 'per caso'?" (Alessandro Baricco)
+%Come sarebbe bello dire 'per caso'? .. "Tu credi davvero che ci sia qualcosa che succede 'per caso'?" (Alessandro Baricco)
 
-\medskip
 
 Tesoro è qualunque cosa mobile di pregio, nascosta o sotterrata, di cui nessuno può provare d'essere proprietario. (Codice civile italiano)
 
 \end{enfasi}\end{changemargin}\medskip
-
-\medskip
 
 Questi sono i codici usati per i tesori \emph{da tana} ovvero per quei tesori accumulati nelle tane, nascondigli delle creature.
 
@@ -20252,9 +20257,9 @@ Questi sono i tesori individuali o custodite in piccole tane, vale anche per zai
 
 Se una creatura è segnata come Tesoro CT F significa che nella sua tana, nascondiglio, ci sarà il 10\% di trovare 3d6 monete l'argento, il 40\% di trovare 1d6  monete d'oro.. e il 30\% di trovare ben 5 oggetti magici che non siano armi. Consultate poi la \hyperlink{tipologiaoggettomagico}{Tabella Tipologia Oggetto magico} (pag. \pageref{tipologiaoggettomagico}) per tirare e scoprire quale oggetti magici aveva la creatura.
 
-Il tesoro potrebbe essere indicato anche come \emph{R (C)} in questo caso la creatura possiede un tesoro addosso ed anche uno nella tana, oppure come R + T per indicare che ha entrambi i tesori.
+Quando il tesoro è indicato da più lettere la creatura possiede entrambi i tesori indicati.
 
-Infine alcune creature particolarmente \emph{ricche} potrebbero avere più volte lo stesso tesoro (2 H, 2 volte il tesoro H).
+Alcune creature particolarmente \emph{ricche} potrebbero avere più volte lo stesso tesoro (2 H, 2 volte il tesoro H).
 
 \end{multicols}
 
@@ -22045,24 +22050,22 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 37-46 &Lanci Fulmine.\\
 47-49 &Una nube di 600 enormi farfalle riempie un raggio di 9 metri intorno al bersaglio. L'area diventa oscurata pesantemente. Le farfalle restano per 10 minuti.\\
 50-53 &Ingrandisci il bersaglio come se avessi lanciato l'incantesimo ingrandire/ridurre. Se il bersaglio non può essere soggetto all'incantesimo, o se non è una creatura, tu diventi il bersaglio.\\
-54-58 &Lanci l'incantesimo oscurità.
-\end{tabularx}
-\noindent\begin{tabularx}{0.50\textwidth}{lX}
-\textbf{d100}& \textbf{Contenuti}\\
-\hline
+54-58 &Lanci l'incantesimo oscurità.\\
 59-62 &Erba folta spunta in un raggio di 18 metri intorno al bersaglio.Se vi è già dell'erba, questa cresce di dieci volte e resta così per 1 minuto.\\
 63-65 &Un oggetto a scelta del Narratore scompare sul Piano Etereo.L'oggetto non deve essere né indossato né trasportato, deve essere entro 36 metri dal bersaglio, e non più grande di 3 metri in ciascuna dimensione.\\
 66-69 &Ti rimpicciolisci come se avessi lanciato su di te l'incantesimo ingrandire/ridurre.\\
 70-79 &Lanci l'incatesimo Palla di fuoco.\\
 80-84 &Lanci l'incatesimo Invisibilità su di te.\\
-85-87 &Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore.\\
+85-87 &Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore.
+\end{tabularx}
+\noindent\begin{tabularx}{0.50\textwidth}{lX}
+\textbf{d100}& \textbf{Contenuti}\\
+\hline
 88-90& Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea.\\
 91-95 &Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi.\\
 96-97 &La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto.\\
 98-00 &Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie.
 \end{tabularx}
-
-\columnbreak
 
 \begin{center}
 \includegraphics[width=0.9\linewidth]{immagini/bacchette.png}
@@ -22909,12 +22912,6 @@ Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 120
 
 Un'altra creatura può usare due azioni per afferrare la creatura all'interno della borsa e tirarla fuori, superando un Tiro Salvezza Tempra con Forza DC 25 (e sempre che non venga a sua volta trascinata dentro la borsa). La materia animale o vegetale posta dentro la borsa viene divorata ed è persa per sempre se inizia il proprio round all'interno della borsa.
 
-
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/genielamp.png}
-\end{center}
-
-
 \index[OggettiMagici]{Bottiglia dell'Efreeti}\smallskip* \textbf{Bottiglia dell'Efreeti}
 15000 mo, molto raro, questa bottiglia di ottone dipinta pesa 500 grammi. Quando usi due azioni per rimuoverne il tappo, una nube di denso fumo fuoriesce dalla bottiglia. Al termine del tuo round, il fumo si dissipa in un lampo di fuoco innocuo ed un efreeti compare in uno spazio non occupato entro 9 metri da te. La prima volta che la bottiglia viene aperta, il Narratore determina casualmente cosa accade.
 
@@ -22927,6 +22924,11 @@ Un'altra creatura può usare due azioni per afferrare la creatura all'interno de
 6-16 &L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia ed un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia.\\
 17-18 & L'efreeti può lanciare l'incantesimo desiderio a tuo favore per tre volte. Scompare quando conferisce il desiderio finale o dopo 1 ora, allorché la bottiglia perde la sua magia.
 \end{tabularx}
+
+
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{immagini/genielamp.png}
+\end{center}
 
 
 \index[OggettiMagici]{Borsa dei Fagioli}\smallskip* \textbf{Borsa dei Fagioli}
@@ -22948,14 +22950,14 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 41-50 &Sputano 1d6 + 6 funghi urlatori.\\
 51-60 &Compaiono 1d4 + 8 rospi fucsia. Ogniqualvolta un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del Narratore. Il mostro resta per 1 minuto e poi scompare in un sbuffo di fumo fucsia. \\
 61-70 & Una bulette esce dal terreno e attacca.\\
-71-80 &Cresce un albero da frutta. Possiede 1d10 + 20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono, e mantengono la propria magia per 30 giorni. 
+71-80 &Cresce un albero da frutta. Possiede 1d10 + 20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono, e mantengono la propria magia per 30 giorni. \\
+81-90 &Compare un nido con 1d4 + 3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se il Tiro Salvezza riesce, la creatura aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità. Se il Tiro Salvezza fallisce, la creatura subisce 10d6 danni da forza a causa di un'esplosione magica al suo interno.\\
+91-99 &Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. La piramide è considerata come la tana della mummia sovrana, e il suo sarcofago contiene un tesoro a scelta del Narratore.
 \end{tabularx}
 
 \noindent\begin{tabularx}{0.50\textwidth}{lX}
 \textbf{d100} & \textbf{Effetto}\\
 \hline
-81-90 &Compare un nido con 1d4 + 3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se il Tiro Salvezza riesce, la creatura aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità. Se il Tiro Salvezza fallisce, la creatura subisce 10d6 danni da forza a causa di un'esplosione magica al suo interno.\\
-91-99 &Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. La piramide è considerata come la tana della mummia sovrana, e il suo sarcofago contiene un tesoro a scelta del Narratore.\\
 100 &Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza.
 \end{tabularx}
 
@@ -23152,12 +23154,10 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 
 \end{multicols}
 
-\vfill
-
-\begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/Incenso.png}
-
-\end{center}
+%\vfill
+%\begin{center}
+%\includegraphics[width=0.5\linewidth]{immagini/Incenso.png}
+%\end{center}
 
 \begin{tabular}{ll|ll}
 \textbf{Carta da Gioco}& \textbf{Illusione}&\textbf{Carta da Gioco}& \textbf{Illusione}\\
@@ -23598,13 +23598,13 @@ Piazzare lo zainetto all'interno dello spazio extradimensionale creato da una bo
 
 \end{multicols}
 
-\vfill
-
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/borsetta.png}
-	
-	\emph{Borsetta conservante, modello classico, Tipo II}
-\end{center}
+%\vfill
+%
+%\begin{center}
+%	\includegraphics[width=0.6\linewidth]{immagini/borsetta.png}
+%	
+%	\emph{Borsetta conservante, modello classico, Tipo II}
+%\end{center}
 
 \pagebreak
 
@@ -24273,8 +24273,6 @@ Gli oggetti che hanno degli inconvenienti hanno solitamente degli effetti positi
 
 A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per tutto il tempo in cui l'oggetto rimane in possesso del personaggio. La DC dei Tiro Salvezza per evitare questi effetti è pari a 10 + DC della maledizione (se non avete stabilito la difficoltà impostate il Tiro Salvezza, solitamente su Volontà, a DC 25)
 
-\end{multicols}
-
 \medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}L'elenco è di esempio per poter generare casualmente degli effetti sul possessore dell'oggetto. Prendete spunto e siate creativi!  Non fate però che una maledizione renda impossibile giocare il personaggio piuttosto deve essere vissuta come l'occasione per provare, fare, qualcosa di diverso. Non gettate mai un oggetto maledetto a caso nel mucchio dei tesori, pensate sempre cosa potrà accadere e quali conseguenze si genereranno. Un oggetto maledetto richiede sempre un alto livello di attenzione e pianificazione da parte del Narratore\end{narratore}\end{changemargin}
@@ -24282,17 +24280,21 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 \medskip
 
 \begin{center}
-\includegraphics[width=0.24\linewidth]{immagini/donnalemb.png}
+\includegraphics[width=0.65\linewidth]{immagini/donnalemb.png}
 	
 \emph{Donna di Lemb o Statua della Dea della Morte, 3500 AC. DC 40}
 \end{center}
+
+\end{multicols}
+
+\pagebreak
 
 \textbf{Tabella: Effetti degli oggetti magici maledetti}\index[Tabelle]{Tabella Effetti degli oggetti magici maledetti}
 
 \medskip
 
 %{\small
-\begin{tabularx}{0.95\textwidth}{lX}
+\noindent\begin{tabularx}{0.98\textwidth}{lX}
 \textbf{\%} & \textbf{Inconveniente}\\
 \toprule
 01-02& I capelli del personaggio crescono di 2,5 cm all'ora.\\
@@ -25748,7 +25750,7 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 \vfill
 
 \begin{center}
-	\includegraphics[width=0.85\linewidth]{immagini/trex.png}
+	\includegraphics[width=0.75\linewidth]{immagini/trex.png}
 	
 	\emph{A Tyrannosaurus rex skeleton (the specimen RTMP 81.6.1) at the California Academy of Sciences in San Francisco, California.}
 	
@@ -41720,19 +41722,6 @@ Il cane intermittente deriva il nome dalla sua abilità di entrare e uscire dall
 
 \emph{Colpisce:} 8 (2d4 + 3) danni contundenti.
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Saurovallo]\index{Saurovallo}
-	
-La leggenda narra che Calicante appena scese sulla Terra vide i \emph{cavalli} provò un disgusto incredibile per questi orrendi esseri e con il semplice gesto della volontà fece esplorere tutti i cavalli. Non contento pochi attimi dopo tutti gli \emph{equini} fecero la stessa fine.
-
-Asini, muli, cavalli, zebre.. solo il cammello e dromedario non essendo propriamente equini si salvarono. Molti pensano che Calicante semplicemente li stia ignorando.
-
-Nethergal piuttosto scossa dal fatto che si era perso un utile animale per portare messaggi e cavalcabile per ampie distanze e non avendo il potere per creare una nuova creatura dal nulla, si rivolse ad Efrem ed Orlaith. Chiese ad Efrem di individuare un animale che potesse essere robusto, veloce ed adatto a essere cavalcato, mentre ad Efrem chiese di inculcargli obbedienza ed il coraggio.
-
-Efrem sapendo che Torbiorn aveva portato sul pianeta milioni dei suoi amati dinosauri scelse il Parasaurolophus e, con il supporto di Efrem, lo rese più compatto, piccolo, mansueto: perfetto per essere cavalcato.
-
-Creò anche poi una versione ridotta, nana nelle misure, che potesse adattarsi a portare le creature di taglia piccola.
-\end{tcolorbox}\end{changemargin}
-
 
 \begin{center}
 \includegraphics[width=0.8\linewidth]{immagini/saurovallo2-ai.png}
@@ -41774,6 +41763,19 @@ Creò anche poi una versione ridotta, nana nelle misure, che potesse adattarsi a
 \emph{\textbf{Zoccoli.} Attacco con Arma da Mischia}: +5 a colpire, portata 1 m, un bersaglio.
 
 \emph{Colpisce:} 8 (2d4 + 3) danni contundenti.
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Saurovallo]\index{Saurovallo}
+	
+La leggenda narra che Calicante appena scese sulla Terra vide i \emph{cavalli} provò un disgusto incredibile per questi orrendi esseri e con il semplice gesto della volontà fece esplorere tutti i cavalli. Non contento pochi attimi dopo tutti gli \emph{equini} fecero la stessa fine.
+
+Asini, muli, cavalli, zebre.. solo il cammello e dromedario non essendo propriamente equini si salvarono. Molti pensano che Calicante semplicemente li stia ignorando.
+
+Nethergal piuttosto scossa dal fatto che si era perso un utile animale per portare messaggi e cavalcabile per ampie distanze e non avendo il potere per creare una nuova creatura dal nulla, si rivolse ad Efrem ed Orlaith. Chiese ad Efrem di individuare un animale che potesse essere robusto, veloce ed adatto a essere cavalcato, mentre ad Efrem chiese di inculcargli obbedienza ed il coraggio.
+
+Efrem sapendo che Torbiorn aveva portato sul pianeta milioni dei suoi amati dinosauri scelse il Parasaurolophus e, con il supporto di Efrem, lo rese più compatto, piccolo, mansueto: perfetto per essere cavalcato.
+
+Creò anche poi una versione ridotta, nana nelle misure, che potesse adattarsi a portare le creature di taglia piccola.
+\end{tcolorbox}\end{changemargin}
 
 
 \medskip\textbf{Saurovallo da Guerra}\index[Mostruario]{Saurovallo da Guerra}\hypertarget{Saurovallo da Guerra}{}
