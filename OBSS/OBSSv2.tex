@@ -177,7 +177,6 @@ boxrule=0.3pt
 \newcolumntype{h}{>{\raggedright\arraybackslash}p}
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
 
-
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\medskip \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
 
 
@@ -46304,74 +46303,6 @@ Abili cacciatori e battitori di piste.
 
 \end{multicols}
 
-\pagebreak
-
-\subsection{Conversione Mostri}\index{Conversione Mostri}
-
-\bigskip
-
-Per aggiungere altri mostri a OBSS vi invito a convertirli da Pathfinder o dalla 5ed del famoso gioco di ruolo. OBSS è di base un sistema d20 fortemente modificato nelle dinamiche ma non nelle fondamenta dei valori numerici.
-
-\medskip
-
-\textbf{Conversione da Pathfinder}
-
-Prendiamo ad esempio l'Orco comune da
-
-https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orc/
-
-tralasciamo le parti descrittive e concentriamoci sui numeri e valori.
-
-\bigskip{}
-
-\textbf{Orc (grado di Sfida 1/3)} questo valore rimane il medesimo in OBSS
-
-\textbf{XP 135} questo valore va ricondotto alla tabella dei punti esperienza per CR (100 px in questo caso)
-
-\textbf{Orc warrior 1} non ci interessa la classe, solo al più la razza.
-
-\textbf{CE Medium humanoid} ci indica che la creatura è di taglia media, umanoide e malvagio, ai fini dei Tratti la creatura non è di livello tale da aver attirato l'attenzione di un Patrono.
-
-\textbf{Init +0} è l'iniziativa, prendete il valore dalla Destrezza o Intelligenza se maggiore.
-
-\textbf{Senses} darkvision 60 ft.; Perception -1, rimane uguale, si tengono gli stessi valori ed abilità. In questo caso 60 piedi indica che la distanza è di 20 metri
-
-\textbf{Weakness} light sensitivity si cerca dove possibile l'equivalente in OBSS, in questo caso fotofobia leggera oppure si applicano direttamente le penalità indicate.
-
-\textbf{AC} 13, touch 10, flat-footed 13 (+3 armor) questa è la Difesa.
-
-\textbf{Competenza Armi}: è pari al BAB indicato
-
-\textbf{Competenza Magica}: di base è metà del grado di Sfida. Utile solo se la creatura ha poteri magici.
-
-\textbf{hp} 6 (1d10+1) rimane uguale
-
-\textbf{Fort} +3, Ref +0, Volontà -1 si traducono in Tempra, Riflessi e Volontà. Il punteggio rimane uguale
-
-\textbf{Speed} 30 ft. E' il movimento, in questo caso è 9 metri per Azione di Movimento.
-
-\textbf{Melee} Falcione +5 (2d4+4/18--20) è il mio Tiro per Colpire e danno. Rimane uguale
-
-\textbf{Ranged} javelin +1 (1d6+3) è il Tiro per Colpire e danno. Rimane uguale
-
-\textbf{Str} 17, Dex 11, Con 12, Int 7, Wis 8, Cha 6. Devi prendere solo la parte dei bonus.
-
-\textbf{Base Atk} +1; CMB +4; CMD 14 il primo valore determina la CA. Suggerisco di usare direttamente i bonus al colpire indicati nel melee.
-
-\textbf{Feats} Weapon Focus (Falcione) Arma Focalizzata. Il bonus dell'abilità è già calcolata nei valori di Melee
-
-\textbf{Skills} Intimidate +2 rimane uguale.
-
-\textbf{Ferocity} (Ex): An orc remains conscious and can continue fighting even if its hit point total is below 0. It is still staggered and loses 1 hit point each round. A creature with ferocity still dies when its hit point total reaches a negative amount equal to its Constitution score. Si prende la abilità così come è.
-
-
-\bigskip
-
-\textbf{Conversione dalla 5e} del famoso Gioco di Ruolo:
-f
-- Aumentate la Difesa ed i Tiri per Colpire di 1/2 punto per Grado di Sfida della creatura, arrotondate per eccesso.
-
-- Per i Tiri Salvezza prendete come base il Grado di Sfida della creatura e poi applicate il modificatore di caratteristica relativo a Destrezza (Riflessi), Costituzione (Tempra), Volontà (Saggezza).
 
 \pagebreak
 
@@ -46652,9 +46583,19 @@ https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-narratore-personaggi.
 
 Un enorme ringraziamento ad \href{http://www.editorifolli.it/gdr/dnd5/srd5/}{EditoriFolli} ( http://www.editorifolli.it/gdr/dnd5/srd5/ ) ed ai suoi collaboratori per il lavoro di traduzione della SRD della 5e. Senza il loro lavoro questo manuale non sarebbe stato possibile.
 
-\vspace{2cm}
 
 Per qualsiasi segnalazione o consiglio aprite una issue su GitHub, oppure mandatemi una mail azanzani@gmail.com o contattatemi sul gruppo OBSS su Telegram \href{https://t.me/obssgdr}{https://t.me/obssgdr}
+
+\section{Licenza}
+
+\textbf{Old Bell School System (OBSS)} è un prodotto di Andres Zanzani. OBSS è licenziato con la licenza \href{https://creativecommons.org/licenses/by-sa/4.0/legalcode}{Attribution-ShareAlike 4.0 International} - https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+\medskip
+
+\begin{center}
+	\includegraphics[keepaspectratio,width=0.35\textwidth]{immagini/CC_BY-SA_icon.svg.png}
+\end{center}
+
 
 \vfill
 
@@ -46768,69 +46709,6 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 
 \pagebreak
 
-\section{Licenza}\index{Licenza}
-
-\medskip
-
-\begin{center}
-	\textbf{Old Bell School System (OBSS)} è un prodotto di Andres Zanzani. OBSS è licenziato con la licenza \href{https://creativecommons.org/licenses/by-sa/4.0/legalcode}{Attribution-ShareAlike 4.0 International} - https://creativecommons.org/licenses/by-sa/4.0/legalcode
-\end{center}
-
-\textbf{\begin{center} Attribuzione-Condividi Allo Stesso Modo 4.0 Internazionale \end{center}}
-
-Questo il sunto della licenza. Leggi con attenzione l'intera licenza.
-
-\bigskip
-
-\textbf{Tu sei libero di}:
-
-\emph{Condividere}: riprodurre, distribuire, comunicare al pubblico, esporre in pubblico, rappresentare, eseguire e recitare questo materiale con qualsiasi mezzo e formato per qualsiasi fine, anche commerciale.
-
-\emph{Modificare}: remixare, trasformare il materiale e basarti su di esso per le tue opere per qualsiasi fine, anche commerciale.
-Il licenziante non può revocare questi diritti fintanto che tu rispetti i termini della licenza.
-
-\medskip
-
-\textbf{Alle seguenti condizioni}:
-
-\medskip
-
-\textbf{Attribuzione}:
-
-Devi riconoscere una menzione di paternità adeguata, fornire un link alla licenza e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile, ma non con modalità tali da suggerire che il licenziante avalli te o il tuo utilizzo del materiale.
-
-\textbf{Stessa Licenza}:
-
-Se remixi, trasformi il materiale o ti basi su di esso, devi distribuire i tuoi contributi con la stessa licenza del materiale originario.
-
-\textbf{Divieto di restrizioni aggiuntive}:
-
-Non puoi applicare termini legali o misure tecnologiche che impongano ad altri soggetti dei vincoli giuridici su quanto la licenza consente loro di fare.
-
-\medskip
-
-\textbf{Note}:
-
-Non sei tenuto a rispettare i termini della licenza per quelle componenti del materiale che siano in pubblico dominio o nei casi in cui il tuo utilizzo sia consentito da una eccezione o limitazione prevista dalla legge.
-
-Non sono fornite garanzie. La licenza può non conferirti tutte le autorizzazioni necessarie per l'utilizzo che ti prefiggi. Ad esempio, diritti di terzi come i diritti all'immagine, alla riservatezza e i diritti morali potrebbero restringere gli usi che ti prefiggi sul materiale.
-
-\bigskip
-
-\textbf{Licenza aggiunta dall'Autore}:
-Qualsiasi utilizzo di OBSS o sue parti od idee siete pregati di comunicarlo preventivamente.
-
-Le immagini incluse nel manuale o nel repository, ad esclusione delle mappe di Curyan e Tiya, sono in pubblico dominio o sono senza licenza.
-Le immagini che riportano la sigla \textit{(B.I.C.)}\index{B.I.C.} sono state create usando Bing Image Creator.
-In caso di inclusione per errore di immagini protette da copyright vi invito a segnalarle per la rimozione.
-
-\vfill
-
-\begin{center}
-	\includegraphics[keepaspectratio,width=0.35\textwidth]{immagini/CC_BY-SA_icon.svg.png}
-\end{center}
-
-\pagebreak
 
 %\invisiblesection{Mappe}\index{Mappe}
 %
