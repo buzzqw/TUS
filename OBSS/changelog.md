@@ -686,7 +686,7 @@ aggiornata versione POD 2024/10/04
 
 aggiornata versione POD 2024/10/06
 
-0.99.8 aggiornata la scheda, corretto tesoro a demogorgone, 
+0.99.8 aggiornata la scheda, corretto tesoro a demogorgone, corretta in oggetti magici attribuzione liste magia, 
 
 tegoria Tes
 
