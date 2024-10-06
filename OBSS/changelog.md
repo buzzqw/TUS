@@ -682,7 +682,7 @@ aggiornata versione POD 2024/10/01
 
 aggiornata versione POD 2024/10/04
 
-0.99.8 ho detto font charter, 
+0.99.8 ho detto font charter, aggiunti hyperlink per creazione oggetti magici a descizione oggetti magici
 
 tegoria Tes
 
