@@ -684,6 +684,10 @@ aggiornata versione POD 2024/10/04
 
 0.99.8 ho detto font charter, aggiunti hyperlink per creazione oggetti magici a descizione oggetti magici
 
+aggiornata versione POD 2024/10/06
+
+0.99.8 aggiornata la scheda, 
+
 tegoria Tes
 
 - aggiunti \label{} fino a piani
