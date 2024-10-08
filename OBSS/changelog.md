@@ -684,9 +684,9 @@ aggiornata versione POD 2024/10/04
 
 0.99.8 ho detto font charter, aggiunti hyperlink per creazione oggetti magici a descizione oggetti magici
 
-aggiornata versione POD 2024/10/06
+aggiornata versione POD 2024/10/06 x
 
-0.99.8 aggiornata la scheda, corretto tesoro a demogorgone, corretta in oggetti magici attribuzione liste magia, 
+0.99.8 aggiornata la scheda, corretto tesoro a demogorgone, corretta in oggetti magici attribuzione liste magia, corretta parte della licenza, corretta malattia dei ghoul, aggiornata aura di sofferenza del ghoul putrescente, 
 
 tegoria Tes
 
