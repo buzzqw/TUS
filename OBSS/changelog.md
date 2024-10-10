@@ -686,7 +686,7 @@ aggiornata versione POD 2024/10/04
 
 aggiornata versione POD 2024/10/06 x
 
-0.99.8 aggiornata la scheda, corretto tesoro a demogorgone, corretta in oggetti magici attribuzione liste magia, corretta parte della licenza, corretta malattia dei ghoul, aggiornata aura di sofferenza del ghoul putrescente, ottimizzato codice e layout per mostri, 
+0.99.8 aggiornata la scheda, corretto tesoro a demogorgone, corretta in oggetti magici attribuzione liste magia, corretta parte della licenza, corretta malattia dei ghoul, aggiornata aura di sofferenza del ghoul putrescente, ottimizzato codice e layout per mostri, aggiunti dettagli importanti su origine razza semiumane, aggiunta abilita' per mezzelfo e mezzorco, modificata abilita' per gnomo, aggiornati elenchi creature varie ed elenco personaggio non giocanti, 
 
 
 
