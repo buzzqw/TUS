@@ -30,7 +30,7 @@
 \usepackage{yfonts}
 \usepackage{lettrine}
 \usepackage{calligra}
-\renewcommand{\LettrineFontHook}{\calligra}
+\renewcommand{\LettrineFontHook}{\GoudyInfamily{}}
 \usepackage{ragged2e}
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
@@ -68,7 +68,7 @@
 \fancyhead[RE,LO]{}
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-
+\usepackage{GoudyIn}
 \fancypagestyle{plain}{%
 %% Clear all headers and footers
 \fancyhf{}
@@ -98,8 +98,7 @@ xshift=-60mm,yshift=-4mm, text height=0.4cm]
 at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
 {\sffamily\itshape\small\nouppercase{\leftmark}};
 \end{tikzpicture}
-}
-}
+} }
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 }
@@ -161,7 +160,11 @@ boxrule=0.3pt
 %\usepackage{garamondx} %\usepackage{tgpagella} % \fontsize{10.5}{12.5}\selectfont %\usepackage{mlmodern} % \fontsize{10.5}{12.5}\selectfont
 \usepackage{charter}  % \fontsize{10.5}{12.5}\selectfont
 
+%\newcommand{\LETT}[3][]{\lettrine[lines=4,loversize=.2,#1]{\smash{#2}}{#3}}
 
+%\newcommand{\LETT}[3][]{\lettrine[lines=3,loversize=.09,findent=0pt,nindent=0.25em,lhang=0.2,#1]{\smash{#2}}{#3}}
+
+\newcommand{\LETT}[3][]{\lettrine[lines=3,loversize=.2,#1]{\smash{#2}}{#3}}
 
 \begin{document} 
 \def \versione {0.99.10} \fontsize{10.5}{12.5}\selectfont
@@ -174,6 +177,7 @@ boxrule=0.3pt
 \newcolumntype{L}{>{\raggedright\arraybackslash}X}
 \newcolumntype{h}{>{\raggedright\arraybackslash}p}
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
+
 
 
 
@@ -411,8 +415,7 @@ OBSS vuole continuare nel solco di un gioco inclusivo e libero. Ogni gruppo è l
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{T}{i} elenco un pò di termini\index{Termini comuni} e concetti che troverai ripetuti più volte nel libro.
-
+\LETT{T}{i} elenco un pò di termini\index{Termini comuni} e concetti che troverai ripetuti più volte nel libro.\\
 
 \textbf{Arrotondamenti}: \index{Arrotondamenti}sempre per difetto se non esplicitato diversamente ma con un minimo di 1. Es. 7/2 = 3, 9/4=2, 1/2=1
 
@@ -581,7 +584,7 @@ Non è la più intelligente delle specie quella che sopravvive; non è nemmeno l
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{Y}{eru} è un mondo sfaccettato e ricco di diversità, culturali, naturali e di creature.
+\LETT{Y}{eru} è un mondo sfaccettato e ricco di diversità, culturali, naturali e di creature.
 Sono le creature a rendere il pianeta vitale e ricco, ognuna nutre, apporta, arricchisce la conoscenza di tutte le altre.
 
 
@@ -997,7 +1000,7 @@ Non basta avere gli occhi per vedere (anonimo)
 \begin{multicols}{2}
 
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{O}{gni} creatura è speciale ed unica eppure ci sono esseri ancora più unici e speciali per le loro caratteristiche. Queste sono le peculiarità di alcune di queste.
+\LETT{O}{gni} creatura è speciale ed unica eppure ci sono esseri ancora più unici e speciali per le loro caratteristiche. Queste sono le peculiarità di alcune di queste.
 
 \subsection{Visione Crepuscolare}\index{Visione Crepuscolare}\label{visionecrepuscolare}
 
@@ -1091,7 +1094,7 @@ Il raggio della capacità è specificato nel testo descrittivo della creatura.
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{O}{gni} personaggio ha 6 Caratteristiche (chiamate anche Statistiche) che rappresentano i suoi attributi base e costituiscono il suo potenziale talento e capacità innata.
+\LETT{O}{gni} personaggio ha 6 Caratteristiche (chiamate anche Statistiche) che rappresentano i suoi attributi base e costituiscono il suo potenziale talento e capacità innata.
 
 Anche se non è comune che un personaggio effettui una prova usando soltanto una sua Caratteristica, i punteggi di Caratteristica influiscono praticamente su ogni aspetto delle capacità e competenze del personaggio.
 
@@ -1325,7 +1328,7 @@ Avere delle Caratteristiche basse non è la morte del personaggio! Cercate piutt
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Chi non stima la vita, non la merita. (Leonardo da Vinci)}\end{enfasi}\end{changemargin}
 
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{ Punti Ferita} rappresentano l'energia vitale del personaggio ma anche l'abilità, fortuna, la capacità del personaggio di resistere e combattere. Finché il personaggio/avversario ha almeno 1 Punto Ferita (PF) combatterà e lotterà al meglio delle sue capacità.
+\LETT{I}{ Punti Ferita} rappresentano l'energia vitale del personaggio ma anche l'abilità, fortuna, la capacità del personaggio di resistere e combattere. Finché il personaggio/avversario ha almeno 1 Punto Ferita (PF) combatterà e lotterà al meglio delle sue capacità.
 
 \begin{itemize}[leftmargin=*]
 \item Ogni personaggio parte con 8 Punti Ferita al primo livello + il punteggio della Costituzione.
@@ -1377,7 +1380,7 @@ Un'arma o effetto che causa danni non letali vuole dire che causa \hyperlink{rec
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Se il destino è contro di noi, peggio per lui. (motto del 1º Reggimento Carabinieri Paracadutisti "Tuscania")}\end{enfasi}\end{changemargin}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{n} un mondo non facile la Fortuna del Principiante aiuta chi non ha esperienza.
+\LETT{I}{n} un mondo non facile la Fortuna del Principiante aiuta chi non ha esperienza.
 Ogni personaggio ha un numero di Punti Fato pari a (20 - Livello)/5, con un minimo di 1. I Punti Fato si azzerano e conteggiano per sessione di gioco. Si recupera un Punto Fato ogni volta che si tirano almeno tre 1 in una prova.\index{Recuperare Punti Fato}
 
 Un Punto Fato si usa come Azione gratuita ed il personaggio può usare i Punto Fato per:
@@ -1418,7 +1421,7 @@ E' un diritto naturale saziarsi l'anima con la vendetta. (Attila)
 \begin{multicols}{2}
 
 \index{Tratti}
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{n} OBSS non c'è una netta distinzione tra bene e male, legge e caos, tra ciò che è giusto e ciò che è sbagliato.
+\LETT{I}{n} OBSS non c'è una netta distinzione tra bene e male, legge e caos, tra ciò che è giusto e ciò che è sbagliato.
 
 In OBSS esistono i Tratti, aspetti e sfumature caratteriali che \textbf{contribuiscono} al background del personaggio, aiutano il giocatore a ruolare meglio e gli possono fornire quelle linee guida per interpretare in maniera più corretta il personaggio che si è voluto creare.
 
@@ -1566,7 +1569,7 @@ Non hai veramente capito qualcosa fino a quando non sei in grado di spiegarlo a 
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{L}{e} Competenze rappresentano il cosa si conosce ed il cosa si sa fare. I punteggi delle stesse rappresentano quanto bene è conosciuta la competenza e quindi più è alto il valore più si è esperti.
+\LETT{L}{e} Competenze rappresentano il cosa si conosce ed il cosa si sa fare. I punteggi delle stesse rappresentano quanto bene è conosciuta la competenza e quindi più è alto il valore più si è esperti.
 
 \subsection{Competenze di Base}\index{Competenze di Base}\label{competenzebase}
 
@@ -1942,7 +1945,7 @@ Sopravvivi e reclama la Legge del Premio e vedrai che con il passare dei livelli
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{C}{ome} prima cosa prepara davanti a te la scheda ed un foglio dove prendere note ed appunti.
+\LETT{C}{ome} prima cosa prepara davanti a te la scheda ed un foglio dove prendere note ed appunti.
 
 Per creare un personaggio prova rispondere a queste domande, potranno aiutarti ad immaginarlo e plasmarlo.
 
@@ -2156,7 +2159,7 @@ Occorre che la legge sia breve, perché più facilmente i mal pratici la ricordi
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{L}{\textbf{e}} \textbf{prove (i check), per le Competenze o Caratteristiche, si eseguono tirando 3d6, al risultato dei dadi si somma il punteggio della Competenza (di base o attiva) e della Caratteristica collegata ed eventuali bonus magici e di circostanza o Abilità, il risultato ottenuto deve essere comunicato al Narratore, il quale lo confronterà con la difficoltà (DC) della prova}.
+\LETT{L}{\textbf{e}} \textbf{prove (i check), per le Competenze o Caratteristiche, si eseguono tirando 3d6, al risultato dei dadi si somma il punteggio della Competenza (di base o attiva) e della Caratteristica collegata ed eventuali bonus magici e di circostanza o Abilità, il risultato ottenuto deve essere comunicato al Narratore, il quale lo confronterà con la difficoltà (DC) della prova}.
 
 Quando dovete stabilire una difficoltà partite pensando che la prova deve essere rapportata da una persona \emph{normale}. Non pensate \emph{se la dovessi fare io allora la prova sarebbe impossibile}, \emph{se la prova la fa Arsenio Lupin la prova è facilissima}. Partite dal presupposto che la difficoltà deve racchiudere in se tutti gli elementi circostanziali.
 
@@ -2571,21 +2574,21 @@ Se non si ha almeno 3 metri di rincorsa si salta la metà. In lungo si salta al 
 \noindent\textit{Inseguire una creatura}:
 
 \medskip
-
+\small{
 \noindent\begin{tabular}{ll}
 \textbf{Difficoltà base} & \textbf{DC 15}\\
 \toprule
-Se il terreno è molto morbido& DC +5\\
-Se il terreno è morbido& DC +10\\
-Se il terreno è stabile& DC +15\\
-Se il terreno è duro& DC +20\\
-Ogni 3 creature inseguite& DC -1\\
-A seconda della taglia& DC $\pm4$\\
+Se il terreno è molto morbido/morbido	& DC +5/+10\\
+Se il terreno è stabile/duro			& DC +15/+20\\
+%Se il terreno è stabile				& DC +15\\
+%Se il terreno è duro				& DC +20\\
+Ogni 3 creature inseguite			& DC -1\\
+A seconda della taglia				& DC $\pm4$\\
 Ogni 24 ore passate / Visibilità scarsa&DC +4\\
-Ogni ora di pioggia&DC +4\\
+Ogni ora di pioggia					& DC +4\\
 %Visibilità scarsa&DC +2\\
-Cerca di occultare le traccie&DC +5\\
-\end{tabular}
+Cerca di occultare le traccie		& DC +5\\
+\end{tabular}}
 
 \medskip
 
@@ -2599,13 +2602,11 @@ Ogni tre punti ottenuti nella prova di Sopravvivenza oltre 13 il personaggio è 
 
 \subsection{Linguaggi}\index{Linguaggi}\hypertarget{linguaggi}{}\label{linguaggi}
 
-Nel mondo attuale c'è la lingua Comune, costruita dall'insieme dei vecchi idiamo terrestri e comprensibile più o meno a chiunque e le lingue delle \emph{nuove} razze.
+Nel mondo attuale c'è la lingua Comune costruita dall'insieme dei vecchi idiomi terrestri e comprensibile più o meno a chiunque e le lingue delle \emph{nuove} razze.
 
 Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto pari o superiore a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio. Per ogni punto speso nella Competenza Conoscenza Lingua parla e scrive un altra lingua.
 
-Alcune lingue segnate con un \textbf{*} possono essere parlate solo da creature appartenenti a quella specie o gruppo culturale.
-
-\medskip
+Le lingue segnate con un \textbf{*} possono essere parlate solo da creature appartenenti a quella specie o gruppo culturale.
 
 \textbf{Tabella delle Lingue}\index[Tabelle]{Tabella delle Lingue}
 
@@ -2740,7 +2741,7 @@ Occhio per occhio... e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{l} combattimento è tra le fasi principali di un avventura ed è quando i prodi e coraggiosi danno sfoggio della loro maestria con le armi o magie.
+\LETT{I}{l} combattimento è tra le fasi principali di un avventura ed è quando i prodi e coraggiosi danno sfoggio della loro maestria con le armi o magie.
 
 \bigskip
 
@@ -3900,7 +3901,7 @@ Dove c'è molta luce, l'ombra è più nera. (Johann Wolfgang von Goethe)
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{N}{on} sempre l'avversario si palesa davanti a noi, spesso può essere nascosto se non addirittura invisibile.
+\LETT{N}{on} sempre l'avversario si palesa davanti a noi, spesso può essere nascosto se non addirittura invisibile.
 
 Potrebbe essere nascosto dietro un muretto o dei barili, se non dietro un muscoloso e gigantesco famiglio.
 E se fosse alle nostre spalle e neanche l'abbiamo notato ?
@@ -4016,7 +4017,7 @@ Le creature invisibili non possono utilizzare gli attacchi con lo sguardo. L'inv
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{O}{gni} qual volta si assegna un punto a Competenza Armi si può decidere se continuare a perfezionarsi in una Lista di Armi già nota o apprendere una nuova, se non si dichiara l'uso questo è assegnato alla Lista delle Armi Semplici.
+\LETT{O}{gni} qual volta si assegna un punto a Competenza Armi si può decidere se continuare a perfezionarsi in una Lista di Armi già nota o apprendere una nuova, se non si dichiara l'uso questo è assegnato alla Lista delle Armi Semplici.
 
 Nella scheda segnatevi a quale Lista d'Armi assegnate il punto di Competenza Armi.
 
@@ -4684,7 +4685,7 @@ I giocatori in accordo con il Narratore possono creare loro Manovre d'Arme perso
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{L}{e} Abilità sono capacità peculiari, frutto di allenamento o doti particolari. Le Abilità hanno sempre un effetto pratico.
+\LETT{L}{e} Abilità sono capacità peculiari, frutto di allenamento o doti particolari. Le Abilità hanno sempre un effetto pratico.
 
 Le Abilità costituiscono una buona parte di ciò che può fare il personaggio, vanno scelte con attenzione e cura. E' scegliendo le Abilità che si stabilisce lo stile e capacità del personaggio, se lo si vole più guerriero o mago o curatore.. o qualsivoglia combinazione e peculiarità.
 
@@ -5957,12 +5958,6 @@ Puoi ignorare il requisito dei 3 metri di rincorsa prima di un salto.
 
 La \textbf{seconda volta} che prendi quest'Abilità quando effettui una prova per saltare in lungo od in alto tiri 1d6 in più.
 
-\begin{center}
-\includegraphics[width=0.65\linewidth]{immagini/elcolosso.png}
-
-\emph{The Colossus (also known as The Giant), is known in Spanish as El Coloso.}
-\end{center}
-
 \subsection*{Montagna umana}\index{Montagna umana}\label{montagnaumana}\hypertarget{montagnaumana}{}
 
 \textbf{Requisito}: Costituzione 1
@@ -5982,6 +5977,12 @@ La \textbf{terza volta} che prendi questa Abilità aumenti il dado per tirare i 
 I bonus sono cumulativi e retroattivi ai livelli precedenti, tranne che l'aumento di dado vita.
 
 La \textbf{quarta volta} che prendi questa Abilità aumenti di una taglia (P > M > G).
+
+\begin{center}
+	\includegraphics[width=0.65\linewidth]{immagini/elcolosso.png}
+	
+	\emph{The Colossus (also known as The Giant), is known in Spanish as El Coloso.}
+\end{center}
 
 \subsection*{Muro mentale}\index{Muro mentale}\label{muromentale}\hypertarget{muromentale}{}
 
@@ -6362,6 +6363,10 @@ Le Abilità due e tre sono cumulative.
 Il tuo interesse e connessione con la magia non ha eguali. Puoi conoscere due incantesimi in più (pur rispettando i vincoli di massimo livello copiabile sul Tomo).
 
 
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{immagini/turning-undead-six.png}
+\end{center}
+
 \subsection*{Scacciare i non morti}\index{Scacciare i non morti}\label{scacciarenonmorti}\hypertarget{scacciareinonmorti}{}
 
 \textbf{Requisito}: Somma Tratti comune 2, essere Devoto o Seguace
@@ -6388,9 +6393,6 @@ Un Devoto di Sixiser al posto di scacciare e distruggere può dominare il non mo
 
 Un Devoto di Thaft ottiene +1d6 al Potere Divino.
 
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/turning-undead-six.png}
-\end{center}
 
 \subsection*{Schivare trappole}\index{Schivare trappole}\label{schivaretrappole}\hypertarget{schivaretrappole}{}
 
@@ -6677,7 +6679,7 @@ La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire au
 
 \begin{center}
 
-\includegraphics[width=0.65\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+\includegraphics[width=0.8\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 
 %%\filltopageendgraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 
@@ -6899,7 +6901,7 @@ Nipote del signor Wing: Lo tenga lontano dalla luce, lui odia la luce forte, spe
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{ famigli} sono animali scelti dal personaggio, tramite l'Abilità Famiglio, perché gli siano d'aiuto nelle avventure e per compagnia. Un famiglio ha un legame speciale con il suo padrone.
+\LETT{I}{ famigli} sono animali scelti dal personaggio, tramite l'Abilità Famiglio, perché gli siano d'aiuto nelle avventure e per compagnia. Un famiglio ha un legame speciale con il suo padrone.
 
 Un famiglio è un normale animale ma viene trattato come creatura magica al fine di determinare qualsiasi effetto che dipenda dal suo tipo.
 
@@ -7044,7 +7046,7 @@ Il famiglio può trasmettere l'Incantesimo proprio come il padrone. Il famiglio 
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{Q}{este} Abilità non sono selezionabili da parte del giocatore, bensì possono essere innate nelle creature.
+\LETT{Q}{este} Abilità non sono selezionabili da parte del giocatore, bensì possono essere innate nelle creature.
 
 \subsection{Etereo}\index{Etereo}\label{etereo}
 
@@ -7159,7 +7161,7 @@ Uno stregone non è mai in ritardo, Frodo Baggins. Né in anticipo. Arriva preci
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{L}{a} magia permea i mondi di gioco e la sua forma più comune è quella di un incantesimo. Questo capitolo fornisce le regole per lanciare incantesimi.
+\LETT{L}{a} magia permea i mondi di gioco e la sua forma più comune è quella di un incantesimo. Questo capitolo fornisce le regole per lanciare incantesimi.
 
 \medskip
 
@@ -13405,7 +13407,7 @@ I Patroni sono stati creati come \href{https://www.treccani.it/vocabolario/paros
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{n} principio era il nulla che in sé conteneva il tutto.
+\LETT{I}{n} principio era il nulla che in sé conteneva il tutto.\\
 
 L'Energia dei Patroni della Genesi, derivante dalle più primordiali pulsioni esplodeva in tutta la sua potenza senza alcun controllo 
 
@@ -14620,7 +14622,7 @@ I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizz
 
 \label{ricchezza-e-denaro}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{E}{u}ro ? Dollaro ? Yen ? No.. non sono accettati.
+\LETT{E}{u}ro ? Dollaro ? Yen ? No.. non sono accettati.\\
 
 In questo nuova \emph{economia} il valore delle vecchie monete è nullo se non per uno scarso valore storico numismatico.
 
@@ -15027,7 +15029,7 @@ Armatura (s.f.). Abito che si indossa se il proprio sarto è un fabbro. (Ambrose
 
 Armatura Fantozzi: banderuola 4 venti in funzione di pennacchio, pauroso elmo vichingo con visibilità azzerata, sospensorio in bronzo sottratto alla statua di Pipino il Breve e, ai piedi, ferroni da stiro a carbonella di piombo fuso. Peso complessivo armatura Fantozzi: 4 quintali, 32 chili e 7 etti e mezzo. (Superfantozzi, Film)} \end{enfasi}\end{changemargin}\medskip
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{L}{e} armature aiutano ad essere non colpiti (alzano la Difesa) e penalizzano la Prova di Magia e le prove di competenza di Base.
+\LETT{L}{e} armature aiutano ad essere non colpiti (alzano la Difesa) e penalizzano la Prova di Magia e le prove di competenza di Base.\\
 
 Le Penalità Competenze è la penalità che si applica alle prove di competenza di Base influenzate dal peso ed Ingombro dell'armatura. Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella serve come linea guida per il Narratore.\index{Penalità armatura}
 
@@ -15096,7 +15098,13 @@ materiali più morbidi e flessibili.
 
 \emph{Cuoio Rinforzato}. Fatta di cuoio duro ma flessibile, l'armatura di cuoio rinforzato è arricchita da rivetti o spuntoni.
 
-\medskip
+
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{immagini/donnacavalierecavallo.png}
+	
+	\textit{Immagine di un raro cavallo, ora estinti}
+\end{center}
+
 
 \textbf{Armature Medie}
 
@@ -15109,12 +15117,6 @@ Le armature medie offrono più protezione di quelle leggere, ma limitano i movim
 \emph{Anelli}. Quest'armatura è un'armatura di cuoio con dei pesanti anelli cuciti sopra. Gli anelli servono a rinforzare l'armatura contro i colpi di spada e d'ascia. L'armatura è completa di guanti.
 
 \emph{Pettorale}. Questa armatura consiste di un corpetto di metallo indossato su di uno strato di cuoio. Sebbene lasci braccia e gambe relativamente scoperte, l'armatura fornisce una buona protezione agli organi vitali del personaggio, senza procurargli grande ingombro.
-
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/donnacavalierecavallo.png}
-
-\textit{Immagine di un raro cavallo, ora estinti}
-\end{center}
 
 \textbf{Armature Pesanti}
 
@@ -15263,7 +15265,7 @@ Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\
 
 \subsubsection{Vendere Tesori}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{N}{ei} sotterranei che esplorerai avrai ampie opportunità di trovare tesori, equipaggiamento, armi, armature e altro ancora. Di solito, potrai vendere tesori e ninnoli quando raggiungerai un paese o altro insediamento, purché tu riesca a trovare acquirenti e mercanti interessati al tuo bottino.
+\LETT{N}{ei} sotterranei che esplorerai avrai ampie opportunità di trovare tesori, equipaggiamento, armi, armature e altro ancora. Di solito, potrai vendere tesori e ninnoli quando raggiungerai un paese o altro insediamento, purché tu riesca a trovare acquirenti e mercanti interessati al tuo bottino.
 
 \medskip
 
@@ -16147,7 +16149,7 @@ Il reato di furto sarà punito con il marchio a fuoco dei ladri, in pieno petto.
 
 \label{sfondare-ed-entrare}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{Q}{ando} si tenta di spaccare un oggetto le scelte sono due: colpirlo con un'oggetto (arma?) o romperlo con la forza bruta.
+\LETT{Q}{ando} si tenta di spaccare un oggetto le scelte sono due: colpirlo con un'oggetto (arma?) o romperlo con la forza bruta.
 
 \smallskip
 
@@ -16301,7 +16303,7 @@ L'antidoto principale contro un cattivo ambiente consiste, naturalmente, nel sos
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{D}{ai} deserti senza vita ai dungeon zeppi di trappole, l'ambiente aiuta a definire il mondo, renderlo vivo, dinamico e ricco. Consente di creare un'esperienza di gioco emozionante e coinvolgente.
+\LETT{D}{ai} deserti senza vita ai dungeon zeppi di trappole, l'ambiente aiuta a definire il mondo, renderlo vivo, dinamico e ricco. Consente di creare un'esperienza di gioco emozionante e coinvolgente.
 
 \subsection{Regole Ambientali}
 
@@ -16838,7 +16840,7 @@ Guardò il mare e capì fino a che punto era solo, adesso. (Il vecchio e il mare
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{L}{'acqua} permette alle società di esistere, ma può anche distruggerle. La vita non potrebbe esistere senza di essa. Il commercio ed il viaggio sono agevolati dalla sua presenza. Eppure, l'acqua può anche uccidere, sia annegando le persone, sia generando alluvioni e tsunami su larga scala. La vita terrestre è dipendente dall'acqua ma allo stesso tempo la teme.
+\LETT{L}{'acqua} permette alle società di esistere, ma può anche distruggerle. La vita non potrebbe esistere senza di essa. Il commercio ed il viaggio sono agevolati dalla sua presenza. Eppure, l'acqua può anche uccidere, sia annegando le persone, sia generando alluvioni e tsunami su larga scala. La vita terrestre è dipendente dall'acqua ma allo stesso tempo la teme.
 
 \textbf{Avventure Acquatiche}
 
@@ -16917,7 +16919,7 @@ Il dungeon è inclinato. Le creature sono infuriate perché non riescono a gioca
 \label{avventure-nei-dungeon}
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{D}{i} tutti i luoghi strani che un avventuriero può esplorare, nessuno è più letale di un dungeon. Questi labirinti, pieni di trappole mortali, mostri affamati e tesori meravigliosi, provano ogni abilità e capacità dei personaggi. Queste regole si possono applicare a qualsiasi tipo di dungeon, dal relitto di una nave ad un vasto complesso di grotte sotterranee.
+\LETT{D}{i} tutti i luoghi strani che un avventuriero può esplorare, nessuno è più letale di un dungeon. Questi labirinti, pieni di trappole mortali, mostri affamati e tesori meravigliosi, provano ogni abilità e capacità dei personaggi. Queste regole si possono applicare a qualsiasi tipo di dungeon, dal relitto di una nave ad un vasto complesso di grotte sotterranee.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Il dungeon, caverna, catacomba, spelonca, ecosistema sotterraneo... chiamatelo come preferite è un cardine dell'avventura!
@@ -17391,7 +17393,7 @@ Corre meno pericoli colui che, anche se è al sicuro, sta in guardia. (Publilio 
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{l} mondo è pieno dì pericoli oltre che di draghi ed immondi famelici. I pericoli sono minacce presenti nell'ambiente e che hanno molto in comune con le trappole, ma che di solito fanno parte del posto anziché venir costruite. I pericoli si dividono in tre categorie principali: ambientali, viventi e magici.
+\LETT{I}{l} mondo è pieno dì pericoli oltre che di draghi ed immondi famelici. I pericoli sono minacce presenti nell'ambiente e che hanno molto in comune con le trappole, ma che di solito fanno parte del posto anziché venir costruite. I pericoli si dividono in tre categorie principali: ambientali, viventi e magici.
 
 I pericoli ambientali includono frane, incendi e simili. I pericoli viventi includono creature che pur non essendo considerate mostri, rappresentano una minaccia per gli avventurieri \emph{incauti}, come fanghiglie, funghi e muschi. I pericoli magici sono i più imprevedibili e possono essere residui di esperimenti arcani, strane radiazioni sotterraneo o antichi incantesimi falliti.
 
@@ -18470,7 +18472,7 @@ Mentre si stava ponendo tutte queste domande... il veleno fece il suo effetto e 
 
 \subsection{Tipo di Veleno e Pozione}\label{tipidiveleno}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{ veleni} e pozioni possono distinguersi in base all'effetto scatenato.
+\LETT{I}{ veleni} e pozioni possono distinguersi in base all'effetto scatenato.
 Non tutti i veleni sono tossici se ingeriti o inalati.
 
 Per identificare una pozione naturale è necessario una prova di Erboristeria a DC 12 + la rarità della pianta oppure in caso di Veleni la difficoltà è pari al Tiro Salvezza dello stesso. Costa 1 Azione ogni 10 di DC oppure, con Erboristeria a 6 o più, costa 1 Azione ogni 15 DC, con 12 punti costa 1 Azione ogni 20 DC. Le pozioni se non descritto diversamente devono essere bevute (ingestione).
@@ -18974,7 +18976,7 @@ Quando non puoi più correre, cammina veloce; quando non puoi più camminare vel
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{I}{l} movimento si può distinguere in base a quale situazione si applica.
+\LETT{I}{l} movimento si può distinguere in base a quale situazione si applica.
 
 \medskip
 
@@ -19381,7 +19383,7 @@ Persone diverse hanno idee diverse su ciò che è divertente in D\&D. Ricorda ch
 
 \label{il-narratore}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{M}{entre} il giocatore interpreta un personaggio in un'avventura, il Narratore è colui che la gestisce. Ha certamente molto più lavoro, ma creare un mondo intero affinché i propri amici lo esplorino, può dare molte soddisfazioni.
+\LETT{M}{entre} il giocatore interpreta un personaggio in un'avventura, il Narratore è colui che la gestisce. Ha certamente molto più lavoro, ma creare un mondo intero affinché i propri amici lo esplorino, può dare molte soddisfazioni.
 
 Il ruolo del Narratore non è facile ma concede enormi privilegi. Vedere i propri amici giocare, divertirsi, ammattirsi dietro dubbi, indovinelli e situazioni da te create dà tantissimo divertimento e momenti di vera convivialità.
 
@@ -21050,7 +21052,7 @@ Un incantesimo costa in monete d'oro livello*livello*livello*80\index{Comprare u
 
 \subsection{Capacità Speciali delle Armi Magiche}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{U}{n'} arma con una capacità speciale deve avere almeno bonus magico +1.
+\LETT{U}{n'} arma con una capacità speciale deve avere almeno bonus magico +1.
 
 Vengono qui elencati le capacità magiche che un'armatura, scudo o arma può avere oltre al generico bonus magico (+1,+2....). Usate questo elenco come linee guida ed esempi, stessa cosa per i prezzi, usateli come indicazione di rarità.
 
@@ -23608,7 +23610,7 @@ Piazzare lo zainetto all'interno dello spazio extradimensionale creato da una bo
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{Q}{ueste} sono le indicazioni su l'utilizzo degli oggetti magici.
+\LETT{Q}{ueste} sono le indicazioni su l'utilizzo degli oggetti magici.
 
 \label{oggetti-magici}
 \begin{itemize}[leftmargin=*]
@@ -23806,7 +23808,7 @@ Creare è vivere due volte. (Albert Camus)
 
 \label{creare-oggetti-magici}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{P}{er} Creare Oggetti Magici è necessario avere le Abilità Creazione oggetti magici.
+\LETT{P}{er} Creare Oggetti Magici è necessario avere le Abilità Creazione oggetti magici.
 
 I costi qui elencati sono quelli di produzione, il ricavo si può attestare attorno al 20\% del prezzo di produzione. La DC per creare un oggetto è 15+2*Livello dell'incantesimo contenuto, oppure +4 per ogni +1 dell'oggetto.\index{DC per creare oggetto magico}
 
@@ -24107,7 +24109,7 @@ Se maledici una persona ci saranno due fosse. (Proverbio giapponese)}
 
 \label{oggetti-maledetti}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{G}{li} oggetti maledetti sono oggetti magici dotati di un'influenza potenzialmente negativa sul personaggio.
+\LETT{G}{li} oggetti maledetti sono oggetti magici dotati di un'influenza potenzialmente negativa sul personaggio.
 
 Gli oggetti maledetti non sono quasi mai realizzati intenzionalmente, piuttosto sono il risultato di un lavoro mal riuscito, di artigiani con poca esperienza o della mancanza di componenti adeguati o patti non rispettati con qualche Patrono.
 
@@ -24717,7 +24719,7 @@ Solo i sommi Devoti di Atmos conoscono questa verità come conoscono che i Patro
 
 \section{I Piani}\index{I Piani}\label{ipiani}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{A}{nche} se avventure infinite vi attendono sulla Terra, ci sono altri mondi oltre questo, altri continenti, altri pianeti, altre galassie. Tuttavia anche oltre l'esistenza di innumerevoli pianeti esistono altri mondi, dimensioni completamente differenti dalla realtà, conosciuti come piani di esistenza. Viaggiare tra un Piano e l'altro è complesso e ognuno ha le sue regole.
+\LETT{A}{nche} se avventure infinite vi attendono sulla Terra, ci sono altri mondi oltre questo, altri continenti, altri pianeti, altre galassie. Tuttavia anche oltre l'esistenza di innumerevoli pianeti esistono altri mondi, dimensioni completamente differenti dalla realtà, conosciuti come piani di esistenza. Viaggiare tra un Piano e l'altro è complesso e ognuno ha le sue regole.
 
 Sebbene il numero di piani sia limitato solo dall'immaginazione, essi possono ricondursi tutti a cinque tipi generali: il Piano Materiale, i Piani di Transizione, i Piani Energetici, i Piani Esterni e gli innumerevoli semipiani.
 
@@ -25178,7 +25180,7 @@ La tragedia dei mostri è di essere troppo grandi e potenti per essere accettati
 
 \begin{multicols}{2}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{B}{envenuti} in un universo ricco di avversari, spesso cattivi, altre volte violenti, pure subdoli, anche intelligenti, forse meschini e quasi sempre giganteschi.. e quant'altro tu vorrai. I mostri sono il caposaldo di qualsiasi gioco di ruolo fantasy.
+\LETT{B}{envenuti} in un universo ricco di avversari, spesso cattivi, altre volte violenti, pure subdoli, anche intelligenti, forse meschini e quasi sempre giganteschi.. e quant'altro tu vorrai. I mostri sono il caposaldo di qualsiasi gioco di ruolo fantasy.
 
 Vengono qui spiegati e presentati dei mostri, non certo tutti ne tanto meno esaustivi, usateli per popolare di incubi le avventure dei vostri compagni.
 
@@ -26140,6 +26142,7 @@ Le arpie sono marcatamente differenti a seconda della regione in cui vivono. Alc
 \textbf{Punti Ferita}: 39 (6d8 + 12) \\
 \textbf{Movimento}: 9 m \\
 \textbf{Tiri Salvezza}: Tempra +2, Riflessi +1, Volontà +1 \\
+\textbf{Imm. al Danno}: fuoco \\
 \textbf{Imm. alle Condizioni}: avvelenato \\
 \textbf{Linguaggi}: Ignan \\
 \textbf{Sfida}: 2 (450 PX) \\
@@ -28582,7 +28585,7 @@ Ambiente: Montagne Fredde\\
 Organizzazione: Solitario\\
 \textbf{Categoria Tesoro}: C\\
 \textbf{Descrizione}\\
-Vedi descrizione Drago Bianco Antico.\\
+Vedi descrizione Drago Bianco Antico.
 
 
 \medskip \index[Mostruario]{Drago Blu Antico} \hypertarget{Drago Blu Antico}{\subsubsection*{Drago Blu Antico}}
@@ -28989,7 +28992,6 @@ Ebbene si, il Drago Nero è l'unica creatura sulla Terra che può portare in vit
 \textbf{Imm. al Danno}: acido \\
 \textbf{Sensi}: scurovisione 36 m, vista cieca 18 m \\
 \textbf{Linguaggi}: Comune, Draconico \\
-
 \textbf{Sfida}: 17 (18000 PX) \\
 
 \normalsize\smallskip
@@ -29207,7 +29209,7 @@ Dall'aspetto tozzo hanno denti fini e lunghi ed artigli enormi che continuamente
 
 E' forte e coraggioso, arrogante ma non sfrontato. Non ha paura di combattere se pensa di vincere. Porta sempre la battaglia sottoterra dove può creare fosse per fare precipitare i nemici o scappare se necessario.
 
-Un Drago Porpora hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista della Terra ed è immune al danno ed effetti sonori.\\
+Un Drago Porpora ha +1d6 nelle prove di magia e può ignorare un dado tirato nella prova con la Lista della Terra, è immune al danno ed effetti sonori.\\
 \textbf{Incantesimi}\index{Incantesimi da Drago Porpora}\\
 Gli incantesimi preferiti di questo Drago sono:\\
 - Freccia Acida\\
@@ -29721,8 +29723,7 @@ Elysan è probabilmente il più noto e potente, un antico drago d'argento.
 
 \textbf{Azioni}
 
-\emph{\textbf{Multiattacco.}} Il drago può usare la sua Presenza Spaventosa. Poi effettuare tre attacchi: uno con il morso e due con gli
-artigli.
+\emph{\textbf{Multiattacco.}} Il drago può usare la sua Presenza Spaventosa. Può effettuare tre attacchi: uno con il morso e due con gli artigli.
 
 \emph{\textbf{Artiglio.} Attacco con arma da mischia}: +30 a colpire, portata 3 m, un bersaglio.
 
@@ -30633,7 +30634,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 - Scrutare
 
 
-\medskip \index[Mostruario]{Drago d'Ottone Cucciolo} \hypertarget{Drago d'Ottone Cucciolo}{\subsubsection*{Drago dOttone Cucciolo}}
+\medskip \index[Mostruario]{Drago d'Ottone Cucciolo} \hypertarget{Drago dOttone Cucciolo}{\subsubsection*{Drago d'Ottone Cucciolo}}
 
 \small
 
@@ -30910,7 +30911,7 @@ Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrar
 
 \small
 
-\textbf{Tipo}:  \emph{Colossale drago} \\
+\textbf{Tipo}:  \emph{Colossale drago, Patrono} \\
 \textbf{Caratteristiche}: FORZA +10, DESTREZZA +0, COSTITUZIONE +10, INTELLIGENZA +8, SAGGEZZA +8, CARISMA +9 \\
 \textbf{Difesa}: 40 \\
 \textbf{Iniziativa}:  +8 \\
@@ -31142,55 +31143,56 @@ Lontani parenti dei Nani, più cupi e deformi, i Duergar sono creature dal pessi
 
 
 \subsection{Elementali}
-Vengono prima presentate le formule generiche ed un pò matematiche degli elementali, successivamente sono presenti degli esempi.
+
+Vengono prima presentate le formule generiche ed un pò matematiche degli elementali. Il GS è pari alla Taglia*3, quindi Piccola è GS 3, Media GS 6, Grande GS 9, Enorme GS 12, Mastodontico GS 15, Colossale GS 18.
 
 \medskip \index[Mostruario]{Elementale dell'Acqua Generico} \hypertarget{Elementale dell'Acqua Generico}{\subsubsection*{Elementale dell'Acqua Generico}}
 
 \small
 
-\textbf{Tipo}:  \emph{CR/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)}\\
-\textbf{Caratteristiche}: FORZA +2+CR/3, DESTREZZA +0+CR/4, COSTITUZIONE +2+CR/3, INTELLIGENZA -2+CR/6, SAGGEZZA +0+CR/5, CARISMA +0+CR/7 \\
-\textbf{Difesa}: 10+CR+DEX \\
+\textbf{Tipo}:  \emph{Elementale}\\
+\textbf{Caratteristiche}: FORZA +2+GS/3, DESTREZZA +0+GS/6, COSTITUZIONE +2+GS/3, INTELLIGENZA -2+GS/6, SAGGEZZA +0+GS/6, CARISMA +0+GS/6 \\
+\textbf{Difesa}: 10+GS+DEX \\
 \textbf{Iniziativa}:  =DES \\
-\textbf{Punti Ferita}: CR*CR*4 \\
-\textbf{Movimento}:  9 m, nuoto CR*4 m \\
-\textbf{Tiri Salvezza}: Tempra +CR+COS, Riflessi +CR+DES, Volontà +CR+SAG\\
+\textbf{Punti Ferita}: GS*GS*4 \\
+\textbf{Movimento}:  9 m, nuoto GS*4 m \\
+\textbf{Tiri Salvezza}: Tempra +GS+COS, Riflessi +GS+DES, Volontà +GS+SAG\\
 \textbf{Resistenze ai Danni}: acido; da arma non magica\\
 \textbf{Imm. al Danno}: Veleno \\
 \textbf{Imm. alle Condizioni}: afferrato, avvelenato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticamento \\
 \textbf{Sensi}: Scurovisione 18 m \\
 \textbf{Linguaggi}: Aquan \\
-\textbf{Sfida}: CR \\
+\textbf{Sfida}: GS \\
 
 \normalsize\smallskip
 
 \emph{\textbf{Congelamento.}} Se l'elementale subisce danno da freddo, gela parzialmente; il suo movimento è ridotto di 6 metri fino al termine del suo prossimo round.\\
-\emph{\textbf{Forma d'Acqua.}} L'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 3 centimetri senza doversi stringere.\\
+\emph{\textbf{Forma d'Acqua.}} L'elementale può entrare nello spazio di una GSeatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 3 centimetri senza doversi stringere.\\
 \emph{\textbf{Natura Elementale.}} Un elementale non ha bisogno di aria,cibo, bevande o sonno.\\
 \textbf{Azioni}\\
 \emph{\textbf{Multiattacco.}} L'elementale effettua due attacchi di schianto.\\
-\emph{\textbf{Schianto.} Attacco con arma da mischia}: +CR+FOR a colpire, CR/3 metri, un bersaglio.\\
-\emph{Colpisce:} CR*1d8 danni contundenti.\\
-\emph{\textbf{Sommergere (Ricarica 4-6).}} Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC CR+CR/2. Se lo fallisce, il bersaglio subisce (1d8+1)*CR/2 danni contundenti. Se è di taglia CR/3 >=4, il bersaglio è anche afferrato (DC CR*2 per fuggire). Fino al termine dell'afferrare, il bersaglio è intralciato e non può respirare a meno che non sia in grado di respirare acqua. Se il Tiro Salvezza riesce, il bersaglio viene spinto fuori dallo spazio dell'elementale.\\
-L'elementale può afferrare una creatura di taglia CR/3 oppure 2 di CR/2 oppure. All'inizio di ciascun round dell'elementale, ogni bersaglio afferrato subisce (1d6)*CR/2 danni contundenti. Una creatura entro 3 metri dall'elementale può trascinare fuori da esso una creatura o oggetto, impiegando un'Azione per tentare di riuscire una prova di Tiro Salvezza Tempra con Forza DC 2+CR*2.\\
+\emph{\textbf{Schianto.} Attacco con arma da mischia}: +GS+FOR a colpire, portata GS/3 metri, un bersaglio.\\
+\emph{Colpisce:} GS*1d8 danni contundenti.\\
+\emph{\textbf{Sommergere (Ricarica 4-6).}} Ogni GSeatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC GS+GS/2. Se lo fallisce, il bersaglio subisce (1d8+1)*GS/2 danni contundenti. Se è di taglia GS/3 >=4, il bersaglio è anche afferrato (DC CR*2 per fuggire). Fino al termine dell'afferrare, il bersaglio è intralciato e non può respirare a meno che non sia in grado di respirare acqua. Se il Tiro Salvezza riesce, il bersaglio viene spinto fuori dallo spazio dell'elementale.\\
+L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure. All'inizio di ciascun round dell'elementale, ogni bersaglio afferrato subisce (1d6)*GS/2 danni contundenti. Una creatura entro 3 metri dall'elementale può trascinare fuori da esso una creatura o oggetto, impiegando un'Azione per tentare di riuscire una prova di Tiro Salvezza Tempra con Forza DC 2+GS*2.\\
 
 \medskip \index[Mostruario]{Elementale dell'Aria Generico} \hypertarget{Elementale dell'Aria Generico}{\subsubsection*{Elementale dell'Aria Generico}}
 
 \small
 
-\textbf{Tipo}:  \emph{CR/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)}\\
-\textbf{Caratteristiche}: FORZA +0+CR/4, DESTREZZA +3+CR/4, COSTITUZIONE +0+CR/5, INTELLIGENZA -2+CR/6, SAGGEZZA +-1+CR/5, CARISMA +0+CR/5 \\
-\textbf{Difesa}: 10+CR+DEX \\
+\textbf{Tipo}:  \emph{GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)}\\
+\textbf{Caratteristiche}: FORZA +0+GS/6, DESTREZZA +3+GS/3, COSTITUZIONE +0+GS/6, INTELLIGENZA -2+GS/6, SAGGEZZA -1+GS/6, CARISMA +0+GS/6 \\
+\textbf{Difesa}: 10+GS+DEX \\
 \textbf{Iniziativa}:  =DES \\
-\textbf{Punti Ferita}: CR*CR*2 \\
-\textbf{Movimento}:  0 m, volare CR*4 m\\
-\textbf{Tiri Salvezza}: Tempra +CR+COS, Riflessi +CR+DES, Volontà +CR+SAG\\
+\textbf{Punti Ferita}: GS*GS*2 \\
+\textbf{Movimento}:  0 m, volare GS*4 m\\
+\textbf{Tiri Salvezza}: Tempra +GS+COS, Riflessi +GS+DES, Volontà +GS+SAG\\
 \textbf{Resistenze ai Danni}: fulmine, suono; da arma non magica\\
 \textbf{Imm. al Danno}: Veleno \\
 \textbf{Imm. alle Condizioni}: afferrato, avvelenato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticamento \\
 \textbf{Sensi}: Scurovisione 18 m \\
 \textbf{Linguaggi}: Ictun \\
-\textbf{Sfida}: CR \\
+\textbf{Sfida}: GS \\
 
 \normalsize\smallskip
 
@@ -31198,9 +31200,9 @@ L'elementale può afferrare una creatura di taglia CR/3 oppure 2 di CR/2 oppure.
 \emph{\textbf{Natura Elementale.}} Un elementale non ha bisogno di aria, cibo, bevande o sonno.\\
 \textbf{Azioni}\\
 \emph{\textbf{Multiattacco.}} L'elementale effettua due attacchi di schianto.\\
-\emph{\textbf{Schianto.} Attacco con arma da mischia}: +CR+FOR a colpire, CR/3 metri, un bersaglio.\\
-\emph{Colpisce:} 1d6*CR/3 danni contundenti.\\
-\emph{\textbf{Turbine (Ricarica 4-6).}} Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC CR*1.5. Se lo fallisce, il bersaglio subisce 1d8*CR/3 danni contundenti e viene scagliato a CR metri di distanza dall'elementale in una direzione casuale e cadere prono. Se un bersaglio lanciato colpisce un oggetto, come un muro o il pavimento, subisce 3 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza di Riflessi DC 13 o subire lo stesso danno e cadere prona.
+\emph{\textbf{Schianto.} Attacco con arma da mischia}: +GS+FOR a colpire, portata GS/3 metri, un bersaglio.\\
+\emph{Colpisce:} 1d6*GS/3 danni contundenti.\\
+\emph{\textbf{Turbine (Ricarica 4-6).}} Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC GS*1.5. Se lo fallisce, il bersaglio subisce 1d8*GS/3 danni contundenti e viene scagliato a GS metri di distanza dall'elementale in una direzione casuale e cadere prono. Se un bersaglio lanciato colpisce un oggetto, come un muro o il pavimento, subisce 3 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza di Riflessi DC 13 o subire lo stesso danno e cadere prona.
 Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente e non viene scagliato via né cade prono.
 
 
@@ -31208,29 +31210,29 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 \small
 
-\textbf{Tipo}:  \emph{CR/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)}\\
-\textbf{Caratteristiche}: FORZA +0+CR/4, DESTREZZA +2+CR/4, COSTITUZIONE +1+CR/4, INTELLIGENZA -2+CR/6, SAGGEZZA -1+CR/5, CARISMA -2+CR/5 \\
-\textbf{Difesa}: 10+CR+DEX \\
+\textbf{Tipo}:  \emph{GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)}\\
+\textbf{Caratteristiche}: FORZA +0+GS/3, DESTREZZA +2+GS/3, COSTITUZIONE +1+GS/6, INTELLIGENZA -2+GS/6, SAGGEZZA -1+GS/6, CARISMA -2+GS/6 \\
+\textbf{Difesa}: 10+GS+DEX \\
 \textbf{Iniziativa}:  =DES \\
-\textbf{Punti Ferita}: CR*CR*3 \\
+\textbf{Punti Ferita}: GS*GS*3 \\
 \textbf{Movimento}:  15 m\\
-\textbf{Tiri Salvezza}: Tempra +CR+COS, Riflessi +CR+DES, Volontà +CR+SAG\\
+\textbf{Tiri Salvezza}: Tempra +GS+COS, Riflessi +GS+DES, Volontà +GS+SAG\\
 \textbf{Resistenze ai Danni}: da arma non magica\\
 \textbf{Imm. al Danno}: Fuoco, Veleno\\
 \textbf{Imm. alle Condizioni}: afferrato, avvelenato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticamento \\
 \textbf{Sensi}: Scurovisione 18 m \\
 \textbf{Linguaggi}: Ignan \\
-\textbf{Sfida}: CR \\
+\textbf{Sfida}: GS \\
 \normalsize\smallskip
 
-\emph{\textbf{Forma di Fuoco.}} L'elementale può spostarsi attraverso uno spazio fino a 3 centimetri di larghezza senza stringersi. Una creatura che entri a contatto o colpisca l'elementale con un attacco da mischia mentre si trova entro 1 metro da esso subisce 5 (1d10) danni da fuoco. Inoltre, l'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. La prima volta che entra nello spazio di una creatura in un round, la creatura subisce CR danni da fuoco e prende fuoco; finché qualcuno non impiega un'Azione per spegnere le fiamme, la creatura subirà CR danni da fuoco all'inizio di ciascun proprio round.\\
-\emph{\textbf{Illuminazione.}} L'elementale emette luce intensa in un raggio di CR*2 metri e luce fioca per ulteriori CR*2 metri.\\
+\emph{\textbf{Forma di Fuoco.}} L'elementale può spostarsi attraverso uno spazio fino a 3 centimetri di larghezza senza stringersi. Una creatura che entri a contatto o colpisca l'elementale con un attacco da mischia mentre si trova entro 1 metro da esso subisce 5 (1d10) danni da fuoco. Inoltre, l'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. La prima volta che entra nello spazio di una creatura in un round, la creatura subisce GS danni da fuoco e prende fuoco; finché qualcuno non impiega un'Azione per spegnere le fiamme, la creatura subirà GS danni da fuoco all'inizio di ciascun proprio round.\\
+\emph{\textbf{Illuminazione.}} L'elementale emette luce intensa in un raggio di GS*2 metri e luce fioca per ulteriori GS*2 metri.\\
 \emph{\textbf{Natura Elementale.}} Un elementale non ha bisogno di aria, cibo, bevande o sonno.\\
 \emph{\textbf{Suscettibilità all'Acqua.}} L'elementale subisce 1 danno da freddo per ogni 1 metro che si muove in acqua o per ogni 4 litri d'acqua che gli vengono spruzzati addosso.
 \textbf{Azioni}\\
 \emph{\textbf{Multiattacco.}} L'elementale effettua due attacchi di contatto.\\
-\emph{\textbf{Schianto.} Attacco con arma da mischia}: +CR+FOR a colpire, CR/3 metri, un bersaglio.\\
-\emph{Colpisce:} CR*2 danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, prende fuoco. Finché una creatura non impiega un'Azione per spegnere le fiamme, la creatura subirà CR danni da fuoco all'inizio di ciascun proprio round.
+\emph{\textbf{Schianto.} Attacco con arma da mischia}: +GS+FOR a colpire, portata GS/3 metri, un bersaglio.\\
+\emph{Colpisce:} GS*2 danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, prende fuoco. Finché una creatura non impiega un'Azione per spegnere le fiamme, la creatura subirà CR danni da fuoco all'inizio di ciascun proprio round.
 
 
 
@@ -31238,19 +31240,19 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 \small
 
-\textbf{Tipo}:  \emph{CR/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)}\\
-\textbf{Caratteristiche}: FORZA +CR, DESTREZZA -2+CR/5, COSTITUZIONE +1+CR/4, INTELLIGENZA -3+CR/6, SAGGEZZA -1+CR/5, CARISMA -3+CR/6 \\
-\textbf{Difesa}: 10+CR+DEX \\
+\textbf{Tipo}:  \emph{GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)}\\
+\textbf{Caratteristiche}: FORZA +GS, DESTREZZA -2+GS/6, COSTITUZIONE +1+GS/3, INTELLIGENZA -3+GS/6, SAGGEZZA -1+GS/6, CARISMA -3+GS/6 \\
+\textbf{Difesa}: 10+GS+DEX \\
 \textbf{Iniziativa}:  =DES \\
-\textbf{Punti Ferita}: CR*CR*6 \\
+\textbf{Punti Ferita}: GS*GS*6 \\
 \textbf{Movimento}:  9 m, arrapicarsi 9 m, scavo 9 m\\
-\textbf{Tiri Salvezza}: Tempra +CR+COS, Riflessi +CR+DES, Volontà +CR+SAG\\
+\textbf{Tiri Salvezza}: Tempra +GS+COS, Riflessi +GS+DES, Volontà +GS+SAG\\
 \textbf{Resistenze ai Danni}: da arma non magica\\
 \textbf{Imm. al Danno}: veleno, suono\\
 \textbf{Imm. alle Condizioni}: afferrato, avvelenato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticamento \\
 \textbf{Sensi}: percezione tellurica 18 m, scurovisione 18 m\\
 \textbf{Linguaggi}: Tremun \\
-\textbf{Sfida}: CR \\
+\textbf{Sfida}: GS \\
 \normalsize\smallskip
 
 \emph{\textbf{Mostro d'Assedio.}} L'elementale infligge danni doppi agli oggetti e le strutture.\\
@@ -31258,8 +31260,8 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 \emph{\textbf{Planata Terrestre.}} L'elementale può scavare attraversa la terra e la pietra non magiche e non lavorate. Quando lo fa, l'elementale non disturba il materiale che sposta.\\
 \textbf{Azioni}\\
 \emph{\textbf{Multiattacco.}} L'elementale effettua due attacchi di schianto.\\
-\emph{\textbf{Schianto.} Attacco con arma da mischia}: +CR*2+FOR a colpire, CR/3 metri, un bersaglio.\\
-\emph{Colpisce:} CR*3 danni contundenti.
+\emph{\textbf{Schianto.} Attacco con arma da mischia}: +GS*2+FOR a colpire, portata GS/6 metri, un bersaglio.\\
+\emph{Colpisce:} GS*3 danni contundenti.
 
 
 \medskip \index[Mostruario]{Ettercap} \hypertarget{Ettercap}{\subsubsection*{Ettercap}}
@@ -33113,10 +33115,6 @@ Le gorgoni ricavano il loro nutrimento consumando minerali, in particolare la pi
 
 La loro carne è dura e muscolosa (una volta che viene rimossa l'armatura), e per coloro che la assaggiano è abbastanza nutriente. Molte tribù di giganti della pietra credono che mangiare la carne di gorgone aumenti la loro armatura naturale. Le corna di gorgone polverizzate valgono 250 mo come componente materiale alternativo per gli oggetti magici ed incantesimi che agiscono sulla Forza o Pietra.
 
-
-
-
-
 \medskip \index[Mostruario]{Grick} \hypertarget{Grick}{\subsubsection*{Grick}}
 
 \small
@@ -33152,17 +33150,12 @@ La loro carne è dura e muscolosa (una volta che viene rimossa l'armatura), e pe
 Ambiente: Qualsiasi Sotterraneo\\
 Organizzazione: Solitario o ammasso (2-5)\\
 \textbf{Categoria Tesoro}: Accidentale\\
-
-\textbf{Descrizione}
+\textbf{Descrizione}\\
 Il vermiforme grick è il terrore delle caverne e dei cunicoli in cui abita, attendendo in agguato nei pressi di tunnel molto trafficati o città sotterranee, per balzare fuori dal buio e catturare le sue prede. È raro che tali prede vengano consumate sul posto. Il grick preferisce portare il cibo fresco nella sua tana, uno stretto cunicolo o sull'alta sporgenza di una caverna, dove può consumarlo con piccoli morsi, in tranquillità.
 
 Le origini del grick sono ignote. E anche se ha una rudimentale intelligenza, non ha alcuna società di cui parlare, e la maggior parte delle volte si incontrano singoli esemplari. Nelle occasioni in cui i viaggiatori sfortunati ne incontrano più di uno, i gruppi di grick non sembrano comunicare o lavorare tra loro: ognuno attacca invece obiettivi individuali e si ritira col suo bottino non appena riesce ad abbattere un avversario. Predatori capaci, i grick hanno anche una strana pelle resistente alle armi che li rende particolarmente pericolosi. Molti avventurieri inesperti sono periti sotto l'attacco di un grick semplicemente perché non erano in grado di danneggiare la creatura con le loro armi non magiche. Coloro che hanno familiarità con i grick (soprattutto i Nani, i Morlock e i Trogloditi) sanno che la migliore strategia per affrontarli è quella di ritirarsi e attendere rinforzi più potenti o magici.
 
 I grick contano sul loro colore scuro e sulla capacità di scalare i muri per tenersi fuori vista, finché non sono pronti a scattare all'attacco. In più occasioni quando il cibo scarseggia in una determinata regione, i grick si dirigono verso la superficie e vagano per il deserto in cerca di prede, ma questi soggiorni sono quasi sempre per necessità, e alla fine i grick trovano presto entrate a nuove tane sotterranee. Preferiscono le tenebre e la comodità di un tetto sopra la testa, evitando il cielo aperto e facendo molto per restare coperto da alberi, nuvole basse o edifici.
-
-
-
-
 
 \medskip \index[Mostruario]{Grifone} \hypertarget{Grifone}{\subsubsection*{Grifone}}
 
@@ -35484,7 +35477,7 @@ Questo Orsogufo è presente nelle regioni artiche o montane innevate. A differen
 
 \emph{\textbf{Incantesimi Innati.}} La caratteristica da incantatore dell'Orsogufo saggio è l'Intelligenza. L'Orsogufo saggio può lanciare in maniera innata i seguenti incantesimi, senza aver bisogno di componenti materiali:
 
-A volontà: \emph{Mano magica}
+A volontà: \emph{Mano magica}, Comprensione degli Scritti
 
 \textbf{Azioni}
 
@@ -35504,7 +35497,7 @@ Organizzazione: Solitario, coppia o branco (3-8)\\
 \textbf{Categoria Tesoro}: E + T\\
 \textbf{Descrizione}\\
 Le origini dell'Orsogufo saggio sono misteriose quanto quelli del suo parente non saggio ma gli appassionati di queste creature li fanno discendere direttamente da Nethergal come variante dell'Orsogufo originale.
-Solitamente l'Orsogufo saggio ama circondarsi di libri ed adora la compagnia di altri saggi ma non disdegna i racconti di avventurieri e le avvincenti ballate dei cantastorie. L'Orsogufo saggio ha un vero talento per le lingue e pur non potendo parlare in maniera comprensibile ad un uomo riesce a comprendere tantissime lingue parlate e scritte ed in pochi giorni è in grado di apprenderne di nuove (come Vantaggio Lingua universale) sia parlate che scritte. L'Orsogufo saggio è in grado di leggere qualsiasi lingua o codice se ha modo di studiarlo per 3 giorni.
+Solitamente l'Orsogufo saggio ama circondarsi di libri ed adora la compagnia di altri saggi ma non disdegna i racconti di avventurieri e le avvincenti ballate dei cantastorie. L'Orsogufo saggio ha un vero talento per le lingue e pur non potendo parlare in maniera comprensibile ad un uomo riesce a comprendere tantissime lingue parlate e scritte. L'Orsogufo saggio è in grado di leggere qualsiasi lingua o codice se ha modo di studiarlo per 3 giorni.
 Solitamente più deboli e fragili del parente stretto sono comunque esseri temibili in combattimento.
 Di preferenza un Orsogufo saggio non attacca se non per difesa e cerca un approccio il più tattico e utile possibile. Un tratto caratteristico degli Orsogufo saggi è una sciarpa portata intorno all'assente collo. Uccidere un Orsogufo saggio è un affronto ai Devoti e Seguaci di Nethergal, è anche capitato che il Patrono stesso togliesse la capacità di comunicare a coloro si sono macchiati di efferatezze con le sue creature preferite.
 
@@ -36601,7 +36594,9 @@ Se il Tarrasque subisce 60 o più danni in un singolo round da una creatura al s
 
 Il Tarrasque può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Può usare solo un'opzione Aggiuntiva alla volta e solo al termine del round di un'altra creatura. Il tarrasque recupera le azioni aggiuntive spese all'inizio del proprio round.
 
-\textbf{Attacco.} Il Tarrasque effettua un attacco di artiglio o di coda. \textbf{Masticare (Costa 2 Azioni).} Il Tarrasque effettua un attacco di morso o usa Inghiottire.
+\textbf{Attacco.} Il Tarrasque effettua un attacco di artiglio o di coda. 
+
+\textbf{Masticare (Costa 2 Azioni).} Il Tarrasque effettua un attacco di morso o usa Inghiottire.
 
 \textbf{Muoversi.} Il Tarrasque si muove fino a metà del suo movimento.
 
@@ -36714,10 +36709,10 @@ I grandi pesci, come tonni, storioni ed anche squali sono compresi tra i cibi pr
 \textbf{Movimento}: 6 m \\
 \textbf{Tiri Salvezza}: Tempra +40, Riflessi +40, Volontà +40 \\
 \textbf{Competenze}: tutte +20\\
-Immunità: al danno delle armi con bonus magico inferiore a +6\\
-Immunità: a qualsiasi effetto non faccia piacere alla Topi\\
-Immunità: a qualsiasi magia la Topi non voglia essere influenzata\\
-Immunità: a subire a qualsiasi tipo di tiro critico\\
+\textbf{Immunità}: al danno delle armi con bonus magico inferiore a +6\\
+\textbf{Immunità}: a qualsiasi effetto non faccia piacere alla Topi\\
+\textbf{Immunità}: a qualsiasi magia la Topi non voglia essere influenzata\\
+\textbf{Immunità}: a subire a qualsiasi tipo di tiro critico\\
 \textbf{Sensi}: Senso tellurico 30, Scurovisione 30 m, Visione del Vero 30 m \\
 \textbf{Linguaggi}: tutti \\
 \textbf{Sfida}: 0 (10 PX) \\
