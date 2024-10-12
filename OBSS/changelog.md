@@ -690,7 +690,7 @@ aggiornata versione POD 2024/10/06 x
 
 aggiornata versione POD 2024/10/10
 
-0.99.10 corretti diversi collegamento con mostri, correzioni layout a diversi mostri, specificato che Tàhil e' di tipo Patrono, ritoccati caratteristiche per elementali generici, corretto riferimento a vantaggio ad orsogufo saggio, aggiornate lettrine (capo riga), 
+0.99.10 corretti diversi collegamento con mostri, correzioni layout a diversi mostri, specificato che Tàhil e' di tipo Patrono, ritoccati caratteristiche per elementali generici, corretto riferimento a vantaggio ad orsogufo saggio, aggiornate lettrine (capo riga), chiarimenti su cumulo penalita' multiattacco tra incantesimi e armi, aggiornata abilita' guerriero della magia, chiarimenti su incantatore da combattimento, 
 
 
 
