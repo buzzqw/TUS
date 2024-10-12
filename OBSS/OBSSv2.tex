@@ -25404,7 +25404,7 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 \subsection{Vulnerabilità, Resistenze e Immunità}\index{Equivalenze armi}\index{Pugni magici}\label{vulnerabilitaresistenze}
 Alcune creature possiedono vulnerabilità, resistenze o immunità ad un certo tipo di danno. Creature particolari sono addirittura resistenti o immuni agli attacchi non magici (un attacco magico è un attacco sferrato tramite un incantesimo, un oggetto magico o arma, o un'altra fonte di magia).
 
-E' anche possibile che sia indicato uno specifico bonus magico minimo per poter danneggiare la creatura. In caso di creature immune ai critici questo vale sia per incantesimi che per armi, rimane efficace l'esplosione del danno. \index{Critico sui mostri}
+Quando è indicata una immunità alle armi magiche (es. +1 oppure +2) significa che bisogna usare un arma con un incantamento maggiore per poter danneggiare la creatura. In caso di creature immune ai critici questo vale sia per incantesimi che per armi, rimane efficace l'esplosione del danno. \index{Critico sui mostri}
 
 Inoltre, certe creature sono immuni a determinate condizioni. Se un mostro è immune ad un effetto di gioco che non viene considerato danno o condizione, possiede invece un tratto speciale.
 
@@ -25540,7 +25540,7 @@ I tratti speciali (che compaiono dopo il grado di sfida di un mostro ma prima di
 
 Un mostro con il privilegio Incantesimi è in grado di lanciare Incantesimi.
 
-La \textbf{DC è 10 + livello incantesimo x2 + Intelligenza o Saggezza a seconda della caratteristica migliore oppure indicata}. Un mostro non necessita di eseguire Prove di Magia tranne se ha un valore di Competenza Magica (es. Lich, Mummia, Naga...). Se è necessario calcolare la Competenza Armi per l'uso di incantesimi e questa non è specificata, allora è pari alla metà del punteggio di Competenza Magica.
+La \textbf{DC è 10 + livello incantesimo x2 + Intelligenza o Saggezza a seconda della caratteristica migliore oppure indicata}. Un mostro non necessita di eseguire Prove di Magia tranne se ha un valore di Competenza Magica (es. Lich, Mummia, Naga...). Se è necessario calcolare la Competenza Armi per l'uso di incantesimi e questa non è specificata, allora è pari alla metà del punteggio di Competenza Magica. Un mostro con incantesimi può lanciare un numero di incantesimi segnati di quel livello pari a \emph{slot}, scegliendoli tra quelli indicati.
 
 \subsection{Incantesimi Innati}
 
@@ -26357,7 +26357,7 @@ Spesso si dice che i behir siano in qualche modo legati ai draghi blu, ma la ver
 
 \emph{Colpisce:} 12 (3d6 + 3) danni contundenti. La creature deve effettuare un Tiro Salvezza su Tempra a DC 12 o cadere prona.
 
-\emph{\textbf{Poltiglia di Fuoco}} Attacco da distanza: +7 al colpire, gittata 3 metri. La Blatta Esplosiva rigurgita un liquido appiccicoso e infiammabile all'aria. Ricarica 1/3-6.
+\emph{\textbf{Poltiglia di Fuoco}} Attacco da distanza: +7 al colpire, gittata 3 metri. La Blatta Esplosiva rigurgita un liquido appiccicoso e infiammabile all'aria. Ricarica 3-6.
 
 \emph{Colpisce:} 18 (4d6 + 6) danni da fuoco. Tiro Salvezza su Riflessi DC 14 per dimezzare.
 
@@ -28227,7 +28227,7 @@ Un Divora Cervelli è lungo 90 cm e pesa circa 30 kg.
 
 \normalsize\smallskip
 
-\textbf{Immunità}: al danno delle armi non magiche non contundenti\\
+\textbf{Immunità}: al danno delle armi non magiche\\
 \textbf{Resistenza}: danni da taglio, perforazione\\
 \emph{\textbf{Dobi}} Il Dobi si appiccica, per spostarlo è necessario essere gentili e chiederglielo.\\
 \emph{\textbf{Dobi Dobi Dobi}} Quando il Dobi subisce più di 3 punti ferita di danno con un arma non contundente si divide in due Dobi più piccoli ognuno con lo stesso ammontare di Punti Ferita rimasti al Dobi precedente.\\
@@ -32151,9 +32151,6 @@ Organizzazione: Solitario, gruppo (2-4) o branco (7-12)\\
 I ghast sono Ghoul con un legame più profondo con il Vuoto. La paralisi di un ghast ha effetto anche sugli Elfi. I ghast si aggirano in branchi o comandano gruppi di Ghoul comuni. Il fetore di morte e putrefazione che circonda queste creature è travolgente.
 
 
-
-
-
 \medskip \index[Mostruario]{Ghoul} \hypertarget{Ghoul}{\subsubsection*{Ghoul}}
 
 \small
@@ -32196,8 +32193,6 @@ I ghoul si appostano ai margini della civilizzazione (dentro o nei pressi dei ci
 Anche se molti ghoul di superficie vivono in modo primitivo, delle voci parlano di città di ghoul nelle profondità del sottosuolo comandate da sacerdoti che adorano antiche divinità crudeli o strani signori dei demoni della fame. Questi ghoul \emph{civilizzati} non sono meno orribili nelle loro abitudini alimentari, e in effetti il loro concetto di tavola ben imbandita per banchetti è forse anche più orrendo dell'idea di un pasto fresco prelevato da una bara.
 
 
-
-
 \medskip \index[Mostruario]{Ghoul, Nero} \hypertarget{Ghoul, Nero}{\subsubsection*{Ghoul, Nero}}
 
 \small
@@ -32209,8 +32204,9 @@ Anche se molti ghoul di superficie vivono in modo primitivo, delle voci parlano 
 \textbf{Punti Ferita}: 105 (15d8+30) \\
 \textbf{Movimento}: 12 m \\
 \textbf{Tiri Salvezza}: Tempra +11, Riflessi +11, Volontà +8 \\
-\textbf{Imm. al Danno}: Veleno, vuoto, danno critico, sanguinamento, armi non magiche o d'argento \\
+\textbf{Imm. al Danno}: Veleno, vuoto, danno critico, sanguinamento, 
 \textbf{Imm. alle Condizioni}: affascinato, avvelenato, affaticamento, \\
+\textbf{Resistenze ai Danni}: armi non magiche o d'argento \\
 \textbf{Sensi}: Scurovisione 18 m \\
 \textbf{Linguaggi}: Comune, Exspiran \\
 \textbf{Sfida}: 6 (2300 PX) \\
@@ -32239,8 +32235,6 @@ Organizzazione: Gruppo (4-8) o branco (14-24)\\
 Il Ghoul Nero rappresenta una delle elite evolutive dei Ghoul. Solitamente a capo di un gruppo almeno un ghoul putrescente a circa 18 ghoul.
 
 
-
-
 \medskip \index[Mostruario]{Ghoul, Madre} \hypertarget{Ghoul, Madre}{\subsubsection*{Ghoul, Madre}}
 
 \small
@@ -32252,8 +32246,9 @@ Il Ghoul Nero rappresenta una delle elite evolutive dei Ghoul. Solitamente a cap
 \textbf{Punti Ferita}: 90 (10d10+45) \\
 \textbf{Movimento}: 9 m \\
 \textbf{Tiri Salvezza}: Tempra +9, Riflessi +11, Volontà +9 \\
-\textbf{Imm. al Danno}: Veleno, vuoto, danno critico, sanguinamento, armi +1 \\
+\textbf{Imm. al Danno}: Veleno, vuoto, danno critico, sanguinamento\\
 \textbf{Imm. alle Condizioni}: affascinato, avvelenato, affaticamento \\
+\textbf{Resistenze ai Danni}: armi non magiche \\
 \textbf{Sensi}: Scurovisione 18 m \\
 \textbf{Linguaggi}: Comune, Exspiran \\
 \textbf{Sfida}: 5 (1800 PX) \\
@@ -32277,10 +32272,6 @@ Organizzazione: Clan (7-12+)\\
 \textbf{Descrizione}\\
 La Madre Ghoul è solitamente a capo di un clan di ghoul che può raggiungere anche diverse decine di membri. Rispettata e temuta è solitamente tra i ghoul evoluti più intelligenti e molto apprezzata per la sua capacità di poter trasformare in ghoul i viventi. La loro tattica prevede di ferire e non uccidere diverse persone così che tornata a casa e poi trasformati possano attaccare ed uccidere tutto il villaggio.
 
-
-
-
-
 \medskip \index[Mostruario]{Ghoul, putrescente} \hypertarget{Ghoul, putrescente}{\subsubsection*{Ghoul, putrescente}}
 
 \small
@@ -32292,8 +32283,9 @@ La Madre Ghoul è solitamente a capo di un clan di ghoul che può raggiungere an
 \textbf{Punti Ferita}: 82 (12d10+12) \\
 \textbf{Movimento}: 6 m \\
 \textbf{Tiri Salvezza}: Tempra +7, Riflessi +5, Volontà +4 \\
-\textbf{Imm. al Danno}: Veleno, sanguinamento, da critico, Vuoto, armi non magiche o d'argento \\
+\textbf{Imm. al Danno}: Veleno, sanguinamento, da critico, Vuoto\\
 \textbf{Imm. alle Condizioni}: affascinato, avvelenato, affaticamento \\
+\textbf{Resistenze ai Danni}: armi non magiche o d'argento \\
 \textbf{Sensi}: scurovisione 36 m \\
 \textbf{Linguaggi}: Comune, Exspiran \\
 \textbf{Sfida}: 4 (110 PX) \\
@@ -32323,9 +32315,6 @@ I Ghoul Putrescenti sono una delle tante l'evoluzione dei Ghoul. Il contatto con
 
 
 \subsection{Giganti}
-
-
-
 
 \medskip \index[Mostruario]{Gigante di Collina} \hypertarget{Gigante di Collina}{\subsubsection*{Gigante di Collina}}
 
@@ -33458,7 +33447,7 @@ Gli ippogrifi sono ovipari: come regola generale, il nido di un ippogrifo contie
 \textbf{Imm. al Danno}: Elettricità, armi +1 \\
 \textbf{Imm. alle Condizioni}: paralizzato, spaventato \\
 \textbf{Sensi}: visione del vero 36 m \\
-\textbf{Linguaggi}: comprende Abissale, Celestiale, Infernale e Druidico ma non può parlare,telepatia 36 m \\
+\textbf{Linguaggi}: comprende Abissale, Celestiale, Infernale e Druidico ma non può parlare, telepatia 36 m \\
 \textbf{Sfida}: 23 (50000 PX) \\
 
 \normalsize\smallskip
@@ -33564,10 +33553,6 @@ Le lamie vedono le femmine più anziane del loro gruppo come capi, madri e sciam
 
 Le lamie presentate qui sono solo gli esponenti più comuni e meno potenti di questa razza maledetta; altre hanno forme serpentine, volanti e anche più perverse.
 
-
-
-
-
 \medskip \index[Mostruario]{Lich} \hypertarget{Lich}{\subsubsection*{Lich}}
 
 \small
@@ -33651,10 +33636,6 @@ Poche creature sono più temute dei lich. Apice delle arti Necromantiche, il lic
 Esistono anche rarissimi Lich buoni, ma come dice il detto sono più rari di un dente di Roc.
 
 
-
-
-
-
 \medskip \index[Mostruario]{Lucertoloide} \hypertarget{Lucertoloide}{\subsubsection*{Lucertoloide}}
 
 \small
@@ -33708,8 +33689,6 @@ I lucertoloidi presentati qui vivono in ambienti paludosi. Le tribù lucertoloid
 
 
 
-
-
 \medskip \index[Mostruario]{Maledetti immortale} \hypertarget{Maledetti immortale}{\subsubsection*{Maledetti immortale}}
 
 \small
@@ -33749,11 +33728,7 @@ Organizzazione: Solitario\\
 Il Maledetto immortale è una persona maledetta spesso da un Patrono o da una potente incantatore con la maledizione della folle vita immortale. La maledizione rompe l'equilibro della persona e questa si ritrova a girovagare senza una meta od un obiettivo. Ogni tanto si ricordano chi erano ed allora proseguono nella ricerca di chi li ha maledetti.
 Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando che l'avversario sia in grado di ucciderlo una volta per tutte.
 
-
 \subsection{Mannari}
-
-
-
 
 \medskip \index[Mostruario]{Cinghiale Mannaro} \hypertarget{Cinghiale Mannaro}{\subsubsection*{Cinghiale Mannaro}}
 
@@ -33793,10 +33768,6 @@ Organizzazione: Solitario, coppia, famiglia (3-8) o truppa (3-8 più 1-4 Cinghia
 \textbf{Categoria Tesoro}: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, K)\\
 \textbf{Descrizione}\\
 Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi all'insù, pelo ispido e incisivi prominenti. Hanno capelli rossi, castani o neri ma alcuni sono anche biondi, canuti o calvi. Hanno di norma peluria sul labbro superiore, e i maschi di solito non riescono a far crescere la barba. Poiché sono testardi e aggressivi, hanno piccole comunità di loro simili e non si mischiano ai non licantropi: di solito vivono in piccole fattorie dall'aspetto assolutamente normale. Tendono ad avere grandi famiglie e molti figli.
-
-
-
-
 
 \medskip \index[Mostruario]{Lupo Mannaro} \hypertarget{Lupo Mannaro}{\subsubsection*{Lupo Mannaro}}
 
@@ -33841,9 +33812,6 @@ Organizzazione: Solitario, coppia o branco (3-6)\\
 \textbf{Descrizione}\\
 Nella forma umana i lupi mannari somigliano a persone normali, anche se alcuni tendono ad avere un aspetto ferino e capelli ribelli. Sopracciglia che crescono unendosi, dito indice più lungo del medio e strane voglie sul palmo della mano sono tutti segni comunemente accettati che una persona sia in realtà un lupo mannaro. Naturalmente, questi segni rivelatori non sono sempre accurati, perché questi tratti fisici esistono anche nelle persone normali, ma nelle zone dove i lupi mannari sono un problema comune, questi tratti possono essere considerati schiaccianti a prescindere.
 
-
-
-
 \medskip \index[Mostruario]{Orso Mannaro} \hypertarget{Orso Mannaro}{\subsubsection*{Orso Mannaro}}
 
 \small
@@ -33885,9 +33853,6 @@ Organizzazione: Solitario, coppia, famiglia (3-6) o truppa (3-6 più 1-4 orsi Ne
 \textbf{Categoria Tesoro}: Equipaggiamento da PNG (Giaco di Maglia, Ascia da Battaglia Perfetta, 2 Asce da Lancio Perfette, K)\\
 \textbf{Descrizione}\\
 Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spalle larghe, tratti aspri e occhi scuri. Hanno capelli rossi, castani o neri e sembrano abituati a una vita di duro lavoro. Anche se i più benigni fra i licantropi, sono evitati dalla maggior parte delle persone normali, che temono la loro trasformazione animalesca. Per la maggior parte vivono in zone boschive isolate o in piccole unità familiari della loro stessa specie. Evitano di affrontare gli stranieri, ma non esitano se devono scacciare umanoidi malvagi dai loro territori.
-
-
-
 
 \medskip \index[Mostruario]{Ratto Mannaro} \hypertarget{Ratto Mannaro}{\subsubsection*{Ratto Mannaro}}
 
@@ -33932,9 +33897,6 @@ Organizzazione: Solitario, coppia, branco (5-10) o gilda (11-30 più 5-12 Ratti 
 \textbf{Categoria Tesoro}: Equipaggiamento da PNG (Armatura di Cuoio Borchiato Perfetta, Spada Corta, Balestra Leggera con 20 Quadrelli, K)\\
 \textbf{Descrizione}\\
 I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e vispi, e hanno movimenti nervosi. I maschi spesso hanno sottili baffi striminziti.
-
-
-
 
 \medskip \index[Mostruario]{Tigre Mannara} \hypertarget{Tigre Mannara}{\subsubsection*{Tigre Mannara}}
 
@@ -33984,10 +33946,6 @@ Organizzazione: Solitario o coppia\\
 \textbf{Descrizione}\\
 Le tigri mannare in forma umanoide hanno grandi occhi, nasi allungati, zigomi sporgenti e capelli castani o rossi, oppure bianchi, neri o grigio-blu. I loro movimenti sono attenti e aggraziati, e chi li guarda potrebbe scambiarli per un ottimo tagliaborse, un danzatore aggraziato o un'abile cortigiana.
 
-
-
-
-
 \medskip \index[Mostruario]{Manticora} \hypertarget{Manticora}{\subsubsection*{Manticora}}
 
 \small
@@ -34033,9 +33991,6 @@ Le manticore sono feroci predatori che controllano vaste aree in cerca di carne 
 Le manticore mangiano qualsiasi tipo di carne, anche quella delle carogne, ma preferiscono quella umana e raramente si lasciano sfuggire un'occasione di gustare questa delizia. Sono abbastanza furbe e sociali da stringere patti con umanoidi malvagi per formare alleanze o da costringerli ad offre tributi, e molte creature potenti le incaricano di sorvegliare o controllare un posto o una zona. Prediligono fare le loro tane in posti alti, come le sommità delle colline e le caverne tra le rupi.
 
 Anche se le manticore sono simili a delle creazioni magiche, sono da tempo annoverate tra le specie naturali. Curiosamente, le manticore sembrano stranamente feconde e possono incrociarsi con numerose altre specie dalla forma simile, inclusi Leoni, Tigri, Lamie, Sfingi e Chimere.
-
-
-
 
 \medskip \index[Mostruario]{Manto Assassino} \hypertarget{Manto Assassino}{\subsubsection*{Manto Assassino}}
 
@@ -34095,9 +34050,6 @@ Simili a mante volanti orribilmente malvagie, i manti assassini sono creature mi
 Le loro motivazioni sono misteriose e confuse, e diffidano perfino dei loro simili. La strana forma permette loro di essere scambiati per mantelli, arazzi o altri oggetti comuni, e alcune storie narrano di manti assassini che si alleano con altre creature, facendosi trasportare sulla loro schiena e contribuendo alla protezione dei loro alleati per ragioni imperscrutabili. Alcuni esemplari sono sacerdoti di antiche divinità, al comando di culti di manti assassini e Skum intenti a celebrare orribili riti dagli scopi sinistri.
 
 
-
-
-
 \medskip \index[Mostruario]{Mantoscuro} \hypertarget{Mantoscuro}{\subsubsection*{Mantoscuro}}
 
 \small
@@ -34144,10 +34096,6 @@ I mantoscuro non sono scalatori particolarmente abili, ma sono in grado di appen
 I mantoscuro preferiscono vivere e cacciare nelle caverne e nei cunicoli più vicini alla superficie, dal momento che questi offrono un più frequente passaggio di prede che questi mostri possono cacciare. Non si limitano però a queste caverne buie e talvolta possono essere incontrati in fortezze abbandonate o persino nelle fogne delle città affollate. Qualsiasi luogo dove abbondi il cibo e ci sia un soffitto a cui appendersi è un possibile covo per un mantoscuro.
 
 Il ciclo vitale di un mantoscuro è rapido: i piccoli diventano adulti nell'arco di pochi mesi e la maggior parte muore di vecchiaia dopo pochi anni. Di conseguenza le generazioni di mantoscuro si susseguono rapidamente e nel corso degli anni l'evoluzione di queste creature è altrettanto rapida. Per questa ragione l'ecosistema di una caverna può avere effetti importanti sull'aspetto, le capacità e le tattiche di un mantoscuro. In caverne acquatiche possono svilupparsi mantoscuri in grado di nuotare, mentre creature che abitano luoghi soggetti a vulcanismo potrebbero sviluppare una specifica resistenza al fuoco. Altre varianti di mantoscuro potrebbero avere pelli più resistenti ed invece di cadere per stritolare la preda potrebbero semplicemente gettarsi cercando di trafiggerla analogamente a vere e proprie stalattiti. Si mormora che le caverne più oscure e profonde nascondano mantoscuri di dimensioni incredibili, in grado di soffocare contemporaneamente diversi bersagli di dimensioni umane nel loro abbraccio avvolgente.
-
-
-
-
 
 \medskip \index[Mostruario]{Medusa} \hypertarget{Medusa}{\subsubsection*{Medusa}}
 
@@ -34203,8 +34151,6 @@ Tutte le meduse sono femmine. Raramente, una medusa decide di prendere un maschi
 
 
 \subsection{Mefiti}
-
-
 
 
 \medskip \index[Mostruario]{Mefito di Ghiaccio} \hypertarget{Mefito di Ghiaccio}{\subsubsection*{Mefito di Ghiaccio}}
