@@ -157,13 +157,13 @@ boxrule=0.3pt
 
 \usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
 \usepackage[framemethod=TikZ]{mdframed}
-%\usepackage{garamondx} %\usepackage{tgpagella}  %\usepackage{lmodern}
-\usepackage{charter}  % \fontsize{10.5}{12.5}\selectfont
+%\usepackage{garamondx} %\usepackage{tgpagella}  %\usepackage{lmodern} %\usepackage{gentium}
+\usepackage{charter}
 
 \newcommand{\LETT}[3][]{\lettrine[lines=3,loversize=.2,#1]{\smash{#2}}{#3}}
 
 \begin{document} 
-\def \versione {0.99.11} \fontsize{10.5}{12.5}\selectfont
+\def \versione {0.99.11}   \fontsize{10.5}{12.5}\selectfont
 
 \newcommand\invisiblesection[1]{
 \refstepcounter{section}
@@ -173,7 +173,7 @@ boxrule=0.3pt
 \newcolumntype{L}{>{\raggedright\arraybackslash}X}
 \newcolumntype{h}{>{\raggedright\arraybackslash}p}
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
-
+ 
 
 
 
@@ -5689,7 +5689,7 @@ L'Abilità può essere dichiarata anche dopo il lancio dei dadi. Qualsiasi nuovo
 
 \subsection*{Il Patrono è la mia Arma}\index{Il Patrono è la mia Arma}\label{ilpatronoelamiaarma}\hypertarget{ilpatronoelamiaarma}{}
 
-\textbf{Requisito}: Somma Tratti comuni con il Patrono 1
+\textbf{Requisito}: Somma Tratti comuni con il Patrono 1, essere Seguaci
 
 \textbf{Tiri Salvezza}: +1 Volontà, +1 Riflessi
 
@@ -9221,6 +9221,21 @@ Se incantatore e creatura curata sono entrambi Seguaci dello stesso Patrono l'in
 Questo incantesimo se non esplicitato diversamente non può essere usato su animali o piante.\\
 Se incantatore e creatura curata sono entrambi Devoti dello stesso Patrono ogni valore sul dado pari a 1,2,3 sarà considerato 4.
 
+\medskip\textbf{Dardo arcano}\index[Incantesimi]{Dardo arcano}\hypertarget{Dardo arcano}{}\\
+\textbf{Lista di Magia}: Universale\\
+\textbf{Livello}: 1, Comune\\
+\textbf{Tempo di Lancio}: 1 Azioni\\
+\textbf{Gittata}: 36 metri\\
+\textbf{Componenti}: V, S\\
+\textbf{Durata}: 1 Turno, Concentrazione\\
+Crei un dardo luminoso di forza magica. Lanciare uno o più dardi già evocati costa 1 Azione. Il dardo colpisce una creatura a gittata che puoi vedere, scelta da te. Un dardo infligge 1d4 + 1 danni da forza al suo bersaglio e li puoi dirigere perché colpiscano una o più creature.\\
+Il danno aumenta di 1 ogni volta che hai preso Adepto della Magia fino ad un massimo di 5 aumenti.\\
+Crei un dardo aggiuntivo quando raggiungi CM 3, CM 5, CM 7 e CM 9.
+
+Se dedichi 3 Azioni al lancio dell'incantesimo manifesti 2 dardi in più.
+
+\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia l'incantesimo crea un dardo aggiuntivo.
+
 \medskip\textbf{Dardo di Fuoco}\index[Incantesimi]{Dardo di Fuoco}\hypertarget{Dardo di Fuoco}{}\\
 \textbf{Lista di Magia}: Fuoco\\
 \textbf{Livello}: 1, Comune\\
@@ -9244,31 +9259,6 @@ Un lampo di luce viaggia verso una creatura a gittata, scelta da te. Effettua un
 
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia il danno aumenta di 1d6.
 
-\medskip\textbf{Danza Irresistibile}\index[Incantesimi]{Danza Irresistibile}\hypertarget{Danza Irresistibile}{}\\
-\textbf{Lista di Magia}: Ammaliamento\\
-\textbf{Livello}: 8, Leggendario\\
-\textbf{Tempo di Lancio}: 2 Azioni\\
-\textbf{Gittata}: 9 metri\\
-\textbf{Componenti}: V\\
-\textbf{Durata}: 1 minuto\\
-Scegli una creatura a gittata e che puoi vedere. Il bersaglio comincia un comico balletto sul posto: agitando le gambe, battendo i piedi e saltellando per la durata. Le creature che non possono essere affascinate sono immuni a questo incantesimo.\\
-Una creatura che balla deve usare 2 Azioni di Movimento per ballare senza lasciare il suo spazio e ha -1d6 ai Tiri Salvezza su Riflessi e i Tiri per Colpire. Mentre il bersaglio è soggetto a questo incantesimo, le altre creature hanno +1d6 ai Tiri per Colpire contro di lui. Spendendo 2 Azioni la creatura che balla può effettuare un nuovo Tiro Salvezza su Volontà per recuperare il controllo di se stessa. Se lo supera, l'incantesimo ha fine. Mentre balla si considera Distratto
-
-\textbf{Se ottieni 2 Successo Critico Magico} la durata aumenta di 1 ora
-
-\medskip\textbf{Dardo arcano}\index[Incantesimi]{Dardo arcano}\hypertarget{Dardo arcano}{}\\
-\textbf{Lista di Magia}: Universale\\
-\textbf{Livello}: 1, Comune\\
-\textbf{Tempo di Lancio}: 1 Azioni\\
-\textbf{Gittata}: 36 metri\\
-\textbf{Componenti}: V, S\\
-\textbf{Durata}: 1 Turno, Concentrazione\\
-Crei un dardo luminoso di forza magica. Lanciare uno o più dardi già evocati costa 1 Azione. Il dardo colpisce una creatura a gittata che puoi vedere, scelta da te. Un dardo infligge 1d4 + 1 danni da forza al suo bersaglio e li puoi dirigere perché colpiscano una o più creature.\\
-Crei un dardo aggiuntivo quando raggiungi CM 3, CM 5, CM 7 e CM 9. Il danno aumenta di 1 ogni volta che hai preso Adepto della Magia fino ad un massimo di 5 aumenti.\\
-Se dedichi 3 Azioni al lancio dell'incantesimo manifesti 2 dardi in più.
-
-\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia l'incantesimo crea un dardo aggiuntivo.
-
 \medskip\textbf{Dardo occulto}\index[Incantesimi]{Trucchetto - Dardo occulto}\hypertarget{Dardo occulto}{}\\
 \textbf{Lista di Magia}: Invocazione\\
 \textbf{Livello}: 1, Comune\\
@@ -9280,6 +9270,18 @@ Un fascio di energia crepitante si dirige verso una creatura a gittata. Effettua
 Il danno dell'incantesimo aumenta di 1d8 quando raggiungi CM 5, CM 11 e CM 17 ma costa 2 Azioni lanciarlo potenziato e 2 Punti Magia, è altresì necessario avere preso Adepto della Magia un numero di volte pari ai potenziamenti che si vogliono applicare.
 
 \textbf{Ogni Successo Critico Magico ottenuto} nella Prova di Magia crei un altro fascio di energia.
+
+\medskip\textbf{Danza Irresistibile}\index[Incantesimi]{Danza Irresistibile}\hypertarget{Danza Irresistibile}{}\\
+\textbf{Lista di Magia}: Ammaliamento\\
+\textbf{Livello}: 8, Leggendario\\
+\textbf{Tempo di Lancio}: 2 Azioni\\
+\textbf{Gittata}: 9 metri\\
+\textbf{Componenti}: V\\
+\textbf{Durata}: 1 minuto\\
+Scegli una creatura a gittata e che puoi vedere. Il bersaglio comincia un comico balletto sul posto: agitando le gambe, battendo i piedi e saltellando per la durata. Le creature che non possono essere affascinate sono immuni a questo incantesimo.\\
+Una creatura che balla deve usare 2 Azioni di Movimento per ballare senza lasciare il suo spazio e ha -1d6 ai Tiri Salvezza su Riflessi e i Tiri per Colpire. Mentre il bersaglio è soggetto a questo incantesimo, le altre creature hanno +1d6 ai Tiri per Colpire contro di lui. Spendendo 2 Azioni la creatura che balla può effettuare un nuovo Tiro Salvezza su Volontà per recuperare il controllo di se stessa. Se lo supera, l'incantesimo ha fine. Mentre balla si considera Distratto
+
+\textbf{Se ottieni 2 Successo Critico Magico} la durata aumenta di 1 ora
 
 \medskip\textbf{Desiderio}\index[Incantesimi]{Desiderio}\hypertarget{Desiderio}{}\\
 \textbf{Lista di Magia}: Evocazione\\
@@ -13569,7 +13571,7 @@ Luce & Freddo& Vuoto\\
 & Elettricità & 
 \end{tabular}
 
-In base agli elementi che predilige un Patrono questo viene inquadrato come Buono se ha somma positiva, neutrale se ha somma zero (0) oppure Malvagio ovvero somma negativi.
+Nessun Patrono è completamente buono o completamente malvagio. Come la natura di un uomo è sfaccettata anche a seconda delle occasioni, così un Patrono potrà avere anomali slanci positivi o negativi. Ricordati che i Patroni sono Dei ma generati dalle emozioni e desideri.
 
 
 \subsubsection{Miracoli, Interventi e Prodigi}\index{Miracoli, Interventi e Prodigi}

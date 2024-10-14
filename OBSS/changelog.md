@@ -696,7 +696,7 @@ aggiornata versione POD 2024/10/10
 
 aggiornata versione POD 2024/10/14
 
-0.99.11 migliorato layout tabelle azioni, aggiunta azione imbracciare lo scudo e preparalo, corretto collegamento a diavolo della fossa, aggiornata opzione variante attacchi multipli, modificata penalita' per attacco con arma letale volendo fare danno letale, dettagli su patroni, 
+0.99.11 migliorato layout tabelle azioni, aggiunta azione imbracciare lo scudo e preparalo, corretto collegamento a diavolo della fossa, aggiornata opzione variante attacchi multipli, modificata penalita' per attacco con arma letale volendo fare danno letale, dettagli su patroni, corretta indicazione requisiti il patrono e' la mia arma, corretto ordine alfabetico dardo arcano, 
 
 
 
