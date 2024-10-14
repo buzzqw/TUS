@@ -694,6 +694,10 @@ aggiornata versione POD 2024/10/10
 
 0.99.10s2 aggiunti modificatori alla prove di consapevolezza per trovare creature invisibili, il saurovallo e' erbivoro, il Punto Fato puo' essere usato anche nelle Prove di Magia e per andare a 0 PF, corretta area di luce della lacrima di ljust
 
+aggiornata versione POD 2024/10/14
+
+0.99.11 migliorato layout tabelle azioni, aggiunta azione imbracciare lo scudo e preparalo, corretto collegamento a diavolo della fossa, aggiornata opzione variante attacchi multipli, 
+
 
 
 
@@ -713,16 +717,14 @@ Aggiungere immagini:
 - suggerimento per il narratore, non usare lo screen
 - opportunista valutare se darlo a quali mostri
 - stress, basso alto, bonus e malus, recupero
-- ipotesi togliere incantesimi di 7 8 9 livello
+- ipotesi togliere incantesimi di 7 8 9 livello. Togliere incantesimi inutili
 - spendere i soldi: oggetti magici, fortezze ?
 - separare il mostruario se pagine non sufficienti  (e 200+ pagine)
 - gestione morale mostri: CR+Forza/Saggezza vs TS Volonta' ???
 - morale hostile, unfriendly, indifferent, friendly, helpful
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
-- YERU: lavorare sul mondo. Luoghi notevoli, citta', Curyan/Tyia, ... c'e' tutto da fare.
 - combattimento sociale, ampliare
 - piu' maledizioni
-- meno incantesimi
 - motivazioni, un elenco di frasi o indicazione che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
 - ogni personaggio ha un elenco di obiettivi che se raggiunge acquisisce maggiore competenza/bonus ai ts/tc...
 

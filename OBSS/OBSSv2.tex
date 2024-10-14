@@ -157,17 +157,13 @@ boxrule=0.3pt
 
 \usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
 \usepackage[framemethod=TikZ]{mdframed}
-%\usepackage{garamondx} %\usepackage{tgpagella} % \fontsize{10.5}{12.5}\selectfont %\usepackage{mlmodern} % \fontsize{10.5}{12.5}\selectfont
+%\usepackage{garamondx} %\usepackage{tgpagella}  %\usepackage{lmodern}
 \usepackage{charter}  % \fontsize{10.5}{12.5}\selectfont
-
-%\newcommand{\LETT}[3][]{\lettrine[lines=4,loversize=.2,#1]{\smash{#2}}{#3}}
-
-%\newcommand{\LETT}[3][]{\lettrine[lines=3,loversize=.09,findent=0pt,nindent=0.25em,lhang=0.2,#1]{\smash{#2}}{#3}}
 
 \newcommand{\LETT}[3][]{\lettrine[lines=3,loversize=.2,#1]{\smash{#2}}{#3}}
 
 \begin{document} 
-\def \versione {0.99.10} \fontsize{10.5}{12.5}\selectfont
+\def \versione {0.99.11} \fontsize{10.5}{12.5}\selectfont
 
 \newcommand\invisiblesection[1]{
 \refstepcounter{section}
@@ -177,6 +173,9 @@ boxrule=0.3pt
 \newcolumntype{L}{>{\raggedright\arraybackslash}X}
 \newcolumntype{h}{>{\raggedright\arraybackslash}p}
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
+
+
+
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\medskip \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
 
@@ -1355,6 +1354,7 @@ Avere delle Caratteristiche basse non è la morte del personaggio! Cercate piutt
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Chi non stima la vita, non la merita. (Leonardo da Vinci)}\end{enfasi}\end{changemargin}
 
+\medskip
 
 \LETT{I}{ Punti Ferita} rappresentano l'energia vitale del personaggio ma anche l'abilità, fortuna, la capacità del personaggio di resistere e combattere. Finché il personaggio/avversario ha almeno 1 Punto Ferita (PF) combatterà e lotterà al meglio delle sue capacità.
 
@@ -1407,6 +1407,8 @@ Un'arma o effetto che causa danni non letali vuole dire che causa \hyperlink{rec
 \section{Punti Fato}\index{Punti Fato}\index{Fortuna del Principiante}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Se il destino è contro di noi, peggio per lui. (motto del 1º Reggimento Carabinieri Paracadutisti "Tuscania")}\end{enfasi}\end{changemargin}
+
+\medskip
 
 \LETT{I}{n} un mondo non facile la Fortuna del Principiante aiuta chi non ha esperienza.
 Ogni personaggio ha un numero di Punti Fato pari a (20 - Livello)/5, con un minimo di 1. I Punti Fato si azzerano e conteggiano per sessione di gioco. 
@@ -2869,40 +2871,39 @@ La Azioni Gratuite possono essere usate in qualsiasi momento.
 
 \medskip
 
-
-%\begin{xltabular}{0.45\textwidth}{Xc}
-\noindent\begin{tabularx}{\columnwidth}{Lc}
+\noindent\begin{tabular}{lc}
 \textbf{Cosa si fa} & \textbf{Azioni}\\
 \toprule
-Eseguire un attacco& 1\\
-Eseguire due attacchi& 2\\
-Eseguire più di due attacchi& 3\\
-Lanciare un Incantesimo*& 2\\
-Eseguire una Azione di Movimento*& 1\\
-Scatto& 1\\
-Alzarsi da prono& 2\\
-Aiutare qualcuno& 2\\
-Scambiare un dialogo con qualcuno*& 3\\
-{\small Scambiare poche battute con qualcuno*}& 0\\
-Cercare qualcosa nello zaino& 2\\
+Eseguire un attacco					& 1\\
+Eseguire due attacchi				& 2\\
+Eseguire più di due attacchi		& 3\\
+Estrarre o Rinfoderare l'arma		& 1\\
+Prendere lo scudo ed imbracciarlo 	& 1\\
+Lanciare un Incantesimo*			& 2\\
+Concentrarsi su un Incantesimo		& 1\\
+Eseguire una Azione di Movimento*	& 1\\
+Scatto 								& 1\\
+Alzarsi da prono					& 2\\
+Aiutare qualcuno					& 2\\
+Scambiare un dialogo con qualcuno*	& 3\\
+Scambiare poche battute con qualcuno*& 0\\
+Cercare qualcosa nello zaino		& 2\\
 Prendere qualcosa dalla cintura o di pronto & 1\\
-Usare un oggetto tenuto in mano& 1\\
+Usare un oggetto tenuto in mano		& 1\\
 Bere una pozione tenuta alla cintura& 1\\
-Estrarre o Rinfoderare l'arma& 1\\
-Usare un oggetto magico& 2\\
-Eseguire prova su una competenza*& 1\\
-Riconoscere una creatura& 1\\
-Sfondare una porta a spallate/calci& 1\\
-Forzare porta con piede di porco& 2\\
-Nascondersi& 1\\
-Concentrarsi su un Incantesimo& 1\\
-Salire o scendere dalla cavalcatura& 1\\
-Azione \textbf{I}mmediata - Azione \textbf{R}eazione& I - R\\
-Bere una pozione tenuta in mano& I\\
-Gettare un oggetto tenuto in mano& R\\
-Gettarsi a terra prono& R\\
-Riconoscere un Incantesimo& R\\
-\end{tabularx}
+Usare un oggetto magico				& 2\\
+Eseguire prova su una competenza*	& 1\\
+Riconoscere una creatura			& 1\\
+Sfondare una porta a spallate/calci	& 1\\
+Forzare porta con piede di porco	& 2\\
+Nascondersi							& 1\\
+Salire o scendere dalla cavalcatura	& 2\\
+Azione Immediata (I) - Azione Reazione (R) & \\
+Bere una pozione tenuta in mano		& I\\
+Gettare un oggetto tenuto in mano	& R\\
+Gettarsi a terra prono				& R\\
+Riconoscere un Incantesimo			& R\\
+\end{tabular}
 
 \medskip
 
@@ -3236,7 +3237,7 @@ OBSS vuole essere divertente da giocare, vuole che i giocatori si divertano e ve
 
 Se hai tirato tre volte 1 hai mancato, indipendentemente dal risultato finale.
 
-Se hai mancato e hai tirato almeno due 1 oppure un 1 e due 2 il Narratore potrebbe decidere brutte cose sul tuo attacco (ti cade l'arma, colpisci un amico, ti si rompe l'arma, ti ferisci, cadi, appare un \hyperlink{diavolodellafossa}{Diavolo della Fossa} per deriderti...).
+Se hai mancato e hai tirato almeno due 1 oppure un 1 e due 2 il Narratore potrebbe decidere brutte cose sul tuo attacco (ti cade l'arma, colpisci un amico, ti si rompe l'arma, ti ferisci, cadi, appare un \hyperlink{Diavolo della Fossa}{Diavolo della Fossa} per deriderti...).
 
 \subsection{Tirare 3 volte 6}\index{Tirare 3 volte 6}\label{tiraretrevoltesei}
 
@@ -3335,10 +3336,9 @@ Il giocatore può dichiarare di effettuare gli attacchi su bersagli differenti. 
 
 \subsubsection{Opzionale - Variante attacchi multipli}\index{Opzionale - Variante attacchi multipli}\label{varianteattacchimultipli}
 
-Il giocatore stabilito il suo bonus al colpire esegue un unico Tiro per Colpire.
-Se colpisce tira il danno e per ogni multiplo di 6 del bonus al colpire aggiunge un Tiro Critico. Questo attacco consuma 2 Azioni ed è l'unico attacco che si può fare nel round.
+Ai primissimi livelli può \emph{dare fastidio} poter effettuare un solo attacco e non sapere cosa fare con le altre due Azioni. Ovviamente il primo suggerimento potrebbe essere spostarsi o mettersi sulla difensiva o anche aiutare un compagno.
 
-Questa variante serve a velocizzare il gioco facendo un unico Tiro per Colpire. Questa variante non è compatibile con Tiro Critico Variante.
+Questa variante permette anche a chi ha Tiro per Colpire meno di 5 di effettuare 2 attacchi, spendendo 2 Azioni, anche se ogni attacco viene portato con un -4 al Tiro per Colpire.
 
 %\begin{center}
 %\includegraphics[width=0.9\linewidth]{immagini/archer.png}
@@ -3358,7 +3358,7 @@ La Destrezza modifica solo il Tiro per Colpire.
 
 \textbf{In caso di proiettili magici questi sommano il loro bonus magico al Tiro per Colpire ed al danno}
 
-In ogni arma da lancio è segnata la gittata ovvero entro che distanza è possibile tirare il proiettile senza penalità. Ogni arma da lancio può colpire entro tre volte la gittata indicata.
+In ogni arma da lancio è indicata la gittata ovvero entro che distanza è possibile tirare il proiettile senza penalità. Ogni arma da lancio può colpire entro tre volte la gittata indicata.
 
 Se l'obiettivo è entro la gittata indicata non si hanno penalità al colpire, se il target è tra il primo e secondo incremento la penalità al colpire è -6. Se il target è tra il secondo è terzo incremento la penalità al colpire è di -12.\index{Penalita' distanza}
 
@@ -41091,6 +41091,8 @@ Al mio tavolo di gioco solitamente scelgo queste Opzioni:
 \hyperlink{tirocriticovariante}{Tiro Critico Variante} e \hyperlink{variantetiricritici}{Variante Tiro Critico} sono a scelta del giocatore se usarli o meno. Da decidere in Sessione Zero. Pag. \pageref{tirocriticovariante} e \pageref{variantetiricritici}
 
 \item \hyperlink{OpzionaleAzioniTiroCritico}{Azioni Tiro Critico} suggerito per giocatori esperti, a scelta del giocatore. Pag. \pageref{OpzionaleAzioniTiroCritico}
+
+\item \hyperlink{varianteattacchimultipli}{Variante Attacchi multipli} suggerito per quei giocatori che amano attaccare sempre e comunque indipendentemente dalle altre opzioni. Pag. \pageref{varianteattacchimultipli}
 
 \item
 \hyperlink{lunicaregola}{L'Unica Regola} la uso se sono Narratore di un gruppo di principianti. Pag. \pageref{lunicaregola}
