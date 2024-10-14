@@ -692,6 +692,10 @@ aggiornata versione POD 2024/10/10
 
 0.99.10 corretti diversi collegamento con mostri, correzioni layout a diversi mostri, specificato che Tàhil e' di tipo Patrono, ritoccati caratteristiche per elementali generici, corretto riferimento a vantaggio ad orsogufo saggio, aggiornate lettrine (capo riga), chiarimenti su cumulo penalita' multiattacco tra incantesimi e armi, aggiornata abilita' guerriero della magia, chiarimenti su incantatore da combattimento, modificate penalita' per indifeso, dettagli su immunita' armi magiche, chiarimenti su incantesimi dei mostri, corretta resistenza armi dei ghoul, aggiunto dettagli su nascita sornelian, aggiunta immagine razza gnomi, aggiunta immagine razza nibali, dettagli su gnomi
 
+0.99.10s2 aggiunti modificatori alla prove di consapevolezza per trovare creature invisibili, il saurovallo e' erbivoro, il Punto Fato puo' essere usato anche nelle Prove di Magia e per andare a 0 PF, corretta area di luce della lacrima di ljust
+
+
+
 
 
 - aggiunti \label{} fino a piani
