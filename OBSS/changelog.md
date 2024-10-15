@@ -696,7 +696,9 @@ aggiornata versione POD 2024/10/10
 
 aggiornata versione POD 2024/10/14
 
-0.99.11 migliorato layout tabelle azioni, aggiunta azione imbracciare lo scudo e preparalo, corretto collegamento a diavolo della fossa, aggiornata opzione variante attacchi multipli, modificata penalita' per attacco con arma letale volendo fare danno letale, dettagli su patroni, corretta indicazione requisiti il patrono e' la mia arma, corretto ordine alfabetico dardo arcano, migliore layout incantesimi, 
+0.99.11 migliorato layout tabelle azioni, aggiunta azione imbracciare lo scudo e preparalo, corretto collegamento a diavolo della fossa, aggiornata opzione variante attacchi multipli, modificata penalita' per attacco con arma letale volendo fare danno letale, dettagli su patroni, corretta indicazione requisiti il patrono e' la mia arma, corretto ordine alfabetico dardo arcano, migliore layout incantesimi, corretti alcuni hyperlink a mostri ed oggetti magici, modificato incantesimo sonnellino, aggiornato tocco vampirico, chiarimenti su incantesimo velocita', aggiornato incantesimo ritirata rapida, aggiornata abilita' occhio di falco, aggiunti link a prova di pronto soccorso a borsa del guaritore, aggiornata ed arricchita sezione esempi prove di competenza, 
+
+
 
 
 
@@ -727,11 +729,6 @@ Aggiungere immagini:
 - piu' maledizioni
 - motivazioni, un elenco di frasi o indicazione che permettono di avere bonus in quelle situazioni o prendere punti esperienza bonus
 - ogni personaggio ha un elenco di obiettivi che se raggiunge acquisisce maggiore competenza/bonus ai ts/tc...
-
-
-
-> ESPANSIONI:principalmente per mancanza di pagine, da valutare dopo riduzione font mostruario.
-
 - rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
 - psionici ? ispirazione da 2ed/3ed
 
