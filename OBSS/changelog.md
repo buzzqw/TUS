@@ -696,9 +696,11 @@ aggiornata versione POD 2024/10/10
 
 aggiornata versione POD 2024/10/14
 
-0.99.11 migliorato layout tabelle azioni, aggiunta azione imbracciare lo scudo e preparalo, corretto collegamento a diavolo della fossa, aggiornata opzione variante attacchi multipli, modificata penalita' per attacco con arma letale volendo fare danno letale, dettagli su patroni, corretta indicazione requisiti il patrono e' la mia arma, corretto ordine alfabetico dardo arcano, migliore layout incantesimi, corretti alcuni hyperlink a mostri ed oggetti magici, modificato incantesimo sonnellino, aggiornato tocco vampirico, chiarimenti su incantesimo velocita', aggiornato incantesimo ritirata rapida, aggiornata abilita' occhio di falco, aggiunti link a prova di pronto soccorso a borsa del guaritore, aggiornata ed arricchita sezione esempi prove di competenza, 
+0.99.11 migliorato layout tabelle azioni, aggiunta azione imbracciare lo scudo e preparalo, corretto collegamento a diavolo della fossa, aggiornata opzione variante attacchi multipli, modificata penalita' per attacco con arma letale volendo fare danno letale, dettagli su patroni, corretta indicazione requisiti il patrono e' la mia arma, corretto ordine alfabetico dardo arcano, migliore layout incantesimi, corretti alcuni hyperlink a mostri ed oggetti magici, modificato incantesimo sonnellino, aggiornato tocco vampirico, chiarimenti su incantesimo velocita', aggiornato incantesimo ritirata rapida, aggiornata abilita' occhio di falco, aggiunti link a prova di pronto soccorso a borsa del guaritore, aggiornata ed arricchita sezione esempi prove di competenza
 
+aggiornata versione POD 2024/10/15
 
+0.99.12
 
 
 

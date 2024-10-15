@@ -163,7 +163,7 @@ boxrule=0.3pt
 \newcommand{\LETT}[3][]{\lettrine[lines=3,loversize=.2,#1]{\smash{#2}}{#3}}
 
 \begin{document} 
-\def \versione {0.99.11}   \fontsize{10.5}{12.5}\selectfont
+\def \versione {0.99.12}   \fontsize{10.5}{12.5}\selectfont
 
 \newcommand\invisiblesection[1]{
 \refstepcounter{section}
@@ -2978,7 +2978,7 @@ Lo spostarsi, il decidere che arma usare od incantesimo determinano non solo qua
 
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Un mobile più lento non può essere raggiunto da uno più rapido; giacché quello che segue deve arrivare al punto che occupava quello che è seguito e dove questo non è più (quando il secondo arriva); in tal modo il primo conserva sempre un vantaggio sul secondo. (Paradosso di Zenone)}
-\end{enfasi}\end{changemargin}
+\end{enfasi}\end{changemargin}\medskip
 
 \begin{multicols}{2}
 
@@ -6962,7 +6962,7 @@ Volpe & +1 al Tiro Salvezza su Riflessi\\
 
 Utilizzare le statistiche base di una creatura della specie del famiglio, apportando i seguenti cambiamenti.
 
-\medskip{}
+\medskip
 
 \textbf{Attacchi}: Utilizzare la Competenza Armi del padrone se più alta. Utilizzare il modificatore di Destrezza o Forza del famiglio, quale dei due sia più alto per calcolare il bonus di attacco del famiglio con gli Attacchi Naturali. Il danno è uguale a quello di una normale creatura della specie del famiglio. Il famiglio agisce nel round del padrone.
 
@@ -6976,18 +6976,19 @@ Utilizzare le statistiche base di una creatura della specie del famiglio, apport
 
 \medskip
 
-\textbf{Difesa}: il famiglio ha una Difesa pari a quello dell'animale standard più bonus dovuto alla Competenza Magica del padrone. Vedi tabella Abilità del Famiglio.
+\textbf{Difesa}: il famiglio ha una Difesa pari a quello dell'animale standard più un bonus dovuto alla Competenza Magica del padrone. Vedi tabella Abilità del Famiglio.
 
 \medskip
 
 \textbf{Tiro Salvezza}: Per ogni Tiro Salvezza, utilizzare i Tiri Salvezza del famiglio o quelli del padrone quali siano i migliori. Il famiglio applica i suoi valori di Caratteristica come bonus ai Tiri Salvezza e non prende nessuno dei bonus che il suo padrone può avere.
 
-\textbf{Azioni del Famiglio}\index{Azioni del Famiglio}: comandare un famiglio impiega 1 Azione. Il famiglio esegue 2 Azioni a round. Senza comandi il Famiglio non fa nulla se non difendersi ed attaccare chi lo attacca.
+\textbf{Iniziativa del Famiglio}\index{Iniziativa del Famiglio}: il famiglio agisce nel tuo round, non tira l'iniziativa, usa la tua.
 
+\textbf{Azioni del Famiglio}\index{Azioni del Famiglio}: comandare un famiglio impiega 1 Azione. Il famiglio esegue 2 Azioni a round. Senza comandi il Famiglio non fa nulla se non difendersi ed attaccare chi lo attacca.
 
 \textbf{Descrizione delle Capacità del Famiglio}
 
-Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro padroni) a seconda del punteggio di Competenza Magica del padrone. Le capacità Speciale elencate nella tabella sono cumulative.
+Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro padroni) a seconda del punteggio di Competenza Magica del padrone. Le capacità Speciali elencate nella tabella sono cumulative.
 
 
 \end{multicols}
@@ -7000,17 +7001,17 @@ Tutti i famigli possiedono Capacità Speciali (oppure le attribuiscono ai loro p
 \noindent\begin{tabularx}{0.95\textwidth}{cccX}
 \textbf{CM del Padrone} & \textbf{Bonus Difesa} & \textbf{Bonus Intelligenza} & \textbf{Speciale}\\
 \toprule
-1-2 & +1 & 0 & Allerta, Condividere Incantesimi, \\
-   & & & Legame Empatico\\
-3-4 & +1 & +1 & Trasmettere Incantesimi a contatto\\
-5-6 & +2 & +1 & Parlare con gli Animali della Sua Specie\\
-7-8 & +3 & +1 & Parlare con il Padrone\\
-9-10 & +3 & +2 & -\\
-11-12 & +4 & +2 & Vedere attraverso Famiglio\\
-13-14 & +5 & +2 & Trasmettere Incantesimi a contatto migliorato\\
-15-16 & +5 & +3 & -\\
-17-18 & +6 & +3 & -\\
-19-20 & +7 & +3 & -\\
+1-2 	& +1 	& 0  & Allerta, Condividere Incantesimi\\
+		& 		& 	 & Legame Empatico\\
+3-4 	& +1 	& +1 & Trasmettere Incantesimi a contatto\\
+5-6 	& +2 	& +1 & Parlare con gli Animali della Sua Specie\\
+7-8 	& +3 	& +1 & Parlare con il Padrone\\
+9-10 	& +3 	& +2 & -\\
+11-12 	& +4 	& +2 & Vedere attraverso Famiglio\\
+13-14 	& +5 	& +2 & Trasmettere Incantesimi a contatto migliorato\\
+15-16 	& +5 	& +3 & -\\
+17-18 	& +6 	& +3 & -\\
+19-20 	& +7 	& +3 & -\\
 \end{tabularx}
 
 \begin{multicols}{2}
@@ -7032,7 +7033,7 @@ Il padrone può lanciare sul suo famiglio incantesimi anche se questi normalment
 
 \emph{\textbf{Legame Empatico}}: il padrone ha un legame empatico con il suo famiglio fino a una distanza di 1 km. Il padrone non può vedere attraverso gli occhi del famiglio, ma può comunicare telepaticamente con esso. A causa della natura limitata del legame, si possono comunicare solo emozioni generiche (paura, nervoso, tranquillità, gioia...).
 
-\emph{\textbf{Trasmettere Incantesimi a Contatto}}: il famiglio può trasmettere Incantesimi a contatto per lui. Se il padrone e il famiglio sono entro 9 metri quando il padrone lancia un Incantesimo con Gittata a contatto, egli può designare il suo famiglio come \emph{colui che consegna l'Incantesimo}.
+\emph{\textbf{Trasmettere Incantesimi a Contatto}}: il famiglio può trasmettere Incantesimi a contatto per il padrone. Se il padrone e il famiglio sono entro 9 metri quando il padrone lancia un Incantesimo con Gittata a contatto, egli può designare il suo famiglio come \emph{colui che consegna l'Incantesimo}.
 
 Il famiglio può trasmettere l'Incantesimo proprio come il padrone. Il famiglio usa una sua Azione per effettuare un attacco.
 
@@ -7040,7 +7041,7 @@ Il famiglio può trasmettere l'Incantesimo proprio come il padrone. Il famiglio 
 
 \emph{\textbf{Parlare con Animali della Sua Specie}}: il famiglio è in grado di comunicare con animali della sua specie generica: pipistrelli con pipistrelli, topi con roditori, gatti con felini, falchi e gufi e corvi con uccelli, serpenti e lucertole con rettili, rospi con anfibi, scimmie con altri primati, donnole con ermellini e mustelidi... La comunicazione è limitata dall'Intelligenza delle creature con cui il famiglio comunica.
 
-\emph{\textbf{Vedere attraverso Famiglio}}: il padrone può vedere attraverso il famiglio. Attivare questa Abilità costa 1 Azione Immediata. Il famiglio deve essere entro 50 metri.
+\emph{\textbf{Vedere attraverso Famiglio}}: il padrone può vedere attraverso il famiglio. Attivare questa Abilità costa 1 Azione Immediata e dura un round. Il famiglio deve essere entro 50 metri.
 
 \emph{\textbf{Trasmettere Incantesimi a Contatto Migliorato}}: il famiglio può trasmettere Incantesimi a contatto per lui. Se il padrone e il famiglio sono entro 18 metri quando il padrone lancia un Incantesimo con Gittata a contatto, egli può designare il suo famiglio come \emph{colui che consegna l'Incantesimo}.
 
