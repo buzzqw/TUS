@@ -20333,6 +20333,9 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 
 \medskip
 
+\setlength{\parindent}{0cm}{
+
+
 \begin{tabular}{ll|l}
 \textbf{1d100}&\textbf{Gemma (mo)}&\textbf{Gioielli (mo)}\\
 01-15&10& 1d4*10\\
@@ -20373,7 +20376,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 \hyperlink{bastonibacchette}{Bacchette, Bastoni e Verghe}&14\\
 \hyperlink{anellimagici}{Anelli}&15\\
 \hyperlink{Cappelli}{Cappelli}, \hyperlink{Mantelli}{Mantelli}, \hyperlink{Occhiali}{Occhiali}, \hyperlink{Tuniche}{Tuniche}&16\\
-\hyperlink{manualitomi}{Manuali e Tomi}&17\\
+\hyperlink{manualitomi}{Manuali, Tomi e Pergamene}&17\\
 \hyperlink{oggettimagicivari}{Oggetti Magici vari}&18
 \end{tabular}
 
@@ -20868,7 +20871,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 \end{tabular}
 
 
-\subsubsection{Cappelli, Mantelli, Occhiali, Tuniche}\index[Tabelle]{Tabella Generazione Cappelli, Mantelli, Occhiali, Tuniche}\label{cappellimantelli}\hypertarget{Mantello}{}\hypertarget{Tunica}{}
+\subsubsection{Cappelli, Mantelli, Occhiali, Tuniche}\index[Tabelle]{Tabella Generazione Cappelli, Mantelli, Occhiali, Tuniche}\label{cappellimantelli}\hypertarget{Mantelli}{}\hypertarget{Tuniche}{}
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Cappelli, Mantelli, Occhiali, Tuniche}\\
@@ -20898,24 +20901,54 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 \end{tabularx}
 
 
-\subsubsection{Manuali e Tomi}\index[Tabelle]{Tabella Generazione Manuali e Tomi}\hypertarget{manualitomi}{}\label{manualitomi}\hypertarget{Manuali}{}
+\subsubsection{Manuali, Tomi e Pergamene}\index[Tabelle]{Tabella Generazione Manuali e Tomi}\hypertarget{manualitomi}{}\label{manualitomi}\hypertarget{Manuali}{}
 
 \begin{tabularx}{0.45\textwidth}{lX}
-\textbf{1d100} & \textbf{Manuali e Tomi}\\
-1-9 & \hyperlink{Manuale dei Golem}{Manuale dei Golem}\\
-10-24 & \hyperlink{Manuale della Buona salute}{Manuale della Buona salute}\\
-25-40 & \hyperlink{Manuale della Velocità di azione}{Manuale della Velocità di azione}\\
-40-54 & \hyperlink{Manuale dell'Esercizio fisico}{Manuale dell'Esercizio fisico}\\
-55-69 & \hyperlink{Tomo dell'Autorità e dell'Influenza}{Tomo dell'Autorità e dell'Influenza}\\
-70-84 & \hyperlink{Tomo della Comprensione}{Tomo della Comprensione}\\
-85-100 & \hyperlink{Tomo del Pensiero Limpido}{Tomo del Pensiero Limpido}\\
+	\textbf{Manuali, Tomi e Pergamene}&\textbf{3d6}\\
+	\hyperlink{CPergamene}{Pergamene} &3-14\\
+	\hyperlink{Manuali}{Manuali} &15-16\\
+	\hyperlink{Tomi}{Tomi} &17-18
+\end{tabularx}
+
+\medskip
+
+\begin{tabularx}{0.45\textwidth}{lX|l}\hypertarget{CPergamene}{}
+\textbf{3d6} & \textbf{Inc. sulla pergamena}&\textbf{Lv Incantesimi}\\
+3-6 	& 1	&1\\
+7-12 	& 1	&2\\
+13-15	& 2	&3\\
+16		& 2	&4\\
+17		& 3	&5\\
+18		& 4	&6\\
+\end{tabularx}	
+
+\medskip
+
+\begin{tabularx}{0.45\textwidth}{lX}\hypertarget{Manuali}{}
+	\textbf{3d6} & \textbf{Manuali}\\
+	3-12 & Manuale vuoto\\
+	13 & \hyperlink{Manuale dei Golem}{Manuale dei Golem}\\
+	14 & \hyperlink{Manuale della Buona salute}{Manuale della Buona salute}\\
+	15 & \hyperlink{Manuale della Velocità di azione}{Manuale della Velocità di azione}\\
+	16 & \hyperlink{Manuale dell'Esercizio fisico}{Manuale dell'Esercizio fisico}\\
+	17 & Manuale della Buona Salute maledetto\\
+	18 & Manuale dell'Esercizio fisico maledetto
+\end{tabularx}
+
+\medskip
+
+\begin{tabularx}{0.45\textwidth}{lX}\hypertarget{Tomi}{}
+\textbf{3d6} & \textbf{Tomi}\\
+3-12 & Tomo vuoto\\
+13 & \hyperlink{Tomo dell'Autorità e dell'Influenza}{Tomo dell'Autorità e dell'Influenza}\\
+14 & \hyperlink{Tomo della Comprensione}{Tomo della Comprensione}\\
+15 & \hyperlink{Tomo del Pensiero Limpido}{Tomo del Pensiero Limpido}\\
+16 & Tomo dell'Autorità e dell'Influenza maledetto\\
+17 & Tomo della Comprensione maledetto\\
+18 & Tomo del Pensiero Limpido maledetto
 \end{tabularx}
 
 \subsubsection{Oggetti Magici vari}\index[Tabelle]{Tabella Generazione Oggetti Magici vari}\hypertarget{oggettimagicivari}{}\label{oggettimagicivari}
-
-Tirare 1d10 per determinare se si trova un oggetto magico raro o leggendario oppure dalle liste degli oggetti magici vari
-
-\medskip
 
 \begin{tabular}{ll}
 \textbf{Tipo Oggetto} & \textbf{1d12}\\
@@ -20926,112 +20959,66 @@ Tirare 1d10 per determinare se si trova un oggetto magico raro o leggendario opp
 \hyperlink{Rari e Leggendari}{Rari e Leggendari}&12
 \end{tabular}
 
-\medskip
-
-
-\subsubsection{Rari e Leggendari}\index[Tabelle]{Tabella Generazione Rari e Leggendari}\hypertarget{Rari e Leggendari}{}
-
-\medskip
-
-\begin{tabularx}{0.45\textwidth}{lX}
-\textbf{1d100} & \textbf{Oggetto Magico}\\
-1-3 & \hyperlink{Ali del Volo}{Ali del Volo}\\
-4-6 & \hyperlink{Ampolla di Ferro}{Ampolla di Ferro}\\
-7-10 & \hyperlink{Anfora elementale dell’acqua}{Anfora elementale dell’acqua}\\
-11-12 & \hyperlink{Apparato del Granchio}{Apparato del Granchio}\\
-13-15 & \hyperlink{Barca Pieghevole}{Barca Pieghevole}\\
-17-20 & \hyperlink{Borsa Conservante Tipo III}{Borsa Conservante Tipo III}\\
-21-24 & \hyperlink{Borsa Conservante Tipo IV}{Borsa Conservante Tipo IV}\\
-25-28 & \hyperlink{Borsa dei Fagioli}{Borsa dei Fagioli}\\
-29-30 & \hyperlink{Bottiglia dell'Efreeti}{Bottiglia dell'Efreeti}\\
-31 & \hyperlink{Brocca delle Pozioni}{Brocca delle Pozioni}\\
-32-33 & \hyperlink{Candela di Invocazione}{Candela di Invocazione}\\
-34-35 & \hyperlink{Corno del Valhalla}{Corno del Valhalla}\\
-36-39 & \hyperlink{Filatterio della giovinezza}{Filatterio della giovinezza}\\
-40-42 & \hyperlink{Fortezza Istantanea}{Fortezza Istantanea}\\
-43-45 & \hyperlink{Mazzo delle Meraviglie}{Mazzo delle Meraviglie}\\
-46-49 & \hyperlink{Miniatura dal Potere Meraviglioso}{Miniatura dal Potere Meraviglioso}\\
-50-53 & \hyperlink{Munizione dell'Uccisione}{Munizione dell'Uccisione}\\
-54-58 & \hyperlink{Palla di Cristallo}{Palla di Cristallo}\\
-59-62 & \hyperlink{Pergamena contro gli elementali}{Pergamena contro gli elementali}\\
-63-65 & \hyperlink{Pergamena contro i non morti}{Pergamena contro i non morti}\\
-66-70 & \hyperlink{Piffero delle Fogne}{Piffero delle Fogne}\\
-71-75 & \hyperlink{Pigmenti delle Meraviglie}{Pigmenti delle Meraviglie}\\
-76-83 & \hyperlink{Portale Cubico}{Portale Cubico}\\
-84-85 & \hyperlink{Pozzo dei Molti Mondi}{Pozzo dei Molti Mondi}\\
-86-87 & \hyperlink{Specchio dell’Abilità mentale}{Specchio dell’Abilità mentale}\\
-88-89 & \hyperlink{Specchio Intrappola Vita}{Specchio Intrappola Vita}\\
-90-91 & \hyperlink{Sfera dell'Annientamento}{Sfera dell'Annientamento}\\
-92-94 & \hyperlink{Turibolo Elementale dell’aria}{Turibolo Elementale dell’aria}\\
-95-96 & \hyperlink{Vano Portatile}{Vano Portatile}\\
-97-98 & \hyperlink{Zoccoli della Velocità}{Zoccoli della Velocità}\\
-99-100 & \hyperlink{Zoccoli dello Zefiro}{Zoccoli dello Zefiro}
-\end{tabularx}
-
-\medskip
-
 \subsubsection{Oggetti magici vari 1}\index[Tabelle]{Tabella Generazione Oggetti magici vari 1}\hypertarget{Oggetti Magici Vari 1}{}
 
 \begin{tabularx}{0.45\textwidth}{lX}
-\textbf{1d100} & \textbf{Oggetti magici vari 1}\\
-1-8 & \hyperlink{Acqua purificatrice}{Acqua purificatrice}\\
-9-17 & \hyperlink{Battaglio dell'Apertura}{Battaglio dell'Apertura}\\
-18-27 & \hyperlink{Borsa Conservante Tipo I}{Borsa Conservante Tipo I}\\
-28-34 & \hyperlink{Corda da Arrampicata}{Corda da Arrampicata}\\
-35-43 & \hyperlink{Faretra Efficiente}{Faretra Efficiente}\\
-44-48 & \hyperlink{Freccia localizzante}{Freccia localizzante}\\
-49-52 & \hyperlink{Balestra dei Dardi Arcani}{Balestra dei Dardi Arcani}\\
-53-60 & \hyperlink{Lanterna della Rivelazione}{Lanterna della Rivelazione}\\
-61-70 & \hyperlink{Perla del Potere}{Perla del Potere}\\
-71-80 & \hyperlink{Pietra della Buona Sorte}{Pietra della Buona Sorte}\\
-81-83 & \hyperlink{Solvente Universale}{Solvente Universale}\\
-84-94 & \hyperlink{Unguento di Ljust}{Unguento di Ljust}\\
-95-100 & \hyperlink{Zainetto Pratico}{Zainetto Pratico}\\
+	\textbf{1d100} & \textbf{Oggetti magici vari 1}\\
+	1-8 & \hyperlink{Acqua purificatrice}{Acqua purificatrice}\\
+	9-17 & \hyperlink{Battaglio dell'Apertura}{Battaglio dell'Apertura}\\
+	18-27 & \hyperlink{Borsa Conservante Tipo I}{Borsa Conservante Tipo I}\\
+	28-34 & \hyperlink{Corda da Arrampicata}{Corda da Arrampicata}\\
+	35-43 & \hyperlink{Faretra Efficiente}{Faretra Efficiente}\\
+	44-48 & \hyperlink{Freccia localizzante}{Freccia localizzante}\\
+	49-52 & \hyperlink{Balestra dei Dardi Arcani}{Balestra dei Dardi Arcani}\\
+	53-60 & \hyperlink{Lanterna della Rivelazione}{Lanterna della Rivelazione}\\
+	61-70 & \hyperlink{Perla del Potere}{Perla del Potere}\\
+	71-80 & \hyperlink{Pietra della Buona Sorte}{Pietra della Buona Sorte}\\
+	81-83 & \hyperlink{Solvente Universale}{Solvente Universale}\\
+	84-94 & \hyperlink{Unguento di Ljust}{Unguento di Ljust}\\
+	95-100 & \hyperlink{Zainetto Pratico}{Zainetto Pratico}\\
 \end{tabularx}
 
 \subsubsection{Oggetti magici vari 2}\index[Tabelle]{Tabella Generazione Oggetti magici vari 2}\hypertarget{Oggetti Magici Vari 2}{}
 
 
 \begin{tabularx}{0.45\textwidth}{lX}
-\textbf{1d100} & \textbf{Oggetti magici vari 2}\\
-1-8 &\hyperlink{Braciere degli Elementali del Fuoco}{Braciere degli Elementali del Fuoco}\\
-9-17 &\hyperlink{Braciere del Sonno maledetto}{Braciere del Sonno maledetto}\\
-18-27 & \hyperlink{Cubo di protezione dal freddo}{Cubo di protezione dal freddo}\\
-28-34 & \hyperlink{Incensiere degli Elementali dell'Aria}{Incensiere degli Elementali dell'Aria}\\
-35-43 & \hyperlink{Rete Intralciante}{Rete Intralciante}\\
-44-52 & \hyperlink{Rete Intrappolante}{Rete Intrappolante}\\
-53-60 & \hyperlink{Scopa dell’Attacco animato}{Scopa dell’Attacco animato}\\
-61-70 & \hyperlink{Scopa Volante}{Scopa Volante}\\
-71-80 & \hyperlink{Scopa del Volo maledetto}{Scopa del Volo maledetto}\\
-81-88 & \hyperlink{Specchio della Duplicazione}{Specchio della Duplicazione}\\
-89-90 & \hyperlink{Tappeto Volante}{Tappeto Volante}\\
-99-100 & \hyperlink{Zappa dei Titani}{Zappa dei Titani}
+	\textbf{1d100} & \textbf{Oggetti magici vari 2}\\
+	1-8 &\hyperlink{Braciere degli Elementali del Fuoco}{Braciere degli Elementali del Fuoco}\\
+	9-17 &\hyperlink{Braciere del Sonno maledetto}{Braciere del Sonno maledetto}\\
+	18-27 & \hyperlink{Cubo di protezione dal freddo}{Cubo di protezione dal freddo}\\
+	28-34 & \hyperlink{Incensiere degli Elementali dell'Aria}{Incensiere degli Elementali dell'Aria}\\
+	35-43 & \hyperlink{Rete Intralciante}{Rete Intralciante}\\
+	44-52 & \hyperlink{Rete Intrappolante}{Rete Intrappolante}\\
+	53-60 & \hyperlink{Scopa dell’Attacco animato}{Scopa dell’Attacco animato}\\
+	61-70 & \hyperlink{Scopa Volante}{Scopa Volante}\\
+	71-80 & \hyperlink{Scopa del Volo maledetto}{Scopa del Volo maledetto}\\
+	81-88 & \hyperlink{Specchio della Duplicazione}{Specchio della Duplicazione}\\
+	89-90 & \hyperlink{Tappeto Volante}{Tappeto Volante}\\
+	99-100 & \hyperlink{Zappa dei Titani}{Zappa dei Titani}
 \end{tabularx}
 
+\subsubsection{Oggetti magici vari 3}\index[Tabelle]{Tabella Generazione Oggetti magici vari 3}\hypertarget{Oggetti Magici Vari 3}{}
+
+\begin{tabularx}{0.45\textwidth}{lX}
+	\textbf{1d100} & \textbf{Oggetti magici vari 3}\\
+	1-8 & \hyperlink{Borsa dell'Annullamento}{Borsa dell'Annullamento}\\
+	9-18 & \hyperlink{Brocca dell'Acqua Infinita}{Brocca dell'Acqua Infinita}\\
+	19-26 & \hyperlink{Ceppi Dimensionali}{Ceppi Dimensionali}\\
+	27-35 & \hyperlink{Colla Suprema}{Colla Suprema}\\
+	36-40 & \hyperlink{Incenso della meditazione}{Incenso della meditazione}\\
+	41-51 & \hyperlink{Pergamena protettiva contro la magia}{Pergamena protettiva contro la magia}\\
+	52-60 & \hyperlink{Polvere Rivelatrice}{Polvere Rivelatrice}\\
+	61-70 & \hyperlink{Polvere della Sparizione}{Polvere della Sparizione}\\
+	71-82 & \hyperlink{Polvere dello Starnuto e del Soffocamento}{Polvere dello Starnuto e del Soffocamento}\\
+	83-90 & \hyperlink{Pietra Arcana}{Pietra Arcana}\\
+	91-96 & \hyperlink{Pietra del Peso}{Pietra del Peso}\\
+	97-100 & \hyperlink{Ventaglio Arcano}{Ventaglio Arcano}
+\end{tabularx}
 
 %\begin{center}
 %\includegraphics[width=0.4\linewidth]{immagini/armatura-med.png}
 %\end{center}
 
-
-\medskip
-\subsubsection{Oggetti magici vari 3}\index[Tabelle]{Tabella Generazione Oggetti magici vari 3}\hypertarget{Oggetti Magici Vari 3}{}
-
-\begin{tabularx}{0.45\textwidth}{lX}
-\textbf{1d100} & \textbf{Oggetti magici vari 3}\\
-1-8 & \hyperlink{Borsa dell'Annullamento}{Borsa dell'Annullamento}\\
-9-18 & \hyperlink{Brocca dell'Acqua Infinita}{Brocca dell'Acqua Infinita}\\
-19-26 & \hyperlink{Ceppi Dimensionali}{Ceppi Dimensionali}\\
-27-35 & \hyperlink{Colla Suprema}{Colla Suprema}\\
-36-40 & \hyperlink{Incenso della meditazione}{Incenso della meditazione}\\
-41-51 & \hyperlink{Pergamena protettiva contro la magia}{Pergamena protettiva contro la magia}\\
-52-60 & \hyperlink{Polvere Rivelatrice}{Polvere Rivelatrice}\\
-61-70 & \hyperlink{Polvere della Sparizione}{Polvere della Sparizione}\\
-71-82 & \hyperlink{Polvere dello Starnuto e del Soffocamento}{Polvere dello Starnuto e del Soffocamento}\\
-83-90 & \hyperlink{Pietra Arcana}{Pietra Arcana}\\
-91-96 & \hyperlink{Pietra del Peso}{Pietra del Peso}\\
-97-100 & \hyperlink{Ventaglio Arcano}{Ventaglio Arcano}\\
-\end{tabularx}
 
 %\begin{center}
 %\includegraphics[width=0.8\linewidth]{immagini/ancientdrum.png}
@@ -21064,7 +21051,45 @@ Tirare 1d10 per determinare se si trova un oggetto magico raro o leggendario opp
 93-94 & \hyperlink{Polvere dell'Aridità}{Polvere dell'Aridità}\\
 95-96 & \hyperlink{Tamburi del Panico}{Tamburi del Panico}\\
 97-98 & \hyperlink{Tamburi dello Stordimento}{Tamburi dello Stordimento}\\
-99-100 & \hyperlink{Turibolo dell’Evocazione maledetta}{Turibolo dell’Evocazione maledetta}\\
+99-100 & \hyperlink{Turibolo dell’Evocazione maledetta}{Turibolo dell’Evocazione maledetta}
+\end{tabularx}
+
+
+\subsubsection{Rari e Leggendari}\index[Tabelle]{Tabella Generazione Rari e Leggendari}\hypertarget{Rari e Leggendari}{}
+
+\begin{tabularx}{0.45\textwidth}{lX}
+	\textbf{1d100} & \textbf{Oggetto Magico}\\
+	1-3 & \hyperlink{Ali del Volo}{Ali del Volo}\\
+	4-6 & \hyperlink{Ampolla di Ferro}{Ampolla di Ferro}\\
+	7-10 & \hyperlink{Anfora elementale dell’acqua}{Anfora elementale dell’acqua}\\
+	11-12 & \hyperlink{Apparato del Granchio}{Apparato del Granchio}\\
+	13-15 & \hyperlink{Barca Pieghevole}{Barca Pieghevole}\\
+	17-20 & \hyperlink{Borsa Conservante Tipo III}{Borsa Conservante Tipo III}\\
+	21-24 & \hyperlink{Borsa Conservante Tipo IV}{Borsa Conservante Tipo IV}\\
+	25-28 & \hyperlink{Borsa dei Fagioli}{Borsa dei Fagioli}\\
+	29-30 & \hyperlink{Bottiglia dell'Efreeti}{Bottiglia dell'Efreeti}\\
+	31 & \hyperlink{Brocca delle Pozioni}{Brocca delle Pozioni}\\
+	32-33 & \hyperlink{Candela di Invocazione}{Candela di Invocazione}\\
+	34-35 & \hyperlink{Corno del Valhalla}{Corno del Valhalla}\\
+	36-39 & \hyperlink{Filatterio della giovinezza}{Filatterio della giovinezza}\\
+	40-42 & \hyperlink{Fortezza Istantanea}{Fortezza Istantanea}\\
+	43-45 & \hyperlink{Mazzo delle Meraviglie}{Mazzo delle Meraviglie}\\
+	46-49 & \hyperlink{Miniatura dal Potere Meraviglioso}{Miniatura dal Potere Meraviglioso}\\
+	50-53 & \hyperlink{Munizione dell'Uccisione}{Munizione dell'Uccisione}\\
+	54-58 & \hyperlink{Palla di Cristallo}{Palla di Cristallo}\\
+	59-62 & \hyperlink{Pergamena contro gli elementali}{Pergamena contro gli elementali}\\
+	63-65 & \hyperlink{Pergamena contro i non morti}{Pergamena contro i non morti}\\
+	66-70 & \hyperlink{Piffero delle Fogne}{Piffero delle Fogne}\\
+	71-75 & \hyperlink{Pigmenti delle Meraviglie}{Pigmenti delle Meraviglie}\\
+	76-83 & \hyperlink{Portale Cubico}{Portale Cubico}\\
+	84-85 & \hyperlink{Pozzo dei Molti Mondi}{Pozzo dei Molti Mondi}\\
+	86-87 & \hyperlink{Specchio dell’Abilità mentale}{Specchio dell’Abilità mentale}\\
+	88-89 & \hyperlink{Specchio Intrappola Vita}{Specchio Intrappola Vita}\\
+	90-91 & \hyperlink{Sfera dell'Annientamento}{Sfera dell'Annientamento}\\
+	92-94 & \hyperlink{Turibolo Elementale dell’aria}{Turibolo Elementale dell’aria}\\
+	95-96 & \hyperlink{Vano Portatile}{Vano Portatile}\\
+	97-98 & \hyperlink{Zoccoli della Velocità}{Zoccoli della Velocità}\\
+	99-100 & \hyperlink{Zoccoli dello Zefiro}{Zoccoli dello Zefiro}
 \end{tabularx}
 
 
@@ -21075,6 +21100,8 @@ Tirare 1d10 per determinare se si trova un oggetto magico raro o leggendario opp
 %
 %\emph{Teotihuacano Old God vessels: Top - stone brazier in Natural History Museum of Los Angeles County}
 %\end{center}
+
+}
 
 \pagebreak
 
@@ -22800,24 +22827,24 @@ Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. 
 \end{tabular}
 
 \smallskip* \textbf{Manuale della Buona salute}\index[OggettiMagici]{Manuale della buona salute}\hypertarget{Manuale della Buona salute}{}
-15000 mo, molto raro, questo tomo contiene istruzioni per rafforzare il corpo e la salute. Per leggere il libro occorrono 24 ore in un minimo di 3 giorni. Le sue istruzioni andranno seguite per 4 settimane, al termine delle quali il lettore guadagnerà permanentemente un punto di Costituzione. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo.
+15000 mo, molto raro, questo tomo contiene istruzioni per rafforzare il corpo e la salute. Per leggere il libro occorrono 24 ore in un minimo di 3 giorni. Le sue istruzioni andranno seguite per 4 settimane, al termine delle quali il lettore guadagnerà permanentemente un punto di Costituzione. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo. La versione maledetta di questo manuale pur sembrando assolutamente identico a quello originale al termina delle 4 settimana fa perdere un punto di Costituzione.
 
 \smallskip* \textbf{Manuale della Velocità di azione}\index[OggettiMagici]{Manuale della velocità di azione}\hypertarget{Manuale della Velocità di azione}{}
-15000 mo, molto raro, questo tomo contiene esercizi per l'equilibrio e la coordinazione. Funziona come un manuale della buona salute, ma fa ottenere un punto di Destrezza.
+15000 mo, molto raro, questo tomo contiene esercizi per l'equilibrio e la coordinazione. Funziona come un manuale della buona salute, ma fa ottenere un punto di Destrezza. La versione maledetta di questo manuale pur sembrando assolutamente identico a quello originale al termina delle 4 settimana fa perdere un punto di Destrezza.
 
 \smallskip* \textbf{Manuale dell'Esercizio fisico}\index[OggettiMagici]{Manuale dell'esercizio fisico}\hypertarget{Manuale dell'Esercizio fisico}{}
-15000 mo, molto raro, questo tomo funziona esattamente come il manuale della salute, ma conferisce al lettore un punto di Forza.
+15000 mo, molto raro, questo tomo funziona esattamente come il manuale della salute, ma conferisce al lettore un punto di Forza. La versione maledetta di questo manuale pur sembrando assolutamente identico a quello originale al termina delle 4 settimana fa perdere un punto di Forza.
 
 \index[OggettiMagici]{Tomo dell'Autorità e dell'Influenza}\smallskip* \textbf{Tomo dell'Autorità e dell'Influenza}\hypertarget{Tomo dell'Autorità e dell'Influenza}{}
-15000 mo, molto raro, questo libro contiene indicazioni su come influenzare e affascinare il prossimo, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Carisma aumenta di 1. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo.
+15000 mo, molto raro, questo libro contiene indicazioni su come influenzare e affascinare il prossimo, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Carisma aumenta di 1. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo. La versione maledetta di questo manuale pur sembrando assolutamente identico a quello originale fa perdere un punto di Carisma.
 
 
 \index[OggettiMagici]{Tomo della Comprensione}\smallskip* \textbf{Tomo della Comprensione}\hypertarget{Tomo della Comprensione}{}
-15000 mo, molto raro, questo libro contiene esercizi di intuizione e discernimento, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Saggezza aumenta di 1, e così fa il tuo punteggio massimo per quella caratteristica. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo.
+15000 mo, molto raro, questo libro contiene esercizi di intuizione e discernimento, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Saggezza aumenta di 1, e così fa il tuo punteggio massimo per quella caratteristica. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo. La versione maledetta di questo manuale pur sembrando assolutamente identico a quello originale fa perdere un punto di Saggezza.
 
 
 \index[OggettiMagici]{Tomo del Pensiero Limpido}\smallskip* \textbf{Tomo del Pensiero Limpido}\hypertarget{Tomo del Pensiero Limpido}{}
-15000 mo, molto raro, questo libro contiene esercizi di memoria e logica, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Intelligenza aumenta di 1. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo.
+15000 mo, molto raro, questo libro contiene esercizi di memoria e logica, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Intelligenza aumenta di 1. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo.  La versione maledetta di questo manuale pur sembrando assolutamente identico a quello originale fa perdere un punto di Intelligenza.
 
 
 \subsection{Oggetti Magici Vari}
@@ -22953,6 +22980,11 @@ Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 120
 
 Un'altra creatura può usare due azioni per afferrare la creatura all'interno della borsa e tirarla fuori, superando un Tiro Salvezza Tempra con Forza DC 25 (e sempre che non venga a sua volta trascinata dentro la borsa). La materia animale o vegetale posta dentro la borsa viene divorata ed è persa per sempre se inizia il proprio round all'interno della borsa.
 
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/genielamp.png}
+\end{center}
+
+
 \index[OggettiMagici]{Bottiglia dell'Efreeti}\smallskip* \textbf{Bottiglia dell'Efreeti}\hypertarget{Bottiglia dell'Efreeti}{}
 15000 mo, molto raro, questa bottiglia di ottone dipinta pesa 500 grammi. Quando usi due azioni per rimuoverne il tappo, una nube di denso fumo fuoriesce dalla bottiglia. Al termine del tuo round, il fumo si dissipa in un lampo di fuoco innocuo ed un efreeti compare in uno spazio non occupato entro 9 metri da te. La prima volta che la bottiglia viene aperta, il Narratore determina casualmente cosa accade.
 
@@ -22965,11 +22997,6 @@ Un'altra creatura può usare due azioni per afferrare la creatura all'interno de
 6-16 &L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia ed un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia.\\
 17-18 & L'efreeti può lanciare l'incantesimo desiderio a tuo favore per tre volte. Scompare quando conferisce il desiderio finale o dopo 1 ora, allorché la bottiglia perde la sua magia.
 \end{tabularx}
-
-
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/genielamp.png}
-\end{center}
 
 
 \index[OggettiMagici]{Borsa dei Fagioli}\smallskip* \textbf{Borsa dei Fagioli}\hypertarget{Borsa dei Fagioli}{}
@@ -22991,14 +23018,14 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 41-50 &Sputano 1d6 + 6 funghi urlatori.\\
 51-60 &Compaiono 1d4 + 8 rospi fucsia. Ogniqualvolta un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del Narratore. Il mostro resta per 1 minuto e poi scompare in un sbuffo di fumo fucsia. \\
 61-70 & Una bulette esce dal terreno e attacca.\\
-71-80 &Cresce un albero da frutta. Possiede 1d10 + 20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono, e mantengono la propria magia per 30 giorni. \\
-81-90 &Compare un nido con 1d4 + 3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se il Tiro Salvezza riesce, la creatura aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità. Se il Tiro Salvezza fallisce, la creatura subisce 10d6 danni da forza a causa di un'esplosione magica al suo interno.\\
-91-99 &Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. La piramide è considerata come la tana della mummia sovrana, e il suo sarcofago contiene un tesoro a scelta del Narratore.
+71-80 &Cresce un albero da frutta. Possiede 1d10 + 20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono, e mantengono la propria magia per 30 giorni. 
 \end{tabularx}
 
 \noindent\begin{tabularx}{0.50\textwidth}{lX}
 \textbf{d100} & \textbf{Effetto}\\
 \hline
+81-90 &Compare un nido con 1d4 + 3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se il Tiro Salvezza riesce, la creatura aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità. Se il Tiro Salvezza fallisce, la creatura subisce 10d6 danni da forza a causa di un'esplosione magica al suo interno.\\
+91-99 &Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. La piramide è considerata come la tana della mummia sovrana, e il suo sarcofago contiene un tesoro a scelta del Narratore.\\
 100 &Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza.
 \end{tabularx}
 

@@ -700,7 +700,7 @@ aggiornata versione POD 2024/10/14
 
 aggiornata versione POD 2024/10/15
 
-0.99.12
+0.99.12 aggiornamento abilita' famiglio, aggiunta tabella generazione casuale pergamene, 
 
 
 
