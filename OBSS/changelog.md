@@ -700,9 +700,11 @@ aggiornata versione POD 2024/10/14
 
 aggiornata versione POD 2024/10/15
 
-0.99.12 aggiornamento abilita' famiglio, aggiunta tabella generazione casuale pergamene, aggiunta immagine, aggiornato gittata pistola, layout, aggiornata dotazione da esploratore, Prendere la Mira e' solo su armi da lancio, chiarimenti su scurovisione, minuti chiarimenti, 
+0.99.12 aggiornamento abilita' famiglio, aggiunta tabella generazione casuale pergamene, aggiunta immagine, aggiornato gittata pistola, layout, aggiornata dotazione da esploratore, Prendere la Mira e' solo su armi da lancio, chiarimenti su scurovisione, minuti chiarimenti
 
+aggiornata versione POD 2024/10/17
 
+0.99.13
 
 
 
