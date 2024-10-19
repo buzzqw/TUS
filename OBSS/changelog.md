@@ -704,7 +704,7 @@ aggiornata versione POD 2024/10/15
 
 aggiornata versione POD 2024/10/17 x
 
-0.99.13 cambiato da ciclo millenario a secolare, 
+0.99.13 cambiato da ciclo millenario a secolare, corretto hyperlink planetar, 
 
 
 
