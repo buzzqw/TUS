@@ -5,7 +5,7 @@
 --- QUESTA E' L'ULTIMA VERSIONE DEL MANUALE ---
 
 
-[![Compila OBSS](https://github.com/buzzqw/TUS/blob/master/.github/workflows/CompilaOBSSv2.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/CompilaOBSSv2.yml)
+[![Compila OBSS](https://github.com/buzzqw/TUS/actions/workflows/CompilaOBSSv2.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/CompilaOBSSv2.yml)
 [![Compila OBSS english](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml)
 
 
