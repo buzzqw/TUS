@@ -1,11 +1,11 @@
---- QUESTO E' L'ULTIMA VERSIONE DEL MANUALE ---
+--- QUESTA E' L'ULTIMA VERSIONE DEL MANUALE ---
 
 --- ** SCARICATE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf ** ---
 
---- QUESTO E' L'ULTIMA VERSIONE DEL MANUALE ---
+--- QUESTA E' L'ULTIMA VERSIONE DEL MANUALE ---
 
 
-[![Compila OBSS](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/obssv3.yml)
+[![Compila OBSS](https://github.com/buzzqw/TUS/actions/workflows/CompilaOBSSv2.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/CompilaOBSSv2.yml)
 [![Compila OBSS english](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml/badge.svg)](https://github.com/buzzqw/TUS/actions/workflows/compila_obss_eng.yml)
 
 
