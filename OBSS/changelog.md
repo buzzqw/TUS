@@ -704,7 +704,7 @@ aggiornata versione POD 2024/10/15
 
 aggiornata versione POD 2024/10/17 x
 
-0.99.13 cambiato da ciclo millenario a secolare, corretto hyperlink planetar, corretto hyperlink Ombra - Visione e Luce, corretti alcuni font mancanti, chiarimenti su golder rules, 
+0.99.13 cambiato da ciclo millenario a secolare, corretto hyperlink planetar, corretto hyperlink Ombra - Visione e Luce, corretti alcuni font mancanti, chiarimenti su golder rules, dettagli su tempo di ricarca di armi da fuoco, 
 
 
 
