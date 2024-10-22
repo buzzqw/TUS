@@ -708,7 +708,7 @@ aggiornata versione POD 2024/10/17 x
 
 aggiornata versione POD 2024/10/22
 
-0.99.14
+0.99.14 modificati abilita' d'arma a 10 e 14 punti, 
 
 
 - aggiunti \label{} fino a piani
