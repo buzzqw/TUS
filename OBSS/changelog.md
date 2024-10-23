@@ -708,7 +708,11 @@ aggiornata versione POD 2024/10/17 x
 
 aggiornata versione POD 2024/10/22
 
-0.99.14 modificati abilita' d'arma a 10 e 14 punti, aggiornamenti e chiarimenti in lista d'armi, aggiunti dettagli su fluttuare, rimosse lettrine altrimenti in stampa viene solo un bollina nero!, 
+0.99.14 modificati abilita' d'arma a 10 e 14 punti, aggiornamenti e chiarimenti in lista d'armi, aggiunti dettagli su fluttuare, rimosse lettrine altrimenti in stampa viene solo un bollina nero!
+
+aggiornata versione POD 2024/10/23
+
+0.99.15 corretta spaziatura in lemure, ingrandito font Lista Mostri per Grado di Sfida, ottimizzazioni codice mostri,
 
 
 - aggiunti \label{} fino a piani
