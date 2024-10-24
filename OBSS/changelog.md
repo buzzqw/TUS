@@ -712,8 +712,11 @@ aggiornata versione POD 2024/10/22
 
 aggiornata versione POD 2024/10/23
 
-0.99.15 corretta spaziatura in lemure, ingrandito font Lista Mostri per Grado di Sfida, ottimizzazioni codice mostri, reimpaginazione e ottimizzazione, 
+0.99.15 corretta spaziatura in lemure, ingrandito font Lista Mostri per Grado di Sfida, ottimizzazioni codice mostri, reimpaginazione e ottimizzazione
 
+aggiornata versione POD 2024/10/24
+
+0.99.16 
 
 - aggiunti \label{} fino a piani
 
