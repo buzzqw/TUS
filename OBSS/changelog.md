@@ -720,7 +720,33 @@ aggiornata versione POD 2024/10/24
 
 - aggiunti \label{} fino a piani
 
-Pietra Arcana
+\begin{center}
+\includegraphics[width=0.27\textwidth]{immagini/Titan-crystal_bar.png}
+\end{center}
+
+\begin{center}
+\includegraphics[width=0.27\textwidth]{immagini/Diavoli_giotto_3.png
+\end{center}
+
+
+
+\begin{center}
+\includegraphics[width=0.4\textwidth]{immagini/Pierre-Charles_Comte_-_Jeanne_III.png}
+\end{center}
+
+
+\begin{center}
+\includegraphics[width=0.16\textwidth]{immagini/The_Red_Dragon_periodical_cover_page_July_1883.png}
+\end{center}
+
+
+
+\begin{center}
+\includegraphics[width=0.35\textwidth]{immagini/Ancient_bronze_greek_helmet_-South_Italy.png}
+\end{center}
+
+
+
 
 Aggiungere immagini:
 
