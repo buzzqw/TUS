@@ -716,7 +716,7 @@ aggiornata versione POD 2024/10/23
 
 aggiornata versione POD 2024/10/24
 
-0.99.16 
+0.99.16 terminata formattazione testo mostri, 
 
 - aggiunti \label{} fino a piani
 
@@ -737,6 +737,35 @@ aggiornata versione POD 2024/10/24
 
 \begin{center}
 \includegraphics[width=0.16\textwidth]{immagini/The_Red_Dragon_periodical_cover_page_July_1883.png}
+\end{center}
+
+
+
+\begin{center}
+\includegraphics[width=0.32\textwidth]{immagini/swords.png}
+\end{center}
+
+
+\begin{center}
+\includegraphics[width=0.15\textwidth]{immagini/Flanged_mace_01.png}
+\end{center}
+
+\begin{center}
+\includegraphics[width=0.45\textwidth]{immagini/Media_età_del_bronzo,_pugnale_in_bronzo,_02.png}
+\end{center}
+
+
+\begin{center}
+\includegraphics[width=0.40\textwidth]{immagini/Diavoli_giotto_2.png}
+\end{center}
+
+
+\begin{center}
+\includegraphics[width=0.2\textwidth]{immagini/EB1911_Chiroptera_Fig.png}
+\end{center}
+
+\begin{center}
+\includegraphics[width=0.35\textwidth]{immagini/Mummy_hand-MBA_Lyon-IMG_0516.png}
 \end{center}
 
 
