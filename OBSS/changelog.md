@@ -737,6 +737,11 @@ aggiornata versione POD 2024/10/24
 \end{center}
 
 
+
+\begin{center}
+\includegraphics[width=0.25\textwidth]{immagini/vaso-drago.png}
+\end{center}
+
 \begin{center}
 \includegraphics[width=0.16\textwidth]{immagini/The_Red_Dragon_periodical_cover_page_July_1883.png}
 \end{center}
@@ -766,10 +771,7 @@ aggiornata versione POD 2024/10/24
 \includegraphics[width=0.35\textwidth]{immagini/Mummy_hand-MBA_Lyon-IMG_0516.png}
 \end{center}
 
-
-\begin{center}
-\includegraphics[width=0.45\textwidth]{immagini/Media_età_del_bronzo,_pugnale_in_bronzo,_02.png}
-\end{center}
+Dryad11.png
 
 
 
