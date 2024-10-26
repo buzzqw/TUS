@@ -716,7 +716,9 @@ aggiornata versione POD 2024/10/23
 
 aggiornata versione POD 2024/10/24
 
-0.99.16 terminata formattazione testo mostri, 
+0.99.16 terminata formattazione testo mostri, arricchito elenco azioni, 
+
+
 
 - aggiunti \label{} fino a piani
 
