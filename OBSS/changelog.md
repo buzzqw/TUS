@@ -752,10 +752,6 @@ aggiornata versione POD 2024/10/24
 \includegraphics[width=0.15\textwidth]{immagini/Flanged_mace_01.png}
 \end{center}
 
-\begin{center}
-\includegraphics[width=0.45\textwidth]{immagini/Media_età_del_bronzo,_pugnale_in_bronzo,_02.png}
-\end{center}
-
 
 \begin{center}
 \includegraphics[width=0.40\textwidth]{immagini/Diavoli_giotto_2.png}
@@ -771,12 +767,16 @@ aggiornata versione POD 2024/10/24
 \end{center}
 
 
-
 \begin{center}
-\includegraphics[width=0.35\textwidth]{immagini/Ancient_bronze_greek_helmet_-South_Italy.png}
+\includegraphics[width=0.45\textwidth]{immagini/Media_età_del_bronzo,_pugnale_in_bronzo,_02.png}
 \end{center}
 
 
+
+
+\begin{center}
+\includegraphics[width=0.35\textwidth]{immagini/Conrad_Cichorius_Die_Reliefs_der_Traianssaule.png}
+\end{center}
 
 
 Aggiungere immagini:
