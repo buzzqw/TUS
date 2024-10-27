@@ -720,7 +720,7 @@ aggiornata versione POD 2024/10/24
 
 aggiornata versione POD 2024/10/26
 
-0.99.17 minori chiarimenti su alterare le magie, 
+0.99.17 minori chiarimenti su alterare le magie,  corretti riferimenti ad immunita' a veleno e condizione avvelenato, 
 
 - aggiunti \label{} fino a piani
 
