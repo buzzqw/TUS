@@ -720,75 +720,9 @@ aggiornata versione POD 2024/10/24
 
 aggiornata versione POD 2024/10/26
 
-0.99.17 minori chiarimenti su alterare le magie,  corretti riferimenti ad immunita' a veleno e condizione avvelenato, 
-
-- aggiunti \label{} fino a piani
-
-\begin{center}
-\includegraphics[width=0.27\textwidth]{immagini/Titan-crystal_bar.png}
-\end{center}
-
-\begin{center}
-\includegraphics[width=0.27\textwidth]{immagini/Diavoli_giotto_3.png
-\end{center}
+0.99.17 minori chiarimenti su alterare le magie,  corretti riferimenti ad immunita' a veleno e condizione avvelenato, migliore codice in gestione mostri, chiarimenti su rimuovi veleni con pronto soccorso, chiarimenti su uso droghe, layout in pozioni generiche, aggiunta malattia di efrem, chiarimenti su malattie, 
 
 
-
-\begin{center}
-\includegraphics[width=0.4\textwidth]{immagini/Pierre-Charles_Comte_-_Jeanne_III.png}
-\end{center}
-
-
-
-\begin{center}
-\includegraphics[width=0.25\textwidth]{immagini/vaso-drago.png}
-\end{center}
-
-\begin{center}
-\includegraphics[width=0.16\textwidth]{immagini/The_Red_Dragon_periodical_cover_page_July_1883.png}
-\end{center}
-
-
-
-\begin{center}
-\includegraphics[width=0.32\textwidth]{immagini/swords.png}
-\end{center}
-
-
-\begin{center}
-\includegraphics[width=0.15\textwidth]{immagini/Flanged_mace_01.png}
-\end{center}
-
-
-\begin{center}
-\includegraphics[width=0.40\textwidth]{immagini/Diavoli_giotto_2.png}
-\end{center}
-
-
-\begin{center}
-\includegraphics[width=0.2\textwidth]{immagini/EB1911_Chiroptera_Fig.png}
-\end{center}
-
-\begin{center}
-\includegraphics[width=0.35\textwidth]{immagini/Mummy_hand-MBA_Lyon-IMG_0516.png}
-\end{center}
-
-Dryad11.png
-
-
-
-
-\begin{center}
-\includegraphics[width=0.35\textwidth]{immagini/Conrad_Cichorius_Die_Reliefs_der_Traianssaule.png}
-\end{center}
-
-
-Aggiungere immagini:
-
-178 fine incantesimi normali
-190 inizia svantaggi
-298 fine Le avventure in OBSS
-356 fine Descrizione degli Oggetti Magici
 
 > valutare:
 - suggerimento per il narratore, non usare lo screen
