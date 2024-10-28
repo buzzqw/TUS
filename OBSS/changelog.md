@@ -724,7 +724,7 @@ aggiornata versione POD 2024/10/26
 
 aggiornata versione POD 2024/10/28
 
-0.99.18 tolta l'ultima lettrine, aggiornata abilita' Il Patrono è la mia Arma, minute migliorie a patroni, 
+0.99.18 tolta l'ultima lettrine, aggiornata abilita' Il Patrono è la mia Arma, minute migliorie a patroni, dettagli su La Topi, completato in condizione aumento categoria dado, 
 
 
 
