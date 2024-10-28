@@ -708,7 +708,7 @@ aggiornata versione POD 2024/10/17 x
 
 aggiornata versione POD 2024/10/22
 
-0.99.14 modificati abilita' d'arma a 10 e 14 punti, aggiornamenti e chiarimenti in lista d'armi, aggiunti dettagli su fluttuare, rimosse lettrine altrimenti in stampa viene solo un bollina nero!
+0.99.14 modificati abilita' d'arma a 10 e 14 punti, aggiornamenti e chiarimenti in lista d'armi, aggiunti dettagli su fluttuare, rimosse lettrine altrimenti in stampa viene solo un bollino nero
 
 aggiornata versione POD 2024/10/23
 
@@ -724,7 +724,7 @@ aggiornata versione POD 2024/10/26
 
 aggiornata versione POD 2024/10/28
 
-0.99.18
+0.99.18 tolta l'ultima lettrine, aggiornata abilita' Il Patrono è la mia Arma, minute migliorie a patroni, 
 
 
 
