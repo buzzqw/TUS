@@ -720,7 +720,11 @@ aggiornata versione POD 2024/10/24
 
 aggiornata versione POD 2024/10/26
 
-0.99.17 minori chiarimenti su alterare le magie,  corretti riferimenti ad immunita' a veleno e condizione avvelenato, migliore codice in gestione mostri, chiarimenti su rimuovi veleni con pronto soccorso, chiarimenti su uso droghe, layout in pozioni generiche, aggiunta malattia di efrem, chiarimenti su malattie, 
+0.99.17 minori chiarimenti su alterare le magie,  corretti riferimenti ad immunita' a veleno e condizione avvelenato, migliore codice in gestione mostri, chiarimenti su rimuovi veleni con pronto soccorso, chiarimenti su uso droghe, layout in pozioni generiche, aggiunta malattia di efrem, chiarimenti su malattie
+
+aggiornata versione POD 2024/10/28
+
+0.99.18
 
 
 
