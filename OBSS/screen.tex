@@ -39,12 +39,12 @@
 \begin{tabularx}{0.45\textwidth}{lcl}
 	\textbf{Condizioni}& \textbf{Pen./Mov/Comp.}&\textbf{Rec.}\\
 	\hline
-	Affaticato &2/-/-&1h\\
-	Affaticato 2&4/2m/-4&1h\\
-	Affaticato 3&6/3m/-6&8h\\
-	Affaticato 4&8/6m/-8&12h\\
-	Affaticato 5&Svenuto&12h\\
-	Affaticato 6&Morte&--\\
+Affaticato &1/-/-&1h\\
+Affaticato 2&2/2m/-4&1h\\
+Affaticato 3&4/3m/-6&8h\\
+Affaticato 4&6/6m/-8&12h\\
+Affaticato 5&Svenuto&6h\\
+Affaticato 6&Morte&--
 \end{tabularx}
 
 \textbf{Afferrato}\index{Afferrato}: No movimento. Puo' Spingere. 2 Azioni TS Tempra contrapposto con bonus Forza +1d6 per Taglia di differenza per liberarsi. -2 Difesa. Si attacco armi piccole.
@@ -112,26 +112,28 @@ Ogni round tira
 
 \riga
 
+
 \begin{tabularx}{0.98\textwidth}{l|X|X}
-	\multicolumn{2}{c}{\textbf{Attaccante}}&\multicolumn{1}{c}{\textbf{Difensore}}\\
-	\textbf{Mod}.&\multicolumn{1}{c}{\emph{Situazione}}&\multicolumn{1}{c}{\emph{Situazione}}\\
-	\textbf{-1}& Affaticato (1), Luce fioca&Affaticato (1)\\
-	\hline
-	\textbf{-2}& Affaticato (2), Abbagliato, Intralciato & Affaticato (2), Afferrato, Lanci un incantesimo mentre sei sotto attacco\\
-	\hline
-	\textbf{-4}& Affaticato (3), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale& Affaticato (3), Sorpreso, Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
-	\hline
-	\textbf{-1d6}& Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato&\\
-	\hline
-	%\textbf{+1}& & \\
-	%\hline
-	\textbf{+2}& Fiancheggia, Posizione Sopraelevata, Attacca al spalle, Arma Lunga& Copertura leggera\\
-	\hline
-	\textbf{+4}&& Copertura media\\
-	\hline
-	\textbf{+1d6}& Invisibile, Carica, avversario Indifeso& \\
-	\hline
-	\textbf{+8}&& Copertura completa
+\multicolumn{2}{c}{\textbf{Attaccante}}&\multicolumn{1}{c}{\textbf{Difensore}}\\
+\textbf{Mod}.&\multicolumn{1}{c}{\emph{Situazione}}&\multicolumn{1}{c}{\emph{Situazione}}\\
+\hline
+\textbf{-1}& Affaticato (1), Luce fioca&Affaticato (1)\\
+\hline
+\textbf{-2}& Affaticato (2), Abbagliato, Intralciato & Affaticato (2), Afferrato, Lanci un incantesimo mentre sei sotto attacco\\
+\hline
+\textbf{-4}& Affaticato (3), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale& Affaticato (3), Sorpreso, Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
+\hline
+\textbf{-1d6}& Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato&\\
+\hline
+%\textbf{+1}& & \\
+%\hline
+\textbf{+2}& Fiancheggia, Posizione Sopraelevata, Attacca al spalle, Arma Lunga& Copertura leggera\\
+\hline
+\textbf{+4}&& Copertura media\\
+\hline
+\textbf{+1d6}& Invisibile, Carica, avversario Indifeso& \\
+\hline
+\textbf{+8}&& Copertura completa
 \end{tabularx}
 
 
@@ -192,6 +194,15 @@ Se tiro dado e' massimo valore (min 8) ritiri il dado e sommi ancora il valore (
 
 \riga
 
+\textbf{Armi a spargimento}\\
+1 2 3\\
+4 \textbf{X} 5\\
+6 7 8\\
+0\\
+X bersaglio, 0 origine, 1d8 per direzione, 2d6 metri.
+
+\riga
+
 
 
 \end{textblock*}
@@ -219,43 +230,58 @@ Porta di ferro     & 30&	Catena                 & 26 \\
 40  & Impossibile  & Epica\\
 \end{tabular}
 
-
-
-
-
 \riga
 
 \textbf{Azioni per Round} 
 
 \begin{tabular}{ll}
-Eseguire un attacco				& 1\\
-Eseguire due attacchi				& 2\\
-Eseguire più di due attacchi			& 3\\
-Lanciare un'Incantesimo*			& 2\\
-Eseguire una Azione di  Movimento*		& 1\\
-Scatto						& 1\\
-Alzarsi da prono				& 2\\
-Aiutare qualcuno				& 2\\
-Scambiare un dialogo con qualcuno*		& 3\\
-\small{Scambiare poche battute con qualcuno*}	& 0\\
-Cercare qualcosa nello zaino			& 2\\
-{\small Prendere dalla cintura o di pronto} & 1\\
-Usare un oggetto tenuto in mano			& 1\\
-Bere una pozione tenuta alla cintura		& 1\\
-Estrarre/Rinfoderare l'arma					& 1\\
-Imbracciare lo scudo				& 1\\
-Usare un oggetto magico				& 2\\
-Eseguire prova su una competenza*		& 1\\
-Sfondare una porta a spallate/calci			&1\\
-Forzare una porta con un piede di porco		&1\\
-Nascondersi					& 1\\
-Concentrarsi su un Incantesimo			& 1\\
-Salire o scendere dalla cavalcatura		& 1\\
-Azione \textbf{I}mmediata - Azione \textbf{R}eazione		& I - R\\
-Bere una pozione tenuta in mano			& I\\
-Gettare un oggetto tenuto in mano		& R\\
-Gettarsi a terra prono				& R\\
-Riconoscere un Incantesimo			& R\\
+Eseguire un attacco& 1\\
+Eseguire due attacchi& 2\\
+Eseguire più di due attacchi& 3\\
+Estrarre o Rinfoderare l'arma o scudo& 1\\
+\hline
+Eseguire una Azione di Movimento*& 1\\
+Scatto & 1\\
+Alzarsi da prono& 2\\
+\hline
+Aiutare qualcuno& 2\\
+Eseguire prova su una competenza*& 1\\
+Riconoscere una creatura& 1\\
+Nascondersi& 1\\
+\hline
+Salire o scendere dalla cavalcatura& 2\\
+Sfondare una porta a spallate/calci& 1\\
+Forzare porta con piede di porco& 2\\
+\hline
+Cercare qualcosa nello zaino& 2\\
+Prendere qualcosa dalla cintura o di pronto & 1\\
+Usare un oggetto tenuto in mano& 1\\
+\hline
+Bere una pozione tenuta in mano& I\\
+Bere una pozione tenuta alla cintura& 1\\
+\hline
+Gettare un oggetto tenuto in mano& R\\
+Gettarsi a terra prono& R\\
+\hline
+Lanciare un Incantesimo*& 2\\
+Concentrarsi su un Incantesimo& 1\\
+Interrompere un proprio incantesimo & I\\
+Riconoscere un Incantesimo& R\\
+Usare un oggetto magico& 2\\
+\hline
+Scambiare un dialogo con qualcuno*& 3\\
+Scambiare poche battute con qualcuno*& 0\\
+\hline
+Preparare la Difesa & 1\\
+Difesa Totale & 2\\
+Disingaggiare & 1\\
+Colpo preciso & 2\\
+\hline
+Disarmare & 2\\
+Finta & 1\\
+Spingere & 2\\
+Afferrare l'avversario & 2\\
+Fare cadere l'avversario & 2\\
 \end{tabular}
 
 \riga
@@ -265,14 +291,6 @@ Riconoscere un Incantesimo			& R\\
 
 \riga
 
-\textbf{Attacchi con armi a spargimento}\\
-1 2 3\\
-4 \textbf{X} 5\\
-6 7 8\\
-0\\
-X bersaglio, 0 origine. gittata 6 metri. 1d8 per direzione, 2d6 per metri.
-
-\riga
 
 \textbf{Azione di Scatto}\\
 x2 Movimento. -1d6 nel Tiro per Colpire, -4 Difesa, Distratto
@@ -491,12 +509,12 @@ Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\
 \textbf{Cavalcatura}&\textbf{Costo (mo)}&\textbf{Mov.}&\textbf{Carico}&Km/h\\
 Asino o Mulo&8&12 m&210 kg&6km\\
 Cammello&50&15 m&240 kg&8km\\
-Cavallo da Galoppo&75&18 m&240 kg&12km\\
-Cavallo da Guerra&400&18 m&270 kg&9km\\
-Cavallo da Tiro&50&12 m&270 kg&6km\\
+Saurovallo da Galoppo&75&18 m&240 kg&12km\\
+Saurovallo da Guerra&400&18 m&270 kg&9km\\
+Saurovallo da Tiro&50&12 m&270 kg&6km\\
 Elefante&500&12 m&660 kg&6km\\
 Mastino&25&12 m&97,5 kg&6km\\
-Pony&30&12 m&112,5 kg&6km\\
+Saurovallo Nano&30&12 m&112,5 kg&6km\\
 Carretto/Carro    & 15/30 mo & 9/12 m   &150/600kg    & 3/6km              \\
 \end{tabular}
 
