@@ -728,7 +728,7 @@ aggiornata versione POD 2024/10/28
 
 aggiornata versione POD 2024/10/29
 
-0.99.19 aggiornato screen, dettagli su cambiare gli incantesimi ogni giorno, 
+0.99.19 aggiornato screen, dettagli su cambiare gli incantesimi ogni giorno, ritoccata tabella tiro caratteristiche, 
 
 
 
