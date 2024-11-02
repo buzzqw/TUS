@@ -728,7 +728,7 @@ aggiornata versione POD 2024/10/28
 
 aggiornata versione POD 2024/10/29
 
-0.99.19 aggiornato screen, dettagli su cambiare gli incantesimi ogni giorno, ritoccata tabella tiro caratteristiche, dettagli su resistenze ed immunita' a luce/vuoto, 
+0.99.19 aggiornato screen, dettagli su cambiare gli incantesimi ogni giorno, ritoccata tabella tiro caratteristiche, dettagli su resistenze ed immunita' a luce/vuoto, specificato allungo, corretto lo scudo e' mio amico, aggiornato punti ferita che si recuperano per riposo, aggiornato scudo della fede, 
 
 
 
