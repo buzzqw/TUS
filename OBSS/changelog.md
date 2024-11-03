@@ -726,9 +726,9 @@ aggiornata versione POD 2024/10/28
 
 0.99.18 tolta l'ultima lettrine, aggiornata abilita' Il Patrono è la mia Arma, minute migliorie a patroni, dettagli su La Topi, completato in condizione aumento categoria dado 
 
-aggiornata versione POD 2024/10/29
+aggiornata versione POD 2024/10/29 x
 
-0.99.19 aggiornato screen, dettagli su cambiare gli incantesimi ogni giorno, ritoccata tabella tiro caratteristiche, dettagli su resistenze ed immunita' a luce/vuoto, specificato allungo, corretto lo scudo e' mio amico, aggiornato punti ferita che si recuperano per riposo, aggiornato scudo della fede, 
+0.99.19 aggiornato screen, dettagli su cambiare gli incantesimi ogni giorno, ritoccata tabella tiro caratteristiche, dettagli su resistenze ed immunita' a luce/vuoto, specificato allungo, corretto lo scudo e' mio amico, aggiornato punti ferita che si recuperano per riposo, aggiornato scudo della fede, rimosso incantesimo scudo della fede, modificato incantesimo scudo, chiarimenti su lacrima di ljust, aggiornato dardo arcano, modificato l'effetto critico degli incantesimi di cura, aggiornato incantesimo dito, aggiunto elenco incantesimi per livello, 
 
 
 
