@@ -728,7 +728,11 @@ aggiornata versione POD 2024/10/28
 
 aggiornata versione POD 2024/10/29 x
 
-0.99.19 aggiornato screen, dettagli su cambiare gli incantesimi ogni giorno, ritoccata tabella tiro caratteristiche, dettagli su resistenze ed immunita' a luce/vuoto, specificato allungo, corretto lo scudo e' mio amico, aggiornato punti ferita che si recuperano per riposo, aggiornato scudo della fede, rimosso incantesimo scudo della fede, modificato incantesimo scudo, chiarimenti su lacrima di ljust, aggiornato dardo arcano, modificato l'effetto critico degli incantesimi di cura, aggiornato incantesimo dito, aggiunto elenco incantesimi per livello, 
+0.99.19 aggiornato screen, dettagli su cambiare gli incantesimi ogni giorno, ritoccata tabella tiro caratteristiche, dettagli su resistenze ed immunita' a luce/vuoto, specificato allungo, corretto lo scudo e' mio amico, aggiornato punti ferita che si recuperano per riposo, aggiornato scudo della fede, rimosso incantesimo scudo della fede, modificato incantesimo scudo, chiarimenti su lacrima di ljust, aggiornato dardo arcano, modificato l'effetto critico degli incantesimi di cura, aggiornato incantesimo dito, aggiunto elenco incantesimi per livello
+
+aggiornata versione POD 2024/11/03
+
+0.99.20
 
 
 
