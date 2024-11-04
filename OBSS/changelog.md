@@ -732,7 +732,7 @@ aggiornata versione POD 2024/10/29 x
 
 aggiornata versione POD 2024/11/03 x
 
-0.99.20 indicato come i bonus e malusi si sommano, corretto danno lancia, grande ascia doppia non e' un arma lunga, dettagli su rete intralciante, dettagli su disattivare congegni, 
+0.99.20 indicato come i bonus e malusi si sommano, corretto danno lancia a 1d10, grande ascia doppia non e' un arma lunga, dettagli su rete intralciante, dettagli su disattivare congegni, Potere del Patrono e' una reazione, 
 
 
 
