@@ -732,7 +732,7 @@ aggiornata versione POD 2024/10/29 x
 
 aggiornata versione POD 2024/11/03
 
-0.99.20 indicato che i bonus e malusi si sommano, 
+0.99.20 indicato come i bonus e malusi si sommano, 
 
 
 
