@@ -7587,8 +7587,6 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico tira 3d6 e con
 18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili
 \end{tabularx}
 
-
-
 \subsubsection{I Punti Magia}\index{I Punti Magia}\label{magiepuntimagia}\index{Incantesimi, Punti Magia}
 
 A seconda del punteggio in Competenza Magica l'incantatore ha a disposizione un certo ammontare di Punti Magia.
@@ -7647,15 +7645,28 @@ I Punti Magia si recuperano tutti con 8 ore di riposo. \index{Incantesimi, Recup
 %19&123&20 &133\\
 %\end{tabularx}
 
+
+%\subsubsection{L'Essenza della Magia}
+%Diversi incantesimi hanno la possibilità di essere potenziati direttamente sfruttando il grezzo potere magico.
+%Quando dopo il livello e la Lista di Magia è presente un \textbf{*} in fondo allora valgono queste regole:
+%\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+%\item ogni Punto Magia speso in più il danno aumenta di 1d8
+%\item ogni 3 Punti Magia spesi in più la DC del Tiro Salvezza aumenta di 1
+%\item il tempo di lancio aumenta di 1 Azione
+%\item non è possibile usare più Punti Magia della metà del punteggio di Competenza Magica
+%\item non è possibile lanciare nuovamente quell'incantesimo per 10 round
+%\item non è possibile combinare l'\emph{Essenza della magia} con il \emph{Successo Critico %Automagico}
+%\end{itemize}
+
 \subsubsection{Opzionale - Il vero costo della Magia}
 
-Il sistema magico può essere \emph{rotto} ad alti livelli quando il personaggio incomincia a formulare solo incantesimi distruttivi in continuazione. Per limitare questo sono proposti tre approcci:
+Il sistema magico può diventare sbilanciato abusando sempre degli stessi incantesimi. Per limitare questo sono proposti tre approcci:
 
-\noindent- Un incantatore può lanciare lo stesso incantesimo un numero di volte al giorno pari alle volte che ha preso Adepto della Magia +1
-
-\noindent- Il costo in Punti Magia di un incantesimo è pari al Livello +1 se questo è del massimo livello lanciabile
-
-\noindent- Il costo in Punti Magia degli incantesimi aumenta del costo stesso ogni volta che viene riformulato lo stesso incantesimo
+\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item Il costo in Punti Magia dell'incantesimo aumenta del costo stesso ogni volta che viene rilanciato (\emph{soluzione predefinita})
+\item Un incantatore può lanciare lo stesso incantesimo un numero di volte al giorno pari alle volte che ha preso Adepto della Magia +1
+\item Il costo in Punti Magia di un incantesimo è pari al Livello +1 se questo è del massimo livello lanciabile
+\end{itemize}
 
 \subsubsection*{Incantesimi come Rituali}\index{Incantesimi come Rituali}\index{Rituali, Incantesimi}
 
@@ -7665,14 +7676,22 @@ L'incantatore può lanciare un incantesimo che sia presente sul suo Tomo di Magi
 
 \subsubsection{Successo Critico Auto Magico}\index{Successo Critico Auto Magico}\index{Nova}\label{magienova}
 
-L'incantatore può decidere di spendere in aggiunta il \textbf{doppio dei Punti Magia} normali dell'incantesimo per avere in automatico un \textbf{Successo Critico Magico}.
-La scelta può essere fatta più volte e ogni volta il costo dell'incantesimo raddoppia rispetto al precedente. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia.
+L'incantatore può decidere di spendere, in aggiunta ai \textbf{dei Punti Magia} dell'incantesimo, un uguale ammontare per avere in automatico un \textbf{Successo Critico Magico}.
+Ogni volta che voglio applicare un Successo Critico Magico aggiuntivo oltre il primo il costo in Punti Magia aumenta di 1. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia.
 
 Il tempo di lancio di un incantesimo potenziato in questa maniera aumenta di 1 Azione.
 
-Es. Palla di Fuoco, voglio che faccia 2 critici magici, pago 3 Punti Magia per lanciarla, più 6 per il primo Successo Critico Magico più 12 per il secondo Successo Critico Magico, ed eventualmente 24 per un terzo Successo Critico Magico. Si pagano sempre tutti i Punti Magia usati indipendentemente dal risultato della Prova di Magia.
+Es. \hyperlink{Velocità}{Velocità}, voglio che faccia 2 critici magici, pago 3 Punti Magia per lanciarla, più 3 per il primo Successo Critico Magico più 4 per il secondo Successo Critico Magico, ed eventualmente 5 per un terzo Successo Critico Magico. Si pagano sempre tutti i Punti Magia usati indipendentemente dal risultato della Prova di Magia.
 
 Non si possono spendere più di metà dei Punti Magia attuali per potenziare un incantesimo.
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Scegliere gli Incantesimi]
+Ogni incantesimo è un tesoro prezioso che si deve trovare ed imparare.
+		
+Ogni incantesimo è alla stregua di un oggetto magico, un vero tesoro da cercare e ottenere!
+		
+Dovrai intraprendere perigliose avventure, pagare mercenari, cercare i tomi antichi e svelare i segreti più oscuri e dimenticati per poter imparare nuovi incantesimi.
+\end{tcolorbox}\end{changemargin}
 
 \subsubsection{Il Tomo della Magia}\index{Tomo della Magia}\index{Il Tomo della Magia}\label{magietomodellamagia}\index{Incantesimi, Tomo della Magia}
 
@@ -7705,15 +7724,6 @@ La sorgente di nuovi incantesimi può essere un altro Tomo o pergamena.. insomma
 
 Durante le avventure il vostro incantatore potrà copiare tanti e numerosi incantesimi sul suo Tomo ma non potrà apprenderli immediatamente. Il personaggio quando acquisirà un nuovo punto di Competenza Magica apprenderà due nuovi incantesimi e potrà sostituire un numero di incantesimi entro le volte che ha preso Adepto della Magia, con un minimo di 1, con altri incantesimi presenti nel suo Tomo ed entro il massimo livello di incantesimo possibile.
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Scegliere gli Incantesimi]
-Ogni incantesimo è un tesoro prezioso che si deve trovare ed imparare.
-
-Ogni incantesimo è alla stregua di un oggetto magico, un vero tesoro da cercare e ottenere!
-
-Dovrai intraprendere perigliose avventure, pagare mercenari, cercare i tomi antichi e svelare i segreti più oscuri e dimenticati per poter imparare nuovi incantesimi.
-\end{tcolorbox}\end{changemargin}
-
-
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Gli incantesimi diventano oggetti e premi magici a tutti gli effetti. Sfruttate la sete di conoscenza e potere dei personaggi per costruire avventure interessanti che possano ruotare attorno tomi antichi e leggendari incantesimi perduti.
 \end{narratore}\end{changemargin}
@@ -7727,6 +7737,8 @@ Se l'incantatore non ha ripassato gli incantesimi appena sveglio o comunque prim
 \subsubsection{Cambiare gli Incantesimi}\index{Cambiare gli Incantesimi}\label{Cambiare gli Incantesimi}
 
 Ogni mattina quando ripassa gli incantesimi l'incantatore può sostituire un numero di  incantesimi appresi pari 1 + le volte che ha preso Adepto della Magia con incantesimi conosciuti presenti nel suo Tomo di Magia ed entro il massimo livello lanciabile.
+
+
 
 \subsubsection{Tiro per Colpire con le Magie}\index{Tiro per Colpire con Incantesimi}\label{magietiropercolpireconlemagie}\index{Incantesimi, Tiro per Colpire}
 
@@ -7782,8 +7794,8 @@ E' anche possibile che nella descrizione dell'incantesimo sia riportato cosa suc
 
 Per i \textbf{mostri} o comunque per un lancio di incantesimi dato da abilità magiche innate, se non specificato la \textbf{DC del Tiro Salvezza è pari alla 10 + 2 x livello dell'incantesimo + Intelligenza o Saggezza quale sia migliore}.\index{DC Tiro Salvezza Incantesimo mostri}\index{Difficoltà incantesimi dei mostri}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups lancia un Fulmine!]
-Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volta Adepto della Magia, lancia l'incantesimo Fulmine. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un successo critico magico la DC sarebbe diventata 23.
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups lancia Dardo Tracciante!]
+Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volta Adepto della Magia, lancia l'incantesimo \hyperlink{Dardo Tracciante}{Dardo Tracciante}. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un successo critico magico la DC sarebbe diventata 23.
 \end{tcolorbox}\end{changemargin}
 
 
