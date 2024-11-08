@@ -738,8 +738,10 @@ aggiornata versione POD 2024/11/03 x
 
 aggiornata versione POD 2024/11/06 x
 
-
 0.99.21 
+
+
+
 
 > valutare:
 - suggerimento per il narratore, non usare lo screen
