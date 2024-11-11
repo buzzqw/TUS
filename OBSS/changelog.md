@@ -740,8 +740,9 @@ aggiornata versione POD 2024/11/06 x
 
 0.99.21 chiarimenti ed esempi in combattimento con copertura, aggiornato abilita' precisino, chiarimenti su tempi di aiutare un altro e cosa succede in caso di fallimento critico, dettagli su sanguimento e affascinato, aggiunti poteri speciali a draghi
 
+aggiornata versione POD 2024/11/11
 
-
+0.99.22 
 
 > valutare:
 - suggerimento per il narratore, non usare lo screen
