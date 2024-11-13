@@ -742,7 +742,7 @@ aggiornata versione POD 2024/11/06 x
 
 aggiornata versione POD 2024/11/11
 
-0.99.22 
+0.99.22 chiarimenti su La mia morte la tua morte - Furia - Primo Sangue, 
 
 > valutare:
 - suggerimento per il narratore, non usare lo screen
