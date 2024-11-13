@@ -39,26 +39,24 @@ Have fun and have a good game!
 
 In questa cartella troverete il materiale per giocare al gioco di ruolo Old Bell School System (OBSS). Tutto il materiale e' scritto in italiano, gratuito e gratis (giusto per enfatizzare!)
 
-Il gioco usa ed e' licenziato con la ShareAlike 4.0 International e ispirato a DnD, questo significa che se conoscete DnD vi sara' facile e veloce capirne le meccaniche.
+Il gioco usa ed e' licenziato con la ShareAlike 4.0 International ed ispirato a DnD (e non solo!), questo significa che se conoscete DnD vi sara' facile e veloce capirne le meccaniche.
 
 **Leggi il file https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-in-breve.txt per una veloce esposizione sulle caratteristiche principali di OBSS!**
 
-Il sistema magico e' a spell point ed molti incantesimi sono modificati ed altri aggiunti da me. Il combattimento e' aperto, dinamico, esplosivo e divertente.
+Il sistema magico e' a spell point, molti incantesimi pur se presi dall 5e sono stati modificati e molti altri aggiunti da me. Il combattimento e' aperto, dinamico, esplosivo e divertente.
 
-OBSS si rifà alla filosofia OSR (Old School Renaissance) ma in chiave moderna, ne abbraccia i principi ma non esclude un sistema di regole più completo che possa aiutare il Narratore.
+OBSS si rifà alla filosofia OSR (Old School Renaissance) ma in chiave moderna, ne abbraccia i principi ma non esclude un sistema di regole più completo che possa aiutare il Narratore ed il Giocatore a creare personaggi diversi e completi.
 
 Scaricate il manuale OBSSv2.pdf [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf) oppure senza copertina [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-nocopertina.pdf) e la scheda OBSS-scheda.pdf [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda.pdf).
 E' anche disponibile uno schermo per il Narratore (veramente brutto.. perdonate!) [link](https://github.com/buzzqw/TUS/blob/master/OBSS/screen.pdf). 
 
-Il **print on demand (POD)** e' disponibile su Amazon https://www.amazon.it/dp/B09R3HPJJX
+Il manuale di OBSS e' completo, un bel tomo di oltre 550 pagine, con tutto cio' che serve per giocare! Troverete i capitoli che interessano i Giocatori ed il Narratore ed anche oltre 300 mostri!
 
-Il manuale di OBSS e' completo, un bel tomo di oltre 550 pagine, con tutto cio' che serve per giocare! Troverete i capitoli che interessano i Giocatori ed il Narratore, compreso i mostri liberamente usabili (piu' numerose aggiunte).
-
-Vi suggerisco di scaricare sempre l'ultima versione del manuale direttamente dal questa pagina, quella pubblicata nelle versioni solitamente e' parecchio indietro.
+Vi suggerisco di scaricare sempre l'ultima versione del manuale direttamente dal questa pagina, quella pubblicata nelle versioni solitamente non e' aggiornata.
 
 Old Bell School System e' un gioco maturo, curato, completo scritto con passione ed un occhio attento alla congruita' delle regole. Ha una struttura omogenea ed a differenza di tanti manuali "casalinghi" (o se preferito homebrew) ha un layout attento, quasi professionale.
 
-OBSS e' indirizzato a Narratori (o Master come chiamati altrove) novizi che abbiano voglia di divertirsi ed imparare, i Narratori piu' di esperienza troveranno un sistema con un blend di regola accattivanti, ricercate ma allo stesso tempo familiari.
+OBSS e' indirizzato a Narratori (o Master come chiamati altrove) che abbiano voglia di divertirsi e fare divertire. I Narratori piu' di esperienza troveranno un sistema con un blend di regole accattivanti, ricercate, complete ma allo stesso tempo familiari.
 
 Un changelog scritto in maniera un po' piu' comprensibile dei commit e' il file changelog.md [link](https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md), mentre in diario.md [link](https://github.com/buzzqw/TUS/blob/master/diario.md) troverete i miei deliri di autore (poche cose attualmente!)
 
