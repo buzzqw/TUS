@@ -744,7 +744,10 @@ aggiornata versione POD 2024/11/11
 
 0.99.22 chiarimenti su La mia morte la tua morte - Furia - Primo Sangue, 
 
+
+
 > valutare:
+- controllare immagini che non si vedono bene stampate
 - suggerimento per il narratore, non usare lo screen
 - opportunista valutare se darlo a quali mostri
 - stress, basso alto, bonus e malus, recupero
