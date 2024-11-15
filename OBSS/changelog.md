@@ -742,7 +742,7 @@ aggiornata versione POD 2024/11/06 x
 
 aggiornata versione POD 2024/11/11
 
-0.99.22 chiarimenti su La mia morte la tua morte - Furia - Primo Sangue, 
+0.99.22 chiarimenti su La mia morte la tua morte - Furia - Primo Sangue, riorganizzazione immagini, 
 
 
 
