@@ -747,6 +747,7 @@ aggiornata versione POD 2024/11/11
 
 
 > valutare:
+- preparare fac simile personaggi
 - controllare immagini che non si vedono bene stampate
 - suggerimento per il narratore, non usare lo screen
 - opportunista valutare se darlo a quali mostri
