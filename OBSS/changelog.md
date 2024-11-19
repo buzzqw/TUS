@@ -746,7 +746,7 @@ aggiornata versione POD 2024/11/11
 
 aggiornata versione POD 2024/11/19
 
-0.99.23 
+0.99.23 tolta concentrazione ad incantesimo cecita'/sordita' - evova elementale - fatale - lama infuocata - lanciafiamme - muro di forza - passare senza tracce, 
 
 
 
