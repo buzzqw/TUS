@@ -744,6 +744,11 @@ aggiornata versione POD 2024/11/11
 
 0.99.22 chiarimenti su La mia morte la tua morte - Furia - Primo Sangue, riorganizzazione immagini, la sorpresa impone un -2 di penalita' alla Difesa e TS Riflessi, riviste regole che gestiscono il seppellito, chiarimenti su condividere gli spazi, dettagli sullo scambiarsi di posto, correzioni linguistiche, indicazioni su uso corde in arrampicata, corretti requisiti danno coordinato, ri aggiunti esempi di costruzione personaggi, 
 
+aggiornata versione POD 2024/11/19
+
+0.99.23 
+
+
 
 
 > valutare:
