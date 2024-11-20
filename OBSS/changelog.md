@@ -746,7 +746,7 @@ aggiornata versione POD 2024/11/11
 
 aggiornata versione POD 2024/11/19
 
-0.99.23 tolta concentrazione ad incantesimo cecita'/sordita' - evova elementale - fatale - lama infuocata - lanciafiamme - muro di forza - passare senza tracce, 
+0.99.23 tolta concentrazione ad incantesimo cecita'/sordita' - fatale - lanciafiamme - muro di forza - passare senza tracce, aggiornato incantesimo modificare memoria - arma spirituale - colpo fiammeggiante - cono di freddo - dardo di fuoco, corretto danno da critico magico per Palla di fuoco ritardata - disintegrazione - distruggere non morto - ferire - fiotto d'acido - frantumare - fulmine - inaridire - infliggere ferite - onda rovente - muro di fuoco - muro di ghiaccio - muro di spine - palla di fuoco - schiaffo di cattalm - sfera congelante - stretta folgorante - tempesta di ghiaccio - tocco vampirico,  
 
 
 
