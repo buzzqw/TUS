@@ -170,10 +170,10 @@ boxrule=0.3pt
 \newcolumntype{L}{>{\raggedright\arraybackslash}X}
 \newcolumntype{h}{>{\raggedright\arraybackslash}p}
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
-
-
 \renewcommand{\LettrineFontHook}{\itshape}% for the initial
 \renewcommand{\LettrineTextFont}{\itshape}% for the second argumen
+
+
 
 
 
@@ -4791,13 +4791,50 @@ Valutate bene i prerequisiti ed i vantaggi che concede, cercate sempre di essere
 
 Ricordatevi anche di segnare i bonus relativi ai Tiri Salvezza. Solitamente una Abilità concreta e pratica concede un bonus di +3 divisi tra 2 Tiri Salvezza, una Abilità più generica concede un 2 punti da dividere tra un solo Tiro Salvezza o due.
 
-\subsection*{Adepto della Magia}\index{Adepto della Magia}\hypertarget{scuoladimagia}{}\label{adeptodellamagia}\hypertarget{adeptodellamagia}{}
 
-\textbf{Requisito}: Competenza Magica 1
 
-\textbf{Tiri Salvezza}: +1 a due Tiri Salvezza a propria scelta.
+%\newcommand{\ability}[5]{
+%\titleformat{\subsubsection}
+%{\normalfont\Large\bfseries\color{black}}{\thesubsubsection}{1em}{}
+%\subsubsection*{#1}\index{#1}\label{#2}\hypertarget{#2}{}
+%\begin{mdframed}[linecolor=black,linewidth=2pt,topline=false,rightline=false,bottomline=false]
+%	\noindent\textbf{Requisito:} #3 \par
+%	\noindent\textbf{Tiri Salvezza:} #4	\par		
+%	\noindent\textbf{Caratteristica potenziata:} #5 \par
+%\end{mdframed}
+%}
 
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi
+
+
+\newcommand{\ability}[5]{
+\titleformat{\subsubsection}
+{\normalfont\Large\bfseries\color{black}}{\thesubsubsection}{1em}{}
+\subsubsection*{#1}\index{#1}\label{#2}\hypertarget{#2}{}
+\begin{tcolorbox}[
+	enhanced,
+	colback=white,
+	colframe=black,
+	boxrule=0pt,
+	left=0pt,
+	right=0pt,
+	top=0pt,
+	bottom=0pt,
+	sharp corners,
+	boxsep=3pt,
+	leftrule=2pt,
+	toprule=0pt,
+	bottomrule=0pt,
+	rightrule=0pt]
+	\noindent\textbf{Requisito:} #3 \par
+	\noindent\textbf{Tiri Salvezza:} #4	\par		
+	\noindent\textbf{Caratteristica potenziata:} #5 \par
+\end{tcolorbox}
+}
+
+\subsection{Elenco Abilità}
+
+	
+\ability{Adepto della Magia}{adeptodellamagia}{Competenza Magica 1}{+1 a due Tiri Salvezza a propria scelta.}{Modificatore di caratteristica per incantesimi}
 
 Tramite questa Abilità si approfondisce la capacità di lanciare incantesimi.
 
@@ -4807,13 +4844,7 @@ Ogni volta che prendi questa Abilità \emph{apprendi} un incantesimo in più pre
 
 L'Abilità è prendibile più volte purché sia inferiore a CM/2.
 
-\subsection*{Ali della Fenice}\index{Ali della Fenice}\label{alidellafenice}\hypertarget{alidellafenice}{}
-
-\textbf{Requisito}: Lista Pugno Vuoto 3, Gru d'Argento 1
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Destrezza o Forza
+\ability{Ali della Fenice}{alidellafenice}{Lista Pugno Vuoto 3, Gru d'Argento 1}{+2 Riflessi, +1 Tempra}{Destrezza o Forza}
 
 Il tuo stile di combattimento enfatizza i colpi portati da lontano come pugni e calci volanti.
 
@@ -4825,23 +4856,11 @@ Le \textbf{terza volta} che prendi questa Abilità, requisito Lista Pugno Vuoto 
 
 Finché l'avversario non raggiunge alla propria distanza di mischia il personaggio quest'ultimo avrà un bonus di +2 al colpire, come se usasse un arma lunga.
 
-\subsection*{Allungo}\index{Allungo}\label{allungo}\hypertarget{allungo}{}
-
-\textbf{Requisito}: Competenza Armi 2
-
-\textbf{Tiri Salvezza}: +1 Volontà, +2 Tempra
-
-\textbf{Caratteristica Potenziata}: Destrezza o Forza
+\ability{Allungo}{allungo}{Competenza Armi 2}{+1 Volontà, +2 Tempra}{Destrezza o Forza}
 
 Usi una Azione in concomitanza alla tua Azione di Attacco aumentare la portata di 1 metro con il tuo colpo. Se l'avversario non ha Armi lunghe o portata 2m ottieni anche +2 al Tiro per Colpire.
 
-\subsection*{Animalia}\index{Animalia}\label{amimalia}\hypertarget{animalia}{}
-
-\textbf{Requisito}: Seguace o Devoto di Efrem oppure Shayalia, Competenza Magica 2.
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi
+\ability{Animalia}{animalia}{Seguace o Devoto di Efrem oppure Shayalia, Competenza Magica 2.}{+2 Volontà, +1 Tempra}{Modificatore di caratteristica per incantesimi}
 
 Si acquisisce la capacità di trasformarsi in una creatura conosciuta. Costo 2 Azioni.
 
@@ -4933,16 +4952,10 @@ Le forme di attacco sono sempre quelle delle creatura.
 
 Della nuova forma acquisisce le caratteristiche e capacità, come sensi, movimento, lingue (ma non è detto che che possa parlare altre lingue oltre quella dell'animale).
 
-Quando sei trasformato puoi canalizzare i tuoi Punti Magia per migliorare la trasformazione, per ogni Punto Magia consumato nel round prendi un +1 al Tiro per Colpire, danno con gli attacchi, Difesa e Tiri Salvezza. La capacità va dichiarata all'inizio del round come Azione Immediata che dura fino all'inizio del tuo round successivo. 
+Quando sei trasformato puoi canalizzare i tuoi Punti Magia per migliorare la trasformazione, per ogni Punto Magia consumato nel round prendi un +1 al Tiro per Colpire, danno con gli attacchi, Difesa e Tiri Salvezza. La capacità va dichiarata all'inizio del round come Azione Immediata che dura fino all'inizio del tuo round successivo.
 
-
-\subsection*{Animaletto / Famiglio}\index{Famiglio}\label{famiglio-abilita}\hypertarget{animaletto}{}
-
-\textbf{Requisito}: Competenza Magica 1
-
-\textbf{Tiri Salvezza}: +1 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Intelligenza o Modificatore di caratteristica per incantesimi
+\ability{Animaletto / Famiglio}{animaletto}{Competenza Magica 1}{+1 Volontà, +1Tempra
+}{Intelligenza o Modificatore di caratteristica per incantesimi}
 
 Guadagni un animale naturale. Questo animaletto ha un Grado di Sfida pari a metà della tua Saggezza. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
 
@@ -4954,25 +4967,13 @@ La \textbf{seconda volta} che prendi questa Abilità guadagni un \hyperlink{fami
 \emph{Henry Justice Ford}
 \end{center}
 
-\subsection*{Armato}\index{Armato}\label{armato}\hypertarget{armato}{}
-
-\textbf{Requisito}: Forza 3, Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +2 Tempra
-
-\textbf{Caratteristica Potenziata}: Forza o Costituzione
+\ability{Armato}{armato}{Forza 3, Competenza Armi 1}{+2 Tempra}{Forza o Costituzione}
 
 Quando usi un arma di una taglia troppo grande la penalità al colpire diventa -2.
 
 La \textbf{seconda volta} che prendi questa Abilità, requisito  Competenza Armi 6, non hai penalità nell'usare un arma di una taglia superiore.
 
-\subsection*{Armatura del Devoto}\index{Armatura del Devoto}\label{armaturadeldevoto}\hypertarget{armaturadeldevoto}{}
-
-\textbf{Requisito}: Valore singolo Tratto in comune con il Patrono 4, essere Devoto o Seguace
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Costituzione o Modificatore di caratteristica per incantesimi
+\ability{Armatura del Devoto}{armaturadeldevoto}{Valore singolo Tratto in comune con il Patrono 4, essere Devoto o Seguace}{+2 Volontà, +1 Riflessi}{Costituzione o Modificatore di caratteristica per incantesimi}
 
 Il costante allenamento con la tua armatura ti permette di indossare armature leggere senza dover fare una Prova di Magia.
 
@@ -4982,13 +4983,7 @@ La \textbf{terza volta} che si prende questa Abilità, requisito singolo Tratto 
 
 La \textbf{quarta volta} che si prende l'Abilità, requisito singolo Tratto 12, esegui la Prova di Magia senza dadi aggiuntivi dati da armature pesanti.
 
-\subsection*{Armatura della Montagna Incantata}\index{Armatura della Montagna Incantata}\label{armaturamontagnaincantata}\hypertarget{armaturadellamontagnaincantata}{}
-
-\textbf{Requisito}: Lista armi Pugno Vuoto 1, Competenza Armi 1, Costituzione 2, Saggezza 1
-
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Costituzione o Saggezza
+\ability{Armatura della Montagna Incantata}{armaturadellamontagnaincantata}{Lista armi Pugno Vuoto 1, Competenza Armi 1, Costituzione 2, Saggezza 1}{+2 Tempra, +1 Volontà}{Costituzione o Saggezza}
 
 Il constante allenamento nello spirito e corpo di permette di indurire la tua pelle e renderla più difficile da ferire. Per usufruire di questi bonus non devi portare armature o scudi od oggetti che migliorino la Difesa. Le capacità elencate non sono cumulabili con l'Abilità Gru d'Argento.
 
@@ -5002,18 +4997,12 @@ La \textbf{quarta volta} che prendi questa Abilità, requisito Pugno Vuoto 8, ac
 
 La \textbf{quinta volta} che prendi questa Abilità, requisito Pugno Vuoto 13, acquisisci una riduzione al danno (DR) di 5/-
 
+\ability{Arciere a cavallo}{arciereacavallo}{Competenza Armi 1}{+1 Riflessi, +1 Tempra}{Destrezza o Saggezza}
 
-%\subsection*{Arciere a cavallo}\index{Arciere a cavallo}\label{arcereacavallo}
-%
-%\textbf{Requisito}: Competenza Armi 1
 
-%\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
-%
-%\textbf{Caratteristica Potenziata}: Destrezza o Saggezza
-%
-%le penalità di tirare frecce da cavallo diminuisce di 2 ogni volta che prendi questa Abilità.
-%
-%Le penalità standard sono -4 e -6 a seconda che si trotti (movimento x2) o galoppi (movimento x3)
+le penalità di tirare frecce da cavallo diminuisce di 2 ogni volta che prendi questa Abilità.
+
+Le penalità standard sono -4 e -6 a seconda che si trotti (movimento x2) o galoppi (movimento x3)
 
 %\begin{center}
 %\includegraphics[width=0.9\linewidth]{immagini/horsearcher.png}
@@ -5021,24 +5010,11 @@ La \textbf{quinta volta} che prendi questa Abilità, requisito Pugno Vuoto 13, a
 %\emph{Arcere Assiro}
 %\end{center}
 
-
-\subsection*{Arma Focalizzata}\index{Arma Focalizzata}\label{armafocalizzata}\hypertarget{armafocalizzata}{}
-
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Forza o Destrezza
+\ability{Arma Focalizzata}{armafocalizzata}{Competenza Armi 1}{+1 Riflessi, +1 Tempra}{Forza o Destrezza}
 
 Scegli un arma in una Lista d'Armi che conosci. Ottieni un +1 a Iniziativa e Tiro per Colpire quando usi questa arma.
 
-\subsection*{Artista dell'Arma}\index{Artista dell'Arma}\label{artistadellarma}\hypertarget{artistadellarma}{}
-
-\textbf{Requisito}: Competenza Armi 2
-
-\textbf{Tiri Salvezza}: +1 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Destrezza o Forza
+\ability{Artista dell'Arma}{artistadellarma}{Competenza Armi 2}{+1 Volontà, +1 Tempra}{Destrezza o Forza}
 
 Scegli una Lista d'Armi, su queste armi ottieni un +1 al colpire.
 
@@ -5046,25 +5022,13 @@ L'Abilità può essere presa più volte, con almeno CA 5,9,13,17.
 
 Se prendi \textbf{4 volte} quest'Abilità sulla stessa Lista d'Armi i bonus al colpire si riducono a +1, invece che +4, ma effettui due Tiri per Colpire per i primi due attacchi del round e scegli il tiro da tenere.
 
-\subsection*{Attacco Turbinante}\index{Attacco turbinante}\label{attaccoturbinante}\hypertarget{attaccoturbinante}{}
-
-\textbf{Requisito}: Competenza Armi 12, Intrattenere 3
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Destrezza o Carisma
+\ability{Attacco Turbinante}{attaccoturbinante}{Competenza Armi 12, Intrattenere 3}{+2 Riflessi, +1 Tempra}{Destrezza o Carisma}
 
 Usando 3 Azioni puoi eseguire un singolo attacco (con penalità di 1d6 al Tiro per Colpire) contro tutti gli avversari in mischia attorno a te.
 
 La \textbf{seconda volta} che prendi questa Abilità, Competenza Armi 15, Intrattenere 5, non hai la penalità al Tiro per Colpire.
 
-\subsection*{Batteria Magica}\index{Batteria Magica}\label{batteriamagica}\hypertarget{batteriamagica}{}
-
-\textbf{Requisito}: Competenza Magica 3
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi
+\ability{Batteria Magica}{batteriamagica}{Competenza Magica 3}{+2 Volontà, +1 Tempra}{Modificatore di caratteristica per incantesimi}
 
 Hai una particolare connessione con la magia che permane la Terra.
 
@@ -5072,25 +5036,21 @@ La prima volta che prendi questa Abilità aumenti di 3 i punti Magia a disposizi
 
 Le volte successive, requisito CM 6/9/12, aumenti i Punti Magia di un valore pari all'aumento precedente +1.
 
-\subsection*{Batteria Estesa}\index{Batteria Estesa}\label{batteriaestesa}\hypertarget{batteriaestesa}{}
-
-\textbf{Requisito}: Competenza Magica 1, Adepto della Magia
-
-\textbf{Tiri Salvezza}: + 1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi
+\ability{Batteria Estesa}{batteriaestesa}{Competenza Magica 1, Adepto della Magia}{+ 1 Tempra, +1 Volontà}{Modificatore di caratteristica per incantesimi}
 
 Riesci a sopportare meglio lo stress di lanciare incantesimi.
 
 Quando effettui una Prova di Magia e riesci in almeno un Successo Critico Magico il costo dell'incantesimo diminuisce di un punto, con un costo minimo di 1.
 
-\subsection*{Colpo Furtivo}\index{Colpo furtivo}\index{Attacco alle spalle}\label{attaccoallespalle}\label{colpofurtivo}\hypertarget{colpofurtivo}{}
 
-\textbf{Requisito}: Competenza Armi 3
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/teseo.png}
+	
+	\emph{Henry Justice Ford - Colpo furtivo!}
+\end{center}
 
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
 
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+\ability{Colpo Furtivo}{colpofurtivo}{Competenza Armi 3}{+2 Riflessi, +1 Volontà}{Destrezza o Intelligenza}
 
 Quando l'avversario viene attaccato in mischia alle spalle, il primo attacco del combattimento andato a segno con arma di mischia, causa un danno critici aggiuntivi.
 
@@ -5101,65 +5061,27 @@ La \textbf{terza volta} che si prende questa Abilità, requisito Competenza Armi
 La \textbf{quarta} che si prende questa Abilità, requisito Competenza Armi 12, causi 4 danni critici aggiuntivi.
 
 
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/teseo.png}
-
-\emph{Henry Justice Ford - Colpo furtivo!}
-\end{center}
-
-\subsection*{Colpo Indebolente}\index{Colpo Indebolente}\label{colpoindebolente}\hypertarget{colpoindebolente}{}
-
-\textbf{Requisito}: Colpo furtivo 3, Competenza Armi 12
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Intelligenza o Destrezza
+\ability{Colpo Indebolente}{colpoindebolente}{Colpo furtivo 3, Competenza Armi 12}{+2 Riflessi, +1 Volontà}{Intelligenza o Destrezza}
 
 Colpo Indebolente è una forma avanzata di colpo furtivo. Ogni Colpo Indebolente abbassa Forza o Destrezza (scelta giocatore) di quante volte si è preso Colpo Furtivo.
 
 All'avversario è concesso un Tiro Salvezza Tempra con DC pari al Tiro per Colpire. Si causa il danno aggiuntivo del Colpo Furtivo o la perdita di punti caratteristica.
 
-\subsection*{Colpo Mortale}\index{Colpo Mortale}\label{colpomortale}\hypertarget{colpomortale}{}
-
-\textbf{Requisito}: Competenza Armi 5
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Saggezza o Forza
+\ability{Colpo Mortale}{colpomortale}{Competenza Armi 5}{+2 Riflessi, +1 Volontà}{Saggezza o Forza}
 
 Esegui il Tiro per Colpire con penalità di -1d6, se colpisci causi 3 danni critici. I Tiri per Colpire successivi partono da -10 al colpire.
 
-\subsection*{Colpo Paralizzante}\index{Colpo Paralizzante}\label{colpoparalizzante}\hypertarget{colpoparalizzante}{}
-
-\textbf{Requisito}: Colpo Indebolente, Colpo furtivo 4, Competenza Armi 18
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Forza o Destrezza
+\ability{Colpo Paralizzante}{colpoparalizzante}{Colpo Indebolente, Colpo furtivo 4, Competenza Armi 18}{+2 Riflessi, +1 Tempra}{Forza o Destrezza}
 
 Dedichi 2 Azioni a Round, per 5 round, a studiare un avversario che puoi minacciare. Nel sesto round utilizzando 2 Azioni porti un attacco in mischia o da distanza. L'avversario deve effettuare un Tiro Salvezza su Tempra con DC pari al Tiro per Compire o rimanere paralizzato per 3d6 round.
 
-\subsection*{Colpi Poderosi}\index{Colpi poderosi}\label{colpipoderosi}\hypertarget{colpipoderosi}{}
-
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +2 Tempra
-
-\textbf{Caratteristica Potenziata}: Forza o Costituzione
+\ability{Colpi Poderosi}{colpipoderosi}{Competenza Armi 1}{+2 Tempra}{Forza o Costituzione}
 
 Il tuo stile enfatizza colpi poderosi.
 
 Guadagni un +1 al danno con una Lista d'Arma.
 
-\subsection*{Combattere alla Cieca}\index{Combattere alla Cieca}\label{combattereallacieca}\hypertarget{combattereallacieca}{}
-
-E' l'abilità di attaccare in mischia gli avversari che non sono chiaramente percepibili.
-
-\textbf{Requisito}: Consapevolezza 2
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Destrezza o Saggezza
+\ability{Combattere alla Cieca}{combattereallacieca}{Consapevolezza 2}{+2 Riflessi, +1 Volontà}{Destrezza o Saggezza}
 
 Un avversario con copertura leggera non ottiene bonus alla Difesa, con copertura media ha un +2 alla Difesa, con copertura completa ha un +6 alla Difesa.
 
@@ -5173,13 +5095,7 @@ La penalità al Tiro per Colpire contro creature invisibili è -2.
 
 \emph{Livello Zatoichi}, la \textbf{terza volta} che prendi l'Abilità, requisito Consapevolezza a 5, in mischia una creatura invisibile non ha alcun vantaggio contro di te ne tu hai penalità contro di lei.
 
-\subsection*{Combattimento con due armi}\index{Combattimento con due armi}\index{Due armi}\label{duearmi}\hypertarget{combattimentoconduearmi}{}
-
-\textbf{Requisito}: Destrezza 2, Forza 1, Competenza Armi 2
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Destrezza o Forza
+\ability{Combattimento con due armi}{combattimentoconduearmi}{Destrezza 2, Forza 1, Competenza Armi 2}{+2 Riflessi, +1 Tempra}{Destrezza o Forza}
 
 La \textbf{prima volta} che prendi questa Abilità il constante è continuo allenamento ti permette di ridurre la penalità del multiattacco dato dall'attacco con l'arma secondaria. Quando attacchi con l'arma secondaria cumuli penalità al colpire di -4 al posto di -5 se l'arma è leggera.
 
@@ -5191,43 +5107,38 @@ La \textbf{seconda volta} se l'arma secondaria non è leggera non cumuli l'ulter
 
 La \textbf{terza volta} il primo attacco effettuato con l'arma secondaria non cumula la penalità degli attacchi multipli.
 
-\subsection*{Concentrato}\index{Concentrato}\label{concentrato}\hypertarget{concentrato}{}
+\ability{Concentrato}{concentrato}{Competenza Magica 2}{+1 Tempra, +1 Volontà
 
-\textbf{Requisito}: Competenza Magica 2
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi
+}{Modificatore di caratteristica per incantesimi}
 
 Scegli una Lista di Magia, la DC dei Tiri Salvezza dei tuoi incantesimi in quella lista aumenta di 1.
 
 L'Abilità può essere presa più volte sulla stessa Lista di Magia o su altre liste ed il totale deve essere pari o inferiore a CM/4.
 
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/Historia_Mundi_Naturalis.png}
 
-\emph{Woodcut illustration from an edition of Pliny the Elder's Naturalis Historia (1582)}
-\end{center}
 
-\subsection*{Conoscenza istintiva}\index{Conoscenza istintiva}\label{conoscenzaistintiva}\hypertarget{conoscenzaistintiva}{}
+\ability{Conoscenza istintiva}{conoscenzaistintiva}{Conoscenza 1
 
-\textbf{Requisito}: Conoscenza 1
+}{+2 Volontà, +1 Tempra
 
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Saggezza o Intelligenza
+}{Saggezza o Intelligenza}
 
 Non dimentichi mai un nemico.
 
 Hai una istintiva capacità nel ricordare e valutare un nemico. Quando prendi questa Abilità puoi effettuare una prova di \hyperlink{riconoscereimostri}{Riconoscere un Mostro} (pag. \pageref{riconoscereimostri}) utilizzando una Reazione.
 
-\subsection*{Creare Oggetti Magici}\index{Creare Oggetti Magici}\label{creaoggettimagici}\hypertarget{creareoggettimagici}{}
+\begin{center}
+	\includegraphics[width=0.8\linewidth]{immagini/oggettimagiciuomo.png}
+	
+	\emph{Henry Purcell - King Arthur}
+\end{center}
 
-\textbf{Requisito}: Competenza Magica 6
 
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
+\ability{Creare Oggetti Magici}{creareoggettimagici}{Competenza Magica 6
 
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+}{+1 Tempra, +1 Volontà
+
+}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Tramite questa Abilità l'incantatore è in grado di infondere un incantesimo fino a livello 3 in un oggetto magico.
 
@@ -5237,31 +5148,22 @@ Le \textbf{terza volta} che prendi questa Abilità, requisito Competenza Magica 
 
 Le \textbf{quarta volta} che prendi questa Abilità, requisito Competenza Magica 18, l'incantatore è in grado di infondere un incantesimo fino a livello 9 in un oggetto magico.
 
-\begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/oggettimagiciuomo.png}
 
-\emph{Henry Purcell - King Arthur}
-\end{center}
+\ability{Dadi Truccati}{daditruccati}{Competenza Magica 6
 
-\subsection*{Dadi Truccati}\index{Dadi truccati}\label{daditruccati}\hypertarget{daditruccati}{}
+}{+1 Tempra, +1 Riflessi
 
-\textbf{Requisito}: Competenza Magica 6
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Saggezza o Carisma
+}{Saggezza o Carisma}
 
 Puoi aumentare di 1, entro il valore di 6, un dado nella Prova di Magia.
 
 La \textbf{seconda volta} che prendi quest'Abilità, requisito Competenza Magica 12, puoi aumentare di 1, entro il valore di 6, un ulteriore dado nella Prova di Magia.
 
-\subsection*{Danno Coordinato}\index{Danno Coordinato}\label{dannocoordinato}\hypertarget{dannocoordinato}{}
+\ability{Danno Coordinato}{dannocoordinato}{Competenza Armi 6, Saggezza 2
 
-\textbf{Requisito}: Competenza Armi 6, Saggezza 2
+}{+2 Volontà
 
-\textbf{Tiri Salvezza}: +2 Volontà
-
-\textbf{Caratteristica Potenziata}: Carisma o Intelligenza
+}{Carisma o Intelligenza}
 
 La tua esperienza nel gestire gli alleati ti permette di massimizzare l'efficacia degli attacchi.
 
@@ -5271,13 +5173,7 @@ La \textbf{seconda volta} che prendi quest'Abilità, requisito Competenza Armi 8
 
 E' necessario che i Tiri per Colpire vadano a segno per poter applicare il danno all'altro avversario.
 
-\subsection*{Danza della Lama}\index{Danza della Lama}\label{danzadellalama}\hypertarget{danzadellalama}{}
-
-\textbf{Requisito}: Lista d'Armi: Armi Aggraziate a 2, Destrezza o Carisma 1, Intrattenere 1
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Carisma o Destrezza
+\ability{Danza della Lama}{danzadellalama}{Lista d'Armi: Armi Aggraziate a 2, Destrezza o Carisma 1, Intrattenere 1}{+2 Riflessi, +1 Tempra}{Carisma o Destrezza}
 
 Quando usi Armi Aggraziate puoi sostituire il solo danno dato dalla Forza negli attacchi di mischia con metà del valore del Carisma o Destrezza.
 
@@ -5287,77 +5183,39 @@ La \textbf{terza volta}, requisito Armi Aggraziate 7, Intrattenere 5, che prendi
 
 Il secondo e terzo vantaggio non sono cumulativi.
 
-\subsection*{Dattilografo}\index{Dattilografo}\label{dattilografo}\hypertarget{dattilografo}{}
-
-\textbf{Requisito}: Competenza Magica 1
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Destrezza
+\ability{Dattilografo}{dattilografo}{Competenza Magica 1}{+1 Tempra, +1 Volontà}{Modificatore di caratteristica per incantesimi o Destrezza}
 
 Sei estremamente rapido nel copiare nuovi incantesimi sul tuo Tomo della Magia. Il tempo per copiare un incantesimo passa da 1 ora a 30 minuti a pagina (un incantesimo occupa un numero di pagine pari al proprio livello). Il costo in inchiostri passa da 10 mo a pagina a 5 mo a pagina.
 
-\subsection*{Decifrare scritti magici}\index{Decifrare scritti magici}\label{decifrarescrittimagici}\hypertarget{decifrarescrittimagici}{}
-
-\textbf{Requisito}: Competenza Magica 1
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Saggezza
+\ability{Decifrare scritti magici}{decifrarescrittimagici}{Competenza Magica 1}{+1 Tempra, +1 Volontà}{Modificatore di caratteristica per incantesimi o Saggezza}
 
 Ha un bonus di +1d6 nel comprendere il contenuto di una pergamena e nel lanciare l'incantesimo contenuto. Il bonus si applica anche alla prova per copiare un incantesimo sul proprio Tomo della magia.
 
-\subsection*{Difendere Cavalcatura}\index{Difendere Cavalcatura}\label{difenderecavalcatura}\hypertarget{difenderecavalcatura}{}
+\ability{Difendere Cavalcatura}{difenderecavalcatura}{Cavalcare 1}{+1 Tempra, +1 Riflessi}{Destrezza o Saggezza}
 
-\textbf{Requisito}: Cavalcare 1
+Ogni qual volta la cavalcatura viene colpita, puoi effettuare una prova di Cavalcare per negare il colpo. 
 
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Saggezza
-
-Ogni qual volta la cavalcatura viene colpita, puoi effettuare una prova di Cavalcare per negare il colpo. La tua prova di Cavalcare deve essere maggiore del Tiro per Colpire dell'avversario
+La tua prova di Cavalcare deve essere maggiore del Tiro per Colpire dell'avversario
 
 L'Abilità è utilizzabile solo una volta per round, per un solo attacco, costa la Reazione.
 
-\subsection*{Difesa pronta}\index{Difesa pronta}\label{difesapronta}\hypertarget{difesapronta}{}
+\ability{Difesa pronta}{difesapronta}{Competenza Armi 2}{+2 Riflessi}{Destrezza o Intelligenza}
 
-\textbf{Requisito}: Competenza Armi 2
+Sei sempre vigile ed attento quando rischi la vita. 
 
-\textbf{Tiri Salvezza}: +2 Riflessi
+Hai un +2 alla Difesa contro gli attacchi di opportunità, alle spalle, o da fiancheggiato.
 
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+\ability{Distillare pozioni}{distillarepozioni}{Competenza Magica 1}{+1 Tempra, +1 Volontà}{Saggezza o Intelligenza}
 
-Sei sempre vigile ed attento quando rischi la vita. Hai un +2 alla Difesa contro gli attacchi di opportunità, alle spalle, o da fiancheggiato.
-
-\subsection*{Distillare pozioni}\index{Distillare pozioni}\label{distillarepozioni}\hypertarget{distillarepozioni}{}
-
-\textbf{Requisito}: Competenza Magica 1
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Saggezza o Intelligenza
-
-Competenza nel distillare pozioni.
+Sei più che competente nel distillare pozioni.
 
 Acquisti un bonus di +1d6 su Conoscenze Erboristeria, distillare creare pozioni e veleni naturali.
 
-\subsection*{Doppia porzione}\index{Doppia porzione}\label{doppiaporzione}\hypertarget{doppiaporzione}{}
-
-\textbf{Requisito}: Combattimento con due armi, Competenza Armi 4
-
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Forza o Costituzione
+\ability{Doppia porzione}{doppiaporzione}{Combattimento con due armi, Competenza Armi 4}{+2 Tempra, +1 Riflessi}{Forza o Costituzione}
 
 Il costante allenamento con due armi ti permette di applicare il bonus al danno dovuto alla Forza in maniera piena anche all'arma secondaria.
 
-\subsection*{Energia Psichica}\index{Energia Psichica}\label{energiapsichica}\hypertarget{energiapsichica}{}
-
-\textbf{Requisito}: Forza 1, Saggezza 2, Competenza Armi 1, Competenza Magica 1
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Saggezza o Carisma
+\ability{Energia Psichica}{energiapsichica}{Forza 1, Saggezza 2, Competenza Armi 1, Competenza Magica 1}{+2 Volontà, +1 Tempra}{Saggezza o Carisma}
 
 Dopo anni di allenamento, meditazione e stage a Panda Barbat sei in grado di raccogliere la tua Energia Chi.
 
@@ -5367,16 +5225,12 @@ La \textbf{seconda volta} che prendi questa Abilità, requisito Forza 1, Saggezz
 
 Recuperi 1 punto Chi ogni 10 minuti in cui il personaggio non effettua attività impegnative.
 
-\subsection*{Colpo Psichico}\index{Colpo Psichico}\label{colpopsichico}\hypertarget{colpopsichico}{}
-
-\textbf{Requisito}: Energia Psichica, Destrezza 1
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Saggezza o Forza
+\ability{Colpo Psichico}{colpopsichico}{Energia Psichica, Destrezza 1}{+2 Volontà, +1 Tempra}{Saggezza o Forza}
 
 Concentri il tuo Chi nelle tue mani.
+
 Puoi concentrare un numero di punti Chi pari alla Saggezza.
+
 Con un Attacco a Tocco andato a segno, nel round scarichi l'energia che causa 1d6 danni da forza per punto Chi usato, fino ad un massimo di punti Chi pari al punteggio di Saggezza.
 
 Il colpo si considera come portato da un arma magica con un bonus pari ai punti Chi usati.
@@ -5387,59 +5241,26 @@ La \textbf{terza volta} che prendi questa Abilità, Competenza Armi 3, se il Tir
 
 La \textbf{quarta volta} che prendi questa Abilità, Competenza Armi 7, Saggezza 4, se il Tiro per Colpire va a segno consumi tre punti Chi in meno. Puoi usare un numero di punti Chi contemporaneo pari al doppio del valore della Saggezza.
 
-\subsection*{Raggio Psichico}\index{Raggio Psichico}\label{raggiopsichico}\hypertarget{raggiopsichico}{}
-
-\textbf{Requisito}: Colpo Psichico, Saggezza 3, Competenza Armi 5
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Saggezza o Destrezza
+\ability{Raggio Psichico}{raggiopsichico}{Colpo Psichico, Saggezza 3, Competenza Armi 5}{+2 Riflessi, +1 Volontà}{Saggezza o Destrezza}
 
 Puoi effettuare un attacco a distanza entro 9 metri usando l'Energia Psichica.
+
 L'Attacco, a Tocco, causa 1d6 di danno da forza per punto Psichico speso focalizzato sul danno.
 
-E' possibile focalizzare uno o più punti Psichici per aumentare la distanza ogni volta di 9 metri.
-Non puoi usare un numero di punti Chi totali (per distanza e e danno) superiore alla Saggezza.
+E' possibile focalizzare uno o più punti Psichici per aumentare la distanza ogni volta di 9 metri. Non puoi usare un numero di punti Chi totali (per distanza e e danno) superiore alla Saggezza.
 
 La \textbf{seconda volta} che prendi questa Abilità requisito Saggezza 3, Competenza Armi 9, puoi utilizzare fino a doppio del tuo punteggio in Saggezza per potenziare il Raggio Psichico.
 
-\subsection*{Elementalista}\index{Elementalista}\label{elementalista}\hypertarget{elementalista}{}
-
-\textbf{Requisito}: Competenza Magia 3, Almeno 4 incantesimi da Lista di Magia Elementale
-
-\textbf{Tiri Salvezza}: +1 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Costituzione
+\ability{Elementalista}{elementalista}{Competenza Magia 3, Almeno 4 incantesimi da Lista di Magia Elementale}{+1 Volontà, +1 Tempra}{Modificatore di caratteristica per incantesimi o Costituzione}
 
 Scegli un tipo di Energia Elementale: Fuoco, Elettricità, Freddo, Suono.
 
 Sei capace di scambiare gli elementi presenti nei tuoi incantesimi. Puoi sostituire un tipo di danno di energia elementale con il danno scelto quando ha preso questa Abilità.
-
 Il tempo di lancio dell'incantesimo aumenta di 1 Azione, se il tempo totale di lancio supera le 3 Azioni non è possibile usare questa Abilità sull'incantesimo.
 
 La \textbf{seconda volta} che prendi questa Abilità, requisito Competenza Magica 6, scegli un nuovo tipo di Energia. Quando effettui la sostituzione puoi scegliere tra i tipi di energia a disposizione. Non hai più la penalità al tempo di lancio dell'incantesimo.
 
-\begin{center}
-%\includegraphics[width=0.7\linewidth]{immagini/distillare.png}
-
-%\emph{The Alchemist Discovering Phosphorus. Joseph Wright of Derby (1771-1795)}
-
-\includegraphics[width=0.7\linewidth]{immagini/Theatrum_Chemicum_Britannicum.png}
-
-\emph{Theatrum Chemicum Britannicum, 1652}
-
-\end{center}
-
-
-
-
-\subsection*{Esperto}\index{Esperto}\label{esperto}\hypertarget{esperto}{}
-
-\textbf{Requisito}: Caratteristica collegata almeno a -1
-
-\textbf{Tiri Salvezza}: +1 a due Tiri Salvezza a scelta.
-
-\textbf{Caratteristica Potenziata}: a scelta
+\ability{Esperto}{esperto}{Caratteristica collegata almeno a -1}{+1 a due Tiri Salvezza a scelta.}{a scelta}
 
 Sei un esperto in un argomento. Ogni qual volta prendi questa Abilità guadagni un +1 alle prove su una Competenza a tua scelta.
 
@@ -5449,17 +5270,21 @@ La \textbf{terza volta} che prendi questa Abilità aggiungi 1d6 alla prova. Puoi
 
 La \textbf{quarta volta} che prendi questa Abilità consideri il totale dei dadi tirati come 10 se ha tirato da 4-9.
 
-Il bonus sono cumulativi se riferiti sempre la stessa Competenza. Non è usabile su Consapevolezza (vedi \hyperlink{percettivo}{Percettivo}, pag. \pageref{percettivo}).
+Il bonus sono cumulativi se riferiti sempre la stessa Competenza. 
 
-\subsection*{Estrazione rapida}\index{Estrazione rapida}\label{estrazionerapida}\hypertarget{estrazionerapida}{}
+Non è usabile su Consapevolezza (vedi \hyperlink{percettivo}{Percettivo}, pag. \pageref{percettivo}).
 
-Sei estremamente rapido nell'estrarre la tua arma.
+\begin{center}
+	%\includegraphics[width=0.7\linewidth]{immagini/distillare.png}
+	
+	%\emph{The Alchemist Discovering Phosphorus. Joseph Wright of Derby (1771-1795)}
+	
+	\includegraphics[width=0.7\linewidth]{immagini/Theatrum_Chemicum_Britannicum.png}
+	
+	\emph{Theatrum Chemicum Britannicum, 1652}
+\end{center}
 
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+\ability{Estrazione rapida}{estrazionerapida}{Competenza Armi 1}{+1 Riflessi, +1 Volontà}{Destrezza o Intelligenza}
 
 Puoi estrarre un arma per te non grande con il costo di una Azione immediata.
 
@@ -5467,27 +5292,15 @@ La \textbf{seconda volta} che prendi questa Abilità puoi riporre l'arma attuale
 
 La \textbf{terza volta} che prendi questa Abilità puoi riporre l'arma attuale ed estrarne un'altra senza usare azioni.
 
-\subsection*{Fare Infuriare}\index{Fare Infuriare}\label{fareinfuriare}\hypertarget{fareinfuriare}{}
+\ability{Fare Infuriare}{fareinfuriare}{Competenza Armi 2 e Carisma o Forza 2}{+2 Volontà, +1 Tempra}{Forza o Carisma}
 
-Le tue abilità dialettiche sono incredibili.
+Impieghi 2 Azioni ad infamare ed inveire contro un avversario. 
 
-\textbf{Requisito}: Competenza Armi 2 e Carisma o Forza 2
-
-\textbf{Caratteristica Potenziata}: Forza o Carisma
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-Impieghi 2 Azioni ad infamare ed inveire contro un avversario. Il target deve fare una prova contrapposta di Tiro Salvezza Volontà contro la tua prova di competenza Intrattenere od Intimidire oppure perdere il bonus di Destrezza (Tiri Salvezza, Tiro Colpire e Difesa) fino alla fine del tuo round successivo.
+Il target deve fare una prova contrapposta di Tiro Salvezza Volontà contro la tua prova di competenza Intrattenere od Intimidire oppure perdere il bonus di Destrezza (Tiri Salvezza, Tiro Colpire e Difesa) fino alla fine del tuo round successivo.
 
 L'avversario può non comprendere la tua lingua ma deve avere Intelligenza pari a -2 o più.
 
-\subsection*{Fedele}\index{Fedele}\label{fedele}\hypertarget{fedele}{}
-
-\textbf{Requisito}: Competenza Magica 1, Somma valore Tratti in comune 2, essere Devoto
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Saggezza
+\ability{Fedele}{fedele}{Competenza Magica 1, Somma valore Tratti in comune 2, essere Devoto}{+2 Volontà, +1 Tempra}{Modificatore di caratteristica per incantesimi o Saggezza}
 
 La tua connessione con il Patrono è forte ed energetica. Aumenti i tuoi Punti Magia di 3 punti.
 
@@ -5495,13 +5308,7 @@ Le volte successive, requisito somma valore Tratti comune con il Patrono 6/9/12,
 
 Quest'Abilità non si cumula con l'Abilità Batteria Magica.
 
-\subsection*{Ferocia}\index{Ferocia}\label{ferocia}\hypertarget{ferocia}{}
-
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Costituzione o Forza
+\ability{Ferocia}{ferocia}{Competenza Armi 1}{+2 Tempra, +1 Volontà}{Costituzione o Forza}
 
 La tua rabbia è tale da sconfiggere, temporaneamente, la morte.
 
@@ -5517,15 +5324,9 @@ La \textbf{quarta volta} che prendi questa Abilità, requisito Competenza Armi 1
 
 Il giocatore può scegliere un solo grado di Ferocia da usare nello scontro (2, 3, 4).
 
-\subsection*{Figlia di Shayalia}\index{Figlia di Shayalia}\label{figliadishayalia}\hypertarget{figliadishayalia}{}
+\ability{Figlia di Shayalia}{figliadishayalia}{Devoto o Seguace di Shayalia}{+1 Tempra, +2 Volontà}{Modificatore di caratteristica per incantesimi o Carisma}
 
-La tua connessione con la natura è forte e concreta
-
-\textbf{Requisito}: Devoto o Seguace di Shayalia
-
-\textbf{Tiri Salvezza}: +1 Tempra, +2 Volontà
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Carisma
+Hai una profonda ed istintiva connessione con il mondo naturale.
 
 La \textbf{prima volta} che prendi questa Abilità ottieni un +2 alla prove di Natura ed un +2 ai Tiri Salvezza contro veleni naturali.
 
@@ -5535,13 +5336,7 @@ La \textbf{terza volta} che prendi questa Abilità, requisito somma Tratti in co
 
 La \textbf{quarta volta} che prendi questa Abilità, requisito Animalia preso 4 volte, puoi trasformati usando Animalia, in qualsiasi creatura purché non sia un immondo o drago.
 
-\subsection*{Figlio Unico}\index{Figlio Unico}\label{figliounico}\hypertarget{figliounico}{}
-
-Sei in grado formulare magie anche senza avere mai studiato, in te scorre potente il sangue di un Patrono. Scegli un Patrono ed individua la sua Lista Magica preferita, non è necessario avere Tratti in comune o essere un Devoto o Seguage. 
-
-\textbf{Requisito}: Costituzione 0
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
+\ability{Figlio Unico}{figliounico}{Costituzione 0}{+1 Tempra, +1 Volontà}{Modificatore di caratteristica per incantesimi o Saggezza}
 
 La \textbf{prima volta} che prendi questa Abilità scegli due Trucchetti dalla Lista Magica. Puoi lanciare questi Trucchetti senza dover effettuare Prove di Magia o limitazioni d'armatura.
 
@@ -5553,59 +5348,29 @@ La \textbf{quarta volta} che prendi questa Abilità individua altri due Trucchet
 
 Le Abilità 2, 3, 4 possono essere prese più volte. Il CM è pari al valore del Tratto a punteggio più alto in comune con il Patrono.
 
-\subsection*{Finta Morte}\index{Finta Morte}\label{fintamorte}\hypertarget{fintamorte}{}
-
-Sei in grado di simulare la morte, rallentando il cuore.
-
-\textbf{Requisito}: Costituzione 0
-
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Costituzione o Saggezza
+\ability{Finta Morte}{fintamorte}{Costituzione 0}{+1 Volontà, +2 Tempra}{stituzione o Saggezza}
 
 Come Azione di Reazione sei in grado di cadere a terra (stramazzare!) morto. Solo una prova di Pronto Soccorso DC 20 può rivelare che sei vivo.
 
 L'effetto dura al massimo 2 minuti. La finta morte non è ripetibile in intervalli inferiori ai 10 minuti l'una dall'altra.
 
-\subsection*{Flagello Danzante}\index{Flagello Danzante}\label{flagellodanzante}\hypertarget{flagellodanzante}{}
+\ability{Flagello Danzante}{flagellodanzante}{Competenza Armi 1, usare un arma della Lista Palle rotanti}{+1 Tempra, +1 Volontà}{Forza o Carisma}
 
-\textbf{Requisito}: Competenza Armi 1, usare un arma della Lista Palle rotanti
+Quando usi la tua arma della lista Palle Rotanti hai un bonus di +1 al Tiro per Colpire e +1 alla Difesa
 
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Carisma
-
-Quando usi la tua arma dalle Palle Rotanti hai un bonus di +1 al Tiro per Colpire e +1 alla Difesa
-
-\subsection*{Forgiato nella furia}\index{Forgiato nella furia}\label{forgiatonellafuria}\hypertarget{forgiatonellafuria}{}
-
-\textbf{Requisito}: Competenza Armi 5
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Forza o Costituzione
+\ability{Forgiato nella furia}{forgiatonellafuria}{Competenza Armi 5}{+1 Tempra, +1 Riflessi}{Forza o Costituzione}
 
 Quando effettui un tiro critico con un attacco in mischia, ovvero hai tirato almeno 2 volte 6, si considera che tu abbia tirato un 6 in più per il conteggio totale del tiri critici
 
-\subsection*{Fortunato}\index{Fortunato}\label{fortunato}\hypertarget{fortunato}{}
+\ability{Fortunato}{fortunato}{nessuno}{+1 Tempra, +1 Riflessi}{Carisma o Destrezza}
 
-\textbf{Requisito}: nessuno
+Una volta al giorno puoi fare ritirare 1d6 di una prova (Tiri per Colpire, Prove Competenze, Tiri Salvezza) al Narratore e prendere il valore pù basso tra i due tiri. 
 
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Riflessi
+L'Abilità può essere dichiarata anche dopo il tiro dei dadi.
 
-\textbf{Caratteristica Potenziata}: Carisma o Destrezza
+\ability{Forma Elementale}{formaelementale}{Seguace o Devoto di Erondil, Gaya, Efrem oppure Shayalia. Almeno 3 incantesimi da 2 Liste di Magia Elementare diverse, Competenza Magica 6}{+1 Tempra, +1 Volontà}{Modificatore di caratteristica per incantesimi o Costituzione}
 
-Una volta al giorno puoi fare ritirare 1d6 di una prova (Tiri per Colpire, Prove Competenze, Tiri Salvezza) al Narratore e prendere il valore pù basso tra i due tiri. L'Abilità può essere dichiarata anche dopo il tiro dei dadi.
-
-\subsection*{Forma Elementale}\index{Forma Elementale}\label{formaelementale}\hypertarget{formaelementale}{}
-
-\textbf{Requisito}: Seguace o Devoto di Erondil, Gaya, Efrem oppure Shayalia. Almeno 3 incantesimi da 2 Liste di Magia Elementare diverse. Competenza Magica 6
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Costituzione
-
-Quando ti trasformi con l'Abilità Animalia scegli un elemento tra gli incantesimi imparati presenti in una Lista di Magia Elementale.
+Quando ti trasformi con l'Abilità Animalia scegli un elemento tra gli incantesimi imparati presenti in una Lista di Magia Elementale.\\
 
 La \textbf{prima volta} che prendi questa Abilità quando ti trasformi con Animalia i tuoi attacchi in mischia fanno il tipo di danno elementale scelto.
 
@@ -5615,33 +5380,23 @@ La \textbf{terza volta} che prendi questa Abilità, requisito Competenza Magica 
 
 Se sei un Devoto o Seguace di Gaya o Erondil non è necessario trasformarsi in animale, il tipo di danno si applica ai tuoi attacchi in mischia.
 
-\subsection*{Freccia chiamata, freccia consegnata}\index{Freccia chiamata, freccia consegnata}\label{frecciachiamata}\hypertarget{frecciachiamata}{}
+\ability{Freccia chiamata, freccia consegnata}{frecciachiamata}{Competenza Armi 2}{+2 Riflessi}{Destrezza o Intelligenza}
 
-\textbf{Requisito}: Competenza Armi 2
+E' questione di un attimo perché ti accenda!
 
-\textbf{Tiri Salvezza}: +2 Riflessi
+Puoi tirare 1 freccia/dardo, una volta al giorno, come Reazione, senza penalità al colpire date dal multiattacco. 
 
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+L'arco/balestra deve già essere in mano.
 
-Puoi tirare 1 freccia/dardo, una volta al giorno, come Reazione, senza penalità al colpire date dal multiattacco. L'arco/balestra deve già essere in mano.
+\ability{Furia}{furia}{Competenza Armi 1}{+2 Tempra, +1 Volontà}{Forza o Costituzione}
 
-\subsection*{Furia}\index{Furia}\label{furia}\hypertarget{furia}{}
+Il tuo stile di combattimento è rappresentato dalla cieca furia omicida. 
 
-\textbf{Requisito}: Competenza Armi 1
+Aggiungi +1d6 al danno ad ogni attacco andato a segno in mischia ed i tuoi avversari guadagnano +1d6 al colpire verso di te. 
 
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
+Puoi decidere di attivare questa Abilità round per round. Costa 1 Azione Immediata e dura fino all'inizio del tuo round successivo.
 
-\textbf{Caratteristica Potenziata}: Forza o Costituzione
-
-Il tuo stile di combattimento è rappresentato dalla cieca furia omicida. Aggiungi +1d6 al danno ad ogni attacco andato a segno in mischia ed i tuoi avversari guadagnano +1d6 al colpire verso di te. Puoi decidere di attivare questa Abilità round per round. Costa 1 Azione Immediata e dura fino all'inizio del tuo round successivo.
-
-\subsection*{Giocoliere}\index{Giocoliere}\label{giocoliere}\hypertarget{giocoliere}{}
-
-\textbf{Requisito}: Destrezza 2
-
-\textbf{Tiri Salvezza}: +2 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Carisma
+\ability{Giocoliere}{giocoliere}{Destrezza 2}{+2 Riflessi}{Destrezza o Carisma}
 
 Hai un talento naturale per maneggiare gli oggetti.
 
@@ -5649,19 +5404,13 @@ Qualsiasi prova di Acrobatica che coinvolga il maneggiare oggetti o l'equilibrio
 
 Puoi lanciare un secondo pugnale come Azione Immediata in seguito all'Azione di attacco di lancio di un pugnale, questo pugnale ha un -3 al Tiro per Colpire e non comula penalità al multiattacco.
 
-%\begin{center}
-%\includegraphics[width=0.9\linewidth]{immagini/Early_Egyptian_juggling_art.png}
-%
-%\emph{This ancient wall painting appears to depict jugglers.}
-%\end{center}
+\begin{center}
+\includegraphics[width=0.9\linewidth]{immagini/Early_Egyptian_juggling_art.png}
 
-\subsection*{Guerriero della Magia}\index{Guerriero della Magia}\label{guerrierodellamagia}\index{Magus}\hypertarget{guerrierodellamagia}{}
+\emph{This ancient wall painting appears to depict jugglers.}
+\end{center}
 
-\textbf{Requisito}: Competenza Armi 2, Competenza Magica 2
-
-\textbf{Tiri Salvezza}: +1 Volontà, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Forza
+\ability{Guerriero della Magia}{guerrierodellamagia}{Competenza Armi 2, Competenza Magica 2}{+1 Volontà, +1 Riflessi}{Modificatore di caratteristica per incantesimi o Forza}
 
 Non segui solo la via della magie e neanche quella della spada, il tuo stile abbraccia entrambi in un fendente di pura magia.
 
@@ -5675,13 +5424,7 @@ La \textbf{quarta volta} che prendi questa Ablità non è necessario più effett
 
 Non puoi scaricare incantesimi di livello superiore a 3 con questa Abilità ed il tempo di lancio dell'incantesimo non può essere superiore alle 2 Azioni.
 
-\subsection*{Gru d'Argento}\index{Gru d'argento}\label{grudargento}\hypertarget{grudargento}{}
-
-\textbf{Requisito}: Lista Pugno Vuoto 2, Destrezza 1
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+\ability{Gru d'Argento}{grudargento}{Lista Pugno Vuoto 2, Destrezza 1}{+2 Riflessi, +1 Volontà}{Destrezza o Intelligenza}
 
 Per usufruire di questi bonus non devi portare armature o scudi od oggetti anche magici che migliorino la Difesa. Le capacità elencate non sono cumulabili con l'Abilità Armatura della Montagna Incantata.
 
@@ -5697,29 +5440,15 @@ La \textbf{quinta volta} che prendi quest'Abilità, requisito Lista Pugno Vuoto 
 
 I bonus sono attivi anche se non stai combattendo.
 
-\subsection*{Ho detto CADI!}\index{Ho detto CADI!}\label{hodettocadi}\hypertarget{hodettocadi}{}
-
-\textbf{Requisito}: Competenza Armi 4
-
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Costituzione
+\ability{Ho detto CADI!}{hodettocadi}{Competenza Armi 4}{+2 Tempra, +1 Volontà}{Forza o Costituzione}
 
 Se colpisci 3 volte entro 2 round un avversario questo deve fare una Tiro Salvezza su Tempra con DC pari al Tiro per Colpire dell'ultimo attacco o cadere prono. Il Tiro Salvezza ha 1d6 di modificatore per taglia di differenza.
 
-\begin{center}
-\includegraphics[width=0.55\linewidth]{immagini/streghegoya.png}
+\ability{Il Patrono è con me}{ilpatronoeconme}{Devoto, Somma Tratti comuni con il Patrono 2
 
-\emph{Sabba delle Streghe (Goya, 1798)}
-\end{center}
+}{+1 Volontà, +1 Riflessi
 
-\subsection*{Il Patrono è con me}\index{Il Patrono è con me}\label{ilpatronoeconme}\hypertarget{ilpatronoeconme}{}
-
-\textbf{Requisito}: Devoto, Somma Tratti comuni con il Patrono 2
-
-\textbf{Tiri Salvezza}: +1 Volontà, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+}{Modificatore di caratteristica per incantesimi o a scelta}
 
 La \textbf{prima volta} che prendi questa Abilità per 1 volta al giorno puoi ritirare un dado tirato nella Prova di Magia per il lancio di incantesimo. 
 
@@ -5727,15 +5456,15 @@ La \textbf{seconda volta} che prendi questa Abilità, requisito somma Tratti com
 
 La \textbf{terza volta} che prendi questa Abilità, requisito somma Tratti comuni con il Patrono 12, per 3 volte al giorno puoi ritirare fino a 3 dadi tirati nella Prova di Magia per il lancio di incantesimo. 
 
-L'Abilità può essere dichiarata anche dopo il lancio dei dadi. Qualsiasi nuovo valore ottenuto con il nuovo tiro va tenuto o si usa nuovamente quest'Abilità. 
+L'Abilità può essere dichiarata anche dopo il lancio dei dadi. Qualsiasi nuovo valore ottenuto con il nuovo tiro va tenuto o si usa nuovamente quest'Abilità.
 
-\subsection*{Il Patrono è la mia Arma}\index{Il Patrono è la mia Arma}\label{ilpatronoelamiaarma}\hypertarget{ilpatronoelamiaarma}{}
+\begin{center}
+	\includegraphics[width=0.55\linewidth]{immagini/streghegoya.png}
+	
+	\emph{Sabba delle Streghe (Goya, 1798)}
+\end{center}
 
-\textbf{Requisito}: Somma Tratti comuni con il Patrono 1, essere Seguaci
-
-\textbf{Tiri Salvezza}: +1 Volontà, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+\ability{Il Patrono è la mia Arma}{ilpatronoelamiaarma}{Somma Tratti comuni con il Patrono 1, essere Seguaci}{+1 Volontà, +1 Riflessi}{Modificatore di caratteristica per incantesimi o a scelta}
 
 La \textbf{prima volta} che prendi questa Abilità hai un +1 di al Tiro per Colpire ed al Danno quando usi l'Arma preferita del tuo Patrono.
 
@@ -5749,34 +5478,18 @@ La \textbf{quinta volta} che prendi questa Abilità, requisito somma Tratti comu
 
 La \textbf{sesta volta} che prendi questa Abilità, requisito somma Tratti comuni con il Patrono 16, ottieni un ulteriore +1 al Tiro per Colpire e +1 al Danno. Il primo attacco andato a segno nel round con l'arma del Patrono causa sempre danno critico.
 
-\subsection*{Iaijutsu}\index{Iaijutsu}\label{iaijutsu}\hypertarget{iaijutsu}{}
+\ability{Iaijutsu}{iaijutsu}{Competenza Armi 2}{+2 Riflessi, +1 Volontà}{Intelligenza o Destrezza}
 
-\textbf{Requisito}: Competenza Armi 2
+Per ogni -1d6 al Tiro per Colpire guadagni un +4 all'Iniziativa e vice versa.
 
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
+La dichiarazione va eseguita ogni round che si intende usare al momento del controllo delle iniziative. Non si può applicare il modificatore se non si esegue almeno un attacco in mischia.
 
-\textbf{Caratteristica Potenziata}: Intelligenza o Destrezza
-
-Per ogni -1d6 al Tiro per Colpire guadagni un +4 all'Iniziativa e vice versa. La dichiarazione va eseguita ogni round che si intende usare al momento del controllo delle iniziative. Non si può applicare il modificatore se non si esegue almeno un attacco in mischia.
-
-\subsection*{Improvvisare}\index{Improvvisare}\label{improvvisare}\hypertarget{improvvisare}{}
-
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Saggezza
+\ability{Improvvisare}{improvvisare}{Competenza Armi 1}{+1 Tempra, +1 Riflessi}{Destrezza o Saggezza}
 
 Qualsiasi oggetto che possa definirsi un arma improvvisata per te non è improvvisata.
 Non soffri di penalità al colpire quando usi un arma improvvisata. Ottieni un +1 al danno quando usi un arma improvvisata.
 
-\subsection*{Incantatore da Combattimento}\index{Incantatore da Combattimento}\label{incantatoredacombattimento}\hypertarget{incantatoredacombattimento}{}
-
-\textbf{Requisito}: Competenza Magica 1
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+\ability{Incantatore da Combattimento}{incantatoredacombattimento}{Competenza Magica 1}{+1 Tempra, +1 Volontà}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Quando sei Distratto puoi ignorare un dado meno nella Prova di Magia.
 
@@ -5786,25 +5499,13 @@ La \textbf{terza volta}, requisito Competenza Magica 12, che prendi questa Abili
 
 Questa Abilità si può usare nella Prova di Magia richiesta da \hyperlink{guerrierodellamagia}{Guerriero della Magia}.
 
-\subsection*{Incantatore Prudente}\index{Incantatore Prudente}\label{incantatoreprudente}\hypertarget{incantatoreprudente}{}
-
-\textbf{Requisito}: Competenza Magica 8
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+\ability{Incantatore Prudente}{incantatoreprudente}{Competenza Magica 8}{+2 Riflessi, +1 Tempra}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Quando una creatura ostile entra per la prima volta in uno spazio entro 1 metro da te puoi usare una Reazione per lanciare un trucchetto senza potenziamenti o Prova di Magia.
 
 Questa Abilità non influisce su fatto che si è comunque Distratti nel lancio di un successivo incantesimo.
 
-\subsection*{Immunita' ai veleni}\index{Immunità ai veleni}\label{immunitaaiveleni}\index{Mitridatismo}\hypertarget{immunitaaiveleni}{}
-
-\textbf{Requisito}: Costituzione 1
-
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Costituzione o Saggezza
+\ability{Immunita' ai veleni}{immunitaaiveleni}{Costituzione 1}{+2 Tempra, +1 Volontà}{Costituzione o Saggezza}\index{Mitridatismo}
 
 Il corpo si abitua ai veleni, il personaggio guadagna un +2 Tiro Salvezza sui veleni.
 
@@ -5812,15 +5513,17 @@ La \textbf{seconda volta} che prendi l'Abilità divieni immune ai veleni natural
 
 La \textbf{terza volta} hai un +1d6 ai Tiro Salvezza ai veleni magici e subire gli effetti di fumi tossici (ma puoi sempre soffocare).
 
-\subsection*{Imposizione delle mani} \index{Imposizione delle mani}\label{imposizionedellemani}\hypertarget{imposizionedellemani}{}
+\begin{center}
+	\includegraphics[width=0.75\linewidth]{immagini/Portrait_of_V_Greatrakesv2.png}
+	
+	\emph{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
+\end{center}
 
-\textbf{Requisito}: Competenza Magica 1, Tratti comuni 3, essere Devoto o Seguace
+\ability{Imposizione delle mani}{imposizionedellemani}{Competenza Magica 1, Tratti comuni 3, essere Devoto o Seguace}{+2 Volontà, +1 Tempra}{Carisma o Saggezza}
 
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
+Se i tuoi Tratti sono in comune con un Patrono positivo puoi convogliare energia curativa (effetto curativo/dannoso su non morti), se sono in comune con un Patrono neutrale o malvagio puoi convogliare energia negativa (effetto dannoso/curativo sui non morti).
 
-\textbf{Caratteristica Potenziata}: Carisma o Saggezza
-
-Se i tuoi Tratti sono in comune con un Patrono positivo puoi convogliare energia curativa (effetto curativo/dannoso su non morti), se sono in comune con un Patrono neutrale o malvagio puoi convogliare energia negativa (effetto dannoso/curativo sui non morti). Usabile un numero di volte al giorno pari alla (somma dei Tratti in comune con il Patrono)/2. 
+Usabile un numero di volte al giorno pari alla (somma dei Tratti in comune con il Patrono)/2. 
 
 Attraverso l'imposizione delle mani puoi curare/ferire 5 Punti Ferita ad una creatura. Puoi applicare più usi con il singolo tocco.
 
@@ -5832,12 +5535,6 @@ La \textbf{terza volta} che prendi questa Abilità, somma Tratti in comune 6, pu
 
 La \textbf{quarta volta} che prendi questa Abilità, somma Tratti in comune 8, puoi togliere le condizioni: Accecato, Assordato, Avvelenato, Malato* (3 usi).
 
-\begin{center}
-\includegraphics[width=0.65\linewidth]{immagini/Portrait_of_V_Greatrakesv2.png}
-
-\emph{Portrait of V. Greatrakes laying on his hands, window, in right-hand corner showing several successful cures, possibly. By W. Faithorne }
-\end{center}
-
 La \textbf{quinta volta} che prendi questa Abilità, somma Tratti in comune 10, puoi togliere le condizioni: Confuso, Paralizzato, Affascinato (4 usi).
 
 La \textbf{sesta volta} che prendi questa Abilità, somma Tratti in comune 12, puoi togliere le condizioni: Dominato, Pietrificato, Affaticato 3 (5 usi).
@@ -5846,15 +5543,11 @@ Ogni uso dell'Abilità Imposizione delle mani per curare riduce il valore di San
 
 In caso di malattie magiche una eventuale prova di contrasto è fatta con 3d6 + somma punti Tratto in comune + Saggezza.
 
-L'energia proviene dalle mani (non conta se ci sono guanti) e si applica con un Attacco a Tocco. Usa 2 Azioni. Tiro Salvezza su Tempra DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto. 2 Azioni.
+L'energia proviene dalle mani (non conta se ci sono guanti) e si applica con un Attacco a Tocco.
 
-\subsection*{Incanalare Energia} \index{Incanalare energia}\label{incanalareenergia}\hypertarget{incanalareenergia}{}
+Usa 2 Azioni. Tiro Salvezza su Tempra DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto. 2 Azioni.\\
 
-\textbf{Requisito}: Imposizione delle mani, Competenza Magica 1, Tratti comuni 4
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Saggezza o Costituzione
+\ability{Incanalare Energia}{incanalareenergia}{Imposizione delle mani, Competenza Magica 1, Tratti comuni 4}{+2 Volontà, +1 Tempra}{Saggezza o Costituzione}
 
 Sei in grado di usare l'energia di Imposizione delle Mani per creare un'aura energetica intorno a te.
 Tramite l'Imposizione delle mani crei un'aura istantanea nel raggio di 3 metri attorno a te che cura o ferisce 5 Punti Ferita a tutte le creature presenti ogni 2 usi consumati.
@@ -5866,18 +5559,13 @@ L'energia proviene dal tuo corpo ed influenza te stesso e le creature intorno a 
 
 %\begin{center}
 %\includegraphics[width=0.8\linewidth]{immagini/kameame.png}
+%
 %\emph{Kamehameha!}
 %\end{center}
 
-\subsection*{Infondere Coraggio}\index{Infondere Coraggio}\label{infonderecoraggio}\hypertarget{infonderecoraggio}{}
+\ability{Infondere Coraggio}{infonderecoraggio}{Carisma 2, Intrattenere 1}{+2 Volontà, +1 Tempra}{Carisma o Saggezza}
 
-\textbf{Requisito}: Carisma 2, Intrattenere 1
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Carisma o Saggezza
-
-Tramite la tua esibizione, canora, di balletto, oratoria.. sei in grado di infondere coraggio nei compagni in grado di sentirti o vederti, nel raggio di 6 metri.
+Tramite la tua esibizione, canora, di balletto, oratoria od artistica in generale, sei in grado di infondere coraggio nei compagni in grado di sentirti o vederti, nel raggio di 6 metri.
 
 La prima volta che prendi questa Abilità i tuoi compagni hanno un bonus di +1 al Tiro per Colpire ed al Danno in combattimento.
 
@@ -5885,35 +5573,33 @@ La \textbf{seconda volta} che prendi questa Abilità, requisito Intrattenere 4, 
 
 La \textbf{terza volta} che prendi questa Abilità, requisito Intrattenere 12, puoi decidere di infondere fino a 2 di questi bonus. +1d6 Tiro per Colpire, +4 Difesa, +4 Danno, +1d6 TS. I tuoi compagni devono essere entro 24 metri di raggio.
 
-Attivare, mantenere o cambiare effetto dell'Abilità richiede 2 Azioni. Puoi mantenere l'Abilità un numero di round, anche non consecutivi, pari a punteggio Intrattenere x 3 al giorno. Le creature per rimanere influenzate devono continuare a vedere/sentire la tua esibizione.
+Attivare, mantenere o cambiare effetto dell'Abilità richiede 2 Azioni.
 
-\subsection*{Infondere Energia Magica}\index{Infondere Energia Magica}\label{infondereenergiamagica}\hypertarget{infondereenergiamagica}{}
+Puoi mantenere l'Abilità un numero di round, anche non consecutivi, pari a punteggio Intrattenere x 3 al giorno.
 
-\textbf{Requisito}: Competenza Armi 1, Competenza Magica 2
+Le creature per rimanere influenzate devono continuare a vedere/sentire la tua esibizione.
 
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+\ability{Infondere Energia Magica}{infondereenergiamagica}{Competenza Armi 1, Competenza Magica 2}{+1 Riflessi, +1 Tempra}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Sai manipolare le energie magiche in maniera istintiva ed infonderle nelle armi. Costa 1 Azione infondere la magia nell'arma.
 
-La \textbf{prima volta} che prendi questa Abilità puoi usare due Punti Magia e canalizzarli nella tua arma. Per la durata di 6 round la tua arma diviene un arma magica +1, se possiede già capacità magiche l'effetto non funziona.
+La \textbf{prima volta} che prendi questa Abilità puoi usare due Punti Magia e canalizzarli nella tua arma.
+
+Per la durata di 6 round la tua arma diviene un arma magica +1, se possiede già capacità magiche l'effetto non funziona.
 
 La \textbf{seconda volta} che prendi questa Abilità, requisito Competenza Magica 4, puoi usare quattro Punti Magia ed un arma con cui vieni a contatto diventa un arma +2 per 6 round, se è già incantata acquisisce un bonus ulteriore di +1 fino ad un massimo di +3.
 
 La \textbf{terza volta} che prendi questa Abilità, requisito Competenza Magica 8, puoi usare sei Punti Magia ed un arma con cui vieni a contatto diventa un arma +3 per 6 round, se è già incantata acquisisce un bonus ulteriore di +2 fino ad un massimo di +4.
 
-\subsection*{Infondere Energia Magica Superiore}\index{Infondere Energia Magica Superiore}\label{infondereenergiamagicasuperiore}\hypertarget{infondereenergiamagicasuperiore}{}
+\ability{Infondere Energia Magica Superiore}{infondereenergiamagicasuperiore}{Competenza Armi 4, Competenza Magica 6}{+1 Riflessi, +1 Tempra}{Modificatore di caratteristica per incantesimi o a scelta}
 
-\textbf{Requisito}: Competenza Armi 4, Competenza Magica 6
+Sai infondere l'arma di energia magica per fargli acquisire capacità fantastiche. 
 
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
+Costa 1 Azione attivare l'infusione della magia nell'arma. L'arma deve essere magica.
 
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+La \textbf{prima volta} che prendi questa Abilità usando un Punto Magia a round puoi rendere la tua arma fiammeggiante o elettrificata o cambiare la forma. 
 
-Sai infondere l'arma di energia magica per fargli acquisire capacità fantastiche. Costa 1 Azione attivare l'infusione della magia nell'arma. L'arma deve essere magica.
-
-La \textbf{prima volta} che prendi questa Abilità usando un Punto Magia a round puoi rendere la tua arma fiammeggiante o elettrificata o cambiare la forma. Ogni colpo portato a segna causa 1d6 di danni da fuoco o elettricità aggiuntivi. Se smetti di pagare il Punto Magia torna alla forma precedente e smette di causare danni aggiuntivi.
+Ogni colpo portato a segna causa 1d6 di danni da fuoco o elettricità aggiuntivi. Se smetti di pagare il Punto Magia torna alla forma precedente e smette di causare danni aggiuntivi.
 
 La \textbf{seconda volta} che prendi questa Abilità usando due Punti Magia a round puoi rendere un arma con cui vieni a contatto estremamente pericolosa. Ogni colpo portato a segno causa 1 danno critico aggiuntivo. Requisito Competenza Magica 7.
 
@@ -5921,13 +5607,7 @@ La \textbf{terza volta} che prendi questa Abilità usando tre Punti Magia a roun
 
 Le Abilità non sono cumulative, devi scegliere quale applicare round per round.
 
-\subsection*{Infondere Paura}\index{Infondere Paura}\label{infonderepaura}\hypertarget{infonderepaura}{}
-
-\textbf{Requisito}: Carisma 2
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Carisma o Costituzione
+\ability{Infondere Paura}{infonderepaura}{Carisma 2}{+2 Volontà, +1 Tempra}{Carisma o Costituzione}
 
 Tramite la tua esibizione, canora, di balletto, oratoria.. sei in grado di infondere paura negli avversari in grado di sentirti, nel raggio di 6 metri.
 
@@ -5941,23 +5621,15 @@ All'avversario è concesso un Tiro Salvezza Volontà DC pari 10+CAR+punteggio In
 
 Attivare, mantenere o cambiare effetto dell'Abilità richiede 2 Azioni. Puoi mantenere l'Abilità un numero di round, anche non consecutivi, pari a punteggio Intrattenere x 3 al giorno. Le creature per rimanere influenzate devono continuare a vedere/sentire la performance.
 
-\subsection*{Iniziativa migliorata}\index{Iniziativa migliorata}\label{iniziativamigliorata}\hypertarget{iniziativamigliorata}{}
-
-\textbf{Requisito}: Intelligenza o Destrezza 1
-
-\textbf{Tiri Salvezza}: +2 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+\ability{Iniziativa migliorata}{iniziativamigliorata}{Intelligenza o Destrezza 1}{+2 Riflessi}{Destrezza o Intelligenza}
 
 Aumenti l'iniziativa di +1. L'Abilità può essere presa fino a 2 volte ed il bonus si cumula.
 
-\subsection*{La mia pelle}\index{La mia pelle}\label{La mia pelle}\hypertarget{lamiapelle}{}
+\ability{La mia pelle}{lamiapelle}{Competenza Armi 1
 
-\textbf{Requisito}: Competenza Armi 1
+}{+3 Tempra
 
-\textbf{Tiri Salvezza}: +3 Tempra
-
-\textbf{Caratteristica Potenziata}: Costituzione o Forza
+}{Costituzione o Forza}
 
 Hai un rapporto quasi simbiotico con la tua armatura.
 
@@ -5965,87 +5637,59 @@ La \textbf{prima volta} che prendi questa Abilità la Difesa che ti concede l'ar
 
 La \textbf{seconda volta} che prendi questa Abilità, requisito Competenza Armi 6, la Difesa che ti concede l'armatura che porti aumenta di 2.
 
-\subsection*{La mia morte la tua morte}\index{La mia morte la tua morte}\label{lamiamortelatuamorte}\hypertarget{lamiamortelatuamorte}{}
+\ability{La mia morte la tua morte}{lamiamortelatuamorte}{Competenza Armi 1, Forza 1
 
-\textbf{Requisito}: Competenza Armi 1, Forza 1
+}{+2 Tempra, +1 Volontà
 
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Carisma o Forza
+}{Carisma o Forza}
 
 Per ogni singolo avversario in combattimento puoi fare che il primo colpo a segno dello scontro causi un danno aggiuntivo pari al doppio di Competenza Armi. L'avversario guadagna un bonus al Tiro per Colpire ed al danno pari al valore della tua Competenza Armi al primo Tiro per Colpire effettuato entro la fine del round successivo. 
 
 L'Abilità va dichiarato prima del Tiro per Colpire e dura fino all'inizio del prossimo round.
 
-\subsection*{La mia Testa è più Dura}\index{La mia Testa è più Dura}\label{lamiatestaepiudura}\hypertarget{lamiatestaepiudura}{}
-
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Costituzione
+\ability{La mia Testa è più Dura}{lamiatestaepiudura}{Competenza Armi 1}{+1 Tempra, +1 Volontà}{Forza o Costituzione}
 
 La tua arma, presente nella Lista Armi Rompi Cranio, fa +2 danni
 
-\subsection*{Litania versatile}\index{Litania versatile}\label{litaniaversatile}\hypertarget{litaniaversatile}{}
+\ability{Litania versatile}{litaniaversatile}{Competenza Intrattenere 6}{+1 Volontà, +1 Riflessi}{Carisma o Destrezza}
 
-\textbf{Requisito}: Competenza Intrattenere 6
+Tramite la tua esibizione puoi decidere di infondere coraggio o paura alle creature entro 9 metri da te.
 
-\textbf{Tiri Salvezza}: +1 Volontà, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Carisma o Destrezza
-
-Tramite la tua esibizione puoi decidere di infondere coraggio o paura alle creature entro 9 metri da te. Ogni round, per tutte le creature influenzate, puoi decidere di applicare fino a 2 modificatori tra: bonus di +1d6 al Tiro per Colpire oppure +4 alla Difesa oppure -1d6 al Tiro per Colpire oppure -4 alla Difesa. 
+Ogni round, per tutte le creature influenzate, puoi decidere di applicare fino a 2 modificatori tra: bonus di +1d6 al Tiro per Colpire oppure +4 alla Difesa oppure -1d6 al Tiro per Colpire oppure -4 alla Difesa. 
 
 All'avversario è concesso un Tiro Salvezza Volontà DC pari 10+CAR+punteggio Intrattenere. Una creatura che riesce nel Tiro Salvezza è immune per quel giorno a nuove manifestazioni di questo tuo potere.
 
-Attivare e mantenere l'Abilità richiede 2 Azioni. Puoi mantenere l'Abilità un numero di round, anche non consecutivi, pari a punteggio Intrattenere al giorno. Le creature per rimanere influenzate devono continuare a vedere/sentire la performance.
+Attivare e mantenere l'Abilità richiede 2 Azioni. Puoi mantenere l'Abilità un numero di round, anche non consecutivi, pari a punteggio Intrattenere al giorno. 
+
+Le creature per rimanere influenzate devono continuare a vedere/sentire la performance.
 
 La \textbf{seconda volta} che prendi questa Abilità puoi escludere dall'effetto un numero di creature fino al punteggio di Carisma
 
-\subsection*{Lo scudo è mio amico}\index{Lo scudo è mio amico}\label{loscudoemioamico}\hypertarget{loscudoemioamico}{}
+\ability{Lo scudo è mio amico}{loscudoemioamico}{Competenza Armi 1, Competenza Magica 1}{+1 Tempra, +1 Riflessi}{Destrezza o Costituzione}
 
-\textbf{Requisito}: Competenza Armi 1, Competenza Magica 1
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Costituzione
+Il tuo \emph{amico} è sempre al tuo fianco.
 
 La \textbf{prima volta} che si prende questa Abilità puoi usare scudi leggeri senza dover fare una Prova di Magia.
 
 La \textbf{seconda volta} che si prende questa Abilità, requisito Competenza Armi 5, la penalità a Tiro per Colpire data dallo scudo diminuisce di 1.
 
-\subsection*{Magie Potenti}\index{Magie potenti}\label{magiepotenti}\hypertarget{magiepotenti}{}
-
-\textbf{Requisito}: Competenza Magica 5
-
-\textbf{Tiri Salvezza}: +2 Volontà
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+\ability{Magie Potenti}{magiepotenti}{Competenza Magica 5}{+2 Volontà}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Le tue magie sono straordinariamente efficaci.
 
 Scegli una Liste di Magia, ottieni un +1d6 alla Prova di Magia nel lancio di incantesimi da questa Lista. L'Abilità può essere presa più volte ma il totale deve essere inferiore od uguale a CM/4.
 
-\subsection*{Molla}\index{Molla}\label{Molla}\hypertarget{molla}{}
+\ability{Molla}{molla}{Forza 0
 
-\textbf{Requisito}: Forza 0
+}{+1 Riflessi, +1 Tempra
 
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Destrezza o Forza
+}{Destrezza o Forza}
 
 Puoi ignorare il requisito dei 3 metri di rincorsa prima di un salto.
 
 La \textbf{seconda volta} che prendi quest'Abilità quando effettui una prova per saltare in lungo od in alto tiri 1d6 in più.
 
-\subsection*{Montagna umana}\index{Montagna umana}\label{montagnaumana}\hypertarget{montagnaumana}{}
-
-\textbf{Requisito}: Costituzione 1
-
-\textbf{Tiri Salvezza}: +3 Tempra
-
-\textbf{Caratteristica Potenziata}: Costituzione o Forza
+\ability{Montagna umana}{montagnaumana}{Costituzione 1}{+3 Tempra}{Costituzione o Forza}
 
 Forse una volta eri gracile e debole, adesso sei una montagna di muscoli.
 
@@ -6065,70 +5709,32 @@ La \textbf{quarta volta} che prendi questa Abilità aumenti di una taglia (P > M
 \emph{The Colossus (also known as The Giant), is known in Spanish as El Coloso.}
 \end{center}
 
-\subsection*{Muro mentale}\index{Muro mentale}\label{muromentale}\hypertarget{muromentale}{}
-
-\textbf{Requisito}: Saggezza +1
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Saggezza
+\ability{Muro mentale}{muromentale}{Saggezza +1}{+2 Volontà, +1 Tempra}{Modificatore di caratteristica per incantesimi o Saggezza}
 
 La tua mente è addestrata contro chi vuole influenzarla. Ogni volta che prendi questa Abilità guadagni +1 ai Tiri Salvezza contro gli incantesimi della Lista di Magia di Ammaliamento.
 
-\subsection*{Occhi della magia}\label{rilevareilmagico}\index{Occhi della magia}\hypertarget{occhidellamagia}{}
-
-\textbf{Requisito}: Competenza Magica 1
-
-\textbf{Tiri Salvezza}: +1 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Carisma
+\ability{Occhi della magia}{occhidellamagia}{Competenza Magica 1}{+1 Volontà, +1 Tempra}{Modificatore di caratteristica per incantesimi o Carisma}
 
 Se lo puoi vedere sai anche se è magico. Costa una Azione attivare la vista magica e dura un round.
 
 La \textbf{seconda volta}, requisito Competenza Magica 1, che prendi l'Abilità attivare la vista magica costa una Reazione.
 
-
-\subsection*{Occhio Clinico}\index{Occhio Clinico}\label{occhioclinico}\hypertarget{occhioclinico}{}
-
-\textbf{Requisito}: Competenza Armi 3
-
-\textbf{Tiri Salvezza}: +2 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Forza
+\ability{Occhio Clinico}{occhioclinico}{Competenza Armi 3}{+2 Riflessi}{Destrezza o Forza}
 
 Sei in grado di fare danno critico a creature normalmente immuni ai critici (tirare più volte 6 ed esplosione del danni).
 
-\subsection*{Occhio di Falco}\index{Occhio di Falco}\label{occhiodifalco}\hypertarget{occhiodifalco}{}
-
-\textbf{Requisito}: Competenza Armi 3
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
-
+\ability{Occhio di Falco}{occhiodifalco}{Competenza Armi 3}{+2 Riflessi, +1 Volontà}{Destrezza o Intelligenza}
 I proiettili, frecce o dardi, lanciati tra il primo ed il secondo incremento non hanno penalità al Tiro per Colpire.
 
 La \textbf{seconda volta} che prendi questa Abilità, la penalità per i tiri entro il terzo incremento di range è di 6.
 
 La \textbf{terza volta} che prendi questa Abilità sei in grado di estendere ancora di più il tuo tiro e portarlo ad un quinto incremento con un -12 di penalità al colpire. Non hai penalità entro i primi 3 incrementi mentre hai -6 a colpire tra il terzo e quarto incremento.
 
-\subsection*{Opportunista}\index{Opportunista}\label{opportunista}\hypertarget{opportunista}{}\index{Attacco di Opportunita'}
-
-\textbf{Requisito}: Competenza Armi 2
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Intelligenza o Forza
+\ability{Opportunista}{opportunista}{Competenza Armi 2}{+2 Riflessi, +1 Volontà}{Intelligenza o Forza}
 
 Puoi tentare di colpire in mischia un avversario che \textbf{esca} o \textbf{attraversi} un area di mischia che tu minacci oppure che usi un arma da lancio contro di te nella tua area di mischia. L'Abilità è usabile come Reazione. Questo attacco viene anche chiamato attacco di opportunità nel manuale e ci sono diverse creature che non ne scatenano la Reazione.
 
-\subsection*{Parata}\index{Parata}\label{parata}\hypertarget{parata}{}
-
-\textbf{Requisito}: Competenza Armi 3 oppure Pugno Vuoto 2
-
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Destrezza
+\ability{Parata}{parata}{Competenza Armi 3 oppure Pugno Vuoto 2}{+1 Riflessi, +1 Volontà}{Forza o Destrezza}
 
 La \textbf{prima volta} che prendi questa Abilità quando usi l'Azione per \hyperlink{preparareladifesa}{Preparare la Difesa} (pag. \pageref{preparareladifesa}) questa aumenta di 1. 
 
@@ -6138,13 +5744,7 @@ La \textbf{terza volta} che prendi quest'Abilità, requisito Competenza Armi 9 o
 
 Usare l'Abilità Parata deve essere dichiarata nel proprio round e rimane attiva fino all'inizio del tuo round successivo.
 
-\subsection*{Passo Felpato}\index{Passo felpato}\label{passofelpato}\hypertarget{passofelpato}{}
-
-\textbf{Requisito}: Furtività 1
-
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Destrezza o Saggezza
+\ability{Passo Felpato}{passofelpato}{Furtività 1}{+1 Riflessi, +1 Tempra}{Destrezza o Saggezza}
 
 Il tuo passo è naturalmente silenzioso.
 
@@ -6152,26 +5752,14 @@ La \textbf{prima} volta che prendi quest'Abilità la penalità per muoversi a pi
 
 La \textbf{seconda volta} che prendi quest'Abilità, requisito Destrezza 3, Furtività 8, non hai penalità a muoverti a piena velocità.
 
-\subsection*{Passo Veloce}\index{Passo Veloce}\label{passoveloce}\hypertarget{passoveloce}{}
-
-\textbf{Requisito}: Destrezza 1
-
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Destrezza o Costituzione
+\ability{Passo Veloce}{passoveloce}{Destrezza 1}{+2 Riflessi, +1 Tempra}{Destrezza o Costituzione}
 
 Il tuo passo è naturalmente rapido.
 Se hai movimento 6m passi a movimento 7m, se hai movimento 9m passi a movimento 10m.
 
 Ogni ulteriori \textbf{due volte} che prendi l'Abilità il tuo movimento aumenta di 1 metro per Azione di Movimento, fino ad un massimo di +3 metri a round.
 
-\subsection*{Passo Sicuro}\index{Passo sicuro}\label{passosicuro}\hypertarget{passosicuro}{}
-
-\textbf{Requisito}: Saggezza 1
-
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Costituzione
+\ability{Passo Sicuro}{passosicuro}{Saggezza 1}{+2 Tempra, +1 Riflessi}{Destrezza o Costituzione}
 
 E' la capacità di non essere rallentati in un ambiente ostile. E' necessario dichiarare su quale ambiente si prende l'Abilità. In questi ambienti il terreno naturale non è difficile. Finché ci si muove nell'ambiente scelto si ha un +1 alle prove di Sopravvivenza.
 
@@ -6193,27 +5781,25 @@ Ogni qual volta si prende nuovamente questa Abilità si sceglie un ambiente dive
 
 Le \textbf{seconda volta} che prendi quest'Abilità sul medesimo terreno acquisisci una capacità specifica a seconda del terreno.
 
-\emph{Giungla / Foresta / Collina / Pianura}: il tuo movimento aumenta di 1 metro su questo terreno
+\begin{itemize}
 
-\emph{Costale / Aquatico}: velocità di nuoto pari al tuo movimento
+\item \emph{Giungla / Foresta / Collina / Pianura}: il tuo movimento aumenta di 1 metro su questo terreno
 
-\emph{Palude}: +2 ai Tiri Salvezza contro Veleno
+\item \emph{Costale / Aquatico}: velocità di nuoto pari al tuo movimento
 
-\emph{Desertico}: Riduzione danni da Fuoco pari al livello
+\item \emph{Palude}: +2 ai Tiri Salvezza contro Veleno
 
-\emph{Montagna / Ghiacciai / Tundra}: Riduzione danni da Freddo pari al livello
+\item \emph{Desertico}: Riduzione danni da Fuoco pari al livello
 
-\emph{Sotterraneo}: Visione crepuscolare 9 metri
+\item \emph{Montagna / Ghiacciai / Tundra}: Riduzione danni da Freddo pari al livello
 
-\emph{Urbano}: +1 Linguaggio, +1 a scelta in due Conoscenze
+\item \emph{Sotterraneo}: Visione crepuscolare 9 metri
 
-\subsection*{Pelle Coriacea}\index{Pelle coriacea}\label{pellecoriacea}\hypertarget{pellecoriacea}{}
+\item \emph{Urbano}: +1 Linguaggio, +1 a scelta in due Conoscenze
 
-\textbf{Requisito}: Costituzione 2
+\end{itemize}
 
-\textbf{Tiri Salvezza}: +2 Tempra
-
-\textbf{Caratteristica Potenziata}: Costituzione o Saggezza
+\ability{Pelle Coriacea}{pellecoriacea}{Costituzione 2}{+2 Tempra}{Costituzione o Saggezza}
 
 La tua pelle è estremamente resistente. Subisci 1 danno in meno quando colpito da armi taglienti.
 
@@ -6225,54 +5811,29 @@ La \textbf{quarta volta} che prendi questa abilità, requisito Competenza Armi 1
 
 I bonus sono cumulativi.
 
-\subsection*{Percettivo}\index{Percettivo}\label{percettivo}\hypertarget{percettivo}{}
-
-\textbf{Requisito}: Saggezza 0
-
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Saggezza o Intelligenza
+\ability{Percettivo}{percettivo}{Saggezza 0}{+1 Riflessi, +1 Volontà}{Saggezza o Intelligenza}
 
 La tua Consapevolezza e attenzione ai particolari è sopra la media.
+
 Prendi un bonus di +1 alla prove di Consapevolezza. L'Abilità può essere presa massimo 3 volte.
 
-\subsection*{Persona veramente malvagia}\index{Persona veramente malvagia}\label{personaveramentemalvagia}\hypertarget{personaveramentemalvagia}{}
+\ability{Persona veramente malvagia}{personaveramentemalvagia}{Competenza Armi 1}{+1 Riflessi, +1 Volontà}{Forza o Carisma}
 
-\textbf{Requisito}: Competenza Armi 1
+Quando vuoi sai essere cattivo.
 
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Volontà
+Due volte al giorno aggiungi il tuo valore di Competenza Armi al danno di un singolo attacco ad un singolo avversario che sia in mischia con te.
 
-\textbf{Caratteristica Potenziata}: Forza o Carisma
+L'Abilità deve essere dichiarata prima del Tiro per Colpire. Costa una Azione.
 
-Due volte al giorno aggiungi il tuo valore di Competenza Armi al danno, ad un avversario che vuoi colpire in mischia. L'Abilità deve essere dichiarata prima del Tiro per Colpire. Costa una Azione.
-
-\subsection*{Più sono grossi più fanno rumore quando cadono}\index{Più sono grossi più fanno rumore quando cadono}\index{Ammazza Giganti}\label{piusonogrossipiufannorumore}\hypertarget{piusonogrossipiufannorumore}{}
-
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Carisma
+\ability{Più sono grossi più fanno rumore quando cadono}{piusonogrossipiufannorumore}{Competenza Armi 1}{+2 Tempra, +1 Volontà}{Forza o Carisma}
 
 Quando attacchi una creatura di almeno 2 taglie più grosse di te fai +1 danno aggiuntivo ogni 2 punti Competenza Armi. Se è solo una taglia superiore aggiungi 1 danno in più ogni 3 punti Competenza Armi.
 
-\subsection*{Poliglotta}\index{Poliglotta}\label{poliglotta}\hypertarget{poliglotta}{}
-
-\textbf{Requisito}: almeno Intelligenza -1, alla creazione del personaggio
-
-\textbf{Tiri Salvezza}: +2 Volontà
-
-\textbf{Caratteristica Potenziata}: Intelligenza o Carisma
+\ability{Poliglotta}{poliglotta}{almeno Intelligenza -1, alla creazione del personaggio}{+2 Volontà}{Intelligenza o Carisma}
 
 Hai una straordinaria capacità di imparare le lingue. Attribuisci 2 punti a Conoscenza Lingue e quindi conosci due lingue in più.
 
-\subsection*{Potere del Patrono}\index{Potere del Patrono}\label{poteredelpatrono}\hypertarget{poteredelpatrono}{}
-
-\textbf{Requisito}: Somma Tratti comuni con il Patrono 1, essere Devoto
-
-\textbf{Tiri Salvezza}: +1 Tempra, +2 Volontà
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+\ability{Potere del Patrono}{poteredelpatrono}{Somma Tratti comuni con il Patrono 1, essere Devoto}{+1 Tempra, +2 Volontà}{Modificatore di caratteristica per incantesimi o a scelta}
 
 La tua fede nel Patrono non conosce limiti ne crolli di fiducia.
 
@@ -6280,35 +5841,19 @@ La tua fede nel Patrono non conosce limiti ne crolli di fiducia.
 
 Se riescono tutte e tre le prove è probabile che si sia una Manifestazione del Patrono.
 
-\subsection*{Primo Sangue}\index{Primo Sangue}\label{primosangue}\hypertarget{primosangue}{}
-
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Intelligenza o Carisma
+\ability{Primo Sangue}{primosangue}{Competenza Armi 1}{+1 Tempra, +1 Volontà}{Intelligenza o Carisma}
 
 Il primo Tiro per Colpire nel giorno ha un bonus di +1d6 e causa un tiro critico se colpisce.
 
-\subsection*{Precisino}\index{Precisino}\label{precisino}\hypertarget{precisino}{}
+\ability{Precisino}{precisino}{Competenza Armi 2}{+1 Riflessi, +1 Volontà}{Destrezza o Charisma}
 
-\textbf{Requisito}: Competenza Armi 2
+\begin{itemize}[leftmargin=*]
+\item Quando scagli un proiettile diminuisci di 2 la penalità data da Copertura.
+\item 
+\item La \textbf{seconda volta}  che prendi questa Abilità, Competenza Armi 4, riduci la penalità data da Copertura di 4.
+\end{itemize}
 
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Destrezza o Charisma
-
-Quando scagli un proiettile diminuisci di 2 la penalità data da Copertura.
-
-La \textbf{seconda volta}  che prendi questa Abilità, Competenza Armi 4, riduci la penalità data da Copertura di 4.
-
-\subsection*{Proseguire}\index{Proseguire}\label{proseguire}\hypertarget{proseguire}{}
-
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Destrezza
+\ability{Proseguire}{proseguire}{Competenza Armi 1}{+1 Tempra, +1 Volontà}{Forza o Destrezza}
 
 Se uccidi l'avversario con la tua ultima Azione di Attacco, in mischia, puoi effettuare un Azione di attacco bonus con gli stessi modificatori dell'ultima Azione di Attacco effettuato ed attaccare un altro nemico purché in distanza di mischia, se uccidi questa creature con un colpo non puoi effettuare altri attacchi ad altre creature.
 
@@ -6318,13 +5863,7 @@ Se uccidi l'avversario con la tua ultima Azione di Attacco, puoi effettuare un A
 
 Ogni attacco bonus oltre il primo ha un -2 al colpire ed un -1 al danno cumulativo.
 
-\subsection*{Pugno di Ferro}\index{Pugno di Ferro}\label{pugnodiferro}\hypertarget{pugnodiferro}{}
-
-\textbf{Requisito}: Lista Pugno Vuoto 3
-
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Destrezza
+\ability{Pugno di Ferro}{pugnodiferro}{Lista Pugno Vuoto 3}{+2 Tempra, +1 Volontà}{Forza o Destrezza}
 
 La tua tecnica di combattimento senza armi è estremamente precisa e potente.
 
@@ -6342,90 +5881,62 @@ La \textbf{sesta volta} che prendi quest'Abilità, Requisito Pugno Vuoto 18. Dan
 
 I bonus indicati sono cumulativi.
 
-\subsection*{Pugno Potente}\index{Pugno Potente}\label{pugnopotente}\hypertarget{pugnopotente}{}
-
-\textbf{Requisito}: Lista Pugno Vuoto 3
-
-\textbf{Tiri Salvezza}: +1 Tempra, +2 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Costituzione
+\ability{Pugno Potente}{pugnopotente}{Lista Pugno Vuoto 3}{+1 Tempra, +2 Volontà}{Forza o Costituzione}
 
 Consumi 2 Azioni. Effettui un unico Tiro per Colpire con -5 di penalità. 
 Se colpisci, oltre al danno ed un danno critico, l'avversario che deve essere massimo di due taglie superiore alla tua deve effettuare un Tiro Salvezza su Tempra con DC pari al tuo Tiro per Colpire oppure essere spinto di 3 metri in una direzione a tua scelta.
 
 Se fallisce il Tiro Salvezza in maniera critica subisce un ulteriore danno critico.
 
-\subsection*{Questo è il mio pugnale}\index{Questo è il mio pugnale}\label{questoeilmiopugnale}\hypertarget{questoeilmiopugnale}{}
+\ability{Questo è il mio pugnale}{questoeilmiopugnale}{Competenza Armi 1
 
-\textbf{Requisito}: Competenza Armi 1
+}{+2 Tempra, +1 Riflessi
 
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Carisma
+}{Destrezza o Carisma}
 
 Quando fai un danno critico con il tuo pugnale sommi un ulteriore danno critico. L'Abilità è usabile 1 volta per avversario e si applica automaticamente al primo danno critico effettuato.
 
-\subsection*{Questa è la mia arma!}\index{Questa è la mia arma!}\label{questaelamiaarma}\hypertarget{questaelamiaarma}{}
-
-\textbf{Requisito}: Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Carisma
+\ability{Questa è la mia arma!}{questaelamiaarma}{Competenza Armi 1}{+2 Tempra, +1 Volontà}{Forza o Carisma}
 
 Ogni volta che colpisci il medesimo avversario, a partire dal secondo round, fai un danno aggiuntivo (Max +1 per round di combattimento, anche se lo colpisci più volte nel round) fino ad un massimo +5. La prima volta che non colpisci nel round l'avversario il bonus torna a +0. Il bonus si può mantenere su un solo avversario alla volta.
 
 La \textbf{seconda volta} che prendi questa Abilità, Competenza Armi 5, puoi mancare l'avversario con un colpo e non perdere i benefici.
 
-\subsection*{Radici magiche}\index{Radici magiche}\label{radicimagiche}\hypertarget{radicimagiche}{}
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/Historia_Mundi_Naturalis.png}
+	
+	\emph{Woodcut illustration from an edition of Pliny the Elder's Naturalis Historia (1582)}
+\end{center}
 
-\textbf{Requisito}: Competenza Magica 1
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+\ability{Radici magiche}{radicimagiche}{Competenza Magica 1}{+2 Volontà, +1 Tempra}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Finché sei influenzato da un tuo incantesimo, utilizzando un'Azione la tua arma guadagna un +1 al colpire ed al danno e si considera un'arma magica fino alla fine del round.
 
-\subsection*{Rappresaglia}\index{Rappresaglia}\label{rappresaglia}\hypertarget{rappresaglia}{}
-
-\textbf{Requisito}: Competenza Armi 1, almeno Seguace di Gradh o Nedraf o Orlaith o Sumkjr
-
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Carisma o Saggezza
+\ability{Rappresaglia}{rappresaglia}{Competenza Armi 1, almeno Seguace di Gradh o Nedraf o Orlaith o Sumkjr}{+2 Volontà, +1 Tempra}{Carisma o Saggezza}
 
 Vedere i tuoi amici feriti ti riempie di rabbia.
-Quanto un compagno (o te stesso) scende sotto metà dei Punti Ferita guadagni un +1 al Tiro per Colpire e Tiri Salvezza. La durata massima dell'effetto é 1 minuto (6 round) al giorno e deve essere consecutiva. Il giocatore sceglie se attivare o meno l'Abilità ed il compagno ferito deve essere entro 9 metri.
-Puoi prendere questa Abilità fino a 3 volte, ogni volta il bonus al Tiro per Colpire e Tiro Salvezza aumentano di 1.
 
-\subsection*{Resistenza della pietra}\index{Resistenza della pietra}\label{resistenzadellapietra}\hypertarget{resistenzadellapietra}{}
+Quanto un compagno (o te stesso) scende sotto metà dei Punti Ferita guadagni un +1 al Tiro per Colpire e Tiri Salvezza. 
 
-\textbf{Requisito}: Costituzione 0
+La durata massima dell'effetto é 1 minuto (6 round) al giorno e deve essere consecutiva. Il giocatore sceglie se attivare o meno l'Abilità ed il compagno ferito deve essere entro 9 metri.
 
-\textbf{Caratteristica Potenziata}: Costituzione o Saggezza
+Puoi prendere questa Abilità \textbf{fino a 3 volte}, ogni volta il bonus al Tiro per Colpire e Tiro Salvezza aumentano di 1.
 
-Nel tempo hai allenato la tua Costituzione a reggere gli urti, trasformazioni, veleni e quant'altro volesse modificare il tuo corpo. La prima volta che prendi questa Abilità ottieni un bonus di +2 al Tiro Salvezza su Tempra. Il bonus è cumulativo, +2 la prima volta, +1 la \textbf{seconda}, +1 la \textbf{terza}.
+\ability{Resistenza della pietra}{resistenzadellapietra}{Costituzione 0}{nessuno}{Costituzione o Saggezza}
+
+Nel tempo hai allenato la tua Costituzione a reggere gli urti, trasformazioni, veleni e quant'altro volesse modificare il tuo corpo. 
+
+La prima volta che prendi questa Abilità ottieni un bonus di +2 al Tiro Salvezza su Tempra. Il bonus è cumulativo, +2 la prima volta, +1 la \textbf{seconda}, +1 la \textbf{terza}.
 
 La quarta volta che prendi questa Abilità puoi decidere di riuscire automaticamente in un Tiro Salvezza su Tempra una volta al giorno come Reazione. Deve essere dichiarata e non fa tirare il Tiro Salvezza.
 
-\subsection*{Riflessi fulminei}\index{Riflessi fulminei}\label{riflessifulminei}\hypertarget{riflessifulminei}{}
-
-\textbf{Requisito}: Destrezza 1
-
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+\ability{Riflessi fulminei}{riflessifulminei}{Destrezza 1}{nessuno}{ Destrezza o Intelligenza}
 
 Nel tempo hai allenato i tuoi riflessi a schivare e prevedere qualsiasi ostacolo. La prima volta prendi questa Abilità ottieni un bonus di +2 ai Tiri Salvezza su Riflessi. Il bonus è cumulativo, +2 la prima volta, +1 la \textbf{seconda}, +1 la \textbf{terza}.
 
 La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire automaticamente in un Tiro Salvezza su Riflessi una volta al giorno come Reazione. Deve essere dichiarata e non fa tirare il Tiro Salvezza.
 
-\subsection*{Sangue Puro}\index{Sangue Puro}\label{sanguepuro}\hypertarget{sanguepuro}{}
-
-\textbf{Requisito}: Animalia, Devoto di Efrem oppure Shayalia
-
-\textbf{Tiri Salvezza}: +1 Volontà , +2 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o Costituzione
+\ability{Sangue Puro}{sanguepuro}{Animalia, Devoto di Efrem oppure Shayalia}{+1 Volontà , +2 Tempra}{Modificatore di caratteristica per incantesimi o Costituzione}
 
 Con questa Abilità ogni tuo attacco quando ti trasformi con Animalia causa 1 danno aggiuntivo ed è considerato un attacco magico +1. Concentrandoti sul tuo passo puoi lasciare le impronte di un animale in cui ti puoi trasformare ed il terreno si considera doppiamente difficile.
 
@@ -6435,28 +5946,21 @@ Le \textbf{terza volta} che prendi questa Abilità, Competenza Magica 12, quando
 
 Le Abilità due e tre sono cumulative.
 
-\subsection*{Sapiente}\index{Sapiente}\label{sapiente}\hypertarget{sapiente}{}
+\ability{Sapiente}{sapiente}{Competenza Magica 1, solo alla creazione del personaggio
 
-\textbf{Requisito}: Competenza Magica 1, solo alla creazione del personaggio
+}{+2 Volontà
 
-\textbf{Tiri Salvezza}: +2 Volontà
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Il tuo interesse e connessione con la magia non ha eguali. Puoi conoscere due incantesimi in più (pur rispettando i vincoli di massimo livello copiabile sul Tomo).
 
 
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/turning-undead-six.png}
-\end{center}
 
-\subsection*{Scacciare i non morti}\index{Scacciare i non morti}\label{scacciarenonmorti}\hypertarget{scacciareinonmorti}{}
+\ability{Scacciare i non morti}{scacciareinonmorti}{Somma Tratti comune 2, essere Devoto o Seguace
 
-\textbf{Requisito}: Somma Tratti comune 2, essere Devoto o Seguace
+}{+2 Volontà, +1 Tempra
 
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Tempra
-
-\textbf{Caratteristica Potenziata}: Carisma o Saggezza
+}{Carisma o Saggezza}
 
 Concentrandoti sulla potenza del tuo Patrono convogli l'energia positiva ed allontani o distruggi i non-morti.
 
@@ -6477,13 +5981,15 @@ Un Devoto di Sixiser al posto di scacciare e distruggere può dominare il non mo
 Un Devoto di Thaft ottiene +1d6 al Potere Divino.
 
 
-\subsection*{Schivare trappole}\index{Schivare trappole}\label{schivaretrappole}\hypertarget{schivaretrappole}{}
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{immagini/turning-undead-six.png}
+\end{center}
 
-\textbf{Requisito}: Destrezza 2
+\ability{Schivare trappole}{schivaretrappole}{Destrezza 2
 
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Tempra
+}{+2 Riflessi, +1 Tempra
 
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+}{Destrezza o Intelligenza}
 
 La \textbf{prima volta} che prendi l'Abilità ottieni un bonus di +1d6 al Tiro Salvezza per evitare l'effetto delle trappole.
 
@@ -6493,13 +5999,11 @@ E' anche possibile usare questa Abilità, usa una Reazione, per evitare Attacco 
 
 %La \textbf{terza volta} che prendi l'Abilità requisiti Competenza Armi 9, il Tiro Salvezza se riuscito ti permette di evitare qualsiasi effetto della trappola, se fisicamente possibile.
 
-\subsection*{Schivata prodigiosa}\index{Schivata prodigiosa}\label{schivataprodigiosa}\hypertarget{schivataprodigiosa}{}
+\ability{Schivata prodigiosa}{schivataprodigiosa}{Destrezza 3
 
-\textbf{Requisito}: Destrezza 3
+}{+2 Riflessi
 
-\textbf{Tiri Salvezza}: +2 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Saggezza
+}{Destrezza o Saggezza}
 
 Come Reazione ad una Azione di attacco avversaria puoi aggiungere +1 alla tua Difesa. Puoi usare l'Abilità fino a 3 volte al giorno.
 
@@ -6507,15 +6011,13 @@ La \textbf{seconda volta} che prendi l'Abilità, requisito Competenza Armi 4, un
 
 La \textbf{terza volta} che prendi l'Abilità, requisito Competenza Armi 8, Destrezza 4, fino a due avversari non prendono il bonus al colpire dato fa fiancheggiamento.
 
-Puoi usare l'Abilità anche dopo che si è saputo di quanto si è stati colpiti. 
+Puoi usare l'Abilità anche dopo che si è saputo di quanto si è stati colpiti.
 
-\subsection*{Seconda pelle}\index{Seconda pelle}\label{secondapelle}\hypertarget{secondapelle}{}
+\ability{Seconda pelle}{secondapelle}{Competenza Armi 1
 
-\textbf{Requisito}: Competenza Armi 1
+}{+2 Tempra
 
-\textbf{Tiri Salvezza}: +2 Tempra
-
-\textbf{Caratteristica Potenziata}: Costituzione o Forza
+}{Costituzione o Forza}
 
 Il costante utilizzo dell'armatura ti permette di indossarle senza grosse penalità.
 
@@ -6525,13 +6027,11 @@ La \textbf{seconda volta} che si prende questa Abilità, requisito Competenza Ar
 
 La \textbf{terza volta} che si prende questa Abilità, requisito Competenza Armi 11, la penalità alle prove di competenza diminuisce di ulteriori 1. La penalità al movimento diminuisce di un ulteriore 1 metro. Puoi dormire in armature pesanti senza essere affaticato.
 
-\subsection*{Segugio}\index{Segugio}\label{segugio}\hypertarget{segugio}{}
+\ability{Segugio}{segugio}{Intelligenza 1, Saggezza 1, Competenza Armi 1
 
-\textbf{Requisito}: Intelligenza 1, Saggezza 1, Competenza Armi 1
+}{+1 Riflessi, +1 Volontà
 
-\textbf{Tiri Salvezza}: +1 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Saggezza o Intelligenza
+}{Saggezza o Intelligenza}
 
 Hai un talento naturale per seguire le persone
 
@@ -6543,67 +6043,43 @@ La \textbf{terza} volta che prendi questa Abilità, requisito Competenza Armi 16
 
 Il bonus può essere usato al Tiro per Colpire, Tiri Salvezza causati dall'avversario e prove di competenza di Base, non al danno.
 
-\subsection*{Senza Traccia}\index{Senza Traccia}\label{senzatraccia}\hypertarget{senzatraccia}{}
+\ability{Senza Traccia}{senzatraccia}{Passo sicuro
 
-\textbf{Requisito}: Passo sicuro
+}{+2 Volontà, +1 Riflessi
 
-\textbf{Tiri Salvezza}: +2 Volontà, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Saggezza o Destrezza
+}{Saggezza o Destrezza}
 
 La capacità di non lasciare impronte nell'ambiente scelto. Ogni volta che prendi questa Abilità puoi scegliere un ambiente diverso (vedi Abilità Passo Sicuro) di cui hai preso l'Abilità. La difficoltà della prova di Seguire Tracce per inseguirti aumentata di 10.
 
-\subsection*{Sifone Nero}\index{Sifone nero}\label{sifonenero}\hypertarget{sifonenero}{}
+\ability{Sifone Nero}{sifonenero}{Competenza magia 6, Seguace o Devoto di Tazher, punti Tratto in comune 6}{+1 Tempra, +2 Volontà}{Modificatore di caratteristica per incantesimi o a scelta}
 
-\textbf{Requisito}: Competenza magia 6, Seguace o Devoto di Tazher, punti Tratto in comune 6
+Quando lanci un incantesimo che abbia durata istantanea e che causi danno ai Punti Ferita ad uno o più soggetti, aumentando di metà, arrotondato per eccesso, i Punti Magia usati nell'incantesimo, recuperi un ammontare di Punti Ferita pari a metà della creatura che ne ha persi di più.
 
-\textbf{Tiri Salvezza}: +1 Tempra, +2 Volontà
+Il tempo di lancio dell'incantesimo aumenta a 3 Azini.
 
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+\ability{Sfortunato}{sfortunato}{Fortunato, almeno 6 punti nella somma dei Tratti}{+1 Tempra, +1 Volontà}{una caratteristica a scelta}
 
-Lanci un incantesimo che abbia durata istantanea e che causi danno ai Punti Ferita ad uno o più soggetti. Aumentando di metà, arrotondato per eccesso, i Punti Magia usati nell'incantesimo, recuperi un ammontare di Punti Ferita pari a metà della creatura che ne ha persi di più.
+Una volta al giorno puoi trasformare un 6 tirato dal Narratore (Tiri per Colpire, Prove Competenze, Tiri Salvezza) in un 1. L'Abilità si puo' dichiarare una volta venuto a sapere del tiro effettuato.
 
-Il lancio dell'incantesimo se di 2 o meno Azioni diventa 3 Azioni.
-
-\subsection*{Sfortunato}\index{Sfortunato}\label{sfortunato}\hypertarget{sfortunato}{}
-
-\textbf{Requisito}: Fortunato, almeno 6 punti nella somma dei Tratti
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: una caratteristica a scelta
-
-Una volta al giorno puoi trasformare un 6 tirato dal Narratore (Tiri per Colpire, Prove Competenze, Tiri Salvezza) in un 1.
-
-\subsection*{Spara e Scappa}\index{Spara e Scappa}\label{sparaescappa}\hypertarget{sparaescappa}{}
-
-\textbf{Requisito}: Lista Balestre 3
-
-\textbf{Tiri Salvezza}: +1 Tempra, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Carisma
+\ability{Spara e Scappa}{sparaescappa}{Lista Balestre 3}{+1 Tempra, +1 Riflessi}{Destrezza o Carisma}
 
 Mentre esegui una Azione di Movimento puoi ridurre di 1 Azione il tempo di caricamento della tua balestra. In caso di Balestre Leggere od a una mano puoi puoi quindi ricaricarla mentre ti muovi, in caso di Balestre pesanti riduci di 1 Azione il tempo di caricamento.
 
-\subsection*{Specialista}\index{Specialista}\label{specialista}\hypertarget{specialista}{}
+\ability{Specialista}{specialista}{Competenza Magica 3
 
-\textbf{Requisito}: Competenza Magica 3
+}{+2 Tempra
 
-\textbf{Tiri Salvezza}: +2 Tempra
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Scegli un incantesimo che conosci, i Punti Magia spesi per lanciare questo incantesimo diminuiscono di 1.
 
-L'Abilità può essere presa più volte su incantesimi diversi ed anche sullo stesso purché i Punti Magia per lanciare l'incantesimo siano superiori o pari alla metà del costo originale. 
+L'Abilità può essere presa più volte su incantesimi diversi ed anche sullo stesso purché i Punti Magia per lanciare l'incantesimo siano superiori o pari alla metà del costo originale.
 
-\subsection*{Stai giù!}\index{Stai giù!}\label{staigiu}\hypertarget{staigiu}{}
+\ability{Stai giù!}{staigiu}{Competenza Armi 3
 
-\textbf{Requisito}: Competenza Armi 3
+}{+2 Tempra, +1 Volontà
 
-\textbf{Tiri Salvezza}: +2 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Carisma
+}{Forza o Carisma}
 
 Quando un tuo attacco causa due tiri critici su un avversario, la forza del colpo è tale da metterlo prono. L'avversario deve fare un Tiro Salvezza Tempra (DC pari all'ultimo Tiro per Colpire con l'arma che ha causato l'ultimo tiro critico) o cadere prono. L'Abilità funziona su creature di taglia pari o inferiore a quella del personaggio.
 
@@ -6611,13 +6087,11 @@ La \textbf{seconda volta} che prendi l'Abilità puoi influenzare anche creature 
 
 La \textbf{terza volta} che prendi l'Abilità puoi influenzare anche creature di due taglie superiori. Il grado 3 non è cumulabile con il grado 2.
 
-\subsection*{Tattico}\index{Specialista}\label{tattico}\hypertarget{tattico}{}
+\ability{Tattico}{tattico}{Competenza Armi 1, Intelligenza 1
 
-\textbf{Requisito}: Competenza Armi 1, Intelligenza 1
+}{+1 Tempra , +1 Volontà
 
-\textbf{Tiri Salvezza}: +1 Tempra , +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Intelligenza o Carisma
+}{Intelligenza o Carisma}
 
 Hai una capacità quasi istintiva di gestire e prevedere l'esito dei combattimenti.
 
@@ -6625,84 +6099,52 @@ La \textbf{prima volta} che prendi quest'Abilità puoi scambiare, round per roun
 
 La \textbf{seconda volta} che prendi quest'Abilità, requisito Intelligenza 2, Competenza Armi 6, puoi scambiare l'iniziativa, round per round, tra due tuoi compagni o avversari che siano a distanza di mischia tra di loro. Costo 1 Azione.
 
-\subsection*{Tempesta di Furia}\index{Tempesta di Furia}\label{tempestadifuria}\hypertarget{tempestadifuria}{}
+\ability{Tempesta di Furia}{tempestadifuria}{Lista Pugno Vuoto 7, Destrezza 1, Forza 1
 
-\textbf{Requisito}: Lista Pugno Vuoto 7, Destrezza 1, Forza 1
+}{+2 Riflessi, +1 Volontà
 
-\textbf{Tiri Salvezza}: +2 Riflessi, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Destrezza o Forza
+}{Destrezza o Forza}
 
 Quando usi questa Abilità puoi dichiarare di usare la Tempesta di Furia come tua unica Azione (3 Azioni).
 
 Fai un unico Tiro per Colpire con -1d6 e se colpisci con il tuo attacco naturale causi un numero di danno critico pari a Lista Pugno Vuoto/4.
 
-\subsection*{Testa cava}\index{Testa cava}\label{testacava}\hypertarget{testacava}{}
-
-\textbf{Requisito}: Lista Balestre 4
-
-\textbf{Tiri Salvezza}: +2 Tempra
-
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+\ability{Testa cava}{testacava}{Lista Balestre 4}{+2 Tempra}{Destrezza o Intelligenza}
 
 Riesci a imprimere un mortale effetto ai tuoi proiettili.
 
 Il tuo dardo da balestra aumenta di una taglia di danno.
 
-\subsection*{Tiro Preciso}\index{Tiro preciso}\label{tiropreciso}\hypertarget{tiropreciso}{}
+\ability{Tiro Preciso}{tiropreciso}{Destrezza 3, Competenza Armi 1}{+2 Riflessi}{Destrezza o Saggezza}
 
-\textbf{Requisito}: Destrezza 3, Competenza Armi 1
+Da vicino sai colpire dove fa male.
 
-\textbf{Tiri Salvezza}: +2 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Saggezza
-
-Guadagni un +1 colpire e +1 al danno ed al Tiro per Colpire, con armi da lancio, archi o balestre, con bersagli entro 9 metri.
+Guadagni +1 al Tiro per Colpire ed al danno, con armi da lancio quando il bersaglio è entro 9 metri.
 
 %\begin{center}
 %\includegraphics[width=0.7\linewidth]{immagini/kenilguerriero.png}
 %\end{center}
 
-\subsection*{Tiro Rapido}\index{Tiro rapido}\label{tirorapido}\hypertarget{tirorapido}{}
+\ability{Tiro Rapido}{tirorapido}{Destrezza 3, Tiro Preciso, Competenza Armi 2}{+2 Riflessi}{Destrezza o Intelligenza}
 
-\textbf{Requisito}: Destrezza 3, Tiro Preciso, Competenza Armi 2
-
-\textbf{Tiri Salvezza}: +2 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+Non hai rivale nella precisione con cui scagli i tuoi proiettili.
 
 Quando usi arco, balestre o lanci un arma le penalità per l'attacco multiplo sono inferiori.
 
-Ogni proiettile lanciato oltre il primo prende un -4 al Tiro per Colpire cumulativo (e non il -5). Il primo colpo ha un Tiro per Colpire normale, il secondo ha un -4, il terzo un -8 ...
+Ogni proiettile lanciato oltre il primo prende un -4 al Tiro per Colpire cumulativo (e non il -5). 
 
-\subsection*{Toccata e fuga}\index{Toccata e fuga}\label{toccataefuga}\hypertarget{toccataefuga}{}
+Il primo colpo ha un Tiro per Colpire normale, il secondo ha un -4, il terzo un -8 ...
 
-\textbf{Requisito}: Destrezza 1, Competenza Armi 1
-
-\textbf{Tiri Salvezza}: +2 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Intelligenza
+\ability{Toccata e fuga}{toccataefuga}{Destrezza 1, Competenza Armi 1}{+2 Riflessi}{Destrezza o Intelligenza}
 
 Se nel round esegui almeno un attacco questi hanno una penalità base di -5 e puoi effettuare una Azione di movimento in più. Non è possibile eseguire in questa maniera più di una Azione di Movimento bonus. Costa una Azione Immediata.
 
-\subsection*{Tutt'uno con la magia}\index{Tutt'uno con la magia}\label{tuttunoconlamagia}\hypertarget{tuttunoconlamagia}{}
-
-\textbf{Requisito}: Adepto della Magia
-
-\textbf{Tiri Salvezza}: +1 in due Tiri Salvezza a propria scelta
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+\ability{Tutt'uno con la magia}{tuttunoconlamagia}{Adepto della Magia}{+1 in due Tiri Salvezza a propria scelta}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Ogni volta che prendi l'Abilità Tutt'uno con la magia devi stabilire a che Caratteristica si collega.
 La tua Caratteristica ha un +1 al valore per determinare effetti dell'incantesimo.
 
-\subsection*{Un braccio, un arma}\index{Un braccio, un arma}\label{unbracciounarma}\hypertarget{unbracciounarma}{}
-
-\textbf{Requisito}: Competenza Armi, 2
-
-\textbf{Tiro Salvezza}: +1 Tempra, +1 Volontà
-
-\textbf{Caratteristica Potenziata}: Forza o Costituzione
+\ability{Un braccio, un arma}{unbracciounarma}{Competenza Armi 2}{+1 Tempra, +1 Volontà}{Forza o Costituzione}
 
 Scegli una Lista d'Armi. Il danno da Forza applicato dalle armi di quella lista aumenta di 1.
 
@@ -6710,33 +6152,19 @@ L'Abilità può essere presa più volte e il punteggio della Lista d'Armi deve e
 
 Se prendi \textbf{4 volte} quest'Abilità sulla stessa Lista d'Armi il bonus al danno si riduce a +2 ma tiri due volte il danno e scegli il risultato migliore. Non si applica sull'esplosione del danno o sul danno critico.
 
-\subsection*{Un colpo un morto}\index{Un gesto un morto}\label{uncolpounmorto}\hypertarget{uncolpounmorto}{}
 
-\textbf{Requisito}: Competenza Magica 1, Adepto della Magia 1
-
-\textbf{Tiri Salvezza}: +2 Riflessi
-
-\textbf{Caratteristica Potenziata}: Modificatore di caratteristica per incantesimi o a scelta
+\ability{Un colpo un morto}{uncolpounmorto}{Competenza Magica 1, Adepto della Magia 1}{+2 Riflessi}{Modificatore di caratteristica per incantesimi o a scelta}
 
 La \textbf{prima volta} che prendi questa Abilità ottieni un +1 ai Tiri per Colpire agli incantesimi che richiedono un Tiro per Colpire.
 
 La \textbf{seconda volta} il bonus al Tiro per Colpire per Incantesimi diventa +1 per ogni volta che hai preso l'Abilità Adepto della Magia. Non si cumula con il bonus preso la volta precedente.
 
-\subsection*{Un solo corpo, una sola mente, un solo spirito}\index{Un solo corpo, una sola mente, un solo spirito}\label{USCMS}\index{USCMS}\hypertarget{uscms}{}
 
-\textbf{Tiri Salvezza}: +1 a scelta
-
-\textbf{Caratteristica Potenziata}: Nessuna
+\ability{Un solo corpo, una sola mente, un solo spirito}{uscms}{nessuno}{ +1 a scelta}{nessuna}
 
 Assegnate un punto a Competenza Armi oppure Competenza Magica. Questa Abilità può essere presa al massimo 2 volte.
 
-\subsection*{Uno con l'arco}\index{Uno con l'arco}\label{unoconlarco}\hypertarget{unoconlarco}{}
-
-\textbf{Requisito}: Competenza Armi, 4
-
-\textbf{Tiro Salvezza}: +1 Tempra, +1 Riflessi
-
-\textbf{Caratteristica Potenziata}: Destrezza o Costituzione
+\ability{Uno con l'arco}{unoconlarco}{Competenza Armi 4}{+1 Tempra, +1 Riflessi}{Destrezza o Costituzione}
 
 A discapito del nome questa Abilità si applica a tutte le armi che lanciano proiettili.
 
@@ -6744,11 +6172,7 @@ La penalità per scagliare proiettili mentre si usa un Arma da Lancio sotto mina
 
 La \textbf{seconda volta} che prendi questa Abilità, Destrezza 3 e Competenza Armi 7, le penalità vengono annullate.
 
-\subsection*{Volonta' Ferrea}\index{Volontà Ferrea}\label{volontaferrea}\hypertarget{volontaferrea}{}
-
-\textbf{Requisito}: Saggezza 0
-
-\textbf{Caratteristica Potenziata}: Saggezza o Carisma
+\ability{Volonta' Ferrea}{volontaferrea}{Saggezza 0}{nessuno}{Saggezza o Carisma}
 
 Nel tempo hai allenato la tua volontà per resistere a qualsiasi debolezza e paura.
 
@@ -6756,28 +6180,25 @@ La prima volta prendi questa Abilità ottieni un bonus di +2 ai Tiri Salvezza su
 
 La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire automaticamente in un Tiro Salvezza su Volontà una volta al giorno prima di aver tirato i dadi. Costa una Reazione.
 
+
 \end{multicols}
 
 \vfill
 
 \begin{center}
-
-\includegraphics[width=0.8\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
-
-%%\filltopageendgraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
-
-\emph{Attorno ad un fuoco, vivi un altro giorno!}
+	
+	\includegraphics[width=0.8\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+	
+	%%\filltopageendgraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+	
+	\emph{Attorno ad un fuoco, vivi un altro giorno!}
 \end{center}
 
 \pagebreak
 
-\begin{multicols}{2}
-
 \subsection{Raggruppamento Abilita' per Stile}
 
 Per facilitare la transizione da chi viene da altri giochi di ruolo con classi sono qui suddivise le Abilità per le classi più canoniche. Sono chiaramente solo indicazioni, in OBSS il personaggio può essere costruito come meglio si preferisce e come la storia che vive lo sta istruendo.
-
-\end{multicols}
 
 \begin{multicols}{3}
 
@@ -6969,18 +6390,16 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 
 \end{multicols}
 
-\pagebreak
+\subsection{Esempi di costruzione del personaggio}
 
-\section{Esempi di costruzione del personaggio}
-
-So qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy, prendeteli come uno spunto per costruire i vostri personaggi
+Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy, prendeteli come uno spunto per costruire i vostri personaggi
 
 {\small 
 
 
 \begin{multicols}{2}
 
-\subsection*{Guerriero}
+\subsubsection*{Guerriero}
 
 \begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 \textbf{Lv} & \multicolumn{3}{c|}{\textbf{Guerriero}} & \textbf{Abilità} \\
@@ -7010,7 +6429,7 @@ So qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy,
 \end{tabularx}
 
 	
-\subsection*{Ladro}
+\subsubsection*{Ladro}
 
 \begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 \textbf{Lv} & \multicolumn{3}{c|}{\textbf{Ladro}} & \textbf{Abilità} \\
@@ -7039,7 +6458,7 @@ So qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy,
 \bottomrule
 \end{tabularx}
 
-\subsection*{Mago}
+\subsubsection*{Mago}
 	
 \begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 \textbf{Lv} & \multicolumn{3}{c|}{\textbf{Mago}} & \textbf{Abilità} \\
@@ -7070,7 +6489,7 @@ So qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy,
 
 
 	
-\subsection*{Chierico}
+\subsubsection*{Chierico}
 	
 \begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Chierico}} & \textbf{Abilità}  \\
@@ -7100,7 +6519,7 @@ So qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy,
 \end{tabularx}
 
 
-\subsection*{Barbaro}
+\subsubsection*{Barbaro}
 
 \begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Barbaro}} & \textbf{Abilità} \\
@@ -7131,7 +6550,7 @@ So qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy,
 
 \bigskip
 
-\subsection*{Paladino}
+\subsubsection*{Paladino}
 		
 \begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Paladino}} & \textbf{Abilità} \\
@@ -7161,7 +6580,8 @@ So qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy,
 \end{tabularx}
 
 		
-\subsection*{Bardo}
+\subsubsection*{Bardo}
+
 \begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Bardo}} & \textbf{Abilità} \\
 & \centering\arraybackslash \textbf{CA} & \centering\arraybackslash \textbf{CM} & \centering\arraybackslash \textbf{PF} & \\
@@ -7189,8 +6609,8 @@ So qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy,
 \bottomrule
 \end{tabularx}
 
-\subsection*{Druido}
 
+\subsubsection*{Druido}
 
 \begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Druido}} & \textbf{Abilità} \\
@@ -15491,7 +14911,7 @@ Consultate anche il capitolo sull'\hyperlink{ingombro}{Ingombro} (pag. \pageref{
 
 \label{equipaggiamento---armi}
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-Questo è il mio fucile. Ce ne sono tanti come lui, ma questo è il mio. Il mio fucile è il mio migliore amico, è la mia vita. Io debbo dominarlo come domino la mia vita. Senza di me il mio fucile non è niente; senza il mio fucile io sono niente. Debbo saper colpire il bersaglio, debbo sparare meglio del mio nemico che cerca di ammazzare me, debbo sparare io prima che lui spari a me e lo farò. Al cospetto di Dio giuro su questo credo: il mio fucile e me stesso siamo i difensori della patria, siamo i dominatori dei nostri nemici, siamo i salvatori della nostra vita e così sia, finché non ci sarà più nemico ma solo pace, amen. (Full Metal Jacket, Film 1987)
+Questo è il mio fucile. Ce ne sono tanti come lui, ma questo è il mio. Il mio fucile è il mio migliore amico, è la mia vita. Io debbo dominarlo come domino la mia vita. Senza di me il mio fucile non è niente; senza il mio fucile io sono niente. Debbo saper colpire il bersaglio, debbo sparare meglio del mio nemico che cerca di ammazzare me, debbo sparare io prima che lui spari a me e lo farò. Al cospetto di Dio giuro su questo credo: il mio fucile e me stesso siamo i difensori della patria, siamo i dominatori dei nostri nemici, siamo i salvatori della nostra vita e così sia, finché non ci sarà più nemico ma solo pace, amen. (Full Metal Jacket, Film, 1987)
 
 \medskip
 
