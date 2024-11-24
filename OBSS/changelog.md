@@ -750,7 +750,7 @@ aggiornata versione POD 2024/11/19
 
 0.99.23s3 aggiornato quando si prendono le abilita', dettagli su animalia, modificato tempo preparazione veleni, rivisto capitolo pozioni e veleni e riaggiornate difficolta' e metodi, aggiornato metodo per identificare pozioni e veleni, aggiorata pozione cura maggiore
 
-0.99.23 migliorato layour masterizzare, 
+0.99.23 migliorato layout masterizzare, 
 
 
 
