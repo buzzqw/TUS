@@ -153,7 +153,7 @@ boxrule=0.3pt
 \smash{\includegraphics[keepaspectratio=true,height=\dimexpr\zposy{top-\thepage}sp-\zposy{bottom-\thepage}sp\relax,#1]{#2}}%
 \par
 }
-
+\usepackage{listings}
 \usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
 \usepackage[framemethod=TikZ]{mdframed}
 %\usepackage{garamondx} %\usepackage{tgpagella}  %\usepackage{lmodern} %\usepackage{gentium}
@@ -19023,7 +19023,7 @@ X & Sconosciuto  & X & Sconosciuto&&\\
 
 Il Narratore è libero di usare tutte le pozioni e veleni già elencate oppure usare delle pozioni generiche pronte all'uso. Nella tabella sono indicati i costi ed effetti di queste pozioni generiche.
 
-L'insorgenza è sempre immediata, la durata per le cure è immediata, per le altre è 1 ora (quindi la pozione Rimuovi Veleno ti immunizza per 1 ora contro un veleno). Per le pozioni che causano danno il Tiro Salvezza è per annullarne gli effetti.
+L'insorgenza è sempre immediata, la durata per le cure è immediata, per le altre è 1 ora (quindi la pozione Rimuovi Veleno ti protegge per 1 ora contro un veleno). 
 
 \end{multicols}
 
@@ -19033,30 +19033,32 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 
 \medskip
 
-{\small \begin{tabularx}{0.95\textwidth}{lXcc}
-\textbf{Nome Pozione}&  \textbf{Effetto}&  \textbf{Costo (mo)}& \textbf{Applicazione}\\
+\small{
+\begin{tabularx}{0.98\textwidth}{lXcc}
+\textbf{Nome Pozione}& \textbf{Effetto}&  \textbf{Costo (mo)}& \textbf{Appl.}\\
 \toprule
-Cura& recuperi 1d8+1 Punti Ferita & 50 & Ingestione\\
+Cura& cura 1d8+1 Punti Ferita & 50 & I\\
 \toprule
-Cura potenziata& recuperi 3d8+3 Punti Ferita & 125  & Ingestione\\
+Cura potenziata& cura 3d8+3 Punti Ferita & 125  & I\\
 \toprule
-Cura maggiore& recuperi 3d10+30 Punti Ferita & 300  & Ingestione\\
+Cura maggiore& cura 3d10+15 Punti Ferita & 300  & I\\
 \toprule
-Indebolente& -2 TC. TS DC 15 Tempra per annullare gli effetti& 35 & Ingestione\\
+Indebolente& -2 TC. TS DC 15 Tempra per annullare gli effetti& 35 & I\\
 \toprule
-Indebolente potenziata& -1d6 TC. TS DC 18 Tempra per annullare gli effetti& 50 & Ferimento \\
+Indebolente potenziata& -1d6 TC. TS DC 18 Tempra per annullare gli effetti& 50 & F \\
 \toprule
-Veleno&  2d6+2 di danno. TS DC 15 Tempra per dimezzare gli effetti& 30 & Ingestione \\
+Veleno&  2d6+2 di danno. TS DC 15 Tempra per dimezzare gli effetti& 30 & I \\
 \toprule
-Veleno potenziata&  2d8+4 di danno. TS DC 18 Tempra per dimezzare gli effetti& 50 & Ferimento \\
+Veleno potenziata& 2d8+4 di danno. TS DC 18 Tempra per dimezzare gli effetti& 50 & F \\
 \toprule
-Veleno maggiore&  4d10+8 di danno. TS DC 24 Tempra per dimezzare gli effetti& 125 & Ferimento \\
+Veleno maggiore  & 4d10+8 di danno. TS DC 24 Tempra per dimezzare gli effetti& 125 & F \\
 \toprule
-Rimuovi Veleno& concede un nuovo TS con +1d6 & 75 & Ingestione\\
+Rimuovi Veleno& concede un nuovo TS con +1d6 & 75 & I\\
 \toprule
-Pozione Generica* & vedi \hyperlink{crearepozioni}{Creare Pozioni} (pag. \pageref{crearepozioni}) &Lv*Lv*50&Ingestione
+Pozione Generica* & vedi \hyperlink{crearepozioni}{Creare Pozioni} (pag. \pageref{crearepozioni}) &Lv*Lv*50&I
 \end{tabularx}
-}
+}\normalsize
+
 
 \begin{center}
 \includegraphics[width=0.2\linewidth]{immagini/mandragola2.png}
@@ -19083,7 +19085,7 @@ Unto Grigio \index{Unto Grigio} & I  & 1 round & 24& Rimuove condizionamenti men
 \toprule
 Cenere di Arpasur \index{Cenere di Arpasur}  & R  & 1 round & 20& Rimuove 2 livelli di affaticato  & FT6 & 10  \\
 \toprule
-%Carne secca di Toporagno Viola \index{Carne secca di Ragno Viola} & I  & 1 round & 24& +4 Forza -4 Intelligenza (minimo -3) per 1 turno& SH7 & 30 \\
+%Carne secca di Toporagno Viola \index{Carne secca di Ragno Viola} & I  & 1 round & 24& +4 Forza -4 Intelligenza (minimo -3) per 1 turno& SH7 & 30 \\ 
 %\toprule
 Estratto alcolico di Melzaa\index{Estratto alcolico di Melzaa}  & I  & 1 round & 20& +2 For, +2 Des, -2 Sag. Per 1d4 ore & AF6 & 25 \\
 \toprule
@@ -19160,7 +19162,7 @@ Esempi di Malattie:
 \vfill
 
 \begin{center}
-	\includegraphics[width=0.3\linewidth]{immagini/plaguedoctor.png}
+	\includegraphics[width=0.35\linewidth]{immagini/plaguedoctor.png}
 	
 	\emph{Engraving of the Plague Doctor, Paul Furst, 1656}
 \end{center}
@@ -19563,11 +19565,11 @@ Fluttuare è la capacità che consente di rimanere fluttuante nell'aria, all'alt
 
 \end{multicols}
 
-%\vfill
+\vfill
 
-%\begin{center}
-%\includegraphics[width=0.37\linewidth]{immagini/grifonicastello.png}
-%\end{center}
+\begin{center}
+\includegraphics[width=0.33\linewidth]{immagini/grifonicastello.png}
+\end{center}
 
 
 \pagebreak
@@ -19779,6 +19781,13 @@ Epica& APL +8
 
 \medskip
 
+
+%\begin{center}
+%	\includegraphics[width=0.7\linewidth]{immagini/impegnativa.png}
+%	
+%	\emph{Henry Justice Ford}
+%\end{center}
+
 \textbf{Determinare il grado di Sfida}: Il Grado di Sfida (GS) è un numero di convenienza usato per indicare i rischi relativi presentati da un mostro, una trappola, un pericolo o un altro incontro: più il grado di Sfida è alto, più pericoloso è l'incontro. Riferitevi alla Tabella: Determinare gli Incontri per determinare il Grado di Sfida che il vostro gruppo dovrebbe affrontare, in base alla difficoltà della sfida che volete e al APL.
 
 
@@ -19791,17 +19800,6 @@ Gli scontri sono alla fine una gestione di risorse da usare contro un nemico. Qu
 Se piazzate una sfida Straordinaria come primo incontro è probabile che i giocatori poi decidano di riposarsi per recuperare le energie, diversamente potreste optare per stancarli pian piano con incontri medi e poi provarli con una difficoltà maggiore. Ricorda infine che uno \emph{scontro} non deve essere per forza fisico, ma anche trappole, puzzle/indovinelli, sfide alternative.. qualsiasi cosa che faccia consumare risorse e ragionare.
 
 Valutate sempre dove si muovono e cosa c'è intorno, verrà naturale trovare il giusto numero e tipi di scontri e nemici.
-
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/impegnativa.png}
-
-\emph{Henry Justice Ford}
-\end{center}
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-L'essenza del mondo è il gioco ... noi giochiamo il serio, giochiamo l'autentico, giochiamo la realtà, il lavoro e la lotta, giochiamo l'amore e la morte e giochiamo perfino il gioco. (Eugen Fink)
-}\end{enfasi}\end{changemargin}
-
 
 \subsubsection{Costruire l'Incontro}\index{Costruire l'Incontro}\label{costruireincontro}
 
@@ -19868,6 +19866,12 @@ Se i giocatori si aspettano pochi incontri è probabile che useranno le loro mig
 E' possibile che ci siano troppi pochi nemici e quindi anche se questi sono \emph{forti} canalizzando su di loro tutti gli attacchi risultano facile preda dei personaggi, in questo caso dei gregari o l'impedire di riposare e quindi recuperare Punti Magie ed Punti Ferita sarà di aiuto.
 
 E' ovviamente possibile che lo scontro non sia tarato bene ed effettivamente abbiate bilanciato l'incontro perché sia troppo facile, questo è il caso più facile da risolvere, l'esperienza vi insegnerà a meglio costruire gli incontri vuoi aggiungendo o sostituendo gli avversari.
+
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+L'essenza del mondo è il gioco ... noi giochiamo il serio, giochiamo l'autentico, giochiamo la realtà, il lavoro e la lotta, giochiamo l'amore e la morte e giochiamo perfino il gioco. (Eugen Fink)
+}\end{enfasi}\end{changemargin}
+
 
 \subsubsection{Lo scontro con il Boss}\index{Lo scontro con il Boss}\index{BBEG}
 
@@ -19995,13 +19999,11 @@ Allo stesso tempo potrebbero esserci situazioni che si rivelano sgradevoli da ge
 
 OBSS usa un sistema di tiro di dadi peculiare andando a mescolare una distribuzione 3d6 ad il potenziale dei 6 che esplodono. Questo sistema riesce a garantire una buona varianza e pur se concentrando i risultati intorno ai valori centrali della distribuzione lascia aperto il limite superiore a tiri particolarmente fortunati.
 
-Se volete divertirvi a studiare la curva corrispondente vi consiglio il sito  \href{https://anydice.com/}{Anydice}. Questo lo pseudo codice da inserire:
+Se volete divertirvi a studiare la curva corrispondente vi consiglio il sito  \href{https://anydice.com/}{Anydice}. Questo lo pseudo codice da inserire (o cliccate \href{https://anydice.com/program/2610e}{qui} per il codice già inserito):
 
 \medskip
 
-\begin{verbatim}
-
-function: explode ROLLED:n \{
+\noindent{function: explode ROLLED:n \{
 
 if ROLLED = 6 \{ result: 6 + [explode d6] \}
 
@@ -20009,18 +20011,14 @@ if ROLLED = 1 \{ result: 0 \}
 
 result: ROLLED\}
 
-output 3d[explode d6]
+output 3d[explode d6]}
 
-\end{verbatim}
-
-
-\medskip
 
 oppure cliccate \href{https://anydice.com/program/2610e}{qui} per il codice già inserito.
 
 \subsubsection{Opzionale - Variante Tiri Critici}\index{Opzionale - Variante Tiri Critici}\label{variantetiricritici}\hypertarget{variantetiricritici}{}
 
-In OBSS vale la regola che se un successo viene fatto ottenendo almeno due 6 con i dadi si definisce successo critico, allo stesso modo se fallisco la prova ottenendo nel tiro di dadi due 1 allora si definisce un fallimento critico.
+In OBSS vale la regola che se un successo viene fatto ottenendo almeno due 6 con i dadi si definisce successo critico, allo stesso modo se fallisco la prova ottenendo nel tiro di dadi due 1, oppure un 1 e due 2, allora si definisce un fallimento critico.
 
 Questi tiri critici molto legati all'aleatorietà dei dadi potrebbero non piacere a tutti i giocatori e come per la regola \hyperlink{tirocriticovariante}{Opzionale Tiro Critico Variante} (pag. \pageref{tirocriticovariante}) questa regola opzionale stabilisce che in caso di Prova di Competenza, Tiro per Colpire e Tiro Salvezza:
 
