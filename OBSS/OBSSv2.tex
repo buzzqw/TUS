@@ -2538,7 +2538,7 @@ Se non si ha almeno 3 metri di rincorsa si salta la metà. In lungo si salta al 
 Effettuare un Salto da fermo costa 1 Azione. Un Salto effettuato entro metà del proprio movimento (quindi si salta entro 4 metri, per un umano) costa 1 Azione, altrimenti consumi una Azione per il Movimento ed una Azione per il Salto.
 
 \subsubsection*{Conoscenza - Identificare una pozione o veleno naturale}\index{Identificare Veleno}\index{Erboristeria} \index{Identificare Pozione}
-è possibile con una prova di \textbf{Erboristeria} a DC 12 + fattore di rarità della pianta, oppure il TS che questa concede in caso di Veleni.
+è possibile con una prova di \textbf{Erboristeria} a DC uguale al fattore di rarità della pianta, oppure il TS che questa concede in caso di Veleni.
 
 Impiega 1 Azione ogni 10 di DC. Con 6 in Erboristeria il tempo è 1 Azione ogni 15 di DC, con 12 punti è 1 Azione ogni 20 DC eseguire la prova. Se si fallisce con un fallimento critico si è venuti a contatto/ingerito parte della pozione e se ne subiscono gli effetti.
 
@@ -18663,7 +18663,7 @@ Mentre si stava ponendo tutte queste domande... il veleno fece il suo effetto e 
 I veleni e pozioni possono distinguersi in base all'effetto scatenato.
 Non tutti i veleni sono tossici se ingeriti o inalati.
 
-Per identificare una pozione naturale è necessario una prova di Erboristeria a DC 12 + la rarità della pianta oppure in caso di Veleni la difficoltà è pari al Tiro Salvezza dello stesso. Costa 1 Azione ogni 10 di DC oppure, con Erboristeria a 6 o più, costa 1 Azione ogni 15 DC, con 12 punti costa 1 Azione ogni 20 DC. Le pozioni se non descritto diversamente devono essere bevute (ingestione).
+Per identificare una pozione naturale è necessario una prova di Erboristeria a DC uguale alla rarità della pianta oppure in caso di Veleni alla difficoltà è pari al Tiro Salvezza dello stesso. Costa 1 Azione ogni 10 di DC oppure, con Erboristeria a 6 o più, costa 1 Azione ogni 15 DC, con 12 punti costa 1 Azione ogni 20 DC. Le pozioni se non descritto diversamente devono essere bevute (ingestione).
 
 \textbf{Contatto}: sono contratti nel momento in cui qualcuno tocca il veleno con la pelle nuda. I veleni a contatto hanno solitamente un tempo di insorgenza di 1 round. Un veleno a contatto può essere un unguento, balsamo, liquido di qualsiasi densità o anche polvere se specifica per contatto e non inalazione.
 
@@ -18682,6 +18682,8 @@ Per insorgenza si intende quanto tempo ci mette il veleno o pozione a fare effet
 L'effetto di un veleno/pozione è immediato dopo l'insorgenza. Verificare la descrizione del veleno per capirne l'effetto. Se il Tiro Salvezza su Tempra riesce il veleno non ha fatto effetto e si può ritenere neutralizzato.
 
 Ci sono alcuni casi in cui è presente la voce Frequenza, in queste occasioni il Tiro Salvezza va ripetuto ogni volta che passa la Frequenza indicata, in caso di fallimento del Tiro Salvezza gli effetti indicati vengono nuovamente applicati.
+
+Se il personaggio \textbf{dedica 1 minuto} a bere una Pozione di Cura o Naturale questa avrà effetto massimizzato.\index{Pozioni effetto massimizzato}
 
 %\begin{center}
 %\includegraphics[height=0.6\linewidth]{immagini/potion.png}
@@ -18729,15 +18731,7 @@ Ogni Critico Magico ottenuto con la Prova della magia nel lancio dell'incantesim
 Una prova di Pronto Soccorso\index{Pronto Soccorso e Veleni}\index{Veleni e Pronto Soccorso}, 3 Azioni, che sia almeno la metà della DC del veleno entro il tempo dell'insorgenza, permette di effettuare subito un Tiro Salvezza con un bonus di +2. Questo Tiro Salvezza se riesce annulla gli effetti del veleno, se fallisce la creatura rimane avvelenata, se fallisce criticamente il TS avrà una penalità di -2. Una volta fatta la prova di Pronto Soccorso non è più possibile rifarla se non dopo l'insorgenza.
 Un trattamento continuativo di Pronto Soccorso per 8 ore permette di effettuare un nuovo Tiro Salvezza con +1d6 bonus dopo l'attivazione del veleno se questo è ancora attivo.
 
-\subsection{Creare Veleni Naturali}\index{Creare Veleni Naturali}\label{crearevelenonaturale}
 
-I veleni naturali possono essere realizzati usando Erboristeria. La DC per preparare un veleno è uguale alla DC del Tiro Salvezza -4. Se gli ingredienti si comprano il costo per preparare il veleno è metà del costo di vendita indicato, se si cercano in natura il costo di produzione scende ad un quarto. Il tempo per preparare queste veleni/droghe è pari alla DC/2 in ore.
-
-Ottenendo un fallimento critico con la prova di Erboristeria ci si espone al veleno durante la sua preparazione. Se la prova di DC Erboristeria ha successo se ne preparano 1d2+1 dosi.
-
-Gli esempi seguenti rappresentano solo alcuni dei possibili veleni. Tutti i costi sono espressi in Monete d'Oro.
-
-I Veleni sono presentati, specialmente nel Mostruario con questa dizione: Nome Veleno, Uso (I/R/F/C), tempo Insorgenza, DC del Tiro Salvezza, Effetto.
 
 %\begin{center}
 %\includegraphics[height=0.4\linewidth]{immagini/poison.png}
@@ -18747,72 +18741,95 @@ I Veleni sono presentati, specialmente nel Mostruario con questa dizione: Nome V
 I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Quando volete usare un veleno pensate innanzitutto perché si trova li, per chi doveva essere usato, per quale scopo. Non è detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
 \end{narratore}\end{changemargin}
 
+\medskip
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+Io credo che una foglia d'erba non sia meno di una giornata di lavoro compiuto dagli astri. (Walt Whitman)}
+\end{enfasi}\end{changemargin}
+
+\subsection{Creare Veleni e Pozioni Naturali}\index{Creare Veleni Naturali}\label{crearevelenonaturale}\index{Creare Pozioni Naturali}
+
+Pozioni e veleni naturali possono essere realizzati usando Erboristeria. La DC per preparare il veleno o pozione è uguale alla DC del Tiro Salvezza -4.
+
+Un Erborista può preparare contemporaneamente fino al suo valore in (Erboristeria/2)+1 pozioni naturali o veleni.
+
+Se gli ingredienti si comprano il costo per preparare il veleno è metà del costo di vendita indicato, se si cercano in natura il costo di produzione scende ad un quarto. Il tempo per preparare queste veleni/droghe è pari alla DC/3 in ore. 
+
+Ottenendo un fallimento critico con la prova di Erboristeria ci si espone al prodotto durante la sua preparazione. Se la prova di DC Erboristeria ha successo se ne preparano 1d2+1 dosi.
+
+Una Pozione che \emph{\textbf{Rimuove}} una condizione è efficace se la sua DC è superiore a quella della Condizione stessa. \index{Pozioni e rimozioni condizioni}
+
+Gli esempi seguenti rappresentano solo alcuni dei possibili veleni. Tutti i costi sono espressi in Monete d'Oro. I Veleni sono presentati, specialmente nel Mostruario con questa dizione: Nome Veleno, Uso (I/R/F/C), tempo Insorgenza, DC del Tiro Salvezza, Effetto.
+
+\subsection{Dove trovare le piante}
+
+Ogni Pozione Naturale ha indicato in \textbf{Loc.} una sigla che serve a determinare dove poter trovare le piante.
+
+Es: Gusterbloon CM14. La prima Lettera indica il CLIMA, la Seconda indica l'AMBIENTE, la Terza indica la RARITA'. La rarità indica il valore minimo della prova di Natura o Erboristeria per trovare l'erba/pianta ricercata, se c'è corrispondenza di clima ed ambiente.
+
+
 \end{multicols}
 
-\vfill
-\begin{center}
-\includegraphics[width=0.46\linewidth]{immagini/funeralebarca.png}
-\end{center}
-
-
+\pagebreak
 
 \textbf{Tabella: Veleni}\index[Tabelle]{Tabella Veleni}\label{tabellaveleni}
 
 \medskip
 
 %\begin{xltabular}{1\textwidth}{m{4.5cm}lllm{6.5cm}l} %{XlllXl}
-\noindent\begin{tabularx}{1\textwidth}{XlllXl}
-\toprule
-\textbf{Nome Veleno} & \textbf{Uso} & \textbf{TS} & \textbf{Ins.} & \textbf{Effetto (danno)} & \textbf{MO}\\
-\toprule
-Bacca Viola di Barsar\index{Bacca Viola di Barsar}  & I  & 18  & 1 round  & Incapace di violenze per 3d8 ore  & 40 \\
-\toprule
-Bacche Azzurre di fosso \index{Bacche Azzurre di fosso}  & I  & 21  & 1 Turno  & -1d3 Intelligenza e Saggezza per 6 ore& 55\\
-\toprule
-Bava fermentata di Lucos \index{Bava fermentata di Lucos}\label{bavadilucos}& F  & 15  & - & 1d8 Punti Ferita  & 25\\
-\toprule
-Cenere di Corteccia Gialla \index{Cenere di Corteccia Gialla} & F  & 15  & 6 round  & Privo di sensi per 1d3 ore  & 25\\
-\toprule
-Concentrato Viola \index{Concentrato Viola} & F  & 15  &  & 2d6 Punti Ferita & 15\\
-\toprule
-Dita di Daraka\index{Dita di Daraka} & F  & 17  & - & -1d6 Forza, per 1 ora & 35\\
-\toprule
-Erba puntuta rosa \index{Erba puntuta rosa}  & I  & 22  & 1 round  & -1d6 Destrezza, per 1 ora  & 60\\
-\toprule
-Fegato di Toporagno Viola \index{Fegato di Toporagno Viola} & I  & 25  & 1 ora  & 2d6 di danno a Saggezza e Intelligenza. Permanente & 75 \\
-\toprule
-Fiocco bianco di Mucot \index{Fiocco bianco di Mucot}  & C  & 20  & - & Dorme per 2d12 ore  & 20\\
-\toprule
-Fumi di Curna\index{Fumi di Curna} & R  & 18  & - & -1d3 Saggezza & 40\\
-\toprule
-Gelo blu \index{Gelo blu} & F  & 18  &  & 3d6 Punti Ferita da freddo& 25\\
-\toprule
-Grasso di Toporagno Viola \index{Grasso di Toporagno Viola} & C  & 13  & 1 round  & 2d12 Punti Ferita & 15\\
-\toprule
-Lingua di Kreex \index{Lingua di Kreex} & F  & 20  & - & La ferita sanguina. +1 danno da sanguinamento. 1 uso nelle 24 ore. & 50 \\
-\toprule
-Mistura Rossa \index{Mistura Rossa} & F  & 13  & -  & -1d6 TC/TS per 10 minuti & 10\\
-\toprule
-Muschio Giallo \index{Muschio Giallo}& I  & 20  & 1 round  & la creatura guadagna una taglia. -2 Int e Sag. Durata 10 minuti  & 50\\
-\toprule
-Nocciolo di Dennar \index{Nocciolo di Dennar}  & I  & 13  & 1 round  & -1d2 Forza, per 3gg  & 15\\
-\toprule
-Olio di Nabar \index{Olio di Nabar}  & R-F& 20  & - & Confuso per 2d6 round  & 50\\
-\toprule
-Pelle di Rospo Azzurro \index{Pelle di Rospo Azzurro}  & C  & 22  & 1 minuto & Paralizzato per 1d6 turni& 60\\
-\toprule
-Polline di Rosa di Omro\index{Polline di Rosa di Omro} & I  & 15  & - & -1d3 Costituzione e Destrezza, per 1 ora & 25\\
-\toprule
-Profumo di Ragmor \index{Profumo di Ragmor}  & R  & 16  & - & -1d3 Carisma, per 1 giorno & 30\\
-\toprule
-Sangue di Thrun \index{Sangue di Thrun} & C  & 26  & - & -1d3 Costituzione & 80\\
-\toprule
-Succo di Ythis\index{Succo di Ythis} & I  & 14  & 1 Turno  & -1d2 Intelligenza, per 1g  & 20\\
-\toprule
-Veleno di Ottalm\index{Veleno di Ottalm}  & F  & 20  & - & Morte o -1d2 Costituzione permanente  & 50\\
-\toprule
-Veleno di Serpe del Sangue \index{Veleno di Serpe del Sangue} & F  & 25  & - & Paralisi per 1d6 ore -1d4 punti Forza per 7 giorni & 75
-\end{tabularx}
+%\noindent\begin{tabularx}{1\textwidth}{XlllXl}
+\noindent\begin{xltabular}{1\textwidth}{XlllXl}
+	\toprule
+	\textbf{Nome Veleno} & \textbf{Uso} & \textbf{TS} & \textbf{Ins.} & \textbf{Effetto (danno)} & \textbf{MO}\\
+	\toprule
+	Bacca Viola di Barsar\index{Bacca Viola di Barsar}  & I  & 18  & 1 round  & Incapace di violenze per 3d8 ore  & 40 \\
+	\toprule
+	Bacche Azzurre di fosso \index{Bacche Azzurre di fosso}  & I  & 21  & 1 Turno  & -1d3 Intelligenza e Saggezza per 6 ore& 55\\
+	\toprule
+	Bava fermentata di Lucos \index{Bava fermentata di Lucos}\label{bavadilucos}& F  & 15  & - & 1d8 Punti Ferita  & 25\\
+	\toprule
+	Cenere di Corteccia Gialla \index{Cenere di Corteccia Gialla} & F  & 15  & 6 round  & Privo di sensi per 1d3 ore  & 25\\
+	\toprule
+	Concentrato Viola \index{Concentrato Viola} & F  & 15  &  & 2d6 Punti Ferita & 15\\
+	\toprule
+	Dita di Daraka\index{Dita di Daraka} & F  & 17  & - & -1d6 Forza, per 1 ora & 35\\
+	\toprule
+	Erba puntuta rosa \index{Erba puntuta rosa}  & I  & 22  & 1 round  & -1d6 Destrezza, per 1 ora  & 60\\
+	\toprule
+	Fegato di Toporagno Viola \index{Fegato di Toporagno Viola} & I  & 25  & 1 ora  & 2d6 di danno a Saggezza e Intelligenza. Permanente & 75 \\
+	\toprule
+	Fiocco bianco di Mucot \index{Fiocco bianco di Mucot}  & C  & 20  & - & Dorme per 2d12 ore  & 20\\
+	\toprule
+	Fumi di Curna\index{Fumi di Curna} & R  & 18  & - & -1d3 Saggezza & 40\\
+	\toprule
+	Gelo blu \index{Gelo blu} & F  & 18  &  & 3d6 Punti Ferita da freddo& 25\\
+	\toprule
+	Grasso di Toporagno Viola \index{Grasso di Toporagno Viola} & C  & 13  & 1 round  & 2d12 Punti Ferita & 15\\
+	\toprule
+	Lingua di Kreex \index{Lingua di Kreex} & F  & 20  & - & La ferita sanguina. +1 danno da sanguinamento. 1 uso nelle 24 ore. & 50 \\
+	\toprule
+	Mistura Rossa \index{Mistura Rossa} & F  & 13  & -  & -1d6 TC/TS per 10 minuti & 10\\
+	\toprule
+	Muschio Giallo \index{Muschio Giallo}& I  & 20  & 1 round  & la creatura guadagna una taglia. -2 Int e Sag. Durata 10 minuti  & 50\\
+	\toprule
+	Nocciolo di Dennar \index{Nocciolo di Dennar}  & I  & 13  & 1 round  & -1d2 Forza, per 3gg  & 15\\
+	\toprule
+	Olio di Nabar \index{Olio di Nabar}  & R-F& 20  & - & Confuso per 2d6 round  & 50\\
+	\toprule
+	Pelle di Rospo Azzurro \index{Pelle di Rospo Azzurro}  & C  & 22  & 1 minuto & Paralizzato per 1d6 turni& 60\\
+	\toprule
+	Polline di Rosa di Omro\index{Polline di Rosa di Omro} & I  & 15  & - & -1d3 Costituzione e Destrezza, per 1 ora & 25\\
+	\toprule
+	Profumo di Ragmor \index{Profumo di Ragmor}  & R  & 16  & - & -1d3 Carisma, per 1 giorno & 30\\
+	\toprule
+	Sangue di Thrun \index{Sangue di Thrun} & C  & 26  & - & -1d3 Costituzione & 80\\
+	\toprule
+	Succo di Ythis\index{Succo di Ythis} & I  & 14  & 1 Turno  & -1d2 Intelligenza, per 1g  & 20\\
+	\toprule
+	Veleno di Ottalm\index{Veleno di Ottalm}  & F  & 20  & - & Morte o -1d2 Costituzione permanente  & 50\\
+	\toprule
+	Veleno di Serpe del Sangue \index{Veleno di Serpe del Sangue} & F  & 25  & - & Paralisi per 1d6 ore -1d4 punti Forza per 7 giorni & 75
+\end{xltabular}
 
 \textbf{Applicazione}: \textbf{I}(ngestione), \textbf{F}(erimento), \textbf{C}(ontatto), \textbf{R}(espirazione).
 
@@ -18820,145 +18837,126 @@ Il Tiro Salvezza è sempre su Tempra se non specificato diversamente
 
 I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non permanenti o indicato diversamente.
 
+\medskip
+
+
 \vfill
 
-\begin{center}
-\includegraphics[width=0.2\linewidth]{immagini/mandragola2.png}
 
-\emph{Pianta di Mandragola}
+\begin{center}
+\includegraphics[width=0.5\linewidth]{immagini/funeralebarca.png}
 \end{center}
 
-\pagebreak
 
-\begin{multicols}{2}
-
-
-\subsection{Pozioni naturali}\index{Pozioni}\label{pozioninaturali}
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-Io credo che una foglia d'erba non sia meno di una giornata di lavoro compiuto dagli astri. (Walt Whitman)
-}\end{enfasi}\end{changemargin}
-
-Il tempo per \textbf{preparare} queste pozioni/droghe è pari alla DC/2 in ore, mentre la difficoltà della prova di Erboristeria è pari alla DC -4. Se gli ingredienti si comprano il costo per preparare la pozione è metà del costo di vendita indicato, se si cercano in natura il costo per produzione scende ad un quarto.
-
-Se la prova di DC Erboristeria ha successo se ne preparano 1d2+1 pozioni (da 1 dose).
-
-Non si può beneficiare di più di una dose di pozioni naturali (per tipo) al giorno, a differenza di quelle magiche.
-
-Una Pozione che \emph{\textbf{Rimuove}} una condizione è efficace se la sua DC è superiore a quella della Condizione stessa. \index{Pozioni e rimozioni condizioni}
-
-\end{multicols}
+\textbf{Tabella: Pozioni Naturali}\index[Tabelle]{Pozioni Naturali}\label{tabellapozioni}
 
 \medskip
 {\small
 \noindent\begin{xltabular}{1\textwidth}{lcccXlc}
 \textbf{Nome}  & \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Loc.} & \textbf{Costo} \\
 \toprule
-Arduuar\index{Arduuar} & I  & 1 round & 25& Rimuove Veleni  & SZ7 & 75 \\
+Arduur\index{Arduur} & I  & 1 round & 25& Rimuove Veleni  & SZ20 & 75 \\
 \toprule
-Arkasun\index{Arkasun} & C  & 1 Turno  & 25& Cura 1d6 Punti Ferita a Turno per 3 turni& MT7 & 75 \\
+Arksun\index{Arksun} & C  & 1 Turno  & 25& Cura 1d6 Punti Ferita a Turno per 3 turni& MT20 & 75 \\
 \toprule
-Attarna\index{Attarna} & I  & 1 Turno & 20& Concede un nuovo Tiro Salvezza per Malattie con un +1d6  & TF7 & 50 \\
+Attarna\index{Attarna} & I  & 1 Turno & 20& Concede un nuovo Tiro Salvezza per Malattie con un +1d6  & TF17 & 50 \\
 \toprule
-Bacche di Ljust \index{Bacche di Ljust} & I  & 1 round & 16& Preso la sera recuperi il doppio dei Punti Ferita minimo 4) & AZ6 & 10 \\
+Bacche di Ljust \index{Bacche di Ljust} & I  & 1 round & 16& Preso la sera recuperi il doppio dei Punti Ferita minimo 4) & AZ15 & 10 \\
 \toprule
-Bacio di Ljust\index{Bacio di Ljust}  & C  & 1 round & 35& Cura 100 Punti Ferita& HO8 & 500  \\
+Bacio di Ljust\index{Bacio di Ljust}  & C  & 1 round & 35& Cura 100 Punti Ferita& HO26 & 500  \\
 \toprule
-Barannie\index{Barannie} & I  & 1 minuto  & 15& Rimuove nausea & MD6 & 3 \\
+Barannie\index{Barannie} & I  & 1 minuto  & 15& Rimuove nausea & MD13 & 3 \\
 \toprule
-Burthelas \index{Burthelas} & I  & 1 Turno & 32& Rigenera le mani& HD7 & 410  \\
+Burthelas \index{Burthelas} & I  & 1 Turno & 32& Rigenera le mani& HD23 & 410  \\
 \toprule
-Callynthine\index{Callynthine} & C  & 1 ora& 24& Rinsalda le fratture, cura 2d8+8 PF & CF7 & 200  \\
+Callynthine\index{Callynthine} & C  & 1 ora& 24& Rinsalda le fratture, cura 2d8+8 PF & CF26 & 200  \\
 \toprule
-Corteccia Dagmathir\index{Polvere di corteccia di Dagmathir}  & R  & 1 round & 25& Rimuove un livello di Affaticamento  & SS5 & 15 \\
+Corteccia Dagmathir\index{Polvere di corteccia di Dagmathir}  & R  & 1 round & 25& Rimuove un livello di Affaticamento  & SS17 & 15 \\
 \toprule
-Corteccia di Aklent\index{Corteccia di Aklent}  & I  & 1 Turno & 10& La corteccia masticata per almeno 10 round concede per le 24 ore successive un +1 Tiro Salvezza vs Veleno  & MT6 & 1  \\
+Corteccia di Aklent\index{Corteccia di Aklent}  & I  & 1 Turno & 10& La corteccia masticata per almeno 10 round concede per le 24 ore successive un +1 Tiro Salvezza vs Veleno  & MT15 & 1  \\
 \toprule
-Culcoa\index{Culcoa}& C  & 1 round & 16& Recuperi 2d6 da danno da fuoco & TS7 & 15 \\
+Culcoa\index{Culcoa}& C  & 1 round & 16& Recuperi 2d6 da danno da fuoco & TS17 & 15 \\
 \toprule
-Darsirion\index{Darsirion}  & C  & 1 round & 25& Cura 1d4 Punti Ferita& CM4 & 5 \\
+Darsirion\index{Darsirion}  & C  & 1 round & 25& Cura 1d4 Punti Ferita& CM14 & 5 \\
 \toprule
-Delrean Plus\index{Delrean Plus} & I  & 1 round & 18& Allontana insetti per 3 giorni & CC6 & 5  \\
+Delrean Plus\index{Delrean Plus} & I  & 1 round & 18& Allontana insetti per 3 giorni & CC13 & 5  \\
 \toprule
-Delrean\index{Delrean} & C  & 1 round & 15& Allontana insetti per 1 giorno & CC6 & 2  \\
+Delrean\index{Delrean} & C  & 1 round & 15& Allontana insetti per 1 giorno & CC9 & 2  \\
 \toprule
-Draaf \index{Draaf} & C  & 1 round & 20& Cura 1d8 Punti Ferita& SO6 & 50 \\
+Draaf \index{Draaf} & C  & 1 round & 20& Cura 1d8 Punti Ferita& SO17 & 50 \\
 \toprule
-Eldrin'tail\index{Eldrin'tail}& I  & 1 round  & 15& Concede un nuovo Tiro Salvezza su Veleni  & FH7 & 18 \\
+Eldrin'tail\index{Eldrin'tail}& I  & 1 round  & 15& Concede un nuovo Tiro Salvezza su Veleni  & FH20 & 18 \\
 \toprule
-Estratto di Bacca Illa\index{Estratto di Bacca Illa bruciata}& I  & 1 round & 15& +2 Iniziativa, +2 Destrezza, -1d6 Tiro Salvezza su Volontà, per 10 minuti  & MS6 & 5  \\
+Estratto di Bacca Illa\index{Estratto di Bacca Illa bruciata}& I  & 1 round & 15& +2 Iniziativa, +2 Destrezza, -1d6 Tiro Salvezza su Volontà, per 10 minuti  & MS17 & 5  \\
 \toprule
-Estratto radice Gisenosa\index{Estratto di radice Gisenosa}  & I  & 3 turni  & 15& Cura tosse e raffreddore  & MT6 & 3  \\
+Estratto radice Gisenosa\index{Estratto di radice Gisenosa}  & I  & 3 turni  & 15& Cura tosse e raffreddore  & MT14 & 3  \\
 \toprule
-Febfendi \index{Febfendi}& C  & 1 Turno & 25& Rigenera orecchie  & CF7 & 75 \\
+Febfendi \index{Febfendi}& C  & 1 Turno & 25& Rigenera orecchie  & CF20 & 75 \\
 \toprule
-Garioe\index{Garioe}& I  & 1 round & 25& Cura 2d6 Punti Ferita& AZ7 & 95 \\
+Garioe\index{Garioe}& I  & 1 round & 25& Cura 2d6 Punti Ferita& AZ20 & 95 \\
 \toprule
-Geffnull \index{Geffnull}& I  & 5 round & 28& Cura 3d8+3 Punti Ferita & EV8 & 150 \\
+Geffnull \index{Geffnull}& I  & 5 round & 28& Cura 3d8+3 Punti Ferita & EV27 & 150 \\
 \toprule
-Gusterbloon \index{Gusterbloon}  & C  & 1 round & 20& La pelle diventa più scura concedendo un +1d6 alla prove di Furtività & CM5 & 8  \\
+Gusterbloon \index{Gusterbloon}  & C  & 1 round & 20& La pelle diventa più scura concedendo un +1d6 alla prove di Furtività & CM14 & 8  \\
 \toprule
-Gylvert\index{Gylvert} & I  & 1 minuto  & 25& Concede respirare sott'acqua per 4 ore & MO7 & 3 \\
+Gylvert\index{Gylvert} & I  & 1 minuto  & 25& Concede respirare sott'acqua per 4 ore & MO23 & 3 \\
 \toprule
 Harfy \index{Harfy} & C  & I & 12& -1 al sanguinamento  & SS6 & 3 \\
 \toprule
-Harfindar\index{Harfindar}  & I  & 1 Turno & 15& Fa abortire& SS7 & 3 \\
+Harfindar\index{Harfindar}  & I  & 1 Turno & 15& Fa abortire& SS15 & 3 \\
 \toprule
-Jojopo\index{Jojopo}& C  & 1 round & 15& Resistenza a Freddo per 1 ora & FM6 & 45 \\
+Jojopo\index{Jojopo}& C  & 1 round & 15& Resistenza a Freddo per 1 ora & FM17 & 45 \\
 \toprule
-Kelventare\index{Kelventare}  & I  & 1d4 round & 28& Recuperi 2d6 Punti Ferita & TT7 & 100 \\
+Kelventare\index{Kelventare}  & I  & 1d4 round & 28& Recuperi 2d6 Punti Ferita & TT16 & 100 \\
 \toprule
-Klagul\index{Klagul}& C  & 1 Turno & 20& Pulisce i denti & SS4 & 2 \\
+Klagul\index{Klagul}& C  & 1 Turno & 20& Pulisce i denti & SS14 & 2 \\
 \toprule
-Klandor\index{Klandor} & I  & I  & 15& Rimuove paralisi. Aumenta di 1 il livello di affaticamento& HB6 & 18 \\
+Klandor\index{Klandor} & I  & I  & 15& Rimuove paralisi. Aumenta di 1 il livello di affaticamento& HB18 & 18 \\
 \toprule
-Klynkyx\index{Klynkyx} & C  & 6 Turno & 15& Fa cadere tutti i capelli per 1d6+4 gg & MO6 & 4  \\
+Klynkyx\index{Klynkyx} & C  & 6 Turno & 15& Fa cadere tutti i capelli per 1d6+4 gg & MO16 & 4  \\
 \toprule
-Lievito Muschio Bianco \index{Lievito di Muschio Bianco} & I  & 1 minuto  & 12& I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore & CA3 & 1  \\
+Lievito Muschio Bianco \index{Lievito di Muschio Bianco} & I  & 1 minuto  & 12& I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore & CA12 & 1  \\
 \toprule
-Lingua Rossa di Xabax\index{Lingua Rossa di Xabax}& C  & 1 Turno & 20& Cura 2d6 Punti Ferita ma se c'è malattia o veleno tenta la rimozione causando 2d6 PF di danno & TA7 & 13 \\
+Lingua Rossa di Xabax\index{Lingua Rossa di Xabax}& C  & 1 Turno & 20& Cura 2d6 Punti Ferita ma se c'è malattia o veleno tenta la rimozione causando 2d6 PF di danno & TA21 & 13 \\
 \toprule
-Melandrir\index{Melandrir}  & I  & 1 round & 15& Concede un nuovo Tiro Salvezza per Malattie con +5  & CF7 & 100 \\
+Melandrir\index{Melandrir}  & I  & 1 round & 15& Concede un nuovo Tiro Salvezza per Malattie con +5  & CF20 & 100 \\
 \toprule
-Mirenna\index{Mirenna} & I  & 1 round & 20& Cura 5 Punti Ferita  & CM6 & 30 \\
+Mirenna\index{Mirenna} & I  & 1 round & 20& Cura 5 Punti Ferita  & CM16 & 30 \\
 \toprule
-Miscela 31\index{Miscela 31}& I  & 1 Turno & 20&La cavalcatura è estremamente resistente. +6 ore di galoppo al giorno & SM6 & 15  \\
+Miscela 31\index{Miscela 31}& I  & 1 Turno & 20&La cavalcatura è estremamente resistente. +6 ore di galoppo al giorno & SM18 & 15  \\
 \toprule
-Muschio argentato\index{Muschio Argentato}& I  & I  & 25& Rimuove Malattie magiche & MU8 & 250  \\
+Muschio argentato\index{Muschio Argentato}& I  & I  & 25& Rimuove Malattie magiche & MU26 & 250  \\
 \toprule
-Musekiss\index{Musekiss} & C  & 1 ora& 30& Rigenera arti inferiori & TH9 & 550  \\
+Musekiss\index{Musekiss} & C  & 1 ora& 30& Rigenera arti inferiori & TH30 & 550  \\
 \toprule
 Nazamuse \index{Nazamuse}& I  & I  & 30& Rimuove Veleni e Malattie naturali & EW9 & 175  \\
 \toprule
-Nelthalion \index{Nelthalion} & I  & I  & 15& Fa vomitare& SR3 & 1  \\
+Nelthalion \index{Nelthalion} & I  & I  & 15& Fa vomitare& SR9 & 1  \\
 \toprule
-Petali di Lisbeth \index{Petali di Lisbeth}  & I  & 1 Turno & 15&+2 Intelligenza, -2 Destrezza per 10 minuti & MC6 & 20 \\
+Petali di Lisbeth \index{Petali di Lisbeth}  & I  & 1 Turno & 15&+2 Intelligenza, -2 Destrezza per 10 minuti & MC15 & 20 \\
 \toprule
-Polline di Rosa Verde\index{Polline di Rosa Verde}& R  & 3 turni & 25& Recuperi 2d4 danni Intelligenza e Saggezza  & FA8 & 35 \\
+Polline di Rosa Verde\index{Polline di Rosa Verde}& R  & 3 turni & 25& Recuperi 2d4 danni Intelligenza e Saggezza  & FA26 & 35 \\
 \toprule
-Radice secca di Kathaus\index{Radice secca di Kathaus} & R  & 1 round  & 20& +2 Forza e Destrezza per 1 ora & FW6 & 50 \\
+Radice secca di Kathaus\index{Radice secca di Kathaus} & R  & 1 round  & 20& +2 Forza e Destrezza per 1 ora & FW16 & 50 \\
 \toprule
-Rewky\index{Rewky}  & I  & 1 Turno  & 25& Cura 2d8 Punti Ferita& TD6 & 20\\
+Rewky\index{Rewky}  & I  & 1 Turno  & 25& Cura 2d8 Punti Ferita& TD19 & 20\\
 \toprule
-Silea\index{Silea}  & C  & 5 round  & 15& Cura 1d6+3 Punti Ferita & TT5 & 50 \\
+Silea\index{Silea}  & C  & 5 round  & 15& Cura 1d6+3 Punti Ferita & TT17 & 50 \\
 \toprule
-Siranmuse\index{Siranmuse}  & I  & 1 giorno  & 30& Rigenera organi interni & SS8 & 850  \\
+Siranmuse\index{Siranmuse}  & I  & 1 giorno  & 30& Rigenera organi interni & SS26 & 850  \\
 \toprule
-Ucsaboo \index{Ucsaboo}  & C  & 1 Turno & 30& Rigenera occhi  & MO8 & 400  \\
+Ucsaboo \index{Ucsaboo}  & C  & 1 Turno & 30& Rigenera occhi  & MO25 & 400  \\
 \toprule
-Uovo di Urk\index{Uovo di Urk}& I  & 1 Turno & 12& 1 giorno di cibo& FH7 & 1  \\
+Uovo di Urk\index{Uovo di Urk}& I  & 1 Turno & 12& 1 giorno di cibo& FH14 & 1  \\
 \toprule
-Uscaboo \index{Uscaboo}  & R  & 1 Turno & 25& Rimuove cecità  & MO7 & 125 \\
+Uscaboo \index{Uscaboo}  & R  & 1 Turno & 25& Rimuove cecità  & MO21 & 125 \\
 \toprule
-Wickalim\index{Wickalim} & I  & 1 ora  & 15& Cura 2 Punti Ferita  & TD3 & 5 \\
+Wickalim\index{Wickalim} & I  & 1 ora  & 15& Cura 2 Punti Ferita  & TD7 & 5 \\
 \toprule
-Yaveth\index{Yaveth}& I  & 1 Turno  & 20& Cura 2d8 Punti Ferita& MO5 & 100
+Yajeth\index{Yajeth}& I  & 1 Turno  & 20& Cura 2d8 Punti Ferita& MO16 & 100
 \end{xltabular}}
 
-
 \begin{multicols}{2}
-
-
 
 \subsubsection{Note sui Veleni e Pozioni}
 
@@ -18996,13 +18994,8 @@ Yaveth\index{Yaveth}& I  & 1 Turno  & 20& Cura 2d8 Punti Ferita& MO5 & 100
 
 \textbf{Muschio Argentato}: molto simile, per un non esperto, al Muschio Bianco. Si raccolgono le bacche.
 
+
 \end{multicols}
-
-\subsection{Dove trovare le piante}
-
-Es: Gusterbloon FT5. La prima Lettera indica il CLIMA, la Seconda indica l'AMBIENTE, la Terza indica la RARITA'. La rarità indica la possibilità, su un d10, di trovare l'erba/pianta ricercata. Tirare 1d10 e fare di più del numero indicato, chiaramente se c'è corrispondenza di clima ed ambiente.
-
-\pagebreak
 
 \textbf{Tabella: della corrispondenza Pozioni - Luoghi}\index[Tabelle]{Tabella della corrispondenza Pozioni - Luoghi}
 
@@ -19022,11 +19015,17 @@ T & Temperato fresco & W & Discariche / Rifiuti & Z & Deserto\\
 X & Sconosciuto  & X & Sconosciuto&&\\
 \end{tabular}
 
+\begin{multicols}{2}
+
+\medskip
+
 \subsection{Pozioni generiche}\index{Pozioni generiche}\index{Pozioni}
 
 Il Narratore è libero di usare tutte le pozioni e veleni già elencate oppure usare delle pozioni generiche pronte all'uso. Nella tabella sono indicati i costi ed effetti di queste pozioni generiche.
 
 L'insorgenza è sempre immediata, la durata per le cure è immediata, per le altre è 1 ora (quindi la pozione Rimuovi Veleno ti immunizza per 1 ora contro un veleno). Per le pozioni che causano danno il Tiro Salvezza è per annullarne gli effetti.
+
+\end{multicols}
 
 \medskip
 
@@ -19043,24 +19042,27 @@ Cura potenziata& recuperi 3d8+3 Punti Ferita & 125  & Ingestione\\
 \toprule
 Cura maggiore& recuperi 3d10+30 Punti Ferita & 300  & Ingestione\\
 \toprule
-Indebolente& -2 TC. TS DC 15 Tempra & 35 & Ingestione\\
+Indebolente& -2 TC. TS DC 15 Tempra per annullare gli effetti& 35 & Ingestione\\
 \toprule
-Indebolente potenziata& -1d6 TC. TS DC 18 Tempra& 50 & Ferimento \\
+Indebolente potenziata& -1d6 TC. TS DC 18 Tempra per annullare gli effetti& 50 & Ferimento \\
 \toprule
-Veleno& subisci 2d6+2 di danno. TS DC 15 Tempra & 30 & Ingestione \\
+Veleno&  2d6+2 di danno. TS DC 15 Tempra per dimezzare gli effetti& 30 & Ingestione \\
 \toprule
-Veleno potenziata& subisci 2d8+4 di danno. TS DC 18 Tempra & 50 & Ferimento \\
+Veleno potenziata&  2d8+4 di danno. TS DC 18 Tempra per dimezzare gli effetti& 50 & Ferimento \\
 \toprule
-Veleno maggiore& subisci 4d10+8 di danno. TS DC 24 Tempra & 125 & Ferimento \\
+Veleno maggiore&  4d10+8 di danno. TS DC 24 Tempra per dimezzare gli effetti& 125 & Ferimento \\
 \toprule
 Rimuovi Veleno& concede un nuovo TS con +1d6 & 75 & Ingestione\\
 \toprule
 Pozione Generica* & vedi \hyperlink{crearepozioni}{Creare Pozioni} (pag. \pageref{crearepozioni}) &Lv*Lv*50&Ingestione
 \end{tabularx}
 }
-\medskip
 
-Se il personaggio dedica 1 minuto a bere una Pozione di Cura questa avrà effetto massimizzato.\index{Pozioni effetto massimizzato}
+\begin{center}
+\includegraphics[width=0.2\linewidth]{immagini/mandragola2.png}
+
+\emph{Pianta di Mandragola}
+\end{center}
 
 \subsection{Opzionale - Droghe}\index{Droga}\index{Opzionale - Droghe}\hypertarget{droghe}{}\label{droghe}
 
@@ -19096,7 +19098,7 @@ Polline del fiore di Erain \index{Polline del fiore di Erain} & R  & 1 round  & 
 
 \medskip
 
-\textbf{L'utilizzo delle droghe è completamente opzionale, è il Narratore a decidere la loro presenza e disponibilità anche in base alla sensibilità dei giocatori}.
+\textbf{L'utilizzo delle droghe è completamente opzionale. E' il Narratore a decidere la loro presenza e disponibilità anche in base alla sensibilità dei giocatori}.
 
 Le droghe danno dipendenza. Terminato l'effetto è necessario effettuare un Tiro Salvezza su Volontà a difficoltà 15 o prenderne un altra dose, il successivo Tiro Salvezza avrà difficoltà +1 e così via.
 
@@ -19153,14 +19155,17 @@ Esempi di Malattie:
 
 \textbf{Peste T}\index{Peste T}: 1 minuto, TS Tempra 30, 2 ore, 3 successi, esegui 3 successi consecutivi altrimenti vieni trasformato in uno zombi di pari GS. Si trasmette attraverso il contatto.
 
+\end{multicols}
+
+\vfill
 
 \begin{center}
-	\includegraphics[width=0.85\linewidth]{immagini/plaguedoctor.png}
+	\includegraphics[width=0.32\linewidth]{immagini/plaguedoctor.png}
 	
 	\emph{Engraving of the Plague Doctor, Paul Furst, 1656}
 \end{center}
 
-\end{multicols}
+
 
 
 \pagebreak
