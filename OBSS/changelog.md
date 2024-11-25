@@ -752,8 +752,9 @@ aggiornata versione POD 2024/11/19
 
 0.99.23 migliorato layout masterizzare, ottimizzato layout generale riducendo di 3 pagine, aggiornata la scheda includendo la colonna per l'ingombro, 
 
+aggiornata versione POD 2024/11/25
 
-
+0.99.24 
 
 > valutare:
 - preparare fac simile personaggi
