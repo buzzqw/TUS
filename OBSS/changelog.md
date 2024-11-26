@@ -754,10 +754,12 @@ aggiornata versione POD 2024/11/19
 
 aggiornata versione POD 2024/11/25
 
-0.99.24 
+0.99.24 modificato gap temporale a 100 anni da 200, suggerimento tratti usati in incontri, aggiornata arma vorpal, corretti alcuni modificatori (da +5/-5 a +4/-4), corretto codice latex Lentezza, corretti hyperlink condividere gli spazi, 
+
+
+
 
 > valutare:
-- preparare fac simile personaggi
 - controllare immagini che non si vedono bene stampate
 - suggerimento per il narratore, non usare lo screen
 - opportunista valutare se darlo a quali mostri
