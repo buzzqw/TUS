@@ -754,7 +754,7 @@ aggiornata versione POD 2024/11/19
 
 aggiornata versione POD 2024/11/25
 
-0.99.24 modificato gap temporale a 100 anni da 200, suggerimento tratti usati in incontri, aggiornata arma vorpal, corretti alcuni modificatori (da +5/-5 a +4/-4), corretto codice latex Lentezza, corretti hyperlink condividere gli spazi, rimossa abilita' orientamento e sostituita con sopravvivenza, contadino - araldo - scriba - fabbro - monaco - sensale - Mercenario - Orafo, 
+0.99.24 modificato gap temporale a 100 anni da 200, suggerimento tratti usati in incontri, aggiornata arma vorpal, corretti alcuni modificatori (da +5/-5 a +4/-4), corretto codice latex Lentezza, corretti hyperlink condividere gli spazi, rimossa abilita' orientamento e sostituita con sopravvivenza, contadino - araldo - scriba - fabbro - monaco - sensale - Mercenario - Orafo, chiarimenti su disattivare trappole magiche, riformattate elenco trappole, 
 
 
 
