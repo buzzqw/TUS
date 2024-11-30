@@ -7534,7 +7534,7 @@ L'incantatore può modificare gli incantesimi in diversi modi. Queste possibilit
 - \textbf{Magia pietosa}\index{Magia pietosa}: aumentando di 3 i Punti Magia spesi le magie infliggono danni temporanei.
 Le magie che infliggono danni di un tipo particolare (come da fuoco) infliggono danni temporanei dello stesso tipo. 1 Azione.
 
-- \textbf{Magia mirata}\index{Magia mirata}: per ogni due volte che hai preso Adepto della Magia puoi fare in modo che una creatura a tua scelta sia immune all'effetto dell'incantesimo che hai lanciato. Costo 2 Punti Magia per creatura esclusa. 1 Azione. %1 punto magia per livello incantesimo per creatura esclusa
+- \textbf{Magia mirata}\index{Magia mirata}: ogni 2 Punti Magia che paghi in aggiunta al costo dell'incantesimo puoi escludere una persona dall'area di effetto dell'incantesimo. Non puoi escludere più persone di quante volte non abbia preso l'Abilità Adepto della Magia. 1 Azione. %1 punto magia per livello incantesimo per creatura esclusa
 
 - \textbf{Magia lontana}\index{Magia lontana}: aumentando di 1 i Punti Magia usati aumenti fino a 9 metri la distanza di lancio dell'incantesimo. 1 Azione.
 
@@ -17748,7 +17748,11 @@ Quasi ovunque si può incontrare una trappola. Le trappole possono essere di nat
 Quando gli avventurieri si imbattono in una trappola, dovreste sapere come la trappola si attiva e cosa faccia, oltre ad avere un'idea di come i personaggi possano individuare la trappola e riuscire a disarmarla o evitarla.
 
 \subsubsection{Attivare una Trappola}
-La maggior parte delle trappole si attivano quando una creatura giunge in un punto o tocca qualcosa che il creatore della trappola voleva proteggere. Normali sistemi di attivazione sono pedane a pressione o false sezioni di pavimento, tirare un cavo, girare una maniglia e usare la chiave sbagliata nella serratura. Le trappole magiche spesso si attivano quando una creatura entra in un'area o tocca un oggetto. Alcune trappole magiche (come l'incantesimo glifo di interdizione) possiedono delle condizioni di attivazione più complesse, tra cui l'impiego di parole d'ordine per impedire l'attivazione della trappola.
+La maggior parte delle trappole si attivano quando una creatura giunge in un punto o tocca qualcosa che il creatore della trappola voleva proteggere. Normali sistemi di attivazione sono pedane a pressione o false sezioni di pavimento, tirare un cavo, girare una maniglia e usare la chiave sbagliata nella serratura. Le trappole magiche spesso si attivano quando una creatura entra in un'area o tocca un oggetto. 
+
+Alcune trappole magiche (come l'incantesimo glifo di interdizione) possiedono delle condizioni di attivazione più complesse, tra cui l'impiego di parole d'ordine per impedire l'attivazione della trappola.
+
+Una volta attivata la trappola esegue l'effetto indicato: il personaggio cade nella fossa, parte il dardo avvelenato, viene attivato l'incantesimo collegato. Al personaggio che subisce l'attivazione della trappola è concesso un Tiro Salvezza o ulteriore prova solo se specificato nella descrizione della trappola stessa.
 
 \subsubsection{Individuare e Disabilitare una Trappola}
 Di solito, alcuni elementi di una trappola sono ben visibili a un'attenta ispezione.
@@ -17763,7 +17767,7 @@ Se si vuole disattivare temporaneamente\index{Trappola disattivare temporaneamen
 
 Una trappola magica può essere disattivata con una prova di Disattivare Congegni purché il valore di Arcana sia almeno 1/5 della DC della trappola in aggiunta a qualsiasi altra prova indicata nella descrizione della trappola. La prova di Arcana può essere fatta anche da chi non ha Disattivare Congegni ma con la difficoltà segnata nella trappola ed insieme a chi fa la prova di Disattivare Congegni. L'incantesimo Dissolvi Magie ha una probabilità di annullare la maggior parte delle trappole magiche.\index{Disattivare trapple magiche}
 
-Se la prova per disattivare o disabilitare la trappola fallisce\index{Fallimento disattivare trappola} e si ottiene un fallimento critico (due 1 o 2 due ed un 1 nella prova) la trappola scatta.
+Se la prova per disattivare o disabilitare la trappola fallisce\index{Fallimento disattivare trappola} e si ottiene un fallimento critico la trappola scatta.
 
 Di solito, la descrizione della trappola è abbastanza chiara da permettere al Narratore di giudicare se le azioni di un personaggio riescano a individuare o disattivare la trappola.
 
@@ -17777,22 +17781,21 @@ Dopo aver ispezionato il forziere e fatto qualche prova, i personaggi non sono a
 
 Le trappole sono spesso progettate con meccanismi che permettono di disattivarle o aggirarle.
 
+
+\medskip
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/medusa.png}
+\end{center}
+
 \subsubsection{Effetti delle Trappole}
 Gli effetti delle trappole possono essere da semplici inconvenienti a letali. La descrizione di una trappola specifica cosa accade quando viene attivata.
 Il bonus di attacco di una trappola, la DC del Tiro Salvezza per resistere ai suoi effetti, e il danno che infligge possono variare in base alla pericolosità della trappola.
 
 Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tabella Gravità del Danno per Livello come suggerimenti sui tre livelli di gravità delle trappole.
 
-\medskip
-
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/medusa.png}
-\end{center}
-
-
 \textbf{Tabella: DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}\index[Tabelle]{Tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole}
 
-\medskip
 
 \begin{tabularx}{0.45\textwidth}{X|X|X}
 Pericolosità della Trappola&DC Tiro Salvezza& Bonus di Attacco\\
@@ -17818,13 +17821,6 @@ Livello PG&Minima&Pericolosa&Mortale\\
 \end{tabularx}
 
 \medskip
-
-\subsubsection{Trappole Complesse}
-Le trappole complesse funzionano come le trappole normali, eccetto che una volta attivate eseguono una serie di azioni ogni round.
-
-Una trappola complessa trasforma il processo dell'affrontare una trappola in qualcosa di più simile a un incontro di combattimento. Quando si attiva una trappola complessa, tirare la sua iniziativa.
-
-La descrizione della trappola comprende un bonus di iniziativa. Durante il suo round, la trappola si attiva di nuovo, effettuando spesso un'azione, che sia un attacco, un effetto che muta nel tempo, una sfida dinamica. Altrimenti, la trappola complessa può essere individuata e disabilitata nei soliti modi.
 
 \subsubsection{Trappole di Esempio}
 \textbf{Ago Avvelenato}
@@ -17889,7 +17885,7 @@ Una volta che la fossa è stata individuata, uno spuntone di ferro o simile ogge
 
 Questa fossa è identica alla trappola fossa nascosta, con un'eccezione fondamentale: la botola che copre la fossa nasconde un meccanismo a molla. Dopo che una creatura è caduta nella fossa, la copertura si richiude di scatto per intrappolare la vittima al suo interno.
 
-È necessario superare un Tiro Salvezza Tempra con Forza DC 20 per aprire a forza la copertura. La copertura può essere anche distrutta. Un personaggio all'interno della fossa può anche tentare di disabilitare il meccanismo a molla dall'interno superando una prova di Disattivare Congegni on DC 18 purché possa raggiungere e vedere il meccanismo in questione. In alcuni casi, un altro meccanismo fa riaprire la fossa.
+È necessario superare un Tiro Salvezza Tempra con Forza DC 20 per aprire a forza la copertura. La copertura può essere anche distrutta. Un personaggio all'interno della fossa può anche tentare di disabilitare il meccanismo a molla dall'interno superando una prova di Disattivare Congegni con DC 18 purché possa raggiungere e vedere il meccanismo in questione. In alcuni casi, un altro meccanismo fa riaprire la fossa.
 
 \medskip
 
@@ -18066,17 +18062,17 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Effetto:} & Attacco in mischia +10 (1d8+1/×3) 
 \end{tabularx}\\
 
-%\textbf{Fossa con Spuntoni}
-%
-%\begin{tabularx}{0.48\textwidth}{lX}
-%	\textbf{GS:} & 2 \\
-%	\textbf{Tipo:} & meccanico \\
-%	\textbf{Sopravviv.:} & DC 16 \\
-%	\textbf{Dis. Cong.:} & DC 18 \\
-%	\textbf{Attivatore:} & posizione \\
-%	\textbf{Ripristino:} & manuale \\
-%	\textbf{Effetto:} & fossa profonda 3 metri m (2d6 danni da caduta) + spuntoni (Attacco in mischia +10, 1d4 spuntoni per bersaglio per 1d4+2 danni ciascuno) 
-%\end{tabularx}\\
+\textbf{Fossa con Spuntoni}
+
+\begin{tabularx}{0.48\textwidth}{lX}
+	\textbf{GS:} & 2 \\
+	\textbf{Tipo:} & meccanico \\
+	\textbf{Sopravviv.:} & DC 16 \\
+	\textbf{Dis. Cong.:} & DC 18 \\
+	\textbf{Attivatore:} & posizione \\
+	\textbf{Ripristino:} & manuale \\
+	\textbf{Effetto:} & fossa profonda 3 metri m (2d6 danni da caduta) + spuntoni (Attacco in mischia +10, 1d4 spuntoni per bersaglio per 1d4+2 danni ciascuno) 
+\end{tabularx}\\
 
 \textbf{Onda rovente}
 
