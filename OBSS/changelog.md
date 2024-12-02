@@ -754,7 +754,7 @@ aggiornata versione POD 2024/11/19
 
 aggiornata versione POD 2024/11/25
 
-0.99.24 modificato gap temporale a 100 anni da 200, suggerimento tratti usati in incontri, aggiornata arma vorpal, corretti alcuni modificatori (da +5/-5 a +4/-4), corretto codice latex Lentezza, corretti hyperlink condividere gli spazi, rimossa abilita' orientamento e sostituita con sopravvivenza, contadino - araldo - scriba - fabbro - monaco - sensale - Mercenario - Orafo, chiarimenti su disattivare trappole magiche, riformattate elenco trappole, chiarimenti su salto e movimento, alzarsi da prono costa 1 azione, ricalibrate difficolta' trappole di esempio, 
+0.99.24 modificato gap temporale a 100 anni da 200, suggerimento tratti usati in incontri, aggiornata arma vorpal, corretti alcuni modificatori (da +5/-5 a +4/-4), corretto codice latex Lentezza, corretti hyperlink condividere gli spazi, rimossa abilita' orientamento e sostituita con sopravvivenza, contadino - araldo - scriba - fabbro - monaco - sensale - Mercenario - Orafo, chiarimenti su disattivare trappole magiche, riformattate elenco trappole, chiarimenti su salto e movimento, alzarsi da prono costa 1 azione, ricalibrate difficolta' trappole di esempio, tiro critico con armi da fuoco, modificato prezzo armatura da campo, la penalita' al TC degli scudi pesanti si ha solo se la Forza e' minore di 3, aggiornata tabella effetti fallimentare utilizzo armi da fuoco, 
 
 
 
