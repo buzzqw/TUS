@@ -742,7 +742,7 @@ aggiornata versione POD 2024/11/06 x
 
 aggiornata versione POD 2024/11/11
 
-0.99.22 chiarimenti su La mia morte la tua morte - Furia - Primo Sangue, riorganizzazione immagini, la sorpresa impone un -2 di penalita' alla Difesa e TS Riflessi, riviste regole che gestiscono il seppellito, chiarimenti su condividere gli spazi, dettagli sullo scambiarsi di posto, correzioni linguistiche, indicazioni su uso corde in arrampicata, corretti requisiti danno coordinato, ri aggiunti esempi di costruzione personaggi, 
+0.99.22 chiarimenti su La mia morte la tua morte - Furia - Primo Sangue, riorganizzazione immagini, la sorpresa impone un -2 di penalita' alla Difesa e TS Riflessi, riviste regole che gestiscono il seppellito, chiarimenti su condividere gli spazi, dettagli sullo scambiarsi di posto, correzioni linguistiche, indicazioni su uso corde in arrampicata, corretti requisiti danno coordinato, ri aggiunti esempi di costruzione personaggi
 
 aggiornata versione POD 2024/11/19
 
@@ -750,7 +750,7 @@ aggiornata versione POD 2024/11/19
 
 0.99.23s3 aggiornato quando si prendono le abilita', dettagli su animalia, modificato tempo preparazione veleni, rivisto capitolo pozioni e veleni e riaggiornate difficolta' e metodi, aggiornato metodo per identificare pozioni e veleni, aggiorata pozione cura maggiore
 
-0.99.23 migliorato layout masterizzare, ottimizzato layout generale riducendo di 3 pagine, aggiornata la scheda includendo la colonna per l'ingombro, 
+0.99.23 migliorato layout masterizzare, ottimizzato layout generale riducendo di 3 pagine, aggiornata la scheda includendo la colonna per l'ingombro
 
 aggiornata versione POD 2024/11/25
 
