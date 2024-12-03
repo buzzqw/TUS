@@ -763,6 +763,7 @@ aggiornata versione POD 2024/12/02
 
 
 > valutare:
+- specializzazione in liste di magia al posto di Abilità di Lista
 - controllare immagini che non si vedono bene stampate
 - suggerimento per il narratore, non usare lo screen
 - opportunista valutare se darlo a quali mostri
