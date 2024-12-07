@@ -758,7 +758,7 @@ aggiornata versione POD 2024/11/25
  
 aggiornata versione POD 2024/12/02
 
-0.99.25 indicato che se si tira 1 con il d6 per i punti ferita si puo' prendere 3, aggiornato vantaggio Nibali, aggiunta seconda abilita' a Distillare pozioni, aggiunta regola opzionale consumo risorse, aggiunta tabella tiri fumble, controlloate condizioni, modificato penalita' a paralizzato, aggiornato struttura incanatesimo Cura Ferite, aggiornato incantesimo Luminescenza, nuovo effetto critico luci danzanti,
+0.99.25 indicato che se si tira 1 con il d6 per i punti ferita si puo' prendere 3, aggiornato vantaggio Nibali, aggiunta seconda abilita' a Distillare pozioni, aggiunta regola opzionale consumo risorse, aggiunta tabella tiri fumble, controlloate condizioni, modificato penalita' a paralizzato, aggiornato struttura incanatesimo Cura Ferite, aggiornato incantesimo Luminescenza, nuovo effetto critico luci danzanti, dettagli su prova di atletica per gestire le cadute, 
 
 
 
