@@ -762,7 +762,7 @@ aggiornata versione POD 2024/12/02
 
 aggiornata versione POD 2024/12/13
 
-0.99.26 chiarimenti su uso borsa dell'impedimento, finta dura 1 round, aggiunto mostro spettro, 
+0.99.26 chiarimenti su uso borsa dell'impedimento, finta dura 1 round, aggiunto mostro spettro, minuti dettagli su razze, 
  
 
 
