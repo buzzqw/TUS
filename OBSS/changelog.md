@@ -762,7 +762,7 @@ aggiornata versione POD 2024/12/02
 
 aggiornata versione POD 2024/12/13
 
-0.99.26 chiarimenti su uso borsa dell'impedimento, finta dura 1 round, aggiunto mostro spettro, minuti dettagli su razze, aggiornate regole per spostamento diagonale, aggiornato esempio costruzione mago-chierico-paladino-bardo-druido, corretti riferimenti in indice incantesimi a cure, si recupera ogni giorno cm+ca punti ferita, regole su utilizzo bacchette verghe e bastoni, aggiunta tabella per generazione casuale tipo di gioielli, aggiunta tabella generazione casuale gemme, indicazione su personaggi disfunzionali, 
+0.99.26 chiarimenti su uso borsa dell'impedimento, finta dura 1 round, aggiunto mostro spettro, minuti dettagli su razze, aggiornate regole per spostamento diagonale, aggiornato esempio costruzione mago-chierico-paladino-bardo-druido, corretti riferimenti in indice incantesimi a cure, si recupera ogni giorno cm+ca punti ferita, regole su utilizzo bacchette verghe e bastoni, aggiunta tabella per generazione casuale tipo di gioielli, aggiunta tabella generazione casuale gemme, indicazione su personaggi disfunzionali, aggiunta movimento Capriola, 
  
 
 
