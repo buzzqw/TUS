@@ -1372,7 +1372,7 @@ I \textbf{Punti Ferita si recuperano} in diversi modi:\index{Recupero Punti Feri
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 
-\item per ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione * CA o CM (a scelta del personaggio, con un minimo di PF pari a CA o CM)\index{Recupero PF dormendo}
+\item per ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione * CA o CM (a scelta del personaggio, con un minimo di PF pari a CA+CM)\index{Recupero PF dormendo}
 
 \item tramite magie curative (incantesimi, pozioni.. o altri effetti magici)
 
@@ -2166,6 +2166,11 @@ Non aver paura di discutere con gli altri personaggi, ma assicurati sempre non s
 
 
 \end{itemize}
+
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+\emph{\textbf{Personaggi disfunzionali}}: in caso il personaggio creato abbia tutti i punteggi di Caratteristica a 0 o meno, potete permettere di ritirare un nuovo personaggio.
+\end{narratore}\end{changemargin}
 
 
 \end{multicols}
@@ -20000,7 +20005,7 @@ Usate la Tabella \hyperlink{valoredellegemme}{Valore delle gemme} (pag. \pageref
 
 \textbf{Pietre Preziose di Alta Qualità} (500 mo): alessandrite; acquamarina; granato viola; perla nera; spinello blu scuro; topazio giallo oro.
 
-\textbf{Gioielli} (1000 mo): smeraldo; opale bianco, nero, o di fuoco; zaffiro blu; corindone giallo fuoco o vermiglio; zaffiro a stella blu o nero.
+\textbf{Gioielli} (1000 mo): smeraldo; opale bianco, nero, o di fuoco; zaffiro blu; corindone giallo fuoco o vermiglio; zaffiro a stella blu o nero; tanzanite.
 
 \textbf{Gioielli Eccezionali} (5000 mo o più): smeraldo verde brillante cristallino, diamante, giacinto, rubino, miele topetto cristallino.
 
@@ -20244,7 +20249,7 @@ L'approccio esclusivamente casuale non è sempre suggerito, i risultati potrebbe
 Eppure Trovare una spada ammazzadraghi al primo livello siate certi che genererà avventure a non finire per i personaggi!
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore} %box narratore
-La Terra è un mondo a basso profilo magico, gli oggetti magici esistono ma sono rari ed ancor di più quelli più potenti. Mentre pozioni naturali e piccoli ninnoli possono essere trovati ovunque è solo cercando attivamente, andando nelle profondità che si possono trovare i tesori migliori.
+La Terra è un mondo a \emph{raro} profilo magico, gli oggetti magici esistono ma sono rari ed ancor di più quelli più potenti. Mentre pozioni naturali e piccoli ninnoli possono essere trovati ovunque è solo cercando attivamente, andando nelle profondità che si possono trovare i tesori migliori.
 \end{narratore}\end{changemargin}
 
 
@@ -20272,11 +20277,47 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 
 \medskip
 
+\textbf{Tabella: tipologie di Gioielli}\index{Tabella tipologie di Gioielli}
+
+\medskip
+
+\begin{tabular}{l|l|l|l}
+
+\textbf{d100} & \textbf{Gioiello} & \textbf{d100} & \textbf{Gioiello}\\
+01-06 & Cavigliera 	& 56-62 & Orecchino \\
+07-12 & Cintura		& 63-65 & Bottiglia\\
+13-14 & Ciondolo	& 66-68 & Calice\\
+15-21 & Braccialetto& 69-73	& Coltello\\
+22-27 & Spilla		& 74-77 & Tagliacarte\\
+28-32 & Fibbia		& 78-80 & Medaglione\\
+33-37 & Catena		& 81-82 & Medaglia\\
+38-40 & Girocollo	& 83-89 & Collana\\
+41-42 & Tiara		& 90    & Piatto\\
+43-47 & Cerniera	& 91-95 & Uovo\\
+48-51 & Pettine		& 96 	& Scettro\\
+52	  & Corona		& 97-99 & Statuetta\\
+53-55 & Scrigno		& 100 	& Globo\\
+\end{tabular}
+
+\textbf{Tabella: tipologie di Gioielli, ordinate per valore}\index{Tabella tipologie di Gioielli}
+
+{\small 	
+\begin{tabularx}{0.48\textwidth}{l|l|l|l}
+\textbf{1d100} & \textbf{Gemme} & \textbf{1d100} & \textbf{Gemme} \\
+1-6 & Quarzo & 51-56 & Topazio \\
+7-12 & Ambra & 57-62 & Tanzanite \\
+13-18 & Zircone & 63-68 & Zaffiro \\
+19-24 & Spinello & 69-74 & Acquamarina \\
+25-30 & Corallo & 75-80 & Smeraldo \\
+31-36 & Lapislazzuli & 81-86 & Perla \\
+37-42 & Giada & 87-92 & Rubino \\
+43-50 & Peridoto & 93-100 & Diamante \\
+\end{tabularx}
+}
+
 \subsubsection{Capacità Speciali ed Oggetti Maledetti}
 
 Quando nel \emph{Bonus Magico} c'è scritto \textbf{ritira + Capacità Speciale Armi/Armature Tipo...} significa che devi ritirare il 1d100, ignorando altri risultato sopra 80 e tenere il bonus magico ottenuto, poi potrai tirare sulla \emph{Tabella Capacità Speciale Armi Tipo...} risultante.
-
-\medskip
 
 Quando un Arma, Armatura o Scudo è indicata come \textbf{Maledetta} può essere indicato la penalità al colpire ed al danno. L'oggetto può essere abbandonato senza grossi problemi.
 
@@ -20284,21 +20325,20 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-
 \textbf{Tabella: Tipologia di Oggetto magico}\index[Tabelle]{Tabella Tipologia di Oggetto magico}\label{tipologiaoggettomagico}\hypertarget{tipologiaoggettomagico}{}
 
-\begin{tabular}{lc}
-\textbf{Tipologia di oggetto magico}&\textbf{3d6}\\
-\hyperlink{amuleticollanegioielli}{Amuleti, Collane, Gioielli}&3-4\\
-\hyperlink{cintureelmi}{Cinture, Elmi, Stivali e Guanti}&5-6\\
-\hyperlink{armatureescudi}{Armature e Scudi}&7-8\\
-\hyperlink{armimagiche}{Armi Magiche}&9-10\\
-\hyperlink{pozionifiltri}{Pozioni, Filtri e Olii}&11-13\\
-\hyperlink{bastonibacchette}{Bacchette, Bastoni e Verghe}&14\\
-\hyperlink{anellimagici}{Anelli}&15\\
-\hyperlink{Cappelli}{Cappelli}, \hyperlink{Mantelli}{Mantelli}, \hyperlink{Occhiali}{Occhiali}, \hyperlink{Tuniche}{Tuniche}&16\\
-\hyperlink{manualitomi}{Manuali, Tomi e Pergamene}&17\\
-\hyperlink{oggettimagicivari}{Oggetti Magici vari}&18
+\begin{tabular}{ll}
+\textbf{3d6}& \textbf{Tipologia di oggetto magico}\\
+3-4&\hyperlink{amuleticollanegioielli}{Amuleti, Collane, Gioielli}\\
+5-6&\hyperlink{cintureelmi}{Cinture, Elmi, Stivali e Guanti}\\
+7-8&\hyperlink{armatureescudi}{Armature e Scudi}\\
+9-10&\hyperlink{armimagiche}{Armi Magiche}\\
+11-13&\hyperlink{pozionifiltri}{Pozioni, Filtri e Olii}\\
+14&\hyperlink{bastonibacchette}{Bacchette, Bastoni e Verghe}\\
+15&\hyperlink{anellimagici}{Anelli}\\
+16&\hyperlink{Cappelli}{Cappelli}, \hyperlink{Mantelli}{Mantelli}, \hyperlink{Occhiali}{Occhiali}, \hyperlink{Tuniche}{Tuniche}\\
+17&\hyperlink{manualitomi}{Manuali, Tomi e Pergamene}\\
+18&\hyperlink{oggettimagicivari}{Oggetti Magici vari}
 \end{tabular}
 
 \subsubsection{Armi}
@@ -20324,9 +20364,9 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 \end{tabularx}
 
 
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/shield1.png}
-\end{center}
+%\begin{center}
+%\includegraphics[width=0.6\linewidth]{immagini/shield1.png}
+%\end{center}
 
 
 \textbf{Tabella: Capacità Speciale Armi Tipo 1}\index[Tabelle]{Tabella Capacità Speciale Armi Tipo 1}\hypertarget{Capacità Speciale Armi Tipo 1}{}
@@ -23631,6 +23671,8 @@ Un \textbf{oggetto magico che manifesta incantesimi} non esegue alcuna Prova di 
 Un oggetto magico che fornisce un \textbf{bonus (o penalità) statico} applica il suo valore anche se l'oggetto non è stato identificato, sarà il Narratore ad applicare silenziosamente questo bonus alla Difesa, Tiro per Colpire, Tiri Salvezza... informando il giocatore che percepisce come l'oggetto interagisca con la situazione.
 \item 
 Un oggetto magico che ha degli usi giornalieri si ricarica all'alba del giorno successivo all'uso.
+\item 
+Bacchette, Bastoni, Pergamene, Verghe sono usabili solo da personaggi che abbiano il punteggio di CM pari al valore del livello di incantesimo più alto formulabile dall'oggetto.
 
 
 \end{itemize}
