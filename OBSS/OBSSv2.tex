@@ -1201,6 +1201,8 @@ Il Carisma misura la tua capacità di interagire efficacemente con il prossimo. 
 
 Una prova di Carisma può essere richiesta quando cerchi di influenzare o intrattenere altre persone, quando cerchi di fare impressione o raccontare una menzogna, o quando devi barcamenarti in una complicata situazione sociale.
 
+Il punteggio di Carisma influenza il numero di \emph{tizi} che conosci. Vedi \hyperlink{ioconoscountizio}{Io conosco un tizio....}.
+
 \begin{center}
 \includegraphics[width=0.55\linewidth]{immagini/dice4.png}
 \end{center}
@@ -1671,9 +1673,11 @@ Ad ogni nuova professione che andrete a creare associate 4 competenze prese da q
 
 In accordo con il Narratore è anche possibile cambiare l'ordine delle Competenze per le Professioni già elencate rendendo più capace il personaggio in alcune competenze piuttosto che altre.
 
-\subsubsection{Competenze e Background del personaggio}\label{quintacompetenza}\index{Il Competenze e Background del personaggio}
+\subsubsection{Competenze, Intelligenza e Background del personaggio}\label{quintacompetenza}\index{Il Competenze e Background del personaggio}
 
 Il giocatore alla creazione del personaggio può decidere di prendere un +1 ad una Competenza già conosciuta oppure prendere una nuova Competenza, legata alla storia del personaggio, a punteggio 1.
+
+Il personaggio acquisisce una Competenza a punteggio 1 per ogni punto di Intelligenza superiore a 2, e perde 1 punto in una Competenza per ogni punto di Intelligenza inferiore a 0.
 
 \medskip
 
@@ -2747,27 +2751,26 @@ Il Narratore non deve pensare che dare l'informazione sia un problema, alla fine
 
 \pagebreak
 
-\section{Combattimento Armato}\index{Combattimento Armato}
+\section{Combattimento Armato}\label{sec:combattimento-armato}\index{Combattimento Armato}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Si vis pacem, para bellum (\emph{Se vuoi la pace, prepara la guerra}, Vegezio, libro III, Epitoma rei militaris)
-\medskip
+\smallskip
 
 Non conta come cadi, ma se e come ti rialzi (anonimo)
 
-\medskip
+\smallskip
+
 Non sono un eroe. No e non lo sarò mai. Sono solo un cattivo che viene pagato per pestare tipi peggiori di lui. (Deadpool)
 
-\medskip
+\smallskip
 
-Occhio per occhio... e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti aborrivano la violenza!)}\end{enfasi}\end{changemargin}\medskip
+Occhio per occhio... e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti aborrivano la violenza!)}\end{enfasi}\end{changemargin}
 
 
 \begin{multicols}{2}
 
 Il combattimento è tra le fasi principali di un avventura ed è quando i personaggi cercano, con risultati alterni, di dare sfoggio della loro maestria con le armi o magie.
-
-\bigskip
 
 Il combattimento è diviso in 2 fasi:\index{Combattimento}
 \begin{itemize}
@@ -2776,7 +2779,7 @@ Il combattimento è diviso in 2 fasi:\index{Combattimento}
 \end{itemize}
 
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/Achildbookofwarriors.png}
+\includegraphics[width=0.65\linewidth]{immagini/Achildbookofwarriors.png}
 
 \emph{A child's book of warriors (1907), William Canton}
 \end{center}
@@ -2890,6 +2893,7 @@ Usare un oggetto tenuto in mano& 1\\
 \midrule
 Bere una pozione tenuta in mano& I\\
 Bere una pozione tenuta alla cintura& 1\\
+Fare bere una pozione ad un altro & 2\\
 \midrule
 Gettare un oggetto tenuto in mano& R\\
 Gettarsi a terra prono& R\\
@@ -2944,8 +2948,6 @@ Questo \textbf{elenco non è completo}, prendetelo come linee guida per stabilir
 L'\textbf{ordine} con cui si eseguono le Azioni non è importante se non per correlazione logica e fisica. L'Azione di Movimento può essere tra altre Azioni (movimento, attacco/incantesimi/altra Azione, movimento).
 
 Un personaggio potrebbe attaccare, muoversi ed ancora attaccare, questo secondo attacco avrebbe le penalità descritte negli attacchi multipli.
-\smallskip
-
 
 %\begin{center}
 %\includegraphics[width=0.7\linewidth]{immagini/Perseus_Fighting_Phineus_and_his_Companions.png}
@@ -2955,15 +2957,11 @@ Un personaggio potrebbe attaccare, muoversi ed ancora attaccare, questo secondo 
 
 \subsection{Opzionale - Variante Iniziativa}\index{Opzionale - Variante Iniziativa}\hypertarget{varianteiniziativa}{}\label{varianteiniziativa}
 
-Questa variante dell'iniziativa vuole stimolare la diversificazione delle azioni in base alla situazioni che si vanno ad affrontare volta per volta.
+Questa variante dell'iniziativa vuole stimolare la diversificazione delle azioni in base alla situazioni che si vanno ad affrontare volta per volta. 
 
-L'iniziativa è un valore che si computa round per round in base alle Azioni che si eseguono.
+L'iniziativa è un valore che si computa round per round in base alle Azioni che si eseguono. Ad inizio round c'è la dichiarazioni delle Azioni che si vogliono intraprendere, partendo da chi ha Destrezza o Intelligenza più bassa.
 
-Ad inizio round c'è la dichiarazioni delle Azioni che si vogliono intraprendere, partendo da chi ha Destrezza o Intelligenza più bassa.
-
-Si possono usare fino a 10 Punti Azione (PA) a Round. 
-
-\textbf{Chi usa meno Punti Azione agisce per primo}
+Si possono usare fino a 10 Punti Azione (PA) a Round. \textbf{Chi usa meno Punti Azione agisce per primo}
 
 A parità di PA usati agisce per primo chi ha Destrezza od Intelligenza più alta, a parità l'avversario, in caso di compagni ci si mette d'accordo.
 
@@ -2994,11 +2992,7 @@ Prendere qualcosa dalla cintura o di pronto & 3 &Riconoscere un Incantesimo& 0
 
 - Gli Incantesimi costano 3 PA per Componente usato (V,S,M), tranne quando il tempo di lancio indicato è superiore ad 1 round.
 
-- L'incantesimo Velocità concede 4 Punti Azione in più. Questi PA non si contano per la verifica dell'iniziativa su chi agisce prima.
-
-- L'incantesimo Lentezza sottrae 4 Punti Azione ai disponibili. Questi PA si aggiungono per la verifica dell'iniziativa su chi agisce prima. Es. Uso 4 Punti Azione, su un massimo di 6 (10-4 per Lentezza), per la verifica dell'iniziativa ho usato 4+4 punti.
-
-\medskip
+- L'incantesimo \textbf{Velocità} concede 4 Punti Azione in più. Questi PA non si contano per la verifica dell'iniziativa su chi agisce prima. L'incantesimo \textbf{Lentezza} sottrae 4 Punti Azione ai disponibili. Questi PA si aggiungono per la verifica dell'iniziativa su chi agisce prima. Es. Uso 4 Punti Azione, su un massimo di 6 (10-4 per Lentezza), per la verifica dell'iniziativa ho usato 4+4 punti.
 
 Lo spostarsi, il decidere che arma usare od incantesimo determinano non solo quando si agisce ma la tattica che si vuole perseguire. La collaborazione tra i personaggi diventa fondamentale e non rallenta il flusso delle azioni.
 
@@ -3693,7 +3687,7 @@ costa 1 Azione, ti sposti di 1 metro e non causi attacchi di opportunità.\index
 
 \subsubsection{Capriola} \index{Capriola}\label{capriola}\hypertarget{capriola}{}
 
-Il personaggio può tentare di muoversi tra gli avversari non causando attacchi di opportunità se riesce in una prova di Atletica, per avversario, con DC pari a 10+GS avversario. Il personaggio non consuma Azioni per la prova di Atletica ma per le Azioni di Movimento fatte. Se il personaggio fallisce la prova di Atletica interrompe la sua Azione di Movimento dove ha fallito la prova.
+Il personaggio può tentare di muoversi tra gli avversari non causando attacchi di opportunità se riesce in una prova di Atletica, per avversario che vuole \emph{saltare}, con DC pari a 10+GS avversario. Il personaggio non consuma Azioni per la prova di Atletica ma per le Azioni di Movimento fatte. Se il personaggio fallisce la prova di Atletica interrompe la sua Azione di Movimento vicino all'avversario per il quale ha fallito la prova.
 
 \subsubsection{Colpo Preciso} \index{Colpo Preciso}\label{colpopreciso}
 
@@ -3915,7 +3909,7 @@ Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferis
 \vfill
 
 \begin{center}
-\includegraphics[width=0.55\linewidth]{immagini/saurovallo1-ai.png}
+\includegraphics[width=0.5\linewidth]{immagini/saurovallo1-ai.png}
 
 \textit{Saurovallo addestratto, con sella e finimenti, 105 mo (75+30) (B.I.C.)}
 \end{center}
@@ -4439,7 +4433,7 @@ Non è possibile applicare questi bonus se si usa più di uno scudo.
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 
 \item 4 punti: la furia dei tuoi attacchi è tale che guadagni un +2 al danno sul colpo.
-\item 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
+\item 5 punti: se uccidi una creatura con un colpo critico il danno in eccesso, se il Tiro per Colpire è sufficiente, lo prende un'altra creatura in mischia con te.
 \item 7 punti: le ferite che provochi sono cosi profonde che causi Sanguinamento. Ogni tuo attacco andato a segno aumenta di 1 il sanguinamento fino ad un massimo di Sanguinamento 5.
 \item 9 punti: ogni colpo critico che provochi aumenta il Sanguinamento di 2, fino ad un massimo di 10.
 \item 11 punti: le ferite che provochi sono cosi profonde che causi molto Sanguinamento. Il valore di Sanguinamento massimo sale a 15.
@@ -5636,6 +5630,12 @@ L'Abilità va dichiarato prima del Tiro per Colpire e dura fino all'inizio del p
 
 La tua arma, presente nella Lista Armi Rompi Cranio, fa +2 danni
 
+\ability{Lesto}{lesto}{Competenza Armi 3}{+1 Riflessi, +1 Volontà}{Destrezza o Forza}
+
+Quando un alleato esegue un tiro critico puoi, usando una reazione, colpire il medesimo avversario purché in mischia con te.
+
+La \textbf{seconda volta} che prendi questa Abilità, Competenza Armi 6, guadagni una reazione da poter usare solo per l'Abilità Lesto.
+
 \ability{Litania versatile}{litaniaversatile}{Competenza Intrattenere 6}{+1 Volontà, +1 Riflessi}{Carisma o Destrezza}
 
 Tramite la tua esibizione puoi decidere di infondere coraggio o paura alle creature entro 9 metri da te.
@@ -5844,7 +5844,7 @@ Se uccidi l'avversario con la tua ultima Azione di Attacco, in mischia, puoi eff
 
 La \textbf{seconda volta} che prendi questa Abilità requisito Proseguire, Competenza Armi 6
 
-Se uccidi l'avversario con la tua ultima Azione di Attacco, puoi effettuare un Azione di attacco bonus con gli stessi modificatori dell'ultima Azione di Attacco effettuato con l'arma ed attaccare un altro nemico entro 1 metro. Se la uccidi puoi proseguire con un ulteriore attacco bonus (e ti sposti entro 1 metro) con la creature successiva e così via.
+Se uccidi l'avversario con la tua ultima Azione di Attacco, puoi effettuare un Azione di attacco bonus con gli stessi modificatori dell'ultima Azione di Attacco effettuato con l'arma ed attaccare un altro nemico entro 1 metro. Se la uccidi puoi proseguire con un ulteriore attacco bonus (e ti sposti entro 1 metro) con la creatura successiva e così via.
 
 Ogni attacco bonus oltre il primo ha un -2 al colpire ed un -1 al danno cumulativo.
 
@@ -6169,6 +6169,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{iaijutsu}{Iaijutsu}\\
 \hyperlink{iniziativamigliorata}{Iniziativa migliorata}\\
 \hyperlink{lamiapelle}{La mia pelle}\\
+\hyperlink{lesto}{Lesto}\\
 \hyperlink{parata}{Parata}\\
 \hyperlink{pellecoriacea}{Pelle Coriacea}\\
 \hyperlink{primosangue}{Primo Sangue}\\
@@ -6209,6 +6210,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{frecciachiamata}{Freccia chiamata, freccia consegnata}\\
 \hyperlink{giocoliere}{Giocoliere}\\
 \hyperlink{improvvisare}{Improvvisare}\\
+\hyperlink{lesto}{Lesto}\\
 \hyperlink{occhioclinico}{Occhio Clinico}\\
 \hyperlink{opportunista}{Opportunista}\\
 \hyperlink{passofelpato}{Passo felpato}\\
@@ -15627,7 +15629,7 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 
 \textbf{Attrezzatura da Pesca}. Questo kit comprende un'asta di legno, filo di seta, taglierino di legno, ami d'acciaio, peso di piombo, esche di velluto e un retino.
 
-\textbf{Bandoliera}. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo. Estrarre e bere un oggetto da essa costa 1 Azione, come fosse dalla cintura.\index{Bandoliera}
+\textbf{Bandoliera}. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo e porta fino a 6 oggetti. Estrarre e bere un oggetto da essa costa 1 Azione, come fosse dalla cintura.\index{Bandoliera}
 
 \textbf{Biglie di Metallo}. Con un'Azione, puoi spargere una singola borsa di queste minuscole biglie di metallo per coprire un quadrato di 3 metri di lato. Una creatura che attraversa l'area coperta deve superare un Tiro Salvezza su Riflessi con DC 13 o cadere prona. Una creatura che attraversa l'area a metà velocità non deve effettuare il Tiro Salvezza.
 
@@ -19706,6 +19708,11 @@ La Tabella: Ricchezza dei Personaggi per Livello può anche essere usata per sta
 
 Per un metodo equilibrato, i personaggi che vengono creati dopo il 1° livello dovrebbero spendere il 25\% della loro ricchezza per le armi, il 25\% per armatura e oggetti di protezione, il 25\% per altri oggetti magici, il 15\% per oggetti che si consumano come bacchette, pergamene e pozioni e il 10\% per un equipaggiamento normale e monete. Tipi di personaggio differenti potrebbero spendere diversamente la loro ricchezza rispetto a come suggerito; ad esempio, gli incantatori arcani potrebbero spendere di più per oggetti magici e a consumo che per le armi.
 
+\subsection{Io conosco un tizio...}\index{Io conosco un tizio}\label{ioconoscountizio}\hypertarget{ioconoscountizio}{}
+
+Per agevolare lo spirito di avventura e non lasciare i personaggi incapaci o indecisi nell'agire, permettetegli di conoscere un certo numero di PNG pari al loro punteggio di Carisma +1. Questi PNG potranno essere \emph{sfruttati} quando i personaggi si trovano in situazioni difficili, di pericolo o semplicemente bisognosi si supporto. Il personaggio che si appella al \emph{io conosco un tizio...} deve descrivere adeguatamente il soggetto ed il rapporto che c'è tra loro. Il Narratore adatterà la situazione per includere questo personaggio al meglio delle possibilità.
+
+Il tizio potrebbe essere un commerciante che gli deve un favore, se non un ladro od un burocrate. I personaggi sono invitati a non inventarsi amicizie o favori da personaggi troppo importanti.
 
 
 \subsection{Recitare}\index{Recitare}\label{ruolare}
@@ -19938,13 +19945,13 @@ Anche nel miglior gruppo già affiatato è sempre bene ricordare e condividere q
 
 \end{multicols}
 
-\vfill
+%\vfill
 
-\begin{center}
-\includegraphics[keepaspectratio,width=0.95\linewidth]{immagini/dice.png}
-
-\emph{Tipico set di dadi da gioco di ruolo}
-\end{center}
+%\begin{center}
+%\includegraphics[keepaspectratio,width=0.75\linewidth]{immagini/dice.png}
+%
+%\emph{Tipico set di dadi da gioco di ruolo}
+%\end{center}
 
 %\vfill
 
@@ -20937,11 +20944,16 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 35-43 & \hyperlink{Faretra Efficiente}{Faretra Efficiente}\\
 44-48 & \hyperlink{Freccia localizzante}{Freccia localizzante}\\
 49-52 & \hyperlink{Balestra dei Dardi Arcani}{Balestra dei Dardi Arcani}\\
-53-60 & \hyperlink{Lanterna della Rivelazione}{Lanterna della Rivelazione}\\
-61-70 & \hyperlink{Perla del Potere}{Perla del Potere}\\
-71-80 & \hyperlink{Pietra della Buona Sorte}{Pietra della Buona Sorte}\\
+53-57 & \hyperlink{Lanterna della Rivelazione}{Lanterna della Rivelazione}\\
+58-60 & \hyperlink{Pergamena contro gli elementali}{Pergamena contro gli elementali}\\
+61-63 & \hyperlink{Pergamena contro i non morti}{Pergamena contro i non morti}\\
+63-65 & \hyperlink{Collana dell'Aria Salubre}{Collana dell'Aria Salubre}\\
+66-69 & \hyperlink{Perla del Potere}{Perla del Potere}\\
+70-73 & \hyperlink{Pietra della Buona Sorte}{Pietra della Buona Sorte}\\
+74-80 & \hyperlink{Filatterio contro i non morti}{Filatterio contro i non morti}\\
 81-83 & \hyperlink{Solvente Universale}{Solvente Universale}\\
-84-94 & \hyperlink{Unguento di Ljust}{Unguento di Ljust}\\
+84-89 & \hyperlink{Polvere dell'Aridità}{Polvere dell'Aridità}\\
+90-94 & \hyperlink{Unguento di Ljust}{Unguento di Ljust}\\
 95-100 & \hyperlink{Zainetto Pratico}{Zainetto Pratico}\\
 \end{tabularx}
 
@@ -20952,15 +20964,22 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 \textbf{1d100} & \textbf{Oggetti magici vari 2}\\
 1-8 &\hyperlink{Braciere degli Elementali del Fuoco}{Braciere degli Elementali del Fuoco}\\
 9-17 &\hyperlink{Braciere del Sonno maledetto}{Braciere del Sonno maledetto}\\
-18-27 & \hyperlink{Cubo di protezione dal freddo}{Cubo di protezione dal freddo}\\
-28-34 & \hyperlink{Incensiere degli Elementali dell'Aria}{Incensiere degli Elementali dell'Aria}\\
+18-23 & \hyperlink{Cubo di protezione dal freddo}{Cubo di protezione dal freddo}\\
+24-29 & \hyperlink{Incensiere degli Elementali dell'Aria}{Incensiere degli Elementali dell'Aria}\\
+30-34 & \hyperlink{Incenso della meditazione}{Incenso della meditazione}\\
 35-43 & \hyperlink{Rete Intralciante}{Rete Intralciante}\\
 44-52 & \hyperlink{Rete Intrappolante}{Rete Intrappolante}\\
-53-60 & \hyperlink{Scopa dell'Attacco animato}{Scopa dell'Attacco animato}\\
-61-70 & \hyperlink{Scopa Volante}{Scopa Volante}\\
-71-80 & \hyperlink{Scopa del Volo maledetto}{Scopa del Volo maledetto}\\
-81-88 & \hyperlink{Specchio della Duplicazione}{Specchio della Duplicazione}\\
-89-90 & \hyperlink{Tappeto Volante}{Tappeto Volante}\\
+53-58 & \hyperlink{Scopa dell'Attacco animato}{Scopa dell'Attacco animato}\\
+59-63 & \hyperlink{Scopa Volante}{Scopa Volante}\\
+64-67 & \hyperlink{Borsa Divorante}{Borsa Divorante}\\
+68-70 & \hyperlink{Pergamena protettiva contro la magia}{Pergamena protettiva contro la magia}\\
+71-73 & \hyperlink{Pergamena contro i licantropi}{Pergamena contro i licantropi}\\
+74-76 & \hyperlink{Scopa del Volo maledetto}{Scopa del Volo maledetto}\\
+77-84 & \hyperlink{Pietre parlanti}{Pietre parlanti}\\
+85-88 & \hyperlink{Specchio della Duplicazione}{Specchio della Duplicazione}\\
+89-90 & \hyperlink{Specchio Intrappola Vita}{Specchio Intrappola Vita}\\
+91-94 & \hyperlink{Corno del Valhalla}{Corno del Valhalla}\\
+95-98 & \hyperlink{Tappeto Volante}{Tappeto Volante}\\
 99-100 & \hyperlink{Zappa dei Titani}{Zappa dei Titani}
 \end{tabularx}
 
@@ -20968,16 +20987,15 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Oggetti magici vari 3}\\
-1-8 & \hyperlink{Borsa dell'Annullamento}{Borsa dell'Annullamento}\\
-9-18 & \hyperlink{Brocca dell'Acqua Infinita}{Brocca dell'Acqua Infinita}\\
-19-26 & \hyperlink{Ceppi Dimensionali}{Ceppi Dimensionali}\\
-27-35 & \hyperlink{Colla Suprema}{Colla Suprema}\\
-36-40 & \hyperlink{Incenso della meditazione}{Incenso della meditazione}\\
-41-51 & \hyperlink{Pergamena protettiva contro la magia}{Pergamena protettiva contro la magia}\\
-52-60 & \hyperlink{Polvere Rivelatrice}{Polvere Rivelatrice}\\
-61-70 & \hyperlink{Polvere della Sparizione}{Polvere della Sparizione}\\
-71-82 & \hyperlink{Polvere dello Starnuto e del Soffocamento}{Polvere dello Starnuto e del Soffocamento}\\
-83-90 & \hyperlink{Pietra Arcana}{Pietra Arcana}\\
+1-15 & \hyperlink{Borsa dell'Annullamento}{Borsa dell'Annullamento}\\
+16-25 & \hyperlink{Brocca dell'Acqua Infinita}{Brocca dell'Acqua Infinita}\\
+26-35 & \hyperlink{Ceppi Dimensionali}{Ceppi Dimensionali}\\
+36-46 & \hyperlink{Colla Suprema}{Colla Suprema}\\
+47-56 & \hyperlink{Polvere Rivelatrice}{Polvere Rivelatrice}\\
+57-68 & \hyperlink{Polvere della Sparizione}{Polvere della Sparizione}\\
+69-70 & \hyperlink{Palla di Cristallo ipnotica}{Palla di Cristallo ipnotica}\\
+71-81 & \hyperlink{Polvere dello Starnuto e del Soffocamento}{Polvere dello Starnuto e del Soffocamento}\\
+82-90 & \hyperlink{Pietra Arcana}{Pietra Arcana}\\
 91-96 & \hyperlink{Pietra del Peso}{Pietra del Peso}\\
 97-100 & \hyperlink{Ventaglio Arcano}{Ventaglio Arcano}
 \end{tabularx}
@@ -20996,26 +21014,20 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \begin{tabularx}{0.45\textwidth}{lX}
 \textbf{1d100} & \textbf{Oggetti magici vari 4}\\
-1-5 & \hyperlink{Ampolla delle maledizioni}{Ampolla delle maledizioni}\\
-6-10 & \hyperlink{Battaglio del Cannibalismo}{Battaglio del Cannibalismo}\\
-11-16 & \hyperlink{Borsa Conservante Tipo II}{Borsa Conservante Tipo II}\\
-17-20 & \hyperlink{Borsa Divorante}{Borsa Divorante}\\
-26-31 & \hyperlink{Buco Portatile}{Buco Portatile}\\
-32-37 & \hyperlink{Collana dell'Aria Salubre}{Collana dell'Aria Salubre}\\
+1-10 & \hyperlink{Ampolla delle maledizioni}{Ampolla delle maledizioni}\\
+11-18 & \hyperlink{Battaglio del Cannibalismo}{Battaglio del Cannibalismo}\\
+19-28 & \hyperlink{Borsa Conservante Tipo II}{Borsa Conservante Tipo II}\\
+29-37 & \hyperlink{Buco Portatile}{Buco Portatile}\\
 38-43 & \hyperlink{Corda dell'Intralciamento}{Corda dell'Intralciamento}\\
-44-48 & \hyperlink{Corda Strozzatrice}{Corda Strozzatrice}\\
-49-50 & \hyperlink{Corno di Distruzione}{Corno di Distruzione}\\
-51-52 & \hyperlink{Cubo di Forza}{Cubo di Forza}\\
-53-58 & \hyperlink{Fasce di Ferro del Vincolo}{Fasce di Ferro del Vincolo}\\
-59-64 & \hyperlink{Filatterio contro i non morti}{Filatterio contro i non morti}\\
-65-69 & \hyperlink{Incenso dell'Ossessione}{Incenso dell'Ossessione}\\
-70-71 & \hyperlink{Mazzo delle Illusioni}{Mazzo delle Illusioni}\\
-72-76 & \hyperlink{Palla di Cristallo ipnotica}{Palla di Cristallo ipnotica}\\
-77-82 & \hyperlink{Pergamena contro i licantropi}{Pergamena contro i licantropi}\\
+44-50 & \hyperlink{Corda Strozzatrice}{Corda Strozzatrice}\\
+51-55 & \hyperlink{Corno di Distruzione}{Corno di Distruzione}\\
+56-60 & \hyperlink{Cubo di Forza}{Cubo di Forza}\\
+61-64 & \hyperlink{Fasce di Ferro del Vincolo}{Fasce di Ferro del Vincolo}\\
+65-73 & \hyperlink{Incenso dell'Ossessione}{Incenso dell'Ossessione}\\
+74-82 & \hyperlink{Mazzo delle Illusioni}{Mazzo delle Illusioni}\\
 83-84 & \hyperlink{Pietra degli Elementali della Terra}{Pietra degli Elementali della Terra}\\
-85-89 & \hyperlink{Piffero dello Spavento}{Piffero dello Spavento}\\
-90-92 & \hyperlink{Piuma Arcana}{Piuma Arcana}\\
-93-94 & \hyperlink{Polvere dell'Aridità}{Polvere dell'Aridità}\\
+85-91 & \hyperlink{Piffero dello Spavento}{Piffero dello Spavento}\\
+92-94 & \hyperlink{Piuma Arcana}{Piuma Arcana}\\
 95-96 & \hyperlink{Tamburi del Panico}{Tamburi del Panico}\\
 97-98 & \hyperlink{Tamburi dello Stordimento}{Tamburi dello Stordimento}\\
 99-100 & \hyperlink{Turibolo dell'Evocazione maledetta}{Turibolo dell'Evocazione maledetta}
@@ -21036,22 +21048,18 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 25-28 & \hyperlink{Borsa dei Fagioli}{Borsa dei Fagioli}\\
 29-30 & \hyperlink{Bottiglia dell'Efreeti}{Bottiglia dell'Efreeti}\\
 31 & \hyperlink{Brocca delle Pozioni}{Brocca delle Pozioni}\\
-32-33 & \hyperlink{Candela di Invocazione}{Candela di Invocazione}\\
-34-35 & \hyperlink{Corno del Valhalla}{Corno del Valhalla}\\
+32-35 & \hyperlink{Candela di Invocazione}{Candela di Invocazione}\\
 36-39 & \hyperlink{Filatterio della giovinezza}{Filatterio della giovinezza}\\
 40-42 & \hyperlink{Fortezza Istantanea}{Fortezza Istantanea}\\
 43-45 & \hyperlink{Mazzo delle Meraviglie}{Mazzo delle Meraviglie}\\
-46-49 & \hyperlink{Miniatura dal Potere Meraviglioso}{Miniatura dal Potere Meraviglioso}\\
-50-53 & \hyperlink{Munizione dell'Uccisione}{Munizione dell'Uccisione}\\
-54-58 & \hyperlink{Palla di Cristallo}{Palla di Cristallo}\\
-59-62 & \hyperlink{Pergamena contro gli elementali}{Pergamena contro gli elementali}\\
-63-65 & \hyperlink{Pergamena contro i non morti}{Pergamena contro i non morti}\\
-66-70 & \hyperlink{Piffero delle Fogne}{Piffero delle Fogne}\\
-71-75 & \hyperlink{Pigmenti delle Meraviglie}{Pigmenti delle Meraviglie}\\
+46-50 & \hyperlink{Miniatura dal Potere Meraviglioso}{Miniatura dal Potere Meraviglioso}\\
+51-55 & \hyperlink{Munizione dell'Uccisione}{Munizione dell'Uccisione}\\
+56-60 & \hyperlink{Palla di Cristallo}{Palla di Cristallo}\\
+61-67 & \hyperlink{Piffero delle Fogne}{Piffero delle Fogne}\\
+68-75 & \hyperlink{Pigmenti delle Meraviglie}{Pigmenti delle Meraviglie}\\
 76-83 & \hyperlink{Portale Cubico}{Portale Cubico}\\
-84-85 & \hyperlink{Pozzo dei Molti Mondi}{Pozzo dei Molti Mondi}\\
-86-87 & \hyperlink{Specchio dell'Abilità mentale}{Specchio dell'Abilità mentale}\\
-88-89 & \hyperlink{Specchio Intrappola Vita}{Specchio Intrappola Vita}\\
+84-86 & \hyperlink{Pozzo dei Molti Mondi}{Pozzo dei Molti Mondi}\\
+87-89 & \hyperlink{Specchio dell'Abilità mentale}{Specchio dell'Abilità mentale}\\
 90-91 & \hyperlink{Sfera dell'Annientamento}{Sfera dell'Annientamento}\\
 92-94 & \hyperlink{Turibolo Elementale dell'aria}{Turibolo Elementale dell'aria}\\
 95-96 & \hyperlink{Vano Portatile}{Vano Portatile}\\
@@ -23436,6 +23444,9 @@ Una pietra ha Difesa 24, 10 Punti Ferita e resistenza a tutti i danni. Mentre or
 
 \index[OggettiMagici]{Pietra degli Elementali della Terra}\smallskip* \textbf{Pietra degli Elementali della Terra}\hypertarget{Pietra degli Elementali della Terra}{}
 8000 mo, raro, se la pietra tocca terra, puoi usare due azioni per pronunciare la parola di comando ed evocare un elementale della terra, come se avessi lanciato l'incantesimo evocare elementali. La pietra non può di nuovo essere usata a questo modo, fino alla prossima alba. La pietra pesa 2,5 chili, ingombro 3.
+
+\index[OggettiMagici]{Pietre parlanti}\smallskip* \textbf{Pietre parlanti}\hypertarget{Pietre parlanti}{}
+4000 mo, raro, queste due pietre vendute sempre a coppia permettono la comunicazione a distanza tra i loro utilizzatori. Non c'è limite di distanza o Piano. Le pietre possono essere usate per 10 minuti al giorno. Ingombro L.
 
 \index[OggettiMagici]{Piffero delle Fogne}\smallskip* \textbf{Piffero delle Fogne}\hypertarget{Piffero delle Fogne}{}
 2000 mo, non comune, devi essere competente con gli strumenti a fiato per usare questo piffero. Mentre usi questo piffero, i ratti normali e i ratti giganti sono indifferenti nei tuoi confronti e non ti attaccheranno a meno che non li minacci o li danneggi. Mentre suoni il piffero, puoi usare due azioni per spendere da 1 a 3 cariche richiamando uno sciame di ratti per ogni carica spesa, purché ci siano abbastanza ratti entro 750 metri da te da richiamare in questa maniera (a discrezione del Narratore). Se non ci sono abbastanza ratti da formare uno sciame, la carica è sprecata. Gli sciami richiamati si muovono verso la musica tramite la rotta più breve possibile, ma non sono in alcun altro modo sotto il tuo controllo. Il piffero ha 3 cariche e recupera 1 carica  ogni giorno all'alba.
