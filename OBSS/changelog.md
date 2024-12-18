@@ -644,7 +644,7 @@ aggiornata versione POD 2024/09/09
 
 aggiornata versione POD 2024/09/11
 
-**0.97** rilettura descrizione oggetti magici, aggiornato zaino standard
+**0.97** rilettura descrizione oggetti lo stato dalle sue issue.magici, aggiornato zaino standard
 
 aggiornata versione POD 2024/09/14
 
@@ -766,7 +766,7 @@ aggiornata versione POD 2024/12/13
 
 aggiornata versione POD 2024/12/17
 
-0.99.27 
+0.99.27 ottimizzato indice, 
 
 
 
@@ -795,5 +795,4 @@ aggiornata versione POD 2024/12/17
 
 - rimuovere livelli, spendere gli xp per acquistare abilita'/feat, competenze. Si tratterebbe di rifare quasi tutto il manuale
 - un unico attacco contro difesa. il giocatore ha un valore di TS da superare da parte del caster  (questo per Dark Catacomb)
-- usage dice
 - magia freeform maxare al 5/6 livello, oppure implementare un usage dice (roll until)
