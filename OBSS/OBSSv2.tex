@@ -6074,7 +6074,7 @@ Se nel round esegui almeno un attacco questi hanno una penalità base di -5 e pu
 \ability{Tutt'uno con la magia}{tuttunoconlamagia}{Adepto della Magia}{+1 in due Tiri Salvezza a propria scelta}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Ogni volta che prendi l'Abilità Tutt'uno con la magia devi stabilire a che Caratteristica si collega.
-La tua Caratteristica ha un +1 al valore per determinare effetti dell'incantesimo.
+La tua Caratteristica ha un +1 al valore per determinare gli effetti dell'incantesimo e Punti Magia.
 
 \ability{Un braccio, un arma}{unbracciounarma}{Competenza Armi 2}{+1 Tempra, +1 Volontà}{Forza o Costituzione}
 
@@ -7121,9 +7121,11 @@ In caso di incantesimi istantanei gli effetti agiscono singolarmente se agiscono
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 
 \item
-L'incantatore al lancio del suo primo incantesimo sceglie se utilizzare come modificatore alla prova di Competenza Magica l'intelligenza oppure se è un Devoto può scegliere la Caratteristica indicata dal Patrono. Una volta fatta la scelta non è più possibile cambiarla. 
+L'incantatore al lancio del suo primo incantesimo sceglie se utilizzare come modificatore alla prova di Competenza Magica l'Intelligenza oppure se è un Devoto può scegliere la Caratteristica indicata dal Patrono. Una volta fatta la scelta non è più possibile cambiarla. 
 
 Questo modificatore viene chiamato \textbf{modificatore di caratteristica per incantesimi}.\index{Modificatore di caratteristica per incantesimi}
+\item
+Il personaggio quando assegna il primo punto di Competenza Magica ha nel suo Tomo della Magia un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) ed un numero di incantesimi di primo livello pari allo stesso modificatore, con un minimo di 4.
 \item
 Il personaggio quando assegna il primo punto di Competenza Magica apprende 2 incantesimi presenti sul suo Tomo di Magia + un numero di Trucchetti (incantesimi di livello 0) pari al modificatore di caratteristica per incantesimi con un minimo di 4.\label{incantesimicm1}\hypertarget{incantesimicm1}{}
 \item
@@ -7133,9 +7135,9 @@ Ogni volta che l'incantatore acquisisce un punto in Competenza Magica può rinun
 \item
 Il numero di incantesimi formulabile al giorno dipende dalla capacità dell'incantatore. Vedi \textbf{Tabella Punti magia e Competenza Magica}. Un incantesimo ha un costo in Punti Magia pari al suo livello.
 \item
-Un Seguace ottiene +1d6 alle Prove di Magia negli incantesimi delle liste privilegiate dal Patrono. Può usare l'energia preferita del Patrono nei tuoi incantesimi.\index{Liste Privilegiate}\label{listeprivilegiate}\hypertarget{listeprivilegiate}{}
+Un Seguace ottiene +1d6 alle Prove di Magia negli incantesimi delle liste privilegiate dal Patrono. I tuoi incantaesimi possono usare una delle forme energetiche preferite dal Patrono.\index{Liste Privilegiate}\label{listeprivilegiate}\hypertarget{listeprivilegiate}{}
 \item
-Un Devoto aggiunge +1d6 alle Prova di Magia negli incantesimi delle liste privilegiate dal Patrono e può ignorare un dado tirato nella Prova di Magia. Deve usare l'energia preferita del Patrono nei suoi incantesimi.
+Un Devoto aggiunge +1d6 alle Prova di Magia negli incantesimi delle liste privilegiate dal Patrono e può ignorare un dado tirato nella Prova di Magia. I tuoi incantaesimi usano una delle forme energetiche preferite dal Patrono.
 \item
 Con il termine \textbf{appreso}\index{Incatesimi, Appreso} si intende un incantesimo presente sul Tomo della Magia che si è memorizzato e si può lanciare quando voluto.
 
@@ -7169,18 +7171,15 @@ Per verificare quanti fallimenti critici magici sono stati fatti controllate ini
 
 Controllata l'assenza di fallimento critico se nel tiro di dadi ci sono almeno due 6 avrai ottenuto un \textbf{Successo Critico Magico}\index{Successo Critico Magico}, come per le Golden Rules continuerai a tirare un dado per ogni 6 fatto o che andrai a fare. Conta i 6 che fai, ogni due è un Successo Critico Magico! Eventuali 1 tirati a seguito del successo critico non contano per il fallimento critico. \textbf{Per ogni successo critico la DC del Tiro Salvezza dell'incantesimo aumenta di 1}.
 
-\medskip
+Qualsiasi risultato che non sia un Successo critico magico od un Fallimento critico magico farà manifestare l'incantesimo senza effetti particolari se non richiesti esplicitamente.
+
+Quando viene richiesto di superare o fare una Prova di Magia è sufficiente non fare un Fallimento Critico Magico.
+
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Osare la Prova di Magia]
 La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio. I Punti Magia vi permettono di modificare la Prova, sfruttate queste possibilità.
 C'è sempre un certo pericolo... ma cosa è la Magia senza rischi!
 \end{tcolorbox}\end{changemargin}
-
-\medskip
-
-Qualsiasi risultato che non sia un Successo critico magico od un Fallimento critico magico farà manifestare l'incantesimo senza effetti particolari se non richiesti esplicitamente.
-
-Quando viene richiesto di superare o fare una Prova di Magia è sufficiente non fare un Fallimento Critico Magico.
 
 \medskip
 
@@ -7220,7 +7219,7 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico tira 3d6 e con
 
 %\end{multicols}
 
-\columnbreak
+\medskip
 
 \textbf{Tabella: Effetti Fallimento Critico magico}\index[Tabelle]{Tabella Effetti Fallimento Critico Prova di Magia}
 
@@ -7246,7 +7245,7 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico tira 3d6 e con
 16 & Guadagni 2d6 Punti Magia\\
 17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
 18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili
-\end{tabularx}
+\end{tabularx} 
 
 \subsubsection{I Punti Magia}\index{I Punti Magia}\label{magiepuntimagia}\index{Incantesimi, Punti Magia}
 
@@ -7573,11 +7572,11 @@ La sola \textbf{energia negativa} danneggia\index{Energia Negativa} i viventi e 
 
 Un caso particolare è l'\textbf{energia positiva Curativa}\index{Energia positiva curativa} che cura i viventi e danneggia i non morti. Questa energia è quella dell'Imposizione delle mani, Incanalare energia e degli incantesimi di Cura.\index{Energia positiva su non morti}
 
-\begin{center}
-	\includegraphics[width=0.45\linewidth]{immagini/The_Chariot_of_Hermes.png}
-	
-	\emph{Tarocchi - il Carro}
-\end{center}
+%\begin{center}
+%	\includegraphics[width=0.45\linewidth]{immagini/The_Chariot_of_Hermes.png}
+%	
+%	\emph{Tarocchi - il Carro}
+%\end{center}
 
 \subsection{Abilità di Lista}
 
@@ -13578,11 +13577,11 @@ Non è necessario che abbia giurato fedeltà ad un Patrono o che ne sia Seguace 
 Un Patrono è ben contento se le creature seguono i suoi dettami, Tratti, e dona a coloro che lo fanno dei piccoli poteri come riconoscimento per la fedeltà a lui riservata, volutamente o meno. I poteri indicati sotto \emph{Tratti in Comune} sono cumulativi. Se non indicato diversamente i poteri sono usabili 1 volta al giorno e costano 2 Azioni.
 Quando è indicato un incantesimo questo viene manifestato senza Prove di Magia o penalità dovute ad armatura.
 
-Ogni \textbf{Patrono predilige uno o più forme energetiche}, se sei Seguace puoi usare quell'energia nelle tue magie, se sei un Devoto invece devi, alla stessa maniera sono indicate le \hyperlink{listeprivilegiate}{\emph{Liste Privilegiate}} (pag. \pageref{listeprivilegiate})\index{Liste Magia privilegiate}, ovvero liste nelle quale il Devoto ha dei vantaggi d'uso.
+Ogni \textbf{Patrono predilige uno o più forme energetiche}, se sei Seguace puoi usare quell'energia nelle tue magie, se sei un Devoto invece i tuoi incantesimi usaranno una della forme energetiche indicate. Sono indicate le \hyperlink{listeprivilegiate}{\emph{Liste Privilegiate}} (pag. \pageref{listeprivilegiate})\index{Liste Magia privilegiate}, ovvero liste nelle quale il Devoto ha dei vantaggi d'uso.
 
 Le forme di Energia vengono distinte tra fonti positive, neutrali e negative, servono per inquadrare meglio il vostro padrone, pardon, il Patrono che servite.
 
-Fate la somma degli elementi, se positiva il Patrono si può considerare buono, se a valore zero il Patrono è neutrale, se a valore negativo il Patrono è malvagio, per comodità nella lista delle forme di energia è indicato se il Patrono è \textbf{B}uono, \textbf{N}eutrale o \textbf{M}alvagio.
+Fate la somma delle energie, se positiva il Patrono si può considerare buono, se a valore zero il Patrono è neutrale, se a valore negativo il Patrono è malvagio, per comodità nella lista delle forme di energia è indicato se il Patrono è \textbf{B}uono, \textbf{N}eutrale o \textbf{M}alvagio.
 
 Nella descrizione del Patrono troverete anche la sua \textbf{manifestazione}, ovvero cosa accade quando un personaggio agisce in maniera particolarmente e significativamente consona ai Tratti seguiti dal Patrono. L'effetto è puramente scenico e di circostanza ma lascia sempre colpito chiunque lo possa osservare, solitamente garantisce un punto avanzamento in un Tratto collegato al Patrono. Non è necessario essere Devoto o Seguace, basta aver seguito in maniera particolarmente \emph{epica} quel Tratto.
 
@@ -13609,7 +13608,7 @@ In termini di Gioco di Ruolo canonico i Patroni sono divinità minori, creature 
 
 \medskip
 
-\textbf{Tabella Elementi - Energia}\index[Tabelle]{Tabella degli Elementi}
+\textbf{Tabella Energia - Elementi}\index[Tabelle]{Tabella degli Elementi}
 
 \medskip
 
@@ -13664,7 +13663,7 @@ Ljust può essere scelta solo da un personaggio con 4 Tratti in comune con lei, 
 - \textbf{\textbf{Somma dei Tratti in comune a 10 punti}}: guadagni un +2 ai Tiri Salvezza su Tempra\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: una armatura di luce ti protegge, guadagni un +2 a tutti i Tiri Salvezza e Difesa, l'effetto è permanente.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: puoi lanciare l'incantesimo Bagliore Solare. 1 volta al giorno.\\
-- \textbf{Elementi/B} (Seguace/Devoto): Energia Positiva, Luce\\
+- \textbf{Energia/B} (Seguace/Devoto): Energia Positiva, Luce\\
 - \textbf{Vantaggio} (Devoto): Ogni volta che fai una Cura magica curi un Punto Ferita in più.\\
 - \textbf{Liste Magia Privilegiate}(Seguace/Devoto): Cura, Abiurazione\\
 - \textbf{Arma Preferita}: Spada Bastarda\\
@@ -13720,7 +13719,7 @@ Calicante può essere scelto solo dai personaggi che hanno 4 Tratti in comune co
 - \textbf{Somma dei Tratti in comune a 10 punti}: La tua arma si ammanta di ombra. Guadagni un +2 al Tiro per Colpire e +1d4 di danno da Vuoto per 2d6 round, Una volta al giorno.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Crei 4 dardi di Vuoto, ogni dardo fa 2d6 di danno, colpisce automaticamente entro 18 metri. Una volta al giorno.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Crei una zona di energia protettiva attorno a te nel raggio di 3 metri, dimezzi tutto il danno che ricevi, non è possibile recuperare Punti Ferita nell'area. Durata 10 minuti consecutivi, 1 volta al giorno.\\
-- \textbf{Elementi/M}: Energia Negativa, Vuoto\\
+- \textbf{Energia/M}: Energia Negativa, Vuoto\\
 - \textbf{Vantaggio}: +2 TS contro Lista Incantamento\\
 - \textbf{Liste Magia Privilegiate}: Fuoco, Necromanzia\\
 - \textbf{Arma Preferita}: Machete\\
@@ -13754,7 +13753,7 @@ Vestito di un morbido saio marrone e calzari di cuoio si muove tra gli infiniti 
 - \textbf{Somma dei Tratti in comune a 10 punti}: Hai una intuizione innata per la conoscenza. Hai +1d6 alle prove di Conoscenza\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Puoi lanciare l'incantesimo Globo di Invulnerabilità, 1 volta al giorno.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Ogni qual volta che devi fare una prova di Arcana puoi prendere il 18 come prendessi 10\\
-- \textbf{Elementi/N}: Suono, Freddo\\
+- \textbf{Energia/N}: Suono, Freddo\\
 - \textbf{Vantaggio}: Sai sempre che ora è\\
 - \textbf{Liste Magia Privilegiate}: Divinazione, Abiurazione\\
 - \textbf{Arma Preferita}: Mazza leggera\\
@@ -13782,7 +13781,7 @@ I suoi Devoti sono i viaggiatori per eccellenza, coloro che presidiano e protegg
 - \textbf{Somma dei Tratti in comune a 10 punti}: Puoi lanciare Porta Dimensionale una volta al giorno\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Puoi lanciare l'incantesimo Esilio, 1 volta al giorno, DC 30.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Puoi teletrasportarti per 500km al giorno (anche più teletrasporti o teletrasportati purché la somma totale non superi 500km)\\
-- \textbf{Elementi/N}: Fuoco, Elettricità\\
+- \textbf{Energia/N}: Fuoco, Elettricità\\
 - \textbf{Vantaggio}: Sei considerato di una taglia maggiore quando devono spostarti o spingerti\\
 - \textbf{Liste Magia Privilegiate}: Evocazione, Acqua\\
 - \textbf{Arma Preferita}: Spada Corta\\
@@ -13818,7 +13817,7 @@ Il Devoto di Gradh è fiero ed orgoglioso, indomito e protettivo, ed addolorato,
 - \textbf{Somma dei Tratti in comune a 10 punti}: Per 10 minuti consecutivi hai un bonus di +1d6 Tiro Salvezza su Riflessi e Tempra. Una volta al giorno.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Emani un aura che concede a tutti i tuoi compagni entro raggio 3 metri un +2 Tiri Salvezza. Una volta al giorno, per 30 minuti consecutivi\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Lanci l'incantesimo Palla di Fuoco. L'incantesimo causa 60 di danno da energia negativa. DC 25 Riflessi per dimezzare. 2 volte al giorno\\
-- \textbf{Elementi/N}: Energia Positiva - Energia Negativa\\
+- \textbf{Energia/N}: Energia Positiva - Energia Negativa\\
 - \textbf{Vantaggio}: +2 Consapevolezza\\
 - \textbf{Liste Magia Privilegiate}: Abiurazione, Invocazione\\
 - \textbf{Arma Preferita}: Mazza pesante\\
@@ -13852,7 +13851,7 @@ Il Devoto di Atherim si prende a cuore coloro che hanno fatto una promessa, puni
 - \textbf{Somma dei Tratti in comune a 10 punti}: Guadagni 30 Punti Ferita temporanei. Durata 1 ora, una volta al giorno, come Azione Immediata.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Puoi lanciare l'incantesimo Zona di Verità 3 volte al giorno, senza Tiro Salvezza.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Ogni pozione che bevi ha il doppio come durata o effetto se immediata.\\
-- \textbf{Elementi/B}: Energia Positiva, Elettricità\\
+- \textbf{Energia/B}: Energia Positiva, Elettricità\\
 - \textbf{Vantaggio}: Riduci il Sanguinamento di 1 a fine round\\
 - \textbf{Liste Magia Privilegiate}: Ammaliamento\\
 - \textbf{Arma Preferita}: Pugnale\\
@@ -13886,7 +13885,7 @@ Il Devoto di Belevon è ben descritto da un uomo lucertola circondato da chincag
 - \textbf{Somma dei Tratti in comune a 10 punti}: Acquisisci la capacità lanciare l'incantesimo Immagine Maggiore una volta al giorno.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Puoi lanciare l'incantesimo Allucinazione Mortale. 1 volta al giorno\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Toccando un oggetto vieni a conoscenza per sommi capi della storia di chi l'ha creato. Una volta al giorno. Costa 3 Azioni.\\
-- \textbf{Elementi/N}: Fuoco, Suono\\
+- \textbf{Energia/N}: Fuoco, Suono\\
 - \textbf{Vantaggio}: Vedi Abilità Fortunato\\
 - \textbf{Liste Magia Privilegiate}: Illusione\\
 - \textbf{Arma Preferita}: Picca leggera\\
@@ -13920,7 +13919,7 @@ Ogni qual volta succede una calamità si suole dire che \emph{Cattalm ha battuto
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco imputridisce cibo (fino a 50kg/Ingombro 10) e acqua (un cubo con uno spigolo di 10 m). Una volta al giorno\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Il tuo sguardo accieca di collera. Lanci l'incantesimo Confusione, ma l'unico risultato possibile è che i target attaccano dei soggetti a caso. DC 25. 1 volta al giorno\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Lanci l'incantesimo Cono di Freddo 60 di danno, ma il danno è da Vuoto. DC 25. Una volta al giorno\\
-- \textbf{Elementi/M}: Energia Negativa - Vuoto\\
+- \textbf{Energia/M}: Energia Negativa, Vuoto\\
 - \textbf{Vantaggio}: aumenta di 10 i PF necessari ad ucciderti\\
 - \textbf{Liste Magia Privilegiate}: Fuoco\\
 - \textbf{Arma Preferita}: Ascia da battaglia \\
@@ -13954,7 +13953,7 @@ Nelle terre più desolate, nelle regioni più naturali i Devoti di Efrem costrui
 - \textbf{Somma dei Tratti in comune a 10 punti}: Guadagni un +1d6 a tutte le prove di Sopravvivenza che si effettuano in un ambiente naturale.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Puoi lanciare l'incantesimo Bacche Benefiche 1 volta al giorno. Ogni bacca cura 1d6 Punti Ferita e rimuove le malattie o veleni non magici.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Il tuo tocco è quello del padrone. Puoi ammansire creature anche magiche come Aberrazioni o Draghi che tocchi. Tiro Salvezza su Volontà DC 30. Una volta al giorno. Costo 2 Azioni\\
-- \textbf{Elementi/N}: Elettricità, Suono\\
+- \textbf{Energia/N}: Elettricità, Suono\\
 - \textbf{Vantaggio}: +1d6 a Gestire Animali\\
 - \textbf{Liste Magia Privilegiate}: Animali e Piante ed una Liste Magia Elementale.\\
 - \textbf{Arma Preferita}: Bastone\\
@@ -13984,7 +13983,7 @@ I Devoti di Erondil sono gli ingegneri dell'impossibile.
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco plasma la pietra. Puoi lanciare l'incantesimo Passa Porta 1 volta al giorno.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Puoi scagliare l'incantesimo Fulmine dalle tue mani. Tiro Salvezza Riflessi DC 30 per dimezzare. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Sei in grado di creare una fossa profondissima (1km) sotto il tuo avversario (taglia fino a grande). Tiro Salvezza Riflessi 30 o cadere ogni round di 100 metri. Una volta al giorno. Dopo 1 minuto la fossa si chiude con chi c'è dentro. Costo 2 Azioni.\\
-- \textbf{Elementi/N}: Suono, Elettricità\\
+- \textbf{Energia/N}: Suono, Elettricità\\
 - \textbf{Vantaggio}: Riduzione 10 ai danni da Elettricità\\
 - \textbf{Liste Magia Privilegiate}: Aria, Terra\\
 - \textbf{Arma Preferita}: Martello da guerra\\
@@ -14021,7 +14020,7 @@ Ma Gaya ha anche un lato molto più subdolo e violento, una vena di follia malva
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo metabolismo non teme il freddo. Resisti al Danno magico da freddo e sei immune a quello naturale.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Puoi respirare sott'acqua come respiri l'aria. Resisti al danno da fuoco non magico\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Generi una pioggia di fuoco. Lanci l'incantesimo Colpo Infuocato, DC 25 una volta al giorno. Resisti il danno da fuoco magico.\\
-- \textbf{Elementi/N}: Freddo, Fuoco\\
+- \textbf{Energia/N}: Freddo, Fuoco\\
 - \textbf{Vantaggio}: Riduzione 10 ai danni da Fuoco\\
 - \textbf{Liste Magia Privilegiate}: Acqua, Fuoco\\
 - \textbf{Arma Preferita}: Tridente\\
@@ -14063,7 +14062,7 @@ Un Devoto di Krondal è tipicamente una guardia del corpo, un protettore, lo sce
 - \textbf{Somma dei Tratti in comune a 10 punti}: Non vuoi essere legato o ammanettato. Due volte al giorno puoi lanciare solo su te stesso Libertà di Movimento.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: La tua presenza toglie la vista agli avversari. Designa fino a 6 creature entro 9 metri, queste devono fare un Tiro Salvezza Tempra a DC 30 o essere ciechi solo nei tuoi confronti per 1d4 round.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: La tua arma è più efficace contro i nemici. Ogni creatura colpita deve fare un Tiro Salvezza Volontà DC 20 o rimanere paralizzata per 3 round. Una volta che la creatura riesce nel Tiro Salvezza non può essere più influenzata per le successive 24 ore. Una volta la giorno, attivare l'abilità costa 1 Azione e dura 1 minuto.\\
-- \textbf{Elementi/B}: Energia Positiva, Fuoco\\
+- \textbf{Energia/B}: Energia Positiva, Fuoco\\
 - \textbf{Vantaggio}: +2 TS su Tempra\\
 - \textbf{Liste Magia Privilegiate}: Abiurazione\\
 - \textbf{Arma Preferita}: Spada lunga\\
@@ -14094,7 +14093,7 @@ Ledyal ha anche una sorella gemella, o forse un'altra personalità, o forse sono
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco è pace. Puoi lanciare 2 volta al giorno l'incantesimo Santuario.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: La tua aura protegge i tuoi compagni. Entro raggio 6 metri i tuoi compagni hanno un +4 alla Difesa ed un +2 ai Tiri Salvezza. Durata 10 minuti consecutivi, una volta al giorno. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Irradi una sfera curativa intorno a te. Ogni creatura nel raggio di 6 metri viene curata di 60 Punti Ferita. Una volta al giorno. In caso di Laydel l'effetto è opposto. Costo 2 Azioni\\
-- \textbf{Elementi/B}: Energia Positiva, Elettricità\\
+- \textbf{Energia/B}: Energia Positiva, Elettricità\\
 - \textbf{Vantaggio}: +1d6 alle prove di Pronto Soccorso (Ledyal) oppure sei +4 TS contro Paura (Laydel)\\
 - \textbf{Liste Magia Privilegiate}: Cura o Invocazione\\
 - \textbf{Arma Preferita}: Manganello/Catena chiodata\\
@@ -14133,7 +14132,7 @@ Nethergal ha anche un altro ruolo è il Patrono dei sogni e delle visioni, divid
 - \textbf{Somma dei Tratti in comune a 10 punti}: Mettendo la mano su un libro ne apprendi il contenuto come se lo avessi letto. Un libro a settimana. Perdi le conoscenze così acquisite dopo una settimana. Tempo 1 round. La lingua scritta del tomo deve essere nota.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Puoi volare, come omonimo incantesimo, 1 ora al giorno. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Comprendi ogni scritto che non sia magico o codificato.\\
-- \textbf{Elementi/N}: Elettricità, Suono\\
+- \textbf{Energia/N}: Elettricità, Suono\\
 - \textbf{Vantaggio}: sai sempre dove è il nord magnetico\\
 - \textbf{Liste Magia Privilegiate}: Trasmutazione, Aria\\
 - \textbf{Arma Preferita}: Balestra leggera\\
@@ -14172,7 +14171,7 @@ Molti capitani di ventura e ufficiali al comando sono Devoti di Nedraf. Il Devot
 - \textbf{Somma dei Tratti in comune a 10 punti}: Acquisisci un punto bonus su una Lista armi. Può essere nota o meno\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Puoi portare armature medie senza penalità alla Prova di Magia ed Destrezza\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Acquisisci un punto bonus su una Lista armi. Può essere nota o meno\\
-- \textbf{Elementi/B}: Energia positiva, Suono\\
+- \textbf{Energia/B}: Energia positiva, Suono\\
 - \textbf{Vantaggio}: recuperi il doppio di PF quando riposi\\
 - \textbf{Liste Magia Privilegiate}: Ammaliamento, Terra\\
 - \textbf{Arma Preferita}: Spadone a due mani\\
@@ -14198,7 +14197,7 @@ Ha le sembianze di un piccolo uomo, dai vestiti sfarzosi e ricercati e dall'espr
 - \textbf{Somma dei Tratti in comune a 10 punti}: Una Azione Immediata, ottieni un bonus di +2d6 ad una prova di Competenza in quel round. 3 volta al giorno.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: La tua arma leggera causa sempre un danno critico quando colpisci. Il bonus è sempre attivo.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: I manicaretti che prepari sono buonissimi. Chiunque si sazi con una pietanza da te preparata recupera 2d6 Punti Ferita e viene curato dai veleni anche magici. Max 6 persone al giorno. 0.5 ore di preparazione per persona.\\
-- \textbf{Elementi/B}: Energia Positiva, Fuoco\\
+- \textbf{Energia/B}: Energia Positiva, Fuoco\\
 - \textbf{Vantaggio}: Riduzione 1 al danno non magico (RD 1-magico)\\
 - \textbf{Liste Magia Privilegiate}: Ammaliamento, Divinazione\\
 - \textbf{Arma Preferita}: Spada corta\\
@@ -14234,7 +14233,7 @@ Ma anche abili attori ed intrattenitori, spie sotto copertura, diplomatici o pol
 - \textbf{Somma dei Tratti in comune a 10 punti}: Puoi lanciare Immagine Silenziosa 3 volte al giorno.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Il tuo eloquio è già leggendario. +1d6 aggiuntivo alle prove di Intrattenere. Puoi lanciare Immagine Maggiore 1 volta al giorno.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: La tua voce è suadente. Una creatura, da te individuata, che ti ascolti per almeno un minuto deve fare un Tiro Salvezza Volontà DC 30 oppure essere sotto l'influenza di Dominare Persone/Mostri. Una volta al giorno\\
-- \textbf{Elementi/N}: Elettricità, Fuoco\\
+- \textbf{Energia/N}: Elettricità, Fuoco\\
 - \textbf{Vantaggio}: +4 alle prove di Ingannare\\
 - \textbf{Liste Magia Privilegiate}: Ammaliamento, Illusione\\
 - \textbf{Arma Preferita}: Stocco\\
@@ -14262,7 +14261,7 @@ Attenti ai Seguaci di Orlaith, vanità, vendetta ed intransigenza li rendono odi
 - \textbf{Somma dei Tratti in comune a 10 punti}: Un paio di manette si manifesta attorno ai polsi della creatura (massimo taglia grande) entro 27 metri. Tiro Salvezza Riflessi DC 25 per annullare. Costo 2 Azioni. Una volta al giorno. Forza/Artista della Fuga DC 20 per liberarsi.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Crei un raggio di Luce lungo 27 metri e largo pochi centimetri. Ogni creatura attraversata subisce 8d6 di danno, DC 25 Riflessi per dimezzare. Una volta al giorno. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Il tuo udito è solo per la verità. Intorno a te per 3 metri, te compreso, è sempre attiva Zona di Verità.\\
-- \textbf{Elementi/B}: Luce, Suono\\
+- \textbf{Energia/B}: Luce, Suono\\
 - \textbf{Vantaggio}: Qualsiasi arma non improvvisata nelle tue mani fa almeno 1d6 di danno\\
 - \textbf{Liste Magia Privilegiate}: Illusione, Fuoco\\
 - \textbf{Arma Preferita}: Lancia da fante\\
@@ -14293,7 +14292,7 @@ Tra gli umani i Devoti di Rezh diventano esploratori, tombaroli, persone sempre 
 - \textbf{Somma dei Tratti in comune a 10 punti}: Usi le gemme come ricettacoli. Puoi scaricare un incantesimo di 3 livello o inferiore in una gemma, che deve avere valore minimo di 10mo x livello dell'incantesimo. La gemma conserva l'incantesimo per 6 ore. Per attivare la gemma usi 2 azioni e viene eseguito l'incantesimo che contiene consumando la gemma.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Puoi tirare fuori dalle tasche 1 moneta d'oro ogni volta che vuoi. Max 10 mo al giorno. Costo 1 Azione.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: La tua armatura viene coperta da scintillio dorato e di gemme. Guadagni +4 alla Difesa e +2d6 Tiro Salvezza Tempra per 1 ora. Costo 2 Azioni, una volta al giorno.\\
-- \textbf{Elementi/M}: Vuoto, Elettricità\\
+- \textbf{Energia/M}: Vuoto, Elettricità\\
 - \textbf{Vantaggio}: quando trovi un tesoro aumentane il valore del 1\%
 - \textbf{Liste Magia Privilegiate}: Abiurazione\\
 - \textbf{Arma Preferita}: Falcetto\\
@@ -14334,7 +14333,7 @@ Ljust disgustata dalla visione di un Patrono del genere instillò in Shayalia l'
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco è vita per la natura. I tuoi incantesimi di cura agiscono su animali e piante naturali in maniera massimizzata.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Dal tuo palmo secerni veleno. Il tuo tocco, o tramite arma in mischia veicola il veleno. Tiro Salvezza Tempra DC 25 o -2 a Saggezza e Destrezza per 10 minuti, un soggetto avvelenato non può esserlo nuovamente per 24 ore. Costo 1 Azione.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Il tuo tocco è vita per la natura. Puoi curare animali e piante magiche. Sei immune ai veleni naturali. +1d6 Conoscenza Natura.
-- \textbf{Elementi/M}: Vuoto, Elettricità\\
+- \textbf{Energia/M}: Vuoto, Elettricità\\
 - \textbf{Vantaggio}: +4 TS contro Veleni\\
 - \textbf{Liste Magia Privilegiate}: Illusione oppure Animali e Piante ed una Liste Magia Elementale\\
 - \textbf{Arma Preferita}: Frusta\\
@@ -14378,7 +14377,7 @@ I Devoti di Sixiser sono spesso negromanti circondati da non morti ed altre crea
 - \textbf{Somma dei Tratti in comune a 10 punti}: vedi nell'oscurità anche magica entro 9 metri. Individui automaticamente le trappole non magiche entro 3 metri da te.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Toccando un oggetto sei in grado di capirne tutte le proprietà magiche e non, anche se è maledetto. 3 volte al giorno.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Sei in grado di animare una creatura morta da non più di un giorno come non morto da 1 grado di Sfida (tipo zombi/scheletro a secondo dello stato). Una volta al giorno. Costo 2 Azioni.\\
-- \textbf{Elementi/M}: Elettricità, Energia Negativa\\
+- \textbf{Energia/M}: Elettricità, Energia Negativa\\
 - \textbf{Vantaggio}: immune alle malattie naturali\\
 - \textbf{Liste Magia Privilegiate}: Necromanzia\\
 - \textbf{Arma Preferita}: Falcione\\
@@ -14417,7 +14416,7 @@ Calicante, preso dall'orrore alla vista di un Patrono così fatto, lo privò del
 - \textbf{Somma dei Tratti in comune a 11 punti}: Puoi lanciare l'incantesimo Cono di Freddo, 40 danni da Elettricità. DC 25 per dimezzare. Una volta al giorno. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Sacrifichi la tua vita per portare in vita una creatura morta da non più di 1 settimana. Una volta. Costo 3 Azioni.\index{Resuscitare}\\
 \textbf{Nota}: Sumkjr è l'unico Patrono a beneficiare per una somma Tratti minore del normale\\
-- \textbf{Elementi/B}: Energia Positiva, Elettricità\\
+- \textbf{Energia/B}: Energia Positiva, Elettricità\\
 - \textbf{Vantaggio}: +1 a tutti i Tiri Salvezza\\
 - \textbf{Liste Magia Privilegiate}: Cura\\
 - \textbf{Arma Preferita}: Spada Bastarda\\
@@ -14463,7 +14462,7 @@ Tàhil ha ben pochi Devoti o Seguaci che si dichiarino tali, ma a differenza di 
 - \textbf{Somma dei Tratti in comune a 10 punti}: Tre volte al giorno, prima di effettuare il Tiro per Colpire, puoi dichiarare di colpire. Azione Immediata\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Ogni tuo colpo andato a segno causa almeno un Tiro Critico.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Il dado del Critico dell'arma aumenta di una taglia.\\
-- \textbf{Elementi/M}: Fuoco, Vuoto\\
+- \textbf{Energia/M}: Fuoco, Vuoto\\
 - \textbf{Vantaggio}: Riduzione danno da Luce 10\\
 - \textbf{Liste Magia Privilegiate}: Ammaliamento\\
 - \textbf{Arma Preferita}: Spadone\\
@@ -14498,7 +14497,7 @@ L'umano Devoto di Tazher è il ladro, l'assassino, il bandito, chiunque viva per
 - \textbf{Somma dei Tratti in comune a 10 punti}: La tua Scurovisione diventa di 6 metri.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: finché cammini sopra delle ombre o al buio (oscurità) sei invisibile. Puoi essere comunque rilevato con la luce o incantesimi di divinazione.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: L'oscurità non è più un problema. Vedi nell'oscurità anche magica come se fosse giorno. Quando sei in un ambiente in piena luce sei abbagliato con un -2 al Tiro per Colpire.\\
-- \textbf{Elementi/M}: Vuoto, Ghiaccio\\
+- \textbf{Energia/M}: Vuoto, Ghiaccio\\
 - \textbf{Vantaggio}: Scurovisione 3 metri\\
 - \textbf{Liste Magia Privilegiate}: Trasmutazione\\
 - \textbf{Arma Preferita}: Falcione in asta\\
@@ -14531,7 +14530,7 @@ Thaft è stato plasmato da Atmos.
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco lenisce. Una volta al giorno puoi rimuovere Cecità o Sordità. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Un non morto, con GS inferiore alla somma dei tuoi Tratti in comune, deve effettuare un Tiro Salvezza Tempra DC 30 o essere distrutto se toccato dalla tua mano. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Uccidi la creatura toccata. Tiro Salvezza su Volontà DC 30 o morte. Una volta alla settimana. Costo 2 Azioni.\\
-- \textbf{Elementi/N}: Suono, Elettricità\\
+- \textbf{Energia/N}: Suono, Elettricità\\
 - \textbf{Vantaggio}: Riduzione danno 5 a Vuoto e Luce\\
 - \textbf{Liste Magia Privilegiate}: Necromanzia, Animali e piante\\
 - \textbf{Arma Preferita}: Arco\\
@@ -14564,7 +14563,7 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 - \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo sputo è velenoso. Se il Tiro per Colpire a tocco va a segno -2 Forza, non cumulabile. Durata 1 minuto. Tre volte al giorno. Costo 1 Azione.\\
 - \textbf{Somma dei Tratti in comune a 15 punti}: Fissando l'obiettivo negli occhi lo costringi a fermarsi. Il soggetto non può eseguire Azioni di Movimento. Tiro Salvezza su Volontà DC 30. Una volta al giorno. Costo 2 Azioni.\\
 - \textbf{Somma dei Tratti in comune a 20 punti}: Dalle tue dita partono dei viticci che pungono fino a 10 avversari. Ogni viticcio, lungo fino a 18 metri causa 2d6 di danno, Tiro Salvezza Riflessi DC 25 per dimezzare. Costo 2 Azioni.\\
-- \textbf{Elementi/N}: Fuoco, Suono\\
+- \textbf{Energia/N}: Fuoco, Suono\\
 - \textbf{Vantaggio}: +3 contro gli incantesimi della Lista Divinazione.\\
 - \textbf{Liste Magia Privilegiate}: Trasmutazione\\
 - \textbf{Arma Preferita}: Ascia ad una mano\\
