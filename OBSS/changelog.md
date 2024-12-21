@@ -766,7 +766,7 @@ aggiornata versione POD 2024/12/13
 
 aggiornata versione POD 2024/12/17
 
-0.99.27 ottimizzato indice, diverse correzioni linquistiche, corretta indicazione del recupero pf in caso di pronto soccorso per tutta la notte, dettagli su cosa significa attribuire un punto di competenza attiva ai tiri salvezza, corretto requisito per portare armatura leggera, specificato che i punti fato sono all'intero piu' vicino, aggiornati tratti sostituito manipolativo con crudele  e codardo al posto di intransigente e cauto con prudente,  
+0.99.27 ottimizzato indice, diverse correzioni linquistiche, corretta indicazione del recupero pf in caso di pronto soccorso per tutta la notte, dettagli su cosa significa attribuire un punto di competenza attiva ai tiri salvezza, corretto requisito per portare armatura leggera, specificato che i punti fato sono all'intero piu' vicino, aggiornati tratti sostituito manipolativo con crudele  e codardo al posto di intransigente e cauto con prudente, corretti indicazione pf in esempi costruzione personaggi, il patrono e' la mia arma ti rende competente dell'arma del patrono, aggiornata scheda, 
 
 
 
