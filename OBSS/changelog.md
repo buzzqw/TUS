@@ -768,6 +768,10 @@ aggiornata versione POD 2024/12/17
 
 0.99.27 ottimizzato indice, diverse correzioni linquistiche, corretta indicazione del recupero pf in caso di pronto soccorso per tutta la notte, dettagli su cosa significa attribuire un punto di competenza attiva ai tiri salvezza, corretto requisito per portare armatura leggera, specificato che i punti fato sono all'intero piu' vicino, aggiornati tratti sostituito manipolativo con crudele  e codardo al posto di intransigente e cauto con prudente, corretti indicazione pf in esempi costruzione personaggi, il patrono e' la mia arma ti rende competente dell'arma del patrono, aggiornata scheda, chiarimenti su forme energetiche del patrono, apprendi 1 incantesimo per cm assegnato, aggiornata abilita' fedele, chiarimenti su figlio unico - sapiente, aggiunta abilita' prodigioso, corretto incantesimo onda tonante, chiarimenti su batteria magica, in valutazione rimozione penalita' difesa quando si lancia un incantesimo, 
 
+aggiornata versione POD 2024/12/23
+
+0.99.28
+
 
 
 
