@@ -3480,8 +3480,7 @@ Quando entrambe le creature sono colti entrambi di sorpresa per valutare chi eff
 
 l'incantatore che lancia una magia mentre è in combattimento (ha un avversario in mischia o viene bersagliato da distanza) si considera Distratto. 
 
-Lanciare un incantesimo mentre si è in combattimento impone un -2 alla Difesa.
-
+%Lanciare un incantesimo mentre si è in combattimento impone un -2 alla Difesa fino all'inizio del round prossimo.
 
 \subsection{Modificatori in attacco o difesa} \index{Modificatori in Attacco e Difesa}\label{modificatoriattaccodifesaparticolari}
 
@@ -3501,7 +3500,7 @@ Concedete un bonus o penalità ($\pm 1-2$) se non indicato diversamente) ogni qu
 \toprule
 \textbf{-1}& Affaticato (1), Luce fioca&Affaticato (1)\\
 \hline
-\textbf{-2}& Affaticato (2), Intralciato & Affaticato (2), Afferrato, Intralciato, Lanci un incantesimo mentre sei sotto attacco, Sorpreso\\
+\textbf{-2}& Affaticato (2), Intralciato & Affaticato (2), Afferrato, Intralciato, Sorpreso\\
 \hline
 \textbf{-4}& Affaticato (3), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale& Affaticato (3), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
 \hline
@@ -5010,7 +5009,7 @@ Hai una particolare connessione con la magia che permane la Terra.
 
 La prima volta che prendi questa Abilità aumenti di 3 i punti Magia a disposizione.
 
-Le volte successive, requisito CM 6/9/12, aumenti i Punti Magia di un valore pari all'aumento precedente +1.
+L'Abilità può essere presa più volte ed il totale deve essere pari o inferiore a CM/3.
 
 \ability{Batteria Estesa}{batteriaestesa}{Competenza Magica 1, Adepto della Magia}{+ 1 Tempra, +1 Volontà}{Modificatore di caratteristica per incantesimi}
 
@@ -5459,7 +5458,7 @@ Questa Abilità si può usare nella Prova di Magia richiesta da \hyperlink{guerr
 
 \ability{Incantatore Prudente}{incantatoreprudente}{Competenza Magica 8}{+2 Riflessi, +1 Tempra}{Modificatore di caratteristica per incantesimi o a scelta}
 
-Quando una creatura ostile entra per la prima volta in uno spazio entro 1 metro da te puoi usare una Reazione per lanciare un trucchetto senza potenziamenti o Prova di Magia.
+Quando una creatura ostile entra per la prima volta in uno spazio entro 1 metro da te puoi usare una Reazione per lanciare un trucchetto, entro 2 Azioni, senza potenziamenti o Prova di Magia.
 
 Questa Abilità non influisce su fatto che si è comunque Distratti nel lancio di un successivo incantesimo.
 
@@ -5503,7 +5502,7 @@ In caso di malattie magiche una eventuale prova di contrasto è fatta con 3d6 + 
 
 L'energia proviene dalle mani (non conta se ci sono guanti) e si applica con un Attacco a Tocco.
 
-Usa 2 Azioni. Tiro Salvezza su Tempra DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto. 2 Azioni.\\
+Tiro Salvezza su Tempra DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto. 2 Azioni.\\
 
 \ability{Incanalare Energia}{incanalareenergia}{Imposizione delle mani, Competenza Magica 1, Tratti comuni 4}{+2 Volontà, +1 Tempra}{Saggezza o Costituzione}
 
@@ -5649,6 +5648,12 @@ Puoi ignorare il requisito dei 3 metri di rincorsa prima di un salto.
 
 La \textbf{seconda volta} che prendi quest'Abilità quando effettui una prova per saltare in lungo od in alto tiri 1d6 in più.
 
+\begin{center}
+	\includegraphics[width=0.65\linewidth]{immagini/elcolosso.png}
+	
+	\emph{The Colossus (also known as The Giant), is known in Spanish as El Coloso.}
+\end{center}
+
 \ability{Montagna umana}{montagnaumana}{Costituzione 1}{+3 Tempra}{Costituzione o Forza}
 
 Forse una volta eri gracile e debole, adesso sei una montagna di muscoli.
@@ -5663,11 +5668,6 @@ I bonus sono cumulativi e retroattivi ai livelli precedenti, tranne che l'aument
 
 La \textbf{quarta volta} che prendi questa Abilità aumenti di una taglia (P > M > G).
 
-\begin{center}
-\includegraphics[width=0.65\linewidth]{immagini/elcolosso.png}
-
-\emph{The Colossus (also known as The Giant), is known in Spanish as El Coloso.}
-\end{center}
 
 \ability{Muro mentale}{muromentale}{Saggezza +1}{+2 Volontà, +1 Tempra}{Modificatore di caratteristica per incantesimi o Saggezza}
 
@@ -5692,7 +5692,7 @@ La \textbf{terza volta} che prendi questa Abilità sei in grado di estendere anc
 
 \ability{Opportunista}{opportunista}{Competenza Armi 2}{+2 Riflessi, +1 Volontà}{Intelligenza o Forza}
 
-Puoi tentare di colpire in mischia un avversario che \textbf{esca} o \textbf{attraversi} un area di mischia che tu minacci oppure che usi un arma da lancio contro di te nella tua area di mischia. L'Abilità è usabile come Reazione. Questo attacco viene anche chiamato attacco di opportunità nel manuale e ci sono diverse creature che non ne scatenano la Reazione.
+Puoi tentare di colpire in mischia un avversario che \textbf{esca} o \textbf{attraversi} un area di mischia che tu minacci oppure che usi un arma da lancio contro di te nella tua area di mischia o formuli un incantesimo. L'Abilità è usabile come Reazione. Questo attacco viene anche chiamato attacco di opportunità.
 
 \ability{Parata}{parata}{Competenza Armi 3 oppure Pugno Vuoto 2}{+1 Riflessi, +1 Volontà}{Forza o Destrezza}
 
@@ -5809,7 +5809,6 @@ Il primo Tiro per Colpire nel giorno ha un bonus di +1d6 e causa un tiro critico
 
 \begin{itemize}[leftmargin=*]
 \item Quando scagli un proiettile diminuisci di 2 la penalità data da Copertura.
-\item 
 \item La \textbf{seconda volta}  che prendi questa Abilità, Competenza Armi 4, riduci la penalità data da Copertura di 4.
 \end{itemize}
 
@@ -10473,10 +10472,10 @@ Ricevi mentalmente le informazioni visive dall'occhio, che ha vista normale e sc
 \textbf{Lista di Magia}: Aria\\
 \textbf{Livello}: 1, Comune\\
 \textbf{Tempo di Lancio}: 2 Azioni\\
-\textbf{Gittata}: Personale (cubo di 3 metri di spigolo)\\
+\textbf{Gittata}: Personale\\
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: Istantanea\\
-Un'onda di forza tonante si proietta da te. Ogni creatura in una sfera di 2 metri di raggio che origina da te deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, una creatura subisce 2d8 danni da suono e viene allontana 3 metri da te. Se supera il Tiro Salvezza, la creatura subisce la metà dei danni e non viene allontanata. Inoltre, gli oggetti non ancorati che sono totalmente all'interno dell'area vengono spinti 3 metri lontano da te dall'effetto dell'incantesimo, e l'incantesimo produce un rimbombo tonante udibile fino a 90 metri.
+Un'onda di forza tonante si proietta da te. Ogni creatura in una sfera di 2 metri di raggio che origina da te deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza una creatura subisce 2d8 danni da suono e viene allontana 3 metri da te. Se supera il Tiro Salvezza, la creatura subisce la metà dei danni e non viene allontanata. Gli oggetti non ancorati che sono totalmente all'interno dell'area vengono spinti 3 metri lontano da te dall'effetto dell'incantesimo. L'incantesimo produce un rimbombo tonante udibile fino a 90 metri.
 
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia il danno aumenta di 1d8.
 
