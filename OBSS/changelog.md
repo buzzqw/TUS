@@ -770,7 +770,7 @@ aggiornata versione POD 2024/12/17
 
 aggiornata versione POD 2024/12/23
 
-0.99.28 aggiornato screen, 
+0.99.28 aggiornato screen, estoc e' una spada, layout, chiarimenti a distratto, chiarimenti su prova di magia da armature, 
 
 
 
