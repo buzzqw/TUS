@@ -770,7 +770,7 @@ aggiornata versione POD 2024/12/17
 
 aggiornata versione POD 2024/12/23
 
-0.99.28 aggiornato screen, estoc e' una spada, layout, chiarimenti a distratto, chiarimenti su prova di magia da armature, piccoli chiarimenti a sfondare ed entrare, chiarimenti su multiple concentrazioni, chiarimenti su regole per creature evocate, chiarimenti su quale dado toglie un armatura magica dalla prova di magia, suggerimenti per scontri giornalieri, 
+0.99.28 aggiornato screen, estoc e' una spada, layout, chiarimenti a distratto, chiarimenti su prova di magia da armature, piccoli chiarimenti a sfondare ed entrare, chiarimenti su multiple concentrazioni, chiarimenti su regole per creature evocate, chiarimenti su quale dado toglie un armatura magica dalla prova di magia, suggerimenti per scontri giornalieri, migliorato layout tabella tesori mostri, 
 
 
 
