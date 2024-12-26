@@ -776,6 +776,7 @@ aggiornata versione POD 2024/12/23
 
 
 > valutare:
+ssentially, a level 5 character can craft a level 2 item in [4-3=1] days instead of 4 days, and can craft a level 4 item in 3 days instead of 4, and so on and so forth. 
 - una competenza della professione scala automaticamente con il livello ?
 - specializzazione in liste di magia al posto di Abilità di Lista
 - controllare immagini che non si vedono bene stampate
