@@ -774,7 +774,7 @@ aggiornata versione POD 2024/12/23
 
 aggiornata versione POD 2024/12/28
 
-0.99.29
+0.99.29 aggiornata immagine copertina, 
 
 
 > valutare:
