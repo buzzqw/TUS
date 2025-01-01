@@ -6081,7 +6081,7 @@ Se nel round esegui almeno un attacco questi hanno una penalità base di -5 e pu
 \ability{Tutt'uno con la magia}{tuttunoconlamagia}{Adepto della Magia}{+1 in due Tiri Salvezza a propria scelta}{Modificatore di caratteristica per incantesimi o a scelta}
 
 Ogni volta che prendi l'Abilità Tutt'uno con la magia devi stabilire a che Caratteristica si collega.
-La tua Caratteristica ha un +1 al valore per determinare gli effetti dell'incantesimo e Punti Magia.
+La tua Caratteristica ha un +1 al valore per determinare gli effetti dell'incantesimo, Punti Magia e livello massimo di incantesimo lanciabile.
 
 \ability{Un braccio, un arma}{unbracciounarma}{Competenza Armi 2}{+1 Tempra, +1 Volontà}{Forza o Costituzione}
 
@@ -7140,11 +7140,11 @@ Il personaggio quando assegna il primo punto di Competenza Magica apprende 2 inc
 %Ogni volta che un incantatore acquisisce un punto in Competenza Magica apprende due nuovi incantesimi che siano a disposizione nel suo Tomo di Magia e che siano entro il massimo livello lanciabile.
 Ogni volta che un incantatore acquisisce un punto in Competenza Magica apprende 1 nuovo incantesimo che sia a disposizione nel suo Tomo di Magia e che sia entro il massimo livello lanciabile.
 \item
-Ogni volta che l'incantatore acquisisce un punto in Competenza Magica può rinunciare ad apprendere un incantesimo di livello 1 o superiore per apprendere due Trucchetti che conosca.
+Ogni volta che l'incantatore acquisisce un punto in Competenza Magica può apprendere 2 Trucchetti od un incantesimo di altro livello che conosca.
 \item
 Il numero di incantesimi formulabile al giorno dipende dalla capacità dell'incantatore. Vedi \textbf{Tabella Punti magia e Competenza Magica}. Un incantesimo ha un costo in Punti Magia pari al suo livello.
 \item
-Un Seguace ottiene +1d6 alle Prove di Magia negli incantesimi delle liste privilegiate dal Patrono. I tuoi incantaesimi possono usare una delle forme energetiche preferite dal Patrono.\index{Liste Privilegiate}\label{listeprivilegiate}\hypertarget{listeprivilegiate}{}
+Un Seguace aggiunge +1d6 alle Prove di Magia negli incantesimi delle liste privilegiate dal Patrono. I tuoi incantaesimi possono usare una delle forme energetiche preferite dal Patrono.\index{Liste Privilegiate}\label{listeprivilegiate}\hypertarget{listeprivilegiate}{}
 \item
 Un Devoto aggiunge +1d6 alle Prova di Magia negli incantesimi delle liste privilegiate dal Patrono e può ignorare un dado tirato nella Prova di Magia. I tuoi incantaesimi usano una delle forme energetiche preferite dal Patrono.
 \item
@@ -7164,7 +7164,8 @@ Mentre la Competenza Magica indica lo studio e dedizione alla Magia nella forma 
 Per stabilire il livello massimo lanciabile di incantesimi sommate il punteggio di Competenza Magica ed Adepto della Magia, dividendo per due. Confrontate il risultato con il doppio del punteggio del modificatore di caratteristica per incantesimi, prendendo il valore minore.
 
 Es. CM=8, Adepto della Magia preso 4 volte, (8+4)/2=6lv, oppure CM=13 e Adepto della Magia 1 volta, (13+1)/2=7 livello di incantesimi. 
-Se l'incantatore avesse come modificatore di caratteristica per incantesimo 0 oppure 1, nel primo caso non potrà lanciare incantesimi superiori al secondo livello, nel secondo caso se il modificatore è 4 il massimo livello lanciabile sarà il 7lv.
+Se l'incantatore avesse come modificatore di caratteristica per incantesimo 0 non potrà lanciare incantesimi superiori al primo livello (vedi anche Abilità \hyperlink{tuttunoconlamagia}{Tutt'uno con la Magia}, pag. \pageref{tuttunoconlamagia}). 
+Se il modificatore è 4 il massimo livello lanciabile sarà il 6lv oppure 7lv nei due casi di esempio.
 
 \subsubsection{Prova di Magia}\index{Prova di Magia}\index{Successo critico magico}\index{Fallimento critico magico}\label{magieprovadimagia}\index{Incantesimi, Prova di Magia}
 
@@ -7237,20 +7238,20 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico tira 3d6 e con
 \noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline\\
 1 & Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia\\
-2 & Aumenti la condizione di Affaticato di 2 gradi\\
+2 & Aumenti la condizione di Affaticato di 2 gradi, fino ad un massimo di Affaticato 5\\
 3 & Manifesti una modifica corporea minore\\
-4 & Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 3 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 1d6 di danni per livello dell'incantesimo\\
+4 & Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 3 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 1d6 di danni per Punti Magia usati nell'incantesimo\\
 5 & Per 3 round sei sotto l'influenza dell'incantesimo Confusione\\
 6 & Perdi la concentrazione su qualsiasi incantesimo e per un minuto parli in rima\\
 7 & Vieni teletrasportato di 3d10 metri in una direzione casuale\\
-8 & Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round\\
-9 & Diventi Invisibile ed incapace di parlare per 6 round\\
+8 & Diventi Invisibile e paralizzato per 6 round\\
+9 & Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round\\
 10 & Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round\\
 11 & Manifesti l'incantesimo Unto sotto i tuoi piedi\\
 12 & Il prossimo incantesimo che lanci ha effetti se possibile minimizzati\\
 13 & Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 36 metri\\
 14 & Tutte le creature nel raggio di 36 metri sanno esattamente dove sei e cosa tentavi di fare.\\
-15 & Tutte le creature in una semisfera di 9 metri di raggio centrata su di te subiscono 1d10 danni da Vuoto.\\
+15 & Tutte le creature in una sfera di 9 metri di raggio centrata su di te subiscono 1d10 danni da Vuoto.\\
 16 & Guadagni 2d6 Punti Magia\\
 17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
 18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili
@@ -7354,8 +7355,8 @@ Il sistema magico può diventare sbilanciato abusando sempre degli stessi incant
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 	\item Il costo in Punti Magia dell'incantesimo aumenta del costo stesso ogni volta che viene rilanciato (\emph{metodo suggerito})
-	\item Un incantatore può lanciare lo stesso incantesimo un numero di volte al giorno pari alle volte che ha preso Adepto della Magia +1
 	\item Il costo in Punti Magia di un incantesimo è pari al Livello +1 se questo è del massimo livello lanciabile
+	\item Un incantatore può lanciare lo stesso incantesimo 1 volta al giorno
 \end{itemize}
 
 \medskip
@@ -7368,8 +7369,6 @@ Ogni incantesimo è alla stregua di un oggetto magico, un vero tesoro da cercare
 Dovrai intraprendere perigliose avventure, pagare mercenari, cercare i tomi antichi e svelare i segreti più oscuri e dimenticati per poter imparare nuovi incantesimi.
 \end{tcolorbox}\end{changemargin}
 
-\medskip
-
 \subsubsection{Il Tomo della Magia}\index{Tomo della Magia}\index{Il Tomo della Magia}\label{magietomodellamagia}\index{Incantesimi, Tomo della Magia}
 
 Se i Patroni sono la sorgente della magia è solo l'applicazione di antichi riti e formule che permette di manifestare questa energia grezza in una forma ed espressione che chiamiamo incantesimo.
@@ -7379,7 +7378,7 @@ Questa scelta non vi impedirà di copiare incantesimi da \textbf{Tomi} fatti div
 
 Un nuovo personaggio con Competenza Magica 1, avrà un Tomo di Magia con un certo elenco di incantesimi. In questo Tomo sono presenti un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) ed un numero di incantesimi di primo livello sempre pari allo stesso modificatore, con un minimo di 4.\index{Incantesimi al primo livello}\label{tomocm1}\hypertarget{tomocm1}{}
 
-Ogni incantesimo occupa un numero di pagine nel Tomo pari al proprio livello, con un minimo di una, copiare una pagina di incantesimo porta via 1 ora di lavoro e 10 mo di preziosi inchiostri.\index{Copiare Incantesimi sul Tomo}
+Ogni incantesimo occupa un numero di pagine nel Tomo pari al proprio livello, con un minimo di una, \textbf{copiare una pagina di incantesimo} porta via 1 ora di lavoro e 10 mo di preziosi inchiostri.\index{Copiare Incantesimi sul Tomo}
 
 Un Tomo (libro) di incantesimi costa 5 mo per pagina.
 
@@ -7391,7 +7390,7 @@ Un Tomo (libro) di incantesimi costa 5 mo per pagina.
 
 %\smallskip
 
-Un incantatore può copiare sul suo Tomo incantesimi il cui livello massimo è di un livello superiore al suo massimo lanciabile (vedi \hyperlink{scuoleelivelli}{Massimo livello di incantesimi lanciabile}).
+Un incantatore può copiare sul suo Tomo incantesimi il cui livello è di uno in più rispetto al suo massimo lanciabile (vedi \hyperlink{scuoleelivelli}{Massimo livello di incantesimi lanciabile}).
 
 Se l'incantesimo è di più di due livelli più alto l'incantatore deve fare una Prova di Magia ed ottenere un Successo Critico Magico. Se il personaggio è un Devoto e l'incantesimo appartiene ad una Lista di Magia preferita del Patrono allora la Prova di Magia si esegue solo se l'incantesimo è di tre o più livelli superiori al massimo lanciabile.\index{Incantesimo non conosciuto}
 
@@ -7409,13 +7408,11 @@ Gli incantesimi diventano oggetti e premi magici a tutti gli effetti. Sfruttate 
 
 Il personaggio che vuole lanciare magie deve ogni giorno ripassare le antiche formule sul suo Tomo. Questa operazione è piuttosto rapida, impiegando solo 3 minuti per Competenza Magica.
 
-Se l'incantatore non ha ripassato gli incantesimi appena sveglio o comunque prima di lanciarli deve fare una Prova di Magia per ogni incantesimo finché non avrà ripassato.
+Se l'incantatore non ha ripassato gli incantesimi dopo aver riposato almeno 6 ore deve superare una Prova di Magia per ogni incantesimo formulato finché non avrà ripassato.
 
 \subsubsection{Cambiare gli Incantesimi}\index{Cambiare gli Incantesimi}\label{Cambiare gli Incantesimi}
 
 Ogni mattina quando ripassa gli incantesimi l'incantatore può sostituire un numero di  incantesimi appresi pari 1 + le volte che ha preso Adepto della Magia con incantesimi conosciuti presenti nel suo Tomo di Magia ed entro il massimo livello lanciabile.
-
-
 
 \subsubsection{Tiro per Colpire con le Magie}\index{Tiro per Colpire con Incantesimi}\label{magietiropercolpireconlemagie}\index{Incantesimi, Tiro per Colpire}
 

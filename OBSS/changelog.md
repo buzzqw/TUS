@@ -774,7 +774,7 @@ aggiornata versione POD 2024/12/23
 
 aggiornata versione POD 2024/12/28
 
-0.99.29 aggiornata immagine copertina, aggiornata la scheda, note su preparazione personaggio, note su sessione zero, 
+0.99.29 aggiornata immagine copertina, aggiornata la scheda, note su preparazione personaggio, note su sessione zero, indicazioni su livello massimo lanciabile di incantesimo, piccole modifiche a tabella fallimenti critici prova di magia, 
 
 
 > valutare:
