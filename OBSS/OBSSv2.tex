@@ -1259,7 +1259,9 @@ In ultimo ricordate che OBSS è un gioco di ruolo dove la morte del personaggio 
 
 \subsubsection{Modalita' base}\index{Caratteristiche - Modalità base}\label{modalitabase}
 
-Il giocatore tira 3d6 per ogni caratteristica ed in ordine, può ritirare una sola volta un 1 tirato per terzina (3d6). Tira poi una settima terzina che può sostituire ad un'altra terzina. Per ogni caratteristica tirata controlla la somma dei dadi tirati con la \textbf{Tabella: Tiro Caratteristiche}.
+Il giocatore tira 3d6 per ogni caratteristica ed in ordine, può ritirare una sola volta un 1 tirato per terzina (3d6). Tira poi una settima terzina che può sostituire ad un'altra terzina. Per ogni caratteristica tirata controlla la somma dei dadi tirati con la \textbf{Tabella: Tiro Caratteristiche}. 
+
+Il personaggio così generato acquisisce gratuitamente l'Abilita \hyperlink{duroamorire}{Duro a morire} (pag. \pageref{duroamorire}).
 
 \subsubsection{Modalita' della Tradizione}\index{Caratteristiche - Modalita' della tradizione}\label{modalitadellatradizione}
 
@@ -4795,28 +4797,28 @@ Ricordatevi anche di segnare i bonus relativi ai Tiri Salvezza. Solitamente una 
 
 
 \newcommand{\ability}[5]{
-\titleformat{\subsubsection}
-{\normalfont\Large\bfseries\color{black}}{\thesubsubsection}{1em}{}
-\subsubsection*{#1}\index{#1}\label{#2}\hypertarget{#2}{}
-\begin{tcolorbox}[
-	enhanced,
-	colback=white,
-	colframe=black,
-	boxrule=0pt,
-	left=0pt,
-	right=0pt,
-	top=0pt,
-	bottom=0pt,
-	sharp corners,
-	boxsep=3pt,
-	leftrule=2pt,
-	toprule=0pt,
-	bottomrule=0pt,
-	rightrule=0pt]
-	\noindent\textbf{Requisito:} #3 \par
-	\noindent\textbf{Tiri Salvezza:} #4	\par		
-	\noindent\textbf{Caratteristica potenziata:} #5 \par
-\end{tcolorbox}
+	\titleformat{\subsubsection}
+	{\normalfont\Large\bfseries\color{black}}{\thesubsubsection}{1em}{}
+	\subsubsection*{#1}\index{#1}\label{#2}\hypertarget{#2}{}
+	\begin{tcolorbox}[
+		enhanced,
+		colback=white,
+		colframe=black,
+		boxrule=0pt,
+		left=0pt,
+		right=0pt,
+		top=0pt,
+		bottom=0pt,
+		sharp corners,
+		boxsep=3pt,
+		leftrule=2pt,
+		toprule=0pt,
+		bottomrule=0pt,
+		rightrule=0pt]
+		\noindent\textbf{Requisito:} #3 \par
+		\noindent\textbf{Tiri Salvezza:} #4	\par		
+		\noindent\textbf{Caratteristica potenziata:} #5 \par
+	\end{tcolorbox}
 }
 
 \subsection{Elenco Abilità}
@@ -5185,6 +5187,10 @@ La \textbf{seconda volta} che prendi l'Abilità il tempo per preparare le pozion
 \ability{Doppia porzione}{doppiaporzione}{Combattimento con due armi, Competenza Armi 4}{+2 Tempra, +1 Riflessi}{Forza o Costituzione}
 
 Il costante allenamento con due armi ti permette di applicare il bonus al danno dovuto alla Forza in maniera piena anche all'arma secondaria.
+
+\ability{Duro a morire}{duroamorire}{-}{+1 Tempra, +1 Volontà}{Costituzione o Saggezza}
+
+Sei particolarmente ostinato nel non volere morire. Il personaggio aumenta di 3 Punti Ferita la tolleranza prima di morire, ovvero muore a 13+COS*2.
 
 \ability{Energia Psichica}{energiapsichica}{Forza 1, Saggezza 2, Competenza Armi 1, Competenza Magica 1}{+2 Volontà, +1 Tempra}{Saggezza o Carisma}
 
@@ -6120,16 +6126,16 @@ La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire au
 
 \end{multicols}
 
-\vfill
+%\vfill
 
-\begin{center}
+%\begin{center}
 	
-	\includegraphics[width=0.75\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+%	\includegraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 	
 	%%\filltopageendgraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 	
-	\emph{Attorno al un fuoco, raccontando la giornata trascorsa.}
-\end{center}
+%	\emph{Attorno al un fuoco, raccontando la giornata trascorsa.}
+%\end{center}
 
 \pagebreak
 
@@ -6173,6 +6179,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{armato}{Armato}\\
 \hyperlink{colpomortale}{Colpo Mortale}\\
 \hyperlink{conoscenzaistintiva}{Conoscenza istintiva}\\
+\hyperlink{duroamorire}{Duro a morire}\\
 \hyperlink{ferocia}{Ferocia}\\
 \hyperlink{forgiatonellafuria}{Forgiato nella furia}\\
 \hyperlink{furia}{Furia}\\
@@ -6473,7 +6480,7 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 2	&	2	& 0	&	2d6+6	&\hyperlink{lamiamortelatuamorte}{La mia morte la tua morte}\\
 3	&	3	& 0	&	3d6+9	&\hyperlink{pellecoriacea}{Pelle coriacea}\\
 4	&	4	& 0	&	4d6+12	&\hyperlink{hodettocadi}{Ho detto CADI!}\\
-5	&	5	& 0	&	5d6+16	&\hyperlink{montagnaumana}{Montagna umana}\\
+5	&	5	& 0	&	5d6+16	&\hyperlink{duroamorire}{Duro a morire}\\
 6	&	6	& 0	&	6d6+20	&\hyperlink{pellecoriacea}{Pelle coriacea}\\
 7	&	7	& 0	&	7d6+24	&\hyperlink{colpomortale}{Colpo Mortale}\\
 8	&	8	& 0	&	8d6+28	&\\
