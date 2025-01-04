@@ -774,11 +774,11 @@ aggiornata versione POD 2024/12/23
 
 aggiornata versione POD 2024/12/28
 
-0.99.29 aggiornata immagine copertina, aggiornata la scheda, note su preparazione personaggio, note su sessione zero, indicazioni su livello massimo lanciabile di incantesimo, piccole modifiche a tabella fallimenti critici prova di magia, aggiornate regole combattimento con arma lunga, chiarimenti con arma da controcarica, corretto esempio combattimento di Tups contro il brigante, un personaggio generato con la modalita' base acquisisce l'abilita' duro a morire, aggiunta abilita' duro a morire, dettagli su bandoliera, 
+0.99.29 aggiornata immagine copertina, aggiornata la scheda, note su preparazione personaggio, note su sessione zero, indicazioni su livello massimo lanciabile di incantesimo, piccole modifiche a tabella fallimenti critici prova di magia, aggiornate regole combattimento con arma lunga, chiarimenti con arma da controcarica, corretto esempio combattimento di Tups contro il brigante, un personaggio generato con la modalita' base acquisisce l'abilita' duro a morire, aggiunta abilita' duro a morire, dettagli su bandoliera, indicate competenze usate nella creazione degli oggetti magici, 
 
 
 > valutare:
-ssentially, a level 5 character can craft a level 2 item in [4-3=1] days instead of 4 days, and can craft a level 4 item in 3 days instead of 4, and so on and so forth. 
+- i componenti degli incantesimi sono opzionali, ma usare ingredienti particolari/rari migliora l'incantesimo
 - una competenza della professione scala automaticamente con il livello ?
 - specializzazione in liste di magia al posto di Abilità di Lista
 - controllare immagini che non si vedono bene stampate
