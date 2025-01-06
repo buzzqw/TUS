@@ -774,7 +774,11 @@ aggiornata versione POD 2024/12/23
 
 aggiornata versione POD 2024/12/28
 
-0.99.29 aggiornata immagine copertina, aggiornata la scheda, note su preparazione personaggio, note su sessione zero, indicazioni su livello massimo lanciabile di incantesimo, piccole modifiche a tabella fallimenti critici prova di magia, aggiornate regole combattimento con arma lunga, chiarimenti con arma da controcarica, corretto esempio combattimento di Tups contro il brigante, un personaggio generato con la modalita' base acquisisce l'abilita' duro a morire, aggiunta abilita' duro a morire, dettagli su bandoliera, indicate competenze usate nella creazione degli oggetti magici, per usare armature leggere e' necessario avere forza -1 e non piu' ca 1, minute correzioni creazione del personaggio, corrette indicazioni su seguire tracce, corretti modificatori inseguire tracce, aggiornata prova pronto soccorso, corretta mancanza valore iniziativa in alcuni mostri, aggiunti hyperlink a elenco patrono-tratto, dettagli su colpo furtivo, chiarimenti su sorpresa, 
+0.99.29 aggiornata immagine copertina, aggiornata la scheda, note su preparazione personaggio, note su sessione zero, indicazioni su livello massimo lanciabile di incantesimo, piccole modifiche a tabella fallimenti critici prova di magia, aggiornate regole combattimento con arma lunga, chiarimenti con arma da controcarica, corretto esempio combattimento di Tups contro il brigante, un personaggio generato con la modalita' base acquisisce l'abilita' duro a morire, aggiunta abilita' duro a morire, dettagli su bandoliera, indicate competenze usate nella creazione degli oggetti magici, per usare armature leggere e' necessario avere forza -1 e non piu' ca 1, minute correzioni creazione del personaggio, corrette indicazioni su seguire tracce, corretti modificatori inseguire tracce, aggiornata prova pronto soccorso, corretta mancanza valore iniziativa in alcuni mostri, aggiunti hyperlink a elenco patrono-tratto, dettagli su colpo furtivo, chiarimenti su sorpresa
+
+aggiornata versione POD 2025/01/06
+
+0.99.30 
 
 
 > valutare:
