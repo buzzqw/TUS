@@ -778,7 +778,7 @@ aggiornata versione POD 2024/12/28
 
 aggiornata versione POD 2025/01/06
 
-0.99.30 
+0.99.30 nomenclatura tiro per colpire, chiarimenti su tiro per colpire con incantesimi a distanza, 
 
 
 > valutare:
