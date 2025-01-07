@@ -778,12 +778,12 @@ aggiornata versione POD 2024/12/28
 
 aggiornata versione POD 2025/01/06
 
-0.99.30 nomenclatura tiro per colpire, chiarimenti su tiro per colpire con incantesimi a distanza, 
+0.99.30 nomenclatura tiro per colpire, chiarimenti su tiro per colpire con incantesimi a distanza, corrette indicazioni caratteristica in lista di magia, 
 
 
 > valutare:
+- adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
 - i componenti degli incantesimi sono opzionali, ma usare ingredienti particolari/rari migliora l'incantesimo
-- una competenza della professione scala automaticamente con il livello ?
 - specializzazione in liste di magia al posto di Abilità di Lista
 - controllare immagini che non si vedono bene stampate
 - suggerimento per il narratore, non usare lo screen
