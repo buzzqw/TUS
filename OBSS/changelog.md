@@ -784,8 +784,8 @@ aggiornata versione POD 2025/01/06
 
 aggiornata versione POD 2025/01/14
 
+0.99.32 aggiornata tabella grado di sfida incontro, 
 
-0.99.32 
 
 
 > valutare:
