@@ -780,9 +780,12 @@ aggiornata versione POD 2025/01/06
 
 0.99.30 nomenclatura tiro per colpire, chiarimenti su tiro per colpire con incantesimi a distanza, corrette indicazioni caratteristica in lista di magia, aggiornata ed allineato storia, aggiornato Duergar in Nano Oscuro, note su accensione torcia, corretta dizione Difesa in diversi mostri, migliorata storia, migliorata paginazione mostri, rivisto capitolo introduzione, rivisto capitolo termini comuni, aggiornata abilita' animaletto, cambiata tipologia di azione per aiutare, corretta tabella poteri speciali dei draghi, chiarimenti su quanto tempo ci vuole ad accendere una torcia con una prova di sopravvivenza, numerosi piccoli chiarimenti su combattimento, fare le capriole si considera terreno difficile, corretti esempi in Arma da lancio contro obiettivi in combattimento
 
-aggiornata versione POD 2025/01/13
-
 0.99.31 aggiunto esempio dimensioni mostri e portata, aggiunto esempi di forma di incantesimi
+
+aggiornata versione POD 2025/01/14
+
+
+0.99.32 
 
 
 > valutare:
