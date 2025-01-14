@@ -782,7 +782,7 @@ aggiornata versione POD 2025/01/06
 
 aggiornata versione POD 2025/01/13
 
-0.99.31
+0.99.31 aggiunto esempio dimensioni mostri e portata, aggiunto esempi di forma di incantesimi
 
 
 > valutare:
