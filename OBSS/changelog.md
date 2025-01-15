@@ -782,10 +782,9 @@ aggiornata versione POD 2025/01/06
 
 0.99.31 aggiunto esempio dimensioni mostri e portata, aggiunto esempi di forma di incantesimi
 
+0.99.32 aggiornata tabella grado di sfida incontro
+
 aggiornata versione POD 2025/01/14
-
-0.99.32 aggiornata tabella grado di sfida incontro, 
-
 
 
 > valutare:
