@@ -784,7 +784,9 @@ aggiornata versione POD 2025/01/06
 
 aggiornata versione POD 2025/01/15
 
-0.99.32
+0.99.32 si puo' trattenere il fiato per 10+10xCos, 
+
+
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
