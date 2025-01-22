@@ -784,7 +784,10 @@ aggiornata versione POD 2025/01/06
 
 aggiornata versione POD 2025/01/15
 
-0.99.32 aggiornato calcolo difesa mostri, aggiornata tabella fallimento critico in attacco, chiarimenti su incantesimo lanciafiamme, layout, 
+0.99.32 aggiornato calcolo difesa mostri, aggiornata tabella fallimento critico in attacco, chiarimenti su incantesimo lanciafiamme, layout
+
+aggiornata versione POD 2025/01/22
+
 
 
 
