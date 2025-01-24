@@ -788,9 +788,11 @@ aggiornata versione POD 2025/01/15
 
 aggiornata versione POD 2025/01/22
 
-0.99.33 numerose piccole correzioni, ultime ottimizzazioni a mostri rimenenti riguardo al layout, controllo immagini avviato, pietra arcana intuizione corretto a +1 il bonus, chiarimenti su zainetto pratico, revisionate immagini che in stampa non vengono bene, 
+0.99.33 numerose piccole correzioni, ultime ottimizzazioni a mostri rimenenti riguardo al layout, controllo immagini avviato, pietra arcana intuizione corretto a +1 il bonus, chiarimenti su zainetto pratico, revisionate immagini che in stampa non vengono bene
 
+aggiornata versione POD 2025/01/24
 
+0.99.34 
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
