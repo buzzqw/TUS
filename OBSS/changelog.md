@@ -788,7 +788,12 @@ aggiornata versione POD 2025/01/15
 
 aggiornata versione POD 2025/01/22
 
-0.99.33 
+0.99.33 numerose piccole correzioni, ultime ottimizzazioni a mostri rimenenti riguardo al layout, controllo immagini avviato, pietra arcana intuizione corretto a +1 il bonus, chiarimenti su zainetto pratico, 
+
+Elenco immagini da revisionare:
+Paris shot achilles, troopo scura/nn chiara
+pericoli del freddo immagine della nevicata
+avventure_acqua_grey trovare immagine orizzontale in avventure in acqua
 
 
 > valutare:
