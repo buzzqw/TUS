@@ -1,5 +1,5 @@
-\babel@toc {italian}{}
-\babel@toc {italian}{}
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
 \contentsline {section}{La Magia}{3}{section*.1}%
 \contentsline {subsection}{Le Essenze}{3}{subsection*.2}%
 \contentsline {subsubsection}{Competenza Magica ed Essenza}{3}{subsubsection*.3}%

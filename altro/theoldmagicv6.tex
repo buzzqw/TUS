@@ -1,0 +1,689 @@
+\documentclass[a4paper,twoside,openany]{book}
+\usepackage{quoting}
+\usepackage{tcolorbox}
+\usepackage{tikz}
+\usetikzlibrary{shadows}
+\usepackage{multicol}
+\usepackage{tocloft}
+\usepackage{lmodern}
+\usepackage{caption}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage[a4paper]{geometry}
+\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm} %std
+\setcounter{secnumdepth}{-1}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage[italian]{babel}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{multirow}
+%\usepackage[allfiguresdraft]{draftfigure} %senza figure, deve rimanere alla riga 24
+\usepackage{titlesec}
+\usepackage[unicode=true, bookmarks=true, pdftitle={OBSS}, pdfsubject={Gioco di Ruolo per Avventure Incredibili}, pdfauthor={Andres Zanzani}, breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
+{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
+\usepackage{bookmark}
+\usepackage{yfonts}
+\usepackage{lettrine} 
+\usepackage{calligra}
+\usepackage{ragged2e}
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins}
+\tcbset{colback=brown!10, fonttitle=\scshape}
+\usepackage{imakeidx}
+\usepackage{cancel}
+\def\CountIndexOccurrences#1{%
+	\expandafter\newcount\csname #1\endcsname%
+	\expandafter\newcount\csname #1\endcsname%
+	\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
+	\IfFileExists{#1.idx}{\input{#1.idx}}{}%
+}
+\CountIndexOccurrences{OBSSv2}
+\CountIndexOccurrences{Incantesimi}
+\CountIndexOccurrences{Mostruario}
+\CountIndexOccurrences{Tabelle}
+\CountIndexOccurrences{OggettiMagici}
+\def\TotalBox#1{\vfill%
+	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
+\makeindex[columns=4, title=Indice Analitico, intoc=true]
+\makeindex[columns=3, name=Tabelle, title=Lista delle Tabelle, intoc=true]
+\makeindex[columns=4, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
+\makeindex[columns=4, name=Mostruario, title=Lista dei Mostri, intoc=true]
+\makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
+\usetikzlibrary{shapes.misc,calc}
+\definecolor{lightgray}{gray}{0.95}
+\usetikzlibrary{shapes.misc,calc}
+\definecolor{lightgray}{gray}{0.95}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyhead[LE,RO]{\leftmark}
+\fancyhead[RE,LO]{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+\usepackage{GoudyIn}
+\fancypagestyle{plain}{%
+	%% Clear all headers and footers
+	\fancyhf{}
+	%% Right headers on odd pages
+	\fancyhead[RO]{%
+		\rotatebox{90}{
+			\begin{tikzpicture}[overlay,remember picture]
+				\node[fill=lightgray,text=black,
+				font=\footnotesize,
+				inner ysep=12pt, inner xsep=20pt,
+				rounded rectangle,anchor=east,minimum width=7cm,
+				xshift=-60mm,yshift=-21mm, text height=0.4cm]
+				at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
+				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\end{tikzpicture}
+		}
+	}
+	%% Left headers on even pages
+	\fancyhead[LE]{%
+		\rotatebox{90}{
+			\begin{tikzpicture}[overlay,remember picture]
+				\node[fill=lightgray,text=black,
+				font=\footnotesize,
+				inner ysep=12pt, inner xsep=20pt,
+				rounded rectangle,anchor=east,minimum width=7cm,
+				xshift=-60mm,yshift=-4mm, text height=0.4cm]
+				at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
+				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\end{tikzpicture}
+	} }
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+}
+\pagestyle{plain}
+\fancyfoot[C]{\thepage} 
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
+\usepackage{xltabular}
+\usepackage{tabularx} 
+\usepackage{pdfpages}
+\usepackage{hyperref}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{etoolbox}
+\usepackage{soul}
+\raggedbottom
+\usepackage{array}
+\usepackage{longtable} 
+\newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{D}[1]{>{\centering}m{#1}}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+\setcounter{tocdepth}{3}
+\newtcolorbox{narratore}{
+	enhanced, % enable advanced settings
+	%left = 3mm,
+	%width=0.45\textwidth,
+	left = 9mm, % pushes text away from the left edge by 10mm
+	sharp corners, % disables rounded corners
+	rounded corners = southeast, % "round" the bottom right corner
+	arc is angular, % make the "round" corner an angle
+	arc = 3mm, % controls corner cut
+	boxrule=0.6pt, % sets box line thickness
+	underlay={%
+		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+	},
+	drop fuzzy shadow }
+
+\newtcolorbox{enfasi}{
+	enhanced,
+	arc=5pt,
+	boxrule=0.3pt
+}
+
+\usepackage{zref-savepos,graphicx}
+\newcommand{\filltopageendgraphics}[2][]{%\filltopageendgraphics[width=.5\linewidth]{image-a}
+	\par
+	\zsaveposy{top-\thepage}% Mark (baseline of) top of image
+	\vfill
+	\zsaveposy{bottom-\thepage}% Mark (baseline of) bottom of image
+	\smash{\includegraphics[keepaspectratio=true,height=\dimexpr\zposy{top-\thepage}sp-\zposy{bottom-\thepage}sp\relax,#1]{#2}}%
+	\par
+}
+\usepackage{listings}
+\usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
+\usepackage[framemethod=TikZ]{mdframed}
+%\usepackage{garamondx} %\usepackage{tgpagella}%\usepackage{lmodern} %\usepackage{gentium}
+\usepackage{charter}
+
+
+
+\begin{document}
+
+
+
+\setcounter{page}{1}
+
+
+
+\section{La Magia}\index{Magia}\index{Essenza}
+
+
+\label{la-magia}
+\begin{tcolorbox}[enhanced,arc=5pt,boxrule=0.3pt]{
+"Le parole sono, nella mia \emph{non} modesta opinione, la nostra massima ed inesauribile fonte di magia. In grado sia di infliggere dolore che di alleviarlo" (Albus Silente)
+
+\medskip
+
+"Klaatu Verata Nikto! (Ash, Armata delle Tenebre)"
+
+} \end{tcolorbox}
+
+\begin{multicols}{2}
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+
+In questo capitolo troverete le regole opzionali ed il funzionamento della Vecchia Magia, come era chiamata sulla Terra prima che scomparisse nell'oblio dei tempi. Un metodo oramai perso, di cui pochissimi rammentano l'esistenza e meno ancora lo sanno usare\\
+
+\textbf{Tutte le regole qui presentate sostituiscono in toto il sistema magico di OBSS.}
+
+\end{narratore}\end{changemargin}
+
+\subsection{Introduzione}
+
+Le \textit{Essenze} sono la magia declinabile tramite l'associazione Verbo - Nome, ovvero la possibilità di creare effetti magici associando un Verbo (Creare, Distruggere, Alterare..) ad un Nome (Corpo, Energia, Materia, Spirito...). Questo sistema e' meno intuitivo nei primi utilizzi eppure una volta entrati nel processo creativo vi renderete conto di avere la possibilità di fare quasi tutto.
+
+\subsection{Le Essenze}
+
+Questa magia non discendendo dai Patroni non viene influenzata dall'essere un Seguace o Devoto.
+
+\subsubsection{Le regole delle Essenze}\index{regole delle Essenze}
+
+\label{le-regole-delle-essenze}
+
+Ci sono dei punti fermi, delle regole che sovrintendono la magia e queste sono:
+
+\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item Non è permesso riportare in vita i morti.
+
+\item Non è permesso creare vita
+
+\item Declama la tua magia o non funzionerà
+
+\end{itemize}
+
+\subsubsection{I Verbi}\index{Verbi}
+
+I \textbf{Verbi} rappresentano ciò che si va ad eseguire con il Nome. Indicano l'azione intrapresa.\\
+
+\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+
+\item \textbf{Alterare}: ciò che riguarda il migliorare, rendere più efficace, modificare, alterare, plasmare. spostare..
+\item \textbf{Creare}: ciò che riguarda il creare dal nulla, il convocare
+\item \textbf{Riparare}: ciò che porta alla condizione originale, il curare, il riparare, ripristinare...
+\item \textbf{Distruggere}: ciò che riguarda l'indebolire, ridurre, rompere, deteriorare, danneggiare, distruggere...
+\item \textbf{Conoscere}: ciò che riguarda il conoscere, il rilevare, l'apprendere...
+\item \textbf{Muovere}: ciò che riguarda il muovere e spostare
+
+\end{itemize}
+
+\subsubsection{I Nomi}\index{Nomi}
+
+Ogni Verbo che si va a formulare ha un ambito di applicazione che riguarda il Corpo, la Mente, lo Spirito, l'Energia, la Materia o il Tempo. Questi sono genericamente chiamati i \textbf{Nomi}.
+
+Il \textbf{Corpo} riguarda le Creature Naturali e Magiche che non siano Immondi, non morti o nativi di altri Piani. Può riguardare le caratteristiche fisiche, la salute, il movimento, la dimensione.
+
+La \textbf{Mente} comprende la memoria, la percezione, i linguaggi.
+
+Lo \textbf{Spirito} permette di agire su Immondi, Non Morti e creature extra planari. Permette di agire sugli stati emozionali.
+
+\textbf{Energia} comprende: Fuoco, Suono, Elettricità, Energia Positiva, Energia Negativa.
+
+La \textbf{Materia} comprende: Acqua, Terra, Aria, Metallo, Legno. L'obiettivo non deve essere senziente o vivente.
+
+Il \textbf{Tempo} rappresenta lo scorrere degli eventi.
+
+
+\subsubsection{Specifiche dei Verbi}\index{Specifiche dei Verbi} %Corpo, Mente, Spirito, Energia, Materia
+
+I Verbi nella loro infinita potenza e versatilità hanno delle limitazioni che è necessario conoscere:
+
+\textbf{Alterare}: può concedere bonus alla Difesa o Tiri Salvezza ("Concedimi i Riflessi di un gatto", "Che la mia pelle sia resistente come la pietra").
+
+Non può conferire abilità magiche o soprannaturali, non può darci il Soffio del Drago ma una bocca come da drago per mordere. 
+
+La colonna Bonus stabilisce l'efficacia del bonus. 
+
+\textit{Corpo}:  Può darci un bonus ad un tiro salvezza su veleni ed una resistenza particolare (come una salamandra). Può darci abilità naturali di altre creature
+
+\textit{Mente}: agisce su percezioni fisiche e memoria. %omprende la memoria, la percezione, i linguaggi, le azioni.
+
+\textit{Spirito}: agisce su immondi e non morti. Può essere usato su creature per agire sulle emozioni ma non può crearle se assenti.
+
+\textit{Energia}: relativo alla presenza, assenza ed l'intensità della energia 
+
+\textit{Materia}: trasformare una materia completamente (acqua in vino, carne in pietra, creatura in creatura diversa...) è estremamente difficile. Può essere usata per plasmare la materia in una nuova forma
+
+\textit{Tempo}: alteri lo scorrere del tempo rallentandolo o velocizzandolo. Alterare il Tempo è sempre e solo relativo a se stessi
+
+%Corpo, Mente, Spirito, Energia, Materia, Tempo
+
+\textbf{Creare} e' la suprema capacità di creare dal nulla o convocare.
+
+\textit{Corpo}: crei della macilenta sostanza organica priva di vita. Piuttosto sgradevole.
+
+\textit{Mente}: permette di creare false percezioni o memorie. 
+
+\textit{Spirito}: permette di creare emozioni o stati d'animo. 
+
+\textit{Energia}: permette di creare manifestazioni energetiche. Se sono istantanee non possono causare danni.
+
+Una forma di Energia nella sua formulazione base durerà una frazione di secondo (durata Istantanea) e non sarà in grado di causare danno se la durata è inferiore.
+
+Creare Fuoco e' fare luce.
+
+\textit{Materia}: valgono le considerazioni sul causare danno di Alterare. Il materiale creato è grezzo e non lavorato tranne se si aumenta la Difficoltà, creare un CB di sabbia è meno difficile che creare un piccolo mobiletto di pietra. La durezza del materiale influenza la Difficoltà.
+
+\textit{Tempo}: permetti la creazione di Tempo, ovvero generi del "Tempo" fuori dal tempo che andrà ad influenzare solo i soggetti scelti (creazione di Azioni / Round)
+
+\textbf{Riparare}: mentre un Verbo di Alterare può farti smettere di sanguinare od anche recuperare più velocemente le energie solo un Riparare può curare direttamente del Punti Ferita. Se Alterare può renderti temporaneamente immune ad un Veleno (perché ho "Alterato" il mio metabolismo come quello di una mangusta) solo Riparare può curarne gli effetti. Riparare non può creare ciò che non c'è più. Riparare agisce solo su cose naturali.
+
+\textit{Corpo}: può essere usato per ripristinare Punti Ferita, per annullare gli effetti di un veleno, per \emph{ripristinare} una situazione precedente.
+
+\textit{Spirito}: se fatto su Spirito lo danneggia, solo se si ha anche Distruggere può essere usato per Riparare \emph{danni}
+
+\textit{Mente}: ripari un danno o alterazione ai ricordi, agisci sull'efficacia delle illusioni
+
+\textit{Spirito}: causa danno ai non morti ed immondi. Permette di creare dal nulla stati emozionali.
+
+\textit{Energia}: non ha usi noti.
+
+\textit{Materia}: permette di ripristinare la forma originaria di cose rotte.
+
+\textit{Tempo}: riporti lo scorrere del Tempo al suo flusso naturale.
+
+%Corpo, Mente, Spirito, Energia, Materia
+
+\textbf{Distruggere}: quando si tratta di deteriorare, spezzare, rompere Distruggere è il Verbo giusto. 
+
+\textit{Corpo}: causi danni fisici al corpo. 
+
+\textit{Mente}: può agire similmente a Alterare Mente se non che gli stati vengono affievoliti o distrutti. Può impedire di percepire l'ambiente.
+
+\textit{Spirito}: distrugge gli immondi o non morti, puoi distruggere o affievolire gli stati emozionali.
+
+\textit{Energia}: permette di distruggere o affievolire una energia.
+
+Nota che il Freddo e' distruzione di Fuoco, 
+
+\textit{Materia}: permetti di distruggere o comunque ridurre un oggetto.
+
+Tornando all'esempio del veleno il verbo Distruggere potrebbe essere usato per distruggere o almeno deteriorare il Veleno nell'organismo. Distruggere completamente la Materia (o Corpo) è difficile quanto crearla.
+
+\textit{Tempo}: permetti la distruzione di Tempo, ovvero distruggi del "Tempo" che andrà ad influenzare solo i soggetti scelti (perdita di azioni/round).
+
+\textbf{Conoscere}: divinazione, conoscenze, linguaggi, comprensione, sapere. Conoscere può essere usato per sapere come sta un compagno, per parlare a distanza.
+
+Quando più Verbi possono fare lo stesso effetto è necessario ben distinguere gli effetti ottenibile dall'uno e dall'altro differenziandoli con attenzione.
+
+\textit{Corpo}: ti da l'esatta ubicazione di una creatura naturale oppure ti fa conoscere dettagli sulla stessa.
+
+\textit{Mente}: permette di agire su percorsi cognitivi della persona, per esempio se voglio parlare una lingua mai sentita.
+
+\textit{Spirito}: ti fa conoscere immondi e non morti. Comprendi gli stati emozionali di una creatura.
+
+\textit{Energia/Materia/Tempo}: ti fa conoscere lo stato dell'oggetto o energia.
+
+\textbf{Muovere}: permette di spostare oggetti e creature. La Difficoltà data dalla Distanza si computa due volte, la prima per stabilire la Distanza dell'oggetto/creatura da spostare dall'incantatore, la seconda volta per stabilire la distanza dove spostare l'obiettivo.
+
+\textit{Corpo}: permette di spostare una creatura vivente di taglia media o inferiore. In caso di creature più grandi si devono usare i Cubi Base.
+
+\textit{Mente}: spostare idee e conoscenze o percezioni. Solo ad altissima difficoltà permette il trasbordo della conoscenza.
+
+\textit{Spirito}: permette di spostare stati emotivi tra soggetti diversi, non morti ed immondi da un posto all'altro.
+
+\textit{Energia}: permette di spostare una fonte di energia
+
+\textit{Materia}: permette di spostare materiale da un posto all'altro. Non funziona su creature.
+
+\textit{Tempo}: permette di spostare tempo da un obiettivo ad un altro, concedendolo e togliendolo.
+
+
+\subsubsection{Specifiche dei Nomi}\index{Specifiche dei Nomi}
+
+\label{Specifiche dei Nomi}
+
+I Nomi (Corpo, Mente, Spirito, Energia, Materia, Tempo) hanno ben specifici ambiti di azione.
+
+Il \textbf{Corpo} riguarda la materia vivente di qualsiasi creatura, anche magica, purché non sia Immonda, non morta o nativa di un altro Piano. La caratteristica collegata e' \textbf{Costituzione}.
+
+La \textbf{Mente} riguarda su ciò che viene elaborato dall'intelletto e come tale può essere applicato solo a creature con Intelligenza maggiore od uguale a -3. La caratteristica collegata e' \textbf{Intelligenza}.
+
+Lo \textbf{Spirito} agisce sugli stati emozionali, su creature extra planari, non morte o immonde. La caratteristica collegata e' \textbf{Carisma}.
+
+L'\textbf{Energia} comprende: Fuoco, Suono, Elettricità, Energia Positiva, Energia Negativa. La caratteristica collegata e' \textbf{Forza}.
+
+La \textbf{Materia} sono Acqua, Terra, Aria, Metallo, Legno. L'obiettivo non deve essere senziente o vivente. La caratteristica collegata e' \textbf{Saggezza}.
+
+Il \textbf{Tempo} agisce sul tempo a disposizione, crearlo significa avere più Azioni, distruggerlo significa \emph{rallentare} una creatura nello svolgere delle azioni.
+
+
+\subsubsection{Adepto della Magica, Competenza Magica ed Essenze}\index{Competenza Magica}\index{Essenza}
+
+\label{competenza-magica-ed-essenza}
+
+Ogni volta che il personaggio prende l'Abilità \textbf{Adepto della Magia} può scegliere un Nome od un Verbo non conosciuto oppure applicare un bonus di specializzazione di +1 ad un Nome già noto.
+
+Quando il personaggio attribuisce il primo punto a Competenza Magica apprende un Verbo a sua scelta, successivamente a punteggio di Competenza Magica 7,11,17 apprende un nuovo Verbo oppure applica un bonus di specializzazione di +1 ad un Nome già noto.
+
+Ogni volta che il personaggio attribuisce un punto a Competenza Magica apprende un nuovo Nome non conosciuto oppure sceglie un Nome già noto ed attribuisce un bonus di specializzazione di +1 a questo.
+
+Ogni incantatore conosce un certo numero di Verbi dipendenti dal punteggio di Competenza Magica e dalle volte che ha preso Adepto della Magia.
+
+Ogni incantatore conosce un numero di Nomi dipendenti dal punteggio di Competenza Magica e questi hanno un bonus di specializzazione dipendente dalle volte che si preferita riprendere lo stesso nome da Adepto della Magia o per attribuzione punto di Competenza Magica.
+
+
+\bigskip
+
+\textbf{Es. Un personaggio ha 8 punti in Competenza Magica ed ha preso 3 volte Adepto della Magia}
+
+1 CA > Riparare
+1 CA > Corpo
+7 CA > Alterare
+1 AdM > Materia
+2 AdM > Spirito
+3 AdM > Mente
+
+Ha attribuito i bonus di specializzazioni (a punteggio 2, 3, 4, 5, 6, 7) tra Corpo e Spirito (+3, +3).
+
+Questo bonus di specializzazione si somma anche nelle prove di Concentrazione che riguardino queste essenze.
+
+\textbf{Il punteggio di specializzazione di un Nome deve essere inferiore o pari a metà del valore di Competenza Magica}. Es. se hai CM a 4 il bonus di specializzazione massimo di Nome può essere +2.
+
+Si definisce \textbf{Valore del Nome} il punteggio di 10 + Competenza magica + Caratteristica collegata al nome + Bonus di specializzazione + Abilità + modificatori vari.
+
+\subsubsection{Caratteristiche base delle Essenze}\index{Caratteristiche base delle Essenze}
+
+\label{caratteristiche-base-delle-essenze}
+
+Ogni magia che si va a creare ha queste caratteristiche di base:
+
+\smallskip
+
+\textbf{Tempo di lancio}: due Azioni\index{Tempo di lancio}
+
+\textbf{Durata}: istantanea\index{Durata}
+
+\textbf{Distanza}: distanza di mischia (a tocco)\index{Distanza}
+
+\textbf{Area di Effetto}: se stesso
+
+Alla somma delle difficoltà base si aggiunge la Potenza dell'Essenza. Questo valore totale è chiamato \textbf{Punteggio dell'Essenza}.
+
+\subsubsection{Riuscire e Fallire nella Essenza}\index{Riuscire e Fallire nella prova di Magia}
+
+\label{riuscire-e-fallire-nella-prova-di-magia}
+
+Per formulare una Essenza è necessario individuare Verbo e Nome da usare.
+Stabiliti Durata, Distanza, Area di Effetto, Danno e Potenza si sommano ogni singolo fattore di difficoltà.
+
+Se il Valore del Nome è superiore al Valore dell'Essenza la magia ha effetto. Se il Valore del Nome è inferiore è necessario passare una Prova di Magia in maniera tale da poter aumentare il proprio punteggio di Valore di Essenza.
+
+\subsubsection{Prova di Magia}\index{Prova di Magia}\index{Successo critico magico}\index{Fallimento critico magico}\label{magieprovadimagia}\index{Incantesimi, Prova di Magia}
+
+Qualora l'incantatore voglia esprimere una Essenza oltre le sue normali capacità è necessario superare una Prova di Magia.
+
+L'incantatore tira \textbf{3d6 + 1d6 ogni due punti di Competenza Magica} (arrotondato per eccesso) più eventuali bonus o Abilità.
+
+L'incantatore può \textbf{ignorare un dado tirato} nella Prova di Magia per \textbf{ogni due volte} che ha preso \textbf{Adepto della Magia}.
+
+Se nell'insieme di dadi lanciati ci sono \textbf{almeno due 1} oppure \textbf{un 1 e due 2} saranno successe brutte cose, questo caso viene chiamato \textbf{Fallimento Critico Magico}\index{Fallimento Critico Magico} e l'Essenza non si manifesta ma sarà comunque considerata come lanciata la magia.
+
+Per verificare quanti fallimenti critici magici sono stati fatti controllate inizialmente quante coppie di 1 sono presenti, controllate poi se è rimasto una altro 1 da associare a due 2.
+
+Controllata l'assenza di fallimento critico se nel tiro di dadi ci sono almeno due 6 avrai ottenuto un \textbf{Successo Critico Magico}\index{Successo Critico Magico}, come per le Golden Rules continuerai a tirare un dado per ogni 6 fatto o che andrai a fare. Conta i 6 che fai, ogni due è un Successo Critico Magico! Eventuali 1 tirati a seguito del successo critico non contano per il fallimento critico. \textbf{Per ogni successo critico la DC del Tiro Salvezza dell'incantesimo aumenta di 1}.
+
+Quando viene richiesto di superare o fare una Prova di Magia è sufficiente non fare un Fallimento Critico Magico. Se viene richiesto di ottenere un Successo Critico e la Prova di Magia non lo ottiene allora qualsiasi risultato ottenuto sarà considerato un Fallimento Critico.
+
+Superare la Prova di Magia aumenta il Valore dell'Essenza di 1 punto mentre per ogni Successo Critico Magico il punteggio aumenta di 2.
+
+Ogni successo Critico Magico può essere usato per aumentare la Potenza o Danno di un gradino se non usato per aumentare il Valore dell'Essenza.
+
+Es. Tups vuole incenerire l'orchetto che lo sta caricando e vuole essere sicuro di terminarlo con un solo colpo. La sua prova di Magia è data da 3d6 + 2d6 aggiuntivo (ha 5 in Competenza Magica). Tups deve ottenere di piu' dalla sua Essenza e tenta una Prova di Magia!
+
+Esegue la Prova è ottiene 6, 4, 3, 5, 4. Deve ritirare il 6 e sperare di ottenere un altro 6 per ottenere il Critico Magico!
+
+Ritira il 6 ed ottiene un altro 6, ritira anche questo e ottiene un altro 6! La situazione è decisamente esplosiva!!! Ritira ancora e ottiene un 6!!! Al successivo tiro ottiene 1.
+
+A questo punto Tups è riuscito nella Prova di Magia ed ha ottenuto anche due Critico Magico aggiuntivo! Il suo Dardo Infuocato (che lui chiama Spiedo Rovente) aveva Potenza 5, quindi 3d6 di danno, ma avendo fatto 2 Critico Magico decide di scalarlo di due livelli di Potenza successivi diventando 8d6 di danno! Dell'orchetto non rimane che cenere e polvere!
+
+Consultate la \hyperlink{magiefallimentocriticonellaprovadimagia}{Tabella: Effetti Fallimento Critico} consulta a pagina \pageref{magiefallimentocriticonellaprovadimagia}.
+
+
+\subsubsection{Tiro per Colpire ed Essenze}\index{Tiro per Colpire ed Essenze}
+
+Quando la l'Area di Effetto è un bersaglio ovvero la magia deve colpire una sola creatura e' necessario un Tiro per Colpire.\\
+Quando l'Area di Effetto è ad area non è necessario effettuare un Tiro per Colpire se non per difficili e specificate aree, ovvero si mira in una area ben circoscritta.
+
+Il Tiro per Colpire è 3d6+ \textbf{Competenza Magica} + \textbf{Modificatore di caratteristica per incantesimi} + \textbf{Abilità} e \textbf{modificatori vari}.
+
+\subsubsection{Recitare l'Essenza}\index{Recitare l'Essenza}\index{Recitare}
+
+\label{recitare-lessenza}
+
+Può sembrare sciocco o inutile ma se un giocatore non recita la sua Essenza questa non funzionerà.
+
+In OBSS la magia è libera e freeform basata sul Verbo-Nome, ovvero non ci sono liste di incantesimi, ogni giocatore si inventa gli effetti che vuole, prendendo ispirazione (e limiti) dalle linee guida dei Verbi.
+
+Il giocatore declamerà la sua Essenza dichiarando che Verbo e Nome usa e formulerà la magia es. "Crea - Fuoco. Possa questa piana ardere come il Deserto di Fiamma di Daruk-Yum.
+
+Il Narratore deve preoccuparsi di fare declamare sempre l'Essenza, questo perché aiuta a comprendere cosa si vuole ottenere dall'Essenza, cosa che i fattori numerici (distanza, obiettivo, durata... ) non descrivono propriamente.
+
+\subsubsection{Potenziamenti delle Caratteristiche dell'Essenza}\index{Potenziamenti delle Caratteristiche dell'Essenza}
+
+\label{potenziamenti-delle-caratteristiche-dellessenza}
+
+I potenziamenti (la Potenza applicate) definiscono e migliorano l'Essenza che si va a lanciare; questi possono riguardare la Durata, la Distanza, Area di Effetto, tempo di lancio e ovviamente Danno e Potenza.
+
+La tabella va usata per determinare per ogni singolo fattore e si sommano le relative Difficoltà trovate, questo valore si sottrae l'eventuale riduzione dato dalle Azioni da usare.
+
+\end{multicols}
+
+\bigskip  %sequenza di Fibonacci 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89,144,
+
+\begin{tabularx}{0.98\textwidth}{llllllll}
+\hline
+\textbf{Difficoltà} &\textbf{Durata} &\textbf{Distanza} &\textbf{AoE} &\textbf{Lancio} & \textbf{Danno} & \textbf{Potenza} & \textbf{Bonus}\\
+\hline
++1	&	Istantanea		& Tocco	& Se Stesso		& 1 round	& - 	& - 		& 0\\
+\hline
++2	&	Istantanea 		& 3m	& 1 obiettivo	& 3 round 	& 1d6	& Mediocre / 10\%	& 0\\
+\hline
++3	&	1 round			& 10m	& 2 obiettivi	& 5 minuti 	& 2d6	& Facile / 20\%	& 1\\
+\hline
++5	&	3 round			& 30m	& 4 CB			& 1 ora 	& 3d6	& Normale / 30\%	& 2\\
+\hline
++8	&	1 minuto		& 50m	& 8 CB			& 1 giorno 	& 5d6	& Normale / 50\%	& 3\\
+\hline
++13	&	10 minuti		& 100m	& 27 CB			& -			& 8d6	& Difficile / 60\%	& 1d6\\
+\hline 
++21	&	1 ora			& 500m	& 64 1 CB		& -			& 13d6	& Molto Difficile / 70\%& 2d6\\
+\hline
++34	&	1 giorno		& 1000m & 125 CB		& - 		& 21d6	& Eroica / 100\%	& -\\
+\hline
++55	&	1 mese			& 50km	& 216 CB		& - 		& 34d6	& Impossibile / 130\%& -\\
+\hline
++89 &	1 anno			& 500km	& 343 CB		& - 		& 55d6	& Divina / 200\%	& -\\
+\hline
+\end{tabularx}
+\bigskip
+
+\begin{multicols}{2}
+
+\textbf{Difficoltà}\index{Difficoltà}: indica per ogni componente della Essenza un fattore da sommare per ottenere il Valore dell'Essenza (VdE).
+
+\textbf{Durata} \index{Durata}: per Durata di una Essenza si intende sia quanto dura l'effetto.
+Solo dalla Durata \emph{una frazione di round} e' possibile causare danno.
+
+\textbf{Distanza} \index{Distanza}: Per Distanza si intende a che misura si deve manifestare l'Essenza.
+
+\textbf{AoE}\index{Area di Effetto}: indica l'obiettivo dell'Essenza. Nel caso si voglia scegliere più obiettivi (es. 8) si paga la potenza AoE più volte (per 8 obiettivi si conta 4 volte il fattore +3)
+
+Il CB è il CUBO BASE ovvero un cubo di un metro di spigolo. L'area disegnata dai cubi deve essere contigua e ogni cubo avere almeno mezza faccia in contatto con un altro cubo.
+
+Suggerimento: dotatevi di diversi cubi lego..
+
+\textit{Deselezione} (+1)\index{deselezione}: con questo potenziamento escludi una creatura od oggetto dall'area di effetto. Ogni +1 toglie una creatura media (+2 se taglia Grande, poi +4/+8/+16..) dagli effetti della magia.
+
+\textbf{Lancio} \index{Tempo di Lancio} \index{Riduzione costi}
+Aumentando significativamente il tempo di lancio  si può diminuire la Difficoltà totale.
+
+\textbf{Danno}: indica la potenza necessaria per causare quell'ammontare di danno
+
+\textbf{Potenza}: indica la potenza relativa della magia. E' il parametro che mi permette di comprendere se l'Essenza ha la \emph{potenza} necessaria ad agire sul bersaglio. Viene indicata anche una percentuale per aiutare a comprendere quando può influenzare un valore.
+
+\textbf{Bonus}: indica il bonus o malus che l'Essenza concede. Solitamente o si usa Potenza o Bonus.
+
+\subsubsection{Influenzati da più Essenze}\index{Influenzati da più Essenze}
+
+\label{influenzati-da-piu-essenze}
+
+Quando un personaggio è influenzato contemporaneamente da \textbf{due o più effetti temporanei creati da Essenze} che danno lo stesso tipo di bonus, malus o danno (protezione verso fuoco, bonus alla Difesa o TS... , multiple palle di acido), si tiene conto solo di quella dal Punteggio dell'Essenza maggiore.
+
+
+\subsubsection{Quante Essenze al giorno}
+
+
+\textbf{Un incantatore può formulare nel giorno un numero di Essenze pari a (CM/2)+3.} \index{Magie al giorno}.
+
+In caso di richiesta volontaria di Prova di Magia e relativo Successo Magico Critico l'Essenza  non si conte nel novero di quelle formulate nel giorno.
+
+
+\subsubsection{Resistere all'Essenza (Tiro Salvezza)}\index{Resistere all'Essenza}\index{Tiro Salvezza}
+
+\label{resistere-allessenza-tiro-salvezza}
+
+Una volta che l'Essenza è manifestata le creature influenzate dalla stessa possono effettuare il Tiro Salvezza.
+
+Il Tiro Salvezza ha difficoltà pari al Valore dell'Essenza. Gli oggetti incustoditi non hanno Tiro Salvezza e si considera fallito.
+
+Se il Tiro Salvezza riesce con un Successo Critico il bersaglio non è influenzato dall'Essenza.
+
+Se il Tiro Salvezza riesce il bersaglio subisce metà degli effetti se possibile.
+
+Se il Tiro Salvezza fallisce il bersaglio è influenzato dall'Essenza.
+
+Se il Tiro Salvezza Fallisce Criticamente il bersaglio è influenzato dall'Essenza in maniera completa.
+
+Se il Nome è Corpo il TS è basato su Tempra, Mente su Volontà, Spirito su Volontà con bonus Carisma, Energia su Riflessi, Materia su Riflessi con bonus Costituzione, Tempo su Tempra con bonus Carisma.
+
+
+\subsubsection{Più Essenze nello stesso round}\index{Più Essenze nello stesso round}
+
+Un incantatore può usare formulare più Essenza a round purché la somma delle rispettive Punteggio dell'Essenza sia più basso del punteggio di Competenza Magica. Requisito CM 8.
+
+
+\subsubsection{Check di Concentrazione}\index{Check di Concentrazione}
+
+Se il mago viene è severamente distratto, impedito, disturbato, sotto attacco,sanguinante, mentre effettua o mantiene una Essenza deve effettuare una Prova di Magia con Successo Critico Magico o fallire nella formulazione.
+
+
+\subsubsection{Un ultimo suggerimento}
+
+L'ultimo consiglio è infine rivolto specificatamente ai Narratore, lasciate che i giocatori si esprimano inventando nuove magie e manifestazioni curiose e poco ortodosse. Cercate di valutarne la correttezza ricordando che le Essenza e come sono descritte vogliono essere degli esempi. Lo scopo finale è sempre e solo divertirsi.
+
+
+\bigskip
+
+Suggerisco di segnarsi nella scheda le Essenze e formulazioni più usate, quasi a creare un proprio libro di magia così che sia più facile calcolare i costi delle Essenze tipiche.
+
+\bigskip
+
+
+
+\subsection{Alcuni esempi di Essenze}:\\
+
+
+\textbf{Alterare}
+
+"Rotto il grimaldello? Lucchetto difficile ed antipatico ? Osserva come si apre al mio umile tocco": Alterare - Materia. La Potenza da usare è relativa al materiale del lucchetto.\\
+"Potenti spiriti guerrieri infondete coraggio ai compagni": Alterare - Spirito. In questo caso si usa Bonus al posto di Potenza.\\
+"Dalle somme biblioteche io chiamo il Silenzio!": Alterare - Mente / Alterare - Energia. O non fai sentire il suono, o lo fai diminuire. In un caso agisci sulla percezione, nell'altro sul suono stesso. Usi Potenza.\\
+"Per i grandi mammuth lanosi, il freddo non mi fa nulla": Alterare - Corpo/Energia. Per avere resistenza al freddo oppure \emph{mitigarlo}. Usando Danno o Bonus\\
+"Che Re Gorilla ti dia la forza di un esercito": Alterare - Corpo (usando Bonus)\\
+"Dal deserto delle 10 ombre chiamo il miraggio del muro": Alterare - Mente. Usando Potenza.\\
+
+\textbf{Creare}
+
+"Rotto il grimaldello? Ho il migliore dei setti regni": Creare - Materia - Potenza\\
+"Nessuna mela è più buona di quella che puoi creare tu": Creare - Materia - Potenza. Per creare cibo la nutriente la durata deve essere almeno 1 giorno.\
+"Oh piccola torcia esplodi di luce in questa tetra caverna": Creare/Alterare - Energia - Danno. 
+"A me tomo delle idee! Illuminami il pensiero": Creare - Mente - Bonus. In questo caso può essere usato per ritirare una prova con un bonus. Solo Conoscenza - Mente può dare la soluzione.\\
+"Al più pavido degli eroi concedo il coraggio del leone": Creare - Spirito - Bonus. Può essere dato solo a chi il coraggio non lo ha, altrimenti e' Alterare.\\
+"Sommi sapienti aiutatemi a chiamare Colui che Striscia nell'Oscurità": Creare - Spirito - Potenza. Non si evocano creature reale, ma si evocano simulacri, per questo si usa Spirito.\\
+
+\textbf{Riparare}
+
+"Rotto il grimaldello? Una mia carezza è più efficace di un fabbro" : Riparare - Materia - Potenza\\
+"Nessuna mela è troppo marcia, riempila del tuo amore e mangiala": Riparare - Materia - Potenza\\
+"Possano le tue ferite rinsaldarsi, possa il tuo cuore riposare. Possano le mani della somma guaritrice placare le tue sofferenze": Riparare - Corpo - Danno (ma per guarire)\\
+"Libera il cuore dalla paura! Che il maleficio delle immonde creature scompaia": Riparare - Spirito - Potenza. In questo caso si porta alla condizione originaria, togliendo l'effetto di paura\\
+
+\textbf{Distruggere}
+
+"Rotto il grimaldello? Peggio per il lucchetto. Il mio tocco è quello dei millenni": Distruggere - Materia - Potenza\\
+"Osserva il vuoto, perditi dentro, scompari nel nulla. Cosa hai fatto?": Distruggere - Mente. Può fare perdere Azioni - Potenza\\
+"Trema, annaspa, striscia, muori. Dal tuo posto non ti sposti": Distruggere - Corpo - Potenza. Per fermare il movimento\\
+"Il coraggio non si da a chi non lo ha. Piccolo codardo, scappa dalla mamma": Distruggere - Spirito - Potenza. Può essere usato per diminuire o annullare un Essenza che conferisce coraggio.
+"Fiat Tenebris! Ogni luce muoia": Distruggere - Energia - Potenza\\
+
+\textbf{Conoscere}
+
+"Rotto il Grimaldello? Ogni lucchetto ha un difetto ed un punto debole. Dimmi quale è il tuo e ti libererò dal giogo della chiusura": Conoscere - Materia - Potenza\\
+"Grande Rutte, concedimi il tuo sguardo di mille avventure. Come affrontare il mio avversario": Conoscere - Corpo - Potenza.\\
+"Dal labirinto chiamo il Minotauro. Ti ordino di dirmi la strada più breve per le Sale di Mazurdas": Conoscere - Materia - Potenza\\
+"I tuoi pensieri nei miei pensieri. I tuoi pensieri sono i mei pensieri": Conoscere - Mente - Bonus\\
+"Possa il sommo curatore aiutarmi a capire che veleno di affligge": Conoscere - Corpo - Bonus\\
+"Se non fuoco, se non fulmine, immonda creatura quale è il tuo punto debole": Conoscere - Spirito - Potenza\\
+
+\textbf{Muovere}
+
+"Rotto il Grimaldello? Basta un soffio ed il lucchetto non è più qui": Muovere - Materia - Potenza\\
+"Grande Glorin, fammi arrivare dal mio avversario": Muovere - Corpo - Distanza.\\
+"Luce luminosa, torcia salvavita vieni alla mia!": Muovere - Energia - Potenza. Per spostare la \emph{fiamma} da una torcia ad un altra.\\
+"I tuoi pensieri nei miei pensieri. I tuoi pensieri sono i mei pensieri": Muovere - Mente - Potenza. Permette di apprendere temporaneamente le conoscenze dell'obiettivo.\\
+"Il tuo coraggio è il mio coraggio". Muovere - Spirito - Bonus. Privo di un bonus \emph{emotivo} un soggetto per prenderlo io.
+"
+"Rallenta e soffri perché io sia veloce e forte": Muovere - Tempo - Potenza (difficile). Tolgo delle Azioni all'avversario per avere più Azioni io.
+
+\bigskip
+
+\textbf{Esempi durezza materiale}\index{Esempi durezza materiale}
+
+\medskip
+\begin{tabular}{ll}
+	\toprule
+	\textbf{Difficoltà}	&  \textbf{Esempio}\\
+	+1                  &  Sabbia / Carta \\
+	+2                  &  Vetro / Acqua\\
+	+3                  &  Legno / Terriccio\\
+	+5                  &  Ceramica / Pietra / Terra dura\\
+	+8                  &  Ferro / Mattone cotto\\
+	+13                 &  Acciaio/ Mithral\\
+	+21                 &  Acciaio Nanico, Argento\\
+	+34                 &  Adamantio, Oro\\
+	+55                 &  Acciaio Nanico Runico, Platino\\
+	+89                 &  Artefatti, Gemme\\
+\end{tabular}
+
+
+
+
+\end{multicols}
+
+
+
+\end{document}

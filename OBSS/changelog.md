@@ -792,7 +792,9 @@ aggiornata versione POD 2025/01/22
 
 aggiornata versione POD 2025/01/24
 
-0.99.34 
+0.99.34 dettagli su fallimento prova di magia quando richiesto successo critico, 
+
+
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
