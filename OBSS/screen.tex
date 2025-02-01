@@ -5,6 +5,9 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{multicol}
+\usepackage{multirow}
+\usepackage{tabularray}
+\usepackage{booktabs}
 \usepackage{tabularx}
 \usepackage{graphicx}
 \usepackage{xltabular}
@@ -491,23 +494,23 @@ Scudo pesante di metallo & 	20 mo  	&  3	& 1& +1,2  	& P\\
 
 \riga
 
-\textbf{Tempi per indossare e togliere l'armatura}\index{Tabella Tempi per indossare e togliere l'armatura}\\
+%\textbf{Tempi per indossare e togliere l'armatura}\index{Tabella Tempi per indossare e togliere l'armatura}\\
 
-\begin{tabular}{lccc}
-\textbf{Tipo di Armatura}& \textbf{Indossare} & \textbf{in fretta} & \textbf{Togliere}\\
-Scudo								& 1 azione 	& -     	& 1 azione\\
-Imbottita, Cuoio, Cuoio rinforzata  & 1 minuto	& 3 round  	& - \\
-Giaco di Maglia						& 1 minuto	& 5 round  & 5 round\\
-Scaglie, Anelli, Pettorale, Bande   & 4 minuti 	& 1 minuto{*}  & 1 minuto\\
-Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\\
-\end{tabular}
-\medskip
+%\begin{tabular}{lccc}
+%\textbf{Tipo di Armatura}& \textbf{Indossare} & \textbf{in fretta} & \textbf{Togliere}\\
+%Scudo								& 1 azione 	& -     	& 1 azione\\
+%Imbottita, Cuoio, Cuoio rinforzata  & 1 minuto	& 3 round  	& - \\
+%Giaco di Maglia						& 1 minuto	& 5 round  & 5 round\\
+%Scaglie, Anelli, Pettorale, Bande   & 4 minuti 	& 1 minuto{*}  & 1 minuto\\
+%Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\\
+%\end{tabular}
+%\medskip
 
-** è necessario qualcuno che aiuti ad indossarla
+%** è necessario qualcuno che aiuti ad indossarla
 
 \end{textblock*}
 
-\begin{textblock*}{12cm}(1cm,13.6cm) % larghezza box, coord X, coord Y
+\begin{textblock*}{12cm}(1cm,9.6cm) % larghezza box, coord X, coord Y
 
 \begin{tabular}{ccccc}
 \hline
@@ -525,26 +528,24 @@ Carretto/Carro    & 15/30 mo & 9/12 m   &150/600kg    & 3/6km              \\
 
 \riga
 
-\begin{tabular}{cc}
+%\begin{tabular}{cc}
+%\textbf{Contenitore}&\textbf{Capienza}\\
+%Ampolla o Boccale&0,5 litri liquidi\\
+%Barile&			160 litri liquidi, 4 cubi di 30 cm\\
+%Borsa&			1 cubo di 10 cm/3 kg di oggetti\\
+%Bottiglia&		1 litro di liquido\\
+%Brocca o Caraffa&4 litri liquidi\\
+%Canestro&		2 cubi di 30 cm/20 kg di oggetti\\
+%Fiala&			120 ml di liquidi\\
+%Forziere&		12 cubi di 30 cm/150 kg di oggetti\\
+%Otre&			2 litri liquidi\\
+%Sacco&			1 cubo di 30 cm/15 kg di oggetti\\
+%Secchio&		12 litri liquidi, 1 cubo di 25 cm\\
+%Vaso di Ferro&	4 litri liquidi\\
+%Zaino*&			1 cubo di 30 cm/15 kg di oggetti\\
+%\end{tabular}
+%\riga
 
-\textbf{Contenitore}&\textbf{Capienza}\\
-Ampolla o Boccale&0,5 litri liquidi\\
-Barile&			160 litri liquidi, 4 cubi di 30 cm\\
-Borsa&			1 cubo di 10 cm/3 kg di oggetti\\
-Bottiglia&		1 litro di liquido\\
-Brocca o Caraffa&4 litri liquidi\\
-Canestro&		2 cubi di 30 cm/20 kg di oggetti\\
-Fiala&			120 ml di liquidi\\
-Forziere&		12 cubi di 30 cm/150 kg di oggetti\\
-Otre&			2 litri liquidi\\
-Sacco&			1 cubo di 30 cm/15 kg di oggetti\\
-Secchio&		12 litri liquidi, 1 cubo di 25 cm\\
-Vaso di Ferro&	4 litri liquidi\\
-Zaino*&			1 cubo di 30 cm/15 kg di oggetti\\
-\end{tabular}
-
-
-\riga
 
 
 \begin{tabular}{l|cc|c}
@@ -558,14 +559,32 @@ Lacrima di Ljust & 1 & - & 10 round\\
 Luce  & 3 metri & 6 metri &30 min. \\
 Luce Diurna & 6 metri & 12 metri & 1 ora 
 \end{tabular}
-	
 
+\riga
+	
+\begin{tabular}{lccc}
+	\multirow{2}*{Tipo di movimento} &
+	\multicolumn{3}{c}{Movimento}\\
+	\cmidrule(lr){2-4} & 6m& 9m & 12m\\
+	\hline
+	\multicolumn{4}{c}{\textbf{Movimento (Tattico)}}\\
+	Camminare& 6m & 9m & 12m\\
+	Correre (x2) & 12m& 18m& 24m\\
+	\multicolumn{4}{c}{\textbf{Un minuto (Locale)}} \\
+	Camminare & 36m& 54m& 72m \\
+	Correre (x3) & 108m & 162m & 216m \\
+	\multicolumn{4}{c}{\textbf{Un'ora (Via Terra)}} \\
+	Camminare& 3km& 4km& 6km\\
+	Correre (x3) & 9km& 12km & 18km \\
+	\multicolumn{4}{c}{\textbf{Un giorno (Via Terra)}}\\
+	Camminare& 24km & 32km & 54km
+\end{tabular}
 
 \riga
 
 \end{textblock*}
 
-\begin{textblock*}{6cm}(13.4cm,13.6cm) % larghezza box, coord X, coord Y
+\begin{textblock*}{6cm}(13.4cm,9.6cm) % larghezza box, coord X, coord Y
 
 \begin{tabular}{ll}
 \textbf{Oggetto}&\textbf{Costo}\\
@@ -595,6 +614,10 @@ Aristocratico&2 mo\\
 Buono (bottiglia)&10 mo\\
 Comune (caraffa)&2 ma\\
 \end{tabular}
+
+
+
+
 
 \end{textblock*}
 
@@ -682,23 +705,24 @@ Se il Tiro Salvezza fallisce, l'avversario fino alla fine del suo round successi
 \textbf{Arrampicarsi - Scalare}\\
 \textit{Si hanno penalità dovuta all'Armatura}
 
-\begin{tabular}{ll}
-\textbf{Esempio di Superficie} & \textbf{DC}\\
-Movimento solo dimezzato & -2d6\\
-Superficie scivolosa&+4\\
-Parete grezza con appigli&+12\\
-Un albero, una corda senza nodi&+15\\
-Un muro con pochi mattoni sporgenti &+20\\
-Un muro con pochissimi appigli&+25\\
-Una parete naturale liscia senza appigli&+30\\
-Ti puoi appoggiare a 2 pareti opposte&-8\\
-Ti puoi appoggiare a 2 pareti angolari&-4\\
-Puoi usare una corda&-8\\
+\noindent\begin{tabularx}{1\textwidth}{Xl}
+	\textbf{Esempio di Superficie} & \textbf{DC}\\
 \hline
-Usare una corda per calarsi&12\\
-Usare una corda per arrampicarsi&15\\
-La corda ha nodi & -3\\
-\end{tabular}
+	Movimento solo dimezzato & -2d6\\
+	Superficie scivolosa&+4\\
+	{\small Parete grezza con appigli, mattoni sporgenti}&+12\\
+	Un albero, una corda senza nodi&+15\\
+	Un muro con pochi mattoni sporgenti &+20\\
+	Un muro con pochissimi appigli&+25\\
+	Una parete naturale liscia senza appigli&+30\\
+	Ti puoi appoggiare a 2 pareti opposte&-8\\
+	Ti puoi appoggiare a 2 pareti angolari&-4\\
+	Puoi usare una corda&-8\\
+	\hline
+	Usare una corda per calarsi&12\\
+	Usare una corda per arrampicarsi&15\\
+	La corda ha nodi & -3\\
+\end{tabularx}
 
 Se fallimento non ci si sposta. Se fallimento critico cadi e puoi fare un Tiro Salvezza su Riflessi alla stessa difficoltà per afferrarti, se fallisci il TS cadi fino in fondo. 
 
@@ -766,19 +790,17 @@ Acque tempestose DC 25
 \riga
 
 
-\textbf{Sopravvivenza}
+\textbf{Seguire Tracce}
 \begin{tabular}{ll}
-Difficoltà base  & DC 15\\
-Se il terreno è molto morbido& DC +5\\
-Se il terreno è morbido& DC +10\\
-Se il terreno è stabile& DC +15\\
+Se il terreno è molto morbido& DC -4\\
+Se il terreno è stabile/duro& DC +15/20\\
 Se il terreno è duro& DC +20\\
-Ogni 3 creature inseguite& DC -1\\
-A seconda della taglia& DC +-8\\
-Ogni 24 ore passate&DC +2\\
-Ogni ora di pioggia&DC +4\\
-Visibilità scarsa&DC +2\\
-Cerca di occultare le traccie&DC +5\\
+A seconda della taglia& DC $\pm4$\\
+Ogni 3 creature inseguite& DC -2\\
+Ogni 24 ore passate& DC +4\\
+Ogni ora di pioggia& DC +4\\
+Visibilità scarsa& DC +2\\
+Cerca di occultare le tracce& DC +4\\
 \end{tabular}\\
 
 \riga
