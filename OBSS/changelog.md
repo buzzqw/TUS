@@ -796,7 +796,7 @@ aggiornata versione POD 2025/01/24
 
 aggiornata versione POD 2025/02/01
 
-0.99.35
+0.99.35 aggiornato gablin, 
 
 
 > valutare:
