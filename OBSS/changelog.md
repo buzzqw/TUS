@@ -782,7 +782,7 @@ aggiornata versione POD 2025/01/06
 
 0.99.31 aggiunto esempio dimensioni mostri e portata, aggiunto esempi di forma di incantesimi, aggiornata tabella grado di sfida incontro, si puo' trattenere il fiato per 10+10xCos
 
-aggiornata versione POD 2025/01/15
+aggiornata versione POD 2025/01/15 x
 
 0.99.32 aggiornato calcolo difesa mostri, aggiornata tabella fallimento critico in attacco, chiarimenti su incantesimo lanciafiamme, layout
 
@@ -796,7 +796,7 @@ aggiornata versione POD 2025/01/24
 
 aggiornata versione POD 2025/02/01
 
-0.99.35 aggiornato gablin, 
+0.99.35 aggiornato gablin, aggiornato metodo di colpire per incantesimo, 
 
 
 > valutare:
