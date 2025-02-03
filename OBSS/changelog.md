@@ -796,8 +796,11 @@ aggiornata versione POD 2025/01/24
 
 aggiornata versione POD 2025/02/01
 
-0.99.35 aggiornato gablin, aggiornato metodo di colpire per incantesimo, 
+0.99.35 aggiornato gablin, aggiornato metodo di colpire per incantesimo
 
+aggiornata versione POD 2025/02/03
+
+0.99.36
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
