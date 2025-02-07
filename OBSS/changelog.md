@@ -800,7 +800,10 @@ aggiornata versione POD 2025/02/01
 
 aggiornata versione POD 2025/02/03
 
-0.99.36
+0.99.36 aggiunta sezione perche' dungeon senza fine, controllo ortografico, 
+
+
+
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
