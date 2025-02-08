@@ -800,7 +800,7 @@ aggiornata versione POD 2025/02/01
 
 aggiornata versione POD 2025/02/03
 
-0.99.36 aggiunta sezione perche' dungeon senza fine, controllo ortografico, la difficolta' per riconoscere un oggetto magico e' 25, aggiornata arma sacra - anatema - ricercante, rimossa abilita' sprezzante - perseverante - duello - tenace - crudele - cacciatore, aggiunti anelli d'arma base e maggiore, 
+0.99.36 aggiunta sezione perche' dungeon senza fine, controllo ortografico, la difficolta' per riconoscere un oggetto magico e' 25, aggiornata arma sacra - anatema - ricercante, rimossa abilita' sprezzante - perseverante - duello - tenace - crudele - cacciatore, aggiunti anelli d'arma base e maggiore, modificata abilita' armatura carico, rimossa abilita' mutaforma da armature, 
 
 
 
