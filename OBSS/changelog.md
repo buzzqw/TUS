@@ -804,7 +804,7 @@ aggiornata versione POD 2025/02/03
 
 aggiornata versione POD 2025/02/08
 
-0.99.37
+0.99.37 layout, indice mostri, 
 
 
 
