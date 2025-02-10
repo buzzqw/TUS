@@ -810,7 +810,7 @@ aggiornata versione POD 2025/02/08
 
 aggiornata versione POD 2025/02/10
 
-0.99.38 
+0.99.38 chiarimenti lista armi lancia a 7 punti, 
 
 
 > valutare:
