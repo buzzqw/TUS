@@ -3476,7 +3476,7 @@ L'Azione di Carica ti porta addosso, in mischia, con l'avversario. L'attacco se 
 
 \subsubsection{Arma da Controcarica}\index{Arma da Controcarica}\label{controcarica}\index{Controcarica}\label{caricaarmadacontrocarica}
 
-se effettui una Carica ed il Tiro per Colpire ha successo, la tua arma da controcarica infligge un Tiro Critico aggiuntivo.
+se effettui una Carica ed il Tiro per Colpire ha successo, la tua arma con tratto Controcarica infligge un Tiro Critico aggiuntivo.
 
 \subsubsection{Preparare una arma lunga/da controcarica contro una carica} \index{Preparare una arma lunga contro una carica}\label{prepararearmalungacontrocarica}
 
@@ -3714,7 +3714,9 @@ Non si può togliere/aggiungere più di Competenza Armi/4 al Tiro per Colpire/Di
 
 \subsubsection{Preparare la Difesa}\index{Preparare la Difesa}\label{preparareladifesa}\hypertarget{preparareladifesa}{}
 
-Il personaggio può usare una Azione per prepararsi meglio ai successivi attacchi degli avversari. Fino all'inizio del tuo prossimo round hai un +2 alla Difesa.
+Il personaggio può usare una Azione per prepararsi meglio ai successivi attacchi degli avversari. Fino all'inizio del tuo prossimo round hai un +1 alla Difesa.
+
+Se almeno un arma che usi ha il tratto Parata prendi un ulteriore +1 alla Difesa.
 
 \subsubsection{Difesa totale} \index{Difesa totale}\label{difesatotale}
 
@@ -4375,7 +4377,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
-\item 4 punti: usata contro una carica od in carica, purché abbia l'abilità Controcarica, fai un danno critico aggiuntivo se colpisci.
+\item 4 punti: usata contro una carica od in carica, purché abbia l'abilità Controcarica, il danno critico aggiuntivo fa il massimo valore.
 \item 5 punti: puoi usarla anche contro avversari a distanza di 1 metro senza penalità.
 \item 7 punti: i critici al punto 4 diventano due.
 \item 9 punti: rotei la tua arma. Usando 3 Azioni fai un unico Tiro per Colpire a -5. Confronta il tiro con la Difesa di tutte le creature in mischia con te per valutare se le hai colpite.
@@ -4508,7 +4510,7 @@ Non è possibile applicare questi bonus se si usa più di uno scudo.
 \item 12 punti: hai raggiunto l'apice della maestria con la spada i tuo colpi sono precisi e difficili da prevedere ottieni +1 a danno, Tiro per Colpire e Difesa. L'EDX della spada se presente si abbassa di 1.
 \item 16 punti: il dado di danno della tua spada aumenta di una categoria.
 
-La mano che non tiene la spada deve essere libera.
+La mano che non tiene la spada deve essere libera o usata sull'arma.
 
 \end{itemize}
 
@@ -4902,7 +4904,7 @@ Finché l'avversario non raggiunge alla propria distanza di mischia il personagg
 
 \ability{Allungo}{allungo}{Competenza Armi 2}{+1 Volontà, +2 Tempra}{Destrezza o Forza}
 
-Usi una Azione in concomitanza alla tua Azione di Attacco in mischia aumentare la portata di 1 metro con il tuo colpo. 
+Usi una Azione in concomitanza alla tua Azione di Attacco in mischia per aumentare la portata di 1 metro con il tuo colpo. 
 
 \ability{Animalia}{animalia}{Seguace o Devoto di Efrem oppure Shayalia, Competenza Magica 2.}{+2 Volontà, +1 Tempra}{Modificatore di caratteristica per incantesimi}
 
@@ -5511,9 +5513,7 @@ La \textbf{sesta volta} che prendi questa Abilità, requisito somma Tratti comun
 
 \ability{Iaijutsu}{iaijutsu}{Competenza Armi 2}{+2 Riflessi, +1 Volontà}{Intelligenza o Destrezza}
 
-Per ogni -1d6 al Tiro per Colpire guadagni un +4 all'Iniziativa e vice versa.
-
-La dichiarazione va eseguita ogni round che si intende usare al momento del controllo delle iniziative. Non si può applicare il modificatore se non si esegue almeno un attacco in mischia.
+Aspetti ad attaccare finché non conosci meglio le mosse dell'avversario designato che avrebbe dovuto agire dopo di te. Lasci agire prima questo avversario poi contro quell'avversario hai +2 al Tiro per Colpire con la prima Azione di Attacco.
 
 \ability{Improvvisare}{improvvisare}{Competenza Armi 1}{+1 Tempra, +1 Riflessi}{Destrezza o Saggezza}
 
@@ -6094,11 +6094,12 @@ La \textbf{terza volta} che prendi l'Abilità puoi influenzare anche creature di
 
 \ability{Tattico}{tattico}{Competenza Armi 1, Intelligenza 1}{+1 Tempra , +1 Volontà}{Intelligenza o Carisma}
 
-Hai una capacità quasi istintiva di gestire e prevedere l'esito dei combattimenti.
+Hai una capacità quasi istintiva di gestire e prevedere l'esito dei combattimenti. Usare l'Abilità costa 1 Azione.
 
-La \textbf{prima volta} che prendi quest'Abilità puoi scambiare, round per round, l'esito dell'Iniziativa tra te od un compagno od un avversario che siano a distanza di mischia tra di loro. Costo 1 Azione.
+La \textbf{prima volta} che prendi quest'Abilità puoi scambiare, round per round, l'esito dell'Iniziativa tra due creature che siano a distanza di mischia tra di loro.
 
-La \textbf{seconda volta} che prendi quest'Abilità, requisito Intelligenza 2, Competenza Armi 6, puoi scambiare l'iniziativa, round per round, tra due tuoi compagni o avversari che siano a distanza di mischia tra di loro. Costo 1 Azione.
+La \textbf{seconda volta} che prendi quest'Abilità, requisito Intelligenza 2, Competenza Armi 6, puoi scambiare l'iniziativa, round per round, tra tre creature che siano a distanza di mischia tra di loro.
+
 
 \ability{Tempesta di Furia}{tempestadifuria}{Lista Pugno Vuoto 7, Destrezza 1, Forza 1}{+2 Riflessi, +1 Volontà}{Destrezza o Forza}
 
@@ -7202,9 +7203,7 @@ Il personaggio quando assegna il primo punto di Competenza Magica ha nel suo Tom
 Il personaggio quando assegna il primo punto di Competenza Magica apprende 2 incantesimi presenti sul suo Tomo di Magia + un numero di Trucchetti (incantesimi di livello 0) pari al modificatore di caratteristica per incantesimi con un minimo di 4.\label{incantesimicm1}\hypertarget{incantesimicm1}{}
 \item
 %Ogni volta che un incantatore acquisisce un punto in Competenza Magica apprende due nuovi incantesimi che siano a disposizione nel suo Tomo di Magia e che siano entro il massimo livello lanciabile.
-Ogni volta che un incantatore acquisisce un punto in Competenza Magica apprende 1 nuovo incantesimo che sia a disposizione nel suo Tomo di Magia e che sia entro il massimo livello lanciabile.
-\item
-Ogni volta che l'incantatore acquisisce un punto in Competenza Magica può apprendere 2 Trucchetti od un incantesimo di altro livello che conosca.
+Ogni volta che un incantatore acquisisce un punto in Competenza Magica apprende 1 nuovo incantesimo che sia a disposizione nel suo Tomo di Magia e che sia entro il massimo livello lanciabile oppure 2 trucchetti (state attenti che a \hyperlink{adeptodellamagia}{Adepto della Magia}).
 \item
 Il numero di incantesimi formulabile al giorno dipende dalla capacità dell'incantatore. Vedi \textbf{Tabella Punti magia e Competenza Magica}. Un incantesimo ha un costo in Punti Magia pari al suo livello.
 \item
@@ -8980,7 +8979,7 @@ Spendendo il triplo dei Punti Magia puoi curare fino a 4 creature che si trovino
 \textbf{Componenti}: V, S\\
 \textbf{Durata}: 1 Turno, Concentrazione\\
 Crei un dardo luminoso di forza magica. Lanciare uno o più dardi già evocati costa 1 Azione. Il dardo colpisce una creatura a gittata che puoi vedere, scelta da te. Un dardo infligge 1d4 + 1 danni da forza al suo bersaglio e li puoi dirigere perché colpiscano una o più creature.\\
-Il danno aumenta di 1 ogni volta che hai preso Adepto della Magia fino ad un massimo di 5 aumenti.\\
+Il danno aumenta di 1 ogni volta che hai preso Adepto della Magia fino ad un massimo di 4 aumenti.\\
 Crei un dardo aggiuntivo quando raggiungi CM 3, CM 5, CM 7 e CM 9, ma l'incantesimo costa un Punto Magia addizionale.
 
 Se dedichi 3 Azioni al lancio dell'incantesimo manifesti 2 dardi in più.
@@ -11784,10 +11783,11 @@ Per la durata dell'incantesimo, crei a gittata una fluttuante spada di forza. Qu
 \textbf{Gittata}: Personale (cono di 3 metri)\\
 \textbf{Componenti}: V, S, M (un pizzico di polvere o sabbia che sia colorata di rosso, giallo e blu)\\
 \textbf{Durata}: 1 round\\
-Dalla tua mano si sprigiona una raffica di luci colorate e abbaglianti. Tira 6d10; il totale è l'ammontare di Punti Ferita di creature su cui questo incantesimo agisce. Le creature, in un cono di 3 metri che origina da te, sono soggette in ordine ascendente dei loro attuali Punti Ferita (ignorando le creature prive di sensi e le creature che non possono vedere).\\
-A partire dalla creatura che ha il minor numero di Punti Ferita attuali, ciascuna creatura soggetta a questo incantesimo resta accecata fino al termine dell'incantesimo. Sottrarre i Punti Ferita di ciascuna creatura dal totale prima di passare alla creatura col totale più basso di Punti Ferita successiva. I Punti Ferita di una creatura devono essere uguali o minori del totale rimanente perché l'incantesimo agisca su di essa. 
+Uno spruzzo di luci e colori erutta dalla tua mano. Le creature in un cono di 3 metri devono fare un Tiro Salvezza su Volontà.
 
-\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia tira 1d10 Punti Ferita aggiuntivi.
+Se il Tiro Salvezza riesce non si subisce alcun effetto, se fallisce la creatura \hyperlink{confusionecondizione}{confusa} per 1 round.
+
+\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia la durata aumenta di 1 round.
 
 \subsubsection*{Spruzzo Prismatico}\index[Incantesimi]{Spruzzo Prismatico}\hypertarget{Spruzzo Prismatico}{}
 \textbf{Lista di Magia}: Invocazione\\
@@ -14909,7 +14909,7 @@ Balestra pesante& 50 & G/Dardi& 30 metri, \textbf{Balestre}\\
 Bastone& 3& M/1d6 C& \textbf{Armi Semplici}, Arma lunga, Versatile\\
 Brandistocco& 10 & M/2d4 P/T& \textbf{Lance}, Controcarica, Arma lunga\\
 Catena chiodata& 25 & G/2d4 P& 3 metri, \textbf{Palle rotanti}, Arma lunga\\
-Estoc& 25& G/1d8 P& \textbf{Spade}, Arma lunga\\
+Estoc& 25& G/1d8 P& \textbf{Spade}, Arma lunga, Parata\\
 Falce& 18 & G/2d4 P/T& \textbf{Armi della Morte}, Arma lunga\\
 Falcetto& 6& P/1d6 T& \textbf{Armi della Morte}\\
 Falcione in asta& 12 & G/1d10 P/T& \textbf{Lance}, Controcarica, Arma lunga, ED9\\
@@ -14940,12 +14940,12 @@ Pugnale& 2& P/1d4 P& 6 metri, \textbf{Armi Semplici}, \textbf{Armi leggere}, \te
 Pugno/Calcio & note*& P/1d4 C&Versatile\\
 Randello& 1& P/1d6 C& \textbf{Armi Semplici}, \textbf{Rompi Cranio}\\
 Scimitarra& 15 & M/1d6 T&\textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile\\
-Spada corta& 10 & P/1d6 P&\textbf{Armi Leggere}, \textbf{Spade}, Versatile\\
-Spada lunga& 15 & M/1d8 T&\textbf{Spade}\\
-Spada a due lame& 100& G/1d8 T& \textbf{Armi doppie}, \textbf{Spade}\\
-Spada bastarda& 35 & M/1d8 T&\textbf{Spade}, 1d8 ad una mano, 2d6 a 2 mani\\
-Spada larga& 12 & M/2d4 T&\textbf{Spade}, 2d4 ad una mano, 1d10 a 2 mani\\
-Spadone a due mani& 50 & G/2d6 T&\textbf{Spade}\\
+Spada corta& 10 & P/1d6 P&\textbf{Armi Leggere}, \textbf{Spade}, Versatile, Parata\\
+Spada lunga& 15 & M/1d8 T&\textbf{Spade}, Parata\\
+Spada a due lame& 100& G/1d8 T& \textbf{Armi doppie}, \textbf{Spade},Parata\\
+Spada bastarda& 35 & M/1d8 T&\textbf{Spade}, Parata, 1d8 ad una mano, 2d6 a 2 mani\\
+Spada larga& 12 & M/2d4 T&\textbf{Spade}, Parata, 2d4 ad una mano, 1d10 a 2 mani\\
+Spadone a due mani& 50 & G/2d6 T&\textbf{Spade}, Parata\\
 Stocco& 20 & P/1d6 P& \textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile\\
 Tridente& 15 & M/1d6 P/T& 3 metri, \textbf{Aste}, \textbf{Armi da Lancio}, Arma Lunga, Controcarica\\
 Urgrosh& 18 & M/1d6 T/P& \textbf{Lance}, \textbf{Armi doppie}\\
@@ -43599,21 +43599,27 @@ I personaggi che rimangono assordati per lunghi periodi di tempo, possono abitua
 
 L'attaccante colpisce automaticamente ed infligge tre colpi critici. Le creature immuni ai colpi critici non possono subire un Colpo di Grazia.
 
-\textbf{Confuso}: \index{Confuso}\index{Confusione}Una creatura confusa è mentalmente ottenebrata e non può agire normalmente. Una creatura confusa non riesce a distinguere un alleato da un nemico e considera tutti come nemici.
+\textbf{Confuso}: \index{Confuso}\index{Confusione}\hypertarget{confusionecondizione}{}Una creatura confusa è mentalmente ottenebrata e non può agire normalmente. Una creatura confusa non riesce a distinguere un alleato da un nemico e considera tutti come nemici.
 
 Se una creatura confusa è attaccata, attacca sempre l'ultima creatura che la ha attaccata, finché quella creatura non muore o esce dalla sua visuale.
 
 Tirate un dado sulla tabella seguente all'inizio di ogni round della creatura confusa per vedere quello fa in quel round.
 
-\textbf{d100 Comportamento:}
+\medskip
 
-01-25 Agisce normalmente
+\noindent\begin{tabularx}{0.48\textwidth}{|l|X|}
+	\textbf{d100} & \textbf{Comportamento} \\
+	\hline
+	01-25 & Agisce normalmente \\
+	\hline
+	26-50 & Non fa altro che balbettare in modo incoerente \\
+	\hline
+	51-75 & Si infligge 1d8 + modificatore di Forza con l'arma che tiene in mano \\
+	\hline
+	76-100 & Attacca la creatura più vicina (a tale scopo, un Famiglio conta come parte del soggetto stesso)
+\end{tabularx}
 
-26-50 Non fa altro che balbettare in modo incoerente
-
-51-75 Si infligge 1d8 + modificatore di Forza con l'arma che tiene in mano
-
-76-100 Attacca la creatura più vicina (a tale scopo, un Famiglio conta come parte del soggetto stesso)
+\medskip
 
 Una creatura confusa che non è in grado di eseguire l'azione indicata non farà altro che balbettare in modo incoerente. Gli aggressori non hanno alcun vantaggio speciale quando attaccano una creatura confusa. Qualsiasi creatura confusa che venga attaccata, attacca automaticamente a sua volta il suo aggressore.
 
