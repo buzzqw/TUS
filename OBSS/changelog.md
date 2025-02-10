@@ -806,11 +806,9 @@ aggiornata versione POD 2025/02/08
 
 0.99.37 layout, indice mostri
 
-0.99.37s5 aggiornato spruzzo colorato, aggiunto alla lista di file da poter scaricare OBSSv2-noimage.pdf che e' la versione senza immagini, chiarimenti su abilita' tattico, in allungo mancava un per, chiarimenti su incantesimi che si apprendono all'aumentare della competenza magica, modificato massimo aumento di danno a dardo arcano, riformulato iaijutsu, modificato abilita' lista armi per spada a 4 punti, modificata talento a 4 punti di lancia, preparare la difesa da +1 alla Difesa, le spade hanno il tratto Parata, il tratto Parata da +1 alla Difesa quando prepari la difesa, regole su danno critico dei mostri e multiattaco, aggiunta abilita' Robusto
+0.99.37s5 aggiornato spruzzo colorato, aggiunto alla lista di file da poter scaricare OBSSv2-noimage.pdf che e' la versione senza immagini, chiarimenti su abilita' tattico, in allungo mancava un per, chiarimenti su incantesimi che si apprendono all'aumentare della competenza magica, modificato massimo aumento di danno a dardo arcano, riformulato iaijutsu, modificato abilita' lista armi per spada a 4 punti, modificata talento a 4 punti di lancia, preparare la difesa da +1 alla Difesa, le spade hanno il tratto Parata, il tratto Parata da +1 alla Difesa quando prepari la difesa, regole su danno critico dei mostri e multiattaco, aggiunta abilita' Robusto, chiarimenti lista armi lancia a 7 punti, aggiuntata tabelle esemplificativa incantesimi conosciuti e appresi
 
-aggiornata versione POD 2025/02/10
 
-0.99.38 chiarimenti lista armi lancia a 7 punti, 
 
 
 > valutare:
