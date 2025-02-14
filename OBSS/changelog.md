@@ -812,7 +812,7 @@ aggiornata versione POD 2025/02/08
 
 aggiornata versione POD 2025/02/12
 
-0.99.39 chiarimenti lessicali ed aggiornate diverse abilita' - Ali della Fenice rimosso bonus TC+2 per attacchi da lontano, Colpo Mortale fa 2 critici e non 3, Colpo Paralizzante puo' essere fatto ad una creatura entro 2 taglie oltre la tua, specificato che la riduzione del danno (DR) non funziona con sanguinamento, 
+0.99.39 chiarimenti lessicali, aaggiornate abilita' - Ali della Fenice rimosso bonus TC+2 per attacchi da lontano, Colpo Mortale fa 2 critici e non 3, Colpo Paralizzante puo' essere fatto ad una creatura entro 2 taglie oltre la tua, specificato che la riduzione del danno (DR) non funziona con sanguinamento, aggiornata difesa e pf mostri, 
 
 
 > valutare:
