@@ -8,11 +8,10 @@
 \usepackage{lmodern}
 \usepackage{caption}
 \usepackage[utf8]{inputenc}
-%\usepackage[utf8x]{inputenc}
-\usepackage[T1]{fontenc}  %\usepackage[B1,T1]{fontenc}
+\usepackage[T1]{fontenc}
 \usepackage{setspace}
 \usepackage[a4paper]{geometry}
-\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}  %std
+\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm} %std
 \setcounter{secnumdepth}{-1}
 \usepackage{booktabs}
 \usepackage{url}
@@ -21,24 +20,17 @@
 \usepackage{graphicx}
 \usepackage{amssymb}
 \usepackage{makeidx}
-%\usepackage[allfiguresdraft]{draftfigure}  %senza figure, deve rimanere alla riga 24
 \usepackage{multirow}
+%\usepackage[allfiguresdraft]{draftfigure} %senza figure, deve rimanere alla riga 24
 \usepackage{titlesec}
-\usepackage[unicode=true, bookmarks=true, pdftitle={OBSS Options}, pdfsubject={Old Bell School System Options}, pdfauthor={Andres Zanzani}, breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
+\usepackage[unicode=true, bookmarks=true, pdftitle={OBSS}, pdfsubject={Gioco di Ruolo per Avventure Incredibili}, pdfauthor={Andres Zanzani}, breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 {hyperref}
 \hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
 \usepackage{bookmark}
 \usepackage{yfonts}
-\usepackage{lettrine}
+\usepackage{lettrine} 
 \usepackage{calligra}
-\renewcommand{\LettrineFontHook}{\calligra}
-\usepackage{accanthis}
-\usepackage{auncial}
-\usepackage{fontspec}
 \usepackage{ragged2e}
-
-\setmainfont[Path=../altro/fonts/,BoldItalicFont=DejaVuSerif-BoldItalic.ttf,ItalicFont=DejaVuSerif-Italic.ttf,BoldFont=ReadexPro-bold.ttf,Ligatures=TeX,Scale=0.94]{ReadexPro-Regular.ttf} %togliere questa e fontspec per usare pdflatex
-
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
 \usepackage{tcolorbox}
@@ -47,18 +39,18 @@
 \usepackage{imakeidx}
 \usepackage{cancel}
 \def\CountIndexOccurrences#1{%
-\expandafter\newcount\csname #1\endcsname%
-\expandafter\newcount\csname #1\endcsname%
-\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
-\IfFileExists{#1.idx}{\input{#1.idx}}{}%
+	\expandafter\newcount\csname #1\endcsname%
+	\expandafter\newcount\csname #1\endcsname%
+	\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
+	\IfFileExists{#1.idx}{\input{#1.idx}}{}%
 }
-\CountIndexOccurrences{OBSS}
+\CountIndexOccurrences{OBSSv2}
 \CountIndexOccurrences{Incantesimi}
 \CountIndexOccurrences{Mostruario}
 \CountIndexOccurrences{Tabelle}
 \CountIndexOccurrences{OggettiMagici}
 \def\TotalBox#1{\vfill%
-\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
+	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
 \makeindex[columns=4, title=Indice Analitico, intoc=true]
 \makeindex[columns=3, name=Tabelle, title=Lista delle Tabelle, intoc=true]
 \makeindex[columns=4, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
@@ -75,140 +67,102 @@
 \fancyhead[RE,LO]{}
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-
-
+\usepackage{GoudyIn}
 \fancypagestyle{plain}{%
-%% Clear all headers and footers
-\fancyhf{}
-%% Right headers on odd pages
-\fancyhead[RO]{%
-\rotatebox{90}{
-\begin{tikzpicture}[overlay,remember picture]
-\node[fill=lightgray,text=black,
-font=\footnotesize,
-inner ysep=12pt, inner xsep=20pt,
-rounded rectangle,anchor=east,minimum width=7cm,
-xshift=-60mm,yshift=-21mm, text height=0.4cm]
-at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
-{\sffamily\itshape\small\nouppercase{\leftmark}};
-\end{tikzpicture}
-}
-}
-%% Left headers on even pages
-\fancyhead[LE]{%
-\rotatebox{90}{
-\begin{tikzpicture}[overlay,remember picture]
-\node[fill=lightgray,text=black,
-font=\footnotesize,
-inner ysep=12pt, inner xsep=20pt,
-rounded rectangle,anchor=east,minimum width=7cm,
-xshift=-60mm,yshift=-4mm, text height=0.4cm]
-at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
-{\sffamily\itshape\small\nouppercase{\leftmark}};
-\end{tikzpicture}
-}
-}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
+	%% Clear all headers and footers
+	\fancyhf{}
+	%% Right headers on odd pages
+	\fancyhead[RO]{%
+		\rotatebox{90}{
+			\begin{tikzpicture}[overlay,remember picture]
+				\node[fill=lightgray,text=black,
+				font=\footnotesize,
+				inner ysep=12pt, inner xsep=20pt,
+				rounded rectangle,anchor=east,minimum width=7cm,
+				xshift=-60mm,yshift=-21mm, text height=0.4cm]
+				at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
+				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\end{tikzpicture}
+		}
+	}
+	%% Left headers on even pages
+	\fancyhead[LE]{%
+		\rotatebox{90}{
+			\begin{tikzpicture}[overlay,remember picture]
+				\node[fill=lightgray,text=black,
+				font=\footnotesize,
+				inner ysep=12pt, inner xsep=20pt,
+				rounded rectangle,anchor=east,minimum width=7cm,
+				xshift=-60mm,yshift=-4mm, text height=0.4cm]
+				at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
+				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\end{tikzpicture}
+	} }
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
 }
 \pagestyle{plain}
-\fancyfoot[C]{\thepage}
+\fancyfoot[C]{\thepage} 
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 \usepackage{xltabular}
-\usepackage{tabularx}
+\usepackage{tabularx} 
 \usepackage{pdfpages}
 \usepackage{hyperref}
-\usepackage{tikz}
 \usepackage[absolute,overlay]{textpos}
 \usepackage{etoolbox}
 \usepackage{soul}
 \raggedbottom
 \usepackage{array}
-
+\usepackage{longtable} 
 \newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{D}[1]{>{\centering}m{#1}}
 \newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
-\titleformat{\section}{\filcenter\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
-\titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
-\titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
 \setcounter{tocdepth}{3}
 \newtcolorbox{narratore}{
-enhanced, % enable advanced settings
-%left = 3mm,
-%width=0.45\textwidth,
-left = 9mm, % pushes text away from the left edge by 10mm
-sharp corners, % disables rounded corners
-rounded corners = southeast, % "round" the bottom right corner
-arc is angular, % make the "round" corner an angle
-arc = 3mm, % controls corner cut
-boxrule=0.6pt, % sets box line thickness
-underlay={%
-\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
-\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
-\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
-},
-drop fuzzy shadow }
+	enhanced, % enable advanced settings
+	%left = 3mm,
+	%width=0.45\textwidth,
+	left = 9mm, % pushes text away from the left edge by 10mm
+	sharp corners, % disables rounded corners
+	rounded corners = southeast, % "round" the bottom right corner
+	arc is angular, % make the "round" corner an angle
+	arc = 3mm, % controls corner cut
+	boxrule=0.6pt, % sets box line thickness
+	underlay={%
+		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
+		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+	},
+	drop fuzzy shadow }
 
 \newtcolorbox{enfasi}{
-enhanced,
-arc=5pt,
-boxrule=0.3pt
+	enhanced,
+	arc=5pt,
+	boxrule=0.3pt
 }
 
 \usepackage{zref-savepos,graphicx}
 \newcommand{\filltopageendgraphics}[2][]{%\filltopageendgraphics[width=.5\linewidth]{image-a}
-\par
-\zsaveposy{top-\thepage}% Mark (baseline of) top of image
-\vfill
-\zsaveposy{bottom-\thepage}% Mark (baseline of) bottom of image
-\smash{\includegraphics[keepaspectratio=true,height=\dimexpr\zposy{top-\thepage}sp-\zposy{bottom-\thepage}sp\relax,#1]{#2}}%
-\par
+	\par
+	\zsaveposy{top-\thepage}% Mark (baseline of) top of image
+	\vfill
+	\zsaveposy{bottom-\thepage}% Mark (baseline of) bottom of image
+	\smash{\includegraphics[keepaspectratio=true,height=\dimexpr\zposy{top-\thepage}sp-\zposy{bottom-\thepage}sp\relax,#1]{#2}}%
+	\par
 }
-
+\usepackage{listings}
 \usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
-\newcommand\Yuge{\fontsize{42}{50}\selectfont}
-\usepackage{accanthis}
 \usepackage[framemethod=TikZ]{mdframed}
+%\usepackage{garamondx} %\usepackage{tgpagella}%\usepackage{lmodern} %\usepackage{gentium}
+\usepackage{charter}
 
 
-\begin{document}
-\def \versione {0.89a} \fontsize{10}{12}\selectfont
+\begin{document} 
+\def \versione {0.99} \fontsize{10}{12}\selectfont
 
-\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{OPTIONS}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
-
-\newcommand\invisiblesection[1]{%
-\refstepcounter{section}%
-\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}%
-\sectionmark{#1}}
-
-%Define centered and automatically spaced columns for tabularx.
-\newcolumntype{Q}{>{\centering\arraybackslash}X}
-
-%Define left-aligned wrapping and automatically spaced columns for tabularx.
-\newcolumntype{L}{>{\raggedright\arraybackslash}X}
-
-%Define left-aligned wrapping columns for tabular.
-\newcolumntype{h}{>{\raggedright\arraybackslash}p}
-
-\newcommand{\riga}{\rule{\textwidth}{0.4pt}}
-
-\bigskip
-Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni\\
-
-Mai rinunciare ai tuoi desideri, persevera fino ad renderli reali.
-
-\vspace{\fill}
-\begin{center}\textbf{\versione} - \today\end{center}
-\thispagestyle{empty}
-
-
-\newpage~\thispagestyle{empty}%%\newpage~\thispagestyle{empty}
-
-
-\pagebreak
 
 {\Huge \begin{center} Old Bell School System \end{center}}
 
@@ -280,15 +234,6 @@ Mai rinunciare ai tuoi desideri, persevera fino ad renderli reali.
 "Sì, ma viva." (Victor Hugo)}
 \end{tcolorbox}\end{changemargin}\medskip
 
-\smallskip
-
-\begin{multicols}{2}
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{B}{envenuti} nel manuale di opzioni e regolamenti aggiuntivi di OBSS.
-
-\end{multicols}
-
-\pagebreak
-
 \subsection{Opzionale - Reputazione e Fama}\index{Reputazione}\index{Fama}\index{Opzionale - Reputazione e Fama}
 
 
@@ -309,14 +254,14 @@ Se si riesce ad acquisire una reputazione forte o notevole, si potrebbe essere l
 
 La Fama aumenta e diminuisce in base alle proprie azioni. La Fama attuale determina la reputazione complessiva, la Sfera di Notorietà definisce i luoghi in cui si possono applicare i benefici della reputazione.
 
-\end{multicols}
+
 
 \textbf{Tabella: come acquisire punti Fama}\index[Tabelle]{Tabella come acquisire punti Fama}
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lX}
-\textbf{Eventi}&\textbf{Mod. Fama}\\
+\noindent\begin{tabularx}{0.48\textwidth}{Xl}
+\textbf{Eventi}&\textbf{Mod.}\\
 \toprule
 \textbf{Eventi Positivi}&\\
 Acquisire un tesoro notevole da un degno avversario&+1\\
@@ -337,7 +282,11 @@ Superare una prova pubblica di Intimidire con DC 30 o più (devono esserci testi
 Superare una prova pubblica di Intrattenere con DC 30 o più (devono esserci testimoni)&+2\\
 Completare un'avventura con una difficoltà adeguato al proprio livello&+3\\
 Ottenere un titolo formale (lady, lord, cavaliere e così via)&+3\\
-Sconfiggere un rivale chiave (della campagna) in combattimento&+5\\
+Sconfiggere un rivale chiave (della campagna) in combattimento&+5
+\end{tabularx}
+\noindent\begin{tabularx}{0.48\textwidth}{Xl}
+	\textbf{Eventi}&\textbf{Mod.}\\
+	\toprule
 \textbf{Eventi Negativi}&\\
 Essere condannato per un crimine lieve&-1\\
 Accompagnarsi a una persona disdicevole&-18\\
@@ -350,9 +299,6 @@ Essere condannato per omicidio&-8\\
 Essere condannato per tradimento&-10\\
 \end{tabularx}
 
-\bigskip
-
-\begin{multicols}{2}
 
 \subsubsection{Fama}
 
@@ -453,7 +399,7 @@ Se si ha una Fama negativa, i PNG non malvagi spesso avranno reazioni maldispost
 \vfill
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.55\textwidth]{immagini/Eastern_Story_Teller_1878.png}
+\includegraphics[keepaspectratio,width=0.45\textwidth]{immagini/Eastern_Story_Teller_1878.png}
 
 \emph{Le leggende vengono raccontate. Travelers in the Middle East Archive, Wilhelm Gentz}
 \end{center}
@@ -2077,19 +2023,17 @@ Inoltre, se conosci la natura e i contenuti di un semipiano creato dal lancio di
 
 \pagebreak
 
-\subsection{I Piani}
-
-\begin{multicols}{2}
-
 \section{I Piani}\index{I Piani}\label{ipiani}
 
-\lettrine[lines=2, lhang=0.33, loversize=0.25, findent=1.5em]{A}{nche} se avventure infinite vi attendono sulla Terra, ci sono altri mondi oltre questo, altri continenti, altri pianeti, altre galassie. Tuttavia anche oltre l'esistenza di innumerevoli pianeti esistono altri mondi, dimensioni completamente differenti dalla realtà, conosciuti come piani di esistenza. Viaggiare tra un Piano e l'altro è complesso e ognuno ha le sue regole.
+Anche se avventure infinite vi attendono sulla Terra, ci sono altri mondi oltre questo, altri continenti, altri pianeti, altre galassie. Tuttavia anche oltre l'esistenza di innumerevoli pianeti esistono altri mondi, dimensioni completamente differenti dalla realtà, conosciuti come piani di esistenza. Viaggiare tra un Piano e l'altro è complesso e ognuno ha le sue regole.
 
 Sebbene il numero di piani sia limitato solo dall'immaginazione, essi possono ricondursi tutti a cinque tipi generali: il Piano Materiale, i Piani di Transizione, i Piani Energetici, i Piani Esterni e gli innumerevoli semipiani.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore} %box narratore
-Coerentemente con l'ambientazione di OBSS i Piani non dovrebbero essere raggiungibili. Lynx non lo permette. La Terrà è stata sigillata. Il Narratore decide il livello di isolamento.
+		Coerentemente con l'ambientazione di OBSS i Piani non dovrebbero essere raggiungibili. Lynx non lo permette. La Terrà è stata sigillata. Il Narratore decide il livello di isolamento.
 \end{narratore}\end{changemargin}
+
+\begin{multicols}{2}
 
 \subsection{Cos'è un Piano?}
 
@@ -2101,15 +2045,15 @@ Per praticità, e solo per aiutare la limitata mente umana, si immagina la Terra
 
 \emph{Piani di Transizione}\index{Piandi di Transiazione}: Questi piani hanno un importante elemento in comune: sono tutti coesistenti agli altri Piani e servono a viaggiare tra realtà in sovrapposizione. Questi piani sono fortemente interconnessi col Piano Materiale, ed è possibile accedervi usando numerosi incantesimi. Sono dotati anche essi di abitanti nativi. Qui di seguito sono descritti alcuni Piani di Transizione.
 
-\begin{itemize}[leftmargin=*]
-\item
-\emph{Piano Astrale}\index{Piano Astrale}: E' il vuoto tra i piani, un Piano argenteo che connette il Piano Materiale ai Piani Energetici ed ai Piani Esterni, il Piano Astrale è il mezzo attraverso cui le anime dei defunti giungono all'aldilà. Un viaggiatore nel Piano Astrale vede il piano come un infinito vuoto periodicamente punteggiato da minuscoli sprazzi di realtà fisica distaccatisi dagli innumerevoli piani sovrapposti. Incantatori potenti utilizzano il Piano Astrale per una breve frazione di secondo quando si teletrasportano, o possono usarlo per viaggiare tra i piani.
-
-\item
-\emph{Piano Etereo}\index{Piano Etereo}: Il Piano Etereo è una dimensione nebulosa e nascosta sovrapposta col Piano Materiale e il Piano delle Ombre. I viaggiatori che attraversano il Piano Etereo sperimentano il mondo reale come fosse insonstanziale e si possono muovere tra gli oggetti solidi senza essere visti nel mondo reale. Creature bizzarre abitano il Piano Etereo, così come fantasmi e sogni, molte delle quali possono a volte estendere la loro influenza nel mondo reale in modi misteriosi e terrificanti. Incantatori potenti utilizzano il Piano Etereo con incantesimi come Forma Eterea, Intermittenza.
-
-\item
-\emph{Piano delle Ombre}\index{Piano delle Ombre}: Il misterioso e mortale Piano delle Ombre è una versione grigia e priva di colori del Piano Materiale. Si sovrappone al Piano Materiale ed è per molti versi un riflesso distorto e perverso del Piano Materiale, infuso di energia negativa (vedi Piani Energetici) e abitato da terribili mostri come ombre o creature ancora peggiori. Incantatori potenti utilizzano il Piano delle Ombre per percorrere rapidamente immense distanze sul Piano Materiale.
+\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+	\item
+	\emph{Piano Astrale}\index{Piano Astrale}: E' il vuoto tra i piani, un Piano argenteo che connette il Piano Materiale ai Piani Energetici ed ai Piani Esterni, il Piano Astrale è il mezzo attraverso cui le anime dei defunti giungono all'aldilà. Un viaggiatore nel Piano Astrale vede il piano come un infinito vuoto periodicamente punteggiato da minuscoli sprazzi di realtà fisica distaccatisi dagli innumerevoli piani sovrapposti. Incantatori potenti utilizzano il Piano Astrale per una breve frazione di secondo quando si teletrasportano, o possono usarlo per viaggiare tra i piani.
+	
+	\item
+	\emph{Piano Etereo}\index{Piano Etereo}: Il Piano Etereo è una dimensione nebulosa e nascosta sovrapposta col Piano Materiale e il Piano delle Ombre. I viaggiatori che attraversano il Piano Etereo sperimentano il mondo reale come fosse insonstanziale e si possono muovere tra gli oggetti solidi senza essere visti nel mondo reale. Creature bizzarre abitano il Piano Etereo, così come fantasmi e sogni, molte delle quali possono a volte estendere la loro influenza nel mondo reale in modi misteriosi e terrificanti. Incantatori potenti utilizzano il Piano Etereo con incantesimi come Forma Eterea, Intermittenza.
+	
+	\item
+	\emph{Piano delle Ombre}\index{Piano delle Ombre}: Il misterioso e mortale Piano delle Ombre è una versione grigia e priva di colori del Piano Materiale. Si sovrappone al Piano Materiale ed è per molti versi un riflesso distorto e perverso del Piano Materiale, infuso di energia negativa (vedi Piani Energetici) e abitato da terribili mostri come ombre o creature ancora peggiori. Incantatori potenti utilizzano il Piano delle Ombre per percorrere rapidamente immense distanze sul Piano Materiale.
 \end{itemize}
 
 \medskip
@@ -2118,13 +2062,13 @@ Per praticità, e solo per aiutare la limitata mente umana, si immagina la Terra
 
 \medskip
 
-\begin{itemize}[leftmargin=*]
-\item
-Piani Elementali\index{Piani Elementali}: I quattro classici Piani Interni sono Piano dell'Acqua, Piano dell'Aria, Piano del Fuoco e Piano della Terra. Da questi piani provengono le creature note come elementali, ma sono abitati anche da altre bizzarre creature, come geni, xorn, mephit e persecutori invisibili.
-
-\item
-Piani di Energia\index{Piani di Energia}: Esistono due piani di energia, Il Piano dell'Energia Positiva (da cui provengono le scintille vitali) ed il Piano dell'Energia Negativa (da cui proviene la corruzione della non morte). L'energia di entrambi i piani è infusa nella realtà, ed il flusso di questa energia scorre in tutte le creature dalla nascita alla morte. I Devoti utilizzano il potere di questi due piani quando Incanalano Energia Positiva o Negativa. Per quanto sia facile pensare che Ljust sia del Piano dell'Energia Positiva e Calicante del Piano dell'Energia Negativa, così non è essendo entrambi un unica fonte di energia che trascende i Piani.
-
+\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+	\item
+	Piani Elementali\index{Piani Elementali}: I quattro classici Piani Interni sono Piano dell'Acqua, Piano dell'Aria, Piano del Fuoco e Piano della Terra. Da questi piani provengono le creature note come elementali, ma sono abitati anche da altre bizzarre creature, come geni, xorn, mephit e persecutori invisibili.
+	
+	\item
+	Piani di Energia\index{Piani di Energia}: Esistono due piani di energia, Il Piano dell'Energia Positiva (da cui provengono le scintille vitali) ed il Piano dell'Energia Negativa (da cui proviene la corruzione della non morte). L'energia di entrambi i piani è infusa nella realtà, ed il flusso di questa energia scorre in tutte le creature dalla nascita alla morte. I Devoti utilizzano il potere di questi due piani quando Incanalano Energia Positiva o Negativa. Per quanto sia facile pensare che Ljust sia del Piano dell'Energia Positiva e Calicante del Piano dell'Energia Negativa, così non è essendo entrambi un unica fonte di energia che trascende i Piani.
+	
 \end{itemize}
 
 %\medskip
@@ -2135,7 +2079,7 @@ Piani di Energia\index{Piani di Energia}: Esistono due piani di energia, Il Pian
 %\begin{center}
 %\includegraphics[width=0.96\linewidth]{immagini/mappaplanare3.png}\\
 %\medskip
-%\emph{Mappa Planare. Concessa in licenza dall'autore.\\  https://www.reddit.com/r/ImaginaryGolarion/comments/97rog0/pathfinder\_map\_to\_the\_planes}
+%\emph{Mappa Planare. Concessa in licenza dall'autore.\\https://www.reddit.com/r/ImaginaryGolarion/comments/97rog0/pathfinder\_map\_to\_the\_planes}
 %\end{center}
 %\pagebreak
 
@@ -2165,13 +2109,30 @@ Ogni piano di esistenza ha le sue peculiarità; le leggi naturali del suo univer
 
 \emph{Caratteristiche Fisiche}
 
-Le due più importanti leggi naturali determinate dai tratti fisici riguardano la funzione della gravità e del tempo. Altre caratteristiche fisiche riguardano la grandezza e la forma di un piano ed il modo con cui si possa alterarne la natura.\\
+Le due più importanti leggi naturali determinate dai tratti fisici riguardano la funzione della gravità e del tempo. Altre caratteristiche fisiche riguardano la grandezza e la forma di un piano ed il modo con cui si possa alterarne la natura.
 
-\textbf{Gravità}\\
+\medskip
 
-La direzione di attrazione gravitazionale può essere inusuale, e potrebbe addirittura cambiare direzioni all'interno dello stesso piano.\\
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/ancientwell.png}
+	
+	\medskip
+	
+	\emph{Antico pozzo e portale}
+\end{center}
 
-\textbf{Tempo}\\
+
+\textbf{Gravità}
+
+\medskip
+
+La direzione di attrazione gravitazionale può essere inusuale, e potrebbe addirittura cambiare direzioni all'interno dello stesso piano.
+
+\medskip
+
+\textbf{Tempo}
+
+\medskip
 
 Il ritmo con cui trascorre il tempo può variare nei diversi piani, sebbene rimanga costante all'interno di un qualunque piano specifico. Il tempo è sempre soggettivo per lo spettatore. La stessa soggettività si applica ai vari piani. I viaggiatori potrebbero scoprire che stanno guadagnando o perdendo tempo muovendosi tra i piani, ma dal loro punto di vista il tempo trascorre in modo naturale.
 
@@ -2183,10 +2144,13 @@ Il ritmo con cui trascorre il tempo può variare nei diversi piani, sebbene rima
 \emph{Tempo Fluente}: Su alcuni piani, il flusso temporale è considerevolmente più veloce o più lento. Qualcuno potrebbe viaggiare verso un altro piano, trascorrervi un anno e poi ritornare al Piano Materiale per scoprire che sono passati soltanto 6 secondi. Qualsiasi cosa del piano in cui si è tornati ha vissuto appena qualche secondo in più. Per il viaggiatore e gli oggetti, gli incantesimi e gli effetti in funzione su di lui, quell'anno di lontananza è stato completamente reale. Quando progettate il funzionamento del tempo su piani con tempo fluente, pensate per prima al flusso temporale del Piano Materiale, dopodiché al flusso presente nell'altro piano.
 
 
-\emph{Assenza di Tempo}: Sui piani che presentano questa caratteristica il tempo trascorre ma i suoi effetti sono limitati. Il modo in cui l'assenza di tempo influenza determinate attività e condizioni quali la fame, la sete, l'invecchiamento, gli effetti del veleno e la guarigione varia da piano a piano. Il pericolo di un piano con assenza di tempo è che quando un individuo abbandona tale piano per giungere in un altro dove il tempo scorre normalmente, condizioni come la fame e l'invecchiamento si verificano con effetto retroattivo. Se un piano ha assenza di tempo in relazione alla magia, qualsiasi incantesimo lanciato con durata non istantanea diviene permanente finché dissolto.\\
+\emph{Assenza di Tempo}: Sui piani che presentano questa caratteristica il tempo trascorre ma i suoi effetti sono limitati. Il modo in cui l'assenza di tempo influenza determinate attività e condizioni quali la fame, la sete, l'invecchiamento, gli effetti del veleno e la guarigione varia da piano a piano. Il pericolo di un piano con assenza di tempo è che quando un individuo abbandona tale piano per giungere in un altro dove il tempo scorre normalmente, condizioni come la fame e l'invecchiamento si verificano con effetto retroattivo. Se un piano ha assenza di tempo in relazione alla magia, qualsiasi incantesimo lanciato con durata non istantanea diviene permanente finché dissolto.
 
+\medskip
 
-\textbf{Caratteristiche Elementali ed Energetiche}\\
+\textbf{Caratteristiche Elementali ed Energetiche}
+
+\medskip
 
 Quattro elementi base e due tipologie di energia si combinano per plasmare ogni cosa; gli elementi sono acqua, aria, fuoco e terra; le tipologie di energia sono positiva e negativa. Il Piano Materiale rispecchia un bilanciamento di questi elementi ed energie: in esso è possibile trovarle tutte. Ognuno dei Piani Interni è dominato da un elemento o tipologia di energia. Molti piani non hanno alcuna caratteristica elementale o energetica; tali caratteristiche vengono specificate nella descrizione di un piano solo se presenti.
 
@@ -2194,7 +2158,7 @@ Quattro elementi base e due tipologie di energia si combinano per plasmare ogni 
 
 \emph{Aria Dominante}: Costituiti essenzialmente da spazio aperto, i piani con questa caratteristica ospitano giusto qualche pezzo di pietra fluttuante o di altro materiale solido. Di solito sono caratterizzati da atmosfera respirabile, sebbene un piano simile potrebbe presentare nubi di gas acido o tossico. Le creature del Sottotipo Terra si trovano a disagio sui piani con aria dominante vista la scarsa quantità o assenza di terra naturale con cui entrare in contatto. Tuttavia, esse non subiscono alcun danno effettivo.
 
-\emph{Terra Dominante}: I piani con questa caratteristica sono per lo più solidi. I viaggiatori che vi giungono sono a rischio di soffocamento a meno che non raggiungano una caverna o un altro anfratto. Peggio ancora, gli individui che non possiedono la capacità di Scavare restano intrappolati sotto terra e devono scavare da sè una via d'uscita (1 metro per round).
+\emph{Terra Dominante}: I piani con questa caratteristica sono per lo più solidi. I viaggiatori che vi giungono sono a rischio di soffocamento a meno che non raggiungano una caverna o un altro anfratto. Peggio ancora, gli individui che non possiedono la capacità di Scavare restano intrappolati sotto terra e devono scavare da sé una via d'uscita (1 metro per round).
 Le creature del Sottotipo Aria si trovano a disagio sui piani con terra dominante visto che li considerano angusti e claustrofobici, ma a parte avere difficoltà nei movimenti non incappano in altri inconvenienti.
 
 \emph{Fuoco Dominante}: I piani con questa caratteristica sono costituiti da fiamme che bruciano continuamente senza esaurire la loro fonte di alimentazione. I piani con fuoco dominante sono estremamente ostili per le creature del Piano Materiale, e coloro che non hanno Resistenza o Immunità al fuoco vengono inceneriti in poco tempo. Legno, carta, stoffa senza protezione ed altri materiali infiammabili prendono fuoco quasi istantaneamente, così come coloro che indossano vestiario non protetto ed infiammabile. In aggiunta, gli individui subiscono 3d10 danni da fuoco per ogni round in cui restano in un piano con fuoco dominante. Le creature del Sottotipo Acqua si trovano estremamente a disagio sui piani con fuoco dominante. Tali creature, costituite d'acqua, subiscono il doppio del danno ogni round.
@@ -2204,35 +2168,47 @@ Le creature del Sottotipo Aria si trovano a disagio sui piani con terra dominant
 I secondi sono persino più pericolosi. Ogni round, coloro che ne sono all'interno devono effettuare un Tiro Salvezza su Tempra con DC 25 i Punti Ferita massimi calano di 6 se muore in questa maniera diventa un Wraith. L'incantesimo Interdizione alla Morte protegge il viaggiatore dal danno e dal risucchio d'energia di un piano con energia negativa dominante.
 
 \emph{Energia Positiva Dominante}: L'abbondanza di vita contraddistingue i piani che presentano questa caratteristica. Come per i piani con energia negativa dominante, anche i piani con energia positiva dominante possono essere minori e superiori.
-Un piano con energia positiva dominante minore è una tumultuosa esplosione di vita in tutte le sue forme. I colori sono più luminosi, i fuochi più caldi, i rumori più forti e le sensazioni più intense grazie all'energia positiva diffusa nel piano. Tutti gli individui in un piano con energia positiva dominante rigenerano 2 Punti Ferita a round.\\
+Un piano con energia positiva dominante minore è una tumultuosa esplosione di vita in tutte le sue forme. I colori sono più luminosi, i fuochi più caldi, i rumori più forti e le sensazioni più intense grazie all'energia positiva diffusa nel piano. Tutti gli individui in un piano con energia positiva dominante rigenerano 2 Punti Ferita a round.
 
-\textbf{Tratti}\\
+\medskip
+
+\textbf{Tratti}
+
+\medskip
 
 Alcuni piani hanno una predisposizione verso uno specifico insieme di Tratti. Gli abitanti di questi piani condividono per lo più tale insieme di Tratti o parte di questi. L'insieme di Tratti di un piano ne influenza le interazioni sociali. I personaggi che hanno dei Tratti diversi da quelli della maggior parte degli abitanti potrebbero avere delle difficoltà quando si confrontano con i nativi e le situazioni del piano. I Tratti hanno molteplici componenti. Prima di tutto ci sono le componenti morali ed etiche. In secondo luogo potrebbe esserci una specifica indicazione se questo insieme di Tratti si manifesta in maniera moderata o in modo più marcato. Molti piani non hanno Tratti; quest'ultimi sono specificati nella descrizione di un piano solo se presenti
 
-In linea di massima i piani elementali, astrale ed etereo non hanno alcun Tratto.\\
+In linea di massima i piani elementali, astrale ed etereo non hanno alcun Tratto.
 
-\addvspace{2cm}
+\medskip
 
-\textbf{Caratteristiche Magiche}\\
+\textbf{Caratteristiche Magiche}
 
-Le caratteristiche magiche di un piano definisce la magia su quel piano rispetto al Piano Materiale. In luoghi particolari di un piano (come quelli sotto il diretto controllo delle divinità) potrebbero applicarsi una diversa caratteristica magica.
+\medskip
 
-\emph{Magia Normale}: Questa caratteristica magica implica che tutti gli incantesimi e le capacità soprannaturali agiscano come da descrizione. A meno che non sia diversamente descritto, un piano si presume che abbia il tratto magia normale.\\
+Le caratteristiche magiche di un piano definisce la magia su quel piano rispetto al Piano Materiale. In luoghi particolari di un piano (come quelli sotto il diretto controllo dei Patroni) potrebbero applicarsi una diversa caratteristica magica.
 
-\emph{Magia Morta}: Contraddistingue i piani dove la magia non esiste affatto. Un piano con la caratteristica magia morta funziona sotto tutti gli aspetti come un Campo Antimagia. Gli incantesimi di Divinazione non possono individuare qualcuno che si trovi in un piano di magia morta, né un incantatore può utilizzare l'incantesimo Teletrasporto per muoversi dentro e fuori di esso. L'unica eccezione alla regola assenza di magia è rappresentata dai portali planari permanenti, che funzionano comunque normalmente.\\
+\emph{Magia Normale}: Questa caratteristica magica implica che tutti gli incantesimi e le capacità soprannaturali agiscano \emph{normalmente}. A meno che non sia diversamente descritto, un piano si presume che abbia il tratto magia normale.
 
-\emph{Magia Potenziata}: Sui piani con questa caratteristica magica particolari incantesimi e capacità magiche sono più facili da usare o producono effetti più potenti rispetto a come operano nel Piano Materiale. I nativi di un piano sono consapevoli di quali incantesimi e capacità magiche siano potenziate, ma i viaggiatori planari potrebbero scoprirlo di loro iniziativa. Se un incantesimo è potenziato, esso funziona come se avesse fatto un critico magico nella Prova di Magia.\\
+\medskip
 
-\emph{Magia Ostacolata}: Particolari incantesimi e capacità magiche sono più difficili da utilizzare sui piani con questa caratteristica, spesso perché la natura del piano li ostacola. Per lanciare un incantesimo ostacolato deve ottenere un critico nella Prova di Magia. Se la prova fallisce, l'incantesimo non ha effetto ma viene comunque sprecato. Se la prova riesce, l'incantesimo ha effetto normalmente.\\
+\emph{Magia Morta}: Contraddistingue i piani dove la magia non esiste affatto. Un piano con la caratteristica magia morta funziona sotto tutti gli aspetti come un Campo Antimagia. Gli incantesimi di Divinazione non possono individuare qualcuno che si trovi in un piano di magia morta, né un incantatore può utilizzare l'incantesimo Teletrasporto per muoversi dentro e fuori di esso. L'unica eccezione alla regola assenza di magia è rappresentata dai portali planari permanenti, che funzionano comunque normalmente.
 
-\emph{Magia Limitata}: I piani con questa caratteristica consentono il solo uso di incantesimi e capacità magiche che soddisfino particolari requisiti. La magia può essere limitata nei suoi effetti da determinate scuole o sottoscuole, da effetti con certi descrittori o da effetti di un dato livello (o da qualsiasi combinazione di questi aspetti). Gli incantesimi e le capacità magiche che non soddisfano i requisiti semplicemente non hanno effetto.\\
+\medskip
+
+\emph{Magia Potenziata}: Sui piani con questa caratteristica magica particolari incantesimi e capacità magiche sono più facili da usare o producono effetti più potenti rispetto a come operano nel Piano Materiale. I nativi di un piano sono consapevoli di quali incantesimi e capacità magiche siano potenziate, ma i viaggiatori planari potrebbero scoprirlo di loro iniziativa. Se un incantesimo è potenziato, esso funziona come se avesse fatto un critico magico nella Prova di Magia.
+
+\medskip
+
+\emph{Magia Ostacolata}: Particolari incantesimi e capacità magiche sono più difficili da utilizzare sui piani con questa caratteristica, spesso perché la natura del piano li ostacola. Per lanciare un incantesimo ostacolato deve ottenere un critico nella Prova di Magia. Se la prova fallisce, l'incantesimo non ha effetto ma viene comunque sprecato. Se la prova riesce, l'incantesimo ha effetto normalmente.
+
+\medskip
+
+\emph{Magia Limitata}: I piani con questa caratteristica consentono il solo uso di incantesimi e capacità magiche che soddisfino particolari requisiti. La magia può essere limitata nei suoi effetti da determinate scuole o sottoscuole, da effetti con certi descrittori o da effetti di un dato livello (o da qualsiasi combinazione di questi aspetti). Gli incantesimi e le capacità magiche che non soddisfano i requisiti semplicemente non hanno effetto.
 
 \emph{Magia Selvaggia}: Su un piano con la caratteristica di magia selvaggia, incantesimi e capacità magiche funzionano in modo totalmente diverso e a volte pericoloso. C'è la possibilità che qualsiasi incantesimo o capacità magica utilizzata su un piano di magia selvaggia non abbia effetto. Quando l'incantatore lancia una magia deve effettuare due prove se anche solo una fallisce comporta che accada qualcosa di insolito; tirate un d100 e consultate la
 
-%\addvspace{3cm}
-
-%\end{multicols}
+\medskip
 
 \textbf{Tabella: Effetti della Magia Selvaggia}\index[Tabelle]{Tabella Effetti della Magia Selvaggia}
 
@@ -2240,37 +2216,45 @@ Le caratteristiche magiche di un piano definisce la magia su quel piano rispetto
 
 %\begin{xltabular}{0.95\textwidth}{lX}
 \noindent\begin{tabularx}{0.5\textwidth}{lX}
-d100&Effetto\\
-\toprule
-01-19&L'incantesimo rimbalza sull'incantatore con effetto normale. Se l'incantesimo non può influenzare l'incantatore, non produce alcun effetto.\\
-20-23&Una fossa circolare del diametro di 3 metri si apre sotto i piedi dell'incantatore; la sua profondità è di 3 metri per Competenza Magica dell'incantatore.\\
-24-27&L'incantesimo non ha effetto, ma il bersaglio o i bersagli di quest'ultimo vengono colpiti da una pioggia di piccoli oggetti (qualsiasi cosa, dai fiori alla frutta rancida), che scompaiono non appena hanno colpito. L'attacco continua per 1 round. Durante questo periodo i bersagli sono Accecati e devono effettuare una Prova di Magia per lanciare incantesimi.\\
-28-31&L'incantesimo colpisce un bersaglio o un'area casuale. Scegliete in modo casuale un bersaglio differente fra quelli entro il raggio d'azione dell'incantesimo o centrate quest'ultimo in un luogo a caso che rientri in tale raggio d'azione. Per generare casualmente la direzione, tirate 1d8 e contate in senso orario, partendo da sud. Per generare casualmente il raggio d'azione tirate 3d6. Moltiplicate il risultato per 1 metro per gli incantesimi a corto raggio, 6 metri per quelli a medio raggio e 24 metri per quelli a lungo raggio.\\
-32-35&L'incantesimo funziona normalmente, ma qualsiasi componente materiale non viene consumata e non vengono usati Punti Magia. Allo stesso modo, un oggetto non perde cariche e l'effetto non influenza il limite di utilizzo di un oggetto o di una capacità magica.\\
-36-39&L'incantesimo non ha effetto. Invece, qualcuno (amico o nemico) entro 9 metri dall'incantatore riceve l'effetto di un incantesimo Guarigione.\\
-40-43&L'incantesimo non ha effetto. Invece, degli effetti di Oscurità Profonda e Silenzio coprono un raggio di 9 metri attorno all'incantatore per 2d4 round.\\
-44-47&L'incantesimo non ha effetto. Invece, un effetto di Inversione della Gravità copre un raggio di 9 metri attorno all'incantatore per 1 round.\\
-48-51&L'incantesimo ha effetto, ma dei colori scintillanti turbinano attorno all'incantatore per 1d4 round. Considerate quest'area come un effetto di Polvere Luccicante con un Tiro Salvezza con DC 10 + il livello dell'incantesimo che ha generato tale risultato.\\
+	d100&Effetto\\
+	\toprule
+	01-19&L'incantesimo prende come obiettivo l'incantatore. Se l'incantesimo non può influenzare l'incantatore, non produce alcun effetto.\\
+	20-23&Una fossa circolare del diametro di 3 metri si apre sotto i piedi dell'incantatore; la sua profondità è di 3 metri per Competenza Magica dell'incantatore. Tiro Salvezza Riflessi DC come per lo stesso incantesimo.\\
+	24-27&L'incantesimo non ha effetto, ma il bersaglio o i bersagli di quest'ultimo vengono colpiti da una pioggia di piccoli oggetti (qualsiasi cosa, dai fiori alla frutta rancida), che scompaiono non appena hanno colpito. L'attacco continua per 1 round. Durante questo periodo i bersagli sono Accecati e devono effettuare una Prova di Magia per lanciare incantesimi.\\
+	28-31&L'incantesimo colpisce un bersaglio o un'area casuale.\\
+	32-35&L'incantesimo funziona normalmente e non vengono consumati Punti Magia o componenti. Se manifestato da un oggetto questo non perde cariche.\\
+	36-39&L'incantesimo non ha effetto. Invece, qualcuno (amico o nemico) entro 9 metri dall'incantatore riceve l'effetto di un incantesimo Guarigione.
 \end{tabularx}
 \noindent\begin{tabularx}{0.5\textwidth}{lX}
-52-59&Non accade nulla. L'incantesimo non ha effetto. Qualsiasi componente materiale viene utilizzata. L'incantesimo o lo slot incantesimo viene utilizzato, un oggetto perde cariche e l'effetto influenza il limite di utilizzo di un oggetto o di una capacità magica.\\
-60-71&Non accade nulla. L'incantesimo non ha effetto. Qualsiasi componente materiale non viene utilizzata. L'incantesimo non scompare dalla mente dell'incantatore (uno slot incantesimo o un incantesimo preparato possono ancora essere utilizzati). Un oggetto non perde cariche e l'effetto non influenza il limite di utilizzo di un oggetto o di una capacità magica.\\
-72-98&L'incantesimo ha effetto normalmente.\\
-99-100&L'incantesimo ha effetto potenziato. La Prova di Magia genera automaticamente un critico\\
+	40-43&L'incantesimo non ha effetto. Invece, degli effetti di Oscurità e Silenzio coprono un raggio di 9 metri attorno all'incantatore per 2d4 round.\\
+	44-47&L'incantesimo non ha effetto. Invece, un effetto di Inversione della Gravità copre un raggio di 9 metri attorno all'incantatore per 1 round.\\
+	48-51&L'incantesimo ha effetto, ma dei colori scintillanti turbinano attorno all'incantatore per 1d4 round. Considerate quest'area come un effetto di Polvere Luccicante con un Tiro Salvezza con DC 10 + il livello dell'incantesimo che ha generato tale risultato.\\
+	52-59&Non accade nulla. L'incantesimo non ha effetto. Qualsiasi componente materiale viene utilizzata, i Punti Magia spesi, le cariche usate in caso di oggetto.\\
+	60-71&L'incantesimo non ha effetto. Invece, qualcuno (amico o nemico) entro 9 metri dall'incantatore riceve l'effetto di un incantesimo Ingrandire o Ridurre (casuale)\\
+	72-98&L'incantesimo ha effetto normalmente.\\
+	99-100&L'incantesimo ha effetto potenziato. La Prova di Magia genera automaticamente un critico
 \end{tabularx}
 
 %\addvspace{2cm}
 
 %\begin{multicols}{2}
 
+\subsection{Elenco dei Piani noti}
+
 \subsubsection{Piano Materiale}\index{Piano Materiale}\label{pianomateriale}
-Il Piano Materiale è alla base delle definizioni di piani e definisce cosa può considerarsi normale. Si tratta del piano su cui si focalizzano gran parte delle campagne.\\
-Il Piano Materiale presenta i seguenti tratti:\\
-\emph{Gravità Normale}\\
-\emph{Tempo Normale}\\
-\emph{Nessun Tratto Elementale o Energetico}: Tuttavia, luoghi specifici potrebbero presentare tali tratti.\\
-\emph{Moderatamente Neutrale}: Anche se in alcuni punti potrebbe presentare elevate concentrazioni di Tratti di tipo male o bene, legge o caos.\\
-Magia Normale\\
+Il Piano Materiale è alla base delle definizioni di piani e definisce cosa può considerarsi normale. Si tratta del piano su cui si focalizzano gran parte delle campagne.
+
+Il Piano Materiale presenta i seguenti tratti:
+
+\noindent\emph{Gravità Normale}
+
+\noindent\emph{Tempo Normale}
+
+\noindent\emph{Nessun Tratto Elementale o Energetico}: Tuttavia, luoghi specifici potrebbero presentare tali tratti.
+
+\noindent\emph{Moderatamente Neutrale}: Anche se in alcuni punti potrebbe presentare elevate concentrazioni di Tratti di tipo male o bene, legge o caos.
+
+\noindent\emph{Magia Normale}
 
 \subsubsection{Piano delle Ombre}\index{Piano delle Ombre}\label{pianoombre}
 Il Piano delle Ombre è una dimensione poco illuminata che allo stesso tempo coincide e coesiste con il Piano Materiale. Si sovrappone al Piano Materiale tanto quanto al Piano Etereo, per cui il viaggiatore planare può sfruttare il Piano delle Ombre per coprire grandi distanze rapidamente. Il Piano delle Ombre è un mondo in bianco e nero privo di colori. Nonostante l'assenza di fonti luminose, alcune piante, animali e umanoidi, considerano il Piano delle Ombre come loro dimora.
@@ -2279,12 +2263,11 @@ Il Piano delle Ombre presenta le seguenti caratteristiche:
 
 \emph{Geografia imperfetta}: Parti del Piano delle Ombre fluiscono continuamente verso altri piani. Dunque, nonostante la presenza di punti di riferimento, creare una mappa precisa del piano è quasi impossibile.
 
-\emph{Tratti}: Indisciplinato, Libero, Indeciso, Vendicativo, Pessimista
-
 \emph{Magia Potenziata}: Gli incantesimi che lavorano con l'ombra vengono potenziati sul Piano delle Ombre. Nonostante la natura oscura del Piano delle Ombre, gli incantesimi che generano, utilizzano o manipolano l'oscurità non vengono influenzati dal piano.
 
 \emph{Magia Ostacolata}: Gli incantesimi di luce o che utilizzino o generino luce o fuoco vengono ostacolati sul Piano delle Ombre. Gli incantesimi che generano luce sono meno efficaci in generale, dal momento che su questo piano tutte le fonti luminose hanno raggio d'azione dimezzato.
 
+E' il Piano di Tazher.
 
 \subsubsection{Piano dell'Energia Negativa}\index{Piano dell'Energia Negativa}\label{pianoenergianegativa}
 Per un osservatore c'è ben poco da vedere sul Piano dell'Energia Negativa. È un luogo buio e vuoto, una tomba infinita in cui il viaggiatore potrebbe precipitare finché il piano non abbia cancellato luce e vita. Il Piano dell'Energia Negativa è il più ostile fra i Piani Interni, il più indifferente ed intollerante nei confronti della vita. Soltanto le creature immuni ai suoi effetti di risucchio possono sopravvivere qui.
@@ -2299,21 +2282,23 @@ Nelle zone di Energia Negativa Dominante Inferiore le creature che non siano non
 
 \emph{Magia Ostacolata}: Incantesimi e capacità magiche che utilizzano l'energia positiva (inclusi gli incantesimi di guarigione) vengono ostacolati. I personaggi su questo piano devono superare con un Critico Magico la Prova di Magia per lanciare incantesimi che curano o rimuovono effetti negativi.
 
+E' il Piano Sixiser.
 
 \subsubsection{Piano dell'Energia Positiva}\index{Piano dell'Energia Positiva}\label{pianoenergiapositiva}
-Il Piano dell'Energia Positiva non ha superfici ed è simile al Piano dell'Aria con il suo spazio totalmente aperto. Tuttavia, ogni angolo di questo piano è illuminato vivacemente da una potenza innata. Tale potere è pericoloso per le forme mortali, non predisposte a subirlo. Nonostante gli effetti benefici è uno dei Piani Interni più ostili. Un personaggio sprovvisto di difese, traboccherà di potenza non appena l'energia positiva viene convogliata su di lui. Ma, visto che la sua forma mortale non è in grado di contenere tale potere, verrà incenerito. Le visite al Piano dell'Energia Positiva sono di breve durata, ed anche in tal caso i viaggiatori devono essere adeguatamente protetti.
+Il Piano dell'Energia Positiva non ha superfici ed è simile al Piano dell'Aria con il suo spazio totalmente aperto. Tuttavia, ogni angolo di questo piano è illuminato vivacemente da una potenza innata. Tale potere è pericoloso per le forme mortali nonostante gli effetti benefici è uno dei Piani Interni più ostili. Un personaggio sprovvisto di difese, traboccherà di potenza non appena l'energia positiva viene convogliata su di lui, eppure, visto che la sua forma mortale non è in grado di contenere tale potere, verrà incenerito.
+
 Il Piano dell'Energia Positiva presenta le seguenti caratteristiche:
 
-\emph{Energia Positiva Dominante Superiore}: Ogni 10 round si subisce l'effetto dell'incantesimo Ristorare Superiore. Si rigenerano 10 Punti Ferita a round, una volta al massimo dei Punti Ferita si guadagnano 10 Punti Ferita a round temporanei, quando i Punti Ferita temporanei arrivano al doppio dei Punti Ferita massimi la creature esplode in energia colorata.
-
-Nelle zone di energia positiva dominante minori si subisce l'effetto dell'incantesimo Ristorare inferiore ogni 10 round. Si rigenerano 2 Punti Ferita a round, una volta al massimo si prendono 2 Punti Ferita a round temporanei, quando i Punti Ferita temporanei arrivano al doppio dei Punti Ferita massimi la creature esplode in energia colorata.
+\emph{Energia Positiva Dominante}: Ogni 10 round si subisce l'effetto dell'incantesimo Ristorare Superiore. Si rigenerano 10 Punti Ferita a round, una volta al massimo dei Punti Ferita si guadagnano 10 Punti Ferita a round temporanei, quando i Punti Ferita temporanei arrivano al doppio dei Punti Ferita massimi la creature esplode in energia colorata.
 
 \emph{Magia Potenziata}: Incantesimi e capacità magiche che usano l'energia positiva vengono potenziati. Le Abilità che sfruttano l'energia positiva, come Incanalare Energia positiva, ottengono bonus +4 alla DC per resistere alla capacità.
 
 \emph{Magia Ostacolata}: Incantesimi e capacità magiche che utilizzano l'energia negativa (inclusi gli incantesimi infliggi) vengono ostacolati.
 
+E' il Piano di Sumkjr.
+
 \subsubsection{Piano Elementale dell'Acqua}\index{Piano Elementale dell'Acqua}\label{pianoacqua}
-Il Piano dell’Acqua è un vasto mare senza fondo né superficie, un ambiente liquido illuminato da una luce diffusa. È uno dei Piani Interni più accoglienti, una volta superato il problema di respirare sott’acqua. Gli infiniti oceani di questo piano variano dal freddo gelido al caldo incandescente e dall’acqua salata all’acqua dolce. Gli insediamenti permanenti si formano attorno a relitti sospesi in questo fluido infinito, alla deriva con le maree.
+Il Piano dell'Acqua è un vasto mare senza fondo, un ambiente liquido illuminato da una luce diffusa. È uno dei Piani Interni più accoglienti, una volta superato il problema di respirare sott'acqua. Gli infiniti oceani di questo piano variano dal freddo gelido al caldo incandescente e dall'acqua salata all'acqua dolce. Gli insediamenti permanenti si formano attorno a relitti sospesi in questo liquido infinito, alla deriva con le maree.
 
 Il Piano dell'Acqua presenta le seguenti caratteristiche:
 
@@ -2323,9 +2308,11 @@ Il Piano dell'Acqua presenta le seguenti caratteristiche:
 
 \emph{Magia Ostacolata}: Incantesimi e capacità magiche che usano incantesimi o effetti della Lista Elementale del Fuoco o Esterni del Sottotipo Fuoco vengono ostacolati.
 
+E' il Piano di Gaya
 
 \subsubsection{Piano Elementale dell'Aria}\index{Piano Elementale dell'Aria}\label{pianoaria}
-Il Piano dell’Aria è uno spazio vuoto, composto esclusivamente di cielo in ogni direzione. È il più confortevole e abitabile tra i piani interni, ospitando una vasta gamma di creature dell’aria. Le creature volanti, in particolare, traggono grandi benefici da questo piano. Anche se i viaggiatori possono sopravvivere qui senza la capacità di volare, sono comunque in una posizione di svantaggio.
+Il Piano dell'Aria è uno spazio vuoto, composto esclusivamente di cielo in ogni direzione. È il più confortevole e abitabile tra i piani interni, ospitando una vasta gamma di creature dell'aria. Le creature volanti, in particolare, traggono grandi benefici da questo piano. Anche se i viaggiatori possono sopravvivere qui senza la capacità di volare, sono comunque in una posizione di svantaggio.
+
 Il Piano dell'Aria presenta le seguenti caratteristiche:
 
 \emph{Aria Dominante}
@@ -2334,10 +2321,10 @@ Il Piano dell'Aria presenta le seguenti caratteristiche:
 
 \emph{Magia Ostacolata}: Incantesimi e capacità magiche che usano incantesimi o effetti della Lista Elementale dell'Aria o Esterni del Sottotipo Aria vengono ostacolati.
 
+E' il Piano di Erondil.
 
 \subsubsection{Piano Elementale del Fuoco}\index{Piano Elementale del Fuoco}\label{pianofuoco}
-Sul Piano del Fuoco, tutto è perennemente illuminato. Il suolo è formato da vasti e mutevoli strati di fuoco compresso. L’aria è agitata dal calore delle continue piogge di fuoco, e il liquido più comune è il magma. Gli oceani sono fatti di fiamma liquida e le montagne eruttano lava fusa. Qui, il fuoco brucia senza bisogno di combustibile o aria, ma qualsiasi materiale infiammabile introdotto nel piano viene consumato rapidamente.
-
+Sul Piano del Fuoco, tutto è perennemente illuminato. Il suolo è formato da vasti e mutevoli strati di fuoco compresso. L'aria è agitata dal calore delle continue piogge di fuoco, e il liquido più comune è il magma. Gli oceani sono fatti di fiamma liquida e le montagne eruttano lava fusa. Qui, il fuoco brucia senza bisogno di combustibile o aria, ma qualsiasi materiale infiammabile introdotto nel piano viene consumato rapidamente.
 
 Il Piano del Fuoco presenta le seguenti caratteristiche:
 
@@ -2345,15 +2332,14 @@ Il Piano del Fuoco presenta le seguenti caratteristiche:
 
 \emph{Fuoco Dominante Superiore}: Ogni round si subisce 10 Punti Ferita di danno da fuoco non resistibili se non si è immuni al fuoco.
 
-\emph{Fuoco Dominante Inferiore}: Ogni round si subisce 2 Punti Ferita di danno da fuoco.
-
 \emph{Magia Potenziata}: Incantesimi e capacità magiche che usano incantesimi o effetti della Lista Elementale del Fuoco o Esterni del Fuoco vengono potenziati.
 
 \emph{Magia Ostacolata}: Incantesimi e capacità magiche che usano incantesimi o effetti della Lista Elementale dell'Acqua o Esterni del Sottotipo Acqua vengono ostacolati.
 
+E' il Piano di Gaya.
+
 \subsubsection{Piano Elementale della Terra}\index{Piano Elementale della Terra}\label{pianoterra}
 Il Piano della Terra è un luogo solido costituito da terra e pietra. Un viaggiatore imprudente potrebbe ritrovarsi sepolto da questa vasta massa solida, con i suoi resti polverizzati a fare da monito per chiunque osi seguirlo. Nonostante la sua natura solida e rigida, il Piano della Terra presenta una consistenza variabile, che va dal terreno soffice a vene di metallo più duro e prezioso.
-
 
 Il Piano della Terra presenta le seguenti caratteristiche:
 
@@ -2363,9 +2349,10 @@ Il Piano della Terra presenta le seguenti caratteristiche:
 
 \emph{Magia Ostacolata}: Incantesimi e capacità magiche che usano incantesimi o effetti della Lista Elementale della Aria o Esterni del Sottotipo Aria vengono ostacolati.
 
-\subsubsection{Piano Etereo}\index{Piano Etereo}\label{pianoetereo}
-Il Piano Etereo coesiste con il Piano Materiale e spesso anche con altri piani. Dal Piano Etereo, il Piano Materiale è visibile, ma appare silenzioso e indistinto, con colori sfumati e confini sfocati. Sebbene sia possibile vedere il Piano Materiale dal Piano Etereo, quest’ultimo è generalmente invisibile a chi si trova sul Piano Materiale. Normalmente, le creature del Piano Etereo non possono attaccare quelle del Piano Materiale e viceversa. Un viaggiatore sul Piano Etereo è invisibile, incorporeo e completamente silenzioso per chi si trova sul Piano Materiale.
+E' il Piano di Erondil.
 
+\subsubsection{Piano Etereo}\index{Piano Etereo}\label{pianoetereo}
+Il Piano Etereo coesiste con il Piano Materiale e spesso anche con altri piani. Dal Piano Etereo, il Piano Materiale è visibile, ma appare silenzioso e indistinto, con colori sfumati e confini sfocati. Sebbene sia possibile vedere il Piano Materiale dal Piano Etereo, quest'ultimo è generalmente invisibile a chi si trova sul Piano Materiale. Normalmente, le creature del Piano Etereo non possono attaccare quelle del Piano Materiale e viceversa. Un viaggiatore sul Piano Etereo è invisibile, incorporeo e completamente silenzioso per chi si trova sul Piano Materiale.
 
 Il Piano Etereo presenta le seguenti caratteristiche:
 
@@ -2375,6 +2362,7 @@ Il Piano Etereo presenta le seguenti caratteristiche:
 
 Nessun attacco magico passa dal Piano Etereo al Piano Materiale, compresi gli attacchi di forza.
 
+E' il Piano di Nihar.
 
 \subsubsection{Piano Astrale}\index{Piano Astrale}\label{pianoastrale}
 Il Piano Astrale è il luogo che collega tutti i piani di esistenza. Quando un personaggio attraversa un portale o proietta il proprio spirito su un altro piano, viaggia attraverso il Piano Astrale. Anche gli incantesimi che permettono il movimento istantaneo tra i piani coinvolgono brevemente il Piano Astrale. Questo piano è una vasta distesa infinita di cielo argenteo e limpido, sia sopra che sotto. Qui si possono trovare occasionalmente frammenti di materia solida, ma per la maggior parte il Piano Astrale è uno spazio aperto e sconfinato.
@@ -2385,82 +2373,76 @@ Il Piano Astrale presenta le seguenti caratteristiche:
 
 \emph{Magia Potenziata}: Tutti gli incantesimi e le capacità magiche usate nel Piano Astrale hanno velocità di 1 Azione. Gli incantesimi e le capacità magiche già velocizzati non vengono influenzati, così come gli incantesimi degli oggetti magici. Gli incantesimi velocizzati in tal modo sono comunque preparati e lanciati al loro livello originario.
 
+E' il Piano di Nethergal.
+
 \subsubsection{Vacuus}\index{Piano Vacuus}\label{pianovuoto}
-Il piano del Vuoto. Distese desolate sotto un cielo putrido, Vacuus è avvolto da una nera nebbia nauseante e dall’opprimente crepuscolo di un’eclissi solare senza fine. Il mortale Stige nasce in Vacuus, prima di immettersi come un serpente contorto negli altri piani. Vacuus è uno dei Piani Esterni più ostili: regno dei Caridion, immondi di male puro indifferenti al conflitto tra legge e caos, che rappresentano l’oblio e la distruzione. I Cariddion, governati da quattro Arcicariddion con poteri simili a patroni, sono temuti come divoratori di anime.
+Il piano del Vuoto. Distese desolate sotto un cielo putrido, Vacuus è avvolto da una nera nebbia nauseante e dall'opprimente crepuscolo di un'eclissi solare senza fine. Il mortale Stige nasce in Vacuus, prima di immettersi come un serpente contorto negli altri piani. Vacuus è uno dei Piani Esterni più ostili coloro che anelano la distruzione di qualunque cosa.
 
 Vacuus presenta le seguenti caratteristiche:
-
-\emph{Tratti}: Distruttivo, Implacabile, Incontentabile, Irrazionale, Iracondo, Sadico
 
 \emph{Magia Potenziata}: Gli incantesimi e le capacità magiche malvagie vengono potenziati.
 
 \emph{Magia Ostacolata}: Gli incantesimi e le capacità magiche benevole bene vengono ostacolati.
 
+E' il Piano di Orudjs.
+
 \subsubsection{Abisso}\index{Piano dell'Abisso}\label{pianoabisso}
-L’Abisso, un piano multi-strato, è formato da giganteschi canyon e gole che si spalancano nel tessuto dei Piani Esterni ed è delimitato dalle nefaste acque del Fiume Stige. Gli infiniti strati dell’Abisso, confinanti con tutti i Piani Esterni, sono collegati l’un l’altro da sentieri in costante spostamento. Nell’Abisso non ci sono regole, leggi, ordine o speranza. L’Abisso rappresenta la corruzione della libertà, un regno da incubo di orrore assoluto dove il desiderio e la sofferenza assumono forma demoniaca, terra di proliferazione di innumerevoli razze di Demoni, tra gli esseri più antichi di tutto il creato. Si racconta che, se mai l’essere allo strato più profondo decidesse di svegliarsi, tutti i piani cesserebbero di esistere.
+L'Abisso, un piano multi-strato, è formato da giganteschi canyon e gole che si spalancano nel tessuto dei Piani Esterni ed è delimitato dalle nefaste acque del Fiume Stige. Gli infiniti strati dell'Abisso, confinanti con tutti i Piani Esterni, sono collegati l'un l'altro da sentieri in costante spostamento. Nell'Abisso non ci sono regole, leggi, ordine o speranza. L'Abisso rappresenta la corruzione della libertà, un regno da incubo di orrore assoluto dove il desiderio e la sofferenza assumono forma demoniaca, terra di proliferazione di innumerevoli razze di Demoni, tra gli esseri più antichi di tutto il creato. Si racconta che, se mai l'essere allo strato più profondo decidesse di svegliarsi, tutti i piani cesserebbero di esistere.
 
 L'Abisso presenta le seguenti caratteristiche:
-
-\emph{Tratti}: Anarchico, Vendicativo, Permaloso, Arrogante, Doppiogiochista
-
-\emph{Fortemente Caotico e Fortemente Malvagio}
 
 \emph{Magia Potenziata}: Gli incantesimi e le capacità magiche caotiche o malvagie vengono potenziati.
 
 \emph{Magia Ostacolata}: Gli incantesimi e le capacità magiche legali o buone vengono ostacolati.
 
+E' il Piano di Cattalm.
 
 \subsubsection{Eliseo}\index{Piano dell'Eliseo}\label{pianoeliseo}
-Una vasta terra di natura incontaminata e selvaggia, l’Eliseo è il piano del caos benevolo, della libertà e dell’indipendenza, personificati nei nativi Yazata. Nell’Eliseo, la cooperazione disinteressata e la feroce competizione si scontrano violentemente, ma tali conflitti non mettono mai in ombra i nobili concetti di coraggio, creatività e bene non ostacolati da regole o leggi.
+Una vasta terra di natura incontaminata e selvaggia, l'Eliseo è il piano del caos benevolo, della libertà e dell'indipendenza, personificati nei nativi Yazata. Nell'Eliseo, la cooperazione disinteressata e la feroce competizione si scontrano violentemente, ma tali conflitti non mettono mai in ombra i nobili concetti di coraggio, creatività e bene non ostacolati da regole o leggi.
 
 Eliseo presenta le seguenti caratteristiche:
-
-\emph{Tratti}: Buono, Caritatevole, Anarchico, Innovativo, Competitivo
 
 \emph{Magia Potenziata}: Gli incantesimi e le capacità magiche caotiche o buone vengono potenziati.
 
 \emph{Magia Ostacolata}: Gli incantesimi e le capacità magiche legali o malvagie vengono ostacolati.
 
+E' il Piano di Efrem.
 
 \subsubsection{Inferno}\index{Piano dell'Inferno}\label{pianoinferno}
-I nove strati dell’Inferno formano un labirinto strutturato di male premeditato, dove il tormento va di pari passo con la purificazione. Pianure di città di ferro, desolazioni in fiamme, ghiacciai congelati e picchi vulcanici infiniti: l’Inferno è suddiviso in nove strati concentrici, ciascuno sotto il crudele dominio di un arcidiavolo. Tortura, angoscia e sofferenza sono inevitabili nell’Inferno, ma sono impartite metodicamente, non per dispetto o capriccio, e supportano un disegno pianificato sotto i vigili sguardi dei disciplinati ranghi dei Diavoli minori dell’Inferno. I nove strati dell’Inferno sono, dal primo all’ultimo: Averno, Dite, Erebo, Flegetonte, Stigia, Malebolge, Cocito, Caina e Nessus.
+I nove strati dell'Inferno formano un labirinto strutturato di male premeditato, dove il tormento va di pari passo con la purificazione. Pianure di città di ferro, desolazioni in fiamme, ghiacciai congelati e picchi vulcanici infiniti: l'Inferno è suddiviso in nove strati concentrici, ciascuno sotto il crudele dominio di un arcidiavolo. Tortura, angoscia e sofferenza sono inevitabili nell'Inferno, ma sono impartite metodicamente, non per dispetto o capriccio, e supportano un disegno pianificato sotto i vigili sguardi dei disciplinati ranghi dei Diavoli minori dell'Inferno. I nove strati dell'Inferno sono, dal primo all'ultimo: Averno, Dite, Erebo, Flegetonte, Stigia, Malebolge, Cocito, Caina e Nessus.
 
 L'Inferno presenta le seguenti caratteristiche:
-
-\emph{Tratti}: Malvagio, Disciplinato, Iracondo, Sadico, Arrogante
-
-\emph{Fortemente Legale e Fortemente Malvagio}
 
 \emph{Magia Potenziata}: Gli incantesimi e le capacità magiche legali o malvagie vengono potenziati.
 
 \emph{Magia Ostacolata}: Gli incantesimi e le capacità magiche caotiche o buone vengono ostacolati.
 
+E' il Piano di Rezh.
+
 \subsubsection{Nirvana}\index{Piano del Nirvana}\label{pianonirvana}
-Il Nirvana è un paradiso imparziale situato tra i due estremi di Eliseo e Paradiso. Le sue splendide montagne, colline e fitte foreste rispondono alle aspettative di un paradiso pastorale da parte dei viaggiatori, ma il Nirvana contiene anche misteri che conducono all’illuminazione. È un santuario e un luogo di riposo per tutti coloro che cercano redenzione o illuminazione. Gli Agathos, nativi del Nirvana, hanno volontariamente rinunciato alla propria trascendenza per custodire gli enigmi del piano, mentre i celestiali combattono le forze del male presenti tra i piani.
+Il Nirvana è un paradiso imparziale situato tra i due estremi di Eliseo e Paradiso. Le sue splendide montagne, colline e fitte foreste rispondono alle aspettative di un paradiso pastorale da parte dei viaggiatori, ma il Nirvana contiene anche misteri che conducono all'illuminazione. È un santuario e un luogo di riposo per tutti coloro che cercano redenzione o illuminazione. Gli Agathos, nativi del Nirvana, hanno volontariamente rinunciato alla propria trascendenza per custodire gli enigmi del piano, mentre i celestiali combattono le forze del male presenti tra i piani.
 
-il Nirvana presenta le seguenti caratteristiche:
-
-\emph{Tratti}: Buono, Gentile, Calmo, Semplice, Sicuro
+Il Nirvana presenta le seguenti caratteristiche:
 
 \emph{Magia Potenziata}: Incantesimi e capacità magiche buone vengono potenziati.
 
 \emph{Magia Ostacolata}: Incantesimi e capacità magiche malvagie vengono ostacolati.
 
+E' il Piano di Laydel.
 
 \subsubsection{Paradiso}\index{Piano del Paradiso}\label{pianoparadiso}
 Il Piano del Paradiso è un regno ordinato di onore e compassione, suddiviso in sette strati. I pendii del Paradiso sono costellati di città ben strutturate e ordinate, oltre a giardini e frutteti puliti e curati. Sebbene gli Arconti del Paradiso abbiano iniziato le loro esistenze come mortali, vedono la legge e il bene come due metà inscindibili dello stesso sommo concetto e si oppongono alle corruzioni cosmiche del caos e del male.
 
 Il Paradiso presenta le seguenti caratteristiche:
 
-\emph{Tratti}: Buono, Rigido, Combattivo, Pratico. Sincero, Valoroso
-
 \emph{Magia Potenziata}: Gli incantesimi e le capacità magiche legali o buone vengono potenziati.
 
 \emph{Magia Ostacolata}: Gli incantesimi e le capacità magiche caotiche o malvagie vengono ostacolati.
 
+E' il Piano di Atherim.
 
 \subsubsection{Purgatorio}\index{Piano del Purgatorio}\label{pianopurgatorio}
-Ogni anima passa attraverso il Purgatorio per essere giudicata prima di raggiungere la sua destinazione finale. Vasti cimiteri e terre desolate riempiono le sue cupe distese, insieme a polverosi e riecheggianti tribunali destinati al giudizio dei defunti. Il Purgatorio è la dimora degli Egoni, una razza che incarna la dualistica natura dell’esistenza, i cui membri sono costantemente in guerra e in pace tra loro e con se stessi.
+Ogni anima passa attraverso il Purgatorio per essere giudicata prima di raggiungere la sua destinazione finale. Vasti cimiteri e terre desolate riempiono le sue cupe distese, insieme a polverosi e riecheggianti tribunali destinati al giudizio dei defunti. Il Purgatorio è la dimora degli Egoni, una razza che incarna la dualistica natura dell'esistenza, i cui membri sono costantemente in guerra e in pace tra loro e con se stessi.
 
 Il Purgatorio presenta le seguenti caratteristiche:
 
@@ -2468,18 +2450,18 @@ Il Purgatorio presenta le seguenti caratteristiche:
 
 \emph{Magia Potenziata}: Incantesimi e capacità magiche che riguardano la morte o riposo vengono potenziati.
 
+E' il Piano di Gradh.
 
 \subsubsection{Utopia}\index{Piano dell'Utopia}\label{pianoutopia}
-Utopia è un baluardo dell’ordine, in netto contrasto con l’anarchia e le infinite orde demoniache dell’Abisso. È una vasta città di perfezione eterna, dove strade ed edifici rappresentano modelli di architettura ed estetica: tutto è in ordine e nulla avviene per caso. Sebbene Utopia non sia governata da alcuna razza specifica, gli Ordinax vi risiedono, impegnandosi costantemente nell’espansione della loro città perfetta.
+Utopia è un baluardo dell'ordine, in netto contrasto con l'anarchia e le infinite orde demoniache dell'Abisso. È una vasta città di perfezione eterna, dove strade ed edifici rappresentano modelli di architettura ed estetica: tutto è in ordine e nulla avviene per caso. Sebbene Utopia non sia governata da alcuna razza specifica, gli Ordinax vi risiedono, impegnandosi costantemente nell'espansione della loro città perfetta.
 
 Utopia presenta le seguenti caratteristiche:
-
-\emph{Tratti}: Rigido, Disciplinato, Serio, Diretto, Freddo
 
 \emph{Magia Potenziata}: Gli incantesimi e le capacità magiche legali vengono potenziati.
 
 \emph{Magia Ostacolata}: Gli incantesimi e le capacità magiche caotiche vengono ostacolati.
 
+E' il Piano di Thaft.
 
 \subsubsection{Piano della Genesi}\index{Piano della Genesi}\label{pianogenesi}
 
@@ -2487,8 +2469,22 @@ La tradizione narra che i Patroni della Genesi siano su un piano ai confini di t
 
 Nessuno può arrivare al Piano della Genesi, se mai esistesse, senza un esplicito invito di Calicante, Ljust o Atmos. Il piano è altresì vietato anche ai Patroni tranne che a Lynx.
 
+Se mai i personaggi riuscissero ad arrivera alla sede della Frenten troverebbero le due fiamme divine di Calicante ed Ljust, da dove entrare nel loro Piano.
 
 \end{multicols}
+
+\vfill
+
+\begin{center}
+\includegraphics[width=0.75\linewidth]{immagini/trex.png}
+
+\emph{A Tyrannosaurus rex skeleton (the specimen RTMP 81.6.1) at the California Academy of Sciences in San Francisco, California.}
+
+\emph{(Tirannosauro, scheletro, GS 12!)}
+\end{center}
+
+
+
 
 \pagebreak
 
@@ -2555,14 +2551,15 @@ tralasciamo le parti descrittive e concentriamoci sui numeri e valori.
 
 \textbf{Conversione dalla 5e} del famoso Gioco di Ruolo:
 
-- Impostate la Difesa come 10+GS+(GS/5)+Destrezza
+- Impostate la Difesa come 11+GS+(GS/5)+Destrezza+$pm4$
 
-- Tiri Salvezza come GS+(GS/4)+caratteristiche
+- Tiri Salvezza come GS+(GS/4)+Caratteristica+$pm2$
 
-- Punti Ferita come (GS+(GS/4))*15. 
+- Punti Ferita come (GS+(GS/5))*15+$pm2$ 
+
+- Tiro per Colpire come GS+(GS/4)+Caratteristica+$pm2$
 
 Arrotondate il GS per eccesso nei computi
-
 
 \pagebreak
 
