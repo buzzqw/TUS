@@ -814,6 +814,10 @@ aggiornata versione POD 2025/02/12
 
 0.99.39 chiarimenti lessicali, aaggiornate abilita' - Ali della Fenice rimosso bonus TC+2 per attacchi da lontano, Colpo Mortale fa 2 critici e non 3, Colpo Paralizzante puo' essere fatto ad una creatura entro 2 taglie oltre la tua, specificato che la riduzione del danno (DR) non funziona con sanguinamento, aggiornata difesa e pf mostri, aggiornati effetti critici dei mostri
 
+aggiornata versione POD 2025/02/14
+
+0.99.40
+
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
