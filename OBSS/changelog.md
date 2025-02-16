@@ -816,7 +816,7 @@ aggiornata versione POD 2025/02/12
 
 aggiornata versione POD 2025/02/14
 
-0.99.40 aggiornati Difesa PF e TS elementali generici, inclusi suggerimenti per convertire mostri dalla 5e, rimosso capitolo piani e spostato in OBSS-options, aggiornati TS mostri, aggiornato costo razioni secche, layout, avvio controllo difesa
+0.99.40 aggiornati Difesa PF e TS elementali generici, inclusi suggerimenti per convertire mostri dalla 5e, rimosso capitolo piani e spostato in OBSS-options, aggiornati TS mostri, aggiornato costo razioni secche, layout, avvio controllo difesa, corretto hobgoblin-fustigatore, aggiornati Tiri per colpire mostri, 
 
 
 > valutare:
