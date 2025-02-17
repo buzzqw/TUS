@@ -1392,7 +1392,7 @@ I Punti Ferita rappresentano l'energia vitale del personaggio ma anche l'abilit�
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item Ogni personaggio parte con 8 Punti Ferita al primo livello + il punteggio della Costituzione.
 
-\item Ad ogni livello, oltre il primo, guadagna 1d6 Punti Ferita + il punteggio della Costituzione. Se il tiro di dado è 1, può prendere come risultato 3.\index{Punti Ferita minimi}
+\item Ad ogni livello, oltre il primo, guadagna 1d6 Punti Ferita + il punteggio della Costituzione. Se il tiro di dado è inferiore a Costituzione, può prendere come risultato il valore di Costituzione.\index{Punti Ferita minimi}
 
 \item Ogni punto preso in Competenza Armi aumenta i Punti Ferita presi di 3. Ulteriori Abilità possono aumentare i Punti Ferita.
 \end{itemize}
@@ -1409,7 +1409,7 @@ I \textbf{Punti Ferita si recuperano} in diversi modi:\index{Recupero Punti Feri
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 
-\item per ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione * CA o CM, a scelta del personaggio, con un minimo di PF pari a CA+CM \index{Recupero PF dormendo}
+\item per ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione*Livello, con un minimo di PF pari a Livello. \index{Recupero PF dormendo}
 
 \item tramite magie curative (incantesimi, pozioni.. o altri effetti magici)
 
@@ -1452,10 +1452,10 @@ Usare i Punti Fato non costa Azioni e può essere usato per:
 \item ritirare 1d6 nelle prove di cui sopra. 2 Punti Fato
 \item negare un Tiro Critico d'arma subito. 1 Punto Fato
 \item usando 2 Punti Fato a disposizione è possibile ritirare una prova, accettando solo il nuovo risultato ottenuto.
-\item usando un Punto Fato puoi migliorare di un grado una prova (Fallimento Critico/Fallimento/Successo/Successo Critico).
+\item usando un Punto Fato puoi migliorare di un grado una prova fallita (Fallimento Critico -> Fallimento)
 \item usando un Punto Fato puoi fare ritirare un Tiro Salvezza ad un obiettivo.
 \item usando tutti i Punti Fato a disposizione si può tornare a 0 Punti Ferita.
-\item recuperare 3 Punti Ferita anche se sono negativi. 1 Punto Fato
+\item diminuire di 3 i danni subiti da un attacco. 1 Punto Fato
 \end{itemize}
 
 \subsection*{Opzionale - Punti Caos}\index{Opzionale - Punti Caos}
@@ -2099,7 +2099,7 @@ Ogni qual volta il Narratore ti conferma il passaggio di livello sono da compier
 \item Aggiornate i Punti Esperienza
 \item Aggiornare il Livello aumentandolo di 1
 \item Distribuite 1 punto tra Competenza Armi e Competenza Magica
-\item Aumentate i Punti Ferita di 1d6+Costituzione ed aggiungetene altri 3 se avete dato 1 punto in Competenza Armi
+\item Aumentate i Punti Ferita massimi ed attuali di 1d6+Costituzione ed aggiungetene altri 3 se avete dato 1 punto in Competenza Armi
 \item Se avete assegnato un punto in Competenza Armi stabilite se prendete una nuova \hyperlink{lista.armi}{Lista d'Armi} o approfondite la conoscenza di una lista già appresa
 \item Controllate se acquisite una nuova Abilità. Potete prenderne una nuova oppure migliorare una Abilità già appresa, state attenti ai prerequisiti. Vedi \hyperlink{abilita}{Abilità} (pag. \pageref{abilita}).
 \item Aggiornate il punteggio dei Tiri Salvezza in base alle nuove Abilità prese.
@@ -2612,7 +2612,7 @@ Un eventuale prova sulla \textbf{Professione} viene fatta con 3d6+Saggezza+metà
 
 Se il personaggio ha Punti Ferita negativi, è morente, la prova di Pronto Soccorso, 3 Azioni, a difficoltà 12 più il valore dei Punti Ferita negativi porterà il personaggio a 0 Punti Ferita, ovvero svenuto. Ogni volta successiva che il personaggio torna sotto 0 Punti Ferita la difficoltà della prova di Pronto Soccorso aumenta di 2.
 
-Una prova riuscita (DC 15) fa recuperare 1d4 Punti Ferita \textbf{dopo uno scontro} o concede un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Da fare entro 1 Turno dal termine del combattimento. Costo \textbf{2 minuti}. Con punteggio 6 costa 1 minuto. Con punteggio 12 costa 3 round, con punteggio 18 costa 1 round.
+Una prova riuscita (DC 15) fa recuperare 1d4 Punti Ferita \textbf{dopo uno scontro} o concede un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Da fare entro 1 Turno dal termine del combattimento. Costo \textbf{2 minuti}. Con punteggio 6 costa 1 minuto e recuperi 1d4+4 PF. Con punteggio 12 costa 3 round e recuperi 2d4+8 PF, con punteggio 18 costa 1 round e recuperi 3d4+12 PF.
 
 Una prova riuscita (base DC 12) riduce di 1 i danni da \hyperlink{sanguinamento}{\textbf{Sanguinamento}}. Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 2. Costo \textbf{2 Azioni}. Un trattamento di 1 minuto garantisce 1 successo, senza prova. Ogni prova riuscita con successo critico riduce il sanguinamento di un punto ulteriore.
 
@@ -5371,15 +5371,15 @@ La \textbf{quarta volta} che prendi questa Abilità, requisito Animalia preso 4 
 
 \ability{Figlio Unico}{figliounico}{Costituzione 0}{+1 Tempra, +1 Volontà}{Modificatore di caratteristica per incantesimi o Saggezza}
 
-La \textbf{prima volta} che prendi questa Abilità scegli due Trucchetti da una Lista Magica. Puoi lanciare questi due Trucchetti senza Prova di Magia anche se sei essere Distratto o con limitazioni d'armatura.
+La \textbf{prima volta} che prendi questa Abilità scegli una Lista Magica e due Trucchetti da questa lista. Puoi lanciare questi due Trucchetti senza Prova di Magia anche se sei essere Distratto o con limitazioni d'armatura.
 
-Le volte successive che prendi questa Abilità devi individuare un Patrono che abbia nelle Liste Privilegiate la Lista di Magia che hai individuato precedentemente.
+Le volte successive che prendi questa Abilità puoi individuare un Patrono che abbia nelle Liste Privilegiate la Lista di Magia che hai individuato precedentemente.
 
 La \textbf{seconda volta} che prendi questa Abilità individua altri due Trucchetti, o se sei un Seguace o Devoto scegli un incantesimo di primo livello dalla Lista Privilegiata del Patrono. Requisito Tratto in comune a punteggio 3.
 
 La \textbf{terza volta} che prendi questa Abilità individua altri due Trucchetti, o se sei un Devoto scegli un incantesimo di secondo livello od inferiore dalla Lista Privilegiata del Patrono. Requisito Tratto in comune a punteggio 5.
 
-La \textbf{quarta volta} che prendi questa Abilità individua altri due Trucchetti, o se sei un Devoto scegli un incantesimo di terzo livello od inferiore dalla Lista Privilegiata del Patrono. Requisito Tratto in comune a punteggio 7.
+La \textbf{quarta volta} che prendi questa Abilità individua altri due Trucchetti, o se sei un Devoto scegli un incantesimo di terzo livello od inferiore dalla Lista Privilegiata del Patrono. Requisito Tratto in comune a punteggio 9.
 
 Le Abilità 2, 3, 4 possono essere prese più volte. Gli incantesimi di primo livello e successivo si lanciano pagando Punti Magia altrimenti si possono lanciare solo una volta al giorno 
 
@@ -5513,7 +5513,13 @@ La \textbf{sesta volta} che prendi questa Abilità, requisito somma Tratti comun
 
 \ability{Iaijutsu}{iaijutsu}{Competenza Armi 2}{+2 Riflessi, +1 Volontà}{Intelligenza o Destrezza}
 
-Aspetti ad attaccare finché non conosci meglio le mosse dell'avversario designato che avrebbe dovuto agire dopo di te. Lasci agire prima questo avversario poi contro quell'avversario hai +2 al Tiro per Colpire con la prima Azione di Attacco.
+Fai un passo di un metro, attacchi una volta e torni dove eri prima, il tutto in meno di un battito di ciglia. 
+
+La \textbf{seconda volta}, requisito CA 6, che prendi questa Abilità puoi muoverti di 2 metri prima di attaccare e tornare dove eri.
+
+La \textbf{terza volta}, requisito CA 12, che prendi questa Abilità puoi muoverti di tutto il tuo movimento prima di attaccare e tornare dove eri.
+
+Consumi due Azioni.
 
 \ability{Improvvisare}{improvvisare}{Competenza Armi 1}{+1 Tempra, +1 Riflessi}{Destrezza o Saggezza}
 
@@ -7248,12 +7254,18 @@ Con il termine \textbf{conosciuto}\index{Incantesimi, Conosciuto} si intente un 
 
 Mentre la Competenza Magica indica lo studio e dedizione alla Magia nella forma più astratta è solo l'Abilità Adepto della Magia che permette di capire quanto si è \emph{portati} nel formulare gli incantesimi. 
 
-Per stabilire il livello massimo lanciabile di incantesimi sommate il punteggio di Competenza Magica ed Adepto della Magia, dividendo per due. Confrontate il risultato con il doppio del punteggio del modificatore di caratteristica per incantesimi, prendendo il valore minore.
+Per stabilire il livello massimo lanciabile di incantesimi sommate il punteggio di Competenza Magica ed Adepto della Magia, dividendo per due arrotondando per eccesso. Confrontate il risultato con il (doppio del punteggio del modificatore di caratteristica per incantesimi)+1, prendendo il valore minore.
 
-Es. CM=8, Adepto della Magia preso 4 volte, (8+4)/2=6lv, oppure CM=13 e Adepto della Magia 1 volta, (13+1)/2=7 livello di incantesimi. 
+Es. CM=8, Adepto della Magia preso 4 volte, (4+5)/2=6lv, oppure CM=16 e Adepto della Magia 1 volta, (16+1)/2=9 livello di incantesimi. 
 Se l'incantatore avesse come modificatore di caratteristica per incantesimo 0 non potrà lanciare incantesimi superiori al primo livello (vedi anche Abilità \hyperlink{tuttunoconlamagia}{Tutt'uno con la Magia}, pag. \pageref{tuttunoconlamagia}). 
-Se il modificatore è 4 il massimo livello lanciabile sarà il 6lv oppure 7lv nei due casi di esempio.
+Se il modificatore è 4 il massimo livello lanciabile sarà il 6lv oppure 8lv nei due casi di esempio.
 
+
+\subsubsection{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto}\label{magiedistratto}
+
+Se l'incantatore è \textbf{Distratto}, cerca di nascondere il lancio della magia, è impedito, severamente disturbato, è sanguinante, afferrato, è sotto attacco/minaccia mentre cerca di lanciare un incantesimo, \textbf{che non sia un Trucchetto}, deve effettuare una \textbf{Prova di Magia}.
+
+Per ogni tiro critico o critico magico che si è subito nel round la Prova di Magia viene fatta con 1d6 aggiuntivo.\index{Danno critico se si lancia incantesimo}. Eventuali Fallimenti Critici o Successi Critici vengono presi in considerazione.
 
 \subsubsection{Prova di Magia}\index{Prova di Magia}\index{Successo critico magico}\index{Fallimento critico magico}\label{magieprovadimagia}\index{Incantesimi, Prova di Magia}
 
@@ -7261,7 +7273,7 @@ Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che
 
 L'incantatore tira \textbf{3d6 + 1d6 ogni due punti di Competenza Magica} (arrotondato per eccesso) più eventuali bonus o Abilità.
 
-L'incantatore può \textbf{ignorare un dado tirato} nella Prova di Magia per \textbf{ogni due volte} che ha preso \textbf{Adepto della Magia}.
+L'incantatore può \textbf{ignorare un dado tirato} nella Prova di Magia per \textbf{ogni due volte} che ha preso \textbf{Adepto della Magia}.\index{Scartare dadi nella Prova di Magia}
 
 Se nell'insieme di dadi lanciati ci sono \textbf{almeno due 1} oppure \textbf{un 1 e due 2} saranno successe brutte cose, questo caso viene chiamato \textbf{Fallimento Critico Magico}\index{Fallimento Critico Magico}, l'incantesimo non si manifesta ed \textbf{i Punti Magia sono spesi}.
 
@@ -7289,17 +7301,6 @@ Concedete un +1d6 nella Prova di Magia, o fate ignorare un 1 tirato nella Prova 
 %
 %	\emph{Merlin. Howard Pyle, The Story of King Arthur and His Knights (1903)}
 %\end{center}
-
-\medskip
-
-\begin{center}
-	
-	\includegraphics[width=0.6\linewidth]{immagini/Hex32.png}
-	
-	\emph{The Witchcraft Art of Jacques de Gheyn II}
-	
-\end{center}
-
 
 \subsubsection{Modificare la Prova di Magia}
 
@@ -7352,6 +7353,7 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico tira 3d6 e con
 17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
 18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili
 \end{tabularx} 
+
 
 \subsubsection{I Punti Magia}\index{I Punti Magia}\label{magiepuntimagia}\index{Incantesimi, Punti Magia}
 
@@ -7410,8 +7412,6 @@ I Punti Magia si recuperano tutti con 8 ore di riposo. \index{Incantesimi, Recup
 %17&107&18 &114\\
 %19&123&20 &133\\
 %\end{tabularx}
-
-
 
 
 \subsubsection*{Incantesimi come Rituali}\index{Incantesimi come Rituali}\index{Rituali, Incantesimi}
@@ -7532,6 +7532,11 @@ Se volete rendere più difficile il colpire agli incantatori potete decidere che
 
 Il Tiro per Colpire diventa quindi 3d6+ \textbf{Competenza Armi} + \textbf{Modificatore di caratteristica per incantesimi} + \textbf{Abilità} e \textbf{modificatori vari}.
 
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups lancia Dardo Tracciante!]
+Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volta Adepto della Magia, lancia l'incantesimo \hyperlink{Dardo Tracciante}{Dardo Tracciante}. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un successo critico magico la DC sarebbe diventata 23.
+\end{tcolorbox}\end{changemargin}
+
 \subsubsection{Tiro Salvezza - Resistere all'incantesimo}\index{Tiro Salvezza - Resistere all'Incantesimo}\index{Tiro Salvezza Incantesimi}\label{magietirosalvezza}\hypertarget{magietirosalvezza}{}
 
 Il \textbf{Tiro Salvezza} in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a \textbf{10} + \textbf{Competenza Magica} + \textbf{modificatore caratteristica per incantesimo} + \textbf{numero di volte che si è presa l'Abilità Adepto della Magia} +\textbf{1 per ogni Successo Critico Magico} nella Prova di Magia.
@@ -7562,16 +7567,6 @@ E' anche possibile che nella descrizione dell'incantesimo sia riportato cosa suc
 
 Per i \textbf{mostri} o comunque per un lancio di incantesimi dato da abilità magiche innate, se non specificato la \textbf{DC del Tiro Salvezza è pari alla 10 + 2 x livello dell'incantesimo + Intelligenza o Saggezza quale sia migliore}.\index{DC Tiro Salvezza Incantesimo mostri}\index{Difficoltà incantesimi dei mostri}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups lancia Dardo Tracciante!]
-Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volta Adepto della Magia, lancia l'incantesimo \hyperlink{Dardo Tracciante}{Dardo Tracciante}. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un successo critico magico la DC sarebbe diventata 23.
-\end{tcolorbox}\end{changemargin}
-
-
-\subsubsection{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto}\label{magiedistratto}
-
-Se l'incantatore è severamente \textbf{Distratto}, cerca di nascondere il lancio della magia, è impedito, severamente disturbato, è sanguinante, afferrato, è sotto attacco mentre cerca di lanciare un incantesimo, che non sia un Trucchetto, deve effettuare una \textbf{Prova di Magia}.
-
-Per ogni tiro critico o critico magico che si è subito nel round la Prova di Magia viene fatta con 1d6 aggiuntivo.\index{Danno critico se si lancia incantesimo}. Eventuali Fallimenti Critici o Successi Critici vengono presi in considerazione.
 
 \subsubsection{Concentrazione}\index{Colpito mentre concentrato}\index{Concentrazione}\label{magieconcentrazione}
 
@@ -7782,6 +7777,16 @@ Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore 
 \textbf{4: Precisione.} Esegui la Prova di Magia con un d6 in più e puoi ignorare un dado nella Prova di Magia.
 
 \textbf{5: Conoscere.} Puoi lanciare l'incantesimo Identificare con una Azione Immediata, senza usare Punti Magia.
+
+%\begin{center}
+	
+%	\includegraphics[width=0.6\linewidth]{immagini/Hex32.png}
+	
+%	\emph{The Witchcraft Art of Jacques de Gheyn II}
+	
+%\end{center}
+
+
 
 \end{multicols}
 

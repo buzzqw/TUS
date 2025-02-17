@@ -816,7 +816,11 @@ aggiornata versione POD 2025/02/12
 
 aggiornata versione POD 2025/02/14
 
-0.99.40 aggiornati Difesa PF e TS elementali generici, inclusi suggerimenti per convertire mostri dalla 5e, rimosso capitolo piani e spostato in OBSS-options, aggiornati TS mostri, aggiornato costo razioni secche, layout, avvio controllo difesa, corretto hobgoblin-fustigatore, aggiornati Tiri per colpire mostri, 
+0.99.40 aggiornati Difesa PF e TS elementali generici, inclusi suggerimenti per convertire mostri dalla 5e, rimosso capitolo piani e spostato in OBSS-options, aggiornati TS mostri, aggiornato costo razioni secche, layout, avvio controllo difesa, corretto hobgoblin-fustigatore, aggiornati Tiri per colpire mostri
+
+aggiornata versione POD 2025/02/16
+
+0.99.41 ad ogni notte si recuperano COS*Livello PF con un minimo di Livello, al passaggio di livello i pf che si acquisiscono si recuperano anche, aggiornato Iaijutsu, i punti ferita presi per livello non possono essere inferiori al punteggio di costituzione, chiarimenti su uso punti fato, pronto soccorso puo' fare recuperare piu' punti ferita, 
 
 
 > valutare:
