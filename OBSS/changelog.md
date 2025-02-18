@@ -822,6 +822,10 @@ aggiornata versione POD 2025/02/16
 
 0.99.41s6 ad ogni notte si recuperano COS*Livello PF con un minimo di Livello, al passaggio di livello i pf che si acquisiscono si recuperano anche, aggiornato Iaijutsu, i punti ferita presi per livello non possono essere inferiori al punteggio di costituzione, chiarimenti su uso punti fato, se sei bravo in pronto soccorso puo' fare recuperare piu' punti ferita, aggiornati altri mostri, aggiunto in indice i nomi dei Patroni
 
+aggiornata versione POD 2025/02/17
+
+0.99.42 aggiornata tabella peso grado di Sfida per calcolo, aggiornati nuovamente tc mostri, 
+
 
 
 
