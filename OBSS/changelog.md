@@ -826,7 +826,9 @@ aggiornata versione POD 2025/02/17
 
 0.99.42 aggiornata tabella peso grado di Sfida per calcolo, aggiornati nuovamente tc mostri, aggiornato esempio costruzione incontro, 
 
+aggiornata versione POD 2025/02/19
 
+0.99.43 
 
 
 > valutare:
