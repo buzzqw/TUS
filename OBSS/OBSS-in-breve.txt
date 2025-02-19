@@ -20,11 +20,10 @@ Si puo' essere Devoti se si hanno almeno 2 Tratti in comune con un Patrono, se s
 Classi:
 OBSS non ha classi, ogni giocatore costruisce il personaggio in base alle avventure e situazioni che incontra.
 Ad ogni livello puo' decidere di migliorare il punteggio di Competenza Armi oppure Competenza Magica. Con il primo colpisci meglio, con il secondo lanci incantesimi.
-Sono le Abilita' che costruiscono le capacita' del personaggio, la classe.
+Quasi a tutti i livelli prendi delle Abilita' che costruiscono le capacita' del personaggio, la classe.
 
 Competenza Magica:
 Piu' il punteggio di Competenza Magica (CM) e' alto piu' incantesimi puoi tirare e piu' e' difficile resistere all'incantesimo.
-Non ha senso fare personaggio che prendano solo punti in CM, anche i maghi devono sapere colpire.
 
 Competenza Armi:
 Ogni volta che dai un punto a Competenza Armi colpisci meglio con le armi che consoci.
@@ -105,38 +104,3 @@ Sono a scalare, ovvero piu' si e' di basso livello piu' se ne hanno.
 
 Regole Opzionali:
 tante regole opzionali per divertirsi ancora di piu'
-
-
-----------------------------
-
-Pillole di regolamento
-
-
-- Fiancheggiamento/Attaccare alle Spalle +2 al colpire
-- Preparare la Difesa: costa 1 azione, +2 alla Difesa
-- Difesa totale: costa 2 Azioni, se ti muovi il terreno risulta difficile, guadagni un +4 in Difesa.
-- Disingaggiare: costa 1 Azione, ti sposti di 1 metro e non causi attacchi di opportunità.
- - Colpo Preciso: costa 2 azioni, +2 al colpire nel solo unico attacco del round
-- Prendere la Mira: 2 azioni a round, +1 al colpire cumulativo, max 3 round
-- Arma troppo grande: -1d6 al colpire
-- Arma lunga: da diritto a colpire più lontano ovvero a 2 metri e concede un bonus al Tiro per Colpire di +2. Questo bonus rimane valido finché l'avversario non entra in distanza della propria mischia. 
- -Arma lunga a breve distanza: se usata in mischia stretta -1d6 al colpire
-
-
-Disarmare: fai una Prova Contrapposta di Competenza Armi (o bonus al colpire in caso di mostri) + Destrezza o Forza (3d6+CA+For o Des)
-Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che perde l'arma. Costa 2 Azioni.
-
-Finta: fai una Prova Contrapposta di Competenza Armi + Ingannare (chi fa la finta) contro Competenza Armi + Percepire Emozioni (chi subisce la finta). Se la prova riesce l'avversario ha un -2 alla Difesa contro di te fino alla fine del tuo round successivo.
-Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che prende -2 alla Difesa fino alla fine del suo round successivo. Costa 1 Azione.
-
-Spingere un avversario: è una Prova di Atletica contrapposta a Tempra. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza.
-Chi vince può spingere o tirare l'avversario fino a 0.5 metri nella direzione che vuole per successo nella prova (fino al massimo del suo movimento). Es. se vinci la prova di 7 sposti l'avversario fino a 3 metri. Costa 2 Azioni, oppure la Reazione se vince chi resiste alla spinta. Chi spinge si può muovere assieme a chi è spinto senza usare altre azioni.
-
-Afferrare un avversario: è una Prova di Atletica contrapposta a Tempra. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza. Se chi riesce nella manovra ottiene un successo critico si considera che abbia Bloccato l'avversario.
-Costa 2 Azioni fare e mantenere e liberarsi dalla presa. Si considera che chi afferra sia anche Afferrato ed abbia almeno una mano occupata nell'afferrare.
-Muovere una creatura afferrata richiede Spingere un avversario.
-Ogni contendente può attaccare l'altro afferrato con un arma piccola o armi naturali, la Difesa ha una penalità di -2 e si è considerati Distratti.
-
-Fare cadere un avversario: è una Prova di Atletica contrapposta a Tempra per mettere Prono l'avversario.
-Per ogni gamba/zampa in più il contendente ottiene un bonus di +1 alla prova e ottiene un +1d6 per differenza di Taglia. Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che cade. Costa 2 Azioni. 
-
