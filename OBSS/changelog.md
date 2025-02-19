@@ -828,7 +828,7 @@ aggiornata versione POD 2025/02/17
 
 aggiornata versione POD 2025/02/19
 
-0.99.43 
+0.99.43 minime correzioni in conversione alla 5e, 
 
 
 > valutare:
