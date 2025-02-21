@@ -828,7 +828,7 @@ aggiornata versione POD 2025/02/17
 
 aggiornata versione POD 2025/02/19
 
-0.99.43 minime correzioni in conversione alla 5e, specificato che in conversione 5e l'iniziativa sia uguale a Des, aggiornato mostro maledetto immortale, layout, fortemente ottimizzato il layout dei mostri
+0.99.43 minime correzioni in conversione alla 5e, specificato che in conversione 5e l'iniziativa sia uguale a Des, aggiornato mostro maledetto immortale, layout, fortemente ottimizzato il layout dei mostri, ottimizzazione layout mostri seconda parte, 
 
 
 > valutare:
