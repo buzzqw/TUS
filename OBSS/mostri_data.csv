@@ -1,342 +1,344 @@
 Nome,Tipo,Difesa,PF,TS_Tempra,TS_Riflessi,TS_Volonta,For,Des,Cos,Int,Sag,Car,Iniziativa,Sfida
-Aboleth,"Grande aberrazione, legale malvagio",23,165,14,11,14,5,-1,2,4,2,4,4,10
-Angelo Deva,"Medio celestiale, legale buono",28,185,16,16,17,4,4,4,3,5,5,4,10
-Angelo Planetar,"Grande celestiale, legale buono",36,350,27,25,26,7,5,7,4,6,7,5,16
-Angelo Solar,"Grande celestiale, legale buono",43,400,34,32,33,8,6,8,7,7,10,7,21
-Ankheg,"Grande mostruosità, disallineato",14,38,4,3,4,3,0,1,-5,1,-2,0,2
-Arpia,"Media mostruosità, Arrogante, Impulsivo",14,30,3,3,2,1,1,1,-2,0,1,1,1
-Azer,"Media elementale, legale neutrale",15,65,5,4,4,3,1,2,1,1,0,1,2
-Banshee,"Media non morto, Arrogante, Vanitoso",21,50,5,10,6,-5,5,0,1,1,4,1,4
-Basilisco,"Media mostruosità, disallineato",14,58,6,3,3,3,-1,2,-4,-1,-2,0,3
-Behir,"Enorme mostruosità, neutrale malvagio",28,180,18,17,16,6,3,4,-2,2,1,3,11
-Blatta Esplosiva,"Piccolo Elementale, neutrale",16,45,4,5,2,1,2,1,-5,-1,-2,2,2
-B.O.C.,"grande mostruosità, legale malvagio",19,55,7,8,6,4,3,2,-2,1,-1,3,4
-Bugbear,"Media umanoide (goblinoide), Arrogante, Impulsivo",16,30,3,4,2,2,2,1,-1,0,-1,2,1
-Bulette,"Grande bestia, disallineato",18,94,11,6,6,4,0,5,-4,0,-3,0,5
-Cavaliere Nero,"Media non morto, Arrogante, Paziente",34,315,27,23,24,5,1,5,1,2,3,1,18
-Centauro,"Grande mostruosità, neutrale buono",16,45,5,5,4,4,2,2,-1,1,0,2,2
-Chimera,"Grande mostruosità, Arrogante, Vanitoso",19,114,12,8,10,4,0,4,-4,2,0,0,6
-Chuul,"Grande aberrazione, caotico malvagio",16,93,8,5,5,4,0,3,-3,0,-3,0,4
-Coboldo,"Piccola umanoide (coboldo), legale malvagio",14,10,0,3,-1,-2,2,-1,-1,-2,-1,2,1/8
-Cockatrice,"Piccola mostruosità, disallineato",14,27,2,2,2,-2,1,1,-4,1,-3,1,1/2
-Couatl,"Media celestiale, legale buono",21,80,8,10,10,3,5,3,4,5,4,5,4
-Cumulo Strisciante,"Grande pianta, disallineato",17,100,9,5,6,4,-1,3,-3,0,-3,0,5
-Balor,"Enorme immondo (demone), caotico malvagio",36,300,29,25,26,8,2,6,5,3,6,5,19
-Demogorgone,"enorme immondo (principe demone), caotico malvagio",45,550,40,34,35,9,2,8,5,3,7,5,26
-Dretch,"Piccola immondo (demone), caotico malvagio",12,18,2,1,0,0,0,1,-3,-1,-4,0,1/4
-Glabrezu,"Grande immondo (demone), caotico malvagio",24,157,16,13,14,5,2,5,4,3,3,4,9
-Hezrou,"Grande immondo (demone), caotico malvagio",24,136,16,3,9,4,3,5,5,1,1,5,8
-Marilith,"Grande immondo (demone), caotico malvagio",36,250,25,25,23,4,5,5,4,3,5,5,16
-Nalfeshnee,"Grande immondo (demone), caotico malvagio",27,210,22,16,17,5,0,6,4,1,2,4,13
-Orcus,"enorme immondo (principe demone), caotico malvagio",45,550,39,34,37,8,2,7,5,5,7,5,26
-Silku,"Media immondo (demone), caotico malvagio",16,42,6,5,3,2,2,3,1,0,2,1,2
-Quasit,"Minuscola immondo (demone, mutaforma), caotico malvagio",16,15,2,5,2,-3,3,0,-2,0,0,3,1
-Succube,"medio immondo (demone), caotico malvagio",19,70,6,8,6,-1,3,1,2,1,5,3,4
-Vrock,"Grande immondo (demone), caotico malvagio",21,104,12,10,9,3,2,4,-1,1,-1,2,6
-Destriero dell'Incubo,"Grande immondo, legale malvagio",15,68,7,6,5,4,2,3,0,1,2,2,3
-Diavolo Barbuto,"Media immondo (diavolo), legale malvagio",17,60,6,6,4,3,2,2,-1,0,0,2,3
-Diavolo delle Catene,"Media immondo (diavolo), legale malvagio",23,120,14,12,11,4,2,4,0,1,2,2,8
-Diavolo Cornuto,"Grande immondo (diavolo), legale malvagio",28,178,19,17,17,6,3,5,1,3,3,3,11
-Diavolo della Fossa,"Grande immondo (diavolo), legale malvagio",38,300,31,26,28,8,2,7,6,4,7,6,20
-Diavolo del Ghiaccio,"Grande immondo (diavolo), legale malvagio",30,220,21,19,19,5,2,4,4,2,4,4,14
-Diavolo d'Ossa,"Grande immondo (diavolo), legale malvagio",25,142,15,14,13,4,3,4,1,2,3,1,9
-Diavolo Spinoso,"Piccola immondo (diavolo), legale malvagio",16,40,3,4,3,0,2,1,0,2,-1,2,2
-Erinni,"Media immondo (diavolo), legale malvagio",29,180,19,18,17,4,3,4,2,2,4,3,12
-Imp,"Minuscola immondo (diavolo, mutaforma), legale malvagio",16,20,3,5,3,-2,3,1,0,1,2,3,1
-Lemure,"Media immondo (diavolo), legale malvagio",9,13,0,-3,0,0,-3,0,-5,0,-4,0,0
-Plesiosauro,"Grande bestia, disallineato",16,68,6,5,4,4,2,3,-4,1,-3,2,2
-Tirannosauro,"Enorme bestia, disallineato",21,143,14,10,11,7,0,4,-4,1,-1,0,8
-Triceratopo,"Enorme bestia, disallineato",17,95,9,5,6,6,-1,3,-4,0,-3,0,5
-Divora Cervelli,"Piccola aberrazione, caotico malvagio",28,120,16,17,11,1,6,5,3,0,3,6,9
-Dobi,"Minuscola fatata, neutrale",11,20,2,-1,1,-3,-1,2,-2,1,3,0,0
-Doppelganger,"Media mostruosità (mutaforma), neutrale",19,52,6,8,5,0,4,2,0,1,2,4,3
-Drago Bianco Antico,"Mastodontica drago, caotico malvagio",36,333,32,24,25,8,0,8,3,1,2,0,20
-Drago Bianco Adulto,"Enorme drago, caotico malvagio",27,200,22,16,17,6,0,6,2,1,1,0,13
-Drago Bianco Giovane,"Grande drago, caotico malvagio",19,133,12,8,8,4,0,4,-2,0,1,0,6
-Drago Bianco Cucciolo,"Media drago, caotico malvagio",14,45,5,3,3,2,0,2,-3,0,0,0,2
-Drago Blu Antico,"Mastodontica drago, legale malvagio",39,481,36,28,31,9,0,8,4,3,5,4,23
-Drago Blu Adulto,"Enorme drago, legale malvagio",31,255,26,20,22,7,0,6,3,2,4,3,16
-Drago Blu Giovane,"Enorme drago, legale malvagio",22,152,15,11,12,5,0,4,2,1,3,2,9
-Drago Blu Cucciolo,"Enorme drago, legale malvagio",15,60,6,4,4,3,0,2,1,0,2,1,3
-Drago Giallo Antico,"Mastodontica drago, neutrale malvagio",40,481,36,29,30,10,1,8,3,2,4,3,23
-Drago Nero Antico,"Mastodontica drago, caotico malvagio",39,367,33,28,28,8,2,7,3,2,4,3,21
-Drago Nero Adulto,"Enorme drago, caotico malvagio",34,250,26,23,22,6,2,5,2,1,3,2,17
-Drago Nero Giovane,"Grande drago, caotico malvagio",22,127,12,11,9,4,2,3,1,0,2,2,7
-Drago Nero Cucciolo,"Media drago, caotico malvagio",16,40,4,5,3,2,2,1,0,0,1,2,2
-Drago Porpora Antico,"Mastodontica drago, legale malvagio",41,385,31,30,31,8,3,4,4,4,4,4,22
-Drago Rosso Antico,"Mastodontica drago, caotico malvagio",40,546,38,29,31,10,0,9,4,2,6,4,24
-Drago Rosso Adulto,"Enorme drago, caotico malvagio",32,260,28,21,22,8,0,7,3,1,5,3,17
-Drago Rosso Giovane,"Grande drago, caotico malvagio",24,178,17,12,12,6,0,5,2,0,4,2,10
-Drago Rosso Cucciolo,"Media drago, caotico malvagio",16,75,8,5,5,4,0,3,1,0,2,1,4
-Drago Verde Antico,"Mastodontica drago, legale malvagio",39,385,34,28,30,8,1,7,5,3,4,5,22
-Drago Verde Adulto,"Enorme drago, legale malvagio",31,230,23,19,20,6,1,5,4,2,3,4,15
-Drago Verde Giovane,"Grande drago, legale malvagio",22,136,13,11,11,4,1,3,3,1,2,3,8
-Drago Verde Cucciolo,"Media drago, legale malvagio",15,40,4,4,3,2,1,1,2,0,1,1,2
-Drago d'Argento Antico,"Mastodontica drago, legale buono",39,487,37,28,30,10,0,9,4,2,6,4,23
-Drago d'Argento Adulto,"Enorme drago, legale buono",31,243,27,20,21,8,0,7,3,1,5,3,16
-Drago d'Argento Giovane,"Grande drago, legale buono",22,168,16,11,11,6,0,5,2,0,4,2,9
-Drago d'Argento Cucciolo,"Media drago, legale buono",14,45,6,3,3,4,0,3,1,0,2,1,2
-Drago di Bronzo Antico,"Mastodontica drago, caotico buono",38,444,35,27,30,9,0,8,4,3,5,4,22
-Drago di Bronzo Adulto,"Enorme drago, caotico buono",30,212,24,18,20,7,0,6,3,2,4,3,15
-Drago di Bronzo Giovane,"Grande drago, caotico buono",21,142,14,10,11,5,0,4,2,1,3,2,8
-Drago di Bronzo Cucciolo,"Media drago, caotico buono",14,40,5,3,3,3,0,2,1,0,2,2,2
-Drago d'Oro Antico,"Mastodontica drago, legale buono",42,546,38,31,32,10,2,9,4,3,9,4,24
-Drago d'Oro Adulto,"Enorme drago, legale buono",34,256,28,23,23,8,2,7,3,2,7,3,17
-Drago d'Oro Giovane,"Grande drago, legale buono",26,178,17,14,13,6,2,5,3,1,5,3,10
-Drago d'Oro Cucciolo,"Media drago, legale buono",17,60,7,6,4,4,2,3,2,0,3,2,3
-Drago d'Ottone Antico,"Mastodontica drago, caotico buono",35,300,31,24,26,8,0,7,3,2,4,3,20
-Drago d'Ottone Adulto,"Enorme drago, caotico buono",25,200,21,16,17,6,0,5,2,1,3,2,13
-Drago d'Ottone Cucciolo,"Media drago, caotico buono",17,30,3,2,2,2,0,1,0,0,1,0,1
-Drago di Rame Antico,"Mastodontica drago, caotico buono",38,350,33,27,29,8,1,7,5,3,4,5,21
-Drago di Rame Adulto,"Enorme drago, caotico buono",29,210,22,18,19,6,1,5,4,2,3,4,14
-Drago di Rame Giovane,"Grande drago, caotico buono",21,119,12,10,10,4,1,3,3,1,2,3,7
-Drago di Rame Cucciolo,"Media drago, caotico buono",17,40,3,3,2,2,1,1,2,0,1,2,1
-Tàhil,"Colossale drago, Patrono",43,700,46,36,44,10,0,10,8,8,9,8,30
-Drider,"Grande mostruosità, caotico malvagio",22,123,12,11,10,3,3,4,1,2,1,3,6
-Driade,"Media fatato, neutrale",14,44,2,3,4,0,1,0,2,2,4,2,1
-Elementale dell'Acqua Generico,Elementale,GSDes,(GS2)*15,GSGS/5COS,GSDES,GSSAG,2GS/3,0GS/6,2GS/3,-2GS/6,0GS/6,0GS/6,Des,GS
-Elementale dell'Aria Generico,"GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)",GSDes2,(GS1)*15,GSCOS,GSGS/5DES,GSSAG,0GS/6,3GS/3,0GS/6,-2GS/6,-1GS/6,0GS/6,Des,GS
-Elementale del Fuoco Generico,"GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)",GS1Des,(GS2)*15,GSCOS,GSDES,GSSAG,0GS/3,2GS/3,1GS/6,-2GS/6,-1GS/6,-2GS/6,Des,GS
-Elementale della Terra Generico,"GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)",GSDes,(GS3)*15,4,5,4,GS,-2GS/6,1GS/3,-3GS/6,-1GS/6,-3GS/6,Des,GS
-Ettercap,"Media mostruosità, neutrale malvagio",15,40,4,5,4,2,2,1,-2,1,-2,2,2
-Ettin,"Grande gigante, caotico malvagio",15,85,8,4,5,5,-1,3,-2,0,-1,0,4
-Fantasma,"Media non morto, qualsiasi tratto",17,60,5,6,6,-2,1,0,0,1,3,0,4
-Fauci Gorgoglianti,"Media aberrazione, neutrale",13,67,6,2,3,0,-1,3,-4,0,-2,0,2
-Fenice,"Mastodontica celestiale, Coraggioso, Protettivo, Buono",36,240,23,24,24,8,6,5,5,6,6,6,15
-Fioritura Ossea,"Grande non morto, non allineato",21,105,12,10,6,3,2,4,-2,-2,-3,2,6
-Fungo Stridente,"Media pianta, disallineato",7,15,0,-5,-4,-5,-5,0,-5,-4,-5,0,0
-Fungo Violetto,"Media pianta, disallineato",7,20,1,-4,-3,-4,-5,0,-5,-4,-5,0,1/4
-Fuoco Fatuo,"Minuscola non morto, caotico malvagio",23,30,3,12,5,-5,9,0,1,2,0,9,2
-Fustigatore,"Grande mostruosità, neutrale malvagio",17,93,9,5,9,4,-1,3,3,3,-2,3,5
-Gablin,"Piccolo immondo (goblinoide), caotico malvagio",13,15,3,2,0,2,1,1,-2,-1,-2,1,1/4
-Campione Gablin,"Grande immondo, caotico malvagio",17,60,7,6,4,4,2,3,1,0,-1,2,3
-Paladino Gablin,"Grande immondo, caotico malvagio",21,105,11,10,11,5,2,3,2,3,3,2,6
-Gargoyle,"Media elementale, caotico malvagio",14,52,6,3,3,2,0,3,-2,0,-2,0,2
-G.E.C.,"Grande aberrazione, caotico malvagio",25,180,17,13,13,6,1,5,1,1,1,1,10
-Djinni,"Grande elementale, caotico buono",27,160,20,16,17,5,2,6,2,3,5,2,11
-Efreeti,"Grande elementale, legale malvagio",26,200,21,15,16,6,1,7,3,2,3,3,11
-Ghast,"Media non morto, caotico malvagio",17,45,3,6,3,3,3,0,0,0,-1,3,2
-Ghoul,"Media non morto, caotico malvagio",18,30,105,10,10,1,2,0,-2,0,-2,2,1
-"Ghoul, Nero","Media non morto, caotico malvagio",19,105,10,10,9,4,2,2,0,1,-2,2,6
-"Ghoul, Madre","Media non morto, caotico malvagio",21,90,8,9,7,0,3,2,2,1,2,3,5
-"Ghoul, putrescente","Grande non morto, caotico malvagio",17,82,8,7,5,1,2,3,-1,0,-2,2,4
-Gigante di Collina,"Enorme gigante, caotico malvagio",17,105,10,5,5,5,-1,4,-3,-1,-2,0,5
-Gigante del Fuoco,"Enorme gigante, legale malvagio",21,162,17,10,13,7,-1,6,0,2,1,0,9
-Gigante del Gelo,"Enorme gigante, neutrale malvagio",20,138,15,9,10,6,-1,5,-1,0,1,0,8
-Gigante delle Nuvole,"Enorme gigante, neutrale buono (50\%) o neutrale malvagio (50\%)",22,170,17,11,14,8,0,6,1,3,3,1,9
-Gigante di Pietra,"Enorme gigante, neutrale",22,126,14,11,10,6,2,5,0,1,-1,2,7
-Gigante delle Tempeste,"Enorme gigante, caotico buono",29,230,21,18,20,9,2,5,3,4,4,6,13
-Gnoll,"Media umanoide (gnoll), caotico malvagio",14,25,1,2,1,2,1,0,-2,0,-2,1,1/2
-Gnomo delle Profondità,"Piccola umanoide (gnomo), neutrale buono",14,25,3,3,1,2,2,2,1,0,-1,2,1/2
-Globulo,"Piccola aberrazione, malvagio",15,30,2,4,3,-2,2,0,3,1,3,2,1
-Goblin,"Piccola umanoide (goblinoide), caotico malvagio",12,15,2,1,-1,0,0,1,-1,-2,-1,0,1/4
-Golem di Argilla,"Grande costrutto, disallineato",21,160,15,10,10,5,-1,4,-4,-1,-5,0,9
-Golem di Carne,"Media costrutto, neutrale",17,100,10,5,6,4,-1,4,-2,0,-3,0,5
-Golem di Ferro,"Grande costrutto, disallineato",30,270,25,19,20,7,-1,5,-4,0,-5,0,16
-Golem di Pietra,"Grande costrutto, disallineato",23,178,17,11,12,6,-1,5,-4,0,-5,0,10
-Gorgone,"Grande mostruosità, disallineato",18,114,10,6,7,5,0,4,-4,1,-2,0,5
-Grick,"Media mostruosità, neutrale",16,40,3,5,5,2,2,0,-4,2,-3,2,2
-Grifone,"Grande mostruosità, disallineato",16,59,6,5,4,4,2,3,-4,1,-1,2,2
-Grimlock,"Media umanoide (grimlock), neutrale malvagio",13,15,2,2,0,3,1,1,-1,-1,-2,1,1/4
-Guardiano Protettore,"Grande costrutto, disallineato",19,142,13,8,9,4,-1,4,-2,0,-4,0,7
-Hobgoblin,"Media umanoide (goblinoide), legale malvagio",17,25,2,2,1,1,1,1,0,0,-1,1,1/2
-Idra,"Enorme mostruosità, disallineato",22,172,15,11,10,5,1,5,-4,0,-2,1,8
-Ippogrifo,"Grande bestia, disallineato",14,30,3,3,3,3,1,1,-4,1,-1,1,1
-Kraken,"Mastodontica mostruosità (titano), caotico malvagio",39,472,35,28,32,10,0,7,6,4,5,6,23
-Lamia,"Grande mostruosità, caotico malvagio",17,97,7,6,7,3,1,2,2,2,3,2,4
-Lich,"Media non morto, tratti malvagi",40,300,29,29,28,0,3,3,5,2,3,5,21
-Lucertoloide,"Media umanoide (lucertoloide), neutrale",12,22,2,1,2,2,0,1,-2,1,-2,0,1/2
-Maledetto immortale,"Media aberrazione (umano), tendenzialmente folle",16,60,7,6,4,3,1,2,-1,-2,-2,1,4
-Cinghiale Mannaro,Media umanoide neutrale malvagio,16,120,7,5,5,3,0,2,0,0,-1,0,4
-Lupo Mannaro,"Media umanoide (umano, mutaforma), caotico malvagio",16,45,6,5,4,2,1,2,0,0,0,1,3
-Orso Mannaro,"Media umanoide (umano, mutaforma), neutrale buono",18,70,9,6,7,4,0,3,0,1,1,0,5
-Ratto Mannaro,"Media umanoide (umano, mutaforma), legale malvagio",16,50,4,5,3,0,2,1,0,0,-1,2,2
-Tigre Mannara,"Media umanoide (umano, mutaforma), neutrale",18,65,8,7,6,3,2,3,0,1,0,2,4
-Manticora,"Grande mostruosità, legale malvagio",18,68,7,7,5,3,3,3,-2,1,-1,3,3
-Manto Assassino,"Grande aberrazione, caotico neutrale",23,130,11,12,11,3,2,1,1,1,2,2,8
-Mantoscuro,"Piccola mostruosità, disallineato",14,25,2,2,1,3,1,1,-4,0,-3,1,1/2
-Medusa,"Media mostruosità, legale malvagio",21,127,11,10,9,0,2,3,1,1,2,2,6
-Mefito di Ghiaccio,"Piccola elementale, neutrale malvagio",14,25,1,2,1,-2,1,0,-1,0,1,1,1/2
-Mefito di Magma,"Piccola elementale, neutrale malvagio",14,25,2,2,1,-1,1,1,-2,0,0,1,1/2
-Mefito di Polvere,"Piccola elementale, neutrale malvagio",14,25,1,3,1,-3,2,0,-1,0,0,2,1/2
-Mefito di Vapore,"Piccola elementale, neutrale malvagio",12,25,1,1,1,-3,0,0,0,0,1,0,1/4
-Megera Marina,"Media fatato, caotico malvagio",15,52,6,4,4,3,1,3,1,1,1,1,2
-Megera Notturna,"Media immondo, neutrale malvagio",20,112,9,8,8,4,2,3,3,2,3,3,5
-Megera Verde,"Media fatato, neutrale malvagio",16,82,7,5,6,4,1,3,1,2,2,1,3
-Ameba Paglierina,"Grande melma, disallineato",12,45,5,1,1,2,-2,2,-4,-2,-5,0,2
-Cubo Gelatinoso,"Grande melma, disallineato",10,84,8,-1,1,2,-4,5,-5,-2,-5,0,2
-Melma Grigia,"Media melma, disallineato",10,25,4,-1,-1,1,-2,3,-5,-2,-4,0,1/2
-Protoplasma Nero,"Grande melma, disallineato",13,85,8,2,3,3,-3,3,-5,-2,-5,0,4
-Mimic,"Media mostruosità (mutaforma), neutrale",15,58,5,4,4,3,1,2,-3,1,-1,1,2
-Minotauro,"Grande mostruosità, caotico malvagio",15,76,7,4,7,4,0,3,-2,3,-1,0,3
-Mummia,"Media non morto, legale malvagio",14,58,6,3,4,3,-1,2,-2,0,1,0,3
-Mummia Sovrana,"Media non morto, legale malvagio",30,230,21,18,22,4,0,3,0,4,3,0,15
-Naga Guardiano,"Grande mostruosità, legale buono",28,160,15,16,16,4,4,3,3,4,4,4,10
-Naga Spirituale,"Grande mostruosità, caotico malvagio",24,130,12,13,12,4,3,2,3,2,3,3,8
-Nano Oscuro,"Media umanoide (nano), legale malvagio",13,40,4,2,2,2,0,2,0,0,-1,0,1
-Armatura Animata,"Media costrutto, disallineato",13,40,3,2,-2,2,0,1,-5,-4,-5,0,1
-Spada Volante,"Piccola costrutto, disallineato",14,20,1,3,-2,1,2,0,-5,-3,-5,2,1/4
-Tappeto del Soffocamento,"Grande costrutto, disallineato",16,40,3,5,-1,3,2,0,-5,-4,-5,2,2
-Ogre,"Grande gigante, caotico malvagio",13,59,6,2,1,4,-1,3,-3,-2,-2,0,2
-Ombra,"Media non morto, caotico malvagio",14,25,2,3,1,-2,2,1,-2,0,-1,2,1/2
-Omuncolo,"Minuscola costrutto, neutrale",14,10,0,2,0,-3,2,0,0,0,-2,2,0
-Oni,"Grande gigante, legale malvagio",20,130,12,9,10,4,0,3,2,1,2,2,7
-Orchetto,"Media umanoide (orco), caotico neutrale",15,25,3,2,1,2,1,2,0,0,0,1,1/2
-Orco,"Media umanoide (orco), caotico malvagio",14,33,5,3,2,3,1,3,-2,0,0,1,1
-Orrore Arrampicamuri,"Grande mostruosità, disallineato",15,75,6,4,5,4,0,2,-2,1,-2,0,3
-Orsogufo,"Grande bestia, disallineato",16,59,7,5,5,5,1,3,-4,1,-2,1,3
-Orsogufo Saggio,"Grande mostruosità, neutrale",16,45,6,5,7,3,1,2,3,3,1,3,3
-Otyugh,"Grande aberrazione, neutrale",18,114,10,6,7,3,0,4,2,1,-2,2,5
-Panoptikhan,"Grande aberrazione, malvagia",27,190,17,16,17,0,1,2,3,2,2,3,12
-Pegaso,"Grande celestiale, caotico buono",16,59,6,5,5,4,2,3,0,2,1,2,2
-Persecutore Invisibile,"Media elementale, neutrale",23,104,10,12,10,3,4,2,0,2,0,4,6
-Pseudodrago,"Minuscola drago, neutrale buono",14,15,2,3,2,-2,2,1,0,1,0,2,1/4
-Rakshasa,"Media immondo, legale malvagio",30,200,20,19,19,2,3,4,1,3,5,3,13
-Razziamorti,"Grande costrutto, non morto, non allineato",19,105,12,8,6,5,0,4,-4,-2,-5,0,6
-Remorhaz,"Enorme mostruosità, disallineato",26,195,19,15,14,7,1,5,-3,0,-3,1,11
-Rugginofago,"Media Mostruosità, disallineato",14,27,2,2,2,1,1,1,-4,1,-2,1,1/2
-Sahuagin,"Media umanoide (sahuagin), legale malvagio",12,22,2,1,2,1,0,1,1,1,-1,1,1/2
-Salamandra,"Grande elementale, neutrale malvagio",20,90,8,8,6,4,2,2,0,0,1,2,5
-Satiro,"Media fatato, caotico neutrale",16,31,1,4,1,1,3,0,1,0,2,3,1/2
-Scheletro,"Media non morto, legale malvagio",14,15,3,3,0,0,2,2,-2,-1,-3,2,1/4
-Scheletro Campione,"Medio non morto, legale malvagio",16,67,7,5,3,4,1,3,-2,-1,-3,1,3
-Scheletro di Saurovallo da Guerra,"Grande non morto, legale malvagio",14,22,3,2,0,4,1,2,-4,-1,-3,1,1/2
-Segugio Infernale,"Media immondo, legale malvagio",16,55,6,5,5,3,1,2,-2,1,-2,1,3
-Androsfinge,"Grande mostruosità, legale neutrale",32,260,26,21,25,6,0,5,3,4,6,3,17
-Ginosfinge,"Grande mostruosità, legale neutrale",27,180,17,16,18,4,2,3,4,4,4,4,11
-Sibilante,"Grande mostruosità, caotico",15,40,4,4,3,2,1,1,-3,0,-2,1,2
-Spettro,"Medio non morto, malvagio",15,30,2,4,2,-5,2,0,0,0,2,2,1
-Spiritello,"Minuscola fatato, neutrale buono",16,15,1,5,2,-4,4,0,2,1,0,4,1/4
-Strige (Uccello Stigeo),"Minuscola bestia, disallineato",15,8,1,4,0,-3,3,0,-4,-1,-2,3,1/8
-Tarrasque,"Colossale mostruosità (titano), disallineato",48,676,46,36,36,10,0,10,-2,0,0,0,30
-Teschio Fiammeggiante,"Piccolo non morto, Tratti malvagi",15,45,4,4,3,0,1,1,1,0,0,1,2
-Testuggine Dragona,"Mastodontica drago, neutrale",32,341,26,21,22,7,0,5,0,1,1,0,17
-"Topi, La","Minuscola fatata, Patrono",18,10,18,24,20,-1,4,0,6,2,6,4,0
-Torciascura,"Media non morto, malvagio",17,75,7,6,4,3,1,2,0,-1,-2,1,4
-Troll,"Grande gigante, caotico malvagio",19,84,11,7,5,5,1,5,-2,-1,-2,1,5
-Uomo Acquatico,"Media umanoide (uomo acquatico), neutrale",13,15,2,2,1,0,1,1,0,0,1,1,1/8
-Uomo Albero (Arborom),"Enorme pianta, caotico buono",21,160,16,10,14,6,-1,5,1,3,1,1,9
-Uomo Magma,"Piccola elementale, caotico neutrale",14,15,2,3,1,-2,2,1,-1,0,0,2,1/2
-Unicorno,"Grande celestiale, legale buono",20,67,8,8,9,4,2,2,0,3,3,2,5
-Vampiro,"Media non morto (mutaforma), legale malvagio",31,210,20,20,18,4,4,4,3,2,4,4,13
-Progenie Vampirica,"Media non morto, neutrale malvagio",22,100,11,11,8,3,3,3,0,0,1,3,6
-Vermi delle carne,"minuscola mostruosità, disallineato",12,8,-1,0,-4,-4,0,-2,-4,0,-4,0,1
-Verme Purpureo,"Mastodontica mostruosità, disallineato",28,247,24,16,17,9,-2,6,-5,-1,-3,0,15
-Verme Strisciante Tentacolato,"Grande mostruosità, disallineato",17,70,5,4,7,4,1,3,-4,1,-3,1,4
-Viverna,"Grande drago, disallineato",19,110,11,8,9,4,0,3,-3,1,-2,0,6
-Wight,"Media non morto, neutrale malvagio",17,55,7,6,5,2,2,3,0,1,2,2,3
-Wraith,"Media non morto, neutrale malvagio",21,80,9,9,8,-2,3,3,1,2,2,3,5
-Xorn,"Media elementale, neutrale",18,100,12,6,6,3,0,6,0,0,0,0,5
-Zombi,"Media non morto, neutrale malvagio",10,22,4,-1,-1,1,-2,3,-4,-2,-3,0,1/4
-Zombi Ogre,"Grande non morto, neutrale malvagio",12,85,7,1,1,4,-2,4,-4,-2,-3,0,2
-Albero Risvegliato,"Enorme pianta, disallineato",14,59,5,1,3,4,-2,2,0,0,-2,0,2
-Alce,,,,,,,,,,,,,,
-Alce Gigante,,,,,,,,,,,,,,
-Aquila,,,,,,,,,,,,,,
-Aquila Gigante,,,,,,,,,,,,,,
-Avvoltoio,,,,,,,,,,,,,,
-Avvoltoio Gigante,,,,,,,,,,,,,,
-Babbuino,,,,,,,,,,,,,,
-Orca,,,,,,,,,,,,,,
-Becco d'Ascia,,,,,,,,,,,,,,
-Cane della Morte,,,,,,,,,,,,,,
-Cane Intermittente,,,,,,,,,,,,,,
-Caprone,,,,,,,,,,,,,,
-Caprone Gigante,,,,,,,,,,,,,,
-Cavallo Marino Gigante,,,,,,,,,,,,,,
-Cervo,,,,,,,,,,,,,,
-Cinghiale,,,,,,,,,,,,,,
-Cinghiale Gigante,,,,,,,,,,,,,,
-Coccodrillo,,,,,,,,,,,,,,
-Coccodrillo Gigante,,,,,,,,,,,,,,
-Corvo,,,,,,,,,,,,,,
-Donnola Gigante,,,,,,,,,,,,,,
-Elefante,,,,,,,,,,,,,,
-Falco,,,,,,,,,,,,,,
-Falco di Sangue,,,,,,,,,,,,,,
-Pirana,,,,,,,,,,,,,,
-Gatto,,,,,,,,,,,,,,
-Granchio Gigante,,,,,,,,,,,,,,
-Gufo,,,,,,,,,,,,,,
-Gufo Gigante,,,,,,,,,,,,,,
-Iena,,,,,,,,,,,,,,
-Iena Gigante,,,,,,,,,,,,,,
-Leone,,,,,,,,,,,,,,
-Lucertola Gigante,,,,,,,,,,,,,,
-Lupo,,,,,,,,,,,,,,
-Dinolupo (Metalupo),,,,,,,,,,,,,,
-Lupo Invernale,,,,,,,,,,,,,,
-Mammut,,,,,,,,,,,,,,
-Mastino,,,,,,,,,,,,,,
-Orso Bruno,,,,,,,,,,,,,,
-Orso Nero,,,,,,,,,,,,,,
-Orso Polare,,,,,,,,,,,,,,
+Aboleth,"Grande aberrazione, legale malvagio",23,185,+14,+11,+14,5,-1,2,4,2,4,+4,
+Angelo Deva,"Medio celestiale, legale buono",28,205,+16,+16,+17,4,4,4,3,5,5,+4,
+Angelo Planetar,"Grande celestiale, legale buono",36,367,+27,+25,+26,7,5,7,4,6,7,+5,
+Angelo Solar,"Grande celestiale, legale buono",43,498,+34,+32,+33,8,6,8,7,7,10,+7,
+Ankheg,"Grande mostruosità, disallineato",14,47,+4,+3,+4,3,0,1,-5,1,-2,+0,
+Arpia,"Media mostruosità, Arrogante, Impulsivo",14,31,+3,+3,+2,1,1,1,-2,0,1,+1,
+Azer,"Media elementale, legale neutrale",15,49,+5,+4,+4,3,1,2,1,1,0,+1,
+Banshee,"Media non morto, Arrogante, Vanitoso",21,75,+5,+10,+6,-5,5,0,1,1,4,+1,
+Basilisco,"Media mostruosità, disallineato",14,66,+6,+3,+3,3,-1,2,-4,-1,-2,+0,
+Behir,"Enorme mostruosità, neutrale malvagio",28,224,+18,+17,+16,6,3,4,-2,2,1,+3,
+Blatta Esplosiva,"Piccolo Elementale, neutrale",16,47,+4,+5,+2,1,2,1,-5,-1,-2,+2,
+B.O.C.,"grande mostruosità, legale malvagio",19,83,+7,+8,+6,4,3,2,-2,1,-1,+3,
+Bugbear,"Media umanoide (goblinoide), Arrogante, Impulsivo",16,31,+3,+4,+2,2,2,1,-1,0,-1,+2,
+Bulette,"Grande bestia, disallineato",18,115,+11,+6,+6,4,0,5,-4,0,-3,+0,
+Cavaliere Nero,"Media non morto, Arrogante, Paziente",34,375,+27,+23,+24,5,1,5,1,2,3,+1,
+Centauro,"Grande mostruosità, neutrale buono",16,49,+5,+5,+4,4,2,2,-1,1,0,+2,
+Chimera,"Grande mostruosità, Arrogante, Vanitoso",19,129,+12,+8,+10,4,0,4,-4,2,0,+0,
+Chuul,"Grande aberrazione, caotico malvagio",16,87,+8,+5,+5,4,0,3,-3,0,-3,+0,
+Coboldo,"Piccola umanoide (coboldo), legale malvagio",14,40,+0,+3,-1,-2,2,-1,-1,-2,-1,+2,
+Cockatrice,"Piccola mostruosità, disallineato",14,34,+2,+2,+2,-2,1,1,-4,1,-3,+1,
+Couatl,"Media celestiale, legale buono",21,87,+8,+10,+10,3,5,3,4,5,4,+5,
+Cumulo Strisciante,"Grande pianta, disallineato",17,105,+9,+5,+6,4,-1,3,-3,0,-3,+0,
+Balor,"Enorme immondo (demone), caotico malvagio",36,414,+29,+25,+26,8,2,6,5,3,6,+5,
+Demogorgone,"enorme immondo (principe demone), caotico malvagio",45,613,+40,+34,+35,9,2,8,5,3,7,+5,
+Dretch,"Piccola immondo (demone), caotico malvagio",12,37,+2,+1,+0,0,0,1,-3,-1,-4,+0,
+Glabrezu,"Grande immondo (demone), caotico malvagio",24,195,+16,+13,+14,5,2,5,4,3,3,+4,
+Hezrou,"Grande immondo (demone), caotico malvagio",24,175,+16,+3,+9,4,3,5,5,1,1,+5,
+Marilith,"Grande immondo (demone), caotico malvagio",36,335,+25,+25,+23,4,5,5,4,3,5,+5,
+Nalfeshnee,"Grande immondo (demone), caotico malvagio",27,288,+22,+16,+17,5,0,6,4,1,2,+4,
+Orcus,"enorme immondo (principe demone), caotico malvagio",45,587,+39,+34,+37,8,2,7,5,5,7,+5,
+Silku,"Media immondo (demone), caotico malvagio",16,51,+6,+5,+3,2,2,3,1,0,2,+1,
+Quasit,"Minuscola immondo (demone, mutaforma), caotico malvagio",16,30,+2,+5,+2,-3,3,0,-2,0,0,+3,
+Succube,"medio immondo (demone), caotico malvagio",19,79,+6,+8,+6,-1,3,1,2,1,5,+3,
+Vrock,"Grande immondo (demone), caotico malvagio",21,129,+12,+10,+9,3,2,4,-1,1,-1,+2,
+Destriero dell'Incubo,"Grande immondo, legale malvagio",15,69,+7,+6,+5,4,2,3,0,1,2,+2,
+Diavolo Barbuto,"Media immondo (diavolo), legale malvagio",17,66,+6,+6,+4,3,2,2,-1,0,0,+2,
+Diavolo delle Catene,"Media immondo (diavolo), legale malvagio",23,167,+14,+12,+11,4,2,4,0,1,2,+2,
+Diavolo Cornuto,"Grande immondo (diavolo), legale malvagio",28,235,+19,+17,+17,6,3,5,1,3,3,+3,
+Diavolo della Fossa,"Grande immondo (diavolo), legale malvagio",38,455,+31,+26,+28,8,2,7,6,4,7,+6,
+Diavolo del Ghiaccio,"Grande immondo (diavolo), legale malvagio",30,281,+21,+19,+19,5,2,4,4,2,4,+4,
+Diavolo d'Ossa,"Grande immondo (diavolo), legale malvagio",25,186,+15,+14,+13,4,3,4,1,2,3,+1,
+Diavolo Spinoso,"Piccola immondo (diavolo), legale malvagio",16,47,+3,+4,+3,0,2,1,0,2,-1,+2,
+Erinni,"Media immondo (diavolo), legale malvagio",29,243,+19,+18,+17,4,3,4,2,2,4,+3,
+Imp,"Minuscola immondo (diavolo, mutaforma), legale malvagio",16,31,+3,+5,+3,-2,3,1,0,1,2,+3,
+Lemure,"Media immondo (diavolo), legale malvagio",9,15,+0,-3,+0,0,-3,0,-5,0,-4,+0,
+Plesiosauro,"Grande bestia, disallineato",16,51,+6,+5,+4,4,2,3,-4,1,-3,+2,
+Tirannosauro,"Enorme bestia, disallineato",21,167,+14,+10,+11,7,0,4,-4,1,-1,+0,
+Triceratopo,"Enorme bestia, disallineato",17,105,+9,+5,+6,6,-1,3,-4,0,-3,+0,
+Divora Cervelli,"Piccola aberrazione, caotico malvagio",28,195,+16,+17,+11,1,6,5,3,0,3,+6,
+Dobi,"Minuscola fatata, neutrale",11,15,+2,-1,+1,-3,-1,2,-2,1,3,+0,
+Doppelganger,"Media mostruosità (mutaforma), neutrale",19,66,+6,+8,+5,0,4,2,0,1,2,+4,
+Drago Bianco Antico,"Mastodontica drago, caotico malvagio",36,475,+32,+24,+25,8,0,8,3,1,2,+0,
+Drago Bianco Adulto,"Enorme drago, caotico malvagio",27,288,+22,+16,+17,6,0,6,2,1,1,+0,
+Drago Bianco Giovane,"Grande drago, caotico malvagio",19,129,+12,+8,+8,4,0,4,-2,0,1,+0,
+Drago Bianco Cucciolo,"Media drago, caotico malvagio",14,49,+5,+3,+3,2,0,2,-3,0,0,+0,
+Drago Blu Antico,"Mastodontica drago, legale malvagio",39,544,+36,+28,+31,9,0,8,4,3,5,+4,
+Drago Blu Adulto,"Enorme drago, legale malvagio",31,351,+26,+20,+22,7,0,6,3,2,4,+3,
+Drago Blu Giovane,"Enorme drago, legale malvagio",22,186,+15,+11,+12,5,0,4,2,1,3,+2,
+Drago Blu Cucciolo,"Enorme drago, legale malvagio",15,66,+6,+4,+4,3,0,2,1,0,2,+1,
+Drago Giallo Antico,"Mastodontica drago, neutrale malvagio",40,544,+36,+29,+30,10,1,8,3,2,4,+3,
+Drago Nero Antico,"Mastodontica drago, caotico malvagio",39,477,+33,+28,+28,8,2,7,3,2,4,+3,
+Drago Nero Adulto,"Enorme drago, caotico malvagio",34,355,+26,+23,+22,6,2,5,2,1,3,+2,
+Drago Nero Giovane,"Grande drago, caotico malvagio",22,141,+12,+11,+9,4,2,3,1,0,2,+2,
+Drago Nero Cucciolo,"Media drago, caotico malvagio",16,47,+4,+5,+3,2,2,1,0,0,1,+2,
+Drago Porpora Antico,"Mastodontica drago, legale malvagio",41,433,+31,+30,+31,8,3,4,4,4,4,+4,
+Drago Rosso Antico,"Mastodontica drago, caotico malvagio",40,591,+38,+29,+31,10,0,9,4,2,6,+4,
+Drago Rosso Adulto,"Enorme drago, caotico malvagio",32,389,+28,+21,+22,8,0,7,3,1,5,+3,
+Drago Rosso Giovane,"Grande drago, caotico malvagio",24,215,+17,+12,+12,6,0,5,2,0,4,+2,
+Drago Rosso Cucciolo,"Media drago, caotico malvagio",16,87,+8,+5,+5,4,0,3,1,0,2,+1,
+Drago Verde Antico,"Mastodontica drago, legale malvagio",39,499,+34,+28,+30,8,1,7,5,3,4,+5,
+Drago Verde Adulto,"Enorme drago, legale malvagio",31,315,+23,+19,+20,6,1,5,4,2,3,+4,
+Drago Verde Giovane,"Grande drago, legale malvagio",22,159,+13,+11,+11,4,1,3,3,1,2,+3,
+Drago Verde Cucciolo,"Media drago, legale malvagio",15,47,+4,+4,+3,2,1,1,2,0,1,+1,
+Drago d'Argento Antico,"Mastodontica drago, legale buono",39,567,+37,+28,+30,10,0,9,4,2,6,+4,
+Drago d'Argento Adulto,"Enorme drago, legale buono",31,367,+27,+20,+21,8,0,7,3,1,5,+3,
+Drago d'Argento Giovane,"Grande drago, legale buono",22,195,+16,+11,+11,6,0,5,2,0,4,+2,
+Drago d'Argento Cucciolo,"Media drago, legale buono",14,51,+6,+3,+3,4,0,3,1,0,2,+1,
+Drago di Bronzo Antico,"Mastodontica drago, caotico buono",38,521,+35,+27,+30,9,0,8,4,3,5,+4,
+Drago di Bronzo Adulto,"Enorme drago, caotico buono",30,330,+24,+18,+20,7,0,6,3,2,4,+3,
+Drago di Bronzo Giovane,"Grande drago, caotico buono",21,167,+14,+10,+11,5,0,4,2,1,3,+2,
+Drago di Bronzo Cucciolo,"Media drago, caotico buono",14,49,+5,+3,+3,3,0,2,1,0,2,+2,
+Drago d'Oro Antico,"Mastodontica drago, legale buono",42,591,+38,+31,+32,10,2,9,4,3,9,+4,
+Drago d'Oro Adulto,"Enorme drago, legale buono",34,389,+28,+23,+23,8,2,7,3,2,7,+3,
+Drago d'Oro Giovane,"Grande drago, legale buono",26,215,+17,+14,+13,6,2,5,3,1,5,+3,
+Drago d'Oro Cucciolo,"Media drago, legale buono",17,69,+7,+6,+4,4,2,3,2,0,3,+2,
+Drago d'Ottone Antico,"Mastodontica drago, caotico buono",35,455,+31,+24,+26,8,0,7,3,2,4,+3,
+Drago d'Ottone Adulto,"Enorme drago, caotico buono",25,275,+21,+16,+17,6,0,5,2,1,3,+2,
+Drago d'Ottone Cucciolo,"Media drago, caotico buono",17,31,+3,+2,+2,2,0,1,0,0,1,+0,
+Drago di Rame Antico,"Mastodontica drago, caotico buono",38,477,+33,+27,+29,8,1,7,5,3,4,+5,
+Drago di Rame Adulto,"Enorme drago, caotico buono",29,295,+22,+18,+19,6,1,5,4,2,3,+4,
+Drago di Rame Giovane,"Grande drago, caotico buono",21,141,+12,+10,+10,4,1,3,3,1,2,+3,
+Drago di Rame Cucciolo,"Media drago, caotico buono",,,+3,+3,+2,2,1,1,2,0,1,+2,
+Tàhil,"Colossale drago, Patrono",43,765,+46,+36,+44,10,0,10,8,8,9,+8,
+Drider,"Grande mostruosità, caotico malvagio",22,129,+12,+11,+10,3,3,4,1,2,1,+3,
+Driade,"Media fatato, neutrale",14,30,+2,+3,+4,0,1,0,2,2,4,+2,
+Elementale dell'Acqua Generico,Elementale,,15,,,,,,,,,,,
+Elementale dell'Aria Generico,"GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)",,15,,,,,,,,,,,
+Elementale del Fuoco Generico,"GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)",,15,,,,,,,,,,,
+Elementale della Terra Generico,"GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)",,15,+4,+5,+4,,,,,,,,
+Ettercap,"Media mostruosità, neutrale malvagio",15,47,+4,+5,+4,2,2,1,-2,1,-2,+2,
+Ettin,"Grande gigante, caotico malvagio",15,87,+8,+4,+5,5,-1,3,-2,0,-1,+0,
+Fantasma,"Media non morto, qualsiasi tratto",17,75,+5,+6,+6,-2,1,0,0,1,3,+0,
+Fauci Gorgoglianti,"Media aberrazione, neutrale",13,51,+6,+2,+3,0,-1,3,-4,0,-2,+0,
+Fenice,"Mastodontica celestiale, Coraggioso, Protettivo, Buono",36,315,+23,+24,+24,8,6,5,5,6,6,+6,
+Fioritura Ossea,"Grande non morto, non allineato",21,129,+12,+10,+6,3,2,4,-2,-2,-3,+2,
+Fungo Stridente,"Media pianta, disallineato",7,15,+0,-5,-4,-5,-5,0,-5,-4,-5,+0,
+Fungo Violetto,"Media pianta, disallineato",7,36,+1,-4,-3,-4,-5,0,-5,-4,-5,+0,
+Fuoco Fatuo,"Minuscola non morto, caotico malvagio",23,45,+3,+12,+5,-5,9,0,1,2,0,+9,
+Fustigatore,"Grande mostruosità, neutrale malvagio",17,105,+9,+5,+9,4,-1,3,3,3,-2,+3,
+Gablin,"Piccolo immondo (goblinoide), caotico malvagio",13,37,+3,+2,+0,2,1,1,-2,-1,-2,+1,
+Campione Gablin,"Grande immondo, caotico malvagio",17,69,+7,+6,+4,4,2,3,1,0,-1,+2,
+Paladino Gablin,"Grande immondo, caotico malvagio",21,123,+11,+10,+11,5,2,3,2,3,3,+2,
+Gargoyle,"Media elementale, caotico malvagio",14,51,+6,+3,+3,2,0,3,-2,0,-2,+0,
+G.E.C.,"Grande aberrazione, caotico malvagio",25,215,+17,+13,+13,6,1,5,1,1,1,+1,
+Djinni,"Grande elementale, caotico buono",27,246,+20,+16,+17,5,2,6,2,3,5,+2,
+Efreeti,"Grande elementale, legale malvagio",26,257,+21,+15,+16,6,1,7,3,2,3,+3,
+Ghast,"Media non morto, caotico malvagio",17,45,+3,+6,+3,3,3,0,0,0,-1,+3,
+Ghoul,"Media non morto, caotico malvagio",18,30,+105,+10,+10,1,2,0,-2,0,-2,+2,
+"Ghoul, Nero","Media non morto, caotico malvagio",19,117,+10,+10,+9,4,2,2,0,1,-2,+2,
+"Ghoul, Madre","Media non morto, caotico malvagio",21,100,+8,+9,+7,0,3,2,2,1,2,+3,
+"Ghoul, putrescente","Grande non morto, caotico malvagio",17,87,+8,+7,+5,1,2,3,-1,0,-2,+2,
+Gigante di Collina,"Enorme gigante, caotico malvagio",17,110,+10,+5,+5,5,-1,4,-3,-1,-2,+0,
+Gigante del Fuoco,"Enorme gigante, legale malvagio",21,204,+17,+10,+13,7,-1,6,0,2,1,+0,
+Gigante del Gelo,"Enorme gigante, neutrale malvagio",20,175,+15,+9,+10,6,-1,5,-1,0,1,+0,
+Gigante delle Nuvole,"Enorme gigante, neutrale buono (50\%) o neutrale malvagio (50\%)",22,204,+17,+11,+14,8,0,6,1,3,3,+1,
+Gigante di Pietra,"Enorme gigante, neutrale",22,155,+14,+11,+10,6,2,5,0,1,-1,+2,
+Gigante delle Tempeste,"Enorme gigante, caotico buono",29,275,+21,+18,+20,9,2,5,3,4,4,+6,
+Gnoll,"Media umanoide (gnoll), caotico malvagio",14,33,+1,+2,+1,2,1,0,-2,0,-2,+1,
+Gnomo delle Profondità,"Piccola umanoide (gnomo), neutrale buono",14,35,+3,+3,+1,2,2,2,1,0,-1,+2,
+Globulo,"Piccola aberrazione, malvagio",15,30,+2,+4,+3,-2,2,0,3,1,3,+2,
+Goblin,"Piccola umanoide (goblinoide), caotico malvagio",12,37,+2,+1,-1,0,0,1,-1,-2,-1,+0,
+Golem di Argilla,"Grande costrutto, disallineato",21,186,+15,+10,+10,5,-1,4,-4,-1,-5,+0,
+Golem di Carne,"Media costrutto, neutrale",17,110,+10,+5,+6,4,-1,4,-2,0,-3,+0,
+Golem di Ferro,"Grande costrutto, disallineato",30,335,+25,+19,+20,7,-1,5,-4,0,-5,+0,
+Golem di Pietra,"Grande costrutto, disallineato",23,215,+17,+11,+12,6,-1,5,-4,0,-5,+0,
+Gorgone,"Grande mostruosità, disallineato",18,110,+10,+6,+7,5,0,4,-4,1,-2,+0,
+Grick,"Media mostruosità, neutrale",16,45,+3,+5,+5,2,2,0,-4,2,-3,+2,
+Grifone,"Grande mostruosità, disallineato",16,51,+6,+5,+4,4,2,3,-4,1,-1,+2,
+Grimlock,"Media umanoide (grimlock), neutrale malvagio",13,37,+2,+2,+0,3,1,1,-1,-1,-2,+1,
+Guardiano Protettore,"Grande costrutto, disallineato",19,148,+13,+8,+9,4,-1,4,-2,0,-4,+0,
+Hobgoblin,"Media umanoide (goblinoide), legale malvagio",17,34,+2,+2,+1,1,1,1,0,0,-1,+1,
+Idra,"Enorme mostruosità, disallineato",22,175,+15,+11,+10,5,1,5,-4,0,-2,+1,
+Ippogrifo,"Grande bestia, disallineato",14,31,+3,+3,+3,3,1,1,-4,1,-1,+1,
+Kraken,"Mastodontica mostruosità (titano), caotico malvagio",39,521,+35,+28,+32,10,0,7,6,4,5,+6,
+Lamia,"Grande mostruosità, caotico malvagio",17,83,+7,+6,+7,3,1,2,2,2,3,+2,
+Lich,"Media non morto, tratti malvagi",40,393,+29,+29,+28,0,3,3,5,2,3,+5,
+Lucertoloide,"Media umanoide (lucertoloide), neutrale",12,34,+2,+1,+2,2,0,1,-2,1,-2,+0,
+Maledetto immortale,"Media aberrazione (umano), tendenzialmente folle",16,83,+7,+6,+4,3,1,2,-1,-2,-2,+1,
+Cinghiale Mannaro,Media umanoide neutrale malvagio,16,83,+7,+5,+5,3,0,2,0,0,-1,+0,
+Lupo Mannaro,"Media umanoide (umano, mutaforma), caotico malvagio",16,66,+6,+5,+4,2,1,2,0,0,0,+1,
+Orso Mannaro,"Media umanoide (umano, mutaforma), neutrale buono",18,105,+9,+6,+7,4,0,3,0,1,1,+0,
+Ratto Mannaro,"Media umanoide (umano, mutaforma), legale malvagio",16,47,+4,+5,+3,0,2,1,0,0,-1,+2,
+Tigre Mannara,"Media umanoide (umano, mutaforma), neutrale",18,87,+8,+7,+6,3,2,3,0,1,0,+2,
+Manticora,"Grande mostruosità, legale malvagio",18,69,+7,+7,+5,3,3,3,-2,1,-1,+3,
+Manto Assassino,"Grande aberrazione, caotico neutrale",23,143,+11,+12,+11,3,2,1,1,1,2,+2,
+Mantoscuro,"Piccola mostruosità, disallineato",14,34,+2,+2,+1,3,1,1,-4,0,-3,+1,
+Medusa,"Media mostruosità, legale malvagio",21,123,+11,+10,+9,0,2,3,1,1,2,+2,
+Mefito di Ghiaccio,"Piccola elementale, neutrale malvagio",14,33,+1,+2,+1,-2,1,0,-1,0,1,+1,
+Mefito di Magma,"Piccola elementale, neutrale malvagio",14,34,+2,+2,+1,-1,1,1,-2,0,0,+1,
+Mefito di Polvere,"Piccola elementale, neutrale malvagio",14,33,+1,+3,+1,-3,2,0,-1,0,0,+2,
+Mefito di Vapore,"Piccola elementale, neutrale malvagio",12,36,+1,+1,+1,-3,0,0,0,0,1,+0,
+Megera Marina,"Media fatato, caotico malvagio",15,51,+6,+4,+4,3,1,3,1,1,1,+1,
+Megera Notturna,"Media immondo, neutrale malvagio",20,105,+9,+8,+8,4,2,3,3,2,3,+3,
+Megera Verde,"Media fatato, neutrale malvagio",16,69,+7,+5,+6,4,1,3,1,2,2,+1,
+Ameba Paglierina,"Grande melma, disallineato",12,49,+5,+1,+1,2,-2,2,-4,-2,-5,+0,
+Cubo Gelatinoso,"Grande melma, disallineato",10,55,+8,-1,+1,2,-4,5,-5,-2,-5,+0,
+Melma Grigia,"Media melma, disallineato",10,36,+4,-1,-1,1,-2,3,-5,-2,-4,+0,
+Protoplasma Nero,"Grande melma, disallineato",13,87,+8,+2,+3,3,-3,3,-5,-2,-5,+0,
+Mimic,"Media mostruosità (mutaforma), neutrale",15,49,+5,+4,+4,3,1,2,-3,1,-1,+1,
+Minotauro,"Grande mostruosità, caotico malvagio",15,69,+7,+4,+7,4,0,3,-2,3,-1,+0,
+Mummia,"Media non morto, legale malvagio",14,66,+6,+3,+4,3,-1,2,-2,0,1,+0,
+Mummia Sovrana,"Media non morto, legale malvagio",30,285,+21,+18,+22,4,0,3,0,4,3,+0,
+Naga Guardiano,"Grande mostruosità, legale buono",28,195,+15,+16,+16,4,4,3,3,4,4,+4,
+Naga Spirituale,"Grande mostruosità, caotico malvagio",24,151,+12,+13,+12,4,3,2,3,2,3,+3,
+Nano Oscuro,"Media umanoide (nano), legale malvagio",13,32,+4,+2,+2,2,0,2,0,0,-1,+0,
+Armatura Animata,"Media costrutto, disallineato",13,31,+3,+2,-2,2,0,1,-5,-4,-5,+0,
+Spada Volante,"Piccola costrutto, disallineato",14,36,+1,+3,-2,1,2,0,-5,-3,-5,+2,
+Tappeto del Soffocamento,"Grande costrutto, disallineato",16,45,+3,+5,-1,3,2,0,-5,-4,-5,+2,
+Ogre,"Grande gigante, caotico malvagio",13,51,+6,+2,+1,4,-1,3,-3,-2,-2,+0,
+Ombra,"Media non morto, caotico malvagio",14,34,+2,+3,+1,-2,2,1,-2,0,-1,+2,
+Omuncolo,"Minuscola costrutto, neutrale",14,15,+0,+2,+0,-3,2,0,0,0,-2,+2,
+Oni,"Grande gigante, legale malvagio",20,141,+12,+9,+10,4,0,3,2,1,2,+2,
+Orchetto,"Media umanoide (orco), caotico neutrale",15,35,+3,+2,+1,2,1,2,0,0,0,+1,
+Orco,"Media umanoide (orco), caotico malvagio",14,33,+5,+3,+2,3,1,3,-2,0,0,+1,
+Orrore Arrampicamuri,"Grande mostruosità, disallineato",15,66,+6,+4,+5,4,0,2,-2,1,-2,+0,
+Orsogufo,"Grande bestia, disallineato",16,69,+7,+5,+5,5,1,3,-4,1,-2,+1,
+Orsogufo Saggio,"Grande mostruosità, neutrale",16,66,+6,+5,+7,3,1,2,3,3,1,+3,
+Otyugh,"Grande aberrazione, neutrale",18,110,+10,+6,+7,3,0,4,2,1,-2,+2,
+Panoptikhan,"Grande aberrazione, malvagia",27,219,+17,+16,+17,0,1,2,3,2,2,+3,
+Pegaso,"Grande celestiale, caotico buono",16,51,+6,+5,+5,4,2,3,0,2,1,+2,
+Persecutore Invisibile,"Media elementale, neutrale",23,117,+10,+12,+10,3,4,2,0,2,0,+4,
+Pseudodrago,"Minuscola drago, neutrale buono",14,37,+2,+3,+2,-2,2,1,0,1,0,+2,
+Rakshasa,"Media immondo, legale malvagio",30,262,+20,+19,+19,2,3,4,1,3,5,+3,
+Razziamorti,"Grande costrutto, non morto, non allineato",19,129,+12,+8,+6,5,0,4,-4,-2,-5,+0,
+Remorhaz,"Enorme mostruosità, disallineato",26,235,+19,+15,+14,7,1,5,-3,0,-3,+1,
+Rugginofago,"Media Mostruosità, disallineato",14,34,+2,+2,+2,1,1,1,-4,1,-2,+1,
+Sahuagin,"Media umanoide (sahuagin), legale malvagio",12,34,+2,+1,+2,1,0,1,1,1,-1,+1,
+Salamandra,"Grande elementale, neutrale malvagio",20,100,+8,+8,+6,4,2,2,0,0,1,+2,
+Satiro,"Media fatato, caotico neutrale",16,33,+1,+4,+1,1,3,0,1,0,2,+3,
+Scheletro,"Media non morto, legale malvagio",14,38,+3,+3,+0,0,2,2,-2,-1,-3,+2,
+Scheletro Campione,"Medio non morto, legale malvagio",16,69,+7,+5,+3,4,1,3,-2,-1,-3,+1,
+Scheletro di Saurovallo da Guerra,"Grande non morto, legale malvagio",14,35,+3,+2,+0,4,1,2,-4,-1,-3,+1,
+Segugio Infernale,"Media immondo, legale malvagio",16,66,+6,+5,+5,3,1,2,-2,1,-2,+1,
+Androsfinge,"Grande mostruosità, legale neutrale",32,355,+26,+21,+25,6,0,5,3,4,6,+3,
+Ginosfinge,"Grande mostruosità, legale neutrale",27,213,+17,+16,+18,4,2,3,4,4,4,+4,
+Sibilante,"Grande mostruosità, caotico",15,47,+4,+4,+3,2,1,1,-3,0,-2,+1,
+Spettro,"Medio non morto, malvagio",15,30,+2,+4,+2,-5,2,0,0,0,2,+2,
+Spiritello,"Minuscola fatato, neutrale buono",16,36,+1,+5,+2,-4,4,0,2,1,0,+4,
+Strige (Uccello Stigeo),"Minuscola bestia, disallineato",15,42,+1,+4,+0,-3,3,0,-4,-1,-2,+3,
+Tarrasque,"Colossale mostruosità (titano), disallineato",48,765,+46,+36,+36,10,0,10,-2,0,0,+0,
+Teschio Fiammeggiante,"Piccolo non morto, Tratti malvagi",15,47,+4,+4,+3,0,1,1,1,0,0,+1,
+Testuggine Dragona,"Mastodontica drago, neutrale",32,355,+26,+21,+22,7,0,5,0,1,1,+0,
+"Topi, La","Minuscola fatata, Patrono",18,15,+18,+24,+20,-1,4,0,6,2,6,+4,
+Torciascura,"Media non morto, malvagio",17,83,+7,+6,+4,3,1,2,0,-1,-2,+1,
+Troll,"Grande gigante, caotico malvagio",19,115,+11,+7,+5,5,1,5,-2,-1,-2,+1,
+Uomo Acquatico,"Media umanoide (uomo acquatico), neutrale",13,43,+2,+2,+1,0,1,1,0,0,1,+1,
+Uomo Albero (Arborom),"Enorme pianta, caotico buono",21,195,+16,+10,+14,6,-1,5,1,3,1,+1,
+Uomo Magma,"Piccola elementale, caotico neutrale",14,34,+2,+3,+1,-2,2,1,-1,0,0,+2,
+Unicorno,"Grande celestiale, legale buono",20,100,+8,+8,+9,4,2,2,0,3,3,+2,
+Vampiro,"Media non morto (mutaforma), legale malvagio",31,262,+20,+20,+18,4,4,4,3,2,4,+4,
+Progenie Vampirica,"Media non morto, neutrale malvagio",22,123,+11,+11,+8,3,3,3,0,0,1,+3,
+Vermi delle carne,"minuscola mostruosità, disallineato",12,28,-1,+0,-4,-4,0,-2,-4,0,-4,+0,
+Verme Purpureo,"Mastodontica mostruosità, disallineato",28,330,+24,+16,+17,9,-2,6,-5,-1,-3,+0,
+Verme Strisciante Tentacolato,"Grande mostruosità, disallineato",17,87,+5,+4,+7,4,1,3,-4,1,-3,+1,
+Viverna,"Grande drago, disallineato",19,123,+11,+8,+9,4,0,3,-3,1,-2,+0,
+Wight,"Media non morto, neutrale malvagio",17,69,+7,+6,+5,2,2,3,0,1,2,+2,
+Wraith,"Media non morto, neutrale malvagio",21,105,+9,+9,+8,-2,3,3,1,2,2,+3,
+Xorn,"Media elementale, neutrale",18,120,+12,+6,+6,3,0,6,0,0,0,+0,
+Zombi,"Media non morto, neutrale malvagio",10,40,+4,-1,-1,1,-2,3,-4,-2,-3,+0,
+Zombi Ogre,"Grande non morto, neutrale malvagio",12,53,+7,+1,+1,4,-2,4,-4,-2,-3,+0,
+Albero Risvegliato,"Enorme pianta, disallineato",14,49,+5,+1,+3,4,-2,2,0,0,-2,+0,
+Alce,"Grande bestia, disallineato",13,12,+3,+2,+0,3,0,1,-4,0,-2,+0,
+Alce Gigante,"Enorme bestia, disallineato",17,42,+5,+6,+5,4,3,2,-2,2,0,+3,
+Aquila,"Piccola bestia, disallineato",14,6,+1,+4,+3,-2,2,0,-4,2,-2,+2,
+Aquila Gigante,"Grande bestia, disallineato",16,30,+4,+5,+4,3,3,1,-1,2,0,+3,
+Avvoltoio,"Media bestia, disallineato",13,6,+3,+2,+3,-2,0,1,-4,1,-3,+0,
+Avvoltoio Gigante,"Grande bestia, disallineato",13,6,+4,+1,+3,2,0,2,-2,1,-2,+0,
+Babbuino,"Piccola bestia, disallineato",14,5,+3,+2,+2,-1,2,0,-3,1,-2,+2,
+Balena Assassina (Orca),"Enorme bestia, disallineato",15,90,+5,+4,+5,4,0,1,-4,1,-2,+0,
+Becco d'Ascia,"Grande bestia, disallineato",13,19,+2,+2,+1,2,1,1,-4,0,-3,+1,
+Cane della Morte,"Media mostruosità, malvagio",15,39,+4,+4,+3,2,2,2,-4,1,-2,+1,
+Cane Intermittente,"Media mostruosità, malvagio",15,22,+2,+4,+2,1,3,1,0,1,0,+3,
+Caprone,"Media bestia, disallineato",12,6,+2,+0,+0,1,0,0,-4,0,-3,+0,
+Caprone Gigante,"Media bestia, disallineato",13,19,+3,+1,+2,3,0,1,-4,1,-2,+0,
+Cavallo Marino Gigante,"Grande bestia, disallineato",13,19,+1,+3,+2,1,2,0,-4,1,-3,+0,
+Cervo,"Media bestia, disallineato",15,8,+2,+3,+2,0,3,0,-4,2,-3,+3,
+Cinghiale,"Media bestia, disallineato",13,13,+3,+1,+1,1,0,1,-4,-1,-3,+0,
+Cinghiale Gigante,"Grande bestia, disallineato",14,,+6,+3,+1,3,0,3,-4,-2,-3,+0,
+Coccodrillo,"Grande bestia, disallineato",12,,+2,+1,+1,2,0,1,-4,0,-3,+0,
+Coccodrillo Gigante,"Enorme bestia, disallineato",17,,+9,+5,+6,5,-1,3,-4,0,-2,-1,
+Corvo,"Minuscola bestia, disallineato",14,,-1,+2,+1,-4,2,-1,-4,1,-2,+2,
+Donnola Gigante,"Media bestia, disallineato",15,,+1,+4,+2,0,3,0,-3,1,-3,+3,
+Elefante,"Enorme bestia, disallineato",16,,+8,+4,+5,6,-1,3,-4,0,-2,-1,
+Falco,"Minuscola bestia, disallineato",15,,-1,+3,+2,-3,3,-1,-4,2,-2,+3,
+Falco di Sangue,"Piccola bestia, disallineato",14,,+1,+3,+3,-2,2,0,-4,2,-3,+2,
+Pirana,"Minuscola bestia, disallineato",15,,-1,+3,-2,-4,3,-1,-5,-2,-4,+3,
+Gatto,"Minuscola bestia, disallineato",14,,+0,+2,+1,-4,2,0,-4,1,-2,+2,
+Granchio Gigante,"Media bestia, disallineato",14,,+1,+3,+0,1,2,0,-5,-1,-4,+2,
+Gufo,"Minuscola bestia, disallineato",13,,-1,+1,+1,-4,1,-1,-4,1,-2,+1,
+Gufo Gigante,"Grande bestia, neutrale",14,,+2,+3,+2,1,2,1,-1,1,0,+2,
+Iena,"Media bestia, disallineato",13,,+1,+1,+1,0,1,1,-4,1,-3,+1,
+Iena Gigante,"Grande bestia, disallineato",15,,+4,+4,+3,3,2,2,-4,1,-2,+2,
+Leone,"Grande bestia, disallineato",15,,+3,+4,+3,3,2,1,-4,1,-1,+2,
+Lucertola Gigante,"Grande bestia, disallineato",13,,+2,+2,+1,2,1,1,-4,0,-3,+1,
+Lupo,"Media bestia, disallineato",14,,+2,+3,+2,1,2,1,-4,1,-2,+2,
+Dinolupo (Metalupo),"Grande bestia, disallineato",15,,+4,+4,+3,3,2,2,-2,1,-2,+2,
+Lupo Invernale,"Grande mostruosità, neutrale malvagio",16,,+6,+5,+5,4,1,2,-2,1,-1,+1,
+Mammut,"Enorme bestia, disallineato",18,,+13,+7,+8,7,-1,5,-4,0,-2,-1,
+Mastino,"Media bestia, disallineato",14,,+2,+3,+2,1,2,1,-4,1,-2,+2,
+Orso Bruno,"Grande bestia, disallineato",13,,+5,+2,+3,4,0,3,-4,1,-2,+0,
+Orso Nero,"Media bestia, disallineato",12,,+3,+1,+2,2,0,2,-4,1,-2,+0,
+Orso Polare,"Grande bestia, disallineato",14,,+6,+3,+4,5,0,3,-4,1,-2,+0,
 Orso delle Caverne,,,,,,,,,,,,,,
-Pantera,,,,,,,,,,,,,,
-Ragno,,,,,,,,,,,,,,
-Ragno Fase,,,,,,,,,,,,,,
-Ragno Gigante,,,,,,,,,,,,,,
-Ragno Lupo Gigante,,,,,,,,,,,,,,
-Rana,,,,,,,,,,,,,,
-Rana Gigante,,,,,,,,,,,,,,
-Ratto,,,,,,,,,,,,,,
-Ratto Gigante,,,,,,,,,,,,,,
+Pantera,"Media bestia, disallineato",14,,+1,+3,+3,2,2,0,-4,2,-2,+2,
+Ragno,"Minuscola bestia, disallineato",14,,-4,+2,-4,,,,,,,+2,
+Ragno Fase,"Grande mostruosità, disallineato",17,,+5,+6,+4,2,2,1,-2,0,-2,+2,
+Ragno Gigante,"Grande bestia, disallineato",16,,+3,+5,+2,2,3,1,-4,0,-3,+2,
+Ragno Lupo Gigante,"Media bestia, disallineato",15,,+2,+4,+2,1,3,1,-4,1,-3,+3,
+Rana,"Minuscola bestia, disallineato",13,,-1,+1,-1,-5,1,-1,-5,-1,-4,+1,
+Rana Gigante,"Media bestia, disallineato",13,,+1,+2,+1,1,1,0,-4,0,-4,+1,
+Ratto,"Minuscola bestia, disallineato",12,,-1,+0,+0,-4,0,-1,-4,0,-3,+0,
+Ratto Gigante,"Piccola bestia, disallineato",14,,+1,+3,+1,-2,2,0,-4,0,-3,+2,
 Ratto Gigante ammalato,,,,,,,,,,,,,,
-Rinoceronte,,,,,,,,,,,,,,
-Rospo Gigante,,,,,,,,,,,,,,
-Saurovallo da Corsa,,,,,,,,,,,,,,
-Saurovallo da Guerra,,,,,,,,,,,,,,
-Saurovallo giovane,,,,,,,,,,,,,,
-Saurovallo da Tiro,,,,,,,,,,,,,,
-Saurovallo nano,,,,,,,,,,,,,,
-Scarabeo di Fuoco Gigante,,,,,,,,,,,,,,
-Sciacallo,,,,,,,,,,,,,,
-Sciami,,,,,,,,,,,,,,
-Sciame di Corvi,,,,,,,,,,,,,,
-Sciame di Pirana,,,,,,,,,,,,,,
-Sciame di Insetti,,,,,,,,,,,,,,
-Sciame di Pipistrelli,,,,,,,,,,,,,,
-Sciame di Ragni,,,,,,,,,,,,,,
-Sciame di Ratti,,,,,,,,,,,,,,
-Scimmia,,,,,,,,,,,,,,
-Scimmione,,,,,,,,,,,,,,
-Scimmione Gigante,,,,,,,,,,,,,,
-Scorpione,,,,,,,,,,,,,,
-Scorpione Gigante,,,,,,,,,,,,,,
-Serpente Costrittore,,,,,,,,,,,,,,
-Serpente Costrittore Gigante,,,,,,,,,,,,,,
-Serpente Velenoso,,,,,,,,,,,,,,
-Serpente Velenoso Gigante,,,,,,,,,,,,,,
-Serpente Volante,,,,,,,,,,,,,,
-Squalo Cacciatore,,,,,,,,,,,,,,
-Squalo Corallino,,,,,,,,,,,,,,
-Squalo Gigante,,,,,,,,,,,,,,
-Strige,,,,,,,,,,,,,,
-Tasso,,,,,,,,,,,,,,
-Tasso Gigante,,,,,,,,,,,,,,
-Tigre,,,,,,,,,,,,,,
-Tigre dai Denti a Sciabola,,,,,,,,,,,,,,
-Vespa Gigante,,,,,,,,,,,,,,
-Worg,,,,,,,,,,,,,,
+Rinoceronte,"Grande bestia, disallineato",13,,+5,+2,+4,5,-1,2,-4,1,-2,-1,
+Rospo Gigante,"Grande bestia, disallineato",14,,+3,+3,+2,2,1,1,-4,0,-4,+1,
+Saurovallo da Corsa,"Grande bestia, disallineato",12,,+2,+1,+1,3,0,1,-3,0,-2,+0,
+Saurovallo da Guerra,"Grande bestia, disallineato",13,,+2,+2,+2,4,1,1,-2,1,-2,+1,
+Saurovallo giovane,"Media bestia, disallineato",12,,+2,+1,+1,2,0,1,-4,0,-3,+0,
+Saurovallo da Tiro,"Grande bestia, disallineato",12,,+2,+1,+1,4,0,1,-3,0,-2,+0,
+Saurovallo nano,"Media bestia, disallineato",12,,+2,+1,+1,2,0,1,-3,0,-2,+0,
+Scarabeo di Fuoco Gigante,"Piccola bestia, disallineato",12,,+1,+0,-2,-1,0,1,-5,-2,-4,+0,
+Sciacallo,"Piccola bestia, disallineato",14,,+0,+2,+1,-1,2,0,-4,1,-2,+2,
+Sciami,"Medio sciame di Minuscole bestie, disallineato",13,,+1,+2,-1,-4,1,0,-5,-2,-5,+1,
+Sciame di Corvi,"Medio sciame di Minuscole bestie, disallineato",14,,+0,+3,+2,-2,2,-1,-4,1,-2,+2,
+Sciame di Pirana,"Medio sciame di Minuscole bestie, disallineato",16,,+1,+5,+0,1,3,-1,-5,-2,-4,+3,
+Sciame di Insetti,"Medio sciame di Minuscole bestie, disallineato",13,,+1,+2,-1,-4,1,0,-5,-2,-5,+1,
+Sciame di Pipistrelli,"Medio sciame di Minuscole bestie, disallineato",14,,+1,+3,+2,-3,2,0,-4,1,-3,+2,
+Sciame di Ragni,"Medio sciame di Minuscole bestie, disallineato",13,,+1,+2,-1,-4,1,0,-5,-2,-5,+1,
+Sciame di Ratti,"Medio sciame di Minuscole bestie, disallineato",12,,+0,+1,+1,-1,0,-1,-4,0,-4,+0,
+Sciame di Serpenti Velenosi,"Medio sciame di Minuscole bestie, disallineato",16,,+0,+1,+1,-1,4,0,-5,0,-4,+4,
+Sciame di Vespe,"Medio sciame di Minuscole bestie, disallineato",13,7,+0,+2,+1,-1,1,0,-5,-2,-5,+1,
+Scimmia,"Piccola bestia, disallineato",14,,+1,+3,+2,-3,2,0,-3,1,-2,+2,
+Scimmione,"Media bestia, disallineato",14,,+3,+3,+2,3,2,2,-2,1,-2,+2,
+Scimmione Gigante,"Enorme bestia, disallineato",22,,+13,+11,+10,6,2,4,-2,1,-2,+2,
+Scorpione,"Minuscola bestia, disallineato",12,,-1,+0,-1,-4,0,-1,-5,-1,-4,+0,
+Scorpione Gigante,"Grande bestia, disallineato",16,,+6,+5,+3,2,1,2,-5,-1,-4,+1,
+Serpente Costrittore,"Grande bestia, disallineato",14,,+2,+3,+1,2,2,1,-5,0,-4,+2,
+Serpente Costrittore Gigante,"Enorme bestia, disallineato",16,,+4,+5,+3,4,2,1,-5,0,-4,+2,
+Serpente Velenoso,"Minuscola bestia, disallineato",15,,+1,+4,+1,-4,3,0,-5,0,-4,+3,
+Serpente Velenoso Gigante,"Media bestia, disallineato",16,,+2,+5,+1,0,4,1,-4,0,-4,+4,
+Serpente Volante,"Minuscola bestia, disallineato",16,,+1,+5,+2,-3,4,0,-4,1,-3,+4,
+Squalo Cacciatore,"Grande bestia, disallineato",15,,+5,+4,+3,4,1,2,-5,0,-3,+1,
+Squalo Corallino,"Media bestia, disallineato",13,,+2,+2,+1,2,1,1,-5,0,-3,+1,
+Squalo Gigante,"Enorme bestia, disallineato",18,,+11,+6,+6,6,0,5,-5,0,-3,+0,
+Strige,"Minuscola bestia, disallineato",15,,+1,+4,+0,-3,3,0,-4,-1,-2,+3,
+Tasso,"Minuscola bestia, disallineato",12,,+1,+0,+1,-3,0,1,-4,1,-3,+0,
+Tasso Gigante,"Media bestia, disallineato",12,,+3,+1,+2,1,0,2,-4,1,-3,+0,
+Tigre,"Grande bestia, disallineato",15,,+4,+4,+3,3,2,2,-4,1,-1,+2,
+Tigre dai Denti a Sciabola,"Grande bestia, disallineato",16,,+5,+5,+4,4,2,2,-4,1,-1,+2,
+Vespa Gigante,"Media bestia, disallineato",14,,+1,+3,+1,0,2,0,-5,0,-4,+2,
+Worg,"Grande mostruosità, neutrale malvagio",13,,+2,+2,+1,3,1,1,-2,0,-1,+1,
 Personaggi Non Giocanti,,,,,,,,,,,,,,
-Guardia,,,,,,,,,,,,,,
-Veterano,,,,,,,,,,,,,,
-Cavaliere,,,,,,,,,,,,,,
+Guardia,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+3,+1,+1,1,1,1,0,0,0,+1,
+Veterano,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+4,+2,+3,3,1,2,0,0,0,+1,
+Cavaliere,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+4,+1,+3,3,0,2,0,0,2,+0,
 Cittadini,,,,,,,,,,,,,,
-Nobile,,,,,,,,,,,,,,
-Popolano,,,,,,,,,,,,,,
-Bandito/Pirata,,,,,,,,,,,,,,
-Spia,,,,,,,,,,,,,,
-Capitano dei Banditi o Pirata,,,,,,,,,,,,,,
-Assassino,,,,,,,,,,,,,,
-Mago Avventuriero,,,,,,,,,,,,,,
-Grande Mago,,,,,,,,,,,,,,
-Arcimago,,,,,,,,,,,,,,
-Cultista,,,,,,,,,,,,,,
-Accolito,,,,,,,,,,,,,,
-Fanatico del Culto,,,,,,,,,,,,,,
-Gran Sacerdote,,,,,,,,,,,,,,
-Berserker,,,,,,,,,,,,,,
-Combattente Tribale,,,,,,,,,,,,,,
-Druido,,,,,,,,,,,,,,
-Esploratore,,,,,,,,,,,,,,
+Nobile,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+1,+1,+2,0,1,0,1,2,3,+1,
+Popolano,"Media umanoide (qualsiasi razza), qualsiasi Tratto",12,,+0,+0,+0,0,0,0,0,0,0,+0,
+Bandito/Pirata,"Media umanoide (qualsiasi razza), qualsiasi Tratto non legale",13,,+1,+2,+1,0,1,1,0,0,0,+1,
+Spia,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+2,+3,+3,0,2,0,1,2,3,+2,
+Capitano dei Banditi o Pirata,"Media umanoide (qualsiasi razza), qualsiasi Tratto non legale",13,,+5,+5,+3,2,3,2,2,0,2,+2,
+Assassino,"Media umanoide (qualsiasi razza), qualsiasi Tratto non buono",13,,+10,+11,+8,0,3,2,1,0,0,+3,
+Mago Avventuriero,"Media umanoide (qualsiasi razza), qualsiasi malvagio",13,,+0,+3,+2,-1,2,0,3,1,0,+3,
+Grande Mago,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+1,+4,+3,-1,2,0,3,1,0,+3,
+Arcimago,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+13,+14,+14,0,2,1,5,2,3,+5,
+Cultista,"Media umanoide (qualsiasi razza), qualsiasi Tratto non buono",13,,+1,+1,+2,0,1,0,0,0,0,+0,
+Accolito,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+0,+0,+3,0,0,0,0,2,0,+0,
+Accolito,"Media umanoide (qualsiasi razza), qualsiasi Tratto non buono",13,,+2,+2,+3,0,2,1,0,1,2,+2,
+Gran Sacerdote,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+1,+1,+4,0,0,1,1,3,1,+1,
+Berserker,"Media umanoide (qualsiasi razza), qualsiasi Tratto caotico",13,,+4,+3,+2,3,1,3,-1,0,-1,+1,
+Combattente Tribale,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+2,+1,+1,1,0,1,-1,0,-1,+0,
+Druido,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+1,+2,+3,0,1,1,1,2,0,+1,
+Esploratore,"Media umanoide (qualsiasi razza), qualsiasi Tratto",13,,+1,+2,+3,0,2,1,0,1,0,+2,
