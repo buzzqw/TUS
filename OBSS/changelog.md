@@ -828,7 +828,7 @@ aggiornata versione POD 2025/02/17
 
 aggiornata versione POD 2025/02/19
 
-0.99.43 minime correzioni in conversione alla 5e, specificato che in conversione 5e l'iniziativa sia uguale a Des, aggiornato mostro maledetto immortale, layout, fortemente ottimizzato il layout dei mostri, ottimizzazione layout mostri seconda parte, controllato valore cosapevolezza a mostri, nota su competenze dei mostri, ulteriori ottimizzazioni e correzioni a layout mostri, aggiunto incantesimo viticci perforanti, corretta immunita' a drago giallo antico, modificato incantesimo sonno, 
+0.99.43 minime correzioni in conversione alla 5e, specificato che in conversione 5e l'iniziativa sia uguale a Des, aggiornato mostro maledetto immortale, layout, fortemente ottimizzato il layout dei mostri, ottimizzazione layout mostri seconda parte, controllato valore cosapevolezza a mostri, nota su competenze dei mostri, ulteriori ottimizzazioni e correzioni a layout mostri, aggiunto incantesimo viticci perforanti, corretta immunita' a drago giallo antico, modificato incantesimo sonno, chiarito abilita' tattico, aggiunta nota su dimensione incantesimi, 
 
 
 > valutare:

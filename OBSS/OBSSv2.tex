@@ -18,7 +18,7 @@
 \usepackage[italian]{babel}
 \usepackage{setspace}
 \usepackage{graphicx}
-\usepackage{amssymb}
+\usepackage{amssymb,siunitx}
 \usepackage{makeidx}
 \usepackage{multirow}
 %\usepackage[allfiguresdraft]{draftfigure} %senza figure, deve rimanere alla riga 24
@@ -6114,10 +6114,15 @@ La \textbf{terza volta} che prendi l'Abilità puoi influenzare anche creature di
 
 Hai una capacità quasi istintiva di gestire e prevedere l'esito dei combattimenti. Usare l'Abilità costa 1 Azione.
 
-La \textbf{prima volta} che prendi quest'Abilità puoi scambiare, round per round, l'esito dell'Iniziativa tra due creature che siano a distanza di mischia tra di loro.
+Scambi l'esito della iniziativa tra due creature di cui almeno una sia una tua alleata.
 
-La \textbf{seconda volta} che prendi quest'Abilità, requisito Intelligenza 2, Competenza Armi 6, puoi scambiare l'iniziativa, round per round, tra tre creature che siano a distanza di mischia tra di loro.
+Se nessuno dei due bersagli ha ancora agito allora l'effetto della tua Abilità si attiva subito. Se almeno una delle due ha già agito allora la tua Abilità prende effetto il round successivo.
 
+L'effetto dura solo un round, poi i bersagli tornano alle loro iniziative precedenti.
+
+La \textbf{prima volta} che prendi quest'Abilità puoi influire su una coppia di bersagli che siano in mischia tra loro.
+
+La \textbf{seconda volta} che prendi quest'Abilità, requisito Intelligenza 2, Competenza Armi 6, puoi scambiare l'iniziativa su due coppie che siano reciprocamente in mischia tra loro.
 
 \ability{Tempesta di Furia}{tempestadifuria}{Lista Pugno Vuoto 7, Destrezza 1, Forza 1}{+2 Riflessi, +1 Volontà}{Destrezza o Forza}
 
@@ -7155,7 +7160,7 @@ La descrizione di un incantesimo specifica la sua area di effetto, che di solito
 Es. Un Cono di Freddo di 9 metri è largo al termine 9 metri e si allunga dal punto di origine di 9 metri, a 3 metri di distanza dal punto di origine è largo 3 metri.
 
 \begin{center}
-	\includegraphics[width=0.5\linewidth]{immagini/3dformev2.png}
+	\includegraphics[width=0.6\linewidth]{immagini/3dformev2.png}
 	
 	\emph{Cono, Sfera, Cilindro, Cubo. Il punto nero indica l'origine dell'incantesimo. Nella sfera è al centro della stessa.}
 \end{center}
@@ -7214,11 +7219,12 @@ Con il termine \textbf{conosciuto}\index{Incantesimi, Conosciuto} si intente un 
 
 \end{multicols}
 
+
 \textbf{Tabella: esempio Incantesimi Conosciuti ed Appresi}\index{Tabella esempio Incantesimi Conosciuti ed Appresi}
 
 \medskip
 
-\noindent\begin{tabular}{|c|c|c|c|}
+\noindent\begin{tabularx}{0.98\textwidth}{|c|c|c|c|}
 \hline
 \textbf{Competenza} & \multicolumn{2}{c|}{\textbf{Conosciuti (presenti nel Tomo)}} & \multicolumn{1}{c|}{\textbf{Appresi (che puoi lanciare)}} \\
 \cline{2-4}
@@ -7232,7 +7238,7 @@ Con il termine \textbf{conosciuto}\index{Incantesimi, Conosciuto} si intente un 
 \hline
 4 & presenti nel Tomo & presenti nel Tomo & +2 oppure / +1 \\
 \hline 
-\end{tabular}
+\end{tabularx}
 
 
 \medskip
@@ -7277,12 +7283,12 @@ Qualsiasi risultato che non sia un Successo critico magico od un Fallimento crit
 Quando viene richiesto di superare o fare una Prova di Magia è sufficiente non fare un Fallimento Critico Magico. Se viene richiesto di ottenere un Successo Critico e la Prova di Magia non lo ottiene allora qualsiasi risultato ottenuto sarà considerato un Fallimento Critico.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Osare la Prova di Magia]
-La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio. I Punti Magia vi permettono di modificare la Prova, sfruttate queste possibilità.
-C'è sempre un certo pericolo... ma cosa è la Magia senza rischi!
+		La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio. I Punti Magia vi permettono di modificare la Prova, sfruttate queste possibilità.
+		C'è sempre un certo pericolo... ma cosa è la Magia senza rischi!
 \end{tcolorbox}\end{changemargin}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-Concedete un +1d6 nella Prova di Magia, o fate ignorare un 1 tirato nella Prova di Magia, quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice \emph{Lancio una palla di fuoco} non otterrà vantaggi ma se con trasporto declama \emph{Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!} allora si!.
+		Concedete un +1d6 nella Prova di Magia, o fate ignorare un 1 tirato nella Prova di Magia, quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice \emph{Lancio una palla di fuoco} non otterrà vantaggi ma se con trasporto declama \emph{Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!} allora si!.
 \end{narratore}\end{changemargin}
 
 %\medskip
@@ -7666,9 +7672,9 @@ Un caso particolare è l'\textbf{energia positiva Curativa}\index{Energia positi
 \subsection{Abilità di Lista}
 
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-Volli, e volli sempre, e fortissimamente volli (Vittorio Alfieri, 06/09/1783, Lettera a Ranieri dè Calzabigi)
-}\end{enfasi}\end{changemargin}
+%\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+%Volli, e volli sempre, e fortissimamente volli (Vittorio Alfieri, 06/09/1783, Lettera a Ranieri dè Calzabigi)
+%}\end{enfasi}\end{changemargin}
 
 Lo studio della magia e l'approfondita conoscenza delle Liste di Magia porta l'incantatore ad imparare aspetti non sempre conosciuti della stessa.
 
@@ -7776,6 +7782,15 @@ Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore 
 	
 %\end{center}
 
+\subsection*{Circa OBSS e la dimensione degli incantesimi}
+
+Partiamo da un assunto: in OBSS una creatura media occupa uno spazio di $(1*1)\si{m^{2}}$ mentre nella 5e la stessa creatura occupa $(1.5*1.5)\si{m{^2}}$ (2.25\si{m{^2}}).
+
+Una \hyperlink{Palla di Fuoco}{Palla di Fuoco} agisce in un raggio di 6 metri, ovvero \emph{occupa} $6*6*\pi$ \si{m^{2}}, in questo spazio ci stanno \emph{circa 110} creature medie in OBSS e 50 creature medie della 5e!
+
+A fare due conti la Palla di Fuoco dovrebbe avere un raggio di 4 metri per influenzare lo stesso numero di creature!
+
+Se questo fattore influisce troppo sul vostro gioco riducete della metà i raggi delle esplosioni o le lunghezze dei coni. 
 
 
 \end{multicols}
@@ -11779,9 +11794,9 @@ Quest'ora di riposo è equivalente a 8 ore di riposo per quanto riguarda il recu
 \textbf{Gittata}: 27 metri\\
 \textbf{Componenti}: V, S, M (un pizzico di sabbia, petali di rosa o un grillo)\\
 \textbf{Durata}: 1 minuto\\
-In un raggio di 2 metri le creature devono fare un Tiro Salvezza su Volontà o cadere addormentate. Qualsiasi cosa danneggi le creature o le influenzi causa l'immediato scioglimento del sonno magico. Le creature con GS superiore a 3 non sono influenzate.
+In un raggio di 2 metri le creature devono fare un Tiro Salvezza su Volontà o cadere addormentate. Qualsiasi cosa danneggi le creature o le influenzi causa l'immediato scioglimento del sonno magico. Le creature con Grado di Sfida superiore a 3 non sono influenzate.
 
-\textbf{Per ogni due Successo Critico Magico} ottenuto nella Prova di Magia puoi influenzare creature con un GS+1.
+\textbf{Per ogni due Successo Critico Magico} ottenuto nella Prova di Magia puoi influenzare creature 1 Grado Sfida più alto.
 
 \subsubsection*{Spada Arcana}\index[Incantesimi]{Spada Arcana}\hypertarget{Spada Arcana}{}
 \textbf{Lista di Magia}: Invocazione\\
