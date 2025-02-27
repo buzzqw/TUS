@@ -15,6 +15,7 @@
 \usepackage{tabulary}
 \usepackage{xcolor}
 \usepackage{xltabular}
+\usepackage{xr}
 \newcolumntype{T}{>{\scriptsize}l} % define a new column type for \tiny
 \usepackage[many]{tcolorbox}
 \usepackage[absolute,overlay]{textpos}  % Load textpos package BEFORE geometry
@@ -51,6 +52,8 @@ fonttitle=\bfseries,
 #1
 }
 
+\externaldocument{OBSSv2}
+
 \begin{document}
 \pagestyle{empty}
 
@@ -60,7 +63,7 @@ fonttitle=\bfseries,
 
 \footnotesize
 
-\begin{dmbox}[title=Condizioni]
+\begin{dmbox}[title=Condizioni - pagina \pageref{condizioni}]
 
 \begin{itemize}[leftmargin=0.5cm,itemsep=-1pt,parsep=0pt]
 \item \textbf{Aumento Categoria di danno}: 1d4 > 1d6 > 1d8 > 1d10/d12 > 2d6 - 2d8 > 2d10 > 3d6 > 3d8 > 3d10
@@ -127,18 +130,18 @@ Affaticato 6&Morte&--
 
 \end{dmbox}
 
-\begin{mybluebox}\textbf{Punti Fato}: (20-Livello)/5\end{mybluebox}
+\begin{mybluebox}\textbf{Punti Fato}: (20-Livello)/5 - pagina \pageref{puntifato}\end{mybluebox}
 
-\begin{mybluebox}\textbf{Morte}: -10-(COS*2)\end{mybluebox}
+\begin{mybluebox}\textbf{Morte}: -10-(COS*2) - pagina \pageref{morire}\end{mybluebox}
 
-\begin{dmbox}[title=Preparare la Difesa]
+\begin{dmbox}[title=Preparare la Difesa - pagina \pageref{preparareladifesa}]
 
 Usando \textbf{1 Azione} aumenti la \textbf{Difesa} di 1.
 
 Se l'Arma ha il tratto \textbf{Parata} il bonus di Preparare la Difesa aumenta di 1
 \end{dmbox}
 
-\begin{dmbox}[title=Copertura]
+\begin{dmbox}[title=Copertura - pagina \pageref{copertura}]
 \noindent\begin{tabular}{l|c}
 \textbf{Copertura} & \textbf{Bonus Difesa}\\
 \hline
@@ -153,10 +156,10 @@ Ogni creatura di taglia uguale all'avversario in linea, che \emph{copre} l'obiet
 
 \end{dmbox}
 
-\begin{mybluebox}\textbf{Colpi Potenti}: +1 al danno - 2 TC. MAX CA/4\end{mybluebox}
+\begin{mybluebox}\textbf{Colpi Potenti}: +1 al danno - 2 TC. MAX CA/4 - pagina \pageref{colpipotenti}\end{mybluebox}
 
 
-\begin{dmbox}[title=Maestria del combattimento]
+\begin{dmbox}[title=Maestria del combattimento - pagina \pageref{maestriacombattimento}]
 \noindent\begin{tabular}{l|c}
 \textbf{Bonus} & \textbf{Penalità}\\
 \hline
@@ -167,7 +170,7 @@ Ogni creatura di taglia uguale all'avversario in linea, che \emph{copre} l'obiet
 Il bonus non può essere superiore a Competenza Armi/4
 \end{dmbox}
 
-\begin{dmbox}[title=Carica]
+\begin{dmbox}[title=Carica - pagina \pageref{carica}]
 
 L'avversario deve essere entro 2 Azioni di movimento ed a non meno di 3 metri. 
 
@@ -178,28 +181,28 @@ Il movimento ed attacco costa 2 Azioni. Non si considerano altre penalità per a
 L'Azione di Carica ti porta addosso, in mischia, con l'avversario. L'attacco se fatto con arma lunga viene portato a distanza di 2 metri per poi finire a contatto con l'avversario.
 \end{dmbox}
 
-\begin{dmbox}[title=Attacco di Opportunita']
+\begin{dmbox}[title=Attacco di Opportunita' - pagina \pageref{attaccoopportunita}]
 Devi avere l'abilità \textbf{Opportunista}.
 
 La creatura esce o attraversa la zona di mischia o lancia un incantesimo. Questo attacco è una Reazione.
 \end{dmbox}
 
-\begin{dmbox}[title=Attacchi Multipli]
+\begin{dmbox}[title=Attacchi Multipli - pagina \pageref{attacchimultiplimischia}]
 La prima azione di attacco non ha penalità mentre la seconda azione di attacco ha -5 al colpire cumulativo per attacco. Vale anche per il Tiro per Colpire con Incantesimi.
 \end{dmbox}
 
-\begin{dmbox}[title=Esplosione del Danno]
+\begin{dmbox}[title=Esplosione del Danno - pagina \pageref{esplosionedeldanno}]
 Se tiro di dado del danno dell'arma è massimo valore (min 8) ritiri il dado e sommi ancora il valore (del solo dado).
 \end{dmbox}
 
-\begin{dmbox}[title=Alzarsi da prono]
+\begin{dmbox}[title=Alzarsi da prono - pagina \pageref{alzarsidaprono}]
 \textbf{}\\
 1 Azione. -4 Difesa/Tiro per Colpire.
 
 Acrobatica DC 13 1 Azione Immediata. Se tiri tre 1 perdi il round. 
 \end{dmbox}
 
-\begin{dmbox}[title=Azioni per Round]
+\begin{dmbox}[title=Azioni per Round - pagina \pageref{azioninelround}]
 
 \noindent\begin{tabular}{ll}
 \textbf{Cosa si fa} & \textbf{Azioni}\\
@@ -254,31 +257,31 @@ Fare cadere l'avversario & 2
 \end{tabular}
 \end{dmbox}
 
-\begin{dmbox}[title=Azione di Scatto]
+\begin{dmbox}[title=Azione di Scatto - pagina \pageref{azionediscatto}]
 Costa 1 Azione. Fai doppio movimento, fino all'inzio del round successivo hai -1d6 nel Tiro per Colpire, -4 Difesa e sei Distratto
 \end{dmbox}
 
-\begin{dmbox}[title=Difesa da Sorpresi]
+\begin{dmbox}[title=Difesa da Sorpresi - pagina \pageref{difesasorpresi}]
 Hai -4 alla Difesa e -4 TS Riflessi
 \end{dmbox}
 
-\begin{dmbox}[title=Attacco a Tocco]
+\begin{dmbox}[title=Attacco a Tocco - pagina \pageref{difesaatocco}]
 Hai +1d6 al Tiro per Colpire
 \end{dmbox}
 
-\begin{dmbox}[title=Tiro Critico]
+\begin{dmbox}[title=Tiro Critico - pagina \pageref{tirocritico}]
 Ogni qual volta hai colpito, tiri un dado arma aggiuntivo e non sommi altro per ogni due volte che hai tirato 6 nel Tiro per Colpire. Oppure ogni 8 di margine (Variante Tiro Critico)
 \end{dmbox}
 
-\begin{dmbox}[title=Difesa Totale]
+\begin{dmbox}[title=Difesa Totale - pagina \pageref{difesatotale}]
 2 Azioni, NO Attacco, NO Incantesimi. Terreno Difficile. No attacchi d'opportunità. +4 in Difesa.
 \end{dmbox}
 
-\begin{dmbox}[title=Disingaggiare]
+\begin{dmbox}[title=Disingaggiare - pagina \pageref{disingaggiare}]
 costa 1 Azione, ti sposti di 1 metro e non causi attacchi di opportunità
 \end{dmbox}
 
-\begin{dmbox}[title=Armi a spargimento]
+\begin{dmbox}[title=Armi a spargimento - pagina \pageref{attacchiarmidaspargimento}]
 In questo schema lo \textbf{0} è colui che lancia e \textbf{X} è l'obiettivo da colpire.\\
 
 \noindent\begin{tabular}{c|c|c}
@@ -294,7 +297,7 @@ In questo schema lo \textbf{0} è colui che lancia e \textbf{X} è l'obiettivo d
 Se il Tiro per Colpire manca almeno di 5 tira 1d8 per stabilire la direzione e tira 2d6 per stabilire la distanza dall'obiettivo.
 \end{dmbox}
 
-\begin{dmbox}[title=Visione]
+\begin{dmbox}[title=Visione - pagina \pageref{visioneeluce}]
 
 Una creatura Accecata subisce penalità -1d6 alle prove di Consapevolezza e -2 alle prove basate su Forza e Destrezza e fallisce automaticamente qualsiasi prova di Consapevolezza dipendente dalla vista.
 
@@ -304,7 +307,7 @@ Una creatura Accecata subisce penalità -1d6 alle prove di Consapevolezza e -2 a
 \end{itemize}
 \end{dmbox}
 
-\begin{dmbox}[title=Fonti di Luce]
+\begin{dmbox}[title=Fonti di Luce - pagina \pageref{fontidiluce}]
 
 \noindent\begin{tabular}{l|cc|c}
 \textbf{Fonte di} &\multicolumn{2}{c}{\textbf{Raggio in metri}}& \textbf{Durata}  \\
@@ -319,23 +322,23 @@ Luce Diurna & 6 metri & 12 metri & 1 ora
 \end{tabular}
 \end{dmbox}
 
-\begin{dmbox}[title=Riposare 8 ore]
+\begin{dmbox}[title=Riposare 8 ore - pagina \pageref{recuperarepf}]
 Ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione*Livello, con un minimo di PF pari a Livello. 
 \end{dmbox}
 
 
-\begin{dmbox}[title=Danni temporanei]
+\begin{dmbox}[title=Danni non letali - pagina \pageref{recuperopuntiferitanonletali}]
 Ogni ora si recupera, con un minimo di 1 PF, il proprio valore di Costituzione in PF non letali (danni da stordimento) persi.
 \end{dmbox}
 
 
 
-\begin{dmbox}[title=Capacità di Carico]
+\begin{dmbox}[title=Capacità di Carico - pagina \pageref{capacitadicarico}]
 La CdC è pari a 9 (P), 16 (M), 25 (G) + Forza + Costituzione.
 \end{dmbox}
 
 
-\begin{dmbox}[title=Golden Rules]
+\begin{dmbox}[title=Golden Rules - pagina \pageref{goldenrules}]
 {\textbf{I 6 esplodono}} - se fai 6, sommi e ritiri\\
 Gli \textbf{1 portano male}, se fai 1 con il dado vale zero\\
 \textbf{Affidarsi alla sorte}. Ogni 4 punti tra Competenza Base o Attiva o Caratteristica = +1d6
@@ -343,7 +346,7 @@ Gli \textbf{1 portano male}, se fai 1 con il dado vale zero\\
 
 
 
-\begin{dmbox}[title=Difficoltà e Competenza]
+\begin{dmbox}[title=Difficoltà e Competenza - pagina \pageref{basedifficolta}]
 \begin{tabular}{lll}
 \textbf{Difficoltà} & \textbf{Descrizione} & \textbf{Competenza} \\
 5 & Estremamente facile  & Nulla\\
@@ -359,7 +362,7 @@ Gli \textbf{1 portano male}, se fai 1 con il dado vale zero\\
 
 
 
-\begin{dmbox}[title=Cavalcature/Costo/Movimento]
+\begin{dmbox}[title=Cavalcature/Costo/Movimento - pagina \pageref{costicavalcature} - \pageref{tabella-cavalcature-e-veicoli} - \pageref{tipodimovimento}]
 
 \begin{tabularx}{1\textwidth}{lllXX}
 \textbf{Cavalcatura} & \textbf{Costo} & \textbf{CdC} & \textbf{Vel. ora} & \textbf{Km giorno}\\
@@ -396,7 +399,7 @@ Camminare& 24km & 32km & 54km
 
 \end{dmbox}
 
-\begin{dmbox}[title=Taglia e Portata standard]
+\begin{dmbox}[title=Taglia e Portata standard - pagina \pageref{tagliaeportata}]
 \begin{tabularx}{0.95\linewidth}{llll}
 \toprule
 \textbf{Taglia}& \textbf{Dimensione} &\textbf{Quadretti}&\textbf{Portata}\\
@@ -411,22 +414,22 @@ Colossale & 12 x 12 m&6x6&6m
 \end{dmbox}
 
 
-\begin{dmbox}[title=Riconoscere un incantesimo]
+\begin{dmbox}[title=Riconoscere un incantesimo - pagina \pageref{riconoscereincantesimo}]
 Arcana DC 10 + livello dell'incantesimo. 1 Reazione
 \end{dmbox}
 
 
-\begin{dmbox}[title=Riconoscere un oggetto magico]
+\begin{dmbox}[title=Riconoscere un oggetto magico - pagina \pageref{rinoscereoggettomagico} - \pageref{identificare}]
 Arcana DC 20. DC 25 per identificare. Critico per maledizioni
 \end{dmbox}
 
 
-\begin{dmbox}[title=Valutare]
+\begin{dmbox}[title=Valutare - pagina \pageref{valutare}]
 DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +10, Leggendario +16. 3 Azioni
 \end{dmbox}
 
 
-\begin{dmbox}[title=Competenze]
+\begin{dmbox}[title=Competenze - pagina \pageref{competenzeelenco}]
 \begin{tabularx}{0.95\linewidth}{ll}
 \multicolumn{2}{c}{\textbf{Forza}}\\
 Arrampicarsi & Intimidire\\
@@ -452,16 +455,15 @@ Ingannare &Tradizioni locali
 \end{dmbox}
 
 
-\begin{dmbox}[title=Acrobatica]
+\begin{dmbox}[title=Acrobatica - pagina \pageref{acrobatica}]
 Una prova di Acrobatica riuscita con DC 15 permette al personaggio di ridurre di 3 il danno quando cade entro 6 metri (\textbf{Reazione}).
 
 \textbf{Scendere o Salire} entro 50 cm è terreno difficile, tra i 50 e 150 cm è terreno doppiamente difficile, oltre è cadere o arrampicarsi. Il danno da caduta è 1d6 danni ogni 3 metri in caduta. \index{Scendere e Salire}
 
-
 \textbf{Danno Caduta}: H(m)/3xD6. Ogni 3 dadi oltre i 20 aggiungete 6 di danno (X/3)d6+(X/3-20)*6. Proni. Prova Acrobatica DC 15 1/2 danno entro 9m.  Cadute su superfici morbide (terreno morbido, fango ecc.) -1d6 danni.
 \end{dmbox}
 
-\begin{dmbox}[title=Arrampicarsi/Scalare]
+\begin{dmbox}[title=Arrampicarsi/Scalare - pagina \pageref{arrampicarsi}]
 
 Usare una corda per arrampicarsi\index{Scendere con una corta}\index{Salire su una corda}, scalare o arrampicarsi equivale a muoversi in un \textbf{terreno doppiamente difficile}.
 
@@ -496,7 +498,7 @@ In caso di Successo Critico scali o ti arrampichi come fosse terreno difficile e
 
 \end{dmbox}
 
-\begin{dmbox}[title=Atletica]
+\begin{dmbox}[title=Atletica - pagina \pageref{atletica}]
 
 La \textbf{distanza saltata in lungo} è pari a 30cm per risultato ottenuto nella prova, arrotondando all'intero più vicino. Es. se nella prova di saltare faccio 11, il salto sarà lungo 30cm*11=330cm=3 metri, con 16 nella prova è 30cm*16=480cm=5m.
 
@@ -509,13 +511,13 @@ Se non si ha almeno 3 metri di rincorsa si salta la metà. In lungo si salta al 
 Effettuare un Salto da fermo costa 1 Azione. Un Salto effettuato entro metà del proprio movimento (quindi si salta entro 4 metri percorsi, per un umano) non costa Azione, altrimenti consumi una Azione per il Movimento ed una Azione per il Salto.
 \end{dmbox}
 
-\begin{dmbox}[title=Identificare una pozione o veleno naturale]
+\begin{dmbox}[title=Identificare una pozione o veleno naturale - pagina \pageref{identificarepozioni}]
 è possibile con una prova di \textbf{Erboristeria} a DC uguale al fattore di rarità della pianta, oppure il TS che questa concede in caso di Veleni.
 
 Impiega 1 Azione ogni 10 di DC. Con 6 in Erboristeria il tempo è 1 Azione ogni 15 di DC, con 12 punti è 1 Azione ogni 20 DC eseguire la prova. Se si fallisce con un fallimento critico si è venuti a contatto/ingerito parte della pozione e se ne subiscono gli effetti.
 \end{dmbox}
 
-\begin{dmbox}[title=Riconoscere i mostri]
+\begin{dmbox}[title=Riconoscere i mostri - pagina \pageref{riconosceremostro}]
 
 Per \textbf{riconoscere un mostro} si effettua una prova di Conoscenza, \textbf{costa 1 Azione} su:
 
@@ -554,7 +556,7 @@ Le informazioni ottenute sono cumulative, ovvero se la prova riesce di 15 ottien
 \end{dmbox}
 
 
-\begin{dmbox}[title=Intimidire]
+\begin{dmbox}[title=Intimidire - pagina \pageref{intimidire}]
 Il personaggio usa \textbf{1 Azione} ed esegue una Prova Contrapposta al Tiro Salvezza su Volontà con bonus dato dal Carisma.
 Se il Tiro Salvezza fallisce, l'avversario fino alla fine del suo round successivo ha -1 al Tiro per Colpire contro colui che l'ha intimidito. L'avversario deve avere Intelligenza pari o maggiore di -3. Il Tiro Salvezza prende un modificatore di $\pm2$ per taglia di differenza. In caso di successo critico il modificatore diventa -2. 
 
@@ -562,28 +564,28 @@ Se chi tenta la prova di Intimidire esegue un fallimento critico subisce le mede
 \end{dmbox}
 
 
-\begin{dmbox}[title=Furtività]
+\begin{dmbox}[title=Furtività - pagina \pageref{furtivita}]
 Se vuoi muoverti silenziosamente il terreno si considera difficile. Muoversi a piena velocità cercando di non fare rumore impone alla prova di Furtività una penalità di 2d6.
 
 Usando \textbf{1 Azione} puoi cercare di nasconderti dalla vista degli avversari. Per nascondersi dietro una creatura questa deve essere almeno di 3 taglie superiori alla tua (altrimenti la creatura fornisce solo copertura).
 \end{dmbox}
 
 
-\begin{dmbox}[title=Sopravvivenza]
+\begin{dmbox}[title=Sopravvivenza - pagina \pageref{sopravvivenza}]
 Sopravvivenza può essere usata al posto di \textbf{Disattivare Congegni} con un -1d6 per disattivare trappole o serrature. 1 Azione per DC.
 
 Ogni tre punti ottenuti nella prova di Sopravvivenza oltre 13 il personaggio è in grado di \textbf{procacciare cibo} per se stesso ed un altra persona purché si trovi in un ambiente capace di sostenere la vita.
 \end{dmbox}
 
-\begin{dmbox}[title=Gestire Animali - Ammansire un animale]
+\begin{dmbox}[title=Gestire Animali - Ammansire un animale - pagina \pageref{gestireanimali}]
 è una prova di \textbf{Gestire Animali} a DC 12+2*GS dell'animale. Impiega 1 minuto ogni 3 di DC, con 6 punti il tempo è 1 minuto ogni 6 di DC, con 12 è 1 minuto ogni 10 DC eseguire la prova. La creatura deve avere Intelligenza -3 o superiore.
 \end{dmbox}
 
-\begin{dmbox}[title=Nuotare]
+\begin{dmbox}[title=Nuotare - pagina \pageref{compnuotare} - \pageref{combatteresottacqua}]
 In acqua calme DC 10, in acque mosse ha DC 15, in acque molto mosse DC 20, tempestose DC 25. La prova è necessaria per stare a galla o nuotare. Nuotare in acqua si considera \textbf{terreno difficile}.
 \end{dmbox}
 
-\begin{dmbox}[title=Pronto Soccorso]
+\begin{dmbox}[title=Pronto Soccorso - pagina \pageref{prontosoccorso}]
 Se il personaggio ha Punti Ferita negativi, è morente, la prova di Pronto Soccorso, 3 Azioni, a difficoltà 12 più il valore dei Punti Ferita negativi porterà il personaggio a 0 Punti Ferita, ovvero svenuto. Ogni volta successiva che il personaggio torna sotto 0 Punti Ferita la difficoltà della prova di Pronto Soccorso aumenta di 2.
 
 Una prova riuscita (DC 15) fa recuperare 1d4 Punti Ferita \textbf{dopo uno scontro} o concede un +2 ad un Tiro Salvezza su Tempra per resistere ad un veleno. Da fare entro 1 Turno dal termine del combattimento.  Costo \textbf{2 minuti}.
@@ -600,12 +602,12 @@ Se effettuato durante le ore di riposo chi amministra la cura risulterà Affatic
 
 
 
-\begin{dmbox}[title=Artista della Fuga]
+\begin{dmbox}[title=Artista della Fuga - pagina \pageref{artistadellafuga}]
 1 Azione ogni 10 di DC. 6p 1 Azione 15 di DC, 12p 1 Azione 20 DC.
 \end{dmbox}
 
 
-\begin{dmbox}[title=Seguire Tracce]
+\begin{dmbox}[title=Seguire Tracce - pagina \pageref{seguiretracce}]
 Alla \textbf{Difficoltà base di 15} si applicano i modificatori indicati.\\
 
 \noindent\begin{tabular}{ll}
@@ -625,8 +627,7 @@ Cerca di occultare le tracce& DC +4\\
 
 \begin{multicols}{2}
 
-\begin{dmbox}[title=Danni temporanei]
-\textbf{Rompere Oggetti - DC Forza}\\
+\begin{dmbox}[title=Rompere Oggetti - DC Forzai]	
 \begin{tabular}{ll|ll}
 Corda      & 23&Porta semplice         & 14\\
 Porta legno buono  & 18&Porta robusta          & 25\\
@@ -635,7 +636,7 @@ Porta di ferro     & 30&Catena                 & 26 \\
 \end{dmbox}
 
 
-\begin{dmbox}[title=Sfondare le Porte]
+\begin{dmbox}[title=Sfondare le Porte - pagina \pageref{tabellaporte}]
 \noindent\begin{tabular}{llllll}
 \textbf{Tipo di porta} & \textbf{Spessore} & \textbf{Durezza} & \textbf{PF} & \multicolumn{2}{c}{\textbf{DC}} \\
 
@@ -653,8 +654,9 @@ Cardini & -& 10& 30& -& -\\
 \end{tabular}
 \end{dmbox}
 
+DC vs TS Tempra con modificatore Forza
 
-\begin{dmbox}[title=Spaccare]
+\begin{dmbox}[title=Spaccare - pagina \pageref{durezzaoggetti}]
 
 \noindent\begin{tabularx}{1\linewidth}{llllX}
 \textbf{Materiale} &\textbf{Durezza}&\textbf{PF} &\textbf{DC} & \textbf{Oggetti di Esempio}\\
@@ -675,7 +677,7 @@ La DC e' riferita ad un Tiro Salvezza Tempra con Forza.
 
 
 
-\begin{dmbox}[title=Oggetti e Viveri]
+\begin{dmbox}[title=Oggetti e Viveri - pagina \pageref{equipaggiamentolista}]
 
 \noindent\begin{tabular}{ll|ll}
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Oggetto}&\textbf{Costo}\\
@@ -702,7 +704,7 @@ Birra Boccale&5 mr&Birra Caraffa (4 litri)&2 ma\\
 
 
 
-\begin{dmbox}[title=Modificatori d'Attacco e Difesa]
+\begin{dmbox}[title=Modificatori d'Attacco e Difesa - pagina \pageref{modificatoriattaccodifesaparticolari}]
 
 \noindent\begin{tabularx}{0.98\textwidth}{l|X|X}
 \multicolumn{2}{c}{\textbf{Attaccante}}&\multicolumn{1}{c}{\textbf{Difensore}}\\
@@ -730,7 +732,7 @@ Birra Boccale&5 mr&Birra Caraffa (4 litri)&2 ma\\
 
 \pagebreak
 
-\begin{dmbox}[title=Armi]
+\begin{dmbox}[title=Armi - pagina \pageref{equipaggiamentoarmi}]
 {\scriptsize 
 %\begin{tabularx}{1\linewidth}{lll>{\scriptsize}X}
 \begin{tabularx}{1\linewidth}{llX}
@@ -793,7 +795,7 @@ Urgrosh& M/1d6 T/P& \textbf{Lance}, \textbf{Armi doppie}
 \end{dmbox}
 
 
-\begin{dmbox}[title=Proiettili]
+\begin{dmbox}[title=Proiettili - pagina \pageref{proiettili}]
 
 \begin{tabular}{llll}
 \textbf{Nome Proiettile}   & \textbf{Num./MO} & \textbf{Danno/Tipo} & Peso(kg) \\
@@ -810,7 +812,7 @@ Un \textbf{dardo pesante} per Balestra penetra più facilmente le armature di me
 \end{dmbox}
 
 
-\begin{dmbox}[title=Armature]
+\begin{dmbox}[title=Armature - pagina \pageref{equipaggiamentoarmature}]
 
 \begin{tabular}{llllllll}
 \textbf{Armatura} & \textbf{Costo} & \textbf{Difesa} & \textbf{Malus} &  \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova}&\textbf{Ing.}\\
@@ -830,7 +832,7 @@ Completa& 1500 & 10 & -4  & P & 3 &+1,1&8\\
 \end{tabular}
 \end{dmbox}
 
-\begin{dmbox}[title=Scudi]
+\begin{dmbox}[title=Scudi - pagina \pageref{tabella-scudi}]
 \begin{tabular}{lccccc}
 \textbf{Scudi} & \textbf{Costo} & \textbf{Difesa} & \textbf{Malus} & \textbf{Prova} &  \textbf{Ingombro}\\
 &&&\textbf{TC}&\textbf{Magia}&\textbf{Indossato}\\
@@ -844,17 +846,17 @@ Scudo pesante di metallo & 20 mo  &  3& 1& +1,2  & P\\
 \end{tabular}
 \end{dmbox}
 
-\begin{dmbox}[title=Prova di Magia]
+\begin{dmbox}[title=Prova di Magia - pagina \pageref{magieprovadimagia}]
 3d6 + Aggiungi 1d6 ogni 2 Liste di magia conosciuta, ignori un 1 per ogni 2 Adepto della Magia\\
 Fallimento Critico: due volte 1, un 1 e due 2
 \end{dmbox}
 
-\begin{dmbox}[title=Distratto]
+\begin{dmbox}[title=Distratto - pagina \pageref{magiedistratto}]
 Se l'incantatore è severamente distratto, impedito, disturbato, sanguinante, afferrato, cerca di nascondere il lancio della magia, è sotto attacco mentre cerca di lanciare un incantesimo deve effettuare una Prova di Magia.
 \end{dmbox}
 
 
-\begin{dmbox}[title=Punti Magia]
+\begin{dmbox}[title=Punti Magia - pagina \pageref{magiepuntimagia}]
 
 Mod. Caratteristica + \\
 
@@ -873,20 +875,20 @@ Mod. Caratteristica + \\
 \end{dmbox}
 
 
-\begin{dmbox}[title=Tiro Salvezza Incantesimo]
+\begin{dmbox}[title=Tiro Salvezza Incantesimo - pagina \pageref{magietirosalvezza}]
 DC = 10 + Competenza Magica + modificatore caratteristica per incantesimo + 1 x Adepto della Magia +1 x Critico nella Prova di Magia
 \end{dmbox}
 
 
-\begin{dmbox}[title=Tiro Salvezza Magia da Oggetto]
+\begin{dmbox}[title=Tiro Salvezza Magia da Oggetto - pagina \pageref{tirosalvezzaincoggetto}]
 DC = 10 + 2 x livello incantesimo manifestato
 \end{dmbox}
 
-\begin{dmbox}[title=Tiro Salvezza Incantesimo Mostro]
+\begin{dmbox}[title=Tiro Salvezza Incantesimo Mostro - pagina \pageref{tirosalvezzainccmostro}]
 DC è 10 + 2 x livello incantesimo + Intelligenza o modificatore indicato
 \end{dmbox}
 
-\begin{dmbox}[title=Successo Critico Auto Magico]
+\begin{dmbox}[title=Successo Critico Auto Magico - pagina \pageref{magienova}]
 L'incantatore può decidere di spendere, in aggiunta ai \textbf{dei Punti Magia} dell'incantesimo, un uguale ammontare per avere in automatico un \textbf{Successo Critico Magico}.
 
 Ogni volta che voglio applicare un Successo Critico Magico aggiuntivo oltre il primo il costo in Punti Magia aumenta di 1. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia.
@@ -895,7 +897,7 @@ Il tempo di lancio di un incantesimo potenziato in questa maniera aumenta di 1 A
 \end{dmbox}
 
 
-\begin{dmbox}[title=Leggere una Pergamena]
+\begin{dmbox}[title=Leggere una Pergamena - pagina \pageref{leggerepergamena}]
 
 \textbf{Isy Scrool}: Capire l'incantesimo contenuto: Intelligenza od Arcana DC 10
 
@@ -907,20 +909,20 @@ Lanciare: Arcana DC 20 ed avere accesso alla Lista di Magia
 \end{dmbox}
 
 
-\begin{dmbox}[title=Seguace]
+\begin{dmbox}[title=Seguace - pagina \pageref{magieregoledibase}]
 1 Tratti comuni con Patrono. Se sei un Seguace ottieni +1d6 alle Prove di Magia nella scuola preferita dal Patrono. Puoi usare l'energia preferita del Patrono nei tuoi incantesimi.
 \end{dmbox}
 
-\begin{dmbox}[title=Devoto]
+\begin{dmbox}[title=Devoto - pagina \pageref{magieregoledibase}]
 2 Tratti in comune con Patrono. Un Devoto aggiunge +1d6 alla Prova di Magia nelle scuole preferite dal Patrono e ignora un dado tirato nella Prova di Magia. Devi usare l'energia preferita del Patrono nei tuoi incantesimi.
 \end{dmbox}
 
 
-\begin{dmbox}[title=Massimo Livello Incantesimo lanciabile]
+\begin{dmbox}[title=Massimo Livello Incantesimo lanciabile - pagina \pageref{magieaccessoallelistedimagia}]
 Per stabilire il livello massimo lanciabile di incantesimi sommate il punteggio di Competenza Magica ed Adepto della Magia, dividendo per due arrotondando per eccesso. Confrontate il risultato con il (doppio del punteggio del modificatore di caratteristica per incantesimi)+1, prendendo il valore minore.
 \end{dmbox}
 
-\begin{dmbox}[title=Fallimento Critico Prova di Magia]
+\begin{dmbox}[title=Fallimento Critico Prova di Magia - pagina \pageref{magiefallimentocriticonellaprovadimagia}]
 
 \textbf{Fallimento Critico Prova di Magia - 3d6 -1d6 x Fallimento Crit. Min. 1d6}
 \begin{tabularx}{1\linewidth}{lX}
@@ -946,7 +948,7 @@ Per stabilire il livello massimo lanciabile di incantesimi sommate il punteggio 
 \end{dmbox}
 
 
-\begin{dmbox}[title=Alterare la Magia]
+\begin{dmbox}[title=Alterare la Magia - pagina \pageref{magiealteraremagie}]
 \begin{itemize}[leftmargin=0.5cm,itemsep=-1pt,parsep=0pt]
 
 \item  \textbf{Magie Punitive}: un compagno pagando due volte il costo dell'incantesimo in Punti Magia può farti tirare un dado in più nella Prova di Magia. La capacità è usabile fino a 3 dadi in più per incantesimo. Da parte del compagno è una Azione di Reazione da dichiararsi prima della Prova di Magia.
@@ -972,7 +974,7 @@ Ogni incantatore sacrifica metà dei Punti Magia dell'incantesimo lanciato dal c
 \end{itemize}
 \end{dmbox}
 
-\begin{dmbox}[title=Tentare Incantesimi con impedimenti]
+\begin{dmbox}[title=Tentare Incantesimi con impedimenti - pagina \pageref{magieconimpedimenti}]
 
 x3 Punti Magia se non può gesticolare, x3 se non può parlare è necessario in ogni caso superare una Prova di Magia.
 
