@@ -15,7 +15,7 @@
 \usepackage{tabulary}
 \usepackage{xcolor}
 \usepackage{xltabular}
-
+\newcolumntype{T}{>{\scriptsize}l} % define a new column type for \tiny
 \usepackage[many]{tcolorbox}
 \usepackage[absolute,overlay]{textpos}  % Load textpos package BEFORE geometry
 \geometry{verbose,tmargin=1.5cm,bmargin=1.5cm,lmargin=1.5cm,rmargin=1.5cm}
@@ -61,114 +61,114 @@ fonttitle=\bfseries,
 \footnotesize
 
 \begin{dmbox}[title=Condizioni]
-	
-	\begin{itemize}[leftmargin=0.5cm,itemsep=-1pt,parsep=0pt]
-		\item \textbf{Aumento Categoria di danno}: 1d4 > 1d6 > 1d8 > 1d10/d12 > 2d6 - 2d8 > 2d10 > 3d6 > 3d8 > 3d10
-		\item \textbf{Accecato}:\index{Accecato}. Non vedi. -2  Competenze basate su Forza e Destrezza. Tutti sono invisibili. Terreno sempre difficile (Acrobatica DC 12 per muoversi normalmente). -1d6 a colpire, +1d6 a essere colpito.
-		\item \textbf{Affaticato}: No Corsa, no Carica. Malus a TC, Difesa, TS e Prove
-		\item
+
+\begin{itemize}[leftmargin=0.5cm,itemsep=-1pt,parsep=0pt]
+\item \textbf{Aumento Categoria di danno}: 1d4 > 1d6 > 1d8 > 1d10/d12 > 2d6 - 2d8 > 2d10 > 3d6 > 3d8 > 3d10
+\item \textbf{Accecato}:\index{Accecato}. Non vedi. -2  Competenze basate su Forza e Destrezza. Tutti sono invisibili. Terreno sempre difficile (Acrobatica DC 12 per muoversi normalmente). -1d6 a colpire, +1d6 a essere colpito.
+\item \textbf{Affaticato}: No Corsa, no Carica. Malus a TC, Difesa, TS e Prove
+\item
 \begin{tabular}{lcl}
-	\textbf{Condizioni}& \textbf{Penal./Mov/Comp.}&\textbf{Rec.}\\
-	\hline
-	Affaticato  &1/-/-&1h\\
-	Affaticato 2&2/2m/-4&1h\\
-	Affaticato 3&4/3m/-6&8h\\
-	Affaticato 4&6/6m/-8&12h\\
-	Affaticato 5&Svenuto&6h\\
-	Affaticato 6&Morte&--
+\textbf{Condizioni}& \textbf{Penal./Mov/Comp.}&\textbf{Rec.}\\
+\hline
+Affaticato  &1/-/-&1h\\
+Affaticato 2&2/2m/-4&1h\\
+Affaticato 3&4/3m/-6&8h\\
+Affaticato 4&6/6m/-8&12h\\
+Affaticato 5&Svenuto&6h\\
+Affaticato 6&Morte&--
 \end{tabular}
-		\item \textbf{Afferrato}\index{Afferrato}: No movimento. Puo' Spingere. 2 Azioni per liberarsi (TS Tempra + Forza contro prova Atletica, +1d6 per Taglia di differenza). -2 Difesa, Distratto. Solo armi piccole o naturali.
-		\item \textbf{Annegare/Trattenere il fiato}: Round 10+10 x Cos. 1 Azione = -1 Round. Dopo TS Tempra DC 12 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 2. Vedi pag. 243
-		\item \textbf{Assordato}: Distratto nel lancio degli incantesimi con componenti almeno verbali.
-		\item \textbf{Bloccato}: vedi Afferrato. -4 a Difesa e TS Riflessi. Prova di Magia con successo critico per incantesimi. -1d6 TC
-		\item \textbf{Colpo di Grazia}:: 3 azioni, 3 critici. Bersaglio Indifeso.
-		\item \textbf{Confuso}: se attaccato attacca ultima creatura. Ogni round tira
-		
+\item \textbf{Afferrato}\index{Afferrato}: No movimento. Puo' Spingere. 2 Azioni per liberarsi (TS Tempra + Forza contro prova Atletica, +1d6 per Taglia di differenza). -2 Difesa, Distratto. Solo armi piccole o naturali.
+\item \textbf{Annegare/Trattenere il fiato}: Round 10+10 x Cos. 1 Azione = -1 Round. Dopo TS Tempra DC 12 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 2. Vedi pag. 243
+\item \textbf{Assordato}: Distratto nel lancio degli incantesimi con componenti almeno verbali.
+\item \textbf{Bloccato}: vedi Afferrato. -4 a Difesa e TS Riflessi. Prova di Magia con successo critico per incantesimi. -1d6 TC
+\item \textbf{Colpo di Grazia}:: 3 azioni, 3 critici. Bersaglio Indifeso.
+\item \textbf{Confuso}: se attaccato attacca ultima creatura. Ogni round tira
+
 \noindent\begin{tabularx}{0.99\textwidth}{lX}
-		\hline
-		\textbf{d10} & Comportamento\\
-		\textbf{1} & La creatura usa tutte le sue Azioni per per muoversi in una direzione casuale. Per determinare la direzione tira un d8\\
-		\textbf{2-5} & La creatura non fa nulla per tutto il round\\
-		\textbf{6} & La creatura effettua un attacco contro se stessa e finisce il round\\
-		\textbf{7-8} & La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina.\\
-		\textbf{9-10} & La creatura può agire e muoversi normalmente.
-	\end{tabularx}
-		
-		\item \textbf{Distratto}: distratto, impedito, disturbato, sanguinante, è sotto attacco, devi fare Prova di Magia
-		\item \textbf{Correre}: -4 Difesa, -1d6 TC fino a inizio prossimo round
-		\item \textbf{Fiancheggiare}: +2 al Tiro per Colpire o alla Difesa.
-		\item \textbf{Impreparato / Sorpreso} -2 a Difesa ed TS Riflessi. No Azioni, Reazioni
-	\end{itemize}
+\hline
+\textbf{d10} & Comportamento\\
+\textbf{1} & La creatura usa tutte le sue Azioni per per muoversi in una direzione casuale. Per determinare la direzione tira un d8\\
+\textbf{2-5} & La creatura non fa nulla per tutto il round\\
+\textbf{6} & La creatura effettua un attacco contro se stessa e finisce il round\\
+\textbf{7-8} & La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina.\\
+\textbf{9-10} & La creatura può agire e muoversi normalmente.
+\end{tabularx}
+
+\item \textbf{Distratto}: distratto, impedito, disturbato, sanguinante, è sotto attacco, devi fare Prova di Magia
+\item \textbf{Correre}: -4 Difesa, -1d6 TC fino a inizio prossimo round
+\item \textbf{Fiancheggiare}: +2 al Tiro per Colpire o alla Difesa.
+\item \textbf{Impreparato / Sorpreso} -2 a Difesa ed TS Riflessi. No Azioni, Reazioni
+\end{itemize}
 
 \end{dmbox}
 
 
 
 \begin{dmbox}[title=Condizioni]
-	\begin{itemize}[leftmargin=0.5cm,itemsep=-1pt,parsep=0pt]
-	
-	\item \textbf{Inabile}: No azioni o reazioni. E' Impreparata
-	\item \textbf{In Lotta}: vedi Afferrato
-		\item \textbf{Indifeso} addormentato, Privo di Sensi, Morente, alla mercé degli avversari. No Azioni o Reazioni, +1d6 se attaccano. Non è consapevole, lascia cadere oggetti e cade prona. TS Riflessi e Tempra falliscono. No Destrezza alla Difesa.
-		\item \textbf{Intralciato}: terreno difficile, no corsa, no carica , -2 TC, -2 Difesa, Distratto.
-		\item \textbf{Invisibile}: -1d6 al TC, +1d6 al TC avversario.
-		\item \textbf{Morente}: -1 pf a round
-		\item \textbf{Nauseato}: -1d6 TS, TC, Prove
-		\item \textbf{Paralizzato}: No Azioni o Reazioni. +1d6 al TC avversari. Fallimento TS Riflessi. NO destrezza alla Difesa. E' terreno difficile.
-		\item \textbf{Paura, Spaventato}: -1d6 ai TC e TS contro chi la impaurisce.
-		\item \textbf{Privo di sensi}: vedi Indifeso
-		\item \textbf{Prono}\index{Prono}: -4 TC, -4 Difesa. 1 Azione
-		\item \textbf{Stordito/Svenuto}: vedi Indifeso
-		\item \textbf{Trattenere il fiato}: vedi \textbf{Annegare/Trattenere il fiato}
-		\item \textbf{Ristretto} : -1d6 TC, -4 Difesa.
-		\item \textbf{Sanguinante}: ad inizio round. Pronto Soccorso con DC 12, 2 Azioni, +2 per +1 Sanguinamento.
-	
-	\end{itemize}
+\begin{itemize}[leftmargin=0.5cm,itemsep=-1pt,parsep=0pt]
+
+\item \textbf{Inabile}: No azioni o reazioni. E' Impreparata
+\item \textbf{In Lotta}: vedi Afferrato
+\item \textbf{Indifeso} addormentato, Privo di Sensi, Morente, alla mercé degli avversari. No Azioni o Reazioni, +1d6 se attaccano. Non è consapevole, lascia cadere oggetti e cade prona. TS Riflessi e Tempra falliscono. No Destrezza alla Difesa.
+\item \textbf{Intralciato}: terreno difficile, no corsa, no carica , -2 TC, -2 Difesa, Distratto.
+\item \textbf{Invisibile}: -1d6 al TC, +1d6 al TC avversario.
+\item \textbf{Morente}: -1 pf a round
+\item \textbf{Nauseato}: -1d6 TS, TC, Prove
+\item \textbf{Paralizzato}: No Azioni o Reazioni. +1d6 al TC avversari. Fallimento TS Riflessi. NO destrezza alla Difesa. E' terreno difficile.
+\item \textbf{Paura, Spaventato}: -1d6 ai TC e TS contro chi la impaurisce.
+\item \textbf{Privo di sensi}: vedi Indifeso
+\item \textbf{Prono}\index{Prono}: -4 TC, -4 Difesa. 1 Azione
+\item \textbf{Stordito/Svenuto}: vedi Indifeso
+\item \textbf{Trattenere il fiato}: vedi \textbf{Annegare/Trattenere il fiato}
+\item \textbf{Ristretto} : -1d6 TC, -4 Difesa.
+\item \textbf{Sanguinante}: ad inizio round. Pronto Soccorso con DC 12, 2 Azioni, +2 per +1 Sanguinamento.
+
+\end{itemize}
 
 \end{dmbox}
-		
+
 \begin{mybluebox}\textbf{Punti Fato}: (20-Livello)/5\end{mybluebox}
-	
-\begin{mybluebox}\textbf{Morte}: -10-(COS*2)\end{mybluebox}	
 
-\begin{dmbox}[title=Preparare la Difesa]	
-	
-	Usando \textbf{1 Azione} aumenti la \textbf{Difesa} di 1.
-	
-	Se l'Arma ha il tratto \textbf{Parata} il bonus di Preparare la Difesa aumenta di 1
-\end{dmbox}		
+\begin{mybluebox}\textbf{Morte}: -10-(COS*2)\end{mybluebox}
 
-\begin{dmbox}[title=Copertura]	
+\begin{dmbox}[title=Preparare la Difesa]
+
+Usando \textbf{1 Azione} aumenti la \textbf{Difesa} di 1.
+
+Se l'Arma ha il tratto \textbf{Parata} il bonus di Preparare la Difesa aumenta di 1
+\end{dmbox}
+
+\begin{dmbox}[title=Copertura]
 \noindent\begin{tabular}{l|c}
 \textbf{Copertura} & \textbf{Bonus Difesa}\\
 \hline
 Leggera (almeno il 50\% visibile) & +2\\
 Media (visibilità tra il 50\% ed il >30\%) & +4 \\
 Completa (tra il 30 ed il 10\%) & +8 \\
-\end{tabular}\\	
+\end{tabular}\\
 
 Meta' del bonus si applica a TS Riflessi.
 
-Ogni creatura di taglia uguale all'avversario in linea, che \emph{copre} l'obiettivo aumenta di un grado la copertura fornita.	
-	
+Ogni creatura di taglia uguale all'avversario in linea, che \emph{copre} l'obiettivo aumenta di un grado la copertura fornita.
+
 \end{dmbox}
 
-\begin{mybluebox}\textbf{Colpi Potenti}: +1 al danno - 2 TC. MAX CA/4\end{mybluebox}	
-	
+\begin{mybluebox}\textbf{Colpi Potenti}: +1 al danno - 2 TC. MAX CA/4\end{mybluebox}
 
-\begin{dmbox}[title=Maestria del combattimento]	
+
+\begin{dmbox}[title=Maestria del combattimento]
 \noindent\begin{tabular}{l|c}
-	\textbf{Bonus} & \textbf{Penalità}\\
-		\hline
-	+1 Difesa & ogni -2 Tiro per Colpire\\
-	+1 Tiro per Colpire & ogni -2 alla Difesa
-\end{tabular}\\	
-	
+\textbf{Bonus} & \textbf{Penalità}\\
+\hline
++1 Difesa & ogni -2 Tiro per Colpire\\
++1 Tiro per Colpire & ogni -2 alla Difesa
+\end{tabular}\\
+
 Il bonus non può essere superiore a Competenza Armi/4
-\end{dmbox}	
-	
-\begin{dmbox}[title=Carica]		
-	
+\end{dmbox}
+
+\begin{dmbox}[title=Carica]
+
 L'avversario deve essere entro 2 Azioni di movimento ed a non meno di 3 metri. 
 
 Si ottiene un +1d6 a Tiro per Colpire, -4 alla Difesa fino all'inizio del proprio round successivo, l'attacco successivo al primo prende un -10 al colpire ed un eventuale successivo -15, 20...
@@ -176,292 +176,292 @@ Si ottiene un +1d6 a Tiro per Colpire, -4 alla Difesa fino all'inizio del propri
 Il movimento ed attacco costa 2 Azioni. Non si considerano altre penalità per avere corso oltre quelli indicati.
 
 L'Azione di Carica ti porta addosso, in mischia, con l'avversario. L'attacco se fatto con arma lunga viene portato a distanza di 2 metri per poi finire a contatto con l'avversario.
-\end{dmbox}			
-
-\begin{dmbox}[title=Attacco di Opportunita']			
-Devi avere l'abilità \textbf{Opportunista}.	
-
-La creatura esce o attraversa la zona di mischia o lancia un incantesimo. Questo attacco è una Reazione.
-\end{dmbox}			
-	
-\begin{dmbox}[title=Attacchi Multipli]
-La prima azione di attacco non ha penalità mentre la seconda azione di attacco ha -5 al colpire cumulativo per attacco. Vale anche per il Tiro per Colpire con Incantesimi.
-\end{dmbox}				
-	
-\begin{dmbox}[title=Esplosione del Danno]	
-	Se tiro di dado del danno dell'arma è massimo valore (min 8) ritiri il dado e sommi ancora il valore (del solo dado).
 \end{dmbox}
 
-\begin{dmbox}[title=Alzarsi da prono]	
+\begin{dmbox}[title=Attacco di Opportunita']
+Devi avere l'abilità \textbf{Opportunista}.
+
+La creatura esce o attraversa la zona di mischia o lancia un incantesimo. Questo attacco è una Reazione.
+\end{dmbox}
+
+\begin{dmbox}[title=Attacchi Multipli]
+La prima azione di attacco non ha penalità mentre la seconda azione di attacco ha -5 al colpire cumulativo per attacco. Vale anche per il Tiro per Colpire con Incantesimi.
+\end{dmbox}
+
+\begin{dmbox}[title=Esplosione del Danno]
+Se tiro di dado del danno dell'arma è massimo valore (min 8) ritiri il dado e sommi ancora il valore (del solo dado).
+\end{dmbox}
+
+\begin{dmbox}[title=Alzarsi da prono]
 \textbf{}\\
 1 Azione. -4 Difesa/Tiro per Colpire.
 
 Acrobatica DC 13 1 Azione Immediata. Se tiri tre 1 perdi il round. 
-\end{dmbox}	
+\end{dmbox}
 
-\begin{dmbox}[title=Azioni per Round]	
+\begin{dmbox}[title=Azioni per Round]
 
 \noindent\begin{tabular}{ll}
-	\textbf{Cosa si fa} & \textbf{Azioni}\\
-	\hline
-	Eseguire un attacco& 1\\
-	Eseguire due attacchi& 2\\
-	Eseguire più di due attacchi& 3\\
-	Estrarre o Rinfoderare l'arma o scudo& 1\\
-	\hline
-	Eseguire una Azione di Movimento &1*\\
-	Scatto & 1\\
-	Alzarsi da prono& 1\\
-	\hline
-	Aiutare qualcuno& R\\
-	Eseguire prova su una competenza& 1*\\
-	Riconoscere una creatura& 1\\
-	Nascondersi& 1\\
-	\hline
-	Salire o scendere dalla cavalcatura& 2\\
-	Sfondare una porta a spallate/calci& 1\\
-	Forzare porta con piede di porco& 2\\
-	\hline
-	Cercare qualcosa nello zaino& 2\\
-	Prendere qualcosa dalla cintura o di pronto & 1\\
-	Usare un oggetto tenuto in mano& 1\\
-	\hline
-	Bere una pozione tenuta in mano& I\\
-	Fare bere una pozione ad un altro & 2\\
-	\hline
-	Gettare un oggetto tenuto in mano& R\\
-	Gettarsi a terra prono& R\\
-	\hline
-	Lanciare un Incantesimo*& 2\\
-	Concentrarsi su un Incantesimo& 1\\
-	Interrompere un proprio incantesimo & I\\
-	Riconoscere un Incantesimo& R\\
-	Usare un oggetto magico& 2\\
-	\hline
-	Scambiare un dialogo con qualcuno& 3*\\
-	Scambiare poche battute con qualcuno& 0*\\
-	\hline
-	Preparare la Difesa & 1\\
-	Difesa Totale & 2\\
-	Disingaggiare & 1\\
-	Colpo preciso & 2\\
-	\hline
-	Disarmare & 2\\
-	Finta & 1\\
-	Spingere & 2\\
-	Afferrare l'avversario & 2\\
-	Fare cadere l'avversario & 2
+\textbf{Cosa si fa} & \textbf{Azioni}\\
+\hline
+Eseguire un attacco& 1\\
+Eseguire due attacchi& 2\\
+Eseguire più di due attacchi& 3\\
+Estrarre o Rinfoderare l'arma o scudo& 1\\
+\hline
+Eseguire una Azione di Movimento &1*\\
+Scatto & 1\\
+Alzarsi da prono& 1\\
+\hline
+Aiutare qualcuno& R\\
+Eseguire prova su una competenza& 1*\\
+Riconoscere una creatura& 1\\
+Nascondersi& 1\\
+\hline
+Salire o scendere dalla cavalcatura& 2\\
+Sfondare una porta a spallate/calci& 1\\
+Forzare porta con piede di porco& 2\\
+\hline
+Cercare qualcosa nello zaino& 2\\
+Prendere qualcosa dalla cintura o di pronto & 1\\
+Usare un oggetto tenuto in mano& 1\\
+\hline
+Bere una pozione tenuta in mano& I\\
+Fare bere una pozione ad un altro & 2\\
+\hline
+Gettare un oggetto tenuto in mano& R\\
+Gettarsi a terra prono& R\\
+\hline
+Lanciare un Incantesimo*& 2\\
+Concentrarsi su un Incantesimo& 1\\
+Interrompere un proprio incantesimo & I\\
+Riconoscere un Incantesimo& R\\
+Usare un oggetto magico& 2\\
+\hline
+Scambiare un dialogo con qualcuno& 3*\\
+Scambiare poche battute con qualcuno& 0*\\
+\hline
+Preparare la Difesa & 1\\
+Difesa Totale & 2\\
+Disingaggiare & 1\\
+Colpo preciso & 2\\
+\hline
+Disarmare & 2\\
+Finta & 1\\
+Spingere & 2\\
+Afferrare l'avversario & 2\\
+Fare cadere l'avversario & 2
 \end{tabular}
-\end{dmbox}		
+\end{dmbox}
 
-\begin{dmbox}[title=Azione di Scatto]	
+\begin{dmbox}[title=Azione di Scatto]
 Costa 1 Azione. Fai doppio movimento, fino all'inzio del round successivo hai -1d6 nel Tiro per Colpire, -4 Difesa e sei Distratto
-\end{dmbox}	
+\end{dmbox}
 
-\begin{dmbox}[title=Difesa da Sorpresi]	
+\begin{dmbox}[title=Difesa da Sorpresi]
 Hai -4 alla Difesa e -4 TS Riflessi
-\end{dmbox}	
+\end{dmbox}
 
-\begin{dmbox}[title=Attacco a Tocco]	
+\begin{dmbox}[title=Attacco a Tocco]
 Hai +1d6 al Tiro per Colpire
-\end{dmbox}		
+\end{dmbox}
 
-\begin{dmbox}[title=Tiro Critico]	
+\begin{dmbox}[title=Tiro Critico]
 Ogni qual volta hai colpito, tiri un dado arma aggiuntivo e non sommi altro per ogni due volte che hai tirato 6 nel Tiro per Colpire. Oppure ogni 8 di margine (Variante Tiro Critico)
-\end{dmbox}		
+\end{dmbox}
 
-\begin{dmbox}[title=Difesa Totale]	
+\begin{dmbox}[title=Difesa Totale]
 2 Azioni, NO Attacco, NO Incantesimi. Terreno Difficile. No attacchi d'opportunità. +4 in Difesa.
-\end{dmbox}		
+\end{dmbox}
 
-\begin{dmbox}[title=Disingaggiare]	
+\begin{dmbox}[title=Disingaggiare]
 costa 1 Azione, ti sposti di 1 metro e non causi attacchi di opportunità
-\end{dmbox}		
-	
-\begin{dmbox}[title=Armi a spargimento]	
+\end{dmbox}
+
+\begin{dmbox}[title=Armi a spargimento]
 In questo schema lo \textbf{0} è colui che lancia e \textbf{X} è l'obiettivo da colpire.\\
-	
+
 \noindent\begin{tabular}{c|c|c}
-	8 &1 &2\\
-	\hline
-	7 &\textbf{X}& 3\\
-	\hline
-	6 &5& 4\\
-	\hline
-	&0&\\
-\end{tabular}\\		
+8 &1 &2\\
+\hline
+7 &\textbf{X}& 3\\
+\hline
+6 &5& 4\\
+\hline
+&0&\\
+\end{tabular}\\
 
 Se il Tiro per Colpire manca almeno di 5 tira 1d8 per stabilire la direzione e tira 2d6 per stabilire la distanza dall'obiettivo.
-\end{dmbox}			
-	
-\begin{dmbox}[title=Visione]	
-	
+\end{dmbox}
+
+\begin{dmbox}[title=Visione]
+
 Una creatura Accecata subisce penalità -1d6 alle prove di Consapevolezza e -2 alle prove basate su Forza e Destrezza e fallisce automaticamente qualsiasi prova di Consapevolezza dipendente dalla vista.
 
 \begin{itemize}[leftmargin=0.5cm,itemsep=-1pt,parsep=0pt]
 \item Usando Scurovisione/Crepuscolare: Prova di \textbf{Sopravvivenza} per cercare trappole o di \textbf{Consapevolezza} solo visiva prende un -2 di penalità.
 \item Combattere con \textbf{Scarsa luminosita'}: -1 Tiro per Colpire
 \end{itemize}
-\end{dmbox}		
+\end{dmbox}
 
-\begin{dmbox}[title=Fonti di Luce]	
+\begin{dmbox}[title=Fonti di Luce]
 
 \noindent\begin{tabular}{l|cc|c}
-	\textbf{Fonte di} &\multicolumn{2}{c}{\textbf{Raggio in metri}}& \textbf{Durata}  \\
-	\textbf{Luce}& \textbf{Luce} & \textbf{Luce Fioca} &\\
-	Candela & - & 1 metro & 1 ora\\
-	Torcia & 3 metri & 6 metri & 1 ora\\
-	Lanterna & 6 metri & 12 metri & 3 ore \\
-	\multicolumn{4}{c}{\textbf{Incantesimi}}\\
-	Lacrima di Ljust & 1 & - & 10 round\\
-	Luce  & 3 metri & 6 metri &30 min. \\
-	Luce Diurna & 6 metri & 12 metri & 1 ora 
+\textbf{Fonte di} &\multicolumn{2}{c}{\textbf{Raggio in metri}}& \textbf{Durata}  \\
+\textbf{Luce}& \textbf{Luce} & \textbf{Luce Fioca} &\\
+Candela & - & 1 metro & 1 ora\\
+Torcia & 3 metri & 6 metri & 1 ora\\
+Lanterna & 6 metri & 12 metri & 3 ore \\
+\multicolumn{4}{c}{\textbf{Incantesimi}}\\
+Lacrima di Ljust & 1 & - & 10 round\\
+Luce  & 3 metri & 6 metri &30 min. \\
+Luce Diurna & 6 metri & 12 metri & 1 ora 
 \end{tabular}
-\end{dmbox}			
+\end{dmbox}
 
-\begin{dmbox}[title=Riposare 8 ore]	
-Ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione*Livello, con un minimo di PF pari a Livello. 	
-\end{dmbox}				
-	
+\begin{dmbox}[title=Riposare 8 ore]
+Ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione*Livello, con un minimo di PF pari a Livello. 
+\end{dmbox}
 
-\begin{dmbox}[title=Danni temporanei]	
+
+\begin{dmbox}[title=Danni temporanei]
 Ogni ora si recupera, con un minimo di 1 PF, il proprio valore di Costituzione in PF non letali (danni da stordimento) persi.
-\end{dmbox}		
+\end{dmbox}
 
-		
 
-\begin{dmbox}[title=Capacità di Carico]	
+
+\begin{dmbox}[title=Capacità di Carico]
 La CdC è pari a 9 (P), 16 (M), 25 (G) + Forza + Costituzione.
-\end{dmbox}		
+\end{dmbox}
 
 
-\begin{dmbox}[title=Golden Rules]	
+\begin{dmbox}[title=Golden Rules]
 {\textbf{I 6 esplodono}} - se fai 6, sommi e ritiri\\
 Gli \textbf{1 portano male}, se fai 1 con il dado vale zero\\
 \textbf{Affidarsi alla sorte}. Ogni 4 punti tra Competenza Base o Attiva o Caratteristica = +1d6
-\end{dmbox}		
+\end{dmbox}
 
 
 
-\begin{dmbox}[title=Difficoltà e Competenza]	
+\begin{dmbox}[title=Difficoltà e Competenza]
 \begin{tabular}{lll}
-	\textbf{Difficoltà} & \textbf{Descrizione} & \textbf{Competenza} \\
-	5 & Estremamente facile  & Nulla\\
-	10  & Facile & Scarsa\\
-	15  & Normale  & Normale\\
-	20  & Difficile  & Buono\\
-	25  & Molto difficile  & Ottimo\\
-	30  & Eroica  	 & Eccellente\\
-	35  & Quasi impossibile & Stupefacente\\
-	40  & Impossibile  & Epica\\
+\textbf{Difficoltà} & \textbf{Descrizione} & \textbf{Competenza} \\
+5 & Estremamente facile  & Nulla\\
+10  & Facile & Scarsa\\
+15  & Normale  & Normale\\
+20  & Difficile  & Buono\\
+25  & Molto difficile  & Ottimo\\
+30  & Eroica   & Eccellente\\
+35  & Quasi impossibile & Stupefacente\\
+40  & Impossibile  & Epica\\
 \end{tabular}
-\end{dmbox}		
+\end{dmbox}
 
 
 
-\begin{dmbox}[title=Cavalcature/Costo/Movimento]	
+\begin{dmbox}[title=Cavalcature/Costo/Movimento]
 
 \begin{tabularx}{1\textwidth}{lllXX}
 \textbf{Cavalcatura} & \textbf{Costo} & \textbf{CdC} & \textbf{Vel. ora} & \textbf{Km giorno}\\
-	\toprule
-	Cane da Galoppo 	&25		&30	&6km & 36km \\
-	Saurov. Galoppo		&75		&60	&8km & 48km \\
-	Saurov. da Guerra 	&400	&80	&7km & 42km \\
-	Saurov. Nano		&30		&50	&5km & 30km \\
-	Saurov. Tiro		&50		&70	&6km & 36km \\
-	Cammello			&50		&60	&8km & 48km \\
-	Elefante			&160	&320&6km & 36km \\
-	Carretto/Carro  	&15/30 	& &&
-	\end{tabularx}
+\toprule
+Cane da Galoppo &25&30&6km & 36km \\
+Saurov. Galoppo&75&60&8km & 48km \\
+Saurov. da Guerra &400&80&7km & 42km \\
+Saurov. Nano&30&50&5km & 30km \\
+Saurov. Tiro&50&70&6km & 36km \\
+Cammello&50&60&8km & 48km \\
+Elefante&160&320&6km & 36km \\
+Carretto/Carro  &15/30 & &&
+\end{tabularx}
 
 \bigskip
 
 \begin{tabular}{lccc}
-	\multirow{2}*{\textbf{Tipo di movimento}} &
-	\multicolumn{3}{c}{\textbf{Movimento}}\\
-	\cmidrule(lr){2-4} & 6m& 9m & 12m\\
-	\hline
-	\multicolumn{4}{c}{\textbf{Movimento (Tattico)}}\\
-	Camminare& 6m & 9m & 12m\\
-	Correre (x2) & 12m& 18m& 24m\\
-	\multicolumn{4}{c}{\textbf{Un minuto (Locale)}} \\
-	Camminare & 36m& 54m& 72m \\
-	Correre (x3) & 108m & 162m & 216m \\
-	\multicolumn{4}{c}{\textbf{Un'ora (Via Terra)}} \\
-	Camminare& 3km& 4km& 6km\\
-	Correre (x3) & 9km& 12km & 18km \\
-	\multicolumn{4}{c}{\textbf{Un giorno (Via Terra)}}\\
-	Camminare& 24km & 32km & 54km
+\multirow{2}*{\textbf{Tipo di movimento}} &
+\multicolumn{3}{c}{\textbf{Movimento}}\\
+\cmidrule(lr){2-4} & 6m& 9m & 12m\\
+\hline
+\multicolumn{4}{c}{\textbf{Movimento (Tattico)}}\\
+Camminare& 6m & 9m & 12m\\
+Correre (x2) & 12m& 18m& 24m\\
+\multicolumn{4}{c}{\textbf{Un minuto (Locale)}} \\
+Camminare & 36m& 54m& 72m \\
+Correre (x3) & 108m & 162m & 216m \\
+\multicolumn{4}{c}{\textbf{Un'ora (Via Terra)}} \\
+Camminare& 3km& 4km& 6km\\
+Correre (x3) & 9km& 12km & 18km \\
+\multicolumn{4}{c}{\textbf{Un giorno (Via Terra)}}\\
+Camminare& 24km & 32km & 54km
 \end{tabular}
 
-\end{dmbox}	
+\end{dmbox}
 
-\begin{dmbox}[title=Taglia e Portata standard]	
+\begin{dmbox}[title=Taglia e Portata standard]
 \begin{tabularx}{0.95\linewidth}{llll}
-	\toprule
-	\textbf{Taglia}& \textbf{Dimensione} &\textbf{Quadretti}&\textbf{Portata}\\
-	Minuscola & 25 x 25 &cm 1/4&0m\\
-	Piccola & 0,5 x 0,5 m & 1/2&1m\\
-	Media & 1 x 1 m & 1&1m\\
-	Grande & 2 x 2 m& 2x2&1m\\
-	Enorme & 3 x 3 m & 3x3&2m\\
-	Mastodontico & 4 x 4 m&4x4&2m\\
-	Colossale & 12 x 12 m&6x6&6m
+\toprule
+\textbf{Taglia}& \textbf{Dimensione} &\textbf{Quadretti}&\textbf{Portata}\\
+Minuscola & 25 x 25 &cm 1/4&0m\\
+Piccola & 0,5 x 0,5 m & 1/2&1m\\
+Media & 1 x 1 m & 1&1m\\
+Grande & 2 x 2 m& 2x2&1m\\
+Enorme & 3 x 3 m & 3x3&2m\\
+Mastodontico & 4 x 4 m&4x4&2m\\
+Colossale & 12 x 12 m&6x6&6m
 \end{tabularx}
-\end{dmbox}		
+\end{dmbox}
 
 
-\begin{dmbox}[title=Riconoscere un incantesimo]	
-	Arcana DC 10 + livello dell'incantesimo. 1 Reazione
-\end{dmbox}	
+\begin{dmbox}[title=Riconoscere un incantesimo]
+Arcana DC 10 + livello dell'incantesimo. 1 Reazione
+\end{dmbox}
 
 
-\begin{dmbox}[title=Riconoscere un oggetto magico]	
-	Arcana DC 20. DC 25 per identificare. Critico per maledizioni
-\end{dmbox}		
+\begin{dmbox}[title=Riconoscere un oggetto magico]
+Arcana DC 20. DC 25 per identificare. Critico per maledizioni
+\end{dmbox}
 
 
-\begin{dmbox}[title=Valutare]	
-	DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +10, Leggendario +16. 3 Azioni
-\end{dmbox}	
+\begin{dmbox}[title=Valutare]
+DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +10, Leggendario +16. 3 Azioni
+\end{dmbox}
 
 
-\begin{dmbox}[title=Competenze]	
-	\begin{tabularx}{0.95\linewidth}{ll}
-\multicolumn{2}{c}{\textbf{Forza}}	\\
-Arrampicarsi 	& Intimidire\\
-Nuotare			& Saltare	\\
-\multicolumn{2}{c}{\textbf{Destrezza}}	\\
+\begin{dmbox}[title=Competenze]
+\begin{tabularx}{0.95\linewidth}{ll}
+\multicolumn{2}{c}{\textbf{Forza}}\\
+Arrampicarsi & Intimidire\\
+Nuotare& Saltare\\
+\multicolumn{2}{c}{\textbf{Destrezza}}\\
 Acrobatica & Artista della fuga\\
 Giocoliere & Mani di fata\\
-Furtività & Usare corda	\\
-\multicolumn{2}{c}{\textbf{Intelligenza}}	\\
-Arcana &	Artigianato\\
+Furtività & Usare corda\\
+\multicolumn{2}{c}{\textbf{Intelligenza}}\\
+Arcana &Artigianato\\
 Conoscenza*&Disattivare congegni\\
-Erboristeria&	Falsificare\\
-Lingue&	Valutare\\
-\multicolumn{2}{c}{\textbf{Saggezza}}	\\
+Erboristeria&Falsificare\\
+Lingue&Valutare\\
+\multicolumn{2}{c}{\textbf{Saggezza}}\\
 Cavalcare &Consapevolezza\\
 Gestire animali&Natura\\
 Percepire Emozioni&Pronto soccorso\\
 Seguire tracce&Sopravvivenza\\
-\multicolumn{2}{c}{\textbf{Carisma}}	\\
+\multicolumn{2}{c}{\textbf{Carisma}}\\
 Diplomazia &Intrattenere\\
 Ingannare &Tradizioni locali
 \end{tabularx}
-\end{dmbox}		
+\end{dmbox}
 
 
-\begin{dmbox}[title=Acrobatica]	
+\begin{dmbox}[title=Acrobatica]
 Una prova di Acrobatica riuscita con DC 15 permette al personaggio di ridurre di 3 il danno quando cade entro 6 metri (\textbf{Reazione}).
 
 \textbf{Scendere o Salire} entro 50 cm è terreno difficile, tra i 50 e 150 cm è terreno doppiamente difficile, oltre è cadere o arrampicarsi. Il danno da caduta è 1d6 danni ogni 3 metri in caduta. \index{Scendere e Salire}
 
 
 \textbf{Danno Caduta}: H(m)/3xD6. Ogni 3 dadi oltre i 20 aggiungete 6 di danno (X/3)d6+(X/3-20)*6. Proni. Prova Acrobatica DC 15 1/2 danno entro 9m.  Cadute su superfici morbide (terreno morbido, fango ecc.) -1d6 danni.
-\end{dmbox}		
+\end{dmbox}
 
-\begin{dmbox}[title=Arrampicarsi/Scalare]	
+\begin{dmbox}[title=Arrampicarsi/Scalare]
 
 Usare una corda per arrampicarsi\index{Scendere con una corta}\index{Salire su una corda}, scalare o arrampicarsi equivale a muoversi in un \textbf{terreno doppiamente difficile}.
 
@@ -472,31 +472,31 @@ Le difficoltà indicate si sommano.
 \medskip
 
 \noindent\begin{tabularx}{1\linewidth}{Xl}
-	\textbf{Esempio di Superficie} & \textbf{DC}\\
-	\toprule
-	Movimento solo dimezzato & -2d6\\
-	Superficie scivolosa&+4\\
+\textbf{Esempio di Superficie} & \textbf{DC}\\
+\toprule
+Movimento solo dimezzato & -2d6\\
+Superficie scivolosa&+4\\
  Parete grezza con appigli, mattoni sporgenti&+12\\
-	Un albero, una corda senza nodi&+15\\
-	Un muro con pochi mattoni sporgenti &+20\\
-	Un muro con pochissimi appigli&+25\\
-	Una parete naturale liscia senza appigli&+30\\
-	Ti puoi appoggiare a 2 pareti opposte&-8\\
-	Ti puoi appoggiare a 2 pareti angolari&-4\\
-	Puoi usare una corda&-8\\
-	\midrule
-	Usare una corda per calarsi&12\\
-	Usare una corda per arrampicarsi&15\\
-	La corda ha nodi & -3\\
+Un albero, una corda senza nodi&+15\\
+Un muro con pochi mattoni sporgenti &+20\\
+Un muro con pochissimi appigli&+25\\
+Una parete naturale liscia senza appigli&+30\\
+Ti puoi appoggiare a 2 pareti opposte&-8\\
+Ti puoi appoggiare a 2 pareti angolari&-4\\
+Puoi usare una corda&-8\\
+\midrule
+Usare una corda per calarsi&12\\
+Usare una corda per arrampicarsi&15\\
+La corda ha nodi & -3\\
 \end{tabularx}
 
 \medskip
 
 In caso di Successo Critico scali o ti arrampichi come fosse terreno difficile e non doppiamente difficile
 
-\end{dmbox}		
+\end{dmbox}
 
-\begin{dmbox}[title=Atletica]	
+\begin{dmbox}[title=Atletica]
 
 La \textbf{distanza saltata in lungo} è pari a 30cm per risultato ottenuto nella prova, arrotondando all'intero più vicino. Es. se nella prova di saltare faccio 11, il salto sarà lungo 30cm*11=330cm=3 metri, con 16 nella prova è 30cm*16=480cm=5m.
 
@@ -507,15 +507,15 @@ In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/3 del
 Se non si ha almeno 3 metri di rincorsa si salta la metà. In lungo si salta al massimo il proprio movimento ed in alto la metà.
 
 Effettuare un Salto da fermo costa 1 Azione. Un Salto effettuato entro metà del proprio movimento (quindi si salta entro 4 metri percorsi, per un umano) non costa Azione, altrimenti consumi una Azione per il Movimento ed una Azione per il Salto.
-\end{dmbox}		
+\end{dmbox}
 
-\begin{dmbox}[title=Identificare una pozione o veleno naturale]	
+\begin{dmbox}[title=Identificare una pozione o veleno naturale]
 è possibile con una prova di \textbf{Erboristeria} a DC uguale al fattore di rarità della pianta, oppure il TS che questa concede in caso di Veleni.
 
 Impiega 1 Azione ogni 10 di DC. Con 6 in Erboristeria il tempo è 1 Azione ogni 15 di DC, con 12 punti è 1 Azione ogni 20 DC eseguire la prova. Se si fallisce con un fallimento critico si è venuti a contatto/ingerito parte della pozione e se ne subiscono gli effetti.
-\end{dmbox}		
+\end{dmbox}
 
-\begin{dmbox}[title=Riconoscere i mostri]	
+\begin{dmbox}[title=Riconoscere i mostri]
 
 Per \textbf{riconoscere un mostro} si effettua una prova di Conoscenza, \textbf{costa 1 Azione} su:
 
@@ -540,41 +540,48 @@ La DC delle prova è pari 10 + grado di Sfida della creatura + fattore di rarit�
 Le informazioni ottenibili dipendono dal margine di successo ottenuto. 
 
 \noindent\begin{itemize}\setlength{\itemsep}{0pt}
-	\item \emph{entro 2}: nome, tipo, la Caratteristica principale
-	\item \emph{fino 7}: quale è il migliore Tiro Salvezza, una resistenza/immunità a Condizioni, una vulnerabilità a Condizioni, attacco tipico
-	\item \emph{fino 12}: quale è il peggiore Tiro Salvezza, una resistenze/immunità a Condizioni, una immunità a Danni, una vulnerabilità a Condizioni, una vulnerabilità a tipo di Danno
-	\item \emph{fino 15}: due immunità a Condizioni, una immunità a Danni, una vulnerabilità a Condizioni, una vulnerabilità a tipo di Danno
-	\item \emph{fino 17}: grado di sfida relativo ovvero se è una scontro facile, medio, alto, straordinario, mortale o epico
-	\item \emph{fino 20}: attacco e difese speciali
+\item \emph{entro 2}: nome, tipo, la Caratteristica principale
+\item \emph{fino 7}: quale è il migliore Tiro Salvezza, una resistenza/immunità a Condizioni, una vulnerabilità a Condizioni, attacco tipico
+\item \emph{fino 12}: quale è il peggiore Tiro Salvezza, una resistenze/immunità a Condizioni, una immunità a Danni, una vulnerabilità a Condizioni, una vulnerabilità a tipo di Danno
+\item \emph{fino 15}: due immunità a Condizioni, una immunità a Danni, una vulnerabilità a Condizioni, una vulnerabilità a tipo di Danno
+\item \emph{fino 17}: grado di sfida relativo ovvero se è una scontro facile, medio, alto, straordinario, mortale o epico
+\item \emph{fino 20}: attacco e difese speciali
 \end{itemize}
 
 \medskip
 
 Le informazioni ottenute sono cumulative, ovvero se la prova riesce di 15 ottieni le informazioni entro 2, 7 e 12.
-\end{dmbox}		
+\end{dmbox}
 
 
-\begin{dmbox}[title=Intimidire]	
+\begin{dmbox}[title=Intimidire]
 Il personaggio usa \textbf{1 Azione} ed esegue una Prova Contrapposta al Tiro Salvezza su Volontà con bonus dato dal Carisma.
 Se il Tiro Salvezza fallisce, l'avversario fino alla fine del suo round successivo ha -1 al Tiro per Colpire contro colui che l'ha intimidito. L'avversario deve avere Intelligenza pari o maggiore di -3. Il Tiro Salvezza prende un modificatore di $\pm2$ per taglia di differenza. In caso di successo critico il modificatore diventa -2. 
 
 Se chi tenta la prova di Intimidire esegue un fallimento critico subisce le medesime penalità come se fosse stato intimidito.
-\end{dmbox}		
+\end{dmbox}
 
 
-\begin{dmbox}[title=Furtività]	
+\begin{dmbox}[title=Furtività]
 Se vuoi muoverti silenziosamente il terreno si considera difficile. Muoversi a piena velocità cercando di non fare rumore impone alla prova di Furtività una penalità di 2d6.
 
 Usando \textbf{1 Azione} puoi cercare di nasconderti dalla vista degli avversari. Per nascondersi dietro una creatura questa deve essere almeno di 3 taglie superiori alla tua (altrimenti la creatura fornisce solo copertura).
-\end{dmbox}		
+\end{dmbox}
+
+
+\begin{dmbox}[title=Sopravvivenza]
+Sopravvivenza può essere usata al posto di \textbf{Disattivare Congegni} con un -1d6 per disattivare trappole o serrature. 1 Azione per DC.
+
+Ogni tre punti ottenuti nella prova di Sopravvivenza oltre 13 il personaggio è in grado di \textbf{procacciare cibo} per se stesso ed un altra persona purché si trovi in un ambiente capace di sostenere la vita.
+\end{dmbox}
 
 \begin{dmbox}[title=Gestire Animali - Ammansire un animale]
 è una prova di \textbf{Gestire Animali} a DC 12+2*GS dell'animale. Impiega 1 minuto ogni 3 di DC, con 6 punti il tempo è 1 minuto ogni 6 di DC, con 12 è 1 minuto ogni 10 DC eseguire la prova. La creatura deve avere Intelligenza -3 o superiore.
-\end{dmbox}		
+\end{dmbox}
 
 \begin{dmbox}[title=Nuotare]
 In acqua calme DC 10, in acque mosse ha DC 15, in acque molto mosse DC 20, tempestose DC 25. La prova è necessaria per stare a galla o nuotare. Nuotare in acqua si considera \textbf{terreno difficile}.
-\end{dmbox}		
+\end{dmbox}
 
 \begin{dmbox}[title=Pronto Soccorso]
 Se il personaggio ha Punti Ferita negativi, è morente, la prova di Pronto Soccorso, 3 Azioni, a difficoltà 12 più il valore dei Punti Ferita negativi porterà il personaggio a 0 Punti Ferita, ovvero svenuto. Ogni volta successiva che il personaggio torna sotto 0 Punti Ferita la difficoltà della prova di Pronto Soccorso aumenta di 2.
@@ -589,424 +596,403 @@ Un trattamento di 1 minuto garantisce 1 successo, senza prova. Ogni prova riusci
 
 Una prova riuscita (base DC 13) per \textbf{prendersi cura per 8 ore} di un paziente fa recuperare a questo il doppio dei Punti Ferita 2, con un minimo di 4, e concede un nuovo Tiro Salvezza su Tempra per debellare a Malattie naturali o Veleni già in corso.
 Se effettuato durante le ore di riposo chi amministra la cura risulterà Affaticato.
-\end{dmbox}		
+\end{dmbox}
+
+
+
+\begin{dmbox}[title=Artista della Fuga]
+1 Azione ogni 10 di DC. 6p 1 Azione 15 di DC, 12p 1 Azione 20 DC.
+\end{dmbox}
 
 
 \begin{dmbox}[title=Seguire Tracce]
 Alla \textbf{Difficoltà base di 15} si applicano i modificatori indicati.\\
 
 \noindent\begin{tabular}{ll}
-		Se il terreno è molto morbido& DC -4\\
-		Se il terreno è stabile& DC +5\\
-		Se il terreno è duro& DC +10\\
-		A seconda della taglia& DC $\pm4$\\
-		Ogni 3 creature inseguite& DC -2\\
-		Ogni 24 ore passate& DC +4\\
-		Ogni ora di pioggia& DC +4\\
-		Visibilità scarsa& DC +2\\
-		Cerca di occultare le tracce& DC +4\\		
+Se il terreno è molto morbido& DC -4\\
+Se il terreno è stabile& DC +5\\
+Se il terreno è duro& DC +10\\
+A seconda della taglia& DC $\pm4$\\
+Ogni 3 creature inseguite& DC -2\\
+Ogni 24 ore passate& DC +4\\
+Ogni ora di pioggia& DC +4\\
+Visibilità scarsa& DC +2\\
+Cerca di occultare le tracce& DC +4\\
 \end{tabular}
-\end{dmbox}		
-
-\begin{dmbox}[title=Sopravvivenza]
-Sopravvivenza può essere usata al posto di \textbf{Disattivare Congegni} con un -1d6 per disattivare trappole o serrature. 1 Azione per DC.
-
-Ogni tre punti ottenuti nella prova di Sopravvivenza oltre 13 il personaggio è in grado di \textbf{procacciare cibo} per se stesso ed un altra persona purché si trovi in un ambiente capace di sostenere la vita.
-\end{dmbox}		
-
-\begin{dmbox}[title=Artista della Fuga]
-1 Azione ogni 10 di DC. 6p 1 Azione 15 di DC, 12p 1 Azione 20 DC.
-\end{dmbox}		
-
-\begin{dmbox}[title=Danni temporanei]	
-	\textbf{Rompere Oggetti - DC Forza}\\
-	\begin{tabular}{ll|ll}
-		Corda   		   & 23&	Porta semplice         & 14\\
-		Porta legno buono  & 18&	Porta robusta          & 25\\
-		Porta di ferro     & 30&	Catena                 & 26 \\
-	\end{tabular}
-\end{dmbox}			
-
-\noindent\begin{tabularx}{0.98\textwidth}{lllll}
-	\toprule{}
-	\textbf{Materiale} &\textbf{Durezza}&\textbf{PF} &\textbf{DC} & \textbf{Oggetti di Esempio}\\
-	Carta, Vetro, Stoffa&0& 1&3&Fogli di carta, vetro di finestra, stoffa leggera\\
-	Stoffa pesante &1& 4& 12&Armatura di stoffa, giacca pesante, sacco, tenda\\
-	Vetro&1&4&6&Blocco di vetro, tavolo di vetro, vaso pesante\\
-	Corda, Cuoio&2&4&19&Corda di canapa\\
-	Legno sottile&3&12&14&Sedia\\
-	Armatura di Cuoio &4&16&22&Armatura di cuoio, sella, corda di canapa grossa\\
-	Pietra sottile&4&16&20&Ardesia, piastrelle di ardesia, rivestimento in pietra\\
-	Acciaio o ferro sottile&5&20&23&Corda di seta, scudo d'acciaio, spada corta\\
-	Legno&5&20&18&Baule, tavolo\\
-	Pietra&7&28&35&Pietra per lastricato, statua\\
-	Acciaio o ferro&9&36&26&Catena, Armatura d'acciaio, ferro, spada lunga\\
-	Struttura in legno&10&40&20&Muro di legno\\
-	Struttura in pietra&14&56&35&Muro di pietra\\
-	Struttura in acciaio o ferro&18&90&45&Muro di piastre di ferro
-\end{tabularx}	
-
-\noindent\begin{tabular}{llllll}
-	\textbf{Tipo di porta} & \textbf{Spessore tipico} & \textbf{Durezza} & \textbf{Punti Ferita} & \multicolumn{2}{c}{\textbf{DC per sfondare}} \\
-	
-	&\textbf{(cm)}&&& \textbf{Bloccata} & \textbf{Chiusa a chiave}\\
-	\toprule
-	Legno semplice & 2.5& 5 & 10& 15 & 18\\
-	Legno buono& 3.75 & 5 & 15& 18 & 21\\
-	Legno robusto& 5& 5 & 20& 25 & 28\\
-	Pietra& 10 & 8 & 60& 31 & 34\\
-	Ferro & 5& 10& 60& 30 & 33\\
-	Saracinesca di legno & 7.5& 5 & 30& 27& 30\\
-	Saracinesca di ferro & 5& 10& 60& 28& 31\\
-	Serratura& -& 15& 30& -& -\\
-	Cardini & -& 10& 30& -& -\\
-\end{tabular}
-
-
+\end{dmbox}
 
 \end{multicols}
+
+\begin{multicols}{2}
+
+\begin{dmbox}[title=Danni temporanei]
+\textbf{Rompere Oggetti - DC Forza}\\
+\begin{tabular}{ll|ll}
+Corda      & 23&Porta semplice         & 14\\
+Porta legno buono  & 18&Porta robusta          & 25\\
+Porta di ferro     & 30&Catena                 & 26 \\
+\end{tabular}
+\end{dmbox}
+
+
+\begin{dmbox}[title=Sfondare le Porte]
+\noindent\begin{tabular}{llllll}
+\textbf{Tipo di porta} & \textbf{Spessore} & \textbf{Durezza} & \textbf{PF} & \multicolumn{2}{c}{\textbf{DC}} \\
+
+&\textbf{(cm)}&&& \textbf{Bloccata} & \textbf{a Chiave}\\
+\toprule
+Legno semplice & 2.5& 5 & 10& 15 & 18\\
+Legno buono& 3.75 & 5 & 15& 18 & 21\\
+Legno robusto& 5& 5 & 20& 25 & 28\\
+Pietra& 10 & 8 & 60& 31 & 34\\
+Ferro & 5& 10& 60& 30 & 33\\
+Saracinesca di legno & 7.5& 5 & 30& 27& 30\\
+Saracinesca di ferro & 5& 10& 60& 28& 31\\
+Serratura& -& 15& 30& -& -\\
+Cardini & -& 10& 30& -& -\\
+\end{tabular}
+\end{dmbox}
+
+
+\begin{dmbox}[title=Spaccare]
+
+\noindent\begin{tabularx}{1\linewidth}{llllX}
+\textbf{Materiale} &\textbf{Durezza}&\textbf{PF} &\textbf{DC} & \textbf{Oggetti di Esempio}\\
+\toprule{}
+Corda, Cuoio&2&4&19&Corda di canapa\\
+Legno sottile&3&12&14&Sedia\\
+Armatura di Cuoio &4&16&22&Armatura di cuoio, sella, corda di canapa grossa\\
+Pietra sottile&4&16&20&Ardesia, piastrelle di ardesia, rivestimento in pietra\\
+Acciaio o ferro sottile&5&20&23&Corda di seta, scudo d'acciaio, spada corta\\
+Legno&5&20&18&Baule, tavolo\\
+Pietra&7&28&35&Pietra per lastricato, statua\\
+Acciaio o ferro&9&36&26&Catena, Armatura d'acciaio, ferro, spada lunga\\
+\end{tabularx}\\
+
+La DC e' riferita ad un Tiro Salvezza Tempra con Forza.
+
+\end{dmbox}
+
+
+
+\begin{dmbox}[title=Oggetti e Viveri]
+
+\noindent\begin{tabular}{ll|ll}
+\textbf{Oggetto}&\textbf{Costo}&\textbf{Oggetto}&\textbf{Costo}\\
+\hline
+&\textbf{Pietanze} &&\\
+Banchetto (a persona)&10 mo&Carne, 1 pezzo&3 ma\\
+Formaggio, 1 pezzo&1 ma&Pane (a pagnotta)&2 mr\\
+Razioni da viaggio& 3 ma &&\\
+\hline
+&\textbf{Locanda}&&\\
+Squallida&7 mr&Povera&1 ma\\
+Modesta&5 ma&Agiata&8 ma\\
+Ricca&2 mo&Aristocratica&4 mo\\
+\hline
+&\textbf{Pasto}&&\\
+Squallido&3 mr&Povero&6 mr\\
+Modesto&3 ma&Agiato&5 ma\\
+Ricco&8 ma&Aristocratico&2 mo\\
+Vino Buono (bottiglia)&10 mo& VinoComune (caraffa)&2 ma\\
+Birra Boccale&5 mr&Birra Caraffa (4 litri)&2 ma\\
+\end{tabular}
+\end{dmbox}
+
+
+
+
+\begin{dmbox}[title=Modificatori d'Attacco e Difesa]
+
+\noindent\begin{tabularx}{0.98\textwidth}{l|X|X}
+\multicolumn{2}{c}{\textbf{Attaccante}}&\multicolumn{1}{c}{\textbf{Difensore}}\\
+\textbf{Mod}.&\multicolumn{1}{c}{\emph{Situazione}}&\multicolumn{1}{c}{\emph{Situazione}}\\
+\textbf{-1}& Affaticato (1), Luce fioca&Affaticato (1)\\
+\hline
+\textbf{-2}& Affaticato (2), Intralciato & Affaticato (2), Afferrato, Intralciato, Sorpreso\\
+\hline
+\textbf{-4}& Affaticato (3), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale& Affaticato (3), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
+\hline
+\textbf{-1d6}& Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato&\\
+\hline
+%\textbf{+1}& & \\
+%\hline
+\textbf{+2}& Fiancheggia, Posizione Sopraelevata, Attacca al spalle& Copertura leggera\\
+\hline
+\textbf{+4}&& Copertura media\\
+\hline
+\textbf{+1d6}& Invisibile, Carica, avversario Indifeso& \\
+\hline
+\textbf{+8}&& Copertura completa
+\end{tabularx}
+
+\end{dmbox}
 
 \pagebreak
 
-\begin{multicols}{2}
-	
-	\begin{dmbox}[title=Oggetti e Viveri]
-		
-		\noindent\begin{tabular}{ll|ll}
-			\textbf{Oggetto}&\textbf{Costo}&\textbf{Oggetto}&\textbf{Costo}\\
-			\hline
-			&\textbf{Pietanze} &&\\
-			Banchetto (a persona)&10 mo&Carne, 1 pezzo&3 ma\\
-			Formaggio, 1 pezzo&1 ma&Pane (a pagnotta)&2 mr\\
-			Razioni da viaggio& 3 ma &&\\
-			\hline
-			&\textbf{Locanda}&&\\
-			Squallida&7 mr&	Povera&1 ma\\
-			Modesta&5 ma&Agiata&8 ma\\
-			Ricca&2 mo&	Aristocratica&4 mo\\
-			\hline
-			&\textbf{Pasto}&&\\
-			Squallido&3 mr	&	Povero			&6 mr\\
-			Modesto&3 ma	&	Agiato			&5 ma\\
-			Ricco&8 ma		&	Aristocratico	&2 mo\\
-			Vino Buono (bottiglia)&10 mo& Vino	Comune (caraffa)&2 ma\\
-			Birra Boccale&5 mr&Birra Caraffa (4 litri)&2 ma\\
-		\end{tabular}		
-		\end{dmbox}
-
-	\footnote{
-	\begin{tabularx}{0.95\textwidth}{llll}
-	\textbf{Arma}&\textbf{Costo}&\textbf{Taglia/Danno} & \textbf{Gittata, Lista, Speciale}\\
-	Alabarda& 10 & G/1d10 P/T& \textbf{Lance}, \textbf{Aste}, Controcarica, Arma lunga, ED9 \\
-	Arco corto composito& note*& M/Frecce& 20 metri, \textbf{Archi}\\
-	Arco corto& 30 & M/1d6 P& 15 metri, \textbf{Archi}\\
-	Arco lungo composito& note*& G/Frecce& 36 metri, \textbf{Archi}\\
-	Arco lungo& 75 & G/Frecce& 20 metri, \textbf{Archi}\\
-	Ascia martello& 16 & M/1d6 T/C& \textbf{Asce}\\
-	Ascia ad una mano& 6 & M/1d6 T& 6 metri, \textbf{Scuri e Accette}, \textbf{Armi da Lancio}, Versatile\\
-	Ascia da battaglia& 10 & G/1d10 T&\textbf{Scuri e Accette}\\
-	Balestra ad una mano& 100& M/Dardi& 6 metri, \textbf{Balestre}\\
-	Balestra leggera& 35 & P/Dardi& 15 metri, \textbf{Armi Semplici}, \textbf{Balestre}\\
-	Balestra pesante& 50 & G/Dardi& 30 metri, \textbf{Balestre}\\
-	Bastone& 3& M/1d6 C& \textbf{Armi Semplici}, Arma lunga, Versatile\\
-	Brandistocco& 10 & M/2d4 P/T& \textbf{Lance}, Controcarica, Arma lunga\\
-	Catena chiodata& 25 & G/2d4 P& 3 metri, \textbf{Palle rotanti}, Arma lunga\\
-	Estoc& 25& G/1d8 P& \textbf{Spade}, Arma lunga, Parata\\
-	Falce& 18 & G/2d4 P/T& \textbf{Armi della Morte}, Arma lunga\\
-	Falcetto& 6& P/1d6 T& \textbf{Armi della Morte}\\
-	Falcione in asta& 12 & G/1d10 P/T& \textbf{Lance}, Controcarica, Arma lunga, ED9\\
-	Falcione& 75 & M/2d4 T& \textbf{Armi Aggraziate}, ED7\\
-	Fionda& -& P/1d4 B& 10 metri, \textbf{Armi da lancio}\\
-	Flagello doppio& 90 & M/1d10 C& \textbf{Palle Rotanti}, \textbf{Armi doppie}\\
-	Flagello pesante& 15 & M/1d10 C& \textbf{Palle Rotanti}\\
-	Flagello& 8& M/1d8 C& \textbf{Palle Rotanti}, \textbf{Rompi Cranio}\\
-	Frusta& 1& M/1d3 T& \textbf{Palle Rotanti}, Arma lunga\\
-	Giavellotto& 1& P/1d6 P& 12 metri, \textbf{Armi Semplici}, \textbf{Aste}, \textbf{Armi da Lancio}\\
-	Grande ascia doppia& 25 & G/1d10 T& \textbf{Scuri e Accette}, \textbf{Armi doppie}\\
-	Grosso randello& 2& M/1d8 C&\textbf{Rompi Cranio}\\
-	Guanto chiodato& 5& P/1d4 P&\textbf{Armi da Stordimento}\\
-	Katana& 300& M/1d10 T& \textbf{Armi letali}, ED9\\
-	Lancia da fante& 2& M/1d8 P&3 metri, \textbf{Lance}, Arma lunga, Controcarica\\
-	Lancia& 10 & G/1d10 P&\textbf{Lance}, Arma lunga, Controcarica\\
-	Machete& 10 & M/1d6 T&\textbf{Armi letali}\\
-	Maglio da guerra& 7& G/1d10 C& \textbf{Rompi Cranio}\\
-	Manganello& 1& P/1d6 C& \textbf{Armi da stordimento}, non letale\\
-	Martello da guerra& 5& M/1d8 C/P& 6 metri, \textbf{Rompi Cranio}\\
-	Mazza leggera& 3& P/1d6 C/T& \textbf{Armi Semplici}, \textbf{Armi Leggere}, \textbf{Rompi Cranio} \\
-	Mazza pesante& 5& M/1d8 C/T& \textbf{Rompi Cranio}\\
-	Mazza chiodata& 6& M 1d8 C/P& \textbf{Armi Semplici}, \textbf{Rompi Cranio}\\
-	Naginata& 8& G/1d10 T&\textbf{Lance}, Arma lunga, ED9\\
-	Picca leggera& 4& M/1d4 P&\textbf{Armi della morte}\\
-	Picca pesante& 8& G/1d6 P&\textbf{Armi della morte}, Arma lunga\\
-	Pugnale& 2& P/1d4 P& 6 metri, \textbf{Armi Semplici}, \textbf{Armi leggere}, \textbf{Armi da Lancio}\\
-	Pugno/Calcio & note*& P/1d4 C&Versatile\\
-	Randello& 1& P/1d6 C& \textbf{Armi Semplici}, \textbf{Rompi Cranio}\\
-	Scimitarra& 15 & M/1d6 T&\textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile\\
-	Spada corta& 10 & P/1d6 P&\textbf{Armi Leggere}, \textbf{Spade}, Versatile, Parata\\
-	Spada lunga& 15 & M/1d8 T&\textbf{Spade}, Parata\\
-	Spada a due lame& 100& G/1d8 T& \textbf{Armi doppie}, \textbf{Spade},Parata\\
-	Spada bastarda& 35 & M/1d8 T&\textbf{Spade}, Parata, 1d8 ad una mano, 2d6 a 2 mani\\
-	Spada larga& 12 & M/2d4 T&\textbf{Spade}, Parata, 2d4 ad una mano, 1d10 a 2 mani\\
-	Spadone a due mani& 50 & G/2d6 T&\textbf{Spade}, Parata\\
-	Stocco& 20 & P/1d6 P& \textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile\\
-	Tridente& 15 & M/1d6 P/T& 3 metri, \textbf{Aste}, \textbf{Armi da Lancio}, Arma Lunga, Controcarica\\
-	Urgrosh& 18 & M/1d6 T/P& \textbf{Lance}, \textbf{Armi doppie}
+\begin{dmbox}[title=Armi]
+{\scriptsize 
+%\begin{tabularx}{1\linewidth}{lll>{\scriptsize}X}
+\begin{tabularx}{1\linewidth}{llX}
+\textbf{Arma}&\textbf{Dim/Danno} & \textbf{Gittata, Lista, Speciale}\\
+Alabarda& G/1d10 P/T& \textbf{Lance}, \textbf{Aste}, Controcarica, Arma lunga, ED9 \\
+Arco corto composito& M/Frecce& 20 metri, \textbf{Archi}\\
+Arco corto& M/1d6 P& 15 metri, \textbf{Archi}\\
+Arco lungo composito& G/Frecce& 36 metri, \textbf{Archi}\\
+Arco lungo& G/Frecce& 20 metri, \textbf{Archi}\\
+Ascia martello& M/1d6 T/C& \textbf{Asce}\\
+Ascia ad una mano& M/1d6 T& 6 metri, \textbf{Scuri e Accette}, \textbf{Armi da Lancio}, Versatile\\
+Ascia da battaglia& G/1d10 T&\textbf{Scuri e Accette}\\
+Balestra ad una mano& M/Dardi& 6 metri, \textbf{Balestre}\\
+Balestra leggera& P/Dardi& 15 metri, \textbf{Armi Semplici}, \textbf{Balestre}\\
+Balestra pesante& G/Dardi& 30 metri, \textbf{Balestre}\\
+Bastone& M/1d6 C& \textbf{Armi Semplici}, Arma lunga, Versatile\\
+Brandistocco& M/2d4 P/T& \textbf{Lance}, Controcarica, Arma lunga\\
+Catena chiodata& G/2d4 P& 3 metri, \textbf{Palle rotanti}, Arma lunga\\
+Estoc& G/1d8 P& \textbf{Spade}, Arma lunga, Parata\\
+Falce& G/2d4 P/T& \textbf{Armi della Morte}, Arma lunga\\
+Falcetto& P/1d6 T& \textbf{Armi della Morte}\\
+Falcione in asta& G/1d10 P/T& \textbf{Lance}, Controcarica, Arma lunga, ED9\\
+Falcione& M/2d4 T& \textbf{Armi Aggraziate}, ED7\\
+Fionda& P/1d4 B& 10 metri, \textbf{Armi da lancio}\\
+Flagello doppio& M/1d10 C& \textbf{Palle Rotanti}, \textbf{Armi doppie}\\
+Flagello pesante& M/1d10 C& \textbf{Palle Rotanti}\\
+Flagello& M/1d8 C& \textbf{Palle Rotanti}, \textbf{Rompi Cranio}\\
+Frusta& M/1d3 T& \textbf{Palle Rotanti}, Arma lunga\\
+Giavellotto& P/1d6 P& 12 metri, \textbf{Armi Semplici}, \textbf{Aste}, \textbf{Armi da Lancio}\\
+Grande ascia doppia& G/1d10 T& \textbf{Scuri e Accette}, \textbf{Armi doppie}\\
+Grosso randello& M/1d8 C&\textbf{Rompi Cranio}\\
+Guanto chiodato& P/1d4 P&\textbf{Armi da Stordimento}\\
+Katana& M/1d10 T& \textbf{Armi letali}, ED9\\
+Lancia da fante& M/1d8 P&3 metri, \textbf{Lance}, Arma lunga, Controcarica\\
+Lancia& G/1d10 P&\textbf{Lance}, Arma lunga, Controcarica\\
+Machete& M/1d6 T&\textbf{Armi letali}\\
+Maglio da guerra& G/1d10 C& \textbf{Rompi Cranio}\\
+Manganello& P/1d6 C& \textbf{Armi da stordimento}, non letale\\
+Martello da guerra& M/1d8 C/P& 6 metri, \textbf{Rompi Cranio}\\
+Mazza leggera& P/1d6 C/T& \textbf{Armi Semplici}, \textbf{Armi Leggere}, \textbf{Rompi Cranio} \\
+Mazza pesante& M/1d8 C/T& \textbf{Rompi Cranio}\\ 
+Mazza chiodata& M 1d8 C/P& \textbf{Armi Semplici}, \textbf{Rompi Cranio}\\
+Naginata& G/1d10 T&\textbf{Lance}, Arma lunga, ED9\\
+Picca leggera& M/1d4 P&\textbf{Armi della morte}\\
+Picca pesante& G/1d6 P&\textbf{Armi della morte}, Arma lunga\\
+Pugnale& P/1d4 P& 6 metri, \textbf{Armi Semplici}, \textbf{Armi leggere}, \textbf{Armi da Lancio}\\
+Pugno/Calcio & P/1d4 C&Versatile\\
+Randello& P/1d6 C& \textbf{Armi Semplici}, \textbf{Rompi Cranio}\\
+Scimitarra& M/1d6 T&\textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile\\
+Spada corta& P/1d6 P&\textbf{Armi Leggere}, \textbf{Spade}, Versatile, Parata\\
+Spada lunga& M/1d8 T&\textbf{Spade}, Parata\\
+Spada a due lame& G/1d8 T& \textbf{Armi doppie}, \textbf{Spade},Parata\\
+Spada bastarda& M/1d8 T&\textbf{Spade}, Parata, 1d8 ad una mano, 2d6 a 2 mani\\
+Spada larga& M/2d4 T&\textbf{Spade}, Parata, 2d4 ad una mano, 1d10 a 2 mani\\
+Spadone a due mani& G/2d6 T&\textbf{Spade}, Parata\\
+Stocco& P/1d6 P& \textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile\\
+Tridente& M/1d6 P/T& 3 metri, \textbf{Aste}, \textbf{Armi da Lancio}, Arma Lunga, Controcarica\\
+Urgrosh& M/1d6 T/P& \textbf{Lance}, \textbf{Armi doppie}
 \end{tabularx}}
-	
+\end{dmbox}
 
 
+\begin{dmbox}[title=Proiettili]
 
-	
-	\begin{tabular}{llll}
-		\textbf{Nome Proiettile}   & \textbf{Num./MO} & \textbf{Danno/Tipo} & Peso(kg) \\
-	Biglie di Marmo (fionde)   & 15/1 mo                    & 1d4 B               & 0.2      \\
-	Dardi da balestra, leggeri & 10/1 mo                    & 1d6 P               & 0.1      \\
-	Dardi per balestra pesante & 3/1 mo                     & 1d10 P              & 0.3      \\
-	Frecce da caccia           & 20/1 mo                    & 1d6 P               & 0.1      \\
-	Frecce da guerra           & 10/1 mo                    & 1d8 P               & 0.2      \\
-	Sasso (fionde)             & -                          & 1d2 B               & 0.2      \\
-	\end{tabular}
-	
+\begin{tabular}{llll}
+\textbf{Nome Proiettile}   & \textbf{Num./MO} & \textbf{Danno/Tipo} & Peso(kg) \\
+Biglie di Marmo (fionde)   & 15/1 mo                    & 1d4 B               & 0.2      \\
+Dardi da balestra, leggeri & 10/1 mo                    & 1d6 P               & 0.1      \\
+Dardi per balestra pesante & 3/1 mo                     & 1d10 P              & 0.3      \\
+Frecce da caccia           & 20/1 mo                    & 1d6 P               & 0.1      \\
+Frecce da guerra           & 10/1 mo                    & 1d8 P               & 0.2      \\
+Sasso (fionde)             & -                          & 1d2 B               & 0.2      \\
+\end{tabular}\\
 
+Un \textbf{dardo pesante} per Balestra penetra più facilmente le armature di metallo causando +2 danni aggiuntivi.
 
-
-	
-	\begin{tabular}{cccccccc}
-		\textbf{Armatura} & \textbf{Costo (mo)} & \textbf{Difesa} & \textbf{-Comp.} &  \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Ingombro (indossato)}\\
-		\hline
-		Imbottita & 5 mo & 1 & 0 & L & 0 & NO&2\\
-		Cuoio & 10 mo & 2 & 0  & L & 0 & SI&2\\
-		Cuoio rinforzato& 25 mo  & 3  & 0   & L & 0 & SI&2\\
-		Giaco di Maglia & 15 mo & 4  & -1  & M & 0 &+2&4\\
-		Scaglie& 50 mo & 5  & -1  & M & 0 &+2&4\\
-		Anelli & 150 mo & 6  & -1  & M & 0 &+2&4\\
-		Pettorale  & 200 mo & 6  & -2  & M & 0 &+2&4\\
-		Bande & 250 mo & 7  & -2  & P & 0 &+1&8\\
-		Mezza armatura  & 1200 mo& 8  & -2  & P & 1 &+1,2&8\\
-		da Campo& 1350 mo& 9  & -3  & P & 2 &+1,2&8\\
-		Completa& 1500 mo& 10 & -4  & P & 3 &+1,1&8\\
-	\end{tabular}
-	
-	
-	
-	\begin{tabular}{lccccc}
-		\textbf{Scudi} & \textbf{Costo} & \textbf{Difesa} & \textbf{Penalità TC} & \textbf{Prova magia} &  \textbf{Ingombro (indossato)}\\
-		\hline
-		Scudo leggero di legno 	 & 	3 mo  	&  1	& 0& SI	  	& L\\
-		Scudo leggero di metallo & 	9 mo  	&  1	& 0& SI	  	& L\\
-		Scudo medio legno		 &	5 mo 	&  2	& 0& +2		& M\\
-		Scudo medio metallo	 	 &	12 mo  	&  2  	& 0& +2  	& M\\
-		Scudo pesante di legno   & 	9  mo  	&  3 	& 1& +1,2  	& P\\
-		Scudo pesante di metallo & 	20 mo  	&  3	& 1& +1,2  	& P\\
-	\end{tabular}
-	
-		\begin{dmbox}[title=Condizioni]
-		
-		
-		
-		\noindent\begin{tabularx}{0.98\textwidth}{l|X|X}
-			\multicolumn{2}{c}{\textbf{Attaccante}}&\multicolumn{1}{c}{\textbf{Difensore}}\\
-			\textbf{Mod}.&\multicolumn{1}{c}{\emph{Situazione}}&\multicolumn{1}{c}{\emph{Situazione}}\\
-			\textbf{-1}& Affaticato (1), Luce fioca&Affaticato (1)\\
-			\hline
-			\textbf{-2}& Affaticato (2), Intralciato & Affaticato (2), Afferrato, Intralciato, Sorpreso\\
-			\hline
-			\textbf{-4}& Affaticato (3), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale& Affaticato (3), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
-			\hline
-			\textbf{-1d6}& Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato&\\
-			\hline
-			%\textbf{+1}& & \\
-			%\hline
-			\textbf{+2}& Fiancheggia, Posizione Sopraelevata, Attacca al spalle& Copertura leggera\\
-			\hline
-			\textbf{+4}&& Copertura media\\
-			\hline
-			\textbf{+1d6}& Invisibile, Carica, avversario Indifeso& \\
-			\hline
-			\textbf{+8}&& Copertura completa
-		\end{tabularx}
-		
-	\end{dmbox}
-	
-	
-	%\textbf{Tempi per indossare e togliere l'armatura}\index{Tabella Tempi per indossare e togliere l'armatura}\\
-	
-	%\begin{tabular}{lccc}
-	%\textbf{Tipo di Armatura}& \textbf{Indossare} & \textbf{in fretta} & \textbf{Togliere}\\
-	%Scudo								& 1 azione 	& -     	& 1 azione\\
-	%Imbottita, Cuoio, Cuoio rinforzata  & 1 minuto	& 3 round  	& - \\
-	%Giaco di Maglia						& 1 minuto	& 5 round  & 5 round\\
-	%Scaglie, Anelli, Pettorale, Bande   & 4 minuti 	& 1 minuto{*}  & 1 minuto\\
-	%Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\\
-	%\end{tabular}
-	%\medskip
-	
-	%** è necessario qualcuno che aiuti ad indossarla
-	
+\end{dmbox}
 
 
+\begin{dmbox}[title=Armature]
 
-	
-	
-	
-	
+\begin{tabular}{llllllll}
+\textbf{Armatura} & \textbf{Costo} & \textbf{Difesa} & \textbf{Malus} &  \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova}&\textbf{Ing.}\\
+&(mo)&&\textbf{Comp}.&&&\textbf{Magia}&\\
+\hline
+Imbottita & 5  & 1 & 0 & L & 0 & NO&2\\
+Cuoio & 10  & 2 & 0  & L & 0 & SI&2\\
+Cuoio rinforzato& 25   & 3  & 0   & L & 0 & SI&2\\
+Giaco di Maglia & 15  & 4  & -1  & M & 0 &+2&4\\
+Scaglie& 50  & 5  & -1  & M & 0 &+2&4\\
+Anelli & 150  & 6  & -1  & M & 0 &+2&4\\
+Pettorale  & 200  & 6  & -2  & M & 0 &+2&4\\
+Bande & 250  & 7  & -2  & P & 0 &+1&8\\
+Mezza armatura  & 1200 & 8  & -2  & P & 1 &+1,2&8\\
+da Campo& 1350 & 9  & -3  & P & 2 &+1,2&8\\
+Completa& 1500 & 10 & -4  & P & 3 &+1,1&8\\
+\end{tabular}
+\end{dmbox}
 
+\begin{dmbox}[title=Scudi]
+\begin{tabular}{lccccc}
+\textbf{Scudi} & \textbf{Costo} & \textbf{Difesa} & \textbf{Malus} & \textbf{Prova} &  \textbf{Ingombro}\\
+&&&\textbf{TC}&\textbf{Magia}&\textbf{Indossato}\\
+\hline
+Scudo leggero di legno  & 3 mo  &  1& 0& SI  & L\\
+Scudo leggero di metallo & 9 mo  &  1& 0& SI  & L\\
+Scudo medio legno &5 mo &  2& 0& +2& M\\
+Scudo medio metallo  &12 mo  &  2  & 0& +2  & M\\
+Scudo pesante di legno   & 9  mo  &  3 & 1& +1,2  & P\\
+Scudo pesante di metallo & 20 mo  &  3& 1& +1,2  & P\\
+\end{tabular}
+\end{dmbox}
 
-	\textbf{Prova di Magia}\\
-	3d6 + Aggiungi 1d6 ogni 2 Liste di magia conosciuta, ignori un 1 per ogni 2 Adepto della Magia\\
-	Fallimento Critico: due volte 1, un 1 e due 2\\
-	
-	
-	
-	
-	\textbf{Distratto}\\
-	Sei Distratto se: occulti il lancio di incantesimo, severamente Distratto, impedito, sanguinante, afferrato, è sotto attacco\\
-	
-	
-	
-	\textbf{Punti Magia}\\
-	Mod. Caratteristica + \\
-	
-	\begin{tabular}{ll|ll}
-		\textbf{CM} & \textbf{P.M}&	\textbf{CM} & \textbf{P.M}\\
-		1&	2 	&11&43\\
-		2&	4	&12&47\\
-		3&	8	&13&50\\
-		4&	10	&14&54\\
-		5&	16	&15&58\\
-		6&	19	&16&62\\
-		7&	23	&17&71\\
-		8&	27	&18&76\\
-		9&	36	&19&82\\
-		10&	41	&20&89\\
-		20+&prec.+ 4&&\\
-	\end{tabular}
-	
-	
-	
-	\textbf{Tiro Salvezza Incantesimo}\\
-	DC = 10 + Competenza Magica + modificatore caratteristica per incantesimo + 1 x Adepto della Magia +1 x Critico nella Prova di Magia
-	
-	
-	
-	\textbf{Tiro Salvezza Magia da Oggetto}\\
-	DC = 10 + 2 x livello incantesimo manifestato
-	
-	
-	
-	\textbf{Tiro Salvezza Incantesimo Mostro}\\
-	DC è 10 + 2 x livello incantesimo + Intelligenza
-	
-	
-	
-	\textbf{Opzionale Successo Critico Auto matico}:  x2 costo Punti Magia cumulativo. Es. 4,8,16,32..
-	
-	
-	
-	\textbf{Leggere una Pergamena}
-	
-	ISY SCROLL: Comprendere: Intelligenza od Arcana DC 10
-	
-	Lanciare: Intelligenza od Arcana DC 12.
-	
-	normali: Comprenderne: Arcana a difficoltà 15
-	
-	- Lanciare: Arcana DC 20 ed avere accesso alla Lista di Magia
-	
-	\textbf{Seguace}\\
-	1 Tratti comuni con Patrono. Se sei un Seguace ottieni +1d6 alle Prove di Magia nella scuola preferita dal Patrono. Puoi usare l'energia preferita del Patrono nei tuoi incantesimi.\\
-	
-	
-	
-	\textbf{Devoto}\\
-	2 Tratti in comune con Patrono. Un Devoto aggiunge +1d6 alla Prova di Magia nelle scuole preferite dal Patrono e ignora un dado tirato nella Prova di Magia. Devi usare l'energia preferita del Patrono nei tuoi incantesimi.
-	
-	
-	
-	\textbf{Fallimento Critico Prova di Magia - 3d6 -1d6 x Fallimento Crit. Min. 1d6}
-	\begin{tabularx}{0.95\textwidth}{lX}
-		1 & Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia\\
-		2 & Aumenti la condizione di Affaticato di 2 gradi\\
-		3 & Manifesti una modifica corporea minore\\
-		4 & Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 3 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 1d6 di danni per livello dell'incantesimo\\
-		5 & Per 3 round sei sotto l'influenza dell'incantesimo Confusione\\
-		6 & Perdi la concentrazione su qualsiasi incantesimo e per un minuto parli in rima\\
-		7 & Vieni teletrasportato di 3d10 metri in una direzione casuale\\
-		8 & Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round\\
-		9 & Diventi Invisibile ed incapace di parlare per 6 round\\
-		10 & Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round\\
-		11 & Manifesti l'incantesimo Unto sotto i tuoi piedi\\
-		12 & Il prossimo incantesimo che lanci ha effetti se possibile minimizzati\\
-		13 & Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 36 metri\\
-		14 & Tutte le creature nel raggio di 36 metri sanno esattamente dove sei e cosa tentavi di fare.\\
-		15 & Tutte le creature in una semisfera di 9 metri di raggio centrata su di te subiscono 1d10 danni da Vuoto.\\
-		16 & Guadagni 2d6 Punti Magia\\
-		17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
-		18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili
-	\end{tabularx}
-	
-	
-	
-	\textbf{Massimo Livello Incantesimo lanciabile}
-	
-	Sommate a CM le volte che avete preso Adepto della Magia e dividete il risultato per 2. Es. CM=8, Adepto della Magia preso 4 volte, (8+4)/2=6, oppure CM=13 e Adepto della Magia 1 volta, (13+1)/2=7 livello di incantesimi.
-	
-	
-	
-	\textbf{Alterare la Magia}
-	
-	- \textbf{Magie Punitive}: 2 volte costo magia, +1 dado nella Prova di Magia. Reazione
-	
-	- \textbf{Magie efficaci}: 3 volte costo magia, -1 dado nella Prova di Magia. Reazione
-	
-	- \textbf{Magia eterea}\index{Magia eterea}: +3 Punti Magia, colpisci creature eteree o incorporee. Azione Immediata.
-	
-	- \textbf{Sacrificio Magico}\index{Sacrificio magico}: -4 PF +1 Punto Magia. Non puoi sacrificare più di metà dei Punti Ferita attuali alla volta. Azione Immediata.
-	
-	- \textbf{Magia pietosa}\index{Magia pietosa}: +3 Punti Magia e danni temporanei. 1 Azione.
-	
-	- \textbf{Magia mirata}\index{Magia mirata}: ogni due volte Adepto della Magia escludi 1 target da incantesimo. Costo 2 Punti Magia per creatura esclusa. 1 Azione.
-	
-	- \textbf{Magia lontana}\index{Magia lontana}: +1 Punti Magia aumenti fino a 9 metri la distanza di lancio. 1 Azione.
-	
-	- \textbf{Aumentare il tempo}\index{Aumentare il tempo} +1 Azione,  -1 Punto Magia
-	
-	- \textbf{Circolo del Potere}\index{Circolo del Potere}: vedi descrizione
-	
-\begin{dmbox}[title=Costi vari]	
-	\begin{tabular}{ll}
-		\textbf{Oggetto}&\textbf{Costo}\\
-		\textbf{Birra}&\\
-		Boccale&5 mr\\
-		Caraffa (4 litri)&2 ma\\
-		\textbf{Pietanze} &\\
-		Banchetto (a persona)&10 mo\\
-		Carne, 1 pezzo&3 ma\\
-		Formaggio, 1 pezzo&1 ma\\
-		Pane (a pagnotta)&2 mr\\
-		Razioni da viaggio/giorno& 3 ma \\
-		\textbf{Locanda (al giorno})&\\
-		Squallida&7 mr\\
-		Povera&1 ma\\
-		Modesta&5 ma\\
-		Agiata&8 ma\\
-		Ricca&2 mo\\
-		Aristocratica&4 mo\\
-		\textbf{Pasto (al giorno)}&\\
-		Squallido&3 mr\\
-		Povero&6 mr\\
-		Modesto&3 ma\\
-		Agiato&5 ma\\
-		Ricco&8 ma\\
-		Aristocratico&2 mo\\
-		\textbf{Vino}&\\
-		Buono (bottiglia)&10 mo\\
-		Comune (caraffa)&2 ma\\
-	\end{tabular}			
-\end{dmbox}	
+\begin{dmbox}[title=Prova di Magia]
+3d6 + Aggiungi 1d6 ogni 2 Liste di magia conosciuta, ignori un 1 per ogni 2 Adepto della Magia\\
+Fallimento Critico: due volte 1, un 1 e due 2
+\end{dmbox}
+
+\begin{dmbox}[title=Distratto]
+Se l'incantatore è severamente distratto, impedito, disturbato, sanguinante, afferrato, cerca di nascondere il lancio della magia, è sotto attacco mentre cerca di lanciare un incantesimo deve effettuare una Prova di Magia.
+\end{dmbox}
 
 
+\begin{dmbox}[title=Punti Magia]
+
+Mod. Caratteristica + \\
+
+\noindent\begin{tabularx}{0.45\textwidth}{XX|XX|XX}
+\textbf{CM} & \textbf{PM}&\textbf{CM} & \textbf{PM}&\textbf{CM} & \textbf{PM}\\
+\hline
+1&2 &8&27&15&58\\
+2&4&9&36&16&62\\
+3&8&10&41&17&71\\
+4&10&11&43&18&76\\
+5&16&12&47&19&82\\
+6&19&13&50&20&89\\
+7&23&14&54&20+&prec.+ 4
+\end{tabularx}
+
+\end{dmbox}
+
+
+\begin{dmbox}[title=Tiro Salvezza Incantesimo]
+DC = 10 + Competenza Magica + modificatore caratteristica per incantesimo + 1 x Adepto della Magia +1 x Critico nella Prova di Magia
+\end{dmbox}
+
+
+\begin{dmbox}[title=Tiro Salvezza Magia da Oggetto]
+DC = 10 + 2 x livello incantesimo manifestato
+\end{dmbox}
+
+\begin{dmbox}[title=Tiro Salvezza Incantesimo Mostro]
+DC è 10 + 2 x livello incantesimo + Intelligenza o modificatore indicato
+\end{dmbox}
+
+\begin{dmbox}[title=Successo Critico Auto Magico]
+L'incantatore può decidere di spendere, in aggiunta ai \textbf{dei Punti Magia} dell'incantesimo, un uguale ammontare per avere in automatico un \textbf{Successo Critico Magico}.
+
+Ogni volta che voglio applicare un Successo Critico Magico aggiuntivo oltre il primo il costo in Punti Magia aumenta di 1. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia.
+
+Il tempo di lancio di un incantesimo potenziato in questa maniera aumenta di 1 Azione.
+\end{dmbox}
+
+
+\begin{dmbox}[title=Leggere una Pergamena]
+
+\textbf{Isy Scrool}: Capire l'incantesimo contenuto: Intelligenza od Arcana DC 10
+
+Lanciare: Intelligenza od Arcana DC 12.
+
+\textbf{Pergamene normali}: Comprenderne: Arcana a difficoltà 15
+
+Lanciare: Arcana DC 20 ed avere accesso alla Lista di Magia
+\end{dmbox}
+
+
+\begin{dmbox}[title=Seguace]
+1 Tratti comuni con Patrono. Se sei un Seguace ottieni +1d6 alle Prove di Magia nella scuola preferita dal Patrono. Puoi usare l'energia preferita del Patrono nei tuoi incantesimi.
+\end{dmbox}
+
+\begin{dmbox}[title=Devoto]
+2 Tratti in comune con Patrono. Un Devoto aggiunge +1d6 alla Prova di Magia nelle scuole preferite dal Patrono e ignora un dado tirato nella Prova di Magia. Devi usare l'energia preferita del Patrono nei tuoi incantesimi.
+\end{dmbox}
+
+
+\begin{dmbox}[title=Massimo Livello Incantesimo lanciabile]
+Per stabilire il livello massimo lanciabile di incantesimi sommate il punteggio di Competenza Magica ed Adepto della Magia, dividendo per due arrotondando per eccesso. Confrontate il risultato con il (doppio del punteggio del modificatore di caratteristica per incantesimi)+1, prendendo il valore minore.
+\end{dmbox}
+
+\begin{dmbox}[title=Fallimento Critico Prova di Magia]
+
+\textbf{Fallimento Critico Prova di Magia - 3d6 -1d6 x Fallimento Crit. Min. 1d6}
+\begin{tabularx}{1\linewidth}{lX}
+1 & Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia\\
+2 & Aumenti la condizione di Affaticato di 2 gradi, fino ad un massimo di Affaticato 5\\
+3 & Manifesti una modifica corporea minore\\
+4 & Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 3 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 1d6 di danni per Punti Magia usati nell'incantesimo\\
+5 & Per 3 round sei sotto l'influenza dell'incantesimo Confusione\\
+6 & Perdi la concentrazione su qualsiasi incantesimo e per un minuto parli in rima\\
+7 & Vieni teletrasportato di 3d10 metri in una direzione casuale\\
+8 & Diventi Invisibile e paralizzato per 6 round\\
+9 & Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round\\
+10 & Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round\\
+11 & Manifesti l'incantesimo Unto sotto i tuoi piedi\\
+12 & Il prossimo incantesimo che lanci ha effetti se possibile minimizzati\\
+13 & Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 36 metri\\
+14 & Tutte le creature nel raggio di 36 metri sanno esattamente dove sei e cosa tentavi di fare.\\
+15 & Tutte le creature in una sfera di 9 metri di raggio centrata su di te subiscono 1d10 danni da Vuoto.\\
+16 & Guadagni 2d6 Punti Magia\\
+17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
+18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili
+\end{tabularx}
+\end{dmbox}
+
+
+\begin{dmbox}[title=Alterare la Magia]
+\begin{itemize}[leftmargin=0.5cm,itemsep=-1pt,parsep=0pt]
+
+\item  \textbf{Magie Punitive}: un compagno pagando due volte il costo dell'incantesimo in Punti Magia può farti tirare un dado in più nella Prova di Magia. La capacità è usabile fino a 3 dadi in più per incantesimo. Da parte del compagno è una Azione di Reazione da dichiararsi prima della Prova di Magia.
+
+\item  \textbf{Magie efficaci}: un compagno pagando tre volte il costo dell'incantesimo in Punti Magia può farti ignorare un dado tirato nella Prova di Magia. Da parte del compagno è una Azione di Reazione da dichiararsi dopo la Prova di Magia.
+
+\item \textbf{Magia eterea}\index{Magia eterea}: aumentando di 3 i Punti Magia spesi nell'incantesimo le proprie magie hanno pieno effetto su creature eteree o incorporee. Azione Immediata da dichiararsi prima del lancio dell'incantesimo.
+
+\item \textbf{Sacrificio Magico}\index{Sacrificio magico}: l'incantatore riducendo i suoi Punti Ferita Massimi di 4 acquisisce 1 Punto Magia da usare contestualmente al lancio di una magia. Non puoi sacrificare più di metà dei Punti Ferita attuali alla volta. Azione Immediata.
+
+\item \textbf{Magia pietosa}\index{Magia pietosa}: aumentando di 3 i Punti Magia spesi le magie infliggono danni temporanei.
+Le magie che infliggono danni di un tipo particolare (come da fuoco) infliggono danni temporanei dello stesso tipo. 1 Azione.
+
+\item \textbf{Magia mirata}\index{Magia mirata}: ogni 2 Punti Magia che paghi in aggiunta al costo dell'incantesimo puoi escludere una persona dall'area di effetto dell'incantesimo. Non puoi escludere più persone di quante volte non abbia preso l'Abilità Adepto della Magia. 1 Azione. %1 punto magia per livello incantesimo per creatura esclusa
+
+\item \textbf{Magia lontana}\index{Magia lontana}: aumentando di 1 i Punti Magia usati aumenti fino a 9 metri la distanza di lancio dell'incantesimo. 1 Azione.
+
+\item \textbf{Aumentare il tempo}\index{Aumentare il tempo} di lancio da 2 Azioni a 3 Azioni diminuisce di 1 i Punti Magia spesi per il lancio di incantesimo, con un minimo di costo di 1 Punto Magia.
+
+\item \textbf{Circolo del Potere}\index{Circolo del Potere}: più incantatori che siano tutti Devoti o Seguaci dello stesso Patrono possono collaborare affinché uno di loro riesca meglio nel lancio di un incantesimo.
+Ogni incantatore sacrifica metà dei Punti Magia dell'incantesimo lanciato dal compagno e supera una Prova di Magia. Ogni due compagni che superano la Prova di Magia si genera un Successo critico magico, fino ad un massimo di 7 successi critici magici. Il tempo di lancio di un incantesimo tramite Circolo di Potere diviene almeno 1 Turno. Requisito Competenza Magica 5.
+
+\end{itemize}
+\end{dmbox}
+
+\begin{dmbox}[title=Tentare Incantesimi con impedimenti]
+
+x3 Punti Magia se non può gesticolare, x3 se non può parlare è necessario in ogni caso superare una Prova di Magia.
+
+Componenti materiali entro 30 cm dall'incantatore.
+\end{dmbox}
 
 \end{multicols}
-	
+
 \end{document}
+
+
+%\begin{dmbox}[title=Tempi per indossare armature]
+%\begin{tabular}{lccc}
+%\textbf{Tipo di Armatura}& \textbf{Indossare} & \textbf{in fretta} & \textbf{Togliere}\\
+%Scudo& 1 azione & -     & 1 azione\\
+%Imbottita, Cuoio, Cuoio rinforzata  & 1 minuto& 3 round  & - \\
+%Giaco di Maglia& 1 minuto& 5 round  & 5 round\\
+%Scaglie, Anelli, Pettorale, Bande   & 4 minuti & 1 minuto{*}  & 1 minuto\\
+%Mezza armatura, da Campo, Completa  & 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti\\
+%\end{tabular}\\
+
+%** è necessario qualcuno che aiuti ad indossarla
+%\end{dmbox}
