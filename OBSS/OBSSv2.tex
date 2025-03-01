@@ -104,7 +104,7 @@ at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
 \pagestyle{plain}
 \fancyfoot[C]{\thepage} 
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-\usepackage{xltabular}
+\usepackage{xltabular,xtab}
 \usepackage{tabularx} 
 \usepackage{pdfpages}
 \usepackage{hyperref}
@@ -25577,7 +25577,7 @@ Oskar Schindler: L'avevano gli imperatori questo. Un uomo ruba qualcosa, viene p
 
 \setlength{\parindent}{0cm}{
 
-\small{
+%\small{
 
 \subsubsection{A}
 %\addcontentsline{toc}{subsubsection}{A}
@@ -26861,6 +26861,16 @@ Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario, coppia o plotone (1 marilith, 1-3 Glabrezu e 3-14 Babau)\\
 \textbf{Categoria Tesoro}: C\\
 \textbf{Descrizione}\\
+
+\begin{wrapfigure}[16]{r}[.5\width+.5\columnsep]{8cm}
+	
+	%\vspace*{10pt}
+	\centering
+	\includegraphics[width=7cm]{immagini/Demone_Alato.png}
+	
+	\textit{Tomba dei demoni alati}
+\end{wrapfigure}
+
 Sovrane di orde demoniache e regine di nazioni abissali, le temibili marilith servono i signori dei demoni come governanti, consigliere e persino amanti, eppure la loro supremazia come strateghe le rende particolarmente richieste come generali e comandanti d'armate. Le marilith più potenti non sono al servizio di nessuno e comandano invece fameliche legioni demoniache.
 
 Una marilith è alta da 1,8 a 2,7 metri, lunga 6 metri dalla testa alla punta della coda, e pesa 2000 kg. Solo le anime malvagie più arroganti ed orgogliose, solitamente quelle di crudeli sovrani, sadici generali e signori della guerra particolarmente violenti, possono causare la nascita di una marilith.
@@ -26896,7 +26906,16 @@ Una marilith è alta da 1,8 a 2,7 metri, lunga 6 metri dalla testa alla punta de
 
 \emph{Febbre Demoniaca}: 1 minuto, TS Tempra DC 23, 4 ore, 3 successi, -1 Costituzione e Saggezza/4 ore.
 
-\emph{\textbf{Aureola di Orrore (Ricarica 5-6).}} Il demone emette una luce magica multicolore e scintillante. Ogni creatura entro 5 metri dal demone e che possa vedere la luce, deve riuscire un Tiro Salvezza su Volontà DC 20 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto per sé se lo riesce. Se il Tiro Salvezza della creatura riesce o l'effetto ha termine per essa, la creatura è immune all'Aureola di Orrore del demone gemente per le successive 24 ore.
+\emph{\textbf{Aureola di Orrore (Ricarica 5-6).}} Il demone emette una luce magica multicolore e scintillante. Ogni creatura entro 5 metri dal demone e che possa vedere la luce, deve riuscire un Tiro Salvezza su Volontà DC 20 o restare spaventata per 1 minuto.
+
+\begin{wrapfigure}[16]{l}[.5\width+.5\columnsep]{8cm}
+	
+	\centering
+\end{wrapfigure}
+
+Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto per sé se lo riesce.
+
+Se il Tiro Salvezza della creatura riesce o l'effetto ha termine per essa, la creatura è immune all'Aureola di Orrore del demone gemente per le successive 24 ore.
 
 \emph{\textbf{Teletrasporto.}} Il demone si teletrasporta, insieme a tutto l'equipaggiamento che sta indossando o trasportando, in uno spazio non occupato che possa vedere fino a 36 metri di distanza. E' una Azione di Movimento.
 
@@ -26907,16 +26926,10 @@ Ambiente: Qualsiasi (Abisso)\\
 Organizzazione: Solitario o banda di guerra (1 nalfeshnee, 1 Hezrou e 2-5 Vrock)\\
 \textbf{Categoria Tesoro}: G\\
 \textbf{Descrizione}\\
+
 Sono pochi i demoni che comprendono le meccaniche interne che regolano l'Abisso come i nalfeshnee, e non è raro che questi demoni servano l'Abisso stesso invece che un signore dei demoni. Alcuni sovrintendono i reami organici che generano i nuovi demoni, mentre altri custodiscono luoghi di particolare importanza nei recessi nascosti del piano. Spesso il regno di un nalfeshnee nell'Abisso è superiore per forze e dimensioni al più grande dei regni mortali, in quanto questi demoni hanno una predisposizione naturale a governare ed imporre una sorta di ordine al caos dell'Abisso. Gli evocatori mortali spesso li richiamano per il loro folle ma impareggiabile intelletto, esaminando accuratamente gli accordi presi con questi demoni onde evitare eventuali conseguenze nascoste e risvolti non voluti, in quanto un nalfeshnee raramente accetta qualcosa che, in qualche modo contorto, non gli consenta di soddisfare le necessità ed i desideri dell'Abisso.
 
 I nalfeshnee sono alti 6 metri e pesano 4000 kg. Sono creati dalle anime di malvagi mortali avari o bramosi, in particolare di coloro che hanno regnato su imperi di schiavitù, furto, brigantaggio e altri vizi ancora più violenti.
-
-
-\begin{center}
-	\includegraphics[width=0.45\textwidth]{immagini/Demone_Alato.png}
-	
-	\textit{Tomba dei demoni alati}
-\end{center}
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Orcus} \hypertarget{Orcus}{}\medskip \noindent{\large\textbf{Orcus}}
 \noindent
@@ -27251,6 +27264,14 @@ I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di m
 
 Ogni catena animata è un oggetto con Difesa 20, 20 Punti Ferita, resistenza ai danni perforanti, e immunità ai danni da suono. Quando il diavolo usa Multiattacco durante il suo round, può usare ciascuna catena animata per effettuare un ulteriore attacco di catena. Una catena animata può afferrare una creatura per conto proprio ma non può effettuare attacchi mentre afferra. Una catena animata ritorna al suo stato inanimato se viene ridotta a 0 Punti Ferita o se il diavolo è reso inabile o muore.
 
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/Diavoli_giotto_2.png}
+	
+	\textit{Diavoli di Giotto}
+\end{center}
+
+
 \textbf{Reazioni}
 
 \emph{\textbf{Maschera Snervante.}} Quando una creatura che il diavolo può vedere inizia il proprio round entro 9 metri dal diavolo, il diavolo può creare un'illusione per assomigliare all'amore perduto o un acerrimo rivale di quella creatura. Se la creatura può vedere il diavolo, deve riuscire un Tiro Salvezza di Volontà DC 18 o rimanere spaventata fino al termine del suo round.
@@ -27264,12 +27285,6 @@ Organizzazione: Solitario, coppia, anello (3-6) o catena (7-20)\\
 \textbf{Descrizione}
 Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavolo delle Catene non sono veri diavoli. Anche se alcuni sono noti per vivere all'Inferno, essi esistono al di fuori delle gerarchie stabilite dagli dei degli inferi e dai suoi arcidiavoli e a volte si possono trovare su altri piani, in particolare sul Piano delle Ombre. Molti suggeriscono che siano nativi dell'Inferno che esisteva prima dell'avvento della stirpe diabolica, anche se altri ipotizzano che siano stati portati sul piano da qualche sadica potenza. Indipendentemente dalle loro origini vagano per i piani assecondano il loro desiderio di causare e ricevere sofferenza, ricercando il dolore attraverso violenti rapimenti e sadiche depravazioni.
 
-
-\begin{center}
-	\includegraphics[width=0.3\textwidth]{immagini/Diavoli_giotto_2.png}
-	
-	\textit{Diavoli di Giotto}
-\end{center}
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Diavolo Cornuto} \hypertarget{Diavolo Cornuto}{}\medskip \noindent{\large\textbf{Diavolo Cornuto}}
 \noindent
@@ -27926,16 +27941,24 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 
 \medskip
 
-\begin{tabular}{ll|ll}
-\hline
-\textbf{Colore}& \textbf{Lista} & \textbf{Colore}& \textbf{Lista}\\
-Bianco& Acqua& Blu& Aria\\
-Giallo& Fuoco, Evocazione & Porpora&Terra\\
-Nero&Acqua, Necromanzia & Rosso&Fuoco\\
-Verde&Animali e Piante& Bronzo&Abiurazione\\
-Ottone & Illusione,Divinazione & Argento&Trasmutazione \\
-Oro&Cura, Evocazione & Rame&Invocazione
-\end{tabular}
+\begin{xtabular}{ll}
+	\hline
+	\textbf{Colore} & \textbf{Lista} \\
+	\hline
+	Bianco & Acqua \\
+	Blu & Aria \\
+	Giallo & Fuoco, Evocazione \\
+	Porpora & Terra \\
+	Nero & Acqua, Necromanzia \\
+	Rosso & Fuoco \\
+	Verde & Animali e Piante \\
+	Bronzo & Abiurazione \\
+	Ottone & Illusione, Divinazione \\
+	Argento & Trasmutazione \\
+	Oro & Cura, Evocazione \\
+	Rame & Invocazione \\
+	\hline
+\end{xtabular}
 
 \medskip
 
@@ -27957,7 +27980,9 @@ Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è 
 5-7 	& Tutte le bestie. La coda ha un pungiglione velenoso che infligge 1xGS PF di danno da veleno. TS Tempra DC 10+GS per dimezzare.\\
 8-10 	& Benedetto di Tàhil. Il Drago ha migliori Tiri Salvezza. +1d6 ad ogni Tiro Salvezza.\\
 11-13 	& Regina Lucertola. Lo sguardo del Drago ha lo stesso effetto di quello del \hyperlink{Basilisco}{Basilisco}.\\
-14-15 	& Potere del Ferro. Il Drago ha \emph{Arrugginire Metallo} come il \hyperlink{Rugginofago}{Rugginofago}.\\
+14-15 	& Potere del Ferro. Il Drago ha \emph{Arrugginire Metallo} come il \hyperlink{Rugginofago}{Rugginofago}.
+\end{tabularx}
+\begin{tabularx}{0.48\textwidth}{lX}
 16 	& Resistenza alla magia. Il Drago è immune agli incantesimi sotto GS/5 livello.\\
 17 	& Immunità aggiuntiva. Il Drago è immune ad un elemento a caso.\\
 18 	& Pelle corazzata. Il Drago ha riduzione del danno pari a GS/3 ai danni T/P/C.
@@ -29207,13 +29232,6 @@ Organizzazione: Solitario\\
 \textbf{Descrizione}\\
 Vedi Descrizione Drago Verde Antico.
 
-
-\begin{center}
-	\includegraphics[width=0.4\textwidth]{immagini/Dragon_Ljubljana.png}
-	
-	\textit{Dragon Bridge, Ljubljana}
-\end{center}
-
 \subsubsection*{Draghi di Ljust}
 
 Pochissimi draghi buoni o di Ljust come vengono chiamati, sono presenti nella Terra.
@@ -29249,6 +29267,16 @@ Elysan è probabilmente il più noto e potente, un antico drago d'argento.
 
 \emph{\textbf{Coda.} Attacco con arma da mischia}: +18 a colpire, portata 6 m, un bersaglio.
 
+\begin{wrapfigure}[15]{r}[.5\width+.5\columnsep]{8cm}
+	
+	%\vspace*{10pt}
+	\centering
+	\includegraphics[width=7cm]{immagini/Dragon_Ljubljana.png}
+	
+	\textit{Dragon Bridge, Ljubljana}
+\end{wrapfigure}
+
+
 \emph{Colpisce:} 19 (2d8 + 10) danni contundenti.
 
 \emph{\textbf{Morso.} Attacco con arma da mischia}: +18 a colpire, portata 5 metri, un bersaglio.
@@ -29276,6 +29304,11 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 \textbf{Attacco di Ala (Costa 2 Azioni).} Il drago batte le ali. Ogni creatura entro 5 metri dal drago deve riuscire un Tiro Salvezza su Riflessi DC 28 o subire 17 (2d6 + 10) danni contundenti e venir gettato prono. Il drago può poi volare fino a metà della sua velocità di volo.
 
 \textbf{Attacco di Coda.} Il drago effettua un attacco di coda.
+
+\begin{wrapfigure}[15]{l}[.5\width+.5\columnsep]{8cm}
+	
+	\centering
+\end{wrapfigure}
 
 \textbf{Individuare.} Il drago effettua una prova di Consapevolezza.
 
@@ -30461,16 +30494,6 @@ I drider sono sessualmente dimorfici. La parte inferiore da ragno del corpo di u
   \item[\textbf{Sfida:}] 1 (200 PX) \\
 \end{description}
 
-
-\medskip
-
-\begin{center}
-	\includegraphics[width=0.45\textwidth]{immagini/James_Paterson_-_Dryade.png}
-	
-	\textit{Dryade, James Paterson}
-\end{center}
-
-
 \emph{\textbf{Camminata Arborea.}} Uno volta durante il suo round, la driade può usare 3 metri di movimento per entrare magicamente in un albero vivo a sua portata ed emergere da un altro albero vivo entro 18 metri dal primo albero, ricomparendo in uno spazio non occupato entro 1 metro dal secondo albero. Entrambi gli alberi devono essere di taglia Grande o superiore.
 
 \emph{\textbf{Incantesimi Innati.}} La caratteristica da incantatore innato della driade è il Carisma (DC 14 per i Tiri Salvezza degli incantesimi). La driade può lanciare in maniera innata i seguenti incantesimi, senza aver bisogno di componenti materiali. A volontà:
@@ -30481,6 +30504,14 @@ I drider sono sessualmente dimorfici. La parte inferiore da ragno del corpo di u
 \emph{passare senza tracce, pelle coriacea, randello} \emph{incantato}
 
 \emph{\textbf{Parlare con Animali e Piante.}} La driade può comunicare con bestie e piante come se parlassero la stessa lingua.
+
+\medskip
+
+\begin{center}
+	\includegraphics[width=0.45\textwidth]{immagini/James_Paterson_-_Dryade.png}
+	
+	\textit{Dryade, James Paterson}
+\end{center}
 
 \emph{\textbf{Resistenza alla Magia.}} La driade ha +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici.
 
@@ -30572,6 +30603,11 @@ L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure.
 \emph{\textbf{Turbine (Ricarica 4-6).}} Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC GS*1.5. Se lo fallisce, il bersaglio subisce 1d8*GS/3 danni contundenti e viene scagliato a GS metri di distanza dall'elementale in una direzione casuale e cadere prono. Se un bersaglio lanciato colpisce un oggetto, come un muro o il pavimento, subisce 3 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza di Riflessi DC 13 o subire lo stesso danno e cadere prona.
 Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente e non viene scagliato via né cade prono.
 
+\begin{center}
+	%\includegraphics[width=0.9\linewidth]{immagini/elefuoco.png}
+	\includegraphics[width=0.7\linewidth]{immagini/wildfire_grayscale.png}
+\end{center}
+
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Elementale del Fuoco Generico} \hypertarget{Elementale del Fuoco Generico}{}\medskip \noindent{\large\textbf{Elementale del Fuoco Generico}}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2cm]
@@ -30589,12 +30625,6 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 \end{description}
 
 
-\begin{center}
-	%\includegraphics[width=0.9\linewidth]{immagini/elefuoco.png}
-	\includegraphics[width=0.7\linewidth]{immagini/wildfire_grayscale.png}
-\end{center}
-
-
 \emph{\textbf{Forma di Fuoco.}} L'elementale può spostarsi attraverso uno spazio fino a 3 centimetri di larghezza senza stringersi. Una creatura che entri a contatto o colpisca l'elementale con un attacco da mischia mentre si trova entro 1 metro da esso subisce 5 (1d10) danni da fuoco. Inoltre, l'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. La prima volta che entra nello spazio di una creatura in un round, la creatura subisce GS danni da fuoco e prende fuoco; finché qualcuno non impiega un'Azione per spegnere le fiamme, la creatura subirà GS danni da fuoco all'inizio di ciascun proprio round.\\
 \emph{\textbf{Illuminazione.}} L'elementale emette luce intensa in un raggio di GS*2 metri e luce fioca per ulteriori GS*2 metri.\\
 \emph{\textbf{Natura Elementale.}} Un elementale non ha bisogno di aria, cibo, bevande o sonno.\\
@@ -30603,6 +30633,10 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 \emph{\textbf{Multiattacco.}} L'elementale effettua due attacchi di contatto.\\
 \emph{\textbf{Schianto.} Attacco con arma da mischia}: +GS+FOR a colpire, portata GS/3 metri, un bersaglio.\\
 \emph{Colpisce:} GS*2 danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, prende fuoco. Finché una creatura non impiega un'Azione per spegnere le fiamme, la creatura subirà CR danni da fuoco all'inizio di ciascun proprio round.
+
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{immagini/eleterra.png}
+\end{center}
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Elementale della Terra Generico} \hypertarget{Elementale della Terra Generico}{}\medskip \noindent{\large\textbf{Elementale della Terra Generico}}
 \noindent
@@ -30619,12 +30653,6 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
   \item[\textbf{Linguaggi:}] Tremun
   \item[\textbf{Sfida:}] GS \\
 \end{description}
-
-
-
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/eleterra.png}
-\end{center}
 
 \emph{\textbf{Mostro d'Assedio.}} L'elementale infligge danni doppi agli oggetti e le strutture.\\
 \emph{\textbf{Natura Elementale.}} Un elementale non ha bisogno di aria, cibo, bevande o sonno.\\
@@ -34014,12 +34042,6 @@ Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal p
 \end{description}
 
 
-\begin{center}
-	\includegraphics[width=0.3\textwidth]{immagini/The_Grey_Fairy_Book_-_Page_345.png}
-	
-	\textit{Henry Justice Ford}
-\end{center}
-
 \textbf{Azioni}
 
 \emph{\textbf{Randello Pesante.} Attacco con arma da mischia}: +6 a colpire, portata 1 m, un bersaglio.
@@ -34034,6 +34056,14 @@ Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal p
 Ambiente: Colline fredde o temperate\\
 Organizzazione: Solitario, coppia, gruppo (3-4) o famiglia (5-16)\\
 \textbf{Categoria Tesoro}: Armatura di Pelle, Randello Pesante, 4 Giavellotti, J\\
+
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/The_Grey_Fairy_Book_-_Page_345.png}
+	
+	\textit{Henry Justice Ford}
+\end{center}
+
 \textbf{Descrizione}\\
 Nelle storie riguardanti gli ogre ci sono elementi orrendi: brutalità e ferocia, cannibalismo e tortura. Poi stupri, smembramenti, necrofilia, incesto, mutilazioni e altri esempi di crudeltà. Coloro che non hanno mai incontrato gli ogre ritengono queste storie un avvertimento. Chi è sopravvissuto ad un simile incontro sa che le storie sono niente in confronto alla realtà.
 
@@ -35085,6 +35115,15 @@ Le androsfingi sono alte 3,6 metri e pesano 500 kg.
 
 \emph{\textbf{Imperscrutabile.}} La sfinge è immune a qualsiasi effetto in grado di percepirne le emozioni o leggerne i pensieri, oltre che a qualsiasi incantesimo di divinazione che rifiuti. Le prove di Saggezza (Percepire Inganni) per discernere le intenzioni o la sincerità della sfinge hanno -1d6.
 
+
+\begin{wrapfigure}[14]{r}[.5\width+.5\columnsep]{8cm}
+	
+	%\vspace*{10pt}
+	\centering
+	\includegraphics[width=7cm]{immagini/ginosfinge.png}
+\end{wrapfigure}
+
+
 \emph{\textbf{Incantesimi.}} La sfinge ha CM 9. La sua abilità da incantatore è l'Intelligenza (DC del Tiro Salvezza degli incantesimi 20. Non ha bisogno di componenti materiali per eseguire i suoi incantesimi. La sfinge tiene preparati i seguenti incantesimi: Trucchetti (a volontà): \emph{illusione minore, mano magica,} \emph{prestidigitazione}
 
 livello 1 (4 slot): \emph{identificare, individuazione del magico, scudo}
@@ -35120,17 +35159,21 @@ Ambiente: Deserti e colline caldi\\
 Organizzazione: Solitario, coppia o culto (3-6)\\
 \textbf{Categoria Tesoro}: C\\
 \textbf{Descrizione}\\
-Anche se esistono diversi tipi di sfinge, quella alla quale gli studiosi si riferiscono come Ginosfinge (un nome che molte sfingi trovano offensivo) è una creatura saggia e maestosa ma al contempo terrificante se arrabbiata. Meno moraliste delle loro controparti maschili (le Androsfingi, creature totalmente differenti da quella presentata qui), le sfingi sono prudenti e metodiche quando prendono delle decisioni, e sono orgogliose della loro fredda logica e della loro imparzialità. Hanno poca pazienza con le varianti inferiori di sfingi, considerandole poco più che animali. Le sfingi amano gli enigmi e gli indovinelli complicati, e fanno tesoro di fatti insoliti e dilemmi arcani molto più che di oro o gemme.
+
+Anche se esistono diversi tipi di sfinge, quella alla quale gli studiosi si riferiscono come Ginosfinge (un nome che molte sfingi trovano offensivo) è una creatura saggia e maestosa ma al contempo terrificante se arrabbiata. Meno moraliste delle loro controparti maschili (le Androsfingi, creature totalmente differenti da quella presentata qui), le sfingi sono prudenti e metodiche quando prendono delle decisioni, e sono orgogliose della loro fredda logica e della loro imparzialità.
+
+Hanno poca pazienza con le varianti inferiori di sfingi, considerandole poco più che animali.
+
+\begin{wrapfigure}[14]{l}[.5\width+.5\columnsep]{8cm}
+	
+	\centering
+\end{wrapfigure}
+
+Le sfingi amano gli enigmi e gli indovinelli complicati, e fanno tesoro di fatti insoliti e dilemmi arcani molto più che di oro o gemme.
 
 Pur non essendo grandi studiose in senso tradizionale, il grande apprezzamento delle sfingi per gli enigmi le porta a compiere ricerche in una grande varietà di materie, rendendole spesso una preziosa fonte di informazioni, specialmente quando fanno uso delle loro capacità magiche. Di solito sono felici di avere contatti con altre razze, ed offrono regolarmente beni materiali in cambio di informazioni o di indovinelli nuovi ed interessanti. Sono eccellenti guardiane di templi, tombe ed altri luoghi importanti, fintanto che vengono intrattenute in maniera adeguata. Le sfingi danno grande importanza alla gentilezza, ma possono essere capricciose: possono decidere altruisticamente di dividere i loro ultimi enigmi con dei viaggiatori ma non ci pensano due volte a divorarli se non vi prestano abbastanza attenzione o non forniscono alcun indizio utile alla loro risoluzione.
 
 Una tipica sfinge è lunga 3 metri e pesa circa 400 kg. Anche se le loro ali possono tenerle in aria per lunghi periodi di tempo, sono delle volatrici scarse, e preferiscono atterrare prima di iniziare a combattere, attaccando con i loro poderosi artigli. Nonostante siano estremamente territoriali, le sfingi tendono ad avvisare gli intrusi varie volte prima di attaccare.
-
-\medskip
-
-\begin{center}
-\includegraphics[width=0.5\textwidth]{immagini/ginosfinge.png}
-\end{center}
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Sibilante} \hypertarget{Sibilante}{}\medskip \noindent{\large\textbf{Sibilante}}
 \noindent
@@ -35406,7 +35449,14 @@ Usati come custodi e torce rappresentano spesso una prima linea di difesa nei du
 
 \emph{\textbf{Coda.} Attacco con arma da mischia}: +16 a colpire, portata 5 metri, un bersaglio.
 
+
 \emph{Colpisce:} 26 (3d12 + 7) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 23 o venire spinta di 3 metri lontano dalla testuggine dragona e cadere prona.
+
+\begin{wrapfigure}[14]{r}[.5\width+.5\columnsep]{8cm}
+	\centering
+	
+	\includegraphics[width=0.4\textwidth]{immagini/mice.png}
+\end{wrapfigure}
 
 \emph{\textbf{Morso.} Attacco con arma da mischia}: +16 a colpire, portata 5 metri, un bersaglio.
 
@@ -35428,28 +35478,30 @@ Si nutrono di grandi pesci e alghe marine, e non disdegnano i passeggeri delle n
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Topi, La} \hypertarget{Topi, La}{}\medskip \noindent{\large\textbf{Topi, La}}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2cm]
-  \item[\textbf{Tipo:}] Minuscola fatata, Patrono
-  \item[\textbf{Caratt.:}] For -1 Des 4 Cos 0 Int 6 Sag 2 Car 6
-  \item[\textbf{Punti Ferita:}] 15,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +4
-  \item[\textbf{Movimento:}] 6 m
-  \item[\textbf{Tiri Salvezza:}] Tempra +18, Riflessi +24, Volontà +20
-  \item[\textbf{Competenze:}] tutte +20
-  \item[\textbf{Immunità:}] al danno delle armi con bonus magico inferiore a +6 
-  \item[\textbf{Immunità:}] a qualsiasi effetto o condizione non faccia piacere alla Topi 
-  \item[\textbf{Immunità:}] a qualsiasi magia la Topi non voglia essere influenzata
-  \item[\textbf{Immunità:}] a subire a qualsiasi tipo di tiro critico
-  \item[\textbf{Sensi:}] Senso tellurico 30, Scurovisione 30 m, Visione del Vero 30 m
-  \item[\textbf{Linguaggi:}] tutti
-  \item[\textbf{Sfida:}] 0 (10 PX) \\
+	\item[\textbf{Tipo:}] Minuscola fatata, Patrono
+	\item[\textbf{Caratt.:}] For -1 Des 4 Cos 0 Int 6 Sag 2 Car 6
+	\item[\textbf{Punti Ferita:}] 15,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +4
+	\item[\textbf{Movimento:}] 6 m
+	\item[\textbf{Tiri Salvezza:}] Tempra +18, Riflessi +24, Volontà +20
+	\item[\textbf{Competenze:}] tutte +20
+	\item[\textbf{Immunità:}] al danno delle armi con bonus magico inferiore a +6 
+	\item[\textbf{Immunità:}] a qualsiasi effetto o condizione non faccia piacere alla Topi 
+	\item[\textbf{Immunità:}] a qualsiasi magia la Topi non voglia essere influenzata
+\item[\textbf{Immunità:}] a subire a qualsiasi tipo di tiro critico
+\item[\textbf{Sensi:}] Senso tellurico 30, Scurovisione 30 m, Visione del Vero 30 m
+\item[\textbf{Linguaggi:}] tutti
+\item[\textbf{Sfida:}] 0 (10 PX) \\
 \end{description}
 
-\begin{center}
-	\includegraphics[width=0.4\textwidth]{immagini/mice.png}
-\end{center}
-
-
 \emph{\textbf{E' La Topi}} La Topi ha +3d6 (oppure +18) ogni volta che deve tirare dei dadi o contare un valore.
+
+\begin{wrapfigure}[14]{l}[.5\width+.5\columnsep]{8cm}
+	
+	\centering
+\end{wrapfigure}
+
 Qualsiasi attacco effettuato dalla Topi è considerato magico +6 e non è resistibile.\\
+
 \textbf{Azioni}\\
 \emph{\textbf{Musetto}} ogni bersaglio a scelta di Topi, entro 30 metri, subisce un Musetto. Il bersaglio viene allontanato di 2d6 metri e subisce 3d6 danni non resistibili\\
 \emph{\textbf{Morso topetto} Attacco con Arma da Mischia}: +26 al colpire, portata 1 m, un bersaglio.\\
@@ -35463,6 +35515,7 @@ Organizzazione: Solitario\\
 \textbf{Categoria Tesoro}: Speciale\\
 \textbf{Descrizione}\\
 Potrebbe essere scambiata per una piccola topina bianca, ma La Topi è molto di più. Furba, intelligente, bellissima adora andare al mercato e comprare borsette.
+
 
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Torciascura} \hypertarget{Torciascura}{}\medskip \noindent{\large\textbf{Torciascura}}
@@ -37393,12 +37446,6 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 \emph{Colpisce:} 8 (2d4 + 3) danni contundenti.
 
 
-\begin{center}
-	\includegraphics[width=0.85\linewidth]{immagini/saurovallo2-ai.png}
-	
-	\textit{Saurovallo (B.I.C.)}
-\end{center}
-
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Saurovallo da Guerra} \hypertarget{Saurovallo da Guerra}{}\medskip \noindent{\large\textbf{Saurovallo da Guerra}}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2cm]
     \item[\textbf{Tipo:}] Grande bestia, disallineato
@@ -37409,6 +37456,7 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
     \item[\textbf{Sfida:}] 1/2 (100 PX) \\
 \end{description}
 
+
 \emph{\textbf{Carica Travolgente.}} Se il Saurovallo si muove di almeno 6 metri diretto verso il bersaglio e lo colpisce con un attacco di zoccoli durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 14 o cadere prono. Se il bersaglio è prono, il saurovallo può effettuare un altro attacco di zoccoli contro di lui come Azione Immediata.
 
 \textbf{Azioni}
@@ -37417,18 +37465,26 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 
 \emph{Colpisce:} 11 (2d6 + 4) danni contundenti.
 
-
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Il Saurovallo]\index{Saurovallo}
-La leggenda narra che Calicante appena scese sulla Terra vide i \emph{cavalli} provò un disgusto incredibile per questi orrendi esseri e con il semplice gesto della volontà li fece esplodere tutti. Non contento pochi attimi dopo tutti gli \emph{equini} fecero la stessa fine.
+La leggenda narra che Calicante appena scese sulla Terra vide i \emph{cavalli} e provò un disgusto incredibile per questi orrendi esseri e con il semplice volere li fece esplodere tutti. Non contento pochi attimi dopo tutti gli \emph{equini} fecero la stessa fine.
 
-Asini, muli, cavalli, zebre.. solo il cammello ed il dromedario non essendo propriamente equini si salvarono. Molti pensano che Calicante semplicemente li stia ignorando...
+Asini, muli, cavalli, zebre.. solo il cammello ed il dromedario non essendo propriamente equini si salvarono, anche se molti pensano che Calicante semplicemente li stia ignorando...
 
 Nethergal piuttosto scossa dal fatto che si era perso un utile animale per portare messaggi e cavalcabile per ampie distanze e non avendo il potere per creare una nuova creatura dal nulla, si rivolse ad Efrem ed Orlaith. Chiese ad Efrem di individuare un animale che potesse essere robusto, veloce ed adatto a essere cavalcato, mentre ad Orlaith chiese di inculcargli obbedienza ed il coraggio.
 
 Efrem sapendo che Torbiorn aveva portato sul pianeta milioni dei suoi amati dinosauri scelse il Parasaurolophus e, con il supporto di Orlaith, lo rese più compatto, piccolo, mansueto, erbivoro: perfetto per essere cavalcato.
 
 Creò anche poi una versione ridotta, nana nelle misure, che potesse adattarsi a portare le creature di taglia piccola.
+
+Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 \end{tcolorbox}\end{changemargin}
+
+
+\begin{center}
+	\includegraphics[width=0.85\linewidth]{immagini/saurovallo2-ai.png}
+	
+	\textit{Saurovallo (B.I.C.)}
+\end{center}
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Saurovallo da Tiro} \hypertarget{Saurovallo da Tiro}{}\medskip \noindent{\large\textbf{Saurovallo da Tiro}}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2cm]
@@ -38725,7 +38781,7 @@ Abili cacciatori e battitori di piste.
 
 }  %chiude \setlength{\parindent}{0cm}{
 
-} % chiude \small{
+%} % chiude \small{
 
 \subsection{Conversioni dalla 5e}\index{Convertire i mostri dalla 5e}
 
