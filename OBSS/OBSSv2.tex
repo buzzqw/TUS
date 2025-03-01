@@ -13,16 +13,15 @@
 \usepackage[a4paper]{geometry}
 \geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm} %std
 \setcounter{secnumdepth}{-1}
-\usepackage{booktabs}
+\usepackage{booktabs,multirow}
 \usepackage{url}
 \usepackage[italian]{babel}
 \usepackage{setspace}
 \usepackage{graphicx}
 \usepackage{amssymb,siunitx}
 \usepackage{makeidx}
-\usepackage{multirow}
-%\usepackage[allfiguresdraft]{draftfigure} %senza figure, deve rimanere alla riga 24
 \usepackage{titlesec}
+%\usepackage[allfiguresdraft]{draftfigure} %senza figure, deve rimanere alla riga 24
 \usepackage[unicode=true, bookmarks=true, pdftitle={OBSS}, pdfsubject={Gioco di Ruolo per Avventure Incredibili}, pdfauthor={Andres Zanzani}, breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 {hyperref}
 \hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
@@ -159,7 +158,6 @@ boxrule=0.3pt
 %\usepackage{garamondx} %\usepackage{tgpagella}%\usepackage{lmodern} %\usepackage{gentium}
 \usepackage{charter}
 
-
 \begin{document} 
 \def \versione {0.99.43} \fontsize{10.5}{12.5}\selectfont
 
@@ -173,6 +171,8 @@ boxrule=0.3pt
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
 \renewcommand{\LettrineFontHook}{\itshape}% for the initial
 \renewcommand{\LettrineTextFont}{\itshape}% for the second argumen
+
+%\titlespacing*{\subsubsection}{0pt}{*1}{*1}
 
 
 
@@ -8195,7 +8195,7 @@ Con una Azione puoi comandare i serpenti di spostarsi fino a 6 metri.
 \textbf{Tempo di Lancio}: 1 Azione\\
 \textbf{Gittata}: 18 metri\\
 \textbf{Componenti}: V\\
-\textbf{Durata}: Istantanea\\
+\textbf{Durata}: Istantanea\\ 
 Scateni una serie di insulti avvolti da una subdola malia contro una creatura a gittata e che puoi vedere. Se il bersaglio ti può udire (sebbene non è necessario che ti comprenda), deve superare un Tiro Salvezza su Volontà o subire 1d4 danni e avere -1d6 al prossimo Tiro per Colpire che effettuerà prima del termine del suo prossimo round.\\
 Il danno dell'incantesimo aumenta di 1d4 quando raggiungi CM 5, CM 11 e CM 17, ma costa 2 Azioni lanciarlo potenziato e 2 Punti Magia, è altresì necessario avere preso Adepto della Magia un numero di volte pari ai potenziamenti che si vogliono applicare.
 
@@ -13551,6 +13551,7 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 	\emph{"The Discoverie of Witchcraft' by Reginald Scot, 16 secolo }
 \end{center}
 
+\titlespacing*{\subsubsection}{0pt}{*1}{*1}
 
 \pagebreak
 
