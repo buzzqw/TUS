@@ -830,6 +830,10 @@ aggiornata versione POD 2025/02/19
 
 0.99.43 minime correzioni in conversione alla 5e, specificato che in conversione 5e l'iniziativa sia uguale a Des/Int, aggiornato mostro maledetto immortale, layout, fortemente ottimizzato il layout dei mostri, ottimizzazione layout mostri seconda parte, controllato valore cosapevolezza a mostri, nota su competenze dei mostri, ulteriori ottimizzazioni e correzioni a layout mostri, aggiunto incantesimo viticci perforanti, corretta immunita' a drago giallo antico, modificato incantesimo sonno, chiarito abilita' tattico, aggiunta nota su dimensione incantesimi, chiarimenti su Caratteristica Potenziata, dettagli su capanna, corretta indicazione su dc per forgiare un arma, ulteriori ottimizzazioni layut, allineata iniziativa per i draghi, chiarimenti su attraversare nemici, aggiornata lista saurovalli, minute correzioni i esempi suo competenza, incominciato lavoro su nuovo screen, aggiornato nuovo screen, rimossa azione capiola e lasciata attraversare i nemici, aggiunti riferimenti pagina in nuovo screenv2, minime correzioni nella descrizione degli Gnomi, modificato valore adulti in eta' del personaggio, chiarito che il massimo di una caratteristica e' 4, chiarimenti su individuazione del patrono dati i tratti, aggiunto hyperlink a mastino in orlaith, evidenziato in Tups arriva al 4 livello perche' la costituzione' aumentata, ricordato in avanziamo il personaggio che il tiro di d6 non puo' essere inferiore a costituzione, reimpostato font mostri non small, ottimizzazione layout disegni mostri, layout incantesimi omogeo con layout mostri, aggiunto mostro monete affamate, corretti link a draghi di ottone, latex non e' nato per supportare immagini tra due colonne
 
+aggiornata versione POD 2025/03/03
+
+0.99.44 nel mostruario usato font \small in caso i tiri salvezza vadano su due righe, 
+
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
