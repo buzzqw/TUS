@@ -2953,15 +2953,15 @@ Cercare qualcosa nello zaino& 2\\
 Prendere qualcosa dalla cintura o di pronto & 1\\
 Usare un oggetto tenuto in mano& 1\\
 \midrule
-Bere una pozione tenuta in mano& I\\
-Fare bere una pozione ad un altro & 2\\
+\hyperlink{insorgenzaveleno}{Bere una pozione tenuta in mano}& Imm.\\
+\hyperlink{insorgenzaveleno}{Fare bere una pozione ad un altro} & 2\\
 \midrule
 Gettare un oggetto tenuto in mano& R\\
 Gettarsi a terra prono& R\\
 \midrule
 \hyperlink{magietempodilancio}{Lanciare un Incantesimo}*& 2\\
 \hyperlink{magieconcentrazione}{Concentrarsi su un Incantesimo}& 1\\
-\hyperlink{magiedurata}{Interrompere un proprio incantesimo} & I\\
+\hyperlink{magiedurata}{Interrompere un proprio incantesimo} & Imm.\\
 \hyperlink{riconoscereincantesimo}{Riconoscere un Incantesimo}& R\\
 \hyperlink{regoleoggettimagici}{Usare un oggetto magico}& 2\\
 \midrule
@@ -3000,7 +3000,7 @@ Durante l'Azione di Movimento è possibile \textbf{Estrarre l'Arma} o Scudo o \t
 
 Una Azione di \textbf{Reazione (R)} \index{Azione di Reazione}può essere eseguita liberamente anche fuori dal proprio round. Questa Azione è solitamente dovuta ad Abilità o situazioni particolari. Se non indicato diversamente una Azione di Reazione accade immediatamente dopo la causa che la scatena.
 
-Una Azione \textbf{Immediata (I)} \index{Azione Immediata}può essere eseguita liberamente nel proprio round, primo o dopo la propria Azione. Una Azione Immediata è solitamente concessa da particolari Abilità.
+Una Azione \textbf{Immediata (Imm.)} \index{Azione Immediata}può essere eseguita liberamente nel proprio round, primo o dopo la propria Azione. Una Azione Immediata è solitamente concessa da particolari Abilità.
 
 E' possibile, se non descritto specificatamente nell'Abilità, eseguire solo una Azione Immediata ed una Azione di Reazione per round.
 
@@ -19962,13 +19962,15 @@ Per identificare una pozione naturale è necessario una prova di Erboristeria a 
 Vedi regole per trattenere il fiato e soffocare in \hyperlink{trattenereilfiato}{Ambiente} (pag. \pageref{trattenereilfiato}).
 
 
-\subsection{Insorgenza ed Effetto}\index{Insorgenza veleno}\index{Tempo di attivazione veleno}\label{insorgenzaveleno}
+\subsection{Insorgenza ed Effetto}\index{Insorgenza veleno}\index{Tempo di attivazione veleno}\label{insorgenzaveleno}\hypertarget{insorgenzaveleno}{}
 
 Per insorgenza si intende quanto tempo ci mette il veleno o pozione a fare effetto. Se il tempo di insorgenza è 1 Turno significa che per gli effetti del veleno/pozione ed il Tiro Salvezza si aspetta 10 minuti. Se nella tabella del veleno/pozione insorgenza non è specificata significa che l'effetto è immediato dopo l'entrata in contatto con il veleno.
 
-L'effetto di un veleno/pozione è immediato dopo l'insorgenza. Verificare la descrizione del veleno per capirne l'effetto. Se il Tiro Salvezza su Tempra riesce il veleno non ha fatto effetto e si può ritenere neutralizzato.
+L'effetto di un veleno/pozione è immediato dopo l'insorgenza. Verificare la descrizione del veleno per capirne l'effetto. Se il Tiro Salvezza su Tempra riesce il veleno non ha fatto effetto e si può ritenere neutralizzato. 
 
 Ci sono alcuni casi in cui è presente la voce Frequenza, in queste occasioni il Tiro Salvezza va ripetuto ogni volta che passa la Frequenza indicata, in caso di fallimento del Tiro Salvezza gli effetti indicati vengono nuovamente applicati.
+
+Bere una pozione tenuta in mano costa 1 Azione Immediata, farla bere ad un compagno privo di sensi costa 2 Azioni.
 
 Se il personaggio \textbf{dedica 1 minuto} a bere una Pozione di Cura o Naturale questa avrà effetto massimizzato.\index{Pozioni effetto massimizzato}
 
@@ -20058,8 +20060,6 @@ Es: Gusterbloon CM14. La prima Lettera indica il CLIMA, la Seconda indica l'AMBI
 
 \end{multicols}
 
-\pagebreak
-
 \textbf{Tabella: Veleni}\index[Tabelle]{Tabella Veleni}\label{tabellaveleni}
 
 \medskip
@@ -20125,22 +20125,22 @@ Il Tiro Salvezza è sempre su Tempra se non specificato diversamente
 
 I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non permanenti o indicato diversamente.
 
-\medskip
+\pagebreak
 
 
-\vfill
+%\vfill
 
 
-\begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/funeralebarca.png}
-\end{center}
+%\begin{center}
+%\includegraphics[width=0.5\linewidth]{immagini/funeralebarca.png}
+%\end{center}
 
 
 \textbf{Tabella: Pozioni Naturali}\index[Tabelle]{Pozioni Naturali}\label{tabellapozioni}
 
-\medskip
-{\small
-\noindent\begin{xltabular}{1\textwidth}{lcccXlc}
+\medskip 
+\small{
+{\noindent\begin{xltabular}{1\textwidth}{lcccXlc}
 \textbf{Nome}& \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Loc.} & \textbf{Costo} \\
 \toprule
 Arduur\index{Arduur} & I& 1 round & 25& Rimuove Veleni& SZ20 & 75 \\
@@ -20242,7 +20242,7 @@ Uscaboo \index{Uscaboo}& R& 1 Turno & 25& Rimuove cecità& MO21 & 125 \\
 Wickalim\index{Wickalim} & I& 1 ora& 15& Cura 2 Punti Ferita& TD7 & 5 \\
 \toprule
 Yajeth\index{Yajeth}& I& 1 Turno& 20& Cura 2d8 Punti Ferita& MO16 & 100
-\end{xltabular}}
+\end{xltabular}}\normalsize
 
 \begin{multicols}{2}
 
