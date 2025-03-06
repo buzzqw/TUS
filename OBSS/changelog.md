@@ -832,7 +832,7 @@ aggiornata versione POD 2025/02/19
 
 aggiornata versione POD 2025/03/03
 
-0.99.44 nel mostruario usato font \small in caso i tiri salvezza vadano su due righe, uso resizebox per il font dei tiri salvezza cosi' che la dimensione sia dinamica, ottimizzato screen2, aggiunta tabella generazione casuale armi, migliorato layout abilita' - regole competenze - raggruppamento abilita' per stile, aggiunti hyperlink in elenco azioni per round, 
+0.99.44 nel mostruario usato font \small in caso i tiri salvezza vadano su due righe, uso resizebox per il font dei tiri salvezza cosi' che la dimensione sia dinamica, ottimizzato screen2, aggiunta tabella generazione casuale armi, migliorato layout abilita' - regole competenze - raggruppamento abilita' per stile, aggiunti hyperlink in elenco azioni per round, minuti chiarimenti in esempi prove competenze, 
 
 
 > valutare:
