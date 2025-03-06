@@ -172,10 +172,10 @@ boxrule=0.3pt
 \renewcommand{\LettrineFontHook}{\itshape}% for the initial
 \renewcommand{\LettrineTextFont}{\itshape}% for the second argumen
 
-%\titlespacing*{\subsubsection}{0pt}{*1}{*1}
-
-
-
+\newcommand{\mysubsubstar}[2][]{%
+	\subsubsection[#1]{#2}
+	\titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}
+}
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/cover-alt-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
 
@@ -2499,20 +2499,20 @@ Ci sono situazioni in cui il gruppo deve fare una prova di competenza ma il risu
 
 Le Competenza che hanno un \textbf{*} a fianco al nome, come \textbf{Acrobatica*} hanno le penalità alla prova dovuta dall'armatura portata.
 
-\subsubsection*{Acrobatica*}\index{Acrobatica} \label{acrobatica}
+\mysubsubstar{Acrobatica*}\index{Acrobatica} \label{acrobatica}
 Una prova di Acrobatica riuscita con DC 15 permette al personaggio di ridurre di 3 il danno quando cade entro 6 metri (\textbf{Reazione}).
 
 \textbf{Scendere o Salire} entro 50 cm è terreno difficile, tra i 50 e 150 cm è terreno doppiamente difficile, oltre è cadere o arrampicarsi. Il danno da caduta è 1d6 danni ogni 3 metri in caduta. \index{Scendere e Salire}
 
 Vedi paragrafo \hyperlink{cadute}{Cadute} (pag. \pageref{cadute}) per i dettagli su come usare Acrobatica quando si cade.
 
-\subsubsection*{Arcana - Riconoscere un oggetto magico} \index{Riconoscere oggetto magico}\label{rinoscereoggettomagico}
+\mysubsubstar{Arcana - Riconoscere un oggetto magico} \index{Riconoscere oggetto magico}\label{rinoscereoggettomagico}
 e le sue capacità è necessaria una prova di \textbf{Arcana} a difficoltà 20 per avere indicazioni di massima sui poteri e ambiti di utilizzo, solo con un risultato di almeno 25 nella prova, puoi apprenderne i dettagli, bonus magici e cariche. \textbf{10 minuti}. Con punteggio Arcana 6 impiega 5 minuti, con 12 impiega 1 minuto, con Arcana 18 impiega 1 Round eseguire la prova.
 
-\subsubsection*{Arcana - Riconoscere un incantesimo} \index{Riconoscere un incantesimo} \label{riconoscereincantesimo}
+\mysubsubstar{Arcana - Riconoscere un incantesimo} \index{Riconoscere un incantesimo} \label{riconoscereincantesimo}
 mentre viene lanciato è una prova di \textbf{Arcana} a DC pari la 10 + livello dell'incantesimo. Costa una \textbf{Reazione}. Se fatto assieme al lancio di un \hyperlink{Controincantesimo}{Controincantesimo} non costa Reazione.
 
-\subsubsection*{Arrampicarsi/Scalare*} \index{Arrampicarsi}\index{Scalare}\label{arrampicarsi}
+\mysubsubstar{Arrampicarsi/Scalare*} \index{Arrampicarsi}\index{Scalare}\label{arrampicarsi}
 
 Usare una corda per arrampicarsi\index{Scendere con una corta}\index{Salire su una corda}, scalare o arrampicarsi equivale a muoversi in un \textbf{terreno doppiamente difficile}.
 
@@ -2547,7 +2547,7 @@ In caso di Successo Critico scali o ti arrampichi come fosse terreno difficile e
 
 Vedi anche la \hyperlink{pareti}{Tabella: Pareti}, pag. \pageref{pareti}.
 
-\subsubsection*{Atletica*}\index[Tabelle]{Tabella Saltare} \emph{Penalità dovuta all'Armatura.} \textbf{1 Azione}\index{Saltare}\label{atletica}\label{saltare}
+\mysubsubstar{Atletica*}\index[Tabelle]{Tabella Saltare} \emph{Penalità dovuta all'Armatura.} \textbf{1 Azione}\index{Saltare}\label{atletica}\label{saltare}
 %\begin{tabular}{lc|lc}
 %\textbf{Salto in Lungo} & \textbf{DC}&\textbf{Salto in Alto} & \textbf{DC}\\
 %\multicolumn{2}{c}{Lunghezza} &\multicolumn{2}{c}{Altezza} \\
@@ -2569,15 +2569,15 @@ Se non si ha almeno 3 metri di rincorsa si salta la metà. In lungo si salta al 
 
 Effettuare un Salto da fermo costa 1 Azione. Un Salto effettuato entro metà del proprio movimento (quindi si salta entro 4 metri percorsi, per un umano) non costa Azione, altrimenti consumi una Azione per il Movimento ed una Azione per il Salto.
 
-\subsubsection*{Conoscenza - Identificare una pozione o veleno naturale}\index{Identificare Veleno}\index{Erboristeria} \index{Identificare Pozione}\label{identificarepozioni}
+\mysubsubstar{Conoscenza - Identificare una pozione o veleno naturale}\index{Identificare Veleno}\index{Erboristeria} \index{Identificare Pozione}\label{identificarepozioni}
 è possibile con una prova di \textbf{Erboristeria} a DC uguale al fattore di rarità della pianta, oppure il TS che questa concede in caso di Veleni.
 
 Impiega 1 Azione ogni 10 di DC. Con 6 in Erboristeria il tempo è 1 Azione ogni 15 di DC, con 12 punti è 1 Azione ogni 20 DC eseguire la prova. Se si fallisce con un fallimento critico si è venuti a contatto/ingerito parte della pozione e se ne subiscono gli effetti.
 
-\subsubsection*{Conoscenza - Identificare una creatura} \index{Riconoscere una creatura}\label{riconosceremostro}
+\mysubsubstar{Conoscenza - Identificare una creatura} \index{Riconoscere una creatura}\label{riconosceremostro}
 si effettua una prova di Conoscenza. Controlla il capitolo \hyperlink{riconoscereimostri}{Riconoscere i Mostri} nel Mostruario (pag. \pageref{riconoscereimostri}). Costa 1 Azione.
 
-\subsubsection*{Intimidire}\index{Intimidire}\label{intimidire}
+\mysubsubstar{Intimidire}\index{Intimidire}\label{intimidire}
 Il personaggio usa \textbf{1 Azione} ed esegue una Prova Contrapposta al Tiro Salvezza su Volontà con bonus dato dal Carisma.
 Se il Tiro Salvezza fallisce, l'avversario fino alla fine del suo round successivo ha -1 al Tiro per Colpire contro colui che l'ha intimidito. L'avversario deve avere Intelligenza pari o maggiore di -3. Il Tiro Salvezza prende un modificatore di $\pm2$ per taglia di differenza. In caso di successo critico il modificatore diventa -2. 
 
@@ -2592,36 +2592,35 @@ Se chi tenta la prova di Intimidire esegue un fallimento critico subisce le mede
 %	\emph{Bible Pictures and What They Teach Us}
 %\end{center}
 
-\subsubsection*{Furtività*} \index{Nascondersi} \index{Muoversi silenziosamente}\index{Furtivita'}\label{furtivita}
+\mysubsubstar{Furtività*} \index{Nascondersi} \index{Muoversi silenziosamente}\index{Furtivita'}\label{furtivita}
 
 Furtività raccoglie le capacità di muoversi silenziosamente, nascondersi nelle ombre, passare non visto e tutte quelle azioni che richiedono di non essere visti o sentiti.
 Cercare di muoversi silenziosamente non costa Azioni, è \emph{compresa} nell'Azione di Movimento usata per spostarsi. Il terreno viene però trattato come difficile e se già lo fosse diviene doppiamente difficile. Muoversi a piena velocità cercando di non fare rumore impone alla prova di Furtività una penalità di 2d6.
 
 Usando \textbf{1 Azione} puoi cercare di nasconderti dalla vista degli avversari. Non è possibile nascondersi se l'ambiente non lo permette, per quando la tua prova possa essere alta non puoi nasconderti se non c'è qualcosa che ti può nascondere od occultare. Per nascondersi dietro una creatura questa deve essere almeno di 3 taglie superiori alla tua (altrimenti la creatura fornisce solo copertura).
 
-\subsubsection*{Gestire animali - Ammansire un animale}\index{Ammansire animale}\index{Gestire animali}\label{gestireanimali}
+\mysubsubstar{Gestire animali - Ammansire un animale}\index{Ammansire animale}\index{Gestire animali}\label{gestireanimali}
 è una prova di \textbf{Gestire Animali} a DC 12+2*GS dell'animale. Impiega 1 minuto ogni 3 di DC, con 6 punti il tempo è 1 minuto ogni 6 di DC, con 12 è 1 minuto ogni 10 DC eseguire la prova. La creatura deve avere Intelligenza -3 o superiore.
 
-\subsubsection*{Nuotare*}\index{Nuotare}\label{compnuotare}
+\mysubsubstar{Nuotare*}\index{Nuotare}\label{compnuotare}
 
 In acqua calme DC 10, in acque mosse ha DC 15, in acque molto mosse DC 20, tempestose DC 25. La prova è necessaria per stare a galla o nuotare. Nuotare in acqua si considera \textbf{terreno difficile}.
 
 Vedi Capitolo \hyperlink{combatteresottacqua}{Avventure in Acqua} (pag. \pageref{combatteresottacqua}).
 
-\subsubsection*{Professione}
+\mysubsubstar{Professione}
 Un eventuale prova sulla \textbf{Professione} viene fatta con 3d6+Saggezza+metà del livello.
 
 %\subsubsection*{Artista della Fuga}
 %1 Azione ogni 10 di DC. 6p 1 Azione 15 di DC, 12p 1 Azione 20 DC.
 
-\subsubsection*{Seguire Tracce}\index{Seguire Tracce}\label{seguiretracce}
+\mysubsubstar{Seguire Tracce}\index{Seguire Tracce}\label{seguiretracce}
 
 Alla \textbf{Difficoltà base di 15} si applicano i modificatori indicati.
 
 \medskip
 
-\small{
-	\noindent\begin{tabular}{ll}
+\small\noindent\begin{tabular}{ll}
 		Se il terreno è molto morbido& DC -4\\
 		Se il terreno è stabile& DC +5\\
 		Se il terreno è duro& DC +10\\
@@ -2638,10 +2637,10 @@ Alla \textbf{Difficoltà base di 15} si applicano i modificatori indicati.
 		%A seconda della taglia/visibilità& DC $\pm4$\\
 		%Ogni 24 ore passate/ora di pioggia& DC +4\\
 		%Cerca di occultare le traccie& DC +4\\
-\end{tabular}}
+\end{tabular}\normalsize 
 
 
-\subsubsection*{Pronto Soccorso}\hypertarget{prontosoccorso}{}\label{prontosoccorso}\index{Pronto Soccorso}
+\mysubsubstar{Pronto Soccorso}\hypertarget{prontosoccorso}{}\label{prontosoccorso}\index{Pronto Soccorso}
 
 Se il personaggio ha Punti Ferita negativi, è morente, la prova di Pronto Soccorso, 3 Azioni, a difficoltà 12 più il valore dei Punti Ferita negativi porterà il personaggio a 0 Punti Ferita, ovvero svenuto. Ogni volta successiva che il personaggio torna sotto 0 Punti Ferita la difficoltà della prova di Pronto Soccorso aumenta di 2.
 
@@ -2656,16 +2655,16 @@ Se effettuato durante le ore di riposo chi amministra la cura risulterà Affatic
 
 Oggetti come \hyperlink{borsadaguaritore}{Borsa da Guaritore} (pag. \pageref{borsadaguaritore}) e \hyperlink{Fermasangue}{Fermasangue} (pag. \pageref{fermasangue}) possono essere utili nelle prove.
 
-\subsubsection*{Valutare}\label{compvalutare}
+\mysubsubstar{Valutare}\label{compvalutare}
 DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +10, Leggendario +16. 3 Azioni
 
-\subsubsection*{Sopravvivenza}\index{Sopravvivenza}\label{sopravvivenza}
+\mysubsubstar{Sopravvivenza}\index{Sopravvivenza}\label{sopravvivenza}
 
 Sopravvivenza può essere usata al posto di \textbf{Disattivare Congegni} con un -1d6 per disattivare trappole o serrature. 1 Azione per DC.
 
 Ogni tre punti ottenuti nella prova di Sopravvivenza oltre 13 il personaggio è in grado di \textbf{procacciare cibo} per se stesso ed un altra persona purché si trovi in un ambiente capace di sostenere la vita.
 
-\subsection{Linguaggi}\index{Linguaggi}\hypertarget{linguaggi}{}\label{linguaggi}
+\mysubsubstar{Linguaggi}\index{Linguaggi}\hypertarget{linguaggi}{}\label{linguaggi}
 
 Nel mondo ci sono le vecchie lingue ormai desuete e usate solo negli antichi tomi e c'è la lingua Comune costruita dall'insieme dei vecchi idiomi terrestri e comprensibile più o meno a chiunque. Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto pari o superiore a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio. Per ogni punto speso nella Competenza Conoscenza Lingua parla e scrive un altra lingua.
 
@@ -4908,7 +4907,10 @@ Valutate bene i prerequisiti ed i vantaggi che concede, cercate sempre di essere
 Ricordatevi anche di segnare i bonus relativi ai Tiri Salvezza. Solitamente una Abilità concreta e pratica concede un bonus di +3 divisi tra 2 Tiri Salvezza, una Abilità più generica concede un 2 punti da dividere tra un solo Tiro Salvezza o due.
 
 
+
+
 \newcommand{\ability}[5]{
+	\titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}
 	\titleformat{\subsubsection}
 	{\normalfont\Large\bfseries\color{black}}{\thesubsubsection}{1em}{}
 	
@@ -6257,16 +6259,16 @@ La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire au
 
 \end{multicols}
 
-%\vfill
+\vfill
 
-%\begin{center}
+\begin{center}
 	
-%	\includegraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+	\includegraphics[width=0.9\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 	
 	%%\filltopageendgraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 	
-%	\emph{Attorno al un fuoco, raccontando la giornata trascorsa.}
-%\end{center}
+	\emph{Attorno al un fuoco, raccontando la giornata trascorsa.}
+\end{center}
 
 \pagebreak
 
