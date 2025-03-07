@@ -4917,9 +4917,9 @@ Ricordatevi anche di segnare i bonus relativi ai Tiri Salvezza. Solitamente una 
 	\titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}
 	\titleformat{\subsubsection}
 	{\normalfont\Large\bfseries\color{black}}{\thesubsubsection}{1em}{}
-	
+	\pdfbookmark[2]{#1}{#1}
 
-\subsubsection*{#1}\index{#1}\label{#2}\hypertarget{#2}{}
+\subsubsection*{#1}\index{#1}\label{#2}\hypertarget{#2}{} 
 	\begin{tcolorbox}[
 		enhanced,
 		colback=white,
