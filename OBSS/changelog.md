@@ -836,7 +836,7 @@ aggiornata versione POD 2025/03/03
 
 aggiornata versione POD 2025/03/10
 
-0.99.45 indicato il danno per round circa di una creatura avversaria, 
+0.99.45 indicato il danno per round circa di una creatura avversaria, alcuni chiarimenti per vita e morte, 
 
 
 > valutare:
