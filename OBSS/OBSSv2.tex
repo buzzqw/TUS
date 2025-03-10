@@ -103,8 +103,7 @@ at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
 \pagestyle{plain}
 \fancyfoot[C]{\thepage} 
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-\usepackage{xltabular,xtab}
-\usepackage{tabularx} 
+\usepackage{xltabular,xtab, tabularx} 
 \usepackage{pdfpages}
 \usepackage{hyperref}
 \usepackage[absolute,overlay]{textpos}
@@ -171,6 +170,7 @@ boxrule=0.3pt
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
 \renewcommand{\LettrineFontHook}{\itshape}% for the initial
 \renewcommand{\LettrineTextFont}{\itshape}% for the second argumen
+
 
 
 
@@ -4046,7 +4046,7 @@ Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferis
 
 \pagebreak
 
-\section{Nascondigli e coperture} \index{Nascondigli}\hypertarget{copertura}{}
+\section{Nascondigli e coperture} \index{Nascondigli}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}
 \begin{center}
@@ -5586,7 +5586,7 @@ Consumi due Azioni.
 \ability{Improvvisare}{improvvisare}{Competenza Armi 1}{+1 Tempra, +1 Riflessi}{Destrezza o Saggezza}
 
 Qualsiasi oggetto che possa definirsi un arma improvvisata per te non è improvvisata.
-Non soffri di penalità al colpire quando usi un arma improvvisata. Ottieni un +1 al danno quando usi un arma improvvisata.
+Non soffri di penalità al colpire quando usi un \hyperlink{armaimprovvisata}{arma improvvisata}. Ottieni un +1 al danno quando usi un arma improvvisata.
 
 \ability{Incantatore da Combattimento}{incantatoredacombattimento}{Competenza Magica 1}{+1 Tempra, +1 Volontà}{Modificatore di caratteristica per incantesimi o a scelta}
 
@@ -7630,9 +7630,9 @@ Per i \textbf{mostri} o comunque per un lancio di incantesimi dato da abilità m
 
 Perdi la concentrazione su di un incantesimo se lanci un altro incantesimo che richieda concentrazione. Non ti puoi concentrare su due incantesimi alla volta. Interrompere la concentrazione costa una Azione Immediata.
 
-Se vieni colpito\index{Colpito mentre tieni la concentrazione} mentre sei concentrato su un incantesimo devi effettuare una Prova di Magia ed ottenere almeno 1 Successo Critico Magico o perdi la concentrazione.
+Se vieni colpito\index{Colpito mentre tieni la concentrazione} mentre sei concentrato su un incantesimo devi effettuare una Prova di Magia ed ottenere almeno 1 Successo Critico Magico, +1 per ogni critico subito oppure perdere la concentrazione.
 
-Mentre sei concentrato puoi lanciare solo Trucchetti, mantenere la Concentrazione costa 1 Azione a round. 
+Mentre sei concentrato puoi lanciare solo Trucchetti senza difficoltà altrimenti se riesci in una Prova di Magia con un Successo Critico Magico puoi anche lanciare incantesimi non Trucchetti. Mantenere la Concentrazione costa 1 Azione a round. 
 
 \subsubsection{Opzionale - Multiple Concentrazioni}\index{Opzionale - Multiple Concentrazioni}
 
@@ -16575,7 +16575,7 @@ Un armaiolo per creare un arma perfetta deve superare con un successo critico la
 
 Un arma perfetta costa il doppio di un arma normale.
 
-\textbf{Armi Improvvisate}\index{Armi Improvvisate}
+\textbf{Armi Improvvisate}\index{Armi Improvvisate}\label{armaimprovvisata}\hypertarget{armaimprovvisata}{}
 
 Talvolta oggetti che non sono stati creati per essere armi possono avere una certa efficacia in combattimento. Dal momento che non si tratta di oggetti pensati per questo utilizzo, la creatura che attacca con uno di essi subisce una penalità -1d6 al Tiro per Colpire. Un'arma improvvisata di piccole dimensioni (bottiglia) fa 1d3 di danno, di medie dimensioni (la gamba di una sedia) da 1d6, di grandi dimensioni (la gamba di un tavolo) fa 1d8 di danno.
 
@@ -16882,7 +16882,7 @@ Uno \textbf{Scudo} Leggero ha \textbf{Ingombro} 1, uno Scudo Medio ha Ingombro 2
 
 La penalità alla \textbf{Prova di Magia} si somma con quella eventualmente dovuta dall'armatura e si applica quando lo scudo è indossato.\index{Penalità Magia Scudo ed Armatura}
 
-Uno scudo può essere usato come \textbf{arma improvvisata}, -1d6 al Tiro per Colpire. Uno scudo piccolo fa 1d4 di danno (B/T), uno scudo medio fa 1d6 di danno (B/T), uno scudo pesante fa 1d8 di danno (B/T).
+Uno scudo può essere usato come \hyperlink{armaimprovvisata}{arma improvvisata}. Uno scudo piccolo fa 1d4 di danno (B/T), uno scudo medio fa 1d6 di danno (B/T), uno scudo pesante fa 1d8 di danno (B/T).
 
 Usare lo scudo come arma improvvisata non fa applicare il suo bonus alla Difesa se non si usa una Reazione per reimpostarlo alla Difesa dopo aver attaccato.
 
@@ -17043,24 +17043,23 @@ Abito da studioso & 5 mo& 1\\
 Abito da viaggiatore& 1 mo& 2\\
 Abito invernale & 8 mo& 2\\
 Abito reale & 200 mo & 3\\
-Acciarino e pietra focaia & 1 mo&\\
-Acido Intenso (ampolla) & 10 mo& L \\
-Acqua santa (ampolla) & 25 mo& L\\
+\hyperlink{Acido Intenso}{Acido Intenso} (ampolla) & 30 mo& L \\
+\hyperlink{Acqua santa}{Acqua santa} (ampolla) & 25 mo& L\\
 Ago da cucito & 5 ma &- \\
 Agrifoglio e vischio& -& -\\
 Amo da pesca& 1 ma& - \\
 Ampolla (vuota)& 3 mr& L \\
 Anello con sigillo& 5 mo& - \\
-Anello per veleno & +20 mo&-\\
-Antitossina (boccetta)& 50 mo& L\\
-Ariete portatile& 10 mo& 3 \\
+\hyperlink{Anello per veleno}{Anello per veleno} & +20 mo&-\\
+\hyperlink{Antitossina}{Antitossina} (boccetta)& 50 mo& L\\
+\hyperlink{Ariete portatile}{Ariete portatile}& 10 mo& 3 \\
 Arnesi da artigiano& 5 mo& 2\\
 Arnesi da scasso& 30 mo& 1\\
 Asta (3 m)& 5 mr& 2\\
 Attrezzi da scalatore & 80 mo& 1\\
 Banchetto (a persona) & 10 mo& -\\
-Bandoliera & 3 mo & L\\
-Barca a remi& 50 mo& 12\\
+\hyperlink{Bandoliera}{Bandoliera} & 3 mo & L\\
+\hyperlink{Barca a remi}{Barca a remi}& 50 mo& 12\\
 Barcone & 3000 mo& -\\
 Barile (vuoto)& 2 mo& 4\\
 Bastone & 2 mo& 1
@@ -17075,8 +17074,8 @@ Boccale di ceramica & 2 mr& L\\
 Boccetta di inchiostro o pozione& 1 mo& L \\
 Borsa&5 ma&L\\
 Borsa da cintura (vuota) & 1 mo& L\\
-Borsa per Componenti &25 mo&L\\
-Borsa da Guaritore& 20 mo& 1\\
+\hyperlink{Borsa dei Componenti}{Borsa dei Componenti} &25 mo&L\\
+\hyperlink{borsadaguaritore}{Borsa da Guaritore}& 20 mo& 1\\
 Bottiglia di vetro& 2 mo& L \\
 Brocca di ceramica(5lt) & 2 mr& L\\
 Campanella& 1 mo& - \\
@@ -17085,13 +17084,13 @@ Canna da pesca & 1 mo&1\\
 Cannocchiale& 1000 mo& 1 \\
 Caraffa di ceramica & 2 mr& L\\
 Carne (1 pezzo) & 3 ma& L\\
-Carretto& 15 mo& 10\\
-Carro & 35 mo& 20\\
-Carrozza& 300 mo & -\\
-Carrucola e paranco & 20 mo& 2 \\
+\hyperlink{Veicoli}{Carretto}& 15 mo& 10\\
+\hyperlink{Veicoli}{Carro} & 35 mo& 20\\
+\hyperlink{Veicoli}{Carrozza}& 300 mo & -\\
+\hyperlink{Carrucola e paranco}{Carrucola e paranco} & 20 mo& 2 \\
 Carta (foglio)& 4 ma& -\\
 Cassa (vuota) & 2 mo& 3 \\
-Catena (3 m)& 30 mo & 1\\
+\hyperlink{Catena}{Catena} (3 m)& 30 mo & 1\\
 Ceralacca& 1 mo& -\\
 Cerata&5 ma&1\\
 Cesto (vuoto) & 4 ma& 1 \\
@@ -17103,21 +17102,20 @@ Corda di canapa (15 m)& 1 mo& 1\\
 Corda di canapa grossa (15 m)& 2 mo& 2 \\
 Corda di seta di ragno (15 m)& 10 mo& L\\
 Cote per affilare & 2 mr& L \\
-Custodia per Dardi o Frecce& 1 mo& 1 \\
 Custodia per mappe o pergamene& 1 mo& 1 \\
-Esca ed Acciarino & 5 ma & L\\
-Faretra& 3 mo& - \\
+\hyperlink{Esca ed Acciarino}{Esca ed Acciarino} & 5 ma & L\\
+\hyperlink{Faretra}{Faretra}& 3 mo& 1 \\
 Fischietto& 8 ma& - \\
 Formaggio (1 pezzo)& 1 ma& \\
 Forziere & 5 mo&4\\
-Fuoco dell'alchimista (ampolla)& 20 mo& L\\
+\hyperlink{Fuoco dell'Alchimista}{Fuoco dell'Alchimista} (ampolla)& 20 mo& L\\
 Galea & 30k mo& -\\
 Gancio di metallo & 1 mo& L\\
 Gessetto, (1 pezzo) & 1 mr& -\\
 Giaciglio& 1 ma& 1 \\
 Inchiostro (boccetta da 30 g)& 8 mo& - \\
 Laboratorio da alchimista& 200 mo& 5\\
-Lanterna comune& 1 mo& 2 \\
+\hyperlink{Lanterna}{Lanterna}& 1 mo& 2 \\
 Lanterna a lente sporgente& 12 mo& 1 \\
 Lanterna schermabile& 7 mo& 1 \\
 Legna da ardere (per giorno)& 1 mr& 4 \\
@@ -17126,17 +17124,17 @@ Locanda Buona (dormire) & 2 mo& -\\
 Locanda Modesta (dormire)& 5 ma& -\\
 Locanda Scadente (dormire) & 2 ma& -\\
 Maglio& 1 mo& 2 \\
-Manette & 15 mo& L 
+\hyperlink{Manette}{Manette} & 15 mo& L 
 \end{tabular}
 
 \noindent\begin{tabular}{lll}\index{Sacco a pelo}\index{Letto}
 \textbf{Oggetto}& \textbf{Costo} & \textbf{Ing.}\\
 Martello& 5 ma& 1\\
-Morso e briglie & 2 mo&1\\
-Nave a vela & 10k mo & -\\
+\hyperlink{Veicoli}{Morso e briglie} & 2 mo&1\\
+\hyperlink{Imbarcazioni}{Nave a vela} & 10k mo & -\\
 Nave da guerra& 25k mo& -\\
 Nave lunga& 10k mo & -\\
-Olio da lanterna& 1 ma& 1 \\
+\hyperlink{Olio da lanterna}{Olio da lanterna}& 1 ma& 1 \\
 Orologio ad acqua & 1000 mo & -\\
 Otre& 1 mo& 2 \\
 Pala o badile & 2 mo& 1 \\
@@ -17149,9 +17147,9 @@ Pennino & 1 ma& - \\
 Pentola di ferro& 8 ma& 1 \\
 Pergamena (Foglio)& 2 ma& - \\
 Piccone da minatore & 3 mo& 2 \\
-Piede di porco& 2 mo& 1 \\
-Pozione di Cura & 50 mo & L\\
-Pozione di Cura potenziata & 125 mo & L\\
+\hyperlink{piedediporco}{Piede di porco}& 2 mo& 1 \\
+\hyperlink{Equip Pozione di Cura}{Pozione di Cura} & 50 mo & L\\
+\hyperlink{Equip Pozione di Cura potenziata}{Pozione di Cura potenziata} & 125 mo & L\\
 Profumo & 5 mo & L\\
 Rampino & 1 mo& 1 \\
 Razioni da viaggio (al giorno)& 3 ma& L \\
@@ -17163,11 +17161,11 @@ Sacco a pelo & 3 mo& 2 \\
 Sapone (per 0,5 kg) & 5 ma& - \\
 Scala a pioli (3 m) & 2 ma& 3 \\
 Secchio (vuoto)& 5 ma& L\\
-Sella Da galoppo& 30 mo& 2\\
+\hyperlink{Sella}{Sella} Da galoppo& 30 mo& 2\\
 Sella Militare& 50 mo& 3\\
 Sella da carico & 15 mo& 2\\
 Sella esotica& 60 mo& 3\\
-Serratura/lucchetto Buona & 80 mo& -\\
+\hyperlink{Serratura}{Serratura}/lucchetto Buona & 80 mo& -\\
 Serratura/lucchetto Media & 40 mo&\\
 Serratura/lucchetto Semplice& 20 mo& -\\
 Serratura/lucchetto Superiore& 150 mo& - \\
@@ -17180,7 +17178,7 @@ Stallaggio (al giorno)& 1 ma& -\\
 Strumento musicale comune& 5 mo& 2\\
 Tagliola& 5mo&3\\
 Tela (per mq)& 1 ma& L \\
-Tenda & 10 mo& 3 \\
+\hyperlink{Tenda}{Tenda} & 10 mo& 3 \\
 Torcia& 1 ma& 1\\
 Tribolo (20) & 1 ma& L \\
 Trucchi per il camuffamento & 50 mo& L\\
@@ -17196,23 +17194,23 @@ Zaino & 2 mo& 1
 Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthur C. Clarke, da Profiles of the Future)
 }\end{enfasi}\end{changemargin}
 
-\textbf{Acido Intenso}. Con un'Azione, puoi spargere il contenuto di questa fiala su di una creatura entro 1 metro da te o lanciare la fiala fino a 6 metri, fracassandola all'impatto. In entrambi i casi, effettua un Tiro per Colpire a distanza contro la creatura o l'oggetto, trattando l'acido come un'arma improvvisata (-1d6 Tiro per Colpire). Se colpisci, il bersaglio subisce 2d6 danni da acido.
+\textbf{Acido Intenso}\label{Acido Intenso}\index{Acido intenso}\hypertarget{Acido Intenso}{}. Con un'Azione, puoi spargere il contenuto di questa fiala su di una creatura entro 1 metro da te o lanciare la fiala fino a 6 metri, fracassandola all'impatto. In entrambi i casi, effettua un Tiro per Colpire a distanza contro la creatura o l'oggetto, trattando l'acido come un'\hyperlink{armaimprovvisata}{arma improvvisata}. Se colpisci, il bersaglio subisce 2d6 danni da acido il primo round ed 1d6 il secondo round.
 
-\textbf{Acqua santa}. Con un'Azione, puoi spargere il contenuto di questa ampolla su di una creatura entro 1 metro da te o lanciare l'ampolla fino a 6 metri, fracassandola all'impatto. In entrambi i casi, effettua un Tiro per Colpire a distanza contro la creatura o l'oggetto, trattando l'Acqua santa come un'arma improvvisata. Se colpisci, e il bersaglio è un immondo o un non morto, subisce 2d4 danni da energia positiva.
+\textbf{Acqua santa}\label{Acqua santa}\index{Acqua santa}\hypertarget{Acqua santa}{}. Con un'Azione, puoi spargere il contenuto di questa ampolla su di una creatura entro 1 metro da te o lanciare l'ampolla fino a 6 metri, fracassandola all'impatto. In entrambi i casi, effettua un Tiro per Colpire a distanza contro la creatura o l'oggetto, trattando l'Acqua santa come un'arma improvvisata. Se colpisci, e il bersaglio è un immondo o un non morto, subisce 2d4 danni da energia positiva.
 
 \textbf{Ampolla (vuota)}: piccola anfora in vetro o ceramica con collo sottile.
 
 \textbf{Anello con Sigillo}: cerchietto di metallo, generalmente pregiato, con un'incisione atta ad imprimere sigilli su ceralacca.
 
-\textbf{Anello per Veleno}: +20 mo, rispetto a costo anello, questo anello ha un piccolo scompartimento sotto la gemma, di solito utilizzato per contenere del veleno. Aprirlo e chiuderlo richiede un'Azione; farlo senza essere notati richiede una prova di Mani di Fata con DC 20.
+\textbf{Anello per Veleno}\label{Anello per veleno}\hypertarget{Anello per veleno}{}: +20 mo, rispetto a costo anello, questo anello ha un piccolo scompartimento sotto la gemma, di solito utilizzato per contenere del veleno. Aprirlo e chiuderlo richiede un'Azione; farlo senza essere notati richiede una prova di Mani di Fata con DC 15.
 
-\textbf{Antitossina}. Una creatura che beve da questa fiala di liquido ottiene +1d6 sui Tiri Salvezza contro il veleno per 1 ora. Non conferisce alcun bonus ai non morti e ai costrutti.
+\textbf{Antitossina}\index{Antitossina}\label{Antitossina}\hypertarget{Antitossina}{}. Una creatura che beve da questa fiala di liquido ottiene +1d6 sui Tiri Salvezza contro il veleno per 1 ora. Non conferisce alcun bonus ai non morti e ai costrutti.
 
-\textbf{Ariete Portatile}. Puoi usare un ariete portatile per abbattere le porte con un bonus di +1d6. Un altro personaggio può aiutarti con l'uso dell'ariete, dandoti +2 sulla prova.
+\textbf{Ariete portatile}\index{Ariete portatile}\label{Ariete portatile}\hypertarget{Ariete portatile}{}. Puoi usare un ariete portatile per abbattere le porte con un bonus di +1d6. Un altro personaggio può aiutarti con l'uso dell'ariete, dandoti +2 sulla prova.
 
 \textbf{Attrezzatura da Pesca}. Questo kit comprende un'asta di legno, filo di seta, taglierino di legno, ami d'acciaio, peso di piombo, esche di velluto e un retino.
 
-\textbf{Bandoliera}. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo e porta fino a 6 oggetti. Estrarre un un oggetto da essa è una Azione gratuita se viene usata un altra Azione per interagire con esso.\index{Bandoliera}
+\textbf{Bandoliera}\label{Bandoliera}\hypertarget{Bandoliera}{}. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo e porta fino a 6 oggetti. Bere una pozione contenuta nella Bandoliera è una Azione Immediata se viene usata un altra Azione per estrarla.\index{Bandoliera}
 
 \textbf{Biglie di Metallo}. Con un'Azione, puoi spargere una singola borsa di queste minuscole biglie di metallo per coprire un quadrato di 3 metri di lato. Una creatura che attraversa l'area coperta deve superare un Tiro Salvezza su Riflessi con DC 13 o cadere prona. Una creatura che attraversa l'area a metà velocità non deve effettuare il Tiro Salvezza.
 
@@ -17223,9 +17221,9 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 %\end{center}
 
 
-\textbf{Cintura porta oggetti}. Questa cintura specializzata per contenere fino a 4 piccoli oggetti quali pozioni o pergamene. Estrarre un un oggetto da essa è una Azione gratuita se viene usata un altra Azione per interagire con esso.\index{Cintura porta oggetti}
+\textbf{Cintura porta oggetti}. Questa cintura specializzata per contenere fino a 4 piccoli oggetti quali pozioni o pergamene. Bere una pozione contenuta nella Cintura porta oggetti è una Azione Immediata se viene usata un altra Azione per estrarla.\index{Cintura porta oggetti}\label{Cintura porta oggetti}\hypertarget{Cintura porta oggetti}{}\index{Cintura porta oggetti}
 
-\textbf{Borsa dei Componenti}. Una borsa dei componenti è un piccolo borsello da cinta di cuoio impermeabile munito di compartimenti contenenti tutte le componenti materiali e altri oggetti speciali di cui hai bisogno per lanciare i tuoi incantesimi, eccetto per quelle componenti che hanno un costo specifico o sono materiali particolari.
+\textbf{Borsa dei Componenti}\label{Borsa dei Componenti}\hypertarget{Borsa dei Componenti}{}. Una borsa dei componenti è un piccolo borsello da cinta di cuoio impermeabile munito di compartimenti contenenti tutte le componenti materiali e altri oggetti speciali di cui hai bisogno per lanciare i tuoi incantesimi, eccetto per quelle componenti che hanno un costo specifico o sono materiali particolari.
 
 \textbf{Borsello}. Un borsello di tessuto o cuoio può contenere, tra le altre cose, fino a 20 proiettili da fionda o 50 aghi da cerbottana. Un borsello diviso in compartimenti per contenere componenti per incantesimi viene detto borsa dei componenti.
 
@@ -17235,25 +17233,23 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 
 \textbf{Cannocchiale}. Gli oggetti osservati tramite un cannocchiale sono ingranditi al doppio delle loro dimensioni.
 
-\textbf{Carrucola e Paranco}. Una serie di leve collegate da un cavo e un gancio per attaccarsi ad oggetti, carrucola e paranco ti permettono di tirare su fino a quattro volte il peso che puoi normalmente sollevare.
+\textbf{Carrucola e Paranco}. Una serie di leve collegate da un cavo e un gancio per attaccarsi ad oggetti, carrucola e paranco ti permettono di tirare su fino a quattro volte il peso che puoi normalmente sollevare.\label{Carrucola e Paranco}\index{Carrucola e Paranco}\hypertarget{Carrucola e paranco}{}
 
-\textbf{Catena}. Una catena ha 15 Punti Ferita e durezza 6. Può essere spezzata superando un Tiro Salvezza Tempra con Forza con DC 24.
+\textbf{Catena}\index{Catena}\hypertarget{Catena}{}. Una catena ha 15 Punti Ferita e durezza 6. Può essere spezzata superando un Tiro Salvezza Tempra con Forza con DC 24. Costa 7 ma per metro.
 
 \textbf{Chiodi da rocciatore}. Se ne deve usare 1 almeno ogni 6 metri per fissare la corda alla parete.
 
 \textbf{Colonia di Scarafaggi Necrofagi}: 3 mo, questa giara di vetro contiene scarafaggi necrofagi carnivori. Gli scarafaggi devono essere nutriti con almeno 125 grammi di carne al giorno oppure muoiono. Quando rilasciati su un organismo morto, ne divorano le carni in 1d4 giorni, lasciando solo le ossa. Gli scarafaggi necrofagi mangiano soltanto la carne morta e non possono danneggiare le creature viventi. Una volta rilasciati, gli scarafaggi non possono essere rimessi nella giara.
 
-\textbf{Corda}. Una corda, che sia fatta di canapa o seta, ha 2 Punti Ferita e può essere spezzata superando un Tiro Salvezza Tempra con Forza con DC 19. La versione grossa ha 4 Punti Ferita, DC 22.
+\textbf{Corda}. Una corda, lunga solitamente 18 metri, che sia fatta di canapa o seta, ha 2 Punti Ferita e può essere spezzata superando un Tiro Salvezza Tempra con Forza con DC 19. La versione grossa ha 4 Punti Ferita, DC 22.\index{Corda}\label{Corda}\hypertarget{Corda}{}
 
 \textbf{Corda di Seta} (15 m): 10 mo, questa corda di seta di ragno ha 4 Punti Ferita e può essere spezzata con un Tiro Salvezza Tempra con Forza con DC 23
 
-\textbf{Faretra}. 3 mo, una faretra può contenere fino a 12 frecce\index{Faretra}.
+\textbf{Faretra}. 3 mo, una faretra può contenere fino a 12 frecce\index{Faretra} o dardi.\label{Faretra}\hypertarget{Faretra}{}
 
 %\begin{center}
 %\includegraphics[width=0.5\linewidth]{immagini/forziere.png}
 %\end{center}
-
-\textbf{Fuoco Alchemico}. Questo fluido appiccicoso si incendia quando entra a contatto con l'aria. Con due azioni, puoi lanciare questa ampolla fino a 6 metri, fracassandola all'impatto. Effettua un Tiro per Colpire a distanza contro la creatura o l'oggetto, trattando il fuoco alchemico come un'arma improvvisata. Se colpisci, il bersaglio subisce 1d6 danni da fuoco all'inizio di ciascun suo round. Una creatura può porre fine a questi danni spendendo due Azioni e superando una prova di Acrobatica con DC 15. Se la prova riesce le fiamme si estinguono.
 
 \textbf{Borsa da Guaritore}. 20 mo. \label{borsadaguaritore}\hypertarget{borsadaguaritore}{}\index{Borsa da Guaritore} Questo kit è una borsa di cuoio contenente bende, unguenti e stecche. Il kit può essere usato dieci volte. Concede un +2 alle prove di Pronto Soccorso.
 
@@ -17261,7 +17257,7 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 
 \textbf{Kit da Scalatore}. 8 mo. Un kit da scalatore comprende chiodi speciali, punte per stivali, guanti e un'imbracatura. Puoi ancorarti usando il kit da scalatore con un'Azione; quando lo fai, non puoi cadere per più di 7 metri dal punto in cui ti sei ancorato, e non puoi arrampicarti a più di 7 metri di distanza dal punto a cui ti sei ancorato senza prima disfare l'ancora.
 
-\textbf{Lanterna}. Una Lanterna proietta luce intensa in un raggio di 3 metri e luce fioca per ulteriori 6 metri. Una volta accesa, brucia per 3 ore di tempo reale di gioco con un'ampolla (0,5 litri) d'olio. Una lanterna si accende in un round solo con Esca e Acciarino oppure con una altra fonte di fiamma.
+\textbf{Lanterna}\label{Lanterna}\index{Lanterna}\hypertarget{Lanterna}{}. Una Lanterna proietta luce intensa in un raggio di 3 metri e luce fioca per ulteriori 6 metri. Una volta accesa, brucia per 3 ore di tempo reale di gioco con un'ampolla (0,5 litri) d'olio da lanterna. Una lanterna si accende in un round solo con Esca e Acciarino oppure con una altra fonte di fiamma.
 
 \textbf{Lanterna a Lente Sporgente}. Una lanterna a lente sporgente proietta luce in un cono di 3 metri e luce fioca per ulteriori 9 metri. Una volta accesa, brucia per 3 di tempo reale di gioco ore con un'ampolla (0,5 litri) d'olio.Una lanterna si accende in un round solo con Esca e Acciarino oppure con una altra fonte di fiamma.
 
@@ -17269,45 +17265,43 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 
 \textbf{Lente del Cacciatore}: 100 mo, questa complessa lente viene posta su un occhio e occupa lo slot occhi quando è in uso. Quando la si utilizza con un attacco a distanza, si riduce di 1d6 le penalità da attacchi a distanza. Gli oggetti entro 9 metri diventano difficili da vedere, e si subisce penalità -1d6 alle prove di Consapevolezza basate sulla vista e Tiri per Colpire.
 
-\textbf{Manette}. Questi strumenti di metallo possono imprigionare una creatura Piccola o Media. Per romperle bisogna superare un Tiro Salvezza Tempra con Forza con DC 24. Ogni set di manette è fornito di una chiave. Senza la chiave, una creatura può usare Artista della Fuga o Disattivare Congegni per aprire la serratura superando una prova DC 18. Le manette hanno 15 Punti Ferita e Durezza 2
+\textbf{Manette}\label{Manette}\index{Manette}\hypertarget{Manette}{}. Questi strumenti di metallo possono imprigionare una creatura Piccola o Media. Per romperle bisogna superare un Tiro Salvezza Tempra con Forza con DC 24. Ogni set di manette è fornito di una chiave. Senza la chiave, una creatura può usare Artista della Fuga o Disattivare Congegni per aprire la serratura superando una prova DC 18. Le manette hanno 15 Punti Ferita e Durezza 3
 
-\textbf{Olio}. Di solito si compra in un'ampolla d'argilla che contiene 0,5 litri. Con un'Azione, puoi spargere l'olio in questa ampolla su di una creatura entro 1 metro da te o lanciarla fino a 6 metri, fracassandola all'impatto. In entrambi i casi, effettua un Tiro per Colpire a distanza contro la creatura o l'oggetto, trattando l'olio come un'arma improvvisata. Se colpisci, il bersaglio è ricoperto d'olio. Se il bersaglio subisce danno da fuoco prima che l'olio si asciughi (dopo 1 minuto), il bersaglio subisce altri 1d6 danni da fuoco dall'olio infiammato per round. Se infiammato, l'olio brucia per 2 round e infligge 1d6 danni da fuoco a qualsiasi creatura che entri nell'area o termini il suo round dentro di essa. Una creatura può subire questo danno solo una volta per round. Puoi anche versare un'ampolla d'olio sul pavimento per coprire un quadrato di 1 metro di lato, purché la superficie sia piana.
+\textbf{Olio da lanterna}\hypertarget{Olio da lanterna}{}. Di solito si compra in un'ampolla d'argilla che contiene 0,5 litri. Si usa per ricaricare le lanterne, Usata come arma improvvisata vedere il \hyperlink{Fuoco dell'Alchimista}{Fuoco dell'Alchimista}, considerando che il danno è 1d4.
 
-\textbf{Piede di Porco}. Utilizzare un piede di porco dà +1d6 alle prove di Forza ogni volta si possa applicare la leva del piede di porco.\hypertarget{piedediporco}{}\label{piedediporco}
+\textbf{Piede di porco}. Utilizzare un piede di porco dà +1d6 alle prove di Forza ogni volta si possa applicare la leva del piede di porco.\hypertarget{piedediporco}{}\label{piedediporco}\index{Piede di porco}
 
-\textbf{Pozione di Cura}. Questa pozione generica di cura consente di recuperare 1d8+1 Punti Ferita.
+\textbf{Pozione di Cura}\index{Pozione di Cura}\hypertarget{Equip Pozione di Cura}{}. Questa pozione generica di cura consente di recuperare 1d8+1 Punti Ferita. Vedi anche \hyperlink{pozionigeneriche}{Pozioni generiche} pag. \pageref{pozionigeneriche}.
 
-\textbf{Pozione di Cura potenziata}. Questa pozione generica di cura consente di recuperare 3d8+3 Punti Ferita.
+\textbf{Pozione di Cura potenziata}\label{Pozione di Cura potenziata}\hypertarget{Equip Pozione di Cura potenziata}{}. Questa pozione generica di cura consente di recuperare 3d8+3 Punti Ferita.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Per quanto sia personalmente contrario all'acquisto di oggetti magici da parte dei personaggi le Pozioni di Cura devono essere disponibili.
 \end{narratore}\end{changemargin}
 
-\textbf{Razioni}. Le razioni consistono di cibo secco adatto a lunghi viaggi, e includono carne secca, frutta secca, gallette e noci.
+\textbf{Razioni}\index{Razioni}\hypertarget{Razioni}{}\label{Razioni}. Le razioni consistono di cibo secco adatto a lunghi viaggi, e includono carne secca, frutta secca, gallette e noci.
 
-\textbf{Esca ed Acciarino}. Questo piccolo contenitore contiene pietra, acciarino ed esca (di solito uno straccio secco imbevuto d'olio) impiegati per appiccare un fuoco. Utilizzarlo per accendere una torcia (o qualsiasi altro oggetto facilmente incendiabile) richiede due Azioni.\index{Accendere una torcia}
+\textbf{Esca ed Acciarino}\index{Esca ed Acciarino}\label{Esca ed Acciarino}\hypertarget{Esca ed Acciarino}{}. Questo piccolo contenitore contiene pietra, acciarino ed esca (di solito uno straccio secco imbevuto d'olio) impiegati per appiccare un fuoco. Utilizzarlo per accendere una torcia (o qualsiasi altro oggetto facilmente incendiabile) richiede due Azioni.\index{Accendere una torcia}
 
 \textbf{Scatola per Mappe o Pergamene}. Questa scatola cilindrica di cuoio può contenere, arrotolati, fino a dieci pezzi di carta o cinque fogli di pergamena.
 
-\textbf{Faretra per Quadrelli da Balestra}. Questa scatola di legno contiene fino a 12 quadrelli per balestra.
-
-\textbf{Serratura}. Insieme alla serratura viene fornita una chiave. Senza la chiave, una creatura può scassinare questa serratura superando una prova di Disattivare Congegni con DC 17. Il Narratore può decidere che per cifre maggiori sono disponibili serrature di qualità migliore.
+\textbf{Serratura}. Insieme alla serratura viene fornita una chiave. Senza la chiave, una creatura può scassinare questa serratura superando una prova di Disattivare Congegni con DC variabile a seconda della bontà della stessa.
 
 %\begin{center}
 %\includegraphics[width=0.6\linewidth]{immagini/serratura.png}
 %\end{center}
 
-\textbf{Simbolo Sacro}. Un simbolo sacro è la raffigurazione di un Patrono. Potrebbe essere un amuleto che raffigura il simbolo di un Patrono, lo stesso simbolo accuratamente inciso o intrecciato su di un emblema o scudo, o una minuscola scatola contenente una reliquia sacra.
+\textbf{Simbolo Sacro}\index{Simbolo Sacro}\label{Simbolo Sacro}. Un simbolo sacro è la raffigurazione di un Patrono. Potrebbe essere un amuleto che raffigura il simbolo di un Patrono, lo stesso simbolo accuratamente inciso o intrecciato su di un emblema o scudo, o una minuscola scatola contenente una reliquia sacra.
 
 \textbf{Tappi per Orecchie} 3 mr, fatti di cotone o sughero cerato, i tappi per orecchie concedono Bonus +2 al Tiro Salvezza contro gli effetti che richiedono l'udito ma infliggono penalità -4 alle prove di Consapevolezza basate sull'udito.
 
-\textbf{Tenda}. Un semplice riparo portabile di tela, una tenda può contenere due persone. Ci vogliono circa 20 minuti per montare una tenda.
+\textbf{Tenda}\label{Tenda}\index{Tenda}\hypertarget{Tenda}{}. Un semplice riparo portabile di tela, una tenda può contenere due persone. Ci vogliono circa 20 minuti per montare una tenda.
 
 \textbf{Tomo di Magia}. Un Tomo di Magia di 50 pagine, ovvero che può contenere 50 livelli di incantesimo costa 250 mo. Solitamente se l'incantatore proviene da una Accademia di Magia o da una congrega di Devoti può acquistarlo a metà del prezzo.\index{Tomo di Magia, acquistare}
 
-\textbf{Torcia}. Una torcia brucia per \textbf{1 ora di tempo di gioco reale}, fornendo luce in un raggio di 3 metri e luce fioca per ulteriori 6 metri. Se effettui un Tiro per Colpire con una torcia accesa, arma improvvisata, e colpisci, infliggi 1d4 di danno più 1 danno da fuoco aggiuntivo. 
+\textbf{Torcia}\label{Torcia}\hypertarget{Torcia}{}. Una torcia brucia per \textbf{1 ora di tempo di gioco reale}, fornendo luce in un raggio di 3 metri e luce fioca per ulteriori 6 metri. Se effettui un Tiro per Colpire con una torcia accesa, arma improvvisata, e colpisci, infliggi 1d6 di danno più 1 danno da fuoco aggiuntivo ma consumi 10 minuti della sua durata.
 
-Sono necessarie 2 Azioni usando Esca ed Acciarino per accendere una Torcia, 1 Azione se la accendi tramite un altro fuoco già acceso, altrimenti è necessaria una prova di Sopravvivenza a DC 17 e ci si impiega 1 minuto.\index{Torcia}
+Sono necessarie 2 Azioni usando Esca ed Acciarino per accendere una Torcia, 1 Azione se la accendi tramite un altro fuoco già acceso, altrimenti è necessaria una prova di Sopravvivenza a DC 17 e ci si impiega 1 minuto.\index{Torcia}\index{Accendere una torcia}
 
 \textbf{Trappola da Caccia}. 12 mo, 2. Usi due azioni per disporre questa trappola, formata da un anello d'acciaio seghettato, che scatta quando una creatura calpesta la piastra metallica al centro di essa. La trappola è fissata tramite una catena pesante a un oggetto immobile, come un albero o uno spuntone conficcato nel terreno. Una creatura che calpesti la piastra deve superare un Tiro Salvezza su Riflessi con DC 15 o subire 1d4 danni perforanti e interrompere il movimento. Una creatura può usare 2 azioni per superare un Tiro Salvezza Tempra con Forza con DC 15, e se la riesce si libera o libera un'altra creatura a portata. Ogni tentativo fallito infligge 1 danno perforante alla creatura intrappolata.
 
@@ -17323,31 +17317,31 @@ Sono necessarie 2 Azioni usando Esca ed Acciarino per accendere una Torcia, 1 Az
 %\end{center}
 
 
-\textbf{Tribolo}. Con un'Azione, puoi spargere una singola borsa di questi minuscoli triboli per coprire un'area quadrata di 1 metro di lato. Una creatura che attraversa l'area coperta deve superare un Tiro Salvezza su Riflessi con DC 15 o subire 1 danno perforante. Finché la creatura non recupera almeno 1 punto ferita, la sua velocità a piedi è diminuita di 3 metri. Una creatura che attraversa l'area a metà velocità non deve effettuare il Tiro
+\textbf{Tribolo}\label{Tribolo}\index{Tribolo}. Con un'Azione, puoi spargere una singola borsa di questi minuscoli triboli per coprire un'area quadrata di 1 metro di lato. Una creatura che attraversa l'area coperta deve superare un Tiro Salvezza su Riflessi con DC 15 o subire 1 danno perforante. Finché la creatura non recupera almeno 1 punto ferita, la sua velocità a piedi è diminuita di 3 metri. Una creatura che attraversa l'area a metà velocità non deve effettuare il Tiro Salvezza.
 
-\textbf{Veleno Base}. Puoi usare il veleno in questa fiala per coprire un'arma tagliente o perforante o fino a tre pezzi di munizioni. Applicare il veleno necessita un'azione. Una creatura colpita da un'arma o munizione avvelenata deve superare un Tiro Salvezza su tempra con DC 12 o subire 1d4 danni da veleno.
+\textbf{Veleno Base}\index{Veleno Base}\label{Veleno Base}. Puoi usare il veleno in questa fiala per coprire un'arma tagliente o perforante o fino a tre pezzi di munizioni. Applicare il veleno necessita un'azione. Una creatura colpita da un'arma o munizione avvelenata deve superare un Tiro Salvezza su tempra con DC 12 o subire 1d4 danni da veleno.
 Una volta applicato, il veleno mantiene la sua efficacia per 1 minuto prima di seccarsi.
 
-\subsubsection{Dotazioni di base}
+\subsubsection{Dotazioni di base}\index{Dotazioni di base}\hypertarget{Dotazioni di base}{}
 Se il personaggio sceglie di acquistare il suo equipaggiamento di partenza, può acquistare una dotazione al prezzo indicato, che generalmente è più conveniente rispetto all'acquisto dei singoli oggetti separati.
 
-\textbf{Dotazione da Avventuriero (18 mo)}. Include uno zaino, un piede di porco, un martello, 10 chiodi da rocciatore, 10 torce, un acciarino e pietra focaia, 10 razioni giornaliere e un otre. La dotazione include anche 15 metri di corda di canapa legata allo zaino.
+\textbf{Dotazione da Avventuriero (18 mo)}\index{Dotazione da Avventuriero}. Include uno zaino, un piede di porco, un martello, 10 chiodi da rocciatore, 10 torce, Esca ed Acciarino, 10 razioni giornaliere e un otre. La dotazione include anche 15 metri di corda di canapa legata allo zaino.
 
-\textbf{Dotazione da Cacciatore (24 mo)}: contiene acciarino e pietra focaia, una borsa da cintura, una corda 18m, un giaciglio, una cerata, un otre, una pentola di ferro, razioni da viaggio (5 giorni), torce (10) e uno zaino.
+\textbf{Dotazione da Cacciatore (24 mo)}\index{Dotazione da Cacciatore}: contiene Esca ed Acciarino, una borsa da cintura, una corda 18m, un giaciglio, una cerata, un otre, una pentola di ferro, razioni da viaggio (5 giorni), torce (10) e uno zaino.
 
-\textbf{Dotazione da Diplomatico (57 mo)}. Include un forziere, 2 custodie per mappe e pergamene, un abito pregiato, una boccetta di inchiostro, un pennino, una lanterna, 2 ampolle di olio, 5 fogli di carta, una fiala di profumo, cera per sigillo e sapone.
+\textbf{Dotazione da Diplomatico (57 mo)}\index{Dotazione da Diplomatico}. Include un forziere, 2 custodie per mappe e pergamene, un abito pregiato, una boccetta di inchiostro, un pennino, una lanterna, 2 ampolle di olio, 5 fogli di carta, una fiala di profumo, cera per sigillo e sapone.
 
-\textbf{Dotazione da Devoto (30 mo)}: contiene acciarino e pietra focaia, una borsa da cintura, una Borsa per Componenti di Incantesimi, candele (10), corda 18m, un giaciglio, una pentola di ferro, un otre, razioni da viaggio (per 5 giorni), sapone, un simbolo sacro di legno, un testo sacro economico, torce (10) e uno zaino.
+\textbf{Dotazione da Devoto (30 mo)}\index{Dotazione da Devoto}: contiene Esca ed Acciarino, una borsa da cintura, una Borsa per Componenti di Incantesimi, candele (10), corda 18m, un giaciglio, una pentola di ferro, un otre, razioni da viaggio (per 5 giorni), sapone, un simbolo sacro di legno, un testo sacro economico, torce (10) e uno zaino.
 
-\textbf{Dotazione da Esploratore (16 mo)}. Include uno zaino, un giaciglio, una gavetta, un acciarino e pietra focaia, 10 torce, 10 razioni giornaliere, un piede di porco e un otre. La dotazione include anche 15 metri di corda di canapa legata allo zaino.
+\textbf{Dotazione da Esploratore (16 mo)}\index{Dotazione da Esploratore}. Include uno zaino, un giaciglio, una gavetta, Esca ed Acciarino, 10 torce, 10 razioni giornaliere, un piede di porco e un otre. La dotazione include anche 15 metri di corda di canapa legata allo zaino.
 
-\textbf{Dotazione da Esploratore di caverne (24 mo)}: contiene un insieme di attrezzi di base per esplorare rovine e città abbandonate include 2 candele, un piede di porco, un gessetto, un martello e 4 Chiodi da Rocciatore, 18 metri di corda, una lanterna schermabile con 5 ampolle d'olio, 2 sacchi, 2 torce, razioni da viaggio (per 3 giorni)
+\textbf{Dotazione da Esploratore di caverne (24 mo)}\index{Dotazione da Esploratore di caverne}: contiene un insieme di attrezzi di base per esplorare rovine e città abbandonate include 2 candele, un piede di porco, un gessetto, un martello e 4 Chiodi da Rocciatore, 18 metri di corda, una lanterna schermabile con 5 ampolle d'olio, 2 sacchi, 2 torce, razioni da viaggio (per 3 giorni)
 
-\textbf{Dotazione da Intrattenitore (60 mo}). Include uno zaino, un giaciglio, 2 costumi, 5 candele, 5 razioni giornaliere, un otre e trucchi per il camuffamento.
+\textbf{Dotazione da Intrattenitore (60 mo})\index{Dotazione da Intrattenitore}. Include uno zaino, un giaciglio, 2 costumi, 5 candele, 5 razioni giornaliere, un otre e trucchi per il camuffamento.
 
-\textbf{Dotazione da Scassinatore (24 mo)}. Include uno zaino, un sacchetto con 1000 sfere metalliche, 3 metri di spago, una campanella, 5 candele, un piede di porco, un martello, 10 chiodi da rocciatore, una lanterna schermabile, 2 ampolle di olio, 5 razioni giornaliere, un acciarino e pietra focaia e un otre. La dotazione include anche 15 metri di corda di canapa legata allo zaino.
+\textbf{Dotazione da Scassinatore (24 mo)}\index{Dotazione da Scassinatore}. Include uno zaino, un sacchetto con 1000 sfere metalliche, 3 metri di spago, una campanella, 5 candele, un piede di porco, un martello, 10 chiodi da rocciatore, una lanterna schermabile, 2 ampolle di olio, 5 razioni giornaliere, Esca ed Acciarino e un otre. La dotazione include anche 15 metri di corda di canapa legata allo zaino.
 
-\textbf{Dotazione da Studioso (60 mo)}. Include uno zaino, un libro di studio, una boccetta d'inchiostro, un pennino, 10 fogli di pergamena, un sacchetto di sabbia e un coltellino.
+\textbf{Dotazione da Studioso (60 mo)}\index{Dotazione da Studioso}. Include uno zaino, un libro di studio, una boccetta d'inchiostro, un pennino, 10 fogli di pergamena, un sacchetto di sabbia e un coltellino.
 
 
 \end{multicols}
@@ -17368,19 +17362,19 @@ Caraffa&4 litri liquidi&2&Zaino&2 cubi con spigolo di 30 cm/30 kg di equipaggiam
 
 \medskip
 
-Esiste anche la versione dello Zaino Perfetto (+100 mo) che concede un +1 al valore di Ingombro trasportabile.
+Esiste anche la versione dello Zaino Perfetto (+100 mo) che concede un +2 al valore di Ingombro trasportabile.
 
 \begin{multicols}{2}
 
-\subsubsection{Strumenti}
+\subsubsection{Strumenti}\index{Strumenti}\index{Attrezzi}
 
-L'elenco degli strumenti presentati aiuta i personaggi ad eseguire le prove legate alle loro professioni.
+L'elenco degli strumenti o attrezzi presentati aiuta i personaggi ad eseguire le prove legate alle loro professioni o situazioni.
 
-Le prove legate alle professioni sono solitamente legate alla Saggezza.
+Le prove legate alle professioni sono solitamente calcolate come 3d6+LV/2 + Saggezza.
 
 Ad esempio una prova di \emph{Calligrafia} si risolve con una prova di Saggezza, se il personaggio ha a disposizione gli strumenti idonei (\emph{Scorte da Calligrafo}) ottiene un bonus di +2 alla prova.
 
-Se il personaggio deve effettuare una prova su quella che è la sua professione questa sarà fatta con un bonus pari a metà del livello del personaggio, se ha a disposizione anche gli strumenti la prova un ulteriore bonus di +2.
+Se il personaggio effettua una prova utilizzando strumenti o attrezzi specifici ha un bonus di +2.
 
 \end{multicols}
 
@@ -17432,18 +17426,18 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 \end{center}
 
 
-\textbf{Sella}. Un cavalcatore può agganciarsi a una sella militare per rimanere al suo posto su una cavalcatura attiva, nel corso di una battaglia. Una sella militare conferisce +1d6 alle prove che il personaggio effettua per rimanere in sella. Una sella da carico è una sella solo adatta a permettere il trasporto di bisacce alla cavalcatura. E' necessaria una sella esotica per cavalcare una creatura acquatica o volante.
+\textbf{Sella}\index{Sella}\hypertarget{Sella}{}. Un cavalcatore può agganciarsi a una sella militare per rimanere al suo posto su una cavalcatura attiva, nel corso di una battaglia. Una sella militare conferisce +1d6 alle prove che il personaggio effettua per rimanere in sella. Una sella da carico è una sella solo adatta a permettere il trasporto di bisacce alla cavalcatura. E' necessaria una sella esotica per cavalcare una creatura acquatica o volante.
 
 
 %\begin{center}
 %\includegraphics[height=0.7\linewidth]{immagini/sella2.png}
 %\end{center}
 
-\textbf{Imbarcazioni a Remi}. I barconi e le barche a remi sono solitamente usati sui laghi e sui fiumi. Se un'imbarcazione segue la corrente, si aggiunge la velocità della corrente (solitamente 4,5 km all'ora) alla sua velocità. In genere non è possibile remare controcorrente se la corrente ha un'intensità rilevante, ma è possibile far risalire un corso d'acqua a queste imbarcazioni portandole a riva e facendole trainare da una o più bestie da soma. Una barca a remi pesa 50 kg (Ingombro 15) qualora gli avventurieri debbano trasportarla via terra.
+\textbf{Imbarcazioni a Remi}\hypertarget{Barca a remi}{}\label{Barca a remi}\index{Barca a remi}. I barconi e le barche a remi sono solitamente usati sui laghi e sui fiumi. Se un'imbarcazione segue la corrente, si aggiunge la velocità della corrente (solitamente 4,5 km all'ora) alla sua velocità. In genere non è possibile remare controcorrente se la corrente ha un'intensità rilevante, ma è possibile far risalire un corso d'acqua a queste imbarcazioni portandole a riva e facendole trainare da una o più bestie da soma. Una barca a remi pesa 50 kg (Ingombro 15) qualora gli avventurieri debbano trasportarla via terra.
 
 \medskip
 
-\textbf{Tabella: Cavalcature e Altri Animali}\index[Tabelle]{Tabella Cavalcature e Altri Animali}\label{costicavalcature}
+\textbf{Tabella: Cavalcature e Altri Animali}\index[Tabelle]{Tabella Cavalcature e Altri Animali}\label{costicavalcature}\index{Cavalcature}
 
 \begin{tabularx}{0.42\textwidth}{ll}
 \toprule
@@ -17458,7 +17452,7 @@ Saurovallo nano&30 mo
 \end{tabularx}
 
 
-\textbf{Finimenti e Veicoli da Tiro}
+\textbf{Finimenti e Veicoli da Tiro}\index{Veicoli}\label{Veicoli}\hypertarget{Veicoli}{}
 
 \begin{tabularx}{0.45\textwidth}{llX}
 \toprule
@@ -17468,14 +17462,14 @@ Biga&250 mo&50 kg\\
 Bisacce&4 mo&4 kg\\
 Carretto&15 mo&100 kg\\
 Carro&35 mo&200 kg\\
-Carrozza&100 mo&300 kg\\
+Carrozza&300 mo&300 kg\\
 Morso e Briglie&2 mo&0,5 kg\\
 Nutrimento (al giorno)&5 mr&2 kg
 \end{tabularx}
 
 \bigskip
 
-\textbf{Sella}
+\textbf{Sella}\index{Sella}\index{Sellalista}
 
 \begin{tabularx}{0.45\textwidth}{llX}
 \toprule
@@ -17490,7 +17484,7 @@ Stallaggio (al giorno)&1 ma&
 
 \bigskip
 
-\textbf{Imbarcazioni}
+\textbf{Imbarcazioni}\index{Imbarcazioni}\hypertarget{Imbarcazioni}{}
 
 \begin{tabularx}{0.45\textwidth}{llX}
 \toprule
@@ -17503,7 +17497,7 @@ Nave da Guerra&25000 mo&3,75 km orari\\
 Nave Lunga&10000 mo&4,5 km orari
 \end{tabularx}
 
-\subsubsection{Servizi}
+\subsubsection{Servizi}\index{Servizi}
 
 
 Gli avventurieri possono pagare i personaggi non giocanti affinché li aiutino o agiscano in loro vece nelle circostanze più disparate. La maggior parte di questi gregari è dotata di abilità pressoché ordinarie, mentre altri hanno padroneggiato un'arte o un mestiere e alcuni si sono specializzati in qualche abilità da avventuriero.
@@ -17534,7 +17528,7 @@ Pedaggio di ingresso&5 mr/5 ma
 \includegraphics[width=0.6\linewidth]{immagini/riempitivocavalieriapranzo.png}
 \end{center}
 
-\subsubsection{Servizi Magici}
+\subsubsection{Servizi Magici}\index{Servizi Magici}
 
 \textbf{Livello Incantesimo x Livello Incantesimo ×100 mo}
 
@@ -17567,7 +17561,7 @@ La sostanza non agisce su creature di taglia Enorme o superiore. Una creatura vo
 
 \textbf{Fumogeno} 25 mo, questa piccola sfera di argilla contiene due sostanze alchemiche separate da una sottile barriera. Quando si rompe la sfera, le sostanze si uniscono e riempiono un area di mischia con una nuvola di fumo nerastro e innocuo. Il fumogeno funziona come un bastone del fumo, ma il fumo rimane per 1 round prima di disperdersi. E' possibile lanciare un fumogeno come attacco di contatto con gittata 3 metri.
 
-\textbf{Fuoco dell'Alchimista} 20 mo, si può lanciare un'ampolla di fuoco dell'alchimista come arma a spargimento. Si consideri l'attacco come un attacco di contatto a distanza, con gittata 3 metri.
+\textbf{Fuoco dell'Alchimista}\index{Fuoco dell'Alchimista}\hypertarget{Fuoco dell'Alchimista}{} 20 mo, si può lanciare un'ampolla di fuoco dell'alchimista come arma a spargimento. Si consideri l'attacco come un attacco di contatto a distanza con arma improvvisata, con gittata 3 metri.
 
 Il colpo diretto provoca 1d6 danni da fuoco. Tutte le creature entro raggio di mischia dal punto in cui è caduta l'ampolla subiscono 1 danno da fuoco come effetto dello spargimento. Nel round successivo al colpo diretto la vittima subisce 1d6 danni da fuoco aggiuntivi. La vittima può sfruttare 1 Azione per tentare di spegnere le fiamme prima di subire questi danni aggiuntivi. Occorre superare un Tiro Salvezza su Riflessi con DC 15 per spegnere le fiamme. Usare 2 Azioni dà al personaggio bonus +2 al Tiro Salvezza. Tuffarsi in acqua o smorzare le fiamme con mezzi magici spegne automaticamente le fiamme.
 
@@ -17590,7 +17584,7 @@ La piastra viene venduta avvolta in un panno pesante per evitare esposizioni acc
 
 \textbf{Solvente Universale} (fiala) 20 mo, questa gelatina viola ribollente divora gli adesivi. Ogni fiala può coprire un quadretto di 1 metro. Distrugge i normali adesivi (come la pece, la resina o la colla) in 1 round, ma richiede 1d4+1 round per dissolvere adesivi più potenti (borse dell'impedimento, ragnatele, ecc.). Non ha effetti sugli adesivi magici.
 
-\textbf{Tizzone Ardente} 1 mo, la sostanza alchemica sulla punta di questo piccolo bastone di legno si infiamma quando viene sfregata contro una superficie ruvida. Creare una fiamma con un tizzone ardente è molto più rapido che crearla con acciarino, pietra focaia (o lente d'ingrandimento) e esca. Accendere una torcia con un tizzone ardente costa 1 Azione (invece che 2 Azioni) e per accendere qualsiasi altro fuoco occorre almeno 3 Azioni. Monouso.
+\textbf{Tizzone Ardente} 1 mo, la sostanza alchemica sulla punta di questo piccolo bastone di legno si infiamma quando viene sfregata contro una superficie ruvida. Creare una fiamma con un tizzone ardente è molto più rapido che crearla con Esca ed Acciarino (o lente d'ingrandimento) e esca. Accendere una torcia con un tizzone ardente costa 1 Azione (invece che 2 Azioni) e per accendere qualsiasi altro fuoco occorre almeno 3 Azioni. Monouso.
 
 \subsubsection{Attrezzature Alchemiche}
 
@@ -17631,7 +17625,7 @@ Quando l'effetto dell'aiuto gassato si esaurisce, si aumenta di 1 grado il livel
 Lo Zaino Standard\textregistered \space è una lista di oggetti che ho segnato nel tempo andando ad aggiungere ogni cosa che nel corso delle avventure mi era servito.
 Prendetela come spunto per capire che oggetti avere dietro, non segnateveli tutti altrimenti il Narratore incomincerà seriamente a guardare le regole dell'Ingombro!
 
-Questo il contenuto dello zaino dell'avventuriero: cintura, 3 candele, 6 torce, esca e acciarino, 7 razioni secche, tenda da 2 persone, otre per l'acqua, materasso arrotolato, sacco a pelo, cerata, tenda, 18 metri corda, rete, specchio di metallo, piede di porco, bussola, 3 olio da lanterna, inchiostro, gesso, carboncino, uncino, vanga, amo da pesca, stracci, cavo di metallo 2m, fischietto, 6 fiale da pozione vuote, biglie di marmo, campanella in ottone, 1kg di farina in sacchetto, 3 zeppe, catena di metallo 12 metri, 2 manette, 8 chiodi da rocciatore, martello, carrucola, rampino, bandoliera.
+Questo il contenuto dello zaino dell'avventuriero: cintura, 3 candele, 6 torce, Esca ed Acciarino, 7 razioni secche, tenda da 2 persone, otre per l'acqua, materasso arrotolato, sacco a pelo, cerata, tenda, 18 metri corda, rete, specchio di metallo, piede di porco, bussola, 3 olio da lanterna, inchiostro, gesso, carboncino, uncino, vanga, amo da pesca, stracci, cavo di metallo 2m, fischietto, 6 fiale da pozione vuote, biglie di marmo, campanella in ottone, 1kg di farina in sacchetto, 3 zeppe, catena di metallo 12 metri, 2 manette, 8 chiodi da rocciatore, martello, carrucola, rampino, bandoliera.
 
 %\begin{center}
 %\includegraphics[width=0.8\linewidth]{immagini/mercante.png}
@@ -27295,7 +27289,7 @@ Alcuni ankheg sono addestrabili e possono diventare animali da carico, sebbene i
 
 \emph{Colpisce:} 3 (1d4 + 1) danni contundenti.
 
-\emph{\textbf{Canto Ammaliatore.}} L'arpia canta una melodia magica. Ogni umanoide e gigante entro 90 metri dall'arpia e che possa udire la canzone deve riuscire un Tiro Salvezza di Volontà DC 13 o restare affascinato fino al termine della canzone. L'arpia deve effettuare un'azione gratuita durante il suo prossimo round per continuare a cantare. Può smettere di cantare in qualsiasi momento. Il canto ha termine se l'arpia è inabile.
+\emph{\textbf{Canto Ammaliatore.}} L'arpia canta una melodia magica. Ogni umanoide e gigante entro 90 metri dall'arpia e che possa udire la canzone deve riuscire un Tiro Salvezza di Volontà DC 13 o restare affascinato fino al termine della canzone. L'arpia deve effettuare un'Azione Immediata durante il suo prossimo round per continuare a cantare. Può smettere di cantare in qualsiasi momento. Il canto ha termine se l'arpia è inabile.
 
 Mentre è affascinato dall'arpia, un bersaglio è inabile e ignora le canzoni di altre arpie. Se il bersaglio affascinato si trova a più di 1 metro dall'arpia, il bersaglio deve muoversi durante il proprio round per dirigersi verso l'arpia usando la via più diretta. Prima di muoversi in un terreno pericoloso, come lava o un pozzo, e prima di subire danno da qualsiasi fonte che non sia l'arpia, il bersaglio potrà ripetere il Tiro Salvezza. Una creatura può ripetere il Tiro Salvezza al termine di ciascun proprio round. Se il Tiro Salvezza ha successo, l'effetto ha termine per quel bersaglio.
 
@@ -38893,7 +38887,7 @@ Una \textbf{rana} è sprovvista di attacchi. Si nutre di piccoli insetti e di so
 \emph{Colpisce:} 1 danno perforante.
 
 
-\smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Ratto Gigante} \hypertarget{Ratto Gigante}{}\hypertarget{Ratto Gigante}{}\medskip \noindent{\large\textbf{Ratto Gigante}}
+\smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Ratto Gigante} \hypertarget{Ratto Gigante}{}\medskip \noindent{\large\textbf{Ratto Gigante}}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
     \item[\textbf{Tipo:}] Piccola bestia, disallineato
     \item[\textbf{Caratt.:}] For -2 Des 2 Cos 0 Int -4 Sag 0 Car -3
