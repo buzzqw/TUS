@@ -842,7 +842,7 @@ aggiornata versione POD 2025/03/10
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
 - i componenti degli incantesimi sono opzionali, ma usare ingredienti particolari/rari migliora l'incantesimo
-- specializzazione in liste di magia al posto di Abilità di Lista
+- specializzazione in liste di magia al posto di Abilità di Lista -> Lista Magistrale al primo cm e ogni 6 ne prendi una, ne hai una svantaggiata
 - controllare immagini che non si vedono bene stampate
 - suggerimento per il narratore, non usare lo screen
 - opportunista valutare se darlo a quali mostri
