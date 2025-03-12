@@ -836,13 +836,12 @@ aggiornata versione POD 2025/03/03
 
 aggiornata versione POD 2025/03/10
 
-0.99.45 indicato il danno per round circa di una creatura avversaria, alcuni chiarimenti per vita e morte, aggiornato incantesimo Aiuto - Alterare se stesso - Amicizia con gli Animali - Bagliore Solare - banchetto degli eroi - barriera di lame - Bastoni in Serpenti - benedizione - Blocca Persona Avanzato - camminare nel vento - Caratteristica Potenziata - Contagio - Creare Cibo e Acqua - Cura Ferite - Danza Irresistibile - Distruggere nonmorto - Dito della Morte - Dominare Bestie - Esplosione Solare - Evoca Elementale - Fatale - Ferire - Fulmine a catena - Guarigione - Individuazione del Magico - Labirinto - Mano Magica - Passare Senza Tracce - rianimare i morti - Rigenerazione - Ritirata Rapida - Schiaffo di Cattalm - Scudo - Silezio - Sfera Elastica - Trasformazione, aggiunto dettagli su visione del vero, aggiornate scuole di magia, aggiornata Tabella: Effetti Fallimento Critico magico, chiarimenti su tomo della magia, 
+0.99.45 indicato il danno per round circa di una creatura avversaria, alcuni chiarimenti per vita e morte, aggiornato incantesimo Aiuto - Alterare se stesso - Amicizia con gli Animali - Bagliore Solare - banchetto degli eroi - barriera di lame - Bastoni in Serpenti - benedizione - Blocca Persona Avanzato - camminare nel vento - Caratteristica Potenziata - Contagio - Creare Cibo e Acqua - Cura Ferite - Danza Irresistibile - Distruggere nonmorto - Dito della Morte - Dominare Bestie - Esplosione Solare - Evoca Elementale - Fatale - Ferire - Fulmine a catena - Guarigione - Individuazione del Magico - Labirinto - Mano Magica - Passare Senza Tracce - rianimare i morti - Rigenerazione - Ritirata Rapida - Schiaffo di Cattalm - Scudo - Silezio - Sfera Elastica - Trasformazione, aggiunto dettagli su visione del vero, aggiornate scuole di magia, aggiornata Tabella: Effetti Fallimento Critico magico, chiarimenti su tomo della magia, aggiunta abilita' un solo credo, 
 
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
 - i componenti degli incantesimi sono opzionali, ma usare ingredienti particolari/rari migliora l'incantesimo
-- specializzazione in liste di magia al posto di Abilità di Lista -> Lista Magistrale al primo cm e ogni 6 ne prendi una, ne hai una svantaggiata
 - controllare immagini che non si vedono bene stampate
 - suggerimento per il narratore, non usare lo screen
 - opportunista valutare se darlo a quali mostri

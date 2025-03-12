@@ -5360,7 +5360,9 @@ La \textbf{seconda volta} che prendi questa Abilità, requisito Competenza Magic
 
 \ability{Esperto}{esperto}{Caratteristica collegata almeno a -1}{+1 a due Tiri Salvezza a scelta.}{a scelta}
 
-Sei un esperto in un argomento. Ogni qual volta prendi questa Abilità guadagni un +1 alle prove su una Competenza a tua scelta.
+Sei un esperto in un argomento.
+
+La \textbf{prima volta} che prendi questa Abilità guadagni un +1 alle prove su una Competenza base a tua scelta.
 
 La \textbf{seconda volta} che prendi questa Abilità aggiungi +2 alla prova. Puoi prendere 10 alla prova impiegando 5 round anziché 10 (vedi pag. \pageref{prendere10}).
 
@@ -5727,11 +5729,7 @@ Attivare, mantenere o cambiare effetto dell'Abilità richiede 2 Azioni e dura fi
 
 Aumenti l'iniziativa di +1. L'Abilità può essere presa fino a 2 volte ed il bonus si cumula.
 
-\ability{La mia pelle}{lamiapelle}{Competenza Armi 1
-
-}{+3 Tempra
-
-}{Costituzione o Forza}
+\ability{La mia pelle}{lamiapelle}{Competenza Armi 1}{+3 Tempra}{Costituzione o Forza}
 
 Hai un rapporto quasi simbiotico con la tua armatura.
 
@@ -5741,9 +5739,7 @@ La \textbf{seconda volta} che prendi questa Abilità, requisito Competenza Armi 
 
 \ability{La mia morte la tua morte}{lamiamortelatuamorte}{Competenza Armi 1, Forza 1
 
-}{+2 Tempra, +1 Volontà
-
-}{Carisma o Forza}
+}{+2 Tempra, +1 Volontà}{Carisma o Forza}
 
 Per ogni singolo avversario in combattimento puoi fare che il primo colpo a segno dello scontro causi un danno aggiuntivo pari al doppio di Competenza Armi. L'avversario guadagna un bonus al Tiro per Colpire ed al danno pari al valore della tua Competenza Armi al primo Tiro per Colpire effettuato entro la fine del round successivo. 
 
@@ -5752,6 +5748,24 @@ L'Abilità va dichiarato prima del Tiro per Colpire e dura fino all'inizio del p
 \ability{La mia Testa è più Dura}{lamiatestaepiudura}{Competenza Armi 1}{+1 Tempra, +1 Volontà}{Forza o Costituzione}
 
 La tua arma, presente nella Lista Armi Rompi Cranio, fa +2 danni
+
+\ability{Opzionale - Un solo credo}{unsolocredo}{Competenza Magica 2}{+1 Volontà, +1 Tempra}{Modificatore di caratteristica per incantesimi}\label{unsolocredo}
+
+Il personaggio dedica la propria vita allo studio e perfezionamento di una sola Lista di Magia.
+
+La \textbf{prima volta} che prende questa Abilità devi scegliere una Lista di Magia \emph{preferita} ed una \emph{opposta}.
+
+Nella lista \emph{preferita} il costo di lancio degli incantesimi diminuisce di 1 rimanendo un costo minimo di 1. Scegli altre 3 Liste di Magia \emph{opposte} dove il costo di lancio degli incantesimi aumenta di 1.
+
+La \textbf{seconda volta} che prendi questa Abilità, requisito Competenza Magica 6, nella Lista di Magia \emph{preferita} le Prove di Magia vengono effettuate con 1d6 aggiuntivo e puoi scartare 1 dado dalla stessa. Le Prove di Magia che coinvolgono le liste \emph{opposte} vengono fatte con 1d6 in più.
+
+La \textbf{terza volta} che prendi questa Abilità, requisito Competenza Magica 11, nella Lista di Magia \emph{preferita} quando fai una Prova di Magia conti un 6 in più rispetto a quanti tirati. Non puoi più lanciare incantesimi da una Lista di Magia \emph{opposta}.
+
+La \textbf{quarta volta} che prendi questa Abilità, requisito Competenza Magica 16, nella Lista di Magia \emph{preferita} in caso di fallimento critico nella Prova di Magia puoi ritirarla. Scegli un altra Lista di Magia \emph{opposta} dal quale non puoi più lanciare incantesimi.
+
+Questa Abilità non può essere presa assieme a: \hyperlink{figliounico}{Figlio Unico}, \hyperlink{magiepotenti}{Magie Potenti}, \hyperlink{specialista}{Specialista}.
+
+Se si permette questa Abilità si suggerisce di non usare le \hyperlink{abilitadilista}{Abilità di Lista} (pag. \pageref{abilitadilista}).
 
 \ability{Lesto}{lesto}{Competenza Armi 3}{+1 Riflessi, +1 Volontà}{Destrezza o Forza}
 
@@ -5886,7 +5900,7 @@ Ogni qual volta si prende nuovamente questa Abilità si sceglie un ambiente dive
 
 Le \textbf{seconda volta} che prendi quest'Abilità sul medesimo terreno acquisisci una capacità specifica a seconda del terreno.
 
-\begin{itemize}
+\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 
 \item \emph{Giungla / Foresta / Collina / Pianura}: il tuo movimento aumenta di 1 metro su questo terreno
 
@@ -6000,11 +6014,7 @@ Se colpisci, oltre al danno ed un danno critico, l'avversario che deve essere ma
 
 Se fallisce il Tiro Salvezza in maniera critica subisce un ulteriore danno critico.
 
-\ability{Questo è il mio pugnale}{questoeilmiopugnale}{Competenza Armi 1
-
-}{+2 Tempra, +1 Riflessi
-
-}{Destrezza o Carisma}
+\ability{Questo è il mio pugnale}{questoeilmiopugnale}{Competenza Armi 1}{+2 Tempra, +1 Riflessi}{Destrezza o Carisma}
 
 Quando fai un danno critico con il tuo pugnale sommi un ulteriore danno critico. L'Abilità è usabile 1 volta per avversario e si applica automaticamente al primo danno critico effettuato.
 
@@ -6038,9 +6048,9 @@ Puoi prendere questa Abilità \textbf{fino a 3 volte}, ogni volta il bonus al Ti
 
 Nel tempo hai allenato la tua Costituzione a reggere gli urti, trasformazioni, veleni e quant'altro volesse modificare il tuo corpo. 
 
-La prima volta che prendi questa Abilità ottieni un bonus di +2 al Tiro Salvezza su Tempra. Il bonus è cumulativo, +2 la prima volta, +1 la \textbf{seconda}, +1 la \textbf{terza}.
+La \textbf{prima volta} che prendi questa Abilità ottieni un bonus di +2 al Tiro Salvezza su Tempra. Il bonus è cumulativo, +2 la prima volta, +1 la \textbf{seconda}, +1 la \textbf{terza}.
 
-La quarta volta che prendi questa Abilità puoi decidere di riuscire automaticamente in un Tiro Salvezza su Tempra una volta al giorno come Reazione. Deve essere dichiarata e non fa tirare il Tiro Salvezza.
+La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire automaticamente in un Tiro Salvezza su Tempra una volta al giorno come Reazione. Deve essere dichiarata e non fa tirare il Tiro Salvezza.
 
 \ability{Riflessi fulminei}{riflessifulminei}{Destrezza 1}{nessuno}{Destrezza o Intelligenza}
 
@@ -6270,7 +6280,7 @@ La \textbf{quarta volta} che prendi questa Abilità puoi decidere di riuscire au
 
 \begin{center}
 	
-	\includegraphics[width=0.9\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
+	\includegraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 	
 	%%\filltopageendgraphics[width=0.7\linewidth]{immagini/Granblue.Fantasy.full.2108782.png}
 	
@@ -6315,9 +6325,10 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{robusto}{Robusto}\\
 \hyperlink{secondapelle}{Seconda pelle}\\
 \hyperlink{staigiu}{Stai giù!}\\
-\hyperlink{unbracciounarma}{Un braccio, un arma}\\
+\hyperlink{unbracciounarma}{Un braccio, un arma}
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Barbaro}
+
 \hyperlink{armato}{Armato}\\
 \hyperlink{colpomortale}{Colpo Mortale}\\
 \hyperlink{conoscenzaistintiva}{Conoscenza istintiva}\\
@@ -6334,9 +6345,10 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{piusonogrossipiufannorumore}{Più sono grossi più fanno rumore quando cadono}\\
 \hyperlink{primosangue}{Primo Sangue}\\
 \hyperlink{unbracciounarma}{Un braccio, un arma}\\
-\hyperlink{volontaferrea}{Volontà ferrea}\\
+\hyperlink{volontaferrea}{Volontà ferrea}
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Ladro}
+
 \hyperlink{colpofurtivo}{Colpo furtivo}\\
 \hyperlink{colpoindebolente}{Colpo Indebolente}\\
 \hyperlink{colpoparalizzante}{Colpo Paralizzante}\\
@@ -6354,7 +6366,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{questoeilmiopugnale}{Questo è il mio pugnale}\\
 \hyperlink{schivaretrappole}{Schivare trappole}\\
 \hyperlink{schivataprodigiosa}{Schivata prodigiosa}\\
-\hyperlink{toccataefuga}{Toccata e fuga}\\
+\hyperlink{toccataefuga}{Toccata e fuga}
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Paladino}
 
@@ -6385,7 +6397,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{poliglotta}{Poliglotta}\\
 \hyperlink{radicimagiche}{Radici magiche}\\
 \hyperlink{tattico}{Tattico}\\
-\hyperlink{sfortunato}{Sfortunato}\\
+\hyperlink{sfortunato}{Sfortunato}
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Ranger}
 
@@ -6405,7 +6417,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{testacava}{Testa Cava}\\
 \hyperlink{tiropreciso}{Tiro preciso}\\
 \hyperlink{tirorapido}{Tiro rapido}\\
-\hyperlink{unoconlarco}{Uno con l'arco}\\
+\hyperlink{unoconlarco}{Uno con l'arco}
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Druido}
 
@@ -6416,7 +6428,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{figliadishayalia}{Figlia di Shayalia}\\
 \hyperlink{formaelementale}{Forma Elementale}\\
 \hyperlink{ilpatronoeconme}{Il Patrono è con me}\\
-\hyperlink{sanguepuro}{Sangue Puro}\\
+\hyperlink{sanguepuro}{Sangue Puro}
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Chierico}
 
@@ -6431,7 +6443,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{poteredelpatrono}{Potere del Patrono}\\
 \hyperlink{scacciareinonmorti}{Scacciare i non morti}\\
 \hyperlink{specialista}{Specialista}\\
-\hyperlink{tuttunoconlamagia}{Tutt'uno con la magia}\\
+\hyperlink{tuttunoconlamagia}{Tutt'uno con la magia}
 
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Mago/Stregone}
@@ -6457,6 +6469,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{specialista}{Specialista}\\
 \hyperlink{tuttunoconlamagia}{Tutt'uno con la magia}\\
 \hyperlink{uncolpounmorto}{Un colpo un morto}\\
+\hyperlink{unsolocredo}{Un solo credo}
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Monaco}
 
@@ -6475,7 +6488,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 \hyperlink{pugnopotente}{Pugno Potente}\\
 \hyperlink{raggiopsichico}{Raggio Psichico}\\
 \hyperlink{tempestadifuria}{Tempesta di Furia}\\
-\hyperlink{volontaferrea}{Volonta' Ferrea}\\
+\hyperlink{volontaferrea}{Volonta' Ferrea}
 
 \end{flushleft}
 }
@@ -7731,7 +7744,7 @@ Un caso particolare è l'\textbf{energia positiva Curativa}\index{Energia positi
 %	\emph{Tarocchi - il Carro}
 %\end{center}
 
-\subsection{Abilità di Lista}
+\subsection{Opzionale - Abilità di Lista}\label{abilitadilista}\index{Abilità di Lista}\hypertarget{abilitadilista}{}
 
 
 %\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
@@ -7836,6 +7849,8 @@ Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore 
 
 \textbf{5: Conoscere.} Puoi lanciare l'incantesimo Identificare con una Azione Immediata, senza usare Punti Magia.
 
+\textbf{Si suggerisce di permettere questa regola opzionale solo se non è in uso l'Abilità} \hyperlink{unsolocredo}{Un solo credo} (pag. \pageref{unsolocredo}).
+
 %\begin{center}
 	
 %	\includegraphics[width=0.6\linewidth]{immagini/Hex32.png}
@@ -7848,7 +7863,7 @@ Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore 
 
 Partiamo da un assunto: in OBSS una creatura media occupa uno spazio di $(1*1)\si{m^{2}}$ mentre nella 5e la stessa creatura occupa $(1.5*1.5)\si{m{^2}}$ (2.25\si{m{^2}}).
 
-Una \hyperlink{Palla di Fuoco}{Palla di Fuoco} agisce in un raggio di 6 metri, ovvero \emph{occupa} $6*6*\pi$ \si{m^{2}}, in questo spazio ci stanno \emph{circa 110} creature in OBSS e 50 creature, sempre medie, della 5e!
+Una \hyperlink{Palla di Fuoco}{Palla di Fuoco} agisce in un raggio di 6 metri, ovvero \emph{occupa} ($6*6*\pi$)\si{m^{2}}, in questo spazio ci stanno \emph{circa 110} creature in OBSS e 50 creature, sempre medie, della 5e!
 
 A fare due conti la Palla di Fuoco dovrebbe avere un raggio di 4 metri per influenzare lo stesso numero di creature!
 
