@@ -158,7 +158,7 @@ boxrule=0.3pt
 \usepackage{charter}
 
 \begin{document} 
-\def \versione {0.99.45} \fontsize{10.5}{12.5}\selectfont
+\def \versione {0.99.46} \fontsize{10.5}{12.5}\selectfont
 
 \newcommand\invisiblesection[1]{
 \refstepcounter{section}
@@ -6249,15 +6249,19 @@ La \textbf{seconda volta} che prendi questa Abilità, Destrezza 3 e Competenza A
 
 Il personaggio dedica la propria vita allo studio e perfezionamento di una sola Lista di Magia.
 
-La \textbf{prima volta} che prendi questa Abilità devi scegliere una Lista di Magia \emph{preferita} ed una \emph{opposta}.
+La \textbf{prima volta} che prendi questa Abilità devi scegliere una Lista di Magia \emph{preferita} e 3 \emph{opposte}.
 
-Nella lista \emph{preferita} il costo di lancio degli incantesimi diminuisce di 1 rimanendo un costo minimo di 1. Scegli altre 3 Liste di Magia \emph{opposte} dove il costo di lancio degli incantesimi aumenta di 1.
+Nella lista \emph{preferita} il costo di lancio degli incantesimi diminuisce di 1 rimanendo un costo minimo di 1. Per le 3 Liste di Magia \emph{opposte} il costo di lancio degli incantesimi aumenta di 1.
 
-La \textbf{seconda volta} che prendi questa Abilità, requisito Competenza Magica 6, nella Lista di Magia \emph{preferita} le Prove di Magia vengono effettuate con 1d6 aggiuntivo e puoi scartare 1 dado dalla stessa. Le Prove di Magia che coinvolgono le liste \emph{opposte} vengono fatte con 1d6 in più.
+La \textbf{seconda volta} che prendi questa Abilità, requisito Competenza Magica 6, nella Lista di Magia \emph{preferita} le Prove di Magia vengono effettuate con 1d6 aggiuntivo e puoi scartare 1 dado dalla stessa.
 
-La \textbf{terza volta} che prendi questa Abilità, requisito Competenza Magica 11, nella Lista di Magia \emph{preferita} quando fai una Prova di Magia conti un 6 in più rispetto a quanti tirati. Non puoi più lanciare incantesimi da una Lista di Magia \emph{opposta} a tua scelta.
+La \textbf{terza volta} che prendi questa Abilità, requisito Competenza Magica 11, nella Lista di Magia \emph{preferita} quando fai una Prova di Magia conti un 6 in più rispetto a quanti tirati. 
 
-La \textbf{quarta volta} che prendi questa Abilità, requisito Competenza Magica 16, nella Lista di Magia \emph{preferita} in caso di fallimento critico nella Prova di Magia puoi ritirarla. Scegli un altra Lista di Magia \emph{opposta} dal quale non puoi più lanciare incantesimi.
+La \textbf{quarta volta} che prendi questa Abilità, requisito Competenza Magica 16, nella Lista di Magia \emph{preferita} puoi ritirare una volta la Prova di Magia in caso di fallimento critico.
+
+Ogni volta che l'Abilità viene presa, oltre la prima, si deve selezionare una nuova Lista di Magia \emph{opposta} e il livello massimo lanciabile di incantesimi per tutte le Liste di magia \emph{opposte} diminuisce di 2.
+
+%Il massimo livello di incantesimi lanciabile da una Lista di Magia \emph{opposta} diminuisce di 3 livelli.
 
 \medskip
 
@@ -12867,6 +12871,7 @@ Punti il dito, e la creatura che ti ha danneggiato viene schiaffeggiata da fuoco
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Incantesimi]{Sciame di Meteore}\hypertarget{Sciame di Meteore}{}\medskip\noindent{\textbf{Sciame di Meteore}}\pdfbookmark[2]{Sciame di Meteore}{Sciame di Meteore}\hypertarget{sciamedimeteore}{}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
+	\item[\textbf{Lista di Magia}]: Fuoco, Terra
 	\item[\textbf{Livello}]: 9, Leggendario
 	\item[\textbf{Tempo di Lancio}]: 3 Azioni
 	\item[\textbf{Gittata}]: 1,5 chilometri
@@ -13056,7 +13061,7 @@ Una creatura consenziente con cui sei in contatto ottiene la capacità di vedere
 	\item[\textbf{Livello}]: 4, Raro
 	\item[\textbf{Tempo di Lancio}]: 2 Azioni
 	\item[\textbf{Gittata}]: 9 metri
-	\item[\textbf{Componenti}]: V, S, M (un minuscolo fischietto d'argento, e un pezzo d'osso ed un filo)
+	\item[\textbf{Componenti}]: V, S, M (un minuscolo fischietto d'argento, un pezzo d'osso ed un filo)
 	\item[\textbf{Durata}]: 8 ore
 \end{description}
 
@@ -26903,7 +26908,7 @@ Una creatura nell'area di un \emph{campo anti-magia} o in qualsiasi altro posto 
 
 Il \textbf{grado di sfida} (GS) di un mostro vi dice quanto sia grande la minaccia che pone. Una compagnia di quattro avventurieri equipaggiata in maniera appropriata e riposata deve essere in grado di sconfiggere un mostro dal grado di sfida pari al proprio livello medio senza subire perdite. Ad esempio, una compagnia di quattro personaggi di 3° livello dovrebbe ritenere un mostro di grado di sfida 3 una sfida normale e non pericolosa.
 
-I mostri che sono significativamente più deboli dei personaggi di 1° livello hanno un grado di sfida inferiore ad 1. I mostri con un grado di sfida 0 non presentano problemi eccetto in grandi numeri; quelli privi di reali attacchi non valgono punti esperienza.
+I mostri che sono significativamente più deboli dei personaggi di 1° livello hanno un grado di sfida inferiore ad 1. I mostri con un grado di sfida 0 non presentano problemi eccetto in grandi numeri, quelli privi di reali attacchi non valgono punti esperienza.
 
 \subsection{Riconoscere i Mostri}\label{riconoscereimostri}\hypertarget{riconoscereimostri}{} \index{Riconoscere i Mostri}
 
