@@ -840,7 +840,7 @@ aggiornata versione POD 2025/03/10
 
 aggiornata versione POD 2025/03/13
 
-0.99.46 aggiornato Un solo credo, 
+0.99.46 aggiornato Un solo credo, aggiornato incantesimo Scassinare, 
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
