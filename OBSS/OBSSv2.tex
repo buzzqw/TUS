@@ -7658,11 +7658,11 @@ Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volta Adepto della 
 
 \subsubsection{Contrastare gli Incantesimi}\index{Contrastare gli incantesimi}\label{contrastareincantesimi}\hypertarget{contrastareincantesimi}{}
 
-Diversi incantesimi interagiscono con altri annullandoli o modificandoli. Quando è scritto che un incantesimo \textbf{contrasta} o è \textbf{contrastato} un altro è necessario verificare la DC degli incantesimi per accertarsi quale incantesimo domini sull'altro.
+Diversi incantesimi interagiscono con altri effetti annullandoli o modificandoli. Quando è scritto che un incantesimo \textbf{contrasta} o è \textbf{contrastato} un altro è necessario verificare la DC degli incantesimi o effetti per accertarsi quale effetto domini sull'altro.
 
-Ad esempio l'incantesimo \hyperlink{Lentezza}{Lentezza} contrasta \hyperlink{Velocità}{Velocità}, per verificare la riuscita del contrasto confrontate la DC data dai rispettivi incantesimi per determinare la riuscita.
+Ad esempio l'incantesimo \hyperlink{Lentezza}{Lentezza} contrasta \hyperlink{Velocità}{Velocità}, \hyperlink{Rimuovi Maledizione}{Rimuovi Maledizione} sulle maledizioni, \hyperlink{Rimuovi Veleno}{Rimuovi Veleno} sui veleni...
 
-Il \textbf{proprio valore di contrasto} si computa con 3d6 + CM + modificatore di caratteristica per incantesimi + volte che si è preso Adepto della Magia.\index{Valore di Contrasto} + 4 per Successo Critico Magico ottenuto nella Prova di Magia.
+Il \textbf{proprio valore di contrasto} si computa con una prova di 3d6 + CM + modificatore di caratteristica per incantesimi + volte che si è preso Adepto della Magia.\index{Valore di Contrasto} + 1 per Successo Critico Magico ottenuto nella Prova di Magia.\index{Annullare gli incantesimi}
 
 Il valore di contrasto si \textbf{confronta} con la DC dell'effetto magico da contrastare.
 
@@ -10505,7 +10505,7 @@ Come Azione di Reazione emetti un grido di dolore quando colpito in mischia. La 
 	\item[\textbf{Durata}]: Istantanea
 \end{description}
 
-Scegli una creatura a gittata e che puoi vedere. un'ondata di energia positiva curativa travolge la creatura, facendole recuperare 70 Punti Ferita. L'incantesimo prova anche a contrastare a qualsiasi cecità, sordità e malattia (anche magica) che affligga il bersaglio (confrontate DC incantesimo e DC afflizione). Questo incantesimo causa 50 Punti Ferita di danno ad un non morto con un Tiro per Colpire con incantesimo a tocco.
+Scegli una creatura a gittata e che puoi vedere. un'ondata di energia positiva curativa travolge la creatura, facendole recuperare 70 Punti Ferita. L'incantesimo prova anche a \hyperlink{contrastareincantesimi}{contrastare} a qualsiasi cecità, sordità e malattia (anche magica) che affligga il bersaglio. Questo incantesimo causa 50 Punti Ferita di danno ad un non morto con un Tiro per Colpire con incantesimo a tocco.
 
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia l'ammontare guarito aumenta di 20.
 
@@ -20431,7 +20431,7 @@ Il Tiro Salvezza è sempre su Tempra se non specificato diversamente
 I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non permanenti o indicato diversamente.
 
 \begin{center}
-\includegraphics[height=0.4\linewidth]{immagini/poison.png}
+\includegraphics[height=0.3\linewidth]{immagini/poison.png}
 \end{center}
 
 
@@ -20720,17 +20720,17 @@ Il Narratore può decidere di gestire una creatura \emph{alticcia} solo attraver
 Le malattie in linea di principio si gestiscono eseguendo un Tiro Salvezza per verificare se ci si è contagiati ed altri Tiri Salvezza per guarire.
 Solitamente il tempo di scatenamento di una malattia non è così immediato come un veleno eppure quelle magiche possono essere dirompenti ed agire in pochi minuti.
 
-Ogni malattia deve aver indicato il tempo di insorgenza, il Tiro Salvezza iniziale, ogni quanto va rifatto il Tiro Salvezza, quanti successi ai Tiri Salvezza sono necessari per guarire, gli effetti che si subiscono. Se non specificato diversamente le malattie si trasferiscono tramite il ferimento di un infetto.
+Ogni malattia ha indicato il tempo di insorgenza, il Tiro Salvezza iniziale, ogni quanto va rifatto il Tiro Salvezza, quanti successi ai Tiri Salvezza sono necessari per guarire, gli effetti che si subiscono. Se non specificato diversamente le malattie si trasferiscono tramite il ferimento di un infetto.
 
-Es. Febbre Demoniaca minore: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -1 Costituzione e Saggezza
+Es. \emph{Febbre Demoniaca minore}: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -1 Costituzione e Saggezza
 
 La Febbre Demoniaca minore costringe al Tiro Salvezza su Tempra a DC 18 dopo un solo minuto che la si è presa. Successivamente ogni 6 ore va rifatto il Tiro Salvezza e la malattia permane finché non si sono fatti almeno 3 successi consecutivi al TS. Ogni 6 ore il malato perde 1 punto di Costituzione e Saggezza.
 
-Per guarire da una malattia, non naturale, come quelle afflitte dai mostri è necessario superare i Tiri Salvezza richiesti oppure avere a disposizione un incantesimo di \hyperlink{rimuovimalattie}{Rimuovi Malattie} (pag. \pageref{rimuovimalattie}).
+Per guarire da una malattia, non naturale, come quelle afflitte dai mostri è necessario superare i Tiri Salvezza richiesti oppure usare l'incantesimo di \hyperlink{rimuovimalattie}{Rimuovi Malattie} (pag. \pageref{rimuovimalattie}).
+
+Si effettua una prova di \hyperlink{contrastareincantesimi}{contrasto} (pag. \pageref{contrastareincantesimi}) tra l'incantesimo Rimuovi Malattie e la DC della malattia.
 
 Se la DC della malattia non è espressa allora si considera che sia sufficiente il semplice lancio dell'incantesimo per annullarne gli effetti.
-
-Ogni Successo Critico Magico ottenuto con la Prova della magia nel lancio dell'incantesimo equivale a +4 nel calcolo della DC (vedi \hyperlink{contrastareincantesimi}{Contrastare incantesimi}, pag. \pageref{magietirosalvezza}) per superare quella della malattia.
 
 Una prova di \textbf{Pronto Soccorso}\index{Pronto Soccorso e Malattie}\index{Malattie e pronto soccorso}, 10 minuti, con DC pari almeno alla metà della DC della malattia (o 15 se non indicata), effettuata tra un Tiro Salvezza e successivo, permette di avere un +2 al Tiro Salvezza per resistere agli effetti della malattia. Un trattamento per una intera notte concede +1d6 al Tiro Salvezza successivo.
 
