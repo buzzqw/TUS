@@ -7662,9 +7662,11 @@ Diversi incantesimi interagiscono con altri annullandoli o modificandoli. Quando
 
 Ad esempio l'incantesimo \hyperlink{Lentezza}{Lentezza} contrasta \hyperlink{Velocità}{Velocità}, per verificare la riuscita del contrasto confrontate la DC data dai rispettivi incantesimi per determinare la riuscita.
 
-Quando per un incantesimo non è fornita la DC allora considerate la stessa pari a 12+Livello incantesimo*2.
+Il \textbf{proprio valore di contrasto} si computa con 3d6 + CM + modificatore di caratteristica per incantesimi + volte che si è preso Adepto della Magia.\index{Valore di Contrasto} + 4 per Successo Critico Magico ottenuto nella Prova di Magia.
 
-Un incantesimo che viene lanciato con un Successo Critico Magico ha un +4 nella prova di contrastare.
+Il valore di contrasto si \textbf{confronta} con la DC dell'effetto magico da contrastare.
+
+Quando per un incantesimo non è fornita la DC da contrastare allora considerate la stessa pari a 12+Livello incantesimo*2.
 
 \subsubsection{Concentrazione}\index{Colpito mentre concentrato}\index{Concentrazione}\label{magieconcentrazione}\hypertarget{magieconcentrazione}{}
 
@@ -9729,9 +9731,11 @@ Un'energia luminosa ti circonda e ti protegge da fatati, non morti e creature or
 	\item[\textbf{Durata}]: Istantanea
 \end{description}
 
-Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 3 o più basso sul bersaglio ha fine. Ogni Successo Critico Magico su un incantesimo ne aumenta di uno il livello. Se lanciato su un oggetto che manifesta un incantesimo questo viene disattivato per 10 minuti.
+Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 2 o più basso sul bersaglio ha fine. 
 
-\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia il livello dispellabile aumenta di 1. Se il numero di Successi Critici supera di 3 il livello dispellabile si disperde permanentemente un effetto su un oggetto non artefatto.
+Se l'incantesimo è tra il 3 ed il 5 livello è necessaria una prova di \hyperlink{contrastareincantesimi}{contrastare incantesimi} (pag. \pageref{contrastareincantesimi}).
+
+Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Incantesimi]{Dissolvi Magie Avanzato}\hypertarget{Dissolvi Magie Avanzato}{}\medskip\noindent{\textbf{Dissolvi Magie Avanzato}}\pdfbookmark[2]{Dissolvi Magie Avanzato}{Dissolvi Magie Avanzato}\hypertarget{dissolvimagieavanzato}{}
 \noindent
@@ -9744,9 +9748,13 @@ Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo d
 	\item[\textbf{Durata}]: Istantanea
 \end{description}
 
-Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 5 o più basso sul bersaglio ha fine. Ogni Successo Critico Magico su un incantesimo ne aumenta di uno il livello. Se lanciato su un oggetto che manifesta un incantesimo questo viene disattivato per 10 minuti.
+Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 4 o più basso sul bersaglio ha fine. 
 
-\textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia il livello dispellabile aumenta di 1.
+Se l'incantesimo è di livello maggiore al quarto è necessaria una prova di \hyperlink{contrastareincantesimi}{contrastare incantesimi} (pag. \pageref{contrastareincantesimi}).
+
+Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
+
+\textbf{Nota}: se si ottengono 3 Successi Critici Magici disperde permanentemente un effetto su un oggetto non artefatto.
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Incantesimi]{Distruggere nonmorto}\hypertarget{Distruggere nonmorto}{}\medskip\noindent{\textbf{Distruggere nonmorto}}\pdfbookmark[2]{Distruggere nonmorto}{Distruggere nonmorto}
 \noindent
@@ -20313,9 +20321,9 @@ Una creatura sotto gli effetti di un veleno, anche se non manifestato, ha la con
 
 \subsection{Rimuovere il veleno}
 
-L'incantesimo \hyperlink{incrimuoviveleno}{Rimuovi Veleno} (pag. \pageref{incrimuoviveleno}) neutralizza i veleni e quindi la condizione avvelenato purché la DC del Veleno sia inferiore alla DC dell'incantesimo Rimuovi Veleno. Se la DC del veleno non è espressa allora si considera che sia sufficiente il semplice lancio dell'incantesimo per annullarne gli effetti.
+L'incantesimo \hyperlink{incrimuoviveleno}{Rimuovi Veleno} (pag. \pageref{incrimuoviveleno}) esegue una prova di \hyperlink{contrastareincantesimi}{contrasto} con il veleno, e quindi la condizione avvelenato.
 
-Ogni Critico Magico ottenuto con la Prova della magia nel lancio dell'incantesimo equivale a +4 nel calcolo della DC (vedi \hyperlink{contrastareincantesimi}{Contrastare incantesimi}, pag. \pageref{magietirosalvezza}) per superare quello del veleno.
+Se la DC del veleno non è espressa allora si considera che sia sufficiente il semplice lancio dell'incantesimo per annullarne gli effetti.
 
 Una prova di Pronto Soccorso\index{Pronto Soccorso e Veleni}\index{Veleni e Pronto Soccorso}, 3 Azioni, che sia almeno la metà della DC del veleno entro il tempo dell'insorgenza, permette di effettuare subito un Tiro Salvezza con un bonus di +2.
 
@@ -20323,16 +20331,6 @@ Questo Tiro Salvezza se riesce annulla gli effetti del veleno, se fallisce la cr
 Una volta fatta la prova di Pronto Soccorso non è più possibile rifarla se non dopo l'insorgenza.
 
 Un trattamento continuativo di Pronto Soccorso per 8 ore permette di effettuare un nuovo Tiro Salvezza con +1d6 bonus dopo l'attivazione del veleno se questo è ancora attivo.
-
-
-
-%\begin{center}
-%\includegraphics[height=0.4\linewidth]{immagini/poison.png}
-%\end{center}
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Quando volete usare un veleno pensate innanzitutto perché si trova li, per chi doveva essere usato, per quale scopo. Non è detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
-\end{narratore}\end{changemargin}
 
 \medskip
 
@@ -20353,6 +20351,10 @@ Ottenendo un fallimento critico con la prova di Erboristeria ci si espone al pro
 Una Pozione che \emph{\textbf{Rimuove}} una condizione è efficace se la sua DC è superiore a quella della Condizione stessa. \index{Pozioni e rimozioni condizioni}
 
 Gli esempi seguenti rappresentano solo alcuni dei possibili veleni. Tutti i costi sono espressi in Monete d'Oro. I Veleni sono presentati, specialmente nel Mostruario con questa dizione: Nome Veleno, Uso (I/R/F/C), tempo Insorgenza, DC del Tiro Salvezza, Effetto.
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Quando volete usare un veleno pensate innanzitutto perché si trova li, per chi doveva essere usato, per quale scopo. Non è detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
+\end{narratore}\end{changemargin}
 
 \subsection{Dove trovare le piante}
 
@@ -20427,6 +20429,11 @@ Veleno di Serpe del Sangue \index{Veleno di Serpe del Sangue} & F& 25& - & Paral
 Il Tiro Salvezza è sempre su Tempra se non specificato diversamente
 
 I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non permanenti o indicato diversamente.
+
+\begin{center}
+\includegraphics[height=0.4\linewidth]{immagini/poison.png}
+\end{center}
+
 
 \pagebreak
 
@@ -23651,7 +23658,7 @@ a seconda delle sfere presenti: 500 mo, 1000 mo, 1600 mo, 2300 mo, 3100 mo, 4000
 \index[OggettiMagici]{Collana del Rosario}\smallskip* \textbf{Collana del Rosario}\hypertarget{Collana del Rosario}{}
 3000 mo + variabile, raro, questa collana possiede 1d4 + 2 sfere magiche fatte di acquamarina, perla nera o topazio. Possiede anche diverse sfere non magiche. Se una sfera magica venisse rimossa dalla collana, quella sfera perderebbe la sua magia.
 
-Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfera facente parte della collana. Una collana può avere più di una sfera dello stesso tipo. Per usarla, devi indossare la collana. Ogni sfera contiene un incantesimo che puoi lanciare con due azioni, con DC dell'Incantesimo pari a 10+2xLivello in caso di Tiro Salvezza. Una volta che l'incantesimo di una sfera magica è stato lanciato, non potrai usare di nuovo quella sfera fino all'alba successiva.
+Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfera facente parte della collana. Una collana può avere più di una sfera dello stesso tipo. Per usarla, devi indossare la collana. Ogni sfera contiene un incantesimo che puoi lanciare con due azioni, con DC dell'Incantesimo pari a 12+2xLivello in caso di Tiro Salvezza. Una volta che l'incantesimo di una sfera magica è stato lanciato, non potrai usare di nuovo quella sfera fino all'alba successiva.
 
 \medskip
 
@@ -25524,7 +25531,7 @@ Un personaggio \textbf{non può indossare più di due anelli magici} altrimenti 
 \item
 Per \textbf{riconoscere un oggetto magico} e le sue capacità è necessario una prova di Arcana a DC 25. \textbf{10 minuti}. Con punteggio Arcana 6 costa 5 minuti, con 12 costa 1 minuto, con Arcana 18 costa 1 Round.
 \item
-Un \textbf{oggetto magico che manifesta incantesimi} non esegue alcuna Prova di Magia. Il \textbf{Tiro Salvezza} che impone, se non specificato, è pari a 10 + livello*2 dell'incantesimo che manifesta.\index{Tiro Salvezza per incantesimi da oggetto}\label{tirosalvezzaincoggetto}
+Un \textbf{oggetto magico che manifesta incantesimi} non esegue alcuna Prova di Magia. Il \textbf{Tiro Salvezza} che impone, se non specificato, è pari a 12 + livello*2 dell'incantesimo che manifesta.\index{Tiro Salvezza per incantesimi da oggetto}\label{tirosalvezzaincoggetto}
 \item
 \textbf{Attivare capacità magiche}: se non indicato diversamente attivare un abilità magica di un oggetto costa 2 Azioni.
 \item
@@ -25601,7 +25608,7 @@ Un corpo di forma umanoide può indossare l'equipaggiamento magico in queste par
 
 \label{tiri-salvezza-contro-i-poteri-degli-oggetti-magici}
 
-Gli oggetti magici normalmente riproducono incantesimi o altri effetti magici. Per un Tiro Salvezza contro la magia o un effetto magico generato da un oggetto magico, la DC è 10 + livello dell'incantesimo manifestato x2 se non specificato diversamente.
+Gli oggetti magici normalmente riproducono incantesimi o altri effetti magici. Per un Tiro Salvezza contro la magia o un effetto magico generato da un oggetto magico, la DC è 12 + livello dell'incantesimo manifestato x2 se non specificato diversamente.
 
 \subsection{Danneggiare gli Oggetti Magici}\index{Danneggiare gli Oggetti Magici}
 
@@ -26053,22 +26060,21 @@ Una maledizione è sempre un \emph{inconveniente} particolare, che non si usa a 
 Non c'è bisogno che la maledizione sia eccessiva e limitante può essere benissimo ridicola o particolare, fate in modo che sia caratterizzante. Il personaggio non deve sentirsi (tranne se lo volete) condannato in eterno, sfruttate l'occasione per costruire nuove avventure e spirito di gruppo.
 \end{narratore}\end{changemargin}
 
-
 \subsection{Rimuovere Oggetti Maledetti}\index{Rimuovere Oggetti Maledetti}
 
 Mentre alcuni oggetti maledetti possono essere semplicemente posati, altri esercitano una forte compulsione sul possessore a tenerli con sé, a qualsiasi costo. Altri riappaiono anche se abbandonati o è impossibile gettarli via.
 
-Questi oggetti possono essere rimossi solo dopo che sul personaggio o l'oggetto viene lanciato l'incantesimo Rimuovi Maledizione.
+Questi oggetti possono essere rimossi solo dopo che sul personaggio o l'oggetto viene lanciato l'incantesimo Rimuovi Maledizione. 
 
-Se l'oggetto è stato maledetto tramite l'incantesimo Scagliare Maledizione, o comunque il Narratore decide che l'oggetto ha una maledizione particolare allora si deve confrontare la DC di chi lancia Rimuovi Maledizione (vedi \hyperlink{magietirosalvezza}{Tiri Salvezza - Resistere all'incantesimo}, pag. \pageref{magietirosalvezza}) con la DC della maledizione dell'oggetto. Se chi lancia l'incantesimo Rimuovi Maledizione ha una DC superiore a quella dell'oggetto allora è possibile rimuovere l'oggetto.
+L'incantesimo \hyperlink{Dissolvi Magia}{Dissolvi Magia} è inutile per rimuovere una maledizione, solo un \hyperlink{Dissolvi Magia Avanzato}{Dissolvi Magia Avanzato} con 3 Successi Magici Critici può essere sufficiente.
 
-Un incantatore può lanciare Rimuovi Maledizione con una Prova di Magia e per ogni Successo Critico Magico aggiunge +4 alla propria DC per confrontarla con quello dell'oggetto.
+Se l'oggetto è stato maledetto tramite l'incantesimo Scagliare Maledizione, o comunque il Narratore decide che l'oggetto ha una maledizione particolare allora si deve effettuare una prova di \hyperlink{contrastareincantesimi}{contrasto} (pag. \pageref{contrastareincantesimi})tra chi lancia Rimuovi Maledizione e la DC della maledizione dell'oggetto.
 
-Se chi lancia Rimuovi Maledizione ha successo allora l'oggetto può essere rimosso nel round successivo e la maledizione rimane e colpisce nuovamente se l'oggetto viene usato/indossato un'altra volta.
+Se la prova di contrasto ha successo allora l'oggetto può essere rimosso nel round successivo e la maledizione rimane e colpisce nuovamente se l'oggetto viene usato/indossato un'altra volta.
 
-Ogni oggetto maledetto ha un proprio metodo per essere distrutto, dall'essere gettato in un vulcano attivo, ad essere colpito dal martello del dio del Tuono (o Patrono...) oppure divorato da un Verme colossale delle sabbie se non colpito dal soffio di un drago rosso e un drago bianco contemporaneamente...
+Ogni oggetto maledetto ha un proprio metodo per essere distrutto, dall'essere gettato in un vulcano attivo, ad essere colpito dal martello del dio del Tuono (o Patrono...) oppure divorato da un Verme colossale delle sabbie se non colpito dal soffio di un drago rosso e un drago d'oro contemporaneamente...
 
-Per molti oggetti maledetti è sufficiente il lancio dell'incantesimo Rimuovi Maledizioni, senza che sia specificata la DC da battere.
+Se la DC della maledizione non è indicata è sufficiente il lancio dell'incantesimo Rimuovi Maledizioni.
 
 \subsection{Effetti Comuni degli Oggetti Maledetti}
 
@@ -26163,8 +26169,6 @@ I requisiti dipendono dalla convenienza dell'oggetto che non dovrebbero mai esse
 
 Se il requisito non viene soddisfatto, l'oggetto smette di funzionare. Se invece viene soddisfatto, di solito l'oggetto funziona per un giorno intero prima di dover di nuovo soddisfare il requisito (anche se alcuni requisiti vanno soddisfatti una volta sola, altri una volta al mese e altri ancora in continuazione).
 
-
-
 \subsection{Inconveniente}
 
 Gli oggetti che hanno degli inconvenienti hanno solitamente degli effetti positivi su chi li usa, ma hanno anche degli aspetti negativi. Anche se a volte gli inconvenienti vengono alla luce solo quando gli oggetti sono utilizzati (o tenuti in mano, nel caso di oggetti come le armi), di solito rimangono presenti fino a quando il personaggio non si libera dell'oggetto in questione.
@@ -26182,7 +26186,7 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 \vfill
 
 \begin{center}
-\includegraphics[width=0.3\linewidth]{immagini/donnalemb.png}
+\includegraphics[width=0.4\linewidth]{immagini/donnalemb.png}
 
 \emph{Donna di Lemb o Statua della Dea della Morte, 3500 AC. DC 40}
 \end{center}
