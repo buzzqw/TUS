@@ -1442,12 +1442,12 @@ In un mondo non facile la Fortuna del Principiante aiuta chi non ha esperienza.
 Ogni personaggio ha un numero di Punti Fato pari a (20 - Livello)/5, arrotondato all'intero più vicino, con un minimo di 1. I Punti Fato si azzerano e conteggiano per sessione di gioco. 
 Si recupera un Punto Fato ogni volta che si tirano almeno tre 1 in una prova.\index{Recuperare Punti Fato}
 
-Usare i Punti Fato non costa Azioni e può essere usato per:
+Si può usare un Punto Fato alla volta, non costa Azioni, tranne quando esplicitato. Possono essere usati per: 
 
 \noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item aggiungere 1d6 ad un Tiro Salvezza, Tiro per Colpire, Prova di Competenza e Prova di Magia. Da dichiarasi prima del tiro dei dadi. Il dado aggiunto può esplodere secondo le Golden Rules. 1 o più Punto Fato
 \item ritirare 1d6 nelle prove di cui sopra. 2 Punti Fato
-\item negare un Tiro Critico d'arma subito. 1 Punto Fato
+%\item negare un Tiro Critico d'arma subito. 1 Punto Fato
 \item usando 2 Punti Fato a disposizione è possibile ritirare una prova, accettando solo il nuovo risultato ottenuto.
 \item usando un Punto Fato puoi migliorare di un grado una prova fallita (Fallimento Critico -> Fallimento)
 \item usando un Punto Fato puoi fare ritirare un Tiro Salvezza ad un obiettivo.
@@ -3903,9 +3903,13 @@ Se chi tenta la manovra non riesce e ottiene un fallimento critico è lui che pr
 
 è una prova di Atletica contrapposta ad un Tiro Salvezza su Tempra con Forza. Chi ha una taglia maggiore guadagna un bonus di +1d6 per taglia di differenza.
 
-Chi vince può spingere o tirare l'avversario fino a 0.5 metri nella direzione che vuole per successo nella prova (fino al massimo del suo movimento). Es. se vinci la prova di 7 sposti l'avversario fino a 3 metri. Costa 2 Azioni. Chi spinge si può muovere assieme a chi è spinto senza usare altre Azioni.
+Chi vince può spingere o tirare l'avversario fino a 0.5 metri nella direzione che vuole per successo nella prova (fino al massimo del suo movimento). Es. se vinci la prova di 7 sposti l'avversario fino a 3 metri. Chi spinge si può muovere assieme a chi è spinto senza usare altre Azioni. 
 
-Se chi tenta la manovra non riesce e ottiene un fallimento critico l'avversario usando una Reazione può spostarlo secondo le regole di sopra.
+Se si vuole \emph{lanciare} l'avversario il movimento è di 0.3 metri per successo ottenuto.\index{Lanciare una creatura}
+
+Costa 2 Azioni.
+
+Se chi tenta la manovra non riesce e ottiene un fallimento critico, l'avversario usando una Reazione, può spostarlo secondo le regole di sopra.
 
 \subsubsection{Afferrare un avversario*}\index{Afferrare un avversario}\label{afferrareunavversario}\hypertarget{afferrareunavversario}{}
 
@@ -3924,7 +3928,7 @@ Per attraversare il terreno dove c'è una creatura ostile è necessario eseguire
 
 Costa 1 Azione la prova per attraversare oltre all'Azione di Movimento. Il terreno occupato dalla creatura ostile si considera difficile. In caso di successo critico nella prova di Atletica o Acrobatica non si consuma l'Azione usata per attraversare.
 
-Se si fallisce si rimane ne quadretto immediatamente precedente al nemico, con il rischio di essere ristretti. Si considera terminata sia l'Azione di Movimento che quella di oltrepassare.
+Se si fallisce si rimane ne quadretto immediatamente precedente al nemico, con il rischio di essere \hyperlink{ristretti}{ristretti} (pag. \pageref{ristretti}). Si considera terminata sia l'Azione di Movimento che quella di oltrepassare.
 Se il nemico ha l'Abilità \hyperlink{opportunista}{Opportunista} oltre ad ostacolare il passaggio può eseguire un attacco (usando una Reazione).
 
 %\begin{center}
@@ -9549,11 +9553,15 @@ Spendendo il triplo dei Punti Magia puoi curare fino a 4 creature che si trovino
 	\item[\textbf{Durata}]: 1 Turno, Concentrazione
 \end{description}
 
-Crei un dardo luminoso di forza magica. Lanciare uno o più dardi già evocati costa 1 Azione. Il dardo colpisce una creatura a gittata che puoi vedere, scelta da te. Un dardo infligge 1d4 + 1 danni da forza al suo bersaglio e li puoi dirigere perché colpiscano una o più creature.\\
-Il danno aumenta di 1 ogni volta che hai preso Adepto della Magia fino ad un massimo di 4 aumenti.\\
+Crei un dardo luminoso di forza magica. Il dardo colpisce una creatura a gittata che puoi vedere, scelta da te. Un dardo infligge 1d4 + 1 danni da forza al suo bersaglio e li puoi dirigere perché colpiscano una o più creature.
+
+Il danno aumenta di 1 ogni due volte che hai preso Adepto della Magia fino ad un massimo di 4 aumenti.
+
+Lanciare uno o più dardi già evocati costa 1 Azione. 
+
 Puoi creare un dardo aggiuntivo quando raggiungi CM 3, CM 5, CM 7 e CM 9, ma l'incantesimo costa un Punto Magia addizionale.
 
-Se dedichi 3 Azioni al lancio dell'incantesimo manifesti 2 dardi in più.
+Per ogni Azione nel round dedicata al lancio dell'incantesimo oltre la prima manifesti 1 dardo in più.
 
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia l'incantesimo crea un dardo aggiuntivo.
 
@@ -11027,7 +11035,7 @@ Per un Devoto di Laydel questo incantesimo è Comune e ha un tempo di lancio di 
 	\item[\textbf{Durata}]: 10 round
 \end{description}
 
-L'incantatore permea di magia un piccolo oggetto che incomincia a brillare di luce. La luce si illumina il suo quadretto ed un ulteriore metro attorno, oltre non genera luce fioca. La durata dell'incantesimo è 10 round. L'incantatore può lanciare l'oggetto entro 9 metri, a distanze più lunghe la magia svanisce automaticamente. Non è possibile lanciare l'incantesimo più volte al giorno di quanti Punti Fato si possiedono.
+L'incantatore permea di magia un piccolo oggetto che incomincia a brillare di luce. La luce si illumina il suo quadretto ed un ulteriore metro attorno, oltre non genera luce fioca. La durata dell'incantesimo è 10 round. L'incantatore può lanciare l'oggetto entro 9 metri e deve rimanere entro questa distanza. Non è possibile lanciare l'incantesimo più volte al giorno di quanti Punti Fato si possiedono.
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Incantesimi]{Lama Infuocata}\hypertarget{Lama Infuocata}{}\medskip\noindent{\textbf{Lama Infuocata}}\pdfbookmark[2]{Lama Infuocata}{Lama Infuocata}
 \noindent
@@ -13433,7 +13441,7 @@ Dalle tue mani saettano lampi che infliggono una scossa a una creatura con cui p
 
 Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e CM 17, ma costa 2 Azioni lanciarlo potenziato e 2 Punti Magia, è altresì necessario avere preso Adepto della Magia un numero di volte pari ai potenziamenti che si vogliono applicare.
 
-\textbf{Per ogni due Successo Critico Magico ottenuto} l'incantesimo \emph{salta} su un altra creatura nemica entro 1 metro da quella iniziale.
+\textbf{Per ogni Successo Critico Magico ottenuto} l'incantesimo \emph{può saltare} su un altra creatura nemica entro 1 metro da quella iniziale o somma 1d6 di danno aggiuntivo.
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Incantesimi]{Succo concentrato di Ribes di Kyrin}\hypertarget{Succo concentrato di Ribes di Kyrin}{}\medskip\noindent{\textbf{Succo concentrato di Ribes di Kyrin}}\pdfbookmark[2]{Succo concentrato di Ribes di Kyrin}{Succo concentrato di Ribes di Kyrin}
 \noindent
@@ -20864,7 +20872,7 @@ Una creatura di taglia superiore a media può condividere i propri quadretti sol
 Es. un mostro di taglia Grande può condividere il suo spazio solo con una creatura di taglia Piccola o inferiore, se fosse Enorme potrebbe condividerlo con una creatura di taglia Media o inferiore.
 
 \subsubsection{Scambiarsi di posto}\index{Scambiarsi di posto}
-Un personaggio a contatto con un altra creatura può usare \textbf{una Azione} per \textbf{scambiarsi di posto} con questa. Se la creatura è ostile è necessaria una Prova Atletica contrapposta ad un Tiro Salvezza su Tempra per riuscire a scambiarsi. Per ogni taglia di differenza chi ha quella maggiore prende +1d6 di bonus alla prova. Costa 1 Azione, anche se la creatura non è ostile.
+Un personaggio a contatto con un altra creatura può usare \textbf{una Azione} per \textbf{scambiarsi di posto} con questa. Se la creatura è ostile è necessaria una Prova Atletica contrapposta ad un Tiro Salvezza su Tempra per riuscire a scambiarsi. Per ogni taglia di differenza chi ha quella maggiore prende +1d6 di bonus alla prova. Costa una Reazione alla creatura amichevole.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups nel cunicolo] %box giocatore
 Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. E' alla quarta posizione.
@@ -20889,7 +20897,7 @@ Se volete un crudo realismo allora è terreno difficile attraversare anche zone 
 
 
 \subsubsection{Essere ristretti con qualcuno}\index{Essere ristretti con qualcuno}
-Due creature ristrette, ovvero che condividono lo stesso quadretto e non rispettano le regole di \hyperlink{condividereglispazi}{Condividere gli Spazi} subiscono un -1d6 al Tiro per Colpire ed un -4 alla Difesa finché ristretti.\index{Ristretti}
+Due creature ristrette, ovvero che condividono lo stesso quadretto e non rispettano le regole di \hyperlink{condividereglispazi}{Condividere gli Spazi} subiscono un -1d6 al Tiro per Colpire ed un -4 alla Difesa finché ristretti.\index{Ristretti}\hypertarget{ristretti}{}\label{ristretti}
 
 
 \subsubsection{Passare per strettoie o restringimenti}\index{Passare per strettoie o restringimenti}\index{Strettoie}\index{Restringimenti}
@@ -20905,15 +20913,12 @@ I personaggi che esplorano una zona usano il movimento locale, misurato in metri
 
 In queste situazione non è fondamentale misurare la distanza in maniera precisa ma appena la situazione diventa \emph{problematica} o richiede attenzione la mappa si converte in movimento tattico, quadrettata e misurata.
 
-\medskip
-
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item
 Camminare: Un personaggio può camminare senza problemi in Movimento locale per 8 ore al giorno.
 \item
-Correre: Un personaggio può Correre per un numero di minuti pari al triplo del proprio punteggio di Costituzione in Movimento locale senza bisogno di riposarsi (minimo 1 round).
+Correre: Un personaggio può Correre per un numero di minuti pari suo valore di Tiro Salvezza Tempra senza bisogno di riposarsi (minimo 1 round).
 \end{itemize}
-
 
 \subsection{Movimento Via Terra}\index{Movimento Via Terra}\label{movimentoviaterra}
 
@@ -20923,7 +20928,7 @@ Camminare più a lungo può sfinire (vedi Marcia forzata, sotto).
 
 \textbf{Andare Veloci}\index{Andare Veloci}\label{andareveloci}
 
-Si può andare veloci (movimento*2) per 1 ora senza problemi. Andare veloci per una seconda ora compresa tra due cicli di sonno provoca 1 Danno Non Letale, e ogni ora aggiuntiva provoca il doppio dei danni subiti nell'ora precedente. Un personaggio che subisce Danni Non Letali da andatura veloce è considerato Affaticato per quel giorno.
+Si può andare veloci (movimento*2) per 1 ora senza problemi. Andare veloci per una seconda ora compresa tra due cicli di sonno provoca 1 Danno Non Letale e ogni ora aggiuntiva provoca il doppio dei danni subiti nell'ora precedente. Un personaggio che subisce Danni Non Letali da andatura veloce è considerato Affaticato per quel giorno.
 
 Un personaggio Affaticato non può Correre o Caricare.
 
@@ -21392,18 +21397,18 @@ Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire
 
 \medskip
 
-\textbf{Tabella: Peso grado di Sfida per calcolo APL}\index[Tabelle]{Tabella Peso grado di Sfida per calcolo APL}
+\textbf{Tabella: Peso grado di Sfida per calcolo incontro}\index[Tabelle]{Tabella Peso grado di Sfida per calcolo incontro}
 
 \medskip
 
 \noindent\begin{tabular}{l|l||l|l|}
 \textbf{Fattore} & \textbf{\% Peso} &\textbf{Fattore} & \textbf{\% Peso}\\
 \toprule
--7/8& 5 & -2 & 45\\
--6& 10 & -1 & 55\\
--5& 15 &0 & 60\\
--4& 20 &+1& 75\\
--3& 25 &+2& 85\\
+-7/8& 5 & -2 & 55\\
+-6& 10 & -1 & 60\\
+-5& 15 &0 & 75\\
+-4& 25 &+1& 85\\
+-3& 47 &+2& 100\\
 \end{tabular}
 
 \medskip
@@ -27042,7 +27047,7 @@ Una creatura che abbia almeno Grado di Sfida 6 a discrezione del Narratore può 
 
 L'Azione Multiattacco consuma 2 Azioni anche se porta più di 2 attacchi. Ogni attacco è portato con il bonus al Tiro per Colpire segnato, senza penalità del Multiattacco.
 
-I mostri che hanno Multiattacco non hanno il Tiro Critico o l'Esplosione del Danno.
+I mostri che hanno Multiattacco non hanno il Tiro Critico o l'Esplosione del Danno ma rimane comunque l'Esplosione dle 6.
 
 %Ogni attacco segue le regole del \hyperlink{attacchimultiplimischia}{multiattacco} (pag. \pageref{attacchimultiplimischia}).
 
@@ -27733,7 +27738,7 @@ Se il basilisco si trova entro 9 metri dal suo riflesso a luce intensa e lo vede
 
 \emph{Colpisce:} 10 (2d6 + 3) danni perforanti più Veleno del Basilisco.
 
-\emph{Veleno:} Veleno del Basilisco, F, istantaneo, 14, Rallentato 1/3r.
+\emph{Veleno:} Veleno del Basilisco, F, istantaneo, TS Tempra 14 oppure Rallentato 1/3r.
 
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi\\
@@ -28521,7 +28526,7 @@ Un glabrezu è alto 5,3 metri e pesa poco più di 3000 kg. Questi perfidi demoni
 	\item[\textbf{Caratt.:}] For 4 Des 3 Cos 5 Int 5 Sag 1 Car 1
 	\item[\textbf{Punti Ferita:}] 175,  \textbf{Difesa:} 24,  \textbf{Iniziativa:} +5
 	\item[\textbf{Movimento:}] 9 m
-	\item[\textbf{Tiri Salvezza:}] Tempra +16, Riflessi +3, Volontà +9
+	\item[\textbf{Tiri Salvezza:}] Tempra +15, Riflessi +12, Volontà +10
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco; da arma non magica
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Sensi:}] Scurovisione 36 m
@@ -29158,7 +29163,7 @@ Servono signori mortali per secoli con l'intento di corrompere le loro anime, as
 	\item[\textbf{Imm. Danni:}] Freddo, Fuoco, Veleno, armi +1
 	\item[\textbf{Sensi:}] Vista Cieca 18 m, Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Infernale, telepatia 36 m
-	\item[\textbf{Sfida:}] 14 (11.500 PX)\smallskip
+	\item[\textbf{Sfida:}] 14 (11500 PX)\smallskip
 \end{description}
 
 \emph{\textbf{Resistenza alla Magia.}} Il diavolo ha +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici.
@@ -31108,7 +31113,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Imm. Danni:}] Freddo
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
-	\item[\textbf{Sfida:}] 16 (1500 PX)\smallskip
+	\item[\textbf{Sfida:}] 16 (15000 PX)\smallskip
 \end{description}
 
 \emph{\textbf{Resistenza Leggendaria (3/Giorno).}} Se il drago fallisce un Tiro Salvezza, può scegliere invece di riuscire.
@@ -32132,7 +32137,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
 	\item[\textbf{Tipo:}] Media drago, caotico buono
 	\item[\textbf{Caratt.:}] For 2 Des 1 Cos 1 Int 2 Sag 0 Car 1
-	\item[\textbf{Punti Ferita:}] 31,  \textbf{Difesa} 17,  \textbf{Iniziativa:} +2
+	\item[\textbf{Punti Ferita:}] 31,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +2	
 	\item[\textbf{Movimento:}] 9 m, scalata 9 m, volo 18 m
 	\item[\textbf{Tiri Salvezza:}] Tempra +3, Riflessi +3, Volontà +2
 	\item[\textbf{Competenze:}] Furtività +3, Ingannare +3, Consapevolezza +4
@@ -32174,7 +32179,7 @@ Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrar
 	\item[\textbf{Immunità:}] affascinato, paralizzato, affaticato, spaventato
 	\item[\textbf{Sensi:}] Scurovisione 60 m, Visione del vero 40 m
 	\item[\textbf{Linguaggi:}] tutti
-	\item[\textbf{Sfida:}] 30 (155,000 PX)\smallskip
+	\item[\textbf{Sfida:}] 30 (155000 PX)\smallskip
 \end{description}
 
 
@@ -32914,7 +32919,7 @@ Un fustigatore è alto 2,7 metri e pesa 1.100 kg.
 	\item[\textbf{Tiri Salvezza:}] Tempra +3, Riflessi +2, Volontà +0
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] comprendono il Comune ma non lo parlano, Abissale
-	\item[\textbf{Sfida:}] 1/4 (100 PX)\smallskip
+	\item[\textbf{Sfida:}] 1/4 (50 PX)\smallskip
 \end{description}
 
 \emph{\textbf{Sensibilità alla Luce}}. Mentre è alla luce del sole, il gablin ha -1d6 ai tiri per colpire, oltre che alle prove di Consapevolezza basate sulla vista.
@@ -33228,9 +33233,9 @@ I ghast sono Ghoul con un legame più profondo con il Vuoto. La paralisi di un g
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
 	\item[\textbf{Tipo:}] Media non morto, caotico malvagio
 	\item[\textbf{Caratt.:}] For 1 Des 2 Cos 0 Int -2 Sag 0 Car -2
-	\item[\textbf{Punti Ferita:}] 30,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +2
+	\item[\textbf{Punti Ferita:}] 30,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m
-	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +10, Volontà +10}
+	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Immunità:}] affascinato, affaticato
 	\item[\textbf{Sensi:}] Scurovisione 18 m
@@ -33352,7 +33357,7 @@ La Madre Ghoul è solitamente a capo di un clan di ghoul che può raggiungere an
 	\item[\textbf{Res. Danni:}] armi non magiche o d'argento
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Comune, Expiran
-	\item[\textbf{Sfida:}] 4 (110 PX)\smallskip
+	\item[\textbf{Sfida:}] 4 (1100 PX)\smallskip
 \end{description}
 
 \textbf{\emph{Rigenerazione}}. Il Ghoul Putrescente rigenera 5 Punti Ferita a round tranne se è in piena luce solare o ha subito danni da Luce nel round precedente. Se il Ghoul Putrescente è in un cimitero recupera 10 Punti Ferita a round.
@@ -34814,7 +34819,7 @@ I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e v
 	\item[\textbf{Imm. Danni:}] da arma non magica che non siano argentati
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Comune (non può parlare in forma di tigre)
-	\item[\textbf{Sfida:}] 4 (1.1100 PX)\smallskip
+	\item[\textbf{Sfida:}] 4 (1100 PX)\smallskip
 \end{description}
 
 \emph{\textbf{Balzo.}} Se la tigre mannara si muove di almeno 5 metri in linea retta verso una creatura e la colpisce con un attacco di artiglio durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 16 o cadere prono. Se il bersaglio è prono, la tigre mannara può effettuare un attacco di morso contro di esso come Azione Immediata.
@@ -37728,7 +37733,7 @@ I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi
 	\item[\textbf{Res. Danni:}] da Vuoto; da arma non magica
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] le lingue che conosceva in vita
-	\item[\textbf{Sfida:}] 6 (1800 PX)\smallskip
+	\item[\textbf{Sfida:}] 6 (2300 PX)\smallskip
 \end{description}
 
 \emph{\textbf{Debolezze della Progenie Vampirica.}} La Progenie Vampirica ha i seguenti difetti:
@@ -37773,7 +37778,7 @@ Un Vampiro può decidere di creare da una vittima una progenie vampirica anzich�
 	\item[\textbf{Caratt.:}] For -4 Des 0 Cos -2 Int -4 Sag 0 Car -4
 	\item[\textbf{Punti Ferita:}] 28,  \textbf{Difesa:} 12,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 1 m
-	\item[\textbf{Tiri Salvezza:}] Tempra -1, Riflessi +0, Volontà -4
+	\item[\textbf{Tiri Salvezza:}] Tempra -1, Riflessi +0, Volontà +0
 	\item[\textbf{Sensi:}] vista tellurica 3 m
 	\item[\textbf{Sfida:}] 1 (200 PX)\smallskip
 \end{description}
@@ -38292,7 +38297,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 	\item[\textbf{Tipo:}] Piccola bestia, disallineato
 	\item[\textbf{Caratt.:}] For -1 Des 2 Cos 0 Int -3 Sag 1 Car -2
 	\item[\textbf{Punti Ferita:}] 15,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +2
-	\item[\textbf{Tiri Salvezza:}] Tempra +3, Riflessi +2, Volontà +2
+	\item[\textbf{Tiri Salvezza:}] Tempra +3, Riflessi +4, Volontà +3
 	\item[\textbf{Movimento:}] 6 m
 	\item[\textbf{Sfida:}] 0 (10 PX)\smallskip
 \end{description}
@@ -39054,7 +39059,7 @@ Alcuni orsi si sono adattati alla vita sottoterra. Costoro hanno le stesse stati
     \item[\textbf{Tipo:}] Minuscola bestia, disallineato
     \item[\textbf{Caratt.:}] For 2 (-5) Des 2 Cos -1 Int -5 Sag 0 Car -4
     \item[\textbf{Punti Ferita:}] 1,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +2
-    \item[\textbf{Tiri Salvezza:}] Tempra -4, Riflessi +2, Volontà -4 
+    \item[\textbf{Tiri Salvezza:}] Tempra -4, Riflessi +2, Volontà +0
     \item[\textbf{Movimento:}] 6 m, scalata 6 m 
     \item[\textbf{Sfida:}] 0(10 PX)\smallskip
 \end{description}
@@ -39610,7 +39615,7 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
     \item[\textbf{Competenze:}] Acrobatica +6, Consapevolezza +3
     \item[\textbf{Tiri Salvezza:}] Tempra +1, Riflessi +3, Volontà +2 
     \item[\textbf{Movimento:}] 9 m, scalata 9 m 
-    \item[\textbf{Sfida:}] 1/4 (10 PX)\smallskip
+    \item[\textbf{Sfida:}] 1/4 (50 PX)\smallskip
 \end{description}
 
 \textbf{Azioni}
@@ -40058,7 +40063,7 @@ Le guardie comprendono membri della ronda cittadina, sentinelle di una cittadell
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
     \item[\textbf{Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] For 3 Des 1 Cos 2 Int 0 Sag 0 Car 0
-    \item[\textbf{Punti Ferita:}] 58,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +1
+    \item[\textbf{Punti Ferita:}] 58,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +1
     \item[\textbf{Competenze:}] Atletica +5
     \item[\textbf{Tiri Salvezza:}] Tempra +4, Riflessi +2, Volontà +3 
     \item[\textbf{Movimento:}] 9 m 
@@ -40101,7 +40106,7 @@ Guerrieri sopravvissuti a lungo, guadagnandosi una grande fama di esperti e abil
     \item[\textbf{Punti Ferita:}] 52,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +0
     \item[\textbf{Tiri Salvezza:}] Tempra +4, Riflessi +1, Volontà +3 
     \item[\textbf{Movimento:}] 9 m 
-    \item[\textbf{Sfida:}] 3 ( 700 PX)\smallskip
+    \item[\textbf{Sfida:}] 3 (700 PX)\smallskip
 \end{description}
 
 
@@ -40246,7 +40251,7 @@ Una spia è un individuo addestramento nel reperire segreti per conto di qualcun
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
     \item[\textbf{Tipo:}] Media umanoide, qualsiasi Tratto non legale
     \item[\textbf{Caratt.:}] For 2 Des 3 Cos 2 Int 2 Sag 0 Car 2
-    \item[\textbf{Punti Ferita:}] 65,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +2
+    \item[\textbf{Punti Ferita:}] 65,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +2
     \item[\textbf{Competenze:}] Atletica +4, Ingannare +4
     \item[\textbf{Tiri Salvezza:}] Tempra +5, Riflessi +5, Volontà +3 
     \item[\textbf{Movimento:}] 9 m 
@@ -40345,7 +40350,7 @@ livello 2 (3 slot): \emph{Blocca persona, passo velato}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
     \item[\textbf{Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] For -1 Des 2 Cos 0 Int 3 Sag 1 Car 0
-    \item[\textbf{Punti Ferita:}] 40,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +3
+    \item[\textbf{Punti Ferita:}] 40,  \textbf{Difesa:} 21,  \textbf{Iniziativa:} +3
     \item[\textbf{Competenze:}] Arcano +6, Storia +6
     \item[\textbf{Tiri Salvezza:}] Tempra +6, Riflessi +6, Volontà +9 
     \item[\textbf{Movimento:}] 9 m 
@@ -40383,7 +40388,7 @@ livello 5 (1 slot): \emph{cono di freddo}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
     \item[\textbf{Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] For 0 Des 2 Cos 1 Int 5 Sag 2 Car 3
-    \item[\textbf{Punti Ferita:}] 99,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +5
+    \item[\textbf{Punti Ferita:}] 99,  \textbf{Difesa:} 27,  \textbf{Iniziativa:} +5
     \item[\textbf{Competenze:}] Arcano +13, Storia +13
     \item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +15, Volontà +16} 
     \item[\textbf{Movimento:}] 9 m 
@@ -40650,7 +40655,7 @@ Per convertire i mostri del famoso Gioco di Ruolo:
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Difesa} uguale a 12+GS+(GS/5)+Destrezza $\pm4$\
-\item \textbf{Tiri Salvezza} da GS+(GS/5)+Caratteristica $\pm2$\
+\item \textbf{Tiri Salvezza} da GS+(GS/5)+Caratteristica $\pm2$\ 
 \item \textbf{Punti Ferita} da (GS+1+(GS/5))*15 $\pm GS*2$\
 \item \textbf{Tiro per Colpire} da 3-18 (oppure GS*0.7+3 $\pm2$\ )
 \item \textbf{DC per Tiri Salvezza} da abilità da 10+GS+(GS/5)+Caratteristica correlata $\pm2$\
@@ -41314,7 +41319,7 @@ Una creatura sorpresa / impreparata ha una penalità di -2 a Difesa ed ai Tiri S
 
 \textbf{In Lotta}:\index{Lotta} Una creatura in lotta è trattenuta da una creatura, da una trappola o da un effetto. Vedi \textbf{Afferrato}.
 
-\textbf{Indifeso}:\index{Indifeso}\index{Addormentato}\index{Privo di Sensi}\index{Morente}\hypertarget{indifeso}{}\hypertarget{morente}{} Un personaggio addormentato, Privo di Sensi, Morente o per qualche altro motivo completamente alla mercé dei suoi avversari, è considerato Indifeso.
+\textbf{Indifeso}:\index{Indifeso}\index{Addormentato}\index{Privo di Sensi}\index{Morente}\hypertarget{indifeso}{}\hypertarget{morente}{}\label{morente} Un personaggio addormentato, Privo di Sensi, Morente o per qualche altro motivo completamente alla mercé dei suoi avversari, è considerato Indifeso.
 
 Una creatura Indifesa non può compiere Azioni o Reazioni ne parlare, gli attacchi in mischia contro di lei hanno +1d6 di bonus. Non è consapevole di ciò che gli accade intorno. La creatura lascia cadere qualsiasi cosa impugni e cade prona.
 
@@ -41387,11 +41392,11 @@ Quando sei prono puoi strisciare\index{Strisciare}\index{Carponi} o muoverti a c
 - Se l'oggetto non rientra in nessuna delle precedenti categorie, la condizione rotto non ha effetto sul suo uso. Gli oggetti con condizione rotto, a prescindere dal tipo, valgono il 25\% del loro costo normale. Se l'oggetto è magico, può essere riparato soltanto con l'incantesimo Fabbricare utilizzata da un incantatore di livello uguale o superiore a quello che ha creato dell'oggetto.
 
 \textbf{Sanguinante}\index{Sanguinante}\index{Sanguinamento}\hypertarget{sanguinamento}{}: Una creatura che sta subendo danni da sanguinamento subisce la quantità di danno indicata all'inizio del suo round. La Riduzione del danno (DR) non funziona sul danno da sanguinamento. Il sanguinamento può essere ridotto di un punto superando una prova di Pronto Soccorso con DC 12, 2 Azioni.
-Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 2. Costo \textbf{2 Azioni}.
+Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 2.
 
 Un trattamento di 1 minuto garantisce 1 successo, senza prova. Ogni successo critico riduce il sanguinamento di un punto ulteriore. Alcuni effetti di sanguinamento causano un danno di caratteristica o persino un risucchio di caratteristica.
 
-Il sanguinamento si riduce di 1 per ogni dado di cura della Pozione o Incantesimi. Se i Punti Ferita del soggetto vengono riportati al valore massimo il sanguinamento termina. \index{Sanguinamento e cure}
+Il sanguinamento si riduce di 1 per ogni dado di cura della Pozione o Incantesimi. Se i Punti Ferita del soggetto vengono riportati al valore massimo il sanguinamento termina. Il sanguinamento prosegue anche se la creatura è \hyperlink{morente}{morente}.\index{Sanguinamento e cure}
 
 Se non indicato diversamente il danno da sanguinamento si cumula fino ad un massimo di 10 Punti Ferita a round. Il danno da sanguinamento viene indicato con Sanguinamento valore/valore massimo, dove valore è il punteggio di sanguinamento causato dall'attacco e valore massimo è il punteggio di sanguinamento massimo che si può raggiungere.
 
@@ -41403,7 +41408,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 \noindent\rule{\textwidth}{0.4pt}
 
-\section{Tabelle per tiri casuali}
+\subsection{Tabelle per tiri casuali}
 
 {\small \setlength{\parindent}{0cm}{
 
@@ -41414,12 +41419,12 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 \begin{tabular}{ll}
 \toprule
 3d6 &Energia\\
-3-5&Elettricità\\
-6-8&Fuoco\\
-9-11&Freddo\\
-12-13&Suono\\
-14&Energia Neg.\\
-15&Energia Pos.\\
+3-5&Energia Neg.\\
+6-8&Energia Pos.\\
+9-11&Fuoco\\
+12-13&Freddo\\
+14&Elettricità\\
+15&Suono\\
 16&Luce\\
 17&Vuoto\\
 18&Forza\\
@@ -41439,18 +41444,22 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 4&Es & per & ro\\
 5&Ma & li & ka\\
 6&Bra & sa & sa\\
-7&Mar & se & la\\
-8&Ra & len & ry
+7&Mar & fe & la\\
+8&Ro & len & ry
 \end{tabular}
+
+\medskip
 
 \textbf{Generatori Effetti Fallimento Critico in Attacco}\index{Tabella Casuale - Fallimento critico con armi}
 
-\begin{tabularx}{0.48\textwidth}{l|X}
+\begin{tabularx}{0.5\textwidth}{l|X}
 
 \textbf{3d6} & \textbf{Effetto}\\
-
 3& Sei imbarazzato del tuo colpo, ma non succede nulla di particolare\\
-4& Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa\\
+4& Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa
+\end{tabularx}
+\begin{tabularx}{0.5\textwidth}{l|X}
+\textbf{3d6} & \textbf{Effetto}\\
 5& Metti male il piede. Fino alla fine del prossimo round hai movimento dimezzato\\
 6& Perdi il fiato. Fino all'inizio del prossimo round ha -1 Forza\\
 7& Piroetta. Ti sposti in una direzione casuale di 1 metro\\
@@ -41465,7 +41474,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 16 & Confuso. Ti dai una botta sulla testa. Fino alla fine del round sei sotto l'incantesimo \hyperlink{Confusione}{Confusione}\\
 17 & Ti colpisci con forza. Tira il danno regolare verso te stesso. Il round finisce\\
 18 & Ti colpisci con forza alla testa. Come 17 e chi è in mischia con te può effettuare un attacco d'opportunità usando una Reazione. Il round finisce\\
-19+& Ti colpisci con forza. Tira il danno e applica due colpi critici verso te stesso. Il round finisce\\
+19+& Ti colpisci con forza. Tira il danno e applica due colpi critici verso te stesso. Il round finisce
 \end{tabularx}
 
 \end{multicols}
