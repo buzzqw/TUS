@@ -842,7 +842,9 @@ aggiornata versione POD 2025/03/13
 
 0.99.46 aggiornato Un solo credo, aggiornato incantesimo Scassinare, formalizzato il concetto di contrastare incantesimo, chiarimenti su prova di contrasto e dissolvi magia, utilizzo contrastare per veleni e malattie, aggiornato indice tabelle, dettagli su gradi di sfida per computo sfide
 
-0.99.46s7 aggiornato incantesimo stretta folgorante, aggiornato dardo arcano, specificato che si puo' usare un punto fato per volta tranne quando esplicitato diversamente, aggiornato utilizzo dei punti fato, aggiornata tabella peso grado di sfida per calcolo incontro, aggiornato tiri salvezza a ghoul, aggiornati mostri diavolo del ghiaggio - tàhil - tigre mannara - progenie vampira - drago d'argento adulto - gablin - scimmia - capitano dei pirati - cucciolo di drago rosso - veterano - Hezrou, esplicitato che il sanguinamento prosegue anche quando si e' morenti, aggiornato tabelle tiri casuali, gestione del lancio di una creatura, dettagli sull'essere ristretti, 
+0.99.46s7 aggiornato incantesimo stretta folgorante, aggiornato dardo arcano, specificato che si puo' usare un punto fato per volta tranne quando esplicitato diversamente, aggiornato utilizzo dei punti fato, aggiornata tabella peso grado di sfida per calcolo incontro, aggiornato tiri salvezza a ghoul, aggiornati mostri diavolo del ghiaggio - tàhil - tigre mannara - progenie vampira - drago d'argento adulto - gablin - scimmia - capitano dei pirati - cucciolo di drago rosso - veterano - Hezrou, esplicitato che il sanguinamento prosegue anche quando si e' morenti, aggiornato tabelle tiri casuali, gestione del lancio di una creatura, dettagli sull'essere ristretti
+
+0.99.46 ottimizzazioni codice latex, 
 
 
 
