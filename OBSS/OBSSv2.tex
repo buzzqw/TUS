@@ -19,18 +19,15 @@
 \usepackage{setspace}
 \usepackage{graphicx}
 \usepackage{amssymb,siunitx}
-\usepackage{makeidx}
-\usepackage{titlesec}
+\usepackage{makeidx,index,titlesec}
+\usepackage{wrapfig}
 %\usepackage[allfiguresdraft]{draftfigure} %senza figure, deve rimanere alla riga 24
 \usepackage[unicode=true, bookmarks=true, pdftitle={OBSS}, pdfsubject={Gioco di Ruolo per Avventure Incredibili}, pdfauthor={Andres Zanzani}, breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 {hyperref}
 \hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
 \usepackage{bookmark}
-\usepackage{yfonts}
-\usepackage{lettrine} 
-\usepackage{calligra}
+\usepackage{lettrine,calligra,yfonts} 
 \usepackage{ragged2e}
-\usepackage{wrapfig}
 \usepackage{fancyhdr}
 \usepackage{tcolorbox}
 \tcbuselibrary{skins}
@@ -43,6 +40,7 @@
 	\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
 	\IfFileExists{#1.idx}{\input{#1.idx}}{}%
 }
+
 \CountIndexOccurrences{OBSSv2}
 \CountIndexOccurrences{Incantesimi}
 \CountIndexOccurrences{Mostruario}
@@ -52,8 +50,8 @@
 	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
 \makeindex[columns=4, title=Indice Analitico, intoc=true]
 \makeindex[columns=3, name=Tabelle, title=Lista delle Tabelle, intoc=true]
-\makeindex[columns=4, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
-\makeindex[columns=4, name=Mostruario, title=Lista dei Mostri, intoc=true]
+\makeindex[columns=3, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
+\makeindex[columns=3, name=Mostruario, title=Lista dei Mostri, intoc=true]
 \makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
 \usetikzlibrary{shapes.misc,calc}
 \definecolor{lightgray}{gray}{0.95}
@@ -157,6 +155,9 @@ boxrule=0.3pt
 %\usepackage{garamondx} %\usepackage{tgpagella}%\usepackage{lmodern} %\usepackage{gentium}
 \usepackage{charter}
 
+
+
+
 \begin{document} 
 \def \versione {0.99.46} \fontsize{10.5}{12.5}\selectfont
 
@@ -170,7 +171,6 @@ boxrule=0.3pt
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
 \renewcommand{\LettrineFontHook}{\itshape}% for the initial
 \renewcommand{\LettrineTextFont}{\itshape}% for the second argumen
-
 
 
 
@@ -41947,6 +41947,9 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 %
 %\pagebreak
 
+
+
+
 {\scriptsize\printindex}
 
 %\immediate\write18{./contaobss.sh > contaobssidx.txt}
@@ -41973,8 +41976,6 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 
 \TotalBox{Tabelle}
 
-
-
 {\scriptsize\printindex[Incantesimi]}
 
 %\immediate\write18{./contaspell.sh > contaspell.txt}
@@ -41988,7 +41989,11 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 
 \TotalBox{Incantesimi}
 
-{\scriptsize\printindex[OggettiMagici]}
+
+{\scriptsize\vspace*{-1cm}\printindex[OggettiMagici]}
+
+
+%{\scriptsize\printindex[OggettiMagici]}
 
 
 %\immediate\write18{./contaomagici.sh > contaomagici.txt}

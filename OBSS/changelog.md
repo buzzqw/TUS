@@ -848,6 +848,10 @@ aggiornata versione POD 2025/03/13
 
 
 
+\makeatletter
+\def\imki@Incantesimi@idxhead#1{\vspace*{-2cm}\@makeschapterhead{#1}}
+\makeatother
+
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
