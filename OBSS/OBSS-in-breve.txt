@@ -4,7 +4,7 @@ Ambientazione: Terra di un prossimo futuro dove la cattura e sfruttamento di un 
 
 Razze:
 Le razze hanno tutte una loro connotazione specifica.
-C'e' l'umano (il solito), gli elfi deportati da mondi lontani, mezzelfo, mezzorco, nano (i puri comunisti),  gnomi (ingegnosita' e natura), nibali (tutti uguali tra di loro), diversi (figli di un patrono), sornelian (animali antropomorfi), golian (discendenti dei giganti), sulian (con sangue elementale).
+C'e' l'umano (il solito), gli elfi deportati da mondi lontani, mezzelfo, mezzorco, nano (i puri comunisti),  gnomi (ingegnosita' e natura), nibali (tutti uguali tra di loro), diversi (figli di un Patrono), sornelian (animali antropomorfi), golian (discendenti dei giganti), sulian (con sangue elementale).
 Ogni razza ha i suoi modificatori di caratteristica e peculiarità.
 
 Patroni:
@@ -14,13 +14,13 @@ Sono molto diversi tra loro, mai completamente buoni o completamente cattivi. Pr
 Comandano la magia, hanno predilezioni per alcune liste di magia e favoriscono l'uso di certe armi.
 
 Tratti:
-in breve e' il vostro carattere. Ne scegliete 5 da una lista circa 26. Sono importanti perchè i Tratti sono legati ai Patroni e per scegliere un certo Patrono per essere Devoto e' necessario avere qualche tratto in comune con quello. Piu' il punteggio e' alto piu' quel tratto e' caratterizzante della vostra personalita'. Indipendentemente che seguiate un Patrono o meno ce ne sara' qualcuno che sara' contento del vostro tratto principale e che lo vogliate o meno vi concedera' dei poteri.
+in breve e' il vostro carattere. Ne scegliete 5 da una lista circa 26. Sono importanti perchè connessi ai Patroni e per scegliere un certo Patrono per essere Devoto e' necessario avere qualche tratto in comune con quello. Piu' il punteggio e' alto piu' quel tratto e' caratterizzante della vostra personalita'. Indipendentemente che seguiate un Patrono o meno ce ne sara' qualcuno che sara' contento del vostro tratto principale e che lo vogliate o meno vi concedera' dei poteri.
 Si puo' essere Devoti se si hanno almeno 2 Tratti in comune con un Patrono, se sono 1 si puo' essere Seguaci. Essere Devoti o Seguaci porta vantaggi anche nell'utilizzo della magia.
 
 Classi:
 OBSS non ha classi, ogni giocatore costruisce il personaggio in base alle avventure e situazioni che incontra.
 Ad ogni livello puo' decidere di migliorare il punteggio di Competenza Armi oppure Competenza Magica. Con il primo colpisci meglio, con il secondo lanci incantesimi.
-Quasi a tutti i livelli prendi delle Abilita' che costruiscono le capacita' del personaggio, la classe.
+A quasi tutti i livelli si prende un Abilita' che costruiscono le capacita' del personaggio, la classe.
 
 Competenza Magica:
 Piu' il punteggio di Competenza Magica (CM) e' alto piu' incantesimi puoi tirare e piu' e' difficile resistere all'incantesimo.
@@ -103,4 +103,4 @@ sono punti che possono essere usati per aggiungere dadi alla prova o anche ritir
 Sono a scalare, ovvero piu' si e' di basso livello piu' se ne hanno.
 
 Regole Opzionali:
-tante regole opzionali per divertirsi ancora di piu'
+tante regole opzionali per divertirsi ancora di piu' e  personalizzare il sistema.
