@@ -848,7 +848,7 @@ aggiornata versione POD 2025/03/13
 
 aggiornata versione POD 2025/03/19
 
-0.99.47 layout, aggiornato punto 5 armi asta, aggiunto Opzionale - Effetti critici diversi, corretta effetto manovra 16 punti palle rotanti, dettagli su immagine aste, 
+0.99.47 layout, aggiornato punto 5 armi asta, aggiunto Opzionale - Effetti critici diversi, corretta effetto manovra 16 punti palle rotanti, dettagli su immagine aste, chiarimenti su alcune liste d'armi, 
 
 
 
