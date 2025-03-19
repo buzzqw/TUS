@@ -48,11 +48,11 @@
 \CountIndexOccurrences{OggettiMagici}
 \def\TotalBox#1{\vfill%
 	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
-\makeindex[columns=4, title=Indice Analitico, intoc=true]
-\makeindex[columns=3, name=Tabelle, title=Lista delle Tabelle, intoc=true]
-\makeindex[columns=3, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
-\makeindex[columns=3, name=Mostruario, title=Lista dei Mostri, intoc=true]
-\makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
+\makeindex[columns=1, title=Indice Analitico, intoc=true]
+\makeindex[columns=1, name=Tabelle, title=Elenco delle Tabelle, intoc=true]
+\makeindex[columns=1, name=Incantesimi, title=Elenco degli Incantesimi, intoc=true]
+\makeindex[columns=1, name=Mostruario, title=Elenco dei Mostri, intoc=true]
+\makeindex[columns=1, name=OggettiMagici, title=Elenco degli Oggetti Magici, intoc=true]
 \usetikzlibrary{shapes.misc,calc}
 \definecolor{lightgray}{gray}{0.95}
 \usetikzlibrary{shapes.misc,calc}
@@ -41953,22 +41953,25 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 %\pagebreak
 
 
-
-
-{\scriptsize\printindex}
-
-%\immediate\write18{./contaobss.sh > contaobssidx.txt}
-%\immediate\openin\myscriptresult=./contaobssidx.txt
-%\read\myscriptresult to \ScriptResult
-%\immediate\closein\myscriptresult
+\begin{multicols}{4}
+	{\scriptsize\printindex}
+\end{multicols}
 
 \vfill
 
-%Totale elementi nell'indice \ScriptResult
+\TotalBox{OBSSv2}\pagebreak
 
-\TotalBox{OBSSv2}
+\begin{multicols}{3}
+{\small\printindex[Tabelle]}
+\end{multicols}
 
-{\scriptsize\printindex[Tabelle]}
+\vfill
+
+\TotalBox{Tabelle}\pagebreak
+
+\begin{multicols}{4}
+{\small\printindex[Incantesimi]}
+\end{multicols}
 
 %\immediate\write18{./contaspell.sh > contaspell.txt}
 %\immediate\openin\myscriptresult=./contaspell.txt
@@ -41979,23 +41982,13 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 
 %Totale elementi in questo indice \ScriptResult
 
-\TotalBox{Tabelle}
-
-{\scriptsize\printindex[Incantesimi]}
-
-%\immediate\write18{./contaspell.sh > contaspell.txt}
-%\immediate\openin\myscriptresult=./contaspell.txt
-%\read\myscriptresult to \ScriptResult
-%\immediate\closein\myscriptresult
-
-\vfill
-
-%Totale elementi in questo indice \ScriptResult
-
-\TotalBox{Incantesimi}
+\TotalBox{Incantesimi}\pagebreak
 
 
-{\scriptsize\vspace*{-1cm}\printindex[OggettiMagici]}
+
+\begin{multicols}{4}
+	{\small\printindex[OggettiMagici]}
+\end{multicols}
 
 
 %{\scriptsize\printindex[OggettiMagici]}
@@ -42010,13 +42003,17 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 
 %Totale elementi in questo indice \ScriptResult
 
-\TotalBox{OggettiMagici}
+\TotalBox{OggettiMagici}\pagebreak
 
-{\scriptsize\printindex[Mostruario]}
+
+
+\begin{multicols}{4}
+	{\small\printindex[Mostruario]}
+\end{multicols}
 
 \vfill
 
-\TotalBox{Mostruario}
+\TotalBox{Mostruario}\pagebreak
 
 %Totale elementi in questo indice \ScriptResult
 
