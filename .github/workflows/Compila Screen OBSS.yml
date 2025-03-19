@@ -9,10 +9,10 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v2     
         with:       
-          root_file: "screen.tex"
+          root_file: "screenv2.tex"
           working_directory: ./OBSS
       - name: Upload pdf
         uses: actions/upload-artifact@v4
         with:
           name: "Screen del Narratore"
-          path: "./OBSS/screen.pdf"  
+          path: "./OBSS/screenv2.pdf"  
