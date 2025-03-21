@@ -848,7 +848,7 @@ aggiornata versione POD 2025/03/13
 
 aggiornata versione POD 2025/03/19
 
-0.99.47 layout, aggiornato punto 5 armi asta, aggiunto Opzionale - Effetti critici diversi, corretta effetto manovra 16 punti palle rotanti, dettagli su immagine aste, chiarimenti su alcune liste d'armi, aggiornata parte dei ringraziamenti, rimosso brandistocco (c'e' la lancia da fante che e' meglio) - grosso randello (doppio di mazza pesante) - naginata (doppione del Falcione in asta) - randello (doppione di mazza leggera), corretta dimesione flagello pesante, mazza pesante adesso si chiama Mazza flangiata, pugno vuoto non fa parte delle arme da stordimento, 
+0.99.47 layout, aggiornato punto 5 armi asta, aggiunto Opzionale - Effetti critici diversi, corretta effetto manovra 16 punti palle rotanti, dettagli su immagine aste, chiarimenti su alcune liste d'armi, aggiornata parte dei ringraziamenti, rimosso brandistocco (c'e' la lancia da fante che e' meglio) - grosso randello (doppio di mazza pesante) - naginata (doppione del Falcione in asta) - randello (doppione di mazza leggera), corretta dimesione flagello pesante, mazza pesante adesso si chiama Mazza flangiata, pugno vuoto non fa parte delle arme da stordimento, aggiornato incantesimo respirare sott'acqua - Riscaldare il Metallo - saltare 
 
 
 
