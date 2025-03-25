@@ -852,7 +852,7 @@ aggiornata versione POD 2025/03/19
 
 aggiornata versione POD 2025/03/23
 
-0.99.48 aggiornato template Infuso di Magia, aggiunti totale incantesimi nelle liste per livello, unificato layout in patroni, citazione da Giobbe, uniformata gestione manovre con tiri salvezza, aggiornato layout indice principale, 
+0.99.48 aggiornato template Infuso di Magia, aggiunti totale incantesimi nelle liste per livello, unificato layout in patroni, citazione da Giobbe, uniformata gestione manovre con tiri salvezza, aggiornato layout indice principale, aggiornati template mostri, ulteriori chiarimenti su multiattacco, 
 
 
 
