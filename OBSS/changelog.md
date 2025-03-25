@@ -856,8 +856,6 @@ aggiornata versione POD 2025/03/23
 
 
 
-Alabarda: la manovra speciale "Gancio", per tirare a se' gli avversari.
-
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
 - i componenti degli incantesimi sono opzionali, ma usare ingredienti particolari/rari migliora l'incantesimo
@@ -866,7 +864,7 @@ Alabarda: la manovra speciale "Gancio", per tirare a se' gli avversari.
 - opportunista valutare se darlo a quali mostri
 - stress, basso alto, bonus e malus, recupero
 - ipotesi togliere incantesimi di 7 8 9 livello. Togliere incantesimi inutili
-- spendere i soldi: oggetti magici, fortezze ?
+- spendere i soldi: oggetti magici (no), fortezze ?
 - separare il mostruario se pagine non sufficienti  (e 200+ pagine)
 - gestione morale mostri: CR+Forza/Saggezza vs TS Volonta' ???
 - morale hostile, unfriendly, indifferent, friendly, helpful
@@ -877,6 +875,7 @@ Alabarda: la manovra speciale "Gancio", per tirare a se' gli avversari.
 - ogni personaggio ha un elenco di obiettivi che se raggiunge acquisisce maggiore competenza/bonus ai ts/tc...
 - rituali/incantesimi di alto livello 9+ dove si deve essere seguaci con X punti in Tratti comuni per lanciarlo
 - psionici ? ispirazione da 2ed/3ed
+- Alabarda: la manovra speciale "Gancio", per tirare a se' gli avversari.
 
 > Opzionali / Altro Sistema
 
