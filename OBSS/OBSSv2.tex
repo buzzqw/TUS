@@ -40,7 +40,7 @@
 	\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
 	\IfFileExists{#1.idx}{\input{#1.idx}}{}%
 }
-
+\usepackage{adjustbox}
 \CountIndexOccurrences{OBSSv2}
 \CountIndexOccurrences{Incantesimi}
 \CountIndexOccurrences{Mostruario}
@@ -13606,21 +13606,6 @@ Questo incantesimo teletrasporta istantaneamente te e altre otto creature consen
 La destinazione che scegli ti deve essere nota, e deve essere sullo stesso piano di esistenza in cui ti trovi. La tua familiarità con la destinazione determina se vi riesce ad arrivare.
 
 Il Narratore tira un d100 e consulta la tabella.
-\end{multicols}
-\medskip
-\begin{tabular}{lllll}
-\toprule
-d100 &Errore&Area Simile&Fuori Bersaglio&Sul Bersaglio\\
-Cerchio permanente&-&-&-&01-100\\
-Oggetto Associato&-&-&-&01-100\\
-Molto Familiare&01-05&06-13&14-24&25-100\\
-Visto per caso&01-33&34-43&44-53&54-100\\
-Visto una volta&01-43&44-53&54-73&74-100\\
-Descrizione&01-43&44-53&54-73&74-100\\
-Falsa Destinazione&01-50&51-100&-&-
-\end{tabular}
-\medskip
-\begin{multicols}{2}
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 	\item \emph{Cerchio permanente} indica un cerchio di teletrasporto permanente di cui conosci la sequenza dei sigilli.
@@ -13634,6 +13619,26 @@ Falsa Destinazione&01-50&51-100&-&-
 	\item \emph{Area Simile}. Tu e il tuo gruppo (o l'oggetto bersaglio) finite in un'area diversa che è visualmente o tematicamente simile all'area bersaglio. Per esempio, se sei diretto al tuo laboratorio personale, potresti finire nel laboratorio di un altro incantatore o in un negozio di oggetti alchemici che possiede molti degli attrezzi e strumenti del tuo laboratorio. In genere, compari nel luogo simile più vicino, ma dato che l'incantesimo non ha limiti di gittata, potresti finire praticamente dovunque sullo stesso piano.
 	\item \emph{Errore}. L'imprevedibile magia dell'incantesimo provoca un viaggio difficile. Ogni creatura teletrasportata (o l'oggetto bersaglio) subisce 3d10 danni da forza, e il Narratore ritira sulla tabella per vedere dove finiscano (possono capitare più errori, che infliggono danni ogni volta).
 \end{itemize}
+
+\end{multicols}
+
+\medskip
+
+\noindent\begin{tabularx}{0.95\textwidth}{lllll}
+\toprule
+d100 &Errore&Area Simile&Fuori Bersaglio&Sul Bersaglio\\
+Cerchio permanente&-&-&-&01-100\\
+Oggetto Associato&-&-&-&01-100\\
+Molto Familiare&01-05&06-13&14-24&25-100\\
+Visto per caso&01-33&34-43&44-53&54-100\\
+Visto una volta&01-43&44-53&54-73&74-100\\
+Descrizione&01-43&44-53&54-73&74-100\\
+Falsa Destinazione&01-50&51-100&-&-
+\end{tabularx}
+
+\medskip
+
+\begin{multicols}{2}
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Incantesimi]{Tempesta di Fuoco}\hypertarget{Tempesta di Fuoco}{}\medskip\noindent{\textbf{Tempesta di Fuoco}}\pdfbookmark[3]{Tempesta di Fuoco}{Tempesta di Fuoco}
 \noindent
@@ -25138,41 +25143,49 @@ raro, del tutto simile all'incenso della meditazione, questo incenso dà a chi l
 
 La magia del mazzo funziona solo se le carte vengono pescate a caso (potete usare un mazzo di normali carte da gioco modificato per simulare il mazzo delle illusioni). Puoi usare due azioni per pescare una carta dal mazzo e scagliarla in un punto sul terreno a 9 metri da te.
 
-L'illusione di una o più creature si forma sopra la carta lanciata e rimane finché non viene dissolta. La creatura illusoria sembra reale, della taglia appropriata, e si comporta come fosse una vera creatura, eccetto che non può recare danni. Finché resti entro 36 metri dalla creatura illusoria e puoi vederla, puoi usare due azioni per muoverla magicamente in qualsiasi punto entro 9 metri dalla carta. Qualsiasi interazione fisica con la creatura illusoria la rivela come illusione, dato che gli oggetti le passano attraverso. Qualcuno che usi due azioni per ispezionare visivamente la creatura, la identifica come illusoria superando un Tiro Salvezza su Volonta con Intelligenza con DC 17. La creatura le apparirà quindi trasparente.
+L'illusione di una o più creature si forma sopra la carta lanciata e rimane finché non viene dissolta. La creatura illusoria sembra reale, della taglia appropriata, e si comporta come fosse una vera creatura, eccetto che non può recare danni. Finché resti entro 36 metri dalla creatura illusoria e puoi vederla, puoi usare due azioni per muoverla magicamente in qualsiasi punto entro 9 metri dalla carta. Qualsiasi interazione fisica con la creatura illusoria la rivela come illusione, dato che gli oggetti le passano attraverso. Qualcuno che usi due azioni per ispezionare visivamente la creatura, la identifica come illusoria superando un Tiro Salvezza su Volontà con Intelligenza con DC 17. La creatura le apparirà quindi trasparente.
 L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Quando l'illusione termina, l'immagine sulla carta scompare e quella carta non potrà più essere usata.
 
-\end{multicols}
-
-%\vfill
-%\begin{center}
-%\includegraphics[width=0.5\linewidth]{immagini/Incenso.png}
-%\end{center}
-
-\begin{tabular}{ll|ll}
-\textbf{Carta da Gioco}& \textbf{Illusione}&\textbf{Carta da Gioco}& \textbf{Illusione}\\
-\hline
-Asso di cuori &Drago rosso&Asso di quadri& Beholder\\
-Re di cuori &Cavaliere e quattro guardie&Re di quadri & Arcimago e mago apprendista\\
-Regina di cuori &Succube o incubo&Regina di quadri &Megera notturna\\
-Fante di cuori &Druido&Fante di quadri &Assassino\\
-Dieci di cuore &Gigante delle nuvole&Dieci di quadri &Gigante del fuoco\\
-Nove di cuori &Ettin&Nove di quadri &Oni\\
-Otto di cuori& Bugbear&Otto di quadri &Gnoll\\
-Due di cuori &Goblin&Due di quadri &Coboldo\\
-Asso di picche &Lich&Asso di fiori& Golem di ferro\\
-Re di picche &Sacerdote e due accoliti&Re di fiori &Capitano bandito e tre banditi\\
-Regina di picche& Medusa&Regina di fiori &Erinni\\
-Fante di picche &Veterano&Fante di fiori &Berserker\\
-Dieci di picche &Gigante del gelo&Dieci di fiori &Gigante di collina\\
-Nove di picche &Troll&Nove di fiori &Ogre\\
-Otto di picche &Hobgoblin&Otto di fiori& Orco\\
-Due di picche &Goblin&Due di fiori &Coboldo\\
-Jolly (2) &Tu (il proprietario del mazzo)&&
-\end{tabular}
-
-\begin{multicols}{2}
-
 \medskip
+
+\begin{adjustbox}{max width=0.5\textwidth} % Adatta alla larghezza della pagina, se necessario
+\begin{tabular}{>{\raggedright\arraybackslash}p{0.2\textwidth}|>{\raggedright\arraybackslash}p{0.3\textwidth}}
+\textbf{Carta da Gioco} & \textbf{Illusione} \\ \hline
+Asso di cuori & Drago rosso \\
+Re di cuori & Cavaliere e quattro guardie \\
+Regina di cuori & Succube o incubo \\
+Fante di cuori & Druido \\
+Dieci di cuori & Gigante delle nuvole \\
+Nove di cuori & Ettin \\
+Otto di cuori & Bugbear \\
+Due di cuori & Goblin \\
+Asso di picche & Lich \\
+Re di picche & Sacerdote e due accoliti \\
+Regina di picche & Medusa \\
+Fante di picche & Veterano \\
+Dieci di picche & Gigante del gelo \\
+Nove di picche & Troll \\
+Otto di picche & Hobgoblin \\
+Due di picche & Goblin \\
+Asso di quadri & Beholder \\
+Re di quadri & Arcimago e mago apprendista \\
+Regina di quadri & Megera notturna \\
+Fante di quadri & Assassino \\
+Dieci di quadri & Gigante del fuoco \\
+Nove di quadri & Oni \\
+Otto di quadri & Gnoll \\
+Due di quadri & Coboldo \\
+Asso di fiori & Golem di ferro \\
+Re di fiori & Capitano bandito e tre banditi \\
+Regina di fiori & Erinni \\
+Fante di fiori & Berserker \\
+Dieci di fiori & Gigante di collina \\
+Nove di fiori & Ogre \\
+Otto di fiori & Orco \\
+Due di fiori & Coboldo \\
+Jolly (2) & Tu (il proprietario del mazzo) \\
+\end{tabular}
+\end{adjustbox}
 
 \index[OggettiMagici]{Mazzo delle Meraviglie}\smallskip* \textbf{Mazzo delle Meraviglie}\hypertarget{Mazzo delle Meraviglie}{}
 100000 mo, leggendario, di solito lo si trova in un borsello o una scatola, che contiene delle carte fatte d'avorio o vello. La maggior parte di questi mazzi (il 75\%) ha solo tredici carte, mentre i restanti mazzi ne hanno ventidue.
@@ -25183,74 +25196,58 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 
 \medskip
 
-\end{multicols}
 
-\begin{tabularx}{0.95\textwidth}{lX|lX}
-\textbf{Carta da Gioco}& \textbf{Carta}&\textbf{Carta da Gioco}& \textbf{Carta}\\
+\begin{adjustbox}{max width=0.5\textwidth} % Adatta alla larghezza della pagina, se necessario
+\begin{tabular}{>{\raggedright\arraybackslash}p{0.15\textwidth}|>{\raggedright\arraybackslash}p{0.1\textwidth}>{\raggedright\arraybackslash}p{0.15\textwidth}|>{\raggedright\arraybackslash}p{0.1\textwidth}}
+
 \hline
-Asso di quadri& Visir*&Asso di cuori &Fato*\\
-Re di quadri &Sole&Re di cuori &Trono\\
-Regina di quadri& Luna&Regina di cuori& Chiave\\
-Fante di quadri &Stella&Fante di cuori& Cavaliere\\
-Due di quadri &Cometa*&Due di cuori &Gemma*\\
-Asso di fiori &Speroni*&Asso di picche& Dongione*\\
-Re di fiori &Il Vuoto&Re di picche& Rovina\\
-Regina di fiori& Fiamme&Regina di picche &Euriale\\
-Fante di fiori &Teschio&Fante di cuori& Furfante\\
-Due di fiori &Idiota&Due di picche &Appeso*\\
-Jolly &Matto*&Jolly &Buffone
-\end{tabularx}
-
-\begin{multicols}{2}
-
+\textbf{Carta da Gioco} & \textbf{Carta} & \textbf{Carta da Gioco} & \textbf{Carta} \\ 
+Asso di quadri          & Visir*         & Asso di cuori           & Destino*       \\ 
+Re di quadri            & Sole           & Re di cuori             & Trono          \\ 
+Regina di quadri        & Luna           & Regina di cuori         & Chiave         \\ 
+Fante di quadri         & Stella         & Fante di cuori          & Cavaliere      \\ 
+Due di quadri           & Cometa*        & Due di cuori            & Gemma*         \\ 
+Asso di fiori           & Artigli*       & Asso di picche          & Prigione*      \\ 
+Re di fiori             & Vuoto          & Re di picche            & Rovina         \\ 
+Regina di fiori         & Fiamme         & Regina di picche        & Eurialo        \\ 
+Fante di fiori          & Teschio        & Due di picche           & Bilancia*      \\ 
+Due di fiori            & Idiota         & Jolly                   & Matto*         \\ 
+Jolly                   & Giullare       &                         &                \\ 
+\end{tabular}
+\end{adjustbox}		
+		
 \medskip
 
 * Solo in mazzo da 22 carte
 
-\emph{Appeso} (solo in mazzo da 22). La tua mente è sconvolta e cambi 2 Tratti
 
-\emph{Buffone}. Ottieni 5\% di Punti Esperienza necessari per passare di livello, puoi pescare due carte aggiuntive oltre alle tue pescate dichiarate.
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Artigli}: Tutti gli oggetti magici indossati o trasportati dal personaggio si disintegrano. Gli artefatti posseduti dal personaggio non si disintegrano ma svaniscono.
+\item \textbf{Bilancia}: La mente del personaggio è sottoposta a una sofferta alterazione che modifica il suoi tratti. 
+\item \textbf{Cavaliere}: Il personaggio ottiene i servigi di un combattente con CA 4 che appare in un spazio a sua scelta entro 9 metri da lui. Il guerriero è della stessa razza del personaggio e lo serve fedelmente fino alla morte, convinto che sia stato il destino a condurlo da lui. Il personaggio ha il controllo del guerriero.
+\item \textbf{Chiave}: Nella mano del personaggio appare un’arma magica rara, molto rara o leggendaria in cui è competente. L’arma viene scelta dal DM.
+\item \textbf{Cometa}: Se il personaggio sconfigge da solo il successivo mostro o gruppo di mostri ostili che incontra, ottiene abbastanza punti esperienza da aumentare di livello. Altrimenti, la carta non ha alcun effetto.
+\item \textbf{Destino}: La trama della realtà si disfa e si ricompone, permettendo al personaggio di evitare o annullare un evento come se non fosse mai avvenuto. Il personaggio può usare la magia della carta non appena la pesca o in qualsiasi altro momento prima della sua morte.
+\item \textbf{Eurialo}: Il volto di medusa raffigurato sulla carta maledice il personaggio. Finché è maledetto in questo modo, il personaggio subisce una penalità di 2 ai tiri salvezza. Solo un Patrono o la magia della carta Destino può porre fine a questa maledizione.
+\item \textbf{Fiamme}: Il personaggio si inimica un potente diavolo, che desidera condurlo alla rovina e corromperà la sua vita in ogni modo. Questa ostilità dura finché uno dei due tra il personaggio e il diavolo muore.
+\item \textbf{Gemma}: Ai piedi del personaggio appaiono venticinque gemme del valore di 2000 mo ognuna o cinquanta gemme del valore di 1000 mo ognuna.
+\item \textbf{Giullare}: Il personaggio ottiene abbastanza Punti Esperienza per passare di livello oppure può pescare un altra carta oltre al numero dichiarato di carte da pescare.
+\item \textbf{Idiota}: Il punteggio di Intelligenza del personaggio si riduce permanentemente di 1d2 + 1 (fino a un punteggio minimo di -4). Il personaggio può pescare un’altra carta oltre al numero dichiarato di carte da pescare.
+\item \textbf{Ladro}: Un PNG a scelta del Narratore diventa ostile nei confronti del personaggio. L'identità del nuovo nemico è ignota al personaggio finché lo stesso PNG o qualcun altro non la rivela. Solo un incantesimo desiderio o un intervento divino possono annullare l’ostilità del PNG.
+\item \textbf{Luna}: Il personaggio ottiene la capacità di lanciare l'incantesimo desiderio per 1d3 volte.
+\item \textbf{Matta}: Il personaggio perde un livello, scarta questa carta e ne pesca un’altra dal mazzo; la pesca di entrambe queste carte conta solo come una pesca ai fini del numero dichiarato di carte da pescare.
+\item \textbf{Prigione}: Il personaggio scompare e resta intrappolato in stato di animazione sospesa all’interno di una sfera extradimensionale. Tutto ciò che indossava e trasportava resta nello spazio che occupava al momento della sua scomparsa. Il personaggio resta imprigionato finché non viene trovato e rimosso dalla sfera. Non è possibile localizzare il personaggio attraverso alcuna magia di divinazione, ma un incantesimo desiderio può rivelare l’ubicazione della prigione. Il personaggio non può pescare altre carte.
+\item \textbf{Rovina}: Ogni forma di ricchezza trasportata o posseduta dal personaggio, ad eccezione degli oggetti magici, va perduta. Le proprietà trasportabili svaniscono. Le attività commerciali, gli edifici e le terre possedute vanno perdute nel modo che richiede l'alterazione della realtà più limitata. Tutti i documenti che potrebbero dimostrare il possesso delle proprietà perdute a causa della carta svaniscono a loro volta.
+\item \textbf{Sole}: Ottieni abbastanza Punti Esperienza per passare di livello e un oggetto meraviglioso, determinato dal Narratore, compare tra le tue mani.
+\item \textbf{Stella}: Un punteggio di caratteristica del personaggio aumenta di 2. Il nuovo punteggio può essere superiore a 5, ma non a 7.
+\item \textbf{Teschio}: Il personaggio evoca una manifestazione della morte: uno spettrale scheletro umanoide avvolto in una veste nera stracciata e armato di una falce spettrale. Lo scheletro appare in uno spazio a scelta del Narratore entro 3 metri dal personaggio e lo attacca, intimando agli altri presenti di non immischiarsi nel combattimento. La manifestazione combatte finché non uccide il personaggio o non scende a 0 punti ferita nel qual caso scompare. Se qualcuno tenta di aiutare il personaggio, evoca a sua volta un altra manifestazione della morte. Una creatura uccisa da una manifestazione della morte non può essere riportata in vita.
+\item \textbf{Trono}: Il personaggio ottiene competenza nell’abilità Ingannare e il suo bonus alle prove di Ingannare raddoppia. Inoltre, il personaggio diventa il legittimo proprietario di un piccolo castello situato da qualche parte nel mondo. Tuttavia, il castello è infestato da mostri e il personaggio dovrà scacciarli prima di poterlo rivendicare come suo.
+\item \textbf{Visir}: In qualunque momento desideri, entro un anno da quando pesca questa carta, il personaggio può porre una domanda mentre medita e ottenere mentalmente una risposta veritiera a quella domanda. Oltre alle informazioni la risposta lo aiuta a comprendere come risolvere.
+\item \textbf{Vuoto}: Questa carta nera è foriera di sventura. L'anima del personaggio viene strappata dal corpo e rinchiusa in un oggetto situato in un luogo scelto dal Narratore. Tale luogo è protetto da uno o più potenti guardiani. Finché l’anima del personaggio è intrappolata in questo modo, il suo corpo è incapacitato. Un incantesimo desiderio non può riportare l’anima del personaggio nel corpo, ma può rivelare il luogo in cui si trova l’oggetto che la custodisce. Il personaggio non pesca altre carte.
+\end{itemize}
 
-\emph{Cavaliere}. Ottieni i servigi di un guerriero con CA 4 che compare in uno spazio a tua scelta entro 9 metri da te. Il guerriero è della tua stessa razza e ti servirà lealmente fino alla morte, credendo che sia stato il fato a portarlo al tuo servizio. Il personaggio è controllato da te.
 
-\emph{Chiave}. Un'arma magica rara, molto rara o leggendaria con la quale sei competente compare tra le tue mani. Il Narratore determina di che tipo di arma si tratta.
-
-\emph{Cometa} (solo in mazzo da 22). Se sconfiggi da solo il prossimo mostro o gruppo ostile che incontrerai, otterrai abbastanza punti esperienza da guadagnare un livello. Altrimenti, questa carta non avrà effetto.
-
-\emph{Euriale}. Sei maledetto dalla carta e subisci una penalità di -2 a tutti i Tiri Salvezza finché resterai maledetto a questo modo. Solo un Patrono o la magia della carta del Fato può porre fine a questa maledizione.
-
-\emph{Fato} (solo in mazzo da 22). La struttura della realtà si dissolve e riforma, permettendoti di evitare o cancellare un evento come se non fosse mai accaduto. Puoi usare la magia di questa carta non appena l'hai pescata o aspettare un qualsiasi altro momento fino alla tua morte.
-
-\emph{Fiamme}. Un potente diavolo diventa tuo nemico. Il diavolo cercherà di rovinare ed infestare la tua esistenza, assaporando le tue sofferenze fino al momento in cui cercherà di ucciderti. Questa inimicizia durerà fino alla morte tua o del diavolo.
-
-\emph{Furfante}. Un personaggio, non uno dei giocatori, a scelta del Narratore diventa ostile nei tuoi confronti. L'identità del nuovo nemico è ignota fino a quando il PNG o qualcun altro la rivelerà. Nulla a meno di un desiderio o intervento divino potrà porre fine all'ostilità del PNG nei tuoi confronti.
-
-\emph{Gemma} (solo in mazzo da 22). Davanti ai tuoi piedi compaiono venticinque gioielli del valore di 2000 mo ciascuno o cinquanta gemme del valore di 1000 mo ciascuna.
-
-\emph{Idiota} (solo in mazzo da 22). Riduci permanentemente il tuo punteggio di Intelligenza di 2 (fino a un punteggio minimo di -3). Puoi pescare un'ulteriore carta prima delle tue altre pescate dichiarate.
-
-\emph{Luna}. Ricevi la capacità di lanciare l'incantesimo desiderio 1d3 volte.
-
-\emph{Matto} (solo in mazzo da 22). Perdi 1 Livello, scarti questa carta, e peschi di nuovo dal mazzo, contando entrambe le pescate come solo una delle tue pescate.
-
-\emph{Rovina}. Perdi tutte le ricchezze che hai con te, a parte gli altri oggetti magici. Attività, edifici e le terre che possiedi vengono perse nel modo che altera di meno la realtà. Qualsiasi documento che provi che tu sia il proprietario di qualcosa che hai perso a causa di questa carta, scompare.
-
-\emph{Sole}. Ottieni 50\% dei Punti Esperienza necessari a passare di livello e un oggetto meraviglioso (determinato dal Narratore) compare tra le tue mani.
-
-\emph{Sotterraneo} (solo in mazzo da 22). Scompari e vieni sepolto in uno stato di animazione sospesa all'interno di una sfera extradimensionale. Tutto ciò che stavi indossando o trasportando rimane nello spazio da te occupato quando sei scomparso. Rimarrai imprigionato finché non sarai ritrovato e rimosso dalla sfera. Non puoi essere localizzato tramite nessuna magia di divinazione, ma l'incantesimo desiderio può rivelare la posizione della tua prigione. Non si pescano ulteriori carte.
-
-\emph{Speroni} (solo in mazzo da 22). Ogni oggetto magico che indossi o trasporti viene disintegrato. Gli artefatti in tuo possesso non vengono disintegrati, ma svaniscono.
-
-\emph{Stella}. Aumenta un tuo punteggio di caratteristica di 1. Il punteggio può superare il 5, ma non può superare 7.
-\emph{Teschio}. Evochi un avatara della morte (uno spettrale scheletro umanoide avvolto in una vestaglia nera e sbrindellata, il quale impugna una falce spettrale). Esso compare in uno spazio a scelta del Narratore entro 3 metri da te e ti attacca, avvisando tutti gli altri che devi vincere la battaglia da solo. L'avatara combatte fino alla tua morte o finché non scende a 0 Punti Ferita, al che svanisce. Se qualcuno cerca di aiutarti, costui evocherà il proprio avatara della morte. Una creatura uccisa da un avatara della morte non può essere riportata in vita.
-
-\emph{Trono}. Ottieni +1d6 in Diplomazia. Inoltre, ottieni il diritto di proprietà su di una piccola rocca da qualche parte nel mondo. Tuttavia, la rocca è attualmente occupata da mostri, che dovrai cacciare prima di poterla rivendicare come tua.
-
-\emph{Visir} (solo in mazzo da 22). In qualsiasi momento di tua scelta, entro un anno da quando hai pescato questa carta, puoi chiedere, meditando, risposta a una tua domanda e ricevere una risposta veritiera a essa. A parte fornire informazioni, la risposta può aiutarti a risolvere un problema complesso o un dilemma. In altre parole, la conoscenza è fornita assieme alla saggezza su come impiegarla.
-
-\emph{Vuoto}. Questa carta nera è indice di disastro. La tua anima viene rapita dal corpo e imprigionata all'interno di un oggetto in un luogo a scelta del Narratore. Una o più potenti creature proteggono questo luogo. Finché la tua anima è così intrappolata, il tuo corpo è inabile. L'incantesimo desiderio non è in grado di ripristinare la tua anima, ma può rivelare il luogo in cui si trova l'oggetto che la contiene. Non si pescano più carte.
-
-\emph{Avatara della Morte}
+\emph{Manifestazione della Morte}
 
 Non morto media, neutrale malvagio
 
@@ -25280,13 +25277,13 @@ Non morto media, neutrale malvagio
 
 \textbf{Sfida} (0 PX)
 
-\textbf{Movimento Incorporeo}. L'avatara può attraversare creature e oggetti come fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il proprio round all'interno di un oggetto.
+\textbf{Movimento Incorporeo}. La Manifestazione può attraversare creature e oggetti come fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il proprio round all'interno di un oggetto.
 
-\textbf{Immunità allo Scacciare}. L'avatara è immune agli effetti che scacciano i non morti.
+\textbf{Immunità allo Scacciare}. La Manifestazione è immune agli effetti che scacciano i non morti.
 
 \textbf{Azioni}
 
-\textbf{Falce Mietitrice}. L'avatara affonda la sua falce spettrale in una creatura entro 1 metro da esso, infliggendo 7 (1d8 + 3) danni perforanti più 4 (1d8) danni da Energia Negativa. Non può mancare.
+\textbf{Falce Mietitrice}. La Manifestazione affonda la sua falce spettrale in una creatura entro 1 metro da esso, infliggendo 7 (1d8 + 3) danni perforanti più 4 (1d8) danni da Vuoto. Non può mancare.
 
 \index[OggettiMagici]{Miniatura dal Potere Meraviglioso}\smallskip*\hypertarget{Miniatura dal Potere Meraviglioso}{} \textbf{Miniatura dal Potere Meraviglioso} rarità variabile, costo variabile, una miniatura dal potere meraviglioso è una statuetta di una bestia, piccola a sufficienza da entrare in tasca. Se usi due azioni per pronunciare una parola di comando e lanciare la miniatura in un punto del terreno entro 18 metri da te, la miniatura diventa una creatura vivente. Se lo spazio in cui la creatura dovesse apparire è occupato da un'altra creatura od oggetto, o se non c'è spazio sufficiente per la creatura, la miniatura non si trasforma.
 
@@ -25601,14 +25598,15 @@ Piazzare lo zainetto all'interno dello spazio extradimensionale creato da una bo
 
 \end{multicols}
 
-\vfill
-\begin{center}
+%\vfill
+%\begin{center}
 %\includegraphics[width=0.6\linewidth]{immagini/borsetta.png}
-\includegraphics[width=0.8\linewidth]{immagini/The_erection_of_the_Tabernacle_and_the_Sacred.png}
-
-\emph{Ark of the Covenantat the erection of the Tabernacle and the sacred vessels, as in Exodus 40:17–19. Figures de la Bible, Gerard Hoet (1648–1733) and others, published by P. de Hondt in The Hague in 1728}
 %\emph{Borsetta conservante, modello classico, Tipo II}
-\end{center}
+%\includegraphics[width=0.8\linewidth]{immagini/The_erection_of_the_Tabernacle_and_the_Sacred.png}
+
+%\emph{Ark of the Covenantat the erection of the Tabernacle and the sacred vessels, as in Exodus 40:17–19. Figures de la Bible, Gerard Hoet (1648–1733) and others, published by P. de Hondt in The Hague in 1728}
+
+%\end{center}
 
 \pagebreak
 
