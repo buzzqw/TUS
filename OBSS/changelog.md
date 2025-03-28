@@ -856,7 +856,7 @@ aggiornata versione POD 2025/03/23
 
 aggiornata versione POD 2025/03/26
 
-0.99.49
+0.99.49 modificato il bonus che hanno gli oggetti magici per salvarsi, 
 
 
 > valutare:
