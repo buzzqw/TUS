@@ -856,7 +856,7 @@ aggiornata versione POD 2025/03/23
 
 aggiornata versione POD 2025/03/26
 
-0.99.49 modificato il bonus che hanno gli oggetti magici per salvarsi, chiariti meglio un Condizioni Bloccato/Afferrato,  
+0.99.49 modificato il bonus che hanno gli oggetti magici per salvarsi, chiariti meglio un Condizioni Bloccato/Afferrato, aggiornato tempo di lancio per incantesimi con azione immediata: lama infuocata - parola divina - randello incantato - Parola del Potere Stordire - Parola del Potere Uccidere - Punizione Marchiante - Ritirata Rapida - Santuario - Colpo Infuocato - Colpo Accecante - Colpo Accurato, 
 
 
 > valutare:
