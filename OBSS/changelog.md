@@ -856,12 +856,11 @@ aggiornata versione POD 2025/03/23
 
 aggiornata versione POD 2025/03/26
 
-0.99.49 modificato il bonus che hanno gli oggetti magici per salvarsi, chiariti meglio un Condizioni Bloccato/Afferrato, aggiornato tempo di lancio per incantesimi con azione immediata: lama infuocata - parola divina - randello incantato - Parola del Potere Stordire - Parola del Potere Uccidere - Punizione Marchiante - Ritirata Rapida - Santuario - Colpo Infuocato - Colpo Accecante - Colpo Accurato, concentrazioni multiple non e' piu' una opzione, 
-
+0.99.49 modificato il bonus che hanno gli oggetti magici per salvarsi, chiariti meglio un Condizioni Bloccato/Afferrato, aggiornato tempo di lancio per incantesimi con azione immediata: lama infuocata - parola divina - randello incantato - Parola del Potere Stordire - Parola del Potere Uccidere - Punizione Marchiante - Ritirata Rapida - Santuario - Colpo Infuocato - Colpo Accecante - Colpo Accurato, concentrazioni multiple non e' piu' una opzione, aggiornato layout in magia, aggiunta gestione Opzionale - Componenti come Offerta, 
+minime correzioni in avventure nei dungeon, 
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
-- i componenti degli incantesimi sono opzionali, ma usare ingredienti particolari/rari migliora l'incantesimo
 - controllare immagini che non si vedono bene stampate
 - suggerimento per il narratore, non usare lo screen
 - opportunista valutare se darlo a quali mostri
@@ -870,7 +869,7 @@ aggiornata versione POD 2025/03/26
 - spendere i soldi: oggetti magici (no), fortezze ?
 - separare il mostruario se pagine non sufficienti  (e 200+ pagine)
 - gestione morale mostri: CR+Forza/Saggezza vs TS Volonta' ???
-- morale hostile, unfriendly, indifferent, friendly, helpful
+- morale Ostile, Non amichevole, Indifferrente, Amichevole, Disponibile ad aiutare
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - combattimento sociale, ampliare
 - piu' maledizioni
