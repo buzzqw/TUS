@@ -863,6 +863,11 @@ aggiornata versione POD 2025/04/01
 
 0.99.50 migliorato Terreno Instabile, bilanciato beffa crudele, 
 
+
+
+
+
+
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
 - controllare immagini che non si vedono bene stampate
