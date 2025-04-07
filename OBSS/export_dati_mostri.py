@@ -1,5 +1,6 @@
 import re
 import csv
+import datetime
 
 def parse_tex_file(tex_file):
     with open(tex_file, 'r', encoding='utf-8') as f:
@@ -15,7 +16,7 @@ def parse_tex_file(tex_file):
         lines = block.split('\n')
         current_monster = {}
 
-        name_match = re.search(r'\\index\[Mostruario\]{([^}]+)}', block)
+        name_match = re.search(r'\\index\[Mostruario\]\{([^}]+)\}', block)
         if name_match:
             current_monster['Nome'] = name_match.group(1)
 
@@ -46,20 +47,46 @@ def parse_tex_file(tex_file):
 
             elif '\\item[\\textbf{Tiri Salvezza:}]' in line:
                 if '\\resizebox' in line:
-                    ts_match = re.search(r'\\resizebox.*?{Tempra\s*([+-]?\d+),\s*Riflessi\s*([+-]?\d+),\s*Volontà\s*([+-]?\d+)}', line)
-                    if ts_match:
-                        current_monster['TS_Tempra'] = ts_match.group(1)
-                        current_monster['TS_Riflessi'] = ts_match.group(2)
-                        current_monster['TS_Volonta'] = ts_match.group(3)
+                    ts_match = re.search(r'\\resizebox{[^}]+}{!}{Tempra\s+([+-]?\d+),\s*Riflessi\s+([+-]?\d+),\s*Volontà\s+([+-]?\d+)}', line)
                 else:
                     ts_match = re.search(r'\\item\[\\textbf{Tiri Salvezza:}\]\s*Tempra\s+([+-]?\d+),\s*Riflessi\s+([+-]?\d+),\s*Volontà\s+([+-]?\d+)', line)
-                    if ts_match:
-                        current_monster['TS_Tempra'] = ts_match.group(1)
-                        current_monster['TS_Riflessi'] = ts_match.group(2)
-                        current_monster['TS_Volonta'] = ts_match.group(3)
+                if ts_match:
+                    current_monster['TS_Tempra'] = ts_match.group(1)
+                    current_monster['TS_Riflessi'] = ts_match.group(2)
+                    current_monster['TS_Volonta'] = ts_match.group(3)
+
+            elif '\\item[\\textbf{Competenze:}]' in line:
+                comp_match = re.search(r'\\item\[\\textbf{Competenze:}\]\s*(.*)', line)
+                if comp_match:
+                    current_monster['Competenze'] = comp_match.group(1).strip()
+
+            elif '\\item[\\textbf{Res. Danni:}]' in line:
+                res_match = re.search(r'\\item\[\\textbf{Res. Danni:}\]\s*(.*)', line)
+                if res_match:
+                    current_monster['Res_Danni'] = res_match.group(1).strip()
+
+            elif '\\item[\\textbf{Imm. Danni:}]' in line:
+                imm_match = re.search(r'\\item\[\\textbf{Imm. Danni:}\]\s*(.*)', line)
+                if imm_match:
+                    current_monster['Imm_Danni'] = imm_match.group(1).strip()
+
+            elif '\\item[\\textbf{Immunità:}]' in line:
+                immunita_match = re.search(r'\\item\[\\textbf{Immunità:}\]\s*(.*)', line)
+                if immunita_match:
+                    current_monster['Immunita'] = immunita_match.group(1).strip()
+
+            elif '\\item[\\textbf{Sensi:}]' in line:
+                sensi_match = re.search(r'\\item\[\\textbf{Sensi:}\]\s*(.*)', line)
+                if sensi_match:
+                    current_monster['Sensi'] = sensi_match.group(1).strip()
+
+            elif '\\item[\\textbf{Linguaggi:}]' in line:
+                linguaggi_match = re.search(r'\\item\[\\textbf{Linguaggi:}\]\s*(.*)', line)
+                if linguaggi_match:
+                    current_monster['Linguaggi'] = linguaggi_match.group(1).strip()
 
             elif '\\item[\\textbf{Sfida:}]' in line:
-                sfida_match = re.search(r'\\item\[\\textbf{Sfida:}\]\s*([\d/]+)\s*\((\d+(?:\.\d+)?)\s*PX\)', line)  # Gestisce i punti nei PX
+                sfida_match = re.search(r'\\item\[\\textbf{Sfida:}\]\s*([\d/]+)\s*\((\d+)\s*PX\)', line)
                 if sfida_match:
                     current_monster['Sfida'] = sfida_match.group(1)
                     current_monster['PX'] = sfida_match.group(2)
@@ -71,10 +98,17 @@ def parse_tex_file(tex_file):
 
 def write_to_csv(monster_data, csv_file):
     header = ['Nome', 'Tipo', 'Difesa', 'PF', 'TS_Tempra', 'TS_Riflessi', 'TS_Volonta',
-              'For', 'Des', 'Cos', 'Int', 'Sag', 'Car', 'Iniziativa', 'Sfida', 'PX']
+              'For', 'Des', 'Cos', 'Int', 'Sag', 'Car', 'Iniziativa',
+              'Competenze', 'Res_Danni', 'Imm_Danni', 'Immunita',
+              'Sensi', 'Linguaggi', 'Sfida', 'PX']
 
+    # Get current UTC timestamp
+    timestamp = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
+    username = "Andres Zanzani"
+    
     with open(csv_file, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=header, restval='')
+        f.write(f'# Generato da {username} il {timestamp} UTC\n')
+        writer = csv.DictWriter(f, fieldnames=header, delimiter='|', restval='')
         writer.writeheader()
         for monster in monster_data:
             row = {k: monster.get(k, '') for k in header}
