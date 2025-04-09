@@ -39,7 +39,7 @@ breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
 \usepackage{fontspec}
 \usepackage{ragged2e}
 
-\setmainfont[Path=../altro/fonts/,BoldItalicFont=DejaVuSerif-BoldItalic.ttf,ItalicFont=DejaVuSerif-Italic.ttf,BoldFont=ReadexPro-bold.ttf,Ligatures=TeX,Scale=0.94]{ReadexPro-Regular.ttf} %togliere questa e fontspec per usare pdflatex
+\setmainfont[Path=../altro/fonts/,BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,BoldFont=AtkinsonHyperlegibleNext-Bold.ttf,Ligatures=TeX,Scale=0.94]{AtkinsonHyperlegibleNext-Regular.ttf} %togliere questa e fontspec per usare pdflatex
 
 \usepackage{wrapfig}
 \usepackage{fancyhdr}
@@ -175,6 +175,7 @@ boxrule=0.3pt
 
 \begin{document}
 \def \versione {0.95} \fontsize{10}{12}\selectfont
+
 
 \thispagestyle{empty} \tikz[remember picture,overlay]  \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\pdfpageheight]{copertina.png}}; \begin{textblock*}{20cm}(10cm,7cm)\Huge {Old Bell School System}\\ \end{textblock*} \begin{textblock*}{22cm}(13.5cm,8cm) \Large {\textbf{(OBSS)}}\\ \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty}  \newpage~\thispagestyle{empty} %deve rimanere su riga 180
 
