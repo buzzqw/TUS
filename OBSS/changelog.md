@@ -864,7 +864,9 @@ aggiornata versione POD 2025/04/01
 0.99.50 migliorato Terreno Instabile, bilanciato beffa crudele, aggiunto mostro orso corazzato, piccole correzioni linguistiche in razze, corretta assegnazione dei tiri in Modalita' della Tradizione, aggiornati ts e difesa mostri, aggiornato export_dati_mostri.py, dettagli e chiarimenti su oggetti maledetti, dettagli su indossare oggetti magici, cambiato font per migliorare la leggibilita', aggiornata la copertina, 
 
 
+aggiornata versione POD 2025/04/09
 
+0.99.51
 
 
 
