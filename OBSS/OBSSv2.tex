@@ -152,9 +152,9 @@ boxrule=0.3pt
 \usepackage{listings}
 \usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
 \usepackage[framemethod=TikZ]{mdframed}
-
 \usepackage{fontspec}
-\setmainfont{Atkinson Hyperlegible Next-Regular}
+\setmainfont[Path=../altro/fonts/,BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,BoldFont=AtkinsonHyperlegibleNext-Bold.ttf, SmallCapsFont=ReadexPro-Regular.ttf, SmallCapsFeatures={Letters=SmallCaps}]{AtkinsonHyperlegibleNext-Regular.ttf} %togliere questa e fontspec per usare pdflatex
+%\setmainfont{Atkinson Hyperlegible Next-Regular}
 
 
 
@@ -9772,6 +9772,8 @@ Spendendo il triplo dei Punti Magia puoi curare fino a 4 creature che si trovino
 
 \textbf{NOTA}: Se incantatore e creatura curata sono entrambi Devoti dello stesso Patrono ogni valore sul dado pari a 1,2,3 sarà considerato 4.
 
+\textbf{NOTA}: l'incantesimo quando lanciato dalla Lista Elementale dell'Acqua non può essere usato con più di 1 Punto Magia.
+
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Incantesimi]{Dardo arcano}\hypertarget{Dardo arcano}{}\medskip\noindent{\textbf{Dardo arcano}}\pdfbookmark[3]{Dardo arcano}{Dardo arcano}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
@@ -17749,7 +17751,7 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 
 \textbf{Borsello}. Un borsello di tessuto o cuoio può contenere, tra le altre cose, fino a 20 proiettili da fionda o 50 aghi da cerbottana. Un borsello diviso in compartimenti per contenere componenti per incantesimi viene detto borsa dei componenti.
 
-\textbf{Candela}. Per 1 ora di tempo reale di gioco, una candela proietta luce fioca in un raggio di 1 metro.
+\textbf{Candela}\hypertarget{Candela}{}\label{Candela}. Per 1 ora di tempo reale di gioco, una candela proietta luce fioca in un raggio di 1 metro.
 
 \textbf{Cerata}. E' un mantello trattato per essere idrorepellente, ti permette di rimanere asciutto anche sotto la pioggia.
 
@@ -18427,21 +18429,23 @@ Vedi anche \hyperlink{tabellaporte}{Tabella: Porte}, pag. \pageref{tabellaporte}
 
 \noindent\begin{tabularx}{0.98\textwidth}{lllll}
 \toprule{}
-\textbf{Materiale} &\textbf{Durezza}&\textbf{PF} &\textbf{DC} & \textbf{Oggetti di Esempio}\\
-Carta, Vetro, Stoffa&0& 1&3&Fogli di carta, vetro di finestra, stoffa leggera\\
-Stoffa pesante &1& 4& 12&Armatura di stoffa, giacca pesante, sacco, tenda\\
-Vetro&1&4&6&Blocco di vetro, tavolo di vetro, vaso pesante\\
-Corda, Cuoio&2&4&19&Corda di canapa\\
-Legno sottile&3&12&14&Sedia\\
-Armatura di Cuoio &4&16&22&Armatura di cuoio, sella, corda di canapa grossa\\
-Pietra sottile&4&16&20&Ardesia, piastrelle di ardesia, rivestimento in pietra\\
-Acciaio o ferro sottile&5&20&23&Corda di seta, scudo d'acciaio, spada corta\\
-Legno&5&20&18&Baule, tavolo\\
-Pietra&7&28&35&Pietra per lastricato, statua\\
-Acciaio o ferro&9&36&26&Catena, Armatura d'acciaio, ferro, spada lunga\\
-Struttura in legno&10&40&20&Muro di legno\\
-Struttura in pietra&14&56&35&Muro di pietra\\
-Struttura in acciaio o ferro&18&90&45&Muro di piastre di ferro
+\textbf{Materiale} &\textbf{Dur.}&\textbf{PF} &\textbf{DC} & \textbf{Oggetti di Esempio}\\
+\hline\\
+Carta, Vetro, Stoffa	&0	& 1	&	3&	Fogli di carta, vetro di finestra, stoffa leggera\\
+Vetro					&1	& 4 &	6	&Blocco di vetro, tavolo di vetro, vaso pesante\\
+Stoffa pesante 			&1	& 4 & 	12	&Armatura di stoffa, giacca pesante, sacco, tenda\\
+Legno sottile			&3	& 12 &	14	&Sedia\\
+Legno					&5	& 20 &	18	&Baule, tavolo\\
+Corda, Cuoio			&2 	& 4	&	19	&Corda di canapa\\
+Pietra sottile			&4	& 16 &	20	&Ardesia, mattonelle\\
+Struttura in legno		&10	& 40 &	20	&Muro di legno, forziere\\
+Cuoio rinforzato		&4	& 16 &	22	&Armatura di cuoio, sella, corda di canapa grossa\\
+Acciaio o ferro sottile &5	& 20 &	23	&Corda di seta, scudo d'acciaio, spada corta\\
+Acciaio o ferro			&9	& 36 &	26	&Catena, Armatura di metallo, forziere rinforzato\\
+Struttura in pietra		&14	& 56 &	35	&Muro di pietra, spada lunga\\
+Pietra					&7	& 28 &	35	&Pietra per lastricato, statua\\
+Struttura in acciaio o ferro	&18	&90	&45	&Muro di piastre di ferro, spadone a due mani
+
 \end{tabularx}
 
 \begin{multicols}{2}
@@ -18575,13 +18579,13 @@ Molti incantesimi ed oggetti usano come durata il \emph{tempo di gioco reale}, o
 \textbf{Fonte di} &\multicolumn{2}{c}{\textbf{Raggio in metri}}& \textbf{Durata} \\
 \textbf{Luce}& \textbf{Luce} & \textbf{Luce Fioca} &\\
 \toprule
-Candela & - & 1 metro & 1 ora\\
-Torcia & 3 metri & 6 metri & 1 ora\\
-Lanterna & 6 metri & 12 metri & 3 ore \\
+\hyperlink{Candela}{Candela} & - & 1 m & 1 ora\\
+\hyperlink{Torcia}{Torcia} & 3 m & 6 m & 1 ora\\
+\hyperlink{Lanterna}{Lanterna} & 6 m & 12 m & 3 ore \\
 \multicolumn{4}{c}{\textbf{Incantesimi}}\\
-Lacrima di Ljust & 1 & - & 10 round\\
-Luce& 3 metri & 6 metri &30 min. \\
-Luce Diurna & 6 metri & 12 metri & 1 ora 
+\hyperlink{Lacrima di Ljust}{Lacrima di Ljust} & 1 m & - & 10 round\\
+\hyperlink{Luce}{Luce}& 3 m & 6 m &30 min. \\
+\hyperlink{Luce Diurna}{Luce Diurna} & 6 m & 12 m & 1 ora 
 \end{tabular}
 
 \smallskip

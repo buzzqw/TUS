@@ -866,7 +866,7 @@ aggiornata versione POD 2025/04/01
 
 aggiornata versione POD 2025/04/09
 
-0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font,
+0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, 
 
 
 
