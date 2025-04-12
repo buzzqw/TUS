@@ -5,10 +5,8 @@
 \usetikzlibrary{shadows}
 \usepackage{multicol}
 \usepackage{tocloft}
-\usepackage{lmodern}
+%\usepackage{lmodern}
 \usepackage{caption}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
 \usepackage{setspace}
 \usepackage[a4paper]{geometry}
 \geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm} %std
@@ -26,7 +24,7 @@
 {hyperref}
 \hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
 \usepackage{bookmark}
-\usepackage{lettrine,calligra,yfonts} 
+\usepackage{yfonts} 
 \usepackage{ragged2e}
 \usepackage{fancyhdr}
 \usepackage{tcolorbox}
@@ -110,10 +108,6 @@ at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
 \raggedbottom
 \usepackage{array}
 \usepackage{longtable} 
-\newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-\newcolumntype{D}[1]{>{\centering}m{#1}}
-\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
 \setcounter{tocdepth}{3}
@@ -158,6 +152,10 @@ boxrule=0.3pt
 
 
 
+
+
+
+
 \begin{document} 
 \def \versione {0.99.51} \fontsize{11}{12}\selectfont  %la prima e' la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12.5}\selectfont
 
@@ -170,14 +168,14 @@ boxrule=0.3pt
 \newcolumntype{L}{>{\raggedright\arraybackslash}X}
 \newcolumntype{h}{>{\raggedright\arraybackslash}p}
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
-\renewcommand{\LettrineFontHook}{\itshape}% for the initial
-\renewcommand{\LettrineTextFont}{\itshape}% for the second argumen
 
 
 
 
 
-\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,11cm) \Huge{\color{black} \calligra\Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
+
+
+\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
 
 
 \bigskip
@@ -1261,7 +1259,7 @@ L'età del personaggio influisce sulle Caratteristiche fisiche e mentali.
 \medskip
 
 \noindent\begin{tabular}{llllll}
-Periodo & FOR & DES & COS & INT & SAG\\
+\textbf{Periodo} & \textbf{FOR} & \textbf{DES} & \textbf{COS} & \textbf{INT} & \textbf{SAG}\\
 \hline
 Giovane& & & +1 & & -1 \\
 \hline
