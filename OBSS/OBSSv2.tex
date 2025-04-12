@@ -24,7 +24,6 @@
 {hyperref}
 \hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
 \usepackage{bookmark}
-\usepackage{yfonts} 
 \usepackage{ragged2e}
 \usepackage{fancyhdr}
 \usepackage{tcolorbox}
@@ -134,15 +133,7 @@ arc=5pt,
 boxrule=0.3pt
 }
 
-\usepackage{zref-savepos,graphicx}
-\newcommand{\filltopageendgraphics}[2][]{%\filltopageendgraphics[width=.5\linewidth]{image-a}
-\par
-\zsaveposy{top-\thepage}% Mark (baseline of) top of image
-\vfill
-\zsaveposy{bottom-\thepage}% Mark (baseline of) bottom of image
-\smash{\includegraphics[keepaspectratio=true,height=\dimexpr\zposy{top-\thepage}sp-\zposy{bottom-\thepage}sp\relax,#1]{#2}}%
-\par
-}
+\usepackage{zref-savepos}
 \usepackage{listings}
 \usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
 \usepackage[framemethod=TikZ]{mdframed}
@@ -160,14 +151,22 @@ boxrule=0.3pt
 \def \versione {0.99.51} \fontsize{11}{12}\selectfont  %la prima e' la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12.5}\selectfont
 
 
-\newcommand\invisiblesection[1]{
-\refstepcounter{section}
-\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}
-\sectionmark{#1}}
-\newcolumntype{Q}{>{\centering\arraybackslash}X}
-\newcolumntype{L}{>{\raggedright\arraybackslash}X}
-\newcolumntype{h}{>{\raggedright\arraybackslash}p}
+
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -41049,7 +41048,7 @@ Per convertire i mostri del famoso Gioco di Ruolo:
 \item \textbf{Tiri Salvezza} da GS+Caratteristica $\pm2$\ 
 \item \textbf{Punti Ferita} da (GS+1+(GS/5))*15 + COS*(GS/5) $\pm GS*2$\
 \item \textbf{Tiro per Colpire} da 3-18 (oppure GS*0.7+Forza / Destrezza $\pm3$\ )
-\item \textbf{DC per Tiri Salvezza} da abilità da 10+GS+(GS/5)+Caratteristica correlata $\pm2$\
+\item \textbf{DC per Tiri Salvezza} da abilità da 10+GS+(GS/5) + Caratteristica correlata  $\pm2$\
 \item \textbf{Iniziativa} uguale a Destrezza o Intelligenza  $\pm2$\
 \item \textbf{Danno x Round} circa 4*GS
 \end{itemize}
@@ -41587,7 +41586,7 @@ La grandezza dell'uomo è nella decisione di essere più forte della sua condizi
 
 \textbf{Aumento Categoria di danno}\index{Aumento Dadi}\index{Taglia dei dadi}: quando la regola vi dice di aumentare la taglia o categoria di un dado seguite questo schema.
 
-1d4->1d6, 1d6->1d8, 1d8->1d10, 1d10/1d12->2d6, 2d6->2d8, 2d8->2d10, 2d10->3d6 -> 3d8 -> 3d10.
+1d4 -> 1d6 -> 1d8 -> 1d10 (1d12)-> 2d6 -> 2d8 -> 2d10 -> 3d6 -> 3d8 -> 3d10.
 
 \textbf{Accecato}:\index{Accecato} Il personaggio non riesce a vedere nulla. subisce penalità -2 alla maggior parte delle Competenze basate su Forza e Destrezza.
 
@@ -42288,35 +42287,6 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 
 \pagebreak
 
-
-%\invisiblesection{Mappe}\index{Mappe}
-%
-%
-%\begin{center}
-%\includegraphics[width=\linewidth]{immagini/Curyan-zona0-reduced.png}\\
-%
-%\medskip
-%
-%\emph{Dettaglio di Curyan}
-%\end{center}
-%
-%\begin{center}
-%\includegraphics[width=\linewidth]{immagini/Tiya-zona0-reduced.png}\\
-%
-%\medskip
-%
-%\emph{Dettaglio di Tiya}
-%\end{center}
-%
-%\pagebreak
-
-%\Large\textbf{Indice Analitico}
-
-%\begin{multicols}{3}
-%	{\titleformat{\chapter}[runin]{}{}{c}{}
-%		\titlespacing{\chapter}
-%		{0pt}{-\baselineskip}{0pt}\small\printindex}
-%\end{multicols}
 
 \begin{multicols}{3}
 	{\small\printindex}
