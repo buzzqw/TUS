@@ -866,9 +866,17 @@ aggiornata versione POD 2025/04/01
 
 aggiornata versione POD 2025/04/09
 
-0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, aggiunto attacco ampio fendente a giganti, 
+0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, 
 
 
+balor
+https://pf2easy.com/index.php?id=3822&name=harpy&optional=optundefined
+https://pf2.altervista.org/wiki/Azer
+\textbf{Reazione: \emph{Attacco d'opportunità}}
+\textbf{Azione d'Attacco: \emph{Colpo d'arma}}
+\textbf{Azione d'Attacco: \emph{Schianto}}
+\emph{\textbf{Venti affamati} (2 Azioni):}
+\textbf{Reazione: \emph{Attacco d'opportunità}}: il Cavaliere nero effettua un attacco ad una creatura che attraversa o esce dalla sua portata di 1 metro.
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
