@@ -866,10 +866,10 @@ aggiornata versione POD 2025/04/01
 
 aggiornata versione POD 2025/04/09
 
-0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee,
+0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee, succube, vrock, barbazu, diavolo delle catene, Erinni, tirannosauro, 
 
 
-orcus
+Triceratopo
 https://pf2easy.com/index.php?id=3822&name=harpy&optional=optundefined
 https://pf2.altervista.org/wiki/Azer
 \textbf{Reazione: \emph{Attacco d'opportunità}}
@@ -877,9 +877,10 @@ https://pf2.altervista.org/wiki/Azer
 \textbf{Azione d'Attacco: \emph{Colpo d'arma}}
 \textbf{Azione d'Attacco: \emph{Schianto}}
 \emph{\textbf{Venti affamati} (2 Azioni):}
-\textbf{Reazione: \emph{Attacco d'opportunità}}: il Cavaliere nero effettua un attacco ad una creatura che attraversa o esce dalla sua portata di 1 metro.
-\textbf{Reazione: \emph{Pustola esplosiva}} il demone quando colpito da un critico fa esplodere una pustola fetida che infligge alla creatura che ha portato il critico, entro 2 metri, 2d8 danni da acido.
+\textbf{Reazione: \emph{Attacco d'opportunità}}: il Cavaliere nero effettua un attacco ad una creatura che attraversa o esca dalla sua portata di 1 metro.
+\textbf{Reazione: \emph{Pustola eplosiva}} il demone quando colpito da un critico fa esplodere una pustola fetida che infligge alla creatura che ha portato il critico, entro 2 metri, 2d8 danni da acido.
 \textbf{Reazione: \emph{Parata.}} Il demone somma 5 alla sua Difesa contro un attacco da mischia che lo colpirebbe. Per farlo il demone deve poter vedere il suo attaccante e impugnare un'arma da mischia.
+\emph{\textbf{Sguardo del comandante.}} i diavoli a più bassa Sfida entro 9 metri prendono +1 al Tiro per Colpire, Difesa e Tiri Salvezza. Non è cumulabile.
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
