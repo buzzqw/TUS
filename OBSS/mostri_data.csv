@@ -1,4 +1,4 @@
-# Generato da Andres Zanzani il 2025-04-15 07:07:08 UTC
+# Generato da Andres Zanzani il 2025-04-15 10:48:37 UTC
 Nome|Tipo|Difesa|PF|TS_Tempra|TS_Riflessi|TS_Volonta|For|Des|Cos|Int|Sag|Car|Iniziativa|Competenze|Res_Danni|Imm_Danni|Immunita|Sensi|Linguaggi|Sfida|PX
 Oggetto Animato|varie, costrutto, disallineato|||+3|+1|0|3|0|0|-4|-4|-5||||Veleno, Energia Positiva, Energia Negativa|accecato, affascinato, assordato, paralizzato, pietrificato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)|||
 Aboleth|Grande aberrazione, legale malvagio|24|199|+12|+9|+12|5|-1|2|4|2|4|+4|Consapevolezza +10, Storia +12||||Scurovisione 36 m|Aquan, telepatia 36 m|10|5900
@@ -102,7 +102,7 @@ Elementale dell'Aria Generico|GS/3 (Piccola, Media, Grande, Enorme, Mastodontico
 Elementale del Fuoco Generico|GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)||||||||||||||da arma non magica|Fuoco, Veleno|afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato|Scurovisione 18 m|Ignan||
 Elementale della Terra Generico|GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)||||||||||||||da arma non magica|Veleno, Suono|afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato|percezione tellurica 18 m, Scurovisione 18 m|Tremun||
 Ettercap|Media mostruosità, neutrale malvagio|16|51|+3|+4|+3|2|2|1|-2|1|-2|+2|Furtività +4, Consapevolezza +3, Sopravvivenza +3||||Scurovisione 18 m||2|450
-Ettin|Grande gigante, caotico malvagio|16|89|+7|+3|+4|5|-1|3|-2|0|-1|-1|Consapevolezza +4|||||Gigante, Goblinoide|4|1100
+Ettin|Grande gigante, caotico malvagio|16|89|+7|+3|+4|5|-1|3|-2|0|-1|-1|Consapevolezza +4||||percezione tellurica 18 m|Gigante, Goblinoide|4|1100
 Fantasma|Media non morto, qualsiasi tratto|18|87|+4|+5|+5|-2|1|0|0|1|3|+1||Acido, Elettricità, Fuoco, Suono, Veleno; da armi non magiche||affascinato, afferrato, intralciato, paralizzato, pietrificato, prono, affaticato, spaventato, sanguinamento|Scurovisione 18 m|qualsiasi lingua conosciuta in vita, Expiran|4|1100
 Fauci Gorgoglianti|Media aberrazione, neutrale|13|52|+5|+1|+2|0|-1|3|-4|0|-2|-1||||prono|Scurovisione 18 m||2|450
 Fenice|Mastodontica celestiale, Coraggioso, Protettivo, Buono|38|300|+20|+21|+21|8|6|5|5|6|6|+6|||Fuoco, Luce, Veleno, armi +1|afferrato, intralciato, paralizzato, pietrificato, prono, privo di sensi, affaticato, sanguinamento|Scurovisione 18 m, Visione Crepuscolare 18 m|Ictun, Celestiale, Comune, Ignan|15|13000
@@ -110,12 +110,12 @@ Fioritura Ossea|Grande non morto, non allineato|22|127|+10|+8|+4|3|2|4|-2|-2|-3|
 Fungo Stridente|Media pianta, disallineato|7|15|+0|-5|-4|-5|-5|0|-5|-4|-5|-5||||accecato, assordato, spaventato|Vista Cieca 9 m (cieco oltre questo raggio)||0|10
 Fungo Violetto|Media pianta, disallineato|7|19|+0|-4|-3|-4|-5|0|-5|-4|-5|-5||||accecato, assordato, spaventato|Vista Cieca 9 m (cieco oltre questo raggio)||1/4|50
 Fuoco Fatuo|Minuscola non morto, caotico malvagio|23|51|+2|+11|+4|-5|9|0|1|2|0|+9||Acido, Veleno, Freddo, Fuoco, da Vuoto, Suono; armi che non siano magiche||afferrato, intralciato, paralizzato, privo di sensi, prono, affaticato, sanguinamento|Scurovisione 36 m|le lingue che conosceva in vita|2|450
-Fustigatore|Grande mostruosità, neutrale malvagio|17|108|+8|+4|+8|4|-1|3|3|3|-2|+3|Furtività +5, Consapevolezza +6||||Scurovisione 18 m||5|1800
+Fustigatore|Grande mostruosità, neutrale malvagio|17|108|+8|+4|+8|4|-1|3|3|3|-2|+3|Furtività +5, Consapevolezza +6||||Scurovisione 18 m|comune, lingue antiche (latino, greco, celtico..)|5|1800
 Gablin|Piccolo immondo (goblinoide), caotico malvagio|13|19|+1|+1|+0|2|1|1|-2|-1|-2|+1|||||Scurovisione 18 m|comprendono il Comune ma non lo parlano, Abissale|1/4|50
-Campione Gablin|Grande immondo, caotico malvagio|18|70|+6|+5|+3|4|2|3|1|0|-1|+2|||||Scurovisione 18 m|Comune, Abissale|3|700
+Campione Gablin|medio immondo, caotico malvagio|18|70|+6|+5|+3|4|2|3|1|0|-1|+2|||||Scurovisione 18 m|Comune, Abissale|3|700
 Paladino Gablin|Grande immondo, caotico malvagio|22|126|+9|+8|+9|5|2|3|2|3|3|+2|||||Scurovisione 18 m|Comune, Abissale|6|2300
 Gargoyle|Media elementale, caotico malvagio|14|52|+5|+2|+2|2|0|3|-2|0|-2|+0||Veleno, da arma non magica o che non siano di adamantio||pietrificato, affaticato|Scurovisione 18 m|Tremun|2|450
-G.E.C.|Grande aberrazione, caotico malvagio|26|205|+15|+11|+11|6|1|5|1|1|1|+1|Consapevolezza +10||||Scurovisione 18 m, senso tellurico 18 m||10|5900
+G.E.C.|Grande aberrazione, caotico malvagio|26|205|+15|+11|+11|6|1|5|3|1|-1|+1|Consapevolezza +10||||Scurovisione 18 m, senso tellurico 18 m||10|5900
 Djinni|Grande elementale, caotico buono|28|226|+17|+13|+14|5|2|6|2|3|5|+2|||Elettricità, Suono||Scurovisione 36 m|Ictun|11|7200
 Efreeti|Grande elementale, legale malvagio|27|228|+18|+12|+13|6|1|7|3|2|3|+3|||Fuoco||Scurovisione 36 m|Ignan|11|7200
 Ghast|Media non morto, caotico malvagio|17|51|+2|+5|+2|3|3|0|0|0|-1|+3||da Vuoto|Veleno|affascinato, affaticato|Scurovisione 18 m|Comune, Expiran|2|450
@@ -208,8 +208,8 @@ Scheletro di Saurovallo da Guerra|Grande non morto, legale malvagio|13|24|+2|+1|
 Segugio Infernale|Media immondo, legale malvagio|17|70|+5|+4|+4|3|1|2|-2|1|-2|+1|Consapevolezza +5||Fuoco||Scurovisione 18 m|comprende l'Infernale ma non può parlare|3|700
 Androsfinge|Grande mostruosità, legale neutrale|34|338|+22|+17|+21|6|0|5|3|4|6|+3|Arcana +9, Religione +15||da arma non magica|affascinato, spaventato|visione del vero 36 m|Comune, Sfinge|17|18000
 Ginosfinge|Grande mostruosità, legale neutrale|28|219|+14|+13|+15|4|2|3|4|4|4|+4|Arcana +14, Religione +9, Storia +14|da arma non magica||affascinato, spaventato|visione del vero 36 m|Comune, Sfinge|11|7200
-Sibilante|Grande mostruosità, caotico|15|51|+3|+3|+2|2|1|1|-3|0|-2|+1|Furtività +4, Consapevolezza +3||||Scurovisione 18 m|: -|2|450
-Spettro|Medio non morto, malvagio|15|33|+1|+3|+1|-5|2|0|0|0|2|+2|Furtività +8,Consapevolezza +3|Acido, Freddo, Fuoco, Elettricità, Suono, da Vuoto, da arma non magica||affascinato, spaventato, affaticato, afferrato, paralizzato, pietrificato, veleno, prono, ristretto|Scurovisione 18 m|Expiran|1|200
+Sibilante|Grande mostruosità, caotico|15|51|+3|+3|+2|2|1|1|-3|0|-2|+1|Furtività +4, Consapevolezza +3||||Scurovisione 18 m||2|450
+Spettro|Medio non morto, malvagio|15|33|+1|+3|+1|-5|2|0|0|0|2|+2|Furtività +8,Consapevolezza +3|Acido, Freddo, Fuoco, Elettricità, Suono, da Vuoto, da arma non magica||affascinato, spaventato, affaticato, afferrato, paralizzato, pietrificato, veleno, prono, ristretto|Scurovisione 18 m||1|200
 Spiritello|Minuscola fatato, neutrale buono|16|19|+0|+4|+1|-4|4|0|2|1|0|+4|Furtività +8 (la prova è fatta con -1d6 se lo spiritello sta volando),Consapevolezza +3|||||Comune, Elfico, Silvano|1/4|50
 Strige (Uccello Stigeo)|Minuscola bestia, disallineato|15|17|+0|+3|+0|-3|3|0|-4|-1|-2|+3|||||Scurovisione 18 m||1/8|25
 Tarrasque|Colossale mostruosità (titano), disallineato|52|615|+40|+30|+30|10|0|10|-2|0|0|+0|||Fuoco, Veleno, Elettricità; armi +2|affascinato, paralizzato, spaventato, affaticato|Vista Cieca 36 m||30|155000
