@@ -866,10 +866,10 @@ aggiornata versione POD 2025/04/01
 
 aggiornata versione POD 2025/04/09
 
-0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, correzioni minori in equipaggiamento, aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee, succube, vrock, barbazu, diavolo delle catene, Erinni, tirannosauro,  Triceratopo, Drago Bianco, Drago Blu, Drago Giallo, Drago Nero, Drago Porpora, Drago Rosso, Drago Verde, Drago d'argento, Drago di Bronzo, Drago d'oro, Drago di Ottone, Drago di Rame, Tàhil, Drider, Driade, Elementali, Ettin, fauci gorgoglianti, fenice, fioritura ossea, fungo stridente, fustigatore, campione gablin, gargoyle, G.E.C., Djinn, Efreet, ghast, ghoul nero, ghoul putrescente, gnoll, 
+0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, correzioni minori in equipaggiamento, aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee, succube, vrock, barbazu, diavolo delle catene, Erinni, tirannosauro,  Triceratopo, Drago Bianco, Drago Blu, Drago Giallo, Drago Nero, Drago Porpora, Drago Rosso, Drago Verde, Drago d'argento, Drago di Bronzo, Drago d'oro, Drago di Ottone, Drago di Rame, Tàhil, Drider, Driade, Elementali, Ettin, fauci gorgoglianti, fenice, fioritura ossea, fungo stridente, fustigatore, campione gablin, gargoyle, G.E.C., Djinn, Efreet, ghast, ghoul nero, ghoul putrescente, gnoll, gorgone, grifone, idra, lamia, lich, 
 
 
-{Globulo}
+{Cinghiale Mannaro}
 https://pf2easy.com/index.php?id=3822&name=harpy&optional=optundefined
 https://pf2.altervista.org/wiki/Azer
 \textbf{Reazione: \emph{Attacco d'opportunità}}
@@ -892,7 +892,8 @@ https://pf2.altervista.org/wiki/Azer
 \emph{\textbf{Aura distruttiva.}} il drago emette nel raggio di 6 metri un aura che causa 1 danno da forza cumulativo per round di permanenza. Il danno si azzera dopo 1 ora di allontanamento.
 \textbf{Reazione: \emph{Attacco d'opportunità}}: l'elementale effettua un attacco ad una creatura che attraversa o esca dalla sua portata di GS/3 metri.
 \textbf{Reazione: \emph{Sputo opportunistico}} la fause, quando colpita con un danno critico sputa un globo acido alla creatura che l'ha ferita causando 2d6 di danno da acido.
-
+\textbf{Reazione: \emph{Sasso affilato}}: il golem reagisce ad un attacco subito guadagnando 1 danno bonus al suo attacco di schianto.
+\textbf{Reazione: \emph{Attacco d'opportunità}}: il gargoyle attacca se sta volando ed una creatura esce o attraversa la sua portata di 1 m.
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
