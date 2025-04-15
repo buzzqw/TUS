@@ -866,10 +866,10 @@ aggiornata versione POD 2025/04/01
 
 aggiornata versione POD 2025/04/09
 
-0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee, succube, vrock, barbazu, diavolo delle catene, Erinni, tirannosauro, 
+0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, correzioni minori in equipaggiamento, aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee, succube, vrock, barbazu, diavolo delle catene, Erinni, tirannosauro,  Triceratopo, Drago Bianco, Drago Blu, Drago Giallo, Drago Nero, Drago Porpora, Drago Rosso, Drago Verde, Drago d'argento, Drago di Bronzo, Drago d'oro, Drago di Ottone, Drago di Rame, Tàhil,  
 
 
-Triceratopo
+Tàhil
 https://pf2easy.com/index.php?id=3822&name=harpy&optional=optundefined
 https://pf2.altervista.org/wiki/Azer
 \textbf{Reazione: \emph{Attacco d'opportunità}}
@@ -881,6 +881,15 @@ https://pf2.altervista.org/wiki/Azer
 \textbf{Reazione: \emph{Pustola eplosiva}} il demone quando colpito da un critico fa esplodere una pustola fetida che infligge alla creatura che ha portato il critico, entro 2 metri, 2d8 danni da acido.
 \textbf{Reazione: \emph{Parata.}} Il demone somma 5 alla sua Difesa contro un attacco da mischia che lo colpirebbe. Per farlo il demone deve poter vedere il suo attaccante e impugnare un'arma da mischia.
 \emph{\textbf{Sguardo del comandante.}} i diavoli a più bassa Sfida entro 9 metri prendono +1 al Tiro per Colpire, Difesa e Tiri Salvezza. Non è cumulabile.
+\emph{\textbf{Aura di gelo.}} il drago emette nel raggio di 3 metri un gelo magico che causa 2d6 danni da freddo a round.
+\emph{\textbf{Scarica elettrica.}} il drago emette nel raggio di 3 metri scariche elettriche magiche che causano 2d6 danni da elettricità a round.
+\emph{\textbf{Calore rovente.}} il drago emette nel raggio di 3 metri calore magico che causa 2d6 danni da fuoco a round.
+\emph{\textbf{Gas corrosivi.}} il drago emette nel raggio di 3 metri gas corrosivi che causano 2d6 danni da acido a round.
+\emph{\textbf{Aura rallentante.}} il drago emette nel raggio di 3 metri una magica che causa Rallentato 1.
+\emph{\textbf{Aura repulsiva.}} il drago emette nel raggio di 3 metri un aura che allontana le creatura. Ogni attacco portato subisce una penalità di 3 - distanza attacco.
+\emph{\textbf{Aura indebolente.}} il drago emette nel raggio di 3 metri un aura che causa Affaticato 2. Rimanere nell'aura non aumenta il livello di affaticato.
+\emph{\textbf{Aura soporifera.}} il drago emette nel raggio di 3 metri una aura magica che causa Rallentato 1 o Affaticato 1, casualmente per creatura.
+\emph{\textbf{Aura distruttiva.}} il drago emette nel raggio di 6 metri un aura che causa 1 danno da forza cumulativo per round di permanenza. Il danno si azzera dopo 1 ora di allontanamento.
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
