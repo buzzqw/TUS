@@ -866,12 +866,11 @@ aggiornata versione POD 2025/04/01
 
 aggiornata versione POD 2025/04/09
 
-0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, correzioni minori in equipaggiamento, aggiunta gestione licantropia, hyperlinkati incantesimi dei mostri ad descrizione incantesimi, 
+0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, correzioni minori in equipaggiamento, aggiunta gestione licantropia, hyperlinkati incantesimi dei mostri ad descrizione incantesimi, rimosso concetto di spendere movimento, corretto uso intralciato in afferrato dei mostri, aggiornati TC di mostri,
 
 aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee, succube, vrock, barbazu, diavolo delle catene, Erinni, tirannosauro,  Triceratopo, Drago Bianco, Drago Blu, Drago Giallo, Drago Nero, Drago Porpora, Drago Rosso, Drago Verde, Drago d'argento, Drago di Bronzo, Drago d'oro, Drago di Ottone, Drago di Rame, Tàhil, Drider, Driade, Elementali, Ettin, fauci gorgoglianti, fenice, fioritura ossea, fungo stridente, fustigatore, campione gablin, gargoyle, G.E.C., Djinn, Efreet, ghast, ghoul nero, ghoul putrescente, gnoll, gorgone, grifone, idra, lamia, lich, medusa, megera notturna, cubo gelatinoso, mimic, mummia, naga, ombra, omuncolo, oni, orco, otyugh, panoptikhan, persecutore invisibile, pseudodrago, Rakshasa, razziamorti, Remorhaz, sfinge,  Salamandre, sibilante, Uccello Stigeo, tarrasque, testuggine dragona, torciascura, verme purpureo, vampiro, progenie vampirica, mago, arcimago
 
 
-{unicorno}
 \textbf{Reazione: \emph{Attacco d'opportunità}}
 \textbf{Reazione: \emph{Anatomia opportunistica}}
 \textbf{Azione d'Attacco: \emph{Colpo d'arma}}
