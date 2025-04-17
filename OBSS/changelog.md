@@ -866,40 +866,13 @@ aggiornata versione POD 2025/04/01
 
 aggiornata versione POD 2025/04/09
 
-0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, correzioni minori in equipaggiamento, aggiunta gestione licantropia, hyperlinkati incantesimi dei mostri ad descrizione incantesimi, rimosso concetto di spendere movimento, corretto uso intralciato in afferrato dei mostri, aggiornati TC di mostri,
+0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, correzioni minori in equipaggiamento, aggiunta gestione licantropia, hyperlinkati incantesimi dei mostri ad descrizione incantesimi, rimosso concetto di spendere movimento, corretto uso intralciato in afferrato dei mostri, aggiornati TC di mostri
 
-aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee, succube, vrock, barbazu, diavolo delle catene, Erinni, tirannosauro,  Triceratopo, Drago Bianco, Drago Blu, Drago Giallo, Drago Nero, Drago Porpora, Drago Rosso, Drago Verde, Drago d'argento, Drago di Bronzo, Drago d'oro, Drago di Ottone, Drago di Rame, Tàhil, Drider, Driade, Elementali, Ettin, fauci gorgoglianti, fenice, fioritura ossea, fungo stridente, fustigatore, campione gablin, gargoyle, G.E.C., Djinn, Efreet, ghast, ghoul nero, ghoul putrescente, gnoll, gorgone, grifone, idra, lamia, lich, medusa, megera notturna, cubo gelatinoso, mimic, mummia, naga, ombra, omuncolo, oni, orco, otyugh, panoptikhan, persecutore invisibile, pseudodrago, Rakshasa, razziamorti, Remorhaz, sfinge,  Salamandre, sibilante, Uccello Stigeo, tarrasque, testuggine dragona, torciascura, verme purpureo, vampiro, progenie vampirica, mago, arcimago
+aggiunto attacco ampio fendente a giganti, aggiornate azioni ed attacchi a: ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee, succube, vrock, barbazu, diavolo delle catene, Erinni, tirannosauro,  Triceratopo, Drago Bianco, Drago Blu, Drago Giallo, Drago Nero, Drago Porpora, Drago Rosso, Drago Verde, Drago d'argento, Drago di Bronzo, Drago d'oro, Drago di Ottone, Drago di Rame, Tàhil, Drider, Driade, Elementali, Ettin, fauci gorgoglianti, fenice, fioritura ossea, fungo stridente, fustigatore, campione gablin, gargoyle, G.E.C., Djinn, Efreet, ghast, ghoul nero, ghoul putrescente, gnoll, gorgone, grifone, idra, lamia, lich, medusa, megera notturna, cubo gelatinoso, mimic, mummia, naga, ombra, omuncolo, oni, orco, otyugh, panoptikhan, persecutore invisibile, pseudodrago, Rakshasa, razziamorti, Remorhaz, sfinge,  Salamandre, sibilante, Uccello Stigeo, tarrasque, testuggine dragona, torciascura, verme purpureo, vampiro, progenie vampirica, mago, arcimago
 
+aggiornata versione POD 2025/04/17
 
-\textbf{Reazione: \emph{Attacco d'opportunità}}
-\textbf{Reazione: \emph{Anatomia opportunistica}}
-\textbf{Azione d'Attacco: \emph{Colpo d'arma}}
-\textbf{Azione d'Attacco: \emph{Schianto}}
-\emph{\textbf{Venti affamati} (2 Azioni):}
-\textbf{Reazione: \emph{Attacco d'opportunità}}: il Cavaliere nero effettua un attacco ad una creatura che attraversa o esca dalla sua portata di 1 metro.
-\textbf{Reazione: \emph{Pustola eplosiva}} il demone quando colpito da un critico fa esplodere una pustola fetida che infligge alla creatura che ha portato il critico, entro 2 metri, 2d8 danni da acido.
-\textbf{Reazione: \emph{Parata.}} Il demone somma 5 alla sua Difesa contro un attacco da mischia che lo colpirebbe. Per farlo il demone deve poter vedere il suo attaccante e impugnare un'arma da mischia.
-\emph{\textbf{Sguardo del comandante.}} i diavoli a più bassa Sfida entro 9 metri prendono +1 al Tiro per Colpire, Difesa e Tiri Salvezza. Non è cumulabile.
-\emph{\textbf{Aura di gelo.}} il drago emette nel raggio di 3 metri un gelo magico che causa 2d6 danni da freddo a round.
-\emph{\textbf{Scarica elettrica.}} il drago emette nel raggio di 3 metri scariche elettriche magiche che causano 2d6 danni da elettricità a round.
-\emph{\textbf{Calore rovente.}} il drago emette nel raggio di 3 metri calore magico che causa 2d6 danni da fuoco a round.
-\emph{\textbf{Gas corrosivi.}} il drago emette nel raggio di 3 metri gas corrosivi che causano 2d6 danni da acido a round.
-\emph{\textbf{Aura rallentante.}} il drago emette nel raggio di 3 metri una magica che causa Rallentato 1.
-\emph{\textbf{Aura repulsiva.}} il drago emette nel raggio di 3 metri un aura che allontana le creatura. Ogni attacco portato subisce una penalità di 3 - distanza attacco.
-\emph{\textbf{Aura indebolente.}} il drago emette nel raggio di 3 metri un aura che causa Affaticato 2. Rimanere nell'aura non aumenta il livello di affaticato.
-\emph{\textbf{Aura soporifera.}} il drago emette nel raggio di 3 metri una aura magica che causa Rallentato 1 o Affaticato 1, casualmente per creatura.
-\emph{\textbf{Aura distruttiva.}} il drago emette nel raggio di 6 metri un aura che causa 1 danno da forza cumulativo per round di permanenza. Il danno si azzera dopo 1 ora di allontanamento.
-\textbf{Reazione: \emph{Attacco d'opportunità}}: l'elementale effettua un attacco ad una creatura che attraversa o esca dalla sua portata di GS/3 metri.
-\textbf{Reazione: \emph{Sputo opportunistico}} la fause, quando colpita con un danno critico sputa un globo acido alla creatura che l'ha ferita causando 2d6 di danno da acido.
-\textbf{Reazione: \emph{Sasso affilato}}: il golem reagisce ad un attacco subito guadagnando 1 danno bonus al suo attacco di schianto.
-\textbf{Reazione: \emph{Attacco d'opportunità}}: il gargoyle attacca se sta volando ed una creatura esce o attraversa la sua portata di 1 m.
-\emph{\textbf{Rubare l'ombra.} Se l'ombra ha già colpito due volte con Risucchio di Forza usando una Azione ruba l'ombra dell'avversario. Rubare l'ombra concede 10 Punti Ferita Temporanei all'ombra. La creatura recupera l'ombra all'alba successiva.
-\emph{\textbf{Feroce.}} Come Azione l'orco affonda ancora più il colpo andato a segno causando 1d6 danni aggiuntivi.
-\emph{\textbf{Tartaruga triste}}: con una prova di Atletica DC 24 è possibile ribaltare sottosopra il razziamorti che non è più in grado di ribaltarsi da solo. In questa circostanza il razziamorti ha -1d6 a tutti i Tiri per Colpire.
-\emph{\textbf{Frenesia Sanguinaria.}} Il sahuagin ha +1d6 ai tiri per colpire in mischia contro qualsiasi creatura che non sia al massimo dei suoi Punti Ferita.
-\emph{\textbf{Salto e Schiaccio.} Attacco con arma da mischia}: +14 a colpire, portata 9 metri, fino a 6 creature in 6x6m di area. 2 Azioni.
-\emph{\textbf{Avviluppare.} Attacco con arma da mischia}: +12 a colpire, portata 3 m, una creatura. Il verme purpureo si stringe attorno alla creatura. 2 Azioni
-\textbf{Reazione: \emph{Incantesimo opportunistico}}: il mago reagisce ad un attacco subito lanciando un incantesimo di 2 livello o meno.
+0.99.52 
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
