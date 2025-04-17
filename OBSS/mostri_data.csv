@@ -1,4 +1,4 @@
-# Generato da Andres Zanzani il 2025-04-17 07:36:55 UTC
+# Generato da Andres Zanzani il 2025-04-17 10:30:46 UTC
 Nome|Tipo|Difesa|PF|TS_Tempra|TS_Riflessi|TS_Volonta|For|Des|Cos|Int|Sag|Car|Iniziativa|Competenze|Res_Danni|Imm_Danni|Immunita|Sensi|Linguaggi|Sfida|PX
 Oggetto Animato|varie, costrutto, disallineato|||+3|+1|0|3|0|0|-4|-4|-5||||Veleno, Energia Positiva, Energia Negativa|accecato, affascinato, assordato, paralizzato, pietrificato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)|||
 Aboleth|Grande aberrazione, legale malvagio|24|199|+12|+9|+12|5|-1|2|4|2|4|+4|Consapevolezza +10, Storia +12||||Scurovisione 36 m|Aquan, telepatia 36 m|10|5900
@@ -196,7 +196,7 @@ Pegaso|Grande celestiale, caotico buono|16|52|+5|+4|+4|4|2|3|0|2|1|+2|Consapevol
 Persecutore Invisibile|Media elementale, neutrale|24|125|+8|+10|+8|3|4|2|0|2|0|+4|Furtività +10, Consapevolezza +8|da arma non magica|Veleno|afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato|Scurovisione 18 m|Ictun, comprende il Comune ma non lo parla|6|2300
 Pseudodrago|Minuscola drago, neutrale buono|14|19|+1|+2|+1|-2|2|1|0|1|0|+2|Furtività +4, Consapevolezza +3||||Scurovisione 18 m, Vista Cieca 3 m|comprende il Comune e il Draconico ma non parla|1/4|50
 Rakshasa|Media immondo, legale malvagio|32|259|+17|+16|+16|2|3|4|1|3|5|+3|Ingannare +10, Percepire Emozioni +8||contundenti, armi +1||Scurovisione 18 m|Comune, Infernale|13|10000
-Razziamorti|Grande costrutto, non morto, non allineato|20|127|+10|+6|+4|5|0|4|-4|-2|-5|+0|||Veleno|affascinato, affaticato, paralizzato, pietrificato, sanguinamento|Scurovisione 30 m|comprende tutte le lingue del creatore ma non può parlare|6|2300
+Razziamorti|Grande costrutto, non morto, non allineato|20|127|+10|+6|+4|5|0|4|-4|-2|-5|+0|||Veleno|affascinato, affaticato, paralizzato, pietrificato, sanguinamento, malattie|Scurovisione 30 m|comprende tutte le lingue del creatore ma non può parlare|6|2300
 Remorhaz|Enorme mostruosità, disallineato|27|224|+16|+12|+11|7|1|5|-3|0|-3|+1|||||Scurovisione 18 m, senso tellurico 18 m||11|7200
 Rugginofago|Media Mostruosità, disallineato|13|24|+1|+1|+1|1|1|1|-4|1|-2|+1|||||Scurovisione 18 m||1/2|100
 Sahuagin|Media umanoide (sahuagin), legale malvagio|12|24|+1|+0|+1|1|0|1|1|1|-1|+1|Consapevolezza +5||||Scurovisione 36 m|Sahuagin|1/2|100
@@ -215,14 +215,14 @@ Strige (Uccello Stigeo)|Minuscola bestia, disallineato|15|17|+0|+3|+0|-3|3|0|-4|
 Tarrasque|Colossale mostruosità (titano), disallineato|52|615|+40|+30|+30|10|0|10|-2|0|0|+0|||Fuoco, Veleno, Elettricità; armi +2|affascinato, paralizzato, spaventato, affaticato|Vista Cieca 36 m||30|155000
 Teschio Fiammeggiante|Piccolo non morto, Tratti malvagi|15|51|+3|+3|+2|0|1|1|1|0|0|+1||da Vuoto|Fuoco, Veleno, da arma non magica|affascinato, paralizzato, affaticato, spaventato, sanguinamento|Scurovisione 18 m||2|200
 Testuggine Dragona|Mastodontica drago, neutrale|34|338|+22|+17|+18|7|0|5|0|1|1|+0|||||Scurovisione 18 m|Aquan, Draconico|17|18000
-Topi, La|Minuscola fatata, indifferente. Patrono|16|15|+0|+4|+2|-1|4|0|6|2|10|+6|tutte +20|||a subire a qualsiasi tipo di tiro critico|Senso tellurico 60, Scurovisione 60 m, Visione del Vero 60 m|tutti|0|10
+Topi, La|Minuscola fatata, indifferente. Patrono|16|15|+30|+34|+31|-1|4|0|6|1|10|+6|tutte +20|||a subire a qualsiasi tipo di tiro critico|Senso tellurico 60, Scurovisione 60 m, Visione del Vero 60 m|tutti|0|10
 Torciascura|Media non morto, malvagio|18|88|+6|+5|+3|3|1|2|0|-1|-2|+1||da Vuoto; da arma non magica o che non sia argentata|Veleno|affaticato, sanguinamento|Scurovisione, vede nell'oscurità magica|Comprende il Comune, ma non parla|4|1100
 Troll|Grande gigante, caotico malvagio|19|110|+10|+6|+4|5|1|5|-2|-1|-2|+1|||||Scurovisione 18 m|Gigante|5|1800
 Uomo Acquatico|Media umanoide (uomo acquatico), neutrale|13|17|+1|+1|+0|0|1|1|0|0|1|+1|Consapevolezza +2|||||Aquan, Comune|1/8|25
 Uomo Albero (Arborom)|Enorme pianta, caotico buono|23|186|+14|+8|+12|6|-1|5|1|3|1|+1||contundente, perforante||||Comune, Druidico, Elfico, Silvano|9|5000
 Uomo Magma|Piccola elementale, caotico neutrale|14|24|+1|+2|+0|-2|2|1|-1|0|0|+2||da arma non magica\\|Fuoco||Scurovisione 18 m|Ignan|1/2|100
 Unicorno|Grande celestiale, legale buono|20|107|+7|+7|+8|4|2|2|0|3|3|+2|||Veleno|affascinato, paralizzato|Scurovisione 18 m|Celestiale, Elfico, Silvano, telepatia 18 m|5|1800
-Vampiro|Media non morto (mutaforma), legale malvagio|33|259|+17|+17|+15|4|4|4|3|2|4|+4|Furtività +9, Consapevolezza +17||da Vuoto; da arma non magica|affascinato, assordato, sanguinamento|Scurovisione 36 m|le lingue che conosceva in vita, Expiran|13|10000
+Vampiro|Media non morto (mutaforma), legale malvagio|33|259|+17|+17|+15|4|4|4|3|2|4|+4|Furtività +9, Consapevolezza +17||da Vuoto; Veleno, da arma non magica|affascinato, assordato, sanguinamento|Scurovisione 36 m|le lingue che conosceva in vita, Expiran|13|10000
 Progenie Vampirica|Media non morto, neutrale malvagio|23|126|+9|+9|+6|3|3|3|0|0|1|+3|Furtività +6|da Vuoto; da arma non magica|||Scurovisione 18 m|le lingue che conosceva in vita|6|2300
 Vermi delle carne|minuscola mostruosità, disallineato|13|32|-1|+1|+1|-4|0|-2|-4|0|-4|+0|||||vista tellurica 3 m||1|200
 Verme Purpureo|Mastodontica mostruosità, disallineato|30|303|+21|+13|+14|9|-2|6|-5|-1|-3|-2|||||Vista Cieca 9 m, senso tellurico 18 m||15|13000

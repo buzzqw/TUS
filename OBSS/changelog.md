@@ -868,10 +868,10 @@ aggiornata versione POD 2025/04/09
 
 0.99.51 ottimizzazione layout, rimesso font standard perchè non viene stampato correttamente il precedente, sistemato utilizzo Atkinson Hyperlegible Font, aggiornato metodo utilizzo font per migliorare la compatibilita' in compilazione, correzioni minori in equipaggiamento, aggiunta gestione licantropia, hyperlinkati incantesimi dei mostri ad descrizione incantesimi, 
 
-aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee, succube, vrock, barbazu, diavolo delle catene, Erinni, tirannosauro,  Triceratopo, Drago Bianco, Drago Blu, Drago Giallo, Drago Nero, Drago Porpora, Drago Rosso, Drago Verde, Drago d'argento, Drago di Bronzo, Drago d'oro, Drago di Ottone, Drago di Rame, Tàhil, Drider, Driade, Elementali, Ettin, fauci gorgoglianti, fenice, fioritura ossea, fungo stridente, fustigatore, campione gablin, gargoyle, G.E.C., Djinn, Efreet, ghast, ghoul nero, ghoul putrescente, gnoll, gorgone, grifone, idra, lamia, lich, medusa, megera notturna, cubo gelatinoso, mimic, mummia, naga, ombra, omuncolo, oni, orco, otyugh, panoptikhan, persecutore invisibile, pseudodrago, Rakshasa, 
+aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.O.C., Bulette, Cavaliere nero, Chimera, chuul, balor, dretch, glabrezu, Hezrou, marilith, nalfeshnee, succube, vrock, barbazu, diavolo delle catene, Erinni, tirannosauro,  Triceratopo, Drago Bianco, Drago Blu, Drago Giallo, Drago Nero, Drago Porpora, Drago Rosso, Drago Verde, Drago d'argento, Drago di Bronzo, Drago d'oro, Drago di Ottone, Drago di Rame, Tàhil, Drider, Driade, Elementali, Ettin, fauci gorgoglianti, fenice, fioritura ossea, fungo stridente, fustigatore, campione gablin, gargoyle, G.E.C., Djinn, Efreet, ghast, ghoul nero, ghoul putrescente, gnoll, gorgone, grifone, idra, lamia, lich, medusa, megera notturna, cubo gelatinoso, mimic, mummia, naga, ombra, omuncolo, oni, orco, otyugh, panoptikhan, persecutore invisibile, pseudodrago, Rakshasa, razziamorti, Remorhaz, sfinge,  Salamandre, sibilante, Uccello Stigeo, tarrasque, testuggine dragona, torciascura, verme purpureo, vampiro, progenie vampirica, mago, arcimago
 
 
-{Panoptikhan}
+{unicorno}
 \textbf{Reazione: \emph{Attacco d'opportunità}}
 \textbf{Reazione: \emph{Anatomia opportunistica}}
 \textbf{Azione d'Attacco: \emph{Colpo d'arma}}
@@ -896,6 +896,11 @@ aggiunto attacco ampio fendente a giganti, ankheg, arpia, banshee, basilisco, B.
 \textbf{Reazione: \emph{Attacco d'opportunità}}: il gargoyle attacca se sta volando ed una creatura esce o attraversa la sua portata di 1 m.
 \emph{\textbf{Rubare l'ombra.} Se l'ombra ha già colpito due volte con Risucchio di Forza usando una Azione ruba l'ombra dell'avversario. Rubare l'ombra concede 10 Punti Ferita Temporanei all'ombra. La creatura recupera l'ombra all'alba successiva.
 \emph{\textbf{Feroce.}} Come Azione l'orco affonda ancora più il colpo andato a segno causando 1d6 danni aggiuntivi.
+\emph{\textbf{Tartaruga triste}}: con una prova di Atletica DC 24 è possibile ribaltare sottosopra il razziamorti che non è più in grado di ribaltarsi da solo. In questa circostanza il razziamorti ha -1d6 a tutti i Tiri per Colpire.
+\emph{\textbf{Frenesia Sanguinaria.}} Il sahuagin ha +1d6 ai tiri per colpire in mischia contro qualsiasi creatura che non sia al massimo dei suoi Punti Ferita.
+\emph{\textbf{Salto e Schiaccio.} Attacco con arma da mischia}: +14 a colpire, portata 9 metri, fino a 6 creature in 6x6m di area. 2 Azioni.
+\emph{\textbf{Avviluppare.} Attacco con arma da mischia}: +12 a colpire, portata 3 m, una creatura. Il verme purpureo si stringe attorno alla creatura. 2 Azioni
+\textbf{Reazione: \emph{Incantesimo opportunistico}}: il mago reagisce ad un attacco subito lanciando un incantesimo di 2 livello o meno.
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
