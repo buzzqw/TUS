@@ -1,4 +1,4 @@
-# Generato da Andres Zanzani il 2025-04-16 15:27:19 UTC
+# Generato da Andres Zanzani il 2025-04-17 07:36:55 UTC
 Nome|Tipo|Difesa|PF|TS_Tempra|TS_Riflessi|TS_Volonta|For|Des|Cos|Int|Sag|Car|Iniziativa|Competenze|Res_Danni|Imm_Danni|Immunita|Sensi|Linguaggi|Sfida|PX
 Oggetto Animato|varie, costrutto, disallineato|||+3|+1|0|3|0|0|-4|-4|-5||||Veleno, Energia Positiva, Energia Negativa|accecato, affascinato, assordato, paralizzato, pietrificato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)|||
 Aboleth|Grande aberrazione, legale malvagio|24|199|+12|+9|+12|5|-1|2|4|2|4|+4|Consapevolezza +10, Storia +12||||Scurovisione 36 m|Aquan, telepatia 36 m|10|5900
@@ -190,7 +190,7 @@ Orco|Media umanoide (orco), caotico malvagio|14|33|+4|+2|+1|3|1|3|-2|0|0|+1|Inti
 Orrore Arrampicamuri|Grande mostruosità, disallineato|16|70|+5|+3|+4|4|0|2|-2|1|-2|+0|||||Scurovisione 3 m, Vista Cieca 18 m|Orrore Arrampicamuri|3|700
 Orsogufo|Grande bestia, disallineato|17|70|+6|+4|+4|5|1|3|-4|1|-2|+1|||||Scurovisione 18 m||3|700
 Orsogufo Saggio|Grande mostruosità, neutrale|17|70|+5|+4|+6|3|1|2|3|3|1|+3|Consapevolezza +9||||Scurovisione 18 m|comprende e legge i seguenti: Comune, Druidico,Celestiale, Infernale, Nanico, Elfico, Orchesco, Gigante, Expiran, lingue Elementali|3|700
-Otyugh|Grande aberrazione, neutrale|18|109|+9|+5|+6|3|0|4|2|1|-2|+2|||||Scurovisione 36 m|Otyugh|5|1800
+Otyugh|Grande aberrazione, neutrale|18|109|+9|+5|+6|3|0|4|3|1|-2|+2|||Veleno|malattie|Scurovisione 36 m|Otyugh, Elfico, Nanico|5|1800
 Panoptikhan|Grande aberrazione, malvagia|29|235|+14|+13|+14|0|1|2|3|2|2|+3|||||Scurovisione 36 m, visione del vero 18m|telepatia 50 m|12|8400
 Pegaso|Grande celestiale, caotico buono|16|52|+5|+4|+4|4|2|3|0|2|1|+2|Consapevolezza +6|||||comprende Celestiale, Comune, Elfico e Silvano ma non può parlare|2|450
 Persecutore Invisibile|Media elementale, neutrale|24|125|+8|+10|+8|3|4|2|0|2|0|+4|Furtività +10, Consapevolezza +8|da arma non magica|Veleno|afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato|Scurovisione 18 m|Ictun, comprende il Comune ma non lo parla|6|2300
