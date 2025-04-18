@@ -1,38 +1,38 @@
-# Generato da Andres Zanzani il 2025-04-18 15:22:24 UTC
+# Generato da Andres Zanzani il 2025-04-18 15:36:03 UTC
 Nome|Tipo|Difesa|PF|TS_Tempra|TS_Riflessi|TS_Volonta|For|Des|Cos|Int|Sag|Car|Iniziativa|Competenze|Res_Danni|Imm_Danni|Immunita|Sensi|Linguaggi|Sfida|PX
 Oggetto Animato|varie, costrutto, disallineato|||+3|+1|0|3|0|0|-4|-4|-5||||Veleno, Energia Positiva, Energia Negativa|accecato, affascinato, assordato, paralizzato, pietrificato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)|||
 Aboleth|Grande aberrazione, legale malvagio|24|199|+12|+9|+12|5|-1|2|4|2|4|+4|Consapevolezza +10, Storia +12||||Scurovisione 36 m|Aquan, telepatia 36 m|10|5900
 Angelo Deva|Medio celestiale, legale buono|29|203|+14|+14|+15|4|4|4|3|5|5|+4|Percepire Emozioni +9|da Luce; da arma non magica||affascinato, affaticato, spaventato|Scurovisione 36 m|tutte, telepatia 36 m|10|5900
 Angelo Planetar|Grande celestiale, legale buono|38|325|+23|+21|+22|7|5|7|4|6|7|+5|Consapevolezza +13|da Luce;||affascinato, affaticato, spaventato, armi +1|visione del vero 36 m|tutte, telepatia 36 m|16|15000
 Angelo Solar|Grande celestiale, legale buono|46|426|+29|+27|+28|8|6|8|7|7|10|+7|Consapevolezza +16|da Luce; Fuoco, Freddo, Elettricità||affascinato, avvelenato, affaticato, spaventato, arma +2|visione del vero 36 m|tutte, telepatia 36 m|21|33000
-Ankheg|Grande mostruosità, disallineato|14|51|+3|+2|+3|3|0|1|-5|1|-2|+0|||||Scurovisione 18 m, percezione tellurica 18 m||2|450
-Arpia|Media mostruosità, Arrogante, Impulsivo|14|33|+2|+2|+1|1|1|1|-2|0|1|+1||||||Comune|1|200
+Ankheg|Grande mostruosità, disallineato|14|51|+3|+3|+3|3|0|1|-5|1|-2|+0|||||Scurovisione 18 m, percezione tellurica 18 m||2|450
+Arpia|Media mostruosità, Arrogante, Impulsivo|14|33|+3|+3|+3|1|1|1|-2|0|1|+1||||||Comune|1|200
 Azer|Media elementale, legale neutrale|15|51|+4|+3|+3|3|1|2|1|1|0|+1|||Fuoco, Veleno|||Ignan|2|450
 Banshee|Media non morto, Arrogante, Vanitoso|22|87|+4|+9|+5|-5|5|0|1|1|4|+5||Acido, Elettricità, Fuoco, Suono; arma magica +1|da Vuoto, Veleno, Freddo, da arma non magica|affascinato, afferrato, intralciato, paralizzato, pietrificato, prono, affaticato, sanguinamento|Scurovisione 18 m|Elfico, Comune, Expiran|4|1100
-Basilisco|Media mostruosità, disallineato|15|70|+5|+2|+2|3|-1|2|-4|-1|-2|-1|||||Scurovisione 18 m||3|700
+Basilisco|Media mostruosità, disallineato|15|70|+5|+3|+3|3|-1|2|-4|-1|-2|-1|||||Scurovisione 18 m||3|700
 Behir|Enorme mostruosità, neutrale malvagio|29|221|+15|+14|+13|6|3|4|-2|2|1|+3|Furtività +7||Elettricità||Scurovisione 27 m|Draconico|11|7200
-Blatta Esplosiva|Piccolo Elementale, neutrale|16|51|+3|+4|+1|1|2|1|-5|-1|-2|+2||contundenti|Fuoco|affaticato, spaventato|Vista Cieca 5 m||2|450
+Blatta Esplosiva|Piccolo Elementale, neutrale|16|51|+3|+4|+3|1|2|1|-5|-1|-2|+2||contundenti|Fuoco|affaticato, spaventato|Vista Cieca 5 m||2|450
 B.O.C.|grande mostruosità, legale malvagio|20|88|+6|+7|+5|4|3|2|-2|1|-1|+3|Furtività +8||||Scurovisione 20 m, Visione Crepuscolare 18 m|Comune, può solo comprenderlo|4|1100
-Bugbear|Media umanoide (goblinoide), Arrogante, Impulsivo|15|33|+2|+3|+1|2|2|1|-1|0|-1|+2|Furtività +6, Sopravvivenza +2||||Scurovisione 18 m|Comune, Goblin|1|200
+Bugbear|Media umanoide (goblinoide), Arrogante, Impulsivo|15|33|+3|+3|+3|2|2|1|-1|0|-1|+2|Furtività +6, Sopravvivenza +2||||Scurovisione 18 m|Comune, Goblin|1|200
 Bulette|Grande bestia, disallineato|18|110|+10|+5|+5|4|0|5|-4|0|-3|+0|Consapevolezza +6||||Scurovisione 18 m, percezione tellurica 18 m||5|1800
 Cavaliere Nero|Media non morto, Arrogante, Paziente|37|357|+23|+19|+20|5|1|5|1|2|3|+1|Intimidire +12, Religione +8, Conoscenza Piani +8, Conoscenza Arcana +5|Freddo, Elettricità|da Vuoto, Veleno; armi +1|affascinato, paralizzato, affaticato, spaventato, sanguinamento|Scurovisione 36 m|Comune, Abissale, Expiran|18|20000
 Centauro|Grande mostruosità, neutrale buono|16|51|+4|+4|+3|4|2|2|-1|1|0|+2|Atletica +6, Consapevolezza +3, Sopravvivenza +3|||||Elfico, Silvano|2|450
 Chimera|Grande mostruosità, Arrogante, Vanitoso|20|127|+10|+6|+8|4|0|4|-4|2|0|+0|Consapevolezza +8||||Scurovisione 18 m|comprende il Draconico ma non può parlare|6|2300
 Chuul|Grande aberrazione, caotico malvagio|17|89|+7|+4|+4|4|0|3|-3|0|-3|+0|Consapevolezza +4||Veleno||Scurovisione 18 m|comprende la Linguaggio delle Profondità ma non può parlare|4|1100
-Coboldo|Piccola umanoide (coboldo), legale malvagio|14|17|+0|+2|-1|-2|2|-1|-1|-2|-1|+2|||||Scurovisione 18 m|Comune, Draconico|1/8|25
-Cockatrice|Piccola mostruosità, disallineato|13|24|+1|+1|+1|-2|1|1|-4|1|-3|+1|||||Scurovisione 18 m||1/2|100
+Coboldo|Piccola umanoide (coboldo), legale malvagio|14|17|+3|+3|+3|-2|2|-1|-1|-2|-1|+2|||||Scurovisione 18 m|Comune, Draconico|1/8|25
+Cockatrice|Piccola mostruosità, disallineato|13|24|+3|+3|+3|-2|1|1|-4|1|-3|+1|||||Scurovisione 18 m||1/2|100
 Couatl|Media celestiale, legale buono|22|89|+7|+9|+9|3|5|3|4|5|4|+5||da Luce|da arma non magica||visione del vero 36 m|tutte, telepatia 36 m|4|1100
 Cumulo Strisciante|Grande pianta, disallineato|17|108|+8|+4|+5|4|-1|3|-3|0|-3|-1|Furtività +2|Freddo, Fuoco|Elettricità|accecato, assordato, affaticato|Vista Cieca 18 m (cieco oltre questo raggio)||5|1800
 Balor|Enorme immondo (demone), caotico malvagio|39|379|+25|+21|+22|8|2|6|5|3|6|+5||Freddo, Elettricità;|Fuoco, Veleno, armi +1||visione del vero 36 m|Abissale, telepatia 36 m|19|22000
 Demogorgone|enorme immondo (principe demone), caotico malvagio|48|524|+34|+28|+29|9|2|8|5|3|7|+5|tutte +15|Freddo, Elettricità, Fuoco|da Vuoto, Veleno; armi +2|affascinato, paralizzato, affaticato, spaventato|Visione del vero 40 m|tutti, telepatia 45 m|26|90000
-Dretch|Piccola immondo (demone), caotico malvagio|12|19|+1|+0|+0|0|0|1|-3|-1|-4|+0||Freddo, Elettricità, Fuoco|Veleno||Scurovisione 18 m|Abissale, telepatia 18 m (funziona solo con le creature che comprendono l'Abissale)|1/4|50
+Dretch|Piccola immondo (demone), caotico malvagio|12|19|+3|+3|+3|0|0|1|-3|-1|-4|+0||Freddo, Elettricità, Fuoco|Veleno||Scurovisione 18 m|Abissale, telepatia 18 m (funziona solo con le creature che comprendono l'Abissale)|1/4|50
 Glabrezu|Grande immondo (demone), caotico malvagio|26|186|+14|+11|+12|5|2|5|4|3|3|+4||Freddo, Elettricità, Fuoco; da arma non magica|Veleno||visione del vero 36 m|Abissale, telepatia 36 m|9|5000
 Hezrou|Grande immondo (demone), caotico malvagio|25|167|+13|+11|+9|4|3|5|5|1|1|+5||Freddo, Elettricità, Fuoco; da arma non magica|Veleno||Scurovisione 36 m|Abissale, telepatia 36 m|8|3900
 Marilith|Grande immondo (demone), caotico malvagio|38|319|+21|+21|+19|4|5|5|4|3|5|+5||Freddo, Elettricità, Fuoco|Veleno, armi +1||visione del vero 36 m|Abissale, telepatia 36 m|16|15000
 Nalfeshnee|Grande immondo (demone), caotico malvagio|29|264|+19|+13|+14|5|0|6|4|1|2|+4||Freddo, Elettricità, Fuoco; da arma non magica|Veleno||Scurovisione 36 m|Abissale, telepatia 36 m|13|10000
 Orcus|enorme immondo (principe demone), caotico malvagio|48|519|+33|+28|+31|8|2|7|5|5|7|+5|tutte +13|Freddo, Elettricità, Fuoco|da Vuoto, Veleno; armi +2|affascinato, paralizzato, affaticato, spaventato|Visione del vero 40 m|tutti, telepatia 45 m|26|90000
-Silku|Media immondo (demone), caotico malvagio|16|52|+5|+4|+2|2|2|3|1|0|2|+2|Furtività +2, Ingannare +5|Freddo, Elettricità; da arma non magica o non argentata|Veleno||Scurovisione 36 m|Abissale, Comune|2|200
-Quasit|Minuscola immondo (demone, mutaforma), caotico malvagio|16|33|+1|+4|+1|-3|3|0|-2|0|0|+3|Furtività +5|Freddo, Elettricità, Fuoco; da arma non magica|Veleno||Scurovisione 36 m|Abissale, Comune|1|200
+Silku|Media immondo (demone), caotico malvagio|16|52|+5|+4|+3|2|2|3|1|0|2|+2|Furtività +2, Ingannare +5|Freddo, Elettricità; da arma non magica o non argentata|Veleno||Scurovisione 36 m|Abissale, Comune|2|200
+Quasit|Minuscola immondo (demone, mutaforma), caotico malvagio|16|33|+3|+4|+3|-3|3|0|-2|0|0|+3|Furtività +5|Freddo, Elettricità, Fuoco; da arma non magica|Veleno||Scurovisione 36 m|Abissale, Comune|1|200
 Succube|medio immondo (demone), caotico malvagio|20|87|+5|+7|+5|-1|3|1|2|1|5|+3|Furtività +5, Percepire Emozioni +5, Consapevolezza +5, Ingannare +9|Freddo, Elettricità, Fuoco, Veleno; da arma non magica|||Scurovisione 18 m|Abissale, Comune, Infernale, telepatia 18 m|4|1100
 Vrock|Grande immondo (demone), caotico malvagio|22|127|+10|+8|+7|3|2|4|-1|1|-1|+2||Freddo, Elettricità, Fuoco; da arma non magica|Veleno||Scurovisione 36 m|Abissale, telepatia 36 m|6|2300
 Destriero dell'Incubo|Grande immondo, legale malvagio|18|70|+6|+5|+4|4|2|3|0|1|2|+2|Consapevolezza +6||Fuoco||Scurovisione 36 m|comprende Abissale, Comune e Infernale ma non può parlare|3|700
@@ -44,18 +44,18 @@ Diavolo del Ghiaccio|Grande immondo (diavolo), legale malvagio|32|278|+18|+16|+1
 Diavolo d'Ossa|Grande immondo (diavolo), legale malvagio|27|184|+13|+12|+11|4|3|4|1|2|3|+3|Ingannare +7, Percepire Emozioni +6|Freddo; da arma non magica o non argentata|Fuoco, Veleno||Scurovisione 36 m|Infernale, telepatia 36 m|9|5000
 Diavolo Spinoso|Piccola immondo (diavolo), legale malvagio|16|51|+3|+4|+4|0|2|1|0|2|-1|+2||Freddo; da arma non magica o non argentata|Fuoco, Veleno||Scurovisione 36 m|Infernale, telepatia 36 m|2|450
 Erinni|Media immondo (diavolo), legale malvagio|31|240|+16|+15|+14|4|3|4|2|2|4|+3||Freddo; da arma non magica o non argentata|Fuoco, Veleno||visione del vero 36 m|Infernale, telepatia 36 m|12|8400
-Imp|Minuscola immondo (diavolo, mutaforma), legale malvagio|16|33|+2|+4|+2|-2|3|1|0|1|2|+3|Furtività +5, Ingannare +4, Percepire Emozioni +3|Freddo; da arma non magica o non argentata|Fuoco, Veleno||Scurovisione 36 m|Infernale, Comune|1|200
-Lemure|Media immondo (diavolo), legale malvagio|9|15|+0|-3|+0|0|-3|0|-5|0|-4|-3||Freddo|Fuoco, Veleno|affascinato, spaventato|Scurovisione 36 m|comprende l'Infernale ma non può parlare|0|10
+Imp|Minuscola immondo (diavolo, mutaforma), legale malvagio|16|33|+3|+4|+3|-2|3|1|0|1|2|+3|Furtività +5, Ingannare +4, Percepire Emozioni +3|Freddo; da arma non magica o non argentata|Fuoco, Veleno||Scurovisione 36 m|Infernale, Comune|1|200
+Lemure|Media immondo (diavolo), legale malvagio|9|15|+3|+3|+3|0|-3|0|-5|0|-4|-3||Freddo|Fuoco, Veleno|affascinato, spaventato|Scurovisione 36 m|comprende l'Infernale ma non può parlare|0|10
 Plesiosauro|Grande bestia, disallineato|16|52|+5|+4|+3|4|2|3|-4|1|-3|+2|Furtività +4, Consapevolezza +3||||||2|450
 Tirannosauro|Enorme bestia, disallineato|22|165|+12|+8|+9|7|0|4|-4|1|-1|+0|||||||8|3900
 Triceratopo|Enorme bestia, disallineato|17|108|+8|+4|+5|6|-1|3|-4|0|-3|-1|||||||5|1800
 Divora Cervelli|Piccola aberrazione, caotico malvagio|30|186|+14|+15|+9|1|6|5|3|0|3|+6|||Fuoco|incantesimi dalle liste di magia Illusione e Charme|Vista Cieca 18 m|telepatia 50 m|9|3900
-Dobi|Minuscola fatata, neutrale|11|15|+2|-1|+1|-3|-1|2|-2|1|3|-1|||al danno delle armi non magiche||Visione Crepuscolare 18 m|comprende il Comune, ma non lo parla|0|10
+Dobi|Minuscola fatata, neutrale|11|15|+3|+3|+3|-3|-1|2|-2|1|3|-1|||al danno delle armi non magiche||Visione Crepuscolare 18 m|comprende il Comune, ma non lo parla|0|10
 Doppelganger|Media mostruosità (mutaforma), neutrale|20|70|+5|+7|+4|0|4|2|0|1|2|+4|Ingannare +6, Percepire Emozioni +3|||affascinato|Scurovisione 18 m|Comune|3|700
 Drago Bianco Antico|Mastodontica drago, caotico malvagio|38|407|+28|+20|+21|8|0|8|3|1|2|+3|Furtività +6, Consapevolezza +13||Freddo, armi +1||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|20|25000
 Drago Bianco Adulto|Enorme drago, caotico malvagio|29|264|+19|+13|+14|6|0|6|2|1|1|+2|Furtività +5, Consapevolezza +8||Freddo||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|13|10000
 Drago Bianco Giovane|Grande drago, caotico malvagio|20|127|+10|+6|+6|4|0|4|-2|0|1|+0|Furtività +3, Consapevolezza +6||Freddo||Scurovisione 36 m, Vista Cieca 9 m|Comune, Draconico|6|2300
-Drago Bianco Cucciolo|Media drago, caotico malvagio|14|51|+4|+2|+2|2|0|2|-3|0|0|+0|Furtività +2, Consapevolezza +4||Freddo||Scurovisione 18 m, Vista Cieca 3 m|Draconico|2|450
+Drago Bianco Cucciolo|Media drago, caotico malvagio|14|51|+4|+3|+3|2|0|2|-3|0|0|+0|Furtività +2, Consapevolezza +4||Freddo||Scurovisione 18 m, Vista Cieca 3 m|Draconico|2|450
 Drago Blu Antico|Mastodontica drago, legale malvagio|42|465|+31|+23|+26|9|0|8|4|3|5|+4|Furtività +7, Consapevolezza +17||Elettricità, armi +1||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|23|50000
 Drago Blu Adulto|Enorme drago, legale malvagio|33|322|+22|+16|+18|7|0|6|3|2|4|+3|Furtività +5, Consapevolezza +13||Elettricità||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|16|15000
 Drago Blu Giovane|Enorme drago, legale malvagio|24|184|+13|+9|+10|5|0|4|2|1|3|+2|Furtività +4, Consapevolezza +9||Elettricità||Scurovisione 36 m, Vista Cieca 9 m|Comune, Draconico|9|5000
@@ -64,7 +64,7 @@ Drago Giallo Antico|Mastodontica drago, neutrale malvagio|43|465|+31|+24|+25|10|
 Drago Nero Antico|Mastodontica drago, caotico malvagio|42|422|+28|+23|+23|8|2|7|3|2|4|+3|Furtività +9, Consapevolezza +16||Acido, armi +1||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|21|33000
 Drago Nero Adulto|Enorme drago, caotico malvagio|36|338|+22|+19|+18|6|2|5|2|1|3|+2|Furtività +7, Consapevolezza +11||Acido||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|17|18000
 Drago Nero Giovane|Grande drago, caotico malvagio|23|145|+10|+9|+7|4|2|3|1|0|2|+2|Furtività +5, Consapevolezza +6||Acido||Scurovisione 36 m, Vista Cieca 9 m|Comune, Draconico|7|2900
-Drago Nero Cucciolo|Media drago, caotico malvagio|16|51|+3|+4|+2|2|2|1|0|0|1|+2|Furtività +4, Consapevolezza +4||Acido||Scurovisione 18 m, Vista Cieca 3 m|Draconico|2|450
+Drago Nero Cucciolo|Media drago, caotico malvagio|16|51|+3|+4|+3|2|2|1|0|0|1|+2|Furtività +4, Consapevolezza +4||Acido||Scurovisione 18 m, Vista Cieca 3 m|Draconico|2|450
 Drago Porpora Antico|Mastodontica drago, legale malvagio|44|428|+26|+25|+26|8|3|4|4|4|4|+4|Conoscenza Dungeon +8, Intimidazione +11, Percepire Emozioni +10, Consapevolezza + 15||Suono, armi +1||Scurovisione 36 m, Senso Tellurico 72 m|Comune, Draconico|22|41000
 Drago Rosso Antico|Mastodontica drago, caotico malvagio|44|490|+33|+24|+26|10|0|9|4|2|6|+4|Furtività +7, Consapevolezza +16||Fuoco, armi +1||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|24|62000
 Drago Rosso Adulto|Enorme drago, caotico malvagio|34|344|+24|+17|+18|8|0|7|3|1|5|+3|Furtività +6, Consapevolezza +13||Fuoco||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|17|18000
@@ -73,15 +73,15 @@ Drago Rosso Cucciolo|Media drago, caotico malvagio|17|89|+7|+4|+4|4|0|3|1|0|2|+1
 Drago Verde Antico|Mastodontica drago, legale malvagio|42|441|+29|+23|+25|8|1|7|5|3|4|+5|Furtività +8, Ingannare +11, Percepire Emozioni +10, Consapevolezza + 15||Veleno, armi +1||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|22|41000
 Drago Verde Adulto|Enorme drago, legale malvagio|33|300|+20|+16|+17|6|1|5|4|2|3|+4|Furtività +6, Ingannare +8, Percepire Emozioni +7, Consapevolezza +12||Veleno||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|15|13000
 Drago Verde Giovane|Grande drago, legale malvagio|23|163|+11|+9|+9|4|1|3|3|1|2|+3|Furtività +4, Ingannare +5, Consapevolezza +7||Veleno||Scurovisione 36 m, Vista Cieca 9 m|Comune, Draconico|8|3900
-Drago Verde Cucciolo|Media drago, legale malvagio|15|51|+3|+3|+2|2|1|1|2|0|1|+2|Furtività +3, Consapevolezza +4||Veleno||Scurovisione 18 m, Vista Cieca 3 m|Draconico|2|450
+Drago Verde Cucciolo|Media drago, legale malvagio|15|51|+3|+3|+3|2|1|1|2|0|1|+2|Furtività +3, Consapevolezza +4||Veleno||Scurovisione 18 m, Vista Cieca 3 m|Draconico|2|450
 Drago di Argento Antico|Mastodontica drago, legale buono|42|470|+32|+23|+25|10|0|9|4|2|6|+4|Arcana +11, Furtività +7, Consapevolezza +16, Storia +11||Freddo, armi +1||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|23|50000
 Drago di Argento Adulto|Enorme drago, legale buono|33|325|+23|+16|+17|8|0|7|3|1|5|+3|Arcana +8, Furtività +5, Consapevolezza +11, Storia +8||Freddo||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|16|15000
 Drago di Argento Giovane|Grande drago, legale buono|24|186|+14|+9|+9|6|0|5|2|0|4|+2|Arcana +6, Furtività +4, Consapevolezza +8, Storia +6||Freddo||Scurovisione 36 m, Vista Cieca 9 m|Comune, Draconico|9|5000
-Drago di Argento Cucciolo|Media drago, legale buono|14|52|+5|+2|+2|4|0|3|1|0|2|+1|Furtività +2, Consapevolezza +4||Freddo||Scurovisione 18 m, Vista Cieca 3 m|Draconico|2|450
+Drago di Argento Cucciolo|Media drago, legale buono|14|52|+5|+3|+3|4|0|3|1|0|2|+1|Furtività +2, Consapevolezza +4||Freddo||Scurovisione 18 m, Vista Cieca 3 m|Draconico|2|450
 Drago di Bronzo Antico|Mastodontica drago, caotico buono|41|446|+30|+22|+25|9|0|8|4|3|5|+4|Furtività +7, Percepire Emozioni +10, Consapevolezza +17||Elettricità, armi +1||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|22|41000
 Drago di Bronzo Adulto|Enorme drago, caotico buono|32|303|+21|+15|+17|7|0|6|3|2|4|+3|Furtività +5, Percepire Emozioni +7, Consapevolezza +12||Elettricità||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|15|13000
 Drago di Bronzo Giovane|Grande drago, caotico buono|22|165|+12|+8|+9|5|0|4|2|1|3|+2|Furtività +3, Percepire Emozioni +4, Consapevolezza +7||Elettricità||Scurovisione 36 m, Vista Cieca 9 m|Comune, Draconico|8|3900
-Drago di Bronzo Cucciolo|Media drago, caotico buono|14|51|+4|+2|+2|3|0|2|1|0|2|+1|Furtività +2, Consapevolezza +4||Elettricità||Scurovisione 18 m, Vista Cieca 3 m|Draconico|2|450
+Drago di Bronzo Cucciolo|Media drago, caotico buono|14|51|+4|+3|+3|3|0|2|1|0|2|+1|Furtività +2, Consapevolezza +4||Elettricità||Scurovisione 18 m, Vista Cieca 3 m|Draconico|2|450
 Drago d'Oro Antico|Mastodontica drago, legale buono|46|490|+33|+26|+27|10|2|9|4|3|9|+4|Furtività +9, Percepire Emozioni +10, Consapevolezza +17, Ingannare +16||Fuoco, armi +1||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|24|62000
 Drago d'Oro Adulto|Enorme drago, legale buono|36|344|+24|+19|+19|8|2|7|3|2|7|+3|Furtività +8, Percepire Emozioni +8, Consapevolezza +14, Ingannare +13||Fuoco||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|17|18000
 Drago d'Oro Giovane|Grande drago, legale buono|27|205|+15|+12|+11|6|2|5|3|1|5|+3|Furtività +6, Percepire Emozioni +5, Consapevolezza +9, Ingannare +9||Fuoco||Scurovisione 36 m, Vista Cieca 9 m|Comune, Draconico|10|5900
@@ -89,14 +89,14 @@ Drago d'Oro Cucciolo|Media drago, legale buono|18|70|+6|+5|+3|4|2|3|2|0|3|+2|Fur
 Drago di Ottone Antico|Mastodontica drago, caotico buono|38|403|+27|+20|+22|8|0|7|3|2|4|+3|Consapevolezza +14||Fuoco, armi +1||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|20|25000
 Drago d'Ottone Adulto|Enorme drago, caotico buono|29|262|+18|+13|+14|6|0|5|2|1|3|+2|Furtività +5, Consapevolezza +11, Ingannare +8, Storia +7||Fuoco||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|13|10000
 Drago d'Ottone Giovane|Grande drago, caotico buono|20|126|+9|+6|+6|4|0|3|1|0|2|+1|Furtività +3, Consapevolezza +6, Ingannare +5||Fuoco||Scurovisione 18 m, Vista Cieca 3 m|Comune, Draconico|6|2300
-Drago di Ottone Cucciolo|Media drago, caotico buono|13|33|+2|+1|+1|2|0|1|0|0|1|+0|Furtività +2, Consapevolezza +4||Fuoco||Scurovisione 18 m, Vista Cieca 3 m|Draconico|1|200
+Drago di Ottone Cucciolo|Media drago, caotico buono|13|33|+3|+3|+3|2|0|1|0|0|1|+0|Furtività +2, Consapevolezza +4||Fuoco||Scurovisione 18 m, Vista Cieca 3 m|Draconico|1|200
 Drago di Rame Antico|Mastodontica drago, caotico buono|41|422|+28|+22|+24|8|1|7|5|3|4|+5|Furtività +8, Ingannare +11, Consapevolezza +17||Acido, armi +1||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|21|33000
 Drago di Rame Adulto|Enorme drago, caotico buono|31|281|+19|+15|+16|6|1|5|4|2|3|+4|Furtività +6, Ingannare +8, Consapevolezza +12||Acido||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico||
 Drago di Rame Giovane|Grande drago, caotico buono|22|145|+10|+8|+8|4|1|3|3|1|2|+3|Furtività +4, Ingannare +5, Consapevolezza +7||Acido||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|7|2900
-Drago di Rame Cucciolo|Media drago, caotico buono|14|33|+2|+2|+1|2|1|1|2|0|1|+2|Furtività +3, Ingannare +3, Consapevolezza +4||Acido||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|1|200
+Drago di Rame Cucciolo|Media drago, caotico buono|14|33|+3|+3|+3|2|1|1|2|0|1|+2|Furtività +3, Ingannare +3, Consapevolezza +4||Acido||Scurovisione 36 m, Vista Cieca 18 m|Comune, Draconico|1|200
 Tàhil|Colossale drago, Patrono|52|615|+40|+30|+38|10|0|10|8|8|9|+8|tutte +18||Freddo, Elettricità, Fuoco, Acido, Veleno, Suono, armi +3|affascinato, paralizzato, affaticato, spaventato|Scurovisione 60 m, Visione del vero 40 m|tutti|30|155000
 Drider|Grande mostruosità, caotico malvagio|23|127|+10|+9|+8|3|3|4|1|2|1|+3|Furtività +9, Consapevolezza +5||||Scurovisione 36 m|Elfico, Linguaggio delle Profondità|6|2300
-Driade|Media fatato, neutrale|14|33|+1|+2|+3|0|1|0|2|2|4|+2|Furtività +5, Consapevolezza +4||||Scurovisione 18|Elfico, Silvano|1|200
+Driade|Media fatato, neutrale|14|33|+3|+3|+3|0|1|0|2|2|4|+2|Furtività +5, Consapevolezza +4||||Scurovisione 18|Elfico, Silvano|1|200
 Elementale dell'Acqua Generico|Elementale||||||||||||||Acido; da arma non magica|Veleno|afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato|Scurovisione 18 m|Aquan||
 Elementale dell'Aria Generico|GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)||||||||||||||Elettricità, Suono; da arma non magica|Veleno|afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato|Scurovisione 18 m|Ictun||
 Elementale del Fuoco Generico|GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)||||||||||||||da arma non magica|Fuoco, Veleno|afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato|Scurovisione 18 m|Ignan||
@@ -104,22 +104,22 @@ Elementale della Terra Generico|GS/3 (Piccola, Media, Grande, Enorme, Mastodonti
 Ettercap|Media mostruosità, neutrale malvagio|16|51|+3|+4|+3|2|2|1|-2|1|-2|+2|Furtività +4, Consapevolezza +3, Sopravvivenza +3||||Scurovisione 18 m||2|450
 Ettin|Grande gigante, caotico malvagio|16|89|+7|+3|+4|5|-1|3|-2|0|-1|-1|Consapevolezza +4||||percezione tellurica 18 m|Gigante, Goblinoide|4|1100
 Fantasma|Media non morto, qualsiasi tratto|18|87|+4|+5|+5|-2|1|0|0|1|3|+1||Acido, Elettricità, Fuoco, Suono, Veleno; da armi non magiche||affascinato, afferrato, intralciato, paralizzato, pietrificato, prono, affaticato, spaventato, sanguinamento|Scurovisione 18 m|qualsiasi lingua conosciuta in vita, Expiran|4|1100
-Fauci Gorgoglianti|Media aberrazione, neutrale|13|52|+5|+1|+2|0|-1|3|-4|0|-2|-1||||prono|Scurovisione 18 m||2|450
+Fauci Gorgoglianti|Media aberrazione, neutrale|13|52|+5|+3|+3|0|-1|3|-4|0|-2|-1||||prono|Scurovisione 18 m||2|450
 Fenice|Mastodontica celestiale, Coraggioso, Protettivo, Buono|38|300|+20|+21|+21|8|6|5|5|6|6|+6|||Fuoco, Luce, Veleno, armi +1|afferrato, intralciato, paralizzato, pietrificato, prono, privo di sensi, affaticato, sanguinamento|Scurovisione 18 m, Visione Crepuscolare 18 m|Ictun, Celestiale, Comune, Ignan|15|13000
 Fioritura Ossea|Grande non morto, non allineato|22|127|+10|+8|+4|3|2|4|-2|-2|-3|+2||perforante, tagliente, Veleno, da Luce|Veleno|affaticato, sanguinamento, rallentato, lentezza|Vista cieca 18 m|comprende il Comune, druidico, silvano ma non può parlare|6|2300
-Fungo Stridente|Media pianta, disallineato|7|15|+0|-5|-4|-5|-5|0|-5|-4|-5|-5||||accecato, assordato, spaventato|Vista Cieca 9 m (cieco oltre questo raggio)||0|10
-Fungo Violetto|Media pianta, disallineato|7|19|+0|-4|-3|-4|-5|0|-5|-4|-5|-5||||accecato, assordato, spaventato|Vista Cieca 9 m (cieco oltre questo raggio)||1/4|50
-Fuoco Fatuo|Minuscola non morto, caotico malvagio|23|51|+2|+11|+4|-5|9|0|1|2|0|+9||Acido, Veleno, Freddo, Fuoco, da Vuoto, Suono; armi che non siano magiche||afferrato, intralciato, paralizzato, privo di sensi, prono, affaticato, sanguinamento|Scurovisione 36 m|le lingue che conosceva in vita|2|450
+Fungo Stridente|Media pianta, disallineato|7|15|+3|+3|+3|-5|-5|0|-5|-4|-5|-5||||accecato, assordato, spaventato|Vista Cieca 9 m (cieco oltre questo raggio)||0|10
+Fungo Violetto|Media pianta, disallineato|7|19|+3|+3|+3|-4|-5|0|-5|-4|-5|-5||||accecato, assordato, spaventato|Vista Cieca 9 m (cieco oltre questo raggio)||1/4|50
+Fuoco Fatuo|Minuscola non morto, caotico malvagio|23|51|+3|+11|+4|-5|9|0|1|2|0|+9||Acido, Veleno, Freddo, Fuoco, da Vuoto, Suono; armi che non siano magiche||afferrato, intralciato, paralizzato, privo di sensi, prono, affaticato, sanguinamento|Scurovisione 36 m|le lingue che conosceva in vita|2|450
 Fustigatore|Grande mostruosità, neutrale malvagio|17|108|+8|+4|+8|4|-1|3|3|3|-2|+3|Furtività +5, Consapevolezza +6||||Scurovisione 18 m|comune, lingue antiche (latino, greco, celtico..)|5|1800
-Gablin|Piccolo immondo (goblinoide), caotico malvagio|13|19|+1|+1|+0|2|1|1|-2|-1|-2|+1|||||Scurovisione 18 m|comprendono il Comune ma non lo parlano, Abissale|1/4|50
+Gablin|Piccolo immondo (goblinoide), caotico malvagio|13|19|+3|+3|+3|2|1|1|-2|-1|-2|+1|||||Scurovisione 18 m|comprendono il Comune ma non lo parlano, Abissale|1/4|50
 Campione Gablin|medio immondo, caotico malvagio|18|70|+6|+5|+3|4|2|3|1|0|-1|+2|||||Scurovisione 18 m|Comune, Abissale|3|700
 Paladino Gablin|Grande immondo, caotico malvagio|22|126|+9|+8|+9|5|2|3|2|3|3|+2|||||Scurovisione 18 m|Comune, Abissale|6|2300
-Gargoyle|Media elementale, caotico malvagio|14|52|+5|+2|+2|2|0|3|-2|0|-2|+0||Veleno, da arma non magica o che non siano di adamantio||pietrificato, affaticato|Scurovisione 18 m|Tremun|2|450
-G.E.C.|Grande aberrazione, caotico malvagio|26|205|+15|+11|+11|6|1|5|3|1|-1|+1|Consapevolezza +10||||Scurovisione 18 m, senso tellurico 18 m||10|5900
+Gargoyle|Media elementale, caotico malvagio|14|52|+5|+3|+3|2|0|3|-2|0|-2|+0||Veleno, da arma non magica o che non siano di adamantio||pietrificato, affaticato|Scurovisione 18 m|Tremun|2|450
+G.E.C.|Grande aberrazione, caotico malvagio|26|205|+15|+11|+11|6|1|5|3|1|-1|+3|Consapevolezza +10||||Scurovisione 18 m, senso tellurico 18 m||10|5900
 Djinni|Grande elementale, caotico buono|28|226|+17|+13|+14|5|2|6|2|3|5|+2|||Elettricità, Suono||Scurovisione 36 m|Ictun|11|7200
 Efreeti|Grande elementale, legale malvagio|27|228|+18|+12|+13|6|1|7|3|2|3|+3|||Fuoco||Scurovisione 36 m|Ignan|11|7200
-Ghast|Media non morto, caotico malvagio|17|51|+2|+5|+2|3|3|0|0|0|-1|+3||da Vuoto|Veleno|affascinato, affaticato|Scurovisione 18 m|Comune, Expiran|2|450
-Ghoul|Media non morto, caotico malvagio|15|33|+1|+3|+1|1|2|0|-2|0|-2|+2|||Veleno|affascinato, affaticato|Scurovisione 18 m|Comune|1|200
+Ghast|Media non morto, caotico malvagio|17|51|+3|+5|+3|3|3|0|0|0|-1|+3||da Vuoto|Veleno|affascinato, affaticato|Scurovisione 18 m|Comune, Expiran|2|450
+Ghoul|Media non morto, caotico malvagio|15|33|+3|+3|+3|1|2|0|-2|0|-2|+2|||Veleno|affascinato, affaticato|Scurovisione 18 m|Comune|1|200
 Ghoul, Nero|Media non morto, caotico malvagio|22|125|+8|+8|+7|4|2|2|0|1|-2|+2||armi non magiche o d'argento|Veleno, da Vuoto, da critico, sanguinamento,|affascinato, affaticato,|Scurovisione 18 m|Comune, Expiran|6|2300
 Ghoul, Madre|Media non morto, caotico malvagio|21|107|+7|+8|+6|0|3|2|2|1|2|+3||armi non magiche|Veleno, Vuoto, da critico, sanguinamento|affascinato, affaticato|Scurovisione 18 m|Comune, Expiran|5|1800
 Ghoul, putrescente|Grande non morto, caotico malvagio|19|89|+7|+6|+4|1|2|3|-1|0|-2|+2||armi non magiche o d'argento|Veleno, sanguinamento, da critico, da Vuoto|affascinato, affaticato|Scurovisione 36 m|Comune, Expiran|4|1100
@@ -129,216 +129,216 @@ Gigante del Gelo|Enorme gigante, neutrale malvagio|21|167|+13|+7|+8|6|-1|5|-1|0|
 Gigante delle Nuvole|Enorme gigante, neutrale buono (50\%) o neutrale malvagio (50\%)|24|187|+15|+9|+12|8|0|6|1|3|3|+1|Percepire Emozioni +7|||||Comune, Gigante|9|5000
 Gigante di Pietra|Enorme gigante, neutrale|23|148|+12|+9|+8|6|2|5|0|1|-1|+2|Atletica +12||||Scurovisione 18 m|Gigante|7|2900
 Gigante delle Tempeste|Enorme gigante, caotico buono|31|262|+18|+15|+17|9|2|5|3|4|4|+3|Arcana +8, Atletica +14, Storia +8|Freddo|Elettricità, Suono|||Comune, Gigante|13|10000
-Gnoll|Media umanoide (gnoll), caotico malvagio|13|24|+0|+1|+0|2|1|0|-2|0|-2|+1|||||Scurovisione 18 m|Gnoll|1/2|100
-Gnomo delle Profondità|Piccola umanoide (gnomo), neutrale buono|14|24|+2|+2|+0|2|2|2|1|0|-1|+2|Furtività +4, Consapevolezza +2||||Scurovisione 36 m|Gnomica, Linguaggio delle Profondità, Tremun|1/2|100
-Globulo|Piccola aberrazione, malvagio|15|33|+1|+3|+2|-2|2|0|3|1|3|+3|||da Vuoto, Freddo, Veleno\\|prono|Scurovisione 36 m|comprende il Comune ma non lo parla|1|200
-Goblin|Piccola umanoide (goblinoide), caotico malvagio|12|19|+1|+0|-1|0|0|1|-1|-2|-1|+0|||||Scurovisione 18 m|Comune, Goblin|1/4|50
+Gnoll|Media umanoide (gnoll), caotico malvagio|13|24|+3|+3|+3|2|1|0|-2|0|-2|+1|||||Scurovisione 18 m|Gnoll|1/2|100
+Gnomo delle Profondità|Piccola umanoide (gnomo), neutrale buono|14|24|+3|+3|+3|2|2|2|1|0|-1|+2|Furtività +4, Consapevolezza +2||||Scurovisione 36 m|Gnomica, Linguaggio delle Profondità, Tremun|1/2|100
+Globulo|Piccola aberrazione, malvagio|15|33|+3|+3|+3|-2|2|0|3|1|3|+3|||da Vuoto, Freddo, Veleno\\|prono|Scurovisione 36 m|comprende il Comune ma non lo parla|1|200
+Goblin|Piccola umanoide (goblinoide), caotico malvagio|12|19|+3|+3|+3|0|0|1|-1|-2|-1|+0|||||Scurovisione 18 m|Comune, Goblin|1/4|50
 Golem di Argilla|Grande costrutto, disallineato|23|184|+13|+8|+8|5|-1|4|-4|-1|-5|-1|||Acido, Veleno|affascinato, paralizzato, pietrificato, affaticato, spaventato|Scurovisione 18 m|comprende le lingue del suo creatore ma non può parlare|9|5000
 Golem di Carne|Media costrutto, neutrale|17|109|+9|+4|+5|4|-1|4|-2|0|-3|-1|||Elettricità, Veleno|affascinato, paralizzato, pietrificato, affaticato, spaventato|Scurovisione 18 m|comprende le lingue del suo creatore ma non può|5|1800
 Golem di Ferro|Grande costrutto, disallineato|32|319|+21|+15|+16|7|-1|5|-4|0|-5|-1|||Fuoco, Veleno|affascinato, paralizzato, pietrificato, affaticato, spaventato|Scurovisione 36 m|comprende le lingue del suo creatore ma non può parlare|16|15000
 Golem di Pietra|Grande costrutto, disallineato|24|205|+15|+9|+10|6|-1|5|-4|0|-5|-1|||Veleno|affascinato, paralizzato, pietrificato, affaticato, spaventato|Scurovisione 36 m|comprende le lingue del suo creatore ma non può parlare|10|5900
 Gorgone|Grande mostruosità, disallineato|18|109|+9|+5|+6|5|0|4|-4|1|-2|+0|Consapevolezza +4|||Pietrificato|Scurovisione 18 m||5|1800
-Grick|Media mostruosità, neutrale|16|51|+2|+4|+4|2|2|0|-4|2|-3|+2|||||Scurovisione 18 m||2|450
+Grick|Media mostruosità, neutrale|16|51|+3|+4|+4|2|2|0|-4|2|-3|+2|||||Scurovisione 18 m||2|450
 Grifone|Grande mostruosità, disallineato|16|52|+5|+4|+3|4|2|3|-3|1|0|+2|Consapevolezza +5||||Scurovisione 18 m||2|450
-Grimlock|Media umanoide (grimlock), neutrale malvagio|13|19|+1|+1|+0|3|1|1|-1|-1|-2|+1|Atletica +5, Furtività +3, Consapevolezza +3|||accecato|Vista Cieca 9 m o 3 m se assordato (cieco oltre questo raggio)|Linguaggio delle Profondità|1/4|50
+Grimlock|Media umanoide (grimlock), neutrale malvagio|13|19|+3|+3|+3|3|1|1|-1|-1|-2|+1|Atletica +5, Furtività +3, Consapevolezza +3|||accecato|Vista Cieca 9 m o 3 m se assordato (cieco oltre questo raggio)|Linguaggio delle Profondità|1/4|50
 Guardiano Protettore|Grande costrutto, disallineato|20|146|+11|+6|+7|4|-1|4|-2|0|-4|-1|||Veleno|affascinato, paralizzato, affaticato, spaventato|Scurovisione 18 m, Vista Cieca 3 m|comprende i comandi forniti in qualsiasi lingua ma non può parlare|7|2900
-Hobgoblin|Media umanoide (goblinoide), legale malvagio|13|24|+1|+1|+0|1|1|1|0|0|-1|+1|||||Scurovisione 18 m|Comune, Goblin|1/2|100
+Hobgoblin|Media umanoide (goblinoide), legale malvagio|13|24|+3|+3|+3|1|1|1|0|0|-1|+1|||||Scurovisione 18 m|Comune, Goblin|1/2|100
 Idra|Enorme mostruosità, disallineato|23|167|+13|+9|+8|5|1|5|-4|0|-2|+1|Consapevolezza +6||||Scurovisione 18 m||8|3900
-Ippogrifo|Grande bestia, disallineato|14|33|+2|+2|+2|3|1|1|-4|1|-1|+1|Consapevolezza +5||||||1|200
+Ippogrifo|Grande bestia, disallineato|14|33|+3|+3|+3|3|1|1|-4|1|-1|+1|Consapevolezza +5||||||1|200
 Kraken|Mastodontica mostruosità (titano), caotico malvagio|42|461|+30|+23|+27|10|0|7|6|4|5|+6|||Elettricità, armi +1|paralizzato, spaventato|visione del vero 36 m|comprende Abissale, Celestiale, Infernale e Druidico ma non può parlare, telepatia 36 m|23|50000
 Lamia|Grande mostruosità, caotico malvagio|18|88|+6|+5|+6|3|1|2|2|2|3|+2|Furtività +3, Ingannare +7, Percepire Emozioni +4,||||Scurovisione 18 m|Abissale, Comune|4|1100
 Lich|Media non morto, tratti malvagi|43|405|+24|+24|+23|0|3|3|5|2|3|+5||Freddo, Elettricità, da Vuoto|Veleno; da arma non magica|affascinato, paralizzato, affaticato, spaventato, sanguinamento|visione del vero 36 m|Comune più altre cinque lingue, Expiran|21|33000
-Lucertoloide|Media umanoide (lucertoloide), neutrale|12|24|+1|+0|+1|2|0|1|-2|1|-2|+0|Furtività +4, Consapevolezza +3, Sopravvivenza +5|||||Draconico|1/2|100
-Maledetto immortale|Media aberrazione (umano), tendenzialmente folle|18|88|+6|+5|+2|3|1|2|-1|-2|-2|+1|Consapevolezza +3, professione che aveva in vita||Freddo, Veleno, Fuoco, da Vuoto|affascinato, pietrificato, spaventato||Comune, Nanico, Elfico|4|1100
-Monete affamate|Minuscola aberrazione, fortemente malvagia|13|24|+3|+1|+0|-3|1|3|-2|0|-1|+1|Consapevolezza +3||Freddo, Veleno, Elettricità, da Vuoto|affascinato, pietrificato, spaventato|||1/2|100
+Lucertoloide|Media umanoide (lucertoloide), neutrale|12|24|+3|+3|+3|2|0|1|-2|1|-2|+0|Furtività +4, Consapevolezza +3, Sopravvivenza +5|||||Draconico|1/2|100
+Maledetto immortale|Media aberrazione (umano), tendenzialmente folle|18|88|+6|+5|+3|3|1|2|-1|-2|-2|+1|Consapevolezza +3, professione che aveva in vita||Freddo, Veleno, Fuoco, da Vuoto|affascinato, pietrificato, spaventato||Comune, Nanico, Elfico|4|1100
+Monete affamate|Minuscola aberrazione, fortemente malvagia|13|24|+3|+3|+3|-3|1|3|-2|0|-1|+1|Consapevolezza +3||Freddo, Veleno, Elettricità, da Vuoto|affascinato, pietrificato, spaventato|||1/2|100
 Cinghiale Mannaro|Media umanoide , mutaforma, malvagio|17|88|+6|+4|+4|3|0|2|0|0|-1|+0|||da arma non magica o che non sia argentata|||Comune (non può parlare in forma di cinghiale)|4|1100
 Lupo Mannaro|Media umanoide (umano, mutaforma), caotico malvagio|17|70|+5|+4|+3|2|1|2|0|0|0|+1|Furtività +3, Consapevolezza +4||da arma non magica o che non sia argentata|||Comune (non può parlare in forma di lupo)|3|700
 Orso Mannaro|Media umanoide (umano, mutaforma), neutrale buono|18|108|+8|+5|+6|4|0|3|0|1|1|+0|Consapevolezza +7||da arma non magica o che non sia argentata|||Comune (non può parlare in forma di orso)|5|1800
-Ratto Mannaro|Media umanoide (umano, mutaforma), legale malvagio|16|51|+3|+4|+2|0|2|1|0|0|-1|+2|Furtività +4, Consapevolezza +2||da arma non magica o che non sia argentata||Scurovisione 18 m (solo in forma di ratto)|Comune (non può parlare in forma di ratto)|2|450
+Ratto Mannaro|Media umanoide (umano, mutaforma), legale malvagio|16|51|+3|+4|+3|0|2|1|0|0|-1|+2|Furtività +4, Consapevolezza +2||da arma non magica o che non sia argentata||Scurovisione 18 m (solo in forma di ratto)|Comune (non può parlare in forma di ratto)|2|450
 Tigre Mannara|Media umanoide (umano, mutaforma), neutrale|19|89|+7|+6|+5|3|2|3|0|1|0|+2|Furtività +4, Consapevolezza +5||da arma non magica che non siano argentati||Scurovisione 18 m|Comune (non può parlare in forma di tigre)|4|1100
 Manticora|Grande mostruosità, legale malvagio|19|70|+6|+6|+4|3|3|3|-2|1|-1|+3|||||Scurovisione 18 m|Comune|3|700
 Manto Assassino|Grande aberrazione, caotico neutrale|24|160|+9|+10|+9|3|2|1|1|1|2|+2|Furtività +5||||Scurovisione 18 m|Linguaggio delle Profondità|8|3900
-Mantoscuro|Piccola mostruosità, disallineato|13|24|+1|+1|+0|3|1|1|-4|0|-3|+1|Furtività +3||||Vista Cieca 18 m||1/2|100
+Mantoscuro|Piccola mostruosità, disallineato|13|24|+3|+3|+3|3|1|1|-4|0|-3|+1|Furtività +3||||Vista Cieca 18 m||1/2|100
 Medusa|Media mostruosità, legale malvagio|22|126|+9|+8|+7|0|2|3|1|1|2|+2|Furtività +5, Ingannare +5, Percepire Emozioni +4||||Scurovisione 18 m|Comune|6|2300
-Mefito di Ghiaccio|Piccola elementale, neutrale malvagio|13|24|+0|+1|+0|-2|1|0|-1|0|1|+1|Furtività +3, Consapevolezza +2||Veleno||Scurovisione 18 m|Aquan, Ictun|1/2|100
-Mefito di Magma|Piccola elementale, neutrale malvagio|13|24|+1|+1|+0|-1|1|1|-2|0|0|+1|Furtività +3||Veleno||Scurovisione 18 m|Ignan, Tremun|1/2|100
-Mefito di Polvere|Piccola elementale, neutrale malvagio|14|24|+0|+2|+0|-3|2|0|-1|0|0|+2|Furtività +4, Consapevolezza +2||Veleno||Scurovisione 18 m|Ictun, Tremun|1/2|100
-Mefito di Vapore|Piccola elementale, neutrale malvagio|12|19|+0|+0|+0|-3|0|0|0|0|1|+0|||Veleno||Scurovisione 18 m|Aquan, Ignan|1/4|50
+Mefito di Ghiaccio|Piccola elementale, neutrale malvagio|13|24|+3|+3|+3|-2|1|0|-1|0|1|+1|Furtività +3, Consapevolezza +2||Veleno||Scurovisione 18 m|Aquan, Ictun|1/2|100
+Mefito di Magma|Piccola elementale, neutrale malvagio|13|24|+3|+3|+3|-1|1|1|-2|0|0|+1|Furtività +3||Veleno||Scurovisione 18 m|Ignan, Tremun|1/2|100
+Mefito di Polvere|Piccola elementale, neutrale malvagio|14|24|+3|+3|+3|-3|2|0|-1|0|0|+2|Furtività +4, Consapevolezza +2||Veleno||Scurovisione 18 m|Ictun, Tremun|1/2|100
+Mefito di Vapore|Piccola elementale, neutrale malvagio|12|19|+3|+3|+3|-3|0|0|0|0|1|+0|||Veleno||Scurovisione 18 m|Aquan, Ignan|1/4|50
 Megera Marina|Media fatato, caotico malvagio|15|52|+5|+3|+3|3|1|3|1|1|1|+1|||||Scurovisione 18 m|Aquan, Comune, Gigante|2|450
 Megera Notturna|Media immondo, neutrale malvagio|20|108|+8|+7|+7|4|2|3|3|2|3|+3|Furtività +6, Ingannare +7, Percepire Emozioni +6|Freddo, Fuoco; da arma non magica o non siano argentati|||Scurovisione 36 m|Abissale, Comune, Infernale, Druidico|5|1800
 Megera Verde|Media fatato, neutrale malvagio|17|70|+6|+4|+5|4|1|3|1|2|2|+1|Arcana +3, Furtività +3, Ingannare +4||||Scurovisione 18 m|Comune, Draconico, Silvano|3|700
-Ameba Paglierina|Grande melma, disallineato|12|51|+4|+0|+0|2|-2|2|-4|-2|-5|-2||Acido|Elettricità, tagliente|accecato, affascinato, assordato, prono, affaticato, spaventato|Vista Cieca 18 m (cieca oltre questo raggio)||2|450
-Cubo Gelatinoso|Grande melma, disallineato|10|53|+7|-2|+0|2|-4|5|-5|-2|-5|-4|||armi da taglio non magiche, da danno|accecato, affascinato, assordato, prono, affaticato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)||2|450
-Melma Grigia|Media melma, disallineato|10|24|+3|-1|-1|1|-2|3|-5|-2|-4|-2||Acido, Freddo, Fuoco||accecato, affascinato, assordato, prono, affaticato, spaventato|Vista Cieca 18 m (cieca oltre questo raggio)||1/2|100
-Protoplasma Nero|Grande melma, disallineato|14|89|+7|+1|+2|3|-3|3|-5|-2|-5|-3|||Acido, Freddo, Elettricità, tagliente, da critico|accecato, affascinato, assordato, prono, affaticato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)||4|1100
+Ameba Paglierina|Grande melma, disallineato|12|51|+4|+3|+3|2|-2|2|-4|-2|-5|-2||Acido|Elettricità, tagliente|accecato, affascinato, assordato, prono, affaticato, spaventato|Vista Cieca 18 m (cieca oltre questo raggio)||2|450
+Cubo Gelatinoso|Grande melma, disallineato|10|53|+7|+3|+3|2|-4|5|-5|-2|-5|-4|||armi da taglio non magiche, da danno|accecato, affascinato, assordato, prono, affaticato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)||2|450
+Melma Grigia|Media melma, disallineato|10|24|+3|+3|+3|1|-2|3|-5|-2|-4|-2||Acido, Freddo, Fuoco||accecato, affascinato, assordato, prono, affaticato, spaventato|Vista Cieca 18 m (cieca oltre questo raggio)||1/2|100
+Protoplasma Nero|Grande melma, disallineato|14|89|+7|+3|+3|3|-3|3|-5|-2|-5|-3|||Acido, Freddo, Elettricità, tagliente, da critico|accecato, affascinato, assordato, prono, affaticato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)||4|1100
 Mimic|Media mostruosità (mutaforma), neutrale|15|51|+4|+3|+3|3|1|2|-2|1|-1|+1|Furtività +5||Acido|prono|Scurovisione 18 m||2|450
 Minotauro|Grande mostruosità, caotico malvagio|16|70|+6|+3|+6|4|0|3|-2|3|-1|+0|Consapevolezza +7||||Scurovisione 18 m|Abissale|3|700
-Mummia|Media non morto, legale malvagio|15|70|+5|+2|+3|3|-1|2|-2|0|1|-1||da arma non magica|da Vuoto, Veleno|affascinato, paralizzato, affaticato, spaventato, sanguinamento|Scurovisione 18 m|le lingue che conosceva in vita|3|700
+Mummia|Media non morto, legale malvagio|15|70|+5|+3|+3|3|-1|2|-2|0|1|-1||da arma non magica|da Vuoto, Veleno|affascinato, paralizzato, affaticato, spaventato, sanguinamento|Scurovisione 18 m|le lingue che conosceva in vita|3|700
 Mummia Sovrana|Media non morto, legale malvagio|32|294|+18|+15|+19|4|0|3|0|4|3|+0|Religione +5, Storia +5||da Vuoto, Veleno; armi +1|affascinato, paralizzato, affaticato, spaventato|Scurovisione 18 m|le lingue che conosceva in vita|15|13000
 Naga Guardiano|Grande mostruosità, legale buono|29|201|+13|+14|+14|4|4|3|3|4|4|+4|||Veleno|affascinato|Scurovisione 18 m|Celestiale, Comune|10|5900
 Naga Spirituale|Grande mostruosità, caotico malvagio|25|162|+10|+11|+10|4|3|2|3|2|3|+3|||Veleno|affascinato|Scurovisione 18 m|Abissale, Comune|8|3900
-Nano Oscuro|Media umanoide (nano), legale malvagio|13|33|+3|+1|+1|2|0|2|0|0|-1|+0|||||Scurovisione 36 m|Nanico, Linguaggio delle Profondità|1|200
-Armatura Animata|Media costrutto, disallineato|13|33|+2|+1|-3|2|0|1|-5|-4|-5|+0|||Veleno|accecato, affascinato, assordato, paralizzato, pietrificato, affaticato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)||1|200
-Spada Volante|Piccola costrutto, disallineato|14|19|+0|+2|-2|1|2|0|-5|-3|-5|+2|||Veleno|accecato, affascinato, assordato, paralizzato, pietrificato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)||1/4|50
-Tappeto del Soffocamento|Grande costrutto, disallineato|16|51|+2|+4|-2|3|2|0|-5|-4|-5|+2|||Veleno|accecato, affascinato, assordato, paralizzato, pietrificato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)||2|450
-Ogre|Grande gigante, sadico malvagio|13|52|+5|+1|+0|4|-1|3|-3|-2|-2|-1|||||Scurovisione 18 m|Comune, Gigante|2|450
-Ombra|Media non morto, caotico malvagio|14|24|+1|+2|+0|-2|2|1|-2|0|-1|+2|Furtività +4 (+6 a luce fioca o oscurità)|Acido, Freddo, Elettricità, Fuoco, Suono; da arma non magica|da Vuoto, Veleno|afferrato, intralciato, paralizzato, pietrificato, prono, affaticato, spaventato, sanguinamento|Scurovisione 18 m||1/2|100
-Omuncolo|Minuscola costrutto, neutrale|14|15|+0|+2|+0|-3|2|0|0|0|-2|+2|||Veleno|affascinato|Scurovisione 18 m, Vista Cieca 3 m|comprende le lingue del suo creatore ma non può parlare|0|10
+Nano Oscuro|Media umanoide (nano), legale malvagio|13|33|+3|+3|+3|2|0|2|0|0|-1|+0|||||Scurovisione 36 m|Nanico, Linguaggio delle Profondità|1|200
+Armatura Animata|Media costrutto, disallineato|13|33|+3|+3|+3|2|0|1|-5|-4|-5|+0|||Veleno|accecato, affascinato, assordato, paralizzato, pietrificato, affaticato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)||1|200
+Spada Volante|Piccola costrutto, disallineato|14|19|+3|+3|+3|1|2|0|-5|-3|-5|+2|||Veleno|accecato, affascinato, assordato, paralizzato, pietrificato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)||1/4|50
+Tappeto del Soffocamento|Grande costrutto, disallineato|16|51|+3|+4|+3|3|2|0|-5|-4|-5|+2|||Veleno|accecato, affascinato, assordato, paralizzato, pietrificato, spaventato|Vista Cieca 18 m (cieco oltre questo raggio)||2|450
+Ogre|Grande gigante, sadico malvagio|13|52|+5|+3|+3|4|-1|3|-3|-2|-2|-1|||||Scurovisione 18 m|Comune, Gigante|2|450
+Ombra|Media non morto, caotico malvagio|14|24|+3|+3|+3|-2|2|1|-2|0|-1|+2|Furtività +4 (+6 a luce fioca o oscurità)|Acido, Freddo, Elettricità, Fuoco, Suono; da arma non magica|da Vuoto, Veleno|afferrato, intralciato, paralizzato, pietrificato, prono, affaticato, spaventato, sanguinamento|Scurovisione 18 m||1/2|100
+Omuncolo|Minuscola costrutto, neutrale|14|15|+3|+3|+3|-3|2|0|0|0|-2|+2|||Veleno|affascinato|Scurovisione 18 m, Vista Cieca 3 m|comprende le lingue del suo creatore ma non può parlare|0|10
 Oni|Grande gigante, legale malvagio|21|145|+10|+7|+8|4|0|3|2|1|2|+2|Arcana +5, Ingannare +8||||Scurovisione 18 m|Comune, Gigante|7|2900
-Orchetto|Media umanoide (orco), caotico neutrale|13|24|+2|+1|+0|2|1|2|0|0|0|+1|Intimidire +1||||Scurovisione 18 m|Comune, Goblinoide|1/2|100
-Orco|Media umanoide (orco), caotico malvagio|14|33|+4|+2|+1|3|1|3|-2|0|0|+1|Intimidire +2||||Scurovisione 18 m|Comune, Goblinoide|1|100
+Orchetto|Media umanoide (orco), caotico neutrale|13|24|+3|+3|+3|2|1|2|0|0|0|+1|Intimidire +1||||Scurovisione 18 m|Comune, Goblinoide|1/2|100
+Orco|Media umanoide (orco), caotico malvagio|14|33|+4|+3|+3|3|1|3|-2|0|0|+1|Intimidire +2||||Scurovisione 18 m|Comune, Goblinoide|1|100
 Orrore Arrampicamuri|Grande mostruosità, disallineato|16|70|+5|+3|+4|4|0|2|-2|1|-2|+0|||||Scurovisione 3 m, Vista Cieca 18 m|Orrore Arrampicamuri|3|700
 Orsogufo|Grande bestia, disallineato|17|70|+6|+4|+4|5|1|3|-4|1|-2|+1|||||Scurovisione 18 m||3|700
 Orsogufo Saggio|Grande mostruosità, neutrale|17|70|+5|+4|+6|3|1|2|3|3|1|+3|Consapevolezza +9||||Scurovisione 18 m|comprende e legge i seguenti: Comune, Druidico,Celestiale, Infernale, Nanico, Elfico, Orchesco, Gigante, Expiran, lingue Elementali|3|700
-Otyugh|Grande aberrazione, neutrale|18|109|+9|+5|+6|3|0|4|3|1|-2|+2|||Veleno|malattie|Scurovisione 36 m|Otyugh, Elfico, Nanico|5|1800
+Otyugh|Grande aberrazione, neutrale|18|109|+9|+5|+6|3|0|4|3|1|-2|+3|||Veleno|malattie|Scurovisione 36 m|Otyugh, Elfico, Nanico|5|1800
 Panoptikhan|Grande aberrazione, malvagia|29|235|+14|+13|+14|0|1|2|3|2|2|+3|||||Scurovisione 36 m, visione del vero 18m|telepatia 50 m|12|8400
 Pegaso|Grande celestiale, caotico buono|16|52|+5|+4|+4|4|2|3|0|2|1|+2|Consapevolezza +6|||||comprende Celestiale, Comune, Elfico e Silvano ma non può parlare|2|450
 Persecutore Invisibile|Media elementale, neutrale|24|125|+8|+10|+8|3|4|2|0|2|0|+4|Furtività +10, Consapevolezza +8|da arma non magica|Veleno|afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato|Scurovisione 18 m|Ictun, comprende il Comune ma non lo parla|6|2300
-Pseudodrago|Minuscola drago, neutrale buono|14|19|+1|+2|+1|-2|2|1|0|1|0|+2|Furtività +4, Consapevolezza +3||||Scurovisione 18 m, Vista Cieca 3 m|comprende il Comune e il Draconico ma non parla|1/4|50
+Pseudodrago|Minuscola drago, neutrale buono|14|19|+3|+3|+3|-2|2|1|0|1|0|+2|Furtività +4, Consapevolezza +3||||Scurovisione 18 m, Vista Cieca 3 m|comprende il Comune e il Draconico ma non parla|1/4|50
 Rakshasa|Media immondo, legale malvagio|32|259|+17|+16|+16|2|3|4|1|3|5|+3|Ingannare +10, Percepire Emozioni +8||contundenti, armi +1||Scurovisione 18 m|Comune, Infernale|13|10000
 Razziamorti|Grande costrutto, non morto, non allineato|20|127|+10|+6|+4|5|0|4|-4|-2|-5|+0|||Veleno|affascinato, affaticato, paralizzato, pietrificato, sanguinamento, malattie|Scurovisione 30 m|comprende tutte le lingue del creatore ma non può parlare|6|2300
 Remorhaz|Enorme mostruosità, disallineato|27|224|+16|+12|+11|7|1|5|-3|0|-3|+1|||||Scurovisione 18 m, senso tellurico 18 m||11|7200
-Rugginofago|Media Mostruosità, disallineato|13|24|+1|+1|+1|1|1|1|-4|1|-2|+1|||||Scurovisione 18 m||1/2|100
-Sahuagin|Media umanoide (sahuagin), legale malvagio|12|24|+1|+0|+1|1|0|1|1|1|-1|+1|Consapevolezza +5||||Scurovisione 36 m|Sahuagin|1/2|100
+Rugginofago|Media Mostruosità, disallineato|13|24|+3|+3|+3|1|1|1|-4|1|-2|+1|||||Scurovisione 18 m||1/2|100
+Sahuagin|Media umanoide (sahuagin), legale malvagio|12|24|+3|+3|+3|1|0|1|1|1|-1|+1|Consapevolezza +5||||Scurovisione 36 m|Sahuagin|1/2|100
 Salamandra|Grande elementale, neutrale malvagio|20|107|+7|+7|+5|4|2|2|0|0|1|+2||da arma non magica|||Scurovisione 18 m|Ignan|5|1800
-Satiro|Media fatato, caotico neutrale|15|24|+0|+3|+0|1|3|0|1|0|2|+3|Furtività +5, Intrattenere +6, Consapevolezza +2|||||Comune, Elfico, Silvano|1/2|100
-Scheletro|Media non morto, legale malvagio|14|19|+2|+2|+0|0|2|2|-2|-1|-3|+2||perforante, tagliente|Veleno|affaticato, sanguinamento|Scurovisione 18 m|comprende tutte le lingue che parlava in vita ma non può parlare|1/4|50
-Scheletro Campione|Medio non morto, legale malvagio|17|70|+6|+4|+2|4|1|3|-2|-1|-3|+1||perforante, tagliente, Elettricità, Fuoco|Veleno|affaticato, sanguinamento|Scurovisione 18 m|comprende l'Expiran, ma non può parlare|3|700
-Scheletro di Saurovallo da Guerra|Grande non morto, legale malvagio|13|24|+2|+1|+0|4|1|2|-4|-1|-3|+1||perforante, tagliente|Veleno|affaticato, sanguinamento|Scurovisione 18 m||1/2|100
+Satiro|Media fatato, caotico neutrale|15|24|+3|+3|+3|1|3|0|1|0|2|+3|Furtività +5, Intrattenere +6, Consapevolezza +2|||||Comune, Elfico, Silvano|1/2|100
+Scheletro|Media non morto, legale malvagio|14|19|+3|+3|+3|0|2|2|-2|-1|-3|+2||perforante, tagliente|Veleno|affaticato, sanguinamento|Scurovisione 18 m|comprende tutte le lingue che parlava in vita ma non può parlare|1/4|50
+Scheletro Campione|Medio non morto, legale malvagio|17|70|+6|+4|+3|4|1|3|-2|-1|-3|+1||perforante, tagliente, Elettricità, Fuoco|Veleno|affaticato, sanguinamento|Scurovisione 18 m|comprende l'Expiran, ma non può parlare|3|700
+Scheletro di Saurovallo da Guerra|Grande non morto, legale malvagio|13|24|+3|+3|+3|4|1|2|-4|-1|-3|+1||perforante, tagliente|Veleno|affaticato, sanguinamento|Scurovisione 18 m||1/2|100
 Segugio Infernale|Media immondo, legale malvagio|17|70|+5|+4|+4|3|1|2|-2|1|-2|+1|Consapevolezza +5||Fuoco||Scurovisione 18 m|comprende l'Infernale ma non può parlare|3|700
 Androsfinge|Grande mostruosità, legale neutrale|34|338|+22|+17|+21|6|0|5|3|4|6|+3|Arcana +9, Religione +15||da arma non magica|affascinato, spaventato|visione del vero 36 m|Comune, Sfinge|17|18000
 Ginosfinge|Grande mostruosità, legale neutrale|28|219|+14|+13|+15|4|2|3|4|4|4|+4|Arcana +14, Religione +9, Storia +14|da arma non magica||affascinato, spaventato|visione del vero 36 m|Comune, Sfinge|11|7200
-Sibilante|Grande mostruosità, caotico|15|51|+3|+3|+2|2|1|1|-3|0|-2|+1|Furtività +4, Consapevolezza +3||||Scurovisione 18 m||2|450
-Spettro|Medio non morto, malvagio|15|33|+1|+3|+1|-5|2|0|0|0|2|+2|Furtività +8,Consapevolezza +3|Acido, Freddo, Fuoco, Elettricità, Suono, da Vuoto, da arma non magica||affascinato, spaventato, affaticato, afferrato, paralizzato, pietrificato, veleno, prono, ristretto|Scurovisione 18 m||1|200
-Spiritello|Minuscola fatato, neutrale buono|16|19|+0|+4|+1|-4|4|0|2|1|0|+4|Furtività +8 (la prova è fatta con -1d6 se lo spiritello sta volando),Consapevolezza +3|||||Comune, Elfico, Silvano|1/4|50
-Strige (Uccello Stigeo)|Minuscola bestia, disallineato|15|17|+0|+3|+0|-3|3|0|-4|-1|-2|+3|||||Scurovisione 18 m||1/8|25
+Sibilante|Grande mostruosità, caotico|15|51|+3|+3|+3|2|1|1|-3|0|-2|+1|Furtività +4, Consapevolezza +3||||Scurovisione 18 m||2|450
+Spettro|Medio non morto, malvagio|15|33|+3|+3|+3|-5|2|0|0|0|2|+2|Furtività +8,Consapevolezza +3|Acido, Freddo, Fuoco, Elettricità, Suono, da Vuoto, da arma non magica||affascinato, spaventato, affaticato, afferrato, paralizzato, pietrificato, veleno, prono, ristretto|Scurovisione 18 m||1|200
+Spiritello|Minuscola fatato, neutrale buono|16|19|+3|+4|+3|-4|4|0|2|1|0|+4|Furtività +8 (la prova è fatta con -1d6 se lo spiritello sta volando),Consapevolezza +3|||||Comune, Elfico, Silvano|1/4|50
+Strige (Uccello Stigeo)|Minuscola bestia, disallineato|15|17|+3|+3|+3|-3|3|0|-4|-1|-2|+3|||||Scurovisione 18 m||1/8|25
 Tarrasque|Colossale mostruosità (titano), disallineato|52|615|+40|+30|+30|10|0|10|-2|0|0|+0|||Fuoco, Veleno, Elettricità; armi +2|affascinato, paralizzato, spaventato, affaticato|Vista Cieca 36 m||30|155000
-Teschio Fiammeggiante|Piccolo non morto, Tratti malvagi|15|51|+3|+3|+2|0|1|1|1|0|0|+1||da Vuoto|Fuoco, Veleno, da arma non magica|affascinato, paralizzato, affaticato, spaventato, sanguinamento|Scurovisione 18 m||2|200
+Teschio Fiammeggiante|Piccolo non morto, Tratti malvagi|15|51|+3|+3|+3|0|1|1|1|0|0|+1||da Vuoto|Fuoco, Veleno, da arma non magica|affascinato, paralizzato, affaticato, spaventato, sanguinamento|Scurovisione 18 m||2|200
 Testuggine Dragona|Mastodontica drago, neutrale|34|338|+22|+17|+18|7|0|5|0|1|1|+0|||||Scurovisione 18 m|Aquan, Draconico|17|18000
-Topi, La|Minuscola fatata, indifferente. Patrono|16|15|+30|+34|+31|-1|4|0|6|1|10|+6|tutte +20|||a subire a qualsiasi tipo di tiro critico|Senso tellurico 60, Scurovisione 60 m, Visione del Vero 60 m|tutti|0|10
+Topi, La|Minuscola fatata, indifferente. Patrono|16|15|+30|+34|+30|-1|4|0|6|1|10|+6|tutte +20|||a subire a qualsiasi tipo di tiro critico|Senso tellurico 60, Scurovisione 60 m, Visione del Vero 60 m|tutti|0|10
 Torciascura|Media non morto, malvagio|18|88|+6|+5|+3|3|1|2|0|-1|-2|+1||da Vuoto; da arma non magica o che non sia argentata|Veleno|affaticato, sanguinamento|Scurovisione, vede nell'oscurità magica|Comprende il Comune, ma non parla|4|1100
 Troll|Grande gigante, caotico malvagio|19|110|+10|+6|+4|5|1|5|-2|-1|-2|+1|||||Scurovisione 18 m|Gigante|5|1800
-Uomo Acquatico|Media umanoide (uomo acquatico), neutrale|13|17|+1|+1|+0|0|1|1|0|0|1|+1|Consapevolezza +2|||||Aquan, Comune|1/8|25
+Uomo Acquatico|Media umanoide (uomo acquatico), neutrale|13|17|+3|+3|+3|0|1|1|0|0|1|+1|Consapevolezza +2|||||Aquan, Comune|1/8|25
 Uomo Albero (Arborom)|Enorme pianta, caotico buono|23|186|+14|+8|+12|6|-1|5|1|3|1|+1||contundente, perforante||||Comune, Druidico, Elfico, Silvano|9|5000
-Uomo Magma|Piccola elementale, caotico neutrale|14|24|+1|+2|+0|-2|2|1|-1|0|0|+2||da arma non magica\\|Fuoco||Scurovisione 18 m|Ignan|1/2|100
+Uomo Magma|Piccola elementale, caotico neutrale|14|24|+3|+3|+3|-2|2|1|-1|0|0|+2||da arma non magica\\|Fuoco||Scurovisione 18 m|Ignan|1/2|100
 Unicorno|Grande celestiale, legale buono|20|107|+7|+7|+8|4|2|2|0|3|3|+2|||Veleno|affascinato, paralizzato|Scurovisione 18 m|Celestiale, Elfico, Silvano, telepatia 18 m|5|1800
 Vampiro|Media non morto (mutaforma), legale malvagio|33|259|+17|+17|+15|4|4|4|3|2|4|+4|Furtività +9, Consapevolezza +17||da Vuoto; Veleno, da arma non magica|affascinato, assordato, sanguinamento|Scurovisione 36 m|le lingue che conosceva in vita, Expiran|13|10000
 Progenie Vampirica|Media non morto, neutrale malvagio|23|126|+9|+9|+6|3|3|3|0|0|1|+3|Furtività +6|da Vuoto; da arma non magica|||Scurovisione 18 m|le lingue che conosceva in vita|6|2300
-Vermi delle carne|minuscola mostruosità, disallineato|13|32|-1|+1|+1|-4|0|-2|-4|0|-4|+0|||||vista tellurica 3 m||1|200
+Vermi delle carne|minuscola mostruosità, disallineato|13|32|+3|+3|+3|-4|0|-2|-4|0|-4|+0|||||vista tellurica 3 m||1|200
 Verme Purpureo|Mastodontica mostruosità, disallineato|30|303|+21|+13|+14|9|-2|6|-5|-1|-3|-2|||||Vista Cieca 9 m, senso tellurico 18 m||15|13000
 Verme Strisciante Tentacolato|Grande mostruosità, disallineato|18|89|+7|+5|+5|4|1|3|-4|1|-3|+1|||||Scurovisione 18 m||4|1000
 Viverna|Grande drago, disallineato|20|126|+9|+6|+7|4|0|3|-3|1|-2|+0|||||Scurovisione 18 m||6|2300
 Wight|Media non morto, neutrale malvagio|18|70|+6|+5|+4|2|2|3|0|1|2|+2|Furtività +4, Consapevolezza +3|da Vuoto; da arma non magica o che non sia argentata|Veleno|affaticato, sanguinamento|Scurovisione 18 m|le lingue che conosceva in vita, Expiran|3|700
 Wraith|Media non morto, neutrale malvagio|21|108|+8|+8|+7|-2|3|3|1|2|2|+3||Acido, Freddo, Elettricità, Fuoco, Suono; da arma non magica o che non sia argentata|da Vuoto, Veleno|affascinato, afferrato, intralciato, paralizzato, pietrificato, prono, affaticato, sanguinamento|Scurovisione 18 m|le lingue che conosceva in vita, Expiran|5|1800
 Xorn|Media elementale, neutrale|18|111|+11|+5|+5|3|0|6|0|0|0|+0|Furtività +3, Consapevolezza +6|perforante e tagliente di armi non magiche o che non siano di adamantio|||Scurovisione 18 m, senso tellurico 18 m|Tremun|5|1800
-Zombi|Media non morto, neutrale malvagio|10|19|+3|-1|-1|1|-2|3|-4|-2|-3|-2|||Veleno|sanguinamento|Scurovisione 18 m|comprende tutte le lingue che parlava in vita ma non può parlare|1/4|50
-Zombi Ogre|Grande non morto, neutrale malvagio|12|52|+6|+0|+0|4|-2|4|-4|-2|-3|-2|||Veleno|sanguinamento|Scurovisione 18 m|comprende Comune e Gigante ma non può parlare|2|450
-Albero Risvegliato|Enorme pianta, disallineato|12|51|+4|+0|+2|4|-2|2|0|0|-2|+0|Storia +2||||Scurovisione 18 m|una lingua conosciuta dal suo creatore|2|450
-Alce|Grande bestia, disallineato|12|19|+1|+0|+0|3|0|1|-4|0|-2|+0|||||||1/4|50
+Zombi|Media non morto, neutrale malvagio|10|19|+3|+3|+3|1|-2|3|-4|-2|-3|-2|||Veleno|sanguinamento|Scurovisione 18 m|comprende tutte le lingue che parlava in vita ma non può parlare|1/4|50
+Zombi Ogre|Grande non morto, neutrale malvagio|12|52|+6|+3|+3|4|-2|4|-4|-2|-3|-2|||Veleno|sanguinamento|Scurovisione 18 m|comprende Comune e Gigante ma non può parlare|2|450
+Albero Risvegliato|Enorme pianta, disallineato|12|51|+4|+3|+3|4|-2|2|0|0|-2|+0|Storia +2||||Scurovisione 18 m|una lingua conosciuta dal suo creatore|2|450
+Alce|Grande bestia, disallineato|12|19|+3|+3|+3|3|0|1|-4|0|-2|+0|||||||1/4|50
 Alce Gigante|Enorme bestia, disallineato|17|51|+4|+5|+4|4|3|2|-2|2|0|+3|||||||2|450
-Aquila|Piccola bestia, disallineato|14|15|+0|+2|+2|-2|2|0|-4|2|-2|+2|||||||0|10
-Aquila Gigante|Grande bestia, disallineato|16|33|+2|+4|+3|3|3|1|-1|2|0|+3||||||Aquila Gigante, comprende il Comune e l'Ictun ma non può parlarli|1|200
-Avvoltoio|Media bestia, disallineato|12|15|+1|+0|+1|-2|0|1|-4|1|-3|+0|||||||0|10
-Avvoltoio Gigante|Grande bestia, disallineato|12|15|+2|+0|+1|2|0|2|-2|1|-2|+0|||||||0|10
-Babbuino|Piccola bestia, disallineato|14|15|+0|+2|+1|-1|2|0|-3|1|-2|+2|||||||0|10
+Aquila|Piccola bestia, disallineato|14|15|+3|+3|+3|-2|2|0|-4|2|-2|+2|||||||0|10
+Aquila Gigante|Grande bestia, disallineato|16|33|+3|+4|+3|3|3|1|-1|2|0|+3||||||Aquila Gigante, comprende il Comune e l'Ictun ma non può parlarli|1|200
+Avvoltoio|Media bestia, disallineato|12|15|+3|+3|+3|-2|0|1|-4|1|-3|+0|||||||0|10
+Avvoltoio Gigante|Grande bestia, disallineato|12|15|+3|+3|+3|2|0|2|-2|1|-2|+0|||||||0|10
+Babbuino|Piccola bestia, disallineato|14|15|+3|+3|+3|-1|2|0|-3|1|-2|+2|||||||0|10
 Balena Assassina (Orca)|Enorme bestia, disallineato|16|69|+4|+3|+4|4|0|1|-4|1|-2|+0|||||||3|700
-Becco d'Ascia|Grande bestia, disallineato|13|19|+1|+1|+0|2|1|1|-4|0|-3|+1|||||||1/4|50
-Cane della Morte|Media mostruosità, malvagio|15|33|+3|+3|+2|2|2|2|-4|1|-2|+2|||||||1|200
-Cane Intermittente|Media mostruosità, malvagio|15|19|+1|+3|+1|1|3|1|0|1|0|+3|||||||1/4|50
-Caprone|Media bestia, disallineato|12|15|+0|+0|+0|1|0|0|-4|0|-3|+0|||||||0|10
-Caprone Gigante|Media bestia, disallineato|12|24|+1|+0|+1|3|0|1|-4|1|-2|+0|||||||1/2|100
-Cavallo Marino Gigante|Grande bestia, disallineato|14|24|+0|+2|+1|1|2|0|-4|1|-3|+2|||||||1/2|100
-Cervo|Media bestia, disallineato|15|15|+0|+3|+2|0|3|0|-4|2|-3|+3|||||||0|10
-Cinghiale|Media bestia, disallineato|12|19|+1|+0|+0|1|0|1|-4|-1|-3|+0|||||||1/4|50
-Cinghiale Gigante|Grande bestia, disallineato|14|52|+5|+2|+0|3|0|3|-4|-2|-3|+0|||||||2|450
-Coccodrillo|Grande bestia, disallineato|12|24|+1|+0|+0|2|0|1|-4|0|-3|+0|||||||1/2|100
+Becco d'Ascia|Grande bestia, disallineato|13|19|+3|+3|+3|2|1|1|-4|0|-3|+1|||||||1/4|50
+Cane della Morte|Media mostruosità, malvagio|15|33|+3|+3|+3|2|2|2|-4|1|-2|+2|||||||1|200
+Cane Intermittente|Media mostruosità, malvagio|15|19|+3|+3|+3|1|3|1|0|1|0|+3|||||||1/4|50
+Caprone|Media bestia, disallineato|12|15|+3|+3|+3|1|0|0|-4|0|-3|+0|||||||0|10
+Caprone Gigante|Media bestia, disallineato|12|24|+3|+3|+3|3|0|1|-4|1|-2|+0|||||||1/2|100
+Cavallo Marino Gigante|Grande bestia, disallineato|14|24|+3|+3|+3|1|2|0|-4|1|-3|+2|||||||1/2|100
+Cervo|Media bestia, disallineato|15|15|+3|+3|+3|0|3|0|-4|2|-3|+3|||||||0|10
+Cinghiale|Media bestia, disallineato|12|19|+3|+3|+3|1|0|1|-4|-1|-3|+0|||||||1/4|50
+Cinghiale Gigante|Grande bestia, disallineato|14|52|+5|+3|+3|3|0|3|-4|-2|-3|+0|||||||2|450
+Coccodrillo|Grande bestia, disallineato|12|24|+3|+3|+3|2|0|1|-4|0|-3|+0|||||||1/2|100
 Coccodrillo Gigante|Enorme bestia, disallineato|17|108|+8|+4|+5|5|-1|3|-4|0|-2|-1|||||||5|1800
-Corvo|Minuscola bestia, disallineato|14|15|-1|+2|+1|-4|2|-1|-4|1|-2|+2|||||||0|10
-Donnola Gigante|Media bestia, disallineato|15|17|+0|+3|+1|0|3|0|-3|1|-3|+3|||||||1/8|25
+Corvo|Minuscola bestia, disallineato|14|15|+3|+3|+3|-4|2|-1|-4|1|-2|+2|||||||0|10
+Donnola Gigante|Media bestia, disallineato|15|17|+3|+3|+3|0|3|0|-3|1|-3|+3|||||||1/8|25
 Elefante|Enorme bestia, disallineato|16|89|+7|+3|+4|6|-1|3|-4|0|-2|-1|||||||4|1000
-Falco|Minuscola bestia, disallineato|15|15|-1|+3|+2|-3|3|-1|-4|2|-2|+3|||||||0|10
-Falco di Sangue|Piccola bestia, disallineato|14|17|+0|+2|+2|-2|2|0|-4|2|-3|+2|||||||1/8|25
-Pirana|Minuscola bestia, disallineato|15|15|-1|+3|-2|-4|3|-1|-5|-2|-4|+3|||||||0|10
-Gatto|Minuscola bestia, disallineato|14|15|+0|+2|+1|-4|2|0|-4|1|-2|+2|||||||0|10
-Granchio Gigante|Media bestia, disallineato|14|17|+0|+2|+0|1|2|0|-5|-1|-4|+2|||||||1/8|25
-Gufo|Minuscola bestia, disallineato|13|15|-1|+1|+1|-4|1|-1|-4|1|-2|+1|||||||0|10
-Gufo Gigante|Grande bestia, neutrale|14|19|+1|+2|+1|1|2|1|-1|1|0|+2|||||||1/4|50
-Iena|Media bestia, disallineato|13|15|+1|+1|+1|0|1|1|-4|1|-3|+1|||||||0|10
-Iena Gigante|Grande bestia, disallineato|15|33|+3|+3|+2|3|2|2|-4|1|-2|+2|||||||1|200
-Leone|Grande bestia, disallineato|15|33|+2|+3|+2|3|2|1|-4|1|-1|+2|||||||1|200
-Lucertola Gigante|Grande bestia, disallineato|13|19|+1|+1|+0|2|1|1|-4|0|-3|+1|||||||1/4|50
-Lupo|Media bestia, disallineato|14|19|+1|+2|+1|1|2|1|-4|1|-2|+2|||||||1/4|50
-Dinolupo (Metalupo)|Grande bestia, disallineato|15|33|+3|+3|+2|3|2|2|-2|1|-2|+2|||||||1|200
+Falco|Minuscola bestia, disallineato|15|15|+3|+3|+3|-3|3|-1|-4|2|-2|+3|||||||0|10
+Falco di Sangue|Piccola bestia, disallineato|14|17|+3|+3|+3|-2|2|0|-4|2|-3|+2|||||||1/8|25
+Pirana|Minuscola bestia, disallineato|15|15|+3|+3|+3|-4|3|-1|-5|-2|-4|+3|||||||0|10
+Gatto|Minuscola bestia, disallineato|14|15|+3|+3|+3|-4|2|0|-4|1|-2|+2|||||||0|10
+Granchio Gigante|Media bestia, disallineato|14|17|+3|+3|+3|1|2|0|-5|-1|-4|+2|||||||1/8|25
+Gufo|Minuscola bestia, disallineato|13|15|+3|+3|+3|-4|1|-1|-4|1|-2|+1|||||||0|10
+Gufo Gigante|Grande bestia, neutrale|14|19|+3|+3|+3|1|2|1|-1|1|0|+2|||||||1/4|50
+Iena|Media bestia, disallineato|13|15|+3|+3|+3|0|1|1|-4|1|-3|+1|||||||0|10
+Iena Gigante|Grande bestia, disallineato|15|33|+3|+3|+3|3|2|2|-4|1|-2|+2|||||||1|200
+Leone|Grande bestia, disallineato|15|33|+3|+3|+3|3|2|1|-4|1|-1|+2|||||||1|200
+Lucertola Gigante|Grande bestia, disallineato|13|19|+3|+3|+3|2|1|1|-4|0|-3|+1|||||||1/4|50
+Lupo|Media bestia, disallineato|14|19|+3|+3|+3|1|2|1|-4|1|-2|+2|||||||1/4|50
+Dinolupo (Metalupo)|Grande bestia, disallineato|15|33|+3|+3|+3|3|2|2|-2|1|-2|+2|||||||1|200
 Lupo Invernale|Grande mostruosità, neutrale malvagio|17|70|+5|+4|+4|4|1|2|-2|1|-1|+1|||||||3|700
 Mammut|Enorme bestia, disallineato|19|129|+11|+5|+6|7|-1|5|-4|0|-2|-1|||||||6|2300
-Mastino|Media bestia, disallineato|14|17|+1|+2|+1|1|2|1|-4|1|-2|+2|||||||1/8|25
-Orso Bruno|Grande bestia, disallineato|13|33|+4|+1|+2|4|0|3|-4|1|-2|+0|||||||1|200
-Orso Nero|Media bestia, disallineato|12|24|+2|+0|+1|3|0|2|-4|1|-2|+0|||||||1/2|100
-Orso Polare|Grande bestia, disallineato|14|52|+5|+2|+3|5|0|3|-4|1|-2|+0|||||||2|450
+Mastino|Media bestia, disallineato|14|17|+3|+3|+3|1|2|1|-4|1|-2|+2|||||||1/8|25
+Orso Bruno|Grande bestia, disallineato|13|33|+4|+3|+3|4|0|3|-4|1|-2|+0|||||||1|200
+Orso Nero|Media bestia, disallineato|12|24|+3|+3|+3|3|0|2|-4|1|-2|+0|||||||1/2|100
+Orso Polare|Grande bestia, disallineato|14|52|+5|+3|+3|5|0|3|-4|1|-2|+0|||||||2|450
 Orso Corazzato|Enorme bestia, corrotta da Cattalm|19|90|+8|+6|+5|7|2|4|1|1|1|+2|||||||4|450
-Pantera|Media bestia, disallineato|14|19|+0|+2|+2|2|2|0|-4|2|-2|+2|||||||1/4|50
-Ragno|Minuscola bestia, disallineato|14|15|-1|+2|+0|||||||+2|||||||0|10
+Pantera|Media bestia, disallineato|14|19|+3|+3|+3|2|2|0|-4|2|-2|+2|||||||1/4|50
+Ragno|Minuscola bestia, disallineato|14|15|+3|+3|+3|||||||+2|||||||0|10
 Ragno Fase|Grande mostruosità, disallineato|18|69|+4|+5|+3|2|2|1|-2|0|-2|+2|||||||3|700
-Ragno Gigante|Grande bestia, disallineato|16|33|+2|+4|+1|2|3|1|-4|0|-3|+3|||||||1|200
-Ragno Lupo Gigante|Media bestia, disallineato|15|19|+1|+3|+1|1|3|1|-4|1|-3|+3|||||||1/4|50
-Rana|Minuscola bestia, disallineato|13|15|-1|+1|-1|-5|1|-1|-5|-1|-4|+1|||||||0|0
-Rana Gigante|Media bestia, disallineato|13|19|+0|+1|+0|1|1|0|-4|0|-4|+1|||||||1/4|50
-Ratto|Minuscola bestia, disallineato|12|15|-1|+0|+0|-4|0|-1|-4|0|-3|+0|||||||0|10
-Ratto Gigante|Piccola bestia, disallineato|14|17|+0|+2|+0|-2|2|0|-4|0|-3|+2|||||||1/8|25
-Rinoceronte|Grande bestia, disallineato|13|51|+4|+1|+3|5|-1|2|-4|1|-2|-1|||||||2|450
-Rospo Gigante|Grande bestia, disallineato|14|33|+2|+2|+1|2|1|1|-4|0|-4|+1|||||||1|200
-Saurovallo da Galoppo|Grande bestia, disallineato|12|19|+1|+0|+0|3|0|1|-3|0|-2|+0|||||||1/4|50
-Saurovallo da Guerra|Grande bestia, disallineato|13|24|+1|+1|+1|4|1|1|-2|1|-2|+1|||||||1/2|100
-Saurovallo da Tiro|Grande bestia, disallineato|12|19|+1|+0|+0|4|0|1|-3|0|-2|+0|||||||1/4|50
-Saurovallo nano|Media bestia, disallineato|12|17|+1|+0|+0|2|0|1|-3|0|-2|+0|||||||1/8|25
-Scarabeo di Fuoco Gigante|Piccola bestia, disallineato|12|15|+1|+0|-2|-1|0|1|-5|-2|-4|+0|||||||0|10
-Sciacallo|Piccola bestia, disallineato|14|15|+0|+2|+1|-1|2|0|-4|1|-2|+2|||||||0|10
-Sciami|Medio sciame di Minuscole bestie, disallineato|13|24|+0|+1|-1|-4|1|0|-5|-2|-5|+1|||||||1/2|100
-Sciame di Corvi|Medio sciame di Minuscole bestie, disallineato|14|19|+0|+2|+1|-2|2|-1|-4|1|-2|+2|||||||1/4|50
-Sciame di Pirana|Medio sciame di Minuscole bestie, disallineato|16|32|+0|+4|-1|1|3|-1|-5|-2|-4|+3|||||||1|200
-Sciame di Insetti|Medio sciame di Minuscole bestie, disallineato|13|24|+0|+1|-1|-4|1|0|-5|-2|-5|+1|||||||1/2|100
-Sciame di Pipistrelli|Medio sciame di Minuscole bestie, disallineato|14|19|+0|+2|+1|-3|2|0|-4|1|-3|+2|||||||1/4|50
-Sciame di Ragni|Medio sciame di Minuscole bestie, disallineato|13|24|+0|+1|-1|-4|1|0|-5|-2|-5|+1|||||||1/2|100
-Sciame di Ratti|Medio sciame di Minuscole bestie, disallineato|12|19|+0|+0|+0|-1|0|-1|-4|0|-4|+0|||||||1/4|50
-Sciame di Serpenti Velenosi|Medio sciame di Minuscole bestie, disallineato|16|19|+0|+4|+0|-1|4|0|-5|0|-4|+4|||||||1/4|50
-Sciame di Vespe|Medio sciame di Minuscole bestie, disallineato|13|24|+0|+1|-1|-1|1|0|-5|-2|-5|+1|||||||1/2|100
-Scimmia|Piccola bestia, disallineato|14|19|+0|+2|+1|-3|2|0|-3|1|-2|+2|Acrobatica +6, Consapevolezza +3||||||1/4|50
-Scimmione|Media bestia, disallineato|14|24|+2|+2|+1|3|2|2|-2|1|-2|+2|||||||1/2|100
+Ragno Gigante|Grande bestia, disallineato|16|33|+3|+4|+3|2|3|1|-4|0|-3|+3|||||||1|200
+Ragno Lupo Gigante|Media bestia, disallineato|15|19|+3|+3|+3|1|3|1|-4|1|-3|+3|||||||1/4|50
+Rana|Minuscola bestia, disallineato|13|15|+3|+3|+3|-5|1|-1|-5|-1|-4|+1|||||||0|0
+Rana Gigante|Media bestia, disallineato|13|19|+3|+3|+3|1|1|0|-4|0|-4|+1|||||||1/4|50
+Ratto|Minuscola bestia, disallineato|12|15|+3|+3|+3|-4|0|-1|-4|0|-3|+0|||||||0|10
+Ratto Gigante|Piccola bestia, disallineato|14|17|+3|+3|+3|-2|2|0|-4|0|-3|+2|||||||1/8|25
+Rinoceronte|Grande bestia, disallineato|13|51|+4|+3|+3|5|-1|2|-4|1|-2|-1|||||||2|450
+Rospo Gigante|Grande bestia, disallineato|14|33|+3|+3|+3|2|1|1|-4|0|-4|+1|||||||1|200
+Saurovallo da Galoppo|Grande bestia, disallineato|12|19|+3|+3|+3|3|0|1|-3|0|-2|+0|||||||1/4|50
+Saurovallo da Guerra|Grande bestia, disallineato|13|24|+3|+3|+3|4|1|1|-2|1|-2|+1|||||||1/2|100
+Saurovallo da Tiro|Grande bestia, disallineato|12|19|+3|+3|+3|4|0|1|-3|0|-2|+0|||||||1/4|50
+Saurovallo nano|Media bestia, disallineato|12|17|+3|+3|+3|2|0|1|-3|0|-2|+0|||||||1/8|25
+Scarabeo di Fuoco Gigante|Piccola bestia, disallineato|12|15|+3|+3|+3|-1|0|1|-5|-2|-4|+0|||||||0|10
+Sciacallo|Piccola bestia, disallineato|14|15|+3|+3|+3|-1|2|0|-4|1|-2|+2|||||||0|10
+Sciami|Medio sciame di Minuscole bestie, disallineato|13|24|+3|+3|+3|-4|1|0|-5|-2|-5|+1|||||||1/2|100
+Sciame di Corvi|Medio sciame di Minuscole bestie, disallineato|14|19|+3|+3|+3|-2|2|-1|-4|1|-2|+2|||||||1/4|50
+Sciame di Pirana|Medio sciame di Minuscole bestie, disallineato|16|32|+3|+4|+3|1|3|-1|-5|-2|-4|+3|||||||1|200
+Sciame di Insetti|Medio sciame di Minuscole bestie, disallineato|13|24|+3|+3|+3|-4|1|0|-5|-2|-5|+1|||||||1/2|100
+Sciame di Pipistrelli|Medio sciame di Minuscole bestie, disallineato|14|19|+3|+3|+3|-3|2|0|-4|1|-3|+2|||||||1/4|50
+Sciame di Ragni|Medio sciame di Minuscole bestie, disallineato|13|24|+3|+3|+3|-4|1|0|-5|-2|-5|+1|||||||1/2|100
+Sciame di Ratti|Medio sciame di Minuscole bestie, disallineato|12|19|+3|+3|+3|-1|0|-1|-4|0|-4|+0|||||||1/4|50
+Sciame di Serpenti Velenosi|Medio sciame di Minuscole bestie, disallineato|16|19|+3|+4|+3|-1|4|0|-5|0|-4|+4|||||||1/4|50
+Sciame di Vespe|Medio sciame di Minuscole bestie, disallineato|13|24|+3|+3|+3|-1|1|0|-5|-2|-5|+1|||||||1/2|100
+Scimmia|Piccola bestia, disallineato|14|19|+3|+3|+3|-3|2|0|-3|1|-2|+2|Acrobatica +6, Consapevolezza +3||||||1/4|50
+Scimmione|Media bestia, disallineato|14|24|+3|+3|+3|3|2|2|-2|1|-2|+2|||||||1/2|100
 Scimmione Gigante|Enorme bestia, disallineato|23|146|+11|+9|+8|6|2|4|-2|1|-2|+2|||||||7|2900
-Scorpione|Minuscola bestia, disallineato|12|15|-1|+0|-1|-4|0|-1|-5|-1|-4|+0|||||||0|10
-Scorpione Gigante|Grande bestia, disallineato|17|70|+5|+4|+2|2|1|2|-5|-1|-4|+1|||||||3|700
-Serpente Costrittore|Grande bestia, disallineato|14|19|+1|+2|+0|2|2|1|-5|0|-4|+2|||||||1/4|50
-Serpente Costrittore Gigante|Enorme bestia, disallineato|16|51|+3|+4|+2|4|2|1|-5|0|-4|+2|||||||2|450
-Serpente Velenoso|Minuscola bestia, disallineato|15|17|+0|+3|+0|-4|3|0|-5|0|-4|+3|||||||1/8|25
-Serpente Velenoso Gigante|Media bestia, disallineato|16|19|+1|+4|+0|0|4|1|-4|0|-4|+4|||||||1/4|50
-Serpente Volante|Minuscola bestia, disallineato|16|17|+0|+4|+1|-3|4|0|-4|1|-3|+4|||||||1/8|25
-Squalo Cacciatore|Grande bestia, disallineato|15|51|+4|+3|+2|4|1|2|-5|0|-3|+1|||||||2|450
-Squalo Corallino|Media bestia, disallineato|13|24|+1|+1|+0|2|1|1|-5|0|-3|+1|||||||1/2|100
+Scorpione|Minuscola bestia, disallineato|12|15|+3|+3|+3|-4|0|-1|-5|-1|-4|+0|||||||0|10
+Scorpione Gigante|Grande bestia, disallineato|17|70|+5|+4|+3|2|1|2|-5|-1|-4|+1|||||||3|700
+Serpente Costrittore|Grande bestia, disallineato|14|19|+3|+3|+3|2|2|1|-5|0|-4|+2|||||||1/4|50
+Serpente Costrittore Gigante|Enorme bestia, disallineato|16|51|+3|+4|+3|4|2|1|-5|0|-4|+2|||||||2|450
+Serpente Velenoso|Minuscola bestia, disallineato|15|17|+3|+3|+3|-4|3|0|-5|0|-4|+3|||||||1/8|25
+Serpente Velenoso Gigante|Media bestia, disallineato|16|19|+3|+4|+3|0|4|1|-4|0|-4|+4|||||||1/4|50
+Serpente Volante|Minuscola bestia, disallineato|16|17|+3|+4|+3|-3|4|0|-4|1|-3|+4|||||||1/8|25
+Squalo Cacciatore|Grande bestia, disallineato|15|51|+4|+3|+3|4|1|2|-5|0|-3|+1|||||||2|450
+Squalo Corallino|Media bestia, disallineato|13|24|+3|+3|+3|2|1|1|-5|0|-3|+1|||||||1/2|100
 Squalo Gigante|Enorme bestia, disallineato|18|110|+10|+5|+5|6|0|5|-5|0|-3|+0|||||||5|1800
-Strige|Minuscola bestia, disallineato|15|17|+0|+3|+0|-3|3|0|-4|-1|-2|+3|||||||1/8|25
-Tasso|Minuscola bestia, disallineato|12|15|+1|+0|+1|-3|0|1|-4|1|-3|+0|||||||0|10
-Tasso Gigante|Media bestia, disallineato|12|19|+2|+0|+1|1|0|2|-4|1|-3|+0|||||||1/4|50
-Tigre|Grande bestia, disallineato|15|33|+3|+3|+2|3|2|2|-4|1|-1|+2|||||||1|200
+Strige|Minuscola bestia, disallineato|15|17|+3|+3|+3|-3|3|0|-4|-1|-2|+3|||||||1/8|25
+Tasso|Minuscola bestia, disallineato|12|15|+3|+3|+3|-3|0|1|-4|1|-3|+0|||||||0|10
+Tasso Gigante|Media bestia, disallineato|12|19|+3|+3|+3|1|0|2|-4|1|-3|+0|||||||1/4|50
+Tigre|Grande bestia, disallineato|15|33|+3|+3|+3|3|2|2|-4|1|-1|+2|||||||1|200
 Tigre dai Denti a Sciabola|Grande bestia, disallineato|16|51|+4|+4|+3|4|2|2|-3|1|0|+2|||||||2|450
-Vespa Gigante|Media bestia, disallineato|14|24|+0|+2|+0|0|2|0|-5|0|-4|+2|||||||1/2|100
-Worg|Grande mostruosità, neutrale malvagio|13|24|+1|+1|+0|3|1|1|-2|0|-1|+1|||||||1/2|100
-Guardia|Media umanoide, qualsiasi Tratto|13|24|+1|+1|+0|1|1|1|0|0|0|+1|||||||1/2|100
+Vespa Gigante|Media bestia, disallineato|14|24|+3|+3|+3|0|2|0|-5|0|-4|+2|||||||1/2|100
+Worg|Grande mostruosità, neutrale malvagio|13|24|+3|+3|+3|3|1|1|-2|0|-1|+1|||||||1/2|100
+Guardia|Media umanoide, qualsiasi Tratto|13|24|+3|+3|+3|1|1|1|0|0|0|+1|||||||1/2|100
 Veterano|Media umanoide, qualsiasi Tratto|17|70|+5|+4|+3|3|1|2|0|0|0|+1|Atletica +5|||||Comune|3|700
 Cavaliere|Media umanoide, qualsiasi Tratto|16|70|+5|+3|+3|3|0|2|0|0|2|+0|||||||3|700
-Nobile|Media umanoide, qualsiasi Tratto|13|17|+0|+1|+2|0|1|0|1|2|3|+1|Percepire Emozioni +4, Ingannare +5|||||due lingue qualsiasi|1/8|25
-Popolano|Media umanoide, qualsiasi Tratto|12|17|+0|+0|+0|0|0|0|0|0|0|+0||||||Comune|1/8|25
-Bandito/Pirata|Media umanoide, qualsiasi Tratto non legale|13|17|+1|+1|+0|0|1|1|0|0|0|+1||||||Comune|1/8|25
-Spia|Media umanoide, qualsiasi Tratto|15|33|+1|+3|+3|0|2|0|1|2|3|+2||||||due lingue qualsiasi|1|200
-Capitano dei Banditi o Pirata|Media umanoide, qualsiasi Tratto non legale|17|51|+4|+5|+2|2|3|2|2|0|2|+3|Atletica +4, Ingannare +4|||||due lingue qualsiasi|2|450
+Nobile|Media umanoide, qualsiasi Tratto|13|17|+3|+3|+3|0|1|0|1|2|3|+1|Percepire Emozioni +4, Ingannare +5|||||due lingue qualsiasi|1/8|25
+Popolano|Media umanoide, qualsiasi Tratto|12|17|+3|+3|+3|0|0|0|0|0|0|+0||||||Comune|1/8|25
+Bandito/Pirata|Media umanoide, qualsiasi Tratto non legale|13|17|+3|+3|+3|0|1|1|0|0|0|+1||||||Comune|1/8|25
+Spia|Media umanoide, qualsiasi Tratto|15|33|+3|+3|+3|0|2|0|1|2|3|+2||||||due lingue qualsiasi|1|200
+Capitano dei Banditi o Pirata|Media umanoide, qualsiasi Tratto non legale|17|51|+4|+5|+3|2|3|2|2|0|2|+3|Atletica +4, Ingannare +4|||||due lingue qualsiasi|2|450
 Assassino|Media umanoide, qualsiasi Tratto non buono|25|162|+10|+11|+8|0|3|2|1|0|0|+3|Acrobazia +6, Furtività +9, Ingannare +3|||||Comune più due altre lingue|8|3900
-Mago Avventuriero|Media umanoide, qualsiasi malvagio|15|33|+1|+3|+2|-1|2|0|3|1|0|+3|Arcana +5, Storia +5|||||quattro lingue qualsiasi|1|200
+Mago Avventuriero|Media umanoide, qualsiasi malvagio|15|33|+3|+3|+3|-1|2|0|3|1|0|+3|Arcana +5, Storia +5|||||quattro lingue qualsiasi|1|200
 Grande Mago|Media umanoide, qualsiasi Tratto|22|122|+6|+8|+7|-1|2|0|3|1|0|+3|Arcana +6, Storia +6|||||quattro lingue qualsiasi|6|2300
 Arcimago|Media umanoide, qualsiasi Tratto|30|233|+13|+14|+14|0|2|1|5|2|3|+5|Arcana +13, Storia +13|||||sei lingue qualsiasi|12|8400
-Cultista|Media umanoide, qualsiasi Tratto non buono|13|17|+0|+1|+0|0|1|0|0|0|0|+1|Ingannare +2, Religione +2|||||Comune|1/8|25
-Accolito|Media umanoide, qualsiasi Tratto|12|19|+0|+0|+2|0|0|0|0|2|0|+0|Pronto Soccorso +4, Religione +2|||||Comune|1/4|50
-Accolito|Media umanoide, qualsiasi Tratto non buono|15|33|+2|+3|+2|0|2|1|0|1|2|+2|Ingannare +4, Religione +2|||||Comune ed un altra lingua|1|200
-Gran Sacerdote|Media umanoide, qualsiasi Tratto|14|51|+3|+2|+5|0|0|1|1|3|1|+1||||||due lingue qualsiasi|2|450
-Berserker|Media umanoide, qualsiasi Tratto caotico|15|52|+5|+3|+2|3|1|3|-1|0|-1|+1||||||Comune|2|450
-Combattente Tribale|Media umanoide, qualsiasi Tratto|12|17|+1|+0|+0|1|0|1|-1|0|-1|+0||||||Comune|1/8|25
+Cultista|Media umanoide, qualsiasi Tratto non buono|13|17|+3|+3|+3|0|1|0|0|0|0|+1|Ingannare +2, Religione +2|||||Comune|1/8|25
+Accolito|Media umanoide, qualsiasi Tratto|12|19|+3|+3|+3|0|0|0|0|2|0|+0|Pronto Soccorso +4, Religione +2|||||Comune|1/4|50
+Accolito|Media umanoide, qualsiasi Tratto non buono|15|33|+3|+3|+3|0|2|1|0|1|2|+2|Ingannare +4, Religione +2|||||Comune ed un altra lingua|1|200
+Gran Sacerdote|Media umanoide, qualsiasi Tratto|14|51|+3|+3|+5|0|0|1|1|3|1|+1||||||due lingue qualsiasi|2|450
+Berserker|Media umanoide, qualsiasi Tratto caotico|15|52|+5|+3|+3|3|1|3|-1|0|-1|+1||||||Comune|2|450
+Combattente Tribale|Media umanoide, qualsiasi Tratto|12|17|+3|+3|+3|1|0|1|-1|0|-1|+0||||||Comune|1/8|25
 Druido|Media umanoide, qualsiasi Tratto|15|51|+3|+3|+4|0|1|1|1|2|0|+1|Pronto Soccorso +4, Natura +3, Consapevolezza +4|||||Druidico più due altre lingue|2|450
-Esploratore|Media umanoide, qualsiasi Tratto|14|24|+1|+2|+1|0|2|1|0|1|0|+2|Furtività +6, Natura +4, Consapevolezza +5, Sopravvivenza +5|||||Comune|1/2|100
+Esploratore|Media umanoide, qualsiasi Tratto|14|24|+3|+3|+3|0|2|1|0|1|0|+2|Furtività +6, Natura +4, Consapevolezza +5, Sopravvivenza +5|||||Comune|1/2|100
