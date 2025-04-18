@@ -872,7 +872,7 @@ aggiunto attacco ampio fendente a giganti, aggiornate azioni ed attacchi a: ankh
 
 aggiornata versione POD 2025/04/17
 
-0.99.52 
+0.99.52 corretti riferimenti stati nord europa, 
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
