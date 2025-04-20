@@ -27229,8 +27229,8 @@ I mostri con Grado di Sfida 5 o più possono avere una scheda \textbf{Arrabbiato
 
 Creature particolarmente feroci e potenti potrebbero avere più note di Arrabbiato ed entrambe, rispettando le eventuali condizioni segnate, sono attivabili.
 
-\subsubsection{Opzionale - Tutti Arrabbiati}\index{Opzionale - Tutti Arrabbiati}
-Per una maggiore aggressività potete fare che il mostro quando scende sotto la metà dei Punti Ferita prende +1d6 al Tiro per Colpire oppure al Danno oppure ai Tiri Salvezza a seconda del tipo di creatura.\index{Sanguinante}\index{Bloodied} \index{Arrabbiato}
+%\subsubsection{Opzionale - Tutti Arrabbiati}\index{Opzionale - Tutti Arrabbiati}
+%Per una maggiore aggressività potete fare che il mostro quando scende sotto la metà dei Punti Ferita prende +1d6 al Tiro per Colpire oppure al Danno oppure ai Tiri Salvezza a seconda del tipo di creatura.\index{Sanguinante}\index{Bloodied} \index{Arrabbiato}
 
 \medskip
 
@@ -27281,7 +27281,9 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 \subsection{Vulnerabilità, Resistenze e Immunità}\index{Equivalenze armi}\index{Pugni magici}\label{vulnerabilitaresistenze}
 Alcune creature possiedono vulnerabilità, resistenze o immunità ad un certo tipo di danno. Creature particolari sono addirittura resistenti o immuni agli attacchi non magici (un attacco magico è un attacco sferrato tramite un incantesimo, un oggetto magico o arma, o un'altra fonte di magia).
 
-Quando è indicata una immunità alle armi magiche (es. +1 oppure +2) significa che bisogna usare un arma con un incantamento maggiore per poter danneggiare la creatura. In caso di creature immune ai critici questo vale sia per incantesimi che per armi, rimane efficace l'esplosione del danno. \index{Critico sui mostri}
+Quando è indicata una immunità alle armi magiche (es. +1 oppure +2) significa che bisogna usare un arma con un incantamento maggiore per poter danneggiare la creatura. In caso di creature immune ai critici questo vale sia per incantesimi che per armi, rimane efficace l'esplosione del danno. \index{Critico sui mostri}. 
+
+Una creatura immune alle armi non magiche o +1 ma vulnerabile al ferro freddo o all'argento applica prima le sue immunità poi se passate applica le vulnerabilità all'attacco subito, e quindi un arma d'argento non farà danno, ma se d'argento +1 farà il doppio del danno.
 
 Inoltre, certe creature sono immuni a determinate condizioni. Se un mostro è immune ad un effetto di gioco che non viene considerato danno o condizione, possiede invece un tratto speciale.
 
@@ -27371,12 +27373,12 @@ Per \textbf{riconoscere un mostro} si effettua una prova di Conoscenza. (\textbf
 \medskip
 
 \noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
-\item \makebox[1.7cm][l]{\textbf{Arcana}}: Giganti, Costrutti, Spiriti, Mostruosità, Aberrazioni, Draghi
-\item \makebox[1.7cm][l]{\textbf{Piani}}: Elementali, Giganti
-\item \makebox[1.7cm][l]{\textbf{Occulto}}: Immondi (Diavoli e Demoni), Spiriti, Non Morti
-\item \makebox[1.7cm][l]{\textbf{Religione}}: Spiriti, Non Morti, Celestiali
-\item \makebox[1.7cm][l]{\textbf{Dungeon}}: Aberrazioni, Mostruosità, Melme e creature sotterranee
-\item \makebox[1.7cm][l]{\textbf{Natura}}: Bestie, Piante, Fatati
+\item \makebox[1.7cm][l]{\textbf{Arcana}:} Giganti, Costrutti, Spiriti, Mostruosità, Aberrazioni, Draghi
+\item \makebox[1.7cm][l]{\textbf{Piani}:} Elementali, Giganti
+\item \makebox[1.7cm][l]{\textbf{Occulto}:} Immondi (Diavoli e Demoni), Spiriti, Non Morti
+\item \makebox[1.7cm][l]{\textbf{Religione}:} Spiriti, Non Morti, Celestiali
+\item \makebox[1.7cm][l]{\textbf{Dungeon}:} Aberrazioni, Mostruosità, Melme e creature sotterranee
+\item \makebox[1.7cm][l]{\textbf{Natura}:} Bestie, Piante, Fatati
 \end{itemize}
 
 \medskip
@@ -27387,11 +27389,11 @@ Le informazioni ottenibili dipendono dal margine di successo ottenuto.
 
 \noindent\begin{itemize} \setlength{\itemsep}{0pt}
 \item \textbf{entro 2}: nome, tipo, la Caratteristica principale
-\item \textbf{fino 7}: quale è il migliore Tiro Salvezza, una resistenza/immunità a Condizioni, una vulnerabilità a Condizioni, attacco tipico
-\item \textbf{fino 12}: quale è il peggiore Tiro Salvezza, una resistenze/immunità a Condizioni, una immunità a Danni, una vulnerabilità a Condizioni, una vulnerabilità a tipo di Danno
+\item \textbf{fino 7}: quale è il migliore Tiro Salvezza, una immunità a Condizioni, una vulnerabilità a Danni, attacco tipico
+\item \textbf{fino 12}: quale è il peggiore Tiro Salvezza, una immunità a Condizioni, una immunità a Danni, una vulnerabilità a Condizioni, una vulnerabilità a tipo di Danno
 \item \textbf{fino 15}: due immunità a Condizioni, una immunità a Danni, una vulnerabilità a Condizioni, una vulnerabilità a tipo di Danno
 \item \textbf{fino 17}: grado di sfida relativo ovvero se è una scontro facile, medio, alto, straordinario, mortale o epico
-\item \textbf{fino 20}: attacco e difese speciali
+\item \textbf{oltre 17}: attacco e difese speciali
 \end{itemize}
 
 \medskip
@@ -27406,7 +27408,7 @@ I tratti speciali (che compaiono dopo il grado di sfida di un mostro ma prima di
 
 Un mostro con il privilegio Incantesimi o Incantesimi Innati è in grado di lanciare Incantesimi.
 
-La \textbf{DC è 10 + livello incantesimo x2 + Intelligenza o Saggezza a seconda della caratteristica migliore oppure indicata}. Un mostro non necessita di eseguire Prove di Magia tranne se ha un valore di Competenza Magica (es. Lich, Mummia, Naga...). 
+La \textbf{DC è 10 + livello incantesimo x2 + Intelligenza o Saggezza a seconda della caratteristica migliore oppure indicata}. Un mostro non necessita di eseguire Prove di Magia ma può farle se ha un valore di Competenza Magica (es. Lich, Mummia, Naga...). 
 
 Il Tiro per Colpire con Incantesimi è pari al valore di Competenza Magica se segnata, se non è segnata è  pari a metà del GS + Intelligenza o modificatore di caratteristica indicato. Se è necessario calcolare la Competenza Armi per l'uso di incantesimi e questa non è specificata, allora è pari alla metà del punteggio di Competenza Magica.
 
@@ -27466,24 +27468,24 @@ Il Soffio infuocato di una \hyperlink{Chimera}{Chimera} non ha l'attributo \emph
 
 Usare \textbf{1 solo Attacco} della catena del Multiattacco \textbf{costa 1 Azione}.
 
-
-\begin{center}
-	\includegraphics[width=0.55\linewidth]{immagini/polpo.png}
-	
-	\emph{Alphonse de Neuville - Hetzel edition of 20000 Lieues Sous les Mers}
-\end{center}
-
 \subsubsection{Regole dell'Afferrare per i Mostri}
 
 Molti mostri possiedono un attacco speciale che gli permette di afferrare rapidamente la preda. Quando un mostro colpisce con un simile attacco, non deve effettuare un'ulteriore prova per determinare se l'afferrare riesce a meno che l'attacco non dica altrimenti.
 
 Una creatura afferrata dal mostro segue le indicazioni di \hyperlink{afferrareunavversario}{Afferrare un avversario} (pag. \pageref{afferrareunavversario}).
 
-Se non viene fornita una DC di fuga assumere che sia ia uguale a 10 + (Tiro Salvezza su Tempra  + Forza) del mostro +1d6 per Taglia di differenza.
+Se non viene fornita una \textbf{DC di fuga} assumere che sia ia uguale a 10 + (Tiro Salvezza su Tempra  + Forza) del mostro +1d6 per Taglia di differenza.
 
 \subsubsection{Munizioni}
 
 Un mostro porta con sé munizioni sufficienti per effettuare i suoi attacchi a distanza. Puoi presumere che un mostro abbia 2d4 proiettili per un attacco con armi da lancio (giavellotti, macigni..), e 2d10 proiettili per un'arma a proiettili come un arco o una balestra.
+
+
+\begin{center}
+	\includegraphics[width=0.55\linewidth]{immagini/polpo.png}
+	
+	\emph{Alphonse de Neuville - Hetzel edition of 20000 Lieues Sous les Mers}
+\end{center}
 
 \subsubsection{Reazioni}
 
@@ -27493,9 +27495,9 @@ Se un mostro può compiere qualcosa di speciale con le sue reazioni, è riportat
 
 Alcune abilità speciali hanno restrizioni sul numero di volte che possono essere usate.
 
-\textbf{\emph{X/Giorno}.} L'annotazione ``X/Giorno'' indica un'abilità speciale che può essere usata X volte prima che il sorga l'alba per recuperare gli usi consumati. Ad esempio, ``1/Giorno'' indica un'abilità speciale che può essere usata una volta prima che il mostro debba aspettare la nuova alba.
+\textbf{\emph{X/Giorno}.} L'annotazione "X/Giorno" indica un'abilità speciale che può essere usata X volte prima che il sorga l'alba per recuperare gli usi consumati. Ad esempio, \emph{1/Giorno} indica un'abilità speciale che può essere usata una volta prima che il mostro debba aspettare la nuova alba.
 
-\emph{\textbf{Ricarica X-Y.}} L'annotazione ``Ricarica X-Y'' indica che il mostro può usare un'abilità speciale una volta e che l'abilità ha una probabilità casuale di ricaricarsi ogni round seguente di combattimento. All'inizio di ciascun round del mostro, tira un d6. Se il risultato è uno dei numeri dell'annotazione di ricarica, il mostro recupera l'uso dell'abilità speciale. L'abilità si ricarica anche all'alba di un nuovo giorno.
+\emph{\textbf{Ricarica X-Y.}} L'annotazione "Ricarica X-Y" indica che il mostro può usare un'abilità speciale una volta e che l'abilità ha una probabilità casuale di ricaricarsi ogni round seguente di combattimento. All'inizio di ciascun round del mostro, tira un d6. Se il risultato è uno dei numeri dell'annotazione di ricarica, il mostro recupera l'uso dell'abilità speciale. L'abilità si ricarica anche all'alba di un nuovo giorno.
 
 Ad esempio, \emph{Ricarica 5-6} indica che un mostro può usare la sua abilità speciale una volta. Poi, all'inizio del round del mostro, recupera l'uso dell'abilità se tira 5 o 6 su di un d6.
 
@@ -27525,56 +27527,8 @@ Se una creatura con azioni aggiuntive ha un' \textbf{Azione da tana}, può usarl
 
 Il blocco statistiche si riferisce all'equipaggiamento, oltre le armi o le armature utilizzate dal mostro. Una creatura che normalmente indossa abiti, come un umanoide, si assume sia vestito in maniera appropriata.
 
-Puoi equipaggiare i mostri con ulteriore equipaggiamento come preferisci, utilizzando il capitolo \hyperlink{equipaggiamento}{Equipaggiamento} come fonte di ispirazione, sei tu a decidere quanto dell'equipaggiamento del mostro è recuperabile dopo che la creatura è stata uccisa o se qualsiasi parte del suo equipaggiamento sia ancora utilizzabile. Ad esempio, un'armatura ammaccata fatta per un mostro difficilmente sarà utilizzabile da qualcun altro. Se un mostro incantatore necessita di componenti materiali per lanciare i suoi incantesimi, dai per scontato che abbia le componenti materiali per lanciare gli incantesimi nel suo blocco statistiche.
+Puoi equipaggiare i mostri con ulteriore equipaggiamento come preferisci, utilizzando il capitolo \hyperlink{equipaggiamento}{Equipaggiamento} come fonte di ispirazione, sei tu a decidere quanto dell'equipaggiamento del mostro è recuperabile dopo che la creatura è stata uccisa o se qualsiasi parte del suo equipaggiamento sia ancora utilizzabile. Ad esempio, un'armatura ammaccata fatta per un mostro difficilmente sarà utilizzabile da qualcun altro. Se un mostro incantatore necessita di componenti materiali per lanciare i suoi incantesimi, dai per scontato che abbia le componenti materiali per lanciare gli incantesimi indicati nella sua scheda.
 
-\subsection{Tipologie di Tesoro}
-
-Ogni tipologia di creatura può preferire un tipo di tesoro (inteso come oggetti, monete, gemme...) diverso. Questi sono solo suggerimenti su come costruire il tesoro del mostro.
-
-Vedi anche \hyperlink{valoretesoroincontro}{Tabella: Valori del Tesoro per Incontro} (pag. \pageref{valoretesoroincontro}).
-
-\medskip
-
-\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
-
-\item \textbf{Aberrazione}
-Molte aberrazioni hanno scarsa considerazione per i tesori, possedendo solo quel che prendono dai resti delle loro vittime. Alcune sono nemici intelligenti che usano vari oggetti magici e tesori per potenziare le loro capacità.
-
-\item \textbf{Animale}
-Gli animali non prestano alcuna attenzione ai tesori, lasciando monete e oggetti tra i resti dei loro pasti. Per quelli che possiedono un tesoro, questo si trova solitamente nelle loro tane, sparso tra ossa e altri rifiuti.
-
-\item \textbf{Bestia Magica}
-Le bestie magiche, poco interessate ai valori materiali, sono principalmente alla ricerca del loro prossimo pasto. I loro nascondigli sono spesso pieni di ninnoli preziosi e oggetti magici.
-
-\item \textbf{Costrutto}
-Spesso è il costrutto stesso il tesoro più di valore. I costrutti sono solitamente usati per sorvegliare tesori o oggetti magici di grande valore.
-
-\item \textbf{Drago}
-Noti per i loro preziosi tesori, i draghi spesso riposano su pile di monete, gemme, oggetti magici e costosi.
-
-\item \textbf{Esterno}
-Gli esterni sono tra le creature più diverse e, di conseguenza, possono possedere qualsiasi tipo di tesoro, sia su di loro che nascosto nei loro rifugi. Il Narratore dovrebbe valutare ogni singola creatura per determinare il tipo di tesoro più adatto a ciascun esterno.
-
-\item \textbf{Folletto}
-I folletti danno valore agli oggetti belli e magici. Hanno scarsa considerazione per monete e merci.
-
-\item \textbf{Melma}
-Le melme non sanno cosa è un tesoro e lasciano dove trovano tutto ciò che non è digeribile. Qualsiasi tesoro possano trasportare è completamente accidentale.
-
-\item \textbf{Non Morto}
-I tesori posseduti dai non morti dipendono dalla loro intelligenza. I non morti senza intelletto di solito hanno solo i pochi beni che avevano in vita, raramente utili come tesori. Al contrario, i non morti intelligenti utilizzano una varietà di oggetti magici per annientare i viventi.
-
-\item \textbf{Parassita}
-Come le altre creature senza mente, i parassiti non desiderano tesori.
-
-\item \textbf{Umanoide}
-Queste creature sono molto diverse tra loro, ma anche gli umanoidi più primitivi utilizzano equipaggiamenti e oggetti magici in qualche misura. In gruppi più grandi, come le comunità, gli umanoidi spesso possiedono una notevole quantità di tesori che custodiscono collettivamente.
-
-
-\item \textbf{Vegetale}
-Le creature vegetali non danno valore ai tesori e tutto ciò che si potrebbe trovare dove crescono sono semplicemente i resti non digeriti di una vittima precedente.
-
-\end{itemize}
 
 \subsection{Punti Esperienza per GS}
 
@@ -27605,6 +27559,45 @@ Questa tabella indica per GS i Punti Esperienza relativi.
 7& 2900&19& 22000&&\\
 8& 3900&20& 25000&&
 \end{tabularx}
+
+\subsection{Tipologie di Tesoro}
+
+Ogni tipologia di creatura può preferire un tipo di tesoro (inteso come oggetti, monete, gemme...) diverso. Questi sono solo suggerimenti su come costruire il tesoro del mostro.
+
+Vedi anche \hyperlink{valoretesoroincontro}{Tabella: Valori del Tesoro per Incontro} (pag. \pageref{valoretesoroincontro}).
+
+\medskip
+
+\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+	
+	\item \textbf{Aberrazione}
+	Molte aberrazioni hanno scarsa considerazione per i tesori, possedendo solo quel che prendono dai resti delle loro vittime. Alcune sono nemici intelligenti che usano vari oggetti magici e tesori per potenziare le loro capacità.
+	
+	\item \textbf{Animale - Bestia Magica} Gli animali non prestano alcuna attenzione ai tesori, lasciando monete e oggetti tra i resti dei loro pasti. Per quelli che possiedono un tesoro, questo si trova solitamente nelle loro tane, sparso tra ossa e altri rifiuti.
+	
+	\item \textbf{Costrutto}
+	Spesso è il costrutto stesso il tesoro più di valore. I costrutti sono solitamente usati per sorvegliare tesori o oggetti magici di grande valore.
+	
+	\item \textbf{Drago}
+	Noti per i loro preziosi tesori, i draghi spesso riposano su pile di monete, gemme, oggetti magici e costosi.
+	
+	\item \textbf{Esterno}
+	Gli esterni sono tra le creature più diverse e, di conseguenza, possono possedere qualsiasi tipo di tesoro, sia su di loro che nascosto nei loro rifugi. Il Narratore dovrebbe valutare ogni singola creatura per determinare il tipo di tesoro più adatto a ciascun esterno.
+	
+	\item \textbf{Folletto}
+	I folletti danno valore agli oggetti belli e magici. Hanno scarsa considerazione per monete e merci.
+	
+	\item \textbf{Melma - Parassita - Vegetale}
+	Le melme non sanno cosa è un tesoro e lasciano dove trovano tutto ciò che non è digeribile. Qualsiasi tesoro possano trasportare è completamente accidentale.
+	
+	\item \textbf{Non Morto}
+	I tesori posseduti dai non morti dipendono dalla loro intelligenza. I non morti senza intelletto di solito hanno solo i pochi beni che avevano in vita, raramente utili come tesori. Al contrario, i non morti intelligenti utilizzano una varietà di oggetti magici per annientare i viventi.
+	
+	\item \textbf{Umanoide}
+	Queste creature sono molto diverse tra loro, ma anche gli umanoidi più primitivi utilizzano equipaggiamenti e oggetti magici in qualche misura. In gruppi più grandi, come le comunità, gli umanoidi spesso possiedono una notevole quantità di tesori che custodiscono collettivamente.
+	
+	
+\end{itemize}
 
 \subsubsection{Opzionale - Esperienza per Sfida}\index{Opzionale - Esperienza per Sfida}
 
@@ -27697,7 +27690,7 @@ Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS p
 \vfill
 
 \begin{center}
-\includegraphics[width=0.55\linewidth]{immagini/trex.png}
+\includegraphics[width=0.6\linewidth]{immagini/trex.png}
 
 \emph{Tyrannosaurus Rex skeleton (the specimen RTMP 81.6.1), California Academy of Sciences, San Francisco}
 
@@ -28487,8 +28480,6 @@ I centauri vivono in media circa 60 anni. Distanti dalle altre razze e in confli
 
 La leggenda vuole che i Centauri dovessero esplodere come tutti gli equini, per volere di Calicante. Ljust inorridita da tanta morte intercesse su Calicante perché lasciasse stare queste creature. Questo salvataggio ha portato molti tribù di Centauri ad essere devoti della Signora della Luce, anche se altri hanno preferito invece dedicare il loro culto a Calicante nella speranza che non li uccida tutti in una notte.
 
-
-
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Chimera} \hypertarget{Chimera}{}\medskip \noindent{\large\textbf{Chimera}}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
@@ -28747,6 +28738,7 @@ Di solito i cumuli striscianti conducono un'esistenza nomade e solitaria in prof
 	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +25, Riflessi +21, Volontà +22}
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità;
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno, armi +1
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Sensi:}] visione del vero 36 m
 	\item[\textbf{Linguaggi:}] Abissale, telepatia 36 m
 	\item[\textbf{Sfida:}] 19 (22000 PX)\smallskip
@@ -28800,6 +28792,7 @@ Un Balor è alto 4,2 metri e pesa 2.250 kg. Solo le anime mortali più crudeli p
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco
 	\item[\textbf{Imm. Danni:}] da Vuoto, Veleno; armi +2
 	\item[\textbf{Immunità:}] affascinato, paralizzato, affaticato, spaventato
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Sensi:}] Visione del vero 40 m
 	\item[\textbf{Linguaggi:}] tutti, telepatia 45 m
 	\item[\textbf{Sfida:}] 26 (90000 PX)\smallskip
@@ -28872,6 +28865,7 @@ Demogorgone è un enorme demone, principe dell'abisso e della follia alto circa 
 	\item[\textbf{Tiri Salvezza:}]Tempra +3, Riflessi +3, Volontà +3
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco
 	\item[\textbf{Imm. Danni:}] Veleno
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Abissale, telepatia 18 m (funziona solo con le creature che comprendono l'Abissale)
 	\item[\textbf{Sfida:}] 1/4 (50 PX)\smallskip
@@ -28917,6 +28911,7 @@ Un dretch è alto 1,2 metri e pesa 90 kg. I dretch solitamente si formano dalle 
 	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +11, Volontà +12}
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco; da arma non magica
 	\item[\textbf{Imm. Danni:}] Veleno
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Sensi:}] visione del vero 36 m
 	\item[\textbf{Linguaggi:}] Abissale, telepatia 36 m
 	\item[\textbf{Sfida:}] 9 (5000 PX)\smallskip
@@ -28972,6 +28967,7 @@ Un glabrezu è alto 5,3 metri e pesa poco più di 3000 kg. Questi perfidi demoni
 	\item[\textbf{Tiri Salvezza:}]Tempra +13, Riflessi +11, Volontà +9
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco; da arma non magica
 	\item[\textbf{Imm. Danni:}] Veleno
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Abissale, telepatia 36 m
 	\item[\textbf{Sfida:}] 8 (3900 PX)\smallskip
@@ -29018,6 +29014,7 @@ Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che 
 	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +21, Riflessi +21, Volontà +19}
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco
 	\item[\textbf{Imm. Danni:}] Veleno, armi +1
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Sensi:}] visione del vero 36 m
 	\item[\textbf{Linguaggi:}] Abissale, telepatia 36 m
 	\item[\textbf{Sfida:}] 16 (15000 PX)\smallskip
@@ -29070,6 +29067,7 @@ Una marilith è alta da 1,8 a 2,7 metri, lunga 6 metri dalla testa alla punta de
 	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +19, Riflessi +13, Volontà +14}
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco; da arma non magica
 	\item[\textbf{Imm. Danni:}] Veleno
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Abissale, telepatia 36 m
 	\item[\textbf{Sfida:}] 13 (10000 PX)\smallskip
@@ -29125,6 +29123,7 @@ I nalfeshnee sono alti 6 metri e pesano 4000 kg. Sono creati dalle anime di malv
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco
 	\item[\textbf{Imm. Danni:}] da Vuoto, Veleno; armi +2
 	\item[\textbf{Immunità:}] affascinato, paralizzato, affaticato, spaventato
+	\item[\textbf{Vulnerabilità:}] Luce
 	\item[\textbf{Sensi:}] Visione del vero 40 m
 	\item[\textbf{Linguaggi:}] tutti, telepatia 45 m
 	\item[\textbf{Sfida:}] 26 (90000 PX)\smallskip
@@ -29185,6 +29184,7 @@ Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei
 	\item[\textbf{Competenze:}] Furtività +2, Ingannare +5
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità; da arma non magica o non argentata
 	\item[\textbf{Imm. Danni:}] Veleno
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Abissale, Comune
 	\item[\textbf{Sfida:}] 2 (200 PX)\smallskip
@@ -29224,6 +29224,7 @@ Da \emph{Il Guardiano di Falkonia}, romanzo di Federica Angeli
 	\item[\textbf{Competenze:}] Furtività +5
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco; da arma non magica
 	\item[\textbf{Imm. Danni:}] Veleno
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Abissale, Comune
 	\item[\textbf{Sfida:}] 1 (200 PX)\smallskip
@@ -29265,6 +29266,7 @@ I quasit appena creati vengono alla luce direttamente nel Piano Materiale, dove 
 	\item[\textbf{Competenze:}] Furtività +5, Percepire Emozioni +5, Consapevolezza +5, Ingannare +9
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco, Veleno; da arma non magica
 	\item[\textbf{Sensi:}] Scurovisione 18 m
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Linguaggi:}] Abissale, Comune, Infernale, telepatia 18 m
 	\item[\textbf{Sfida:}] 4 (1100 PX)
 \end{description}
@@ -29308,6 +29310,7 @@ Tra le orde demoniache una succube spesso può raggiungere altissimi livelli di 
 	\item[\textbf{Tiri Salvezza:}]Tempra +10, Riflessi +8, Volontà +7
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco; da arma non magica
 	\item[\textbf{Imm. Danni:}] Veleno
+	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Abissale, telepatia 36 m
 	\item[\textbf{Sfida:}] 6 (2300 PX)\smallskip
@@ -29353,6 +29356,7 @@ Un vrock tipico è alto 2,3 metri e pesa 200 kg. Queste creature solitamente si 
 	\item[\textbf{Tiri Salvezza:}]Tempra +6, Riflessi +5, Volontà +4
 	\item[\textbf{Imm. Danni:}] Fuoco
 	\item[\textbf{Competenze:}] Consapevolezza +6
+	\item[\textbf{Vulnerabilità:}] Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] comprende Abissale, Comune e Infernale ma non può parlare
 	\item[\textbf{Sfida:}] 3 (700 PX)\smallskip
@@ -29390,6 +29394,7 @@ Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature
 	\item[\textbf{Tiri Salvezza:}]Tempra +5, Riflessi +5, Volontà +3
 	\item[\textbf{Res. Danni:}] Freddo; da arma non magica o non argentata
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno
+	\item[\textbf{Vulnerabilità:}] argento, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Infernale, telepatia 36 m
 	\item[\textbf{Sfida:}] 3 (700 PX)\smallskip
@@ -29442,6 +29447,7 @@ I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di m
 	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +12, Riflessi +10, Volontà +9}
 	\item[\textbf{Res. Danni:}] Freddo; da arma non magica o non argentata
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno
+	\item[\textbf{Vulnerabilità:}] argento, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Infernale, telepatia 36 m
 	\item[\textbf{Sfida:}] 8 (3900 PX)\smallskip
@@ -29487,6 +29493,7 @@ Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavolo del
 	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +16, Riflessi +14, Volontà +14}
 	\item[\textbf{Res. Danni:}] Freddo;
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno, armi +1
+	\item[\textbf{Vulnerabilità:}] argento, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Infernale, telepatia 36 m
 	\item[\textbf{Sfida:}] 11 (7200 PX)\smallskip
@@ -29545,6 +29552,7 @@ Un diavolo cornuto tipico raggiunge la ragguardevole altezza di 2,7 metri, è do
 	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +27, Riflessi +22, Volontà +24}
 	\item[\textbf{Res. Danni:}] Freddo;
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno, armi +2
+	\item[\textbf{Vulnerabilità:}] Luce
 	\item[\textbf{Sensi:}] visione del vero 36 m
 	\item[\textbf{Linguaggi:}] Infernale, telepatia 36 m
 	\item[\textbf{Sfida:}] 20 (25000 PX)\smallskip
@@ -29602,6 +29610,7 @@ I diavoli della fossa radunano eserciti, trasformando i lemure in veri diavoli e
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +18, Riflessi +16, Volontà +16}
 	\item[\textbf{Imm. Danni:}] Freddo, Fuoco, Veleno, armi +1
+	\item[\textbf{Vulnerabilità:}] argento, Luce
 	\item[\textbf{Sensi:}] Vista Cieca 18 m, Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Infernale, telepatia 36 m
 	\item[\textbf{Sfida:}] 14 (11500 PX)\smallskip
@@ -29662,6 +29671,7 @@ I Diavoli del Ghiaccio sono alti 3,6 metri e pesano approssimativamente 350 kg.
 	\item[\textbf{Competenze:}] Ingannare +7, Percepire Emozioni +6
 	\item[\textbf{Res. Danni:}] Freddo; da arma non magica o non argentata
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno
+	\item[\textbf{Vulnerabilità:}] argento, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Infernale, telepatia 36 m
 	\item[\textbf{Sfida:}] 9 (5000 PX)\smallskip
@@ -29708,6 +29718,7 @@ I diavoli d'ossa viaggiano spesso fino al piano mortale per servire malvagi inca
 	\item[\textbf{Tiri Salvezza:}]Tempra +3, Riflessi +4, Volontà +4
 	\item[\textbf{Res. Danni:}] Freddo; da arma non magica o non argentata
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno
+	\item[\textbf{Vulnerabilità:}] argento, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Infernale, telepatia 36 m
 	\item[\textbf{Sfida:}] 2 (450 PX)\smallskip
@@ -29757,6 +29768,7 @@ La maggior parte dei diavoli spinosi è alta dai 2,1 metri in su e pesa 150 kg, 
 	\item[\textbf{Tiri Salvezza:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +16, Riflessi +15, Volontà +14}
 	\item[\textbf{Res. Danni:}] Freddo; da arma non magica o non argentata
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno
+	\item[\textbf{Vulnerabilità:}] argento, Luce
 	\item[\textbf{Sensi:}] visione del vero 36 m
 	\item[\textbf{Linguaggi:}] Infernale, telepatia 36 m
 	\item[\textbf{Sfida:}] 12 (8400 PX)\smallskip
@@ -29806,6 +29818,7 @@ Le erinni sono alte circa 1,8 metri, pesano 70 kg e hanno ali nere con un'apertu
 	\item[\textbf{Competenze:}] Furtività +5, Ingannare +4, Percepire Emozioni +3
 	\item[\textbf{Res. Danni:}] Freddo; da arma non magica o non argentata
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno
+	\item[\textbf{Vulnerabilità:}] argento, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Infernale, Comune
 	\item[\textbf{Sfida:}] 1 (200 PX)\smallskip
@@ -29849,6 +29862,7 @@ Diversamente dagli altri diavoli, gli imp si ritrovano spesso liberi e soli nel 
 	\item[\textbf{Res. Danni:}] Freddo
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno
 	\item[\textbf{Immunità:}] affascinato, spaventato
+	\item[\textbf{Vulnerabilità:}] argento, Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] comprende l'Infernale ma non può parlare
 	\item[\textbf{Sfida:}] 0 (10 PX)\smallskip
@@ -29992,7 +30006,7 @@ Il triceratopo è un erbivoro irascibile e caparbio. Un tipico triceratopo è lu
 
 \emph{\textbf{Incantesimi Innati.}} La caratteristica da incantatore del Divora Cervelli è il Carisma. Il Divora Cervelli può lanciare in maniera innata i seguenti incantesimi, senza bisogno di componenti materiali:
 
-A volontà: \emph{Confusione (un unico bersaglio), \hyperlink{Infliggi Ferite}{Infliggi Ferite} con un critico, \hyperlink{Invisibilità}{Invisibilità}}
+A volontà: \emph{\hyperlink{Confusione}{Confusione} (un unico bersaglio), \hyperlink{Infliggi Ferite}{Infliggi Ferite} con un critico, \hyperlink{Invisibilità}{Invisibilità}}
 
 3/giorno: \emph{\hyperlink{Cura Ferite}{Cura Ferite} 3, \hyperlink{Globo di Invulnerabilità}{Globo di Invulnerabilità}}
 
@@ -31118,13 +31132,6 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Sfida:}] 17 (18000 PX)\smallskip
 \end{description}
 
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/Pair_of_winged_dragons.png}
-	
-	\textit{China, Pair of winged dragons, 4th-5th century}
-\end{center}
-
 \emph{\textbf{Aura di fiamma.}} il drago emette nel raggio di 3 metri calore magico che causa 1d6 danni da fuoco a round.
 
 \emph{\textbf{Resistenza Leggendaria (3/Giorno).}} Se il drago fallisce un Tiro Salvezza, può scegliere invece di riuscire.
@@ -31178,6 +31185,13 @@ Gli incantesimi preferiti di questo Drago sono:\\
 - \hyperlink{Palla di Fuoco}{Palla di Fuoco}\\
 - \hyperlink{Nube Incendiaria}{Nube Incendiaria}\\
 - \hyperlink{Muro di Fuoco}{Muro di Fuoco}
+
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/Pair_of_winged_dragons.png}
+	
+	\textit{China, Pair of winged dragons, 4th-5th century}
+\end{center}
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Drago Rosso Giovane} \hypertarget{Drago Rosso Giovane}{}\medskip \noindent{\large\textbf{Drago Rosso Giovane}}
 \noindent
@@ -32953,6 +32967,11 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 \textbf{Reazione: \emph{Attacco d'opportunità}}: l'elementale effettua un attacco ad una creatura che attraversa o esca dalla sua portata di GS/3 metri.
 
+
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{immagini/eleterra.png}
+\end{center}
+
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Elementale della Terra Generico} \hypertarget{Elementale della Terra Generico}{}\medskip \noindent{\large\textbf{Elementale della Terra Generico}}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
@@ -32976,15 +32995,12 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 \emph{\textbf{Planata Terrestre.}} L'elementale può scavare attraversa la terra e la pietra non magiche e non lavorate. Quando lo fa, l'elementale non disturba il materiale che sposta.\\
 \textbf{Azioni}\\
 \emph{\textbf{Multiattacco.}} L'elementale effettua due attacchi di schianto.\\
-\emph{\textbf{Schianto.} Attacco con arma da mischia}: +GS+FOR a colpire, portata GS/6 metri, un bersaglio.\\
+\emph{\textbf{Schianto.} Attacco con arma da mischia}: +GS a colpire, portata GS/6 metri, un bersaglio.\\
 \emph{Colpisce:} GS*3 danni contundenti.
 
 \textbf{Reazione: \emph{Attacco d'opportunità}}: l'elementale effettua un attacco ad una creatura che attraversa o esca dalla sua portata di GS/3 metri.
 
 
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/eleterra.png}
-\end{center}
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Ettercap} \hypertarget{Ettercap}{}\medskip \noindent{\large\textbf{Ettercap}}
 \noindent

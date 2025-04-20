@@ -872,7 +872,7 @@ aggiunto attacco ampio fendente a giganti, aggiornate azioni ed attacchi a: ankh
 
 aggiornata versione POD 2025/04/17
 
-0.99.52 corretti riferimenti stati nord europa, allineati ts creature con gs inferiore a 1, aggiornati tratti mostri, layout mostri, dettagli su coboldi,
+0.99.52 corretti riferimenti stati nord europa, allineati ts creature con gs inferiore a 1, aggiornati tratti mostri, layout mostri, dettagli su coboldi, chiarimenti su vulnerabilità ed immunità nei mostri, aggiunte vulnerabilità a demoni e diavoli, ultime aggiunte incantesimi a mostri, 
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
