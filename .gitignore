@@ -44,3 +44,5 @@ OBSS/small.py
 OBSS/text.tex
 OBSS/temp/OBSSv2-mon-perc.fdb_latexmk
 OBSS/temp/OBSSv2-noimage.fdb_latexmk
+OBSS/out
+OBSS/.idea
