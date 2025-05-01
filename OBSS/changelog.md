@@ -876,7 +876,7 @@ aggiornata versione POD 2025/04/17
 
 aggiornata versione POD 2025/04/20
 
-0.99.53 layout, aggiornata tabella pozioni, aggiornate resistenze dati da oggetti magici, 
+0.99.53 layout, aggiornata tabella pozioni, aggiornate resistenze dati da oggetti magici, corretto errore size font da pagina 272 in poi, portato size del font a 10.5, ottimizzazioni immagini, ottimizzazioni layout, 
 
  
 
