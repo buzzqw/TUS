@@ -880,7 +880,7 @@ aggiornata versione POD 2025/04/20
 
 aggiornata versione POD 2025/05/01
 
-
+0.99.54 migliorato layout mostri dato il font a 11, collegati ulteriori incantesimi a mostri, 
 
 
 
