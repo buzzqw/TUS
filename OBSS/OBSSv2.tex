@@ -164,12 +164,13 @@ boxrule=0.3pt
 
 
 
+\titlespacing{\section}{0pt}{10pt}{5pt} % Sezione
+\titlespacing{\subsection}{0pt}{8pt}{4pt} % Sottosezione
+\titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sotto-sottosezione
 
 
-
-
-\setlength{\partopsep}{0pt} % Spazio tra paragrafi e intestazioni
-\setlength{\parskip}{0pt} % Spazio tra paragrafi
+%\setlength{\partopsep}{0pt} % Spazio tra paragrafi e intestazioni
+%\setlength{\parskip}{0pt} % Spazio tra paragrafi
 %\setlength{\abovecaptionskip}{0pt} % Distanza sopra le caption
 
 
@@ -1244,7 +1245,7 @@ Una prova di Carisma può essere richiesta quando cerchi di influenzare o intrat
 Il punteggio di Carisma influenza il numero di \emph{tizi} che conosci. Vedi \hyperlink{ioconoscountizio}{Io conosco un tizio....}.
 
 \begin{center}
-\includegraphics[width=0.55\linewidth]{immagini/dice4.png}
+\includegraphics[width=0.7\linewidth]{immagini/dice4.png}
 \end{center}
 
 Tipiche situazioni di utilizzo del Carisma includono tentativi di raggirare una guardia, truffare un mercante, guadagnare soldi al gioco d'azzardo, farsi passare per qualcun altro grazie a un travestimento, fugare i sospetti di qualcuno con false rassicurazioni o mantenere un volto imperturbabile mentre si racconta una lampante menzogna.
@@ -2696,10 +2697,10 @@ Le creature extraplanari come Celestiali, Demoni, Diavoli, Draghi, Elfi, Nani, G
 {\small \noindent\begin{tabularx}{0.48\textwidth}{lll}
 \textbf{Ambito culturale}& \textbf{Parlato} & \textbf{Scritto}\\
 \toprule
-%Umano & Comune& Comune\\
-%Nanico& Nanico& Nanico\\
-%Elfico& Elfico & Elfico \\
-%Gnomico& Gnomica & Gnomica \\
+Umano & Comune& Comune\\
+Nanico& Nanico& Nanico\\
+Elfico& Elfico & Elfico \\
+Gnomico& Gnomica & Gnomica \\
 Vecchie lingue terrestri& varie & varie\\
 Gnoll & Gnoll & Goblinoide\\
 Giganti& Gigante & Gigante\\
@@ -3534,7 +3535,7 @@ Se chi carica ha un portata minore dell'avversario allora chi prepara la controc
 %\medskip
 
 \begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/pilum.png}
+\includegraphics[width=0.9\linewidth]{immagini/pilum.png}
 
 \emph{Soldati romani armati di Pilum, pronti per una controcarica.}
 \end{center}
@@ -3984,8 +3985,6 @@ Usate questo elenco come delle linee guida per stimolare il personaggio a creare
 \textbf{3} & Bersaglio abbagliato. Tira 1d6, con 1-2-3 l'avversario ha mancato il suo attacco. Dura fino alla fine del prossimo round.\\
 \textbf{4} & Bersaglio accecato. Per 1d6 round, l'avversario considera tutti come invisibili.\\
 \textbf{5} & Orbo. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, se fallisce è accecato permanentemente, altrimenti subisce gli effetti del punto 4.\\
-\end{tabularx}
-\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline
 \textbf{\#} & \textbf{Attacchi all'arma}\\
 \hline
@@ -4007,6 +4006,8 @@ Usate questo elenco come delle linee guida per stimolare il personaggio a creare
 \textbf{\#} & \textbf{Sgambetti}\\
 \hline
 \textbf{1} & Spallata. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 4 $ per taglia differenza o cadere prono\\
+\end{tabularx}
+\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \textbf{2} & Sgambetto. L'avversario esegue un Tiro Salvezza su Riflessi DC 19, $ \pm 2 $ per taglia differenza o cadere prono\\
 \textbf{3} & Spinta. L'avversario esegue un Tiro Salvezza su Tempra DC 23, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d6 metri\\
 \textbf{4} & Urto. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d10 metri\\
@@ -4129,6 +4130,8 @@ Attiv.:& Mancato con un dispari.\\
 Attiv.:& Mancato con un pari.\\
 \emph{Effetto}:& Un alleato ottiene +1 al prossimo Tiro per Colpire contro l'avversario.\\
 \emph{Critico}:& L'alleato ottiene +2 al Tiro per Colpire.\\
+\end{tabularx}
+\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline
 \multicolumn{2}{c}{\textbf{Manovre livello 6}}\\
 \hline
@@ -4154,8 +4157,6 @@ Attiv.&: Pari.\\
 Attiv.&: Dispari.\\
 \emph{Effetto}:& Se il Tiro per Colpire del fallimento avrebbe colpito un avversario adiacente, infliggi danni pari al modificatore di Forza.\\
 \emph{Critico}:& Infliggi danni pari al doppio del modificatore di Forza.\\
-\end{tabularx}
-\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline
 &\textbf{Distrazione Sonica}\\
 \hline
@@ -4188,6 +4189,8 @@ Attiv.:& Dispari.\\
 Attiv.:& Pari.\\
 \emph{Effetto}:& Fino alla fine del prossimo round consideri il terreno come difficile ed hai +4 al Tiro per Colpire\\
 \emph{Critico}:& Non puoi muoverti entro la fine del prossimo round ma se colpisci causi due danni critici in più.\\
+\end{tabularx}
+\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline
 &\textbf{Attacco a Sorpresa}\\
 \hline
@@ -4214,8 +4217,6 @@ Attiv.:& Dispari.\\
 Attiv.: &Dispari.\\
 \emph{Effetto}:& L'avversario subisce -1d6 al primo attacco contro di te entro la fine del prossimo round.\\
 \emph{Critico}:& Entro la fine del prossimo round l'avversario in mischia non può fare danno critico contro di te.\\
-\end{tabularx}
-\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline
 &\textbf{Ferita Sanguinante}\\
 \hline
@@ -4242,6 +4243,8 @@ Attiv.:& Mancato.\\
 Attiv.: &Dispari.\\
 \emph{Effetto}: &Il prossimo round il primo attacco portato manca, se colpisci con un attacco successivo infliggi 2 danni critici aggiuntivi.\\
 \emph{Critico}: &Come sopra ma 3 danni critici ed esegui 1 Azione in meno nel round.\\
+\end{tabularx}
+\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline
 &\textbf{Grido di Guerra Potente}\\
 \hline
@@ -4269,11 +4272,12 @@ Invitate il giocatore crei un suo stile di \emph{fallimento}, fatelo gioire di u
 
 
 \begin{center}
-\includegraphics[width=0.31\linewidth]{immagini/Bushido_Calligraphy.png}
+\includegraphics[width=0.25\linewidth]{immagini/Bushido_Calligraphy.png}
 
 \medskip
 
 \emph{Trascrizione in kanji di} bushido
+
 \end{center}
 
 \subsection{Cavalcature}\index{Combattimento a saurovallo}\index{Saurovallo}\label{cavalcature}\hypertarget{cavalcare}{}\label{cavalcare}
@@ -4333,21 +4337,21 @@ Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferis
 
 \end{multicols}
 
-\vfill
+%\vfill
 
-\begin{figure}[h]
-	\begin{minipage}{0.5\textwidth}
-		\centering
-		\includegraphics[width=\textwidth]{immagini/napoleone.png}  % Sostituisci con il nome del file
-\emph{Cavallo bianco, con Napoleone Bonaparte, mentre valica il Gran San Bernardo. (Jacques-Louis David, 1801, Castello di Malmaison)}
-	\end{minipage}
-	\hspace{0.5cm}
-	\begin{minipage}{0.5\textwidth}
-		\centering
-		\includegraphics[width=\textwidth]{immagini/saurovallo1-ai.png} % Sostituisci con il nome del file
-\textit{Saurovallo addestrato, senza Napoleone Bonaparte, con sella e finimenti, 105 mo (75+30) (B.I.C.)}
-	\end{minipage}
-\end{figure}
+%\begin{figure}[h]
+%	\begin{minipage}{0.5\textwidth}
+%		\centering
+%		\includegraphics[width=\textwidth]{immagini/napoleone.png}  % Sostituisci con il nome del file
+%\emph{Cavallo bianco, con Napoleone Bonaparte, mentre valica il Gran San Bernardo. (Jacques-Louis David, 1801, Castello di Malmaison)}
+%	\end{minipage}
+%	\hspace{0.5cm}
+%	\begin{minipage}{0.5\textwidth}
+%		\centering
+%		\includegraphics[width=\textwidth]{immagini/saurovallo1-ai.png} % Sostituisci con il nome del file
+%\textit{Saurovallo addestrato, senza Napoleone Bonaparte, con sella e finimenti, 105 mo (75+30) (B.I.C.)}
+%	\end{minipage}
+%\end{figure}
 
 
 
@@ -7243,7 +7247,7 @@ Un personaggio paralizzato non può compiere Azioni o Reazioni ne parlare, gli a
 \vfill
 
 \begin{center}
-\includegraphics[width=0.4\linewidth]{immagini/the-scream.png}
+\includegraphics[width=0.45\linewidth]{immagini/the-scream.png}
 
 \emph{L'urlo (titolo originale: Skrik)\\ Edvard Munch - Data 1893-1910}
 \end{center}
@@ -7332,6 +7336,8 @@ Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie 
 \item
 \emph{Ammaliamento} riguarda incantesimi che agiscono sulla mente altrui, influenzandone o controllandone il comportamento. Questi incantesimi possono far sì che i nemici considerino l'incantatore un amico od addirittura controllare un'altra creatura come fosse una marionetta.
 
+
+
 \item
 \emph{Animali e Piante} questi sono gli incantesimi che agiscono su animali e piante, naturali o magiche.
 
@@ -7367,10 +7373,12 @@ Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie 
 
 \end{itemize}
 
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/Leonids-1833.png}
 
-\emph{The most famous depiction of the famous 1833 Leonids \hyperlink{sciamedimeteore}{Meteor Storm} (Pioggia di Meteore!)}
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/Leonids-1833.png}
+	
+	\emph{The most famous depiction of the famous 1833 Leonids \hyperlink{sciamedimeteore}{Meteor Storm} (Pioggia di Meteore!)}
 \end{center}
 
 \subsubsection{Gittata}\index{Gittata}\label{magiegittata}\index{Incantesimi, Gittata}
@@ -7479,28 +7487,22 @@ La descrizione di un incantesimo specifica la sua area di effetto, che di solito
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \emph{\textbf{Cilindro}}: il punto di origine di un cilindro è il centro di un cerchio di specifico raggio come indicato nella descrizione dell'incantesimo. L'energia in un cilindro si espande in linea retta dal punto di origine al perimetro del cerchio, formando la base del cilindro. L'effetto dell'incantesimo parte poi dal basso verso l'alto o dall'alto verso il basso fino a una distanza uguale all'altezza del cilindro. Il punto di origine del cilindro è incluso nella sua area di effetto.
 
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/3dformev2.png}
-
-\emph{Cono, Sfera, Cilindro, Cubo. Il punto nero indica l'origine dell'incantesimo. Nella sfera è al centro della stessa.}
-\end{center}
-
-
-
-\item
-
-\emph{\textbf{Cono}}: un cono si estende in una direzione a tua scelta dal suo punto di origine. La larghezza del un cono in un dato punto della sua lunghezza è uguale alla distanza di quel punto dal punto di origine. L'area di effetto di un cono specifica la sua lunghezza massima. Il punto di origine del cono non è incluso nella sua area di effetto a meno che tu non decida altrimenti. 
+\item \emph{\textbf{Cono}}: un cono si estende in una direzione a tua scelta dal suo punto di origine. La larghezza del un cono in un dato punto della sua lunghezza è uguale alla distanza di quel punto dal punto di origine. L'area di effetto di un cono specifica la sua lunghezza massima. Il punto di origine del cono non è incluso nella sua area di effetto a meno che tu non decida altrimenti. 
 
 Es. Un Cono di Freddo di 9 metri è largo al termine 9 metri e si allunga dal punto di origine di 9 metri, a 3 metri di distanza dal punto di origine è largo 3 metri.
 
-\item
-\emph{\textbf{Cubo}}: selezioni il punto di origine di un angolo del cubo. Le dimensioni del cubo vengono espresse come lunghezza di ciascun suo spigolo. Il punto di origine del cubo non è incluso nella sua area di effetto, a meno che tu non decida altrimenti.
 
-\item
-\emph{\textbf{Linea}}: una linea si estende dal suo punto di origine in un percorso dritto per tutta la sua lunghezza e copre un'area definita dalla sua larghezza. Il punto di origine della linea non è incluso nella sua area di effetto, a meno che tu non decida altrimenti. Una linea se non specificato diversamente è larga un quadretto.
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/3dformev2.png}
+	
+	\emph{Cono, Sfera, Cilindro, Cubo. Il punto nero indica l'origine dell'incantesimo. Nella sfera è al centro della stessa.}
+\end{center}
 
-\item
-\emph{\textbf{Sfera}}: selezioni il punto di origine di una sfera, che deve essere valido (vedi Gittata e Bersagli) e la sfera si estenderà da quel punto fino ad incontrare un ostacolo insormontabile o la sua dimensione espressa nel raggio. La misura della sfera è indicata come raggio in metri che si estende da quel punto. Il punto di origine della sfera è incluso nella sua area di effetto.
+\item \emph{\textbf{Cubo}}: selezioni il punto di origine di un angolo del cubo. Le dimensioni del cubo vengono espresse come lunghezza di ciascun suo spigolo. Il punto di origine del cubo non è incluso nella sua area di effetto, a meno che tu non decida altrimenti.
+
+\item \emph{\textbf{Linea}}: una linea si estende dal suo punto di origine in un percorso dritto per tutta la sua lunghezza e copre un'area definita dalla sua larghezza. Il punto di origine della linea non è incluso nella sua area di effetto, a meno che tu non decida altrimenti. Una linea se non specificato diversamente è larga un quadretto.
+
+\item \emph{\textbf{Sfera}}: selezioni il punto di origine di una sfera, che deve essere valido (vedi Gittata e Bersagli) e la sfera si estenderà da quel punto fino ad incontrare un ostacolo insormontabile o la sua dimensione espressa nel raggio. La misura della sfera è indicata come raggio in metri che si estende da quel punto. Il punto di origine della sfera è incluso nella sua area di effetto.
 
 Una palla di fuoco che viene generata in una stanza di 9x9 m ne prenderà una buona parte e in una stanza di 6x6 m la riempirà tutta. In una stanza di 3x3 m se ha modo di uscire da una porta od una finestra continuerà la sua esplosione fino ad arrivare ai 6 metri di raggio. Una palla di fuoco in un corridoio di 3x3 m lo saturerà per 6 metri avanti e indietro dal punto di origine.
 
@@ -7643,9 +7645,10 @@ C'è sempre un certo pericolo... ma cosa è la Magia senza rischi!
 
 Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico tira 3d6 e consulta la seguente tabella. Per ogni Fallimento Critico Magico oltre il primo che si è manifestato nel lancio dell'incantesimo e per ogni Tiro Critico subito, tira un 1d6 in meno, fino a tirare un solo 1d6.
 
-%\end{multicols}
+\begin{center}
+\includegraphics[width=0.8\linewidth]{immagini/spellbook.png}
+\end{center}
 
-\medskip
 
 \textbf{Tabella: Effetti Fallimento Critico magico}\index[Tabelle]{Tabella Effetti Fallimento Critico Prova di Magia}
 
@@ -7804,13 +7807,6 @@ Ogni incantesimo occupa un numero di pagine nel Tomo pari al proprio livello, co
 
 Un Tomo (libro) di incantesimi costa 5 mo per pagina.
 
-%\smallskip
-
-%\begin{center}
-%\includegraphics[width=0.7\linewidth]{immagini/spellbook.png}
-%\end{center}
-
-%\smallskip
 
 Un incantatore può copiare sul suo Tomo incantesimi il cui livello è di uno in più rispetto al suo massimo lanciabile (vedi \hyperlink{scuoleelivelli}{Massimo livello di incantesimi lanciabile}).
 
@@ -7959,13 +7955,6 @@ L'incantatore può modificare gli incantesimi in diversi modi. Queste possibilit
 - \textbf{Magia lontana}\index{Magia lontana}: aumentando di 1 i Punti Magia usati aumenti fino a 9 metri la distanza di lancio dell'incantesimo. 1 Azione.
 
 - \textbf{Aumentare il tempo}\index{Aumentare il tempo} di lancio da 2 Azioni a 3 Azioni diminuisce di 1 i Punti Magia spesi per il lancio di incantesimo, con un minimo di costo di 1 Punto Magia.
-
-
-%\begin{center}
-%	\includegraphics[width=0.7\linewidth]{immagini/The_Chariot_of_Hermes.png}
-%	
-%	\emph{Tarocchi - il Carro}
-%\end{center}
 
 - \textbf{Circolo del Potere}\index{Circolo del Potere}: più incantatori che siano tutti Devoti o Seguaci dello stesso Patrono possono collaborare affinché uno di loro riesca meglio nel lancio di un incantesimo.
 Ogni incantatore sacrifica metà dei Punti Magia dell'incantesimo lanciato dal compagno e supera una Prova di Magia. Ogni due compagni che superano la Prova di Magia si genera un Successo critico magico, fino ad un massimo di 7 successi critici magici. Il tempo di lancio di un incantesimo tramite Circolo di Potere diviene almeno 1 Turno. Requisito Competenza Magica 5.
@@ -8137,6 +8126,12 @@ A fare due conti la Palla di Fuoco dovrebbe avere un raggio di 4 metri per influ
 
 Se questo fattore influisce troppo sul vostro gioco riducete della metà ($r-r/2$) i raggi delle esplosioni e le lunghezze dei coni. 
 
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/The_Chariot_of_Hermes.png}
+	
+	\emph{Tarocchi - il Carro}
+\end{center}
 
 \end{multicols}
 
@@ -14391,15 +14386,15 @@ Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di ra
 
 \end{multicols}
 
-%\vfill
+\vfill
 
-%\begin{center}
-%\includegraphics[keepaspectratio,width=0.45\linewidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
+\begin{center}
+\includegraphics[keepaspectratio,width=0.47\linewidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
 
-%\medskip
+\medskip
 
-%\emph{The Circle of Solomon and Triangle of Solomon from The Goetia. L. W. De Laurence}
-%\end{center}
+\emph{The Circle of Solomon and Triangle of Solomon from The Goetia. L. W. De Laurence}
+\end{center}
 
 
 
@@ -17571,9 +17566,6 @@ Mezza armatura, da Campo, Completa& 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti
 
 \end{multicols}
 
-%\begin{center}
-%	\includegraphics[width=0.6\linewidth]{immagini/armaturacorpetto.png}
-%\end{center}
 
 
 \pagebreak
@@ -17633,6 +17625,11 @@ Un attrezzo perfetto oltre a costare 10 volte tanto la versione normale, concede
 
 %\end{multicols}
 
+
+%\begin{center}
+%	\includegraphics[width=0.6\linewidth]{immagini/armaturacorpetto.png}
+%\end{center}
+
 %\vfill
 %\begin{center}
 %\includegraphics[width=0.7\linewidth]{immagini/jewelry-box-2931784_1280.png}
@@ -17668,9 +17665,9 @@ Abito reale & 200 mo & 3\\
 \hyperlink{Acido Intenso}{Acido Intenso} (ampolla) & 30 mo& L \\
 \hyperlink{Acqua santa}{Acqua santa} (ampolla) & 25 mo& L\\
 Ago da cucito & 5 ma &- \\
-Agrifoglio e vischio& -& -\\
-Amo da pesca& 1 ma& - \\
-Ampolla (vuota)& 3 mr& L \\
+Agrifoglio e vischio & & -\\
+Amo da pesca & 1 ma & - \\
+Ampolla (vuota) & 3 mr & L \\ 
 Anello con sigillo& 5 mo& - \\
 \hyperlink{Anello per veleno}{Anello per veleno} & +20 mo&-\\
 \hyperlink{Antitossina}{Antitossina} (boccetta)& 50 mo& L\\
@@ -17687,6 +17684,10 @@ Barile (vuoto)& 2 mo& 4\\
 Bastone & 2 mo& 1\\
 Bilancia da mercante& 2 mo& 1\\
 Birra Boccale& 5 mr& L\\
+Birra Caraffa & 2 ma & L\\
+Boccale di ceramica & 2 mr & L \\ 
+Boccetta di inchiostro o pozione & 1 mo & L\\
+Borsa & 5 ma & L \\ 
 \end{tabular}
 
 \end{multicols}
@@ -17695,25 +17696,6 @@ Birra Boccale& 5 mr& L\\
 \begin{longtable}{llc|llc}
 
 \textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} & \textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\ 
-Abaco & 2 mo & L & Abito da Monaco & 5 mo & 1 \\ 
-Abito da artigiano & 1 mo & 1 & Abito da contadino & 1 ma & 1 \\ 
-Abito da cortigiano & 30 mo & 1 & Abito da esploratore & 10 mo & 1 \\ 
-Abito da intrattenitore & 3 mo & 1 & Abito da nobile & 75 mo & 2 \\ 
-Abito da studioso & 5 mo & 1 & Abito da viaggiatore & 1 mo & 2 \\ 
-Abito invernale & 8 mo & 2 & Abito reale & 200 mo & 3 \\ 
-Acido Intenso (ampolla) & 30 mo & L & Acqua santa (ampolla) & 25 mo & L \\ 
-Ago da cucito & 5 ma & - & Agrifoglio e vischio & - & - \\ 
-Amo da pesca & 1 ma & - & Ampolla (vuota) & 3 mr & L \\ 
-Anello con sigillo & 5 mo & - & Anello per veleno & +20 mo & - \\ 
-Antitossina (boccetta) & 50 mo & L & Ariete portatile & 10 mo & 3 \\ 
-Arnesi da artigiano & 5 mo & 2 & Arnesi da scasso & 30 mo & 1 \\ 
-Asta (3 m) & 5 mr & 2 & Attrezzi da scalatore & 80 mo & 1 \\ 
-Banchetto (a persona) & 10 mo & - & Bandoliera & 3 mo & L \\ 
-Barca a remi & 50 mo & 12 & Barcone & 3k mo & - \\ 
-Barile (vuoto) & 2 mo & 4 & Bastone & 2 mo & 1 \\ 
-Bilancia da mercante & 2 mo & 1 & Birra Boccale & 5 mr & L \\ 
-Birra Caraffa & 2 ma & L & Boccale di ceramica & 2 mr & L \\ 
-Boccetta di inchiostro o pozione & 1 mo & L & Borsa & 5 ma & L \\ 
 Borsa da cintura (vuota) & 1 mo & L & Borsa dei Componenti & 25 mo & L \\ 
 Borsa da Guaritore & 20 mo & 1 & Bottiglia di vetro & 2 mo & L \\ 
 Brocca di ceramica(5lt) & 2 mr & L & Campanella & 1 mo & - \\ 
@@ -18014,10 +17996,9 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 
 \textbf{Sella}\index{Sella}\hypertarget{Sella}{}. Un cavalcatore può agganciarsi a una sella militare per rimanere al suo posto su una cavalcatura attiva, nel corso di una battaglia. Una sella militare conferisce +1d6 alle prove che il personaggio effettua per rimanere in sella. Una sella da carico è una sella solo adatta a permettere il trasporto di bisacce alla cavalcatura. E' necessaria una sella esotica per cavalcare una creatura acquatica o volante.
 
-
-%\begin{center}
-%\includegraphics[height=0.7\linewidth]{immagini/sella2.png}
-%\end{center}
+\begin{center}
+\includegraphics[height=0.7\linewidth]{immagini/sella2.png}
+\end{center}
 
 \textbf{Imbarcazioni a Remi}\hypertarget{Barca a remi}{}\label{Barca a remi}\index{Barca a remi}. I barconi e le barche a remi sono solitamente usati sui laghi e sui fiumi. Se un'imbarcazione segue la corrente, si aggiunge la velocità della corrente (solitamente 4,5 km all'ora) alla sua velocità. In genere non è possibile remare controcorrente se la corrente ha un'intensità rilevante, ma è possibile far risalire un corso d'acqua a queste imbarcazioni portandole a riva e facendole trainare da una o più bestie da soma. Una barca a remi pesa 50 kg (Ingombro 15) qualora gli avventurieri debbano trasportarla via terra.
 
@@ -18121,9 +18102,9 @@ Se l'incantesimo ha conseguenze pericolose, l'incantatore deve ricevere delle pr
 Non tutti i villaggi e i paesi hanno un incantatore abbastanza capace a manipolare la magia. Come regola generale, è necessario spostarsi almeno in un piccolo paese per essere abbastanza sicuri di trovare un incantatore. In un piccolo paese si potrebbe trovare un incantatore in grado di lanciare incantesimi a livello 2, in un grande paese quelli a livello 3, una piccola città per quelli a livello 5, in una grande città per quelli di livello 6, in una metropoli per quelli di livello 8. Nemmeno in una metropoli si è certi di trovare un incantatore capaci di lanciare magie con livello 9 o più.
 
 
-%\begin{center}
-%\includegraphics[width=0.6\linewidth]{immagini/riempitivocavalieriapranzo.png}
-%\end{center}
+\begin{center}
+\includegraphics[width=0.6\linewidth]{immagini/riempitivocavalieriapranzo.png}
+\end{center}
 
 
 \subsubsection{Oggetti e Sostanze Speciali}\index{Sostanze Speciali}
@@ -18422,7 +18403,7 @@ La pelle di drago ha 10 Punti Ferita per 2,5 cm di spessore e Durezza 10. Solita
 \vfill
 
 \begin{center}
-\includegraphics[width=0.4\linewidth]{immagini/dragonhide.png}
+\includegraphics[width=0.5\linewidth]{immagini/dragonhide.png}
 
 \emph{Pelle di drago, dettaglio.}
 \end{center}
@@ -18548,7 +18529,7 @@ Un \textbf{oggetto incantato}\index{Danneggiare oggetti incantati} come un arma 
 \medskip
 
 \begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/portarinforzata2.png}
+\includegraphics[width=0.7\linewidth]{immagini/portarinforzata2.png}
 
 \emph{Porta rinforzata}
 \end{center}
@@ -18658,7 +18639,7 @@ Molti incantesimi ed oggetti usano come durata il \emph{tempo di gioco reale}, o
 
 \smallskip
 
-La durata indicata è espressa come durata di tempo reale di gioco.\index{Durata Luce}
+La durata indicata è espressa, quando in minuti o ore, come durata di tempo reale di gioco.\index{Durata Luce}
 
 
 \medskip
@@ -18727,7 +18708,7 @@ Per i modificatori in dettaglio vedi in \hyperlink{invisibilita}{Invisibilità} 
 
 
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/oggetticadenti.png}
+\includegraphics[width=0.75\linewidth]{immagini/oggetticadenti.png}
 
 \emph{Henry Justice Ford}
 \end{center}
@@ -18821,18 +18802,19 @@ Lasciar cadere addosso ad una creatura un oggetto richiede un attacco a tocco a 
 
 \subsubsection{Pericoli dell'Acqua}\index{Pericoli dell'Acqua}\index{Acqua}\hypertarget{pericoli-dellacqua}{}\label{pericoli-dellacqua} \index{Nuotare}
 
-\medskip
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/affogare.png}
-
-\emph{Henry Justice Ford}\end{center}
-
-\medskip
-
 Qualsiasi personaggio può attraversare acque relativamente calme che non abbiano una profondità maggiore alla sua altezza, senza bisogno di prove. 
 
 Una creatura con una velocità di Nuotare può muoversi attraverso l'acqua alla sua velocità indicata senza fare prove di Nuotare. Ha un bonus di +2d6 su qualsiasi prova di Nuotare per eseguire un'azione particolare o evitare un pericolo.
 La creatura può sempre scegliere di prendere 10 su una prova di Nuotare, anche se distratti od in pericolo quando si nuota. Non può prendere il 10 solo in caso di acque tempestose. Una tale creatura può utilizzare l'azione di correre mentre nuota, a condizione che nuoti in linea retta.
+
+\medskip
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/affogare.png}
+	
+	\emph{Henry Justice Ford}\end{center}
+
+\medskip
 
 Un incantatore si considera Distratto se lancia un incantesimo mentre è in acqua.
 
@@ -18964,6 +18946,13 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 ** L'inverno è freddo, l'estate è calda, l'autunno e la primavera sono moderati. Le paludi sono sempre leggermente più calde d'inverno.
 
 \begin{multicols}{2}
+	
+\begin{center}
+		
+	\includegraphics[width=0.95\linewidth]{immagini/Paesaggio-pioggia-Auvers.png}
+	
+	\emph{Vincent van Gogh, Paesaggio sotto la pioggia ad Auvers, 1890, olio su tela, cm 50 x 100}
+\end{center}
 
 \textbf{Acquazzone}: Considerarlo come pioggia (vedi Precipitazioni sotto), ma offre copertura come la nebbia. Può provocare inondazioni e dura di solito 2d4 ore.
 
@@ -18982,13 +18971,6 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 \textbf{Precipitazioni}: Tirare un d100 per determinare se la precipitazione è nebbia (01-30), pioggia/neve (31-90), o nevischio/ grandine (91-00). La neve e il nevischio si verificano solo quando la temperatura è di 0° C o inferiore. La maggior parte delle precipitazioni dura 2d4 ore. La grandine, invece, dura solo 3d6 minuti ma di solito è accompagnata da 1d4 ore di pioggia.
 
 \textbf{Tempesta} (di Fulmini/di Neve/di Polvere): Il vento è molto forte (da 45 a 75 km/h) e la visibilità è ridotta di tre quarti. Le tempeste durano 2d4-1 ore. Vedi Tempeste, sotto, per ulteriori dettagli.
-
-\begin{center}
-	
-	\includegraphics[width=0.95\linewidth]{immagini/Paesaggio-pioggia-Auvers.png}
-	
-	\emph{Vincent van Gogh, Paesaggio sotto la pioggia ad Auvers, 1890, olio su tela, cm 50 x 100}
-\end{center}
 
 
 \textbf{Tempesta} (Bufera/Tormenta/Uragano/Tornado): La velocità del vento è superiore ai 75 km/h (vedi Tabella: Effetti del Vento). Inoltre, le tormente sono accompagnate da pesanti nevicate (1d3 \texttimes{} 30 cm), e gli uragani sono accompagnati da acquazzoni. Le bufere durano 1d6 ore, le tormente 1d3 giorni. Gli uragani possono durare fino a una settimana, ma l'impatto maggiore per i personaggi avverrà in un periodo di tempo tra le 24 e le 48 ore, mentre il centro della tempesta si sposta nella loro zona. I tornado durano molto poco (1d6 \texttimes{} 10 minuti), e di solito si formano come parte di una tempesta di fulmini.
@@ -19133,12 +19115,12 @@ Sebbene la velocità rotatoria di un tornado possa raggiungere i 450 km/h, il co
 
 
 
-%\vfill
+\vfill
 
-%\begin{center}
-%\includegraphics[keepaspectratio,width=0.8\textwidth]{immagini/blizzard.png}
+\begin{center}
+\includegraphics[keepaspectratio,width=0.45\textwidth]{immagini/blizzard.png}
 
-%\end{center}
+\end{center}
 
 \pagebreak
 
@@ -19306,7 +19288,7 @@ I quattro tipi base di dungeon sono definiti dal loro stato attuale. Molti dunge
 
 \medskip
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/avventure_dungeon.png}
+\includegraphics[width=0.9\linewidth]{immagini/avventure_dungeon.png}
 
 \emph{The Red Romance Book, Henry Justice Ford}
 \end{center}
@@ -19636,6 +19618,12 @@ I personaggi sepolti subiscono 1d6 danni non letali per ogni minuto che rimangon
 I personaggi che non sono stati sepolti possono estrarre i loro compagni da sotto le macerie. In 1 minuto una creatura, usando solo le mani, libera un quarto di un quadretto di macerie, se usa degli strumenti adatti, come un piccone, vanga o una pala può scavare mezzo quadretto al minuto. Un personaggio sepolto può tentare di liberarsi da solo superando un Tiro Salvezza Tempra con Forza con DC 30, una volta al minuto.
 
 
+\begin{center}
+	\includegraphics[width=0.95\linewidth]{immagini/funghi.png}
+	
+	\emph{Sono luminosi al buio, credetemi! e fritti sono ancora meglio!}
+\end{center}
+
 \subsubsection{Fanghiglie, Muffe e Funghi}\index{Fanghiglie, Muffe e Funghi}
 
 Negli umidi e oscuri recessi dei dungeon, le muffe e i funghi prosperano, temete le colonne di muffa! Per quanto riguarda gli incantesimi ed altri effetti speciali, tutte le fanghiglie, le muffe e i funghi sono considerati vegetali. Come le trappole, le fanghiglie e le muffe pericolose sono dotate di un grado di Sfida e i personaggi guadagnano Punti Esperienza per averle incontrate.
@@ -19646,13 +19634,6 @@ Una lucida melma organica ricopre qualsiasi cosa che rimanga per troppo tempo im
 
 \textbf{Fanghiglia Verde}\index{Fanghiglia Verde} (grado di Sfida 4): Questo pericolo dei dungeon è una varietà insidiosa della normale fanghiglia.
 La fanghiglia verde divora la carne e i materiali organici che vi entrano in contatto ed è addirittura capace di dissolvere i metalli. Di un verde splendente, bagnata ed appiccicosa, si distribuisce a chiazze su pareti, pavimenti e soffitti e si riproduce consumando materiale organico. Si lascia cadere dalle pareti e dai soffitti quando individua del movimento (e possibile nutrimento) sotto di sé.
-
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/funghi.png}
-	
-	\emph{Sono luminosi al buio, credetemi! e fritti sono ancora meglio!}
-\end{center}
 
 La fanghiglia verde infligge 1 danno alla Costituzione per ogni round in cui divora la carne. Al primo round di contatto, la fanghiglia può essere asportata da una creatura (con la probabile distruzione dell'oggetto utilizzato per asportarla), ma dopo il primo round deve essere congelata, bruciata o tagliata (infliggendo danni anche alla sua vittima) per essere rimossa. Tutto ciò che infligge danni da fuoco o da freddo, la luce solare o un incantesimo di rimuovi malattia distruggono una chiazza di fanghiglia verde. Nel caso di legno o metallo, la fanghiglia verde infligge 2d6 danni per round, ignorando la Durezza del metallo ma non quella del legno. Non danneggia la pietra. Difesa 10, Punti Ferita 30, Tiri Salvezza T 3, R 0, V 1.
 
@@ -19722,7 +19703,7 @@ I pericoli ambientali includono frane, incendi e simili. I pericoli viventi incl
 \medskip
 
 \begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/boscopericoli.png}
+\includegraphics[width=0.75\linewidth]{immagini/boscopericoli.png}
 \end{center}
 
 \textbf{Zona di Antimagia (grado di Sfida 6)}\index{Zone di Antimagia}\index{Antimagia}
@@ -20717,7 +20698,7 @@ Es: Gusterbloon CM14. La prima Lettera indica il CLIMA, la Seconda indica l'AMBI
 
 \medskip
 
-\noindent\begin{tabularx}{1\textwidth}{m{4.8cm}lllm{6.5cm}l}
+\noindent\begin{tabularx}{1\textwidth}{m{4.8cm}lllm{6.5cm}c}
 	\toprule
 	\textbf{Nome Veleno} & \textbf{Uso} & \textbf{Ins.} & \textbf{TS} & \textbf{Effetto (danno)} & \textbf{Costo}\\
 	\midrule
@@ -20800,10 +20781,10 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 \medskip 
 
 \noindent\begin{xltabular}{1\textwidth}{
-		>{\raggedright\arraybackslash}p{2.5cm}
+		>{\raggedright\arraybackslash}p{3.1cm}
+		>{\centering\arraybackslash}p{0.4cm}
 		>{\centering\arraybackslash}p{0.8cm}
-		>{\centering\arraybackslash}p{1cm}
-		>{\centering\arraybackslash}p{0.8cm}
+		>{\centering\arraybackslash}p{0.6cm}
 		>{\raggedright\arraybackslash}X
 		>{\centering\arraybackslash}p{1cm}
 		>{\centering\arraybackslash}p{1cm}
@@ -20858,7 +20839,7 @@ Harfindar\index{Harfindar}& I& 1 T & 15& Fa abortire& SS15 & 3 \\
 \toprule
 Jojopo\index{Jojopo}& C& 1 r & 15& Resistenza a Freddo per 1 ora & FM17 & 45 \\
 \toprule
-Kelventare\index{Kelventare}& I& 1d4 r & 28& Recuperi 2d6 Punti Ferita & TT16 & 100 \\
+Kelventare\index{Kelventare}& I& 2 r & 28& Recuperi 2d6 Punti Ferita & TT16 & 100 \\
 \toprule
 Klagul\index{Klagul}& C& 1 T & 20& Pulisce i denti & SS14 & 2 \\
 \toprule
@@ -21051,6 +21032,14 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 
 \end{multicols}
 
+\begin{center}
+\includegraphics[width=0.23\linewidth]{immagini/mandragola2.png}
+
+\emph{Pianta di Mandragola}
+\end{center}
+
+
+
 \textbf{Tabella: delle pozioni generiche. Costo in Monete d'Oro.}\index[Tabelle]{Tabella delle pozioni generiche}\label{pozionigeneriche}\hypertarget{pozionigeneriche}{}
 
 \medskip
@@ -21175,11 +21164,6 @@ Esempi di Malattie:
 
 \vfill
 
-%\begin{center}
-%\includegraphics[width=0.6\linewidth]{immagini/mandragola2.png}
-
-%\emph{Pianta di Mandragola}
-%\end{center}
 
 
 
@@ -21567,7 +21551,7 @@ Fluttuare è la capacità che consente di rimanere fluttuante nell'aria, all'alt
 \vfill
 
 \begin{center}
-\includegraphics[width=0.35\linewidth]{immagini/grifonicastello.png}
+\includegraphics[width=0.4\linewidth]{immagini/grifonicastello.png}
 \end{center}
 
 
@@ -21729,16 +21713,18 @@ Nel limite del possibile ogni sessione dovrebbe includere una parte di ruolo, un
 \medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+Sia chiaro che nulla vi vieta di approntare un passaggio di livello basato su punti fissi (milestone) durante l'avventura. Vostro il tavolo, vostre le regole!
+\end{narratore}\end{changemargin}
+
+\medskip
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 Può sembrare anacronistico quando c'è già in sviluppo la sesta edizione del più famoso gioco di ruolo tornare a premiare i personaggi in base all'oro preso ai mostri.
 
 Posso però garantirvi che qualora il vostro gruppo sia particolarmente \emph{povero} di giocate di ruolo o semplicemente preferisca uno stile più combattivo, sapere che l'oro raccolto equivale ad esperienza può rendere molto più dinamico ed avvincente l'andare in avventura.
 
 OBSS si rifà ai principi dell'OSR e come tale la fase di esplorazione e combattimento ha un proprio peso importante e vitale.
 \end{narratore}\end{changemargin}
-
-\medskip
-
-Sia chiaro che nulla vi vieta di approntare un passaggio di livello basato su punti fissi (milestone) durante l'avventura. Vostro il tavolo, vostre le regole!
 
 \subsection{Incontri}\index{Incontri}
 
@@ -22220,7 +22206,7 @@ Anche nel miglior gruppo già affiatato è sempre bene ricordare e condividere q
 \vfill
 
 \begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/fognelondra.png}
+\includegraphics[width=0.95\linewidth]{immagini/fognelondra.png}
 
 \emph{Mappa delle fogne di Londra, 1880}
 
@@ -22498,7 +22484,7 @@ Consultate poi la \hyperlink{tipologiaoggettomagico}{Tabella Tipologia Oggetto m
 \medskip
 
 \begin{center}
-	\includegraphics[width=0.35\linewidth]{immagini/Hoxne_Hoard_1.png}
+	\includegraphics[width=0.5\linewidth]{immagini/Hoxne_Hoard_1.png}
 	
 	\emph{Riproduzione del tesoro di Hoxne}
 \end{center}
@@ -23381,7 +23367,6 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \section{Descrizione degli Oggetti Magici}\index{Descrizione degli Oggetti Magici}
 
-\normalsize
 Gli oggetti magici sono presentati in ordine alfabetico per categorie di raggruppamento. La descrizione di un oggetto magico fornisce il nome dell'oggetto, la sua categoria, rarità e le sue proprietà magiche.
 
 Benché i costi siano riportati è sempre bene concedere gli oggetti magici come premi, tesoro, a seguito di missione.
@@ -23742,7 +23727,7 @@ Un Anello d'arma maggiore può essere applicato solo ad armi da mischia ed ha un
 
 \medskip
 
-\noindent\begin{tabular}{clcl}
+\noindent\begin{tabularx}{0.5\textwidth}{cXcX}
 \hline
 \textbf{1d100} & \textbf{Talento} & \textbf{1d100} & \textbf{Talento} \\
 \hline
@@ -23751,12 +23736,12 @@ Un Anello d'arma maggiore può essere applicato solo ad armi da mischia ed ha un
 13-18 & del dolore & 67-72 & Infuocata \\
 19-24 & Perfida & 73-78 & Marina \\
 25-30 & Pietosa & 79-84 & Mutaforma \\
-31-36 & Arma Maledetta -1 & 85-90 & Planare \\
+31-36 & Maledetta -1 & 85-90 & Planare \\
 37-42 & Titanica & 91-96 & Tonante \\
 43-48 & Caos & 97-100 & Trasformante \\
 49-54 & Corrosiva & & \\
 \hline
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -24401,10 +24386,10 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 59-62 &Erba folta spunta in un raggio di 18 metri intorno al bersaglio.Se vi è già dell'erba, questa cresce di dieci volte e resta così per 1 minuto.\\
 63-65 &Un oggetto a scelta del Narratore scompare sul Piano Etereo. L'oggetto non deve essere né indossato né trasportato, deve essere entro 36 metri dal bersaglio, e non più grande di 3 metri in ciascuna dimensione.\\
 66-69 &Ti rimpicciolisci come se avessi lanciato su di te l'incantesimo ingrandire/ridurre.\\
-70-79 &Lanci l'incantesimo Palla di fuoco.\\
-80-84 &Lanci l'incantesimo Invisibilità su di te.\\
 \end{tabularx}
 \noindent\begin{tabularx}{0.50\textwidth}{lX}
+70-79 &Lanci l'incantesimo Palla di fuoco.\\
+80-84 &Lanci l'incantesimo Invisibilità su di te.\\
 85-87 &Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore.\\
 88-90& Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea.\\
 91-95 &Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto.\\
@@ -24416,7 +24401,7 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 \medskip
 
 \begin{center}
-\includegraphics[width=0.8\linewidth]{immagini/bacchette.png}
+\includegraphics[width=0.7\linewidth]{immagini/bacchette.png}
 \end{center}
 
 \medskip
@@ -25292,7 +25277,6 @@ Se riversi il contenuto della borsa sul terreno, i fagioli esplodono in un raggi
 
 Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati. Se rimuovi il fagiolo dalla borsa, lo pianti nel terreno o la sabbia, e lo innaffi, il fagiolo produrrà un effetto 1 minuto dopo, a partire dal punto del terreno in cui è stato piantato. Il Narratore sceglie l'effetto o lo determina casualmente.
 
-
 \noindent\begin{tabularx}{0.50\textwidth}{lX}
 \textbf{d100} & \textbf{Effetto}\\
 \hline
@@ -25304,10 +25288,10 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 41-50 &Sputano 1d6 + 6 \hyperlink{Fungo Stridente}{Fungo Stridente}.\\
 51-60 &Compaiono 1d4 + 8 rospi fucsia. Ogniqualvolta un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del Narratore. Il mostro resta per 1 minuto e poi scompare in un sbuffo di fumo fucsia. \\
 61-70 & Una bulette esce dal terreno e attacca.\\
-71-80 &Cresce un albero da frutta. Possiede 1d10+20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno potenziato o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono e mantengono la propria magia per 30 giorni. \\
-81-90 &Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. \\
 \end{tabularx}
 \noindent\begin{tabularx}{0.50\textwidth}{lX}
+71-80 &Cresce un albero da frutta. Possiede 1d10+20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno potenziato o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono e mantengono la propria magia per 30 giorni. \\
+81-90 &Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. \\
 &Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza.\\
 91-99 &Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. Il suo sarcofago contiene un tesoro a scelta del Narratore.\\
 100 &Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza.
@@ -25957,16 +25941,16 @@ Piazzare lo zainetto all'interno dello spazio extradimensionale creato da una bo
 
 \end{multicols}
 
-%\vfill
-%\begin{center}
-%\includegraphics[width=0.3\linewidth]{immagini/borsetta.png}
+\vfill
+\begin{center}
+\includegraphics[width=0.45\linewidth]{immagini/borsetta.png}
 
 %\emph{Borsetta conservante, modello classico, Tipo II}
 %\includegraphics[width=0.8\linewidth]{immagini/The_erection_of_the_Tabernacle_and_the_Sacred.png}
 
 %\emph{Ark of the Covenantat the erection of the Tabernacle and the sacred vessels, as in Exodus 40:17–19. Figures de la Bible, Gerard Hoet (1648–1733) and others, published by P. de Hondt in The Hague in 1728}
 
-%\end{center}
+\end{center}
 
 \pagebreak
 
@@ -27321,7 +27305,7 @@ I celestiali sono di natura buona, esempi classici di celestiali sono angeli, co
 \smallskip\textbf{Piante}, in questo contesto si tratta di creature vegetali, non della normale flora. La maggior parte di esse sono mobili e alcune sono carnivore. L'esempio più classico di piante sono i tumuli ambulanti e gli ent. Anche le creature fungoidi come le spore gassose e i miconidi rientrano in questa categoria.
 
 \begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/sanmichelesatana.png}\\
+\includegraphics[width=0.7\linewidth]{immagini/sanmichelesatana.png}\\
 \emph{San Michele sconfigge Satana. Raffaello ed aiuti (1518). Museo del Louvre}
 \end{center}
 
@@ -27466,7 +27450,7 @@ La voce Sensi elenca qualsiasi senso speciale di cui il mostro sia in possesso. 
 
 
 \begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/ciclope.png}
+	\includegraphics[width=0.7\linewidth]{immagini/ciclope.png}
 	
 	\emph{Henry Justice Ford}
 \end{center}
@@ -27628,7 +27612,7 @@ Un mostro porta con sé munizioni sufficienti per effettuare i suoi attacchi a d
 
 
 \begin{center}
-	\includegraphics[width=0.55\linewidth]{immagini/polpo.png}
+	\includegraphics[width=0.65\linewidth]{immagini/polpo.png}
 	
 	\emph{Alphonse de Neuville - Hetzel edition of 20000 Lieues Sous les Mers}
 \end{center}
@@ -27836,7 +27820,7 @@ Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS p
 \vfill
 
 \begin{center}
-\includegraphics[width=0.44\linewidth]{immagini/trex.png}
+\includegraphics[width=0.6\linewidth]{immagini/trex.png}
 
 \emph{Tyrannosaurus Rex skeleton (the specimen RTMP 81.6.1), California Academy of Sciences, San Francisco}
 
@@ -29578,13 +29562,6 @@ Guerrieri scelti delle legioni infernali, i diavoli barbuti, o barbazu, combatto
 I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di mantenere una distanza di 3 metri tra loro ed i loro avversari, così che possono utilizzare le loro caratteristiche armi ad asta con la massima efficacia. In posizione eretta i diavoli barbuti sono alti più di 1,8 metri (sebbene la posizione accovacciata che tengono in battaglia li faccia spesso sembrare più bassi) e pesano più di 100 kg.
 
 
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/Diavoli_giotto_2.png}
-	
-	\textit{Diavoli di Giotto}
-\end{center}
-
-
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Diavolo delle Catene} \hypertarget{Diavolo delle Catene}{}\medskip \noindent{\large\textbf{Diavolo delle Catene}}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
@@ -29629,6 +29606,13 @@ Organizzazione: Solitario, coppia, anello (3-6) o catena (7-20)\\
 \textbf{Categoria Tesoro}: R\\
 \textbf{Descrizione}\\
 Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavolo delle Catene non sono veri diavoli. Anche se alcuni sono noti per vivere all'Inferno, essi esistono al di fuori delle gerarchie stabilite dagli dei degli inferi e dai suoi arcidiavoli e a volte si possono trovare su altri piani, in particolare sul Piano delle Ombre. Molti suggeriscono che siano nativi dell'Inferno che esisteva prima dell'avvento della stirpe diabolica, anche se altri ipotizzano che siano stati portati sul piano da qualche sadica potenza. Indipendentemente dalle loro origini vagano per i piani assecondano il loro desiderio di causare e ricevere sofferenza, ricercando il dolore attraverso violenti rapimenti e sadiche depravazioni.
+
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/Diavoli_giotto_2.png}
+	
+	\textit{Diavoli di Giotto}
+\end{center}
 
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Diavolo Cornuto} \hypertarget{Diavolo Cornuto}{}\medskip \noindent{\large\textbf{Diavolo Cornuto}}
@@ -33086,6 +33070,10 @@ L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure.
 \emph{\textbf{Turbine (Ricarica 4-6).}} Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC 10+GS*1.5. Se lo fallisce, il bersaglio subisce 1d8*GS/3 danni contundenti e viene scagliato a GS metri di distanza dall'elementale in una direzione casuale e cadere prono. Se un bersaglio lanciato colpisce un oggetto, come un muro o il pavimento, subisce 3 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza di Riflessi DC 13 o subire lo stesso danno e cadere prona.
 Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente e non viene scagliato via né cade prono.
 
+\begin{center}
+	%\includegraphics[width=0.9\linewidth]{immagini/elefuoco.png}
+	\includegraphics[width=0.7\linewidth]{immagini/wildfire_grayscale.png}
+\end{center}
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Elementale del Fuoco Generico} \hypertarget{Elementale del Fuoco Generico}{}\medskip \noindent{\large\textbf{Elementale del Fuoco Generico}}
 \noindent
@@ -33105,12 +33093,6 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 \emph{\textbf{Forma di Fuoco.}} L'elementale può spostarsi attraverso uno spazio fino a 3 centimetri di larghezza senza stringersi. Una creatura che entri a contatto o colpisca l'elementale con un attacco da mischia mentre si trova entro 1 metro da esso subisce 5 (1d10) danni da fuoco. Inoltre, l'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. La prima volta che entra nello spazio di una creatura in un round, la creatura subisce GS danni da fuoco e prende fuoco; finché qualcuno non impiega un'Azione per spegnere le fiamme, la creatura subirà GS danni da fuoco all'inizio di ciascun proprio round.\\
 
-
-
-\begin{center}
-	%\includegraphics[width=0.9\linewidth]{immagini/elefuoco.png}
-	\includegraphics[width=0.7\linewidth]{immagini/wildfire_grayscale.png}
-\end{center}
 
 \emph{\textbf{Illuminazione.}} L'elementale emette luce intensa in un raggio di GS*2 metri e luce fioca per GS*4 metri.\\
 \emph{\textbf{Natura Elementale.}} Un elementale non ha bisogno di aria, cibo, bevande o sonno.\\
@@ -40154,20 +40136,6 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 
 \emph{\textbf{Zoccoli.} Attacco con Arma da Mischia}: +4 a colpire, portata 1 m, un bersaglio.
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Il Saurovallo]\index{Saurovallo}
-		La leggenda narra che Calicante appena scese sulla Terra vide i \emph{cavalli} e provò un disgusto incredibile per questi orrendi esseri e con il semplice volere li fece esplodere tutti. Non contento pochi attimi dopo tutti gli \emph{equini} fecero la stessa fine.
-		
-		Asini, muli, cavalli, zebre.. solo il cammello ed il dromedario non essendo propriamente equini si salvarono, anche se molti pensano che Calicante semplicemente li stia ignorando...
-		
-		Nethergal piuttosto scossa dal fatto che si era perso un utile animale per portare messaggi e cavalcabile per ampie distanze e non avendo il potere per creare una nuova creatura dal nulla, si rivolse ad Efrem ed Orlaith. Chiese ad Efrem di individuare un animale che potesse essere robusto, veloce ed adatto a essere cavalcato, mentre ad Orlaith chiese di inculcargli obbedienza ed il coraggio.
-		
-		Efrem sapendo che Torbiorn aveva portato sul pianeta milioni dei suoi amati dinosauri scelse il Parasaurolophus e, con il supporto di Orlaith, lo rese più compatto, piccolo, mansueto, erbivoro: perfetto per essere cavalcato.
-		
-		Creò anche poi una versione ridotta, nana nelle misure, che potesse adattarsi a portare le creature di taglia piccola.
-		
-		Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
-\end{tcolorbox}\end{changemargin}
-
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Saurovallo da Guerra} \hypertarget{Saurovallo da Guerra}{}\medskip \noindent{\large\textbf{Saurovallo da Guerra}}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
     \item[\textbf{Taglia/Tipo:}] Grande bestia, disallineato
@@ -40185,6 +40153,21 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 \emph{\textbf{Zoccoli.} Attacco con Arma da Mischia}: +4 a colpire, portata 1 m, un bersaglio.
 
 \emph{Colpisce:} 11 (2d6 + 4) danni contundenti.
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Il Saurovallo]\index{Saurovallo}
+		La leggenda narra che Calicante appena scese sulla Terra vide i \emph{cavalli} e provò un disgusto incredibile per questi orrendi esseri e con il semplice volere li fece esplodere tutti. Non contento pochi attimi dopo tutti gli \emph{equini} fecero la stessa fine.
+		
+		Asini, muli, cavalli, zebre.. solo il cammello ed il dromedario non essendo propriamente equini si salvarono, anche se molti pensano che Calicante semplicemente li stia ignorando...
+		
+		Nethergal piuttosto scossa dal fatto che si era perso un utile animale per portare messaggi e cavalcabile per ampie distanze e non avendo il potere per creare una nuova creatura dal nulla, si rivolse ad Efrem ed Orlaith. Chiese ad Efrem di individuare un animale che potesse essere robusto, veloce ed adatto a essere cavalcato, mentre ad Orlaith chiese di inculcargli obbedienza ed il coraggio.
+		
+		Efrem sapendo che Torbiorn aveva portato sul pianeta milioni dei suoi amati dinosauri scelse il Parasaurolophus e, con il supporto di Orlaith, lo rese più compatto, piccolo, mansueto, erbivoro: perfetto per essere cavalcato.
+		
+		Creò anche poi una versione ridotta, nana nelle misure, che potesse adattarsi a portare le creature di taglia piccola.
+		
+		Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
+\end{tcolorbox}\end{changemargin}
+
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Saurovallo da Tiro} \hypertarget{Saurovallo da Tiro}{}\medskip \noindent{\large\textbf{Saurovallo da Tiro}}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
