@@ -882,7 +882,9 @@ aggiornata versione POD 2025/05/01
 
 0.99.54 migliorato layout mostri dato il font a 11, collegati ulteriori incantesimi a mostri, rivisto tutto il layout e ricontrollato tutti gli utilizzi di small,
 
+aggiornata versione POD 2025/05/04
 
+0.99.55
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
