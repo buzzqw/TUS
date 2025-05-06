@@ -884,7 +884,7 @@ aggiornata versione POD 2025/05/01
 
 aggiornata versione POD 2025/05/04
 
-0.99.55
+0.99.55 migliorata struttura codice latex iniziale, aggiunta l'opzione di compilare con xelatex o pdflatex, 
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.

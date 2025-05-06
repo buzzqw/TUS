@@ -1,183 +1,233 @@
 \documentclass[a4paper,twoside,openany]{book}
-\usepackage{quoting}
-\usepackage{tcolorbox}
-\usepackage{tikz}
-\usetikzlibrary{shadows}
-\usepackage{multicol}
-\usepackage{tocloft}
-%\usepackage{lmodern}
-\usepackage{caption}
-\usepackage{setspace}
+
+% ----- OPZIONE PER SELEZIONARE IL MOTORE LaTeX -----
+% Per usare pdfLaTeX, decommenta questa riga:
+\newif\ifpdflatexengine
+%\pdflatexenginetrue % Decommenta questa riga per usare pdfLaTeX
+\pdflatexenginefalse % XeLaTeX è l'opzione predefinita
+
+% ----- GEOMETRIA DI BASE -----
 \usepackage[a4paper]{geometry}
-\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm} %std
-\setcounter{secnumdepth}{-1}
-\usepackage{booktabs,multirow}
-\usepackage{url}
+\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
+
+% ----- PACCHETTI BASE -----
 \usepackage[italian]{babel}
 \usepackage{setspace}
 \usepackage{graphicx}
-\usepackage{amssymb,siunitx}
-\usepackage{makeidx,index,titlesec}
-\usepackage{wrapfig}
-
-
-%\usepackage[allfiguresdraft]{draftfigure} %senza figure, deve rimanere alla riga 24
-\usepackage[unicode=true, bookmarks=true, pdftitle={OBSS}, pdfsubject={Gioco di Ruolo per Avventure Incredibili}, pdfauthor={Andres Zanzani}, breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
-{hyperref}
-\hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
-\usepackage{bookmark}
+\usepackage{tocloft}
+\usepackage{caption}
 \usepackage{ragged2e}
-\usepackage{fancyhdr}
+\usepackage{quoting}
+\usepackage{amssymb}
+\usepackage{siunitx}
+\usepackage{multicol}
+\usepackage{wrapfig}
+\usepackage{url}
+\usepackage{titlesec}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{cancel}
+\usepackage{adjustbox}
+
+
+
+% ----- PACCHETTI PER TABELLE -----
+\usepackage{booktabs,multirow}
+\usepackage{xltabular,xtab,tabularx}
+\usepackage{longtable}
+
+% ----- PACCHETTI PER GRAFICA E COLORI -----
+\usepackage{tikz}
+\usetikzlibrary{shadows,shapes.misc,calc}
+\definecolor{lightgray}{gray}{0.95}
+
+% ----- PACCHETTI PER BOX E CORNICI -----
 \usepackage{tcolorbox}
 \tcbuselibrary{skins}
+\usepackage[framemethod=TikZ]{mdframed}
+
+% ----- PACCHETTI PER INDICI -----
+\usepackage{makeidx,index,imakeidx}
+
+% ----- PACCHETTI VARI -----
+\usepackage{pdfpages}
+\usepackage{etoolbox}
+\usepackage{soul}
+\usepackage{GoudyIn}
+\usepackage{listings}
+\usepackage{zref-savepos}
+\usepackage[absolute,overlay]{textpos}
+
+% ----- FONT SETTINGS (CONDIZIONALI PER pdfLaTeX/XeLaTeX) -----
+\ifpdflatexengine
+% Configurazione font per pdfLaTeX
+\usepackage[T1]{fontenc}
+\usepackage{lmodern} % Latin Modern come font alternativo
+\usepackage{textcomp}
+% Puoi usare altri font disponibili in pdfLaTeX, come:
+% \usepackage{palatino}
+% \usepackage{bookman}
+% \usepackage{libertine}
+\else
+% Fontspec usato solo con XeLaTeX o LuaLaTeX
+\usepackage{fontspec}
+\setmainfont[
+Path=../altro/fonts/,
+BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
+ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
+BoldFont=AtkinsonHyperlegibleNext-Bold.ttf, 
+SmallCapsFont=ReadexPro-Regular.ttf, 
+SmallCapsFeatures={Letters=SmallCaps}
+]{AtkinsonHyperlegibleNext-Regular.ttf}
+\fi
+
+% ----- IMPORTANTE: HYPERREF E BOOKMARK (DEVONO ESSERE CARICATI ALLA FINE) -----
+% Opzioni condizionali per hyperref
+\ifpdflatexengine
+\PassOptionsToPackage{unicode,pdfencoding=auto,bookmarks=true,colorlinks=true,linkcolor=blue}{hyperref}
+\else
+\PassOptionsToPackage{unicode,bookmarks=true,colorlinks=true,linkcolor=blue}{hyperref}
+\fi
+
+% Carica bookmark prima di hyperref
+\usepackage{bookmark}
+\usepackage{hyperref}
+
+% Configurazioni hyperref
+\hypersetup{
+	pdftitle={OBSS},
+	pdfsubject={Gioco di Ruolo per Avventure Incredibili},
+	pdfauthor={Andres Zanzani},
+	breaklinks=false,
+	pdfborder={0 0 1},
+	backref=section,
+	pdfcreator={LaTeX}
+}
+
+% ----- CONFIGURAZIONI -----
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{3}
+\raggedbottom
 \tcbset{colback=brown!10, fonttitle=\scshape}
-\usepackage{imakeidx}
-\usepackage{cancel}
+
+% ----- CONFIGURAZIONE INDICI -----
 \def\CountIndexOccurrences#1{%
-	\expandafter\newcount\csname #1\endcsname%
 	\expandafter\newcount\csname #1\endcsname%
 	\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
 	\IfFileExists{#1.idx}{\input{#1.idx}}{}%
 }
-\usepackage{adjustbox}
+
 \CountIndexOccurrences{OBSSv2}
 \CountIndexOccurrences{Incantesimi}
 \CountIndexOccurrences{Mostruario}
 \CountIndexOccurrences{Tabelle}
 \CountIndexOccurrences{OggettiMagici}
+
 \def\TotalBox#1{\vfill%
 	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
+
 \makeindex[columns=1, title=Indice Analitico, intoc=true]
 \makeindex[columns=1, name=Tabelle, title=Elenco delle Tabelle, intoc=true]
 \makeindex[columns=1, name=Incantesimi, title=Elenco degli Incantesimi, intoc=true]
 \makeindex[columns=1, name=Mostruario, title=Elenco dei Mostri, intoc=true]
 \makeindex[columns=1, name=OggettiMagici, title=Elenco degli Oggetti Magici, intoc=true]
-\usetikzlibrary{shapes.misc,calc}
-\definecolor{lightgray}{gray}{0.95}
-\usetikzlibrary{shapes.misc,calc}
-\definecolor{lightgray}{gray}{0.95}
+
+% ----- CONFIGURAZIONE INTESTAZIONI -----
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{} 
 \fancyhead[LE,RO]{\leftmark}
-\fancyhead[RE,LO]{}
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-\usepackage{GoudyIn}
+
 \fancypagestyle{plain}{%
-%% Clear all headers and footers
-\fancyhf{}
-%% Right headers on odd pages
-\fancyhead[RO]{%
-\rotatebox{90}{
-\begin{tikzpicture}[overlay,remember picture]
-\node[fill=lightgray,text=black,
-font=\footnotesize,
-inner ysep=12pt, inner xsep=20pt,
-rounded rectangle,anchor=east,minimum width=7cm,
-xshift=-60mm,yshift=-21mm, text height=0.4cm]
-at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
-{\sffamily\itshape\small\nouppercase{\leftmark}};
-\end{tikzpicture}
-}
-}
-%% Left headers on even pages
-\fancyhead[LE]{%
-\rotatebox{90}{
-\begin{tikzpicture}[overlay,remember picture]
-\node[fill=lightgray,text=black,
-font=\footnotesize,
-inner ysep=12pt, inner xsep=20pt,
-rounded rectangle,anchor=east,minimum width=7cm,
-xshift=-60mm,yshift=-4mm, text height=0.4cm]
-at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
-{\sffamily\itshape\small\nouppercase{\leftmark}};
-\end{tikzpicture}
-} }
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
+	\fancyhf{}
+	\fancyhead[RO]{%
+		\rotatebox{90}{
+			\begin{tikzpicture}[overlay,remember picture]
+				\node[
+				fill=lightgray,
+				text=black,
+				font=\footnotesize,
+				inner ysep=12pt,
+				inner xsep=20pt,
+				rounded rectangle,
+				anchor=east,
+				minimum width=7cm,
+				xshift=-60mm,
+				yshift=-21mm,
+				text height=0.4cm
+				] at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
+				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\end{tikzpicture}
+		}
+	}
+	\fancyhead[LE]{%
+		\rotatebox{90}{
+			\begin{tikzpicture}[overlay,remember picture]
+				\node[
+				fill=lightgray,
+				text=black,
+				font=\footnotesize,
+				inner ysep=12pt,
+				inner xsep=20pt,
+				rounded rectangle,
+				anchor=east,
+				minimum width=7cm,
+				xshift=-60mm,
+				yshift=-4mm,
+				text height=0.4cm
+				] at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
+				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\end{tikzpicture}
+		}
+	}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+	\fancyfoot[C]{\thepage}
 }
 \pagestyle{plain}
-\fancyfoot[C]{\thepage} 
-\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-\usepackage{xltabular,xtab, tabularx} 
-\usepackage{pdfpages}
-\usepackage{hyperref}
-\usepackage[absolute,overlay]{textpos}
-\usepackage{etoolbox}
-\usepackage{soul}
-\raggedbottom
-\usepackage{array}
-\usepackage{longtable} 
+
+% ----- DEFINIZIONI PER MARGINI -----
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
-\setcounter{tocdepth}{3}
-\newtcolorbox{narratore}{
-enhanced, % enable advanced settings
-%left = 3mm,
-%width=0.45\textwidth,
-left = 9mm, % pushes text away from the left edge by 10mm
-sharp corners, % disables rounded corners
-rounded corners = southeast, % "round" the bottom right corner
-arc is angular, % make the "round" corner an angle
-arc = 3mm, % controls corner cut
-boxrule=0.6pt, % sets box line thickness
-underlay={%
-\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
-\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
-\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
-},
-drop fuzzy shadow }
 
-\newtcolorbox{enfasi}{
-enhanced,
-arc=5pt,
-boxrule=0.3pt
+% ----- AMBIENTI PERSONALIZZATI -----
+\newtcolorbox{narratore}{
+	enhanced,
+	left = 9mm,
+	sharp corners,
+	rounded corners = southeast,
+	arc is angular,
+	arc = 3mm,
+	boxrule=0.6pt,
+	underlay={%
+		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2);
+		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2);
+		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+	},
+	drop fuzzy shadow
 }
 
-\usepackage{zref-savepos}
-\usepackage{listings}
-\usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
-\usepackage[framemethod=TikZ]{mdframed}
-\usepackage{fontspec}
-\setmainfont[Path=../altro/fonts/,BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,BoldFont=AtkinsonHyperlegibleNext-Bold.ttf, SmallCapsFont=ReadexPro-Regular.ttf, SmallCapsFeatures={Letters=SmallCaps}]{AtkinsonHyperlegibleNext-Regular.ttf} %togliere questa e fontspec per usare pdflatex
-%\setmainfont{Atkinson Hyperlegible Next-Regular}
-
-
-
-
+\newtcolorbox{enfasi}{
+	enhanced,
+	arc=5pt,
+	boxrule=0.3pt
+}
 
 
 
 \begin{document} 
 \def \versione {0.99.55} \fontsize{11}{11.5}\selectfont  %la prima e' la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
 
-
-
 \newcommand{\riga}{\rule{\textwidth}{0.4pt}}
-
-
-
-
-
-
-
-
-
 \titlespacing{\section}{0pt}{10pt}{5pt} % Sezione
 \titlespacing{\subsection}{0pt}{8pt}{4pt} % Sottosezione
 \titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sotto-sottosezione
 
 
-%\setlength{\partopsep}{0pt} % Spazio tra paragrafi e intestazioni
-%\setlength{\parskip}{0pt} % Spazio tra paragrafi
-%\setlength{\abovecaptionskip}{0pt} % Distanza sopra le caption
 
-
-
-
-
-\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 180 cvv.bat
+\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %deve rimanere su riga 230 cvv.bat
 
 
 \bigskip
