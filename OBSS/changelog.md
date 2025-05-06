@@ -884,7 +884,7 @@ aggiornata versione POD 2025/05/01
 
 aggiornata versione POD 2025/05/04
 
-0.99.55 migliorata struttura codice latex iniziale, aggiunta l'opzione di compilare con xelatex o pdflatex, 
+0.99.55 migliorata struttura codice latex iniziale, aggiunta l'opzione di compilare con xelatex o pdflatex, minuti aggiornamenti su porte, 
 
 
 
