@@ -884,7 +884,7 @@ aggiornata versione POD 2025/05/01
 
 aggiornata versione POD 2025/05/04
 
-0.99.55 migliorata struttura codice latex iniziale, aggiunta l'opzione di compilare con xelatex o pdflatex, minuti aggiornamenti su porte, aggiornata struttura e codice Abilità,  aggiornato indice abilita', ottimizzazioni struttura descrizione oggetti magici, 
+0.99.55 migliorata struttura codice latex iniziale, aggiunta l'opzione di compilare con xelatex o pdflatex, minuti aggiornamenti su porte, aggiornata struttura e codice Abilità,  aggiornato indice abilita', ottimizzazioni struttura descrizione oggetti magici, aggiornata grafica licenza in terza di copertina, inserito collegamento a licenza in terza di copertina, 
 
 
 
