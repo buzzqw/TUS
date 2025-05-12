@@ -880,11 +880,14 @@ aggiornata versione POD 2025/04/20
 
 aggiornata versione POD 2025/05/01
 
-0.99.54 migliorato layout mostri dato il font a 11, collegati ulteriori incantesimi a mostri, rivisto tutto il layout e ricontrollato tutti gli utilizzi di small,
+0.99.54 migliorato layout mostri dato il font a 11, collegati ulteriori incantesimi a mostri, rivisto tutto il layout e ricontrollato tutti gli utilizzi di small
 
 aggiornata versione POD 2025/05/04
 
-0.99.55 migliorata struttura codice latex iniziale, aggiunta l'opzione di compilare con xelatex o pdflatex, minuti aggiornamenti su porte, aggiornata struttura e codice Abilità,  aggiornato indice abilita', ottimizzazioni struttura descrizione oggetti magici, aggiornata grafica licenza in terza di copertina, inserito collegamento a licenza in terza di copertina, rivista completamente struttura descrizione oggetti magici, rimossi alcuni oggetti magici non in linea con l'ambientazione di base, 
+0.99.55 migliorata struttura codice latex iniziale, aggiunta l'opzione di compilare con xelatex o pdflatex, minuti aggiornamenti su porte, aggiornata struttura e codice Abilità,  aggiornato indice abilita', ottimizzazioni struttura descrizione oggetti magici, aggiornata grafica licenza in terza di copertina, inserito collegamento a licenza in terza di copertina, rivista completamente struttura descrizione oggetti magici, rimossi alcuni oggetti magici non in linea con l'ambientazione di base
+
+aggiornata versione POD 2025/05/12
+
 
 
 
