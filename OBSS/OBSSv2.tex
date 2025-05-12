@@ -75,10 +75,10 @@
 Path=../altro/fonts/,
 BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
 ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
-BoldFont=AtkinsonHyperlegibleNext-Bold.ttf, 
-SmallCapsFont=ReadexPro-Regular.ttf, 
-SmallCapsFeatures={Letters=SmallCaps}
-]{AtkinsonHyperlegibleNext-Regular.ttf}
+BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
+]{AtkinsonHyperlegibleNext-Regular.ttf} % Carica Latin Modern separatamente
+\newfontfamily\lmfont{Latin Modern Roman} % Ridefinisci il comando \textsc
+\renewcommand{\textsc}[1]{{\lmfont\scshape #1}}
 \fi
 
 % ----- IMPORTANTE: HYPERREF E BOOKMARK (DEVONO ESSERE CARICATI ALLA FINE) -----
@@ -2596,7 +2596,6 @@ Un muro con pochissimi appigli&+25\\
 Una parete naturale liscia senza appigli&+30\\
 Ti puoi appoggiare a 2 pareti opposte&-8\\
 Ti puoi appoggiare a 2 pareti angolari&-4\\
-Puoi usare una corda&-8\\
 \midrule
 \multicolumn{2}{c}{Esempi di prove con uso della corda}\\
 Usare una corda per calarsi&12\\
@@ -3555,7 +3554,7 @@ Il bonus al danno dato dalla Forza sull'arma secondaria viene dimezzato. Se l'ar
 
 E' possibile usare l'arma secondaria per migliorare la Difesa di un punto ma non si possono fare attacchi con quell'arma.
 
-\subsection{Carica} \index{Carica}\label{carica}
+\subsection{Carica} \index{Carica}\label{carica}\hypertarget{carica}{}
 
 l'avversario deve essere entro 2 Azioni di movimento (18 o 12 metri solitamente) ed a non meno di 3 metri, il terreno non deve essere difficile. Si deve correre fino ad essere a distanza di mischia.
 
@@ -22088,7 +22087,7 @@ Non applicate questa regola per attraversare terreni impraticabili o per muovers
 
 Non si può \textbf{Scattare} (Correre) su un terreno difficile, il giocatore può tentare una prova di Acrobatica a DC 20 per riuscire a correre ma non a caricare, se fallisce tratta il terreno come Difficile, se Fallisce Criticamente cade prono sul posto. \index{Scatto su terreno difficile}
 
-Non si pò \textbf{Caricare}\hyperlink{carica}{}\index{Carica su Terreno difficile} attraverso un terreno difficile a meno di avere l'Abilità \hyperlink{Rinoceronte}{Rinoceronte} (pag. \pageref{Rinoceronte}). 
+Non si può \hyperlink{carica}{\textbf{Caricare}}\index{Carica su Terreno difficile} attraverso un terreno difficile a meno di avere l'Abilità \hyperlink{Rinoceronte}{Rinoceronte} (pag. \pageref{Rinoceronte}). 
 
 Muoversi da prono\index{Muoversi da prono}\index{Muoversi a carponi}, Nuotare o Strisciare\index{Strisciare} è considerato terreno difficile, Arrampicarsi è doppiamente difficile.
 
