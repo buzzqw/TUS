@@ -888,7 +888,7 @@ aggiornata versione POD 2025/05/04
 
 aggiornata versione POD 2025/05/12
 
-0.99.56 corretto hyperlink mancante a carica, ottimizzazione codice latex per smallcaps, prima beta della nuova versione inglese, chiarimenti su incantesimo paura, aggiornato screenv2-eng, aggiornata scheda eng, massivo aggiornamento a manuale in inglese, 
+0.99.56 corretto hyperlink mancante a carica, ottimizzazione codice latex per smallcaps, prima beta della nuova versione inglese, chiarimenti su incantesimo paura, aggiornato screenv2-eng, aggiornata scheda eng, massivo aggiornamento a manuale in inglese, massivo aggiornamento a manuale in inglese (claude 3.7),
 
 
 > valutare:
