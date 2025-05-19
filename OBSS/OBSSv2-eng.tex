@@ -45841,32 +45841,38 @@ The blue point determines the origin of the spell
 \textbf{Example of Flanking}
 
 	\begin{tikzpicture}[scale=0.7]
-	% Disegna il reticolato 4x4
-	\foreach \i in {0,...,4} {
-		\draw[thick] (\i,0) -- (\i,4);
-		\draw[thick] (0,\i) -- (4,\i);
+% Disegna il reticolato 4x4
+\foreach \i in {0,...,4} {
+	\draw[thick] (\i,0) -- (\i,4);
+	\draw[thick] (0,\i) -- (4,\i);
+}
+
+% Colora i quadrati 2, 3, 14 e 15 di arancione
+\fill[orange!60, opacity=0.7] (1,3) rectangle (2,4); % quadrato 2
+\fill[orange!60, opacity=0.7] (2,3) rectangle (3,4); % quadrato 3
+\fill[orange!60, opacity=0.7] (1,0) rectangle (2,1); % quadrato 14
+\fill[orange!60, opacity=0.7] (2,0) rectangle (3,1); % quadrato 15
+
+% Traccia linee dritte che attraversano i quadrati
+% Linea dal 3 al 14
+\draw[red, ultra thick] (2.5,3.5) -- (1.5,0.5);
+
+% Linea dal 2 al 15
+\draw[blue, ultra thick] (1.5,3.5) -- (2.5,0.5);
+
+% Nuova linea da 4 a 13 (nera)
+\draw[black, ultra thick] (3.5,3.5) -- (0.5,0.5);
+
+% Nuova linea da 1 a 16 (gialla)
+\draw[yellow!80!black, ultra thick] (0.5,3.5) -- (3.5,0.5);
+
+% Numera i quadrati da 1 a 16
+\foreach \i in {0,...,3} {
+	\foreach \j in {0,...,3} {
+		\pgfmathtruncatemacro{\num}{4*(3-\j)+\i+1}
+		\node at (\i+0.5,\j+0.5) {\Large \num};
 	}
-	
-	% Colora i quadrati 2, 3, 14 e 15 di arancione
-	\fill[orange!60, opacity=0.7] (1,3) rectangle (2,4); % quadrato 2
-	\fill[orange!60, opacity=0.7] (2,3) rectangle (3,4); % quadrato 3
-	\fill[orange!60, opacity=0.7] (1,0) rectangle (2,1); % quadrato 14
-	\fill[orange!60, opacity=0.7] (2,0) rectangle (3,1); % quadrato 15
-	
-	% Traccia linee dritte che attraversano i quadrati
-	% Linea dal 3 al 14
-	\draw[red, ultra thick] (2.5,3.5) -- (1.5,0.5);
-	
-	% Linea dal 2 al 15
-	\draw[blue, ultra thick] (1.5,3.5) -- (2.5,0.5);
-	
-	% Numera i quadrati da 1 a 16
-	\foreach \i in {0,...,3} {
-		\foreach \j in {0,...,3} {
-			\pgfmathtruncatemacro{\num}{4*(3-\j)+\i+1}
-			\node at (\i+0.5,\j+0.5) {\Large \num};
-		}
-	}
+}
 	
 \end{tikzpicture}
 
