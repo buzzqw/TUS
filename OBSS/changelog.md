@@ -890,6 +890,10 @@ aggiornata versione POD 2025/05/12
 
 0.99.56 corretto hyperlink mancante a carica, ottimizzazione codice latex per smallcaps, prima beta della nuova versione inglese, chiarimenti su incantesimo paura, aggiornato screenv2-eng, aggiornata scheda eng, massivo aggiornamento a manuale in inglese, massivo aggiornamento a manuale in inglese (claude 3.7), primo aggiornamento liste incantesimi, aggiunto esempio di flanking, ottimizzazioni layout inglese, rimossi 2 giochi non relativi all'ambientazione,  corretta imprecisione su arrampicarsi con una corda, ottimizzazioni layout
 
+aggiornata versione POD 2025/05/20
+
+0.99.57 migliorata gestione layout nei TS, miglioramenti in file traduzione inglese, 
+
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
