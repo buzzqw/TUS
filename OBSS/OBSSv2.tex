@@ -33,7 +33,7 @@
 
 % ----- PACCHETTI PER TABELLE -----
 \usepackage{booktabs,multirow}
-\usepackage{xltabular,xtab,tabularx}
+\usepackage{xltabular,tabularx}
 \usepackage{longtable}
 
 % ----- PACCHETTI PER GRAFICA E COLORI -----
@@ -217,13 +217,13 @@ BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
 	boxrule=0.3pt
 }
 
+
 \begin{document}
 \def \versione {0.99.57} \fontsize{11}{11.5}\selectfont  %la prima e' la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
 
 \titlespacing{\section}{0pt}{10pt}{5pt} % Sezione
 \titlespacing{\subsection}{0pt}{8pt}{4pt} % Sottosezione
 \titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sotto-sottosezione
-
 
 
 
@@ -18521,79 +18521,138 @@ Birra Caraffa & 2 ma & L\\
 Boccale di ceramica & 2 mr & L \\ 
 Boccetta di inchiostro o pozione & 1 mo & L\\
 Borsa & 5 ma & L \\ 
+Alchimista (laboratorio) & 200 mo & 5 \\
+Borsa da cintura (vuota) & 1 mo & L \\
+Borsa da Guaritore & 20 mo & 1 \\
 \end{tabular}
 
-\end{multicols}
+\columnbreak
 
 \noindent
-\begin{longtable}{llc|llc}
+\noindent\begin{tabular}{p{5cm}p{1.5cm}p{0.7cm}}
+\toprule
+\textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\
+\midrule
+Borsa dei Componenti & 25 mo & L \\
+Bottiglia di vetro & 2 mo & L \\
+Brocca di ceramica (5lt) & 2 mr & L \\
+Campanella & 1 mo & - \\
+Candela & 1 mr & - \\
+Canna da pesca & 1 mo & 1 \\
+Cannocchiale & 900 mo & 1 \\
+Caraffa di ceramica & 2 mr & L \\
+Carne (1 pezzo) & 3 ma & L \\
+Carretto & 15 mo & 10 \\
+Carro & 35 mo & - \\
+Carrozza & 300 mo & - \\
+Carrucola e paranco & 20 mo & 2 \\
+Carta (foglio) & 4 ma & - \\
+Cassa (vuota) & 2 mo & 3 \\
+Catena (3 m) & 30 mo & 1 \\
+Ceralacca & 1 mo & - \\
+Cerata & 5 ma & 1 \\
+Cesto (vuoto) & 4 ma & 1 \\
+Chiodo da rocciatore & 1 ma & L \\
+Cintura porta oggetti & 2 mo & L \\
+Clessidra & 25 mo & - \\
+Coperta invernale & 5 ma & 1 \\
+Corda di canapa (15 m) & 1 mo & 1 \\
+Corda di canapa grossa (15 m) & 2 mo & 2 \\
+Corda di seta di ragno (15 m) & 10 mo & L \\
+Cote per affilare & 2 mr & L \\
+Custodia per pergamene & 1 mo & 1 \\
+Esca ed Acciarino & 5 ma & L \\
+Faretra & 3 mo & 1 \\
+Fischietto & 8 ma & - \\
+Formaggio (1 pezzo) & 1 ma & - \\
+Forziere & 5 mo & 4 \\
+Fuoco dell'Alchimista (ampolla) & 20 mo & L \\
+Galea & 30k mo & - \\
+Gancio di metallo & 1 mo & L \\
+Gessetto (1 pezzo) & 1 mr & - \\
+Giaciglio & 1 ma & 1 \\
+Inchiostro (boccetta da 30 g) & 8 mo & - \\
+Lanterna & 1 mo & 2 \\
+Lanterna a lente sporgente & 12 mo & 1 \\
+Lanterna schermabile & 7 mo & 1 \\
+Legna da ardere (per giorno) & 1 mr & 4 \\
+Lente del cacciatore & 100 mo & - \\
+Locanda Buona (dormire) & 2 mo & - \\
+Locanda Modesta (dormire) & 5 ma & - \\
+Locanda Scadente (dormire) & 2 ma & - \\
+Maglio & 1 mo & 2 \\
+Manette & 15 mo & L \\
+Martello & 5 ma & 1 \\
+Morso e briglie & 2 mo & 1 \\
+Nave a vela & 10k mo & - \\
+Nave da guerra & 25k mo & - \\
+Nave lunga & 10k mo & - \\
+Olio da lanterna & 1 ma & 1 \\
+Orologio ad acqua & 900 mo & - \\
+Otre & 1 mo & 2 \\
+Pala o badile & 2 mo & 1 \\
+Pane (a pagnotta) & 2 mr & - \\
+Pasti (al giorno) Buono & 5 ma & - \\
+Pasti (al giorno) Modesto & 3 ma & - \\
+Pasti (al giorno) Povero & 6 mr & - \\
+\end{tabular}
+\noindent\begin{tabular}{p{5.1cm}p{1.5cm}p{0.7cm}}
+\toprule
+\textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\
+\midrule
+Peluche & 2 ma & - \\
+Pennino & 1 ma & - \\
+Pentola di ferro & 8 ma & 1 \\
+Pergamena (Foglio) & 2 ma & - \\
+Piccone da minatore & 3 mo & 2 \\
+Piede di porco & 2 mo & 1 \\
+Pozione di Cura & 50 mo & L \\
+Pozione di Cura potenziata & 125 mo & L \\
+Profumo & 5 mo & L \\
+Rampino & 1 mo & 1 \\
+Razioni da viaggio (al giorno) & 3 ma & L \\
+Remo & 2 mo & 2 \\
+Rete da pesca (2,25 m) & 4 mo & 1 \\
+Sacche da sella & 4 mo & 2 \\
+Sacco (vuoto) & 1 ma & L \\
+Sacco a pelo & 3 mo & 2 \\
+Sapone (per 0,5 kg) & 5 ma & - \\
+Scala a pioli (3 m) & 2 ma & 3 \\
+Secchio (vuoto) & 5 ma & L \\
+Sella Da galoppo & 30 mo & 2 \\
+Sella da carico & 15 mo & 2 \\
+Sella esotica & 60 mo & 3 \\
+Sella Militare & 50 mo & 3 \\
+Serratura/lucchetto Media & 40 mo & - \\
+Serratura/lucchetto Semplice & 20 mo & - \\
+Serratura/lucchetto Superiore & 150 mo & - \\
+Sfere Metalliche (100) & 3 mo & 1 \\
+Simbolo sacro d'argento & 25 mo & L \\
+Simbolo sacro di legno & 1 mo & L \\
+Slitta & 20 mo & 3 \\
+Specchio piccolo di metallo & 10 mo & L \\
+Stallaggio (al giorno) & 1 ma & - \\
+Strumento musicale comune & 5 mo & 2 \\
+Tagliola & 5 mo & 3 \\
+Tela (per mq) & 1 ma & L \\
+Tenda & 10 mo & 3 \\
+Torcia & 1 ma & 1 \\
+Tribolo (20) & 1 ma & L \\
+Trucchi per il camuffamento & 50 mo & L \\
+Vanga o Badile & 1 mo & 1 \\
+Veste da Devoto & 5 mo & 1 \\
+Vino Buono (bottiglia) & 10 mo & 1 \\
+Vino della casa (caraffa) & 2 ma & 1 \\
+Zaino & 2 mo & 1 \\
+\end{tabular}
 
-\textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} & \textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\ 
-Borsa da cintura (vuota) & 1 mo & L & Borsa dei Componenti & 25 mo & L \\ 
-Borsa da Guaritore & 20 mo & 1 & Bottiglia di vetro & 2 mo & L \\ 
-Brocca di ceramica(5lt) & 2 mr & L & Campanella & 1 mo & - \\ 
-Candela & 1 mr & - & Canna da pesca & 1 mo & 1 \\ 
-Cannocchiale & 900 mo & 1 & Caraffa di ceramica & 2 mr & L \\ 
-Carne (1 pezzo) & 3 ma & L & Carretto & 15 mo & 10 \\ 
-Carro & 35 mo & - & Carrozza & 300 mo & - \\ 
-Carrucola e paranco & 20 mo & 2 & Carta (foglio) & 4 ma & - \\ 
-Cassa (vuota) & 2 mo & 3 & Catena (3 m) & 30 mo & 1 \\ 
-Ceralacca & 1 mo & - & Cerata & 5 ma & 1 \\ 
-Cesto (vuoto) & 4 ma & 1 & Chiodo da rocciatore & 1 ma & L \\ 
-Cintura porta oggetti & 2 mo & L & Clessidra & 25 mo & - \\ 
-Coperta invernale & 5 ma & 1 & Corda di canapa (15 m) & 1 mo & 1 \\ 
-Corda di canapa grossa (15 m) & 2 mo & 2 & Corda di seta di ragno (15 m) & 10 mo & L \\ 
-Cote per affilare & 2 mr & L & Custodia per pergamene & 1 mo & 1 \\ 
-Esca ed Acciarino & 5 ma & L & Faretra & 3 mo & 1 \\ 
-Fischietto & 8 ma & - & Formaggio (1 pezzo) & 1 ma & - \\ 
-Forziere & 5 mo & 4 & Fuoco dell'Alchimista (ampolla) & 20 mo & L \\ 
-Galea & 30k mo & - & Gancio di metallo & 1 mo & L \\ 
-Gessetto, (1 pezzo) & 1 mr & - & Giaciglio & 1 ma & 1 \\ 
-Inchiostro (boccetta da 30 g) & 8 mo & - & Laboratorio da alchimista & 200 mo & 5 \\ 
-Lanterna & 1 mo & 2 & Lanterna a lente sporgente & 12 mo & 1 \\ 
-Lanterna schermabile & 7 mo & 1 & Legna da ardere (per giorno) & 1 mr & 4 \\ 
-Lente del cacciatore & 100 mo & - & Locanda Buona (dormire) & 2 mo & - \\ 
-Locanda Modesta (dormire) & 5 ma & - & Locanda Scadente (dormire) & 2 ma & - \\ 
-Maglio & 1 mo & 2 & Manette & 15 mo & L \\ 
-Martello & 5 ma & 1 & Morso e briglie & 2 mo & 1 \\ 
-Nave a vela & 10k mo & - & Nave da guerra & 25k mo & - \\ 
-Nave lunga & 10k mo & - & Olio da lanterna & 1 ma & 1 \\ 
-Orologio ad acqua & 900 mo & - & Otre & 1 mo & 2 \\ 
-Pala o badile & 2 mo & 1 & Pane (a pagnotta) & 2 mr & - \\ 
-Pasti (al giorno) Buono & 5 ma & - & Pasti (al giorno) Modesto & 3 ma & - \\ 
-Pasti (al giorno) Povero & 6 mr & - & Peluche & 2 ma & - \\ 
-Pennino & 1 ma & - & Pentola di ferro & 8 ma & 1 \\ 
-Pergamena (Foglio) & 2 ma & - & Piccone da minatore & 3 mo & 2 \\ 
-Piede di porco & 2 mo & 1 & Pozione di Cura & 50 mo & L \\ 
-Pozione di Cura potenziata & 125 mo & L & Profumo & 5 mo & L \\ 
-Rampino & 1 mo & 1 & Razioni da viaggio (al giorno) & 3 ma & L \\ 
-Remo & 2 mo & 2 & Rete da pesca (2,25 m) & 4 mo & 1 \\ 
-Sacche da sella & 4 mo & 2 & Sacco (vuoto) & 1 ma & L \\ 
-Sacco a pelo & 3 mo & 2 & Sapone (per 0,5 kg) & 5 ma & - \\ 
-Scala a pioli (3 m) & 2 ma & 3 & Secchio (vuoto) & 5 ma & L \\ 
-Sella Da galoppo & 30 mo & 2 & Sella Militare & 50 mo & 3 \\ 
-Sella da carico & 15 mo & 2 & Sella esotica & 60 mo & 3 \\ 
-Serratura/lucchetto Media & 40 mo & - & Serratura/lucchetto Semplice & 20 mo & - \\ 
-Serratura/lucchetto Superiore & 150 mo & - & Sfere Metalliche (100) & 3 mo & 1 \\ 
-Simbolo sacro d'argento & 25 mo & L & Simbolo sacro di legno & 1 mo & L \\ 
-Slitta & 20 mo & 3 & Specchio piccolo di metallo & 10 mo & L \\ 
-Stallaggio (al giorno) & 1 ma & - & Strumento musicale comune & 5 mo & 2 \\ 
-Tagliola & 5 mo & 3 & Tela (per mq) & 1 ma & L \\ 
-Tenda & 10 mo & 3 & Manette & 15 mo & L \\ 
-Torcia & 1 ma & 1 & Tribolo (20) & 1 ma & L \\ 
-Trucchi per il camuffamento & 50 mo & L & Vanga o Badile & 1 mo & 1 \\ 
-Veste da Devoto & 5 mo & 1 & Vino Buono (bottiglia) & 10 mo & 1 \\ 
-Vino della casa (caraffa) & 2 ma & 1 & Zaino & 2 mo & 1 \\ 
-\end{longtable}
-
-
-
-\begin{multicols}{2}
-
+\medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthur C. Clarke, da Profiles of the Future)
 }\end{enfasi}\end{changemargin}
+
+\medskip
 
 \textbf{Acido Intenso}\label{Acido Intenso}\index{Acido intenso}\hypertarget{Acido Intenso}{}. Con un'Azione, puoi spargere il contenuto di questa fiala su di una creatura entro 1 metro da te o lanciare la fiala fino a 6 metri, fracassandola all'impatto. In entrambi i casi, effettua un Tiro per Colpire a distanza contro la creatura o l'oggetto, trattando l'acido come un'\hyperlink{armaimprovvisata}{arma improvvisata}. Se colpisci, il bersaglio subisce 2d6 danni da acido il primo round ed 1d6 il secondo round.
 
@@ -18818,9 +18877,10 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 
 \textbf{Bardatura}. Una bardatura è un'armatura concepita per proteggere la testa, il collo, il petto e il corpo di un animale. Ogni tipo di armatura elencato nella tabella Armature di questo capitolo può essere acquistata come bardatura. Il costo è pari al quadruplo dell'armatura equivalente fabbricata per gli umanoidi, mentre il peso è pari al doppio, in caso di animali di taglia grande. Vedi anche \hyperlink{ArmaturedaCavallo}{Bardature da Cavalcatura}, pag. \pageref{ArmaturedaCavallo}.
 
+\bigskip
 
 \begin{center}
-\includegraphics[width=0.65\linewidth]{immagini/bardatura.png}
+\includegraphics[width=0.8\linewidth]{immagini/bardatura.png}
 
 \emph{Bardatura completa}
 \end{center}
@@ -18896,7 +18956,7 @@ Nave Lunga&10000 mo&4,5 km orari
 \medskip
 
 \begin{center}
-	\includegraphics[height=0.7\linewidth]{immagini/sella2.png}
+	\includegraphics[height=0.8\linewidth]{immagini/sella2.png}
 \end{center}
 
 \subsubsection{Servizi}\index{Servizi}
@@ -18937,7 +18997,7 @@ Non tutti i villaggi e i paesi hanno un incantatore abbastanza capace a manipola
 
 
 \begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/riempitivocavalieriapranzo.png}
+\includegraphics[width=0.8\linewidth]{immagini/riempitivocavalieriapranzo.png}
 \end{center}
 
 
@@ -18971,7 +19031,7 @@ Il colpo diretto provoca 1d6 danni da fuoco. Tutte le creature entro raggio di m
 
 \textbf{Ghiaccio Liquido} (fiala) 40 mo, detto anche \emph{ghiaccio dell'alchimista}, questo fluido blu cristallino inizia ad evaporare appena tolto dal contenitore. Nei successivi 1d6 round è possibile utilizzarlo per congelare un liquido o coprire un oggetto con un sottile strato di ghiaccio. E' possibile anche lanciare il ghiaccio liquido come arma a spargimento. Un colpo diretto infligge 1d6 danni da freddo, mentre le creature entro raggio di mischia subiscono 1 danno da freddo per lo spargimento. La confezione contiene 3 dosi.
 
-\textbf{Grasso Alchemico} 5 mo, ogni vaso di questa sostanza nerastra può coprire una creatura Media o due Piccole. Coprendosi di grasso alchemico si ottiene Bonus +4 alle prove di lotta e per sfuggire alle prese. L'effetto dura 4 ore o finché si lava via il grasso.
+\textbf{Grasso Alchemico} 5 mo, ogni vaso di questa sostanza nerastra può coprire una creatura Media o due Piccole. Coprendosi di grasso alchemico si ottiene Bonus +4 alle prove di sfuggire alle prese. L'effetto dura 4 ore o finché si lava via il grasso.
 
 \textbf{Individua Luce} 1 mo, questa piastra di metallo grande quanto una mano è coperta da una crema trasparente sensibile alla luce. Se esposta alla luce, la crema si scurisce e diviene opaca a seconda di quanta luce sia presente. La luce intensa la fa scurire in 1 round, quella normale in 3 round, quella fioca in 10 round.
 La piastra viene venduta avvolta in un panno pesante per evitare esposizioni accidentali.
