@@ -10,7 +10,6 @@
 \usepackage[a4paper]{geometry}
 \geometry{tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
 
-
 % ----- BASE PACKAGES -----
 \usepackage[english]{babel}
 \usepackage{setspace}
@@ -30,7 +29,6 @@
 \usepackage{cancel}
 \usepackage{adjustbox}
 %line 32 is empty for no image
-
 
 % ----- PACKAGES FOR TABLES -----
 \usepackage{booktabs,multirow}
@@ -125,9 +123,6 @@ BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
 \CountIndexOccurrences{MagicItems}
 \CountIndexOccurrences{Feat}
 
-
-
-
 \def\TotalBox#1{\vfill%
 	\fbox{There are \expandafter\the\csname #1\endcsname\ entries in this index}\par}
 
@@ -221,7 +216,6 @@ BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
 	boxrule=0.3pt
 }
 
-
 % Aggiungere al preambolo per migliorare la gestione del testo
 \usepackage[final,protrusion=true]{microtype}
 %\sloppy
@@ -232,9 +226,6 @@ BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
 \titlespacing{\section}{0pt}{10pt}{5pt} % Section
 \titlespacing{\subsection}{0pt}{8pt}{4pt} % Subsection
 \titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sub-subsection
-
-
-
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %must remain on line 230
 
