@@ -26,7 +26,6 @@
 \usepackage{titlesec}
 \usepackage{array}
 \usepackage{enumitem}
-\usepackage{cancel}
 \usepackage{adjustbox}
 %la riga 32 e' vuota per il no image
 
@@ -34,7 +33,7 @@
 % ----- PACCHETTI PER TABELLE -----
 \usepackage{booktabs,multirow}
 \usepackage{xltabular,tabularx}
-\usepackage{longtable}
+
 
 % ----- PACCHETTI PER GRAFICA E COLORI -----
 \usepackage{tikz}
@@ -50,10 +49,9 @@
 \usepackage{makeidx,index,imakeidx}
 
 % ----- PACCHETTI VARI -----
+\usepackage{soul}
 \usepackage{pdfpages}
 \usepackage{etoolbox}
-\usepackage{soul}
-\usepackage{GoudyIn}
 \usepackage{listings}
 \usepackage{zref-savepos}
 \usepackage[absolute,overlay]{textpos}
@@ -224,6 +222,8 @@ BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
 \titlespacing{\section}{0pt}{10pt}{5pt} % Sezione
 \titlespacing{\subsection}{0pt}{8pt}{4pt} % Sottosezione
 \titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sotto-sottosezione
+
+
 
 
 
@@ -1383,11 +1383,11 @@ La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabell
 \medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tiriamo le Caratteristiche di Tups]
-		\textbf{Prima terzina}: \cancel{1},1,4,3 totale 8. Forza è -1
+		\textbf{Prima terzina}: \st{1},1,4,3 totale 8. Forza è -1
 		
 		\textbf{Seconda}: 5,6,6 totale 17. Destrezza è +2
 		
-		\textbf{Terza}: \cancel{1},2,1,4 totale 7. Costituzione è -1
+		\textbf{Terza}: \st{1},2,1,4 totale 7. Costituzione è -1
 		
 		\textbf{Quarta}: 6,6,6 totale 18. Intelligenza è +3
 		
@@ -18248,9 +18248,9 @@ Tutte le Armature, ad esclusione dell'armatura Imbottita forzano chi lancia inca
 
 Es. Tups indossa una armatura Pettorale e lancia un incantesimo. E' obbligato dal portare l'armatura ad effettuare la Prova di Magia. Tira 3d6 +4 dadi (perché ha 9 punti in CM), ignora 2 dadi (perché ha preso 4 volte Adepto della Magia) ma aggiunge un dado che è come avesse già fatto 2 (per l'armatura Pettorale).
 
-Nella prova esce 4,5,2 / 3,4,\cancel{1},\cancel{1}. Toglie i due 1 per Adepto della Magia ma aggiunge un 2 per l'armatura. Nel complesso non ha ottenuto fallimenti critici, grazie ai dadi tolti da Adepto della Magia, ne può ottenere successi critici. Riesce quindi a formulare l'incantesimo (ha ottenuto un 2 e nessun altro 2 o 1).
+Nella prova esce 4,5,2 / 3,4,\st{1},\st{1}. Toglie i due 1 per Adepto della Magia ma aggiunge un 2 per l'armatura. Nel complesso non ha ottenuto fallimenti critici, grazie ai dadi tolti da Adepto della Magia, ne può ottenere successi critici. Riesce quindi a formulare l'incantesimo (ha ottenuto un 2 e nessun altro 2 o 1).
 
-Se Tups avesse indossato una Mezza armatura la prova sarebbe stata 4,5,2 / 3,4,\cancel{1},\cancel{1} / 1,2 (dall'armatura). Anche togliendo i due 2 rimane un 1 e due 2, abbastanza per fare fallire la Prova di Magia e quindi fallire il lancio dell'incantesimo.
+Se Tups avesse indossato una Mezza armatura la prova sarebbe stata 4,5,2 / 3,4,\st{1},\st{1} / 1,2 (dall'armatura). Anche togliendo i due 2 rimane un 1 e due 2, abbastanza per fare fallire la Prova di Magia e quindi fallire il lancio dell'incantesimo.
 
 Anche se è il giocatore a richiedere una Prova di Magia, si eseguirà la prova con i valori dovuti ad armatura e/o scudi. \textbf{Il portare l'armatura o scudo negherà qualsiasi successo magico critico ottenuto ma non impedirà i fallimenti magici critici}.
 
@@ -18354,7 +18354,7 @@ Imbracciare uno scudo occupa la mano ed il braccio.
 
 \label{tabella-scudi}
 
-\begin{tabular}{lcccccc}
+\noindent\begin{tabular}{lcccccc}
 \textbf{Scudi} & \textbf{Costo} & \textbf{Bonus Difesa} & \textbf{penalità TC} & \textbf{Prova magia} & \textbf{Tipo} & \textbf{Ingombro}\\
 \toprule
 Scudo leggero di legno& 3 mo&1& 0& SI& L & 1\\

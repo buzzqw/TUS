@@ -26,9 +26,9 @@
 \usepackage{titlesec}
 \usepackage{array}
 \usepackage{enumitem}
-\usepackage{cancel}
 \usepackage{adjustbox}
 %line 32 is empty for no image
+
 
 % ----- PACKAGES FOR TABLES -----
 \usepackage{booktabs,multirow}
@@ -1532,11 +1532,11 @@ The sum of the dice rolled for the Ability Scores is compared with this table to
 \medskip
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Let's Roll Ability Scores for Tups]
-		\textbf{First set}: \cancel{1},1,4,3 total 8. Strength is -1
+		\textbf{First set}: \st{1},1,4,3 total 8. Strength is -1
 		
 		\textbf{Second}: 5,6,6 total 17. Dexterity is +2
 		
-		\textbf{Third}: \cancel{1},2,1,4 total 7. Constitution is -1
+		\textbf{Third}: \st{1},2,1,4 total 7. Constitution is -1
 		
 		\textbf{Fourth}: 6,6,6 total 18. Intelligence is +3
 		
@@ -18993,9 +18993,9 @@ All Armor, excluding Padded armor, forces anyone casting spells to pass a Magic 
 
 E.g., Tups wears a Breastplate armor and casts a spell. He is obliged by wearing the armor to make the Magic Check. He rolls 3d6 +4 dice (because he has 9 points in MP), ignores 2 dice (because he has taken Magic Adept 4 times) but adds a die that is as if he had already rolled a 2 (for the Breastplate armor).
 
-In the check, he gets 4,5,2 / 3,4,\cancel{1},\cancel{1}. He removes the two 1s for Magic Adept but adds a 2 for the armor. Overall, he has not obtained critical failures, thanks to the dice removed by Magic Adept, nor can he obtain critical successes. He therefore manages to formulate the spell (he obtained a 2 and no other 2 or 1).
+In the check, he gets 4,5,2 / 3,4,\st{1},\st{1}. He removes the two 1s for Magic Adept but adds a 2 for the armor. Overall, he has not obtained critical failures, thanks to the dice removed by Magic Adept, nor can he obtain critical successes. He therefore manages to formulate the spell (he obtained a 2 and no other 2 or 1).
 
-If Tups had worn Half plate armor, the check would have been 4,5,2 / 3,4,\cancel{1},\cancel{1} / 1,2 (from the armor). Even removing the two 2s, a 1 and two 2s remain, enough to make the Magic Check fail and therefore fail the spell casting.
+If Tups had worn Half plate armor, the check would have been 4,5,2 / 3,4,\st{1},\st{1} / 1,2 (from the armor). Even removing the two 2s, a 1 and two 2s remain, enough to make the Magic Check fail and therefore fail the spell casting.
 
 Even if it is the player who requests a Magic Check, the check will be performed with the values due to armor and/or shields. \textbf{Wearing armor or shield will negate any critical magical success obtained but will not prevent critical magical failures}.
 
@@ -19118,8 +19118,8 @@ Wielding a shield occupies the hand and arm.
 
 \label{tabella-scudi}
 
-\begin{tabular}{lcccccc}
-\textbf{Shields} & \textbf{Cost} & \textbf{Defense Bonus} & \textbf{AR penalty} & \textbf{Magic check} & \textbf{Type} & \textbf{Encumbrance}\\
+\noindent\begin{tabular}{lcccccc}
+\textbf{Shields} & \textbf{Cost} & \textbf{Defense Bonus} & \textbf{AR penalty} & \textbf{Magic check} & \textbf{Type} & \textbf{Encumb.}\\
 \toprule
 Light wooden shield& 3 gp&1& 0& YES& L & 1\\
 Light metal shield & 9 gp&1& 0& YES& L& 1\\
