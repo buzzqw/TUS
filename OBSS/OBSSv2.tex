@@ -60,12 +60,12 @@
 \ifpdflatexengine
 % Configurazione font per pdfLaTeX
 \usepackage[T1]{fontenc}
-\usepackage{lmodern} % Latin Modern come font alternativo
-\usepackage{textcomp}
+%\usepackage{lmodern} % Latin Modern come font alternativo
+%\usepackage{textcomp}
 % Puoi usare altri font disponibili in pdfLaTeX, come:
 % \usepackage{palatino}
 % \usepackage{bookman}
-% \usepackage{libertine}
+ \usepackage{libertine}
 \else
 % Fontspec usato solo con XeLaTeX o LuaLaTeX
 \usepackage{fontspec}
@@ -571,7 +571,7 @@ Ad ogni passaggio di livello si guadagna un certo numero di Punti Ferita, stabil
 
 Se si viene ulteriormente feriti ed i Punti Ferita scendono fino 10+valore doppio della Costituzione allora si muore.
 
-\textbf{Riduzione del Danno (DR)}: \index{Riduzione del Danno} \index{DR} alcune creature hanno una resistenza innata al danno e ferite. Questa resistenza si denota come DR.
+\textbf{Riduzione del Danno (DR)}: \index{Riduzione del Danno} \index{DR} alcune creature hanno una resistenza innata al danno e ferite. Questa resistenza si denota come DR. La Riduzione si applica dopo la Resistenza ed i Tiri Salvezza.
 
 \textbf{Resistenza al Danno (RD)}, \textbf{Resistenza}: \index{Resistenza al Danno}\index{RD}: una creatura potrebbe avere una resistenza ad una tipologia di danno. In questo caso si considera che dimezzi automaticamente il danno subito prima di applicare eventuali Tiri Salvezza.
 
@@ -8010,7 +8010,7 @@ Se una capacità ignora la resistenza al danno passerà la resistenza anche se h
 
 Determinate creature o Abilità conferiscono la capacità soprannaturale di resistere al danno di certe tipologie di armi o fino ad un certo ammontare (per attacco).
 
-Solitamente assume il valore di XX/ZZ ovvero quanto danno (XX) è ignorato se non si è attaccati con (ZZ). Ignorare il danno significa anche che effetti connessi all'attacco non funzionano, come veleni sull'arma.
+Solitamente assume il valore di XX/ZZ ovvero quanto danno (XX) è ignorato se non si è attaccati con (ZZ). Ignorare il danno significa anche che effetti connessi all'attacco non funzionano, come veleni sull'arma. La Riduzione si applica dopo Resistenze e Tiri Salvezza.
 
 \begin{center}
 %\includegraphics[width=0.8\linewidth]{immagini/morteachille.png}
