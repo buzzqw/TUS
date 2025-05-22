@@ -892,7 +892,7 @@ aggiornata versione POD 2025/05/12
 
 aggiornata versione POD 2025/05/20
 
-0.99.57 migliorata gestione layout nei TS, miglioramenti in file traduzione inglese, aggiornato label english, aggiornati ringraziamenti, ottimizzato layout incantesimi, ottimizzazione geometria, ottimizzata gestione tabelle in equipaggiamento, migliorato codice latex nell'utilizzo di \st \cancel, aggiornata scheda in manuale inglese, 
+0.99.57 migliorata gestione layout nei TS, miglioramenti in file traduzione inglese, aggiornato label english, aggiornati ringraziamenti, ottimizzato layout incantesimi, ottimizzazione geometria, ottimizzata gestione tabelle in equipaggiamento, migliorato codice latex nell'utilizzo di \st \cancel, aggiornata scheda in manuale inglese, aggiunta citazione di voltaire, 
 
 
 > valutare:
