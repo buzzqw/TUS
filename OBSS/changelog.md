@@ -892,7 +892,7 @@ aggiornata versione POD 2025/05/12
 
 aggiornata versione POD 2025/05/20
 
-0.99.57 migliorata gestione layout nei TS, miglioramenti in file traduzione inglese, aggiornato label english, aggiornati ringraziamenti, ottimizzato layout incantesimi, ottimizzazione geometria, ottimizzata gestione tabelle in equipaggiamento, migliorato codice latex nell'utilizzo di \st \cancel, aggiornata scheda in manuale inglese, aggiunta citazione di voltaire, in che ordine si applica riduzione del danno e resistenza al danno, 
+0.99.57 migliorata gestione layout nei TS, miglioramenti in file traduzione inglese, aggiornato label english, aggiornati ringraziamenti, ottimizzato layout incantesimi, ottimizzazione geometria, ottimizzata gestione tabelle in equipaggiamento, migliorato codice latex nell'utilizzo di \st \cancel, aggiornata scheda in manuale inglese, aggiunta citazione di voltaire, in che ordine si applica riduzione del danno e resistenza al danno, chiarimenti su trasformazione in taglia grande del golian, corretto esempio Tups passa di livello, aggiunta regola opzionale per Sistema di Integrazione MBTI per Tratti Caratteriali e Affinità con i Patroni, ottimizzato layout, 
 
 
 > valutare:
