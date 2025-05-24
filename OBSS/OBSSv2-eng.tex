@@ -17,16 +17,16 @@
 \usepackage{tocloft}
 \usepackage{caption}
 \usepackage{ragged2e}
-\usepackage{quoting}
-\usepackage{amssymb}
-\usepackage{siunitx}
+\usepackage{quoting,enumitem}
+\usepackage{amssymb,siunitx}
 \usepackage{multicol}
 \usepackage{wrapfig}
 \usepackage{url}
 \usepackage{titlesec}
 \usepackage{array}
-\usepackage{enumitem}
 \usepackage{adjustbox}
+\usepackage[backend=biber,style=verbose-note]{biblatex}
+\addbibresource{bibliography.bib}
 %line 32 is empty for no image
 
 
@@ -1801,281 +1801,354 @@ If the character is completely different from their Traits, they will not gain e
 
 \pagebreak
 
-\section{Optional (Advanced) - MBTI Integration System for Character Traits and Patron Affinities}
+\section{Optional - Character Archetype}
 
 \begin{multicols}{2}
+	
+This option presents a system that integrates Jungian archetypes with the existing framework of character Traits and Patrons. Drawing inspiration from Carl Jung's archetypes  \autocite{jung1971} and the Myers-Briggs Type Indicator (MBTI) \autocite{myers1995}, these are 21 distinct archetypal patterns that can be used for character creation, development, and storytelling purposes.
 
-\section*{Introduction}
-This system integrates the Myers-Briggs Type Indicator (MBTI) personality typology with the existing Traits and Patrons framework, creating deeper character development opportunities and richer roleplaying experiences. The integration provides natural pathways for character development and suggests Patron affinities based on psychological tendencies.
+Each archetype is presented with a set of recommended Traits that naturally align with that archetypal energy, along with Traits that are generally incompatible or actively contradictory to the archetype's core nature. Additionally are listed which Patrons share at least two Traits (and thus being a Devotee) with each archetype, suggesting natural spiritual affinities.
 
-\section*{Part 1: MBTI Types and Associated Character Traits}
-
-\subsection*{Analysts (NT)}
-\subsubsection*{INTJ - ``The Architect''}
-\textbf{Likely:} Uncompromising, Patient, Cautious, Ambitious, Suspicious
-
-\textbf{Possible:} Arrogant, Cynical
-
-\textbf{Unlikely:} Impulsive, Extroverted, Cowardly
-
-\subsubsection*{INTP - ``The Logician''}
-\textbf{Likely:} Curious, Patient, Cautious, Indecisive
-
-\textbf{Possible:} Cynical, Uncompromising
-
-\textbf{Unlikely:} Impulsive, Extroverted, Dishonest
-
-\subsubsection*{ENTJ - ``The Commander''}
-\textbf{Likely:} Ambitious, Arrogant, Brave, Stubborn
-
-\textbf{Possible:} Uncompromising, Vindictive
-
-\textbf{Unlikely:} Indecisive, Cowardly, Patient
-
-\subsubsection*{ENTP - ``The Debater''}
-\textbf{Likely:} Curious, Enthusiastic, Extroverted, Arrogant
-
-\textbf{Possible:} Impulsive, Cynical
-
-\textbf{Unlikely:} Patient, Cautious, Loyal
-
-\subsection{Diplomats (NF)}
-\subsubsection*{INFJ - ``The Advocate''}
-\textbf{Likely:} Compassionate, Loyal, Altruistic, Cautious
-
-\textbf{Possible:} Indecisive, Kind, Stubborn
-
-\textbf{Unlikely:} Cynical, Greedy, Cruel
-
-\subsubsection*{INFP - ``The Mediator''}
-\textbf{Likely:} Compassionate, Kind, Altruistic, Indecisive
-
-\textbf{Possible:} Curious, Loyal, Enthusiastic
-
-\textbf{Unlikely:} Arrogant, Vindictive, Cruel
-
-\subsubsection*{ENFJ - ``The Protagonist''}
-\textbf{Likely:} Compassionate, Altruistic, Extroverted, Enthusiastic
-
-\textbf{Possible:} Loyal, Kind, Ambitious
-
-\textbf{Unlikely:} Cynical, Dishonest, Dissolute
-
-\subsubsection*{ENFP - ``The Campaigner''}
-\textbf{Likely:} Enthusiastic, Extroverted, Curious, Impulsive
-
-\textbf{Possible:} Compassionate, Kind, Indecisive
-
-\textbf{Unlikely:} Patient, Cautious, Suspicious
-
-\subsection*{Sentinels (SJ)}
-\subsubsection*{ISTJ - ``The Logistician''}
-\textbf{Likely:} Loyal, Cautious, Patient, Stubborn
-
-\textbf{Possible:} Suspicious, Uncompromising
-
-\textbf{Unlikely:} Impulsive, Dissolute, Enthusiastic
-
-\subsubsection*{ISFJ - ``The Defender''}
-\textbf{Likely:} Loyal, Kind, Cautious, Patient
-
-\textbf{Possible:} Altruistic, Compassionate
-
-\textbf{Unlikely:} Cruel, Arrogant, Impulsive
-
-\subsubsection*{ESTJ - ``The Executive''}
-\textbf{Likely:} Uncompromising, Ambitious, Stubborn, Brave
-
-\textbf{Possible:} Loyal, Suspicious
-
-\textbf{Unlikely:} Indecisive, Compassionate, Impulsive
-
-\subsubsection*{ESFJ - ``The Consul''}
-\textbf{Likely:} Kind, Loyal, Extroverted, Altruistic
-
-\textbf{Possible:} Enthusiastic, Compassionate
-
-\textbf{Unlikely:} Cynical, Cruel, Vindictive
-
-\subsection*{Explorers (SP)}
-\subsubsection*{ISTP - ``The Virtuoso''}
-\textbf{Likely:} Brave, Impulsive, Curious, Patient
-
-\textbf{Possible:} Stubborn, Cynical
-
-\textbf{Unlikely:} Extroverted, Altruistic, Indecisive
-
-\subsubsection*{ISFP - ``The Adventurer''}
-\textbf{Likely:} Kind, Curious, Impulsive, Brave
-
-\textbf{Possible:} Loyal, Compassionate
-
-\textbf{Unlikely:} Arrogant, Cynical, Uncompromising
-
-\subsubsection*{ESTP - ``The Entrepreneur''}
-\textbf{Likely:} Brave, Impulsive, Extroverted, Ambitious
-
-\textbf{Possible:} Arrogant, Enthusiastic
-
-\textbf{Unlikely:} Cautious, Indecisive, Patient
-
-\subsubsection*{ESFP - ``The Entertainer''}
-\textbf{Likely:} Enthusiastic, Extroverted, Kind, Impulsive
-
-\textbf{Possible:} Brave, Dissolute
-
-\textbf{Unlikely:} Cautious, Patient, Suspicious
-
-\section*{Part 2: MBTI Types and Patron Affinities}
-
-\subsection*{Analysts (NT)}
-\subsubsection*{INTJ - ``The Architect''}
-\textbf{Primary Patron:} Atmos\\
-Both share an analytical, strategic approach and a quest for knowledge. Atmos's cautious, patient, and uncompromising nature mirrors the INTJ's perfectionism and long-term vision.\\
-\textbf{Alternative:} Erondil\\
-The passion for precision and mastery in their domains.
-
-\subsubsection*{INTP - ``The Logician''}
-\textbf{Primary Patron:} Nethergal\\
-The insatiable curiosity, love of puzzles, and decoding of secrets that characterize Nethergal resonate with the INTP's perpetual quest for theoretical knowledge.\\
-\textbf{Alternative:} Sixiser\\
-The tendency toward isolation to pursue study and understanding of what might come.
-
-\subsubsection*{ENTJ - ``The Commander''}
-\textbf{Primary Patron:} Krondal\\
-Krondal's unwavering dedication to justice and freedom mirrors the ENTJ's determination and natural command.\\
-\textbf{Alternative:} Cattalm\\
-The commanding attitude and tendency to inspire both fear and respect.
-
-\subsubsection*{ENTP - ``The Debater''}
-\textbf{Primary Patron:} Orudjs\\
-Orudjs's ability to convince, adapt, and play many roles mirrors the ENTP's ingenuity and versatility.\\
-\textbf{Alternative:} Belevon\\
-The love of debate and negotiation, plus the ability to get what they want.
-
-\subsubsection*{NT (Shadow) - ``The Critic''}
-\textbf{Primary Patron:} Calicante\\
-When an NT falls into shadow functions, their critical nature can manifest as the destructive ambition and arrogance that Calicante embodies.\\
-\textbf{Alternative:} Rezh\\
-The shadow NT shares Rezh's insatiable desire for resources and knowledge.
-
-\subsection{Diplomats (NF)}
-\subsubsection*{INFJ - ``The Advocate''}
-\textbf{Primary Patron:} Sumkjr\\
-Sumkjr's deep sense of justice and willingness to help others mirrors the INFJ's idealism and empathy.\\
-\textbf{Alternative:} Ljust\\
-The dedication to bringing light and hope into the world.
-
-\subsubsection*{INFP - ``The Mediator''}
-\textbf{Primary Patron:} Ledyal\\
-Ledyal's compassion, kindness, and desire for a world without suffering mirror the INFP's idealistic and empathetic nature.\\
-\textbf{Alternative:} Thaft\\
-The appreciation for the natural cycles of life and acceptance of both joy and sorrow.
-
-\subsubsection*{ENFJ - ``The Protagonist''}
-\textbf{Primary Patron:} Ljust\\
-Ljust's charismatic, protective, and inspiring nature mirrors the ENFJ's tendency to lead others toward personal growth.\\
-\textbf{Alternative:} Atherim\\
-The role of guardian and protector of dreams and hopes.
-
-\subsubsection*{ENFP - ``The Campaigner''}
-\textbf{Primary Patron:} Nihar\\
-Nihar's playful yet determined attitude when needed mirrors the ENFP's enthusiasm and ability to find creative solutions in difficult moments.\\
-\textbf{Alternative:} Gaya\\
-The artistic and passionate nature, capable of transforming the ordinary into something magical.
-
-\subsubsection*{NF (Shadow) - ``The Martyr''}
-\textbf{Primary Patron:} Laydel\\
-When an NF falls into shadow, their idealism can transform into the vengeful, uncompromising nature of Laydel.\\
-\textbf{Alternative:} Rezh\\
-The shadow NF may develop Rezh's jealous guarding of emotional resources.
-
-\subsection*{Sentinels (SJ)}
-\subsubsection*{ISTJ - ``The Logistician''}
-\textbf{Primary Patron:} Orlaith\\
-Orlaith's respect for rules and determination to enforce justice mirror the ISTJ's strong sense of duty.\\
-\textbf{Alternative:} Efrem\\
-The respect for natural systems and established order.
-
-\subsubsection*{ISFJ - ``The Defender''}
-\textbf{Primary Patron:} Thaft\\
-Thaft's protective and observant nature, watching without interfering unless necessary, mirrors the ISFJ's reserved yet devoted approach.\\
-\textbf{Alternative:} Atherim\\
-The protection of secrets and the role of guardian.
-
-\subsubsection*{ESTJ - ``The Executive''}
-\textbf{Primary Patron:} Nedraf\\
-Nedraf's tenacity, experience, and practical leadership mirror the ESTJ's attitude toward efficient and pragmatic guidance.\\
-\textbf{Alternative:} Tàhil\\
-\textit{Connection Tàhil:} The unyielding determination and ability to act decisively.
-
-\subsubsection*{ESFJ - ``The Consul''}
-\textbf{Primary Patron:} Gradh\\
-Gradh's balance between protection and strength mirrors the ESFJ's nature, always attentive to community needs yet ready to defend it.\\
-\textbf{Alternative:} Sumkjr\\
-The dedication to others' wellbeing and willingness to follow rules that promote harmony.
-
-\subsubsection*{SJ (Shadow) - ``The Dictator''}
-\textbf{Primary Patron:} Torbiorn\\
-When an SJ falls into shadow, their organizational efficiency transforms into Torbiorn's tyrannical perfectionism. Both share an uncompromising drive to impose order according to their standards, regardless of others' suffering.\\
-\textbf{Secondary Patron:} Cattalm\\
-\textit{Alternative:} The shadow SJ embodies Cattalm's destructive drive, seeing chaos as something to be crushed rather than organized, often causing more disorder in their rigid attempts to control.
-
-\subsection*{Explorers (SP)}
-\subsubsection*{ISTP - ``The Virtuoso''}
-\textbf{Primary Patron:} Tazher\\
-Tazher's skill in the shadows and silent movement mirror the ISTP's pragmatic approach and technical competence.\\
-\textbf{Alternative:} Lynx\\
-The guardian role and tendency to explore unknown territories.
-
-\subsubsection*{ISFP - ``The Adventurer''}
-\textbf{Primary Patron:} Efrem\\
-Efrem's deep connection with nature and instinct mirror the ISFP's appreciation for beauty and authenticity.\\
-\textbf{Alternative:} Gaya\\
-The artistic sensitivity and appreciation for natural elements.
-
-\subsubsection*{ESTP - ``The Entrepreneur''}
-\textbf{Primary Patron:} Lynx\\
-Lynx's role as explorer and guardian of portals mirrors the ESTP's adventurous and bold nature.\\
-\textbf{Alternative:} Torbiorn\\
-The insatiable desire for improvement and rejection of limitations.
-
-\subsubsection*{ESFP - ``The Entertainer''}
-\textbf{Primary Patron:} Belevon\\
-Belevon's love of valuable objects and social exchange mirror the ESFP's sociable and pleasure-oriented nature.\\
-\textbf{Alternative:} Shayalia\\
-The appreciation for sensory pleasures and beauty, though with morally different approaches.
-
-\subsubsection*{SP (Shadow) - ``The Manipulator''}
-\textbf{Primary Patron:} Sixiser\\
-When an SP falls into shadow, their opportunistic resourcefulness transforms into Sixiser's paranoid hoarding. Both become obsessed with survival at any cost, seeing threats in every corner and collecting resources without ever feeling secure.\\
-\textbf{Alternative Patron:} Orudjs\\
-The shadow SP adopts Orudjs's skills of deception and manipulation, using their natural charisma not for mutual benefit but for exploitation and control.
-
-
-\section*{Gameplay Applications}
-
-
-\subsection*{Character Development}
-\begin{enumerate}
-	\item \textbf{MBTI-Based Trait Selection:} Players can choose their MBTI type and receive recommendations for traits that naturally align with that personality type.
-	\item \textbf{Internal Conflicts:} Characters can experience tension between their natural MBTI tendencies and the expectations of their chosen Patron.
-	\item \textbf{Growth Arcs:} Character development can be mapped as movement along MBTI axes with corresponding shifts in traits.
-	\item \textbf{Crisis Points:} Major character developments might involve confronting the ``shadow functions'' of their MBTI type.
-\end{enumerate}
-
-
-\section*{MBTI Shadow Types and Their Patron Correlations}
-
-The shadow aspect of each MBTI personality represents how individuals behave under extreme stress, trauma, or psychological pressure. 
-
-\subsection*{Primary Shadow Alignments}
 \begin{itemize}
-	\item \textbf{NT Types Under Stress:} Primarily align with Calicante, Rezh, or Tàhil, as their analytical nature transforms into destructive calculation.
-	\item \textbf{NF Types Under Stress:} May align with Laydel, Shayalia, or Cattalm, as their idealism warps into vengeful judgment or manipulative behavior.
-	\item \textbf{SJ Types Under Stress:} Often find affinity with Torbiorn, Sixiser, or Orudjs, as their sense of duty becomes rigid perfectionism.
-	\item \textbf{SP Types Under Stress:} Typically align with Belevon, Tazher, or Rezh, as their freedom-loving nature deteriorates into ruthless self-interest.
+\item Choose an archetype that appeals to you or fits your character concept
+\item Consider adopting at least 2-3 of the recommended Traits for that archetype
+\item Avoid the incompatible Traits unless you're specifically aiming to create internal conflict
+\item Look to the aligned Patrons for guidance on which spiritual powers might naturally resonate with your character
 \end{itemize}
+
+Archetypes can also evolve throughout a character's journey. A character might begin as one archetype (The Innocent) and transform into another (The Hero) through their experiences. This evolution can be reflected in gradually shifting Traits and Patron affinities.
+
+\section*{The 21 Archetypes}
+
+\subsection*{The Hero}
+The brave protagonist who overcomes obstacles to achieve a goal, often transforming themselves in the process.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Brave, Stubborn, Ambitious, Loyal
+\item \textbf{Discouraged Traits:} Cowardly, Indecisive, Dishonest
+\item \textbf{Contradictory Traits:} Cynical, Cruel, Dissolute
+\item \textbf{Aligned Patrons:} Gradh, Sumkjr, Nedraf, Ljust, Lynx, Orlaith
+\end{itemize}
+
+\subsection*{The Mentor}
+The wise guide who provides knowledge, insight, and support to others, often to the Hero.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Patient, Kind, Wise (Cautious), Compassionate
+\item \textbf{Discouraged Traits:} Impulsive, Arrogant, Vindictive
+\item \textbf{Contradictory Traits:} Cruel, Dishonest, Greedy
+\item \textbf{Aligned Patrons:} Ljust, Sumkjr, Thaft, Ledyal, Gaya
+\end{itemize}
+
+\subsection*{The Threshold Guardian}
+The character that tests the players, presenting challenges they must overcome to proceed.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Uncompromising, Suspicious, Cautious, Patient
+\item \textbf{Discouraged Traits:} Impulsive, Compassionate, Altruistic
+\item \textbf{Contradictory Traits:} Cowardly, Indecisive, Dishonest
+\item \textbf{Aligned Patrons:} Atmos, Orlaith, Lynx, Krondal, Sixiser
+\end{itemize}
+
+\subsection*{The Herald}
+The character who announces the call to adventure and signals the need for change.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Enthusiastic, Extroverted, Curious, Brave
+\item \textbf{Discouraged Traits:} Cautious, Indecisive, Suspicious
+\item \textbf{Contradictory Traits:} Cowardly, Cynical, Dishonest
+\item \textbf{Aligned Patrons:} Nethergal, Sumkjr, Lynx, Nedraf
+\end{itemize}
+
+\subsection*{The Shapeshifter}
+The character whose loyalty and true nature are constantly in question.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Dishonest, Arrogant, Impulsive, Ambitious
+\item \textbf{Discouraged Traits:} Loyal, Altruistic, Kind
+\item \textbf{Contradictory Traits:} Uncompromising, Cautious, Patient
+\item \textbf{Aligned Patrons:} Calicante, Orudjs, Tazher, Tàhil, Torbiorn
+\end{itemize}
+
+\subsection*{The Shadow}
+The dark reflection of the protagonist, representing rejected or feared aspects of the self.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Cruel, Vindictive, Cynical, Arrogant
+\item \textbf{Discouraged Traits:} Compassionate, Kind, Altruistic
+\item \textbf{Contradictory Traits:} Loyal, Patient, Enthusiastic
+\item \textbf{Aligned Patrons:} Calicante, Cattalm, Tàhil, Shayalia, Torbiorn
+\end{itemize}
+
+\subsection*{The Trickster}
+The mischievous character who disrupts the status quo and brings about transformation through chaos.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Impulsive, Curious, Dishonest, Enthusiastic
+\item \textbf{Discouraged Traits:} Cautious, Patient, Uncompromising
+\item \textbf{Contradictory Traits:} Loyal, Altruistic, Compassionate
+\item \textbf{Aligned Patrons:} Orudjs, Belevon, Nihar
+\end{itemize}
+
+\subsection*{The Ally}
+The steadfast companion who supports the protagonist on their journey.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Loyal, Brave, Altruistic, Kind
+\item \textbf{Discouraged Traits:} Dishonest, Envious, Cruel
+\item \textbf{Contradictory Traits:} Vindictive, Arrogant, Greedy
+\item \textbf{Aligned Patrons:} Ljust, Sumkjr, Efrem, Gradh, Thaft
+\end{itemize}
+
+\subsection*{The Innocent}
+The pure, naive character who sees the world with wonder and optimism.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Kind, Enthusiastic, Altruistic, Curious
+\item \textbf{Discouraged Traits:} Cynical, Suspicious, Vindictive
+\item \textbf{Contradictory Traits:} Cruel, Dishonest, Dissolute
+\item \textbf{Aligned Patrons:} Ljust, Ledyal, Sumkjr, Gaya
+\end{itemize}
+
+\subsection*{The Sage}
+The knowledge-keeper who has accumulated wisdom through study or experience.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Cautious, Patient, Curious, Uncompromising
+\item \textbf{Discouraged Traits:} Impulsive, Dishonest, Dissolute
+\item \textbf{Contradictory Traits:} Indecisive, Cowardly, Arrogant
+\item \textbf{Aligned Patrons:} Atmos, Nethergal, Sixiser
+\end{itemize}
+
+\subsection*{The Ruler}
+The sovereign who seeks to establish order and control over a domain.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Ambitious, Uncompromising, Arrogant, Stubborn
+\item \textbf{Discouraged Traits:} Indecisive, Cowardly, Impulsive
+\item \textbf{Contradictory Traits:} Altruistic, Compassionate, Kind
+\item \textbf{Aligned Patrons:} Calicante, Erondil, Cattalm, Krondal, Tàhil
+\end{itemize}
+
+\subsection*{The Creator}
+The innovative builder who brings new things into existence.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Curious, Enthusiastic, Ambitious, Patient
+\item \textbf{Discouraged Traits:} Indecisive, Cowardly, Cynical
+\item \textbf{Contradictory Traits:} Dissolute, Uncompromising, Vindictive
+\item \textbf{Aligned Patrons:} Erondil, Efrem, Gaya, Nethergal
+\end{itemize}
+
+\subsection*{The Caregiver}
+The nurturing protector who cares for and defends others.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Compassionate, Altruistic, Kind, Patient
+\item \textbf{Discouraged Traits:} Cruel, Greedy, Vindictive
+\item \textbf{Contradictory Traits:} Arrogant, Dishonest, Dissolute
+\item \textbf{Aligned Patrons:} Ljust, Ledyal, Atherim, Belevon, Sumkjr
+\end{itemize}
+
+\subsection*{The Magician}
+The transformer who harnesses special knowledge to alter reality.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Curious, Ambitious, Arrogant, Uncompromising
+\item \textbf{Discouraged Traits:} Cowardly, Indecisive, Impulsive
+\item \textbf{Contradictory Traits:} Altruistic, Compassionate, Loyal
+\item \textbf{Aligned Patrons:} Erondil, Orudjs, Nethergal, Nihar, Krondal
+\end{itemize}
+
+\subsection*{The Outlaw}
+The rebel who challenges established norms and fights against constraints.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Brave, Impulsive, Arrogant, Vindictive
+\item \textbf{Discouraged Traits:} Cautious, Patient, Loyal
+\item \textbf{Contradictory Traits:} Altruistic, Compassionate, Kind
+\item \textbf{Aligned Patrons:} Lynx, Tàhil, Gradh, Tazher, Calicante
+\end{itemize}
+
+\subsection*{The Lover}
+The passionate seeker of connection, intimacy, and sensual pleasure.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Compassionate, Enthusiastic, Impulsive, Dissolute
+\item \textbf{Discouraged Traits:} Suspicious, Cynical, Arrogant
+\item \textbf{Contradictory Traits:} Cautious, Uncompromising, Greedy
+\item \textbf{Aligned Patrons:} Shayalia, Ledyal, Orudjs
+\end{itemize}
+
+\subsection*{The Jester}
+The playful entertainer who brings joy and levity to difficult situations.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Enthusiastic, Extroverted, Impulsive, Curious
+\item \textbf{Discouraged Traits:} Cautious, Suspicious, Uncompromising
+\item \textbf{Contradictory Traits:} Cruel, Vindictive, Arrogant
+\item \textbf{Aligned Patrons:} Nihar, Belevon, Nethergal, Orudjs
+\end{itemize}
+
+\subsection*{The Everyman}
+The relatable, ordinary person seeking belonging and connection.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Loyal, Kind, Cautious, Indecisive
+\item \textbf{Discouraged Traits:} Arrogant, Ambitious, Dissolute
+\item \textbf{Contradictory Traits:} Cruel, Vindictive, Dishonest
+\item \textbf{Aligned Patrons:} Efrem, Thaft, Atherim
+\end{itemize}
+
+\subsection*{The Explorer}
+The adventurer who seeks new experiences and discoveries.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Curious, Brave, Impulsive, Enthusiastic
+\item \textbf{Discouraged Traits:} Cautious, Indecisive, Suspicious
+\item \textbf{Contradictory Traits:} Cowardly, Cynical, Greedy
+\item \textbf{Aligned Patrons:} Lynx, Nihar, Nethergal, Sumkjr
+\end{itemize}
+
+\subsection*{The Martyr}
+The self-sacrificing individual who gives everything for a cause or others.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Altruistic, Brave, Uncompromising, Stubborn
+\item \textbf{Discouraged Traits:} Arrogant, Greedy, Ambitious
+\item \textbf{Contradictory Traits:} Cynical, Cruel, Dishonest
+\item \textbf{Aligned Patrons:} Ljust, Sumkjr, Atherim, Lynx
+\end{itemize}
+
+\subsection*{The Tyrant}
+The controlling oppressor who rules through fear and dominance.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Cruel, Arrogant, Vindictive, Greedy
+\item \textbf{Discouraged Traits:} Compassionate, Altruistic, Kind
+\item \textbf{Contradictory Traits:} Indecisive, Cowardly, Loyal
+\item \textbf{Aligned Patrons:} Calicante, Tàhil, Cattalm, Torbiorn, Rezh
+\end{itemize}
+
+\subsection*{The Hermit}
+The solitary seeker who withdraws from society to find inner truth.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Recommended Traits:} Cautious, Patient, Uncompromising, Suspicious
+\item \textbf{Discouraged Traits:} Extroverted, Impulsive, Enthusiastic
+\item \textbf{Contradictory Traits:} Dissolute, Arrogant, Greedy
+\item \textbf{Aligned Patrons:} Atmos, Sixiser, Efrem
+\end{itemize}
+
+\section*{Archetypal Cycles and Character Development}
+
+Characters rarely embody a single archetype throughout their entire journey. Rather, they may evolve through a series of archetypes as they grow and develop. Below are some common archetypal progressions that can serve as templates for character development:
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{The Hero's Journey:} Innocent > Explorer > Hero > Sage > Ruler
+\item \textbf{The Fall and Redemption:} Innocent > Outlaw > Shadow > Martyr > Hero
+\item \textbf{The Corruption Arc:} Ally > Shapeshifter > Shadow > Tyrant
+\item \textbf{The Wisdom Path:} Explorer > Threshold Guardian > Hermit > Sage > Mentor
+\item \textbf{The Leadership Evolution:} Ally > Hero > Mentor > Ruler
+\item \textbf{The Spiritual Awakening:} Everyman > Threshold Guardian > Hermit > Magician > Creator
+\end{itemize}
+
+Each transition between archetypes represents a significant character development moment, often accompanied by the gaining or losing of specific Traits and potentially a shift in Patron affinity. Narrators and players can use these archetypal cycles to plan meaningful character arcs.
+
+\section*{Patron Affinities and Archetypal Resonances}
+
+Some Patrons naturally embody or resonate with specific archetypes more strongly than others. These connections can inform both character development and storytelling:
+
+
+\noindent\begin{tabularx}{0.48\textwidth}{lX}
+\toprule
+\textbf{Patron} & \textbf{Archetypal Resonances} \\
+\midrule
+Ljust & The Hero, The Caregiver, The Martyr, The Mentor \\
+\hline
+Calicante & The Shadow, The Tyrant, The Shapeshifter, The Ruler \\
+\hline
+Atmos & The Sage, The Hermit, The Threshold Guardian \\
+\hline
+Lynx & The Explorer, The Outlaw, The Hero \\
+\hline
+Gradh & The Hero, The Ally, The Ruler, The Outlaw \\
+\hline
+Atherim & The Caregiver, The Guardian, The Martyr \\
+\hline
+Belevon & The Trickster, The Jester, The Shapeshifter \\
+\hline
+Cattalm & The Shadow, The Tyrant, The Destroyer \\
+\hline
+Efrem & The Everyman, The Creator, The Hermit \\
+\hline
+Erondil & The Creator, The Magician, The Ruler \\
+\hline
+Gaya & The Creator, The Innocent, The Caregiver \\
+\hline
+Krondal & The Ruler, The Threshold Guardian, The Magician \\
+\hline
+Ledyal & The Caregiver, The Innocent, The Lover \\
+\hline
+Laydel & The Shadow, The Shapeshifter, The Outlaw \\
+\hline
+Nethergal & The Herald, The Explorer, The Magician \\
+\hline
+Nedraf & The Hero, The Explorer, The Ally \\
+\hline
+Nihar & The Jester, The Explorer, The Trickster \\
+\hline
+Orudjs & The Shapeshifter, The Trickster, The Lover \\
+\hline
+Orlaith & The Threshold Guardian, The Ruler, The Hero \\
+\hline
+Rezh & The Tyrant, The Shadow, The Shapeshifter \\
+\hline
+Shayalia & The Shadow, The Lover, The Shapeshifter \\
+\hline
+\end{tabularx}
+\noindent\begin{tabularx}{0.48\textwidth}{lX}
+Sixiser & The Hermit, The Sage, The Shadow \\
+\hline
+Sumkjr & The Hero, The Ally, The Mentor, The Martyr \\
+\hline
+Tàhil & The Shadow, The Tyrant, The Outlaw \\
+\hline
+Tazher & The Shadow, The Outlaw, The Shapeshifter \\
+\hline
+Thaft & The Everyman, The Ally, The Caregiver \\
+\hline
+Torbiorn & The Tyrant, The Shadow, The Ruler \\
+\bottomrule
+\end{tabularx}
+
+
+\section*{Using Archetypes in Game}
+
+\subsection*{For Players}
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item Use archetypes as a starting point for character creation, selecting Traits that align with your chosen archetype
+\item Consider your character's potential archetypal journey - how might they evolve over time?
+\item Look to your archetype's aligned Patrons when considering spiritual affiliations
+\item Use contrasting archetypes within your party to create interesting inter-character dynamics
+\end{itemize}
+
+\subsection*{For Narrator}
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item Populate your world with NPCs that embody clear archetypal patterns
+\item Design challenges that specifically test characters against their archetypal weaknesses
+\item Create villains that serve as dark reflections of the heroes' archetypes
+\item Use Patron interventions to highlight or challenge a character's archetypal nature
+\item Design campaign arcs that follow classic archetypal cycles
+\end{itemize}
+
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}\index[OBSSv2]{Archetypal Theory}
+This archetypal system provides another layer of depth to character creation and development, bridging psychological theory with the game's existing systems of Traits and Patrons. By understanding these archetypal patterns, players and Narrator can create more coherent, psychologically consistent characters and stories.
+
+\textbf{Rather than restricting creativity, these archetypes serve as useful frameworks and guidelines that can be embraced, subverted, or transformed throughout a character's journey}. The integration of Traits and Patron affinities with archetypal patterns creates a rich tapestry of possibilities for character development and storytelling.
+\end{narratore}\end{changemargin}
+
 
 \end{multicols}
 
@@ -46617,429 +46690,15 @@ And finally, an obvious point: \textbf{have fun}, all of you \textbf{strive} to 
 %\immediate\closein\myscriptresult
 
 
-	\begin{thebibliography}{99}
-		
-\section{(Appendix N)}
-		
-		\begin{multicols}{2}
-			
-		{\small 	
-					
-		% Psicologia e Personalità - MBTI
-		\bibitem{myers1995}
-		Myers, I. B., \& Myers, P. B. (1995). 
-		\textit{Gifts Differing: Understanding Personality Type}. 
-		Davies-Black Publishing.
-		
-		\bibitem{jung1971}
-		Jung, C. G. (1971). 
-		\textit{Psychological Types}. 
-		Princeton University Press.
-		
-		\bibitem{quenk2000}
-		Quenk, N. L. (2000). 
-		\textit{Essentials of Myers-Briggs Type Indicator Assessment}. 
-		John Wiley \& Sons.
-		
-		\bibitem{briggs2015}
-		Briggs-Myers, I., McCaulley, M. H., Quenk, N. L., \& Hammer, A. L. (2015). 
-		\textit{MBTI Manual: A Guide to the Development and Use of the Myers-Briggs Type Indicator Instrument}. 
-		CPP.
-		
-		\bibitem{tieger2014}
-		Tieger, P. D., \& Barron-Tieger, B. (2014). 
-		\textit{Do What You Are: Discover the Perfect Career for You Through the Secrets of Personality Type}. 
-		Little, Brown Spark.
-		
-		\bibitem{keirsey1998}
-		Keirsey, D. (1998). 
-		\textit{Please Understand Me II: Temperament, Character, Intelligence}. 
-		Prometheus Nemesis Book Company.
-		
-		% Game Design e Master
-		\bibitem{laws2001}
-		Laws, R. D. (2001). 
-		\textit{Robin's Laws of Good Game Mastering}. 
-		Steve Jackson Games.
-		
-		\bibitem{laws2013}
-		Laws, R. D. (2013). 
-		\textit{The Gamemaster's Guide to NPCs}. 
-		Pelgrane Press.
-		
-		\bibitem{koster2004}
-		Koster, R. (2004). 
-		\textit{A Theory of Fun for Game Design}. 
-		Paraglyph Press.
-		
-		% Sistemi di Gioco di Ruolo - Fondamentali
-		\bibitem{gygax1974}
-		Gygax, G., \& Arneson, D. (1974).
-		\textit{Dungeons \& Dragons}.
-		TSR.
-		
-		\bibitem{tweet2003}
-		Tweet, J., Cook, M., Williams, S., Baker, R., \& Adkison, P. (2003).
-		\textit{Dungeons \& Dragons Player's Handbook: Core Rulebook I}.
-		Wizards of the Coast.
-		
-		\bibitem{crawford2014}
-		Crawford, J., Mearls, M., \& Wyatt, J. (2014).
-		\textit{Dungeons \& Dragons Player's Handbook (5th Edition)}.
-		Wizards of the Coast.
-		
-		\bibitem{bulmahn2009}
-		Bulmahn, J. (2009).
-		\textit{Pathfinder Roleplaying Game Core Rulebook}.
-		Paizo Publishing.
-		
-		\bibitem{bonner2019}
-		Bonner, L., Reynolds, S., \& Selinker, M. (2019).
-		\textit{Pathfinder Second Edition Core Rulebook}.
-		Paizo Publishing.
-		
-		\bibitem{achilli2007}
-		Achilli, J., Alexander, A., Blackwelder, K., \& Bowen, C. (2007). 
-		\textit{World of Darkness: Storytelling System Rulebook}. 
-		White Wolf Publishing.
-		
-		% Sistemi Alternativi e Innovativi
-		\bibitem{baker2004}
-		Baker, V. (2004).
-		\textit{Dogs in the Vineyard}.
-		Lumpley Games.
-		
-		\bibitem{harper2017}
-		Harper, J. (2017).
-		\textit{Blades in the Dark}.
-		Evil Hat Productions.
-		
-		\bibitem{hicks2016}
-		Hicks, F. (2016).
-		\textit{Fate Core System}.
-		Evil Hat Productions.
-		
-		% Sistemi Old School e Retrocloni
-		\bibitem{gygax1989}
-		Gygax, G., \& Cook, D. (1989).
-		\textit{Advanced Dungeons \& Dragons Player's Handbook (2nd Edition)}.
-		TSR.
-		
-		\bibitem{proctor2006}
-		Proctor, D. (2006).
-		\textit{Labyrinth Lord}.
-		Goblinoid Games.
-		
-		\bibitem{finch2006}
-		Finch, M. (2006).
-		\textit{OSRIC: Old School Reference and Index Compilation}.
-		Knights \& Knaves Alehouse.
-		
-		\bibitem{bingham2008}
-		Bingham, D. (2008).
-		\textit{Old School System}.
-		Mongoose Publishing.
-		
-		% Sistemi Generici e Universali
-		\bibitem{jackson2004}
-		Jackson, S. (2004).
-		\textit{GURPS Basic Set: Characters and Campaigns (4th Edition)}.
-		Steve Jackson Games.
-		
-		\bibitem{charlton1984}
-		Charlton, P., \& Fenlon, P. (1984).
-		\textit{Rolemaster}.
-		Iron Crown Enterprises.
-		
-		% Sistemi Fantasy Specifici
-		\bibitem{stephan1987}
-		Stephan, S. (1987).
-		\textit{Talislanta (4th Edition)}.
-		Bard Games.
-		
-		% Letteratura Fantasy - Fondamentali
-		\bibitem{tolkien1954}
-		Tolkien, J. R. R. (1954).
-		\textit{The Lord of the Rings}.
-		Allen \& Unwin.
-		
-		\bibitem{tolkien1955}
-		Tolkien, J. R. R. (1955).
-		\textit{The Return of the King, Appendix F: The Languages and Peoples of the Third Age}.
-		Allen \& Unwin.
-		
-		\bibitem{howard1932}
-		Howard, R. E. (1932).
-		\textit{Conan the Barbarian Tales}.
-		Weird Tales Magazine.
-		
-		\bibitem{moorcock1961}
-		Moorcock, M. (1961).
-		\textit{Elric of Melniboné}.
-		Science Fantasy Magazine.
-		
-		\bibitem{leguin1968}
-		Le Guin, U. K. (1968).
-		\textit{A Wizard of Earthsea}.
-		Parnassus Press.
-		
-		\bibitem{leiber1970}
-		Leiber, F. (1970).
-		\textit{Swords and Deviltry}.
-		Ace Books.
-		
-		% Fantasy Moderna
-		\bibitem{martin1996}
-		Martin, G. R. R. (1996).
-		\textit{A Game of Thrones}.
-		Bantam Spectra.
-		
-		\bibitem{sanderson2006}
-		Sanderson, B. (2006).
-		\textit{Mistborn: The Final Empire}.
-		Tor Books.
-		
-		\bibitem{abercrombie2006}
-		Abercrombie, J. (2006).
-		\textit{The Blade Itself}.
-		Gollancz.
-		
-		\bibitem{cook1984}
-		Cook, G. (1984).
-		\textit{The Black Company}.
-		Tor Books.
-		
-		\bibitem{erikson1999}
-		Erikson, S. (1999).
-		\textit{Gardens of the Moon}.
-		Bantam UK.
-		
-		% Horror e Dark Fantasy
-		\bibitem{lovecraft1973}
-		Lovecraft, H. P. (1973).
-		\textit{The Dunwich Horror and Others}.
-		Arkham House.
-		
-		\bibitem{barker1988}
-		Barker, C. (1988).
-		\textit{Weaveworld}.
-		Collins.
-		
-		% Urban Fantasy
-		\bibitem{gaiman1996}
-		Gaiman, N. (1996).
-		\textit{Neverwhere}.
-		BBC Books.
-		
-		\bibitem{butcher2000}
-		Butcher, J. (2000).
-		\textit{Storm Front}.
-		Roc Books.
-		
-		% Mitologia e Folklore
-		\bibitem{campbell1949}
-		Campbell, J. (1949).
-		\textit{The Hero with a Thousand Faces}.
-		Pantheon Books.
-		
-		\bibitem{frazer1890}
-		Frazer, J. G. (1890).
-		\textit{The Golden Bough}.
-		Macmillan.
-		
-		\bibitem{grimm1812}
-		Grimm, J., \& Grimm, W. (1812).
-		\textit{Kinder- und Hausmärchen}.
-		Realschulbuchhandlung.
-		
-		\bibitem{sturluson1220}
-		Sturluson, S. (c. 1220).
-		\textit{Prose Edda}.
-		Islanda.
-		
-		% Storia Medievale
-		\bibitem{legoff1964}
-		Le Goff, J. (1964).
-		\textit{La Civilisation de l'Occident médiéval}.
-		Arthaud.
-		
-		\bibitem{bloch1961}
-		Bloch, M. (1961).
-		\textit{Feudal Society}.
-		University of Chicago Press.
-		
-		\bibitem{duby1978}
-		Duby, G. (1978).
-		\textit{The Three Orders: Feudal Society Imagined}.
-		University of Chicago Press.
-		
-		\bibitem{huizinga1919}
-		Huizinga, J. (1919).
-		\textit{The Autumn of the Middle Ages}.
-		Arnold.
-		
-		% Vita Quotidiana Medievale
-		\bibitem{gieslife1974}
-		Gies, J., \& Gies, F. (1974).
-		\textit{Life in a Medieval Castle}.
-		Thomas Y. Crowell.
-		
-		\bibitem{giescity1981}
-		Gies, J., \& Gies, F. (1981).
-		\textit{Life in a Medieval City}.
-		Thomas Y. Crowell.
-		
-		\bibitem{power1975}
-		Power, E. (1975).
-		\textit{Medieval Women}.
-		Cambridge University Press.
-		
-		% Armi e Combattimento
-		\bibitem{oakeshott1964}
-		Oakeshott, E. (1964).
-		\textit{The Sword in the Age of Chivalry}.
-		Arms and Armour Press.
-		
-		\bibitem{blair1958}
-		Blair, C. (1958).
-		\textit{European Armour: Circa 1066 to Circa 1700}.
-		B.T. Batsford.
-		
-		\bibitem{keegan1976}
-		Keegan, J. (1976).
-		\textit{The Face of Battle}.
-		Jonathan Cape.
-		
-		% Magia e Religione
-		\bibitem{thomas1971}
-		Thomas, K. (1971).
-		\textit{Religion and the Decline of Magic}.
-		Weidenfeld and Nicolson.
-		
-		\bibitem{kieckhefer1989}
-		Kieckhefer, R. (1989).
-		\textit{Magic in the Middle Ages}.
-		Cambridge University Press.
-		
-		\bibitem{russell1972}
-		Russell, J. B. (1972).
-		\textit{Witchcraft in the Middle Ages}.
-		Cornell University Press.
-		
-		% Architettura e Fortificazioni
-		\bibitem{toy1955}
-		Toy, S. (1955).
-		\textit{A History of Fortification from 3000 BC to AD 1700}.
-		Heinemann.
-		
-		\bibitem{brown1976}
-		Brown, R. A. (1976).
-		\textit{English Castles}.
-		B.T. Batsford.
-		
-		% Economia Medievale
-		\bibitem{lopez1976}
-		Lopez, R. S. (1976).
-		\textit{The Commercial Revolution of the Middle Ages, 950-1350}.
-		Cambridge University Press.
-		
-		\bibitem{postan1972}
-		Postan, M. M. (1972).
-		\textit{The Medieval Economy and Society}.
-		Weidenfeld and Nicolson.
-		
-		% Narrativa e Storytelling
-		\bibitem{vogler2007}
-		Vogler, C. (2007).
-		\textit{The Writer's Journey: Mythic Structure for Writers}.
-		Michael Wiese Productions.
-		
-		\bibitem{mckee1997}
-		McKee, R. (1997).
-		\textit{Story: Substance, Structure, Style and the Principles of Screenwriting}.
-		ReganBooks.
-		
-		% Antropologia e Sociologia
-		\bibitem{eliade1957}
-		Eliade, M. (1957).
-		\textit{The Sacred and the Profane}.
-		Harcourt.
-		
-		\bibitem{vangennep1960}
-		van Gennep, A. (1960).
-		\textit{The Rites of Passage}.
-		University of Chicago Press.
-		
-		% Linguistica e Creazione di Lingue
-		\bibitem{peterson2015}
-		Peterson, D. J. (2015).
-		\textit{The Art of Language Invention}.
-		Penguin Books.
-		
-		% Geografia e Cartografia Fantasy
-		\bibitem{fonstad1991}
-		Fonstad, K. W. (1991).
-		\textit{The Atlas of Middle-earth}.
-		Houghton Mifflin.
-		
-		\bibitem{jones1996}
-		Jones, D. W. (1996).
-		\textit{The Tough Guide to Fantasyland}.
-		Vista.
-		
-		% Filosofia e Etica
-		\bibitem{aristotle350bc}
-		Aristotle. (c. 350 BCE).
-		\textit{Nicomachean Ethics}.
-		Translated by W. D. Ross.
-		
-		\bibitem{aquinas1265}
-		Aquinas, T. (c. 1265).
-		\textit{Summa Theologica}.
-		Translated by Fathers of the English Dominican Province.
-		
-		% Enciclopedie e Reference
-		\bibitem{clute1997}
-		Clute, J., \& Grant, J. (1997).
-		\textit{The Encyclopedia of Fantasy}.
-		St. Martin's Griffin.
-		
-		\bibitem{ashley1999}
-		Ashley, M. (1999).
-		\textit{The Mammoth Book of Fantasy}.
-		Carroll \& Graf.
-		
-		% Storia Economica
-		\bibitem{braudel1979}
-		Braudel, F. (1979).
-		\textit{Civiltà materiale, economia e capitalismo (secoli XV-XVIII)}
-		[\textit{Civilization and Capitalism, 15th-18th Century}].
-		Einaudi.
-		% Nota: Opera fondamentale in tre volumi che analizza l'evoluzione economica dell'Europa moderna, considerando le strutture della vita quotidiana, i giochi dello scambio e i tempi del mondo.
-		
-		\bibitem{cipolla1994}
-		Cipolla, C. M. (1994).
-		\textit{Storia economica dell'Europa pre-industriale}
-		[\textit{Before the Industrial Revolution: European Society and Economy, 1000-1700}].
-		Il Mulino.
-		% Nota: Studio classico sull'economia europea dal Medioevo fino alla Rivoluzione Industriale, con particolare attenzione alle strutture demografiche, agricole e commerciali.
-		
-		\bibitem{AngeliF2020}
-		Angeli, Federica (2021)
-		\textit{Le avventure di una mezza Pixie}\\
-		Angeli, Federica (2022)
-		\textit{Nuove avventure di una fatina}\\
-		Angeli, Federica (2023)
-		\textit{Viaggio nel primo mondo}\\
-		Angeli, Federica (2024)
-		\textit{Lama di luce}\\
-		Angeli, Federica (2024)
-		\textit{Il Guardiano di Falkonia}
-		
+\section*{Appendice N}
+
+\begin{multicols}{2}
+	{\small 
+		\nocite{*}
+		\setlength{\columnsep}{1cm} % spazio tra colonne
+		\printbibliography
 	}
-		
-	\end{multicols}
-	
-\end{thebibliography}
+\end{multicols}
+
 
 \end{document}

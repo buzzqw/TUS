@@ -17,16 +17,16 @@
 \usepackage{tocloft}
 \usepackage{caption}
 \usepackage{ragged2e}
-\usepackage{quoting}
-\usepackage{amssymb}
-\usepackage{siunitx}
+\usepackage{quoting,enumitem}
+\usepackage{amssymb,siunitx}
 \usepackage{multicol}
 \usepackage{wrapfig}
 \usepackage{url}
 \usepackage{titlesec}
 \usepackage{array}
-\usepackage{enumitem}
 \usepackage{adjustbox}
+\usepackage[backend=biber,style=verbose-note]{biblatex}
+\addbibresource{bibliografia.bib}
 %la riga 32 e' vuota per il no image
 
 
@@ -1655,279 +1655,350 @@ Se il personaggio è completamente difforme ai suoi Tratti non acquisirà punti 
 
 \pagebreak
 
-\section{Opzionale (Avanzato) - Sistema di Integrazione MBTI per Tratti Caratteriali e Affinità con i Patroni}
+\section{Opzionale - Archetipi del Carattere}
 
 \begin{multicols}{2}
-	
-	\section*{Introduzione}
-	Questo sistema integra l'indicatore tipologico Myers-Briggs (MBTI) con il framework esistente di Tratti e Patroni, creando opportunità di sviluppo del personaggio più profonde e esperienze di gioco di ruolo più ricche. L'integrazione fornisce percorsi naturali per lo sviluppo del personaggio e suggerisce affinità con i Patroni basate su tendenze psicologiche.
-	
-	\section*{Parte 1: Tipi MBTI e Tratti Caratteriali Associati}
-	
-	\subsection*{Analisti (NT)}
-	\subsubsection*{INTJ - ``L'Architetto''}
-	\textbf{Probabili:} Intransigente, Paziente, Prudente, Ambizioso, Sospettoso
-	
-	\textbf{Possibili:} Arrogante, Cinico
-	
-	\textbf{Improbabili:} Impulsivo, Estroverso, Codardo
-	
-	\subsubsection*{INTP - ``Il Logico''}
-	\textbf{Probabili:} Curioso, Paziente, Prudente, Indeciso
-	
-	\textbf{Possibili:} Cinico, Intransigente
-	
-	\textbf{Improbabili:} Impulsivo, Estroverso, Disonesto
-	
-	\subsubsection*{ENTJ - ``Il Comandante''}
-	\textbf{Probabili:} Ambizioso, Arrogante, Coraggioso, Testardo
-	
-	\textbf{Possibili:} Intransigente, Vendicativo
-	
-	\textbf{Improbabili:} Indeciso, Codardo, Paziente
-	
-	\subsubsection*{ENTP - ``Il Dibattitore''}
-	\textbf{Probabili:} Curioso, Entusiasta, Estroverso, Arrogante
-	
-	\textbf{Possibili:} Impulsivo, Cinico
-	
-	\textbf{Improbabili:} Paziente, Prudente, Leale
-	
-	\subsection*{Diplomatici (NF)}
-	\subsubsection*{INFJ - ``L'Avvocato''}
-	\textbf{Probabili:} Compassionevole, Leale, Altruista, Prudente
-	
-	\textbf{Possibili:} Indeciso, Gentile, Testardo
-	
-	\textbf{Improbabili:} Cinico, Avaro, Crudele
-	
-	\subsubsection*{INFP - ``Il Mediatore''}
-	\textbf{Probabili:} Compassionevole, Gentile, Altruista, Indeciso
-	
-	\textbf{Possibili:} Curioso, Leale, Entusiasta
-	
-	\textbf{Improbabili:} Arrogante, Vendicativo, Crudele
-	
-	\subsubsection*{ENFJ - ``Il Protagonista''}
-	\textbf{Probabili:} Compassionevole, Altruista, Estroverso, Entusiasta
-	
-	\textbf{Possibili:} Leale, Gentile, Ambizioso
-	
-	\textbf{Improbabili:} Cinico, Disonesto, Dissoluto
-	
-	\subsubsection*{ENFP - ``Il Promotore''}
-	\textbf{Probabili:} Entusiasta, Estroverso, Curioso, Impulsivo
-	
-	\textbf{Possibili:} Compassionevole, Gentile, Indeciso
-	
-	\textbf{Improbabili:} Paziente, Prudente, Sospettoso
-	
-	\subsection*{Sentinelle (SJ)}
-	\subsubsection*{ISTJ - ``Il Logistico''}
-	\textbf{Probabili:} Leale, Prudente, Paziente, Testardo
-	
-	\textbf{Possibili:} Sospettoso, Intransigente
-	
-	\textbf{Improbabili:} Impulsivo, Dissoluto, Entusiasta
-	
-	\subsubsection*{ISFJ - ``Il Difensore''}
-	\textbf{Probabili:} Leale, Gentile, Prudente, Paziente
-	
-	\textbf{Possibili:} Altruista, Compassionevole
-	
-	\textbf{Improbabili:} Crudele, Arrogante, Impulsivo
-	
-	\subsubsection*{ESTJ - ``L'Esecutivo''}
-	\textbf{Probabili:} Intransigente, Ambizioso, Testardo, Coraggioso
-	
-	\textbf{Possibili:} Leale, Sospettoso
-	
-	\textbf{Improbabili:} Indeciso, Compassionevole, Impulsivo
-	
-	\subsubsection*{ESFJ - ``Il Console''}
-	\textbf{Probabili:} Gentile, Leale, Estroverso, Altruista
-	
-	\textbf{Possibili:} Entusiasta, Compassionevole
-	
-	\textbf{Improbabili:} Cinico, Crudele, Vendicativo
-	
-	\subsection*{Esploratori (SP)}
-	\subsubsection*{ISTP - ``Il Virtuoso''}
-	\textbf{Probabili:} Coraggioso, Impulsivo, Curioso, Paziente
-	
-	\textbf{Possibili:} Testardo, Cinico
-	
-	\textbf{Improbabili:} Estroverso, Altruista, Indeciso
-	
-	\subsubsection*{ISFP - ``L'Avventuriero''}
-	\textbf{Probabili:} Gentile, Curioso, Impulsivo, Coraggioso
-	
-	\textbf{Possibili:} Leale, Compassionevole
-	
-	\textbf{Improbabili:} Arrogante, Cinico, Intransigente
-	
-	\subsubsection*{ESTP - ``L'Imprenditore''}
-	\textbf{Probabili:} Coraggioso, Impulsivo, Estroverso, Ambizioso
-	
-	\textbf{Possibili:} Arrogante, Entusiasta
-	
-	\textbf{Improbabili:} Prudente, Indeciso, Paziente
-	
-	\subsubsection*{ESFP - ``L'Intrattenitore''}
-	\textbf{Probabili:} Entusiasta, Estroverso, Gentile, Impulsivo
-	
-	\textbf{Possibili:} Coraggioso, Dissoluto
-	
-	\textbf{Improbabili:} Prudente, Paziente, Sospettoso
-	
-	\section*{Parte 2: Tipi MBTI e Affinità con i Patroni}
-	
-	\subsection*{Analisti (NT)}
-	\subsubsection*{INTJ - ``L'Architetto''}
-	\textbf{Patrono Principale:} Atmos\\
-Entrambi condividono un approccio analitico e strategico e una ricerca della conoscenza. La natura prudente, paziente e intransigente di Atmos rispecchia il perfezionismo e la visione a lungo termine dell'INTJ.\\
-	\textbf{Alternativa:} Erondil\\
-La passione per la precisione e la maestria nei loro domini.
-	
-	\subsubsection*{INTP - ``Il Logico''}
-	\textbf{Patrono Principale:} Nethergal\\
-La curiosità insaziabile, l'amore per i puzzle e la decodifica dei segreti che caratterizzano Nethergal risuonano con la perpetua ricerca di conoscenza teorica dell'INTP.\\
-	\textbf{Alternativa:} Sixiser\\
-La tendenza all'isolamento per perseguire lo studio e la comprensione di ciò che potrebbe accadere.
-	
-	\subsubsection*{ENTJ - ``Il Comandante''}
-	\textbf{Patrono Principale:} Krondal\\
-La dedicazione incrollabile di Krondal alla giustizia e alla libertà rispecchia la determinazione e il comando naturale dell'ENTJ.\\
-	\textbf{Alternativa:} Cattalm\\
-L'atteggiamento di comando e la tendenza a ispirare sia timore che rispetto.
-	
-	\subsubsection*{ENTP - ``Il Dibattitore''}
-	\textbf{Patrono Principale:} Orudjs\\
-La capacità di Orudjs di convincere, adattarsi e interpretare molti ruoli rispecchia l'ingegnosità e la versatilità dell'ENTP.\\
-	\textbf{Alternativa:} Belevon\\
-L'amore per il dibattito e la negoziazione, più la capacità di ottenere ciò che vogliono.
-	
-	\subsubsection*{NT (Ombra) - ``Il Critico''}
-	\textbf{Patrono Principale:} Calicante\\
-Quando un NT cade nelle funzioni ombra, la sua natura critica può manifestarsi come l'ambizione distruttiva e l'arroganza che Calicante incarna.\\
-	\textbf{Alternativa:} Rezh\\
-L'ombra condivide il desiderio insaziabile di Rezh per risorse e conoscenza.
-	
-	\subsection*{Diplomatici (NF)}
-	\subsubsection*{INFJ - ``L'Avvocato''}
-	\textbf{Patrono Principale:} Sumkjr\\
-Il profondo senso di giustizia di Sumkjr e la volontà di aiutare gli altri rispecchia l'idealismo e l'empatia dell'INFJ.\\
-	\textbf{Alternativa:} Ljust\\
-La dedizione a portare luce e speranza nel mondo.
-	
-	\subsubsection*{INFP - ``Il Mediatore''}
-	\textbf{Patrono Principale:} Ledyal\\
-La compassione, la gentilezza e il desiderio di Ledyal per un mondo senza sofferenza rispecchiano la natura idealistica ed empatica dell'INFP.\\
-	\textbf{Alternativa:} Thaft\\
-L'apprezzamento per i cicli naturali della vita e l'accettazione sia della gioia che del dolore.
-	
-	\subsubsection*{ENFJ - ``Il Protagonista''}
-	\textbf{Patrono Principale:} Ljust\\
-La natura carismatica, protettiva e ispiratrice di Ljust rispecchia la tendenza dell'ENFJ a guidare gli altri verso la crescita personale.\\
-	\textbf{Alternativa:} Atherim\\
-Il ruolo di guardiano e protettore di sogni e speranze.
-	
-	\subsubsection*{ENFP - ``Il Promotore''}
-	\textbf{Patrono Principale:} Nihar\\
-L'atteggiamento giocoso ma determinato di Nihar quando necessario rispecchia l'entusiasmo dell'ENFP e la capacità di trovare soluzioni creative nei momenti difficili.\\
-	\textbf{Alternativa:} Gaya\\
-La natura artistica e appassionata, capace di trasformare l'ordinario in qualcosa di magico.
-	
-	\subsubsection*{NF (Ombra) - ``Il Martire''}
-	\textbf{Patrono Principale:} Laydel\\
-Quando un NF cade nell'ombra, il suo idealismo può trasformarsi nella natura vendicativa e intransigente di Laydel.\\
-	\textbf{Alternativa:} Rezh\\
-L'ombra può sviluppare la custodia gelosa delle risorse emotive di Rezh.
-	
-	\subsection*{Sentinelle (SJ)}
-	\subsubsection*{ISTJ - ``Il Logistico''}
-	\textbf{Patrono Principale:} Orlaith\\
-Il rispetto di Orlaith per le regole e la determinazione nel far rispettare la giustizia rispecchiano il forte senso del dovere dell'ISTJ.\\
-	\textbf{Alternativa:} Efrem\\
-Il rispetto per i sistemi naturali e l'ordine stabilito.
-	
-	\subsubsection*{ISFJ - ``Il Difensore''}
-	\textbf{Patrono Principale:} Thaft\\
-La natura protettiva e osservante di Thaft, che osserva senza interferire a meno che non sia necessario, rispecchia l'approccio riservato ma devoto dell'ISFJ.\\
-	\textbf{Alternativa:} Atherim\\
-La protezione dei segreti e il ruolo di guardiano.
-	
-	\subsubsection*{ESTJ - ``L'Esecutivo''}
-	\textbf{Patrono Principale:} Nedraf\\
-La tenacia, l'esperienza e la leadership pratica di Nedraf rispecchiano l'atteggiamento dell'ESTJ verso una guida efficiente e pragmatica.\\
-	\textbf{Alternativa:} Tàhil\\
-	\textit{Connessione Tàhil:} La determinazione inflessibile e la capacità di agire con decisione.
-	
-	\subsubsection*{ESFJ - ``Il Console''}
-	\textbf{Patrono Principale:} Gradh\\
-L'equilibrio di Gradh tra protezione e forza rispecchia la natura dell'ESFJ, sempre attento ai bisogni della comunità ma pronto a difenderla.\\
-	\textbf{Alternativa:} Sumkjr\\
-La dedizione al benessere degli altri e la volontà di seguire regole che promuovono l'armonia.
-	
-	\subsubsection*{SJ (Ombra) - ``Il Dittatore''}
-	\textbf{Patrono Primario:} Torbiorn\\
-Quando un SJ cade nell'ombra, la sua efficienza organizzativa si trasforma nel perfezionismo tirannico di Torbiorn. Entrambi condividono una spinta inflessibile a imporre l'ordine secondo i propri standard, indipendentemente dalla sofferenza altrui.\\
-	\textbf{Patrono Secondario:} Cattalm\\
-	\textit{Alternativa:} L'ombra incarna la spinta distruttiva di Cattalm, vedendo il caos come qualcosa da schiacciare piuttosto che da organizzare, causando spesso più disordine nei suoi rigidi tentativi di controllo.
-	
-	\subsection*{Esploratori (SP)}
-	\subsubsection*{ISTP - ``Il Virtuoso''}
-	\textbf{Patrono Principale:} Tazher\\
-L'abilità di Tazher nelle ombre e il movimento silenzioso rispecchiano l'approccio pragmatico e la competenza tecnica dell'ISTP.\\
-	\textbf{Alternativa:} Lynx\\
-Il ruolo di guardiano e la tendenza a esplorare territori sconosciuti.
-	
-	\subsubsection*{ISFP - ``L'Avventuriero''}
-	\textbf{Patrono Principale:} Efrem\\
-La profonda connessione di Efrem con la natura e l'istinto rispecchiano l'apprezzamento dell'ISFP per la bellezza e l'autenticità.\\
-	\textbf{Alternativa:} Gaya\\
-La sensibilità artistica e l'apprezzamento per gli elementi naturali.
-	
-	\subsubsection*{ESTP - ``L'Imprenditore''}
-	\textbf{Patrono Principale:} Lynx\\
-Il ruolo di Lynx come esploratore e guardiano dei portali rispecchia la natura avventurosa e audace dell'ESTP.\\
-	\textbf{Alternativa:} Torbiorn\\
-Il desiderio insaziabile di miglioramento e il rifiuto delle limitazioni.
-	
-	\subsubsection*{ESFP - ``L'Intrattenitore''}
-	\textbf{Patrono Principale:} Belevon\\
-L'amore di Belevon per gli oggetti di valore e lo scambio sociale rispecchiano la natura socievole e orientata al piacere dell'ESFP.\\
-	\textbf{Alternativa:} Shayalia\\
-L'apprezzamento per i piaceri sensoriali e la bellezza, sebbene con approcci moralmente diversi.
 
-	\subsubsection*{SP (Ombra) - ``Il Manipolatore''}
-	\textbf{Patrono Primario:} Sixiser\\
-Quando un SP cade nell'ombra, la sua intraprendenza opportunistica si trasforma nell'accaparramento paranoico di Sixiser. Entrambi diventano ossessionati dalla sopravvivenza a tutti i costi, vedendo minacce in ogni angolo e raccogliendo risorse senza mai sentirsi al sicuro.\\
-	\textbf{Patrono Alternativo:} Orudjs\\
-L'ombra adotta le abilità di inganno e manipolazione di Orudjs, usando il suo naturale carisma non per il beneficio reciproco ma per lo sfruttamento e il controllo.	
+Questa opzione presenta un sistema che integra gli archetipi junghiani \autocite{jung1971} con il framework esistente di Tratti del carattere e Patroni. Ispirandosi agli archetipi di Carl Jung e all'indicatore tipologico Myers-Briggs (MBTI) \autocite{myers1995}, vengono presentati 21 distinti pattern archetipici che possono essere utilizzati per la creazione del personaggio, lo sviluppo e la narrazione.
 
-	\section*{Applicazioni di Gioco}
+Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica, insieme ai Tratti che sono generalmente incompatibili o attivamente contraddittori alla natura fondamentale dell'archetipo. Inoltre vengono elencati quali Patroni condividono almeno due Tratti (e quindi permettono di essere Devoti) con ogni archetipo, suggerendo affinità spirituali naturali.
+
+\begin{itemize}
+\item Scegli un archetipo che ti attrae o si adatta alla tua idea del personaggio
+\item Considera di adottare almeno 2-3 dei Tratti raccomandati per quell'archetipo
+\item Evita i Tratti incompatibili a meno che tu non stia specificamente mirando a creare conflitto interno
+\item Guarda ai Patroni allineati per una guida su quali poteri spirituali potrebbero essere affini naturalmente con il tuo personaggio
+\end{itemize}
+
+Gli archetipi possono anche evolversi durante le avventure di un personaggio. Un personaggio potrebbe iniziare come un archetipo (L'Innocente) e trasformarsi in un altro (L'Eroe) attraverso le sue esperienze. Questa evoluzione può essere riflessa nel cambiamento graduale dei Tratti e delle affinità con i Patroni.
+
+\section*{I 21 Archetipi}
+
+\subsection*{L'Eroe}
+Il personaggio coraggioso che supera gli ostacoli per raggiungere un obiettivo, spesso trasformando se stesso nel processo.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Coraggioso, Testardo, Ambizioso, Leale
+\item \textbf{Tratti Sconsigliati:} Codardo, Indeciso, Disonesto
+\item \textbf{Tratti Contraddittori:} Cinico, Crudele, Dissoluto
+\item \textbf{Patroni Allineati:} Gradh, Sumkjr, Nedraf, Ljust, Lynx, Orlaith
+\end{itemize}
+
+\subsection*{Il Mentore}
+La guida saggia che fornisce conoscenza, intuizione e supporto agli altri, spesso all'Eroe.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Paziente, Gentile, Prudente, Compassionevole
+\item \textbf{Tratti Sconsigliati:} Impulsivo, Arrogante, Vendicativo
+\item \textbf{Tratti Contraddittori:} Crudele, Disonesto, Avaro
+\item \textbf{Patroni Allineati:} Ljust, Sumkjr, Thaft, Ledyal, Gaya
+\end{itemize}
+
+\subsection*{Il Guardiano della Soglia}
+Il personaggio che mette alla prova i giocatori, presentando sfide che devono superare per procedere.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Intransigente, Sospettoso, Prudente, Paziente
+\item \textbf{Tratti Sconsigliati:} Impulsivo, Compassionevole, Altruista
+\item \textbf{Tratti Contraddittori:} Codardo, Indeciso, Disonesto
+\item \textbf{Patroni Allineati:} Atmos, Orlaith, Lynx, Krondal, Sixiser
+\end{itemize}
+
+\subsection*{L'Araldo}
+Il personaggio che annuncia la chiamata all'avventura e segnala la necessità del cambiamento.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Entusiasta, Estroverso, Curioso, Coraggioso
+\item \textbf{Tratti Sconsigliati:} Prudente, Indeciso, Sospettoso
+\item \textbf{Tratti Contraddittori:} Codardo, Cinico, Disonesto
+\item \textbf{Patroni Allineati:} Nethergal, Sumkjr, Lynx, Nedraf
+\end{itemize}
+
+\subsection*{Il Mutaforma}
+Il personaggio la cui lealtà e vera natura sono costantemente in discussione.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Disonesto, Arrogante, Impulsivo, Ambizioso
+\item \textbf{Tratti Sconsigliati:} Leale, Altruista, Gentile
+\item \textbf{Tratti Contraddittori:} Intransigente, Prudente, Paziente
+\item \textbf{Patroni Allineati:} Calicante, Orudjs, Tazher, Tàhil, Torbiorn
+\end{itemize}
+
+\subsection*{L'Ombra}
+Il riflesso oscuro del personaggio, che rappresenta aspetti rifiutati o temuti del sé.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Crudele, Vendicativo, Cinico, Arrogante
+\item \textbf{Tratti Sconsigliati:} Compassionevole, Gentile, Altruista
+\item \textbf{Tratti Contraddittori:} Leale, Paziente, Entusiasta
+\item \textbf{Patroni Allineati:} Calicante, Cattalm, Tàhil, Shayalia, Torbiorn
+\end{itemize}
+
+\subsection*{Il Giullare}
+Il personaggio malizioso che disturba lo status quo e porta trasformazione attraverso il caos.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Impulsivo, Curioso, Disonesto, Entusiasta
+\item \textbf{Tratti Sconsigliati:} Prudente, Paziente, Intransigente
+\item \textbf{Tratti Contraddittori:} Leale, Altruista, Compassionevole
+\item \textbf{Patroni Allineati:} Orudjs, Belevon, Nihar
+\end{itemize}
+
+\subsection*{L'Alleato}
+Il personaggio fedele che supporta il gruppo nel suo viaggio.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Leale, Coraggioso, Altruista, Gentile
+\item \textbf{Tratti Sconsigliati:} Disonesto, Invidioso, Crudele
+\item \textbf{Tratti Contraddittori:} Vendicativo, Arrogante, Avaro
+\item \textbf{Patroni Allineati:} Ljust, Sumkjr, Efrem, Gradh, Thaft
+\end{itemize}
+
+\subsection*{L'Innocente}
+Il personaggio puro e ingenuo che vede il mondo con meraviglia e ottimismo.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Gentile, Entusiasta, Altruista, Curioso
+\item \textbf{Tratti Sconsigliati:} Cinico, Sospettoso, Vendicativo
+\item \textbf{Tratti Contraddittori:} Crudele, Disonesto, Dissoluto
+\item \textbf{Patroni Allineati:} Ljust, Ledyal, Sumkjr, Gaya
+\end{itemize}
+
+\subsection*{Il Saggio}
+Il personaggio custode della conoscenza che ha accumulato saggezza attraverso lo studio o l'esperienza.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Prudente, Paziente, Curioso, Intransigente
+\item \textbf{Tratti Sconsigliati:} Impulsivo, Disonesto, Dissoluto
+\item \textbf{Tratti Contraddittori:} Indeciso, Codardo, Arrogante
+\item \textbf{Patroni Allineati:} Atmos, Nethergal, Sixiser
+\end{itemize}
+
+\subsection*{Il Sovrano}
+Il personaggio che cerca di stabilire ordine e controllo su suo dominio.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Ambizioso, Intransigente, Arrogante, Testardo
+\item \textbf{Tratti Sconsigliati:} Indeciso, Codardo, Impulsivo
+\item \textbf{Tratti Contraddittori:} Altruista, Compassionevole, Gentile
+\item \textbf{Patroni Allineati:} Calicante, Erondil, Cattalm, Krondal, Tàhil
+\end{itemize}
+
+\subsection*{Il Creatore}
+Il personaggio costruttore, innovativo, che porta nuove cose all'esistenza.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Curioso, Entusiasta, Ambizioso, Paziente
+\item \textbf{Tratti Sconsigliati:} Indeciso, Codardo, Cinico
+\item \textbf{Tratti Contraddittori:} Dissoluto, Intransigente, Vendicativo
+\item \textbf{Patroni Allineati:} Erondil, Efrem, Gaya, Nethergal
+\end{itemize}
+
+\subsection*{Il Custode}
+Il personaggio protettore, premuroso, che si prende cura e difende gli altri.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Compassionevole, Altruista, Gentile, Paziente
+\item \textbf{Tratti Sconsigliati:} Crudele, Avaro, Vendicativo
+\item \textbf{Tratti Contraddittori:} Arrogante, Disonesto, Dissoluto
+\item \textbf{Patroni Allineati:} Ljust, Ledyal, Atherim, Belevon, Sumkjr
+\end{itemize}
+
+\subsection*{Il Mago}
+Il personaggio che sfrutta conoscenze uniche per alterare la realtà.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Curioso, Ambizioso, Arrogante, Intransigente
+\item \textbf{Tratti Sconsigliati:} Codardo, Indeciso, Impulsivo
+\item \textbf{Tratti Contraddittori:} Altruista, Compassionevole, Leale
+\item \textbf{Patroni Allineati:} Erondil, Orudjs, Nethergal, Nihar, Krondal
+\end{itemize}
+
+\subsection*{Il Fuorilegge}
+Il personaggio ribelle che sfida le norme stabilite e combatte contro i vincoli.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Coraggioso, Impulsivo, Arrogante, Vendicativo
+\item \textbf{Tratti Sconsigliati:} Prudente, Paziente, Leale
+\item \textbf{Tratti Contraddittori:} Altruista, Compassionevole, Gentile
+\item \textbf{Patroni Allineati:} Lynx, Tàhil, Gradh, Tazher, Calicante
+\end{itemize}
+
+\subsection*{L'Amante}
+Il personaggio cercatore appassionato di connessione, intimità e piacere sensuale.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Compassionevole, Entusiasta, Impulsivo, Dissoluto
+\item \textbf{Tratti Sconsigliati:} Sospettoso, Cinico, Arrogante
+\item \textbf{Tratti Contraddittori:} Prudente, Intransigente, Avaro
+\item \textbf{Patroni Allineati:} Shayalia, Ledyal, Orudjs
+\end{itemize}
+
+\subsection*{Il Giullare}
+Il personaggio intrattenitore giocoso che porta gioia e leggerezza in situazioni difficili.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Entusiasta, Estroverso, Impulsivo, Curioso
+\item \textbf{Tratti Sconsigliati:} Prudente, Sospettoso, Intransigente
+\item \textbf{Tratti Contraddittori:} Crudele, Vendicativo, Arrogante
+\item \textbf{Patroni Allineati:} Nihar, Belevon, Nethergal, Orudjs
+\end{itemize}
+
+\subsection*{L'Uomo Comune}
+Il personaggio ordinario che cerca appartenenza e connessione.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Leale, Gentile, Prudente, Indeciso
+\item \textbf{Tratti Sconsigliati:} Arrogante, Ambizioso, Dissoluto
+\item \textbf{Tratti Contraddittori:} Crudele, Vendicativo, Disonesto
+\item \textbf{Patroni Allineati:} Efrem, Thaft, Atherim
+\end{itemize}
+
+\subsection*{L'Esploratore}
+Il personaggio avventuriero che cerca nuove esperienze e scoperte.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Curioso, Coraggioso, Impulsivo, Entusiasta
+\item \textbf{Tratti Sconsigliati:} Prudente, Indeciso, Sospettoso
+\item \textbf{Tratti Contraddittori:} Codardo, Cinico, Avaro
+\item \textbf{Patroni Allineati:} Lynx, Nihar, Nethergal, Sumkjr
+\end{itemize}
+
+\subsection*{Il Martire}
+Il personaggio che si sacrifica e dà tutto per una causa o per gli altri.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Altruista, Coraggioso, Intransigente, Testardo
+\item \textbf{Tratti Sconsigliati:} Arrogante, Avaro, Ambizioso
+\item \textbf{Tratti Contraddittori:} Cinico, Crudele, Disonesto
+\item \textbf{Patroni Allineati:} Ljust, Sumkjr, Atherim, Lynx
+\end{itemize}
+
+\subsection*{Il Tiranno}
+Il personaggio oppressore, controllore, che governa attraverso la paura e la dominazione.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Crudele, Arrogante, Vendicativo, Avaro
+\item \textbf{Tratti Sconsigliati:} Compassionevole, Altruista, Gentile
+\item \textbf{Tratti Contraddittori:} Indeciso, Codardo, Leale
+\item \textbf{Patroni Allineati:} Calicante, Tàhil, Cattalm, Torbiorn, Rezh
+\end{itemize}
+
+\subsection*{L'Eremita}
+Il personaggio cercatore solitario che si ritira dalla società per trovare la verità interiore.
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Tratti Raccomandati:} Prudente, Paziente, Intransigente, Sospettoso
+\item \textbf{Tratti Sconsigliati:} Estroverso, Impulsivo, Entusiasta
+\item \textbf{Tratti Contraddittori:} Dissoluto, Arrogante, Avaro
+\item \textbf{Patroni Allineati:} Atmos, Sixiser, Efrem
+\end{itemize}
+
+\section*{Cicli Archetipici e Sviluppo del Personaggio}
+
+I personaggi raramente incarnano un singolo archetipo durante l'intero loro viaggio. Piuttosto, possono evolversi attraverso una serie di archetipi mentre crescono e si sviluppano. Di seguito sono riportate alcune progressioni archetipiche comuni che possono servire come modelli per lo sviluppo del personaggio:
+
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item \textbf{Il Viaggio dell'Eroe:} Innocente > Esploratore > Eroe > Saggio > Sovrano
+\item \textbf{La Caduta e la Redenzione:} Innocente > Fuorilegge > Ombra > Martire > Eroe
+\item \textbf{L'Arco della Corruzione:} Alleato > Mutaforma > Ombra > Tiranno
+\item \textbf{Il Sentiero della Saggezza:} Esploratore > Guardiano della Soglia > Eremita > Saggio > Mentore
+\item \textbf{L'Evoluzione della Leadership:} Alleato > Eroe > Mentore > Sovrano
+\item \textbf{Il Risveglio Spirituale:} Uomo Comune > Guardiano della Soglia > Eremita > Mago > Creatore
+\end{itemize}
+
+Ogni transizione tra archetipi rappresenta un momento significativo di sviluppo del personaggio, spesso accompagnato dall'acquisizione o perdita di Tratti specifici e potenzialmente da un cambiamento nell'affinità con i Patroni. Narratori e giocatori possono utilizzare questi cicli archetipici per pianificare archi narrativi significativi del personaggio.
+
+\section*{Affinità con i Patroni e Risonanze Archetipiche}
+
+Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più fortemente di altri. Queste connessioni possono informare sia lo sviluppo del personaggio che la narrazione:
+
+\noindent\begin{tabularx}{\columnwidth}{lX}
+\toprule
+\textbf{Patrono} & \textbf{Risonanze Archetipiche} \\
+\midrule
+Ljust & L'Eroe, Il Custode, Il Martire, Il Mentore \\
+\hline
+Calicante & L'Ombra, Il Tiranno, Il Mutaforma, Il Sovrano \\
+\hline
+Atmos & Il Saggio, L'Eremita, Il Guardiano della Soglia \\
+\hline
+Lynx & L'Esploratore, Il Fuorilegge, L'Eroe \\
+\hline
+Gradh & L'Eroe, L'Alleato, Il Sovrano, Il Fuorilegge \\
+\hline
+Atherim & Il Custode, Il Guardiano, Il Martire \\
+\hline
+Belevon & Il Giullare, Il Giullare, Il Mutaforma \\
+\hline
+Cattalm & L'Ombra, Il Tiranno, Il Distruttore \\
+\hline
+Efrem & L'Uomo Comune, Il Creatore, L'Eremita \\
+\hline
+Erondil & Il Creatore, Il Mago, Il Sovrano \\
+\hline
+Gaya & Il Creatore, L'Innocente, Il Custode \\
+\hline
+Krondal & Il Sovrano, Il Guardiano della Soglia, Il Mago \\
+\hline
+Ledyal & Il Custode, L'Innocente, L'Amante \\
+\hline
+Laydel & L'Ombra, Il Mutaforma, Il Fuorilegge \\
+\hline
+Nethergal & L'Araldo, L'Esploratore, Il Mago \\
+\hline
+Nedraf & L'Eroe, L'Esploratore, L'Alleato \\
+\hline
+Nihar & Il Giullare, L'Esploratore, Il Giullare \\
+\hline
+Orudjs & Il Mutaforma, Il Giullare, L'Amante \\
+\hline
+Orlaith & Il Guardiano della Soglia, Il Sovrano, L'Eroe \\
+\hline
+Rezh & Il Tiranno, L'Ombra, Il Mutaforma \\
+\hline
+Shayalia & L'Ombra, L'Amante, Il Mutaforma \\
+\hline
+Sixiser & L'Eremita, Il Saggio, L'Ombra \\
+\hline
+Sumkjr & L'Eroe, L'Alleato, Il Mentore, Il Martire \\
+\hline
+Tàhil & L'Ombra, Il Tiranno, Il Fuorilegge \\
+\hline
+Tazher & L'Ombra, Il Fuorilegge, Il Mutaforma \\
+\hline
+Thaft & L'Uomo Comune, L'Alleato, Il Custode \\
+\hline
+Torbiorn & Il Tiranno, L'Ombra, Il Sovrano \\
+\bottomrule
+\end{tabularx}
+
+\section*{Utilizzare gli Archetipi nel Gioco}
+
+\subsection*{Per i Giocatori}
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item Usa gli archetipi come punto di partenza per la creazione del personaggio, selezionando Tratti che si allineano con il tuo archetipo scelto
+\item Considera il potenziale viaggio archetipico del tuo personaggio, come potrebbe evolversi nel tempo?
+\item Guarda ai Patroni allineati del tuo archetipo quando consideri affiliazioni spirituali
+\item Usa archetipi contrastanti all'interno del tuo gruppo per creare dinamiche inter-personaggio interessanti
+\end{itemize}
+
+\subsection*{Per il Narratore}
+\noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+\item Popola il tuo mondo con PNG che incarnano pattern archetipici chiari
+\item Progetta sfide che testano specificamente i personaggi contro le loro debolezze archetipiche
+\item Crea antagonisti che servono come riflessi oscuri degli archetipi degli eroi
+\item Usa interventi dei Patroni per evidenziare o sfidare la natura archetipica di un personaggio
+\item Progetta archi di campagna che seguono cicli archetipici classici
+\end{itemize}
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}\index{Archetipi Caratteriali}
+Questo sistema archetipico fornisce un altro livello di profondità alla creazione e sviluppo del personaggio, collegando la teoria psicologica con i sistemi esistenti di Tratti e Patroni del gioco. Comprendendo questi pattern archetipici, giocatori e Narratore possono creare personaggi e storie più coerenti e psicologicamente consistenti.
 	
-	\begin{enumerate}
-		\item \textbf{Scelta dei tipi:} I giocatori possono scegliere il loro tipo MBTI e ricevere raccomandazioni per tratti che si allineano naturalmente con quel tipo di personalità.			
-		\item \textbf{Conflitti Interni:} I personaggi possono sperimentare tensione tra le loro tendenze MBTI naturali e le aspettative del loro Patrono scelto.
-		\item \textbf{Archi di Crescita:} Lo sviluppo del personaggio può essere mappato come movimento lungo gli assi MBTI con corrispondenti cambiamenti nei tratti.
-		\item \textbf{Punti di Crisi:} I maggiori sviluppi del personaggio potrebbero coinvolgere il confronto con le ``funzioni ombra'' del loro tipo MBTI.
-	\end{enumerate}
-	
-	
-	\section*{Tipi MBTI Ombra e le loro Correlazioni con i Patroni}
-	
-	L'aspetto ombra di ogni personalità MBTI rappresenta come gli individui si comportano sotto stress estremo, trauma o pressione psicologica.
-	
-	\subsection*{Allineamenti Ombra Primari}
-	\begin{itemize}
-		\item \textbf{Tipi NT Sotto Stress:} Si allineano principalmente con Calicante, Rezh o Tàhil, poiché la loro natura analitica si trasforma in calcolo distruttivo.
-		\item \textbf{Tipi NF Sotto Stress:} Possono allinearsi con Laydel, Shayalia o Cattalm, poiché il loro idealismo si deforma in giudizio vendicativo o comportamento manipolativo.
-		\item \textbf{Tipi SJ Sotto Stress:} Spesso trovano affinità con Torbiorn, Sixiser o Orudjs, poiché il loro senso del dovere diventa perfezionismo rigido.
-		\item \textbf{Tipi SP Sotto Stress:} Tipicamente si allineano con Belevon, Tazher o Rezh, poiché la loro natura amante della libertà si deteriora in interesse personale spietato.
-	\end{itemize}
-	
+\textbf{Piuttosto che limitare la creatività, questi archetipi servono come framework e linee guida utili che possono essere abbracciati, sovvertiti o trasformati durante il viaggio di un personaggio}. L'integrazione di Tratti e affinità con i Patroni con pattern archetipici crea un ricco arazzo di possibilità per lo sviluppo del personaggio e la narrazione.
+\end{narratore}\end{changemargin}
+
+
 \end{multicols}
 
 \pagebreak
@@ -44840,428 +44911,14 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 %\read\myscriptresult to \ScriptResult
 %\immediate\closein\myscriptresult
 
-\begin{thebibliography}{99}
-
-\section{(Appendice N)}
+\section*{Appendice N}
 	
-	\begin{multicols}{2}
-	
+\begin{multicols}{2}
 		{\small 
-		
+		\nocite{*}
 		\setlength{\columnsep}{1cm} % spazio tra colonne
-			
-		% Psicologia e Personalità - MBTI
-		\bibitem{myers1995}
-		Myers, I. B., \& Myers, P. B. (1995). 
-		\textit{I Tipi Psicologici: Come la diversità fra le persone influenza la vita, il lavoro, le relazioni}. 
-		Astrolabio Ubaldini.
-		
-		\bibitem{jung1971}
-		Jung, C. G. (1971). 
-		\textit{Tipi Psicologici}. 
-		Bollati Boringhieri.
-		
-		\bibitem{quenk2000}
-		Quenk, N. L. (2000). 
-		\textit{Elementi Essenziali della Valutazione con l'Indicatore Myers-Briggs}. 
-		John Wiley \& Sons.
-		
-		\bibitem{briggs2015}
-		Briggs-Myers, I., McCaulley, M. H., Quenk, N. L., \& Hammer, A. L. (2015). 
-		\textit{Manuale MBTI: Guida allo Sviluppo e all'Uso dello Strumento Indicatore di Tipo Myers-Briggs}. 
-		CPP.
-		
-		\bibitem{tieger2014}
-		Tieger, P. D., \& Barron-Tieger, B. (2014). 
-		\textit{Fai ciò che sei: Scopri il lavoro perfetto per te attraverso i segreti del tipo di personalità}. 
-		Little, Brown Spark.
-		
-		\bibitem{keirsey1998}
-		Keirsey, D. (1998). 
-		\textit{Per Favore Comprendimi II: Temperamento, Carattere, Intelligenza}. 
-		Prometheus Nemesis Book Company.
-		
-		% Game Design e Master
-		\bibitem{laws2001}
-		Laws, R. D. (2001). 
-		\textit{Le Leggi di Robin per essere un Buon Game Master}. 
-		Steve Jackson Games.
-		
-		\bibitem{laws2013}
-		Laws, R. D. (2013). 
-		\textit{La Guida del Game Master ai PNG}. 
-		Pelgrane Press.
-		
-		\bibitem{koster2004}
-		Koster, R. (2004). 
-		\textit{Una Teoria del Divertimento per la Progettazione di Giochi}. 
-		Paraglyph Press.
-		
-		% Sistemi di Gioco di Ruolo - Fondamentali
-		\bibitem{gygax1974}
-		Gygax, G., \& Arneson, D. (1974).
-		\textit{Dungeons \& Dragons}.
-		TSR.
-		
-		\bibitem{tweet2003}
-		Tweet, J., Cook, M., Williams, S., Baker, R., \& Adkison, P. (2003).
-		\textit{Manuale del Giocatore di Dungeons \& Dragons: Manuale Base I}.
-		Wizards of the Coast.
-		
-		\bibitem{crawford2014}
-		Crawford, J., Mearls, M., \& Wyatt, J. (2014).
-		\textit{Manuale del Giocatore di Dungeons \& Dragons (5a Edizione)}.
-		Wizards of the Coast.
-		
-		\bibitem{bulmahn2009}
-		Bulmahn, J. (2009).
-		\textit{Pathfinder Gioco di Ruolo - Manuale Base}.
-		Paizo Publishing.
-		
-		\bibitem{bonner2019}
-		Bonner, L., Reynolds, S., \& Selinker, M. (2019).
-		\textit{Pathfinder Seconda Edizione - Manuale Base}.
-		Paizo Publishing.
-		
-		\bibitem{achilli2007}
-		Achilli, J., Alexander, A., Blackwelder, K., \& Bowen, C. (2007). 
-		\textit{Mondo di Tenebra: Manuale del Sistema Narrativo}. 
-		White Wolf Publishing.
-		
-		% Sistemi Alternativi e Innovativi
-		\bibitem{baker2004}
-		Baker, V. (2004).
-		\textit{Dogs in the Vineyard}.
-		Lumpley Games.
-		
-		\bibitem{harper2017}
-		Harper, J. (2017).
-		\textit{Blades in the Dark}.
-		Evil Hat Productions.
-		
-		\bibitem{hicks2016}
-		Hicks, F. (2016).
-		\textit{Fate Sistema Base}.
-		Evil Hat Productions.
-		
-		% Sistemi Old School e Retrocloni
-		\bibitem{gygax1989}
-		Gygax, G., \& Cook, D. (1989).
-		\textit{Advanced Dungeons \& Dragons Manuale del Giocatore (2a Edizione)}.
-		TSR.
-		
-		\bibitem{proctor2006}
-		Proctor, D. (2006).
-		\textit{Labyrinth Lord}.
-		Goblinoid Games.
-		
-		\bibitem{finch2006}
-		Finch, M. (2006).
-		\textit{OSRIC: Compilazione di Riferimento e Indice della Vecchia Scuola}.
-		Knights \& Knaves Alehouse.
-		
-		\bibitem{bingham2008}
-		Bingham, D. (2008).
-		\textit{Sistema Vecchia Scuola}.
-		Mongoose Publishing.
-		
-		% Sistemi Generici e Universali
-		\bibitem{jackson2004}
-		Jackson, S. (2004).
-		\textit{GURPS Set Base: Personaggi e Campagne (4a Edizione)}.
-		Steve Jackson Games.
-		
-		\bibitem{charlton1984}
-		Charlton, P., \& Fenlon, P. (1984).
-		\textit{Rolemaster}.
-		Iron Crown Enterprises.
-		
-		% Sistemi Fantasy Specifici
-		\bibitem{stephan1987}
-		Stephan, S. (1987).
-		\textit{Talislanta (4a Edizione)}.
-		Bard Games.
-		
-		% Letteratura Fantasy - Fondamentali
-		\bibitem{tolkien1954}
-		Tolkien, J. R. R. (1954).
-		\textit{Il Signore degli Anelli}.
-		Rusconi.
-		
-		\bibitem{tolkien1955}
-		Tolkien, J. R. R. (1955).
-		\textit{Il Ritorno del Re, Appendice F: Le Lingue e i Popoli della Terza Era}.
-		Rusconi.
-		
-		\bibitem{howard1932}
-		Howard, R. E. (1932).
-		\textit{Racconti di Conan il Barbaro}.
-		Weird Tales Magazine.
-		
-		\bibitem{moorcock1961}
-		Moorcock, M. (1961).
-		\textit{Elric di Melniboné}.
-		Science Fantasy Magazine.
-		
-		\bibitem{leguin1968}
-		Le Guin, U. K. (1968).
-		\textit{Il Mago di Earthsea}.
-		Parnassus Press.
-		
-		\bibitem{leiber1970}
-		Leiber, F. (1970).
-		\textit{Spade e Sortilegi}.
-		Ace Books.
-		
-		% Fantasy Moderna
-		\bibitem{martin1996}
-		Martin, G. R. R. (1996).
-		\textit{Il Trono di Spade}.
-		Mondadori.
-		
-		\bibitem{sanderson2006}
-		Sanderson, B. (2006).
-		\textit{Mistborn: L'Ultimo Impero}.
-		Mondadori.
-		
-		\bibitem{abercrombie2006}
-		Abercrombie, J. (2006).
-		\textit{Il Primo dei Caduti}.
-		Mondadori.
-		
-		\bibitem{cook1984}
-		Cook, G. (1984).
-		\textit{La Compagnia Nera}.
-		Nord.
-		
-		\bibitem{erikson1999}
-		Erikson, S. (1999).
-		\textit{I Giardini della Luna}.
-		Armenia.
-		
-		% Horror e Dark Fantasy
-		\bibitem{lovecraft1973}
-		Lovecraft, H. P. (1973).
-		\textit{L'Orrore di Dunwich e Altri Racconti}.
-		Mondadori.
-		
-		\bibitem{barker1988}
-		Barker, C. (1988).
-		\textit{Mondo Segreto}.
-		Sonzogno.
-		
-		% Urban Fantasy
-		\bibitem{gaiman1996}
-		Gaiman, N. (1996).
-		\textit{Nessun Dove}.
-		Mondadori.
-		
-		\bibitem{butcher2000}
-		Butcher, J. (2000).
-		\textit{Tempesta di Ghiaccio}.
-		Nord.
-		
-		% Mitologia e Folklore
-		\bibitem{campbell1949}
-		Campbell, J. (1949).
-		\textit{L'Eroe dai Mille Volti}.
-		Lindau.
-		
-		\bibitem{frazer1890}
-		Frazer, J. G. (1890).
-		\textit{Il Ramo d'Oro}.
-		Bollati Boringhieri.
-		
-		\bibitem{grimm1812}
-		Grimm, J., \& Grimm, W. (1812).
-		\textit{Fiabe del Focolare}.
-		Einaudi.
-		
-		\bibitem{sturluson1220}
-		Sturluson, S. (c. 1220).
-		\textit{Edda in Prosa}.
-		Adelphi.
-		
-		% Storia Medievale
-		\bibitem{legoff1964}
-		Le Goff, J. (1964).
-		\textit{La Civiltà dell'Occidente Medievale}.
-		Einaudi.
-		
-		\bibitem{bloch1961}
-		Bloch, M. (1961).
-		\textit{La Società Feudale}.
-		Einaudi.
-		
-		\bibitem{duby1978}
-		Duby, G. (1978).
-		\textit{Le Tre Ordini o l'Immaginario del Feudalesimo}.
-		Einaudi.
-		
-		\bibitem{huizinga1919}
-		Huizinga, J. (1919).
-		\textit{L'Autunno del Medioevo}.
-		Rizzoli.
-		
-		% Vita Quotidiana Medievale
-		\bibitem{gieslife1974}
-		Gies, J., \& Gies, F. (1974).
-		\textit{La Vita in un Castello Medievale}.
-		Piemme.
-		
-		\bibitem{giescity1981}
-		Gies, J., \& Gies, F. (1981).
-		\textit{La Vita in una Città Medievale}.
-		Piemme.
-		
-		\bibitem{power1975}
-		Power, E. (1975).
-		\textit{Donne del Medioevo}.
-		Cambridge University Press.
-		
-		% Armi e Combattimento
-		\bibitem{oakeshott1964}
-		Oakeshott, E. (1964).
-		\textit{La Spada nell'Età della Cavalleria}.
-		Arms and Armour Press.
-		
-		\bibitem{blair1958}
-		Blair, C. (1958).
-		\textit{Armature Europee: Circa 1066 - Circa 1700}.
-		B.T. Batsford.
-		
-		\bibitem{keegan1976}
-		Keegan, J. (1976).
-		\textit{Il Volto della Battaglia}.
-		Il Saggiatore.
-		
-		% Magia e Religione
-		\bibitem{thomas1971}
-		Thomas, K. (1971).
-		\textit{La Religione e il Declino della Magia}.
-		Mondadori.
-		
-		\bibitem{kieckhefer1989}
-		Kieckhefer, R. (1989).
-		\textit{La Magia nel Medioevo}.
-		Laterza.
-		
-		\bibitem{russell1972}
-		Russell, J. B. (1972).
-		\textit{La Stregoneria nel Medioevo}.
-		Mondadori.
-		
-		% Architettura e Fortificazioni
-		\bibitem{toy1955}
-		Toy, S. (1955).
-		\textit{Storia delle Fortificazioni dal 3000 a.C. al 1700 d.C.}.
-		Heinemann.
-		
-		\bibitem{brown1976}
-		Brown, R. A. (1976).
-		\textit{Castelli Inglesi}.
-		B.T. Batsford.
-		
-		% Economia Medievale
-		\bibitem{lopez1976}
-		Lopez, R. S. (1976).
-		\textit{La Rivoluzione Commerciale del Medioevo, 950-1350}.
-		Einaudi.
-		
-		\bibitem{postan1972}
-		Postan, M. M. (1972).
-		\textit{L'Economia e la Società Medievale}.
-		Einaudi.
-		
-		% Narrativa e Storytelling
-		\bibitem{vogler2007}
-		Vogler, C. (2007).
-		\textit{Il Viaggio dell'Eroe: La Struttura del Mito per Scrittori}.
-		Dino Audino.
-		
-		\bibitem{mckee1997}
-		McKee, R. (1997).
-		\textit{Story: Sostanza, Struttura, Stile e Principi della Sceneggiatura}.
-		International Forum.
-		
-		% Antropologia e Sociologia
-		\bibitem{eliade1957}
-		Eliade, M. (1957).
-		\textit{Il Sacro e il Profano}.
-		Bollati Boringhieri.
-		
-		\bibitem{vangennep1960}
-		van Gennep, A. (1960).
-		\textit{I Riti di Passaggio}.
-		Bollati Boringhieri.
-		
-		% Linguistica e Creazione di Lingue
-		\bibitem{peterson2015}
-		Peterson, D. J. (2015).
-		\textit{L'Arte dell'Invenzione Linguistica}.
-		Hoepli.
-		
-		% Geografia e Cartografia Fantasy
-		\bibitem{fonstad1991}
-		Fonstad, K. W. (1991).
-		\textit{L'Atlante della Terra di Mezzo}.
-		Bompiani.
-		
-		\bibitem{jones1996}
-		Jones, D. W. (1996).
-		\textit{La Guida Dura alla Terra della Fantasia}.
-		Vista.
-		
-		% Filosofia e Etica
-		\bibitem{aristotle350bc}
-		Aristotele. (ca. 350 a.C.).
-		\textit{Etica Nicomachea}.
-		Laterza.
-		
-		\bibitem{aquinas1265}
-		Tommaso d'Aquino. (ca. 1265).
-		\textit{Summa Theologica}.
-		Edizioni Studio Domenicano.
-		
-		% Enciclopedie e Reference
-		\bibitem{clute1997}
-		Clute, J., \& Grant, J. (1997).
-		\textit{L'Enciclopedia del Fantasy}.
-		St. Martin's Griffin.
-		
-		\bibitem{ashley1999}
-		Ashley, M. (1999).
-		\textit{Il Grande Libro del Fantasy}.
-		Carroll \& Graf.
-		
-		% Storia Economica
-		\bibitem{braudel1979}
-		Braudel, F. (1979).
-		\textit{Civiltà materiale, economia e capitalismo (secoli XV-XVIII)}.
-		Einaudi.
-		% Nota: Opera fondamentale in tre volumi che analizza l'evoluzione economica dell'Europa moderna, considerando le strutture della vita quotidiana, i giochi dello scambio e i tempi del mondo.
-		
-		\bibitem{cipolla1994}
-		Cipolla, C. M. (1994).
-		\textit{Storia economica dell'Europa pre-industriale}.
-		Il Mulino.
-		% Nota: Studio classico sull'economia europea dal Medioevo fino alla Rivoluzione Industriale, con particolare attenzione alle strutture demografiche, agricole e commerciali.
-		
-		\bibitem{AngeliF2020}
-		Angeli, Federica (2021)
-		\textit{Le avventure di una mezza Pixie}\\
-		Angeli, Federica (2022)
-		\textit{Nuove avventure di una fatina}\\
-		Angeli, Federica (2023)
-		\textit{Viaggio nel primo mondo}\\
-		Angeli, Federica (2024)
-		\textit{Lama di luce}\\
-		Angeli, Federica (2024)
-		\textit{Il Guardiano di Falkonia}
-	}
-		
-	\end{multicols}
-	
-\end{thebibliography}
+		\printbibliography
+		}
+\end{multicols}
 
 \end{document}
