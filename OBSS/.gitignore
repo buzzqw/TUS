@@ -24,3 +24,19 @@ caricagit-casa.sh
 caricagit-lavoro.bat 
 /home/andres/TUS/OBSS/temp/
 temp/
+
+# Aggiunto automaticamente dal compilatore LaTeX
+*.fdb_latexmk
+*.synctex.gz
+*.bcf
+*.run.xml
+*.out
+*-nocopertina.tex
+*-noimage.tex
+.DS_Store
+Thumbs.db
+*~
+*.bak
+__pycache__/
+*.pyc
+*.pyo
