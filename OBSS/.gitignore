@@ -40,3 +40,6 @@ Thumbs.db
 __pycache__/
 *.pyc
 *.pyo
+
+# Aggiunto automaticamente dal compilatore LaTeX
+.token
