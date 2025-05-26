@@ -7,7 +7,7 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v2
       - name: Compile LaTeX document
-        uses: xu-cheng/latex-action@v3
+        uses: dante-ev/latex-action@latest
         with:
           root_file: "OBSSv2-eng.tex"
           latexmk_use_xelatex: true
