@@ -220,12 +220,12 @@ BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
 \usepackage[final,protrusion=true]{microtype}
 %\sloppy
 
-\begin{document}
-\def \versione {0.99.58} \fontsize{11.5}{11.5}\selectfont  %the first is the font size, the second the spacing between lines  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
-
 \titlespacing{\section}{0pt}{10pt}{5pt} % Section
 \titlespacing{\subsection}{0pt}{8pt}{4pt} % Subsection
 \titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sub-subsection
+
+\begin{document}
+\def \versione {0.99.58} \fontsize{11.5}{11.5}\selectfont  %the first is the font size, the second the spacing between lines  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %must remain on line 230
 
@@ -5188,10 +5188,10 @@ Activ.: &Even.\\
 Activ.: & Even.\\
 \emph{Effect}:& The next successful attack by the end of the next round inflicts one more critical hit.\\
 \emph{Critical}:& As above and two critical hits, but the next round you execute one less Action.\\
-\hline
-\multicolumn{2}{c}{\textbf{Level 12 Maneuvers}}\\
 \end{tabularx}
 \noindent\begin{tabularx}{0.5\textwidth}{lX}
+\hline
+\multicolumn{2}{c}{\textbf{Level 12 Maneuvers}}\\
 \hline
 &\textbf{Relentless Assault}\\
 \hline
@@ -5314,15 +5314,16 @@ If the mount is intelligent, it might move and act as it prefers, regardless of 
 
 
 \begin{center}
-	\includegraphics[width=0.32\textwidth]{immagini/napoleone.png}
+	\includegraphics[width=0.6\textwidth]{immagini/napoleone.png}
 	
 	\emph{White horse, with Napoleon Bonaparte, crossing the Great St. Bernard Pass. (Jacques-Louis David, 1801, Château de Malmaison)}
 	
 \end{center}
 	
+	\bigskip
 	
 	\begin{center}
-		\includegraphics[width=0.32\textwidth]{immagini/saurovallo1-ai.png} 
+		\includegraphics[width=0.6\textwidth]{immagini/saurovallo1-ai.png} 
 		
 		\emph{Trained saurovallo, without Napoleon Bonaparte, with saddle and harness, 105 gp (75+30) (B.I.C.)}
 	\end{center}
@@ -27093,6 +27094,10 @@ this painted brass \textbf{bottle} weighs 500 grams. When you use two actions to
 	\hline
 	3-5 & The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears and the bottle loses its magic.\\
 	6-16 &The efreeti serves you for 1 hour, doing as you command. Then it returns to the bottle and a new stopper appears and seals it. The stopper cannot be removed for 24 hours. The next two times the bottle is opened, the same effect appears. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic.\\
+\end{tabularx}
+\begin{tabularx}{0.45\textwidth}{lX}
+		\textbf{3d6} &\textbf{Effect}\\
+		\hline
 	17-18 & The efreeti can cast the wish spell on your behalf three times. It disappears when it grants the final wish or after 1 hour, at which point the bottle loses its magic.
 \end{tabularx}
 
@@ -30941,7 +30946,7 @@ A monster's type refers to its fundamental nature. Certain spells, magic items, 
 
 The game includes the following monster types:
 
-\smallskip\textbf{Aberrations}, completely alien creatures. Many of them possess innate magical abilities that draw on the alien mind of the creature rather than the mystical forces of the world. Classic examples of aberrations are aboleth, beholders, flayers, and chaos-spawn.
+\smallskip\textbf{Aberrations}, completely alien creatures. Many of them possess innate magical abilities that draw on the alien mind of the creature rather than the mystical forces of the world. Classic examples of aberrations are Aboleth, Brain Eater, Cloaker and Gibbering Mouther.
 
 \smallskip\textbf{Beasts}, non-humanoid creatures that are a natural component of a fantasy world. Some possess magical powers, but most are devoid of Intelligence and have no form of society or language. Classic examples of beasts are all species of common animals, dinosaurs, and giant versions of animals.
 
@@ -30959,9 +30964,9 @@ Celestials are good in nature; classic examples of celestials are angels, couatl
 
 \smallskip\textbf{Fey} are magical creatures closely linked to the forces of nature. They live in hidden glades and misty forests. Examples of fey are dryads, pixies, fairies, and satyrs and The Topi.
 
-\smallskip\textbf{Giants} tower over humans and their kind. They are humanoid in form, although some have multiple heads (ettin) or deformities (fomorians). The six variants of true giants are Hill Giant, stone giant, frost giant, fire giant, cloud giant, storm giant. Besides these, ogres and trolls are also giants.
+\smallskip\textbf{Giants} tower over humans and their kind. They are humanoid in form, although some have multiple heads (ettin) or deformities. The six variants of true giants are Hill Giant, stone giant, frost giant, fire giant, cloud giant, storm giant. Besides these, ogres and trolls are also giants.
 
-\smallskip\textbf{Fiends} are generally called creatures evil creatures from other planes. Sometimes evil priests and spellcasters summon fiends to the material world to execute their will. If an evil celestial is a rarity, a good fiend is practically inconceivable. Fiends include demons, devils, hell hounds, rakshasas, gablin...
+\smallskip\textbf{Fiends} are generally called fiends evil creatures from other planes. Sometimes evil priests and spellcasters summon fiends to the material world to execute their will. If an evil celestial is a rarity, a good fiend is practically inconceivable. Fiends include demons, devils, hell hounds, rakshasas, gablin...
 
 \smallskip\textbf{Oozes} are gelatinous creatures that rarely have a fixed form. They primarily live underground, settling in caves and dungeons, feeding on refuse, carcasses, or creatures unfortunate enough to encounter them. Black puddings and gelatinous cubes are among the most recognizable oozes.
 
@@ -30969,7 +30974,7 @@ Celestials are good in nature; classic examples of celestials are angels, couatl
 
 \smallskip\textbf{Undead} are creatures once alive brought to a horrible state of undeath through the practice of necromantic magic or some blasphemous curse. Among the undead are walking corpses, such as vampires and zombies, or incorporeal spirits, such as ghosts and specters. Some more intelligent undead speak Expiran, a language made of dark whispers.
 
-\smallskip\textbf{Plants}, in this context, are vegetable creatures, not normal flora. Most of them are mobile and some are carnivorous. The most classic example of plants are shambling mounds and ents. Fungal creatures such as gas spores and myconids also fall into this category.
+\smallskip\textbf{Plants}, in this context, are vegetable creatures, not normal flora. Most of them are mobile and some are carnivorous. The most classic example of plants are shambling mounds and Tree Man. Fungal creatures and myconids also fall into this category.
 
 \begin{center}
 \includegraphics[width=0.7\linewidth]{immagini/sanmichelesatana.png}\\

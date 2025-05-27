@@ -70,7 +70,8 @@
 % Fontspec usato solo con XeLaTeX o LuaLaTeX
 \usepackage{fontspec}
 \setmainfont[
-Path=../altro/fonts/,
+%Path=../altro/fonts/,
+Path=/home/azanzani/TUS/altro/fonts/,
 BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
 ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
 BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
@@ -216,14 +217,13 @@ BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
 }
 
 
-\begin{document}
 \def \versione {0.99.58} \fontsize{11}{11.5}\selectfont  %la prima e' la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
 
 \titlespacing{\section}{0pt}{10pt}{5pt} % Sezione
 \titlespacing{\subsection}{0pt}{8pt}{4pt} % Sottosezione
 \titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sotto-sottosezione
 
-
+\begin{document}
 
 
 
@@ -970,13 +970,6 @@ Un Sornelian quasi mai nasce quale figlio di due Sornelian bensì è una spontan
 
 - \emph{Volante} (pipistrello, aquila, gufo, corvo). Hai ali rudimentali. Quando cadi da almeno 3 metri puoi usare una Reazione per planare ed atterrare in sicurezza, come incantesimo \hyperlink{cadutapiuma}{Caduta Piuma} (pag. \pageref{cadutapiuma}), senza subire danni da caduta. Quando esegui una prova di Salto in Lungo o in Alto tiri 1d6 in più. Se scegli due volte questa capacità puoi volare per (CM+CA)/3 minuti, ad intervalli minimi di 1 minuto, al giorno.
 
-\subsection{Golian}\index{Golian}\index{Uomini gigante}\label{golian}\hypertarget{golian}{}
-
-
-I Golian, al pari dei Sornelian, discendono dalla volontà dei Patroni \hyperlink{erondil}{Erondil} (pag. \pageref{erondil}) e \hyperlink{gaya}{Gaya} (pag. \pageref{gaya}) ovvero dal desiderio di avere delle creature che potessero rappresentare i maestosi giganti, i loro piccoli figli.
-
-I Golian hanno caratteristiche fisiche che ricordano i giganti delle loro linee familiari. Alcuni Golian hanno la pelle grigia o quasi marmorizzata come i giganti delle pietre, altri sprizzano scintille schioccando le dita come i giganti del fuoco, altri ancora hanno le pelle azzurra come i giganti del cielo.
-
 
 \begin{center}
 	\includegraphics[height=0.8\linewidth]{immagini/Herakles_Farnese_MAN_Napoli_Inv6001_n01.png}
@@ -987,6 +980,12 @@ I Golian hanno caratteristiche fisiche che ricordano i giganti delle loro linee 
 	
 \end{center}
 
+\subsection{Golian}\index{Golian}\index{Uomini gigante}\label{golian}\hypertarget{golian}{}
+
+
+I Golian, al pari dei Sornelian, discendono dalla volontà dei Patroni \hyperlink{erondil}{Erondil} (pag. \pageref{erondil}) e \hyperlink{gaya}{Gaya} (pag. \pageref{gaya}) ovvero dal desiderio di avere delle creature che potessero rappresentare i maestosi giganti, i loro piccoli figli.
+
+I Golian hanno caratteristiche fisiche che ricordano i giganti delle loro linee familiari. Alcuni Golian hanno la pelle grigia o quasi marmorizzata come i giganti delle pietre, altri sprizzano scintille schioccando le dita come i giganti del fuoco, altri ancora hanno le pelle azzurra come i giganti del cielo.
 
 \textbf{Modificatori razziali:} +2 a Forza, -1 a una Caratteristica a scelta
 
@@ -3073,6 +3072,12 @@ Ogni tre punti ottenuti nella prova di Sopravvivenza oltre la DC (solitamente 13
 
 Si può usare per cercare trappole: 1 minuto per cercare trappole in 3x3 metri, con punteggio 6 costa 3 round, con punteggio di 12 costa 1 round, con punteggio 18 costa 1 Azione.
 
+\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Prove Prove e Prove!]
+		Ad essere cinici un gioco di ruolo è tutta una prova, vuoi per riuscire a fare un salto, per colpire qualcuno, per evitare una trappola od un incantesimo...!
+		Devi essere più intelligente e furbo. Le prove possono essere spesso evitate o affrontate con vantaggio. Gioca con arguzia, usa la tua immaginazione, sii creativo!
+\end{tcolorbox}\end{changemargin}
+
+
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Linguaggi}\index{Linguaggi}\hypertarget{linguaggi}{}\label{linguaggi}
 
 Nel mondo ci sono le vecchie lingue umane, usate solo negli antichi tomi ed in comunità isolate e c'è la lingua Comune costruita dall'insieme dei vecchi idiomi terrestri e comprensibile più o meno a chiunque. Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto pari o superiore a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio. Per ogni punto speso nella Competenza Conoscenza Lingua parla e scrive un altra lingua.
@@ -3120,13 +3125,6 @@ Lingua dei Segni*& dei Segni & dei Segni\\
 \medskip
 
 La \textbf{Telepatia}\index{Telepatia} è un mezzo per parlare con qualsiasi creatura che abbia Intelligenza almeno -3. Non c'è il vincolo del linguaggio, la telepatia funge da traduttore universale.
-
- 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Prove Prove e Prove!]
-Ad essere cinici un gioco di ruolo è tutta una prova, vuoi per riuscire a fare un salto, per colpire qualcuno, per evitare una trappola od un incantesimo...!
-Devi essere più intelligente e furbo. Le prove possono essere spesso evitate o affrontate con vantaggio. Gioca con arguzia, usa la tua immaginazione, sii creativo!
-\end{tcolorbox}\end{changemargin}
-
 
 
 %\begin{center}
@@ -3218,7 +3216,7 @@ Colui che non vuole ragionare è un fanatico, colui che non sa ragionare è un p
 
 \pagebreak
 
-\section{Combattimento Armato}\label{sec:combattimento-armato}\index{Combattimento Armato}
+\section{Combattimento Armato}\label{combattimento-armato}\index{Combattimento Armato}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
 Si vis pacem, para bellum (\emph{Se vuoi la pace, prepara la guerra}, Vegezio, libro III, Epitoma rei militaris)
@@ -3936,22 +3934,21 @@ Se chi carica ha un portata minore dell'avversario allora chi prepara la controc
 
 sono armi a spargimenti quelle che \emph{spargono} il loro contenuto dove cadono, ad esempio olio incendiato/Acqua santa... Una arma a spargimento ha una gittata di 6 metri\index{Lanciare Armi a Spargimento}\index{Gittata armi a spargimento}.
 
-In caso l'attacco manchi (di almeno 5) tirare un d8 e consultare questo schema per capire dove la fiala è caduta:
+In caso l'attacco manchi (di almeno 5) tirare un d8 e consultare questo schema per capire dove la fiala è caduta e tira un 2d6 per determinare lungo la direzione indicata dal d8 precedente a quanti metri è caduto distante dal bersaglio, ovvero contate i metri dal target.
 
 \medskip
 
 \begin{tabular}{ccc}
-8& 1& 2\\
-7 &\textbf{X}& 3\\
-6 &5 &4\\
-&\textbf{0}&
+	8& 1& 2\\
+	7 &\textbf{X}& 3\\
+	6 &5 &4\\
+	&\textbf{0}&
 \end{tabular}
 
 \smallskip
 
 \textbf{X} si considera il bersaglio dell'oggetto tirato. \textbf{0} il punto di origine del lancio.
 
-Se il tiro manca di 5 o più tirare un 2d6 per determinare lungo la direzione indicata dal d8 precedente a quanti metri è caduto distante dal bersaglio, ovvero contate i metri dal target.
 
 Ad esempio con il tiro del d8 faccio 5 e poi tirando 2d6 faccio 4, significa che la boccetta è caduta a destra del bersaglio a 4 metri.
 
@@ -4071,6 +4068,12 @@ costa 3 Azioni, si può utilizzare un'arma da mischia per infliggere un colpo di
 
 L'attaccante colpisce automaticamente ed infligge tre colpi critici.
 
+\subsubsection{Tiri Mirati}\index{Tiri Mirati}\label{tirimirati}\index{Mirare a parti specifiche}
+
+OBSS non prevede la possibilità di effettuare tiri mirati con armi o incantesimi, tranne se questo lo specifica.
+
+Quando si colpisce il bersaglio lo si colpisce genericamente, senza possibilità di specificare se alla testa, gamba o altro, medesimo concetto vale in caso di colpi ad oggetti, es. se miri ad un cardine di una porta colpisci tutta la porta. Questo non impedisce al Narratore di valutare conseguenze adeguate all'azione intrapresa.
+
 
 \medskip
 
@@ -4080,11 +4083,6 @@ L'attaccante colpisce automaticamente ed infligge tre colpi critici.
 	\emph{Judith Beheading Holofernes}
 \end{center}
 
-\subsubsection{Tiri Mirati}\index{Tiri Mirati}\label{tirimirati}\index{Mirare a parti specifiche}
-
-OBSS non prevede la possibilità di effettuare tiri mirati con armi o incantesimi, tranne se questo lo specifica.
-
-Quando si colpisce il bersaglio lo si colpisce genericamente, senza possibilità di specificare se alla testa, gamba o altro, medesimo concetto vale in caso di colpi ad oggetti, es. se miri ad un cardine di una porta colpisci tutta la porta. Questo non impedisce al Narratore di valutare conseguenze adeguate all'azione intrapresa.
 
 \subsubsection{Danno non letale}\index{Danno non letale}\label{dannononletale}
 
@@ -4367,7 +4365,7 @@ L'attivazione di queste Azioni Critiche costa una Reazione se non indicato diver
 
 Usate questi esempi come delle linee guida per stimolare il personaggio a creare un suo stile di combattimento.
 
-\columnbreak
+\medskip
 
 \noindent\textbf{Critici} \hskip 0.5cm \textbf{Effetto}
 
@@ -4388,6 +4386,8 @@ Usate questi esempi come delle linee guida per stimolare il personaggio a creare
 \textbf{1} & Colpisci l'arma. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 2 $ per taglia dell'arma rispetto a media, oppure lascia cadere l'arma\\
 \textbf{2} & Arma danneggiata. L'arma dell'avversario infligge una categoria di danno in meno\\
 \textbf{3} & Colpo alla mano. A causa del dolore entro la fine del tuo prossimo round  l'avversario perde i primi due attacchi\\
+\end{tabularx}
+\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \textbf{4} & Disarmi l'avversario. L'avversario lascia cadere l'arma\\
 \textbf{5} & Mano compromessa. L'avversario fino all'alba del giorno successivo ha -4 al Tiro per Colpire\\
 \hline
@@ -4405,10 +4405,7 @@ Usate questi esempi come delle linee guida per stimolare il personaggio a creare
 \textbf{1} & Spallata. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 4 $ per taglia differenza o cadere prono\\
 \textbf{2} & Sgambetto. L'avversario esegue un Tiro Salvezza su Riflessi DC 19, $ \pm 2 $ per taglia differenza o cadere prono\\
 \textbf{3} & Spinta. L'avversario esegue un Tiro Salvezza su Tempra DC 23, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d6 metri\\
-\textbf{4} & Urto. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, $ \pm 2 $ per taglia differenza o cadere prono.
-\end{tabularx}
-\noindent\begin{tabularx}{0.5\textwidth}{lX}
-& Se il Tiro Salvezza riesce viene allontanato di 1d10 metri\\
+\textbf{4} & Urto. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d10 metri\\
 \hline
 \textbf{\#} & \textbf{Proiettili}\\
 \hline
@@ -4420,11 +4417,11 @@ Usate questi esempi come delle linee guida per stimolare il personaggio a creare
 \hline
 \textbf{1} & Incitare i compagni. I tuoi compagni entro 6 metri hanno al loro primo attacco +2 al Tiro per Colpire\\
 \textbf{2} & Berserker. Un tuo compagno entro sei metri può eseguire una Azione di Attacco contro un avversario in mischia al costo di una Reazione\\
-\end{tabularx}
-\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \textbf{3} & Scossa. Un tuo compagno, entro 6 metri, può usare una Reazione per eseguire una Azione di Movimento trattando il terreno come difficile\\
 \textbf{4} & Gloria. I tuoi compagni entro 6 metri hanno +2 al Tiro per Colpire entro la fine del loro prossimo round\\
 \textbf{5} & Gloria!. I tuoi compagni entro 9 metri hanno +4 al Tiro per Colpire entro la fine del loro prossimo round\\
+\end{tabularx}
+\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline
 \textbf{\#} & \textbf{Difesa!}\\
 \hline
@@ -4510,6 +4507,8 @@ Attiv.:& Mancato con un dispari.\\
 Attiv.:& Mancato con un pari.\\
 \emph{Effetto}:& Muovi 1 metro senza provocare attacchi di opportunità.\\
 \emph{Critico}:& Come sopra ma di muovi 2 metri.\\
+\end{tabularx}
+\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline
 &\textbf{Colpo Distraente}\\
 \hline
@@ -4540,8 +4539,6 @@ Attiv.: &Mancato.\\
 \hline
 Attiv.&: Pari.\\
 \emph{Effetto}:& Aggiungi il modificatore di Intelligenza o Saggezza alla Difesa contro l'avversario fino all'inizio del prossimo round.\\
-\end{tabularx}
-\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \emph{Critico}:& Aggiungi il modificatore di Intelligenza e Saggezza al prossimo Tiro per Colpire contro l'avversario fino all'inizio del prossimo round.\\
 \hline
 &\textbf{Supporto Coordinato}\\
@@ -4569,6 +4566,8 @@ Attiv.:& Dispari.\\
 Attiv.:& Mancato.\\
 \emph{Effetto}:& +2 ai Tiri per Colpire in mischia fino alla fine del prossimo round.\\
 \emph{Critico}:& Fino alla fine del prossimo round se colpisci causi un Danno Critico in più.\\
+\end{tabularx}
+\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline
 &\textbf{Elusione Perfetta}\\
 \hline
@@ -4600,8 +4599,6 @@ Attiv.:& Pari.\\
 \hline
 Attiv.:& Mancato.\\
 \emph{Effetto}: &Ti muovi di 1 metro.\\
-\end{tabularx}
-\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \emph{Critico}: &Ti muovi fino a 4 metri, ma il prossimo round esegui una Azione in meno.\\
 \hline
 &\textbf{Apertura Devastante}\\
@@ -4627,6 +4624,8 @@ Attiv.: &Pari.\\
 Attiv.: & Pari.\\
 \emph{Effetto}:& Il prossimo attacco a segno entro fine del round prossimo infligge un danno critico in più.\\
 \emph{Critico}:& Come sopra e due danni critici ma il round successivo esegui una Azione in meno.\\
+\end{tabularx}
+\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \hline
 \multicolumn{2}{c}{\textbf{Manovre livello 12}}\\
 \hline
@@ -4652,8 +4651,6 @@ Attiv.: &Dispari.\\
 \hline
 Attiv.:& Pari.\\
 \emph{Effetto}:& Il prossimo attacco andato a segno entro la fine del round successivo infligge danni critici massimizzati.\\
-\end{tabularx}
-\noindent\begin{tabularx}{0.5\textwidth}{lX}
 \emph{Critico}: &Come sopra ma computi 2 danni critici massimizzati, ma esegui una Azione in meno.\\
 \hline
 &\textbf{Furia Incontenibile}\\
@@ -4663,20 +4660,19 @@ Attiv.:& Pari.\\
 \emph{Critico}: &Fino alla fine del prossimo round hai -4 alla Difesa, +1d6 al Tiro per Colpire e ogni attacco andato a segno causa un danno critico aggiuntivo.
 \end{tabularx}
 
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-Invitate il giocatore crei un suo stile di \emph{fallimento}, fatelo gioire di un \emph{fumble}!
-\end{narratore}\end{changemargin}
-
-
 \begin{center}
-\includegraphics[width=0.4\linewidth]{immagini/Bushido_Calligraphy.png}
+\includegraphics[width=0.3\linewidth]{immagini/Bushido_Calligraphy.png}
 
 \medskip
 
 \emph{Trascrizione in kanji di} bushido
 
 \end{center}
+
+\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+		Invitate il giocatore crei un suo stile di \emph{fallimento}, fatelo gioire di un \emph{fumble}!
+\end{narratore}\end{changemargin}
+
 
 \subsection{Cavalcature}\index{Combattimento a saurovallo}\index{Saurovallo}\label{cavalcature}\hypertarget{cavalcare}{}\label{cavalcare}
 
@@ -4735,24 +4731,21 @@ Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferis
 
 \end{multicols}
 
-%\vfill
+\vfill
 
-%\begin{figure}[h]
-%	\begin{minipage}{0.5\textwidth}
-%		\centering
-%		\includegraphics[width=\textwidth]{immagini/napoleone.png}  % Sostituisci con il nome del file
-%\emph{Cavallo bianco, con Napoleone Bonaparte, mentre valica il Gran San Bernardo. (Jacques-Louis David, 1801, Castello di Malmaison)}
-%	\end{minipage}
-%	\hspace{0.5cm}
-%	\begin{minipage}{0.5\textwidth}
-%		\centering
-%		\includegraphics[width=\textwidth]{immagini/saurovallo1-ai.png} % Sostituisci con il nome del file
-%\textit{Saurovallo addestrato, senza Napoleone Bonaparte, con sella e finimenti, 105 mo (75+30) (B.I.C.)}
-%	\end{minipage}
-%\end{figure}
-
-
-
+\begin{figure}[h]
+	\begin{minipage}{0.4\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{immagini/napoleone.png}  % Sostituisci con il nome del file
+\emph{Cavallo bianco, con Napoleone Bonaparte, mentre valica il Gran San Bernardo. (Jacques-Louis David, 1801, Castello di Malmaison)}
+	\end{minipage}
+	\hspace{0.5cm}
+	\begin{minipage}{0.4\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{immagini/saurovallo1-ai.png} % Sostituisci con il nome del file
+\textit{Saurovallo addestrato, senza Napoleone Bonaparte, con sella e finimenti, da qualche parte nella fu Italia (B.I.C.)}
+	\end{minipage}
+\end{figure}
 
 
 \pagebreak
@@ -5069,6 +5062,13 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 \end{itemize}
 
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/david di Michelangelo.png}
+	
+	\emph{David di Michelangelo, Galleria dell'Accademia, Firenze}
+\end{center}
+
 \subsection{Armi da Lancio} Ascia ad una mano, Giavellotto, Tridente, Fionda, Pugnale\index{Armi da lancio}\label{listarmitiro}
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
@@ -5080,11 +5080,6 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 \item 16 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +4 al colpire e un +4 ai danni.
 \end{itemize}
 
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/david di Michelangelo.png}
-
-\emph{David di Michelangelo, Galleria dell'Accademia, Firenze}
-\end{center}
 
 
 \subsection{Armi letali} Katana, Machete\index{Armi letali}\label{listarmiletali}
@@ -5106,6 +5101,14 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 %\emph{Katana}
 %\end{center}
 
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/alabarda2.png}
+	
+	\emph{Fauchard, Partigiana, Spetum, Alabarda, Guisarma, Bardica}
+\end{center}
+
+
 \subsection{Aste} \index{Aste}Giavellotto, Tridente, Alabarda\label{listaarmiaste}
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
@@ -5119,12 +5122,6 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 \end{itemize}
 
-
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/alabarda2.png}
-
-\emph{Fauchard, Partigiana, Spetum, Alabarda, Guisarma, Bardica}
-\end{center}
 
 \subsection{Balestre}\index{Balestre}Balestra leggera, Balestra pesante, Balestra ad una mano\label{listaarmibalestr}
 
@@ -5145,6 +5142,14 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 %\end{center}
 
 
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/arma-asta.png}
+	
+	\emph{1 Spiedo dei lanzichenecchi; 2 Picca; 3 Lancia; 4 Spiedo da caccia; 5 Buttafuoco; 6 Falcione; 7 Partigiana ; 8 Alabarda; 9 Alabarda; 10 Roncone; 11 Mazzapicchio; 12 Berdica}
+\end{center}
+
+
 \subsection{Lance} \index{Lance}Alabarda, Urgrosh, Lancia da fante, Falcione in asta, Lancia
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
@@ -5155,13 +5160,6 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 \item 11 punti: la portata della tua lancia diventa 3 metri.
 \item 16 punti: usi 2 Azioni e fai un unico Tiro per Colpire. Se va a segno causi 3 colpi critici aggiuntivi.
 \end{itemize}
-
-
-\begin{center}
-\includegraphics[width=0.7\linewidth]{immagini/arma-asta.png}
-
-\emph{1 Spiedo dei lanzichenecchi; 2 Picca; 3 Lancia; 4 Spiedo da caccia; 5 Buttafuoco; 6 Falcione; 7 Partigiana ; 8 Alabarda; 9 Alabarda; 10 Roncone; 11 Mazzapicchio; 12 Berdica}
-\end{center}
 
 \subsection{Palle rotanti} Flagello, Flagello Pesante, Flagello Doppio, Catena chiodata, Frusta\label{listaarmipallerotanti}
 
@@ -9304,17 +9302,15 @@ A fare due conti la Palla di Fuoco dovrebbe avere un raggio di 4 metri per influ
 
 Se questo fattore influisce troppo sul vostro gioco riducete della metà ($r-r/2$) i raggi delle esplosioni e le lunghezze dei coni. 
 
+\end{multicols}
+
+\vfill
 
 \begin{center}
-	\includegraphics[width=0.7\linewidth]{immagini/The_Chariot_of_Hermes.png}
+	\includegraphics[width=0.3\linewidth]{immagini/The_Chariot_of_Hermes.png}
 	
 	\emph{Tarocchi - il Carro}
 \end{center}
-
-\end{multicols}
-
-
-\vfill
 
 
 %\begin{center}
@@ -15567,7 +15563,7 @@ Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di ra
 \vfill
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.47\linewidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
+\includegraphics[keepaspectratio,width=0.35\linewidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
 
 \medskip
 
@@ -18089,13 +18085,13 @@ I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizz
 
 \end{multicols}
 
-%\vfill
+\vfill
 
-%\begin{center}
-%\includegraphics[keepaspectratio,width=0.8\textwidth]{immagini/archetipijung.png}
+\begin{center}
+\includegraphics[keepaspectratio,width=0.6\textwidth]{immagini/archetipijung.png}
 
-%\emph{I 12 Archetipi di Jung}
-%\end{center}
+\emph{I 12 Archetipi di Jung}
+\end{center}
 
 
 
@@ -18877,7 +18873,6 @@ Boccetta di inchiostro o pozione & 1 mo & L\\
 Borsa & 5 ma & L \\ 
 Alchimista (laboratorio) & 200 mo & 5 \\
 Borsa da cintura (vuota) & 1 mo & L \\
-Borsa da Guaritore & 20 mo & 1 \\
 \end{tabular}
 
 \columnbreak
@@ -18887,6 +18882,8 @@ Borsa da Guaritore & 20 mo & 1 \\
 \toprule
 \textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\
 \midrule
+
+Borsa da Guaritore & 20 mo & 1 \\
 Borsa dei Componenti & 25 mo & L \\
 Bottiglia di vetro & 2 mo & L \\
 Brocca di ceramica (5lt) & 2 mr & L \\
@@ -18945,15 +18942,15 @@ Olio da lanterna & 1 ma & 1 \\
 Orologio ad acqua & 900 mo & - \\
 Otre & 1 mo & 2 \\
 Pala o badile & 2 mo & 1 \\
-Pane (a pagnotta) & 2 mr & - \\
-Pasti (al giorno) Buono & 5 ma & - \\
-Pasti (al giorno) Modesto & 3 ma & - \\
-Pasti (al giorno) Povero & 6 mr & - \\
 \end{tabular}
 \noindent\begin{tabular}{p{5.1cm}p{1.5cm}p{0.7cm}}
 \toprule
 \textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\
 \midrule
+Pane (a pagnotta) & 2 mr & - \\
+Pasti (al giorno) Buono & 5 ma & - \\
+Pasti (al giorno) Modesto & 3 ma & - \\
+Pasti (al giorno) Povero & 6 mr & - \\
 Peluche & 2 ma & - \\
 Pennino & 1 ma & - \\
 Pentola di ferro & 8 ma & 1 \\
@@ -20053,6 +20050,13 @@ Qualsiasi personaggio può attraversare acque relativamente calme che non abbian
 Una creatura con una velocità di Nuotare può muoversi attraverso l'acqua alla sua velocità indicata senza fare prove di Nuotare. Ha un bonus di +2d6 su qualsiasi prova di Nuotare per eseguire un'azione particolare o evitare un pericolo.
 La creatura può sempre scegliere di prendere 10 su una prova di Nuotare, anche se distratti od in pericolo quando si nuota. Non può prendere il 10 solo in caso di acque tempestose. Una tale creatura può utilizzare l'azione di correre mentre nuota, a condizione che nuoti in linea retta.
 
+Un incantatore si considera Distratto se lancia un incantesimo mentre è in acqua.
+
+Se non si ha il tipo di movimento Nuotare \textbf{muoversi nell'acqua} si considera come \textbf{\emph{terreno} difficile}, e quindi ci si muovo a metà della velocità indicata da movimento. 
+
+Se la creatura sa nuotare non sono necessarie prove per muoversi normalmente in acque calme, tranne in cui voglia \emph{correre} (DC 13) o le acque siano mosse (DC 15) o siano tempestose (DC 20).
+
+
 \medskip
 
 \begin{center}
@@ -20062,11 +20066,6 @@ La creatura può sempre scegliere di prendere 10 su una prova di Nuotare, anche 
 
 \medskip
 
-Un incantatore si considera Distratto se lancia un incantesimo mentre è in acqua.
-
-Se non si ha il tipo di movimento Nuotare \textbf{muoversi nell'acqua} si considera come \textbf{\emph{terreno} difficile}, e quindi ci si muovo a metà della velocità indicata da movimento. 
-
-Se la creatura sa nuotare non sono necessarie prove per muoversi normalmente in acque calme, tranne in cui voglia \emph{correre} (DC 13) o le acque siano mosse (DC 15) o siano tempestose (DC 20).
 
 Se la creatura non sa nuotare allora deve fare una Tiro Salvezza su Tempra a DC 13 ogni round che vuole muoversi, se le acque sono mosse la DC è 19 e se sono tempestose la DC è 24, se si vuole \emph{correre} la DC aumenta di 4.
 In caso di fallimento non ci si sposta e si ha un -1 alla prova successiva, in caso di fallimento critico la successiva prova prende -4, le penalità si cumulano finché non si riesce nella prova.
@@ -20107,12 +20106,6 @@ Il caldo infernale (temperatura dell'aria sopra i 60° C, fuoco, acqua che bolle
 
 L'acqua bollente infligge 1d6 danni da scottatura, a meno che il personaggio non vi venga completamente immerso, nel qual caso subirebbe 10d6 danni per round di esposizione.
 
-
-\begin{center}
-	\includegraphics[width=0.7\linewidth]{immagini/fuocopericolo.png}
-\end{center}
-
-
 \subsubsection{Prendere Fuoco}\index{Prendere Fuoco}\index{Fuoco}
 
 \label{prendere-fuoco}
@@ -20120,6 +20113,12 @@ L'acqua bollente infligge 1d6 danni da scottatura, a meno che il personaggio non
 I personaggi esposti ad olio bollente, fuochi da campo, fuochi magici non istantanei possono vedere i loro abiti, capelli o equipaggiamento prendere fuoco. Gli incantesimi specificano se sono in grado di appiccare il fuoco.
 
 I personaggi che rischiano di prendere fuoco possono effettuare un Tiro Salvezza su Riflessi con DC 15 per evitare questo fato. Se i vestiti o i capelli di un personaggio prendono fuoco, egli subisce immediatamente 1d6 danni. Per ogni round successivo il personaggio in fiamme deve effettuare un altro Tiro Salvezza su Riflessi. Il fallimento indica che subisce altri 1d6 danni in quel round. Il successo indica che il fuoco si è estinto (una volta che supera il Tiro Salvezza non sta più andando a fuoco).
+
+
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{immagini/fuocopericolo.png}
+\end{center}
+
 
 Un personaggio che va a fuoco può estinguere automaticamente le fiamme saltando dentro a dell'acqua sufficiente a spegnerle. Se non ci sono grosse quantità d'acqua a disposizione, rotolarsi sul terreno o smorzare la fiamma con mantelli o simili può concedere al personaggio +1d6 al Tiro Salvezza.
 
@@ -20136,16 +20135,16 @@ I danni provocati dal magma continuano per 1d3 round dopo il termine dell'esposi
 
 \subsubsection{Pericoli del Freddo}\index{Freddo}
 
+\label{pericoli-del-freddo}
+
+I personaggi non ben vestiti in climi freddi (sotto i 5° C) devono superare un Tiro Salvezza su Tempra ogni ora (DC 15, +1 per ogni prova precedente) oppure subiscono 1d6 Danni Non Letali.
+In condizioni di freddo estremo o di esposizione sotto i -17° C, un personaggio non adeguatamente vestito deve effettuare un Tiro Salvezza su Tempra ogni 10 minuti (DC 15, +1 per ogni prova precedente), subendo 1d6 Danni Letali per ogni Tiro Salvezza fallito. I personaggi che indossano abiti invernali hanno bisogno di effettuare la prova per il freddo e l'esposizione solo una volta all'ora.
+
 
 \begin{center}
 	%\includegraphics[height=0.7\linewidth]{immagini/snowfall.png}
 	\includegraphics[height=0.6\linewidth]{immagini/Forest_road_Slavne_2017_G4_grayscale.png}
 \end{center}
-
-\label{pericoli-del-freddo}
-
-I personaggi non ben vestiti in climi freddi (sotto i 5° C) devono superare un Tiro Salvezza su Tempra ogni ora (DC 15, +1 per ogni prova precedente) oppure subiscono 1d6 Danni Non Letali.
-In condizioni di freddo estremo o di esposizione sotto i -17° C, un personaggio non adeguatamente vestito deve effettuare un Tiro Salvezza su Tempra ogni 10 minuti (DC 15, +1 per ogni prova precedente), subendo 1d6 Danni Letali per ogni Tiro Salvezza fallito. I personaggi che indossano abiti invernali hanno bisogno di effettuare la prova per il freddo e l'esposizione solo una volta all'ora.
 
 Un personaggio somma i punti assegnati in Sopravvivenza ai Tiri Salvezza e può dare un bonus ai compagni pari alla metà del valore per lo stesso Tiro Salvezza.
 
@@ -20364,7 +20363,7 @@ Sebbene la velocità rotatoria di un tornado possa raggiungere i 450 km/h, il co
 \vfill
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.45\textwidth]{immagini/blizzard.png}
+\includegraphics[keepaspectratio,width=0.6\textwidth]{immagini/blizzard.png}
 
 \end{center}
 
@@ -20908,13 +20907,13 @@ E' necessario un Tiro Salvezza su Riflessi DC 14 oppure subire 2d6 di danno da t
 
 \end{multicols}
 
-%\vfill
+\vfill
 
-%\begin{center}
-%\includegraphics[width=0.45\linewidth]{immagini/GBP14.png}
+\begin{center}
+\includegraphics[width=0.7\linewidth]{immagini/GBP14.png}
 
-%\textit{Carceri d'invenzione, XIV / The Gothic Arch, Giovanni Battista Piranesi}
-%\end{center}
+\textit{Carceri d'invenzione, XIV / The Gothic Arch, Giovanni Battista Piranesi}
+\end{center}
 
 \pagebreak
 
@@ -23466,7 +23465,7 @@ Anche nel miglior gruppo già affiatato è sempre bene ricordare e condividere q
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}
 {
-I problemi più complessi hanno soluzioni semplici e facili da comprendere ma sbagliate (Arthur Bloch).... ma se sono divertenti e piacciono a tutti allora usale! (NdA)
+I problemi più complessi hanno soluzioni semplici e facili da comprendere ma sbagliate (Arthur Bloch).... ma se sono divertenti e piacciono a tutti allora usatele! (NdA)
 }
 \end{enfasi}\end{changemargin}\medskip
 
@@ -25336,8 +25335,6 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 11-15 &Sei stordito fino all'inizio del tuo prossimo round, e ritieni che sia accaduto qualcosa di stupefacente.\\
 16-20 &Lanci l'incantesimo Folata di vento.\\
 21-25 &Lanci l'incantesimo Individuazione dei pensieri sul bersaglio da te scelto. Se il tuo a bersaglio non è una creatura, subisci invece 1d6 danni.\\
-\end{tabularx}
-\noindent\begin{tabularx}{0.50\textwidth}{lX}
 26-30 &Lanci l'incantesimo Nebbia Nauseante.\\
 31-33 &Pioggia abbondante precipita in un raggio di 18 metri centrato sul bersaglio. L'area diventa oscurata leggermente. La pioggia continua a cadere fino all'inizio del tuo prossimo round.\\
 34-36 &Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. \\
@@ -25348,6 +25345,8 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 54-58 &Lanci l'incantesimo oscurità.\\
 59-62 &Erba folta spunta in un raggio di 18 metri intorno al bersaglio.Se vi è già dell'erba, questa cresce di dieci volte e resta così per 1 minuto.\\
 63-65 &Un oggetto a scelta del Narratore scompare sul Piano Etereo. L'oggetto non deve essere né indossato né trasportato, deve essere entro 36 metri dal bersaglio, e non più grande di 3 metri in ciascuna dimensione.\\
+\end{tabularx}
+\noindent\begin{tabularx}{0.50\textwidth}{lX}
 66-69 &Ti rimpicciolisci come se avessi lanciato su di te l'incantesimo ingrandire/ridurre.\\
 70-79 &Lanci l'incantesimo Palla di fuoco.\\
 80-84 &Lanci l'incantesimo Invisibilità su di te.\\
@@ -27991,17 +27990,17 @@ questi \textbf{zoccoli} di ferro si trovano in set da quattro. Quando tutti e qu
 
 \end{multicols}
 
-%\vfill
-%\begin{center}
-%\includegraphics[width=0.7\linewidth]{immagini/borsetta.png}
+\vfill
+\begin{center}
+\includegraphics[width=0.7\linewidth]{immagini/borsetta.png}
 
-%\emph{Borsetta conservante, modello classico, Tipo II}
+\emph{Borsetta conservante, modello classico, Tipo II}
 
 %\includegraphics[width=0.8\linewidth]{immagini/The_erection_of_the_Tabernacle_and_the_Sacred.png}
 
 %\emph{Ark of the Covenantat the erection of the Tabernacle and the sacred vessels, as in Exodus 40:17–19. Figures de la Bible, Gerard Hoet (1648–1733) and others, published by P. de Hondt in The Hague in 1728}
 
-%\end{center}
+\end{center}
 
 
 
@@ -28318,6 +28317,10 @@ Creare un'arma magica richiede una giornata per ogni 1000 mo del valore del prez
 
 \textbf{Talento di creazione oggetto richiesto}: Creare Oggetti Magici, Competenza Fabbro
 
+\begin{center}
+	\includegraphics[width=0.5\linewidth]{immagini/wand.png}
+\end{center}
+
 \subsection{Creare Bacchette}\index{Creare Bacchette}\label{crearebacchette}
 
 Il costo di produzione della Bacchetta è pari a livello*livello*400, una Bacchetta con Invisibilità costa 2*2*400=1600 mo
@@ -28330,15 +28333,18 @@ Per creare una bacchetta, un personaggio ha bisogno di una provvista di material
 
 L'incantatore deve conoscere l'incantesimo che inserisce nella Bacchetta.
 
-\begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/wand.png}
-\end{center}
 
 Creare una bacchetta richiede 1 giorno per ogni 500 mo del valore del prezzo base.
 
 \medskip
 
 \textbf{Talento di creazione oggetto richiesto}: Creare Oggetti Magici, Competenza Arcana.
+
+
+
+\begin{center}
+	\includegraphics[width=0.35\linewidth]{immagini/staff2.png}
+\end{center}
 
 \subsection{Creare Bastoni}\index{Creare Bastoni}\label{crearebastoni}
 
@@ -28360,9 +28366,6 @@ I bastoni sono sempre pienamente carichi, 10 cariche, all'atto della creazione.
 
 Una Bastone può contenere come massimo livello di incantesimo 8, o in caso di diversi incantesimi il massimo livello è il 6.
 
-\begin{center}
-\includegraphics[width=0.35\linewidth]{immagini/staff2.png}
-\end{center}
 
 Creare un bastone richiede 1 giorno per ogni 500 mo del prezzo base.
 
@@ -28686,7 +28689,7 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 \vfill
 
 \begin{center}
-\includegraphics[width=0.3\linewidth]{immagini/donnalemb.png}
+\includegraphics[width=0.4\linewidth]{immagini/donnalemb.png}
 
 \emph{Donna di Lemb o Statua della Dea della Morte, 3500 AC. DC 40}
 \end{center}
@@ -29330,7 +29333,7 @@ Il tipo di un mostro si riferisce alla sua natura basilare. Certi incantesimi, o
 
 Il gioco comprende i seguenti tipi di mostri:
 
-\smallskip\textbf{Aberrazioni}, creature totalmente aliene. Molte di esse possiedono innate abilità magiche che attingono alla mente aliena della creatura anziché dalle forze mistiche del mondo. Esempi classici di aberrazioni sono aboleti, osservatori, scorticamente e i batraci del caos.
+\smallskip\textbf{Aberrazioni}, creature totalmente aliene. Molte di esse possiedono innate abilità magiche che attingono alla mente aliena della creatura anziché dalle forze mistiche del mondo. Esempi classici di aberrazioni sono aboleti, divora cervelli ed i fustigatori.
 
 \smallskip\textbf{Bestie}, creature non umanoidi che sono una componente naturale di un mondo fantasy. Alcune possiedono poteri magici, ma la maggior parte è priva di Intelligenza e non ha alcuna forma di società o linguaggio. Esempi classici di bestie sono tutte le specie di animali comuni, i dinosauri e le versioni giganti degli animali.
 
@@ -29348,7 +29351,7 @@ I celestiali sono di natura buona, esempi classici di celestiali sono angeli, co
 
 \smallskip\textbf{Fatati}, sono creature magiche strettamente legate alle forze della natura. Vivono in radure nascoste e foreste nebbiose. Esempi di fatati sono driadi, pixie, fate e satiri e La Topi.
 
-\smallskip\textbf{Giganti}, troneggiano sugli umani e i loro simili. Sono di forma umana, sebbene alcuni abbiano più teste (ettin) o deformità (fomori). Le sei varianti dei veri giganti sono Gigante delle Colline, gigante di pietra, gigante del gelo, gigante del fuoco, gigante delle nuvole, gigante delle tempeste. Oltre questi, anche ogri e troll sono giganti.
+\smallskip\textbf{Giganti}, troneggiano sugli umani e i loro simili. Sono di forma umana, sebbene alcuni abbiano più teste (ettin) o deformità. Le sei varianti dei veri giganti sono Gigante delle Colline, gigante di pietra, gigante del gelo, gigante del fuoco, gigante delle nuvole, gigante delle tempeste. Oltre questi, anche ogri e troll sono giganti.
 
 \smallskip\textbf{Immondi}, vengono genericamente chiamati immondi le creature malvagie provenienti da altri piani. A volte sacerdoti e incantatori malvagi evocano gli immondi nel mondo materiale perché eseguano le loro volontà. Se un celestiale malvagio è una rarità, un immondo buono è praticamente inconcepibile. Gli immondi includono demoni, diavoli, segugi infernali, rakshasa, gablin...
 
@@ -29358,7 +29361,7 @@ I celestiali sono di natura buona, esempi classici di celestiali sono angeli, co
 
 \smallskip\textbf{Non Morti}, sono creature un tempo vive condotte ad un orribile stato di non morte tramite la pratica della magia negromantica o qualche blasfema maledizione. Tra i non morti si annoverano cadaveri ambulanti, come vampiri e zombi, oppure spiriti incorporei, come fantasmi e spettri. Alcuni non morti più intelligenti parlano Expiran, una lingua fatti di oscuri sussurri.
 
-\smallskip\textbf{Piante}, in questo contesto si tratta di creature vegetali, non della normale flora. La maggior parte di esse sono mobili e alcune sono carnivore. L'esempio più classico di piante sono i tumuli ambulanti e gli ent. Anche le creature fungoidi come le spore gassose e i miconidi rientrano in questa categoria.
+\smallskip\textbf{Piante}, in questo contesto si tratta di creature vegetali, non della normale flora. La maggior parte di esse sono mobili e alcune sono carnivore. L'esempio più classico di piante sono i Cumulo Strisciante e gli Uomini Albero. Anche le creature fungoidi e i miconidi rientrano in questa categoria.
 
 \begin{center}
 \includegraphics[width=0.7\linewidth]{immagini/sanmichelesatana.png}\\
@@ -35106,12 +35109,6 @@ L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure.
 	\item[\textbf{Sfida:}] GS \\
 \end{description}
 
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/tornado_Elie_Manitoba_2007.png}
-\end{center}
-
-
 \emph{\textbf{Forma d'Aria.}} L'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 3 centimetri senza doversi stringere.\\
 \emph{\textbf{Natura Elementale.}} Un elementale non ha bisogno di aria, cibo, bevande o sonno.\\
 \textbf{Azioni}\\
@@ -35119,9 +35116,13 @@ L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure.
 \emph{\textbf{Schianto.} Attacco con arma da mischia}: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio.\\
 \emph{Colpisce:} 1d6*GS/3 danni contundenti.\\
 
-
-
 \textbf{Reazione: \emph{Attacco d'opportunità}}: l'elementale effettua un attacco ad una creatura che attraversa o esca dalla sua portata di GS/3 metri.
+
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/tornado_Elie_Manitoba_2007.png}
+\end{center}
+
 
 \emph{\textbf{Turbine (Ricarica 4-6).}} Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC 10+GS*1.5. Se lo fallisce, il bersaglio subisce 1d8*GS/3 danni contundenti e viene scagliato a GS metri di distanza dall'elementale in una direzione casuale e cadere prono. Se un bersaglio lanciato colpisce un oggetto, come un muro o il pavimento, subisce 3 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza di Riflessi DC 13 o subire lo stesso danno e cadere prona.
 Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente e non viene scagliato via né cade prono.
@@ -35161,10 +35162,6 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 \textbf{Reazione: \emph{Attacco d'opportunità}}: l'elementale effettua un attacco ad una creatura che attraversa o esca dalla sua portata di GS/3 metri.
 
 
-\begin{center}
-	\includegraphics[width=0.6\linewidth]{immagini/eleterra.png}
-\end{center}
-
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Elementale della Terra Generico} \hypertarget{Elementale della Terra Generico}{}\medskip \noindent{\large\textbf{Elementale della Terra Generico}}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
@@ -35193,6 +35190,10 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 \textbf{Reazione: \emph{Attacco d'opportunità}}: l'elementale effettua un attacco ad una creatura che attraversa o esca dalla sua portata di GS/3 metri.
 
+
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{immagini/eleterra.png}
+\end{center}
 
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Ettercap} \hypertarget{Ettercap}{}\medskip \noindent{\large\textbf{Ettercap}}
@@ -38288,6 +38289,14 @@ Organizzazione: Solitario\\
 I protoplasmi neri sono gli spazzini del mondo sotterraneo, costantemente alla ricerca di cibo. Possono percepire corpi organici o metallici nel raggio di 18 metri e attaccano in modo istintivo tali oggetti o esseri finché non li dissolvono, o finché la melma non viene uccisa. Un protoplasma nero si riproduce staccando un pezzo del proprio corpo e formando un nuovo protoplasma più piccolo che raggiunge l'età adulta nel giro di un mese. Alcune tra le creature più intelligenti nel mondo sotterraneo usano i protoplasmi neri per smaltire in modo naturale la spazzatura, creando cave di pietra atte ad ospitare il protoplasma, per poi gettarvi i rifiuti organici o i nemici.
 
 
+\medskip
+
+\begin{center}
+	\includegraphics[width=0.9\linewidth]{immagini/mimic_grayscale.png}
+	
+	\emph{Mimic, la curiosità può fare male...}
+\end{center}
+
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Mimic} \hypertarget{Mimic}{}\medskip \noindent{\large\textbf{Mimic}}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
@@ -38313,15 +38322,6 @@ I protoplasmi neri sono gli spazzini del mondo sotterraneo, costantemente alla r
 \emph{\textbf{Mutaforma.}} Il mimic può usare una Azione per trasformarsi in un oggetto, o per tornare alla sua vera forma amorfa. Le sue statistiche sono le stesse in qualsiasi forma. Qualsiasi equipaggiamento stia indossando o trasportando non si trasforma. Alla morte ritorna al suo vero aspetto.
 
 
-\medskip
-
-\begin{center}
-	\includegraphics[width=0.9\linewidth]{immagini/mimic_grayscale.png}
-	
-	\emph{Mimic, la curiosità può fare male...}
-\end{center}
-
-\medskip
 
 \textbf{Azioni}
 
@@ -39732,11 +39732,6 @@ Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrile
 
 \emph{\textbf{Soffio Infuocato (Ricarica 5-6).}} Il segugio esala fuoco in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 14, e subire 21 (6d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-
-\begin{center}
-	\includegraphics[width=0.5\textwidth]{immagini/ginosfinge.png}
-\end{center}
-
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Androsfinge} \hypertarget{Androsfinge}{}\medskip \noindent{\large\textbf{Androsfinge}}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
@@ -39774,6 +39769,10 @@ livello 4 (3 slot): \emph{\hyperlink{Esilio}{Esilio}, \hyperlink{Libertà di Mov
 livello 5 (2 slot): \emph{\hyperlink{Colpo Infuocato}{Colpo Infuocato}, \hyperlink{Ristorare Superiore}{Ristorare Superiore}}
 
 livello 6 (1 slot): \emph{\hyperlink{Banchetto degli Eroi}{Banchetto degli Eroi}}
+
+\begin{center}
+	\includegraphics[width=0.5\textwidth]{immagini/ginosfinge.png}
+\end{center}
 
 \textbf{Azioni}
 
@@ -43020,12 +43019,12 @@ I cavalieri sono combattenti che giurano fedeltà a sovrani, ordini religiosi, e
 \emph{\textbf{Parata.}} Il cavaliere può aggiungere 2 alla sua Difesa contro un attacco da mischia che lo colpirebbe. Per farlo, il cavaliere deve vedere l'attaccante e star impugnando un'arma da mischia. 
 
 
-\begin{center}
-	\includegraphics[width=0.3\textwidth]{immagini/Knight_Death_and_the_Devil_MET_DP159047.png}
+%\begin{center}
+%	\includegraphics[width=0.3\textwidth]{immagini/Knight_Death_and_the_Devil_MET_DP159047.png}
 	
-	\textit{Cavaliere, Morte e Diavolo. Albrecht Durer}
+%	\textit{Cavaliere, Morte e Diavolo. Albrecht Durer}
 	
-\end{center}
+%\end{center}
 
 \noindent{\large\textbf{Cittadini}}
 
@@ -44356,22 +44355,19 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 \textbf{3d6} & \textbf{Effetto}\\
 3& Sei imbarazzato del tuo colpo, ma non succede nulla di particolare\\
 4& Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa\\
-\end{tabularx}
-\begin{tabularx}{0.5\textwidth}{l|X}
-\textbf{3d6} & \textbf{Effetto}\\
 5& Metti male il piede. Fino alla fine del prossimo round hai movimento dimezzato\\
 6& Perdi il fiato. Fino all'inizio del prossimo round ha -1 Forza\\
 7& Piroetta. Ti sposti in una direzione casuale di 1 metro\\
 8& Goffo. Fino a all'inizio del prossimo round hai -4 alla Difesa\\
 9& Occhio pesto. Fino alla fine del round prossimo ogni avversario gode di copertura leggera\\
+\end{tabularx}
+\begin{tabularx}{0.5\textwidth}{l|X}
+\textbf{3d6} & \textbf{Effetto}\\
 10 & Mani di burro. Ti cade l'arma\\
 11 & Strappo muscolare. Il prossimo attacco non aggiunge la Forza al danno\\
 12 & Caviglia fragile. Portando il colpo inciampi. Cadi prono\\
 13 & Ti cade l'arma a 3 metri in una direzione casuale\\
 14 & Perdi fiducia in te stesso. Il prossimo attacco lo esegui con un -4 aggiuntivo\\
-\end{tabularx}
-\begin{tabularx}{0.5\textwidth}{l|X}
-\textbf{3d6} & \textbf{Effetto}\\
 15 & Bersaglio sbagliato. Colpisci una creatura a caso a portata.\\ 
 16 & Confuso. Ti dai una botta sulla testa. Fino alla fine del round sei sotto l'incantesimo \hyperlink{Confusione}{Confusione}\\
 17 & Ti colpisci con forza. Tira il danno regolare verso te stesso. Il round finisce\\
@@ -44408,21 +44404,19 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 		\toprule
 		\textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} \\
 		\midrule
-		1-3   & Arma rotta & 26    & Alabarda & 51-52 & Spada corta & 76-78 & Spada lunga \\
-		4-5   & Arco lungo & 27    & Arco corto & 53-54 & Spada a due lame & 79-81 & Spada bastarda \\
-		6-7   & Ascia da battaglia & 28    & Ascia ad una mano & 55-56 & Picca pesante & 82-84 & Spada larga \\
-		8-10  & Balestra ad una mano & 29    & Bastone & 57-58 & Pugnale & 85-87 & Spadone a due mani \\
-		11-13 & Balestra leggera & 30    & Falce & 59-60 & Scimitarra & 88    & Stocco \\
-		14-16 & Balestra pesante & 31    & Flagello doppio & 61-62 & Mazza leggera & 89    & Tridente \\
-		17-18 & Catena chiodata & 32    & Frusta & 63    & Mazza flangiata & 90    & Urgrosh \\
-		19-20 & Estoc & 33    & Giavellotto & 64    & Mazza chiodata & 91-92 & Katana \\
-		21-22 & Falcetto & 34    & Arma rotta & 65    & Picca leggera & 93    & Manganello \\
-		23-25 & Falcione in asta & 35-36 & Machete & 66-67 & Lancia & 94    & Guanto chiodato \\
-		& & 37-38 & Martello da guerra & 68-69 & Flagello & 95-100 & Ascia martello \\
-		& & 39-40 & Flagello pesante & 70-71 & Grande ascia doppia & &\\
-		& & 41-42 & Lancia da fante & 72-73 & Arco lungo composito & &\\
-		& & 43-44 & Arco corto composito & 74-75 & Maglio da guerra & &\\
-		& & 45-50 & Falcione & & & &\\
+		1-2   & Arma rotta & 26-27 & Alabarda & 51-52 & Spada corta & 76-77 & Spada lunga \\
+		3-4   & Arco lungo & 28-29 & Arco corto & 53-54 & Spada a due lame & 78-79 & Spada bastarda \\
+		5-6   & Ascia da battaglia & 30-31 & Ascia ad una mano & 55-56 & Picca pesante & 80-81 & Spada larga \\
+		7-8   & Balestra ad una mano & 32-33 & Bastone & 57-58 & Pugnale & 82-83 & Spadone a due mani \\
+		9-10  & Balestra leggera & 34-35 & Falce & 59-60 & Scimitarra & 84-85 & Stocco \\
+		11-12 & Balestra pesante & 36-37 & Flagello doppio & 61-62 & Mazza leggera & 86-87 & Tridente \\
+		13-14 & Catena chiodata & 38-39 & Frusta & 63-64 & Mazza flangiata & 88-89 & Urgrosh \\
+		15-16 & Estoc & 40-41 & Giavellotto & 65-66 & Mazza chiodata & 90-91 & Katana \\
+		17-18 & Falcetto & 42-43 & Machete & 67-68 & Picca leggera & 92-93 & Manganello \\
+		19-20 & Falcione in asta & 44-45 & Martello da guerra & 69-70 & Lancia & 94-95 & Guanto chiodato \\
+		21-22 & Arco lungo composito & 46-47 & Flagello pesante & 71-72 & Flagello & 96-97 & Ascia martello \\
+		23-24 & Arco corto composito & 48-49 & Lancia da fante & 73-74 & Grande ascia doppia & 98-99 & Maglio da guerra \\
+		25    & Falcione & 50    & Randello & 75    & Lancia corta & 100   & Arma speciale \\
 		\bottomrule
 \end{tabular}}
 
@@ -44430,7 +44424,8 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 }}
 
-\pagebreak
+\medskip
+
 
 \textbf{Tabella: forme degli incantesimi - Sfera e Cono}\index[Tabelle]{Tabella forme degli incantesimi - Sfera e Cono}
 
@@ -44592,49 +44587,49 @@ Il punto blu determina l'origine dell'incantesimo
 
 \end{tikzpicture}
 
-\bigskip
+%\bigskip
 
-\textbf{Esempio di Fiancheggiamento}
+%\textbf{Esempio di Fiancheggiamento}
 
-\begin{tikzpicture}[scale=0.7]
+%\begin{tikzpicture}[scale=0.7]
 % Disegna il reticolato 4x4
-\foreach \i in {0,...,4} {
-	\draw[thick] (\i,0) -- (\i,4);
-	\draw[thick] (0,\i) -- (4,\i);
-}
+%\foreach \i in {0,...,4} {
+%	\draw[thick] (\i,0) -- (\i,4);
+%	\draw[thick] (0,\i) -- (4,\i);
+%}
 
 % Colora i quadrati 2, 3, 14 e 15 di arancione
-\fill[orange!60, opacity=0.7] (1,3) rectangle (2,4); % quadrato 2
-\fill[orange!60, opacity=0.7] (2,3) rectangle (3,4); % quadrato 3
-\fill[orange!60, opacity=0.7] (1,0) rectangle (2,1); % quadrato 14
-\fill[orange!60, opacity=0.7] (2,0) rectangle (3,1); % quadrato 15
+%\fill[orange!60, opacity=0.7] (1,3) rectangle (2,4); % quadrato 2
+%\fill[orange!60, opacity=0.7] (2,3) rectangle (3,4); % quadrato 3
+%\fill[orange!60, opacity=0.7] (1,0) rectangle (2,1); % quadrato 14
+%\fill[orange!60, opacity=0.7] (2,0) rectangle (3,1); % quadrato 15
 
 % Traccia linee dritte che attraversano i quadrati
 % Linea dal 3 al 14
-\draw[red, ultra thick] (2.5,3.5) -- (1.5,0.5);
+%\draw[red, ultra thick] (2.5,3.5) -- (1.5,0.5);
 
 % Linea dal 2 al 15
-\draw[blue, ultra thick] (1.5,3.5) -- (2.5,0.5);
+%\draw[blue, ultra thick] (1.5,3.5) -- (2.5,0.5);
 
 % Nuova linea da 4 a 13 (nera)
-\draw[black, ultra thick] (3.5,3.5) -- (0.5,0.5);
+%\draw[black, ultra thick] (3.5,3.5) -- (0.5,0.5);
 
 % Nuova linea da 1 a 16 (gialla)
-\draw[yellow!80!black, ultra thick] (0.5,3.5) -- (3.5,0.5);
+%\draw[yellow!80!black, ultra thick] (0.5,3.5) -- (3.5,0.5);
 
 % Numera i quadrati da 1 a 16
-\foreach \i in {0,...,3} {
-	\foreach \j in {0,...,3} {
-		\pgfmathtruncatemacro{\num}{4*(3-\j)+\i+1}
-		\node at (\i+0.5,\j+0.5) {\Large \num};
-	}
-}
+%\foreach \i in {0,...,3} {
+%	\foreach \j in {0,...,3} {
+%		\pgfmathtruncatemacro{\num}{4*(3-\j)+\i+1}
+%		\node at (\i+0.5,\j+0.5) {\Large \num};
+%	}
+%}
 
-\end{tikzpicture}
+%\end{tikzpicture}
 
-\smallskip
+%\smallskip
 
-In questo esempi i personaggi nei quadretti 1-16,4-15,2-15 e 3-4 stanno fiancheggiando.
+%In questo esempi i personaggi nei quadretti 1-16,4-15,2-15 e 3-4 stanno fiancheggiando.
 
 \pagebreak
 
