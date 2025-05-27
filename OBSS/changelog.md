@@ -894,9 +894,9 @@ aggiornata versione POD 2025/05/20
 
 0.99.57 migliorata gestione layout nei TS, miglioramenti in file traduzione inglese, aggiornato label english, aggiornati ringraziamenti, ottimizzato layout incantesimi, ottimizzazione geometria, ottimizzata gestione tabelle in equipaggiamento, migliorato codice latex nell'utilizzo di \st \cancel, aggiornata scheda in manuale inglese, aggiunta citazione di voltaire, in che ordine si applica riduzione del danno e resistenza al danno, chiarimenti su trasformazione in taglia grande del golian, corretto esempio Tups passa di livello, aggiunta regola opzionale per Sistema di Integrazione MBTI per Tratti Caratteriali e Affinità con i Patroni, ottimizzato layout, spostata versione estesa gestione tratti e mtbi in options e inclusa nel manuale una versione ridotta,  ottimizzazione flusso build, aggiornata abilita' erboristeria per tempi di preparazione, aggiornate regole per trovare le erbe per le pozioni e veleni, riorganizzato capitolo pozioni e veleni, aggiunte indicazioni su come prepare frecce, inserito bibliografia, aggiornati link incantesimi in mostri nel manuale inglese,  aggiornata rarita' pozioni, riordinate pozioni e veleni, modificata difficolta per riconosocere i mostri
 
-aggiornata versione POD 2025/05/6
+aggiornata versione POD 2025/05/26
 
-0.99.58 aggiornata tabella tipologie gemme e valore gemme, aggiornata tabella creazione pergamene e livelli incantesimi contenuti, precisazioni su tipi di mostri, migliorato layout generale, 
+0.99.58 aggiornata tabella tipologie gemme e valore gemme, aggiornata tabella creazione pergamene e livelli incantesimi contenuti, precisazioni su tipi di mostri, migliorato layout generale, corretto verbo, 
 
 
 > valutare:
