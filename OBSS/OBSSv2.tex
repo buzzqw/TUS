@@ -70,7 +70,7 @@
 % Fontspec usato solo con XeLaTeX o LuaLaTeX
 \usepackage{fontspec}
 \setmainfont[
-Path=../altro/fonts/,
+Path=./fonts/,
 BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
 ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
 BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
@@ -225,8 +225,6 @@ BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
 \begin{document}
 
 \def \versione {0.99.58} \fontsize{11}{11.5}\selectfont  %la prima e' la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
-
-
 
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %input{copertina} %deve rimanere su riga 230
@@ -23904,19 +23902,16 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 \medskip
 
 {\small\begin{tabularx}{0.45\textwidth}{lX}
-		\textbf{3d6} & \textbf{Bonus magico}\\
-		\hline
-		3 & -2 \hyperlink{Arma maledetta}{Maledetta}\\
-		4-9 &+1\\
-		10-11 & -1 \hyperlink{Arma maledetta}{Maledetta}\\
-		12-14 & +2\\
-		15-16 & +3\\
-		17 & +4\\
-		18 &+5\\
+\textbf{4d6} & \textbf{Bonus magico}\\
+\hline
+4-6 & -2 \hyperlink{Arma maledetta}{Maledetta}\\
+7-11 &+1\\
+12-16 & -1 \hyperlink{Arma maledetta}{Maledetta}\\
+17-21 & +2\\
+22 & +3\\
+23 & +4\\
+24 &+5\\
 \end{tabularx}}
-
-
-
 
 \textbf{Tabella: Capacità Speciale Armi Tipo 1}\index[Tabelle]{Tabella Capacità Speciale Armi Tipo 1}\hypertarget{Capacità Speciale Armi Tipo 1}{}
 
