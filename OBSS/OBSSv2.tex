@@ -25,7 +25,7 @@
 \usepackage{titlesec}
 \usepackage{array}
 \usepackage{adjustbox}
-\usepackage[backend=biber,style=verbose-note]{biblatex}
+\usepackage[backend=bibtex]{biblatex}
 \addbibresource{bibliografia.bib}
 %la riga 32 e' vuota per il no image
 
@@ -15562,7 +15562,7 @@ Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di ra
 \vfill
 
 \begin{center}
-\includegraphics[keepaspectratio,width=0.35\linewidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
+\includegraphics[keepaspectratio,width=0.5\linewidth]{immagini/Goetic_circle_from_The_Lesser_Key_of_Solomon.png}
 
 \medskip
 
@@ -44948,3 +44948,9 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 \end{multicols}
 
 \end{document}
+
+% da mettere a riga 1
+% arara: xelatex
+% arara: biber
+% arara: xelatex
+% arara: xelatex: { synctex: on }
