@@ -896,7 +896,7 @@ aggiornata versione POD 2025/05/20
 
 aggiornata versione POD 2025/05/26
 
-0.99.58 aggiornata tabella tipologie gemme e valore gemme, aggiornata tabella creazione pergamene e livelli incantesimi contenuti, precisazioni su tipi di mostri, migliorato layout generale, corretto verbo, riorganizzata cartella font, 
+0.99.58 aggiornata tabella tipologie gemme e valore gemme, aggiornata tabella creazione pergamene e livelli incantesimi contenuti, precisazioni su tipi di mostri, migliorato layout generale, corretto verbo, riorganizzata cartella font, aggiornata rarita' armi magiche, migliorie a layout, 
 
 
 > valutare:
