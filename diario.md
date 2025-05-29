@@ -1,3 +1,17 @@
+**29/05/2025**
+
+Ops.. un anno dall'ultimo aggiornamento! OBSS continua ad andare avanti, versione su versione, miglioria su miglioria, piccolo cambiamento su piccolo cambiamento.
+
+Non vi sto  a riassumere quanto e' stato fatto, non lo saprei neanche io senza guardare tutto il changelog.
+
+Posso solo dire che le regole sono state affinate, alcune opzioni sono diventate regole, altre sono scomparse. Il playtesting ha aiutato a trovare i punti meno chiari e semplificare.
+
+Molto del lavoro piu' recente è stato fatto sul layout, grazia al cambiamento di font e grandezza font, il tutto per rendere OBSS un manuale piu' facilmente accessibile e leggibile da chiunque.
+
+Non per ultimo ho rifatto, grazie all'AI, la traduzione in Inglese del manuale e devo dire che non è venuta male, affatto.
+
+All'orizzonte non ho cambiamenti impattanti ma constanti migliorie.
+
 **06/02/2024**
 
 OBSS sta avendo la rilettura se non definitiva sicuramente *quasi finale*. Grazie al supporto dell'ultimo gruppo si e' proceduto alla rilettura di quasi tutto il manuale, andando a correggere storture, allineare modificatori e rendere tutto piu' lineare e fruibile.
