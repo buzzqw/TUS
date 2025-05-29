@@ -22,6 +22,7 @@
 \usepackage{multicol}
 \usepackage{wrapfig}
 \usepackage{url}
+\def\UrlBreaks{\do\/\do-\do_\do.\do:\do=\do&}
 \usepackage{titlesec}
 \usepackage{array}
 \usepackage{adjustbox}
@@ -74,11 +75,14 @@
 Path=./fonts/,
 BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
 ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
-BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
-]{AtkinsonHyperlegibleNext-Regular.ttf} % Load Latin Modern separately
-\newfontfamily\lmfont{Latin Modern Roman} % Redefine the \textsc command
-\renewcommand{\textsc}[1]{{\lmfont\scshape #1}}
+BoldFont=AtkinsonHyperlegibleNext-Bold.ttf,
+SmallCapsFont = {AtkinsonHyperlegibleNext-Regular.ttf}, % o un font dedicato
+SmallCapsFeatures = {Letters=SmallCaps}
+]{AtkinsonHyperlegibleNext-Regular.ttf} % Carica Latin Modern separatamente
+%\newfontfamily\lmfont{Latin Modern Roman} % Ridefinisci il comando \textsc
+%\renewcommand{\textsc}[1]{{\lmfont\scshape #1}}
 \fi
+
 
 % ----- IMPORTANT: HYPERREF AND BOOKMARK (MUST BE LOADED AT THE END) -----
 % Conditional options for hyperref
@@ -217,12 +221,16 @@ BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
 }
 
 % Aggiungere al preambolo per migliorare la gestione del testo
-\usepackage[final,protrusion=true]{microtype}
-%\sloppy
+\usepackage{microtype}
+
+
+\XeTeXlinebreaklocale "en"
+\XeTeXlinebreakskip = 0pt plus 1pt
 
 \titlespacing{\section}{0pt}{10pt}{5pt} % Section
 \titlespacing{\subsection}{0pt}{8pt}{4pt} % Subsection
 \titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sub-subsection
+
 
 \begin{document}
 \def \versione {0.99.58} \fontsize{11.5}{11.5}\selectfont  %the first is the font size, the second the spacing between lines  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont

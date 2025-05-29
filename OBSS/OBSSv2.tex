@@ -11,29 +11,29 @@
 \geometry{tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
 
 % ----- PACCHETTI BASE -----
+\usepackage[italian=guillemets]{csquotes}
 \usepackage[italian]{babel}
-\usepackage{setspace}
-\usepackage{graphicx}
-\usepackage{tocloft}
-\usepackage{caption}
+\usepackage{setspace, graphics, tocloft, caption}
 \usepackage{ragged2e}
 \usepackage{quoting,enumitem}
 \usepackage{amssymb,siunitx}
-\usepackage{multicol}
-\usepackage{wrapfig}
+\usepackage{multicol, array,wrapfig}
 \usepackage{url}
-\usepackage{titlesec}
-\usepackage{array}
-\usepackage{adjustbox}
+\def\UrlBreaks{\do\/\do-\do_\do.\do:\do=\do&}
+\usepackage{titlesec,adjustbox}
 \usepackage[backend=bibtex]{biblatex}
 \addbibresource{bibliografia.bib}
+\usepackage{microtype}
 %la riga 32 e' vuota per il no image
+
+
+
+
 
 
 % ----- PACCHETTI PER TABELLE -----
 \usepackage{booktabs,multirow}
 \usepackage{xltabular,tabularx}
-
 
 % ----- PACCHETTI PER GRAFICA E COLORI -----
 \usepackage{tikz}
@@ -60,11 +60,9 @@
 \ifpdflatexengine
 % Configurazione font per pdfLaTeX
 \usepackage[T1]{fontenc}
-%\usepackage{lmodern} % Latin Modern come font alternativo
-%\usepackage{textcomp}
+%\usepackage{lmodern} %\usepackage{textcomp}  Latin Modern come font alternativo 
 % Puoi usare altri font disponibili in pdfLaTeX, come:
-% \usepackage{palatino}
-% \usepackage{bookman}
+% \usepackage{palatino} % \usepackage{bookman}
  \usepackage{libertine}
 \else
 % Fontspec usato solo con XeLaTeX o LuaLaTeX
@@ -73,10 +71,10 @@
 Path=./fonts/,
 BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
 ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
-BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
-]{AtkinsonHyperlegibleNext-Regular.ttf} % Carica Latin Modern separatamente
-\newfontfamily\lmfont{Latin Modern Roman} % Ridefinisci il comando \textsc
-\renewcommand{\textsc}[1]{{\lmfont\scshape #1}}
+BoldFont=AtkinsonHyperlegibleNext-Bold.ttf,
+SmallCapsFont = {AtkinsonHyperlegibleNext-Regular.ttf}, % o un font dedicato
+SmallCapsFeatures = {Letters=SmallCaps}
+]{AtkinsonHyperlegibleNext-Regular.ttf}
 \fi
 
 % ----- IMPORTANTE: HYPERREF E BOOKMARK (DEVONO ESSERE CARICATI ALLA FINE) -----
@@ -215,16 +213,18 @@ BoldFont=AtkinsonHyperlegibleNext-Bold.ttf
 	boxrule=0.3pt
 }
 
-
+\XeTeXlinebreaklocale "it"
+\XeTeXlinebreakskip = 0pt plus 1pt
+	
 \titlespacing{\section}{0pt}{10pt}{5pt} % Sezione
 \titlespacing{\subsection}{0pt}{8pt}{4pt} % Sottosezione
 \titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sotto-sottosezione
-
-
+\sloppy
 
 \begin{document}
 
 \def \versione {0.99.58} \fontsize{11}{11.5}\selectfont  %la prima e' la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
+
 
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %input{copertina} %deve rimanere su riga 230
@@ -29949,7 +29949,7 @@ Oskar Schindler: L'avevano gli imperatori questo. Un uomo ruba qualcosa, viene p
 	\item[\textbf{Movimento:}] 3 m, nuoto 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +12, Riflessi +9, Volontà +12}}
 	\item[\textbf{Incant.:}] immune incantesimi di Illusione inferiori al 2 livello
-	\item[\textbf{Competen.:}] Consapevolezza +10, Storia +12
+	\item[\textbf{Comp.:}] Consapevolezza +10, Storia +12
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Aquan, telepatia 36 m
 	\item[\textbf{Sfida:}] 10 (5900 PX)\smallskip
@@ -30001,7 +30001,7 @@ Come suggerisce il loro aspetto primitivo gli aboleth sono fra le più antiche f
 	\item[\textbf{Punti Ferita:}] 203,  \textbf{Difesa:} 29,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 9 m, volo 27 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +14, Volontà +15}}
-	\item[\textbf{Competen:}] Percepire Emozioni +9
+	\item[\textbf{Comp.:}] Percepire Emozioni +9
 	\item[\textbf{Res. Danni:}] da Luce; da arma non magica
 	\item[\textbf{Immunità:}] affascinato, affaticato, spaventato
 	\item[\textbf{Sensi:}] Scurovisione 36 m
@@ -30047,7 +30047,7 @@ I deva movanici compongono i ranghi della fanteria delle armate celesti, sebbene
 	\item[\textbf{Punti Ferita:}] 325,  \textbf{Difesa:} 38,  \textbf{Iniziativa:} +5
 	\item[\textbf{Movimento:}] 12 m, volo 36 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +23, Riflessi +21, Volontà +22}}
-	\item[\textbf{Competen:}] Consapevolezza +13
+	\item[\textbf{Comp.:}] Consapevolezza +13
 	\item[\textbf{Res. Danni:}] da Luce;
 	\item[\textbf{Immunità:}] affascinato, affaticato, spaventato, armi +1
 	\item[\textbf{Sensi:}] visione del vero 36 m
@@ -30100,7 +30100,7 @@ I planetar sono i generali delle armate celestiali volti alla distruzione del ma
 	\item[\textbf{Punti Ferita:}] 426,  \textbf{Difesa:} 46,  \textbf{Iniziativa:} +7
 	\item[\textbf{Movimento:}] 15 m, volo 45 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +29, Riflessi +27, Volontà +28}}
-	\item[\textbf{Competen:}] Consapevolezza +16
+	\item[\textbf{Comp.:}] Consapevolezza +16
 	\item[\textbf{Res. Danni:}] da Luce; Fuoco, Freddo, Elettricità
 	\item[\textbf{Immunità:}] affascinato, avvelenato, affaticato, spaventato, arma +2
 	\item[\textbf{Sensi:}] visione del vero 36 m
@@ -30376,7 +30376,7 @@ Per motivi ignoti, le donnole, furetti e topine sono immuni allo sguardo del bas
 	\item[\textbf{Punti Ferita:}] 221,  \textbf{Difesa:} 29,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 15 m, scalata 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +14, Volontà +13}}
-	\item[\textbf{Competen:}] Furtività +7
+	\item[\textbf{Comp.:}] Furtività +7
 	\item[\textbf{Imm. Danni:}] Elettricità
 	\item[\textbf{Sensi:}] Scurovisione 27 m
 	\item[\textbf{Linguaggi:}] Draconico
@@ -30465,7 +30465,7 @@ Nel nido dove dimorano c'è almeno una regina che comanda le blatte, estremament
 	\item[\textbf{Punti Ferita:}] 88,  \textbf{Difesa:} 20,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 13 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +7, Volontà +5}
-	\item[\textbf{Competen:}] Furtività +8
+	\item[\textbf{Comp.:}] Furtività +8
 	\item[\textbf{Sensi:}] Scurovisione 20 m, Visione Crepuscolare 18 m
 	\item[\textbf{Linguaggi:}] Comune, può solo comprenderlo
 	\item[\textbf{Sfida:}] 4 (1100 PX)\smallskip
@@ -30508,7 +30508,7 @@ Il Black Ops Cat meglio conosciuto con B.O.C. è un grande felino predatore, ovv
 	\item[\textbf{Punti Ferita:}] 33,  \textbf{Difesa:} 15,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +6, Sopravvivenza +2
+	\item[\textbf{Comp.:}] Furtività +6, Sopravvivenza +2
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Comune, Goblin
 	\item[\textbf{Sfida:}] 1 (200 PX)\smallskip
@@ -30547,7 +30547,7 @@ I bugbear, quando si rivolgono alla religione, prediligono le divinità dell'omi
 	\item[\textbf{Punti Ferita:}] 110,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 12 m, scavo 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +5, Volontà +5}
-	\item[\textbf{Competen:}] Consapevolezza +6
+	\item[\textbf{Comp.:}] Consapevolezza +6
 	\item[\textbf{Sensi:}] Scurovisione 18 m, percezione tellurica 18 m
 	\item[\textbf{Sfida:}] 5 (1800 PX)\smallskip
 \end{description}
@@ -30591,7 +30591,7 @@ Il bulette è un combattente astuto, e sorprende i nemici con agilità impressio
 	\item[\textbf{Punti Ferita:}] 357,  \textbf{Difesa:} 37,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 metri
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +23, Riflessi +19, Volontà +20}}
-	\item[\textbf{Competen:}] Intimidire +12, Religione +8, Conoscenza Piani +8, Conoscenza Arcana +5
+	\item[\textbf{Comp.:}] Intimidire +12, Religione +8, Conoscenza Piani +8, Conoscenza Arcana +5
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità
 	\item[\textbf{Imm. Danni:}] da Vuoto, Veleno; armi +1
 	\item[\textbf{Immunità:}] affascinato, paralizzato, affaticato, spaventato, sanguinamento
@@ -30641,7 +30641,7 @@ Dannato fin nel profondo della sua anima il Cavaliere Nero è l'antitesi del cav
 	\item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 15 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Atletica +6, Consapevolezza +3, Sopravvivenza +3
+	\item[\textbf{Comp.:}] Atletica +6, Consapevolezza +3, Sopravvivenza +3
 	\item[\textbf{Linguaggi:}] Elfico, Silvano
 	\item[\textbf{Sfida:}] 2 (450 PX)\smallskip
 \end{description}
@@ -30683,7 +30683,7 @@ La leggenda vuole che i Centauri dovessero esplodere come tutti gli equini, per 
 	\item[\textbf{Punti Ferita:}] 127,  \textbf{Difesa:} 20,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 9 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +6, Volontà +8}
-	\item[\textbf{Competen:}] Consapevolezza +8
+	\item[\textbf{Comp.:}] Consapevolezza +8
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] comprende il Draconico ma non può parlare
 	\item[\textbf{Sfida:}] 6 (2300 PX)\smallskip
@@ -30727,7 +30727,7 @@ Le chimere preferiscono la carne, ma possono sopravvivere di vegetali se necessa
 	\item[\textbf{Punti Ferita:}] 89,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 9 m, nuoto 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +4, Volontà +4}
-	\item[\textbf{Competen:}] Consapevolezza +4
+	\item[\textbf{Comp.:}] Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] comprende la Linguaggio delle Profondità ma non può parlare
@@ -30885,7 +30885,7 @@ Preferiscono gli stessi alimenti dei veri serpenti, come mammiferi e uccelli, an
 	\item[\textbf{Punti Ferita:}] 108,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} -1
 	\item[\textbf{Movimento:}] 6 m, nuoto 6 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +4, Volontà +5}
-	\item[\textbf{Competen:}] Furtività +2
+	\item[\textbf{Comp.:}] Furtività +2
 	\item[\textbf{Res. Danni:}] Freddo, Fuoco
 	\item[\textbf{Imm. Danni:}] Elettricità
 	\item[\textbf{Immunità:}] accecato, assordato, affaticato
@@ -30983,7 +30983,7 @@ Un Balor è alto 4,2 metri e pesa 2.250 kg. Solo le anime mortali più crudeli p
 	\item[\textbf{Punti Ferita:}] 524,  \textbf{Difesa:} 48,  \textbf{Iniziativa:} +5
 	\item[\textbf{Movimento:}] 15 metri, nuotare 9m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +34, Riflessi +28, Volontà +29}}
-	\item[\textbf{Competen:}] tutte +15
+	\item[\textbf{Comp.:}] tutte +15
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco
 	\item[\textbf{Imm. Danni:}] da Vuoto, Veleno; armi +2
 	\item[\textbf{Immunità:}] affascinato, paralizzato, affaticato, spaventato
@@ -31316,7 +31316,7 @@ I nalfeshnee sono alti 6 metri e pesano 4000 kg. Sono creati dalle anime di malv
 	\item[\textbf{Punti Ferita:}] 519,  \textbf{Difesa:} 48,  \textbf{Iniziativa:} +5
 	\item[\textbf{Movimento:}] 15 metri, volare 15 metri
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +33, Riflessi +28, Volontà +31}}
-	\item[\textbf{Competen:}] tutte +13
+	\item[\textbf{Comp.:}] tutte +13
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco
 	\item[\textbf{Imm. Danni:}] da Vuoto, Veleno; armi +2
 	\item[\textbf{Immunità:}] affascinato, paralizzato, affaticato, spaventato
@@ -31378,7 +31378,7 @@ Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei
 	\item[\textbf{Punti Ferita:}] 52,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +2, Ingannare +5
+	\item[\textbf{Comp.:}] Furtività +2, Ingannare +5
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità; da arma non magica o non argentata
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
@@ -31418,7 +31418,7 @@ Da \emph{Il Guardiano di Falkonia}, romanzo di Federica Angeli
 	\item[\textbf{Punti Ferita:}] 33,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m (3 m, volo 12 m in forma di pipistrello; 12 m, scalata 12 m in forma di centopiedi; 12 m, nuoto 12 m in forma di rospo)
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +5
+	\item[\textbf{Comp.:}] Furtività +5
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco; da arma non magica
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
@@ -31460,7 +31460,7 @@ I quasit appena creati vengono alla luce direttamente nel Piano Materiale, dove 
 	\item[\textbf{Punti Ferita:}] 87,  \textbf{Difesa:} 20,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 9 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +7, Volontà +5}
-	\item[\textbf{Competen:}] Furtività +5, Percepire Emozioni +5, Consapevolezza +5, Ingannare +9
+	\item[\textbf{Comp.:}] Furtività +5, Percepire Emozioni +5, Consapevolezza +5, Ingannare +9
 	\item[\textbf{Res. Danni:}] Freddo, Elettricità, Fuoco, Veleno; da arma non magica
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Vulnerabilità:}] ferro freddo, Luce
@@ -31552,7 +31552,7 @@ Un vrock tipico è alto 2,3 metri e pesa 200 kg. Queste creature solitamente si 
 	\item[\textbf{Movimento:}] 18 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +4}
 	\item[\textbf{Imm. Danni:}] Fuoco
-	\item[\textbf{Competen:}] Consapevolezza +6
+	\item[\textbf{Comp.:}] Consapevolezza +6
 	\item[\textbf{Vulnerabilità:}] Luce
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] comprende Abissale, Comune e Infernale ma non può parlare
@@ -31865,7 +31865,7 @@ I Diavoli del Ghiaccio sono alti 3,6 metri e pesano approssimativamente 350 kg.
 	\item[\textbf{Punti Ferita:}] 184,  \textbf{Difesa:} 27,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, volo 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +12, Volontà +11}}
-	\item[\textbf{Competen:}] Ingannare +7, Percepire Emozioni +6
+	\item[\textbf{Comp.:}] Ingannare +7, Percepire Emozioni +6
 	\item[\textbf{Res. Danni:}] Freddo; da arma non magica o non argentata
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno
 	\item[\textbf{Vulnerabilità:}] argento, Luce
@@ -32012,7 +32012,7 @@ Le erinni sono alte circa 1,8 metri, pesano 70 kg e hanno ali nere con un'apertu
 	\item[\textbf{Punti Ferita:}] 33,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 6 m, volo 12 m (6 m in forma di ratto; 6 m, volo 18 m in forma di corvo; 6 m, scalata 6 m in forma di ragno)
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +5, Ingannare +4, Percepire Emozioni +3
+	\item[\textbf{Comp.:}] Furtività +5, Ingannare +4, Percepire Emozioni +3
 	\item[\textbf{Res. Danni:}] Freddo; da arma non magica o non argentata
 	\item[\textbf{Imm. Danni:}] Fuoco, Veleno
 	\item[\textbf{Vulnerabilità:}] argento, Luce
@@ -32095,7 +32095,7 @@ I diavoli maggiori possono riconoscere i lemure più corrotti e trasformarli in 
 	\item[\textbf{Punti Ferita:}] 52,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 6 m, nuoto 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +3
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +3
 	\item[\textbf{Sfida:}] 2 (450 PX)\smallskip
 \end{description}
 
@@ -32286,7 +32286,7 @@ Da \emph{Viaggio nel primo mondo.} Romanzo di Federica Angeli
 	\item[\textbf{Punti Ferita:}] 70,  \textbf{Difesa:} 20,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +7, Volontà +4}
-	\item[\textbf{Competen:}] Ingannare +6, Percepire Emozioni +3
+	\item[\textbf{Comp.:}] Ingannare +6, Percepire Emozioni +3
 	\item[\textbf{Immunità:}] affascinato
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Comune
@@ -32434,7 +32434,7 @@ Oh devastatori possa Nedraf rompervi le ossa!\\
 	\item[\textbf{Punti Ferita:}] 407,  \textbf{Difesa:} 38,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +28, Riflessi +20, Volontà +21}}
-	\item[\textbf{Competen:}] Furtività +6, Consapevolezza +13
+	\item[\textbf{Comp.:}] Furtività +6, Consapevolezza +13
 	\item[\textbf{Imm. Danni:}] Freddo, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -32512,7 +32512,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 264,  \textbf{Difesa:} 29,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +19, Riflessi +13, Volontà +14}}
-	\item[\textbf{Competen:}] Furtività +5, Consapevolezza +8
+	\item[\textbf{Comp.:}] Furtività +5, Consapevolezza +8
 	\item[\textbf{Imm. Danni:}] Freddo
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -32579,7 +32579,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 127,  \textbf{Difesa:} 20,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +6, Volontà +6}
-	\item[\textbf{Competen:}] Furtività +3, Consapevolezza +6
+	\item[\textbf{Comp.:}] Furtività +3, Consapevolezza +6
 	\item[\textbf{Imm. Danni:}] Freddo
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 9 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -32622,7 +32622,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 9 m, nuoto 9 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +2, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +2, Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] Freddo
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] Draconico
@@ -32652,7 +32652,7 @@ Vedi descrizione Drago Bianco Antico.
 	\item[\textbf{Punti Ferita:}] 465,  \textbf{Difesa:} 42,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 12 m, scavo 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +31, Riflessi +23, Volontà +26}}
-	\item[\textbf{Competen:}] Furtività +7, Consapevolezza +17
+	\item[\textbf{Comp.:}] Furtività +7, Consapevolezza +17
 	\item[\textbf{Imm. Danni:}] Elettricità, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -32733,7 +32733,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 322,  \textbf{Difesa:} 33,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, scavo 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +22, Riflessi +16, Volontà +18}}
-	\item[\textbf{Competen:}] Furtività +5, Consapevolezza +13
+	\item[\textbf{Comp.:}] Furtività +5, Consapevolezza +13
 	\item[\textbf{Imm. Danni:}] Elettricità
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -32800,7 +32800,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 184,  \textbf{Difesa:} 24,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 12 m, scavo 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +9, Volontà +10}}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +9
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +9
 	\item[\textbf{Imm. Danni:}] Elettricità
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 9 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -32843,7 +32843,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 70,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m, scavo 5 metri, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +2, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +2, Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] Elettricità
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] Draconico
@@ -32873,7 +32873,7 @@ Vedi Descrizione Drago Blu Antico.
 	\item[\textbf{Punti Ferita:}] 465,  \textbf{Difesa:} 43,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, scavo 24 m, scalata 24, volo 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +31, Riflessi +24, Volontà +25}}
-	\item[\textbf{Competen:}] Furtività +7, Consapevolezza +17
+	\item[\textbf{Comp.:}] Furtività +7, Consapevolezza +17
 	\item[\textbf{Imm. Danni:}] Fuoco, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -32930,7 +32930,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 422,  \textbf{Difesa:} 42,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, scalata 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +28, Riflessi +23, Volontà +23}}
-	\item[\textbf{Competen:}] Furtività +9, Consapevolezza +16
+	\item[\textbf{Comp.:}] Furtività +9, Consapevolezza +16
 	\item[\textbf{Imm. Danni:}] Acido, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33017,7 +33017,7 @@ Ebbene si, il Drago Nero è l'unica creatura sulla Terra che può portare in vit
 	\item[\textbf{Punti Ferita:}] 338,  \textbf{Difesa:} 36,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 12 m, scalata 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +22, Riflessi +19, Volontà +18}}
-	\item[\textbf{Competen:}] Furtività +7, Consapevolezza +11
+	\item[\textbf{Comp.:}] Furtività +7, Consapevolezza +11
 	\item[\textbf{Imm. Danni:}] Acido
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33088,7 +33088,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 145,  \textbf{Difesa:} 23,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 12 m, scalata 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +9, Volontà +7}
-	\item[\textbf{Competen:}] Furtività +5, Consapevolezza +6
+	\item[\textbf{Comp.:}] Furtività +5, Consapevolezza +6
 	\item[\textbf{Imm. Danni:}] Acido
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 9 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33142,7 +33142,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m, scalata 9 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] Acido
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] Draconico
@@ -33174,7 +33174,7 @@ Vedi Descrizione Drago Nero Antico.
 	\item[\textbf{Punti Ferita:}] 428,  \textbf{Difesa:} 44,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 12 m, scavare 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +26, Riflessi +25, Volontà +26}}
-	\item[\textbf{Competen:}] Conoscenza Dungeon +8, Intimidazione +11, Percepire Emozioni +10, Consapevolezza + 15
+	\item[\textbf{Comp.:}] Conoscenza Dungeon +8, Intimidazione +11, Percepire Emozioni +10, Consapevolezza + 15
 	\item[\textbf{Imm. Danni:}] Suono, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Senso Tellurico 72 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33250,7 +33250,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 490,  \textbf{Difesa:} 44,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 12 m, scalata 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +33, Riflessi +24, Volontà +26}}
-	\item[\textbf{Competen:}] Furtività +7, Consapevolezza +16
+	\item[\textbf{Comp.:}] Furtività +7, Consapevolezza +16
 	\item[\textbf{Imm. Danni:}] Fuoco, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33324,7 +33324,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 344,  \textbf{Difesa:} 34,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, scalata 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +24, Riflessi +17, Volontà +18}}
-	\item[\textbf{Competen:}] Furtività +6, Consapevolezza +13
+	\item[\textbf{Comp.:}] Furtività +6, Consapevolezza +13
 	\item[\textbf{Imm. Danni:}] Fuoco
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33400,7 +33400,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 205,  \textbf{Difesa:} 25,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 12 m, scalata 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +10, Volontà +10}}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +8
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +8
 	\item[\textbf{Imm. Danni:}] Fuoco
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 9 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33444,7 +33444,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 89,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m, scalata 9 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +4, Volontà +4}
-	\item[\textbf{Competen:}] Furtività +2, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +2, Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] Fuoco
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] Draconico
@@ -33473,7 +33473,7 @@ Vedi Descrizione Drago Rosso Antico.
 	\item[\textbf{Punti Ferita:}] 441,  \textbf{Difesa:} 42,  \textbf{Iniziativa:} +5
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +29, Riflessi +23, Volontà +25}}
-	\item[\textbf{Competen:}] Furtività +8, Ingannare +11, Percepire Emozioni +10, Consapevolezza + 15
+	\item[\textbf{Comp.:}] Furtività +8, Ingannare +11, Percepire Emozioni +10, Consapevolezza + 15
 	\item[\textbf{Imm. Danni:}] Veleno, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33552,7 +33552,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 300,  \textbf{Difesa:} 33,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +20, Riflessi +16, Volontà +17}}
-	\item[\textbf{Competen:}] Furtività +6, Ingannare +8, Percepire Emozioni +7, Consapevolezza +12
+	\item[\textbf{Comp.:}] Furtività +6, Ingannare +8, Percepire Emozioni +7, Consapevolezza +12
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33622,7 +33622,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 163,  \textbf{Difesa:} 23,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +11, Riflessi +9, Volontà +9}}
-	\item[\textbf{Competen:}] Furtività +4, Ingannare +5, Consapevolezza +7
+	\item[\textbf{Comp.:}] Furtività +4, Ingannare +5, Consapevolezza +7
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 9 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33667,7 +33667,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 15,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m, nuoto 9 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +3, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +3, Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] Draconico
@@ -33712,7 +33712,7 @@ Elysan è probabilmente il più noto e potente, un antico drago d'argento.
 	\item[\textbf{Punti Ferita:}] 470,  \textbf{Difesa:} 42,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +32, Riflessi +23, Volontà +25}}
-	\item[\textbf{Competen:}] Arcana +11, Furtività +7, Consapevolezza +16, Storia +11
+	\item[\textbf{Comp.:}] Arcana +11, Furtività +7, Consapevolezza +16, Storia +11
 	\item[\textbf{Imm. Danni:}] Freddo, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33794,7 +33794,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 325,  \textbf{Difesa:} 33,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +23, Riflessi +16, Volontà +17}}
-	\item[\textbf{Competen:}] Arcana +8, Furtività +5, Consapevolezza +11, Storia +8
+	\item[\textbf{Comp.:}] Arcana +8, Furtività +5, Consapevolezza +11, Storia +8
 	\item[\textbf{Imm. Danni:}] Freddo
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33878,7 +33878,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 186,  \textbf{Difesa:} 24,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +9, Volontà +9}}
-	\item[\textbf{Competen:}] Arcana +6, Furtività +4, Consapevolezza +8, Storia +6
+	\item[\textbf{Comp.:}] Arcana +6, Furtività +4, Consapevolezza +8, Storia +6
 	\item[\textbf{Imm. Danni:}] Freddo
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 9 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -33925,7 +33925,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 52,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +2, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +2, Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] Freddo
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] Draconico
@@ -33959,7 +33959,7 @@ Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad u
 	\item[\textbf{Punti Ferita:}] 446,  \textbf{Difesa:} 41,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +30, Riflessi +22, Volontà +25}}
-	\item[\textbf{Competen:}] Furtività +7, Percepire Emozioni +10, Consapevolezza +17
+	\item[\textbf{Comp.:}] Furtività +7, Percepire Emozioni +10, Consapevolezza +17
 	\item[\textbf{Imm. Danni:}] Elettricità, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -34031,7 +34031,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 303,  \textbf{Difesa:} 32,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +21, Riflessi +15, Volontà +17}}
-	\item[\textbf{Competen:}] Furtività +5, Percepire Emozioni +7, Consapevolezza +12
+	\item[\textbf{Comp.:}] Furtività +5, Percepire Emozioni +7, Consapevolezza +12
 	\item[\textbf{Imm. Danni:}] Elettricità
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -34111,7 +34111,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 165,  \textbf{Difesa:} 22,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +12, Riflessi +8, Volontà +9}}
-	\item[\textbf{Competen:}] Furtività +3, Percepire Emozioni +4, Consapevolezza +7
+	\item[\textbf{Comp.:}] Furtività +3, Percepire Emozioni +4, Consapevolezza +7
 	\item[\textbf{Imm. Danni:}] Elettricità
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 9 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -34159,7 +34159,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m, nuoto 9 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +2, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +2, Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] Elettricità
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] Draconico
@@ -34196,7 +34196,7 @@ I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se cau
 	\item[\textbf{Punti Ferita:}] 490,  \textbf{Difesa:} 46,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +33, Riflessi +26, Volontà +27}}
-	\item[\textbf{Competen:}] Furtività +9, Percepire Emozioni +10, Consapevolezza +17, Ingannare +16
+	\item[\textbf{Comp.:}] Furtività +9, Percepire Emozioni +10, Consapevolezza +17, Ingannare +16
 	\item[\textbf{Imm. Danni:}] Fuoco, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -34269,7 +34269,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 344,  \textbf{Difesa:} 36,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +24, Riflessi +19, Volontà +19}}
-	\item[\textbf{Competen:}] Furtività +8, Percepire Emozioni +8, Consapevolezza +14, Ingannare +13
+	\item[\textbf{Comp.:}] Furtività +8, Percepire Emozioni +8, Consapevolezza +14, Ingannare +13
 	\item[\textbf{Imm. Danni:}] Fuoco
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -34347,7 +34347,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 205,  \textbf{Difesa:} 27,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, nuoto 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +12, Volontà +11}}
-	\item[\textbf{Competen:}] Furtività +6, Percepire Emozioni +5, Consapevolezza +9, Ingannare +9
+	\item[\textbf{Comp.:}] Furtività +6, Percepire Emozioni +5, Consapevolezza +9, Ingannare +9
 	\item[\textbf{Imm. Danni:}] Fuoco
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 9 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -34396,7 +34396,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 70,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m, nuoto 9 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] Fuoco
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] Draconico
@@ -34432,7 +34432,7 @@ I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveris
 	\item[\textbf{Movimento:}] 12 m, scavo 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +27, Riflessi +20, Volontà +22}}
 	\item[\textbf{Imm. Danni:}] Fuoco, armi +1
-	\item[\textbf{Competen:}] Consapevolezza +14
+	\item[\textbf{Comp.:}] Consapevolezza +14
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
 	\item[\textbf{Sfida:}] 20 (25000 PX)\smallskip
@@ -34502,7 +34502,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Movimento:}] 12 m, scavo 9 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +18, Riflessi +13, Volontà +14}}
 	\item[\textbf{Imm. Danni:}] Fuoco
-	\item[\textbf{Competen:}] Furtività +5, Consapevolezza +11, Ingannare +8, Storia +7
+	\item[\textbf{Comp.:}] Furtività +5, Consapevolezza +11, Ingannare +8, Storia +7
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
 	\item[\textbf{Sfida:}] 13 (10000 PX)\smallskip
@@ -34571,7 +34571,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Movimento:}] 12 m, scavo 6 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +6, Volontà +6}
 	\item[\textbf{Imm. Danni:}] Fuoco
-	\item[\textbf{Competen:}] Furtività +3, Consapevolezza +6, Ingannare +5
+	\item[\textbf{Comp.:}] Furtività +3, Consapevolezza +6, Ingannare +5
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
 	\item[\textbf{Sfida:}] 6 (2300 PX)\smallskip
@@ -34616,7 +34616,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Movimento:}] 9 m, scavo 5 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
 	\item[\textbf{Imm. Danni:}] Fuoco
-	\item[\textbf{Competen:}] Furtività +2, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +2, Consapevolezza +4
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] Draconico
 	\item[\textbf{Sfida:}] 1 (200 PX)\smallskip
@@ -34649,7 +34649,7 @@ Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combatter
 	\item[\textbf{Punti Ferita:}] 422,  \textbf{Difesa:} 41,  \textbf{Iniziativa:} +5
 	\item[\textbf{Movimento:}] 12 m, scalata 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +28, Riflessi +22, Volontà +24}}
-	\item[\textbf{Competen:}] Furtività +8, Ingannare +11, Consapevolezza +17
+	\item[\textbf{Comp.:}] Furtività +8, Ingannare +11, Consapevolezza +17
 	\item[\textbf{Imm. Danni:}] Acido, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -34722,7 +34722,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 281,  \textbf{Difesa:} 31,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 12 m, scalata 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +19, Riflessi +15, Volontà +16}}
-	\item[\textbf{Competen:}] Furtività +6, Ingannare +8, Consapevolezza +12
+	\item[\textbf{Comp.:}] Furtività +6, Ingannare +8, Consapevolezza +12
 	\item[\textbf{Imm. Danni:}] Acido
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -34796,7 +34796,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 145,  \textbf{Difesa:} 22,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, scalata 12 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +8, Volontà +8}
-	\item[\textbf{Competen:}] Furtività +4, Ingannare +5, Consapevolezza +7
+	\item[\textbf{Comp.:}] Furtività +4, Ingannare +5, Consapevolezza +7
 	\item[\textbf{Imm. Danni:}] Acido
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -34843,7 +34843,7 @@ Gli incantesimi preferiti di questo Drago sono:\\
 	\item[\textbf{Punti Ferita:}] 33,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m, scalata 9 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +3, Ingannare +3, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +3, Ingannare +3, Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] Acido
 	\item[\textbf{Sensi:}] Scurovisione 36 m, Vista Cieca 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico
@@ -34880,7 +34880,7 @@ Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrar
 	\item[\textbf{Punti Ferita:}] 615,  \textbf{Difesa:} 52,  \textbf{Iniziativa:} +8
 	\item[\textbf{Movimento:}] 20 metri, volare 20 metri
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +40, Riflessi +30, Volontà +38}}
-	\item[\textbf{Competen:}] tutte +18
+	\item[\textbf{Comp.:}] tutte +18
 	\item[\textbf{Imm. Danni:}] Freddo, Elettricità, Fuoco, Acido, Veleno, Suono, armi +3
 	\item[\textbf{Immunità:}] affascinato, paralizzato, affaticato, spaventato
 	\item[\textbf{Sensi:}] Scurovisione 60 m, Visione del vero 40 m
@@ -34954,7 +34954,7 @@ Tàhil è il Patrono dei Draghi incarnato. Nulla resiste alla sua furia, follia,
 	\item[\textbf{Punti Ferita:}] 127,  \textbf{Difesa:} 23,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 9 m, scalata 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +9, Volontà +8}}
-	\item[\textbf{Competen:}] Furtività +9, Consapevolezza +5
+	\item[\textbf{Comp.:}] Furtività +9, Consapevolezza +5
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Elfico, Linguaggio delle Profondità
 	\item[\textbf{Sfida:}] 6 (2300 PX)\smallskip
@@ -35008,7 +35008,7 @@ I drider sono sessualmente dimorfici. La parte inferiore da ragno del corpo di u
 	\item[\textbf{Punti Ferita:}] 33,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +5, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +5, Consapevolezza +4
 	\item[\textbf{Sensi:}] Scurovisione 18 
 	\item[\textbf{Linguaggi:}] Elfico, Silvano
 	\item[\textbf{Sfida:}] 1 (200 PX)\smallskip
@@ -35207,7 +35207,7 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 	\item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m, scalata 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +3, Sopravvivenza +3
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +3, Sopravvivenza +3
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Sfida:}] 2 (450 PX)\smallskip
 \end{description}
@@ -35252,7 +35252,7 @@ Gli ettercap non sono coraggiosi, ma le loro trappole spesso impediscono al nemi
 	\item[\textbf{Punti Ferita:}] 89,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} -1
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +3, Volontà +4}
-	\item[\textbf{Competen:}] Consapevolezza +4
+	\item[\textbf{Comp.:}] Consapevolezza +4
 	\item[\textbf{Sensi:}] percezione tellurica 18 m
 	\item[\textbf{Linguaggi:}] Gigante, Goblinoide
 	\item[\textbf{Sfida:}] 4 (1100 PX)\smallskip
@@ -35603,7 +35603,7 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 	\item[\textbf{Punti Ferita:}] 108,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 3 m, scalata 3 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +4, Volontà +8}
-	\item[\textbf{Competen:}] Furtività +5, Consapevolezza +6
+	\item[\textbf{Comp.:}] Furtività +5, Consapevolezza +6
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] comune, lingue antiche (latino, greco, celtico..)
 	\item[\textbf{Sfida:}] 5 (1800 PX)\smallskip
@@ -35806,7 +35806,7 @@ Un'insolita variante del gargoyle non abita tra edifici e rovine ma sotto le ond
 	\item[\textbf{Punti Ferita:}] 205,  \textbf{Difesa:} 26,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 9 m, scavare 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +11, Volontà +11}}
-	\item[\textbf{Competen:}] Consapevolezza +10
+	\item[\textbf{Comp.:}] Consapevolezza +10
 	\item[\textbf{Sensi:}] Scurovisione 18 m, senso tellurico 18 m
 	\item[\textbf{Sfida:}] 10 (5900 PX)\smallskip
 \end{description}
@@ -36183,7 +36183,7 @@ I giganti di Collina solitari e non malvagi sono molto rari, ma li si può trova
 	\item[\textbf{Punti Ferita:}] 187,  \textbf{Difesa:} 23,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +8, Volontà +11}}
-	\item[\textbf{Competen:}] Atletica +11, Consapevolezza +6
+	\item[\textbf{Comp.:}] Atletica +11, Consapevolezza +6
 	\item[\textbf{Linguaggi:}] Gigante
 	\item[\textbf{Sfida:}] 9 (5000 PX)\smallskip
 \end{description}
@@ -36227,7 +36227,7 @@ I giganti del fuoco preferiscono i luoghi caldi: più caldi sono meglio è. Si p
 	\item[\textbf{Punti Ferita:}] 167,  \textbf{Difesa:} 21,  \textbf{Iniziativa:} -1
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +7, Volontà +8}}
-	\item[\textbf{Competen:}] Atletica +9
+	\item[\textbf{Comp.:}] Atletica +9
 	\item[\textbf{Linguaggi:}] Gigante
 	\item[\textbf{Sfida:}] 8 (3900 PX)\smallskip
 \end{description}
@@ -36271,7 +36271,7 @@ I giganti del gelo amano prendere prigionieri e li usano sia come schiavi che co
 	\item[\textbf{Punti Ferita:}] 187,  \textbf{Difesa:} 24,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +9, Volontà +12}}
-	\item[\textbf{Competen:}] Percepire Emozioni +7
+	\item[\textbf{Comp.:}] Percepire Emozioni +7
 	\item[\textbf{Linguaggi:}] Comune, Gigante
 	\item[\textbf{Sfida:}] 9 (5000 PX)\smallskip
 \end{description}
@@ -36323,7 +36323,7 @@ Sono molte le leggende che parlano di magiche città dei giganti delle nuvole si
 	\item[\textbf{Punti Ferita:}] 148,  \textbf{Difesa:} 23,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +12, Riflessi +9, Volontà +8}}
-	\item[\textbf{Competen:}] Atletica +12
+	\item[\textbf{Comp.:}] Atletica +12
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Gigante
 	\item[\textbf{Sfida:}] 7 (2900 PX)\smallskip
@@ -36372,7 +36372,7 @@ I giganti di Pietra più vecchi tendono ad allontanarsi dalla tribù per molto t
 	\item[\textbf{Punti Ferita:}] 262,  \textbf{Difesa:} 31,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 15 m, nuoto 15 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +18, Riflessi +15, Volontà +17}}
-	\item[\textbf{Competen:}] Arcana +8, Atletica +14, Storia +8
+	\item[\textbf{Comp.:}] Arcana +8, Atletica +14, Storia +8
 	\item[\textbf{Res. Danni:}] Freddo
 	\item[\textbf{Imm. Danni:}] Elettricità, Suono
 	\item[\textbf{Linguaggi:}] Comune, Gigante
@@ -36476,7 +36476,7 @@ I capi gnoll hanno competenze da guardiaboschi, e alcuni sono devoti a famelici 
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 6 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +2
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +2
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Gnomica, Linguaggio delle Profondità, Tremun
 	\item[\textbf{Sfida:}] 1/2 (100 PX)\smallskip
@@ -36805,7 +36805,7 @@ Il corpo di un golem di pietra viene scolpito da un unico blocco di pietra dura,
 	\item[\textbf{Punti Ferita:}] 109,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +5, Volontà +6}
-	\item[\textbf{Competen:}] Consapevolezza +4
+	\item[\textbf{Comp.:}] Consapevolezza +4
 	\item[\textbf{Immunità:}] Pietrificato
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Sfida:}] 5 (1800 PX)\smallskip
@@ -36885,7 +36885,7 @@ I grick si mimetizzano grazie al loro colore scuro e alla capacità di scalare i
 	\item[\textbf{Punti Ferita:}] 52,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m, volo 24 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Consapevolezza +5
+	\item[\textbf{Comp.:}] Consapevolezza +5
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Sfida:}] 2 (450 PX)\smallskip
 \end{description}
@@ -36929,7 +36929,7 @@ I grifoni possono portare fino a 150 kg come carico leggero, 300 kg come carico 
 	\item[\textbf{Punti Ferita:}] 19,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Atletica +5, Furtività +3, Consapevolezza +3
+	\item[\textbf{Comp.:}] Atletica +5, Furtività +3, Consapevolezza +3
 	\item[\textbf{Immunità:}] accecato
 	\item[\textbf{Sensi:}] Vista Cieca 9 m o 3 m se assordato (cieco oltre questo raggio)
 	\item[\textbf{Linguaggi:}] Linguaggio delle Profondità
@@ -37040,7 +37040,7 @@ Gli Hobgoblin disprezzano la magia e diffidano dei maghi. I loro sciamani, temut
 	\item[\textbf{Punti Ferita:}] 167,  \textbf{Difesa:} 23,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m, nuoto 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +9, Volontà +8}}
-	\item[\textbf{Competen:}] Consapevolezza +6
+	\item[\textbf{Comp.:}] Consapevolezza +6
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Sfida:}] 8 (3900 PX)\smallskip
 \end{description}
@@ -37085,7 +37085,7 @@ L'idra è un drago a più teste, ma stupido e con grossi problemi di digestione.
 	\item[\textbf{Punti Ferita:}] 33,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 12 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Consapevolezza +5
+	\item[\textbf{Comp.:}] Consapevolezza +5
 	\item[\textbf{Sfida:}] 1 (200 PX)\smallskip
 \end{description}
 
@@ -37192,7 +37192,7 @@ Un kraken è lungo quasi 30 metri e pesa 20000 kg.
 	\item[\textbf{Punti Ferita:}] 88,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +6}
-	\item[\textbf{Competen:}] Furtività +3, Ingannare +7, Percepire Emozioni +4,
+	\item[\textbf{Comp.:}] Furtività +3, Ingannare +7, Percepire Emozioni +4,
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Abissale, Comune
 	\item[\textbf{Sfida:}] 4 (1100 PX)\smallskip
@@ -37321,7 +37321,7 @@ Esistono anche rarissimi Lich buoni, ma come dice il detto sono più rari di un 
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 12,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 9 m, nuoto 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +3, Sopravvivenza +5
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +3, Sopravvivenza +5
 	\item[\textbf{Linguaggi:}] Draconico
 	\item[\textbf{Sfida:}] 1/2 (100 PX)\smallskip
 \end{description}
@@ -37373,7 +37373,7 @@ I lucertoloidi presentati qui vivono in ambienti paludosi. Le tribù lucertoloid
 	\item[\textbf{Punti Ferita:}] 88,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +3}
-	\item[\textbf{Competen:}] Consapevolezza +3, professione che aveva in vita
+	\item[\textbf{Comp.:}] Consapevolezza +3, professione che aveva in vita
 	\item[\textbf{Imm. Danni:}] Freddo, Veleno, Fuoco, da Vuoto
 	\item[\textbf{Immunità:}] affascinato, pietrificato, spaventato
 	\item[\textbf{Linguaggi:}] Comune, Nanico, Elfico
@@ -37408,7 +37408,7 @@ Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 3 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Consapevolezza +3
+	\item[\textbf{Comp.:}] Consapevolezza +3
 	\item[\textbf{Imm. Danni:}] Freddo, Veleno, Elettricità, da Vuoto
 	\item[\textbf{Immunità:}] affascinato, pietrificato, spaventato
 	\item[\textbf{Sfida:}] 1/2 (100 PX)\smallskip
@@ -37484,7 +37484,7 @@ Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi 
 	\item[\textbf{Punti Ferita:}] 70,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m (12 m in forma di lupo)
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +3, Consapevolezza +4
+	\item[\textbf{Comp.:}] Furtività +3, Consapevolezza +4
 	\item[\textbf{Imm. Danni:}] da arma non magica o che non sia argentata
 	\item[\textbf{Linguaggi:}] Comune (non può parlare in forma di lupo)
 	\item[\textbf{Sfida:}] 3 (700 PX)\smallskip
@@ -37525,7 +37525,7 @@ Nella forma umana i lupi mannari somigliano a persone normali, anche se alcuni t
 	\item[\textbf{Punti Ferita:}] 108,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 9 m (12 m, scalata 9 m in forma di orso o forma ibrida)
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +5, Volontà +6}
-	\item[\textbf{Competen:}] Consapevolezza +7
+	\item[\textbf{Comp.:}] Consapevolezza +7
 	\item[\textbf{Imm. Danni:}] da arma non magica o che non sia argentata
 	\item[\textbf{Linguaggi:}] Comune (non può parlare in forma di orso)
 	\item[\textbf{Sfida:}] 5 (1800 PX)\smallskip
@@ -37567,7 +37567,7 @@ Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spa
 	\item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +2
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +2
 	\item[\textbf{Imm. Danni:}] da arma non magica o che non sia argentata
 	\item[\textbf{Sensi:}] Scurovisione 18 m (solo in forma di ratto)
 	\item[\textbf{Linguaggi:}] Comune (non può parlare in forma di ratto)
@@ -37609,7 +37609,7 @@ I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e v
 	\item[\textbf{Punti Ferita:}] 89,  \textbf{Difesa:} 19,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m (12 m in forma di tigre)
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +6, Volontà +5}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +5
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +5
 	\item[\textbf{Imm. Danni:}] da arma non magica che non siano argentati
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Comune (non può parlare in forma di tigre)
@@ -37701,7 +37701,7 @@ Anche se le manticore sono simili a delle creazioni magiche, sono da tempo annov
 	\item[\textbf{Punti Ferita:}] 160,  \textbf{Difesa:} 24,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 3 m, volo 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +10, Volontà +9}}
-	\item[\textbf{Competen:}] Furtività +5
+	\item[\textbf{Comp.:}] Furtività +5
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Linguaggio delle Profondità
 	\item[\textbf{Sfida:}] 8 (3900 PX)\smallskip
@@ -37753,7 +37753,7 @@ Le loro motivazioni sono misteriose e confuse, e diffidano perfino dei loro simi
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 3 m, volo 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +3
+	\item[\textbf{Comp.:}] Furtività +3
 	\item[\textbf{Sensi:}] Vista Cieca 18 m
 	\item[\textbf{Sfida:}] 1/2 (100 PX)\smallskip
 \end{description}
@@ -37795,7 +37795,7 @@ Mantooscuro e Manto Assassino per quanto simili non appartengono alla stessa spe
 	\item[\textbf{Punti Ferita:}] 126,  \textbf{Difesa:} 22,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +8, Volontà +7}
-	\item[\textbf{Competen:}] Furtività +5, Ingannare +5, Percepire Emozioni +4
+	\item[\textbf{Comp.:}] Furtività +5, Ingannare +5, Percepire Emozioni +4
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Comune
 	\item[\textbf{Sfida:}] 6 (2300 PX)\smallskip
@@ -37844,7 +37844,7 @@ Tutte le meduse sono femmine. Raramente, una medusa decide di prendere un maschi
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m, volo 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +3, Consapevolezza +2
+	\item[\textbf{Comp.:}] Furtività +3, Consapevolezza +2
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Aquan, Ictun
@@ -37885,7 +37885,7 @@ I mephit del ghiaccio comunemente si trovano sul Piano dell'Aria. Questi mephit 
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m, volo 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +3
+	\item[\textbf{Comp.:}] Furtività +3
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Ignan, Tremun
@@ -37925,7 +37925,7 @@ I mephit del magma comunemente si trovano sul Piano del Fuoco. Questi mephit son
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m, volo 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +2
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +2
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Ictun, Tremun
@@ -38042,7 +38042,7 @@ Le megere marine formano congreghe simili a quelle delle altre megere, ma la lor
 	\item[\textbf{Punti Ferita:}] 108,  \textbf{Difesa:} 20,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +7, Volontà +7}
-	\item[\textbf{Competen:}] Furtività +6, Ingannare +7, Percepire Emozioni +6
+	\item[\textbf{Comp.:}] Furtività +6, Ingannare +7, Percepire Emozioni +6
 	\item[\textbf{Res. Danni:}] Freddo, Fuoco; da arma non magica o non siano argentati
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Abissale, Comune, Infernale, Druidico
@@ -38077,7 +38077,7 @@ A volontà: \emph{\hyperlink{Dardo arcano}{Dardo arcano}, \hyperlink{Individuazi
 	\item[\textbf{Punti Ferita:}] 70,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +4, Volontà +5}
-	\item[\textbf{Competen:}] Arcana +3, Furtività +3, Ingannare +4
+	\item[\textbf{Comp.:}] Arcana +3, Furtività +3, Ingannare +4
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Comune, Draconico, Silvano
 	\item[\textbf{Sfida:}] 3 (700 PX)\smallskip
@@ -38299,7 +38299,7 @@ I protoplasmi neri sono gli spazzini del mondo sotterraneo, costantemente alla r
 	\item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 15,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 5 metri
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +5
+	\item[\textbf{Comp.:}] Furtività +5
 	\item[\textbf{Imm. Danni:}] Acido
 	\item[\textbf{Immunità:}] prono
 	\item[\textbf{Sensi:}] Scurovisione 18 m
@@ -38355,7 +38355,7 @@ Un tipico mimic ha un volume di 2 metri cubi (1 m per 1 m per 2 m) e pesa circa 
 	\item[\textbf{Punti Ferita:}] 70,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +3, Volontà +6}
-	\item[\textbf{Competen:}] Consapevolezza +7
+	\item[\textbf{Comp.:}] Consapevolezza +7
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Abissale
 	\item[\textbf{Sfida:}] 3 (700 PX)\smallskip
@@ -38426,7 +38426,7 @@ I minotauri sono combattenti diretti, usando le loro corna per incornare orribil
 	\item[\textbf{Punti Ferita:}] 294,  \textbf{Difesa:} 32,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 6 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +18, Riflessi +15, Volontà +19}}
-	\item[\textbf{Competen:}] Religione +5, Storia +5
+	\item[\textbf{Comp.:}] Religione +5, Storia +5
 	\item[\textbf{Imm. Danni:}] da Vuoto, Veleno; armi +1
 	\item[\textbf{Immunità:}] affascinato, paralizzato, affaticato, spaventato
 	\item[\textbf{Sensi:}] Scurovisione 18 m
@@ -38773,7 +38773,7 @@ Un ogre adulto è alto sui 3 metri e pesa circa 325 kg.
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4 (+6 a luce fioca o oscurità)
+	\item[\textbf{Comp.:}] Furtività +4 (+6 a luce fioca o oscurità)
 	\item[\textbf{Res. Danni:}] Acido, Freddo, Elettricità, Fuoco, Suono; da arma non magica
 	\item[\textbf{Imm. Danni:}] da Vuoto, Veleno
 	\item[\textbf{Immunità:}] afferrato, intralciato, paralizzato, pietrificato, prono, affaticato, spaventato, sanguinamento
@@ -38841,7 +38841,7 @@ La malvagia ombra si muove lungo il confine tra il buio delle tenebre e la dura 
 	\item[\textbf{Punti Ferita:}] 145,  \textbf{Difesa:} 21,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m, volo 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +7, Volontà +8}
-	\item[\textbf{Competen:}] Arcana +5, Ingannare +8
+	\item[\textbf{Comp.:}] Arcana +5, Ingannare +8
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Comune, Gigante
 	\item[\textbf{Sfida:}] 7 (2900 PX)\smallskip
@@ -38883,7 +38883,7 @@ A volontà: \emph{\hyperlink{Invisibilità}{Invisibilità}, \hyperlink{Oscurità
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Intimidire +1
+	\item[\textbf{Comp.:}] Intimidire +1
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Comune, Goblinoide
 	\item[\textbf{Sfida:}] 1/2 (100 PX)\smallskip
@@ -38916,7 +38916,7 @@ Un orchetti maschio adulto è alto 1,6 metri e pesa circa 60 kg. Caratteristica 
 	\item[\textbf{Punti Ferita:}] 33,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Intimidire +2
+	\item[\textbf{Comp.:}] Intimidire +2
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Comune, Goblinoide
 	\item[\textbf{Sfida:}] 1 (100 PX)\smallskip
@@ -39040,7 +39040,7 @@ Questo Orsogufo è presente nelle regioni artiche o montane innevate. A differen
 	\item[\textbf{Punti Ferita:}] 70,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +6}
-	\item[\textbf{Competen:}] Consapevolezza +9
+	\item[\textbf{Comp.:}] Consapevolezza +9
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] comprende e legge i seguenti: Comune, Druidico,Celestiale, Infernale, Nanico, Elfico, Orchesco, Gigante, Expiran, lingue Elementali
 	\item[\textbf{Sfida:}] 3 (700 PX)\smallskip
@@ -39197,7 +39197,7 @@ I Panoptikhan hanno una lunghissima vita, nell'ordine dei mille anni ma risultan
 	\item[\textbf{Punti Ferita:}] 52,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 18 m, volo 27 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +4}
-	\item[\textbf{Competen:}] Consapevolezza +6
+	\item[\textbf{Comp.:}] Consapevolezza +6
 	\item[\textbf{Linguaggi:}] comprende Celestiale, Comune, Elfico e Silvano ma non può parlare
 	\item[\textbf{Sfida:}] 2 (450 PX)\smallskip
 \end{description}
@@ -39235,7 +39235,7 @@ Pegasi ed Unicorni sono stati salvati dalla furia di Calicante verso i \emph{cav
 	\item[\textbf{Punti Ferita:}] 125,  \textbf{Difesa:} 24,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 15 m, volo 15 m, Fluttuare
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +10, Volontà +8}}
-	\item[\textbf{Competen:}] Furtività +10, Consapevolezza +8
+	\item[\textbf{Comp.:}] Furtività +10, Consapevolezza +8
 	\item[\textbf{Res. Danni:}] da arma non magica
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Immunità:}] afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato
@@ -39281,7 +39281,7 @@ A causa delle continue evocazioni, molti cacciatori invisibili avversano gli abi
 	\item[\textbf{Punti Ferita:}] 19,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 5 metri, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +3
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +3
 	\item[\textbf{Sensi:}] Scurovisione 18 m, Vista Cieca 3 m
 	\item[\textbf{Linguaggi:}] comprende il Comune e il Draconico ma non parla
 	\item[\textbf{Sfida:}] 1/4 (50 PX)\smallskip
@@ -39326,7 +39326,7 @@ Raggiunta l'età adulta, il corpo di uno pseudodrago è lungo 30 centimetri con 
 	\item[\textbf{Punti Ferita:}] 259,  \textbf{Difesa:} 32,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +17, Riflessi +16, Volontà +16}}
-	\item[\textbf{Competen:}] Ingannare +10, Percepire Emozioni +8
+	\item[\textbf{Comp.:}] Ingannare +10, Percepire Emozioni +8
 	\item[\textbf{Imm. Danni:}] contundenti, armi +1
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] Comune, Infernale
@@ -39504,7 +39504,7 @@ Fortunatamente, è spesso possibile sfuggire alle attenzioni di un rugginofago l
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 12,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 9 m, nuoto 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Consapevolezza +5
+	\item[\textbf{Comp.:}] Consapevolezza +5
 	\item[\textbf{Sensi:}] Scurovisione 36 m
 	\item[\textbf{Linguaggi:}] Sahuagin
 	\item[\textbf{Sfida:}] 1/2 (100 PX)\smallskip
@@ -39596,7 +39596,7 @@ Abitando zone così estreme, le Salamandre posseggono solo tesori che resistono 
 	\item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 15,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +5, Intrattenere +6, Consapevolezza +2
+	\item[\textbf{Comp.:}] Furtività +5, Intrattenere +6, Consapevolezza +2
 	\item[\textbf{Linguaggi:}] Comune, Elfico, Silvano
 	\item[\textbf{Sfida:}] 1/2 (100 PX)\smallskip
 \end{description}
@@ -39716,7 +39716,7 @@ Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrile
 	\item[\textbf{Punti Ferita:}] 70,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 15 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +4}
-	\item[\textbf{Competen:}] Consapevolezza +5
+	\item[\textbf{Comp.:}] Consapevolezza +5
 	\item[\textbf{Imm. Danni:}] Fuoco
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] comprende l'Infernale ma non può parlare
@@ -39747,7 +39747,7 @@ Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrile
 	\item[\textbf{Punti Ferita:}] 338,  \textbf{Difesa:} 34,  \textbf{Iniziativa:} +3
 	\item[\textbf{Movimento:}] 12 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +22, Riflessi +17, Volontà +21}}
-	\item[\textbf{Competen:}] Arcana +9, Religione +15
+	\item[\textbf{Comp.:}] Arcana +9, Religione +15
 	\item[\textbf{Imm. Danni:}] da arma non magica
 	\item[\textbf{Immunità:}] affascinato, spaventato
 	\item[\textbf{Sensi:}] visione del vero 36 m
@@ -39826,7 +39826,7 @@ Le androsfingi sono alte 3,6 metri e pesano 500 kg.
 	\item[\textbf{Punti Ferita:}] 219,  \textbf{Difesa:} 28,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 12 m, volo 18 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +13, Volontà +15}}
-	\item[\textbf{Competen:}] Arcana +14, Religione +9, Storia +14
+	\item[\textbf{Comp.:}] Arcana +14, Religione +9, Storia +14
 	\item[\textbf{Res. Danni:}] da arma non magica
 	\item[\textbf{Immunità:}] affascinato, spaventato
 	\item[\textbf{Sensi:}] visione del vero 36 m
@@ -39893,7 +39893,7 @@ Una tipica sfinge è lunga 3 metri e pesa circa 400 kg. Anche se le loro ali pos
 	\item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 15,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 6 m, arrampicarsi 6 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +3
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +3
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Sfida:}] 2 (450 PX)\smallskip
 \end{description}
@@ -39931,7 +39931,7 @@ Di colore grigio scuro, marrone, preferiscono nascondersi nell'oscurità ed atta
 	\item[\textbf{Punti Ferita:}] 33,  \textbf{Difesa:} 15,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 0 m, volo 16 m, fluttuare
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +8,Consapevolezza +3
+	\item[\textbf{Comp.:}] Furtività +8,Consapevolezza +3
 	\item[\textbf{Res. Danni:}] Acido, Freddo, Fuoco, Elettricità, Suono, da Vuoto, da arma non magica
 	\item[\textbf{Immunità:}] affascinato, spaventato, affaticato, afferrato, paralizzato, pietrificato, veleno, prono, ristretto
 	\item[\textbf{Sensi:}] Scurovisione 18 m
@@ -39966,7 +39966,7 @@ Uno spettro assomiglia molto a come era in vita e può essere facilmente riconos
 	\item[\textbf{Punti Ferita:}] 19,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 3 m, volo 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
-	\item[\textbf{Competen:}] Furtività +8 (la prova è fatta con -1d6 se lo spiritello sta volando),Consapevolezza +3
+	\item[\textbf{Comp.:}] Furtività +8 (la prova è fatta con -1d6 se lo spiritello sta volando),Consapevolezza +3
 	\item[\textbf{Linguaggi:}] Comune, Elfico, Silvano
 	\item[\textbf{Sfida:}] 1/4 (50 PX)\smallskip
 \end{description}
@@ -40198,7 +40198,7 @@ Si nutrono di grandi pesci e alghe marine, e non disdegnano i passeggeri delle n
 	\item[\textbf{Punti Ferita:}] 15,  \textbf{Difesa:} 16,  \textbf{Iniziativa:} +6
 	\item[\textbf{Movimento:}] 6 m, volare 18 m, fluttuare
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +30, Riflessi +34, Volontà +30}}
-	\item[\textbf{Competen:}] tutte +20
+	\item[\textbf{Comp.:}] tutte +20
 	\item[\textbf{Immunità:}] al danno delle armi con bonus magico inferiore a +6 
 	\item[\textbf{Immunità:}] a qualsiasi effetto, danno, condizione non faccia piacere alla Topi 
 	\item[\textbf{Immunità:}] a qualsiasi magia la Topi non voglia essere influenzata
@@ -40319,7 +40319,7 @@ E' universalmente conosciuto che i troll possono naturalmente mutare acquisendo 
 	\item[\textbf{Punti Ferita:}] 17,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +1
 	\item[\textbf{Movimento:}] 3 m, nuoto 12 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
-	\item[\textbf{Competen:}] Consapevolezza +2
+	\item[\textbf{Comp.:}] Consapevolezza +2
 	\item[\textbf{Linguaggi:}] Aquan, Comune
 	\item[\textbf{Sfida:}] 1/8 (25 PX)\smallskip
 \end{description}
@@ -40507,7 +40507,7 @@ Il corno dell'unicorno è la fonte dei suoi poteri magici, e le creature malvagi
 	\item[\textbf{Punti Ferita:}] 259,  \textbf{Difesa:} 33,  \textbf{Iniziativa:} +4
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +17, Riflessi +17, Volontà +15}}
-	\item[\textbf{Competen:}] Furtività +9, Consapevolezza +17
+	\item[\textbf{Comp.:}] Furtività +9, Consapevolezza +17
 	\item[\textbf{Imm. Danni:}] da Vuoto; Veleno, da arma non magica
 	\item[\textbf{Immunità:}] affascinato, assordato, sanguinamento
 	\item[\textbf{Sensi:}] Scurovisione 36 m
@@ -40589,7 +40589,7 @@ I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +9, Volontà +6}
 	\item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 3 Cos 3 Int 0 Sag 0 Car 1}
 	\item[\textbf{Punti Ferita:}] 126,  \textbf{Difesa:} 23,  \textbf{Iniziativa:} +3
-	\item[\textbf{Competen:}] Furtività +6
+	\item[\textbf{Comp.:}] Furtività +6
 	\item[\textbf{Res. Danni:}] da Vuoto; da arma non magica
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] le lingue che conosceva in vita
@@ -40802,7 +40802,7 @@ Una viverna è lunga circa 4,8 metri e la coda rappresenta da sola circa metà d
 	\item[\textbf{Punti Ferita:}] 70,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +2
 	\item[\textbf{Movimento:}] 9 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +4}
-	\item[\textbf{Competen:}] Furtività +4, Consapevolezza +3
+	\item[\textbf{Comp.:}] Furtività +4, Consapevolezza +3
 	\item[\textbf{Res. Danni:}] da Vuoto; da arma non magica o che non sia argentata
 	\item[\textbf{Imm. Danni:}] Veleno
 	\item[\textbf{Immunità:}] affaticato, sanguinamento
@@ -40895,7 +40895,7 @@ I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le cr
 	\item[\textbf{Punti Ferita:}] 111,  \textbf{Difesa:} 18,  \textbf{Iniziativa:} +0
 	\item[\textbf{Movimento:}] 6 m, scavo 6 m
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +11, Riflessi +5, Volontà +5}
-	\item[\textbf{Competen:}] Furtività +3, Consapevolezza +6
+	\item[\textbf{Comp.:}] Furtività +3, Consapevolezza +6
 	\item[\textbf{Res. Danni:}] perforante e tagliente di armi non magiche o che non siano di adamantio
 	\item[\textbf{Sensi:}] Scurovisione 18 m, senso tellurico 18 m
 	\item[\textbf{Linguaggi:}] Tremun
@@ -41015,7 +41015,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 	\item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
 	\item[\textbf{Vul. al Danno:}] Fuoco
 	\item[\textbf{Res. al Danno:}] contundente, perforante
-	\item[\textbf{Competen:}] Storia +2
+	\item[\textbf{Comp.:}] Storia +2
 	\item[\textbf{Sensi:}] Scurovisione 18 m
 	\item[\textbf{Linguaggi:}] una lingua conosciuta dal suo creatore
 	\item[\textbf{Sfida:}] 2 (450 PX)\smallskip
@@ -42180,6 +42180,13 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 
 \emph{Colpisce:} 8 (2d4 + 3) danni contundenti.
 
+
+\begin{center}
+	\includegraphics[width=0.85\linewidth]{immagini/saurovallo2-ai.png}
+	
+	\textit{Saurovallo (B.I.C.)}
+\end{center}
+
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Saurovallo da Galoppo} \hypertarget{Saurovallo da Galoppo}{}\medskip \noindent{\large\textbf{Saurovallo da Galoppo}}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
     \item[\textbf{Taglia/Tipo:}] Grande bestia, disallineato
@@ -42258,13 +42265,6 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 \emph{\textbf{Zoccoli.} Attacco con Arma da Mischia}: +4 a colpire, portata 1 m, un bersaglio.
 
 \emph{Colpisce:} 7 (2d4 + 2) danni contundenti.
-
-\begin{center}
-	\includegraphics[width=0.85\linewidth]{immagini/saurovallo2-ai.png}
-	
-	\textit{Saurovallo (B.I.C.)}
-\end{center}
-
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Mostruario]{Scarabeo di Fuoco Gigante} \hypertarget{Scarabeo di Fuoco Gigante}{}\medskip \noindent{\large\textbf{Scarabeo di Fuoco Gigante}}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.2cm]
@@ -42509,7 +42509,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
     \item[\textbf{Taglia/Tipo:}] Piccola bestia, disallineato
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 2 Cos 0 Int -3 Sag 1 Car -2}
     \item[\textbf{Punti Ferita:}] 19,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +2
-    \item[\textbf{Competen:}] Acrobatica +6, Consapevolezza +3
+    \item[\textbf{Comp.:}] Acrobatica +6, Consapevolezza +3
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
     \item[\textbf{Movimento:}] 9 m, scalata 9 m 
     \item[\textbf{Sfida:}] 1/4 (50 PX)\smallskip
@@ -42961,7 +42961,7 @@ Le guardie comprendono membri della ronda cittadina, sentinelle di una cittadell
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 2 Int 0 Sag 0 Car 0}
     \item[\textbf{Punti Ferita:}] 70,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +1
-    \item[\textbf{Competen:}] Atletica +5
+    \item[\textbf{Comp.:}] Atletica +5
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] Comune
@@ -43041,7 +43041,7 @@ nuovi territori esplorati.
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 0 Int 1 Sag 2 Car 3}
     \item[\textbf{Punti Ferita:}] 17,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +1
-    \item[\textbf{Competen:}] Percepire Emozioni +4, Ingannare +5
+    \item[\textbf{Comp.:}] Percepire Emozioni +4, Ingannare +5
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] due lingue qualsiasi
@@ -43148,7 +43148,7 @@ Una spia è un individuo addestramento nel reperire segreti per conto di qualcun
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 3 Cos 2 Int 2 Sag 0 Car 2}
     \item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 17,  \textbf{Iniziativa:} +3
-    \item[\textbf{Competen:}] Atletica +4, Ingannare +4
+    \item[\textbf{Comp.:}] Atletica +4, Ingannare +4
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +5, Volontà +3}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}]  due lingue qualsiasi
@@ -43179,7 +43179,7 @@ Che viva in terra o in mare, è un individuo munito di una grande personalità c
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 3 Cos 2 Int 1 Sag 0 Car 0}
     \item[\textbf{Punti Ferita:}] 162,  \textbf{Difesa:} 25,  \textbf{Iniziativa:} +3
-    \item[\textbf{Competen:}] Acrobazia +6, Furtività +9, Ingannare +3
+    \item[\textbf{Comp.:}] Acrobazia +6, Furtività +9, Ingannare +3
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +11, Volontà +8}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] Comune più due altre lingue
@@ -43219,7 +43219,7 @@ Il mago trascorre la vita nello studio e la pratica della magia.
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 2 Cos 0 Int 2 Sag 1 Car 0}
     \item[\textbf{Punti Ferita:}] 33,  \textbf{Difesa:} 15,  \textbf{Iniziativa:} +3
-    \item[\textbf{Competen:}] Arcana +5, Storia +5
+    \item[\textbf{Comp.:}] Arcana +5, Storia +5
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] quattro lingue qualsiasi
@@ -43247,7 +43247,7 @@ livello 2 (3 slot): \emph{\hyperlink{Blocca Persona}{Blocca Persona}, \hyperlink
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 2 Cos 0 Int 3 Sag 1 Car 0}
     \item[\textbf{Punti Ferita:}] 122,  \textbf{Difesa:} 22,  \textbf{Iniziativa:} +3
-    \item[\textbf{Competen:}] Arcana +6, Storia +6
+    \item[\textbf{Comp.:}] Arcana +6, Storia +6
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +8, Volontà +7}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] quattro lingue qualsiasi
@@ -43285,7 +43285,7 @@ livello 5 (1 slot): \emph{\hyperlink{Cono di Freddo}{Cono di Freddo}}
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 1 Int 5 Sag 2 Car 3}
     \item[\textbf{Punti Ferita:}] 233,  \textbf{Difesa:} 30,  \textbf{Iniziativa:} +5
-    \item[\textbf{Competen:}] Arcana +13, Storia +13
+    \item[\textbf{Comp.:}] Arcana +13, Storia +13
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +14, Volontà +14}}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] sei lingue qualsiasi
@@ -43338,7 +43338,7 @@ I sacerdoti sono devoti di una divinità o una fede che si prendono cura di impa
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 0 Int 0 Sag 0 Car 0}
     \item[\textbf{Punti Ferita:}] 17,  \textbf{Difesa:} 13,  \textbf{Iniziativa:} +1
-    \item[\textbf{Competen:}] Ingannare +2, Religione +2
+    \item[\textbf{Comp.:}] Ingannare +2, Religione +2
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] Comune
@@ -43360,7 +43360,7 @@ I cultisti giurano fedeltà ai poteri oscuri, e nelle loro credenze e pratiche m
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 0 Cos 0 Int 0 Sag 2 Car 0}
     \item[\textbf{Punti Ferita:}] 19,  \textbf{Difesa:} 12,  \textbf{Iniziativa:} +0
-    \item[\textbf{Competen:}] Pronto Soccorso +4, Religione +2
+    \item[\textbf{Comp.:}] Pronto Soccorso +4, Religione +2
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] Comune
@@ -43386,7 +43386,7 @@ livello 1 (3 slot): \emph{\hyperlink{Benedizione}{Benedizione}, \hyperlink{Cura 
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 1 Int 0 Sag 1 Car 2}
     \item[\textbf{Punti Ferita:}] 33,  \textbf{Difesa:} 15,  \textbf{Iniziativa:} +2
-    \item[\textbf{Competen:}] Ingannare +4, Religione +2
+    \item[\textbf{Comp.:}] Ingannare +4, Religione +2
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] Comune ed un altra lingua
@@ -43497,7 +43497,7 @@ Sono i difensori delle tribù che vivono ai margini della civiltà.
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 1 Int 1 Sag 2 Car 0}
     \item[\textbf{Punti Ferita:}] 51,  \textbf{Difesa:} 15,  \textbf{Iniziativa:} +1
-    \item[\textbf{Competen:}] Pronto Soccorso +4, Natura +3, Consapevolezza +4
+    \item[\textbf{Comp.:}] Pronto Soccorso +4, Natura +3, Consapevolezza +4
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +4}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] Druidico più due altre lingue
@@ -43527,7 +43527,7 @@ livello 2 (3 slot): \emph{\hyperlink{Animale Messaggero}{Animale Messaggero}, \h
     \item[\textbf{Taglia/Tipo:}] Media umanoide, qualsiasi Tratto
     \item[\textbf{Caratt.:}] \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 1 Int 0 Sag 1 Car 0}
     \item[\textbf{Punti Ferita:}] 24,  \textbf{Difesa:} 14,  \textbf{Iniziativa:} +2
-    \item[\textbf{Competen:}] Furtività +6, Natura +4, Consapevolezza +5, Sopravvivenza +5
+    \item[\textbf{Comp.:}] Furtività +6, Natura +4, Consapevolezza +5, Sopravvivenza +5
     \item[\textbf{Tiri Salvez.:}] \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
     \item[\textbf{Movimento:}] 9 m 
     \item[\textbf{Linguaggi:}] Comune
