@@ -254,13 +254,13 @@ aggiunti mostri: Sibilante, Blatta Esplosiva, Maledetti Immortale, Globulo, Torc
 
 28/02/2023 aggiornata versione POD
 
-**0.68** aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiunto capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, aggiunta malattia fustigatore, aggiunto veleno a G.E.C., aggiunta malattia gnoll, corretto tiri salvezza assassino, corretto ts a divora cervelli, corretti incantesimi a gigante delle nubi, maggiori chiarimenti su condizione avvelenato causata dai mostri, chiarimento su incantesimi in armatura, controllati tiri salvezza cr 11+, aggiornata la scheda, chiarimenti su multiattacco, aggiornata tabella per tesoro per incontro, better english manual layout, indicazioni su penalita' magia con armatura e scudi, aggiunte formule per costruire elementali, chiarimenti su danno coordinato, aggiunta abilita' potere del patrono, chiarimenti su prova di magia ed armature, chiarimenti su armatura del devoto, chiarimenti su danza della lama, chiarimenti su danno coordinato, dettagli su sfondare porte, indicazioni fallimento critico in apertura porte, chiarimenti su effetti incanalare energia, modificata azione disingaggiare, aggiunto incantesimo distruggere nonmorti, dettagli su prove ed armature, aggiunta condizione sorpreso a schermo, update english character sheet, indicazioni su numero di oggetti magici da trovare per livello, aggiornata tabella ricchezza per livello, chiarimenti su danni da sanguinamento, chiarimenti su prova di pronto soccorso e rimuovere i veleni, 
+**0.68** aggiornato cavaliere nero con colpo fiammeggiante, chiarimento su multiattacco con i mostri, aggiunta abilita' istintivo, substituded image jung 12 archetypes with english'one, better english layout, aggiunte diverse descrizioni di piante, aggiunto capitolo malattie, aggiornata procedura per rimuovere maledizioni, migliorie nelle descrizione della gestione delle malattie e veleni, aggiunto condizione rallentato, aggiunto effetto veleno a basilisco, modificato morso cockatrice, aggiunta malattia a morso Hezrou, aggiunta malattia a nalfeshnee, aggiunto rallentato a morso diavolo del ghiaccio, aggiunta malattia fustigatore, aggiunto veleno a G.E.C., aggiunta malattia gnoll, corretto tiri salvezza assassino, corretto ts a divora cervelli, corretti incantesimi a gigante delle nubi, maggiori chiarimenti su condizione avvelenato causata dai mostri, chiarimento su incantesimi in armatura, controllati tiri salvezza cr 11+, aggiornata la scheda, chiarimenti su multiattacco, aggiornata tabella per tesoro per incontro, better english manual layout, indicazioni su penalita' magia con armatura e scudi, aggiunte formule per costruire elementali, chiarimenti su danno coordinato, aggiunta abilita' potere del patrono, chiarimenti su prova di magia ed armature, chiarimenti su armatura del devoto, chiarimenti su danza della lama, chiarimenti su danno coordinato, dettagli su sfondare porte, indicazioni fallimento critico in apertura porte, chiarimenti su effetti incanalare energia, modificata azione disingaggiare, aggiunto incantesimo distruggere nonmorti, dettagli su prove ed armature, aggiunta condizione sorpreso a schermo, update english character sheet, indicazioni su numero di oggetti magici da trovare per livello, aggiornata tabella ricchezza per livello, chiarimenti su danni da sanguinamento, chiarimenti su prova di pronto soccorso e rimuovere i veleni,
 
 aggiunto Arrabbiato a:
 5 boulette, Cumulo strisciante, fustigatore, golem di carne, Gorgone, otyugh, Salamadra, Wraith, Xorn
 6 chimera, vrock, drider, fioritura ossea, Persecutore Invisibile
 7 drago nero giovane, drago di rame giovane, gigante di pietra, oni
-8 Hezrou, diavolo delle catene, tirannosauro, drago di bronzo giovane, gigante del ghiaggio, manto assassino, corretti 
+8 Hezrou, diavolo delle catene, tirannosauro, drago di bronzo giovane, gigante del ghiaggio, manto assassino, corretti
 9 glabrezu, Diavolo d'Ossa, drago blu giovane, drago giovane d'argento, gigante del fuoco, gigante delle nubi
 10 drago giovane rosso, drago giovane d'oro, G.E.C
 11 Behir, Remorhaz
@@ -273,7 +273,7 @@ aggiunto Arrabbiato a:
 
 10/03/2023 aggiornata versione POD
 
-**0.69** pubblicata versione 0.68, aggiornata copertina, layout, corretta indicazione punti esperienza per scontro mortale ed epico, layout, aggiunta possibilità ritiro prova se si usano tutti i punti fato, chiarimenti su dissolvi magia e controincantesimo, rottura attrezzi da scasso con fallimento critico prova apertura lucchetto, aggiornato incantesimo disintegrazione, chiarimenti su mettersi sulla difensiva, layout tesori per livello, fixed lettrine, migliorata capacita' animalia, aggiornato famiglio, aggiornata abilita' infondere energia magica, fixed empty fist/hollow hand, layout pag/ref, golian charimenti su danno gigante della tempesta, golian modificati metri aggiuntivi quando grandi, dettagli su combattimento socale, aggiunto incantesimo bastoni in serpenti, specificato azioni per sfondare porte - prendere oggetto pronto, dettagli su alzarsi da prono, aggiornato screen, arricchita sezione come sopravvivere e divertirsi, indicazioni su sessione zero, aggiornate caratteristiche torcia-lanterna-lanterna schermabile introdotto concetto di durata come tempo reale, corretto su schermo disingaggiare, modificati incantesimi luce-luci danzanti-luce diurna-scurovisione-luce perenne, aggiunto schema per modificatori combattimenti al buio, diversi aggiornamenti ad altri incantesesimi di luce, errore calcolo danno da caduta, aggiornato obss-in-breve, rivista assegnazione punti esperienza, modificata tabella punti esperienza per livello, aggiunto in esempio sfida i punti esperienza guadagnati, aggiornata copertina con nuova immagine 
+**0.69** pubblicata versione 0.68, aggiornata copertina, layout, corretta indicazione punti esperienza per scontro mortale ed epico, layout, aggiunta possibilità ritiro prova se si usano tutti i punti fato, chiarimenti su dissolvi magia e controincantesimo, rottura attrezzi da scasso con fallimento critico prova apertura lucchetto, aggiornato incantesimo disintegrazione, chiarimenti su mettersi sulla difensiva, layout tesori per livello, fixed lettrine, migliorata capacita' animalia, aggiornato famiglio, aggiornata abilita' infondere energia magica, fixed empty fist/hollow hand, layout pag/ref, golian charimenti su danno gigante della tempesta, golian modificati metri aggiuntivi quando grandi, dettagli su combattimento socale, aggiunto incantesimo bastoni in serpenti, specificato azioni per sfondare porte - prendere oggetto pronto, dettagli su alzarsi da prono, aggiornato screen, arricchita sezione come sopravvivere e divertirsi, indicazioni su sessione zero, aggiornate caratteristiche torcia-lanterna-lanterna schermabile introdotto concetto di durata come tempo reale, corretto su schermo disingaggiare, modificati incantesimi luce-luci danzanti-luce diurna-scurovisione-luce perenne, aggiunto schema per modificatori combattimenti al buio, diversi aggiornamenti ad altri incantesesimi di luce, errore calcolo danno da caduta, aggiornato obss-in-breve, rivista assegnazione punti esperienza, modificata tabella punti esperienza per livello, aggiunto in esempio sfida i punti esperienza guadagnati, aggiornata copertina con nuova immagine
 
 30/03/2023 aggiornata versione POD
 
@@ -285,7 +285,7 @@ aggiunto Arrabbiato a:
 
 06/04/2023 aggiornata versione POD
 
-aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several fix on moster size, migliore lettura alcune tabelle per taglia, indicazioni su rifare la prova, migliore gestione tiro salvezza telecinesi, chiarimenti su prova di caratteristica, sort alphabetically common term, aggiunto foglio utilita' per tenera traccia di torce e combattimenti, aggiunto incantesimo benedizione di cattalm, round-turno 
+aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several fix on moster size, migliore lettura alcune tabelle per taglia, indicazioni su rifare la prova, migliore gestione tiro salvezza telecinesi, chiarimenti su prova di caratteristica, sort alphabetically common term, aggiunto foglio utilita' per tenera traccia di torce e combattimenti, aggiunto incantesimo benedizione di cattalm, round-turno
 
 13/04/2023 aggiornata versione POD
 
@@ -321,7 +321,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 10/05/2023 aggiornata versione POD
 
-0.75a aggiunta opzione uno con Shayalia per gestire animalia in maniera diversa,  dettaglio sul minimo arrotondamento, aggiornato uno con shayalia 
+0.75a aggiunta opzione uno con Shayalia per gestire animalia in maniera diversa,  dettaglio sul minimo arrotondamento, aggiornato uno con shayalia
 
 12/05/2023 aggiornata versione POD
 
@@ -335,17 +335,17 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 **0.76a** pubblicata versione 0.75, aggiornata copertina, migliorata indicazione su conversione mostri, rilettura termini comuni, aggiornato accesso alle liste di magia, aggiornato modificatore per tenere una spada a due mani, diversi chiarimenti e migliorie a layout manovre
 
-05/06/2023 aggiornata versione POD 
+05/06/2023 aggiornata versione POD
 
 0.76b dettagli su muro di forza,  chiarimenti ulteriori su dimensioni arma, layout su mostri, corretti punti esperienza necessari per livello 18-20, se fai tre volte uno e' possibile (1-3 su d6) che lasci cadere l'arma, rimosso effetto fumble, piccole modifiche elenco manovre d'armi, modificato limite per portare armature leggere
 
-22/06/2023 aggiornata versione POD 
+22/06/2023 aggiornata versione POD
 
 **0.77a** pubblicata versione 0.76, aggiornata copertina, correzioni minori, aggiornata animalia, estrazione veloce non ha il requistio di destrezza 1, aggiornato muro mentale, chiarimenti su azioni tiro critico, aggiornamenti su tiro critico, rimossa compattazione pdf da pc di casa
 
 05/07/2023 aggiornata versione POD
 
-0.77b better english layout, aggiornata abilita' passo sicuro, note su pozioni di cura, modificatori per combattimento con creature invisibili, aggiornato screen 
+0.77b better english layout, aggiornata abilita' passo sicuro, note su pozioni di cura, modificatori per combattimento con creature invisibili, aggiornato screen
 
 11/07/2023 aggiornata versione POD
 
@@ -399,7 +399,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80b aggiornata versione POD
 
-0.80b uso corsivo al posto di apici dove appropriato, piccole correzioni, prendere il 10/14/18 non puo' essere fatto nelle prove di conoscenza, rinominato magmin in ignim, aggiornato incantesimo dito - cuoco invisibile - distruggere acqua (su un elementale), aggiornata abilita' di lista sangue morto - passo lungo, layout su patroni, aggiunta variante tiro critico,  ulteriori chiarimenti su variante tiro critico, l'iniziativa su tempo di lancio incantesimi maggiore di 1 round e' quella del primo round 
+0.80b uso corsivo al posto di apici dove appropriato, piccole correzioni, prendere il 10/14/18 non puo' essere fatto nelle prove di conoscenza, rinominato magmin in ignim, aggiornato incantesimo dito - cuoco invisibile - distruggere acqua (su un elementale), aggiornata abilita' di lista sangue morto - passo lungo, layout su patroni, aggiunta variante tiro critico,  ulteriori chiarimenti su variante tiro critico, l'iniziativa su tempo di lancio incantesimi maggiore di 1 round e' quella del primo round
 
 0.80b aggiornata versione POD
 
@@ -412,7 +412,7 @@ aggiunto incantesimo lacrima di laydel, corrette dimensioni di Tàhil, several f
 
 0.80d aggiornata versione POD
 
-**0.81** aggiornata copertina, chiarimenti su scudo alzato, aggiornato mostro tarrasque, aggiunto sacco a pelo, aggiornato capitolo Fanghiglie, Muffe e Funghi, aggiornata descrizione magia lontana, chiarimenti su sacrificio magico, dettagli su malattie, 
+**0.81** aggiornata copertina, chiarimenti su scudo alzato, aggiornato mostro tarrasque, aggiunto sacco a pelo, aggiornato capitolo Fanghiglie, Muffe e Funghi, aggiornata descrizione magia lontana, chiarimenti su sacrificio magico, dettagli su malattie,
 
 **0.81** aggiornata versione POD
 
@@ -454,7 +454,7 @@ aggiornata versione POD 2024/02/17
 
 aggiornata versione POD 2024/02/18
 
-0.82e non si e' distratti se si lancia un cantrip, aggiornata lista scudi, aggiornato colpo paralizzante - combattere alla cieca - armatura montagna incantata - colpo mortale - estrazione rapida - ferocia - ho detto cadi - il patrono e' con me - il patrono e' la mia arma - Imposizione delle mani - Imposizione delle mani - Incanalare energia - rimosso Incanalare energia a distanza - aggiunto Incanalare energia selettiva - Infondere Energia Magica - Infondere Energia Magica Superiore - Infondere Paura - La mia pelle - Litania versatile - Lo scudo è mio amico - Pelle coriacea - Specialista - Tattico - Tocco Pietoso - Tutt'uno con la magia - Un braccio, un arma, aggiornata lista Raggruppamento Abilita' per Stile, 
+0.82e non si e' distratti se si lancia un cantrip, aggiornata lista scudi, aggiornato colpo paralizzante - combattere alla cieca - armatura montagna incantata - colpo mortale - estrazione rapida - ferocia - ho detto cadi - il patrono e' con me - il patrono e' la mia arma - Imposizione delle mani - Imposizione delle mani - Incanalare energia - rimosso Incanalare energia a distanza - aggiunto Incanalare energia selettiva - Infondere Energia Magica - Infondere Energia Magica Superiore - Infondere Paura - La mia pelle - Litania versatile - Lo scudo è mio amico - Pelle coriacea - Specialista - Tattico - Tocco Pietoso - Tutt'uno con la magia - Un braccio, un arma, aggiornata lista Raggruppamento Abilita' per Stile,
 
 aggiornata versione POD 2024/02/19
 
@@ -474,7 +474,7 @@ aggiornata versione POD 2024/04/30
 
 aggiornata versione POD 2024/05/07
 
-0.84a correzioni minori al testo, aggiunta gestione delle strettoie, chiarimenti su azioni dei mostri, dettagli su cadute da grandi altezze, il terreno occupato da un avversario che si attraversa e' considerato difficile 
+0.84a correzioni minori al testo, aggiunta gestione delle strettoie, chiarimenti su azioni dei mostri, dettagli su cadute da grandi altezze, il terreno occupato da un avversario che si attraversa e' considerato difficile
 
 aggiornata versione POD 2024/05/19
 
@@ -500,7 +500,7 @@ aggiornata versione POD 2024/06/04
 
 0.84e aggiunto anche attacco sornelia in lista armi, corretto tempo di lancio incantesimo a sulian, dettagli su consapevolezza, chiarimenti su apprendere nuove compenteze/professioni, aggiornato incantesimo velocita'
 
-aggiornata versione POD 2024/06/05  
+aggiornata versione POD 2024/06/05
 
 0.84f aggiunto oggetto ad elenco equipaggiameneto, rilettura fino a combattimento sociale, dettagli su iniziativa, corretto riferimento a tiro per colpire con incantesimo in combattimento, aggiornata Maestria del combattimento
 
@@ -514,7 +514,7 @@ aggiornata versione POD 2024/06/07
 
 **0.85** aggiornata versione POD 2024/06/08
 
-0.85a chiarimenti su prove contrapposte 
+0.85a chiarimenti su prove contrapposte
 
 aggiornata versione POD 2024/06/09
 
@@ -526,7 +526,7 @@ aggiornata versione POD 2024/06/12
 
 aggiornata versione POD 2024/06/15
 
-0.85c corretti riferimenti a velocita' di passeggio, chiarimenti su azioni di movimento e cadere 
+0.85c corretti riferimenti a velocita' di passeggio, chiarimenti su azioni di movimento e cadere
 
 aggiornata versione POD 2024/06/16
 
@@ -538,7 +538,7 @@ aggiornata versione POD 2024/06/18
 
 aggiornata versione POD 2024/06/19
 
-0.85f pod 085e, aggiornata regola per capire se si e' sorpresi, aggiornato metodo per calcolare punteggio prova magia, aggiornata la scheda, aggiornato screen, aggiornata abilita' golian, modificato incantesimo Resurrezione e Resurrezione Pura 
+0.85f pod 085e, aggiornata regola per capire se si e' sorpresi, aggiornato metodo per calcolare punteggio prova magia, aggiornata la scheda, aggiornato screen, aggiornata abilita' golian, modificato incantesimo Resurrezione e Resurrezione Pura
 
 aggiornata versione POD 2024/06/24
 
@@ -598,7 +598,7 @@ aggiornata versione POD 2024/07/31
 
 aggiornata versione POD 2024/08/09
 
-0.88c dettagli su abilita' un colpo un morto, sangue puro, 
+0.88c dettagli su abilita' un colpo un morto, sangue puro,
 
 aggiornata versione POD 2024/08/10 x
 
@@ -624,11 +624,11 @@ aggiornata versione POD 2024/08/18
 
 aggiornata versione POD 2024/08/23
 
-**0.92** aggiornato mostro Silku, chiarimenti su copertura in combattimento, dettagli su Arma troppo grande, messe in ordine alfabetico lista professioni, specificati quanti incantesimi ci sono nel Tomo di Magia al primo livello, corretto in elenco incantesimi aria incantesimi caduto piuma, modificati requisiti per devoto e seguace, specificato che non si puo' essere devoti o seguaci di piu' patroni contemporaneamente, allineato capitolo Costruiamo il personaggio a nuove regole sulla magia, specificato che adepto della magia quando preso permette di conoscere un incantesimo in piu, aggiornata la scheda, aggiornato abilita' sifone nero - stai giu'- chiarimenti su toccata e fuga 
+**0.92** aggiornato mostro Silku, chiarimenti su copertura in combattimento, dettagli su Arma troppo grande, messe in ordine alfabetico lista professioni, specificati quanti incantesimi ci sono nel Tomo di Magia al primo livello, corretto in elenco incantesimi aria incantesimi caduto piuma, modificati requisiti per devoto e seguace, specificato che non si puo' essere devoti o seguaci di piu' patroni contemporaneamente, allineato capitolo Costruiamo il personaggio a nuove regole sulla magia, specificato che adepto della magia quando preso permette di conoscere un incantesimo in piu, aggiornata la scheda, aggiornato abilita' sifone nero - stai giu'- chiarimenti su toccata e fuga
 
 aggiornata versione POD 2024/08/24
 
-**0.93** ulteriori chiarimenti su arma troppo grande, aggiornata scheda, corretti imprecisioni minori in scuri ed accette, corretto riferimento a precedente tratto, aggiornata abilita' golian delle colline, al primo livello i pf sono 8+cos+fattore ca, ai livelli successivi i pf presi sono 1d6+cos+fattore ca, aggiornati cantrip  riferimenti liste di magia, aggiornato dardo arcano, modificata montagna umana 
+**0.93** ulteriori chiarimenti su arma troppo grande, aggiornata scheda, corretti imprecisioni minori in scuri ed accette, corretto riferimento a precedente tratto, aggiornata abilita' golian delle colline, al primo livello i pf sono 8+cos+fattore ca, ai livelli successivi i pf presi sono 1d6+cos+fattore ca, aggiornati cantrip  riferimenti liste di magia, aggiornato dardo arcano, modificata montagna umana
 
 aggiornata versione POD 2024/08/30
 
@@ -716,7 +716,7 @@ aggiornata versione POD 2024/10/23
 
 aggiornata versione POD 2024/10/24
 
-0.99.16 terminata formattazione testo mostri, arricchito elenco azioni, 
+0.99.16 terminata formattazione testo mostri, arricchito elenco azioni,
 
 aggiornata versione POD 2024/10/26
 
@@ -724,7 +724,7 @@ aggiornata versione POD 2024/10/26
 
 aggiornata versione POD 2024/10/28
 
-0.99.18 tolta l'ultima lettrine, aggiornata abilita' Il Patrono è la mia Arma, minute migliorie a patroni, dettagli su La Topi, completato in condizione aumento categoria dado 
+0.99.18 tolta l'ultima lettrine, aggiornata abilita' Il Patrono è la mia Arma, minute migliorie a patroni, dettagli su La Topi, completato in condizione aumento categoria dado
 
 aggiornata versione POD 2024/10/29 x
 
@@ -755,18 +755,18 @@ aggiornata versione POD 2024/11/19
 aggiornata versione POD 2024/11/25
 
 0.99.24 modificato gap temporale a 100 anni da 200, suggerimento tratti usati in incontri, aggiornata arma vorpal, corretti alcuni modificatori (da +5/-5 a +4/-4), corretto codice latex Lentezza, corretti hyperlink condividere gli spazi, rimossa abilita' orientamento e sostituita con sopravvivenza, contadino - araldo - scriba - fabbro - monaco - sensale - Mercenario - Orafo, chiarimenti su disattivare trappole magiche, riformattate elenco trappole, chiarimenti su salto e movimento, alzarsi da prono costa 1 azione, ricalibrate difficolta' trappole di esempio, indicazioni tiro critico con armi da fuoco, modificato prezzo armatura da campo, la penalita' al TC degli scudi pesanti si ha solo se la Forza e' minore di 3, aggiornata tabella effetti fallimentari utilizzo armi da fuoco
- 
+
 aggiornata versione POD 2024/12/02
 
 0.99.25 indicato che se si tira 1 con il d6 per i punti ferita si puo' prendere 3, aggiornato vantaggio Nibali, aggiunta seconda abilita' a Distillare pozioni, aggiunta regola opzionale consumo risorse, aggiunta tabella tiri fumble, controlloate condizioni, modificato penalita' a paralizzato, aggiornato struttura incantesimo Cura Ferite, aggiornato incantesimo Luminescenza, nuovo effetto critico luci danzanti, dettagli su prova di atletica per gestire le cadute, chiarimenti su abilta' figlio unico, corretta tabella modificatori attacco e difesa includendo intralciato che da -2 alla difesa, rimossa condizione abbagliato da tabella modificatori di attacco e difesa, specificati limiti a liberta' di movimento, dettagli su cosa e' terreno difficile, rinominata freccia acida in freccia acida di Restser, corretta descrizione ristoriare inferiore e superiore, aggiornato incantesimo silenzio, chiarimenti su prova di aiutare, suggerimento su azioni mostri, migliorata la compatibilita' con tectonic, diverse minute correzioni al capitolo la terra
 
 aggiornata versione POD 2024/12/13
 
-0.99.26 chiarimenti su uso borsa dell'impedimento, finta dura 1 round, aggiunto mostro spettro, minuti dettagli su razze, aggiornate regole per spostamento diagonale, aggiornato esempio costruzione mago-chierico-paladino-bardo-druido, corretti riferimenti in indice incantesimi a cure, si recupera ogni giorno cm+ca punti ferita, regole su utilizzo bacchette verghe e bastoni, aggiunta tabella per generazione casuale tipo di gioielli, aggiunta tabella generazione casuale gemme, indicazione su personaggi disfunzionali, aggiunta movimento Capriola, modificata abilita' armi scuri e accette a 5 punti, indicazione su azioni per fare bere una pozione ad un altro, specificato quanti oggetti puo' tenere una bandoliera, aggiunto oggetti magico pietre parlanti, aggiunta abilita' lesto, aggiunti modificatori intelligenza a competenze iniziali, aggiunte regole per io conosco un tizio 
+0.99.26 chiarimenti su uso borsa dell'impedimento, finta dura 1 round, aggiunto mostro spettro, minuti dettagli su razze, aggiornate regole per spostamento diagonale, aggiornato esempio costruzione mago-chierico-paladino-bardo-druido, corretti riferimenti in indice incantesimi a cure, si recupera ogni giorno cm+ca punti ferita, regole su utilizzo bacchette verghe e bastoni, aggiunta tabella per generazione casuale tipo di gioielli, aggiunta tabella generazione casuale gemme, indicazione su personaggi disfunzionali, aggiunta movimento Capriola, modificata abilita' armi scuri e accette a 5 punti, indicazione su azioni per fare bere una pozione ad un altro, specificato quanti oggetti puo' tenere una bandoliera, aggiunto oggetti magico pietre parlanti, aggiunta abilita' lesto, aggiunti modificatori intelligenza a competenze iniziali, aggiunte regole per io conosco un tizio
 
 aggiornata versione POD 2024/12/17
 
-0.99.27 ottimizzato indice, diverse correzioni linquistiche, corretta indicazione del recupero pf in caso di pronto soccorso per tutta la notte, dettagli su cosa significa attribuire un punto di competenza attiva ai tiri salvezza, corretto requisito per portare armatura leggera, specificato che i punti fato sono all'intero piu' vicino, aggiornati tratti sostituito manipolativo con crudele  e codardo al posto di intransigente e cauto con prudente, corretti indicazione pf in esempi costruzione personaggi, il patrono e' la mia arma ti rende competente dell'arma del patrono, aggiornata scheda, chiarimenti su forme energetiche del patrono, apprendi 1 incantesimo per cm assegnato, aggiornata abilita' fedele, chiarimenti su figlio unico - sapiente, aggiunta abilita' prodigioso, corretto incantesimo onda tonante, chiarimenti su batteria magica, in valutazione rimozione penalita' difesa quando si lancia un incantesimo, 
+0.99.27 ottimizzato indice, diverse correzioni linquistiche, corretta indicazione del recupero pf in caso di pronto soccorso per tutta la notte, dettagli su cosa significa attribuire un punto di competenza attiva ai tiri salvezza, corretto requisito per portare armatura leggera, specificato che i punti fato sono all'intero piu' vicino, aggiornati tratti sostituito manipolativo con crudele  e codardo al posto di intransigente e cauto con prudente, corretti indicazione pf in esempi costruzione personaggi, il patrono e' la mia arma ti rende competente dell'arma del patrono, aggiornata scheda, chiarimenti su forme energetiche del patrono, apprendi 1 incantesimo per cm assegnato, aggiornata abilita' fedele, chiarimenti su figlio unico - sapiente, aggiunta abilita' prodigioso, corretto incantesimo onda tonante, chiarimenti su batteria magica, in valutazione rimozione penalita' difesa quando si lancia un incantesimo,
 
 aggiornata versione POD 2024/12/23
 
@@ -792,7 +792,7 @@ aggiornata versione POD 2025/01/22
 
 aggiornata versione POD 2025/01/24
 
-0.99.34 dettagli su fallimento prova di magia quando richiesto successo critico, 
+0.99.34 dettagli su fallimento prova di magia quando richiesto successo critico,
 
 aggiornata versione POD 2025/02/01
 
@@ -824,7 +824,7 @@ aggiornata versione POD 2025/02/16
 
 aggiornata versione POD 2025/02/17
 
-0.99.42 aggiornata tabella peso grado di Sfida per calcolo, aggiornati nuovamente tc/difesa/ts mostri, aggiornato esempio costruzione incontro 
+0.99.42 aggiornata tabella peso grado di Sfida per calcolo, aggiornati nuovamente tc/difesa/ts mostri, aggiornato esempio costruzione incontro
 
 aggiornata versione POD 2025/02/19
 
@@ -856,12 +856,12 @@ aggiornata versione POD 2025/03/23
 
 aggiornata versione POD 2025/03/26
 
-0.99.49 modificato il bonus che hanno gli oggetti magici per salvarsi, chiariti meglio un Condizioni Bloccato/Afferrato, aggiornato tempo di lancio per incantesimi con azione immediata: lama infuocata - parola divina - randello incantato - Parola del Potere Stordire - Parola del Potere Uccidere - Punizione Marchiante - Ritirata Rapida - Santuario - Colpo Infuocato - Colpo Accecante - Colpo Accurato, concentrazioni multiple non e' piu' una opzione, aggiornato layout in magia, aggiunta gestione Opzionale - Componenti come Offerta, 
+0.99.49 modificato il bonus che hanno gli oggetti magici per salvarsi, chiariti meglio un Condizioni Bloccato/Afferrato, aggiornato tempo di lancio per incantesimi con azione immediata: lama infuocata - parola divina - randello incantato - Parola del Potere Stordire - Parola del Potere Uccidere - Punizione Marchiante - Ritirata Rapida - Santuario - Colpo Infuocato - Colpo Accecante - Colpo Accurato, concentrazioni multiple non e' piu' una opzione, aggiornato layout in magia, aggiunta gestione Opzionale - Componenti come Offerta,
 minime correzioni in avventure nei dungeon, minime correzioni in avventure in acqua, corretta batch per creazione file senza immagini, dettagli su carica e movimento in terreno difficile, migliorate ed espanse Azioni tiro critico, aggiornato layout elenco manovre d'arme
 
 aggiornata versione POD 2025/04/01
 
-0.99.50 migliorato Terreno Instabile, bilanciato beffa crudele, aggiunto mostro orso corazzato, piccole correzioni linguistiche in razze, corretta assegnazione dei tiri in Modalita' della Tradizione, aggiornati ts e difesa mostri, aggiornato export_dati_mostri.py, dettagli e chiarimenti su oggetti maledetti, dettagli su indossare oggetti magici, cambiato font per migliorare la leggibilita', aggiornata la copertina, 
+0.99.50 migliorato Terreno Instabile, bilanciato beffa crudele, aggiunto mostro orso corazzato, piccole correzioni linguistiche in razze, corretta assegnazione dei tiri in Modalita' della Tradizione, aggiornati ts e difesa mostri, aggiornato export_dati_mostri.py, dettagli e chiarimenti su oggetti maledetti, dettagli su indossare oggetti magici, cambiato font per migliorare la leggibilita', aggiornata la copertina,
 
 
 aggiornata versione POD 2025/04/09
@@ -896,7 +896,7 @@ aggiornata versione POD 2025/05/20
 
 aggiornata versione POD 2025/05/26
 
-0.99.58 aggiornata tabella tipologie gemme e valore gemme, aggiornata tabella creazione pergamene e livelli incantesimi contenuti, precisazioni su tipi di mostri, migliorato layout generale, corretto verbo, riorganizzata cartella font, aggiornata rarita' armi magiche, migliorie a layout, aggiornata rarita' in armature magiche, aggiunti numerosi hyperlink in equipaggiamento, chiarimenti su anelli d'arma, corretta rarita' arma sacra, corretta indicazione ingombro a Grifoni, dettagli su punteggio compentenze, citazione manuale dei mostri, 
+0.99.58 aggiornata tabella tipologie gemme e valore gemme, aggiornata tabella creazione pergamene e livelli incantesimi contenuti, precisazioni su tipi di mostri, migliorato layout generale, corretto verbo, riorganizzata cartella font, aggiornata rarita' armi magiche, migliorie a layout, aggiornata rarita' in armature magiche, aggiunti numerosi hyperlink in equipaggiamento, chiarimenti su anelli d'arma, corretta rarita' arma sacra, corretta indicazione ingombro a Grifoni, dettagli su punteggio compentenze, citazione manuale dei mostri, dettagli su critici alternativi,
 
 
 
