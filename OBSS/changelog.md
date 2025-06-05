@@ -900,7 +900,7 @@ aggiornata versione POD 2025/05/26
 
 aggiornata versione POD 2025/06/04
 
-0.99.59
+0.99.59 allineato uso \emph{} in didascalie immagini, aggiunto export in markdown automatizzato (molto beta), 
 
 
 > valutare:
