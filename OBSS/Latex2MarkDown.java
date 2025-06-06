@@ -61,6 +61,9 @@ public class Latex2MarkDown {
         if (documentStart != -1) {
             content = content.substring(documentStart + "\\begin{document}".length());
         }
+
+        // Handle multirow FIRST - remove it but keep the content
+        content = content.replaceAll("\\\\multirow\\{[^}]*\\}\\*?\\{([^}]*)\\}", "$1");
         
         // Handle multicolumn FIRST, before any other text processing
         Pattern multicolPattern = Pattern.compile("\\\\multicolumn\\{([0-9]+)\\}\\{[^}]*\\}\\{([^\\\\]*)\\\\textbf\\{([^}]+)\\}([^\\\\]*)\\}");
@@ -130,6 +133,10 @@ public class Latex2MarkDown {
         spellMatcher.appendTail(sb);
         content = sb.toString();
         
+        // Remove rule commands (horizontal lines)
+        content = content.replaceAll("\\\\rule\\{[^}]*\\}\\{[^}]*\\}", "");
+        content = content.replaceAll("\\\\noindent\\\\rule\\{[^}]*\\}\\{[^}]*\\}", "");
+        
         // Remove remaining LaTeX artifacts from headers
         content = content.replaceAll("\\\\index(?:\\[[^\\]]*\\])?\\{[^}]+\\}", "");
         content = content.replaceAll("\\\\hypertarget\\{[^}]+\\}\\{\\}", "");
@@ -166,6 +173,7 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\\\setlength\\{\\\\itemsep\\}\\{[^}]+\\}", "");
         content = content.replaceAll("\\\\columnbreak", "");
         content = content.replaceAll("\\\\small\\{?", "");
+        content = content.replaceAll("\\\\normalsize", "");
         content = content.replaceAll("\\\\arraybackslash", "");
         content = content.replaceAll("\\\\centering", "");
         content = content.replaceAll("\\\\st\\{[^}]*\\}", "\\\\st");
@@ -181,6 +189,9 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\\\vspace\\{[^}]*\\}", "");
         content = content.replaceAll("\\\\vspace", "");
         content = content.replaceAll("\\\\tableofcontents\\{\\}", "");
+        
+        // Handle resizebox - remove it but keep the content
+        content = content.replaceAll("\\\\resizebox\\{[^}]*\\}\\{[^}]*\\}\\{([^}]*)\\}", "$1");
         
         // Remove dimension specifications and coordinates
         content = content.replaceAll("\\([0-9.]+cm,[0-9.]+cm\\)", "");
@@ -281,9 +292,12 @@ public class Latex2MarkDown {
         narratoreStandaloneMatcher.appendTail(sb2b);
         content = sb2b.toString();
         
-        // Remove environment commands and their parameters
+        // Handle description environment - convert to proper list format
+        // Remove description environment tags and their parameters
         content = content.replaceAll("\\\\begin\\{description\\}(?:\\[[^\\]]*\\])?", "");
         content = content.replaceAll("\\\\end\\{description\\}", "");
+        
+        // Remove other environment commands and their parameters
         content = content.replaceAll("\\\\begin\\{(?:multicols|flushleft|flushright|changemargin|itemize|mdframed|textblock\\*)(?:[^}]*)?\\}", "");
         content = content.replaceAll("\\\\end\\{(?:multicols|flushleft|flushright|changemargin|itemize|mdframed|textblock\\*)\\}", "");
         
@@ -298,6 +312,8 @@ public class Latex2MarkDown {
         while (nestedTcolorboxTitleParamMatcher.find()) {
             String title = nestedTcolorboxTitleParamMatcher.group(1).trim();
             String boxContent = nestedTcolorboxTitleParamMatcher.group(2).trim();
+            // FIXED: Remove comments from the content
+            boxContent = boxContent.replaceAll("%[^\\n]*", "").trim();
             nestedTcolorboxTitleParamMatcher.appendReplacement(sb2a, Matcher.quoteReplacement("\n>> " + title + "\n>>\n>> " + boxContent + "\n"));
         }
         nestedTcolorboxTitleParamMatcher.appendTail(sb2a);
@@ -312,6 +328,8 @@ public class Latex2MarkDown {
         StringBuffer sb3b = new StringBuffer();
         while (nestedTcolorboxNoContentMatcher.find()) {
             String boxContent = nestedTcolorboxNoContentMatcher.group(1).trim();
+            // FIXED: Remove comments from the content
+            boxContent = boxContent.replaceAll("%[^\\n]*", "").trim();
             if (!boxContent.isEmpty()) {
                 nestedTcolorboxNoContentMatcher.appendReplacement(sb3b, Matcher.quoteReplacement("\n>> " + boxContent + "\n"));
             }
@@ -343,6 +361,8 @@ public class Latex2MarkDown {
         while (standaloneTcolorboxTitleParamMatcher.find()) {
             String title = standaloneTcolorboxTitleParamMatcher.group(1).trim();
             String boxContent = standaloneTcolorboxTitleParamMatcher.group(2).trim();
+            // FIXED: Remove comments from the content
+            boxContent = boxContent.replaceAll("%[^\\n]*", "").trim();
             standaloneTcolorboxTitleParamMatcher.appendReplacement(sb4a, Matcher.quoteReplacement("\n>> " + title + "\n>>\n>> " + boxContent + "\n"));
         }
         standaloneTcolorboxTitleParamMatcher.appendTail(sb4a);
@@ -358,6 +378,8 @@ public class Latex2MarkDown {
         while (tcolorboxMatcher.find()) {
             String title = tcolorboxMatcher.group(1);
             String boxContent = tcolorboxMatcher.group(2).trim();
+            // FIXED: Remove comments from the content
+            boxContent = boxContent.replaceAll("%[^\\n]*", "").trim();
             if (title != null && !title.isEmpty()) {
                 tcolorboxMatcher.appendReplacement(sb4, Matcher.quoteReplacement("\n>> " + title + "\n>>\n>> " + boxContent + "\n"));
             } else {
@@ -368,7 +390,8 @@ public class Latex2MarkDown {
         tcolorboxMatcher.appendTail(sb4);
         content = sb4.toString();
         
-        // Remove TikZ and complex graphics commands
+        // Remove TikZ and complex graphics commands - including full tikzpicture environments
+        content = content.replaceAll("(?s)\\\\begin\\{tikzpicture\\}.*?\\\\end\\{tikzpicture\\}", "");
         content = content.replaceAll("\\\\tikz\\[[^\\]]*\\][^;]*;", "");
         content = content.replaceAll("\\\\node\\[[^\\]]*\\][^;]*;", "");
         
@@ -379,24 +402,37 @@ public class Latex2MarkDown {
         // Handle color commands
         content = content.replaceAll("\\\\color\\{[^}]*\\}", "");
         
-        // Handle lists - process items with textbf first
+        // Handle lists - process items with textbf first (description list format)
         Pattern itemPattern = Pattern.compile("\\\\item\\s*\\[\\s*\\\\textbf\\{([^}]*)\\}\\s*\\]");
         Matcher itemMatcher = itemPattern.matcher(content);
         StringBuffer sb5 = new StringBuffer();
         while (itemMatcher.find()) {
-            itemMatcher.appendReplacement(sb5, Matcher.quoteReplacement("- **" + itemMatcher.group(1) + "**:"));
+            String label = itemMatcher.group(1);
+            // Remove trailing colon if present
+            if (label.endsWith(":")) {
+                label = label.substring(0, label.length() - 1);
+            }
+            itemMatcher.appendReplacement(sb5, Matcher.quoteReplacement("- **" + label + "**:"));
         }
         itemMatcher.appendTail(sb5);
         content = sb5.toString();
         
         // Handle remaining items and list parameters
-        content = content.replaceAll("\\\\item\\s*\\[\\s*\\*\\*([^*]+)\\*\\*\\s*\\]", "- **$1**:");
+        content = content.replaceAll("\\\\item\\s*\\[\\s*\\*\\*([^*]+)\\*\\*:?\\s*\\]", "- **$1**:");
         content = content.replaceAll("(?m)^\\s*\\\\item\\s*", "- ");
         content = content.replaceAll("(?m)^\\s*\\[leftmargin[^\\]]*\\]\\s*$", "");
+        content = content.replaceAll("(?m)^\\s*\\[noitemsep[^\\]]*\\]\\s*$", "");
+        content = content.replaceAll("(?m)^\\s*\\[topsep[^\\]]*\\]\\s*$", "");
+        content = content.replaceAll("(?m)^\\s*\\[parsep[^\\]]*\\]\\s*$", "");
+        content = content.replaceAll("(?m)^\\s*\\[partopsep[^\\]]*\\]\\s*$", "");
+        content = content.replaceAll("(?m)^\\s*\\[labelwidth[^\\]]*\\]\\s*$", "");
         
         // Handle hyperlinks - extract only the display text (second part)
         content = content.replaceAll("\\\\hyperlink\\{[^}]+\\}\\{([^}]+)\\}", "$1");
         content = content.replaceAll("\\\\pageref\\{[^}]+\\}", "");
+        
+        // Handle href links - extract only the URL (first part)
+        content = content.replaceAll("\\\\href\\{([^}]+)\\}\\{[^}]+\\}", "$1");
         
         // Remove excessive indentation from list items (tabs and multiple spaces)
         content = content.replaceAll("(?m)^\\s*\\t+\\s*-", "-");
@@ -426,16 +462,21 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\\\begin\\{(?:tabular\\*?|tabularx|xltabular)(?:[^}]*)?\\}", "");
         content = content.replaceAll("\\\\end\\{(?:tabular\\*?|tabularx|xltabular)\\}", "");
         content = content.replaceAll("\\\\(?:toprule|midrule|bottomrule|hline)", "");
-        content = content.replaceAll("\\\\cmidrule(?:\\[[^\\]]+\\])?\\{[^}]+\\}", "");
+        content = content.replaceAll("\\\\cmidrule(?:\\([^)]*\\))?(?:\\[[^\\]]+\\])?\\{[^}]+\\}", "");
         
-        // Remove any remaining \multicolumn references that weren't processed
+        // Remove any remaining \multicolumn and \multirow references that weren't processed
         content = content.replaceAll("\\\\multicolumn\\{[^}]*\\}\\{[^}]*\\}\\{[^}]*\\}", "LEFTOVER_MULTICOLUMN");
         content = content.replaceAll("\\\\multicolumn\\{[^}]*\\}", "LEFTOVER_MULTICOLUMN2");
+        content = content.replaceAll("\\\\multirow\\{[^}]*\\}\\*?\\{[^}]*\\}", "LEFTOVER_MULTIROW");
         
         // Convert table separators - handle empty cells at end properly
         content = content.replaceAll("\\s*&\\s*", " | ");
-        content = content.replaceAll("&\\s*\\\\\\\\", " |  |\n");  // Handle & followed by \\
-        content = content.replaceAll("\\s*\\\\\\\\\\s*", " |\n");
+        content = content.replaceAll("&\\s*\\\\\\\\", " |\n");  // Handle & followed by \\ - add newline for table rows
+        content = content.replaceAll("\\s*\\\\\\\\\\s*", " |\n");  // Handle \\ at end of table rows - add newline
+        
+        // FIXED: Handle line breaks (\\) outside of tables - Convert to proper line breaks
+        // This needs to be done after table processing to avoid interfering with table rows
+        content = content.replaceAll("\\\\\\\\", "\n");
         
         // Convert table separators and create proper markdown tables
         String[] lines = content.split("\n");
@@ -454,16 +495,23 @@ public class Latex2MarkDown {
                 // Check for different table patterns - be more inclusive for simple tables
                 if ((pipeCount >= 1 && (line.matches(".*\\w+:\\s*\\|.*") || 
                       line.matches(".*\\*[^*]+\\*:\\s*\\|.*"))) ||
-                    (pipeCount >= 3 && line.contains("**") && 
+                    (pipeCount >= 2 && line.contains("**") && 
                      (line.matches(".*\\*\\*[^*]+\\*\\*\\s*\\|.*\\*\\*[^*]+\\*\\*.*") ||
-                      line.matches(".*[0-9]+\\s*\\|.*[0-9]+\\s*\\|.*"))) ||
-                    (pipeCount >= 1 && line.matches(".*[A-Za-z0-9].*\\|.*[A-Za-z0-9$±\\-+].*")) ||
+                      line.matches(".*[0-9]+\\s*\\|.*[0-9]+\\s*\\|.*") ||
+                      line.matches(".*\\*\\*[^*]+\\*\\*\\s*\\|.*"))) ||
+                    (pipeCount >= 1 && line.matches(".*[A-Za-z0-9].*\\|.*[A-Za-z0-9$±\\-+*].*")) ||
                     // Special case for incomplete table rows that need fixing
-                    (line.matches("^[0-9]+\\s+\\|.*") || line.matches("^[0-9]+\\s.*\\|.*"))) {
+                    (line.matches("^[0-9]+\\s+\\|.*") || line.matches("^[0-9]+\\s.*\\|.*")) ||
+                    // Handle lines that start with text and contain |
+                    (pipeCount >= 1 && line.matches("^[A-Za-z].*\\|.*"))) {
                     
                     if (!inTable) {
                         inTable = true;
                         headerAdded = false;
+                        // Add an empty line before table if previous line exists and isn't empty
+                        if (result.length() > 0 && !result.toString().endsWith("\n\n")) {
+                            result.append("\n");
+                        }
                     }
                     
                     // Fix rows that start with number but no | (like "8 | 8 | 0 | 8d6+24 |")
@@ -497,6 +545,7 @@ public class Latex2MarkDown {
                     if (inTable) {
                         inTable = false;
                         headerAdded = false;
+                        result.append("\n"); // Add spacing after table
                     }
                     result.append(line).append("\n");
                 }
@@ -504,6 +553,7 @@ public class Latex2MarkDown {
                 if (inTable && !line.isEmpty() && !line.startsWith("###")) {
                     inTable = false;
                     headerAdded = false;
+                    result.append("\n"); // Add spacing after table
                 }
                 result.append(lines[i]).append("\n");
             }
@@ -542,11 +592,32 @@ public class Latex2MarkDown {
         content = content.replaceAll("(?<=\\))\\}\\s*$", "");
         content = content.replaceAll("\\}\\}", "");
         
+        // Remove description list parameters that may have been left over
+        content = content.replaceAll("(?m)^\\s*\\[noitemsep.*?\\]\\s*$", "");
+        content = content.replaceAll("(?m)^\\s*\\[topsep.*?\\]\\s*$", "");
+        content = content.replaceAll("(?m)^\\s*\\[parsep.*?\\]\\s*$", "");
+        content = content.replaceAll("(?m)^\\s*\\[partopsep.*?\\]\\s*$", "");
+        content = content.replaceAll("(?m)^\\s*\\[leftmargin.*?\\]\\s*$", "");
+        content = content.replaceAll("(?m)^\\s*\\[labelwidth.*?\\]\\s*$", "");
+        
         // Clean up multiple consecutive page breaks and fix table separators in wrong places
         content = content.replaceAll("(---\\s*\\n\\s*){2,}", "---\n\n");
         
         // Remove table separators that appear in the middle of tables
         content = content.replaceAll("(?m)^\\s*\\|\\s*---\\s*\\|.*\\n(?=\\s*\\|\\s*[0-9]+)", "");
+        
+        // Remove everything after \end{document} or document ending markers
+        int documentEnd = content.indexOf("\\end{document}");
+        if (documentEnd != -1) {
+            content = content.substring(0, documentEnd);
+        }
+        
+        // Remove TotalBox commands and associated content
+        content = content.replaceAll("(?s)\\\\TotalBox\\{[^}]+\\}.*?(?=\\\\TotalBox|$)", "");
+        content = content.replaceAll("\\\\TotalBox\\{[^}]+\\}", "");
+        
+        // Remove bibliography commands
+        content = content.replaceAll("\\\\printbibliography", "");
         
         // Remove excessive whitespace
         content = content.replaceAll("\n{3,}", "\n\n");

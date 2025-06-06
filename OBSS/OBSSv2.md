@@ -1,4 +1,4 @@
-{**Old Bell School System**}   {**(\textbf{OBSS**)   { {Fantasy Adventure Game 
+**Old Bell School System - OBSS - Fantasy Adventure Game**
 
 ---
 
@@ -11,7 +11,7 @@ Mai rinunciare ai tuoi desideri, persevera fino ad renderli reali.
 
 **Playtesting**: Federica Angeli, Simona Bissi, Fabrizio Bonetti, Francesco Converso, Carlo Dall'Ara, Lucia Dolcini, Michele Faedi, Dario Galassi, Micaela Gramellini, Stefano Mannino, Samuele Mazzotti, Emanuele Pezzi, Leonardo Pezzi, Gian Luca Fava, Nicola Ricottone, Marco Valmori, Edoardo Zanzani, Isotta Zanzani, SicuramenteNonMirko,
 
-**Condizioni d'uso**: OBSS, Old Bell School System, è un marchio registrato di Andres Zanzani (azanzani@gmail.com), licenziato con Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Consultare i dettagli nel capitolo Licenza.
+**Old Bell School System - OBSS - Fantasy Adventure Game**
 ---
 
 >> "May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
@@ -103,7 +103,7 @@ Ora che siete pronti, è tempo di abbracciare il vostro destino e di scrivere la
 
 Andres Zanzani
 
->> D | D ha nelle proprie origini tratti misogini e razzisti che con il tempo sono stati rimossi grazie alle tantissime persone di tutti i generi e tipi che ci hanno giocato.
+>> D&D ha nelle proprie origini tratti misogini e razzisti che con il tempo sono stati rimossi grazie alle tantissime persone di tutti i generi e tipi che ci hanno giocato.
 OBSS vuole continuare nel solco di un gioco inclusivo e libero. Ogni gruppo è libero di approcciare argomenti controversi come meglio crede ma sempre nel rispetto di ogni giocatore e sensibilità. Non fate che OBSS sia motivo di litigio ma di unione e spirito fraterno, un gioco che unisca e mai divida. (Andres Zanzani)
 
 ---
@@ -215,7 +215,7 @@ I Tiri Salvezza riguardano i riflessi e lo schivare (Riflessi), resistere a vele
 
 **Uno porta male**: se tiri un 1 con il dato togli 1 dal risultato totale. Non per questo un 6 tirato diventa un 5, l'esplosione del 6 rimane.. solo che togli 1 al risultato finale. Detta diversamente 1 vale 0.
 
-> Il gioco di D | D non ha né vinti né vincitori, ha solo giocatori che amano esercitare la propria immaginazione. I giocatori ed il DM condividono la creazione di avventure in terre fantastiche dove abbondano gli eroi e la magia funziona davvero. In un certo senso, il gioco di D | D non ha regole, solo suggerimenti di regole. Nessuna regola è inviolata, in particolare se una regola nuova o modificata incoraggerà la creatività e l'immaginazione. L'importante è godersi l'avventura. (Tom Moldvay, 03/12/1980. E tutto quanto detto vale anche per OBSS! NdA)
+> Il gioco di D&D non ha né vinti né vincitori, ha solo giocatori che amano esercitare la propria immaginazione. I giocatori ed il DM condividono la creazione di avventure in terre fantastiche dove abbondano gli eroi e la magia funziona davvero. In un certo senso, il gioco di D&D non ha regole, solo suggerimenti di regole. Nessuna regola è inviolata, in particolare se una regola nuova o modificata incoraggerà la creatività e l'immaginazione. L'importante è godersi l'avventura. (Tom Moldvay, 03/12/1980. E tutto quanto detto vale anche per OBSS! NdA)
 
 Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso:
 
@@ -444,7 +444,7 @@ Diverso è un attributo che può essere data a qualsiasi razza. Vengono sostitui
 
 ## Sornelian
 
-La genesi dei Sornelian è dovuta al Patrono Efrem (pag. ). Efrem decise che la natura doveva avere maggiore voce nelle questioni terrestri e stabilì che esistessero animali antropomorfi affinché riequilibrassero la strapotenza delle altre creature umanoidi.
+La genesi dei Sornelian è dovuta al Patrono Efrem . Efrem decise che la natura doveva avere maggiore voce nelle questioni terrestri e stabilì che esistessero animali antropomorfi affinché riequilibrassero la strapotenza delle altre creature umanoidi.
 
 Un Sornelian ha una testa simile a quella di un animale antropomorfo ma il corpo è più simile ad un bipede umanoide. A seconda dell'animale il Sornelian potrebbe anche avere pelliccia, piume, squame ed artigli. Le dimensioni di un Sornelian dipendono molto dall'animale originario variando dalla taglia piccola a quella media. L'aspetto antropomorfo di un Sornelian è vario quanto sono vari gli animali a cui assomigliano.
 
@@ -478,11 +478,11 @@ Un Sornelian quasi mai nasce quale figlio di due Sornelian bensì è una spontan
 
 - *Sensi Eccellenti (udito, vista, olfatto...)* (cane, pipistrello, gufo). Hai un +2 di bonus alle prove di Consapevolezza basate sui sensi. Se scegli due volte questa capacità il bonus diventa +1d6.
 
-- *Volante* (pipistrello, aquila, gufo, corvo). Hai ali rudimentali. Quando cadi da almeno 3 metri puoi usare una Reazione per planare ed atterrare in sicurezza, come incantesimo Caduta Piuma (pag. ), senza subire danni da caduta. Quando esegui una prova di Salto in Lungo o in Alto tiri 1d6 in più. Se scegli due volte questa capacità puoi volare per (CM+CA)/3 minuti, ad intervalli minimi di 1 minuto, al giorno.
+- *Volante* (pipistrello, aquila, gufo, corvo). Hai ali rudimentali. Quando cadi da almeno 3 metri puoi usare una Reazione per planare ed atterrare in sicurezza, come incantesimo Caduta Piuma , senza subire danni da caduta. Quando esegui una prova di Salto in Lungo o in Alto tiri 1d6 in più. Se scegli due volte questa capacità puoi volare per (CM+CA)/3 minuti, ad intervalli minimi di 1 minuto, al giorno.
 
 ## Golian
 
-I Golian, al pari dei Sornelian, discendono dalla volontà dei Patroni Erondil (pag. ) e Gaya (pag. ) ovvero dal desiderio di avere delle creature che potessero rappresentare i maestosi giganti, i loro piccoli figli.
+I Golian, al pari dei Sornelian, discendono dalla volontà dei Patroni Erondil  e Gaya  ovvero dal desiderio di avere delle creature che potessero rappresentare i maestosi giganti, i loro piccoli figli.
 
 I Golian hanno caratteristiche fisiche che ricordano i giganti delle loro linee familiari. Alcuni Golian hanno la pelle grigia o quasi marmorizzata come i giganti delle pietre, altri sprizzano scintille schioccando le dita come i giganti del fuoco, altri ancora hanno le pelle azzurra come i giganti del cielo.
 
@@ -516,7 +516,7 @@ I Golian hanno caratteristiche fisiche che ricordano i giganti delle loro linee 
 
 ## Sulian
 
-L'origine dei Sulian non è chiara, alcuni li fanno discendere dagli spiriti elementali altre voci, meno insistenti, dicono che sono figli del Patrono Ledyal o Laydel (pag. ) a causa del loro mutevole aspetto e carattere.
+L'origine dei Sulian non è chiara, alcuni li fanno discendere dagli spiriti elementali altre voci, meno insistenti, dicono che sono figli del Patrono Ledyal o Laydel  a causa del loro mutevole aspetto e carattere.
 
 Nei Sulian scorre la potenza, l'energia e la vitalità degli elementi, possa essere un unico tipo oppure più elementi.
 
@@ -719,11 +719,11 @@ L'età del personaggio influisce sulle Caratteristiche fisiche e mentali.
 | **Periodo** | **FOR** | **DES** | **COS** | **INT** | **SAG** |
 | --- | --- | --- | --- | --- | --- |
 | Giovane |  |  | +1 |  | -1 |
-Adulto |  |  |  |  |
+| Adulto |  |  |  |  | |
 | Maturo |  |  | -1 |  | +1 |
-| --- | --- | --- | --- | --- | --- |
 | Anziano | -2 | -1 | -1 | +1 | +1 |
 | Venerabile | -1 | -1 | -1 | -1 | +1 |
+
 I modificatori indicati si cumulano.
 
 ## I punteggi delle Caratteristiche 
@@ -746,7 +746,7 @@ In ultimo ricordate che OBSS è un gioco di ruolo dove la morte del personaggio 
 
 Il giocatore tira 3d6 per ogni caratteristica ed in ordine, può ritirare una sola volta un 1 tirato per terzina (3d6). Tira poi una settima terzina che può sostituire ad un'altra terzina. Per ogni caratteristica tirata controlla la somma dei dadi tirati con la **Tabella: Tiro Caratteristiche**.
 
-Il personaggio così generato acquisisce gratuitamente l'Abilita Duro a morire (pag. ).
+Il personaggio così generato acquisisce gratuitamente l'Abilita Duro a morire .
 
 ### Modalita' della Tradizione
 
@@ -815,7 +815,7 @@ I **Punti Ferita si recuperano** in diversi modi:
 
 - per ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione*Livello, con un minimo di PF pari a Livello. 
 - tramite magie curative (incantesimi, pozioni.. o altri effetti magici)
-- competenza Pronto Soccorso (pag. ), tramite trattamenti più o meno lunghi
+- competenza Pronto Soccorso , tramite trattamenti più o meno lunghi
 
 I **Punti Ferita** possono essere anche **temporanei** ovvero aggiunti o tolti temporaneamente ai tuoi attuali.
 
@@ -873,8 +873,7 @@ Un Tratto è un dettaglio che aiuta meglio a inquadrare il personaggio, ne delin
 
 >> Scegliere i Tratti
 >>
->> %box giocatore
-I Tratti non sono il personaggio, non lo bloccano ne lo fissano eterno nel tempo. Un personaggio è sempre in costante evoluzione e così il suo carattere, morale, comportamento e desideri. Non essere rigido ma usa i Tratti per darti dei suggerimenti da cui farti ispirare.
+>> I Tratti non sono il personaggio, non lo bloccano ne lo fissano eterno nel tempo. Un personaggio è sempre in costante evoluzione e così il suo carattere, morale, comportamento e desideri. Non essere rigido ma usa i Tratti per darti dei suggerimenti da cui farti ispirare.
 
 I Tratti non hanno accezione positiva o negativa, servono solo ad inquadrare il personaggio e capire quale Patrono è più interessato al personaggio. Non vogliono definire se sei buono o cattivo, ognuno ha la propria morale indipendentemente dai Tratti posseduti.
 
@@ -905,7 +904,7 @@ Non è necessario credere in un Patrono per sentirne la vicinanza, esserne legat
 
 Dato che lo scopo di un Patrono è fare che i propri Tratti siano dominanti sugli altri, avere persone di alto livello e potere che siano così affini a lui tornerà utile nel giudizio dei 100 anni. Usate a vostro vantaggio i Tratti ed il legame che il Patrono instaurerà con voi.
 
-Per individuare il Patrono più affine verificate il vostro Tratto a maggior valore sulla Tabella Collegamento Patrono - Tratto (pag. ) ed individuate il Patrono che quel Tratto maggiormente caratterizzante, in caso il Tratto fosse condiviso tra più Patroni verificate gli altri Tratti ed in base alla somiglianza scegliete il Patrono. Verificate poi in Cosmologia (pag. ) i poteri concessi dal Patrono. Questo controllo è opportuno farlo ad ogni aumento di valore di Tratto.
+Per individuare il Patrono più affine verificate il vostro Tratto a maggior valore sulla Tabella Collegamento Patrono - Tratto  ed individuate il Patrono che quel Tratto maggiormente caratterizzante, in caso il Tratto fosse condiviso tra più Patroni verificate gli altri Tratti ed in base alla somiglianza scegliete il Patrono. Verificate poi in Cosmologia  i poteri concessi dal Patrono. Questo controllo è opportuno farlo ad ogni aumento di valore di Tratto.
 
 Si è Devoti con almeno 2 Tratti e Seguaci con almeno 1 Tratto in comune con il Patrono. Non si può essere contemporaneamente Seguace o Devoti di più Patroni.
 
@@ -915,32 +914,33 @@ Il Narratore è libero di inserire nuovi Tratti a suo piacere o richiesti dai gi
 
 Ogni Tratto è brevemente descritto nel suo significato generico. Il personaggio è libero di interpretare il Tratto come più lo sente proprio.
 
-**Altruista**: Persona che mette gli altri al primo posto, anche sacrificando i propri bisogni.
-**Ambizioso**: Pensa solo ai propri interessi e bisogni, senza considerare quelli degli altri.
-**Arrogante**: Ha un'opinione esagerata di sé stesso e tende a sminuire gli altri.
-**Avaro**: Eccessivamente attaccato ai propri beni materiali e riluttante a condividere.
-**Cinico**: Tende a vedere il peggio nelle persone e nelle situazioni, spesso con un atteggiamento sprezzante.
-**Codardo**: Che manca di coraggio e tende a evitare situazioni di pericolo.
-**Compassionevole**: Mostra empatia e comprensione verso le sofferenze degli altri.
-**Coraggioso**: Affronta le paure e le sfide con determinazione.
-**Crudele**: Senza pietà e compassione, provoca sofferenza intenzionalmente.
-**Curioso**: Ha un forte desiderio di conoscere e imparare cose nuove.
-**Disonesto**: Non dice la verità e inganna gli altri per il proprio vantaggio.
-**Dissoluto**: Vive in modo sregolato e senza considerare le conseguenze morali delle proprie azioni.
-**Entusiasta**: Mostra grande energia e passione per ciò che fa.
-**Estroverso**: Socievole e a proprio agio in situazioni sociali.
-**Gentile**: Tratta gli altri con rispetto e considerazione.
-**Impulsivo**: Tende ad agire e reagire senza pensare troppo alle conseguenze.
-**Indeciso**: Non riesce rapidamente a prendere decisione soffermandosi troppo nel ponderare le scelte.
-**Intransigente**: Non è disposto a scendere a compromessi o a considerare punti di vista diversi.
-**Invidioso**: Prova risentimento verso chi possiede qualcosa che lui desidera.
-**Leale**: Fedele e affidabile nei confronti degli amici e delle persone care.
-**Paziente**: Capace di aspettare senza irritarsi o perdere la calma.
-**Prudente**: Pondera attentamente le situazioni difficili o pericolose.
-**Sospettoso**: Sei convito che tutti abbiano interesse a danneggiarti.
-**Testardo**: Determinato e persistente nel raggiungere i propri obiettivi, nonostante le difficoltà.
-**Vanitoso**: Sei certo delle tue eccezionali qualità, capacità ed aspetto.
-**Vendicativo**: Cerca di punire chi gli ha fatto un torto, spesso in modo sproporzionato.
+- **Altruista**: Persona che mette gli altri al primo posto, anche sacrificando i propri bisogni.
+- **Ambizioso**: Pensa solo ai propri interessi e bisogni, senza considerare quelli degli altri
+- **Arrogante**: Ha un'opinione esagerata di sé stesso e tende a sminuire gli altri.
+- **Avaro**: Eccessivamente attaccato ai propri beni materiali e riluttante a condividere.
+- **Cinico**: Tende a vedere il peggio nelle persone e nelle situazioni, spesso con un atteggiamento sprezzante.
+- **Codardo**: Che manca di coraggio e tende a evitare situazioni di pericolo.
+- **Compassionevole**: Mostra empatia e comprensione verso le sofferenze degli altri.
+- **Coraggioso**: Affronta le paure e le sfide con determinazione.
+- **Crudele**: Senza pietà e compassione, provoca sofferenza intenzionalmente.
+- **Curioso**: Ha un forte desiderio di conoscere e imparare cose nuove.
+- **Disonesto**: Non dice la verità e inganna gli altri per il proprio vantaggio.
+- **Dissoluto**: Vive in modo sregolato e senza considerare le conseguenze morali delle proprie azioni.
+- **Entusiasta**: Mostra grande energia e passione per ciò che fa.
+- **Estroverso**: Socievole e a proprio agio in situazioni sociali.
+- **Gentile**: Tratta gli altri con rispetto e considerazione.
+- **Impulsivo**: Tende ad agire e reagire senza pensare troppo alle conseguenze.
+- **Indeciso**: Non riesce rapidamente a prendere decisione soffermandosi troppo nel ponderare le scelte.
+- **Intransigente**: Non è disposto a scendere a compromessi o a considerare punti di vista diversi.
+- **Invidioso**: Prova risentimento verso chi possiede qualcosa che lui desidera.
+- **Leale**: Fedele e affidabile nei confronti degli amici e delle persone care.
+- **Paziente**: Capace di aspettare senza irritarsi o perdere la calma.
+- **Prudente**: Pondera attentamente le situazioni difficili o pericolose.
+- **Sospettoso**: Sei convito che tutti abbiano interesse a danneggiarti.
+- **Testardo**: Determinato e persistente nel raggiungere i propri obiettivi, nonostante le difficoltà.
+- **Vanitoso**: Sei certo delle tue eccezionali qualità, capacità ed aspetto.
+- **Vendicativo**: Cerca di punire chi gli ha fatto un torto, spesso in modo sproporzionato.
+	
 
 Se il personaggio è completamente difforme ai suoi Tratti non acquisirà punti esperienza.
 
@@ -1184,6 +1184,7 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 | Tazher | L'Ombra, Il Fuorilegge, Il Mutaforma |
 | Thaft | L'Uomo Comune, L'Alleato, Il Custode |
 | Torbiorn | Il Tiranno, L'Ombra, Il Sovrano |
+
 # Utilizzare gli Archetipi nel Gioco
 
 ## Per i Giocatori
@@ -1227,7 +1228,7 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 
 **Tabella: Elenco delle Professioni e relative Competenze**
 
-| **\textbf{Professione**} | **1 punto** | **2 punti** | **2 punti** | **3 punti** |
+| **Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |
 | --- | --- | --- | --- | --- |
 | **Accolito** | Occulto | Storia o Geografia | Arcana | Religione |
 | **Agricoltore** | Sopravvivenza | Erboristeria | Gestire Animali | Natura |
@@ -1294,10 +1295,11 @@ Il giocatore **aumenta di 1 il punteggio di una Caratteristica che si colleghi a
 | Atletica | Artista della fuga | Artigianato | *Consapevolezza* | Intrattenere |
 | Intimidire | Furtività | Conoscenza | Gestire animali | Ingannare |
 | Nuotare | Mani di fata | Disattivare congegni | Natura | Tradizioni locali |
-| Usare corda | Erboristeria | Percepire Emozioni | |
-|  | Falsificare | Pronto soccorso | |
-|  | Valutare | Seguire tracce | |
-|  |  | Sopravvivenza |
+| - | Usare corda | Erboristeria | Percepire Emozioni | - |
+| - | - | Falsificare | Pronto soccorso | - |
+| - | - | Valutare | Seguire tracce | - |
+| - | - | - | Sopravvivenza | - |
+
 La **Conoscenza** va esplicitata su quale argomento verte: Architettura ed Ingegneria, Dungeon, Geografia, Legge, Lingue (terrestri o meno), Miti e Leggende, Nobiltà ed Araldica, Occulto, Piani, Religione, Storia, Tecnologia Antica ...
 
 Ad ogni **livello successivo al primo** distribuisci un numero di punti pari la metà del punteggio di Intelligenza +1, $[(Int/2)+1]$, con un minimo di 1 punto, tra le competenze già conosciute o perfezionate nell'avventura od apprese ex novo.
@@ -1324,7 +1326,7 @@ Le Azioni necessarie alla prova possono variare a seconda della capacità del pe
 
 In ogni caso ricordate sempre di valutare con attenzione come il giocatore dichiara di svolgere le azioni per capirne la durata ed effetti.
 
-La Competenze con un * subiscono le penalità dovute all'armatura indossata (pag. ).
+La Competenze con un * subiscono le penalità dovute all'armatura indossata .
 
 **Acrobatica* (DES)**: Questa competenza serve per mantenere l'equilibrio su superfici strette o precarie, per tuffarsi, rotolare, fare capriole, salti mortali, superare degli ostacoli nonché cadere e non farsi male. 1 Azione.
 
@@ -1338,7 +1340,7 @@ La Competenze con un * subiscono le penalità dovute all'armatura indossata (pag
 
 **Atletica* (FOR)**: Con questa competenza si è esperti atleti, capaci di prodigiosi salti ed eccezionali prove di Forza. 1 Azione.
 
-**Cavalcare (SAG)**: Con questa competenza è possibile cavalcare in maniera professionale e dare comandi alla propria cavalcatura. Vedi Capitolo Cavalcare (pag. ) 1 Azione.
+**Cavalcare (SAG)**: Con questa competenza è possibile cavalcare in maniera professionale e dare comandi alla propria cavalcatura. Vedi Capitolo Cavalcare  1 Azione.
 
 **Consapevolezza (SAG)**: per cercare, accorgersi, notare. E' un qualcosa di attivo. 2 Azioni. **Usare 1 Azione impone una penalità -1d6 alla prova**.
 
@@ -1452,7 +1454,7 @@ Il **Tiro per Colpire per le armi da mischia** si risolve con una prova di Compe
 Il **Tiro per Colpire con armi da distanza** (archi, balestre, pugnali da lancio, giavellotti, sassi..) si risolve con una prova di Competenza Armi (**CA**) + **Destrezza** + bonus da Lista d'Armi + eventuali capacità, bonus magici e modificatori contro la Difesa dell'avversario (Destrezza + armatura + scudo + modificatori).
 
 Quando si assegna un punto ad **CA** è necessario precisare su quale gruppo di arma si prende, se non si dichiara allora è come averlo preso nel gruppo Armi Semplici.
-Controllare l'elenco Armi per Tipologia Omogenea (pag. ).
+Controllare l'elenco Armi per Tipologia Omogenea .
 
 Il personaggio può decidere di assegnare il suo punto ad una tipologia di armi che già conosce, migliorando così la sua capacità ed talento nell'uso od apprendere un altra tipologia di armi.
 
@@ -1462,7 +1464,7 @@ Se il giocatore non ha assegnato alcun punto nella **CA** può utilizzare senza 
 
 Le **Armi Semplici** sono: Pugnale, Mazza Leggera, Mazza chiodata, Bastone, Balestra (Leggera), Giavellotto
 
-Usare un'**Arma senza conoscere la Lista d'Armi di appartenenza**, o che non sia un **Arma Semplice**, impone un -1d6 al Tiro per Colpire.
+Usare un' **Arma senza conoscere la Lista d'Armi di appartenenza**, o che non sia un **Arma Semplice**, impone un -1d6 al Tiro per Colpire.
 
 >> Specializzarsi o meno in un arma
 >>
@@ -1478,7 +1480,7 @@ Per poter utilizzare **Armature Medie** e **Scudi Medi** è necessario avere alm
 
 Con almeno 3 punti in Competenza Armi ed 1 in Forza si possono usare senza penalità **Armature Pesanti** e **Scudi Pesanti**.
 
-Usare un'**Armatura senza l'adeguata competenza** impedisce di usare il valore di Destrezza in Difesa ed il bonus conferito dall'armatura alla Difesa si riduce di 1.
+Usare un' **Armatura senza l'adeguata competenza** impedisce di usare il valore di Destrezza in Difesa ed il bonus conferito dall'armatura alla Difesa si riduce di 1.
 
 Usare uno **Scudo senza l'adeguata competenza** peggiora il Tiro per Colpire di 1 e lo scudo conferisce un bonus massimo a Difesa di 1.
 
@@ -1559,24 +1561,24 @@ Per incominciare leggi il capitolo sulle Razze ed individua quella del tuo perso
 
 Recupera un pò di d6 e tira!
 
-Consulta il capitolo delle Caratteristiche per capire quanto sei stato fortunato (pag. ).
+Consulta il capitolo delle Caratteristiche per capire quanto sei stato fortunato .
 
 E se i valori delle Caratteristiche non sono venuti come che ti aspettavi allora lasciati guidare dal caos e crea qualcosa di diverso ma ugualmente divertente e magnifico.
 
-Se hai Intelligenza pari o superiore a 2 scegli un altra lingua (pag. ) parlata/scritta oltre al Comune, se hai 3 puoi sceglierne 2 di lingue in più.
+Se hai Intelligenza pari o superiore a 2 scegli un altra lingua  parlata/scritta oltre al Comune, se hai 3 puoi sceglierne 2 di lingue in più.
 
 Scegli al Professione del personaggio, le Competenze Base vengono assegnata in base a questa. Sceglila con attenzione e cura, oltre alle competenze previste dalla Professione scelta ne puoi prendere una quinta data dal tuo background oppure aumentare di uno il punteggio in una già presa.
 In base al background e professione scelta aumenti una caratteristica di 1, fino ad un massimo di 4 + modificatore razziale.
 
 Passa alle Competenze Attive: qui hai 1 punto  da distribuire tra Competenza Armi e Competenza Magica.
 
-La Competenza Armi ti aiuta nel colpire meglio. La Competenza Magica è l'unica cosa che ti permette di usare la magia. Ricorda anche che i punti in Competenze Armi vanno dichiarati a quale Lista Armi (pag. ) sono stati applicati.
+La Competenza Armi ti aiuta nel colpire meglio. La Competenza Magica è l'unica cosa che ti permette di usare la magia. Ricorda anche che i punti in Competenze Armi vanno dichiarati a quale Lista Armi  sono stati applicati.
 
-Se non hai punti in Competenza Armi puoi usare solo le armi semplici (pag. ) senza incorrere in penalità al Tiro per Colpire e non potrai usare armature medie o pesanti.
+Se non hai punti in Competenza Armi puoi usare solo le armi semplici  senza incorrere in penalità al Tiro per Colpire e non potrai usare armature medie o pesanti.
 
 I Punti Ferita sono pari a 8 + Costituzione, aggiungi 3 se hai messo 1 punto in Competenza Armi (CA).
 
-A questo punto scegli i Tratti (pag. ). Fallo con attenzione, stai costruendo il tuo personaggio ed i Tratti delineano a forti pennellate il carattere. Ricordati che saranno fondamentali per la scelta del Patrono (pag. ).
+A questo punto scegli i Tratti . Fallo con attenzione, stai costruendo il tuo personaggio ed i Tratti delineano a forti pennellate il carattere. Ricordati che saranno fondamentali per la scelta del Patrono .
 
 Nella scheda, nello specchietto dei Tratti, dove c'è la colonna Patrono scrivi il Patrono che ti collega a quel Tratto, indipendentemente che tu lo abbia scelto o meno.
 
@@ -1588,11 +1590,11 @@ Consulta il Tomo della Magia, pag. , per capire quanti incantesimi devi scrivere
 
 Scelti gli incantesimi del Tomo devi decidere quali hai appreso e quindi puoi lanciare, vedi Regole della Magia a pag. .
 
-Passa alle Abilità (pag. ), al primo livello ne scegli due, stai attento ai prerequisiti ed anche ad eventuali Abilità che ti concede la tua razza.
+Passa alle Abilità , al primo livello ne scegli due, stai attento ai prerequisiti ed anche ad eventuali Abilità che ti concede la tua razza.
 
 Sono le Abilità che scegli ad aumentare il punteggio dei Tiri Salvezza. Ricorda che i Tiri Salvezza determinano la tua capacità di resistere a traumi e magie. Nella scheda indica la singola Caratteristica che vuoi che quella Abilità migliori (quando ne avrai quattro uguali).
 
-Scegli l'equipaggiamento (pag. ), armatura (pag. ), armi (pag. ), zaino, due torce, qualche razione di cibo.. un peluche.. quello che ti sembra indispensabile per l'avventura.
+Scegli l'equipaggiamento , armatura , armi , zaino, due torce, qualche razione di cibo.. un peluche.. quello che ti sembra indispensabile per l'avventura.
 Aggiorna poi la parte di scheda relativa alla Difesa segnando che bonus ti da l'armatura e scudo indossata. Ricorda che parti con 100 mo, spendile in maniera accurata!
 
 Entra nella parte, concediti di giocare questo straordinario personaggio. Se mai ti stufassi di giocarlo e volessi provare qualcosa di diverso parlane con il Narratore, saprà consigliarti e suggerirti la strada migliore.
@@ -1613,14 +1615,14 @@ Ogni qual volta il Narratore ti conferma il passaggio di livello sono da compier
 - Aggiornate il Livello aumentandolo di 1
 - Distribuite 1 punto tra Competenza Armi e Competenza Magica
 - Aumentate i Punti Ferita massimi ed attuali di 1d6+Costituzione ed aggiungetene altri 3 se avete dato 1 punto in Competenza Armi. Se il tiro di dado è inferiore a Costituzione, potete prendere come risultato il valore di Costituzione
-- Se avete assegnato un punto in Competenza Armi stabilite se prendete una nuova Lista d'Armi (pag. ) o approfondite la conoscenza di una lista già appresa
-- Controllate se acquisite una nuova Abilità. Potete prenderne una nuova oppure migliorare una Abilità già appresa, state attenti ai prerequisiti. Vedi Abilità (pag. ).
+- Se avete assegnato un punto in Competenza Armi stabilite se prendete una nuova Lista d'Armi  o approfondite la conoscenza di una lista già appresa
+- Controllate se acquisite una nuova Abilità. Potete prenderne una nuova oppure migliorare una Abilità già appresa, state attenti ai prerequisiti. Vedi Abilità .
 - Aggiornate il punteggio dei Tiri Salvezza in base alle nuove Abilità prese.
 - Aggiornate il punteggio dei Tiri per Colpire in base al nuovo valore della Competenza Armi, Abilità, bonus dati dalla Lista d'Armi
-- Distribuite (Int/2)+1, con un minimo di 1 punto, tra le Competenze Base (pag. ) conosciute o apprese durante le avventure. Verificate il punteggio di Consapevolezza.
+- Distribuite (Int/2)+1, con un minimo di 1 punto, tra le Competenze Base  conosciute o apprese durante le avventure. Verificate il punteggio di Consapevolezza.
 - Aggiornate il punteggio dei Punti Fato $(20-livello)/5$ , all'intero più vicino
 - Aumentate il punteggio dei Tratti come vi dirà il Narratore. Verificate se avete raggiunto un punteggio sufficiente per acquisire poteri legati ai Tratti
-- Verificate in base al nuovo punteggio di Competenza Magica ed all'Abilità Adepto della Magia il livello massimo di incantesimo (pag. ) lanciabile ed i Punti Magia disponibili (pag. )
+- Verificate in base al nuovo punteggio di Competenza Magica ed all'Abilità Adepto della Magia il livello massimo di incantesimo  lanciabile ed i Punti Magia disponibili 
 - Se avete aumentato la Competenza Magica apprendete 1 nuovo incantesimo dal Tomo di Magia oppure potete apprendere due Trucchetti (Incantesimi di livello 0)
 - Aggiornate la seconda parte della scheda in base al nuovo punteggio di Competenza Magica
 
@@ -1806,9 +1808,9 @@ Il giocatore può richiedere di effettuare la prova anche se il risultato è cer
 
 **Tabella: Vantaggi e Svantaggi**:
 
-| \multirow*{**Vantaggio / Svantaggio**} | **Prove** | |
+| **Vantaggio / Svantaggio** | **Prove** | |
 | --- | --- |
-| \cmidrule(lr) | **Dinamiche** | **Fisse** |
+|  | **Dinamiche** | **Fisse** |
 | Bonus leggero | +1 | +1 |
 | Bonus normale | +2 | +2 |
 | Bonus forte | +1d6 | +4 |
@@ -1828,7 +1830,7 @@ I bonus e penalità nel tiro di 3d6 hanno più *effetto* che nella prova fatta c
 
 **Se il tempo diventa un fattore da non considerare**, ovvero il personaggio ha almeno 1 ora per pensare e lavorare e non ha alcuna penalità o rischio considerare di avere tirato 18 (ma non c'è nessuna esplosione di dadi o successo critico anche se il totale è 18).
 
-Consiglio a tutti di leggere l'ottimo articolo di Lorenzo Bertini \href{https://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20}{Elogio del 10 e del 20} per una disamina critica ed intelligente sul successo e fallimento delle prove.
+Consiglio a tutti di leggere l'ottimo articolo di Lorenzo Bertini https://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20 per una disamina critica ed intelligente sul successo e fallimento delle prove.
 
 Se vuoi prendere questi valori chiedilo al Narratore, sarà lui che ti dirà se in base alla situazione, urgenza, pericolosità di ciò che ti circonda riesci a prendere il punteggio. Mettersi a scassinare una porta in un dungeon chiedendo il 10 richiede un estremo sangue freddo ed incoscienza. Prendere il 10/14/18 non deve essere concesso per le prove di conoscenza.
 
@@ -1873,7 +1875,7 @@ Una prova di Acrobatica riuscita con DC 15 permette al personaggio di ridurre di
 
 **Scendere o Salire** entro 50 cm è terreno difficile, tra i 50 e 150 cm è terreno doppiamente difficile, oltre è cadere o arrampicarsi. Il danno da caduta è 1d6 danni ogni 3 metri in caduta. 
 
-Vedi paragrafo Cadute (pag. ) per i dettagli su come usare Acrobatica quando si cade.
+Vedi paragrafo Cadute  per i dettagli su come usare Acrobatica quando si cade.
 
 ### Arrampicarsi/Scalare* 
 
@@ -1890,9 +1892,8 @@ Arrampicarsi, scalari o scendere da una superficie impervia equivale a muoversi 
 | Una parete naturale liscia senza appigli | +30 |
 | Ti puoi appoggiare a 2 pareti opposte | -8 |
 | Ti puoi appoggiare a 2 pareti angolari | -4 |
-Esempi di prove con uso della corda |
+| Esempi di prove con uso della corda | |
 | Usare una corda per calarsi | 12 |
-| --- | --- |
 | Usare una corda per arrampicarsi | 15 |
 | La corda ha nodi | -3 |
 
@@ -1927,7 +1928,7 @@ Effettuare un Salto da fermo costa 1 Azione. Un Salto effettuato entro metà del
 Impiega 1 Azione ogni 10 di DC. Con 6 in Erboristeria il tempo è 1 Azione ogni 15 di DC, con 12 punti è 1 Azione ogni 20 DC eseguire la prova. Se si fallisce con un fallimento critico si è venuti a contatto/ingerito parte della pozione e se ne subiscono gli effetti.
 
 ### Conoscenza - Identificare una creatura 
-si effettua una prova di Conoscenza. Controlla il capitolo Riconoscere i Mostri nel Mostruario (pag. ). Costa 1 Azione.
+si effettua una prova di Conoscenza. Controlla il capitolo Riconoscere i Mostri nel Mostruario . Costa 1 Azione.
 
 ### Intimidire
 Il personaggio usa **1 Azione** ed esegue una Prova Contrapposta al Tiro Salvezza su Volontà con bonus dato dal Carisma.
@@ -1949,7 +1950,7 @@ Usando **1 Azione** puoi cercare di nasconderti dalla vista degli avversari. Non
 
 In acqua calme DC 10, in acque mosse ha DC 15, in acque molto mosse DC 20, tempestose DC 25. La prova è necessaria per stare a galla o nuotare. Nuotare in acqua si considera **terreno difficile**.
 
-Vedi Capitolo Avventure in Acqua (pag. ).
+Vedi Capitolo Avventure in Acqua .
 
 ### Professione
 Un eventuale prova sulla **Professione** viene fatta con 3d6+Saggezza+metà del livello.
@@ -1967,7 +1968,7 @@ Una prova riuscita (base DC 12) riduce di 1 i danni da **Sanguinamento**. Per og
 Una prova riuscita (base DC 13) per **prendersi cura per 8 ore** di un paziente fa recuperare a questo il doppio dei Punti Ferita, con un minimo di 4, e concede un nuovo Tiro Salvezza su Tempra per debellare a Malattie naturali o Veleni già in corso.
 Se effettuato durante le ore di riposo chi amministra la cura risulterà Affaticato.
 
-Oggetti come Borsa da Guaritore (pag. ) e Fermasangue (pag. ) possono essere utili nelle prove.
+Oggetti come Borsa da Guaritore  e Fermasangue  possono essere utili nelle prove.
 
 ### Seguire Tracce
 
@@ -1985,6 +1986,7 @@ Alla **Difficoltà base di 15** si applicano i seguenti modificatori:
 | Cerca di occultare le tracce | DC +4 |
 
 ### Valutare
+
 DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +10, Leggendario +16. 3 Azioni
 
 ### Sopravvivenza
@@ -2101,8 +2103,8 @@ Il giocatore sceglie la Caratteristica che preferisce. Se viene scelta la Destre
 
 Chi ha l'iniziativa tra giocatori e nemici più alta incomincia per primo e successivamente agiscono gli altri in ordine decrescente, dichiarando le Azioni ed eseguendole. In caso di Iniziativa di pari punteggio agisce per primo chi ha il punteggio Caratteristica più alto, altrimenti lo scontro sarà in contemporanea. L'iniziativa vale per l'intero scontro e si ritira al cambio dell'avversario.
 
- %box narratore
-Cercate di fare fluire il combattimento in maniera naturale. Non interrompete il flusso delle azioni, bensì descrivendone gli effetti coinvolgete i giocatori (e nemici) nelle azioni seguenti. Vi consiglio la lettura dell'articolo \href{https://theangrygm.com/manage-combat-like-a-dolphin/}{How to Manage Combat Like a Dolphin} per capire nel dettaglio il metodo.
+ 
+Cercate di fare fluire il combattimento in maniera naturale. Non interrompete il flusso delle azioni, bensì descrivendone gli effetti coinvolgete i giocatori (e nemici) nelle azioni seguenti. Vi consiglio la lettura dell'articolo https://theangrygm.com/manage-combat-like-a-dolphin/ per capire nel dettaglio il metodo.
 
 **Anche nella Prova di Iniziativa valgono le Golden Rules.**
 
@@ -2118,7 +2120,7 @@ In questo modo la scelta dell'azione avviene quando è il round del giocatore ch
 
 ### Il Tempo (Round, Minuti e Turni)
 
-{L'esitazione è la morte del vantaggio (Magic, V.E. Schwab)} 
+{L'esitazione è la morte del vantaggio. Magic di V.E. Schwab} 
 
 Un **round** dura 10 secondi circa, è un lasso di tempo sufficiente per agire, correre, parlare.. combattere. Un Minuto sono quindi 6 round ed un Turno dura 10 Minuti (o 60 round).
 
@@ -2145,7 +2147,7 @@ E' possibile **ritardare** una o più Azioni per aspettare lo svolgersi delle sc
 
 Un giocatore che dichiara di aspettare una certa situazione per poter agire equivale ad eseguire una o più **Azioni Preparate**. In questo caso il personaggio (o nemico) agisce **dopo** l'Azione scatenante con le sue Azioni ma rimane nel suo ordine di iniziativa al termine del round.
 
-Se il personaggio ha già compiuto tutte le Azioni allora potrà agire nel round solo con un **Azione Immediata** e fuori dalla sua iniziativa solo tramite una Reazione, se a disposizione. L'**Azione di Reazione** si attiva sempre dopo l'Azione scatenante.
+Se il personaggio ha già compiuto tutte le Azioni allora potrà agire nel round solo con un **Azione Immediata** e fuori dalla sua iniziativa solo tramite una Reazione, se a disposizione. L' **Azione di Reazione** si attiva sempre dopo l'Azione scatenante.
 La **Azioni Gratuite** possono essere usate in qualsiasi momento.
 
 **Azione di Attacco**: si intende sia l'uso di armi in mischia che l'uso di armi da lancio o tiro come archi, balestre o pugnali da lancio. Nel caso di armi da lancio ogni lancio/tiro conta come un attacco.
@@ -2198,7 +2200,7 @@ Il personaggio che esegue una Azione di Attacco ed il Lancio di un Incantesimo n
 
 Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o Scudo o **Rinfoderare l'Arma** o lo Scudo.
 
-**Lanciare un Incantesimo***: solitamente sono necessarie 2 Azioni. Nella descrizione dell'incantesimo è indicato il numero di Azioni necessarie. Nel capitolo della Magia sono specificate le regole (pag. ) per lanciare più incantesimi nel round.
+**Lanciare un Incantesimo***: solitamente sono necessarie 2 Azioni. Nella descrizione dell'incantesimo è indicato il numero di Azioni necessarie. Nel capitolo della Magia sono specificate le regole  per lanciare più incantesimi nel round.
 
 **Scambiare un dialogo con qualcuno***: Un dialogo può essere di pochi secondi se non di minuti. Il Narratore valuterà quanto questo dura.
 
@@ -2214,7 +2216,7 @@ E' possibile, se non descritto specificatamente nell'Abilità, eseguire solo una
 
 Questo **elenco non è completo**, prendetelo come linee guida per stabilire il peso delle decisioni ed azioni dei personaggi. Una Azione dura circa 3 secondi.
 
-L'**ordine** con cui si eseguono le Azioni non è importante se non per correlazione logica e fisica. L'Azione di Movimento può essere tra altre Azioni (movimento, attacco/incantesimi/altra Azione, movimento).
+L' **ordine** con cui si eseguono le Azioni non è importante se non per correlazione logica e fisica. L'Azione di Movimento può essere tra altre Azioni (movimento, attacco/incantesimi/altra Azione, movimento).
 
 Un personaggio potrebbe attaccare, muoversi ed ancora attaccare, questo secondo attacco avrebbe le penalità descritte negli attacchi multipli.
 
@@ -2252,6 +2254,7 @@ Nella tabella sottostante sono indicate alcune azioni tipiche e relativi costi.
 | Gettare un oggetto tenuto in mano | 0 |
 | Prendere qualcosa dalla cintura o di pronto | 3 |
 | Riconoscere un Incantesimo | 0 |
+
 - Competenze, fornire Aiuto, costano 3 Punti Azione per Azione indicata nella descrizione della Competenza.
 
 - Scambiare un dialogo può essere gratuito o costare PA in base a quanto si parla.
@@ -2266,7 +2269,7 @@ Lo spostarsi, il decidere che arma usare od incantesimo determinano non solo qua
 
 ## Movimento
 
-{Un mobile più lento non può essere raggiunto da uno più rapido; giacché quello che segue deve arrivare al punto che occupava quello che è seguito e dove questo non è più (quando il secondo arriva); in tal modo il primo conserva sempre un vantaggio sul secondo. (Paradosso di Zenone)}
+{Un mobile più lento non può essere raggiunto da uno più rapido; giacché quello che segue deve arrivare al punto che occupava quello che è seguito e dove questo non è più (quando il secondo arriva); in tal modo il primo conserva sempre un vantaggio sul secondo. Paradosso di Zenone}
 
 Il movimento di un personaggio è dato dalla sua taglia e razza e da ciò che porta, dai pesi, ingombri ma anche magie ed oggetti magici.
 
@@ -2317,7 +2320,7 @@ Il meritevole Game Master non uccide mai volontariamente i personaggi dei giocat
 
 Il danno da arma si calcola come somma del dado dell'arma, Forza (o Destrezza se indicato da Abilità) che sia positiva o negativa, bonus dati da Lista d'Armi, bonus dati Abilità, bonus dati dall'arma e bonus circostanziali.
 
-Quando una creatura raggiunge i 0 (zero) Punti Ferita si considera svenuto, ovvero Indifeso ed Inabile a fare qualsiasi cosa. Una Cura magica (Incantesimo, Pozione..) lo porterà cosciente ed ai Punti Ferita curati. Una prova di Pronto Soccorso (pag. ) (DC 12) potrà essere usata per riportarlo cosciente a 1 Punto Ferita.
+Quando una creatura raggiunge i 0 (zero) Punti Ferita si considera svenuto, ovvero Indifeso ed Inabile a fare qualsiasi cosa. Una Cura magica (Incantesimo, Pozione..) lo porterà cosciente ed ai Punti Ferita curati. Una prova di Pronto Soccorso  (DC 12) potrà essere usata per riportarlo cosciente a 1 Punto Ferita.
 Se lasciato svenuto dopo un ora se non è successo qualcosa a mutare la situazione il personaggio può fare un Tiro Salvezza su Tempra a DC 15, se riesce torna a 1 Punto Ferita, se fallisce va a -1 e diventa morente.
 
 Un personaggio morente ha Punti Ferita negativi (-1 o meno) ed è svenuto e indifeso. Continuerà a perdere 1 Punto Ferita a round fiche il valore non raggiungerà il doppio della Costituzione +10 ed il personaggio morirà, se non viene curato.
@@ -2338,7 +2341,7 @@ Le **Condizionidi tipo mentale** quali Affascinato, Confuso ma non Dominato, ter
 
 Se un attacco o incantesimo porta il personaggio direttamente a -(10+COS*2), il personaggio muore senza possibilità di essere curato.
 
-Quando un personaggio torna a Punti Ferita positivi dopo che era andato negativo perde la metà dei Punti Magia rimanenti con una riduzione di almeno 10 Punti Magia e diviene ulteriormente **Affaticato** (pag. ).
+Quando un personaggio torna a Punti Ferita positivi dopo che era andato negativo perde la metà dei Punti Magia rimanenti con una riduzione di almeno 10 Punti Magia e diviene ulteriormente **Affaticato** .
 
 Quando un personaggio arriva a Punti Ferita negativi pari 10+doppio del suo punteggio di Costituzione é **morto** [-(10+(COS*2))].
 
@@ -2392,11 +2395,11 @@ Ogni 8 ore di riposo, nelle 24 ore, si recupera 1d4 + Costituzione in Punti Feri
 
 > Applica sempre la giusta forza, mai troppa mai troppo poca. (Kano Jigoro)
 
-Il **Tiro per Colpire** è dato dall'insieme delle capacità combattive (Competenza Armi e bonus concessi da Lista d'Armi), Forza, armi magiche e tutto ciò che influisce nel combattimento. Se l'**attaccante** porta l'attacco con:
+Il **Tiro per Colpire** è dato dall'insieme delle capacità combattive (Competenza Armi e bonus concessi da Lista d'Armi), Forza, armi magiche e tutto ciò che influisce nel combattimento. Se l' **attaccante** porta l'attacco con:
 
 - **Armi da Mischia o Contatto**: l'attaccante deve effettuare un **Tiro per Colpire (TC)**= 3d6 + Competenza Armi + Forza + eventuali bonus dati dalla Lista d'Armi + Abilità + bonus magici dell'arma e fattori circostanziali (ambiente, maledizioni..)
 - **Armi da Distanza**: l'attaccante deve effettuare un Tiro per Colpire (TC) = 3d6 + Competenza Armi + Destrezza + eventuali bonus dati dalla Lista d'Armi + Abilità + bonus magici dell'arma e fattori circostanziali (ambiente, maledizioni..). Vale per archi, balestre, pugnali tirati, giavellotti...
-- **Incantesimo**: vedi Capitolo sulla Magia (pag. )
+- **Incantesimo**: vedi Capitolo sulla Magia 
 
 Il giocatore può decidere di rinunciare a parte del bonus dato dalla Competenza Armi per avere un migliore punteggio di Difesa. Questi punti non saranno a disposizione nell'attacco successivo (vedi Altre azioni e situazioni).
 
@@ -2776,7 +2779,7 @@ Non può usare Azioni di Movimento mentre prende la mira.
 
 In combattimento non è facile mirare un obiettivo che è in combattimento con un altra creatura.
 
-Oltre le eventuali penalità date della Copertura (pag. ) si ha una penalità aggiuntiva di -2 al Tiro per Colpire.
+Oltre le eventuali penalità date della Copertura  si ha una penalità aggiuntiva di -2 al Tiro per Colpire.
 
 Es. Se voglio colpire un avversario coperto ed in combattimento con un mio compagno oltre alla penalità di -2 al Tiro per Colpire perché è in combattimento con qualcuno, questo avversario ha *copertura leggera* (+2 Difesa), se ho due creature in fila e poi l'avversario da colpire questo avrà da copertura +4 ed un ulteriore +2 alla Difesa perché combatte con qualcuno.
 Se sono 3 creature allora la *copertura sarà completa* (+8 Difesa, +2 perché combatte con un altro).
@@ -2785,7 +2788,7 @@ Se si mira ad un obiettivo che è in combattimento ed entrambi sono frontali al 
 
 In caso di Fallimento Critico nel Tiro per Colpire si colpisce casualmente una creatura che dava copertura o chi era a fianco dell'obbiettivo.
 
-Vedi anche Abilità Precisino (pag. ).
+Vedi anche Abilità Precisino .
 
 ### Usare un'arma da lancio sotto minaccia 
 
@@ -2826,11 +2829,11 @@ Combattere in condizioni di luminosità ridotta comporta delle difficoltà riass
 | **Visione** | **Condizione** | |
 | --- | --- |
 | Luce Fioca | Oscurità |
-| Normale | -1 TC, -2 Cons. | Invis. (pag. ) |
-| Crepuscolare | Normale | Invis. (pag. ) |
+| Normale | -1 TC, -2 Cons. | Invis.  |
+| Crepuscolare | Normale | Invis.  |
 | Scurovisione | Normale | -2 Cons. |
 
-Vedi anche Capitolo Visione e Luce (pag. ).
+Vedi anche Capitolo Visione e Luce .
 
 ## Manovre Opzionali in Combattimento
 
@@ -2877,7 +2880,7 @@ Per attraversare il terreno dove c'è una creatura ostile è necessario eseguire
 
 Costa 1 Azione (Riflessi) la prova per attraversare oltre all'Azione di Movimento. Il terreno occupato dalla creatura ostile si considera difficile. In caso di successo critico nella prova di Atletica o Acrobatica non si consuma l'Azione usata per attraversare.
 
-Se si fallisce si rimane ne quadretto immediatamente precedente al nemico, con il rischio di essere ristretti (pag. ). Si considera terminata sia l'Azione di Movimento che quella di oltrepassare.
+Se si fallisce si rimane ne quadretto immediatamente precedente al nemico, con il rischio di essere ristretti . Si considera terminata sia l'Azione di Movimento che quella di oltrepassare.
 Se il nemico ha l'Abilità Opportunista oltre ad ostacolare il passaggio può eseguire un attacco (usando una Reazione).
 
 ### Fare cadere un avversario* 
@@ -2901,56 +2904,61 @@ L'attivazione di queste Azioni Critiche costa una Reazione se non indicato diver
 
 Usate questi esempi come delle linee guida per stimolare il personaggio a creare un suo stile di combattimento.
 
-**Critici** \hskip 0.5cm **Effetto\#** | **Attacchi agli occhi**
-| | Sabbia negli occhi. Entro la fine del tuo prossimo round l'avversario ha -2 al primo Tiro per Colpire |
-| --- | --- |
-| | Graffio agli occhi. Entro la fine del tuo prossimo round l'avversario ha -4 al Tiro per Colpire |
-| | Bersaglio abbagliato. Tira 1d6, con 1-2-3 l'avversario ha mancato il suo attacco. Dura fino alla fine del prossimo round. |
+**Critici**  **Effetto**
 
-| | Bersaglio accecato. Per 1d6 round, l'avversario considera tutti come invisibili. |
-| --- | --- |
-| | Orbo. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, se fallisce è accecato permanentemente, altrimenti subisce gli effetti del punto 4. |
-**\#** | **Attacchi all'arma**
-| | Colpisci l'arma. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 2 $ per taglia dell'arma rispetto a media, oppure lascia cadere l'arma |
-| --- | --- |
-| | Arma danneggiata. L'arma dell'avversario infligge una categoria di danno in meno |
-| | Colpo alla mano. A causa del dolore entro la fine del tuo prossimo round  l'avversario perde i primi due attacchi |
-| | Disarmi l'avversario. L'avversario lascia cadere l'arma |
-| | Mano compromessa. L'avversario fino all'alba del giorno successivo ha -4 al Tiro per Colpire |
-**\#** | **Spintoni e Slanci**
-| | Allontani l'avversario di 3 metri, $ \pm 1$ per taglia di differenza |
-| --- | --- |
-| | Ti puoi spostare di una Azione di Movimento come Reazione. Tratti il terreno come difficile |
-| | Come punto 1 ma la distanza iniziale è di 6 metri |
-| | Ti puoi spostare di una Azione di Movimento come Reazione |
-| | Come punto 1 ma la distanza iniziale è di 9 metri |
-| | Come punto 3 e puoi spostarti con l'avversario |
-**\#** | **Sgambetti**
-| | Spallata. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 4 $ per taglia differenza o cadere prono |
-| --- | --- |
-| | Sgambetto. L'avversario esegue un Tiro Salvezza su Riflessi DC 19, $ \pm 2 $ per taglia differenza o cadere prono |
-| | Spinta. L'avversario esegue un Tiro Salvezza su Tempra DC 23, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d6 metri |
-| | Urto. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d10 metri |
-**\#** | **Proiettili**
-| **Vari** | Per ogni Tiro Critico usato aggiungi una ulteriore gittata alla tua arma |
-| --- | --- |
-| **Vari** | Per ogni due Tiro Critico usato aggiungi +4 al prossimo Tiro per Colpire entro la fine del round successivo |
-| | *Freccia Kennedy*. Entro la fine del tuo prossimo round il primo proiettile ignora qualsiasi copertura o ostacolo e se fisicamente possibile colpisce l'avversario |
+- **Attacchi agli occhi**
 
-**\#** | **Furia**
-| | Incitare i compagni. I tuoi compagni entro 6 metri hanno al loro primo attacco +2 al Tiro per Colpire |
-| --- | --- |
-| | Berserker. Un tuo compagno entro sei metri può eseguire una Azione di Attacco contro un avversario in mischia al costo di una Reazione |
-| | Scossa. Un tuo compagno, entro 6 metri, può usare una Reazione per eseguire una Azione di Movimento trattando il terreno come difficile |
-| | Gloria. I tuoi compagni entro 6 metri hanno +2 al Tiro per Colpire entro la fine del loro prossimo round |
-| | Gloria!. I tuoi compagni entro 9 metri hanno +4 al Tiro per Colpire entro la fine del loro prossimo round |
-**\#** | **Difesa!**
-| | Fino alla fine del tuo prossimo round hai +2 alla Difesa. |
-| --- | --- |
-| | Fino alla fine del tuo prossimo round tutti i compagni nel tuo raggio di mischia hanno +2 alla Difesa |
-| | Fino alla fine del tuo prossimo round un compagno ha +8 alla Difesa. |
-| | Fino alla fine del tuo prossimo round tutti i compagni nel raggio di 9 metri hanno +4 alla Difesa |
-| | Per 1d6 round tutti i tuoi compagni hanno +4 alla Difesa |
+- - Sabbia negli occhi. Entro la fine del tuo prossimo round l'avversario ha -2 al primo Tiro per Colpire
+- - Graffio agli occhi. Entro la fine del tuo prossimo round l'avversario ha -4 al Tiro per Colpire
+- - Bersaglio abbagliato. Tira 1d6, con 1-2-3 l'avversario ha mancato il suo attacco. Dura fino alla fine del prossimo round.
+- - Bersaglio accecato. Per 1d6 round, l'avversario considera tutti come invisibili.
+- - Orbo. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, se fallisce è accecato permanentemente, altrimenti subisce gli effetti del punto 4.
+- **Attacchi all'arma**
+
+- - Colpisci l'arma. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 2 $ per taglia dell'arma rispetto a media, oppure lascia cadere l'arma
+- - Arma danneggiata. L'arma dell'avversario infligge una categoria di danno in meno
+- - Colpo alla mano. A causa del dolore entro la fine del tuo prossimo round l'avversario perde i primi due attacchi
+- - Disarmi l'avversario. L'avversario lascia cadere l'arma
+- - Mano compromessa. L'avversario fino all'alba del giorno successivo ha -4 al Tiro per Colpire
+- **Spintoni e Slanci**
+
+- - Allontani l'avversario di 3 metri, $ \pm 1$ per taglia di differenza
+- - Ti puoi spostare di una Azione di Movimento come Reazione. Tratti il terreno come difficile
+- - Come punto 1 ma la distanza iniziale è di 6 metri
+- - Ti puoi spostare di una Azione di Movimento come Reazione
+- - Come punto 1 ma la distanza iniziale è di 9 metri
+- - Come punto 3 e puoi spostarti con l'avversario
+- **Sgambetti**
+
+- - Spallata. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 4 $ per taglia differenza o cadere prono
+- - Sgambetto. L'avversario esegue un Tiro Salvezza su Riflessi DC 19, $ \pm 2 $ per taglia differenza o cadere prono
+- - Spinta. L'avversario esegue un Tiro Salvezza su Tempra DC 23, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d6 metri
+- - Urto. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d10 metri
+- **Proiettili**
+
+- **Vari** - Per ogni Tiro Critico usato aggiungi una ulteriore gittata alla tua arma
+- **Vari** - Per ogni due Tiro Critico usato aggiungi +4 al prossimo Tiro per Colpire entro la fine del round successivo
+- - *Freccia Kennedy*. Entro la fine del tuo prossimo round il primo proiettile ignora qualsiasi copertura o ostacolo e se fisicamente possibile colpisce l'avversario
+- **Furia**
+
+- - Incitare i compagni. I tuoi compagni entro 6 metri hanno al loro primo attacco +2 al Tiro per Colpire
+- - Berserker. Un tuo compagno entro sei metri può eseguire una Azione di Attacco contro un avversario in mischia al costo di una Reazione
+- - Scossa. Un tuo compagno, entro 6 metri, può usare una Reazione per eseguire una Azione di Movimento trattando il terreno come difficile
+- - Gloria. I tuoi compagni entro 6 metri hanno +2 al Tiro per Colpire entro la fine del loro prossimo round
+- - Gloria!. I tuoi compagni entro 9 metri hanno +4 al Tiro per Colpire entro la fine del loro prossimo round
+- **Difesa!**
+
+- - Fino alla fine del tuo prossimo round hai +2 alla Difesa.
+- - Fino alla fine del tuo prossimo round tutti i compagni nel tuo raggio di mischia hanno +2 alla Difesa
+- - Fino alla fine del tuo prossimo round un compagno ha +8 alla Difesa.
+- - Fino alla fine del tuo prossimo round tutti i compagni nel raggio di 9 metri hanno +4 alla Difesa
+- - Per 1d6 round tutti i tuoi compagni hanno +4 alla Difesa
+	
+	
+
+		Queste Azioni Critiche possono essere descritte come approfittare della distrazione dell'avversario, gettare terra negli occhi, costringere a colpi di arma a spostarsi...
+		
+		Il sistema è compatibile ed usabile assieme a **Tiro Critico Variante**.
 
 **Alternativamente in versione semplificata**:
 **1 Tiro Critico**: causi un danno critico di arma; prendi +4 al colpire fino alla fine del round successivo; +4 alla Difesa fino alla fine del round successivo; l'avversario ha -4 al colpire fino alla fine del round successivo.
@@ -2958,10 +2966,6 @@ Usate questi esempi come delle linee guida per stimolare il personaggio a creare
 **2 Tiro Critico**: causi due danni critici di arma; l'avversario ti manca con il primo attacco in mischia utile; puoi spostarti e/o spostare l'avversario di un metro; ridurre il danno che ti infligge un singolo attacco in mischia pari al doppio del massimo danno critico che causi; fino alla fine del round successivo l'avversario ha movimento dimezzato.
 
 **3 Tiro Critico**: hai una Azione di Movimento in più; l'avversario esegue una Azione in meno entro la fine del round successivo; puoi spostarti tu e/o l'avversario del tuo movimento; l'avversario fino alla fine del round successivo non può muoversi.
-
-Queste Azioni Critiche possono essere descritte come approfittare della distrazione dell'avversario, gettare terra negli occhi, costringere a colpi di arma a spostarsi...
-
-Il sistema è compatibile ed usabile assieme a **Tiro Critico Variante**.
 
 ### Opzionale - Effetti critici diversi
 
@@ -2991,140 +2995,49 @@ Può essere indicato anche un Effetto Critico, ovvero l'Effetto che si ha quando
 
 L'Attivatore può specificare un valore pari o dispari che è da confrontare con il Tiro per Colpire.
 
+Le Manovre d'Arme sono raggruppate per livello, ovvero il punteggio di Competenza Armi minima per poter usare quelle manovre, il giocatore può scegliere tra tutte le Manovre d'Arme a lui accessibili ed Attivabili.
+
 >> Ho mancato!
 >>
 >> Sfruttalo come e meglio che potete la vostra sfortuna! Fate che la sorte vi possa sorridere grazie alla vostra abilità nel scegliere la manovra da attivare. Valutate sempre l'ambiente, i nemici, i compagni e la situazione in genere prima di decidere cosa attivare.
 
-Le Manovre d'Arme sono raggruppate per livello, ovvero il punteggio di Competenza Armi minima per poter usare quelle manovre, il giocatore può scegliere tra tutte le Manovre d'Arme a lui accessibili ed Attivabili.
+- **Manovre livello 4**
 
-**Manovre livello 4** |
-| **Schivata Acrobatica**
-| Attiv.: | Mancato con un dispari. |
-| --- | --- |
-| *Effetto*: | +1 ai Tiri Salvezza sui Riflessi fino al prossimo turno. |
-| *Critico*: | +2 ai Tiri Salvezza sui Riflessi. |
-| **Finta e Riposizionamento**
-| Attiv.: | Mancato con un pari. |
-| --- | --- |
-| *Effetto*: | Muovi 1 metro senza provocare attacchi di opportunità. |
-| *Critico*: | Come sopra ma di muovi 2 metri. |
-| **Colpo Distraente**
-| Attiv. | : Mancato. |
-| --- | --- |
-| *Effetto*: | +1 alla Difesa contro l'avversario fino al fine del prossimo round. |
-| *Critico*: | L'avversario considera il personaggio come se avesse copertura leggera. |
-| **Intralcio Rapido**
-| Attiv.: | Mancato con un dispari. |
-| --- | --- |
-| *Effetto*: | L'avversario riduce di 1 metro il suo movimento nel prossimo round. |
-| *Critico*: | il prossimo movimento entro il prossimo round dell'avversario lo considera come terreno difficile. |
-| **Apertura Tattica**
-| Attiv.: | Mancato con un pari. |
-| --- | --- |
-| *Effetto*: | Un alleato ottiene +1 al prossimo Tiro per Colpire contro l'avversario. |
-| *Critico*: | L'alleato ottiene +2 al Tiro per Colpire. |
-**Manovre livello 6** |
-| **Reazione Rapida**
-| Attiv.: | Mancato. |
-| --- | --- |
-| *Effetto*: | il personaggio può bere una pozione. |
-| *Critico*: | Il personaggio può somministrare una pozione ad un alleato adiacente. |
-| **Finta Avanzata**
-| Attiv. | : Pari. |
-| --- | --- |
-| *Effetto*: | Aggiungi il modificatore di Intelligenza o Saggezza alla Difesa contro l'avversario fino all'inizio del prossimo round. |
-| *Critico*: | Aggiungi il modificatore di Intelligenza e Saggezza al prossimo Tiro per Colpire contro l'avversario fino all'inizio del prossimo round. |
-| **Supporto Coordinato**
-| Attiv. | : Pari. |
-| --- | --- |
-| *Effetto*: | Un alleato adiacente ottiene un bonus al Tiro per Colpire pari al modificatore di Intelligenza del personaggio. |
-| *Critico*: | Il bonus si applica a due alleati a te adiacenti. |
-| **Contrattacco Immediato**
-| Attiv. | : Dispari. |
-| --- | --- |
-| *Effetto*: | Se il Tiro per Colpire del fallimento avrebbe colpito un avversario adiacente, infliggi danni pari al modificatore di Forza. |
-| *Critico*: | Infliggi danni pari al doppio del modificatore di Forza. |
-| {0.5\textwidth} | **Distrazione Sonica** |
-| Attiv.: | Dispari. |
-| *Effetto*: | Un alleato afferrato o bloccato può effettuare una prova per liberarsi. |
-| *Critico*: | Come sopra e può muoversi di 1 metro. |
-**Manovre livello 8** |
-| **Concentrazione guerriera**
-| Attiv.: | Mancato. |
-| --- | --- |
-| *Effetto*: | +2 ai Tiri per Colpire in mischia fino alla fine del prossimo round. |
-| *Critico*: | Fino alla fine del prossimo round se colpisci causi un Danno Critico in più. |
-| **Elusione Perfetta**
-| Attiv.: | Dispari. |
-| --- | --- |
-| *Effetto*: | +2 alla Difesa fino al prossimo turno. |
-| *Critico*: | Il prossimo attacco in mischia da quell'avversario manca automaticamente. |
-| **Analisi dell'Avversario**
-| Attiv.: | Dispari. |
-| --- | --- |
-| *Effetto*: | Puoi effettuare una Prova di Conoscenze per ottenere informazioni sull'avversario. |
-| *Critico*: | Un alleato può effettuare la stessa prova. |
-| **Terreno Instabile**
-| Attiv.: | Pari. |
-| --- | --- |
-| *Effetto*: | Fino alla fine del prossimo round consideri il terreno come difficile ed hai +4 al Tiro per Colpire |
-| *Critico*: | Non puoi muoverti entro la fine del prossimo round ma se colpisci causi due danni critici in più. |
-| **Attacco a Sorpresa**
-| Attiv.: | Pari. |
-| --- | --- |
-| *Effetto*: | Usando una Reazione puoi effettuare un Attacco con il medesimo Tiro per Colpire dell'ultimo attacco. |
-| *Critico*: | Se sufficiente il tuo Tiro per Colpire colpisce un altro avversario in mischia. |
-**Manovre livello 10** |
-| **Manovra Laterale**
-| Attiv.: | Mancato. |
-| --- | --- |
-| *Effetto*: | Ti muovi di 1 metro. |
-| *Critico*: | Ti muovi fino a 4 metri, ma il prossimo round esegui una Azione in meno. |
-| **Apertura Devastante**
-| Attiv.: | Dispari. |
-| --- | --- |
-| *Effetto*: | Un alleato ottiene +4 al Tiro per Colpire contro l'avversario fino alla fine del tuo prossimo round. |
-| *Critico*: | Due alleati ottengono il bonus, ma il personaggio subisce -4 al Tiro per Colpire fino alla fine del prossimo round. |
-| **Intimidazione Superiore**
-| Attiv.: | Dispari. |
-| --- | --- |
-| *Effetto*: | L'avversario subisce -4 al primo attacco contro di te entro la fine del prossimo round. |
-| *Critico*: | Entro la fine del prossimo round l'avversario in mischia non può fare danno critico contro di te. |
-| {0.5\textwidth} | **Ferita Sanguinante** |
-| Attiv.: | Pari. |
-| *Effetto*: | L'avversario subisce +1 al sanguinamento. |
-| *Critico*: | +2 al sanguinamento e il personaggio subisce danni pari al modificatore di Forza. |
-| **Valutazione Strategica**
-| Attiv.: | Pari. |
-| --- | --- |
-| *Effetto*: | Il prossimo attacco a segno entro fine del round prossimo infligge un danno critico in più. |
-| *Critico*: | Come sopra e due danni critici ma il round successivo esegui una Azione in meno. |
-**Manovre livello 12** |
-| **Assalto Incessante**
-| Attiv.: | Mancato. |
-| --- | --- |
-| *Effetto*: | Il prossimo round hai un +1 cumulativo al Tiro per Colpire per volta che attacchi. |
-| *Critico*: | Il prossimo round hai solo 1 Azione. Se la usi per attaccare e colpisci causi 2 danni critici in più. |
-| **Attacco Predittivo**
-| Attiv.: | Dispari. |
-| --- | --- |
-| *Effetto*: | Il prossimo round il primo attacco portato manca, se colpisci con un attacco successivo infliggi 2 danni critici aggiuntivi. |
-| *Critico*: | Come sopra ma 3 danni critici ed esegui 1 Azione in meno nel round. |
-| **Grido di Guerra Potente**
-| Attiv.: | Dispari. |
-| --- | --- |
-| *Effetto*: | Gli alleati entro 9 metri ottengono +1d6 al Tiro per Colpire entro la fine del tuo prossimo round. |
-| *Critico*: | Come sopra ma +2d6, e il personaggio esegue una sola Azione. |
-| **Intuizione Letale**
-| Attiv.: | Pari. |
-| --- | --- |
-| *Effetto*: | Il prossimo attacco andato a segno entro la fine del round successivo infligge danni critici massimizzati. |
-| *Critico*: | Come sopra ma computi 2 danni critici massimizzati, ma esegui una Azione in meno. |
-| **Furia Incontenibile**
-| Attiv.: | Pari. |
-| --- | --- |
-| *Effetto*: | Confronta il Tiro per Colpire con un avversario adiacente per capire se l'hai colpito, se si sommi anche un danno critico. |
-| *Critico*: | Fino alla fine del prossimo round hai -4 alla Difesa, +1d6 al Tiro per Colpire e ogni attacco andato a segno causa un danno critico aggiuntivo. |
+- **Schivata Acrobatica** - Attiv.: ***Mancato*** con un ***dispari***. *Effetto*: +1 ai Tiri Salvezza sui Riflessi fino al prossimo turno. *Critico*: +2 ai Tiri Salvezza sui Riflessi.
+- **Finta e Riposizionamento** - Attiv.: ***Mancato*** con un ***pari***. *Effetto*: Muovi 1 metro senza provocare attacchi di opportunità. *Critico*: Come sopra ma di muovi 2 metri.
+- **Colpo Distraente** - Attiv.: ***Mancato***. *Effetto*: +1 alla Difesa contro l'avversario fino al fine del prossimo round. *Critico*: L'avversario considera il personaggio come se avesse copertura leggera.
+- **Intralcio Rapido** - Attiv.: ***Mancato*** con un ***dispari***. *Effetto*: L'avversario riduce di 1 metro il suo movimento nel prossimo round. *Critico*: il prossimo movimento entro il prossimo round dell'avversario lo considera come terreno difficile.
+- **Apertura Tattica** - Attiv.: ***Mancato*** con un ***pari***. *Effetto*: Un alleato ottiene +1 al prossimo Tiro per Colpire contro l'avversario. *Critico*: L'alleato ottiene +2 al Tiro per Colpire.
+- **Manovre livello 6**
+
+- **Reazione Rapida** - Attiv.: ***Mancato***. *Effetto*: il personaggio può bere una pozione. *Critico*: Il personaggio può somministrare una pozione ad un alleato adiacente.
+- **Finta Avanzata** - Attiv.: ***Pari***. *Effetto*: Aggiungi il modificatore di Intelligenza o Saggezza alla Difesa contro l'avversario fino all'inizio del prossimo round. *Critico*: Aggiungi il modificatore di Intelligenza e Saggezza al prossimo Tiro per Colpire contro l'avversario fino all'inizio del prossimo round.
+- **Supporto Coordinato** - Attiv.: ***Pari***. *Effetto*: Un alleato adiacente ottiene un bonus al Tiro per Colpire pari al modificatore di Intelligenza del personaggio. *Critico*: Il bonus si applica a due alleati a te adiacenti.
+- **Contrattacco Immediato** - Attiv.: ***Dispari***. *Effetto*: Se il Tiro per Colpire del fallimento avrebbe colpito un avversario adiacente, infliggi danni pari al modificatore di Forza. *Critico*: Infliggi danni pari al doppio del modificatore di Forza.
+- **Distrazione Sonica** - Attiv.: ***Dispari***. *Effetto*: Un alleato afferrato o bloccato può effettuare una prova per liberarsi. *Critico*: Come sopra e può muoversi di 1 metro.
+- **Manovre livello 8**
+
+- **Concentrazione guerriera** - Attiv.: ***Mancato***. *Effetto*: +2 ai Tiri per Colpire in mischia fino alla fine del prossimo round. *Critico*: Fino alla fine del prossimo round se colpisci causi un Danno Critico in più.
+- **Elusione Perfetta** - Attiv.: ***Dispari***. *Effetto*: +2 alla Difesa fino al prossimo turno. *Critico*: Il prossimo attacco in mischia da quell'avversario manca automaticamente.
+- **Analisi dell'Avversario** - Attiv.: ***Dispari***. *Effetto*: Puoi effettuare una Prova di Conoscenze per ottenere informazioni sull'avversario. *Critico*: Un alleato può effettuare la stessa prova.
+- **Terreno Instabile** - Attiv.: ***Pari***. *Effetto*: Fino alla fine del prossimo round consideri il terreno come difficile ed hai +4 al Tiro per Colpire. *Critico*: Non puoi muoverti entro la fine del prossimo round ma se colpisci causi due danni critici in più.
+- **Attacco a Sorpresa** - Attiv.: ***Pari***. *Effetto*: Usando una Reazione puoi effettuare un Attacco con il medesimo Tiro per Colpire dell'ultimo attacco. *Critico*: Se sufficiente il tuo Tiro per Colpire colpisce un altro avversario in mischia.
+- **Manovre livello 10**
+
+- **Manovra Laterale** - Attiv.: ***Mancato***. *Effetto*: Ti muovi di 1 metro. *Critico*: Ti muovi fino a 4 metri, ma il prossimo round esegui una Azione in meno.
+- **Apertura Devastante** - Attiv.: ***Dispari***. *Effetto*: Un alleato ottiene +4 al Tiro per Colpire contro l'avversario fino alla fine del tuo prossimo round. *Critico*: Due alleati ottengono il bonus, ma il personaggio subisce -4 al Tiro per Colpire fino alla fine del prossimo round.
+- **Intimidazione Superiore** - Attiv.: ***Dispari***. *Effetto*: L'avversario subisce -4 al primo attacco contro di te entro la fine del prossimo round. *Critico*: Entro la fine del prossimo round l'avversario in mischia non può fare danno critico contro di te.
+- **Ferita Sanguinante** - Attiv.: ***Pari***. *Effetto*: L'avversario subisce +1 al sanguinamento. *Critico*: +2 al sanguinamento e il personaggio subisce danni pari al modificatore di Forza.
+- **Valutazione Strategica** - Attiv.: ***Pari***. *Effetto*: Il prossimo attacco a segno entro fine del round prossimo infligge un danno critico in più. *Critico*: Come sopra e due danni critici ma il round successivo esegui una Azione in meno.
+- **Manovre livello 12**
+
+- **Assalto Incessante** - Attiv.: ***Mancato***. *Effetto*: Il prossimo round hai un +1 cumulativo al Tiro per Colpire per volta che attacchi. *Critico*: Il prossimo round hai solo 1 Azione. Se la usi per attaccare e colpisci causi 2 danni critici in più.
+- **Attacco Predittivo** - Attiv.: ***Dispari***. *Effetto*: Il prossimo round il primo attacco portato manca, se colpisci con un attacco successivo infliggi 2 danni critici aggiuntivi. *Critico*: Come sopra ma 3 danni critici ed esegui 1 Azione in meno nel round.
+- **Grido di Guerra Potente** - Attiv.: ***Dispari***. *Effetto*: Gli alleati entro 9 metri ottengono +1d6 al Tiro per Colpire entro la fine del tuo prossimo round. *Critico*: Come sopra ma +2d6, e il personaggio esegue una sola Azione.
+- **Intuizione Letale** - Attiv.: ***Pari***. *Effetto*: Il prossimo attacco andato a segno entro la fine del round successivo infligge danni critici massimizzati. *Critico*: Come sopra ma computi 2 danni critici massimizzati, ma esegui una Azione in meno.
+- **Furia Incontenibile** - Attiv.: ***Pari***. *Effetto*: Confronta il Tiro per Colpire con un avversario adiacente per capire se l'hai colpito, se si sommi anche un danno critico. *Critico*: Fino alla fine del prossimo round hai -4 alla Difesa, +1d6 al Tiro per Colpire e ogni attacco andato a segno causa un danno critico aggiuntivo.
+	
+	
 
 		Invitate il giocatore crei un suo stile di *fallimento*, fatelo gioire di un *fumble*!
 
@@ -3208,7 +3121,7 @@ La copertura fornita da una creatura di taglia maggiore rispetto alla taglia del
 
 ***Esempio.*** se la la creatura da colpire è di taglia media ed è coperta da una creatura di taglia grande la copertura fornita sarà +4. Normalmente sarebbe copertura leggera perché è una sola creatura a coprire, ma essendo di una taglia maggiore conta come 2 creature a fornire copertura.
 
-Vedi anche Abilità Precisino (pag. ).
+Vedi anche Abilità Precisino .
 
 ## Invisibilita' 
 
@@ -3385,7 +3298,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 ## BalestreBalestra leggera, Balestra pesante, Balestra ad una mano
 
-- 4 punti: guadagni l'Abilità Tiro Rapido (pag. ).
+- 4 punti: guadagni l'Abilità Tiro Rapido .
 - 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
 - 7 punti: ogni Azione che dedichi a mirare, fino ad un massimo di 2, ti concede un +2 a colpire.
 - 9 punti: il primo Tiro Critico che esegui sull'avversario somma due colpi critici in aggiunta, non si cumula con il vantaggio al punto 5.
@@ -3426,7 +3339,7 @@ Il giocatore può anche decidere di fare danno non letale non incorrendo in alcu
 - 9 punti: colpo solitario. Usi tre Azioni per portare un solo colpo devastante, il colpo se va a segno somma 2 colpi critici aggiuntivi.
 - 11 punti: ottieni un bonus al colpire ed al danno pari al doppio della Caratteristica usata per determinare questo bonus.
 
-Consultate Vulnerabilità, Resistenza e Immunità (pag. ) per sapere quanto è magico il vostro colpo.
+Consultate Vulnerabilità, Resistenza e Immunità  per sapere quanto è magico il vostro colpo.
 
 ## Rompi Cranio Flagello, Maglio da guerra, Martello da guerra, Mazza Leggera, Mazza flangiata, Mazza chiodata
 
@@ -3633,7 +3546,7 @@ La **quarta volta** che prendi questa Abilità puoi trasformarti anche in una cr
 
 **Regole base per la trasformazione**
 
-L'**equipaggiamento** viene assorbito nella nuova forma e non può essere usato. Quello magico può funzionare ed essere usato come indicato.
+L' **equipaggiamento** viene assorbito nella nuova forma e non può essere usato. Quello magico può funzionare ed essere usato come indicato.
 
 La creatura in cui ti trasformi deve avere un **Grado di Sfida** entro un terzo del tuo punteggio di Competenza Magica + le volte che hai preso l'Abilità Animalia.
 
@@ -3662,7 +3575,7 @@ Quando sei trasformato puoi canalizzare i tuoi Punti Magia per migliorare la tra
 
 La **prima volta** che prendi questa Abilità guadagni un animale naturale. Questo animaletto ha un Grado di Sfida pari ad un quarto della tua Saggezza, con un minimo di 1/4. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
 
-La **seconda volta** che prendi questa Abilità guadagni un Famiglio (pag. ).
+La **seconda volta** che prendi questa Abilità guadagni un Famiglio .
 
 ## Armato
 - **Requisito**:: Forza 3, Competenza Armi 1
@@ -3852,7 +3765,7 @@ L'Abilità può essere presa più volte sulla stessa Lista di Magia o su altre l
 
 Non dimentichi mai un nemico.
 
-Hai una istintiva capacità nel ricordare e valutare un nemico. Quando prendi questa Abilità puoi effettuare una prova di Riconoscere un Mostro (pag. ) utilizzando una Reazione.
+Hai una istintiva capacità nel ricordare e valutare un nemico. Quando prendi questa Abilità puoi effettuare una prova di Riconoscere un Mostro  utilizzando una Reazione.
 
 ## Creare Oggetti Magici
 - **Requisito**:: Competenza Magica 6
@@ -4121,7 +4034,7 @@ L'ombra ha Difesa pari a 10 + valore Tratto in comune con Tazher a più alto pun
 
 Usando 2 Azioni puoi evocarla nuovamente se dovesse essere uccisa.
 
-La tua ombra non può allontanarsi da te più della somma dei tratti in comune con Tazher in metri. Può essere usata per Condividere Incantesimi, Trasmettere Incantesimi a Contatto (ma usi la tua capacità di attacco), vedi anche Famiglio (pag. ).
+La tua ombra non può allontanarsi da te più della somma dei tratti in comune con Tazher in metri. Può essere usata per Condividere Incantesimi, Trasmettere Incantesimi a Contatto (ma usi la tua capacità di attacco), vedi anche Famiglio .
 
 Può essere usato come punto di lancio degli incantesimi.
 
@@ -4644,7 +4557,7 @@ Puoi tentare di colpire in mischia un avversario che **esca** o **attraversi** u
 - **Tiri Salvezza**:: +1 Riflessi, +1 Volontà
 - **Caratteristica**:: Forza o Destrezza
 
-La **prima volta** che prendi questa Abilità quando usi l'Azione per Preparare la Difesa (pag. ) questa aumenta di 1.
+La **prima volta** che prendi questa Abilità quando usi l'Azione per Preparare la Difesa  questa aumenta di 1.
 
 La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 6 oppure Pugno Vuoto 4, usi una Azione Immediata per Preparare la Difesa.
 
@@ -5202,7 +5115,7 @@ La **sesta volta** che prendi questa Abilità, requisito Competenza Magica 20, n
 
 - Ogni volta che l'Abilità viene presa, oltre la prima, si devono selezionare due nuove Lista di Magia *opposta* e il livello massimo lanciabile di incantesimi per tutte le Liste di magia *opposte* diminuisce di 2.  La Lista di Magia Universale non è sceglibile tra le *opposte*.
 - L'Abilità *Un solo credo* non può essere presa assieme a: Figlio Unico, Magie Potenti, Specialista.
-- Se usi l'Abilità *Un solo credo* non puoi usare usare le Abilità di Lista (pag. ).
+- Se usi l'Abilità *Un solo credo* non puoi usare usare le Abilità di Lista .
 
 ## Volonta' Ferrea
 - **Requisito**:: Saggezza 0
@@ -5481,7 +5394,9 @@ Tutti i famigli possiedono Capacità Speciali e le attribuiscono ai loro padroni
 
 | **CM del Padrone** | **Difesa** | **Intelligenza** | **Speciale** |
 | 1-2 | +1 | 0 | Allerta, Condividere Incantesimi |
+
 |  |  | Legame Empatico
+
 | 3-4 | +1 | +1 | Trasmettere Incantesimi a contatto |
 | 5-6 | +2 | +1 | Parlare con gli Animali della Sua Specie |
 | 7-8 | +3 | +1 | Parlare con il Padrone |
@@ -5578,7 +5493,7 @@ Una creatura immune ad una forma di danno non subisce danno da quell'attacco. Un
 
 Una creatura che riporta *Immunità al Danno Vuoto, Veleno; armi +2* significa che non subisce danno da Vuoto, da Veleno e che per ferirlo serve un arma con un bonus magico +3 o superiore, oppure un personaggio che attacchi con armi naturali e sia di livello 12 o superiore oppure che abbia preso la Lista d'Armi Pugno Vuoto almeno 6 volte.
 
-Vedi lo schema delle Equivalenze Armi magiche (pag. )
+Vedi lo schema delle Equivalenze Armi magiche 
 
 ## Vulnerabilita' al Danno
 
@@ -5686,7 +5601,7 @@ Gli incantesimi che creano coni o linee di effetto che originano da te, hanno an
 
 ### Lanciare Incantesimi in Armatura
 
-Data la concentrazione mentale e i gesti precisi richiesti l'armatura distrae e sbilancia i flussi. La Prova di Magia nel lancio dell'incantesimo è obbligatoria e viene modificata come indicato nella sezione delle armature (pag. ).
+Data la concentrazione mentale e i gesti precisi richiesti l'armatura distrae e sbilancia i flussi. La Prova di Magia nel lancio dell'incantesimo è obbligatoria e viene modificata come indicato nella sezione delle armature .
 
 ### Opzionale - Incantesimi in Armatura
 
@@ -5806,12 +5721,15 @@ Questo modificatore viene chiamato **modificatore di caratteristica per incantes
 
 | **Competenza** | **Conosciuti (presenti nel Tomo)** |  | **Appresi (che puoi lanciare)** |
 | --- | --- | --- | --- |
+
 \cline
+
 | **Magica** | **Trucchetti** | **Livello inc. 1+** | **Trucchetti oppure /  \textbf{Livello inc. 1+**} |
 | 1 | mod +2 (minimo 4) | mod (minimo 4) | mod (minimo 4) / 2 |
 | 2 | presenti nel Tomo | presenti nel Tomo | +2 oppure / +1 |
 | 3 | presenti nel Tomo | presenti nel Tomo | +2 oppure / +1 |
 | 4 | presenti nel Tomo | presenti nel Tomo | +2 oppure / +1 |
+
 **mod**: è il modificatore di caratteristica per incantesimi. Ogni volta che prendi l'Abilità Adepto della Magia *apprendi* un incantesimo in più presente nel Tomo di Magia.
 
 ### Massimo livello di incantesimo lanciabile
@@ -5910,6 +5828,7 @@ I Punti Magia si recuperano tutti con 8 ore di riposo.
 **Tabella: Competenza Magica (CM) e Punti Magia (PM)**
 
 | **CM** | **PM** | **CM** | **PM** | **CM** | **PM** |
+|---|---|---|---|---|---|
 | 1 | 2 | 8 | 27 | 15 | 58 |
 | 2 | 4 | 9 | 36 | 16 | 62 |
 | 3 | 8 | 10 | 41 | 17 | 71 |
@@ -6128,7 +6047,7 @@ Essere Immuni o avere una Resistenza alla Luce o Vuoto non rende immune o resist
 
 La sola **energia negativa** danneggia i viventi e cura i non morti, la sola **energia positiva** danneggia i non morti ma non cura i viventi (a discrezione del Narratore l'esposizione per un round potrebbe equivalere ad un incantesimo di Ristorare Inferiore), vedi anche descrizioni dei Piani. Un obiettivo prende danno pieno da Luce o da Vuoto se non ha resistenze inerenti.
 
-Un caso particolare è l'**energia positiva Curativa** che cura i viventi e danneggia i non morti. Questa energia è quella dell'Imposizione delle mani, Incanalare energia e degli incantesimi di Cura.
+Un caso particolare è l' **energia positiva Curativa** che cura i viventi e danneggia i non morti. Questa energia è quella dell'Imposizione delle mani, Incanalare energia e degli incantesimi di Cura.
 
 ## Abilità di Lista
 
@@ -6200,7 +6119,7 @@ Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore 
 
 **5: Conoscere.** Puoi lanciare l'incantesimo Identificare con una Azione Immediata, senza usare Punti Magia.
 
-**Queste capacità non sono concesse a chi prende l'Abilità Un solo credo** (pag. ).
+**Queste capacità non sono concesse a chi prende l'Abilità Un solo credo** .
 
 ## Circa OBSS e la dimensione degli incantesimi
 
@@ -6352,7 +6271,6 @@ Se non impartisci comandi, la creatura si limiterà a difendersi dalle creature 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata massima raddoppia.
 
-\rule   {**Oggetto Animato**}
 - **Tipo**: varie, costrutto, disallineato
 - **Caratt.**: For 3 Des 0 Cos 0 Int -4 Sag -4 Car -5
 - **Punti Ferita**: 10/20/40,  **Difesa:** 15,  **Iniziativa:** +0
@@ -7719,7 +7637,7 @@ Un'energia luminosa ti circonda e ti protegge da fatati, non morti e creature or
 
 Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 2 o più basso sul bersaglio ha fine.
 
-Se l'incantesimo è tra il 3 ed il 5 livello è necessaria una prova di contrastare incantesimi (pag. ).
+Se l'incantesimo è tra il 3 ed il 5 livello è necessaria una prova di contrastare incantesimi .
 
 Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
@@ -7733,7 +7651,7 @@ Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
 Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 4 o più basso sul bersaglio ha fine.
 
-Se l'incantesimo è di livello maggiore al quarto è necessaria una prova di contrastare incantesimi (pag. ).
+Se l'incantesimo è di livello maggiore al quarto è necessaria una prova di contrastare incantesimi .
 
 Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
@@ -10129,7 +10047,7 @@ Puoi porre fine a una condizione che affligge una creatura con cui sei a contatt
 
 Non è possibile usufruire di più di un Ristorare Inferiore al giorno.
 
-In caso di condizioni magiche esegui una prova di contrastare (pag. ) con la DC della condizione.
+In caso di condizioni magiche esegui una prova di contrastare  con la DC della condizione.
 
 ## Ristorare Superiore
 - **Lista di Magia**:: Cura
@@ -10148,7 +10066,7 @@ Imbevi una creatura a contatto di energia positiva curativa per annullare un eff
 
 Non è possibile usufruire di più di un Ristorare Superiore al giorno.
 
-In caso di condizioni magiche esegui una prova di contrastare (pag. ) con la DC della condizione.
+In caso di condizioni magiche esegui una prova di contrastare  con la DC della condizione.
 
 ## Risveglio
 - **Lista di Magia**:: Animali e Piante
@@ -10404,6 +10322,7 @@ Puoi vedere e udire una particolare creatura a tua scelta che si trovi sul tuo s
 te.
 
 	
+
 | **Conoscenza** | **Mod. al TS** |
 | --- | --- |
 | Ne hai sentito parlare | +4 |
@@ -12009,354 +11928,374 @@ Fiamma Perenne, Leggendario, 2
 
 ## Incantesimi per Livello
 
-Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo Generazione Oggetti Magici (pag. ) per generare Tomi casuali.
+Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo Generazione Oggetti Magici  per generare Tomi casuali.
 
 **Livello 0 - Trucchetti** 
 
-Artificio Druidico, Non Comune, 0
-Beffa Crudele, Comune, 0
-Colpo Accecante, 3
-Colpo Accurato, Comune, 0
-Creare Birra, Raro, 0
-Dito, Raro, 0
-Fiamma Sacra, Comune, 0
-Fiotto Acido, Comune, 0
-Lacrima di Ljust, Non Comune, 0
-Mano Magica, Comune, 0
-Marchio Magico, Comune, 0
-Messaggio, Comune, 0
-Prestidigitazione, Comune, 0
-Produrre Fiamma, Comune, 0
-Raggio di Gelo, Comune, 0
-Randello Incantato, Comune, 0
-Resistenza, Comune, 0
-Riparare, Comune, 0
-Scudo, Comune, 0
-Spruzzo Velenoso, Non Comune, 0
-Stretta Folgorante, Comune, 0
-Taumaturgia, Non Comune, 0
-Tocco Gelido, Comune, 0
-Viticci Perforanti, Non Comune, 0
-Totale incantesimi: \theinclvzero
+| Artificio Druidico, Non Comune, 0 |
+| --- |
+| Beffa Crudele, Comune, 0 |
+| Colpo Accecante, 3 |
+| Colpo Accurato, Comune, 0 |
+| Creare Birra, Raro, 0 |
+| Dito, Raro, 0 |
+| Fiamma Sacra, Comune, 0 |
+| Fiotto Acido, Comune, 0 |
+| Lacrima di Ljust, Non Comune, 0 |
+| Mano Magica, Comune, 0 |
+| Marchio Magico, Comune, 0 |
+| Messaggio, Comune, 0 |
+| Prestidigitazione, Comune, 0 |
+| Produrre Fiamma, Comune, 0 |
+| Raggio di Gelo, Comune, 0 |
+| Randello Incantato, Comune, 0 |
+| Resistenza, Comune, 0 |
+| Riparare, Comune, 0 |
+| Scudo, Comune, 0 |
+| Spruzzo Velenoso, Non Comune, 0 |
+| Stretta Folgorante, Comune, 0 |
+| Taumaturgia, Non Comune, 0 |
+| Tocco Gelido, Comune, 0 |
+| Viticci Perforanti, Non Comune, 0 |
+| Totale incantesimi: \theinclvzero |
+
 **Livello 1** 
 
-Allarme, Comune, 1
-Alterare Sé Stesso, Non Comune, 1
-Amicizia con gli Animali, Non Comune, 1
-Anatema, Comune, 1
-Armatura Magica, Non Comune, 1
-Benedizione, Comune, 1
-Caduta Piuma, Comune, 1
-Camuffare Sé Stesso, Comune, 1
-Charme su Persone, Comune, 1
-Colpo Fiammeggiante, Raro, 1
-Comando, Comune, 1
-Comprensione dei Linguaggi, Comune, 1
-Conoscere i Tratti, Leggendario, 1
-Creare o Distruggere Acqua, Comune, 1
-Cuoco Invisibile, Comune, 1
-Cura Ferite, Comune, 1
-Dardo arcano, Comune, 1
-Dardo di Fuoco, Comune, 1
-Dardo occulto, Comune, 1
-Dardo Tracciante, Non Comune, 1
-Disco Fluttuante, Comune, 1
-Eroismo, Non Comune, 1
-Favore Divino, Non Comune, 1
-Grido di dolore, Raro, 1
-Guida, Comune, 1
-Identificare, Comune, 1
-Illusione Minore, Comune, 1
-Immagine Silenziosa, Comune, 1
-Individuazione del Magico, Comune, 1
-Intralciare, Comune, 1
-Lettura del Magico, Comune, 1
-Luce, Comune, 1
-Luci Danzanti, Non Comune, 1
-Luminescenza, Non Comune, 1
-Onda rovente, Comune, 1
-Onda Tonante, Comune, 1
-Oscurità, Comune, 1
-Palla di fango di Eithne, Non Comune, 1
-Parlare con gli Animali, Comune, 1
-Passo Veloce, Molto Raro, 1
-Protezione dall'Energia minore, Raro, 1
-Purificare Cibo e Bevande, Comune, 1
-Raggio di Indebolimento, Comune, 1
-Risata Incontenibile, Non Comune, 1
-Ritirata Rapida, Non Comune, 1
-Saltare, Comune, 1
-Santuario, Comune, 1
-Scagliare Maledizione Minore, Comune, 1
-Schiaffo di Cattalm, Non Comune, 1
-Scritto Illusorio, Comune, 1
-Servitore Invisibile, Comune, 1
-Sonno, Comune, 1
-Spruzzo Colorato, Comune, 1
-Unto, Comune, 1
-Vita Falsata, Comune, 1
-Totale incantesimi: \theinclvuno
+| Allarme, Comune, 1 |
+| --- |
+| Alterare Sé Stesso, Non Comune, 1 |
+| Amicizia con gli Animali, Non Comune, 1 |
+| Anatema, Comune, 1 |
+| Armatura Magica, Non Comune, 1 |
+| Benedizione, Comune, 1 |
+| Caduta Piuma, Comune, 1 |
+| Camuffare Sé Stesso, Comune, 1 |
+| Charme su Persone, Comune, 1 |
+| Colpo Fiammeggiante, Raro, 1 |
+| Comando, Comune, 1 |
+| Comprensione dei Linguaggi, Comune, 1 |
+| Conoscere i Tratti, Leggendario, 1 |
+| Creare o Distruggere Acqua, Comune, 1 |
+| Cuoco Invisibile, Comune, 1 |
+| Cura Ferite, Comune, 1 |
+| Dardo arcano, Comune, 1 |
+| Dardo di Fuoco, Comune, 1 |
+| Dardo occulto, Comune, 1 |
+| Dardo Tracciante, Non Comune, 1 |
+| Disco Fluttuante, Comune, 1 |
+| Eroismo, Non Comune, 1 |
+| Favore Divino, Non Comune, 1 |
+| Grido di dolore, Raro, 1 |
+| Guida, Comune, 1 |
+| Identificare, Comune, 1 |
+| Illusione Minore, Comune, 1 |
+| Immagine Silenziosa, Comune, 1 |
+| Individuazione del Magico, Comune, 1 |
+| Intralciare, Comune, 1 |
+| Lettura del Magico, Comune, 1 |
+| Luce, Comune, 1 |
+| Luci Danzanti, Non Comune, 1 |
+| Luminescenza, Non Comune, 1 |
+| Onda rovente, Comune, 1 |
+| Onda Tonante, Comune, 1 |
+| Oscurità, Comune, 1 |
+| Palla di fango di Eithne, Non Comune, 1 |
+| Parlare con gli Animali, Comune, 1 |
+| Passo Veloce, Molto Raro, 1 |
+| Protezione dall'Energia minore, Raro, 1 |
+| Purificare Cibo e Bevande, Comune, 1 |
+| Raggio di Indebolimento, Comune, 1 |
+| Risata Incontenibile, Non Comune, 1 |
+| Ritirata Rapida, Non Comune, 1 |
+| Saltare, Comune, 1 |
+| Santuario, Comune, 1 |
+| Scagliare Maledizione Minore, Comune, 1 |
+| Schiaffo di Cattalm, Non Comune, 1 |
+| Scritto Illusorio, Comune, 1 |
+| Servitore Invisibile, Comune, 1 |
+| Sonno, Comune, 1 |
+| Spruzzo Colorato, Comune, 1 |
+| Unto, Comune, 1 |
+| Vita Falsata, Comune, 1 |
+| Totale incantesimi: \theinclvuno |
+
 **Livello 2** 
 
-Animale Messaggero, Comune, 2
-Arma Magica, Comune, 2
-Arma Spirituale, Comune, 2
-Aura Magica dell'Arcanista, Non Comune, 2
-Bacche Benefiche, Comune, 2
-Benedici Acqua, Comune, 2
-Benedizione Superiore, Non Comune, 2
-Blocca Persona, Comune, 2
-Bocca Magica, Comune, 2
-Calmare Emozioni, Comune, 2
-Caratteristica Potenziata, Comune, 2
-Cecità/Sordità, Comune, 2
-Chiudi Portale, Raro, 2
-Colpo Luccicante, Non Comune, 2
-Comprensione degli Scritti, Non Comune, 2
-Crescita di Spuntoni, Comune, 2
-Estasiare, Comune, 2
-Evoca Cavalcatura, Comune, 2
-Fiamma Perenne, Leggendario, 2
-Folata di Vento, Comune, 2
-Frantumare, Comune, 2
-Gragnola di Ghiande di Kyrin, Non Comune, 2
-Immagine Speculare, Comune, 2
-Individuazione dei Pensieri, Raro, 2
-Individuazione delle Malattie e dei Veleni, Non Comune, 2
-Infliggi Ferite, Comune, 2
-Ingrandire/Ridurre, Comune, 2
-Invisibilità, Comune, 2
-Lacrima di Laydel, Molto Raro, 2
-Lama Infuocata, Comune, 2
-Lanciafiamme, Raro, 2
-Lettura della terra di Kyrin, Non Comune, 2
-Levitazione, Comune, 2
-Localizza Animali e Piante, Non Comune, 2
-Localizza Oggetto, Comune, 2
-Movimenti del Ragno, Non Comune, 2
-Passo Velato, Non Comune, 2
-Pelle di Corteccia, Comune, 2
-Piroesperto, Non Comune, 2
-Preghiera di Guarigione, Comune, 2
-Presagio, Comune, 2
-Protezione dai Veleni, Non Comune, 2
-Punizione Marchiante, Comune, 2
-Raggio mortale, Raro, 2
-Raggio Rovente, Comune, 2
-Ragnatela, Comune, 2
-Rimuovi Malattia, Comune, 2
-Riposo Inviolato, Non Comune, 2
-Riscaldare il Metallo, Non Comune, 2
-Ristorare Inferiore, Comune, 2
-Scassinare, Comune, 2
-Scopri Trappole, Comune, 2
-Scurovisione, Comune, 2
-Serratura Magica, Comune, 2
-Sfera Infuocata, Comune, 2
-Sfocatura, Comune, 2
-Silenzio, Comune, 2
-Sonnellino, Leggendario, 2
-Suggestione, Raro, 2
-Trucco della Corda, Comune, 2
-Vedere l'invisibile, Comune, 2
-Vincolo di Interdizione, Comune, 2
-Zona di Verità, Non Comune, 2
-Totale incantesimi: \theinclvdue
+| Animale Messaggero, Comune, 2 |
+| --- |
+| Arma Magica, Comune, 2 |
+| Arma Spirituale, Comune, 2 |
+| Aura Magica dell'Arcanista, Non Comune, 2 |
+| Bacche Benefiche, Comune, 2 |
+| Benedici Acqua, Comune, 2 |
+| Benedizione Superiore, Non Comune, 2 |
+| Blocca Persona, Comune, 2 |
+| Bocca Magica, Comune, 2 |
+| Calmare Emozioni, Comune, 2 |
+| Caratteristica Potenziata, Comune, 2 |
+| Cecità/Sordità, Comune, 2 |
+| Chiudi Portale, Raro, 2 |
+| Colpo Luccicante, Non Comune, 2 |
+| Comprensione degli Scritti, Non Comune, 2 |
+| Crescita di Spuntoni, Comune, 2 |
+| Estasiare, Comune, 2 |
+| Evoca Cavalcatura, Comune, 2 |
+| Fiamma Perenne, Leggendario, 2 |
+| Folata di Vento, Comune, 2 |
+| Frantumare, Comune, 2 |
+| Gragnola di Ghiande di Kyrin, Non Comune, 2 |
+| Immagine Speculare, Comune, 2 |
+| Individuazione dei Pensieri, Raro, 2 |
+| Individuazione delle Malattie e dei Veleni, Non Comune, 2 |
+| Infliggi Ferite, Comune, 2 |
+| Ingrandire/Ridurre, Comune, 2 |
+| Invisibilità, Comune, 2 |
+| Lacrima di Laydel, Molto Raro, 2 |
+| Lama Infuocata, Comune, 2 |
+| Lanciafiamme, Raro, 2 |
+| Lettura della terra di Kyrin, Non Comune, 2 |
+| Levitazione, Comune, 2 |
+| Localizza Animali e Piante, Non Comune, 2 |
+| Localizza Oggetto, Comune, 2 |
+| Movimenti del Ragno, Non Comune, 2 |
+| Passo Velato, Non Comune, 2 |
+| Pelle di Corteccia, Comune, 2 |
+| Piroesperto, Non Comune, 2 |
+| Preghiera di Guarigione, Comune, 2 |
+| Presagio, Comune, 2 |
+| Protezione dai Veleni, Non Comune, 2 |
+| Punizione Marchiante, Comune, 2 |
+| Raggio mortale, Raro, 2 |
+| Raggio Rovente, Comune, 2 |
+| Ragnatela, Comune, 2 |
+| Rimuovi Malattia, Comune, 2 |
+| Riposo Inviolato, Non Comune, 2 |
+| Riscaldare il Metallo, Non Comune, 2 |
+| Ristorare Inferiore, Comune, 2 |
+| Scassinare, Comune, 2 |
+| Scopri Trappole, Comune, 2 |
+| Scurovisione, Comune, 2 |
+| Serratura Magica, Comune, 2 |
+| Sfera Infuocata, Comune, 2 |
+| Sfocatura, Comune, 2 |
+| Silenzio, Comune, 2 |
+| Sonnellino, Leggendario, 2 |
+| Suggestione, Raro, 2 |
+| Trucco della Corda, Comune, 2 |
+| Vedere l'invisibile, Comune, 2 |
+| Vincolo di Interdizione, Comune, 2 |
+| Zona di Verità, Non Comune, 2 |
+| Totale incantesimi: \theinclvdue |
+
 **Livello 3**  
 
-Animare Morti, Comune, 3
-Anti-Individuazione, Non Comune, 3
-Bastoni in Serpenti, Non Comune, 3
-Benedizione di Ledyal, Molto Raro, 3
-Benedizione della Vita, Raro, 3
-Benedizione Suprema, Raro, 3
-Camminare sull'Acqua, Comune, 3
-Capanna, Non Comune, 3
-Cecità/Sordità Avanzata, Non Comune, 3
-Cerchio Magico, Comune, 3
-Chiaroveggenza, Comune, 3
-Controincantesimo, Comune, 3
-Creare Cibo e Acqua, Comune, 3
-Crescita Vegetale, Non Comune, 3
-Destriero Fantasma, Comune, 3
-Dissolvi Magie, Comune, 3
-Distruggere Nonmorto, Non Comune, 3
-Evoca Animali, Non Comune, 3
-Forma Gassosa, Non Comune, 3
-Fulmine, Comune, 3
-Glifo di Interdizione, Comune, 3
-Immagine Maggiore, Comune, 3
-Intermittenza, Non Comune, 3
-Inviare, Comune, 3
-Invocare il Fulmine, Comune, 3
-Lentezza, Non Comune, 3
-Lingue, Comune, 3
-Luce Diurna, Comune, 3
-Muro di Vento, Non Comune, 3
-Palla di Fuoco, Comune, 3
-Parlare con i Morti, Raro, 3
-Parlare con le Piante, Raro, 3
-Paura, Non Comune, 3
-Protezione dall'Energia, Comune, 3
-Rimuovi Maledizione, Comune, 3
-Scagliare Maledizione, Non Comune, 3
-Tempesta di Nevischio, Molto Raro, 3
-Tocco Vampirico, Raro, 3
-Trama Ipnotica, Comune, 3
-Uno con la pietra, Comune, 3
-Velocità, Non Comune, 3
-Volare, Comune, 3
-Totale incantesimi: \theinclvtre
+| Animare Morti, Comune, 3 |
+| --- |
+| Anti-Individuazione, Non Comune, 3 |
+| Bastoni in Serpenti, Non Comune, 3 |
+| Benedizione di Ledyal, Molto Raro, 3 |
+| Benedizione della Vita, Raro, 3 |
+| Benedizione Suprema, Raro, 3 |
+| Camminare sull'Acqua, Comune, 3 |
+| Capanna, Non Comune, 3 |
+| Cecità/Sordità Avanzata, Non Comune, 3 |
+| Cerchio Magico, Comune, 3 |
+| Chiaroveggenza, Comune, 3 |
+| Controincantesimo, Comune, 3 |
+| Creare Cibo e Acqua, Comune, 3 |
+| Crescita Vegetale, Non Comune, 3 |
+| Destriero Fantasma, Comune, 3 |
+| Dissolvi Magie, Comune, 3 |
+| Distruggere Nonmorto, Non Comune, 3 |
+| Evoca Animali, Non Comune, 3 |
+| Forma Gassosa, Non Comune, 3 |
+| Fulmine, Comune, 3 |
+| Glifo di Interdizione, Comune, 3 |
+| Immagine Maggiore, Comune, 3 |
+| Intermittenza, Non Comune, 3 |
+| Inviare, Comune, 3 |
+| Invocare il Fulmine, Comune, 3 |
+| Lentezza, Non Comune, 3 |
+| Lingue, Comune, 3 |
+| Luce Diurna, Comune, 3 |
+| Muro di Vento, Non Comune, 3 |
+| Palla di Fuoco, Comune, 3 |
+| Parlare con i Morti, Raro, 3 |
+| Parlare con le Piante, Raro, 3 |
+| Paura, Non Comune, 3 |
+| Protezione dall'Energia, Comune, 3 |
+| Rimuovi Maledizione, Comune, 3 |
+| Scagliare Maledizione, Non Comune, 3 |
+| Tempesta di Nevischio, Molto Raro, 3 |
+| Tocco Vampirico, Raro, 3 |
+| Trama Ipnotica, Comune, 3 |
+| Uno con la pietra, Comune, 3 |
+| Velocità, Non Comune, 3 |
+| Volare, Comune, 3 |
+| Totale incantesimi: \theinclvtre |
+
 **Livello 4**   
 
-Allucinazione Mortale, Non Comune, 4
-Blocca Persona Avanzato, Non Comune, 4
-Camminare nell'aria, Non Comune, 4
-Compulsione, Non Comune, 4
-Confusione, Comune, 4
-Controllare Acqua, Comune, (4)
-Dominare Bestie, Vario, 4
-Esilio, Comune, 4
-Fabbricare, Comune, 4
-Inaridire, Non Comune, 4
-Insetto Gigante, Non Comune, 4
-Interdizione alla Morte, Non Comune, 4
-Invisibilità Superiore, Non Comune, 4
-Libertà di Movimento, Comune, 4
-Localizza Creatura, Comune, 4
-Metamorfosi, Comune, 4
-Muro di Fuoco, Non Comune, 4
-Occhio Arcano, Comune, 4
-Pelle di Pietra, Non Comune, 4
-Porta Dimensionale, Comune, 4
-Profumo di Atherim, Raro, 4
-Santuario Privato, Molto Raro, 4
-Scolpire Pietra, Comune, 4
-Scrigno Segreto, Raro, 4
-Segugio Fedele, Raro, 4
-Tentacoli Neri, Non Comune, 4
-Terreno Illusorio, Non Comune, 4
-Vigore, Raro, 4
-Totale incantesimi: \theinclvquattro
+| Allucinazione Mortale, Non Comune, 4 |
+| --- |
+| Blocca Persona Avanzato, Non Comune, 4 |
+| Camminare nell'aria, Non Comune, 4 |
+| Compulsione, Non Comune, 4 |
+| Confusione, Comune, 4 |
+| Controllare Acqua, Comune, (4) |
+| Dominare Bestie, Vario, 4 |
+| Esilio, Comune, 4 |
+| Fabbricare, Comune, 4 |
+| Inaridire, Non Comune, 4 |
+| Insetto Gigante, Non Comune, 4 |
+| Interdizione alla Morte, Non Comune, 4 |
+| Invisibilità Superiore, Non Comune, 4 |
+| Libertà di Movimento, Comune, 4 |
+| Localizza Creatura, Comune, 4 |
+| Metamorfosi, Comune, 4 |
+| Muro di Fuoco, Non Comune, 4 |
+| Occhio Arcano, Comune, 4 |
+| Pelle di Pietra, Non Comune, 4 |
+| Porta Dimensionale, Comune, 4 |
+| Profumo di Atherim, Raro, 4 |
+| Santuario Privato, Molto Raro, 4 |
+| Scolpire Pietra, Comune, 4 |
+| Scrigno Segreto, Raro, 4 |
+| Segugio Fedele, Raro, 4 |
+| Tentacoli Neri, Non Comune, 4 |
+| Terreno Illusorio, Non Comune, 4 |
+| Vigore, Raro, 4 |
+| Totale incantesimi: \theinclvquattro |
+
 **Livello 5** 
 
-Animare Oggetti, Comune, 5
-Cerchio di Teletrasporto, Non Comune, 5
-Colpo Infuocato, Comune, 5
-Comunione, Raro, 5
-Comunione con la Natura, Molto Raro, 5
-Cono di Freddo, Comune, 5
-Conoscenza delle Leggende, Comune, 5
-Contagio, Non Comune, 5
-Costrizione, Raro, 5
-Creazione, Raro, 5
-Dissolvi il Bene e il Male, Raro, 5
-Dissolvi Magie Avanzato, Raro, 5
-Dominare Persone, Non Comune, 5
-Fuorviare, Non Comune, 5
-Gragnola di Marroni di Kyrin, Molto Raro, 5
-Guscio Anti-Vita, Non Comune, 5
-Legame Telepatico, Raro, 5
-Mano Arcana, Non Comune, 5
-Modificare Memoria, Molto Raro, 5
-Muro di Forza, Comune, 5
-Muro di Pietra, Comune, 5
-Passa Porta, Non Comune, 5
-Piaga degli Insetti, Raro, 5
-Pietra in Fango - Fango in Pietra, Non Comune - Molto Raro, 5
-Reincarnazione, Raro, 5
-Ristorare Superiore, Non Comune, 5
-Risveglio, Raro, 5
-Santificare, Raro, 5
-Scrutare, Raro, 5
-Sembrare, Non Comune, 5
-Sogno, Non Comune, 5
-Telecinesi, Non Comune, 5
-Traslazione Arborea, Raro, 5
-Totale incantesimi: \theinclvcinque
+| Animare Oggetti, Comune, 5 |
+| --- |
+| Cerchio di Teletrasporto, Non Comune, 5 |
+| Colpo Infuocato, Comune, 5 |
+| Comunione, Raro, 5 |
+| Comunione con la Natura, Molto Raro, 5 |
+| Cono di Freddo, Comune, 5 |
+| Conoscenza delle Leggende, Comune, 5 |
+| Contagio, Non Comune, 5 |
+| Costrizione, Raro, 5 |
+| Creazione, Raro, 5 |
+| Dissolvi il Bene e il Male, Raro, 5 |
+| Dissolvi Magie Avanzato, Raro, 5 |
+| Dominare Persone, Non Comune, 5 |
+| Fuorviare, Non Comune, 5 |
+| Gragnola di Marroni di Kyrin, Molto Raro, 5 |
+| Guscio Anti-Vita, Non Comune, 5 |
+| Legame Telepatico, Raro, 5 |
+| Mano Arcana, Non Comune, 5 |
+| Modificare Memoria, Molto Raro, 5 |
+| Muro di Forza, Comune, 5 |
+| Muro di Pietra, Comune, 5 |
+| Passa Porta, Non Comune, 5 |
+| Piaga degli Insetti, Raro, 5 |
+| Pietra in Fango - Fango in Pietra, Non Comune - Molto Raro, 5 |
+| Reincarnazione, Raro, 5 |
+| Ristorare Superiore, Non Comune, 5 |
+| Risveglio, Raro, 5 |
+| Santificare, Raro, 5 |
+| Scrutare, Raro, 5 |
+| Sembrare, Non Comune, 5 |
+| Sogno, Non Comune, 5 |
+| Telecinesi, Non Comune, 5 |
+| Traslazione Arborea, Raro, 5 |
+| Totale incantesimi: \theinclvcinque |
+
 **Livello 6** 
 
-Bagliore Solare, Non Comune, 6
-Banchetto degli Eroi, Non Comune, 6
-Barriera di Lame, Comune, 6
-Camminare nel Vento, Non Comune, 6
-Carne in Pietra - Pietra in Carne, Non Comune - Raro, 6
-Cerchio di Morte, Molto Raro, 6
-Contingenza, Comune, 6
-Creare Non Morti, Non Comune, 6
-Disintegrazione, Non Comune, 6
-Dito della Morte, Raro, 6
-Divinazione, Comune, 6
-Evocazioni Istantanee, Raro, 6
-Ferire, Non Comune, 6
-Fulmine a catena, Raro, 6
-Giara Magica, Molto Raro, 6
-Globo di Invulnerabilità, Comune, 6
-Guarigione, Raro, 6
-Illusione Programmata, Non Comune, 6
-Muovere il Terreno, Non Comune, 6
-Muro di Ghiaccio, Comune, (6)
-Muro di Spine, Non Comune, 6
-Parola del Ritiro, Raro, 6
-Proibizione, Non Comune, 6
-Scopri il Percorso, Non Comune, 6
-Sfera Congelante, Raro, 6
-Sguardo Penetrante, Molto Raro, 6
-Suggestione di Massa, Molto Raro, 6
-Trasformazione Furiosa di Restser, Molto Raro, 6
-Trasporto Vegetale, Molto Raro, 6
-Vigilanza e Interdizione, Non Comune, 6
-Visione del Vero, Raro, 6
-Totale incantesimi: \theinclvsei
+| Bagliore Solare, Non Comune, 6 |
+| --- |
+| Banchetto degli Eroi, Non Comune, 6 |
+| Barriera di Lame, Comune, 6 |
+| Camminare nel Vento, Non Comune, 6 |
+| Carne in Pietra - Pietra in Carne, Non Comune - Raro, 6 |
+| Cerchio di Morte, Molto Raro, 6 |
+| Contingenza, Comune, 6 |
+| Creare Non Morti, Non Comune, 6 |
+| Disintegrazione, Non Comune, 6 |
+| Dito della Morte, Raro, 6 |
+| Divinazione, Comune, 6 |
+| Evocazioni Istantanee, Raro, 6 |
+| Ferire, Non Comune, 6 |
+| Fulmine a catena, Raro, 6 |
+| Giara Magica, Molto Raro, 6 |
+| Globo di Invulnerabilità, Comune, 6 |
+| Guarigione, Raro, 6 |
+| Illusione Programmata, Non Comune, 6 |
+| Muovere il Terreno, Non Comune, 6 |
+| Muro di Ghiaccio, Comune, (6) |
+| Muro di Spine, Non Comune, 6 |
+| Parola del Ritiro, Raro, 6 |
+| Proibizione, Non Comune, 6 |
+| Scopri il Percorso, Non Comune, 6 |
+| Sfera Congelante, Raro, 6 |
+| Sguardo Penetrante, Molto Raro, 6 |
+| Suggestione di Massa, Molto Raro, 6 |
+| Trasformazione Furiosa di Restser, Molto Raro, 6 |
+| Trasporto Vegetale, Molto Raro, 6 |
+| Vigilanza e Interdizione, Non Comune, 6 |
+| Visione del Vero, Raro, 6 |
+| Totale incantesimi: \theinclvsei |
+
 **Livello 7**
 
-Celare, Raro, 7
-Forma Eterea, Raro, 7
-Immagine Proiettata, Non Comune, 7
-Inversione della Gravità, Raro, 7
-Miraggio Arcano, Raro, 7
-Palla di Fuoco Ritardata, Raro, 7
-Parola Divina, Molto Raro, 7
-Reggia Meravigliosa, Leggendario, 7
-Rigenerazione, Leggendario, 7
-Simbolo, Non Comune, 7
-Spada Arcana, Raro, 7
-Spruzzo Prismatico, Raro, 7
-Teletrasporto, Comune, 7
-Tempesta di Fuoco, Raro, 7
-Totale incantesimi: \theinclvsette
+| Celare, Raro, 7 |
+| --- |
+| Forma Eterea, Raro, 7 |
+| Immagine Proiettata, Non Comune, 7 |
+| Inversione della Gravità, Raro, 7 |
+| Miraggio Arcano, Raro, 7 |
+| Palla di Fuoco Ritardata, Raro, 7 |
+| Parola Divina, Molto Raro, 7 |
+| Reggia Meravigliosa, Leggendario, 7 |
+| Rigenerazione, Leggendario, 7 |
+| Simbolo, Non Comune, 7 |
+| Spada Arcana, Raro, 7 |
+| Spruzzo Prismatico, Raro, 7 |
+| Teletrasporto, Comune, 7 |
+| Tempesta di Fuoco, Raro, 7 |
+| Totale incantesimi: \theinclvsette |
+
 **Livello 8**
 
-Antipatia/Simpatia, Raro, 8
-Aura Sacra, Comune, 8
-Benedizioni di Efrem, Raro, 8
-Campo Anti-Magia, Raro, 8
-Confusione Contagiosa, Molto Raro, 8
-Controllare Tempo Atmosferico, Raro, 8
-Danza Irresistibile, Leggendario, 8
-Dominare Mostri, Non Comune, 8
-Esplosione Solare, Raro, 8
-Gabbia di Forza, Raro, 8
-Labirinto, Raro, 8
-Loquacità, Raro, 8
-Nube Incendiaria, Raro, 8
-Parola del Potere Stordire, Non Comune, 8
-Regressione Mentale, Raro, 8
-Scudo Mentale, Non Comune, 8
-Terremoto, Molto Raro, 8
-Totale incantesimi: \theinclvotto
+| Antipatia/Simpatia, Raro, 8 |
+| --- |
+| Aura Sacra, Comune, 8 |
+| Benedizioni di Efrem, Raro, 8 |
+| Campo Anti-Magia, Raro, 8 |
+| Confusione Contagiosa, Molto Raro, 8 |
+| Controllare Tempo Atmosferico, Raro, 8 |
+| Danza Irresistibile, Leggendario, 8 |
+| Dominare Mostri, Non Comune, 8 |
+| Esplosione Solare, Raro, 8 |
+| Gabbia di Forza, Raro, 8 |
+| Labirinto, Raro, 8 |
+| Loquacità, Raro, 8 |
+| Nube Incendiaria, Raro, 8 |
+| Parola del Potere Stordire, Non Comune, 8 |
+| Regressione Mentale, Raro, 8 |
+| Scudo Mentale, Non Comune, 8 |
+| Terremoto, Molto Raro, 8 |
+| Totale incantesimi: \theinclvotto |
+
 **Livello 9** 
 
-Desiderio, Non Comune, 9
-Fatale, Raro, 9
-Fermare il Tempo, Molto Raro, 9
-Guarigione di Massa, Leggendario, 9
-Imprigionare, Raro, 9
-Metamorfosi Pura, Raro, 9
-Muro Prismatico, Raro, (9)
-Parola del Potere Uccidere, Raro, 9
-Previsione, Non Comune, 9
-Trasformazione, Raro, 9
+| Desiderio, Non Comune, 9 |
+| --- |
+| Fatale, Raro, 9 |
+| Fermare il Tempo, Molto Raro, 9 |
+| Guarigione di Massa, Leggendario, 9 |
+| Imprigionare, Raro, 9 |
+| Metamorfosi Pura, Raro, 9 |
+| Muro Prismatico, Raro, (9) |
+| Parola del Potere Uccidere, Raro, 9 |
+| Previsione, Non Comune, 9 |
+| Trasformazione, Raro, 9 |
+
 Totale incantesimi: \theinclvnove
 
 ---
@@ -12369,61 +12308,61 @@ Queste capacità rappresentano l'apice di un personaggio, non inteso come le abi
 
 Ogni personaggio può avere una sola capacità iconica, una capacità che contraddistingue gli eroi, capaci di azioni al limite e oltre l'umano. I giocatori sono invitati a creare nuove Abilità Iconiche in base allo sviluppo del personaggio.
 
-**Una Luce contro le tenebre**\normalsize
+**Una Luce contro le tenebreRequisiti suggeriti: Patrono Ljust, Sumkjr**
 
-**Requisiti suggeriti: Patrono Ljust, Sumkjr**
+| Una volta al giorno emetti per 60 minuti luce sacra intorno a te che ti conferisce +1d6 ai Tiri Salvezza e Tiri per Colpire contro i Devoti e Seguaci non del tuo Patrono. Puoi convogliare 1 volta al giorno la luce e tutte le creature Seguaci o Devoti di altri Patroni in raggio di 10 metri da te devono effettuare un TS Tempra a DC 10 + somma Tratti in comune con il Patrono + Saggezza o essere storditi per 2d6 round. |
+| --- |
 
-Una volta al giorno emetti per 60 minuti luce sacra intorno a te che ti conferisce +1d6 ai Tiri Salvezza e Tiri per Colpire contro i Devoti e Seguaci non del tuo Patrono. Puoi convogliare 1 volta al giorno la luce e tutte le creature Seguaci o Devoti di altri Patroni in raggio di 10 metri da te devono effettuare un TS Tempra a DC 10 + somma Tratti in comune con il Patrono + Saggezza o essere storditi per 2d6 round.
-**Il Fabbro**\normalsize
-
-**Requisiti suggeriti: abilità nel lavorare il metallo**
+**Il FabbroRequisiti suggeriti: abilità nel lavorare il metallo**
 
 Le tue capacità di lavorare con le armi ed armature sono leggendarie.
-Ogni armatura da te fatta ingombra e pesa come una categoria inferiore, le armi fanno un danno di una categoria superiore di dado.
-**L'Oracolo della Guerra**\normalsize
 
-**Requisiti suggeriti: maestro combattente di mischia**
+| Ogni armatura da te fatta ingombra e pesa come una categoria inferiore, le armi fanno un danno di una categoria superiore di dado. |
+| --- |
 
-Ogni arma nelle tue mani è letale. Il dado dell'arma raddoppia come raddoppia il danno causato dalla Forza. Es. una spada lunga fa 2d8 di danno e se hai Forza +3 il danno totale diventa 2d8+6
-**L'Eroe senza paura**\normalsize
+**L'Oracolo della GuerraRequisiti suggeriti: maestro combattente di mischia**
 
-**Requisiti suggeriti: coraggioso e risoluto**
+| Ogni arma nelle tue mani è letale. Il dado dell'arma raddoppia come raddoppia il danno causato dalla Forza. Es. una spada lunga fa 2d8 di danno e se hai Forza +3 il danno totale diventa 2d8+6 |
+| --- |
 
-Una volta per avversario puoi ignorare (per 1d4 round) le condizioni che ti affliggono come Reazione.
-**Mindmaster**\normalsize
+**L'Eroe senza pauraRequisiti suggeriti: coraggioso e risoluto**
 
-**Requisiti suggeriti: una vita a avventurosa gestita con intelligenza e sangue freddo**
+| Una volta per avversario puoi ignorare (per 1d4 round) le condizioni che ti affliggono come Reazione. |
+| --- |
 
-Puoi usare il punteggio in una Caratteristica mentale (Intelligenza, Saggezza o Carisma) al posto di una fisica (Forza, Destrezza, Costituzione) per quanto riguarda tutte le prove.
-**Su un saurovallo pallido**\normalsize
+**MindmasterRequisiti suggeriti: una vita a avventurosa gestita con intelligenza e sangue freddo**
 
-**Requisiti suggeriti: non temere al morte, aver ucciso tantissimi avversari**
+| Puoi usare il punteggio in una Caratteristica mentale (Intelligenza, Saggezza o Carisma) al posto di una fisica (Forza, Destrezza, Costituzione) per quanto riguarda tutte le prove. |
+| --- |
+
+**Su un saurovallo pallidoRequisiti suggeriti: non temere al morte, aver ucciso tantissimi avversari**
 
 Sei la cosa più simile alla morte che i tuoi nemici vedranno mai.
-Quando uccidi un nemico tutti gli avversari (che possono aver visto la scena) in 10m di raggio devono fare un TS Volontà con DC pari al Tiro per Colpire, costo una Reazione, od essere influenzati come dall'incantesimo Paura. La capacità è usabile 3 volte al giorno.
-**La Furia Magica**\normalsize
 
-**Requisiti suggeriti: una vita dedicata alla magia esplosiva**
+| Quando uccidi un nemico tutti gli avversari (che possono aver visto la scena) in 10m di raggio devono fare un TS Volontà con DC pari al Tiro per Colpire, costo una Reazione, od essere influenzati come dall'incantesimo Paura. La capacità è usabile 3 volte al giorno. |
+| --- |
 
-Sei capace di scatenare l'inferno con la magia. La difficoltà (DC) di ogni tuo incantesimo aumenta di 2, quando fai una Prova di Magia tiri 3d6 in più ed ignori 2 dadi tirati.
-**L'Ombra**\normalsize
+**La Furia MagicaRequisiti suggeriti: una vita dedicata alla magia esplosiva**
 
-**Requisiti suggeriti: una vita dedicata a nascondersi e sorprendere i nemici**
+| Sei capace di scatenare l'inferno con la magia. La difficoltà (DC) di ogni tuo incantesimo aumenta di 2, quando fai una Prova di Magia tiri 3d6 in più ed ignori 2 dadi tirati. |
+| --- |
 
-Tre volte al giorno puoi teletrasportati sull'ombra di un altra creatura che sia entro 30 metri. Costo 1 Reazione.
-**La Madre**\normalsize
+**L'OmbraRequisiti suggeriti: una vita dedicata a nascondersi e sorprendere i nemici**
 
-**Requisiti suggeriti: passato più tempo in forma animale che propria**
+| Tre volte al giorno puoi teletrasportati sull'ombra di un altra creatura che sia entro 30 metri. Costo 1 Reazione. |
+| --- |
 
-Ha la capacità innata di lasciare le orme di qualsiasi animale, compatibile con la tua taglia, anche se non sei trasformato. Puoi parlare con qualsiasi animale come se fossi sempre sotto effetto dell'incantesimo Parlare con gli Animali.
-**Il Morto**\normalsize
+**La MadreRequisiti suggeriti: passato più tempo in forma animale che propria**
 
-**Requisiti suggeriti: una vita di sempre sul baratro della morte**
+| Ha la capacità innata di lasciare le orme di qualsiasi animale, compatibile con la tua taglia, anche se non sei trasformato. Puoi parlare con qualsiasi animale come se fossi sempre sotto effetto dell'incantesimo Parlare con gli Animali. |
+| --- |
 
-Tre volte al giorno quando i tuoi Punti Ferita scendono sotto 1, con una Azione di Reazione recuperi 3d12 Punti Ferita. Questa capacità può essere usata anche quando i Punti Ferita sono negativi o si dovrebbe essere direttamente morti.
-**Il Cacciatore**\normalsize
+**Il MortoRequisiti suggeriti: una vita di sempre sul baratro della morte**
 
-**Requisiti suggeriti: una vita dedicata a cacciare ed inseguire**
+| Tre volte al giorno quando i tuoi Punti Ferita scendono sotto 1, con una Azione di Reazione recuperi 3d12 Punti Ferita. Questa capacità può essere usata anche quando i Punti Ferita sono negativi o si dovrebbe essere direttamente morti. |
+| --- |
+
+**Il CacciatoreRequisiti suggeriti: una vita dedicata a cacciare ed inseguire**
 
 Le tue prove di Sopravvivenza hanno un +2d6 di bonus. Il primo colpo che va a segno contro un avversario ottiene automaticamente 2 critici.
 ---
@@ -12438,7 +12377,7 @@ In OBSS le divinità sono diverse dai tradizionali dei nei giochi di ruolo.
 
 Le divinità, i Patroni, amano sporcarsi le mani, partecipare nelle faccende delle creature che le adorano, per loro è una sfida continua ad avere più credenti, adepti e persone più simili, per Tratti, a loro.
 
-I Patroni sono stati creati come \href{https://www.treccani.it/vocabolario/parossismo/}{parossismo} dell'animo umano, dove tutto è un eccesso. Come spiriti liberati dal vaso di Pandora hanno il solo scopo di portare i loro Tratti al dominio rendendoli i più comuni e presenti tra le creature, specialmente tra le più potenti.
+I Patroni sono stati creati come https://www.treccani.it/vocabolario/parossismo/ dell'animo umano, dove tutto è un eccesso. Come spiriti liberati dal vaso di Pandora hanno il solo scopo di portare i loro Tratti al dominio rendendoli i più comuni e presenti tra le creature, specialmente tra le più potenti.
 
 In principio era il nulla che in sé conteneva il tutto.
 
@@ -12522,7 +12461,7 @@ Non è necessario che abbia giurato fedeltà ad un Patrono o che ne sia Seguace 
 Un Patrono è ben contento se le creature seguono i suoi dettami, Tratti, e dona a coloro che lo fanno dei piccoli poteri come riconoscimento per la fedeltà a lui riservata, volutamente o meno. I poteri indicati sotto *Tratti in Comune* sono cumulativi. Se non indicato diversamente i poteri sono usabili 1 volta al giorno e costano 2 Azioni.
 Quando è indicato un incantesimo questo viene manifestato senza Prove di Magia o penalità dovute ad armatura.
 
-Ogni **Patrono predilige uno o più forme energetiche**, se sei Seguace puoi usare quell'energia nelle tue magie, se sei un Devoto invece i tuoi incantesimi useranno una della forme energetiche indicate. Sono indicate le *Liste Privilegiate* (pag. ), ovvero liste nelle quale il Devoto ha dei vantaggi d'uso.
+Ogni **Patrono predilige uno o più forme energetiche**, se sei Seguace puoi usare quell'energia nelle tue magie, se sei un Devoto invece i tuoi incantesimi useranno una della forme energetiche indicate. Sono indicate le *Liste Privilegiate* , ovvero liste nelle quale il Devoto ha dei vantaggi d'uso.
 
 Le forme di Energia vengono distinte tra fonti positive, neutrali e negative, servono per inquadrare meglio il vostro padrone, pardon, il Patrono che servite.
 
@@ -12530,7 +12469,7 @@ Fate la somma delle energie, se positiva il Patrono si può considerare buono, s
 
 Nella descrizione del Patrono troverete anche la sua **manifestazione**, ovvero cosa accade quando un personaggio agisce in maniera particolarmente e significativamente consona ai Tratti seguiti dal Patrono. L'effetto è puramente scenico e di circostanza ma lascia sempre colpito chiunque lo possa osservare, solitamente garantisce un punto avanzamento in un Tratto collegato al Patrono. Non è necessario essere Devoto o Seguace, basta aver seguito in maniera particolarmente *epica* quel Tratto.
 
-E' presente anche l'indicazione dell'**arma preferita** dal Patrono. Non ci sono vantaggi nell'usarla, a meno di avere la specifica Abilità (pag. ), la scelta è puramente personale e lasciata alla devozione del personaggio.
+E' presente anche l'indicazione dell' **arma preferita** dal Patrono. Non ci sono vantaggi nell'usarla, a meno di avere la specifica Abilità , la scelta è puramente personale e lasciata alla devozione del personaggio.
 
 Sotto l'indicazione dell'arma preferita c'è l'indicazione della Regola  ovvero il comportamento che il Devoto deve cercare di rispettare.
 
@@ -12554,7 +12493,9 @@ Nulla vieta che un personaggio riceva più poteri da Patroni diversi! Ad alti li
 | --- | --- | --- |
 | En. Positiva | Fuoco | En. Negativa |
 | Luce | Freddo | Vuoto |
+
 | Suono |
+
 | Elettricità | Nessun Patrono è completamente buono o completamente malvagio. Come la natura di un uomo è sfaccettata anche a seconda delle occasioni, così un Patrono potrà avere anomali slanci positivi o negativi. Ricordati che i Patroni sono Dei ma generati dalle emozioni e desideri. |
 | --- | --- |
 
@@ -13411,7 +13352,7 @@ I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizz
 
 In questo nuova *economia* il valore delle vecchie monete è nullo se non per uno scarso valore storico numismatico.
 
-Potremmo dire che dopo la prima venuta dei Patroni, lo smantellamento e distruzione dell'infrastruttura statale ed economica, nei due secoli a venire non sono stati riproposti gli \href{https://it.wikipedia.org/wiki/Accordi_di_Bretton_Woods}{accordi di Bretton Woods} ed anzi a fatica arriviamo nelle città più importanti ad avere un \href{https://it.wikipedia.org/wiki/Sistema_aureo}{sistema aureo}.
+Potremmo dire che dopo la prima venuta dei Patroni, lo smantellamento e distruzione dell'infrastruttura statale ed economica, nei due secoli a venire non sono stati riproposti gli https://it.wikipedia.org/wiki/Accordi_di_Bretton_Woods ed anzi a fatica arriviamo nelle città più importanti ad avere un https://it.wikipedia.org/wiki/Sistema_aureo.
 
 L'estrema difficoltà dei trasporti internazionali, limitati tramite pericolosi Portali oppure tornati ad usare vecchie nave a vela e rarissime navi e treni a vapore, residuati storici di pezzi di alta ingegneria *moderna*, hanno portato il commercio a lavorare in maniera più semplice, più basilare.
 
@@ -13534,6 +13475,7 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 | Stocco | 20 | P/1d6 P | **Armi Leggere**, **Armi Aggraziate**, Versatile |
 | Tridente | 15 | M/1d6 P/T | 3 metri, **Aste**, **Armi da Lancio**, Arma Lunga, Controcarica |
 | Urgrosh | 18 | M/1d6 T/P | **Lance**, **Armi doppie** |
+
 Un **Arma** Piccola ha **Ingombro** 1, una Arma Media ha Ingombro 2, un Arma Grande ha Ingombro 4, un Arma Enorme ha Ingombro 8.
 
 **Tabella: Lista dei proiettili - Archi - Balestre - Fionde**
@@ -13670,12 +13612,14 @@ Un eventuale costo non sarebbe inferiore alle 30 mo a proiettile.
 
 Ogni qual volta il Tiro per Colpire sia un fallimento critico c'è stato un problema con l'arma e non ha sparato con successo.
 
-**Tira e somma 2d10, consulta la tabella\#** | **Effetto**
+**Tira e somma 2d10, consulta la tabella**
+
+| **\#** | **Effetto** |
 | 2 | Il proiettile è difettoso, per fortuna non ci sono altri problemi. Costa una Azione togliere il proiettile inceppato. |
 | 3 | Il proiettile si è incastrato. Costa due Azioni togliere il proiettile inceppato. |
 | 4 | L'aver mancato ti lascia esitante, perdi 1 Azione. |
 
-**\#** | **Effetto**
+| **\#** | **Effetto** |
 | 5 | Il mirino è impreciso. Il prossimo colpo ha -2 al Tiro per Colpire. |
 | 6 | Spari inavvertitamente due colpi/raffiche. Il secondo non colpisce nessuno e fa solo consumare proiettili. |
 | 7 | L'arma non è adeguatamente lubrificata. Inserire il prossimo caricatore costa 1 round intero. |
@@ -14239,7 +14183,7 @@ Se il personaggio effettua una prova utilizzando strumenti o attrezzi specifici 
 
 Una buona cavalcatura può consentire a un personaggio di attraversare rapidamente un territorio selvaggio, ma il suo scopo primario è trasportare l'equipaggiamento che altrimenti rallenterebbe il suo padrone.
 
-La tabella *Cavalcature e Altri Animali* indica i costi degli animali da trasporto, per le indicazioni sul movimento e la capacità di trasporto di ogni animale vedi indicazioni in capitolo Tabella Cavalcature e Veicoli (pag. ).
+La tabella *Cavalcature e Altri Animali* indica i costi degli animali da trasporto, per le indicazioni sul movimento e la capacità di trasporto di ogni animale vedi indicazioni in capitolo Tabella Cavalcature e Veicoli .
 
 Nei mondi di fantasy esistono altre cavalcature oltre a quelle elencate in questa sezione, ma si tratta di cavalcature rare che normalmente non sono disponibili per l'acquisto, come certe cavalcature volanti (pegasi, grifoni, ippogrifi e altri animali simili) o perfino alcune cavalcature acquatiche (come per esempio i cavallucci marini giganti).
 
@@ -14421,6 +14365,7 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 | Povero | 2 ma | Modesto | 1 mo |
 | Agiato | 2 mo | Ricco | 4 mo |
 | Aristocratico | 10+ mo | Regale | 50 mo+ |
+
 ---
 
 ### Lavorare in città
@@ -14633,6 +14578,7 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 | Minuscola | -8 | Mastodontica | +12 |
 | Piccola | -4 | Colossale | +16 |
 | Media | +0 |  | Un **piede di porco** o un **ariete portatile** aumentano la probabilità del personaggio di sfondare una porta di +1d6. |
+
 ---
 
 # Ambiente
@@ -14669,9 +14615,8 @@ Molti incantesimi ed oggetti usano come durata il *tempo di gioco reale*, ovvero
 | Candela | - | 1 m | 1 ora |
 | Torcia | 3 m | 6 m | 1 ora |
 | Lanterna | 6 m | 12 m | 3 ore |
-**Incantesimi** |  |  |
+| **Incantesimi** |  |  | |
 | Lacrima di Ljust | 1 m | - | 10 round |
-| --- | --- | --- | --- |
 | Luce | 3 m | 6 m | 30 min. |
 | Luce Diurna | 6 m | 12 m | 1 ora |
 
@@ -14834,7 +14779,9 @@ I personaggi che rischiano di prendere fuoco possono effettuare un Tiro Salvezza
 
 Un personaggio che va a fuoco può estinguere automaticamente le fiamme saltando dentro a dell'acqua sufficiente a spegnerle. Se non ci sono grosse quantità d'acqua a disposizione, rotolarsi sul terreno o smorzare la fiamma con mantelli o simili può concedere al personaggio +1d6 al Tiro Salvezza.
 
-Il personaggio in fiamme deve fare un Tiro Salvezza su Riflessi a DC 15 per ogni oggetto portato, se fallisce gli oggetti subiscono la stessa quantità di danni del personaggio.
+| Il personaggio in fiamme deve fare un Tiro Salvezza su Riflessi a DC 15 per ogni oggetto portato, se fallisce gli oggetti subiscono la stessa quantità di danni del personaggio. |
+| --- |
+
 **Effetti della Lava**
 La lava o il magma infliggono 2d6 danni per round di esposizione, tranne in caso di totale immersione (come quando un personaggio cade nel cratere di un vulcano attivo), che infligge 20d6 danni per round (più eventuali danni da caduta e magari trova un anello..).
 
@@ -15056,7 +15003,7 @@ Una creatura incapace di respirare sott'acqua spende tre round di trattenere il 
 
 Alcuni incantesimi potrebbero funzionare diversamente sott'acqua, a discrezione del Narratore.
 
-Vedi Capitolo Ambiente per le regole sul trattenere il respiro (pag. ).
+Vedi Capitolo Ambiente per le regole sul trattenere il respiro .
 
 ---
 
@@ -15102,7 +15049,7 @@ Le creature che vivono nelle caverne si abituano all'oscurità sviluppando qualc
 
 Anche la stessa torcia può dare un sollievo limitato dato che il suo raggio di luce è di 3 metri più 3 metri di luce fioca e dura un ora prima di spegnersi.
 
-Controlla le sezioni su Coperture ed Invisibilità (pag. ) per maggiori informazioni.
+Controlla le sezioni su Coperture ed Invisibilità  per maggiori informazioni.
 
 ### Movimento
 
@@ -15395,7 +15342,7 @@ come una candela. Rare macchie di questo fungo illuminano come una torcia. Strap
 
 ### Esempio di Trappole da dungeon
 
-Viene indicato il nome della trappola, la DC per la prova di Sopravvivenza per trovare la trappola e le indicazioni d'uso della stessa. Vedi anche Trappole (pag. ).
+Viene indicato il nome della trappola, la DC per la prova di Sopravvivenza per trovare la trappola e le indicazioni d'uso della stessa. Vedi anche Trappole .
 
 **Stanza allagata, DC 17**: se i personaggi non notano la piastra a pressione sul pavimento questa farà sigillare la porta di ingresso e la stanza incomincerà a riempirsi d'acqua.
 La stanza si riempie d'acqua in 10 round. Una prova di Sopravvivenza a DC 15, combinata con una prova di Nuotare DC 13, fa rilevare la piastra che attiva la fuoriuscita d'acqua.
@@ -15633,6 +15580,7 @@ Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tab
 | 17°-20° | 10d10 | 18d10 | 24d10 |
 
 ### Trappole di Esempio
+
 **Ago Avvelenato**
 
 Trappola meccanica
@@ -15791,6 +15739,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | Contatto |
 | **Ripristino:** | Nessuno |
 | **Effetto:** | Attacco a distanza 12 metri +10 (1d3 di danno più Bava fermentata di Lucos, pag ) |
+
 **Freccia**
 
 | **GS:** | 1 |
@@ -15801,6 +15750,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | Contatto |
 | **Ripristino:** | Nessuno |
 | **Effetto:** | Attacco a distanza 12 metri +15 (1d8+3) |
+
 **Fossa**
 
 | **GS:** | 1 |
@@ -15811,6 +15761,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
 | **Effetto:** | fossa profonda 3 metri (2d6 danni da caduta) |
+
 **Lama Falciante**
 
 | **GS:** | 1 |
@@ -15821,6 +15772,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
 | **Effetto:** | 2 attacchi in mischia +10 (1d8+1) |
+
 **Fossa con Spuntoni**
 
 | **GS:** | 2 |
@@ -15831,6 +15783,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
 | **Effetto:** | fossa profonda 3 metri + spuntoni (Attacco in mischia +10, 1d4 spuntoni per bersaglio per 1d4+2 danni ciascuno) |
+
 **Onda rovente**
 
 | **GS:** | 2 |
@@ -15841,6 +15794,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
 | **Effetto:** | 5d4 danni da fuoco |
+
 **Giavellotto**
 
 | **GS:** | 2 |
@@ -15851,6 +15805,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | nessuno |
 | **Effetto:** | Attacco a distanza 12 metri +15 (2d6+6), entro raggio 6 metri |
+
 **Fossa con non morti**
 
 | **GS:** | 2 |
@@ -15861,6 +15816,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | nessuno |
 | **Effetto:** | Sul fondo della fossa (2d6 di danno da caduta) sono presenti due zombi |
+
 **Freccia Acida**
 
 | **GS:** | 3 |
@@ -15871,6 +15827,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
 | **Effetto:** | Attacco distanza di 16 metri (4d4 danni da acido per 4 round) |
+
 **Fossa Celata**
 
 | **GS:** | 3 |
@@ -15881,6 +15838,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
 | **Effetto:** | 3d6 danni da caduta |
+
 **Arco Elettrico**
 
 | **GS:** | 4 |
@@ -15891,6 +15849,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | contatto |
 | **Ripristino:** | nessuno |
 | **Effetto:** | Arco elettrico. 2 bersagli entro 3 metri tra loro, 5d6 danni da elettricità |
+
 **Falce a Parete**
 
 | **GS:** | 4 |
@@ -15901,6 +15860,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | automatico |
 | **Effetto:** | tre attacchi in mischia +10 (2d8+3) |
+
 **Blocco in Caduta**
 
 | **GS:** | 5 |
@@ -15911,6 +15871,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
 | **Effetto:** | Attacco in mischia +15 (6d6) |
+
 **Colpo Infuocato**
 
 | **GS:** | 6 |
@@ -15921,6 +15882,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
 | **Effetto:** | cono 3 metri, 8d6 danni da fuoco |
+
 **Acque bollenti**
 
 | **GS:** | 7 |
@@ -15931,6 +15893,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | nessuno |
 | **Effetto:** | cono di 6 metri (spruzzo di acqua bollente, 8d6 danni da fuoco). |
+
 **Trappola a Gas**
 
 | **GS:** | 8 |
@@ -15941,6 +15904,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | riparabile |
 | **Effetto:** | Gas velenoso, cubo 6 metri di spigolo. TS Tempra DC 17 oppure rallentati 1/1 minuto. |
+
 **Raffica di Frecce**
 
 | **GS:** | 9 |
@@ -15951,6 +15915,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | visivo ( Occhio Arcano) |
 | **Ripristino:** | riparabile |
 | **Effetto:** | 6 frecce. Attacco a distanza +14 (1d8+1) |
+
 **Fossa Celata con Spuntoni**
 
 | **GS:** | 8 |
@@ -15961,6 +15926,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
 | **Effetto:** | Fossa profonda 15 m + spuntoni (Attacco in mischia +9, 3 spuntoni per bersaglio, 1d6+5 danni ciascuno) |
+
 **Pavimento Elettrico**
 
 | **GS:** | 9 |
@@ -15971,6 +15937,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
 | **Effetto:** | 6mx9m. 8d6 danni da Elettricità. |
+
 **Risucchio di Energia**
 
 | **GS:** | 10 |
@@ -15981,6 +15948,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | visivo (Visione del Vero) |
 | **Ripristino:** | nessuno |
 | **Effetto:** | Attacco di contatto a distanza 18 metri +14 da Vuoto, Punti Ferita max calano di 10d4 + Affaticato. |
+
 **Stanza delle Lame**
 
 | **GS:** | 10 |
@@ -15991,6 +15959,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | riparabile |
 | **Effetto:** | Attacco in mischia +15 (a tutti tre attacchi 3d8+3) |
+
 **Cono di Ghiaccio**
 
 | **GS:** | 11 |
@@ -16001,6 +15970,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
 | **Effetto:** | come Cono di Freddo da 9d6 danni. TS Riflessi DC 22 per dimezzare |
+
 **Fossa Avvelenata**
 
 | **GS:** | 11 |
@@ -16011,6 +15981,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
 | **Effetto:** | Fossa 6mx3m, 15 m profonda + spuntoni (3 attacchi in mischia +15 per bersaglio. 1d6+5 danni + veleno 2d6 danni) |
+
 **Galleria dei Fulmini**
 
 | **GS:** | 13 |
@@ -16021,6 +15992,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
 | **Effetto:** | come incantesimo Fulmine a catena. DC 22. |
+
 **Inferno di fuoco**
 
 | **GS:** | 15 |
@@ -16031,6 +16003,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
 | **Effetto:** | 60 danni da fuoco. TS Riflessi DC 23 per dimezzare. |
+
 **Distruzione**
 
 | **GS:** | 16 |
@@ -16052,6 +16025,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | visivo |
 | **Ripristino:** | nessuno |
 | **Effetto:** | come incantesimo Pioggia di Meteore. DC 28 |
+
 >> Tups e la trappola
 >>
 >> {
@@ -16085,7 +16059,7 @@ Prosegui nel corridoio?
 
 *Narratore*: attraversi la zona adesso in sicurezza e vedi che si apre su una piccola stanza con due porte di legno rinforzato... }
 
-Liberamente ispirato da \href{https://friendorfoe.com/d/Old%20School%20Primer.pdf}{ **Quick Primer for Old School Gaming**}
+Liberamente ispirato da \href{https://friendorfoe.com/d/Old
 
 >>> Una trappola visibile/ovvia obbliga i giocatori ad interagire con essa, a sforzarsi per capirne il funzionamento ed ingegnarsi per evitarla o disattivarla. Evitate quando potete risoluzioni solo basate sul tiro di dado (Cerco trappole/Disattivo trappole), piuttosto premiate l'ingegnosità anche semplice ma creativa del giocatore per evitare il pericolo... e magari prima o poi si ricorderanno di recuperare il piede di porco...!
 ---
@@ -16110,7 +16084,7 @@ Per identificare una pozione naturale è necessario una prova di Erboristeria a 
 **Ferimento**: vengono trasferiti soprattutto con gli attacchi di alcune creature e tramite armi cosparse di veleno. I veleni a ferimento hanno solitamente un tempo di insorgenza istantaneo.
 
 **Inalazione (R)**: si attivano nel momento in cui una creatura entra in un'area che contiene tali veleni. Molti veleni ad inalazione riempiono un volume pari ad un cubo con lato di 3x3x3 metri per dose. Le creature possono tentare di trattenere il fiato mentre si trovano all'interno dell'area per evitare di inalare la tossina.
-Vedi regole per trattenere il fiato e soffocare in Ambiente (pag. ).
+Vedi regole per trattenere il fiato e soffocare in Ambiente .
 
 ## Insorgenza ed Effetto
 
@@ -16158,7 +16132,7 @@ Una creatura sotto gli effetti di un veleno, anche se non manifestato, ha la con
 
 ## Rimuovere il veleno
 
-L'incantesimo Rimuovi Veleno (pag. ) esegue una prova di contrasto con il veleno, e quindi la condizione avvelenato.
+L'incantesimo Rimuovi Veleno  esegue una prova di contrasto con il veleno, e quindi la condizione avvelenato.
 
 Se la DC del veleno non è espressa allora si considera che sia sufficiente il semplice lancio dell'incantesimo per annullarne gli effetti.
 
@@ -16197,6 +16171,7 @@ Per *trovare* gli ingredienti per preparare le **pozioni naturali** è necessari
 
 {1\textwidth}{mlllmc}
 	
+
 | **Nome Veleno** | **Uso** | **Ins.** | **TS** | **Effetto (danno)** | **Costo** |
 | --- | --- | --- | --- | --- | --- |
 | Mistura Rossa | F | - | 13 | -1d6 TC/TS per 10 minuti | 10 |
@@ -16223,6 +16198,7 @@ Per *trovare* gli ingredienti per preparare le **pozioni naturali** è necessari
 | Fegato di Toporagno Viola | I | 1 ora | 25 | 2d6 di danno a Saggezza e Intelligenza. Permanente | 75 |
 | Veleno di Serpe del Sangue | F | - | 25 | Paralisi per 1d6 ore -1d4 punti Forza per 7 giorni | 75 |
 | Sangue di Thrun | C | - | 26 | -1d3 Costituzione | 80 |
+
 **Applicazione**: **I**(ngestione), **F**(erimento), **C**(ontatto), **R**(espirazione).
 
 Il Tiro Salvezza è sempre su Tempra se non specificato diversamente
@@ -16413,7 +16389,7 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 | Veleno potenziata | 2d8+4 di danno. TS DC 18 Tempra per dimezzare | 50 | F |
 | Veleno maggiore | 4d10+8 di danno. TS DC 24 Tempra per dimezzare | 125 | F |
 | Rimuovi Veleno | concede un nuovo TS con +1d6 | 75 | I |
-| Pozione Generica* | vedi Creare Pozioni (pag. ) | Lv*Lv*50 | I |
+| Pozione Generica* | vedi Creare Pozioni  | Lv*Lv*50 | I |
 
 ## Opzionale - Droghe 
 
@@ -16427,6 +16403,7 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 | Essenza profumata di Inut | R | I | 15 | +4 Destrezza per 1d8 ore | 16 | 15 mo |
 | Polline di Julnnaus | R | I | 20 | +3 Costituzione per 2 ore | 16 | 25 mo |
 | Polline del fiore di Erain | R | 1 r | 20 | +2 For, Int, Des, +3d6 PF temporanei per 1 ora | 17 | 75 mo |
+
 **L'utilizzo delle droghe è completamente opzionale. E' il Narratore a decidere la loro presenza e disponibilità anche in base alla sensibilità dei giocatori**.
 
 Le droghe danno dipendenza. Terminato l'effetto è necessario effettuare un Tiro Salvezza su Volontà a difficoltà 15 o prenderne un altra dose, il successivo Tiro Salvezza avrà difficoltà +1 e così via.
@@ -16456,9 +16433,9 @@ Es. *Febbre Demoniaca minore*: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -1 
 
 La Febbre Demoniaca minore costringe al Tiro Salvezza su Tempra a DC 18 dopo un solo minuto che la si è presa. Successivamente ogni 6 ore va rifatto il Tiro Salvezza e la malattia permane finché non si sono fatti almeno 3 successi consecutivi al TS. Ogni 6 ore il malato perde 1 punto di Costituzione e Saggezza.
 
-Per guarire da una malattia, non naturale, come quelle afflitte dai mostri è necessario superare i Tiri Salvezza richiesti oppure usare l'incantesimo di Rimuovi Malattie (pag. ).
+Per guarire da una malattia, non naturale, come quelle afflitte dai mostri è necessario superare i Tiri Salvezza richiesti oppure usare l'incantesimo di Rimuovi Malattie .
 
-Si effettua una prova di contrasto (pag. ) tra l'incantesimo Rimuovi Malattie e la DC della malattia.
+Si effettua una prova di contrasto  tra l'incantesimo Rimuovi Malattie e la DC della malattia.
 
 Se la DC della malattia non è espressa allora si considera che sia sufficiente il semplice lancio dell'incantesimo per annullarne gli effetti.
 
@@ -16511,24 +16488,20 @@ Solo in situazioni di non combattimento la corsa triplica il movimento, ovvero q
 
 Questa tabella mostra i valori base di movimento a terra in situazioni di non combattimento.
 
-| \multirow*{**Tipo di movimento**} | **Movimento** |  | |
+| **Tipo di movimento** | **Movimento** |  | |
 | --- | --- | --- |
-| \cmidrule(lr) | **6m** | **9m** | **12m** |
-**Movimento (Tattico)** |  |  |
+|  | **6m** | **9m** | **12m** |
+| **Movimento (Tattico)** |  |  | |
 | Camminare | 6m | 9m | 12m |
-| --- | --- | --- | --- |
 | Correre (x2) | 12m | 18m | 24m |
-**Un minuto (Locale)** |  |  |
+| **Un minuto (Locale)** |  |  | |
 | Camminare | 36m | 54m | 72m |
-| --- | --- | --- | --- |
 | Correre (x3) | 108m | 162m | 216m |
-**Un'ora (Via Terra)** |  |  |
+| **Un'ora (Via Terra)** |  |  | |
 | Camminare | 3km | 4km | 6km |
-| --- | --- | --- | --- |
 | Correre (x3) | 9km | 12km | 18km |
-**Un giorno (Via Terra)** |  |  |
+| **Un giorno (Via Terra)** |  |  | |
 | Camminare | 24km | 32km | 54km |
-| --- | --- | --- | --- |
 
 ## Movimento Tattico
 
@@ -16553,7 +16526,7 @@ Non applicate questa regola per attraversare terreni impraticabili o per muovers
 
 Non si può **Scattare** (Correre) su un terreno difficile, il giocatore può tentare una prova di Acrobatica a DC 20 per riuscire a correre ma non a caricare, se fallisce tratta il terreno come Difficile, se Fallisce Criticamente cade prono sul posto. 
 
-Non si può **Caricare** attraverso un terreno difficile a meno di avere l'Abilità Rinoceronte (pag. ).
+Non si può **Caricare** attraverso un terreno difficile a meno di avere l'Abilità Rinoceronte .
 
 Muoversi da prono, Nuotare o Strisciare è considerato terreno difficile, Arrampicarsi è doppiamente difficile.
 
@@ -16561,8 +16534,7 @@ Il terreno dove sono presenti dei corpi di creature si considera difficile.
 
 >> Tups nel cunicolo
 >>
->> %box giocatore
-Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. E' alla quarta posizione.
+>> Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. E' alla quarta posizione.
 
 Improvvisamente un nemico si para davanti e Tups è il più veloce a reagire, usando una Azione di Movimento ***attraversa*** i 3 compagni che ha davanti rimanendo **ristretto** con il primo della fila.
 
@@ -16586,7 +16558,7 @@ Es. un mostro di taglia Grande può condividere il suo spazio solo con una creat
 ### Scambiarsi di posto
 Un personaggio a contatto con un altra creatura può usare **una Azione** per **scambiarsi di posto** con questa. Se la creatura è ostile è necessaria una Prova Atletica contrapposta ad un Tiro Salvezza su Tempra per riuscire a scambiarsi. Per ogni taglia di differenza chi ha quella maggiore prende +1d6 di bonus alla prova. Costa una Reazione alla creatura amichevole.
 
->>> %box narratore
+>>> 
 Se volete un crudo realismo allora è terreno difficile attraversare anche zone dove ci sono creature amichevoli.
 
 ### Essere ristretti con qualcuno
@@ -16645,7 +16617,7 @@ Una cavalcatura può essere bardata con un armatura. Un armatura leggera conferi
 
 ## Tabella: Cavalcature e Veicoli
 
-| \multirow*{**Cavalcatura o Veicolo**} | **Ingombro trasportato** | **Movimento** | **Movimento** |
+| **Cavalcatura o Veicolo** | **Ingombro trasportato** | **Movimento** | **Movimento** |
 | --- | --- | --- | --- |
 | **(CdC)** | **All'ora** | **Al giorno** |
 | Cane da Galoppo | 30 | 6km | 36km |
@@ -16655,9 +16627,8 @@ Una cavalcatura può essere bardata con un armatura. Un armatura leggera conferi
 | Saurovallo da Tiro | 70 | 5km | 30km |
 | Cammello | 50 | 8km | 48km |
 | Elefante | 160 | 6km | 36km |
-**Imbarcazione** |  |  |
+| **Imbarcazione** |  |  | |
 | Zattera o Chiatta (pertica o rimorchio) | 225 | 0.75km | 7.5km |
-| --- | --- | --- | --- |
 | Barcone a Remi** | 425 | 1.5km | 15km |
 | Barca a Remi** | 200 | 2.25km | 22.5km |
 | Nave a Vela | 800 | 3km | 72km |
@@ -16749,7 +16720,7 @@ Uno dei problemi riguarda la velocità della luce e le difficoltà che comporta 
 
 ### Nuotare
 
-Vedi Capito Ambiente per prove nuotare (pag. ) e combattimento sott'acqua (pag. ).
+Vedi Capito Ambiente per prove nuotare  e combattimento sott'acqua .
 
 ### Scalare
 
@@ -16790,7 +16761,7 @@ Per fare ciò che si vuole bisogna nascere re o stupidi. (*o Narratore*, NdA) (L
 
 "Non è compito del solo DM (*Narratore*) intrattenere i giocatori e assicurarsi che si divertano. Ogni persona che gioca è responsabile del divertimento del gioco di tutti. Tutti accelerano il gioco, aumentano il dramma, aiutano a stabilire quanto il gruppo si sente a suo agio nel gioco di ruolo e danno vita al mondo di gioco con la loro immaginazione. Tutti dovrebbero anche trattarsi reciprocamente con rispetto e considerazione: i litigi personali e le liti tra i personaggi ostacolano il divertimento.
 
-| Persone diverse hanno idee diverse su ciò che è divertente in D | D. Ricorda che il *modo giusto* di giocare a D | D è il modo in cui tu e i tuoi giocatori siete d'accordo e vi divertite. Se tutti si mettono al tavolo pronti a contribuire al gioco, tutti si divertono". (Dungeon Master Guide, 4ed) |
+| Persone diverse hanno idee diverse su ciò che è divertente in D&D. Ricorda che il *modo giusto* di giocare a D&D è il modo in cui tu e i tuoi giocatori siete d'accordo e vi divertite. Se tutti si mettono al tavolo pronti a contribuire al gioco, tutti si divertono". (Dungeon Master Guide, 4ed) |
 | --- | --- | --- |
 
 ## Il Narratore
@@ -16907,6 +16878,7 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 **Tabella: Determinare gli Incontri**
 
 {@{}ll@ % @{} removes extra padding
+
 | **difficoltà** | **Grado di Sfida** |
 | --- | --- |
 | Facile | APL |
@@ -16949,6 +16921,7 @@ Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire
 | -5 | 15 | 0 | 75 |
 | -4 | 25 | +1 | 85 |
 | -3 | 47 | +2 | 100 |
+
 Per **Fattore** si intende la differenza tra il GS del mostro rispetto al Grado di Sfida scelto. Il Peso è la \% relativa che il mostro apporta per raggiungere l'obiettivo del 100\%.
 
 **Per raggiungere l'obiettivo dobbiamo sommare *le percentuali** di ogni singolo avversario fino a raggiungere 100, ovvero il 100\% della sfida.*
@@ -17085,7 +17058,7 @@ Per quanto il sistema favorisca la libertà di costruzione e sviluppo del person
 
 OBSS usa un sistema di tiro di dadi peculiare andando a mescolare una distribuzione 3d6 ad il potenziale dei 6 che esplodono. Questo sistema riesce a garantire una buona varianza e pur se concentrando i risultati intorno ai valori centrali della distribuzione lascia aperto il limite superiore a tiri particolarmente fortunati.
 
-Se volete divertirvi a studiare la curva corrispondente vi consiglio il sito\href{https://anydice.com/}{Anydice}. Questo lo pseudo codice da inserire (o cliccate \href{https://anydice.com/program/2610e}{qui} per il codice già inserito):
+Se volete divertirvi a studiare la curva corrispondente vi consiglio il sitohttps://anydice.com/. Questo lo pseudo codice da inserire (o cliccate https://anydice.com/program/2610e per il codice già inserito):
 
 if ROLLED = 1 \{ result: 0 \}
 
@@ -17093,13 +17066,13 @@ result: ROLLED\}
 
 output 3d[explode d6]}
 
-oppure cliccate \href{https://anydice.com/program/2610e}{qui} per il codice già inserito.
+oppure cliccate https://anydice.com/program/2610e per il codice già inserito.
 
 ### Opzionale - Variante Tiri Critici
 
 In OBSS vale la regola che se un successo viene fatto ottenendo almeno due 6 con i dadi si definisce successo critico, allo stesso modo se fallisco la prova ottenendo nel tiro di dadi due 1, oppure un 1 e due 2, allora si definisce un fallimento critico.
 
-Questi tiri critici molto legati all'aleatorietà dei dadi potrebbero non piacere a tutti i giocatori e come per la regola Opzionale Tiro Critico Variante (pag. ) questa regola opzionale stabilisce che in caso di Prova di Competenza, Tiro per Colpire e Tiro Salvezza:
+Questi tiri critici molto legati all'aleatorietà dei dadi potrebbero non piacere a tutti i giocatori e come per la regola Opzionale Tiro Critico Variante  questa regola opzionale stabilisce che in caso di Prova di Competenza, Tiro per Colpire e Tiro Salvezza:
 
 - considerare come un **fallimento critico** una prova **fallita di 8** o più.
 - considerare come un **successo critico** una prova **riuscita di 8** o più.
@@ -17126,7 +17099,7 @@ Suggerisco la lettura integrale dell'articolo: \href{https://lithyscaphe.blogspo
 
 https://lithyscaphe.blogspot.com/p/principia-apocrypha.html quello che segue è un sunto da me adattato e modificato delle linee guida che seguo quando masterizzo OBSS.
 
-OBSS segue i principi dell' \href{https://it.wikipedia.org/wiki/Old_School_Renaissance}{OSR} (wikipedia). Le avventure in OBSS mirano ad essere letali, avere un mondo liberamente esplorabile, una trama abbozzata, spingere sul problem-solving ed avere un sistema di ricompense incentrato sull'esplorazione, sui tesori e sulla partecipazione al gruppo. OBSS non si cura troppo del bilanciamento degli incontri e apprezza l'intraprendenza dei giocatori e cattura le loro idee mettendole nell'avventura.
+OBSS segue i principi dell' https://it.wikipedia.org/wiki/Old_School_Renaissance (wikipedia). Le avventure in OBSS mirano ad essere letali, avere un mondo liberamente esplorabile, una trama abbozzata, spingere sul problem-solving ed avere un sistema di ricompense incentrato sull'esplorazione, sui tesori e sulla partecipazione al gruppo. OBSS non si cura troppo del bilanciamento degli incontri e apprezza l'intraprendenza dei giocatori e cattura le loro idee mettendole nell'avventura.
 
 Per me l'OSR non sono tabelle di incontri casuali e randomizzazione caotica ne un regolamento specifico, è piuttosto lo spirito di avventura, meraviglia, paura, gloria, stupore e sfida che si sviluppa nelle avventure. Non siate troppo lineari, troppo prevedibili, aggiungete nelle avventure quel giusto mix che le rendono sempre uniche.
 
@@ -17251,7 +17224,7 @@ Nelle pagine seguenti troverete le regole e tabelle per attribuire i tesori ai n
 
 Le monete in possesso di mostri e creature selvagge non saranno certo fior di conio e saranno probabilmente segnate da morsi o bave appiccicose. Monete invece trovate nei tesori o in fondo a qualche tana potrebbero essere di altri regni, se non mondi.. ed in quel caso quello che li fa valere è lo stretto valore metallurgico. 10 grammi di oro sono sempre 10 grammi di oro anche se su una faccia della moneta c'è un fiore ed in un altra un castello.
 
-Usate la Tabella Valore delle gemme (pag. ) per determinare il valore delle gemme trovate. Qui sono elencate le gemme per valore.
+Usate la Tabella Valore delle gemme  per determinare il valore delle gemme trovate. Qui sono elencate le gemme per valore.
 
 **Gemme**: Anche se potete assegnare qualsiasi valore ad una gemma, alcune possono valere di più delle altre. Utilizzate le categorie di valore qui sotto (e le pietre preziose associate) come guida di riferimento quando assegnate i valori alle pietre preziose. Solitamente le gemme vengono vendute ed acquistate a valore pieno.
 
@@ -17386,15 +17359,16 @@ Quando è indicata una percentuale significa che è necessario fare uguale o men
 
 Es. una creatura è segnata come *Tesoro CT* **F** significa che nella sua tana, nascondiglio, ci sarà il 10\% di trovare 3d6 monete l'argento, il 40\% di trovare 1d6 monete d'oro ed 5 volte il 30\% di trovare un oggetto magici che non siano armi.
 
-Consultate poi la Tabella Tipologia Oggetto magico (pag. ) per tirare e scoprire quale oggetti magici aveva la creatura.
+Consultate poi la Tabella Tipologia Oggetto magico  per tirare e scoprire quale oggetti magici aveva la creatura.
 
 **Tabella: Composizione dei tesori**
 
 {\textwidth}{>{\bfseries}l|>
 	
-**Tesori da tana o nascondigli di creature** |  |  |  |  |  |  |
+
+| **Tesori da tana o nascondigli di creature** |  |  |  |  |  |  | |
+| --- | --- | --- | --- | --- | --- | --- |
 | CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Oggetti magici** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | x 1000 | x 1000 | x 1000 | x 100 |  |  | |
 | A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 qualsiasi, 30\% |
 | B | 1d6, 50\% | 1d3, 25\% | 2d10, 25\% | 1d10, 25\% | 1d8, 30\% | 1d4, 20\% | Armature o armi, 10\% |
@@ -17405,11 +17379,12 @@ Consultate poi la Tabella Tipologia Oggetto magico (pag. ) per tirare e scoprire
 | G | - | - | 2d10, 50\% | 1d10, 50\% | 3d6, 30\% | 1d6, 25\% | 5 qualsiasi 35\% |
 | H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 qualsiasi 15\% |
 | I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 qualsiasi 15\% |
+
 {\textwidth}{>{\bfseries}l|>
 
-**Tesori Individuali, piccole tane, zaini e borse** |  |  |  |  |  |  |
+| **Tesori Individuali, piccole tane, zaini e borse** |  |  |  |  |  |  | |
+| --- | --- | --- | --- | --- | --- | --- |
 | CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Oggetti magici** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | J | 3d8 | - | - | - | - | - | - |
 | K | - | 3d6 | - | - | - | - | - |
 | L | - | - | - | 2d6 | - | - | - |
@@ -17427,6 +17402,7 @@ Consultate poi la Tabella Tipologia Oggetto magico (pag. ) per tirare e scoprire
 | X | - | - | - | - | - | - | 2 pozioni |
 | Y | - | - | 1d6*100 | - | - | - | - |
 | Z | 1d3*100 | 1d4*100 | 1d6*100 | 1d4*100 | 1d6, 50\% | 2d6, 50\% | 3 qualsiasi, 50\% |
+
 Quando il tesoro è indicato da più lettere la creatura possiede entrambi i tesori indicati.
 
 Alcune creature particolarmente \emph potrebbero avere più volte lo stesso tesoro (2 H ovvero 2 volte il tesoro H).
@@ -17440,7 +17416,7 @@ Il Narratore nella preparazione dell'avventura può posizionare gli oggetti magi
 L'approccio esclusivamente casuale non è sempre suggerito, i risultati potrebbero stravolgere l'avventura se non tutta la campagna!
 Eppure Trovare una spada ammazzadraghi al primo livello siate certi che genererà avventure a non finire per i personaggi!
 
- %box narratore
+ 
 La Terra è un mondo a *raro* profilo magico, gli oggetti magici esistono ma sono rari ed ancor di più quelli più potenti. Mentre pozioni naturali e piccoli ninnoli possono essere trovati ovunque è solo cercando attivamente, andando nelle profondità che si possono trovare i tesori migliori.
 
 ### Valore delle Gemme e Gioielli
@@ -17457,6 +17433,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 | 13 | Giada | 22 | Rubino |
 | 14 | Peridoto | 23 | Diamante |
 | 15 | Granato | 24 | Pietra Leggendaria |
+
 **Tabella: tipologie di Gioielli**
 
 | **4d6** | **Bonus magico** |
@@ -17925,7 +17902,7 @@ Uno **scudo** dotato di questo incantamento emana una luce accecante per un mass
 
 **Requisiti:** Creare Oggetti Magici 2
 
-Un'**arma** Accumula Incantesimi permette a un incantatore di immagazzinare un incantesimo con bersaglio fino livello 3 nell'arma. L'incantesimo deve avere un tempo di lancio standard di 2 Azioni. Ogni volta che l'arma colpisce una creatura e quest'ultima subisce dei danni, chi impugna l'arma con una Azione Immediata può liberare l'incantesimo.
+Un' **arma** Accumula Incantesimi permette a un incantatore di immagazzinare un incantesimo con bersaglio fino livello 3 nell'arma. L'incantesimo deve avere un tempo di lancio standard di 2 Azioni. Ogni volta che l'arma colpisce una creatura e quest'ultima subisce dei danni, chi impugna l'arma con una Azione Immediata può liberare l'incantesimo.
 
 Una volta che l'incantesimo viene lanciato, un incantatore può immagazzinarvi all'interno qualsiasi altro incantesimo con bersaglio, sempre fino a livello 3.
 
@@ -17973,7 +17950,7 @@ mentre indossi questo **Mantello**, puoi usare due azioni per pronunciare la sua
 
 **Requisiti:** Creare Oggetti Magici 2
 
-Quando colpisci un drago con quest'**arma**, il drago subisce 3d6 danni aggiuntivi del tipo dell'arma. Ai fini di quest'arma, drago è qualsiasi creatura del tipo drago.
+Quando colpisci un drago con quest' **arma**, il drago subisce 3d6 danni aggiuntivi del tipo dell'arma. Ai fini di quest'arma, drago è qualsiasi creatura del tipo drago.
 
 ## Ammazza Giganti
 
@@ -17981,7 +17958,7 @@ Quando colpisci un drago con quest'**arma**, il drago subisce 3d6 danni aggiunti
 
 **Requisiti:** Creare Oggetti Magici 2
 
-Quando colpisci un gigante con quest'**arma**, il gigante subisce 2d6 danni aggiuntivi del tipo dell'arma e deve superare un Tiro Salvezza su Tempra con DC 18 o cadere prono. Ai fini di quest'arma, gigante è qualsiasi creatura del tipo gigante.
+Quando colpisci un gigante con quest' **arma**, il gigante subisce 2d6 danni aggiuntivi del tipo dell'arma e deve superare un Tiro Salvezza su Tempra con DC 18 o cadere prono. Ai fini di quest'arma, gigante è qualsiasi creatura del tipo gigante.
 
 ## Amorfa
 
@@ -17989,13 +17966,13 @@ Quando colpisci un gigante con quest'**arma**, il gigante subisce 2d6 danni aggi
 
 **Requisiti:** Creare Oggetti Magici 2, Metamorfosi,
 
-Una volta al giorno a comando, chi indossa l'**armatura** (insieme a qualsiasi equipaggiamento indossi) può assumere la forma di un liquido viscoso che è in grado di passare attraverso qualsiasi spazio nel quale potrebbe ragionevolmente scorrere del fango denso. Mentre si usa questa capacità, la propria velocità viene ridotta a 3 metri e si possono effettuare solo azioni di movimento. Si può assumere questa forma per 1 minuto o finché non si spende un'Azione di Movimento per tornare alla propria forma naturale. Un'armatura Amorfa deve essere fatta principalmente di cuoio, stoffa o altro materiale organico e flessibile.
+Una volta al giorno a comando, chi indossa l' **armatura** (insieme a qualsiasi equipaggiamento indossi) può assumere la forma di un liquido viscoso che è in grado di passare attraverso qualsiasi spazio nel quale potrebbe ragionevolmente scorrere del fango denso. Mentre si usa questa capacità, la propria velocità viene ridotta a 3 metri e si possono effettuare solo azioni di movimento. Si può assumere questa forma per 1 minuto o finché non si spende un'Azione di Movimento per tornare alla propria forma naturale. Un'armatura Amorfa deve essere fatta principalmente di cuoio, stoffa o altro materiale organico e flessibile.
 
 ## Ampolla delle maledizioni
 
 **Rarità:** Raro; **Costo:** 800 mo
 
-questo oggetto ha l'aspetto di una ampolla, bottiglia, caraffa, contenitore, fiasco, o brocca. Può contenere un liquido o emanare fumo. Quando l'**ampolla** viene stappata per la prima volta, tutte le creature entro 9 m vengono maledette.
+questo oggetto ha l'aspetto di una ampolla, bottiglia, caraffa, contenitore, fiasco, o brocca. Può contenere un liquido o emanare fumo. Quando l' **ampolla** viene stappata per la prima volta, tutte le creature entro 9 m vengono maledette.
 
 ## Ampolla di Ferro
 
@@ -18080,7 +18057,7 @@ mentre indossi questo **amuleto** sei celato alla magia di divinazione. Non puoi
 
 **Requisiti:** Creare Oggetti Magici 2, Lista Abiurazione
 
-Un'**arma** Anatema eccelle nell'attaccare certe creature. Contro il nemico prescelto, il suo bonus effettivo diventa di +2. L'arma, inoltre, infligge un danno critico automaticamente contro tale nemico. Per determinare casualmente il nemico prescelto dell'arma si usa la tabella seguente:
+Un' **arma** Anatema eccelle nell'attaccare certe creature. Contro il nemico prescelto, il suo bonus effettivo diventa di +2. L'arma, inoltre, infligge un danno critico automaticamente contro tale nemico. Per determinare casualmente il nemico prescelto dell'arma si usa la tabella seguente:
 
 | d\% | Nemico prescelto |
 | 01-05 | Aberrazioni |
@@ -18112,7 +18089,7 @@ Per caricare l'incantesimo nell'anello l'incantatore deve mirare all'anello per 
 
 **Requisiti:** Creare Oggetti Magici 2, Aura Magica
 
-Un Anello d'**arma** può essere applicato solo ad armi da mischia. Quando inserito nell'elsa dell'arma il personaggio può due volte al giorno usare 1 Azione e fare diventare l'arma magica +1 per 10 round. Tale abilità non può essere attivata su oggetti che abbiano già un bonus magico.
+Un Anello d' **arma** può essere applicato solo ad armi da mischia. Quando inserito nell'elsa dell'arma il personaggio può due volte al giorno usare 1 Azione e fare diventare l'arma magica +1 per 10 round. Tale abilità non può essere attivata su oggetti che abbiano già un bonus magico.
 La capacità dell'Anello d'Arma si ricarica all'alba. L'anello d'arma non si conta nei limiti per indossare anelli.
 
 ## Anello d'Arma maggiore
@@ -18121,7 +18098,7 @@ La capacità dell'Anello d'Arma si ricarica all'alba. L'anello d'arma non si con
 
 **Requisiti:** Creare Oggetti Magici 2, Aura Magica
 
-Un Anello d'**arma** maggiore può essere applicato solo ad armi da mischia ed ha un solo potere. Quando viene trovato è necessario tirare sulla tabella sottostante per determinare il tipo di talento che conferisce l'anello. L'anello d'arma non si conta nei limiti per indossare anelli. Un arma può avere un numero di Anelli d'Arma massimo pari al suo bonus magico.
+Un Anello d' **arma** maggiore può essere applicato solo ad armi da mischia ed ha un solo potere. Quando viene trovato è necessario tirare sulla tabella sottostante per determinare il tipo di talento che conferisce l'anello. L'anello d'arma non si conta nei limiti per indossare anelli. Un arma può avere un numero di Anelli d'Arma massimo pari al suo bonus magico.
 
 | **1d100** | **Talento** | **1d100** | **Talento** |
 | 1-6 | Maledetta -2 | 55-60 | Folgorante |
@@ -18133,7 +18110,8 @@ Un Anello d'**arma** maggiore può essere applicato solo ad armi da mischia ed h
 | 37-42 | Arma Titanica | 91-96 | Tonante |
 | 43-48 | Caos | 97-100 | Trasformante |
 | 49-54 | Corrosiva |  | |
-Quando inserito nell'elsa dell'**arma** il personaggio può due volte al giorno usare 1 Azione e aggiungere all'arma il talento tirato, per 10 round. Se l'arma non è almeno magica +1 diventa magica +1. La capacità dell'Anello d'Arma maggiore si ricarica all'alba.
+
+Quando inserito nell'elsa dell' **arma** il personaggio può due volte al giorno usare 1 Azione e aggiungere all'arma il talento tirato, per 10 round. Se l'arma non è almeno magica +1 diventa magica +1. La capacità dell'Anello d'Arma maggiore si ricarica all'alba.
 
 ## Anello degli Elementali del Fuoco
 
@@ -18213,7 +18191,7 @@ Gli incantesimi lanciati tramite l'anello hanno DC del Tiro Salvezza 21.
 
 **Rarità:** Leggendario; **Costo:** 75000 mo
 
-mentre indossi quest'**anello**, puoi usare due azioni per spendere 1 delle sue 1d3 cariche per lanciare tramite esso l'incantesimo desiderio. L'anello perde la sua magia quando usi l'ultima carica.
+mentre indossi quest' **anello**, puoi usare due azioni per spendere 1 delle sue 1d3 cariche per lanciare tramite esso l'incantesimo desiderio. L'anello perde la sua magia quando usi l'ultima carica.
 
 ## Anello del Calore
 
@@ -18261,7 +18239,7 @@ Questo anello ha 3 cariche, e recupera 1 carica spesa ogni mattina all'alba.
 
 **Rarità:** Leggendario; **Costo:** 35000 mo
 
-mentre indossi quest'**anello**, puoi pronunciarne la parola di comando, con due azioni, per evocare uno specifico djinni del Piano Elementale dell'Aria. Lo djinni compare in uno spazio non occupato a tua scelta, entro 36 metri da te. Resta finché rimani concentrato (come se ti concentrassi su di un incantesimo), per un massimo di 1 ora, o finché non scende a 0 Punti Ferita. Poi ritorna al suo piano natio.
+mentre indossi quest' **anello**, puoi pronunciarne la parola di comando, con due azioni, per evocare uno specifico djinni del Piano Elementale dell'Aria. Lo djinni compare in uno spazio non occupato a tua scelta, entro 36 metri da te. Resta finché rimani concentrato (come se ti concentrassi su di un incantesimo), per un massimo di 1 ora, o finché non scende a 0 Punti Ferita. Poi ritorna al suo piano natio.
 
 Finché resta evocato, lo djinni è amichevole verso di te e i tuoi compagni. Obbedisce a qualsiasi comando gli dai, non importa la lingua usata. Se non gli impartisci ordini, lo djinni si difenderà dagli attacchi ma non effettuerà nessun'altra Azione.
 
@@ -18340,7 +18318,7 @@ Questo anello ha 3 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
 **Rarità:** Molto Raro; **Costo:** 10000 mo
 
-mentre indossi quest'**anello**, puoi renderti invisibile con due azioni. Tutto ciò che indossi o trasporti diventa invisibile assieme a te. Resti invisibile finché l'anello non viene rimosso, attacchi o lanci un incantesimo, o finché non usi due azioni per tornare visibile. L'anello è usabile 3 volte al giorno.
+mentre indossi quest' **anello**, puoi renderti invisibile con due azioni. Tutto ciò che indossi o trasporti diventa invisibile assieme a te. Resti invisibile finché l'anello non viene rimosso, attacchi o lanci un incantesimo, o finché non usi due azioni per tornare visibile. L'anello è usabile 3 volte al giorno.
 
 ## Anello di Libertà di Azione
 
@@ -18388,13 +18366,13 @@ mentre indossi questo **anello**, puoi lanciare a volontà l'incantesimo *teleci
 
 **Rarità:** Leggendario; **Costo:** 35000 mo
 
-mentre indossi quest'**anello**, hai +1d6 ai Tiri Salvezza contro qualsiasi incantesimo che prende come bersaglio solo te e non un'area di effetto. Inoltre, se fai un Successo Critico Salvezza e l'incantesimo ha livello 5 o più basso, l'incantesimo non ha effetto su di te e invece prende come bersaglio l'incantatore che ha lanciato l'incantesimo.
+mentre indossi quest' **anello**, hai +1d6 ai Tiri Salvezza contro qualsiasi incantesimo che prende come bersaglio solo te e non un'area di effetto. Inoltre, se fai un Successo Critico Salvezza e l'incantesimo ha livello 5 o più basso, l'incantesimo non ha effetto su di te e invece prende come bersaglio l'incantatore che ha lanciato l'incantesimo.
 
 ## Anfora elementale dell'acqua
 
 **Rarità:** Raro; **Costo:** 2500 mo
 
-quest'**anfora** può essere usata per evocare e controllare un elementale dell'acqua in modo analogo all'incantesimo evoca elementale. È necessario preparare l'oggetto magico e condurre un rituale per un round prima dell'evocazione vera e propria, che richiede un round. Dopo che l'elementale è stato evocato, occorre mantenere la concentrazione per potergli impartire gli ordini. L'anfora è usabile una volta al giorno.
+quest' **anfora** può essere usata per evocare e controllare un elementale dell'acqua in modo analogo all'incantesimo evoca elementale. È necessario preparare l'oggetto magico e condurre un rituale per un round prima dell'evocazione vera e propria, che richiede un round. Dopo che l'elementale è stato evocato, occorre mantenere la concentrazione per potergli impartire gli ordini. L'anfora è usabile una volta al giorno.
 
 ## Antiemorragica
 
@@ -18402,7 +18380,7 @@ quest'**anfora** può essere usata per evocare e controllare un elementale dell'
 
 **Requisiti:** Creare Oggetti Magici 2, Cura Ferite 5, Cura Ferite
 
-Un'**armatura** Antiemorragica aiuta a fermare la perdita di sangue dalle ferite di chi la indossa. Un'armatura Antiemorragica riduce i danni da Sanguinamento di 1 ogni fine round.
+Un' **armatura** Antiemorragica aiuta a fermare la perdita di sangue dalle ferite di chi la indossa. Un'armatura Antiemorragica riduce i danni da Sanguinamento di 1 ogni fine round.
 
 ## Apparato del Granchio
 
@@ -18452,7 +18430,7 @@ Questi **scudi** sono molto solidi e spesso recano l'emblema di un ariete o un t
 
 *Arma (qualsiasi)* +1 1800 mo, +2 6000 mo, +3 17000 mo, +4 45000 mo, +5 80000 mo
 
-Hai un bonus ai Tiri per Colpire e ai tiri di danno effettuati con quest'**arma**. Il bonus è determinato dalla rarità dell'arma. Alcune armi magiche possiedono delle ulteriori proprietà, come l'emettere luce.
+Hai un bonus ai Tiri per Colpire e ai tiri di danno effettuati con quest' **arma**. Il bonus è determinato dalla rarità dell'arma. Alcune armi magiche possiedono delle ulteriori proprietà, come l'emettere luce.
 
 ## Armatura / Scudo Magico
 
@@ -18468,7 +18446,7 @@ Mentre impugni questo **scudo**/**armatura**, hai un bonus alla Difesa determina
 
 **Requisiti:** Creare Oggetti Magici 2 ; **Rarità:** Rara
 
-Mentre indossi l'**armatura** puoi comprendere e parlare l'Abissale. Inoltre, le manopole artigliate dell'armatura trasformano i colpi disarmati effettuati con le tue mani in armi magiche che infliggono danni taglienti, con un bonus di +1 ai Tiri per Colpire e ai tiri di danno e il d6 come dado di danno.
+Mentre indossi l' **armatura** puoi comprendere e parlare l'Abissale. Inoltre, le manopole artigliate dell'armatura trasformano i colpi disarmati effettuati con le tue mani in armi magiche che infliggono danni taglienti, con un bonus di +1 ai Tiri per Colpire e ai tiri di danno e il d6 come dado di danno.
 
 ## Bacchetta Cerca metalli
 
@@ -18613,7 +18591,9 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | 26-30 | Lanci l'incantesimo Nebbia Nauseante. |
 | 31-33 | Pioggia abbondante precipita in un raggio di 18 metri centrato sul bersaglio. L'area diventa oscurata leggermente. La pioggia continua a cadere fino all'inizio del tuo prossimo round. |
 | 34-36 | Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. |
+
 | Tira un d100 per determinare che specie di animale compaia 01-25, un rinoceronte; 26-50, un elefante; 51-100, un ratto.
+
 | 37-46 | Lanci Fulmine. |
 | 47-49 | Una nube di 600 enormi farfalle riempie un raggio di 9 metri intorno al bersaglio. L'area diventa oscurata pesantemente e fornisce copertura totale. Le farfalle restano per 10 minuti. |
 | 50-53 | Ingrandisci il bersaglio come se avessi lanciato l'incantesimo ingrandire/ridurre. Se il bersaglio non può essere soggetto all'incantesimo, o se non è una creatura, tu diventi il bersaglio. |
@@ -18625,11 +18605,14 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | 80-84 | Lanci l'incantesimo Invisibilità su di te. |
 | 85-87 | Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore. |
 | 88-90 | Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. |
+
 | Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea.
+
 | 91-95 | Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. |
 
 | 96-97 | La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto. |
 | 98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
+
 ## Bacchetta delle Palle di Fuoco
 
 **Rarità:** Raro; **Costo:** 32000 mo
@@ -18987,7 +18970,7 @@ Questa armatura va pulita almeno 1 volta al giorno o perde i poteri per una sett
 
 **Rarità:** Non Comune; **Costo:** 12000 mo
 
-12000 mo, quest'**ampolla** tappata emette un suono di liquido quando viene smossa, come se contenesse acqua. La brocca pesa 1 chilo, ingombro 2. Puoi usare due azioni per rimuovere il tappo e pronunciare una delle tre parole di comando, e a quel punto un ammontare di acqua fresca o acqua salata (a tua scelta) si riverserà fuori dell'ampolla, fino all'inizio del tuo prossimo round. Scegli una delle opzioni seguenti:
+12000 mo, quest' **ampolla** tappata emette un suono di liquido quando viene smossa, come se contenesse acqua. La brocca pesa 1 chilo, ingombro 2. Puoi usare due azioni per rimuovere il tappo e pronunciare una delle tre parole di comando, e a quel punto un ammontare di acqua fresca o acqua salata (a tua scelta) si riverserà fuori dell'ampolla, fino all'inizio del tuo prossimo round. Scegli una delle opzioni seguenti:
 
 - *Ruscello* produce 4 litri d'acqua.
 - *Fontana* produce 20 litri d'acqua.
@@ -19143,7 +19126,7 @@ questa **collana** sembra un gioiello di grande valore. Appena indossata, si str
 
 **Requisiti:** Creare Oggetti Magici, Eroismo, Paura
 
-Questa capacità speciale può essere aggiunta solo a un'**arma** da mischia. Un'arma Coraggiosa fortifica il coraggio e il morale in battaglia di chi la indossa. Chi la impugna ottiene un Bonus ai Tiri Salvezza contro Paura pari al bonus dell'arma.
+Questa capacità speciale può essere aggiunta solo a un' **arma** da mischia. Un'arma Coraggiosa fortifica il coraggio e il morale in battaglia di chi la indossa. Chi la impugna ottiene un Bonus ai Tiri Salvezza contro Paura pari al bonus dell'arma.
 
 ## Corda da Arrampicata
 
@@ -19187,7 +19170,7 @@ Ogni uso della magia del corno ha il 20\% di probabilità di farlo esplodere. L'
 
 **Requisiti:** Creare Oggetti Magici, Freccia Acida di Restser
 
-Un'**arma** Corrosiva è coperta da uno strato di acido che infligge 1d6 danni aggiuntivi da acido quando colpisce il bersaglio. L'acido non danneggia chi la impugna.
+Un' **arma** Corrosiva è coperta da uno strato di acido che infligge 1d6 danni aggiuntivi da acido quando colpisce il bersaglio. L'acido non danneggia chi la impugna.
 
 ## Cubo di Forza
 
@@ -19233,7 +19216,7 @@ questo **ciondolo** cubico si attiva e si disattiva premendone una faccia (Azion
 
 **Requisiti:** Creare Oggetti Magici 2, Animare Oggetti
 
-Con 2 Azioni un'**arma** Danzante può essere lasciata libera in modo che combatta da sola. L'arma combatte per 4 round usando il bonus al Tiro per Colpire di colui che l'ha lasciata libera e poi cade a terra.
+Con 2 Azioni un' **arma** Danzante può essere lasciata libera in modo che combatta da sola. L'arma combatte per 4 round usando il bonus al Tiro per Colpire di colui che l'ha lasciata libera e poi cade a terra.
 
 Rimane sempre accanto alla persona che l'ha liberata, anche se si sposta con mezzi fisici o magici. Se colui che l'ha lasciata libera ha una mano libera può riprendere l'arma che sta attaccando da sola, come Azione Immediata, ma una volta ripresa, la spada non potrà più danzare (attaccare da sola) prima di 4 round.
 
@@ -19253,7 +19236,7 @@ Questa capacità può essere aggiunta solo ad **armi** da mischia. Quando un'arm
 
 **Requisiti:** Creare Oggetti Magici 2; **Rarità:** Rara
 
-Quando colui che indossa l'**armatura** è bersaglio di un Colpo Critico o Esplosione del danno effettuato con un'arma da mischia, può automaticamente negare questo Critico e renderlo un attacco normale. Questa capacità può essere applicata solo alle armature pesanti. L'abilità è usabile un numero di volte al giorno pari al bonus magico dell'armatura/scudo.
+Quando colui che indossa l' **armatura** è bersaglio di un Colpo Critico o Esplosione del danno effettuato con un'arma da mischia, può automaticamente negare questo Critico e renderlo un attacco normale. Questa capacità può essere applicata solo alle armature pesanti. L'abilità è usabile un numero di volte al giorno pari al bonus magico dell'armatura/scudo.
 
 ## Determinazione
 
@@ -19261,7 +19244,7 @@ Quando colui che indossa l'**armatura** è bersaglio di un Colpo Critico o Esplo
 
 **Requisiti:** Creare Oggetti Magici 2, Cura ferite; **Rarità:** Non Comune
 
-Uno **scudo** o un'**armatura** concede la capacità di combattere in circostanze apparentemente impossibili. Una volta al giorno, quando il possessore raggiungere 0 o meno Punti Ferita, l'oggetto attiva automaticamente l'incantesimo Cure ferite 2.
+Uno **scudo** o un' **armatura** concede la capacità di combattere in circostanze apparentemente impossibili. Una volta al giorno, quando il possessore raggiungere 0 o meno Punti Ferita, l'oggetto attiva automaticamente l'incantesimo Cure ferite 2.
 
 ## Difensiva
 
@@ -19269,7 +19252,7 @@ Uno **scudo** o un'**armatura** concede la capacità di combattere in circostanz
 
 **Requisiti:** Creare Oggetti Magici 2, Scudo
 
-Un'**arma** Difensiva permette a chi la impugna di trasferire una parte o tutto il bonus dell'arma alla propria Difesa come un bonus cumulabile con eventuali altri bonus. Come Azione Immediata ad inizio del proprio round chi la impugna può scegliere di trasferire parte o tutto del bonus al colpire dell'arma come bonus alla Difesa e Tiri Salvezza. I punteggio dei bonus rimangono validi fino all'inizio del round successivo.
+Un' **arma** Difensiva permette a chi la impugna di trasferire una parte o tutto il bonus dell'arma alla propria Difesa come un bonus cumulabile con eventuali altri bonus. Come Azione Immediata ad inizio del proprio round chi la impugna può scegliere di trasferire parte o tutto del bonus al colpire dell'arma come bonus alla Difesa e Tiri Salvezza. I punteggio dei bonus rimangono validi fino all'inizio del round successivo.
 
 ## Difesa dagli Incantesimi
 
@@ -19309,7 +19292,7 @@ Il martello ha 5 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
 **Requisiti:** Creare Oggetti Magici 2, Guarigione
 
-Un'**arma** della Distruzione è la rovina di tutti i Non Morti. Ogni creatura Non Morta colpita in combattimento deve superare un Tiro Salvezza su Volontà con DC 14 o viene distrutta o subire 2d8 di danni aggiuntivi da Luce. Un'arma della Distruzione deve essere un'arma da mischia contundente.
+Un' **arma** della Distruzione è la rovina di tutti i Non Morti. Ogni creatura Non Morta colpita in combattimento deve superare un Tiro Salvezza su Volontà con DC 14 o viene distrutta o subire 2d8 di danni aggiuntivi da Luce. Un'arma della Distruzione deve essere un'arma da mischia contundente.
 
 ## Elegante
 
@@ -19317,7 +19300,7 @@ Un'**arma** della Distruzione è la rovina di tutti i Non Morti. Ogni creatura N
 
 **Requisiti:** Creare Oggetti Magici 2; **Rarità:** Comune
 
-Puoi usare due azioni per pronunciare la parola di comando per ottenere che l'**armatura** assuma l'aspetto di un comune abito o qualche altro tipo di armatura. Decidi tu l'aspetto, compreso il colore, lo stile e gli accessori, ma l'armatura / scudo mantiene il suo normale Ingombro e peso. L'aspetto illusorio dura finché non usi di nuovo questa proprietà o ti togli l'armatura.
+Puoi usare due azioni per pronunciare la parola di comando per ottenere che l' **armatura** assuma l'aspetto di un comune abito o qualche altro tipo di armatura. Decidi tu l'aspetto, compreso il colore, lo stile e gli accessori, ma l'armatura / scudo mantiene il suo normale Ingombro e peso. L'aspetto illusorio dura finché non usi di nuovo questa proprietà o ti togli l'armatura.
 
 ## Elmo del Movimento subacqueo
 
@@ -19438,7 +19421,7 @@ chi beve questa **pozione** può percepire entro 72 metri i tesori che contengon
 
 **Requisiti:** Creare Oggetti Magici 2, Fulmine
 
-A comando, un'**arma** Folgorante viene avvolta da elettricità crepitante che infligge 1d6 danni addizionali da elettricità per ogni colpo andato a segno. Quest'elettricità non danneggia chi impugna l'arma. L'effetto rimane sempre attivo finché l'arma è sguainata, l'arma è immune ai danni da elettricità.
+A comando, un' **arma** Folgorante viene avvolta da elettricità crepitante che infligge 1d6 danni addizionali da elettricità per ogni colpo andato a segno. Quest'elettricità non danneggia chi impugna l'arma. L'effetto rimane sempre attivo finché l'arma è sguainata, l'arma è immune ai danni da elettricità.
 
 ## Forma Eterea
 
@@ -19446,7 +19429,7 @@ A comando, un'**arma** Folgorante viene avvolta da elettricità crepitante che i
 
 **Requisiti:** Creare Oggetti Magici 3, Forma Eterea; **Rarità:** Rara
 
-A comando, questa proprietà permette a chi indossa l'**armatura** di diventare Etereo (come per l'incantesimo Forma Eterea) una volta al giorno. Il personaggio può rimanere Etereo per quanto tempo desidera ma, una volta tornato alla normalità, per quel giorno non può più diventare Etereo.
+A comando, questa proprietà permette a chi indossa l' **armatura** di diventare Etereo (come per l'incantesimo Forma Eterea) una volta al giorno. Il personaggio può rimanere Etereo per quanto tempo desidera ma, una volta tornato alla normalità, per quel giorno non può più diventare Etereo.
 
 ## Fortezza Istantanea
 
@@ -19486,7 +19469,7 @@ questa **freccia** può essere usata fino ad 8 volte al giorno. Essa viene lanci
 
 **Requisiti:** Creare Oggetti Magici 2, Lista dell'Acqua
 
-A comando, un'**arma** Gelida viene avvolta da un gelo terribile che infligge 1d6 danni da freddo per ogni colpo andato a segno. Questo freddo non danneggia chi impugna l'arma. L'effetto rimane sempre attivo finché l'arma è sguainata. L'arma è immune ai danni da freddo.
+A comando, un' **arma** Gelida viene avvolta da un gelo terribile che infligge 1d6 danni da freddo per ogni colpo andato a segno. Questo freddo non danneggia chi impugna l'arma. L'effetto rimane sempre attivo finché l'arma è sguainata. L'arma è immune ai danni da freddo.
 
 ## Gemma della Luminosità
 
@@ -19533,7 +19516,7 @@ questo **gioiello** magico è maledetto, il possessore attrae i mostri vaganti c
 
 **Requisiti:** Creare Oggetti Magici, Cecità/Sordità, Luce Diurna
 
-Un'**arma** Gloriosa illumina con una luce abbagliante pari a quella un incantesimo Luce Diurna quando viene estratta. Chi la impugna non può sopprimere questa luce, anche se può essere soppressa temporaneamente da qualsiasi effetto che può sopprimere Luce Diurna.
+Un' **arma** Gloriosa illumina con una luce abbagliante pari a quella un incantesimo Luce Diurna quando viene estratta. Chi la impugna non può sopprimere questa luce, anche se può essere soppressa temporaneamente da qualsiasi effetto che può sopprimere Luce Diurna.
 
 Quando un'arma Gloriosa effettua un Colpo Critico, il bersaglio è Accecato fino all'inizio del round successivo del possessore (Tempra DC 14 nega). Solo un'arma da mischia può avere la capacità Gloriosa.
 
@@ -19577,19 +19560,19 @@ Questa capacità può essere aggiunta solo ad **armi** da mischia. Un'arma Guard
 
 **Rarità:** Raro; **Costo:** 8000 mo
 
-mentre l'**incenso** brucia all'interno di questo incensiere, puoi usare due azioni per pronunciare la parola di comando del braciere ed evocare un elementale dell'aria, come se avessi lanciato l'incantesimo Evoca Elementale. L'incensiere non può di nuovo essere usato a questo modo fino alla prossima alba. Questo incensiere largo 15 centimetri e alto 30 centimetri assomiglia a un calice dalla copertura decorata. Pesa 0,5 chili, ingombro L.
+mentre l' **incenso** brucia all'interno di questo incensiere, puoi usare due azioni per pronunciare la parola di comando del braciere ed evocare un elementale dell'aria, come se avessi lanciato l'incantesimo Evoca Elementale. L'incensiere non può di nuovo essere usato a questo modo fino alla prossima alba. Questo incensiere largo 15 centimetri e alto 30 centimetri assomiglia a un calice dalla copertura decorata. Pesa 0,5 chili, ingombro L.
 
 ## Incenso dell'Ossessione
 
 **Rarità:** Raro
 
-raro, del tutto simile all'**incenso** della meditazione, questo incenso dà a chi lo usa anche l'impressione del suo effetto, ma sarà sotto Confusione per 24 ore se fallisce un Tiro Salvezza su Volontà DC 23.
+raro, del tutto simile all' **incenso** della meditazione, questo incenso dà a chi lo usa anche l'impressione del suo effetto, ma sarà sotto Confusione per 24 ore se fallisce un Tiro Salvezza su Volontà DC 23.
 
 ## Incenso della meditazione
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
-questo blocchetto d'**incenso** dal profumo dolce è indistinguibile dal normale incenso finché non viene acceso. Quando brucia, la sua particolare fragranza e il suo fumo chiaro sono riconoscibili con una prova di Arcana a DC 15. Dopo che un incantatore avrà trascorso 8 ore ripassando sul Tomo e meditando nei pressi di un blocchetto acceso il costo in Punti Magia degli incantesimi diminuirà di 1 punto per le successive 8 ore. Ogni blocchetto d'incenso brucia per 8 ore e l'effetto persiste per altre 8 ore. Di solito si trovano 2d4 blocchetti di incenso nella stessa custodia.
+questo blocchetto d' **incenso** dal profumo dolce è indistinguibile dal normale incenso finché non viene acceso. Quando brucia, la sua particolare fragranza e il suo fumo chiaro sono riconoscibili con una prova di Arcana a DC 15. Dopo che un incantatore avrà trascorso 8 ore ripassando sul Tomo e meditando nei pressi di un blocchetto acceso il costo in Punti Magia degli incantesimi diminuirà di 1 punto per le successive 8 ore. Ogni blocchetto d'incenso brucia per 8 ore e l'effetto persiste per altre 8 ore. Di solito si trovano 2d4 blocchetti di incenso nella stessa custodia.
 
 ## Invulnerabilità
 
@@ -19605,7 +19588,7 @@ Questa **armatura** garantisce a chi la indossa una Riduzione del Danno di 5/mag
 
 **Requisiti:** Creare Oggetti Magici, Passare Senza Tracce; **Rarità:** Rara
 
-Un'**armatura** Irrintracciabile alleggerisce i passi di chi la indossa e ne camuffa l'aspetto. Le prove di Sopravvivenza per seguire le tracce del portatore subiscono penalità -4, e chi indossa l'armatura ottiene Bonus di +4 alle prove di Furtività. Soltanto le armature di cuoio o di pelle possono essere Irrintracciabili.
+Un' **armatura** Irrintracciabile alleggerisce i passi di chi la indossa e ne camuffa l'aspetto. Le prove di Sopravvivenza per seguire le tracce del portatore subiscono penalità -4, e chi indossa l'armatura ottiene Bonus di +4 alle prove di Furtività. Soltanto le armature di cuoio o di pelle possono essere Irrintracciabili.
 
 ## Ladra delle Nove Vite
 
@@ -19613,7 +19596,7 @@ Un'**armatura** Irrintracciabile alleggerisce i passi di chi la indossa e ne cam
 
 **Requisiti:** Creare Oggetti Magici 2, Tocco Vampirico
 
-Ottieni un bonus di +2 ai Tiri per Colpire e danno effettuati con quest'**arma** magica. Se ottieni un colpo critico contro una creatura che ha meno di 100 Punti Ferita, questa deve superare un tiro Salvezza su Tempra con DC 17 o venire immediatamente uccisa, mentre la spada ne risucchia la forza vitale dal corpo (i costrutti e i non morti sono immuni a questa proprietà).
+Ottieni un bonus di +2 ai Tiri per Colpire e danno effettuati con quest' **arma** magica. Se ottieni un colpo critico contro una creatura che ha meno di 100 Punti Ferita, questa deve superare un tiro Salvezza su Tempra con DC 17 o venire immediatamente uccisa, mentre la spada ne risucchia la forza vitale dal corpo (i costrutti e i non morti sono immuni a questa proprietà).
 
 La spada ha 1d8 + 1 cariche e perde 1 carica quando una creatura viene uccisa. Quando la spada non ha più cariche, perde questa proprietà.
 
@@ -19631,7 +19614,7 @@ Puoi usare due azioni per abbassare la copertura, riducendo la luce a fioca con 
 
 **Requisiti:** Creare Oggetti Magici 2, Palla di Fuoco
 
-A comando, un'**arma** fiammeggiante viene avvolta da fiamme che infliggono 1d6 danni da fuoco per ogni colpo andato a segno. Questo fuoco non danneggia chi impugna l'arma. L'effetto rimane attivo finché non viene disattivato con un altro comando. L'arma è immune ai danni da fuoco.
+A comando, un' **arma** fiammeggiante viene avvolta da fiamme che infliggono 1d6 danni da fuoco per ogni colpo andato a segno. Questo fuoco non danneggia chi impugna l'arma. L'effetto rimane attivo finché non viene disattivato con un altro comando. L'arma è immune ai danni da fuoco.
 
 ## Mantella del Ciarlatano
 
@@ -19741,7 +19724,7 @@ Questa capacità speciale può essere aggiunta solo ad **armi** da mischia. Un'a
 
 **Requisiti:** Creare Oggetti Magici 2
 
-Ottieni un ulteriore +3 al colpire e danno quando usi quest'**arma** per attaccare un costrutto.
+Ottieni un ulteriore +3 al colpire e danno quando usi quest' **arma** per attaccare un costrutto.
 
 Quando ottieni un critico al Tiro per Colpire con quest'arma, il bersaglio subisce un critico aggiuntivo, o 2 Tiri Critici aggiuntivi se è un costrutto. Se, dopo aver subito questi danni, a un costrutto restano 25 Punti Ferita o meno, viene distrutto.
 
@@ -19791,6 +19774,7 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 | Otto di fiori | Orco |
 | Due di fiori | Coboldo |
 | Jolly (2) | Tu (il proprietario del mazzo) |
+
 ## Mazzo delle Meraviglie
 
 **Rarità:** Leggendario; **Costo:** 100000 mo
@@ -19827,6 +19811,7 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 | Regina di picche | Eurialo |
 | Due di picche | Bilancia* |
 | Jolly | Matto* |
+
 * Solo in mazzo da 22 **carte**
 
 - **Artigli**: Tutti gli oggetti magici indossati o trasportati dal personaggio si disintegrano. Gli artefatti posseduti dal personaggio non si disintegrano ma svaniscono.
@@ -19970,7 +19955,7 @@ A differenza di una normale munizione per arco o balestra, queste frecce e quadr
 
 **Requisiti:** Creare Oggetti Magici 2, Arma Magica, Camuffare Se Stesso
 
-Ad un'**arma** Mutaforma può essere comandato di mutare la sua forma e apparire come un altro oggetto di taglia simile. L'arma conserva tutte le sue proprietà (compreso il peso) anche quando è mascherata, ma non irradia magia. Solo Visione del Vero o altre magie simili rivelano la reale natura dell'arma trasformata. Dopo che un'arma Mutaforma è stata usata per attaccare, questa capacità speciale viene soppressa per 1 minuto.
+Ad un' **arma** Mutaforma può essere comandato di mutare la sua forma e apparire come un altro oggetto di taglia simile. L'arma conserva tutte le sue proprietà (compreso il peso) anche quando è mascherata, ma non irradia magia. Solo Visione del Vero o altre magie simili rivelano la reale natura dell'arma trasformata. Dopo che un'arma Mutaforma è stata usata per attaccare, questa capacità speciale viene soppressa per 1 minuto.
 
 ## Occhi Affascinanti
 
@@ -20004,7 +19989,7 @@ mentre indossi queste **lenti** scure, possiedi la scurovisione, con una gittata
 
 **Rarità:** Molto Raro; **Costo:** 3200 mo
 
-quest'**olio** può ricoprire un'arma tagliente o perforante o fino a 5 munizioni taglienti o perforanti. Applicare l'olio richiede 1 minuto. Per 1 ora, l'arma ricoperta dall'olio è magica e ha un bonus di +3 ai Tiri per Colpire e danno.
+quest' **olio** può ricoprire un'arma tagliente o perforante o fino a 5 munizioni taglienti o perforanti. Applicare l'olio richiede 1 minuto. Per 1 ora, l'arma ricoperta dall'olio è magica e ha un bonus di +3 ai Tiri per Colpire e danno.
 
 ## Olio di Forma Eterea
 
@@ -20016,7 +20001,7 @@ una dose di **olio** è sufficiente a ricoprire una creatura di taglia Media o i
 
 **Rarità:** Non Comune; **Costo:** 500 mo
 
-l'**olio** può coprire una creatura di taglia Media o inferiore, insieme a tutto l'equipaggiamento che indossa o trasporta (è necessaria un'ulteriore fiala per ogni categoria di taglia sopra la Media). Applicare l'olio richiede 10 minuti. La creatura ottiene poi il beneficio dell'incantesimo libertà di movimento per 8 ore. In alternativa, con due azioni si può versare l'olio sul terreno, duplicando per 8 ore l'effetto dell'incantesimo unto su quell'area.
+l' **olio** può coprire una creatura di taglia Media o inferiore, insieme a tutto l'equipaggiamento che indossa o trasporta (è necessaria un'ulteriore fiala per ogni categoria di taglia sopra la Media). Applicare l'olio richiede 10 minuti. La creatura ottiene poi il beneficio dell'incantesimo libertà di movimento per 8 ore. In alternativa, con due azioni si può versare l'olio sul terreno, duplicando per 8 ore l'effetto dell'incantesimo unto su quell'area.
 
 ## Ombra
 
@@ -20024,7 +20009,7 @@ l'**olio** può coprire una creatura di taglia Media o inferiore, insieme a tutt
 
 **Requisiti:** Creare Oggetti Magici, Invisibilità, Silenzio; **Rarità:** Non Comune
 
-Quest'**armatura** rende chi la indossa sfocato ogni volta che tenta di nascondersi, fornendo bonus di +4 alle sue prove di Furtività per nascondersi. La penalità di armatura alla prova si applica normalmente.
+Quest' **armatura** rende chi la indossa sfocato ogni volta che tenta di nascondersi, fornendo bonus di +4 alle sue prove di Furtività per nascondersi. La penalità di armatura alla prova si applica normalmente.
 
 ## Ospitale
 
@@ -20032,7 +20017,7 @@ Quest'**armatura** rende chi la indossa sfocato ogni volta che tenta di nasconde
 
 **Requisiti:** Creare Oggetti Magici 2, Scrigno Segreto; **Rarità:** Leggendario
 
-Un'**armatura** o uno scudo con questa capacità speciale nasconde animali vivi all'interno della sua iconografia per tenerli al sicuro. Il portatore con una parola di comando immagazzina magicamente un animale a cui è legato, come un Famiglio o una Cavalcatura. L'animale immagazzinato appare come simbolo sull'armatura o sullo scudo, che si tratti di un'imitazione dell'aspetto dell'animale o di una rappresentazione più simbolica e astratta.
+Un' **armatura** o uno scudo con questa capacità speciale nasconde animali vivi all'interno della sua iconografia per tenerli al sicuro. Il portatore con una parola di comando immagazzina magicamente un animale a cui è legato, come un Famiglio o una Cavalcatura. L'animale immagazzinato appare come simbolo sull'armatura o sullo scudo, che si tratti di un'imitazione dell'aspetto dell'animale o di una rappresentazione più simbolica e astratta.
 
 Mentre è immagazzinato, l'animale dorme e non dà alcun beneficio (come il bonus alle competenze di un Famiglio) a chi la indossa. La taglia degli animali immagazzinabili dipende dal tipo di armatura o scudo. Le armature leggere o medie e gli scudi leggeri o pesanti possono immagazzinare un animale di taglia massima pari a quella di chi li indossa. Un'armatura pesante o uno scudo torre possono immagazzinare un animale fino a una categoria taglia superiore rispetto a chi li indossa. Una seconda parola di comando rilascia l'animale immagazzinato nell'armatura o nello scudo ospitale. Un animale liberato si risveglia immediatamente, appare in uno spazio adiacente al portatore e può intraprendere azioni nel round in cui appare.
 
@@ -20068,7 +20053,7 @@ mentre indossi queste **scarpe** leggere, puoi muoverti verso l'alto, il basso, 
 
 **Requisiti:** Creare Oggetti Magici, Causa Ferite Leggere
 
-Quando ottieni un Tiro Critico con quest'**arma** magica infliggi un Tiro Critico aggiuntivo.
+Quando ottieni un Tiro Critico con quest' **arma** magica infliggi un Tiro Critico aggiuntivo.
 
 ## Pergamena contro gli elementali
 
@@ -20118,7 +20103,7 @@ questa **perla** magica dona un punto di Saggezza extra che la tiene con sé per
 
 **Requisiti:** Creare Oggetti Magici, Cura Ferite
 
-Tutto il danno inflitto dall'**arma** è temporaneo.
+Tutto il danno inflitto dall' **arma** è temporaneo.
 
 A comando, come Azione Immediata, l'arma sopprime questa capacità fino a quando non le viene ordinato di riattivarla.
 
@@ -20451,7 +20436,7 @@ questo elegante **tessuto** nero, soffice come la seta, è avvolto fino alle dim
 
 **Requisiti:** Creare Oggetti Magici 2, Rimuovi Veleno; **Rarità:** Rara
 
-Un'**armatura** o uno **scudo** con questa capacità speciale conferisce a chi lo indossa Bonus di +2 ai Tiri Salvezza contro il veleno.
+Un' **armatura** o uno **scudo** con questa capacità speciale conferisce a chi lo indossa Bonus di +2 ai Tiri Salvezza contro il veleno.
 
 ## Resistenza all'Energia
 
@@ -20495,7 +20480,7 @@ Questa capacità può essere aggiunta solo ad **armi a distanza**. Un arma Ricer
 
 **Requisiti:** Creare Oggetti Magici 2, Teletrasporto
 
-Un'**arma** Ritornante può teletrasportarsi nelle mani del suo possessore come Azione Immediata, anche se si trova in possesso di un'altra creatura. Questa capacità ha un raggio massimo di 30 metri e gli effetti che bloccano il teletrasporto impediscono il ritorno di un'arma Ritornante. Un'arma Ritornante deve essere in possesso di una creatura per almeno 24 ore perché questa capacità funzioni.
+Un' **arma** Ritornante può teletrasportarsi nelle mani del suo possessore come Azione Immediata, anche se si trova in possesso di un'altra creatura. Questa capacità ha un raggio massimo di 30 metri e gli effetti che bloccano il teletrasporto impediscono il ritorno di un'arma Ritornante. Un'arma Ritornante deve essere in possesso di una creatura per almeno 24 ore perché questa capacità funzioni.
 
 ## Sacra
 
@@ -20505,7 +20490,7 @@ Un'**arma** Ritornante può teletrasportarsi nelle mani del suo possessore come 
 
 Quando con essa colpisci un immondo o un non morto, quella creatura subisce 2d10 danni da Luce aggiuntivi.
 
-Mentre impugni l'**arma** sguainata essa crea un'aura di 3 metri di raggio attorno a te. Tu e tutte le creature a te amichevoli all'interno dell'aura ottenete +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici generati da Seguaci o Devoti di altri Patroni. Se hai Tratti in comune con il Patrono 13 o più, il raggio dell'aura aumenta a 9 metri.
+Mentre impugni l' **arma** sguainata essa crea un'aura di 3 metri di raggio attorno a te. Tu e tutte le creature a te amichevoli all'interno dell'aura ottenete +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici generati da Seguaci o Devoti di altri Patroni. Se hai Tratti in comune con il Patrono 13 o più, il raggio dell'aura aumenta a 9 metri.
 
 ## Scaglie di Drago
 
@@ -20740,6 +20725,7 @@ Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del t
 | 21--55 | 120 × 180 | 200 kg / 50 | 18 metri |
 | 56--80 | 150 × 210 | 300 kg / 75 | 12 metri |
 | 81--100 | 180 × 270 | 400 kg / 100 | 9 metri |
+
 Il valore di Capacità indica sia il peso trasportato che l'Ingombro. Il tappeto può trasportare fino al doppio del carico indicato sulla tabella, ma vola a velocità dimezzata se trasporta di più.
 
 ## Arma Titanica
@@ -20748,7 +20734,7 @@ Il valore di Capacità indica sia il peso trasportato che l'Ingombro. Il tappeto
 
 **Requisiti:** Creare Oggetti Magici 2, Ingrandire/Ridurre
 
-Quest'**arma** gigante è lunga 3 m e pesa quasi 40 kg (8 Ingombro). Se usato come un'arma ha un bonus +2 al colpire e infligge 2 categorie di dado superiore di danno. Può essere usato anche per piantare rapidamente pali grossi come tronchi d'albero e per divellere con pochi colpi porte e cancelli. A causa della fatica nell'usarla non può essere brandita per più di 10 round al giorno.
+Quest' **arma** gigante è lunga 3 m e pesa quasi 40 kg (8 Ingombro). Se usato come un'arma ha un bonus +2 al colpire e infligge 2 categorie di dado superiore di danno. Può essere usato anche per piantare rapidamente pali grossi come tronchi d'albero e per divellere con pochi colpi porte e cancelli. A causa della fatica nell'usarla non può essere brandita per più di 10 round al giorno.
 
 ## Armatura Titanica
 
@@ -20756,7 +20742,7 @@ Quest'**arma** gigante è lunga 3 m e pesa quasi 40 kg (8 Ingombro). Se usato co
 
 **Requisiti:** Creare Oggetti Magici 2, Ingrandire; **Rarità:** Rara
 
-Un'**armatura** con la proprietà Titanica è fuori misura, anche se l'effetto è solo esteriore e l'interno accoglie una creatura come di norma, senza necessitare modifiche. Una creatura che indossa un'armatura Titanica è considerata di una categoria di taglia superiore, questo anche al fine dell'uso di oggetti ed armi o dell'essere influenzati da attacchi speciali che dipendono dalla taglia, come Inghiottire e Travolgere.
+Un' **armatura** con la proprietà Titanica è fuori misura, anche se l'effetto è solo esteriore e l'interno accoglie una creatura come di norma, senza necessitare modifiche. Una creatura che indossa un'armatura Titanica è considerata di una categoria di taglia superiore, questo anche al fine dell'uso di oggetti ed armi o dell'essere influenzati da attacchi speciali che dipendono dalla taglia, come Inghiottire e Travolgere.
 
 ## Tocco Fantasma
 
@@ -20764,7 +20750,7 @@ Un'**armatura** con la proprietà Titanica è fuori misura, anche se l'effetto �
 
 **Requisiti:** Creare Oggetti Magici 2, Desiderio Limitato
 
-Un'**arma** del Tocco Fantasma infligge un danno critico aggiuntivo quando colpisce le creature con Movimento Incorporeo. Finché imbracci una arma Tocco Fantasma puoi vedere le creature invisibili.
+Un' **arma** del Tocco Fantasma infligge un danno critico aggiuntivo quando colpisce le creature con Movimento Incorporeo. Finché imbracci una arma Tocco Fantasma puoi vedere le creature invisibili.
 
 ## Tomo del Pensiero Limpido
 
@@ -20790,7 +20776,7 @@ questo **libro** contiene esercizi di intuizione e discernimento, e le sue parol
 
 **Requisiti:** Creare Oggetti Magici, Cecità/Sordità
 
-Un'**arma** Tonante crea un tremendo frastuono simile a quello di un tuono, quando mette a segno un Colpo Critico. L'energia sonora non danneggia chi tiene in mano l'arma e infligge 1d8 danni sonori addizionali per ogni Colpo Critico andato a segno. Chi è soggetto a un Colpo Critico da un'arma Tonante deve effettuare un Tiro Salvezza su Tempra con DC 14 o resta Sordo in modo permanente.
+Un' **arma** Tonante crea un tremendo frastuono simile a quello di un tuono, quando mette a segno un Colpo Critico. L'energia sonora non danneggia chi tiene in mano l'arma e infligge 1d8 danni sonori addizionali per ogni Colpo Critico andato a segno. Chi è soggetto a un Colpo Critico da un'arma Tonante deve effettuare un Tiro Salvezza su Tempra con DC 14 o resta Sordo in modo permanente.
 
 ## Trasformante
 
@@ -20808,7 +20794,7 @@ L'arma conserva tutte le sue capacità, compresi bonus e capacità speciali dell
 
 **Requisiti:** Creare Oggetti Magici, Localizza oggetto
 
-Questa capacità concede a chi impugna quest'**arma** di lanciare l'incantesimo Localizza Oggetto una volta al giorno
+Questa capacità concede a chi impugna quest' **arma** di lanciare l'incantesimo Localizza Oggetto una volta al giorno
 
 ## Tunica degli Occhi
 
@@ -20913,7 +20899,7 @@ questa **giara** di vetro, 7,5 centimetri di diametro, contiene 1d4 + 1 dosi di 
 
 **Requisiti:** Creare Oggetti Magici 2, Tocco Vampiro
 
-Quando attacchi una creatura con quest'**arma** magica e ottieni un critico al Tiro per Colpire, il bersaglio, a parte i costrutti e i non morti, subisce un danno critico aggiuntivo e chi imbraccia l'arma recupera 1d6 Punti Ferita.
+Quando attacchi una creatura con quest' **arma** magica e ottieni un critico al Tiro per Colpire, il bersaglio, a parte i costrutti e i non morti, subisce un danno critico aggiuntivo e chi imbraccia l'arma recupera 1d6 Punti Ferita.
 
 ## Vano Portatile
 
@@ -20933,7 +20919,7 @@ Piazzare un Vano portatile all'interno dello spazio extradimensionale creato da 
 
 **Requisiti:** Creare Oggetti Magici 2, Velocità
 
-Quando compie più attacchi (2 Azioni), chi impugna un'**arma** di Velocità può compiere un attacco addizionale con l'arma. L'attacco aggiuntivo non ha le penalità degli attacchi multipli. Questa capacità non è cumulabile con incantesimi o effetti simili.
+Quando compie più attacchi (2 Azioni), chi impugna un' **arma** di Velocità può compiere un attacco addizionale con l'arma. L'attacco aggiuntivo non ha le penalità degli attacchi multipli. Questa capacità non è cumulabile con incantesimi o effetti simili.
 
 ## Ventaglio Arcano
 
@@ -21089,7 +21075,7 @@ Queste sono le indicazioni su l'utilizzo degli oggetti magici.
 - Se hai più oggetti magici che concedono bonus allo stesso **Tiro Salvezza** si applicano solo i due con il bonus maggiore.
 - Se hai più oggetti magici che concedono bonus alla stessa **Caratteristica** allora si applica solo il bonus maggiore.
 - Un personaggio **non può indossare più di due anelli magici** altrimenti entrano in risonanza abbassando i Punti Ferita massimi di 1d6 (non riducibile o curabile) a round per ogni anello oltre il secondo.
-- Per **riconoscere un oggetto magico** vedi Riconoscere un oggetto magico (pag. ) e Oggetti Maledetti (pag. ).
+- Per **riconoscere un oggetto magico** vedi Riconoscere un oggetto magico  e Oggetti Maledetti .
 - Un **oggetto magico che manifesta incantesimi** non esegue alcuna Prova di Magia. Il **Tiro Salvezza** che impone, se non specificato, è pari a 12 + livello*2 dell'incantesimo che manifesta.
 - Per **Attivare delle capacità magiche** di un oggetto se non indicato diversamente  costa 2 Azioni.
 - Un oggetto magico che fornisce un **bonus (o penalità) statico** applica il suo valore anche se l'oggetto non è stato identificato, sarà il Narratore ad applicare silenziosamente questo bonus alla Difesa, Tiro per Colpire, Tiri Salvezza... informando il giocatore che percepisce come l'oggetto interagisca con la situazione.
@@ -21428,7 +21414,9 @@ Il Narratore può chiedere una prova di Arcana con una DC pari a 10+giorni impie
 
 Una maledizione può manifestarsi anche a seguito dalle influenze negative od emozionali estreme che coinvolgono un oggetto.
 
-**Maledizioni Comuni degli Oggetti\%** | **Maledizione**
+**Maledizioni Comuni degli Oggetti**
+
+| **\%** | **Maledizione** |
 | 01-15 | Inganno |
 | 16-40 | Effetto o Bersaglio Opposto |
 | 41-50 | Funzionamento Discontinuo |
@@ -21452,7 +21440,7 @@ Questi oggetti possono essere rimossi solo dopo che sul personaggio o l'oggetto 
 
 L'incantesimo Dissolvi Magia è inutile per rimuovere una maledizione, solo un Dissolvi Magie Avanzato con 3 Successi Magici Critici può essere sufficiente.
 
-Se l'oggetto è stato maledetto tramite l'incantesimo Scagliare Maledizione, o comunque il Narratore decide che l'oggetto ha una maledizione particolare allora si deve effettuare una prova di contrasto (pag. )tra chi lancia Rimuovi Maledizione e la DC della maledizione dell'oggetto.
+Se l'oggetto è stato maledetto tramite l'incantesimo Scagliare Maledizione, o comunque il Narratore decide che l'oggetto ha una maledizione particolare allora si deve effettuare una prova di contrasto tra chi lancia Rimuovi Maledizione e la DC della maledizione dell'oggetto.
 
 Se la prova di contrasto ha successo allora l'oggetto può essere rimosso nel round successivo e la maledizione rimane e colpisce nuovamente se l'oggetto viene usato/indossato un'altra volta.
 
@@ -21494,7 +21482,7 @@ Questo oggetto funziona solo in determinate situazioni. Per determinare quali si
 
 Un oggetto incontrollabile tende ad attivarsi casualmente. Tirare un d\% ogni giorno. Con un risultato di 01--05 l'oggetto si attiva spontaneamente in un certo momento del giorno.
 
-**\%** | **Situazione**
+| **\%** | **Situazione** |
 | 01-03 | Temperatura sotto lo zero |
 | 04-05 | Temperatura sopra lo zero |
 | 06-10 | Durante il giorno |
@@ -21548,7 +21536,9 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 >>> L'elenco è di esempio per poter generare casualmente degli effetti sul possessore dell'oggetto. Prendete spunto e siate creativi!Non fate però che una maledizione renda impossibile giocare il personaggio piuttosto deve essere vissuta come l'occasione per provare, fare, qualcosa di diverso. Non gettate mai un oggetto maledetto a caso nel mucchio dei tesori, pensate sempre cosa potrà accadere e quali conseguenze si genereranno. Un oggetto maledetto richiede sempre un alto livello di attenzione e pianificazione da parte del Narratore
 ---
 
-**Tabella: Effetti degli oggetti magici maledetti\%** | **Inconveniente**
+**Tabella: Effetti degli oggetti magici maledetti**
+
+| **\%** | **Inconveniente** |
 | 01-02 | I capelli del personaggio crescono di 2,5 cm all'ora. |
 | 02-04 | Le unghie del personaggio crescono di 1 cm ogni 8 ore |
 | 05-06 | L'altezza del personaggio diminuisce di 5d10 cm |
@@ -21800,7 +21790,7 @@ Buona parte delle terre tra Francia e Germania sono tornate ad uno spirito più 
 Le fredde terre del nord Europa si sono isolate dopo che i loro morti sono risorti. Questa volta per volontà delle persone è stato chiesto aiuto a Krondal e Nedraf perché li potessero salvare. Nedraf gli diede le armi e l'esperienza per usarle, Krondal, da vero folle fece tornare gli ancestrali ricordi di un passato guerriero fatto di miti e Dei dimenticati, o meglio ignorati, dai più.
 Così Krondal ha ricreato come suoi servitori Aegir, Alfadur, Hel, Idhunn, Norne per non citare i più noti Thor, Loki, Valchirie...
 
->>> %box narratore
+>>> 
 Usate le mappe geografiche fisiche reali terrestri per aiutarvi con l'ambiente. Cercate online le mappe delle antiche città. Avete a disposizione il più grande setting mai creato, si tratta solo di popolarlo con i miti, leggende, storie, fantasia che già sono intorno a voi.
 
 Ogni città ha le sue leggende storiche, scopritele e giocatele insieme!
@@ -21811,7 +21801,7 @@ Ogni città ha le sue leggende storiche, scopritele e giocatele insieme!
 
 Questo proliferare di piccoli, grandi, duraturi o istantanei Portali ha causato uno squarcio nel tessuto dimensionale della Terra generando a sua volta un proliferare di tunnel spontanei più o meno grandi e duraturi.
 
-Questi occasionali Portali saranno spesso la causa di situazioni da affrontare e sconfiggere. Ogni Portale ha una propria DC da superare per poter essere chiuso con l'incantesimo Chiudi Portale (pag. ), solitamente questa DC va dai 20 per i più facili ai 40 per quelli permanenti.
+Questi occasionali Portali saranno spesso la causa di situazioni da affrontare e sconfiggere. Ogni Portale ha una propria DC da superare per poter essere chiuso con l'incantesimo Chiudi Portale , solitamente questa DC va dai 20 per i più facili ai 40 per quelli permanenti.
 
 Ci sono portali conosciuti e stabili, fino ad ora, che collegano continenti. I Portali più interessanti per il commercio sono quasi tutti sotto il controllo, per non dire dentro la roccaforte, di reali e potenti.
 
@@ -21819,7 +21809,7 @@ Non tutti i Portali sono pericolosi, molti fungono semplicemente da varchi di tr
 
 Potete inventare mille ed una avventura dietro ai Portali, ognuno è una possibilità di un mondo diverso e di una moltitudine di avventure.
 
- %box narratore
+ 
 Dovete intendere i portali come chiave per mille ed una avventura. Ogni portale vi condurrà in un posto diverso, fantastico come voi lo intendete. Volete un avventura in un mondo primitivo, ambientata nella società moderna, in un pianeta chissà dove? Usate i portale per spalancare le porte della vostra immaginazione.
 
 Gli stessi personaggi potrebbero essere non *terrestri* e cercare un modo per tornare a casa...
@@ -22105,7 +22095,7 @@ Un mostro che possieda una velocità di scavo può usare la sua velocità per at
 
 **Volo**
 
-Un mostro che possieda una velocità di volo può usare tutto o solo parte del suo movimento per volare. Alcuni mostri hanno l'abilità di **Fluttuare** (pag. ), che li rende difficili da abbattere. Il mostro smette di fluttuare quando muore.
+Un mostro che possieda una velocità di volo può usare tutto o solo parte del suo movimento per volare. Alcuni mostri hanno l'abilità di **Fluttuare** , che li rende difficili da abbattere. Il mostro smette di fluttuare quando muore.
 
 ## Punteggi di Caratteristica
 
@@ -22123,6 +22113,7 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 
 {lp{0.055\textwidth}p{0.06\textwidth}p{0.07\textwidth
 	
+
 | **Immunità** | **Magia Arma** | **Attacco Nat. (CA)** | **Pugno Vuoto** |
 | --- | --- | --- | --- |
 | +1 | +1 | 3 | 2 |
@@ -22258,7 +22249,7 @@ Il Tiro per Colpire del mostro **non ha applica danno critico ne esplosione del 
 
 ### Multiattacco e Attacco
 
-L'**Azione Multiattacco consuma 2 Azioni** anche se porta più di 2 attacchi.
+L' **Azione Multiattacco consuma 2 Azioni** anche se porta più di 2 attacchi.
 
 Come per l'Attacco normale i mostri non cumulano le penalità del Multiattacco e non hanno il Tiro Critico o l'Esplosione del Danno. Ogni attacco è portato con il bonus al Tiro per Colpire segnato.
 
@@ -22274,7 +22265,7 @@ Usare **1 solo Attacco** della catena del Multiattacco **costa 1 Azione**.
 
 Molti mostri possiedono un attacco speciale che gli permette di afferrare rapidamente la preda. Quando un mostro colpisce con un simile attacco, non deve effettuare un'ulteriore prova per determinare se l'afferrare riesce a meno che l'attacco non dica altrimenti.
 
-Una creatura afferrata dal mostro segue le indicazioni di Afferrare un avversario (pag. ).
+Una creatura afferrata dal mostro segue le indicazioni di Afferrare un avversario .
 
 Se non viene fornita una **DC di fuga** assumere che sia ia uguale a 10 + (Tiro Salvezza su Tempra  + Forza) del mostro +1d6 per Taglia di differenza.
 
@@ -22340,7 +22331,7 @@ Questa tabella indica per GS i Punti Esperienza relativi.
 
 Ogni tipologia di creatura può preferire un tipo di tesoro (inteso come oggetti, monete, gemme...) diverso. Questi sono solo suggerimenti su come costruire il tesoro del mostro.
 
-Vedi anche Tabella: Valori del Tesoro per Incontro (pag. ).
+Vedi anche Tabella: Valori del Tesoro per Incontro .
 
 - **Aberrazione**
 	Molte aberrazioni hanno scarsa considerazione per i tesori, possedendo solo quel che prendono dai resti delle loro vittime. Alcune sono nemici intelligenti che usano vari oggetti magici e tesori per potenziare le loro capacità.
@@ -22401,6 +22392,7 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 | -3 | 15\% | +3 | 240\% |
 | -2 | 25\% | +4 | 360\% |
 | -1 | 45\% | +5 | 480\% |
+
 Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS più basso per raggiungere la percentuale desiderata.
 
 \end{enumerate}
@@ -22430,10 +22422,10 @@ Oskar Schindler: L'avevano gli imperatori questo. Un uomo ruba qualcosa, viene p
 
 ## Aboleth
 - **Taglia/Tipo**: Grande aberrazione, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des -1 Cos 2 Int 4 Sag 2 Car 4}
+- **Caratt.**: For 5 Des -1 Cos 2 Int 4 Sag 2 Car 4
 - **Punti Ferita**: 199,  **Difesa:** 24,  **Iniziativa:** +4
 - **Movimento**: 3 m, nuoto 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +12, Riflessi +9, Volontà +12
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +12, Riflessi +9, Volontà +12
 - **Incant.**: immune incantesimi di Illusione inferiori al 2 livello
 - **Comp.**: Consapevolezza +10, Storia +12
 - **Sensi**: Scurovisione 36 m
@@ -22471,18 +22463,21 @@ L'aboleth può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 **Spazzata di Coda.** L'aboleth effettua un attacco di coda.
 
 **Ecologia**
-Ambiente: Qualsiasi Acquatico
-Organizzazione: Solitario, coppia, nidiata (3-6) o branco (7-19)
+
+| Ambiente: Qualsiasi Acquatico |
+| --- |
+| Organizzazione: Solitario, coppia, nidiata (3-6) o branco (7-19) |
+
 **Categoria Tesoro**: F
 **Descrizione**
 Come suggerisce il loro aspetto primitivo gli aboleth sono fra le più antiche forme di vita al mondo. Un aboleth è lungo 7 metri e pesa circa 3,2 tonnellate. Gli aboleth abitano in fondo ai mari nelle loro enormi città, serviti da innumerevoli schiavi.
 
 ## Angelo Deva
 - **Taglia/Tipo**: Media celestiale, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 4 Cos 4 Int 3 Sag 5 Car 5}
+- **Caratt.**: For 4 Des 4 Cos 4 Int 3 Sag 5 Car 5
 - **Punti Ferita**: 203,  **Difesa:** 29,  **Iniziativa:** +4
 - **Movimento**: 9 m, volo 27 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +14, Volontà +15
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +14, Riflessi +14, Volontà +15
 - **Comp.**: Percepire Emozioni +9
 - **Res. Danni**: da Luce; da arma non magica
 - **Immunità**: affascinato, affaticato, spaventato
@@ -22513,18 +22508,21 @@ A volontà: *Conoscere i Tratti*
 Nella nuova forma, il deva mantiene le sue statistiche di gioco e la facoltà di parlare, ma la sua Difesa, metodi di movimento, Forza, Destrezza e sensi speciali vengono rimpiazzati da quelli della nuova forma, e ottiene qualsiasi statistica o capacità (Azioni aggiuntive e azioni da tana) possedute dalla sua nuova forma e non dalla sua originale.
 
 **Ecologia**
-Ambiente: Qualsiasi piano di con Tratti buono
-Organizzazione: Solitario, coppia, o squadriglia (3-6)
+
+| Ambiente: Qualsiasi piano di con Tratti buono |
+| --- |
+| Organizzazione: Solitario, coppia, o squadriglia (3-6) |
+
 **Categoria Tesoro**: (Spadone Infuocato +1, altro tesoro)
 **Descrizione**
 I deva movanici compongono i ranghi della fanteria delle armate celesti, sebbene trascorrano la maggior parte del loro tempo pattugliando il Piano Positivo, quello Negativo e quello Materiale. Sul Piano Positivo sorvegliano le anime buone erranti. Sul Piano Negativo combattono i non morti e altri strani esseri che cacciano nel famelico vuoto. Le loro rare volte sul Piano Materiale hanno solitamente lo scopo di portare aiuto a potenti mortali, quando un grande pericolo minaccia di far cadere nelle mani del male un intero regno.
 
 ## Angelo Planetar
 - **Taglia/Tipo**: Grande celestiale, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 7 Des 5 Cos 7 Int 4 Sag 6 Car 7}
+- **Caratt.**: For 7 Des 5 Cos 7 Int 4 Sag 6 Car 7
 - **Punti Ferita**: 325,  **Difesa:** 38,  **Iniziativa:** +5
 - **Movimento**: 12 m, volo 36 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +23, Riflessi +21, Volontà +22
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +23, Riflessi +21, Volontà +22
 - **Comp.**: Consapevolezza +13
 - **Res. Danni**: da Luce;
 - **Immunità**: affascinato, affaticato, spaventato, armi +1
@@ -22561,18 +22559,21 @@ A volontà: *Conoscere i Tratti*, *Invisibilità* (solo personale)
 - Il Planetar causa un danno critico (2d6) ogni volta che colpisce fino a fine combattimento. Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Qualsiasi piano con Tratti buono
-Organizzazione: Solitario o coppia
+
+| Ambiente: Qualsiasi piano con Tratti buono |
+| --- |
+| Organizzazione: Solitario o coppia |
+
 **Categoria Tesoro**: Spadone Sacro +3
 **Descrizione**
 I planetar sono i generali delle armate celestiali volti alla distruzione del male. Un planetar è di norma alto 2,7 metri e pesa circa 250 kg. Sono ottimi diplomatici, ma contro gli immondi preferiscono la guerra piuttosto che negoziare una pace.
 
 ## Angelo Solar
 - **Taglia/Tipo**: Grande celestiale, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 6 Cos 8 Int 7 Sag 7 Car 10}
+- **Caratt.**: For 8 Des 6 Cos 8 Int 7 Sag 7 Car 10
 - **Punti Ferita**: 426,  **Difesa:** 46,  **Iniziativa:** +7
 - **Movimento**: 15 m, volo 45 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +29, Riflessi +27, Volontà +28
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +29, Riflessi +27, Volontà +28
 - **Comp.**: Consapevolezza +16
 - **Res. Danni**: da Luce; Fuoco, Freddo, Elettricità
 - **Immunità**: affascinato, avvelenato, affaticato, spaventato, arma +2
@@ -22617,8 +22618,11 @@ Il solar può effettuare 3 azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 **Teletrasporto.** Il solar si teletrasporta magicamente fino a 36 metri di distanza, insieme a tutto l'equipaggiamento che sta indossando o trasportando, in uno spazio non occupato e che può vedere.
 
 **Ecologia**
-Ambiente: Qualsiasi piano con Tratti buono
-Organizzazione: Solitario o coppia
+
+| Ambiente: Qualsiasi piano con Tratti buono |
+| --- |
+| Organizzazione: Solitario o coppia |
+
 **Categoria Tesoro**: Armatura Completa +5, Spadone Danzante +5, Arco Lungo Composito +5
 **Descrizione**
 I solar sono i più potenti tra gli angeli, solitamente braccio destro delle divinità o campioni di cause importanti. Hanno un aspetto quasi umano e sono alti circa 2,7 metri, con pelle argentata o dorata. Sono benedetti con potenti capacità magiche e sono in grado di uccidere le creature malvagie più forti.
@@ -22633,10 +22637,10 @@ Rispettati da tutti gli angeli, i solar a volte comandano armate contro le legio
 
 ## Ankheg
 - **Taglia/Tipo**: Grande mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 1 Int -5 Sag 1 Car -2}
+- **Caratt.**: For 3 Des 0 Cos 1 Int -5 Sag 1 Car -2
 - **Punti Ferita**: 51,  **Difesa:** 14,  **Iniziativa:** +0
 - **Movimento**: 9 m, scavo 3 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m, percezione tellurica 18 m
 - **Sfida**: 2 (450 PX)
 
@@ -22647,8 +22651,11 @@ Rispettati da tutti gli angeli, i solar a volte comandano armate contro le legio
 ***Spruzzo Acido*** L'ankheg sputa acido in una linea lunga 9 metri e larga 1 metro, purché non stia afferrando nessuna creatura. Ogni creatura su quella linea deve effettuare un Tiro Salvezza di Riflessi DC 14, e subire 10 (3d6) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Ecologia**
-Ambiente: Pianure temperate o calde
-Organizzazione: Solitario, coppia o nido (3-6)
+
+| Ambiente: Pianure temperate o calde |
+| --- |
+| Organizzazione: Solitario, coppia o nido (3-6) |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Gli ankheg sono mostri scavatori che prediligono le campagne per via del terreno morbido che facilita i loro spostamenti. Solitamente evitano le aree densamente popolate ma la loro predilezione per la carne del bestiame e degli umani li tiene lontani dalle zone disabitate. Nei deserti remoti, si trovano ankheg più grandi che si nutrono di scorpioni e cammelli.
@@ -22657,10 +22664,10 @@ Alcuni ankheg sono addestrabili e possono diventare animali da carico, sebbene i
 
 ## Arpia
 - **Taglia/Tipo**: Media mostruosità, Arrogante, Impulsivo
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 1 Cos 1 Int -2 Sag 0 Car 1}
+- **Caratt.**: For 1 Des 1 Cos 1 Int -2 Sag 0 Car 1
 - **Punti Ferita**: 33,  **Difesa:** 14,  **Iniziativa:** +1
 - **Movimento**: 6 m, volo 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Linguaggi**: Comune
 - **Sfida**: 1 (200 PX)
 
@@ -22683,8 +22690,11 @@ Mentre è affascinato dall'arpia, un bersaglio è inabile e ignora le canzoni di
 Un bersaglio che riesce il Tiro Salvezza è immune al canto di quell'arpia per le successive 24 ore.
 
 **Ecologia**
-Ambiente: Paludi Temperate
-Organizzazione: Solitario, coppia o stormo (3-12)
+
+| Ambiente: Paludi Temperate |
+| --- |
+| Organizzazione: Solitario, coppia o stormo (3-12) |
+
 **Categoria Tesoro**: R (C)
 **Descrizione**
 Spesso viste come creature malvagie e corrotte, le arpie sanno come gli altri pensano e agiscono. Questa capacità percettiva offre loro un vantaggio nel trovare i loro pasti preferiti. Sebbene le creature selvatiche cadano facilmente vittime del canto ammaliatore, queste malvagie donne-uccello preferiscono pasti conditi con complessi pensieri senzienti. Le facili prede rendono il pasto noioso.
@@ -22697,10 +22707,10 @@ Le arpie sono marcatamente differenti a seconda della regione in cui vivono. Alc
 
 ## Azer
 - **Taglia/Tipo**: Media elementale, legale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 2 Int 1 Sag 1 Car 0}
+- **Caratt.**: For 3 Des 1 Cos 2 Int 1 Sag 1 Car 0
 - **Punti Ferita**: 51,  **Difesa:** 15,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +3
 - **Imm. Danni**: Fuoco, Veleno
 - **Linguaggi**: Ignan
 - **Sfida**: 2 (450 PX)
@@ -22718,8 +22728,11 @@ Le arpie sono marcatamente differenti a seconda della regione in cui vivono. Alc
 *Colpisce:* 7 (1d8 + 3) danni contundenti, o 8 (1d10 + 3) danni contundenti se usato a due mani per effettuare un attacco da mischia, più 3 (1d6) danni da fuoco.
 
 **Ecologia**
-Ambiente: Qualsiasi terreno (Piano del Fuoco)
-Organizzazione: Solitario, coppia, gruppo (3-6), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o clan (30-100 più 50\% di non combattenti più 1 sergente di 3° livello ogni 20 adulti, 5 tenenti di 5° livello e 3 capitani di 7° livello)
+
+| Ambiente: Qualsiasi terreno (Piano del Fuoco) |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o clan (30-100 più 50\% di non combattenti più 1 sergente di 3° livello ogni 20 adulti, 5 tenenti di 5° livello e 3 capitani di 7° livello) |
+
 **Categoria Tesoro**: Armatura a Scaglie Perfetta, Martello da Guerra Perfetto, Martello Leggero, N
 **Descrizione**
 Una Razza orgogliosa e industriosa proveniente dal Piano del Fuoco, gli Azer lavorano nelle loro fortezze di bronzo e d'ottone, sempre pronti a combattere la loro lunga e ribollente guerra contro gli Efreet. Gli Azer vivono in una società in cui ogni membro sa qual è il suo posto. Nati con specifici doveri, solitamente legati alle attività del padre o della madre, gli Azer si dedicano a queste occupazioni per tutta la vita. Un sistema di caste provvede a tenere ulteriormente in riga la società Azer. I nobili, che regnano senza dover rendere conto a nessuno, indossano kilt di ottone decorato come simbolo della loro casta, mentre quelli dei mercanti e dei proprietari di negozi sono in resistente bronzo. I kilt di rame sono indossati dalla casta lavoratrice, composta da servitori, artigiani e braccianti.
@@ -22732,10 +22745,10 @@ A un occhio non allenato gli Azer si somigliano tra loro in modo impressionante.
 
 ## Banshee
 - **Taglia/Tipo**: Media non morto, Arrogante, Vanitoso
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -5 Des 5 Cos 0 Int 1 Sag 1 Car 4}
+- **Caratt.**: For -5 Des 5 Cos 0 Int 1 Sag 1 Car 4
 - **Punti Ferita**: 87,  **Difesa:** 22,  **Iniziativa:** +5
 - **Movimento**: 0 m, volo 18 m, Fluttuare
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +9, Volontà +5}
+- **Tiri Salvez.**: Tempra +4, Riflessi +9, Volontà +5
 - **Res. Danni**: Acido, Elettricità, Fuoco, Suono; arma magica +1
 - **Imm. Danni**: da Vuoto, Veleno, Freddo, da arma non magica
 - **Immunità**: affascinato, afferrato, intralciato, paralizzato, pietrificato, prono, affaticato, sanguinamento
@@ -22762,18 +22775,21 @@ A un occhio non allenato gli Azer si somigliano tra loro in modo impressionante.
 ***Lamento (1/Giorno)***. La Banshee emette un lamento funesto, purché non sia esposta alla luce del sole. Questo lamento non ha alcun effetto sui costrutti e sui non morti. Ogni altra creatura situata entro 9 metri da lei e in grado di udirla deve effettuare un Tiro Salvezza su Tempra con bonus Carisma DC 17; se lo fallisce, scende a O Punti Ferita, mentre se lo supera, subisce 35 (10d6) danni da forza.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
 La Banshee è lo spirito infuriato di una donna che ha tradito i propri cari o è stata a sua volta tradita. Impazzita per il dolore, la Banshee riversa la propria vendetta su ogni creatura vivente (innocente o colpevole) con il suo temibile tocco e le sue grida mortali.
 
 ## Basilisco
 - **Taglia/Tipo**: Media mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des -1 Cos 2 Int -4 Sag -1 Car -2}
+- **Caratt.**: For 3 Des -1 Cos 2 Int -4 Sag -1 Car -2
 - **Punti Ferita**: 70,  **Difesa:** 15,  **Iniziativa:** -1
 - **Movimento**: 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 3 (700 PX)
 
@@ -22790,8 +22806,11 @@ Se il basilisco si trova entro 9 metri dal suo riflesso a luce intensa e lo vede
 *Veleno:* Veleno del Basilisco, F, istantaneo, TS Tempra 14 oppure Rallentato 1/3r.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario, coppia o colonia (3-6)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario, coppia o colonia (3-6) |
+
 **Categoria Tesoro**: F
 **Descrizione**
 Il basilisco, spesso chiamato *Re dei Serpenti* è un rettile a otto zampe di indole aggressiva che ha la capacità di trasformare le creature in pietra con il suo sguardo. La leggenda narra che, come la Cockatrice, i primi basilischi nacquero da uova deposte da serpenti e covate da galli, ma ben poco nella fisiologia del basilisco lascia spazio a questa teoria.
@@ -22808,10 +22827,10 @@ Per motivi ignoti, le donnole, furetti e topine sono immuni allo sguardo del bas
 
 ## Behir
 - **Taglia/Tipo**: Enorme mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 3 Cos 4 Int -2 Sag 2 Car 1}
+- **Caratt.**: For 6 Des 3 Cos 4 Int -2 Sag 2 Car 1
 - **Punti Ferita**: 221,  **Difesa:** 29,  **Iniziativa:** +3
 - **Movimento**: 15 m, scalata 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +14, Volontà +13
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +15, Riflessi +14, Volontà +13
 - **Comp.**: Furtività +7
 - **Imm. Danni**: Elettricità
 - **Sensi**: Scurovisione 27 m
@@ -22837,8 +22856,11 @@ Se il behir subisce 30 o più danni in un singolo round da una creatura che ha i
 ***Arrabbiato:*** il Behir ricarica il soffio di fulmine. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Colline e Deserti Caldi
-Organizzazione: Solitario o coppia
+
+| Ambiente: Colline e Deserti Caldi |
+| --- |
+| Organizzazione: Solitario o coppia |
+
 **Categoria Tesoro**: U
 **Descrizione**
 Il behir è una creatura territoriale che striscia per le colline sabbiose e le rocce del deserto, cacciando tutte le creature che osano entrare nel suo territorio. Con una lunghezza media di 12 metri e un peso di circa 1800 kg, il behir è dotato di sei paia di zampe con artigli che utilizza in combattimento per afferrare i nemici, correre o scalare.
@@ -22847,10 +22869,10 @@ Nonostante la sua furia bestiale, il behir non è necessariamente malvagio e pu�
 
 ## Blatta Esplosiva
 - **Taglia/Tipo**: Piccolo Elementale, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 2 Cos 1 Int -5 Sag -1 Car -2}
+- **Caratt.**: For 1 Des 2 Cos 1 Int -5 Sag -1 Car -2
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 4 m, salto 9 m, scavare 2 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Res. Danni**: contundenti
 - **Imm. Danni**: Fuoco
 - **Immunità**: affaticato, spaventato
@@ -22874,8 +22896,11 @@ Nonostante la sua furia bestiale, il behir non è necessariamente malvagio e pu�
 ***Morte:*** Quando la Blatta Esplosiva muore la gelatina all'interno a contatto con l'aria esplode tutto intorno, nel raggio di 1 metro attorno alla blatta le fiamme causano 12 (4d6) di danno, Tiro Salvezza su Riflessi DC 15 per dimezzare.
 
 **Ecologia**
-Ambiente: caverne calde
-Organizzazione: Solitario, nido (8-64)
+
+| Ambiente: caverne calde |
+| --- |
+| Organizzazione: Solitario, nido (8-64) |
+
 **Categoria Tesoro**: Diamante 1d4x1d50mo
 **Descrizione**
 Le Blatta Esplosive sono creature native tra il piano elementale del fuoco e della terra. Solitamente attirati da ambienti ricchi di fiamme, pietra o almeno caldo e terra.
@@ -22886,10 +22911,10 @@ Nel nido dove dimorano c'è almeno una regina che comanda le blatte, estremament
 
 ## B.O.C.
 - **Taglia/Tipo**: grande mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 3 Cos 2 Int -2 Sag 1 Car -1}
+- **Caratt.**: For 4 Des 3 Cos 2 Int -2 Sag 1 Car -1
 - **Punti Ferita**: 88,  **Difesa:** 20,  **Iniziativa:** +3
 - **Movimento**: 13 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +7, Volontà +5}
+- **Tiri Salvez.**: Tempra +6, Riflessi +7, Volontà +5
 - **Comp.**: Furtività +8
 - **Sensi**: Scurovisione 20 m, Visione Crepuscolare 18 m
 - **Linguaggi**: Comune, può solo comprenderlo
@@ -22916,18 +22941,21 @@ Nel nido dove dimorano c'è almeno una regina che comanda le blatte, estremament
 Il B.O.C. piega costantemente la luce intorno a se apparendo quasi un metro spostato rispetto alla sua reale posizione. Questa abilità non è influenzata da visioni di tipo normali, solo Visione del Vero, vista cieca o senso tellurico possono percepire correttamente il B.O.C.
 
 **Ecologia**
-Ambiente: Colline e foreste
-Organizzazione: Solitario, coppia oppure branco (2d4)
+
+| Ambiente: Colline e foreste |
+| --- |
+| Organizzazione: Solitario, coppia oppure branco (2d4) |
+
 **Categoria Tesoro**: I
 **Descrizione**
 Il Black Ops Cat meglio conosciuto con B.O.C. è un grande felino predatore, ovviamente di colore nero. Feroce, insaziabile, uccide per il gusto di cacciare. Agisce solitamente in branco ed è estremamente fedele al gruppo.
 
 ## Bugbear
 - **Taglia/Tipo**: Media umanoide (goblinoide), Arrogante, Impulsivo
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 1 Int -1 Sag 0 Car -1}
+- **Caratt.**: For 2 Des 2 Cos 1 Int -1 Sag 0 Car -1
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +6, Sopravvivenza +2
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Goblin
@@ -22946,8 +22974,11 @@ Il Black Ops Cat meglio conosciuto con B.O.C. è un grande felino predatore, ovv
 *Colpisce:* 9 (2d6 + 2) danni perforanti in mischia o 5 (1d6 + 2) danni perforanti a gittata.
 
 **Ecologia**
-Ambiente: Montagne temperate
-Organizzazione: Solitario, coppia, gruppo (3-6) o banda da guerra (7-12 più 2 Guerrieri di 1° livello e 1 capitano di 3°-5° livello)
+
+| Ambiente: Montagne temperate |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6) o banda da guerra (7-12 più 2 Guerrieri di 1° livello e 1 capitano di 3°-5° livello) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio, Scudo Leggero di Legno, Mazza chiodata, 3 Giavellotti, O)
 **Descrizione**
 Il bugbear è il più grande degli esponenti della razza Goblinoide, un bruto dai movimenti pesanti che supera di almeno una testa la maggior parte degli Umani. Sono solitari che preferiscono vivere ed uccidere da soli piuttosto che in tribù, sebbene non sia insolito trovare una piccola banda di Bugbear che collabora o vive con una tribù di Goblin od Hobgoblin fungendo da guardia d'élite o carnefici.
@@ -22958,10 +22989,10 @@ I bugbear, quando si rivolgono alla religione, prediligono le divinità dell'omi
 
 ## Bulette
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 5 Int -4 Sag 0 Car -3}
+- **Caratt.**: For 4 Des 0 Cos 5 Int -4 Sag 0 Car -3
 - **Punti Ferita**: 110,  **Difesa:** 18,  **Iniziativa:** +0
 - **Movimento**: 12 m, scavo 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +5, Volontà +5}
+- **Tiri Salvez.**: Tempra +10, Riflessi +5, Volontà +5
 - **Comp.**: Consapevolezza +6
 - **Sensi**: Scurovisione 18 m, percezione tellurica 18 m
 - **Sfida**: 5 (1800 PX)
@@ -22979,8 +23010,11 @@ I bugbear, quando si rivolgono alla religione, prediligono le divinità dell'omi
 ***Arrabbiato:*** La bulette si ricarica delle ultime energie, recupera tre volte il suo GS in punti ferita. Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Colline Temperate
-Organizzazione: Solitario o coppia
+
+| Ambiente: Colline Temperate |
+| --- |
+| Organizzazione: Solitario o coppia |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Creazione di uno sconosciuto mago del passato, il bulette ora è diventato un feroce predatore di collina. Scavando rapidamente sotto il terreno, fende la superficie con la sua pinna dorsale lasciandosi dietro una scia caratteristica. Il bulette balza fuori, liberandosi da pietre e terriccio, per fare a pezzi la sua preda senza rimorsi, dando così origine al suo soprannome di *squalo terrestre*.
@@ -22993,10 +23027,10 @@ Il bulette è un combattente astuto, e sorprende i nemici con agilità impressio
 
 ## Cavaliere Nero
 - **Taglia/Tipo**: Media non morto, Arrogante, Paziente
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 1 Cos 5 Int 1 Sag 2 Car 3}
+- **Caratt.**: For 5 Des 1 Cos 5 Int 1 Sag 2 Car 3
 - **Punti Ferita**: 357,  **Difesa:** 37,  **Iniziativa:** +1
 - **Movimento**: 9 metri
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +23, Riflessi +19, Volontà +20
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +23, Riflessi +19, Volontà +20
 - **Comp.**: Intimidire +12, Religione +8, Conoscenza Piani +8, Conoscenza Arcana +5
 - **Res. Danni**: Freddo, Elettricità
 - **Imm. Danni**: da Vuoto, Veleno; armi +1
@@ -23030,18 +23064,21 @@ livello 4 (3 slot): *Esilio, Punizione marchiante (con 1 critico magico automati
 **Reazione: *Attacco d'opportunità***: il Cavaliere nero effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: spada lunga +3 od armatura completa +3, il resto dell'equipaggiamento scompare con la morte del Cavaliere Nero.
 **Descrizione**
 Dannato fin nel profondo della sua anima il Cavaliere Nero è l'antitesi del cavaliere di Sumkjr, anzi spesso nasce dalla corruzione di un cavaliere di Sumkjr. Avversario temibile, furbo, tattico, adora comportarsi e ragionare malignamente, come una persona ancora viva. La sua tattica è di lanciare la Palla di Fuoco il prima possibile per poi consumare la vittima con Punizione marchiante.
 
 ## Centauro
 - **Taglia/Tipo**: Grande mostruosità, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 2 Int -1 Sag 1 Car 0}
+- **Caratt.**: For 4 Des 2 Cos 2 Int -1 Sag 1 Car 0
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 15 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +4, Volontà +3
 - **Comp.**: Atletica +6, Consapevolezza +3, Sopravvivenza +3
 - **Linguaggi**: Elfico, Silvano
 - **Sfida**: 2 (450 PX)
@@ -23063,8 +23100,11 @@ Dannato fin nel profondo della sua anima il Cavaliere Nero è l'antitesi del cav
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
 **Ecologia**
-Ambiente: Pianure e foreste temperate
-Organizzazione: Solitario, coppia, banda (3-10), tribù (11-30 più 3 cacciatori di 3° livello e 1 capo di 6° livello)
+
+| Ambiente: Pianure e foreste temperate |
+| --- |
+| Organizzazione: Solitario, coppia, banda (3-10), tribù (11-30 più 3 cacciatori di 3° livello e 1 capo di 6° livello) |
+
 **Categoria Tesoro**: B
 **Descrizione**
 Leggendari cacciatori e abili guerrieri, i centauri sono in parte uomini e in parte cavalli. Generalmente collocata ai margini della civilizzazione, questa stoica popolazione varia enormemente come aspetto: di solito il colore della pelle è molto abbronzato ma simile a quello degli umani delle regioni limitrofe, mentre la parte inferiore del corpo ha le tonalità degli equini locali. Hanno capelli e occhi di colore scuro e i tratti del volto piuttosto marcati, mentre la loro stazza totale dipende dalla taglia del cavallo di cui hanno la parte inferiore del corpo. Quindi, anche se un centauro medio è alto in piedi 2,1 metro e pesa più di 1000 kg, esistono molteplici varianti regionali, dagli esili corridori delle pianure ai massicci cacciatori di montagna.
@@ -23075,10 +23115,10 @@ La leggenda vuole che i Centauri dovessero esplodere come tutti gli equini, per 
 
 ## Chimera
 - **Taglia/Tipo**: Grande mostruosità, Arrogante, Vanitoso
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 4 Int -4 Sag 2 Car 0}
+- **Caratt.**: For 4 Des 0 Cos 4 Int -4 Sag 2 Car 0
 - **Punti Ferita**: 127,  **Difesa:** 20,  **Iniziativa:** +0
 - **Movimento**: 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +6, Volontà +8}
+- **Tiri Salvez.**: Tempra +10, Riflessi +6, Volontà +8
 - **Comp.**: Consapevolezza +8
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: comprende il Draconico ma non può parlare
@@ -23105,19 +23145,25 @@ La leggenda vuole che i Centauri dovessero esplodere come tutti gli equini, per 
 ***Arrabbiato:*** la Chimera brilla di energia. Ricarica il Soffio Infuocato. Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Colline Temperate
-Organizzazione: Solitario, coppia, branco (3-6) o stormo (7-12)
+
+| Ambiente: Colline Temperate |
+| --- |
+| Organizzazione: Solitario, coppia, branco (3-6) o stormo (7-12) |
+
 **Categoria Tesoro**: F
 **Descrizione**
-Le chimere sono mostruose creature nate dal male primordiale. Odiose e fameliche, cacciano sia a terra che in aria. La testa di drago di una chimera può essere di qualunque tipo di drago malvagio, con il soffio corrispondente e le ali generalmente dotate delle stesse scaglie della testa. Le chimere parlano con tre voci che si sovrappongono, ma lo fanno raramente, tipicamente solo per adulare una creatura più potente. Una chimera è alta al garrese 1 metro, raggiungendo la lunghezza di 4 metri e il peso di 350 kg.
+
+| Le chimere sono mostruose creature nate dal male primordiale. Odiose e fameliche, cacciano sia a terra che in aria. La testa di drago di una chimera può essere di qualunque tipo di drago malvagio, con il soffio corrispondente e le ali generalmente dotate delle stesse scaglie della testa. Le chimere parlano con tre voci che si sovrappongono, ma lo fanno raramente, tipicamente solo per adulare una creatura più potente. Una chimera è alta al garrese 1 metro, raggiungendo la lunghezza di 4 metri e il peso di 350 kg. |
+| --- |
+
 Le chimere preferiscono la carne, ma possono sopravvivere di vegetali se necessario (anche se quando sono costrette a farlo il loro umore peggiora ulteriormente). Il fatto che volino significa che possono scegliere con attenzione le loro prede, e generalmente cacciano in vaste aree cercando quelle facili. Sono troppo stupide e belligeranti per acquisire seguaci, anche se a volte una tribù di coboldi può far loro delle offerte. Al contrario, sono abbastanza intelligenti e caparbie da essere mediocri animali domestici, e solo una creatura molto più potente di loro può riuscire a sottometterle. Possono formare collaborazioni paritarie con umanoidi rispettosi o creature simili, e acconsentono anche ad essere usate come cavalcature. Un branco di chimere ha una gerarchia simile a quella dei leoni, con un maschio dominante che comanda il gruppo e la maggior parte delle cacce svolte dalle femmine. Una chimera solitaria può essere un giovane maschio solitario o una femmina con i cuccioli nelle vicinanze.
 
 ## Chuul
 - **Taglia/Tipo**: Grande aberrazione, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 3 Int -3 Sag 0 Car -3}
+- **Caratt.**: For 4 Des 0 Cos 3 Int -3 Sag 0 Car -3
 - **Punti Ferita**: 89,  **Difesa:** 17,  **Iniziativa:** +0
 - **Movimento**: 9 m, nuoto 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +4, Volontà +4}
+- **Tiri Salvez.**: Tempra +7, Riflessi +4, Volontà +4
 - **Comp.**: Consapevolezza +4
 - **Imm. Danni**: Veleno
 - **Sensi**: Scurovisione 18 m
@@ -23139,8 +23185,11 @@ Le chimere preferiscono la carne, ma possono sopravvivere di vegetali se necessa
 **Reazione: *Attacco d'opportunità***: il chuul effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 **Ecologia**
-Ambiente: Paludi Temperate
-Organizzazione: Solitario, coppia o branco (3-6)
+
+| Ambiente: Paludi Temperate |
+| --- |
+| Organizzazione: Solitario, coppia o branco (3-6) |
+
 **Categoria Tesoro**: U (B)
 **Descrizione**
 I chuul sono predatori corazzati simili ai crostacei, sempre in agguato sotto la superficie degli stagni e dei pantani poco profondi, che escono dal loro nascondiglio per afferrare le loro prede con le loro chele e poi paralizzarle con i tentacoli della bocca prima di mangiarle vive.
@@ -23151,10 +23200,10 @@ I chuul sono sorprendentemente intelligenti e molti si impegnano in inutili spec
 
 ## Coboldo
 - **Taglia/Tipo**: Piccola umanoide (coboldo), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 2 Cos -1 Int -1 Sag -2 Car -1}
+- **Caratt.**: For -2 Des 2 Cos -1 Int -1 Sag -2 Car -1
 - **Punti Ferita**: 17,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Draconico
 - **Sfida**: 1/8 (25 PX)
@@ -23172,8 +23221,11 @@ I chuul sono sorprendentemente intelligenti e molti si impegnano in inutili spec
 *Colpisce:* 4 (1d4 + 2) danni contundenti.
 
 **Ecologia**
-Ambiente: Foreste temperate o sotterranei
-Organizzazione: solitario, gruppo (2-4), nido (5-30 più un ugual numero di non combattenti, 1 sergente di 3° livello ogni 20 adulti e 1 capo di 4°-6° livello) o tribù (31-300 più di 35\% di non combattenti, 1 sergente di 3° livello ogni 20 adulti, 2 tenenti di 4° livello, 1 capo di 6°-8° livello e 5-16 Ratti Crudeli)
+
+| Ambiente: Foreste temperate o sotterranei |
+| --- |
+| Organizzazione: solitario, gruppo (2-4), nido (5-30 più un ugual numero di non combattenti, 1 sergente di 3° livello ogni 20 adulti e 1 capo di 4°-6° livello) o tribù (31-300 più di 35\% di non combattenti, 1 sergente di 3° livello ogni 20 adulti, 2 tenenti di 4° livello, 1 capo di 6°-8° livello e 5-16 Ratti Crudeli) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio, Lancia, Fionda, altro tesoro), 2d6 monete d'argento
 **Descrizione**
 I coboldi sono creature dell'oscurità, che si incontrano più facilmente in enormi dedali sotterranei o negli angoli bui delle foreste dove il sole non batte mai. A causa della somiglianza fisica i coboldi si proclamano a gran voce discendenti della stirpe draconica e destinati a governare la terra sotto l'ala dei loro grandi cugini divini, ma la maggior parte dei draghi li considera poco più che insetti fastidiosi. Codardi ed intriganti, non lottano mai apertamente se possono evitarlo tendendo invece imboscate e trappole, rintanandosi nelle loro labirintiche costruzioni dietro una coltre di rozzi ma ingegnosi trabocchetti, o rovesciandosi sul nemico in vaste orde ululanti.
@@ -23182,13 +23234,11 @@ La tonalità dei coboldi varia anche tra i fratelli della stessa covata, spazian
 
 I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono predare dalle monete d'argento gli avventurieri e ne mangiano come fossero biscotti al burro. I coboldi possono digerire l'argento piuttosto velocemente e più mangiano più le loro squame sono luminose ed i coboldi sembrano sani.
 
-\rule  
-
 - **Taglia/Tipo**: Piccola mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 1 Cos 1 Int -4 Sag 1 Car -3}
+- **Caratt.**: For -2 Des 1 Cos 1 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 6 m, volo 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -23197,8 +23247,11 @@ I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono
 *Colpisce:* 3 (1d4 + 1) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 11 o essere Rallentato 1/1r per via della progressiva pietrificazione. Se successivi morsi portano la creatura a non avere più Azioni la creatura è pietrificata per 24 ore.
 
 **Ecologia**
-Ambiente: Pianure temperate
-Organizzazione: Solitario, coppia, squadriglia (3-5) o stormo (6-12)
+
+| Ambiente: Pianure temperate |
+| --- |
+| Organizzazione: Solitario, coppia, squadriglia (3-5) o stormo (6-12) |
+
 **Categoria Tesoro**: D
 **Descrizione**
 Stupide, malevole e repellenti, le cockatrici sono evitate dalle altre creature per la loro capacità di trasformare la carne in pietra. I maschi si distinguono solo per barbigli e creste. Una tipica cockatrice è alta poco più di 60 centimetri e pesa 2,5 kg.
@@ -23209,10 +23262,10 @@ La strana capacità della cockatrice di trasformare le altre creature in pietra 
 
 ## Couatl
 - **Taglia/Tipo**: Media celestiale, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 5 Cos 3 Int 4 Sag 5 Car 4}
+- **Caratt.**: For 3 Des 5 Cos 3 Int 4 Sag 5 Car 4
 - **Punti Ferita**: 89,  **Difesa:** 22,  **Iniziativa:** +5
 - **Movimento**: 9 m, volo 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +9, Volontà +9}
+- **Tiri Salvez.**: Tempra +7, Riflessi +9, Volontà +9
 - **Res. Danni**: da Luce
 - **Imm. Danni**: da arma non magica
 - **Sensi**: visione del vero 36 m
@@ -23242,8 +23295,11 @@ A volontà: *Conoscere i Tratti, Individuazione del Magico, Individuazione dei P
 Nella nuova forma, il couatl mantiene le sue statistiche di gioco e la facoltà di parlare, ma la sua Difesa, metodi di movimento, Forza, Destrezza e altre azioni vengono rimpiazzati da quelli della nuova forma, e ottiene qualsiasi statistica o capacità (Azioni aggiuntive e azioni da tana) possedute dalla sua nuova forma e non dalla sua originale. Se la nuova forma ha un attacco di morso, il couatl può usare il proprio morso nella nuova forma.
 
 **Ecologia**
-Ambiente: foreste calde
-Organizzazione: Solitario, coppia o stormo (3-6)
+
+| Ambiente: foreste calde |
+| --- |
+| Organizzazione: Solitario, coppia o stormo (3-6) |
+
 **Categoria Tesoro**: I
 **Descrizione**
 Rispettati ed ammirati per la loro saggezza e bellezza, cercano di portare i mortali sulla retta via e usano i loro poteri per combattere il male, specie quelli noti per viaggiare tra i piani. Un couatl è lungo circa 3,6 metri, con un'apertura alare di circa 5 metri e pesa 900 kg.
@@ -23252,10 +23308,10 @@ Preferiscono gli stessi alimenti dei veri serpenti, come mammiferi e uccelli, an
 
 ## Cumulo Strisciante
 - **Taglia/Tipo**: Grande pianta, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des -1 Cos 3 Int -3 Sag 0 Car -3}
+- **Caratt.**: For 4 Des -1 Cos 3 Int -3 Sag 0 Car -3
 - **Punti Ferita**: 108,  **Difesa:** 17,  **Iniziativa:** -1
 - **Movimento**: 6 m, nuoto 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +4, Volontà +5}
+- **Tiri Salvez.**: Tempra +8, Riflessi +4, Volontà +5
 - **Comp.**: Furtività +2
 - **Res. Danni**: Freddo, Fuoco
 - **Imm. Danni**: Elettricità
@@ -23276,8 +23332,11 @@ Preferiscono gli stessi alimenti dei veri serpenti, come mammiferi e uccelli, an
 ***Arrabbiato:*** Il Cumulo strisciante rilascia un'onda di elettricità. Tutte le creature entro 3 metri subiscono 3d6 di danno da elettricità. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Foreste o Paludi Temperate
-Organizzazione: Solitario
+
+| Ambiente: Foreste o Paludi Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: A
 **Descrizione**
 I cumuli striscianti, chiamati anche soltanto striscianti, sembrano masse vegetali in decomposizione. Sono piante carnivore intelligenti, con un debole per la carne elfica. Il cervello e gli organi sensoriali si trovano nella parte superiore del corpo. Di solito i cumuli striscianti hanno una circonferenza di 2,3 metri e sono alti da 1,8 a 2,7 metri. Pesano circa 1.900 kg.
@@ -23290,10 +23349,10 @@ Di solito i cumuli striscianti conducono un'esistenza nomade e solitaria in prof
 
 ## Balor
 - **Taglia/Tipo**: Enorme demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 2 Cos 6 Int 5 Sag 3 Car 6}
+- **Caratt.**: For 8 Des 2 Cos 6 Int 5 Sag 3 Car 6
 - **Punti Ferita**: 379,  **Difesa:** 39,  **Iniziativa:** +5
 - **Movimento**: 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +25, Riflessi +21, Volontà +22
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +25, Riflessi +21, Volontà +22
 - **Res. Danni**: Freddo, Elettricità;
 - **Imm. Danni**: Fuoco, Veleno, armi +1
 - **Vulnerabilità**: ferro freddo, Luce
@@ -23324,8 +23383,11 @@ Di solito i cumuli striscianti conducono un'esistenza nomade e solitaria in prof
 ***Teletrasporto.*** Il demone si teletrasporta magicamente, insieme a tutto l'equipaggiamento che indossa o trasporta, in uno spazio non occupato e che può vedere entro 36 metri.
 
 **Ecologia**
-Ambiente: Qualsiasi (Abisso)
-Organizzazione: Solitario o banda di guerra (1 Balor e 2-5 Glabrezu)
+
+| Ambiente: Qualsiasi (Abisso) |
+| --- |
+| Organizzazione: Solitario o banda di guerra (1 Balor e 2-5 Glabrezu) |
+
 **Categoria Tesoro**: Standard (Spada Lunga Sacrilega+1, Frusta Infuocata+1, R)
 **Descrizione**
 Quando la gente sussurra terrificanti racconti di creature demoniache, immagina per lo più un'imponente figura di fuoco e carne, un incubo cornuto armato di frusta e spada fiammeggianti, che vola nella notte in cerca delle sue prede. Il demone che queste persone temono è il Balor, e questa paura è pienamente giustificata, dal momento che pochi demoni possono eguagliare il possente Balor in forza o in brutalità.
@@ -23336,10 +23398,10 @@ Un Balor è alto 4,2 metri e pesa 2.250 kg. Solo le anime mortali più crudeli p
 
 ## Demogorgone
 - **Taglia/Tipo**: Enorme principe demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 9 Des 2 Cos 8 Int 5 Sag 3 Car 7}
+- **Caratt.**: For 9 Des 2 Cos 8 Int 5 Sag 3 Car 7
 - **Punti Ferita**: 524,  **Difesa:** 48,  **Iniziativa:** +5
 - **Movimento**: 15 metri, nuotare 9m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +34, Riflessi +28, Volontà +29
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +34, Riflessi +28, Volontà +29
 - **Comp.**: tutte +15
 - **Res. Danni**: Freddo, Elettricità, Fuoco
 - **Imm. Danni**: da Vuoto, Veleno; armi +2
@@ -23390,18 +23452,21 @@ Il Demogorgone può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti
 **Sguardo di Follia.** Demogorgone usa o lo sguardo Potente o lo Sguardo della Follia
 
 **Ecologia**
-Ambiente: Abisso
-Organizzazione: Unico
+
+| Ambiente: Abisso |
+| --- |
+| Organizzazione: Unico |
+
 **Tesoro**: R, S, T, V
 **Descrizione**
 Demogorgone è un enorme demone, principe dell'abisso e della follia alto circa 5 metri. Appare come un rettiloide bipede con due teste da babbuino, i colli sono lunghi e serpentini come le braccia tentacolari. Le due teste di Demogorgone sono hanno personalità distinte che si detestano. Spesso tentano di dominarsi a vicenda e molte delle storie che riguardano il Demogorgone trattano proprio su come una o l'altra testa cechi di dominare il tutto. Tra il Demogorgone ed Orcus c'è una forte rivalità.
 
 ## Dretch
 - **Taglia/Tipo**: Piccolo demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 0 Cos 1 Int -3 Sag -1 Car -4}
+- **Caratt.**: For 0 Des 0 Cos 1 Int -3 Sag -1 Car -4
 - **Punti Ferita**: 19,  **Difesa:** 12,  **Iniziativa:** +0
 - **Movimento**: 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Res. Danni**: Freddo, Elettricità, Fuoco
 - **Imm. Danni**: Veleno
 - **Vulnerabilità**: ferro freddo, Luce
@@ -23424,8 +23489,11 @@ Demogorgone è un enorme demone, principe dell'abisso e della follia alto circa 
 ***Nube Fetida (1/Giorno).*** Un disgustoso gas verde si estende in un raggio di 3 metri dal demone. Il gas si propaga intorno agli angoli e la sua area è oscurata leggermente. Rimane per 1 minuto o finché non viene disperso da un forte vento. Qualsiasi creatura che inizi il proprio round in quell'area deve riuscire un Tiro Salvezza di Tempra DC 11 o restare avvelenata fino all'inizio del suo prossimo round. Mentre è avvelenato in questo modo, il bersaglio, durante il suo round, è Rallentato 1.
 
 **Ecologia**
-Ambiente: Qualsiasi (Abisso)
-Organizzazione: Solitario, coppia, banda (3-5), gruppo (6-12) o folla (13+)
+
+| Ambiente: Qualsiasi (Abisso) |
+| --- |
+| Organizzazione: Solitario, coppia, banda (3-5), gruppo (6-12) o folla (13+) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Anche il più infimo demone dell'Abisso è pericoloso e possiede la necessità impellente di spargere rovina e sgomento. Il miserabile dretch è tanto orripilante e fetido quanto crudele, anche se non possiede la forza ed il potere per riuscire a soddisfare la sua voglia di brutalizzare gli altri nel suo reame nativo. Lo scopo dell'esistenza dei dretch è quello di servire demoni più potenti come vittime sacrificabili, e solo pochi fortunati riescono a sopravvivere abbastanza a lungo da evolversi.
@@ -23438,10 +23506,10 @@ Un dretch è alto 1,2 metri e pesa 90 kg. I dretch solitamente si formano dalle 
 
 ## Glabrezu
 - **Taglia/Tipo**: Grande demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 2 Cos 5 Int 4 Sag 3 Car 3}
+- **Caratt.**: For 5 Des 2 Cos 5 Int 4 Sag 3 Car 3
 - **Punti Ferita**: 186,  **Difesa:** 26,  **Iniziativa:** +4
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +11, Volontà +12
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +14, Riflessi +11, Volontà +12
 - **Res. Danni**: Freddo, Elettricità, Fuoco; da arma non magica
 - **Imm. Danni**: Veleno
 - **Vulnerabilità**: ferro freddo, Luce
@@ -23472,7 +23540,10 @@ A volontà: *Dissolvi Magie, Individuazione del Magico, Oscurità*
 ***Arrabbiato:*** il glabrezu crea un duplicato di se stesso dal piano delle ombre. Questo duplicato ha le stesse caratteristiche del glabrezu ma non attacca. Quando si attacca il glabrezu si ha un 50\% di attaccare il duplicato d'ombra.
 
 **Ecologia**
-Ambiente: Qualsiasi (Abisso)
+
+| Ambiente: Qualsiasi (Abisso) |
+| --- |
+
 Organizzazione: Solitario o drappello (1 glabrezu, 1 Succube e 2-5 Vrock)
 **Categoria Tesoro**: U
 **Descrizione**
@@ -23482,10 +23553,10 @@ Un glabrezu è alto 5,3 metri e pesa poco più di 3000 kg. Questi perfidi demoni
 
 ## Hezrou
 - **Taglia/Tipo**: Grande demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 3 Cos 5 Int 5 Sag 1 Car 1}
+- **Caratt.**: For 4 Des 3 Cos 5 Int 5 Sag 1 Car 1
 - **Punti Ferita**: 167,  **Difesa:** 25,  **Iniziativa:** +5
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +11, Volontà +9}
+- **Tiri Salvez.**: Tempra +13, Riflessi +11, Volontà +9
 - **Res. Danni**: Freddo, Elettricità, Fuoco; da arma non magica
 - **Imm. Danni**: Veleno
 - **Vulnerabilità**: ferro freddo, Luce
@@ -23514,8 +23585,11 @@ Un glabrezu è alto 5,3 metri e pesa poco più di 3000 kg. Questi perfidi demoni
 ***Arrabbiato:*** Hezrou rilascia una nube di fetore incendiaria. Tutte le creature attorno a lui entro 3 metri devono fare un Tiro Salvezza su Riflessi DC 21 per dimezzare i 4d10 di danno da fuoco. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Qualsiasi (Abisso)
-Organizzazione: Solitario o banda (2-4)
+
+| Ambiente: Qualsiasi (Abisso) |
+| --- |
+| Organizzazione: Solitario o banda (2-4) |
+
 **Categoria Tesoro**: W
 **Descrizione**
 L'hezrou vive nelle vaste paludi, acquitrini e corsi d'acqua dell'Abisso. E' a suo agio sia nell'acqua che sulla terraferma. La presenza di un hezrou ha un effetto dannoso su flora, causando mutazioni e rendendo maleodoranti e dal sapore salmastro le acque. Spesso intere comunità isolate di mutanti deformi devono il loro aspetto contorto non tanto ai loro depravati costumi quanto alla vicinanza di un hezrou.
@@ -23524,10 +23598,10 @@ Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che 
 
 ## Marilith
 - **Taglia/Tipo**: Grande demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 5 Cos 5 Int 4 Sag 3 Car 5}
+- **Caratt.**: For 4 Des 5 Cos 5 Int 4 Sag 3 Car 5
 - **Punti Ferita**: 319,  **Difesa:** 38,  **Iniziativa:** +5
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +21, Riflessi +21, Volontà +19
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +21, Riflessi +21, Volontà +19
 - **Res. Danni**: Freddo, Elettricità, Fuoco
 - **Imm. Danni**: Veleno, armi +1
 - **Vulnerabilità**: ferro freddo, Luce
@@ -23562,8 +23636,11 @@ Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che 
 - la marilith condanna l'avversario all'abisso. Costo 2 Azioni. L'avversario deve effettuare un Tiro Salvezza su Volontà DC 28 o essere trasportato nell'abisso.
 
 **Ecologia**
-Ambiente: Qualsiasi (Abisso)
-Organizzazione: Solitario, coppia o plotone (1 marilith, 1-3 Glabrezu e 3-14 Babau)
+
+| Ambiente: Qualsiasi (Abisso) |
+| --- |
+| Organizzazione: Solitario, coppia o plotone (1 marilith, 1-3 Glabrezu e 3-14 Babau) |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Sovrane di orde demoniache e regine di nazioni abissali, le temibili marilith servono i signori dei demoni come governanti, consigliere e persino amanti, eppure la loro supremazia come strateghe le rende particolarmente richieste come generali e comandanti d'armate. Le marilith più potenti non sono al servizio di nessuno e comandano invece fameliche legioni demoniache.
@@ -23572,10 +23649,10 @@ Una marilith è alta da 1,8 a 2,7 metri, lunga 6 metri dalla testa alla punta de
 
 ## Nalfeshnee
 - **Taglia/Tipo**: Grande demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 0 Cos 6 Int 4 Sag 1 Car 2}
+- **Caratt.**: For 5 Des 0 Cos 6 Int 4 Sag 1 Car 2
 - **Punti Ferita**: 264,  **Difesa:** 29,  **Iniziativa:** +4
 - **Movimento**: 6 m, volo 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +19, Riflessi +13, Volontà +14
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +19, Riflessi +13, Volontà +14
 - **Res. Danni**: Freddo, Elettricità, Fuoco; da arma non magica
 - **Imm. Danni**: Veleno
 - **Vulnerabilità**: ferro freddo, Luce
@@ -23610,8 +23687,11 @@ Se il Tiro Salvezza della creatura riesce o l'effetto ha termine per essa la cre
 ***Arrabbiato:*** il nalfeshnee mima le parole arcane ed in gesti visti entro 3 round precedenti e lancia un incantesimo di cui è stato testimone. Costa 3 Azioni.
 
 **Ecologia**
-Ambiente: Qualsiasi (Abisso)
-Organizzazione: Solitario o banda di guerra (1 nalfeshnee, 1 Hezrou e 2-5 Vrock)
+
+| Ambiente: Qualsiasi (Abisso) |
+| --- |
+| Organizzazione: Solitario o banda di guerra (1 nalfeshnee, 1 Hezrou e 2-5 Vrock) |
+
 **Categoria Tesoro**: G
 **Descrizione**
 Sono pochi i demoni che comprendono le meccaniche interne che regolano l'Abisso come i nalfeshnee, e non è raro che questi demoni servano l'Abisso stesso invece che un signore dei demoni. Alcuni sovrintendono i reami organici che generano i nuovi demoni, mentre altri custodiscono luoghi di particolare importanza nei recessi nascosti del piano. Spesso il regno di un nalfeshnee nell'Abisso è superiore per forze e dimensioni al più grande dei regni mortali, in quanto questi demoni hanno una predisposizione naturale a governare ed imporre una sorta di ordine al caos dell'Abisso. Gli evocatori mortali spesso li richiamano per il loro folle ma impareggiabile intelletto, esaminando accuratamente gli accordi presi con questi demoni onde evitare eventuali conseguenze nascoste e risvolti non voluti, in quanto un nalfeshnee raramente accetta qualcosa che, in qualche modo contorto, non gli consenta di soddisfare le necessità ed i desideri dell'Abisso.
@@ -23620,10 +23700,10 @@ I nalfeshnee sono alti 6 metri e pesano 4000 kg. Sono creati dalle anime di malv
 
 ## Orcus
 - **Taglia/Tipo**: Enorme principe demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 2 Cos 7 Int 5 Sag 5 Car 7}
+- **Caratt.**: For 8 Des 2 Cos 7 Int 5 Sag 5 Car 7
 - **Punti Ferita**: 519,  **Difesa:** 48,  **Iniziativa:** +5
 - **Movimento**: 15 metri, volare 15 metri
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +33, Riflessi +28, Volontà +31
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +33, Riflessi +28, Volontà +31
 - **Comp.**: tutte +13
 - **Res. Danni**: Freddo, Elettricità, Fuoco
 - **Imm. Danni**: da Vuoto, Veleno; armi +2
@@ -23668,18 +23748,21 @@ Il Orcus può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed un
 **Assaggio di Morte.** Orcus lancia l'incantesimo Colpo Infuocato, in maniera blasfema, con danni da Vuoto
 
 **Ecologia**
-Ambiente: Abisso
-Organizzazione: Unico
+
+| Ambiente: Abisso |
+| --- |
+| Organizzazione: Unico |
+
 **Categoria Tesoro**: Z
 **Descrizione**
 Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei non morti. Desidera vedere scomparire tutta la vita e questa trasformarsi tutta in una gigantesca necropoli di non morti sotto il suo comando. Orcus ha la testa e le gambe da capra, corna simili a montoni, un corpo gonfio, ali da pipistrello e una lunga coda.
 
 ## Silku
 - **Taglia/Tipo**: Media demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 3 Int 1 Sag 0 Car 2}
+- **Caratt.**: For 2 Des 2 Cos 3 Int 1 Sag 0 Car 2
 - **Punti Ferita**: 52,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +4, Volontà +3
 - **Comp.**: Furtività +2, Ingannare +5
 - **Res. Danni**: Freddo, Elettricità; da arma non magica o non argentata
 - **Imm. Danni**: Veleno
@@ -23699,8 +23782,11 @@ Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei
 ***Rigenerazione.*** Il Silku rigenera 2 PF alla fine del suo round a meno che non sia stato ferito con acido o fuoco, l'effetto è attivo anche se il Silku ha Punti Ferita negativi.
 
 **Ecologia**
-Ambiente: Qualsiasi (Abisso)
-Organizzazione: Piccoli gruppi (3-6)
+
+| Ambiente: Qualsiasi (Abisso) |
+| --- |
+| Organizzazione: Piccoli gruppi (3-6) |
+
 **Categoria Tesoro**: P
 **Descrizione**
 "...I loro volti avevano qualcosa di strano, erano come ... sfocati, era l'unica parte del loro corpo che non riuscivo a mettere a fuoco. Stupita dalla stranezza, sbattei le palpebre più volte e concentrai lo sguardo sui volti di entrambi. Sentii uno strano pizzicore sul volto e poi la vista si schiarì.
@@ -23710,10 +23796,10 @@ Da *Il Guardiano di Falkonia*, romanzo di Federica Angeli
 
 ## Quasit
 - **Taglia/Tipo**: Minuscola demone, mutaforma, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 3 Cos 0 Int -2 Sag 0 Car 0}
+- **Caratt.**: For -3 Des 3 Cos 0 Int -2 Sag 0 Car 0
 - **Punti Ferita**: 33,  **Difesa:** 16,  **Iniziativa:** +3
 - **Movimento**: 12 m (3 m, volo 12 m in forma di pipistrello; 12 m, scalata 12 m in forma di centopiedi; 12 m, nuoto 12 m in forma di rospo)
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Comp.**: Furtività +5
 - **Res. Danni**: Freddo, Elettricità, Fuoco; da arma non magica
 - **Imm. Danni**: Veleno
@@ -23735,8 +23821,11 @@ Da *Il Guardiano di Falkonia*, romanzo di Federica Angeli
 ***Spavento (1/Giorno).*** Una creatura scelta dal demone che si trovi entro 6 metri da lui, deve riuscire un Tiro Salvezza su Volontà DC 12 o restare spaventata per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, con -1d6 se il demone è in linea di visuale, ponendo termine all'effetto prematuramente se riesce il Tiro Salvezza.
 
 **Ecologia**
-Ambiente: Qualsiasi (Abisso)
-Organizzazione: Solitario o stormo (2-12)
+
+| Ambiente: Qualsiasi (Abisso) |
+| --- |
+| Organizzazione: Solitario o stormo (2-12) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Il quasit è forse il demone meno potente, ma non è tra i meno rispettati: persino i quasit si ritengono superiori alle orde di Dretch e, fedeli alla propria natura, i Dretch mancano del coraggio o degli stimoli necessari a dimostrare loro che si sbagliano. Il ruolo primario in vita di un quasit è quello di famiglio al servizio di un incantatore, ma quei quasit che sfuggono a questa umiliante servitù acquisiscono una volontà propria e sono molto più pericolosi. Un quasit tipico è alto 45 centimetri e pesa solo 4 kg.
@@ -23747,18 +23836,16 @@ I quasit appena creati vengono alla luce direttamente nel Piano Materiale, dove 
 
 ## Succube
 - **Taglia/Tipo**: Media demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 3 Cos 1 Int 2 Sag 1 Car 5}
+- **Caratt.**: For -1 Des 3 Cos 1 Int 2 Sag 1 Car 5
 - **Punti Ferita**: 87,  **Difesa:** 20,  **Iniziativa:** +3
 - **Movimento**: 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +7, Volontà +5}
+- **Tiri Salvez.**: Tempra +5, Riflessi +7, Volontà +5
 - **Comp.**: Furtività +5, Percepire Emozioni +5, Consapevolezza +5, Ingannare +9
 - **Res. Danni**: Freddo, Elettricità, Fuoco, Veleno; da arma non magica
 - **Sensi**: Scurovisione 18 m
 - **Vulnerabilità**: ferro freddo, Luce
 - **Linguaggi**: Abissale, Comune, Infernale, telepatia 18 m
 - **Sfida**: 4 (1100 PX)
-
-\rule
 
 ***Legame Telepatico.*** L'immondo ignora le restrizioni di raggio di azione della sua telepatia quando comunica con una creatura che ha affascinato. I due non sono neppure costretti a trovarsi sullo stesso piano di esistenza.
 
@@ -23777,18 +23864,21 @@ L'immondo può tenere affascinato solo un bersaglio alla volta. Se ne affascina 
 ***Forma Eterea.*** L'immondo entra magicamente nel Piano Etereo dal Piano Materiale, e viceversa.
 
 **Ecologia**
-Ambiente: Qualsiasi (Abisso)
-Organizzazione: Solitario, coppia o harem (3-12)
+
+| Ambiente: Qualsiasi (Abisso) |
+| --- |
+| Organizzazione: Solitario, coppia o harem (3-12) |
+
 **Categoria Tesoro**: I
 **Descrizione**
 Tra le orde demoniache una succube spesso può raggiungere altissimi livelli di potere, utilizzando le sue manipolazioni ed il suo fascino sensuale, e molte guerre demoniache imperversano a causa delle subdole macchinazioni di queste creature. Una succube si origina dalle anime di malvagi mortali particolarmente libidinosi ed avidi.
 
 ## Vrock
 - **Taglia/Tipo**: Grande demone, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 4 Int -1 Sag 1 Car -1}
+- **Caratt.**: For 3 Des 2 Cos 4 Int -1 Sag 1 Car -1
 - **Punti Ferita**: 127,  **Difesa:** 22,  **Iniziativa:** +2
 - **Movimento**: 12 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +8, Volontà +7}
+- **Tiri Salvez.**: Tempra +10, Riflessi +8, Volontà +7
 - **Res. Danni**: Freddo, Elettricità, Fuoco; da arma non magica
 - **Imm. Danni**: Veleno
 - **Vulnerabilità**: ferro freddo, Luce
@@ -23817,19 +23907,25 @@ Tra le orde demoniache una succube spesso può raggiungere altissimi livelli di 
 ***Arrabbiato:*** Il Vrock striscia il becco con gli speroni rendendoli ancora più affilati. Fino alla fine del combattimento il danno causato da Becco e Speroni causa 1 danno da Sanguinamento fino ad un massimo di 10 danni. 1 Azione.
 
 **Ecologia**
-Ambiente: Qualsiasi (Abisso)
-Organizzazione: Solitario, coppia o banda (3-10)
+
+| Ambiente: Qualsiasi (Abisso) |
+| --- |
+| Organizzazione: Solitario, coppia o banda (3-10) |
+
 **Categoria Tesoro**: B
 **Descrizione**
-Profani campioni dell'Abisso, i vrock incarnano tutta la rabbia, l'odio e la violenza di questo reame. Tanto voraci e grottescamente opportunisti quanto il saprofago a cui assomigliano, i vrock si deliziano nello spargimento di sangue, godendo del suono e delle sensazioni derivanti dallo strappare gli intestini ancora pulsanti da una creatura vivente.
+
+| Profani campioni dell'Abisso, i vrock incarnano tutta la rabbia, l'odio e la violenza di questo reame. Tanto voraci e grottescamente opportunisti quanto il saprofago a cui assomigliano, i vrock si deliziano nello spargimento di sangue, godendo del suono e delle sensazioni derivanti dallo strappare gli intestini ancora pulsanti da una creatura vivente. |
+| --- |
+
 Un vrock tipico è alto 2,3 metri e pesa 200 kg. Queste creature solitamente si originano dalle anime di malvagi mortali colmi di odio e di collera, in particolare coloro che erano criminali professionisti, mercenari o assassini.
 
 ## Destriero dell'Incubo
 - **Taglia/Tipo**: Grande immondo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 3 Int 0 Sag 1 Car 2}
+- **Caratt.**: For 4 Des 2 Cos 3 Int 0 Sag 1 Car 2
 - **Punti Ferita**: 70,  **Difesa:** 18,  **Iniziativa:** +2
 - **Movimento**: 18 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +4}
+- **Tiri Salvez.**: Tempra +6, Riflessi +5, Volontà +4
 - **Imm. Danni**: Fuoco
 - **Comp.**: Consapevolezza +6
 - **Vulnerabilità**: Luce
@@ -23848,8 +23944,11 @@ Un vrock tipico è alto 2,3 metri e pesa 200 kg. Queste creature solitamente si 
 ***Passo Etereo.*** Il destriero da incubo e fino a tre creature consenzienti entro 3 metro da esso possono entrare magicamente nel Piano Etereo dal Piano Materiale e viceversa.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature più malvagie di cavalcarli, e non sono mai soltanto cavalcature, ma collaborano nella distruzione provocata dai loro cavalieri.
@@ -23858,10 +23957,10 @@ Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature
 
 ## Diavolo Barbuto
 - **Taglia/Tipo**: Media diavolo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 2 Int -1 Sag 0 Car 0}
+- **Caratt.**: For 3 Des 2 Cos 2 Int -1 Sag 0 Car 0
 - **Punti Ferita**: 70,  **Difesa:** 18,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +5, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +5, Volontà +3
 - **Res. Danni**: Freddo; da arma non magica o non argentata
 - **Imm. Danni**: Fuoco, Veleno
 - **Vulnerabilità**: argento, Luce
@@ -23888,8 +23987,11 @@ Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature
 **Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Ecologia**
-Ambiente: Qualsiasi (Inferno)
-Organizzazione: Solitario, coppia, squadra (3-10) o truppa (10-40)
+
+| Ambiente: Qualsiasi (Inferno) |
+| --- |
+| Organizzazione: Solitario, coppia, squadra (3-10) o truppa (10-40) |
+
 **Categoria Tesoro**: Falcione, L
 **Descrizione**
 Guerrieri scelti delle legioni infernali, i diavoli barbuti, o barbazu, combattono selvaggiamente in nome dei loro signori infernali e in battaglia comandano orde brutali di dannati. Si radunano e si addestrano con i loro falcioni forgiati negli inferi, tra le volte del terzo girone dell'Inferno, Erebo, ma ritornano inevitabilmente nel primo girone, Averno, per servire al fianco del temibile signore Barbatos.
@@ -23898,10 +24000,10 @@ I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di m
 
 ## Diavolo delle Catene
 - **Taglia/Tipo**: Media diavolo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 4 Int 0 Sag 1 Car 2}
+- **Caratt.**: For 4 Des 2 Cos 4 Int 0 Sag 1 Car 2
 - **Punti Ferita**: 165,  **Difesa:** 24,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +12, Riflessi +10, Volontà +9
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +12, Riflessi +10, Volontà +9
 - **Res. Danni**: Freddo; da arma non magica o non argentata
 - **Imm. Danni**: Fuoco, Veleno
 - **Vulnerabilità**: argento, Luce
@@ -23930,18 +24032,21 @@ Ogni catena animata è un oggetto con Difesa 20, 20 Punti Ferita, resistenza ai 
 ***Arrabbiato:*** il Diavolo delle Catene agita le catene davanti a se. Fino alla fine del combattimento la Difesa è 27. Costa 1 Azione a round mantenere l'effetto.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario, coppia, anello (3-6) o catena (7-20)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario, coppia, anello (3-6) o catena (7-20) |
+
 **Categoria Tesoro**: R
 **Descrizione**
 Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavolo delle Catene non sono veri diavoli. Anche se alcuni sono noti per vivere all'Inferno, essi esistono al di fuori delle gerarchie stabilite dagli dei degli inferi e dai suoi arcidiavoli e a volte si possono trovare su altri piani, in particolare sul Piano delle Ombre. Molti suggeriscono che siano nativi dell'Inferno che esisteva prima dell'avvento della stirpe diabolica, anche se altri ipotizzano che siano stati portati sul piano da qualche sadica potenza. Indipendentemente dalle loro origini vagano per i piani assecondano il loro desiderio di causare e ricevere sofferenza, ricercando il dolore attraverso violenti rapimenti e sadiche depravazioni.
 
 ## Diavolo Cornuto
 - **Taglia/Tipo**: Grande diavolo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 3 Cos 5 Int 1 Sag 3 Car 3}
+- **Caratt.**: For 6 Des 3 Cos 5 Int 1 Sag 3 Car 3
 - **Punti Ferita**: 224,  **Difesa:** 29,  **Iniziativa:** +3
 - **Movimento**: 6 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +16, Riflessi +14, Volontà +14
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +16, Riflessi +14, Volontà +14
 - **Res. Danni**: Freddo;
 - **Imm. Danni**: Fuoco, Veleno, armi +1
 - **Vulnerabilità**: argento, Luce
@@ -23978,8 +24083,11 @@ Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavolo del
 ***Arrabbiato:*** il Diavolo Cornuto risucchia la vita che i nemici stanno perdendo. Fino alla fine del round successivo recupera tutti i Punti Ferita persi da Sanguinamento da ferite da lui causate.
 
 **Ecologia**
-Ambiente: Qualsiasi (Inferno)
-Organizzazione: Solitario, coppia o stormo (3-10)
+
+| Ambiente: Qualsiasi (Inferno) |
+| --- |
+| Organizzazione: Solitario, coppia o stormo (3-10) |
+
 **Categoria Tesoro**: Catena Chiodata Sacrilega +1, P
 **Descrizione**
 Tra i più letali guerrieri degli arcidiavoli ed abili comandanti dei diavoli minori, i diavoli cornuti divulgano le regole dell'Inferno dovunque passano. Questi diavoli maggiori sono addestrati, forgiati e riforgiati per essere tra i più implacabili ed obbedienti guerrieri del multiverso. I diavoli cornuti delle truppe degli eserciti infernali sono noti come cornugon, mentre i più grandi tra loro sono chiamati malebranche.
@@ -23990,10 +24098,10 @@ Un diavolo cornuto tipico raggiunge la ragguardevole altezza di 2,7 metri, è do
 
 ## Diavolo della Fossa
 - **Taglia/Tipo**: Grande diavolo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 2 Cos 7 Int 6 Sag 4 Car 7}
+- **Caratt.**: For 8 Des 2 Cos 7 Int 6 Sag 4 Car 7
 - **Punti Ferita**: 403,  **Difesa:** 40,  **Iniziativa:** +6
 - **Movimento**: 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +27, Riflessi +22, Volontà +24
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +27, Riflessi +22, Volontà +24
 - **Res. Danni**: Freddo;
 - **Imm. Danni**: Fuoco, Veleno, armi +2
 - **Vulnerabilità**: Luce
@@ -24034,8 +24142,11 @@ A volontà: *Individuazione del Magico, Palla di Fuoco*
 **Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 **Ecologia**
-Ambiente: Qualsiasi (Inferno)
-Organizzazione: Solitario, coppia o concilio (3-9)
+
+| Ambiente: Qualsiasi (Inferno) |
+| --- |
+| Organizzazione: Solitario, coppia o concilio (3-9) |
+
 **Categoria Tesoro**: G
 **Descrizione**
 I diavoli della fossa sono potenti sovrani infernali, generali delle armate dell'Inferno e consiglieri degli arcidiavoli. Con corpi massicci e intelletti malvagi, dominano distese infernali e sottomettono mondi mortali. Alti oltre 4 metri e pesanti più di 500 kg, sono corazzati e dotati di ali imponenti.
@@ -24044,10 +24155,10 @@ I diavoli della fossa radunano eserciti, trasformando i lemure in veri diavoli e
 
 ## Diavolo del Ghiaccio
 - **Taglia/Tipo**: Grande diavolo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 2 Cos 4 Int 4 Sag 2 Car 4}
+- **Caratt.**: For 5 Des 2 Cos 4 Int 4 Sag 2 Car 4
 - **Punti Ferita**: 278,  **Difesa:** 32,  **Iniziativa:** +4
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +18, Riflessi +16, Volontà +16
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +18, Riflessi +16, Volontà +16
 - **Imm. Danni**: Freddo, Fuoco, Veleno, armi +1
 - **Vulnerabilità**: argento, Luce
 - **Sensi**: Vista Cieca 18 m, Scurovisione 36 m
@@ -24085,8 +24196,11 @@ Il muro rimane per 1 minuto o finché il diavolo non è reso inabile o muore. Il
 ***Arrabbiato:*** il Diavolo di Ghiaccio punta al cuore del nemico e cerca di strapparlo. La creatura, entro 1 metro, deve fare un Tiro Salvezza su Tempra DC 26 od avere il cuore strappato.
 
 **Ecologia**
-Ambiente: Qualsiasi (Inferno)
-Organizzazione: Solitario, squadra (2-3), concilio (4-10) o contingente (1-3 diavoli del ghiaccio, 2-6 diavoli cornuti e 1-4 diavoli d'ossa
+
+| Ambiente: Qualsiasi (Inferno) |
+| --- |
+| Organizzazione: Solitario, squadra (2-3), concilio (4-10) o contingente (1-3 diavoli del ghiaccio, 2-6 diavoli cornuti e 1-4 diavoli d'ossa |
+
 **Categoria Tesoro**: Lancia Gelida +1, R
 **Descrizione**
 Strateghi illuminati delle armate dell'Inferno, gli insettoidi diavoli del ghiaccio sono tra le menti più ingegnose e crudeli dell'infermo. Un diavolo del ghiaccio nasconde nel suo petto un cuore ghiacciato trafugato ad un mortale, che gli permette di prendere decisioni libero da emozioni. Nati nel girone ghiacciato di Cocito, il settimo girone infernale, la maggior parte dei diavoli del ghiaccio migra a Caina, l'ottavo girone, dove complotta per dannare il mondo. Sebbene abbiano le sembianze più aliene e mostruose tra tutti i diavoli, a pochi altri viene accordato un maggiore rispetto.
@@ -24097,10 +24211,10 @@ I Diavoli del Ghiaccio sono alti 3,6 metri e pesano approssimativamente 350 kg.
 
 ## Diavolo d'Ossa
 - **Taglia/Tipo**: Grande diavolo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 3 Cos 4 Int 1 Sag 2 Car 3}
+- **Caratt.**: For 4 Des 3 Cos 4 Int 1 Sag 2 Car 3
 - **Punti Ferita**: 184,  **Difesa:** 27,  **Iniziativa:** +3
 - **Movimento**: 12 m, volo 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +12, Volontà +11
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +13, Riflessi +12, Volontà +11
 - **Comp.**: Ingannare +7, Percepire Emozioni +6
 - **Res. Danni**: Freddo; da arma non magica o non argentata
 - **Imm. Danni**: Fuoco, Veleno
@@ -24130,8 +24244,11 @@ I Diavoli del Ghiaccio sono alti 3,6 metri e pesano approssimativamente 350 kg.
 ***Arrabbiato:*** il Diavolo d'Ossa attacca tutte le creature intorno a lui con l'arma inastata. Tutte le creature ne raggio di 3 metri subiscono un attacco di Arma Inastata Uncinata, senza essere afferrati. Costo 2 Azioni. Il Diavolo d'ossa può decidere di diventare invisibile come sotto l'incantesimo di Invisibilità superiore. 2 Azioni.
 
 **Ecologia**
-Ambiente: Qualsiasi (Inferno)
-Organizzazione: Solitario, squadra (2-3), concilio (4-10) o contingente (1-3 diavoli del ghiaccio, 2-6 diavoli cornuti e 1-4 diavoli d'ossa
+
+| Ambiente: Qualsiasi (Inferno) |
+| --- |
+| Organizzazione: Solitario, squadra (2-3), concilio (4-10) o contingente (1-3 diavoli del ghiaccio, 2-6 diavoli cornuti e 1-4 diavoli d'ossa |
+
 **Categoria Tesoro**: I
 **Descrizione**
 I diavoli d'ossa sono inquisitori delle razze diaboliche, noti per la loro passione per la tortura di mortali, anime e altri diavoli. Nati nelle paludi di Stigia, nel quinto girone dell'Inferno, fanno rispettare gli ordini degli arcidiavoli con devozione assoluta.
@@ -24140,10 +24257,10 @@ I diavoli d'ossa viaggiano spesso fino al piano mortale per servire malvagi inca
 
 ## Diavolo Spinoso
 - **Taglia/Tipo**: Piccola diavolo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 1 Int 0 Sag 2 Car -1}
+- **Caratt.**: For 0 Des 2 Cos 1 Int 0 Sag 2 Car -1
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 6 m, volo 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +4}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +4
 - **Res. Danni**: Freddo; da arma non magica o non argentata
 - **Imm. Danni**: Fuoco, Veleno
 - **Vulnerabilità**: argento, Luce
@@ -24174,8 +24291,11 @@ I diavoli d'ossa viaggiano spesso fino al piano mortale per servire malvagi inca
 *Colpisce:* 4 (1d4 + 2) danni perforanti più 3 (1d6) danni da fuoco.
 
 **Ecologia**
-Ambiente: Qualsiasi (Inferno)
-Organizzazione: Solitario, coppia, gruppo (3-5) o plotone (6-11)
+
+| Ambiente: Qualsiasi (Inferno) |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-5) o plotone (6-11) |
+
 **Categoria Tesoro**: J
 **Descrizione**
 Sentinelle delle volte dell'Inferno, carcerieri delle anime più nere e armi viventi delle forge infernali. Un Diavolo Spinoso ama sentire il sangue caldo sulle proprie spine e preferisce gettarsi nella mischia quando gli viene offerta l'opportunità di combattere.
@@ -24184,10 +24304,10 @@ La maggior parte dei diavoli spinosi è alta dai 2,1 metri in su e pesa 150 kg, 
 
 ## Erinni
 - **Taglia/Tipo**: Media diavolo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 3 Cos 4 Int 2 Sag 2 Car 4}
+- **Caratt.**: For 4 Des 3 Cos 4 Int 2 Sag 2 Car 4
 - **Punti Ferita**: 240,  **Difesa:** 31,  **Iniziativa:** +3
 - **Movimento**: 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +16, Riflessi +15, Volontà +14
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +16, Riflessi +15, Volontà +14
 - **Res. Danni**: Freddo; da arma non magica o non argentata
 - **Imm. Danni**: Fuoco, Veleno
 - **Vulnerabilità**: argento, Luce
@@ -24216,8 +24336,11 @@ La maggior parte dei diavoli spinosi è alta dai 2,1 metri in su e pesa 150 kg, 
 ***Arrabbiato:*** L'Erinni incanala la sua energia magica in un attacco. Il bersaglio dell'attacco viene colpito da una infernale fiamma che causa 12d6 di danno da Vuoto. Tiro Salvezza DC 25 Riflessi per dimezzare. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Qualsiasi (Inferno)
-Organizzazione: Solitario o trio
+
+| Ambiente: Qualsiasi (Inferno) |
+| --- |
+| Organizzazione: Solitario o trio |
+
 **Categoria Tesoro**: Arco Lungo Composito Infuocato +1 [Forza +5], corda, Spada Lunga+1
 **Descrizione**
 Le erinni, note anche come Caduti, Ali Cineree e Furie, sono diavoli che insultano la loro forma angelica con la loro sete di vendetta e giustizia sanguinosa. Volteggiano sopra i cornicioni di Dite, il secondo girone dell'Inferno, sempre pronte alla battaglia per difendere l'inferno o per i capricci dei loro signori diabolici.
@@ -24228,10 +24351,10 @@ Le erinni sono alte circa 1,8 metri, pesano 70 kg e hanno ali nere con un'apertu
 
 ## Imp
 - **Taglia/Tipo**: Minuscola diavolo, mutaforma, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 3 Cos 1 Int 0 Sag 1 Car 2}
+- **Caratt.**: For -2 Des 3 Cos 1 Int 0 Sag 1 Car 2
 - **Punti Ferita**: 33,  **Difesa:** 16,  **Iniziativa:** +3
 - **Movimento**: 6 m, volo 12 m (6 m in forma di ratto; 6 m, volo 18 m in forma di corvo; 6 m, scalata 6 m in forma di ragno)
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Comp.**: Furtività +5, Ingannare +4, Percepire Emozioni +3
 - **Res. Danni**: Freddo; da arma non magica o non argentata
 - **Imm. Danni**: Fuoco, Veleno
@@ -24253,8 +24376,11 @@ Le erinni sono alte circa 1,8 metri, pesano 70 kg e hanno ali nere con un'apertu
 ***Invisibilità.*** Il diavolo resta invisibile finché non attacca o termina la sua concentrazione. Qualsiasi cosa che il diavolo stia trasportando o indossando, resta invisibile finché rimane in contatto con il diavolo.
 
 **Ecologia**
-Ambiente: Qualsiasi (Inferno)
-Organizzazione: Solitario, coppia o stormo (3-10)
+
+| Ambiente: Qualsiasi (Inferno) |
+| --- |
+| Organizzazione: Solitario, coppia o stormo (3-10) |
+
 **Categoria Tesoro**: K
 **Descrizione**
 Nati direttamente dalle fosse dell'Inferno, gli imp sono i diavoli meno potenti, anche se queste crudeli ed invadenti creature svolgono un ruolo importante nella corruzione delle anime mortali. Libere dalle gerarchie e dai doveri delle armate infernali, gli imp si dilettano ad ogni opportunità di viaggiare fino al Piano Materiale e di tentare astutamente i mortali, spingendoli a compiere atti sempre più depravati.
@@ -24267,10 +24393,10 @@ Diversamente dagli altri diavoli, gli imp si ritrovano spesso liberi e soli nel 
 
 ## Lemure
 - **Taglia/Tipo**: Media diavolo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des -3 Cos 0 Int -5 Sag 0 Car -4}
+- **Caratt.**: For 0 Des -3 Cos 0 Int -5 Sag 0 Car -4
 - **Punti Ferita**: 15,  **Difesa:** 9,  **Iniziativa:** -3
 - **Movimento**: 5 metri
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Res. Danni**: Freddo
 - **Imm. Danni**: Fuoco, Veleno
 - **Immunità**: affascinato, spaventato
@@ -24288,8 +24414,11 @@ Diversamente dagli altri diavoli, gli imp si ritrovano spesso liberi e soli nel 
 *Colpisce:* 2 (1d4) danni contundenti.
 
 **Ecologia**
-Ambiente: Qualsiasi (Inferno)
-Organizzazione: Solitario, coppia, gruppo (3-5), sciame (6-17) o schiera (10-40 o più)
+
+| Ambiente: Qualsiasi (Inferno) |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-5), sciame (6-17) o schiera (10-40 o più) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 I lemure sono i diavoli più infimi, nati dalle anime dannate all'inferno. Sono masse informi di carne tremolante, con tratti grotteschi che imitano i loro torturatori. Alti più di 1,2 metri e pesanti oltre 100 kg, sono creature rivoltanti che distruggono qualsiasi forma di vita non infernale.
@@ -24300,10 +24429,10 @@ I diavoli maggiori possono riconoscere i lemure più corrotti e trasformarli in 
 
 ## Plesiosauro
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 3 Int -4 Sag 1 Car -3}
+- **Caratt.**: For 4 Des 2 Cos 3 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 52,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 6 m, nuoto 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +4, Volontà +3
 - **Comp.**: Furtività +4, Consapevolezza +3
 - **Sfida**: 2 (450 PX)
 
@@ -24314,18 +24443,21 @@ I diavoli maggiori possono riconoscere i lemure più corrotti e trasformarli in 
 *Colpisce:* 14 (3d6 + 4) danni perforanti.
 
 **Ecologia**
-Ambiente: Acquatico Caldo
-Organizzazione: Solitario, coppia o branco (3-6)
+
+| Ambiente: Acquatico Caldo |
+| --- |
+| Organizzazione: Solitario, coppia o branco (3-6) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Il plesiosauro è un rettile acquatico dal lungo collo. Sebbene tecnicamente non sia un dinosauro, questa creatura ed i suoi simili si trovano spesso a cacciare in laghi ed oceani nei quali è facile trovare dei dinosauri.
 
 ## Tirannosauro
 - **Taglia/Tipo**: Enorme bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 7 Des 0 Cos 4 Int -4 Sag 1 Car -1}
+- **Caratt.**: For 7 Des 0 Cos 4 Int -4 Sag 1 Car -1
 - **Punti Ferita**: 165,  **Difesa:** 22,  **Iniziativa:** +0
 - **Movimento**: 15 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +12, Riflessi +8, Volontà +9
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +12, Riflessi +8, Volontà +9
 - **Sfida**: 8 (3900 PX)
 
 **Azioni*Multiattacco.*** Il tirannosauro effettua due attacchi: uno con il morso e uno con la coda. Non può effettuare entrambi gli attacchi contro lo stesso bersaglio.
@@ -24347,18 +24479,21 @@ Il plesiosauro è un rettile acquatico dal lungo collo. Sebbene tecnicamente non
 ***Arrabbiato:*** il Tirannosauro è pervaso da furia assassina. Attacca qualsiasi creatura amica o nemica. Il Tiro per Colpire guadagna +1d6 ed il morso causa Sanguinamento 2/15.
 
 **Ecologia**
-Ambiente: Foreste e Pianure Calde
-Organizzazione: Solitario, coppia o branco (3-6)
+
+| Ambiente: Foreste e Pianure Calde |
+| --- |
+| Organizzazione: Solitario, coppia o branco (3-6) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Il tirannosauro è un predatore primario che misura 12 metri di lunghezza e pesa 7000 kg.
 
 ## Triceratopo
 - **Taglia/Tipo**: Enorme bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des -1 Cos 3 Int -4 Sag 0 Car -3}
+- **Caratt.**: For 6 Des -1 Cos 3 Int -4 Sag 0 Car -3
 - **Punti Ferita**: 108,  **Difesa:** 17,  **Iniziativa:** -1
 - **Movimento**: 15 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +4, Volontà +5}
+- **Tiri Salvez.**: Tempra +8, Riflessi +4, Volontà +5
 - **Sfida**: 5 (1800 PX)
 
 ***Carica Travolgente.*** Se il triceratopo si muove di almeno 6 metri diretto verso una creatura e la colpisce con un attacco di incornata durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 19 o cadere prono. Se il bersaglio è prono, il triceratopo può effettuare un attacco di pestone contro di lui come Azione Immediata.
@@ -24374,18 +24509,21 @@ Il tirannosauro è un predatore primario che misura 12 metri di lunghezza e pesa
 **Reazione: *Collare protettivo*** il Triceratopo piega la testa sotto il collare e guadagna +4 alla Difesa.
 
 **Ecologia**
-Ambiente: Pianure Calde
-Organizzazione: Solitario, coppia o branco (5-8)
+
+| Ambiente: Pianure Calde |
+| --- |
+| Organizzazione: Solitario, coppia o branco (5-8) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Il triceratopo è un erbivoro irascibile e caparbio. Un tipico triceratopo è lungo 9 metri e pesa 10000 kg.
 
 ## Divora Cervelli
 - **Taglia/Tipo**: Piccola aberrazione, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 6 Cos 5 Int 3 Sag 0 Car 3}
+- **Caratt.**: For 1 Des 6 Cos 5 Int 3 Sag 0 Car 3
 - **Punti Ferita**: 186,  **Difesa:** 30,  **Iniziativa:** +6
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +15, Volontà +9
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +14, Riflessi +15, Volontà +9
 - **Imm. Danni**: Fuoco
 - **Immunità**: incantesimi dalle liste di magia Illusione e Charme
 - **Sensi**: Vista Cieca 18 m
@@ -24419,8 +24557,11 @@ Finché il Divora Cervelli occupa il corpo, conosce (e può parlare) i linguaggi
 Il danno inflitto al corpo, che ha il doppio dei Punti Ferita originali, ospite non danneggia il Divora Cervelli e se il corpo ospite viene distrutto il Divora Cervelli esce ed è Stordito per 1 round.
 
 **Ecologia**
-Ambiente: Qualsiasi sotterraneo
-Organizzazione: Solitario, covata (2-6) o tribù (7-16)
+
+| Ambiente: Qualsiasi sotterraneo |
+| --- |
+| Organizzazione: Solitario, covata (2-6) o tribù (7-16) |
+
 **Categoria Tesoro**: G
 **Descrizione**
 Un Divora Cervelli altro non è che un cervello di circa 50 cm dotato di 4 potenti zampe artigliate.
@@ -24433,10 +24574,10 @@ Si dice che il giardino di Shayalia sia pieno di Divora Cervelli. Un Divora Cerv
 
 ## Dobi
 - **Taglia/Tipo**: Minuscola fatata, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des -1 Cos 2 Int -2 Sag 1 Car 3}
+- **Caratt.**: For -3 Des -1 Cos 2 Int -2 Sag 1 Car 3
 - **Punti Ferita**: 15,  **Difesa:** 11,  **Iniziativa:** -1
 - **Movimento**: 3 m, Nuotare 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Visione Crepuscolare 18 m
 - **Linguaggi**: comprende il Comune, ma non lo parla
 - **Imm. Danni**: al danno delle armi non magiche
@@ -24446,8 +24587,11 @@ Si dice che il giardino di Shayalia sia pieno di Divora Cervelli. Un Divora Cerv
 ***Dobi Dobi Dobi*** Quando il Dobi subisce più di 3 punti ferita di danno con un arma non contundente si divide in due Dobi più piccoli ognuno con lo stesso ammontare di Punti Ferita rimasti al Dobi precedente.
 **Azioni*Dobi Dobi*** il Dobi proietta un aura di Calmare Emozioni come l'omonimo incantesimo ma non è concesso il Tiro Salvezza. Il Dobi può influenzare una sola creatura alla volta con il suo potere.
 **Ecologia**
-Ambiente: Paludi
-Organizzazione: gruppo
+
+| Ambiente: Paludi |
+| --- |
+| Organizzazione: gruppo |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 
@@ -24455,10 +24599,10 @@ Da *Viaggio nel primo mondo.* Romanzo di Federica Angeli
 
 ## Doppelganger
 - **Taglia/Tipo**: Media mostruosità (mutaforma), neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 4 Cos 2 Int 0 Sag 1 Car 2}
+- **Caratt.**: For 0 Des 4 Cos 2 Int 0 Sag 1 Car 2
 - **Punti Ferita**: 70,  **Difesa:** 20,  **Iniziativa:** +4
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +7, Volontà +4}
+- **Tiri Salvez.**: Tempra +5, Riflessi +7, Volontà +4
 - **Comp.**: Ingannare +6, Percepire Emozioni +3
 - **Immunità**: affascinato
 - **Sensi**: Scurovisione 18 m
@@ -24480,8 +24624,11 @@ Da *Viaggio nel primo mondo.* Romanzo di Federica Angeli
 ***Leggere Pensieri.*** Il doppelganger legge magicamente i pensieri di superficie di una creatura entro 18 metri da lui. L'effetto può penetrare le barriere, ma 1 metro di legno o terra, 50 centimetri di pietra, 5 centimetri di metallo, o un sottile foglio di piombo lo blocca. Mentre il bersaglio è a gittata, il doppelganger può continuare a leggerne i pensieri, purché la concentrazione del doppelganger non venga infranta (come la concentrazione di un incantesimo). Mentre legge la mente di un bersaglio, il doppelganger ha +1d6 alle prove di Saggezza e Carisma contro il bersaglio.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario, coppia o banda (3-6)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario, coppia o banda (3-6) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG
 **Descrizione**
 I doppelganger sono esseri che possono assumere la forma di chiunque incontrino. Nella loro forma naturale, sembrano umanoidi snelli e fragili, con tratti facciali non del tutto formati e carnagione pallida.
@@ -24489,8 +24636,6 @@ I doppelganger sono esseri che possono assumere la forma di chiunque incontrino.
 Preferiscono infiltrarsi in società complesse per accumulare ricchezza e potere, usando la loro abilità mimetica per tendere imboscate e trappole. Sebbene non siano necessariamente malvagi, sono egoisti e vedono gli altri come giocattoli da manipolare.
 
 Alcuni doppelganger amano i giochi politici, mentre altri cambiano continuamente razza, sesso e partner amorosi. Sono noti per le loro capacità di cambiare forma e per evitare la cattura. I più potenti possono assumere anche abilità e ricordi delle creature che impersonano.
-
-\rule
 
 I Draghi sono creature temibili, pericolose, antiche; rappresentano il potere stesso.
 
@@ -24513,6 +24658,7 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 **Tabella: accesso Lista di Magia per Draghi**
 
 	
+
 | **Colore** | **Lista** |
 | --- | --- |
 | Bianco | Acqua |
@@ -24527,6 +24673,7 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 | Argento | Trasmutazione |
 | Oro | Cura, Evocazione |
 | Rame | Invocazione |
+
 Tutti i Draghi hanno accesso alla lista di magia Universale e prediligono certi incantesimi che sono segnati nella loro descrizione.
 
 Nella **Descrizione di ogni Drago Antico** troverete una breve descrizione del tipo di drago.
@@ -24538,7 +24685,9 @@ Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è 
 
 | **3d6** | **Potere del Drago** |
 | --- | --- |
+
 |
+
 | 3 | Ricarica veloce. Il Drago ricarica il soffio con 4-6. |
 | 4 | Agilità sorprendente. La Difesa del Drago aumenta di un ulteriore +4. |
 | 5-7 | Signore dei Serpenti. La coda ha un pungiglione velenoso che infligge 2xGS PF di danno da veleno. TS Tempra DC 10+GS per dimezzare. |
@@ -24546,24 +24695,25 @@ Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è 
 | 11-13 | Regina Lucertola. Lo sguardo del Drago ha lo stesso effetto di quello del Basilisco. |
 | 14-15 | Potere del Ferro. Il Drago ha *Arrugginire Metallo* come il Rugginofago. |
 | 16 | Resistenza alla magia. Il Drago è immune agli incantesimi sotto GS/5 livello. |
-| 17 | Immunità aggiuntiva. Il Drago è immune ai danni da una forma di Energia (pag. ) in più a caso (pag. ). |
+| 17 | Immunità aggiuntiva. Il Drago è immune ai danni da una forma di Energia  in più a caso . |
 | 18 | Pelle corazzata. Il Drago ha riduzione del danno pari a GS/3 ai danni T/P/C. |
 
 > Oh maledetti possa Lynx chiudervi tutti i portali |
-Oh assassini possa Sumkjir sterminarvi
-Oh devastatori possa Nedraf rompervi le ossa!
-(imprecazioni popolari contro i Draghi)
 
-\rule
+| Oh assassini possa Sumkjir sterminarvi |
+| --- |
+| Oh devastatori possa Nedraf rompervi le ossa! |
+
+(imprecazioni popolari contro i Draghi)
 
 **Draghi di Tàhil**
 
 ## Drago Bianco Antico
 - **Taglia/Tipo**: Mastodontica drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 0 Cos 8 Int 3 Sag 1 Car 2}
+- **Caratt.**: For 8 Des 0 Cos 8 Int 3 Sag 1 Car 2
 - **Punti Ferita**: 407,  **Difesa:** 38,  **Iniziativa:** +3
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +28, Riflessi +20, Volontà +21
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +28, Riflessi +20, Volontà +21
 - **Comp.**: Furtività +6, Consapevolezza +13
 - **Imm. Danni**: Freddo, armi +1
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -24607,8 +24757,11 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 **Individuare.** Il drago effettua una prova Consapevolezza.
 
 **Ecologia**
-Ambiente: Montagne Fredde
-Organizzazione: Solitario
+
+| Ambiente: Montagne Fredde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
 I Draghi Bianchi sono tra i più selvaggi e animali di tutti i draghi.
@@ -24623,20 +24776,24 @@ Poco inclini alla magia sanno però soffiare schegge di ghiaccio molto più freq
 
 Le loro tane sono caverne ghiacciate nelle montagne o scavate nei ghiacciai più massicci.
 
-I Draghi Bianchi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista dell'Acqua ed è immune al freddo.
+| I Draghi Bianchi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista dell'Acqua ed è immune al freddo. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Scudo di Fuoco
 - Tempesta di Ghiaccio
 - Tempesta di Nevischio
 
 ## Drago Bianco Adulto
 - **Taglia/Tipo**: Enorme drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 0 Cos 6 Int 2 Sag 1 Car 1}
+- **Caratt.**: For 6 Des 0 Cos 6 Int 2 Sag 1 Car 1
 - **Punti Ferita**: 264,  **Difesa:** 29,  **Iniziativa:** +2
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +19, Riflessi +13, Volontà +14
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +19, Riflessi +13, Volontà +14
 - **Comp.**: Furtività +5, Consapevolezza +8
 - **Imm. Danni**: Freddo
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -24682,24 +24839,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
 **Ecologia**
-Ambiente: Montagne Fredde
-Organizzazione: Solitario
+
+| Ambiente: Montagne Fredde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: E
 **Descrizione**
-Vedi descrizione Drago Bianco Antico.
+
+| Vedi descrizione Drago Bianco Antico. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Scudo di Fuoco
 - Tempesta di Ghiaccio
 - Tempesta di Nevischio
 
 ## Drago Bianco Giovane
 - **Taglia/Tipo**: Grande drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 4 Int -2 Sag 0 Car 1}
+- **Caratt.**: For 4 Des 0 Cos 4 Int -2 Sag 0 Car 1
 - **Punti Ferita**: 127,  **Difesa:** 20,  **Iniziativa:** +0
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +6, Volontà +6}
+- **Tiri Salvez.**: Tempra +10, Riflessi +6, Volontà +6
 - **Comp.**: Furtività +3, Consapevolezza +6
 - **Imm. Danni**: Freddo
 - **Sensi**: Scurovisione 36 m, Vista Cieca 9 m
@@ -24721,24 +24886,32 @@ Vedi descrizione Drago Bianco Antico.
 ***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 9 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 18 e subire 45 (10d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Ecologia**
-Ambiente: Montagne Fredde
-Organizzazione: Solitario
+
+| Ambiente: Montagne Fredde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
-Vedi descrizione Drago Bianco Antico.
+
+| Vedi descrizione Drago Bianco Antico. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Scudo di Fuoco
 - Tempesta di Ghiaccio
 - Tempesta di Nevischio
 
 ## Drago Bianco Cucciolo
 - **Taglia/Tipo**: Media drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 0 Cos 2 Int -3 Sag 0 Car 0}
+- **Caratt.**: For 2 Des 0 Cos 2 Int -3 Sag 0 Car 0
 - **Punti Ferita**: 51,  **Difesa:** 14,  **Iniziativa:** +0
 - **Movimento**: 9 m, nuoto 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +2, Consapevolezza +4
 - **Imm. Danni**: Freddo
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -24752,18 +24925,21 @@ Vedi descrizione Drago Bianco Antico.
 ***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 15 e subire 22 (5d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Ecologia**
-Ambiente: Montagne Fredde
-Organizzazione: Solitario
+
+| Ambiente: Montagne Fredde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Vedi descrizione Drago Bianco Antico.
 
 ## Drago Blu Antico
 - **Taglia/Tipo**: Mastodontica drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 9 Des 0 Cos 8 Int 4 Sag 3 Car 5}
+- **Caratt.**: For 9 Des 0 Cos 8 Int 4 Sag 3 Car 5
 - **Punti Ferita**: 465,  **Difesa:** 42,  **Iniziativa:** +4
 - **Movimento**: 12 m, scavo 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +31, Riflessi +23, Volontà +26
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +31, Riflessi +23, Volontà +26
 - **Comp.**: Furtività +7, Consapevolezza +17
 - **Imm. Danni**: Elettricità, armi +1
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -24805,8 +24981,11 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 **Ecologia**
-Ambiente: Picchi montuosi
-Organizzazione: Solitario
+
+| Ambiente: Picchi montuosi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
 I Draghi Blu abitano tra le nuvole, volando (e levitando) tra le tempeste.
@@ -24827,20 +25006,24 @@ Solitamente non si trova mai un nido da solo, ma interi altopiani dominati da de
 
 Non vanno d'accordo con i draghi viola che disprezzano per la scelta di aver rinunciato al volo per vivere sottoterra.
 
-I Draghi Blu hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista dell'Aria ed è immune all'elettricità.
+| I Draghi Blu hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista dell'Aria ed è immune all'elettricità. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Nebbia mortale
 - Invocare il Fulmine
 - Tempesta di Ghiaccio
 
 ## Drago Blu Adulto
 - **Taglia/Tipo**: Enorme drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 7 Des 0 Cos 6 Int 3 Sag 2 Car 4}
+- **Caratt.**: For 7 Des 0 Cos 6 Int 3 Sag 2 Car 4
 - **Punti Ferita**: 322,  **Difesa:** 33,  **Iniziativa:** +3
 - **Movimento**: 12 m, scavo 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +22, Riflessi +16, Volontà +18
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +22, Riflessi +16, Volontà +18
 - **Comp.**: Furtività +5, Consapevolezza +13
 - **Imm. Danni**: Elettricità
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -24886,24 +25069,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
 **Ecologia**
-Ambiente: Picchi montuosi
-Organizzazione: Solitario
+
+| Ambiente: Picchi montuosi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: E
 **Descrizione**
-Vedi Descrizione Drago Blu Antico.
+
+| Vedi Descrizione Drago Blu Antico. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Nebbia mortale
 - Invocare il Fulmine
 - Tempesta di Ghiaccio
 
 ## Drago Blu Giovane
 - **Taglia/Tipo**: Enorme drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 0 Cos 4 Int 2 Sag 1 Car 3}
+- **Caratt.**: For 5 Des 0 Cos 4 Int 2 Sag 1 Car 3
 - **Punti Ferita**: 184,  **Difesa:** 24,  **Iniziativa:** +2
 - **Movimento**: 12 m, scavo 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +9, Volontà +10
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +13, Riflessi +9, Volontà +10
 - **Comp.**: Furtività +4, Consapevolezza +9
 - **Imm. Danni**: Elettricità
 - **Sensi**: Scurovisione 36 m, Vista Cieca 9 m
@@ -24925,24 +25116,32 @@ Vedi Descrizione Drago Blu Antico.
 ***Arrabbiato:*** il Drago Blu Giovane ricarica il suo soffio fulminante.
 
 **Ecologia**
-Ambiente: Picchi montuosi
-Organizzazione: Solitario
+
+| Ambiente: Picchi montuosi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
-Vedi Descrizione Drago Blu Antico.
+
+| Vedi Descrizione Drago Blu Antico. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Nebbia mortale
 - Invocare il Fulmine
 - Tempesta di Ghiaccio
 
 ## Drago Blu Cucciolo
 - **Taglia/Tipo**: Enorme drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 2 Int 1 Sag 0 Car 2}
+- **Caratt.**: For 3 Des 0 Cos 2 Int 1 Sag 0 Car 2
 - **Punti Ferita**: 70,  **Difesa:** 16,  **Iniziativa:** +1
 - **Movimento**: 9 m, scavo 5 metri, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +2, Consapevolezza +4
 - **Imm. Danni**: Elettricità
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -24956,18 +25155,21 @@ Vedi Descrizione Drago Blu Antico.
 ***Soffio Fulminante (Ricarica 5-6).*** Il drago esala fulmini in una linea lunga 9 metri e larga 1 metro. Ogni creatura su quella linea deve effettuare un Tiro Salvezza di Riflessi DC 14 e subire 22 (4d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Ecologia**
-Ambiente: Picchi montuosi
-Organizzazione: Solitario
+
+| Ambiente: Picchi montuosi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Vedi Descrizione Drago Blu Antico.
 
 ## Drago Giallo Antico
 - **Taglia/Tipo**: Mastodontica drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 10 Des 1 Cos 8 Int 3 Sag 2 Car 4}
+- **Caratt.**: For 10 Des 1 Cos 8 Int 3 Sag 2 Car 4
 - **Punti Ferita**: 465,  **Difesa:** 43,  **Iniziativa:** +3
 - **Movimento**: 12 m, scavo 24 m, scalata 24, volo 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +31, Riflessi +24, Volontà +25
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +31, Riflessi +24, Volontà +25
 - **Comp.**: Furtività +7, Consapevolezza +17
 - **Imm. Danni**: Fuoco, armi +1
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -24988,13 +25190,19 @@ Vedi Descrizione Drago Blu Antico.
 ***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 ***Soffio Incendiario (Ricarica 5-6).*** Il drago esala aria rovente in una linea lunga 36 metri e larga 3 metri. Ogni creatura su quella linea deve effettuare un Tiro Salvezza su Riflessi DC 35 e subire 88 (16d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 **Azioni Aggiuntive**
-Il drago può effettuare 3 azioni aggiuntive, scelte tra le opzioni seguenti. Può usare solo un'Azione Aggiuntiva alla volta e solo al termine del round di un'altra creatura. Il drago recupera le Azioni Aggiuntive spese all'inizio del proprio round.
+
+| Il drago può effettuare 3 azioni aggiuntive, scelte tra le opzioni seguenti. Può usare solo un'Azione Aggiuntiva alla volta e solo al termine del round di un'altra creatura. Il drago recupera le Azioni Aggiuntive spese all'inizio del proprio round. |
+| --- |
+
 **Attacco di Ala (Costa 2 Azioni).** Il drago batte le ali. Ogni creatura entro 5 metri dal drago deve riuscire un Tiro Salvezza su Riflessi DC 35 o subire 16 (2d6 + 9) danni contundenti e venir gettato prono. Il drago può poi volare fino a metà della sua velocità di volo.
 **Attacco di Coda.** Il drago effettua un attacco di coda.
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 **Ecologia**
-Ambiente: Deserti Caldi
-Organizzazione: Solitario
+
+| Ambiente: Deserti Caldi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
 I Draghi Gialli hanno scaglie di vari toni di giallo che con la crescita prendono ad assomigliare sempre di più al colore delle sabbie dove dimorano, dal giallo chiaro all'ocra mattone.
@@ -25007,20 +25215,24 @@ Hanno una passione per la carne dei nani che trovano saporita anche se asciutta.
 
 Il Drago Giallo pur se intelligente è una macchina di morte e difficilmente scende a patti, solo se si trova in serio pericolo.
 
-Un Drago Giallo hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco.
+| Un Drago Giallo hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Creare Cibo e Acqua
 - Muro di Fuoco
 - Scudo di Fuoco
 
 ## Drago Nero Antico
 - **Taglia/Tipo**: Mastodontica drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 2 Cos 7 Int 3 Sag 2 Car 4}
+- **Caratt.**: For 8 Des 2 Cos 7 Int 3 Sag 2 Car 4
 - **Punti Ferita**: 422,  **Difesa:** 42,  **Iniziativa:** +3
 - **Movimento**: 12 m, scalata 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +28, Riflessi +23, Volontà +23
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +28, Riflessi +23, Volontà +23
 - **Comp.**: Furtività +9, Consapevolezza +16
 - **Imm. Danni**: Acido, armi +1
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -25064,8 +25276,11 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
 **Ecologia**
-Ambiente: Paludi Calde
-Organizzazione: Solitario
+
+| Ambiente: Paludi Calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
 I Draghi Neri sono violenti ed aggressivi, vivono in paludi e acquitrini e che generalmente governano come padroni indiscussi.
@@ -25088,10 +25303,14 @@ L'ambiente dove vive un drago nero ne subisce i suoi effetti, vapori acidi, dist
 
 Il Drago Nero rappresentano i Tratti dell'egoismo e violenza odiando ogni forma di vita, compreso gli stessi draghi neri.
 
-I Draghi neri hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista di Necromanzia ed è immune all'acido.
+| I Draghi neri hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista di Necromanzia ed è immune all'acido. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Animare Morti
 - Creare Non Morti
 - Scagliare Maledizione
@@ -25100,10 +25319,10 @@ Ebbene si, il Drago Nero è l'unica creatura sulla Terra che può portare in vit
 
 ## Drago Nero Adulto
 - **Taglia/Tipo**: Enorme drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 2 Cos 5 Int 2 Sag 1 Car 3}
+- **Caratt.**: For 6 Des 2 Cos 5 Int 2 Sag 1 Car 3
 - **Punti Ferita**: 338,  **Difesa:** 36,  **Iniziativa:** +2
 - **Movimento**: 12 m, scalata 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +22, Riflessi +19, Volontà +18
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +22, Riflessi +19, Volontà +18
 - **Comp.**: Furtività +7, Consapevolezza +11
 - **Imm. Danni**: Acido
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -25151,24 +25370,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
 **Ecologia**
-Ambiente: Paludi Calde
-Organizzazione: Solitario
+
+| Ambiente: Paludi Calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
-Vedi Descrizione Drago Nero Antico.
+
+| Vedi Descrizione Drago Nero Antico. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Animare Morti
 - Creare Non Morti
 - Scagliare Maledizione
 
 ## Drago Nero Giovane
 - **Taglia/Tipo**: Grande drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 3 Int 1 Sag 0 Car 2}
+- **Caratt.**: For 4 Des 2 Cos 3 Int 1 Sag 0 Car 2
 - **Punti Ferita**: 145,  **Difesa:** 23,  **Iniziativa:** +2
 - **Movimento**: 12 m, scalata 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +9, Volontà +7}
+- **Tiri Salvez.**: Tempra +10, Riflessi +9, Volontà +7
 - **Comp.**: Furtività +5, Consapevolezza +6
 - **Imm. Danni**: Acido
 - **Sensi**: Scurovisione 36 m, Vista Cieca 9 m
@@ -25192,24 +25419,32 @@ Vedi Descrizione Drago Nero Antico.
 ***Arrabbiato:*** Il Drago Nero Giovane ricarica il soffio acido. Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Paludi Calde
-Organizzazione: Solitario
+
+| Ambiente: Paludi Calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
-Vedi Descrizione Drago Nero Antico.
+
+| Vedi Descrizione Drago Nero Antico. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Animare Morti
 - Creare Non Morti
 - Scagliare Maledizione
 
 ## Drago Nero Cucciolo
 - **Taglia/Tipo**: Media drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 1 Int 0 Sag 0 Car 1}
+- **Caratt.**: For 2 Des 2 Cos 1 Int 0 Sag 0 Car 1
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 9 m, scalata 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Comp.**: Furtività +4, Consapevolezza +4
 - **Imm. Danni**: Acido
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -25225,18 +25460,21 @@ Vedi Descrizione Drago Nero Antico.
 ***Soffio Acido (Ricarica 5-6).*** Il drago esala acido in una linea di 5 metri larga 1 metro. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 14 e subire 22 (5d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Ecologia**
-Ambiente: Paludi Calde
-Organizzazione: Solitario
+
+| Ambiente: Paludi Calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
 Vedi Descrizione Drago Nero Antico.
 
 ## Drago Porpora Antico
 - **Taglia/Tipo**: Mastodontica drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 3 Cos 4 Int 4 Sag 4 Car 4}
+- **Caratt.**: For 8 Des 3 Cos 4 Int 4 Sag 4 Car 4
 - **Punti Ferita**: 428,  **Difesa:** 44,  **Iniziativa:** +4
 - **Movimento**: 12 m, scavare 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +26, Riflessi +25, Volontà +26
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +26, Riflessi +25, Volontà +26
 - **Comp.**: Conoscenza Dungeon +8, Intimidazione +11, Percepire Emozioni +10, Consapevolezza + 15
 - **Imm. Danni**: Suono, armi +1
 - **Sensi**: Scurovisione 36 m, Senso Tellurico 72 m
@@ -25280,8 +25518,11 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
 **Ecologia**
-Ambiente: Caverne
-Organizzazione: Solitario, creature sotterranee
+
+| Ambiente: Caverne |
+| --- |
+| Organizzazione: Solitario, creature sotterranee |
+
 **Categoria Tesoro**: E
 **Descrizione**
 I Draghi Porpora vivono sotto terra e si sono perfettamente adattati alla vita sotterranea.
@@ -25295,20 +25536,24 @@ Dall'aspetto tozzo hanno denti fini e lunghi ed artigli enormi che continuamente
 
 E' forte e coraggioso, arrogante ma non sfrontato. Non ha paura di combattere se pensa di vincere. Porta sempre la battaglia sottoterra dove può creare fosse per fare precipitare i nemici o scappare se necessario.
 
-Un Drago Porpora ha +1d6 nelle prove di magia e può ignorare un dado tirato nella prova con la Lista della Terra, è immune al danno ed effetti sonori.
+| Un Drago Porpora ha +1d6 nelle prove di magia e può ignorare un dado tirato nella prova con la Lista della Terra, è immune al danno ed effetti sonori. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Freccia Acida di Restser
 - Passare Senza Tracce
 - Scolpire Pietra
 
 ## Drago Rosso Antico
 - **Taglia/Tipo**: Mastodontica drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 10 Des 0 Cos 9 Int 4 Sag 2 Car 6}
+- **Caratt.**: For 10 Des 0 Cos 9 Int 4 Sag 2 Car 6
 - **Punti Ferita**: 490,  **Difesa:** 44,  **Iniziativa:** +4
 - **Movimento**: 12 m, scalata 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +33, Riflessi +24, Volontà +26
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +33, Riflessi +24, Volontà +26
 - **Comp.**: Furtività +7, Consapevolezza +16
 - **Imm. Danni**: Fuoco, armi +1
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -25352,8 +25597,11 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 ***Arrabbiato***: Il drago rosso si scuote e ruggisce. 1 volta al giorno, la prima volta che è Arrabbiato, termina tutte le condizioni negative su di se e tutte le abilità si ricaricano. Il soffio si ricarica con 3-6.
 
 **Ecologia**
-Ambiente: Montagne calde
-Organizzazione: Solitario
+
+| Ambiente: Montagne calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
 Il Drago Rosso si crede il Re dei Draghi per via della sua potenza fisica e del soffio capace di sciogliere la pietra.
@@ -25365,20 +25613,24 @@ I Draghi Rossi prediligono le montagne calde e se possibile direttamente diretta
 
 Combattono sfruttando la loro mole, le ali, il morso artigli.. insomma tutto ciò che sono ed hanno a disposizione. Un Drago Rosso combatte sempre fino alla morte non si ritira ne scappa ne rinuncia ad una sfida, l'orgoglio di cui sono tronfi non gli permette di mostrarsi deboli.
 
-Un Drago Rosso hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco.
+| Un Drago Rosso hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Palla di Fuoco
 - Nube Incendiaria
 - Muro di Fuoco
 
 ## Drago Rosso Adulto
 - **Taglia/Tipo**: Enorme drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 0 Cos 7 Int 3 Sag 1 Car 5}
+- **Caratt.**: For 8 Des 0 Cos 7 Int 3 Sag 1 Car 5
 - **Punti Ferita**: 344,  **Difesa:** 34,  **Iniziativa:** +3
 - **Movimento**: 12 m, scalata 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +24, Riflessi +17, Volontà +18
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +24, Riflessi +17, Volontà +18
 - **Comp.**: Furtività +6, Consapevolezza +13
 - **Imm. Danni**: Fuoco
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -25426,24 +25678,32 @@ Il drago può poi volare fino a metà del suo movimento di volo.
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
 **Ecologia**
-Ambiente: Montagne calde
-Organizzazione: Solitario
+
+| Ambiente: Montagne calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
-Vedi Descrizione Drago Rosso Antico.
+
+| Vedi Descrizione Drago Rosso Antico. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Palla di Fuoco
 - Nube Incendiaria
 - Muro di Fuoco
 
 ## Drago Rosso Giovane
 - **Taglia/Tipo**: Grande drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 0 Cos 5 Int 2 Sag 0 Car 4}
+- **Caratt.**: For 6 Des 0 Cos 5 Int 2 Sag 0 Car 4
 - **Punti Ferita**: 205,  **Difesa:** 25,  **Iniziativa:** +2
 - **Movimento**: 12 m, scalata 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +10, Volontà +10
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +15, Riflessi +10, Volontà +10
 - **Comp.**: Furtività +4, Consapevolezza +8
 - **Imm. Danni**: Fuoco
 - **Sensi**: Scurovisione 36 m, Vista Cieca 9 m
@@ -25467,23 +25727,31 @@ Vedi Descrizione Drago Rosso Antico.
 Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Montagne calde
-Organizzazione: Solitario
+
+| Ambiente: Montagne calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
-Vedi Descrizione Drago Rosso Antico.
+
+| Vedi Descrizione Drago Rosso Antico. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Palla di Fuoco
 - Nube Incendiaria
 - Muro di Fuoco
 
 ## Drago Rosso Cucciolo
 - **Taglia/Tipo**: Media drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 3 Int 1 Sag 0 Car 2}
+- **Caratt.**: For 4 Des 0 Cos 3 Int 1 Sag 0 Car 2
 - **Punti Ferita**: 89,  **Difesa:** 17,  **Iniziativa:** +1
 - **Movimento**: 9 m, scalata 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +4, Volontà +4}
+- **Tiri Salvez.**: Tempra +7, Riflessi +4, Volontà +4
 - **Comp.**: Furtività +2, Consapevolezza +4
 - **Imm. Danni**: Fuoco
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -25497,17 +25765,20 @@ Vedi Descrizione Drago Rosso Antico.
 ***Soffio Infuocato (Ricarica 5-6).*** Il drago esala fuoco in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 16 e subire 24 (7d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Ecologia**
-Ambiente: Montagne calde
-Organizzazione: Solitario
+
+| Ambiente: Montagne calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 Vedi Descrizione Drago Rosso Antico.
 
 ## Drago Verde Antico
 - **Taglia/Tipo**: Mastodontica drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 1 Cos 7 Int 5 Sag 3 Car 4}
+- **Caratt.**: For 8 Des 1 Cos 7 Int 5 Sag 3 Car 4
 - **Punti Ferita**: 441,  **Difesa:** 42,  **Iniziativa:** +5
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +29, Riflessi +23, Volontà +25
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +29, Riflessi +23, Volontà +25
 - **Comp.**: Furtività +8, Ingannare +11, Percepire Emozioni +10, Consapevolezza + 15
 - **Imm. Danni**: Veleno, armi +1
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -25551,8 +25822,11 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
 **Ecologia**
-Ambiente: Foreste Temperate
-Organizzazione: Solitario
+
+| Ambiente: Foreste Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
 I Draghi verdi amano le foreste e la natura incontaminata dove si reputano i padroni e re indiscussi.
@@ -25569,20 +25843,24 @@ Un Drago verde non ama volare e preferisce saltare schiacciando con il suo peso 
 
 Tra i tanti draghi quello verde è forse quello che farà parlare gli avventurieri se si dimostrano rispettosi ed impauriti dalla sua regalità.
 
-I Draghi Verdi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista di Animali e Piante ed è immune i Veleni sia a quelli magici che naturali.
+| I Draghi Verdi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista di Animali e Piante ed è immune i Veleni sia a quelli magici che naturali. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Guscio Anti-Vita
 - Localizza Animali e Piante
 - Rimuovi Veleno
 
 ## Drago Verde Adulto
 - **Taglia/Tipo**: Enorme drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 1 Cos 5 Int 4 Sag 2 Car 3}
+- **Caratt.**: For 6 Des 1 Cos 5 Int 4 Sag 2 Car 3
 - **Punti Ferita**: 300,  **Difesa:** 33,  **Iniziativa:** +4
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +20, Riflessi +16, Volontà +17
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +20, Riflessi +16, Volontà +17
 - **Comp.**: Furtività +6, Ingannare +8, Percepire Emozioni +7, Consapevolezza +12
 - **Imm. Danni**: Veleno
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -25630,24 +25908,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
 **Ecologia**
-Ambiente: Foreste Temperate
-Organizzazione: Solitario
+
+| Ambiente: Foreste Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: E
 **Descrizione**
-Vedi Descrizione Drago Verde Antico.
+
+| Vedi Descrizione Drago Verde Antico. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Guscio Anti-Vita
 - Localizza Animali e Piante
 - Rimuovi Veleno
 
 ## Drago Verde Giovane
 - **Taglia/Tipo**: Grande drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 1 Cos 3 Int 3 Sag 1 Car 2}
+- **Caratt.**: For 4 Des 1 Cos 3 Int 3 Sag 1 Car 2
 - **Punti Ferita**: 163,  **Difesa:** 23,  **Iniziativa:** +3
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +11, Riflessi +9, Volontà +9
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +11, Riflessi +9, Volontà +9
 - **Comp.**: Furtività +4, Ingannare +5, Consapevolezza +7
 - **Imm. Danni**: Veleno
 - **Sensi**: Scurovisione 36 m, Vista Cieca 9 m
@@ -25671,24 +25957,32 @@ Vedi Descrizione Drago Verde Antico.
 ***Arrabbiato:*** il Drago Verde Giovane ricarica il suo soffio Velenoso.
 
 **Ecologia**
-Ambiente: Foreste Temperate
-Organizzazione: Solitario
+
+| Ambiente: Foreste Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
-Vedi Descrizione Drago Verde Antico.
+
+| Vedi Descrizione Drago Verde Antico. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Guscio Anti-Vita
 - Localizza Animali e Piante
 - Rimuovi Veleno
 
 ## Drago Verde Cucciolo
 - **Taglia/Tipo**: Media drago, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 1 Int 2 Sag 0 Car 1}
+- **Caratt.**: For 2 Des 1 Cos 1 Int 2 Sag 0 Car 1
 - **Punti Ferita**: 51,  **Difesa:** 15,  **Iniziativa:** +2
 - **Movimento**: 9 m, nuoto 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +3, Consapevolezza +4
 - **Imm. Danni**: Veleno
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -25704,13 +25998,14 @@ Vedi Descrizione Drago Verde Antico.
 ***Soffio Velenoso (Ricarica 5-6).*** Il drago esala gas velenosi in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 13 e subire 21 (6d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Ecologia**
-Ambiente: Foreste Temperate
-Organizzazione: Solitario
+
+| Ambiente: Foreste Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Vedi Descrizione Drago Verde Antico.
-
-\rule
 
 **Draghi di Ljust**
 
@@ -25719,10 +26014,10 @@ Elysan è probabilmente il più noto e potente, un antico drago d'argento.
 
 ## Drago di Argento Antico
 - **Taglia/Tipo**: Mastodontica drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 10 Des 0 Cos 9 Int 4 Sag 2 Car 6}
+- **Caratt.**: For 10 Des 0 Cos 9 Int 4 Sag 2 Car 6
 - **Punti Ferita**: 470,  **Difesa:** 42,  **Iniziativa:** +4
 - **Movimento**: 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +32, Riflessi +23, Volontà +25
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +32, Riflessi +23, Volontà +25
 - **Comp.**: Arcana +11, Furtività +7, Consapevolezza +16, Storia +11
 - **Imm. Danni**: Freddo, armi +1
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -25774,24 +26069,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
 **Ecologia**
-Ambiente: Montagne Temperate
-Organizzazione: Solitario
+
+| Ambiente: Montagne Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
-Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.
+
+| Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Lentezza
 - Fabbricare
 - Sogno
 
 ## Drago di Argento Adulto
 - **Taglia/Tipo**: Enorme drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 0 Cos 7 Int 3 Sag 1 Car 5}
+- **Caratt.**: For 8 Des 0 Cos 7 Int 3 Sag 1 Car 5
 - **Punti Ferita**: 325,  **Difesa:** 33,  **Iniziativa:** +3
 - **Movimento**: 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +23, Riflessi +16, Volontà +17
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +23, Riflessi +16, Volontà +17
 - **Comp.**: Arcana +8, Furtività +5, Consapevolezza +11, Storia +8
 - **Imm. Danni**: Freddo
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -25843,24 +26146,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
 **Ecologia**
-Ambiente: Montagne Temperate
-Organizzazione: Solitario
+
+| Ambiente: Montagne Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: E
 **Descrizione**
-Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.
+
+| Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Lentezza
 - Fabbricare
 - Sogno
 
 ## Drago di Argento Giovane
 - **Taglia/Tipo**: Grande drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 0 Cos 5 Int 2 Sag 0 Car 4}
+- **Caratt.**: For 6 Des 0 Cos 5 Int 2 Sag 0 Car 4
 - **Punti Ferita**: 186,  **Difesa:** 24,  **Iniziativa:** +2
 - **Movimento**: 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +9, Volontà +9
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +14, Riflessi +9, Volontà +9
 - **Comp.**: Arcana +6, Furtività +4, Consapevolezza +8, Storia +6
 - **Imm. Danni**: Freddo
 - **Sensi**: Scurovisione 36 m, Vista Cieca 9 m
@@ -25886,24 +26197,32 @@ Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad u
 ***Arrabbiato:*** il giovane drago d'argento ricarica uno dei suoi soffi.
 
 **Ecologia**
-Ambiente: Montagne Temperate
-Organizzazione: Solitario
+
+| Ambiente: Montagne Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
-Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.
+
+| Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Lentezza
 - Fabbricare
 - Sogno
 
 ## Drago di Argento Cucciolo
 - **Taglia/Tipo**: Media drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 3 Int 1 Sag 0 Car 2}
+- **Caratt.**: For 4 Des 0 Cos 3 Int 1 Sag 0 Car 2
 - **Punti Ferita**: 52,  **Difesa:** 14,  **Iniziativa:** +1
 - **Movimento**: 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +2, Consapevolezza +4
 - **Imm. Danni**: Freddo
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -25921,18 +26240,21 @@ Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad u
 *Soffio Paralizzante.* Il drago esala un gas paralizzante in un cono di 5 metri. Ogni creatura nell'area deve riuscire un Tiro Salvezza su Tempra 14 o restare paralizzata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto per sé in caso di successo.
 
 **Ecologia**
-Ambiente: Montagne Temperate
-Organizzazione: Solitario
+
+| Ambiente: Montagne Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.
 
 ## Drago di Bronzo Antico
 - **Taglia/Tipo**: Mastodontica drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 9 Des 0 Cos 8 Int 4 Sag 3 Car 5}
+- **Caratt.**: For 9 Des 0 Cos 8 Int 4 Sag 3 Car 5
 - **Punti Ferita**: 446,  **Difesa:** 41,  **Iniziativa:** +4
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +30, Riflessi +22, Volontà +25
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +30, Riflessi +22, Volontà +25
 - **Comp.**: Furtività +7, Percepire Emozioni +10, Consapevolezza +17
 - **Imm. Danni**: Elettricità, armi +1
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -25984,23 +26306,31 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
 **Ecologia**
-Ambiente: Zone Costiere Temperate
-Organizzazione: Solitario
+
+| Ambiente: Zone Costiere Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
-I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate
+
+| I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Globo di Invulnerabilità
 - Libertà di Movimento
 
 ## Drago di Bronzo Adulto
 - **Taglia/Tipo**: Enorme drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 7 Des 0 Cos 6 Int 3 Sag 2 Car 4}
+- **Caratt.**: For 7 Des 0 Cos 6 Int 3 Sag 2 Car 4
 - **Punti Ferita**: 303,  **Difesa:** 32,  **Iniziativa:** +3
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +21, Riflessi +15, Volontà +17
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +21, Riflessi +15, Volontà +17
 - **Comp.**: Furtività +5, Percepire Emozioni +7, Consapevolezza +12
 - **Imm. Danni**: Elettricità
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -26054,23 +26384,31 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
 **Ecologia**
-Ambiente: Zone Costiere Temperate
-Organizzazione: Solitario
+
+| Ambiente: Zone Costiere Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: E
 **Descrizione**
-I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate
+
+| I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Globo di Invulnerabilità
 - Libertà di Movimento
 
 ## Drago di Bronzo Giovane
 - **Taglia/Tipo**: Grande drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 0 Cos 4 Int 2 Sag 1 Car 3}
+- **Caratt.**: For 5 Des 0 Cos 4 Int 2 Sag 1 Car 3
 - **Punti Ferita**: 165,  **Difesa:** 22,  **Iniziativa:** +2
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +12, Riflessi +8, Volontà +9
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +12, Riflessi +8, Volontà +9
 - **Comp.**: Furtività +3, Percepire Emozioni +4, Consapevolezza +7
 - **Imm. Danni**: Elettricità
 - **Sensi**: Scurovisione 36 m, Vista Cieca 9 m
@@ -26098,23 +26436,31 @@ I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se cau
 ***Arrabbiato:*** il Drago di Bronzo Giovane ricarica uno dei suoi soffi.
 
 **Ecologia**
-Ambiente: Zone Costiere Temperate
-Organizzazione: Solitario
+
+| Ambiente: Zone Costiere Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
-I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate
+
+| I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Globo di Invulnerabilità
 - Libertà di Movimento
 
 ## Drago di Bronzo Cucciolo
 - **Taglia/Tipo**: Media drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 2 Int 1 Sag 0 Car 2}
+- **Caratt.**: For 3 Des 0 Cos 2 Int 1 Sag 0 Car 2
 - **Punti Ferita**: 51,  **Difesa:** 14,  **Iniziativa:** +1
 - **Movimento**: 9 m, nuoto 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +2, Consapevolezza +4
 - **Imm. Danni**: Elettricità
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -26135,18 +26481,21 @@ portata 1 m, un bersaglio.
 *Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 16, altrimenti viene allontana di 9 metri dal drago.
 
 **Ecologia**
-Ambiente: Zone Costiere Temperate
-Organizzazione: Solitario
+
+| Ambiente: Zone Costiere Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
 I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate.
 
 ## Drago d'Oro Antico
 - **Taglia/Tipo**: Mastodontica drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 10 Des 2 Cos 9 Int 4 Sag 3 Car 9}
+- **Caratt.**: For 10 Des 2 Cos 9 Int 4 Sag 3 Car 9
 - **Punti Ferita**: 490,  **Difesa:** 46,  **Iniziativa:** +4
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +33, Riflessi +26, Volontà +27
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +33, Riflessi +26, Volontà +27
 - **Comp.**: Furtività +9, Percepire Emozioni +10, Consapevolezza +17, Ingannare +16
 - **Imm. Danni**: Fuoco, armi +1
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -26198,24 +26547,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
 **Ecologia**
-Ambiente: Pianure calde
-Organizzazione: Solitario
+
+| Ambiente: Pianure calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
-I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto.
+
+| I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Guarigione
 - Ristorare Superiore
 - Tentacoli Neri
 
 ## Drago d'Oro Adulto
 - **Taglia/Tipo**: Enorme drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 2 Cos 7 Int 3 Sag 2 Car 7}
+- **Caratt.**: For 8 Des 2 Cos 7 Int 3 Sag 2 Car 7
 - **Punti Ferita**: 344,  **Difesa:** 36,  **Iniziativa:** +3
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +24, Riflessi +19, Volontà +19
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +24, Riflessi +19, Volontà +19
 - **Comp.**: Furtività +8, Percepire Emozioni +8, Consapevolezza +14, Ingannare +13
 - **Imm. Danni**: Fuoco
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -26271,24 +26628,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
 **Ecologia**
-Ambiente: Pianure calde
-Organizzazione: Solitario
+
+| Ambiente: Pianure calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: E
 **Descrizione**
-I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto.
+
+| I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Guarigione
 - Ristorare Superiore
 - Tentacoli Neri
 
 ## Drago d'Oro Giovane
 - **Taglia/Tipo**: Grande drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 2 Cos 5 Int 3 Sag 1 Car 5}
+- **Caratt.**: For 6 Des 2 Cos 5 Int 3 Sag 1 Car 5
 - **Punti Ferita**: 205,  **Difesa:** 27,  **Iniziativa:** +3
 - **Movimento**: 12 m, nuoto 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +12, Volontà +11
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +15, Riflessi +12, Volontà +11
 - **Comp.**: Furtività +6, Percepire Emozioni +5, Consapevolezza +9, Ingannare +9
 - **Imm. Danni**: Fuoco
 - **Sensi**: Scurovisione 36 m, Vista Cieca 9 m
@@ -26316,24 +26681,32 @@ I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveris
 ***Arrabbiato:*** il giovane drago d'oro ricarica uno dei suoi soffi. Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Pianure calde
-Organizzazione: Solitario
+
+| Ambiente: Pianure calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
-I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto.
+
+| I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Guarigione
 - Ristorare Superiore
 - Tentacoli Neri
 
 ## Drago d'Oro Cucciolo
 - **Taglia/Tipo**: Media drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 3 Int 2 Sag 0 Car 3}
+- **Caratt.**: For 4 Des 2 Cos 3 Int 2 Sag 0 Car 3
 - **Punti Ferita**: 70,  **Difesa:** 18,  **Iniziativa:** +2
 - **Movimento**: 9 m, nuoto 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +3}
+- **Tiri Salvez.**: Tempra +6, Riflessi +5, Volontà +3
 - **Comp.**: Furtività +4, Consapevolezza +4
 - **Imm. Danni**: Fuoco
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -26353,18 +26726,21 @@ I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveris
 *Soffio Indebolente.* Il drago esala del gas in un cono di 5 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 15 o avere -1d6 ai tiri di attacco basati sulla Forza, prove di Forza, e Tiri Salvezza su Tempra per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 **Ecologia**
-Ambiente: Pianure calde
-Organizzazione: Solitario
+
+| Ambiente: Pianure calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
 I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto.
 
 ## Drago di Ottone Antico
 - **Taglia/Tipo**: Mastodontica drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 0 Cos 7 Int 3 Sag 2 Car 4}
+- **Caratt.**: For 8 Des 0 Cos 7 Int 3 Sag 2 Car 4
 - **Punti Ferita**: 403,  **Difesa:** 38,  **Iniziativa:** +3
 - **Movimento**: 12 m, scavo 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +27, Riflessi +20, Volontà +22
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +27, Riflessi +20, Volontà +22
 - **Imm. Danni**: Fuoco, armi +1
 - **Comp.**: Consapevolezza +14
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -26414,24 +26790,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
 **Ecologia**
-Ambiente: Deserti Caldi
-Organizzazione: Solitario
+
+| Ambiente: Deserti Caldi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
-Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti.
+
+| Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Visione del Vero
 - Conoscenza delle Leggende
 - Scrutare
 
 ## Drago d'Ottone Adulto
 - **Taglia/Tipo**: Enorme drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 0 Cos 5 Int 2 Sag 1 Car 3}
+- **Caratt.**: For 6 Des 0 Cos 5 Int 2 Sag 1 Car 3
 - **Punti Ferita**: 262,  **Difesa:** 29,  **Iniziativa:** +2
 - **Movimento**: 12 m, scavo 9 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +18, Riflessi +13, Volontà +14
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +18, Riflessi +13, Volontà +14
 - **Imm. Danni**: Fuoco
 - **Comp.**: Furtività +5, Consapevolezza +11, Ingannare +8, Storia +7
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -26479,24 +26863,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
 **Ecologia**
-Ambiente: Deserti Caldi
-Organizzazione: Solitario
+
+| Ambiente: Deserti Caldi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: E
 **Descrizione**
-Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti.
+
+| Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Visione del Vero
 - Conoscenza delle Leggende
 - Scrutare
 
 ## Drago d'Ottone Giovane
 - **Taglia/Tipo**: Grande drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 3 Int 1 Sag 0 Car 2}
+- **Caratt.**: For 4 Des 0 Cos 3 Int 1 Sag 0 Car 2
 - **Punti Ferita**: 126,  **Difesa:** 20,  **Iniziativa:** +1
 - **Movimento**: 12 m, scavo 6 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +6, Volontà +6}
+- **Tiri Salvez.**: Tempra +9, Riflessi +6, Volontà +6
 - **Imm. Danni**: Fuoco
 - **Comp.**: Furtività +3, Consapevolezza +6, Ingannare +5
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -26520,24 +26912,32 @@ Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combatter
 *Soffio Soporifero.* Il drago esala del gas soporifero in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra 18 o cadere svenuta per 5 minuti. Questo effetto termina se la creatura svenuta subisce danni o qualcuno impiega un'Azione per risvegliarla.
 
 **Ecologia**
-Ambiente: Deserti Caldi
-Organizzazione: Solitario
+
+| Ambiente: Deserti Caldi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
-Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti.
+
+| Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Visione del Vero
 - Conoscenza delle Leggende
 - Scrutare
 
 ## Drago di Ottone Cucciolo
 - **Taglia/Tipo**: Media drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 0 Cos 1 Int 0 Sag 0 Car 1}
+- **Caratt.**: For 2 Des 0 Cos 1 Int 0 Sag 0 Car 1
 - **Punti Ferita**: 33,  **Difesa:** 13,  **Iniziativa:** +0
 - **Movimento**: 9 m, scavo 5 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Imm. Danni**: Fuoco
 - **Comp.**: Furtività +2, Consapevolezza +4
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -26555,18 +26955,21 @@ Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combatter
 *Soffio Soporifero.* Il drago esala del gas soporifero in un cono di 5 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra 12 o cadere svenuta per 1 minuto. Questo effetto termina se la creatura svenuta subisce danni o qualcuno impiega un'Azione per risvegliarla.
 
 **Ecologia**
-Ambiente: Deserti Caldi
-Organizzazione: Solitario
+
+| Ambiente: Deserti Caldi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti.
 
 ## Drago di Rame Antico
 - **Taglia/Tipo**: Mastodontica drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 1 Cos 7 Int 5 Sag 3 Car 4}
+- **Caratt.**: For 8 Des 1 Cos 7 Int 5 Sag 3 Car 4
 - **Punti Ferita**: 422,  **Difesa:** 41,  **Iniziativa:** +5
 - **Movimento**: 12 m, scalata 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +28, Riflessi +22, Volontà +24
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +28, Riflessi +22, Volontà +24
 - **Comp.**: Furtività +8, Ingannare +11, Consapevolezza +17
 - **Imm. Danni**: Acido, armi +1
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -26618,24 +27021,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
 **Ecologia**
-Ambiente: Colline Calde
-Organizzazione: Solitario
+
+| Ambiente: Colline Calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: H
 **Descrizione**
-Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici.
+
+| Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Barriera di Lame
 - Muro di Forza
 - Scudo di Fuoco
 
 ## Drago di Rame Adulto
 - **Taglia/Tipo**: Enorme drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 1 Cos 5 Int 4 Sag 2 Car 3}
+- **Caratt.**: For 6 Des 1 Cos 5 Int 4 Sag 2 Car 3
 - **Punti Ferita**: 281,  **Difesa:** 31,  **Iniziativa:** +4
 - **Movimento**: 12 m, scalata 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +19, Riflessi +15, Volontà +16
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +19, Riflessi +15, Volontà +16
 - **Comp.**: Furtività +6, Ingannare +8, Consapevolezza +12
 - **Imm. Danni**: Acido
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -26683,24 +27094,32 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
 **Ecologia**
-Ambiente: Colline Calde
-Organizzazione: Solitario
+
+| Ambiente: Colline Calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: E
 **Descrizione**
-Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici.
+
+| Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Barriera di Lame
 - Muro di Forza
 - Scudo di Fuoco
 
 ## Drago di Rame Giovane
 - **Taglia/Tipo**: Grande drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 1 Cos 3 Int 3 Sag 1 Car 2}
+- **Caratt.**: For 4 Des 1 Cos 3 Int 3 Sag 1 Car 2
 - **Punti Ferita**: 145,  **Difesa:** 22,  **Iniziativa:** +3
 - **Movimento**: 12 m, scalata 12 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +8, Volontà +8}
+- **Tiri Salvez.**: Tempra +10, Riflessi +8, Volontà +8
 - **Comp.**: Furtività +4, Ingannare +5, Consapevolezza +7
 - **Imm. Danni**: Acido
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -26726,24 +27145,32 @@ Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrar
 ***Arrabbiato:*** il Drago di Rame Giovane ricarica uno dei due soffi. Costo 1 Azione.
 
 **Ecologia**
-Ambiente: Colline Calde
-Organizzazione: Solitario
+
+| Ambiente: Colline Calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: D
 **Descrizione**
-Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici.
+
+| Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici. |
+| --- |
+
 **Incantesimi**
+
 | Gli incantesimi preferiti di questo Drago sono: |
 | --- |
+
 - Barriera di Lame
 - Muro di Forza
 - Scudo di Fuoco
 
 ## Drago di Rame Cucciolo
 - **Taglia/Tipo**: Media drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 1 Int 2 Sag 0 Car 1}
+- **Caratt.**: For 2 Des 1 Cos 1 Int 2 Sag 0 Car 1
 - **Punti Ferita**: 33,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 9 m, scalata 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +3, Ingannare +3, Consapevolezza +4
 - **Imm. Danni**: Acido
 - **Sensi**: Scurovisione 36 m, Vista Cieca 18 m
@@ -26761,8 +27188,11 @@ Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrar
 *Soffio Rallentante.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 12. Se fallisce il Tiro Salvezza, la creatura ha una Azione in meno a round ed ha la velocità dimezzata. Questi effetti permangono 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 **Ecologia**
-Ambiente: Colline Calde
-Organizzazione: Solitario
+
+| Ambiente: Colline Calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici.
@@ -26771,10 +27201,10 @@ Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrar
 
 ## Tàhil
 - **Taglia/Tipo**: Colossale drago, Patrono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 10 Des 0 Cos 10 Int 8 Sag 8 Car 9}
+- **Caratt.**: For 10 Des 0 Cos 10 Int 8 Sag 8 Car 9
 - **Punti Ferita**: 615,  **Difesa:** 52,  **Iniziativa:** +8
 - **Movimento**: 20 metri, volare 20 metri
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +40, Riflessi +30, Volontà +38
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +40, Riflessi +30, Volontà +38
 - **Comp.**: tutte +18
 - **Imm. Danni**: Freddo, Elettricità, Fuoco, Acido, Veleno, Suono, armi +3
 - **Immunità**: affascinato, paralizzato, affaticato, spaventato
@@ -26831,18 +27261,21 @@ Il Tàhil può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed u
 **Testa Gialla.**: Costa 2 azioni Aggiuntive, Tàhil soffia sabbia rovente in un cono di 60 metri. Tiro Salvezza su Riflessi DC 40 o prendere 72 (16d8) di danno da Fuoco oppure dimezzare.
 
 **Ecologia**
-Ambiente: Sconosciuto
-Organizzazione: Unico
+
+| Ambiente: Sconosciuto |
+| --- |
+| Organizzazione: Unico |
+
 **Categoria Tesoro**: 6 H
 **Descrizione**
 Tàhil è il Patrono dei Draghi incarnato. Nulla resiste alla sua furia, follia, rabbia e distruzione. Tàhil è una mastodontica creatura con 7 teste di drago, ognuna colorata in modo diverso, ognuna a rappresentare un colore di un Drago. Vedi capitolo sulla Cosmologia per i dettagli della sua storia.
 
 ## Drider
 - **Taglia/Tipo**: Grande mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 3 Cos 4 Int 1 Sag 2 Car 1}
+- **Caratt.**: For 3 Des 3 Cos 4 Int 1 Sag 2 Car 1
 - **Punti Ferita**: 127,  **Difesa:** 23,  **Iniziativa:** +3
 - **Movimento**: 9 m, scalata 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +9, Volontà +8
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +10, Riflessi +9, Volontà +8
 - **Comp.**: Furtività +9, Consapevolezza +5
 - **Sensi**: Scurovisione 36 m
 - **Linguaggi**: Elfico, Linguaggio delle Profondità
@@ -26879,19 +27312,25 @@ A volontà: *luci danzanti*
 ***Arrabbiato:*** il Drider raccoglie la saliva velenosa e la sputa sulle sue armi. Fino alla fine del combattimento l'attacco di Spada Lunga causa anche 1d8 di danni da veleno. Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Qualsiasi sotterraneo
-Organizzazione: Solitario, coppia o gruppo (3-8)
+
+| Ambiente: Qualsiasi sotterraneo |
+| --- |
+| Organizzazione: Solitario, coppia o gruppo (3-8) |
+
 **Categoria Tesoro**: Mazza flangiata Perfetta, Arco Lungo Composito Perfetto [Forza +2] con 20 Frecce, Y
 **Descrizione**
-Creato dal corpo di un elfo, alterato e mutato attraverso speciali veleni ed elisir per assumere le caratteristiche di un ragno gigante, il drider è una creatura pericolosa.
+
+| Creato dal corpo di un elfo, alterato e mutato attraverso speciali veleni ed elisir per assumere le caratteristiche di un ragno gigante, il drider è una creatura pericolosa. |
+| --- |
+
 I drider sono sessualmente dimorfici. La parte inferiore da ragno del corpo di un drider femmina è lucente ed aggraziata, spesso simile al corpo di una vedova nera, mentre il busto superiore di elfo mantiene le sue curve allettanti e il bel viso (con l'eccezione delle venefiche zanne acuminate). La parte inferiore del corpo di un drider maschio è tozza come una tarantola, mentre quella superiore ha un fisico asciutto e supporta un'orrenda faccia più da ragno che da elfo, completa di mandibole zannute.
 
 ## Driade
 - **Taglia/Tipo**: Media fatato, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 0 Int 2 Sag 2 Car 4}
+- **Caratt.**: For 0 Des 1 Cos 0 Int 2 Sag 2 Car 4
 - **Punti Ferita**: 33,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +5, Consapevolezza +4
 - **Sensi**: Scurovisione 18
 - **Linguaggi**: Elfico, Silvano
@@ -26926,8 +27365,11 @@ Se il Tiro Salvezza del bersaglio riesce, il bersaglio sarà immune al Fascino F
 La driade non può tenere affascinati più di un umanoide o tre bestie alla volta.
 
 **Ecologia**
-Ambiente: Foreste Temperate
-Organizzazione: Solitario, coppia o boschetto (3-8)
+
+| Ambiente: Foreste Temperate |
+| --- |
+| Organizzazione: Solitario, coppia o boschetto (3-8) |
+
 **Categoria Tesoro**: Arco Lungo Perfetto con 20 Frecce, Pugnale,D
 **Descrizione**
 Le driadi sono spiriti della natura che amano i boschi appartati lontani dagli umanoidi bisognosi di legname. L'interesse principale delle driadi è la propria sopravvivenza e quella delle adorate foreste e sono note per costringere magicamente i viaggiatori ad aiutarle in quei compiti che non possono espletare.
@@ -26955,7 +27397,10 @@ Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di 
 **Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
 
 ***Sommergere (Ricarica 4-6).*** Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC 10+GS+GS/5. Se lo fallisce, il bersaglio subisce (1d8+1)*GS/2 danni contundenti. Se è di taglia GS/3 >=4, il bersaglio è anche afferrato (DC CR*2 per fuggire). Fino al termine dell'afferrare, il bersaglio non può respirare a meno che non sia in grado di respirare acqua. Se il Tiro Salvezza riesce, il bersaglio viene spinto fuori dallo spazio dell'elementale.
-L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure. All'inizio di ciascun round dell'elementale, ogni bersaglio afferrato subisce (1d6)*GS/2 danni contundenti. Una creatura entro 3 metri dall'elementale può trascinare fuori da esso una creatura o oggetto, impiegando un'Azione per tentare di riuscire una prova di Tiro Salvezza Tempra con Forza DC 2+GS*2.
+
+| L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure. All'inizio di ciascun round dell'elementale, ogni bersaglio afferrato subisce (1d6)*GS/2 danni contundenti. Una creatura entro 3 metri dall'elementale può trascinare fuori da esso una creatura o oggetto, impiegando un'Azione per tentare di riuscire una prova di Tiro Salvezza Tempra con Forza DC 2+GS*2. |
+| --- |
+
 ## Elementale dell'Aria Generico
 - **Taglia/Tipo**: GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)
 - **Caratt.**: For 0+GS/6 Des 3+GS/3 Cos 0+GS/6 Int -2+GS/6 Sag -1+GS/6 Car 0+GS/6
@@ -27023,10 +27468,10 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 ## Ettercap
 - **Taglia/Tipo**: Media mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 1 Int -2 Sag 1 Car -2}
+- **Caratt.**: For 2 Des 2 Cos 1 Int -2 Sag 1 Car -2
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 9 m, scalata 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Comp.**: Furtività +4, Consapevolezza +3, Sopravvivenza +3
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 2 (450 PX)
@@ -27052,20 +27497,26 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 *Colpisce:* La creatura è intralciata dalla ragnatela. Con un'Azione, la creatura intralciata può effettuare un Tiro Salvezza Tempra con Forza DC 11, liberandosi dalla tela se la riesce. L'effetto termina se la tela è distrutta. La tela ha Difesa 10, 5 Punti Ferita, vulnerabilità ai danni da fuoco, e immunità ai danni contundenti e da veleno.
 
 **Ecologia**
-Ambiente: Foreste Temperate
-Organizzazione: solitario, coppia o nido (3-6 più 2-8 ragni giganti)
+
+| Ambiente: Foreste Temperate |
+| --- |
+| Organizzazione: solitario, coppia o nido (3-6 più 2-8 ragni giganti) |
+
 **Categoria Tesoro**: C
 **Descrizione**
-Gli ettercap sono umanoidi alti di solito 1,8 metri e pesano circa 100 kg, con braccia allungate fino a terra ed un orrendo volto con elementi ragneschi. Sono solitari e raramente si uniscono ad altri della loro razza, tranne per l'accoppiamento. Quando fanno gruppo, tendono ad attrarre varie specie di ragni, formando uno strano connubio di ettercap e aracnidi.
-Gli ettercap sono noti per la costruzione di astute trappole fatte di ragnatele e altri materiali naturali, che usano per catturare prede. Costruiscono rifugi di ragnatela, tra i rami più alti gli alberi lontano dagli altri predatori terrestri, e usano ragni mostruosi come vedette e guardiani.
+
+| Gli ettercap sono umanoidi alti di solito 1,8 metri e pesano circa 100 kg, con braccia allungate fino a terra ed un orrendo volto con elementi ragneschi. Sono solitari e raramente si uniscono ad altri della loro razza, tranne per l'accoppiamento. Quando fanno gruppo, tendono ad attrarre varie specie di ragni, formando uno strano connubio di ettercap e aracnidi. |
+| --- |
+| Gli ettercap sono noti per la costruzione di astute trappole fatte di ragnatele e altri materiali naturali, che usano per catturare prede. Costruiscono rifugi di ragnatela, tra i rami più alti gli alberi lontano dagli altri predatori terrestri, e usano ragni mostruosi come vedette e guardiani. |
+
 Gli ettercap non sono coraggiosi, ma le loro trappole spesso impediscono al nemico di estrarre le armi. Un ettercap attacca con artigli e morsi velenosi. In genere evita la mischia con gli avversari che possono ancora muoversi e fugge se si liberano.
 
 ## Ettin
 - **Taglia/Tipo**: Grande gigante, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des -1 Cos 3 Int -2 Sag 0 Car -1}
+- **Caratt.**: For 5 Des -1 Cos 3 Int -2 Sag 0 Car -1
 - **Punti Ferita**: 89,  **Difesa:** 16,  **Iniziativa:** -1
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +3, Volontà +4}
+- **Tiri Salvez.**: Tempra +7, Riflessi +3, Volontà +4
 - **Comp.**: Consapevolezza +4
 - **Sensi**: percezione tellurica 18 m
 - **Linguaggi**: Gigante, Goblinoide
@@ -27086,25 +27537,31 @@ Gli ettercap non sono coraggiosi, ma le loro trappole spesso impediscono al nemi
 *Colpisce:* 14 (2d8 + 5) danni perforanti.
 
 **Ecologia**
-Ambiente: Colline fredde
-Organizzazione: Solitario, coppia, gruppo (3-6), truppa (1-2 più 1-2 Orsi Bruni, banda (3-6 più 1-2 Orsi Bruni) o colonia (3-6 più 1-2 Orsi Bruni e 7-12 Orchi, o 9-16 Goblin)
+
+| Ambiente: Colline fredde |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6), truppa (1-2 più 1-2 Orsi Bruni, banda (3-6 più 1-2 Orsi Bruni) o colonia (3-6 più 1-2 Orsi Bruni e 7-12 Orchi, o 9-16 Goblin) |
+
 **Categoria Tesoro**: Armatura di Cuoio, 2 Mazzafrusti Leggeri, 4 Giavellotti, P
 **Descrizione**
-Gli ettin, o giganti a due teste, sono cacciatori notturni malevoli e imprevedibili. Le due teste gli concedono impareggiabili poteri di percezione, facendone dei guardiani eccellenti.
-Gli ettin sembrano Giganti di Collina o Giganti di Pietra, ma il volto zannuto tradisce una discendenza orchesca. Hanno pelle marrone rosata e non si lavano mai se non vi sono costretti, cosa che li rende così sporchi e sudici che la loro pelle sembra spessa e grigia.
-Gli adulti sono alti 3,9 metri e pesano 2.600 kg. Gli ettin vivono circa 75 anni.
-Gli ettin non hanno un loro linguaggio ma parlano un gergo misto di Gigante, Goblin e Orchesco. Le creature che parlano uno qualsiasi di questi linguaggi possono comunicare con un ettin effettuando una prova di Intelligenza con DC 15. La prova si effettua una volta per ogni frammento di informazione; se l'altra creatura parla due di questi linguaggi la DC è 10, mentre per qualcuno che li parla tutti e tre è 5.
-Sebbene gli ettin non siano molto intelligenti, sono guerrieri astuti. Preferiscono tendere imboscate alle loro vittime anziché ingaggiarle in combattimento, ma una volta che la battaglia è cominciata, un ettin combatte furiosamente fino alla morte del nemico.
-Gli ettin sono creature solitarie, si stabiliscono nella sicurezza di cave rocciose e cavità, spesso circondate da buche e fossi, e tengono a volte degli orsi delle caverne come animali da compagnia o guardiani.
-Un ettin particolarmente potente può attrarre un gruppo di seguaci, specie Goblin o Orchi. Comunque, questi assembramenti sono più che altro delle eccezioni, e raramente durano a lungo, con gli individualisti ettin che vanno per la loro strada appena le opportunità di saccheggio e rapina diminuiscono o se il capo viene ucciso.
+
+| Gli ettin, o giganti a due teste, sono cacciatori notturni malevoli e imprevedibili. Le due teste gli concedono impareggiabili poteri di percezione, facendone dei guardiani eccellenti. |
+| --- |
+| Gli ettin sembrano Giganti di Collina o Giganti di Pietra, ma il volto zannuto tradisce una discendenza orchesca. Hanno pelle marrone rosata e non si lavano mai se non vi sono costretti, cosa che li rende così sporchi e sudici che la loro pelle sembra spessa e grigia. |
+| Gli adulti sono alti 3,9 metri e pesano 2.600 kg. Gli ettin vivono circa 75 anni. |
+| Gli ettin non hanno un loro linguaggio ma parlano un gergo misto di Gigante, Goblin e Orchesco. Le creature che parlano uno qualsiasi di questi linguaggi possono comunicare con un ettin effettuando una prova di Intelligenza con DC 15. La prova si effettua una volta per ogni frammento di informazione; se l'altra creatura parla due di questi linguaggi la DC è 10, mentre per qualcuno che li parla tutti e tre è 5. |
+| Sebbene gli ettin non siano molto intelligenti, sono guerrieri astuti. Preferiscono tendere imboscate alle loro vittime anziché ingaggiarle in combattimento, ma una volta che la battaglia è cominciata, un ettin combatte furiosamente fino alla morte del nemico. |
+| Gli ettin sono creature solitarie, si stabiliscono nella sicurezza di cave rocciose e cavità, spesso circondate da buche e fossi, e tengono a volte degli orsi delle caverne come animali da compagnia o guardiani. |
+| Un ettin particolarmente potente può attrarre un gruppo di seguaci, specie Goblin o Orchi. Comunque, questi assembramenti sono più che altro delle eccezioni, e raramente durano a lungo, con gli individualisti ettin che vanno per la loro strada appena le opportunità di saccheggio e rapina diminuiscono o se il capo viene ucciso. |
+
 In genere formano delle coppie riproduttive per allevare la prole solo per brevi periodi prima di riprendere ognuno la propria strada. I giovani ettin maturano rapidamente, raggiungendo la taglia adulta in un anno, potendo così provvedere a se stessi.
 
 ## Fantasma
 - **Taglia/Tipo**: Media non morto, qualsiasi tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 1 Cos 0 Int 0 Sag 1 Car 3}
+- **Caratt.**: For -2 Des 1 Cos 0 Int 0 Sag 1 Car 3
 - **Punti Ferita**: 87,  **Difesa:** 18,  **Iniziativa:** +1
 - **Movimento**: 0 m, volo 12 m, Fluttuare
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +5, Volontà +5}
+- **Tiri Salvez.**: Tempra +4, Riflessi +5, Volontà +5
 - **Res. Danni**: Acido, Elettricità, Fuoco, Suono, Veleno; da armi non magiche
 - **Immunità**: affascinato, afferrato, intralciato, paralizzato, pietrificato, prono, affaticato, spaventato, sanguinamento
 - **Sensi**: Scurovisione 18 m
@@ -27130,8 +27587,11 @@ La possessione dura finché il corpo scende a 0 Punti Ferita, il fantasma la ter
 ***Viso Orripilante.*** Ogni creatura che non sia non morta, entro 18 metri dal fantasma e che lo possa vedere, deve riuscire un Tiro Salvezza di Volontà DC 15 o essere spaventata per 1 minuto. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio invecchia anche di 1d4 x 10 anni. Un bersaglio spaventato può ripetere il Tiro Salvezza al termine di ciascun proprio round, terminando l'effetto per sé, qualora riuscisse il Tiro Salvezza. Se il Tiro Salvezza del bersaglio riesce e per lui l'effetto ha fine, il bersaglio è immune al Viso Orripilante del fantasma per le successive 24 ore. Tramite l'incantesimo Ristorare Superiore si può recuperare 1 anno di invecchiamento, ma solo se eseguito entro 24 dall'effetto di invecchiamento.
 
 **Ecologia**
-Ambiente: qualsiasi
-Organizzazione: solitario
+
+| Ambiente: qualsiasi |
+| --- |
+| Organizzazione: solitario |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Quando ad un'anima non è concesso il riposo a causa di qualche grave ingiustizia, vera o presunta, a volte essa torna come fantasma. Questi esseri sono eternamente angosciati, privi di sostanza e incapaci di rimettere le cose a posto. Sebbene i fantasmi possano avere qualsiasi Tratto, molti si aggrappano al mondo dei viventi con un forte senso di odio e rabbia, e come risultato diventano malvagi; anche una creatura buona dopo morta può diventare un fantasma odioso e crudele.
@@ -27144,10 +27604,10 @@ Gli oggetti originali vengono lasciati indietro, proprio come le spoglie fisiche
 
 ## Fauci Gorgoglianti
 - **Taglia/Tipo**: Media aberrazione, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des -1 Cos 3 Int -4 Sag 0 Car -2}
+- **Caratt.**: For 0 Des -1 Cos 3 Int -4 Sag 0 Car -2
 - **Punti Ferita**: 52,  **Difesa:** 13,  **Iniziativa:** -1
 - **Movimento**: 3 m, nuoto 3 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Immunità**: prono
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 2 (450 PX)
@@ -27167,18 +27627,21 @@ Gli oggetti originali vengono lasciati indietro, proprio come le spoglie fisiche
 **Reazione: *Sputo opportunistico*** la fauce, quando colpita con un danno critico sputa un globo acido alla creatura che l'ha ferita causando 2d6 di danno da acido.
 
 **Ecologia**
-Ambiente: Qualsiasi Sotterraneo
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi Sotterraneo |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: accidentale (O)
 **Descrizione**
 Disgustosa, nauseante e affamata: queste sono le uniche parole che descrivono in modo appropriato la fauce gorgogliante. Bestie ripugnanti che si nascondono nelle grotte, nelle fogne e negli incubi, le fauci non hanno altro senso sociale, ecologico o religioso diverso dalla loro capacità di far impazzire coloro che le ascoltano. Alcuni studiosi credono che le fauci gorgoglianti siano una variante più piccola del molto più pericoloso shoggoth, mentre altri teorizzano che sia una punizione di Orudjs inflitta a coloro che l'hanno offesa.
 
 ## Fenice
 - **Taglia/Tipo**: Mastodontica celestiale, Coraggioso, Protettivo, Buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 6 Cos 5 Int 5 Sag 6 Car 6}
+- **Caratt.**: For 8 Des 6 Cos 5 Int 5 Sag 6 Car 6
 - **Punti Ferita**: 300,  **Difesa:** 38,  **Iniziativa:** +6
 - **Movimento**: 9 m, volare 27 m (buono)
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +20, Riflessi +21, Volontà +21
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +20, Riflessi +21, Volontà +21
 - **Imm. Danni**: Fuoco, Luce, Veleno, armi +1
 - **Immunità**: afferrato, intralciato, paralizzato, pietrificato, prono, privo di sensi, affaticato, sanguinamento
 - **Sensi**: Scurovisione 18 m, Visione Crepuscolare 18 m
@@ -27219,8 +27682,11 @@ La Fenice può trasformare le sue piume in fiamma senza usare Azioni. Queste piu
 ***Arrabbiato:*** solo le leggende narrano di una Fenice arrabbiata e si dice che sia intervenuto direttamente un Patrono.
 
 **Ecologia**
-Ambiente: Deserti e colline calde
-Organizzazione: Solitario
+
+| Ambiente: Deserti e colline calde |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 La leggenda narra che le Fenici siano gli uccelli da compagnia di Ljust, sicuramente sono creature maestose e bellissime ed emanano una Luce simile a quella della Patrona della Genesi. Il movimento delle loro ali non produce rumore mentre la loro voce è canto. La fenice è un leggendario uccello di fuoco e luce che vive solitamente nei deserti. Sono creature molto intelligenti e sagge ed a volte usando la loro capacità di metamorfosi si recano nelle città dove aiutano chi combatte contro l'oscurità.
@@ -27229,10 +27695,10 @@ La leggenda racconta che le fenici si generino quando un Cavaliere di Sumkjir o 
 
 ## Fioritura Ossea
 - **Taglia/Tipo**: Grande non morto, non allineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 4 Int -2 Sag -2 Car -3}
+- **Caratt.**: For 3 Des 2 Cos 4 Int -2 Sag -2 Car -3
 - **Punti Ferita**: 127,  **Difesa:** 22,  **Iniziativa:** +2
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +8, Volontà +4}
+- **Tiri Salvez.**: Tempra +10, Riflessi +8, Volontà +4
 - **Imm. Danni**: Veleno
 - **Res. Danni**: perforante, tagliente, Veleno, da Luce
 - **Immunità**: affaticato, sanguinamento, rallentato, lentezza
@@ -27259,18 +27725,21 @@ La leggenda racconta che le fenici si generino quando un Cavaliere di Sumkjir o 
 ***Arrabbiato:*** la Fioritura Ossea raccoglie le energie della natura intorno a se avvizzendola. Recupera 50 Punti Ferita. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Qualsiasi foresta
-Organizzazione: Solitario, gruppi (2d12)
+
+| Ambiente: Qualsiasi foresta |
+| --- |
+| Organizzazione: Solitario, gruppi (2d12) |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 Le Fioriture Ossee sono creature morte nel fitto della foresta per i più disparati motivi. La Natura non volendo sprecare nulla anima la creatura per farne suo difensore. A prima vista una Fioritura Ossea non è diverso da un tronco coperto di licheni colorati, piccoli funghi e manto erboso tanto è uno con la natura.
 
 ## Fungo Stridente
 - **Taglia/Tipo**: Media pianta, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -5 Des -5 Cos 0 Int -5 Sag -4 Car -5}
+- **Caratt.**: For -5 Des -5 Cos 0 Int -5 Sag -4 Car -5
 - **Punti Ferita**: 15,  **Difesa:** 7,  **Iniziativa:** -5
 - **Movimento**: 0 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Immunità**: accecato, assordato, spaventato
 - **Sensi**: Vista Cieca 9 m (cieco oltre questo raggio)
 - **Sfida**: 0 (10 PX)
@@ -27280,8 +27749,11 @@ Le Fioriture Ossee sono creature morte nel fitto della foresta per i più dispar
 **Azioni*Strillo.*** Quando una luce intensa o una creatura si trova entro 9 metri dal fungo stridente, esso emette un strillo udibile fino a 90 metri di distanza. Il fungo stridente continua a strillare finché la fonte del disturbo non si è portata fuori gittata e per altri 1d4 round successivi, ovvero finché non si è sgonfiato il cappello.
 
 **Ecologia**
-Ambiente: Qualsiasi sotterraneo
-Organizzazione: Solitario, coppia o macchia (3-12)
+
+| Ambiente: Qualsiasi sotterraneo |
+| --- |
+| Organizzazione: Solitario, coppia o macchia (3-12) |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 Un fungo stridente è alto circa 50 cm, dall'ampio cappello marrone. Una volta emesso l'urlo il cappello si rigonfia in 1d3 minuti.
@@ -27290,10 +27762,10 @@ Si racconta di cuochi delle profondità specializzati nel cuocere questi funghi 
 
 ## Fungo Violetto
 - **Taglia/Tipo**: Media pianta, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des -5 Cos 0 Int -5 Sag -4 Car -5}
+- **Caratt.**: For -4 Des -5 Cos 0 Int -5 Sag -4 Car -5
 - **Punti Ferita**: 19,  **Difesa:** 7,  **Iniziativa:** -5
 - **Movimento**: 2 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Immunità**: accecato, assordato, spaventato
 - **Sensi**: Vista Cieca 9 m (cieco oltre questo raggio)
 - **Sfida**: 1/4 (50 PX)
@@ -27307,8 +27779,11 @@ Si racconta di cuochi delle profondità specializzati nel cuocere questi funghi 
 *Colpisce:* 4 (1d8) danni da Vuoto.
 
 **Ecologia**
-Ambiente: Qualsiasi sotterraneo
-Organizzazione: Solitario, coppia o macchia (3-12)
+
+| Ambiente: Qualsiasi sotterraneo |
+| --- |
+| Organizzazione: Solitario, coppia o macchia (3-12) |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 I funghi viola sono uno dei più noti e temuti pericoli delle caverne. Un viaggiatore può spesso notare i segni lasciati dal fungo viola su coloro che vivono o cacciano nei luoghi in cui questi funghi carnivori si appostano. Queste profonde e orribili cicatrici sembrano solchi scavati nella carne: i segni di un incontro ravvicinato con un fungo viola.
@@ -27323,10 +27798,10 @@ Un fungo viola è alto 1,2 metri e pesa 25 kg.
 
 ## Fuoco Fatuo
 - **Taglia/Tipo**: Minuscola non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -5 Des 9 Cos 0 Int 1 Sag 2 Car 0}
+- **Caratt.**: For -5 Des 9 Cos 0 Int 1 Sag 2 Car 0
 - **Punti Ferita**: 51,  **Difesa:** 23,  **Iniziativa:** +9
 - **Movimento**: 0 m, volo 15 m, Fluttuare
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +11, Volontà +4}
+- **Tiri Salvez.**: Tempra +3, Riflessi +11, Volontà +4
 - **Res. Danni**: Acido, Veleno, Freddo, Fuoco, da Vuoto, Suono; armi che non siano magiche
 - **Immunità**: afferrato, intralciato, paralizzato, privo di sensi, prono, affaticato, sanguinamento
 - **Sensi**: Scurovisione 36 m
@@ -27350,8 +27825,11 @@ Un fungo viola è alto 1,2 metri e pesa 25 kg.
 ***Invisibilità.*** Il fuoco fatuo e la sua luce diventano magicamente invisibili finché non attacca o usa Consumare Vita, o finché la sua concentrazione non termina (come se si stesse concentrando su di un incantesimo).
 
 **Ecologia**
-Ambiente: Qualsiasi Palude
-Organizzazione: Solitario, coppia o sequenza (3-4)
+
+| Ambiente: Qualsiasi Palude |
+| --- |
+| Organizzazione: Solitario, coppia o sequenza (3-4) |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 Malvagie creature che si nutrono delle forti emanazioni psichiche delle creature terrorizzate, i fuochi fatui traggono piacere nel mettere i viaggiatori creduloni in situazioni pericolose. Nelle terre selvagge, dove sono molto comuni, i fuochi fatui preferiscono tattiche semplici come posizionarsi su scogli o sabbie mobili dove possono essere scambiati facilmente per lanterne (specialmente se possono predisporre la trappola nei pressi di vere lanterne di segnalazione), così da attirare i viaggiatori verso il pericolo.
@@ -27366,10 +27844,10 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 
 ## Fustigatore
 - **Taglia/Tipo**: Grande mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des -1 Cos 3 Int 3 Sag 3 Car -2}
+- **Caratt.**: For 4 Des -1 Cos 3 Int 3 Sag 3 Car -2
 - **Punti Ferita**: 108,  **Difesa:** 17,  **Iniziativa:** +3
 - **Movimento**: 3 m, scalata 3 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +4, Volontà +8}
+- **Tiri Salvez.**: Tempra +8, Riflessi +4, Volontà +8
 - **Comp.**: Furtività +5, Consapevolezza +6
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: comune, lingue antiche (latino, greco, celtico..)
@@ -27400,8 +27878,11 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 ***Arrabbiato:*** il fustigatore emette un onda cacofonica nauseabonda. Tutte le creature nel raggio di 6 metri devono eseguire un Tiro Salvezza su Tempra DC 18 o essere Nauseato fino alla fine del round successivo. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Qualsiasi Sotterraneo
-Organizzazione: Solitario, coppia o gruppo (3-6)
+
+| Ambiente: Qualsiasi Sotterraneo |
+| --- |
+| Organizzazione: Solitario, coppia o gruppo (3-6) |
+
 **Categoria Tesoro**: D
 **Descrizione**
 Il fustigatore è un cacciatore da agguato. Capace di modificare la colorazione e la forma del suo corpo, un fustigatore nascosto sembra una stalagmite di pietra o ghiaccio (o in luoghi dal soffitto basso, una colonna di pietra o ghiaccio). Nelle aree prive di questi tratti per nascondersi un fustigatore può comprimere il suo corpo fino a sembrare un masso. Le sferze che può estroflettere non sono di carne ma di uno spesso materiale semiliquido simile a cera parzialmente fusa ma con la resistenza di una catena di ferro e la capacità di intirizzire la carne e indebolire le forze. Il fustigatore può usare queste sferze con grande maestria e farle volare fino a 15 metri per rubare gli oggetti che attraggono la sua attenzione.
@@ -27411,10 +27892,10 @@ Un fustigatore è alto 2,7 metri e pesa 1.100 kg.
 
 ## Gablin
 - **Taglia/Tipo**: Piccolo immondo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 1 Int -2 Sag -1 Car -2}
+- **Caratt.**: For 2 Des 1 Cos 1 Int -2 Sag -1 Car -2
 - **Punti Ferita**: 19,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: comprendono il Comune ma non lo parlano, Abissale
 - **Sfida**: 1/4 (50 PX)
@@ -27430,8 +27911,11 @@ Un fustigatore è alto 2,7 metri e pesa 1.100 kg.
 *Colpisce:* 3 (1d1 + 2) danni perforanti.
 
 **Ecologia**
-Ambiente: Ovunque
-Organizzazione: Gruppo (8-12), banda da guerra (10-24) o tribù (50+, 1 sergente di 3° livello per 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 6-12 lupi selvatici e 1-4 Ogre o 1-2 Campione Gablin)
+
+| Ambiente: Ovunque |
+| --- |
+| Organizzazione: Gruppo (8-12), banda da guerra (10-24) o tribù (50+, 1 sergente di 3° livello per 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 6-12 lupi selvatici e 1-4 Ogre o 1-2 Campione Gablin) |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 I Gablin sono la feccia della feccia, si dice che un Gablin nasce ad ogni pensiero cattivo e sicuramente sono veramente tanti.
@@ -27444,10 +27928,10 @@ Anche se singolarmente non sono particolarmente temibili i Gablin si muovono sem
 
 ## Campione Gablin
 - **Taglia/Tipo**: Media immondo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 3 Int 1 Sag 0 Car -1}
+- **Caratt.**: For 4 Des 2 Cos 3 Int 1 Sag 0 Car -1
 - **Punti Ferita**: 70,  **Difesa:** 18,  **Iniziativa:** +2
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +3}
+- **Tiri Salvez.**: Tempra +6, Riflessi +5, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Abissale
 - **Sfida**: 3 (700 PX)
@@ -27459,8 +27943,11 @@ Anche se singolarmente non sono particolarmente temibili i Gablin si muovono sem
 ***Evocare Gablin***: 3 Azioni. Il Gablin spilla il suo sangue a terra e a questo sorgono 2d4 Gablin, perde 1 Punto Ferita
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: a capo di un gruppo di Gablin
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: a capo di un gruppo di Gablin |
+
 **Categoria Tesoro**: Armatura di Pelle, Randello pesante, B
 **Descrizione**
 I Campioni Gablin vengono generati spontaneamente quando il numero di Gablin presente raggiunge le 20 unità. Enormemente più grossi, più forti ed intelligenti di un Gablin i Campioni sono i leader del gruppo, coloro che pianificano le battaglie e gli scontri.
@@ -27468,10 +27955,10 @@ Non hanno remore a mandare al massacro i Gablin o ad uccidere qualsiasi cosa che
 
 ## Paladino Gablin
 - **Taglia/Tipo**: Grande immondo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 2 Cos 3 Int 2 Sag 3 Car 3}
+- **Caratt.**: For 5 Des 2 Cos 3 Int 2 Sag 3 Car 3
 - **Punti Ferita**: 126,  **Difesa:** 22,  **Iniziativa:** +2
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +8, Volontà +9
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +9, Riflessi +8, Volontà +9
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Abissale
 - **Sfida**: 6 (2300 PX)
@@ -27489,18 +27976,21 @@ Non hanno remore a mandare al massacro i Gablin o ad uccidere qualsiasi cosa che
 **Aura immonda**: il Paladino Gablin emana un aura di 6 metri di raggio intorno a lui che conferisce +2 al Tiro per Colpire ed al Danno a tutti gli altri Gablin ed impone -2 al Tiro per Colpire e TS alle altre creature non Devoti o Seguaci di Cattalm.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: a capo di un armata di Gablin
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: a capo di un armata di Gablin |
+
 **Categoria Tesoro**: Armatura da campo, Spada Bastarda +1, S
 **Descrizione**
 I Paladini Gablin sono tra i più potenti gablin che si conoscano, i veri eletti di Cattalm. Evocati da più potenti seguaci di Cattalm possono da soli guidare centinaia di Gablin e grazia al loro acume preparare accurati piani e portare scompiglio e distruzione in intere regioni.
 
 ## Gargoyle
 - **Taglia/Tipo**: Media elementale, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 0 Cos 3 Int -2 Sag 0 Car -2}
+- **Caratt.**: For 2 Des 0 Cos 3 Int -2 Sag 0 Car -2
 - **Punti Ferita**: 52,  **Difesa:** 14,  **Iniziativa:** +0
 - **Movimento**: 9 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Res. Danni**: Veleno, da arma non magica o che non siano di adamantio
 - **Immunità**: pietrificato, affaticato
 - **Sensi**: Scurovisione 18 m
@@ -27524,8 +28014,11 @@ I Paladini Gablin sono tra i più potenti gablin che si conoscano, i veri eletti
 **Reazione: *Attacco d'opportunità***: il gargoyle attacca se sta volando ed una creatura esce o attraversa la sua portata di 1 m.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario, coppia o stormo (3-12)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario, coppia o stormo (3-12) |
+
 **Categoria Tesoro**: Q
 **Descrizione**
 I gargoyle spesso sembrano essere statue alate di pietra, poiché possono rimanere immobili indefinitamente per poi sorprendere i nemici. I gargoyle tendono a comportamenti ossessivo-compulsivi, tanto diversi quanto abbondante è la loro specie. Libri, ninnoli rubati, armi e trofei raccolti dai nemici caduti sono solo alcuni esempi dei tipi di oggetti che un gargoyle può collezionare per decorare la sua tana e il suo territorio.
@@ -27540,10 +28033,10 @@ Un'insolita variante del gargoyle non abita tra edifici e rovine ma sotto le ond
 
 ## G.E.C.
 - **Taglia/Tipo**: Grande aberrazione, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 1 Cos 5 Int 3 Sag 1 Car -1}
+- **Caratt.**: For 6 Des 1 Cos 5 Int 3 Sag 1 Car -1
 - **Punti Ferita**: 205,  **Difesa:** 26,  **Iniziativa:** +3
 - **Movimento**: 9 m, scavare 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +11, Volontà +11
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +15, Riflessi +11, Volontà +11
 - **Comp.**: Consapevolezza +10
 - **Sensi**: Scurovisione 18 m, senso tellurico 18 m
 - **Sfida**: 10 (5900 PX)
@@ -27567,8 +28060,11 @@ Combattere senza guardare il G.E.C. impone -1d6 al Tiro per Colpire.
 ***Arrabbiato:*** il G.E.C. emette un ruggito cacofonico. Le creature entro 6 metri da lui devono fare un Tiro Salvezza su Volontà a DC 22 o essere affetti da Confusione per 2 round. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Sotterraneo
-Organizzazione: solitario, gruppo (2-4)
+
+| Ambiente: Sotterraneo |
+| --- |
+| Organizzazione: solitario, gruppo (2-4) |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 Il Grande Essere Chitinoso, o G.E.C, è un insetto dal vago aspetto umanoide di quasi 3 metri di altezza, possente e dotato di due chele fortissime e resistenti capaci di scavare e tranciare qualsiasi materiale. 4 occhi piccoli, centrali e multi faccettati emanano un fioca luminescenza cangiante che confondono le creature che incrociano il loro sguardo.
@@ -27577,10 +28073,10 @@ Probabilmente frutto di una qualche incantesimo di trasformazione andato a male 
 
 ## Djinni
 - **Taglia/Tipo**: Grande elementale, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 2 Cos 6 Int 2 Sag 3 Car 5}
+- **Caratt.**: For 5 Des 2 Cos 6 Int 2 Sag 3 Car 5
 - **Punti Ferita**: 226,  **Difesa:** 28,  **Iniziativa:** +2
 - **Movimento**: 9 m, volo 27 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +17, Riflessi +13, Volontà +14
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +17, Riflessi +13, Volontà +14
 - **Imm. Danni**: Elettricità, Suono
 - **Sensi**: Scurovisione 36 m
 - **Linguaggi**: Ictun
@@ -27609,8 +28105,11 @@ A volontà: *Conoscere i Tratti, Individuazione del Magico, Onda Tonante*
 Una creatura può usare una Azione per liberare una creatura intralciata dal turbine, compresa se stessa, riuscendo un Tiro Salvezza Tempra con Forza DC 22. Se la prova riesce, la creatura non è più intralciata e si sposta nello spazio più vicino all'esterno del turbine.
 
 **Ecologia**
-Ambiente: Qualsiasi (Piano dell'Aria)
-Organizzazione: Solitario, coppia, compagnia (3-6) o banda (7-10)
+
+| Ambiente: Qualsiasi (Piano dell'Aria) |
+| --- |
+| Organizzazione: Solitario, coppia, compagnia (3-6) o banda (7-10) |
+
 **Categoria Tesoro**: Scimitarra Perfetta, U
 **Descrizione**
 I Djinn (singolare djinni) sono Geni provenienti dal Piano Elementale dell'Aria. Si dice che siano fatti di nuvole e abbiano la forza delle tempeste più potenti. Un Djinni è alto circa 3 metri e pesa circa 500 kg.
@@ -27621,10 +28120,10 @@ Verso gli altri Geni, i Djinn vanno d'accordo con gli Janni e i Marid. Sono freq
 
 ## Efreeti
 - **Taglia/Tipo**: Grande elementale, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 1 Cos 7 Int 3 Sag 2 Car 3}
+- **Caratt.**: For 6 Des 1 Cos 7 Int 3 Sag 2 Car 3
 - **Punti Ferita**: 228,  **Difesa:** 27,  **Iniziativa:** +3
 - **Movimento**: 12 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +18, Riflessi +12, Volontà +13
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +18, Riflessi +12, Volontà +13
 - **Imm. Danni**: Fuoco
 - **Sensi**: Scurovisione 36 m
 - **Linguaggi**: Ignan
@@ -27653,8 +28152,11 @@ A volontà: *Individuazione del Magico*
 **Reazione: *Attacco d'opportunità***: efreeti effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Ecologia**
-Ambiente: Qualsiasi (Piano del Fuoco)
-Organizzazione: Solitario, coppia, compagnia (3-6) o banda (7-12)
+
+| Ambiente: Qualsiasi (Piano del Fuoco) |
+| --- |
+| Organizzazione: Solitario, coppia, compagnia (3-6) o banda (7-12) |
+
 **Categoria Tesoro**: Falcione Perfetto, U
 **Descrizione**
 Gli Efreet (singolare Efreeti) sono Geni provenienti dal Piano del Fuoco. Sono alti 3,6 metri e pesano circa 1000 kg.
@@ -27663,10 +28165,10 @@ Gli Efreet hanno pochi alleati tra gli altri Geni: odiano i Djinni e li attaccan
 
 ## Ghast
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 3 Cos 0 Int 0 Sag 0 Car -1}
+- **Caratt.**: For 3 Des 3 Cos 0 Int 0 Sag 0 Car -1
 - **Punti Ferita**: 51,  **Difesa:** 17,  **Iniziativa:** +3
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +5, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +5, Volontà +3
 - **Res. Danni**: da Vuoto
 - **Imm. Danni**: Veleno
 - **Immunità**: affascinato, affaticato
@@ -27691,18 +28193,21 @@ Gli Efreet hanno pochi alleati tra gli altri Geni: odiano i Djinni e li attaccan
 *Colpisce:* 14 (3d6 + 3) danni perforanti, il ghast recupera la metà del danno in Punti Ferita.
 
 **Ecologia**
-Ambiente: Qualsiasi terreno
-Organizzazione: Solitario, gruppo (2-4) o branco (7-12)
+
+| Ambiente: Qualsiasi terreno |
+| --- |
+| Organizzazione: Solitario, gruppo (2-4) o branco (7-12) |
+
 **Categoria Tesoro**: B
 **Descrizione**
 I ghast sono Ghoul con un legame più profondo con il Vuoto. La paralisi di un ghast ha effetto anche sugli Elfi. I ghast si aggirano in branchi o comandano gruppi di Ghoul comuni. Il fetore di morte e putrefazione che circonda queste creature è travolgente.
 
 ## Ghoul
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 2 Cos 0 Int -2 Sag 0 Car -2}
+- **Caratt.**: For 1 Des 2 Cos 0 Int -2 Sag 0 Car -2
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +3, Riflessi +3, Volontà +3
 - **Imm. Danni**: Veleno
 - **Immunità**: affascinato, affaticato
 - **Sensi**: Scurovisione 18 m
@@ -27718,8 +28223,11 @@ I ghast sono Ghoul con un legame più profondo con il Vuoto. La paralisi di un g
 *Colpisce:* 9 (2d6 + 2) danni perforanti.
 
 **Ecologia**
-Ambiente: Qualsiasi terreno
-Organizzazione: Solitario, gruppo (2-4) o branco (7-12)
+
+| Ambiente: Qualsiasi terreno |
+| --- |
+| Organizzazione: Solitario, gruppo (2-4) o branco (7-12) |
+
 **Categoria Tesoro**: K
 **Descrizione**
 I ghoul sono non morti che frequentano i cimiteri e mangiano i cadaveri. Le leggende sostengono che i primi ghoul fossero umani cannibali che una fame innaturale ha riportato indietro dalla morte, oppure umani che in vita si nutrivano dei resti in decomposizione dei loro simili e che morirono (e poi rinacquero) a causa di un'orrenda malattia; la vera origine di questi non morti necrofagi è incerta.
@@ -27730,10 +28238,10 @@ Anche se molti ghoul di superficie vivono in modo primitivo, delle voci parlano 
 
 ## Ghoul, Nero
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 2 Int 0 Sag 1 Car -2}
+- **Caratt.**: For 4 Des 2 Cos 2 Int 0 Sag 1 Car -2
 - **Punti Ferita**: 125,  **Difesa:** 22,  **Iniziativa:** +2
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +8, Volontà +7}
+- **Tiri Salvez.**: Tempra +8, Riflessi +8, Volontà +7
 - **Imm. Danni**: Veleno, da Vuoto, da critico, sanguinamento,
 - **Immunità**: affascinato, affaticato,
 - **Res. Danni**: armi non magiche o d'argento
@@ -27756,18 +28264,21 @@ Anche se molti ghoul di superficie vivono in modo primitivo, delle voci parlano 
 *Malattia del Ghoul:* 3 giorni, TS Tempra DC 18, 6 ore, 3 successi, -1 Costituzione, ti trasformi in un Ghoul
 
 **Ecologia**
-Ambiente: Qualsiasi terreno
-Organizzazione: Gruppo (4-8) o branco (14-24)
+
+| Ambiente: Qualsiasi terreno |
+| --- |
+| Organizzazione: Gruppo (4-8) o branco (14-24) |
+
 **Categoria Tesoro**: B
 **Descrizione**
 Il Ghoul Nero rappresenta una delle elite evolutive dei Ghoul. Solitamente a capo di un gruppo almeno un ghoul putrescente di circa 18 ghoul.
 
 ## Ghoul, Madre
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 3 Cos 2 Int 2 Sag 1 Car 2}
+- **Caratt.**: For 0 Des 3 Cos 2 Int 2 Sag 1 Car 2
 - **Punti Ferita**: 107,  **Difesa:** 21,  **Iniziativa:** +3
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +8, Volontà +6}
+- **Tiri Salvez.**: Tempra +7, Riflessi +8, Volontà +6
 - **Imm. Danni**: Veleno, Vuoto, da critico, sanguinamento
 - **Immunità**: affascinato, affaticato
 - **Res. Danni**: armi non magiche
@@ -27784,18 +28295,21 @@ Il Ghoul Nero rappresenta una delle elite evolutive dei Ghoul. Solitamente a cap
 *Colpisce:* 8 (2d6 + 2) danni perforanti.
 
 **Ecologia**
-Ambiente: Qualsiasi terreno
-Organizzazione: Clan (7-12+)
+
+| Ambiente: Qualsiasi terreno |
+| --- |
+| Organizzazione: Clan (7-12+) |
+
 **Categoria Tesoro**: I
 **Descrizione**
 La Madre Ghoul è solitamente a capo di un clan di ghoul che può raggiungere anche diverse decine di membri. Rispettata e temuta è solitamente tra i ghoul evoluti più intelligenti e molto apprezzata per la sua capacità di poter trasformare in ghoul i viventi. La loro tattica prevede di ferire e non uccidere diverse persone così che tornate a casa e poi trasformati possano attaccare ed uccidere tutto il villaggio.
 
 ## Ghoul, putrescente
 - **Taglia/Tipo**: Grande non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 2 Cos 3 Int -1 Sag 0 Car -2}
+- **Caratt.**: For 1 Des 2 Cos 3 Int -1 Sag 0 Car -2
 - **Punti Ferita**: 89,  **Difesa:** 19,  **Iniziativa:** +2
 - **Movimento**: 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +6, Volontà +4}
+- **Tiri Salvez.**: Tempra +7, Riflessi +6, Volontà +4
 - **Imm. Danni**: Veleno, sanguinamento, da critico, da Vuoto
 - **Immunità**: affascinato, affaticato
 - **Res. Danni**: armi non magiche o d'argento
@@ -27818,18 +28332,21 @@ La Madre Ghoul è solitamente a capo di un clan di ghoul che può raggiungere an
 ***Aura di Sofferenza.***: il Ghoul Putrescente emana un aura di 6 metri intorno a lui, ogni attacco di ghoul andato a segno causa automaticamente un danno critico. Attivare questa aura costa 2 Azioni e dura fino all'inizio del round successivo.
 
 **Ecologia**
-Ambiente: Qualsiasi terreno
-Organizzazione: Gruppo (4-8) o branco (10-18)
+
+| Ambiente: Qualsiasi terreno |
+| --- |
+| Organizzazione: Gruppo (4-8) o branco (10-18) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 I Ghoul Putrescenti sono una delle tante l'evoluzione dei Ghoul. Il contatto continuo con l'energia negativa ed il nutrirsi per secoli di cadaveri di ogni genere lo hanno reso più grande, forte e capace di infliggere e fare infliggere le ferite più pericolose.
 
 ## Gigante delle Colline
 - **Taglia/Tipo**: Enorme gigante, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des -1 Cos 4 Int -3 Sag -1 Car -2}
+- **Caratt.**: For 5 Des -1 Cos 4 Int -3 Sag -1 Car -2
 - **Punti Ferita**: 109,  **Difesa:** 17,  **Iniziativa:** -1
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +4, Volontà +4}
+- **Tiri Salvez.**: Tempra +9, Riflessi +4, Volontà +4
 - **Linguaggi**: Gigante
 - **Sfida**: 5 (1800 PX)
 
@@ -27846,8 +28363,11 @@ I Ghoul Putrescenti sono una delle tante l'evoluzione dei Ghoul. Il contatto con
 *Colpisce:* 21 (3d10 + 5) danni contundenti.
 
 **Ecologia**
-Ambiente: Colline Temperate
-Organizzazione: Solitario, gruppo (2-5), banda (6-8), gruppo di razzia (9-12 più 1d4 Lupi Crudeli) o tribù (13-30 più 35\% non combattente più 1 capo combattente di 4°-6° livello, 11-16 Lupi Crudeli, 1-4 Ogre e 13-20 schiavi orchi)
+
+| Ambiente: Colline Temperate |
+| --- |
+| Organizzazione: Solitario, gruppo (2-5), banda (6-8), gruppo di razzia (9-12 più 1d4 Lupi Crudeli) o tribù (13-30 più 35\% non combattente più 1 capo combattente di 4°-6° livello, 11-16 Lupi Crudeli, 1-4 Ogre e 13-20 schiavi orchi) |
+
 **Categoria Tesoro**: Armatura di Pelle, Randello Pesante, B
 **Descrizione**
 I giganti di Collina hanno pelle che varia dal marrone chiaro al rossastro, capelli castani o neri, ed occhi dello stesso colore. Indossano strati di pelli rozzamente conciate con ancora il pelo. Raramente lavano o riparano i propri indumenti, e preferiscono semplicemente aggiungere nuovi strati man mano che i vecchi si logorano. Gli adulti sono alti circa 3 metri e pesano più o meno 550 kg. I giganti di Collina possono vivere fino a 200 anni, anche se raramente raggiungono quest'età.
@@ -27860,10 +28380,10 @@ I giganti di Collina solitari e non malvagi sono molto rari, ma li si può trova
 
 ## Gigante del Fuoco
 - **Taglia/Tipo**: Enorme gigante, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 7 Des -1 Cos 6 Int 0 Sag 2 Car 1}
+- **Caratt.**: For 7 Des -1 Cos 6 Int 0 Sag 2 Car 1
 - **Punti Ferita**: 187,  **Difesa:** 23,  **Iniziativa:** +0
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +8, Volontà +11
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +15, Riflessi +8, Volontà +11
 - **Comp.**: Atletica +11, Consapevolezza +6
 - **Linguaggi**: Gigante
 - **Sfida**: 9 (5000 PX)
@@ -27885,8 +28405,11 @@ I giganti di Collina solitari e non malvagi sono molto rari, ma li si può trova
 ***Arrabbiato:*** il gigante del fuoco convoglia la sua energia sull'arma, questa causa +2d6 danni da fuoco fino al termine del combattimento.
 
 **Ecologia**
-Ambiente: Montagne calde
-Organizzazione: Solitario, gruppo (2-5), banda (6-12 più un 35\% non combattenti e 1 adepto o Devoto di 1°-2° livello), gruppo di razziatori (6-12 più 1 adepto o mago di 3°-5° livello, 2-5 Segugi Infernali e 2-3 Troll o Ettin) o tribù (20-30 più 1 adepto, mago o Devoto di 6°-7° livello; 1 re Guerriero o guardiaboschi di 8°-9° livello; e 17-38 Segugi Infernali, 12-22 Troll, 7-12 Ettin e 1-2 Draghi Rossi Giovani)
+
+| Ambiente: Montagne calde |
+| --- |
+| Organizzazione: Solitario, gruppo (2-5), banda (6-12 più un 35\% non combattenti e 1 adepto o Devoto di 1°-2° livello), gruppo di razziatori (6-12 più 1 adepto o mago di 3°-5° livello, 2-5 Segugi Infernali e 2-3 Troll o Ettin) o tribù (20-30 più 1 adepto, mago o Devoto di 6°-7° livello; 1 re Guerriero o guardiaboschi di 8°-9° livello; e 17-38 Segugi Infernali, 12-22 Troll, 7-12 Ettin e 1-2 Draghi Rossi Giovani) |
+
 **Categoria Tesoro**: Mezza Armatura, Spadone, P
 **Descrizione**
 I giganti del fuoco sono i giganti più rigidi e marziali, sempre pronti alla guerra e a trattare brutalmente chiunque incontrino. La loro rigida struttura di comando prevede soldati, ufficiali e persino generali, e che tutti obbediscano agli ordini del loro re senza discutere.
@@ -27899,10 +28422,10 @@ I giganti del fuoco preferiscono i luoghi caldi: più caldi sono meglio è. Si p
 
 ## Gigante del Gelo
 - **Taglia/Tipo**: Enorme gigante, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des -1 Cos 5 Int -1 Sag 0 Car 1}
+- **Caratt.**: For 6 Des -1 Cos 5 Int -1 Sag 0 Car 1
 - **Punti Ferita**: 167,  **Difesa:** 21,  **Iniziativa:** -1
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +7, Volontà +8
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +13, Riflessi +7, Volontà +8
 - **Comp.**: Atletica +9
 - **Linguaggi**: Gigante
 - **Sfida**: 8 (3900 PX)
@@ -27924,8 +28447,11 @@ I giganti del fuoco preferiscono i luoghi caldi: più caldi sono meglio è. Si p
 ***Arrabbiato:*** il Gigante del Gelo canalizza le sue energie attraverso l'arma. L'arma causa un 2d6 di danni aggiuntivi da freddo fino alla fine del combattimento.
 
 **Ecologia**
-Ambiente: Montagne fredde
-Organizzazione: Solitario, banda (3-5), gruppo (6-12 più 35\% non combattenti e 1 mago o Devoto di 1°-2° livello), gruppo di razziatori (6-12 più 35\% non combattenti, 1 Devoto o mago di 3°-5° livello, 1-4 Lupi Invernali e 2-3 Ogre) o tribù (21-30 più 1 adepto, mago o Devoto di 6°-7° livello; 1 jarl Barbaro o guardiaboschi 7°-9° livello; e 15-36 Lupi Invernali, 13-22 Ogre e 1-2 Draghi Bianchi Giovani)
+
+| Ambiente: Montagne fredde |
+| --- |
+| Organizzazione: Solitario, banda (3-5), gruppo (6-12 più 35\% non combattenti e 1 mago o Devoto di 1°-2° livello), gruppo di razziatori (6-12 più 35\% non combattenti, 1 Devoto o mago di 3°-5° livello, 1-4 Lupi Invernali e 2-3 Ogre) o tribù (21-30 più 1 adepto, mago o Devoto di 6°-7° livello; 1 jarl Barbaro o guardiaboschi 7°-9° livello; e 15-36 Lupi Invernali, 13-22 Ogre e 1-2 Draghi Bianchi Giovani) |
+
 **Categoria Tesoro**: Giaco di Maglia, Ascia Bipenne, R
 **Descrizione**
 Un gigante del gelo ha capelli azzurri o giallo sporco, e occhi in genere dello stesso colore. Si vestono con pelli e pellicce, adornandosi con qualsiasi gioiello possiedano. I giganti del gelo combattenti indossano anche giachi di maglia ed elmi di metallo decorati con corna e piume. Un maschio adulto è alto 5 metri e pesa circa 1.400 kg. Le femmine sono leggermente più basse e snelle, ma per il resto sono identiche ai maschi. I giganti del gelo possono vivere fino a 250 anni.
@@ -27938,10 +28464,10 @@ I giganti del gelo amano prendere prigionieri e li usano sia come schiavi che co
 
 ## Gigante delle Nuvole
 - **Taglia/Tipo**: Enorme gigante, buono (50\%) o malvagio (50\%)
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 8 Des 0 Cos 6 Int 1 Sag 3 Car 3}
+- **Caratt.**: For 8 Des 0 Cos 6 Int 1 Sag 3 Car 3
 - **Punti Ferita**: 187,  **Difesa:** 24,  **Iniziativa:** +1
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +9, Volontà +12
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +15, Riflessi +9, Volontà +12
 - **Comp.**: Percepire Emozioni +7
 - **Linguaggi**: Comune, Gigante
 - **Sfida**: 9 (5000 PX)
@@ -27973,8 +28499,11 @@ A volontà: *Individuazione del Magico, Luce, Nube di Nebbia*
 ***Arrabbiato:*** il Gigante delle Nubi agita l'arma sopra sulla testa evocando nubi tempestose e lanciando l'incantesimo Invocare il Fulmine. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Montagne Temperate
-Organizzazione: Solitario, gruppo (2-5), famiglia (2-5 più 35\% non combattenti più 1 mago o Devoto di 4°-7° livello e 2-5 Grifoni) o tribù (6-20 più 1 oracolo mago o Devoto di 7°-12° livello e 2-5 Grifoni)
+
+| Ambiente: Montagne Temperate |
+| --- |
+| Organizzazione: Solitario, gruppo (2-5), famiglia (2-5 più 35\% non combattenti più 1 mago o Devoto di 4°-7° livello e 2-5 Grifoni) o tribù (6-20 più 1 oracolo mago o Devoto di 7°-12° livello e 2-5 Grifoni) |
+
 **Categoria Tesoro**: Giaco di Maglia, Mazza chiodata, U
 **Descrizione**
 Il colore pelle dei giganti delle nuvole varia dal bianco latte al blu polvere. I maschi adulti sono alti circa 5,3 metri e pesano approssimativamente 2.500 kg. Le femmine sono leggermente più basse e snelle. I giganti delle nuvole possono vivere fino a 400 anni, vestono con abiti preziosi e gioielli. Per molti l'aspetto indica lo status. Migliori sono i vestiti e più raffinati i gioielli, più importante è chi li indossa. Inoltre apprezzano la musica, e la maggioranza suona uno o più strumenti (l'arpa è uno dei preferiti).
@@ -27985,10 +28514,10 @@ Sono molte le leggende che parlano di magiche città dei giganti delle nuvole si
 
 ## Gigante di Pietra
 - **Taglia/Tipo**: Enorme gigante, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 2 Cos 5 Int 0 Sag 1 Car -1}
+- **Caratt.**: For 6 Des 2 Cos 5 Int 0 Sag 1 Car -1
 - **Punti Ferita**: 148,  **Difesa:** 23,  **Iniziativa:** +2
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +12, Riflessi +9, Volontà +8
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +12, Riflessi +9, Volontà +8
 - **Comp.**: Atletica +12
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Gigante
@@ -28015,8 +28544,11 @@ Sono molte le leggende che parlano di magiche città dei giganti delle nuvole si
 ***Arrabbiato:*** il Gigante di Pietra concentra le sue energie rendendo la pelle dura come pietra. Fino alla fine del round successivo acquisisce una Riduzione del danno pari a 13. Costa 2 Azioni
 
 **Ecologia**
-Ambiente: Montagne temperate
-Organizzazione: Solitario, gruppo (2-5), banda (4-8), gruppo di caccia (9-12 più 1 Anziano) o tribù (13-30 più 35\% non combattenti, 1-3 Anziani e 4-6 Orsi Crudeli)
+
+| Ambiente: Montagne temperate |
+| --- |
+| Organizzazione: Solitario, gruppo (2-5), banda (4-8), gruppo di caccia (9-12 più 1 Anziano) o tribù (13-30 più 35\% non combattenti, 1-3 Anziani e 4-6 Orsi Crudeli) |
+
 **Categoria Tesoro**: Randello Pesante Gigante, P
 **Descrizione**
 I giganti di Pietra preferiscono spessi indumenti di cuoio, tinti con tonalità di marrone e grigio per confondersi con la pietra che li circonda. Gli adulti sono alti circa 3,6 metri, pesano circa 750 kg e possono vivere fino a 800 anni.
@@ -28029,10 +28561,10 @@ I giganti di Pietra più vecchi tendono ad allontanarsi dalla tribù per molto t
 
 ## Gigante delle Tempeste
 - **Taglia/Tipo**: Enorme gigante, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 9 Des 2 Cos 5 Int 3 Sag 4 Car 4}
+- **Caratt.**: For 9 Des 2 Cos 5 Int 3 Sag 4 Car 4
 - **Punti Ferita**: 262,  **Difesa:** 31,  **Iniziativa:** +3
 - **Movimento**: 15 m, nuoto 15 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +18, Riflessi +15, Volontà +17
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +18, Riflessi +15, Volontà +17
 - **Comp.**: Arcana +8, Atletica +14, Storia +8
 - **Res. Danni**: Freddo
 - **Imm. Danni**: Elettricità, Suono
@@ -28066,8 +28598,11 @@ A volontà: *Caduta Piuma, individuazione del magico,* *levitazione, Luce*
 ***Arrabbiato:*** il gigante delle tempeste carica di elettricità tutta l'area intorno a se fino alla fine del combattimento. Una creatura che termini il round entro 6 metri da gigante subisce 13 (3d8) danni da elettricità. Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Qualsiasi caldo
-Organizzazione: Solitario o famiglia (2-5 più 1 mago o Devoto di livello 7°-10°, 1-2 Roc, 2-6 Grifoni e 2-8 Squali)
+
+| Ambiente: Qualsiasi caldo |
+| --- |
+| Organizzazione: Solitario o famiglia (2-5 più 1 mago o Devoto di livello 7°-10°, 1-2 Roc, 2-6 Grifoni e 2-8 Squali) |
+
 **Categoria Tesoro**: Corazza di Piastre Perfetta, Arco Lungo Composito Perfetto [Forza +9] con 20 Frecce, Spadone Perfetto, H
 **Descrizione**
 I giganti delle tempeste tendono ad avere carnagione abbronzata, anche se rari esemplari hanno pelle viola, capelli viola o blu scuri e occhi grigio argento o porpora. Il colore viola è considerato di buon auspicio tra i giganti delle tempeste, e coloro che lo posseggono tendono a diventare capi tra la loro gente. Gli adulti sono normalmente alti 6,3 metri e pesano 6000 kg. I giganti delle tempeste possono vivere fino a 600 anni.
@@ -28080,10 +28615,10 @@ I giganti delle tempeste vivono in belle torri, castelli o in insediamenti cinti
 
 ## Gnoll
 - **Taglia/Tipo**: Media umanoide (gnoll), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 0 Int -2 Sag 0 Car -2}
+- **Caratt.**: For 2 Des 1 Cos 0 Int -2 Sag 0 Car -2
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Gnoll
 - **Sfida**: 1/2 (100 PX)
@@ -28107,8 +28642,11 @@ I giganti delle tempeste vivono in belle torri, castelli o in insediamenti cinti
 ***Risata beffarda.*** lo gnoll ride sguaiatamente ad un avversario. La creatura bersaglio deve effettuare un Tiro Salvezza su Volontà DC 13 o essere intimorito ed avere -1 al Tiro per Colpire fino alla fine del round successivo dello gnoll
 
 **Ecologia**
-Ambiente: Pianure calde, deserti
-Organizzazione: Solitario, coppia, gruppo di caccia (2-5 e 1-2 Iene), banda (10-100 adulti più 50\% piccoli non combattenti, 1 sergente di 3° livello ogni 20 adulti, 1 capo di 4°-6° livello e 5-8 Iene) o tribù (20-200 più 1 sergente di 3° livello ogni 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 7-12 Iene e 4-7 ienodonti)
+
+| Ambiente: Pianure calde, deserti |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo di caccia (2-5 e 1-2 Iene), banda (10-100 adulti più 50\% piccoli non combattenti, 1 sergente di 3° livello ogni 20 adulti, 1 capo di 4°-6° livello e 5-8 Iene) o tribù (20-200 più 1 sergente di 3° livello ogni 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 7-12 Iene e 4-7 ienodonti) |
+
 **Categoria Tesoro**: equipaggiamento da PNG (Armatura di Cuoio, Scudo Pesante di Legno, Lancia, K)
 **Descrizione**
 Gli gnoll sono umanoidi grandi e massicci, simili alle iene non solo nell'aspetto, ma anche nei comportamenti. Spesso tengono le iene come animali da compagnia e riflettono molti dei loro comportamenti. Pur essendo abili cacciatori, preferiscono trafugare o ripulire carcasse piuttosto che cacciare prede.
@@ -28123,10 +28661,10 @@ I capi gnoll hanno competenze da guardiaboschi, e alcuni sono devoti a famelici 
 
 ## Gnomo delle Profondità
 - **Taglia/Tipo**: Piccola umanoide (gnomo), buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 2 Int 1 Sag 0 Car -1}
+- **Caratt.**: For 2 Des 2 Cos 2 Int 1 Sag 0 Car -1
 - **Punti Ferita**: 24,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +4, Consapevolezza +2
 - **Sensi**: Scurovisione 36 m
 - **Linguaggi**: Gnomica, Linguaggio delle Profondità, Tremun
@@ -28151,18 +28689,21 @@ A volontà: *Anti-Individuazione* (personale)
 *Colpisce:* 4 (1d4 + 2) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 12 o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 **Ecologia**
-Ambiente: Qualsiasi sotterraneo
-Organizzazione: Solitario, compagnia (2-4), squadra (5-20 più 1 capo 3°-6° e due sergenti di 3° livello), o banda (30-50 più 1 sergente di 3° livello ogni 20 adulti, 5 tenenti di 5° livello, 3 capitani di 7° livello, e 2-5 Elementali della Terra Medi)
+
+| Ambiente: Qualsiasi sotterraneo |
+| --- |
+| Organizzazione: Solitario, compagnia (2-4), squadra (5-20 più 1 capo 3°-6° e due sergenti di 3° livello), o banda (30-50 più 1 sergente di 3° livello ogni 20 adulti, 5 tenenti di 5° livello, 3 capitani di 7° livello, e 2-5 Elementali della Terra Medi) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Piccone Pesante, Balestra Leggera con 10 Quadrelli, M)
 **Descrizione**
 I gnomi delle profondità, sono una branca della razza gnomesca. Dimorano nel sottosuolo, in città nascoste, al sicuro dagli elfi scuri e da altre razze sotterranee. La loro pelle è del colore della roccia, di solito grigia o marrone. I maschi sono calvi e le femmine hanno radi capelli grigi.
 
 ## Globulo
 - **Taglia/Tipo**: Piccola aberrazione, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 2 Cos 0 Int 3 Sag 1 Car 3}
+- **Caratt.**: For -2 Des 2 Cos 0 Int 3 Sag 1 Car 3
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +3
 - **Movimento**: volare 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Imm. Danni**: da Vuoto, Freddo, Veleno
 - **Immunità**: prono
 - **Sensi**: Scurovisione 36 m
@@ -28182,8 +28723,11 @@ I gnomi delle profondità, sono una branca della razza gnomesca. Dimorano nel so
 ***Brillio*** una volta al giorno il Globulo diventa estremamente luminoso, le creature nel raggio di 6 metri attorno a lui devono fare un Tiro Salvezza su Tempra a DC 13 o diventare accecati per 3 round.
 
 **Ecologia**
-Ambiente: Qualsiasi, desertico, notturno
-Organizzazione: Solitario, gruppi 2d4
+
+| Ambiente: Qualsiasi, desertico, notturno |
+| --- |
+| Organizzazione: Solitario, gruppi 2d4 |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 I Globuli sono aberrazioni magiche provenienti da qualche portale aperto verso l'Oltre. Creature di freddo e vuoto sembrano delle piccole stelle che anelano solo di risucchiare la vita della creature incontrate.
@@ -28191,10 +28735,10 @@ Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avve
 
 ## Goblin
 - **Taglia/Tipo**: Piccola umanoide (goblinoide), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 0 Cos 1 Int -1 Sag -2 Car -1}
+- **Caratt.**: For 0 Des 0 Cos 1 Int -1 Sag -2 Car -1
 - **Punti Ferita**: 19,  **Difesa:** 12,  **Iniziativa:** +0
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Goblin
 - **Sfida**: 1/4 (50 PX)
@@ -28208,8 +28752,11 @@ Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avve
 *Colpisce:* 3 (1d6) danni perforanti.
 
 **Ecologia**
-Ambiente: Qualsiasi Temperate
-Organizzazione: Gruppo (4-9), banda da guerra (10-24) o tribù (50+ più 50\% non combattenti
+
+| Ambiente: Qualsiasi Temperate |
+| --- |
+| Organizzazione: Gruppo (4-9), banda da guerra (10-24) o tribù (50+ più 50\% non combattenti |
+
 **Categoria Tesoro**: K
 **Descrizione**
 I goblin sono selvaggi, imprevedibili, rumorosi.
@@ -28221,10 +28768,10 @@ I goblin sono famelici e possono mangiare enormi quantità di cibo. un goblin no
 
 ## Golem di Argilla
 - **Taglia/Tipo**: Grande costrutto, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des -1 Cos 4 Int -4 Sag -1 Car -5}
+- **Caratt.**: For 5 Des -1 Cos 4 Int -4 Sag -1 Car -5
 - **Punti Ferita**: 184,  **Difesa:** 23,  **Iniziativa:** -1
 - **Movimento**: 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +8, Volontà +8
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +13, Riflessi +8, Volontà +8
 - **Imm. Danni**: Acido, Veleno
 - **Immunità**: affascinato, paralizzato, pietrificato, affaticato, spaventato
 - **Sensi**: Scurovisione 18 m
@@ -28258,8 +28805,11 @@ I goblin sono famelici e possono mangiare enormi quantità di cibo. un goblin no
 ***Velocità (Ricarica 5-6).*** Fino al termine del suo prossimo round, il golem ottiene un bonus magico di +2 alla Difesa, ha +1d6 ai Tiri Salvezza su Riflessi, e può usare gli attacchi di schianto come Azione Immediata.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario o gruppo (2-4)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario o gruppo (2-4) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 I golem di argilla non indossano abiti, eccezion fatta per un indumento di cuoio trattato o metallo attorno ai fianchi. Mediamente sono alti più di 2,3 metri e pesano 300 chili.
@@ -28269,10 +28819,10 @@ Un golem d'argilla può essere scolpito a partire da un unico blocco d'argilla d
 
 ## Golem di Carne
 - **Taglia/Tipo**: Media costrutto, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des -1 Cos 4 Int -2 Sag 0 Car -3}
+- **Caratt.**: For 4 Des -1 Cos 4 Int -2 Sag 0 Car -3
 - **Punti Ferita**: 109,  **Difesa:** 17,  **Iniziativa:** -1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +4, Volontà +5}
+- **Tiri Salvez.**: Tempra +9, Riflessi +4, Volontà +5
 - **Imm. Danni**: Elettricità, Veleno
 - **Immunità**: affascinato, paralizzato, pietrificato, affaticato, spaventato
 - **Sensi**: Scurovisione 18 m
@@ -28304,8 +28854,11 @@ Un golem d'argilla può essere scolpito a partire da un unico blocco d'argilla d
 ***Arrabbiato:*** il golem di carne si sovraccarica. Per 2d4 round può eseguire una Azione di in più di Movimento o di Attacco. Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario o gruppo (2-4)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario o gruppo (2-4) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Un golem di carne è una mostruosa collezione di parti anatomiche umanoidi trafugate e cucite insieme. La sua carne cadaverica ha tonalità verde pallido o giallognola. Un golem di carne indossa qualsiasi tipo di vestito che il suo creatore desideri, normalmente solo un logoro paio di pantaloni. Non ha Equipaggiamento né armi. Un golem di carne è alto più di 2,3 metri e pesa 250 kg.
@@ -28316,10 +28869,10 @@ Anche se molti golem di carne sono privi di ragione, si narra di golem ecceziona
 
 ## Golem di Ferro
 - **Taglia/Tipo**: Grande costrutto, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 7 Des -1 Cos 5 Int -4 Sag 0 Car -5}
+- **Caratt.**: For 7 Des -1 Cos 5 Int -4 Sag 0 Car -5
 - **Punti Ferita**: 319,  **Difesa:** 32,  **Iniziativa:** -1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +21, Riflessi +15, Volontà +16
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +21, Riflessi +15, Volontà +16
 - **Imm. Danni**: Fuoco, Veleno
 - **Immunità**: affascinato, paralizzato, pietrificato, affaticato, spaventato
 - **Sensi**: Scurovisione 36 m
@@ -28355,8 +28908,11 @@ Anche se molti golem di carne sono privi di ragione, si narra di golem ecceziona
 ***Arrabbiato:*** il golem di ferro esala un soffio rovente in un cono di 3 metri. Il soffio causa 3d10 danni da fuoco o la metà se il Tiro Salvezza si Riflessi DC 26 riesce. Il golem recupera l'intero ammontare in Punti Ferita ed è Accelerato 1 per 2d4 round. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario o gruppo (2-4)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario o gruppo (2-4) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Un golem di ferro ha un corpo di forma umanoide in ferro. Il creatore può dargli qualsiasi forma desideri, ma presenta quasi sempre un'armatura di qualche tipo, sia essa cerimoniale e preziosa o semplice e d'uso. Rispetto ad un golem di pietra ha sembianze molto più definite. I golem di ferro, talvolta, portano con sé un'arma, anche se il più delle volte tendono a preferirle i loro attacchi schianto.
@@ -28370,10 +28926,10 @@ Per costruire un golem di ferro occorrono 2.500 kg di ferro, fuso con tinture ra
 
 ## Golem di Pietra
 - **Taglia/Tipo**: Grande costrutto, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des -1 Cos 5 Int -4 Sag 0 Car -5}
+- **Caratt.**: For 6 Des -1 Cos 5 Int -4 Sag 0 Car -5
 - **Punti Ferita**: 205,  **Difesa:** 24,  **Iniziativa:** -1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +15, Riflessi +9, Volontà +10
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +15, Riflessi +9, Volontà +10
 - **Imm. Danni**: Veleno
 - **Immunità**: affascinato, paralizzato, pietrificato, affaticato, spaventato
 - **Sensi**: Scurovisione 36 m
@@ -28401,8 +28957,11 @@ Per costruire un golem di ferro occorrono 2.500 kg di ferro, fuso con tinture ra
 ***Lentezza (Ricarica 5-6).*** Il golem prende a bersaglio una o più creature entro 3 metri da lui e che possa vedere. Ciascun bersaglio deve effettuare un Tiro Salvezza di Volontà DC 24 contro questa magia. Se fallisce il Tiro Salvezza il bersaglio è Rallentato 2/1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto per sé in caso di successo.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario o gruppo (2-4)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario o gruppo (2-4) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Un golem di pietra ha un corpo umanoide fatto di pietra, spesso stilizzato per soddisfare il suo creatore. Ad esempio, può essere scolpito in modo da indossare un'armatura, con particolari simboli scolpiti sulla corazza, o avere dei disegni intarsiati nella pietra dei suoi arti. La testa è spesso scolpita per sembrare un elmo o la testa di qualche bestia. Sebbene possa essere scolpito con uno scudo o un'arma di pietra come una spada, queste scelte estetiche non influenzano le sue capacità in combattimento.
@@ -28416,10 +28975,10 @@ Il corpo di un golem di pietra viene scolpito da un unico blocco di pietra dura,
 
 ## Gorgone
 - **Taglia/Tipo**: Grande mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 0 Cos 4 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 5 Des 0 Cos 4 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 109,  **Difesa:** 18,  **Iniziativa:** +0
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +5, Volontà +6}
+- **Tiri Salvez.**: Tempra +9, Riflessi +5, Volontà +6
 - **Comp.**: Consapevolezza +4
 - **Immunità**: Pietrificato
 - **Sensi**: Scurovisione 18 m
@@ -28440,8 +28999,11 @@ Il corpo di un golem di pietra viene scolpito da un unico blocco di pietra dura,
 ***Arrabbiato:*** la Gorgone concentra un potente soffio pietrificante. Costa 2 azioni. Una creatura a distanza di mischia deve effettuare un Tiro Salvezza su Tempra a DC 16 o diventare di pietra per 24 ore.
 
 **Ecologia**
-Ambiente: Pianure Temperate, Colline Rocciose e Sotterranei
-Organizzazione: Solitario, coppia, branco (3-4) o mandria (5-12)
+
+| Ambiente: Pianure Temperate, Colline Rocciose e Sotterranei |
+| --- |
+| Organizzazione: Solitario, coppia, branco (3-4) o mandria (5-12) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Le gorgoni sono creature magiche e irascibili: sebbene a prima vista possano sembrare dei costrutti, sotto le piastre metalliche dall'aspetto artificiale sono fatte di carne e ossa. Come tori aggressivi, sfidano qualsiasi creatura sconosciuta che incontrano, spesso travolgendo il cadavere del loro avversario o frantumando i suoi resti pietrificati finché la creatura non è più riconoscibile. Le femmine sono pericolose quanto i maschi, e i due sessi hanno l'identico aspetto. Una tipica gorgone è alta 1,8 metri e lunga 2,3 metri. Pesa circa 2000 kg.
@@ -28452,10 +29014,10 @@ La loro carne è dura e muscolosa (una volta che viene rimossa l'armatura), e pe
 
 ## Grick
 - **Taglia/Tipo**: Media mostruosità, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 0 Int -4 Sag 2 Car -3}
+- **Caratt.**: For 2 Des 2 Cos 0 Int -4 Sag 2 Car -3
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 9 m, scalata 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +4}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +4
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 2 (450 PX)
 
@@ -28472,8 +29034,11 @@ La loro carne è dura e muscolosa (una volta che viene rimossa l'armatura), e pe
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
 **Ecologia**:
-Ambiente: Qualsiasi Sotterraneo
-Organizzazione: Solitario o ammasso (2-5)
+
+| Ambiente: Qualsiasi Sotterraneo |
+| --- |
+| Organizzazione: Solitario o ammasso (2-5) |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 Il grick, una creatura vermiforme, è il terrore delle caverne e dei cunicoli in cui risiede. In agguato nei pressi di tunnel trafficati o città sotterranee, balza fuori dal buio per catturare le sue prede. Solitamente non consuma le prede sul posto, ma le porta nella sua tana, un cunicolo stretto o una sporgenza di una caverna, dove può mangiarle tranquillamente.
@@ -28486,10 +29051,10 @@ I grick si mimetizzano grazie al loro colore scuro e alla capacità di scalare i
 
 ## Grifone
 - **Taglia/Tipo**: Grande mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 3 Int -3 Sag 1 Car 0}
+- **Caratt.**: For 4 Des 2 Cos 3 Int -3 Sag 1 Car 0
 - **Punti Ferita**: 52,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 9 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +4, Volontà +3
 - **Comp.**: Consapevolezza +5
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 2 (450 PX)
@@ -28509,8 +29074,11 @@ I grick si mimetizzano grazie al loro colore scuro e alla capacità di scalare i
 **Reazione: *Attacco d'opportunità***: il grifone attacca se sta volando ed una creatura esce o attraversa la sua portata di 3 m.
 
 **Ecologia**
-Ambiente: Colline Temperate
-Organizzazione: Solitario, coppia o branco (6-10)
+
+| Ambiente: Colline Temperate |
+| --- |
+| Organizzazione: Solitario, coppia o branco (6-10) |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 I grifoni sono potenti predatori aerei che piombano dai loro nidi per afferrare le prede con becco e artigli. Aggressivi e territoriali, sono combattenti astuti e leali verso chi guadagna il loro rispetto, proteggendoli fino alla morte. Pesano oltre 250 kg e sono lunghi 2,3 metri, con un imponente profilo spesso usato in araldica come simbolo di potenza, autorità e giustizia. Nonostante ciò, sono più interessati a cacciare e difendersi.
@@ -28525,10 +29093,10 @@ I grifoni possono portare fino a 25 di Ingombro come carico leggero, 50 come car
 
 ## Grimlock
 - **Taglia/Tipo**: Media umanoide (grimlock), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 1 Int -1 Sag -1 Car -2}
+- **Caratt.**: For 3 Des 1 Cos 1 Int -1 Sag -1 Car -2
 - **Punti Ferita**: 19,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Atletica +5, Furtività +3, Consapevolezza +3
 - **Immunità**: accecato
 - **Sensi**: Vista Cieca 9 m o 3 m se assordato (cieco oltre questo raggio)
@@ -28550,16 +29118,19 @@ I grifoni possono portare fino a 25 di Ingombro come carico leggero, 50 come car
 *Colpisce:* 5 (1d8 + 1) danni perforanti.
 
 **Ecologia**
-I Grimlock abitano gli insediamenti abbandonati di altre Razze e sono spesso trovati come schiavi di altre creature più organizzate, come i nani ed Elfi. Si ritiene che si trattino di una propaggine ancora più degenerata dei Morlock, che viaggiano da Sekamina per cacciare i Grimlock per il cibo e considerano la loro carne una delicatezza.
+
+| I Grimlock abitano gli insediamenti abbandonati di altre Razze e sono spesso trovati come schiavi di altre creature più organizzate, come i nani ed Elfi. Si ritiene che si trattino di una propaggine ancora più degenerata dei Morlock, che viaggiano da Sekamina per cacciare i Grimlock per il cibo e considerano la loro carne una delicatezza. |
+| --- |
+
 **Descrizione**
 I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle terre oscure di profondità, dove si organizzano in piccoli gruppi tribali.
 
 ## Guardiano Protettore
 - **Taglia/Tipo**: Grande costrutto, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des -1 Cos 4 Int -2 Sag 0 Car -4}
+- **Caratt.**: For 4 Des -1 Cos 4 Int -2 Sag 0 Car -4
 - **Punti Ferita**: 146,  **Difesa:** 20,  **Iniziativa:** -1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +11, Riflessi +6, Volontà +7}
+- **Tiri Salvez.**: Tempra +11, Riflessi +6, Volontà +7
 - **Imm. Danni**: Veleno
 - **Immunità**: affascinato, paralizzato, affaticato, spaventato
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -28584,10 +29155,10 @@ I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle ter
 
 ## Hobgoblin
 - **Taglia/Tipo**: Media umanoide (goblinoide), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 1 Cos 1 Int 0 Sag 0 Car -1}
+- **Caratt.**: For 1 Des 1 Cos 1 Int 0 Sag 0 Car -1
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Goblin
 - **Sfida**: 1/2 (100 PX)
@@ -28603,8 +29174,11 @@ I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle ter
 *Colpisce:* 5 (1d8 + 1) danni perforanti.
 
 **Ecologia**
-Ambiente: Colline Temperate
-Organizzazione: Gruppo (4-9), banda da guerra (10-24) o tribù (25+ più 50\% non combattenti, 1 sergente di 3° livello per 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 6-12 Leopardi e 1-4 Ogre o 1-2 Troll)
+
+| Ambiente: Colline Temperate |
+| --- |
+| Organizzazione: Gruppo (4-9), banda da guerra (10-24) o tribù (25+ più 50\% non combattenti, 1 sergente di 3° livello per 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 6-12 Leopardi e 1-4 Ogre o 1-2 Troll) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Corazza di Cuoio Borchiato, Scudo Leggero di Metallo, Spada Lunga, Arco Lungo con 20 Frecce, O)
 **Descrizione**
 Gli Hobgoblin sono una razza militarista e prolifica, rendendoli molto pericolosi in alcune regioni. Procreano rapidamente, sostituendo i membri caduti con nuovi soldati, mantenendo il loro numero costante nonostante le guerre. Dichiarano guerra facilmente, spesso per catturare nuovi schiavi, la cui vita è brutale e breve. Gli schiavi sono necessari per rimpiazzare quelli che muoiono o vengono mangiati.
@@ -28617,10 +29191,10 @@ Gli Hobgoblin disprezzano la magia e diffidano dei maghi. I loro sciamani, temut
 
 ## Idra
 - **Taglia/Tipo**: Enorme mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 1 Cos 5 Int -4 Sag 0 Car -2}
+- **Caratt.**: For 5 Des 1 Cos 5 Int -4 Sag 0 Car -2
 - **Punti Ferita**: 167,  **Difesa:** 23,  **Iniziativa:** +1
 - **Movimento**: 9 m, nuoto 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +9, Volontà +8
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +13, Riflessi +9, Volontà +8
 - **Comp.**: Consapevolezza +6
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 8 (3900 PX)
@@ -28646,18 +29220,21 @@ Al termine del suo round, l'idra ricresce due teste per ciascuna delle sue teste
 ***Gas ripugnanti.*** l'idra emette gas dall'odore ripugnante. Tutte le creature nel raggio di 3 metri dall'idra devono fare un Tiro Salvezza su Tempra DC 21 o subire -2 al Tiro per Colpire per i successivi 2d4 round.
 
 **Ecologia**
-Ambiente: Paludi Temperate
-Organizzazione: Solitario
+
+| Ambiente: Paludi Temperate |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: E
 **Descrizione**
 L'idra è un drago a più teste, ma stupido e con grossi problemi di digestione.
 
 ## Ippogrifo
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 1 Int -4 Sag 1 Car -1}
+- **Caratt.**: For 3 Des 1 Cos 1 Int -4 Sag 1 Car -1
 - **Punti Ferita**: 33,  **Difesa:** 14,  **Iniziativa:** +1
 - **Movimento**: 12 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Consapevolezza +5
 - **Sfida**: 1 (200 PX)
 
@@ -28676,8 +29253,11 @@ L'idra è un drago a più teste, ma stupido e con grossi problemi di digestione.
 **Reazione: *Attacco d'opportunità***: l'ippogrifo attacca se sta volando ed una creatura esce o attraversa la sua portata di 2 m.
 
 **Ecologia**
-Ambiente: Colline Temperate o Pianure
-Organizzazione: Solitario, coppia o stormo (7-12)
+
+| Ambiente: Colline Temperate o Pianure |
+| --- |
+| Organizzazione: Solitario, coppia o stormo (7-12) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 L'ippogrifo è una creatura affascinante con ali, zampe anteriori e testa di un grande rapace, e corpo e coda di un magnifico cavallo.
@@ -28692,10 +29272,10 @@ Gli ippogrifi sono ovipari e il loro nido contiene solitamente un solo uovo, che
 
 ## Kraken
 - **Taglia/Tipo**: Mastodontica mostruosità (titano), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 10 Des 0 Cos 7 Int 6 Sag 4 Car 5}
+- **Caratt.**: For 10 Des 0 Cos 7 Int 6 Sag 4 Car 5
 - **Punti Ferita**: 461,  **Difesa:** 42,  **Iniziativa:** +6
 - **Movimento**: 6 m, nuoto 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +30, Riflessi +23, Volontà +27
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +30, Riflessi +23, Volontà +27
 - **Imm. Danni**: Elettricità, armi +1
 - **Immunità**: paralizzato, spaventato
 - **Sensi**: visione del vero 36 m
@@ -28733,8 +29313,11 @@ Il kraken può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 **Nube di Inchiostro (Costa 3 Azioni).** Mentre si trova sott'acqua, il kraken espelle una nube di inchiostro con un raggio di 18 metri. La nube si propaga intorno agli angoli, e quell'area è oscurata pesantemente per tutte le creature tranne il kraken. Ciascuna creatura a parte il kraken che termini il suo round nell'area deve riuscire un Tiro Salvezza su Tempra 34, subendo 16 (3d10) danni da veleno se fallisce il Tiro Salvezza, o la metà se lo riesce. Una forte corrente disperde la nube, che altrimenti svanisce al termine del prossimo round del kraken. **Tempesta di Fulmini (Costa 2 Azioni).** Il kraken usa Tempesta di Fulmini.
 
 **Ecologia**
-Ambiente: Qualsiasi Oceano
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi Oceano |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: 2 H
 **Descrizione**
 Il leggendario kraken è una delle più grandi paure dei marinai, perché è una creatura della taglia di una balena, può colpire delle profondità senza esser visto, può comandare i venti e le condizioni meteorologiche necessarie alla nave per muoversi, e possiede il crudele intelletto della maggior parte dei più spietati e creativi criminali del mondo. Alcuni credono che i kraken siano una punizione divina, mentre altri li ritengono i veri signori delle profondità, che considerano le razze che respirano aria nient'altro che bestiame.
@@ -28745,10 +29328,10 @@ Un kraken è lungo quasi 30 metri e pesa 20000 kg.
 
 ## Lamia
 - **Taglia/Tipo**: Grande mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 2 Int 2 Sag 2 Car 3}
+- **Caratt.**: For 3 Des 1 Cos 2 Int 2 Sag 2 Car 3
 - **Punti Ferita**: 88,  **Difesa:** 18,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +6}
+- **Tiri Salvez.**: Tempra +6, Riflessi +5, Volontà +6
 - **Comp.**: Furtività +3, Ingannare +7, Percepire Emozioni +4,
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Abissale, Comune
@@ -28777,8 +29360,11 @@ A volontà: *Camuffare Sé Stesso* (qualsiasi forma umanoide), *Immagine Maggior
 *Colpisce:* Il bersaglio è maledetto per 1 ora da questa magia. Fino al termine della maledizione, il bersaglio ha -1d6 ai Tiri Salvezza su Volontà e a tutte le prove di competenza di Base.
 
 **Ecologia**
-Ambiente: Deserti Temperati
-Organizzazione: Solitario, coppia o setta (3-12)
+
+| Ambiente: Deserti Temperati |
+| --- |
+| Organizzazione: Solitario, coppia o setta (3-12) |
+
 **Categoria Tesoro**: Pugnale+1, D
 **Descrizione**
 Le lamie, eredi di un'antica maledizione, hanno l'aspetto di donne snelle e attraenti dalla vita in su, mentre la parte inferiore del corpo è simile a quella di un possente leone. Le loro caratteristiche umanoidi presentano tratti felini: occhi stretti e ferini e denti simili a zanne. Una lamia tipica è alta 1,8 metri, lunga 2,3 metri e pesa oltre 325 kg.
@@ -28789,10 +29375,10 @@ Le lamie venerano le femmine anziane del loro gruppo, considerandole capi, madri
 
 ## Lich
 - **Taglia/Tipo**: Media non morto, tratti malvagi
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 3 Cos 3 Int 5 Sag 2 Car 3}
+- **Caratt.**: For 0 Des 3 Cos 3 Int 5 Sag 2 Car 3
 - **Punti Ferita**: 405,  **Difesa:** 43,  **Iniziativa:** +5
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +24, Riflessi +24, Volontà +23
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +24, Riflessi +24, Volontà +23
 - **Res. Danni**: Freddo, Elettricità, da Vuoto
 - **Imm. Danni**: Veleno; da arma non magica
 - **Immunità**: affascinato, paralizzato, affaticato, spaventato, sanguinamento
@@ -28853,8 +29439,11 @@ Il lich può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu�
 ***Trucchetto.*** Il lich lancia un trucchetto.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Anello di Protezione +2, Fascia della Sapienza +2 (Consapevolezza), Stivali della Levitazione, pergamena di Dominare Persone, pergamena di Teletrasporto, pozione di Invisibilità)
 **Descrizione**
 Poche creature sono più temute dei lich. Apice delle arti Necromantiche, il lich è un incantatore che ha scelto di rinunciare alla vita ed ingannare la morte diventando non morto. Anche se molti di coloro che raggiungono simili vette di potenza farebbero di tutto per raggiungere l'immortalità, l'idea di diventare un lich è aborrita da molte creature. Il processo prevede di estrarre la forza vitale dell'incantatore e imprigionarla in un filatterio preparato in modo speciale; l'incantatore cede la sua vita, ma rimane intrappolato tra la vita e la morte, e fintanto che il suo filatterio rimane intatto può continuare le sue ricerche e il suo lavoro senza temere il passare del tempo.
@@ -28863,10 +29452,10 @@ Esistono anche rarissimi Lich buoni, ma come dice il detto sono più rari di un 
 
 ## Lucertoloide
 - **Taglia/Tipo**: Media umanoide (lucertoloide), neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 0 Cos 1 Int -2 Sag 1 Car -2}
+- **Caratt.**: For 2 Des 0 Cos 1 Int -2 Sag 1 Car -2
 - **Punti Ferita**: 24,  **Difesa:** 12,  **Iniziativa:** +0
 - **Movimento**: 9 m, nuoto 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +4, Consapevolezza +3, Sopravvivenza +5
 - **Linguaggi**: Draconico
 - **Sfida**: 1/2 (100 PX)
@@ -28892,8 +29481,11 @@ Esistono anche rarissimi Lich buoni, ma come dice il detto sono più rari di un 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
 **Ecologia**
-Ambiente: paludi temperate
-Organizzazione: solitario, coppia, banda (3-12) o tribù (13-60)
+
+| Ambiente: paludi temperate |
+| --- |
+| Organizzazione: solitario, coppia, banda (3-12) o tribù (13-60) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Scudo Pesante di Legno, Mazza chiodata, 3 Giavellotti)
 **Descrizione**
 I lucertoloidi sono rettili predatori orgogliosi e potenti che fanno le loro case comuni in sparuti villaggi nei recessi di paludi e acquitrini. Privi di interesse verso la colonizzazione delle terre aride e soddisfatti delle loro semplici armi e dei rituali che li hanno serviti bene per millenni, i lucertoloidi sono visti da molte delle altre razze come selvaggi retrogradi, ma all'interno delle loro isolate comunità sono in realtà un popolo vitale ricco di tradizioni e con una storia orale che risale a prima che l'uomo camminasse in posizione eretta.
@@ -28906,10 +29498,10 @@ I lucertoloidi presentati qui vivono in ambienti paludosi. Le tribù lucertoloid
 
 ## Maledetto immortale
 - **Taglia/Tipo**: Media aberrazione (umano), tendenzialmente folle
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 2 Int -1 Sag -2 Car -2}
+- **Caratt.**: For 3 Des 1 Cos 2 Int -1 Sag -2 Car -2
 - **Punti Ferita**: 88,  **Difesa:** 18,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +3}
+- **Tiri Salvez.**: Tempra +6, Riflessi +5, Volontà +3
 - **Comp.**: Consapevolezza +3, professione che aveva in vita
 - **Imm. Danni**: Freddo, Veleno, Fuoco, da Vuoto
 - **Immunità**: affascinato, pietrificato, spaventato
@@ -28927,8 +29519,11 @@ I lucertoloidi presentati qui vivono in ambienti paludosi. Le tribù lucertoloid
 *Colpisce:* 12 (1d10 + 7) danni da taglio.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, Spada, J)
 **Descrizione**
 Il Maledetto immortale è una persona maledetta spesso da un Patrono o da una potente incantatore con la maledizione della folle vita immortale. La maledizione rompe l'equilibro della persona e questa si ritrova a girovagare senza una meta od un obiettivo. Ogni tanto si ricordano chi erano ed allora proseguono nella ricerca di chi li ha maledetti.
@@ -28936,10 +29531,10 @@ Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando
 
 ## Monete affamate
 - **Taglia/Tipo**: Minuscola aberrazione, fortemente malvagia
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 1 Cos 3 Int -2 Sag 0 Car -1}
+- **Caratt.**: For -3 Des 1 Cos 3 Int -2 Sag 0 Car -1
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 3 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Consapevolezza +3
 - **Imm. Danni**: Freddo, Veleno, Elettricità, da Vuoto
 - **Immunità**: affascinato, pietrificato, spaventato
@@ -28958,8 +29553,11 @@ Le Monete affamate attaccano sempre in gruppi da almeno 8 monete, quelle tenute 
 *Colpisce:* 3 danni da Veleno. Tiro Salvezza su Tempra DC 13 o essere Rallentati 1/1r.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Gruppi (3d12)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Gruppi (3d12) |
+
 **Categoria Tesoro**: M, N, O
 **Descrizione**
 La Moneta affamata non è distinguibile da una normale moneta finché non osservata molto attentamente.
@@ -28968,10 +29566,10 @@ Monete affamate di Oro o Platino sono solitamente più robuste ed ancora più af
 
 ## Cinghiale Mannaro
 - **Taglia/Tipo**: Media umanoide , mutaforma, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 2 Int 0 Sag 0 Car -1}
+- **Caratt.**: For 3 Des 0 Cos 2 Int 0 Sag 0 Car -1
 - **Punti Ferita**: 88,  **Difesa:** 17,  **Iniziativa:** +0
 - **Movimento**: 9 m (12 m in forma di cinghiale)
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +4, Volontà +4}
+- **Tiri Salvez.**: Tempra +6, Riflessi +4, Volontà +4
 - **Imm. Danni**: da arma non magica o che non sia argentata
 - **Linguaggi**: Comune (non può parlare in forma di cinghiale)
 - **Sfida**: 4 (1100 PX)
@@ -28993,18 +29591,21 @@ Monete affamate di Oro o Platino sono solitamente più robuste ed ancora più af
 *Colpisce:* 10 (2d6 + 3) danni taglienti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 15 o venire maledetto dalla licantropia del cinghiale mannaro.
 
 **Ecologia**
-Ambiente: Qualsiasi Foresta o Pianura
-Organizzazione: Solitario, coppia, famiglia (3-8) o truppa (3-8 più 1-4 Cinghiali)
+
+| Ambiente: Qualsiasi Foresta o Pianura |
+| --- |
+| Organizzazione: Solitario, coppia, famiglia (3-8) o truppa (3-8 più 1-4 Cinghiali) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, K)
 **Descrizione**
 Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi all'insù, pelo ispido e incisivi prominenti. Hanno capelli rossi, castani o neri ma alcuni sono anche biondi, canuti o calvi. Hanno di norma peluria sul labbro superiore e i maschi di solito non riescono a far crescere la barba. Poiché sono testardi e aggressivi hanno piccole comunità di loro simili e non si mischiano ai non licantropi: di solito vivono in piccole fattorie dall'aspetto assolutamente normale. Tendono ad avere grandi famiglie e molti figli.
 
 ## Lupo Mannaro
 - **Taglia/Tipo**: Media umanoide (umano, mutaforma), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 2 Int 0 Sag 0 Car 0}
+- **Caratt.**: For 2 Des 1 Cos 2 Int 0 Sag 0 Car 0
 - **Punti Ferita**: 70,  **Difesa:** 17,  **Iniziativa:** +1
 - **Movimento**: 9 m (12 m in forma di lupo)
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +4, Volontà +3
 - **Comp.**: Furtività +3, Consapevolezza +4
 - **Imm. Danni**: da arma non magica o che non sia argentata
 - **Linguaggi**: Comune (non può parlare in forma di lupo)
@@ -29029,18 +29630,21 @@ Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi 
 *Colpisce:* 6 (1d8 + 2) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 15 o venir maledetto dalla licantropia del lupo mannaro.
 
 **Ecologia**
-Ambiente: Qualsiasi Terreno
-Organizzazione: Solitario, coppia o branco (3-6)
+
+| Ambiente: Qualsiasi Terreno |
+| --- |
+| Organizzazione: Solitario, coppia o branco (3-6) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Cotta di Maglia, Spada Lunga, Balestra Leggera con 20 Quadrelli, K)
 **Descrizione**
 Nella forma umana i lupi mannari somigliano a persone normali, anche se alcuni tendono ad avere un aspetto ferino e capelli ribelli. Sopracciglia che crescono unendosi, dito indice più lungo del medio e strane voglie sul palmo della mano sono tutti segni comunemente accettati che una persona sia in realtà un lupo mannaro. Naturalmente, questi segni rivelatori non sono sempre accurati, perché questi tratti fisici esistono anche nelle persone normali, ma nelle zone dove i lupi mannari sono un problema comune, questi tratti possono essere considerati schiaccianti a prescindere.
 
 ## Orso Mannaro
 - **Taglia/Tipo**: Media umanoide (umano, mutaforma), buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 3 Int 0 Sag 1 Car 1}
+- **Caratt.**: For 4 Des 0 Cos 3 Int 0 Sag 1 Car 1
 - **Punti Ferita**: 108,  **Difesa:** 18,  **Iniziativa:** +0
 - **Movimento**: 9 m (12 m, scalata 9 m in forma di orso o forma ibrida)
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +5, Volontà +6}
+- **Tiri Salvez.**: Tempra +8, Riflessi +5, Volontà +6
 - **Comp.**: Consapevolezza +7
 - **Imm. Danni**: da arma non magica o che non sia argentata
 - **Linguaggi**: Comune (non può parlare in forma di orso)
@@ -29065,18 +29669,21 @@ Nella forma umana i lupi mannari somigliano a persone normali, anche se alcuni t
 *Colpisce:* 15 (2d10 + 4) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 16 o venir maledetto dalla licantropia dell'orso mannaro.
 
 **Ecologia**
-Ambiente: Qualsiasi Foresta
-Organizzazione: Solitario, coppia, famiglia (3-6) o truppa (3-6 più 1-4 orsi Neri o Grigi)
+
+| Ambiente: Qualsiasi Foresta |
+| --- |
+| Organizzazione: Solitario, coppia, famiglia (3-6) o truppa (3-6 più 1-4 orsi Neri o Grigi) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Giaco di Maglia, Ascia da Battaglia Perfetta, 2 Asce da Lancio Perfette, K)
 **Descrizione**
 Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spalle larghe, tratti aspri e occhi scuri. Hanno capelli rossi, castani o neri e sembrano abituati a una vita di duro lavoro. Anche se i più benigni fra i licantropi, sono evitati dalla maggior parte delle persone normali, che temono la loro trasformazione animalesca. Per la maggior parte vivono in zone boschive isolate o in piccole unità familiari della loro stessa specie. Evitano di affrontare gli stranieri, ma non esitano se devono scacciare umanoidi malvagi dai loro territori.
 
 ## Ratto Mannaro
 - **Taglia/Tipo**: Media umanoide (umano, mutaforma), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 1 Int 0 Sag 0 Car -1}
+- **Caratt.**: For 0 Des 2 Cos 1 Int 0 Sag 0 Car -1
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Comp.**: Furtività +4, Consapevolezza +2
 - **Imm. Danni**: da arma non magica o che non sia argentata
 - **Sensi**: Scurovisione 18 m (solo in forma di ratto)
@@ -29102,18 +29709,21 @@ Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spa
 *Colpisce:* 4 (1d4 + 2) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 13 o venir maledetto dalla licantropia del ratto mannaro.
 
 **Ecologia**
-Ambiente: Qualsiasi Urbano
-Organizzazione: Solitario, coppia, branco (5-10) o gilda (11-30 più 5-12 Ratti Crudeli)
+
+| Ambiente: Qualsiasi Urbano |
+| --- |
+| Organizzazione: Solitario, coppia, branco (5-10) o gilda (11-30 più 5-12 Ratti Crudeli) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato Perfetta, Spada Corta, Balestra Leggera con 20 Quadrelli, K)
 **Descrizione**
 I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e vispi, e hanno movimenti nervosi. I maschi spesso hanno sottili baffi striminziti.
 
 ## Tigre Mannara
 - **Taglia/Tipo**: Media umanoide (umano, mutaforma), neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 3 Int 0 Sag 1 Car 0}
+- **Caratt.**: For 3 Des 2 Cos 3 Int 0 Sag 1 Car 0
 - **Punti Ferita**: 89,  **Difesa:** 19,  **Iniziativa:** +2
 - **Movimento**: 9 m (12 m in forma di tigre)
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +6, Volontà +5}
+- **Tiri Salvez.**: Tempra +7, Riflessi +6, Volontà +5
 - **Comp.**: Furtività +4, Consapevolezza +5
 - **Imm. Danni**: da arma non magica che non siano argentati
 - **Sensi**: Scurovisione 18 m
@@ -29147,18 +29757,21 @@ I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e v
 **Reazione: *Attacco d'opportunità***: la tigre mannara effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Ecologia**
-Ambiente: Qualsiasi Pianura o Palude
-Organizzazione: Solitario o coppia
+
+| Ambiente: Qualsiasi Pianura o Palude |
+| --- |
+| Organizzazione: Solitario o coppia |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Spada Corta, 2 Pugnali, K)
 **Descrizione**
 Le tigri mannare in forma umanoide hanno grandi occhi, nasi allungati, zigomi sporgenti e capelli castani o rossi, oppure bianchi, neri o grigio-blu. I loro movimenti sono attenti e aggraziati, e chi li guarda potrebbe scambiarli per un ottimo tagliaborse, un danzatore aggraziato o un'abile cortigiana.
 
 ## Manticora
 - **Taglia/Tipo**: Grande mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 3 Cos 3 Int -2 Sag 1 Car -1}
+- **Caratt.**: For 3 Des 3 Cos 3 Int -2 Sag 1 Car -1
 - **Punti Ferita**: 70,  **Difesa:** 19,  **Iniziativa:** +3
 - **Movimento**: 9 m, volo 15 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +6, Volontà +4}
+- **Tiri Salvez.**: Tempra +6, Riflessi +6, Volontà +4
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune
 - **Sfida**: 3 (700 PX)
@@ -29180,8 +29793,11 @@ Le tigri mannare in forma umanoide hanno grandi occhi, nasi allungati, zigomi sp
 *Colpisce:* 7 (1d8 + 3) danni perforanti.
 
 **Ecologia**
-Ambiente: Colline e Paludi Calde
-Organizzazione: Solitario, coppia o branco (3-6)
+
+| Ambiente: Colline e Paludi Calde |
+| --- |
+| Organizzazione: Solitario, coppia o branco (3-6) |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Le manticore sono feroci predatori che controllano vaste aree in cerca di carne fresca. Una tipica manticora è lunga circa 3 metri e pesa circa 500 kg. Alcune hanno la testa simile a quella di un umano, in genere barbuto. Maschi e femmine sono molto simili.
@@ -29192,10 +29808,10 @@ Anche se le manticore sono simili a delle creazioni magiche, sono da tempo annov
 
 ## Manto Assassino
 - **Taglia/Tipo**: Grande aberrazione, caotico
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 1 Int 1 Sag 1 Car 2}
+- **Caratt.**: For 3 Des 2 Cos 1 Int 1 Sag 1 Car 2
 - **Punti Ferita**: 160,  **Difesa:** 24,  **Iniziativa:** +2
 - **Movimento**: 3 m, volo 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +10, Volontà +9
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +9, Riflessi +10, Volontà +9
 - **Comp.**: Furtività +5
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Linguaggio delle Profondità
@@ -29229,8 +29845,11 @@ Un duplicato possiede la Difesa e usa i Tiri Salvezza del manto assassino. Se un
 ***Arrabbiato:*** il Manto assassino ricarica l'abilità Apparizioni. Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Sotterranei
-Organizzazione: Solitario, coppia, schiera (3-6) o stormo (7-12)
+
+| Ambiente: Sotterranei |
+| --- |
+| Organizzazione: Solitario, coppia, schiera (3-6) o stormo (7-12) |
+
 **Categoria Tesoro**: R
 **Descrizione**
 Simili a mante volanti orribilmente malvagie, i manti assassini sono creature misteriose e paranoiche. Un tipico esemplare ha un'apertura alare di 2,3 metri e pesa 50 kg.
@@ -29239,10 +29858,10 @@ Le loro motivazioni sono misteriose e confuse, e diffidano perfino dei loro simi
 
 ## Mantoscuro
 - **Taglia/Tipo**: Piccola mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 1 Int -4 Sag 0 Car -3}
+- **Caratt.**: For 3 Des 1 Cos 1 Int -4 Sag 0 Car -3
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 3 m, volo 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +3
 - **Sensi**: Vista Cieca 18 m
 - **Sfida**: 1/2 (100 PX)
@@ -29262,8 +29881,11 @@ Una creatura può staccare il mantoscuro con un'Azione e riuscendo un Tiro Salve
 ***Aura di Oscurità (1/Giorno).*** Un'oscurità magica con 5 metri di raggio si estende dal mantoscuro, muovendosi con esso, e propagandosi oltre gli angoli. L'oscurità permane finché il mantoscuro mantiene la concentrazione, massimo 10 minuti (come se si stesse concentrando su di un incantesimo). La Scurovisione non può penetrare questa oscurità, né essa può essere rischiarata da alcuna luce naturale. Se qualsiasi parte dell'oscurità si sovrappone ad un'area di luce generata da un incantesimo di livello 2 o inferiore, l'incantesimo che sta creando la luce viene dissolto.
 
 **Ecologia**
-Ambiente: Qualsiasi (sotterraneo)
-Organizzazione: Solitario, coppia o nidiata (3-12)
+
+| Ambiente: Qualsiasi (sotterraneo) |
+| --- |
+| Organizzazione: Solitario, coppia o nidiata (3-12) |
+
 **Categoria Tesoro**: O
 **Descrizione**
 l'apertura tentacolare di un mantoscuro ha un'ampiezza di poco inferiore agli 1 m; quando è appeso alla volta di una caverna, mascherato da stalattite, la sua lunghezza varia tra i 60 ed i 90 cm. Un esemplare tipico di mantoscuro pesa 20 kg. La testa ed il corpo della creatura sono solitamente del colore del basalto o del granito scuro, ma i suoi tentacoli membranosi possono cambiare colore per adattarsi all'ambiente circostante.
@@ -29276,10 +29898,10 @@ Mantooscuro e Manto Assassino per quanto simili non appartengono alla stessa spe
 
 ## Medusa
 - **Taglia/Tipo**: Media mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 3 Int 1 Sag 1 Car 2}
+- **Caratt.**: For 0 Des 2 Cos 3 Int 1 Sag 1 Car 2
 - **Punti Ferita**: 126,  **Difesa:** 22,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +8, Volontà +7}
+- **Tiri Salvez.**: Tempra +9, Riflessi +8, Volontà +7
 - **Comp.**: Furtività +5, Ingannare +5, Percepire Emozioni +4
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune
@@ -29308,8 +29930,11 @@ Se la medusa vede il suo riflesso su di una superficie riflettente entro 9 metri
 **Reazione: *Attacco d'opportunità***: la medusa effettua un attacco con i capelli serpentini ad una creatura che attraversi o esca dalla sua portata di 1 metro. Questo attacco non consuma Azioni o Reazioni.
 
 **Ecologia**
-Ambiente: Paludi temperate e sotterranei
-Organizzazione: Solitario
+
+| Ambiente: Paludi temperate e sotterranei |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Pugnale, Arco Lungo Perfetto con 20 Frecce, F
 **Descrizione**
 Le meduse sono creature simili agli umani con serpenti al posto dei capelli. Dalla distanza di 9 metri o più, una medusa può passare facilmente per una bella donna se indossa qualcosa che copre la sua chioma serpentina; quando indossa un abbigliamento che ne cela la testa e il volto può essere scambiata per un'umana anche a distanza ravvicinata. Le meduse usano bugie e travestimenti per celare il loro volto fino a che gli avversari non sono abbastanza vicini da usare il loro sguardo pietrificante, anche se gli piace giocare con la loro preda e possono usare delle frecce fiammeggianti per intrappolare i nemici a distanza. Alcune si divertono a creare intricate decorazioni con le loro vittime, usando la pietrificazione per dare un certo tocco ai loro nascondigli paludosi, ma molte meduse hanno cura di nascondere le prove dei loro scontri precedenti così che i loro nuovi nemici non si accorgano della loro pericolosa presenza.
@@ -29320,10 +29945,10 @@ Tutte le meduse sono femmine. Raramente, una medusa decide di prendere un maschi
 
 ## Mefito di Ghiaccio
 - **Taglia/Tipo**: Piccola elementale, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 1 Cos 0 Int -1 Sag 0 Car 1}
+- **Caratt.**: For -2 Des 1 Cos 0 Int -1 Sag 0 Car 1
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 9 m, volo 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +3, Consapevolezza +2
 - **Imm. Danni**: Veleno
 - **Sensi**: Scurovisione 18 m
@@ -29346,8 +29971,11 @@ di successo.
 ***Soffio Gelido (Ricarica 6).*** Il mefito esala un cono di 5 metri di aria fredda. Ogni creatura nell'area deve effettuare un Tiro Salvezza di Riflessi DC 11, subendo 5 (2d4) danni da freddo in caso di fallimento, o la metà di questi danni in caso di successo.
 
 **Ecologia**
-Ambiente: Qualsiasi (piano elementale dell'aria)
-Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12)
+
+| Ambiente: Qualsiasi (piano elementale dell'aria) |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12) |
+
 **Categoria Tesoro**: J
 **Descrizione**
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.
@@ -29356,10 +29984,10 @@ I mephit del ghiaccio comunemente si trovano sul Piano dell'Aria. Questi mephit 
 
 ## Mefito di Magma
 - **Taglia/Tipo**: Piccola elementale, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 1 Cos 1 Int -2 Sag 0 Car 0}
+- **Caratt.**: For -1 Des 1 Cos 1 Int -2 Sag 0 Car 0
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 9 m, volo 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +3
 - **Imm. Danni**: Veleno
 - **Sensi**: Scurovisione 18 m
@@ -29381,8 +30009,11 @@ I mephit del ghiaccio comunemente si trovano sul Piano dell'Aria. Questi mephit 
 ***Soffio Infuocato (Ricarica 6).*** Il mefito esala un cono di 5 metri di fuoco. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi DC 11, subendo 7 (2d6) danni da fuoco in caso di fallimento, o la metà di questi danni in caso di successo.
 
 **Ecologia**
-Ambiente: Qualsiasi (piano elementale del fuoco)
-Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12)
+
+| Ambiente: Qualsiasi (piano elementale del fuoco) |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12) |
+
 **Categoria Tesoro**: J
 **Descrizione**
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.
@@ -29391,10 +30022,10 @@ I mephit del magma comunemente si trovano sul Piano del Fuoco. Questi mephit son
 
 ## Mefito di Polvere
 - **Taglia/Tipo**: Piccola elementale, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 2 Cos 0 Int -1 Sag 0 Car 0}
+- **Caratt.**: For -3 Des 2 Cos 0 Int -1 Sag 0 Car 0
 - **Punti Ferita**: 24,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 9 m, volo 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +4, Consapevolezza +2
 - **Imm. Danni**: Veleno
 - **Sensi**: Scurovisione 18 m
@@ -29414,8 +30045,11 @@ I mephit del magma comunemente si trovano sul Piano del Fuoco. Questi mephit son
 ***Soffio Accecante (Ricarica 6).*** Il mefito esala un cono di 5 metri di polvere accecante. Ogni creatura nell'area deve riuscire un Tiro Salvezza di Riflessi DC 11 o restare accecata per 1 minuto. Una creatura accecata può ripetere il Tiro Salvezza durante ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 **Ecologia**
-Ambiente: Qualsiasi (piano elementale dell'aria)
-Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12)
+
+| Ambiente: Qualsiasi (piano elementale dell'aria) |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12) |
+
 **Categoria Tesoro**: J
 **Descrizione**
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.
@@ -29424,10 +30058,10 @@ I mephit della polvere comunemente si trovano sul Piano dell'Aria. Questi mephit
 
 ## Mefito di Vapore
 - **Taglia/Tipo**: Piccola elementale, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 0 Cos 0 Int 0 Sag 0 Car 1}
+- **Caratt.**: For -3 Des 0 Cos 0 Int 0 Sag 0 Car 1
 - **Punti Ferita**: 19,  **Difesa:** 12,  **Iniziativa:** +0
 - **Movimento**: 9 m, volo 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Imm. Danni**: Veleno
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Aquan, Ignan
@@ -29446,8 +30080,11 @@ I mephit della polvere comunemente si trovano sul Piano dell'Aria. Questi mephit
 ***Soffio Vaporoso (Ricarica 6).*** Il mefito esala un cono di 5 metri di vapore caldo. Ogni creatura nell'area deve effettuare un Tiro Salvezza di Riflessi DC 10, subendo 4 (1d8) danni da fuoco in caso di fallimento, o la metà di questi danni in caso di successo.
 
 **Ecologia**
-Ambiente: Qualsiasi (piano elementale del fuoco)
-Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12)
+
+| Ambiente: Qualsiasi (piano elementale del fuoco) |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12) |
+
 **Categoria Tesoro**: J
 **Descrizione**
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.
@@ -29456,10 +30093,10 @@ I mephit del vapore comunemente si trovano sul Piano del Fuoco. Questi mephit so
 
 ## Megera Marina
 - **Taglia/Tipo**: Media fatato, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 3 Int 1 Sag 1 Car 1}
+- **Caratt.**: For 3 Des 1 Cos 3 Int 1 Sag 1 Car 1
 - **Punti Ferita**: 52,  **Difesa:** 15,  **Iniziativa:** +1
 - **Movimento**: 9 m, nuoto 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Aquan, Comune, Gigante
 - **Sfida**: 2 (450 PX)
@@ -29481,8 +30118,11 @@ I cambiamenti apportati da questo effetto non sono in grado di superare le ispez
 ***Occhiata Mortale.*** La megera prende a bersaglio una creatura spaventata visibile entro 9 metri da lei. Se il bersaglio può vedere la megera, deve riuscire un Tiro Salvezza di Volontà DC 13 contro questa magia o scendere a 0 Punti Ferita.
 
 **Ecologia**
-Ambiente: qualsiasi acquatico
-Organizzazione: solitario o congrega (3 megere di qualsiasi specie)
+
+| Ambiente: qualsiasi acquatico |
+| --- |
+| Organizzazione: solitario o congrega (3 megere di qualsiasi specie) |
+
 **Categoria Tesoro**: R (C)
 **Descrizione**
 Queste perfide e mostruose megere possiedono dei tratti terrificanti che pochi osano fissare, traggono piacere dalla discordia e dalla morte dei marinai, e tormentano la gente di mare con ineluttabili sciagure. Le megere marine hanno sempre un aspetto terribile e, malgrado la loro natura famelica, in genere sono creature emaciate che sembrano sul punto di morir di fame. Sono alte 1,8 metri e pesano 75 kg.
@@ -29493,10 +30133,10 @@ Le megere marine formano congreghe simili a quelle delle altre megere, ma la lor
 
 ## Megera Notturna
 - **Taglia/Tipo**: Media immondo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 3 Int 3 Sag 2 Car 3}
+- **Caratt.**: For 4 Des 2 Cos 3 Int 3 Sag 2 Car 3
 - **Punti Ferita**: 108,  **Difesa:** 20,  **Iniziativa:** +3
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +7, Volontà +7}
+- **Tiri Salvez.**: Tempra +8, Riflessi +7, Volontà +7
 - **Comp.**: Furtività +6, Ingannare +7, Percepire Emozioni +6
 - **Res. Danni**: Freddo, Fuoco; da arma non magica o non siano argentati
 - **Sensi**: Scurovisione 36 m
@@ -29523,10 +30163,10 @@ A volontà: *Dardo arcano, Individuazione del Magico* 2/giorno ciascuno: *Raggio
 
 ## Megera Verde
 - **Taglia/Tipo**: Media fatato, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 1 Cos 3 Int 1 Sag 2 Car 2}
+- **Caratt.**: For 4 Des 1 Cos 3 Int 1 Sag 2 Car 2
 - **Punti Ferita**: 70,  **Difesa:** 17,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +4, Volontà +5}
+- **Tiri Salvez.**: Tempra +6, Riflessi +4, Volontà +5
 - **Comp.**: Arcana +3, Furtività +3, Ingannare +4
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Draconico, Silvano
@@ -29551,18 +30191,21 @@ I cambiamenti apportati da questo effetto non sono in grado di superare le ispez
 ***Passaggio Invisibile.*** La megera può rendersi invisibile finché non attacca o lancia un incantesimo, o finché non termina la concentrazione (come se si stesse concentrando su di un incantesimo). Mentre è invisibile, non lascia traccia fisica del suo passaggio, quindi le sue tracce possono essere seguite solo dalla magia. Tutto l'equipaggiamento che sta trasportando o indossando diventa invisibile assieme a lei.
 
 **Ecologia**
-Ambiente: Paludi temperate
-Organizzazione: Solitario o congrega (3 megere di qualsiasi tipo)
+
+| Ambiente: Paludi temperate |
+| --- |
+| Organizzazione: Solitario o congrega (3 megere di qualsiasi tipo) |
+
 **Categoria Tesoro**: R (C)
 **Descrizione**
 Terrificanti vecchie rugose che frequentano ripugnanti paludi e foreste intricate, le megere verdi nutrono un odio intenso per tutto ciò che è bello e puro. Facendo uso delle loro svariate capacità illusorie, queste vegliarde si dilettano nell'uccidere gli innocenti, nello sconvolgere gli animi nobili e nell'avvilire i cuori puri. Amano utilizzare Camuffare Se Stesso per assumere le forme di giovani e attraenti ragazze così da sedurre e strappare giovani uomini ai loro affetti e parenti, e corrompere nobili e onesti cittadini con ogni sorta di depravazione e scandalo. Alcune megere verdi preferiscono rivelare la loro reale natura ai loro amati in un momento attentamente architettato per spingere l'uomo alla pazzia per l'orrore e la vergogna. Altre prolungano il loro amoreggiamento e fanno di tutto per rovinare completamente la vita degli uomini da loro sedotti prima di mostrare loro la verità. Infine, i più fortunati di questi sventurati finiscono per essere divorati dalla megera verde loro amante: per gli sfortunati, il destino finale può essere molto peggiore, dato che la crudele fantasia della megera verde è immensa. Una tipica megera verde è alta tra 1,5 e 1,8 metri e pesa poco meno di 80 kg.
 
 ## Ameba Paglierina
 - **Taglia/Tipo**: Grande melma, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des -2 Cos 2 Int -4 Sag -2 Car -5}
+- **Caratt.**: For 2 Des -2 Cos 2 Int -4 Sag -2 Car -5
 - **Punti Ferita**: 51,  **Difesa:** 12,  **Iniziativa:** -2
 - **Movimento**: 3 m, scalata 3 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +3
 - **Res. Danni**: Acido
 - **Imm. Danni**: Elettricità, tagliente
 - **Immunità**: accecato, affascinato, assordato, prono, affaticato, spaventato
@@ -29582,8 +30225,11 @@ Terrificanti vecchie rugose che frequentano ripugnanti paludi e foreste intricat
 **Reazioni*Divisione.*** Quando un'ameba Media o più grande subisce danni da elettricità o taglienti, si divide in due nuove amebe che hanno almeno 10 Punti Ferita. Ogni nuova ameba ha un numero di Punti Ferita pari alla metà dell'ameba originale, arrotondati per difetto. Le nuove amebe sono di una taglia più piccola di quella originale.
 
 **Ecologia**
-Ambiente: Sotterranei o Paludi Temperati
-Organizzazione: Solitario
+
+| Ambiente: Sotterranei o Paludi Temperati |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Le Ameba Paglierina sono masse animate di protoplasma di colore simile ad un repellente amalgama di giallo, arancio e marrone. Quando a riposo, il loro corpo piatto e pulsante è alto circa 15 centimetri e si estende tutto intorno; in movimento, si raccolgono in una forma vagamente sferica e sembrano quasi spostarsi rotolando. I loro corpi malleabili permettono loro di attraversare fessure e buchi molto più piccoli dello spazio che occupano. Le creature che vivono sottoterra spesso sigillano tutte le aperture per difendersi dalle Ameba Paglierina.
@@ -29598,10 +30244,10 @@ Anche se la tipica Ameba Paglierina ha le statistiche qui presentate, nelle prof
 
 ## Cubo Gelatinoso
 - **Taglia/Tipo**: Grande melma, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des -4 Cos 5 Int -5 Sag -2 Car -5}
+- **Caratt.**: For 2 Des -4 Cos 5 Int -5 Sag -2 Car -5
 - **Punti Ferita**: 53,  **Difesa:** 10,  **Iniziativa:** -4
 - **Movimento**: 5 metri
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +7, Riflessi +3, Volontà +3
 - **Imm. Danni**: armi da taglio non magiche, da danno
 - **Immunità**: accecato, affascinato, assordato, prono, affaticato, spaventato
 - **Sensi**: Vista Cieca 18 m (cieco oltre questo raggio)
@@ -29632,8 +30278,11 @@ Se il Tiro Salvezza fallisce, il cubo entra nello spazio della creatura, che sub
 Una creatura sommersa può tentare di fuggire effettuando un'Azione per compiere un Tiro Salvezza Tempra con Forza DC 14. Se la riesce, la creatura sfugge e esce entro uno spazio di sua scelta entro 1 metro dal cubo.
 
 **Ecologia**
-Ambiente: Qualsiasi sotterraneo
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi sotterraneo |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 Tra i predatori più insoliti e peculiari dei dungeon, i cubi gelatinosi trascorrono la loro esistenza vagabondando senza meta per i cunicoli sotterranei e le oscure caverne, inglobando materiali organici come piante, rifiuti, carogne e anche creature viventi. La materia che il cubo non può digerire, come metalli e pietra, riempie di detriti il volume della creatura, e a volte questa può espellerne una parte dal suo corpo. Spesso il tesoro e gli averi delle vittime passate restano dentro il cubo gelatinoso: immagine spettrale dei loro resti materiali.
@@ -29644,10 +30293,10 @@ I cubi gelatinosi in genere hanno uno spigolo di 3 metri e pesano più di 7.500 
 
 ## Melma Grigia
 - **Taglia/Tipo**: Media melma, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des -2 Cos 3 Int -5 Sag -2 Car -4}
+- **Caratt.**: For 1 Des -2 Cos 3 Int -5 Sag -2 Car -4
 - **Punti Ferita**: 24,  **Difesa:** 10,  **Iniziativa:** -2
 - **Movimento**: 3 m, scalata 3 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Res. Danni**: Acido, Freddo, Fuoco
 - **Immunità**: accecato, affascinato, assordato, prono, affaticato, spaventato
 - **Sensi**: Vista Cieca 18 m (cieca oltre questo raggio)
@@ -29668,8 +30317,11 @@ La melma può divorare metallo non magico dello spessore di 5 centimetri in un 1
 *Colpisce:* 4 (1d6 + 1) danni contundenti più 7 (2d6) danni da acido. Se il bersaglio sta indossando un'armatura di metallo questa viene parzialmente dissolta e subisce una penalità permanente e cumulativa di -1 alla Difesa che offre. L'armatura è distrutta se la penalità arriva a -6.
 
 **Ecologia**
-Ambiente: Paludi fredde e sotterranei
-Organizzazione: Solitario
+
+| Ambiente: Paludi fredde e sotterranei |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Strisciando attraverso le fredde paludi e gli acquitrini nebbiosi o, a volte in sotterranei e caverne, le melme grigie consumano ogni sostanza organica che incontrano. Sebbene priva di intelligenza, la melma grigia è una delle creature che dà non pochi problemi per la sua trasparenza. Anche se non può arrampicarsi facilmente sui muri o nuotare, la sua abitudine di nascondersi nel fango spesso lungo le rive paludose o di rimanere immobile in pozze dall'aspetto innocuo sul pavimento grigio di un sotterraneo, la rendono molto difficile da notare e da evitare.
@@ -29678,10 +30330,10 @@ Alcuni saggi credono che le melme grigie siano il risultato di un esperimento al
 
 ## Protoplasma Nero
 - **Taglia/Tipo**: Grande melma, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des -3 Cos 3 Int -5 Sag -2 Car -5}
+- **Caratt.**: For 3 Des -3 Cos 3 Int -5 Sag -2 Car -5
 - **Punti Ferita**: 89,  **Difesa:** 14,  **Iniziativa:** -3
 - **Movimento**: 6 m, scalata 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +7, Riflessi +3, Volontà +3
 - **Imm. Danni**: Acido, Freddo, Elettricità, tagliente, da critico
 - **Immunità**: accecato, affascinato, assordato, prono, affaticato, spaventato
 - **Sensi**: Vista Cieca 18 m (cieco oltre questo raggio)
@@ -29704,18 +30356,21 @@ Il protoplasma nero può divorare legno o metallo non magico dello spessore di 5
 **Reazioni*Divisione.*** Quando un protoplasma nero di taglia Media o più grande subisce danni da elettricità o taglienti, si divide in due nuovi protoplasma neri di almeno 10 Punti Ferita ciascuno. Ogni nuovo protoplasma nero ha un numero di Punti Ferita pari alla metà del protoplasma nero originale, arrotondati per difetto. I nuovi protoplasmi neri sono di una taglia più piccola di quella originale.
 
 **Ecologia**
-Ambiente: Qualsiasi sotterraneo
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi sotterraneo |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 I protoplasmi neri sono gli spazzini del mondo sotterraneo, costantemente alla ricerca di cibo. Possono percepire corpi organici o metallici nel raggio di 18 metri e attaccano in modo istintivo tali oggetti o esseri finché non li dissolvono, o finché la melma non viene uccisa. Un protoplasma nero si riproduce staccando un pezzo del proprio corpo e formando un nuovo protoplasma più piccolo che raggiunge l'età adulta nel giro di un mese. Alcune tra le creature più intelligenti nel mondo sotterraneo usano i protoplasmi neri per smaltire in modo naturale la spazzatura, creando cave di pietra atte ad ospitare il protoplasma, per poi gettarvi i rifiuti organici o i nemici.
 
 ## Mimic
 - **Taglia/Tipo**: Media mostruosità (mutaforma), neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 2 Int -2 Sag 1 Car -1}
+- **Caratt.**: For 3 Des 1 Cos 2 Int -2 Sag 1 Car -1
 - **Punti Ferita**: 51,  **Difesa:** 15,  **Iniziativa:** +1
 - **Movimento**: 5 metri
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +5
 - **Imm. Danni**: Acido
 - **Immunità**: prono
@@ -29739,8 +30394,11 @@ I protoplasmi neri sono gli spazzini del mondo sotterraneo, costantemente alla r
 *Colpisce:* 7 (1d8 + 3) danni contundenti. Se il mimic è in forma di oggetto, il bersaglio è vittima del tratto Aderente.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Accidentale (A)
 **Descrizione**
 Si ritiene che i mimic siano il risultato del tentativo di un alchimista di dar vita ad un oggetto inanimato attraverso l'applicazione di un reagente mistico, la cui formula è andata perduta. Nel corso degli anni, queste creature strane ma intelligenti hanno appreso la capacità di trasformarsi in simulacri degli oggetti manufatti, in particolare nei luoghi frequentati poco da un ristretto numero di creature, dove aumentano le loro probabilità di successo con un attacco alle loro vittime.
@@ -29751,10 +30409,10 @@ Un tipico mimic ha un volume di 2 metri cubi (1 m per 1 m per 2 m) e pesa circa 
 
 ## Minotauro
 - **Taglia/Tipo**: Grande mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 3 Int -2 Sag 3 Car -1}
+- **Caratt.**: For 4 Des 0 Cos 3 Int -2 Sag 3 Car -1
 - **Punti Ferita**: 70,  **Difesa:** 16,  **Iniziativa:** +0
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +3, Volontà +6}
+- **Tiri Salvez.**: Tempra +6, Riflessi +3, Volontà +6
 - **Comp.**: Consapevolezza +7
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Abissale
@@ -29775,8 +30433,11 @@ Un tipico mimic ha un volume di 2 metri cubi (1 m per 1 m per 2 m) e pesa circa 
 *Colpisce:* 13 (2d8 + 4) danni perforanti.
 
 **Ecologia**
-Ambiente: Rovine Temperate e Sotterranei
-Organizzazione: Solitario, coppia o gruppo (3-4)
+
+| Ambiente: Rovine Temperate e Sotterranei |
+| --- |
+| Organizzazione: Solitario, coppia o gruppo (3-4) |
+
 **Categoria Tesoro**: Ascia Bipenne, O +1 pozione
 **Descrizione**
 Disprezzati dalle razze civilizzate e creati secoli fa da una maledizione divina, i minotauri cacciano, uccidono e divorano gli umanoidi per punire offese vere o presunte, da tempi immemorabili. La maggior parte delle culture ha leggende su come furono creati da divinità vendicative che punirono gli umani deformando le loro sembianze, togliendo loro bellezza e intelligenza, e dotandoli di teste di toro. Tuttavia, i minotauri moderni disprezzano queste leggende, ritenendosi modelli di perfezione divina creati dal signore dei demoni Baphomet.
@@ -29789,10 +30450,10 @@ I minotauri sono combattenti diretti, usando le loro corna per incornare orribil
 
 ## Mummia
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des -1 Cos 2 Int -2 Sag 0 Car 1}
+- **Caratt.**: For 3 Des -1 Cos 2 Int -2 Sag 0 Car 1
 - **Punti Ferita**: 70,  **Difesa:** 15,  **Iniziativa:** -1
 - **Movimento**: 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Res. Danni**: da arma non magica
 - **Imm. Danni**: da Vuoto, Veleno
 - **Immunità**: affascinato, paralizzato, affaticato, spaventato, sanguinamento
@@ -29812,10 +30473,10 @@ I minotauri sono combattenti diretti, usando le loro corna per incornare orribil
 
 ## Mummia Sovrana
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 3 Int 0 Sag 4 Car 3}
+- **Caratt.**: For 4 Des 0 Cos 3 Int 0 Sag 4 Car 3
 - **Punti Ferita**: 294,  **Difesa:** 32,  **Iniziativa:** +0
 - **Movimento**: 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +18, Riflessi +15, Volontà +19
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +18, Riflessi +15, Volontà +19
 - **Comp.**: Religione +5, Storia +5
 - **Imm. Danni**: da Vuoto, Veleno; armi +1
 - **Immunità**: affascinato, paralizzato, affaticato, spaventato
@@ -29876,18 +30537,21 @@ La mummia sovrana può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seg
 ***Arrabbiato:*** La Mummia sovrana ha fame di vita. Incanala l'energia della morte e distruzione in un raggio di 12 metri intorno a se. Ogni creatura deve superare un Tiro Salvezza su Tempra a DC 26 per dimezzare o subire 22 di danno. La Mummia recupera tutti i Punti Ferita persi dalle altre creature.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario, Gruppo (3-6) o Mausoleo (7-12)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario, Gruppo (3-6) o Mausoleo (7-12) |
+
 **Categoria Tesoro**: T + U
 **Descrizione**
 Molte culture praticano l'arte sacra della mummificazione, anche se le sinistre tecniche magiche utilizzate per infondere ai cadaveri la vitalità dei non morti sono molto meno comuni. In alcune terre antiche, tali tecniche blasfeme sono state affinate attraverso secoli di cerimonie e innumerevoli morti, risultando in mummie di terribile potere. In rare occasioni, se il defunto era di rango elevato ed eccessiva malvagità, poteva sottoporsi a rituali così elaborati, risorgendo dalla tomba come un temibile signore mummia. Allo stesso modo, un sovrano noto per la sua malizia o morto in un momento di grande rabbia potrebbe presentarsi spontaneamente come un despota vendicativo. Indipendentemente dalle circostanze esatte della sua risurrezione, una mummia sovrana conserva le capacità che aveva in vita, diventando una creatura consumata dal desiderio di ripristinare il suo dominio e governare sia i vivi che i morti.
 
 ## Naga Guardiano
 - **Taglia/Tipo**: Grande mostruosità, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 4 Cos 3 Int 3 Sag 4 Car 4}
+- **Caratt.**: For 4 Des 4 Cos 3 Int 3 Sag 4 Car 4
 - **Punti Ferita**: 201,  **Difesa:** 29,  **Iniziativa:** +4
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +14, Volontà +14
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +13, Riflessi +14, Volontà +14
 - **Imm. Danni**: Veleno
 - **Immunità**: affascinato
 - **Sensi**: Scurovisione 18 m
@@ -29923,8 +30587,11 @@ livello 6 (1 slot): *Visione del Vero*
 **Reazione: *Attacco d'opportunità***: il naga effettua un attacco di sputo ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 **Ecologia**
-Ambiente: Pianure Temperate
-Organizzazione: Solitario, coppia o nido (3-6)
+
+| Ambiente: Pianure Temperate |
+| --- |
+| Organizzazione: Solitario, coppia o nido (3-6) |
+
 **Categoria Tesoro**: R
 **Descrizione**
 Sebbene abbiano un aspetto feroce, con scaglie brillanti, cappucci simili a quelli dei cobra e potenti corpi serpentini, i naga guardiani fungono da coscienziosi protettori di luoghi di eccezionale potere e sacralità. Spesso le loro scaglie sfoggiano disegni elaborati simili a quelli degli esotici serpenti della giungla. Un tipico naga guardiano raggiunge la lunghezza di 4,2 metri e un peso approssimativo di 175 kg.
@@ -29933,10 +30600,10 @@ Mentre alcuni naga guardiani aderiscono a pratiche esotiche di divinità antiche
 
 ## Naga Spirituale
 - **Taglia/Tipo**: Grande mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 3 Cos 2 Int 3 Sag 2 Car 3}
+- **Caratt.**: For 4 Des 3 Cos 2 Int 3 Sag 2 Car 3
 - **Punti Ferita**: 162,  **Difesa:** 25,  **Iniziativa:** +3
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +11, Volontà +10
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +10, Riflessi +11, Volontà +10
 - **Imm. Danni**: Veleno
 - **Immunità**: affascinato
 - **Sensi**: Scurovisione 18 m
@@ -29967,10 +30634,10 @@ livello 5 (2 slot): *Dominare Persone*
 
 ## Nano Oscuro
 - **Taglia/Tipo**: Media umanoide (nano), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 0 Cos 2 Int 0 Sag 0 Car -1}
+- **Caratt.**: For 2 Des 0 Cos 2 Int 0 Sag 0 Car -1
 - **Punti Ferita**: 33,  **Difesa:** 13,  **Iniziativa:** +0
 - **Movimento**: 8 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 36 m
 - **Linguaggi**: Nanico, Linguaggio delle Profondità
 - **Sfida**: 1 (200 PX)
@@ -29993,18 +30660,21 @@ perforanti quando ingrandito.
 ***Invisibilità (Ricarica dopo un 1 ora).*** Il Nano Oscuro diventa magicamente invisibile al massimo per un'ora o finché non attacca, lancia un incantesimo, usa Ingrandire o la sua concentrazione viene spezzata. Tutto l'equipaggiamento che il Nano Oscuro indossa o trasporta diventa invisibile assieme a lui.
 
 **Ecologia**
-Ambiente: Qualsiasi sotterraneo
-Organizzazione: solitario, gruppo (2-5), squadra (6-12 più 3 sergenti di 3° livello e 1 capo di 3°-8° livello), o clan (13-80 più 25\% di bambini non combattenti più 1 sergente di 3° livello ogni 5 adulti, 3-6 tenenti di 3°-6° livello, e 1-4 capitani di 9° livello)
+
+| Ambiente: Qualsiasi sotterraneo |
+| --- |
+| Organizzazione: solitario, gruppo (2-5), squadra (6-12 più 3 sergenti di 3° livello e 1 capo di 3°-8° livello), o clan (13-80 più 25\% di bambini non combattenti più 1 sergente di 3° livello ogni 5 adulti, 3-6 tenenti di 3°-6° livello, e 1-4 capitani di 9° livello) |
+
 **Categoria Tesoro**: equipaggiamento da PNG (Cotta di Maglia, Scudo Pesante di Metallo, Martello da Guerra, Balestra Leggera con 20 Quadrelli, 3d6 mo)
 **Descrizione**
 Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal pessimo carattere che odiano gli intrusi nei loro reami sotterranei, ma mai più dei Nani. Vivono in comunità nelle profondità del sottosuolo. Hanno pelle grigio opaco, come fosse sporca di polvere o cenere, ma questa tonalità naturale permette di mimetizzarsi meglio nelle zone sotterranee. Sono una Razza di schiavisti, ma mentre costringono i prigionieri non Nani a lavori massacranti, uccidono senza remore i Nani catturati. In combattimento, i Nani Oscuro tirano di balestra, e poi passano al Martello da Guerra qualche round dopo. Se in inferiorità numerica, o se c'è un pericolo (e spazio) adeguato, un Nano Oscuro userà la sua capacità Ingrandire ed attaccherà.
 
 ## Armatura Animata
 - **Taglia/Tipo**: Media costrutto, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 0 Cos 1 Int -5 Sag -4 Car -5}
+- **Caratt.**: For 2 Des 0 Cos 1 Int -5 Sag -4 Car -5
 - **Punti Ferita**: 33,  **Difesa:** 13,  **Iniziativa:** +0
 - **Movimento**: 7 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Imm. Danni**: Veleno
 - **Immunità**: accecato, affascinato, assordato, paralizzato, pietrificato, affaticato, spaventato
 - **Sensi**: Vista Cieca 18 m (cieco oltre questo raggio)
@@ -30022,10 +30692,10 @@ Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal p
 
 ## Spada Volante
 - **Taglia/Tipo**: Piccola costrutto, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 2 Cos 0 Int -5 Sag -3 Car -5}
+- **Caratt.**: For 1 Des 2 Cos 0 Int -5 Sag -3 Car -5
 - **Punti Ferita**: 19,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 0 m, volo 15 m, Fluttuare
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Imm. Danni**: Veleno
 - **Immunità**: accecato, affascinato, assordato, paralizzato, pietrificato, spaventato
 - **Sensi**: Vista Cieca 18 m (cieco oltre questo raggio)
@@ -30041,10 +30711,10 @@ Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal p
 
 ## Tappeto del Soffocamento
 - **Taglia/Tipo**: Grande costrutto, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 0 Int -5 Sag -4 Car -5}
+- **Caratt.**: For 3 Des 2 Cos 0 Int -5 Sag -4 Car -5
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 3 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Imm. Danni**: Veleno
 - **Immunità**: accecato, affascinato, assordato, paralizzato, pietrificato, spaventato
 - **Sensi**: Vista Cieca 18 m (cieco oltre questo raggio)
@@ -30062,10 +30732,10 @@ Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal p
 
 ## Ogre
 - **Taglia/Tipo**: Grande gigante, sadico malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des -1 Cos 3 Int -3 Sag -2 Car -2}
+- **Caratt.**: For 4 Des -1 Cos 3 Int -3 Sag -2 Car -2
 - **Punti Ferita**: 52,  **Difesa:** 13,  **Iniziativa:** -1
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Gigante
 - **Sfida**: 2 (450 PX)
@@ -30079,8 +30749,11 @@ Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal p
 *Colpisce:* 11 (2d6 + 4) danni perforanti.
 
 **Ecologia**
-Ambiente: Colline fredde o temperate
-Organizzazione: Solitario, coppia, gruppo (3-4) o famiglia (5-16)
+
+| Ambiente: Colline fredde o temperate |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-4) o famiglia (5-16) |
+
 **Categoria Tesoro**: Armatura di Pelle, Randello Pesante, 4 Giavellotti, J
 **Descrizione**
 Nelle storie riguardanti gli ogre ci sono elementi orrendi: brutalità e ferocia, cannibalismo e tortura. Poi stupri, smembramenti, necrofilia, incesto, mutilazioni e altri esempi di crudeltà. Coloro che non hanno mai incontrato gli ogre ritengono queste storie un avvertimento. Chi è sopravvissuto ad un simile incontro sa che le storie sono niente in confronto alla realtà.
@@ -30104,10 +30777,10 @@ Un ogre adulto è alto sui 3 metri e pesa circa 325 kg.
 
 ## Ombra
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 2 Cos 1 Int -2 Sag 0 Car -1}
+- **Caratt.**: For -2 Des 2 Cos 1 Int -2 Sag 0 Car -1
 - **Punti Ferita**: 24,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +4 (+6 a luce fioca o oscurità)
 - **Res. Danni**: Acido, Freddo, Elettricità, Fuoco, Suono; da arma non magica
 - **Imm. Danni**: da Vuoto, Veleno
@@ -30134,18 +30807,21 @@ Se un umanoide non malvagio muore a causa di questo attacco, entro 1d4 ore dal s
 ***Rubare l'ombra.*** Se l'ombra ha già colpito due volte con Risucchio di Forza usando una Azione ruba l'ombra dell'avversario. Rubare l'ombra concede 10 Punti Ferita Temporanei all'ombra. La creatura recupera l'ombra all'alba successiva.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario, coppia, gruppo (3-6) o sciame (7-12)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6) o sciame (7-12) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 La malvagia ombra si muove lungo il confine tra il buio delle tenebre e la dura verità della luce. L'ombra preferisce infestare le rovine che la civiltà si lascia alle spalle, dove dà la caccia alle creature viventi tanto sciocche da incappare nel suo territorio. L'ombra è un orribile non morto, e come tale non ha scopi o motivazioni apparenti oltre a risucchiare forza vitale e vitalità dagli esseri viventi.
 
 ## Omuncolo
 - **Taglia/Tipo**: Minuscola costrutto, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 2 Cos 0 Int 0 Sag 0 Car -2}
+- **Caratt.**: For -3 Des 2 Cos 0 Int 0 Sag 0 Car -2
 - **Punti Ferita**: 15,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 6 m, volo 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Imm. Danni**: Veleno
 - **Immunità**: affascinato
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
@@ -30162,10 +30838,10 @@ La malvagia ombra si muove lungo il confine tra il buio delle tenebre e la dura 
 
 ## Oni
 - **Taglia/Tipo**: Grande gigante, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 3 Int 2 Sag 1 Car 2}
+- **Caratt.**: For 4 Des 0 Cos 3 Int 2 Sag 1 Car 2
 - **Punti Ferita**: 145,  **Difesa:** 21,  **Iniziativa:** +2
 - **Movimento**: 9 m, volo 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +7, Volontà +8}
+- **Tiri Salvez.**: Tempra +10, Riflessi +7, Volontà +8
 - **Comp.**: Arcana +5, Ingannare +8
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Gigante
@@ -30199,10 +30875,10 @@ A volontà: *Invisibilità, Oscurità*
 
 ## Orchetto
 - **Taglia/Tipo**: Media umanoide (orco), caotico
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 2 Int 0 Sag 0 Car 0}
+- **Caratt.**: For 2 Des 1 Cos 2 Int 0 Sag 0 Car 0
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Intimidire +1
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Goblinoide
@@ -30217,8 +30893,11 @@ A volontà: *Invisibilità, Oscurità*
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
 **Ecologia**
-Ambiente: Colline e montagne temperate o sotterranei
-Organizzazione: solitario, gruppo (2-4), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o banda
+
+| Ambiente: Colline e montagne temperate o sotterranei |
+| --- |
+| Organizzazione: solitario, gruppo (2-4), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o banda |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Spada, 4 Giavellotti, M)
 **Descrizione**
 Gli orchetti sono una razza creata da Cattalm come esperimento con lo scopo di verificare se una creatura più intelligente ma altrettanto feroce degli orchi avrebbe potuto essere dominante.
@@ -30227,10 +30906,10 @@ Un orchetti maschio adulto è alto 1,6 metri e pesa circa 60 kg. Caratteristica 
 
 ## Orco
 - **Taglia/Tipo**: Media umanoide (orco), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 3 Int -2 Sag 0 Car 0}
+- **Caratt.**: For 3 Des 1 Cos 3 Int -2 Sag 0 Car 0
 - **Punti Ferita**: 33,  **Difesa:** 14,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +3
 - **Comp.**: Intimidire +2
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Comune, Goblinoide
@@ -30249,8 +30928,11 @@ Un orchetti maschio adulto è alto 1,6 metri e pesa circa 60 kg. Caratteristica 
 *Colpisce:* 6 (1d6 + 3) danni perforanti.
 
 **Ecologia**
-Ambiente: Colline e montagne temperate o sotterranei
-Organizzazione: solitario, gruppo (2-4), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o banda
+
+| Ambiente: Colline e montagne temperate o sotterranei |
+| --- |
+| Organizzazione: solitario, gruppo (2-4), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o banda |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Falcione, 4 Giavellotti, K)
 **Descrizione**
 La differenza principale fra gli orchi e gli umanoidi civilizzati, oltre alla loro forza bruta ed all'intelligenza inferiore, è il loro carattere. Come cultura, gli orchi sono violenti ed aggressivi, ed il forte domina il debole attraverso paura e brutalità. Prendono ciò che vogliono con la forza e non si fanno scrupoli a prendere interi villaggi come schiavi se ne hanno la possibilità. Non si curano delle comodità, ed i loro villaggi e campi tendono ad essere luoghi sporchi e precari, pieni di risse fra ubriachi, arene per i combattimenti ed altri divertimenti sadici. Privi della pazienza necessaria a coltivare e capaci di allevare solo gli animali più robusti ed autosufficienti, gli orchi ritengono più semplice prendere agli altri il frutto del loro lavoro. Sono arroganti e lesti ad infuriarsi quando sfidati, ma si preoccupano dell'onore solo finché farlo porta loro beneficio.
@@ -30261,10 +30943,10 @@ Per quanto la vulgata dica che gli orchi siano stati creati da Cattalm per distr
 
 ## Orrore Arrampicamuri
 - **Taglia/Tipo**: Grande mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 2 Int -2 Sag 1 Car -2}
+- **Caratt.**: For 4 Des 0 Cos 2 Int -2 Sag 1 Car -2
 - **Punti Ferita**: 70,  **Difesa:** 16,  **Iniziativa:** +0
 - **Movimento**: 9 m, scalare 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +4}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +4
 - **Sensi**: Scurovisione 3 m, Vista Cieca 18 m
 - **Linguaggi**: Orrore Arrampicamuri
 - **Sfida**: 3 (700 PX)
@@ -30278,7 +30960,10 @@ Per quanto la vulgata dica che gli orchi siano stati creati da Cattalm per distr
 *Colpisce:* 10 (2d6 + 4) danni perforanti, 1 danno da Sanguinamento.
 
 **EcologiaAmbiente: Sottosuolo**
-Organizzazione: Solitario, coppia o branco (3-8)
+
+| Organizzazione: Solitario, coppia o branco (3-8) |
+| --- |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 L'Orrore Arrampicamuri è un feroce predatore del sottosuolo, difende aggressivamente i suoi territori di caccia. Le caverne sotterranee in cui queste creature risiedono rimbombano dei colpi e dei fruscii dei loro uncini quando queste creature si arrampicano sulle rupi rocciose o sulle pareti delle caverne.
@@ -30293,10 +30978,10 @@ Gli Orrore Arrampicamuri comunicano colpendo il loro esoscheletro o le superfici
 
 ## Orsogufo
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 1 Cos 3 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 5 Des 1 Cos 3 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 70,  **Difesa:** 17,  **Iniziativa:** +1
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +4, Volontà +4}
+- **Tiri Salvez.**: Tempra +6, Riflessi +4, Volontà +4
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 3 (700 PX)
 
@@ -30313,7 +30998,10 @@ Gli Orrore Arrampicamuri comunicano colpendo il loro esoscheletro o le superfici
 *Colpisce:* 10 (1d10 + 5) danni perforanti.
 
 **EcologiaAmbiente: Foreste Temperate**
-Organizzazione: Solitario, coppia o branco (3-8)
+
+| Organizzazione: Solitario, coppia o branco (3-8) |
+| --- |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 Le origini dell'Orsogufo sono oggetto di dibattito fra gli studiosi delle creature mostruose. La maggior parte di essi concorda che fu un Mago, in passato, a crearne il primo esemplare unendo un orso con un gufo gigante; forse come esperimento su qualche folle concetto della natura della vita, ma più probabilmente a causa della sua totale pazzia. Quale che fosse lo scopo originale di una creazione tanto folle come l'Orsogufo, la creatura ha iniziato a riprodursi, ed è divenuta uno dei predatori più conosciuto delle zone boschive.
@@ -30331,10 +31019,10 @@ Questo Orsogufo è presente nelle regioni artiche o montane innevate. A differen
 
 ## Orsogufo Saggio
 - **Taglia/Tipo**: Grande mostruosità, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 2 Int 3 Sag 3 Car 1}
+- **Caratt.**: For 3 Des 1 Cos 2 Int 3 Sag 3 Car 1
 - **Punti Ferita**: 70,  **Difesa:** 17,  **Iniziativa:** +3
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +6}
+- **Tiri Salvez.**: Tempra +5, Riflessi +4, Volontà +6
 - **Comp.**: Consapevolezza +9
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: comprende e legge i seguenti: Comune, Druidico,Celestiale, Infernale, Nanico, Elfico, Orchesco, Gigante, Expiran, lingue Elementali
@@ -30357,7 +31045,10 @@ A volontà: *Mano Magica, Comprensione degli Scritti*
 *Colpisce:* 10 (1d10 + 5) danni perforanti.
 
 **EcologiaAmbiente: Foreste Temperate**
-Organizzazione: Solitario, coppia o branco (3-8)
+
+| Organizzazione: Solitario, coppia o branco (3-8) |
+| --- |
+
 **Categoria Tesoro**: E + T
 **Descrizione**
 Le origini dell'Orsogufo saggio sono misteriose quanto quelli del suo parente non saggio ma gli appassionati di queste creature li fanno discendere direttamente da Nethergal come variante dell'Orsogufo originale.
@@ -30371,10 +31062,10 @@ L'incantesimo Mano Magica è solitamente usato per sfogliare i tomi più delicat
 
 ## Otyugh
 - **Taglia/Tipo**: Grande aberrazione, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 4 Int 3 Sag 1 Car -2}
+- **Caratt.**: For 3 Des 0 Cos 4 Int 3 Sag 1 Car -2
 - **Punti Ferita**: 109,  **Difesa:** 18,  **Iniziativa:** +3
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +5, Volontà +6}
+- **Tiri Salvez.**: Tempra +9, Riflessi +5, Volontà +6
 - **Imm. Danni**: Veleno
 - **Immunità**: malattie
 - **Sensi**: Scurovisione 36 m
@@ -30397,11 +31088,14 @@ Questa riduzione dei Punti Ferita massimi del personaggio perdura finché la mal
 
 ***Schianto di Tentacolo.*** L'otyugh schianta le creature afferrate dai suoi tentacoli, l'una contro l'altra o sul pavimento. Ogni creatura deve riuscire un Tiro Salvezza di Tempra DC 17 o subire 10 (2d6 + 3) danni contundenti e restare stordita fino al termine del prossimo round dell'otyugh. Se il Tiro Salvezza riesce, il bersaglio subisce la metà dei danni contundenti e non è stordito.
 
-***Arrabbiato:*** l'otyugh emette un profumo che inebria i sensi. Tutte le creature nel raggio di 6 metri devono fare un Tiro Salvezza su Volontà DC 18 oppure agire in maniera casuale, come incantesimo Confusione (pag. ), fino alla fine del prossimo round. Costa 2 Azioni.
+***Arrabbiato:*** l'otyugh emette un profumo che inebria i sensi. Tutte le creature nel raggio di 6 metri devono fare un Tiro Salvezza su Volontà DC 18 oppure agire in maniera casuale, come incantesimo Confusione , fino alla fine del prossimo round. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Qualsiasi Sotterraneo
-Organizzazione: Solitario, coppia o gruppo (3-4)
+
+| Ambiente: Qualsiasi Sotterraneo |
+| --- |
+| Organizzazione: Solitario, coppia o gruppo (3-4) |
+
 **Categoria Tesoro**: I
 **Descrizione**
 Gli otyugh sono creature particolarmente luride ed orride che vivono in luoghi che le persone sane di mente tendono ad evitare. Le loro tane si trovano nelle fogne, nei pozzi neri, nelle discariche e nelle paludi più mefitiche: più un luogo è sporco, più attira gli otyugh. Amano il ruolo dello spazzino e vagano per le caverne sotterranee in cerca di nuovi bocconcini in mezzo ai rifiuti. Una volta trovati si ingozzano e riportano alla loro tana quello che non riescono a consumare in una volta sola. Gli otyugh passano parecchio tempo nelle loro luride tane, che riempiono di carogne e letame, che rilasciano effluvi mefitici.
@@ -30414,10 +31108,10 @@ Un otyugh mangiando gli escrementi o parte di una creatura può capire quale mal
 
 ## Panoptikhan
 - **Taglia/Tipo**: Grande aberrazione, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 2 Int 3 Sag 2 Car 2}
+- **Caratt.**: For 0 Des 1 Cos 2 Int 3 Sag 2 Car 2
 - **Punti Ferita**: 235,  **Difesa:** 29,  **Iniziativa:** +3
 - **Movimento**: 1 m, volo 10 metri, fluttuare
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +13, Volontà +14
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +14, Riflessi +13, Volontà +14
 - **Sensi**: Scurovisione 36 m, visione del vero 18m
 - **Linguaggi**: telepatia 50 m
 - **Sfida**: 12 (8400 PX)
@@ -30453,8 +31147,11 @@ Un otyugh mangiando gli escrementi o parte di una creatura può capire quale mal
 ***Arrabbiato:*** il Panoptikhan in preda alla furia più cieca attiva 1d6 occhi a caso su bersagli a caso. Costa 3 Azioni.
 
 **Ecologia**
-Ambiente: Qualsiasi Sotterraneo
-Organizzazione: Solitario, coppia
+
+| Ambiente: Qualsiasi Sotterraneo |
+| --- |
+| Organizzazione: Solitario, coppia |
+
 **Categoria Tesoro**: H
 **Descrizione**
 I Panoptikhan sono aberrazioni xenofobe, palle di dura carne volante dotate di un grosso occhio centrale, una grande bocca e 7 tentacoli lunghi circa 1 metro ognuno dotato di un occhio (di circa 10 cm di diametro) di colore diverso.
@@ -30467,10 +31164,10 @@ I Panoptikhan hanno una lunghissima vita, nell'ordine dei mille anni ma risultan
 
 ## Pegaso
 - **Taglia/Tipo**: Grande celestiale, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 3 Int 0 Sag 2 Car 1}
+- **Caratt.**: For 4 Des 2 Cos 3 Int 0 Sag 2 Car 1
 - **Punti Ferita**: 52,  **Difesa:** 16,  **Iniziativa:** +2
 - **Movimento**: 18 m, volo 27 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +4}
+- **Tiri Salvez.**: Tempra +5, Riflessi +4, Volontà +4
 - **Comp.**: Consapevolezza +6
 - **Linguaggi**: comprende Celestiale, Comune, Elfico e Silvano ma non può parlare
 - **Sfida**: 2 (450 PX)
@@ -30480,8 +31177,11 @@ I Panoptikhan hanno una lunghissima vita, nell'ordine dei mille anni ma risultan
 *Colpisce:* 11 (2d6 + 4) danni contundenti.
 
 **Ecologia**
-Ambiente: Pianure Temperate e Calde
-Organizzazione: Solitario, coppia o branco (6-10)
+
+| Ambiente: Pianure Temperate e Calde |
+| --- |
+| Organizzazione: Solitario, coppia o branco (6-10) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Il pegaso è un magnifico cavallo alato che a volte serve la causa del bene. Seppur molto apprezzati come cavalcature volanti, i pegasi sono creature timide che difficilmente stringono amicizie. Un tipico pegaso è alto 1,8 metri al garrese, pesa 750 kg ed ha un'apertura alare di 6 metri. La maggior parte dei pegasi è bianca, ma a volte alcuni esemplari hanno colori diversi.
@@ -30500,10 +31200,10 @@ Pegasi ed Unicorni sono stati salvati dalla furia di Calicante verso i *cavalli*
 
 ## Persecutore Invisibile
 - **Taglia/Tipo**: Media elementale, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 4 Cos 2 Int 0 Sag 2 Car 0}
+- **Caratt.**: For 3 Des 4 Cos 2 Int 0 Sag 2 Car 0
 - **Punti Ferita**: 125,  **Difesa:** 24,  **Iniziativa:** +4
 - **Movimento**: 15 m, volo 15 m, Fluttuare
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +10, Volontà +8
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +8, Riflessi +10, Volontà +8
 - **Comp.**: Furtività +10, Consapevolezza +8
 - **Res. Danni**: da arma non magica
 - **Imm. Danni**: Veleno
@@ -30529,8 +31229,11 @@ Pegasi ed Unicorni sono stati salvati dalla furia di Calicante verso i *cavalli*
 ***Arrabbiato:*** il Persecutore Invisibile rompe il patto e torna nel piano elementale dell'aria.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Originarie del Piano dell'Aria, queste creature si muovono nel mondo seguendo gli incarichi per coloro che le evocano. I cacciatori invisibili agiscono solitamente come guardiani e assassini. L'invisibilità naturale e la furtività permettono loro di seguire la preda senza essere visti e li avvantaggiano quando decidono di eliminare un bersaglio.
@@ -30541,10 +31244,10 @@ A causa delle continue evocazioni, molti cacciatori invisibili avversano gli abi
 
 ## Pseudodrago
 - **Taglia/Tipo**: Minuscola drago, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 2 Cos 1 Int 0 Sag 1 Car 0}
+- **Caratt.**: For -2 Des 2 Cos 1 Int 0 Sag 1 Car 0
 - **Punti Ferita**: 19,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 5 metri, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +4, Consapevolezza +3
 - **Sensi**: Scurovisione 18 m, Vista Cieca 3 m
 - **Linguaggi**: comprende il Comune e il Draconico ma non parla
@@ -30565,8 +31268,11 @@ A causa delle continue evocazioni, molti cacciatori invisibili avversano gli abi
 *Colpisce:* 4 (1d4 + 2) danni perforanti e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 11 o essere Confuso per 1 round. Se il Tiro Salvezza fallisce criticamente la creatura cade addormentata finché non risvegliata.
 
 **Ecologia**
-Ambiente: Foreste temperate
-Organizzazione: Solitario, coppia o nido (3-5)
+
+| Ambiente: Foreste temperate |
+| --- |
+| Organizzazione: Solitario, coppia o nido (3-5) |
+
 **Categoria Tesoro**: R
 **Descrizione**
 Gli pseudodraghi sono piccoli parenti dei veri draghi, giocosi e timidi. Parlano cinguettando, sibilando, ringhiando e facendo le fusa, ma possono comunicare telepaticamente con qualsiasi creatura intelligente. Se avvicinati pacificamente con offerte di cibo, sono disposti a condividere informazioni su quanto si trova nel loro territorio, ma minacce e violenza li fanno fuggire.
@@ -30577,10 +31283,10 @@ Raggiunta l'età adulta, il corpo di uno pseudodrago è lungo 30 centimetri con 
 
 ## Rakshasa
 - **Taglia/Tipo**: Media immondo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 3 Cos 4 Int 1 Sag 3 Car 5}
+- **Caratt.**: For 2 Des 3 Cos 4 Int 1 Sag 3 Car 5
 - **Punti Ferita**: 259,  **Difesa:** 32,  **Iniziativa:** +3
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +17, Riflessi +16, Volontà +16
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +17, Riflessi +16, Volontà +16
 - **Comp.**: Ingannare +10, Percepire Emozioni +8
 - **Imm. Danni**: contundenti, armi +1
 - **Sensi**: Scurovisione 18 m
@@ -30604,8 +31310,11 @@ A volontà: *Camuffare Sé Stesso, Illusione Minore, Individuazione dei Pensieri
 **Reazione: *Attacco d'opportunità***: il Rakshasa effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario, coppia o culto (3-12)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario, coppia o culto (3-12) |
+
 **Categoria Tesoro**: Pugnale+1, I
 **Descrizione**
 Il rakshasa è uno spirito maligno che si traveste da creatura umanoide così da poter seguire la sua preda in incognito. Personificazione dei tabù della maggioranza delle società e capace di assumere l'aspetto di quelli che cerca di corrompere, un rakshasa compie moltissime azioni orribili. Se fossero umani, la loro blasfemia, il cannibalismo e gli atti ancora peggiori che compiono li marchierebbero come criminali meritevoli del più crudele degli inferni.
@@ -30618,10 +31327,10 @@ Un rakshasa è alto 1,8 metri e pesa 90 kg.
 
 ## Razziamorti
 - **Taglia/Tipo**: Grande costrutto, non morto, non allineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 0 Cos 4 Int -4 Sag -2 Car -5}
+- **Caratt.**: For 5 Des 0 Cos 4 Int -4 Sag -2 Car -5
 - **Punti Ferita**: 127,  **Difesa:** 20,  **Iniziativa:** +0
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +6, Volontà +4}
+- **Tiri Salvez.**: Tempra +10, Riflessi +6, Volontà +4
 - **Imm. Danni**: Veleno
 - **Immunità**: affascinato, affaticato, paralizzato, pietrificato, sanguinamento, malattie
 - **Sensi**: Scurovisione 30 m
@@ -30651,8 +31360,11 @@ Un rakshasa è alto 1,8 metri e pesa 90 kg.
 ***Tartaruga triste***: con una prova di Atletica DC 24 è possibile ribaltare sottosopra il razziamorti che non è più in grado di ribaltarsi da solo. In questa circostanza il razziamorti ha -1d6 a tutti i Tiri per Colpire.
 
 **Ecologia**
-Ambiente: Qualsiasi, caverne
-Organizzazione: 1-2 Razziamorti, 1d4+1 guardiani
+
+| Ambiente: Qualsiasi, caverne |
+| --- |
+| Organizzazione: 1-2 Razziamorti, 1d4+1 guardiani |
+
 **Categoria Tesoro**: Quanto raccolto (C + R)
 **Descrizione**
 I Razziamorti sono dei particolari non morti costruiti da pezzi di vario cadavere e pezzi di ferro perché assomiglino a delle specie di grossi granchi corazzati.
@@ -30664,10 +31376,10 @@ Solitamente un Razziamorto è sempre accompagnato da diversi guardiani (altre cr
 
 ## Remorhaz
 - **Taglia/Tipo**: Enorme mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 7 Des 1 Cos 5 Int -3 Sag 0 Car -3}
+- **Caratt.**: For 7 Des 1 Cos 5 Int -3 Sag 0 Car -3
 - **Punti Ferita**: 224,  **Difesa:** 27,  **Iniziativa:** +1
 - **Movimento**: 9 m, scavo 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +16, Riflessi +12, Volontà +11
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +16, Riflessi +12, Volontà +11
 - **Sensi**: Scurovisione 18 m, senso tellurico 18 m
 - **Sfida**: 11 (7200 PX)
 
@@ -30686,8 +31398,11 @@ Se il remorhaz subisce 30 o più danni in un singolo round da una creatura al su
 ***Arrabbiato:*** il Remorhaz scalda ancora di più il suo corpo fino alla fine del combattimento portanto a 18 (6d6) il danno da fuoco per chi è entro 1 metro.
 
 **Ecologia**
-Ambiente: Deserti Freddi e Ghiacciai
-Organizzazione: Solitario
+
+| Ambiente: Deserti Freddi e Ghiacciai |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 In un mondo di ghiaccio e neve, i remorhaz sono particolarmente temuti per il terribile fuoco che brucia dentro i loro corpi. Questo fuoco interiore fa sì che le piastre lungo il suo dorso divengano roventi quando la creatura è particolarmente arrabbiata, eccitata o nel panico. Le creature che si sono adattate alle regioni artiche spesso sono particolarmente vulnerabili al fuoco, il che rende la principale difesa del remorhaz incredibilmente potente e gli assicura il ruolo di pericoloso predatore delle zone ghiacciate. I remorhaz vivono in estesi labirinti scavati nel cuore dei ghiacciai. Queste bestie usano il loro calore per scavare tunnel nel ghiaccio, tunnel le cui lisce pareti vitree si ricongelano rapidamente lungo la loro scia creando numerosi dedali incredibilmente stabili.
@@ -30696,10 +31411,10 @@ Intelligenti nonostante l'apparenza, i remorhaz capiscono il linguaggio dei Giga
 
 ## Rugginofago
 - **Taglia/Tipo**: Media Mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 1 Cos 1 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 1 Des 1 Cos 1 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -30716,8 +31431,11 @@ Intelligenti nonostante l'apparenza, i remorhaz capiscono il linguaggio dei Giga
 Se l'oggetto con cui entra in contatto è un'armatura o scudo di metallo indossati o trasportati, questi subiscono una penalità permanente e cumulativa di -2 alla Difesa che forniscono. Le armature ridotte a Difesa 0 o gli scudi che scendono ad un bonus di +0 sono distrutti. Se l'oggetto con cui entra in contatto è un'arma di metallo impugnata da qualcuno, la arrugginisce come descritto nel tratto Arrugginire Metallo.
 
 **Ecologia**
-Ambiente: Qualsiasi Sotterraneo
-Organizzazione: Solitario, coppia o nido (3-10)
+
+| Ambiente: Qualsiasi Sotterraneo |
+| --- |
+| Organizzazione: Solitario, coppia o nido (3-10) |
+
 **Categoria Tesoro**: Accidentale (nessun tesoro di metallo)
 **Descrizione**
 Di tutte le bestie terrificanti che un esploratore può incontrare nel sottosuolo, il rugginofago è l'unico a mirare al tesoro dell'avventuriero. Lungo circa un metro e pesante almeno 100 kg, il rugginofago somiglia a un crostaceo, e il suo processo nutritivo alieno lo rende ancora più spaventoso.
@@ -30730,10 +31448,10 @@ Fortunatamente, è spesso possibile sfuggire alle attenzioni di un rugginofago l
 
 ## Sahuagin
 - **Taglia/Tipo**: Media umanoide (sahuagin), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 0 Cos 1 Int 1 Sag 1 Car -1}
+- **Caratt.**: For 1 Des 0 Cos 1 Int 1 Sag 1 Car -1
 - **Punti Ferita**: 24,  **Difesa:** 12,  **Iniziativa:** +1
 - **Movimento**: 9 m, nuoto 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Consapevolezza +5
 - **Sensi**: Scurovisione 36 m
 - **Linguaggi**: Sahuagin
@@ -30760,7 +31478,10 @@ Fortunatamente, è spesso possibile sfuggire alle attenzioni di un rugginofago l
 *Colpisce:* 3 (1d4 + 1) danni perforanti.
 
 **Ecologia**
-Ambiente: Oceani Temperati o Caldi
+
+| Ambiente: Oceani Temperati o Caldi |
+| --- |
+
 Organizzazione: Solitario, coppia, squadra (5-8), pattuglia (11-20 più 1 tenente di 3° livello e 1-2 Squali), banda (20-80 più 100\% non combattenti, 1 tenente di 3° livello e 1 capitano di 4° livello ogni 20 adulti, e 1-2 Squali) o tribù (70-160 più 100\% non combattenti, 1 tenente di 3° livello ogni 20 adulti, 1 capitano di 4° livello ogni 40 adulti, 9 guardie di 4° livello, 1-4 novizie di 3°-6° livello, 1 sacerdotessa di 7° livello, 1 barone di 6°-8° livello, e 5-8 Squali)
 **Categoria Tesoro**: Equipaggiamento da PNG (Tridente, Balestra Pesante con 10 Quadrelli, L)
 **Descrizione**
@@ -30770,10 +31491,10 @@ I sahuagin sono soggetti a mutazioni genetiche e quando nasce un mutante assurge
 
 ## Salamandra
 - **Taglia/Tipo**: Grande elementale, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 2 Int 0 Sag 0 Car 1}
+- **Caratt.**: For 4 Des 2 Cos 2 Int 0 Sag 0 Car 1
 - **Punti Ferita**: 107,  **Difesa:** 20,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +7, Volontà +5}
+- **Tiri Salvez.**: Tempra +7, Riflessi +7, Volontà +5
 - **Res. Danni**: da arma non magica
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Ignan
@@ -30798,8 +31519,11 @@ I sahuagin sono soggetti a mutazioni genetiche e quando nasce un mutante assurge
 ***Arrabbiato:*** la Salamadra concentra le sue fiamme in un attacco a distanza. Una creatura entro 9 metri deve effettuare un Tiro Salvezza su Riflessi DC 18 per dimezzare il danno. La creatura viene colpita da un globo di fiamme che causa 4d6 di danno da fuoco. Costa 2 Azioni.
 
 **Ecologia**
-Ambiente: Qualsiasi (Piano del Fuoco)
-Organizzazione: Solitario, coppia o gruppo (3-5)
+
+| Ambiente: Qualsiasi (Piano del Fuoco) |
+| --- |
+| Organizzazione: Solitario, coppia o gruppo (3-5) |
+
 **Categoria Tesoro**: Standard (Lancia, P)
 **Descrizione**
 Le Salamandre sono native del Piano del Fuoco, dove le loro legioni di fieri combattenti sono molto temute dagli altri abitanti del Piano. Poiché molte delle più forti Razze Elementali del Fuoco Schiavizzano le Salamandre per la loro Abilità nella metallurgia e capacità combattiva, le Salamandre odiano gli Efreet e gli altri con fervore.
@@ -30812,10 +31536,10 @@ Abitando zone così estreme, le Salamandre posseggono solo tesori che resistono 
 
 ## Satiro
 - **Taglia/Tipo**: Media fatato, caotico
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 3 Cos 0 Int 1 Sag 0 Car 2}
+- **Caratt.**: For 1 Des 3 Cos 0 Int 1 Sag 0 Car 2
 - **Punti Ferita**: 24,  **Difesa:** 15,  **Iniziativa:** +3
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +5, Intrattenere +6, Consapevolezza +2
 - **Linguaggi**: Comune, Elfico, Silvano
 - **Sfida**: 1/2 (100 PX)
@@ -30835,8 +31559,11 @@ Abitando zone così estreme, le Salamandre posseggono solo tesori che resistono 
 *Colpisce:* 6 (1d6 + 3) danni perforanti.
 
 **Ecologia**
-Ambiente: Foreste Temperate
-Organizzazione: Solitario, coppia, banda (3-6) o festino (7-11)
+
+| Ambiente: Foreste Temperate |
+| --- |
+| Organizzazione: Solitario, coppia, banda (3-6) o festino (7-11) |
+
 **Categoria Tesoro**: Pugnale, Arco Corto più 20 Frecce, flauto di pan perfetto, S
 **Descrizione**
 I satiri, conosciuti in molte regioni come fauni, sono creature debosciate ed edoniste delle parti più profonde e primordiali delle foreste. Adorano il vino, la musica e i piaceri della carne, sono rinomati come libertini e bellimbusti che corteggiano le fanciulle sprovvedute e i pastorelli e si lasciano dietro una scia di spiegazioni imbarazzanti e gravidanze indesiderate.
@@ -30849,10 +31576,10 @@ I bambini nati da questi incontri sono sempre satiri di sangue puro e vengono ge
 
 ## Scheletro
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 2 Int -2 Sag -1 Car -3}
+- **Caratt.**: For 0 Des 2 Cos 2 Int -2 Sag -1 Car -3
 - **Punti Ferita**: 19,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Res. Danni**: perforante, tagliente
 - **Imm. Danni**: Veleno
 - **Immunità**: affaticato, sanguinamento
@@ -30869,18 +31596,21 @@ I bambini nati da questi incontri sono sempre satiri di sangue puro e vengono ge
 ***Arco Corto.** Attacco con arma a Distanza*: +4 a colpire, gittata 24m, un bersaglio.*Colpisce:* 5 (1d6 + 2) danni perforanti.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Qualsiasi
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Qualsiasi |
+
 **Categoria Tesoro**: Nessuno (Giaco di Maglia Rotto, Scimitarra Rotta)
 **Descrizione**
 Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrileghe. Per la maggior parte, gli scheletri sono automi privi di volontà.
 
 ## Scheletro Campione
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 1 Cos 3 Int -2 Sag -1 Car -3}
+- **Caratt.**: For 4 Des 1 Cos 3 Int -2 Sag -1 Car -3
 - **Punti Ferita**: 70,  **Difesa:** 17,  **Iniziativa:** +1
 - **Movimento**: 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +6, Riflessi +4, Volontà +3
 - **Imm. Danni**: Veleno
 - **Res. Danni**: perforante, tagliente, Elettricità, Fuoco
 - **Immunità**: affaticato, sanguinamento
@@ -30896,10 +31626,10 @@ Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrile
 
 ## Scheletro di Saurovallo da Guerra
 - **Taglia/Tipo**: Grande non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 1 Cos 2 Int -4 Sag -1 Car -3}
+- **Caratt.**: For 4 Des 1 Cos 2 Int -4 Sag -1 Car -3
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Res. Danni**: perforante, tagliente
 - **Imm. Danni**: Veleno
 - **Immunità**: affaticato, sanguinamento
@@ -30914,10 +31644,10 @@ Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrile
 
 ## Segugio Infernale
 - **Taglia/Tipo**: Media immondo, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 2 Int -2 Sag 1 Car -2}
+- **Caratt.**: For 3 Des 1 Cos 2 Int -2 Sag 1 Car -2
 - **Punti Ferita**: 70,  **Difesa:** 17,  **Iniziativa:** +1
 - **Movimento**: 15 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +4}
+- **Tiri Salvez.**: Tempra +5, Riflessi +4, Volontà +4
 - **Comp.**: Consapevolezza +5
 - **Imm. Danni**: Fuoco
 - **Sensi**: Scurovisione 18 m
@@ -30936,10 +31666,10 @@ Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrile
 
 ## Androsfinge
 - **Taglia/Tipo**: Grande mostruosità, legale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 0 Cos 5 Int 3 Sag 4 Car 6}
+- **Caratt.**: For 6 Des 0 Cos 5 Int 3 Sag 4 Car 6
 - **Punti Ferita**: 338,  **Difesa:** 34,  **Iniziativa:** +3
 - **Movimento**: 12 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +22, Riflessi +17, Volontà +21
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +22, Riflessi +17, Volontà +21
 - **Comp.**: Arcana +9, Religione +15
 - **Imm. Danni**: da arma non magica
 - **Immunità**: affascinato, spaventato
@@ -30997,8 +31727,11 @@ La sfinge può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 ***Arrabbiato:*** la Sfinge pone un indovinello. La creatura deve rispondere, usando tutte le sue azioni ed una risposta a round, entro 6 round, se sbaglia o non risponde deve effettuare un Tiro Salvezza su Volontà a DC 31 oppure rimanere paralizzata. Ogni round può tentare di nuovo il Tiro Salvezza nel tentativo di dare una risposta. Costa 1 Azione.
 
 **Ecologia**
-Ambiente: Colline o Deserti Caldi
-Organizzazione: Solitario
+
+| Ambiente: Colline o Deserti Caldi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Le androsfingi, le più potenti tra le sfingi comuni, ritengono di rappresentare tutto ciò che c'è di degno e nobile nella loro specie e si atteggiano come se il peso del mondo intero poggiasse sul loro buon esempio. Guardano le Criosfingi con sufficienza paternalistica, le Ieracosfingi con malcelato disgusto e le Ginosfingi come le uniche altre sfingi degne del loro tempo.
@@ -31009,10 +31742,10 @@ Le androsfingi sono alte 3,6 metri e pesano 500 kg.
 
 ## Ginosfinge
 - **Taglia/Tipo**: Grande mostruosità, legale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 3 Int 4 Sag 4 Car 4}
+- **Caratt.**: For 4 Des 2 Cos 3 Int 4 Sag 4 Car 4
 - **Punti Ferita**: 219,  **Difesa:** 28,  **Iniziativa:** +4
 - **Movimento**: 12 m, volo 18 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +13, Volontà +15
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +14, Riflessi +13, Volontà +15
 - **Comp.**: Arcana +14, Religione +9, Storia +14
 - **Res. Danni**: da arma non magica
 - **Immunità**: affascinato, spaventato
@@ -31055,8 +31788,11 @@ La sfinge può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 **Teletrasporto (Costa 2 Azioni).** La sfinge si teletrasporta magicamente, insieme a tutto l'equipaggiamento che sta indossando o trasportando, in uno spazio non occupato che possa vedere, fino a 36 metri di distanza.
 
 **Ecologia**
-Ambiente: Deserti e colline caldi
-Organizzazione: Solitario, coppia o culto (3-6)
+
+| Ambiente: Deserti e colline caldi |
+| --- |
+| Organizzazione: Solitario, coppia o culto (3-6) |
+
 **Categoria Tesoro**: C
 **Descrizione**
 Anche se esistono diversi tipi di sfinge, quella alla quale gli studiosi si riferiscono come Ginosfinge (un nome che molte sfingi trovano offensivo) è una creatura saggia e maestosa ma al contempo terrificante se arrabbiata. Meno moraliste delle loro controparti maschili (le Androsfingi, creature totalmente differenti da quella presentata qui), le sfingi sono prudenti e metodiche quando prendono delle decisioni, e sono orgogliose della loro fredda logica e della loro imparzialità.
@@ -31071,10 +31807,10 @@ Una tipica sfinge è lunga 3 metri e pesa circa 400 kg. Anche se le loro ali pos
 
 ## Sibilante
 - **Taglia/Tipo**: Grande mostruosità, caotico
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 1 Int -3 Sag 0 Car -2}
+- **Caratt.**: For 2 Des 1 Cos 1 Int -3 Sag 0 Car -2
 - **Punti Ferita**: 51,  **Difesa:** 15,  **Iniziativa:** +1
 - **Movimento**: 6 m, arrampicarsi 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +4, Consapevolezza +3
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 2 (450 PX)
@@ -31092,8 +31828,11 @@ Una tipica sfinge è lunga 3 metri e pesa circa 400 kg. Anche se le loro ali pos
 **ReazioniReazione: *Atterrare***: quando il Sibilante è attaccato da una creatura nella portata della sua coda questa viene sferzata obbligando l'attaccante, dopo la risoluzione del suo attacco, ad effettuare un Tiro Salvezza su Tempra o Riflessi a DC 14 o subire 7 (2d6) di danni contundenti e cadere prono. Se il Tiro Salvezza riesce subisco solo metà danno e non è prona.
 
 **Ecologia**
-Ambiente: Caverne
-Organizzazione: Solitario, coppia o nido (2-4)
+
+| Ambiente: Caverne |
+| --- |
+| Organizzazione: Solitario, coppia o nido (2-4) |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 I Sibilanti, chiamati così per via del rumore che fa la loro coda agitandosi è una creatura molto particolare. Assomiglia a prima vista ad un coccodrillo, lungo circa 5 metri di cui 4 di coda ma ha 8 zampe ed il muso corto e appiattito. La coda estremamente robusta finisce con una specie di uncino che il Sibilante usa per colpire, uccidere ed afferrare i nemici quasi fosse una zampa aggiuntiva.
@@ -31102,10 +31841,10 @@ Di colore grigio scuro, marrone, preferiscono nascondersi nell'oscurità ed atta
 
 ## Spettro
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -5 Des 2 Cos 0 Int 0 Sag 0 Car 2}
+- **Caratt.**: For -5 Des 2 Cos 0 Int 0 Sag 0 Car 2
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +2
 - **Movimento**: 0 m, volo 16 m, fluttuare
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Furtività +8,Consapevolezza +3
 - **Res. Danni**: Acido, Freddo, Fuoco, Elettricità, Suono, da Vuoto, da arma non magica
 - **Immunità**: affascinato, spaventato, affaticato, afferrato, paralizzato, pietrificato, veleno, prono, ristretto
@@ -31122,8 +31861,11 @@ Di colore grigio scuro, marrone, preferiscono nascondersi nell'oscurità ed atta
 *Colpisce:* 10 danni (3d6) da Vuoto. La creatura perde il medesimo ammontare dai Punti Ferita Massimi. Lo spettro recupera 2 Punti Ferita.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: nessuno
 **Descrizione**
 Gli spettri sono non morti malvagi che odiano la luce del sole e gli esseri viventi. La loro genesi è spesso dovuta alla morte violenta di assassini e malvagi. Come i fantasmi, gli spettri infestano i posti dove sono morti e cercano di portare altri con loro.
@@ -31132,10 +31874,10 @@ Uno spettro assomiglia molto a come era in vita e può essere facilmente riconos
 
 ## Spiritello
 - **Taglia/Tipo**: Minuscola fatato, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 4 Cos 0 Int 2 Sag 1 Car 0}
+- **Caratt.**: For -4 Des 4 Cos 0 Int 2 Sag 1 Car 0
 - **Punti Ferita**: 19,  **Difesa:** 16,  **Iniziativa:** +4
 - **Movimento**: 3 m, volo 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Comp.**: Furtività +8 (la prova è fatta con -1d6 se lo spiritello sta volando),Consapevolezza +3
 - **Linguaggi**: Comune, Elfico, Silvano
 - **Sfida**: 1/4 (50 PX)
@@ -31164,10 +31906,10 @@ Sebbene gli spiritelli di per sé abbiano una natura incolta e selvaggia, hanno 
 
 ## Strige (Uccello Stigeo)
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 3 Cos 0 Int -4 Sag -1 Car -2}
+- **Caratt.**: For -3 Des 3 Cos 0 Int -4 Sag -1 Car -2
 - **Punti Ferita**: 17,  **Difesa:** 15,  **Iniziativa:** +3
 - **Movimento**: 3 m, volo 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 1/8 (25 PX)
 
@@ -31178,8 +31920,11 @@ Sebbene gli spiritelli di per sé abbiano una natura incolta e selvaggia, hanno 
 Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver risucchiato 10 Punti Ferita dal bersaglio o alla morte del bersaglio. Una creatura, compreso il bersaglio, può usare una Azione per staccare lo strige.
 
 **Ecologia**
-Ambiente: Paludi temperate e calde
-Organizzazione: Solitario, colonia (2-4), stormo (5-8), nugolo (9-14) o sciame (15-40)
+
+| Ambiente: Paludi temperate e calde |
+| --- |
+| Organizzazione: Solitario, colonia (2-4), stormo (5-8), nugolo (9-14) o sciame (15-40) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Gli strige sono pericolosi succhiasangue che infestano le paludi e predano animali selvatici, bestiame ed ignari viaggiatori. Pur essendo deboli individualmente, sciami di queste creature sono capaci di prosciugare un uomo in pochi minuti, lasciando dietro a loro solo un cadavere essiccato.
@@ -31190,10 +31935,10 @@ Di solito gli strige sono lunghi circa 30 centimetri, con un'apertura alare di c
 
 ## Tarrasque
 - **Taglia/Tipo**: Colossale mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 10 Des 0 Cos 10 Int -2 Sag 0 Car 0}
+- **Caratt.**: For 10 Des 0 Cos 10 Int -2 Sag 0 Car 0
 - **Punti Ferita**: 615,  **Difesa:** 52,  **Iniziativa:** +0
 - **Movimento**: 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +40, Riflessi +30, Volontà +30
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +40, Riflessi +30, Volontà +30
 - **Imm. Danni**: Fuoco, Veleno, Elettricità; armi +2
 - **Immunità**: affascinato, paralizzato, spaventato, affaticato
 - **Sensi**: Vista Cieca 36 m
@@ -31244,8 +31989,11 @@ Il Tarrasque può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti
 **Muoversi.** Il Tarrasque si muove fino a metà del suo movimento.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Il leggendario Tarrasque è fra i mostri più distruttivi del mondo. Fortunatamente, passa la maggior parte del suo tempo in una specie di profondo letargo in una sconosciuta caverna in un remoto angolo del mondo. Quando si risveglia, però, muoiono interi regni.
@@ -31256,10 +32004,10 @@ La leggenda dice che il Tarrasque sia l'animale da compagnia di Cattalm.
 
 ## Teschio Fiammeggiante
 - **Taglia/Tipo**: Piccolo non morto, Tratti malvagi
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 1 Int 1 Sag 0 Car 0}
+- **Caratt.**: For 0 Des 1 Cos 1 Int 1 Sag 0 Car 0
 - **Punti Ferita**: 51,  **Difesa:** 15,  **Iniziativa:** +1
 - **Movimento**: volo 10 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Res. Danni**: da Vuoto
 - **Imm. Danni**: Fuoco, Veleno, da arma non magica
 - **Immunità**: affascinato, paralizzato, affaticato, spaventato, sanguinamento
@@ -31277,8 +32025,11 @@ a Volontà: *Produrre Fiamma*
 ***Esperto del fuoco.*** Costa 1 Azione lanciare il trucchetto Produrre Fiamma.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario, paio, pattuglia (2d4)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario, paio, pattuglia (2d4) |
+
 **Categoria Tesoro**: nessuno
 **Descrizione**:
 I Teschi Fiammeggianti sono creati dai cadaveri degli incantatori specializzati nella Lista di magia del Fuoco e della necromanzia.
@@ -31287,10 +32038,10 @@ Usati come custodi e torce rappresentano spesso una prima linea di difesa nei du
 
 ## Testuggine Dragona
 - **Taglia/Tipo**: Mastodontica drago, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 7 Des 0 Cos 5 Int 0 Sag 1 Car 1}
+- **Caratt.**: For 7 Des 0 Cos 5 Int 0 Sag 1 Car 1
 - **Punti Ferita**: 338,  **Difesa:** 34,  **Iniziativa:** +0
 - **Movimento**: 6 m, nuoto 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +22, Riflessi +17, Volontà +18
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +22, Riflessi +17, Volontà +18
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Aquan, Draconico
 - **Sfida**: 17 (18000 PX)
@@ -31317,8 +32068,11 @@ Usati come custodi e torce rappresentano spesso una prima linea di difesa nei du
 ***Soffio di Vapore (Ricarica 5-6).*** La testuggine dragona esala un vapore caldo in un cono di 18 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 31 e subire 52 (15d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Trovarsi sott'acqua non dà resistenza contro questo tipo di danno.
 
 **Ecologia**
-Ambiente: Acquatico temperato
-Organizzazione: Solitario
+
+| Ambiente: Acquatico temperato |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: A
 **Descrizione**
 Le testuggini dragone sono creature delle acque dolci e salate, molto temute dai marinai. Sono noti per aspettarsi offerte in oro e magia dai marinai per un passaggio sicuro. Ignorare una testuggine dragona può renderla molto pericolosa.
@@ -31329,10 +32083,10 @@ Si nutrono di grandi pesci e alghe marine, e non disdegnano i passeggeri delle n
 
 ## Topi, La
 - **Taglia/Tipo**: Minuscola fatata, indifferente. Patrono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 4 Cos 0 Int 6 Sag 1 Car 10}
+- **Caratt.**: For -1 Des 4 Cos 0 Int 6 Sag 1 Car 10
 - **Punti Ferita**: 15,  **Difesa:** 16,  **Iniziativa:** +6
 - **Movimento**: 6 m, volare 18 m, fluttuare
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +30, Riflessi +34, Volontà +30
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +30, Riflessi +34, Volontà +30
 - **Comp.**: tutte +20
 - **Immunità**: al danno delle armi con bonus magico inferiore a +6
 - **Immunità**: a qualsiasi effetto, danno, condizione non faccia piacere alla Topi
@@ -31354,20 +32108,26 @@ Si nutrono di grandi pesci e alghe marine, e non disdegnano i passeggeri delle n
 ***Appoggia nasino** una creatura*. La Topi appoggia il nasino sulla creatura scelta e questa viene guarita da ogni malattia, condizione o ferita in essere.
 ***Arrabbiato:*** la Topi fa quello che vuole (Desiderio illimitato). Costo 1 Reazione.
 **Azioni Aggiuntive**
-La Topi, come Patrono, può fare quante Azioni aggiuntive vuole tra tutte quelle segnate. Può usare Desiderio illimitato una volta a round.
+
+| La Topi, come Patrono, può fare quante Azioni aggiuntive vuole tra tutte quelle segnate. Può usare Desiderio illimitato una volta a round. |
+| --- |
+
 **Ecologia**
-Ambiente: Ovunque, Mercati
-Organizzazione: Solitario
+
+| Ambiente: Ovunque, Mercati |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Speciale
 **Descrizione**
 Potrebbe essere scambiata per una piccola topina bianca, ma La Topi è molto di più. Furba, intelligente, bellissima adora andare al mercato e comprare borsette.
 
 ## Torciascura
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 2 Int 0 Sag -1 Car -2}
+- **Caratt.**: For 3 Des 1 Cos 2 Int 0 Sag -1 Car -2
 - **Punti Ferita**: 88,  **Difesa:** 18,  **Iniziativa:** +1
 - **Movimento**: 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +3}
+- **Tiri Salvez.**: Tempra +6, Riflessi +5, Volontà +3
 - **Res. Danni**: da Vuoto; da arma non magica o che non sia argentata
 - **Imm. Danni**: Veleno
 - **Immunità**: affaticato, sanguinamento
@@ -31383,8 +32143,11 @@ Potrebbe essere scambiata per una piccola topina bianca, ma La Topi è molto di 
 ***Colpisce*** 7 (1d6+3) di danni contundenti, lancia l'incantesimo Oscurità sull'obiettivo colpito, durata fino alla distruzione del Torciascura
 ***Urlo di Tristezza*** cono di 6 metri. Le creature colpite devono effettuare un Tiro Salvezza su Volontà DC 16 o cadere in una triste disperazione che conferisce -2 al Tiro per Colpire, -2 al danno in mischia.
 **Ecologia**
-Ambiente: Dungeon
-Organizzazione: Solitario, gruppo 2d4
+
+| Ambiente: Dungeon |
+| --- |
+| Organizzazione: Solitario, gruppo 2d4 |
+
 **Categoria Tesoro**: Speciale
 **Descrizione**
 Un Torciascura era un avventuriero, come voi, morto in preda al terrore dopo che l'ultima torcia si spense. Un Torciascura è un non morto, solitamente umanoide, dall'aspetto vagamente indefinito, che brandisce una torcia che emana pura oscurità. Il suo scopo è uccidere nuovi avventurieri avvolgendoli nell'oscurità eterna.
@@ -31395,10 +32158,10 @@ Un Torciascura quando viene distrutto lascia a terra la sua torcia. Questa torci
 
 ## Troll
 - **Taglia/Tipo**: Grande gigante, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 1 Cos 5 Int -2 Sag -1 Car -2}
+- **Caratt.**: For 5 Des 1 Cos 5 Int -2 Sag -1 Car -2
 - **Punti Ferita**: 110,  **Difesa:** 19,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +6, Volontà +4}
+- **Tiri Salvez.**: Tempra +10, Riflessi +6, Volontà +4
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Gigante
 - **Sfida**: 5 (1800 PX)
@@ -31418,8 +32181,11 @@ Un Torciascura quando viene distrutto lascia a terra la sua torcia. Questa torci
 *Colpisce:* 8 (1d6 + 8) danni perforanti.
 
 **Ecologia**
-Ambiente: Montagne Fredde
-Organizzazione: Solitario o banda (2-4)
+
+| Ambiente: Montagne Fredde |
+| --- |
+| Organizzazione: Solitario o banda (2-4) |
+
 **Categoria Tesoro**: B
 **Descrizione**
 I troll possiedono artigli affilati ed incredibili capacità rigenerative che permettono loro di guarire quasi tutte le ferite. Sono gobbi, brutti ma fortissimi: combinata con i loro artigli, la loro forza gli permette di lacerare la carne a mani nude. I troll sono alti circa 3 metri, ma la loro postura li fa apparire più bassi. Un troll adulto pesa circa 500 kg.
@@ -31432,10 +32198,10 @@ E' universalmente conosciuto che i troll possono naturalmente mutare acquisendo 
 
 ## Uomo Acquatico
 - **Taglia/Tipo**: Media umanoide (uomo acquatico), neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 1 Int 0 Sag 0 Car 1}
+- **Caratt.**: For 0 Des 1 Cos 1 Int 0 Sag 0 Car 1
 - **Punti Ferita**: 17,  **Difesa:** 13,  **Iniziativa:** +1
 - **Movimento**: 3 m, nuoto 12 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Comp.**: Consapevolezza +2
 - **Linguaggi**: Aquan, Comune
 - **Sfida**: 1/8 (25 PX)
@@ -31447,18 +32213,21 @@ E' universalmente conosciuto che i troll possono naturalmente mutare acquisendo 
 *Colpisce:* 3 (1d6) danni perforanti, o 4 (1d8) danni perforanti se usata con due mani per effettuare un attacco da mischia.
 
 **Ecologia**
-Ambiente: Oceani temperati
-Organizzazione: Solitario, pattuglia (2-6), banda (6-10 più un tenete di 3° livello, compagnia (11-60 più 3 tenenti di 3° livello, 2 comandanti di 5° livello, 1 commodoro di 7° livello e 3-12 Calamari
+
+| Ambiente: Oceani temperati |
+| --- |
+| Organizzazione: Solitario, pattuglia (2-6), banda (6-10 più un tenete di 3° livello, compagnia (11-60 più 3 tenenti di 3° livello, 2 comandanti di 5° livello, 1 commodoro di 7° livello e 3-12 Calamari |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Tridente, Balestra Leggera con 10 Quadrelli, N)
 **Descrizione**
 Fisicamente, gli Uomini Pesce somigliano ai loro antenati, con fronti espressive, pelle pallida, capelli scuri e occhi porpora. Hanno tre sottili branchie sul collo, ma possono passare per Umani per brevi periodi, se lo desiderano.
 
 ## Uomo Albero (Arborom)
 - **Taglia/Tipo**: Enorme pianta, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des -1 Cos 5 Int 1 Sag 3 Car 1}
+- **Caratt.**: For 6 Des -1 Cos 5 Int 1 Sag 3 Car 1
 - **Punti Ferita**: 186,  **Difesa:** 23,  **Iniziativa:** +1
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +14, Riflessi +8, Volontà +12
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +14, Riflessi +8, Volontà +12
 - **Res. Danni**: contundente, perforante
 - **Linguaggi**: Comune, Druidico, Elfico, Silvano
 - **Sfida**: 9 (5000 PX)
@@ -31482,8 +32251,11 @@ Fisicamente, gli Uomini Pesce somigliano ai loro antenati, con fronti espressive
 ***Animare Alberi (1/Giorno).*** L'uomo albero anima magicamente uno o due alberi visibili entro 18 metri da lui. Questi alberi hanno le stesse statistiche dell'Arborom, eccetto che hanno punteggio di Intelligenza e Carisma -3, non possono parlare, e hanno solo l'opzione di attacco Schianto. Un albero animato agisce come alleato dell'uomo albero. L'albero resta per 1 giorno o finché muore; finché l'uomo albero muore o si trova più di 36 metri lontano dall'albero, o finché l'uomo albero non effettua una Reazione per ritrasformarlo in un albero inanimato. Poi l'albero prenderà radici, se possibile.
 
 **Ecologia**
-Ambiente: Qualsiasi foresta
-Organizzazione: Solitario o macchia (2-7)
+
+| Ambiente: Qualsiasi foresta |
+| --- |
+| Organizzazione: Solitario o macchia (2-7) |
+
 **Categoria Tesoro**: J
 **Descrizione**
 I Arborom sono guardiani delle foreste ed ambasciatori degli alberi. Antichi quanto le foreste stesse, si vedono come genitori e pastori piuttosto che giardinieri: sono lenti e metodici, ma terrificanti quando costretti a combattere per difendere il loro gregge. Anche se raramente cercano la compagnia delle razze dalla vita breve ed hanno un'innata sfiducia verso i cambiamenti, mostrano tolleranza verso chi desidera imparare dai loro lunghi, lenti monologhi, specialmente coloro nei cui occhi leggono il desiderio di proteggere le regioni selvagge. Contro coloro che minacciano le loro foreste, specialmente i boscaioli che raccolgono legna o coloro che vorrebbero disboscare una foresta per costruire una strada o un forte, la rabbia dei Arborom si scatena rapida e devastante. Sono in grado di demolire ciò che gli altri costruiscono: un tratto che li aiuta durante i loro eccessi di furia.
@@ -31498,10 +32270,10 @@ Gli Arborom si dice che siano creati per volere di Efrem.
 
 ## Uomo Magma
 - **Taglia/Tipo**: Piccola elementale, caotico
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 2 Cos 1 Int -1 Sag 0 Car 0}
+- **Caratt.**: For -2 Des 2 Cos 1 Int -1 Sag 0 Car 0
 - **Punti Ferita**: 24,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Res. Danni**: da arma non magica
 - **Imm. Danni**: Fuoco
 - **Sensi**: Scurovisione 18 m
@@ -31517,8 +32289,11 @@ Gli Arborom si dice che siano creati per volere di Efrem.
 *Colpisce:* 7 (2d6) danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, questi prende fuoco. Fino a che una creatura non usa un'Azione per estinguere la fiamma subisce 3 (1d6) danni da fuoco al termine di ciascun suo round.
 
 **Ecologia**
-Ambiente: Qualsiasi terreno (Piano del Fuoco)
-Organizzazione: Solitario o banda (2-8)
+
+| Ambiente: Qualsiasi terreno (Piano del Fuoco) |
+| --- |
+| Organizzazione: Solitario o banda (2-8) |
+
 **Categoria Tesoro**: L
 **Descrizione**
 Gli uomini di lava, noti come Ignim, abitano il Piano del Fuoco ma a volte scivolano nel Piano Materiale attraverso crepe elementali. Queste crepe si formano in luoghi di forte calore, come vulcani o fiumi sotterranei di magma, o in aree di intensa magia. Spesso, appiccano involontariamente fuoco agli oggetti infiammabili vicini.
@@ -31533,10 +32308,10 @@ Alla maturità, gli Ignim sono alti 1,2 metri e pesano 150 kg grazie alla loro d
 
 ## Unicorno
 - **Taglia/Tipo**: Grande celestiale, buono
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 2 Int 0 Sag 3 Car 3}
+- **Caratt.**: For 4 Des 2 Cos 2 Int 0 Sag 3 Car 3
 - **Punti Ferita**: 107,  **Difesa:** 20,  **Iniziativa:** +2
 - **Movimento**: 15 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +7, Volontà +8}
+- **Tiri Salvez.**: Tempra +7, Riflessi +7, Volontà +8
 - **Imm. Danni**: Veleno
 - **Immunità**: affascinato, paralizzato
 - **Sensi**: Scurovisione 18 m
@@ -31580,8 +32355,11 @@ L'unicorno può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. 
 **Zoccoli.** L'unicorno effettua un attacco con gli zoccoli.
 
 **Ecologia**
-Ambiente: Foreste Temperate
-Organizzazione: Solitario, coppia o benedizione (3-6)
+
+| Ambiente: Foreste Temperate |
+| --- |
+| Organizzazione: Solitario, coppia o benedizione (3-6) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Certo! Ecco un breve riassunto del testo sugli unicorni:
@@ -31592,10 +32370,10 @@ Il corno dell'unicorno è la fonte dei suoi poteri magici, e le creature malvagi
 
 ## Vampiro
 - **Taglia/Tipo**: Media non morto (mutaforma), malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 4 Cos 4 Int 3 Sag 2 Car 4}
+- **Caratt.**: For 4 Des 4 Cos 4 Int 3 Sag 2 Car 4
 - **Punti Ferita**: 259,  **Difesa:** 33,  **Iniziativa:** +4
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +17, Riflessi +17, Volontà +15
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +17, Riflessi +17, Volontà +15
 - **Comp.**: Furtività +9, Consapevolezza +17
 - **Imm. Danni**: da Vuoto; Veleno, da arma non magica
 - **Immunità**: affascinato, assordato, sanguinamento
@@ -31661,8 +32439,11 @@ Il vampiro può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. 
 **Muoversi.** Il vampiro si muove del suo movimento senza provocare attacchi di opportunità.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario o famiglia (vampiro più 2-8 Progenie)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario o famiglia (vampiro più 2-8 Progenie) |
+
 **Categoria Tesoro**: Equipaggiamento da PNG (Anello della Protezione +2, Fascia della Seduzione +4, Mantello della Resistenza +3)
 **Descrizione**
 I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi. Hanno un aspetto molto simile a quando erano in vita, diventando spesso più attraenti, sebbene alcuni appaiano invece duri e ferini.
@@ -31670,8 +32451,8 @@ I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi
 ## Progenie Vampirica
 - **Taglia/Tipo**: Media non morto, malvagio
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +9, Volontà +6}
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 3 Cos 3 Int 0 Sag 0 Car 1}
+- **Tiri Salvez.**: Tempra +9, Riflessi +9, Volontà +6
+- **Caratt.**: For 3 Des 3 Cos 3 Int 0 Sag 0 Car 1
 - **Punti Ferita**: 126,  **Difesa:** 23,  **Iniziativa:** +3
 - **Comp.**: Furtività +6
 - **Res. Danni**: da Vuoto; da arma non magica
@@ -31708,18 +32489,21 @@ I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi
 **Reazione: *Attacco d'opportunità***: la progenie vampirica effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario, coppia, gruppo (3-6) o turba (7-12)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6) o turba (7-12) |
+
 **Categoria Tesoro**: M
 **Descrizione**
 Un Vampiro può decidere di creare da una vittima una progenie vampirica anziché farne un vampiro completo solo quando usa la sua capacità creare progenie su una creatura umanoide. Questa decisione deve essere presa appena un vampiro uccide una creatura appropriata usando il morso.
 
 ## Vermi delle carne
 - **Taglia/Tipo**: minuscola mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 0 Cos -2 Int -4 Sag 0 Car -4}
+- **Caratt.**: For -4 Des 0 Cos -2 Int -4 Sag 0 Car -4
 - **Punti Ferita**: 32,  **Difesa:** 13,  **Iniziativa:** +0
 - **Movimento**: 1 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Sensi**: vista tellurica 3 m
 - **Sfida**: 1 (200 PX)
 
@@ -31730,18 +32514,21 @@ Un Vampiro può decidere di creare da una vittima una progenie vampirica anzich�
 ***Debellare i Vermi della carne.*** L'unico modo è usare una fiamma viva (una torcia causa 1d6 di danno ad applicazione od un incantesimo tipo Onda rovente) sulla parte dove i vermi stanno scavando. Ogni applicazione di fuoco può eliminare 3d6 vermi. Una prova di Pronto Soccorso a DC 15 rimuove 1d4 parassiti ma causa 1d4 danni nell'estrazione. Passati i 2d4 round i vermi sono troppo in profondità ed è inutile applicare il fuoco, solo un incantesimo di Cura Malattie, o Guarigione, può debellare completamente l'infestazione.
 
 **Ecologia**
-Ambiente: alberi marci, carne putrefatta
-Organizzazione: gruppi 3d6
+
+| Ambiente: alberi marci, carne putrefatta |
+| --- |
+| Organizzazione: gruppi 3d6 |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 I vermi della carne sono tra i più temuti parassiti dagli avventurieri. Si trovano nei cumuli umidi di foglie o tronchi marci, nei cadaveri in putrefazione, nell acque torbide. Pallidi, viscidi, dotati di affilatissimi denti, lunghi poco più di 4 millimetri penetrano nella carne esposta in maniera facilissima e percepiscono il battito del cuore dove si dirigono. Mentre scavano nelle carni si possono percepire ed anche vedere strisciare sottopelle.
 
 ## Verme Purpureo
 - **Taglia/Tipo**: Mastodontica mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 9 Des -2 Cos 6 Int -5 Sag -1 Car -3}
+- **Caratt.**: For 9 Des -2 Cos 6 Int -5 Sag -1 Car -3
 - **Punti Ferita**: 303,  **Difesa:** 30,  **Iniziativa:** -2
 - **Movimento**: 15 m, scavo 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +21, Riflessi +13, Volontà +14
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +21, Riflessi +13, Volontà +14
 - **Sensi**: Vista Cieca 9 m, senso tellurico 18 m
 - **Sfida**: 15 (13000 PX)
 
@@ -31764,8 +32551,11 @@ Se il verme subisce 30 o più danni in un singolo round da una creatura al suo i
 *Colpisce:* 30 (8d6 + 9) danni contundenti ed afferrato. Ad ogni round la creatura subisce 15 di danno da stritolamento, TS Tempra DC 24 per liberarsi.
 
 **Ecologia**
-Ambiente: Qualsiasi sotterraneo
-Organizzazione: Solitario
+
+| Ambiente: Qualsiasi sotterraneo |
+| --- |
+| Organizzazione: Solitario |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 I vermi purpurei sono giganteschi necrofagi che abitano nelle regioni più profonde del mondo, mangiando qualsiasi materiale organico incontrino. Sono noti per inghiottire le loro prede intere. Non è insolito sentire di un gruppo di avventurieri scomparso all'interno delle fameliche fauci di un verme purpureo, gridando di terrore mentre i suoi membri sparivano uno alla volta.
@@ -31776,10 +32566,10 @@ Un verme purpureo generalmente reclama una grande caverna sotterranea come sua t
 
 ## Verme Strisciante Tentacolato
 - **Taglia/Tipo**: Grande mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 1 Cos 3 Int -4 Sag 1 Car -3}
+- **Caratt.**: For 4 Des 1 Cos 3 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 89,  **Difesa:** 18,  **Iniziativa:** +1
 - **Movimento**: 9 m, scalare 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +5, Volontà +5}
+- **Tiri Salvez.**: Tempra +7, Riflessi +5, Volontà +5
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 4 (1000 PX)
 
@@ -31796,8 +32586,11 @@ Un verme purpureo generalmente reclama una grande caverna sotterranea come sua t
 *Colpisce:* 1 danno contundente. Il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 18 o rimanere paralizzato fino alla fine del round successivo.
 
 **Ecologia**
-Ambiente: Qualsiasi sotterraneo
-Organizzazione: Solitario, paio, tribù (8-12 +3d6 piccoli)
+
+| Ambiente: Qualsiasi sotterraneo |
+| --- |
+| Organizzazione: Solitario, paio, tribù (8-12 +3d6 piccoli) |
+
 **Categoria Tesoro**: Accidentale
 **Descrizione**
 Un tipico Verme Strisciante Tentacolato è un anellide lungo quasi 3 metri e pesa sui 400 kilogrammi. Di colore scuro (di varie gradazioni dal blu al verde al marrone) è un largo verme dotato di una possente bocca e lunghi e leggeri tentacoli lungo tutta la testa.
@@ -31810,10 +32603,10 @@ Le origini dei Vermi Striscianti Tentacolato sono piuttosto speculative, alcuni 
 
 ## Viverna
 - **Taglia/Tipo**: Grande drago, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 3 Int -3 Sag 1 Car -2}
+- **Caratt.**: For 4 Des 0 Cos 3 Int -3 Sag 1 Car -2
 - **Punti Ferita**: 126,  **Difesa:** 20,  **Iniziativa:** +0
 - **Movimento**: 6 m, volo 24 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +9, Riflessi +6, Volontà +7}
+- **Tiri Salvez.**: Tempra +9, Riflessi +6, Volontà +7
 - **Sensi**: Scurovisione 18 m
 - **Sfida**: 6 (2300 PX)
 
@@ -31836,8 +32629,11 @@ Le origini dei Vermi Striscianti Tentacolato sono piuttosto speculative, alcuni 
 ***Arrabbiato:*** la Viverna punta la coda in direzione del nemico e genera un cono di 3 metri di veleno. E' possibile eseguire un Tiro Salvezza su Riflessi DC 21 per dimezzare i 7d8 di danno da veleno.
 
 **Ecologia**
-Ambiente: Colline temperate o calde
-Organizzazione: Solitario, coppia o stormo (3-6)
+
+| Ambiente: Colline temperate o calde |
+| --- |
+| Organizzazione: Solitario, coppia o stormo (3-6) |
+
 **Categoria Tesoro**: D
 **Descrizione**
 Le viverne sono rettili brutali e violenti imparentati con i draghi. Sono sempre aggressive ed impazienti e preferiscono raggiungere i loro scopi utilizzando la forza. Per questa ragione, i draghi guardano alle viverne con superiorità, considerando questi loro lontani parenti come selvaggi primitivi privi di stile ed intelligenza.
@@ -31852,10 +32648,10 @@ Una viverna è lunga circa 4,8 metri e la coda rappresenta da sola circa metà d
 
 ## Wight
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 3 Int 0 Sag 1 Car 2}
+- **Caratt.**: For 2 Des 2 Cos 3 Int 0 Sag 1 Car 2
 - **Punti Ferita**: 70,  **Difesa:** 18,  **Iniziativa:** +2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +5, Volontà +4}
+- **Tiri Salvez.**: Tempra +6, Riflessi +5, Volontà +4
 - **Comp.**: Furtività +4, Consapevolezza +3
 - **Res. Danni**: da Vuoto; da arma non magica o che non sia argentata
 - **Imm. Danni**: Veleno
@@ -31885,8 +32681,11 @@ Un umanoide ucciso da questo attacco si rianima 24 ore più tardi come zombi sot
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
 **Ecologia**
-Ambiente: qualsiasi
-Organizzazione: Solitario, coppia, gruppo (3-6) o branco (7-12)
+
+| Ambiente: qualsiasi |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6) o branco (7-12) |
+
 **Categoria Tesoro**: Q
 **Descrizione**
 I wight sono umanoidi risorti come non morti a causa della necromanzia, di una morte violenta o di una personalità estremamente malevola. In alcuni casi, un wight sorge quando uno spirito non morto si lega permanentemente ad un cadavere, spesso quello di un guerriero. Sono appena riconoscibili da chi li conosceva in vita: le loro carni sono corrotte dalla malvagità e dalla non morte, gli occhi ardono d'odio ed i denti divengono quelli di una bestia. In un certo senso, un wight è l'anello di congiunzione tra ghoul e spettri: un cadavere deforme che risucchia energia vitale col tocco.
@@ -31895,10 +32694,10 @@ Essendo non morti, i wight non hanno bisogno di respirare, così a volte si poss
 
 ## Wraith
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 3 Cos 3 Int 1 Sag 2 Car 2}
+- **Caratt.**: For -2 Des 3 Cos 3 Int 1 Sag 2 Car 2
 - **Punti Ferita**: 108,  **Difesa:** 21,  **Iniziativa:** +3
 - **Movimento**: 0 m, volo 18 m, Fluttuare
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +8, Volontà +7}
+- **Tiri Salvez.**: Tempra +8, Riflessi +8, Volontà +7
 - **Res. Danni**: Acido, Freddo, Elettricità, Fuoco, Suono; da arma non magica o che non sia argentata
 - **Imm. Danni**: da Vuoto, Veleno
 - **Immunità**: affascinato, afferrato, intralciato, paralizzato, pietrificato, prono, affaticato, sanguinamento
@@ -31923,18 +32722,21 @@ Essendo non morti, i wight non hanno bisogno di respirare, così a volte si poss
 ***Arrabbiato:*** il Wraith canalizza le sue energie negative in una esplosione di Vuoto attorno a se nel raggio di 6 metri. Tutte le creature devono effettuare un Tiro Salvezza su Tempra DC 16 o subito 3d6 di danno da Vuoto, se il Tiro Salvezza riesce sono Rallentate 1/3r.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Solitario, coppia, gruppo (3-6) o branco (7-12)
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Solitario, coppia, gruppo (3-6) o branco (7-12) |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le creature viventi, avendo perduto la maggior parte del legame con la loro vita precedente.
 
 ## Xorn
 - **Taglia/Tipo**: Media elementale, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 6 Int 0 Sag 0 Car 0}
+- **Caratt.**: For 3 Des 0 Cos 6 Int 0 Sag 0 Car 0
 - **Punti Ferita**: 111,  **Difesa:** 18,  **Iniziativa:** +0
 - **Movimento**: 6 m, scavo 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +11, Riflessi +5, Volontà +5}
+- **Tiri Salvez.**: Tempra +11, Riflessi +5, Volontà +5
 - **Comp.**: Furtività +3, Consapevolezza +6
 - **Res. Danni**: perforante e tagliente di armi non magiche o che non siano di adamantio
 - **Sensi**: Scurovisione 18 m, senso tellurico 18 m
@@ -31960,8 +32762,11 @@ I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le cr
 ***Arrabbiato:*** lo Xorn erutta le ultime gemme e pepite mangiate. In un cono di 6 metri tutte le creature devono fare un Tiro Salvezza su Riflessi DC 18 per dimezzare il danno, 3d8 contundente, delle gemme e minerali scagliati (che però non hanno più valore).
 
 **Ecologia**
-Ambiente: Qualsiasi (Piano della Terra)
-Organizzazione: Solitario, coppia o gruppo (3-6)
+
+| Ambiente: Qualsiasi (Piano della Terra) |
+| --- |
+| Organizzazione: Solitario, coppia o gruppo (3-6) |
+
 **Categoria Tesoro**: solo metalli preziosi, gemme e gioielli e gemme magiche
 **Descrizione**
 Strane creature larghe quanto alte, gli xorn hanno poco interesse verso i nativi del Piano Materiale, non fosse per le gemme ed i metalli preziosi che potrebbero avere con sé. Nascosti sotto la superficie del terreno per un tempo che ad un umano potrebbe sembrare lunghissimo, uno xorn può attendere mesi, perfino anni, per la preda ideale, per poi assalire chi porta con sé il suo cibo preferito, come una gemma particolare o un determinato tipo di argento. Gli avventurieri che si addentrano nelle regioni abitate dagli xorn portano spesso con sé piccole pepite di minerali o gemme e cristalli di scarso valore da utilizzare come tributo. Anche se il suo valore è solitamente direttamente proporzionale al suo sapore e all'appetibilità che esso può avere, la maggior parte degli xorn è piuttosto ingorda, e preferisce la quantità alla qualità.
@@ -31972,10 +32777,10 @@ Gli xorn non sono molto religiosi, ma quelli fra loro che trovano la fede sono s
 
 ## Zombi
 - **Taglia/Tipo**: Media non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des -2 Cos 3 Int -4 Sag -2 Car -3}
+- **Caratt.**: For 1 Des -2 Cos 3 Int -4 Sag -2 Car -3
 - **Punti Ferita**: 19,  **Difesa:** 10,  **Iniziativa:** -2
 - **Movimento**: 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Imm. Danni**: Veleno
 - **Immunità**: sanguinamento
 - **Sensi**: Scurovisione 18 m
@@ -31993,8 +32798,11 @@ Gli xorn non sono molto religiosi, ma quelli fra loro che trovano la fede sono s
 *Colpisce:* 4 (1d6 + 1) danni contundenti.
 
 **Ecologia**
-Ambiente: Qualsiasi
-Organizzazione: Qualsiasi
+
+| Ambiente: Qualsiasi |
+| --- |
+| Organizzazione: Qualsiasi |
+
 **Categoria Tesoro**: Nessuno
 **Descrizione**
 Gli zombi sono i cadaveri animati di creature morte, costretti a muoversi da magie necromantiche come Animare Morti. Anche se gli zombi incontrati di norma sono lenti e robusti, altri possiedono tratti differenti, che permettono loro di diffondere una malattia o di muoversi più rapidi.
@@ -32005,10 +32813,10 @@ Sebbene siano in grado di seguire gli ordini, gli zombi vengono spesso lasciati 
 
 ## Zombi Ogre
 - **Taglia/Tipo**: Grande non morto, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des -2 Cos 4 Int -4 Sag -2 Car -3}
+- **Caratt.**: For 4 Des -2 Cos 4 Int -4 Sag -2 Car -3
 - **Punti Ferita**: 52,  **Difesa:** 12,  **Iniziativa:** -2
 - **Movimento**: 9 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +6, Riflessi +3, Volontà +3
 - **Imm. Danni**: Veleno
 - **Immunità**: sanguinamento
 - **Sensi**: Scurovisione 18 m
@@ -32032,10 +32840,10 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Albero Risvegliato
 - **Taglia/Tipo**: Enorme pianta, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des -2 Cos 2 Int 0 Sag 0 Car -2}
+- **Caratt.**: For 4 Des -2 Cos 2 Int 0 Sag 0 Car -2
   - **Punti Ferita**: 51,  **Difesa:** 12,  **Iniziativa:** +0
 - **Movimento**: 6 m
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +3
 - **Vul. al Danno**: Fuoco
 - **Res. al Danno**: contundente, perforante
 - **Comp.**: Storia +2
@@ -32051,9 +32859,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Alce
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 1 Int -4 Sag 0 Car -2}
+- **Caratt.**: For 3 Des 0 Cos 1 Int -4 Sag 0 Car -2
 - **Punti Ferita**: 19,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 15 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32069,8 +32877,8 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Alce Gigante
 - **Taglia/Tipo**: Enorme bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 3 Cos 2 Int -2 Sag 2 Car 0}
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +5, Volontà +4}
+- **Caratt.**: For 4 Des 3 Cos 2 Int -2 Sag 2 Car 0
+- **Tiri Salvez.**: Tempra +4, Riflessi +5, Volontà +4
 - **Punti Ferita**: 51,  **Difesa:** 17,  **Iniziativa:** +3
 - **Movimento**: 18 m
 - **Sfida**: 2 (450 PX)
@@ -32087,8 +32895,8 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Aquila
 - **Taglia/Tipo**: Piccola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 2 Cos 0 Int -4 Sag 2 Car -2}
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Caratt.**: For -2 Des 2 Cos 0 Int -4 Sag 2 Car -2
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Punti Ferita**: 15,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 3 m, volo 18 m
 - **Sfida**: 0 (10 PX)
@@ -32101,8 +32909,8 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Aquila Gigante
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 3 Cos 1 Int -1 Sag 2 Car 0}
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Caratt.**: For 3 Des 3 Cos 1 Int -1 Sag 2 Car 0
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Punti Ferita**: 33,  **Difesa:** 16,  **Iniziativa:** +3
 - **Movimento**: 3 m, volo 24 m
 - **Linguaggi**: Aquila Gigante, comprende il Comune e l'Ictun ma non può parlarli
@@ -32122,9 +32930,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Avvoltoio
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 0 Cos 1 Int -4 Sag 1 Car -3}
+- **Caratt.**: For -2 Des 0 Cos 1 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 15,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m, volo 15 m
 - **Sfida**: 0 (10 PX)
 
@@ -32138,9 +32946,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Avvoltoio Gigante
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 0 Cos 2 Int -2 Sag 1 Car -2}
+- **Caratt.**: For 2 Des 0 Cos 2 Int -2 Sag 1 Car -2
 - **Punti Ferita**: 15,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m, volo 18 m
 - **Sfida**: 0 (10 PX)
 
@@ -32160,9 +32968,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Babbuino
 - **Taglia/Tipo**: Piccola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 2 Cos 0 Int -3 Sag 1 Car -2}
+- **Caratt.**: For -1 Des 2 Cos 0 Int -3 Sag 1 Car -2
 - **Punti Ferita**: 15,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m
 - **Sfida**: 0 (10 PX)
 
@@ -32174,9 +32982,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Balena Assassina (Orca)
 - **Taglia/Tipo**: Enorme bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 1 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 4 Des 0 Cos 1 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 69,  **Difesa:** 16,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +4}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +4
 - **Movimento**: 0 m, nuoto 18 m
 - **Sfida**: 3 (700 PX)
 
@@ -32192,9 +33000,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Becco d'Ascia
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 1 Int -4 Sag 0 Car -3}
+- **Caratt.**: For 2 Des 1 Cos 1 Int -4 Sag 0 Car -3
 - **Punti Ferita**: 19,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 15 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32204,9 +33012,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Cane della Morte
 - **Taglia/Tipo**: Media mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 2 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 2 Des 2 Cos 2 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1 (200 PX)
 
@@ -32220,10 +33028,10 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Cane Intermittente
 - **Taglia/Tipo**: Media mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 3 Cos 1 Int 0 Sag 1 Car 0}
+- **Caratt.**: For 1 Des 3 Cos 1 Int 0 Sag 1 Car 0
 - **Punti Ferita**: 19,  **Difesa:** 15,  **Iniziativa:** +3
 - **Vul. al Danno**: ferro freddo
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32237,9 +33045,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Caprone
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 0 Cos 0 Int -4 Sag 0 Car -3}
+- **Caratt.**: For 1 Des 0 Cos 0 Int -4 Sag 0 Car -3
 - **Punti Ferita**: 15,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Sfida**: 0 (10 PX)
 
@@ -32253,9 +33061,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Caprone Gigante
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 1 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 3 Des 0 Cos 1 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 24,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -32269,9 +33077,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Cavallo Marino Gigante
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 2 Cos 0 Int -4 Sag 1 Car -3}
+- **Caratt.**: For 1 Des 2 Cos 0 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 24,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 0 m, nuoto 12 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -32285,9 +33093,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Cervo
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 3 Cos 0 Int -4 Sag 2 Car -3}
+- **Caratt.**: For 0 Des 3 Cos 0 Int -4 Sag 2 Car -3
 - **Punti Ferita**: 15,  **Difesa:** 15,  **Iniziativa:** +3
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 0 (10 PX)
 
@@ -32297,9 +33105,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Cinghiale
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 0 Cos 1 Int -4 Sag -1 Car -3}
+- **Caratt.**: For 1 Des 0 Cos 1 Int -4 Sag -1 Car -3
 - **Punti Ferita**: 19,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32313,9 +33121,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Cinghiale Gigante
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 3 Int -4 Sag -2 Car -3}
+- **Caratt.**: For 3 Des 0 Cos 3 Int -4 Sag -2 Car -3
 - **Punti Ferita**: 52,  **Difesa:** 14,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 2 (450 PX)
 
@@ -32329,9 +33137,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Coccodrillo
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 0 Cos 1 Int -4 Sag 0 Car -3}
+- **Caratt.**: For 2 Des 0 Cos 1 Int -4 Sag 0 Car -3
 - **Punti Ferita**: 24,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m, nuoto 9 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -32343,9 +33151,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Coccodrillo Gigante
 - **Taglia/Tipo**: Enorme bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des -1 Cos 3 Int -4 Sag 0 Car -2}
+- **Caratt.**: For 5 Des -1 Cos 3 Int -4 Sag 0 Car -2
 - **Punti Ferita**: 108,  **Difesa:** 17,  **Iniziativa:** -1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +4, Volontà +5}
+- **Tiri Salvez.**: Tempra +8, Riflessi +4, Volontà +5
 - **Movimento**: 9 m, nuoto 15 m
 - **Sfida**: 5 (1800 PX)
 
@@ -32363,9 +33171,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Corvo
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 2 Cos -1 Int -4 Sag 1 Car -2}
+- **Caratt.**: For -4 Des 2 Cos -1 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 15,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m, volo 15 m
 - **Sfida**: 0(10 PX)
 
@@ -32377,9 +33185,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Donnola Gigante
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 3 Cos 0 Int -3 Sag 1 Car -3}
+- **Caratt.**: For 0 Des 3 Cos 0 Int -3 Sag 1 Car -3
 - **Punti Ferita**: 17,  **Difesa:** 15,  **Iniziativa:** +3
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1/8 (25 PX)
 
@@ -32391,9 +33199,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Elefante
 - **Taglia/Tipo**: Enorme bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des -1 Cos 3 Int -4 Sag 0 Car -2}
+- **Caratt.**: For 6 Des -1 Cos 3 Int -4 Sag 0 Car -2
 - **Punti Ferita**: 89,  **Difesa:** 16,  **Iniziativa:** -1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +7, Riflessi +3, Volontà +4}
+- **Tiri Salvez.**: Tempra +7, Riflessi +3, Volontà +4
 - **Movimento**: 12 m
 - **Sfida**: 4 (1000 PX)
 
@@ -32409,9 +33217,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Falco
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 3 Cos -1 Int -4 Sag 2 Car -2}
+- **Caratt.**: For -3 Des 3 Cos -1 Int -4 Sag 2 Car -2
 - **Punti Ferita**: 15,  **Difesa:** 15,  **Iniziativa:** +3
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m, volo 18 m
 - **Sfida**: 0(10 PX)
 
@@ -32423,9 +33231,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Falco di Sangue
 - **Taglia/Tipo**: Piccola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 2 Cos 0 Int -4 Sag 2 Car -3}
+- **Caratt.**: For -2 Des 2 Cos 0 Int -4 Sag 2 Car -3
 - **Punti Ferita**: 17,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m, volo 18 m
 - **Sfida**: 1/8 (25 PX)
 
@@ -32439,9 +33247,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Pirana
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 3 Cos -1 Int -5 Sag -2 Car -4}
+- **Caratt.**: For -4 Des 3 Cos -1 Int -5 Sag -2 Car -4
 - **Punti Ferita**: 15,  **Difesa:** 15,  **Iniziativa:** +3
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 0 m, nuoto 12 m
 - **Sfida**: 0(10 PX)
 
@@ -32455,9 +33263,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Gatto
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 2 Cos 0 Int -4 Sag 1 Car -2}
+- **Caratt.**: For -4 Des 2 Cos 0 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 15,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m, scalata 9 m
 - **Sfida**: 0(10 PX)
 
@@ -32469,9 +33277,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Granchio Gigante
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 2 Cos 0 Int -5 Sag -1 Car -4}
+- **Caratt.**: For 1 Des 2 Cos 0 Int -5 Sag -1 Car -4
 - **Punti Ferita**: 17,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m, nuoto 9 m
 - **Sfida**: 1/8 (25 PX)
 
@@ -32483,9 +33291,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Gufo
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 1 Cos -1 Int -4 Sag 1 Car -2}
+- **Caratt.**: For -4 Des 1 Cos -1 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 15,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 1 m, volo 18 m
 - **Sfida**: 0(10 PX)
 
@@ -32499,9 +33307,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Gufo Gigante
 - **Taglia/Tipo**: Grande bestia, neutrale
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 2 Cos 1 Int -1 Sag 1 Car 0}
+- **Caratt.**: For 1 Des 2 Cos 1 Int -1 Sag 1 Car 0
 - **Punti Ferita**: 19,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 1 m, volo 18 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32515,9 +33323,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Iena
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 1 Int -4 Sag 1 Car -3}
+- **Caratt.**: For 0 Des 1 Cos 1 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 15,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 15 m
 - **Sfida**: 0(10 PX)
 
@@ -32529,9 +33337,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Iena Gigante
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 2 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 3 Des 2 Cos 2 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 15 m
 - **Sfida**: 1 (200 PX)
 
@@ -32543,9 +33351,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Leone
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 1 Int -4 Sag 1 Car -1}
+- **Caratt.**: For 3 Des 2 Cos 1 Int -4 Sag 1 Car -1
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 15 m
 - **Sfida**: 1 (200 PX)
 
@@ -32567,9 +33375,9 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ## Lucertola Gigante
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 1 Int -4 Sag 0 Car -3}
+- **Caratt.**: For 2 Des 1 Cos 1 Int -4 Sag 0 Car -3
 - **Punti Ferita**: 19,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m, scalata 9 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32587,9 +33395,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Lupo
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 2 Cos 1 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 1 Des 2 Cos 1 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 19,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32603,9 +33411,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Dinolupo (Metalupo)
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 2 Int -2 Sag 1 Car -2}
+- **Caratt.**: For 3 Des 2 Cos 2 Int -2 Sag 1 Car -2
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 15 m
 - **Sfida**: 1 (200 PX)
 
@@ -32619,9 +33427,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Lupo Invernale
 - **Taglia/Tipo**: Grande mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 1 Cos 2 Int -2 Sag 1 Car -1}
+- **Caratt.**: For 4 Des 1 Cos 2 Int -2 Sag 1 Car -1
 - **Punti Ferita**: 70,  **Difesa:** 17,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +4}
+- **Tiri Salvez.**: Tempra +5, Riflessi +4, Volontà +4
 - **Movimento**: 15 m
 - **Sfida**: 3 (700 PX)
 
@@ -32639,9 +33447,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Mammut
 - **Taglia/Tipo**: Enorme bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 7 Des -1 Cos 5 Int -4 Sag 0 Car -2}
+- **Caratt.**: For 7 Des -1 Cos 5 Int -4 Sag 0 Car -2
 - **Punti Ferita**: 129,  **Difesa:** 19,  **Iniziativa:** -1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +11, Riflessi +5, Volontà +6}
+- **Tiri Salvez.**: Tempra +11, Riflessi +5, Volontà +6
 - **Movimento**: 12 m
 - **Sfida**: 6 (2300 PX)
 
@@ -32657,9 +33465,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Mastino
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 2 Cos 1 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 1 Des 2 Cos 1 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 17,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1/8 (25 PX)
 
@@ -32671,9 +33479,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Orso Bruno
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 3 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 4 Des 0 Cos 3 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 33,  **Difesa:** 13,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +3
 - **Movimento**: 12 m, scalata 9 m
 - **Sfida**: 1 (200 PX)
 
@@ -32691,9 +33499,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Orso Nero
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 2 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 3 Des 0 Cos 2 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 24,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m, scalata 9 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -32711,9 +33519,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Orso Polare
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des 0 Cos 3 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 5 Des 0 Cos 3 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 52,  **Difesa:** 14,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Movimento**: 12 m, nuoto 9 m
 - **Sfida**: 2 (450 PX)
 
@@ -32731,9 +33539,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Orso Corazzato
 - **Taglia/Tipo**: Enorme bestia, corrotta da Cattalm
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 7 Des 2 Cos 4 Int 1 Sag 1 Car 1}
+- **Caratt.**: For 7 Des 2 Cos 4 Int 1 Sag 1 Car 1
 - **Punti Ferita**: 90,  **Difesa:** 19,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +8, Riflessi +6, Volontà +5}
+- **Tiri Salvez.**: Tempra +8, Riflessi +6, Volontà +5
 - **Movimento**: 12 m, nuoto 9 m
 - **Sfida**: 4 (450 PX)
 
@@ -32751,9 +33559,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Pantera
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 0 Int -4 Sag 2 Car -2}
+- **Caratt.**: For 2 Des 2 Cos 0 Int -4 Sag 2 Car -2
 - **Punti Ferita**: 19,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 15 m, scalata 12 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32771,9 +33579,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Ragno
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 (-5) Des 2 Cos -1 Int -5 Sag 0 Car -4}
+- **Caratt.**: For 2 (-5) Des 2 Cos -1 Int -5 Sag 0 Car -4
 - **Punti Ferita**: 15,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m, scalata 6 m
 - **Sfida**: 0(10 PX)
 
@@ -32789,9 +33597,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Ragno Fase
 - **Taglia/Tipo**: Grande mostruosità, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 1 Int -2 Sag 0 Car -2}
+- **Caratt.**: For 2 Des 2 Cos 1 Int -2 Sag 0 Car -2
 - **Punti Ferita**: 69,  **Difesa:** 18,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +5, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +5, Volontà +3
 - **Movimento**: 9 m, scalata 9 m
 - **Sfida**: 3 (700 PX)
 
@@ -32807,9 +33615,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Ragno Gigante
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 3 Cos 1 Int -4 Sag 0 Car -3}
+- **Caratt.**: For 2 Des 3 Cos 1 Int -4 Sag 0 Car -3
 - **Punti Ferita**: 33,  **Difesa:** 16,  **Iniziativa:** +3
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Movimento**: 9 m, scalata 9 m
 - **Sfida**: 1 (200 PX)
 
@@ -32831,9 +33639,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Ragno Lupo Gigante
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 3 Cos 1 Int -4 Sag 1 Car -3}
+- **Caratt.**: For 1 Des 3 Cos 1 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 19,  **Difesa:** 15,  **Iniziativa:** +3
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m, scalata 12 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32849,9 +33657,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ## Rana
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -5 Des 1 Cos -1 Int -5 Sag -1 Car -4}
+- **Caratt.**: For -5 Des 1 Cos -1 Int -5 Sag -1 Car -4
 - **Punti Ferita**: 15,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m, nuoto 6 m
 - **Sfida**: 0(0 PX)
 
@@ -32863,9 +33671,9 @@ Una **rana** è sprovvista di attacchi. Si nutre di piccoli insetti e di solito 
 
 ## Rana Gigante
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 1 Cos 0 Int -4 Sag 0 Car -4}
+- **Caratt.**: For 1 Des 1 Cos 0 Int -4 Sag 0 Car -4
 - **Punti Ferita**: 19,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m, nuoto 9 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32881,9 +33689,9 @@ Una **rana** è sprovvista di attacchi. Si nutre di piccoli insetti e di solito 
 
 ## Ratto
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 0 Cos -1 Int -4 Sag 0 Car -3}
+- **Caratt.**: For -4 Des 0 Cos -1 Int -4 Sag 0 Car -3
 - **Punti Ferita**: 15,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m
 - **Sfida**: 0(10 PX)
 
@@ -32895,9 +33703,9 @@ Una **rana** è sprovvista di attacchi. Si nutre di piccoli insetti e di solito 
 
 ## Ratto Gigante
 - **Taglia/Tipo**: Piccola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 2 Cos 0 Int -4 Sag 0 Car -3}
+- **Caratt.**: For -2 Des 2 Cos 0 Int -4 Sag 0 Car -3
 - **Punti Ferita**: 17,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Sfida**: 1/8 (25 PX)
 
@@ -32919,9 +33727,9 @@ Alcuni ratti giganti recano una terribile malattia che diffondono tramite il mor
 
 ## Rinoceronte
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 5 Des -1 Cos 2 Int -4 Sag 1 Car -2}
+- **Caratt.**: For 5 Des -1 Cos 2 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 51,  **Difesa:** 13,  **Iniziativa:** -1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 2 (450 PX)
 
@@ -32933,9 +33741,9 @@ Alcuni ratti giganti recano una terribile malattia che diffondono tramite il mor
 
 ## Rospo Gigante
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 1 Int -4 Sag 0 Car -4}
+- **Caratt.**: For 2 Des 1 Cos 1 Int -4 Sag 0 Car -4
 - **Punti Ferita**: 33,  **Difesa:** 14,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m, nuoto 12 m
 - **Sfida**: 1 (200 PX)
 
@@ -32955,9 +33763,9 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 
 ## Saurovallo da Galoppo
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 1 Int -3 Sag 0 Car -2}
+- **Caratt.**: For 3 Des 0 Cos 1 Int -3 Sag 0 Car -2
 - **Punti Ferita**: 19,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 18 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -32965,9 +33773,9 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 
 ## Saurovallo da Guerra
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 1 Cos 1 Int -2 Sag 1 Car -2}
+- **Caratt.**: For 4 Des 1 Cos 1 Int -2 Sag 1 Car -2
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 18 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -32993,9 +33801,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Saurovallo da Tiro
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 0 Cos 1 Int -3 Sag 0 Car -2}
+- **Caratt.**: For 4 Des 0 Cos 1 Int -3 Sag 0 Car -2
 - **Punti Ferita**: 19,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -33005,9 +33813,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Saurovallo nano
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 0 Cos 1 Int -3 Sag 0 Car -2}
+- **Caratt.**: For 2 Des 0 Cos 1 Int -3 Sag 0 Car -2
 - **Punti Ferita**: 17,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1/8 (25 PX)
 
@@ -33017,9 +33825,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Scarabeo di Fuoco Gigante
 - **Taglia/Tipo**: Piccola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 0 Cos 1 Int -5 Sag -2 Car -4}
+- **Caratt.**: For -1 Des 0 Cos 1 Int -5 Sag -2 Car -4
 - **Punti Ferita**: 15,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Sfida**: 0(10 PX)
 
@@ -33031,9 +33839,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Sciacallo
 - **Taglia/Tipo**: Piccola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 2 Cos 0 Int -4 Sag 1 Car -2}
+- **Caratt.**: For -1 Des 2 Cos 0 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 15,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 0 (10 PX)
 
@@ -33047,10 +33855,10 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Sciame di Centopiedi
 - **Taglia/Tipo**: Media sciame di Minuscole bestie, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 1 Cos 0 Int -5 Sag -2 Car -5}
+- **Caratt.**: For -4 Des 1 Cos 0 Int -5 Sag -2 Car -5
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Resistenze al danno**: contundente, perforante, tagliente
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m, scalata 6 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -33062,10 +33870,10 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Sciame di Corvi
 - **Taglia/Tipo**: Media sciame di Minuscole bestie, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -2 Des 2 Cos -1 Int -4 Sag 1 Car -2}
+- **Caratt.**: For -2 Des 2 Cos -1 Int -4 Sag 1 Car -2
 - **Punti Ferita**: 19,  **Difesa:** 14,  **Iniziativa:** +2
 - **Resistenze al danno**: contundente, perforante, tagliente
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m, volo 15 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -33077,10 +33885,10 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Sciame di Pirana
 - **Taglia/Tipo**: Media sciame di Minuscole bestie, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 3 Cos -1 Int -5 Sag -2 Car -4}
+- **Caratt.**: For 1 Des 3 Cos -1 Int -5 Sag -2 Car -4
 - **Punti Ferita**: 32,  **Difesa:** 16,  **Iniziativa:** +3
 - **Resistenze al danno**: contundente, perforante, tagliente
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Movimento**: 0 m, nuoto 12 m
 - **Sfida**: 1 (200 PX)
 
@@ -33096,10 +33904,10 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Sciame di Insetti
 - **Taglia/Tipo**: Media sciame di Minuscole bestie, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 1 Cos 0 Int -5 Sag -2 Car -5}
+- **Caratt.**: For -4 Des 1 Cos 0 Int -5 Sag -2 Car -5
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Resistenze al danno**: contundente, perforante, tagliente
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m, scalata 6 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -33111,10 +33919,10 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Sciame di Pipistrelli
 - **Taglia/Tipo**: Media sciame di Minuscole bestie, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 2 Cos 0 Int -4 Sag 1 Car -3}
+- **Caratt.**: For -3 Des 2 Cos 0 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 19,  **Difesa:** 14,  **Iniziativa:** +2
 - **Resistenze al danno**: contundente, perforante, tagliente
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 0 m, volo 9 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -33130,10 +33938,10 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Sciame di Ragni
 - **Taglia/Tipo**: Media sciame di Minuscole bestie, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 1 Cos 0 Int -5 Sag -2 Car -5}
+- **Caratt.**: For -4 Des 1 Cos 0 Int -5 Sag -2 Car -5
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
 - **Resistenze al danno**: contundente, perforante, tagliente
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m, scalata 6 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -33151,10 +33959,10 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Sciame di Ratti
 - **Taglia/Tipo**: Media sciame di Minuscole bestie, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 0 Cos -1 Int -4 Sag 0 Car -4}
+- **Caratt.**: For -1 Des 0 Cos -1 Int -4 Sag 0 Car -4
 - **Punti Ferita**: 19,  **Difesa:** 12,  **Iniziativa:** +0
 - **Resistenze al danno**: contundente, perforante, tagliente
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -33174,10 +33982,10 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Sciame di Serpenti Velenosi
 - **Taglia/Tipo**: Media sciame di Minuscole bestie, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 4 Cos 0 Int -5 Sag 0 Car -4}
+- **Caratt.**: For -1 Des 4 Cos 0 Int -5 Sag 0 Car -4
 - **Punti Ferita**: 19,  **Difesa:** 16,  **Iniziativa:** +4
 - **Resistenze al danno**: contundente, perforante, tagliente
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Movimento**: 9 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -33189,9 +33997,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Sciame di Vespe
 - **Taglia/Tipo**: Media sciame di Minuscole bestie, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 1 Cos 0 Int -5 Sag -2 Car -5}
+- **Caratt.**: For -1 Des 1 Cos 0 Int -5 Sag -2 Car -5
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 1m, volo 9 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -33203,10 +34011,10 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Scimmia
 - **Taglia/Tipo**: Piccola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 2 Cos 0 Int -3 Sag 1 Car -2}
+- **Caratt.**: For -3 Des 2 Cos 0 Int -3 Sag 1 Car -2
 - **Punti Ferita**: 19,  **Difesa:** 14,  **Iniziativa:** +2
 - **Comp.**: Acrobatica +6, Consapevolezza +3
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m, scalata 9 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -33220,9 +34028,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Scimmione
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 2 Int -2 Sag 1 Car -2}
+- **Caratt.**: For 3 Des 2 Cos 2 Int -2 Sag 1 Car -2
 - **Punti Ferita**: 24,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m, scalata 9 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -33238,9 +34046,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Scimmione Gigante
 - **Taglia/Tipo**: Enorme bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 2 Cos 4 Int -2 Sag 1 Car -2}
+- **Caratt.**: For 6 Des 2 Cos 4 Int -2 Sag 1 Car -2
 - **Punti Ferita**: 146,  **Difesa:** 23,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +11, Riflessi +9, Volontà +8}
+- **Tiri Salvez.**: Tempra +11, Riflessi +9, Volontà +8
 - **Movimento**: 12 m, scalata 12 m
 - **Sfida**: 7 (2900 PX)
 
@@ -33256,9 +34064,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Scorpione
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 0 Cos -1 Int -5 Sag -1 Car -4}
+- **Caratt.**: For -4 Des 0 Cos -1 Int -5 Sag -1 Car -4
 - **Punti Ferita**: 15,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m
 - **Sfida**: 0(10 PX)
 
@@ -33268,9 +34076,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Scorpione Gigante
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 2 Int -5 Sag -1 Car -4}
+- **Caratt.**: For 2 Des 1 Cos 2 Int -5 Sag -1 Car -4
 - **Punti Ferita**: 70,  **Difesa:** 17,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +4, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 3 (700 PX)
 
@@ -33286,9 +34094,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Serpente Costrittore
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 2 Cos 1 Int -5 Sag 0 Car -4}
+- **Caratt.**: For 2 Des 2 Cos 1 Int -5 Sag 0 Car -4
 - **Punti Ferita**: 19,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m, nuoto 9 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -33302,9 +34110,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Serpente Costrittore Gigante
 - **Taglia/Tipo**: Enorme bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 1 Int -5 Sag 0 Car -4}
+- **Caratt.**: For 4 Des 2 Cos 1 Int -5 Sag 0 Car -4
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Movimento**: 9 m, nuoto 9 m
 - **Sfida**: 2 (450 PX)
 
@@ -33318,9 +34126,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Serpente Velenoso
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -4 Des 3 Cos 0 Int -5 Sag 0 Car -4}
+- **Caratt.**: For -4 Des 3 Cos 0 Int -5 Sag 0 Car -4
 - **Punti Ferita**: 17,  **Difesa:** 15,  **Iniziativa:** +3
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m, nuoto 9 m
 - **Sfida**: 1/8 (25 PX)
 
@@ -33330,9 +34138,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Serpente Velenoso Gigante
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 4 Cos 1 Int -4 Sag 0 Car -4}
+- **Caratt.**: For 0 Des 4 Cos 1 Int -4 Sag 0 Car -4
 - **Punti Ferita**: 19,  **Difesa:** 16,  **Iniziativa:** +4
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Movimento**: 9 m, nuoto 9 m
 - **Sfida**: 1/4 (50 PX)
 
@@ -33342,9 +34150,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Serpente Volante
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 4 Cos 0 Int -4 Sag 1 Car -3}
+- **Caratt.**: For -3 Des 4 Cos 0 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 17,  **Difesa:** 16,  **Iniziativa:** +4
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +4, Volontà +3
 - **Movimento**: 9 m, nuoto 9 m, volo 18 m
 - **Sfida**: 1/8 (25 PX)
 
@@ -33356,9 +34164,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Squalo Cacciatore
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 1 Cos 2 Int -5 Sag 0 Car -3}
+- **Caratt.**: For 4 Des 1 Cos 2 Int -5 Sag 0 Car -3
 - **Punti Ferita**: 51,  **Difesa:** 15,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +3, Volontà +3
 - **Movimento**: 0 m, nuoto 12 m
 - **Sfida**: 2 (450 PX)
 
@@ -33372,9 +34180,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Squalo Corallino
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 1 Cos 1 Int -5 Sag 0 Car -3}
+- **Caratt.**: For 2 Des 1 Cos 1 Int -5 Sag 0 Car -3
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 0 m, nuoto 12 m
 - **Sfida**: 1/2 (100 PX)
 \
@@ -33389,9 +34197,9 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 ## Squalo Gigante
 - **Taglia/Tipo**: Enorme bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 6 Des 0 Cos 5 Int -5 Sag 0 Car -3}
+- **Caratt.**: For 6 Des 0 Cos 5 Int -5 Sag 0 Car -3
 - **Punti Ferita**: 110,  **Difesa:** 18,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +5, Volontà +5}
+- **Tiri Salvez.**: Tempra +10, Riflessi +5, Volontà +5
 - **Movimento**: 0 m, nuoto 15 m
 - **Sfida**: 5 (1800 PX)
 \
@@ -33408,9 +34216,9 @@ in mischia contro qualsiasi creatura che non sia al massimo dei Punti Ferita.
 
 ## Strige
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 3 Cos 0 Int -4 Sag -1 Car -2}
+- **Caratt.**: For -3 Des 3 Cos 0 Int -4 Sag -1 Car -2
 - **Punti Ferita**: 17,  **Difesa:** 15,  **Iniziativa:** +3
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m, volo 12 m
 - **Sfida**: 1/8 (25 PX)
 \
@@ -33423,9 +34231,9 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 
 ## Tasso
 - **Taglia/Tipo**: Minuscola bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -3 Des 0 Cos 1 Int -4 Sag 1 Car -3}
+- **Caratt.**: For -3 Des 0 Cos 1 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 15,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m, scavo 1 m
 - **Sfida**: 0(10 PX)
 \
@@ -33438,9 +34246,9 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 
 ## Tasso Gigante
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 0 Cos 2 Int -4 Sag 1 Car -3}
+- **Caratt.**: For 1 Des 0 Cos 2 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 19,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m, scavo 3 m
 - **Sfida**: 1/4 (50 PX)
 \
@@ -33459,9 +34267,9 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 
 ## Tigre
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 2 Cos 2 Int -4 Sag 1 Car -1}
+- **Caratt.**: For 3 Des 2 Cos 2 Int -4 Sag 1 Car -1
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1 (200 PX)
 \
@@ -33480,9 +34288,9 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 
 ## Tigre dai Denti a Sciabola
 - **Taglia/Tipo**: Grande bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 4 Des 2 Cos 2 Int -3 Sag 1 Car 0}
+- **Caratt.**: For 4 Des 2 Cos 2 Int -3 Sag 1 Car 0
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +4, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 2 (450 PX)
 \
@@ -33501,9 +34309,9 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 
 ## Vespa Gigante
 - **Taglia/Tipo**: Media bestia, disallineato
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 0 Int -5 Sag 0 Car -4}
+- **Caratt.**: For 0 Des 2 Cos 0 Int -5 Sag 0 Car -4
 - **Punti Ferita**: 24,  **Difesa:** 14,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m, volo 15 m
 - **Sfida**: 1/2 (100 PX)
 \
@@ -33514,9 +34322,9 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 
 ## Worg
 - **Taglia/Tipo**: Grande mostruosità, malvagio
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 1 Int -2 Sag 0 Car -1}
+- **Caratt.**: For 3 Des 1 Cos 1 Int -2 Sag 0 Car -1
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 15 m
 - **Sfida**: 1/2 (100 PX)
 \
@@ -33527,7 +34335,7 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 
 *Colpisce:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prona.
 
-## Appendice B: Personaggi Non Giocanti\rule 
+## Appendice B: Personaggi Non Giocanti 
 
 Questa appendice contiene le statistiche di vari personaggi non giocanti (PNG) umanoidi che gli avventurieri possono incontrare nel corso di una campagna, da infimi popolani a potenti arcimaghi. Queste statistiche possono essere utilizzate per rappresentare PNG umani e non.
 
@@ -33550,9 +34358,9 @@ I combattenti sono individui che si guadagnano da vivere mettendo la loro spada 
 
 ## Guardia
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 1 Cos 1 Int 0 Sag 0 Car 0}
+- **Caratt.**: For 1 Des 1 Cos 1 Int 0 Sag 0 Car 0
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Sfida**: 1/2 (100 PX)
 
@@ -33564,10 +34372,10 @@ Le guardie comprendono membri della ronda cittadina, sentinelle di una cittadell
 
 ## Veterano
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 2 Int 0 Sag 0 Car 0}
+- **Caratt.**: For 3 Des 1 Cos 2 Int 0 Sag 0 Car 0
 - **Punti Ferita**: 70,  **Difesa:** 17,  **Iniziativa:** +1
 - **Comp.**: Atletica +5
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +4, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +4, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: Comune
 - **Sfida**: 3 (700 PX)
@@ -33590,9 +34398,9 @@ Guerrieri sopravvissuti a lungo, guadagnandosi una grande fama di esperti e abil
 
 ## Cavaliere
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 0 Cos 2 Int 0 Sag 0 Car 2}
+- **Caratt.**: For 3 Des 0 Cos 2 Int 0 Sag 0 Car 2
 - **Punti Ferita**: 70,  **Difesa:** 16,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Sfida**: 3 (700 PX)
 
@@ -33614,17 +34422,15 @@ I cavalieri sono combattenti che giurano fedeltà a sovrani, ordini religiosi, e
 
 **Reazioni*Parata.*** Il cavaliere può aggiungere 2 alla sua Difesa contro un attacco da mischia che lo colpirebbe. Per farlo, il cavaliere deve vedere l'attaccante e star impugnando un'arma da mischia.
 
-\rule 
-
 In questa categoria rientrano quegli individui che si occupano di mandare avanti il mondo, svolgendo le mansioni necessarie affinché i campi vengano coltivati, le città amministrate, il cibo coltivato e
 nuovi territori esplorati.
 
 ## Nobile
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 0 Int 1 Sag 2 Car 3}
+- **Caratt.**: For 0 Des 1 Cos 0 Int 1 Sag 2 Car 3
 - **Punti Ferita**: 17,  **Difesa:** 13,  **Iniziativa:** +1
 - **Comp.**: Percepire Emozioni +4, Ingannare +5
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: due lingue qualsiasi
 - **Sfida**: 1/8 (25 PX)
@@ -33639,9 +34445,9 @@ I nobili comandano sulla popolazione, in virtù di un diritto di nascita o per l
 
 ## Popolano
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 0 Cos 0 Int 0 Sag 0 Car 0}
+- **Caratt.**: For 0 Des 0 Cos 0 Int 0 Sag 0 Car 0
 - **Punti Ferita**: 17,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: Comune
 - **Sfida**: 1/8 (25 PX)
@@ -33658,9 +34464,9 @@ I criminali sono individui che vivono al margine della legalità, procurandosi i
 
 ## Bandito/Pirata
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 1 Int 0 Sag 0 Car 0}
+- **Caratt.**: For 0 Des 1 Cos 1 Int 0 Sag 0 Car 0
 - **Punti Ferita**: 17,  **Difesa:** 13,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: Comune
 - **Sfida**: 1/8 (25 PX)
@@ -33677,9 +34483,9 @@ Che siano uomini di strada o di mare (pirati) costoro guadagnano da vivere depre
 
 ## Spia
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 0 Int 1 Sag 2 Car 3}
+- **Caratt.**: For 0 Des 2 Cos 0 Int 1 Sag 2 Car 3
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: due lingue qualsiasi
 - **Sfida**: 1 (200 PX)
@@ -33702,10 +34508,10 @@ Una spia è un individuo addestramento nel reperire segreti per conto di qualcun
 
 ## Capitano dei Banditi o Pirata
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 2 Des 3 Cos 2 Int 2 Sag 0 Car 2}
+- **Caratt.**: For 2 Des 3 Cos 2 Int 2 Sag 0 Car 2
 - **Punti Ferita**: 51,  **Difesa:** 17,  **Iniziativa:** +3
 - **Comp.**: Atletica +4, Ingannare +4
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +4, Riflessi +5, Volontà +3}
+- **Tiri Salvez.**: Tempra +4, Riflessi +5, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**:  due lingue qualsiasi
 - **Sfida**: 2 (450 PX)
@@ -33726,10 +34532,10 @@ Che viva in terra o in mare, è un individuo munito di una grande personalità c
 
 ## Assassino
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 3 Cos 2 Int 1 Sag 0 Car 0}
+- **Caratt.**: For 0 Des 3 Cos 2 Int 1 Sag 0 Car 0
 - **Punti Ferita**: 162,  **Difesa:** 25,  **Iniziativa:** +3
 - **Comp.**: Acrobazia +6, Furtività +9, Ingannare +3
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +10, Riflessi +11, Volontà +8}
+- **Tiri Salvez.**: Tempra +10, Riflessi +11, Volontà +8
 - **Movimento**: 9 m
 - **Linguaggi**: Comune più due altre lingue
 - **Sfida**: 8 (3900 PX)
@@ -33760,10 +34566,10 @@ Il mago trascorre la vita nello studio e la pratica della magia.
 
 ## Mago Avventuriero
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 2 Cos 0 Int 2 Sag 1 Car 0}
+- **Caratt.**: For -1 Des 2 Cos 0 Int 2 Sag 1 Car 0
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +3
 - **Comp.**: Arcana +5, Storia +5
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: quattro lingue qualsiasi
 - **Sfida**: 1 (200 PX)
@@ -33784,10 +34590,10 @@ livello 2 (3 slot): *Blocca Persona, Passo Velato*
 
 ## Grande Mago
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For -1 Des 2 Cos 0 Int 3 Sag 1 Car 0}
+- **Caratt.**: For -1 Des 2 Cos 0 Int 3 Sag 1 Car 0
 - **Punti Ferita**: 122,  **Difesa:** 22,  **Iniziativa:** +3
 - **Comp.**: Arcana +6, Storia +6
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +6, Riflessi +8, Volontà +7}
+- **Tiri Salvez.**: Tempra +6, Riflessi +8, Volontà +7
 - **Movimento**: 9 m
 - **Linguaggi**: quattro lingue qualsiasi
 - **Sfida**: 6 (2300 PX)
@@ -33816,10 +34622,10 @@ livello 5 (1 slot): *Cono di Freddo*
 
 ## Arcimago
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 1 Int 5 Sag 2 Car 3}
+- **Caratt.**: For 0 Des 2 Cos 1 Int 5 Sag 2 Car 3
 - **Punti Ferita**: 233,  **Difesa:** 30,  **Iniziativa:** +5
 - **Comp.**: Arcana +13, Storia +13
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Tempra +13, Riflessi +14, Volontà +14
+- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm{!}{Tempra +13, Riflessi +14, Volontà +14
 - **Movimento**: 9 m
 - **Linguaggi**: sei lingue qualsiasi
 - **Sfida**: 12 (8400 PX)
@@ -33864,10 +34670,10 @@ I sacerdoti sono devoti di una divinità o una fede che si prendono cura di impa
 
 ## Cultista
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 0 Int 0 Sag 0 Car 0}
+- **Caratt.**: For 0 Des 1 Cos 0 Int 0 Sag 0 Car 0
 - **Punti Ferita**: 17,  **Difesa:** 13,  **Iniziativa:** +1
 - **Comp.**: Ingannare +2, Religione +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: Comune
 - **Sfida**: 1/8 (25 PX)
@@ -33882,10 +34688,10 @@ I cultisti giurano fedeltà ai poteri oscuri, e nelle loro credenze e pratiche m
 
 ## Accolito
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 0 Cos 0 Int 0 Sag 2 Car 0}
+- **Caratt.**: For 0 Des 0 Cos 0 Int 0 Sag 2 Car 0
 - **Punti Ferita**: 19,  **Difesa:** 12,  **Iniziativa:** +0
 - **Comp.**: Pronto Soccorso +4, Religione +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: Comune
 - **Sfida**: 1/4 (50 PX)
@@ -33904,10 +34710,10 @@ livello 1 (3 slot): *Benedizione, Cura Ferite, Santuario*
 
 ## Accolito
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 1 Int 0 Sag 1 Car 2}
+- **Caratt.**: For 0 Des 2 Cos 1 Int 0 Sag 1 Car 2
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +2
 - **Comp.**: Ingannare +4, Religione +2
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: Comune ed un altra lingua
 - **Sfida**: 1 (200 PX)
@@ -33932,9 +34738,9 @@ livello 2 (3 slot): *Arma Spirituale, Blocca Persona*
 
 ## Gran Sacerdote
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 0 Cos 1 Int 1 Sag 3 Car 1}
+- **Caratt.**: For 0 Des 0 Cos 1 Int 1 Sag 3 Car 1
 - **Punti Ferita**: 51,  **Difesa:** 14,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +5}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +5
 - **Movimento**: 7 m
 - **Linguaggi**: due lingue qualsiasi
 - **Sfida**: 2 (450 PX)
@@ -33963,9 +34769,9 @@ Questi individui vivono ai margini della civiltà, a volte entrandovi raramente 
 
 ## Berserker
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 3 Des 1 Cos 3 Int -1 Sag 0 Car -1}
+- **Caratt.**: For 3 Des 1 Cos 3 Int -1 Sag 0 Car -1
 - **Punti Ferita**: 52,  **Difesa:** 15,  **Iniziativa:** +1
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +5, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +5, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: Comune
 - **Sfida**: 2 (450 PX)
@@ -33980,9 +34786,9 @@ Provenienti da terre selvagge, gli imprevedibili berserker si radunano in compag
 
 ## Combattente Tribale
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 1 Des 0 Cos 1 Int -1 Sag 0 Car -1}
+- **Caratt.**: For 1 Des 0 Cos 1 Int -1 Sag 0 Car -1
 - **Punti Ferita**: 17,  **Difesa:** 12,  **Iniziativa:** +0
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: Comune
 - **Sfida**: 1/8 (25 PX)
@@ -33997,10 +34803,10 @@ Sono i difensori delle tribù che vivono ai margini della civiltà.
 
 ## Druido
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 1 Cos 1 Int 1 Sag 2 Car 0}
+- **Caratt.**: For 0 Des 1 Cos 1 Int 1 Sag 2 Car 0
 - **Punti Ferita**: 51,  **Difesa:** 15,  **Iniziativa:** +1
 - **Comp.**: Pronto Soccorso +4, Natura +3, Consapevolezza +4
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +4}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +4
 - **Movimento**: 9 m
 - **Linguaggi**: Druidico più due altre lingue
 - **Sfida**: 2 (450 PX)
@@ -34021,10 +34827,10 @@ livello 2 (3 slot): *Animale Messaggero, Pelle di Corteccia*
 
 ## Esploratore
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
-- **Caratt.**: \resizebox{0.5\linewidth+1.8cm}{!}{For 0 Des 2 Cos 1 Int 0 Sag 1 Car 0}
+- **Caratt.**: For 0 Des 2 Cos 1 Int 0 Sag 1 Car 0
 - **Punti Ferita**: 24,  **Difesa:** 14,  **Iniziativa:** +2
 - **Comp.**: Furtività +6, Natura +4, Consapevolezza +5, Sopravvivenza +5
-- **Tiri Salvez.**: \resizebox{0.5\linewidth+1.8cm}{!}{Tempra +3, Riflessi +3, Volontà +3}
+- **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m
 - **Linguaggi**: Comune
 - **Sfida**: 1/2 (100 PX)
@@ -34045,8 +34851,6 @@ Abili cacciatori e battitori di piste.
 
 }  %chiude {
 
-\rule
-
 ## Conversioni dalla 5e
 
 Per convertire i mostri del famoso Gioco di Ruolo:
@@ -34065,7 +34869,9 @@ Arrotondate il GS per eccesso nei calcoli.
 
 ## Template e suggerimenti per i Mostri
 
-Sono qui proposti dei suggerimenti su come differenziare i mostri e renderli più specifici alla situazione. Un mostro con uno di questi template prenderà alcuni tratti d'aspetto, di capacità e di gioco tipici del template stesso.
+| Sono qui proposti dei suggerimenti su come differenziare i mostri e renderli più specifici alla situazione. Un mostro con uno di questi template prenderà alcuni tratti d'aspetto, di capacità e di gioco tipici del template stesso. |
+| --- |
+
 **Spettro**
 
 Il template Spettro conferisce alla creatura un aspetto *da spettro*
@@ -34391,8 +35197,6 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 **Vulnerabilità**: funziona al contrario della Resistenza. Il danno viene raddoppiato prima dell'eventuale Tiro Salvezza.
 
-\rule{\textwidth}{0.4pt}
-
 ## Tabelle per tiri casuali
 
 | **3d6** | **Effetto** |
@@ -34421,6 +35225,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 **Generatore di nomi**
 
 	
+
 | \# | 1d8 | 1d8 | 1d8 |
 | 1 | An | la | mo |
 | 2 | Vi | ca | ta |
@@ -34433,136 +35238,11 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 **Tabella: generazione casuali armi**
 
-\resizebox{
-		
-| **1d100** | **Arma** | **1d100** | **Arma** | **1d100** | **Arma** | **1d100** | **Arma** |
-| 1-2 | Arma rotta | 26-27 | Alabarda | 51-52 | Spada corta | 76-77 | Spada lunga |
-| 3-4 | Arco lungo | 28-29 | Arco corto | 53-54 | Spada a due lame | 78-79 | Spada bastarda |
-| 5-6 | Ascia da battaglia | 30-31 | Ascia ad una mano | 55-56 | Picca pesante | 80-81 | Spada larga |
-| 7-8 | Balestra ad una mano | 32-33 | Bastone | 57-58 | Pugnale | 82-83 | Spadone a due mani |
-| 9-10 | Balestra leggera | 34-35 | Falce | 59-60 | Scimitarra | 84-85 | Stocco |
-| 11-12 | Balestra pesante | 36-37 | Flagello doppio | 61-62 | Mazza leggera | 86-87 | Tridente |
-| 13-14 | Catena chiodata | 38-39 | Frusta | 63-64 | Mazza flangiata | 88-89 | Urgrosh |
-| 15-16 | Estoc | 40-41 | Giavellotto | 65-66 | Mazza chiodata | 90-91 | Katana |
-| 17-18 | Falcetto | 42-43 | Machete | 67-68 | Picca leggera | 92-93 | Manganello |
-| 19-20 | Falcione in asta | 44-45 | Martello da guerra | 69-70 | Lancia | 94-95 | Guanto chiodato |
-| 21-22 | Arco lungo composito | 46-47 | Flagello pesante | 71-72 | Flagello | 96-97 | Ascia martello |
-| 23-24 | Arco corto composito | 48-49 | Lancia da fante | 73-74 | Grande ascia doppia | 98-99 | Maglio da guerra |
-| 25 | Falcione | 50 | Randello | 75 | Lancia corta | 100 | Arma speciale |
-
 **Tabella: forme degli incantesimi - Sfera e Cono**
-
-\begin{tikzpicture}[scale=0.5]
-
-\fill[orange] (1,17) rectangle (4,20);
-\fill[blue] (2.5,18.5) circle (0.3);
-\node at (3,16) [above] {raggio 1 metro};
-
-\fill[orange] (6,15) rectangle (11,20);
-\fill[white] (5,20) rectangle (6,21);
-\fill[white] (6,19) rectangle (7,20);
-\fill[white] (10,15) rectangle (11,16);
-\fill[white] (6,15) rectangle (7,16);
-\fill[white] (10,19) rectangle (11,20);
-\fill[blue] (8.5,17.5) circle (0.3);
-\node at (8.5,14) [above] {raggio 2 metri};
-
-\fill[orange] (12,13) rectangle (19,20);
-\fill[white] (12,19) rectangle (13,20);
-\fill[white] (18,13) rectangle (19,14);
-\fill[white] (12,13) rectangle (13,14);
-\fill[white] (18,19) rectangle (19,20);
-\fill[blue] (15.5,16.5) circle (0.3);
-\node at (16,12) [above] {raggio 3 metri};
-
-\fill[orange] (2,8) -- (7.5,10.5) -- (2,13) -- cycle;
-\fill[blue] (7.5,10.5) circle (0.3);
-\node at (4.5,7) [above] {cono di 5 metri};
-
-\fill[orange] (17,8) -- (20.5,9.5) -- (17,11) -- cycle;
-\fill[blue] (20.5,9.5) circle (0.3);
-\node at (18,7) [above] {cono di 3 metri};
-
-\fill[orange] (9,7) -- (15.5,10) -- (9,13) -- cycle;
-\fill[blue] (15.5,10.5) circle (0.3); % Punto blu sulla punta destra
-\node at (12,6.5) [above] {cono di 6 metri};
-
-\foreach \x in {0,...,20}
-\foreach \y in {5,...,20}
-\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
-
-\end{tikzpicture}
 
 Il punto blu determina l'origine dell'incantesimo
 
 **Esempi portata dei nemici**
-
-\begin{tikzpicture}[scale=0.5]
-
-\fill[orange] (1,18) rectangle (2,19);
-\node at (1.5,18.5) ;
-
-\foreach \x in {-1,...,1} {
-\node at (\x+1.5,17.5) {A};
-\node at (\x+1.5,19.5) {A};
-
-\foreach \y in  { \node at (+0.5,\y+0.5) {A};
-\node at (2.5,\y+0.5) {A}; }
-
-\node at (1.5,16) [above] {Portata 1m};
-
-\fill[orange] (5,17) rectangle (7,19);
-\node at (5.5,17.5) ;
-\node at (5.5,18.5) ;
-\node at (6.5,17.5) ;
-\node at (6.5,18.5) ;
-
-\foreach \x in {3,...,6} {
-\node at (\x+1.5,19.5) {A}; % Sopra
-\node at (\x+1.5,16.5) {A}; % Sotto
-
-\foreach \y in {9,...,10} {
-\node at (4.5,\y+8.5) {A}; % Sinistra
-\node at (7.5,\y+8.5) {A}; % Destra
-
-\node at (6,15) [above] {Portata 1m};
-
-\fill[orange] (11,15) rectangle (14,18);
-\node at (11.5,17.5) ;
-\node at (12.5,17.5) ;
-\node at (13.5,17.5) ;
-
-\node at (11.5,16.5) ;
-\node at (12.5,16.5) ;
-\node at (13.5,16.5) ;
-
-\node at (11.5,15.5) ;
-\node at (12.5,15.5) ;
-\node at (13.5,15.5) ;
-
-\foreach \x in {10,...,14} {
-\node at (\x+0.5,14.5) {A};
-\node at (\x+0.5,18.5) {A};
-
-\foreach \y in {13,...,17} {
-\node at (10.5,\y+1.5) {A};
-\node at (14.5,\y+1.5) {A};
-
-\foreach \x in {9,...,15} {
-\node at (\x+0.5,19.5) {B};
-\node at (\x+0.5,13.5) {B};
-
-\foreach \y in {13,...,18} {
-\node at (9.5,\y+0.5) {B};
-\node at (15.5,\y+0.5) {B};
-
-\node at (12.5,12) [above] {Portata 2m};
-
-\foreach \x in {-1,...,19}
-\foreach \y in {12,...,19}
-\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
-
-\end{tikzpicture}
 ---
 
 # Autore e Contributi
@@ -34573,53 +35253,53 @@ Il punto blu determina l'origine dell'incantesimo
 
 # Materiale per giocare
 
-Siete invitati a scaricare da GitHub **Old Bell School System** liberamente e senza vincoli se non quelli espressi dalla licenza.
-Il sito principale è \href{https://github.com/buzzqw/TUS}{https://github.com/buzzqw/TUS}
+**Old Bell School System - OBSS - Fantasy Adventure Game**
+Il sito principale è https://github.com/buzzqw/TUS
 
 * **Manuale di OBSS**:
-\href{https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf}{OBSSv2.pdf}
+https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf
 
 * **Scheda**:
-\href{https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda.pdf}{OBSS-Scheda.pdf}
+https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda.pdf
 
 Versione su 3 pagine
-\href{https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda-v3.pdf}{OBSS-scheda-v3.pdf}
+https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda-v3.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda-v3.pdf
 
 * **Schermo del Narratore**:
-\href{https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf}{screenv2.pdf}
+https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf
 
 * **Info sui personaggi**:
-\href{https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-narratore-personaggi.pdf}{OBSS-schema-narratore-personaggi.pdf}
+https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-narratore-personaggi.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-narratore-personaggi.pdf
 
-* **Changelog** \href{https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md}{changelog.md}
+* **Changelog** https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md
 
 * **Segnalazioni**
 
-Per qualsiasi segnalazione o consiglio aprite una issue su GitHub, oppure mandatemi una mail all'indirizzo azanzani@gmail.com% o contattatemi sul gruppo OBSS su Telegram \href{https://t.me/obssgdr}{https://t.me/obssgdr}
+Per qualsiasi segnalazione o consiglio aprite una issue su GitHub, oppure mandatemi una mail all'indirizzo azanzani@gmail.com% o contattatemi sul gruppo OBSS su Telegram https://t.me/obssgdr
 
 # Ringraziamenti
 
-Parte del materiale è adattato da  \href{https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_IT.pdf}{SRD\_CC\_v5.1\_IT.pdf} rilasciato dalla Wizard of the Coast.
+Parte del materiale è adattato da  https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_IT.pdf rilasciato dalla Wizard of the Coast.
 
 Link https://media.wizards.com/2023/downloads/dnd/SRD\_CC\_v5.1\_IT.pdf
 
-Ringrazio \href{https://www.brailleinstitute.org/freefont/}{Braille Institute} per il font usato. Atkinson Hyperlegible Font è un font dall'alta leggibilità anche per persone con difficoltà di lettura.
+Ringrazio https://www.brailleinstitute.org/freefont/ per il font usato. Atkinson Hyperlegible Font è un font dall'alta leggibilità anche per persone con difficoltà di lettura.
 
 # Licenza
 
-**Old Bell School System (OBSS)** © 2021 by Andres Zanzani is licensed under \hyperref{https://creativecommons.org/licenses/by-sa/4.0/legalcode}{CC BY-SA 4.0}
+**Old Bell School System - OBSS - Fantasy Adventure Game**
 
 Le immagine presenti nel manuali sono senza licenza o in pubblico dominio. Le immagini segnate con *B.I.C.* e la copertina sono state create con Bing Image Creator. In caso di inclusione di immagini protette da diritto d'autore si prega di comunicarle per poter procedere alla rimozione.
 
@@ -34629,8 +35309,6 @@ Prima di qualsiasi utilizzo di OBSS o di sue parti siete pregati di contattarmi.
 
 # Le mie Opzioni
 
-\normalsize
-
 Anche io sono un Narratore e per quanto abbia costruito OBSS in base alle mie preferenze ci sono alcune Opzioni, che rendono il gioco più *unico* che mi piace rendere disponibili ai personaggi.
 
 Al mio tavolo da gioco solitamente propongo queste Opzioni, da decidere in Sessione Zero:
@@ -34638,39 +35316,9 @@ Al mio tavolo da gioco solitamente propongo queste Opzioni, da decidere in Sessi
 - Successo Parziale pag. 
 - Variante Iniziativa, solo se ho giocatori esperti. Pag. 
 - Partendo con Variante Tiro Critico, Tiro Critico Variante, Azioni Tiro Critico, Variante Attacchi multipli sono a scelta del giocatore se usarli o meno. Pag. , pag. , pag.  e pag. . Sono Opzioni suggerite per giocatori già con esperienza.
-- Opzionale - Elenco Manovre d'Arme (pag. ) per rendere meno *noiso* il fumbolare...
+- Opzionale - Elenco Manovre d'Arme  per rendere meno *noiso* il fumbolare...
 - Un solo credo o Abilità di Lista, a scelta del giocatore.
 - Componenti come offerta per una magia personale, diversa e unica, sempre legata al personaggio. Pag. 
 - Abilità Iconiche in caso di lunghe campagne. Pag. 
 - Droghe **NO**. Solo in caso di gruppi composti da persone mature ed adulte di testa. Pag. 
 - **No all'utilizzo del cronometro sulle Luci**: se le vostre avventure non sono ambientate in dungeon o volete una gestione più snella non gestite la durata delle luci in tempo reale.
-
-\TotalBox{OBSSv2}
-
----
-
-\TotalBox{Tabelle}
-
----
-
-\TotalBox{Incantesimi}
-
----
-
-\TotalBox{OggettiMagici}
-
----
-
-\TotalBox{Abilita}
-
----
-
-\TotalBox{Mostruario}
-
----
-
-# Appendice N
-
-		\printbibliography
-
-\end{document

@@ -708,11 +708,11 @@ The character's age affects physical and mental Ability Scores.
 | **Period** | **STR** | **DEX** | **CON** | **INT** | **WIS** |
 | --- | --- | --- | --- | --- | --- |
 | Young |  |  | +1 |  | -1 |
-Adult |  |  |  |  |
+| Adult |  |  |  |  | |
 | Mature |  |  | -1 |  | +1 |
-| --- | --- | --- | --- | --- | --- |
 | Elderly | -2 | -1 | -1 | +1 | +1 |
 | Venerable | -1 | -1 | -1 | -1 | +1 |
+
 The indicated modifiers are cumulative.
 
 ## Ability Scores
@@ -864,8 +864,7 @@ A Trait is a detail that helps to better frame the character, outlines the main 
 
 >> Choosing Traits
 >>
->> %box giocatore
-Traits are not the character, they don't block or fix it eternal in time. A character is always constantly evolving and so is its character, morals, behavior, and desires. Don't be rigid but use Traits to give you suggestions from which to draw inspiration.
+>> Traits are not the character, they don't block or fix it eternal in time. A character is always constantly evolving and so is its character, morals, behavior, and desires. Don't be rigid but use Traits to give you suggestions from which to draw inspiration.
 
 Traits have no positive or negative connotation, they only serve to frame the character and understand which Patron is more interested in the character. They don't want to define whether you are good or bad, everyone has their own morals regardless of the Traits possessed.
 
@@ -906,32 +905,32 @@ The Narrator is free to insert new Traits at their pleasure or requested by the 
 
 Each Trait is briefly described in its general meaning. The character is free to interpret the Trait as they feel it.
 
-**Altruistic**: A person who puts others first, even sacrificing their own needs.
-**Ambitious**: Thinks only of their own interests and needs, without considering those of others.
-**Arrogant**: Has an exaggerated opinion of themselves and tends to belittle others.
-**Greedy**: Excessively attached to their material possessions and reluctant to share.
-**Cynical**: Tends to see the worst in people and situations, often with a contemptuous attitude.
-**Cowardly**: Lacking in courage and tends to avoid dangerous situations.
-**Compassionate**: Shows empathy and understanding towards the suffering of others.
-**Courageous**: Faces fears and challenges with determination.
-**Cruel**: Without mercy and compassion, intentionally causes suffering.
-**Curious**: Has a strong desire to know and learn new things.
-**Dishonest**: Does not tell the truth and deceives others for their own advantage.
-**Dissolute**: Lives in an unruly manner and without considering the moral consequences of their actions.
-**Enthusiastic**: Shows great energy and passion for what they do.
-**Extroverted**: Sociable and at ease in social situations.
-**Kind**: Treats others with respect and consideration.
-**Impulsive**: Tends to act and react without thinking too much about the consequences.
-**Indecisive**: Cannot quickly make decisions, dwelling too much on weighing choices.
-**Uncompromising**: Not willing to compromise or consider different points of view.
-**Envious**: Feels resentment towards those who possess something they desire.
-**Loyal**: Faithful and reliable towards friends and loved ones.
-**Patient**: Able to wait without getting irritated or losing calm.
-**Cautious**: Carefully considers difficult or dangerous situations.
-**Suspicious**: You are convinced that everyone has an interest in harming you.
-**Stubborn**: Determined and persistent in achieving your goals, despite difficulties.
-**Vain**: You are certain of your exceptional qualities, abilities, and appearance.
-**Vindictive**: Seeks to punish those who have wronged them, often disproportionately.
+- **Altruistic**: A person who puts others first, even sacrificing their own needs.
+- **Ambitious**: Thinks only of their own interests and needs, without considering those of others.
+- **Arrogant**: Has an exaggerated opinion of themselves and tends to belittle others.
+- **Greedy**: Excessively attached to their material possessions and reluctant to share.
+- **Cynical**: Tends to see the worst in people and situations, often with a contemptuous attitude.
+- **Cowardly**: Lacking in courage and tends to avoid dangerous situations.
+- **Compassionate**: Shows empathy and understanding towards the suffering of others.
+- **Courageous**: Faces fears and challenges with determination.
+- **Cruel**: Without mercy and compassion, intentionally causes suffering.
+- **Curious**: Has a strong desire to know and learn new things.
+- **Dishonest**: Does not tell the truth and deceives others for their own advantage.
+- **Dissolute**: Lives in an unruly manner and without considering the moral consequences of their actions.
+- **Enthusiastic**: Shows great energy and passion for what they do.
+- **Extroverted**: Sociable and at ease in social situations.
+- **Kind**: Treats others with respect and consideration.
+- **Impulsive**: Tends to act and react without thinking too much about the consequences.
+- **Indecisive**: Cannot quickly make decisions, dwelling too much on weighing choices.
+- **Uncompromising**: Not willing to compromise or consider different points of view.
+- **Envious**: Feels resentment towards those who possess something they desire.
+- **Loyal**: Faithful and reliable towards friends and loved ones.
+- **Patient**: Able to wait without getting irritated or losing calm.
+- **Cautious**: Carefully considers difficult or dangerous situations.
+- **Suspicious**: You are convinced that everyone has an interest in harming you.
+- **Stubborn**: Determined and persistent in achieving your goals, despite difficulties.
+- **Vain**: You are certain of your exceptional qualities, abilities, and appearance.
+- **Vindictive**: Seeks to punish those who have wronged them, often disproportionately.
 
 If the character is completely different from their Traits, they will not gain experience points.
 
@@ -1177,6 +1176,7 @@ Some Patrons naturally embody or resonate with specific archetypes more strongly
 | Tazher | The Shadow, The Outlaw, The Shapeshifter |
 | Thaft | The Everyman, The Ally, The Caregiver |
 | Torbiorn | The Tyrant, The Shadow, The Ruler |
+
 # Using Archetypes in Game
 
 ## For Players
@@ -1290,6 +1290,7 @@ The player **increases by 1 the score of an Ability Score that connects to the P
 | Use Rope | Herbalism | Sense Motive | |
 |  | Forgery | First Aid | |
 |  | Appraise | Track | |
+
 |  |  | Survival |
 **Knowledge** must be specified on which subject it covers: Architecture and Engineering, Dungeon, Geography, Law, Languages (terrestrial or not), Myths and Legends, Nobility and Heraldry, Occult, Planes, Religion, History, Ancient Technology...
 
@@ -1803,7 +1804,7 @@ The player may request to make the check even if the result is certain.
 
 **Table: Advantages and Disadvantages**:
 
-| \multirow*{**Advantage / Disadvantage**} | **Checks** | |
+| **Advantage / Disadvantage** | **Checks** | |
 | --- | --- |
 | \cmidrule(lr) | **Dynamic** | **Fixed** |
 | Light bonus | +1 | +1 |
@@ -1827,7 +1828,7 @@ Bonuses and penalties in the 3d6 roll have more *effect* than in the check made 
 
 If you want to take these values, ask the Narrator, they will tell you if based on the situation, urgency, dangerousness of what surrounds you, you can take the score. Starting to pick a door lock in a dungeon asking for 10 requires extreme cool-headedness and recklessness. Taking 10/14/18 should not be granted for knowledge checks.
 
-I recommend everyone to read the excellent article by Lorenzo Bertini \href{https://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20}{Elogio del 10 e del 20} for a critical and intelligent examination of success and failure in checks.
+I recommend everyone to read the excellent article by Lorenzo Bertini https://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20 for a critical and intelligent examination of success and failure in checks.
 
 ### Helping Another in Checks
 
@@ -1912,9 +1913,8 @@ The indicated modifiers are cumulative.
 | A smooth natural wall without handholds | +30 |
 | You can lean against 2 opposite walls | -8 |
 | You can lean against 2 walls at angles | -4 |
-Examples of checks with rope use |
+| Examples of checks with rope use | |
 | Using a rope to descend | 12 |
-| --- | --- |
 | Using a rope to climb up | 15 |
 | The rope has knots | -3 |
 
@@ -2098,7 +2098,7 @@ The player chooses the Ability Score they prefer. If Dexterity is chosen, it wil
 Whoever has the highest initiative between players and enemies starts first, followed by the others in descending order, declaring Actions and executing them. In case of Initiative with the same score, whoever has the higher Ability Score acts first, otherwise the clash will be simultaneous. Initiative is valid for the entire clash and is rerolled when changing opponents.
 
  %box narratore
-Try to make combat flow naturally. Don't interrupt the flow of actions, but by describing their effects involve players (and enemies) in subsequent actions. I recommend reading the article \href{https://theangrygm.com/manage-combat-like-a-dolphin/}{How to Manage Combat Like a Dolphin} to understand the method in detail.
+Try to make combat flow naturally. Don't interrupt the flow of actions, but by describing their effects involve players (and enemies) in subsequent actions. I recommend reading the article https://theangrygm.com/manage-combat-like-a-dolphin/ to understand the method in detail.
 
 **The Golden Rules also apply to the Initiative Check.**
 
@@ -2248,6 +2248,7 @@ The table below indicates some typical actions and relative costs.
 | Throw an object held in hand | 0 |
 | Take something from belt or readily available | 3 |
 | Identify a Spell | 0 |
+
 - Skills, providing Help, cost 3 Action Points per Action indicated in the Skill description.
 
 - Exchanging a dialogue can be free or cost AP based on how much you talk.
@@ -2949,56 +2950,57 @@ The list proposes a catalog of Critical Actions for consumed Critical Hits. You 
 
 Use this list as guidelines to stimulate the character to create their own combat style.
 
-**Criticals** \hskip 0.5cm **Effect\#** | **Eye Attacks**
-| | Sand in the eyes. Until the end of your next round, the opponent has -2 to their first Attack Roll |
-| --- | --- |
-| | Eye scratch. Until the end of your next round, the opponent has -4 to the Attack Roll |
-| | Target dazzled. Roll 1d6, with 1-2-3 the opponent has missed their attack. Lasts until the end of the next round. |
-| | Target blinded. For 1d6 rounds, the opponent considers everyone as invisible. |
-| | One-eyed. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll; if they fail, they are permanently blinded, otherwise they suffer the effects of point 4. |
-**\#** | **Weapon Attacks**
-| | Hit the weapon. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 2 $ for weapon size relative to medium, or drops the weapon |
-| --- | --- |
-| | Damaged weapon. The opponent's weapon inflicts one category of damage less |
-| | Hand strike. Due to pain, until the end of your next round, the opponent loses their first two attacks |
-| | Disarm the opponent. The opponent drops their weapon |
-| | Compromised hand. The opponent until dawn of the next day has -4 to the Attack Roll |
+**Criticals** \hskip 0.5cm **Effect**
 
-**\#** | **Pushes and Lunges**
-| | Push the opponent 3 meters away, $ \pm 1$ for size difference |
-| --- | --- |
-| | You can move one Movement Action as a Reaction. You treat the terrain as difficult |
-| | As point 1 but the initial distance is 6 meters |
-| | You can move one Movement Action as a Reaction |
-| | As point 1 but the initial distance is 9 meters |
-| | As point 3 and you can move with the opponent |
-**\#** | **Trips**
-| | Shoulder check. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 4 $ for size difference or falls prone |
-| --- | --- |
-| | Trip. The opponent makes a Reflex Saving Throw DC 19, $ \pm 2 $ for size difference or falls prone |
-| | Push. The opponent makes a Fortitude Saving Throw DC 23, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d6 meters away |
-| | Collision. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d10 meters away |
-**\#** | **Projectiles**
-| **x** | For each Critical Hit used, add another range increment to your weapon |
-| --- | --- |
-| **x** | For every two Critical Hits used, add +4 to the next Attack Roll until the end of the next round |
-| | *Kennedy Arrow*. Until the end of your next round, the first projectile ignores any cover or obstacle and if physically possible hits the opponent |
-**\#** | **Fury**
-| | Encourage companions. Your companions within 6 meters have +2 to their first Attack Roll |
-| --- | --- |
-| | Berserker. One of your companions within six meters can perform an Attack Action against an opponent in melee at the cost of a Reaction |
-| | Jolt. One of your companions, within 6 meters, can use a Reaction to execute a Movement Action treating the terrain as difficult |
-| | Glory. Your companions within 6 meters have +2 to the Attack Roll until the end of their next round |
-| | Glory!. Your companions within 9 meters have +4 to the Attack Roll until the end of their next round |
-**\#** | **Defense!**
-| | Until the end of your next round, you have +2 to Defense. |
-| --- | --- |
-| | Until the end of your next round, all companions in your melee range have +2 to Defense |
+- **Eye Attacks**
 
-| | Until the end of your next round, one companion has +8 to Defense. |
-| --- | --- |
-| | Until the end of your next round, all companions within a range of 9 meters have +4 to Defense |
-| | For 1d6 rounds, all your companions have +4 to Defense |
+- **\emph** - Sand in the eyes. Until the end of your next round, the opponent has -2 to their first Attack Roll
+- **\emph** - Eye scratch. Until the end of your next round, the opponent has -4 to the Attack Roll
+- **\emph** - Target dazzled. Roll 1d6, with 1-2-3 the opponent has missed their attack. Lasts until the end of the next round.
+- **\emph** - Target blinded. For 1d6 rounds, the opponent considers everyone as invisible.
+- **\emph** - One-eyed. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll; if they fail, they are permanently blinded, otherwise they suffer the effects of point 4.
+- **Weapon Attacks**
+
+- **\emph** - Hit the weapon. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 2 $ for weapon size relative to medium, or drops the weapon
+- **\emph** - Damaged weapon. The opponent's weapon inflicts one category of damage less
+- **\emph** - Hand strike. Due to pain, until the end of your next round, the opponent loses their first two attacks
+- **\emph** - Disarm the opponent. The opponent drops their weapon
+- **\emph** - Compromised hand. The opponent until dawn of the next day has -4 to the Attack Roll
+- **Pushes and Lunges**
+
+- **\emph** - Push the opponent 3 meters away, $ \pm 1$ for size difference
+- **\emph** - You can move one Movement Action as a Reaction. You treat the terrain as difficult
+- **\emph** - As point 1 but the initial distance is 6 meters
+- **\emph** - You can move one Movement Action as a Reaction
+- **\emph** - As point 1 but the initial distance is 9 meters
+- **\emph** - As point 3 and you can move with the opponent
+- **Trips**
+
+- **\emph** - Shoulder check. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 4 $ for size difference or falls prone
+- **\emph** - Trip. The opponent makes a Reflex Saving Throw DC 19, $ \pm 2 $ for size difference or falls prone
+- **\emph** - Push. The opponent makes a Fortitude Saving Throw DC 23, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d6 meters away
+- **\emph** - Collision. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d10 meters away
+- **Projectiles**
+
+- ***x*** - For each Critical Hit used, add another range increment to your weapon
+- ***x*** - For every two Critical Hits used, add +4 to the next Attack Roll until the end of the next round
+- **\emph** - *Kennedy Arrow*. Until the end of your next round, the first projectile ignores any cover or obstacle and if physically possible hits the opponent
+- **Fury**
+
+- **\emph** - Encourage companions. Your companions within 6 meters have +2 to their first Attack Roll
+- **\emph** - Berserker. One of your companions within six meters can perform an Attack Action against an opponent in melee at the cost of a Reaction
+- **\emph** - Jolt. One of your companions, within 6 meters, can use a Reaction to execute a Movement Action treating the terrain as difficult
+- **\emph** - Glory. Your companions within 6 meters have +2 to the Attack Roll until the end of their next round
+- **\emph** - Glory!. Your companions within 9 meters have +4 to the Attack Roll until the end of their next round
+- **Defense!**
+
+- **\emph** - Until the end of your next round, you have +2 to Defense.
+- **\emph** - Until the end of your next round, all companions in your melee range have +2 to Defense
+- **\emph** - Until the end of your next round, one companion has +8 to Defense.
+- **\emph** - Until the end of your next round, all companions within a range of 9 meters have +4 to Defense
+- **\emph** - For 1d6 rounds, all your companions have +4 to Defense
+	
+	
 
 **Alternatively in simplified version**:
 **1 Critical Hit**: cause a critical weapon damage; take +4 to hit until the end of the next round; +4 to Defense until the end of the next round; the opponent has -4 to hit until the end of the next round.
@@ -3045,135 +3047,43 @@ Weapon Maneuvers are grouped by level, i.e., the minimum Weapon Proficiency scor
 >>
 >> Exploit your bad luck as best you can! Let fate smile on you thanks to your ability to choose the maneuver to activate. Always evaluate the environment, enemies, companions, and the situation in general before deciding what to activate.
 
-**Level 4 Maneuvers** |
-| **Acrobatic Dodge**
-| Activ.: | Missed with an odd. |
-| --- | --- |
-| *Effect*: | +1 to Reflex Saving Throws until your next turn. |
-| *Critical*: | +2 to Reflex Saving Throws. |
-| **Feint and Reposition**
-| Activ.: | Missed with an even. |
-| --- | --- |
-| *Effect*: | Move 1 meter without provoking opportunity attacks. |
-| *Critical*: | As above but move 2 meters. |
-| {0.5\textwidth} | **Distracting Strike** |
-| Activ. | : Missed. |
-| *Effect*: | +1 to Defense against the opponent until the end of the next round. |
-| *Critical*: | The opponent considers the character as having light cover. |
-| **Quick Interference**
-| Activ.: | Missed with an odd. |
-| --- | --- |
-| *Effect*: | The opponent reduces their movement by 1 meter in the next round. |
-| *Critical*: | The opponent's next movement within the next round treats terrain as difficult. |
-| **Tactical Opening**
-| Activ.: | Missed with an even. |
-| --- | --- |
-| *Effect*: | An ally gets +1 to their next Attack Roll against the opponent. |
-| *Critical*: | The ally gets +2 to the Attack Roll. |
-**Level 6 Maneuvers** |
-| **Quick Reaction**
-| Activ.: | Missed. |
-| --- | --- |
-| *Effect*: | the character can drink a potion. |
-| *Critical*: | The character can administer a potion to an adjacent ally. |
-| **Advanced Feint**
-| Activ. | : Even. |
-| --- | --- |
-| *Effect*: | Add your Intelligence or Wisdom modifier to Defense against the opponent until the beginning of your next round. |
-| *Critical*: | Add your Intelligence and Wisdom modifier to your next Attack Roll against the opponent until the beginning of your next round. |
-| **Coordinated Support**
-| Activ. | : Even. |
-| --- | --- |
-| *Effect*: | An adjacent ally gets a bonus to the Attack Roll equal to your Intelligence modifier. |
-| *Critical*: | The bonus applies to two allies adjacent to you. |
-| **Immediate Counterattack**
-| Activ. | : Odd. |
-| --- | --- |
-| *Effect*: | If the failed Attack Roll would have hit an adjacent opponent, inflict damage equal to your Strength modifier. |
-| *Critical*: | Inflict damage equal to twice your Strength modifier. |
-| **Sonic Distraction**
-| Activ.: | Odd. |
-| --- | --- |
-| *Effect*: | An ally who is grappled or restrained can make a check to break free. |
-| *Critical*: | As above and they can move 1 meter. |
-**Level 8 Maneuvers** |
-| **Warrior Concentration**
-| Activ.: | Missed. |
-| --- | --- |
-| *Effect*: | +2 to melee Attack Rolls until the end of your next round. |
-| *Critical*: | Until the end of your next round, if you hit, you cause one more Critical Hit. |
-| {0.5\textwidth} | **Perfect Evasion** |
-| Activ.: | Odd. |
-| *Effect*: | +2 to Defense until your next turn. |
-| *Critical*: | The next melee attack from that opponent automatically misses. |
-| **Opponent Analysis**
-| Activ.: | Odd. |
-| --- | --- |
-| *Effect*: | You can make a Knowledge check to obtain information about the opponent. |
-| *Critical*: | An ally can make the same check. |
-| **Unstable Ground**
-| Activ.: | Even. |
-| --- | --- |
-| *Effect*: | Until the end of your next round, you consider the terrain as difficult and have +4 to the Attack Roll |
-| *Critical*: | You cannot move until the end of your next round, but if you hit, you cause two more critical hits. |
-| **Surprise Attack**
-| Activ.: | Even. |
-| --- | --- |
-| *Effect*: | Using a Reaction, you can make an Attack with the same Attack Roll as your last attack. |
-| *Critical*: | If sufficient, your Attack Roll hits another opponent in melee. |
-**Level 10 Maneuvers** |
-| **Lateral Maneuver**
-| Activ.: | Missed. |
-| --- | --- |
-| *Effect*: | You move 1 meter. |
-| *Critical*: | You move up to 4 meters, but next round you execute one less Action. |
-| **Devastating Opening**
-| Activ.: | Odd. |
-| --- | --- |
-| *Effect*: | An ally gets +4 to the Attack Roll against the opponent until the end of your next round. |
-| *Critical*: | Two allies get the bonus, but the character suffers -4 to the Attack Roll until the end of the next round. |
-| **Superior Intimidation**
-| Activ.: | Odd. |
-| --- | --- |
-| *Effect*: | The opponent suffers -1d6 on their first attack against you by the end of your next round. |
-| *Critical*: | By the end of your next round, the opponent in melee cannot cause critical damage against you. |
-| **Bleeding Wound**
-| Activ.: | Even. |
-| --- | --- |
-| *Effect*: | The opponent suffers +1 to bleeding. |
-| *Critical*: | +2 to bleeding and the character takes damage equal to their Strength modifier. |
-| **Strategic Evaluation**
-| Activ.: | Even. |
-| --- | --- |
-| *Effect*: | The next successful attack by the end of the next round inflicts one more critical hit. |
-| *Critical*: | As above and two critical hits, but the next round you execute one less Action. |
+- **Level 4 Maneuvers**
 
-**Level 12 Maneuvers** |
-| **Relentless Assault**
-| Activ.: | Missed. |
-| --- | --- |
-| *Effect*: | Next round you have a cumulative +1 to the Attack Roll for each time you attack. |
-| *Critical*: | Next round you have only 1 Action. If you use it to attack and hit, you cause 2 more critical hits. |
-| **Predictive Attack**
-| Activ.: | Odd. |
-| --- | --- |
-| *Effect*: | Next round the first attack made misses; if you hit with a subsequent attack, you inflict 2 additional critical hits. |
-| *Critical*: | As above but 3 critical hits and you execute 1 less Action in the round. |
-| **Powerful War Cry**
-| Activ.: | Odd. |
-| --- | --- |
-| *Effect*: | Allies within 9 meters get +1d6 to the Attack Roll until the end of your next round. |
-| *Critical*: | As above but +2d6, and the character executes only one Action. |
-| **Lethal Insight**
-| Activ.: | Even. |
-| --- | --- |
-| *Effect*: | The next successful attack by the end of the next round inflicts maximized critical hits. |
-| *Critical*: | As above but compute 2 maximized critical hits, but you execute one less Action. |
-| **Uncontainable Fury**
-| Activ.: | Even. |
-| --- | --- |
-| *Effect*: | Compare the Attack Roll with an adjacent opponent to see if you've hit them; if yes, also add a critical hit. |
-| *Critical*: | Until the end of the next round, you have -4 to Defense, +1d6 to the Attack Roll, and each successful attack causes an additional critical hit. |
+- **Acrobatic Dodge** - Activ.: ***Missed*** with an ***odd***. *Effect*: +1 to Reflex Saving Throws until your next turn. *Critical*: +2 to Reflex Saving Throws.
+- **Feint and Reposition** - Activ.: ***Missed*** with an ***even***. *Effect*: Move 1 meter without provoking opportunity attacks. *Critical*: As above but move 2 meters.
+- **Distracting Strike** - Activ.: ***Missed***. *Effect*: +1 to Defense against the opponent until the end of the next round. *Critical*: The opponent considers the character as having light cover.
+- **Quick Interference** - Activ.: ***Missed*** with an ***odd***. *Effect*: The opponent reduces their movement by 1 meter in the next round. *Critical*: The opponent's next movement within the next round treats terrain as difficult.
+- **Tactical Opening** - Activ.: ***Missed*** with an ***even***. *Effect*: An ally gets +1 to their next Attack Roll against the opponent. *Critical*: The ally gets +2 to the Attack Roll.
+- **Level 6 Maneuvers**
+
+- **Quick Reaction** - Activ.: ***Missed***. *Effect*: the character can drink a potion. *Critical*: The character can administer a potion to an adjacent ally.
+- **Advanced Feint** - Activ.: ***Even***. *Effect*: Add your Intelligence or Wisdom modifier to Defense against the opponent until the beginning of your next round. *Critical*: Add your Intelligence and Wisdom modifier to your next Attack Roll against the opponent until the beginning of your next round.
+- **Coordinated Support** - Activ.: ***Even***. *Effect*: An adjacent ally gets a bonus to the Attack Roll equal to your Intelligence modifier. *Critical*: The bonus applies to two allies adjacent to you.
+- **Immediate Counterattack** - Activ.: ***Odd***. *Effect*: If the failed Attack Roll would have hit an adjacent opponent, inflict damage equal to your Strength modifier. *Critical*: Inflict damage equal to twice your Strength modifier.
+- **Sonic Distraction** - Activ.: ***Odd***. *Effect*: An ally who is grappled or restrained can make a check to break free. *Critical*: As above and they can move 1 meter.
+- **Level 8 Maneuvers**
+
+- **Warrior Concentration** - Activ.: ***Missed***. *Effect*: +2 to melee Attack Rolls until the end of your next round. *Critical*: Until the end of your next round, if you hit, you cause one more Critical Hit.
+- **Perfect Evasion** - Activ.: ***Odd***. *Effect*: +2 to Defense until your next turn. *Critical*: The next melee attack from that opponent automatically misses.
+- **Opponent Analysis** - Activ.: ***Odd***. *Effect*: You can make a Knowledge check to obtain information about the opponent. *Critical*: An ally can make the same check.
+- **Unstable Ground** - Activ.: ***Even***. *Effect*: Until the end of your next round, you consider the terrain as difficult and have +4 to the Attack Roll. *Critical*: You cannot move until the end of your next round, but if you hit, you cause two more critical hits.
+- **Surprise Attack** - Activ.: ***Even***. *Effect*: Using a Reaction, you can make an Attack with the same Attack Roll as your last attack. *Critical*: If sufficient, your Attack Roll hits another opponent in melee.
+- **Level 10 Maneuvers**
+
+- **Lateral Maneuver** - Activ.: ***Missed***. *Effect*: You move 1 meter. *Critical*: You move up to 4 meters, but next round you execute one less Action.
+- **Devastating Opening** - Activ.: ***Odd***. *Effect*: An ally gets +4 to the Attack Roll against the opponent until the end of your next round. *Critical*: Two allies get the bonus, but the character suffers -4 to the Attack Roll until the end of the next round.
+- **Superior Intimidation** - Activ.: ***Odd***. *Effect*: The opponent suffers -1d6 on their first attack against you by the end of your next round. *Critical*: By the end of your next round, the opponent in melee cannot cause critical damage against you.
+- **Bleeding Wound** - Activ.: ***Even***. *Effect*: The opponent suffers +1 to bleeding. *Critical*: +2 to bleeding and the character takes damage equal to their Strength modifier.
+- **Strategic Evaluation** - Activ.: ***Even***. *Effect*: The next successful attack by the end of the next round inflicts one more critical hit. *Critical*: As above and two critical hits, but the next round you execute one less Action.
+- **Level 12 Maneuvers**
+
+- **Relentless Assault** - Activ.: ***Missed***. *Effect*: Next round you have a cumulative +1 to the Attack Roll for each time you attack. *Critical*: Next round you have only 1 Action. If you use it to attack and hit, you cause 2 more critical hits.
+- **Predictive Attack** - Activ.: ***Odd***. *Effect*: Next round the first attack made misses; if you hit with a subsequent attack, you inflict 2 additional critical hits. *Critical*: As above but 3 critical hits and you execute 1 less Action in the round.
+- **Powerful War Cry** - Activ.: ***Odd***. *Effect*: Allies within 9 meters get +1d6 to the Attack Roll until the end of your next round. *Critical*: As above but +2d6, and the character executes only one Action.
+- **Lethal Insight** - Activ.: ***Even***. *Effect*: The next successful attack by the end of the next round inflicts maximized critical hits. *Critical*: As above but compute 2 maximized critical hits, but you execute one less Action.
+- **Uncontainable Fury** - Activ.: ***Even***. *Effect*: Compare the Attack Roll with an adjacent opponent to see if you've hit them; if yes, also add a critical hit. *Critical*: Until the end of the next round, you have -4 to Defense, +1d6 to the Attack Roll, and each successful attack causes an additional critical hit.
+	
+	
 
 Invite the player to create their own *failure* style, make them rejoice in a *fumble*!
 
@@ -5650,7 +5560,9 @@ All familiars have Special Abilities and grant them to their masters according t
 
 | **Master's MP** | **Defense** | **Intelligence** | **Special** |
 | 1-2 | +1 | 0 | Alert, Share Spells |
+
 |  |  | Empathic Link
+
 | 3-4 | +1 | +1 | Deliver Touch Spells |
 | 5-6 | +2 | +1 | Speak with Animals of Its Kind |
 | 7-8 | +3 | +1 | Speak with Master |
@@ -5977,12 +5889,15 @@ This modifier is called the **ability modifier for spells**.
 
 | **Magic** | **Known (present in Spellbook)** |  | **Learned (that you can cast)** |
 | --- | --- | --- | --- |
+
 \cline
+
 | **Proficiency** | **Cantrips** | **Spell level 1+** | **Cantrips or /  \textbf{Spell level 1+**} |
 | 1 | mod +2 (minimum 4) | mod (minimum 4) | mod (minimum 4) / 2 |
 | 2 | present in Spellbook | present in Spellbook | +2 or / +1 |
 | 3 | present in Spellbook | present in Spellbook | +2 or / +1 |
 | 4 | present in Spellbook | present in Spellbook | +2 or / +1 |
+
 **mod**: is the ability modifier for spells. Each time you take the Magic Adept Feat, you *learn* one additional spell present in your Spellbook.
 
 ### Maximum castable spell level
@@ -6509,7 +6424,7 @@ If you issue no commands, the creature only defends itself against hostile creat
 
 **For each Magic Critical Success** obtained in the Magic Check, the maximum duration doubles.
 
-\rule 
+ 
 
 ## Anti-Magic Field
 - **Magic List**:: Abjuration
@@ -10411,6 +10326,7 @@ You create three rays of fire and project them at targets within range. You can 
 You can see and hear a particular creature of your choice that is on the same plane of existence as you. The target must make a Will Saving Throw, modified by how well you know the target and what kind of physical connection you have to it. If the target knows you're casting this spell, it can fail the Saving Throw voluntarily if it wishes to be observed by you.
 
 	
+
 | **Knowledge** | **Mod. to ST** |
 | --- | --- |
 | You've heard of the target | +4 |
@@ -11381,743 +11297,819 @@ You create a magical zone that guards against deception in a 3-meter radius sphe
 Next to each spell is indicated the Rarity and level of the spell.
 
 **ABJURATION**
-Resistance, Common, 0
-Alarm, Common, 1
-Lesser Protection from Energy, Rare, 1
-Mage Armor, Uncommon, 1
-Sanctuary, Common, 1
-Arcane Lock, Common, 2
-Close Portal, Rare, 2
-Protection from Poison, Uncommon, 2
-Warding Bond, Common, 2
-Counterspell, Common, 3
-Dispel Magic, Common, 3
-Glyph of Warding, Common, 3
-Magic Circle, Common, 3
-Nondetection, Uncommon, 3
-Protection from Energy, Common, 3
-Remove Curse, Common, 3
-Banishment, Common, 4
-Freedom of Movement, Common, 4
-Life Bubble, Uncommon, 4
-Private Sanctum, Very Rare, 4
-Dispel Evil and Good, Rare, 5
-Greater Dispel Magic, Rare, 5
-Forbiddance, Uncommon, 6
-Globe of Invulnerability, Common, 6
-Guards and Wards, Uncommon, 6
-Symbol, Uncommon, 7
-Anti-Magic Field, Rare, 8
-Holy Aura, Common, 8
-Mind Blank, Uncommon, 8
-Imprisonment, Rare, 9
-Prismatic Wall, Rare, 9
+
+| Resistance, Common, 0 |
+| --- |
+| Alarm, Common, 1 |
+| Lesser Protection from Energy, Rare, 1 |
+| Mage Armor, Uncommon, 1 |
+| Sanctuary, Common, 1 |
+| Arcane Lock, Common, 2 |
+| Close Portal, Rare, 2 |
+| Protection from Poison, Uncommon, 2 |
+| Warding Bond, Common, 2 |
+| Counterspell, Common, 3 |
+| Dispel Magic, Common, 3 |
+| Glyph of Warding, Common, 3 |
+| Magic Circle, Common, 3 |
+| Nondetection, Uncommon, 3 |
+| Protection from Energy, Common, 3 |
+| Remove Curse, Common, 3 |
+| Banishment, Common, 4 |
+| Freedom of Movement, Common, 4 |
+| Life Bubble, Uncommon, 4 |
+| Private Sanctum, Very Rare, 4 |
+| Dispel Evil and Good, Rare, 5 |
+| Greater Dispel Magic, Rare, 5 |
+| Forbiddance, Uncommon, 6 |
+| Globe of Invulnerability, Common, 6 |
+| Guards and Wards, Uncommon, 6 |
+| Symbol, Uncommon, 7 |
+| Anti-Magic Field, Rare, 8 |
+| Holy Aura, Common, 8 |
+| Mind Blank, Uncommon, 8 |
+| Imprisonment, Rare, 9 |
+| Prismatic Wall, Rare, 9 |
+
 **AIR**
-Shocking Grasp, Common, 0
-Elemental Weapon, Very Rare, 1
-Feather Fall, Common, 1
-Fog Cloud, Common, 1
-Jump, Common, 1
-Thunderwave, Common, 1
-Glitterdust, Uncommon, 2
-Gust of Wind, Common, 2
-Levitate, Common, 2
-Call Lightning, Common, 3
-Fly, Common, 3
-Lightning Bolt, Common, 3
-Stinking Cloud, Uncommon, 3
-Water Breathing, Common, 3
-Wind Wall, Uncommon, 3
-Air Walk, Uncommon, 4
-Conjure Minor Elementals, Uncommon, 4
-Ice Storm, Uncommon, 4
-Life Bubble, Uncommon, 4
-Conjure Elemental, Rare, 5
-Chain Lightning, Rare, 6
-Wind Walk, Uncommon, 6
-Control Weather, Very Rare, 8
+
+| Shocking Grasp, Common, 0 |
+| --- |
+| Elemental Weapon, Very Rare, 1 |
+| Feather Fall, Common, 1 |
+| Fog Cloud, Common, 1 |
+| Jump, Common, 1 |
+| Thunderwave, Common, 1 |
+| Glitterdust, Uncommon, 2 |
+| Gust of Wind, Common, 2 |
+| Levitate, Common, 2 |
+| Call Lightning, Common, 3 |
+| Fly, Common, 3 |
+| Lightning Bolt, Common, 3 |
+| Stinking Cloud, Uncommon, 3 |
+| Water Breathing, Common, 3 |
+| Wind Wall, Uncommon, 3 |
+| Air Walk, Uncommon, 4 |
+| Conjure Minor Elementals, Uncommon, 4 |
+| Ice Storm, Uncommon, 4 |
+| Life Bubble, Uncommon, 4 |
+| Conjure Elemental, Rare, 5 |
+| Chain Lightning, Rare, 6 |
+| Wind Walk, Uncommon, 6 |
+| Control Weather, Very Rare, 8 |
+
 **ANIMALS AND PLANTS**
-Piercing Tendrils, Uncommon, 0
-Poison Spray, Uncommon, 0
-Shillelagh, Common, 0
-Animal Friendship, Uncommon, 1
-Entangle, Common, 1
-Grease, Common, 1
-Purify Food and Drink, Common, 1
-Speak with Animals, Common, 1
-Animal Messenger, Common, 2
-Spike Growth, Common, 2
-Barkskin, Common, 2
-Concentrated Kyrin Currant Juice, Uncommon, 2
-Conjure Mount, Common, 2
-Goodberry, Common, 2
-Kyrin's Acorn Barrage, Uncommon, 2
-Locate Animals or Plants, Uncommon, 2
-Pass without Trace, Common, 2
-Web, Common, 2
-Conjure Animals, Uncommon, 3
-Kyrin's Flaming Acorn Barrage, Rare, 3
-Kyrin's Lemon Barrage, Rare, 3
-Plant Growth, Uncommon, 3
-Speak with Plants, Rare, 3
-Sticks to Snakes, Uncommon, 3
-Dominate Beast, Very Rare - Common, 4
-Giant Insect, Uncommon, 4
-Polymorph, Common, 4
-Antilife Shell, Uncommon, 5
-Awaken, Rare, 5
-Insect Plague, Rare, 5
-Kyrin's Chestnut Barrage, Very Rare, 5
-Reincarnate, Rare, 5
-Tree Stride, Rare, 5
-Transport via Plants, Very Rare, 6
-Wall of Thorns, Uncommon, 6
-True Polymorph, Rare, 9
+
+| Piercing Tendrils, Uncommon, 0 |
+| --- |
+| Poison Spray, Uncommon, 0 |
+| Shillelagh, Common, 0 |
+| Animal Friendship, Uncommon, 1 |
+| Entangle, Common, 1 |
+| Grease, Common, 1 |
+| Purify Food and Drink, Common, 1 |
+| Speak with Animals, Common, 1 |
+| Animal Messenger, Common, 2 |
+| Spike Growth, Common, 2 |
+| Barkskin, Common, 2 |
+| Concentrated Kyrin Currant Juice, Uncommon, 2 |
+| Conjure Mount, Common, 2 |
+| Goodberry, Common, 2 |
+| Kyrin's Acorn Barrage, Uncommon, 2 |
+| Locate Animals or Plants, Uncommon, 2 |
+| Pass without Trace, Common, 2 |
+| Web, Common, 2 |
+| Conjure Animals, Uncommon, 3 |
+| Kyrin's Flaming Acorn Barrage, Rare, 3 |
+| Kyrin's Lemon Barrage, Rare, 3 |
+| Plant Growth, Uncommon, 3 |
+| Speak with Plants, Rare, 3 |
+| Sticks to Snakes, Uncommon, 3 |
+| Dominate Beast, Very Rare - Common, 4 |
+| Giant Insect, Uncommon, 4 |
+| Polymorph, Common, 4 |
+| Antilife Shell, Uncommon, 5 |
+| Awaken, Rare, 5 |
+| Insect Plague, Rare, 5 |
+| Kyrin's Chestnut Barrage, Very Rare, 5 |
+| Reincarnate, Rare, 5 |
+| Tree Stride, Rare, 5 |
+| Transport via Plants, Very Rare, 6 |
+| Wall of Thorns, Uncommon, 6 |
+| True Polymorph, Rare, 9 |
+
 **CONJURATION**
-Acid Splash, Common, 0
-Create Beer, Rare, 0
-Mage Hand, Common, 0
-Floating Disk, Common, 1
-Invisible Cook, Common, 1
-Greater Blessing, Uncommon, 2
-Misty Step, Rare, 2
-Spiritual Weapon, Common, 2
-Create Food and Water, Common, 3
-Supreme Blessing, Rare, 3
-Black Tentacles, Uncommon, 4
-Dimension Door, Common, 4
-Teleportation Circle, Uncommon, 5
-Blade Barrier, Common, 6
-Instant Summons, Rare, 6
-Sunbeam, Uncommon, 6
-Word of Retreat, Rare, 6
-Magnificent Mansion, Legendary, 7
-Teleport, Common, 7
-Maze, Rare, 8
-Wish, Legendary, 9
+
+| Acid Splash, Common, 0 |
+| --- |
+| Create Beer, Rare, 0 |
+| Mage Hand, Common, 0 |
+| Floating Disk, Common, 1 |
+| Invisible Cook, Common, 1 |
+| Greater Blessing, Uncommon, 2 |
+| Misty Step, Rare, 2 |
+| Spiritual Weapon, Common, 2 |
+| Create Food and Water, Common, 3 |
+| Supreme Blessing, Rare, 3 |
+| Black Tentacles, Uncommon, 4 |
+| Dimension Door, Common, 4 |
+| Teleportation Circle, Uncommon, 5 |
+| Blade Barrier, Common, 6 |
+| Instant Summons, Rare, 6 |
+| Sunbeam, Uncommon, 6 |
+| Word of Retreat, Rare, 6 |
+| Magnificent Mansion, Legendary, 7 |
+| Teleport, Common, 7 |
+| Maze, Rare, 8 |
+| Wish, Legendary, 9 |
+
 **DIVINATION**
-Guidance, Common, 0
-True Strike, Common, 0
-Comprehend Languages, Common, 1
-Detect Poison and Disease, Uncommon, 1
-Know Traits, Legendary, 1
-Augury, Common, 2
-Comprehend Writings, Uncommon, 2
-Detect Thoughts, Rare, 2
-Find Traps, Common, 2
-Locate Object, Common, 2
-See Invisibility, Common, 2
-Clairvoyance, Common, 3
-Tongues, Common, 3
-Arcane Eye, Common, 4
-Locate Creature, Common, 4
-Commune, Rare, 5
-Commune with Nature, Very Rare, 5
-Legend Lore, Common, 5
-Scrying, Rare, 5
-Telepathic Bond, Rare, 5
-Divination, Rare, 6
-Find the Path, Uncommon, 6
-True Seeing, Rare, 6
-Foresight, Uncommon, 9
+
+| Guidance, Common, 0 |
+| --- |
+| True Strike, Common, 0 |
+| Comprehend Languages, Common, 1 |
+| Detect Poison and Disease, Uncommon, 1 |
+| Know Traits, Legendary, 1 |
+| Augury, Common, 2 |
+| Comprehend Writings, Uncommon, 2 |
+| Detect Thoughts, Rare, 2 |
+| Find Traps, Common, 2 |
+| Locate Object, Common, 2 |
+| See Invisibility, Common, 2 |
+| Clairvoyance, Common, 3 |
+| Tongues, Common, 3 |
+| Arcane Eye, Common, 4 |
+| Locate Creature, Common, 4 |
+| Commune, Rare, 5 |
+| Commune with Nature, Very Rare, 5 |
+| Legend Lore, Common, 5 |
+| Scrying, Rare, 5 |
+| Telepathic Bond, Rare, 5 |
+| Divination, Rare, 6 |
+| Find the Path, Uncommon, 6 |
+| True Seeing, Rare, 6 |
+| Foresight, Uncommon, 9 |
+
 **EARTH**
-Mending, Common, 0
-Eithne's Mud Ball, Uncommon, 1
-Elemental Weapon, Very Rare, 1
-Concentrated Kyrin Currant Juice, Uncommon, 2
-Kyrin's Earth Reading, Uncommon, 2
-Pass without Trace, Common, 2
-Restser's Acid Arrow, Common, 2
-Kyrin's Lemon Barrage, Rare, 3
-Meld into Stone, Common, 3
-Conjure Minor Elementals, Uncommon, 4
-Stone Shape, Common, 4
-Stoneskin, Uncommon, 4
-Conjure Elemental, Rare, 5
-Passwall, Uncommon, 5
-Stone to Mud - Mud to Stone, Uncommon - Very Rare, 5
-Flesh to Stone - Stone to Flesh, Uncommon - Rare, 6
-Move Earth, Uncommon, 6
-Transport via Plants, Very Rare, 6
-Earthquake, Very Rare, 8
-Meteor Swarm, Legendary, 9
+
+| Mending, Common, 0 |
+| --- |
+| Eithne's Mud Ball, Uncommon, 1 |
+| Elemental Weapon, Very Rare, 1 |
+| Concentrated Kyrin Currant Juice, Uncommon, 2 |
+| Kyrin's Earth Reading, Uncommon, 2 |
+| Pass without Trace, Common, 2 |
+| Restser's Acid Arrow, Common, 2 |
+| Kyrin's Lemon Barrage, Rare, 3 |
+| Meld into Stone, Common, 3 |
+| Conjure Minor Elementals, Uncommon, 4 |
+| Stone Shape, Common, 4 |
+| Stoneskin, Uncommon, 4 |
+| Conjure Elemental, Rare, 5 |
+| Passwall, Uncommon, 5 |
+| Stone to Mud - Mud to Stone, Uncommon - Very Rare, 5 |
+| Flesh to Stone - Stone to Flesh, Uncommon - Rare, 6 |
+| Move Earth, Uncommon, 6 |
+| Transport via Plants, Very Rare, 6 |
+| Earthquake, Very Rare, 8 |
+| Meteor Swarm, Legendary, 9 |
+
 **ENCHANTMENT**
-Finger, Rare, 0
-Vicious Mockery, Common, 0
-Bane, Common, 1
-Charm Person, Common, 1
-Command, Common, 1
-Heroism, Uncommon, 1
-Hideous Laughter, Uncommon, 1
-Sleep, Common, 1
-Calm Emotions, Common, 2
-Enthrall, Common, 2
-Hold Person, Common, 2
-Suggestion, Rare, 2
-Zone of Truth, Uncommon, 2
-Cattalm's Blessing, Very Rare, 3
-Compulsion, Uncommon, 4
-Confusion, Common, 4
-Dominate Beast, Very Rare - Common, 4
-Greater Hold Person, Uncommon, 4
-Dominate Person, Uncommon, 5
-Geas, Rare, 5
-Hold Monster, Common, 5
-Modify Memory, Very Rare, 5
-Mass Suggestion, Very Rare, 6
-Antipathy/Sympathy, Rare, 8
-Contagious Confusion, Very Rare, 8
-Dominate Monster, Uncommon, 8
-Feeblemind, Rare, 8
-Irresistible Dance, Legendary, 8
-Power Word Stun, Uncommon, 8
-Power Word Kill, Rare, 9
+
+| Finger, Rare, 0 |
+| --- |
+| Vicious Mockery, Common, 0 |
+| Bane, Common, 1 |
+| Charm Person, Common, 1 |
+| Command, Common, 1 |
+| Heroism, Uncommon, 1 |
+| Hideous Laughter, Uncommon, 1 |
+| Sleep, Common, 1 |
+| Calm Emotions, Common, 2 |
+| Enthrall, Common, 2 |
+| Hold Person, Common, 2 |
+| Suggestion, Rare, 2 |
+| Zone of Truth, Uncommon, 2 |
+| Cattalm's Blessing, Very Rare, 3 |
+| Compulsion, Uncommon, 4 |
+| Confusion, Common, 4 |
+| Dominate Beast, Very Rare - Common, 4 |
+| Greater Hold Person, Uncommon, 4 |
+| Dominate Person, Uncommon, 5 |
+| Geas, Rare, 5 |
+| Hold Monster, Common, 5 |
+| Modify Memory, Very Rare, 5 |
+| Mass Suggestion, Very Rare, 6 |
+| Antipathy/Sympathy, Rare, 8 |
+| Contagious Confusion, Very Rare, 8 |
+| Dominate Monster, Uncommon, 8 |
+| Feeblemind, Rare, 8 |
+| Irresistible Dance, Legendary, 8 |
+| Power Word Stun, Uncommon, 8 |
+| Power Word Kill, Rare, 9 |
+
 **EVOCATION**
-Cattalm's Slap, Uncommon, 1
-Dancing Lights, Uncommon, 1
-Darkness, Common, 1
-Eldritch Blast, Common, 1
-Guiding Bolt, Uncommon, 1
-Luminescence, Uncommon, 1
-Searing Smite, Rare, 1
-Unseen Servant, Common, 1
-Laydel's Tear, Very Rare/Common, 2
-Shimmering Smite, Uncommon, 2
-Blinding Smite, Rare, 3
-Daylight, Common, 3
-Sending, Common, 3
-Tiny Hut, Uncommon, 3
-Faithful Hound, Rare, 4
-Secret Chest, Rare, 4
-Arcane Hand, Uncommon, 5
-Hallow, Rare, 5
-Wall of Force, Common, 5
-Wall of Stone, Common, 5
-Circle of Death, Very Rare, 6
-Contingency, Uncommon, 6
-Heroes' Feast, Uncommon, 6
-Arcane Sword, Rare, 7
-Prismatic Spray, Rare, 7
-Sunburst, Rare, 8
+
+| Cattalm's Slap, Uncommon, 1 |
+| --- |
+| Dancing Lights, Uncommon, 1 |
+| Darkness, Common, 1 |
+| Eldritch Blast, Common, 1 |
+| Guiding Bolt, Uncommon, 1 |
+| Luminescence, Uncommon, 1 |
+| Searing Smite, Rare, 1 |
+| Unseen Servant, Common, 1 |
+| Laydel's Tear, Very Rare/Common, 2 |
+| Shimmering Smite, Uncommon, 2 |
+| Blinding Smite, Rare, 3 |
+| Daylight, Common, 3 |
+| Sending, Common, 3 |
+| Tiny Hut, Uncommon, 3 |
+| Faithful Hound, Rare, 4 |
+| Secret Chest, Rare, 4 |
+| Arcane Hand, Uncommon, 5 |
+| Hallow, Rare, 5 |
+| Wall of Force, Common, 5 |
+| Wall of Stone, Common, 5 |
+| Circle of Death, Very Rare, 6 |
+| Contingency, Uncommon, 6 |
+| Heroes' Feast, Uncommon, 6 |
+| Arcane Sword, Rare, 7 |
+| Prismatic Spray, Rare, 7 |
+| Sunburst, Rare, 8 |
+
 **FIRE**
-Produce Flame, Common, 0
-Burning Wave, Common, 1
-Elemental Weapon, Very Rare, 1
-Fire Bolt, Common, 1
-Fire Master, Uncommon, 2
-Flame Blade, Common, 2
-Flamethrower, Rare, 2
-Flaming Sphere, Common, 2
-Glitterdust, Uncommon, 2
-Heat Metal, Uncommon, 2
-Scorching Ray, Common, 2
-Cattalm's Blessing, Very Rare, 3
-Fireball, Common, 3
-Kyrin's Flaming Acorn Barrage, Rare, 3
-Conjure Minor Elementals, Uncommon, 4
-Fire Shield, Uncommon, 4
-Wall of Fire, Common, 4
-Conjure Elemental, Rare, 5
-Flame Strike, Common, 5
-Delayed Blast Fireball, Rare, 7
-Fire Storm, Rare, 7
-Incendiary Cloud, Rare, 8
-Meteor Swarm, Legendary, 9
+
+| Produce Flame, Common, 0 |
+| --- |
+| Burning Wave, Common, 1 |
+| Elemental Weapon, Very Rare, 1 |
+| Fire Bolt, Common, 1 |
+| Fire Master, Uncommon, 2 |
+| Flame Blade, Common, 2 |
+| Flamethrower, Rare, 2 |
+| Flaming Sphere, Common, 2 |
+| Glitterdust, Uncommon, 2 |
+| Heat Metal, Uncommon, 2 |
+| Scorching Ray, Common, 2 |
+| Cattalm's Blessing, Very Rare, 3 |
+| Fireball, Common, 3 |
+| Kyrin's Flaming Acorn Barrage, Rare, 3 |
+| Conjure Minor Elementals, Uncommon, 4 |
+| Fire Shield, Uncommon, 4 |
+| Wall of Fire, Common, 4 |
+| Conjure Elemental, Rare, 5 |
+| Flame Strike, Common, 5 |
+| Delayed Blast Fireball, Rare, 7 |
+| Fire Storm, Rare, 7 |
+| Incendiary Cloud, Rare, 8 |
+| Meteor Swarm, Legendary, 9 |
+
 **HEALING**
-Cure Wounds, Common, 1
-Aid, Uncommon, 2
-Lesser Restoration, Common, 2
-Prayer of Healing, Common, 2
-Remove Disease, Common, 2
-Blessing of Life, Rare, 3
-Destroy Undead, Uncommon, 3
-Remove Poison, Common, 3
-Revivify, Very Rare, 3
-Vigor, Rare, 4
-Greater Restoration, Uncommon, 5
-Heal, Rare, 6
-Mass Heal, Legendary, 9
+
+| Cure Wounds, Common, 1 |
+| --- |
+| Aid, Uncommon, 2 |
+| Lesser Restoration, Common, 2 |
+| Prayer of Healing, Common, 2 |
+| Remove Disease, Common, 2 |
+| Blessing of Life, Rare, 3 |
+| Destroy Undead, Uncommon, 3 |
+| Remove Poison, Common, 3 |
+| Revivify, Very Rare, 3 |
+| Vigor, Rare, 4 |
+| Greater Restoration, Uncommon, 5 |
+| Heal, Rare, 6 |
+| Mass Heal, Legendary, 9 |
+
 **ILLUSION**
-Color Spray, Common, 1
-Disguise Self, Common, 1
-Illusory Script, Common, 1
-Silent Image, Common, 1
-Arcanist's Magic Aura, Uncommon, 2
-Blur, Common, 2
-Invisibility, Common, 2
-Magic Mouth, Common, 2
-Mirror Image, Common, 2
-Silence, Common, 2
-Fear, Uncommon, 3
-Hypnotic Pattern, Common, 3
-Major Image, Common, 3
-Phantom Steed, Common, 3
-Greater Invisibility, Uncommon, 4
-Hallucinatory Terrain, Uncommon, 4
-Phantasmal Killer, Uncommon, 4
-Creation, Rare, 5
-Dream, Uncommon, 5
-Mislead, Uncommon, 5
-Seeming, Uncommon, 5
-Programmed Illusion, Uncommon, 6
-Arcane Mirage, Rare, 7
-Project Image, Uncommon, 7
-Weird, Rare, 9
+
+| Color Spray, Common, 1 |
+| --- |
+| Disguise Self, Common, 1 |
+| Illusory Script, Common, 1 |
+| Silent Image, Common, 1 |
+| Arcanist's Magic Aura, Uncommon, 2 |
+| Blur, Common, 2 |
+| Invisibility, Common, 2 |
+| Magic Mouth, Common, 2 |
+| Mirror Image, Common, 2 |
+| Silence, Common, 2 |
+| Fear, Uncommon, 3 |
+| Hypnotic Pattern, Common, 3 |
+| Major Image, Common, 3 |
+| Phantom Steed, Common, 3 |
+| Greater Invisibility, Uncommon, 4 |
+| Hallucinatory Terrain, Uncommon, 4 |
+| Phantasmal Killer, Uncommon, 4 |
+| Creation, Rare, 5 |
+| Dream, Uncommon, 5 |
+| Mislead, Uncommon, 5 |
+| Seeming, Uncommon, 5 |
+| Programmed Illusion, Uncommon, 6 |
+| Arcane Mirage, Rare, 7 |
+| Project Image, Uncommon, 7 |
+| Weird, Rare, 9 |
+
 **INVOCATION**
-Divine Favor, Uncommon, 1
-Branding Smite, Common, 2
-Shatter, Common, 2
-Forcecage, Rare, 6
-Divine Word, Very Rare, 7
+
+| Divine Favor, Uncommon, 1 |
+| --- |
+| Branding Smite, Common, 2 |
+| Shatter, Common, 2 |
+| Forcecage, Rare, 6 |
+| Divine Word, Very Rare, 7 |
+
 **NECROMANCY**
-Chill Touch, Common, 0
-Cry of Pain, Rare, 1
-False Life, Common, 1
-Ray of Enfeeblement, Common, 1
-Aid, Uncommon, 2
-Blindness/Deafness, Common, 2
-Death Ray, Rare, 2
-Gentle Repose, Uncommon, 2
-Inflict Wounds, Common, 2
-Animate Dead, Common, 3
-Bestow Curse, Uncommon, 3
-Greater Blindness/Deafness, Uncommon, 3
-Revivify, Very Rare, 3
-Speak with Dead, Rare, 3
-Vampiric Touch, Rare, 3
-Blight, Uncommon, 4
-Death Ward, Uncommon, 4
-Contagion, Uncommon, 5
-Create Undead, Uncommon, 6
-Eyebite, Very Rare, 6
-Finger of Death, Rare, 6
-Harm, Uncommon, 6
-Magic Jar, Very Rare, 6
+
+| Chill Touch, Common, 0 |
+| --- |
+| Cry of Pain, Rare, 1 |
+| False Life, Common, 1 |
+| Ray of Enfeeblement, Common, 1 |
+| Aid, Uncommon, 2 |
+| Blindness/Deafness, Common, 2 |
+| Death Ray, Rare, 2 |
+| Gentle Repose, Uncommon, 2 |
+| Inflict Wounds, Common, 2 |
+| Animate Dead, Common, 3 |
+| Bestow Curse, Uncommon, 3 |
+| Greater Blindness/Deafness, Uncommon, 3 |
+| Revivify, Very Rare, 3 |
+| Speak with Dead, Rare, 3 |
+| Vampiric Touch, Rare, 3 |
+| Blight, Uncommon, 4 |
+| Death Ward, Uncommon, 4 |
+| Contagion, Uncommon, 5 |
+| Create Undead, Uncommon, 6 |
+| Eyebite, Very Rare, 6 |
+| Finger of Death, Rare, 6 |
+| Harm, Uncommon, 6 |
+| Magic Jar, Very Rare, 6 |
+
 **TRANSMUTATION**
-Message, Common, 0
-Expeditious Retreat, Uncommon, 1
-Longstrider, Very Rare, 1
-Alter Self, Uncommon, 2
-Catnap, Legendary, 2
-Darkvision, Common, 2
-Enhanced Ability, Common, 2
-Enlarge/Reduce, Common, 2
-Knock, Common, 2
-Magic Weapon, Common, 2
-Rope Trick, Common, 2
-Spider Climb, Uncommon, 2
-Blink, Uncommon, 3
-Gaseous Form, Uncommon, 3
-Haste, Uncommon, 3
-Slow, Uncommon, 3
-Fabricate, Common, 4
-Animate Objects, Common, 5
-Telekinesis, Uncommon, 5
-Disintegrate, Uncommon, 6
-Restser's Furious Transformation, Very Rare, 6
-Etherealness, Rare, 7
-Regenerate, Legendary, 7
-Reverse Gravity, Rare, 7
-Sequester, Rare, 7
-Glibness, Rare, 8
-Shapechange, Rare, 9
-Time Stop, Very Rare, 9
+
+| Message, Common, 0 |
+| --- |
+| Expeditious Retreat, Uncommon, 1 |
+| Longstrider, Very Rare, 1 |
+| Alter Self, Uncommon, 2 |
+| Catnap, Legendary, 2 |
+| Darkvision, Common, 2 |
+| Enhanced Ability, Common, 2 |
+| Enlarge/Reduce, Common, 2 |
+| Knock, Common, 2 |
+| Magic Weapon, Common, 2 |
+| Rope Trick, Common, 2 |
+| Spider Climb, Uncommon, 2 |
+| Blink, Uncommon, 3 |
+| Gaseous Form, Uncommon, 3 |
+| Haste, Uncommon, 3 |
+| Slow, Uncommon, 3 |
+| Fabricate, Common, 4 |
+| Animate Objects, Common, 5 |
+| Telekinesis, Uncommon, 5 |
+| Disintegrate, Uncommon, 6 |
+| Restser's Furious Transformation, Very Rare, 6 |
+| Etherealness, Rare, 7 |
+| Regenerate, Legendary, 7 |
+| Reverse Gravity, Rare, 7 |
+| Sequester, Rare, 7 |
+| Glibness, Rare, 8 |
+| Shapechange, Rare, 9 |
+| Time Stop, Very Rare, 9 |
+
 **WATER**
-Ray of Frost, Common, 0
-Create or Destroy Water, Common, 1
-Cure Wounds, Common, 1
-Elemental Weapon, Very Rare, 1
-Fog Cloud, Common, 1
-Restser's Acid Arrow, Common, 2
-Remove Poison, Common, 3
-Sleet Storm, Very Rare, 3
-Stinking Cloud, Uncommon, 3
-Water Breathing, Common, 3
-Water Walk, Common, 3
-Conjure Minor Elementals, Uncommon, 4
-Control Water, Common, 4
-Fire Shield, Uncommon, 4
-Ice Storm, Uncommon, 4
-Cloudkill, Rare, 5
-Cone of Cold, Common, 5
-Conjure Elemental, Rare, 5
-Freezing Sphere, Rare, 6
-Wall of Ice, Common, 6
-Control Weather, Very Rare, 8
+
+| Ray of Frost, Common, 0 |
+| --- |
+| Create or Destroy Water, Common, 1 |
+| Cure Wounds, Common, 1 |
+| Elemental Weapon, Very Rare, 1 |
+| Fog Cloud, Common, 1 |
+| Restser's Acid Arrow, Common, 2 |
+| Remove Poison, Common, 3 |
+| Sleet Storm, Very Rare, 3 |
+| Stinking Cloud, Uncommon, 3 |
+| Water Breathing, Common, 3 |
+| Water Walk, Common, 3 |
+| Conjure Minor Elementals, Uncommon, 4 |
+| Control Water, Common, 4 |
+| Fire Shield, Uncommon, 4 |
+| Ice Storm, Uncommon, 4 |
+| Cloudkill, Rare, 5 |
+| Cone of Cold, Common, 5 |
+| Conjure Elemental, Rare, 5 |
+| Freezing Sphere, Rare, 6 |
+| Wall of Ice, Common, 6 |
+| Control Weather, Very Rare, 8 |
+
 **UNIVERSAL**
-Arcane Mark, Common, 0
-Druidcraft, Uncommon, 0
-Ljust's Tear, Uncommon, 0
-Minor Illusion, Common, 0
-Prestidigitation, Common, 0
-Sacred Flame, Common, 0
-Shield, Common, 0
-Thaumaturgy, Uncommon, 0
-Arcane dart, Common, 1
-Bless, Common, 1
-CTRLC+CTRLV, Very Rare, 1
-Detect Magic, Common, 1
-Identify, Common, 1
-Lesser Bestow Curse, Common, 1
-Light, Common, 1
-Read Magic, Common, 1
-Bless Water, Common, 2
-Continual Flame, Legendary, 2
+
+| Arcane Mark, Common, 0 |
+| --- |
+| Druidcraft, Uncommon, 0 |
+| Ljust's Tear, Uncommon, 0 |
+| Minor Illusion, Common, 0 |
+| Prestidigitation, Common, 0 |
+| Sacred Flame, Common, 0 |
+| Shield, Common, 0 |
+| Thaumaturgy, Uncommon, 0 |
+| Arcane dart, Common, 1 |
+| Bless, Common, 1 |
+| CTRLC+CTRLV, Very Rare, 1 |
+| Detect Magic, Common, 1 |
+| Identify, Common, 1 |
+| Lesser Bestow Curse, Common, 1 |
+| Light, Common, 1 |
+| Read Magic, Common, 1 |
+| Bless Water, Common, 2 |
+| Continual Flame, Legendary, 2 |
 
 ## Spells by Level
 
 Listed are spells in order by level and alphabetically. See Chapter Magic Item Generation (page ) to generate random Tomes.
 
 **Level 0 - Cantrips**
-Acid Splash, Common, 0
-Arcane Mark, Common, 0
-Aura of Purity, Unknown, 0
-Chill Touch, Common, 0
-Create Beer, Rare, 0
-Druidcraft, Uncommon, 0
-Efrem's Blessings, Unknown, 0
-Finger, Rare, 0
-Guidance, Common, 0
-Ledyal's Blessing, Unknown, 0
-Ljust's Tear, Uncommon, 0
-Mage Hand, Common, 0
-Mending, Common, 0
-Message, Common, 0
-Minor Illusion, Common, 0
-Piercing Tendrils, Uncommon, 0
-Poison Spray, Uncommon, 0
-Prestidigitation, Common, 0
-Produce Flame, Common, 0
-Ray of Frost, Common, 0
-Resistance, Common, 0
-Sacred Flame, Common, 0
-Shield, Common, 0
-Shillelagh, Common, 0
-Shocking Grasp, Common, 0
-Thaumaturgy, Uncommon, 0
-True Strike, Common, 0
-Vicious Mockery, Common, 0
+
+| Acid Splash, Common, 0 |
+| --- |
+| Arcane Mark, Common, 0 |
+| Aura of Purity, Unknown, 0 |
+| Chill Touch, Common, 0 |
+| Create Beer, Rare, 0 |
+| Druidcraft, Uncommon, 0 |
+| Efrem's Blessings, Unknown, 0 |
+| Finger, Rare, 0 |
+| Guidance, Common, 0 |
+| Ledyal's Blessing, Unknown, 0 |
+| Ljust's Tear, Uncommon, 0 |
+| Mage Hand, Common, 0 |
+| Mending, Common, 0 |
+| Message, Common, 0 |
+| Minor Illusion, Common, 0 |
+| Piercing Tendrils, Uncommon, 0 |
+| Poison Spray, Uncommon, 0 |
+| Prestidigitation, Common, 0 |
+| Produce Flame, Common, 0 |
+| Ray of Frost, Common, 0 |
+| Resistance, Common, 0 |
+| Sacred Flame, Common, 0 |
+| Shield, Common, 0 |
+| Shillelagh, Common, 0 |
+| Shocking Grasp, Common, 0 |
+| Thaumaturgy, Uncommon, 0 |
+| True Strike, Common, 0 |
+| Vicious Mockery, Common, 0 |
+
 **Level 1**
-Alarm, Common, 1
-Animal Friendship, Uncommon, 1
-Arcane dart, Common, 1
-Bane, Common, 1
-Bless, Common, 1
-Burning Wave, Common, 1
-Cattalm's Slap, Uncommon, 1
-Charm Person, Common, 1
-Color Spray, Common, 1
-Command, Common, 1
-Comprehend Languages, Common, 1
-Create or Destroy Water, Common, 1
-Cry of Pain, Rare, 1
-CTRLC+CTRLV, Very Rare, 1
-Cure Wounds, Common, 1
-Dancing Lights, Uncommon, 1
-Darkness, Common, 1
-Detect Magic, Common, 1
-Detect Poison and Disease, Uncommon, 1
-Disguise Self, Common, 1
-Divine Favor, Uncommon, 1
-Eithne's Mud Ball, Uncommon, 1
-Eldritch Blast, Common, 1
-Elemental Weapon, Very Rare, 1
-Entangle, Common, 1
-Expeditious Retreat, Uncommon, 1
-False Life, Common, 1
-Feather Fall, Common, 1
-Fire Bolt, Common, 1
-Floating Disk, Common, 1
-Fog Cloud, Common, 1
-Grease, Common, 1
-Guiding Bolt, Uncommon, 1
-Heroism, Uncommon, 1
-Hideous Laughter, Uncommon, 1
-Identify, Common, 1
-Illusory Script, Common, 1
-Invisible Cook, Common, 1
-Jump, Common, 1
-Know Traits, Legendary, 1
-Lesser Bestow Curse, Common, 1
-Lesser Protection from Energy, Rare, 1
-Light, Common, 1
-Longstrider, Very Rare, 1
-Luminescence, Uncommon, 1
-Mage Armor, Uncommon, 1
-Purify Food and Drink, Common, 1
-Ray of Enfeeblement, Common, 1
-Read Magic, Common, 1
-Sanctuary, Common, 1
-Searing Smite, Rare, 1
-Silent Image, Common, 1
-Sleep, Common, 1
-Speak with Animals, Common, 1
-Thunderwave, Common, 1
-Unseen Servant, Common, 1
+
+| Alarm, Common, 1 |
+| --- |
+| Animal Friendship, Uncommon, 1 |
+| Arcane dart, Common, 1 |
+| Bane, Common, 1 |
+| Bless, Common, 1 |
+| Burning Wave, Common, 1 |
+| Cattalm's Slap, Uncommon, 1 |
+| Charm Person, Common, 1 |
+| Color Spray, Common, 1 |
+| Command, Common, 1 |
+| Comprehend Languages, Common, 1 |
+| Create or Destroy Water, Common, 1 |
+| Cry of Pain, Rare, 1 |
+| CTRLC+CTRLV, Very Rare, 1 |
+| Cure Wounds, Common, 1 |
+| Dancing Lights, Uncommon, 1 |
+| Darkness, Common, 1 |
+| Detect Magic, Common, 1 |
+| Detect Poison and Disease, Uncommon, 1 |
+| Disguise Self, Common, 1 |
+| Divine Favor, Uncommon, 1 |
+| Eithne's Mud Ball, Uncommon, 1 |
+| Eldritch Blast, Common, 1 |
+| Elemental Weapon, Very Rare, 1 |
+| Entangle, Common, 1 |
+| Expeditious Retreat, Uncommon, 1 |
+| False Life, Common, 1 |
+| Feather Fall, Common, 1 |
+| Fire Bolt, Common, 1 |
+| Floating Disk, Common, 1 |
+| Fog Cloud, Common, 1 |
+| Grease, Common, 1 |
+| Guiding Bolt, Uncommon, 1 |
+| Heroism, Uncommon, 1 |
+| Hideous Laughter, Uncommon, 1 |
+| Identify, Common, 1 |
+| Illusory Script, Common, 1 |
+| Invisible Cook, Common, 1 |
+| Jump, Common, 1 |
+| Know Traits, Legendary, 1 |
+| Lesser Bestow Curse, Common, 1 |
+| Lesser Protection from Energy, Rare, 1 |
+| Light, Common, 1 |
+| Longstrider, Very Rare, 1 |
+| Luminescence, Uncommon, 1 |
+| Mage Armor, Uncommon, 1 |
+| Purify Food and Drink, Common, 1 |
+| Ray of Enfeeblement, Common, 1 |
+| Read Magic, Common, 1 |
+| Sanctuary, Common, 1 |
+| Searing Smite, Rare, 1 |
+| Silent Image, Common, 1 |
+| Sleep, Common, 1 |
+| Speak with Animals, Common, 1 |
+| Thunderwave, Common, 1 |
+| Unseen Servant, Common, 1 |
+
 **Level 2**
-Aid, Uncommon, 2
-Alter Self, Uncommon, 2
-Animal Messenger, Common, 2
-Arcane Lock, Common, 2
-Arcanist's Magic Aura, Uncommon, 2
-Augury, Common, 2
-Barkskin, Common, 2
-Bless Water, Common, 2
-Blindness/Deafness, Common, 2
-Blur, Common, 2
-Branding Smite, Common, 2
-Calm Emotions, Common, 2
-Catnap, Legendary, 2
-Close Portal, Rare, 2
-Comprehend Writings, Uncommon, 2
-Concentrated Kyrin Currant Juice, Uncommon, 2
-Conjure Mount, Common, 2
-Continual Flame, Legendary, 2
-Darkvision, Common, 2
-Death Ray, Rare, 2
-Detect Thoughts, Rare, 2
-Enhanced Ability, Common, 2
-Enlarge/Reduce, Common, 2
-Enthrall, Common, 2
-Find Traps, Common, 2
-Fire Master, Uncommon, 2
-Flame Blade, Common, 2
-Flamethrower, Rare, 2
-Flaming Sphere, Common, 2
-Gentle Repose, Uncommon, 2
-Glitterdust, Uncommon, 2
-Goodberry, Common, 2
-Greater Blessing, Uncommon, 2
-Gust of Wind, Common, 2
-Heat Metal, Uncommon, 2
-Hold Person, Common, 2
-Inflict Wounds, Common, 2
-Invisibility, Common, 2
-Knock, Common, 2
-Kyrin's Acorn Barrage, Uncommon, 2
-Kyrin's Earth Reading, Uncommon, 2
-Laydel's Tear, Very Rare/Common, 2
-Lesser Restoration, Common, 2
-Levitate, Common, 2
-Locate Animals or Plants, Uncommon, 2
-Locate Object, Common, 2
-Magic Mouth, Common, 2
-Magic Weapon, Common, 2
-Mirror Image, Common, 2
-Misty Step, Rare, 2
-Pass without Trace, Common, 2
-Prayer of Healing, Common, 2
-Protection from Poison, Uncommon, 2
-Remove Disease, Common, 2
-Restser's Acid Arrow, Common, 2
-Rope Trick, Common, 2
-Scorching Ray, Common, 2
-See Invisibility, Common, 2
-Shatter, Common, 2
-Shimmering Smite, Uncommon, 2
-Silence, Common, 2
-Spider Climb, Uncommon, 2
-Spike Growth, Common, 2
-Spiritual Weapon, Common, 2
-Suggestion, Rare, 2
-Warding Bond, Common, 2
-Web, Common, 2
-Zone of Truth, Uncommon, 2
+
+| Aid, Uncommon, 2 |
+| --- |
+| Alter Self, Uncommon, 2 |
+| Animal Messenger, Common, 2 |
+| Arcane Lock, Common, 2 |
+| Arcanist's Magic Aura, Uncommon, 2 |
+| Augury, Common, 2 |
+| Barkskin, Common, 2 |
+| Bless Water, Common, 2 |
+| Blindness/Deafness, Common, 2 |
+| Blur, Common, 2 |
+| Branding Smite, Common, 2 |
+| Calm Emotions, Common, 2 |
+| Catnap, Legendary, 2 |
+| Close Portal, Rare, 2 |
+| Comprehend Writings, Uncommon, 2 |
+| Concentrated Kyrin Currant Juice, Uncommon, 2 |
+| Conjure Mount, Common, 2 |
+| Continual Flame, Legendary, 2 |
+| Darkvision, Common, 2 |
+| Death Ray, Rare, 2 |
+| Detect Thoughts, Rare, 2 |
+| Enhanced Ability, Common, 2 |
+| Enlarge/Reduce, Common, 2 |
+| Enthrall, Common, 2 |
+| Find Traps, Common, 2 |
+| Fire Master, Uncommon, 2 |
+| Flame Blade, Common, 2 |
+| Flamethrower, Rare, 2 |
+| Flaming Sphere, Common, 2 |
+| Gentle Repose, Uncommon, 2 |
+| Glitterdust, Uncommon, 2 |
+| Goodberry, Common, 2 |
+| Greater Blessing, Uncommon, 2 |
+| Gust of Wind, Common, 2 |
+| Heat Metal, Uncommon, 2 |
+| Hold Person, Common, 2 |
+| Inflict Wounds, Common, 2 |
+| Invisibility, Common, 2 |
+| Knock, Common, 2 |
+| Kyrin's Acorn Barrage, Uncommon, 2 |
+| Kyrin's Earth Reading, Uncommon, 2 |
+| Laydel's Tear, Very Rare/Common, 2 |
+| Lesser Restoration, Common, 2 |
+| Levitate, Common, 2 |
+| Locate Animals or Plants, Uncommon, 2 |
+| Locate Object, Common, 2 |
+| Magic Mouth, Common, 2 |
+| Magic Weapon, Common, 2 |
+| Mirror Image, Common, 2 |
+| Misty Step, Rare, 2 |
+| Pass without Trace, Common, 2 |
+| Prayer of Healing, Common, 2 |
+| Protection from Poison, Uncommon, 2 |
+| Remove Disease, Common, 2 |
+| Restser's Acid Arrow, Common, 2 |
+| Rope Trick, Common, 2 |
+| Scorching Ray, Common, 2 |
+| See Invisibility, Common, 2 |
+| Shatter, Common, 2 |
+| Shimmering Smite, Uncommon, 2 |
+| Silence, Common, 2 |
+| Spider Climb, Uncommon, 2 |
+| Spike Growth, Common, 2 |
+| Spiritual Weapon, Common, 2 |
+| Suggestion, Rare, 2 |
+| Warding Bond, Common, 2 |
+| Web, Common, 2 |
+| Zone of Truth, Uncommon, 2 |
+
 **Level 3**
-Animate Dead, Common, 3
-Bestow Curse, Uncommon, 3
-Blessing of Life, Rare, 3
-Blinding Smite, Rare, 3
-Blink, Uncommon, 3
-Call Lightning, Common, 3
-Cattalm's Blessing, Very Rare, 3
-Clairvoyance, Common, 3
-Conjure Animals, Uncommon, 3
-Counterspell, Common, 3
-Create Food and Water, Common, 3
-Daylight, Common, 3
-Destroy Undead, Uncommon, 3
-Dispel Magic, Common, 3
-Fear, Uncommon, 3
-Fireball, Common, 3
-Fly, Common, 3
-Gaseous Form, Uncommon, 3
-Glyph of Warding, Common, 3
-Greater Blindness/Deafness, Uncommon, 3
-Haste, Uncommon, 3
-Hypnotic Pattern, Common, 3
-Kyrin's Flaming Acorn Barrage, Rare, 3
-Kyrin's Lemon Barrage, Rare, 3
-Lightning Bolt, Common, 3
-Magic Circle, Common, 3
-Major Image, Common, 3
-Meld into Stone, Common, 3
-Nondetection, Uncommon, 3
-Phantom Steed, Common, 3
-Plant Growth, Uncommon, 3
-Protection from Energy, Common, 3
-Remove Curse, Common, 3
-Remove Poison, Common, 3
-Revivify, Very Rare, 3
-Sending, Common, 3
-Sleet Storm, Very Rare, 3
-Slow, Uncommon, 3
-Speak with Dead, Rare, 3
-Speak with Plants, Rare, 3
-Sticks to Snakes, Uncommon, 3
-Stinking Cloud, Uncommon, 3
-Supreme Blessing, Rare, 3
-Tiny Hut, Uncommon, 3
-Tongues, Common, 3
-Vampiric Touch, Rare, 3
-Water Breathing, Common, 3
-Water Walk, Common, 3
-Wind Wall, Uncommon, 3
+
+| Animate Dead, Common, 3 |
+| --- |
+| Bestow Curse, Uncommon, 3 |
+| Blessing of Life, Rare, 3 |
+| Blinding Smite, Rare, 3 |
+| Blink, Uncommon, 3 |
+| Call Lightning, Common, 3 |
+| Cattalm's Blessing, Very Rare, 3 |
+| Clairvoyance, Common, 3 |
+| Conjure Animals, Uncommon, 3 |
+| Counterspell, Common, 3 |
+| Create Food and Water, Common, 3 |
+| Daylight, Common, 3 |
+| Destroy Undead, Uncommon, 3 |
+| Dispel Magic, Common, 3 |
+| Fear, Uncommon, 3 |
+| Fireball, Common, 3 |
+| Fly, Common, 3 |
+| Gaseous Form, Uncommon, 3 |
+| Glyph of Warding, Common, 3 |
+| Greater Blindness/Deafness, Uncommon, 3 |
+| Haste, Uncommon, 3 |
+| Hypnotic Pattern, Common, 3 |
+| Kyrin's Flaming Acorn Barrage, Rare, 3 |
+| Kyrin's Lemon Barrage, Rare, 3 |
+| Lightning Bolt, Common, 3 |
+| Magic Circle, Common, 3 |
+| Major Image, Common, 3 |
+| Meld into Stone, Common, 3 |
+| Nondetection, Uncommon, 3 |
+| Phantom Steed, Common, 3 |
+| Plant Growth, Uncommon, 3 |
+| Protection from Energy, Common, 3 |
+| Remove Curse, Common, 3 |
+| Remove Poison, Common, 3 |
+| Revivify, Very Rare, 3 |
+| Sending, Common, 3 |
+| Sleet Storm, Very Rare, 3 |
+| Slow, Uncommon, 3 |
+| Speak with Dead, Rare, 3 |
+| Speak with Plants, Rare, 3 |
+| Sticks to Snakes, Uncommon, 3 |
+| Stinking Cloud, Uncommon, 3 |
+| Supreme Blessing, Rare, 3 |
+| Tiny Hut, Uncommon, 3 |
+| Tongues, Common, 3 |
+| Vampiric Touch, Rare, 3 |
+| Water Breathing, Common, 3 |
+| Water Walk, Common, 3 |
+| Wind Wall, Uncommon, 3 |
+
 **Level 4**
-Air Walk, Uncommon, 4
-Arcane Eye, Common, 4
-Banishment, Common, 4
-Black Tentacles, Uncommon, 4
-Blight, Uncommon, 4
-Compulsion, Uncommon, 4
-Confusion, Common, 4
-Conjure Minor Elementals, Uncommon, 4
-Control Water, Common, 4
-Death Ward, Uncommon, 4
-Dimension Door, Common, 4
-Dominate Beast, Very Rare - Common, 4
-Fabricate, Common, 4
-Faithful Hound, Rare, 4
-Fire Shield, Uncommon, 4
-Freedom of Movement, Common, 4
-Giant Insect, Uncommon, 4
-Greater Hold Person, Uncommon, 4
-Greater Invisibility, Uncommon, 4
-Hallucinatory Terrain, Uncommon, 4
-Ice Storm, Uncommon, 4
-Life Bubble, Uncommon, 4
-Locate Creature, Common, 4
-Phantasmal Killer, Uncommon, 4
-Polymorph, Common, 4
-Private Sanctum, Very Rare, 4
-Secret Chest, Rare, 4
-Stone Shape, Common, 4
-Stoneskin, Uncommon, 4
-Vigor, Rare, 4
-Wall of Fire, Common, 4
+
+| Air Walk, Uncommon, 4 |
+| --- |
+| Arcane Eye, Common, 4 |
+| Banishment, Common, 4 |
+| Black Tentacles, Uncommon, 4 |
+| Blight, Uncommon, 4 |
+| Compulsion, Uncommon, 4 |
+| Confusion, Common, 4 |
+| Conjure Minor Elementals, Uncommon, 4 |
+| Control Water, Common, 4 |
+| Death Ward, Uncommon, 4 |
+| Dimension Door, Common, 4 |
+| Dominate Beast, Very Rare - Common, 4 |
+| Fabricate, Common, 4 |
+| Faithful Hound, Rare, 4 |
+| Fire Shield, Uncommon, 4 |
+| Freedom of Movement, Common, 4 |
+| Giant Insect, Uncommon, 4 |
+| Greater Hold Person, Uncommon, 4 |
+| Greater Invisibility, Uncommon, 4 |
+| Hallucinatory Terrain, Uncommon, 4 |
+| Ice Storm, Uncommon, 4 |
+| Life Bubble, Uncommon, 4 |
+| Locate Creature, Common, 4 |
+| Phantasmal Killer, Uncommon, 4 |
+| Polymorph, Common, 4 |
+| Private Sanctum, Very Rare, 4 |
+| Secret Chest, Rare, 4 |
+| Stone Shape, Common, 4 |
+| Stoneskin, Uncommon, 4 |
+| Vigor, Rare, 4 |
+| Wall of Fire, Common, 4 |
+
 **Level 5**
-Animate Objects, Common, 5
-Antilife Shell, Uncommon, 5
-Arcane Hand, Uncommon, 5
-Awaken, Rare, 5
-Cloudkill, Rare, 5
-Commune, Rare, 5
-Commune with Nature, Very Rare, 5
-Cone of Cold, Common, 5
-Conjure Elemental, Rare, 5
-Contagion, Uncommon, 5
-Creation, Rare, 5
-Dispel Evil and Good, Rare, 5
-Dominate Person, Uncommon, 5
-Dream, Uncommon, 5
-Flame Strike, Common, 5
-Geas, Rare, 5
-Greater Dispel Magic, Rare, 5
-Greater Restoration, Uncommon, 5
-Hallow, Rare, 5
-Hold Monster, Common, 5
-Insect Plague, Rare, 5
-Kyrin's Chestnut Barrage, Very Rare, 5
-Legend Lore, Common, 5
-Mislead, Uncommon, 5
-Modify Memory, Very Rare, 5
-Passwall, Uncommon, 5
-Reincarnate, Rare, 5
-Scrying, Rare, 5
-Seeming, Uncommon, 5
-Stone to Mud - Mud to Stone, Uncommon - Very Rare, 5
-Telekinesis, Uncommon, 5
-Telepathic Bond, Rare, 5
-Teleportation Circle, Uncommon, 5
-Tree Stride, Rare, 5
-Wall of Force, Common, 5
-Wall of Stone, Common, 5
+
+| Animate Objects, Common, 5 |
+| --- |
+| Antilife Shell, Uncommon, 5 |
+| Arcane Hand, Uncommon, 5 |
+| Awaken, Rare, 5 |
+| Cloudkill, Rare, 5 |
+| Commune, Rare, 5 |
+| Commune with Nature, Very Rare, 5 |
+| Cone of Cold, Common, 5 |
+| Conjure Elemental, Rare, 5 |
+| Contagion, Uncommon, 5 |
+| Creation, Rare, 5 |
+| Dispel Evil and Good, Rare, 5 |
+| Dominate Person, Uncommon, 5 |
+| Dream, Uncommon, 5 |
+| Flame Strike, Common, 5 |
+| Geas, Rare, 5 |
+| Greater Dispel Magic, Rare, 5 |
+| Greater Restoration, Uncommon, 5 |
+| Hallow, Rare, 5 |
+| Hold Monster, Common, 5 |
+| Insect Plague, Rare, 5 |
+| Kyrin's Chestnut Barrage, Very Rare, 5 |
+| Legend Lore, Common, 5 |
+| Mislead, Uncommon, 5 |
+| Modify Memory, Very Rare, 5 |
+| Passwall, Uncommon, 5 |
+| Reincarnate, Rare, 5 |
+| Scrying, Rare, 5 |
+| Seeming, Uncommon, 5 |
+| Stone to Mud - Mud to Stone, Uncommon - Very Rare, 5 |
+| Telekinesis, Uncommon, 5 |
+| Telepathic Bond, Rare, 5 |
+| Teleportation Circle, Uncommon, 5 |
+| Tree Stride, Rare, 5 |
+| Wall of Force, Common, 5 |
+| Wall of Stone, Common, 5 |
+
 **Level 6**
-Blade Barrier, Common, 6
-Chain Lightning, Rare, 6
-Circle of Death, Very Rare, 6
-Contingency, Uncommon, 6
-Create Undead, Uncommon, 6
-Disintegrate, Uncommon, 6
-Divination, Rare, 6
-Eyebite, Very Rare, 6
-Find the Path, Uncommon, 6
-Finger of Death, Rare, 6
-Flesh to Stone - Stone to Flesh, Uncommon - Rare, 6
-Forbiddance, Uncommon, 6
-Forcecage, Rare, 6
-Freezing Sphere, Rare, 6
-Globe of Invulnerability, Common, 6
-Guards and Wards, Uncommon, 6
-Harm, Uncommon, 6
-Heal, Rare, 6
-Heroes' Feast, Uncommon, 6
-Instant Summons, Rare, 6
-Magic Jar, Very Rare, 6
-Mass Suggestion, Very Rare, 6
-Move Earth, Uncommon, 6
-Programmed Illusion, Uncommon, 6
-Restser's Furious Transformation, Very Rare, 6
-Sunbeam, Uncommon, 6
-Transport via Plants, Very Rare, 6
-True Seeing, Rare, 6
-Wall of Ice, Common, 6
-Wall of Thorns, Uncommon, 6
-Wind Walk, Uncommon, 6
-Word of Retreat, Rare, 6
+
+| Blade Barrier, Common, 6 |
+| --- |
+| Chain Lightning, Rare, 6 |
+| Circle of Death, Very Rare, 6 |
+| Contingency, Uncommon, 6 |
+| Create Undead, Uncommon, 6 |
+| Disintegrate, Uncommon, 6 |
+| Divination, Rare, 6 |
+| Eyebite, Very Rare, 6 |
+| Find the Path, Uncommon, 6 |
+| Finger of Death, Rare, 6 |
+| Flesh to Stone - Stone to Flesh, Uncommon - Rare, 6 |
+| Forbiddance, Uncommon, 6 |
+| Forcecage, Rare, 6 |
+| Freezing Sphere, Rare, 6 |
+| Globe of Invulnerability, Common, 6 |
+| Guards and Wards, Uncommon, 6 |
+| Harm, Uncommon, 6 |
+| Heal, Rare, 6 |
+| Heroes' Feast, Uncommon, 6 |
+| Instant Summons, Rare, 6 |
+| Magic Jar, Very Rare, 6 |
+| Mass Suggestion, Very Rare, 6 |
+| Move Earth, Uncommon, 6 |
+| Programmed Illusion, Uncommon, 6 |
+| Restser's Furious Transformation, Very Rare, 6 |
+| Sunbeam, Uncommon, 6 |
+| Transport via Plants, Very Rare, 6 |
+| True Seeing, Rare, 6 |
+| Wall of Ice, Common, 6 |
+| Wall of Thorns, Uncommon, 6 |
+| Wind Walk, Uncommon, 6 |
+| Word of Retreat, Rare, 6 |
+
 **Level 7**
-Arcane Mirage, Rare, 7
-Arcane Sword, Rare, 7
-Delayed Blast Fireball, Rare, 7
-Divine Word, Very Rare, 7
-Etherealness, Rare, 7
-Fire Storm, Rare, 7
-Magnificent Mansion, Legendary, 7
-Prismatic Spray, Rare, 7
-Project Image, Uncommon, 7
-Regenerate, Legendary, 7
-Reverse Gravity, Rare, 7
-Sequester, Rare, 7
-Symbol, Uncommon, 7
-Teleport, Common, 7
+
+| Arcane Mirage, Rare, 7 |
+| --- |
+| Arcane Sword, Rare, 7 |
+| Delayed Blast Fireball, Rare, 7 |
+| Divine Word, Very Rare, 7 |
+| Etherealness, Rare, 7 |
+| Fire Storm, Rare, 7 |
+| Magnificent Mansion, Legendary, 7 |
+| Prismatic Spray, Rare, 7 |
+| Project Image, Uncommon, 7 |
+| Regenerate, Legendary, 7 |
+| Reverse Gravity, Rare, 7 |
+| Sequester, Rare, 7 |
+| Symbol, Uncommon, 7 |
+| Teleport, Common, 7 |
+
 **Level 8**
-Anti-Magic Field, Rare, 8
-Antipathy/Sympathy, Rare, 8
-Contagious Confusion, Very Rare, 8
-Control Weather, Very Rare, 8
-Dominate Monster, Uncommon, 8
-Earthquake, Very Rare, 8
-Feeblemind, Rare, 8
-Glibness, Rare, 8
-Holy Aura, Common, 8
-Incendiary Cloud, Rare, 8
-Irresistible Dance, Legendary, 8
-Maze, Rare, 8
-Mind Blank, Uncommon, 8
-Power Word Stun, Uncommon, 8
-Sunburst, Rare, 8
+
+| Anti-Magic Field, Rare, 8 |
+| --- |
+| Antipathy/Sympathy, Rare, 8 |
+| Contagious Confusion, Very Rare, 8 |
+| Control Weather, Very Rare, 8 |
+| Dominate Monster, Uncommon, 8 |
+| Earthquake, Very Rare, 8 |
+| Feeblemind, Rare, 8 |
+| Glibness, Rare, 8 |
+| Holy Aura, Common, 8 |
+| Incendiary Cloud, Rare, 8 |
+| Irresistible Dance, Legendary, 8 |
+| Maze, Rare, 8 |
+| Mind Blank, Uncommon, 8 |
+| Power Word Stun, Uncommon, 8 |
+| Sunburst, Rare, 8 |
+
 **Level 9**
-Foresight, Uncommon, 9
-Imprisonment, Rare, 9
-Mass Heal, Legendary, 9
-Meteor Swarm, Legendary, 9
-Power Word Kill, Rare, 9
-Prismatic Wall, Rare, 9
-Shapechange, Rare, 9
-Time Stop, Very Rare, 9
-True Polymorph, Rare, 9
-Weird, Rare, 9
-Wish, Legendary, 9
+
+| Foresight, Uncommon, 9 |
+| --- |
+| Imprisonment, Rare, 9 |
+| Mass Heal, Legendary, 9 |
+| Meteor Swarm, Legendary, 9 |
+| Power Word Kill, Rare, 9 |
+| Prismatic Wall, Rare, 9 |
+| Shapechange, Rare, 9 |
+| Time Stop, Very Rare, 9 |
+| True Polymorph, Rare, 9 |
+| Weird, Rare, 9 |
+| Wish, Legendary, 9 |
 
 ---
 
@@ -12129,61 +12121,61 @@ These abilities represent the pinnacle of a character, not intended as the final
 
 Each character can have only one iconic ability, an ability that distinguishes heroes, capable of actions at the limit and beyond human. Players are encouraged to create new Iconic Abilities based on character development.
 
-**A Light Against the Darkness**\normalsize
+**A Light Against the DarknessSuggested Requirements: Patron Ljust, Sumkjr**
 
-**Suggested Requirements: Patron Ljust, Sumkjr**
+| Once a day you emit sacred light around you for 60 minutes that gives you +1d6 to Saving Throws and Attack Rolls against Devotees and Followers not of your Patron. You can channel the light 1 time per day and all creatures who are Followers or Devotees of other Patrons within 10 meters of you must make a Fortitude Saving Throw at DC 10 + sum of Traits in common with the Patron + Wisdom or be stunned for 2d6 rounds. |
+| --- |
 
-Once a day you emit sacred light around you for 60 minutes that gives you +1d6 to Saving Throws and Attack Rolls against Devotees and Followers not of your Patron. You can channel the light 1 time per day and all creatures who are Followers or Devotees of other Patrons within 10 meters of you must make a Fortitude Saving Throw at DC 10 + sum of Traits in common with the Patron + Wisdom or be stunned for 2d6 rounds.
-**The Smith**\normalsize
-
-**Suggested Requirements: skill in metalworking**
+**The SmithSuggested Requirements: skill in metalworking**
 
 Your abilities to work with weapons and armor are legendary.
-Any armor you make encumbers and weighs as a lower category, weapons do damage of a higher dice category.
-**The Oracle of War**\normalsize
 
-**Suggested Requirements: master melee fighter**
+| Any armor you make encumbers and weighs as a lower category, weapons do damage of a higher dice category. |
+| --- |
 
-Every weapon in your hands is lethal. The weapon die doubles as does the damage caused by Strength. E.g. a longsword does 2d8 damage and if you have Strength +3 the total damage becomes 2d8+6
-**The Fearless Hero**\normalsize
+**The Oracle of WarSuggested Requirements: master melee fighter**
 
-**Suggested Requirements: brave and resolute**
+| Every weapon in your hands is lethal. The weapon die doubles as does the damage caused by Strength. E.g. a longsword does 2d8 damage and if you have Strength +3 the total damage becomes 2d8+6 |
+| --- |
 
-Once per adversary you can ignore (for 1d4 rounds) the conditions that afflict you as a Reaction.
-**Mindmaster**\normalsize
+**The Fearless HeroSuggested Requirements: brave and resolute**
 
-**Suggested Requirements: an adventurous life managed with intelligence and cold blood**
+| Once per adversary you can ignore (for 1d4 rounds) the conditions that afflict you as a Reaction. |
+| --- |
 
-You can use the score in a mental Ability Score (Intelligence, Wisdom, or Charisma) instead of a physical one (Strength, Dexterity, Constitution) for all checks.
-**On a Pale Saurback**\normalsize
+**MindmasterSuggested Requirements: an adventurous life managed with intelligence and cold blood**
 
-**Suggested Requirements: not fear death, having killed many opponents**
+| You can use the score in a mental Ability Score (Intelligence, Wisdom, or Charisma) instead of a physical one (Strength, Dexterity, Constitution) for all checks. |
+| --- |
+
+**On a Pale SaurbackSuggested Requirements: not fear death, having killed many opponents**
 
 You are the closest thing to death your enemies will ever see.
-When you kill an enemy all opponents (who can have seen the scene) within 10m radius must make a Will Saving Throw with DC equal to your Attack Roll, cost one Reaction, or be affected as by the Fear spell. This ability can be used 3 times per day.
-**The Magical Fury**\normalsize
 
-**Suggested Requirements: a life dedicated to explosive magic**
+| When you kill an enemy all opponents (who can have seen the scene) within 10m radius must make a Will Saving Throw with DC equal to your Attack Roll, cost one Reaction, or be affected as by the Fear spell. This ability can be used 3 times per day. |
+| --- |
 
-You are capable of unleashing hell with magic. The difficulty (DC) of each of your spells increases by 2, when you make a Magic Check you roll 3d6 more and ignore 2 dice rolled.
-**The Shadow**\normalsize
+**The Magical FurySuggested Requirements: a life dedicated to explosive magic**
 
-**Suggested Requirements: a life dedicated to hiding and surprising enemies**
+| You are capable of unleashing hell with magic. The difficulty (DC) of each of your spells increases by 2, when you make a Magic Check you roll 3d6 more and ignore 2 dice rolled. |
+| --- |
 
-Three times a day you can teleport onto the shadow of another creature within 30 meters. Cost 1 Reaction.
-**The Mother**\normalsize
+**The ShadowSuggested Requirements: a life dedicated to hiding and surprising enemies**
 
-**Suggested Requirements: spent more time in animal form than your own**
+| Three times a day you can teleport onto the shadow of another creature within 30 meters. Cost 1 Reaction. |
+| --- |
 
-You have the innate ability to leave footprints of any animal, compatible with your size, even if you are not transformed. You can speak with any animal as if you were always under the effect of the Speak with Animals spell.
-**The Dead**\normalsize
+**The MotherSuggested Requirements: spent more time in animal form than your own**
 
-**Suggested Requirements: a life always on the brink of death**
+| You have the innate ability to leave footprints of any animal, compatible with your size, even if you are not transformed. You can speak with any animal as if you were always under the effect of the Speak with Animals spell. |
+| --- |
 
-Three times a day when your Hit Points drop below 1, with a Reaction Action you recover 3d12 Hit Points. This ability can be used even when Hit Points are negative or you should be directly dead.
-**The Hunter**\normalsize
+**The DeadSuggested Requirements: a life always on the brink of death**
 
-**Suggested Requirements: a life dedicated to hunting and pursuing**
+| Three times a day when your Hit Points drop below 1, with a Reaction Action you recover 3d12 Hit Points. This ability can be used even when Hit Points are negative or you should be directly dead. |
+| --- |
+
+**The HunterSuggested Requirements: a life dedicated to hunting and pursuing**
 
 Your Survival checks have a +2d6 bonus. The first hit that connects against an opponent automatically gets 2 criticals.
 ---
@@ -12198,7 +12190,7 @@ In OBSS deities are different from traditional gods in roleplaying games.
 
 The deities, the Patrons, love to get their hands dirty, to participate in the affairs of the creatures who worship them, for them it is a continuous challenge to have more believers, adepts, and people more similar, in Traits, to them.
 
-The Patrons were created as \href{https://www.merriam-webster.com/dictionary/paroxysm}{paroxysm} of the human soul, where everything is an excess. Like spirits released from Pandora's box, they have the sole purpose of bringing their Traits to dominance, making them the most common and present among creatures, especially among the most powerful.
+The Patrons were created as https://www.merriam-webster.com/dictionary/paroxysm of the human soul, where everything is an excess. Like spirits released from Pandora's box, they have the sole purpose of bringing their Traits to dominance, making them the most common and present among creatures, especially among the most powerful.
 
 In the beginning was the void which contained everything within itself.
 
@@ -12314,7 +12306,9 @@ Nothing prevents a character from receiving more powers from different Patrons! 
 | --- | --- | --- |
 | Positive En. | Fire | Negative En. |
 | Light | Cold | Void |
+
 | Sound |
+
 | Electricity | No Patron is completely good or completely evil. As the nature of a man is multifaceted also depending on the occasions, so a Patron may have anomalous positive or negative impulses. Remember that Patrons are Gods but generated from emotions and desires. |
 | --- | --- |
 
@@ -13175,7 +13169,7 @@ The Patrons are listed in alphabetical order by their most characteristic Trait.
 
 In this new *economy*, the value of old coins is zero except for a limited numismatic historical value.
 
-We could say that after the first coming of the Patrons, the dismantling and destruction of state and economic infrastructure, in the two centuries to come, the \href{https://en.wikipedia.org/wiki/Bretton_Woods_system}{Bretton Woods agreements} have not been re-proposed, and in fact we struggle in the most important cities to have a \href{https://en.wikipedia.org/wiki/Gold_standard}{gold standard}.
+We could say that after the first coming of the Patrons, the dismantling and destruction of state and economic infrastructure, in the two centuries to come, the https://en.wikipedia.org/wiki/Bretton_Woods_system have not been re-proposed, and in fact we struggle in the most important cities to have a https://en.wikipedia.org/wiki/Gold_standard.
 
 The extreme difficulty of international transport, limited through dangerous Portals or reverted to using old sailing ships and very rare steam ships and trains, historical remnants of pieces of high *modern* engineering, have brought trade to work in a simpler, more basic way.
 
@@ -13298,6 +13292,7 @@ The table presents the name of the weapon, its cost in gold coins, the damage an
 | Rapier | 20 | S/1d6 P | **Light Weapons**, **Graceful Weapons**, Versatile |
 | Trident | 15 | M/1d6 P/S | 3 meters, **Polearms**, **Throwing Weapons**, Reach weapon, Brace |
 | Urgrosh | 18 | M/1d6 S/P | **Spears**, **Double weapons** |
+
 A **Small Weapon** has **Encumbrance** 1, a Medium Weapon has Encumbrance 2, a Large Weapon has Encumbrance 4, a Huge Weapon has Encumbrance 8.
 
 **Table: Projectile List - Bows - Crossbows - Slings**
@@ -13434,12 +13429,14 @@ Any eventual cost would not be less than 30 gp per bullet.
 
 Whenever the Attack Roll is a critical failure, there has been a problem with the weapon and it has not fired successfully.
 
-**Roll and add 2d10, consult the table\#** | **Effect**
+**Roll and add 2d10, consult the table**
+
+| **\#** | **Effect** |
 | 2 | The bullet is defective, fortunately there are no other problems. It takes an Action to remove the jammed bullet. |
 | 3 | The bullet got stuck. It takes two Actions to remove the jammed bullet. |
 | 4 | Having missed leaves you hesitant, lose 1 Action. |
 
-**\#** | **Effect**
+| **\#** | **Effect** |
 | 5 | The sight is inaccurate. The next shot has -2 to the Attack Roll. |
 | 6 | You inadvertently fire two shots/bursts. The second doesn't hit anyone and just consumes bullets. |
 | 7 | The weapon is not adequately lubricated. Inserting the next magazine costs 1 full round. |
@@ -14185,6 +14182,7 @@ The choice of lifestyle can have consequences. A character who maintains a wealt
 | Poor | 2 sp | Modest | 1 gp |
 | Comfortable | 2 gp | Wealthy | 4 gp |
 | Aristocratic | 10+ gp | Royal | 50 gp+ |
+
 ---
 
 ### Working in Town
@@ -14397,6 +14395,7 @@ Creatures of Size larger or smaller than Medium have bonuses or penalties given 
 | Tiny | -8 | Gargantuan | +12 |
 | Small | -4 | Colossal | +16 |
 | Medium | +0 |  | A **crowbar** or a **portable battering ram** increases the character's chance of breaking down a door by +1d6. |
+
 ---
 
 # Environment
@@ -14433,9 +14432,8 @@ Many spells and objects use *real game time* as duration, meaning that rounds or
 | Candle | - | 1 m | 1 hour |
 | Torch | 3 m | 6 m | 1 hour |
 | Lantern | 6 m | 12 m | 3 hours |
-**Spells** |  |  |
+| **Spells** |  |  | |
 | Tear of Ljust | 1 m | - | 10 rounds |
-| --- | --- | --- | --- |
 | Light | 3 m | 6 m | 30 min. |
 | Daylight | 6 m | 12 m | 1 hour |
 
@@ -14600,7 +14598,9 @@ Characters at risk of catching fire can make a Reflex Saving Throw with DC 15 to
 
 A character who catches fire can automatically extinguish the flames by jumping into enough water to put them out. If there are no large quantities of water available, rolling on the ground or smothering the flame with cloaks or similar can grant the character +1d6 to the Saving Throw.
 
-The character on fire must make a Reflex Saving Throw at DC 15 for each object carried; if they fail, the objects suffer the same amount of damage as the character.
+| The character on fire must make a Reflex Saving Throw at DC 15 for each object carried; if they fail, the objects suffer the same amount of damage as the character. |
+| --- |
+
 **Effects of Lava**
 Lava or magma inflicts 2d6 damage per round of exposure, except in case of total immersion (such as when a character falls into the crater of an active volcano), which inflicts 20d6 damage per round (plus any falling damage and maybe finds a ring..).
 
@@ -15563,6 +15563,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | Contact |
 | **Reset:** | None |
 | **Effect:** | Ranged attack 12 meters +10 (1d3 damage plus Fermented Lucos Slime, page ) |
+
 **Arrow**
 
 | **CR:** | 1 |
@@ -15573,6 +15574,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | Contact |
 | **Reset:** | None |
 | **Effect:** | Ranged attack 12 meters +15 (1d8+3) |
+
 **Pit**
 
 | **CR:** | 1 |
@@ -15583,6 +15585,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | manual |
 | **Effect:** | 3 meter deep pit (2d6 falling damage) |
+
 **Scything Blade**
 
 | **CR:** | 1 |
@@ -15593,6 +15596,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | manual |
 | **Effect:** | 2 melee attacks +10 (1d8+1) |
+
 **Spiked Pit**
 
 | **CR:** | 2 |
@@ -15603,6 +15607,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | manual |
 | **Effect:** | 3 meter deep pit + spikes (Melee attack +10, 1d4 spikes per target for 1d4+2 damage each) |
+
 **Scorching Wave**
 
 | **CR:** | 2 |
@@ -15613,6 +15618,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
 | **Effect:** | 5d4 fire damage |
+
 **Javelin**
 
 | **CR:** | 2 |
@@ -15623,6 +15629,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | none |
 | **Effect:** | Ranged attack 12 meters +15 (2d6+6), within 6 meter radius |
+
 **Pit with Undead**
 
 | **CR:** | 2 |
@@ -15633,6 +15640,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | none |
 | **Effect:** | At the bottom of the pit (2d6 falling damage) there are two zombies |
+
 **Acid Arrow**
 
 | **CR:** | 3 |
@@ -15643,6 +15651,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
 | **Effect:** | Ranged attack of 16 meters (4d4 acid damage for 4 rounds) |
+
 **Concealed Pit**
 
 | **CR:** | 3 |
@@ -15653,6 +15662,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | manual |
 | **Effect:** | 3d6 falling damage |
+
 **Electric Arc**
 
 | **CR:** | 4 |
@@ -15663,6 +15673,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | contact |
 | **Reset:** | none |
 | **Effect:** | Electric arc. 2 targets within 3 meters of each other, 5d6 electricity damage |
+
 **Wall Scythe**
 
 | **CR:** | 4 |
@@ -15673,6 +15684,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | automatic |
 | **Effect:** | three melee attacks +10 (2d8+3) |
+
 **Falling Block**
 
 | **CR:** | 5 |
@@ -15683,6 +15695,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | manual |
 | **Effect:** | Melee attack +15 (6d6) |
+
 **Fiery Blast**
 
 | **CR:** | 6 |
@@ -15693,6 +15706,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
 | **Effect:** | 3 meter cone, 8d6 fire damage |
+
 **Boiling Waters**
 
 | **CR:** | 7 |
@@ -15703,6 +15717,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | none |
 | **Effect:** | 6 meter cone (spray of boiling water, 8d6 fire damage). |
+
 **Gas Trap**
 
 | **CR:** | 8 |
@@ -15713,6 +15728,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | repairable |
 | **Effect:** | Poisonous gas, 6 meter cube. Fortitude ST DC 17 or slowed 1/1 minute. |
+
 **Arrow Barrage**
 
 | **CR:** | 9 |
@@ -15723,6 +15739,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | visual (Arcane Eye) |
 | **Reset:** | repairable |
 | **Effect:** | 6 arrows. Ranged attack +14 (1d8+1) |
+
 **Concealed Spiked Pit**
 
 | **CR:** | 8 |
@@ -15733,6 +15750,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | manual |
 | **Effect:** | 15 m deep pit + spikes (Melee attack +9, 3 spikes per target, 1d6+5 damage each) |
+
 **Electric Floor**
 
 | **CR:** | 9 |
@@ -15743,6 +15761,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
 | **Effect:** | 6mx9m. 8d6 Electricity damage. |
+
 **Energy Drain**
 
 | **CR:** | 10 |
@@ -15753,6 +15772,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | visual (True Seeing) |
 | **Reset:** | none |
 | **Effect:** | Ranged touch attack 18 meters +14 from Void, maximum Hit Points reduced by 10d4 + Fatigued. |
+
 **Room of Blades**
 
 | **CR:** | 10 |
@@ -15763,6 +15783,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | repairable |
 | **Effect:** | Melee attack +15 (to all three attacks 3d8+3) |
+
 **Cone of Ice**
 
 | **CR:** | 11 |
@@ -15773,6 +15794,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
 | **Effect:** | like Cone of Cold dealing 9d6 damage. Reflex ST DC 22 to halve |
+
 **Poisoned Pit**
 
 | **CR:** | 11 |
@@ -15783,6 +15805,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | position |
 | **Reset:** | manual |
 | **Effect:** | Pit 6mx3m, 15 m deep + spikes (3 melee attacks +15 per target. 1d6+5 damage + poison 2d6 damage) |
+
 **Lightning Gallery**
 
 | **CR:** | 13 |
@@ -15793,6 +15816,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
 | **Effect:** | like the spell Chain Lightning. DC 22. |
+
 **Inferno of Fire**
 
 | **CR:** | 15 |
@@ -15803,6 +15827,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
 | **Effect:** | 60 fire damage. Reflex ST DC 23 to halve. |
+
 **Destruction**
 
 | **CR:** | 16 |
@@ -15824,6 +15849,7 @@ Here are additional traps for your enjoyment.
 | **Activator:** | visual |
 | **Reset:** | none |
 | **Effect:** | like the spell Meteor Swarm. DC 28 |
+
 >> Tups and the trap
 >>
 >> {
@@ -15857,7 +15883,7 @@ Do you proceed down the corridor?
 
 *Narrator*: you now cross the area safely and see that it opens onto a small room with two reinforced wooden doors... }
 
-Freely inspired by \href{https://friendorfoe.com/d/Old%20School%20Primer.pdf}{ **Quick Primer for Old School Gaming**}
+Freely inspired by \href{https://friendorfoe.com/d/Old
 
 >>> A visible/obvious trap forces players to interact with it, to work hard to understand how it works and be ingenious to avoid or disable it. Whenever possible, avoid resolutions based solely on die rolls (Search for traps/Disable traps), rather reward the player's ingenuity, even if simple but creative, to avoid danger... and maybe sooner or later they'll remember to retrieve that crowbar...!
 ---
@@ -15969,6 +15995,7 @@ To *find* the ingredients to prepare **natural potions**, it is necessary to pas
 
 {1\textwidth}{mlllmc}
 	
+
 | **Poison Name** | **Use** | **Ons.** | **ST** | **Effect (damage)** | **Cost** |
 | --- | --- | --- | --- | --- | --- |
 | Red Mixture | F | - | 13 | -1d6 AR/ST for 10 minutes | 10 |
@@ -15995,6 +16022,7 @@ To *find* the ingredients to prepare **natural potions**, it is necessary to pas
 | Purple Shrew Liver | I | 1 h | 25 | 2d6 damage to Wisdom and Intelligence. Permanent | 75 |
 | Blood Serpent Venom | F | I | 25 | Paralysis for 1d6 hours -1d4 Strength points for 7 days | 75 |
 | Thrun's Blood | C | I | 26 | -1d3 Constitution | 80 |
+
 **Application**: **I**(ngestion), **F**(injury), **C**(ontact), **R**(espiration).
 
 The Saving Throw is always on Fortitude unless otherwise specified
@@ -16197,6 +16225,7 @@ The onset is always immediate, the duration for healing is immediate, for others
 | Inut Scented Essence | R | I | 15 | +4 Dexterity for 1d8 hours | 16 | 15 gc |
 | Julnnaus Pollen | R | I | 20 | +3 Constitution for 2 hours | 16 | 25 gc |
 | Erain Flower Pollen | R | 1 r | 20 | +2 Str Int Dex, +3d6 temporary HP for 1 hour | 17 | 75 gc |
+
 **The use of drugs is completely optional. It is the Narrator who decides their presence and availability also based on the sensitivity of the players**.
 
 Drugs are addictive. When the effect ends, a Will Saving Throw at difficulty 15 is required or another dose must be taken, the subsequent Saving Throw will have difficulty +1 and so on.
@@ -16281,24 +16310,20 @@ Only in non-combat situations does running triple movement, i.e., when using Loc
 
 This table shows the base values of land movement in non-combat situations.
 
-| \multirow*{**Movement type**} | **Movement** |  | |
+| **Movement type** | **Movement** |  | |
 | --- | --- | --- |
 | \cmidrule(lr) | **6m** | **9m** | **12m** |
-**Movement (Tactical)** |  |  |
+| **Movement (Tactical)** |  |  | |
 | Walking | 6m | 9m | 12m |
-| --- | --- | --- | --- |
 | Running (x2) | 12m | 18m | 24m |
-**One minute (Local)** |  |  |
+| **One minute (Local)** |  |  | |
 | Walking | 36m | 54m | 72m |
-| --- | --- | --- | --- |
 | Running (x3) | 108m | 162m | 216m |
-**One hour (Overland)** |  |  |
+| **One hour (Overland)** |  |  | |
 | Walking | 3km | 4km | 6km |
-| --- | --- | --- | --- |
 | Running (x3) | 9km | 12km | 18km |
-**One day (Overland)** |  |  |
+| **One day (Overland)** |  |  | |
 | Walking | 24km | 32km | 54km |
-| --- | --- | --- | --- |
 
 ## Tactical Movement
 
@@ -16339,8 +16364,7 @@ E.g. a Large sized monster can share its space only with a Small or smaller crea
 
 >> Tups in the tunnel
 >>
->> %box giocatore
-Tups is with his companions in a narrow tunnel in single file. He is in the fourth position.
+>> Tups is with his companions in a narrow tunnel in single file. He is in the fourth position.
 
 Suddenly an enemy appears in front and Tups is the quickest to react, using a Move Action ***he passes through*** the 3 companions in front of him, remaining **confined** with the first in line.
 
@@ -16417,7 +16441,7 @@ A mount can be equipped with armor. Light armor will confer a +2 bonus to Defens
 
 ## Table: Mounts and Vehicles
 
-| \multirow*{**Mount or Vehicle**} | **Transported Encumbrance** | **Movement** | **Movement** |
+| **Mount or Vehicle** | **Transported Encumbrance** | **Movement** | **Movement** |
 | --- | --- | --- | --- |
 | **(CdC)** | **Per hour** | **Per day** |
 | Galloping Dog | 30 | 6km | 36km |
@@ -16427,9 +16451,8 @@ A mount can be equipped with armor. Light armor will confer a +2 bonus to Defens
 | Draft Saurovallo | 70 | 5km | 30km |
 | Camel | 50 | 8km | 48km |
 | Elephant | 160 | 6km | 36km |
-**Vessel** |  |  |
+| **Vessel** |  |  | |
 | Raft or Barge (pole or towing) | 225 | 0.75km | 7.5km |
-| --- | --- | --- | --- |
 | Rowing Barge** | 425 | 1.5km | 15km |
 | Rowing Boat** | 200 | 2.25km | 22.5km |
 | Sailing Ship | 800 | 3km | 72km |
@@ -16679,6 +16702,7 @@ Note that this reference guide to creating an encounter assumes a group of four 
 **Table: Determining Encounters**
 
 {@{}ll@ % @{} removes extra padding
+
 | **difficulty** | **Challenge Rating** |
 | --- | --- |
 | Easy | APL |
@@ -16721,6 +16745,7 @@ Starting from an established Challenge Rating (9), follow this table to establis
 | -5 | 15 | 0 | 75 |
 | -4 | 25 | +1 | 85 |
 | -3 | 47 | +2 | 100 |
+
 **Factor** means the difference between the monster's CR relative to the chosen Challenge Rating. The Weight is the relative \% that the monster brings to reach the goal of 100%.
 
 **To reach the goal we must add *the percentages** of each individual opponent until we reach 100, i.e., 100\% of the challenge.*
@@ -16857,7 +16882,7 @@ Although the system favors freedom of character construction and development, if
 
 OBSS uses a peculiar dice rolling system by mixing a 3d6 distribution with the potential of exploding 6s. This system manages to guarantee a good variance and while concentrating the results around the central values of the distribution, leaves the upper limit open to particularly lucky rolls.
 
-If you want to have fun studying the corresponding curve, I recommend the website \href{https://anydice.com/}{Anydice}. This is the pseudo-code to enter (or click \href{https://anydice.com/program/2610e} for the code already entered):
+If you want to have fun studying the corresponding curve, I recommend the website https://anydice.com/. This is the pseudo-code to enter (or click \href{https://anydice.com/program/2610e} for the code already entered):
 
 if ROLLED = 1 \{ result: 0 \}
 
@@ -16900,7 +16925,7 @@ I suggest reading the entire article: \href{https://lithyscaphe.blogspot.com/p/p
 
 https://lithyscaphe.blogspot.com/p/principia-apocrypha.html what follows is a summary adapted and modified by me of the guidelines I follow when I DM OBSS.
 
-OBSS follows the principles of \href{https://en.wikipedia.org/wiki/Old_School_Renaissance}{OSR} (wikipedia). Adventures in OBSS aim to be lethal, have a freely explorable world, a sketched plot, push on problem-solving, and have a reward system focused on exploration, treasures, and participation in the group. OBSS doesn't care too much about balancing encounters and appreciates players' initiative and captures their ideas by putting them into the adventure.
+OBSS follows the principles of https://en.wikipedia.org/wiki/Old_School_Renaissance (wikipedia). Adventures in OBSS aim to be lethal, have a freely explorable world, a sketched plot, push on problem-solving, and have a reward system focused on exploration, treasures, and participation in the group. OBSS doesn't care too much about balancing encounters and appreciates players' initiative and captures their ideas by putting them into the adventure.
 
 For me, OSR is not random encounter tables and chaotic randomization nor a specific ruleset, it's rather the spirit of adventure, wonder, fear, glory, amazement, and challenge that develops in the adventures. Don't be too linear, too predictable, add that right mix to your adventures that makes them always unique.
 
@@ -17168,9 +17193,10 @@ Then consult the Table Magic Item Type (p. ) to roll and discover what magic ite
 
 {\textwidth}{>{\bfseries}l|>
 	
-**Treasures from lairs or hideouts of creatures** |  |  |  |  |  |  |
+
+| **Treasures from lairs or hideouts of creatures** |  |  |  |  |  |  | |
+| --- | --- | --- | --- | --- | --- | --- |
 | TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | x 1000 | x 1000 | x 1000 | x 100 |  |  | |
 | A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 any, 30\% |
 | B | 1d6, 50\% | 1d3, 25\% | 2d10, 25\% | 1d10, 25\% | 1d8, 30\% | 1d4, 20\% | Armor or weapons, 10\% |
@@ -17181,11 +17207,12 @@ Then consult the Table Magic Item Type (p. ) to roll and discover what magic ite
 | G | - | - | 2d10, 50\% | 1d10, 50\% | 3d6, 30\% | 1d6, 25\% | 5 any 35\% |
 | H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 any 15\% |
 | I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 any 15\% |
+
 {\textwidth}{>{\bfseries}l|>
 
-**Individual Treasures, small lairs, backpacks and bags** |  |  |  |  |  |  |
+| **Individual Treasures, small lairs, backpacks and bags** |  |  |  |  |  |  | |
+| --- | --- | --- | --- | --- | --- | --- |
 | TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | J | 3d8 | - | - | - | - | - | - |
 | K | - | 3d6 | - | - | - | - | - |
 | L | - | - | - | 2d6 | - | - | - |
@@ -17203,6 +17230,7 @@ Then consult the Table Magic Item Type (p. ) to roll and discover what magic ite
 | X | - | - | - | - | - | - | 2 potions |
 | Y | - | - | 1d6*100 | - | - | - | - |
 | Z | 1d3*100 | 1d4*100 | 1d6*100 | 1d4*100 | 1d6, 50\% | 2d6, 50\% | 3 any, 50\% |
+
 When the treasure is indicated by multiple letters, the creature possesses both indicated treasures. Some particularly \emph creatures might have the same treasure multiple times (2 H, i.e., 2 times treasure H).
 
 ---
@@ -17231,6 +17259,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 | 13 | Jade | 22 | Ruby |
 | 14 | Peridot | 23 | Diamond |
 | 15 | Garnet | 24 | Legendary Stone |
+
 **Table: Types of Jewelry**
 
 | **4d6** | **Magic bonus** |
@@ -17907,6 +17936,7 @@ A Greater Weapon **ring** can only be applied to melee weapons and has only one 
 | 37-42 | Titanic Weapon | 91-96 | Thundering |
 | 43-48 | Chaos | 97-100 | Transforming |
 | 49-54 | Corrosive |  | |
+
 When inserted into the hilt of the **weapon**, the character can twice per day use 1 Action and add the rolled feat to the weapon for 10 rounds. If the weapon is not at least magical +1, it becomes magical +1. The ability of the Greater Weapon Ring recharges at dawn.
 
 ## Ring of Fire Elemental Command
@@ -18382,7 +18412,9 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 | 26-30 | You cast the Stinking Cloud spell. |
 | 31-33 | Heavy rain falls in a 18-meter radius centered on the target. The area becomes lightly obscured. The rain continues to fall until the beginning of your next round. |
 | 34-36 | An animal appears in the nearest unoccupied space to the target. The animal is not under your control and acts normally. |
+
 | Roll a d100 to determine what kind of animal appears 01-25, a rhinoceros; 26-50, an elephant; 51-100, a rat.
+
 | 37-46 | You cast Lightning. |
 | 47-49 | A cloud of 600 giant butterflies fills a 9-meter radius around the target. The area becomes heavily obscured and provides total cover. The butterflies remain for 10 minutes. |
 | 50-53 | You enlarge the target as if you had cast the enlarge/reduce spell. If the target cannot be subject to the spell, or if it is not a creature, you become the target. |
@@ -18398,6 +18430,7 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 | 91-95 | A burst of sparkling, colored lights extends from you in a 9-meter radius. You and all creatures in the area must succeed on a Fortitude Saving Throw with DC 15 or be blinded for 1 minute. A creature can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself if it succeeds. |
 | 96-97 | The target's skin turns bright blue for 1d10 days. If you chose a point in space, the subject will be the creature closest to that point. |
 | 98-00 | If the target is a creature, it must make a Fortitude Saving Throw with DC 18. If the target is not a creature, the target becomes you and you will make the Saving Throw. If the Saving Throw fails by 5 or more, the target is petrified. If the Saving Throw fails by less, the target is hindered and begins to turn to stone. While hindered in this way, the target must repeat the Saving Throw at the end of each of its rounds, becoming petrified on a failure or ending the effect on a success. The target remains petrified until it is freed by the stone to flesh spell or similar magic. |
+
 ## Wand of Fireballs
 
 **Rarity:** Rare; **Cost:** 32000 gp
@@ -18665,7 +18698,9 @@ The fire ignites flammable objects in the area that aren't being worn or carried
 | 61-70 | A bulette bursts out of the ground and attacks. |
 | 71-80 | A fruit tree grows. It has 1d10+20 fruits, each fruit has a chance (50/50) of working as an enhanced poison or as a random natural potion. The tree vanishes after 1 hour. The harvested fruits remain and maintain their magic for 30 days. |
 | 81-90 | A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, |
+
 | choosing randomly in case of a tie; if it fails, it takes 10d6 force damage.
+
 | 91-99 | A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Narrator's choice. |
 | 100 | A giant beanstalk grows on the spot, rising to a height of the Narrator's choice. The top leads wherever the Narrator wishes, be it to a cloud giant's castle or another plane of existence. |
 
@@ -19558,6 +19593,7 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
 | Eight of clubs | Orc |
 | Two of clubs | Kobold |
 | Joker (2) | You (the owner of the deck) |
+
 ## Deck of Many Things
 
 **Rarity:** Legendary; **Cost:** 100000 gp
@@ -19569,6 +19605,7 @@ Before drawing a card, you must declare how many cards you intend to draw and th
 You must draw each card within 1 hour of the previous draw. If you don't draw the chosen number of cards, the remaining cards will fly out of the deck by themselves and take effect simultaneously. Once drawn, a card disappears from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
 
 \begin{adjustbox}{max width=0.5\textwidth}
+
 | {>{\raggedright}p{0.15\textwidth}|>{\raggedright}p{0.1\textwidth}>{\raggedright}p{0.15\textwidth}|>{\raggedright}p{0.1\textwidth |
 | --- | --- | --- |
 | **Playing Card** | **Card** | **Playing Card** | **Card** |
@@ -19583,6 +19620,7 @@ You must draw each card within 1 hour of the previous draw. If you don't draw th
 | Jack of clubs | Skull | Two of spades | Balance* |
 | Two of clubs | Idiot | Joker | Fool* |
 | Joker | Jester |  | |
+
 \end{adjustbox}
 
 * Found only in a deck of 22 **cards**
@@ -20497,6 +20535,7 @@ There are four sizes of flying carpet. The Narrator chooses the carpet's size or
 | 21--55 | 120 × 180 | 200 kg / 50 | 18 meters |
 | 56--80 | 150 × 210 | 300 kg / 75 | 12 meters |
 | 81--100 | 180 × 270 | 400 kg / 100 | 9 meters |
+
 The Capacity value indicates both the weight carried and the Encumbrance. The carpet can carry up to double the load indicated in the table, but flies at half speed if it carries more.
 
 ## Titanic Weapon
@@ -21185,7 +21224,9 @@ The Narrator can request an Arcana check with a DC equal to 10+days spent buildi
 
 A curse can also manifest as a result of negative or extreme emotional influences involving an object.
 
-**Common Item Curses\%** | **Curse**
+**Common Item Curses**
+
+| **\%** | **Curse** |
 | 01-15 | Deception |
 | 16-40 | Opposite Effect or Target |
 | 41-50 | Intermittent Functioning |
@@ -21251,7 +21292,7 @@ This item works only in certain situations. To determine which ones, choose an a
 
 An uncontrollable item tends to activate randomly. Roll a d\% each day. With a result of 01--05, the item spontaneously activates at some point during the day.
 
-**\%** | **Situation**
+| **\%** | **Situation** |
 | 01-03 | Temperature below freezing |
 | 04-05 | Temperature above freezing |
 | 06-10 | During the day |
@@ -21305,7 +21346,9 @@ Unless otherwise indicated, drawbacks remain active for as long as the item rema
 >>> The list is an example to randomly generate effects on the item's owner. Take inspiration and be creative! However, don't make a curse render it impossible to play the character; rather, it should be experienced as an opportunity to try something different. Never throw a cursed item randomly into the treasure pile; always think about what might happen and what consequences will be generated. A cursed item always requires a high level of attention and planning from the Narrator
 ---
 
-**Table: Effects of cursed magic items\%** | **Drawback**
+**Table: Effects of cursed magic items**
+
+| **\%** | **Drawback** |
 | 01-02 | The character's hair grows 2.5 cm per hour. |
 | 02-04 | The character's nails grow 1 cm every 8 hours |
 | 05-06 | The character's height decreases by 5d10 cm |
@@ -21881,6 +21924,7 @@ If not indicated, but necessary for checks (not for the Attack Roll, where the v
 
 {lp{0.055\textwidth}p{0.06\textwidth}p{0.07\textwidth
 	
+
 | **Immunity** | **Magic Weapon** | **Natural Attack (WP)** | **Empty Fist** |
 | --- | --- | --- | --- |
 | +1 | +1 | 3 | 2 |
@@ -22162,6 +22206,7 @@ This system is also used to calculate the XP gained for traps or challenges over
 | -3 | 15\% | +3 | 240\% |
 | -2 | 25\% | +4 | 360\% |
 | -1 | 45\% | +5 | 480\% |
+
 Start with the monsters with the highest Challenge Rating and then add monsters with lower CR to reach the desired percentage.
 
 \end{enumerate}
@@ -22191,10 +22236,10 @@ Oskar Schindler: That's what the emperors had. A man steals something, he's brou
 
 ## Aboleth
 - **Size/Type**: Large aberration, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex -1 Con 2 Int 4 Wis 2 Cha 4}
+- **Ability**: Str 5 Dex -1 Con 2 Int 4 Wis 2 Cha 4
 - **Hit Points**: 199,  **Defense:** 24,  **Initiative:** +4
 - **Movement**: 3 m, swim 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +12, Reflex +9, Will +12
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +12, Reflex +9, Will +12
 - **Spells**: immune to Illusion spells below 2nd level
 - **Skills**: Awareness +10, History +12
 - **Senses**: Darkvision 36 m
@@ -22232,18 +22277,21 @@ The aboleth can take 3 bonus actions, chosen from the options below. It can use 
 **Tail Swipe.** The aboleth makes one tail attack.
 
 **Ecology**
-Environment: Any Aquatic
-Organization: Solitary, pair, brood (3-6), or shoal (7-19)
+
+| Environment: Any Aquatic |
+| --- |
+| Organization: Solitary, pair, brood (3-6), or shoal (7-19) |
+
 **Treasure Category**: F
 **Description**
 As their primitive appearance suggests, aboleths are among the oldest life forms in the world. An aboleth is 7 meters long and weighs about 3.2 tons. Aboleths dwell at the bottom of the seas in their vast cities, served by countless slaves.
 
 ## Adult Black Dragon
 - **Size/Type**: Huge dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 2 Con 5 Int 2 Wis 1 Cha 3}
+- **Ability**: Str 6 Dex 2 Con 5 Int 2 Wis 1 Cha 3
 - **Hit Points**: 338,  **Defense:** 36,  **Initiative:** +2
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +22, Reflex +19, Will +18
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +22, Reflex +19, Will +18
 - **Skills**: Stealth +7, Awareness +11
 - **Damage Imm.**: Acid
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -22291,24 +22339,32 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 *Brutality*: the creature attacks with unprecedented ferocity. +1d6 to Attack Roll, 1 automatic critical damage when it hits.
 
 **Ecology**
-Environment: Warm Swamps
-Organization: Solitary
+
+| Environment: Warm Swamps |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
-See Ancient Black Dragon Description.
+
+| See Ancient Black Dragon Description. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Animate Dead
 - Create Undead
 - Bestow Curse
 
 ## Adult Blue Dragon
 - **Size/Type**: Huge dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4}
+- **Ability**: Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4
 - **Hit Points**: 322,  **Defense:** 33,  **Initiative:** +3
 - **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +22, Reflex +16, Will +18
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +22, Reflex +16, Will +18
 - **Skills**: Stealth +5, Perception +13
 - **Damage Imm.**: Lightning
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -22354,24 +22410,32 @@ The dragon can take 3 Legendary Actions, choosing from the options below. Only o
 *Brutality*: the creature attacks with unprecedented ferocity. +1d6 to Attack Roll, 1 automatic critical damage when it hits.
 
 **Ecology**
-Environment: Mountain peaks
-Organization: Solitary
+
+| Environment: Mountain peaks |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: E
 **Description**
-See Ancient Blue Dragon Description.
+
+| See Ancient Blue Dragon Description. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Deadly Fog
 - Call Lightning
 - Ice Storm
 
 ## Adult Brass Dragon
 - **Size/Type**: Huge dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 0 Con 5 Int 2 Wis 1 Cha 3}
+- **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 1 Cha 3
 - **Hit Points**: 262,  **Defense:** 29,  **Initiative:** +2
 - **Movement**: 12 m, burrow 9 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +18, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +18, Reflex +13, Will +14
 - **Dmg. Imm.**: Fire
 - **Skills**: Stealth +5, Awareness +11, Deception +8, History +7
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -22419,24 +22483,32 @@ The dragon can take 3 Additional Actions, choosing from the options below. It ca
 *Brutality*: the creature attacks with unprecedented ferocity. +1d6 to Attack Roll, 1 automatic critical damage when it hits.
 
 **Ecology**
-Environment: Hot Deserts
-Organization: Solitary
+
+| Environment: Hot Deserts |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: E
 **Description**
-Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip.
+
+| Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip. |
+| --- |
+
 **Spells**
+
 | This Dragon's favorite spells are: |
 | --- |
+
 - True Seeing
 - Legend Lore
 - Scrying
 
 ## Adult Bronze Dragon
 - **Size/Type**: Huge dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4}
+- **Ability**: Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4
 - **Hit Points**: 303,  **Defense:** 32,  **Initiative:** +3
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +21, Reflex +15, Will +17
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +21, Reflex +15, Will +17
 - **Skills**: Stealth +5, Sense Motive +7, Awareness +12
 - **Dmg. Imm.**: Lightning
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -22490,23 +22562,31 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 *Brutality*: the creature attacks with unprecedented ferocity. +1d6 to Attack Roll, 1 automatic critical hit when it hits.
 
 **Ecology**
-Environment: Temperate Coastal Areas
-Organization: Solitary
+
+| Environment: Temperate Coastal Areas |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: E
 **Description**
-Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate
+
+| Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Globe of Invulnerability
 - Freedom of Movement
 
 ## Adult Copper Dragon
 - **Size/Type**: Huge dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3}
+- **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
 - **Hit Points**: 281,  **Defense:** 31,  **Initiative:** +4
 - **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +19, Reflex +15, Will +16
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +19, Reflex +15, Will +16
 - **Skills**: Stealth +6, Deception +8, Perception +12
 - **Damage Imm.**: Acid
 - **Senses**: Darkvision 120 ft, Blindsight 60 ft
@@ -22554,24 +22634,32 @@ The dragon can take 3 Additional Actions, choosing from the options below. It ca
 *Brutality*: the creature attacks with unprecedented ferocity. +1d6 to Attack Roll, 1 automatic critical damage when it hits.
 
 **Ecology**
-Environment: Warm Hills
-Organization: Solitary
+
+| Environment: Warm Hills |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: E
 **Description**
-This capricious dragon tries to hamper and frustrate its enemies during combat.
+
+| This capricious dragon tries to hamper and frustrate its enemies during combat. |
+| --- |
+
 **Spells**
+
 | This Dragon's favorite spells are: |
 | --- |
+
 - Blade Barrier
 - Wall of Force
 - Fire Shield
 
 ## Adult Gold Dragon
 - **Size/Type**: Huge dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 7}
+- **Ability**: Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 7
 - **Hit Points**: 344,  **Defense:** 36,  **Initiative:** +3
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +24, Reflex +19, Will +19
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +24, Reflex +19, Will +19
 - **Skills**: Stealth +8, Sense Motive +8, Awareness +14, Deception +13
 - **Dmg. Imm.**: Fire
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -22627,24 +22715,32 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 *Brutality*: the creature attacks with unprecedented ferocity. +1d6 to Attack Roll, 1 automatic critical hit when it hits.
 
 **Ecology**
-Environment: Warm Plains
-Organization: Solitary
+
+| Environment: Warm Plains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: E
 **Description**
-Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid.
+
+| Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Heal
 - Greater Restoration
 - Black Tentacles
 
 ## Adult Green Dragon
 - **Size/Type**: Huge dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3}
+- **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
 - **Hit Points**: 300,  **Defense:** 33,  **Initiative:** +4
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +20, Reflex +16, Will +17
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +20, Reflex +16, Will +17
 - **Skills**: Stealth +6, Deception +8, Sense Motive +7, Awareness +12
 - **Damage Imm.**: Poison
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -22692,24 +22788,32 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 *Brutality*: the creature attacks with unprecedented ferocity. +1d6 to Attack Roll, 1 automatic critical damage when it hits.
 
 **Ecology**
-Environment: Temperate Forests
-Organization: Solitary
+
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: E
 **Description**
-See Ancient Green Dragon Description.
+
+| See Ancient Green Dragon Description. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Anti-Life Shell
 - Locate Animals and Plants
 - Neutralize Poison
 
 ## Adult Red Dragon
 - **Size/Type**: Huge dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5}
+- **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5
 - **Hit Points**: 344,  **Defense:** 34,  **Initiative:** +3
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +24, Reflex +17, Will +18
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +24, Reflex +17, Will +18
 - **Skills**: Stealth +6, Awareness +13
 - **Damage Imm.**: Fire
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -22757,24 +22861,32 @@ The dragon can then fly up to half its flying movement.
 *Brutality*: the creature attacks with unprecedented ferocity. +1d6 to Attack Roll, 1 automatic critical damage when it hits.
 
 **Ecology**
-Environment: Warm mountains
-Organization: Solitary
+
+| Environment: Warm mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
-See Ancient Red Dragon Description.
+
+| See Ancient Red Dragon Description. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Fireball
 - Incendiary Cloud
 - Wall of Fire
 
 ## Adult Silver Dragon
 - **Size/Type**: Huge dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5}
+- **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5
 - **Hit Points**: 325,  **Defense:** 33,  **Initiative:** +3
 - **Movement**: 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +23, Reflex +16, Will +17
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +23, Reflex +16, Will +17
 - **Skills**: Arcana +8, Stealth +5, Awareness +11, History +8
 - **Dmg. Imm.**: Cold
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -22826,24 +22938,32 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 *Brutality*: the creature attacks with unprecedented ferocity. +1d6 to Attack Roll, 1 automatic critical hit when it hits.
 
 **Ecology**
-Environment: Temperate Mountains
-Organization: Solitary
+
+| Environment: Temperate Mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: E
 **Description**
-Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably.
+
+| Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Slow
 - Fabricate
 - Dream
 
 ## Adult White Dragon
 - **Size/Type**: Huge dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 0 Con 6 Int 2 Wis 1 Cha 1}
+- **Ability**: Str 6 Dex 0 Con 6 Int 2 Wis 1 Cha 1
 - **Hit Points**: 264,  **Defense:** 29,  **Initiative:** +2
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +19, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +19, Reflex +13, Will +14
 - **Skills**: Stealth +5, Perception +8
 - **Damage Imm.**: Cold
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -22889,24 +23009,32 @@ The dragon can take 3 Legendary Actions, choosing from the options below. Only o
 *Brutality*: the creature attacks with unprecedented ferocity. +1d6 to Attack Roll, 1 automatic critical damage when it hits.
 
 **Ecology**
-Environment: Cold Mountains
-Organization: Solitary
+
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: E
 **Description**
-See Ancient White Dragon description.
+
+| See Ancient White Dragon description. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Fire Shield
 - Ice Storm
 - Sleet Storm
 
 ## Ancient Black Dragon
 - **Size/Type**: Gargantuan dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 4}
+- **Ability**: Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 4
 - **Hit Points**: 422,  **Defense:** 42,  **Initiative:** +3
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +28, Reflex +23, Will +23
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +28, Reflex +23, Will +23
 - **Skills**: Stealth +9, Awareness +16
 - **Damage Imm.**: Acid, weapons +1
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -22950,8 +23078,11 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 **Detect.** The dragon makes an Awareness check.
 
 **Ecology**
-Environment: Warm Swamps
-Organization: Solitary
+
+| Environment: Warm Swamps |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
 Black Dragons are violent and aggressive, living in swamps and marshes that they generally rule as undisputed masters.
@@ -22974,10 +23105,14 @@ The environment where a black dragon lives suffers its effects; acid vapors, des
 
 Black Dragons represent the Traits of selfishness and violence, hating every form of life, including other black dragons.
 
-Black dragons have +1d6 in magic checks and can ignore one die rolled in the check with the Necromancy List and are immune to acid.
+| Black dragons have +1d6 in magic checks and can ignore one die rolled in the check with the Necromancy List and are immune to acid. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Animate Dead
 - Create Undead
 - Bestow Curse
@@ -22986,10 +23121,10 @@ Yes indeed, the Black Dragon is the only creature on Earth that can bring a dead
 
 ## Ancient Blue Dragon
 - **Size/Type**: Gargantuan dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5}
+- **Ability**: Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5
 - **Hit Points**: 465,  **Defense:** 42,  **Initiative:** +4
 - **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +31, Reflex +23, Will +26
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +31, Reflex +23, Will +26
 - **Skills**: Stealth +7, Perception +17
 - **Damage Imm.**: Lightning, +1 weapons
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23031,8 +23166,11 @@ The dragon can take 3 Legendary Actions, choosing from the options below. Only o
 
 **Detect.** The dragon makes a Perception check.
 **Ecology**
-Environment: Mountain peaks
-Organization: Solitary
+
+| Environment: Mountain peaks |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
 Blue Dragons live among the clouds, flying (and levitating) among storms.
@@ -23053,20 +23191,24 @@ Usually, you never find a single nest, but entire plateaus dominated by dozens o
 
 They don't get along with purple dragons, which they despise for having chosen to give up flying to live underground.
 
-Blue Dragons have +1d6 in magic checks and can ignore one die rolled in the check with the Air List and is immune to electricity.
+| Blue Dragons have +1d6 in magic checks and can ignore one die rolled in the check with the Air List and is immune to electricity. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Deadly Fog
 - Call Lightning
 - Ice Storm
 
 ## Ancient Brass Dragon
 - **Size/Type**: Gargantuan dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 0 Con 7 Int 3 Wis 2 Cha 4}
+- **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 2 Cha 4
 - **Hit Points**: 403,  **Defense:** 38,  **Initiative:** +3
 - **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +27, Reflex +20, Will +22
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +27, Reflex +20, Will +22
 - **Dmg. Imm.**: Fire, +1 weapons
 - **Skills**: Awareness +14
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23116,24 +23258,32 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 **Detect.** The dragon makes an Awareness check.
 
 **Ecology**
-Environment: Hot Deserts
-Organization: Solitary
+
+| Environment: Hot Deserts |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
-Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip.
+
+| Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - True Seeing
 - Legend Lore
 - Scrying
 
 ## Ancient Bronze Dragon
 - **Size/Type**: Gargantuan dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5}
+- **Ability**: Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5
 - **Hit Points**: 446,  **Defense:** 41,  **Initiative:** +4
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +30, Reflex +22, Will +25
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +30, Reflex +22, Will +25
 - **Skills**: Stealth +7, Sense Motive +10, Awareness +17
 - **Dmg. Imm.**: Lightning, +1 weapons
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23185,23 +23335,31 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 **Detect.** The dragon makes an Awareness check.
 
 **Ecology**
-Environment: Temperate Coastal Areas
-Organization: Solitary
+
+| Environment: Temperate Coastal Areas |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
-Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate
+
+| Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Globe of Invulnerability
 - Freedom of Movement
 
 ## Ancient Copper Dragon
 - **Size/Type**: Gargantuan dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4}
+- **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
 - **Hit Points**: 422,  **Defense:** 41,  **Initiative:** +5
 - **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +28, Reflex +22, Will +24
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +28, Reflex +22, Will +24
 - **Skills**: Stealth +8, Deception +11, Perception +17
 - **Damage Imm.**: Acid, +1 weapons
 - **Senses**: Darkvision 120 ft, Blindsight 60 ft
@@ -23253,24 +23411,32 @@ The dragon can take 3 Additional Actions, choosing from the options below. It ca
 **Detect.** The dragon makes a Perception check.
 
 **Ecology**
-Environment: Warm Hills
-Organization: Solitary
+
+| Environment: Warm Hills |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
-This capricious dragon tries to hamper and frustrate its enemies during combat.
+
+| This capricious dragon tries to hamper and frustrate its enemies during combat. |
+| --- |
+
 **Spells**
+
 | This Dragon's favorite spells are: |
 | --- |
+
 - Blade Barrier
 - Wall of Force
 - Fire Shield
 
 ## Ancient Gold Dragon
 - **Size/Type**: Gargantuan dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 10 Dex 2 Con 9 Int 4 Wis 3 Cha 9}
+- **Ability**: Str 10 Dex 2 Con 9 Int 4 Wis 3 Cha 9
 - **Hit Points**: 490,  **Defense:** 46,  **Initiative:** +4
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +33, Reflex +26, Will +27
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +33, Reflex +26, Will +27
 - **Skills**: Stealth +9, Sense Motive +10, Awareness +17, Deception +16
 - **Dmg. Imm.**: Fire, +1 weapons
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23322,24 +23488,32 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 **Detect.** The dragon makes an Awareness check.
 
 **Ecology**
-Environment: Warm Plains
-Organization: Solitary
+
+| Environment: Warm Plains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
-Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid.
+
+| Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Heal
 - Greater Restoration
 - Black Tentacles
 
 ## Ancient Green Dragon
 - **Size/Type**: Gargantuan dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4}
+- **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
 - **Hit Points**: 441,  **Defense:** 42,  **Initiative:** +5
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +29, Reflex +23, Will +25
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +29, Reflex +23, Will +25
 - **Skills**: Stealth +8, Deception +11, Sense Motive +10, Awareness + 15
 - **Damage Imm.**: Poison, weapons +1
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23383,8 +23557,11 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 **Detect.** The dragon makes an Awareness check.
 
 **Ecology**
-Environment: Temperate Forests
-Organization: Solitary
+
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
 Green Dragons love forests and unspoiled nature where they consider themselves the undisputed masters and kings.
@@ -23401,20 +23578,24 @@ A Green Dragon does not like to fly and prefers to jump, crushing with its weigh
 
 Among the many dragons, the green one is perhaps the one that will talk to adventurers if they show respect and fear of its regality.
 
-Green Dragons have +1d6 in magic checks and can ignore one die rolled in the check with the Animals and Plants List and are immune to Poisons, both magical and natural.
+| Green Dragons have +1d6 in magic checks and can ignore one die rolled in the check with the Animals and Plants List and are immune to Poisons, both magical and natural. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Anti-Life Shell
 - Locate Animals and Plants
 - Neutralize Poison
 
 ## Ancient Purple Dragon
 - **Size/Type**: Gargantuan dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 3 Con 4 Int 4 Wis 4 Cha 4}
+- **Ability**: Str 8 Dex 3 Con 4 Int 4 Wis 4 Cha 4
 - **Hit Points**: 428,  **Defense:** 44,  **Initiative:** +4
 - **Movement**: 12 m, burrow 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +26, Reflex +25, Will +26
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +26, Reflex +25, Will +26
 - **Skills**: Dungeon Knowledge +8, Intimidation +11, Sense Motive +10, Awareness + 15
 - **Damage Imm.**: Sound, weapons +1
 - **Senses**: Darkvision 36 m, Tremorsense 72 m
@@ -23458,8 +23639,11 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 **Detect.** The dragon makes an Awareness check.
 
 **Ecology**
-Environment: Caverns
-Organization: Solitary, subterranean creatures
+
+| Environment: Caverns |
+| --- |
+| Organization: Solitary, subterranean creatures |
+
 **Treasure Category**: E
 **Description**
 Purple Dragons live underground and have perfectly adapted to subterranean life.
@@ -23473,20 +23657,24 @@ With a stocky appearance, they have fine, long teeth and enormous claws that con
 
 It is strong and courageous, arrogant but not brazen. It is not afraid to fight if it thinks it can win. It always takes the battle underground where it can create pits to make enemies fall or escape if necessary.
 
-A Purple Dragon has +1d6 in magic checks and can ignore one die rolled in the check with the Earth List, is immune to sound damage and effects.
+| A Purple Dragon has +1d6 in magic checks and can ignore one die rolled in the check with the Earth List, is immune to sound damage and effects. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Restser's Acid Arrow
 - Pass Without Trace
 - Stone Shape
 
 ## Ancient Red Dragon
 - **Size/Type**: Gargantuan dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6}
+- **Ability**: Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6
 - **Hit Points**: 490,  **Defense:** 44,  **Initiative:** +4
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +33, Reflex +24, Will +26
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +33, Reflex +24, Will +26
 - **Skills**: Stealth +7, Awareness +16
 - **Damage Imm.**: Fire, weapons +1
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23530,8 +23718,11 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 ***Enraged***: The red dragon shakes and roars. Once per day, the first time it is Enraged, it ends all negative conditions on itself and all abilities recharge. The breath recharges on 3-6.
 
 **Ecology**
-Environment: Warm mountains
-Organization: Solitary
+
+| Environment: Warm mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
 The Red Dragon believes itself to be the King of Dragons due to its physical power and breath capable of melting stone.
@@ -23543,20 +23734,24 @@ Red Dragons prefer warm mountains and, if possible, directly inside a volcano.
 
 They fight using their bulk, wings, bite, claws... basically everything they are and have at their disposal. A Red Dragon always fights to the death; it does not retreat, run away, or refuse a challenge. The pride they are filled with does not allow them to show weakness.
 
-A Red Dragon has +1d6 in magic checks and can ignore one die rolled in the check with the Fire List and is immune to fire.
+| A Red Dragon has +1d6 in magic checks and can ignore one die rolled in the check with the Fire List and is immune to fire. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Fireball
 - Incendiary Cloud
 - Wall of Fire
 
 ## Ancient Silver Dragon
 - **Size/Type**: Gargantuan dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6}
+- **Ability**: Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6
 - **Hit Points**: 470,  **Defense:** 42,  **Initiative:** +4
 - **Movement**: 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +32, Reflex +23, Will +25
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +32, Reflex +23, Will +25
 - **Skills**: Arcana +11, Stealth +7, Awareness +16, History +11
 - **Damage Imm.**: Cold, weapons +1
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23608,24 +23803,32 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 **Detect.** The dragon makes an Awareness check.
 
 **Ecology**
-Environment: Temperate Mountains
-Organization: Solitary
+
+| Environment: Temperate Mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
-Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably.
+
+| Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Slow
 - Fabricate
 - Dream
 
 ## Ancient White Dragon
 - **Size/Type**: Gargantuan dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 0 Con 8 Int 3 Wis 1 Cha 2}
+- **Ability**: Str 8 Dex 0 Con 8 Int 3 Wis 1 Cha 2
 - **Hit Points**: 407,  **Defense:** 38,  **Initiative:** +3
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +28, Reflex +20, Will +21
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +28, Reflex +20, Will +21
 - **Skills**: Stealth +6, Perception +13
 - **Damage Imm.**: Cold, +1 weapons
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23669,8 +23872,11 @@ The dragon can take 3 Legendary Actions, choosing from the options below. Only o
 **Detect.** The dragon makes a Perception check.
 
 **Ecology**
-Environment: Cold Mountains
-Organization: Solitary
+
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
 White Dragons are among the most savage and animal-like of all dragons.
@@ -23685,20 +23891,24 @@ Not much inclined to magic, they can however breathe ice shards much more freque
 
 Their lairs are icy caves in the mountains or dug into the most massive glaciers.
 
-White Dragons have +1d6 in magic checks and can ignore one die rolled in the check with the Water List and is immune to cold.
+| White Dragons have +1d6 in magic checks and can ignore one die rolled in the check with the Water List and is immune to cold. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Fire Shield
 - Ice Storm
 - Sleet Storm
 
 ## Ancient Yellow Dragon
 - **Size/Type**: Gargantuan dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 10 Dex 1 Con 8 Int 3 Wis 2 Cha 4}
+- **Ability**: Str 10 Dex 1 Con 8 Int 3 Wis 2 Cha 4
 - **Hit Points**: 465,  **Defense:** 43,  **Initiative:** +3
 - **Movement**: 12 m, burrow 24 m, climb 24, fly 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +31, Reflex +24, Will +25
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +31, Reflex +24, Will +25
 - **Skills**: Stealth +7, Awareness +17
 - **Damage Imm.**: Fire, weapons +1
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23719,13 +23929,19 @@ White Dragons have +1d6 in magic checks and can ignore one die rolled in the che
 ***Frightful Presence.*** Each creature of the dragon's choice within 36 meters of it and aware of its presence must succeed on a DC 35 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature's Saving Throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 ***Fire Breath (Recharge 5-6).*** The dragon exhales searing air in a 36-meter long, 3-meter wide line. Each creature in that line must make a DC 35 Reflex Saving Throw, taking 88 (16d10) fire damage on a failed save, or half as much damage on a successful one.
 **Additional Actions**
-The dragon can take 3 additional actions, chosen from the options below. It can use only one Additional Action at a time and only at the end of another creature's turn. The dragon regains spent Additional Actions at the start of its turn.
+
+| The dragon can take 3 additional actions, chosen from the options below. It can use only one Additional Action at a time and only at the end of another creature's turn. The dragon regains spent Additional Actions at the start of its turn. |
+| --- |
+
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 5 meters of the dragon must succeed on a DC 35 Reflex Saving Throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 **Tail Attack.** The dragon makes a tail attack.
 **Detect.** The dragon makes an Awareness check.
 **Ecology**
-Environment: Hot Deserts
-Organization: Solitary
+
+| Environment: Hot Deserts |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
 Yellow Dragons have scales of various shades of yellow that, as they grow, increasingly resemble the color of the sands where they dwell, from light yellow to brick red ocher.
@@ -23738,20 +23954,24 @@ They have a passion for dwarf meat, which they find tasty even if dry.
 
 The Yellow Dragon, although intelligent, is a killing machine and rarely negotiates, only if it finds itself in serious danger.
 
-A Yellow Dragon has +1d6 in magic checks and can ignore one die rolled in the check with the Fire List and is immune to fire.
+| A Yellow Dragon has +1d6 in magic checks and can ignore one die rolled in the check with the Fire List and is immune to fire. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Create Food and Water
 - Wall of Fire
 - Fire Shield
 
 ## Androsphinx
 - **Size/Type**: Large monstrosity, lawful
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 0 Con 5 Int 3 Wis 4 Cha 6}
+- **Ability**: Str 6 Dex 0 Con 5 Int 3 Wis 4 Cha 6
 - **Hit Points**: 338,  **Defense:** 34,  **Initiative:** +3
 - **Movement**: 40 ft, fly 60 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +22, Reflex +17, Will +21
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +22, Reflex +17, Will +21
 - **Skills**: Arcana +9, Religion +15
 - **Dmg. Imm.**: from non-magical weapons
 - **Immunities**: charmed, frightened
@@ -23809,8 +24029,11 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 ***Enraged:*** The Sphinx poses a riddle. The creature must answer, using all its actions and one answer per round, within 6 rounds. If it fails or doesn't answer, it must make a Will Saving Throw at DC 31 or remain paralyzed. Each round it can try the Saving Throw again in an attempt to give an answer. Costs 1 Action.
 
 **Ecology**
-Environment: Hills or Hot Deserts
-Organization: Solitary
+
+| Environment: Hills or Hot Deserts |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
 Androsphinxes, the most powerful of common sphinxes, believe they represent all that is worthy and noble in their species and act as if the weight of the entire world rested on their good example. They look at Criosphinxes with paternalistic condescension, Hieracosphinxes with ill-concealed disgust, and Gynosphinxes as the only other sphinxes worthy of their time.
@@ -23821,10 +24044,10 @@ Androsphinxes are 12 feet tall and weigh 1,100 pounds.
 
 ## Animated Armor
 - **Size/Type**: Medium construct, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 0 Con 1 Int -5 Wis -4 Cha -5}
+- **Ability**: Str 2 Dex 0 Con 1 Int -5 Wis -4 Cha -5
 - **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
 - **Movement**: 25 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Imm.**: Poison
 - **Condition Imm.**: blinded, charmed, deafened, paralyzed, petrified, exhausted, frightened
 - **Senses**: Blindsight 60 ft (blind beyond this radius)
@@ -23842,10 +24065,10 @@ Androsphinxes are 12 feet tall and weigh 1,100 pounds.
 
 ## Ankheg
 - **Size/Type**: Large monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 1 Int -5 Wis 1 Cha -2}
+- **Ability**: Str 3 Dex 0 Con 1 Int -5 Wis 1 Cha -2
 - **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +0
 - **Movement**: 9 m, burrow 3 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Darkvision 18 m, tremorsense 18 m
 - **Challenge**: 2 (450 XP)
 
@@ -23856,8 +24079,11 @@ Androsphinxes are 12 feet tall and weigh 1,100 pounds.
 ***Acid Spray*** The ankheg spits acid in a line that is 9 meters long and 1 meter wide, provided that it has no creature grappled. Each creature in that line must make a Reflex saving throw DC 14, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.
 
 **Ecology**
-Environment: Temperate or warm plains
-Organization: Solitary, pair, or nest (3-6)
+
+| Environment: Temperate or warm plains |
+| --- |
+| Organization: Solitary, pair, or nest (3-6) |
+
 **Treasure Category**: C
 **Description**
 Ankhegs are burrowing monsters that prefer countryside areas due to the soft ground that facilitates their movement. They usually avoid densely populated areas, but their preference for the flesh of livestock and humans keeps them away from uninhabited areas. In remote deserts, larger ankhegs can be found that feed on scorpions and camels.
@@ -23866,10 +24092,10 @@ Some ankhegs are trainable and can become beasts of burden, although their unpre
 
 ## Aquatic Man
 - **Size/Type**: Medium humanoid (aquatic man), neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 1}
+- **Ability**: Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 1
 - **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 3 m, swim 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Awareness +2
 - **Languages**: Aquan, Common
 - **Challenge**: 1/8 (25 XP)
@@ -23881,18 +24107,21 @@ Some ankhegs are trainable and can become beasts of burden, although their unpre
 *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 
 **Ecology**
-Environment: Temperate oceans
-Organization: Solitary, patrol (2-6), band (6-10 plus one 3rd-level lieutenant, company (11-60 plus 3 3rd-level lieutenants, 2 5th-level commanders, 1 7th-level commodore and 3-12 Squids
+
+| Environment: Temperate oceans |
+| --- |
+| Organization: Solitary, patrol (2-6), band (6-10 plus one 3rd-level lieutenant, company (11-60 plus 3 3rd-level lieutenants, 2 5th-level commanders, 1 7th-level commodore and 3-12 Squids |
+
 **Treasure Category**: NPC Equipment (Trident, Light Crossbow with 10 Bolts, N)
 **Description**
 Physically, the Fish Men resemble their ancestors, with expressive foreheads, pale skin, dark hair, and purple eyes. They have three thin gills on their neck, but can pass for Humans for short periods, if they wish.
 
 ## Azer
 - **Size/Type**: Medium elemental, lawful
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 2 Int 1 Wis 1 Cha 0}
+- **Ability**: Str 3 Dex 1 Con 2 Int 1 Wis 1 Cha 0
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
 - **Damage Imm.**: Fire, Poison
 - **Languages**: Ignan
 - **Challenge**: 2 (450 XP)
@@ -23910,8 +24139,11 @@ Physically, the Fish Men resemble their ancestors, with expressive foreheads, pa
 *Hit:* 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
 **Ecology**
-Environment: Any terrain (Plane of Fire)
-Organization: Solitary, pair, team (3-6), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level), or clan (30-100 plus 50\% noncombatants plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, and 3 captains of 7th level)
+
+| Environment: Any terrain (Plane of Fire) |
+| --- |
+| Organization: Solitary, pair, team (3-6), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level), or clan (30-100 plus 50\% noncombatants plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, and 3 captains of 7th level) |
+
 **Treasure Category**: Perfect Scale Armor, Perfect Warhammer, Light Hammer, N
 **Description**
 A proud and industrious race from the Plane of Fire, the Azer work in their fortresses of bronze and brass, always ready to fight their long and boiling war against the Efreet. The Azer live in a society where each member knows their place. Born with specific duties, usually related to the activities of their father or mother, the Azer devote themselves to these occupations for life. A caste system further keeps Azer society in line. The nobles, who rule without having to answer to anyone, wear decorated brass kilts as a symbol of their caste, while those of merchants and shop owners are made of sturdy bronze. Copper kilts are worn by the working caste, composed of servants, craftsmen, and laborers.
@@ -23924,10 +24156,10 @@ To an untrained eye, the Azer appear impressively similar to each other. They ar
 
 ## B.O.C.
 - **Size/Type**: large monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 3 Con 2 Int -2 Wis 1 Cha -1}
+- **Ability**: Str 4 Dex 3 Con 2 Int -2 Wis 1 Cha -1
 - **Hit Points**: 88,  **Defense:** 20,  **Initiative:** +3
 - **Movement**: 13 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +7, Will +5}
+- **Saving Throws**: Fortitude +6, Reflex +7, Will +5
 - **Skills**: Stealth +8
 - **Senses**: Darkvision 20 m, Low-light Vision 18 m
 - **Languages**: Common, can only understand it
@@ -23954,18 +24186,21 @@ To an untrained eye, the Azer appear impressively similar to each other. They ar
 The B.O.C. constantly bends light around itself, appearing almost a meter displaced from its actual position. This ability is not affected by normal vision types; only Truesight, blindsight, or tremorsense can correctly perceive the B.O.C.
 
 **Ecology**
-Environment: Hills and forests
-Organization: Solitary, pair, or pack (2d4)
+
+| Environment: Hills and forests |
+| --- |
+| Organization: Solitary, pair, or pack (2d4) |
+
 **Treasure Category**: I
 **Description**
 The Black Ops Cat, better known as B.O.C., is a large predatory feline, obviously black in color. Fierce, insatiable, it kills for the pleasure of hunting. It usually operates in packs and is extremely loyal to the group.
 
 ## Balor
 - **Size/Type**: Huge demon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 2 Con 6 Int 5 Wis 3 Cha 6}
+- **Ability**: Str 8 Dex 2 Con 6 Int 5 Wis 3 Cha 6
 - **Hit Points**: 379,  **Defense:** 39,  **Initiative:** +5
 - **Movement**: 12 m, flight 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +25, Reflex +21, Will +22
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +25, Reflex +21, Will +22
 - **Damage Resistance**: Cold, Lightning;
 - **Damage Immunity**: Fire, Poison, +1 weapons
 - **Vulnerability**: cold iron, Light
@@ -23996,8 +24231,11 @@ The Black Ops Cat, better known as B.O.C., is a large predatory feline, obviousl
 ***Teleport.*** The demon magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 36 meters.
 
 **Ecology**
-Environment: Any (Abyss)
-Organization: Solitary or war band (1 Balor and 2-5 Glabrezu)
+
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary or war band (1 Balor and 2-5 Glabrezu) |
+
 **Treasure Category**: Standard (Unholy Longsword+1, Flaming Whip+1, R)
 **Description**
 When people whisper terrifying tales of demonic creatures, they mostly imagine an imposing figure of fire and flesh, a horned nightmare armed with flaming whip and sword, flying through the night in search of its prey. The demon these people fear is the Balor, and this fear is fully justified, since few demons can match the mighty Balor in strength or brutality.
@@ -24008,10 +24246,10 @@ A Balor is 4.2 meters tall and weighs 2,250 kg. Only the most cruel mortal souls
 
 ## Banshee
 - **Size/Type**: Medium undead, Arrogant, Vain
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -5 Dex 5 Con 0 Int 1 Wis 1 Cha 4}
+- **Ability**: Str -5 Dex 5 Con 0 Int 1 Wis 1 Cha 4
 - **Hit Points**: 87,  **Defense:** 22,  **Initiative:** +5
 - **Movement**: 0 m, fly 18 m, Hover
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +9, Will +5}
+- **Saving Throws**: Fortitude +4, Reflex +9, Will +5
 - **Damage Res.**: Acid, Electricity, Fire, Sound; +1 magic weapons
 - **Damage Imm.**: Void, Poison, Cold, nonmagical weapons
 - **Immunities**: charmed, grappled, restrained, paralyzed, petrified, prone, exhausted, bleeding
@@ -24038,18 +24276,21 @@ A Balor is 4.2 meters tall and weighs 2,250 kg. Only the most cruel mortal souls
 ***Wail (1/Day)***. The Banshee releases a mournful wail, provided that she isn't in sunlight. This wail has no effect on constructs and undead. Every other creature within 9 meters of her that can hear her must make a Fortitude saving throw with Charisma bonus DC 17; on a failure, it drops to 0 hit points, while on a success, it takes 35 (10d6) force damage.
 
 **Ecology**
-Environment: Any
-Organization: Solitary
+
+| Environment: Any |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
 The Banshee is the enraged spirit of a woman who betrayed her loved ones or was herself betrayed. Driven mad with grief, the Banshee unleashes her vengeance on every living creature (innocent or guilty) with her dreadful touch and her deadly screams.
 
 ## Basilisk
 - **Size/Type**: Medium monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex -1 Con 2 Int -4 Wis -1 Cha -2}
+- **Ability**: Str 3 Dex -1 Con 2 Int -4 Wis -1 Cha -2
 - **Hit Points**: 70,  **Defense:** 15,  **Initiative:** -1
 - **Movement**: 6 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Senses**: Darkvision 18 m
 - **Challenge**: 3 (700 XP)
 
@@ -24066,8 +24307,11 @@ If the basilisk is within 9 meters of its reflection in bright light and sees it
 *Poison:* Basilisk Venom, F, instantaneous, Fortitude ST 14 or Slowed 1/3r.
 
 **Ecology**
-Environment: Any
-Organization: Solitary, pair, or colony (3-6)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, or colony (3-6) |
+
 **Treasure Category**: F
 **Description**
 The basilisk, often called the *King of Serpents*, is an eight-legged reptile with an aggressive disposition that has the ability to turn creatures to stone with its gaze. Legend has it that, like the Cockatrice, the first basilisks were born from eggs laid by snakes and incubated by roosters, but very little in the basilisk's physiology supports this theory.
@@ -24084,10 +24328,10 @@ For unknown reasons, weasels, ferrets, and small mice are immune to the basilisk
 
 ## Bearded Devil
 - **Size/Type**: Medium devil, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 2 Int -1 Wis 0 Cha 0}
+- **Ability**: Str 3 Dex 2 Con 2 Int -1 Wis 0 Cha 0
 - **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +5, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +5, Will +3
 - **Damage Res.**: Cold; from non-magical or non-silvered weapons
 - **Damage Imm.**: Fire, Poison
 - **Vulnerabilities**: silver, Light
@@ -24114,8 +24358,11 @@ For unknown reasons, weasels, ferrets, and small mice are immune to the basilisk
 **Reaction: *Opportunity Attack***: the devil makes an attack against a creature that moves through or out of its 1-meter reach.
 
 **Ecology**
-Environment: Any (Hell)
-Organization: Solitary, pair, squad (3-10) or troop (10-40)
+
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, squad (3-10) or troop (10-40) |
+
 **Treasure Category**: Glaive, L
 **Description**
 Chosen warriors of the infernal legions, bearded devils, or barbazus, fight savagely in the name of their infernal lords and command brutal hordes of the damned in battle. They gather and train with their hell-forged glaives among the vaults of the third circle of Hell, Erebus, but inevitably return to the first circle, Avernus, to serve alongside the fearsome lord Barbatos.
@@ -24124,10 +24371,10 @@ Barbazus love to make charging attacks with their glaives and try to maintain a 
 
 ## Behir
 - **Size/Type**: Huge monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 3 Con 4 Int -2 Wis 2 Cha 1}
+- **Ability**: Str 6 Dex 3 Con 4 Int -2 Wis 2 Cha 1
 - **Hit Points**: 221,  **Defense:** 29,  **Initiative:** +3
 - **Movement**: 15 m, climb 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +15, Reflex +14, Will +13
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +14, Will +13
 - **Skills**: Stealth +7
 - **Damage Imm.**: Electricity
 - **Senses**: Darkvision 27 m
@@ -24153,8 +24400,11 @@ If the behir takes 30 or more damage in a single turn from a creature it has swa
 ***Enraged:*** The Behir recharges its lightning breath. Costs 2 Actions.
 
 **Ecology**
-Environment: Hills and Hot Deserts
-Organization: Solitary or pair
+
+| Environment: Hills and Hot Deserts |
+| --- |
+| Organization: Solitary or pair |
+
 **Treasure Category**: U
 **Description**
 The behir is a territorial creature that crawls through sandy hills and desert rocks, hunting all creatures that dare to enter its territory. With an average length of 12 meters and weighing about 1800 kg, the behir is equipped with six pairs of clawed limbs that it uses in combat to grab enemies, run, or climb.
@@ -24163,10 +24413,10 @@ Despite its bestial fury, the behir is not necessarily evil and can be persuaded
 
 ## Black Dragon Wyrmling
 - **Size/Type**: Medium dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 1 Int 0 Wis 0 Cha 1}
+- **Ability**: Str 2 Dex 2 Con 1 Int 0 Wis 0 Cha 1
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 9 m, climb 9 m, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Skills**: Stealth +4, Awareness +4
 - **Damage Imm.**: Acid
 - **Senses**: Darkvision 18 m, Blindsight 3 m
@@ -24182,18 +24432,21 @@ Despite its bestial fury, the behir is not necessarily evil and can be persuaded
 ***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 5-meter line that is 1 meter wide. Each creature in that area must make a DC 14 Reflex Saving Throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 
 **Ecology**
-Environment: Warm Swamps
-Organization: Solitary
+
+| Environment: Warm Swamps |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: H
 **Description**
 See Ancient Black Dragon Description.
 
 ## Black Knight
 - **Size/Type**: Medium undead, Arrogant, Patient
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 1 Con 5 Int 1 Wis 2 Cha 3}
+- **Ability**: Str 5 Dex 1 Con 5 Int 1 Wis 2 Cha 3
 - **Hit Points**: 357,  **Defense:** 37,  **Initiative:** +1
 - **Movement**: 9 meters
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +23, Reflex +19, Will +20
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +23, Reflex +19, Will +20
 - **Skills**: Intimidate +12, Religion +8, Planes Knowledge +8, Arcana Knowledge +5
 - **Damage Res.**: Cold, Electricity
 - **Damage Imm.**: Void, Poison; +1 weapons
@@ -24227,18 +24480,21 @@ level 4 (3 slots): *Banishment, Branding Smite (with 1 automatic magic critical,
 **Reaction: *Opportunity Attack***: the Black Knight makes an attack against a creature that moves through or out of his 1-meter reach.
 
 **Ecology**
-Environment: Any
-Organization: Solitary
+
+| Environment: Any |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: longsword +3 or full plate armor +3, the rest of the equipment disappears with the death of the Black Knight.
 **Description**
 Damned to the depths of his soul, the Black Knight is the antithesis of the knight of Sumkjr, and often arises from the corruption of a knight of Sumkjr. A formidable adversary, cunning, tactical, he loves to behave and reason maliciously, like a person still alive. His tactic is to cast Fireball as soon as possible and then consume the victim with Branding Smite.
 
 ## Black Pudding
 - **Size/Type**: Large ooze, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex -3 Con 3 Int -5 Wis -2 Cha -5}
+- **Ability**: Str 3 Dex -3 Con 3 Int -5 Wis -2 Cha -5
 - **Hit Points**: 89,  **Defense:** 14,  **Initiative:** -3
 - **Movement**: 20 ft, climb 20 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +7, Reflex +3, Will +3
 - **Damage Imm.**: Acid, Cold, Lightning, slashing, from critical
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
 - **Senses**: Blindsight 60 ft (blind beyond this radius)
@@ -24261,18 +24517,21 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 **Reactions*Split.*** When a Medium or larger pudding takes lightning or slashing damage, it splits into two new puddings of at least 10 hit points each. Each new pudding has half the original pudding's hit points, rounded down. New puddings are one size smaller than the original pudding.
 
 **Ecology**
-Environment: Any underground
-Organization: Solitary
+
+| Environment: Any underground |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: None
 **Description**
 Black puddings are the scavengers of the underground world, constantly searching for food. They can sense organic or metallic bodies within 60 feet and instinctively attack such objects or beings until they dissolve them, or until the ooze is killed. A black pudding reproduces by breaking off a piece of its body and forming a smaller new pudding that reaches adulthood within a month. Some of the more intelligent creatures in the underground world use black puddings for natural garbage disposal, creating stone cavities designed to house the pudding, and then throwing in organic waste or enemies.
 
 ## Blue Dragon Wyrmling
 - **Size/Type**: Huge dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2}
+- **Ability**: Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2
 - **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +1
 - **Movement**: 9 m, burrow 5 meters, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Skills**: Stealth +2, Perception +4
 - **Damage Imm.**: Lightning
 - **Senses**: Darkvision 18 m, Blindsight 3 m
@@ -24286,18 +24545,21 @@ Black puddings are the scavengers of the underground world, constantly searching
 ***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 9-meter-long, 1-meter-wide line. Each creature in that line must make a DC 14 Reflex Saving Throw, taking 22 (4d10) electricity damage on a failed save, or half as much damage on a successful one.
 
 **Ecology**
-Environment: Mountain peaks
-Organization: Solitary
+
+| Environment: Mountain peaks |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
 See Ancient Blue Dragon Description.
 
 ## Bone Bloom
 - **Size/Type**: Large undead, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 4 Int -2 Wis -2 Cha -3}
+- **Ability**: Str 3 Dex 2 Con 4 Int -2 Wis -2 Cha -3
 - **Hit Points**: 127,  **Defense:** 22,  **Initiative:** +2
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +8, Will +4}
+- **Saving Throws**: Fortitude +10, Reflex +8, Will +4
 - **Damage Imm.**: Poison
 - **Damage Res.**: piercing, slashing, Poison, from Light
 - **Immunities**: fatigued, bleeding, slowed, slow
@@ -24324,18 +24586,21 @@ See Ancient Blue Dragon Description.
 ***Enraged:*** the Bone Bloom gathers the energies of nature around it, withering it. It recovers 50 Hit Points. Costs 2 Actions.
 
 **Ecology**
-Environment: Any forest
-Organization: Solitary, groups (2d12)
+
+| Environment: Any forest |
+| --- |
+| Organization: Solitary, groups (2d12) |
+
 **Treasure Category**: Incidental
 **Description**
 Bone Blooms are creatures that died in the depths of the forest for various reasons. Nature, not wanting to waste anything, animates the creature to make it its defender. At first glance, a Bone Bloom is not different from a trunk covered with colorful lichens, small mushrooms, and grassy mantle, so one is it with nature.
 
 ## Bone Devil
 - **Size/Type**: Large devil, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 3 Con 4 Int 1 Wis 2 Cha 3}
+- **Ability**: Str 4 Dex 3 Con 4 Int 1 Wis 2 Cha 3
 - **Hit Points**: 184,  **Defense:** 27,  **Initiative:** +3
 - **Movement**: 12 m, flight 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +13, Reflex +12, Will +11
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +12, Will +11
 - **Skills**: Deception +7, Detect Emotions +6
 - **Damage Res.**: Cold; from non-magical or non-silvered weapons
 - **Damage Imm.**: Fire, Poison
@@ -24365,8 +24630,11 @@ Bone Blooms are creatures that died in the depths of the forest for various reas
 ***Enraged:*** the Bone Devil attacks all creatures around it with its polearm. All creatures within a 3-meter radius are subjected to a Hooked Polearm attack, without being grappled. Cost 2 Actions. The Bone Devil can decide to become invisible as under the spell of Greater Invisibility. 2 Actions.
 
 **Ecology**
-Environment: Any (Hell)
-Organization: Solitary, squad (2-3), council (4-10) or contingent (1-3 ice devils, 2-6 horned devils and 1-4 bone devils
+
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, squad (2-3), council (4-10) or contingent (1-3 ice devils, 2-6 horned devils and 1-4 bone devils |
+
 **Treasure Category**: I
 **Description**
 Bone devils are inquisitors of the diabolical races, known for their passion for torturing mortals, souls, and other devils. Born in the marshes of Stygia, in the fifth circle of Hell, they enforce the orders of the archdevils with absolute devotion.
@@ -24375,10 +24643,10 @@ Bone devils often travel to the mortal plane to serve evil spellcasters, gatheri
 
 ## Brain Eater
 - **Size/Type**: Small aberration, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 6 Con 5 Int 3 Wis 0 Cha 3}
+- **Ability**: Str 1 Dex 6 Con 5 Int 3 Wis 0 Cha 3
 - **Hit Points**: 186,  **Defense:** 30,  **Initiative:** +6
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +14, Reflex +15, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +15, Will +9
 - **Damage Imm.**: Fire
 - **Immunities**: spells from Illusion and Charm magic lists
 - **Senses**: Blindsight 18 m
@@ -24412,8 +24680,11 @@ While the Brain Eater occupies the body, it knows (and can speak) the languages 
 Damage inflicted to the body, which has double the original Hit Points, does not damage the Brain Eater, and if the host body is destroyed, the Brain Eater emerges and is Stunned for 1 round.
 
 **Ecology**
-Environment: Any underground
-Organization: Solitary, clutch (2-6) or tribe (7-16)
+
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, clutch (2-6) or tribe (7-16) |
+
 **Treasure Category**: G
 **Description**
 A Brain Eater is nothing more than a brain of about 50 cm equipped with 4 powerful clawed legs.
@@ -24426,10 +24697,10 @@ It is said that Shayalia's garden is full of Brain Eaters. A Brain Eater is 90 c
 
 ## Brass Dragon Wyrmling
 - **Size/Type**: Medium dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 0 Con 1 Int 0 Wis 0 Cha 1}
+- **Ability**: Str 2 Dex 0 Con 1 Int 0 Wis 0 Cha 1
 - **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
 - **Movement**: 30 ft, burrow 15 ft, fly 60 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Imm.**: Fire
 - **Skills**: Stealth +2, Perception +4
 - **Senses**: Darkvision 60 ft, Blindsight 10 ft
@@ -24447,18 +24718,21 @@ It is said that Shayalia's garden is full of Brain Eaters. A Brain Eater is 90 c
 *Sleep Breath.* The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 12 Fortitude Saving Throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an Action to wake it.
 
 **Ecology**
-Environment: Hot Deserts
-Organization: Solitary
+
+| Environment: Hot Deserts |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
 Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip.
 
 ## Bronze Dragon Wyrmling
 - **Size/Type**: Medium dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2}
+- **Ability**: Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2
 - **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +1
 - **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
 - **Skills**: Stealth +2, Awareness +4
 - **Dmg. Imm.**: Lightning
 - **Senses**: Darkvision 18 m, Blindsight 3 m
@@ -24479,18 +24753,21 @@ reach 1 m, one target.
 *Repulsion Breath.* The dragon exhales repulsion energy in a 9-meter cone. Each creature in that area must succeed on a DC 16 Fortitude Saving Throw or be pushed 9 meters away from the dragon.
 
 **Ecology**
-Environment: Temperate Coastal Areas
-Organization: Solitary
+
+| Environment: Temperate Coastal Areas |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
 Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate.
 
 ## Bugbear
 - **Size/Type**: Medium humanoid (goblinoid), Arrogant, Impulsive
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 1 Int -1 Wis 0 Cha -1}
+- **Ability**: Str 2 Dex 2 Con 1 Int -1 Wis 0 Cha -1
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +6, Survival +2
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Goblin
@@ -24509,8 +24786,11 @@ Bronze dragons are known to ally with travelers and adventurers if the cause and
 *Hit:* 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
 
 **Ecology**
-Environment: Temperate mountains
-Organization: Solitary, pair, group (3-6), or war band (7-12 plus 2 Warriors of 1st level and 1 captain of 3rd-5th level)
+
+| Environment: Temperate mountains |
+| --- |
+| Organization: Solitary, pair, group (3-6), or war band (7-12 plus 2 Warriors of 1st level and 1 captain of 3rd-5th level) |
+
 **Treasure Category**: NPC Equipment (Leather Armor, Light Wooden Shield, Morningstar, 3 Javelins, O)
 **Description**
 The bugbear is the largest of the Goblinoid race, a brute with heavy movements that stands at least a head taller than most Humans. They are solitary creatures who prefer to live and kill alone rather than in tribes, although it is not unusual to find a small band of Bugbears that collaborates with or lives with a tribe of Goblins or Hobgoblins, serving as elite guards or executioners.
@@ -24521,10 +24801,10 @@ Bugbears, when they turn to religion, prefer deities of murder and violence, wit
 
 ## Bulette
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 5 Int -4 Wis 0 Cha -3}
+- **Ability**: Str 4 Dex 0 Con 5 Int -4 Wis 0 Cha -3
 - **Hit Points**: 110,  **Defense:** 18,  **Initiative:** +0
 - **Movement**: 12 m, burrow 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +5, Will +5}
+- **Saving Throws**: Fortitude +10, Reflex +5, Will +5
 - **Skills**: Awareness +6
 - **Senses**: Darkvision 18 m, tremorsense 18 m
 - **Challenge**: 5 (1800 XP)
@@ -24542,8 +24822,11 @@ Bugbears, when they turn to religion, prefer deities of murder and violence, wit
 ***Enraged:*** The bulette recharges with its last energies, regaining three times its CR in hit points. Costs 1 Action.
 
 **Ecology**
-Environment: Temperate Hills
-Organization: Solitary or pair
+
+| Environment: Temperate Hills |
+| --- |
+| Organization: Solitary or pair |
+
 **Treasure Category**: None
 **Description**
 Creation of an unknown wizard of the past, the bulette has now become a fierce hill predator. Burrowing rapidly beneath the ground, it cleaves the surface with its dorsal fin, leaving behind a characteristic trail. The bulette leaps out, freeing itself from rocks and soil, to tear its prey to pieces without remorse, thus giving rise to its nickname of *land shark*.
@@ -24556,10 +24839,10 @@ The bulette is a cunning fighter, and surprises enemies with impressive agility.
 
 ## Centaur
 - **Size/Type**: Large monstrosity, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 2 Int -1 Wis 1 Cha 0}
+- **Ability**: Str 4 Dex 2 Con 2 Int -1 Wis 1 Cha 0
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 15 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +4, Will +3
 - **Skills**: Athletics +6, Awareness +3, Survival +3
 - **Languages**: Elvish, Sylvan
 - **Challenge**: 2 (450 XP)
@@ -24581,8 +24864,11 @@ The bulette is a cunning fighter, and surprises enemies with impressive agility.
 *Hits:* 6 (1d8 + 2) piercing damage.
 
 **Ecology**
-Environment: Temperate plains and forests
-Organization: Solitary, pair, band (3-10), tribe (11-30 plus 3 hunters of 3rd level and 1 leader of 6th level)
+
+| Environment: Temperate plains and forests |
+| --- |
+| Organization: Solitary, pair, band (3-10), tribe (11-30 plus 3 hunters of 3rd level and 1 leader of 6th level) |
+
 **Treasure Category**: B
 **Description**
 Legendary hunters and skilled warriors, centaurs are part human and part horse. Generally located at the edges of civilization, this stoic population varies enormously in appearance: usually the skin color is very tanned but similar to that of humans in neighboring regions, while the lower part of the body has the shades of local equines. They have dark hair and eyes and rather marked facial features, while their total size depends on the size of the horse of which they have the lower part of the body. So, while an average centaur stands 2.1 meters tall and weighs more than 1000 kg, there are multiple regional variants, from the slender plains runners to the massive mountain hunters.
@@ -24593,10 +24879,10 @@ Legend has it that the Centaurs were supposed to explode like all equines, by th
 
 ## Chain Devil
 - **Size/Type**: Medium devil, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 4 Int 0 Wis 1 Cha 2}
+- **Ability**: Str 4 Dex 2 Con 4 Int 0 Wis 1 Cha 2
 - **Hit Points**: 165,  **Defense:** 24,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +12, Reflex +10, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +12, Reflex +10, Will +9
 - **Damage Res.**: Cold; from non-magical or non-silvered weapons
 - **Damage Imm.**: Fire, Poison
 - **Vulnerabilities**: silver, Light
@@ -24625,18 +24911,21 @@ Each animated chain is an object with Defense 20, 20 Hit Points, resistance to p
 ***Enraged:*** the Chain Devil flails its chains in front of itself. Until the end of combat, its Defense is 27. Costs 1 Action per round to maintain the effect.
 
 **Ecology**
-Environment: Any
-Organization: Solitary, pair, gang (3-6) or chain (7-20)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, gang (3-6) or chain (7-20) |
+
 **Treasure Category**: R
 **Description**
 Often classified by the uninitiated among the ranks of infernal devils, Chain Devils are not true devils. Although some are known to live in Hell, they exist outside the hierarchies established by the gods of the underworld and its archdevils, and can sometimes be found on other planes, particularly on the Plane of Shadows. Many suggest they are native to Hell that existed before the advent of the diabolic lineage, although others hypothesize they were brought to the plane by some sadistic power. Regardless of their origins, they wander the planes indulging their desire to cause and receive suffering, seeking pain through violent kidnappings and sadistic depravities.
 
 ## Champion Skeleton
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 1 Con 3 Int -2 Wis -1 Cha -3}
+- **Ability**: Str 4 Dex 1 Con 3 Int -2 Wis -1 Cha -3
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
 - **Movement**: 40 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +6, Reflex +4, Will +3
 - **Dmg. Imm.**: Poison
 - **Dmg. Res.**: piercing, slashing, Electricity, Fire
 - **Immunities**: fatigued, bleeding
@@ -24652,10 +24941,10 @@ Often classified by the uninitiated among the ranks of infernal devils, Chain De
 
 ## Chimera
 - **Size/Type**: Large monstrosity, Arrogant, Vain
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 4 Int -4 Wis 2 Cha 0}
+- **Ability**: Str 4 Dex 0 Con 4 Int -4 Wis 2 Cha 0
 - **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
 - **Movement**: 9 m, flight 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +6, Will +8}
+- **Saving Throws**: Fortitude +10, Reflex +6, Will +8
 - **Skills**: Awareness +8
 - **Senses**: Darkvision 18 m
 - **Languages**: understands Draconic but cannot speak
@@ -24682,19 +24971,25 @@ Often classified by the uninitiated among the ranks of infernal devils, Chain De
 ***Enraged:*** the Chimera glows with energy. Recharges the Fire Breath. Costs 1 Action.
 
 **Ecology**
-Environment: Temperate Hills
-Organization: Solitary, pair, pack (3-6) or flight (7-12)
+
+| Environment: Temperate Hills |
+| --- |
+| Organization: Solitary, pair, pack (3-6) or flight (7-12) |
+
 **Treasure Category**: F
 **Description**
-Chimeras are monstrous creatures born of primeval evil. Hateful and ravenous, they hunt both on land and in the air. A chimera's dragon head can be of any type of evil dragon, with the corresponding breath and wings generally having the same scales as the head. Chimeras speak with three overlapping voices, but they rarely do so, typically only to flatter a more powerful creature. A chimera is 1 meter tall at the shoulder, reaching a length of 4 meters and weighing 350 kg.
+
+| Chimeras are monstrous creatures born of primeval evil. Hateful and ravenous, they hunt both on land and in the air. A chimera's dragon head can be of any type of evil dragon, with the corresponding breath and wings generally having the same scales as the head. Chimeras speak with three overlapping voices, but they rarely do so, typically only to flatter a more powerful creature. A chimera is 1 meter tall at the shoulder, reaching a length of 4 meters and weighing 350 kg. |
+| --- |
+
 Chimeras prefer meat, but they can survive on vegetation if necessary (although when forced to do so, their mood worsens even further). The fact that they fly means they can carefully choose their prey, and they generally hunt in vast areas looking for easy targets. They are too stupid and belligerent to acquire followers, though sometimes a tribe of kobolds may make offerings to them. Conversely, they are intelligent and stubborn enough to make mediocre pets, and only a creature much more powerful than them can manage to subdue them. They can form equal partnerships with respectful humanoids or similar creatures, and also consent to being used as mounts. A pack of chimeras has a hierarchy similar to that of lions, with a dominant male that commands the group and most of the hunting done by the females. A solitary chimera can be a young solitary male or a female with cubs nearby.
 
 ## Chuul
 - **Size/Type**: Large aberration, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 3 Int -3 Wis 0 Cha -3}
+- **Ability**: Str 4 Dex 0 Con 3 Int -3 Wis 0 Cha -3
 - **Hit Points**: 89,  **Defense:** 17,  **Initiative:** +0
 - **Movement**: 9 m, swim 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +4, Will +4}
+- **Saving Throws**: Fortitude +7, Reflex +4, Will +4
 - **Skills**: Awareness +4
 - **Damage Immunity**: Poison
 - **Senses**: Darkvision 18 m
@@ -24716,8 +25011,11 @@ Chimeras prefer meat, but they can survive on vegetation if necessary (although 
 **Reaction: *Opportunity Attack***: the chuul makes an attack against a creature that moves through or out of its 3-meter reach.
 
 **Ecology**
-Environment: Temperate Marshes
-Organization: Solitary, pair or pack (3-6)
+
+| Environment: Temperate Marshes |
+| --- |
+| Organization: Solitary, pair or pack (3-6) |
+
 **Treasure Category**: U (B)
 **Description**
 Chuuls are armored predators resembling crustaceans, always lurking beneath the surface of shallow ponds and swamps, emerging from their hiding places to grab their prey with their claws and then paralyze them with mouth tentacles before eating them alive.
@@ -24728,10 +25026,10 @@ Chuuls are surprisingly intelligent, and many engage in useless speculation abou
 
 ## Clay Golem
 - **Size/Type**: Large construct, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex -1 Con 4 Int -4 Wis -1 Cha -5}
+- **Ability**: Str 5 Dex -1 Con 4 Int -4 Wis -1 Cha -5
 - **Hit Points**: 184,  **Defense:** 23,  **Initiative:** -1
 - **Movement**: 6 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +13, Reflex +8, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +8, Will +8
 - **Damage Imm.**: Acid, Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: Darkvision 18 m
@@ -24765,8 +25063,11 @@ Chuuls are surprisingly intelligent, and many engage in useless speculation abou
 ***Haste (Recharge 5-6).*** Until the end of its next turn, the golem magically gains a +2 bonus to Defense, has +1d6 on Reflex Saving Throws, and can use its slam attacks as an Immediate Action.
 
 **Ecology**
-Environment: Any
-Organization: Solitary or group (2-4)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary or group (2-4) |
+
 **Treasure Category**: None
 **Description**
 Clay golems don't wear clothing, except for a treated leather or metal garment around the waist. They are typically over 2.3 meters tall and weigh 300 kilograms.
@@ -24776,10 +25077,10 @@ A clay golem can be sculpted from a single block of clay weighing at least 500 k
 
 ## Cloaker
 - **Size/Type**: Large aberration, chaotic
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 1 Int 1 Wis 1 Cha 2}
+- **Ability**: Str 3 Dex 2 Con 1 Int 1 Wis 1 Cha 2
 - **Hit Points**: 160,  **Defense:** 24,  **Initiative:** +2
 - **Movement**: 3 m, fly 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.8cm}{!}{Fortitude +9, Reflex +10, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.8cm{!}{Fortitude +9, Reflex +10, Will +9
 - **Skills**: Stealth +5
 - **Senses**: Darkvision 18 m
 - **Languages**: Deep Speech
@@ -24813,8 +25114,11 @@ A duplicate has the cloaker's Defense and uses its Saving Throws. If an attack h
 ***Angered:*** the Cloaker recharges the Phantasms ability. Costs 1 Action.
 
 **Ecology**
-Environment: Underground
-Organization: Solitary, pair, squad (3-6) or flock (7-12)
+
+| Environment: Underground |
+| --- |
+| Organization: Solitary, pair, squad (3-6) or flock (7-12) |
+
 **Treasure Category**: R
 **Description**
 Resembling flying, hideously evil manta rays, cloakers are mysterious, paranoid creatures. A typical specimen has a wingspan of 2.3 meters and weighs 50 kg.
@@ -24823,10 +25127,10 @@ Their motivations are mysterious and confused, and they distrust even their own 
 
 ## Cloud Giant
 - **Size/Type**: Huge giant, good (50\%) or evil (50\%)
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 0 Con 6 Int 1 Wis 3 Cha 3}
+- **Ability**: Str 8 Dex 0 Con 6 Int 1 Wis 3 Cha 3
 - **Hit Points**: 187,  **Defense:** 24,  **Initiative:** +1
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +15, Reflex +9, Will +12
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +9, Will +12
 - **Skills**: Sense Motive +7
 - **Languages**: Common, Giant
 - **Challenge**: 9 (5000 XP)
@@ -24858,8 +25162,11 @@ At will: *Detect Magic, Light, Fog Cloud*
 ***Enraged:*** The Cloud Giant waves the weapon above its head, summoning storm clouds and casting the spell Call Lightning. Costs 2 Actions.
 
 **Ecology**
-Environment: Temperate Mountains
-Organization: Solitary, group (2-5), family (2-5 plus 35\% noncombatants plus 1 wizard or Devotee of 4th-7th level and 2-5 Griffons) or tribe (6-20 plus 1 oracle wizard or Devotee of 7th-12th level and 2-5 Griffons)
+
+| Environment: Temperate Mountains |
+| --- |
+| Organization: Solitary, group (2-5), family (2-5 plus 35\% noncombatants plus 1 wizard or Devotee of 4th-7th level and 2-5 Griffons) or tribe (6-20 plus 1 oracle wizard or Devotee of 7th-12th level and 2-5 Griffons) |
+
 **Treasure Category**: Chain Mail, Morningstar, U
 **Description**
 Cloud giants' skin color varies from milky white to powder blue. Adult males are about 5.3 meters tall and weigh approximately 2,500 kg. Females are slightly shorter and slimmer. Cloud giants can live up to 400 years, dress in expensive clothing and jewelry. For many, appearance indicates status. The better the clothes and the more refined the jewelry, the more important the wearer. They also appreciate music, and the majority play one or more instruments (the harp is one of their favorites).
@@ -24868,13 +25175,11 @@ Cloud giants can have unusually varied Traits; about half are good and half evil
 
 There are many legends that speak of magical cloud giant cities located among the clouds themselves, floating on the winds and circumnavigating the world. While cloud giants acknowledge that these are mostly fantasies, some claim to have seen them and have dedicated their entire existence to finding them.
 
-\rule  
-
 - **Size/Type**: Small monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 1 Con 1 Int -4 Wis 1 Cha -3}
+- **Ability**: Str -2 Dex 1 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 6 m, flight 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Darkvision 18 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -24883,8 +25188,11 @@ There are many legends that speak of magical cloud giant cities located among th
 *Hits:* 3 (1d4 + 1) piercing damage, and the target must succeed on a Fortitude Saving Throw DC 11 or be Slowed 1/1r due to progressive petrification. If subsequent bites cause the creature to have no more Actions, the creature is petrified for 24 hours.
 
 **Ecology**
-Environment: Temperate plains
-Organization: Solitary, pair, flight (3-5) or flock (6-12)
+
+| Environment: Temperate plains |
+| --- |
+| Organization: Solitary, pair, flight (3-5) or flock (6-12) |
+
 **Treasure Category**: D
 **Description**
 Stupid, malevolent, and repulsive, cockatrices are avoided by other creatures for their ability to turn flesh to stone. Males are distinguishable only by wattles and combs. A typical cockatrice is just over 60 centimeters tall and weighs 2.5 kg.
@@ -24895,10 +25203,10 @@ The cockatrice's strange ability to turn other creatures to stone is its best de
 
 ## Copper Dragon Wyrmling
 - **Size/Type**: Medium dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1}
+- **Ability**: Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 30 ft, climb 30 ft, fly 60 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +3, Deception +3, Perception +4
 - **Damage Imm.**: Acid
 - **Senses**: Darkvision 120 ft, Blindsight 60 ft
@@ -24916,8 +25224,11 @@ The cockatrice's strange ability to turn other creatures to stone is its best de
 *Slowing Breath.* The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 12 Fortitude Saving Throw. On a failed save, the creature has one less Action per round and its speed is halved. These effects last for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
 
 **Ecology**
-Environment: Warm Hills
-Organization: Solitary
+
+| Environment: Warm Hills |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
 This capricious dragon tries to hamper and frustrate its enemies during combat.
@@ -24926,10 +25237,10 @@ This capricious dragon tries to hamper and frustrate its enemies during combat.
 
 ## Couatl
 - **Size/Type**: Medium celestial, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 5 Con 3 Int 4 Wis 5 Cha 4}
+- **Ability**: Str 3 Dex 5 Con 3 Int 4 Wis 5 Cha 4
 - **Hit Points**: 89,  **Defense:** 22,  **Initiative:** +5
 - **Movement**: 9 m, flight 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +9, Will +9}
+- **Saving Throws**: Fortitude +7, Reflex +9, Will +9
 - **Damage Resistance**: Light
 - **Damage Immunity**: from non-magical weapons
 - **Senses**: truesight 36 m
@@ -24959,8 +25270,11 @@ At will: *Know Traits, Detect Magic, Detect Thoughts*
 In the new form, the couatl retains its game statistics and ability to speak, but its Defense, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (additional actions and lair actions) possessed by its new form but not by its original form. If the new form has a bite attack, the couatl can use its own bite in the new form.
 
 **Ecology**
-Environment: warm forests
-Organization: Solitary, pair or flight (3-6)
+
+| Environment: warm forests |
+| --- |
+| Organization: Solitary, pair or flight (3-6) |
+
 **Treasure Category**: I
 **Description**
 Respected and admired for their wisdom and beauty, they seek to lead mortals on the right path and use their powers to fight evil, especially those known for traveling between planes. A couatl is about 3.6 meters long, with a wingspan of about 5 meters and weighs 900 kg.
@@ -24969,10 +25283,10 @@ They prefer the same foods as true snakes, such as mammals and birds, though the
 
 ## Darklight
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 2 Int 0 Wis -1 Cha -2}
+- **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis -1 Cha -2
 - **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +1
 - **Movement**: 6 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +5, Will +3}
+- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
 - **Damage Res.**: from Void; from non-magical weapons or weapons that aren't silvered
 - **Damage Imm.**: Poison
 - **Condition Imm.**: fatigued, bleeding
@@ -24988,8 +25302,11 @@ They prefer the same foods as true snakes, such as mammals and birds, though the
 ***Hit*** 7 (1d6+3) bludgeoning damage, casts the Darkness spell on the hit target, duration until the Darklight is destroyed
 ***Cry of Sadness*** 6 meter cone. Affected creatures must make a DC 16 Will Saving Throw or fall into a sad despair that gives -2 to Attack Rolls, -2 to melee damage.
 **Ecology**
-Environment: Dungeons
-Organization: Solitary, group 2d4
+
+| Environment: Dungeons |
+| --- |
+| Organization: Solitary, group 2d4 |
+
 **Treasure Category**: Special
 **Description**
 A Darklight was once an adventurer, like you, who died in terror after the last torch went out. A Darklight is an undead, usually humanoid, with a vaguely undefined appearance, wielding a torch that emanates pure darkness. Its purpose is to kill new adventurers by engulfing them in eternal darkness.
@@ -25000,10 +25317,10 @@ When a Darklight is destroyed, it leaves its torch on the ground. This torch of 
 
 ## Darkmantle
 - **Size/Type**: Small monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 1 Int -4 Wis 0 Cha -3}
+- **Ability**: Str 3 Dex 1 Con 1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 3 m, fly 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +3
 - **Senses**: Blindsight 18 m
 - **Challenge**: 1/2 (100 XP)
@@ -25023,8 +25340,11 @@ A creature can detach the darkmantle with an Action and succeeding on a Fortitud
 ***Darkness Aura (1/Day).*** A magical darkness spreads from the darkmantle in a 5-meter radius, moving with it and spreading around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 
 **Ecology**
-Environment: Any (underground)
-Organization: Solitary, pair or clutch (3-12)
+
+| Environment: Any (underground) |
+| --- |
+| Organization: Solitary, pair or clutch (3-12) |
+
 **Treasure Category**: O
 **Description**
 A darkmantle's tentacle-lined maw has an opening just under 1 m wide; when it hangs from a cavern roof, disguised as a stalactite, its length ranges between 60 and 90 cm. A typical darkmantle specimen weighs 20 kg. The head and body of the creature are usually the color of basalt or dark granite, but its tentacled membrane can change color to match the surrounding environment.
@@ -25037,10 +25357,10 @@ While Darkmantle and Cloaker look similar, they don't belong to the same species
 
 ## Deep Gnome
 - **Size/Type**: Small humanoid (gnome), good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 2 Int 1 Wis 0 Cha -1}
+- **Ability**: Str 2 Dex 2 Con 2 Int 1 Wis 0 Cha -1
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 6 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +4, Awareness +2
 - **Senses**: Darkvision 36 m
 - **Languages**: Gnomish, Undercommon, Tremun
@@ -25065,18 +25385,21 @@ At will: *Nondetection* (self only)
 *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Fortitude Saving Throw or be poisoned, -1 Strength and Dexterity, for 1 minute. The target can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself with a success.
 
 **Ecology**
-Environment: Any underground
-Organization: Solitary, company (2-4), squad (5-20 plus 1 leader 3rd-6th and two sergeants of 3rd level), or band (30-50 plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, 3 captains of 7th level, and 2-5 Medium Earth Elementals)
+
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, company (2-4), squad (5-20 plus 1 leader 3rd-6th and two sergeants of 3rd level), or band (30-50 plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, 3 captains of 7th level, and 2-5 Medium Earth Elementals) |
+
 **Treasure Category**: NPC Equipment (Heavy Pick, Light Crossbow with 10 Bolts, M)
 **Description**
 Deep gnomes are a branch of the gnome race. They dwell underground in hidden cities, safe from dark elves and other subterranean races. Their skin is the color of rock, usually grey or brown. Males are bald and females have sparse grey hair.
 
 ## Demogorgon
 - **Size/Type**: Huge demon prince, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 9 Dex 2 Con 8 Int 5 Wis 3 Cha 7}
+- **Ability**: Str 9 Dex 2 Con 8 Int 5 Wis 3 Cha 7
 - **Hit Points**: 524,  **Defense:** 48,  **Initiative:** +5
 - **Movement**: 15 meters, swim 9m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +34, Reflex +28, Will +29
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +34, Reflex +28, Will +29
 - **Skills**: all +15
 - **Damage Resistance**: Cold, Lightning, Fire
 - **Damage Immunity**: from Void, Poison; +2 weapons
@@ -25127,18 +25450,21 @@ Demogorgon can take 3 additional actions, chosen from those below, one per round
 **Madness Gaze.** Demogorgon uses either the Powerful Gaze or the Gaze of Madness
 
 **Ecology**
-Environment: Abyss
-Organization: Unique
+
+| Environment: Abyss |
+| --- |
+| Organization: Unique |
+
 **Treasure**: R, S, T, V
 **Description**
 Demogorgon is a huge demon, prince of the abyss and madness about 5 meters tall. He appears as a reptilian biped with two baboon heads, the necks are long and serpentine like the tentacular arms. Demogorgon's two heads have distinct personalities that detest each other. They often try to dominate each other and many of the stories about Demogorgon deal precisely with how one or the other head tries to dominate the whole. There is a strong rivalry between Demogorgon and Orcus.
 
 ## Deva Angel
 - **Size/Type**: Medium celestial, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 4 Con 4 Int 3 Wis 5 Cha 5}
+- **Ability**: Str 4 Dex 4 Con 4 Int 3 Wis 5 Cha 5
 - **Hit Points**: 203,  **Defense:** 29,  **Initiative:** +4
 - **Movement**: 9 m, fly 27 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +14, Reflex +14, Will +15
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +14, Will +15
 - **Skills**: Sense Emotion +9
 - **Damage Res.**: Light; nonmagical weapons
 - **Immunities**: charmed, exhausted, frightened
@@ -25169,18 +25495,21 @@ At will: *Know Traits*
 In the new form, the deva retains its game statistics and ability to speak, but its Defense, movement methods, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (bonus actions and lair actions) possessed by its new form but not by its original form.
 
 **Ecology**
-Environment: Any plane with good Traits
-Organization: Solitary, pair, or squad (3-6)
+
+| Environment: Any plane with good Traits |
+| --- |
+| Organization: Solitary, pair, or squad (3-6) |
+
 **Treasure Category**: (Flaming Greatsword +1, other treasure)
 **Description**
 Deva movanics make up the ranks of the celestial armies' infantry, though they spend most of their time patrolling the Positive Plane, the Negative Plane, and the Material Plane. On the Positive Plane, they watch over wandering good souls. On the Negative Plane, they fight undead and other strange beings that hunt in the hungry void. Their rare times on the Material Plane are usually to bring aid to powerful mortals when a great danger threatens to plunge an entire realm into the hands of evil.
 
 ## Djinni
 - **Size/Type**: Large elemental, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 2 Con 6 Int 2 Wis 3 Cha 5}
+- **Ability**: Str 5 Dex 2 Con 6 Int 2 Wis 3 Cha 5
 - **Hit Points**: 226,  **Defense:** 28,  **Initiative:** +2
 - **Movement**: 9 m, fly 27 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +17, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +17, Reflex +13, Will +14
 - **Damage Imm.**: Electricity, Sound
 - **Senses**: Darkvision 36 m
 - **Languages**: Ictun
@@ -25209,8 +25538,11 @@ At will: *Know Traits, Detect Magic, Thunderwave*
 A creature can use an Action to free a creature restrained by the whirlwind, including itself, by succeeding on a Fortitude Saving Throw with Strength DC 22. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
 
 **Ecology**
-Environment: Any (Plane of Air)
-Organization: Solitary, pair, company (3-6), or band (7-10)
+
+| Environment: Any (Plane of Air) |
+| --- |
+| Organization: Solitary, pair, company (3-6), or band (7-10) |
+
 **Treasure Category**: Perfect Scimitar, U
 **Description**
 The Djinn (singular djinni) are Genies from the Elemental Plane of Air. They are said to be made of clouds and have the strength of the most powerful storms. A Djinni is about 3 meters tall and weighs about 500 kg.
@@ -25221,10 +25553,10 @@ Towards other Genies, Djinn get along with Janni and Marid. They are frequently 
 
 ## Dobi
 - **Size/Type**: Tiny fey, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex -1 Con 2 Int -2 Wis 1 Cha 3}
+- **Ability**: Str -3 Dex -1 Con 2 Int -2 Wis 1 Cha 3
 - **Hit Points**: 15,  **Defense:** 11,  **Initiative:** -1
 - **Movement**: 3 m, Swim 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Twilight Vision 18 m
 - **Languages**: understands Common, but doesn't speak it
 - **Damage Imm.**: to damage from non-magical weapons
@@ -25234,8 +25566,11 @@ Towards other Genies, Djinn get along with Janni and Marid. They are frequently 
 ***Dobi Dobi Dobi*** When the Dobi takes more than 3 hit points of damage with a non-bludgeoning weapon, it splits into two smaller Dobis, each with the same amount of Hit Points remaining as the previous Dobi.
 **Actions*Dobi Dobi*** the Dobi projects an aura of Calm Emotions like the spell of the same name but no Saving Throw is allowed. The Dobi can influence only one creature at a time with its power.
 **Ecology**
-Environment: Swamps
-Organization: group
+
+| Environment: Swamps |
+| --- |
+| Organization: group |
+
 **Treasure Category**: Incidental
 **Description**
 
@@ -25243,10 +25578,10 @@ From *Journey to the First World.* Novel by Federica Angeli
 
 ## Doppelganger
 - **Size/Type**: Medium monstrosity (shapechanger), neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 4 Con 2 Int 0 Wis 1 Cha 2}
+- **Ability**: Str 0 Dex 4 Con 2 Int 0 Wis 1 Cha 2
 - **Hit Points**: 70,  **Defense:** 20,  **Initiative:** +4
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +7, Will +4}
+- **Saving Throws**: Fortitude +5, Reflex +7, Will +4
 - **Skills**: Deception +6, Insight +3
 - **Immunities**: charmed
 - **Senses**: Darkvision 18 m
@@ -25268,8 +25603,11 @@ From *Journey to the First World.* Novel by Federica Angeli
 ***Read Thoughts.*** The doppelganger magically reads the surface thoughts of one creature within 18 meters of it. The effect can penetrate barriers, but 1 meter of wood or dirt, 50 centimeters of stone, 5 centimeters of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, provided the doppelganger's concentration isn't broken (as concentration on a spell). While reading a target's mind, the doppelganger has +1d6 to Wisdom and Charisma checks against the target.
 
 **Ecology**
-Environment: Any
-Organization: Solitary, pair or band (3-6)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair or band (3-6) |
+
 **Treasure Category**: NPC Equipment
 **Description**
 Doppelgangers are beings that can take the form of anyone they meet. In their natural form, they look like slim and fragile humanoids, with facial features not completely formed and pale complexion.
@@ -25277,8 +25615,6 @@ Doppelgangers are beings that can take the form of anyone they meet. In their na
 They prefer to infiltrate complex societies to accumulate wealth and power, using their mimetic ability to set ambushes and traps. Although not necessarily evil, they are selfish and see others as toys to manipulate.
 
 Some doppelgangers enjoy political games, while others constantly change race, gender, and romantic partners. They are known for their shapeshifting abilities and for avoiding capture. The most powerful can even assume the abilities and memories of the creatures they impersonate.
-
-\rule
 
 Dragons are fearsome, dangerous, ancient creatures; they represent power itself.
 
@@ -25301,6 +25637,7 @@ The Dragons of Ljust are transport errors, perhaps because Tàhil's portal opene
 **Table: Magic List Access for Dragons**
 
 	
+
 | **Color** | **List** |
 | --- | --- |
 | White | Water |
@@ -25315,6 +25652,7 @@ The Dragons of Ljust are transport errors, perhaps because Tàhil's portal opene
 | Silver | Transmutation |
 | Gold | Healing, Evocation |
 | Copper | Invocation |
+
 All Dragons have access to the Universal magic list and favor certain spells that are marked in their description.
 
 In the **Description of each Ancient Dragon** you will find a brief description of the type of dragon.
@@ -25336,18 +25674,19 @@ If it's a Wyrmling Dragon, it has 1 random power, 2 if it's Young or Adult, and 
 | 18 | Armored skin. The Dragon has damage reduction equal to CR/3 to S/P/B damage. |
 
 > Oh cursed ones may Lynx close all your portals |
-Oh assassins may Sumkjir exterminate you
-Oh devastators may Nedraf break your bones!
-(popular curses against Dragons)
 
-\rule
+| Oh assassins may Sumkjir exterminate you |
+| --- |
+| Oh devastators may Nedraf break your bones! |
+
+(popular curses against Dragons)
 
 ## Dragon Turtle
 - **Size/Type**: Gargantuan dragon, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 7 Dex 0 Con 5 Int 0 Wis 1 Cha 1}
+- **Ability**: Str 7 Dex 0 Con 5 Int 0 Wis 1 Cha 1
 - **Hit Points**: 338,  **Defense:** 34,  **Initiative:** +0
 - **Movement**: 6 m, swim 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +22, Reflex +17, Will +18
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +22, Reflex +17, Will +18
 - **Senses**: Darkvision 18 m
 - **Languages**: Aquan, Draconic
 - **Challenge**: 17 (18000 XP)
@@ -25374,8 +25713,11 @@ Oh devastators may Nedraf break your bones!
 ***Steam Breath (Recharge 5-6).*** The dragon turtle exhales hot steam in a 18-meter cone. Each creature in that area must make a DC 31 Fortitude Saving Throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't provide resistance against this damage.
 
 **Ecology**
-Environment: Temperate aquatic
-Organization: Solitary
+
+| Environment: Temperate aquatic |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: A
 **Description**
 Dragon turtles are creatures of fresh and salt waters, greatly feared by sailors. They are known to expect offerings in gold and magic from sailors for safe passage. Ignoring a dragon turtle can make it very dangerous.
@@ -25386,10 +25728,10 @@ They feed on large fish and seaweed, and don't disdain passengers from sunken sh
 
 ## Dretch
 - **Size/Type**: Small demon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 0 Con 1 Int -3 Wis -1 Cha -4}
+- **Ability**: Str 0 Dex 0 Con 1 Int -3 Wis -1 Cha -4
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
 - **Movement**: 6 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Resistance**: Cold, Lightning, Fire
 - **Damage Immunity**: Poison
 - **Vulnerability**: cold iron, Light
@@ -25412,8 +25754,11 @@ They feed on large fish and seaweed, and don't disdain passengers from sunken sh
 ***Fetid Cloud (1/Day).*** A disgusting green gas extends in a 3-meter radius from the demon. The gas spreads around corners and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a Fortitude Saving Throw DC 11 or be poisoned until the start of its next turn. While poisoned in this way, the target is Slowed 1 during its turn.
 
 **Ecology**
-Environment: Any (Abyss)
-Organization: Solitary, pair, gang (3-5), group (6-12) or mob (13+)
+
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary, pair, gang (3-5), group (6-12) or mob (13+) |
+
 **Treasure Category**: None
 **Description**
 Even the lowliest demon of the Abyss is dangerous and possesses the urgent need to spread ruin and dismay. The wretched dretch is as horrifying and fetid as it is cruel, though it lacks the strength and power to satisfy its craving to brutalize others in its native realm. The purpose of the dretch's existence is to serve more powerful demons as expendable victims, and only a lucky few manage to survive long enough to evolve.
@@ -25426,10 +25771,10 @@ A dretch is 1.2 meters tall and weighs 90 kg. Dretches usually form from the sou
 
 ## Drider
 - **Size/Type**: Large monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 3 Con 4 Int 1 Wis 2 Cha 1}
+- **Ability**: Str 3 Dex 3 Con 4 Int 1 Wis 2 Cha 1
 - **Hit Points**: 127,  **Defense:** 23,  **Initiative:** +3
 - **Movement**: 30 ft, climb 30 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +10, Reflex +9, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +10, Reflex +9, Will +8
 - **Skills**: Stealth +9, Perception +5
 - **Senses**: Darkvision 120 ft
 - **Languages**: Elvish, Undercommon
@@ -25466,19 +25811,25 @@ At will: *dancing lights*
 ***Enraged:*** The Drider collects its poisonous saliva and spits it on its weapons. Until the end of combat, the Longsword attack also deals 1d8 poison damage. Costs 1 Action.
 
 **Ecology**
-Environment: Any underground
-Organization: Solitary, pair, or group (3-8)
+
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, pair, or group (3-8) |
+
 **Treasure Category**: Perfect Flange Mace, Perfect Composite Longbow [Strength +2] with 20 Arrows, Y
 **Description**
-Created from the body of an elf, altered and mutated through special poisons and elixirs to take on the characteristics of a giant spider, the drider is a dangerous creature.
+
+| Created from the body of an elf, altered and mutated through special poisons and elixirs to take on the characteristics of a giant spider, the drider is a dangerous creature. |
+| --- |
+
 Driders are sexually dimorphic. The spider-like lower body of a female drider is sleek and graceful, often resembling the body of a black widow, while the upper elven torso maintains its appealing curves and beautiful face (with the exception of the venomous sharp fangs). The lower body of a male drider is stocky like a tarantula, while the upper body has a lean physique and supports a horrible face that is more spider than elf, complete with fanged mandibles.
 
 ## Dryad
 - **Size/Type**: Medium fey, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 1 Con 0 Int 2 Wis 2 Cha 4}
+- **Ability**: Str 0 Dex 1 Con 0 Int 2 Wis 2 Cha 4
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 30 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +5, Perception +4
 - **Senses**: Darkvision 60 ft
 - **Languages**: Elvish, Sylvan
@@ -25513,8 +25864,11 @@ If a target's Saving Throw is successful, the target is immune to the dryad's Fe
 The dryad can't have more than one humanoid and up to three beasts charmed at a time.
 
 **Ecology**
-Environment: Temperate Forests
-Organization: Solitary, pair, or grove (3-8)
+
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary, pair, or grove (3-8) |
+
 **Treasure Category**: Perfect Longbow with 20 Arrows, Dagger, D
 **Description**
 Dryads are nature spirits who love secluded woodlands away from humanoids in need of timber. The primary concern of dryads is their own survival and that of their beloved forests, and they are known to magically compel travelers to help with tasks that they cannot perform.
@@ -25523,10 +25877,10 @@ Dryads are benevolent guardians of trees, and although they aren't violent by na
 
 ## Duergar
 - **Size/Type**: Medium humanoid (dwarf), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 0 Con 2 Int 0 Wis 0 Cha -1}
+- **Ability**: Str 2 Dex 0 Con 2 Int 0 Wis 0 Cha -1
 - **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
 - **Movement**: 25 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Darkvision 120 ft
 - **Languages**: Dwarvish, Undercommon
 - **Challenge**: 1 (200 XP)
@@ -25548,18 +25902,21 @@ Dryads are benevolent guardians of trees, and although they aren't violent by na
 ***Invisibility (Recharges after a 1 hour).*** The Duergar magically turns invisible for up to 1 hour or until it attacks, casts a spell, uses Enlarge, or its concentration is broken. Any equipment the Duergar wears or carries becomes invisible with it.
 
 **Ecology**
-Environment: Any underground
-Organization: solitary, group (2-5), squad (6-12 plus 3 sergeants of 3rd level and 1 leader of 3rd-8th level), or clan (13-80 plus 25\% non-combatant children plus 1 sergeant of 3rd level per 5 adults, 3-6 lieutenants of 3rd-6th level, and 1-4 captains of 9th level)
+
+| Environment: Any underground |
+| --- |
+| Organization: solitary, group (2-5), squad (6-12 plus 3 sergeants of 3rd level and 1 leader of 3rd-8th level), or clan (13-80 plus 25\% non-combatant children plus 1 sergeant of 3rd level per 5 adults, 3-6 lieutenants of 3rd-6th level, and 1-4 captains of 9th level) |
+
 **Treasure Category**: NPC equipment (Chain Mail, Heavy Metal Shield, War Hammer, Light Crossbow with 20 Bolts, 3d6 gp)
 **Description**
 Distant relatives of Dwarves, darker and more misshapen, Duergar are creatures with a terrible temper who hate intruders in their underground realms, but never more than Dwarves. They live in communities deep underground. They have dull gray skin, as if dirty with dust or ash, but this natural tone allows them to blend better in underground areas. They are a Race of slavers, but while they force non-Dwarf prisoners to do grueling work, they kill captured Dwarves without remorse. In combat, Duergar fire crossbows, and then switch to War Hammers a few rounds later. If outnumbered, or if there is an adequate danger (and space), a Duergar will use its Enlarge ability and attack.
 
 ## Dust Mephit
 - **Size/Type**: Small elemental, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 2 Con 0 Int -1 Wis 0 Cha 0}
+- **Ability**: Str -3 Dex 2 Con 0 Int -1 Wis 0 Cha 0
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 9 m, fly 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +4, Awareness +2
 - **Damage Imm.**: Poison
 - **Senses**: Darkvision 18 m
@@ -25579,8 +25936,11 @@ Distant relatives of Dwarves, darker and more misshapen, Duergar are creatures w
 ***Blinding Breath (Recharge 6).*** The mephit exhales a 5-meter cone of blinding dust. Each creature in that area must succeed on a Reflex Saving Throw DC 11 or be blinded for 1 minute. A blinded creature can repeat the Saving Throw on each of its turns, ending the effect on itself on a success.
 
 **Ecology**
-Environment: Any (elemental plane of air)
-Organization: Solitary, pair, group (3-6) or swarm (7-12)
+
+| Environment: Any (elemental plane of air) |
+| --- |
+| Organization: Solitary, pair, group (3-6) or swarm (7-12) |
+
 **Treasure Category**: J
 **Description**
 Mephits are the servants of powerful elemental creatures. The key sites and locations of the elemental planes are filled with mephits bustling to perform an important duty or task.
@@ -25589,10 +25949,10 @@ Dust mephits are commonly found on the Plane of Air. These mephits are irritatin
 
 ## Efreeti
 - **Size/Type**: Large elemental, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 1 Con 7 Int 3 Wis 2 Cha 3}
+- **Ability**: Str 6 Dex 1 Con 7 Int 3 Wis 2 Cha 3
 - **Hit Points**: 228,  **Defense:** 27,  **Initiative:** +3
 - **Movement**: 12 m, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +18, Reflex +12, Will +13
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +18, Reflex +12, Will +13
 - **Damage Imm.**: Fire
 - **Senses**: Darkvision 36 m
 - **Languages**: Ignan
@@ -25621,8 +25981,11 @@ At will: *Detect Magic*
 **Reaction: *Opportunity Attack***: efreeti makes an attack against a creature that moves through or out of its 1-meter reach.
 
 **Ecology**
-Environment: Any (Plane of Fire)
-Organization: Solitary, pair, company (3-6), or band (7-12)
+
+| Environment: Any (Plane of Fire) |
+| --- |
+| Organization: Solitary, pair, company (3-6), or band (7-12) |
+
 **Treasure Category**: Perfect Glaive, U
 **Description**
 The Efreet (singular Efreeti) are Genies from the Plane of Fire. They are 3.6 meters tall and weigh about 1000 kg.
@@ -25631,10 +25994,10 @@ Efreet have few allies among other Genies: they hate Djinn and attack them on si
 
 ## Erinyes
 - **Size/Type**: Medium devil, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 3 Con 4 Int 2 Wis 2 Cha 4}
+- **Ability**: Str 4 Dex 3 Con 4 Int 2 Wis 2 Cha 4
 - **Hit Points**: 240,  **Defense:** 31,  **Initiative:** +3
 - **Movement**: 9 m, flight 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +16, Reflex +15, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +16, Reflex +15, Will +14
 - **Damage Res.**: Cold; from non-magical or non-silvered weapons
 - **Damage Imm.**: Fire, Poison
 - **Vulnerabilities**: silver, Light
@@ -25663,8 +26026,11 @@ Efreet have few allies among other Genies: they hate Djinn and attack them on si
 ***Enraged:*** The Erinyes channels its magical energy into an attack. The target of the attack is hit by an infernal flame that causes 12d6 Void damage. DC 25 Reflex Saving Throw to halve. Costs 2 Actions.
 
 **Ecology**
-Environment: Any (Hell)
-Organization: Solitary or trio
+
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary or trio |
+
 **Treasure Category**: Composite Flaming Longbow +1 [Strength +5], rope, Longsword +1
 **Description**
 The erinyes, also known as Fallen, Ashen Wings, and Furies, are devils that insult their angelic form with their thirst for vengeance and bloody justice. They hover over the cornices of Dis, the second circle of Hell, always ready for battle to defend hell or for the whims of their diabolic lords.
@@ -25675,10 +26041,10 @@ The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a 
 
 ## Ettercap
 - **Size/Type**: Medium monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 1 Int -2 Wis 1 Cha -2}
+- **Ability**: Str 2 Dex 2 Con 1 Int -2 Wis 1 Cha -2
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 30 ft, climb 30 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Skills**: Stealth +4, Perception +3, Survival +3
 - **Senses**: Darkvision 60 ft
 - **Challenge**: 2 (450 XP)
@@ -25704,20 +26070,26 @@ The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a 
 *Hit:* The creature is restrained by webbing. As an Action, the restrained creature can make a Strength Fortitude Saving Throw DC 11, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 Hit Points, vulnerability to fire damage, and immunity to bludgeoning and poison damage.
 
 **Ecology**
-Environment: Temperate Forests
-Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders)
+
+| Environment: Temperate Forests |
+| --- |
+| Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders) |
+
 **Treasure Category**: C
 **Description**
-Ettercaps are humanoids usually 6 feet tall and weighing about 200 pounds, with elongated arms reaching to the ground and a horrible face with spider-like features. They are solitary and rarely join others of their kind, except for mating. When they do group together, they tend to attract various species of spiders, forming a strange partnership of ettercaps and arachnids.
-Ettercaps are known for building cunning traps made of webs and other natural materials, which they use to catch prey. They build web shelters among the highest branches of trees away from other ground predators, and use monstrous spiders as sentries and guardians.
+
+| Ettercaps are humanoids usually 6 feet tall and weighing about 200 pounds, with elongated arms reaching to the ground and a horrible face with spider-like features. They are solitary and rarely join others of their kind, except for mating. When they do group together, they tend to attract various species of spiders, forming a strange partnership of ettercaps and arachnids. |
+| --- |
+| Ettercaps are known for building cunning traps made of webs and other natural materials, which they use to catch prey. They build web shelters among the highest branches of trees away from other ground predators, and use monstrous spiders as sentries and guardians. |
+
 Ettercaps are not brave, but their traps often prevent enemies from drawing weapons. An ettercap attacks with claws and poisonous bites. It typically avoids melee with opponents who can still move and flees if they break free.
 
 ## Ettin
 - **Size/Type**: Large giant, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex -1 Con 3 Int -2 Wis 0 Cha -1}
+- **Ability**: Str 5 Dex -1 Con 3 Int -2 Wis 0 Cha -1
 - **Hit Points**: 89,  **Defense:** 16,  **Initiative:** -1
 - **Movement**: 40 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +3, Will +4}
+- **Saving Throws**: Fortitude +7, Reflex +3, Will +4
 - **Skills**: Perception +4
 - **Senses**: tremorsense 60 ft
 - **Languages**: Giant, Goblin
@@ -25738,25 +26110,31 @@ Ettercaps are not brave, but their traps often prevent enemies from drawing weap
 *Hit:* 14 (2d8 + 5) piercing damage.
 
 **Ecology**
-Environment: Cold hills
-Organization: Solitary, pair, group (3-6), troop (1-2 plus 1-2 Brown Bears, band (3-6 plus 1-2 Brown Bears) or colony (3-6 plus 1-2 Brown Bears and 7-12 Orcs, or 9-16 Goblins)
+
+| Environment: Cold hills |
+| --- |
+| Organization: Solitary, pair, group (3-6), troop (1-2 plus 1-2 Brown Bears, band (3-6 plus 1-2 Brown Bears) or colony (3-6 plus 1-2 Brown Bears and 7-12 Orcs, or 9-16 Goblins) |
+
 **Treasure Category**: Leather Armor, 2 Light Flails, 4 Javelins, P
 **Description**
-Ettins, or two-headed giants, are malevolent and unpredictable nocturnal hunters. Their two heads grant them unparalleled powers of perception, making them excellent guardians.
-Ettins resemble Hill Giants or Stone Giants, but their tusked faces betray an orcish lineage. They have pinkish-brown skin and never wash unless forced to, which makes them so dirty and grimy that their skin appears thick and gray.
-Adults are 3.9 meters tall and weigh 2,600 kg. Ettins live about 75 years.
-Ettins have no language of their own but speak a mixed jargon of Giant, Goblin, and Orcish. Creatures that speak any of these languages can communicate with an ettin by making an Intelligence check with DC 15. The check is made once for each fragment of information; if the other creature speaks two of these languages, the DC is 10, while for someone who speaks all three, it is 5.
-Although ettins are not very intelligent, they are cunning warriors. They prefer to ambush their victims rather than engage them in combat, but once battle has begun, an ettin fights furiously until the enemy's death.
-Ettins are solitary creatures, settling in the safety of rocky caves and hollows, often surrounded by pits and ditches, and sometimes keeping cave bears as pets or guardians.
-A particularly powerful ettin may attract a group of followers, especially Goblins or Orcs. However, these gatherings are mostly exceptions, and rarely last long, with the individualistic ettins going their own way as soon as opportunities for looting and plundering diminish or if the leader is killed.
+
+| Ettins, or two-headed giants, are malevolent and unpredictable nocturnal hunters. Their two heads grant them unparalleled powers of perception, making them excellent guardians. |
+| --- |
+| Ettins resemble Hill Giants or Stone Giants, but their tusked faces betray an orcish lineage. They have pinkish-brown skin and never wash unless forced to, which makes them so dirty and grimy that their skin appears thick and gray. |
+| Adults are 3.9 meters tall and weigh 2,600 kg. Ettins live about 75 years. |
+| Ettins have no language of their own but speak a mixed jargon of Giant, Goblin, and Orcish. Creatures that speak any of these languages can communicate with an ettin by making an Intelligence check with DC 15. The check is made once for each fragment of information; if the other creature speaks two of these languages, the DC is 10, while for someone who speaks all three, it is 5. |
+| Although ettins are not very intelligent, they are cunning warriors. They prefer to ambush their victims rather than engage them in combat, but once battle has begun, an ettin fights furiously until the enemy's death. |
+| Ettins are solitary creatures, settling in the safety of rocky caves and hollows, often surrounded by pits and ditches, and sometimes keeping cave bears as pets or guardians. |
+| A particularly powerful ettin may attract a group of followers, especially Goblins or Orcs. However, these gatherings are mostly exceptions, and rarely last long, with the individualistic ettins going their own way as soon as opportunities for looting and plundering diminish or if the leader is killed. |
+
 They generally form reproductive pairs to raise offspring only for brief periods before each goes its own way. Young ettins mature rapidly, reaching adult size in one year, thus being able to fend for themselves.
 
 ## Explosive Roach
 - **Size/Type**: Small Elemental, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 2 Con 1 Int -5 Wis -1 Cha -2}
+- **Ability**: Str 1 Dex 2 Con 1 Int -5 Wis -1 Cha -2
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 4 m, jump 9 m, burrow 2 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Damage Res.**: bludgeoning
 - **Damage Imm.**: Fire
 - **Immunities**: exhausted, frightened
@@ -25780,8 +26158,11 @@ They generally form reproductive pairs to raise offspring only for brief periods
 ***Death:*** When the Explosive Roach dies, the gel inside explodes on contact with air all around, in a radius of 1 meter around the roach, the flames cause 12 (4d6) damage, Reflex saving throw DC 15 to halve.
 
 **Ecology**
-Environment: warm caves
-Organization: Solitary, nest (8-64)
+
+| Environment: warm caves |
+| --- |
+| Organization: Solitary, nest (8-64) |
+
 **Treasure Category**: Diamond 1d4x1d50gp
 **Description**
 Explosive Roaches are native creatures between the elemental plane of fire and earth. They are usually attracted to environments rich in flames, stone, or at least heat and earth.
@@ -25792,10 +26173,10 @@ In the nest where they dwell, there is at least one queen who commands the roach
 
 ## Fire Giant
 - **Size/Type**: Huge giant, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 7 Dex -1 Con 6 Int 0 Wis 2 Cha 1}
+- **Ability**: Str 7 Dex -1 Con 6 Int 0 Wis 2 Cha 1
 - **Hit Points**: 187,  **Defense:** 23,  **Initiative:** +0
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +15, Reflex +8, Will +11
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +8, Will +11
 - **Skills**: Athletics +11, Awareness +6
 - **Languages**: Giant
 - **Challenge**: 9 (5000 XP)
@@ -25817,8 +26198,11 @@ In the nest where they dwell, there is at least one queen who commands the roach
 ***Enraged:*** The fire giant channels its energy into the weapon, causing +2d6 fire damage until the end of combat.
 
 **Ecology**
-Environment: Hot Mountains
-Organization: Solitary, group (2-5), band (6-12 plus 35\% noncombatants and 1 adept or Devotee of 1st-2nd level), raiding party (6-12 plus 1 adept or wizard of 3rd-5th level, 2-5 Hell Hounds and 2-3 Trolls or Ettins) or tribe (20-30 plus 1 adept, wizard or Devotee of 6th-7th level; 1 Warrior or ranger king of 8th-9th level; and 17-38 Hell Hounds, 12-22 Trolls, 7-12 Ettins and 1-2 Young Red Dragons)
+
+| Environment: Hot Mountains |
+| --- |
+| Organization: Solitary, group (2-5), band (6-12 plus 35\% noncombatants and 1 adept or Devotee of 1st-2nd level), raiding party (6-12 plus 1 adept or wizard of 3rd-5th level, 2-5 Hell Hounds and 2-3 Trolls or Ettins) or tribe (20-30 plus 1 adept, wizard or Devotee of 6th-7th level; 1 Warrior or ranger king of 8th-9th level; and 17-38 Hell Hounds, 12-22 Trolls, 7-12 Ettins and 1-2 Young Red Dragons) |
+
 **Treasure Category**: Half Plate, Greatsword, P
 **Description**
 Fire giants are the most rigid and martial of giants, always ready for war and for treating brutally anyone they encounter. Their rigid command structure includes soldiers, officers, and even generals, with everyone obeying their king's orders without question.
@@ -25831,10 +26215,10 @@ Fire giants prefer warm places: the hotter the better. They can be found in dese
 
 ## Flameskull
 - **Size/Type**: Small undead, evil traits
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 1 Con 1 Int 1 Wis 0 Cha 0}
+- **Ability**: Str 0 Dex 1 Con 1 Int 1 Wis 0 Cha 0
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
 - **Movement**: fly 10 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Res.**: from Void
 - **Damage Imm.**: Fire, Poison, from non-magical weapons
 - **Condition Imm.**: charmed, paralyzed, fatigued, frightened, bleeding
@@ -25852,8 +26236,11 @@ At Will: *Produce Flame*
 ***Fire Expert.*** It costs 1 Action to cast the cantrip Produce Flame.
 
 **Ecology**
-Environment: Any
-Organization: Solitary, pair, patrol (2d4)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, patrol (2d4) |
+
 **Treasure Category**: none
 **Description**:
 Flameskulls are created from the corpses of spellcasters specialized in the Fire Magic List and necromancy.
@@ -25862,10 +26249,10 @@ Used as guardians and torches, they often represent a first line of defense in d
 
 ## Flesh Golem
 - **Size/Type**: Medium construct, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -3}
+- **Ability**: Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -3
 - **Hit Points**: 109,  **Defense:** 17,  **Initiative:** -1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +9, Reflex +4, Will +5}
+- **Saving Throws**: Fortitude +9, Reflex +4, Will +5
 - **Damage Imm.**: Electricity, Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: Darkvision 18 m
@@ -25897,8 +26284,11 @@ Used as guardians and torches, they often represent a first line of defense in d
 ***Enraged:*** the flesh golem overcharges itself. For 2d4 rounds it can take one additional Action of Movement or Attack. Costs 1 Action.
 
 **Ecology**
-Environment: Any
-Organization: Solitary or group (2-4)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary or group (2-4) |
+
 **Treasure Category**: None
 **Description**
 A flesh golem is a monstrous collection of humanoid body parts stolen and stitched together. Its cadaverous flesh has a pale green or yellowish tone. A flesh golem wears whatever clothing its creator desires, normally just a ragged pair of trousers. It has no Equipment or weapons. A flesh golem stands over 2.3 meters tall and weighs 250 kg.
@@ -25909,10 +26299,10 @@ Although many flesh golems are mindless, tales are told of exceptional golems th
 
 ## Flesh Worms
 - **Size/Type**: tiny monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 0 Con -2 Int -4 Wis 0 Cha -4}
+- **Ability**: Str -4 Dex 0 Con -2 Int -4 Wis 0 Cha -4
 - **Hit Points**: 32,  **Defense:** 13,  **Initiative:** +0
 - **Movement**: 1 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: tremorsense 3 m
 - **Challenge**: 1 (200 XP)
 
@@ -25923,18 +26313,21 @@ Although many flesh golems are mindless, tales are told of exceptional golems th
 ***Getting Rid of Flesh Worms.*** The only way is to use an open flame (a torch causes 1d6 damage per application or a spell like Heat Wave) on the part where the worms are burrowing. Each application of fire can eliminate 3d6 worms. A First Aid check at DC 15 removes 1d4 parasites but causes 1d4 damage in extraction. After 2d4 rounds, the worms are too deep and it's useless to apply fire; only a Cure Disease or Healing spell can completely eradicate the infestation.
 
 **Ecology**
-Environment: rotting trees, putrid flesh
-Organization: groups 3d6
+
+| Environment: rotting trees, putrid flesh |
+| --- |
+| Organization: groups 3d6 |
+
 **Treasure Category**: None
 **Description**
 Flesh worms are among the most feared parasites by adventurers. They are found in damp piles of leaves or rotting logs, in decomposing corpses, in turbid waters. Pale, slimy, equipped with very sharp teeth, just over 4 millimeters long, they penetrate exposed flesh very easily and perceive the heartbeat where they head. While they dig into the flesh, they can be perceived and even seen crawling under the skin.
 
 ## Flying Sword
 - **Size/Type**: Small construct, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 2 Con 0 Int -5 Wis -3 Cha -5}
+- **Ability**: Str 1 Dex 2 Con 0 Int -5 Wis -3 Cha -5
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 0 ft, fly 50 ft, Hover
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Imm.**: Poison
 - **Condition Imm.**: blinded, charmed, deafened, paralyzed, petrified, frightened
 - **Senses**: Blindsight 60 ft (blind beyond this radius)
@@ -25950,10 +26343,10 @@ Flesh worms are among the most feared parasites by adventurers. They are found i
 
 ## Frost Giant
 - **Size/Type**: Huge giant, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex -1 Con 5 Int -1 Wis 0 Cha 1}
+- **Ability**: Str 6 Dex -1 Con 5 Int -1 Wis 0 Cha 1
 - **Hit Points**: 167,  **Defense:** 21,  **Initiative:** -1
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +13, Reflex +7, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +7, Will +8
 - **Skills**: Athletics +9
 - **Languages**: Giant
 - **Challenge**: 8 (3900 XP)
@@ -25975,8 +26368,11 @@ Flesh worms are among the most feared parasites by adventurers. They are found i
 ***Enraged:*** The Frost Giant channels its energies through the weapon. The weapon causes an additional 2d6 cold damage until the end of combat.
 
 **Ecology**
-Environment: Cold Mountains
-Organization: Solitary, band (3-5), group (6-12 plus 35\% noncombatants and 1 wizard or Devotee of 1st-2nd level), raiding party (6-12 plus 35\% noncombatants, 1 Devotee or wizard of 3rd-5th level, 1-4 Winter Wolves and 2-3 Ogres) or tribe (21-30 plus 1 adept, wizard or Devotee of 6th-7th level; 1 Barbarian or ranger jarl 7th-9th level; and 15-36 Winter Wolves, 13-22 Ogres and 1-2 Young White Dragons)
+
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary, band (3-5), group (6-12 plus 35\% noncombatants and 1 wizard or Devotee of 1st-2nd level), raiding party (6-12 plus 35\% noncombatants, 1 Devotee or wizard of 3rd-5th level, 1-4 Winter Wolves and 2-3 Ogres) or tribe (21-30 plus 1 adept, wizard or Devotee of 6th-7th level; 1 Barbarian or ranger jarl 7th-9th level; and 15-36 Winter Wolves, 13-22 Ogres and 1-2 Young White Dragons) |
+
 **Treasure Category**: Chain Mail, Greataxe, R
 **Description**
 A frost giant has blue or dirty yellow hair, and eyes usually of the same color. They dress in furs and pelts, adorning themselves with whatever jewelry they may possess. Fighting frost giants also wear chain mail and metal helmets decorated with horns and feathers. An adult male stands 5 meters tall and weighs about 1,400 kg. Females are slightly shorter and slimmer, but otherwise identical to males. Frost giants can live up to 250 years.
@@ -25989,10 +26385,10 @@ Frost giants love taking prisoners and use them both as slaves and as raw materi
 
 ## G.C.B.
 - **Size/Type**: Large aberration, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 1 Con 5 Int 3 Wis 1 Cha -1}
+- **Ability**: Str 6 Dex 1 Con 5 Int 3 Wis 1 Cha -1
 - **Hit Points**: 205,  **Defense:** 26,  **Initiative:** +3
 - **Movement**: 9 m, burrow 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +15, Reflex +11, Will +11
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +11, Will +11
 - **Proficiencies**: Perception +10
 - **Senses**: Darkvision 18 m, tremorsense 18 m
 - **Challenge**: 10 (5900 XP)
@@ -26016,8 +26412,11 @@ Fighting without looking at the G.C.B. imposes -1d6 to Attack Roll.
 ***Enraged:*** the G.C.B. emits a cacophonic roar. Creatures within 6 meters of it must make a Will Saving Throw at DC 22 or be affected by Confusion for 2 rounds. Costs 2 Actions.
 
 **Ecology**
-Environment: Underground
-Organization: solitary, group (2-4)
+
+| Environment: Underground |
+| --- |
+| Organization: solitary, group (2-4) |
+
 **Treasure Category**: Incidental
 **Description**
 The Great Chitinous Being, or G.C.B, is an insect with a vague humanoid appearance almost 3 meters tall, powerful and equipped with two very strong and resistant claws capable of digging and severing any material. 4 small, central, multi-faceted eyes emit a faint, shifting luminescence that confounds creatures that cross their gaze.
@@ -26026,10 +26425,10 @@ Probably the result of some transformation spell gone wrong, G.C.B.s are masters
 
 ## Gablin
 - **Size/Type**: Small fiend, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 1 Int -2 Wis -1 Cha -2}
+- **Ability**: Str 2 Dex 1 Con 1 Int -2 Wis -1 Cha -2
 - **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Darkvision 18 m
 - **Languages**: understand Common but don't speak it, Abyssal
 - **Challenge**: 1/4 (50 XP)
@@ -26045,8 +26444,11 @@ Probably the result of some transformation spell gone wrong, G.C.B.s are masters
 *Hit:* 3 (1d1 + 2) piercing damage.
 
 **Ecology**
-Environment: Anywhere
-Organization: Group (8-12), war band (10-24) or tribe (50+, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 chief of 6th-8th level, 6-12 wild wolves and 1-4 Ogres or 1-2 Gablin Champions)
+
+| Environment: Anywhere |
+| --- |
+| Organization: Group (8-12), war band (10-24) or tribe (50+, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 chief of 6th-8th level, 6-12 wild wolves and 1-4 Ogres or 1-2 Gablin Champions) |
+
 **Treasure Category**: Incidental
 **Description**
 Gablins are the scum of the scum; it's said that a Gablin is born from every evil thought, and they are certainly very numerous.
@@ -26059,10 +26461,10 @@ Although individually not particularly formidable, Gablins always move in groups
 
 ## Gablin Champion
 - **Size/Type**: Medium fiend, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha -1}
+- **Ability**: Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha -1
 - **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +5, Will +3}
+- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Abyssal
 - **Challenge**: 3 (700 XP)
@@ -26074,8 +26476,11 @@ Although individually not particularly formidable, Gablins always move in groups
 ***Summon Gablin***: 3 Actions. The Gablin spills his blood on the ground and from this 2d4 Gablins arise, loses 1 Hit Point
 
 **Ecology**
-Environment: Any
-Organization: leading a group of Gablins
+
+| Environment: Any |
+| --- |
+| Organization: leading a group of Gablins |
+
 **Treasure Category**: Leather Armor, Heavy Club, B
 **Description**
 Gablin Champions are spontaneously generated when the number of Gablins present reaches 20 units. Enormously larger, stronger, and more intelligent than a Gablin, the Champions are the leaders of the group, those who plan battles and confrontations.
@@ -26083,10 +26488,10 @@ They have no qualms about sending Gablins to slaughter or killing anything that 
 
 ## Gablin Paladin
 - **Size/Type**: Large fiend, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 2 Con 3 Int 2 Wis 3 Cha 3}
+- **Ability**: Str 5 Dex 2 Con 3 Int 2 Wis 3 Cha 3
 - **Hit Points**: 126,  **Defense:** 22,  **Initiative:** +2
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +9, Reflex +8, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +9, Reflex +8, Will +9
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Abyssal
 - **Challenge**: 6 (2300 XP)
@@ -26104,18 +26509,21 @@ They have no qualms about sending Gablins to slaughter or killing anything that 
 **Unholy Aura**: the Gablin Paladin emanates an aura with a 6-meter radius around him that grants +2 to Attack Roll and Damage to all other Gablins and imposes -2 to Attack Roll and Saving Throws to other creatures not Devotees or Followers of Cattalm.
 
 **Ecology**
-Environment: Any
-Organization: leading an army of Gablins
+
+| Environment: Any |
+| --- |
+| Organization: leading an army of Gablins |
+
 **Treasure Category**: Field Plate, Bastard Sword +1, S
 **Description**
 Gablin Paladins are among the most powerful gablins known, the true elect of Cattalm. Summoned by more powerful followers of Cattalm, they can alone lead hundreds of Gablins and, thanks to their acumen, prepare accurate plans and bring havoc and destruction to entire regions.
 
 ## Gargoyle
 - **Size/Type**: Medium elemental, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 0 Con 3 Int -2 Wis 0 Cha -2}
+- **Ability**: Str 2 Dex 0 Con 3 Int -2 Wis 0 Cha -2
 - **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
 - **Movement**: 9 m, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Damage Res.**: Poison, from non-magical weapons or that aren't adamantine
 - **Immunities**: petrified, fatigued
 - **Senses**: Darkvision 18 m
@@ -26139,8 +26547,11 @@ Gablin Paladins are among the most powerful gablins known, the true elect of Cat
 **Reaction: *Opportunity Attack***: the gargoyle attacks if it is flying and a creature exits or moves through its 1 m reach.
 
 **Ecology**
-Environment: Any
-Organization: Solitary, pair, or wing (3-12)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, or wing (3-12) |
+
 **Treasure Category**: Q
 **Description**
 Gargoyles often appear to be winged stone statues, as they can remain motionless indefinitely to then surprise enemies. Gargoyles tend to have obsessive-compulsive behaviors, as diverse as their species is abundant. Books, stolen trinkets, weapons, and trophies collected from fallen enemies are just a few examples of the types of objects a gargoyle might collect to decorate its lair and territory.
@@ -26155,10 +26566,10 @@ An unusual variant of the gargoyle does not dwell among buildings and ruins but 
 
 ## Gelatinous Cube
 - **Size/Type**: Large ooze, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex -4 Con 5 Int -5 Wis -2 Cha -5}
+- **Ability**: Str 2 Dex -4 Con 5 Int -5 Wis -2 Cha -5
 - **Hit Points**: 53,  **Defense:** 10,  **Initiative:** -4
 - **Movement**: 15 feet
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +7, Reflex +3, Will +3
 - **Damage Imm.**: non-magical slashing weapons, damage from
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
 - **Senses**: Blindsight 60 ft (blind beyond this radius)
@@ -26189,8 +26600,11 @@ If the Saving Throw fails, the cube enters the creature's space, the creature ta
 An engulfed creature can try to escape by taking an Action to make a Fortitude Saving Throw with Strength DC 14. If it succeeds, the creature escapes and enters a space of its choice within 5 feet of the cube.
 
 **Ecology**
-Environment: Any underground
-Organization: Solitary
+
+| Environment: Any underground |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: Incidental
 **Description**
 Among the most unusual and peculiar dungeon predators, gelatinous cubes spend their existence wandering aimlessly through underground tunnels and dark caverns, engulfing organic materials such as plants, refuse, carrion, and even living creatures. Matter that the cube cannot digest, such as metals and stone, fills the creature's volume with debris, and sometimes it can expel some of it from its body. Often, the treasure and belongings of past victims remain inside the gelatinous cube: a spectral image of their material remains.
@@ -26285,10 +26699,10 @@ The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the
 
 ## Ghast
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 3 Con 0 Int 0 Wis 0 Cha -1}
+- **Ability**: Str 3 Dex 3 Con 0 Int 0 Wis 0 Cha -1
 - **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +5, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +5, Will +3
 - **Damage Res.**: from Void
 - **Damage Imm.**: Poison
 - **Immunities**: charmed, fatigued
@@ -26313,18 +26727,21 @@ The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the
 *Hit:* 14 (3d6 + 3) piercing damage, the ghast regains half the damage in Hit Points.
 
 **Ecology**
-Environment: Any terrain
-Organization: Solitary, group (2-4) or pack (7-12)
+
+| Environment: Any terrain |
+| --- |
+| Organization: Solitary, group (2-4) or pack (7-12) |
+
 **Treasure Category**: B
 **Description**
 Ghasts are Ghouls with a deeper connection to the Void. A ghast's paralysis affects Elves as well. Ghasts roam in packs or command groups of common Ghouls. The stench of death and decay that surrounds these creatures is overwhelming.
 
 ## Ghost
 - **Size/Type**: Medium undead, any trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 1 Con 0 Int 0 Wis 1 Cha 3}
+- **Ability**: Str -2 Dex 1 Con 0 Int 0 Wis 1 Cha 3
 - **Hit Points**: 87,  **Defense:** 18,  **Initiative:** +1
 - **Movement**: 0 m, fly 12 m, Float
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +5, Will +5}
+- **Saving Throws**: Fortitude +4, Reflex +5, Will +5
 - **Damage Res.**: Acid, Electricity, Fire, Sound, Poison; from non-magical weapons
 - **Immunities**: charmed, grappled, restrained, paralyzed, petrified, prone, fatigued, frightened, bleeding
 - **Senses**: Darkvision 18 m
@@ -26350,8 +26767,11 @@ The possession lasts until the body drops to 0 Hit Points, the ghost ends it as 
 ***Horrifying Visage.*** Each non-undead creature within 18 meters of the ghost that can see it must succeed on a Will Saving Throw DC 15 or be frightened for 1 minute. If the Saving Throw fails by 5 or more, the target also ages by 1d4 x 10 years. A frightened target can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself on a success. If a target's Saving Throw is successful and the effect ends for it, the target is immune to the ghost's Horrifying Visage for the next 24 hours. Through the Greater Restoration spell, 1 year of aging can be recovered, but only if cast within 24 hours of the aging effect.
 
 **Ecology**
-Environment: any
-Organization: solitary
+
+| Environment: any |
+| --- |
+| Organization: solitary |
+
 **Treasure Category**: None
 **Description**
 When a soul is denied rest due to some grave injustice, real or perceived, it sometimes returns as a ghost. These beings are eternally distressed, without substance and unable to set things right. Although ghosts can have any Trait, many cling to the world of the living with a strong sense of hatred and anger, and as a result become evil; even a good creature after death can become a hateful and cruel ghost.
@@ -26364,10 +26784,10 @@ The original objects are left behind, just like the ghost's physical remains. If
 
 ## Ghoul
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 2 Con 0 Int -2 Wis 0 Cha -2}
+- **Ability**: Str 1 Dex 2 Con 0 Int -2 Wis 0 Cha -2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +3, Reflex +3, Will +3
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +3, Reflex +3, Will +3
 - **Damage Imm.**: Poison
 - **Immunities**: charmed, fatigued
 - **Senses**: Darkvision 18 m
@@ -26383,8 +26803,11 @@ The original objects are left behind, just like the ghost's physical remains. If
 *Hit:* 9 (2d6 + 2) piercing damage.
 
 **Ecology**
-Environment: Any terrain
-Organization: Solitary, group (2-4) or pack (7-12)
+
+| Environment: Any terrain |
+| --- |
+| Organization: Solitary, group (2-4) or pack (7-12) |
+
 **Treasure Category**: K
 **Description**
 Ghouls are undead that haunt graveyards and eat corpses. Legends claim that the first ghouls were cannibalistic humans brought back from death by an unnatural hunger, or humans who in life fed on the rotting remains of their kin and died (and then were reborn) from a terrible disease; the true origin of these necrophagous undead is uncertain.
@@ -26395,10 +26818,10 @@ Although many surface ghouls live primitively, rumors speak of ghoul cities deep
 
 ## Ghoul, Black
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 2 Int 0 Wis 1 Cha -2}
+- **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 1 Cha -2
 - **Hit Points**: 125,  **Defense:** 22,  **Initiative:** +2
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +8, Reflex +8, Will +7}
+- **Saving Throws**: Fortitude +8, Reflex +8, Will +7
 - **Damage Imm.**: Poison, from Void, from critical, bleeding,
 - **Immunities**: charmed, fatigued,
 - **Damage Res.**: non-magical weapons or silver
@@ -26421,18 +26844,21 @@ Although many surface ghouls live primitively, rumors speak of ghoul cities deep
 *Ghoul Disease:* 3 days, Fortitude ST DC 18, 6 hours, 3 successes, -1 Constitution, you transform into a Ghoul
 
 **Ecology**
-Environment: Any terrain
-Organization: Group (4-8) or pack (14-24)
+
+| Environment: Any terrain |
+| --- |
+| Organization: Group (4-8) or pack (14-24) |
+
 **Treasure Category**: B
 **Description**
 The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typically in charge of a group of at least one putrid ghoul of about 18 ghouls.
 
 ## Ghoul, Mother
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 3 Con 2 Int 2 Wis 1 Cha 2}
+- **Ability**: Str 0 Dex 3 Con 2 Int 2 Wis 1 Cha 2
 - **Hit Points**: 107,  **Defense:** 21,  **Initiative:** +3
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +8, Will +6}
+- **Saving Throws**: Fortitude +7, Reflex +8, Will +6
 - **Damage Imm.**: Poison, Void, from critical, bleeding
 - **Immunities**: charmed, fatigued
 - **Damage Res.**: non-magical weapons
@@ -26449,18 +26875,21 @@ The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typica
 *Hit:* 8 (2d6 + 2) piercing damage.
 
 **Ecology**
-Environment: Any terrain
-Organization: Clan (7-12+)
+
+| Environment: Any terrain |
+| --- |
+| Organization: Clan (7-12+) |
+
 **Treasure Category**: I
 **Description**
 The Mother Ghoul is usually the head of a clan of ghouls that can reach even several dozen members. Respected and feared, she is usually among the most intelligent evolved ghouls and highly appreciated for her ability to transform the living into ghouls. Their tactic involves wounding rather than killing several people so that when they return home and then transform, they can attack and kill the entire village.
 
 ## Ghoul, Putrid
 - **Size/Type**: Large undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 2 Con 3 Int -1 Wis 0 Cha -2}
+- **Ability**: Str 1 Dex 2 Con 3 Int -1 Wis 0 Cha -2
 - **Hit Points**: 89,  **Defense:** 19,  **Initiative:** +2
 - **Movement**: 6 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +6, Will +4}
+- **Saving Throws**: Fortitude +7, Reflex +6, Will +4
 - **Damage Imm.**: Poison, bleeding, from critical, from Void
 - **Immunities**: charmed, fatigued
 - **Damage Res.**: non-magical weapons or silver
@@ -26483,18 +26912,21 @@ The Mother Ghoul is usually the head of a clan of ghouls that can reach even sev
 ***Aura of Suffering.***: The Putrid Ghoul emits an aura of 6 meters around him, every ghoul attack that hits automatically causes critical damage. Activating this aura costs 2 Actions and lasts until the beginning of the next round.
 
 **Ecology**
-Environment: Any terrain
-Organization: Group (4-8) or pack (10-18)
+
+| Environment: Any terrain |
+| --- |
+| Organization: Group (4-8) or pack (10-18) |
+
 **Treasure Category**: None
 **Description**
 Putrid Ghouls are one of the many evolutions of Ghouls. Continuous contact with negative energy and feeding on corpses of all kinds for centuries have made it larger, stronger and capable of inflicting and causing the most dangerous wounds.
 
 ## Gibbering Mouther
 - **Size/Type**: Medium aberration, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex -1 Con 3 Int -4 Wis 0 Cha -2}
+- **Ability**: Str 0 Dex -1 Con 3 Int -4 Wis 0 Cha -2
 - **Hit Points**: 52,  **Defense:** 13,  **Initiative:** -1
 - **Movement**: 3 m, swim 3 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Immunities**: prone
 - **Senses**: Darkvision 18 m
 - **Challenge**: 2 (450 XP)
@@ -26514,18 +26946,21 @@ Putrid Ghouls are one of the many evolutions of Ghouls. Continuous contact with 
 **Reaction: *Opportunistic Spittle*** when hit with critical damage, the mouther spits an acid glob at the creature that wounded it, causing 2d6 acid damage.
 
 **Ecology**
-Environment: Any Underground
-Organization: Solitary
+
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: incidental (O)
 **Description**
 Disgusting, nauseating, and hungry: these are the only words that appropriately describe the gibbering mouther. Repulsive beasts that hide in caves, sewers, and nightmares, mouthers have no other social, ecological, or religious purpose beyond their ability to drive those who listen to them mad. Some scholars believe that gibbering mouthers are a smaller variant of the much more dangerous shoggoth, while others theorize that it is a punishment of Orudjs inflicted on those who have offended her.
 
 ## Glabrezu
 - **Size/Type**: Large demon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 2 Con 5 Int 4 Wis 3 Cha 3}
+- **Ability**: Str 5 Dex 2 Con 5 Int 4 Wis 3 Cha 3
 - **Hit Points**: 186,  **Defense:** 26,  **Initiative:** +4
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +14, Reflex +11, Will +12
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +11, Will +12
 - **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
 - **Damage Immunity**: Poison
 - **Vulnerability**: cold iron, Light
@@ -26556,7 +26991,10 @@ At will: *Dispel Magic, Detect Magic, Darkness*
 ***Enraged:*** the glabrezu creates a duplicate of itself from the shadow plane. This duplicate has the same characteristics as the glabrezu but does not attack. When attacking the glabrezu, there is a 50\% chance of attacking the shadow duplicate.
 
 **Ecology**
-Environment: Any (Abyss)
+
+| Environment: Any (Abyss) |
+| --- |
+
 Organization: Solitary or troop (1 glabrezu, 1 Succubus and 2-5 Vrock)
 **Treasure Category**: U
 **Description**
@@ -26566,10 +27004,10 @@ A glabrezu is 5.3 meters tall and weighs just over 3000 kg. These wicked demons 
 
 ## Globule
 - **Size/Type**: Small aberration, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 2 Con 0 Int 3 Wis 1 Cha 3}
+- **Ability**: Str -2 Dex 2 Con 0 Int 3 Wis 1 Cha 3
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +3
 - **Movement**: fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Imm.**: from Void, Cold, Poison
 - **Immunities**: prone
 - **Senses**: Darkvision 36 m
@@ -26589,8 +27027,11 @@ A glabrezu is 5.3 meters tall and weighs just over 3000 kg. These wicked demons 
 ***Glow*** once per day the Globule becomes extremely bright, creatures within a 6 meter radius around it must make a Fortitude Saving Throw at DC 13 or become blinded for 3 rounds.
 
 **Ecology**
-Environment: Any, desert, nocturnal
-Organization: Solitary, groups 2d4
+
+| Environment: Any, desert, nocturnal |
+| --- |
+| Organization: Solitary, groups 2d4 |
+
 **Treasure Category**: None
 **Description**
 Globules are magical aberrations coming from some portal opened to the Beyond. Creatures of cold and void, they look like small stars that only yearn to suck the life out of creatures they encounter.
@@ -26598,10 +27039,10 @@ Intelligent and clever, they prefer to attack while staying airborne and wearing
 
 ## Gnoll
 - **Size/Type**: Medium humanoid (gnoll), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 0 Int -2 Wis 0 Cha -2}
+- **Ability**: Str 2 Dex 1 Con 0 Int -2 Wis 0 Cha -2
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Darkvision 18 m
 - **Languages**: Gnoll
 - **Challenge**: 1/2 (100 XP)
@@ -26625,8 +27066,11 @@ Intelligent and clever, they prefer to attack while staying airborne and wearing
 ***Mocking laughter.*** The gnoll laughs raucously at an opponent. The target creature must make a DC 13 Will Saving Throw or be intimidated and have -1 to Attack Rolls until the end of the gnoll's next round
 
 **Ecology**
-Environment: Warm plains, deserts
-Organization: Solitary, pair, hunting party (2-5 and 1-2 Hyenas), band (10-100 adults plus 50\% noncombatant young, 1 sergeant of 3rd level per 20 adults, 1 leader of 4th-6th level and 5-8 Hyenas) or tribe (20-200 plus 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 7-12 Hyenas and 4-7 hyaenodons)
+
+| Environment: Warm plains, deserts |
+| --- |
+| Organization: Solitary, pair, hunting party (2-5 and 1-2 Hyenas), band (10-100 adults plus 50\% noncombatant young, 1 sergeant of 3rd level per 20 adults, 1 leader of 4th-6th level and 5-8 Hyenas) or tribe (20-200 plus 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 7-12 Hyenas and 4-7 hyaenodons) |
+
 **Treasure Category**: NPC equipment (Leather Armor, Heavy Wooden Shield, Spear, K)
 **Description**
 Gnolls are large, stocky humanoids that resemble hyenas not only in appearance but also in behavior. They often keep hyenas as companion animals and reflect many of their behaviors. Though skilled hunters, they prefer to steal or scavenge carcasses rather than hunt prey.
@@ -26641,10 +27085,10 @@ Gnoll leaders have ranger skills, and some are devoted to voracious Patrons. The
 
 ## Goblin
 - **Size/Type**: Small humanoid (goblinoid), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 0 Con 1 Int -1 Wis -2 Cha -1}
+- **Ability**: Str 0 Dex 0 Con 1 Int -1 Wis -2 Cha -1
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Goblin
 - **Challenge**: 1/4 (50 XP)
@@ -26658,8 +27102,11 @@ Gnoll leaders have ranger skills, and some are devoted to voracious Patrons. The
 *Hit:* 3 (1d6) piercing damage.
 
 **Ecology**
-Environment: Any Temperate
-Organization: Group (4-9), war band (10-24) or tribe (50+ plus 50\% noncombatants
+
+| Environment: Any Temperate |
+| --- |
+| Organization: Group (4-9), war band (10-24) or tribe (50+ plus 50\% noncombatants |
+
 **Treasure Category**: K
 **Description**
 Goblins are wild, unpredictable, and noisy.
@@ -26671,10 +27118,10 @@ Goblins are voracious and can eat enormous amounts of food. A goblin won't refus
 
 ## Gold Dragon Wyrmling
 - **Size/Type**: Medium dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 3 Int 2 Wis 0 Cha 3}
+- **Ability**: Str 4 Dex 2 Con 3 Int 2 Wis 0 Cha 3
 - **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
 - **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +5, Will +3}
+- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
 - **Skills**: Stealth +4, Awareness +4
 - **Dmg. Imm.**: Fire
 - **Senses**: Darkvision 18 m, Blindsight 3 m
@@ -26694,18 +27141,21 @@ Goblins are voracious and can eat enormous amounts of food. A goblin won't refus
 *Weakening Breath.* The dragon exhales gas in a 5-meter cone. Each creature in that area must succeed on a DC 15 Fortitude Saving Throw or have -1d6 on Strength-based attack rolls, Strength checks, and Fortitude Saving Throws for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 **Ecology**
-Environment: Warm Plains
-Organization: Solitary
+
+| Environment: Warm Plains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
 Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid.
 
 ## Gorgon
 - **Size/Type**: Large monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 0 Con 4 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 5 Dex 0 Con 4 Int -4 Wis 1 Cha -2
 - **Hit Points**: 109,  **Defense:** 18,  **Initiative:** +0
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +9, Reflex +5, Will +6}
+- **Saving Throws**: Fortitude +9, Reflex +5, Will +6
 - **Skills**: Awareness +4
 - **Immunities**: Petrified
 - **Senses**: Darkvision 18 m
@@ -26726,8 +27176,11 @@ Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as ag
 ***Enraged:*** the Gorgon concentrates a powerful petrifying breath. Costs 2 actions. A creature within melee distance must make a Fortitude Saving Throw at DC 16 or be turned to stone for 24 hours.
 
 **Ecology**
-Environment: Temperate Plains, Rocky Hills, and Underground
-Organization: Solitary, pair, pack (3-4) or herd (5-12)
+
+| Environment: Temperate Plains, Rocky Hills, and Underground |
+| --- |
+| Organization: Solitary, pair, pack (3-4) or herd (5-12) |
+
 **Treasure Category**: None
 **Description**
 Gorgons are magical and irascible creatures: although at first glance they may appear to be constructs, under the artificial-looking metal plates they are made of flesh and bone. Like aggressive bulls, they challenge any unknown creature they encounter, often running over their opponent's corpse or shattering their petrified remains until the creature is no longer recognizable. Females are as dangerous as males, and the two sexes have identical appearance. A typical gorgon is 1.8 meters tall and 2.3 meters long. It weighs about 2000 kg.
@@ -26738,10 +27191,10 @@ Their meat is tough and muscular (once the armor is removed), and for those who 
 
 ## Gray Ooze
 - **Size/Type**: Medium ooze, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex -2 Con 3 Int -5 Wis -2 Cha -4}
+- **Ability**: Str 1 Dex -2 Con 3 Int -5 Wis -2 Cha -4
 - **Hit Points**: 24,  **Defense:** 10,  **Initiative:** -2
 - **Movement**: 10 ft, climb 10 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Res.**: Acid, Cold, Fire
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
 - **Senses**: Blindsight 60 ft (blind beyond this radius)
@@ -26762,8 +27215,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 *Hit:* 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage. If the target is wearing metal armor, it is partially dissolved and takes a permanent and cumulative -1 penalty to the Defense it offers. The armor is destroyed if the penalty reduces its Defense to 0.
 
 **Ecology**
-Environment: Cold swamps and underground
-Organization: Solitary
+
+| Environment: Cold swamps and underground |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: None
 **Description**
 Crawling through cold swamps and misty wetlands or, sometimes, in underground passages and caverns, gray oozes consume any organic material they encounter. Although lacking intelligence, the gray ooze presents numerous problems due to its transparency. Even though it cannot easily climb walls or swim, its habit of hiding in mud often along marshy shores or remaining motionless in innocent-looking puddles on the gray floor of a dungeon, makes it very difficult to notice and avoid.
@@ -26772,10 +27228,10 @@ Some sages believe that gray oozes are the result of a failed alchemical experim
 
 ## Green Dragon Wyrmling
 - **Size/Type**: Medium dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1}
+- **Ability**: Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +2
 - **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +3, Awareness +4
 - **Damage Imm.**: Poison
 - **Senses**: Darkvision 18 m, Blindsight 3 m
@@ -26791,20 +27247,21 @@ Some sages believe that gray oozes are the result of a failed alchemical experim
 ***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 5-meter cone. Each creature in that area must make a DC 13 Fortitude Saving Throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
 **Ecology**
-Environment: Temperate Forests
-Organization: Solitary
+
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
 See Ancient Green Dragon Description.
 
-\rule
-
 ## Green Hag
 - **Size/Type**: Medium fey, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 1 Con 3 Int 1 Wis 2 Cha 2}
+- **Ability**: Str 4 Dex 1 Con 3 Int 1 Wis 2 Cha 2
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
 - **Movement**: 30 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +4, Will +5}
+- **Saving Throws**: Fortitude +6, Reflex +4, Will +5
 - **Skills**: Arcana +3, Stealth +3, Deception +4
 - **Senses**: Darkvision 60 ft
 - **Languages**: Common, Draconic, Sylvan
@@ -26829,18 +27286,21 @@ The changes created by this effect fail to hold up to physical inspection. For e
 ***Invisible Passage.*** The hag can turn invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical trace of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
 
 **Ecology**
-Environment: Temperate swamps
-Organization: Solitary or coven (3 hags of any type)
+
+| Environment: Temperate swamps |
+| --- |
+| Organization: Solitary or coven (3 hags of any type) |
+
 **Treasure Category**: R (C)
 **Description**
 Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 feet tall and weighs just under 175 pounds.
 
 ## Grick
 - **Size/Type**: Medium monstrosity, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -3}
+- **Ability**: Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -3
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 9 m, climb 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +4}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +4
 - **Senses**: Darkvision 18 m
 - **Challenge**: 2 (450 XP)
 
@@ -26857,8 +27317,11 @@ Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green
 *Hit:* 5 (1d6 + 2) piercing damage.
 
 **Ecology**:
-Environment: Any Underground
-Organization: Solitary or cluster (2-5)
+
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary or cluster (2-5) |
+
 **Treasure Category**: Incidental
 **Description**
 The grick, a worm-like creature, is the terror of the caves and tunnels in which it resides. Lurking near trafficked tunnels or underground cities, it springs out of the darkness to capture its prey. It usually does not consume prey on the spot but carries them to its lair, a narrow tunnel or a ledge in a cave, where it can eat them peacefully.
@@ -26871,10 +27334,10 @@ Gricks camouflage themselves thanks to their dark color and their ability to cli
 
 ## Griffin
 - **Size/Type**: Large monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 3 Int -3 Wis 1 Cha 0}
+- **Ability**: Str 4 Dex 2 Con 3 Int -3 Wis 1 Cha 0
 - **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 9 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
 - **Skills**: Awareness +5
 - **Senses**: Darkvision 18 m
 - **Challenge**: 2 (450 XP)
@@ -26894,8 +27357,11 @@ Gricks camouflage themselves thanks to their dark color and their ability to cli
 **Reaction: *Opportunity Attack***: the griffin attacks if it is flying and a creature exits or moves through its 3 m reach.
 
 **Ecology**
-Environment: Temperate Hills
-Organization: Solitary, pair, or pack (6-10)
+
+| Environment: Temperate Hills |
+| --- |
+| Organization: Solitary, pair, or pack (6-10) |
+
 **Treasure Category**: Incidental
 **Description**
 Griffins are powerful aerial predators that swoop down from their nests to grab prey with beak and talons. Aggressive and territorial, they are astute fighters and loyal to those who earn their respect, protecting them to the death. They weigh over 250 kg and are 2.3 meters long, with an imposing profile often used in heraldry as a symbol of power, authority, and justice. Despite this, they are more interested in hunting and defending themselves.
@@ -26910,10 +27376,10 @@ Griffins can carry up to 25 Encuber as a light load, 50 as a medium load, and 70
 
 ## Grimlock
 - **Size/Type**: Medium humanoid (grimlock), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 1 Int -1 Wis -1 Cha -2}
+- **Ability**: Str 3 Dex 1 Con 1 Int -1 Wis -1 Cha -2
 - **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Athletics +5, Stealth +3, Awareness +3
 - **Immunities**: blinded
 - **Senses**: Blindsight 9 m or 3 m if deafened (blind beyond this radius)
@@ -26935,16 +27401,19 @@ Griffins can carry up to 25 Encuber as a light load, 50 as a medium load, and 70
 *Hit:* 5 (1d8 + 1) piercing damage.
 
 **Ecology**
-Grimlocks inhabit the abandoned settlements of other Races and are often found as slaves of other more organized creatures, such as dwarves and Elves. It is believed that they are an even more degenerate offshoot of the Morlocks, who travel from Sekamina to hunt Grimlocks for food and consider their flesh a delicacy.
+
+| Grimlocks inhabit the abandoned settlements of other Races and are often found as slaves of other more organized creatures, such as dwarves and Elves. It is believed that they are an even more degenerate offshoot of the Morlocks, who travel from Sekamina to hunt Grimlocks for food and consider their flesh a delicacy. |
+| --- |
+
 **Description**
 Grimlocks are blind and savage human-like creatures that inhabit the realm of the dark depths, where they organize into small tribal groups.
 
 ## Guardian Naga
 - **Size/Type**: Large monstrosity, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 4 Con 3 Int 3 Wis 4 Cha 4}
+- **Ability**: Str 4 Dex 4 Con 3 Int 3 Wis 4 Cha 4
 - **Hit Points**: 201,  **Defense:** 29,  **Initiative:** +4
 - **Movement**: 40 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +13, Reflex +14, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +14, Will +14
 - **Damage Imm.**: Poison
 - **Condition Imm.**: charmed
 - **Senses**: Darkvision 60 ft
@@ -26980,8 +27449,11 @@ Cantrips (at will): *Sacred Flame, Mending, Thaumaturgy*
 **Reaction: *Opportunity Attack***: the naga makes a spitting attack against a creature that moves through or leaves its 10-foot reach.
 
 **Ecology**
-Environment: Temperate Plains
-Organization: Solitary, pair, or nest (3-6)
+
+| Environment: Temperate Plains |
+| --- |
+| Organization: Solitary, pair, or nest (3-6) |
+
 **Treasure Category**: R
 **Description**
 Although they have a fierce appearance, with bright scales, cobra-like hoods, and powerful serpentine bodies, guardian nagas serve as conscientious protectors of places of exceptional power and sacredness. Often their scales display elaborate patterns similar to those of exotic jungle snakes. A typical guardian naga reaches a length of 14 feet and weighs approximately 375 pounds.
@@ -26990,10 +27462,10 @@ While some guardian nagas adhere to exotic practices of ancient or forgotten dei
 
 ## Gynosphinx
 - **Size/Type**: Large monstrosity, lawful
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 3 Int 4 Wis 4 Cha 4}
+- **Ability**: Str 4 Dex 2 Con 3 Int 4 Wis 4 Cha 4
 - **Hit Points**: 219,  **Defense:** 28,  **Initiative:** +4
 - **Movement**: 40 ft, fly 60 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +14, Reflex +13, Will +15
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +13, Will +15
 - **Skills**: Arcana +14, Religion +9, History +14
 - **Dmg. Res.**: from non-magical weapons
 - **Immunities**: charmed, frightened
@@ -27036,8 +27508,11 @@ The sphinx can take 3 legendary actions, chosen from the options below. Only one
 **Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 120 feet.
 
 **Ecology**
-Environment: Hot deserts and hills
-Organization: Solitary, pair, or cult (3-6)
+
+| Environment: Hot deserts and hills |
+| --- |
+| Organization: Solitary, pair, or cult (3-6) |
+
 **Treasure Category**: C
 **Description**
 Although there are several types of sphinx, the one scholars refer to as the Gynosphinx (a name many sphinxes find offensive) is a wise and majestic creature but also terrifying when angered. Less moralistic than their male counterparts (Androsphinxes, creatures totally different from the one presented here), sphinxes are cautious and methodical when making decisions, and are proud of their cold logic and impartiality.
@@ -27052,10 +27527,10 @@ A typical sphinx is 10 feet long and weighs about 880 pounds. Although their win
 
 ## Harpy
 - **Size/Type**: Medium monstrosity, Arrogant, Impulsive
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 1 Con 1 Int -2 Wis 0 Cha 1}
+- **Ability**: Str 1 Dex 1 Con 1 Int -2 Wis 0 Cha 1
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
 - **Movement**: 6 m, fly 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Languages**: Common
 - **Challenge**: 1 (200 XP)
 
@@ -27078,8 +27553,11 @@ While charmed by the harpy, a target is incapacitated and ignores the songs of o
 A target that successfully saves is immune to this harpy's song for the next 24 hours.
 
 **Ecology**
-Environment: Temperate Swamps
-Organization: Solitary, pair, or flight (3-12)
+
+| Environment: Temperate Swamps |
+| --- |
+| Organization: Solitary, pair, or flight (3-12) |
+
 **Treasure Category**: R (C)
 **Description**
 Often seen as evil and corrupt creatures, harpies know how others think and act. This perceptive ability gives them an advantage in finding their preferred meals. Although wild creatures easily fall victim to the luring song, these evil bird-women prefer meals seasoned with complex sentient thoughts. Easy prey makes for a boring meal.
@@ -27092,10 +27570,10 @@ Harpies are markedly different depending on the region where they live. Some res
 
 ## Hell Hound
 - **Size/Type**: Medium fiend, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 2 Int 0 Wis 1 Cha -2}
+- **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis 1 Cha -2
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
 - **Movement**: 50 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +4, Will +4}
+- **Saving Throws**: Fortitude +5, Reflex +4, Will +4
 - **Skills**: Perception +5
 - **Dmg. Imm.**: Fire
 - **Senses**: Darkvision 60 ft
@@ -27114,10 +27592,10 @@ Harpies are markedly different depending on the region where they live. Some res
 
 ## Hezrou
 - **Size/Type**: Large demon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 3 Con 5 Int 5 Wis 1 Cha 1}
+- **Ability**: Str 4 Dex 3 Con 5 Int 5 Wis 1 Cha 1
 - **Hit Points**: 167,  **Defense:** 25,  **Initiative:** +5
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +13, Reflex +11, Will +9}
+- **Saving Throws**: Fortitude +13, Reflex +11, Will +9
 - **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
 - **Damage Immunity**: Poison
 - **Vulnerability**: cold iron, Light
@@ -27146,8 +27624,11 @@ Harpies are markedly different depending on the region where they live. Some res
 ***Enraged:*** Hezrou releases an incendiary cloud of stench. All creatures around him within 3 meters must make a Reflex Saving Throw DC 21 to halve the 4d10 fire damage. Costs 2 Actions.
 
 **Ecology**
-Environment: Any (Abyss)
-Organization: Solitary or gang (2-4)
+
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary or gang (2-4) |
+
 **Treasure Category**: W
 **Description**
 The hezrou lives in the vast swamps, wetlands, and watercourses of the Abyss. It is at ease both in water and on land. The presence of a hezrou has a damaging effect on flora, causing mutations and making the waters foul-smelling and brackish in taste. Often entire isolated communities of deformed mutants owe their twisted appearance not so much to their depraved customs as to the proximity of a hezrou.
@@ -27156,10 +27637,10 @@ These monstrous and bestial creatures are born from the souls of evil mortals wh
 
 ## Hill Giant
 - **Size/Type**: Huge giant, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex -1 Con 4 Int -3 Wis -1 Cha -2}
+- **Ability**: Str 5 Dex -1 Con 4 Int -3 Wis -1 Cha -2
 - **Hit Points**: 109,  **Defense:** 17,  **Initiative:** -1
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +9, Reflex +4, Will +4}
+- **Saving Throws**: Fortitude +9, Reflex +4, Will +4
 - **Languages**: Giant
 - **Challenge**: 5 (1800 XP)
 
@@ -27176,8 +27657,11 @@ These monstrous and bestial creatures are born from the souls of evil mortals wh
 *Hit:* 21 (3d10 + 5) bludgeoning damage.
 
 **Ecology**
-Environment: Temperate Hills
-Organization: Solitary, group (2-5), band (6-8), raiding party (9-12 plus 1d4 Dire Wolves) or tribe (13-30 plus 35\% noncombatant plus 1 fighter chief of 4th-6th level, 11-16 Dire Wolves, 1-4 Ogres and 13-20 orc slaves)
+
+| Environment: Temperate Hills |
+| --- |
+| Organization: Solitary, group (2-5), band (6-8), raiding party (9-12 plus 1d4 Dire Wolves) or tribe (13-30 plus 35\% noncombatant plus 1 fighter chief of 4th-6th level, 11-16 Dire Wolves, 1-4 Ogres and 13-20 orc slaves) |
+
 **Treasure Category**: Hide Armor, Greatclub, B
 **Description**
 Hill giants have skin that ranges from light tan to reddish brown, with brown or black hair, and eyes of the same color. They wear multiple layers of crudely tanned hides with the fur still attached. They rarely wash or repair their clothing, preferring to simply add new layers as the old ones wear out. Adults are about 3 meters tall and weigh roughly 550 kg. Hill giants can live up to 200 years, though they rarely reach this age.
@@ -27190,10 +27674,10 @@ Solitary and non-evil hill giants are quite rare, but they can sometimes be foun
 
 ## Hippogriff
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 1 Int -4 Wis 1 Cha -1}
+- **Ability**: Str 3 Dex 1 Con 1 Int -4 Wis 1 Cha -1
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
 - **Movement**: 12 m, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Awareness +5
 - **Challenge**: 1 (200 XP)
 
@@ -27212,8 +27696,11 @@ Solitary and non-evil hill giants are quite rare, but they can sometimes be foun
 **Reaction: *Opportunity Attack***: the hippogriff attacks if it is flying and a creature exits or moves through its 2 m reach.
 
 **Ecology**
-Environment: Temperate Hills or Plains
-Organization: Solitary, pair, or flock (7-12)
+
+| Environment: Temperate Hills or Plains |
+| --- |
+| Organization: Solitary, pair, or flock (7-12) |
+
 **Treasure Category**: None
 **Description**
 The hippogriff is a fascinating creature with wings, front legs, and head of a large raptor, and body and tail of a magnificent horse.
@@ -27228,10 +27715,10 @@ Hippogriffs are oviparous and their nest usually contains only one egg, which is
 
 ## Hisser
 - **Size/Type**: Large monstrosity, chaotic
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 1 Int -3 Wis 0 Cha -2}
+- **Ability**: Str 2 Dex 1 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
 - **Movement**: 20 ft, climb 20 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +4, Perception +3
 - **Senses**: Darkvision 60 ft
 - **Challenge**: 2 (450 XP)
@@ -27249,8 +27736,11 @@ Hippogriffs are oviparous and their nest usually contains only one egg, which is
 **ReactionsReaction: *Ground***: when the Hisser is attacked by a creature within its tail's reach, it whips its tail, forcing the attacker, after resolving its attack, to make a Fortitude or Reflex Saving Throw at DC 14 or take 7 (2d6) bludgeoning damage and fall prone. If the Saving Throw succeeds, they take only half damage and are not prone.
 
 **Ecology**
-Environment: Caverns
-Organization: Solitary, pair, or nest (2-4)
+
+| Environment: Caverns |
+| --- |
+| Organization: Solitary, pair, or nest (2-4) |
+
 **Treasure Category**: Incidental
 **Description**
 Hissers, so called because of the noise their tail makes when swinging, are very peculiar creatures. At first glance, they resemble a crocodile, about 16 feet long with 13 feet of tail, but they have 8 legs and a short, flattened snout. The extremely robust tail ends with a kind of hook that the Hisser uses to strike, kill, and grab enemies almost as if it were an additional limb.
@@ -27259,10 +27749,10 @@ Dark gray or brown in color, they prefer to hide in darkness and attack when hun
 
 ## Hobgoblin
 - **Size/Type**: Medium humanoid (goblinoid), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha -1}
+- **Ability**: Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha -1
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Goblin
 - **Challenge**: 1/2 (100 XP)
@@ -27278,8 +27768,11 @@ Dark gray or brown in color, they prefer to hide in darkness and attack when hun
 *Hit:* 5 (1d8 + 1) piercing damage.
 
 **Ecology**
-Environment: Temperate Hills
-Organization: Gang (4-9), war band (10-24) or tribe (25+ plus 50\% non-combatants, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 6-12 Leopards and 1-4 Ogres or 1-2 Trolls)
+
+| Environment: Temperate Hills |
+| --- |
+| Organization: Gang (4-9), war band (10-24) or tribe (25+ plus 50\% non-combatants, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 6-12 Leopards and 1-4 Ogres or 1-2 Trolls) |
+
 **Treasure Category**: NPC Equipment (Studded Leather Armor, Light Metal Shield, Longsword, Longbow with 20 Arrows, O)
 **Description**
 Hobgoblins are a militaristic and prolific race, making them very dangerous in some regions. They breed quickly, replacing fallen members with new soldiers, keeping their numbers constant despite wars. They declare war easily, often to capture new slaves, whose life is brutal and short. Slaves are necessary to replace those who die or are eaten.
@@ -27292,10 +27785,10 @@ Hobgoblins despise magic and distrust wizards. Their shamans, feared and respect
 
 ## Homunculus
 - **Size/Type**: Tiny construct, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 2 Con 0 Int 0 Wis 0 Cha -2}
+- **Ability**: Str -3 Dex 2 Con 0 Int 0 Wis 0 Cha -2
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 6 m, flight 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Imm.**: Poison
 - **Immunities**: charmed
 - **Senses**: Darkvision 18 m, Blindsight 3 m
@@ -27312,10 +27805,10 @@ Hobgoblins despise magic and distrust wizards. Their shamans, feared and respect
 
 ## Horned Devil
 - **Size/Type**: Large devil, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 3 Con 5 Int 1 Wis 3 Cha 3}
+- **Ability**: Str 6 Dex 3 Con 5 Int 1 Wis 3 Cha 3
 - **Hit Points**: 224,  **Defense:** 29,  **Initiative:** +3
 - **Movement**: 6 m, flight 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +16, Reflex +14, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +16, Reflex +14, Will +14
 - **Damage Res.**: Cold;
 - **Damage Imm.**: Fire, Poison, weapons +1
 - **Vulnerabilities**: silver, Light
@@ -27352,8 +27845,11 @@ Hobgoblins despise magic and distrust wizards. Their shamans, feared and respect
 ***Enraged:*** the Horned Devil drains the life that enemies are losing. Until the end of the next round it recovers all Hit Points lost from Bleeding from wounds it caused.
 
 **Ecology**
-Environment: Any (Hell)
-Organization: Solitary, pair, or flock (3-10)
+
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, or flock (3-10) |
+
 **Treasure Category**: Unholy Spiked Chain +1, P
 **Description**
 Among the most deadly warriors of the archdevils and skilled commanders of lesser devils, horned devils spread the rules of Hell wherever they pass. These greater devils are trained, forged, and reforged to be among the most relentless and obedient warriors of the multiverse. The horned devils of the troops of the infernal armies are known as cornugons, while the greatest among them are called malebranche.
@@ -27364,10 +27860,10 @@ A typical horned devil reaches the considerable height of 2.7 meters, has wings 
 
 ## Hungry Coins
 - **Size/Type**: Tiny aberration, strongly evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 1 Con 3 Int -2 Wis 0 Cha -1}
+- **Ability**: Str -3 Dex 1 Con 3 Int -2 Wis 0 Cha -1
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 3 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Awareness +3
 - **Damage Imm.**: Cold, Poison, Electricity, from Void
 - **Immunities**: charmed, petrified, frightened
@@ -27386,8 +27882,11 @@ Hungry Coins always attack in groups of at least 8 coins, those held in hand for
 *Hit:* 3 Poison damage. Fortitude Saving Throw DC 13 or be Slowed 1/1r.
 
 **Ecology**
-Environment: Any
-Organization: Groups (3d12)
+
+| Environment: Any |
+| --- |
+| Organization: Groups (3d12) |
+
 **Treasure Category**: M, N, O
 **Description**
 The Hungry Coin is indistinguishable from a normal coin until observed very carefully.
@@ -27396,10 +27895,10 @@ Hungry Coins made of Gold or Platinum are usually sturdier and even hungrier. Le
 
 ## Hydra
 - **Size/Type**: Huge monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 1 Con 5 Int -4 Wis 0 Cha -2}
+- **Ability**: Str 5 Dex 1 Con 5 Int -4 Wis 0 Cha -2
 - **Hit Points**: 167,  **Defense:** 23,  **Initiative:** +1
 - **Movement**: 9 m, swim 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +13, Reflex +9, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +9, Will +8
 - **Skills**: Awareness +6
 - **Senses**: Darkvision 18 m
 - **Challenge**: 8 (3900 XP)
@@ -27425,18 +27924,21 @@ At the end of its turn, the hydra regrows two heads for each of its heads killed
 ***Repulsive Gas.*** The hydra emits foul-smelling gas. All creatures within 3 meters of the hydra must make a Fortitude Saving Throw DC 21 or suffer -2 to Attack Rolls for the next 2d4 rounds.
 
 **Ecology**
-Environment: Temperate Marshes
-Organization: Solitary
+
+| Environment: Temperate Marshes |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: E
 **Description**
 The hydra is a multi-headed dragon, but stupid and with major digestive problems.
 
 ## Ice Devil
 - **Size/Type**: Large devil, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 2 Con 4 Int 4 Wis 2 Cha 4}
+- **Ability**: Str 5 Dex 2 Con 4 Int 4 Wis 2 Cha 4
 - **Hit Points**: 278,  **Defense:** 32,  **Initiative:** +4
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +18, Reflex +16, Will +16
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +18, Reflex +16, Will +16
 - **Damage Imm.**: Cold, Fire, Poison, weapons +1
 - **Vulnerabilities**: silver, Light
 - **Senses**: Blindsight 18 m, Darkvision 36 m
@@ -27474,8 +27976,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 ***Enraged:*** the Ice Devil aims for the enemy's heart and tries to rip it out. The creature, within 1 meter, must make a DC 26 Fortitude Saving Throw or have its heart ripped out.
 
 **Ecology**
-Environment: Any (Hell)
-Organization: Solitary, squad (2-3), council (4-10) or contingent (1-3 ice devils, 2-6 horned devils and 1-4 bone devils
+
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, squad (2-3), council (4-10) or contingent (1-3 ice devils, 2-6 horned devils and 1-4 bone devils |
+
 **Treasure Category**: Icy Spear +1, R
 **Description**
 Enlightened strategists of Hell's armies, the insectoid ice devils are among the most ingenious and cruel minds of the inferno. An ice devil hides in its chest a frozen heart stolen from a mortal, which allows it to make decisions free from emotions. Born in the frozen circle of Cocytus, the seventh circle of Hell, most ice devils migrate to Caina, the eighth circle, where they plot to damn the world. Although they have the most alien and monstrous appearances among all devils, few others are accorded greater respect.
@@ -27486,10 +27991,10 @@ Ice Devils are 3.6 meters tall and weigh approximately 350 kg.
 
 ## Ice Mephit
 - **Size/Type**: Small elemental, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 1 Con 0 Int -1 Wis 0 Cha 1}
+- **Ability**: Str -2 Dex 1 Con 0 Int -1 Wis 0 Cha 1
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 9 m, fly 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +3, Awareness +2
 - **Damage Imm.**: Poison
 - **Senses**: Darkvision 18 m
@@ -27511,8 +28016,11 @@ Ice Devils are 3.6 meters tall and weigh approximately 350 kg.
 ***Frost Breath (Recharge 6).*** The mephit exhales a 5-meter cone of cold air. Each creature in that area must make a Reflex Saving Throw DC 11, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
 
 **Ecology**
-Environment: Any (elemental plane of air)
-Organization: Solitary, pair, group (3-6) or swarm (7-12)
+
+| Environment: Any (elemental plane of air) |
+| --- |
+| Organization: Solitary, pair, group (3-6) or swarm (7-12) |
+
 **Treasure Category**: J
 **Description**
 Mephits are the servants of powerful elemental creatures. The key sites and locations of the elemental planes are filled with mephits bustling to perform an important duty or task.
@@ -27521,10 +28029,10 @@ Ice mephits are commonly found on the Plane of Air. These mephits are aloof and 
 
 ## Immortal Cursed
 - **Size/Type**: Medium aberration (human), tends to be insane
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 2 Int -1 Wis -2 Cha -2}
+- **Ability**: Str 3 Dex 1 Con 2 Int -1 Wis -2 Cha -2
 - **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +5, Will +3}
+- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
 - **Skills**: Awareness +3, profession they had in life
 - **Damage Imm.**: Cold, Poison, Fire, from Void
 - **Immunities**: charmed, petrified, frightened
@@ -27542,8 +28050,11 @@ Ice mephits are commonly found on the Plane of Air. These mephits are aloof and 
 *Hit:* 12 (1d10 + 7) slashing damage.
 
 **Ecology**
-Environment: Any
-Organization: Solitary
+
+| Environment: Any |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: NPC Equipment (Studded Leather Armor, 2 Daggers, Sword, J)
 **Description**
 The Immortal Cursed is a person cursed often by a Patron or by a powerful spellcaster with the curse of insane immortal life. The curse breaks the person's balance and they find themselves wandering without purpose or goal. Occasionally they remember who they were and then continue searching for whoever cursed them.
@@ -27551,10 +28062,10 @@ With the purpose of getting finally killed, they throw themselves into every bat
 
 ## Imp
 - **Size/Type**: Tiny devil, shapechanger, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 3 Con 1 Int 0 Wis 1 Cha 2}
+- **Ability**: Str -2 Dex 3 Con 1 Int 0 Wis 1 Cha 2
 - **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
 - **Movement**: 6 m, fly 12 m (6 m in rat form; 6 m, fly 18 m in raven form; 6 m, climb 6 m in spider form)
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Skills**: Stealth +5, Deception +4, Insight +3
 - **Damage Res.**: Cold; from non-magical or non-silvered weapons
 - **Damage Imm.**: Fire, Poison
@@ -27576,8 +28087,11 @@ With the purpose of getting finally killed, they throw themselves into every bat
 ***Invisibility.*** The devil remains invisible until it attacks or ends its concentration. Anything the devil is carrying or wearing remains invisible as long as it remains in contact with the devil.
 
 **Ecology**
-Environment: Any (Hell)
-Organization: Solitary, pair, or flight (3-10)
+
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, or flight (3-10) |
+
 **Treasure Category**: K
 **Description**
 Born directly from the pits of Hell, imps are the least powerful devils, though these cruel and invasive creatures play an important role in corrupting mortal souls. Free from the hierarchies and duties of the infernal armies, imps delight in every opportunity to travel to the Material Plane and cleverly tempt mortals, pushing them to commit increasingly depraved acts.
@@ -27590,10 +28104,10 @@ Unlike other devils, imps are often found free and alone on the Material Plane, 
 
 ## Invisible Stalker
 - **Size/Type**: Medium elemental, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 4 Con 2 Int 0 Wis 2 Cha 0}
+- **Ability**: Str 3 Dex 4 Con 2 Int 0 Wis 2 Cha 0
 - **Hit Points**: 125,  **Defense:** 24,  **Initiative:** +4
 - **Movement**: 15 m, flight 15 m, Hover
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +8, Reflex +10, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +8, Reflex +10, Will +8
 - **Skills**: Stealth +10, Awareness +8
 - **Damage Res.**: non-magical weapons
 - **Damage Imm.**: Poison
@@ -27619,8 +28133,11 @@ Unlike other devils, imps are often found free and alone on the Material Plane, 
 ***Enraged:*** the Invisible Stalker breaks the pact and returns to the elemental plane of air.
 
 **Ecology**
-Environment: Any
-Organization: Solitary
+
+| Environment: Any |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: None
 **Description**
 Native to the Plane of Air, these creatures move through the world following assignments for those who summon them. Invisible stalkers usually act as guardians and assassins. Their natural invisibility and stealth allow them to follow prey without being seen and give them an advantage when they decide to eliminate a target.
@@ -27631,10 +28148,10 @@ Due to continuous summonings, many invisible stalkers are adverse to the inhabit
 
 ## Iron Golem
 - **Size/Type**: Large construct, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -5}
+- **Ability**: Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -5
 - **Hit Points**: 319,  **Defense:** 32,  **Initiative:** -1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +21, Reflex +15, Will +16
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +21, Reflex +15, Will +16
 - **Damage Imm.**: Fire, Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: Darkvision 36 m
@@ -27670,8 +28187,11 @@ Due to continuous summonings, many invisible stalkers are adverse to the inhabit
 ***Enraged:*** the iron golem exhales a scorching breath in a 3-meter cone. The breath deals 3d10 fire damage or half on a successful Reflex Saving Throw DC 26. The golem regains the full amount in Hit Points and is Accelerated 1 for 2d4 rounds. Costs 2 Actions.
 
 **Ecology**
-Environment: Any
-Organization: Solitary or group (2-4)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary or group (2-4) |
+
 **Treasure Category**: None
 **Description**
 An iron golem has a humanoid body made of iron. The creator can give it any shape desired, but it almost always features some kind of armor, whether ceremonial and precious or plain and utilitarian. Compared to a stone golem, it has much more defined features. Iron golems sometimes carry a weapon, although most often they tend to prefer their slam attacks.
@@ -27685,10 +28205,10 @@ To build an iron golem requires 2,500 kg of iron, fused with rare dyes worth at 
 
 ## Kobold
 - **Size/Type**: Small humanoid (kobold), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 2 Con -1 Int -1 Wis -2 Cha -1}
+- **Ability**: Str -2 Dex 2 Con -1 Int -1 Wis -2 Cha -1
 - **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Draconic
 - **Challenge**: 1/8 (25 XP)
@@ -27706,8 +28226,11 @@ To build an iron golem requires 2,500 kg of iron, fused with rare dyes worth at 
 *Hits:* 4 (1d4 + 2) bludgeoning damage.
 
 **Ecology**
-Environment: Temperate forests or underground
-Organization: solitary, group (2-4), nest (5-30 plus an equal number of non-combatants, 1 sergeant of 3rd level per 20 adults and 1 leader of 4th-6th level) or tribe (31-300 plus 35\% non-combatants, 1 sergeant of 3rd level per 20 adults, 2 lieutenants of 4th level, 1 leader of 6th-8th level and 5-16 Dire Rats)
+
+| Environment: Temperate forests or underground |
+| --- |
+| Organization: solitary, group (2-4), nest (5-30 plus an equal number of non-combatants, 1 sergeant of 3rd level per 20 adults and 1 leader of 4th-6th level) or tribe (31-300 plus 35\% non-combatants, 1 sergeant of 3rd level per 20 adults, 2 lieutenants of 4th level, 1 leader of 6th-8th level and 5-16 Dire Rats) |
+
 **Treasure Category**: NPC equipment (Leather Armor, Spear, Sling, other treasure), 2d6 silver coins
 **Description**
 Kobolds are creatures of darkness, most commonly encountered in enormous underground labyrinths or in the dark corners of forests where the sun never shines. Because of their physical resemblance, kobolds loudly proclaim themselves descendants of the draconic lineage and destined to rule the earth under the wing of their great divine cousins, but most dragons consider them little more than annoying insects. Cowards and schemers, they never fight openly if they can avoid it, preferring instead to set ambushes and traps, hiding in their labyrinthine constructions behind a curtain of crude but ingenious pitfalls, or pouring onto the enemy in vast howling hordes.
@@ -27718,10 +28241,10 @@ Kobolds have a weakness for silver but, being terrible miners, they prefer to pr
 
 ## Kraken
 - **Size/Type**: Gargantuan monstrosity (titan), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 10 Dex 0 Con 7 Int 6 Wis 4 Cha 5}
+- **Ability**: Str 10 Dex 0 Con 7 Int 6 Wis 4 Cha 5
 - **Hit Points**: 461,  **Defense:** 42,  **Initiative:** +6
 - **Movement**: 6 m, swim 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +30, Reflex +23, Will +27
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +30, Reflex +23, Will +27
 - **Damage Imm.**: Electricity, +1 weapons
 - **Immunities**: paralyzed, frightened
 - **Senses**: truesight 36 m
@@ -27759,8 +28282,11 @@ The kraken can take 3 Legendary Actions, choosing from the options below. It can
 **Ink Cloud (Costs 3 Actions).** While underwater, the kraken expels an ink cloud in a 18-meter radius. The cloud spreads around corners, and that area is heavily obscured to all creatures except the kraken. Each creature other than the kraken that ends its turn in the area must succeed on a Fortitude Saving Throw 34, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn. **Lightning Storm (Costs 2 Actions).** The kraken uses Lightning Storm.
 
 **Ecology**
-Environment: Any Ocean
-Organization: Solitary
+
+| Environment: Any Ocean |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: 2 H
 **Description**
 The legendary kraken is one of the sailors' greatest fears, because it is a whale-sized creature, can strike from the depths without being seen, can command the winds and weather conditions necessary for the ship to move, and possesses the cruel intellect of most of the most ruthless and creative criminals in the world. Some believe that krakens are divine punishment, while others consider them the true lords of the depths, who consider air-breathing races nothing but cattle.
@@ -27771,10 +28297,10 @@ A kraken is almost 30 meters long and weighs 20,000 kg.
 
 ## Lamia
 - **Size/Type**: Large monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 2 Int 2 Wis 2 Cha 3}
+- **Ability**: Str 3 Dex 1 Con 2 Int 2 Wis 2 Cha 3
 - **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +5, Will +6}
+- **Saving Throws**: Fortitude +6, Reflex +5, Will +6
 - **Skills**: Stealth +3, Deception +7, Sense Emotion +4,
 - **Senses**: Darkvision 18 m
 - **Languages**: Abyssal, Common
@@ -27803,8 +28329,11 @@ At will: *Disguise Self* (any humanoid form), *Major Image*
 *Hit:* The target is cursed for 1 hour by this magic. Until the curse ends, the target has -1d6 on Will Saving Throws and all Basic skill checks.
 
 **Ecology**
-Environment: Temperate Deserts
-Organization: Solitary, pair, or cult (3-12)
+
+| Environment: Temperate Deserts |
+| --- |
+| Organization: Solitary, pair, or cult (3-12) |
+
 **Treasure Category**: Dagger+1, D
 **Description**
 Lamias, heirs to an ancient curse, appear as slender and attractive women from the waist up, while the lower part of the body is similar to that of a mighty lion. Their humanoid features present feline traits: narrow, feral eyes and fang-like teeth. A typical lamia is 1.8 meters tall, 2.3 meters long, and weighs over 325 kg.
@@ -27815,10 +28344,10 @@ Lamias worship the elder females of their group, considering them leaders, mothe
 
 ## Lemure
 - **Size/Type**: Medium devil, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex -3 Con 0 Int -5 Wis 0 Cha -4}
+- **Ability**: Str 0 Dex -3 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: 15,  **Defense:** 9,  **Initiative:** -3
 - **Movement**: 5 meters
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Res.**: Cold
 - **Damage Imm.**: Fire, Poison
 - **Immunities**: charmed, frightened
@@ -27836,8 +28365,11 @@ Lamias worship the elder females of their group, considering them leaders, mothe
 *Hit:* 2 (1d4) bludgeoning damage.
 
 **Ecology**
-Environment: Any (Hell)
-Organization: Solitary, pair, group (3-5), swarm (6-17) or horde (10-40 or more)
+
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, group (3-5), swarm (6-17) or horde (10-40 or more) |
+
 **Treasure Category**: None
 **Description**
 Lemures are the lowest devils, born from souls damned to hell. They are shapeless masses of trembling flesh, with grotesque features that mimic their torturers. Standing over 1.2 meters tall and weighing over 100 kg, they are revolting creatures that destroy any non-infernal life form.
@@ -27848,10 +28380,10 @@ Greater devils can recognize the most corrupted lemures and transform them into 
 
 ## Lich
 - **Size/Type**: Medium undead, evil traits
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 3 Con 3 Int 5 Wis 2 Cha 3}
+- **Ability**: Str 0 Dex 3 Con 3 Int 5 Wis 2 Cha 3
 - **Hit Points**: 405,  **Defense:** 43,  **Initiative:** +5
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +24, Reflex +24, Will +23
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +24, Reflex +24, Will +23
 - **Damage Res.**: Cold, Lightning, Necrotic
 - **Damage Imm.**: Poison; non-magical weapons
 - **Immunities**: charmed, paralyzed, fatigued, frightened, bleeding
@@ -27912,8 +28444,11 @@ The lich can take 3 Legendary Actions, choosing from the options below. It can u
 ***Cantrip.*** The lich casts a cantrip.
 
 **Ecology**
-Environment: Any
-Organization: Solitary
+
+| Environment: Any |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: NPC Equipment (Ring of Protection +2, Headband of Wisdom +2 (Awareness), Boots of Levitation, scroll of Dominate Person, scroll of Teleport, potion of Invisibility)
 **Description**
 Few creatures are more feared than liches. Apex of Necromantic arts, the lich is a spellcaster who has chosen to give up life and cheat death by becoming undead. Although many of those who reach such heights of power would do anything to achieve immortality, the idea of becoming a lich is abhorred by many creatures. The process involves extracting the spellcaster's life force and imprisoning it in a specially prepared phylactery; the spellcaster gives up his life, but remains trapped between life and death, and as long as his phylactery remains intact he can continue his research and work without fearing the passage of time.
@@ -27922,10 +28457,10 @@ There are also extremely rare good Liches, but as the saying goes, they are rare
 
 ## Lizardfolk
 - **Size/Type**: Medium humanoid (lizardfolk), neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 0 Con 1 Int -2 Wis 1 Cha -2}
+- **Ability**: Str 2 Dex 0 Con 1 Int -2 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
 - **Movement**: 9 m, swim 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +4, Awareness +3, Survival +5
 - **Languages**: Draconic
 - **Challenge**: 1/2 (100 XP)
@@ -27951,8 +28486,11 @@ There are also extremely rare good Liches, but as the saying goes, they are rare
 *Hit:* 5 (1d6 + 2) piercing damage.
 
 **Ecology**
-Environment: temperate swamps
-Organization: solitary, pair, gang (3-12) or tribe (13-60)
+
+| Environment: temperate swamps |
+| --- |
+| Organization: solitary, pair, gang (3-12) or tribe (13-60) |
+
 **Treasure Category**: NPC Equipment (Wooden Heavy Shield, Spiked Mace, 3 Javelins)
 **Description**
 Lizardfolk are proud, powerful predatory reptiles that make their communal homes in scattered villages deep within swamps and marshes. Having no interest in colonizing drier lands and content with their simple weapons and rituals that have served them well for millennia, lizardfolk are viewed by many of the other races as backward savages, but within their isolated communities they are actually a vibrant people with a rich tradition and oral history stretching back to before humanity walked upright.
@@ -27965,10 +28503,10 @@ The lizardfolk presented here live in swampy environments. Lizardfolk tribes can
 
 ## Lootdead
 - **Size/Type**: Large construct, undead, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 0 Con 4 Int -4 Wis -2 Cha -5}
+- **Ability**: Str 5 Dex 0 Con 4 Int -4 Wis -2 Cha -5
 - **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
 - **Movement**: 30 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +6, Will +4}
+- **Saving Throws**: Fortitude +10, Reflex +6, Will +4
 - **Dmg. Imm.**: Poison
 - **Immunities**: charmed, fatigued, paralyzed, petrified, bleeding, diseases
 - **Senses**: Darkvision 100 ft
@@ -27998,8 +28536,11 @@ The lizardfolk presented here live in swampy environments. Lizardfolk tribes can
 ***Sad Turtle***: with an Athletics check DC 24 it is possible to flip the lootdead upside down, preventing it from flipping back on its own. In this circumstance, the lootdead has -1d6 to all Attack Rolls.
 
 **Ecology**
-Environment: Any, caverns
-Organization: 1-2 Lootdeads, 1d4+1 guardians
+
+| Environment: Any, caverns |
+| --- |
+| Organization: 1-2 Lootdeads, 1d4+1 guardians |
+
 **Treasure Category**: Whatever collected (C + R)
 **Description**
 Lootdeads are special undead constructed from various cadaver pieces and iron parts to resemble a kind of large armored crab.
@@ -28011,10 +28552,10 @@ Usually a Lootdead is always accompanied by several guardians (other creatures u
 
 ## Magma Man
 - **Size/Type**: Small elemental, chaotic
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 2 Con 1 Int -1 Wis 0 Cha 0}
+- **Ability**: Str -2 Dex 2 Con 1 Int -1 Wis 0 Cha 0
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Res.**: from non-magical weapons
 - **Damage Imm.**: Fire
 - **Senses**: Darkvision 18 m
@@ -28030,8 +28571,11 @@ Usually a Lootdead is always accompanied by several guardians (other creatures u
 *Hit:* 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an Action to douse the flame, the target takes 3 (1d6) fire damage at the end of each of its rounds.
 
 **Ecology**
-Environment: Any terrain (Plane of Fire)
-Organization: Solitary or band (2-8)
+
+| Environment: Any terrain (Plane of Fire) |
+| --- |
+| Organization: Solitary or band (2-8) |
+
 **Treasure Category**: L
 **Description**
 Lava men, known as Ignim, inhabit the Plane of Fire but sometimes slip into the Material Plane through elemental cracks. These cracks form in places of strong heat, such as volcanoes or underground magma rivers, or in areas of intense magic. Often, they unintentionally set fire to nearby flammable objects.
@@ -28046,10 +28590,10 @@ At maturity, the Ignim are 1.2 meters tall and weigh 150 kg due to their dense c
 
 ## Magma Mephit
 - **Size/Type**: Small elemental, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 1 Con 1 Int -2 Wis 0 Cha 0}
+- **Ability**: Str -1 Dex 1 Con 1 Int -2 Wis 0 Cha 0
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 9 m, fly 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +3
 - **Damage Imm.**: Poison
 - **Senses**: Darkvision 18 m
@@ -28071,8 +28615,11 @@ At maturity, the Ignim are 1.2 meters tall and weigh 150 kg due to their dense c
 ***Fire Breath (Recharge 6).*** The mephit exhales a 5-meter cone of fire. Each creature in the area must make a Reflex Saving Throw DC 11, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 
 **Ecology**
-Environment: Any (elemental plane of fire)
-Organization: Solitary, pair, group (3-6) or swarm (7-12)
+
+| Environment: Any (elemental plane of fire) |
+| --- |
+| Organization: Solitary, pair, group (3-6) or swarm (7-12) |
+
 **Treasure Category**: J
 **Description**
 Mephits are the servants of powerful elemental creatures. The key sites and locations of the elemental planes are filled with mephits bustling to perform an important duty or task.
@@ -28081,10 +28628,10 @@ Magma mephits are commonly found on the Plane of Fire. These mephits are stupid 
 
 ## Manticore
 - **Size/Type**: Large monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 3 Con 3 Int -2 Wis 1 Cha -1}
+- **Ability**: Str 3 Dex 3 Con 3 Int -2 Wis 1 Cha -1
 - **Hit Points**: 70,  **Defense:** 19,  **Initiative:** +3
 - **Movement**: 9 m, fly 15 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +6, Will +4}
+- **Saving Throws**: Fortitude +6, Reflex +6, Will +4
 - **Senses**: Darkvision 18 m
 - **Languages**: Common
 - **Challenge**: 3 (700 XP)
@@ -28106,8 +28653,11 @@ Magma mephits are commonly found on the Plane of Fire. These mephits are stupid 
 *Hit:* 7 (1d8 + 3) piercing damage.
 
 **Ecology**
-Environment: Warm Hills and Swamps
-Organization: Solitary, pair, or pack (3-6)
+
+| Environment: Warm Hills and Swamps |
+| --- |
+| Organization: Solitary, pair, or pack (3-6) |
+
 **Treasure Category**: C
 **Description**
 Manticores are fierce predators that patrol large territories in search of fresh meat. A typical manticore is about 3 meters long and weighs about 500 kg. Some have a head resembling that of a human, usually bearded. Males and females are very similar.
@@ -28118,10 +28668,10 @@ Although manticores are similar to magical creations, they have long been counte
 
 ## Marilith
 - **Size/Type**: Large demon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 5 Con 5 Int 4 Wis 3 Cha 5}
+- **Ability**: Str 4 Dex 5 Con 5 Int 4 Wis 3 Cha 5
 - **Hit Points**: 319,  **Defense:** 38,  **Initiative:** +5
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +21, Reflex +21, Will +19
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +21, Reflex +21, Will +19
 - **Damage Resistance**: Cold, Lightning, Fire
 - **Damage Immunity**: Poison, +1 weapons
 - **Vulnerability**: cold iron, Light
@@ -28156,8 +28706,11 @@ Although manticores are similar to magical creations, they have long been counte
 - the marilith condemns the opponent to the abyss. Cost 2 Actions. The opponent must make a Will Saving Throw DC 28 or be transported to the abyss.
 
 **Ecology**
-Environment: Any (Abyss)
-Organization: Solitary, pair or platoon (1 marilith, 1-3 Glabrezu and 3-14 Babau)
+
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary, pair or platoon (1 marilith, 1-3 Glabrezu and 3-14 Babau) |
+
 **Treasure Category**: C
 **Description**
 Sovereigns of demonic hordes and queens of abyssal nations, the fearsome mariliths serve the demon lords as rulers, advisors, and even lovers, yet their supremacy as strategists makes them particularly in demand as generals and commanders of armies. The most powerful mariliths serve no one and instead command famished demonic legions.
@@ -28166,10 +28719,10 @@ A marilith is 1.8 to 2.7 meters tall, 6 meters long from head to tail, and weigh
 
 ## Medusa
 - **Size/Type**: Medium monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 2 Con 3 Int 1 Wis 1 Cha 2}
+- **Ability**: Str 0 Dex 2 Con 3 Int 1 Wis 1 Cha 2
 - **Hit Points**: 126,  **Defense:** 22,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +9, Reflex +8, Will +7}
+- **Saving Throws**: Fortitude +9, Reflex +8, Will +7
 - **Skills**: Stealth +5, Deception +5, Insight +4
 - **Senses**: Darkvision 18 m
 - **Languages**: Common
@@ -28198,8 +28751,11 @@ If the medusa sees its reflection on a reflective surface within 9 meters of it 
 **Reaction: *Opportunity Attack***: the medusa makes a snake hair attack against a creature that moves through or leaves its 1 meter reach. This attack doesn't consume Actions or Reactions.
 
 **Ecology**
-Environment: Temperate swamps and underground
-Organization: Solitary
+
+| Environment: Temperate swamps and underground |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: Dagger, Perfect Longbow with 20 Arrows, F
 **Description**
 Medusas are creatures resembling humans with snakes for hair. From a distance of 9 meters or more, a medusa can easily pass for a beautiful woman if she wears something that covers her serpentine hair; when wearing clothing that conceals her head and face, she can be mistaken for a human even at close range. Medusas use lies and disguises to conceal their faces until opponents are close enough to use their petrifying gaze, though they enjoy playing with their prey and may use flaming arrows to trap enemies at a distance. Some enjoy creating intricate decorations with their victims, using petrification to add a certain touch to their swampy hideouts, but many medusas take care to hide evidence of their previous encounters so that their new enemies don't realize their dangerous presence.
@@ -28210,10 +28766,10 @@ All medusas are female. Rarely, a medusa decides to take a male humanoid as a co
 
 ## Topi, La
 - **Size/Type**: Tiny fey, indifferent. Patron
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 4 Con 0 Int 6 Wis 1 Cha 10}
+- **Ability**: Str -1 Dex 4 Con 0 Int 6 Wis 1 Cha 10
 - **Hit Points**: 15,  **Defense:** 16,  **Initiative:** +6
 - **Movement**: 6 m, fly 18 m, hover
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +30, Reflex +34, Will +30
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +30, Reflex +34, Will +30
 - **Skills**: all +20
 - **Immunities**: to damage from weapons with magical bonus less than +6
 - **Immunities**: to any effect, damage, condition La Topi doesn't like
@@ -28235,20 +28791,26 @@ All medusas are female. Rarely, a medusa decides to take a male humanoid as a co
 ***Nose Boop** one creature*. La Topi boops her nose on the chosen creature and it is healed from any disease, condition, or existing wound.
 ***Angry:*** La Topi does whatever she wants (unlimited Wish). Costs 1 Reaction.
 **Legendary Actions**
-La Topi, as a Patron, can take as many Legendary Actions as she wants from all those listed. She can use unlimited Wish once per round.
+
+| La Topi, as a Patron, can take as many Legendary Actions as she wants from all those listed. She can use unlimited Wish once per round. |
+| --- |
+
 **Ecology**
-Environment: Anywhere, Markets
-Organization: Solitary
+
+| Environment: Anywhere, Markets |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: Special
 **Description**
 She might be mistaken for a small white mouse, but La Topi is much more. Clever, intelligent, beautiful, she loves going to the market and buying handbags.
 
 ## Mimic
 - **Size/Type**: Medium monstrosity (shapechanger), neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 2 Int -2 Wis 1 Cha -1}
+- **Ability**: Str 3 Dex 1 Con 2 Int -2 Wis 1 Cha -1
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
 - **Movement**: 15 feet
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
 - **Skills**: Stealth +5
 - **Damage Imm.**: Acid
 - **Condition Imm.**: prone
@@ -28272,8 +28834,11 @@ She might be mistaken for a small white mouse, but La Topi is much more. Clever,
 *Hit:* 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subject to the Adhesive trait.
 
 **Ecology**
-Environment: Any
-Organization: Solitary
+
+| Environment: Any |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: Incidental (A)
 **Description**
 Mimics are believed to be the result of an alchemist's attempt to bring an inanimate object to life through the application of a mystical reagent, the formula for which has been lost. Over the years, these strange but intelligent creatures have learned the ability to transform into simulacra of manufactured objects, particularly in places frequented by a small number of creatures, where their chances of success with an attack on their victims increase.
@@ -28284,10 +28849,10 @@ A typical mimic has a volume of 7 cubic feet (3 ft by 3 ft by 7 ft) and weighs a
 
 ## Minotaur
 - **Size/Type**: Large monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 3 Int -2 Wis 3 Cha -1}
+- **Ability**: Str 4 Dex 0 Con 3 Int -2 Wis 3 Cha -1
 - **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
 - **Movement**: 40 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +3, Will +6}
+- **Saving Throws**: Fortitude +6, Reflex +3, Will +6
 - **Skills**: Perception +7
 - **Senses**: Darkvision 60 ft
 - **Languages**: Abyssal
@@ -28308,8 +28873,11 @@ A typical mimic has a volume of 7 cubic feet (3 ft by 3 ft by 7 ft) and weighs a
 *Hit:* 13 (2d8 + 4) piercing damage.
 
 **Ecology**
-Environment: Temperate Ruins and Dungeons
-Organization: Solitary, pair, or group (3-4)
+
+| Environment: Temperate Ruins and Dungeons |
+| --- |
+| Organization: Solitary, pair, or group (3-4) |
+
 **Treasure Category**: Greataxe, O +1 potion
 **Description**
 Despised by civilized races and created centuries ago by a divine curse, minotaurs hunt, kill, and devour humanoids to punish real or perceived offenses, from time immemorial. Most cultures have legends about how they were created by vengeful deities who punished humans by deforming their appearance, taking away their beauty and intelligence, and endowing them with bull heads. However, modern minotaurs despise these legends, considering themselves models of divine perfection created by the demon lord Baphomet.
@@ -28322,10 +28890,10 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 
 ## Mummy
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex -1 Con 2 Int -2 Wis 0 Cha 1}
+- **Ability**: Str 3 Dex -1 Con 2 Int -2 Wis 0 Cha 1
 - **Hit Points**: 70,  **Defense:** 15,  **Initiative:** -1
 - **Movement**: 20 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Damage Res.**: from non-magical weapons
 - **Damage Imm.**: from Void, Poison
 - **Condition Imm.**: charmed, paralyzed, exhausted, frightened, bleeding
@@ -28345,10 +28913,10 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 
 ## Mummy Lord
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 3 Int 0 Wis 4 Cha 3}
+- **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 4 Cha 3
 - **Hit Points**: 294,  **Defense:** 32,  **Initiative:** +0
 - **Movement**: 20 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +18, Reflex +15, Will +19
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +18, Reflex +15, Will +19
 - **Skills**: Religion +5, History +5
 - **Damage Imm.**: from Void, Poison; +1 weapons
 - **Condition Imm.**: charmed, paralyzed, exhausted, frightened
@@ -28409,18 +28977,21 @@ The mummy lord can take 3 Legendary Actions, choosing from the options below. It
 ***Enraged:*** The Mummy lord hungers for life. It channels the energy of death and destruction in a 40-foot radius around itself. Each creature must succeed on a Fortitude Saving Throw at DC 26 to halve the damage or take 22 damage. The Mummy regains all Hit Points lost by other creatures.
 
 **Ecology**
-Environment: Any
-Organization: Solitary, Group (3-6) or Mausoleum (7-12)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary, Group (3-6) or Mausoleum (7-12) |
+
 **Treasure Category**: T + U
 **Description**
 Many cultures practice the sacred art of mummification, though the sinister magical techniques used to imbue corpses with undead vitality are far less common. In some ancient lands, such blasphemous techniques have been refined through centuries of ceremony and countless deaths, resulting in mummies of terrible power. On rare occasions, if the deceased was of high rank and excessive wickedness, they might undergo such elaborate rituals, rising from the tomb as a fearsome mummy lord. Similarly, a ruler known for malice or who died in a moment of great anger might present themselves spontaneously as a vengeful despot. Regardless of the exact circumstances of its resurrection, a mummy lord retains the abilities it had in life, becoming a creature consumed by the desire to restore its dominion and rule over both the living and the dead.
 
 ## Nalfeshnee
 - **Size/Type**: Large demon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 0 Con 6 Int 4 Wis 1 Cha 2}
+- **Ability**: Str 5 Dex 0 Con 6 Int 4 Wis 1 Cha 2
 - **Hit Points**: 264,  **Defense:** 29,  **Initiative:** +4
 - **Movement**: 6 m, flight 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +19, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +19, Reflex +13, Will +14
 - **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
 - **Damage Immunity**: Poison
 - **Vulnerability**: cold iron, Light
@@ -28455,8 +29026,11 @@ If a creature's Saving Throw is successful or the effect ends for it, the creatu
 ***Enraged:*** the nalfeshnee mimics the arcane words and gestures seen within the previous 3 rounds and casts a spell it has witnessed. Costs 3 Actions.
 
 **Ecology**
-Environment: Any (Abyss)
-Organization: Solitary or war band (1 nalfeshnee, 1 Hezrou, and 2-5 Vrock)
+
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary or war band (1 nalfeshnee, 1 Hezrou, and 2-5 Vrock) |
+
 **Treasure Category**: G
 **Description**
 Few demons understand the internal mechanics that govern the Abyss as well as nalfeshnees, and it is not uncommon for these demons to serve the Abyss itself rather than a demon lord. Some oversee the organic realms that generate new demons, while others guard places of particular importance in the hidden recesses of the plane. Often, a nalfeshnee's realm in the Abyss is superior in forces and dimensions to the largest of mortal kingdoms, as these demons have a natural predisposition to govern and impose a sort of order on the chaos of the Abyss. Mortal summoners often call upon them for their insane but unparalleled intellect, carefully examining agreements made with these demons to avoid any hidden consequences and unintended outcomes, as a nalfeshnee rarely accepts anything that, in some twisted way, does not allow it to satisfy the needs and desires of the Abyss.
@@ -28465,10 +29039,10 @@ Nalfeshnees are 6 meters tall and weigh 4000 kg. They are created from the souls
 
 ## Night Hag
 - **Size/Type**: Medium fiend, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 3 Int 3 Wis 2 Cha 3}
+- **Ability**: Str 4 Dex 2 Con 3 Int 3 Wis 2 Cha 3
 - **Hit Points**: 108,  **Defense:** 20,  **Initiative:** +3
 - **Movement**: 30 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +8, Reflex +7, Will +7}
+- **Saving Throws**: Fortitude +8, Reflex +7, Will +7
 - **Skills**: Stealth +6, Deception +7, Insight +6
 - **Damage Res.**: Cold, Fire; from non-magical or non-silvered weapons
 - **Senses**: Darkvision 120 ft
@@ -28495,10 +29069,10 @@ At will: *Arcane dart, Detect Magic* 2/day each: *Ray of Enfeeblement, Sleep*
 
 ## Nightmare Steed
 - **Size/Type**: Large fiend, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 3 Int 0 Wis 1 Cha 2}
+- **Ability**: Str 4 Dex 2 Con 3 Int 0 Wis 1 Cha 2
 - **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
 - **Movement**: 18 m, flight 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +5, Will +4}
+- **Saving Throws**: Fortitude +6, Reflex +5, Will +4
 - **Damage Imm.**: Fire
 - **Skills**: Awareness +6
 - **Vulnerabilities**: Light
@@ -28517,8 +29091,11 @@ At will: *Arcane dart, Detect Magic* 2/day each: *Ray of Enfeeblement, Sleep*
 ***Ethereal Stride.*** The nightmare steed and up to three willing creatures within 3 meters of it can magically enter the Ethereal Plane from the Material Plane, or vice versa.
 
 **Ecology**
-Environment: Any
-Organization: Solitary
+
+| Environment: Any |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: None
 **Description**
 Nightmares are flaming messengers of death. They allow only the most evil creatures to ride them, and they are never merely mounts, but collaborate in the destruction caused by their riders.
@@ -28527,10 +29104,10 @@ Nightmares are flaming messengers of death. They allow only the most evil creatu
 
 ## Ochre Jelly
 - **Size/Type**: Large ooze, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex -2 Con 2 Int -4 Wis -2 Cha -5}
+- **Ability**: Str 2 Dex -2 Con 2 Int -4 Wis -2 Cha -5
 - **Hit Points**: 51,  **Defense:** 12,  **Initiative:** -2
 - **Movement**: 10 ft, climb 10 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
 - **Damage Res.**: Acid
 - **Damage Imm.**: Lightning, slashing
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
@@ -28550,8 +29127,11 @@ Nightmares are flaming messengers of death. They allow only the most evil creatu
 **Reactions*Split.*** When a Medium or larger jelly takes lightning or slashing damage, it splits into two new jellies that have at least 10 hit points each. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
 
 **Ecology**
-Environment: Temperate Dungeons or Swamps
-Organization: Solitary
+
+| Environment: Temperate Dungeons or Swamps |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: None
 **Description**
 Ochre Jellies are animated masses of protoplasm colored like a repulsive amalgam of yellow, orange, and brown. When at rest, their flat, pulsating body is about 6 inches high and extends all around; in motion, they gather into a roughly spherical shape and almost seem to move by rolling. Their malleable bodies allow them to squeeze through cracks and holes much smaller than the space they occupy. Creatures that live underground often seal all openings to defend against Ochre Jellies.
@@ -28566,10 +29146,10 @@ Although the typical Ochre Jelly has the statistics presented here, in the depth
 
 ## Ogre
 - **Size/Type**: Large giant, sadistic evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex -1 Con 3 Int -3 Wis -2 Cha -2}
+- **Ability**: Str 4 Dex -1 Con 3 Int -3 Wis -2 Cha -2
 - **Hit Points**: 52,  **Defense:** 13,  **Initiative:** -1
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Giant
 - **Challenge**: 2 (450 XP)
@@ -28583,8 +29163,11 @@ Although the typical Ochre Jelly has the statistics presented here, in the depth
 *Hit:* 11 (2d6 + 4) piercing damage.
 
 **Ecology**
-Environment: Cold or temperate hills
-Organization: Solitary, pair, group (3-4) or family (5-16)
+
+| Environment: Cold or temperate hills |
+| --- |
+| Organization: Solitary, pair, group (3-4) or family (5-16) |
+
 **Treasure Category**: Leather Armor, Greatclub, 4 Javelins, J
 **Description**
 Stories about ogres contain horrific elements: brutality and ferocity, cannibalism and torture. Then rape, dismemberment, necrophilia, incest, mutilation, and other examples of cruelty. Those who have never encountered ogres consider these stories a warning. Those who have survived such an encounter know that the stories are nothing compared to reality.
@@ -28608,10 +29191,10 @@ An adult ogre is about 3 meters tall and weighs about 325 kg.
 
 ## Ogre Zombie
 - **Size/Type**: Large undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex -2 Con 4 Int -4 Wis -2 Cha -3}
+- **Ability**: Str 4 Dex -2 Con 4 Int -4 Wis -2 Cha -3
 - **Hit Points**: 52,  **Defense:** 12,  **Initiative:** -2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +6, Reflex +3, Will +3
 - **Damage Imm.**: Poison
 - **Immunities**: bleeding
 - **Senses**: Darkvision 18 m
@@ -28630,10 +29213,10 @@ An adult ogre is about 3 meters tall and weighs about 325 kg.
 
 ## Oni
 - **Size/Type**: Large giant, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 3 Int 2 Wis 1 Cha 2}
+- **Ability**: Str 4 Dex 0 Con 3 Int 2 Wis 1 Cha 2
 - **Hit Points**: 145,  **Defense:** 21,  **Initiative:** +2
 - **Movement**: 9 m, flight 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +7, Will +8}
+- **Saving Throws**: Fortitude +10, Reflex +7, Will +8
 - **Skills**: Arcana +5, Deception +8
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Giant
@@ -28667,10 +29250,10 @@ At will: *Invisibility, Darkness*
 
 ## Orc
 - **Size/Type**: Medium humanoid (orc), chaotic
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0}
+- **Ability**: Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Intimidate +1
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Goblin
@@ -28685,8 +29268,11 @@ At will: *Invisibility, Darkness*
 *Hit:* 5 (1d6 + 2) piercing damage.
 
 **Ecology**
-Environment: Temperate hills and mountains or underground
-Organization: solitary, group (2-4), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level) or band
+
+| Environment: Temperate hills and mountains or underground |
+| --- |
+| Organization: solitary, group (2-4), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level) or band |
+
 **Treasure Category**: NPC Equipment (Studded Leather Armor, Sword, 4 Javelins, M)
 **Description**
 Orcs are a race created by Cattalm as an experiment to verify whether a more intelligent but equally ferocious creature than ogres could be dominant.
@@ -28695,10 +29281,10 @@ An adult male orc is 1.6 meters tall and weighs about 60 kg. A peculiar characte
 
 ## Orc
 - **Size/Type**: Medium humanoid (orc), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 3 Int -2 Wis 0 Cha 0}
+- **Ability**: Str 3 Dex 1 Con 3 Int -2 Wis 0 Cha 0
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
 - **Skills**: Intimidate +2
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Goblin
@@ -28717,8 +29303,11 @@ An adult male orc is 1.6 meters tall and weighs about 60 kg. A peculiar characte
 *Hit:* 6 (1d6 + 3) piercing damage.
 
 **Ecology**
-Environment: Temperate hills and mountains or underground
-Organization: solitary, group (2-4), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level) or band
+
+| Environment: Temperate hills and mountains or underground |
+| --- |
+| Organization: solitary, group (2-4), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level) or band |
+
 **Treasure Category**: NPC Equipment (Studded Leather Armor, Glaive, 4 Javelins, K)
 **Description**
 The main difference between orcs and civilized humanoids, in addition to their brute strength and lower intelligence, is their character. As a culture, orcs are violent and aggressive, and the strong dominate the weak through fear and brutality. They take what they want by force and have no qualms about taking entire villages as slaves if they have the opportunity. They don't care about comforts, and their villages and camps tend to be dirty and precarious places, full of drunken brawls, fighting arenas, and other sadistic entertainments. Lacking the patience necessary to cultivate and capable of breeding only the most robust and self-sufficient animals, orcs find it simpler to take from others the fruit of their labor. They are arrogant and quick to rage when challenged, but they care about honor only as long as doing so benefits them.
@@ -28729,10 +29318,10 @@ While the common saying is that orcs were created by Cattalm to destroy and brin
 
 ## Orcus
 - **Size/Type**: Huge demon prince, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 2 Con 7 Int 5 Wis 5 Cha 7}
+- **Ability**: Str 8 Dex 2 Con 7 Int 5 Wis 5 Cha 7
 - **Hit Points**: 519,  **Defense:** 48,  **Initiative:** +5
 - **Movement**: 15 meters, fly 15 meters
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +33, Reflex +28, Will +31
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +33, Reflex +28, Will +31
 - **Skills**: all +13
 - **Damage Res.**: Cold, Electricity, Fire
 - **Damage Imm.**: Void, Poison; weapons +2
@@ -28777,18 +29366,21 @@ Orcus can take 3 additional actions, chosen from those below, and only one per r
 **Taste of Death.** Orcus casts the Fiery Strike spell in a blasphemous way, with Void damage
 
 **Ecology**
-Environment: Abyss
-Organization: Unique
+
+| Environment: Abyss |
+| --- |
+| Organization: Unique |
+
 **Treasure Category**: Z
 **Description**
 Orcus is the Demon Prince of the undead. He prefers the company and service of the undead. He wishes to see all life disappear and transform into a gigantic necropolis of undead under his command. Orcus has the head and legs of a goat, horns similar to a ram's, a bloated body, bat wings, and a long tail.
 
 ## Otyugh
 - **Size/Type**: Large aberration, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 4 Int 3 Wis 1 Cha -2}
+- **Ability**: Str 3 Dex 0 Con 4 Int 3 Wis 1 Cha -2
 - **Hit Points**: 109,  **Defense:** 18,  **Initiative:** +3
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +9, Reflex +5, Will +6}
+- **Saving Throws**: Fortitude +9, Reflex +5, Will +6
 - **Damage Imm.**: Poison
 - **Immunities**: diseases
 - **Senses**: Darkvision 36 m
@@ -28814,8 +29406,11 @@ This reduction in the character's maximum Hit Points persists until the disease 
 ***Enraged:*** the otyugh emits a scent that inebriates the senses. All creatures within a 6-meter radius must make a DC 18 Will Saving Throw or act randomly, as per the Confusion spell (page ), until the end of the next round. Costs 2 Actions.
 
 **Ecology**
-Environment: Any Underground
-Organization: Solitary, pair, or group (3-4)
+
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary, pair, or group (3-4) |
+
 **Treasure Category**: I
 **Description**
 Otyughs are particularly dirty and horrid creatures that live in places that sane people tend to avoid. Their lairs are found in sewers, cesspools, garbage dumps, and the most fetid swamps: the dirtier a place is, the more it attracts otyughs. They love the role of scavenger and wander through underground caves in search of new morsels amid the waste. Once found, they gorge themselves and bring back to their lair what they can't consume in one sitting. Otyughs spend a lot of time in their filthy lairs, which they fill with carrion and manure, releasing foul effluvia.
@@ -28828,10 +29423,10 @@ An otyugh, by eating the excrement or part of a creature, can understand what di
 
 ## Owlbear
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 1 Con 3 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 5 Dex 1 Con 3 Int -4 Wis 1 Cha -2
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +4, Will +4}
+- **Saving Throws**: Fortitude +6, Reflex +4, Will +4
 - **Senses**: Darkvision 18 m
 - **Challenge**: 3 (700 XP)
 
@@ -28848,7 +29443,10 @@ An otyugh, by eating the excrement or part of a creature, can understand what di
 *Hit:* 10 (1d10 + 5) piercing damage.
 
 **EcologyEnvironment: Temperate Forests**
-Organization: Solitary, pair, or pack (3-8)
+
+| Organization: Solitary, pair, or pack (3-8) |
+| --- |
+
 **Treasure Category**: Incidental
 **Description**
 The origins of the Owlbear are a subject of debate among scholars of monstrous creatures. Most of them agree that it was a Wizard, in the past, who created the first specimen by combining a bear with a giant owl; perhaps as an experiment on some crazy concept of the nature of life, but more likely because of his complete madness. Whatever the original purpose of such a crazy creation as the Owlbear, the creature began to reproduce, and has become one of the best-known predators of wooded areas.
@@ -28866,10 +29464,10 @@ This Owlbear is present in arctic regions or snowy mountains. Unlike the normal 
 
 ## Panoptikhan
 - **Size/Type**: Large aberration, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 1 Con 2 Int 3 Wis 2 Cha 2}
+- **Ability**: Str 0 Dex 1 Con 2 Int 3 Wis 2 Cha 2
 - **Hit Points**: 235,  **Defense:** 29,  **Initiative:** +3
 - **Movement**: 1 m, flight 10 meters, hover
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +14, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +13, Will +14
 - **Senses**: Darkvision 36 m, truesight 18m
 - **Languages**: telepathy 50 m
 - **Challenge**: 12 (8400 XP)
@@ -28905,8 +29503,11 @@ This Owlbear is present in arctic regions or snowy mountains. Unlike the normal 
 ***Enraged:*** the Panoptikhan, in the grip of blindest fury, activates 1d6 random eyes on random targets. Costs 3 Actions.
 
 **Ecology**
-Environment: Any Underground
-Organization: Solitary, pair
+
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary, pair |
+
 **Treasure Category**: H
 **Description**
 Panoptikhans are xenophobic aberrations, balls of hard flying flesh equipped with a large central eye, a large mouth, and 7 tentacles about 1 meter long, each with an eye (about 10 cm in diameter) of different color.
@@ -28919,10 +29520,10 @@ Panoptikhans have a very long life, on the order of a thousand years, but there 
 
 ## Pegasus
 - **Size/Type**: Large celestial, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 3 Int 0 Wis 2 Cha 1}
+- **Ability**: Str 4 Dex 2 Con 3 Int 0 Wis 2 Cha 1
 - **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 18 m, flight 27 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +4, Will +4}
+- **Saving Throws**: Fortitude +5, Reflex +4, Will +4
 - **Skills**: Awareness +6
 - **Languages**: understands Celestial, Common, Elvish, and Sylvan but cannot speak
 - **Challenge**: 2 (450 XP)
@@ -28932,8 +29533,11 @@ Panoptikhans have a very long life, on the order of a thousand years, but there 
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
 **Ecology**
-Environment: Temperate and Warm Plains
-Organization: Solitary, pair, or herd (6-10)
+
+| Environment: Temperate and Warm Plains |
+| --- |
+| Organization: Solitary, pair, or herd (6-10) |
+
 **Treasure Category**: None
 **Description**
 The pegasus is a magnificent winged horse that sometimes serves the cause of good. Although highly prized as flying mounts, pegasi are shy creatures that rarely form friendships. A typical pegasus is 1.8 meters tall at the withers, weighs 750 kg, and has a wingspan of 6 meters. Most pegasi are white, but sometimes some specimens have different colors.
@@ -28952,10 +29556,10 @@ Pegasi and Unicorns were saved from Calicante's fury towards *horses* only by Lj
 
 ## Phoenix
 - **Size/Type**: Gargantuan celestial, Brave, Protective, Good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 6 Con 5 Int 5 Wis 6 Cha 6}
+- **Ability**: Str 8 Dex 6 Con 5 Int 5 Wis 6 Cha 6
 - **Hit Points**: 300,  **Defense:** 38,  **Initiative:** +6
 - **Movement**: 9 m, fly 27 m (good)
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +20, Reflex +21, Will +21
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +20, Reflex +21, Will +21
 - **Damage Imm.**: Fire, Light, Poison, +1 weapons
 - **Immunities**: grappled, restrained, paralyzed, petrified, prone, unconscious, fatigued, bleeding
 - **Senses**: Darkvision 18 m, Twilight Vision 18 m
@@ -28996,8 +29600,11 @@ The Phoenix can transform its feathers into flame without using Actions. These f
 ***Enraged:*** only legends tell of an angry Phoenix, and it is said that a Patron directly intervened.
 
 **Ecology**
-Environment: Deserts and warm hills
-Organization: Solitary
+
+| Environment: Deserts and warm hills |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: None
 **Description**
 Legend has it that Phoenixes are the companion birds of Ljust; they are certainly majestic and beautiful creatures that emanate a Light similar to that of the Patron of Genesis. The movement of their wings produces no sound while their voice is song. The phoenix is a legendary bird of fire and light that usually lives in deserts. They are very intelligent and wise creatures, and sometimes using their metamorphosis ability, they visit cities where they help those who fight against darkness.
@@ -29006,10 +29613,10 @@ Legend says that phoenixes are generated when a Knight of Sumkjir or a Disciple 
 
 ## Pit Fiend
 - **Size/Type**: Large devil, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 2 Con 7 Int 6 Wis 4 Cha 7}
+- **Ability**: Str 8 Dex 2 Con 7 Int 6 Wis 4 Cha 7
 - **Hit Points**: 403,  **Defense:** 40,  **Initiative:** +6
 - **Movement**: 9 m, flight 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +27, Reflex +22, Will +24
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +27, Reflex +22, Will +24
 - **Damage Res.**: Cold;
 - **Damage Imm.**: Fire, Poison, weapons +2
 - **Vulnerabilities**: Light
@@ -29050,8 +29657,11 @@ At will: *Detect Magic, Fireball*
 **Reaction: *Opportunity Attack***: the devil makes an attack against a creature that moves through or out of its 3-meter reach.
 
 **Ecology**
-Environment: Any (Hell)
-Organization: Solitary, pair, or council (3-9)
+
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, or council (3-9) |
+
 **Treasure Category**: G
 **Description**
 Pit fiends are powerful infernal rulers, generals of Hell's armies, and advisors to archdevils. With massive bodies and malevolent intellects, they dominate infernal stretches and subjugate mortal worlds. Standing over 4 meters tall and weighing more than 500 kg, they are armored and equipped with imposing wings.
@@ -29060,10 +29670,10 @@ Pit fiends gather armies, transforming lemures into true devils and aim to conqu
 
 ## Planetar Angel
 - **Size/Type**: Large celestial, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 7 Dex 5 Con 7 Int 4 Wis 6 Cha 7}
+- **Ability**: Str 7 Dex 5 Con 7 Int 4 Wis 6 Cha 7
 - **Hit Points**: 325,  **Defense:** 38,  **Initiative:** +5
 - **Movement**: 12 m, fly 36 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +23, Reflex +21, Will +22
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +23, Reflex +21, Will +22
 - **Skills**: Awareness +13
 - **Damage Res.**: Light;
 - **Immunities**: charmed, exhausted, frightened, +1 weapons
@@ -29100,18 +29710,21 @@ At will: *Know Traits*, *Invisibility* (self only)
 - The Planetar deals critical damage (2d6) every time it hits until the end of combat. Costs 1 Action.
 
 **Ecology**
-Environment: Any plane with good Traits
-Organization: Solitary or pair
+
+| Environment: Any plane with good Traits |
+| --- |
+| Organization: Solitary or pair |
+
 **Treasure Category**: Holy Greatsword +3
 **Description**
 Planetars are the generals of celestial armies dedicated to destroying evil. A planetar is typically 2.7 meters tall and weighs about 250 kg. They are excellent diplomats, but against fiends they prefer war rather than negotiating peace.
 
 ## Plesiosaur
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 3 Int -4 Wis 1 Cha -3}
+- **Ability**: Str 4 Dex 2 Con 3 Int -4 Wis 1 Cha -3
 - **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 6 m, swim 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
 - **Skills**: Stealth +4, Perception +3
 - **Challenge**: 2 (450 XP)
 
@@ -29122,18 +29735,21 @@ Planetars are the generals of celestial armies dedicated to destroying evil. A p
 *Hit:* 14 (3d6 + 4) piercing damage.
 
 **Ecology**
-Environment: Warm Aquatic
-Organization: Solitary, pair or pack (3-6)
+
+| Environment: Warm Aquatic |
+| --- |
+| Organization: Solitary, pair or pack (3-6) |
+
 **Treasure Category**: None
 **Description**
 The plesiosaur is a long-necked aquatic reptile. Although technically not a dinosaur, this creature and its kind are often found hunting in lakes and oceans where dinosaurs are commonly found.
 
 ## Pseudodragon
 - **Size/Type**: Tiny dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 2 Con 1 Int 0 Wis 1 Cha 0}
+- **Ability**: Str -2 Dex 2 Con 1 Int 0 Wis 1 Cha 0
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 5 meters, flight 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +4, Awareness +3
 - **Senses**: Darkvision 18 m, Blindsight 3 m
 - **Languages**: understands Common and Draconic but doesn't speak
@@ -29154,8 +29770,11 @@ The plesiosaur is a long-necked aquatic reptile. Although technically not a dino
 *Hit:* 4 (1d4 + 2) piercing damage and the target must succeed on a DC 11 Fortitude Saving Throw or be Confused for 1 round. If the Saving Throw is critically failed, the creature falls asleep until awakened.
 
 **Ecology**
-Environment: Temperate forests
-Organization: Solitary, pair, or nest (3-5)
+
+| Environment: Temperate forests |
+| --- |
+| Organization: Solitary, pair, or nest (3-5) |
+
 **Treasure Category**: R
 **Description**
 Pseudodragons are small relatives of true dragons, playful and shy. They communicate by chirping, hissing, growling, and purring, but can communicate telepathically with any intelligent creature. If approached peacefully with offerings of food, they are willing to share information about what is in their territory, but threats and violence make them flee.
@@ -29166,10 +29785,10 @@ Upon reaching adulthood, a pseudodragon's body is 30 centimeters long with a 60-
 
 ## Purple Worm
 - **Size/Type**: Gargantuan monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 9 Dex -2 Con 6 Int -5 Wis -1 Cha -3}
+- **Ability**: Str 9 Dex -2 Con 6 Int -5 Wis -1 Cha -3
 - **Hit Points**: 303,  **Defense:** 30,  **Initiative:** -2
 - **Movement**: 15 m, burrow 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +21, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +21, Reflex +13, Will +14
 - **Senses**: Blindsight 9 m, tremorsense 18 m
 - **Challenge**: 15 (13000 XP)
 
@@ -29192,8 +29811,11 @@ If the worm takes 30 or more damage in a single round from a creature inside it,
 *Hit:* 30 (8d6 + 9) bludgeoning damage and grappled. Each round the creature takes 15 crushing damage, DC 24 Fortitude save to escape.
 
 **Ecology**
-Environment: Any underground
-Organization: Solitary
+
+| Environment: Any underground |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: Incidental
 **Description**
 Purple worms are gigantic scavengers that inhabit the deepest regions of the world, eating any organic material they encounter. They are known for swallowing their prey whole. It's not unusual to hear of a group of adventurers disappearing inside the voracious jaws of a purple worm, screaming in terror as its members vanished one by one.
@@ -29204,10 +29826,10 @@ A purple worm generally claims a large underground cavern as its lair, and altho
 
 ## Quasit
 - **Size/Type**: Tiny demon, shapechanger, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 3 Con 0 Int -2 Wis 0 Cha 0}
+- **Ability**: Str -3 Dex 3 Con 0 Int -2 Wis 0 Cha 0
 - **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
 - **Movement**: 12 m (3 m, flight 12 m in bat form; 12 m, climb 12 m in centipede form; 12 m, swim 12 m in toad form)
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Skills**: Stealth +5
 - **Damage Res.**: Cold, Electricity, Fire; from non-magical weapons
 - **Damage Imm.**: Poison
@@ -29229,8 +29851,11 @@ A purple worm generally claims a large underground cavern as its lair, and altho
 ***Scare (1/Day).*** A creature chosen by the demon that is within 6 meters of it must succeed on a DC 12 Will Saving Throw or become frightened for 1 minute. The target can repeat the Saving Throw at the end of each of its turns, with -1d6 if the demon is in line of sight, ending the effect prematurely if it succeeds on the Saving Throw.
 
 **Ecology**
-Environment: Any (Abyss)
-Organization: Solitary or swarm (2-12)
+
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary or swarm (2-12) |
+
 **Treasure Category**: None
 **Description**
 The quasit is perhaps the least powerful demon, but it is not among the least respected: even quasits consider themselves superior to the hordes of Dretch and, true to their nature, the Dretch lack the courage or incentive to prove them wrong. The primary role in life of a quasit is that of a familiar in service to a spellcaster, but those quasits that escape this humiliating servitude acquire a will of their own and are much more dangerous. A typical quasit is 45 centimeters tall and weighs only 4 kg.
@@ -29241,10 +29866,10 @@ Newly created quasits come to life directly in the Material Plane, where they be
 
 ## Rakshasa
 - **Size/Type**: Medium fiend, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 3 Con 4 Int 1 Wis 3 Cha 5}
+- **Ability**: Str 2 Dex 3 Con 4 Int 1 Wis 3 Cha 5
 - **Hit Points**: 259,  **Defense:** 32,  **Initiative:** +3
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +17, Reflex +16, Will +16
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +17, Reflex +16, Will +16
 - **Skills**: Deception +10, Sense Emotions +8
 - **Damage Imm.**: bludgeoning, +1 weapons
 - **Senses**: Darkvision 18 m
@@ -29268,8 +29893,11 @@ At will: *Disguise Self, Minor Illusion, Detect Thoughts, Mage Hand*
 **Reaction: *Opportunity Attack***: the Rakshasa makes an attack against a creature that crosses or leaves its reach of 1 meter.
 
 **Ecology**
-Environment: Any
-Organization: Solitary, pair, or cult (3-12)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, or cult (3-12) |
+
 **Treasure Category**: +1 Dagger, I
 **Description**
 The rakshasa is an evil spirit that disguises itself as a humanoid creature so it can pursue its prey incognito. Personification of the taboos of most societies and capable of assuming the appearance of those it seeks to corrupt, a rakshasa performs many horrible actions. If they were human, their blasphemy, cannibalism, and even worse acts would mark them as criminals worthy of the cruelest of hells.
@@ -29282,10 +29910,10 @@ A rakshasa is 5.9 feet tall and weighs 198 pounds.
 
 ## Red Dragon Wyrmling
 - **Size/Type**: Medium dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2}
+- **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: 89,  **Defense:** 17,  **Initiative:** +1
 - **Movement**: 9 m, climb 9 m, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +4, Will +4}
+- **Saving Throws**: Fortitude +7, Reflex +4, Will +4
 - **Skills**: Stealth +2, Awareness +4
 - **Damage Imm.**: Fire
 - **Senses**: Darkvision 18 m, Blindsight 3 m
@@ -29299,17 +29927,20 @@ A rakshasa is 5.9 feet tall and weighs 198 pounds.
 ***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 5-meter cone. Each creature in that area must make a DC 16 Reflex Saving Throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 
 **Ecology**
-Environment: Warm mountains
-Organization: Solitary
+
+| Environment: Warm mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 See Ancient Red Dragon Description.
 
 ## Remorhaz
 - **Size/Type**: Huge monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 7 Dex 1 Con 5 Int -3 Wis 0 Cha -3}
+- **Ability**: Str 7 Dex 1 Con 5 Int -3 Wis 0 Cha -3
 - **Hit Points**: 224,  **Defense:** 27,  **Initiative:** +1
 - **Movement**: 30 ft, burrow 20 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +16, Reflex +12, Will +11
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +16, Reflex +12, Will +11
 - **Senses**: Darkvision 60 ft, tremorsense 60 ft
 - **Challenge**: 11 (7200 XP)
 
@@ -29328,8 +29959,11 @@ If the remorhaz takes 30 or more damage in a single round from a creature inside
 ***Enraged:*** The Remorhaz heats its body even more until the end of combat, increasing to 18 (6d6) the fire damage for anyone within 3 feet.
 
 **Ecology**
-Environment: Cold Deserts and Glaciers
-Organization: Solitary
+
+| Environment: Cold Deserts and Glaciers |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: None
 **Description**
 In a world of ice and snow, remohrazes are particularly feared for the terrible fire that burns within their bodies. This inner fire causes plates along their back to become red-hot when the creature is particularly angry, excited, or panicked. Creatures that have adapted to arctic regions are often particularly vulnerable to fire, which makes the remorhaz's primary defense incredibly powerful and ensures its role as a dangerous predator of icy regions. Remohrazes live in extensive labyrinths dug into the heart of glaciers. These beasts use their heat to dig tunnels in the ice, tunnels whose smooth glassy walls quickly refreeze along their trail, creating numerous incredibly stable mazes.
@@ -29338,10 +29972,10 @@ Intelligent despite their appearance, remohrazes understand the language of Gian
 
 ## Rug of Smothering
 - **Size/Type**: Large construct, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 0 Int -5 Wis -4 Cha -5}
+- **Ability**: Str 3 Dex 2 Con 0 Int -5 Wis -4 Cha -5
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 3 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Damage Imm.**: Poison
 - **Immunities**: blinded, charmed, deafened, paralyzed, petrified, frightened
 - **Senses**: Blindsight 18 m (blind beyond this radius)
@@ -29359,10 +29993,10 @@ Intelligent despite their appearance, remohrazes understand the language of Gian
 
 ## Rust Monster
 - **Size/Type**: Medium Monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 1 Con 1 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 1 Dex 1 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 40 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Darkvision 60 ft
 - **Challenge**: 1/2 (100 XP)
 
@@ -29379,8 +30013,11 @@ Intelligent despite their appearance, remohrazes understand the language of Gian
 If the object touched is metal armor or a metal shield being worn or carried, it takes a permanent and cumulative -2 penalty to the Defense it provides. Armor reduced to a Defense of 0 or shields that drop to a +0 bonus are destroyed. If the object touched is a metal weapon being held by someone, it rusts as described in the Rust Metal trait.
 
 **Ecology**
-Environment: Any Underground
-Organization: Solitary, pair, or nest (3-10)
+
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary, pair, or nest (3-10) |
+
 **Treasure Category**: Incidental (no metal treasure)
 **Description**
 Of all the terrifying beasts an explorer might encounter underground, the rust monster is the one that aims for the adventurer's treasure. About three feet long and weighing at least 220 pounds, the rust monster resembles a crustacean, and its alien nutritional process makes it even more frightening.
@@ -29393,10 +30030,10 @@ Fortunately, it's often possible to escape the attention of a rust monster by th
 
 ## Sahuagin
 - **Size/Type**: Medium humanoid (sahuagin), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 0 Con 1 Int 1 Wis 1 Cha -1}
+- **Ability**: Str 1 Dex 0 Con 1 Int 1 Wis 1 Cha -1
 - **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +1
 - **Movement**: 30 ft, swim 40 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Perception +5
 - **Senses**: Darkvision 120 ft
 - **Languages**: Sahuagin
@@ -29423,7 +30060,10 @@ Fortunately, it's often possible to escape the attention of a rust monster by th
 *Hit:* 3 (1d4 + 1) piercing damage.
 
 **Ecology**
-Environment: Temperate or Warm Oceans
+
+| Environment: Temperate or Warm Oceans |
+| --- |
+
 Organization: Solitary, pair, team (5-8), patrol (11-20 plus 1 lieutenant of 3rd level and 1-2 Sharks), band (20-80 plus 100\% non-combatants, 1 lieutenant of 3rd level and 1 captain of 4th level per 20 adults, and 1-2 Sharks) or tribe (70-160 plus 100\% non-combatants, 1 lieutenant of 3rd level per 20 adults, 1 captain of 4th level per 40 adults, 9 guards of 4th level, 1-4 novices of 3rd-6th level, 1 priestess of 7th level, 1 baron of 6th-8th level, and 5-8 Sharks)
 **Treasure Category**: NPC Equipment (Trident, Heavy Crossbow with 10 Bolts, L)
 **Description**
@@ -29433,10 +30073,10 @@ Sahuagin are subject to genetic mutations, and when a mutant is born, it almost 
 
 ## Salamander
 - **Size/Type**: Large elemental, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 2 Int 0 Wis 0 Cha 1}
+- **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 0 Cha 1
 - **Hit Points**: 107,  **Defense:** 20,  **Initiative:** +2
 - **Movement**: 30 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +7, Will +5}
+- **Saving Throws**: Fortitude +7, Reflex +7, Will +5
 - **Dmg. Res.**: from non-magical weapons
 - **Senses**: Darkvision 60 ft
 - **Languages**: Ignan
@@ -29461,8 +30101,11 @@ Sahuagin are subject to genetic mutations, and when a mutant is born, it almost 
 ***Enraged:*** the Salamander concentrates its flames in a ranged attack. A creature within 30 feet must make a Reflex Saving Throw DC 18 to halve the damage. The creature is hit by a globe of flames that causes 4d6 fire damage. Costs 2 Actions.
 
 **Ecology**
-Environment: Any (Plane of Fire)
-Organization: Solitary, pair or group (3-5)
+
+| Environment: Any (Plane of Fire) |
+| --- |
+| Organization: Solitary, pair or group (3-5) |
+
 **Treasure Category**: Standard (Spear, P)
 **Description**
 Salamanders are native to the Plane of Fire, where their legions of fierce fighters are much feared by other inhabitants of the Plane. Because many of the strongest Fire Elemental Races Enslave Salamanders for their Skill in metallurgy and combat ability, Salamanders hate Efreet and others with fervor.
@@ -29475,10 +30118,10 @@ Living in such extreme areas, Salamanders possess only treasures that withstand 
 
 ## Satyr
 - **Size/Type**: Medium fey, chaotic
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 3 Con 0 Int 1 Wis 0 Cha 2}
+- **Ability**: Str 1 Dex 3 Con 0 Int 1 Wis 0 Cha 2
 - **Hit Points**: 24,  **Defense:** 15,  **Initiative:** +3
 - **Movement**: 40 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +5, Perform +6, Perception +2
 - **Languages**: Common, Elvish, Sylvan
 - **Challenge**: 1/2 (100 XP)
@@ -29498,8 +30141,11 @@ Living in such extreme areas, Salamanders possess only treasures that withstand 
 *Hit:* 6 (1d6 + 3) piercing damage.
 
 **Ecology**
-Environment: Temperate Forests
-Organization: Solitary, pair, band (3-6) or revel (7-11)
+
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary, pair, band (3-6) or revel (7-11) |
+
 **Treasure Category**: Dagger, Short Bow plus 20 Arrows, perfect pan flute, S
 **Description**
 Satyrs, known in many regions as fauns, are debauched and hedonistic creatures from the deeper and more primordial parts of the forests. They worship wine, music, and the pleasures of the flesh, and are renowned as libertines and dandies who court unsuspecting maidens and shepherds and leave behind a trail of embarrassing explanations and unwanted pregnancies.
@@ -29512,10 +30158,10 @@ Children born from these encounters are always full-blooded satyrs and are gener
 
 ## Scourger
 - **Size/Type**: Large monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex -1 Con 3 Int 3 Wis 3 Cha -2}
+- **Ability**: Str 4 Dex -1 Con 3 Int 3 Wis 3 Cha -2
 - **Hit Points**: 108,  **Defense:** 17,  **Initiative:** +3
 - **Movement**: 3 m, climb 3 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +8, Reflex +4, Will +8}
+- **Saving Throws**: Fortitude +8, Reflex +4, Will +8
 - **Proficiencies**: Stealth +5, Perception +6
 - **Senses**: Darkvision 18 m
 - **Languages**: common, ancient languages (Latin, Greek, Celtic...)
@@ -29546,8 +30192,11 @@ Children born from these encounters are always full-blooded satyrs and are gener
 ***Enraged:*** the scourger emits a nauseating cacophonic wave. All creatures within 6 meters must make a Fortitude Saving Throw DC 18 or be Nauseated until the end of the next round. Costs 2 Actions.
 
 **Ecology**
-Environment: Any Underground
-Organization: Solitary, pair, or group (3-6)
+
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary, pair, or group (3-6) |
+
 **Treasure Category**: D
 **Description**
 The scourger is an ambush hunter. Capable of modifying the coloration and shape of its body, a hidden scourger looks like a stalagmite of stone or ice (or in places with low ceilings, a column of stone or ice). In areas without these features to hide in, a scourger can compress its body to look like a boulder. The whips it can extrude are not flesh but a thick, semi-liquid material similar to partially melted wax but with the strength of an iron chain and the ability to numb flesh and weaken strength. The scourger can use these whips with great skill and make them fly up to 15 meters to steal objects that attract its attention.
@@ -29557,10 +30206,10 @@ A scourger is 2.7 meters tall and weighs 1,100 kg.
 
 ## Sea Hag
 - **Size/Type**: Medium fey, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 3 Int 1 Wis 1 Cha 1}
+- **Ability**: Str 3 Dex 1 Con 3 Int 1 Wis 1 Cha 1
 - **Hit Points**: 52,  **Defense:** 15,  **Initiative:** +1
 - **Movement**: 9 m, swim 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Senses**: Darkvision 18 m
 - **Languages**: Aquan, Common, Giant
 - **Challenge**: 2 (450 XP)
@@ -29582,8 +30231,11 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 ***Death Glare.*** The hag targets one frightened creature she can see within 9 meters of her. If the target can see the hag, it must succeed on a Will Saving Throw DC 13 against this magic or drop to 0 Hit Points.
 
 **Ecology**
-Environment: any aquatic
-Organization: solitary or coven (3 hags of any kind)
+
+| Environment: any aquatic |
+| --- |
+| Organization: solitary or coven (3 hags of any kind) |
+
 **Treasure Category**: R (C)
 **Description**
 These wicked, monstrous hags possess terrifying traits that few dare to gaze upon, they take pleasure in the discord and death of sailors, and torment seafarers with inescapable calamities. Sea hags always have a terrible appearance and, despite their voracious nature, they are generally emaciated creatures that seem about to starve to death. They are 1.8 meters tall and weigh 75 kg.
@@ -29594,10 +30246,10 @@ Sea hags form covens similar to those of other hags, but their aquatic nature ge
 
 ## Shadow
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 2 Con 1 Int -2 Wis 0 Cha -1}
+- **Ability**: Str -2 Dex 2 Con 1 Int -2 Wis 0 Cha -1
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +4 (+6 in dim light or darkness)
 - **Damage Res.**: Acid, Cold, Electricity, Fire, Sound; non-magical weapons
 - **Damage Imm.**: Void, Poison
@@ -29624,18 +30276,21 @@ If a non-evil humanoid dies from this attack, a new shadow rises from its corpse
 ***Steal Shadow.*** If the shadow has already hit twice with Strength Drain, it can use an Action to steal the opponent's shadow. Stealing a shadow grants the shadow 10 Temporary Hit Points. The creature regains its shadow at the next dawn.
 
 **Ecology**
-Environment: Any
-Organization: Solitary, pair, group (3-6) or swarm (7-12)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, group (3-6) or swarm (7-12) |
+
 **Treasure Category**: None
 **Description**
 The evil shadow moves along the border between the darkness of the shadows and the harsh truth of light. The shadow prefers to haunt the ruins that civilization leaves behind, where it hunts living creatures foolish enough to stumble into its territory. The shadow is a horrible undead, and as such has no apparent purposes or motivations beyond sucking life force and vitality from living beings.
 
 ## Shambling Mound
 - **Size/Type**: Large plant, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex -1 Con 3 Int -3 Wis 0 Cha -3}
+- **Ability**: Str 4 Dex -1 Con 3 Int -3 Wis 0 Cha -3
 - **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
 - **Movement**: 6 m, swim 6 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +8, Reflex +4, Will +5}
+- **Saving Throws**: Fortitude +8, Reflex +4, Will +5
 - **Skills**: Stealth +2
 - **Damage Resistance**: Cold, Fire
 - **Damage Immunity**: Lightning
@@ -29656,8 +30311,11 @@ The evil shadow moves along the border between the darkness of the shadows and t
 ***Enraged:*** The Shambling Mound releases a wave of electricity. All creatures within 3 meters take 3d6 lightning damage. Costs 2 Actions.
 
 **Ecology**
-Environment: Temperate Forests or Swamps
-Organization: Solitary
+
+| Environment: Temperate Forests or Swamps |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: A
 **Description**
 Shambling mounds, also called simply shamblers, look like masses of rotting vegetation. They are intelligent carnivorous plants, with a weakness for elven flesh. The brain and sensory organs are located in the upper part of the body. Shambling mounds usually have a circumference of 2.3 meters and are 1.8 to 2.7 meters tall. They weigh about 1,900 kg.
@@ -29670,10 +30328,10 @@ Shambling mounds usually lead a nomadic and solitary existence in deep forests a
 
 ## Shield Guardian
 - **Size/Type**: Large construct, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -4}
+- **Ability**: Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -4
 - **Hit Points**: 146,  **Defense:** 20,  **Initiative:** -1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +11, Reflex +6, Will +7}
+- **Saving Throws**: Fortitude +11, Reflex +6, Will +7
 - **Damage Imm.**: Poison
 - **Immunities**: charmed, paralyzed, fatigued, frightened
 - **Senses**: Darkvision 18 m, Blindsight 3 m
@@ -29698,10 +30356,10 @@ Shambling mounds usually lead a nomadic and solitary existence in deep forests a
 
 ## Shrieking Fungus
 - **Size/Type**: Medium plant, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -5 Dex -5 Con 0 Int -5 Wis -4 Cha -5}
+- **Ability**: Str -5 Dex -5 Con 0 Int -5 Wis -4 Cha -5
 - **Hit Points**: 15,  **Defense:** 7,  **Initiative:** -5
 - **Movement**: 0 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Immunities**: blinded, deafened, frightened
 - **Senses**: Blindsight 9 m (blind beyond this range)
 - **Challenge**: 0 (10 XP)
@@ -29711,8 +30369,11 @@ Shambling mounds usually lead a nomadic and solitary existence in deep forests a
 **Actions*Shriek.*** When a bright light or a creature comes within 9 meters of the shrieking fungus, it emits a shriek audible up to 90 meters away. The shrieking fungus continues to shriek until the source of the disturbance has moved out of range and for an additional 1d4 rounds, or until its cap has deflated.
 
 **Ecology**
-Environment: Any underground
-Organization: Solitary, pair, or patch (3-12)
+
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, pair, or patch (3-12) |
+
 **Treasure Category**: Incidental
 **Description**
 A shrieking fungus is about 50 cm tall, with a broad brown cap. Once it has emitted a shriek, the cap reinflates in 1d3 minutes.
@@ -29721,10 +30382,10 @@ It is said that cooks of the depths specialize in cooking these mushrooms into e
 
 ## Silku
 - **Size/Type**: Medium demon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 3 Int 1 Wis 0 Cha 2}
+- **Ability**: Str 2 Dex 2 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
 - **Skills**: Stealth +2, Deception +5
 - **Damage Res.**: Cold, Electricity; from non-magical or non-silvered weapons
 - **Damage Imm.**: Poison
@@ -29744,8 +30405,11 @@ It is said that cooks of the depths specialize in cooking these mushrooms into e
 ***Regeneration.*** The Silku regenerates 2 HP at the end of its turn unless it has been damaged with acid or fire, the effect is active even if the Silku has negative Hit Points.
 
 **Ecology**
-Environment: Any (Abyss)
-Organization: Small groups (3-6)
+
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Small groups (3-6) |
+
 **Treasure Category**: P
 **Description**
 "...Their faces had something strange about them, they were like... blurred, it was the only part of their body that I couldn't bring into focus. Surprised by the strangeness, I blinked several times and concentrated my gaze on the faces of both. I felt a strange tingling on my face and then my vision cleared.
@@ -29755,10 +30419,10 @@ From *The Guardian of Falkonia*, novel by Federica Angeli
 
 ## Silver Dragon Wyrmling
 - **Size/Type**: Medium dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2}
+- **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +1
 - **Movement**: 9 m, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Skills**: Stealth +2, Awareness +4
 - **Dmg. Imm.**: Cold
 - **Senses**: Darkvision 18 m, Blindsight 3 m
@@ -29776,18 +30440,21 @@ From *The Guardian of Falkonia*, novel by Federica Angeli
 *Paralyzing Breath.* The dragon exhales paralyzing gas in a 5-meter cone. Each creature in that area must succeed on a DC 14 Fortitude Saving Throw or be paralyzed for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 **Ecology**
-Environment: Temperate Mountains
-Organization: Solitary
+
+| Environment: Temperate Mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
 Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably.
 
 ## Skeleton
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 2 Con 2 Int -2 Wis -1 Cha -3}
+- **Ability**: Str 0 Dex 2 Con 2 Int -2 Wis -1 Cha -3
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 30 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Dmg. Res.**: piercing, slashing
 - **Dmg. Imm.**: Poison
 - **Immunities**: fatigued, bleeding
@@ -29804,18 +30471,21 @@ Among all dragons, silver dragons are the most courageous, and adhere to a chiva
 ***Short Bow.** Ranged Weapon Attack*: +4 to hit, range 80 ft, one target.*Hit:* 5 (1d6 + 2) piercing damage.
 
 **Ecology**
-Environment: Any
-Organization: Any
+
+| Environment: Any |
+| --- |
+| Organization: Any |
+
 **Treasure Category**: None (Broken Chain Mail, Broken Scimitar)
 **Description**
 Skeletons are animated bones of the dead, brought to unlife by sacrilegious magic. For the most part, skeletons are mindless automatons.
 
 ## Solar Angel
 - **Size/Type**: Large celestial, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 8 Dex 6 Con 8 Int 7 Wis 7 Cha 10}
+- **Ability**: Str 8 Dex 6 Con 8 Int 7 Wis 7 Cha 10
 - **Hit Points**: 426,  **Defense:** 46,  **Initiative:** +7
 - **Movement**: 15 m, fly 45 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +29, Reflex +27, Will +28
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +29, Reflex +27, Will +28
 - **Skills**: Awareness +16
 - **Damage Res.**: Light; Fire, Cold, Electricity
 - **Immunities**: charmed, poisoned, exhausted, frightened, +2 weapons
@@ -29860,8 +30530,11 @@ The solar can take 3 bonus actions, chosen from the options below. It can use on
 **Teleport.** The solar magically teleports up to 36 meters away, along with any equipment it is wearing or carrying, to an unoccupied space it can see.
 
 **Ecology**
-Environment: Any plane with good Traits
-Organization: Solitary or pair
+
+| Environment: Any plane with good Traits |
+| --- |
+| Organization: Solitary or pair |
+
 **Treasure Category**: Full Plate +5, Dancing Greatsword +5, Composite Longbow +5
 **Description**
 Solars are the most powerful among angels, usually the right hand of deities or champions of important causes. They have an almost human appearance and are about 2.7 meters tall, with silver or golden skin. They are blessed with powerful magical abilities and are capable of killing the strongest evil creatures.
@@ -29876,10 +30549,10 @@ Respected by all angels, solars sometimes command armies against the legions of 
 
 ## Specter
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -5 Dex 2 Con 0 Int 0 Wis 0 Cha 2}
+- **Ability**: Str -5 Dex 2 Con 0 Int 0 Wis 0 Cha 2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
 - **Movement**: 0 ft, fly 50 ft, hover
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Skills**: Stealth +8,Perception +3
 - **Dmg. Res.**: Acid, Cold, Fire, Electricity, Thunder, from Void, from non-magical weapons
 - **Immunities**: charmed, frightened, fatigued, grappled, paralyzed, petrified, poison, prone, restrained
@@ -29896,8 +30569,11 @@ Respected by all angels, solars sometimes command armies against the legions of 
 *Hit:* 10 damage (3d6) from Void. The creature loses the same amount from Maximum Hit Points. The specter regains 2 Hit Points.
 
 **Ecology**
-Environment: Any
-Organization: Solitary
+
+| Environment: Any |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: none
 **Description**
 Specters are evil undead that hate sunlight and living beings. Their genesis is often due to the violent death of murderers and evil beings. Like ghosts, specters haunt the places where they died and try to bring others with them.
@@ -29906,10 +30582,10 @@ A specter closely resembles how it was in life and can be easily recognized by t
 
 ## Spined Devil
 - **Size/Type**: Small devil, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 2 Con 1 Int 0 Wis 2 Cha -1}
+- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 2 Cha -1
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 6 m, flight 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +4}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +4
 - **Damage Res.**: Cold; from non-magical or non-silvered weapons
 - **Damage Imm.**: Fire, Poison
 - **Vulnerabilities**: silver, Light
@@ -29940,8 +30616,11 @@ A specter closely resembles how it was in life and can be easily recognized by t
 *Hits:* 4 (1d4 + 2) piercing damage plus 3 (1d6) fire damage.
 
 **Ecology**
-Environment: Any (Hell)
-Organization: Solitary, pair, group (3-5) or platoon (6-11)
+
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, group (3-5) or platoon (6-11) |
+
 **Treasure Category**: J
 **Description**
 Sentinels of the vaults of Hell, jailers of the blackest souls, and living weapons of the infernal forges. A Spined Devil loves to feel warm blood on its spines and prefers to throw itself into the fray when given the opportunity to fight.
@@ -29950,10 +30629,10 @@ Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lea
 
 ## Spirit Naga
 - **Size/Type**: Large monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 3 Con 2 Int 3 Wis 2 Cha 3}
+- **Ability**: Str 4 Dex 3 Con 2 Int 3 Wis 2 Cha 3
 - **Hit Points**: 162,  **Defense:** 25,  **Initiative:** +3
 - **Movement**: 40 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +10, Reflex +11, Will +10
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +10, Reflex +11, Will +10
 - **Damage Imm.**: Poison
 - **Condition Imm.**: charmed
 - **Senses**: Darkvision 60 ft
@@ -29984,10 +30663,10 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 
 ## Sprite
 - **Size/Type**: Tiny fey, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 4 Con 0 Int 2 Wis 1 Cha 0}
+- **Ability**: Str -4 Dex 4 Con 0 Int 2 Wis 1 Cha 0
 - **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
 - **Movement**: 10 ft, fly 40 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Skills**: Stealth +8 (the check is made with -1d6 if the sprite is flying),Perception +3
 - **Languages**: Common, Elvish, Sylvan
 - **Challenge**: 1/4 (50 XP)
@@ -30016,10 +30695,10 @@ Although sprites themselves have an uncultivated and wild nature, they have a he
 
 ## Steam Mephit
 - **Size/Type**: Small elemental, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 0 Con 0 Int 0 Wis 0 Cha 1}
+- **Ability**: Str -3 Dex 0 Con 0 Int 0 Wis 0 Cha 1
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
 - **Movement**: 9 m, fly 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Imm.**: Poison
 - **Senses**: Darkvision 18 m
 - **Languages**: Aquan, Ignan
@@ -30038,8 +30717,11 @@ Although sprites themselves have an uncultivated and wild nature, they have a he
 ***Steam Breath (Recharge 6).*** The mephit exhales a 5-meter cone of scalding steam. Each creature in that area must make a Reflex Saving Throw DC 10, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
 
 **Ecology**
-Environment: Any (elemental plane of fire)
-Organization: Solitary, pair, group (3-6) or swarm (7-12)
+
+| Environment: Any (elemental plane of fire) |
+| --- |
+| Organization: Solitary, pair, group (3-6) or swarm (7-12) |
+
 **Treasure Category**: J
 **Description**
 Mephits are the servants of powerful elemental creatures. The key sites and locations of the elemental planes are filled with mephits bustling to perform an important duty or task.
@@ -30048,10 +30730,10 @@ Steam mephits are commonly found on the Plane of Fire. These mephits are insolen
 
 ## Stirge
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2}
+- **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
 - **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
 - **Movement**: 10 ft, fly 40 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Senses**: Darkvision 60 ft
 - **Challenge**: 1/8 (25 XP)
 
@@ -30062,8 +30744,11 @@ Steam mephits are commonly found on the Plane of Fire. These mephits are insolen
 The stirge can detach itself by spending 1 Action. It does so automatically after it has drained 10 Hit Points of blood from the target or the target dies. A creature, including the target, can use an Action to detach the stirge.
 
 **Ecology**
-Environment: Warm and temperate swamps
-Organization: Solitary, colony (2-4), flock (5-8), swarm (9-14) or plague (15-40)
+
+| Environment: Warm and temperate swamps |
+| --- |
+| Organization: Solitary, colony (2-4), flock (5-8), swarm (9-14) or plague (15-40) |
+
 **Treasure Category**: None
 **Description**
 Stirges are dangerous bloodsuckers that infest swamps and prey on wildlife, livestock, and unwary travelers. Although individually weak, swarms of these creatures are capable of draining a man in minutes, leaving behind only a desiccated corpse.
@@ -30074,10 +30759,10 @@ Stirges are usually about 12 inches long, with a wingspan of about twice that, a
 
 ## Stone Giant
 - **Size/Type**: Huge giant, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 2 Con 5 Int 0 Wis 1 Cha -1}
+- **Ability**: Str 6 Dex 2 Con 5 Int 0 Wis 1 Cha -1
 - **Hit Points**: 148,  **Defense:** 23,  **Initiative:** +2
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +12, Reflex +9, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +12, Reflex +9, Will +8
 - **Skills**: Athletics +12
 - **Senses**: Darkvision 18 m
 - **Languages**: Giant
@@ -30104,8 +30789,11 @@ Stirges are usually about 12 inches long, with a wingspan of about twice that, a
 ***Enraged:*** The Stone Giant concentrates its energies making the skin as hard as stone. Until the end of the next round it gains Damage Reduction equal to 13. Costs 2 Actions
 
 **Ecology**
-Environment: Temperate mountains
-Organization: Solitary, group (2-5), band (4-8), hunting party (9-12 plus 1 Elder) or tribe (13-30 plus 35\% noncombatants, 1-3 Elders and 4-6 Dire Bears)
+
+| Environment: Temperate mountains |
+| --- |
+| Organization: Solitary, group (2-5), band (4-8), hunting party (9-12 plus 1 Elder) or tribe (13-30 plus 35\% noncombatants, 1-3 Elders and 4-6 Dire Bears) |
+
 **Treasure Category**: Giant Greatclub, P
 **Description**
 Stone giants prefer thick leather garments, dyed in shades of brown and gray to blend in with the stone that surrounds them. Adults are about 3.6 meters tall, weigh around 750 kg, and can live up to 800 years.
@@ -30118,10 +30806,10 @@ Older stone giants tend to move away from the tribe for long periods, to live in
 
 ## Stone Golem
 - **Size/Type**: Large construct, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex -1 Con 5 Int -4 Wis 0 Cha -5}
+- **Ability**: Str 6 Dex -1 Con 5 Int -4 Wis 0 Cha -5
 - **Hit Points**: 205,  **Defense:** 24,  **Initiative:** -1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +15, Reflex +9, Will +10
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +9, Will +10
 - **Damage Imm.**: Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: Darkvision 36 m
@@ -30149,8 +30837,11 @@ Older stone giants tend to move away from the tribe for long periods, to live in
 ***Slow (Recharge 5-6).*** The golem targets one or more creatures within 3 meters of it that it can see. Each target must make a Will Saving Throw DC 24 against this magic. On a failed save, the target is Slowed 2/1 minute. The target can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself on a success.
 
 **Ecology**
-Environment: Any
-Organization: Solitary or group (2-4)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary or group (2-4) |
+
 **Treasure Category**: None
 **Description**
 A stone golem has a humanoid body made of stone, often stylized to suit its creator. For example, it can be sculpted to appear wearing armor, with special symbols carved on the breastplate, or have designs inlaid in the stone of its limbs. The head is often carved to look like a helmet or the head of some beast. Although it may be sculpted with a shield or a stone weapon such as a sword, these aesthetic choices do not affect its combat abilities.
@@ -30164,10 +30855,10 @@ The body of a stone golem is carved from a single block of hard stone, such as g
 
 ## Storm Giant
 - **Size/Type**: Huge giant, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 9 Dex 2 Con 5 Int 3 Wis 4 Cha 4}
+- **Ability**: Str 9 Dex 2 Con 5 Int 3 Wis 4 Cha 4
 - **Hit Points**: 262,  **Defense:** 31,  **Initiative:** +3
 - **Movement**: 15 m, swim 15 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +18, Reflex +15, Will +17
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +18, Reflex +15, Will +17
 - **Skills**: Arcana +8, Athletics +14, History +8
 - **Damage Res.**: Cold
 - **Damage Imm.**: Lightning, Thunder
@@ -30201,8 +30892,11 @@ At will: *Feather Fall, detect magic,* *levitation, Light*
 ***Enraged:*** The storm giant charges the entire area around itself with electricity until the end of combat. A creature that ends its round within 6 meters of the giant takes 13 (3d8) lightning damage. Costs 1 Action.
 
 **Ecology**
-Environment: Any warm
-Organization: Solitary or family (2-5 plus 1 wizard or Devotee of 7th-10th level, 1-2 Rocs, 2-6 Griffons and 2-8 Sharks)
+
+| Environment: Any warm |
+| --- |
+| Organization: Solitary or family (2-5 plus 1 wizard or Devotee of 7th-10th level, 1-2 Rocs, 2-6 Griffons and 2-8 Sharks) |
+
 **Treasure Category**: Perfect Plate Armor, Perfect Composite Longbow [Strength +9] with 20 Arrows, Perfect Greatsword, H
 **Description**
 Storm giants tend to have tanned complexions, though rare specimens have purple skin, purple or dark blue hair, and silver-gray or purple eyes. The color purple is considered auspicious among storm giants, and those who possess it tend to become leaders among their people. Adults are normally 6.3 meters tall and weigh 6000 kg. Storm giants can live up to 600 years.
@@ -30215,18 +30909,16 @@ Storm giants live in beautiful towers, castles, or in walled settlements and lov
 
 ## Succubus
 - **Size/Type**: Medium demon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 3 Con 1 Int 2 Wis 1 Cha 5}
+- **Ability**: Str -1 Dex 3 Con 1 Int 2 Wis 1 Cha 5
 - **Hit Points**: 87,  **Defense:** 20,  **Initiative:** +3
 - **Movement**: 9 m, flight 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +7, Will +5}
+- **Saving Throws**: Fortitude +5, Reflex +7, Will +5
 - **Skills**: Stealth +5, Detect Emotions +5, Awareness +5, Deception +9
 - **Damage Res.**: Cold, Electricity, Fire, Poison; from non-magical weapons
 - **Senses**: Darkvision 18 m
 - **Vulnerabilities**: cold iron, Light
 - **Languages**: Abyssal, Common, Infernal, telepathy 18 m
 - **Challenge**: 4 (1100 XP)
-
-\rule
 
 ***Telepathic Bond.*** The fiend ignores range restrictions of its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.
 
@@ -30245,18 +30937,21 @@ The fiend can only have one target charmed at a time. If it charms another, the 
 ***Ethereal Form.*** The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
 
 **Ecology**
-Environment: Any (Abyss)
-Organization: Solitary, pair, or harem (3-12)
+
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary, pair, or harem (3-12) |
+
 **Treasure Category**: I
 **Description**
 Among the demonic hordes, a succubus can often reach very high levels of power, using her manipulations and sensual charm, and many demonic wars rage because of the subtle machinations of these creatures. A succubus originates from the souls of particularly libidinous and greedy evil mortals.
 
 ## Tarrasque
 - **Size/Type**: Colossal monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 10 Dex 0 Con 10 Int -2 Wis 0 Cha 0}
+- **Ability**: Str 10 Dex 0 Con 10 Int -2 Wis 0 Cha 0
 - **Hit Points**: 615,  **Defense:** 52,  **Initiative:** +0
 - **Movement**: 80 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +40, Reflex +30, Will +30
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +40, Reflex +30, Will +30
 - **Dmg. Imm.**: Fire, Poison, Electricity; +2 weapons
 - **Immunities**: charmed, paralyzed, frightened, fatigued
 - **Senses**: Blindsight 120 ft
@@ -30307,8 +31002,11 @@ The Tarrasque can take 3 Legendary Actions, choosing from the options below. It 
 **Move.** The Tarrasque moves up to half its speed.
 
 **Ecology**
-Environment: Any
-Organization: Solitary
+
+| Environment: Any |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: None
 **Description**
 The legendary Tarrasque is among the most destructive monsters in the world. Fortunately, it spends most of its time in a kind of deep slumber in an unknown cavern in some remote corner of the world. When it awakens, however, entire kingdoms die.
@@ -30319,10 +31017,10 @@ Legend says that the Tarrasque is Cattalm's pet.
 
 ## Tentacled Crawler Worm
 - **Size/Type**: Large monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 1 Con 3 Int -4 Wis 1 Cha -3}
+- **Ability**: Str 4 Dex 1 Con 3 Int -4 Wis 1 Cha -3
 - **Hit Points**: 89,  **Defense:** 18,  **Initiative:** +1
 - **Movement**: 9 m, climb 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +5, Will +5}
+- **Saving Throws**: Fortitude +7, Reflex +5, Will +5
 - **Senses**: Darkvision 18 m
 - **Challenge**: 4 (1000 XP)
 
@@ -30339,8 +31037,11 @@ Legend says that the Tarrasque is Cattalm's pet.
 *Hit:* 1 bludgeoning damage. The target must make a DC 18 Fortitude Saving Throw or be paralyzed until the end of its next round.
 
 **Ecology**
-Environment: Any underground
-Organization: Solitary, pair, tribe (8-12 +3d6 young)
+
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, pair, tribe (8-12 +3d6 young) |
+
 **Treasure Category**: Incidental
 **Description**
 A typical Tentacled Crawler Worm is an annelid almost 3 meters long and weighs about 400 kilograms. Dark in color (various shades from blue to green to brown), it is a wide worm equipped with a powerful mouth and long, light tentacles all along its head.
@@ -30353,10 +31054,10 @@ The origins of the Tentacled Crawler Worms are rather speculative; some hypothes
 
 ## Tree Man (Arborom)
 - **Size/Type**: Huge plant, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex -1 Con 5 Int 1 Wis 3 Cha 1}
+- **Ability**: Str 6 Dex -1 Con 5 Int 1 Wis 3 Cha 1
 - **Hit Points**: 186,  **Defense:** 23,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +14, Reflex +8, Will +12
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +8, Will +12
 - **Damage Res.**: bludgeoning, piercing
 - **Languages**: Common, Druidic, Elvish, Sylvan
 - **Challenge**: 9 (5000 XP)
@@ -30380,8 +31081,11 @@ The origins of the Tentacled Crawler Worms are rather speculative; some hypothes
 ***Animate Trees (1/Day).*** The tree man magically animates one or two trees it can see within 18 meters of it. These trees have the same statistics as the Arborom, except that they have Intelligence and Charisma scores of -3, they can't speak, and they have only the Slam attack option. An animated tree acts as an ally of the tree man. The tree remains for 1 day or until it dies; until the tree man dies or is more than 36 meters away from the tree; or until the tree man uses a Reaction to turn it back into an inanimate tree. The tree then takes root, if possible.
 
 **Ecology**
-Environment: Any forest
-Organization: Solitary or grove (2-7)
+
+| Environment: Any forest |
+| --- |
+| Organization: Solitary or grove (2-7) |
+
 **Treasure Category**: J
 **Description**
 Arboroms are forest guardians and ambassadors of trees. As ancient as the forests themselves, they see themselves as parents and shepherds rather than gardeners: they are slow and methodical, but terrifying when forced to fight to defend their flock. Although they rarely seek the company of short-lived races and have an innate distrust of changes, they show tolerance towards those who wish to learn from their long, slow monologues, especially those in whose eyes they read the desire to protect the wilderness. Against those who threaten their forests, especially woodcutters who gather wood or those who would deforest an area to build a road or fort, the Arboroms' anger unleashes quickly and devastatingly. They are able to demolish what others build: a trait that helps them during their fits of fury.
@@ -30396,10 +31100,10 @@ Arboroms are said to be created by the will of Efrem.
 
 ## Triceratops
 - **Size/Type**: Huge beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -3}
+- **Ability**: Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -3
 - **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
 - **Movement**: 15 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +8, Reflex +4, Will +5}
+- **Saving Throws**: Fortitude +8, Reflex +4, Will +5
 - **Challenge**: 5 (1800 XP)
 
 ***Trampling Charge.*** If the triceratops moves at least 6 meters straight toward a creature and then hits it with a gore attack during the same round, the target must succeed on a DC 19 Fortitude Saving Throw or be knocked prone. If the target is prone, the triceratops can make a stomp attack against it as an Immediate Action.
@@ -30415,18 +31119,21 @@ Arboroms are said to be created by the will of Efrem.
 **Reaction: *Protective Frill*** the Triceratops ducks its head under the frill and gains +4 to Defense.
 
 **Ecology**
-Environment: Warm Plains
-Organization: Solitary, pair or herd (5-8)
+
+| Environment: Warm Plains |
+| --- |
+| Organization: Solitary, pair or herd (5-8) |
+
 **Treasure Category**: None
 **Description**
 The triceratops is an irascible and stubborn herbivore. A typical triceratops is 9 meters long and weighs 10000 kg.
 
 ## Troll
 - **Size/Type**: Large giant, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 1 Con 5 Int -2 Wis -1 Cha -2}
+- **Ability**: Str 5 Dex 1 Con 5 Int -2 Wis -1 Cha -2
 - **Hit Points**: 110,  **Defense:** 19,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +6, Will +4}
+- **Saving Throws**: Fortitude +10, Reflex +6, Will +4
 - **Senses**: Darkvision 18 m
 - **Languages**: Giant
 - **Challenge**: 5 (1800 XP)
@@ -30446,8 +31153,11 @@ The triceratops is an irascible and stubborn herbivore. A typical triceratops is
 *Hit:* 8 (1d6 + 8) piercing damage.
 
 **Ecology**
-Environment: Cold Mountains
-Organization: Solitary or band (2-4)
+
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary or band (2-4) |
+
 **Treasure Category**: B
 **Description**
 Trolls possess sharp claws and incredible regenerative abilities that allow them to heal almost all wounds. They are hunchbacked, ugly but very strong: combined with their claws, their strength allows them to tear flesh with their bare hands. Trolls are about 3 meters tall, but their posture makes them appear shorter. An adult troll weighs about 500 kg.
@@ -30460,10 +31170,10 @@ It is universally known that trolls can naturally mutate, temporarily acquiring 
 
 ## Tyrannosaurus
 - **Size/Type**: Huge beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 7 Dex 0 Con 4 Int -4 Wis 1 Cha -1}
+- **Ability**: Str 7 Dex 0 Con 4 Int -4 Wis 1 Cha -1
 - **Hit Points**: 165,  **Defense:** 22,  **Initiative:** +0
 - **Movement**: 15 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +12, Reflex +8, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +12, Reflex +8, Will +9
 - **Challenge**: 8 (3900 XP)
 
 **Actions*Multiattack.*** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It cannot make both attacks against the same target.
@@ -30485,18 +31195,21 @@ It is universally known that trolls can naturally mutate, temporarily acquiring 
 ***Enraged:*** the Tyrannosaurus is filled with murderous rage. It attacks any creature, friend or foe. Attack Rolls gain +1d6 and its bite causes Bleeding 2/15.
 
 **Ecology**
-Environment: Warm Forests and Plains
-Organization: Solitary, pair or pack (3-6)
+
+| Environment: Warm Forests and Plains |
+| --- |
+| Organization: Solitary, pair or pack (3-6) |
+
 **Treasure Category**: None
 **Description**
 The tyrannosaurus is a primary predator that measures 12 meters in length and weighs 7000 kg.
 
 ## Tàhil
 - **Size/Type**: Colossal dragon, Patron
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 10 Dex 0 Con 10 Int 8 Wis 8 Cha 9}
+- **Ability**: Str 10 Dex 0 Con 10 Int 8 Wis 8 Cha 9
 - **Hit Points**: 615,  **Defense:** 52,  **Initiative:** +8
 - **Movement**: 65 feet, fly 65 feet
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +40, Reflex +30, Will +38
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +40, Reflex +30, Will +38
 - **Skills**: all +18
 - **Damage Imm.**: Cold, Electricity, Fire, Acid, Poison, Sound, +3 weapons
 - **Immune**: charmed, paralyzed, fatigued, frightened
@@ -30553,18 +31266,21 @@ Tàhil can take 3 additional actions, chosen from those below and one per round 
 **Yellow Head.**: Costs 2 Additional Actions, Tàhil breathes hot sand in a 200-foot cone. Reflex Saving Throw DC 40 or take 72 (16d8) fire damage or half on a successful save.
 
 **Ecology**
-Environment: Unknown
-Organization: Unique
+
+| Environment: Unknown |
+| --- |
+| Organization: Unique |
+
 **Treasure Category**: 6 H
 **Description**
 Tàhil is the embodied Patron of Dragons. Nothing can withstand his fury, madness, rage, and destruction. Tàhil is a gargantuan creature with 7 dragon heads, each colored differently, each representing a color of a Dragon. See the Cosmology chapter for details of his history.
 
 ## Unicorn
 - **Size/Type**: Large celestial, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 2 Int 0 Wis 3 Cha 3}
+- **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 3 Cha 3
 - **Hit Points**: 107,  **Defense:** 20,  **Initiative:** +2
 - **Movement**: 15 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +7, Will +8}
+- **Saving Throws**: Fortitude +7, Reflex +7, Will +8
 - **Damage Imm.**: Poison
 - **Condition Imm.**: charmed, paralyzed
 - **Senses**: Darkvision 18 m
@@ -30608,8 +31324,11 @@ The unicorn can take 3 Legendary Actions, choosing from the options below. It ca
 **Hooves.** The unicorn makes a hooves attack.
 
 **Ecology**
-Environment: Temperate Forests
-Organization: Solitary, pair or blessing (3-6)
+
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary, pair or blessing (3-6) |
+
 **Treasure Category**: None
 **Description**
 Unicorns are intelligent and solitary creatures that inhabit forests, appearing only to defend their homes from evil. They avoid all creatures except good pixies, good humanoid women, and native animals. Pairs of unicorns stay together for life and protect their forests, allowing only good and neutral creatures to pass through.
@@ -30618,10 +31337,10 @@ The unicorn's horn is the source of its magical powers, and evil creatures place
 
 ## Vampire
 - **Size/Type**: Medium undead (shapechanger), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 4 Con 4 Int 3 Wis 2 Cha 4}
+- **Ability**: Str 4 Dex 4 Con 4 Int 3 Wis 2 Cha 4
 - **Hit Points**: 259,  **Defense:** 33,  **Initiative:** +4
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +17, Reflex +17, Will +15
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +17, Reflex +17, Will +15
 - **Skills**: Stealth +9, Awareness +17
 - **Damage Imm.**: from Void; Poison, from non-magical weapons
 - **Condition Imm.**: charmed, deafened, bleeding
@@ -30686,8 +31405,11 @@ The vampire can take 3 Legendary Actions, choosing from the options below. It ca
 **Move.** The vampire moves at its speed without provoking opportunity attacks.
 
 **Ecology**
-Environment: Any
-Organization: Solitary or family (vampire plus 2-8 Spawn)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary or family (vampire plus 2-8 Spawn) |
+
 **Treasure Category**: NPC Equipment (Ring of Protection +2, Headband of Seduction +4, Cloak of Resistance +3)
 **Description**
 Vampires are undead humanoid creatures that feed on the blood of the living. They look very similar to when they were alive, often becoming more attractive, although some appear harsh and feral instead.
@@ -30695,8 +31417,8 @@ Vampires are undead humanoid creatures that feed on the blood of the living. The
 ## Vampire Spawn
 - **Size/Type**: Medium undead, evil
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +9, Reflex +9, Will +6}
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 3 Con 3 Int 0 Wis 0 Cha 1}
+- **Saving Throws**: Fortitude +9, Reflex +9, Will +6
+- **Ability**: Str 3 Dex 3 Con 3 Int 0 Wis 0 Cha 1
 - **Hit Points**: 126,  **Defense:** 23,  **Initiative:** +3
 - **Skills**: Stealth +6
 - **Damage Res.**: from Void; from non-magical weapons
@@ -30733,18 +31455,21 @@ Vampires are undead humanoid creatures that feed on the blood of the living. The
 **Reaction: *Opportunity Attack***: the vampire spawn makes an attack against a creature that crosses or leaves its 1-meter reach.
 
 **Ecology**
-Environment: Any
-Organization: Solitary, pair, group (3-6) or mob (7-12)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, group (3-6) or mob (7-12) |
+
 **Treasure Category**: M
 **Description**
 A Vampire can decide to create a vampire spawn from a victim rather than a full vampire only when using its ability to create spawn on a humanoid creature. This decision must be made as soon as a vampire kills an appropriate creature using its bite.
 
 ## Violet Fungus
 - **Size/Type**: Medium plant, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex -5 Con 0 Int -5 Wis -4 Cha -5}
+- **Ability**: Str -4 Dex -5 Con 0 Int -5 Wis -4 Cha -5
 - **Hit Points**: 19,  **Defense:** 7,  **Initiative:** -5
 - **Movement**: 2 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Immunities**: blinded, deafened, frightened
 - **Senses**: Blindsight 9 m (blind beyond this range)
 - **Challenge**: 1/4 (50 XP)
@@ -30758,8 +31483,11 @@ A Vampire can decide to create a vampire spawn from a victim rather than a full 
 *Hit:* 4 (1d8) Void damage.
 
 **Ecology**
-Environment: Any underground
-Organization: Solitary, pair, or patch (3-12)
+
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, pair, or patch (3-12) |
+
 **Treasure Category**: Incidental
 **Description**
 Violet fungi are one of the most well-known and feared dangers of caves. A traveler can often notice the marks left by the violet fungus on those who live or hunt in the places where these carnivorous fungi lurk. These deep and horrible scars look like grooves carved into the flesh: the signs of a close encounter with a violet fungus.
@@ -30774,10 +31502,10 @@ A violet fungus is 1.2 meters tall and weighs 25 kg.
 
 ## Vrock
 - **Size/Type**: Large demon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 4 Int -1 Wis 1 Cha -1}
+- **Ability**: Str 3 Dex 2 Con 4 Int -1 Wis 1 Cha -1
 - **Hit Points**: 127,  **Defense:** 22,  **Initiative:** +2
 - **Movement**: 12 m, flight 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +8, Will +7}
+- **Saving Throws**: Fortitude +10, Reflex +8, Will +7
 - **Damage Res.**: Cold, Electricity, Fire; from non-magical weapons
 - **Damage Imm.**: Poison
 - **Vulnerabilities**: cold iron, Light
@@ -30806,19 +31534,25 @@ A violet fungus is 1.2 meters tall and weighs 25 kg.
 ***Enraged:*** The Vrock scrapes its beak with its spurs, making them even sharper. Until the end of combat, damage caused by Beak and Spurs causes 1 Bleeding damage up to a maximum of 10 damage. 1 Action.
 
 **Ecology**
-Environment: Any (Abyss)
-Organization: Solitary, pair, or band (3-10)
+
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary, pair, or band (3-10) |
+
 **Treasure Category**: B
 **Description**
-Profane champions of the Abyss, vrocks embody all the rage, hatred, and violence of this realm. As voracious and grotesquely opportunistic as the scavenger they resemble, vrocks delight in bloodshed, enjoying the sound and sensations derived from tearing still-pulsing intestines from a living creature.
+
+| Profane champions of the Abyss, vrocks embody all the rage, hatred, and violence of this realm. As voracious and grotesquely opportunistic as the scavenger they resemble, vrocks delight in bloodshed, enjoying the sound and sensations derived from tearing still-pulsing intestines from a living creature. |
+| --- |
+
 A typical vrock is 2.3 meters tall and weighs 200 kg. These creatures usually originate from the souls of evil mortals filled with hatred and anger, particularly those who were professional criminals, mercenaries, or assassins.
 
 ## Wall Crawler Horror
 - **Size/Type**: Large monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 2 Int -2 Wis 1 Cha -2}
+- **Ability**: Str 4 Dex 0 Con 2 Int -2 Wis 1 Cha -2
 - **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
 - **Movement**: 9 m, climb 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +4}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +4
 - **Senses**: Darkvision 3 m, Blindsight 18 m
 - **Languages**: Wall Crawler Horror
 - **Challenge**: 3 (700 XP)
@@ -30832,7 +31566,10 @@ A typical vrock is 2.3 meters tall and weighs 200 kg. These creatures usually or
 *Hit:* 10 (2d6 + 4) piercing damage, 1 Bleeding damage.
 
 **EcologyEnvironment: Underground**
-Organization: Solitary, pair, or pack (3-8)
+
+| Organization: Solitary, pair, or pack (3-8) |
+| --- |
+
 **Treasure Category**: Incidental
 **Description**
 The Wall Crawler Horror is a fierce underground predator that aggressively defends its hunting territories. The underground caverns where these creatures reside echo with the thumps and rustles of their hooks as these creatures climb rocky crags or cavern walls.
@@ -30847,10 +31584,10 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 
 ## Warhorse Skeleton
 - **Size/Type**: Large undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 1 Con 2 Int -4 Wis -1 Cha -3}
+- **Ability**: Str 4 Dex 1 Con 2 Int -4 Wis -1 Cha -3
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Movement**: 60 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Dmg. Res.**: piercing, slashing
 - **Dmg. Imm.**: Poison
 - **Immunities**: fatigued, bleeding
@@ -30865,10 +31602,10 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 
 ## Werebear
 - **Size/Type**: Medium humanoid (human, shapechanger), good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 3 Int 0 Wis 1 Cha 1}
+- **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 1 Cha 1
 - **Hit Points**: 108,  **Defense:** 18,  **Initiative:** +0
 - **Movement**: 9 m (12 m, climb 9 m in bear form or hybrid form)
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +8, Reflex +5, Will +6}
+- **Saving Throws**: Fortitude +8, Reflex +5, Will +6
 - **Skills**: Awareness +7
 - **Damage Imm.**: from non-magical weapons or those that aren't silvered
 - **Languages**: Common (can't speak in bear form)
@@ -30893,18 +31630,21 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 *Hit:* 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a Fortitude Saving Throw DC 16 or be cursed with werebear lycanthropy.
 
 **Ecology**
-Environment: Any Forest
-Organization: Solitary, pair, family (3-6) or troop (3-6 plus 1-4 Black or Grizzly bears)
+
+| Environment: Any Forest |
+| --- |
+| Organization: Solitary, pair, family (3-6) or troop (3-6 plus 1-4 Black or Grizzly bears) |
+
 **Treasure Category**: NPC Equipment (Scale Mail, Perfect Battle Axe, 2 Perfect Throwing Axes, K)
 **Description**
 In their humanoid forms, werebears tend to be muscular and broad-shouldered, with rough features and dark eyes. They have red, brown, or black hair and appear accustomed to a life of hard work. Though the most benign of the lycanthropes, they are avoided by most normal people, who fear their animal transformation. For the most part they live in isolated woodland areas or in small family units of their own kind. They avoid confronting strangers, but they don't hesitate if they must drive evil humanoids from their territories.
 
 ## Wereboar
 - **Size/Type**: Medium humanoid, shapechanger, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha -1}
+- **Ability**: Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha -1
 - **Hit Points**: 88,  **Defense:** 17,  **Initiative:** +0
 - **Movement**: 9 m (12 m in boar form)
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +4, Will +4}
+- **Saving Throws**: Fortitude +6, Reflex +4, Will +4
 - **Damage Imm.**: from non-magical weapons or those that aren't silvered
 - **Languages**: Common (can't speak in boar form)
 - **Challenge**: 4 (1100 XP)
@@ -30926,18 +31666,21 @@ In their humanoid forms, werebears tend to be muscular and broad-shouldered, wit
 *Hit:* 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a Fortitude Saving Throw DC 15 or be cursed with wereboar lycanthropy.
 
 **Ecology**
-Environment: Any Forest or Plain
-Organization: Solitary, pair, family (3-8) or troop (3-8 plus 1-4 Boars)
+
+| Environment: Any Forest or Plain |
+| --- |
+| Organization: Solitary, pair, family (3-8) or troop (3-8 plus 1-4 Boars) |
+
 **Treasure Category**: NPC Equipment (Studded Leather Armor, 2 Daggers, K)
 **Description**
 In their humanoid forms, wereboars tend to be stocky, with upturned noses, bristly hair, and prominent tusks. They have red, brown, or black hair, but some are also blond, gray-haired, or bald. Males usually can't grow beards. Because they are stubborn and aggressive, they have small communities of their own kind and don't mix with non-lycanthropes: they usually live in small farms that look absolutely normal. They tend to have large families and many children.
 
 ## Wererat
 - **Size/Type**: Medium humanoid (human, shapechanger), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 2 Con 1 Int 0 Wis 0 Cha -1}
+- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 0 Cha -1
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Skills**: Stealth +4, Awareness +2
 - **Damage Imm.**: from non-magical weapons or those that aren't silvered
 - **Senses**: Darkvision 18 m (rat form only)
@@ -30963,18 +31706,21 @@ In their humanoid forms, wereboars tend to be stocky, with upturned noses, brist
 *Hit:* 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a Fortitude Saving Throw DC 13 or be cursed with wererat lycanthropy.
 
 **Ecology**
-Environment: Any Urban
-Organization: Solitary, pair, pack (5-10) or guild (11-30 plus 5-12 Cruel Rats)
+
+| Environment: Any Urban |
+| --- |
+| Organization: Solitary, pair, pack (5-10) or guild (11-30 plus 5-12 Cruel Rats) |
+
 **Treasure Category**: NPC Equipment (Perfect Studded Leather Armor, Shortsword, Light Crossbow with 20 Bolts, K)
 **Description**
 Natural wererats are short, wiry, and muscular, with quick, sharp eyes and twitchy movements. Males often have thin, scraggly mustaches.
 
 ## Weretiger
 - **Size/Type**: Medium humanoid (human, shapechanger), neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 3 Int 0 Wis 1 Cha 0}
+- **Ability**: Str 3 Dex 2 Con 3 Int 0 Wis 1 Cha 0
 - **Hit Points**: 89,  **Defense:** 19,  **Initiative:** +2
 - **Movement**: 9 m (12 m in tiger form)
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +6, Will +5}
+- **Saving Throws**: Fortitude +7, Reflex +6, Will +5
 - **Skills**: Stealth +4, Awareness +5
 - **Damage Imm.**: from non-magical weapons that aren't silvered
 - **Senses**: Darkvision 18 m
@@ -31008,18 +31754,21 @@ Natural wererats are short, wiry, and muscular, with quick, sharp eyes and twitc
 **Reaction: *Opportunity Attack***: the weretiger makes an attack against a creature that moves through or leaves its 1 meter reach.
 
 **Ecology**
-Environment: Any Plain or Swamp
-Organization: Solitary or pair
+
+| Environment: Any Plain or Swamp |
+| --- |
+| Organization: Solitary or pair |
+
 **Treasure Category**: NPC Equipment (Studded Leather Armor, Shortsword, 2 Daggers, K)
 **Description**
 Weretigers in humanoid form have large eyes, elongated noses, prominent cheekbones, and brown or red hair, or white, black, or blue-gray. Their movements are careful and graceful, and those who observe them might mistake them for an excellent pickpocket, a graceful dancer, or a skilled courtesan.
 
 ## Werewolf
 - **Size/Type**: Medium humanoid (human, shapechanger), evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0}
+- **Ability**: Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
 - **Movement**: 9 m (12 m in wolf form)
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
 - **Skills**: Stealth +3, Awareness +4
 - **Damage Imm.**: from non-magical weapons or those that aren't silvered
 - **Languages**: Common (can't speak in wolf form)
@@ -31044,18 +31793,21 @@ Weretigers in humanoid form have large eyes, elongated noses, prominent cheekbon
 *Hit:* 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a Fortitude Saving Throw DC 15 or be cursed with werewolf lycanthropy.
 
 **Ecology**
-Environment: Any Terrain
-Organization: Solitary, pair or pack (3-6)
+
+| Environment: Any Terrain |
+| --- |
+| Organization: Solitary, pair or pack (3-6) |
+
 **Treasure Category**: NPC Equipment (Chain Shirt, Longsword, Light Crossbow with 20 Bolts, K)
 **Description**
 In human form, werewolves look like normal people, though some tend to have feral features and wild hair. Eyebrows that grow together, an index finger longer than the middle finger, and strange birthmarks on the palm of the hand are all commonly accepted signs that a person is in fact a werewolf. Of course, these telltale signs aren't always accurate, as these physical traits exist in normal people as well, but in areas where werewolves are a common problem, such traits may be considered damning regardless.
 
 ## White Dragon Wyrmling
 - **Size/Type**: Medium dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 0 Con 2 Int -3 Wis 0 Cha 0}
+- **Ability**: Str 2 Dex 0 Con 2 Int -3 Wis 0 Cha 0
 - **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +0
 - **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
 - **Skills**: Stealth +2, Perception +4
 - **Damage Imm.**: Cold
 - **Senses**: Darkvision 18 m, Blindsight 3 m
@@ -31069,18 +31821,21 @@ In human form, werewolves look like normal people, though some tend to have fera
 ***Cold Breath (Recharge 5-6).*** The dragon exhales an explosion of ice in a 5-meter cone. Each creature in that area must make a DC 15 Fortitude Saving Throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 **Ecology**
-Environment: Cold Mountains
-Organization: Solitary
+
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
 See Ancient White Dragon description.
 
 ## Wight
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 3 Int 0 Wis 1 Cha 2}
+- **Ability**: Str 2 Dex 2 Con 3 Int 0 Wis 1 Cha 2
 - **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +5, Will +4}
+- **Saving Throws**: Fortitude +6, Reflex +5, Will +4
 - **Skills**: Stealth +4, Awareness +3
 - **Damage Res.**: Void; non-magical or non-silver weapons
 - **Damage Imm.**: Poison
@@ -31110,8 +31865,11 @@ A humanoid killed by this attack rises 24 hours later as a zombie under the wigh
 *Hit:* 6 (1d8 + 2) piercing damage.
 
 **Ecology**
-Environment: any
-Organization: Solitary, pair, group (3-6), or pack (7-12)
+
+| Environment: any |
+| --- |
+| Organization: Solitary, pair, group (3-6), or pack (7-12) |
+
 **Treasure Category**: Q
 **Description**
 Wights are humanoids raised as undead due to necromancy, a violent death, or an extremely malevolent personality. In some cases, a wight arises when an undead spirit permanently binds itself to a corpse, often that of a warrior. They are barely recognizable by those who knew them in life: their flesh is corrupted by evil and undeath, their eyes burn with hatred, and their teeth become those of a beast. In a sense, a wight is the link between ghouls and spectres: a deformed corpse that drains life energy with its touch.
@@ -31120,10 +31878,10 @@ Being undead, wights have no need to breathe, so they can sometimes be found und
 
 ## Will-o'-Wisp
 - **Size/Type**: Tiny undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -5 Dex 9 Con 0 Int 1 Wis 2 Cha 0}
+- **Ability**: Str -5 Dex 9 Con 0 Int 1 Wis 2 Cha 0
 - **Hit Points**: 51,  **Defense:** 23,  **Initiative:** +9
 - **Movement**: 0 m, fly 15 m, Float
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +11, Will +4}
+- **Saving Throws**: Fortitude +3, Reflex +11, Will +4
 - **Damage Res.**: Acid, Poison, Cold, Fire, Void, Sound; weapons that aren't magical
 - **Immunities**: grappled, restrained, paralyzed, unconscious, prone, fatigued, bleeding
 - **Senses**: Darkvision 36 m
@@ -31147,8 +31905,11 @@ Being undead, wights have no need to breathe, so they can sometimes be found und
 ***Invisibility.*** The will-o'-wisp and its light magically become invisible until it attacks or uses Consume Life, or until its concentration ends (as if concentrating on a spell).
 
 **Ecology**
-Environment: Any Swamp
-Organization: Solitary, pair, or sequence (3-4)
+
+| Environment: Any Swamp |
+| --- |
+| Organization: Solitary, pair, or sequence (3-4) |
+
 **Treasure Category**: Incidental
 **Description**
 Evil creatures that feed on the strong psychic emanations of terrified creatures, will-o'-wisps take pleasure in putting gullible travelers in dangerous situations. In the wilderness, where they are very common, will-o'-wisps prefer simple tactics like positioning themselves on rocks or quicksand where they can be easily mistaken for lanterns (especially if they can arrange the trap near real signal lanterns), thus luring travelers toward danger.
@@ -31163,10 +31924,10 @@ Will-o'-wisps have no age and are de facto immortal, unless they die a violent d
 
 ## Wise Owlbear
 - **Size/Type**: Large monstrosity, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 2 Int 3 Wis 3 Cha 1}
+- **Ability**: Str 3 Dex 1 Con 2 Int 3 Wis 3 Cha 1
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +3
 - **Movement**: 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +4, Will +6}
+- **Saving Throws**: Fortitude +5, Reflex +4, Will +6
 - **Skills**: Awareness +9
 - **Senses**: Darkvision 18 m
 - **Languages**: understands and reads the following: Common, Druidic, Celestial, Infernal, Dwarven, Elvish, Orcish, Giant, Expiran, Elemental languages
@@ -31189,7 +31950,10 @@ At will: *Mage Hand, Comprehend Writings*
 *Hit:* 10 (1d10 + 5) piercing damage.
 
 **EcologyEnvironment: Temperate Forests**
-Organization: Solitary, pair, or pack (3-8)
+
+| Organization: Solitary, pair, or pack (3-8) |
+| --- |
+
 **Treasure Category**: E + T
 **Description**
 The origins of the Wise Owlbear are as mysterious as those of its unwise relative, but enthusiasts of these creatures trace them directly back to Nethergal as a variant of the original Owlbear.
@@ -31203,10 +31967,10 @@ The Mage Hand spell is usually used to flip through the most delicate tomes and 
 
 ## Wraith
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 3 Con 3 Int 1 Wis 2 Cha 2}
+- **Ability**: Str -2 Dex 3 Con 3 Int 1 Wis 2 Cha 2
 - **Hit Points**: 108,  **Defense:** 21,  **Initiative:** +3
 - **Movement**: 0 m, fly 18 m, Hover
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +8, Reflex +8, Will +7}
+- **Saving Throws**: Fortitude +8, Reflex +8, Will +7
 - **Damage Res.**: Acid, Cold, Electricity, Fire, Sound; non-magical or non-silver weapons
 - **Damage Imm.**: Void, Poison
 - **Immunities**: charmed, grappled, entangled, paralyzed, petrified, prone, fatigued, bleeding
@@ -31231,18 +31995,21 @@ The Mage Hand spell is usually used to flip through the most delicate tomes and 
 ***Enraged:*** The Wraith channels its negative energies into a Void explosion around itself in a 6-meter radius. All creatures must make a DC 16 Fortitude Saving Throw or take 3d6 Void damage, if the Saving Throw succeeds they are Slowed 1/3r.
 
 **Ecology**
-Environment: Any
-Organization: Solitary, pair, group (3-6), or pack (7-12)
+
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, group (3-6), or pack (7-12) |
+
 **Treasure Category**: None
 **Description**
 Wraiths are creatures born of evil and darkness. They detest light and living creatures, having lost most of their connection to their previous life.
 
 ## Wyvern
 - **Size/Type**: Large dragon, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 3 Int -3 Wis 1 Cha -2}
+- **Ability**: Str 4 Dex 0 Con 3 Int -3 Wis 1 Cha -2
 - **Hit Points**: 126,  **Defense:** 20,  **Initiative:** +0
 - **Movement**: 6 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +9, Reflex +6, Will +7}
+- **Saving Throws**: Fortitude +9, Reflex +6, Will +7
 - **Senses**: Darkvision 18 m
 - **Challenge**: 6 (2300 XP)
 
@@ -31265,8 +32032,11 @@ Wraiths are creatures born of evil and darkness. They detest light and living cr
 ***Enraged:*** The Wyvern points its tail in the direction of the enemy and generates a 3-meter cone of poison. It is possible to make a DC 21 Reflex Saving Throw to halve the 7d8 poison damage.
 
 **Ecology**
-Environment: Temperate or warm hills
-Organization: Solitary, pair, or flight (3-6)
+
+| Environment: Temperate or warm hills |
+| --- |
+| Organization: Solitary, pair, or flight (3-6) |
+
 **Treasure Category**: D
 **Description**
 Wyverns are brutal, violent reptiles related to dragons. They are always aggressive and impatient, preferring to achieve their goals using force. For this reason, dragons look upon wyverns with superiority, considering these distant relatives as primitive savages lacking style and intelligence.
@@ -31281,10 +32051,10 @@ A wyvern is about 4.8 meters long, with the tail alone accounting for about half
 
 ## Xorn
 - **Size/Type**: Medium elemental, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 6 Int 0 Wis 0 Cha 0}
+- **Ability**: Str 3 Dex 0 Con 6 Int 0 Wis 0 Cha 0
 - **Hit Points**: 111,  **Defense:** 18,  **Initiative:** +0
 - **Movement**: 6 m, burrow 6 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +11, Reflex +5, Will +5}
+- **Saving Throws**: Fortitude +11, Reflex +5, Will +5
 - **Skills**: Stealth +3, Awareness +6
 - **Damage Res.**: piercing and slashing from non-magical weapons or weapons that aren't adamantine
 - **Senses**: Darkvision 18 m, tremorsense 18 m
@@ -31310,8 +32080,11 @@ A wyvern is about 4.8 meters long, with the tail alone accounting for about half
 ***Enraged:*** The Xorn erupts the last eaten gems and nuggets. In a 6-meter cone, all creatures must make a DC 18 Reflex Saving Throw to halve the damage, 3d8 bludgeoning, from the hurled gems and minerals (which no longer have any value).
 
 **Ecology**
-Environment: Any (Plane of Earth)
-Organization: Solitary, pair, or group (3-6)
+
+| Environment: Any (Plane of Earth) |
+| --- |
+| Organization: Solitary, pair, or group (3-6) |
+
 **Treasure Category**: only precious metals, gems, and jewelry and magical gems
 **Description**
 Strange creatures as wide as they are tall, xorns have little interest in natives of the Material Plane, except for the gems and precious metals they might carry. Hidden beneath the surface of the ground for a time that might seem very long to a human, a xorn can wait months, even years, for the ideal prey, then assault those who carry its favorite food, such as a particular gem or a certain type of silver. Adventurers who venture into regions inhabited by xorns often carry small nuggets of minerals or low-value gems and crystals to use as tribute. Although its value is usually directly proportional to its flavor and its appeal, most xorns are rather greedy, and prefer quantity to quality.
@@ -31322,10 +32095,10 @@ Xorns are not very religious, but those among them who find faith are usually de
 
 ## Young Black Dragon
 - **Size/Type**: Large dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha 2}
+- **Ability**: Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: 145,  **Defense:** 23,  **Initiative:** +2
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +9, Will +7}
+- **Saving Throws**: Fortitude +10, Reflex +9, Will +7
 - **Skills**: Stealth +5, Awareness +6
 - **Damage Imm.**: Acid
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -31349,24 +32122,32 @@ Xorns are not very religious, but those among them who find faith are usually de
 ***Enraged:*** The Young Black Dragon recharges its acid breath. Costs 1 Action.
 
 **Ecology**
-Environment: Warm Swamps
-Organization: Solitary
+
+| Environment: Warm Swamps |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: C
 **Description**
-See Ancient Black Dragon Description.
+
+| See Ancient Black Dragon Description. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Animate Dead
 - Create Undead
 - Bestow Curse
 
 ## Young Blue Dragon
 - **Size/Type**: Huge dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3}
+- **Ability**: Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3
 - **Hit Points**: 184,  **Defense:** 24,  **Initiative:** +2
 - **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +13, Reflex +9, Will +10
+- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm{!}{Fortitude +13, Reflex +9, Will +10
 - **Skills**: Stealth +4, Perception +9
 - **Damage Imm.**: Lightning
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -31388,24 +32169,32 @@ See Ancient Black Dragon Description.
 ***Enraged:*** the Young Blue Dragon recharges its lightning breath.
 
 **Ecology**
-Environment: Mountain peaks
-Organization: Solitary
+
+| Environment: Mountain peaks |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
-See Ancient Blue Dragon Description.
+
+| See Ancient Blue Dragon Description. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Deadly Fog
 - Call Lightning
 - Ice Storm
 
 ## Young Brass Dragon
 - **Size/Type**: Large dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2}
+- **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: 126,  **Defense:** 20,  **Initiative:** +1
 - **Movement**: 40 ft, burrow 20 ft, fly 80 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +9, Reflex +6, Will +6}
+- **Saving Throws**: Fortitude +9, Reflex +6, Will +6
 - **Damage Imm.**: Fire
 - **Skills**: Stealth +3, Perception +6, Deception +5
 - **Senses**: Darkvision 60 ft, Blindsight 10 ft
@@ -31429,24 +32218,32 @@ See Ancient Blue Dragon Description.
 *Sleep Breath.* The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 18 Fortitude Saving Throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an Action to wake it.
 
 **Ecology**
-Environment: Hot Deserts
-Organization: Solitary
+
+| Environment: Hot Deserts |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
-Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip.
+
+| Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip. |
+| --- |
+
 **Spells**
+
 | This Dragon's favorite spells are: |
 | --- |
+
 - True Seeing
 - Legend Lore
 - Scrying
 
 ## Young Bronze Dragon
 - **Size/Type**: Large dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3}
+- **Ability**: Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3
 - **Hit Points**: 165,  **Defense:** 22,  **Initiative:** +2
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +12, Reflex +8, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +12, Reflex +8, Will +9
 - **Skills**: Stealth +3, Sense Motive +4, Awareness +7
 - **Dmg. Imm.**: Lightning
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -31474,23 +32271,31 @@ Excellent conversationalists, brass dragons prefer to talk rather than fight. Br
 ***Enraged:*** the Young Bronze Dragon recharges one of its breath weapons.
 
 **Ecology**
-Environment: Temperate Coastal Areas
-Organization: Solitary
+
+| Environment: Temperate Coastal Areas |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
-Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate
+
+| Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Globe of Invulnerability
 - Freedom of Movement
 
 ## Young Copper Dragon
 - **Size/Type**: Large dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2}
+- **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
 - **Hit Points**: 145,  **Defense:** 22,  **Initiative:** +3
 - **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +8, Will +8}
+- **Saving Throws**: Fortitude +10, Reflex +8, Will +8
 - **Skills**: Stealth +4, Deception +5, Perception +7
 - **Damage Imm.**: Acid
 - **Senses**: Darkvision 120 ft, Blindsight 60 ft
@@ -31516,24 +32321,32 @@ Bronze dragons are known to ally with travelers and adventurers if the cause and
 ***Enraged:*** The Young Copper Dragon recharges one of its two breaths. Cost 1 Action.
 
 **Ecology**
-Environment: Warm Hills
-Organization: Solitary
+
+| Environment: Warm Hills |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
-This capricious dragon tries to hamper and frustrate its enemies during combat.
+
+| This capricious dragon tries to hamper and frustrate its enemies during combat. |
+| --- |
+
 **Spells**
+
 | This Dragon's favorite spells are: |
 | --- |
+
 - Blade Barrier
 - Wall of Force
 - Fire Shield
 
 ## Young Gold Dragon
 - **Size/Type**: Large dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 2 Con 5 Int 3 Wis 1 Cha 5}
+- **Ability**: Str 6 Dex 2 Con 5 Int 3 Wis 1 Cha 5
 - **Hit Points**: 205,  **Defense:** 27,  **Initiative:** +3
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +15, Reflex +12, Will +11
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +12, Will +11
 - **Skills**: Stealth +6, Sense Motive +5, Awareness +9, Deception +9
 - **Dmg. Imm.**: Fire
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -31561,24 +32374,32 @@ This capricious dragon tries to hamper and frustrate its enemies during combat.
 ***Enraged:*** the young gold dragon recharges one of its breath weapons. Costs 1 Action.
 
 **Ecology**
-Environment: Warm Plains
-Organization: Solitary
+
+| Environment: Warm Plains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
-Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid.
+
+| Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Heal
 - Greater Restoration
 - Black Tentacles
 
 ## Young Green Dragon
 - **Size/Type**: Large dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2}
+- **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
 - **Hit Points**: 163,  **Defense:** 23,  **Initiative:** +3
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +11, Reflex +9, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +11, Reflex +9, Will +9
 - **Skills**: Stealth +4, Deception +5, Awareness +7
 - **Damage Imm.**: Poison
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -31602,24 +32423,32 @@ Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as ag
 ***Enraged:*** the Young Green Dragon recharges its Poison Breath.
 
 **Ecology**
-Environment: Temperate Forests
-Organization: Solitary
+
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
-See Ancient Green Dragon Description.
+
+| See Ancient Green Dragon Description. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Anti-Life Shell
 - Locate Animals and Plants
 - Neutralize Poison
 
 ## Young Red Dragon
 - **Size/Type**: Large dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4}
+- **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4
 - **Hit Points**: 205,  **Defense:** 25,  **Initiative:** +2
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +15, Reflex +10, Will +10
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +10, Will +10
 - **Skills**: Stealth +4, Awareness +8
 - **Damage Imm.**: Fire
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -31643,23 +32472,31 @@ See Ancient Green Dragon Description.
 Costs 1 Action.
 
 **Ecology**
-Environment: Warm mountains
-Organization: Solitary
+
+| Environment: Warm mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
-See Ancient Red Dragon Description.
+
+| See Ancient Red Dragon Description. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Fireball
 - Incendiary Cloud
 - Wall of Fire
 
 ## Young Silver Dragon
 - **Size/Type**: Large dragon, good
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4}
+- **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4
 - **Hit Points**: 186,  **Defense:** 24,  **Initiative:** +2
 - **Movement**: 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +14, Reflex +9, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +9, Will +9
 - **Skills**: Arcana +6, Stealth +4, Awareness +8, History +6
 - **Dmg. Imm.**: Cold
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -31685,24 +32522,32 @@ See Ancient Red Dragon Description.
 ***Enraged:*** the young silver dragon recharges one of its breath weapons.
 
 **Ecology**
-Environment: Temperate Mountains
-Organization: Solitary
+
+| Environment: Temperate Mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
-Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably.
+
+| Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Slow
 - Fabricate
 - Dream
 
 ## Young White Dragon
 - **Size/Type**: Large dragon, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 4 Int -2 Wis 0 Cha 1}
+- **Ability**: Str 4 Dex 0 Con 4 Int -2 Wis 0 Cha 1
 - **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +6, Will +6}
+- **Saving Throws**: Fortitude +10, Reflex +6, Will +6
 - **Skills**: Stealth +3, Perception +6
 - **Damage Imm.**: Cold
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -31724,24 +32569,32 @@ Among all dragons, silver dragons are the most courageous, and adhere to a chiva
 ***Cold Breath (Recharge 5-6).*** The dragon exhales an explosion of ice in a 9-meter cone. Each creature in that area must make a DC 18 Fortitude Saving Throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
 
 **Ecology**
-Environment: Cold Mountains
-Organization: Solitary
+
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary |
+
 **Treasure Category**: D
 **Description**
-See Ancient White Dragon description.
+
+| See Ancient White Dragon description. |
+| --- |
+
 **Spells**
+
 | This Dragon's preferred spells are: |
 | --- |
+
 - Fire Shield
 - Ice Storm
 - Sleet Storm
 
 ## Zombie
 - **Size/Type**: Medium undead, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex -2 Con 3 Int -4 Wis -2 Cha -3}
+- **Ability**: Str 1 Dex -2 Con 3 Int -4 Wis -2 Cha -3
 - **Hit Points**: 19,  **Defense:** 10,  **Initiative:** -2
 - **Movement**: 6 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Damage Imm.**: Poison
 - **Immunities**: bleeding
 - **Senses**: Darkvision 18 m
@@ -31759,8 +32612,11 @@ See Ancient White Dragon description.
 *Hit:* 4 (1d6 + 1) bludgeoning damage.
 
 **Ecology**
-Environment: Any
-Organization: Any
+
+| Environment: Any |
+| --- |
+| Organization: Any |
+
 **Treasure Category**: None
 **Description**
 Zombies are the animated corpses of dead creatures, forced to move by necromantic magic such as Animate Dead. Although zombies encountered normally are slow and sturdy, others possess different traits, allowing them to spread disease or move faster.
@@ -31775,9 +32631,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Ape
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2}
+- **Ability**: Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m, climb 9 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -31793,9 +32649,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Armored Bear
 - **Size/Type**: Huge beast, corrupted by Cattalm
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 7 Dex 2 Con 4 Int 1 Wis 1 Cha 1}
+- **Ability**: Str 7 Dex 2 Con 4 Int 1 Wis 1 Cha 1
 - **Hit Points**: 90,  **Defense:** 19,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +8, Reflex +6, Will +5}
+- **Saving Throws**: Fortitude +8, Reflex +6, Will +5
 - **Movement**: 12 m, swim 9 m
 - **Challenge**: 4 (450 XP)
 
@@ -31813,10 +32669,10 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Awakened Tree
 - **Size/Type**: Huge plant, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex -2 Con 2 Int 0 Wis 0 Cha -2}
+- **Ability**: Str 4 Dex -2 Con 2 Int 0 Wis 0 Cha -2
 - **Hit Points**: 51,  **Defense:** 12,  **Initiative:** +0
 - **Movement**: 6 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
 - **Vul. to Damage**: Fire
 - **Res. to Damage**: bludgeoning, piercing
 - **Skills**: History +2
@@ -31832,9 +32688,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Axe Beak
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3}
+- **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 15 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -31844,9 +32700,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Baboon
 - **Size/Type**: Small beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 2 Con 0 Int -3 Wis 1 Cha -2}
+- **Ability**: Str -1 Dex 2 Con 0 Int -3 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m
 - **Challenge**: 0 (10 XP)
 
@@ -31858,9 +32714,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Badger
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 0 Con 1 Int -4 Wis 1 Cha -3}
+- **Ability**: Str -3 Dex 0 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 20 ft, burrow 5 ft
 - **Challenge**: 0(10 XP)
 \
@@ -31873,9 +32729,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Black Bear
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 2 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 3 Dex 0 Con 2 Int -4 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m, climb 9 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -31893,10 +32749,10 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Blink Dog
 - **Size/Type**: Medium monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 3 Con 1 Int 0 Wis 1 Cha 0}
+- **Ability**: Str 1 Dex 3 Con 1 Int 0 Wis 1 Cha 0
 - **Hit Points**: 19,  **Defense:** 15,  **Initiative:** +3
 - **Vul. to Damage**: cold iron
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -31910,9 +32766,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Blood Hawk
 - **Size/Type**: Small beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -3}
+- **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -3
 - **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 3 m, flight 18 m
 - **Challenge**: 1/8 (25 XP)
 
@@ -31926,9 +32782,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Boar
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 0 Con 1 Int -4 Wis -1 Cha -3}
+- **Ability**: Str 1 Dex 0 Con 1 Int -4 Wis -1 Cha -3
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -31942,9 +32798,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Brown Bear
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 3 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 4 Dex 0 Con 3 Int -4 Wis 1 Cha -2
 - **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
 - **Movement**: 12 m, climb 9 m
 - **Challenge**: 1 (200 XP)
 
@@ -31962,9 +32818,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Cat
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 2 Con 0 Int -4 Wis 1 Cha -2}
+- **Ability**: Str -4 Dex 2 Con 0 Int -4 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m, climb 9 m
 - **Challenge**: 0(10 XP)
 
@@ -31976,9 +32832,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Constrictor Snake
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 1 Int -5 Wis 0 Cha -4}
+- **Ability**: Str 2 Dex 2 Con 1 Int -5 Wis 0 Cha -4
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m, swim 9 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -31992,9 +32848,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Crocodile
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 0 Con 1 Int -4 Wis 0 Cha -3}
+- **Ability**: Str 2 Dex 0 Con 1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m, swim 9 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -32006,9 +32862,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Death Dog
 - **Size/Type**: Medium monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 2 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 2 Dex 2 Con 2 Int -4 Wis 1 Cha -2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 1 (200 XP)
 
@@ -32022,9 +32878,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Deer
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 3 Con 0 Int -4 Wis 2 Cha -3}
+- **Ability**: Str 0 Dex 3 Con 0 Int -4 Wis 2 Cha -3
 - **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 0 (10 XP)
 
@@ -32034,9 +32890,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Dire Wolf (Metawolf)
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2}
+- **Ability**: Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 15 m
 - **Challenge**: 1 (200 XP)
 
@@ -32050,8 +32906,8 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Eagle
 - **Size/Type**: Small beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -2}
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -2
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
 - **Movement**: 3 m, flight 18 m
 - **Challenge**: 0 (10 XP)
@@ -32064,9 +32920,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Elephant
 - **Size/Type**: Huge beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -2}
+- **Ability**: Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -2
 - **Hit Points**: 89,  **Defense:** 16,  **Initiative:** -1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +7, Reflex +3, Will +4}
+- **Saving Throws**: Fortitude +7, Reflex +3, Will +4
 - **Movement**: 12 m
 - **Challenge**: 4 (1000 XP)
 
@@ -32082,9 +32938,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Elk
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 1 Int -4 Wis 0 Cha -2}
+- **Ability**: Str 3 Dex 0 Con 1 Int -4 Wis 0 Cha -2
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 15 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -32100,9 +32956,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Flying Snake
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 4 Con 0 Int -4 Wis 1 Cha -3}
+- **Ability**: Str -3 Dex 4 Con 0 Int -4 Wis 1 Cha -3
 - **Hit Points**: 17,  **Defense:** 16,  **Initiative:** +4
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Movement**: 30 ft, swim 30 ft, fly 60 ft
 - **Challenge**: 1/8 (25 XP)
 
@@ -32114,9 +32970,9 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ## Frog
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -5 Dex 1 Con -1 Int -5 Wis -1 Cha -4}
+- **Ability**: Str -5 Dex 1 Con -1 Int -5 Wis -1 Cha -4
 - **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m, swim 6 m
 - **Challenge**: 0(0 XP)
 
@@ -32128,9 +32984,9 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Ape
 - **Size/Type**: Huge beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 2 Con 4 Int -2 Wis 1 Cha -2}
+- **Ability**: Str 6 Dex 2 Con 4 Int -2 Wis 1 Cha -2
 - **Hit Points**: 146,  **Defense:** 23,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +11, Reflex +9, Will +8}
+- **Saving Throws**: Fortitude +11, Reflex +9, Will +8
 - **Movement**: 12 m, climb 12 m
 - **Challenge**: 7 (2900 XP)
 
@@ -32146,9 +33002,9 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Badger
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 0 Con 2 Int -4 Wis 1 Cha -3}
+- **Ability**: Str 1 Dex 0 Con 2 Int -4 Wis 1 Cha -3
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 30 ft, burrow 10 ft
 - **Challenge**: 1/4 (50 XP)
 \
@@ -32167,9 +33023,9 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Boar
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 3 Int -4 Wis -2 Cha -3}
+- **Ability**: Str 3 Dex 0 Con 3 Int -4 Wis -2 Cha -3
 - **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 2 (450 XP)
 
@@ -32183,9 +33039,9 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Constrictor Snake
 - **Size/Type**: Huge beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 1 Int -5 Wis 0 Cha -4}
+- **Ability**: Str 4 Dex 2 Con 1 Int -5 Wis 0 Cha -4
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Movement**: 30 ft, swim 30 ft
 - **Challenge**: 2 (450 XP)
 
@@ -32199,9 +33055,9 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Crab
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 2 Con 0 Int -5 Wis -1 Cha -4}
+- **Ability**: Str 1 Dex 2 Con 0 Int -5 Wis -1 Cha -4
 - **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m, swim 9 m
 - **Challenge**: 1/8 (25 XP)
 
@@ -32213,9 +33069,9 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Crocodile
 - **Size/Type**: Huge beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex -1 Con 3 Int -4 Wis 0 Cha -2}
+- **Ability**: Str 5 Dex -1 Con 3 Int -4 Wis 0 Cha -2
 - **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +8, Reflex +4, Will +5}
+- **Saving Throws**: Fortitude +8, Reflex +4, Will +5
 - **Movement**: 9 m, swim 15 m
 - **Challenge**: 5 (1800 XP)
 
@@ -32233,8 +33089,8 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Eagle
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 3 Con 1 Int -1 Wis 2 Cha 0}
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Ability**: Str 3 Dex 3 Con 1 Int -1 Wis 2 Cha 0
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
 - **Movement**: 3 m, flight 24 m
 - **Languages**: Giant Eagle, understands Common and Ictun but can't speak them
@@ -32254,8 +33110,8 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Elk
 - **Size/Type**: Huge beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 3 Con 2 Int -2 Wis 2 Cha 0}
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +5, Will +4}
+- **Ability**: Str 4 Dex 3 Con 2 Int -2 Wis 2 Cha 0
+- **Saving Throws**: Fortitude +4, Reflex +5, Will +4
 - **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
 - **Movement**: 18 m
 - **Challenge**: 2 (450 XP)
@@ -32272,9 +33128,9 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Fire Beetle
 - **Size/Type**: Small beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 0 Con 1 Int -5 Wis -2 Cha -4}
+- **Ability**: Str -1 Dex 0 Con 1 Int -5 Wis -2 Cha -4
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Challenge**: 0(10 XP)
 
@@ -32286,9 +33142,9 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Frog
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 1 Con 0 Int -4 Wis 0 Cha -4}
+- **Ability**: Str 1 Dex 1 Con 0 Int -4 Wis 0 Cha -4
 - **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m, swim 9 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -32304,9 +33160,9 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ## Giant Frog
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -4}
+- **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -4
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m, swim 12 m
 - **Challenge**: 1 (200 XP)
 
@@ -32326,9 +33182,9 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 ## Giant Goat
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 1 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 3 Dex 0 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -32342,9 +33198,9 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 ## Giant Hyena
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 15 m
 - **Challenge**: 1 (200 XP)
 
@@ -32356,9 +33212,9 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 ## Giant Lizard
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3}
+- **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m, climb 9 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -32376,9 +33232,9 @@ Some giant lizards have one or both of the following traits.
 
 ## Giant Owl
 - **Size/Type**: Large beast, neutral
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 2 Con 1 Int -1 Wis 1 Cha 0}
+- **Ability**: Str 1 Dex 2 Con 1 Int -1 Wis 1 Cha 0
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 1 m, flight 18 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -32392,9 +33248,9 @@ Some giant lizards have one or both of the following traits.
 
 ## Giant Poisonous Snake
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 4 Con 1 Int -4 Wis 0 Cha -4}
+- **Ability**: Str 0 Dex 4 Con 1 Int -4 Wis 0 Cha -4
 - **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Movement**: 30 ft, swim 30 ft
 - **Challenge**: 1/4 (50 XP)
 
@@ -32404,9 +33260,9 @@ Some giant lizards have one or both of the following traits.
 
 ## Giant Rat
 - **Size/Type**: Small beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 2 Con 0 Int -4 Wis 0 Cha -3}
+- **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 0 Cha -3
 - **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Challenge**: 1/8 (25 XP)
 
@@ -32428,9 +33284,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Giant Scorpion
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 2 Int -5 Wis -1 Cha -4}
+- **Ability**: Str 2 Dex 1 Con 2 Int -5 Wis -1 Cha -4
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
 - **Movement**: 12 m
 - **Challenge**: 3 (700 XP)
 
@@ -32446,9 +33302,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Giant Sea Horse
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 2 Con 0 Int -4 Wis 1 Cha -3}
+- **Ability**: Str 1 Dex 2 Con 0 Int -4 Wis 1 Cha -3
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 0 m, swim 12 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -32462,9 +33318,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Giant Shark
 - **Size/Type**: Huge beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 6 Dex 0 Con 5 Int -5 Wis 0 Cha -3}
+- **Ability**: Str 6 Dex 0 Con 5 Int -5 Wis 0 Cha -3
 - **Hit Points**: 110,  **Defense:** 18,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +5, Will +5}
+- **Saving Throws**: Fortitude +10, Reflex +5, Will +5
 - **Movement**: 0 ft, swim 50 ft
 - **Challenge**: 5 (1800 XP)
 \
@@ -32479,9 +33335,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Giant Spider
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 3 Con 1 Int -4 Wis 0 Cha -3}
+- **Ability**: Str 2 Dex 3 Con 1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Movement**: 9 m, climb 9 m
 - **Challenge**: 1 (200 XP)
 
@@ -32503,9 +33359,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Giant Vulture
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 0 Con 2 Int -2 Wis 1 Cha -2}
+- **Ability**: Str 2 Dex 0 Con 2 Int -2 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 3 m, flight 18 m
 - **Challenge**: 0 (10 XP)
 
@@ -32525,9 +33381,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Giant Wasp
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 2 Con 0 Int -5 Wis 0 Cha -4}
+- **Ability**: Str 0 Dex 2 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 10 ft, fly 50 ft
 - **Challenge**: 1/2 (100 XP)
 \
@@ -32538,9 +33394,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Giant Weasel
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 3 Con 0 Int -3 Wis 1 Cha -3}
+- **Ability**: Str 0 Dex 3 Con 0 Int -3 Wis 1 Cha -3
 - **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 1/8 (25 XP)
 
@@ -32552,9 +33408,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Giant Wolf Spider
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 3 Con 1 Int -4 Wis 1 Cha -3}
+- **Ability**: Str 1 Dex 3 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: 19,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m, climb 12 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -32570,9 +33426,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Goat
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 0 Con 0 Int -4 Wis 0 Cha -3}
+- **Ability**: Str 1 Dex 0 Con 0 Int -4 Wis 0 Cha -3
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Challenge**: 0 (10 XP)
 
@@ -32586,9 +33442,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Hawk
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 3 Con -1 Int -4 Wis 2 Cha -2}
+- **Ability**: Str -3 Dex 3 Con -1 Int -4 Wis 2 Cha -2
 - **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 3 m, flight 18 m
 - **Challenge**: 0(10 XP)
 
@@ -32600,9 +33456,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Hunter Shark
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 1 Con 2 Int -5 Wis 0 Cha -3}
+- **Ability**: Str 4 Dex 1 Con 2 Int -5 Wis 0 Cha -3
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
 - **Movement**: 0 ft, swim 40 ft
 - **Challenge**: 2 (450 XP)
 
@@ -32616,9 +33472,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Hyena
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 1 Con 1 Int -4 Wis 1 Cha -3}
+- **Ability**: Str 0 Dex 1 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 15 m
 - **Challenge**: 0(10 XP)
 
@@ -32630,9 +33486,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Jackal
 - **Size/Type**: Small beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 2 Con 0 Int -4 Wis 1 Cha -2}
+- **Ability**: Str -1 Dex 2 Con 0 Int -4 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 0 (10 XP)
 
@@ -32646,9 +33502,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Killer Whale (Orca)
 - **Size/Type**: Huge beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 1 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 4 Dex 0 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 69,  **Defense:** 16,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +4}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +4
 - **Movement**: 0 m, swim 18 m
 - **Challenge**: 3 (700 XP)
 
@@ -32664,9 +33520,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Lion
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 1 Int -4 Wis 1 Cha -1}
+- **Ability**: Str 3 Dex 2 Con 1 Int -4 Wis 1 Cha -1
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 15 m
 - **Challenge**: 1 (200 XP)
 
@@ -32688,9 +33544,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Mammoth
 - **Size/Type**: Huge beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -2}
+- **Ability**: Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -2
 - **Hit Points**: 129,  **Defense:** 19,  **Initiative:** -1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +11, Reflex +5, Will +6}
+- **Saving Throws**: Fortitude +11, Reflex +5, Will +6
 - **Movement**: 12 m
 - **Challenge**: 6 (2300 XP)
 
@@ -32706,9 +33562,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Mastiff
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 1/8 (25 XP)
 
@@ -32720,10 +33576,10 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Monkey
 - **Size/Type**: Small beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 2 Con 0 Int -3 Wis 1 Cha -2}
+- **Ability**: Str -3 Dex 2 Con 0 Int -3 Wis 1 Cha -2
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
 - **Skills**: Acrobatics +6, Awareness +3
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m, climb 9 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -32737,9 +33593,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Owl
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 1 Con -1 Int -4 Wis 1 Cha -2}
+- **Ability**: Str -4 Dex 1 Con -1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 1 m, flight 18 m
 - **Challenge**: 0(10 XP)
 
@@ -32753,9 +33609,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Panther
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -2}
+- **Ability**: Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -2
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 15 m, climb 12 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -32773,9 +33629,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Phase Spider
 - **Size/Type**: Large monstrosity, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 2 Con 1 Int -2 Wis 0 Cha -2}
+- **Ability**: Str 2 Dex 2 Con 1 Int -2 Wis 0 Cha -2
 - **Hit Points**: 69,  **Defense:** 18,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +5, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +5, Will +3
 - **Movement**: 9 m, climb 9 m
 - **Challenge**: 3 (700 XP)
 
@@ -32791,9 +33647,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Piranha
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 3 Con -1 Int -5 Wis -2 Cha -4}
+- **Ability**: Str -4 Dex 3 Con -1 Int -5 Wis -2 Cha -4
 - **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 0 m, swim 12 m
 - **Challenge**: 0(10 XP)
 
@@ -32807,9 +33663,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Poisonous Snake
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 3 Con 0 Int -5 Wis 0 Cha -4}
+- **Ability**: Str -4 Dex 3 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 30 ft, swim 30 ft
 - **Challenge**: 1/8 (25 XP)
 
@@ -32819,9 +33675,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Polar Bear
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex 0 Con 3 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 5 Dex 0 Con 3 Int -4 Wis 1 Cha -2
 - **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Movement**: 12 m, swim 9 m
 - **Challenge**: 2 (450 XP)
 
@@ -32839,9 +33695,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Rat
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 0 Con -1 Int -4 Wis 0 Cha -3}
+- **Ability**: Str -4 Dex 0 Con -1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m
 - **Challenge**: 0(10 XP)
 
@@ -32853,9 +33709,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Raven
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 2 Con -1 Int -4 Wis 1 Cha -2}
+- **Ability**: Str -4 Dex 2 Con -1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 3 m, flight 15 m
 - **Challenge**: 0(10 XP)
 
@@ -32867,9 +33723,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Reef Shark
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 1 Con 1 Int -5 Wis 0 Cha -3}
+- **Ability**: Str 2 Dex 1 Con 1 Int -5 Wis 0 Cha -3
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 0 ft, swim 40 ft
 - **Challenge**: 1/2 (100 XP)
 \
@@ -32884,9 +33740,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Rhinoceros
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 5 Dex -1 Con 2 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 5 Dex -1 Con 2 Int -4 Wis 1 Cha -2
 - **Hit Points**: 51,  **Defense:** 13,  **Initiative:** -1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 2 (450 XP)
 
@@ -32898,9 +33754,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Saber-Toothed Tiger
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 2 Con 2 Int -3 Wis 1 Cha 0}
+- **Ability**: Str 4 Dex 2 Con 2 Int -3 Wis 1 Cha 0
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +4, Will +3
 - **Movement**: 40 ft
 - **Challenge**: 2 (450 XP)
 \
@@ -32919,9 +33775,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Saurovallo, Draft
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 0 Con 1 Int -3 Wis 0 Cha -2}
+- **Ability**: Str 4 Dex 0 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -32931,9 +33787,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Saurovallo, Pony
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 0 Con 1 Int -3 Wis 0 Cha -2}
+- **Ability**: Str 2 Dex 0 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 1/8 (25 XP)
 
@@ -32957,9 +33813,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Saurovallo, Riding
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 1 Int -3 Wis 0 Cha -2}
+- **Ability**: Str 3 Dex 0 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 18 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -32967,9 +33823,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Saurovallo, War
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 1 Con 1 Int -2 Wis 1 Cha -2}
+- **Ability**: Str 4 Dex 1 Con 1 Int -2 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 18 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -32981,9 +33837,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Scorpion
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 0 Con -1 Int -5 Wis -1 Cha -4}
+- **Ability**: Str -4 Dex 0 Con -1 Int -5 Wis -1 Cha -4
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 3 m
 - **Challenge**: 0(10 XP)
 
@@ -32993,9 +33849,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Spider
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 (-5) Dex 2 Con -1 Int -5 Wis 0 Cha -4}
+- **Ability**: Str 2 (-5) Dex 2 Con -1 Int -5 Wis 0 Cha -4
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m, climb 6 m
 - **Challenge**: 0(10 XP)
 
@@ -33011,9 +33867,9 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ## Stirge
 - **Size/Type**: Tiny beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2}
+- **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
 - **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 10 ft, fly 40 ft
 - **Challenge**: 1/8 (25 XP)
 \
@@ -33026,10 +33882,10 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Swarm of Bats
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -3 Dex 2 Con 0 Int -4 Wis 1 Cha -3}
+- **Ability**: Str -3 Dex 2 Con 0 Int -4 Wis 1 Cha -3
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
 - **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 0 m, fly 9 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -33045,10 +33901,10 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Swarm of Centipedes
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5}
+- **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m, climb 6 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -33060,10 +33916,10 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Swarm of Piranhas
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 3 Con -1 Int -5 Wis -2 Cha -4}
+- **Ability**: Str 1 Dex 3 Con -1 Int -5 Wis -2 Cha -4
 - **Hit Points**: 32,  **Defense:** 16,  **Initiative:** +3
 - **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Movement**: 0 m, swim 12 m
 - **Challenge**: 1 (200 XP)
 
@@ -33079,10 +33935,10 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Swarm of Poisonous Snakes
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 4 Con 0 Int -5 Wis 0 Cha -4}
+- **Ability**: Str -1 Dex 4 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
 - **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
 - **Movement**: 9 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -33094,10 +33950,10 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Swarm of Rats
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 0 Con -1 Int -4 Wis 0 Cha -4}
+- **Ability**: Str -1 Dex 0 Con -1 Int -4 Wis 0 Cha -4
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
 - **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -33117,10 +33973,10 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Swarm of Ravens
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 2 Con -1 Int -4 Wis 1 Cha -2}
+- **Ability**: Str -2 Dex 2 Con -1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
 - **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 3 m, fly 15 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -33132,10 +33988,10 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Swarm of Spiders
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5}
+- **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m, climb 6 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -33153,9 +34009,9 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Swarm of Wasps
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 1 Con 0 Int -5 Wis -2 Cha -5}
+- **Ability**: Str -1 Dex 1 Con 0 Int -5 Wis -2 Cha -5
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 1m, fly 9 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -33167,9 +34023,9 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Tiger
 - **Size/Type**: Large beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -1}
+- **Ability**: Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -1
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 40 ft
 - **Challenge**: 1 (200 XP)
 \
@@ -33188,9 +34044,9 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Vulture
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -2 Dex 0 Con 1 Int -4 Wis 1 Cha -3}
+- **Ability**: Str -2 Dex 0 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 3 m, flight 15 m
 - **Challenge**: 0 (10 XP)
 
@@ -33204,10 +34060,10 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Swarm of Insects
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5}
+- **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
 - **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m, climb 6 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -33219,9 +34075,9 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Winter Wolf
 - **Size/Type**: Large monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 4 Dex 1 Con 2 Int -2 Wis 1 Cha -1}
+- **Ability**: Str 4 Dex 1 Con 2 Int -2 Wis 1 Cha -1
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +4, Will +4}
+- **Saving Throws**: Fortitude +5, Reflex +4, Will +4
 - **Movement**: 15 m
 - **Challenge**: 3 (700 XP)
 
@@ -33239,9 +34095,9 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Wolf
 - **Size/Type**: Medium beast, unaligned
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2}
+- **Ability**: Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m
 - **Challenge**: 1/4 (50 XP)
 
@@ -33255,9 +34111,9 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Worg
 - **Size/Type**: Large monstrosity, evil
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 1 Int -2 Wis 0 Cha -1}
+- **Ability**: Str 3 Dex 1 Con 1 Int -2 Wis 0 Cha -1
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 50 ft
 - **Challenge**: 1/2 (100 XP)
 \
@@ -33270,7 +34126,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ## Appendix B: Non-Player Characters
 
-\rule 
+ 
 
 This appendix contains statistics for various humanoid non-player characters (NPCs) that adventurers might encounter during a campaign, from lowly commoners to powerful archmages. These statistics can be used to represent both human and non-human NPCs.
 
@@ -33292,9 +34148,9 @@ Fighters are individuals who earn a living by putting their sword in service to 
 
 ## Guard
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha 0}
+- **Ability**: Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha 0
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Challenge**: 1/2 (100 XP)
 
@@ -33306,10 +34162,10 @@ Guards include members of the city watch, sentinels in a citadel or fortified to
 
 ## Veteran
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 2 Int 0 Wis 0 Cha 0}
+- **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis 0 Cha 0
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
 - **Skills**: Athletics +5
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +4, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
 - **Movement**: 9 m
 - **Languages**: Common
 - **Challenge**: 3 (700 XP)
@@ -33332,9 +34188,9 @@ Warriors who have survived long, earning a great reputation as expert and skille
 
 ## Knight
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha 2}
+- **Ability**: Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha 2
 - **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Challenge**: 3 (700 XP)
 
@@ -33356,17 +34212,15 @@ Knights are fighters who swear allegiance to rulers, religious orders, and noble
 
 **Reactions*Parry.*** The knight can add 2 to its Defense against a melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
-\rule 
-
 This category includes individuals who keep the world running, performing the necessary tasks to ensure that fields are cultivated, cities are administered, food is grown and
 new territories are explored.
 
 ## Noble
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 1 Con 0 Int 1 Wis 2 Cha 3}
+- **Ability**: Str 0 Dex 1 Con 0 Int 1 Wis 2 Cha 3
 - **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
 - **Skills**: Sense Emotions +4, Deception +5
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: two languages of your choice
 - **Challenge**: 1/8 (25 XP)
@@ -33381,9 +34235,9 @@ Nobles command the population by virtue of birthright or accumulated wealth. Amo
 
 ## Commoner
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 0 Con 0 Int 0 Wis 0 Cha 0}
+- **Ability**: Str 0 Dex 0 Con 0 Int 0 Wis 0 Cha 0
 - **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
@@ -33400,9 +34254,9 @@ Criminals are individuals who live on the edge of legality, making their living 
 
 ## Bandit/Pirate
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 0}
+- **Ability**: Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 0
 - **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
@@ -33419,9 +34273,9 @@ Whether they are men of the street or the sea (pirates), these individuals make 
 
 ## Spy
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 2 Con 0 Int 1 Wis 2 Cha 3}
+- **Ability**: Str 0 Dex 2 Con 0 Int 1 Wis 2 Cha 3
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: two languages of your choice
 - **Challenge**: 1 (200 XP)
@@ -33444,10 +34298,10 @@ A spy is an individual trained in gathering secrets for someone, or sometimes to
 
 ## Bandit Captain or Pirate
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 2 Dex 3 Con 2 Int 2 Wis 0 Cha 2}
+- **Ability**: Str 2 Dex 3 Con 2 Int 2 Wis 0 Cha 2
 - **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
 - **Skills**: Athletics +4, Deception +4
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +4, Reflex +5, Will +3}
+- **Saving Throws**: Fortitude +4, Reflex +5, Will +3
 - **Movement**: 9 m
 - **Languages**:  two languages of your choice
 - **Challenge**: 2 (450 XP)
@@ -33468,10 +34322,10 @@ Whether living on land or at sea, this is an individual with a great personality
 
 ## Assassin
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 3 Con 2 Int 1 Wis 0 Cha 0}
+- **Ability**: Str 0 Dex 3 Con 2 Int 1 Wis 0 Cha 0
 - **Hit Points**: 162,  **Defense:** 25,  **Initiative:** +3
 - **Skills**: Acrobatics +6, Stealth +9, Deception +3
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +10, Reflex +11, Will +8}
+- **Saving Throws**: Fortitude +10, Reflex +11, Will +8
 - **Movement**: 9 m
 - **Languages**: Common plus two other languages
 - **Challenge**: 8 (3900 XP)
@@ -33502,10 +34356,10 @@ The wizard spends their life studying and practicing magic.
 
 ## Adventuring Wizard
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 2 Con 0 Int 2 Wis 1 Cha 0}
+- **Ability**: Str -1 Dex 2 Con 0 Int 2 Wis 1 Cha 0
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +3
 - **Skills**: Arcana +5, History +5
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: four languages of your choice
 - **Challenge**: 1 (200 XP)
@@ -33526,10 +34380,10 @@ level 2 (3 slots): *Hold Person, Misty Step*
 
 ## Great Wizard
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str -1 Dex 2 Con 0 Int 3 Wis 1 Cha 0}
+- **Ability**: Str -1 Dex 2 Con 0 Int 3 Wis 1 Cha 0
 - **Hit Points**: 122,  **Defense:** 22,  **Initiative:** +3
 - **Skills**: Arcana +6, History +6
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +6, Reflex +8, Will +7}
+- **Saving Throws**: Fortitude +6, Reflex +8, Will +7
 - **Movement**: 9 m
 - **Languages**: four languages of your choice
 - **Challenge**: 6 (2300 XP)
@@ -33558,10 +34412,10 @@ level 5 (1 slot): *Cone of Cold*
 
 ## Archmage
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 2 Con 1 Int 5 Wis 2 Cha 3}
+- **Ability**: Str 0 Dex 2 Con 1 Int 5 Wis 2 Cha 3
 - **Hit Points**: 233,  **Defense:** 30,  **Initiative:** +5
 - **Skills**: Arcana +13, History +13
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{\resizebox{0.5\linewidth+1.4cm}{!}{Fortitude +13, Reflex +14, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +14, Will +14
 - **Movement**: 9 m
 - **Languages**: six languages of your choice
 - **Challenge**: 12 (8400 XP)
@@ -33606,10 +34460,10 @@ Priests are devoted to a deity or faith who take care of imparting divine teachi
 
 ## Cultist
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 1 Con 0 Int 0 Wis 0 Cha 0}
+- **Ability**: Str 0 Dex 1 Con 0 Int 0 Wis 0 Cha 0
 - **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
 - **Skills**: Deception +2, Religion +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
@@ -33624,10 +34478,10 @@ Cultists swear allegiance to dark powers, and in their beliefs and practices oft
 
 ## Acolyte
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 0 Con 0 Int 0 Wis 2 Cha 0}
+- **Ability**: Str 0 Dex 0 Con 0 Int 0 Wis 2 Cha 0
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
 - **Skills**: First Aid +4, Religion +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: Common
 - **Challenge**: 1/4 (50 XP)
@@ -33646,10 +34500,10 @@ level 1 (3 slots): *Bless, Cure Wounds, Sanctuary*
 
 ## Acolyte
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 2}
+- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
 - **Skills**: Deception +4, Religion +2
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: Common and one other language
 - **Challenge**: 1 (200 XP)
@@ -33674,9 +34528,9 @@ level 2 (3 slots): *Spiritual Weapon, Hold Person*
 
 ## High Priest
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 0 Con 1 Int 1 Wis 3 Cha 1}
+- **Ability**: Str 0 Dex 0 Con 1 Int 1 Wis 3 Cha 1
 - **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +5}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +5
 - **Movement**: 7 m
 - **Languages**: two languages of your choice
 - **Challenge**: 2 (450 XP)
@@ -33705,9 +34559,9 @@ These individuals live on the fringes of civilization, sometimes rarely coming i
 
 ## Berserker
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 3 Dex 1 Con 3 Int -1 Wis 0 Cha -1}
+- **Ability**: Str 3 Dex 1 Con 3 Int -1 Wis 0 Cha -1
 - **Hit Points**: 52,  **Defense:** 15,  **Initiative:** +1
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +5, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: Common
 - **Challenge**: 2 (450 XP)
@@ -33722,9 +34576,9 @@ Coming from wild lands, unpredictable berserkers gather in war bands and are alw
 
 ## Tribal Warrior
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 1 Dex 0 Con 1 Int -1 Wis 0 Cha -1}
+- **Ability**: Str 1 Dex 0 Con 1 Int -1 Wis 0 Cha -1
 - **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: Common
 - **Challenge**: 1/8 (25 XP)
@@ -33739,10 +34593,10 @@ They are the defenders of tribes living on the fringes of civilization.
 
 ## Druid
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 1 Con 1 Int 1 Wis 2 Cha 0}
+- **Ability**: Str 0 Dex 1 Con 1 Int 1 Wis 2 Cha 0
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
 - **Skills**: First Aid +4, Nature +3, Awareness +4
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +4}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +4
 - **Movement**: 9 m
 - **Languages**: Druidic plus two other languages
 - **Challenge**: 2 (450 XP)
@@ -33763,10 +34617,10 @@ level 2 (3 slots): *Animal Messenger, Barkskin*
 
 ## Scout
 - **Size/Type**: Medium humanoid, any Trait
-- **Ability**: \resizebox{0.5\linewidth+1.8cm}{!}{Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 0}
+- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 0
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
 - **Skills**: Stealth +6, Nature +4, Awareness +5, Survival +5
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm}{!}{Fortitude +3, Reflex +3, Will +3}
+- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
 - **Languages**: Common
 - **Challenge**: 1/2 (100 XP)
@@ -33787,8 +34641,6 @@ Skilled hunters and trackers.
 
 }  %chiude {
 
-\rule
-
 ## Conversions from 5e
 
 To convert monsters from the famous Role-Playing Game:
@@ -33807,7 +34659,9 @@ Round up the CR in calculations.
 
 ## Monster Templates and Suggestions
 
-Here are suggestions on how to differentiate monsters and make them more specific to the situation. A monster with one of these templates will take on some appearance, ability, and gameplay traits typical of the template itself.
+| Here are suggestions on how to differentiate monsters and make them more specific to the situation. A monster with one of these templates will take on some appearance, ability, and gameplay traits typical of the template itself. |
+| --- |
+
 **Specter**
 
 The Specter template gives the creature a *ghostly* appearance
@@ -34133,8 +34987,6 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 
 **Vulnerability**: works opposite to Resistance. The damage is doubled before any Saving Throw.
 
-\rule{\textwidth}{0.4pt}
-
 ## Tables for random rolls
 
 | **3d6** | **Effect** |
@@ -34161,6 +35013,7 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 **Name Generator**
 
 	
+
 | \# | 1d8 | 1d8 | 1d8 |
 | 1 | An | la | mo |
 | 2 | Vi | ca | ta |
@@ -34173,136 +35026,11 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 
 **Table: random weapon generation**
 
-\resizebox{
-		
-| **1d100** | **Weapon** | **1d100** | **Weapon** | **1d100** | **Weapon** | **1d100** | **Weapon** |
-| 1 | Axe hammer | 26-27 | Greatsword | 51-52 | One-handed crossbow | 76-77 | Spear |
-| 2 | Bastard sword | 28-29 | Halberd | 53-54 | One-handed axe | 78-79 | Spiked chain |
-| 3-4 | Battle axe | 30 | Heavy crossbow | 55 | Punch/kick | 80 | Spiked gauntlet |
-| 5-6 | Broken weapon | 31-32 | Heavy flail | 56-57 | Rapier | 81 | Spiked mace |
-| 7-9 | Broadsword | 33-34 | Heavy pick | 58-59 | Scimitar | 82 | Staff |
-| 10-11 | Club | 35 | Javelin | 60 | Scythe | 83-84 | Trident |
-| 12-13 | Comp. long bow | 36-37 | Katana | 61-62 | Short bow | 85-87 | Two-bladed sword |
-| 14-15 | Comp. short bow | 38-40 | Lance | 63-64 | Short sword | 88 | Urgrosh |
-| 16-17 | Dagger | 41 | Light crossbow | 65-66 | Sickle | 89-93 | Warhammer |
-| 18 | Double flail | 42 | Light mace | 67-75 | Longsword | 94 | Whip |
-| 19-20 | Estoc | 43 | Light pick |  |  | 95-100 | Falchion |
-| 21-22 | Flail | 44-45 | Machete |  |  |  | |
-| 23-25 | Glaive | 46-50 | Great double axe |  |  |  | |
-
 **Table: spell shapes - Sphere and Cone**
-
-\begin{tikzpicture}[scale=0.5]
-
-\fill[orange] (1,17) rectangle (4,20);
-\fill[blue] (2.5,18.5) circle (0.3);
-\node at (3,16) [above] {radius 1 meter};
-
-\fill[orange] (6,15) rectangle (11,20);
-\fill[white] (5,20) rectangle (6,21);
-\fill[white] (6,19) rectangle (7,20);
-\fill[white] (10,15) rectangle (11,16);
-\fill[white] (6,15) rectangle (7,16);
-\fill[white] (10,19) rectangle (11,20);
-\fill[blue] (8.5,17.5) circle (0.3);
-\node at (8.5,14) [above] {radius 2 meters};
-
-\fill[orange] (12,13) rectangle (19,20);
-\fill[white] (12,19) rectangle (13,20);
-\fill[white] (18,13) rectangle (19,14);
-\fill[white] (12,13) rectangle (13,14);
-\fill[white] (18,19) rectangle (19,20);
-\fill[blue] (15.5,16.5) circle (0.3);
-\node at (16,12) [above] {radius 3 meters};
-
-\fill[orange] (2,8) -- (7.5,10.5) -- (2,13) -- cycle;
-\fill[blue] (7.5,10.5) circle (0.3);
-\node at (4.5,7) [above] {cone of 5 meters};
-
-\fill[orange] (17,8) -- (20.5,9.5) -- (17,11) -- cycle;
-\fill[blue] (20.5,9.5) circle (0.3);
-\node at (18,7) [above] {cone of 3 meters};
-
-\fill[orange] (9,7) -- (15.5,10) -- (9,13) -- cycle;
-\fill[blue] (15.5,10.5) circle (0.3); % Blue point on the right tip
-\node at (12,6.5) [above] {cone of 6 meters};
-
-\foreach \x in {0,...,20}
-\foreach \y in {5,...,20}
-\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
-
-\end{tikzpicture}
 
 The blue point determines the origin of the spell
 
 **Examples of enemy reach**
-
-\begin{tikzpicture}[scale=0.5]
-
-\fill[orange] (1,18) rectangle (2,19);
-\node at (1.5,18.5) ;
-
-\foreach \x in {-1,...,1} {
-\node at (\x+1.5,17.5) {A};
-\node at (\x+1.5,19.5) {A};
-
-\foreach \y in  { \node at (+0.5,\y+0.5) {A};
-\node at (2.5,\y+0.5) {A}; }
-
-\node at (1.5,16) [above] {Reach 1m};
-
-\fill[orange] (5,17) rectangle (7,19);
-\node at (5.5,17.5) ;
-\node at (5.5,18.5) ;
-\node at (6.5,17.5) ;
-\node at (6.5,18.5) ;
-
-\foreach \x in {3,...,6} {
-\node at (\x+1.5,19.5) {A}; % Above
-\node at (\x+1.5,16.5) {A}; % Below
-
-\foreach \y in {9,...,10} {
-\node at (4.5,\y+8.5) {A}; % Left
-\node at (7.5,\y+8.5) {A}; % Right
-
-\node at (6,15) [above] {Reach 1m};
-
-\fill[orange] (11,15) rectangle (14,18);
-\node at (11.5,17.5) ;
-\node at (12.5,17.5) ;
-\node at (13.5,17.5) ;
-
-\node at (11.5,16.5) ;
-\node at (12.5,16.5) ;
-\node at (13.5,16.5) ;
-
-\node at (11.5,15.5) ;
-\node at (12.5,15.5) ;
-\node at (13.5,15.5) ;
-
-\foreach \x in {10,...,14} {
-\node at (\x+0.5,14.5) {A};
-\node at (\x+0.5,18.5) {A};
-
-\foreach \y in {13,...,17} {
-\node at (10.5,\y+1.5) {A};
-\node at (14.5,\y+1.5) {A};
-
-\foreach \x in {9,...,15} {
-\node at (\x+0.5,19.5) {B};
-\node at (\x+0.5,13.5) {B};
-
-\foreach \y in {13,...,18} {
-\node at (9.5,\y+0.5) {B};
-\node at (15.5,\y+0.5) {B};
-
-\node at (12.5,12) [above] {Reach 2m};
-
-\foreach \x in {-1,...,19}
-\foreach \y in {12,...,19}
-\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
-
-\end{tikzpicture}
 ---
 
 # Author and Contributions
@@ -34314,43 +35042,43 @@ The blue point determines the origin of the spell
 # Material for playing
 
 You are invited to download **Old Bell School System** from GitHub freely and without constraints except for those expressed in the license.
-The main site is \href{https://github.com/buzzqw/TUS}{https://github.com/buzzqw/TUS}
+The main site is https://github.com/buzzqw/TUS
 
 * **OBSS Manual**:
-\href{https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf}{OBSSv2-eng.pdf}
+https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-eng.pdf
 
 * **Character Sheet**:
-\href{https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda.pdf}{OBSS-scheda-eng.pdf}
+https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda-eng.pdf
 
 * **Narrator's Screen**:
-\href{https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf}{screenv2-eng.pdf}
+https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2-eng.pdf
 
 * **Character Information**:
-\href{https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-arbiter-character-eng.pdf}{OBSS-schema-arbiter-character-eng.pdf}
+https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-arbiter-character-eng.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-arbiter-character-eng.pdf
 
-* **Changelog, only in italian** \href{https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md}{changelog.md}
+* **Changelog, only in italian** https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md
 
 * **Feedback**
 
-For any feedback or suggestions, please open an issue on GitHub, or send me an email at azanzani@gmail.com% or contact me on the OBSS Telegram group \href{https://t.me/obssgdr}{https://t.me/obssgdr}
+For any feedback or suggestions, please open an issue on GitHub, or send me an email at azanzani@gmail.com% or contact me on the OBSS Telegram group https://t.me/obssgdr
 
 # Acknowledgments
 
-Part of the material is adapted from \href{https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_IT.pdf}{SRD\_CC\_v5.1\_IT.pdf} released by Wizards of the Coast.
+Part of the material is adapted from https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_IT.pdf released by Wizards of the Coast.
 
 Link https://media.wizards.com/2023/downloads/dnd/SRD\_CC\_v5.1\_IT.pdf
 
-I thank the \href{https://www.brailleinstitute.org/freefont/}{Braille Institute} for the font used. Atkinson Hyperlegible Font is a highly readable font, even for people with reading difficulties.
+I thank the https://www.brailleinstitute.org/freefont/ for the font used. Atkinson Hyperlegible Font is a highly readable font, even for people with reading difficulties.
 
 # License
 
@@ -34363,8 +35091,6 @@ Before any use of OBSS or parts of it, please contact me.
 ---
 
 # My Options
-
-\normalsize
 
 I am also a Narrator, and while I built OBSS based on my preferences, there are some Options that make the game more *unique* that I like to make available to the characters.
 
@@ -34379,33 +35105,3 @@ At my gaming table, I usually propose these Options, to be decided in Session Ze
 - Iconic Feats for long campaigns. Page 
 - Drugs **NO**. Only for groups composed of mentally mature and adult people. Page 
 - **No to using a timer on Lights**: if your adventures are not set in dungeons or you want a more streamlined management, don't manage light duration in real-time.
-
-\TotalBox{OBSSv2}
-
----
-
-\TotalBox{Table}
-
----
-
-\TotalBox{Spell}
-
----
-
-\TotalBox{MagicItems}
-
----
-
-\TotalBox{Feat}
-
----
-
-\TotalBox{Monster}
-
----
-
-# Appendice N
-
-		\printbibliography
-
-\end{document
