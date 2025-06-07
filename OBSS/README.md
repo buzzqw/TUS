@@ -13,7 +13,7 @@
 
 **An BETA ENGLISH TRANSLATION IS HERE https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-eng.pdf** !!!  (updated to latest commit)
 
-** The manual in markdown is avaible via WIKI!  https://github.com/buzzqw/TUS/wiki ***
+** The manual in markdown is avaible via WIKI!  https://github.com/buzzqw/TUS/wiki **
 
 In this folder you will find material for playing the Old Bell School System (OBSS) role-playing game.  The game uses and is licensed with ShareAlike 4.0 International and inspired by DnD history. This means that if you know DnD it will be easy and quick to grasp the mechanics (even if quite different!) 
 
