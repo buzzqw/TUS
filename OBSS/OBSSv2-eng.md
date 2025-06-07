@@ -7,11 +7,13 @@ Dedicated to the only Woman I've ever loved, the one who accompanies me in my dr
 Never give up on your desires, persevere until you make them real.
 
 >> 
+
 ---
 
 **Playtesting**: Federica Angeli, Simona Bissi, Fabrizio Bonetti, Francesco Converso, Carlo Dall'Ara, Lucia Dolcini, Michele Faedi, Dario Galassi, Micaela Gramellini, Stefano Mannino, Samuele Mazzotti, Emanuele Pezzi, Leonardo Pezzi, Gian Luca Fava, Nicola Ricottone, Marco Valmori, Edoardo Zanzani, Isotta Zanzani, SicuramenteNonMirko,
 
 **Old Bell School System - OBSS - Fantasy Adventure Game**
+
 ---
 
 >> "May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
@@ -155,6 +157,7 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 If you are further injured and the Hit Points drop to 10+double the value of Constitution, then you die.
 
 **Initiative**: it is a Dexterity or Intelligence check. It establishes the order of actions in combat. Who has the highest score in the check acts first.
+
 **Level**: the Level indicates the proficiency and power reached by the character. It can indicate how *strong* the enemy is.
 
 **Magic Check**: the Magic Check may be required in particular situations, for example when the character is wounded or distracted, but it can also be requested by the player.
@@ -177,6 +180,7 @@ Any creature that the character can reach with their non-ranged weapon is consid
 **One brings bad luck**: if you roll a 1 with the die, subtract 1 from the total result. This doesn't mean a rolled 6 becomes a 5, the explosion of 6 remains.. just subtract 1 from the final result. Said differently, 1 is worth 0.
 
 **Optional**: in OBSS there are various Optional rules to diversify and personalize the game. Talk about it during Session Zero and decide what style to give to your OBSS.
+
 **Patron**: or deity. The Patron is a superior being who can grant powers and guarantee advantages.
 
 **Penalty/Malus** : like bonuses, penalties or maluses are values, numbers, which indicate unfavorable circumstances, penalizing spells, or whatever makes the check more difficult. Unfortunately, unlike Bonuses, penalties,
@@ -212,6 +216,7 @@ In the Manual, you will find different types of boxes, each has a precise meanin
 >> Box containing indications and clarifications for the Player.
 
 >>> Box containing indications and suggestions for the Narrator
+
 ---
 
 # Races
@@ -539,6 +544,7 @@ Create the most beautiful and complete characters possible. Each character is al
 >> Note on Character Sex
 >>
 >> In case you were so obtuse, I reiterate that there is no difference in ability or characteristics based on sex. Every player is invited to create a character of the gender they prefer.
+
 ---
 
 # Special Characteristics
@@ -606,6 +612,7 @@ A creature with Tremorsense is sensitive to ground vibrations and can automatica
 Aquatic Creatures with Tremorsense (echolocation) can perceive the position of creatures in contact with water.
 
 The range of the ability is specified in the descriptive text of the creature.
+
 ---
 
 # Ability Scores
@@ -789,6 +796,7 @@ The increase in Ability Score immediately applies the modifier to Saving Throws 
 >> The Character Sucks! - Low Ability Scores
 >>
 >> Having low Ability Scores is not the death of the character! Rather, try to play so that it's not necessary to roll dice or make checks! Strive to be witty, intuitive, proactive, clever... in short, everything that can help you solve the situation without necessarily having to roll dice. In OBSS, the Narrator rewards players who describe and excel in what the character does!
+
 ---
 
 # Hit Points
@@ -1513,6 +1521,7 @@ Each point attributed to Base Proficiencies or Weapon or Magic Proficiency allow
 **4th level**: +1 Weapon Proficiency, Feat: Cautious Spellcaster (+2 Reflex, +1 Fortitude, **Intelligence**)
 
 ***Total***: +2 WP, +2 MP, +4 Reflex Saving Throw, +6 Fortitude Saving Throw, +6 Will Saving Throw
+
 ---
 
 # Building the Character
@@ -1790,8 +1799,6 @@ When the Check is opposed to a *static opponent*, that is, not a creature endowe
 
 ## Bonuses and Penalties
 
- 
-
 Depending on the circumstances, there may be bonuses, advantages or penalties, disadvantages in the checks.
 
 The modifier in **dynamic checks** is to be used when the check is made by rolling the 3d6, in this case bonuses or penalties can be added (-1, +2...) or even roll more or fewer dice (+1d6, -2d6), up to not rolling dice (with 3d6 of penalty)!
@@ -2032,6 +2039,7 @@ To the **Base Difficulty of 15**, the following modifiers apply:
 >>
 >> To be cynical, a role-playing game is all about checks, whether you're trying to make a jump, hit someone, avoid a trap or a spell...!
 You need to be smarter and wiser. Checks can often be avoided or approached with advantage. Play with wit, use your imagination, be creative!
+
 ---
 
 # Social Combat
@@ -2306,6 +2314,7 @@ If not indicated in the opponent's sheet, **reach** is equal to half the space o
 >> E.g., for a creature armed with a spear, the reach is 2, meaning the melee distance is 2 meters because the weapon is long. For a gnome armed with a hammer, or bare-handed, the melee distance is 1 meter. For particularly large creatures (Huge or larger) with equally large weapons, the reach is indicated or inferred from the monster's dimensions and weapon type.
 
 **Reach indicates how far you can hit in melee.**
+
 ---
 
 ## Life and Death
@@ -2358,7 +2367,7 @@ A dead character cannot benefit from normal or magical healing, and cannot be br
 
 ### Optional - Recovery from 0 Hit Points
 
-  
+ 
 
 > The reports of my death are greatly exaggerated. (Samuel Clemens)
 
@@ -2387,6 +2396,7 @@ Every hour you recover, with a minimum of 1 Hit Point, your Constitution value.
 Unless otherwise indicated, whenever a character takes damage that lowers Maximum Hit Points, in addition to lowering these, they must also subtract them from current Hit Points. A character, when healed, cannot exceed the current Maximum Hit Points.
 
 Every 8 hours of rest, within 24 hours, recovers 1d4 + Constitution in Maximum Hit Points, with a minimum of 1.
+
 ---
 
 ## Attack Roll and Defense
@@ -2550,15 +2560,11 @@ A dagger thrown within 6 meters has no penalty, thrown between 6 and 12 meters h
 
 ## Long Weapon
 
- 
-
 A long weapon allows you to hit a target at a distance of 2 meters.
 
 Using a **Long weapon at short distance** , less than 2 meters, imposes a -4 penalty to the Attack Roll, except when using a Staff.
 
 ## Double Weapon
-
- 
 
 A double weapon is a weapon that is dangerous at both ends. It can be used as a single weapon, or, incurring the penalties of fighting with two weapons, as two weapons.
 
@@ -2566,13 +2572,9 @@ Unless specified, a double weapon used for Two weapon Fighting is equivalent to 
 
 ## Versatile Weapons
 
- 
-
 Weapons with the Versatile trait can use Dexterity instead of Strength for Attack Rolls. Strength is always used for damage.
 
 ## Light Weapons
-
- 
 
 These weapons are light and suitable for Two weapon Fighting.
 
@@ -2586,8 +2588,6 @@ The damage bonus given by Strength on the secondary weapon is halved. If the sec
 It's possible to use the secondary weapon to improve your Defense by one point, but you cannot make attacks with that weapon.
 
 ## Charge
-
- 
 
 The opponent must be within 2 Movement Actions (usually 18 or 12 meters) and not less than 3 meters away; the terrain must not be difficult (see also Rhino, page ). You must run until you are at melee distance.
 
@@ -2603,15 +2603,11 @@ If you perform a Charge and the Attack Roll succeeds, your weapon with the Set a
 
 ### Setting a long/set against a charge weapon against a charge
 
- 
-
 Only a weapon with the set against a charge trait can be used against a charge. Setting a weapon against a charge costs one Reaction.
 
 If the charging creature has a shorter reach than the opponent, then whoever prepares the counter-charge can make an attack with the weapon as a Free Action (in addition to the Reaction to set the weapon) with an Attack Roll with a -1d6 penalty, before the opponent. If they hit, they inflict an added Critical Hit.
 
 ## Attacks with Splash Weapons
-
- 
 
 Splash weapons are those that *spread* their contents where they fall, such as flaming oil/holy water... A splash weapon has a range of 6 meters.
 
@@ -2643,8 +2639,6 @@ When both creatures are caught by surprise, to determine who is actually surpris
 A spellcaster who casts a spell while in combat (has an opponent in melee or is targeted from a distance) is considered Distracted.
 
 ## Modifiers in Attack or Defense
-
- 
 
 The best suggestion that can be given in managing the more chaotic combat situations is to think of these as a movie, evaluate the cinematic quality of the situation.
 
@@ -2680,11 +2674,9 @@ The **positive modifiers indicated** in the *Table: Modifiers in attack or defen
 
 ## Other Actions and Situations
 
- 
-
 ### Unarmed Attack
 
-  
+ 
 
 Two weapons that will never be lacking to anyone are their own fists and kicks; with these weapons you are always trained and they are not considered improvised attacks.
 
@@ -2705,8 +2697,6 @@ Costs 1 Action. With an Immediate Action, the character can make an Acrobatics c
 When you are prone, you can crawl or move on all fours. The terrain is considered difficult and you are still considered prone until you get up.
 
 ### Coup de Grace
-
- 
 
 Costs 3 Actions; you can use a melee weapon to deliver a coup de grace to a helpless or defenseless target (unconscious or trapped). You can also use a bow or crossbow, as long as you are adjacent to the target.
 
@@ -2735,8 +2725,6 @@ Using a weapon without the appropriate proficiency, meaning not having the Weapo
 You cannot use a weapon's Versatile capability if you don't know how to use it. Kicks and Punches or a Simple Weapon can be used without penalty even without specific proficiencies.
 
 ### Throwing Weapons
-
- 
 
 A sword or any weapon not made to be thrown, without Range, can still be hurled at an opponent.
 
@@ -2771,8 +2759,6 @@ If the creature can face multiple creatures simultaneously, these will not enjoy
 
 ### Combat Mastery
 
- 
-
 When attacking, the character can declare adding a +1 to Defense by taking a -2 penalty to the Attack Roll. Conversely, they can take a -2 to Defense to increase the Attack Roll by +1 and thus improve the attack.
 
 These modifiers persist until the beginning of their next round.
@@ -2787,33 +2773,23 @@ If at least one weapon you use has the **Parry** trait, you get an additional +1
 
 ### Total Defense
 
- 
-
 The character uses 2 Actions, takes a +4 bonus to Defense, and treats the terrain as Difficult until the beginning of their next round.
 
 ### Disengage
-
- 
 
 The character using 1 Action moves 1 meter and does not provoke opportunity attacks.
 
 ### Precise Strike
 
- 
-
 The character using 2 Actions makes a single melee attack. On this single attack, they get a bonus of +1d4 to the Attack Roll.
 
 ### Taking Aim (sniper)
-
- 
 
 A character attacking with a ranged weapon can use 2 Actions per round, up to a maximum of 3 rounds, to take aim at a target. They get a bonus to the Attack Roll equal to +1 in the first round, +2 in the second round, and finally in the third round of Taking Aim, the bonus reaches +4.
 
 They cannot use Movement Actions while taking aim.
 
 ### Ranged weapon against targets in combat
-
- 
 
 In combat, it's not easy to aim at a target that is in combat with another creature.
 
@@ -2829,8 +2805,6 @@ In case of a Critical Failure in the Attack Roll, you randomly hit a creature th
 See also the Perfectionist Feat (page ).
 
 ### Using a ranged weapon under threat
-
- 
 
 Using a ranged weapon like a bow, crossbow, or dagger (that you want to throw) while being threatened in melee imposes a penalty of -1d6 to the Attack Roll.
 
@@ -2855,8 +2829,6 @@ In the weapons table, the dimension is marked as S (small), M (medium), L (large
 Ex. a large longsword (+1 size) goes from 1d8 to 1d10 damage.
 
 ### Using a weapon with two hands
-
- 
 
 A one-handed weapon that can (but doesn't have to) be used with two hands increases the damage die when used with two hands.
 
@@ -2893,15 +2865,11 @@ If the one attempting the maneuver fails and gets a critical failure, they are t
 
 ### Feint*
 
- 
-
 Make an Opposed Check of Weapon Proficiency + Deceive (who makes the feint) versus Weapon Proficiency + Sense Motive (who suffers the feint). If the check succeeds, the opponent has a -2 to Defense against you until the end of your round.
 
 If the one attempting the maneuver fails and gets a critical failure, they are the one who takes -2 to Defense until the end of their next round. Costs 1 Action (Will).
 
 ### Push/Pull an opponent*
-
- 
 
 It is an Athletics check opposed by a Fortitude Saving Throw with Strength. Whoever has a larger size gains a bonus of +1d6 per size difference.
 
@@ -2932,8 +2900,6 @@ If you fail, you remain in the square immediately preceding the enemy, with the 
 If the enemy has the Opportunist Feat, besides hindering the passage, they can make an attack (using a Reaction).
 
 ### Trip an opponent*
-
- 
 
 It is an Athletics check opposed by a Fortitude Saving Throw with Strength to make the opponent Prone.
 
@@ -3128,11 +3094,10 @@ You can only control a mount if it has been trained to accept a rider. War-train
 By spending 1 of your Actions, you can make the mount perform 2 of these Actions: Move, Attack, Disengage.
 
 If the mount is intelligent, it might move and act as it prefers, regardless of the rider's instructions. It might flee from combat, charge to attack and devour a severely wounded enemy, or act in some other way against the rider's will.
+
 ---
 
 # Hiding places and cover
-
- 
 
 The opponent doesn't always appear in front of us; often they might be hidden or even invisible.
 
@@ -3229,6 +3194,7 @@ An invisible creature in water moves the liquid, revealing its position. The inv
 An invisible lit torch still emits light (as does an invisible object subject to a light spell).
 
 Invisible creatures cannot use gaze attacks. Invisibility does not affect being the target of a Divination spell.
+
 ---
 
 # Weapon Lists by Homogeneous Type
@@ -3259,7 +3225,7 @@ The advantages indicated are cumulative unless otherwise specified.
 
 ## Bows
 
-  Longbow, Shortbow, Composite Longbow, Composite Shortbow
+ Longbow, Shortbow, Composite Longbow, Composite Shortbow
 
 - 4 points: add your Strength value to damage, even if the bow is not composite. On a shortbow, you can add up to +1 damage, on a longbow up to +2 damage.
 - 5 points: reduce the penalty for shooting beyond standard range by 6.
@@ -3295,7 +3261,7 @@ This List only confers the cumulative bonuses listed here when wearing Armor.
 
 ## Double Weapons
 
-  Great Double Axe, Double Flail, Two-bladed Sword, Urgrosh
+ Great Double Axe, Double Flail, Two-bladed Sword, Urgrosh
 
 - 4 points: your proficiency in using these weapons makes you extremely versatile, giving you the ability at the beginning of your round to choose whether to be defensive or offensive, increasing either your Attack Roll or Defense by 1 until the beginning of the next round. Does not cost Actions.
 - 5 points: by taking a -4 penalty to the Attack Roll on your first attack in the round, you gain +4 to Defense until the beginning of your next round.
@@ -3361,7 +3327,7 @@ This List only confers the cumulative bonuses listed here when wearing Armor.
 
 ## Polearms
 
- Javelin, Trident, Halberd
+Javelin, Trident, Halberd
 
 - 4 points: if you make at least one critical hit with the Attack Roll, you can leave the weapon in the opponent's body, penalizing them with a -1 Dexterity. The weapon when removed causes one critical damage.
 - 5 points: you can make an opportunity attack against opponents who cross your melee zone using a Reaction.
@@ -3383,7 +3349,7 @@ Light Crossbow, Heavy Crossbow, One-handed Crossbow
 
 ## Lances
 
- Halberd, Urgrosh, Footman's Lance, Polearm Scythe, Lance
+Halberd, Urgrosh, Footman's Lance, Polearm Scythe, Lance
 
 - 4 points: used against a charge or in a charge, provided it has the Countercharge ability, the additional critical damage does maximum value.
 - 5 points: you can also use it against opponents at a distance of 1 meter without penalty.
@@ -3425,7 +3391,7 @@ Consult Vulnerability, Resistance, and Immunity (page ) to find out how magical 
 
 ## Skull Crushers
 
- Flail, War Maul, War Hammer, Light Mace, Flanged Mace, Spiked Mace
+Flail, War Maul, War Hammer, Light Mace, Flanged Mace, Spiked Mace
 
 - 4 points: you have become so skilled that you can control the force of your blows; you can do non-lethal damage without penalty to hit.
 
@@ -3507,6 +3473,7 @@ This subdivision is also selectable by those who have not assigned points to Wea
 When a character uses a weapon present in multiple known Weapon Lists, they can apply only one combat technique (one Weapon List) per opponent, and do not stack the advantages of any other lists.
 
 Using 2 Actions, they can concentrate and switch to using the bonuses derived from the application of a different Weapon List.
+
 ---
 
 # Feats
@@ -5299,6 +5266,7 @@ If you take this Feat **4 times** on the same Weapon List, the bonuses to hit ar
 The **first time** you take this Feat, using 3 Actions, you can perform a single attack (with a penalty of 1d6 to the Attack Roll) against all opponents in melee around you.
 
 The **second time** you take this Feat, Weapon Proficiency 15, Entertain 5, you have no penalty to the Attack Roll.
+
 ---
 
 ## Feat Grouping by Style
@@ -5602,6 +5570,7 @@ The familiar can deliver the Spell just like the master. The familiar uses one o
 ***Improved Deliver Touch Spells***: like *Deliver Touch Spells* but the familiar can be within 18 meters of the master.
 
 **NOTE**: intelligent and unique, a familiar remains an animal and as such cannot use magic items or scrolls; it may be able to use a potion if it has the ability to drink it. A particularly intelligent familiar might perform simple and immediate tasks.
+
 ---
 
 # Other Special Abilities
@@ -5684,6 +5653,7 @@ A frightened creature has -1d6 on Attack Rolls, Saving Throws, and Skill Checks 
 There are several methods to Paralyze a creature, both magical and natural. While natural methods often have systems to subsequently free oneself, magical systems may or may not provide a way to escape paralysis, perhaps only after a certain period of time.
 
 A paralyzed character cannot take Actions or Reactions, nor speak. Melee attacks against them have a +1d6 bonus, and they lose the Dexterity bonus to Defense. The creature is aware of its surroundings and does not drop items. The creature automatically fails Reflex Saving Throws.
+
 ---
 
 # Magic
@@ -5891,9 +5861,6 @@ This modifier is called the **ability modifier for spells**.
 
 | **Magic** | **Known (present in Spellbook)** |  | **Learned (that you can cast)** |
 | --- | --- | --- | --- |
-
-\cline
-
 | **Proficiency** | **Cantrips** | **Spell level 1+** | **Cantrips or /  {Spell level 1+**} |
 | 1 | mod +2 (minimum 4) | mod (minimum 4) | mod (minimum 4) / 2 |
 | 2 | present in Spellbook | present in Spellbook | +2 or / +1 |
@@ -5989,6 +5956,7 @@ Magic Points are all recovered with 8 hours of rest.
 **Table: Magic Proficiency (MP) and Magic Points (MP)**
 
 | **MP** | **MP** | **MP** | **MP** | **MP** | **MP** |
+|---|---|---|---|---|---|
 | 1 | 2 | 8 | 27 | 15 | 58 |
 | 2 | 4 | 9 | 36 | 16 | 62 |
 | 3 | 8 | 10 | 41 | 17 | 71 |
@@ -6296,6 +6264,7 @@ A Fireball acts in a 6-meter radius, that is, it *occupies* ($6*6*\pi$)\si{m^}, 
 Doing the calculations, the Fireball should have a radius of 4 meters to influence the same number of creatures!
 
 If this factor influences your game too much, reduce the radii of explosions and the lengths of cones by half ($r-r/2$).
+
 ---
 
 # The Spells
@@ -11292,6 +11261,7 @@ You must designate a sanctuary that is dedicated to or strongly linked to your P
 - **Duration**:: 10 minutes
 
 You create a magical zone that guards against deception in a 3-meter radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there must make a Will Saving Throw. On a failed save, a creature can't speak deliberate lies while in the radius. You know whether each creature succeeds or fails on its Saving Throw. An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
+
 ---
 
 ## Spells by List with Level and Rarity
@@ -12180,6 +12150,7 @@ You are the closest thing to death your enemies will ever see.
 **The HunterSuggested Requirements: a life dedicated to hunting and pursuing**
 
 Your Survival checks have a +2d6 bonus. The first hit that connects against an opponent automatically gets 2 criticals.
+
 ---
 
 # Cosmology
@@ -13460,8 +13431,6 @@ Whenever the Attack Roll is a critical failure, there has been a problem with th
 
 # Equipment - Armor and Shields
 
- 
-
 > Armor (n.). A suit of clothes made by a blacksmith. (Ambrose Bierce)
 
 Fantozzi Armor: 4-way vane functioning as a plume, fearsome Viking helmet with zero visibility, bronze suspender stolen from the statue of Pepin the Short and, on the feet, heavy irons for charcoal pressing made of molten lead. Total weight of Fantozzi armor: 4 quintals, 32 kilos and 7 and a half hectograms. (Superfantozzi, Film)} 
@@ -13666,6 +13635,7 @@ On frontier lands, most transactions take place through barter. Many practical c
 **Perfect Tools**
 
 A perfect tool, in addition to costing 10 times as much as the normal version, grants a +1 to the check in which it is used.
+
 ---
 
 ### Adventuring Equipment
@@ -14296,6 +14266,7 @@ Dragonhide Armor requires a Magic Check without additional dice when casting spe
 Dragonhide armors cost 10 times an armor of that type, but do not require more time to be built. Dragon armor is never for sale.
 
 Dragonhide has 10 Hit Points per 2.5 cm of thickness and Hardness 10. Usually dragonhide is 1.25 to 2.5 cm thick.
+
 ---
 
 # Breaking In and Entering
@@ -14777,6 +14748,7 @@ Extinguishes all flames. All ranged attacks are impossible (including those with
 Those who come into contact with the tornado are lifted from the ground and buffeted for 1d10 rounds, suffering 6d6 damage per round, before being violently expelled. The creature is expelled from a height of 1d6 meters per round of stay in the tornado.
 
 Although the rotational speed of a tornado can reach 450 km/h, the cone itself moves forward at an average of 45 km/h (about 75 meters per round). A tornado is capable of uprooting trees, destroying buildings, and causing other forms of similar devastation.
+
 ---
 
 # Adventures in Water
@@ -15185,6 +15157,7 @@ A Reflex Saving Throw DC 14 is required or suffer 2d6 slashing damage.
 **Crushing door, DC 16**: this door, as soon as touched, rotates on central hinges and rotating hits the character (or characters if it's a large gate). It causes 1d6 bludgeoning damage and continues to rotate for 1d6 rounds.
 
 **Finger Slicer, DC 14**: this trap is very subtle. It presents with a hole about 1 cm in diameter and 7 cm deep. Anything that touches the bottom will trigger the trap, causing 2d4 damage to the finger/object inserted. The blade might also be poisoned.
+
 ---
 
 # Adventure Hazards
@@ -15337,6 +15310,7 @@ This table indicates the duration of guard shifts and the total rest time of the
 | 6 | 1 h and 30 min. | 9 h and 30 min. |
 
 A **sudden noise** grants an Awareness check at DC 15, or equal to the opponent's Stealth check +8, to wake up.
+
 ---
 
 ## Adventures and Traps
@@ -15890,6 +15864,7 @@ Do you proceed down the corridor?
 Freely inspired by \href{https://friendorfoe.com/d/Old
 
 >>> A visible/obvious trap forces players to interact with it, to work hard to understand how it works and be ingenious to avoid or disable it. Whenever possible, avoid resolutions based solely on die rolls (Search for traps/Disable traps), rather reward the player's ingenuity, even if simple but creative, to avoid danger... and maybe sooner or later they'll remember to retrieve that crowbar...!
+
 ---
 
 # Poisons, Potions and Diseases
@@ -15997,7 +15972,6 @@ To *find* the ingredients to prepare **natural potions**, it is necessary to pas
 
 **Table: Poisons. (cost in Gold Coins)**
 
-{1\textwidth}{mlllmc}
 	
 
 | **Poison Name** | **Use** | **Ons.** | **ST** | **Effect (damage)** | **Cost** |
@@ -16032,6 +16006,7 @@ To *find* the ingredients to prepare **natural potions**, it is necessary to pas
 The Saving Throw is always on Fortitude unless otherwise specified
 
 Lost ability score points are recovered at a rate of 1 per day if not permanent or otherwise indicated.
+
 ---
 
 **Table: Natural Potions (cost in gold coins)**
@@ -16277,6 +16252,7 @@ Examples of Diseases:
 **Black Blood**: 10 minutes, Fortitude ST 28, 12 hours, 1 success, loss of half remaining Hit Points
 
 **T Plague**: 1 minute, Fortitude ST 30, 2 hours, 3 successes, perform 3 consecutive successes otherwise you are transformed into a zombie of equal CR. It is transmitted through contact.
+
 ---
 
 # Movement and Transport
@@ -16573,6 +16549,7 @@ A flying creature that is damaged in a single blow by half of its maximum Hit Po
 ### Hovering
 
 Hovering (**Hover**) is the ability that allows one to remain floating in the air, at the desired height, even if one does not move or is unconscious.
+
 ---
 
 # Mastering
@@ -16918,7 +16895,7 @@ The Narrator might decide to track only common consumables in this manner and no
 
 ## Adventures in OBSS
 
-  
+ 
 
 I suggest reading the entire article: \href{https://lithyscaphe.blogspot.com/p/principia-apocrypha.html} {Principia Apocrypha}
 
@@ -17247,6 +17224,7 @@ Earth is a world with a *rare* magic profile; magic items exist but are rare and
 When Gems or Jewelry are found, the Narrator must roll to determine their value in gold pieces. You can assign the same value to all objects, assign an individual value to each gem/jewelry, or roll randomly for each.
 
 | **4d6** | **Gems** | **4d6** | **Gems** |
+|---|---|---|---|
 | 4 | Quartz | 16 | Topaz |
 | 5-6 | Amber | 17 | Turquoise |
 | 7-8 | Zircon | 18 | Sapphire |
@@ -17260,6 +17238,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 **Table: Types of Jewelry**
 
 | **4d6** | **Magic bonus** |
+|---|---|
 | 4-6 | -2 Cursed |
 | 7-11 | +1 |
 | 12-16 | -1 Cursed |
@@ -17269,6 +17248,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 | 24 | +5 |
 
 | **4d6** | **Magic bonus** |
+|---|---|
 | 4-6 | -2 Cursed |
 | 7-11 | +1 |
 | 12-16 | -1 Cursed |
@@ -17280,6 +17260,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 **Table: Special Ability Armor/Shields Type 1**
 
 | **1d100** | **Special Ability Armor/Shields Type 1** |
+|---|---|
 | 11-15 | Archer's Bracers |
 | 16-20 | Bracers of Defense |
 | 21-25 | Bracers of Greater Defense |
@@ -17297,6 +17278,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 **Table: Special Ability Armor/Shields Type 2**
 
 | **1d100** | **Special Ability Armor/Shields Type 2** |
+|---|---|
 | 1-5 | Cursed |
 | 6-10 | Adamantine |
 | 31-35 | Demonic Armor |
@@ -17309,6 +17291,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 ### Amulets, Necklaces and Jewelry
 
 | **1d100** | **Amulets, Necklaces and Jewelry Type 1** |
+|---|---|
 | 1-8 | Anti-poison Amulet |
 | 8-12 | Gangrene Amulet |
 | 12-18 | Healing Amulet |
@@ -17325,7 +17308,8 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 | 84-90 | Scarab of Death |
 | 91-100 | Scarab of Protection |
 
-| **1d100** | **Amulets, Necklaces and Jewelry Type 1** |
+| **1d100** | **Amulets, Necklaces and Jewelry Type 2** |
+|---|---|
 | 1-7 | Elemental Gem |
 | 8-13 | Gem of Brightness |
 | 9-16 | Gem of Sight |
@@ -17344,6 +17328,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 ### Belts, Helmets, Boots and Gloves
 
 | **1d100** | **Belts, Helmets, Boots and Gloves** |
+|---|---|
 | 1-3 | Belt of Giants |
 | 3-6 | Belt of Dwarves |
 | 6-11 | Helm of Comprehending Languages |
@@ -17370,6 +17355,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 | **1d100** | **Wand** |
+|---|---|
 | 1-5 | Metal Detection Wand |
 | 6-10 | Wand of Arcane darts |
 | 11-15 | Wand of Comfort |
@@ -17396,6 +17382,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 **Table: Staff Generation**
 
 | **3d6** | **Staff** |
+|---|---|
 | 3 | Staff of the Archmage |
 | 4 | Staff of the Woodlands |
 | 5-6 | Staff of Charming |
@@ -17412,6 +17399,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 **Table: Rod Generation**
 
 | **1d100** | **Rod** |
+|---|---|
 | 1-10 | Rod of Enchantment |
 | 11-20 | Rod of Absorption |
 | 21-30 | Immovable Rod |
@@ -17432,6 +17420,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | Potion Type 3 | 8 |
 
 | **1d100** | **Potion Type 1** |
+|---|---|
 | 1-8 | Potion of Climbing |
 | 9-15 | Potion of Growth |
 | 16-23 | Potion of Heroism |
@@ -17448,6 +17437,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 96-100 | Potion of Flying |
 
 | **1d100** | **Potion Type 2** |
+|---|---|
 | 1-10 | Potion of Animal Clairaudience |
 | 11-20 | Potion of Animal Clairvoyance |
 | 21-28 | Potion of Animal Control |
@@ -17462,6 +17452,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 96-100 | Enhanced Poison Potion |
 
 | **1d100** | **Potion Type 3** |
+|---|---|
 | 1-13 | Love Philter |
 | 14-27 | Treasure Finding Philter |
 | 28-40 | Oil of Sharpness |
@@ -17480,6 +17471,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | Ring Type 2 | 17-18 |
 
 | **1d100** | **Rings Type 1** |
+|---|---|
 | 1-5 | Spell Storing Ring |
 | 6-13 | Ring of the Ram |
 | 14-21 | Ring of Feather Falling |
@@ -17497,6 +17489,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 93-100 | Ring of Telekinesis |
 
 | **1d100** | **Rings Type 2** |
+|---|---|
 | 1-8 | Ring of Person Control |
 | 9-17 | Ring of Plant Control |
 | 18-23 | Ring of Water Elementals |
@@ -17515,9 +17508,9 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 ### Hats, Cloaks, Glasses, Robes
 
-\hypertarget{Glasses}{Glasses}\hypertarget{Hats}{Hats}
 
 | **1d100** | **Hats, Cloaks, Glasses, Robes** |
+|---|---|
 | 1-3 | Bandana of Intelligence |
 | 4-10 | Hat of Disguise |
 | 11-17 | Cloak of Arachnida |
@@ -17545,6 +17538,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Manuals, Tomes and Scrolls
 
 | **3d6** | **Scroll Rarity** | **Pages on Scroll** |
+|---|---|---|
 | 3-11 | Common | 1d4 |
 | 12-13 | UnCommon | 1d6 |
 | 14-16 | Rare | 1d8 |
@@ -17552,6 +17546,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 18 | Legendary | 2d6 |
 
 | **3d6** | **Spell Level** |
+|---|---|
 | 3-9 | 1 |
 | 10-12 | 2 |
 | 13-16 | 3 |
@@ -17566,6 +17561,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | Tomes | 17-18 |
 
 | **3d6** | **Manuals** |
+|---|---|
 | 3-12 | Empty manual |
 | 13 | Manual of Golems |
 | 14 | Manual of Good Health |
@@ -17575,6 +17571,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 18 | Cursed Manual of Physical Exercise |
 
 | **3d6** | **Tomes** |
+|---|---|
 | 3-12 | Empty tome |
 | 13 | Tome of Authority and Influence |
 | 14 | Tome of Understanding |
@@ -17586,6 +17583,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Miscellaneous Magic Items
 
 | **1d100** | **Miscellaneous magic items 1** |
+|---|---|
 | 1-8 | Purifying Water |
 | 9-17 | Chime of Opening |
 | 18-27 | Bag of Holding Type I |
@@ -17608,6 +17606,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Miscellaneous magic items 2
 
 | **1d100** | **Miscellaneous magic items 2** |
+|---|---|
 | 1-8 | Brazier of Fire Elementals |
 | 9-17 | Cursed Brazier of Sleep |
 | 18-23 | Cube of Cold Protection |
@@ -17631,6 +17630,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Miscellaneous magic items 3
 
 | **1d100** | **Miscellaneous magic items 3** |
+|---|---|
 | 1-15 | Bag of Annihilation |
 | 16-25 | Decanter of Endless Water |
 | 26-35 | Dimensional Shackles |
@@ -17646,6 +17646,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Miscellaneous magic items 4
 
 | **1d100** | **Miscellaneous magic items 4** |
+|---|---|
 | 1-10 | Vial of Curses |
 | 11-18 | Chime of Cannibalism |
 | 19-28 | Bag of Holding Type II |
@@ -17667,6 +17668,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Rare and Legendary
 
 | **1d100** | **Magic Item** |
+|---|---|
 | 1-3 | Wings of Flying |
 | 4-6 | Iron Flask |
 | 7-10 | Elemental Water Amphora |
@@ -17806,6 +17808,7 @@ this **bottle** of iron has a brass stopper. You can use two actions to speak th
 The *identify* spell reveals that a creature is inside the flask, but the only way to determine what type of creature it is is to open the flask. A newly discovered iron flask might already contain a creature chosen by the Narrator or determined randomly.
 
 | **d100** | **Contains** |
+|---|---|
 | 1-50 | Empty |
 | 51-66 | Demon |
 | 67 | Angel Deva |
@@ -17883,6 +17886,7 @@ while wearing this **amulet** you are hidden from divination magic. You cannot b
 A Bane **weapon** excels at attacking certain creatures. Against the chosen enemy, its effective bonus becomes +2. The weapon also automatically inflicts critical damage against such enemy. To randomly determine the weapon's chosen enemy, use the following table:
 
 | d\% | Chosen enemy |
+|---|---|
 | 01-05 | Aberrations |
 | 06-09 | Beasts |
 | 10-16 | Constructs |
@@ -17924,6 +17928,7 @@ The Weapon Ring's ability recharges at dawn. The weapon ring does not count agai
 A Greater Weapon **ring** can only be applied to melee weapons and has only one power. When found, it is necessary to roll on the table below to determine the type of feat that the ring confers. The weapon ring does not count against the limits for wearing rings. A weapon can't hold more Weapon Ring then its magical bonus.
 
 | **1d100** | **Feat** | **1d100** | **Feat** |
+|---|---|---|---|
 | 1-6 | Cursed -2 | 55-60 | Shocking |
 | 7-12 | Courageous | 61-66 | Frost |
 | 13-18 | Of Pain | 67-72 | Flaming |
@@ -18162,6 +18167,7 @@ various cost, various rarity, while wearing this **ring**, you have a bonus of +
 while wearing this **ring**, you have resistance to one type of damage. The gem set in the ring indicates the type of damage, which is chosen or randomly determined by the Narrator.
 
 | **d10** | **Damage Type** | **Gem** |
+|---|---|---|
 | 1 | Acid | Pearl |
 | 2 | Force | Sapphire |
 | 3 | Cold | Tourmaline |
@@ -18401,6 +18407,7 @@ This wand has 7 charges. The wand recovers 1 charge every day at dawn.
 Each time you use the wand of wonder, roll a d100 and consult this table.
 
 | **d100** | **Contents** |
+|---|---|
 | 01-05 | You cast the Slow spell. |
 | 06-10 | You cast the Light spell. |
 | 11-15 | You are stunned until the beginning of your next round, and believe that something amazing has happened. |
@@ -18559,6 +18566,7 @@ You have a 50\% chance of instantly traveling to a random plane of existence, av
 If the Saving Throw succeeds, the creature takes half this damage.
 
 | **Distance from origin** | **Damage** |
+|---|---|
 | 3 meters or less | 8 × charges in staff |
 | Up to 6 meters | 6 × charges in staff |
 | Up to 9 meters | 4 × charges in staff |
@@ -18684,6 +18692,7 @@ If you dump the bag's contents on the ground, the beans explode in a 3-meter rad
 The fire ignites flammable objects in the area that aren't being worn or carried. If you remove a bean from the bag, plant it in soil or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The Narrator chooses the effect or determines it randomly.
 
 | **d100** | **Effect** |
+|---|---|
 | 01 | 5d4 mushrooms sprout. If a creature eats a mushroom, roll any die. On an odd result, make a Fortitude Saving Throw with DC 18 or take 5d6 poison damage and be poisoned for 1 hour. On an even result, the creature gains 5d6 temporary Hit Points for 1 hour. |
 | 02-10 | A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Narrator's choice) 9 meters into the air for 1d12 rounds. |
 | 11-20 | A treant sprouts. There's a 50\% chance that the treant is evil and attacks you. |
@@ -18722,10 +18731,12 @@ Another creature can use two actions to reach into the bag and pull out the crea
 this painted brass **bottle** weighs 500 grams. When you use two actions to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your round, the smoke dissipates in a flash of harmless fire, and an efreeti appears in an unoccupied space within 9 meters of you. The first time the bottle is opened, the Narrator randomly determines what happens.
 
 | **3d6** | **Effect** |
+|---|---|
 | 3-5 | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears and the bottle loses its magic. |
 | 6-16 | The efreeti serves you for 1 hour, doing as you command. Then it returns to the bottle and a new stopper appears and seals it. The stopper cannot be removed for 24 hours. The next two times the bottle is opened, the same effect appears. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
 
 | **3d6** | **Effect** |
+|---|---|
 | 17-18 | The efreeti can cast the wish spell on your behalf three times. It disappears when it grants the final wish or after 1 hour, at which point the bottle loses its magic. |
 
 ## Eversmoking Bottle
@@ -18901,6 +18912,7 @@ this **necklace** has 1d4 + 2 magic beads made of aquamarine, black pearl, or to
 There are six types of magic beads. The Narrator decides the type of each bead on the necklace. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast with two actions, with a Spell DC of 12 + 2x Level in case of a Saving Throw. Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
 
 | **3d6** | **Bead of...** | **Spell** |
+|---|---|---|
 | 3-5 | Blessing | Bless |
 | 6-11 | Curing | Cure wounds 5 or Lesser restoration |
 | 12-14 | Divine Favor | Greater restoration |
@@ -19013,6 +19025,7 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 Below are the properties of each activatable face and its related charge cost.
 
 | **Face** | **Cost** | **Effect** |
+|---|---|---|
 | 1 | 1 | Gases, wind, and fog cannot pass through the barrier |
 | 2 | 2 | Nonliving matter cannot pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
 | 3 | 3 | Living matter cannot pass through the barrier. |
@@ -19503,6 +19516,7 @@ To create a golem, you must spend the time indicated above, working without inte
 Once you finish creating the golem, the book is consumed by arcane flames. The golem becomes animated when the ashes of the manual are sprinkled on it. It is under your control and understands and obeys the orders you speak to it.
 
 | 3d6 | Golem | Time | Cost |
+|---|---|---|---|
 | 3-4 | Clay | 30 days | 65000 gp |
 | 5-16 | Flesh | 60 days | 50000 gp |
 | 17 | Iron | 120 days | 100000 gp |
@@ -19618,7 +19632,6 @@ You must draw each card within 1 hour of the previous draw. If you don't draw th
 | Two of clubs | Idiot | Joker | Fool* |
 | Joker | Jester |  | |
 
-\end{adjustbox}
 
 * Found only in a deck of 22 **cards**
 
@@ -20157,7 +20170,6 @@ when you drink this **potion**, for 1 hour or until you end the effect with two 
 
 when you drink this **potion**, for 1 hour your Strength score changes. The type of giant determines the score (see the following table). The potion has no effect if your Strength score is equal to or greater than the new score. The frost giant strength potion and the stone giant strength potion have the same effect.
 
- \setlength\itemsep{0em}
 - hill, Strength 5 500 gp
 - stone or frost, Strength 6 1000 gp
 - fire, Strength 7 2000 gp
@@ -20170,7 +20182,6 @@ when you drink this **potion**, for 1 hour your Strength score changes. The type
 
 when you drink **this** potion, you regain a number of Hit Points depending on the rarity of the healing potion.
 
- \setlength\itemsep{0em}
 - **Common**, Hit Points 1d8 + 1. Common, 50 gp
 - **Greater**, Hit Points 3d8 +3. Uncommon, 125 gp
 - **Superior**, Hit Points 3d10 +30. Rare, 300 gp
@@ -20212,7 +20223,6 @@ when you drink this **potion**, for 1d4 hours you gain the reduce effect of the 
 
 There are several types of **poisons**:
 
- \setlength\itemsep{0em}
 - **Weakening**, DC 15 Fortitude or -2 Attack Rolls and Saving Throws for 1 minute. Uncommon, 35gp
 - **Greater Weakening**, DC 18 Fortitude, -1d6 Attack Rolls and Saving Throws for 1 Turn, 50 gp
 - **Poison**, take 2d6+2 damage. ST DC 15 Fortitude. Uncommon, 30 gp
@@ -20632,6 +20642,7 @@ In addition, the robe has 4d4 other patches. The Narrator chooses the patches or
 Roll a d100 on the following table to discover the properties of the other 4d4 patches on the robe of useful items.
 
 | **d100** | **Effect** |
+|---|---|
 | 01-08 | Bag with 100 gp. |
 | 09-15 | Silver chest (30 cm long, 15 cm wide and deep) worth 500 gp. |
 | 16-22 | Iron door (up to 3 meters wide and high, barred on the side of your choice), which you can place on any opening within reach; it fits into the opening, attaching and creating hinges. |
@@ -20643,6 +20654,7 @@ Roll a d100 on the following table to discover the properties of the other 4d4 p
 | 69-75 | Rowboat (4 meters long). |
 
 | **d100** | **Effect** |
+|---|---|
 | 76-83 | Spell scroll containing a spell of 1st to 3rd level. |
 | 84-90 | Two mastiffs. |
 | 91-96 | Window (60 x 120 cm, up to 60 cm deep), which you can place on any vertical surface within reach. |
@@ -20871,6 +20883,7 @@ these iron **horseshoes** come in sets of four. When all four horseshoes are att
 **Rarity:** Very Rare; **Cost:** 1500 gp
 
 these iron **horseshoes** come in sets of four. When all four horseshoes are attached to a dinosaur steed or similar creature, they allow that creature to move normally while it floats about 10 centimeters above the ground. This effect means that the creature can cross or move over non-solid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. Additionally, the creature can move at its normal speed for up to 12 hours a day without suffering exhaustion from a forced march.
+
 ---
 
 # Rules on Magic Items
@@ -21015,6 +21028,7 @@ Alternatively, they may be tools created in the last days of the first era when,
 So let's not be surprised to find objects that can be recharged, even if for a short time, with *Shocking Grasp*, or functioning vehicles when struck by a *Lightning Bolt*.
 
 These objects will be rare and precious, almost like a dose of still-active antibiotic. Feel free to create *technomagical* objects, taking inspiration from the modern world and science fiction to create amazing useful items for your adventure.
+
 ---
 
 # Creating Magic Items
@@ -21205,6 +21219,7 @@ Sometimes the lack of funds or time makes it impossible to create the desired ma
 The cost to add additional abilities to an item is the same as if the item were not magical, minus the value of the original item. So a +1 longsword can become a vorpal +2 longsword, and the cost of creation equals that of a vorpal +2 longsword minus the cost of a +1 longsword.
 
 When determining the price of an invented magic item, many factors must be considered. The simplest way to decide the price is to compare the new item to an item that already has a price, and use that price as a guide.
+
 ---
 
 # Cursed Items
@@ -21224,6 +21239,7 @@ A curse can also manifest as a result of negative or extreme emotional influence
 **Common Item Curses**
 
 | **\%** | **Curse** |
+|---|---|
 | 01-15 | Deception |
 | 16-40 | Opposite Effect or Target |
 | 41-50 | Intermittent Functioning |
@@ -21290,6 +21306,7 @@ This item works only in certain situations. To determine which ones, choose an a
 An uncontrollable item tends to activate randomly. Roll a d\% each day. With a result of 01--05, the item spontaneously activates at some point during the day.
 
 | **\%** | **Situation** |
+|---|---|
 | 01-03 | Temperature below freezing |
 | 04-05 | Temperature above freezing |
 | 06-10 | During the day |
@@ -21341,11 +21358,13 @@ Items that have drawbacks usually have positive effects on those who use them, b
 Unless otherwise indicated, drawbacks remain active for as long as the item remains in the character's possession. The DC of the Saving Throw to avoid these effects is equal to 10 + DC of the curse (if you have not established the difficulty, set the Saving Throw, usually on Will, at DC 25)
 
 >>> The list is an example to randomly generate effects on the item's owner. Take inspiration and be creative! However, don't make a curse render it impossible to play the character; rather, it should be experienced as an opportunity to try something different. Never throw a cursed item randomly into the treasure pile; always think about what might happen and what consequences will be generated. A cursed item always requires a high level of attention and planning from the Narrator
+
 ---
 
 **Table: Effects of cursed magic items**
 
 | **\%** | **Drawback** |
+|---|---|
 | 01-02 | The character's hair grows 2.5 cm per hour. |
 | 02-04 | The character's nails grow 1 cm every 8 hours |
 | 05-06 | The character's height decreases by 5d10 cm |
@@ -21443,6 +21462,7 @@ Children of were-creatures have a 33\% chance, per were-parent, of being natural
 
 Lycanthropy is an ancient and powerful curse and is not easy to remove.
 If wounded by a were-creature, they must make a Saving Throw as described by the monster's description. If the initial Saving Throw fails, then a Remove Curse opposed at DC 21 + level of the creature itself is required.
+
 ---
 
 # The Earth
@@ -21623,6 +21643,7 @@ The characters themselves might not be *terrestrial* and seek a way to return ho
 
 >>> Use the setting you prefer most! This world is an example of a chaotic and slightly anarchic world dominated by the continuous mood changes of capricious deities.
 Choose your setting, use Greyhawk, Dark Sun, Mystara, whatever you prefer. You are the Narrator, you are the world, you are the one projecting light and darkness, OBSS will provide you with the tools to conduct your campaigns!
+
 ---
 
 ## The Calendar
@@ -21690,6 +21711,7 @@ The Devout and Followers believe that their spirit will reunite with the Patron,
 Others still believe that each spirit incarnates 4 times before being judged by the Patrons of Genesis and sent to the plane assigned to it.
 
 The truth is not for us to know.
+
 ---
 
 ## The Secular Cycles
@@ -22127,6 +22149,7 @@ This table indicates the relative Experience Points for CR.
 **Table: Challenge Rating and Experience Points**
 
 | **CR** | **XP** | **CR** | **XP** | **CR** | **XP** |
+|---|---|---|---|---|---|
 | 0 | 10 | 9 | 5000 | 21 | 33000 |
 | 1/8 | 25 | 10 | 5900 | 22 | 41000 |
 | 1/4 | 50 | 11 | 7200 | 23 | 50000 |
@@ -22186,13 +22209,6 @@ This system is also used to calculate the XP gained for traps or challenges over
 - **Define the APL (Average Party Level):** Calculate the average level of the group. Add up the levels of all characters and divide by the number of characters, as already explained.
 - **Establish the Desired Difficulty:** Decide what level of challenge you want to present to the group.
 
-- \makebox[2.5cm][l]{Easy:} 75\% - 105\%
-- \makebox[2.5cm][l]{Medium:} 106\% - 145\%
-- \makebox[2.5cm][l]{Challenging:} 146\% - 195\%
-- \makebox[2.5cm][l]{High:} 196\% - 255\%
-- \makebox[2.5cm][l]{Extraordinary:} 256\% - 325\%
-- \makebox[2.5cm][l]{Deadly:} 326\% - 405\%
-- \makebox[2.5cm][l]{Epic:} 406\% and beyond
 - **Assign a Percentage Value to Monsters:** Use the following table to determine the *weight* (percentage) of each Adversary (*Adv.*) based on the difference between its Challenge Rating (CR) and the group's APL (*Ratio*)
 
 | **Ratio** | **\% per Adv.** | **Ratio** | **\% per Adv.** |
@@ -22207,6 +22223,7 @@ This system is also used to calculate the XP gained for traps or challenges over
 Start with the monsters with the highest Challenge Rating and then add monsters with lower CR to reach the desired percentage.
 
 \end{enumerate}
+
 ---
 
 # The Monsters
@@ -34793,6 +34810,7 @@ The Oozekin template gives the creature a *gelatinous* and fluid appearance
 **Attack**: +3
 
 **Damage**: +1d8 Acid damage
+
 ---
 
 ## Monster List by Challenge Rating
@@ -34873,6 +34891,7 @@ If a confused creature is attacked, it always attacks the last creature that att
 Roll a die on the following table at the start of each round of the confused creature to see what it does that round.
 
 | **d10** | **Behavior** |
+|---|---|
 | 1 | The creature uses all its Actions to move in a random direction. To determine the direction, roll a d8 |
 | 2-5 | The creature does nothing for the entire round |
 | 6 | The creature attacks itself and ends the round |
@@ -34987,6 +35006,7 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 ## Tables for random rolls
 
 | **3d6** | **Effect** |
+|---|---|
 | 3 | You are embarrassed by your strike, but nothing particular happens |
 | 4 | You lose balance. Until the beginning of your next round, you have -2 to Defense |
 | 5 | You misplace your foot. Until the end of your next round, your movement is halved |
@@ -34997,6 +35017,7 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 | 10 | Butterfingers. You drop what you hold |
 
 | **3d6** | **Effect** |
+|---|---|
 | 11 | Muscle strain. Your next attack does not add Strength to damage |
 | 12 | Fragile ankle. While delivering the blow, you trip. You fall prone |
 | 13 | You drop your weapon 3 meters away in a random direction |
@@ -35012,6 +35033,7 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 	
 
 | \# | 1d8 | 1d8 | 1d8 |
+|---|---|---|---|
 | 1 | An | la | mo |
 | 2 | Vi | ca | ta |
 | 3 | Lan | da | to |
@@ -35028,6 +35050,7 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 The blue point determines the origin of the spell
 
 **Examples of enemy reach**
+
 ---
 
 # Author and Contributions

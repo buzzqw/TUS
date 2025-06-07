@@ -7,11 +7,13 @@ Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogn
 Mai rinunciare ai tuoi desideri, persevera fino ad renderli reali.
 
 >> 
+
 ---
 
 **Playtesting**: Federica Angeli, Simona Bissi, Fabrizio Bonetti, Francesco Converso, Carlo Dall'Ara, Lucia Dolcini, Michele Faedi, Dario Galassi, Micaela Gramellini, Stefano Mannino, Samuele Mazzotti, Emanuele Pezzi, Leonardo Pezzi, Gian Luca Fava, Nicola Ricottone, Marco Valmori, Edoardo Zanzani, Isotta Zanzani, SicuramenteNonMirko,
 
 **Old Bell School System - OBSS - Fantasy Adventure Game**
+
 ---
 
 >> "May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
@@ -226,6 +228,7 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 >> Box contenente indicazioni e chiarimenti per il Giocatore.
 
 >>> Box contenente indicazioni e suggerimenti per il Narratore
+
 ---
 
 # Razze
@@ -553,6 +556,7 @@ Fate nascere i più belli e completi personaggi possibili. Ogni personaggio è v
 >> Nota sul Sesso del personaggi
 >>
 >> Casomai foste così ottusi ribadisco che non c'è differenza di capacità o caratteristiche in base al sesso. Ogni giocatrice e giocatore è invitato a fare il personaggio del genere che preferisce.
+
 ---
 
 # Caratteristiche Speciali
@@ -619,6 +623,7 @@ Una creatura dotata di Senso Tellurico è sensibile alle vibrazioni del suolo e 
 Le Creature Acquatiche dotate di Senso Tellurico (ecolocalizzazione) possono percepire la posizione di creature in contatto con l'acqua.
 
 Il raggio della capacità è specificato nel testo descrittivo della creatura.
+
 ---
 
 # Le Caratteristiche
@@ -798,6 +803,7 @@ L'aumento di Caratteristica applica immediatamente il modificatore ai Tiri Salve
 >> Il Personaggio fa schifo! - Caratteristiche basse
 >>
 >> Avere delle Caratteristiche basse non è la morte del personaggio! Cercate piuttosto di giocare affinché non sia necessario tirare dadi o fare prove! Sforzatevi di essere arguti, intuitivi, propositivi, furbi.. insomma tutto ciò che vi può fare risolvere la situazione senza dover per forza tirare dadi. In OBSS il Narratore premia i giocatori che descrivono e si esaltano in ciò che il personaggio fa!
+
 ---
 
 # Punti Ferita
@@ -1522,6 +1528,7 @@ Ogni punto attribuito nella Competenze di Base o Competenza Armi o Magica permet
 **4 livello**: +1 Competenza Armi, Abilità: Incantatore Prudente (+2 Riflessi, +1 Tempra, **Intelligenza**)
 
 ***Totale***: +2 CA, +2 CM, +4 Tiro Salvezza Riflessi, +6 Tiro Salvezza Tempra, +6 Tiro Salvezza Volontà
+
 ---
 
 # Costruiamo il Personaggio
@@ -2311,6 +2318,7 @@ Se non indicata nella scheda del avversario la **portata** è pari a metà dello
 >> Es. per una creatura armata di lancia la portata è 2 ovvero la distanza di mischia è 2 metri perché l'arma è lunga. Per uno gnomo armato di martello, o a mani nude, la distanza di mischia è 1 metro. Per creature particolarmente grandi (Enormi o più) con armi altrettanto grandi la portata viene indicata o si desume dalle dimensioni del mostro e dalla tipologia di arma.
 
 **La portata indica fino a che distanza puoi colpire in mischia.**
+
 ---
 
 ## Vita e Morte
@@ -2390,6 +2398,7 @@ Ogni ora si recupera, con un minimo di 1 Punto Ferita, il proprio valore di Cost
 Se non indicato diversamente ogni qual volta il personaggio subisce un danno che abbassa i Punti Ferita Massimi oltre ad abbassare questi deve anche sottrarli dai Punti Ferita attuali. Un personaggio quando curato non può superare i Punti Ferita Massimi attuali.
 
 Ogni 8 ore di riposo, nelle 24 ore, si recupera 1d4 + Costituzione in Punti Ferita Massimi, con un minimo di 1.
+
 ---
 
 ## Tiro per Colpire e Difesa
@@ -3081,6 +3090,7 @@ Puoi controllare una cavalcatura solo se questa è stata addestrata ad accettare
 Spendendo 1 tua Azione puoi fare eseguire 2 di queste Azioni alla cavalcatura: Muoversi, Attaccare, Disingaggiare.
 
 Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferisce a discapito delle indicazioni del cavaliere. Potrebbe fuggire dal combattimento, lanciarsi all'attacco e divorare un nemico ferito gravemente, o agire in qualche altro modo contro la volontà di chi la cavalca.
+
 ---
 
 # Nascondigli e coperture 
@@ -3176,6 +3186,7 @@ Una creatura invisibile nell'acqua muove il liquido, rivelando la propria posizi
 Una torcia accesa invisibile emana comunque luce (così come un oggetto invisibile soggetto ad una magia di luce).
 
 Le creature invisibili non possono utilizzare gli attacchi con lo sguardo. L'invisibilità non influisce sull'essere obiettivo di un incantesimo di Divinazione.
+
 ---
 
 # Lista Armi per Tipologia Omogenea
@@ -3414,6 +3425,7 @@ Questa suddivisione è sceglibile anche da chi non ha assegnato punti a Competen
 Quando un personaggio usa un arma presente in più Liste d'Armi conosciute può applicare per avversario una sola tecnica (una Lista d'Armi) di combattimento, non cumula i vantaggi anche di eventuali altre liste.
 
 Utilizzando 2 Azioni può concentrarsi e passare ad utilizzare i bonus derivanti dall'applicazione di una diversa Lista D'Armi.
+
 ---
 
 # Abilità
@@ -5128,6 +5140,7 @@ Nel tempo hai allenato la tua volontà per resistere a qualsiasi debolezza e pau
 La **prima volta** prendi questa Abilità ottieni un bonus di +2 ai Tiri Salvezza su Volontà. Il bonus è cumulativo, +2 la prima volta, +1 la **seconda volta**, +1 la **terza** volta.
 
 La **quarta volta** che prendi questa Abilità puoi decidere di riuscire automaticamente in un Tiro Salvezza su Volontà una volta al giorno prima di aver tirato i dadi.
+
 ---
 
 ## Raggruppamento Abilita' per Stile
@@ -5435,6 +5448,7 @@ Il famiglio può trasmettere l'Incantesimo proprio come il padrone. Il famiglio 
 ***Trasmettere Incantesimi a Contatto Migliorato***: come *Trasmettere Incantesimi a Contatto* ma il famiglio può essere entro 18 metri dal padrone.
 
 **NOTE**: intelligente ed unico un famiglio rimane un animale e come tale non può usare oggetti magici o pergamene, può arrivare ad usare una pozione se ne ha le capacità per berla. Un famiglio particolarmente intelligente potrebbe eseguire semplici ed immediati compiti.
+
 ---
 
 # Altre Abilità Speciali
@@ -5517,6 +5531,7 @@ Una creatura spaventata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Compe
 Ci sono diversi metodi per Paralizzare una creatura, sia magici che naturali. Mentre quelli naturali spesso hanno sistemi per liberarsi successivamente, sistemi magici possono prevedere di liberarsi dalla paralisi o meno, magari solo dopo un certo lasso di tempo.
 
 Un personaggio paralizzato non può compiere Azioni o Reazioni ne parlare, gli attacchi in mischia contro di lei hanno +1d6 di bonus e perde il bonus alla Difesa dato dalla Destrezza. La creatura è consapevole di ciò che ha intorno, non lascia cadere gli oggetti. La creatura fallisce automaticamente i Tiri Salvezza su Riflessi.
+
 ---
 
 # La Magia
@@ -5722,9 +5737,6 @@ Questo modificatore viene chiamato **modificatore di caratteristica per incantes
 
 | **Competenza** | **Conosciuti (presenti nel Tomo)** |  | **Appresi (che puoi lanciare)** |
 | --- | --- | --- | --- |
-
-\cline
-
 | **Magica** | **Trucchetti** | **Livello inc. 1+** | **Trucchetti oppure /  {Livello inc. 1+**} |
 | 1 | mod +2 (minimo 4) | mod (minimo 4) | mod (minimo 4) / 2 |
 | 2 | presenti nel Tomo | presenti nel Tomo | +2 oppure / +1 |
@@ -6131,6 +6143,7 @@ Una Palla di Fuoco agisce in un raggio di 6 metri, ovvero *occupa* ($6*6*\pi$)\s
 A fare due conti la Palla di Fuoco dovrebbe avere un raggio di 4 metri per influenzare lo stesso numero di creature!
 
 Se questo fattore influisce troppo sul vostro gioco riducete della metà ($r-r/2$) i raggi delle esplosioni e le lunghezze dei coni.
+
 ---
 
 # Gli Incantesimi
@@ -11157,6 +11170,7 @@ influenzare la mente del bersaglio o per ottenere informazioni su di esso.
 - **Durata**:: 10 minuti
 
 Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di raggio centrata su di un punto a gittata di tua scelta. Fino al termine dell'incantesimo, una creatura che entra nell'area dell'incantesimo per la prima volta durante un round, o inizia il suo round al suo interno, deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, la creatura non può pronunciare bugie deliberatamente mentre è nel raggio dell'incantesimo. Sei a conoscenza se una creatura ha superato o fallito il Tiro Salvezza. Una creatura soggetta all'incantesimo ne è consapevole e può quindi evitare di rispondere a domande a cui risponderebbe normalmente con una bugia. Questa creatura può dare risposte elusive purché rimanga entro i confini della verità.
+
 ---
 
 ## Incantesimi per Lista con Livello e Rarita'
@@ -12366,6 +12380,7 @@ Sei la cosa più simile alla morte che i tuoi nemici vedranno mai.
 **Il CacciatoreRequisiti suggeriti: una vita dedicata a cacciare ed inseguire**
 
 Le tue prove di Sopravvivenza hanno un +2d6 di bonus. Il primo colpo che va a segno contro un avversario ottiene automaticamente 2 critici.
+
 ---
 
 # Cosmologia
@@ -13847,6 +13862,7 @@ Sulle terre di confine, la maggior parte delle transazioni avvengono tramite bar
 **Attrezzature Perfette**
 
 Un attrezzo perfetto oltre a costare 10 volte tanto la versione normale, concede un +1 alla prova in cui si utilizza.
+
 ---
 
 ### Equipaggiamento da Avventura
@@ -14478,6 +14494,7 @@ Un Armatura in Pelle di Drago obbliga a fare una Prova di Magia senza dadi aggiu
 Le armature di pelle di drago costano 10 volte un'armatura di quel tipo, ma non richiedono più tempo per essere costruite. Un armatura di drago non è mai in vendita.
 
 La pelle di drago ha 10 Punti Ferita per 2,5 cm di spessore e Durezza 10. Solitamente la pelle di drago è spessa da 1,25 a 2,5 cm.
+
 ---
 
 # Sfondare ed Entrare
@@ -14957,6 +14974,7 @@ Estingue tutte le fiamme. Tutti gli attacchi a distanza sono impossibili (compre
 Coloro che entrano in contatto con il tornado vengono sollevati da terra e sbatacchiati per 1d10 round, subendo 6d6 danni per round, prima di venirne espulsi violentemente. La creatura viene espulsa da un altezza di 1d6 metri per round di permanenza nel tornado.
 
 Sebbene la velocità rotatoria di un tornado possa raggiungere i 450 km/h, il cono stesso si muove in avanti ad una media di 45 km/h (circa 75 metri per ogni round). Un tornado è in grado di sradicare alberi, distruggere edifici e provocare altre forme di simile devastazione.
+
 ---
 
 # Avventure in Acqua
@@ -15363,6 +15381,7 @@ E' necessario un Tiro Salvezza su Riflessi DC 14 oppure subire 2d6 di danno da t
 **Porta schiacciante, DC 16**: questa porta appena toccata rotea su dei cardini centrali e roteando picchia il personaggio (o personaggi se un grande portone). Causa 1d6 di danni contundenti e continua a roteare per 1d6 round.
 
 **Trincia Dito, DC 14**: questa trappola è molto subdola. Si presenta con un foro di circa 1 cm di diametro e profondo 7 cm. Qualsiasi cosa che ne tocchi il fondo farà scattare la trappola, causando 2d4 di danno al dito/oggetto inserito. La lama potrebbe anche essere avvelenata.
+
 ---
 
 # Pericoli in Avventura
@@ -15515,6 +15534,7 @@ In questa tabella vengono indicate la durata dei turni di guardia ed il tempo to
 | 6 | 1 h e 30 min. | 9 h e 30 min. |
 
 Un **rumore brusco** concede una prova di Consapevolezza a DC 15, oppure pari alla prova di Furtività +8 dell'avversario, per svegliarsi.
+
 ---
 
 ## Avventure e Trappole
@@ -16065,6 +16085,7 @@ Prosegui nel corridoio?
 Liberamente ispirato da \href{https://friendorfoe.com/d/Old
 
 >>> Una trappola visibile/ovvia obbliga i giocatori ad interagire con essa, a sforzarsi per capirne il funzionamento ed ingegnarsi per evitarla o disattivarla. Evitate quando potete risoluzioni solo basate sul tiro di dado (Cerco trappole/Disattivo trappole), piuttosto premiate l'ingegnosità anche semplice ma creativa del giocatore per evitare il pericolo... e magari prima o poi si ricorderanno di recuperare il piede di porco...!
+
 ---
 
 # Veleni, Pozioni e Malattie
@@ -16212,11 +16233,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 
 **Tabella: Pozioni Naturali (costo in monete d'oro)**
 
-		>{}p
-		>{}p
 		>{\raggedright}X
-		>{}p
-		>{}p
 
 | **Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16457,6 +16474,7 @@ Esempi di Malattie:
 **Sangue Nero**: 10 minuti, TS Tempra 28, 12 ore, 1 successo, perdita metà Punti Ferita rimasti
 
 **Peste T**: 1 minuto, TS Tempra 30, 2 ore, 3 successi, esegui 3 successi consecutivi altrimenti vieni trasformato in uno zombi di pari GS. Si trasmette attraverso il contatto.
+
 ---
 
 # Movimento e Trasporto
@@ -16751,6 +16769,7 @@ Una creatura volante che viene danneggiata in un singolo colpo della metà dei s
 ### Fluttuare
 
 Fluttuare è la capacità che consente di rimanere fluttuante nell'aria, all'altezza voluta, anche se non ci si muove o si è privi di sensi.
+
 ---
 
 # Masterizzare
@@ -17423,6 +17442,7 @@ La Terra è un mondo a *raro* profilo magico, gli oggetti magici esistono ma son
 Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per determinarne il valore in monete d'oro. Si può assegnare a tutti gli oggetti lo stesso valore, assegnare un valore individuale a ciascuna gemma/gioiello, oppure e tirare casualmente per ciascuno.
 
 | **4d6** | **Gemme** | **4d6** | **Gemme** |
+|---|---|---|---|
 | 4 | Quarzo | 16 | Topazio |
 | 5-6 | Ambra | 17 | Turchese |
 | 7-8 | Zircone | 18 | Zaffiro |
@@ -17436,6 +17456,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 **Tabella: tipologie di Gioielli**
 
 | **4d6** | **Bonus magico** |
+|---|---|
 | 4-6 | -2 Maledetta |
 | 7-11 | +1 |
 | 12-16 | -1 Maledetta |
@@ -17447,6 +17468,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 **Tabella: Capacità Speciale Armi Tipo 1**
 
 | **4d6** | **Bonus magico** |
+|---|---|
 | 4-6 | -2 Maledetta |
 | 7-11 | +1 |
 | 12-16 | -1 Maledetta |
@@ -17458,6 +17480,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 **Tabella: Capacità Speciale Armature/Scudi Tipo 1**
 
 | **1d100** | **Capacità Speciale Armature/Scudi Tipo 1** |
+|---|---|
 | 11-15 | Bracciali dell'Arciere |
 | 16-20 | Bracciali della Difesa |
 | 21-25 | Bracciali della Difesa Maggiore |
@@ -17475,6 +17498,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 **Tabella: Capacità Speciale Armature/Scudi Tipo 2**
 
 | **1d100** | **Capacità Speciale Armature/Scudi Tipo 2** |
+|---|---|
 | 1-5 | Maledetta |
 | 6-10 | Adamantio |
 | 31-35 | Armatura Demoniaca |
@@ -17487,6 +17511,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 ### Amuleti, Collane e Gioielli
 
 | **1d100** | **Amuleti, Collane e Gioielli Tipo 1** |
+|---|---|
 | 1-8 | Amuleto Antiveleno |
 | 8-12 | Amuleto della Cancrena |
 | 12-18 | Amuleto Cicatrizzante |
@@ -17503,7 +17528,8 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 | 84-90 | Scarabeo della Morte |
 | 91-100 | Scarabeo di Protezione |
 
-| **1d100** | **Amuleti, Collane e Gioielli Tipo 1** |
+| **1d100** | **Amuleti, Collane e Gioielli Tipo 2** |
+|---|---|
 | 1-7 | Gemma Elementale |
 | 8-13 | Gemma della Luminosità |
 | 9-16 | Gemma della Vista |
@@ -17522,6 +17548,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 ### Cinture, Elmi, Stivali e Guanti
 
 | **1d100** | **Cinture, Elmi, Stivali e Guanti** |
+|---|---|
 | 1-3 | Cintura dei Giganti |
 | 3-6 | Cintura dei Nani |
 | 6-11 | Elmo della Comprensione dei Linguaggi |
@@ -17548,6 +17575,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 | **1d100** | **Bacchetta** |
+|---|---|
 | 1-5 | Bacchetta Cerca metalli |
 | 6-10 | Bacchetta dei Dardi Arcani |
 | 11-15 | Bacchetta delle Comodità |
@@ -17574,6 +17602,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 **Tabella: Generazione Bastoni**
 
 | **3d6** | **Bastone** |
+|---|---|
 | 3 | Bastone dell'Arcimago |
 | 4 | Bastone dei Boschi |
 | 5-6 | Bastone dello Charme |
@@ -17590,6 +17619,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 **Tabella: Generazione Verghe**
 
 | **1d100** | **Verga** |
+|---|---|
 | 1-10 | Verga dell'Ammaliamento |
 | 11-20 | Verga dell'Assorbimento |
 | 21-30 | Verga Inamovibile |
@@ -17610,6 +17640,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | Pozione Tipo 3 | 8 |
 
 | **1d100** | **Pozione Tipo 1** |
+|---|---|
 | 1-8 | Pozione di Arrampicata |
 | 9-15 | Pozione di Crescita |
 | 16-23 | Pozione di Eroismo |
@@ -17626,6 +17657,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 96-100 | Pozione di Volo |
 
 | **1d100** | **Pozione Tipo 2** |
+|---|---|
 | 1-10 | Pozione della Chiaraudienza animale |
 | 11-20 | Pozione della Chiaroveggenza animale |
 | 21-28 | Pozione di Controllo degli animali |
@@ -17640,6 +17672,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 96-100 | Pozione di Veleno Potenziata |
 
 | **1d100** | **Pozione Tipo 3** |
+|---|---|
 | 1-13 | Filtro d'Amore |
 | 14-27 | Filtro Scopritesori |
 | 28-40 | Olio di Affilatezza |
@@ -17658,6 +17691,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | Anello Tipo 2 | 17-18 |
 
 | **1d100** | **Anelli Tipo 1** |
+|---|---|
 | 1-5 | Anello Accumula Incantesimi |
 | 6-13 | Anello dell'Ariete |
 | 14-21 | Anello di Caduta Piuma |
@@ -17675,6 +17709,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 93-100 | Anello di Telecinesi |
 
 | **1d100** | **Anelli Tipo 2** |
+|---|---|
 | 1-8 | Anello del Controllo delle persone |
 | 9-17 | Anello del Controllo delle piante |
 | 18-23 | Anello degli Elementali dell'Acqua |
@@ -17694,6 +17729,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 ### Cappelli, Mantelli, Occhiali, Tuniche\hypertarget{Occhiali}{Occhiali}\hypertarget{Cappelli}{Cappelli}
 
 | **1d100** | **Cappelli, Mantelli, Occhiali, Tuniche** |
+|---|---|
 | 1-3 | Bandana dell'Intelligenza |
 | 4-10 | Cappello del Camuffamento |
 | 11-17 | Mantello dell'Aracnide |
@@ -17721,6 +17757,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 ### Manuali, Tomi e Pergamene
 
 | **3d6** | **Rarità Pergamena** | **Pagine della Pergamena** |
+|---|---|---|
 | 3-11 | Comune | 1d4 |
 | 12-13 | Non Comune | 1d6 |
 | 14-16 | Rara | 1d8 |
@@ -17728,6 +17765,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 18 | Leggendaria | 2d6 |
 
 | **3d6** | **Livello Incantesimo** |
+|---|---|
 | 3-9 | 1 |
 | 10-12 | 2 |
 | 13-16 | 3 |
@@ -17742,6 +17780,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | Tomi | 17-18 |
 
 | **3d6** | **Manuali** |
+|---|---|
 | 3-12 | Manuale vuoto |
 | 13 | Manuale dei Golem |
 | 14 | Manuale della Buona salute |
@@ -17751,6 +17790,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 18 | Manuale dell'Esercizio fisico maledetto |
 
 | **3d6** | **Tomi** |
+|---|---|
 | 3-12 | Tomo vuoto |
 | 13 | Tomo dell'Autorità e dell'Influenza |
 | 14 | Tomo della Comprensione |
@@ -17762,6 +17802,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 ### Oggetti Magici vari
 
 | **1d100** | **Oggetti magici vari 1** |
+|---|---|
 | 1-8 | Acqua purificatrice |
 | 9-17 | Battaglio dell'Apertura |
 | 18-27 | Borsa Conservante Tipo I |
@@ -17784,6 +17825,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 ### Oggetti magici vari 2
 
 | **1d100** | **Oggetti magici vari 2** |
+|---|---|
 | 1-8 | Braciere degli Elementali del Fuoco |
 | 9-17 | Braciere del Sonno maledetto |
 | 18-23 | Cubo di protezione dal freddo |
@@ -17807,6 +17849,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 ### Oggetti magici vari 3
 
 | **1d100** | **Oggetti magici vari 3** |
+|---|---|
 | 1-15 | Borsa dell'Annullamento |
 | 16-25 | Brocca dell'Acqua Infinita |
 | 26-35 | Ceppi Dimensionali |
@@ -17822,6 +17865,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 ### Oggetti magici vari 4
 
 | **1d100** | **Oggetti magici vari 4** |
+|---|---|
 | 1-10 | Ampolla delle maledizioni |
 | 11-18 | Battaglio del Cannibalismo |
 | 19-28 | Borsa Conservante Tipo II |
@@ -17843,6 +17887,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 ### Rari e Leggendari
 
 | **1d100** | **Oggetto Magico** |
+|---|---|
 | 1-3 | Ali del Volo |
 | 4-6 | Ampolla di Ferro |
 | 7-10 | Anfora elementale dell'acqua |
@@ -17982,6 +18027,7 @@ questa **bottiglia** di ferro ha un tappo di ottone. Puoi usare due azioni per p
 L'incantesimo *identificare* rivela che una creatura si trova all'interno dell'ampolla, ma l'unico modo per determinare che sorta di creatura sia è di aprire l'ampolla. Un'ampolla di ferro appena scoperta potrebbe già contenere una creatura scelta dal Narratore o determinata casualmente.
 
 | **d100** | **Contiene** |
+|---|---|
 | 1-50 | Vuota |
 | 51-66 | Demone |
 | 67 | Angelo Deva |
@@ -18059,6 +18105,7 @@ mentre indossi questo **amuleto** sei celato alla magia di divinazione. Non puoi
 Un' **arma** Anatema eccelle nell'attaccare certe creature. Contro il nemico prescelto, il suo bonus effettivo diventa di +2. L'arma, inoltre, infligge un danno critico automaticamente contro tale nemico. Per determinare casualmente il nemico prescelto dell'arma si usa la tabella seguente:
 
 | d\% | Nemico prescelto |
+|---|---|
 | 01-05 | Aberrazioni |
 | 06-09 | Bestie |
 | 10-16 | Costrutti |
@@ -18100,6 +18147,7 @@ La capacità dell'Anello d'Arma si ricarica all'alba. L'anello d'arma non si con
 Un Anello d' **arma** maggiore può essere applicato solo ad armi da mischia ed ha un solo potere. Quando viene trovato è necessario tirare sulla tabella sottostante per determinare il tipo di talento che conferisce l'anello. L'anello d'arma non si conta nei limiti per indossare anelli. Un arma può avere un numero di Anelli d'Arma massimo pari al suo bonus magico.
 
 | **1d100** | **Talento** | **1d100** | **Talento** |
+|---|---|---|---|
 | 1-6 | Maledetta -2 | 55-60 | Folgorante |
 | 7-12 | Coraggiosa | 61-66 | Gelida |
 | 13-18 | Del Dolore | 67-72 | Lingua di fuoco |
@@ -18338,6 +18386,7 @@ costo vario, rarità varia, mentre indossi questo **anello**, hai un bonus da +1
 mentre indossi questo **anello**, hai resistenza a un tipo di danno. La gemma incastonata nell'anello indica il tipo di danno, che viene scelto o determinato casualmente dal Narratore.
 
 | **d10** | **Tipo di Danno** | **Gemma** |
+|---|---|---|
 | 1 | Acido | Perla |
 | 2 | Forza | Zaffiro |
 | 3 | Freddo | Tormalina |
@@ -18581,6 +18630,7 @@ Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica ogni giorno all'al
 Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta questa tabella.
 
 | **d100** | **Contenuti** |
+|---|---|
 | 01-05 | Lanci l'incantesimo Lentezza. |
 | 06-10 | Lanci l'incantesimo Luminescenza. |
 | 11-15 | Sei stordito fino all'inizio del tuo prossimo round, e ritieni che sia accaduto qualcosa di stupefacente. |
@@ -18743,6 +18793,7 @@ Hai il 50\% di probabilità di viaggiare istantaneamente in un piano di esistenz
 Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni.
 
 | **Distanza dall'origine** | **Danno** |
+|---|---|
 | 3 metri o meno | 8 x cariche nel bastone |
 | Fino a 6 metri | 6 x cariche nel bastone |
 | Fino a 9 metri | 4 x cariche nel bastone |
@@ -18868,6 +18919,7 @@ Se riversi il contenuto della borsa sul terreno, i fagioli esplodono in un raggi
 Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati. Se rimuovi il fagiolo dalla borsa, lo pianti nel terreno o la sabbia, e lo innaffi, il fagiolo produrrà un effetto 1 minuto dopo, a partire dal punto del terreno in cui è stato piantato. Il Narratore sceglie l'effetto o lo determina casualmente.
 
 | **d100** | **Effetto** |
+|---|---|
 | 01 | Spuntano 5d4 funghi. Se una creatura mangia un fungo, tira un dado. Se il risultato è dispari esegui un tiro Salvezza su Tempra con DC 18 o subire 5d6 danni da veleno e restare avvelenato per 1 ora. Se il risultato è pari ottiene 5d6 Punti Ferita temporanei per 1 ora. |
 | 02-10 | Erutta un geyser che sputa acqua, birra, succo di frutta, tè, aceto, vino od olio (a discrezione del Narratore) a 9 metri in aria per 1d12 round. |
 | 11-20 | Spunta un uomo albero. C'è una probabilità del 50\% che l'uomo albero sia malvagio e ti attacchi. |
@@ -18903,10 +18955,12 @@ Un'altra creatura può usare due azioni per afferrare la creatura all'interno de
 questa **bottiglia** di ottone dipinta pesa 500 grammi. Quando usi due azioni per rimuoverne il tappo, una nube di denso fumo fuoriesce dalla bottiglia. Al termine del tuo round, il fumo si dissipa in un lampo di fuoco innocuo ed un efreeti compare in uno spazio non occupato entro 9 metri da te. La prima volta che la bottiglia viene aperta, il Narratore determina casualmente cosa accade.
 
 | **3d6** | **Effetto** |
+|---|---|
 | 3-5 | L'efreeti ti attacca. Dopo aver combattuto per 5 round, l'efreeti scompare e la bottiglia perde la sua magia. |
 | 6-16 | L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia ed un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia. |
 
 | **3d6** | **Effetto** |
+|---|---|
 | 17-18 | L'efreeti può lanciare l'incantesimo desiderio a tuo favore per tre volte. Scompare quando conferisce il desiderio finale o dopo 1 ora, allorché la bottiglia perde la sua magia. |
 
 ## Bottiglia Fumante
@@ -19082,6 +19136,7 @@ questa **collana** possiede 1d4 + 2 sfere magiche fatte di acquamarina, perla ne
 Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfera facente parte della collana. Una collana può avere più di una sfera dello stesso tipo. Per usarla, devi indossare la collana. Ogni sfera contiene un incantesimo che puoi lanciare con due azioni, con DC dell'Incantesimo pari a 12 + 2x Livello in caso di Tiro Salvezza. Una volta che l'incantesimo di una sfera magica è stato lanciato, non potrai usare di nuovo quella sfera fino all'alba successiva.
 
 | **3d6** | **Sfera di...** | **Incantesimo** |
+|---|---|---|
 | 3-5 | Benedizione | Benedizione |
 | 6-11 | Cura | Cura ferite 5 o Ristorare inferiore |
 | 12-14 | Favore Divino | Ristorare superiore |
@@ -19194,6 +19249,7 @@ Il cubo perde cariche quando la barriera viene presa come bersaglio da certi inc
 Qui sotto le proprietà di ogni faccia attivabile ed il relativo costo in cariche.
 
 | **Faccia** | **Costo** | **Effetto** |
+|---|---|---|
 | 1 | 1 | Gas, vento e nebbia non possono penetrare la barriera |
 | 2 | 2 | La materia non vivente non può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione. |
 | 3 | 3 | La materia vivente non può attraversare la barriera. |
@@ -19686,6 +19742,7 @@ Per creare un golem, devi trascorrere il tempo sopra indicato, lavorando senza i
 Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. Il golem si anima quando le ceneri del manuale saranno sparse su di esso. Sarà sotto il tuo controllo e comprende e obbedisce gli ordini pronunciati da te.
 
 | 3d6 | Golem | Tempo | Costo |
+|---|---|---|---|
 | 3-4 | Argilla | 30 giorni | 65000 mo |
 | 5-16 | Carne | 60 giorni | 50000 mo |
 | 17 | Ferro | 120 giorni | 100000 mo |
@@ -20349,7 +20406,6 @@ quando bevi questa **pozione**, per 1 ora o finché non terminerai l'effetto con
 
 quando bevi questa **pozione**, per 1 ora il tuo punteggio di Forza cambia. Il tipo di gigante determina il punteggio (vedi la tabella seguente). La pozione non ha effetto se il tuo punteggio di Forza è pari o superiore al nuovo punteggio. La pozione della forza del gigante del gelo e la pozione della forza del gigante di pietra hanno lo stesso effetto.
 
- \setlength\itemsep{0em}
 - delle colline, Forza 5 500 mo
 - di pietra o del gelo, Forza 6 1000 mo
 - del fuoco, Forza 7 2000 mo
@@ -20362,7 +20418,6 @@ quando bevi questa **pozione**, per 1 ora il tuo punteggio di Forza cambia. Il t
 
 quando bevi da **questa** pozione, recuperi un numero di Punti Ferita che varia a seconda della rarità della pozione di guarigione.
 
- \setlength\itemsep{0em}
 - **Comune**, Punti Ferita 1d8 + 1. Comune, 50 mo
 - **Potenziata**, Punti Ferita 3d8 +3. Non Comune, 125 mo
 - **Maggiore**, Punti Ferita 3d10 +30. Rara, 300 mo
@@ -20404,7 +20459,6 @@ quando bevi questa **pozione** per 1d4 ore ottieni l'effetto ridurre dell'incant
 
 Sono presenti diversi tipi di **veleni**:
 
- \setlength\itemsep{0em}
 - **Indebolente**, DC 15 Tempra oppure -2 Tiri per Colpire e Tiri Salvezza per 1 minuto. Non comune, 35mo
 - **Indebolente potenziata**, DC 18 Tempra, -1d6 Tiri per Colpire e Tiri Salvezza per 1 Turno, 50 mo
 - **Veleno**, subisci 2d6+2 di danno. TS DC 15 Tempra. Non Comune, 30 mo
@@ -20824,6 +20878,7 @@ Inoltre, la vestaglia ha 4d4 altre toppe. Il Narratore sceglie le toppe o le det
 Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 toppe della vestaglia degli oggetti utili.
 
 | **d100** | **Effetto** |
+|---|---|
 | 01-08 | Borsello con 100 mo. |
 | 09-15 | Forziere d'argento (lungo 30 cm, largo e profondo 15 cm) del valore di 500 mo. |
 | 16-22 | Porta di ferro (larga e alta massimo 3 metri, sbarrata dal lato di tua scelta), che puoi piazzare su qualsiasi apertura a portata; si adatta per entrare nell'apertura, fissandosi e creando dei cardini. |
@@ -20835,6 +20890,7 @@ Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 t
 | 69-75 | Barca a remi (lunga 4 metri). |
 
 | **d100** | **Effetto** |
+|---|---|
 | 76-83 | Pergamena degli incantesimi contenente un incantesimo di livello dal 1° al 3°. |
 | 84-90 | Due mastini. |
 | 91-96 | Finestra (60 x 120 cm, profonda massimo 60 cm), che puoi piazzare su qualsiasi superficie verticale a portata. |
@@ -21063,6 +21119,7 @@ questi **zoccoli** di ferro si trovano in set da quattro. Quando tutti e quattro
 **Rarità:** Molto Raro; **Costo:** 1500 mo
 
 questi **zoccoli** di ferro si trovano in set da quattro. Quando tutti e quattro gli zoccoli sono fissati a un saurovallo o creatura simile, permettono a quella creatura di muoversi normalmente, mentre fluttua a circa 10 centimetri dal terreno. Questo effetto vuol dire che la creatura può attraversare o passare sopra superfici non solide o instabili, come l'acqua o la lava. La creatura non lascia tracce e ignora il terreno difficile. Inoltre, la creatura può muoversi alla sua normale velocità per un massimo di 12 ore al giorno senza subire l'affaticamento a causa della marcia forzata.
+
 ---
 
 # Regole su Oggetti Magici
@@ -21205,6 +21262,7 @@ Potranno essere altrimenti strumenti creati negli ultimi giorni della prima era 
 Non stupiamoci allora di trovare oggetti che possano essere ricaricati, anche se per poco tempo, con *Stretta Folgorante*, o veicoli funzionanti se colpiti da un *Fulmine*.
 
 Questi oggetti saranno rari e preziosi, quasi come una dose di antibiotico ancora attiva. Sbizzarritevi nel creare oggetti *tecnomagici*, prendete ispirazione dal mondo moderno e dalla fantascienza per creare strabilianti oggetti utili alla vostra avventura.
+
 ---
 
 # Creare Oggetti Magici
@@ -21397,6 +21455,7 @@ A volte la mancanza di fondi o tempo rende impossibile realizzare l'oggetto magi
 Il costo per aggiungere capacità addizionali ad un oggetto è lo stesso che se l'oggetto non fosse magico, meno il valore dell'oggetto originale. Quindi una spada lunga +1 può diventare una spada lunga vorpal +2 e il costo della creazione è uguale a quello di una spada lunga vorpal +2 meno il costo di una spada lunga +1.
 
 Quando si determina il prezzo di un oggetto magico inventato bisogna considerare molti fattori. Il modo più semplice per decidere il prezzo è confrontare il nuovo oggetto a un oggetto che ha già un prezzo, e usare tale prezzo come guida.
+
 ---
 
 # Oggetti Maledetti
@@ -21416,6 +21475,7 @@ Una maledizione può manifestarsi anche a seguito dalle influenze negative od em
 **Maledizioni Comuni degli Oggetti**
 
 | **\%** | **Maledizione** |
+|---|---|
 | 01-15 | Inganno |
 | 16-40 | Effetto o Bersaglio Opposto |
 | 41-50 | Funzionamento Discontinuo |
@@ -21482,6 +21542,7 @@ Questo oggetto funziona solo in determinate situazioni. Per determinare quali si
 Un oggetto incontrollabile tende ad attivarsi casualmente. Tirare un d\% ogni giorno. Con un risultato di 01--05 l'oggetto si attiva spontaneamente in un certo momento del giorno.
 
 | **\%** | **Situazione** |
+|---|---|
 | 01-03 | Temperatura sotto lo zero |
 | 04-05 | Temperatura sopra lo zero |
 | 06-10 | Durante il giorno |
@@ -21533,11 +21594,13 @@ Gli oggetti che hanno degli inconvenienti hanno solitamente degli effetti positi
 A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per tutto il tempo in cui l'oggetto rimane in possesso del personaggio. La DC dei Tiro Salvezza per evitare questi effetti è pari a 10 + DC della maledizione (se non avete stabilito la difficoltà impostate il Tiro Salvezza, solitamente su Volontà, a DC 25)
 
 >>> L'elenco è di esempio per poter generare casualmente degli effetti sul possessore dell'oggetto. Prendete spunto e siate creativi!Non fate però che una maledizione renda impossibile giocare il personaggio piuttosto deve essere vissuta come l'occasione per provare, fare, qualcosa di diverso. Non gettate mai un oggetto maledetto a caso nel mucchio dei tesori, pensate sempre cosa potrà accadere e quali conseguenze si genereranno. Un oggetto maledetto richiede sempre un alto livello di attenzione e pianificazione da parte del Narratore
+
 ---
 
 **Tabella: Effetti degli oggetti magici maledetti**
 
 | **\%** | **Inconveniente** |
+|---|---|
 | 01-02 | I capelli del personaggio crescono di 2,5 cm all'ora. |
 | 02-04 | Le unghie del personaggio crescono di 1 cm ogni 8 ore |
 | 05-06 | L'altezza del personaggio diminuisce di 5d10 cm |
@@ -21635,6 +21698,7 @@ Figli di creature mannare hanno un 33\% di possibilità, per genitore mannaro, d
 
 La licantropia è una maledizione antica e potente e non è facile da rimuovere.
 Se ferito da un mannaro deve effettuare un Tiro Salvezza come descritto dalla descrizione del mostro. Se il Tiro Salvezza iniziale fallisce allora è necessario un Rimuovi Maledizione contrastato a DC 21 + livello della creatura stessa.
+
 ---
 
 # La Terra
@@ -21815,6 +21879,7 @@ Gli stessi personaggi potrebbero essere non *terrestri* e cercare un modo per to
 
 >>> Usate l'ambientazione che più preferite! Questo mondo è un esempio di un mondo caotico e leggermente anarchico dominato dai continui cambiamenti di umori di divinità capricciose.
 Scegliete voi l'ambientazione, usate Greyhawk, Dark Sun, Mystara quello che preferite. Siete voi il Narratore, siete voi il mondo, siete voi a proiettare luce ed oscurità, OBSS vi fornirà gli strumenti per condurre le vostre campagne!
+
 ---
 
 ## Il Calendario
@@ -21882,6 +21947,7 @@ I Devoti e Seguaci credono che il loro spirito si riunirà con il Patrono, rende
 Altri ancora credono ancora che ogni spirito si incarni per 4 volte per essere poi giudicato dai Patroni della Genesi e mandato nel piano a lui assegnato.
 
 Quale sia la verità non è dato saperlo.
+
 ---
 
 ## I Cicli Secolari
@@ -22315,6 +22381,7 @@ Questa tabella indica per GS i Punti Esperienza relativi.
 **Tabella: Grado di Sfida e Punti Esperienza**
 
 | **GS** | **PX** | **GS** | **PX** | **GS** | **PX** |
+|---|---|---|---|---|---|
 | 0 | 10 | 9 | 5000 | 21 | 33000 |
 | 1/8 | 25 | 10 | 5900 | 22 | 41000 |
 | 1/4 | 50 | 11 | 7200 | 23 | 50000 |
@@ -22374,13 +22441,6 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 - **Definire l'APL (Average Party Level):** Calcolare il livello medio del gruppo. Sommare i livelli di tutti i personaggi e dividere per il numero di personaggi, come già spiegato.
 - **Stabilire la Difficoltà Desiderata:** Decidere quale livello di sfida si vuole presentare al gruppo.
 
-- \makebox[2.5cm][l]{Facile:} 75\% - 105\%
-- \makebox[2.5cm][l]{Media:} 106\% - 145\%
-- \makebox[2.5cm][l]{Impegnativa:} 146\% - 195\%
-- \makebox[2.5cm][l]{Alta:} 196\% - 255\%
-- \makebox[2.5cm][l]{Straordinaria:} 256\% - 325\%
-- \makebox[2.5cm][l]{Mortale:} 326\% - 405\%
-- \makebox[2.5cm][l]{Epica:} 406\% e oltre
 - **Assegnare un valore Percentuale ai Mostri:** Utilizzare la tabella seguente per determinare il *peso* (percentuale) di ciascun Avversario (*Avv.*) in base alla differenza tra il suo Grado di Sfida (GS) e all'APL del gruppo (*Rapp.*)
 
 | **Rapp.** | **\% per Avv.** | **Rapp.** | **\% per Avv.** |
@@ -22395,6 +22455,7 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS più basso per raggiungere la percentuale desiderata.
 
 \end{enumerate}
+
 ---
 
 # I Mostri
@@ -35005,6 +35066,7 @@ Il template Oozekin conferisce alla creatura un aspetto *gelatinoso* e fluido
 **Attacco**: +3
 
 **Danno**: +1d8 da Acido
+
 ---
 
 ## Lista Mostri per Grado di Sfida
@@ -35085,6 +35147,7 @@ Se una creatura confusa è attaccata, attacca sempre l'ultima creatura che la ha
 Tirate un dado sulla tabella seguente all'inizio di ogni round della creatura confusa per vedere quello fa in quel round.
 
 | **d10** | **Comportamento** |
+|---|---|
 | 1 | La creatura usa tutte le sue Azioni per per muoversi in una direzione casuale. Per determinare la direzione tira un d8 |
 | 2-5 | La creatura non fa nulla per tutto il round |
 | 6 | La creatura effettua un attacco contro se stessa e finisce il round |
@@ -35199,10 +35262,12 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 ## Tabelle per tiri casuali
 
 | **3d6** | **Effetto** |
+|---|---|
 | 3 | Sei imbarazzato del tuo colpo, ma non succede nulla di particolare |
 | 4 | Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa |
 
 | **3d6** | **Effetto** |
+|---|---|
 | 5 | Metti male il piede. Fino alla fine del prossimo round tratti il terreno come difficile |
 | 6 | Perdi il fiato. Fino all'inizio del prossimo round ha -1 Forza |
 | 7 | Piroetta. Ti sposti in una direzione casuale di 1 metro |
@@ -35215,6 +35280,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 | 14 | Perdi fiducia in te stesso. Il prossimo attacco lo esegui con un -4 aggiuntivo |
 
 | **3d6** | **Effetto** |
+|---|---|
 | 15 | Bersaglio sbagliato. Colpisci una creatura a caso a portata. |
 | 16 | Confuso. Ti dai una botta sulla testa. Fino alla fine del round sei sotto l'incantesimo Confusione |
 | 17 | Ti colpisci con forza. Tira il danno regolare verso te stesso. Il round finisce |
@@ -35226,6 +35292,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 	
 
 | \# | 1d8 | 1d8 | 1d8 |
+|---|---|---|---|
 | 1 | An | la | mo |
 | 2 | Vi | ca | ta |
 | 3 | Lan | da | to |
@@ -35242,6 +35309,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 Il punto blu determina l'origine dell'incantesimo
 
 **Esempi portata dei nemici**
+
 ---
 
 # Autore e Contributi
