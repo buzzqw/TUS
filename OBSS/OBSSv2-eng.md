@@ -1,4 +1,4 @@
-{**Old Bell School System**}   {**(\textbf{OBSS**)   { {Fantasy Adventure Game 
+**Old Bell School System - OBSS - Fantasy Adventure Game**
 
 ---
 
@@ -11,7 +11,7 @@ Never give up on your desires, persevere until you make them real.
 
 **Playtesting**: Federica Angeli, Simona Bissi, Fabrizio Bonetti, Francesco Converso, Carlo Dall'Ara, Lucia Dolcini, Michele Faedi, Dario Galassi, Micaela Gramellini, Stefano Mannino, Samuele Mazzotti, Emanuele Pezzi, Leonardo Pezzi, Gian Luca Fava, Nicola Ricottone, Marco Valmori, Edoardo Zanzani, Isotta Zanzani, SicuramenteNonMirko,
 
-**Terms of use**: OBSS, Old Bell School System, is a registered trademark of Andres Zanzani (azanzani@gmail.com), licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). See details in the License chapter.
+**Old Bell School System - OBSS - Fantasy Adventure Game**
 ---
 
 >> "May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
@@ -103,7 +103,7 @@ Now that you are ready, it's time to embrace your destiny and write your legend.
 
 Andres Zanzani
 
->> D | D has in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
+>> D&D has in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
 OBSS wants to continue in the path of an inclusive and free game. Each group is free to approach controversial topics as they see fit, but always with respect for every player and sensitivity. Don't let OBSS be a cause for quarrel but for unity and fraternal spirit, a game that unites and never divides. (Andres Zanzani)
 
 ---
@@ -201,7 +201,7 @@ Saving Throws concern reflexes and dodging (Reflex), resisting poisons/diseases 
 
 **Turn**: is 10 minutes, that is, 60 rounds
 
-> The D | D game has neither losers nor winners, it has only players who love to exercise their imagination. The players and the DM share in creating adventures in fantasy lands where heroes abound and magic actually works. In a certain sense, the D | D game has no rules, only rule suggestions. No rule is inviolate, particularly if a new or altered rule will encourage creativity and imagination. The important thing is to enjoy the adventure. (Tom Moldvay, 03/12/1980. And everything said also applies to OBSS! NdA)
+> The D&D game has neither losers nor winners, it has only players who love to exercise their imagination. The players and the DM share in creating adventures in fantasy lands where heroes abound and magic actually works. In a certain sense, the D&D game has no rules, only rule suggestions. No rule is inviolate, particularly if a new or altered rule will encourage creativity and imagination. The important thing is to enjoy the adventure. (Tom Moldvay, 03/12/1980. And everything said also applies to OBSS! NdA)
 
 In the Manual, you will find different types of boxes, each has a precise meaning:
 
@@ -752,6 +752,7 @@ Each player distributes 4 points among the 6 Ability Scores, each Ability Score 
 The sum of the dice rolled for the Ability Scores is compared with this table to determine the actual values of the Ability Scores.
 
 | **Roll value** | **Ability** | **Roll value** | **Ability** |
+|---|---|---|---|
 | 3 (or less) | -3 | 12-13-14 | +1 |
 | 4-5 | -2 | 15-16-17 | +2 |
 | 6-7-8 | -1 | 18 (or more) | +3 |
@@ -950,7 +951,7 @@ Each archetype is presented with a set of recommended Traits that naturally alig
 
 Archetypes can also evolve throughout a character's journey. A character might begin as one archetype (The Innocent) and transform into another (The Hero) through their experiences. This evolution can be reflected in gradually shifting Traits and Patron affinities.
 
-# The 21 Archetypes
+## The 21 Archetypes
 
 ## The Hero
 The brave protagonist who overcomes obstacles to achieve a goal, often transforming themselves in the process.
@@ -1128,7 +1129,7 @@ The solitary seeker who withdraws from society to find inner truth.
 - **Contradictory Traits:** Dissolute, Arrogant, Greedy
 - **Aligned Patrons:** Atmos, Sixiser, Efrem
 
-# Archetypal Cycles and Character Development
+## Archetypal Cycles and Character Development
 
 Characters rarely embody a single archetype throughout their entire journey. Rather, they may evolve through a series of archetypes as they grow and develop. Below are some common archetypal progressions that can serve as templates for character development:
 
@@ -1141,7 +1142,7 @@ Characters rarely embody a single archetype throughout their entire journey. Rat
 
 Each transition between archetypes represents a significant character development moment, often accompanied by the gaining or losing of specific Traits and potentially a shift in Patron affinity. Narrators and players can use these archetypal cycles to plan meaningful character arcs.
 
-# Patron Affinities and Archetypal Resonances
+## Patron Affinities and Archetypal Resonances
 
 Some Patrons naturally embody or resonate with specific archetypes more strongly than others. These connections can inform both character development and storytelling:
 
@@ -1177,7 +1178,7 @@ Some Patrons naturally embody or resonate with specific archetypes more strongly
 | Thaft | The Everyman, The Ally, The Caregiver |
 | Torbiorn | The Tyrant, The Shadow, The Ruler |
 
-# Using Archetypes in Game
+## Using Archetypes in Game
 
 ## For Players
 
@@ -1220,40 +1221,41 @@ In the character sheet, the initial Profession and acquired skills should be mar
 
 **Table: List of Professions and related Skills**
 
-| **\textbf{Profession**} | **1 point** | **2 points** | **2 points** | **3 points** |
+
+| **Profession** | **1pt** | **2pts** | **2pts** | **3pts** |
 | --- | --- | --- | --- | --- |
-| **Acolyte** | Occult | History or Geography | Arcana | Religion |
+| **Acolyte** | Occult | History/Geography | Arcana | Religion |
 | **Farmer** | Survival | Herbalism | Handle Animals | Nature |
 | **Alchemist** | Appraise | Nature | Herbalism | Arcana |
 | **Breeder** | Survival | Track | Handle animals | Nature |
-| **Apprentice wizard** | History and Geography | Occult | Myths and Legends | Arcana |
-| **Herald** | Local Traditions | Heraldry | Languages | Diplomacy |
+| **App. wizard** | History/Geography | Occult | Myths/Legends | Arcana |
+| **Herald** | Local Trad. | Heraldry | Languages | Diplomacy |
 | **Pettifogger** | Appraise | Deceive | Sense Motive | Diplomacy |
-| **Librarian** | Nature and Geography | Local traditions | Religion and Arcana | History |
-| **Pickpocket** | Disable Device | Escape Artist | Stealth | Sleight of Hand |
+| **Librarian** | Nature/Geography | Local trad. | Religion/Arcana | History |
+| **Pickpocket** | Disable Dev. | Escape Artist | Stealth | Sleight of Hand |
 | **Lumberjack** | Use Rope | Track | Nature | Survival |
 | **Hunter** | Stealth | Track | Survival | Nature |
-| **Caravan driver** | Local traditions | Handle animals | Survival | Ride |
+| **Caravan drv.** | Local trad. | Handle animals | Survival | Ride |
 | **Peasant** | Use Rope | Herbalism | Handle Animals | Nature |
 | **Delinquent** | Survival | Ride | Appraise | Stealth |
-| **Herbalist** | Myths and Legends | Geography | Nature | Herbalism |
+| **Herbalist** | Myths/Legends | Geography | Nature | Herbalism |
 | **Blacksmith** | First Aid | Appraise | Athletics | Craft |
 | **Card player** | Sense Motive | Appraise | Perform | Deceive |
-| **Ranger** | Myths and Legends | Herbalism | Ride | Nature |
-| **Guard** | Sense Motive | Knowledge of Law | Ride | Intimidate |
-| **Guide** | Myths and Legends | Dungeon | Nature | Geography |
+| **Ranger** | Myths/Legends | Herbalism | Ride | Nature |
+| **Guard** | Sense Motive | Knowledge Law | Ride | Intimidate |
+| **Guide** | Myths/Legends | Dungeon | Nature | Geography |
 | **Innkeeper** | First aid | Appraise | Sense Motive | Diplomacy |
-| **Merchant** | Languages | Local Traditions | Deceive | Appraise |
+| **Merchant** | Languages | Local Trad. | Deceive | Appraise |
 | **Mercenary** | Sense Motive | Acrobatics | Intimidate | Athletics |
 | **Miner** | Use rope | First aid | Appraise | Dungeon |
 | **Monk** | Perform | First Aid | Nature | Religion |
-| **Goldsmith** | Local traditions | Sleight of Hand | Appraise | Forgery |
+| **Goldsmith** | Local trad. | Sleight Hand | Appraise | Forgery |
 | **Fisherman** | Use rope | Swim | Survival | Nature |
-| **Scribe** | Local Traditions | Forgery | Myths and Legends | Languages |
-| **Broker** | Perform | Local traditions | Sense Motive | Diplomacy |
+| **Scribe** | Local Trad. | Forgery | Myths/Legends | Languages |
+| **Broker** | Perform | Local trad. | Sense Motive | Diplomacy |
 | **Soldier** | Swim | Handle animals | Athletics | Ride |
 | **Performer** | Sense motive | Languages | Acrobatics | Perform |
-| **Medicine man** | Myths and Legends | Nature | Herbalism | First aid |
+| **Medicine man** | Myths/Legends | Nature | Herbalism | First aid |
 
 > Although undoubtedly the desire to know is natural to all men, the willingness to learn is not for everyone...(Richard de Bury)
 
@@ -1806,7 +1808,7 @@ The player may request to make the check even if the result is certain.
 
 | **Advantage / Disadvantage** | **Checks** | |
 | --- | --- |
-| \cmidrule(lr) | **Dynamic** | **Fixed** |
+|  | **Dynamic** | **Fixed** |
 | Light bonus | +1 | +1 |
 | Normal bonus | +2 | +2 |
 | Strong bonus | +1d6 | +4 |
@@ -2097,7 +2099,7 @@ The player chooses the Ability Score they prefer. If Dexterity is chosen, it wil
 
 Whoever has the highest initiative between players and enemies starts first, followed by the others in descending order, declaring Actions and executing them. In case of Initiative with the same score, whoever has the higher Ability Score acts first, otherwise the clash will be simultaneous. Initiative is valid for the entire clash and is rerolled when changing opponents.
 
- %box narratore
+ 
 Try to make combat flow naturally. Don't interrupt the flow of actions, but by describing their effects involve players (and enemies) in subsequent actions. I recommend reading the article https://theangrygm.com/manage-combat-like-a-dolphin/ to understand the method in detail.
 
 **The Golden Rules also apply to the Initiative Check.**
@@ -2950,7 +2952,7 @@ The list proposes a catalog of Critical Actions for consumed Critical Hits. You 
 
 Use this list as guidelines to stimulate the character to create their own combat style.
 
-**Criticals** \hskip 0.5cm **Effect**
+**Criticals**  **Effect**
 
 - **Eye Attacks**
 
@@ -5892,7 +5894,7 @@ This modifier is called the **ability modifier for spells**.
 
 \cline
 
-| **Proficiency** | **Cantrips** | **Spell level 1+** | **Cantrips or /  \textbf{Spell level 1+**} |
+| **Proficiency** | **Cantrips** | **Spell level 1+** | **Cantrips or /  {Spell level 1+**} |
 | 1 | mod +2 (minimum 4) | mod (minimum 4) | mod (minimum 4) / 2 |
 | 2 | present in Spellbook | present in Spellbook | +2 or / +1 |
 | 3 | present in Spellbook | present in Spellbook | +2 or / +1 |
@@ -14632,6 +14634,7 @@ Sometimes weather can play an important role during an adventure. The Table: Ran
 **Table: Random Weather**
 
 | **d\%** | **Weather** | **Cold Climate** | **Temperate Climate {***} | **Desert** |
+|---|---|---|---|---|
 | 01-70 | Normal | Cold, calm | Normal for the season {*}{*} | Hot, calm |
 | 71-80 | Abnormal | Heat Wave (01-30) / Cold Snap (31-100) | Heat Wave (01-50) - Cold Snap (51-100) | Hot, windy |
 | 81-90 | Inclement | Precipitation (snow) | Precipitation normal for the season | Hot, windy |
@@ -14947,7 +14950,7 @@ Sometimes brick walls (stones stacked one on top of another and held together wi
 
 **Table: Digging a tunnel**
 
-| **Miner** | **Material to Dig (1 minute)** |  | |
+| **Miner** | **Material to Dig (1 minute)** |  |
 | --- | --- | --- |
 | **Earth** | **SoftStone** | **Hard Stone** |
 | Human | 50 cm | 15 cm | 7 cm |
@@ -15398,6 +15401,7 @@ Use the Trap Saving Throw DCs and Attack Bonus table and the Damage Severity by 
 **Table: Damage Severity by Level**
 
 | Character Level | Minimal | Dangerous | Deadly |
+|---|---|---|---|
 | 1st-4th | 1d10 | 2d10 | 4d10 |
 | 5th-10th | 2d10 | 4d10 | 10d10 |
 | 11th-16th | 4d10 | 10d10 | 18d10 |
@@ -16032,14 +16036,7 @@ Lost ability score points are recovered at a rate of 1 per day if not permanent 
 
 **Table: Natural Potions (cost in gold coins)**
 
-{1\textwidth}{
-		>{\raggedright}p
-		>{}p
-		>{}p
-		>{}p
 		>{\raggedright}X
-		>{}p
-		>{}p
 
 | **Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16311,8 +16308,8 @@ Only in non-combat situations does running triple movement, i.e., when using Loc
 This table shows the base values of land movement in non-combat situations.
 
 | **Movement type** | **Movement** |  | |
-| --- | --- | --- |
-| \cmidrule(lr) | **6m** | **9m** | **12m** |
+| --- | --- | --- |---|
+|  | **6m** | **9m** | **12m** |
 | **Movement (Tactical)** |  |  | |
 | Walking | 6m | 9m | 12m |
 | Running (x2) | 12m | 18m | 24m |
@@ -16381,7 +16378,7 @@ He could decide to (among various possibilities):
 
 A character in contact with another creature can use **one Action** to **exchange places** with it. If the creature is hostile, an Athletic Check opposed to a Fortitude Saving Throw is required to succeed in exchanging places. For each size difference, whoever has the larger one takes a +1d6 bonus to the check. It costs a Reaction to the friendly creature.
 
->>> %box narratore
+>>> 
 If you want a crude realism then it is also difficult terrain to pass through areas where there are friendly creatures.
 
 ### Being confined with someone
@@ -16530,6 +16527,7 @@ The **Table: CdC transported based on size** shows the Load Capacity based on si
 **Table: transport modifiers for creatures with multiple legs**
 
 | **Creature Legs** | **CdC** |
+|---|---|
 | 4 legs | x2 |
 | 6 legs | x2.5 |
 | 8 legs | x3 |
@@ -16585,7 +16583,7 @@ To do what one wants, one must be born a king or a fool. (*or Narrator*, NdA) (L
 
 "It is not the job of the DM (*Narrator*) alone to entertain the players and make sure they have fun. Each person playing is responsible for the fun of the game for everyone. Everyone speeds up the game, increases the drama, helps establish how comfortable the group feels with role-playing, and brings the game world to life with their imagination. Everyone should also treat each other with respect and consideration: personal squabbles and character rivalries interfere with fun.
 
-| Different people have different ideas about what's fun in D | D. Remember that the *right way* to play D | D is the way you and your players agree on and have fun with. If everyone comes to the table ready to contribute to the game, everyone has fun". (Dungeon Master Guide, 4ed) |
+| Different people have different ideas about what's fun in D&D. Remember that the *right way* to play D&D is the way you and your players agree on and have fun with. If everyone comes to the table ready to contribute to the game, everyone has fun". (Dungeon Master Guide, 4ed) |
 | --- | --- | --- |
 
 ## The Narrator
@@ -16636,6 +16634,7 @@ Whenever the character or the group:
 **Table: Experience Points per Level**
 
 | **Level** | **XP** | **Level** | **XP** |
+|---|---|---|---|
 | 1 | 0 | 11 | 300000 |
 | 2 | 2000 | 12 | 390000 |
 | 3 | 8000 | 13 | 490000 |
@@ -16701,7 +16700,6 @@ Note that this reference guide to creating an encounter assumes a group of four 
 
 **Table: Determining Encounters**
 
-{@{}ll@ % @{} removes extra padding
 
 | **difficulty** | **Challenge Rating** |
 | --- | --- |
@@ -16830,7 +16828,8 @@ Characters advance in level by defeating monsters, overcoming challenges, having
 
 **Table: Character Wealth by Level**
 
-| **Level** | **Wealth (gp)** | **Level** | **Wealth (gp)** |
+| Level | Wealth (gp) | Level | Wealth (gp) |
+|---|---|---|---|
 | 1 | 100 | 11 | 13900 |
 | 2 | 160 | 12 | 19900 |
 | 3 | 220 | 13 | 25900 |
@@ -16866,7 +16865,7 @@ The player must always personify the character, identify with them and actively 
 
 There may be background situations, handled quickly, that are done in the third person, yet every time it becomes necessary to play, it must be true, done by the player fully immersing themselves in the character.
 
-**When a player roleplays well and describes the action they are performing in a \textbf{participatory**, **engaging**, **inspired** manner, give them a reward, grant a +1 bonus to the action they are performing}
+**When a player roleplays well and describes the action they are performing in a {participatory**, **engaging**, **inspired** manner, give them a reward, grant a +1 bonus to the action they are performing}
 
 Make it clear to the player that thanks to their interpretation they have that bonus.
 
@@ -17191,11 +17190,10 @@ Then consult the Table Magic Item Type (p. ) to roll and discover what magic ite
 
 **Table: Treasure Composition**
 
-{\textwidth}{>{\bfseries}l|>
 	
 
 | **Treasures from lairs or hideouts of creatures** |  |  |  |  |  |  | |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |---|
 | TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
 | x 1000 | x 1000 | x 1000 | x 100 |  |  | |
 | A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 any, 30\% |
@@ -17208,10 +17206,9 @@ Then consult the Table Magic Item Type (p. ) to roll and discover what magic ite
 | H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 any 15\% |
 | I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 any 15\% |
 
-{\textwidth}{>{\bfseries}l|>
 
 | **Individual Treasures, small lairs, backpacks and bags** |  |  |  |  |  |  | |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |---|
 | TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
 | J | 3d8 | - | - | - | - | - | - |
 | K | - | 3d6 | - | - | - | - | - |
@@ -17242,7 +17239,7 @@ The Narrator in preparing the adventure can position the magic items they prefer
 The exclusively random approach is not always suggested, the results could overwhelm the adventure if not the entire campaign!
 Yet finding a dragon-slaying sword at the first level, rest assured it will generate endless adventures for the characters!
 
- %box narratore
+ 
 Earth is a world with a *rare* magic profile; magic items exist but are rare and even more so the more powerful ones. While natural potions and small trinkets can be found everywhere, it is only by actively searching, going into the depths that the best treasures can be found.
 
 ### Value of Gems and Jewelry
@@ -21600,7 +21597,7 @@ Much of the lands between France and Germany have returned to a more primitive a
 The cold lands of northern Europe isolated themselves after their dead rose again. This time by the will of the people, help was sought from Krondal and Nedraf so that they could save them. Nedraf gave them the weapons and the experience to use them, Krondal, like a true madman, brought back the ancestral memories of a warrior past made of myths and Gods forgotten, or rather ignored, by most.
 Thus Krondal has recreated as his servants Aegir, Alfadur, Hel, Idhunn, Norne, not to mention the better-known Thor, Loki, Valkyries...
 
->>> %box narratore
+>>> 
 Use real terrestrial physical geographic maps to help you with the environment. Look online for maps of ancient cities. You have at your disposal the greatest setting ever created; it's just a matter of populating it with the myths, legends, stories, and fantasy that are already around you.
 
 Every city has its historical legends, discover them and play them together!
@@ -21619,7 +21616,7 @@ Not all Portals are dangerous; many simply function as transport gateways from o
 
 You can invent a thousand and one adventures behind the Portals; each is a possibility of a different world and a multitude of adventures.
 
- %box narratore
+ 
 You should understand the portals as a key to a thousand and one adventures. Each portal will lead you to a different place, fantastic as you intend it. Do you want an adventure in a primitive world, set in modern society, on a planet somewhere? Use the portal to open the doors of your imagination.
 
 The characters themselves might not be *terrestrial* and seek a way to return home...
@@ -35041,7 +35038,7 @@ The blue point determines the origin of the spell
 
 # Material for playing
 
-You are invited to download **Old Bell School System** from GitHub freely and without constraints except for those expressed in the license.
+**Old Bell School System - OBSS - Fantasy Adventure Game**
 The main site is https://github.com/buzzqw/TUS
 
 * **OBSS Manual**:
@@ -35082,7 +35079,7 @@ I thank the https://www.brailleinstitute.org/freefont/ for the font used. Atkins
 
 # License
 
-**Old Bell School System (OBSS)** © 2021 by Andres Zanzani is licensed under \hyperref{https://creativecommons.org/licenses/by-sa/4.0/legalcode}{CC BY-SA 4.0}
+**Old Bell School System - OBSS - Fantasy Adventure Game**
 
 The images in the manuals are unlicensed or in the public domain. Images marked with *B.I.C.* and the cover were created with Bing Image Creator. If any copyright-protected images are included, please notify us so we can proceed with their removal.
 

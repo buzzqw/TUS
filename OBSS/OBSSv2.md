@@ -761,6 +761,7 @@ Ogni giocatore distribuisce 4 punti tra le 6 Caratteristiche, ogni Caratteristic
 La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabella per determinare i valori effettivi della Caratteristiche.
 
 | **Val. tirato** | **Caratt.** | **Val. tirato** | **Caratt.** |
+|---|---|---|---|
 | 3 (o meno) | -3 | 12-13-14 | +1 |
 | 4-5 | -2 | 15-16-17 | +2 |
 | 6-7-8 | -1 | 18 (o più) | +3 |
@@ -960,7 +961,7 @@ Ogni archetipo è presentato con un insieme di Tratti raccomandati che si alline
 
 Gli archetipi possono anche evolversi durante le avventure di un personaggio. Un personaggio potrebbe iniziare come un archetipo (L'Innocente) e trasformarsi in un altro (L'Eroe) attraverso le sue esperienze. Questa evoluzione può essere riflessa nel cambiamento graduale dei Tratti e delle affinità con i Patroni.
 
-# I 21 Archetipi
+## I 21 Archetipi
 
 ## L'Eroe
 Il personaggio coraggioso che supera gli ostacoli per raggiungere un obiettivo, spesso trasformando se stesso nel processo.
@@ -1138,7 +1139,7 @@ Il personaggio cercatore solitario che si ritira dalla società per trovare la v
 - **Tratti Contraddittori:** Dissoluto, Arrogante, Avaro
 - **Patroni Allineati:** Atmos, Sixiser, Efrem
 
-# Cicli Archetipici e Sviluppo del Personaggio
+## Cicli Archetipici e Sviluppo del Personaggio
 
 I personaggi raramente incarnano un singolo archetipo durante l'intero loro viaggio. Piuttosto, possono evolversi attraverso una serie di archetipi mentre crescono e si sviluppano. Di seguito sono riportate alcune progressioni archetipiche comuni che possono servire come modelli per lo sviluppo del personaggio:
 
@@ -1151,7 +1152,7 @@ I personaggi raramente incarnano un singolo archetipo durante l'intero loro viag
 
 Ogni transizione tra archetipi rappresenta un momento significativo di sviluppo del personaggio, spesso accompagnato dall'acquisizione o perdita di Tratti specifici e potenzialmente da un cambiamento nell'affinità con i Patroni. Narratori e giocatori possono utilizzare questi cicli archetipici per pianificare archi narrativi significativi del personaggio.
 
-# Affinità con i Patroni e Risonanze Archetipiche
+## Affinità con i Patroni e Risonanze Archetipiche
 
 Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più fortemente di altri. Queste connessioni possono informare sia lo sviluppo del personaggio che la narrazione:
 
@@ -1185,7 +1186,7 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 | Thaft | L'Uomo Comune, L'Alleato, Il Custode |
 | Torbiorn | Il Tiranno, L'Ombra, Il Sovrano |
 
-# Utilizzare gli Archetipi nel Gioco
+## Utilizzare gli Archetipi nel Gioco
 
 ## Per i Giocatori
 
@@ -5724,7 +5725,7 @@ Questo modificatore viene chiamato **modificatore di caratteristica per incantes
 
 \cline
 
-| **Magica** | **Trucchetti** | **Livello inc. 1+** | **Trucchetti oppure /  \textbf{Livello inc. 1+**} |
+| **Magica** | **Trucchetti** | **Livello inc. 1+** | **Trucchetti oppure /  {Livello inc. 1+**} |
 | 1 | mod +2 (minimo 4) | mod (minimo 4) | mod (minimo 4) / 2 |
 | 2 | presenti nel Tomo | presenti nel Tomo | +2 oppure / +1 |
 | 3 | presenti nel Tomo | presenti nel Tomo | +2 oppure / +1 |
@@ -14813,6 +14814,7 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 **Tabella: Tempo Atmosferico Casuale**
 
 | **d\%** | **Meteo** | **Clima Freddo** | **Clima Temperato {***} | **Deserto** |
+|---|---|---|---|---|
 | 01-70 | Normale | Freddo, calmo | Normale per la stagione {*}{*} | Torrido, calmo |
 | 71-80 | Anormale | Ondata di Caldo (01-30) / Ondata di Freddo (31-100) | Ondata di Caldo (01-50) - Ondata di Freddo (51-100) | Torrido, ventilato |
 | 81-90 | Inclemente | Precipitazioni (neve) | Precipitazioni normali per la stagione | Torrido, ventilato |
@@ -15124,7 +15126,7 @@ A volte pareti in mattoni (pietre accatastate una sopra tenute insieme con la ca
 
 **Tabella: Scavare un tunnel**
 
-| **Minatore** | **Materiale da Scavare (1 minuto)** |  | |
+| **Minatore** | **Materiale da Scavare (1 minuto)** |  |
 | --- | --- | --- |
 | **Terreno** | **Pietramorbida** | **Pietra dura** |
 | Umano | 50 cm | 15 cm | 7 cm |
@@ -15574,6 +15576,7 @@ Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tab
 **Tabella: Gravità del Danno per Livello**
 
 | Livello PG | Minima | Pericolosa | Mortale |
+|---|---|---|---|
 | 1°-4° | 1d10 | 2d10 | 4d10 |
 | 5°-10° | 2d10 | 4d10 | 10d10 |
 | 11°-16° | 4d10 | 10d10 | 18d10 |
@@ -16169,7 +16172,7 @@ Per *trovare* gli ingredienti per preparare le **pozioni naturali** è necessari
 
 **Tabella: Veleni. (costo in Monete d'Oro)**
 
-{1\textwidth}{mlllmc}
+
 	
 
 | **Nome Veleno** | **Uso** | **Ins.** | **TS** | **Effetto (danno)** | **Costo** |
@@ -16209,9 +16212,6 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 
 **Tabella: Pozioni Naturali (costo in monete d'oro)**
 
-{1\textwidth}{
-		>{\raggedright}p
-		>{}p
 		>{}p
 		>{}p
 		>{\raggedright}X
@@ -16341,8 +16341,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 
 **Miscela 31**: un insieme studiato di droghe per i saurovalli. Terminato l'effetto la creatura deve fare un Tiro Salvezza su Tempra DC 23 o cadere svenuto per 12 ore.
 
-**Muschio Argentato**: molto simile, per un non esperto, al Muschio Bianco. Si
- raccolgono le bacche.
+**Muschio Argentato**: molto simile, per un non esperto, al Muschio Bianco. Si raccolgono le bacche.
 
 **Nazamuse**: Creato con tecniche avanzate dai Devoti di Atherim.
 
@@ -16489,7 +16488,7 @@ Solo in situazioni di non combattimento la corsa triplica il movimento, ovvero q
 Questa tabella mostra i valori base di movimento a terra in situazioni di non combattimento.
 
 | **Tipo di movimento** | **Movimento** |  | |
-| --- | --- | --- |
+| --- | --- | --- |---|
 |  | **6m** | **9m** | **12m** |
 | **Movimento (Tattico)** |  |  | |
 | Camminare | 6m | 9m | 12m |
@@ -16706,6 +16705,7 @@ Nella **Tabella: CdC trasportato in base alla taglia** viene riportata la Capaci
 **Tabella: modificatori trasporto per creature con più zampe**
 
 | **Zampe Creatura** | **CdC** |
+|---|---|
 | 4 zampe | x2 |
 | 6 zampe | x2.5 |
 | 8 zampe | x3 |
@@ -16812,6 +16812,7 @@ Ogni qual volta il personaggio od il gruppo:
 **Tabella: Punti Esperienza per Livello**
 
 | **Livello** | **PX** | **Livello** | **PX** |
+|---|---|---|---|
 | 1 | 0 | 11 | 300000 |
 | 2 | 2000 | 12 | 390000 |
 | 3 | 8000 | 13 | 490000 |
@@ -16877,7 +16878,6 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 
 **Tabella: Determinare gli Incontri**
 
-{@{}ll@ % @{} removes extra padding
 
 | **difficoltà** | **Grado di Sfida** |
 | --- | --- |
@@ -17007,6 +17007,7 @@ I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertend
 **Tabella: Ricchezza dei Personaggi per Livello**
 
 | **Livello** | **Ricchezza (mo)** | **Livello** | **Ricchezza (mo)** |
+|---|---|---|---|
 | 1 | 100 | 11 | 13900 |
 | 2 | 160 | 12 | 19900 |
 | 3 | 220 | 13 | 25900 |
@@ -17042,7 +17043,7 @@ Il giocatore deve sempre impersonare il personaggio, immedesimarsi e partecipare
 
 Ci possono essere situazioni di contorno, gestite velocemente, che vengono fatte in terza persona, eppure ogni volta che si renda necessario giocare allora deve essere vero, fatto dal giocatore calandosi appieno nel personaggio.
 
-**Quando un giocatore interpreta bene e descrive l'azione che va a svolgere in maniera \textbf{partecipativa**, **coinvolgente**, **ispirata**, dategli un premio, concedete un bonus di +1 all'azione che sta svolgendo}
+**Quando un giocatore interpreta bene e descrive l'azione che va a svolgere in maniera {partecipativa**, **coinvolgente**, **ispirata**, dategli un premio, concedete un bonus di +1 all'azione che sta svolgendo}
 
 Fatelo presente al giocatore che grazie alla sua interpretazione ha quel bonus.
 
@@ -17363,11 +17364,10 @@ Consultate poi la Tabella Tipologia Oggetto magico  per tirare e scoprire quale 
 
 **Tabella: Composizione dei tesori**
 
-{\textwidth}{>{\bfseries}l|>
 	
 
 | **Tesori da tana o nascondigli di creature** |  |  |  |  |  |  | |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |---|
 | CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Oggetti magici** |
 | x 1000 | x 1000 | x 1000 | x 100 |  |  | |
 | A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 qualsiasi, 30\% |
@@ -17380,10 +17380,9 @@ Consultate poi la Tabella Tipologia Oggetto magico  per tirare e scoprire quale 
 | H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 qualsiasi 15\% |
 | I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 qualsiasi 15\% |
 
-{\textwidth}{>{\bfseries}l|>
 
 | **Tesori Individuali, piccole tane, zaini e borse** |  |  |  |  |  |  | |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |---|
 | CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Oggetti magici** |
 | J | 3d8 | - | - | - | - | - | - |
 | K | - | 3d6 | - | - | - | - | - |

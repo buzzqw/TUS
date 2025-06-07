@@ -7,7 +7,7 @@
  * 
  * @author Andres Zanzani
  * @license GPL-3.0
- * @version 1.0.0
+ * @version 1.1.0
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -33,6 +33,72 @@ class GitHubWikiUploader {
         this.repoUrl = 'https://github.com/buzzqw/TUS.wiki.git';
         this.wikiDir = './wiki-temp';
         this.today = new Date().toISOString().split('T')[0]; // Format: YYYY-MM-DD
+    }
+
+    showHelp() {
+        console.log(`
+🚀 OBSSv2 Wiki Uploader v1.1.0
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📝 DESCRIZIONE:
+   Script per automatizzare il caricamento dei file Markdown OBSSv2 sulla wiki di GitHub.
+   Elabora i file OBSSv2.md (italiano) e OBSSv2-eng.md (inglese), divide ogni file
+   in sezioni basate sui titoli di primo livello (# Titolo) e carica ogni sezione
+   come pagina separata sulla wiki.
+
+🔧 USO:
+   node obsv2_wiki_script.js [opzioni]
+
+📋 OPZIONI:
+   (nessuna)           Modalità normale - elabora e carica i file OBSSv2
+   -c, --clean        Modalità pulizia - rimuove tutti i file dalla wiki
+   -h, --help         Mostra questo messaggio di aiuto
+
+📁 FILE RICHIESTI:
+   • .token           File contenente il token GitHub (formato: githubtoken=TOKEN)
+   • OBSSv2.md        File Markdown in italiano (opzionale)
+   • OBSSv2-eng.md    File Markdown in inglese (opzionale)
+
+⚙️  CONFIGURAZIONE:
+   1. Crea un file .token nella stessa directory dello script
+   2. Inserisci nel file: githubtoken=IL_TUO_TOKEN_GITHUB
+   3. Assicurati che il token abbia i permessi per modificare la wiki
+
+📤 COSA FA IN MODALITÀ NORMALE:
+   • Legge i file OBSSv2.md e OBSSv2-eng.md
+   • Divide ogni file in sezioni basate sui titoli # (livello 1)
+   • Crea una pagina wiki separata per ogni sezione
+   • Genera pagine indice per ciascuna lingua
+   • Aggiorna la pagina Home con i collegamenti ai nuovi caricamenti
+   • Effettua commit e push sulla repository wiki
+
+🧹 COSA FA IN MODALITÀ PULIZIA:
+   • Rimuove TUTTI i file dalla wiki
+   • Crea una nuova pagina Home pulita
+   • Effettua commit e push delle modifiche
+
+📋 ESEMPI:
+   # Caricamento normale
+   node obsv2_wiki_script.js
+
+   # Pulizia completa della wiki
+   node obsv2_wiki_script.js --clean
+
+   # Mostra aiuto
+   node obsv2_wiki_script.js --help
+
+⚠️  NOTE IMPORTANTI:
+   • La modalità --clean elimina PERMANENTEMENTE tutti i contenuti della wiki
+   • Assicurati di avere backup prima di usare --clean
+   • Il token GitHub deve avere permessi di scrittura sulla repository
+   • I file vengono organizzati per data (formato: YYYY-MM-DD)
+
+🌐 REPOSITORY WIKI: https://github.com/buzzqw/TUS/wiki
+
+📄 LICENZA: GPL-3.0
+👤 AUTORE: Andres Zanzani
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+`);
     }
 
     async loadToken() {
@@ -128,7 +194,7 @@ class GitHubWikiUploader {
         
         // Rimuovi directory esistente se presente
         try {
-            await fs.rmdir(this.wikiDir, { recursive: true });
+            await fs.rm(this.wikiDir, { recursive: true, force: true });
         } catch (error) {
             // Ignora errore se la directory non esiste
         }
@@ -169,7 +235,7 @@ class GitHubWikiUploader {
             if (sectionFile) {
                 indexContent += `- [${section.title}](${sectionFile})\n`;
             } else {
-                indexContent += `- ${section.title} (errore nel caricamento)\n`;
+                indexContent += `- ${section.title} ${isItalian ? '(errore nel caricamento)' : '(upload error)'}\n`;
             }
         });
 
@@ -204,8 +270,13 @@ class GitHubWikiUploader {
         const obssSectionRegex = /## OBSSv2 - Wiki[\s\S]*?(?=\n##|\n---|\n$|$)/;
         const obssSectionMatch = homeContent.match(obssSectionRegex);
         
-        // Crea la voce per oggi
-        const todayEntry = `- ${this.today} - [OBSSv2](${this.today}-OBSSv2)\n- ${this.today} - [OBSSv2-eng](${this.today}-OBSSv2-eng)\n`;
+        // Crea le voci per oggi
+        let todayEntry = '';
+        indexPages.forEach(page => {
+            const isEng = page.includes('-eng');
+            const label = isEng ? 'OBSSv2 (English)' : 'OBSSv2 (Italiano)';
+            todayEntry += `- ${this.today} - [${label}](${page})\n`;
+        });
 
         if (obssSectionMatch) {
             // Se esiste già una sezione OBSSv2, aggiungi in cima (più recente prima)
@@ -267,10 +338,23 @@ Benvenuto nella wiki del progetto TUS.
                 await this.executeCommand('git config user.email "obsv2-uploader@example.com"', options);
                 await this.executeCommand('git config user.name "OBSSv2 Uploader"', options);
             } catch (error) {
-                // Ignora errori di configurazione git
+                // Ignora errori di configurazione git se già configurati
+                console.log('ℹ️  Configurazione git già presente');
             }
             
             await this.executeCommand('git add .', options);
+            
+            // Verifica se ci sono modifiche da committare
+            try {
+                const status = await this.executeCommand('git status --porcelain', options);
+                if (!status) {
+                    console.log('ℹ️  La wiki è già pulita, nessuna modifica necessaria');
+                    return;
+                }
+            } catch (error) {
+                // Continua comunque
+            }
+            
             await this.executeCommand('git commit -m "Pulizia completa della wiki"', options);
             await this.executeCommand('git push origin master', options);
             
@@ -323,7 +407,7 @@ Benvenuto nella wiki del progetto TUS.
 
     async cleanup() {
         try {
-            await fs.rmdir(this.wikiDir, { recursive: true });
+            await fs.rm(this.wikiDir, { recursive: true, force: true });
             console.log('✓ File temporanei rimossi');
         } catch (error) {
             console.warn('⚠️  Impossibile rimuovere file temporanei:', error.message);
@@ -334,7 +418,10 @@ Benvenuto nella wiki del progetto TUS.
         console.log(`\n📁 Elaborazione ${filename}...`);
         
         const content = await this.readMarkdownFile(filename);
-        if (!content) return [];
+        if (!content) {
+            console.log(`⚠️  File ${filename} non trovato o non leggibile`);
+            return [];
+        }
 
         const sections = this.splitIntoSections(content);
         console.log(`📋 Trovate ${sections.length} sezioni`);
@@ -376,30 +463,45 @@ Benvenuto nella wiki del progetto TUS.
             const indexPages = [];
 
             // Elabora file italiano
+            console.log('\n=== ELABORAZIONE FILE ITALIANO ===');
             const itaFiles = await this.processFile('OBSSv2.md', 'ita');
             if (itaFiles.length > 0) {
                 indexPages.push(`${this.today}-OBSSv2`);
+                console.log('✓ File italiano elaborato con successo');
+            } else {
+                console.log('⚠️  Nessun file italiano da elaborare');
             }
             
             // Elabora file inglese
+            console.log('\n=== ELABORAZIONE FILE INGLESE ===');
             const engFiles = await this.processFile('OBSSv2-eng.md', 'eng');
             if (engFiles.length > 0) {
                 indexPages.push(`${this.today}-OBSSv2-eng`);
+                console.log('✓ File inglese elaborato con successo');
+            } else {
+                console.log('⚠️  Nessun file inglese da elaborare');
             }
             
             // Aggiorna la pagina Home con i nuovi caricamenti
             if (indexPages.length > 0) {
+                console.log('\n=== AGGIORNAMENTO HOME PAGE ===');
                 await this.updateHomePage(indexPages);
+            } else {
+                console.log('⚠️  Nessun file da caricare, Home page non aggiornata');
+                return;
             }
             
             // Carica tutto sulla wiki
+            console.log('\n=== CARICAMENTO SU GITHUB ===');
             await this.commitAndPush();
             
             console.log('\n✅ Script completato con successo!');
             console.log(`🌐 Controlla la wiki su: https://github.com/buzzqw/TUS/wiki`);
             console.log(`🏠 La pagina Home è stata aggiornata con i collegamenti a:`);
             indexPages.forEach(page => {
-                console.log(`   - ${page}`);
+                const isEng = page.includes('-eng');
+                const lang = isEng ? '(English)' : '(Italiano)';
+                console.log(`   - ${page} ${lang}`);
             });
             
         } catch (error) {
@@ -418,7 +520,10 @@ if (require.main === module) {
     // Controlla argomenti da riga di comando
     const args = process.argv.slice(2);
     
-    if (args.includes('--clean') || args.includes('-c')) {
+    if (args.includes('--help') || args.includes('-h') || args.includes('--h')) {
+        // Modalità aiuto
+        uploader.showHelp();
+    } else if (args.includes('--clean') || args.includes('-c')) {
         // Modalità pulizia
         console.log('🧹 Modalità pulizia attivata');
         uploader.loadToken()
