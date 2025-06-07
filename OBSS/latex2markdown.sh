@@ -78,6 +78,21 @@ sed -i '/| \*\*4d6\*\* | \*\*Gemme\*\* | \*\*4d6\*\* | \*\*Gemme\*\* |/a\|---|--
 sed -i '/| --- | --- | --- | --- |/{n;/^[[:space:]]*$/d;}' OBSSv2.md
 sed -i '/\\cline/,+1d' OBSSv2.md
 sed -i 's/| 1 | Per 1 giorno non sei più in grado di canalizzare energie magiche\. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia |/|3d6|Effetto|\n|---|---|\n| 1 | Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia |/' OBSSv2.md
+sed -i 's/### Cappelli, Mantelli, Occhiali, Tuniche\\hypertarget{Occhiali}{Occhiali}\\hypertarget{Cappelli}{Cappelli}/### Cappelli, Mantelli, Occhiali, Tuniche/' OBSSv2.md
+sed -i 's/\\hypertarget{oggettimaledettiid}{\*\*identificati\*\*}/\*\*identificati\*\*/' OBSSv2.md
+sed -i 's/\\hypertarget{visionecrepuscolare}{visione crepuscolare}/visione crepuscolare/' OBSSv2.md
+sed -i '/{0\.50\\textwidth}/d' OBSSv2.md
+sed -i '/{lp{0\.055\\textwidth}p{0\.06\\textwidth}p{0\.07\\textwidth/d' OBSSv2.md
+sed -i '/\\begin{adjustbox}{max width=0\.5\\textwidth}/d' OBSSv2.md
+sed -i '/| {>{\raggedright}p{0\.15\\textwidth}|>{\raggedright}p{0\.1\\textwidth}>{\raggedright}p{0\.15\\textwidth}|>{\raggedright}p{0\.1\\textwidth |/d' OBSSv2.md
+sed -i '/| \*\*Costo\*\* | \*\*Oggetto\*\* |/a\|---|---|' OBSSv2.md
+sed -i '/| \*\*\\#\*\* | \*\*Effetto\*\* |/a\|---|---|' OBSSv2.md
+sed -i '/| Ambiente:/,/| Organizzazione:/{s/| \(.*\) |/\1/g; /| --- |/d; /^---$/d;} ; /^Ambiente:/a\\' OBSSv2.md
+sed -i 's/ \\emph / /g' OBSSv2.md
+sed -i '/\*\*Categoria Tesoro\*\*:/{N;s/\(\*\*Categoria Tesoro\*\*:.*\)\n\(\*\*Descrizione\*\*\)/\1\n\n\2/;}' OBSSv2.md
+sed -i 's/\\resizebox{0\.5\\linewidth+1\.8cm{!}{//g' OBSSv2.md
+
+
 
 
 sed -i 's/\\cline{[^}]*}//g' OBSSv2-eng.md
@@ -159,6 +174,22 @@ sed -i '/| \*\*MP\*\* | \*\*MP\*\* | \*\*MP\*\* | \*\*MP\*\* | \*\*MP\*\* | \*\*
 sed -i '/| --- | --- | --- | --- |/{n;/^[[:space:]]*$/d;}' OBSSv2-eng.md
 sed -i '/\\cline/,+1d' OBSSv2-eng.md
 sed -i 's/| 1 | For 1 day you are no longer able to channel magical energies\. You cannot cast spells unless making a magic critical success in the Magic Check |/|3d6|Effect|\n|---|---|\n| 1 | For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic critical success in the Magic Check |/' OBSSv2-eng.md
+sed -i 's/\\hypertarget{curseditemsid}{\*\*identified\*\*}/\*\*identified\*\*/' OBSSv2-eng.md
+sed -i 's/\\hypertarget{visionecrepuscolare}{twilight vision}/twilight vision/' OBSSv2-eng.md
+sed -i 's/\\hypertarget{Hunter'\''s lens}{Hunter'\''s lens}/Hunter'\''s lens/' OBSSv2-eng.md
+sed -i '/{0\.50\\textwidth}/d' OBSSv2-eng.md
+sed -i '/{lp{0\.055\\textwidth}p{0\.06\\textwidth}p{0\.07\\textwidth/d' OBSSv2-eng.md
+sed -i '/\\begin{adjustbox}{max width=0\.5\\textwidth}/d' OBSSv2-eng.md
+sed -i '/| {>{\raggedright}p{0\.15\\textwidth}|>{\raggedright}p{0\.1\\textwidth}>{\raggedright}p{0\.15\\textwidth}|>{\raggedright}p{0\.1\\textwidth |/d' OBSSv2-eng.md
+sed -i '/| Environment:/,/| Organization:/{s/| \(.*\) |/\1/g; /| --- |/d; /^---$/d;} ; /^Environment:/a\\' OBSSv2-eng.md
+sed -i '/| \*\*\\#\*\* | \*\*Effect\*\* |/a\|---|---|' OBSSv2-eng.md
+sed -i '/| \*\*Cost\*\* | \*\*Item\*\* |/a\|---|---|' OBSSv2-eng.md
+sed -i 's/\*\*\\emph\*\*//g' OBSSv2-eng.md
+sed -i 's/ \\emph / /g' OBSSv2-eng.md
+sed -i '/\*\*Treasure Category\*\*:/{N;s/\(\*\*Treasure Category\*\*:.*\)\n\(\*\*Description\*\*\)/\1\n\n\2/;}' OBSSv2-eng.md
+sed -i 's/\\resizebox{0\.5\\linewidth+1\.4cm{!}{//g' OBSSv2-eng.md
+
+
 
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2.md > obtemp.md && mv obtemp.md OBSSv2.md
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2-eng.md > obtemp.md && mv obtemp.md OBSSv2-eng.md
