@@ -5921,6 +5921,8 @@ If the Magic Check has had at least one Magic Critical Failure, roll 3d6 and con
 
 **Table: Magic Critical Failure Effects**
 
+|3d6|Effect|
+|---|---|
 | 1 | For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic critical success in the Magic Check |
 | 2 | You increase the Fatigued condition by 2 levels, up to a maximum of Fatigued 5 |
 | 3 | You manifest a minor bodily modification |

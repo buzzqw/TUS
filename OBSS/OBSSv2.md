@@ -5805,6 +5805,8 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico tira 3d6 e con
 
 **Tabella: Effetti Fallimento Critico magico**
 
+|3d6|Effetto|
+|---|---|
 | 1 | Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia |
 | 2 | Aumenti la condizione di Affaticato di 2 gradi, fino ad un massimo di Affaticato 5 |
 | 3 | Manifesti una modifica corporea minore |
@@ -5816,7 +5818,6 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico tira 3d6 e con
 | 9 | Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round |
 | 10 | Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round |
 | 11 | Manifesti l'incantesimo Unto sotto i tuoi piedi |
-
 | 12 | Il prossimo incantesimo che lanci ha effetti se possibile minimizzati |
 | 13 | Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 36 metri |
 | 14 | Tutte le creature nel raggio di 36 metri sanno esattamente dove sei e cosa tentavi di fare |

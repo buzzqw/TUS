@@ -77,6 +77,8 @@ sed -i '/| \*\*1d100\*\* | \*\*Capacità Speciale Armature\/Scudi Tipo 2\*\* |/a
 sed -i '/| \*\*4d6\*\* | \*\*Gemme\*\* | \*\*4d6\*\* | \*\*Gemme\*\* |/a\|---|---|---|---|' OBSSv2.md
 sed -i '/| --- | --- | --- | --- |/{n;/^[[:space:]]*$/d;}' OBSSv2.md
 sed -i '/\\cline/,+1d' OBSSv2.md
+sed -i 's/| 1 | Per 1 giorno non sei più in grado di canalizzare energie magiche\. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia |/|3d6|Effetto|\n|---|---|\n| 1 | Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia |/' OBSSv2.md
+
 
 sed -i 's/\\cline{[^}]*}//g' OBSSv2-eng.md
 sed -i '/Old Bell School System/c**Old Bell School System - OBSS - Fantasy Adventure Game**' OBSSv2-eng.md
@@ -156,6 +158,7 @@ sed -i '/| \*\*d100\*\* | \*\*Contains\*\* |/a\|---|---|' OBSSv2-eng.md
 sed -i '/| \*\*MP\*\* | \*\*MP\*\* | \*\*MP\*\* | \*\*MP\*\* | \*\*MP\*\* | \*\*MP\*\* |/a\|---|---|---|---|---|---|' OBSSv2-eng.md
 sed -i '/| --- | --- | --- | --- |/{n;/^[[:space:]]*$/d;}' OBSSv2-eng.md
 sed -i '/\\cline/,+1d' OBSSv2-eng.md
+sed -i 's/| 1 | For 1 day you are no longer able to channel magical energies\. You cannot cast spells unless making a magic critical success in the Magic Check |/|3d6|Effect|\n|---|---|\n| 1 | For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic critical success in the Magic Check |/' OBSSv2-eng.md
 
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2.md > obtemp.md && mv obtemp.md OBSSv2.md
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2-eng.md > obtemp.md && mv obtemp.md OBSSv2-eng.md
