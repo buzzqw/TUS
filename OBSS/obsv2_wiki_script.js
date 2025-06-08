@@ -4,10 +4,11 @@
  * OBSSv2 Wiki Uploader
  * 
  * Script per automatizzare il caricamento dei file Markdown OBSSv2 sulla wiki di GitHub
+ * Versione migliorata con gestione del limite di 512KB di GitHub Wiki
  * 
  * @author Andres Zanzani
  * @license GPL-3.0
- * @version 1.1.0
+ * @version 1.2.0
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -33,11 +34,12 @@ class GitHubWikiUploader {
         this.repoUrl = 'https://github.com/buzzqw/TUS.wiki.git';
         this.wikiDir = './wiki-temp';
         this.today = new Date().toISOString().split('T')[0]; // Format: YYYY-MM-DD
+        this.MAX_FILE_SIZE = 500 * 1024; // 500KB per sicurezza (GitHub ha limite a 512KB)
     }
 
     showHelp() {
         console.log(`
-🚀 OBSSv2 Wiki Uploader v1.1.0
+🚀 OBSSv2 Wiki Uploader v1.2.0
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📝 DESCRIZIONE:
@@ -45,6 +47,9 @@ class GitHubWikiUploader {
    Elabora i file OBSSv2.md (italiano) e OBSSv2-eng.md (inglese), divide ogni file
    in sezioni basate sui titoli di primo livello (# Titolo) e carica ogni sezione
    come pagina separata sulla wiki.
+   
+   ✨ NOVITÀ v1.2.0: Gestione automatica del limite di 512KB di GitHub Wiki!
+   Le sezioni troppo grandi vengono automaticamente divise in più parti.
 
 🔧 USO:
    node obsv2_wiki_script.js [opzioni]
@@ -67,7 +72,8 @@ class GitHubWikiUploader {
 📤 COSA FA IN MODALITÀ NORMALE:
    • Legge i file OBSSv2.md e OBSSv2-eng.md
    • Divide ogni file in sezioni basate sui titoli # (livello 1)
-   • Crea una pagina wiki separata per ogni sezione
+   • Divide automaticamente le sezioni > 500KB in più parti
+   • Crea una pagina wiki separata per ogni sezione/sottosezione
    • Genera pagine indice per ciascuna lingua
    • Aggiorna la pagina Home con i collegamenti ai nuovi caricamenti
    • Effettua commit e push sulla repository wiki
@@ -76,6 +82,12 @@ class GitHubWikiUploader {
    • Rimuove TUTTI i file dalla wiki
    • Crea una nuova pagina Home pulita
    • Effettua commit e push delle modifiche
+
+📏 GESTIONE LIMITI GITHUB:
+   • GitHub Wiki ha un limite di 512KB per file
+   • Le sezioni che superano 500KB vengono automaticamente divise
+   • Ogni parte mantiene il titolo originale + numero parte
+   • L'indice mostra chiaramente le sezioni divise
 
 📋 ESEMPI:
    # Caricamento normale
@@ -92,6 +104,7 @@ class GitHubWikiUploader {
    • Assicurati di avere backup prima di usare --clean
    • Il token GitHub deve avere permessi di scrittura sulla repository
    • I file vengono organizzati per data (formato: YYYY-MM-DD)
+   • Le sezioni molto grandi vengono divise automaticamente
 
 🌐 REPOSITORY WIKI: https://github.com/buzzqw/TUS/wiki
 
@@ -139,10 +152,12 @@ class GitHubWikiUploader {
             if (line.match(/^# [^#]/)) {
                 // Salva la sezione precedente se esiste
                 if (currentSection) {
-                    sections.push({
+                    const sectionContent = currentContent.join('\n').trim();
+                    const processedSections = this.splitLargeSections({
                         title: currentSection,
-                        content: currentContent.join('\n').trim()
+                        content: sectionContent
                     });
+                    sections.push(...processedSections);
                 }
                 
                 // Inizia una nuova sezione
@@ -157,13 +172,89 @@ class GitHubWikiUploader {
 
         // Aggiungi l'ultima sezione
         if (currentSection) {
-            sections.push({
+            const sectionContent = currentContent.join('\n').trim();
+            const processedSections = this.splitLargeSections({
                 title: currentSection,
-                content: currentContent.join('\n').trim()
+                content: sectionContent
             });
+            sections.push(...processedSections);
         }
 
         return sections;
+    }
+
+    // Nuovo metodo per dividere sezioni troppo grandi
+    splitLargeSections(section) {
+        const contentSize = Buffer.byteLength(section.content, 'utf8');
+        
+        // Se la sezione è sotto il limite, restituiscila così com'è
+        if (contentSize <= this.MAX_FILE_SIZE) {
+            console.log(`📄 Sezione "${section.title}": ${contentSize} byte (OK)`);
+            return [section];
+        }
+
+        console.log(`⚠️  Sezione "${section.title}": ${contentSize} byte (TROPPO GRANDE, divisione necessaria)`);
+        
+        const lines = section.content.split('\n');
+        const subsections = [];
+        let currentSubsection = [];
+        let currentSize = 0;
+        let partNumber = 1;
+        let headerAdded = false;
+
+        for (const line of lines) {
+            const lineSize = Buffer.byteLength(line + '\n', 'utf8');
+            
+            // Se aggiungendo questa riga supereremmo il limite e abbiamo già del contenuto
+            if (currentSize + lineSize > this.MAX_FILE_SIZE && currentSubsection.length > 0) {
+                // Salva la sottosezione corrente
+                const subsectionTitle = partNumber === 1 ? 
+                    section.title : 
+                    `${section.title} (Parte ${partNumber})`;
+                
+                subsections.push({
+                    title: subsectionTitle,
+                    content: currentSubsection.join('\n').trim()
+                });
+                
+                console.log(`📝 Creata sottosezione: "${subsectionTitle}" (${currentSize} byte)`);
+                
+                // Inizia una nuova sottosezione
+                partNumber++;
+                currentSubsection = [];
+                currentSize = 0;
+                headerAdded = false;
+            }
+            
+            // Aggiungi l'header della sezione originale alla prima riga di ogni sottosezione
+            if (!headerAdded && !line.match(/^# /) && partNumber > 1) {
+                const originalHeader = `# ${section.title} (Parte ${partNumber})`;
+                currentSubsection.push(originalHeader);
+                currentSubsection.push(''); // Riga vuota dopo l'header
+                currentSize += Buffer.byteLength(originalHeader + '\n\n', 'utf8');
+                headerAdded = true;
+            }
+            
+            currentSubsection.push(line);
+            currentSize += lineSize;
+        }
+
+        // Aggiungi l'ultima sottosezione se ha contenuto
+        if (currentSubsection.length > 0) {
+            const subsectionTitle = partNumber === 1 ? 
+                section.title : 
+                `${section.title} (Parte ${partNumber})`;
+            
+            subsections.push({
+                title: subsectionTitle,
+                content: currentSubsection.join('\n').trim()
+            });
+            
+            console.log(`📝 Creata sottosezione finale: "${subsectionTitle}" (${currentSize} byte)`);
+        }
+
+        console.log(`✅ Sezione "${section.title}" divisa in ${subsections.length} parti`);
+        return subsections;
     }
 
     sanitizeFileName(title) {
@@ -208,8 +299,16 @@ class GitHubWikiUploader {
 
     async createWikiFile(filename, content) {
         const filePath = path.join(this.wikiDir, `${filename}.md`);
+        const contentSize = Buffer.byteLength(content, 'utf8');
+        
+        // Controllo preventivo della dimensione
+        if (contentSize > this.MAX_FILE_SIZE) {
+            console.error(`❌ File ${filename}.md troppo grande: ${contentSize} byte (limite: ${this.MAX_FILE_SIZE} byte)`);
+            return false;
+        }
         
         try {
+            console.log(`📊 Creazione file ${filename}.md (${contentSize} byte)`);
             await fs.writeFile(filePath, content, 'utf8');
             console.log(`✓ File creato: ${filename}.md`);
             return true;
@@ -229,20 +328,55 @@ class GitHubWikiUploader {
             ? `Indice delle sezioni caricate il ${this.today}:\n\n`
             : `Index of sections uploaded on ${this.today}:\n\n`;
 
-        // Crea i collegamenti alle sezioni
+        // Raggruppa le sezioni per titolo base (per gestire le parti)
+        const groupedSections = new Map();
         sections.forEach((section, index) => {
-            const sectionFile = sectionFiles[index];
-            if (sectionFile) {
-                indexContent += `- [${section.title}](${sectionFile})\n`;
-            } else {
-                indexContent += `- ${section.title} ${isItalian ? '(errore nel caricamento)' : '(upload error)'}\n`;
+            const baseTitle = section.title.replace(/ \(Parte \d+\)$/, '');
+            const partMatch = section.title.match(/\(Parte (\d+)\)$/);
+            
+            if (!groupedSections.has(baseTitle)) {
+                groupedSections.set(baseTitle, []);
             }
+            
+            groupedSections.get(baseTitle).push({
+                section,
+                index,
+                partNumber: partMatch ? parseInt(partMatch[1]) : 1
+            });
         });
+
+        // Crea i collegamenti alle sezioni
+        for (const [baseTitle, parts] of groupedSections) {
+            if (parts.length === 1) {
+                // Sezione singola
+                const { section, index } = parts[0];
+                const sectionFile = sectionFiles[index];
+                if (sectionFile) {
+                    indexContent += `- [${section.title}](${sectionFile})\n`;
+                } else {
+                    indexContent += `- ${section.title} ${isItalian ? '(errore nel caricamento)' : '(upload error)'}\n`;
+                }
+            } else {
+                // Sezione divisa in parti
+                indexContent += `- **${baseTitle}**\n`;
+                parts.sort((a, b) => a.partNumber - b.partNumber);
+                parts.forEach(({ section, index, partNumber }) => {
+                    const sectionFile = sectionFiles[index];
+                    if (sectionFile) {
+                        indexContent += `  - [Parte ${partNumber}](${sectionFile})\n`;
+                    } else {
+                        indexContent += `  - Parte ${partNumber} ${isItalian ? '(errore nel caricamento)' : '(upload error)'}\n`;
+                    }
+                });
+            }
+        }
 
         indexContent += `\n---\n`;
         indexContent += isItalian 
-            ? `*Generato automaticamente il ${new Date().toLocaleString('it-IT')}*`
-            : `*Generated automatically on ${new Date().toLocaleString('en-US')}*`;
+            ? `*Generato automaticamente il ${new Date().toLocaleString('it-IT')}*\n`
+            : `*Generated automatically on ${new Date().toLocaleString('en-US')}*\n`;
+        
+        indexContent += `\n${isItalian ? '**Nota**: Le sezioni molto grandi sono state automaticamente divise in più parti per rispettare i limiti di GitHub Wiki (512KB).' : '**Note**: Very large sections have been automatically split into multiple parts to comply with GitHub Wiki limits (512KB).'}`;
 
         const success = await this.createWikiFile(fileName, indexContent);
         if (success) {
@@ -424,7 +558,7 @@ Benvenuto nella wiki del progetto TUS.
         }
 
         const sections = this.splitIntoSections(content);
-        console.log(`📋 Trovate ${sections.length} sezioni`);
+        console.log(`📋 Trovate ${sections.length} sezioni (incluse eventuali suddivisioni)`);
 
         if (sections.length === 0) {
             console.log('⚠️  Nessuna sezione trovata (# header)');
@@ -455,6 +589,7 @@ Benvenuto nella wiki del progetto TUS.
     async run() {
         console.log('🚀 Avvio script per caricamento OBSSv2 su GitHub Wiki');
         console.log(`📅 Data odierna: ${this.today}`);
+        console.log(`📏 Limite file: ${this.MAX_FILE_SIZE} byte (GitHub Wiki: 512KB)`);
         
         try {
             await this.loadToken();

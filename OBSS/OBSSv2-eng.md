@@ -895,10 +895,10 @@ Every particularly important action where the character has followed a Trait bri
 
 As the value of the sum of common Traits with the Patron increases, the character may acquire powers, regardless of whether they are a believer (Follower or Devotee) or not of that Patron.
 
-- At points, one can begin to feel the presence of a Patron
-- At points, one feels the closeness of a Patron
-- At points, one is bound to a Patron
-- At points, one is a champion of the Patron
+- At **'5' ** points, one can begin to feel the presence of a Patron
+- At **'10' ** points, one feels the closeness of a Patron
+- At **'15' ** points, one is bound to a Patron
+- At **'20' ** points, one is a champion of the Patron
 
 It is not necessary to believe in a Patron to feel their closeness, be bound to them or be their champion; simply, it is one's nature (one's Traits) that is akin to the Patron, whether one wants it or not. Powers are only taken from the Patron who has the highest trait sum compared to others.
 
@@ -3089,7 +3089,7 @@ While riding, you have two choices: you either give orders to your mount or allo
 
 Particularly intelligent mounts tend to prefer acting on their own rather than being commanded.
 
-You can only control a mount if it has been trained to accept a rider. War-trained saurovalli creatures are presumed to have received such training.
+You can only control a mount if it has been trained to accept a rider. War-trained saurovals creatures are presumed to have received such training.
 
 By spending 1 of your Actions, you can make the mount perform 2 of these Actions: Move, Attack, Disengage.
 
@@ -7204,7 +7204,7 @@ Each Magic List can only summon its specific Elemental. The elemental is friendl
 - **Components**:: V, S
 - **Duration**:: 1 hour
 
-You summon a spirit that takes the form of an unusually intelligent, strong, and loyal mount, establishing a lasting bond with it. Appearing in an unoccupied space within range, the mount takes a form of your choice, such as a war saurovallo, a pony saurovallo, a camel, an elk, or a mastiff (the Narrator might allow you to summon other animals as mounts as well). The mount has the statistics of the chosen form, although it is of the celestial, fey, or fiend type (your choice) instead of its normal type. Additionally, if your mount has Intelligence -3 or less, its Intelligence becomes -2, and it gains the ability to understand one language of your choice that you can speak. Your mount serves as a mount both in combat and out of it, and you have an instinctive bond with it that allows you to fight as a single unit.
+You summon a spirit that takes the form of an unusually intelligent, strong, and loyal mount, establishing a lasting bond with it. Appearing in an unoccupied space within range, the mount takes a form of your choice, such as a war Saurovall, a pony Saurovall, a camel, an elk, or a mastiff (the Narrator might allow you to summon other animals as mounts as well). The mount has the statistics of the chosen form, although it is of the celestial, fey, or fiend type (your choice) instead of its normal type. Additionally, if your mount has Intelligence -3 or less, its Intelligence becomes -2, and it gains the ability to understand one language of your choice that you can speak. Your mount serves as a mount both in combat and out of it, and you have an instinctive bond with it that allows you to fight as a single unit.
 
 When the mount drops to 0 Hit Points, it disappears, leaving behind no physical form. You can dismiss the mount at any time as an Action, causing it to disappear. In either case, casting this spell again summons the same mount, restored to its maximum Hit Points.
 
@@ -9783,7 +9783,7 @@ On a failed saving throw, the target is frightened for 1 minute and takes 4d10 d
 - **Components**:: V, S
 - **Duration**:: 1 hour
 
-A Large quasi-real, saurovallo-like creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, and it appears with a saddle, bit, and bridle. Any equipment created by the spell vanishes in a puff of smoke if it is carried more than 3 meters away from the steed. For the duration, you or a creature of your choice can ride the steed. The creature uses the statistics for a Riding Saurovallo, except it has a speed of 30 meters and can travel 15 kilometers in an hour, or 20 kilometers at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an Action to dismiss it or if the steed takes damage.
+A Large quasi-real, Saurovall-like creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, and it appears with a saddle, bit, and bridle. Any equipment created by the spell vanishes in a puff of smoke if it is carried more than 3 meters away from the steed. For the duration, you or a creature of your choice can ride the steed. The creature uses the statistics for a Riding Saurovall, except it has a speed of 30 meters and can travel 15 kilometers in an hour, or 20 kilometers at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an Action to dismiss it or if the steed takes damage.
 
 **For each Magic Critical Success** obtained in the Magic Check, the duration increases by one hour or you create one additional mount.
 
@@ -12095,63 +12095,73 @@ These abilities represent the pinnacle of a character, not intended as the final
 
 Each character can have only one iconic ability, an ability that distinguishes heroes, capable of actions at the limit and beyond human. Players are encouraged to create new Iconic Abilities based on character development.
 
-**A Light Against the DarknessSuggested Requirements: Patron Ljust, Sumkjr**
+### A Light Against the Darkness
 
-| Once a day you emit sacred light around you for 60 minutes that gives you +1d6 to Saving Throws and Attack Rolls against Devotees and Followers not of your Patron. You can channel the light 1 time per day and all creatures who are Followers or Devotees of other Patrons within 10 meters of you must make a Fortitude Saving Throw at DC 10 + sum of Traits in common with the Patron + Wisdom or be stunned for 2d6 rounds. |
-| --- |
+**Suggested Requirements**: Patron Ljust, Sumkjr
 
-**The SmithSuggested Requirements: skill in metalworking**
+Once a day you emit sacred light around you for 60 minutes that gives you +1d6 to Saving Throws and Attack Rolls against Devotees and Followers not of your Patron. You can channel the light 1 time per day and all creatures who are Followers or Devotees of other Patrons within 10 meters of you must make a Fortitude Saving Throw at DC 10 + sum of Traits in common with the Patron + Wisdom or be stunned for 2d6 rounds.
+
+### The Smith
+
+**Suggested Requirements**: skill in metalworking
 
 Your abilities to work with weapons and armor are legendary.
+Any armor you make encumbers and weighs as a lower category, weapons do damage of a higher dice category.
 
-| Any armor you make encumbers and weighs as a lower category, weapons do damage of a higher dice category. |
-| --- |
+### The Oracle of War
 
-**The Oracle of WarSuggested Requirements: master melee fighter**
+**Suggested Requirements**: master melee fighting
 
-| Every weapon in your hands is lethal. The weapon die doubles as does the damage caused by Strength. E.g. a longsword does 2d8 damage and if you have Strength +3 the total damage becomes 2d8+6 |
-| --- |
+Every weapon in your hands is lethal. The weapon die doubles as does the damage caused by Strength. E.g. a longsword does 2d8 damage and if you have Strength +3 the total damage becomes 2d8+6
 
-**The Fearless HeroSuggested Requirements: brave and resolute**
+### The Fearless Hero
 
-| Once per adversary you can ignore (for 1d4 rounds) the conditions that afflict you as a Reaction. |
-| --- |
+**Suggested Requirements**: brave and resolute
 
-**MindmasterSuggested Requirements: an adventurous life managed with intelligence and cold blood**
+Once per adversary you can ignore (for 1d4 rounds) the conditions that afflict you as a Reaction.
 
-| You can use the score in a mental Ability Score (Intelligence, Wisdom, or Charisma) instead of a physical one (Strength, Dexterity, Constitution) for all checks. |
-| --- |
+### Mindmaster
 
-**On a Pale SaurbackSuggested Requirements: not fear death, having killed many opponents**
+**Suggested Requirements**: an adventurous life managed with intelligence and cold blood
+
+You can use the score in a mental Ability Score (Intelligence, Wisdom, or Charisma) instead of a physical one (Strength, Dexterity, Constitution) for all checks.
+
+### On a Pale Saurovall
+
+**Suggested Requirements**: not fear death, having killed many opponents
 
 You are the closest thing to death your enemies will ever see.
+When you kill an enemy all opponents (who can have seen the scene) within 10m radius must make a Will Saving Throw with DC equal to your Attack Roll, cost one Reaction, or be affected as by the Fear spell. This ability can be used 3 times per day.
 
-| When you kill an enemy all opponents (who can have seen the scene) within 10m radius must make a Will Saving Throw with DC equal to your Attack Roll, cost one Reaction, or be affected as by the Fear spell. This ability can be used 3 times per day. |
-| --- |
+### The Magical Fury
 
-**The Magical FurySuggested Requirements: a life dedicated to explosive magic**
+**Suggested Requirements**: a life dedicated to explosive magic
 
-| You are capable of unleashing hell with magic. The difficulty (DC) of each of your spells increases by 2, when you make a Magic Check you roll 3d6 more and ignore 2 dice rolled. |
-| --- |
+You are capable of unleashing hell with magic. The difficulty (DC) of each of your spells increases by 2, when you make a Magic Check you roll 3d6 more and ignore 2 dice rolled.
 
-**The ShadowSuggested Requirements: a life dedicated to hiding and surprising enemies**
+### The Shadow
 
-| Three times a day you can teleport onto the shadow of another creature within 30 meters. Cost 1 Reaction. |
-| --- |
+**Suggested Requirements**: a life dedicated to hiding and surprising enemies
 
-**The MotherSuggested Requirements: spent more time in animal form than your own**
+Three times a day you can teleport onto the shadow of another creature within 30 meters. Cost 1 Reaction.
 
-| You have the innate ability to leave footprints of any animal, compatible with your size, even if you are not transformed. You can speak with any animal as if you were always under the effect of the Speak with Animals spell. |
-| --- |
+### The Mother
 
-**The DeadSuggested Requirements: a life always on the brink of death**
+**Suggested Requirements**: spent more time in animal form than your own
 
-| Three times a day when your Hit Points drop below 1, with a Reaction Action you recover 3d12 Hit Points. This ability can be used even when Hit Points are negative or you should be directly dead. |
-| --- |
+You have the innate ability to leave footprints of any animal, compatible with your size, even if you are not transformed. You can speak with any animal as if you were always under the effect of the Speak with Animals spell.
 
-**The HunterSuggested Requirements: a life dedicated to hunting and pursuing**
+### The Dead
 
-Your Survival checks have a +2d6 bonus. The first hit that connects against an opponent automatically gets 2 criticals.
+**Suggested Requirements**: a life always on the brink of death
+
+Three times a day when your Hit Points drop below 1, with a Reaction Action you recover 3d12 Hit Points. This ability can be used even when Hit Points are negative or you should be directly dead.
+
+### The Hunter
+
+**Suggested Requirements**: a life dedicated to hunting and pursuing
+
+Your Survival checks have a +2d6 bonus. The first hit against an opponent automatically gets 2 criticals.
 
 ---
 
@@ -12323,7 +12333,6 @@ Ljust can only be chosen by a character with 4 Traits in common with her, fundam
 
 The Disciples of Light are a secret group of Devotees who, through total affinity with Ljust, have undertaken the difficult path of good and love. It is among the oldest groups founded on Earth. The Disciples, 99 as maximum number, but unfortunately often less numerous, are Devotees of Ljust and must follow the 8 Steps of Light.
 
-\begin{enumerate}[leftmargin=*] 
 - Love and protect with all of yourself, with total and sincere dedication those around you.
 - Do not let your inaction generate suffering.
 - Be a point of comparison. Make your Light elevate the people around you so they can see in you hope, serenity, calm, protection, and security.
@@ -12332,7 +12341,6 @@ The Disciples of Light are a secret group of Devotees who, through total affinit
 - Do not seek other Light if not your own and that of your sisters.
 - Be luminous but do not blind those around you.
 - Be the difference between despair and hope.
-\end{enumerate}
 
 The Disciples have built a harmonious dance transforming the steps of their Rule into dance.
 
@@ -12954,7 +12962,6 @@ The Seven Luminous Rules are a set of norms and behaviors followed, in various c
 
 The Devotees of Sumkjr must follow all 7, other Devotees of other Patrons, always positive or at least neutral, follow only some of these dictates, as a rule to avoid falling into the arms of Calicante.
 
-\begin{enumerate}[leftmargin=*] 
 - Protect the weak and those who cannot defend themselves from abuse
 - Love life and protect it
 - Fight against injustice and those who bring suffering and pain
@@ -12962,7 +12969,6 @@ The Devotees of Sumkjr must follow all 7, other Devotees of other Patrons, alway
 - Honesty and Loyalty are your foundations
 - You are a master of virtue. Let others take inspiration from your deeds
 - Do not let your inaction generate suffering
-\end{enumerate}
 
 ### Tàhil
 
@@ -16139,7 +16145,7 @@ Lost ability score points are recovered at a rate of 1 per day if not permanent 
 
 **Mirenna**: Extracted from medicinal plants.
 
-**Mixture 31**: a studied set of drugs for saurovallos. When the effect ends, the creature must make a Fortitude Saving Throw DC 23 or fall unconscious for 12 hours.
+**Mixture 31**: a studied set of drugs for Saurovalls. When the effect ends, the creature must make a Fortitude Saving Throw DC 23 or fall unconscious for 12 hours.
 
 **Silver Moss**: very similar, to an inexperienced eye, to White Moss. The berries are collected.
 
@@ -16423,10 +16429,10 @@ A mount can be equipped with armor. Light armor will confer a +2 bonus to Defens
 | --- | --- | --- | --- |
 | **(CdC)** | **Per hour** | **Per day** |
 | Galloping Dog | 30 | 6km | 36km |
-| Galloping Saurovallo | 60 | 8km | 48km |
-| War Saurovallo | 80 | 7km | 42km |
-| Pony Saurovallo | 30 | 5km | 30km |
-| Draft Saurovallo | 70 | 5km | 30km |
+| Galloping Saurovall | 60 | 8km | 48km |
+| War Saurovall | 80 | 7km | 42km |
+| Pony Saurovall | 30 | 5km | 30km |
+| Draft Saurovall | 70 | 5km | 30km |
 | Camel | 50 | 8km | 48km |
 | Elephant | 160 | 6km | 36km |
 | **Vessel** |  |  | |
@@ -16487,7 +16493,7 @@ E.g. Tups is wearing a Ring Mail (encumbrance 2 being worn), a longsword (medium
 
 Tups is a Medium creature with Strength -1 and Constitution -1 (he's a bit frail and weak..) this gives him a Load Capacity of 16-1-1=14.
 
-Tups's CdC is higher than his encumbrance, but he must be careful, perhaps it's better if he leaves the tent on his saurovallo...
+Tups's CdC is higher than his encumbrance, but he must be careful, perhaps it's better if he leaves the tent on his Saurovall...
 
 If the load is placed on a cart, you can push it at full movement if within your CdC, at half movement if within twice the CdC, and at a quarter of the movement if within four times the CdC.
 
@@ -22208,7 +22214,6 @@ This system is also used to calculate the XP gained for traps or challenges over
 
 ### Optional - Alternative Method for Building Encounters
 
-\begin{enumerate}[leftmargin=*] 
 - **Define the APL (Average Party Level):** Calculate the average level of the group. Add up the levels of all characters and divide by the number of characters, as already explained.
 - **Establish the Desired Difficulty:** Decide what level of challenge you want to present to the group.
 
@@ -22224,8 +22229,6 @@ This system is also used to calculate the XP gained for traps or challenges over
 | -1 | 45\% | +5 | 480\% |
 
 Start with the monsters with the highest Challenge Rating and then add monsters with lower CR to reach the desired percentage.
-
-\end{enumerate}
 
 ---
 
@@ -27484,7 +27487,7 @@ Organization: Solitary, pair, or pack (6-10)
 **Description**
 Griffins are powerful aerial predators that swoop down from their nests to grab prey with beak and talons. Aggressive and territorial, they are astute fighters and loyal to those who earn their respect, protecting them to the death. They weigh over 250 kg and are 2.3 meters long, with an imposing profile often used in heraldry as a symbol of power, authority, and justice. Despite this, they are more interested in hunting and defending themselves.
 
-Although they can be trained as mounts, griffins do not have an innate affinity with humanoids and often come into conflict with civilized races to procure saurovallo meat. Citizens may marvel at the sight of a trained griffin with a wingspan of 7 meters, but farmers are well aware of the danger they represent.
+Although they can be trained as mounts, griffins do not have an innate affinity with humanoids and often come into conflict with civilized races to procure Saurovall meat. Citizens may marvel at the sight of a trained griffin with a wingspan of 7 meters, but farmers are well aware of the danger they represent.
 
 Griffins mate for life and seek revenge for years if a mate or child is killed. This loyalty makes them ideal mounts and treasure guardians, despite the danger inherent in trading captured griffins and stolen eggs. The eggs are worth up to 2000 gp each and young live ones up to 3000. However, buying or forcibly taming these creatures is considered slavery by good deities. Earning their spontaneous loyalty is a difficult but safer task.
 
@@ -34000,7 +34003,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 10 (1d10 + 5) piercing damage.
 
-## Saurovallo, Draft
+## Saurovall, Draft
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 0 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -34012,7 +34015,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 9 (2d4 + 4) bludgeoning damage.
 
-## Saurovallo, Pony
+## Saurovall, Pony
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 2 Dex 0 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
@@ -34024,7 +34027,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 7 (2d4 + 2) bludgeoning damage.
 
->> Il Saurovallo
+>> Il Saurovall
 >>
 >> Legend has it that when Calicante first descended to Earth, he saw the *horses* and felt an incredible disgust for these hideous beings, making them all explode with a simple act of will. Not satisfied, moments later all *equines* met the same fate.
 
@@ -34038,7 +34041,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 		Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost displeasure!
 
-## Saurovallo, Riding
+## Saurovall, Riding
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 3 Dex 0 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -34048,7 +34051,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
-## Saurovallo, War
+## Saurovall, War
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 1 Con 1 Int -2 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -34056,7 +34059,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Movement**: 18 m
 - **Challenge**: 1/2 (100 XP)
 
-***Trampling Charge.*** If the Saurovallo moves at least 6 meters straight toward a target and then hits it with a hooves attack during the same round, the target must succeed on a Fortitude Saving Throw DC 14 or be knocked prone. If the target is prone, the saurovallo can make another hooves attack against it as an Immediate Action.
+***Trampling Charge.*** If the Saurovall moves at least 6 meters straight toward a target and then hits it with a hooves attack during the same round, the target must succeed on a Fortitude Saving Throw DC 14 or be knocked prone. If the target is prone, the Saurovall can make another hooves attack against it as an Immediate Action.
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 

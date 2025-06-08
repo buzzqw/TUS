@@ -902,10 +902,10 @@ Ogni azione particolarmente importante dove il personaggio abbia seguito un Trat
 
 All'aumentare del valore della somma dei Tratti comuni con il Patrono il personaggio potrà acquisire dei poteri, indipendentemente sia un credente (Seguace o Devoto) o meno di quel Patrono.
 
-- A punti si può incominciare a sentire la presenza di un Patrono
-- A punti si sente la vicinanza di un Patrono
-- A punti si è legati ad Patrono
-- A punti si è un campione del Patrono
+- A **'5' ** punti si può incominciare a sentire la presenza di un Patrono
+- A **'10' ** punti si sente la vicinanza di un Patrono
+- A **'15' ** punti si è legati ad Patrono
+- A **'20' ** punti si è un campione del Patrono
 
 Non è necessario credere in un Patrono per sentirne la vicinanza, esserne legati o campione, semplicemente è la propria natura (i propri Tratti) che è affine al Patrono, che lo si voglia o meno. I poteri si prendono solo dal Patrono che ha somma tratti più alta rispetto agli altri.
 
@@ -12324,61 +12324,71 @@ Queste capacità rappresentano l'apice di un personaggio, non inteso come le abi
 
 Ogni personaggio può avere una sola capacità iconica, una capacità che contraddistingue gli eroi, capaci di azioni al limite e oltre l'umano. I giocatori sono invitati a creare nuove Abilità Iconiche in base allo sviluppo del personaggio.
 
-**Una Luce contro le tenebreRequisiti suggeriti: Patrono Ljust, Sumkjr**
+### Una Luce contro le tenebre
 
-| Una volta al giorno emetti per 60 minuti luce sacra intorno a te che ti conferisce +1d6 ai Tiri Salvezza e Tiri per Colpire contro i Devoti e Seguaci non del tuo Patrono. Puoi convogliare 1 volta al giorno la luce e tutte le creature Seguaci o Devoti di altri Patroni in raggio di 10 metri da te devono effettuare un TS Tempra a DC 10 + somma Tratti in comune con il Patrono + Saggezza o essere storditi per 2d6 round. |
-| --- |
+**Requisiti suggeriti**: Patrono Ljust, Sumkjr
 
-**Il FabbroRequisiti suggeriti: abilità nel lavorare il metallo**
+Una volta al giorno emetti per 60 minuti luce sacra intorno a te che ti conferisce +1d6 ai Tiri Salvezza e Tiri per Colpire contro i Devoti e Seguaci non del tuo Patrono. Puoi convogliare 1 volta al giorno la luce e tutte le creature Seguaci o Devoti di altri Patroni in raggio di 10 metri da te devono effettuare un TS Tempra a DC 10 + somma Tratti in comune con il Patrono + Saggezza o essere storditi per 2d6 round.
+
+### Il Fabbro
+
+**Requisiti suggeriti**: abilità nel lavorare il metallo
 
 Le tue capacità di lavorare con le armi ed armature sono leggendarie.
+Ogni armatura da te fatta ingombra e pesa come una categoria inferiore, le armi fanno un danno di una categoria superiore di dado.
 
-| Ogni armatura da te fatta ingombra e pesa come una categoria inferiore, le armi fanno un danno di una categoria superiore di dado. |
-| --- |
+### L'Oracolo della Guerra
 
-**L'Oracolo della GuerraRequisiti suggeriti: maestro combattente di mischia**
+**Requisiti suggeriti**: maestro combattente di mischia
 
-| Ogni arma nelle tue mani è letale. Il dado dell'arma raddoppia come raddoppia il danno causato dalla Forza. Es. una spada lunga fa 2d8 di danno e se hai Forza +3 il danno totale diventa 2d8+6 |
-| --- |
+Ogni arma nelle tue mani è letale. Il dado dell'arma raddoppia come raddoppia il danno causato dalla Forza. Es. una spada lunga fa 2d8 di danno e se hai Forza +3 il danno totale diventa 2d8+6
 
-**L'Eroe senza pauraRequisiti suggeriti: coraggioso e risoluto**
+### L'Eroe senza paura
 
-| Una volta per avversario puoi ignorare (per 1d4 round) le condizioni che ti affliggono come Reazione. |
-| --- |
+**Requisiti suggeriti**: coraggioso e risoluto
 
-**MindmasterRequisiti suggeriti: una vita a avventurosa gestita con intelligenza e sangue freddo**
+Una volta per avversario puoi ignorare (per 1d4 round) le condizioni che ti affliggono come Reazione.
 
-| Puoi usare il punteggio in una Caratteristica mentale (Intelligenza, Saggezza o Carisma) al posto di una fisica (Forza, Destrezza, Costituzione) per quanto riguarda tutte le prove. |
-| --- |
+### Mindmaster
 
-**Su un saurovallo pallidoRequisiti suggeriti: non temere al morte, aver ucciso tantissimi avversari**
+**Requisiti suggeriti**: una vita a avventurosa gestita con intelligenza e sangue freddo
+
+Puoi usare il punteggio in una Caratteristica mentale (Intelligenza, Saggezza o Carisma) al posto di una fisica (Forza, Destrezza, Costituzione) per quanto riguarda tutte le prove.
+
+### Su un saurovallo pallido
+
+**Requisiti suggeriti**: non temere al morte, aver ucciso tantissimi avversari
 
 Sei la cosa più simile alla morte che i tuoi nemici vedranno mai.
+Quando uccidi un nemico tutti gli avversari (che possono aver visto la scena) in 10m di raggio devono fare un TS Volontà con DC pari al Tiro per Colpire, costo una Reazione, od essere influenzati come dall'incantesimo Paura. La capacità è usabile 3 volte al giorno.
 
-| Quando uccidi un nemico tutti gli avversari (che possono aver visto la scena) in 10m di raggio devono fare un TS Volontà con DC pari al Tiro per Colpire, costo una Reazione, od essere influenzati come dall'incantesimo Paura. La capacità è usabile 3 volte al giorno. |
-| --- |
+### La Furia Magica
 
-**La Furia MagicaRequisiti suggeriti: una vita dedicata alla magia esplosiva**
+**Requisiti suggeriti**: una vita dedicata alla magia esplosiva
 
-| Sei capace di scatenare l'inferno con la magia. La difficoltà (DC) di ogni tuo incantesimo aumenta di 2, quando fai una Prova di Magia tiri 3d6 in più ed ignori 2 dadi tirati. |
-| --- |
+Sei capace di scatenare l'inferno con la magia. La difficoltà (DC) di ogni tuo incantesimo aumenta di 2, quando fai una Prova di Magia tiri 3d6 in più ed ignori 2 dadi tirati.
 
-**L'OmbraRequisiti suggeriti: una vita dedicata a nascondersi e sorprendere i nemici**
+### L'Ombra
 
-| Tre volte al giorno puoi teletrasportati sull'ombra di un altra creatura che sia entro 30 metri. Costo 1 Reazione. |
-| --- |
+**Requisiti suggeriti**: una vita dedicata a nascondersi e sorprendere i nemici
 
-**La MadreRequisiti suggeriti: passato più tempo in forma animale che propria**
+Tre volte al giorno puoi teletrasportati sull'ombra di un altra creatura che sia entro 30 metri. Costo 1 Reazione.
 
-| Ha la capacità innata di lasciare le orme di qualsiasi animale, compatibile con la tua taglia, anche se non sei trasformato. Puoi parlare con qualsiasi animale come se fossi sempre sotto effetto dell'incantesimo Parlare con gli Animali. |
-| --- |
+### La Madre
 
-**Il MortoRequisiti suggeriti: una vita di sempre sul baratro della morte**
+**Requisiti suggeriti**: passato più tempo in forma animale che propria
 
-| Tre volte al giorno quando i tuoi Punti Ferita scendono sotto 1, con una Azione di Reazione recuperi 3d12 Punti Ferita. Questa capacità può essere usata anche quando i Punti Ferita sono negativi o si dovrebbe essere direttamente morti. |
-| --- |
+Ha la capacità innata di lasciare le orme di qualsiasi animale, compatibile con la tua taglia, anche se non sei trasformato. Puoi parlare con qualsiasi animale come se fossi sempre sotto effetto dell'incantesimo Parlare con gli Animali.
 
-**Il CacciatoreRequisiti suggeriti: una vita dedicata a cacciare ed inseguire**
+### Il Morto
+
+**Requisiti suggeriti**: una vita di sempre sul baratro della morte
+
+Tre volte al giorno quando i tuoi Punti Ferita scendono sotto 1, con una Azione di Reazione recuperi 3d12 Punti Ferita. Questa capacità può essere usata anche quando i Punti Ferita sono negativi o si dovrebbe essere direttamente morti.
+
+### Il Cacciatore
+
+**Requisiti suggeriti**: una vita dedicata a cacciare ed inseguire
 
 Le tue prove di Sopravvivenza hanno un +2d6 di bonus. Il primo colpo che va a segno contro un avversario ottiene automaticamente 2 critici.
 
@@ -12550,7 +12560,6 @@ Ljust può essere scelta solo da un personaggio con 4 Tratti in comune con lei, 
 
 Le Allieve della Luce sono una gruppo segreto di Devote che per totale affinità con Ljust hanno intrapreso il difficile percorso del bene e dell'amore. E' tra i gruppi più antichi fondati sulla Terra. Le Allieve, 99 come numero massimo, ma purtroppo spesso meno numerose, sono Devote di Ljust e devono seguire gli 8 Passi della Luce
 
-\begin{enumerate}[leftmargin=*] 
 - Ama e proteggi con tutta te stessa, con totale e sincera dedizione chi hai attorno a te.
 - Non lasciare che la tua inazione generi sofferenza.
 - Si un punto di paragone. Fai che la tua Luce elevi le persone che hai intorno e possano vedere in te speranza, serenità, calma, protezione e sicurezza.
@@ -12559,7 +12568,6 @@ Le Allieve della Luce sono una gruppo segreto di Devote che per totale affinità
 - Non cercare altra Luce se non la tua e quella delle tue sorelle.
 - Sii luminosa ma non accecare chi è intorno a te.
 - Sii la differenza tra la disperazione e la speranza.
-\end{enumerate}
 
 Le Allieve hanno costruito un ballo armonioso trasformando in danza i passi della loro Regola.
 
@@ -13179,7 +13187,6 @@ Le Sette regole Luminose sono un insieme di norme e comportamenti tenuti, a vari
 
 I Devoti di Sumkjr devono seguirle tutte e 7, altri Devoti di altri Patroni, sempre positivi od almeno neutrali, seguono solo alcune di questi dettami, come regola per non cadere nelle braccia di Calicante.
 
-\begin{enumerate}[leftmargin=*] 
 - Proteggi i deboli e chi non sa difendersi dai soprusi
 - Ama la vita e proteggila
 - Combatti contro le ingiustizie e chi porta sofferenze e dolore
@@ -13187,7 +13194,6 @@ I Devoti di Sumkjr devono seguirle tutte e 7, altri Devoti di altri Patroni, sem
 - Onestà e Lealtà sono le tua fondamenta
 - Sei un maestro di virtù. Fa che gli altri possano prendere ispirazione dalle tue gesta
 - Non lasciare che la tua inazione generi sofferenza
-\end{enumerate}
 
 ### Tàhil
 
@@ -22439,7 +22445,6 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 
 ### Opzionale - Metodo alternativo per costruire gli Incontri
 
-\begin{enumerate}[leftmargin=*] 
 - **Definire l'APL (Average Party Level):** Calcolare il livello medio del gruppo. Sommare i livelli di tutti i personaggi e dividere per il numero di personaggi, come già spiegato.
 - **Stabilire la Difficoltà Desiderata:** Decidere quale livello di sfida si vuole presentare al gruppo.
 
@@ -22455,8 +22460,6 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 | -1 | 45\% | +5 | 480\% |
 
 Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS più basso per raggiungere la percentuale desiderata.
-
-\end{enumerate}
 
 ---
 

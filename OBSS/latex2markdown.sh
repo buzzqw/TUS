@@ -91,8 +91,8 @@ sed -i '/| Ambiente:/,/| Organizzazione:/{s/| \(.*\) |/\1/g; /| --- |/d; /^---$/
 sed -i 's/ \\emph / /g' OBSSv2.md
 sed -i '/\*\*Categoria Tesoro\*\*:/{N;s/\(\*\*Categoria Tesoro\*\*:.*\)\n\(\*\*Descrizione\*\*\)/\1\n\n\2/;}' OBSSv2.md
 sed -i 's/\\resizebox{0\.5\\linewidth+1\.8cm{!}{//g' OBSSv2.md
-
-
+sed -i '/\\end{enumerate}/d' OBSSv2.md
+sed -i '/\\begin{enumerate}\[leftmargin=\*\]/d' OBSSv2.md
 
 
 sed -i 's/\\cline{[^}]*}//g' OBSSv2-eng.md
@@ -188,7 +188,8 @@ sed -i 's/\*\*\\emph\*\*//g' OBSSv2-eng.md
 sed -i 's/ \\emph / /g' OBSSv2-eng.md
 sed -i '/\*\*Treasure Category\*\*:/{N;s/\(\*\*Treasure Category\*\*:.*\)\n\(\*\*Description\*\*\)/\1\n\n\2/;}' OBSSv2-eng.md
 sed -i 's/\\resizebox{0\.5\\linewidth+1\.4cm{!}{//g' OBSSv2-eng.md
-
+sed -i '/\\end{enumerate}/d' OBSSv2-eng.md
+sed -i '/\\begin{enumerate}\[leftmargin=\*\]/d' OBSSv2-eng.md
 
 
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2.md > obtemp.md && mv obtemp.md OBSSv2.md
