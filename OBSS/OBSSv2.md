@@ -2888,7 +2888,7 @@ Un personaggio può **attraversare** ma non sostare in **una zona occupata** da 
 
 Per attraversare il terreno dove c'è una creatura ostile è necessario eseguire una Prova Contrapposta su Atletica o Acrobatica contro Tiro Salvezza su Riflessi della creatura al quale si vuole **attraversare** il terreno, per ogni creatura attraversata oltre la prima la difficoltà aumenta di +2.
 
-Costa 1 Azione (Riflessi) la prova per attraversare oltre all'Azione di Movimento. Il terreno occupato dalla creatura ostile si considera difficile. In caso di successo critico nella prova di Atletica o Acrobatica non si consuma l'Azione usata per attraversare.
+Costa 1 Azione (Riflessi) la prova per attraversare oltre all'Azione di Movimento. Il terreno occupato dalla creatura ostile si considera difficile. Il terreno non si considera difficile solo nel caso in cui la creatura sia di due o più taglie inferiori. In caso di successo critico nella prova di Atletica o Acrobatica non si consuma l'Azione usata per attraversare.
 
 Se si fallisce si rimane ne quadretto immediatamente precedente al nemico, con il rischio di essere ristretti . Si considera terminata sia l'Azione di Movimento che quella di oltrepassare.
 Se il nemico ha l'Abilità Opportunista oltre ad ostacolare il passaggio può eseguire un attacco (usando una Reazione).
@@ -10689,7 +10689,7 @@ Estrai la linfa acida dai ribes e proietti una linea di spruzzo d'acido lunga 9 
 - **Livello**:: 2, Raro
 - **T. di Lancio**:: 2 Azioni
 - **Gittata**:: 9 metri
-- **Componenti**:: V, M (la lingua di un serpente e un pezzo di favo o un goccio di olio dolce)
+- **Componenti**:: V, M (la lingua di un serpente e un pezzo di favo o un goccio di olio evo)
 - **Durata**:: 8 ore
 
 Suggerisci un corso di attività (limitato a una o due frasi) e influenzi magicamente una creatura a gittata e che puoi vedere e udire e ti possa capire, scelta da te. Le creature che non possono essere affascinate sono immuni a questo effetto. La suggestione deve essere pronunciata in modo che il corso d'azione suoni ragionevole. Chiedere a una creatura di pugnalarsi,gettarsi su una lancia, darsi fuoco, o fare qualche altro atto palesemente dannoso nega automaticamente gli effetti dell'incantesimo.

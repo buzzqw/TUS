@@ -2894,7 +2894,7 @@ A character can **move through** but not stop in **a zone occupied** by a creatu
 
 To move through the terrain where there is a hostile creature, it is necessary to perform an Opposed Check of Athletics or Acrobatics against a Reflex Saving Throw of the creature through whose terrain you want to **pass**; for each creature passed beyond the first, the difficulty increases by +2.
 
-It costs 1 Action (Reflex) for the check to pass through, in addition to the Movement Action. The terrain occupied by the hostile creature is considered difficult. In case of critical success in the Athletics or Acrobatics check, the Action used to pass through is not consumed.
+It costs 1 Action (Reflex) for the check to pass through in addition to the Move Action. The terrain occupied by the hostile creature is considered difficult. The terrain is not considered difficult only if the creature is two or more size categories smaller. A critical success on the Athletics or Acrobatics check does not use up the action used to cross.
 
 If you fail, you remain in the square immediately preceding the enemy, with the risk of being restricted (page ). Both the Movement Action and the one to pass through are considered terminated.
 If the enemy has the Opportunist Feat, besides hindering the passage, they can make an attack (using a Reaction).
@@ -10696,7 +10696,7 @@ You cast the spell by touching a willing creature, whose skin turns into a subst
 - **Level**:: 2, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
-- **Components**:: V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
+- **Components**:: V, M (a snake's tongue and either a bit of honeycomb or a drop of evo oil)
 - **Duration**:: 8 hours
 
 You suggest a course of activity (limited to a sentence or two) and magically influence a creature within range that you can see and hear and that can understand you, chosen by you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.
