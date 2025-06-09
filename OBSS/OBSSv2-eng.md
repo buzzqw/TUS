@@ -16703,11 +16703,10 @@ Starting from an established Challenge Rating (9), follow this table to establis
 
 | **Factor** | **\% Weight** | **Factor** | **\% Weight** |
 | --- | --- | --- | --- |
-| -7/8 | 5 | -2 | 55 |
-| -6 | 10 | -1 | 60 |
-| -5 | 15 | 0 | 75 |
-| -4 | 25 | +1 | 85 |
-| -3 | 47 | +2 | 100 |
+| -6/-7 | 5 | -2 | 65 |
+| -5 | 10 | -1 | 80 |
+| -4 | 20 | +0 | 100 |
+| -3 | 45 |  | |
 
 **Factor** means the difference between the monster's CR relative to the chosen Challenge Rating. The Weight is the relative \% that the monster brings to reach the goal of 100%.
 
@@ -16715,11 +16714,11 @@ Starting from an established Challenge Rating (9), follow this table to establis
 
 In our example, a Stone Giant has Challenge Rating 7, i.e., a Challenge Rating -2 compared to our difficulty target of Challenge Rating 9, the Xorn has Challenge Rating 5 i.e., -4 compared to Challenge Rating 9, the Gargoyles have Challenge Rating 2 i.e., -7 compared to Challenge Rating 9.
 
-An enemy with Challenge Rating -2 has weight 45, a Challenge Rating -4 has weight 20, a Challenge Rating -7 has a weight of 5.
+An enemy with a Challenge rating of -2 has a weight of 65, a Challenge rating of -4 has a weight of 20, a Challenge rating of -7 has a weight of 5.
 
-To reach the goal of a Challenge Rating 9, I will put 1 Challenge Rating -2 (i.e., a stone giant), 2 Challenge Rating -4 (i.e., 2 Xorn) and 3 Challenge Rating -7 (i.e., 3 gargoyles). The Total will be 45 (one Stone Giant) + 2*20 (two Xorn) + 3*5 (three gargoyles) = 45+40+15 = 100. Goal achieved!
+To reach the goal of a Challenge rating of 9 I will put 1 Challenge rating -2 (i.e. 1 stone giant), 1 Challenge rating -4 (i.e. 1 Xorn) and 3 Challenge rating -7 (i.e. 3 gargoyles). The total will be 1*65 (a Stone Giant) + 1*20 (a Xorn) + 3*5 (three gargoyles) = 65+20+15 = 100. Goal achieved!
 
-The total Experience Points will be: 2900+2*1800+3*450 = 7850 Experience Points / 6 Characters = 1235 Experience Points per character!
+The total Experience Points will be: 2900+1800+450*3 = 6050 Experience Points / 6 Characters = 2015 Experience Points per character!
 
 Opponents with Challenge Rating less than 8 compared to the APL are counted, weighed, only if they are more than 20 as units.
 

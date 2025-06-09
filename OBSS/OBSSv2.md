@@ -16925,11 +16925,10 @@ Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire
 
 | **Fattore** | **\% Peso** | **Fattore** | **\% Peso** |
 | --- | --- | --- | --- |
-| -7/8 | 5 | -2 | 55 |
-| -6 | 10 | -1 | 60 |
-| -5 | 15 | 0 | 75 |
-| -4 | 25 | +1 | 85 |
-| -3 | 47 | +2 | 100 |
+| -6/-7 | 5 | -2 | 65 |
+| -5 | 10 | -1 | 80 |
+| -4 | 20 | +0 | 100 |
+| -3 | 45 |  | |
 
 Per **Fattore** si intende la differenza tra il GS del mostro rispetto al Grado di Sfida scelto. Il Peso è la \% relativa che il mostro apporta per raggiungere l'obiettivo del 100\%.
 
@@ -16937,11 +16936,11 @@ Per **Fattore** si intende la differenza tra il GS del mostro rispetto al Grado 
 
 Nel nostro esempio un Gigante delle Pietre ha grado di Sfida 7, ovvero un grado di Sfida -2 rispetto al nostro obiettivo di difficoltà grado di Sfida 9, lo Xorn ha grado di Sfida 5 ovvero -4 rispetto al grado di Sfida 9, i Gargoyle hanno grado di Sfida 2 ovvero -7 rispetto al grado di Sfida 9.
 
-Un nemico con grado di Sfida -2 ha peso 45, un grado di Sfida -4 ha peso 20, un grado di Sfida -7 ha un peso di 5.
+Un nemico con grado di Sfida -2 ha peso 65, un grado di Sfida -4 ha peso 20, un grado di Sfida -7 ha un peso di 5.
 
-Per raggiungere l'obiettivo di un grado di Sfida 9 metterò 1 grado di Sfida -2 ( ovvero un gigante delle pietre), 2 grado Sfida -4 (ovvero 2 Xorn) e 3 grado di Sfida -7 (ovvero 2 gargoyle). Il Totale sarà 45 (un Gigante di Pietra) + 2*20 (due Xorn) + 3*5 (tre gargoyle) = 45+40+15 = 100. Obiettivo raggiunto!
+Per raggiungere l'obiettivo di un grado di Sfida 9 metterò 1 grado di Sfida -2 ( ovvero un gigante delle pietre), 1 grado Sfida -4 (ovvero uno Xorn) e 3 grado di Sfida -7 (ovvero tre gargoyle). Il Totale sarà 1*65 (un Gigante di Pietra) + 1*20 (uno Xorn) + 3*5 (tre gargoyle) = 65+20+15 = 100. Obiettivo raggiunto!
 
-Il totale dei Punti Esperienza sarà : 2900+2*1800+3*450 = 7850 Punti Esperienza / 6 Personaggi = 1235 Punti Esperienza a personaggio!
+Il totale dei Punti Esperienza sarà : 2900+1800+450*3 = 6050 Punti Esperienza / 6 Personaggi = 2015 Punti Esperienza a personaggio!
 
 Avversari con grado di Sfida inferiore a 8 rispetto al APL si contano, pesano, solo se sono superiori a 20 come unità.
 
