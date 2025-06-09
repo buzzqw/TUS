@@ -93,6 +93,8 @@ sed -i '/\*\*Categoria Tesoro\*\*:/{N;s/\(\*\*Categoria Tesoro\*\*:.*\)\n\(\*\*D
 sed -i 's/\\resizebox{0\.5\\linewidth+1\.8cm{!}{//g' OBSSv2.md
 sed -i '/\\end{enumerate}/d' OBSSv2.md
 sed -i '/\\begin{enumerate}\[leftmargin=\*\]/d' OBSSv2.md
+sed -i 's/\\emph, altre entità/esseri, altre entità/g' OBSSv2.md
+sed -i 's/aspettative di questi \\emph/aspettative di questi esseri/g' OBSSv2.md
 
 
 sed -i 's/\\cline{[^}]*}//g' OBSSv2-eng.md
