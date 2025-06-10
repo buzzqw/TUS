@@ -580,7 +580,7 @@ La Scurovisione è la capacità straordinaria di vedere senza fonti di luce, fin
 La Scurovisione è solo in bianco e nero (non consente alla creatura di distinguere i colori). Non permette ai personaggi di vedere nulla che non possano altrimenti vedere: gli oggetti Invisibili sono ancora Invisibili, e le Illusioni sono ancora visibili per quello che sembrano essere.
 
 Alla stessa maniera, la Scurovisione rende una creatura soggetta agli attacchi con lo sguardo normalmente. La presenza di luce non altera la Scurovisione.
-Effettuare una prova di Sopravvivenza per cercare trappole o di Consapevolezza solo visiva prende un 1d6 di penalità.
+Effettuare una prova di Sopravvivenza per cercare trappole o di Consapevolezza solo visiva prende un -2 di penalità.
 
 ## Fiuto
 
@@ -794,7 +794,7 @@ Le Abilità hanno tutte segnate due ***Caratteristiche Potenziata***, quando seg
 
 Per aumentare la Caratteristica oltre a 4 sono necessari oggetti magici o incantesimi. L'aumento di Caratteristica ha effetto retroattivo solo per gli aumenti di Costituzione, andando a ripercuotersi sui Punti Ferita massimi.
 
-L'aumento di Caratteristica applica immediatamente il modificatore ai Tiri Salvezza e Tiri per Colpire ed Iniziativa, l'aumento di Intelligenza si ripercuote nel successivo livello nel numero di Competenze acquisite.
+L'aumento di Caratteristica applica immediatamente il modificatore alle Prove di Competenza, Tiri Salvezza, Tiri per Colpire, Iniziativa e Magia. L'aumento dell'intelligenza si ripercuote nel successivo livello per quanto riguarda l'aumento delle Competenze acquisite.
 
 >>> I giocatori comunque si lamenteranno delle Caratteristiche tirate, è normale, specialmente i giocatori più inesperti. Cercate di fargli capire che non deve limitarsi a guardare le Caratteristiche ma vedere l'insieme generale del personaggio. Suggeritegli Abilità che possano aiutarlo a sopperire ai valori delle Caratteristiche.
 
@@ -14644,8 +14644,7 @@ La **Luce** è la luce all'aperto sotto il sole, ma anche se si tiene una torcia
 
 - Una creatura con **Visione Normale** vede fino alla distanza, come raggio circolare intorno alla fonte di luce, indicato in Luce. Oltre è Luce Fioca e oltre ancora Oscurità.
 - Una creatura con **Visione Crepuscolare** vede senza problemi fino alla distanza, come raggio circolare intorno alla fonte di luce, indicato in Luce fioca, o indicato dalla razza se minore, oltre è oscurità.
-- Una creatura con **Scurovisione**  vede, entro il raggio indicato dalla sua Scurovisione, in condizioni di luce normale e luce fioca senza problemi, mentre nell'oscurità ha -2 Consapevolezza.
-La Scurovisione è una visione in bianco e nero.
+- Una creatura con **Scurovisione**  vede, entro il raggio indicato dalla sua Scurovisione, in condizioni di luce normale e luce fioca senza problemi, mentre nell'oscurità ha -2 Consapevolezza ed a Sopravvivenza per cercare trappole. La Scurovisione è una visione in bianco e nero.
 
 >> Nota sulle fonti di luce
 >>

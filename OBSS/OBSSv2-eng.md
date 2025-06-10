@@ -564,7 +564,7 @@ Darkvision is the extraordinary ability to see without light sources, up to a ma
 Darkvision is only in black and white (it does not allow the creature to distinguish colors). It does not allow characters to see anything they could not otherwise see: Invisible objects are still Invisible, and Illusions are still visible for what they appear to be.
 
 In the same way, Darkvision makes a creature subject to gaze attacks normally. The presence of light does not alter Darkvision.
-Making a Survival check to look for traps or a visual-only Awareness check takes a 1d6 penalty.
+Making a Survival check to look for traps or a visual-only Awareness check takes a -2 penalty.
 
 ## Scent
 
@@ -783,7 +783,7 @@ All Feats have two ***Enhanced Ability Scores*** marked; when you mark the Feat 
 
 To increase the Ability Score beyond 4, magic items or spells are necessary. The increase in Ability Score has a retroactive effect only for increases in Constitution, affecting the maximum Hit Points.
 
-The increase in Ability Score immediately applies the modifier to Saving Throws and Attack Rolls and Initiative; the increase in Intelligence affects the number of Skills acquired in the next level.
+The increase in Characteristics immediately applies the modifier to Skill Checks, Saving Throws, Attack Rolls, Initiative, and Magic. The increase in intelligence affects the subsequent level in terms of the increase in acquired Skills.
 
 >>> Players will still complain about the Ability Scores rolled, it's normal, especially less experienced players. Try to make them understand that they shouldn't limit themselves to looking at the Ability Scores but see the overall picture of the character. Suggest Feats that can help them compensate for the Ability Score values.
 
@@ -14414,8 +14414,7 @@ A **blind character** or one fighting in darkness (and cannot see in darkness) h
 
 - A creature with **Normal Vision** sees up to the distance, as a circular radius around the light source, indicated in Light. Beyond is Dim Light and beyond that Darkness.
 - A creature with **Low-Light Vision** sees without problems up to the distance, as a circular radius around the light source, indicated in Dim light, or indicated by the race if smaller, beyond is darkness.
-- A creature with **Darkvision**  sees, within the radius indicated by its Darkvision, in normal light and dim light conditions without problems, while in darkness it has -2 Awareness.
-Darkvision is a black and white vision.
+- A creature with **Darkvision**  sees, within the radius indicated by its Darkvision, in normal light and dim light conditions without problems, while in darkness it has -2 Awareness and to Survival for spotting traps. Darkvision is a black and white vision.
 
 >> Note on light sources
 >>
