@@ -902,6 +902,8 @@ aggiornata versione POD 2025/06/04
 
 0.99.59 allineato uso \emph{} in didascalie immagini, aggiunto export in markdown automatizzato (molto beta), migliorato codice latex per ottimizzare export in md, creato script per caricare il markdown come wiki, migliorata tabella professioni nel manuale inglese, migliorato export in markdown, ulteriori ottimizzazione export markdown e codice latex, aggiornato script per caricamento wiki per gestire sezioni molto grandi (mostri), aggiornata struttura codice Abilita' iconiche, nome saurovallo inglese, chiarimenti su attraversare terreni occupati da creature, corretto attacco della Topi, aggiornata tabella costruzione difficolta' sfida, aggiornato script upload wiki per gestire la navigazione precedente  e successiva tra sezioni, corretta indicazione penalita' da scurovisione a consapevolezza, meglio specificato cosa e come aumentare le caratteristiche, aggiunto regolamento opzionale per cucinare i mostri
 
+aggiornata versione POD 2025/06/10
+
 0.99.60
 
 
