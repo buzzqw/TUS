@@ -16830,7 +16830,9 @@ Ogni qual volta il personaggio od il gruppo:
 | 8 | 120000 | 18 | 1250000 |
 | 9 | 170000 | 19 | 1470000 |
 | 10 | 220000 | 20 | 1730000 |
-| +prec*0.2 |  | Vi suggerisco anche di valutare queste azioni per premiare l'impegno del giocatore |
+| + | prec*0.2 | - | - |
+
+Vi suggerisco anche di valutare queste azioni per premiare l'impegno del giocatore
 
 - **Sia collaborativo con gli altri giocatori** (premio al gruppo od al personaggio);
 - **Aiuti un giocatore in difficoltà** (premio al personaggio od al gruppo);
@@ -22403,6 +22405,118 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS più basso per raggiungere la percentuale desiderata.
 
 \end{enumerate}
+---
+
+## Opzionale - Cosa farci con i mostri
+
+Questa parte vuole essere un divertito omaggio a certi tipi di avventure, ma anche un occasione di ingegno e divertimento. Il suggerimento principale e' di evitare descrizione sanguinolente, macabre o *schifose*, mantenete sempre un velo e cercate di rimanere sullo scherzoso.
+
+Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura possono essere nell'ordine di 1d4 ore per 4 porzioni.
+
+**Tabella: 1d6-12 Parti Anatomiche dei Mostri**
+
+| **d4-12** | **Parte** |
+| 11 | Sacco digestivo |
+| 12 | Gelatina fotoreattiva |
+| 13 | Bulbo traslucido |
+| 14 | Enzimi coagulanti superficiali |
+| 15 | Cellule mimetiche iridescenti |
+| 16 | Tessuto elastico |
+| 17 | Organo ottico polifasico |
+| 18 | Midollo cerebrale ipertrofico |
+| 19 | Tendini a conduzione potenziata |
+| 110 | Sangue lattiginoso reattivo |
+| 111 | Pelle dura infusa di minerali |
+| 112 | Tendine robusto con fibre concentriche |
+| 21 | Osso cavo |
+| 22 | Ghiandola sudoripara tossica |
+| 23 | Uncino osseo bifocale |
+| 24 | Derma fotosensibile |
+| 25 | Emolinfa profonda mutagena |
+| 26 | Vertebra cava ripiena di magia |
+| 27 | Squama cristallina lucida |
+| 28 | Ghiandola del soffio elementale |
+| 29 | Cuore di riserva |
+| 210 | Muscolo a potenziamento magico |
+| 211 | Nervi ottici ipersensibili |
+| 212 | Polpastrelli succosi |
+| 31 | Nasonte con setole sensoriali |
+| 32 | Membrana retrattile di volo |
+| 33 | Ghiandola di adrenalina magica |
+| 34 | Pelle cicatrizzata a strati sovrapposti |
+| 35 | Nucleo dentale rigenerativo |
+| 36 | Appendice prensile multifocale |
+| 37 | Unghia multi articolata |
+| 38 | Pinna morbida fredda |
+| 39 | Retina con riflesso interno rigido |
+| 310 | Ciste magica piena |
+| 311 | Sensi alternativi |
+| 312 | Tessuto adiposo con riserva di magia |
+| 41 | Ghiandola linfatica ipersviluppata |
+| 42 | Tessuto visivo focalizzato |
+| 43 | Sacca di gas multipolare |
+| 44 | Nervatura senso-tattile |
+| 45 | Pelle ad assorbimento energetico |
+| 46 | Tentacolo con ventose attive |
+| 47 | Ghiandola di secrezione corrosiva |
+| 48 | Midollo secondario autonomo |
+| 49 | Tessuto cardiaco a ritmo alternato |
+| 410 | Placche auricolari addestrate |
+| 411 | Articolazione in osso flessibile |
+| 412 | Polmone secondario con vesciche d’aria |
+
+## d6-8 Effetti Magici da Ingestione o Preparazione
+
+| **d6-8** | **Effetti** |
+| 11 | Visione notturna per 1d6 ore |
+| 12 | Gli animali evitano il personaggio |
+| 13 | +1 Difesa naturale per 1 ora |
+| 14 | +2 a Ingannare per 1 ora |
+| 15 | +1 a Forza per 1d6 Turni |
+| 16 | Rigenerazione (1 PF ogni 1T per 1 ora) |
+| 17 | +1d6 nelle prove di Salto per 2d4 ore |
+| 18 | +2 a Consapevolezza per 30 minuti |
+| 21 | Resistenza all'acido per 1d6 ore |
+| 22 | +1d6 a Intimidire per 1 ora |
+| 23 | Levitazione per 10 minuti |
+| 24 | +2 a Acrobazia per 1 ora |
+| 25 | Movimento Scalare per 10 minuti |
+| 26 | Mimesi: +1 a Furtività per 1d6 Turni |
+| 27 | L'olfatto rivela veleni/malattie per 1d6 ore |
+| 28 | Respira sott’acqua per 1 ora |
+| 31 | +1 metro al Movimento per 1d4 ore |
+| 32 | Linguaggio Elementale per 1 ora |
+| 33 | Polpastrelli: +2 a Cercare o Trappole per 1d6 ore |
+| 34 | Artigli: 1d6 danno per 1d6 ore |
+| 35 | Senza ossa: puoi restringerti per 2 taglie |
+| 36 | Immunità al freddo per 1d4 ore |
+| 37 | Forma gassosa per 1 ora |
+| 38 | Curato di 3d6 Punti Ferita |
+| 41 | Visione dell’invisibile per 1d4 Turni |
+| 42 | Parassita benigno assorbe veleno e muore |
+| 43 | Soffio acido (2d6 danni in cono, 4 metri, DC 10+LV) 1xT, 1d4 Ore |
+| 44 | Soffio rovente (vedi soffio acido) |
+| 45 | Recupera 1d6 Punti magia |
+| 46 | Immunità ad illusioni ottiche e abbagliamento per 1d6 ore |
+| 47 | Soffio acido (vedi soffio acido) |
+| 48 | Sacche d'aria. Non respiri per 2d4 Turni |
+| 51 | Il sudore respinge gli insetti per 2d8 ore |
+| 52 | +2 a Intrattenere (bella voce) per 1 ora |
+| 53 | Cieco per 1d4 ore |
+| 54 | Visione crepuscolare 9 metri per 1 ora |
+| 55 | Liquido: come un gelatina per 1d10 Turni |
+| 56 | Minerale: DR 4/magico a danni fisici, per 2d4 T |
+| 57 | Sonno: ti addormenti per 1d6 ore |
+| 58 | Velocizzato: +1 Reazione a round per 1d6 minuti |
+| 61 | Scurovisione 9 metri per 1d4 ore |
+| 62 | Rallentato: -1 Azione per 1d8 minuti |
+| 63 | Iperveloce: +1 Azione a round per 1d6 minuti |
+| 64 | Vista ceca 6 metri per 1d4 ore |
+| 65 | Affaticato: +1 livello di affaticamento |
+| 66 | Piaghe nei piedi: -1 m movimento per 1d6 ore |
+| 67 | Vista offuscata: -2 Tiri per Colpire per 1d6 ore |
+| 68 | Affaticato: -2 al danno fisico per 1d6 ore |
+
 ---
 
 # I Mostri
