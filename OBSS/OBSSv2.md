@@ -20317,7 +20317,7 @@ Quando invece è segnato **Arma**, **Armatura**, **Verga** , **Bastone**, **Anel
 | 17-21 | +2 |
 | 22 | +3 |
 | 23 | +4 |
-| 24 | +6 |
+| 24 | +5 |
 
 }
 
