@@ -8,7 +8,7 @@ I suggest you focus your attention on two systems:
 
 - **OBSS (Old Bell School System)**: a system loosely based on 5e. Very complete and tested.  [OBSS](https://github.com/buzzqw/TUS/tree/master/OBSS)
 
-- **Dark Catacomb**: a new, different system, with a simplified set of rules. Set in a world where the Apocalypse has arrived. (early ALPHA)  [Dark Catacomb](https://github.com/buzzqw/TUS/tree/master/Dark%20Catacomb)
+<!--  - **Dark Catacomb**: a new, different system, with a simplified set of rules. Set in a world where the Apocalypse has arrived. (early ALPHA)  [Dark Catacomb](https://github.com/buzzqw/TUS/tree/master/Dark%20Catacomb) -->
 
 The manuals are provided in source files in TEX format and compiled in PDF. The role-playing games present here are free, you can download them and use them as you wish, in compliance with the license.
 
