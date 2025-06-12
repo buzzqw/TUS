@@ -904,7 +904,7 @@ aggiornata versione POD 2025/06/04
 
 aggiornata versione POD 2025/06/10
 
-0.99.60
+0.99.60 aggiornata tabella generazione nomi, aggiornata Opzionale - Variante Tiri Critici, 
 
 
 

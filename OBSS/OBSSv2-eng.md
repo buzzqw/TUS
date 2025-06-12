@@ -16865,7 +16865,7 @@ These critical rolls very much tied to the randomness of the dice might not appe
 - consider as a **critical success** a check **succeeded by 8** or more.
 - for **every multiple of 8** by which the check succeeds or fails, **cumulate** respectively an **additional critical success or failure**.
 
-The same principle applies to the Magic Check that is performed by rolling 3d6 + Magic Proficiency + ability score modifier for spells + 1*Magic Adept, and the result must exceed a difficulty equal to 10 + Magic Level manifested*3. 
+The same principle applies to the **Magic Check** that is performed by rolling 3d6 + Magic Proficiency + ability score modifier for spells + 1*Magic Adept, and the result must exceed a difficulty equal to 10 + Magic Level manifested*2 +4 per *category weight* of armor. 
 
 This Option makes characters much more effective in challenges against low-ranking adversaries.
 
@@ -35061,50 +35061,149 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 
 **Vulnerability**: works opposite to Resistance. The damage is doubled before any Saving Throw.
 
-## Tables for random rolls
+---
+
+# Tables for Random Rolls
 
 | **3d6** | **Effect** |
-| 3 | You are embarrassed by your strike, but nothing particular happens |
-| 4 | You lose balance. Until the beginning of your next round, you have -2 to Defense |
-| 5 | You misplace your foot. Until the end of your next round, your movement is halved |
-| 6 | You lose your breath. Until the beginning of your next round, you have -1 Strength |
+| 3 | You're embarrassed by your strike, but nothing particular happens |
+| 4 | You lose balance. Until the start of the next round you have -2 to Defense |
+| 5 | You misplace your foot. Until the end of the next round you treat terrain as difficult |
+| 6 | You lose your breath. Until the start of the next round you have -1 Strength |
 | 7 | Pirouette. You move in a random direction 1 meter |
-| 8 | Clumsy. Until the beginning of your next round, you have -4 to Defense |
-| 9 | Black eye. Until the end of next round, every opponent has light cover |
-| 10 | Butterfingers. You drop what you hold |
-
-| **3d6** | **Effect** |
-| 11 | Muscle strain. Your next attack does not add Strength to damage |
-| 12 | Fragile ankle. While delivering the blow, you trip. You fall prone |
+| 8 | Clumsy. Until the start of the next round you have -4 to Defense |
+| 9 | Black eye. Until the end of the next round every opponent enjoys light cover |
+| 10 | Butter fingers. You drop your weapon |
+| 11 | Muscle strain. The next attack doesn't add Strength to damage |
+| 12 | Fragile ankle. While delivering the blow you stumble. You fall prone |
 | 13 | You drop your weapon 3 meters away in a random direction |
-| 14 | You lose confidence in yourself. You make your next attack with an additional -4 penalty |
-| 15 | Wrong target. You hit a random creature within reach. |
-| 16 | Confused. You hit yourself on the head. Until the end of the round, you are under the Confusion spell |
-| 17 | You hit yourself forcefully. Roll normal damage against yourself. The round ends |
-| 18 | You hit yourself forcefully on the head. As 17, and those in melee with you can make an opportunity attack using a Reaction. The round ends |
-| 19+ | You hit yourself forcefully. Roll the damage and apply two critical hits against yourself. The round ends |
+| 14 | You lose confidence in yourself. You execute the next attack with an additional -4 |
+| 15 | Wrong target. You hit a random creature within range. |
+| 16 | Confused. You hit yourself on the head. Until the end of the round you are under the Confusion spell |
+| 17 | You hit yourself hard. Roll regular damage against yourself. The round ends |
+| 18 | You hit yourself hard in the head. As 17 and whoever is in melee against you can make an opportunity attack using a Reaction. The round ends |
+| 19+ | You hit yourself hard. Roll damage and apply two critical hits against yourself. The round ends |
 
-**Name Generator**
+**Table: Random Weapon Generation**
 
-	
+---
 
-| \# | 1d8 | 1d8 | 1d8 |
-| 1 | An | la | mo |
-| 2 | Vi | ca | ta |
-| 3 | Lan | da | to |
-| 4 | Es | per | ro |
-| 5 | Ma | li | ka |
-| 6 | Bra | sa | sa |
-| 7 | Car | fe | la |
-| 8 | Ro | len | ry |
+## Random Name Generator
 
-**Table: random weapon generation**
+To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Central ones, and 3d6 on the Final ones.
 
-**Table: spell shapes - Sphere and Cone**
+## Tables for Male Names
 
-The blue point determines the origin of the spell
+### Male Initial Syllables
 
-**Examples of enemy reach**
+| **3d6** | **Syllable** | **3d6** | **Syllable** |
+| 3 | Zeph | 11 | Mer |
+| 4 | Xar | 12 | Kor |
+| 5 | Bra | 13 | Lun |
+| 6 | Cae | 14 | Nor |
+| 7 | Dar | 15 | Oth |
+| 8 | Eld | 16 | Quin |
+| 9 | Gar | 17 | Thaan |
+| 10 | Hal | 18 | Zarak |
+### Central Syllables (2d6)
+
+| **2d6** | **Syllable** | **2d6** | **Syllable** |
+| 2 | - (skip) | 8 | ren |
+| 3 | - (skip) | 9 | el |
+| 4 | - (skip) | 10 | an |
+| 5 | dor | 11 | en |
+| 6 | gal | 12 | thil |
+| 7 | ar |  | |
+### Male Final Syllables (3d6)
+
+| **3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
+| 3 | grim | 9 | dan | 15 | reth |
+| 4 | thus | 10 | ion | 16 | thor |
+| 5 | dus | 11 | dor | 17 | valos |
+| 6 | kar | 12 | nor | 18 | zeth |
+| 7 | las | 13 | on |  | |
+| 8 | mel | 14 | mir |  | |
+
+## Tables for Female Names
+
+### Female Initial Syllables (3d6)
+
+| **3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
+| 3 | Zara | 9 | Gwen | 15 | Ora |
+| 4 | Xyla | 10 | Hel | 16 | Syl |
+| 5 | Ara | 11 | Mira | 17 | Thea |
+| 6 | Bel | 12 | Isa | 18 | Zyra |
+| 7 | Cel | 13 | Lil |  | |
+| 8 | Ela | 14 | Nym |  | |
+### Female Final Syllables (3d6)
+
+| **3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
+| 3 | neth | 9 | ana | 15 | riel |
+| 4 | essa | 10 | ara | 16 | tha |
+| 5 | beth | 11 | elle | 17 | saal |
+| 6 | dra | 12 | lynn | 18 | vyth |
+| 7 | ena | 13 | ina |  | |
+| 8 | iel | 14 | mira |  | |
+
+## Fantasy Place Names
+
+### Place Prefixes (2d10)
+
+| **2d10** | **Prefix** | **2d10** | **Prefix** | **2d10** | **Prefix** |
+| 2 | Deep | 9 | Fort | 16 | Earth |
+| 3 | High | 10 | Lake | 17 | Tower |
+| 4 | Low | 11 | Mount | 18 | Valley |
+| 5 | Wood | 12 | Stone | 19 | Wind |
+| 6 | Field | 13 | Oak | 20 | Free |
+| 7 | House | 14 | Rock |  | |
+| 8 | Hill | 15 | Sun |  | |
+### Place Suffixes (2d10)
+
+| **2d10** | **Suffix** | **2d10** | **Suffix** | **2d10** | **Suffix** |
+| 2 | abyss | 9 | lands | 16 | rock |
+| 3 | burg | 10 | mark | 17 | shore |
+| 4 | farm | 11 | sea | 18 | valley |
+| 5 | field | 12 | mount | 19 | pass |
+| 6 | fort | 13 | nova | 20 | peak |
+| 7 | guard | 14 | plain |  | |
+| 8 | haven | 15 | port |  | |
+
+## Special Cultural Tables
+
+### Elven Names (2d12)
+**Roll 2d12 for elven initials and finals:**
+
+| **2d12** | **Initial** | **2d12** | **Final** |
+| 2 | Ael | 2 | adir |
+| 3 | Cel | 3 | anduil |
+| 4 | Elen | 4 | aron |
+| 5 | Gal | 5 | dir |
+| 6 | Gil | 6 | galadriel |
+| 7 | Hal | 7 | las |
+| 8 | Leg | 8 | moth |
+| 9 | Mith | 9 | ond |
+| 10 | Thran | 10 | riel |
+| 11 | Elr | 11 | thil |
+| 12 | Galar | 12 | wyn |
+### Dwarven Names (2d12)
+
+**Roll 2d12 for dwarven initials and finals:**
+
+| **2d12** | **Initial** | **2d12** | **Final** |
+| 2 | Bal | 2 | dan |
+| 3 | Bor | 3 | din |
+| 4 | Dain | 4 | dur |
+| 5 | Dur | 5 | grim |
+| 6 | Gim | 6 | gar |
+| 7 | Grim | 7 | kan |
+| 8 | Kaz | 8 | mor |
+| 9 | Mor | 9 | mur |
+| 10 | Thar | 10 | rik |
+| 11 | Thor | 11 | thor |
+| 12 | Ur | 12 | zak |
+
+} %close small
+
 ---
 
 # Author and Contributions

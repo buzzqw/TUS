@@ -22840,7 +22840,7 @@ Questi tiri critici molto legati all'aleatorietà dei dadi potrebbero non piacer
 \item per \textbf{ogni multiplo di 8} per il quale la prova è riuscita o fallita si \textbf{cumula} rispettivamente un \textbf{successo o fallimento critico addizionale}.
 \end{itemize}
 
-Lo stesso principio vale per la Prova di Magia che si esegue tirando 3d6 + Competenza Magica + modificatore di caratteristica per incantesimi + 1*Adepto della Magia ed il risultato deve superare una difficoltà pari 10 + Livello di Magia manifestata*3. \index{Prova di magia alternativa}
+Lo stesso principio vale per la \textbf{Prova di Magia} che si esegue tirando 3d6 + Competenza Magica + modificatore di caratteristica per incantesimi + 1*Adepto della Magia ed il risultato deve superare una difficoltà pari 10 + Livello di Magia*x2 manifestata. L'armatura aggiunge +4 di difficoltà per grado di \emph{persantezza}. \index{Prova di magia alternativa}
 
 Questa Opzione rende molto più efficaci i personaggi nelle sfide contro avversari di basso rango.\index{Valorizzare i livelli}
 
@@ -43736,256 +43736,239 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 \end{multicols}
 
+\pagebreak
+
 \noindent\rule{\textwidth}{0.4pt}
 
 \subsection{Tabelle per tiri casuali}
 
 {\small \setlength{\parindent}{0cm}{
-
-\begin{multicols}{2}
-
-\textbf{Tabella Fonti di Energia}\index{Tabella Casuale - Fonti di Energia}\label{fontienergia}\hypertarget{fontienergia}{}
-
-\begin{tabular}{ll|ll}
-\toprule
-3d6 &Energia&&\\
-3-5&Energia Neg.& 6-8&Energia Pos.\\
-9-11&Fuoco & 12-13&Freddo\\
-14&Elettricità & 15&Suono\\
-16&Luce & 17&Vuoto\\
-18&Forza&&\\
-\end{tabular}
-
-\medskip
-
-\textbf{Generatori Effetti Fallimento Critico in Attacco}\index{Tabella Casuale - Fallimento critico con armi}
-
-\begin{tabularx}{0.5\textwidth}{l|X}
-
-\textbf{3d6} & \textbf{Effetto}\\
-3& Sei imbarazzato del tuo colpo, ma non succede nulla di particolare\\
-4& Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa\\
-\end{tabularx}
-\begin{tabularx}{0.5\textwidth}{l|X}
-\textbf{3d6} & \textbf{Effetto}\\
-5& Metti male il piede. Fino alla fine del prossimo round tratti il terreno come difficile\\
-6& Perdi il fiato. Fino all'inizio del prossimo round ha -1 Forza\\
-7& Piroetta. Ti sposti in una direzione casuale di 1 metro\\
-8& Goffo. Fino a all'inizio del prossimo round hai -4 alla Difesa\\
-9& Occhio pesto. Fino alla fine del round prossimo ogni avversario gode di copertura leggera\\
-10 & Mani di burro. Ti cade l'arma\\
-11 & Strappo muscolare. Il prossimo attacco non aggiunge la Forza al danno\\
-12 & Caviglia fragile. Portando il colpo inciampi. Cadi prono\\
-13 & Ti cade l'arma a 3 metri in una direzione casuale\\
-14 & Perdi fiducia in te stesso. Il prossimo attacco lo esegui con un -4 aggiuntivo\\
-\end{tabularx}
-\begin{tabularx}{0.5\textwidth}{l|X}
-\textbf{3d6} & \textbf{Effetto}\\
-15 & Bersaglio sbagliato. Colpisci una creatura a caso a portata.\\
-16 & Confuso. Ti dai una botta sulla testa. Fino alla fine del round sei sotto l'incantesimo \hyperlink{Confusione}{Confusione}\\
-17 & Ti colpisci con forza. Tira il danno regolare verso te stesso. Il round finisce\\
-18 & Ti colpisci con forza alla testa. Come 17 e chi è in mischia contro di te può effettuare un attacco d'opportunità usando una Reazione. Il round finisce\\
-19+& Ti colpisci con forza. Tira il danno e applica due colpi critici verso te stesso. Il round finisce
-\end{tabularx}
-
-\medskip
-
-\textbf{Generatore di nomi}\index{Tabella Casuale - Generatore di Nomi}
-
-\begin{tabular}{llll}
-	\toprule
-	\# & 1d8 & 1d8&1d8 \\
-	\toprule
-	1&An & la & mo\\
-	2&Vi & ca & ta\\
-	3&Lan & da & to\\
-	4&Es & per & ro\\
-	5&Ma & li & ka\\
-	6&Bra & sa & sa\\
-	7&Car & fe & la\\
-	8&Ro & len & ry
-\end{tabular}
-
-\end{multicols}
-
-\textbf{Tabella: generazione casuali armi}\index[Tabelle]{Tabella generazione casuali armi}
-
-\medskip
-
-\resizebox{\linewidth}{!}{\begin{tabular}{ll|ll|ll|ll}
-		\toprule
-		\textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} \\
-		\midrule
-		1-2   & Arma rotta & 26-27 & Alabarda & 51-52 & Spada corta & 76-77 & Spada lunga \\
-		3-4   & Arco lungo & 28-29 & Arco corto & 53-54 & Spada a due lame & 78-79 & Spada bastarda \\
-		5-6   & Ascia da battaglia & 30-31 & Ascia ad una mano & 55-56 & Picca pesante & 80-81 & Spada larga \\
-		7-8   & Balestra ad una mano & 32-33 & Bastone & 57-58 & Pugnale & 82-83 & Spadone a due mani \\
-		9-10  & Balestra leggera & 34-35 & Falce & 59-60 & Scimitarra & 84-85 & Stocco \\
-		11-12 & Balestra pesante & 36-37 & Flagello doppio & 61-62 & Mazza leggera & 86-87 & Tridente \\
-		13-14 & Catena chiodata & 38-39 & Frusta & 63-64 & Mazza flangiata & 88-89 & Urgrosh \\
-		15-16 & Estoc & 40-41 & Giavellotto & 65-66 & Mazza chiodata & 90-91 & Katana \\
-		17-18 & Falcetto & 42-43 & Machete & 67-68 & Picca leggera & 92-93 & Manganello \\
-		19-20 & Falcione in asta & 44-45 & Martello da guerra & 69-70 & Lancia & 94-95 & Guanto chiodato \\
-		21-22 & Arco lungo composito & 46-47 & Flagello pesante & 71-72 & Flagello & 96-97 & Ascia martello \\
-		23-24 & Arco corto composito & 48-49 & Lancia da fante & 73-74 & Grande ascia doppia & 98-99 & Maglio da guerra \\
-		25    & Falcione & 50    & Randello & 75    & Lancia corta & 100   & Arma speciale \\
-		\bottomrule
-\end{tabular}}
-
+		
+		\begin{multicols}{2}
+			
+			\textbf{Tabella Fonti di Energia}\index{Tabella Casuale - Fonti di Energia}\label{fontienergia}\hypertarget{fontienergia}{}
+			
+			\begin{tabular}{ll|ll}
+				\toprule
+				3d6 &Energia&&\\
+				3-5&Energia Neg.& 6-8&Energia Pos.\\
+				9-11&Fuoco & 12-13&Freddo\\
+				14&Elettricità & 15&Suono\\
+				16&Luce & 17&Vuoto\\
+				18&Forza&&\\
+			\end{tabular}
+			
+			\medskip
+			
+			\begin{tikzpicture}[scale=0.4]
+				
+				\fill[orange] (1,17) rectangle (4,20);
+				\fill[blue] (2.5,18.5) circle (0.3);
+				\node at (3,16) [above] {raggio 1 metro};
+				
+				\fill[orange] (6,15) rectangle (11,20);
+				\fill[white] (5,20) rectangle (6,21);
+				\fill[white] (6,19) rectangle (7,20);
+				\fill[white] (10,15) rectangle (11,16);
+				\fill[white] (6,15) rectangle (7,16);
+				\fill[white] (10,19) rectangle (11,20);
+				\fill[blue] (8.5,17.5) circle (0.3);
+				\node at (8.5,14) [above] {raggio 2 metri};
+				
+				\fill[orange] (12,13) rectangle (19,20);
+				\fill[white] (12,19) rectangle (13,20);
+				\fill[white] (18,13) rectangle (19,14);
+				\fill[white] (12,13) rectangle (13,14);
+				\fill[white] (18,19) rectangle (19,20);
+				\fill[blue] (15.5,16.5) circle (0.3);
+				\node at (16,12) [above] {raggio 3 metri};
+				
+				\fill[orange] (2,8) -- (7.5,10.5) -- (2,13) -- cycle;
+				\fill[blue] (7.5,10.5) circle (0.3);
+				\node at (4.5,7) [above] {cono di 5 metri};
+				
+				\fill[orange] (17,8) -- (20.5,9.5) -- (17,11) -- cycle;
+				\fill[blue] (20.5,9.5) circle (0.3);
+				\node at (18,7) [above] {cono di 3 metri};
+				
+				%\fill[orange] (9,7) -- (15.5,10.5) -- (9,13) -- cycle;
+				%\fill[blue] (15.5,10.5) circle (0.3);
+				%\node at (12,6.5) [above] {cono di 6 metri};
+				
+				\fill[orange] (9,7) -- (15.5,10) -- (9,13) -- cycle;
+				\fill[blue] (15.5,10.5) circle (0.3); % Punto blu sulla punta destra
+				\node at (12,6.5) [above] {cono di 6 metri};
+				
+				% Cubo di 3 quadretti di lato
+				%\fill[orange] (2,2) -- (5,2) -- (5,5) -- (2,5) -- cycle; % Faccia frontale
+				%\fill[orange] (5,2) -- (6,3) -- (6,6) -- (5,5) -- cycle; % Faccia destra
+				%\fill[orange] (2,5) -- (5,5) -- (6,6) -- (3,6) -- cycle; % Faccia superiore
+				
+				% Cubo di 6 quadretti di lato
+				%\fill[orange] (8,2) -- (14,2) -- (14,8) -- (8,8) -- cycle; % Faccia frontale
+				%\fill[orange] (14,2) -- (16,4) -- (16,10) -- (14,8) -- cycle; % Faccia destra
+				%\fill[orange] (8,8) -- (14,8) -- (16,10) -- (10,10) -- cycle; % Faccia superiore
+				
+				% Draw the base grid (20x15)
+				\foreach \x in {0,...,20}
+				\foreach \y in {5,...,20}
+				\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
+				
+			\end{tikzpicture}
+			
+			\medskip
+			
+			Il punto blu determina l'origine dell'incantesimo
+			
+			\bigskip
+			
+			\textbf{Esempi portata dei nemici}
+			
+			\medskip
+			
+			\textbf{Tabella: forme degli incantesimi - Sfera e Cono}\index[Tabelle]{Tabella forme degli incantesimi - Sfera e Cono}
+			
+			\medskip
+			
+			
+			\begin{tikzpicture}[scale=0.4]
+				
+				\fill[orange] (1,18) rectangle (2,19);
+				\node at (1.5,18.5) {1};
+				
+				\foreach \x in {-1,...,1} {
+					\node at (\x+1.5,17.5) {A};
+					\node at (\x+1.5,19.5) {A};
+				}
+				
+				\foreach \y in {18} { \node at (+0.5,\y+0.5) {A};
+					\node at (2.5,\y+0.5) {A}; }
+				
+				\node at (1.5,16) [above] {Portata 1m};
+				
+				% Quadrato centrale 2x2 con il numero 2 dentro
+				\fill[orange] (5,17) rectangle (7,19);
+				\node at (5.5,17.5) {2};
+				\node at (5.5,18.5) {2};
+				\node at (6.5,17.5) {2};
+				\node at (6.5,18.5) {2};
+				
+				% Lettere A intorno al quadrato centrale 2x2
+				\foreach \x in {3,...,6} {
+					\node at (\x+1.5,19.5) {A}; % Sopra
+					\node at (\x+1.5,16.5) {A}; % Sotto
+				}
+				\foreach \y in {9,...,10} {
+					\node at (4.5,\y+8.5) {A}; % Sinistra
+					\node at (7.5,\y+8.5) {A}; % Destra
+				}
+				
+				\node at (6,15) [above] {Portata 1m};
+				
+				% Quadrato 3x3 con il numero 3 dentro, spostato a sinistra di 1 quadretto e alzato di 1 quadretto
+				\fill[orange] (11,15) rectangle (14,18);
+				\node at (11.5,17.5) {3};
+				\node at (12.5,17.5) {3};
+				\node at (13.5,17.5) {3};
+				
+				\node at (11.5,16.5) {3};
+				\node at (12.5,16.5) {3};
+				\node at (13.5,16.5) {3};
+				
+				\node at (11.5,15.5) {3};
+				\node at (12.5,15.5) {3};
+				\node at (13.5,15.5) {3};
+				
+				% Prima cornice di quadretti con la lettera A
+				% Sopra e sotto il quadrato 3x3
+				\foreach \x in {10,...,14} {
+					\node at (\x+0.5,14.5) {A};
+					\node at (\x+0.5,18.5) {A};
+				}
+				
+				% Ai lati del quadrato 3x3
+				\foreach \y in {13,...,17} {
+					\node at (10.5,\y+1.5) {A};
+					\node at (14.5,\y+1.5) {A};
+				}
+				
+				% Seconda cornice di quadretti con la lettera B
+				% Sopra e sotto la prima cornice
+				\foreach \x in {9,...,15} {
+					\node at (\x+0.5,19.5) {B};
+					\node at (\x+0.5,13.5) {B};
+				}
+				
+				% Ai lati della prima cornice
+				\foreach \y in {13,...,18} {
+					\node at (9.5,\y+0.5) {B};
+					\node at (15.5,\y+0.5) {B};
+				}
+				\node at (12.5,12) [above] {Portata 2m};
+				
+				\foreach \x in {-1,...,19}
+				\foreach \y in {12,...,19}
+				\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
+				
+			\end{tikzpicture}
+			
+			\textbf{Generatori Effetti Fallimento Critico in Attacco}\index{Tabella Casuale - Fallimento critico con armi}
+			
+			\begin{tabularx}{0.5\textwidth}{l|X}
+				
+				\textbf{3d6} & \textbf{Effetto}\\
+				3& Sei imbarazzato del tuo colpo, ma non succede nulla di particolare\\
+				4& Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa\\
+				5& Metti male il piede. Fino alla fine del prossimo round tratti il terreno come difficile\\
+				6& Perdi il fiato. Fino all'inizio del prossimo round ha -1 Forza\\
+				7& Piroetta. Ti sposti in una direzione casuale di 1 metro\\
+				8& Goffo. Fino a all'inizio del prossimo round hai -4 alla Difesa\\
+				9& Occhio pesto. Fino alla fine del round prossimo ogni avversario gode di copertura leggera\\
+				10 & Mani di burro. Ti cade l'arma\\
+				11 & Strappo muscolare. Il prossimo attacco non aggiunge la Forza al danno\\
+				12 & Caviglia fragile. Portando il colpo inciampi. Cadi prono\\
+				13 & Ti cade l'arma a 3 metri in una direzione casuale\\
+				14 & Perdi fiducia in te stesso. Il prossimo attacco lo esegui con un -4 aggiuntivo\\
+				15 & Bersaglio sbagliato. Colpisci una creatura a caso a portata.\\
+				16 & Confuso. Ti dai una botta sulla testa. Fino alla fine del round sei sotto l'incantesimo \hyperlink{Confusione}{Confusione}\\
+				17 & Ti colpisci con forza. Tira il danno regolare verso te stesso. Il round finisce\\
+				18 & Ti colpisci con forza alla testa. Come 17 e chi è in mischia contro di te può effettuare un attacco d'opportunità usando una Reazione. Il round finisce\\
+				19+& Ti colpisci con forza. Tira il danno e applica due colpi critici verso te stesso. Il round finisce
+			\end{tabularx}
+			
+			\medskip
+			
+		\end{multicols}
+		
+		\textbf{Tabella: generazione casuali armi}\index[Tabelle]{Tabella generazione casuali armi}
+		
+		\medskip
+		
+		\resizebox{\linewidth}{!}{\begin{tabular}{ll|ll|ll|ll}
+				\toprule
+				\textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} \\
+				\midrule
+				1-2   & Arma rotta & 26-27 & Alabarda & 51-52 & Spada corta & 76-77 & Spada lunga \\
+				3-4   & Arco lungo & 28-29 & Arco corto & 53-54 & Spada a due lame & 78-79 & Spada bastarda \\
+				5-6   & Ascia da battaglia & 30-31 & Ascia ad una mano & 55-56 & Picca pesante & 80-81 & Spada larga \\
+				7-8   & Balestra ad una mano & 32-33 & Bastone & 57-58 & Pugnale & 82-83 & Spadone a due mani \\
+				9-10  & Balestra leggera & 34-35 & Falce & 59-60 & Scimitarra & 84-85 & Stocco \\
+				11-12 & Balestra pesante & 36-37 & Flagello doppio & 61-62 & Mazza leggera & 86-87 & Tridente \\
+				13-14 & Catena chiodata & 38-39 & Frusta & 63-64 & Mazza flangiata & 88-89 & Urgrosh \\
+				15-16 & Estoc & 40-41 & Giavellotto & 65-66 & Mazza chiodata & 90-91 & Katana \\
+				17-18 & Falcetto & 42-43 & Machete & 67-68 & Picca leggera & 92-93 & Manganello \\
+				19-20 & Falcione in asta & 44-45 & Martello da guerra & 69-70 & Lancia & 94-95 & Guanto chiodato \\
+				21-22 & Arco lungo composito & 46-47 & Flagello pesante & 71-72 & Flagello & 96-97 & Ascia martello \\
+				23-24 & Arco corto composito & 48-49 & Lancia da fante & 73-74 & Grande ascia doppia & 98-99 & Maglio da guerra \\
+				25    & Falcione & 50    & Randello & 75    & Lancia corta & 100   & Arma speciale \\
+				\bottomrule
+		\end{tabular}}
+		
 }}
 
-\medskip
 
-\textbf{Tabella: forme degli incantesimi - Sfera e Cono}\index[Tabelle]{Tabella forme degli incantesimi - Sfera e Cono}
 
-\medskip
 
-\begin{tikzpicture}[scale=0.5]
-
-\fill[orange] (1,17) rectangle (4,20);
-\fill[blue] (2.5,18.5) circle (0.3);
-\node at (3,16) [above] {raggio 1 metro};
-
-\fill[orange] (6,15) rectangle (11,20);
-\fill[white] (5,20) rectangle (6,21);
-\fill[white] (6,19) rectangle (7,20);
-\fill[white] (10,15) rectangle (11,16);
-\fill[white] (6,15) rectangle (7,16);
-\fill[white] (10,19) rectangle (11,20);
-\fill[blue] (8.5,17.5) circle (0.3);
-\node at (8.5,14) [above] {raggio 2 metri};
-
-\fill[orange] (12,13) rectangle (19,20);
-\fill[white] (12,19) rectangle (13,20);
-\fill[white] (18,13) rectangle (19,14);
-\fill[white] (12,13) rectangle (13,14);
-\fill[white] (18,19) rectangle (19,20);
-\fill[blue] (15.5,16.5) circle (0.3);
-\node at (16,12) [above] {raggio 3 metri};
-
-\fill[orange] (2,8) -- (7.5,10.5) -- (2,13) -- cycle;
-\fill[blue] (7.5,10.5) circle (0.3);
-\node at (4.5,7) [above] {cono di 5 metri};
-
-\fill[orange] (17,8) -- (20.5,9.5) -- (17,11) -- cycle;
-\fill[blue] (20.5,9.5) circle (0.3);
-\node at (18,7) [above] {cono di 3 metri};
-
-%\fill[orange] (9,7) -- (15.5,10.5) -- (9,13) -- cycle;
-%\fill[blue] (15.5,10.5) circle (0.3);
-%\node at (12,6.5) [above] {cono di 6 metri};
-
-\fill[orange] (9,7) -- (15.5,10) -- (9,13) -- cycle;
-\fill[blue] (15.5,10.5) circle (0.3); % Punto blu sulla punta destra
-\node at (12,6.5) [above] {cono di 6 metri};
-
-% Cubo di 3 quadretti di lato
-%\fill[orange] (2,2) -- (5,2) -- (5,5) -- (2,5) -- cycle; % Faccia frontale
-%\fill[orange] (5,2) -- (6,3) -- (6,6) -- (5,5) -- cycle; % Faccia destra
-%\fill[orange] (2,5) -- (5,5) -- (6,6) -- (3,6) -- cycle; % Faccia superiore
-
-% Cubo di 6 quadretti di lato
-%\fill[orange] (8,2) -- (14,2) -- (14,8) -- (8,8) -- cycle; % Faccia frontale
-%\fill[orange] (14,2) -- (16,4) -- (16,10) -- (14,8) -- cycle; % Faccia destra
-%\fill[orange] (8,8) -- (14,8) -- (16,10) -- (10,10) -- cycle; % Faccia superiore
-
-% Draw the base grid (20x15)
-\foreach \x in {0,...,20}
-\foreach \y in {5,...,20}
-\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
-
-\end{tikzpicture}
-
-\medskip
-
-Il punto blu determina l'origine dell'incantesimo
-
-\bigskip
-
-\textbf{Esempi portata dei nemici}
-
-\medskip
-
-\begin{tikzpicture}[scale=0.5]
-
-\fill[orange] (1,18) rectangle (2,19);
-\node at (1.5,18.5) {1};
-
-\foreach \x in {-1,...,1} {
-\node at (\x+1.5,17.5) {A};
-\node at (\x+1.5,19.5) {A};
-}
-
-\foreach \y in {18} { \node at (+0.5,\y+0.5) {A};
-\node at (2.5,\y+0.5) {A}; }
-
-\node at (1.5,16) [above] {Portata 1m};
-
-% Quadrato centrale 2x2 con il numero 2 dentro
-\fill[orange] (5,17) rectangle (7,19);
-\node at (5.5,17.5) {2};
-\node at (5.5,18.5) {2};
-\node at (6.5,17.5) {2};
-\node at (6.5,18.5) {2};
-
-% Lettere A intorno al quadrato centrale 2x2
-\foreach \x in {3,...,6} {
-\node at (\x+1.5,19.5) {A}; % Sopra
-\node at (\x+1.5,16.5) {A}; % Sotto
-}
-\foreach \y in {9,...,10} {
-\node at (4.5,\y+8.5) {A}; % Sinistra
-\node at (7.5,\y+8.5) {A}; % Destra
-}
-
-\node at (6,15) [above] {Portata 1m};
-
-% Quadrato 3x3 con il numero 3 dentro, spostato a sinistra di 1 quadretto e alzato di 1 quadretto
-\fill[orange] (11,15) rectangle (14,18);
-\node at (11.5,17.5) {3};
-\node at (12.5,17.5) {3};
-\node at (13.5,17.5) {3};
-
-\node at (11.5,16.5) {3};
-\node at (12.5,16.5) {3};
-\node at (13.5,16.5) {3};
-
-\node at (11.5,15.5) {3};
-\node at (12.5,15.5) {3};
-\node at (13.5,15.5) {3};
-
-% Prima cornice di quadretti con la lettera A
-% Sopra e sotto il quadrato 3x3
-\foreach \x in {10,...,14} {
-\node at (\x+0.5,14.5) {A};
-\node at (\x+0.5,18.5) {A};
-}
-
-% Ai lati del quadrato 3x3
-\foreach \y in {13,...,17} {
-\node at (10.5,\y+1.5) {A};
-\node at (14.5,\y+1.5) {A};
-}
-
-% Seconda cornice di quadretti con la lettera B
-% Sopra e sotto la prima cornice
-\foreach \x in {9,...,15} {
-\node at (\x+0.5,19.5) {B};
-\node at (\x+0.5,13.5) {B};
-}
-
-% Ai lati della prima cornice
-\foreach \y in {13,...,18} {
-\node at (9.5,\y+0.5) {B};
-\node at (15.5,\y+0.5) {B};
-}
-\node at (12.5,12) [above] {Portata 2m};
-
-\foreach \x in {-1,...,19}
-\foreach \y in {12,...,19}
-\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
-
-\end{tikzpicture}
 
 %\bigskip
 
@@ -43994,9 +43977,9 @@ Il punto blu determina l'origine dell'incantesimo
 %\begin{tikzpicture}[scale=0.7]
 % Disegna il reticolato 4x4
 %\foreach \i in {0,...,4} {
-%	\draw[thick] (\i,0) -- (\i,4);
-%	\draw[thick] (0,\i) -- (4,\i);
-%}
+	%	\draw[thick] (\i,0) -- (\i,4);
+	%	\draw[thick] (0,\i) -- (4,\i);
+	%}
 
 % Colora i quadrati 2, 3, 14 e 15 di arancione
 %\fill[orange!60, opacity=0.7] (1,3) rectangle (2,4); % quadrato 2
@@ -44019,11 +44002,11 @@ Il punto blu determina l'origine dell'incantesimo
 
 % Numera i quadrati da 1 a 16
 %\foreach \i in {0,...,3} {
-%	\foreach \j in {0,...,3} {
-%		\pgfmathtruncatemacro{\num}{4*(3-\j)+\i+1}
-%		\node at (\i+0.5,\j+0.5) {\Large \num};
-%	}
-%}
+	%	\foreach \j in {0,...,3} {
+		%		\pgfmathtruncatemacro{\num}{4*(3-\j)+\i+1}
+		%		\node at (\i+0.5,\j+0.5) {\Large \num};
+		%	}
+	%}
 
 %\end{tikzpicture}
 
@@ -44033,7 +44016,184 @@ Il punto blu determina l'origine dell'incantesimo
 
 \pagebreak
 
-\noindent
+\section{Generatore Nomi Casuali}
+
+\begin{multicols}{2}
+	
+Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle Centrali e 3d6 sulla Finale.
+
+{\small 
+
+\subsection*{Tabelle per Nomi Maschili}
+
+\subsubsection*{Sillabe Iniziali Maschili}
+\noindent\begin{tabular}{|c|l||c|l|}
+\toprule
+\textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
+\midrule
+3 & Zeph & 11 & Mer \\ 
+4 & Xar & 12 & Kor \\
+5 & Bra &    13 & Lun      \\
+6 & Cae & 14 & Nor     \\ 
+7 & Dar & 15 & Oth      \\ 
+8 & Eld &  16 & Quin \\
+9 & Gar  & 17 & Thaan \\
+10 & Hal &  18 & Zarak  \\
+\bottomrule
+\end{tabular}
+
+
+\subsubsection*{Sillabe Centrali (2d6)}
+\noindent\begin{tabular}{|c|l||c|l|}
+\toprule
+\textbf{2d6} & \textbf{Sillaba} & \textbf{2d6} & \textbf{Sillaba} \\
+\midrule
+2 & - (salta) & 8 & ren \\
+3 & - (salta) & 9 & el \\
+4 & - (salta) & 10 & an \\
+5 & dor & 11 & en \\
+6 & gal & 12 & thil \\
+7 & ar & & \\
+\bottomrule
+\end{tabular}
+
+
+\subsubsection*{Sillabe Finali Maschili (3d6)}
+
+\noindent\begin{tabular}{|c|l||c|l||c|l|}
+\toprule
+\textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
+\midrule
+3 & grim & 9 & dan & 15 & reth \\
+4 & thus & 10 & ion & 16 & thor \\
+5 & dus & 11 & dor & 17 & valos \\
+6 & kar & 12 & nor & 18 & zeth \\
+7 & las & 13 & on & & \\
+8 & mel & 14 & mir & & \\
+\bottomrule
+\end{tabular}
+
+
+\subsection*{Tabelle per Nomi Femminili}
+
+\subsubsection*{Sillabe Iniziali Femminili (3d6)}
+
+\noindent\begin{tabular}{|c|l||c|l||c|l|}
+\toprule
+\textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
+\midrule
+3 & Zara & 9 & Gwen & 15 & Ora \\
+4 & Xyla & 10 & Hel & 16 & Syl \\
+5 & Ara & 11 & Mira & 17 & Thea \\
+6 & Bel & 12 & Isa & 18 & Zyra \\
+7 & Cel & 13 & Lil & & \\
+8 & Ela & 14 & Nym & & \\
+\bottomrule
+\end{tabular}
+
+\subsubsection*{Sillabe Finali Femminili (3d6)}
+\noindent\begin{tabular}{|c|l||c|l||c|l|}
+\toprule
+\textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
+\midrule
+3 & neth & 9 & ana & 15 & riel \\
+4 & essa & 10 & ara & 16 & tha \\
+5 & beth & 11 & elle & 17 & saal \\
+6 & dra & 12 & lynn & 18 & vyth \\
+7 & ena & 13 & ina & & \\
+8 & iel & 14 & mira & & \\
+\bottomrule
+\end{tabular}
+
+
+\subsection*{Nomi di Luoghi Fantasy}
+
+\subsubsection*{Prefissi per Luoghi (2d10)}
+\noindent\begin{tabular}{|c|l|c|l|c|l|}
+\hline
+\textbf{2d10} & \textbf{Prefisso} & \textbf{2d10} & \textbf{Prefisso} & \textbf{2d10} & \textbf{Prefisso} \\
+\hline
+2 & Fonda & 9 & Forte & 16 & Terra \\
+3 & Alto & 10 & Lago & 17 & Torre \\
+4 & Basso & 11 & Monte & 18 & Valle \\
+5 & Bosco & 12 & Pietra & 19 & Vento \\
+6 & Campo & 13 & Quercia & 20 & Libera \\
+7 & Casa & 14 & Rocca & & \\
+8 & Colle & 15 & Sole & & \\
+\hline
+\end{tabular}
+
+\subsubsection*{Suffissi per Luoghi (2d10)}
+
+\noindent\begin{tabular}{|c|l|c|l|c|l|}
+\hline
+\textbf{2d10} & \textbf{Suffisso} & \textbf{2d10} & \textbf{Suffisso} & \textbf{2d10} & \textbf{Suffisso} \\
+\hline
+2 & abisso & 9 & lande & 16 & rocca \\
+3 & borgo & 10 & marca & 17 & sponda \\
+4 & maso & 11 & mare & 18 & valle \\
+5 & campo & 12 & monte & 19 & varco \\
+6 & forte & 13 & nova & 20 & vetta \\
+7 & gard & 14 & piana & & \\
+8 & haven & 15 & porto & & \\
+\hline
+\end{tabular}
+
+
+
+\subsection*{Tabelle Speciali per Culture}
+
+\subsubsection*{Nomi Elfici (2d12)}
+\textbf{Tira 2d12 per iniziali e finali elfiche:}
+
+\noindent\begin{tabular}{|c|l||c|l|}
+\toprule
+\textbf{2d12} & \textbf{Iniziale} & \textbf{2d12} & \textbf{Finale} \\
+\midrule
+2 & Ael & 2 & adir \\
+3 & Cel & 3 & anduil \\
+4 & Elen & 4 & aron \\
+5 & Gal & 5 & dir \\
+6 & Gil & 6 & galadriel \\
+7 & Hal & 7 & las \\
+8 & Leg & 8 & moth \\
+9 & Mith & 9 & ond \\
+10 & Thran & 10 & riel \\
+11 & Elr & 11 & thil \\
+12 & Galar & 12 & wyn \\
+\bottomrule
+\end{tabular}
+
+
+\subsubsection*{Nomi Nanici (2d12)}
+\textbf{Tira 2d12 per iniziali e finali naniche:}
+
+\noindent\begin{tabular}{|c|l||c|l|}
+\toprule
+\textbf{2d12} & \textbf{Iniziale} & \textbf{2d12} & \textbf{Finale} \\
+\midrule
+2 & Bal & 2 & dan \\
+3 & Bor & 3 & din \\
+4 & Dain & 4 & dur \\
+5 & Dur & 5 & grim \\
+6 & Gim & 6 & gar \\
+7 & Grim & 7 & kan \\
+8 & Kaz & 8 & mor \\
+9 & Mor & 9 & mur \\
+10 & Thar & 10 & rik \\
+11 & Thor & 11 & thor \\
+12 & Ur & 12 & zak \\
+\bottomrule
+\end{tabular}
+
+
+
+} %chiusi small
+
+\end{multicols}
+
+\pagebreak
+
 
 \section{Autore e Contributi}\index{Autore}
 
@@ -44100,9 +44260,9 @@ Per qualsiasi segnalazione o consiglio aprite una issue su GitHub, oppure mandat
 \section{Ringraziamenti}\index{Ringraziamenti}\index{DnD SRD}
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-			\begin{center}
+\begin{center}
 Ai miei amici, ai miei compagni di avventura, a tutti i giocatori che chiudono gli occhi e si lasciano guidare dalla fantasia in meravigliose avventure. (Andres Zanzani)
-			\end{center}
+\end{center}
 }\end{enfasi}\end{changemargin}
 
 \medskip
@@ -44188,7 +44348,7 @@ Al mio tavolo da gioco solitamente propongo queste Opzioni, da decidere in Sessi
 \hyperlink{varianteiniziativa}{Variante Iniziativa}, solo se ho giocatori esperti. Pag. \pageref{varianteiniziativa}
 
 \item
-Partendo con \hyperlink{variantetiricritici}{Variante Tiro Critico}, \hyperlink{tirocriticovariante}{Tiro Critico Variante}, \hyperlink{OpzionaleAzioniTiroCritico}{Azioni Tiro Critico}, \hyperlink{varianteattacchimultipli}{Variante Attacchi multipli} sono a scelta del giocatore se usarli o meno. Pag. \pageref{tirocriticovariante}, pag. \pageref{OpzionaleAzioniTiroCritico}, pag. \pageref{variantetiricritici} e pag. \pageref{varianteattacchimultipli}. Sono Opzioni suggerite per giocatori già con esperienza.
+Partendo con \hyperlink{variantetiricritici}{Variante Tiro Critico}, \hyperlink{tirocriticovariante}{Tiro Critico Variante}, \hyperlink{OpzionaleAzioniTiroCritico}{Azioni Tiro Critico}, \hyperlink{varianteattacchimultipli}{Variante Attacchi multipli} sono a scelta del giocatore se usarli o meno. Pag. \pageref{tirocriticovariante}, pag. \pageref{OpzionaleAzioniTiroCritico}, pag. \pageref{variantetiricritici} e pag. \pageref{varianteattacchimultipli}. Sono Opzioni suggerite per giocatori già con esperienza e consapevoli del proprio personaggio.
 
 \item \hyperlink{elencotalentiarmi}{Opzionale - Elenco Manovre d'Arme} (pag. \pageref{elencotalentiarmi}) per rendere meno \emph{noiso} il fumbolare...
 
@@ -44251,7 +44411,7 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 \pagebreak
 
 \begin{multicols}{4}
-	{\small\printindex}
+{\small\printindex}
 \end{multicols}
 
 \TotalBox{OBSSv2}\pagebreak
@@ -44280,7 +44440,7 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 \TotalBox{Incantesimi}\pagebreak
 
 \begin{multicols}{3}
-	{\small\printindex[OggettiMagici]}
+{\small\printindex[OggettiMagici]}
 \end{multicols}
 
 %{\scriptsize\printindex[OggettiMagici]}
@@ -44297,7 +44457,7 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 \TotalBox{OggettiMagici}\pagebreak
 
 \begin{multicols}{3}
-	{\small\printindex[Abilita]}
+{\small\printindex[Abilita]}
 \end{multicols}
 
 \vfill
@@ -44305,7 +44465,7 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 \TotalBox{Abilita}\pagebreak
 
 \begin{multicols}{3}
-	{\small\printindex[Mostruario]}
+{\small\printindex[Mostruario]}
 \end{multicols}
 
 \vfill
@@ -44322,11 +44482,11 @@ Ed infine un ovvietà: \textbf{divertitevi}, sforzatevi \textbf{tutti} affinché
 \section*{Appendice N}
 
 \begin{multicols}{2}
-		{\small
-		\nocite{*}
-		\setlength{\columnsep}{1cm} % spazio tra colonne
-		\printbibliography
-		}
+{\small
+\nocite{*}
+\setlength{\columnsep}{1cm} % spazio tra colonne
+\printbibliography
+}
 \end{multicols}
 
 \end{document}

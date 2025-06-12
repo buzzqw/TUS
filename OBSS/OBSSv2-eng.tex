@@ -23206,7 +23206,7 @@ These critical rolls very much tied to the randomness of the dice might not appe
 \item for \textbf{every multiple of 8} by which the check succeeds or fails, \textbf{cumulate} respectively an \textbf{additional critical success or failure}.
 \end{itemize}
 
-The same principle applies to the Magic Check that is performed by rolling 3d6 + Magic Proficiency + ability score modifier for spells + 1*Magic Adept, and the result must exceed a difficulty equal to 10 + Magic Level manifested*3. \index[OBSSv2]{Alternative magic check}
+The same principle applies to the \textbf{Magic Check} that is performed by rolling 3d6 + Magic Proficiency + ability score modifier for spells + 1*Magic Adept, and the result must exceed a difficulty equal to 10 + Magic Level manifested*2 +4 per \emph{category weight} of armor. \index[OBSSv2]{Alternative magic check}
 
 This Option makes characters much more effective in challenges against low-ranking adversaries.\index[OBSSv2]{Valuing levels}
 
@@ -44070,114 +44070,35 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 
 \end{multicols}
 
+\pagebreak
+
 \noindent\rule{\textwidth}{0.4pt}
 
-\subsection{Tables for random rolls}
+\section{Tables for Random Rolls}
 
 {\small \setlength{\parindent}{0cm}{
 
 \begin{multicols}{2}
 
-\textbf{Table Energy Sources}\index[OBSSv2]{Random Table - Energy Sources}\label{fontienergia}\hypertarget{fontienergia}{}
+\textbf{Energy Sources Table}\index{Random Table - Energy Sources}\label{energysources}\hypertarget{energysources}{}
 
-\begin{tabular}{ll}
+\begin{tabular}{ll|ll}
 \toprule
-3d6 &Energy\\
-3-5&Neg. Energy\\
-6-8&Pos. Energy\\
-9-11&Fire\\
-12-13&Cold\\
-14&Electricity\\
-15&Sound\\
-16&Light\\
-17&Void\\
-18&Force\\
+3d6 &Energy&&\\
+3-5&Negative Energy& 6-8&Positive Energy\\
+9-11&Fire & 12-13&Cold\\
+14&Electricity & 15&Sound\\
+16&Light & 17&Void\\
+18&Force&&\\
 \end{tabular}
 
 \medskip
 
-\textbf{Critical Failure Effects Generators in Attack}\index[OBSSv2]{Random Table - Critical failure with weapons}
-
-\begin{tabularx}{0.5\textwidth}{l|X}
-
-\textbf{3d6} & \textbf{Effect}\\
-3& You are embarrassed by your strike, but nothing particular happens\\
-4& You lose balance. Until the beginning of your next round, you have -2 to Defense\\
-5& You misplace your foot. Until the end of your next round, your movement is halved\\
-6& You lose your breath. Until the beginning of your next round, you have -1 Strength\\
-7& Pirouette. You move in a random direction 1 meter\\
-8& Clumsy. Until the beginning of your next round, you have -4 to Defense\\
-9& Black eye. Until the end of next round, every opponent has light cover\\
-10 & Butterfingers. You drop what you hold\\
-\end{tabularx}
-\begin{tabularx}{0.5\textwidth}{l|X}
-\textbf{3d6} & \textbf{Effect}\\
-11 & Muscle strain. Your next attack does not add Strength to damage\\
-12 & Fragile ankle. While delivering the blow, you trip. You fall prone\\
-13 & You drop your weapon 3 meters away in a random direction\\
-14 & You lose confidence in yourself. You make your next attack with an additional -4 penalty\\
-15 & Wrong target. You hit a random creature within reach.\\
-16 & Confused. You hit yourself on the head. Until the end of the round, you are under the \hyperlink{Confusion}{Confusion} spell\\
-17 & You hit yourself forcefully. Roll normal damage against yourself. The round ends\\
-18 & You hit yourself forcefully on the head. As 17, and those in melee with you can make an opportunity attack using a Reaction. The round ends\\
-19+& You hit yourself forcefully. Roll the damage and apply two critical hits against yourself. The round ends
-\end{tabularx}
-
-\medskip
-
-\textbf{Name Generator}\index[OBSSv2]{Random Table - Name Generator}
-
-\begin{tabular}{llll}
-	\toprule
-	\# & 1d8 & 1d8&1d8 \\
-	\toprule
-	1&An & la & mo\\
-	2&Vi & ca & ta\\
-	3&Lan & da & to\\
-	4&Es & per & ro\\
-	5&Ma & li & ka\\
-	6&Bra & sa & sa\\
-	7&Car & fe & la\\
-	8&Ro & len & ry
-\end{tabular}
-
-\end{multicols}
-
-\textbf{Table: random weapon generation}\index[Table]{Table Random weapon generation}
-
-\medskip
-
-\resizebox{\linewidth}{!}{\begin{tabular}{ll|ll|ll|ll}
-		\toprule
-		\textbf{1d100} & \textbf{Weapon} & \textbf{1d100} & \textbf{Weapon} & \textbf{1d100} & \textbf{Weapon} & \textbf{1d100} & \textbf{Weapon} \\
-		\midrule
-		1 & Axe hammer & 26-27 & Greatsword & 51-52 & One-handed crossbow & 76-77 & Spear \\
-		2 & Bastard sword & 28-29 & Halberd & 53-54 & One-handed axe & 78-79 & Spiked chain \\
-		3-4 & Battle axe & 30 & Heavy crossbow & 55 & Punch/kick & 80 & Spiked gauntlet \\
-		5-6 & Broken weapon & 31-32 & Heavy flail & 56-57 & Rapier & 81 & Spiked mace \\
-		7-9 & Broadsword & 33-34 & Heavy pick & 58-59 & Scimitar & 82 & Staff \\
-		10-11 & Club & 35 & Javelin & 60 & Scythe & 83-84 & Trident \\
-		12-13 & Comp. long bow & 36-37 & Katana & 61-62 & Short bow & 85-87 & Two-bladed sword \\
-		14-15 & Comp. short bow & 38-40 & Lance & 63-64 & Short sword & 88 & Urgrosh \\
-		16-17 & Dagger & 41 & Light crossbow & 65-66 & Sickle & 89-93 & Warhammer \\
-		18 & Double flail & 42 & Light mace & 67-75 & Longsword & 94 & Whip \\
-		19-20 & Estoc & 43 & Light pick & & & 95-100 & Falchion \\
-		21-22 & Flail & 44-45 & Machete & & & & \\
-		23-25 & Glaive & 46-50 & Great double axe & & & & \\
-		\bottomrule
-\end{tabular}}
-
-}}
-
-\textbf{Table: spell shapes - Sphere and Cone}\index[Table]{Table spell shapes - Sphere and Cone}
-
-\medskip
-
-\begin{tikzpicture}[scale=0.5]
+\begin{tikzpicture}[scale=0.4]
 
 \fill[orange] (1,17) rectangle (4,20);
 \fill[blue] (2.5,18.5) circle (0.3);
-\node at (3,16) [above] {radius 1 meter};
+\node at (3,16) [above] {1 meter radius};
 
 \fill[orange] (6,15) rectangle (11,20);
 \fill[white] (5,20) rectangle (6,21);
@@ -44186,7 +44107,7 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 \fill[white] (6,15) rectangle (7,16);
 \fill[white] (10,19) rectangle (11,20);
 \fill[blue] (8.5,17.5) circle (0.3);
-\node at (8.5,14) [above] {radius 2 meters};
+\node at (8.5,14) [above] {2 meter radius};
 
 \fill[orange] (12,13) rectangle (19,20);
 \fill[white] (12,19) rectangle (13,20);
@@ -44194,33 +44115,19 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 \fill[white] (12,13) rectangle (13,14);
 \fill[white] (18,19) rectangle (19,20);
 \fill[blue] (15.5,16.5) circle (0.3);
-\node at (16,12) [above] {radius 3 meters};
+\node at (16,12) [above] {3 meter radius};
 
 \fill[orange] (2,8) -- (7.5,10.5) -- (2,13) -- cycle;
 \fill[blue] (7.5,10.5) circle (0.3);
-\node at (4.5,7) [above] {cone of 5 meters};
+\node at (4.5,7) [above] {5 meter cone};
 
 \fill[orange] (17,8) -- (20.5,9.5) -- (17,11) -- cycle;
 \fill[blue] (20.5,9.5) circle (0.3);
-\node at (18,7) [above] {cone of 3 meters};
-
-%\fill[orange] (9,7) -- (15.5,10.5) -- (9,13) -- cycle;
-%\fill[blue] (15.5,10.5) circle (0.3);
-%\node at (12,6.5) [above] {cono di 6 metri};
+\node at (18,7) [above] {3 meter cone};
 
 \fill[orange] (9,7) -- (15.5,10) -- (9,13) -- cycle;
-\fill[blue] (15.5,10.5) circle (0.3); % Blue point on the right tip
-\node at (12,6.5) [above] {cone of 6 meters};
-
-% Cube of 3 squares per side
-%\fill[orange] (2,2) -- (5,2) -- (5,5) -- (2,5) -- cycle; % Front face
-%\fill[orange] (5,2) -- (6,3) -- (6,6) -- (5,5) -- cycle; % Right face
-%\fill[orange] (2,5) -- (5,5) -- (6,6) -- (3,6) -- cycle; % Upper face
-
-% Cube of 6 squares per side
-%\fill[orange] (8,2) -- (14,2) -- (14,8) -- (8,8) -- cycle; % Front face
-%\fill[orange] (14,2) -- (16,4) -- (16,10) -- (14,8) -- cycle; % Right face
-%\fill[orange] (8,8) -- (14,8) -- (16,10) -- (10,10) -- cycle; % Upper face
+\fill[blue] (15.5,10.5) circle (0.3);
+\node at (12,6.5) [above] {6 meter cone};
 
 % Draw the base grid (20x15)
 \foreach \x in {0,...,20}
@@ -44231,15 +44138,20 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 
 \medskip
 
-The blue point determines the origin of the spell
+The blue dot determines the spell's origin point
 
 \bigskip
 
-\textbf{Examples of enemy reach}
+\textbf{Enemy Range Examples}
 
 \medskip
 
-\begin{tikzpicture}[scale=0.5]
+\textbf{Table: Spell Shapes - Sphere and Cone}\index[Tables]{Spell Shapes Table - Sphere and Cone}
+
+\medskip
+
+
+\begin{tikzpicture}[scale=0.4]
 
 \fill[orange] (1,18) rectangle (2,19);
 \node at (1.5,18.5) {1};
@@ -44252,7 +44164,7 @@ The blue point determines the origin of the spell
 \foreach \y in {18} { \node at (+0.5,\y+0.5) {A};
 \node at (2.5,\y+0.5) {A}; }
 
-\node at (1.5,16) [above] {Reach 1m};
+\node at (1.5,16) [above] {1m Range};
 
 % Central 2x2 square with number 2 inside
 \fill[orange] (5,17) rectangle (7,19);
@@ -44271,9 +44183,9 @@ The blue point determines the origin of the spell
 \node at (7.5,\y+8.5) {A}; % Right
 }
 
-\node at (6,15) [above] {Reach 1m};
+\node at (6,15) [above] {1m Range};
 
-% 3x3 square with number 3 inside, shifted left by 1 square and up by 1 square
+% 3x3 square with number 3 inside, shifted left by 1 square and raised by 1 square
 \fill[orange] (11,15) rectangle (14,18);
 \node at (11.5,17.5) {3};
 \node at (12.5,17.5) {3};
@@ -44294,7 +44206,7 @@ The blue point determines the origin of the spell
 \node at (\x+0.5,18.5) {A};
 }
 
-% On the sides of the 3x3 square
+% Sides of the 3x3 square
 \foreach \y in {13,...,17} {
 \node at (10.5,\y+1.5) {A};
 \node at (14.5,\y+1.5) {A};
@@ -44307,12 +44219,12 @@ The blue point determines the origin of the spell
 \node at (\x+0.5,13.5) {B};
 }
 
-% On the sides of the first frame
+% Sides of the first frame
 \foreach \y in {13,...,18} {
 \node at (9.5,\y+0.5) {B};
 \node at (15.5,\y+0.5) {B};
 }
-\node at (12.5,12) [above] {Reach 2m};
+\node at (12.5,12) [above] {2m Range};
 
 \foreach \x in {-1,...,19}
 \foreach \y in {12,...,19}
@@ -44320,53 +44232,240 @@ The blue point determines the origin of the spell
 
 \end{tikzpicture}
 
-%\bigskip
+\textbf{Critical Failure Effects Generator for Attacks}\index{Random Table - Critical failure with weapons}
 
-%\textbf{Example of Flanking}
+\begin{tabularx}{0.5\textwidth}{l|X}
 
-%	\begin{tikzpicture}[scale=0.7]
-% Disegna il reticolato 4x4
-%\foreach \i in {0,...,4} {
-%	\draw[thick] (\i,0) -- (\i,4);
-%	\draw[thick] (0,\i) -- (4,\i);
-%}
+\textbf{3d6} & \textbf{Effect}\\
+3& You're embarrassed by your strike, but nothing particular happens\\
+4& You lose balance. Until the start of the next round you have -2 to Defense\\
+5& You misplace your foot. Until the end of the next round you treat terrain as difficult\\
+6& You lose your breath. Until the start of the next round you have -1 Strength\\
+7& Pirouette. You move in a random direction 1 meter\\
+8& Clumsy. Until the start of the next round you have -4 to Defense\\
+9& Black eye. Until the end of the next round every opponent enjoys light cover\\
+10 & Butter fingers. You drop your weapon\\
+11 & Muscle strain. The next attack doesn't add Strength to damage\\
+12 & Fragile ankle. While delivering the blow you stumble. You fall prone\\
+13 & You drop your weapon 3 meters away in a random direction\\
+14 & You lose confidence in yourself. You execute the next attack with an additional -4\\
+15 & Wrong target. You hit a random creature within range.\\
+16 & Confused. You hit yourself on the head. Until the end of the round you are under the \hyperlink{Confusion}{Confusion} spell\\
+17 & You hit yourself hard. Roll regular damage against yourself. The round ends\\
+18 & You hit yourself hard in the head. As 17 and whoever is in melee against you can make an opportunity attack using a Reaction. The round ends\\
+19+& You hit yourself hard. Roll damage and apply two critical hits against yourself. The round ends
+\end{tabularx}
 
-% Colora i quadrati 2, 3, 14 e 15 di arancione
-%\fill[orange!60, opacity=0.7] (1,3) rectangle (2,4); % quadrato 2
-%\fill[orange!60, opacity=0.7] (2,3) rectangle (3,4); % quadrato 3
-%\fill[orange!60, opacity=0.7] (1,0) rectangle (2,1); % quadrato 14
-%\fill[orange!60, opacity=0.7] (2,0) rectangle (3,1); % quadrato 15
+\medskip
 
-% Traccia linee dritte che attraversano i quadrati
-% Linea dal 3 al 14
-%\draw[red, ultra thick] (2.5,3.5) -- (1.5,0.5);
+\end{multicols}
 
-% Linea dal 2 al 15
-%\draw[blue, ultra thick] (1.5,3.5) -- (2.5,0.5);
+\textbf{Table: Random Weapon Generation}\index[Tables]{Random Weapon Generation Table}
 
-% Nuova linea da 4 a 13 (nera)
-%\draw[black, ultra thick] (3.5,3.5) -- (0.5,0.5);
+\medskip
 
-% Nuova linea da 1 a 16 (gialla)
-%\draw[yellow!80!black, ultra thick] (0.5,3.5) -- (3.5,0.5);
+\resizebox{\linewidth}{!}{\begin{tabular}{ll|ll|ll|ll}
+\toprule
+\textbf{1d100} & \textbf{Weapon} & \textbf{1d100} & \textbf{Weapon} & \textbf{1d100} & \textbf{Weapon} & \textbf{1d100} & \textbf{Weapon} \\
+\midrule
+1-2   & Broken weapon & 26-27 & Halberd & 51-52 & Short sword & 76-77 & Long sword \\
+3-4   & Longbow & 28-29 & Short bow & 53-54 & Double-bladed sword & 78-79 & Bastard sword \\
+5-6   & Battle axe & 30-31 & One-handed axe & 55-56 & Heavy pike & 80-81 & Broad sword \\
+7-8   & Hand crossbow & 32-33 & Staff & 57-58 & Dagger & 82-83 & Two-handed sword \\
+9-10  & Light crossbow & 34-35 & Sickle & 59-60 & Scimitar & 84-85 & Rapier \\
+11-12 & Heavy crossbow & 36-37 & Double flail & 61-62 & Light mace & 86-87 & Trident \\
+13-14 & Spiked chain & 38-39 & Whip & 63-64 & Flanged mace & 88-89 & Urgrosh \\
+15-16 & Estoc & 40-41 & Javelin & 65-66 & Spiked mace & 90-91 & Katana \\
+17-18 & Sickle & 42-43 & Machete & 67-68 & Light pike & 92-93 & Club \\
+19-20 & Poleaxe & 44-45 & War hammer & 69-70 & Spear & 94-95 & Spiked gauntlet \\
+21-22 & Composite longbow & 46-47 & Heavy flail & 71-72 & Flail & 96-97 & Axe hammer \\
+23-24 & Composite short bow & 48-49 & Infantry spear & 73-74 & Great double axe & 98-99 & War maul \\
+25    & Falchion & 50    & Cudgel & 75    & Short spear & 100   & Special weapon \\
+\bottomrule
+\end{tabular}}
 
-% Numera i quadrati da 1 a 16
-%\foreach \i in {0,...,3} {
-%	\foreach \j in {0,...,3} {
-%		\pgfmathtruncatemacro{\num}{4*(3-\j)+\i+1}
-%		\node at (\i+0.5,\j+0.5) {\Large \num};
-%	}
-%}
-%
-%\end{tikzpicture}
-
-%\smallskip
-
-%In this example	Characters at 1-16,2-15,3-14,4-15 are flanking the enemy.
+}}
 
 \pagebreak
 
-\noindent
+\subsection*{Random Name Generator}
+
+\begin{multicols}{2}
+
+To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Central ones, and 3d6 on the Final ones.
+
+{\small 
+
+\subsection*{Tables for Male Names}
+
+\subsubsection*{Male Initial Syllables}
+\noindent\begin{tabular}{|c|l||c|l|}
+\toprule
+\textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} \\
+\midrule
+3 & Zeph & 11 & Mer \\ 
+4 & Xar & 12 & Kor \\
+5 & Bra &    13 & Lun      \\
+6 & Cae & 14 & Nor     \\ 
+7 & Dar & 15 & Oth      \\ 
+8 & Eld &  16 & Quin \\
+9 & Gar  & 17 & Thaan \\
+10 & Hal &  18 & Zarak  \\
+\bottomrule
+\end{tabular}
+
+
+\subsubsection*{Central Syllables (2d6)}
+\noindent\begin{tabular}{|c|l||c|l|}
+\toprule
+\textbf{2d6} & \textbf{Syllable} & \textbf{2d6} & \textbf{Syllable} \\
+\midrule
+2 & - (skip) & 8 & ren \\
+3 & - (skip) & 9 & el \\
+4 & - (skip) & 10 & an \\
+5 & dor & 11 & en \\
+6 & gal & 12 & thil \\
+7 & ar & & \\
+\bottomrule
+\end{tabular}
+
+
+\subsubsection*{Male Final Syllables (3d6)}
+
+\noindent\begin{tabular}{|c|l||c|l||c|l|}
+\toprule
+\textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} \\
+\midrule
+3 & grim & 9 & dan & 15 & reth \\
+4 & thus & 10 & ion & 16 & thor \\
+5 & dus & 11 & dor & 17 & valos \\
+6 & kar & 12 & nor & 18 & zeth \\
+7 & las & 13 & on & & \\
+8 & mel & 14 & mir & & \\
+\bottomrule
+\end{tabular}
+
+
+\subsection*{Tables for Female Names}
+
+\subsubsection*{Female Initial Syllables (3d6)}
+
+\noindent\begin{tabular}{|c|l||c|l||c|l|}
+\toprule
+\textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} \\
+\midrule
+3 & Zara & 9 & Gwen & 15 & Ora \\
+4 & Xyla & 10 & Hel & 16 & Syl \\
+5 & Ara & 11 & Mira & 17 & Thea \\
+6 & Bel & 12 & Isa & 18 & Zyra \\
+7 & Cel & 13 & Lil & & \\
+8 & Ela & 14 & Nym & & \\
+\bottomrule
+\end{tabular}
+
+\subsubsection*{Female Final Syllables (3d6)}
+\noindent\begin{tabular}{|c|l||c|l||c|l|}
+\toprule
+\textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} \\
+\midrule
+3 & neth & 9 & ana & 15 & riel \\
+4 & essa & 10 & ara & 16 & tha \\
+5 & beth & 11 & elle & 17 & saal \\
+6 & dra & 12 & lynn & 18 & vyth \\
+7 & ena & 13 & ina & & \\
+8 & iel & 14 & mira & & \\
+\bottomrule
+\end{tabular}
+
+
+\subsection*{Fantasy Place Names}
+
+\subsubsection*{Place Prefixes (2d10)}
+\noindent\begin{tabular}{|c|l|c|l|c|l|}
+\hline
+\textbf{2d10} & \textbf{Prefix} & \textbf{2d10} & \textbf{Prefix} & \textbf{2d10} & \textbf{Prefix} \\
+\hline
+2 & Deep & 9 & Fort & 16 & Earth \\
+3 & High & 10 & Lake & 17 & Tower \\
+4 & Low & 11 & Mount & 18 & Valley \\
+5 & Wood & 12 & Stone & 19 & Wind \\
+6 & Field & 13 & Oak & 20 & Free \\
+7 & House & 14 & Rock & & \\
+8 & Hill & 15 & Sun & & \\
+\hline
+\end{tabular}
+
+\subsubsection*{Place Suffixes (2d10)}
+
+\noindent\begin{tabular}{|c|l|c|l|c|l|}
+\hline
+\textbf{2d10} & \textbf{Suffix} & \textbf{2d10} & \textbf{Suffix} & \textbf{2d10} & \textbf{Suffix} \\
+\hline
+2 & abyss & 9 & lands & 16 & rock \\
+3 & burg & 10 & mark & 17 & shore \\
+4 & farm & 11 & sea & 18 & valley \\
+5 & field & 12 & mount & 19 & pass \\
+6 & fort & 13 & nova & 20 & peak \\
+7 & guard & 14 & plain & & \\
+8 & haven & 15 & port & & \\
+\hline
+\end{tabular}
+
+
+
+\subsection*{Special Cultural Tables}
+
+\subsubsection*{Elven Names (2d12)}
+\textbf{Roll 2d12 for elven initials and finals:}
+
+\noindent\begin{tabular}{|c|l||c|l|}
+\toprule
+\textbf{2d12} & \textbf{Initial} & \textbf{2d12} & \textbf{Final} \\
+\midrule
+2 & Ael & 2 & adir \\
+3 & Cel & 3 & anduil \\
+4 & Elen & 4 & aron \\
+5 & Gal & 5 & dir \\
+6 & Gil & 6 & galadriel \\
+7 & Hal & 7 & las \\
+8 & Leg & 8 & moth \\
+9 & Mith & 9 & ond \\
+10 & Thran & 10 & riel \\
+11 & Elr & 11 & thil \\
+12 & Galar & 12 & wyn \\
+\bottomrule
+\end{tabular}
+
+
+\subsubsection*{Dwarven Names (2d12)}
+\textbf{Roll 2d12 for dwarven initials and finals:}
+
+\noindent\begin{tabular}{|c|l||c|l|}
+\toprule
+\textbf{2d12} & \textbf{Initial} & \textbf{2d12} & \textbf{Final} \\
+\midrule
+2 & Bal & 2 & dan \\
+3 & Bor & 3 & din \\
+4 & Dain & 4 & dur \\
+5 & Dur & 5 & grim \\
+6 & Gim & 6 & gar \\
+7 & Grim & 7 & kan \\
+8 & Kaz & 8 & mor \\
+9 & Mor & 9 & mur \\
+10 & Thar & 10 & rik \\
+11 & Thor & 11 & thor \\
+12 & Ur & 12 & zak \\
+\bottomrule
+\end{tabular}
+
+
+
+} %close small
+
+\end{multicols}
+
+\pagebreak
+
 
 \section{Author and Contributions}
 
@@ -44588,7 +44687,7 @@ And finally, an obvious point: \textbf{have fun}, all of you \textbf{strive} to 
 \pagebreak
 
 \begin{multicols}{4}
-	{\small\printindex[OBSSv2]}
+{\small\printindex[OBSSv2]}
 \end{multicols}
 
 \TotalBox{OBSSv2} \pagebreak
@@ -44617,7 +44716,7 @@ And finally, an obvious point: \textbf{have fun}, all of you \textbf{strive} to 
 \TotalBox{Spell}\pagebreak
 
 \begin{multicols}{3}
-	{\small\printindex[MagicItems]}
+{\small\printindex[MagicItems]}
 \end{multicols}
 
 %{\scriptsize\printindex[OggettiMagici]}
@@ -44634,7 +44733,7 @@ And finally, an obvious point: \textbf{have fun}, all of you \textbf{strive} to 
 \TotalBox{MagicItems}\pagebreak
 
 \begin{multicols}{3}
-	{\small\printindex[Feat]}
+{\small\printindex[Feat]}
 \end{multicols}
 
 \vfill
@@ -44642,7 +44741,7 @@ And finally, an obvious point: \textbf{have fun}, all of you \textbf{strive} to 
 \TotalBox{Feat}\pagebreak
 
 \begin{multicols}{3}
-	{\small\printindex[Monster]}
+{\small\printindex[Monster]}
 \end{multicols}
 
 \vfill
@@ -44659,11 +44758,11 @@ And finally, an obvious point: \textbf{have fun}, all of you \textbf{strive} to 
 \section*{Appendice N}
 
 \begin{multicols}{2}
-	{\small
-		\nocite{*}
-		\setlength{\columnsep}{1cm} % spazio tra colonne
-		\printbibliography
-	}
+{\small
+\nocite{*}
+\setlength{\columnsep}{1cm} % spazio tra colonne
+\printbibliography
+}
 \end{multicols}
 
 \end{document}

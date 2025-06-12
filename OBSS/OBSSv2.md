@@ -17087,7 +17087,7 @@ Questi tiri critici molto legati all'aleatorietà dei dadi potrebbero non piacer
 - considerare come un **successo critico** una prova **riuscita di 8** o più.
 - per **ogni multiplo di 8** per il quale la prova è riuscita o fallita si **cumula** rispettivamente un **successo o fallimento critico addizionale**.
 
-Lo stesso principio vale per la Prova di Magia che si esegue tirando 3d6 + Competenza Magica + modificatore di caratteristica per incantesimi + 1*Adepto della Magia ed il risultato deve superare una difficoltà pari 10 + Livello di Magia manifestata*3. 
+Lo stesso principio vale per la **Prova di Magia** che si esegue tirando 3d6 + Competenza Magica + modificatore di caratteristica per incantesimi + 1*Adepto della Magia ed il risultato deve superare una difficoltà pari 10 + Livello di Magia*x2 manifestata. L'armatura aggiunge +4 di difficoltà per grado di *persantezza*. 
 
 Questa Opzione rende molto più efficaci i personaggi nelle sfide contro avversari di basso rango.
 
@@ -35318,13 +35318,13 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 **Vulnerabilità**: funziona al contrario della Resistenza. Il danno viene raddoppiato prima dell'eventuale Tiro Salvezza.
 
+---
+
 ## Tabelle per tiri casuali
 
 | **3d6** | **Effetto** |
 | 3 | Sei imbarazzato del tuo colpo, ma non succede nulla di particolare |
 | 4 | Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa |
-
-| **3d6** | **Effetto** |
 | 5 | Metti male il piede. Fino alla fine del prossimo round tratti il terreno come difficile |
 | 6 | Perdi il fiato. Fino all'inizio del prossimo round ha -1 Forza |
 | 7 | Piroetta. Ti sposti in una direzione casuale di 1 metro |
@@ -35335,35 +35335,139 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 | 12 | Caviglia fragile. Portando il colpo inciampi. Cadi prono |
 | 13 | Ti cade l'arma a 3 metri in una direzione casuale |
 | 14 | Perdi fiducia in te stesso. Il prossimo attacco lo esegui con un -4 aggiuntivo |
-
-| **3d6** | **Effetto** |
 | 15 | Bersaglio sbagliato. Colpisci una creatura a caso a portata. |
 | 16 | Confuso. Ti dai una botta sulla testa. Fino alla fine del round sei sotto l'incantesimo Confusione |
 | 17 | Ti colpisci con forza. Tira il danno regolare verso te stesso. Il round finisce |
 | 18 | Ti colpisci con forza alla testa. Come 17 e chi è in mischia contro di te può effettuare un attacco d'opportunità usando una Reazione. Il round finisce |
 | 19+ | Ti colpisci con forza. Tira il danno e applica due colpi critici verso te stesso. Il round finisce |
+			
+			
+			
+			
+		
+		
 
-**Generatore di nomi**
+		**Tabella: generazione casuali armi**
+
+---
+
+# Generatore Nomi Casuali
 
 	
+Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle Centrali e 3d6 sulla Finale.
 
-| \# | 1d8 | 1d8 | 1d8 |
-| 1 | An | la | mo |
-| 2 | Vi | ca | ta |
-| 3 | Lan | da | to |
-| 4 | Es | per | ro |
-| 5 | Ma | li | ka |
-| 6 | Bra | sa | sa |
-| 7 | Car | fe | la |
-| 8 | Ro | len | ry |
+## Tabelle per Nomi Maschili
 
-**Tabella: generazione casuali armi**
+### Sillabe Iniziali Maschili
 
-**Tabella: forme degli incantesimi - Sfera e Cono**
+| **3d6** | **Sillaba** | **3d6** | **Sillaba** |
+| 3 | Zeph | 11 | Mer |
+| 4 | Xar | 12 | Kor |
+| 5 | Bra | 13 | Lun |
+| 6 | Cae | 14 | Nor |
+| 7 | Dar | 15 | Oth |
+| 8 | Eld | 16 | Quin |
+| 9 | Gar | 17 | Thaan |
+| 10 | Hal | 18 | Zarak |
+### Sillabe Centrali (2d6)
 
-Il punto blu determina l'origine dell'incantesimo
+| **2d6** | **Sillaba** | **2d6** | **Sillaba** |
+| 2 | - (salta) | 8 | ren |
+| 3 | - (salta) | 9 | el |
+| 4 | - (salta) | 10 | an |
+| 5 | dor | 11 | en |
+| 6 | gal | 12 | thil |
+| 7 | ar |  | |
+### Sillabe Finali Maschili (3d6)
 
-**Esempi portata dei nemici**
+| **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
+| 3 | grim | 9 | dan | 15 | reth |
+| 4 | thus | 10 | ion | 16 | thor |
+| 5 | dus | 11 | dor | 17 | valos |
+| 6 | kar | 12 | nor | 18 | zeth |
+| 7 | las | 13 | on |  | |
+| 8 | mel | 14 | mir |  | |
+
+## Tabelle per Nomi Femminili
+
+### Sillabe Iniziali Femminili (3d6)
+
+| **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
+| 3 | Zara | 9 | Gwen | 15 | Ora |
+| 4 | Xyla | 10 | Hel | 16 | Syl |
+| 5 | Ara | 11 | Mira | 17 | Thea |
+| 6 | Bel | 12 | Isa | 18 | Zyra |
+| 7 | Cel | 13 | Lil |  | |
+| 8 | Ela | 14 | Nym |  | |
+### Sillabe Finali Femminili (3d6)
+
+| **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
+| 3 | neth | 9 | ana | 15 | riel |
+| 4 | essa | 10 | ara | 16 | tha |
+| 5 | beth | 11 | elle | 17 | saal |
+| 6 | dra | 12 | lynn | 18 | vyth |
+| 7 | ena | 13 | ina |  | |
+| 8 | iel | 14 | mira |  | |
+
+## Nomi di Luoghi Fantasy
+
+### Prefissi per Luoghi (2d10)
+
+| **2d10** | **Prefisso** | **2d10** | **Prefisso** | **2d10** | **Prefisso** |
+| 2 | Fonda | 9 | Forte | 16 | Terra |
+| 3 | Alto | 10 | Lago | 17 | Torre |
+| 4 | Basso | 11 | Monte | 18 | Valle |
+| 5 | Bosco | 12 | Pietra | 19 | Vento |
+| 6 | Campo | 13 | Quercia | 20 | Libera |
+| 7 | Casa | 14 | Rocca |  | |
+| 8 | Colle | 15 | Sole |  | |
+### Suffissi per Luoghi (2d10)
+
+| **2d10** | **Suffisso** | **2d10** | **Suffisso** | **2d10** | **Suffisso** |
+| 2 | abisso | 9 | lande | 16 | rocca |
+| 3 | borgo | 10 | marca | 17 | sponda |
+| 4 | maso | 11 | mare | 18 | valle |
+| 5 | campo | 12 | monte | 19 | varco |
+| 6 | forte | 13 | nova | 20 | vetta |
+| 7 | gard | 14 | piana |  | |
+| 8 | haven | 15 | porto |  | |
+
+## Tabelle Speciali per Culture
+
+### Nomi Elfici (2d12)
+**Tira 2d12 per iniziali e finali elfiche:**
+
+| **2d12** | **Iniziale** | **2d12** | **Finale** |
+| 2 | Ael | 2 | adir |
+| 3 | Cel | 3 | anduil |
+| 4 | Elen | 4 | aron |
+| 5 | Gal | 5 | dir |
+| 6 | Gil | 6 | galadriel |
+| 7 | Hal | 7 | las |
+| 8 | Leg | 8 | moth |
+| 9 | Mith | 9 | ond |
+| 10 | Thran | 10 | riel |
+| 11 | Elr | 11 | thil |
+| 12 | Galar | 12 | wyn |
+### Nomi Nanici (2d12)
+
+**Tira 2d12 per iniziali e finali naniche:**
+
+| **2d12** | **Iniziale** | **2d12** | **Finale** |
+| 2 | Bal | 2 | dan |
+| 3 | Bor | 3 | din |
+| 4 | Dain | 4 | dur |
+| 5 | Dur | 5 | grim |
+| 6 | Gim | 6 | gar |
+| 7 | Grim | 7 | kan |
+| 8 | Kaz | 8 | mor |
+| 9 | Mor | 9 | mur |
+| 10 | Thar | 10 | rik |
+| 11 | Thor | 11 | thor |
+| 12 | Ur | 12 | zak |
+
+} %chiusi small
+
 ---
 
 # Autore e Contributi
@@ -35436,7 +35540,7 @@ Al mio tavolo da gioco solitamente propongo queste Opzioni, da decidere in Sessi
 
 - Successo Parziale pag. 
 - Variante Iniziativa, solo se ho giocatori esperti. Pag. 
-- Partendo con Variante Tiro Critico, Tiro Critico Variante, Azioni Tiro Critico, Variante Attacchi multipli sono a scelta del giocatore se usarli o meno. Pag. , pag. , pag.  e pag. . Sono Opzioni suggerite per giocatori già con esperienza.
+- Partendo con Variante Tiro Critico, Tiro Critico Variante, Azioni Tiro Critico, Variante Attacchi multipli sono a scelta del giocatore se usarli o meno. Pag. , pag. , pag.  e pag. . Sono Opzioni suggerite per giocatori già con esperienza e consapevoli del proprio personaggio.
 - Opzionale - Elenco Manovre d'Arme (pag. ) per rendere meno *noiso* il fumbolare...
 - Un solo credo o Abilità di Lista, a scelta del giocatore.
 - Componenti come offerta per una magia personale, diversa e unica, sempre legata al personaggio. Pag. 
