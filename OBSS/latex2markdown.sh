@@ -95,7 +95,25 @@ sed -i '/\\end{enumerate}/d' OBSSv2.md
 sed -i '/\\begin{enumerate}\[leftmargin=\*\]/d' OBSSv2.md
 sed -i 's/\\emph, altre entità/esseri, altre entità/g' OBSSv2.md
 sed -i 's/aspettative di questi \\emph/aspettative di questi esseri/g' OBSSv2.md
-
+sed -i '/| Ambiente:/,/| Organizzazione:/{
+    # Rimuovi le pipe e converti in testo normale
+    s/^|[[:space:]]*\([^|]*\)[[:space:]]*|$/\1/
+    # Rimuovi le linee separatrici
+    /^[[:space:]]*---[[:space:]]*$/d
+    # Aggiungi una linea vuota dopo ogni elemento convertito
+    /^Ambiente:/a\\
+    /^Organizzazione:/a\\
+}' OBSSv2.md
+sed -i '/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |/{N;s/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n| 3 | Zeph | 11 | Mer |/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n|---|---|---|---|\n| 3 | Zeph | 11 | Mer |/;}' OBSSv2.md
+sed -i '/| \*\*2d6\*\* | \*\*Sillaba\*\* | \*\*2d6\*\* | \*\*Sillaba\*\* |/{N;s/| \*\*2d6\*\* | \*\*Sillaba\*\* | \*\*2d6\*\* | \*\*Sillaba\*\* |\n| 2 | - (salta) | 8 | ren |/| \*\*2d6\*\* | \*\*Sillaba\*\* | \*\*2d6\*\* | \*\*Sillaba\*\* |\n|---|---|---|---|\n| 2 | - (salta) | 8 | ren |/;}' OBSSv2.md
+sed -i '/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |/{N;s/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n| 3 | grim | 9 | dan | 15 | reth |/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n|---|---|---|---|---|---|\n| 3 | grim | 9 | dan | 15 | reth |/;}' OBSSv2.md
+sed -i '/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |/{N;s/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n| 3 | Zara | 9 | Gwen | 15 | Ora |/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n|---|---|---|---|---|---|\n| 3 | Zara | 9 | Gwen | 15 | Ora |/;}' OBSSv2.md
+sed -i '/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |/{N;s/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n| 3 | neth | 9 | ana | 15 | riel |/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n|---|---|---|---|---|---|\n| 3 | neth | 9 | ana | 15 | riel |/;}' OBSSv2.md
+sed -i '/| \*\*2d10\*\* | \*\*Prefisso\*\* | \*\*2d10\*\* | \*\*Prefisso\*\* | \*\*2d10\*\* | \*\*Prefisso\*\* |/{N;s/| \*\*2d10\*\* | \*\*Prefisso\*\* | \*\*2d10\*\* | \*\*Prefisso\*\* | \*\*2d10\*\* | \*\*Prefisso\*\* |\n| 2 | Fonda | 9 | Forte | 16 | Terra |/| \*\*2d10\*\* | \*\*Prefisso\*\* | \*\*2d10\*\* | \*\*Prefisso\*\* | \*\*2d10\*\* | \*\*Prefisso\*\* |\n|---|---|---|---|---|---|\n| 2 | Fonda | 9 | Forte | 16 | Terra |/;}' OBSSv2.md
+sed -i '/| \*\*2d10\*\* | \*\*Suffisso\*\* | \*\*2d10\*\* | \*\*Suffisso\*\* | \*\*2d10\*\* | \*\*Suffisso\*\* |/{N;s/| \*\*2d10\*\* | \*\*Suffisso\*\* | \*\*2d10\*\* | \*\*Suffisso\*\* | \*\*2d10\*\* | \*\*Suffisso\*\* |\n| 2 | abisso | 9 | lande | 16 | rocca |/| \*\*2d10\*\* | \*\*Suffisso\*\* | \*\*2d10\*\* | \*\*Suffisso\*\* | \*\*2d10\*\* | \*\*Suffisso\*\* |\n|---|---|---|---|---|---|\n| 2 | abisso | 9 | lande | 16 | rocca |/;}' OBSSv2.md
+sed -i '/| \*\*2d12\*\* | \*\*Iniziale\*\* | \*\*2d12\*\* | \*\*Finale\*\* |/{N;s/| \*\*2d12\*\* | \*\*Iniziale\*\* | \*\*2d12\*\* | \*\*Finale\*\* |\n| 2 | Ael | 2 | adir |/| \*\*2d12\*\* | \*\*Iniziale\*\* | \*\*2d12\*\* | \*\*Finale\*\* |\n|---|---|---|---|\n| 2 | Ael | 2 | adir |/;}' OBSSv2.md
+sed -i '/| \*\*2d12\*\* | \*\*Iniziale\*\* | \*\*2d12\*\* | \*\*Finale\*\* |/{N;s/| \*\*2d12\*\* | \*\*Iniziale\*\* | \*\*2d12\*\* | \*\*Finale\*\* |\n| 2 | Bal | 2 | dan |/| \*\*2d12\*\* | \*\*Iniziale\*\* | \*\*2d12\*\* | \*\*Finale\*\* |\n|---|---|---|---|\n| 2 | Bal | 2 | dan |/;}' OBSSv2.md
+sed -i '/} %chiusi small/d' OBSSv2.md
 
 sed -i 's/\\cline{[^}]*}//g' OBSSv2-eng.md
 sed -i '/Old Bell School System/c**Old Bell School System - OBSS - Fantasy Adventure Game**' OBSSv2-eng.md
@@ -192,7 +210,25 @@ sed -i '/\*\*Treasure Category\*\*:/{N;s/\(\*\*Treasure Category\*\*:.*\)\n\(\*\
 sed -i 's/\\resizebox{0\.5\\linewidth+1\.4cm{!}{//g' OBSSv2-eng.md
 sed -i '/\\end{enumerate}/d' OBSSv2-eng.md
 sed -i '/\\begin{enumerate}\[leftmargin=\*\]/d' OBSSv2-eng.md
-
+sed -i '/| Environment:/,/| Organization:/{
+    # Rimuovi le pipe e converti in testo normale
+    s/^|[[:space:]]*\([^|]*\)[[:space:]]*|$/\1/
+    # Rimuovi le linee separatrici
+    /^[[:space:]]*---[[:space:]]*$/d
+    # Aggiungi una linea vuota dopo ogni elemento convertito
+    /^Environment:/a\\
+    /^Organization:/a\\
+}' OBSSv2-eng.md
+sed -i '/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |/{N;s/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |\n| 3 | Zeph | 11 | Mer |/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |\n|---|---|---|---|\n| 3 | Zeph | 11 | Mer |/;}' OBSSv2-eng.md
+sed -i '/| \*\*2d6\*\* | \*\*Syllable\*\* | \*\*2d6\*\* | \*\*Syllable\*\* |/{N;s/| \*\*2d6\*\* | \*\*Syllable\*\* | \*\*2d6\*\* | \*\*Syllable\*\* |\n| 2 | - (skip) | 8 | ren |/| \*\*2d6\*\* | \*\*Syllable\*\* | \*\*2d6\*\* | \*\*Syllable\*\* |\n|---|---|---|---|\n| 2 | - (skip) | 8 | ren |/;}' OBSSv2-eng.md
+sed -i '/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |/{N;s/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |\n| 3 | grim | 9 | dan | 15 | reth |/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |\n|---|---|---|---|---|---|\n| 3 | grim | 9 | dan | 15 | reth |/;}' OBSSv2-eng.md
+sed -i '/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |/{N;s/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |\n| 3 | Zara | 9 | Gwen | 15 | Ora |/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |\n|---|---|---|---|---|---|\n| 3 | Zara | 9 | Gwen | 15 | Ora |/;}' OBSSv2-eng.md
+sed -i '/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |/{N;s/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |\n| 3 | neth | 9 | ana | 15 | riel |/| \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* | \*\*3d6\*\* | \*\*Syllable\*\* |\n|---|---|---|---|---|---|\n| 3 | neth | 9 | ana | 15 | riel |/;}' OBSSv2-eng.md
+sed -i '/| \*\*2d10\*\* | \*\*Prefix\*\* | \*\*2d10\*\* | \*\*Prefix\*\* | \*\*2d10\*\* | \*\*Prefix\*\* |/{N;s/| \*\*2d10\*\* | \*\*Prefix\*\* | \*\*2d10\*\* | \*\*Prefix\*\* | \*\*2d10\*\* | \*\*Prefix\*\* |\n| 2 | Deep | 9 | Fort | 16 | Earth |/| \*\*2d10\*\* | \*\*Prefix\*\* | \*\*2d10\*\* | \*\*Prefix\*\* | \*\*2d10\*\* | \*\*Prefix\*\* |\n|---|---|---|---|---|---|\n| 2 | Deep | 9 | Fort | 16 | Earth |/;}' OBSSv2-eng.md
+sed -i '/| \*\*2d10\*\* | \*\*Suffix\*\* | \*\*2d10\*\* | \*\*Suffix\*\* | \*\*2d10\*\* | \*\*Suffix\*\* |/{N;s/| \*\*2d10\*\* | \*\*Suffix\*\* | \*\*2d10\*\* | \*\*Suffix\*\* | \*\*2d10\*\* | \*\*Suffix\*\* |\n| 2 | abyss | 9 | lands | 16 | rock |/| \*\*2d10\*\* | \*\*Suffix\*\* | \*\*2d10\*\* | \*\*Suffix\*\* | \*\*2d10\*\* | \*\*Suffix\*\* |\n|---|---|---|---|---|---|\n| 2 | abyss | 9 | lands | 16 | rock |/;}' OBSSv2-eng.md
+sed -i '/| \*\*2d12\*\* | \*\*Initial\*\* | \*\*2d12\*\* | \*\*Final\*\* |/{N;s/| \*\*2d12\*\* | \*\*Initial\*\* | \*\*2d12\*\* | \*\*Final\*\* |\n| 2 | Ael | 2 | adir |/| \*\*2d12\*\* | \*\*Initial\*\* | \*\*2d12\*\* | \*\*Final\*\* |\n|---|---|---|---|\n| 2 | Ael | 2 | adir |/;}' OBSSv2-eng.md
+sed -i '/| \*\*2d12\*\* | \*\*Initial\*\* | \*\*2d12\*\* | \*\*Final\*\* |/{N;s/| \*\*2d12\*\* | \*\*Initial\*\* | \*\*2d12\*\* | \*\*Final\*\* |\n| 2 | Bal | 2 | dan |/| \*\*2d12\*\* | \*\*Initial\*\* | \*\*2d12\*\* | \*\*Final\*\* |\n|---|---|---|---|\n| 2 | Bal | 2 | dan |/;}' OBSSv2-eng.md
+sed -i '/} %close small/d' OBSSv2-eng.md
 
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2.md > obtemp.md && mv obtemp.md OBSSv2.md
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2-eng.md > obtemp.md && mv obtemp.md OBSSv2-eng.md
