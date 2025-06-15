@@ -1,129 +1,194 @@
-\documentclass[12pt,a4paper,twoside,openany]{book}
-\usepackage{quoting}
-\usepackage{tcolorbox}
-\usepackage{tikz}
-\usetikzlibrary{shadows}
-\usepackage{multicol}
-\usepackage{tocloft}
-\usepackage{lmodern}
-\usepackage{caption}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{setspace}
+\documentclass[a4paper,twoside,openany]{book}
+
+% ----- GEOMETRIA DI BASE -----
 \usepackage[a4paper]{geometry}
-\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}  %std
-\setcounter{secnumdepth}{-1}
-\usepackage{booktabs}
-\usepackage{url}
+\geometry{tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
+
+% ----- PACCHETTI BASE -----
+\usepackage[italian=guillemets]{csquotes}
 \usepackage[italian]{babel}
 \usepackage{setspace}
-\usepackage{graphicx}
-\usepackage{amssymb}
-\usepackage{makeidx}
-%\usepackage[allfiguresdraft]{draftfigure}
-%\usepackage{slashbox}
-\usepackage{multirow}
-\usepackage{titlesec}
-\usepackage[unicode=true, bookmarks=true,
-pdftitle={Dark Catacomb - DKC},pdfauthor={Andres Zanzani},
-breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
-{hyperref}
-\hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
-\usepackage{bookmark}
-\usepackage{yfonts}
-\usepackage{auncial}
+\usepackage{graphics}
+\usepackage{tocloft}
+\usepackage{caption}
 \usepackage{ragged2e}
-\usepackage{ulem}
+\usepackage{quoting,enumitem}
+\usepackage{amssymb,siunitx}
+\usepackage{multicol, array,wrapfig}
+\usepackage{url}
+\def\UrlBreaks{\do\/\do-\do_\do.\do:\do=\do&}
+\usepackage{titlesec,adjustbox}
+\usepackage[backend=bibtex]{biblatex}
+\addbibresource{bibliografia.bib}
+\usepackage{microtype}
 
+% ----- PACCHETTI PER TABELLE -----
+\usepackage{booktabs,multirow}
+\usepackage{xltabular,tabularx}
 
-\usepackage{fontspec}
-\setmainfont[Path=./, BoldItalicFont=Soutane Bold Italic.ttf, ItalicFont=Soutane Italic.ttf, BoldFont=Soutane Bold.ttf, Ligatures=TeX, Scale=0.94]{Soutane Regular.ttf} 
+% ----- PACCHETTI PER GRAFICA E COLORI -----
+\usepackage{tikz}
+\usetikzlibrary{shadows,shapes.misc,calc}
+\definecolor{lightgray}{gray}{0.95}
 
-
-\usepackage{wrapfig}
-\usepackage{fancyhdr}
+% ----- PACCHETTI PER BOX E CORNICI -----
 \usepackage{tcolorbox}
 \tcbuselibrary{skins}
-\tcbset{colback=brown!10, fonttitle=\scshape}
-\usepackage{imakeidx}
-\usepackage{cancel}
+\usepackage[framemethod=TikZ]{mdframed}
 
-\makeindex[columns=3, title=Indice Analitico, intoc=true]
-\usetikzlibrary{shapes.misc,calc}
-\definecolor{lightgray}{gray}{0.95}
-\usetikzlibrary{shapes.misc,calc}
-\definecolor{lightgray}{gray}{0.95}
+% ----- PACCHETTI PER INDICI -----
+\usepackage{makeidx,index,imakeidx}
+
+% ----- PACCHETTI VARI -----
+\usepackage{soul}
+\usepackage{pdfpages}
+\usepackage{etoolbox}
+\usepackage{listings}
+\usepackage{zref-savepos}
+\usepackage[absolute,overlay]{textpos}
+\usepackage[T1]{fontenc}
+\usepackage{DejaVuSansMono}
+
+\PassOptionsToPackage{unicode,bookmarks=true,colorlinks=true,linkcolor=blue}{hyperref}
+
+% Carica bookmark prima di hyperref
+\usepackage{bookmark}
+\usepackage{hyperref}
+
+% Configurazioni hyperref
+\hypersetup{
+	pdftitle={Dark Catacomb},
+	pdfsubject={Gioco di Ruolo per Avventure Incredibili},
+	pdfauthor={Andres Zanzani},
+	breaklinks=false,
+	pdfborder={0 0 1},
+	backref=section,
+	pdfcreator={LaTeX}
+}
+
+% ----- CONFIGURAZIONI -----
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{3}
+\raggedbottom
+\tcbset{colback=brown!10, fonttitle=\scshape}
+
+% ----- CONFIGURAZIONE INDICI -----
+\def\CountIndexOccurrences#1{%
+	\expandafter\newcount\csname #1\endcsname%
+	\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
+	\IfFileExists{#1.idx}{\input{#1.idx}}{}%
+}
+
+\CountIndexOccurrences{DarkCatacomb}
+\CountIndexOccurrences{Incantesimi}
+\CountIndexOccurrences{Mostruario}
+\CountIndexOccurrences{Tabelle}
+\CountIndexOccurrences{OggettiMagici}
+\CountIndexOccurrences{Abilita}
+
+\def\TotalBox#1{\vfill%
+	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
+
+\makeindex[columns=1, title=Indice Analitico, intoc=true]
+\makeindex[columns=1, name=Tabelle, title=Elenco delle Tabelle, intoc=true]
+\makeindex[columns=1, name=Incantesimi, title=Elenco degli Incantesimi, intoc=true]
+\makeindex[columns=1, name=Mostruario, title=Elenco dei Mostri, intoc=true]
+\makeindex[columns=1, name=OggettiMagici, title=Elenco degli Oggetti Magici, intoc=true]
+\makeindex[columns=1, name=Abilita, title=Elenco delle Abilità, intoc=true]
+
+% ----- CONFIGURAZIONE INTESTAZIONI -----
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\fancyhf{} 
+\fancyhf{}
 \fancyhead[LE,RO]{\leftmark}
-\fancyhead[RE,LO]{}
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
+\fancypagestyle{plain}{%
+	\fancyhf{}
+	\fancyhead[RO]{%
+		\rotatebox{90}{
+			\begin{tikzpicture}[overlay,remember picture]
+				\node[
+				fill=lightgray,
+				text=black,
+				font=\footnotesize,
+				inner ysep=12pt,
+				inner xsep=20pt,
+				rounded rectangle,
+				anchor=east,
+				minimum width=7cm,
+				xshift=-60mm,
+				yshift=-21mm,
+				text height=0.4cm
+				] at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
+				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\end{tikzpicture}
+		}
+	}
+	\fancyhead[LE]{%
+		\rotatebox{90}{
+			\begin{tikzpicture}[overlay,remember picture]
+				\node[
+				fill=lightgray,
+				text=black,
+				font=\footnotesize,
+				inner ysep=12pt,
+				inner xsep=20pt,
+				rounded rectangle,
+				anchor=east,
+				minimum width=7cm,
+				xshift=-60mm,
+				yshift=-4mm,
+				text height=0.4cm
+				] at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
+				{\sffamily\itshape\small\nouppercase{\leftmark}};
+			\end{tikzpicture}
+		}
+	}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+	\fancyfoot[C]{\thepage}
+}
+\pagestyle{plain}
 
-\usepackage{xltabular}
-\usepackage{tabularx}
-\usepackage{pdfpages}
-\usepackage{hyperref}
-\usepackage{tikz}
-\usepackage[absolute,overlay]{textpos}
-\usepackage{etoolbox}
-\usepackage{soul}
-\raggedbottom
-\usepackage{array}
-\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-\newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-\newcolumntype{D}[1]{>{\centering}m{#1}}
-\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
-\titleformat{\section}{\filcenter\huge\bfseries\accanthis}{\thesection}{1em}\textsc{}
-\titleformat{\subsection}{\Large\bfseries\accanthis}{\thesubsection}{1em}\textsc{}
-\titleformat{\subsubsection}{\normalsize\bfseries\accanthis}{\thesubsubsection}{1em}\textsc{}
+% ----- DEFINIZIONI PER MARGINI -----
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
-\setcounter{tocdepth}{3}
+
+% ----- AMBIENTI PERSONALIZZATI -----
 \newtcolorbox{narratore}{
-	enhanced, % enable advanced settings
-	%left = 3mm,
-	%width=0.45\textwidth,
-	left = 9mm, % pushes text away from the left edge by 10mm
-	sharp corners, % disables rounded corners
-	rounded corners = southeast, % "round" the bottom right corner
-	arc is angular, % make the "round" corner an angle
-	arc = 3mm, % controls corner cut
-	boxrule=0.6pt, % sets box line thickness
+	enhanced,
+	left = 9mm,
+	sharp corners,
+	rounded corners = southeast,
+	arc is angular,
+	arc = 3mm,
+	boxrule=0.6pt,
 	underlay={%
-		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
-		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
+		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2);
+		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2);
 		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
 	},
-	drop fuzzy shadow }
+	drop fuzzy shadow
+}
 
 \newtcolorbox{enfasi}{
 	enhanced,
 	arc=5pt,
 	boxrule=0.3pt
-} 
-
-\usepackage{zref-savepos,graphicx}
-\newcommand{\filltopageendgraphics}[2][]{%\filltopageendgraphics[width=.5\linewidth]{image-a}
-	\par
-	\zsaveposy{top-\thepage}% Mark (baseline of) top of image
-	\vfill
-	\zsaveposy{bottom-\thepage}% Mark (baseline of) bottom of image
-	\smash{\includegraphics[keepaspectratio=true,height=\dimexpr\zposy{top-\thepage}sp-\zposy{bottom-\thepage}sp\relax,#1]{#2}}%
-	\par
 }
 
 
-\usepackage{accanthis}
-\usepackage[framemethod=TikZ]{mdframed}
-
+\titlespacing{\section}{0pt}{10pt}{5pt} % Sezione
+\titlespacing{\subsection}{0pt}{8pt}{4pt} % Sottosezione
+\titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sotto-sottosezione
+\sloppy
 
 \begin{document}
 	
-\def \versione {0.1}
+\def \versione {0.0.2} \fontsize{12}{13}\selectfont 
+
 \thispagestyle{empty}
  
 {\Huge \begin{center}
@@ -189,8 +254,6 @@ Non temere l'ignoto, affrontalo con rispetto.
 
 \end{mdframed}
 
-%}%
-%}
 
 \pagebreak
 
@@ -255,7 +318,7 @@ Dio disse: «Sia la luce!». E la luce fu. Dio vide che la luce era cosa buona e
 \section{Introduzione}\index{Introduzione}
 
 
-esplorazione, colonizzazione, liberazione regioni, liberazioni vecchie citta, salvezza personale
+esplorazione, colonizzazione, liberazione regioni, liberazioni vecchie citta', salvezza personale
 
 far west
 
@@ -565,7 +628,7 @@ Queste Caratteristiche sono \textbf{Corpo} \index{Corpo}, \textbf{Mente} \index{
 
 \subsection{Come stabilire le Caratteristiche del personaggio}\index{Come stabilire le Caratteristiche del personaggio}
 
-Ogni personaggio ha 2 punti da distribuire sulle 3 caratteristiche.
+Ogni personaggio ha 4 punti da distribuire sulle 3 Caratteristiche. Con un minimo di 1 punto per Caratteristica
 
 \end{multicols}
 
@@ -596,9 +659,7 @@ I punti Chaos vengono azzerati e reimpostati a 3 ad ogni sessione di gioco.
 
 \begin{multicols}{2}
 	
-Quando il Demiurgo stabilisce che la verifica di una situazione è necessaria, perché non è semplice ne immediata rifarla chiede di fare una Prova.
-
-Le Prove vanno eseguite solo quando c'è un motivo, l'esito non è scontato, il fallimento può portare ad un evolversi della scena.
+Le Prove vanno eseguite solo quando c'è un motivo, l'esito non è scontato, il fallimento può portare ad un evolversi della scena, è il Demiurgo a stabilire che Prova è necessaria e quale è la Difficoltà (DC).
 
 Se la Prova può essere ripetuta o non c'è rischio nel farla allora non ha senso farla, il successo sarà automatico al più il Demiurgo descriverà i tentativi ed i problemi incorsi fino al successo.
 
@@ -611,16 +672,16 @@ Il Personaggio in base a quello che viene dichiarato effettuerà una Prova per c
 \begin{tabular*}{0.93\linewidth}{@{\extracolsep{\fill}}lll}
 \textbf{Corpo} & \textbf{Mente} & \textbf{Volontà}\\
 \toprule
-Atletica				& \textbf{Armi moderne}		& Artigianato	\\	
-Arrampicarsi			& Conoscenza *				& Cavalcare		\\
-Artista della fuga		& Erboristeria				& Diplomazia	\\
-\textbf{Armi piccole}	& Disattivare congegni		& Consapevolezza	\\
-\textbf{Armi medie} 	& Falsificare				& \textbf{Armi da Tiro}\\
-\textbf{Armi grandi}	& \textbf{Incantamento}		& Gestire animali\\
-Intimidire		 		& Ingannare					& Furtività\\
-Nuotare					& Intrattenere				& Percepire Emozioni\\
-\textbf{Rissa}			& Mani di fata				& Sopravvivenza \\ 
-Usare corda		 		& Pronto soccorso			& Natura\\
+Arrampicarsi             & \textbf{Armi moderne}      & \textbf{Armi da Tiro} \\
+Artista della fuga       & Conoscenza *               & Artigianato \\
+\textbf{Armi piccole}    & Disattivare congegni       & Cavalcare \\
+\textbf{Armi medie}      & Erboristeria               & Consapevolezza \\
+\textbf{Armi grandi}     & Falsificare                & Diplomazia \\
+Atletica                 & \textbf{Incantamento}      & Gestire animali \\
+Intimidire               & Ingannare                  & Furtività \\
+Nuotare                  & Intrattenere               & Natura \\
+\textbf{Rissa}           & Mani di fata               & Percepire Emozioni \\
+Usare corda              & Pronto soccorso            & Sopravvivenza \\
 
 
 
@@ -637,56 +698,65 @@ Alcune Competenze hanno una importanza peculiare nel sistema: \textbf{Incantamen
 
 Le Prove si eseguono tirando un certo numero di dadi a 6 facce e si verifica quante facce mostrano lo stesso numero.
 
-Per ogni punto di Caratteristica e punto di Competenza sommo al 1d6 iniziale quell'ammontare di dadi. Se ho Mente 1 e Erboristeria 2 eseguirò una prova tirando 4 dadi a 6, ovvero 4d6.
+Sommo ogni punto di Caratteristica e punto di Competenza. Se ho Mente 1 e Erboristeria 2 eseguirò una prova tirando 3 dadi a 6, ovvero 3d6.
 
 La difficoltà nelle prove viene indicata dal numero di dadi uguali tirati.
 
-\begin{tabular}{ll}
-	\textbf{Difficoltà} & \textbf{Numero dadi uguali}	\\
-	Facile				& 1						\\
-	Normale				& 2						\\
-	Difficile			& 3						\\
-	Molto Difficile		& 4						\\
-	Eroica				& 5						\\
-	Quasi impossibile	& 6						\\
-	Impossibile			& 7						\\
+\medskip
+
+\noindent\begin{tabular}{l|l|l}
+	\textbf{Difficoltà} & \multirow{2}{*}\textbf{Dadi}	& \textbf{Alternativi}\\
+	& = &\\
+	\textbf{Facile}				& 1					& -	\\
+	\textbf{Normale}			& 2					& -	\\
+	\textbf{Difficile}			& 3					& 2 Coppie	\\
+	\textbf{Molto Difficile}	& 4					& 1 Tris+1 Coppia\\
+	\textbf{Eroica}				& 5					& 2 Tris	\\
+	\textbf{Quasi impossibile}	& 6					& 1 Poker+1 Tris	\\
+	\textbf{Impossibile}		& 7					& 1 Scala+1 Tris	\\
 	
 \end{tabular}
 
-%Esempi:
 
-%\begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2cm]
-%	\item [3,3]: conto due dadi uguali
-%	\item [1,2,1]: conto due dadi uguali	
-%	\item [1,2,2,2]: conto tre dadi uguali
-%	\item [1,1,2,2]: conto tre dadi uguali
-%	\item [1,1,2,2,3]: conto tre dadi uguali
-%	\item [1,1,2,2,2]: conto quattro dadi uguali
-%	\item [1,3,2,2,2,2]: conto quattro dadi uguali
-%	\item [1,1,2,2,2,2]: conto cinque dadi uguali
-%	\item [1,1,2,2,3,3]: conto quattro dadi uguali
-%\end{description}
+Una Prova Facile ha successo automatico se si ha la Competenza, altrimenti richiede almeno 2 dadi uguali.
 
-%Ci sono poi delle combinazioni particolari come espresse negli esempi che permettono di contare dadi uguali in più.
+\medskip
 
+Esempi di tiri uguali e risultati alternativi:
+
+\begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=3.2cm]
+	\item [3,3]: conto due dadi uguali
+	\item [1,2,1]: conto due dadi uguali	
+	\item [1,2,2,2]: conto tre dadi uguali
+	\item [1,1,2,2]: conto tre dadi uguali
+	\item [2,2,2,2]: conto quattro dadi uguali
+	\item [1,1,2,2,2]: conto quattro dadi uguali
+	\item [2,2,2,2,2]: conto cinque dadi uguali
+	\item [3,3,3,2,2,2]: conto cinque dadi uguali
+	\item [3,3,3,3,3,3]: conto sei dadi uguali
+	\item [1,1,1,3,3,3,3]: conto sei dadi uguali
+	\item [1,1,1,1,1,1,1]: conto sette dadi uguali
+	\item [1,2,3,4,5,6,1,1,1]: conto sette dadi uguali	
+\end{description}
+
+Quando una Prova dice che servono 3 successi significa che è necessario avere almeno 3 dadi uguali.
 
 \subsubsection{Bonus e Penalità}
 
-Un Bonus sarà un valore positivo da applicare al Punteggio di Competenza.\index{Applicare il Bonus}.
+Un Bonus sarà un valore positivo da applicare alla Prova.\index{Applicare il Bonus}.
 
-Una Penalità è un valore negativo da applicare al Punteggio dei Competenza. \index{Applicare Penalità}
+Una Penalità è un valore negativo da applicare alla Prova \index{Applicare Penalità}
 
 I \textbf{modificatori alla Prova si cumulano} tra di loro se omogenei, tutti positivi o tutti negativi, e si annullano o scalano a vicenda se di tipo opposto (bonus e penalità).
 
 Es. Devo scalare una parete. Ho un Bonus perché sono presenti degli appigli, ho una Penalità perché sta piovendo, ho due Bonus perché posso aiutarmi con una corda, ho una Penalità perché è buio. La differenza totale tra bonus e Penalità é di 1 Bonus.
+Eseguirò la Prova di Arrampicarsi (Corpo + Arrampicarsi) + 1d6.
 
 Ogni Bonus si traduce tirando 1d6 in più, ogni penalità si traduce aumentando di 1 i dadi uguali per passare le prova.
 
-Qualora i Bonus o Penalità alla Prova superino i 3 farò la Prova non ha modificatori applicati ma si considera che abbia un successo o un insuccesso automatico prima di effettuare la prova stessa.\index{Molti modificatori}
+\subsection{Prove di Caratteristica}
 
-\subsection{Prove di Caratteristica - Prove semplici}
-
-Quando viene chiesta una Prova di Caratteristica se non viene specificato nulla allora è sufficiente tirare i 1d6 + 1d6 per punteggio di Caratteristica.
+Quando viene chiesta una Prova di Caratteristica se non viene specificato nulla allora è sufficiente tirare 1d6 per punteggio di Caratteristica.
 
 
 \subsection{Prove Contrapposte}\index{Prove Contrapposte}\index{Prove Contrapposte}
@@ -695,21 +765,19 @@ Quando viene chiesta una Prova di Caratteristica se non viene specificato nulla 
 
 Esempio: Tups e Lucia si sfidano a freccette. Entrambi i contendenti effettueranno una Prova d'Armi da Tiro.
 
-Tups in Armi da tiro ha 2 ed in Volontà 1, Lucia in Armi da Tiro ha 3 ed in Volontà 3. Tups è però un passo più vicino all'obbiettivo e questo gli concede 1 Bonus. Lucia invece ha accettato ti tirare le freccette con la mano opposta, e prende una Penalità di 2.
+Tups in Armi da tiro ha 2 ed in Volontà 1, Lucia in Armi da Tiro ha 3 ed in Volontà 3. Tups è però un passo più vicino all'obbiettivo e questo gli concede 1 Bonus. Lucia invece ha accettato di tirare le freccette con la mano opposta, e prende 2 Penalità.
 
-Tups tira 5d6 (1d6 + 2 (Armi da Tiro) +1 Volontà +1 Bonus) e tira 1,2,3,3,5 Lucia tira 5d6 (1d6 +3 (Armi da Tiro) +3 Volontà -2 (mano sbagliata)) e fa 1,4,6,4,1. Lucia pur avendo fatto due coppie conta come 2 soli numeri uguali, e quindi il primo turno di freccette finisce in pareggio.
+Tups tira 4d6 (2d6 (Armi da Tiro) +1d6 Volontà +1d6 Bonus) e tira 1,3,3,5. Lucia tira 4d6 (+3d6 (Armi da Tiro) +3d6 Volontà -2d6 (mano sbagliata)) e fa 1,4,4,1. Lucia avendo fatto due coppie conta come 3 numeri uguali, e quindi il primo turno di freccette lo vince lei.
 
 \subsection{Prove senza Competenza}\index{Prove senza Competenza}
 
-Se una Prova richiesta è relativa ad una Competenza non posseduta si effettuerà il tiro basandosi solo sul valore della caratteristica (aggiungendo il 1d6 di base) ed eventuali modificatori presenti.
+Se una Prova richiesta è relativa ad una Competenza non posseduta si effettuerà il tiro basandosi solo sul valore della caratteristica ed eventuali modificatori presenti.
 
 \subsection{Migliorare le Competenze}\index{Migliorare le Competenze}\hypertarget{Migliorare le Competenze}{} \label{Migliorare le Competenze}
 
-Ogni qual volta vi effettua una Prova su una Competenza e questa mostra tutti i dadi con lo stesso valore si mette un segno vicino alla Competenza. Si possono avere fino a cinque segni vicino ad una singola Competenza.
+Ogni qual volta vi effettua una Prova su una Competenza e questa mostra tutti i dadi tirati con lo stesso valore si mette un segno vicino alla Competenza.
 
-Quando il personaggio ha tempo di riflettere su quanto accaduto, sulle prove che ha fatto e come queste sono riuscite o fallite allora quel punteggio aumenta di 1.
-
-Una volta fatta questa tiro si cancellano i segni dalla Competenza.	
+Una volta raggiunti 5 segni vicino ad una singola Competenza, quando il personaggio ha tempo di riflettere su quanto accaduto, sulle prove che ha fatto e come queste sono riuscite o fallite allora quel punteggio di Competenza aumenta di 1, poi cancella tutti i segni dalla Competenza.	
 
 \subsection{Competenze ed i loro ambiti di utilizzo}\label{competenzeambitidiutilizzo}\index{Ambiti utilizzo competenze}
 
@@ -720,6 +788,20 @@ I PA necessari alla Prova possono variare a seconda della capacità del personag
 In ogni caso ricordate sempre di valutare con attenzione come il giocatore dichiara di svolgere le azioni per capirne la durata ed effetti. 
 
 La Competenze con un \textbf{*} subiscono le penalità dovute all'armatura indossata.\\
+
+\textbf{Armi piccole (Corpo)}: Sono Pugnale, Spade corte, Ascia ad una mano, Randello, Falcetto, Giavellotto,  Stocco
+
+\textbf{Armi medie (Corpo)}: Bastone, Catena chiodata, Flagello, Frusta, Lancia da fante, Martello da Guerra, Mazza Pesante, Mazza Chiodata, Picca Leggera, Spada Lunga, Spada Bastarda
+
+\textbf{Armi grandi (Corpo)}: Alabarda, Ascia da Battaglia, Falce, Falcione, Flagello Pesante, Lancia, Maglio da Guerra, Partigiana, Picca Pesante, Spadone a due Mani, Tridente
+
+\textbf{Armi da tiro (Volontà)}: Arco corto, Arco Lungo, Balestra ad una mano, Balestra pesante, Fionda
+
+\textbf{Armi moderne (Mente)}: Pistola, Fucile a ripetizione, Shotgun
+
+\textbf{Rissa (Corpo)}: Calci e Pugni
+
+\textbf{Incantamento (Mente)}: Incantesimi
 
 \textbf{Atletica* (Corpo)}: Questa competenza serve per mantenere l'equilibrio su superfici strette o precarie, per tuffarsi, rotolare, fare capriole, salti mortali, superare degli ostacoli nonché cadere e non farsi male. 
 
@@ -793,11 +875,15 @@ La Competenze con un \textbf{*} subiscono le penalità dovute all'armatura indos
 
 \medskip
 
-Per \textbf{riconoscere un oggetto magico}\index{Riconoscere oggetto magico} e le sue capacità è necessaria una Prova di \textbf{Arcana} per avere indicazioni di massima sui poteri e ambiti di utilizzo, con un MS +6 puoi apprenderne i dettagli, bonus magici e cariche. \textbf{10 minuti}. Con punteggio Arcana 6 costa 5 minuti, con 12 costa 1 minuto, con Arcana 18 costa 10 PA.
+Quando si negli esempi si parla di Prova riuscita si intende che basta 1 successo, ovvero 2 dadi uguale, diversamente sono specificati il numero di dadi uguali da tirare.
 
 \medskip
 
-\textbf{Riconoscere un incantesimo}\index{Riconoscere un incantesimo} mentre viene lanciato è una Prova di \textbf{Arcana} Costa una \textbf{Reazione}.
+Per \textbf{riconoscere un oggetto magico}\index{Riconoscere oggetto magico} e le sue capacità è necessario un successo in una Prova di \textbf{Incantamento} per avere indicazioni di massima sui poteri e ambiti di utilizzo. Con 2 successi puoi apprenderne i dettagli, bonus magici e cariche. \textbf{10 minuti}. Con punteggio Incantamento 2 costa 5 minuti, con 6 costa 1 minuto, con Arcana 10 costa 10 PA.
+
+\medskip
+
+\textbf{Riconoscere un incantesimo}\index{Riconoscere un incantesimo} mentre viene lanciato è una Prova di \textbf{Incantamento} Costa una \textbf{Reazione}.
 \medskip
 
 Per \textbf{riconoscere un mostro}, una creatura particolare si effettua una Prova di Conoscenza. Controlla il capitolo \hyperlink{riconoscereimostri}{Riconoscere i Mostri} nel Mostruario (pag. \pageref{riconoscereimostri})
@@ -814,77 +900,77 @@ Una Prova di Atletica riuscita permette al personaggio di dimezzare il danno qua
 
 \medskip
 
-Usare una corda\index{Arrampicarsi su una corta}\index{Salire su una corda}, scalare od arrampicarsi equivale a muoversi in un \textbf{terreno doppiamente difficile}(30 cm per PA). Se la Prova di Arrampicarsi riesce si sale di 50 cm per PA speso.
+Scalare od arrampicarsi equivale a muoversi in un \textbf{terreno doppiamente difficile}.
 
-In caso di fallimento della Prova si consumano i PA senza spostarsi. Se la Prova fallisce (MS negativo) di 6 o più perdi la presa e cadi. I modificatori indicati nella tabella si sommano.\\
+In caso di fallimento della Prova si consumano i PA senza spostarsi. I modificatori indicati nella tabella si sommano.\\
 
 \begin{tabularx}{0.45\textwidth}{Xl}
 	\textbf{Esempio di Superficie} & Mod.\\
 	\toprule
 	Movimento solo dimezzato & -1\\
 	Superficie scivolosa&-1\\
-	Parete grezza con appigli, mattoni sporgenti&-1\\
-	Una corda senza nodi&-2\\
-	Una parete con appigli &+2\\
+	Parete grezza con appigli, mattoni sporgenti&0\\
 	Un muro/parete con pochissimi appigli&-3\\
+	Una corda senza nodi&+1\\
+	Puoi usare una corda con nodi &+2\\
+	Una parete con appigli &+2\\
 	Ti puoi appoggiare a 2 pareti opposte&+2\\
 	Ti puoi appoggiare a 2 pareti angolari&+1\\
-	Puoi usare una corda&+2\\
+
 \end{tabularx}\\
 
 i modificatori indicati sono sulla Prova effettuata dal giocatore, se positivo è un Bonus.
+Arrampicarsi velocemente su una superficie scivolosa richiede una Prova con 1+2 successi dovuti alle penalità.
 
 \medskip
 
 Per \textbf{identificare una pozione o veleno naturale}\index{Identificare Veleno}\index{Erboristeria} \index{Identificare Pozione}è necessario una Prova di \textbf{Erboristeria}.
 
-Costa 5 minuti. Se il MS è +3 impieghi 4 minuti, se +6 impieghi 3 minuti, con +9 impieghi 2 minuti, +12 impieghi 1 minuto, +15 impieghi 1 round.
-
-Se la Prova fallisce ed il MS è -6 ha assunto la pozione consumandone una dose.
+Costa 5 minuti. Se hai Erboristeria +3 impieghi 4 minuti, se +4 impieghi 3 minuti, con +6 impieghi 2 minuti, +9 impieghi 1 minuto, +10 impieghi 1 round.
 
 \medskip
 
-\textbf{Intimidire}\index{Intimidire}. Il personaggio usa \textbf{6 PA} ed effettua una Prova di Intimidire, l'avversario può contrapporre una prova di Intimidire o di Corpo. Chi ottiene il MS migliore intimidisce l'avversario.
+\textbf{Intimidire}\index{Intimidire}. Il personaggio usa \textbf{6 PA} ed effettua una Prova di Intimidire, l'avversario può contrapporre una prova di Intimidire o di Corpo (con $\pm1d6$ per taglia di differenza). Chi ottiene più successi intimidisce l'avversario.
 
-Chi è intimidito ha 1 Penalità al PDAA fino alla fine del round successivo.
+Chi è intimidito ha 1 Penalità a Competenze verso quell'avversario fino alla fine del round successivo.
 
 \medskip
 
-\textbf{Ammansire un animale} è una Prova di \textbf{Gestire Animali}. Tempo richiesto 10 minuti. Per ogni MS il tempo si riduce di 1 minuto.\index{Gestire Animali}\index{Ammansire Animali}
+\textbf{Ammansire un animale} è una Prova di \textbf{Gestire Animali}. Tempo richiesto 10 minuti. Per ogni successo il tempo si dimezza.\index{Gestire Animali}\index{Ammansire Animali}
 
 \medskip
 
 \textbf{Furtività} \index{Furtività} \textit{Penalità dovuta all'Armatura.}
 
-La Prova di Furtività va effettuata solo se c'è qualcuno che può sentire/vedere. Si confrontano i MS delle Prove di Furtività e Consapevolezza per capire se si è stati percepiti. Muoversi in maniera Furtiva equivale a muoversi su terreno difficile e quindo ci vogliono +1 PA per spostarsi di 1.5 metri.
+La Prova di Furtività va effettuata solo se c'è qualcuno che può sentire/vedere. Si effettua una Prova di Furtività contrapposta ad una Prova di Consapevolezza. Muoversi in maniera Furtiva equivale a muoversi su terreno difficile.
 
 \medskip
 
 \textbf{Nuotare}\index{Nuotare} \textit{Penalità dovuta all'Armatura}
 
-In acque calme basta una Prova riuscita di nuotare, se le acque sono mosse il MS deve essere di almeno 3, e di 6 se molto mosse e 9 se tempestose. La Prova è necessaria sia per stare a galla o nuotare. Nuotare in acqua si considera \textbf{terreno difficile}.
+In acque calme basta una Prova riuscita di Nuotare, se le acque sono mosse il Demiurgo stabilisce il numero di Successi necessari (2 se molto mosse, 4 se tempestose). La Prova è necessaria sia per stare a galla o nuotare. Nuotare in acqua si considera \textbf{terreno difficile}.
 
 \medskip
 
 \textbf{Pronto Soccorso}\hypertarget{prontosoccorso}{}\label{prontosoccorso}\index{Pronto Soccorso}. Una Prova riuscita fa recuperare 1d4 Vigore se fatta entro 1 minuto dal termine dello scontro.
 
-Concede 1 Bonus ad una Prova di Caratteristica contro un veleno se non ha ancora fatto effetto. Costo \textbf{2 minuti}. Con MS di +6 costa 1 minuto. Con MS +9 costa 3 round, con MS +12 costa 1 round.
+Concede 1 Bonus ad una Prova di Caratteristica contro un veleno se non ha ancora fatto effetto. Costo \textbf{2 minuti}. Con Pronto Soccorso di +3 costa 1 minuto, con +5 costa 3 round, con +9 costa 1 round.
 
-Una Prova riuscita riduce di 1 i danni da \hyperlink{sanguinamento}{\textbf{Sanguinamento}}. Ogni MS +3 riduci di 1 punto ulteriore il sanguinamento.
+Una Prova riuscita riduce di 1 i danni da \hyperlink{sanguinamento}{\textbf{Sanguinamento}}. Ogni Successo riduce di 1 punto ulteriore il sanguinamento.
 
-Un trattamento di almeno 8 ore permette di recuperare al paziente il doppio di Corpo in punti Vigore. Se effettuato durante le ore di riposo chi prende cura risulterà Affaticato.
+Un trattamento di almeno 8 ore permette di recuperare al paziente il doppio di Corpo in punti Vigore, con un minimo di 4. Se effettuato durante le ore di riposo chi prende cura risulterà Affaticato.
 
 \medskip
 
 \textbf{Saltare}\index{Tabella Saltare} \textit{Penalità dovuta all'Armatura.} \textbf{4 PA}\\
 
-Con una Prova di Atletica è possibile saltare in lungo 3 metri. Per ogni MS salti 30 cm in più. Senza effettuare Prove si salta 10 cm per Punteggio Competenza.
+Avendo la Competenza Atletica è possibile saltare in lungo 3 metri. Senza Competenza salti 2 metri. Con ogni successo aumenti di 2 metri il salto.  Se non si ha almeno 3 metri di rincorsa si salta la metà.
 
-La \textbf{distanza saltata in alto} è pari a 90cm + 10cm per MS.
+La \textbf{distanza saltata in alto} è pari a 90cm + 30cm per Successo. 
 
 In un \textbf{salto in lungo} la punta più alta del salto è pari ad un 1/4 della lunghezza saltata. Se esegui un salto in lungo di 6 metri a metà salto sei in alto di 1.5 metri.
 
-Scendere o Salire da meno di 10cm*PC non usa PA. Se non si ha almeno 3 metri di rincorsa si salta la metà.
+Scendere o Salire da meno di 50cm non usa PA, tra 50 e 1.50 è terreno difficile, oltre e' Arrampicarsi.
 
 Vigore perso per caduta (pag. \pageref{cadute}): 3x altezza caduta (in metri). Prova di Atletica per dimezzare il danno se cadi da meno di 9 metri.
 
@@ -910,15 +996,11 @@ Vigore perso per caduta (pag. \pageref{cadute}): 3x altezza caduta (in metri). P
 	Cerca di occultare le traccie& -1\\
 \end{tabular}\\
 
-Un Modificatore negativo è una penalità (abbassa il risultato dei dadi), un modificatore positivo è un bonus (alza il risultato del Punteggio di Competenza).
-
-Sopravvivenza può essere usata al posto di \textbf{Disattivare Congegni} con Svantaggio.
-
-Una Prova di Sopravvivenza per foraggiare cibo procura viveri per una persona aggiuntiva ogni 3 di MS.
+Una Prova di Sopravvivenza per foraggiare cibo procura viveri per una persona per successo ottenuto.
 
 \medskip
 
-La Prova di \textbf{Mercanteggiare}\index{Mercanteggiare} serve per abbassare il prezzo di una merce e per valutare un oggetto. Oggetti molto rari richiedono un MS di almeno +3 per essere valutati.
+La Prova di \textbf{Mercanteggiare}\index{Mercanteggiare} serve per abbassare il prezzo di una merce e per valutare un oggetto. Oggetti molto rari richiedono anche due o più Successi.
 
 \end{multicols}
 
@@ -936,159 +1018,19 @@ In principio si parlava tutti una solo lingua ma poi Babele venne costruita in s
 
 Millenni dopo con l'avanzare della società più lingue si affermarono ma l'orgoglio delle persone non permise mai di tornare ad una sola lingua.
 
-Ci volle l'Apocalisse e l'ignoranza che ne seguì affinché tutte le lingue si mescolassero in una unica lingua franca  compresa da tutti. Ovviamente ci sono piccoli gruppi culturali o isolate che continuano a parlare la loro lingua antica ma solitamente se non completamente isolati parlano anche la lingua franca.\index{Lingua franca}
+Ci volle l'Apocalisse e l'ignoranza che ne seguì affinché tutte le lingue si mescolassero in una unica lingua franca  compresa da tutti. Ovviamente ci sono piccoli gruppi culturali o isolate comunità..\index{Lingua franca}
 
 Angeli e Demoni parlano le loro lingue, ma comprendono anche la lingua franca.
 
-Con un punteggio di 4 di Mente il personaggio comprende la lingua franca ma non sa parlare correttamente.
+Con un punteggio di -1 di Mente il personaggio comprende la lingua franca e sa parlare in maniera semplice.
 
-Con un punteggio di 6 di Mente il personaggio comprende la lingua franca e sa parlare in maniera semplice.
+Con un punteggio di 0 di Mente il personaggio comprende la lingua franca e sa parlare.
 
-Con un punteggio di 12 di Mente il personaggio comprende la lingua franca e sa scriverla.
+Con un punteggio di 1 di Mente il personaggio comprende la lingua franca e sa scriverla.
 
-Per ogni due punti in più di Mente oltre 12 il personaggio parla e scrive anche in un altra lingua.
+Per ogni punto in Mente oltre il primo il personaggio parla e scrive anche in un altra lingua.
 \end{multicols}
 
-\pagebreak
-
-
-\section{I Rami}\index{Rami}
-
-\begin{multicols}{2}
-
-I \textbf{Rami} sono la professione del personaggio, è l'insieme delle competenze che il personaggio conosce. In altri sistema di gioco il Ramo sarebbe l'equivalente della classe.
-
-\textbf{Ogni Ramo conferisce al personaggio dei punti Vigore}, da sommare a Corpo per stabilirne il valore iniziale, e delle Competenze.
-
-I Rami di base ed avanzati concedono 6 Competenze.\index{Competenze e Rami}
-
-Mentre i \textbf{Rami di base} possono essere presi come prima professione da chiunque, i\textbf{ Rami avanzati} possono essere appresi solo a patto di soddisfare i requisiti indicati.
-
-\subsection{Rami Base}\index{Rami Base}
-
-Nella tabella sottostante sono indicati alcuni Rami base di esempio. il personaggio è invitato a crearsi Rami con Competenze più affini alla sua storia.
-Sono indicati il nome del Ramo ed il Vigore. Le \textbf{competenze prendono un punteggio} pari alla punteggio indicato dalla prima colonna. Ad esempio un Apprendista ha punteggio 6 in Conoscenza mentre un Bandito ha 4 punti in Furtività.
-
-\end{multicols}
-
-\begin{tabular}{|l|l|l|l|l|}\hline
-
-&\multicolumn{4}{c}{\textbf{Rami}}\\\hline
-
-&\textbf{Apprendista}&\textbf{Bandito}&\textbf{Tagliaborse}&\textbf{Baro}\\\hline
-\textbf{Vigore}&6&9&6&6\\\hline
-6&Conoscenza &Armi piccole&Mani di fata&Raggirare\\
-5&Incantamento&Intimidire&Furtività&Per. Emozioni\\
-4&Pronto soccorso&Furtività&Armi piccole&Armi piccole\\
-3&Intimidire&Armi medie&Sopravvivenza&Mani di fata\\
-2&Armi piccole&Mani di fata&Pronto Soccorso&Rissa\\
-1&Tradizioni Locali&Pronto soccorso&Atletica&Intimidire\\\hline
-
-&\textbf{Tirapiedi}&\textbf{Cacciatore}&\textbf{Segugio}&\textbf{Commerciante}\\\hline
-\textbf{Vigore}&6&6&9&6\\\hline		
-6&Rissa &Natura&Armi da tiro&Mercanteggiare\\
-5&Intimidire&Sopravvivenza&Intimidire&Raggirare\\
-4&Furtività&Armi da tiro&Seguire tracce&Per. Emozioni\\
-3&Consapevolezza&Furtività&Consapevolezza&Intrattenere\\
-2&Cavalcare&Erboristeria&Mercanteggiare&Armi piccole\\
-1&Mani di fata&Consapevolezza&Armi piccole&Cavalcare\\\hline
-
-&\textbf{Contafrottole}&\textbf{Guardia del corpo}&\textbf{Intrattenitore}&\textbf{Mendicante}\\\hline
-\textbf{Vigore}&6&6&6&6\\\hline		
-6&Raggirare			&Armi grandi&Intrattenere	&Consapevolezza\\
-5&Percepire Emozioni&Orientamento	&Travestimento	&Sopravvivenza\\
-4&Storia			&Pronto soccorso&Storia			&Mercanteggiare\\
-3&Armi piccole		&Consapevolezza		&Armi piccole	&Armi piccole\\
-2&Mercanteggiare	&Conoscenza		&Raggirare		&Furtività\\
-1&Conoscenza		&Intimidire		&Diplomazia		&Mani di fata\\\hline
-
-&\textbf{Mercenario}&\textbf{Milizia cittadina}&\textbf{Minatore}&\textbf{Nobile}\\\hline
-\textbf{Vigore}&15&9&6&3\\\hline		
-6&Armi medie		&Armi medie		&Conoscenza	caverne	&Diplomazia\\
-5&Armi grandi	&Tradizioni locali&Sopravvivenza	&Conoscenza\\
-4&Sopravvivenza		&Intimidire		&Armi medie			&Linguaggi\\
-3&Armi da tiro		&Cavalcare		&Orientamento		&Storia\\
-2&Armi piccole		&Rissa			&Mercanteggiare		&Cavalcare\\
-1&Intimidire		&Armi da tiro	&Atletica			&Intimidire\\\hline
-							
-\end{tabular}	\\
-
-Il valore base di Vigore è 3 per ogni Ramo e per ogni Arma conosciuta il Vigore Aumenta di 3.
-
-\begin{multicols}{2}	
-
-\subsection{Rami Avanzati}
-
-I \textbf{Rami avanzati}\index{Rami Avanzati} hanno un prerequisito di Caratteristica e di Competenza a certi punteggi.
-Il Vigore che concede un Ramo avanzato è pari a 3 per il numero di Armi che fa conoscere. In valore minimo di Vigore che un Ramo avanzato concede è +3.
-Il Vigore concesso da un Ramo avanzato si somma con quella già posseduta dal personaggio.
-
-I Rami avanzati impostano ad 1 il valore delle Competenze precedentemente non note.
-
-Alcuni esempi di Rami avanzati:\medskip
-
-\textbf{Assassino}:\\
-\textit{Requisito}: Corpo 12, Sopravvivenza 12, Armi piccole 12\\
-\textit{Competenze concesse}: Armi da tiro, Sopravvivenza, Travestimento, Armi medie , Furtività , Consapevolezza\\
-\textit{Vigore}: +6\\
-
-\textbf{Sgherro}:\\
-\textit{Requisito}: Corpo 12, Intimidire 12, Armi piccole 12\\
-\textit{Competenze concesse}: Armi da tiro, Rissa, Armi grandi, Sopravvivenza, Mani di fata, Intimidire\\
-\textit{Vigore}: +9\\
-
-\textbf{Capitano della Guardia}:\\
-\textit{Requisito}: Volontà 12, Armi medie 12, Tradizioni Locali 12\\
-\textit{Competenze concesse}: Armi da tiro, Cavalcare, Intimidire, Sopravvivenza, Storia, Pronto soccorso\\
-\textit{Vigore}: +3\\
-
-\textbf{Esploratore}:\\
-\textit{Requisito}: Corpo 12, Sopravvivenza 12, Orientamento 12\\
-\textit{Competenze concesse}: Geografia, Armi piccole, Atletica, Nuotare, Cavalcare, Linguaggi\\
-\textit{Vigore}: +3\\
-
-\textbf{Cavaliere errante}:\\
-\textit{Requisito}: Volontà 12, Cavalcare 12, Armi medie 12\\
-\textit{Competenze concesse}: Armi da tiro, Armi grandi, Diplomazia, Pronto soccorso, Linguaggi, Storia\\
-\textit{Vigore}: +6\\
-
-\textbf{Menestrello}:\\
-\textit{Requisito}: Mente 12, Intrattenere 12, Conoscenza 12\\
-\textit{Competenze concesse}: Armi piccole, Raggirare, Storia, Travestimento, Diplomazia, Incantamento\\
-\textit{Vigore}: +3\\
-
-\textbf{Incantatore}:
-\textit{Requisito}: Mente 12, Incantamento 12, Conoscenza 12\\
-\textit{Competenze concesse}: Armi medie, Conoscenza, Storia, Linguaggi, Diplomazia, Erboristeria 
-\textit{Vigore}: +3\\
-
-\textbf{Monaco}:\\
-\textit{Requisito}: Corpo 12, Volontà 12, Pronto soccorso 12\\
-\textit{Competenze concesse}: Rissa, Diplomazia, Conoscenza, Storia, Linguaggi, Pronto soccorso\\
-\textit{Vigore}: +3\\
-
-
-\subsection{Avanzare nel Ramo}\index{Avanzare nel Ramo}
-
-Ogni volta che la \textbf{somma dei punti assegnati} grazie al \hyperlink{Migliorare le Competenze}{Migliorare le Competenze} arriva a 3 il Vigore aumenta di 3 per i Rami base.
-
-In caso di \textbf{Rami avanzati} la somma dei punti assegnati deve arrivare a 5 per poter aumentare di 5 il Vigore.
-
-\subsection{Migliorare le Caratteristiche}\index{Migliorare le Caratteristiche}
-
-Ogni qual volta che si aumenta il Vigore in un Ramo Avanzato è possibile aumentare di 1 un punteggio di Caratteristica purché sia pari o sotto a 14.
-
-\subsection{Prendere un nuovo Ramo}\index{Prendere un nuovo Ramo}
-
-Alla creazione del Personaggio si scegli un Ramo e si apprendono Competenze e si imposta il valore di Vigore a Corpo + il valore di Vigore dato dal Ramo.
-
-Il personaggio può decidere di acquisire più \textbf{Rami base} e quindi conoscere più Competenze. Per poter intraprendere un nuovo Ramo il personaggio deve trovare qualcuno che possa insegnarglielo e pagare 3000 GO. Tutte le Competenze del suo Ramo precedente diminuiscono di 1.
-Il fatto di prendere un nuovo Ramo non fa aumentare il Vigore, rimane valida la regole dei 3 punti distribuiti prima di aumentare il Vigore.
-
-Per prendere un \textbf{Ramo avanzato} si devono soddisfare i requisiti indicati, trovare qualcuno che possa insegnarlo, pagare 5000 GO. In questo caso non c'è una diminuzione delle Competenze originari ed i punti Vigore non si acquisiscono.
-
-
-\end{multicols}
 
 \pagebreak
 
@@ -1109,9 +1051,13 @@ Ogni personaggio può eseguire diverse Azioni nel round ed ognuna di queste cost
 
 All'inizio di ogni round il giocatore dichiara quanti PA userà, con un massimo di 10 PA. Non è necessario che dichiari cosa andrà ad eseguire.
 
+
+-------
+
+
 \subsubsection{Iniziativa}
 
-La verifica dell'\textbf{Iniziativa}\index{Iniziativa} consiste nel tirare 2d10 sottrarre Corpo o Mente ed aggiungere i PA che si intendono usare.
+La verifica dell'\textbf{Iniziativa}\index{Iniziativa} consiste nel tirare 2d6 sottrarre Corpo o Mente ed aggiungere i PA che si intendono usare.
 
 \textbf{Il personaggio od avversario che ha un valore dell'Iniziativa più basso incomincia per primo.}
 
@@ -1858,14 +1804,12 @@ Ricordo che usare un'Arma senza l'adeguata competenza da Svantaggio al PDAA.
 Alabarda& 10 & G/1d10 P/T& \textbf{Armi grandi} Controcarica, Arma lunga \\
 Arco Corto& 30 & M/1d6 P& 15 metri, \textbf{Armi da tiro}\\
 Arco Lungo& 75 & G/Frecce& 20 metri, \textbf{Armi da tiro}\\
-Ascia Martello& 16 & M/1d6 T/B& \textbf{Armi medie}\\
 Ascia ad una mano& 6  & M/1d6 T& 6 metri, \textbf{Armi piccole}\\
 Ascia da battaglia& 10 & M/1d10 T&\textbf{Armi grandi}\\
 Balestra ad una mano& 200& M/Dardi& 6 metri, \textbf{Armi da tiro}\\
 Balestra pesante& 150 & G/Dardi& 30 metri \textbf{Armi da tiro}\\
 Bastone& 3& M/1d6 B& \textbf{Armi medie}, Arma lunga\\
-Brandistocco& 10 & M/2d4 P/T& \textbf{Armi grandi}, Controcarica, Arma lunga\\
-Catena chiodata& 55 & G/2d4 P& 3 metri, \textbf{Armi medie}, Arma lunga\\
+Catena chiodata& 55 & G/2d4 P& \textbf{Armi medie}, Arma lunga\\
 Falce& 18 & G/2d4 P/T& \textbf{Armi grandi}, Arma lunga\\
 Falcetto& 6& P/1d6 T& \textbf{Armi piccole}\\
 Falcione in asta& 12 & G/1d10 P/T& \textbf{Armi grandi}, Controcarica, Arma lunga\\
@@ -1874,26 +1818,25 @@ Flagello Pesante& 20 & M/1d10 B& \textbf{Armi grandi}\\
 Flagello& 8& M/1d8 B& \textbf{Armi medie}\\
 Frusta& 1& M/1d3 T& \textbf{Armi medie}, Arma lunga\\
 Giavellotto& 1& P/1d6P& 12 metri,  \textbf{Armi piccole} \textbf{Armi da tiro}\\
-Grosso randello& 2& M/1d8 B&\textbf{Armi grandi}\\
-Lancia da fante& 5& M/1d8 P&3 metri, \textbf{Armi medie}, Arma lunga, Controcarica\\
-Lancia& 10 & G/1d8 P&\textbf{Arma a due mani}, Arma lunga, Controcarica\\
+Lancia da fante& 5& M/1d6 P&3 metri, \textbf{Armi medie}, Arma lunga, Controcarica\\
+Lancia& 10 & G/1d8 P&\textbf{Armi grandi}, Arma lunga, Controcarica\\
 Maglio da guerra& 15& G/1d10 B& \textbf{Armi grandi}\\
 Manganello& 1& P/1d6 B& \textbf{Armi piccole}, non letale\\
 Martello da guerra& 8& M/1d8 B/P& 6 metri, \textbf{Armi medie}\\
 Mazza Pesante& 5& M/1d8 B/T& \textbf{Armi medie}\\
 Mazza chiodata& 10& M 1d8 B/P& \textbf{Armi medie}\\
-Picca Leggera& 4& M/1d4 P&\textbf{Armi semplici}\\
-Picca Pesante& 8& G/1d6 P&\textbf{Armi grandi}, Arma lunga\\
+Partigiana& 10 & M/2d4 P/T& \textbf{Armi grandi}, Controcarica, Arma lunga\\
+Picca Leggera& 4& M/1d6 P&\textbf{Armi medie},\textbf{Armi semplici}\\
+Picca Pesante& 8& G/1d8 P&\textbf{Armi grandi}, Arma lunga\\
 Pugnale& 2& P/1d4 P& 6 metri, \textbf{Armi piccole}, \textbf{Armi da tiro}\\
 Rissa& note*& P/1d4 B&\\
 Randello& 1& P/1d6 B& \textbf{Armi piccole}\\
-Scimitarra& 30 & M/1d6 T&\textbf{Armi piccole}, \textbf{Armi medie}\\
 Spada Corta& 10 & P/1d6 P&\textbf{Armi piccole}\\
 Spada Lunga& 20 & M/1d8 T&\textbf{Armi medie}\\
-Spada Bastarda& 35 & M/1d8 T&\textbf{Armi medie}, \textbf{Armi Armi grandi}\\
+Spada Bastarda& 35 & M/1d8 - 1d10 T&\textbf{Armi medie}, \textbf{Armi grandi}\\
 Spadone a due mani& 50 & G/2d6 T&\textbf{Armi grandi}\\
 Stocco& 40 & P/1d6 P& \textbf{Armi piccole}\\
-Tridente& 15 & M/1d6 P/T& 3 metri, \textbf{Armi da tiro}, \textbf{Armi medie}, \textbf{Armi grandi}, Arma Lunga, Controcarica\\
+Tridente& 15 & M/1d6 P/T& 3 metri, \textbf{Armi da tiro}, \textbf{Armi grandi}, Arma Lunga, Controcarica\\
 \end{xltabular}
 
 \medskip
