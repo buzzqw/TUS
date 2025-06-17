@@ -884,7 +884,7 @@ In the character sheet, you will find **checks** to put next to the Traits, thes
 
 It will be the Narrator during the adventure to tell you when to mark, or delete, partial points. **As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.**
 
-Every particularly important action where the character has followed a Trait brings the character closer to the **Patron** (or Patrons) competent for that Trait.
+Every particularly important action where the character has followed a Trait brings the character closer to the **Patron** competent for that Trait.
 
 As the value of the sum of common Traits with the Patron increases, the character may acquire powers, regardless of whether they are a believer (Follower or Devotee) or not of that Patron.
 
@@ -2488,17 +2488,18 @@ Exploding damage does not explode again; even if you roll the maximum on the add
 
 Dice rolls added thanks to Critical Hits (obtained by rolling at least two 6s) do not have the advantage of exploding damage. If the weapon die rolled thanks to the Critical Hit shows the maximum, you do not reroll the die. You might want to use different colored dice when rolling weapon damage.
 
-## Multiple Attacks
+## Multiple attacks
 
-With **one Action**, a character can perform a **single Attack Roll**.
+With **one Action** the character can execute a **single Attack Roll**.
+With **two Actions** the character can make up to **two Attack Rolls**. **If they want to make 3 or more attacks they must use 3 Actions**.
 
-With **two Actions**, a character can make up to **two Attack Rolls**. **If they want to make 3 or more attacks, they must use 3 Actions**.
+Each single arrow, dart, dagger or thrown ranged weapon counts as one attack.
 
-Each individual arrow, dart, dagger, or thrown weapon with range counts as one attack.
+The first attack Action has no penalty while the second attack Action has -5 to the Attack Roll. Subsequent Attack Rolls will cumulate -5 to hit, so a third attack will have -10 and a fourth attack -15...
 
-The first Attack Action has no penalty, while the second Attack Action has a -5 to the Attack Roll. Subsequent Attack Rolls will accumulate a -5 penalty, so a third attack will have -10 and a fourth attack -15...
+If the cumulative penalty to hit becomes greater than the Attack Roll it is no longer possible to make further attacks.
 
-If the cumulative attack penalty becomes greater than the Attack Roll bonus, no further attacks are possible.
+Characters with Attack Roll less than 6 can choose to make 2 attacks spending 2 Actions but applying a -4 penalty to both attacks instead of the standard progression. This allows even low-level characters to effectively use their Actions in combat even if with significant penalties.
 
 >> Multiple Attack Example
 >>
@@ -2507,12 +2508,6 @@ If the cumulative attack penalty becomes greater than the Attack Roll bonus, no 
 Any dynamic and not *fixed* attack bonuses, e.g., +1d6, apply only to the first Attack Roll and not to the calculation of the bonus for determining the number of multiple attacks. In the example, the Attack Roll becomes 4d6+12, 3d6+7, and then 3d6+2.
 
 The player can declare to make attacks on different targets. Each attack can be interspersed with a Movement Action, provided there are enough Actions available.
-
-### Optional - Multiple Attacks Variant
-
-At the very lowest levels, it can be *frustrating* to be able to make only one attack and not know what to do with the other two Actions. Obviously, the first suggestion might be to move, try to flank with a companion, go on the defensive, or retrieve an item.
-
-This variant allows even those with an Attack Roll bonus of less than 6 to make 2 attacks, spending 2 Actions and taking a -4 penalty to each Attack Roll.
 
 ## Thrown Weapons
 
@@ -5721,17 +5716,6 @@ The target of a spell must be within the range of the spell. For a spell like Ar
 
 Spells that create cones or lines of effect that originate from you also have personal range, indicating that you are the point of origin of the spell's effect (see *Areas of Effect* later in this chapter).
 
-### Casting Spells in Armor
-
-Given the mental concentration and precise gestures required, armor distracts and unbalances the flows. The Magic Check when casting the spell is mandatory and is modified as indicated in the armor section (page ).
-
-### Optional - Spells in Armor
-
-Two rules are proposed for managing casters in armor:
-
-- This option provides that all spells cast by the caster become Touch Range, meaning they can only be discharged through the caster's hand. No Magic Checks are required due to wearing armor.
-- This option provides that the armor automatically negates a series of Magic Critical Successes dependent on its size. If the armor is Light size, it negates 2 magic criticals; Medium size negates 4; with Heavy size it negates 8. That is, if I wear Medium armor, to manifest a Magic Critical Success, I must make at least 5 Magic Critical Successes in the spell.
-
 ### Duration
 
 The duration of a spell is the length of time for which it persists. Duration can be expressed in rounds, minutes, hours, or even years. Some spells specify that their effects last until the spell is dispelled or destroyed. A **spell can be interrupted by its own caster as an Immediate Action**.
@@ -5778,6 +5762,17 @@ If you want a more *fantastic* management of components and less tied to traditi
 - Depending on the *preciousness* and *history* of the offered object, at the Narrator's discretion, the spell can acquire aspects or modifications
 
 		For a more immediate management of components, you can replace them with a *cost* of 1 Maximum Hit Point per Spell Level. In case of a Magic Critical Success in the Magic Check, these Hit Points are not lost.
+
+### Casting Spells in Armor
+
+Given the mental concentration and precise gestures required, armor distracts and unbalances the flows. The Magic Check when casting the spell is mandatory and is modified as indicated in the armor section (page ).
+
+### Optional - Spells in Armor
+
+Two rules are proposed for managing casters in armor:
+
+- This option provides that all spells cast by the caster become Touch Range, meaning they can only be discharged through the caster's hand. No Magic Checks are required due to wearing armor.
+- This option provides that the armor automatically negates a series of Magic Critical Successes dependent on its size. If the armor is Light size, it negates 2 magic criticals; Medium size negates 4; with Heavy size it negates 8. That is, if I wear Medium armor, to manifest a Magic Critical Success, I must make at least 5 Magic Critical Successes in the spell.
 
 ### Recovering from dying
 
@@ -6609,7 +6604,7 @@ The awakened beast or plant is Charmed by you for 30 days or until you or your c
 - **Components**:: V, S, M (a drop of your own blood)
 - **Duration**:: 1 minute
 
-Up to three creatures of your choice that you can see within range must make a Will Saving Throw. Whenever a target that fails this saving throw makes an Attack Roll or a Saving Throw before the spell ends, the target must roll a d4 and subtract the number rolled from the Attack Roll or Saving Throw.
+Up to three creatures of your choice that you can see within range must make a Will Saving Throw. Whenever a target that fails this saving throw makes an Attack Roll or a Saving Throw before the spell ends get -1 penalty.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can target an additional creature.
 
@@ -9301,6 +9296,25 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 **Saving Throw Critical Success/Failure**: In case of critical failure, the damage is doubled; in case of critical success, the damage is further halved
 
+## Limited Wish
+- **Magic List**:: Evocation
+- **Level**:: 7, Very Rare
+- **Casting Time**:: 2 Actions
+- **Range**:: Personal
+- **Components**:: V,S,M (gems worth 1000 gp)
+- **Duration**:: Instantaneous
+
+*Limited Wish* is an extremely powerful and versatile spell that allows the caster to accomplish "almost anything". 
+The basic use of this spell is to replicate the effect of any other spell of 7th level or lower. You don't need to meet any of the spell's requirements, including expensive material components. The spell simply takes effect.
+Alternatively, you can create one of the following effects of your choice:
+
+- You create an object of no more than 3000 gp in value that is not a magic item. The object can be no more than 90 meters in any dimension, and it appears in an unoccupied space on the ground.
+- You allow up to 5 creatures that you can see to regain all their Hit Points, and you end all effects on them described by the greater restoration spell.
+- You grant up to 5 creatures that you can see resistance to a damage type of your choice for 8 hours.
+- You grant up to 4 creatures that you can see immunity to a single spell or other magical effect for 8 hours. For example, you could make yourself and all your companions immune to a lich's life drain attack.	
+
+State your wish to the Narrator as precisely as possible. The Game Master has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. The spell could simply fail, the effect you desire could only be partly achieved, or you could suffer some unforeseen consequence as a result of how you worded the wish.
+
 ## Ljust's Tear
 - **Magic List**:: Universal
 - **Level**:: 0, Uncommon
@@ -11372,6 +11386,7 @@ Next to each spell is indicated the Rarity and level of the spell.
 | Instant Summons, Rare, 6 |
 | Sunbeam, Uncommon, 6 |
 | Word of Retreat, Rare, 6 |
+| Limited Wish, Very Rare, 7 |
 | Magnificent Mansion, Legendary, 7 |
 | Teleport, Common, 7 |
 | Maze, Rare, 8 |
@@ -12022,6 +12037,7 @@ Listed are spells in order by level and alphabetically. See Chapter Magic Item G
 | Divine Word, Very Rare, 7 |
 | Etherealness, Rare, 7 |
 | Fire Storm, Rare, 7 |
+| Limited Wish, Very Rare, 7 |
 | Magnificent Mansion, Legendary, 7 |
 | Prismatic Spray, Rare, 7 |
 | Project Image, Uncommon, 7 |
@@ -16190,7 +16206,7 @@ The onset is always immediate, the duration for healing is immediate, for others
 
 **The use of drugs is completely optional. It is the Narrator who decides their presence and availability also based on the sensitivity of the players**.
 
-Drugs are addictive. When the effect ends, a Will Saving Throw at difficulty 15 is required or another dose must be taken, the subsequent Saving Throw will have difficulty +1 and so on.
+Drugs are addictive. When the effect ends, a Will Saving Throw at difficulty 15 is required or another dose must be taken within 24 hours, the subsequent Saving Throw will have difficulty +1 and so on.
 
 If the Saving Throw succeeds, one still needs to make another one the next day with the same consequences.
 
@@ -16200,7 +16216,7 @@ The indicated DC is to resist the effects.
 
 ## Optional - Drinking too much
 
-A creature can drink a number of tankards of beer or shots of liquor equal to its Constitution score, with a minimum of 1. Additional tankards force the creature to make a Fortitude Saving Throw at DC 11, each subsequent tankard increases the Saving Throw by +2. When the Saving Throw fails, the creature is drunk and is considered under the effect of the Confusion spell for a number of Turns equal to the additional difficulty modifier.
+A creature can drink a number of tankards of beer or shots of liquor equal to its Constitution +1 score, with a minimum of 1. Additional tankards force the creature to make a Fortitude Saving Throw at DC 11, each subsequent tankard increases the Saving Throw by +2. When the Saving Throw fails, the creature is drunk and is considered under the effect of the Confusion spell for a number of Turns equal to the additional difficulty modifier.
 
 Higher proof beers or liquors impose a higher modifier on the Saving Throw.
 
@@ -16874,7 +16890,7 @@ This Option makes characters much more effective in challenges against low-ranki
 Whenever the character uses *counted* resources, such as Arrows, Food Rations, Torches, if there is no pressure to consume objects, this optional rule can be used.
 
 At the end of a combat, after a day of adventure, the player rolls 1d12 for each type of resource they have consumed. If they roll a 1 or 2 on the die, they have decreased their supply.
-The next time they will roll a 1d8 instead of 1d12, and then 1d6, and then 1d4. When they get to rolling the d4 and roll a 1 or 2, they have completely run out of the resource and must repurchase 20 arrows, 7 days of food, 6 torches...
+The next time they will roll a 1d10 instead of 1d12, and then 1d8, then 1d6, then 1d4. When they get to rolling the d4 and roll a 1 or 2, they have completely run out of the resource and must repurchase 20 arrows, 7 days of food, 6 torches...
 
 On the character sheet, next to those resources, mark the die to use for the next roll.
 
@@ -35271,7 +35287,7 @@ At my gaming table, I usually propose these Options, to be decided in Session Ze
 
 - Partial Success page 
 - Initiative Variant, only if I have experienced players. Page 
-- Starting with Critical Roll Variant. Critical Hit Variant, Critical Roll Variant, Multiple Attacks Variant are up to the player whether to use them or not. Page , page , page  and page . These are Options suggested for experienced players.
+- Starting with Critical Roll Variant. Critical Hit Variant, Critical Roll Variant are up to the player whether to use them or not. Page , page , page . These are Options suggested for experienced players.
 - Optional - List of Weapon Maneuvers (page ) to make fumbling less *boring*...
 - One Belief or List Feats, at the player's choice.
 - Components as Offerings for a personal, different, and unique magic, always tied to the character. Page 

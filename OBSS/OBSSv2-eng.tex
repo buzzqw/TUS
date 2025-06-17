@@ -1580,7 +1580,7 @@ In the character sheet, you will find \textbf{checks} to put next to the Traits,
 
 It will be the Narrator during the adventure to tell you when to mark, or delete, partial points. \textbf{As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.}
 
-Every particularly important action where the character has followed a Trait brings the character closer to the \textbf{Patron} (or Patrons) competent for that Trait.
+Every particularly important action where the character has followed a Trait brings the character closer to the \textbf{Patron} competent for that Trait.
 
 As the value of the sum of common Traits with the Patron increases, the character may acquire powers, regardless of whether they are a believer (Follower or Devotee) or not of that Patron.
 
@@ -3875,19 +3875,18 @@ Dice rolls added thanks to Critical Hits (obtained by rolling at least two 6s) d
 \emph{Henry Justice Ford}
 \end{center}
 
-\subsection{Multiple Attacks}
+\subsection{Multiple attacks}\index[OBSSv2]{Multiple Attacks}\label{attacchimultiplimischia}\hypertarget{attacchimultiplimischia}{}
 
-\index[OBSSv2]{Multiple Attacks}\label{attacchimultiplimischia}\hypertarget{attacchimultiplimischia}{}
+With \textbf{one Action} the character can execute a \textbf{single Attack Roll}.
+With \textbf{two Actions} the character can make up to \textbf{two Attack Rolls}. \textbf{If they want to make 3 or more attacks they must use 3 Actions}.
 
-With \textbf{one Action}, a character can perform a \textbf{single Attack Roll}.
+Each single arrow, dart, dagger or thrown ranged weapon counts as one attack.\index{Multiple attacks with ranged weapons}
 
-With \textbf{two Actions}, a character can make up to \textbf{two Attack Rolls}. \textbf{If they want to make 3 or more attacks, they must use 3 Actions}.
+The first attack Action has no penalty while the second attack Action has -5 to the Attack Roll. Subsequent Attack Rolls will cumulate -5 to hit, so a third attack will have -10 and a fourth attack -15...
 
-Each individual arrow, dart, dagger, or thrown weapon with range counts as one attack.\index[OBSSv2]{Multiple Attacks with ranged weapons}
+If the cumulative penalty to hit becomes greater than the Attack Roll it is no longer possible to make further attacks.
 
-The first Attack Action has no penalty, while the second Attack Action has a -5 to the Attack Roll. Subsequent Attack Rolls will accumulate a -5 penalty, so a third attack will have -10 and a fourth attack -15...
-
-If the cumulative attack penalty becomes greater than the Attack Roll bonus, no further attacks are possible.
+Characters with Attack Roll less than 6 can choose to make 2 attacks spending 2 Actions but applying a -4 penalty to both attacks instead of the standard progression. This allows even low-level characters to effectively use their Actions in combat even if with significant penalties.
 
 \begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Multiple Attack Example]
 For example, if I have Weapon Proficiency 5, Strength 1, +2 to hit as a bonus from the Weapon List and +1 to hit from a Feat, +2 because I'm flanking, and +1 for a magic weapon, the first Attack Roll will be 3d6+12, the second will be 3d6+7, the third 3d6+2. It is not possible to make a fourth attack since the attack bonus would become negative.
@@ -3896,14 +3895,6 @@ For example, if I have Weapon Proficiency 5, Strength 1, +2 to hit as a bonus fr
 Any dynamic and not \emph{fixed} attack bonuses, e.g., +1d6, apply only to the first Attack Roll and not to the calculation of the bonus for determining the number of multiple attacks. In the example, the Attack Roll becomes 4d6+12, 3d6+7, and then 3d6+2.
 
 The player can declare to make attacks on different targets. Each attack can be interspersed with a Movement Action, provided there are enough Actions available.
-
-\subsubsection{Optional - Multiple Attacks Variant}
-
-\index[OBSSv2]{Optional - Multiple Attacks Variant}\label{varianteattacchimultipli}\hypertarget{varianteattacchimultipli}{}
-
-At the very lowest levels, it can be \emph{frustrating} to be able to make only one attack and not know what to do with the other two Actions. Obviously, the first suggestion might be to move, try to flank with a companion, go on the defensive, or retrieve an item.
-
-This variant allows even those with an Attack Roll bonus of less than 6 to make 2 attacks, spending 2 Actions and taking a -4 penalty to each Attack Roll.
 
 %\begin{center}
 %\includegraphics[width=0.9\linewidth]{immagini/archer.png}
@@ -8720,22 +8711,6 @@ The target of a spell must be within the range of the spell. For a spell like Ar
 
 Spells that create cones or lines of effect that originate from you also have personal range\index[OBSSv2]{Personal Range}, indicating that you are the point of origin of the spell's effect (see \emph{Areas of Effect} later in this chapter).
 
-\subsubsection{Casting Spells in Armor}
-
-\index[OBSSv2]{Casting Spells in Armor}\label{magielanciareincantesimiinarmatura}\index[OBSSv2]{Spells, in Armor}
-
-Given the mental concentration and precise gestures required, armor distracts and unbalances the flows. The Magic Check when casting the spell is mandatory and is modified as indicated in the \hyperlink{armatureemagie}{armor} section (page \pageref{armatureemagie}).
-
-\subsubsection{Optional - Spells in Armor}
-
-\index[OBSSv2]{Optional - Spells in armor}
-
-Two rules are proposed for managing casters in armor:
-
-\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
-\item This option provides that all spells cast by the caster become Touch Range, meaning they can only be discharged through the caster's hand. No Magic Checks are required due to wearing armor.
-\item This option provides that the armor automatically negates a series of Magic Critical Successes dependent on its size. If the armor is Light size, it negates 2 magic criticals; Medium size negates 4; with Heavy size it negates 8. That is, if I wear Medium armor, to manifest a Magic Critical Success, I must make at least 5 Magic Critical Successes in the spell.
-\end{itemize}
 
 \subsubsection{Duration}
 
@@ -8800,6 +8775,24 @@ If you want a more \emph{fantastic} management of components and less tied to tr
 \begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
 		For a more immediate management of components, you can replace them with a \emph{cost} of 1 Maximum Hit Point per Spell Level. In case of a Magic Critical Success in the Magic Check, these Hit Points are not lost.
 \end{narratore}\end{changemargin}
+
+\subsubsection{Casting Spells in Armor}
+
+\index[OBSSv2]{Casting Spells in Armor}\label{magielanciareincantesimiinarmatura}\index[OBSSv2]{Spells, in Armor}
+
+Given the mental concentration and precise gestures required, armor distracts and unbalances the flows. The Magic Check when casting the spell is mandatory and is modified as indicated in the \hyperlink{armatureemagie}{armor} section (page \pageref{armatureemagie}).
+
+\subsubsection{Optional - Spells in Armor}
+
+\index[OBSSv2]{Optional - Spells in armor}
+
+Two rules are proposed for managing casters in armor:
+
+\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+	\item This option provides that all spells cast by the caster become Touch Range, meaning they can only be discharged through the caster's hand. No Magic Checks are required due to wearing armor.
+	\item This option provides that the armor automatically negates a series of Magic Critical Successes dependent on its size. If the armor is Light size, it negates 2 magic criticals; Medium size negates 4; with Heavy size it negates 8. That is, if I wear Medium armor, to manifest a Magic Critical Success, I must make at least 5 Magic Critical Successes in the spell.
+\end{itemize}
+
 
 \subsubsection{Recovering from dying}
 
@@ -9997,7 +9990,7 @@ The awakened beast or plant is Charmed by you for 30 days or until you or your c
 	\item[\textbf{Duration}]: 1 minute
 \end{description}
 
-Up to three creatures of your choice that you can see within range must make a Will Saving Throw. Whenever a target that fails this saving throw makes an Attack Roll or a Saving Throw before the spell ends, the target must roll a d4 and subtract the number rolled from the Attack Roll or Saving Throw.
+Up to three creatures of your choice that you can see within range must make a Will Saving Throw. Whenever a target that fails this saving throw makes an Attack Roll or a Saving Throw before the spell ends get -1 penalty.
 
 \textbf{For each Magic Critical Success} obtained in the Magic Check, you can target an additional creature.
 
@@ -13282,6 +13275,7 @@ You cast the spell by touching an object that is no larger than 3 meters in any 
 
 \textbf{For each Critical obtained} in the Magic Check, the duration increases by 10 real minutes.
 
+
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Spell]{Lightning Bolt}\hypertarget{Lightning Bolt}{}\medskip\noindent{\textbf{Lightning Bolt}}\pdfbookmark[3]{Lightning Bolt}{Lightning Bolt}
 \noindent
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
@@ -13301,6 +13295,32 @@ If cast against hard worked stone, the lightning bolt bounces with an exit angle
 \textbf{For each Magic Critical Success} obtained in the Magic Check, the damage increases by 4d6.
 
 \textbf{Saving Throw Critical Success/Failure}: In case of critical failure, the damage is doubled; in case of critical success, the damage is further halved
+
+\smallskip\noindent\rule{\linewidth}{2pt} \index[Spell]{Limited Wish}\hypertarget{Limited Wish}{}\medskip\noindent{\textbf{Limited Wish}}\pdfbookmark[3]{Limited Wish}{Limited Wish}
+\noindent
+\begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
+	\item[\textbf{Magic List}]: Evocation
+	\item[\textbf{Level}]: 7, Very Rare
+	\item[\textbf{Casting Time}]: 2 Actions
+	\item[\textbf{Range}]: Personal
+	\item[\textbf{Components}]: V,S,M (gems worth 1000 gp)
+	\item[\textbf{Duration}]: Instantaneous
+\end{description}
+
+\emph{Limited Wish} is an extremely powerful and versatile spell that allows the caster to accomplish "almost anything". 
+The basic use of this spell is to replicate the effect of any other spell of 7th level or lower. You don't need to meet any of the spell's requirements, including expensive material components. The spell simply takes effect.
+Alternatively, you can create one of the following effects of your choice:
+
+\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
+	\item You create an object of no more than 3000 gp in value that is not a magic item. The object can be no more than 90 meters in any dimension, and it appears in an unoccupied space on the ground.
+	\item You allow up to 5 creatures that you can see to regain all their Hit Points, and you end all effects on them described by the greater restoration spell.
+	\item You grant up to 5 creatures that you can see resistance to a damage type of your choice for 8 hours.
+	\item You grant up to 4 creatures that you can see immunity to a single spell or other magical effect for 8 hours. For example, you could make yourself and all your companions immune to a lich's life drain attack.	
+\end{itemize}
+
+\medskip{}
+
+State your wish to the Narrator as precisely as possible. The Game Master has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. The spell could simply fail, the effect you desire could only be partly achieved, or you could suffer some unforeseen consequence as a result of how you worded the wish.
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Spell]{Ljust's Tear}\hypertarget{Ljust's Tear}{}\medskip\noindent{\textbf{Ljust's Tear}}\pdfbookmark[3]{Ljust's Tear}{Ljust's Tear}
 \noindent
@@ -15850,6 +15870,7 @@ Next to each spell is indicated the Rarity and level of the spell.
 \hyperlink{Instant Summons}{Instant Summons}, Rare, 6\\
 \hyperlink{Sunbeam}{Sunbeam}, Uncommon, 6\\
 \hyperlink{Word of Retreat}{Word of Retreat}, Rare, 6\\
+\hyperlink{Limited Wish}{Limited Wish}, Very Rare, 7\\
 \hyperlink{Magnificent Mansion}{Magnificent Mansion}, Legendary, 7\\
 \hyperlink{Teleport}{Teleport}, Common, 7\\
 \hyperlink{Maze}{Maze}, Rare, 8\\
@@ -16472,6 +16493,7 @@ Listed are spells in order by level and alphabetically. See Chapter \hyperlink{S
 \hyperlink{Divine Word}{Divine Word}, Very Rare, 7\\
 \hyperlink{Etherealness}{Etherealness}, Rare, 7\\
 \hyperlink{Fire Storm}{Fire Storm}, Rare, 7\\
+\hyperlink{Limited Wish}{Limited Wish}, Very Rare, 7\\
 \hyperlink{Magnificent Mansion}{Magnificent Mansion}, Legendary, 7\\
 \hyperlink{Prismatic Spray}{Prismatic Spray}, Rare, 7\\
 \hyperlink{Project Image}{Project Image}, Uncommon, 7\\
@@ -22230,7 +22252,7 @@ Erain Flower Pollen \index[OBSSv2]{Erain Flower Pollen} & R& 1 r& 20& +2 Str Int
 
 \textbf{The use of drugs is completely optional. It is the Narrator who decides their presence and availability also based on the sensitivity of the players}.
 
-Drugs are addictive. When the effect ends, a Will Saving Throw at difficulty 15 is required or another dose must be taken, the subsequent Saving Throw will have difficulty +1 and so on.
+Drugs are addictive. When the effect ends, a Will Saving Throw at difficulty 15 is required or another dose must be taken within 24 hours, the subsequent Saving Throw will have difficulty +1 and so on.
 
 If the Saving Throw succeeds, one still needs to make another one the next day with the same consequences.
 
@@ -22242,7 +22264,7 @@ The indicated DC is to resist the effects.
 
 \index[OBSSv2]{Drinking too much}\index[OBSSv2]{Optional - Drinking too much}\hypertarget{alcolismo}{}\label{beretroppo}\index[OBSSv2]{Drunk}
 
-A creature can drink a number of tankards of beer or shots of liquor equal to its Constitution score, with a minimum of 1. Additional tankards force the creature to make a Fortitude Saving Throw at DC 11, each subsequent tankard increases the Saving Throw by +2. When the Saving Throw fails, the creature is drunk and is considered under the effect of the Confusion spell for a number of Turns equal to the additional difficulty modifier.
+A creature can drink a number of tankards of beer or shots of liquor equal to its Constitution +1 score, with a minimum of 1. Additional tankards force the creature to make a Fortitude Saving Throw at DC 11, each subsequent tankard increases the Saving Throw by +2. When the Saving Throw fails, the creature is drunk and is considered under the effect of the Confusion spell for a number of Turns equal to the additional difficulty modifier.
 
 Higher proof beers or liquors impose a higher modifier on the Saving Throw.
 
@@ -23217,7 +23239,7 @@ This Option makes characters much more effective in challenges against low-ranki
 Whenever the character uses \emph{counted} resources, such as Arrows, Food Rations, Torches, if there is no pressure to consume objects, this optional rule can be used.
 
 At the end of a combat, after a day of adventure, the player rolls 1d12 for each type of resource they have consumed. If they roll a 1 or 2 on the die, they have decreased their supply.
-The next time they will roll a 1d8 instead of 1d12, and then 1d6, and then 1d4. When they get to rolling the d4 and roll a 1 or 2, they have completely run out of the resource and must repurchase 20 arrows, 7 days of food, 6 torches...
+The next time they will roll a 1d10 instead of 1d12, and then 1d8, then 1d6, then 1d4. When they get to rolling the d4 and roll a 1 or 2, they have completely run out of the resource and must repurchase 20 arrows, 7 days of food, 6 torches...
 
 On the character sheet, next to those resources, mark the die to use for the next roll.
 
@@ -44294,7 +44316,7 @@ The blue dot determines the spell's origin point
 
 To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Central ones, and 3d6 on the Final ones.
 
-{\small 
+{\small
 
 \subsection*{Tables for Male Names}
 
@@ -44303,11 +44325,11 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 \toprule
 \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} \\
 \midrule
-3 & Zeph & 11 & Mer \\ 
+3 & Zeph & 11 & Mer \\
 4 & Xar & 12 & Kor \\
 5 & Bra &    13 & Lun      \\
-6 & Cae & 14 & Nor     \\ 
-7 & Dar & 15 & Oth      \\ 
+6 & Cae & 14 & Nor     \\
+7 & Dar & 15 & Oth      \\
 8 & Eld &  16 & Quin \\
 9 & Gar  & 17 & Thaan \\
 10 & Hal &  18 & Zarak  \\
@@ -44624,7 +44646,7 @@ At my gaming table, I usually propose these Options, to be decided in Session Ze
 \hyperlink{varianteiniziativa}{Initiative Variant}, only if I have experienced players. Page \pageref{varianteiniziativa}
 
 \item
-Starting with \hyperlink{variantetiricritici}{Critical Roll Variant}. \hyperlink{tirocriticovariante}{Critical Hit Variant}, \hyperlink{OpzionaleAzioniTiroCritico}{Critical Roll Variant}, \hyperlink{varianteattacchimultipli}{Multiple Attacks Variant} are up to the player whether to use them or not. Page \pageref{tirocriticovariante}, page \pageref{OpzionaleAzioniTiroCritico}, page \pageref{variantetiricritici} and page \pageref{varianteattacchimultipli}. These are Options suggested for experienced players.
+Starting with \hyperlink{variantetiricritici}{Critical Roll Variant}. \hyperlink{tirocriticovariante}{Critical Hit Variant}, \hyperlink{OpzionaleAzioniTiroCritico}{Critical Roll Variant} are up to the player whether to use them or not. Page \pageref{tirocriticovariante}, page \pageref{OpzionaleAzioniTiroCritico}, page \pageref{variantetiricritici}. These are Options suggested for experienced players.
 
 \item \hyperlink{elencotalentiarmi}{Optional - List of Weapon Maneuvers} (page \pageref{elencotalentiarmi}) to make fumbling less \emph{boring}...
 

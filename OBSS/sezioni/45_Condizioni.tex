@@ -237,11 +237,11 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 \subsection{Tabelle per tiri casuali}
 
 {\small \setlength{\parindent}{0cm}{
-		
+
 		\begin{multicols}{2}
-			
+
 			\textbf{Tabella Fonti di Energia}\index{Tabella Casuale - Fonti di Energia}\label{fontienergia}\hypertarget{fontienergia}{}
-			
+
 			\begin{tabular}{ll|ll}
 				\toprule
 				3d6 &Energia&&\\
@@ -251,15 +251,15 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 				16&Luce & 17&Vuoto\\
 				18&Forza&&\\
 			\end{tabular}
-			
+
 			\medskip
-			
+
 			\begin{tikzpicture}[scale=0.4]
-				
+
 				\fill[orange] (1,17) rectangle (4,20);
 				\fill[blue] (2.5,18.5) circle (0.3);
 				\node at (3,16) [above] {raggio 1 metro};
-				
+
 				\fill[orange] (6,15) rectangle (11,20);
 				\fill[white] (5,20) rectangle (6,21);
 				\fill[white] (6,19) rectangle (7,20);
@@ -268,7 +268,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 				\fill[white] (10,19) rectangle (11,20);
 				\fill[blue] (8.5,17.5) circle (0.3);
 				\node at (8.5,14) [above] {raggio 2 metri};
-				
+
 				\fill[orange] (12,13) rectangle (19,20);
 				\fill[white] (12,19) rectangle (13,20);
 				\fill[white] (18,13) rectangle (19,14);
@@ -276,77 +276,77 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 				\fill[white] (18,19) rectangle (19,20);
 				\fill[blue] (15.5,16.5) circle (0.3);
 				\node at (16,12) [above] {raggio 3 metri};
-				
+
 				\fill[orange] (2,8) -- (7.5,10.5) -- (2,13) -- cycle;
 				\fill[blue] (7.5,10.5) circle (0.3);
 				\node at (4.5,7) [above] {cono di 5 metri};
-				
+
 				\fill[orange] (17,8) -- (20.5,9.5) -- (17,11) -- cycle;
 				\fill[blue] (20.5,9.5) circle (0.3);
 				\node at (18,7) [above] {cono di 3 metri};
-				
+
 				%\fill[orange] (9,7) -- (15.5,10.5) -- (9,13) -- cycle;
 				%\fill[blue] (15.5,10.5) circle (0.3);
 				%\node at (12,6.5) [above] {cono di 6 metri};
-				
+
 				\fill[orange] (9,7) -- (15.5,10) -- (9,13) -- cycle;
 				\fill[blue] (15.5,10.5) circle (0.3); % Punto blu sulla punta destra
 				\node at (12,6.5) [above] {cono di 6 metri};
-				
+
 				% Cubo di 3 quadretti di lato
 				%\fill[orange] (2,2) -- (5,2) -- (5,5) -- (2,5) -- cycle; % Faccia frontale
 				%\fill[orange] (5,2) -- (6,3) -- (6,6) -- (5,5) -- cycle; % Faccia destra
 				%\fill[orange] (2,5) -- (5,5) -- (6,6) -- (3,6) -- cycle; % Faccia superiore
-				
+
 				% Cubo di 6 quadretti di lato
 				%\fill[orange] (8,2) -- (14,2) -- (14,8) -- (8,8) -- cycle; % Faccia frontale
 				%\fill[orange] (14,2) -- (16,4) -- (16,10) -- (14,8) -- cycle; % Faccia destra
 				%\fill[orange] (8,8) -- (14,8) -- (16,10) -- (10,10) -- cycle; % Faccia superiore
-				
+
 				% Draw the base grid (20x15)
 				\foreach \x in {0,...,20}
 				\foreach \y in {5,...,20}
 				\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
-				
+
 			\end{tikzpicture}
-			
+
 			\medskip
-			
+
 			Il punto blu determina l'origine dell'incantesimo
-			
+
 			\bigskip
-			
+
 			\textbf{Esempi portata dei nemici}
-			
+
 			\medskip
-			
+
 			\textbf{Tabella: forme degli incantesimi - Sfera e Cono}\index[Tabelle]{Tabella forme degli incantesimi - Sfera e Cono}
-			
+
 			\medskip
-			
-			
+
+
 			\begin{tikzpicture}[scale=0.4]
-				
+
 				\fill[orange] (1,18) rectangle (2,19);
 				\node at (1.5,18.5) {1};
-				
+
 				\foreach \x in {-1,...,1} {
 					\node at (\x+1.5,17.5) {A};
 					\node at (\x+1.5,19.5) {A};
 				}
-				
+
 				\foreach \y in {18} { \node at (+0.5,\y+0.5) {A};
 					\node at (2.5,\y+0.5) {A}; }
-				
+
 				\node at (1.5,16) [above] {Portata 1m};
-				
+
 				% Quadrato centrale 2x2 con il numero 2 dentro
 				\fill[orange] (5,17) rectangle (7,19);
 				\node at (5.5,17.5) {2};
 				\node at (5.5,18.5) {2};
 				\node at (6.5,17.5) {2};
 				\node at (6.5,18.5) {2};
-				
+
 				% Lettere A intorno al quadrato centrale 2x2
 				\foreach \x in {3,...,6} {
 					\node at (\x+1.5,19.5) {A}; % Sopra
@@ -356,60 +356,60 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 					\node at (4.5,\y+8.5) {A}; % Sinistra
 					\node at (7.5,\y+8.5) {A}; % Destra
 				}
-				
+
 				\node at (6,15) [above] {Portata 1m};
-				
+
 				% Quadrato 3x3 con il numero 3 dentro, spostato a sinistra di 1 quadretto e alzato di 1 quadretto
 				\fill[orange] (11,15) rectangle (14,18);
 				\node at (11.5,17.5) {3};
 				\node at (12.5,17.5) {3};
 				\node at (13.5,17.5) {3};
-				
+
 				\node at (11.5,16.5) {3};
 				\node at (12.5,16.5) {3};
 				\node at (13.5,16.5) {3};
-				
+
 				\node at (11.5,15.5) {3};
 				\node at (12.5,15.5) {3};
 				\node at (13.5,15.5) {3};
-				
+
 				% Prima cornice di quadretti con la lettera A
 				% Sopra e sotto il quadrato 3x3
 				\foreach \x in {10,...,14} {
 					\node at (\x+0.5,14.5) {A};
 					\node at (\x+0.5,18.5) {A};
 				}
-				
+
 				% Ai lati del quadrato 3x3
 				\foreach \y in {13,...,17} {
 					\node at (10.5,\y+1.5) {A};
 					\node at (14.5,\y+1.5) {A};
 				}
-				
+
 				% Seconda cornice di quadretti con la lettera B
 				% Sopra e sotto la prima cornice
 				\foreach \x in {9,...,15} {
 					\node at (\x+0.5,19.5) {B};
 					\node at (\x+0.5,13.5) {B};
 				}
-				
+
 				% Ai lati della prima cornice
 				\foreach \y in {13,...,18} {
 					\node at (9.5,\y+0.5) {B};
 					\node at (15.5,\y+0.5) {B};
 				}
 				\node at (12.5,12) [above] {Portata 2m};
-				
+
 				\foreach \x in {-1,...,19}
 				\foreach \y in {12,...,19}
 				\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
-				
+
 			\end{tikzpicture}
-			
+
 			\textbf{Generatori Effetti Fallimento Critico in Attacco}\index{Tabella Casuale - Fallimento critico con armi}
-			
+
 			\begin{tabularx}{0.5\textwidth}{l|X}
-				
+
 				\textbf{3d6} & \textbf{Effetto}\\
 				3& Sei imbarazzato del tuo colpo, ma non succede nulla di particolare\\
 				4& Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa\\
@@ -429,15 +429,15 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 				18 & Ti colpisci con forza alla testa. Come 17 e chi è in mischia contro di te può effettuare un attacco d'opportunità usando una Reazione. Il round finisce\\
 				19+& Ti colpisci con forza. Tira il danno e applica due colpi critici verso te stesso. Il round finisce
 			\end{tabularx}
-			
+
 			\medskip
-			
+
 		\end{multicols}
-		
+
 		\textbf{Tabella: generazione casuali armi}\index[Tabelle]{Tabella generazione casuali armi}
-		
+
 		\medskip
-		
+
 		\resizebox{\linewidth}{!}{\begin{tabular}{ll|ll|ll|ll}
 				\toprule
 				\textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} \\
@@ -457,7 +457,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 				25    & Falcione & 50    & Randello & 75    & Lancia corta & 100   & Arma speciale \\
 				\bottomrule
 		\end{tabular}}
-		
+
 }}
 
 

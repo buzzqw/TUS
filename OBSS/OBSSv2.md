@@ -895,7 +895,7 @@ Nella scheda troverai dei **check** da mettere vicino ai Tratti, questi vengono 
 
 Sarà il Narratore durante l'avventura a dirti quando segnare, o cancellare, dei punti parziali. **In linea di massima si presume che un personaggio acquisisca almeno un punto Tratto a livello.**
 
-Ogni azione particolarmente importante dove il personaggio abbia seguito un Tratto porta il personaggio ad avvicinarsi al **Patrono** (o Patroni) competente per quel Tratto.
+Ogni azione particolarmente importante dove il personaggio abbia seguito un Tratto porta il personaggio ad avvicinarsi al **Patrono** competente per quel Tratto.
 
 All'aumentare del valore della somma dei Tratti comuni con il Patrono il personaggio potrà acquisire dei poteri, indipendentemente sia un credente (Seguace o Devoto) o meno di quel Patrono.
 
@@ -1013,7 +1013,7 @@ Il riflesso oscuro del personaggio, che rappresenta aspetti rifiutati o temuti d
 - **Tratti Contraddittori:** Leale, Paziente, Entusiasta
 - **Patroni Allineati:** Calicante, Cattalm, Tàhil, Shayalia, Torbiorn
 
-## Il Giullare
+## L'Imbroglione
 Il personaggio malizioso che disturba lo status quo e porta trasformazione attraverso il caos.
 
 - **Tratti Raccomandati:** Impulsivo, Curioso, Disonesto, Entusiasta
@@ -1166,7 +1166,7 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 | Lynx | L'Esploratore, Il Fuorilegge, L'Eroe |
 | Gradh | L'Eroe, L'Alleato, Il Sovrano, Il Fuorilegge |
 | Atherim | Il Custode, Il Guardiano, Il Martire |
-| Belevon | Il Giullare, Il Giullare, Il Mutaforma |
+| Belevon | L'Imbroglione, Il Giullare, Il Mutaforma |
 | Cattalm | L'Ombra, Il Tiranno, Il Distruttore |
 | Efrem | L'Uomo Comune, Il Creatore, L'Eremita |
 | Erondil | Il Creatore, Il Mago, Il Sovrano |
@@ -2494,30 +2494,22 @@ L'esplosione del danno non esplode a sua volta, anche se fai il massimo del dado
 I tiri di dado aggiunti grazie al Tiro Critico (ottenuto lanciando almeno due 6) non hanno il vantaggio dell'esplosione del danno. Se il dado dell'arma tirato grazie al Tiro Critico fa il massimo non ritiri il dado. Eventualmente usa dadi diversi tra loro quando tiri i dadi dell'armi.
 
 ## Attacchi multipli
-
 Con **una Azione** il personaggio può eseguire un **singolo Tiro per Colpire**.
-
 Con **due Azioni** il personaggio può effettuare fino a **due Tiri per Colpire**. **Se vuole fare 3 o più attacchi deve usare 3 Azioni**.
 
 Ogni singola freccia, dardo, pugnale o arma con gittata scagliata conta come un attacco.
-
 La prima Azione di attacco non ha penalità mentre la seconda Azione di attacco ha -5 al Tiro per Colpire. Successivi Tiri per Colpire cumuleranno -5 al colpire, quindi un terzo attacco avrà -10 ed un quarto attacco -15...
-
 Se la penalità al colpire cumulativa diventa maggiore del Tiro per Colpire non è più possibile fare ulteriori attacchi.
 
->> Esempio Attacco Multiplo
->>
->> Ad esempio se ho Competenza Armi 5, Forza 1, +2 al compire come bonus dalla Lista d'Armi e +1 al colpire dato da una Abilità, +2 perché fiancheggio e +1 per arma magica il primo Tiro per Colpire sarà 3d6+12, il secondo sarà 3d6+7, il terzo 3d6+2. Non è possibile effettuare un quarto attacco in quanto il bonus al colpire diventerebbe negativo.
+I personaggi con Tiro per Colpire meno di 6 possono scegliere di effettuare 2 attacchi spendendo 2 Azioni ma applicando una penalità di -4 ad entrambi gli attacchi invece della progressione standard. Questo permette anche ai personaggi di livello basso di sfruttare efficacemente le loro Azioni in combattimento anche se con significative penalità.
 
 Eventuali bonus al colpire dinamici e non *fissi*, es. +1d6, si applicano al solo primo Tiro per Colpire e non al computo del bonus per calcolare il numero di attacchi multipli. Nel caso di esempio il Tiro per Colpire diventa 4d6+12, 3d6+7 e poi 3d6+2.
 
 Il giocatore può dichiarare di effettuare gli attacchi su bersagli differenti. Ogni attacco può essere inframmezzato da una Azione di Movimento, purché si abbiano abbastanza Azioni.
 
-### Opzionale - Variante attacchi multipli
-
-Ai primissimi livelli può *dare fastidio* poter effettuare un solo attacco e non sapere cosa fare con le altre due Azioni. Ovviamente il primo suggerimento potrebbe essere spostarsi, cercare di fiancheggiare con un compagno, mettersi sulla difensiva o recuperare un oggetto.
-
-Questa variante permette anche a chi ha Tiro per Colpire meno di 6 di effettuare 2 attacchi, spendendo 2 Azioni portando ogni attacco con un -4 al Tiro per Colpire.
+>> Esempio Attacco Multiplo
+>>
+>> Ad esempio se ho Competenza Armi 5, Forza 1, +2 al compire come bonus dalla Lista d'Armi e +1 al colpire dato da una Abilità, +2 perché fiancheggio e +1 per arma magica il primo Tiro per Colpire sarà 3d6+12, il secondo sarà 3d6+7, il terzo 3d6+2. Non è possibile effettuare un quarto attacco in quanto il bonus al colpire diventerebbe negativo.
 
 ## Armi da Lancio
 
@@ -5600,17 +5592,6 @@ Il bersaglio di un incantesimo deve essere nella gittata dell'incantesimo. Per u
 
 Gli incantesimi che creano coni o linee di effetto che originano da te, hanno anch'essi gittata personale, a indicare che sei tu il punto di origine dell'effetto dell'incantesimo (vedi *Aree di Effetto* più avanti in questo capitolo).
 
-### Lanciare Incantesimi in Armatura
-
-Data la concentrazione mentale e i gesti precisi richiesti l'armatura distrae e sbilancia i flussi. La Prova di Magia nel lancio dell'incantesimo è obbligatoria e viene modificata come indicato nella sezione delle armature (pag. ).
-
-### Opzionale - Incantesimi in Armatura
-
-Sono proposte due regole per gestire gli incantatori in armatura:
-
-- Questa opzione prevede tutti gli incantesimi lanciati dall'incantatore diventino con Gittata a Contatto, ovvero scaricabili solo tramite la mano dell'incantatore. Non sono richieste Prove di Magia per il fatto di portare l'armatura.
-- Questa opzione prevede che l'armatura neghi automaticamente una serie di Successi Critici Magici dipendente dalla taglia della stessa. Se l'armatura è di taglia Leggera nega 2 critici magici, taglia Media ne nega 4, con taglia Pesante ne nega 8. Ovvero se indosso una armatura Media per manifestare un Successo Critico Magico deve fare almeno 5 Successi Critici Magici nell'incantesimo.
-
 ### Durata
 
 La durata di un incantesimo è la lunghezza di tempo per cui esso persiste. La durata può essere espressa in round, minuti, ore o addirittura anni. Alcuni incantesimi specificano che i loro effetti durano finché l'incantesimo non viene dissolto o distrutto. Un **incantesimo può essere interrotto dal proprio incantatore come Azione Immediata**.
@@ -5657,6 +5638,17 @@ Se volete una gestione dei componenti più *fantastica* e meno legata alle tradi
 - Tutti gli incantesimi per essere lanciati richiedono una Prova di Magia ed ignorano ogni Successo Critico Magico
 - E' possibile aggiungere componenti all'incantesimo come offerta al Patrono che sovraintende alla lista per ottenere vantaggi e poter non eseguire la Prova di Magia. Se la Prova di Magia viene eseguita vengono considerati anche Successi o Fallimenti Critici Magici
 - A seconda della *preziosità* e *storia* dell'oggetto offerto, a discrezione del Narratore, l'incantesimo può acquisire aspetti o modifiche
+
+### Lanciare Incantesimi in Armatura
+
+Data la concentrazione mentale e i gesti precisi richiesti l'armatura distrae e sbilancia i flussi. La Prova di Magia nel lancio dell'incantesimo è obbligatoria e viene modificata come indicato nella sezione delle armature (pag. ).
+
+### Opzionale - Incantesimi in Armatura
+
+Sono proposte due regole per gestire gli incantatori in armatura:
+
+- Questa opzione prevede tutti gli incantesimi lanciati dall'incantatore diventino con Gittata a Contatto, ovvero scaricabili solo tramite la mano dell'incantatore. Non sono richieste Prove di Magia per il fatto di portare l'armatura.
+- Questa opzione prevede che l'armatura neghi automaticamente una serie di Successi Critici Magici dipendente dalla taglia della stessa. Se l'armatura è di taglia Leggera nega 2 critici magici, taglia Media ne nega 4, con taglia Pesante ne nega 8. Ovvero se indosso una armatura Media per manifestare un Successo Critico Magico deve fare almeno 5 Successi Critici Magici nell'incantesimo.
 
 ### Recuperare da morente
 
@@ -6216,12 +6208,12 @@ Questo incantesimo ti permette di convincere una bestia naturale che non vuoi ar
 
 - **Lista di Magia**:: Ammaliamento
 - **Livello**:: 1, Comune
-- **T. di Lancio**:: 1 minuto
+- **T. di Lancio**:: 2 Azioni
 - **Gittata**:: 9 metri
 - **Componenti**:: V, S, M (una goccia del tuo sangue)
 - **Durata**:: 1 minuto
 
-Fino a tre creature di tua scelta che puoi vedere, e che sono a gittata, devono effettuare un Tiro Salvezza su Volontà. Ogni bersaglio che fallisca questo Tiro Salvezza ed effettui un Tiro per Colpire o un Tiro Salvezza prima del termine dell'incantesimo, deve tirare un d4 e sottrarre il numero così ottenuto dal Tiro per Colpire o Tiro Salvezza.
+Fino a tre creature di tua scelta che puoi vedere, e che sono a gittata, devono effettuare un Tiro Salvezza su Volontà. Ogni bersaglio che fallisca questo Tiro Salvezza ed effettui un Tiro per Colpire o un Tiro Salvezza prima del termine dell'incantesimo ha un -1.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi prendere come bersaglio una creatura aggiuntiva.
 
@@ -7571,6 +7563,27 @@ Per ciascun giorno che trascorri a riposare e non svolgere altro che un'attivit�
 Tira 1d100, se fai da 1 a 33\% tu non sarai mai più in grado di lanciare desiderio a causa dello stress sofferto, 34\%-66\% invecchi di 5 anni, 67\%-99\% non succede alcun altro effetto particolare, 100\% recuperi immediatamente lo stress del lancio.
 
 **In caso di 2 Successi Critici magico ottenuti** non subisci effetti collaterali dal lancio di Desiderio.
+
+## Desiderio limitato
+- **Lista di Magia**:: Evocazione
+- **Livello**:: 7, Molto Raro
+- **T. di Lancio**:: 2 Azioni
+- **Gittata**:: Personale
+- **Componenti**:: V,S,M (gemme per 1000 mo)
+- **Durata**:: Istantanea
+
+*Desiderio limitato* è un incantesimo estremamente potente e versatile, che permette all'incantatore di realizzare "quasi qualsiasi cosa". 
+
+L'uso basilare di questo incantesimo è quello di riprodurre l'effetto di qualsiasi altro incantesimo con livello 7 o meno. Non devi soddisfare nessuno dei requisiti dell'incantesimo, comprese le componenti materiali costose. L'incantesimo ha semplicemente effetto.
+
+In alternativa, puoi creare uno dei seguenti effetti a tua scelta:
+
+- Crei un oggetto del valore massimo di 3000 mo, che non sia un oggetto magico. L'oggetto non può avere dimensioni superiori ai 90 metri in qualsiasi dimensione, e compare in uno spazio non occupato sul terreno.
+- Permetti fino a 5 creature che puoi vedere di recuperare tutti i Punti Ferita, e termini tutti gli effetti su di loro descritti dall'incantesimo ristorare superiore.
+- Conferisci a un massimo di 5 creature che puoi vedere la resistenza a un tipo di danno a tua scelta per 8 ore.
+- Conferisci a un massimo di 4 creature che puoi vedere l'immunità a un singolo incantesimo o altro effetto magico per 8 ore. Per esempio, potresti rendere te e tutti tuoi compagni immuni all'attacco risucchia vita del lich.	
+
+Definisci i tuoi desideri quanto più possibile al Narratore. Il Narratore ha grande spazio di manovra nel decidere cosa accada in questi casi; maggiore il desiderio, più grosse le probabilità che qualcosa vada storto. L'incantesimo potrebbe semplicemente fallire, l'effetto desiderato manifestarsi solo in parte, oppure potresti subire delle conseguenze impreviste, in base a come hai proferito il desiderio. 
 
 ## Destriero Fantasma
 - **Lista di Magia**:: Illusione
@@ -11663,6 +11676,8 @@ Evocazioni Istantanee, Raro, 6
 
 Parola del Ritiro, Raro, 6
 
+Desiderio limitato, Molto Raro, 7
+
 Reggia Meravigliosa, Leggendario, 7
 
 Teletrasporto, Comune, 7
@@ -12244,6 +12259,7 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 
 | Celare, Raro, 7 |
 | --- |
+| Desiderio limitato, Raro, 7 |
 | Forma Eterea, Raro, 7 |
 | Immagine Proiettata, Non Comune, 7 |
 | Inversione della Gravità, Raro, 7 |
@@ -13822,7 +13838,6 @@ Indossare e togliere armature è una operazione che richiede tempo ed attenzione
 {*}{*} Bisogna essere aiutati per indossare questa armatura. Senza aiuto è possibile indossarla solo in fretta.
 
 **Indossare un'armatura in fretta** implica una penalità di -1 alla Difesa fornita dall'Armatura ed una penalità aggiuntiva di +1 alle prove di Competenza di Base.
-
 ---
 
 # Merci e Servizi
@@ -15550,7 +15565,7 @@ Il Narratore potrebbe richiedere una prova di Disattivare Congegni. Se non si ha
 
 Se si vuole disattivare temporaneamente una trappola aggiungete 6 alla difficoltà. Questo disattiverà la trappola per 2d4 minuti.
 
-Una **trappola magica può essere disattivata** con una prova di Disattivare Congegni purché il valore di Arcana sia almeno 1/5 della DC della trappola in aggiunta a qualsiasi altra prova indicata nella descrizione della trappola. La prova di Arcana può essere fatta anche da chi non ha Disattivare Congegni ma con la difficoltà segnata nella trappola ed insieme a chi fa la prova di Disattivare Congegni. L'incantesimo Dissolvi Magie ha una probabilità di annullare la maggior parte delle trappole magiche.
+Una **trappola magica può essere disattivata** con una prova di Disattivare Congegni purché il valore di Arcana sia almeno 1/5 della DC della trappola in aggiunta a qualsiasi altra prova indicata nella descrizione della trappola. La prova di Arcana può essere fatta anche da chi non ha Disattivare Congegni ma con la difficoltà segnata nella trappola ed insieme a chi fa la prova di Disattivare Congegni. L'incantesimo Dissolvi Magie ha una probabilità di annullare la maggior parte delle trappole magiche.Un Dissolvi Magie può annullare la parte magica di trappola la cui DC di Arcana richiesta sia 3 o o inferiore, se richiede 4 allora la componente magica viene disattivata per 10 minuti. Un Dissolvi Magia Superiore può annullare la parte magica di trappola la cui DC di Arcana richiesta sia 4 o o inferiore, se richiede 5 allora la componente magica viene disattivata per 10 minuti. Per ogni Critico Magico nella Prova di Magia si alza di uno la DC di Arcana richiesta.
 
 Se la prova per disattivare o disabilitare la trappola fallisce e si ottiene un fallimento critico la trappola scatta.
 
@@ -16414,7 +16429,7 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 
 **L'utilizzo delle droghe è completamente opzionale. E' il Narratore a decidere la loro presenza e disponibilità anche in base alla sensibilità dei giocatori**.
 
-Le droghe danno dipendenza. Terminato l'effetto è necessario effettuare un Tiro Salvezza su Volontà a difficoltà 15 o prenderne un altra dose, il successivo Tiro Salvezza avrà difficoltà +1 e così via.
+Le droghe danno dipendenza. Terminato l'effetto è necessario effettuare un Tiro Salvezza su Volontà a difficoltà 15 o prenderne un altra dose entro 24 ore, il successivo Tiro Salvezza avrà difficoltà +1 e così via.
 
 Se il Tiro Salvezza riesce è comunque necessario effettuarne uno nuovo il giorno dopo con le stesse conseguenze.
 
@@ -16424,7 +16439,7 @@ La DC indicata è per resistere agli effetti.
 
 ## Opzionale - Bere troppo
 
-Una creatura può bere un numero di boccali di birra o bicchierini di liquore pari al suo punteggio di Costituzione, con un minimo di 1. Ulteriori boccali costringono la creatura a fare un Tiro Salvezza su Tempra a DC 11, ogni successivo boccale aumenta il Tiro Salvezza di +2. Quando il Tiro Salvezza fallisce la creatura è ubriaca e si considera sotto l'effetto dell'incantesimo Confusione per un numero di Turni pari al modificatore aggiuntivo alla difficoltà.
+Una creatura può bere un numero di boccali di birra o bicchierini di liquore pari al suo punteggio di Costituzione +1, con un minimo di 1. Ulteriori boccali costringono la creatura a fare un Tiro Salvezza su Tempra a DC 11, ogni successivo boccale aumenta il Tiro Salvezza di +2. Quando il Tiro Salvezza fallisce la creatura è ubriaca e si considera sotto l'effetto dell'incantesimo Confusione per un numero di Turni pari al modificatore aggiuntivo alla difficoltà.
 
 Birre o liquori a maggiore gradazione impongono un modificatore più alto al Tiro Salvezza.
 
@@ -17096,7 +17111,7 @@ Questa Opzione rende molto più efficaci i personaggi nelle sfide contro avversa
 Ogni qual volta il personaggio usi delle risorse *contate*, quali Frecce, Razioni di cibo, Torce, se non si ha pressione di fare consumare gli oggetti si può optare per questa regola opzionale.
 
 Al termine di un combattimento, dopo una giornata di avventura, il giocatore tira 1d12 per ogni tipo di risorsa che ha consumato. Se fa 1 o 2 con il dado ha diminuito la sua scorta.
-La volta dopo tirerà invece che 1d12 un 1d8 e poi 1d6 e poi 1d4. Quando arriva a tirare il d4 e fa 1 o 2 ha finito completamente la risorsa e deve ricomprare 20 frecce, 7 giorni di cibo, 6 torce...
+La volta dopo tirerà invece che 1d12 un 1d10 e poi 1d8 e poi 1d6 e poi 1d4. Quando arriva a tirare il d4 e fa 1 o 2 ha finito completamente la risorsa e deve ricomprare 20 frecce, 7 giorni di cibo, 6 torce...
 
 Nella scheda a fianco a quelle risorse segna il dado da usare per il successivo tiro.
 
@@ -35341,10 +35356,9 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 | 18 | Ti colpisci con forza alla testa. Come 17 e chi è in mischia contro di te può effettuare un attacco d'opportunità usando una Reazione. Il round finisce |
 | 19+ | Ti colpisci con forza. Tira il danno e applica due colpi critici verso te stesso. Il round finisce |
 			
+
 			
-			
-			
-		
+
 		
 
 		**Tabella: generazione casuali armi**
@@ -35353,7 +35367,6 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 # Generatore Nomi Casuali
 
-	
 Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle Centrali e 3d6 sulla Finale.
 
 ## Tabelle per Nomi Maschili
@@ -35540,7 +35553,7 @@ Al mio tavolo da gioco solitamente propongo queste Opzioni, da decidere in Sessi
 
 - Successo Parziale pag. 
 - Variante Iniziativa, solo se ho giocatori esperti. Pag. 
-- Partendo con Variante Tiro Critico, Tiro Critico Variante, Azioni Tiro Critico, Variante Attacchi multipli sono a scelta del giocatore se usarli o meno. Pag. , pag. , pag.  e pag. . Sono Opzioni suggerite per giocatori già con esperienza e consapevoli del proprio personaggio.
+- Partendo con Variante Tiro Critico, Tiro Critico Variante, Azioni Tiro Critico sono a scelta del giocatore se usarli o meno. Pag. , pag. , pag. . Sono Opzioni suggerite per giocatori già con esperienza e consapevoli del proprio personaggio.
 - Opzionale - Elenco Manovre d'Arme (pag. ) per rendere meno *noiso* il fumbolare...
 - Un solo credo o Abilità di Lista, a scelta del giocatore.
 - Componenti come offerta per una magia personale, diversa e unica, sempre legata al personaggio. Pag. 

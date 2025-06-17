@@ -904,7 +904,7 @@ aggiornata versione POD 2025/06/04
 
 aggiornata versione POD 2025/06/10
 
-0.99.60 aggiornata tabella generazione nomi, aggiornata Opzionale - Variante Tiri Critici, 
+0.99.60 aggiornata tabella generazione nomi, aggiornata Opzionale - Variante Tiri Critici, aggiornata regola attacchi multipli per incorporare la possibilita' di fare due attacchi a -4 se si ha TC minore di 6, alcuni chiarimenti su uso droghe ed ubriacarsi, corretto riferimento doppio a Giullare in archetivi, aggiunto incantesimo desiderio limitato, aggiornato incantesimo anatema, 
 
 
 
