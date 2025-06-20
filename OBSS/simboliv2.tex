@@ -1,0 +1,702 @@
+\documentclass[11pt]{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{wasysym}
+
+\usetikzlibrary{patterns,shapes.geometric,decorations.pathmorphing}
+
+% Comando base per simboli
+\newcommand{\mapsymbol}[2][1]{%
+  \begin{tikzpicture}[scale=#1, baseline=-0.3ex]
+    #2
+  \end{tikzpicture}%
+}
+
+\newcommand{\legendentry}[2]{%
+  \noindent\begin{minipage}{\linewidth}
+    \begin{tabular}{@{}c@{\hspace{8pt}}p{0.75\linewidth}@{}}
+      \raisebox{-0.3ex}{#1} & #2 \\
+    \end{tabular}
+  \end{minipage}
+  \vspace{3pt}
+}
+
+% ========== PORTE SPECIALI ==========
+\newcommand{\ddoormagic}{%
+  \mapsymbol{
+    \draw[very thick] (0,0.5) -- (0.8,0.5);
+    \draw[thick] (0.2,0.3) rectangle (0.4,0.7);
+    \foreach \angle in {0,60,120,180,240,300} {
+      \draw[blue] (0.5,0.5) -- +(\angle:0.06);
+    }
+  }
+}
+
+\newcommand{\ddoorsliding}{%
+  \mapsymbol{
+    \draw[very thick] (0,0.5) -- (0.8,0.5);
+    \draw[thick] (0.2,0.3) rectangle (0.4,0.7);
+    \draw[thick,->] (0.5,0.5) -- (0.7,0.5);
+    \draw[thick] (0.7,0.3) rectangle (0.8,0.7);
+  }
+}
+
+% ========== MECCANISMI ==========
+\newcommand{\dlever}{%
+  \mapsymbol{
+    \draw[thick] (0.4,0.3) rectangle (0.6,0.4);
+    \draw[very thick] (0.5,0.4) -- (0.45,0.7);
+    \fill[black] (0.45,0.7) circle (0.03);
+  }
+}
+
+\newcommand{\dbutton}{%
+  \mapsymbol{
+    \draw[thick] (0.45,0.45) circle (0.08);
+    \fill[red] (0.45,0.45) circle (0.05);
+  }
+}
+
+\newcommand{\dgear}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.5) circle (0.15);
+    \foreach \angle in {0,45,90,135,180,225,270,315} {
+      \draw[thick] (0.5,0.5) -- +(\angle:0.18);
+      \fill[black] ([shift=(\angle:0.18)] 0.5,0.5) circle (0.02);
+    }
+  }
+}
+
+% ========== ELEMENTI MAGICI ==========
+\newcommand{\dcirclemagic}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.5) circle (0.2);
+    \draw[thick] (0.5,0.5) circle (0.15);
+    \foreach \angle in {0,72,144,216,288} {
+      \node at ([shift=(\angle:0.175)] 0.5,0.5) {\tiny $\star$};
+    }
+  }
+}
+
+\newcommand{\dpentacle}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.5) circle (0.18);
+    \draw[thick] (0.5,0.68) -- (0.33,0.43) -- (0.67,0.57) -- (0.33,0.57) -- (0.67,0.43) -- cycle;
+  }
+}
+
+\newcommand{\drune}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.5) circle (0.15);
+    \draw[thick] (0.4,0.4) -- (0.6,0.6);
+    \draw[thick] (0.45,0.6) -- (0.55,0.4);
+    \draw[thick] (0.35,0.5) -- (0.65,0.5);
+  }
+}
+
+% ========== OGGETTI SPECIALI ==========
+\newcommand{\dbook}{%
+  \mapsymbol{
+    \draw[thick] (0.3,0.4) rectangle (0.7,0.6);
+    \draw[thick] (0.35,0.45) -- (0.65,0.45);
+    \draw[thick] (0.35,0.55) -- (0.65,0.55);
+    \draw[thick] (0.5,0.4) -- (0.5,0.6);
+  }
+}
+
+\newcommand{\dmirror}{%
+  \mapsymbol{
+    \draw[very thick] (0.3,0.3) rectangle (0.7,0.7);
+    \draw[thick] (0.35,0.35) -- (0.45,0.45);
+    \draw[thick] (0.45,0.55) -- (0.55,0.65);
+    \draw[thick] (0.55,0.35) -- (0.65,0.45);
+    \draw[thick] (0.35,0.65) -- (0.45,0.55);
+  }
+}
+
+\newcommand{\dweaponrack}{%
+  \mapsymbol{
+    \draw[thick] (0.4,0.2) -- (0.4,0.8);
+    \draw[thick] (0.6,0.2) -- (0.6,0.8);
+    \draw[thick] (0.4,0.7) -- (0.6,0.7);
+    \draw[thick] (0.45,0.65) -- (0.45,0.75);
+    \draw[thick] (0.55,0.65) -- (0.55,0.75);
+  }
+}
+
+% ========== STRUTTURE LAVORATIVE ==========
+\newcommand{\dforge}{%
+  \mapsymbol{
+    \draw[thick] (0.2,0.4) rectangle (0.8,0.6);
+    \fill[red] (0.3,0.5) circle (0.04);
+    \fill[orange] (0.5,0.5) circle (0.04);
+    \fill[red] (0.7,0.5) circle (0.04);
+  }
+}
+
+\newcommand{\danvil}{%
+  \mapsymbol{
+    \draw[thick] (0.3,0.4) -- (0.7,0.4) -- (0.7,0.5) -- (0.75,0.5) -- (0.75,0.55) -- (0.25,0.55) -- (0.25,0.5) -- (0.3,0.5) -- cycle;
+    \draw[thick] (0.45,0.4) -- (0.45,0.3);
+    \draw[thick] (0.55,0.4) -- (0.55,0.3);
+  }
+}
+
+\newcommand{\dalchemylab}{%
+  \mapsymbol{
+    \draw[thick] (0.3,0.3) -- (0.3,0.5) -- (0.4,0.6) -- (0.5,0.5) -- (0.5,0.3);
+    \draw[thick] (0.6,0.3) -- (0.6,0.6) -- (0.7,0.7) -- (0.8,0.6) -- (0.8,0.3);
+    \fill[green] (0.4,0.5) circle (0.02);
+    \fill[blue] (0.7,0.6) circle (0.02);
+  }
+}
+
+% ========== PRIGIONI E SICUREZZA ==========
+\newcommand{\dcell}{%
+  \mapsymbol{
+    \draw[very thick] (0.2,0.2) rectangle (0.8,0.8);
+    \foreach \x in {0.3,0.4,0.5,0.6,0.7} {
+      \draw[thick] (\x,0.2) -- (\x,0.8);
+    }
+  }
+}
+
+\newcommand{\dchain}{%
+  \mapsymbol{
+    \draw[thick] (0.3,0.7) circle (0.04);
+    \draw[thick] (0.3,0.6) circle (0.04);
+    \draw[thick] (0.3,0.5) circle (0.04);
+    \draw[thick] (0.3,0.4) circle (0.04);
+    \draw[thick] (0.3,0.3) circle (0.04);
+  }
+}
+
+% ========== ELEMENTI NATURALI SOTTERRANEI ==========
+\newcommand{\dmushroom}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.2) -- (0.5,0.5);
+    \draw[thick] (0.35,0.5) to[bend left=40] (0.65,0.5);
+    \fill[brown] (0.5,0.5) circle (0.02);
+  }
+}
+
+\newcommand{\dcrystalcluster}{%
+  \mapsymbol{
+    \draw[thick] (0.4,0.3) -- (0.35,0.6) -- (0.45,0.7) -- (0.5,0.4) -- cycle;
+    \draw[thick] (0.5,0.3) -- (0.45,0.6) -- (0.55,0.7) -- (0.6,0.4) -- cycle;
+    \draw[thick] (0.6,0.3) -- (0.55,0.6) -- (0.65,0.7) -- (0.7,0.4) -- cycle;
+  }
+}
+
+% ========== INDICATORI AMBIENTALI ==========
+\newcommand{\dwind}{%
+  \mapsymbol{
+    \draw[thick,->] (0.1,0.5) to[bend left=20] (0.9,0.5);
+    \draw[thick,->] (0.1,0.4) to[bend left=15] (0.7,0.4);
+    \draw[thick,->] (0.1,0.6) to[bend left=15] (0.7,0.6);
+  }
+}
+
+\newcommand{\dgas}{%
+  \mapsymbol{
+    \fill[yellow!30] (0.2,0.2) rectangle (0.8,0.8);
+    \draw[green,decorate,decoration={snake,amplitude=0.3mm}] (0.25,0.3) -- (0.75,0.7);
+    \draw[green,decorate,decoration={snake,amplitude=0.3mm}] (0.25,0.7) -- (0.75,0.3);
+  }
+}
+
+% ========== RESTI E MORTI ==========
+\newcommand{\dremains}{%
+  \mapsymbol{
+    \draw[very thick] (0.2,0.3) -- (0.8,0.7);
+    \draw[very thick] (0.2,0.7) -- (0.8,0.3);
+    \fill[black] (0.35,0.45) circle (0.03);
+    \fill[black] (0.65,0.55) circle (0.03);
+    \fill[black] (0.35,0.55) circle (0.03);
+    \fill[black] (0.65,0.45) circle (0.03);
+  }
+}
+
+\newcommand{\dteleporter}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.5) circle (0.2);
+    \draw[thick] (0.5,0.5) circle (0.1);
+    \foreach \angle in {0,45,90,135,180,225,270,315} {
+      \draw[thick,->] (0.5,0.5) -- +(\angle:0.15);
+    }
+  }
+}
+\newcommand{\ddoorstandard}{%
+  \mapsymbol{
+    \draw[very thick] (0,0.5) -- (0.8,0.5);
+    \draw[thick] (0.2,0.3) rectangle (0.4,0.7);
+  }
+}
+
+\newcommand{\ddoorsecret}{%
+  \mapsymbol{
+    \draw[very thick] (0,0.5) -- (0.3,0.5);
+    \draw[thick,dashed] (0.3,0.5) -- (0.7,0.5);
+    \draw[very thick] (0.7,0.5) -- (1.0,0.5);
+  }
+}
+
+\newcommand{\ddoorlocked}{%
+  \mapsymbol{
+    \draw[very thick] (0,0.5) -- (0.8,0.5);
+    \draw[thick] (0.2,0.3) rectangle (0.4,0.7);
+    \node at (0.5,0.5) {\tiny $\bullet$};
+  }
+}
+
+\newcommand{\ddooroneway}{%
+  \mapsymbol{
+    \draw[very thick] (0,0.5) -- (0.6,0.5);
+    \draw[thick] (0.2,0.3) rectangle (0.4,0.7);
+    \draw[thick,->] (0.6,0.5) -- (0.9,0.5);
+  }
+}
+
+\newcommand{\darchway}{%
+  \mapsymbol{
+    \draw[thick] (0.2,0.2) -- (0.2,0.6) arc (180:0:0.3) -- (0.8,0.2);
+  }
+}
+
+\newcommand{\dportcullis}{%
+  \mapsymbol{
+    \draw[very thick] (0,0.5) -- (0.3,0.5);
+    \foreach \x in {0.4,0.5,0.6,0.7} {
+      \draw[thick] (\x,0.2) -- (\x,0.8);
+    }
+    \draw[very thick] (0.8,0.5) -- (1.1,0.5);
+  }
+}
+
+\newcommand{\dcurtain}{%
+  \mapsymbol{
+    \draw[thick] (0.2,0.2) to[bend right=30] (0.3,0.8) to[bend left=30] (0.5,0.2) to[bend right=30] (0.7,0.8) to[bend left=30] (0.8,0.2);
+  }
+}
+
+% ========== SCALE E DISLIVELLI ==========
+\newcommand{\dstairsup}{%
+  \mapsymbol{
+    \foreach \y in {0.2,0.3,0.4,0.5,0.6,0.7} {
+      \draw[thick] (0.2,\y) -- (0.8,\y);
+    }
+    \draw[thick,->] (0.9,0.3) -- (0.9,0.6);
+  }
+}
+
+\newcommand{\dstairsdown}{%
+  \mapsymbol{
+    \foreach \y in {0.2,0.3,0.4,0.5,0.6,0.7} {
+      \draw[thick] (0.2,\y) -- (0.8,\y);
+    }
+    \draw[thick,->] (0.9,0.6) -- (0.9,0.3);
+  }
+}
+
+\newcommand{\dstairsspiral}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.5) circle (0.25);
+    \draw[thick] (0.25,0.5) -- (0.75,0.5);
+    \draw[thick] (0.5,0.25) -- (0.5,0.75);
+    \draw[thick] (0.32,0.32) -- (0.68,0.68);
+    \draw[thick] (0.32,0.68) -- (0.68,0.32);
+  }
+}
+
+\newcommand{\dladder}{%
+  \mapsymbol{
+    \draw[thick] (0.4,0.2) -- (0.4,0.8);
+    \draw[thick] (0.6,0.2) -- (0.6,0.8);
+    \foreach \y in {0.3,0.4,0.5,0.6,0.7} {
+      \draw[thick] (0.4,\y) -- (0.6,\y);
+    }
+  }
+}
+
+\newcommand{\dpit}{%
+  \mapsymbol{
+    \fill[black] (0.3,0.3) rectangle (0.7,0.7);
+  }
+}
+
+\newcommand{\dpitcovered}{%
+  \mapsymbol{
+    \draw[thick] (0.3,0.3) rectangle (0.7,0.7);
+    \draw[thick] (0.3,0.3) -- (0.7,0.7);
+    \draw[thick] (0.3,0.7) -- (0.7,0.3);
+  }
+}
+
+% ========== TRAPPOLE ==========
+\newcommand{\dtrap}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.5) circle (0.2);
+    \node at (0.5,0.5) {\small T};
+  }
+}
+
+\newcommand{\dtrapspikes}{%
+  \mapsymbol{
+    \draw[thick] (0.3,0.3) rectangle (0.7,0.7);
+    \foreach \x in {0.35,0.45,0.55,0.65} {
+      \draw[thick] (\x,0.35) -- (\x,0.65);
+    }
+  }
+}
+
+\newcommand{\dtrapdarts}{%
+  \mapsymbol{
+    \draw[thick] (0.3,0.3) rectangle (0.7,0.7);
+    \foreach \x in {0.35,0.5,0.65} {
+      \draw[thick,->] (\x,0.35) -- (\x,0.65);
+    }
+  }
+}
+
+% ========== MOBILI E STRUTTURE ==========
+\newcommand{\dtable}{%
+  \mapsymbol{
+    \draw[thick] (0.2,0.4) rectangle (0.8,0.6);
+    \draw[thick] (0.25,0.35) -- (0.25,0.65) -- (0.75,0.65) -- (0.75,0.35);
+  }
+}
+
+\newcommand{\dchair}{%
+  \mapsymbol{
+    \draw[thick] (0.4,0.3) rectangle (0.6,0.5);
+    \draw[thick] (0.4,0.5) -- (0.4,0.7);
+  }
+}
+
+\newcommand{\dbed}{%
+  \mapsymbol{
+    \draw[very thick] (0.35,0.2) rectangle (0.65,0.8);
+    \draw[thick] (0.35,0.65) -- (0.65,0.65);
+  }
+}
+
+\newcommand{\daltar}{%
+  \mapsymbol{
+    \draw[thick] (0.3,0.4) rectangle (0.7,0.6);
+    \draw[thick] (0.25,0.35) -- (0.75,0.35) -- (0.75,0.65) -- (0.25,0.65) -- cycle;
+    \node at (0.5,0.5) {\tiny +};
+  }
+}
+
+\newcommand{\dstatue}{%
+  \mapsymbol{
+    \fill[gray] (0.5,0.5) circle (0.15);
+    \node at (0.5,0.5) {\tiny S};
+  }
+}
+
+\newcommand{\dpillar}{%
+  \mapsymbol{
+    \fill[black] (0.5,0.5) circle (0.2);
+  }
+}
+
+\newcommand{\dcolumn}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.5) circle (0.2);
+    \foreach \angle in {0,45,90,135,180,225,270,315} {
+      \draw[thick] (0.5,0.5) -- +(\angle:0.15);
+    }
+  }
+}
+
+% ========== ACQUA E LIQUIDI ==========
+\newcommand{\dwell}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.5) circle (0.2);
+    \fill[black] (0.5,0.5) circle (0.1);
+  }
+}
+
+\newcommand{\dfountain}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.5) circle (0.2);
+    \foreach \angle in {0,60,120,180,240,300} {
+      \draw[thick] (0.5,0.5) -- +(\angle:0.1);
+    }
+  }
+}
+
+\newcommand{\dpool}{%
+  \mapsymbol{
+    \draw[thick] (0.2,0.3) to[bend left=20] (0.8,0.3) to[bend left=20] (0.8,0.7) to[bend left=20] (0.2,0.7) to[bend left=20] cycle;
+    \draw[thick] (0.3,0.45) to[bend left=10] (0.7,0.45);
+    \draw[thick] (0.3,0.55) to[bend left=10] (0.7,0.55);
+  }
+}
+
+\newcommand{\dstream}{%
+  \mapsymbol{
+    \draw[thick,decorate,decoration={snake,amplitude=0.5mm,segment length=2mm}] (0.1,0.5) -- (0.9,0.5);
+  }
+}
+
+% ========== CONTENITORI E TESORI ==========
+\newcommand{\dchest}{%
+  \mapsymbol{
+    \draw[thick] (0.3,0.4) rectangle (0.7,0.6);
+    \draw[thick] (0.3,0.6) -- (0.35,0.65) -- (0.65,0.65) -- (0.7,0.6);
+    \draw[thick] (0.65,0.65) -- (0.65,0.45) -- (0.7,0.4);
+    \draw[thick] (0.35,0.65) -- (0.35,0.45);
+  }
+}
+
+\newcommand{\dsarcophagus}{%
+  \mapsymbol{
+    \draw[very thick] (0.2,0.3) rectangle (0.8,0.7);
+    \draw[thick] (0.3,0.4) -- (0.7,0.4);
+    \draw[thick] (0.3,0.6) -- (0.7,0.6);
+    \node at (0.5,0.5) {\tiny $\dagger$};
+  }
+}
+
+\newcommand{\durn}{%
+  \mapsymbol{
+    \draw[thick] (0.45,0.3) -- (0.45,0.6) -- (0.5,0.7) -- (0.55,0.6) -- (0.55,0.3) -- cycle;
+    \draw[thick] (0.4,0.3) -- (0.6,0.3);
+  }
+}
+
+% ========== ILLUMINAZIONE ==========
+\newcommand{\dtorch}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.2) -- (0.5,0.6);
+    \fill[orange] (0.5,0.6) circle (0.08);
+    \foreach \angle in {0,72,144,216,288} {
+      \draw[orange] (0.5,0.6) -- +(\angle:0.12);
+    }
+  }
+}
+
+\newcommand{\dbrazier}{%
+  \mapsymbol{
+    \draw[thick] (0.4,0.3) -- (0.4,0.5) -- (0.3,0.6) -- (0.7,0.6) -- (0.6,0.5) -- (0.6,0.3);
+    \fill[orange] (0.5,0.6) circle (0.05);
+  }
+}
+
+\newcommand{\dcrystal}{%
+  \mapsymbol{
+    \draw[thick] (0.5,0.2) -- (0.4,0.5) -- (0.5,0.8) -- (0.6,0.5) -- cycle;
+    \foreach \angle in {0,60,120,180,240,300} {
+      \draw[cyan] (0.5,0.5) -- +(\angle:0.08);
+    }
+  }
+}
+
+% ========== TERRENO ==========
+\newcommand{\drock}{%
+  \mapsymbol{
+    \fill[gray!50] (0.2,0.2) rectangle (0.8,0.8);
+    \foreach \x in {0.3,0.5,0.7} {
+      \foreach \y in {0.3,0.5,0.7} {
+        \fill[gray!80] (\x,\y) circle (0.02);
+      }
+    }
+  }
+}
+
+\newcommand{\drubble}{%
+  \mapsymbol{
+    \fill[gray!40] (0.2,0.2) rectangle (0.8,0.8);
+    \foreach \x in {0.25,0.4,0.55,0.7} {
+      \foreach \y in {0.25,0.45,0.65} {
+        \fill[gray!70] (\x,\y) circle (0.03);
+      }
+    }
+  }
+}
+
+\newcommand{\dsand}{%
+  \mapsymbol{
+    \fill[yellow!30] (0.2,0.2) rectangle (0.8,0.8);
+    \foreach \x in {0.25,0.35,0.45,0.55,0.65,0.75} {
+      \foreach \y in {0.25,0.35,0.45,0.55,0.65,0.75} {
+        \fill[yellow!60] (\x,\y) circle (0.01);
+      }
+    }
+  }
+}
+
+\newcommand{\dice}{%
+  \mapsymbol{
+    \fill[cyan!20] (0.2,0.2) rectangle (0.8,0.8);
+    \draw[cyan] (0.25,0.3) -- (0.75,0.7);
+    \draw[cyan] (0.3,0.25) -- (0.7,0.75);
+    \draw[cyan] (0.75,0.3) -- (0.25,0.7);
+  }
+}
+
+\newcommand{\dlava}{%
+  \mapsymbol{
+    \fill[red!60] (0.2,0.2) rectangle (0.8,0.8);
+    \draw[orange,decorate,decoration={snake,amplitude=0.5mm}] (0.25,0.4) -- (0.75,0.4);
+    \draw[orange,decorate,decoration={snake,amplitude=0.5mm}] (0.25,0.6) -- (0.75,0.6);
+  }
+}
+
+% ========== VEGETAZIONE ==========
+\newcommand{\dtree}{%
+  \mapsymbol{
+    \draw[brown,thick] (0.5,0.2) -- (0.5,0.5);
+    \fill[green!60] (0.5,0.6) circle (0.15);
+  }
+}
+
+\newcommand{\dbush}{%
+  \mapsymbol{
+    \fill[green!50] (0.4,0.4) circle (0.08);
+    \fill[green!50] (0.6,0.4) circle (0.08);
+    \fill[green!50] (0.5,0.5) circle (0.08);
+  }
+}
+
+\begin{document}
+
+\begin{center}
+{\LARGE \textbf{SIMBOLI STANDARD PER MAPPE DUNGEON}}\\
+\vspace{0.3cm}
+{\large Giochi di Ruolo Fantasy}
+\end{center}
+
+\vspace{1cm}
+
+\begin{multicols}{2}
+\setlength{\columnseprule}{0.4pt}
+
+% ========== PRIMA COLONNA ==========
+\section*{PORTE E APERTURE}
+
+\legendentry{\ddoorstandard}{Porta Standard}
+\legendentry{\ddoorsecret}{Porta Segreta}
+\legendentry{\ddoorlocked}{Porta Chiusa a Chiave}
+\legendentry{\ddooroneway}{Porta a Senso Unico}
+\legendentry{\ddoormagic}{Porta Magica}
+\legendentry{\ddoorsliding}{Porta Scorrevole}
+\legendentry{\darchway}{Arco/Apertura}
+\legendentry{\dportcullis}{Saracinesca}
+\legendentry{\dcurtain}{Tenda/Cortina}
+
+\section*{MECCANISMI}
+
+\legendentry{\dlever}{Leva}
+\legendentry{\dbutton}{Pulsante}
+\legendentry{\dgear}{Ingranaggio}
+
+\section*{SCALE E DISLIVELLI}
+
+\legendentry{\dstairsup}{Scale in Salita}
+\legendentry{\dstairsdown}{Scale in Discesa}
+\legendentry{\dstairsspiral}{Scale a Chiocciola}
+\legendentry{\dladder}{Scala a Pioli}
+\legendentry{\dpit}{Fossa/Pozzo}
+\legendentry{\dpitcovered}{Fossa Nascosta}
+
+\section*{TRAPPOLE}
+
+\legendentry{\dtrap}{Trappola Generica}
+\legendentry{\dtrapspikes}{Trappola a Spuntoni}
+\legendentry{\dtrapdarts}{Trappola a Dardi}
+
+\section*{MOBILI E STRUTTURE}
+
+\legendentry{\dtable}{Tavolo}
+\legendentry{\dchair}{Sedia}
+\legendentry{\dbed}{Letto}
+\legendentry{\daltar}{Altare}
+\legendentry{\dstatue}{Statua}
+\legendentry{\dpillar}{Pilastro Pieno}
+\legendentry{\dcolumn}{Colonna}
+
+\columnbreak
+
+% ========== SECONDA COLONNA ==========
+\section*{ELEMENTI MAGICI}
+
+\legendentry{\dcirclemagic}{Cerchio Magico}
+\legendentry{\dpentacle}{Pentacolo}
+\legendentry{\drune}{Runa}
+\legendentry{\dteleporter}{Teletrasporto}
+
+\section*{OGGETTI SPECIALI}
+
+\legendentry{\dbook}{Libro/Pergamena}
+\legendentry{\dmirror}{Specchio}
+\legendentry{\dweaponrack}{Rastrelliera Armi}
+\legendentry{\dremains}{Resti Umani}
+
+\section*{STRUTTURE LAVORATIVE}
+
+\legendentry{\dforge}{Fucina}
+\legendentry{\danvil}{Incudine}
+\legendentry{\dalchemylab}{Laboratorio Alchemico}
+
+\section*{PRIGIONI E SICUREZZA}
+
+\legendentry{\dcell}{Cella}
+\legendentry{\dchain}{Catene}
+
+\section*{ACQUA E LIQUIDI}
+
+\legendentry{\dwell}{Pozzo}
+\legendentry{\dfountain}{Fontana}
+\legendentry{\dpool}{Stagno/Piscina}
+\legendentry{\dstream}{Ruscello/Fiume}
+
+\section*{CONTENITORI E TESORI}
+
+\legendentry{\dchest}{Forziere}
+\legendentry{\dsarcophagus}{Sarcofago}
+\legendentry{\durn}{Urna}
+
+\section*{ILLUMINAZIONE}
+
+\legendentry{\dtorch}{Torcia}
+\legendentry{\dbrazier}{Braciere}
+\legendentry{\dcrystal}{Cristallo Luminoso}
+
+\section*{TERRENO}
+
+\legendentry{\drock}{Roccia/Pietra}
+\legendentry{\drubble}{Macerie}
+\legendentry{\dsand}{Sabbia}
+\legendentry{\dice}{Ghiaccio}
+\legendentry{\dlava}{Lava}
+
+\section*{VEGETAZIONE E NATURA}
+
+\legendentry{\dtree}{Albero}
+\legendentry{\dbush}{Cespuglio}
+\legendentry{\dmushroom}{Funghi}
+\legendentry{\dcrystalcluster}{Cristalli Naturali}
+
+\section*{ELEMENTI AMBIENTALI}
+
+\legendentry{\dwind}{Correnti d'Aria}
+\legendentry{\dgas}{Gas/Vapori}
+
+\end{multicols}
+
+\vspace{1cm}
+
+\begin{center}
+\textit{Nota: Questi simboli sono standard per la maggior parte dei sistemi di gioco di ruolo fantasy. \\
+Adattare scale e dimensioni secondo le necessità della mappa.}
+\end{center}
+
+\end{document}

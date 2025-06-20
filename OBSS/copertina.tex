@@ -1,0 +1,88 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{calligra}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{rotating}
+\usepackage{yfonts}
+\usepackage{palatino}
+
+\usepackage[absolute,overlay]{textpos}
+
+%\pdfminorversion=5
+
+
+%Book Size: Your PDF dimensions are 18.194" x 12.000" (462.14mm x 304.80mm)For the book size you selected, the PDF dimensions need to be within 18.008"-18.133" x 11.877"-12.002". (457.41mm-460.58mm x 301.69mm-304. 86mm). Please update your PDF dimensions or select a different book size.  542
+
+%Dimensions: 18.071 x 11.94in / 459mm x 303.28mm
+
+%prendere le misure che di dice lulu ed aumentare di 1mm circa
+
+\def \versione {0.82}
+
+\begin{document}
+
+\pdfpageheight=303.69mm
+\pdfpagewidth=460.26mm
+\thispagestyle{empty}
+
+
+
+
+\tikz[remember picture,overlay]  \node[opacity=1, xshift=(\paperwidth)*0.5+3.6cm,yshift=0.35cm,inner sep=0pt] at (current page.east){\includegraphics[width=21.0cm,height=\pdfpageheight]{immagini/copertina2-ai.png}};
+
+
+%\tikz[remember picture,overlay] \node[opacity=0.3,inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth,height=\paperheight]{example-image}};
+
+\begin{textblock*}{15cm}(33.5cm,7cm) % {block width} (coords)
+\Huge {Old Bell School System}\\
+\end{textblock*}
+
+\begin{textblock*}{20cm}(37cm,8cm) % {block width} (coords)
+\Large {\textbf{(OBSS)}}\\
+\end{textblock*}
+
+
+
+\begin{textblock*}{20cm}(31cm,28.5cm) % {block width} (coords)
+		{\color{red} \calligra\Huge{Adventures Game} \LARGE \textbf{v\versione}}
+\end{textblock*}
+
+\begin{textblock*}{2cm}(22cm,3cm) % {block width} (coords)
+\begin{turn}{270}
+	{\Huge Old Bell School System v\versione}\\
+\end{turn}
+\end{textblock*}
+
+
+\begin{textblock*}{2cm}(22cm,22.7cm) % {block width} (coords) 5
+\begin{turn}{270}
+	{\Huge Andres Zanzani}
+\end{turn}
+\end{textblock*}
+
+%\begin{textblock*}{20cm}(25.5cm,14cm) % {block width} (coords) 5
+%	\includegraphics[bb=0 0 1148 636,width=6.85139in,height=3.79514in]{copertina.png}
+%\end{textblock*}
+
+
+Old Bell School System (OBSS) è un gioco di ruolo (GDR o RPG, Role Play Game in inglese) cooperativo e narrativo nel quale i giocatori creano personaggi che vivranno fantastiche e strabilianti avventure. Il Narratore si preoccuperà di dipanare la storia e fare partecipare i personaggi. Come in un gioco di narrazione ogni personaggio contribuirà attivamente alla storia con le sue scelte, le sue decisioni e le sue azioni.
+
+Se sei un giocatore ti accorgerai presto che non è un mondo facile, le cose non vengono regalate ne sono semplici. Saranno più le volte che vorranno ucciderti e derubarti di quelle che vorranno offrirti da bere.\\
+Non affezionarti troppo al tuo personaggio, solo i forti sopravvivono e i potenti imperano. Dimostra chi sei e cosa vuoi. Vuoi essere l'eroe lucente in armatura ? fa pure, ma un ratto ha più probabilità di sopravvivere.
+
+In ogni caso del tuo personaggio sarai tu a decidere tutto, dall'aspetto,al nome, alle sue capacità e ciò che possiede. Vorrà essere un pirata rubacuori o un cavaliere timido.. un barbaro delle steppe o uno stregone ? Oro, onore, tesori, saccheggi, le avventure del tuo personaggio saranno costellate da scelte e battaglie, baldorie e.. qualsiasi cosa tu voglia!
+
+Se sei il Narratore invece tu governi il mondo,  la storia, l'avventura. Il tuo ruolo è di illustrare lo scenario in cui i giocatori si muovono e prendono decisioni. Li condurrai nelle profondità della terra alla ricerca del Tomo dimenticato di Atmos oppure a sfidare i grandi Draghi per la corona dell'Onniscienza?
+
+Il tuo compito non è facile, usa fantasia, buon senso e la regola principale: divertiti. Quando sei in difficoltà non cercare la regola precisa, usa la tua più grande alleata: l'immaginazione, unisci un pizzico di assennatezza e cerca di stupire i giocatori. Lo scopo è sempre e solo uno, divertirsi insieme e crescere, come giocatori, come personaggi, come amici.
+
+Oltre questo manuale avrai bisogno anche di un pò di dadi, i classici usati nei giochi di ruolo.
+Chiamati solitamente d4, d6, d8, d10, d12, d20 stanno ad indicare un dado a 4 facce, il dado a 6 facce (di questi devi averne 3 o 4 almeno!), il dato a 8 facce, quello a 10 (solitamente vengono venduti in coppia, per poter ottenere il d100), il solitario dado a 12 facce e il sempiterno dado a 20 facce.
+Ogni qual volta ti verrà chiesto di tirare un dado questo sarà scritto con la notazione XdZ, ovvero tiro X volte un dado con Z facce. Es. 4d6 indica di tirare 4 volte il dado a 6 facce.
+
+\end{document}
