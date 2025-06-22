@@ -336,7 +336,7 @@ Ogni ora si recupera, con un minimo di 1 PF, il proprio valore di Costituzione i
 
 
 \begin{dmbox}[title=Capacità di Carico - pagina \pageref{capacitadicarico}]
-La CdC è pari a 9 (P), 16 (M), 25 (G) + Forza + Costituzione.
+La CdC è pari a 6 (P), 12 (M), 24 (G) + Forza + Costituzione.
 \end{dmbox}
 
 
@@ -822,23 +822,22 @@ Un \textbf{dardo pesante} per Balestra penetra più facilmente le armature di me
 
 
 \begin{dmbox}[title=Armature - pagina \pageref{equipaggiamentoarmature}]
-
-\begin{tabular}{llllllll}
-\textbf{Armatura} & \textbf{Costo} & \textbf{Difesa} & \textbf{Malus} &  \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova}&\textbf{Ing.}\\
-&(mo)&&\textbf{Comp}.&&&\textbf{Magia}&\\
-\hline
-Imbottita & 5  & 1 & 0 & L & 0 & NO&2\\
-Cuoio & 10  & 2 & 0  & L & 0 & SI&2\\
-Cuoio rinforzato& 25   & 3  & 0   & L & 0 & SI&2\\
-Giaco di Maglia & 15  & 4  & -1  & M & 0 &+2&4\\
-Scaglie& 50  & 5  & -1  & M & 0 &+2&4\\
-Anelli & 150  & 6  & -1  & M & 0 &+2&4\\
-Pettorale  & 200  & 6  & -2  & M & 0 &+2&4\\
-Bande & 250  & 7  & -2  & P & 0 &+1&8\\
-Mezza armatura  & 1200 & 8  & -2  & P & 1 &+1,2&8\\
-da Campo& 1350 & 9  & -3  & P & 2 &+1,2&8\\
-Completa& 1500 & 10 & -4  & P & 3 &+1,1&8\\
+\noindent\begin{tabular}{llllllll}
+	\textbf{Armatura} & \textbf{Costo} & \textbf{Difesa} & \textbf{Pen. Comp.} & \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Ingombro}\\
+	\toprule
+	Imbottita & 5 mo & 1 & 0 & L 	& 		0 		& -		&2\\
+	Cuoio & 10 mo & 2 & 0 & L 		& 		0 		& +4		&2\\
+	Cuoio rinforzato& 25 mo& 3 & 0& L 	& 0 		& +4		&2\\
+	Giaco di Maglia & 15 mo & 4 & -1 & M & 0 		&+8			&4\\
+	Scaglie& 50 mo & 5& -1& M & 0 					&+8			&4\\
+	Anelli & 150 mo & 6& -1& M & 0 					&+8			&4\\
+	Pettorale& 200 mo & 6& -2& M & 0 				&+8			&4\\
+	Bande & 250 mo & 7& -2& P & 0 					&+16		&8\\
+	Mezza armatura& 1200 mo& 8& -2& P & 1 			&+16		&8\\
+	da Campo& 1350 mo& 9& -3& P & 2 				&+16		&8\\
+	Completa& 1500 mo& 10 & -4& P & 3 				&+16		&8
 \end{tabular}
+
 \end{dmbox}
 
 \begin{dmbox}[title=Scudi - pagina \pageref{tabella-scudi}]
@@ -856,8 +855,7 @@ Scudo pesante di metallo & 20 mo  &  3& 1& +1,2  & P\\
 \end{dmbox}
 
 \begin{dmbox}[title=Prova di Magia - pagina \pageref{magieprovadimagia}]
-3d6 + Aggiungi 1d6 ogni 2 Liste di magia conosciuta, ignori un 1 per ogni 2 Adepto della Magia\\
-Fallimento Critico: due volte 1, un 1 e due 2
+3d6 + Aggiungi 1d6 ogni 2 Liste di magia conosciuta, ignori un 1 per ogni 2 Adepto della Magia maggiore di 10 + 2 * Livello incantesimo\\
 \end{dmbox}
 
 \begin{dmbox}[title=Distratto - pagina \pageref{magiedistratto}]

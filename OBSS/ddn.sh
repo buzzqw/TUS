@@ -493,10 +493,10 @@ copy_final_pdfs() {
     local -r dest_dir="per versione"
     local -ra pdf_files=(
         "OBSSv2.pdf" "OBSSv2-eng.pdf" "OBSS-Iniziativa.pdf"
-        "OBSS-scheda.pdf" "OBSS-scheda-v3.pdf" 
+        "OBSSv2-scheda.pdf" "OBSSv2-scheda-v3.pdf" 
         "OBSS-schema-narratore-personaggi.pdf"
         "OBSS-utilita.pdf" "screenv2.pdf" "screenv2-eng.pdf"
-        "OBSS-scheda-eng.pdf" "OBSS-options.pdf" "OBSS-utility.pdf"
+        "OBSSv2-scheda-eng.pdf" "OBSS-options.pdf" "OBSS-utility.pdf"
         "OBSS-schema-arbiter-character-eng.pdf"
     )
     
