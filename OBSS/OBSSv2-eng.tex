@@ -18483,7 +18483,7 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 \noindent\begin{tabular}{llllllll}
 \textbf{Armor} & \textbf{Cost} & \textbf{Defense} & \textbf{Prof. Pen.} & \textbf{Type} & \textbf{Mov.} & \textbf{Magic Check}&\textbf{Encumbrance}\\
 \toprule
-Padded 			& 5 gp 		& 1	& 0		& L & 0 & NO&2\\
+Padded 			& 5 gp 		& 1	& 0		& L & 0 & -&2\\
 Leather 		& 10 gp 	& 2	& 0 	& L & 0 & +4&2\\
 Studded leather	& 25 gp		& 3	& 0 	& L & 0 & +4&2\\
 Chain shirt 	& 15 gp 	& 4	& -1 	& M & 0 &+8&4\\
@@ -18508,17 +18508,11 @@ Full plate		& 1500 gp	& 10& -4	& H & 3 &+16&8
 
 \textbf{Type}: indicates whether the armor is \textbf{L}ight, \textbf{M}edium, or \textbf{H}eavy.
 
-\textbf{Encumbrance}: indicates the encumbrance when the armor is transported and not worn.
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-When counting the Encumbrance given by armor and shield \textbf{worn}, you must divide it by two.
-
-The Encumbrance of armor and shields is meant when it is \emph{loaded in the backpack}, that is, transported but not worn.
-\end{narratore}\end{changemargin}
+\textbf{Encumbrance}: indicates the encumbrance of the armor.
 
 \textbf{Mov. (movement)}: is the reduction in meters of movement to apply per Movement Action.
 
-\textbf{Magic Check}: The numbers indicated are to be added to difficulty of the Magic Check.
+\textbf{Magic Check}: The - indicates that Magic Check isn't required. The numbers indicated are to be added to difficulty of the Magic Check.
 
 \textbf{Cost}: the cost of a +1 armor or shield is 2250gp, +2 10000gp. It is practically not possible to purchase armor or shields or weapons with enchantments higher than +2, they must be \emph{found}.
 
@@ -22648,7 +22642,7 @@ A mount can be equipped with armor. Light armor will confer a +2 bonus to Defens
 
 \subsection{Table: Mounts and Vehicles}
 
-\index[OBSSv2]{Mounts}\index[OBSSv2]{Vehicles}\index[Table]{Table Mounts and Vehicles}\index[OBSSv2]{Saurovall movement}\index[OBSSv2]{Daily movement on Saurovall}
+\index[OBSSv2]{Mounts}\index[OBSSv2]{Vehicles}\index[Table]{Table Mounts and Vehicles}\index[OBSSv2]{Saurovall movement}\index[OBSSv2]{Daily movement on Saurovall}\label{TableMountsandVehicles}\hypertarget{TableMountsandVehicles}{}
 
 \medskip
 
@@ -22697,7 +22691,7 @@ If the journey lasts more than a few days, it becomes an opportunity to get to k
 
 In round-by-round movement, it is impossible for a slow character to escape a fast character without some kind of help. Similarly, it is not a problem for a fast character to escape a slower one.
 
-When the pursuit takes place in a city or in an environment that allows hiding or making one lose track, if the speed of the two characters involved is the same, the pursuer and the pursued must make 3 consecutive opposed Reflex Saving Throws. Whoever wins the challenge manages to lose their tracks or catch the fugitive.
+When the pursuit takes place in a city or in an environment that allows hiding or making one lose track, if the speed of the two characters involved is the same, the pursuer and the pursued must make 3 consecutive opposed Reflex Saving Throws with Stealth as modifier. Whoever wins the challenge manages to lose their tracks or catch the fugitive.
 
 If the pursuit takes place in an open area where there is no way to hide or make one lose track, perform 3 opposed Fortitude Saving Throws to determine which of the two parties can maintain the pace longer. Whoever wins the challenge manages to shake off the pursuer or catch the fugitive.
 
@@ -22726,21 +22720,19 @@ Objects with little weight and volume have \textbf{Light} (L) encumbrance. These
 
 \label{capacitadicarico}\index[OBSSv2]{Load Capacity}
 
-The Load Capacity of a creature is given by the \textbf{sum of Size, Strength, and Constitution}.
+The Load Capacity (CdC) of a creature is given by the \textbf{sum of Size, Strength, and Constitution}.
 
-The Size of a creature grants a bonus to \textbf{CdC} (Load Capacity) equal to 9 if Small, 16 if Medium, 25 if Large. The Encumbrance of a creature if dragged\index[OBSSv2]{Dragging a body} by weight is equal to half its Load Capacity, given by size, plus its encumbrance.\index[OBSSv2]{Encumbrance of transported Creatures} If carried by weight, the CdC will be equal to the Encumbrance the creature has.
+The Size of a creature grants a bonus to \textbf{CdC} (Load Capacity) equal to 6 if Small, 12 if Medium, 24 if Large. The Encumbrance of a creature if dragged\index[OBSSv2]{Dragging a body} by weight is equal to half its Load Capacity, given by size, plus its encumbrance.\index[OBSSv2]{Encumbrance of transported Creatures} If carried by weight, the CdC will be equal to the Encumbrance the creature has.
 
-When the total CdC is exceeded, then moving and performing skill checks based on Dexterity becomes problematic. One becomes encumbered and movement capacity drops by half and skill checks based on Dexterity have a -3 penalty.
+When the total \textbf{CdC is exceeded}, then moving and performing skill checks based on Dexterity becomes problematic. One becomes encumbered terrein is considered difficult and skill checks based on Dexterity have a -3 penalty.
 
-If the CdC is doubled, then one can no longer move due to the encumbrance of the weights carried.
+If the \textbf{CdC is doubled}, then one can no longer move due to the encumbrance of the weights carried.
 
-\emph{Remember that armor and shield when worn have half the Encumbrance compared to when transported.}
+E.g. Tups is wearing a Ring Mail (encumbrance 4), a longsword (medium weapon, encumbrance 2), a mace (enc. 2), 18 light objects (enc. 1), a backpack (enc. 1), a tent (enc. 2), a lantern (enc 1). Total Encumbrance = 13.
 
-E.g. Tups is wearing a Ring Mail (encumbrance 2 being worn), a longsword (medium weapon, encumbrance 2), a mace (enc. 2), 18 light objects (enc. 1), a backpack (enc. 1), a tent (enc. 2), a lantern (enc 1). Total Encumbrance = 11.
+Tups is a Medium creature with Strength -1 and Constitution +0 (he's a bit frail and weak..) this gives him a Load Capacity of 12-1=11.
 
-Tups is a Medium creature with Strength -1 and Constitution -1 (he's a bit frail and weak..) this gives him a Load Capacity of 16-1-1=14.
-
-Tups's CdC is higher than his encumbrance, but he must be careful, perhaps it's better if he leaves the tent on his Saurovall...
+Encumbrance is higher than Tups's CdC! He must be careful, it's better if he leaves the tent on his Saurovall...
 
 If the load is placed on a cart, you can push it at full movement if within your CdC, at half movement if within twice the CdC, and at a quarter of the movement if within four times the CdC.
 
@@ -22757,11 +22749,11 @@ The \textbf{Table: CdC transported based on size}\index[OBSSv2]{Encumbrance tran
 \begin{tabularx}{0.45\textwidth}{ll|ll}
 \textbf{Size}& \textbf{Enc.}&\textbf{Size} & \textbf{Enc.}\\
 \toprule
-Fine &1/4& Large & 25\\
+Fine &1/4& Large & 24\\
 Diminutive & 1 & Huge& 36\\
-Tiny & 4& Gargantuan&49\\
-Small & 9 & Colossal&64\\
-Medium & 16&&
+Tiny & 3& Gargantuan&49\\
+Small & 6 & Colossal&77\\
+Medium & 12&&
 \end{tabularx}
 
 \medskip
@@ -22788,7 +22780,7 @@ every other 2 legs & +0.5
 
 \medskip
 
-These Tables are to be used for unusual animals not indicated or comparable to those in the Table: Mounts and Vehicles.
+These Tables are to be used for unusual animals not indicated or comparable to those in the \hyperlink{TableMountsandVehicles}{Table: Mounts and Vehicles}, page \pageref{TableMountsandVehicles}.
 
 \subsection{Other Types of Movement}
 
@@ -28017,7 +28009,7 @@ These are the guidelines on the use of magic items.
 \label{magic-items}
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item
-A character can \textbf{wear numerous (up to 10) magic items} on themselves.
+A character can \textbf{wear activated numerous (up to 10) magic items} on themselves.
 
 \item To determine the bonus to \textbf{Defense} you cannot add more than 2 items (e.g. 1 magic ring and a bracelet). Armor and Shield are not considered in this count.
 \item

@@ -184,7 +184,7 @@ Una cavalcatura può essere bardata con un armatura. Un armatura leggera conferi
 %\includegraphics[height=0.3\linewidth]{immagini/carretto.png}
 %\end{center}
 
-\subsection{Tabella: Cavalcature e Veicoli}\index{Cavalcature}\index{Veicoli}\index[Tabelle]{Tabella Cavalcature e Veicoli}\index{Saurovallo movimento}\index{Movimento al giorno su saurovallo}
+\subsection{Tabella: Cavalcature e Veicoli}\index{Cavalcature}\index{Veicoli}\index[Tabelle]{Tabella Cavalcature e Veicoli}\index{Saurovallo movimento}\index{Movimento al giorno su saurovallo}\label{TabellaCavalcatureeVeicoli}\hypertarget{TabellaCavalcatureeVeicoli}{}
 
 \medskip
 
@@ -231,7 +231,7 @@ Se il viaggio dura più giorni diventa una occasione di conoscenza tra i persona
 
 Nel movimento round per round è impossibile per un personaggio lento sfuggire ad un personaggio veloce senza qualche tipo di aiuto. Allo stesso modo non è un problema per un personaggio veloce sfuggire ad uno più lento.
 
-Quando l'inseguimento avviene in città o comunque in un ambiente che permette di nascondersi o fare perdere le proprie tracce, se la velocità dei due personaggi coinvolti è uguale occorre che inseguitore ed inseguito effettuino 3 Tiri Salvezza consecutivi su Riflessi contrapposti. Chi vince la sfida riesce a fare perdere le proprie tracce od agguantare il fuggitivo.
+Quando l'inseguimento avviene in città o comunque in un ambiente che permette di nascondersi o fare perdere le proprie tracce, se la velocità dei due personaggi coinvolti è uguale occorre che inseguitore ed inseguito effettuino 3 Tiri Salvezza consecutivi su Riflessi con modificatore Furtività contrapposti. Chi vince la sfida riesce a fare perdere le proprie tracce od agguantare il fuggitivo.
 
 Se l'inseguimento avviene all'aperto dove non c'è modo di nascondersi o fare perdere le proprie tracce eseguite 3 Tiri Salvezza su Tempra contrapposti per determinare quale delle due parti può mantenere più a lungo il ritmo. Chi vince la sfida riesce a seminare l'inseguitore od agguantare il fuggitivo.
 
@@ -254,21 +254,19 @@ Gli oggetti con scarso peso e volume hanno ingombro \textbf{Leggero} (L). Questi
 
 \subsubsection{Capacita' di Carico}\label{capacitadicarico}\index{Capacita' di Carico}
 
-La Capacità di Carico di una creatura è data dalla \textbf{somma di Taglia, Forza e la Costituzione}.
+La Capacità di Carico di una creatura è data dalla \textbf{somma di Taglia, Forza e Costituzione}.
 
-La Taglia di una creatura concede un bonus alla \textbf{CdC} (Capacità di Carico) pari a 9 se Piccola, 16 se Media, 25 se Grande. L'Ingombro di una creatura se trascinata\index{Trascinare un corpo} di peso è pari alla metà della sua Capacità di Carico, data dalla taglia, più il suo ingombro.\index{Ingombro Creature trasportate} Se trasportata di peso la CdC sarà pari all'Ingombro che ha la creatura.
+La Taglia di una creatura concede un bonus alla \textbf{CdC} (Capacità di Carico) pari a 6 se Piccola, 12 se Media, 24 se Grande. L'Ingombro di una creatura se trascinata\index{Trascinare un corpo} di peso è pari alla metà della sua Capacità di Carico, data dalla taglia, più il suo ingombro.\index{Ingombro Creature trasportate} Se trasportata di peso la CdC sarà pari all'Ingombro che ha la creatura.
 
-Quando la CdC totale viene superata allora muoversi ed effettuare prove di competenza basate sulla Destrezza diventa problematico. Si diviene appesantiti e la capacità di movimento scende della metà e le prove di Competenza basate su Destrezza hanno un -3 di penalità.
+Quando la \textbf{CdC totale viene} superata allora muoversi ed effettuare prove di competenza basate sulla Destrezza diventa problematico. Si diviene appesantiti e tutto il terreno viene trattato come difficile e le prove di Competenza basate su Destrezza hanno un -3 di penalità.
 
-Se la CdC viene doppiata allora non ci si può più muovere per l'ingombro dei pesi portati.
+Se la CdC \textbf{viene doppiata} allora non ci si può più muovere per l'ingombro dei pesi portati.
 
-\emph{Ricordate che l'armatura e scudo quando indossati hanno un Ingombro dimezzato rispetto a quando trasportate.}
+Es. Tups ha indosso una Armatura ad Anelli (ingombro 4), una spada lunga (arma media, ingombro 2), una mazza chiodata (ing. 2), 18 oggetti leggeri (ing. 1), uno zaino (ing. 1), una tenda (ing. 2), una lanterna (ing 1). Totale Ingombro = 13.
 
-Es. Tups ha indosso una Armatura ad Anelli (ingombro 2 essendo indossata), una spada lunga (arma media, ingombro 2), una mazza chiodata (ing. 2), 18 oggetti leggeri (ing. 1), uno zaino (ing. 1), una tenda (ing. 2), una lanterna (ing 1). Totale Ingombro = 11.
+Tups è una creatura Media con Forza -1 e Costituzione +0 (è un pò gracile e debole..) questo gli concede una Capacità di Carico di 12-1=11.
 
-Tups è una creatura Media con Forza -1 e Costituzione -1 (è un pò gracile e debole..) questo gli concede una Capacità di Carico di 16-1-1=14.
-
-La CdC di Tups è superiore al suo ingombro ma deve stare attento, forse è meglio se lascia la tenda sul suo saurovallo...
+Il peso trasportato da Tups è superiore alla sua CdC ! E' meglio se lascia la tenda sul suo saurovallo...
 
 Se il carico viene appoggiato su un carro puoi spingerlo a movimento pieno se entro la tua CdC, a metà movimento se entro il doppio della CdC ed ad un quarto del movimento se entro il quadruplo della CdC.
 
@@ -283,11 +281,11 @@ Nella \textbf{Tabella: CdC trasportato in base alla taglia}\index{Ingombro trasp
 \begin{tabularx}{0.45\textwidth}{ll|ll}
 \textbf{Taglia}& \textbf{Ing.}&\textbf{Taglia} & \textbf{Ing.}\\
 \toprule
-Piccolissima &1/4& Grande & 25\\
+Piccolissima &1/4& Grande & 24\\
 Minuta & 1 & Enorme& 36\\
-Minuscola & 4& Mastodontica&49\\
-Piccola & 9 & Colossale&64\\
-Media & 16&&
+Minuscola & 3& Mastodontica&49\\
+Piccola & 6 & Colossale&77\\
+Media & 12&&
 \end{tabularx}
 
 \medskip
@@ -314,7 +312,7 @@ ogni altre 2 zampe & +0.5
 
 \medskip
 
-Queste Tabelle sono da usare per gli animali insoliti non indicati o assimilabili a quelli nella Tabella: Cavalcature e Veicoli.
+Queste Tabelle sono da usare per gli animali insoliti non indicati o assimilabili a quelli nella \hyperlink{TabellaCavalcatureeVeicoli}{Tabella: Cavalcature e Veicoli}, pag. \pageref{TabellaCavalcatureeVeicoli}.
 
 \subsection{Altri Tipi di Movimento}
 

@@ -18022,7 +18022,7 @@ La Penalità Competenze è la penalità che si applica alle prove di competenza 
 \noindent\begin{tabular}{llllllll}
 \textbf{Armatura} & \textbf{Costo} & \textbf{Difesa} & \textbf{Pen. Comp.} & \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Ingombro}\\
 \toprule
-Imbottita & 5 mo & 1 & 0 & L 	& 		0 		& NO		&2\\
+Imbottita & 5 mo & 1 & 0 & L 	& 		0 		& -		&2\\
 Cuoio & 10 mo & 2 & 0 & L 		& 		0 		& +4		&2\\
 Cuoio rinforzato& 25 mo& 3 & 0& L 	& 0 		& +4		&2\\
 Giaco di Maglia & 15 mo & 4 & -1 & M & 0 		&+8			&4\\
@@ -18047,17 +18047,11 @@ Completa& 1500 mo& 10 & -4& P & 3 				&+16		&8
 
 \textbf{Tipo}: indica se l'armatura è \textbf{L}eggera, \textbf{M}edia oppure \textbf{P}esante.
 
-\textbf{Ingombro}: indica l'ingombro quando l'armatura viene trasportata e non indossata.
-
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
-Quando conteggiate l'Ingombro dato dall'armatura e scudo \textbf{indossato} dovete dividerlo per due.
-
-L'Ingombro di armatura e scudi è da intendersi quando è \emph{caricata nello zaino}, ovvero trasportata ma non indossata.
-\end{narratore}\end{changemargin}
+\textbf{Ingombro}: indica l'ingombro dell'armatura.
 
 \textbf{Mov. (movimento)}: è la riduzione in metri di movimento da applicare per Azione di Movimento.
 
-\textbf{Prova Magia}: I numeri indicati è l'aumento di difficoltà della Prova di Magia.
+\textbf{Prova Magia}: Il - indica che non si è obbligati a farla. I numeri indicati è l'aumento di difficoltà della Prova di Magia.
 
 \textbf{Costo}: il costo di un'armatura o scudo +1 è di 2250mo, +2 10000mo. Non è praticamente possibile acquistare armature o scudi od armi con incantamenti superiore a +2, devono essere \emph{trovate}.
 
@@ -18143,7 +18137,7 @@ Un'armatura perfetta è un armatura creata da un abilissimo fabbro che pur non e
 Un armatura magica o scudo magico non solo protegge meglio ma è anche più leggera e affine alla magia.
 
 Una armatura +1 abbassa di 1 la penalità di Competenza e di 1 metro la quella al movimento.
-Una armatura o scudo +2 inoltre diminuisce la pernalità alla Prova di Magia di 2. Una armatura +3 ulteriormente toglie 1 alla penalità di Competenza, riduce di 1m la penalità Movimento e riduce di ulteriori 2 la penalità dalla Prova di Magia.
+Una armatura o scudo +2 inoltre diminuisce la penalità alla Prova di Magia di 2. Una armatura +3 ulteriormente toglie 1 alla penalità di Competenza, riduce di 1m la penalità Movimento e riduce di ulteriori 2 la penalità dalla Prova di Magia.
 
 \subsubsection{Gli Scudi}
 
@@ -21999,7 +21993,7 @@ Una cavalcatura può essere bardata con un armatura. Un armatura leggera conferi
 %\includegraphics[height=0.3\linewidth]{immagini/carretto.png}
 %\end{center}
 
-\subsection{Tabella: Cavalcature e Veicoli}\index{Cavalcature}\index{Veicoli}\index[Tabelle]{Tabella Cavalcature e Veicoli}\index{Saurovallo movimento}\index{Movimento al giorno su saurovallo}
+\subsection{Tabella: Cavalcature e Veicoli}\index{Cavalcature}\index{Veicoli}\index[Tabelle]{Tabella Cavalcature e Veicoli}\index{Saurovallo movimento}\index{Movimento al giorno su saurovallo}\label{TabellaCavalcatureeVeicoli}\hypertarget{TabellaCavalcatureeVeicoli}{}
 
 \medskip
 
@@ -22046,7 +22040,7 @@ Se il viaggio dura più giorni diventa una occasione di conoscenza tra i persona
 
 Nel movimento round per round è impossibile per un personaggio lento sfuggire ad un personaggio veloce senza qualche tipo di aiuto. Allo stesso modo non è un problema per un personaggio veloce sfuggire ad uno più lento.
 
-Quando l'inseguimento avviene in città o comunque in un ambiente che permette di nascondersi o fare perdere le proprie tracce, se la velocità dei due personaggi coinvolti è uguale occorre che inseguitore ed inseguito effettuino 3 Tiri Salvezza consecutivi su Riflessi contrapposti. Chi vince la sfida riesce a fare perdere le proprie tracce od agguantare il fuggitivo.
+Quando l'inseguimento avviene in città o comunque in un ambiente che permette di nascondersi o fare perdere le proprie tracce, se la velocità dei due personaggi coinvolti è uguale occorre che inseguitore ed inseguito effettuino 3 Tiri Salvezza consecutivi su Riflessi con modificatore Furtività contrapposti. Chi vince la sfida riesce a fare perdere le proprie tracce od agguantare il fuggitivo.
 
 Se l'inseguimento avviene all'aperto dove non c'è modo di nascondersi o fare perdere le proprie tracce eseguite 3 Tiri Salvezza su Tempra contrapposti per determinare quale delle due parti può mantenere più a lungo il ritmo. Chi vince la sfida riesce a seminare l'inseguitore od agguantare il fuggitivo.
 
@@ -22069,21 +22063,19 @@ Gli oggetti con scarso peso e volume hanno ingombro \textbf{Leggero} (L). Questi
 
 \subsubsection{Capacita' di Carico}\label{capacitadicarico}\index{Capacita' di Carico}
 
-La Capacità di Carico di una creatura è data dalla \textbf{somma di Taglia, Forza e la Costituzione}.
+La Capacità di Carico di una creatura è data dalla \textbf{somma di Taglia, Forza e Costituzione}.
 
-La Taglia di una creatura concede un bonus alla \textbf{CdC} (Capacità di Carico) pari a 9 se Piccola, 16 se Media, 25 se Grande. L'Ingombro di una creatura se trascinata\index{Trascinare un corpo} di peso è pari alla metà della sua Capacità di Carico, data dalla taglia, più il suo ingombro.\index{Ingombro Creature trasportate} Se trasportata di peso la CdC sarà pari all'Ingombro che ha la creatura.
+La Taglia di una creatura concede un bonus alla \textbf{CdC} (Capacità di Carico) pari a 6 se Piccola, 12 se Media, 24 se Grande. L'Ingombro di una creatura se trascinata\index{Trascinare un corpo} di peso è pari alla metà della sua Capacità di Carico, data dalla taglia, più il suo ingombro.\index{Ingombro Creature trasportate} Se trasportata di peso la CdC sarà pari all'Ingombro che ha la creatura.
 
-Quando la CdC totale viene superata allora muoversi ed effettuare prove di competenza basate sulla Destrezza diventa problematico. Si diviene appesantiti e la capacità di movimento scende della metà e le prove di Competenza basate su Destrezza hanno un -3 di penalità.
+Quando la \textbf{CdC totale viene} superata allora muoversi ed effettuare prove di competenza basate sulla Destrezza diventa problematico. Si diviene appesantiti e tutto il terreno viene trattato come difficile e le prove di Competenza basate su Destrezza hanno un -3 di penalità.
 
-Se la CdC viene doppiata allora non ci si può più muovere per l'ingombro dei pesi portati.
+Se la CdC \textbf{viene doppiata} allora non ci si può più muovere per l'ingombro dei pesi portati.
 
-\emph{Ricordate che l'armatura e scudo quando indossati hanno un Ingombro dimezzato rispetto a quando trasportate.}
+Es. Tups ha indosso una Armatura ad Anelli (ingombro 4), una spada lunga (arma media, ingombro 2), una mazza chiodata (ing. 2), 18 oggetti leggeri (ing. 1), uno zaino (ing. 1), una tenda (ing. 2), una lanterna (ing 1). Totale Ingombro = 13.
 
-Es. Tups ha indosso una Armatura ad Anelli (ingombro 2 essendo indossata), una spada lunga (arma media, ingombro 2), una mazza chiodata (ing. 2), 18 oggetti leggeri (ing. 1), uno zaino (ing. 1), una tenda (ing. 2), una lanterna (ing 1). Totale Ingombro = 11.
+Tups è una creatura Media con Forza -1 e Costituzione +0 (è un pò gracile e debole..) questo gli concede una Capacità di Carico di 12-1=11.
 
-Tups è una creatura Media con Forza -1 e Costituzione -1 (è un pò gracile e debole..) questo gli concede una Capacità di Carico di 16-1-1=14.
-
-La CdC di Tups è superiore al suo ingombro ma deve stare attento, forse è meglio se lascia la tenda sul suo saurovallo...
+Il peso trasportato da Tups è superiore alla sua CdC ! E' meglio se lascia la tenda sul suo saurovallo...
 
 Se il carico viene appoggiato su un carro puoi spingerlo a movimento pieno se entro la tua CdC, a metà movimento se entro il doppio della CdC ed ad un quarto del movimento se entro il quadruplo della CdC.
 
@@ -22098,11 +22090,11 @@ Nella \textbf{Tabella: CdC trasportato in base alla taglia}\index{Ingombro trasp
 \begin{tabularx}{0.45\textwidth}{ll|ll}
 \textbf{Taglia}& \textbf{Ing.}&\textbf{Taglia} & \textbf{Ing.}\\
 \toprule
-Piccolissima &1/4& Grande & 25\\
+Piccolissima &1/4& Grande & 24\\
 Minuta & 1 & Enorme& 36\\
-Minuscola & 4& Mastodontica&49\\
-Piccola & 9 & Colossale&64\\
-Media & 16&&
+Minuscola & 3& Mastodontica&49\\
+Piccola & 6 & Colossale&77\\
+Media & 12&&
 \end{tabularx}
 
 \medskip
@@ -22129,7 +22121,7 @@ ogni altre 2 zampe & +0.5
 
 \medskip
 
-Queste Tabelle sono da usare per gli animali insoliti non indicati o assimilabili a quelli nella Tabella: Cavalcature e Veicoli.
+Queste Tabelle sono da usare per gli animali insoliti non indicati o assimilabili a quelli nella \hyperlink{TabellaCavalcatureeVeicoli}{Tabella: Cavalcature e Veicoli}, pag. \pageref{TabellaCavalcatureeVeicoli}.
 
 \subsection{Altri Tipi di Movimento}
 
@@ -27317,7 +27309,7 @@ Queste sono le indicazioni su l'utilizzo degli oggetti magici.
 \label{oggetti-magici}
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item
-Un personaggio può \textbf{indossare numerosi (fino a 10) oggetti magici} su di sé.
+Un personaggio può \textbf{tenere attivi numerosi (fino a 10) oggetti magici} su di sé.
 
 \item Per determinare il bonus alla \textbf{Difesa} non si possono sommare più di 2 oggetti (es. 1 anello magico ed un braccialetto). Armatura e Scudo non si considerano in questo conteggio.
 \item
