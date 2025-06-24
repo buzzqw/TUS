@@ -5784,13 +5784,13 @@ When required to pass or make a Magic Check, it is sufficient to not roll a Magi
 
 Magic Check as all check follow the Golden Rules, page .
 
-Grant a +1d6 in the Magic Check, or allow ignoring a 1 rolled in the Magic Check, when the character declares with expertise and emotion the casting of the spell. If they say *I cast a fireball* they will not get advantages, but if with passion they declare *By the Flame of Genesis may Nedraf destroy you with his sacred flames. Burn unworthy ones. Fireball!* then yes!.
-
 ### Distracted - Problems in casting the spell
 
 If the spellcaster is **Distracted**, tries to hide the casting of magic, is impeded, severely disturbed, is bleeding, grappled, is under attack/threatened while trying to cast a spell, **that is not a Cantrip**, they must make a **Magic Check**.
 
 For each critical hit or magic critical that has been suffered in the round, the Magic Check is made with additional 4 penality.. Any Critical Failures or Critical Successes are taken into account.
+
+Grant a +1d6 in the Magic Check, or allow ignoring a 1 rolled in the Magic Check, when the character declares with expertise and emotion the casting of the spell. If they say *I cast a fireball* they will not get advantages, but if with passion they declare *By the Flame of Genesis may Nedraf destroy you with his sacred flames. Burn unworthy ones. Fireball!* then yes!.
 
 ### Modifying the Magic Check
 
