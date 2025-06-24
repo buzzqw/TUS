@@ -267,7 +267,7 @@ Elves are generally shorter, smaller, and slimmer than humans. The eyes always h
 
 **Languages**: Elvish, Common
 
-**Advantage**: Twilight vision of 18 meters, *Focused* Feat
+**Advantage**: *Focused* Feat
 
 ## Dwarves
 
@@ -291,7 +291,7 @@ They are rather xenophobic and intolerant of those who are not in line with thei
 
 **Languages**: Dwarven, Common
 
-**Advantage**: Twilight vision of 18 meters, *Mental wall* Feat
+**Advantage**: *Mental wall* Feat
 
 ## Gnomes
 
@@ -349,7 +349,7 @@ Half-elves understand loneliness and know that character is often more a product
 
 **Languages**: Common, Elvish
 
-**Advantage**: Twilight vision of 9 meters. An additional Feat of choice.
+**Advantage**: An additional Feat of choice.
 
 ## Half-orc
 
@@ -376,7 +376,7 @@ Half-orcs are continuous victims of prejudice.
 
 **Languages**: Common, Orcish
 
-**Advantage**: Twilight vision of 9 meters. An additional Feat of choice.
+**Advantage**: An additional Feat of choice.
 
 ## Nibali
 
@@ -14484,6 +14484,11 @@ Many spells and objects use *real game time* as duration, meaning that rounds or
 | Daylight | 6 m | 12 m | 1 hour |
 
 The duration indicated is expressed, when in minutes or hours, as real game time duration.
+
+>> Twilight or Darkvision?
+>>
+>> {
+The darkness that permeates the Earth is not just a lack of light but is alive and pulsing. Even though many of the new races should be able to see in the dark, this is not the case. Tazher and Calicante have made the darkness impenetrable for anyone.
 
 **Dim light** is the light beyond a light source. It's walking through a 3-meter corridor if it's only illuminated by light candles, it's a night with a full moon, it's a slightly obscured area.
 Generally speaking, a light source creates dim light in a radius twice that of normal light. **A creature in Dim Light has a -2 penalty to Awareness checks and a -1 penalty to Attack Rolls**.

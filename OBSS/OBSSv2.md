@@ -283,7 +283,7 @@ Gli elfi sono generalmente più bassi, minuti e snelli degli umani. Gli occhi ha
 
 **Linguaggi**: Elfico, Comune
 
-**Vantaggio**: Visione crepuscolare di 18 metri, Abilità *Concentrato*
+**Vantaggio**: Abilità *Concentrato*
 
 ## Nani
 
@@ -307,7 +307,7 @@ Sono piuttosto xenofobi ed intolleranti con chi non è in linea con i loro princ
 
 **Linguaggi**: Nanico, Comune
 
-**Vantaggio**: Visione crepuscolare di 18 metri, Abilità *Muro mentale*
+**Vantaggio**: Abilità *Muro mentale*
 
 ## Gnomi
 
@@ -365,7 +365,7 @@ I mezzelfi comprendono la solitudine e sanno che il carattere spesso è più un 
 
 **Linguaggi**: Comune, Elfico
 
-**Vantaggio**: Visione crepuscolare di 9 metri. Una Abilità aggiuntiva a scelta.
+**Vantaggio**: Una Abilità aggiuntiva a scelta.
 
 ## Mezzorco
 
@@ -392,7 +392,7 @@ I mezzorchi sono continue vittime di pregiudizi.
 
 **Linguaggi**: Comune, Orchesco
 
-**Vantaggio**: Visione crepuscolare di 9 metri. Una Abilità aggiuntiva a scelta.
+**Vantaggio**: Una Abilità aggiuntiva a scelta.
 
 ## Nibali
 
@@ -14393,6 +14393,11 @@ Molti incantesimi ed oggetti usano come durata il *tempo di gioco reale*, ovvero
 
 La durata indicata è espressa, quando in minuti o ore, come durata di tempo reale di gioco.
 
+>> Visione Crepuscolare e Scurovisione ?
+>>
+>> {
+L'oscurità che permea la Terra non è solo mancanza di luce ma è viva e pulsante. Anche se molte delle nuove razze dovrebbero vedere al buio così non è. Tazher e Calicante hanno reso impenetrabile l'oscurità per chiunque.
+
 La **Luce fioca** è la luce oltre una fonte di luce. E' il passare in un corridoio di 3 metri se è illuminato solo da leggere candele, è una notte di luna piena, è una zona oscurata leggermente.
 In linea di massima una fonte di luce crea luce fioca in un raggio doppio rispetto al raggio di luce normale. **Una creatura in Luce Fioca ha un -2 alle prove di Consapevolezza ed un -1 ai Tiri per Colpire**.
 
@@ -14435,7 +14440,7 @@ Per i modificatori in dettaglio vedi in Invisibilità (pag ).
 
 Le creature che cadono si fanno male. Dividi l'altezza di caduta (in metri) per 3, arrotonda per difetto, il numero che risulta sono i d6 di danno subiti. Es 16 metri di caduta sono 16/3=5d6 di danno. Per praticità si suggerisce di applicare 1 danno ogni metro di caduta.
 
-Le creature che subiscono danni da una caduta, atterrano in posizione **prona**.
+Le creature che subiscono danni da una caduta atterrano in posizione **prona**.
 
 Una prova, usando una Reazione, di Acrobatica riuscita con DC 15 permette al personaggio di ridurre il danno da caduta di 3. Per ogni punto oltre il 15 nella prova riduce di un ulteriore 1 il danno. La caduta deve essete entro 6 metri.
 
