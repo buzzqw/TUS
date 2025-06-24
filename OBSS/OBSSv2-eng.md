@@ -5782,6 +5782,8 @@ The Magic Check is considered passed if the roll is higher than 10 + Spell Level
 
 When required to pass or make a Magic Check, it is sufficient to not roll a Magical Critical Failure and pass the difficulty given by spell level. If required to achieve a Critical Success and the Magic Check does not achieve it, then any result obtained will be considered a Critical Failure.
 
+Magic Check as all check follow the Golden Rules page .
+
 Grant a +1d6 in the Magic Check, or allow ignoring a 1 rolled in the Magic Check, when the character declares with expertise and emotion the casting of the spell. If they say *I cast a fireball* they will not get advantages, but if with passion they declare *By the Flame of Genesis may Nedraf destroy you with his sacred flames. Burn unworthy ones. Fireball!* then yes!.
 
 ### Distracted - Problems in casting the spell

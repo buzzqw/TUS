@@ -5667,6 +5667,8 @@ La Prova di Magia si considera superata se il tiro è superiore a 10 + Livello d
 
 Quando viene richiesto di superare o fare una Prova di Magia è sufficiente superare la difficoltà data dall'incantesimo e non fare un Fallimento Critico Magico. Se viene richiesto di ottenere un Successo Critico e la Prova di Magia non lo ottiene allora qualsiasi risultato ottenuto sarà considerato un Fallimento Critico.
 
+La Prova di Magia come tutte le Prove segue le Golden Rules,pag..
+
 Concedete un +1d6 nella Prova di Magia quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice *Lancio una palla di fuoco* non otterrà vantaggi ma se con trasporto declama *Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!* allora si!.
 
 Fate che la partecipazione e recitazione guidi sempre il personaggio, coinvolgendo anche gli altri giocatori.
