@@ -517,6 +517,203 @@ copy_final_pdfs() {
 # GESTIONE WIKI INTERATTIVA
 #==============================================================================
 
+list_wiki_dates() {
+    local -r wiki_script="obsv2_wiki_script.js"
+    
+    if [[ ! -f "$wiki_script" ]]; then
+        log_error "Script wiki non trovato: $wiki_script"
+        return 1
+    fi
+    
+    log_info "Recupero date disponibili nella wiki..."
+    
+    # Esegui lo script per ottenere le date
+    local dates_output
+    if dates_output=$(node "$wiki_script" --list-dates 2>/dev/null); then
+        echo "$dates_output"
+        return 0
+    else
+        log_warning "Impossibile recuperare le date dalla wiki"
+        return 1
+    fi
+}
+
+delete_wiki_dates() {
+    local -r wiki_script="obsv2_wiki_script.js"
+    local dates_to_delete="$1"
+    
+    if [[ ! -f "$wiki_script" ]]; then
+        log_error "Script wiki non trovato: $wiki_script"
+        return 1
+    fi
+    
+    if [[ -z "$dates_to_delete" ]]; then
+        log_warning "Nessuna data specificata per la cancellazione"
+        return 0
+    fi
+    
+    log_info "Cancellazione date selezionate..."
+    
+    # Converti la stringa di date in array
+    local -a dates_array
+    IFS=',' read -ra dates_array <<< "$dates_to_delete"
+    
+    local deleted_count=0
+    local failed_count=0
+    
+    for date in "${dates_array[@]}"; do
+        # Rimuovi spazi bianchi
+        date=$(echo "$date" | xargs)
+        
+        if [[ -n "$date" ]]; then
+            log_info "Cancellazione data: $date"
+            
+            if node "$wiki_script" --delete-date "$date" 2>/dev/null; then
+                log_success "✓ Data $date cancellata"
+                ((deleted_count++))
+            else
+                log_warning "✗ Errore cancellazione data $date"
+                ((failed_count++))
+            fi
+        fi
+    done
+    
+    log_success "$deleted_count date cancellate, $failed_count errori"
+}
+
+manage_wiki_dates() {
+    local -r wiki_script="obsv2_wiki_script.js"
+    
+    printf "\n${YELLOW}📅 GESTIONE DATE WIKI${NC}\n"
+    
+    # Verifica che lo script supporti le funzioni di gestione date
+    if ! node "$wiki_script" --help 2>/dev/null | grep -q "\-\-list-dates\|\-\-delete-date"; then
+        log_warning "Lo script wiki non supporta la gestione delle date"
+        log_info "Funzioni richieste: --list-dates, --delete-date"
+        return 0
+    fi
+    
+    # Ottieni lista delle date
+    local dates_list
+    if ! dates_list=$(list_wiki_dates); then
+        log_error "Impossibile ottenere la lista delle date"
+        return 1
+    fi
+    
+    if [[ -z "$dates_list" || "$dates_list" == "Nessuna data trovata" ]]; then
+        log_info "Nessuna data presente nella wiki"
+        return 0
+    fi
+    
+    # Mostra le date disponibili
+    printf "\n${BLUE}📋 Date disponibili nella wiki:${NC}\n"
+    local -i counter=1
+    local -a dates_array
+    
+    while IFS= read -r line; do
+        if [[ -n "$line" ]]; then
+            printf "${WHITE}%2d) %s${NC}\n" "$counter" "$line"
+            dates_array+=("$line")
+            ((counter++))
+        fi
+    done <<< "$dates_list"
+    
+    if [[ ${#dates_array[@]} -eq 0 ]]; then
+        log_info "Nessuna data valida trovata"
+        return 0
+    fi
+    
+    # Menu di gestione
+    printf "\n${YELLOW}Opzioni disponibili:${NC}\n"
+    printf "${WHITE}1) Cancella date specifiche (inserisci numeri separati da virgola)${NC}\n"
+    printf "${WHITE}2) Cancella tutte le date${NC}\n"
+    printf "${WHITE}3) Non cancellare nulla${NC}\n"
+    
+    local choice
+    printf "\n${BLUE}Scelta [1/2/3]: ${NC}"
+    read -r choice
+    
+    case "$choice" in
+        1)
+            printf "\n${BLUE}Inserisci i numeri delle date da cancellare (es: 1,3,5): ${NC}"
+            local selection
+            read -r selection
+            
+            if [[ -n "$selection" ]]; then
+                # Converti i numeri in nomi di date
+                local -a selected_dates
+                IFS=',' read -ra numbers <<< "$selection"
+                
+                for num in "${numbers[@]}"; do
+                    # Rimuovi spazi e valida il numero
+                    num=$(echo "$num" | xargs)
+                    if [[ "$num" =~ ^[0-9]+$ ]] && [[ $num -ge 1 ]] && [[ $num -le ${#dates_array[@]} ]]; then
+                        selected_dates+=("${dates_array[$((num-1))]}")
+                    else
+                        log_warning "Numero non valido ignorato: $num"
+                    fi
+                done
+                
+                if [[ ${#selected_dates[@]} -gt 0 ]]; then
+                    # Mostra anteprima
+                    printf "\n${YELLOW}Date selezionate per la cancellazione:${NC}\n"
+                    for date in "${selected_dates[@]}"; do
+                        printf "${RED}  - %s${NC}\n" "$date"
+                    done
+                    
+                    printf "\n${BLUE}Confermi la cancellazione [si/No] (s/N)? ${NC}"
+                    local confirm
+                    read -r confirm
+                    
+                    case "${confirm,,}" in
+                        s|si|sì|yes|y)
+                            # Unisci le date con virgole
+                            local dates_string
+                            dates_string=$(printf "%s," "${selected_dates[@]}")
+                            dates_string="${dates_string%,}"  # Rimuovi l'ultima virgola
+                            
+                            delete_wiki_dates "$dates_string"
+                            ;;
+                        *)
+                            log_info "Cancellazione annullata"
+                            ;;
+                    esac
+                else
+                    log_warning "Nessuna data valida selezionata"
+                fi
+            else
+                log_info "Nessuna selezione effettuata"
+            fi
+            ;;
+        2)
+            printf "\n${RED}⚠️  ATTENZIONE: Stai per cancellare TUTTE le date!${NC}\n"
+            printf "${BLUE}Sei sicuro [si/No] (s/N)? ${NC}"
+            local confirm_all
+            read -r confirm_all
+            
+            case "${confirm_all,,}" in
+                s|si|sì|yes|y)
+                    # Unisci tutte le date
+                    local all_dates_string
+                    all_dates_string=$(printf "%s," "${dates_array[@]}")
+                    all_dates_string="${all_dates_string%,}"
+                    
+                    delete_wiki_dates "$all_dates_string"
+                    ;;
+                *)
+                    log_info "Cancellazione annullata"
+                    ;;
+            esac
+            ;;
+        3|"")
+            log_info "Nessuna cancellazione effettuata"
+            ;;
+        *)
+            log_warning "Opzione non valida: $choice"
+            ;;
+    esac
+}
+
 update_wiki() {
     show_section "📖 AGGIORNAMENTO WIKI"
     
@@ -533,28 +730,75 @@ update_wiki() {
         return 0
     fi
     
-    # Prompt utente compatto
+    # Menu principale wiki
+    printf "${BLUE}Opzioni Wiki disponibili:${NC}\n"
+    printf "${WHITE}1) Aggiornamento Clean + completo${NC}\n"
+    printf "${WHITE}2) Aggiornamento normale${NC}\n"
+    printf "${WHITE}3) Solo gestione date (senza aggiornamento)${NC}\n"
+    printf "${WHITE}4) Gestione date + aggiornamento${NC}\n"
+    printf "${WHITE}5) Salta wiki${NC}\n"
+    
     local choice
-    printf "${BLUE}Vuoi aggiornare la wiki [Clean/Si/No] (c/s/N)? ${NC}"
+    printf "\n${BLUE}Scelta [1/2/3/4/5]: ${NC}"
     read -r choice
     
-    [[ -z "$choice" ]] && choice="n"
+    [[ -z "$choice" ]] && choice="5"
     
-    case "${choice,,}" in
-        c|clean)
+    case "$choice" in
+        1)
             log_info "Clean + aggiornamento completo wiki"
             node "$wiki_script" --clean &&
             "$latex2markdown_script" &&
             node "$wiki_script" &&
             log_success "Wiki aggiornata completamente"
             ;;
-        s|si|sì)
+        2)
             log_info "Aggiornamento normale wiki"
             "$latex2markdown_script" &&
             node "$wiki_script" &&
             log_success "Wiki aggiornata"
             ;;
-        *)
+        3)
+            log_info "Solo gestione date wiki"
+            manage_wiki_dates
+            ;;
+        4)
+            log_info "Gestione date + aggiornamento wiki"
+            manage_wiki_dates
+            
+            # Dopo la gestione date, chiedi se procedere con l'aggiornamento
+            printf "\n${BLUE}Procedere con l'aggiornamento wiki [Si/No] (s/N)? ${NC}"
+            local update_choice
+            read -r update_choice
+            
+            case "${update_choice,,}" in
+                s|si|sì|yes|y)
+                    printf "${BLUE}Tipo aggiornamento [Clean/Normale] (c/N)? ${NC}"
+                    local update_type
+                    read -r update_type
+                    
+                    case "${update_type,,}" in
+                        c|clean)
+                            log_info "Clean + aggiornamento completo wiki"
+                            node "$wiki_script" --clean &&
+                            "$latex2markdown_script" &&
+                            node "$wiki_script" &&
+                            log_success "Wiki aggiornata completamente"
+                            ;;
+                        *)
+                            log_info "Aggiornamento normale wiki"
+                            "$latex2markdown_script" &&
+                            node "$wiki_script" &&
+                            log_success "Wiki aggiornata"
+                            ;;
+                    esac
+                    ;;
+                *)
+                    log_info "Aggiornamento wiki saltato"
+                    ;;
+            esac
+            ;;
+        5|*)
             log_info "Aggiornamento wiki saltato"
             ;;
     esac
