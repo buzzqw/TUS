@@ -810,8 +810,23 @@ update_existing_release() {
         
         # Estrazione informazioni release
         local release_url upload_url
-        release_url=$(echo "$response" | grep -o '"html_url":"[^"]*' | sed 's/"html_url":"//' | head -1)
-        upload_url=$(echo "$response" | grep -o '"upload_url":"[^"]*' | sed 's/"upload_url":"//' | cut -d'{' -f1 | head -1)
+        release_url=$(grep -o '"html_url":"[^"]*' response.json | sed 's/"html_url":"//') 
+        upload_url=$(grep -o '"upload_url":"[^"]*' response.json | sed 's/"upload_url":"//') 
+        
+        # Se l'estrazione con grep fallisce, prova con sed
+        if [[ -z "$release_url" ]]; then
+            release_url=$(sed -n 's/.*"html_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
+        fi
+        
+        if [[ -z "$upload_url" ]]; then
+            upload_url=$(sed -n 's/.*"upload_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
+        fi
+        
+        # Rimuovi il suffixo {?name,label} dall'upload_url se presente
+        upload_url=$(echo "$upload_url" | sed 's/{.*}//')
+        
+        log_info "URL release: $release_url"
+        log_info "URL upload: ${upload_url:0:50}..."
         
         # Caricamento nuovi asset
         upload_release_assets "$upload_url"
@@ -896,8 +911,23 @@ create_github_release_custom() {
         
         # Estrazione informazioni release
         local release_url upload_url
-        release_url=$(echo "$response" | grep -o '"html_url":"[^"]*' | sed 's/"html_url":"//' | head -1)
-        upload_url=$(echo "$response" | grep -o '"upload_url":"[^"]*' | sed 's/"upload_url":"//' | cut -d'{' -f1 | head -1)
+        release_url=$(grep -o '"html_url":"[^"]*' response.json | sed 's/"html_url":"//') 
+        upload_url=$(grep -o '"upload_url":"[^"]*' response.json | sed 's/"upload_url":"//') 
+        
+        # Se l'estrazione con grep fallisce, prova con sed
+        if [[ -z "$release_url" ]]; then
+            release_url=$(sed -n 's/.*"html_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
+        fi
+        
+        if [[ -z "$upload_url" ]]; then
+            upload_url=$(sed -n 's/.*"upload_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
+        fi
+        
+        # Rimuovi il suffixo {?name,label} dall'upload_url se presente
+        upload_url=$(echo "$upload_url" | sed 's/{.*}//')
+        
+        log_info "URL release: $release_url"
+        log_info "URL upload: ${upload_url:0:50}..."
         
         # Caricamento asset
         upload_release_assets "$upload_url"
@@ -937,7 +967,13 @@ upload_release_assets() {
         return 0
     }
     
-    log_info "Caricamento $file_count asset..."
+    # Verifica che l'upload_url sia valido
+    if [[ -z "$upload_url" ]]; then
+        log_error "URL di upload non valido"
+        return 1
+    fi
+    
+    log_info "Caricamento $file_count asset su: ${upload_url:0:50}..."
     
     local upload_success=0
     
@@ -956,15 +992,27 @@ upload_release_assets() {
             *) content_type="application/octet-stream" ;;
         esac
         
-        # Upload silente
-        if curl -s -o upload_response.json \
+        log_info "Caricamento: $filename"
+        
+        # Upload con debug
+        local upload_response http_code
+        upload_response=$(curl -s -w "%{http_code}" -o upload_response.json \
             -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${GITHUB_TOKEN}" \
             -H "Content-Type: ${content_type}" \
             --data-binary @"${filepath}" \
-            "${upload_url}?name=${filename}" 2>/dev/null; then
+            "${upload_url}?name=${filename}")
+        
+        http_code="${upload_response: -3}"
+        
+        if [[ "$http_code" = "201" ]]; then
             ((upload_success++))
+            log_success "✓ $filename caricato"
+        else
+            log_warning "✗ Errore caricamento $filename (HTTP: $http_code)"
+            # Debug: mostra primi caratteri della risposta di errore
+            [[ -f "upload_response.json" ]] && head -2 upload_response.json >&2
         fi
         
         rm -f upload_response.json
@@ -973,7 +1021,7 @@ upload_release_assets() {
     
     set -e
     
-    log_success "$upload_success/$file_count asset caricati"
+    log_success "$upload_success/$file_count asset caricati con successo"
 }
 
 create_new_version() {
