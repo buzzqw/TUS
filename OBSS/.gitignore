@@ -12,7 +12,6 @@ System.synctex.gz
 *.lof
 *.ilg
 *.ind
-*.sh
 *.idx
 *.fls
 *.xdv
