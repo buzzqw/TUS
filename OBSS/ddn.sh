@@ -883,28 +883,493 @@ show_file_content() {
     fi
 }
 
-update_wiki() {
-    show_section "📖 AGGIORNAMENTO WIKI"
+#!/bin/bash
+
+#==============================================================================
+# GESTIONE WIKI GITHUB CON API
+#==============================================================================
+
+# Configurazione repository
+declare -r REPO_OWNER="buzzqw"
+declare -r REPO_NAME="TUS"
+declare -r GITHUB_API_URL="https://api.github.com"
+declare -r WIKI_URL="https://github.com/${REPO_OWNER}/${REPO_NAME}/wiki"
+
+# Funzione per ottenere lista pagine wiki
+get_wiki_pages() {
+    log_info "Recupero pagine wiki da GitHub..."
     
-    local -r wiki_script="obsv2_wiki_script.js"
-    local -r latex2markdown_script="./latex2markdown.sh"
+    local response http_code
+    response=$(curl -s -w "%{http_code}" -o wiki_pages.json \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "${GITHUB_API_URL}/repos/${REPO_OWNER}/${REPO_NAME}/wiki/pages")
     
-    # Verifica script
-    local missing_scripts=()
-    [[ -f "$wiki_script" ]] || missing_scripts+=("$wiki_script")
-    [[ -f "$latex2markdown_script" ]] || missing_scripts+=("$latex2markdown_script")
+    http_code="${response: -3}"
     
-    if [[ ${#missing_scripts[@]} -gt 0 ]]; then
-        log_warning "Script mancanti: ${missing_scripts[*]} - saltando wiki"
+    if [[ "$http_code" != "200" ]]; then
+        log_error "Errore recupero pagine wiki (HTTP: $http_code)"
+        [[ -f "wiki_pages.json" ]] && {
+            log_error "Risposta API:"
+            head -5 wiki_pages.json >&2
+        }
+        rm -f wiki_pages.json
+        return 1
+    fi
+    
+    # Verifica se ci sono pagine
+    local page_count
+    if command -v python3 >/dev/null 2>&1; then
+        page_count=$(python3 -c "
+import json
+try:
+    with open('wiki_pages.json', 'r') as f:
+        data = json.load(f)
+    print(len(data) if isinstance(data, list) else 0)
+except:
+    print(0)
+" 2>/dev/null)
+    else
+        page_count=$(grep -c '"title":' wiki_pages.json 2>/dev/null || echo "0")
+    fi
+    
+    if [[ "$page_count" -eq 0 ]]; then
+        log_warning "Nessuna pagina wiki trovata"
+        rm -f wiki_pages.json
+        return 1
+    fi
+    
+    log_success "$page_count pagine wiki trovate"
+    return 0
+}
+
+# Funzione per mostrare le pagine wiki
+show_wiki_pages() {
+    if ! get_wiki_pages; then
+        return 1
+    fi
+    
+    printf "\n${BLUE}📋 Pagine Wiki Esistenti:${NC}\n"
+    printf "${YELLOW}%s${NC}\n" "$(printf '─%.0s' {1..80})"
+    
+    if command -v python3 >/dev/null 2>&1; then
+        python3 -c "
+import json
+import sys
+from datetime import datetime
+
+try:
+    with open('wiki_pages.json', 'r') as f:
+        pages = json.load(f)
+    
+    if not isinstance(pages, list):
+        print('Formato dati non valido')
+        sys.exit(1)
+    
+    # Ordina per data di aggiornamento (più recenti primi)
+    pages.sort(key=lambda x: x.get('updated_at', ''), reverse=True)
+    
+    for i, page in enumerate(pages, 1):
+        title = page.get('title', 'N/A')
+        sha = page.get('sha', 'N/A')[:8]
+        updated = page.get('updated_at', 'N/A')
+        
+        # Formatta data
+        try:
+            if updated != 'N/A':
+                dt = datetime.fromisoformat(updated.replace('Z', '+00:00'))
+                updated_fmt = dt.strftime('%d/%m/%Y %H:%M')
+            else:
+                updated_fmt = 'N/A'
+        except:
+            updated_fmt = updated
+        
+        print(f'{i:2d}) {title:<40} | {updated_fmt:<16} | {sha}')
+        
+except Exception as e:
+    print(f'Errore parsing JSON: {e}', file=sys.stderr)
+    sys.exit(1)
+" 2>/dev/null
+    else
+        # Fallback con sed/awk se Python non disponibile
+        local counter=1
+        grep -o '"title":"[^"]*"' wiki_pages.json | sed 's/"title":"//; s/"//' | while read -r title; do
+            printf "%2d) %-40s\n" "$counter" "$title"
+            ((counter++))
+        done
+    fi
+    
+    printf "${YELLOW}%s${NC}\n" "$(printf '─%.0s' {1..80})"
+    printf "${BLUE}🌐 Visualizza online: ${WIKI_URL}${NC}\n\n"
+    
+    rm -f wiki_pages.json
+    return 0
+}
+
+# Funzione per ottenere dettagli di una pagina specifica
+get_wiki_page_details() {
+    local page_slug="$1"
+    
+    log_info "Recupero dettagli pagina: $page_slug"
+    
+    local response http_code
+    response=$(curl -s -w "%{http_code}" -o wiki_page_detail.json \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "${GITHUB_API_URL}/repos/${REPO_OWNER}/${REPO_NAME}/wiki/pages/${page_slug}")
+    
+    http_code="${response: -3}"
+    
+    if [[ "$http_code" != "200" ]]; then
+        log_error "Errore recupero dettagli pagina (HTTP: $http_code)"
+        rm -f wiki_page_detail.json
+        return 1
+    fi
+    
+    return 0
+}
+
+# Funzione per eliminare una pagina wiki
+delete_wiki_page() {
+    local page_slug="$1"
+    
+    log_info "Eliminazione pagina wiki: $page_slug"
+    
+    # Prima ottieni i dettagli per avere lo SHA
+    if ! get_wiki_page_details "$page_slug"; then
+        log_error "Impossibile ottenere dettagli della pagina"
+        return 1
+    fi
+    
+    local sha
+    if command -v python3 >/dev/null 2>&1; then
+        sha=$(python3 -c "
+import json
+try:
+    with open('wiki_page_detail.json', 'r') as f:
+        data = json.load(f)
+    print(data.get('sha', ''))
+except:
+    print('')
+" 2>/dev/null)
+    else
+        sha=$(sed -n 's/.*"sha": *"\([^"]*\)".*/\1/p' wiki_page_detail.json | head -1)
+    fi
+    
+    rm -f wiki_page_detail.json
+    
+    if [[ -z "$sha" ]]; then
+        log_error "Impossibile ottenere SHA della pagina"
+        return 1
+    fi
+    
+    log_info "SHA pagina: ${sha:0:8}..."
+    
+    # Conferma eliminazione
+    printf "\n${RED}⚠️  Confermi l'eliminazione della pagina '$page_slug'? [si/No]: ${NC}"
+    read -r confirm
+    
+    case "${confirm,,}" in
+        s|si|sì|yes|y)
+            ;;
+        *)
+            log_info "Eliminazione annullata dall'utente"
+            return 0
+            ;;
+    esac
+    
+    # Elimina la pagina
+    local response http_code
+    response=$(curl -s -w "%{http_code}" -o delete_response.json \
+        -X DELETE \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "${GITHUB_API_URL}/repos/${REPO_OWNER}/${REPO_NAME}/wiki/pages/${page_slug}")
+    
+    http_code="${response: -3}"
+    
+    if [[ "$http_code" = "204" ]]; then
+        log_success "Pagina '$page_slug' eliminata con successo"
+    else
+        log_error "Errore eliminazione pagina (HTTP: $http_code)"
+        [[ -f "delete_response.json" ]] && head -3 delete_response.json >&2
+    fi
+    
+    rm -f delete_response.json
+    return 0
+}
+
+# Funzione per gestire eliminazione pagine
+manage_wiki_deletion() {
+    log_step "Eliminazione pagine wiki"
+    
+    if ! show_wiki_pages; then
+        log_warning "Nessuna pagina wiki da eliminare"
         return 0
     fi
     
-    # Menu principale wiki
-    printf "\n${BLUE}Opzioni wiki disponibili:${NC}\n"
-    printf "  ${WHITE}1)${NC} Clean + aggiornamento completo\n"
-    printf "  ${WHITE}2)${NC} Aggiornamento normale\n"
-    printf "  ${WHITE}3)${NC} Gestisci giorni esistenti\n"
-    printf "  ${WHITE}4)${NC} Salta aggiornamento\n"
+    # Riottieni la lista per la selezione
+    if ! get_wiki_pages; then
+        return 1
+    fi
+    
+    local page_titles=()
+    local page_slugs=()
+    
+    if command -v python3 >/dev/null 2>&1; then
+        # Usa Python per parsing preciso
+        local temp_data
+        temp_data=$(python3 -c "
+import json
+try:
+    with open('wiki_pages.json', 'r') as f:
+        pages = json.load(f)
+    
+    pages.sort(key=lambda x: x.get('updated_at', ''), reverse=True)
+    
+    for page in pages:
+        title = page.get('title', '')
+        url = page.get('html_url', '')
+        # Estrai slug dall'URL
+        slug = url.split('/')[-1] if url else title.replace(' ', '-')
+        print(f'{title}|||{slug}')
+        
+except Exception as e:
+    print('', file=sys.stderr)
+" 2>/dev/null)
+        
+        if [[ -n "$temp_data" ]]; then
+            while IFS='|||' read -r title slug; do
+                [[ -n "$title" && -n "$slug" ]] && {
+                    page_titles+=("$title")
+                    page_slugs+=("$slug")
+                }
+            done <<< "$temp_data"
+        fi
+    fi
+    
+    rm -f wiki_pages.json
+    
+    if [[ ${#page_titles[@]} -eq 0 ]]; then
+        log_error "Errore parsing pagine wiki"
+        return 1
+    fi
+    
+    printf "\n${BLUE}Opzioni eliminazione:${NC}\n"
+    printf "  ${WHITE}1)${NC} Elimina pagine specifiche\n"
+    printf "  ${WHITE}2)${NC} Elimina per pattern data\n"
+    printf "  ${WHITE}3)${NC} Annulla\n"
+    
+    local choice
+    printf "\n${BLUE}Scegli opzione (1-3): ${NC}"
+    read -r choice
+    
+    case "$choice" in
+        1)
+            delete_specific_pages "${page_titles[@]}" -- "${page_slugs[@]}"
+            ;;
+        2)
+            delete_pages_by_date_pattern "${page_titles[@]}" -- "${page_slugs[@]}"
+            ;;
+        3|*)
+            log_info "Eliminazione annullata"
+            ;;
+    esac
+}
+
+# Funzione per eliminare pagine specifiche
+delete_specific_pages() {
+    local titles=()
+    local slugs=()
+    local in_slugs=false
+    
+    # Separa titles e slugs usando il separatore --
+    for arg; do
+        if [[ "$arg" == "--" ]]; then
+            in_slugs=true
+            continue
+        fi
+        
+        if [[ "$in_slugs" == true ]]; then
+            slugs+=("$arg")
+        else
+            titles+=("$arg")
+        fi
+    done
+    
+    printf "\n${BLUE}Seleziona pagine da eliminare:${NC}\n"
+    for i in "${!titles[@]}"; do
+        printf "%2d) %s\n" $((i+1)) "${titles[$i]}"
+    done
+    
+    printf "\n${BLUE}Inserisci numeri separati da spazio (es: 1 3 5): ${NC}"
+    read -r selections
+    
+    local pages_to_delete=()
+    local slugs_to_delete=()
+    
+    for selection in $selections; do
+        if [[ "$selection" =~ ^[0-9]+$ ]] && [[ $selection -ge 1 ]] && [[ $selection -le ${#titles[@]} ]]; then
+            local index=$((selection - 1))
+            pages_to_delete+=("${titles[$index]}")
+            slugs_to_delete+=("${slugs[$index]}")
+        else
+            log_warning "Selezione non valida: $selection"
+        fi
+    done
+    
+    if [[ ${#pages_to_delete[@]} -eq 0 ]]; then
+        log_warning "Nessuna pagina selezionata"
+        return 0
+    fi
+    
+    printf "\n${YELLOW}Pagine selezionate per eliminazione:${NC}\n"
+    for page in "${pages_to_delete[@]}"; do
+        printf "  • %s\n" "$page"
+    done
+    
+    printf "\n${RED}Confermi l'eliminazione di ${#pages_to_delete[@]} pagine? [si/No]: ${NC}"
+    read -r confirm
+    
+    case "${confirm,,}" in
+        s|si|sì|yes|y)
+            local deleted=0
+            for i in "${!slugs_to_delete[@]}"; do
+                log_info "Eliminazione: ${pages_to_delete[$i]}"
+                if delete_wiki_page "${slugs_to_delete[$i]}"; then
+                    ((deleted++))
+                fi
+            done
+            log_success "$deleted/${#pages_to_delete[@]} pagine eliminate"
+            ;;
+        *)
+            log_info "Eliminazione annullata"
+            ;;
+    esac
+}
+
+# Funzione per eliminare per pattern data
+delete_pages_by_date_pattern() {
+    local titles=()
+    local slugs=()
+    local in_slugs=false
+    
+    for arg; do
+        if [[ "$arg" == "--" ]]; then
+            in_slugs=true
+            continue
+        fi
+        
+        if [[ "$in_slugs" == true ]]; then
+            slugs+=("$arg")
+        else
+            titles+=("$arg")
+        fi
+    done
+    
+    printf "\n${BLUE}Pattern di ricerca per titoli:${NC}\n"
+    printf "  ${WHITE}1)${NC} Data formato YYYY-MM-DD\n"
+    printf "  ${WHITE}2)${NC} Data formato DD-MM-YYYY\n"
+    printf "  ${WHITE}3)${NC} Mese specifico (es: 2025-01, gennaio, jan)\n"
+    printf "  ${WHITE}4)${NC} Anno specifico\n"
+    printf "  ${WHITE}5)${NC} Pattern personalizzato\n"
+    
+    local pattern_choice
+    printf "\n${BLUE}Scegli tipo pattern (1-5): ${NC}"
+    read -r pattern_choice
+    
+    local search_pattern=""
+    
+    case "$pattern_choice" in
+        1)
+            printf "${BLUE}Inserisci data YYYY-MM-DD: ${NC}"
+            read -r date_input
+            search_pattern="$date_input"
+            ;;
+        2)
+            printf "${BLUE}Inserisci data DD-MM-YYYY: ${NC}"
+            read -r date_input
+            search_pattern="$date_input"
+            ;;
+        3)
+            printf "${BLUE}Inserisci mese (YYYY-MM, gennaio, jan, etc): ${NC}"
+            read -r month_input
+            search_pattern="$month_input"
+            ;;
+        4)
+            printf "${BLUE}Inserisci anno: ${NC}"
+            read -r year_input
+            search_pattern="$year_input"
+            ;;
+        5)
+            printf "${BLUE}Inserisci pattern di ricerca: ${NC}"
+            read -r search_pattern
+            ;;
+        *)
+            log_info "Selezione annullata"
+            return 0
+            ;;
+    esac
+    
+    [[ -z "$search_pattern" ]] && {
+        log_error "Pattern non può essere vuoto"
+        return 1
+    }
+    
+    log_info "Ricerca pagine con pattern: $search_pattern"
+    
+    local matching_titles=()
+    local matching_slugs=()
+    
+    for i in "${!titles[@]}"; do
+        if [[ "${titles[$i],,}" == *"${search_pattern,,}"* ]]; then
+            matching_titles+=("${titles[$i]}")
+            matching_slugs+=("${slugs[$i]}")
+        fi
+    done
+    
+    if [[ ${#matching_titles[@]} -eq 0 ]]; then
+        log_warning "Nessuna pagina trovata con pattern: $search_pattern"
+        return 0
+    fi
+    
+    printf "\n${YELLOW}Pagine trovate con pattern '$search_pattern':${NC}\n"
+    for title in "${matching_titles[@]}"; do
+        printf "  • %s\n" "$title"
+    done
+    
+    printf "\n${RED}Confermi l'eliminazione di ${#matching_titles[@]} pagine? [si/No]: ${NC}"
+    read -r confirm
+    
+    case "${confirm,,}" in
+        s|si|sì|yes|y)
+            local deleted=0
+            for i in "${!matching_slugs[@]}"; do
+                log_info "Eliminazione: ${matching_titles[$i]}"
+                if delete_wiki_page "${matching_slugs[$i]}"; then
+                    ((deleted++))
+                fi
+            done
+            log_success "$deleted/${#matching_titles[@]} pagine eliminate"
+            ;;
+        *)
+            log_info "Eliminazione annullata"
+            ;;
+    esac
+}
+
+# Funzione per caricare nuova wiki
+upload_new_wiki() {
+    log_step "Caricamento nuova pagina wiki"
+    
+    printf "\n${BLUE}Opzioni per nuova pagina wiki:${NC}\n"
+    printf "  ${WHITE}1)${NC} Carica da file locale\n"
+    printf "  ${WHITE}2)${NC} Crea pagina vuota\n"
+    printf "  ${WHITE}3)${NC} Duplica pagina esistente\n"
+    printf "  ${WHITE}4)${NC} Annulla\n"
     
     local choice
     printf "\n${BLUE}Scegli opzione (1-4): ${NC}"
@@ -912,46 +1377,284 @@ update_wiki() {
     
     case "$choice" in
         1)
-            log_info "Clean + aggiornamento completo wiki"
-            if node "$wiki_script" --clean &&
-               "$latex2markdown_script" &&
-               node "$wiki_script"; then
-                log_success "Wiki aggiornata completamente"
-            else
-                log_error "Errore durante l'aggiornamento completo"
-            fi
+            upload_from_file
             ;;
         2)
-            log_info "Aggiornamento normale wiki"
-            if "$latex2markdown_script" &&
-               node "$wiki_script"; then
-                log_success "Wiki aggiornata"
-            else
-                log_error "Errore durante l'aggiornamento normale"
-            fi
+            create_empty_page
             ;;
         3)
-            manage_wiki_days
-            # Dopo la gestione, chiedi se fare anche l'aggiornamento
-            printf "\n${BLUE}Vuoi procedere anche con l'aggiornamento wiki? [si/No]: ${NC}"
-            read -r update_after_manage
-            case "${update_after_manage,,}" in
-                s|si|sì|yes|y)
-                    log_info "Aggiornamento wiki dopo gestione"
-                    if "$latex2markdown_script" &&
-                       node "$wiki_script"; then
-                        log_success "Wiki aggiornata dopo gestione"
-                    else
-                        log_error "Errore aggiornamento post-gestione"
-                    fi
-                    ;;
-                *)
-                    log_info "Solo gestione giorni completata"
-                    ;;
-            esac
+            duplicate_existing_page
             ;;
         4|*)
-            log_info "Aggiornamento wiki saltato"
+            log_info "Caricamento annullato"
+            ;;
+    esac
+}
+
+# Funzione per caricare da file
+upload_from_file() {
+    log_info "Caricamento da file locale"
+    
+    printf "\n${BLUE}Inserisci percorso file (supporta .md, .txt): ${NC}"
+    read -r file_path
+    
+    if [[ ! -f "$file_path" ]]; then
+        log_error "File non trovato: $file_path"
+        return 1
+    fi
+    
+    printf "${BLUE}Inserisci titolo per la pagina wiki: ${NC}"
+    read -r page_title
+    
+    [[ -z "$page_title" ]] && {
+        log_error "Titolo non può essere vuoto"
+        return 1
+    }
+    
+    local content
+    content=$(cat "$file_path")
+    
+    create_wiki_page "$page_title" "$content" "Caricata da file: $file_path"
+}
+
+# Funzione per creare pagina vuota
+create_empty_page() {
+    log_info "Creazione pagina vuota"
+    
+    printf "\n${BLUE}Inserisci titolo per la nuova pagina: ${NC}"
+    read -r page_title
+    
+    [[ -z "$page_title" ]] && {
+        log_error "Titolo non può essere vuoto"
+        return 1
+    }
+    
+    local content="# $page_title
+
+Questa è una nuova pagina wiki creata il $(date '+%d/%m/%Y alle %H:%M').
+
+## Contenuto
+
+Aggiungi qui il contenuto della pagina...
+
+---
+*Creata automaticamente dallo script LaTeX*"
+    
+    create_wiki_page "$page_title" "$content" "Pagina creata automaticamente"
+}
+
+# Funzione per duplicare pagina esistente
+duplicate_existing_page() {
+    log_info "Duplicazione pagina esistente"
+    
+    if ! show_wiki_pages; then
+        log_warning "Nessuna pagina da duplicare"
+        return 0
+    fi
+    
+    printf "\n${BLUE}Inserisci nome della pagina da duplicare: ${NC}"
+    read -r source_page
+    
+    [[ -z "$source_page" ]] && {
+        log_error "Nome pagina non può essere vuoto"
+        return 1
+    }
+    
+    printf "${BLUE}Inserisci titolo per la nuova pagina: ${NC}"
+    read -r new_title
+    
+    [[ -z "$new_title" ]] && {
+        log_error "Titolo non può essere vuoto"
+        return 1
+    }
+    
+    # Ottieni contenuto pagina esistente
+    local source_slug
+    source_slug=$(echo "$source_page" | sed 's/ /-/g')
+    
+    if get_wiki_page_details "$source_slug"; then
+        local content
+        if command -v python3 >/dev/null 2>&1; then
+            content=$(python3 -c "
+import json
+try:
+    with open('wiki_page_detail.json', 'r') as f:
+        data = json.load(f)
+    print(data.get('content', ''))
+except:
+    print('')
+" 2>/dev/null)
+        else
+            content=$(sed -n 's/.*"content": *"\([^"]*\)".*/\1/p' wiki_page_detail.json | head -1)
+        fi
+        
+        rm -f wiki_page_detail.json
+        
+        if [[ -n "$content" ]]; then
+            # Aggiungi header di duplicazione
+            content="# $new_title
+
+> **Nota**: Questa pagina è stata duplicata da '$source_page' il $(date '+%d/%m/%Y alle %H:%M')
+
+$content
+
+---
+*Duplicata automaticamente dallo script LaTeX*"
+            
+            create_wiki_page "$new_title" "$content" "Duplicata da: $source_page"
+        else
+            log_error "Impossibile ottenere contenuto della pagina"
+            return 1
+        fi
+    else
+        log_error "Pagina sorgente non trovata"
+        return 1
+    fi
+}
+
+# Funzione per creare una pagina wiki
+create_wiki_page() {
+    local title="$1"
+    local content="$2"
+    local message="$3"
+    
+    log_info "Creazione pagina wiki: $title"
+    
+    # Escape del contenuto per JSON
+    local escaped_content
+    escaped_content=$(printf '%s' "$content" | \
+        sed 's/\\/\\\\/g' | \
+        sed 's/"/\\"/g' | \
+        sed 's/\t/\\t/g' | \
+        sed 's/\r/\\r/g' | \
+        tr '\n' '\x00' | sed 's/\x00/\\n/g')
+    
+    local escaped_title escaped_message
+    escaped_title=$(printf '%s' "$title" | sed 's/"/\\"/g')
+    escaped_message=$(printf '%s' "$message" | sed 's/"/\\"/g')
+    
+    # Crea slug dalla title
+    local page_slug
+    page_slug=$(echo "$title" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/-/g' | sed 's/--*/-/g' | sed 's/^-\|-$//g')
+    
+    local json_file
+    json_file=$(mktemp)
+    TEMP_FILES+=("$json_file")
+    
+    printf '{\n' > "$json_file"
+    printf '  "title": "%s",\n' "$escaped_title" >> "$json_file"
+    printf '  "content": "%s",\n' "$escaped_content" >> "$json_file"
+    printf '  "message": "%s"\n' "$escaped_message" >> "$json_file"
+    printf '}\n' >> "$json_file"
+    
+    local response http_code
+    response=$(curl -s -w "%{http_code}" -o create_wiki_response.json \
+        -X PUT \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        -H "Content-Type: application/json" \
+        --data @"$json_file" \
+        "${GITHUB_API_URL}/repos/${REPO_OWNER}/${REPO_NAME}/wiki/pages/${page_slug}")
+    
+    http_code="${response: -3}"
+    
+    if [[ "$http_code" = "201" ]]; then
+        log_success "Pagina '$title' creata con successo"
+        
+        local wiki_page_url="${WIKI_URL}/${page_slug}"
+        printf "\n${BLUE}📋 Pagina creata:\n"
+        printf "   Titolo: %s\n" "$title"
+        printf "   URL: %s${NC}\n\n" "$wiki_page_url"
+        
+    elif [[ "$http_code" = "200" ]]; then
+        log_success "Pagina '$title' aggiornata con successo"
+    else
+        log_error "Errore creazione pagina (HTTP: $http_code)"
+        [[ -f "create_wiki_response.json" ]] && head -5 create_wiki_response.json >&2
+    fi
+    
+    rm -f create_wiki_response.json
+}
+
+# Funzione principale per gestione wiki GitHub
+update_wiki() {
+    show_section "📖 GESTIONE WIKI GITHUB"
+    
+    local -r wiki_script="obsv2_wiki_script.js"
+    local -r latex2markdown_script="./latex2markdown.sh"
+    
+    # Verifica token GitHub
+    if [[ -z "$GITHUB_TOKEN" ]]; then
+        log_error "Token GitHub non configurato"
+        return 1
+    fi
+    
+    printf "\n${BLUE}🌐 Wiki GitHub: ${WIKI_URL}${NC}\n"
+    
+    # Menu principale
+    printf "\n${BLUE}Opzioni wiki disponibili:${NC}\n"
+    printf "  ${WHITE}1)${NC} Visualizza pagine esistenti\n"
+    printf "  ${WHITE}2)${NC} Elimina pagine wiki\n"
+    printf "  ${WHITE}3)${NC} Carica nuova pagina wiki\n"
+    printf "  ${WHITE}4)${NC} Aggiornamento locale (script esistenti)\n"
+    printf "  ${WHITE}5)${NC} Salta gestione wiki\n"
+    
+    local choice
+    printf "\n${BLUE}Scegli opzione (1-5): ${NC}"
+    read -r choice
+    
+    case "$choice" in
+        1)
+            show_wiki_pages
+            ;;
+        2)
+            manage_wiki_deletion
+            ;;
+        3)
+            upload_new_wiki
+            ;;
+        4)
+            # Gestione locale con script esistenti
+            if [[ -f "$wiki_script" && -f "$latex2markdown_script" ]]; then
+                printf "\n${BLUE}Tipo aggiornamento locale:${NC}\n"
+                printf "  ${WHITE}1)${NC} Clean + aggiornamento completo\n"
+                printf "  ${WHITE}2)${NC} Aggiornamento normale\n"
+                
+                local local_choice
+                printf "\n${BLUE}Scegli (1-2): ${NC}"
+                read -r local_choice
+                
+                case "$local_choice" in
+                    1)
+                        log_info "Clean + aggiornamento completo wiki locale"
+                        if node "$wiki_script" --clean &&
+                           "$latex2markdown_script" &&
+                           node "$wiki_script"; then
+                            log_success "Wiki locale aggiornata completamente"
+                        else
+                            log_error "Errore aggiornamento locale"
+                        fi
+                        ;;
+                    2)
+                        log_info "Aggiornamento normale wiki locale"
+                        if "$latex2markdown_script" &&
+                           node "$wiki_script"; then
+                            log_success "Wiki locale aggiornata"
+                        else
+                            log_error "Errore aggiornamento locale"
+                        fi
+                        ;;
+                    *)
+                        log_info "Aggiornamento locale annullato"
+                        ;;
+                esac
+            else
+                log_warning "Script locali non trovati: $wiki_script, $latex2markdown_script"
+            fi
+            ;;
+        5|*)
+            log_info "Gestione wiki saltata"
             ;;
     esac
 }
