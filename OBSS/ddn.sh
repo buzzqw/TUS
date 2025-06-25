@@ -3,7 +3,7 @@
 #=======================================================================================
 # Script per la compilazione parallela di documenti LaTeX e commit automatico per OBSS
 # Autore: [Andres Zanzani]
-# Versione: 3.1 - Ottimizzato e Migliorato
+# Versione: 3.1 - Ottimizzato e Migliorato con aggiornamento release esistenti
 # Licenza: GPL-3.0 License
 #=======================================================================================
 
@@ -565,7 +565,7 @@ update_wiki() {
 }
 
 #==============================================================================
-# GESTIONE RELEASE GITHUB
+# GESTIONE RELEASE GITHUB CON AGGIORNAMENTO
 #==============================================================================
 
 # Funzione per validare i nomi dei tag GitHub
@@ -594,6 +594,186 @@ validate_tag_name() {
     [[ ${#tag_name} -le 100 ]] || return 1
     
     return 0
+}
+
+# Funzione per verificare se una release esiste già
+check_existing_release() {
+    local tag_name="$1"
+    local -r repo_owner="buzzqw"
+    local -r repo_name="TUS"
+    local -r github_api_url="https://api.github.com"
+    
+    log_info "Verifica esistenza release '$tag_name'..."
+    
+    local response http_code
+    response=$(curl -s -w "%{http_code}" -o check_release.json \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/tags/${tag_name}")
+    
+    http_code="${response: -3}"
+    
+    # Pulisci il file di risposta
+    rm -f check_release.json 2>/dev/null
+    
+    if [[ "$http_code" = "200" ]]; then
+        return 0  # Release esiste
+    else
+        return 1  # Release non esiste
+    fi
+}
+
+# Funzione per ottenere l'ID di una release esistente
+get_release_id() {
+    local tag_name="$1"
+    local -r repo_owner="buzzqw"
+    local -r repo_name="TUS"
+    local -r github_api_url="https://api.github.com"
+    
+    local response
+    response=$(curl -s \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/tags/${tag_name}")
+    
+    # Estrai l'ID della release
+    echo "$response" | awk -F'"' '/\"id\":/ {gsub(/[^0-9]/, "", $4); print $4; exit}'
+}
+
+# Funzione per eliminare tutti gli asset di una release
+delete_release_assets() {
+    local release_id="$1"
+    local -r repo_owner="buzzqw"
+    local -r repo_name="TUS"
+    local -r github_api_url="https://api.github.com"
+    
+    log_info "Eliminazione asset esistenti..."
+    
+    # Ottieni lista asset
+    local assets_response
+    assets_response=$(curl -s \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/${release_id}/assets")
+    
+    # Estrai ID degli asset ed eliminali
+    local asset_ids deleted_count=0
+    asset_ids=$(echo "$assets_response" | awk -F'"' '/\"id\":/ {gsub(/[^0-9]/, "", $4); print $4}')
+    
+    set +e  # Disabilita temporaneamente l'uscita in caso di errore
+    
+    while IFS= read -r asset_id; do
+        [[ -n "$asset_id" ]] || continue
+        
+        if curl -s -o /dev/null \
+            -X DELETE \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/assets/${asset_id}" 2>/dev/null; then
+            ((deleted_count++))
+        fi
+    done <<< "$asset_ids"
+    
+    set -e
+    
+    log_success "$deleted_count asset eliminati"
+}
+
+# Funzione per aggiornare una release esistente
+update_existing_release() {
+    local tag_name="$1" version_description="$2"
+    local -r repo_owner="buzzqw"
+    local -r repo_name="TUS"
+    local -r github_api_url="https://api.github.com"
+    
+    log_info "Aggiornamento release esistente: $tag_name"
+    
+    # Ottieni ID della release
+    local release_id
+    release_id=$(get_release_id "$tag_name")
+    
+    if [[ -z "$release_id" ]]; then
+        log_error "Impossibile ottenere l'ID della release"
+        return 1
+    fi
+    
+    log_info "ID release trovato: $release_id"
+    
+    # Elimina tutti gli asset esistenti
+    delete_release_assets "$release_id"
+    
+    # Prepara descrizione aggiornata
+    local commit_sha
+    commit_sha=$(git rev-parse HEAD)
+    
+    # Escape completo per JSON
+    local safe_description
+    safe_description=$(printf '%s' "$version_description" | \
+        sed 's/\\/\\\\/g' | \
+        sed 's/"/\\"/g' | \
+        sed "s/'/\\'/g" | \
+        sed 's/\t/\\t/g' | \
+        sed 's/\r/\\r/g' | \
+        sed 's/\n/\\n/g' | \
+        tr '\n' ' ')
+    
+    local full_description="${safe_description}\\n\\nAggiornato: $(date '+%d/%m/%Y alle %H:%M')\\nCommit: ${commit_sha}"
+    
+    # Creazione JSON per aggiornamento
+    local json_file
+    json_file=$(mktemp)
+    TEMP_FILES+=("$json_file")
+    
+    printf '{\n' > "$json_file"
+    printf '  "tag_name": "%s",\n' "$tag_name" >> "$json_file"
+    printf '  "target_commitish": "%s",\n' "$commit_sha" >> "$json_file"
+    printf '  "name": "%s",\n' "$tag_name" >> "$json_file"
+    printf '  "body": "%s",\n' "$full_description" >> "$json_file"
+    printf '  "draft": false,\n' >> "$json_file"
+    printf '  "prerelease": false\n' >> "$json_file"
+    printf '}\n' >> "$json_file"
+    
+    # Aggiornamento release
+    local response
+    response=$(curl -s -w "%{http_code}" -o response.json \
+        -X PATCH \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        -H "Content-Type: application/json" \
+        --data @"$json_file" \
+        "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/${release_id}")
+    
+    local http_code="${response: -3}"
+    
+    if [[ "$http_code" = "200" ]]; then
+        log_success "Release aggiornata con successo"
+        
+        # Estrazione informazioni release
+        local release_url upload_url
+        release_url=$(awk -F'"' '/html_url/ {print $4; exit}' response.json)
+        upload_url=$(awk -F'"' '/upload_url/ {print $4; exit}' response.json | cut -d'{' -f1)
+        
+        # Caricamento nuovi asset
+        upload_release_assets "$upload_url"
+        
+        # Informazioni finali
+        printf "\n${BLUE}📋 Release aggiornata:\n"
+        printf "   Nome: %s\n" "$tag_name"
+        printf "   URL: %s\n" "$release_url"
+        printf "   Commit: %s${NC}\n\n" "$(echo "$commit_sha" | cut -c1-8)"
+        
+    else
+        log_error "Errore aggiornamento release (HTTP: $http_code)"
+        [[ -f "response.json" ]] && head -5 response.json >&2
+        return 1
+    fi
+    
+    rm -f response.json
 }
 
 create_github_release_custom() {
@@ -785,6 +965,23 @@ create_new_version() {
             
             log_success "Nome versione: $version_name"
             
+            # Verifica se la release esiste già
+            if check_existing_release "$version_name"; then
+                printf "\n${YELLOW}⚠️  La release '$version_name' esiste già!${NC}\n"
+                printf "${BLUE}Vuoi aggiornarla [Si/No] (s/N)? ${NC}"
+                read -r update_choice
+                
+                case "${update_choice,,}" in
+                    s|si|sì|yes|y)
+                        log_info "Procedo con l'aggiornamento della release esistente"
+                        ;;
+                    *)
+                        log_info "Operazione annullata dall'utente"
+                        return 0
+                        ;;
+                esac
+            fi
+            
             # Richiesta descrizione
             local version_description default_description
             default_description="Release automatica per OBSS v2\n\nData di creazione: $(date '+%d/%m/%Y alle %H:%M')"
@@ -798,12 +995,21 @@ create_new_version() {
             
             log_success "Descrizione impostata"
             
-            # Creazione release
-            if create_github_release_custom "$version_name" "$version_description"; then
-                log_success "Versione '$version_name' pubblicata"
+            # Creazione o aggiornamento release
+            if check_existing_release "$version_name"; then
+                if update_existing_release "$version_name" "$version_description"; then
+                    log_success "Versione '$version_name' aggiornata con successo"
+                else
+                    log_error "Errore aggiornamento versione"
+                    return 1
+                fi
             else
-                log_error "Errore creazione versione"
-                return 1
+                if create_github_release_custom "$version_name" "$version_description"; then
+                    log_success "Versione '$version_name' pubblicata"
+                else
+                    log_error "Errore creazione versione"
+                    return 1
+                fi
             fi
             ;;
         *)
