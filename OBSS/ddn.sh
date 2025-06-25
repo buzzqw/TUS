@@ -46,6 +46,10 @@ declare CLEANUP_DONE=false
 declare -a TEMP_FILES=()
 declare -i OPERATION_COUNT=0
 
+declare REPO_OWNER="buzzqw"
+declare REPO_NAME="TUS" 
+declare WIKI_URL="https://github.com/buzzqw/TUS/wiki"
+
 #==============================================================================
 # SISTEMA DI LOGGING SEMPLIFICATO
 #==============================================================================
