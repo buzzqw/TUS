@@ -631,24 +631,72 @@ get_release_id() {
     local -r repo_name="TUS"
     local -r github_api_url="https://api.github.com"
     
-    local response
-    response=$(curl -s \
+    log_info "Richiesta dettagli release per tag: $tag_name"
+    
+    local response http_code
+    response=$(curl -s -w "%{http_code}" -o release_details.json \
         -H "Accept: application/vnd.github+json" \
         -H "Authorization: Bearer ${GITHUB_TOKEN}" \
         -H "X-GitHub-Api-Version: 2022-11-28" \
         "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/tags/${tag_name}")
     
-    # Debug: salva la risposta per il debug
-    echo "$response" > get_release_debug.json
+    http_code="${response: -3}"
     
-    # Estrai l'ID della release usando grep e sed per maggiore compatibilità
+    if [[ "$http_code" != "200" ]]; then
+        log_error "Errore API GitHub (HTTP: $http_code)"
+        [[ -f "release_details.json" ]] && {
+            log_error "Risposta API:"
+            head -5 release_details.json >&2
+        }
+        rm -f release_details.json
+        return 1
+    fi
+    
+    # Debug: mostra prime righe della risposta
+    log_info "Risposta API ricevuta, prime righe:"
+    head -3 release_details.json >&2
+    
+    # Estrai l'ID usando diversi metodi per sicurezza
     local release_id
-    release_id=$(echo "$response" | grep -o '"id":[0-9]*' | head -1 | sed 's/"id"://')
     
-    # Rimuovi il file di debug
-    rm -f get_release_debug.json
+    # Metodo 1: grep + sed semplice
+    release_id=$(grep -o '"id":[0-9]*' release_details.json | head -1 | sed 's/"id"://')
     
-    echo "$release_id"
+    # Se il primo metodo fallisce, prova metodo alternativo
+    if [[ -z "$release_id" ]]; then
+        log_warning "Primo metodo fallito, provo metodo alternativo..."
+        # Metodo 2: estrazione più specifica
+        release_id=$(sed -n 's/.*"id": *\([0-9]*\).*/\1/p' release_details.json | head -1)
+    fi
+    
+    # Se anche il secondo metodo fallisce, prova il terzo
+    if [[ -z "$release_id" ]]; then
+        log_warning "Secondo metodo fallito, provo metodo Python..."
+        # Metodo 3: usando Python se disponibile
+        if command -v python3 >/dev/null 2>&1; then
+            release_id=$(python3 -c "
+import json
+try:
+    with open('release_details.json', 'r') as f:
+        data = json.load(f)
+    print(data.get('id', ''))
+except:
+    pass
+" 2>/dev/null)
+        fi
+    fi
+    
+    rm -f release_details.json
+    
+    if [[ -n "$release_id" && "$release_id" =~ ^[0-9]+$ ]]; then
+        log_success "ID release trovato: $release_id"
+        echo "$release_id"
+        return 0
+    else
+        log_error "Impossibile estrarre ID della release"
+        log_error "Valore estratto: '$release_id'"
+        return 1
+    fi
 }
 
 # Funzione per eliminare tutti gli asset di una release
@@ -703,9 +751,7 @@ update_existing_release() {
     
     # Ottieni ID della release
     local release_id
-    release_id=$(get_release_id "$tag_name")
-    
-    if [[ -z "$release_id" ]]; then
+    if ! release_id=$(get_release_id "$tag_name") || [[ -z "$release_id" ]]; then
         log_error "Impossibile ottenere l'ID della release"
         return 1
     fi
