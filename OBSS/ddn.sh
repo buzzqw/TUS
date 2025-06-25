@@ -706,38 +706,109 @@ delete_release_assets() {
     local -r repo_name="TUS"
     local -r github_api_url="https://api.github.com"
     
-    log_info "Eliminazione asset esistenti..."
+    log_info "Eliminazione asset esistenti per release ID: $release_id"
     
-    # Ottieni lista asset
-    local assets_response
-    assets_response=$(curl -s \
+    # Ottieni lista asset con debug
+    local assets_response http_code
+    assets_response=$(curl -s -w "%{http_code}" -o assets_list.json \
         -H "Accept: application/vnd.github+json" \
         -H "Authorization: Bearer ${GITHUB_TOKEN}" \
         -H "X-GitHub-Api-Version: 2022-11-28" \
         "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/${release_id}/assets")
     
-    # Estrai ID degli asset ed eliminali usando grep e sed
+    http_code="${assets_response: -3}"
+    
+    if [[ "$http_code" != "200" ]]; then
+        log_error "Errore ottenimento lista asset (HTTP: $http_code)"
+        [[ -f "assets_list.json" ]] && head -3 assets_list.json >&2
+        rm -f assets_list.json
+        return 1
+    fi
+    
+    # Debug: mostra contenuto risposta
+    log_info "Risposta API asset, prime righe:"
+    head -3 assets_list.json >&2
+    
+    # Conta il numero di asset
+    local asset_count
+    asset_count=$(grep -c '"id":[0-9]*' assets_list.json 2>/dev/null || echo "0")
+    log_info "Asset trovati nella release: $asset_count"
+    
+    if [[ "$asset_count" -eq 0 ]]; then
+        log_info "Nessun asset presente nella release"
+        rm -f assets_list.json
+        return 0
+    fi
+    
+    # Estrai ID degli asset con metodi multipli
     local asset_ids deleted_count=0
-    asset_ids=$(echo "$assets_response" | grep -o '"id":[0-9]*' | sed 's/"id"://')
+    
+    # Metodo 1: grep + sed
+    asset_ids=$(grep -o '"id":[0-9]*' assets_list.json | sed 's/"id"://' 2>/dev/null)
+    
+    # Se il primo metodo non trova nulla, prova alternativo
+    if [[ -z "$asset_ids" ]]; then
+        log_info "Primo metodo fallito, provo metodo alternativo..."
+        asset_ids=$(sed -n 's/.*"id": *\([0-9]*\).*/\1/p' assets_list.json)
+    fi
+    
+    # Se anche il secondo fallisce, prova Python
+    if [[ -z "$asset_ids" && -f "assets_list.json" ]]; then
+        log_info "Secondo metodo fallito, provo con Python..."
+        if command -v python3 >/dev/null 2>&1; then
+            asset_ids=$(python3 -c "
+import json
+try:
+    with open('assets_list.json', 'r') as f:
+        data = json.load(f)
+    if isinstance(data, list):
+        for asset in data:
+            if 'id' in asset:
+                print(asset['id'])
+except Exception as e:
+    pass
+" 2>/dev/null)
+        fi
+    fi
+    
+    rm -f assets_list.json
+    
+    if [[ -z "$asset_ids" ]]; then
+        log_warning "Impossibile estrarre ID degli asset"
+        return 0
+    fi
+    
+    log_info "Asset IDs trovati: $(echo "$asset_ids" | wc -w)"
     
     set +e  # Disabilita temporaneamente l'uscita in caso di errore
     
     while IFS= read -r asset_id; do
-        [[ -n "$asset_id" ]] || continue
+        [[ -n "$asset_id" && "$asset_id" =~ ^[0-9]+$ ]] || continue
         
-        if curl -s -o /dev/null \
+        log_info "Eliminazione asset ID: $asset_id"
+        
+        local delete_response
+        delete_response=$(curl -s -w "%{http_code}" -o /dev/null \
             -X DELETE \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${GITHUB_TOKEN}" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
-            "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/assets/${asset_id}" 2>/dev/null; then
+            "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/assets/${asset_id}")
+        
+        local delete_http_code="${delete_response: -3}"
+        
+        if [[ "$delete_http_code" = "204" ]]; then
             ((deleted_count++))
+            log_success "✓ Asset $asset_id eliminato"
+        else
+            log_warning "✗ Errore eliminazione asset $asset_id (HTTP: $delete_http_code)"
         fi
+        
     done <<< "$asset_ids"
     
     set -e
     
-    log_success "$deleted_count asset eliminati"
+    log_success "$deleted_count asset eliminati con successo"
 }
 
 # Funzione per aggiornare una release esistente
@@ -994,7 +1065,7 @@ upload_release_assets() {
         
         log_info "Caricamento: $filename"
         
-        # Upload con debug
+        # Upload con debug e gestione duplicati
         local upload_response http_code
         upload_response=$(curl -s -w "%{http_code}" -o upload_response.json \
             -X POST \
@@ -1009,6 +1080,13 @@ upload_release_assets() {
         if [[ "$http_code" = "201" ]]; then
             ((upload_success++))
             log_success "✓ $filename caricato"
+        elif [[ "$http_code" = "422" ]]; then
+            # Asset già esistente - prova a sostituirlo
+            log_warning "⚠ $filename già presente, provo a sostituirlo..."
+            
+            # In questo caso, l'asset non è stato eliminato correttamente
+            # Salta questo asset e continua
+            log_warning "✗ Saltando $filename (già esistente)"
         else
             log_warning "✗ Errore caricamento $filename (HTTP: $http_code)"
             # Debug: mostra primi caratteri della risposta di errore
