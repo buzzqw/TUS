@@ -747,16 +747,19 @@ update_wiki() {
     case "$choice" in
         1)
             log_info "Clean + aggiornamento completo wiki"
-            node "$wiki_script" --clean &&
-            "$latex2markdown_script" &&
-            node "$wiki_script" &&
-            log_success "Wiki aggiornata completamente"
+            if node "$wiki_script" --clean 2>/dev/null && "$latex2markdown_script" 2>/dev/null && node "$wiki_script" 2>/dev/null; then
+                log_success "Wiki aggiornata completamente"
+            else
+                log_warning "Errore durante l'aggiornamento completo wiki"
+            fi
             ;;
         2)
             log_info "Aggiornamento normale wiki"
-            "$latex2markdown_script" &&
-            node "$wiki_script" &&
-            log_success "Wiki aggiornata"
+            if "$latex2markdown_script" 2>/dev/null && node "$wiki_script" 2>/dev/null; then
+                log_success "Wiki aggiornata"
+            else
+                log_warning "Errore durante l'aggiornamento wiki"
+            fi
             ;;
         3)
             log_info "Solo gestione date wiki"
@@ -764,6 +767,8 @@ update_wiki() {
             ;;
         4)
             log_info "Gestione date + aggiornamento wiki"
+            
+            # Prima gestisci le date
             manage_wiki_dates
             
             # Dopo la gestione date, chiedi se procedere con l'aggiornamento
@@ -780,16 +785,19 @@ update_wiki() {
                     case "${update_type,,}" in
                         c|clean)
                             log_info "Clean + aggiornamento completo wiki"
-                            node "$wiki_script" --clean &&
-                            "$latex2markdown_script" &&
-                            node "$wiki_script" &&
-                            log_success "Wiki aggiornata completamente"
+                            if node "$wiki_script" --clean 2>/dev/null && "$latex2markdown_script" 2>/dev/null && node "$wiki_script" 2>/dev/null; then
+                                log_success "Wiki aggiornata completamente"
+                            else
+                                log_warning "Errore durante l'aggiornamento completo wiki"
+                            fi
                             ;;
                         *)
                             log_info "Aggiornamento normale wiki"
-                            "$latex2markdown_script" &&
-                            node "$wiki_script" &&
-                            log_success "Wiki aggiornata"
+                            if "$latex2markdown_script" 2>/dev/null && node "$wiki_script" 2>/dev/null; then
+                                log_success "Wiki aggiornata"
+                            else
+                                log_warning "Errore durante l'aggiornamento wiki"
+                            fi
                             ;;
                     esac
                     ;;
