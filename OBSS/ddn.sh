@@ -517,201 +517,370 @@ copy_final_pdfs() {
 # GESTIONE WIKI INTERATTIVA
 #==============================================================================
 
-list_wiki_dates() {
-    local -r wiki_script="obsv2_wiki_script.js"
-    
-    if [[ ! -f "$wiki_script" ]]; then
-        log_error "Script wiki non trovato: $wiki_script"
-        return 1
-    fi
-    
-    log_info "Recupero date disponibili nella wiki..."
-    
-    # Esegui lo script per ottenere le date
-    local dates_output
-    if dates_output=$(node "$wiki_script" --list-dates 2>/dev/null); then
-        echo "$dates_output"
-        return 0
-    else
-        log_warning "Impossibile recuperare le date dalla wiki"
-        return 1
-    fi
-}
+#!/bin/bash
 
-delete_wiki_dates() {
-    local -r wiki_script="obsv2_wiki_script.js"
-    local dates_to_delete="$1"
+#==============================================================================
+# GESTIONE WIKI INTERATTIVA CON GESTIONE GIORNI
+#==============================================================================
+
+list_wiki_days() {
+    log_info "Ricerca giorni esistenti nella wiki..."
     
-    if [[ ! -f "$wiki_script" ]]; then
-        log_error "Script wiki non trovato: $wiki_script"
+    # Cerca file che potrebbero contenere date/giorni
+    local wiki_files=()
+    local day_patterns=()
+    
+    # Pattern comuni per i giorni nella wiki
+    local -ra search_patterns=(
+        "*.md"
+        "*.txt" 
+        "wiki/*"
+        "docs/*"
+        "*giorno*"
+        "*day*"
+        "*sessione*"
+        "*session*"
+    )
+    
+    # Cerca file con pattern di giorni
+    for pattern in "${search_patterns[@]}"; do
+        while IFS= read -r -d '' file; do
+            if [[ -f "$file" ]]; then
+                wiki_files+=("$file")
+            fi
+        done < <(find . -maxdepth 3 -name "$pattern" -type f -print0 2>/dev/null)
+    done
+    
+    # Rimuovi duplicati
+    local unique_files
+    unique_files=($(printf '%s\n' "${wiki_files[@]}" | sort -u))
+    
+    if [[ ${#unique_files[@]} -eq 0 ]]; then
+        log_warning "Nessun file wiki trovato"
         return 1
     fi
     
-    if [[ -z "$dates_to_delete" ]]; then
-        log_warning "Nessuna data specificata per la cancellazione"
-        return 0
-    fi
+    log_success "${#unique_files[@]} file wiki trovati"
     
-    log_info "Cancellazione date selezionate..."
-    
-    # Converti la stringa di date in array
-    local -a dates_array
-    IFS=',' read -ra dates_array <<< "$dates_to_delete"
-    
-    local deleted_count=0
-    local failed_count=0
-    
-    for date in "${dates_array[@]}"; do
-        # Rimuovi spazi bianchi
-        date=$(echo "$date" | xargs)
-        
-        if [[ -n "$date" ]]; then
-            log_info "Cancellazione data: $date"
-            
-            if node "$wiki_script" --delete-date "$date" 2>/dev/null; then
-                log_success "✓ Data $date cancellata"
-                ((deleted_count++))
-            else
-                log_warning "✗ Errore cancellazione data $date"
-                ((failed_count++))
-            fi
+    # Mostra lista file con numerazione
+    printf "\n${BLUE}File wiki esistenti:${NC}\n"
+    for i in "${!unique_files[@]}"; do
+        local file="${unique_files[$i]}"
+        local size=""
+        if [[ -f "$file" ]]; then
+            size=$(du -h "$file" 2>/dev/null | cut -f1)
+            printf "%2d) %s ${YELLOW}(%s)${NC}\n" $((i+1)) "$file" "$size"
         fi
     done
     
-    log_success "$deleted_count date cancellate, $failed_count errori"
+    return 0
 }
 
-manage_wiki_dates() {
-    local -r wiki_script="obsv2_wiki_script.js"
+manage_wiki_days() {
+    log_step "Gestione giorni wiki"
     
-    printf "\n${YELLOW}📅 GESTIONE DATE WIKI${NC}\n"
-    
-    # Verifica che lo script supporti le funzioni di gestione date
-    if ! node "$wiki_script" --help 2>/dev/null | grep -q "\-\-list-dates\|\-\-delete-date"; then
-        log_warning "Lo script wiki non supporta la gestione delle date"
-        log_info "Funzioni richieste: --list-dates, --delete-date"
+    if ! list_wiki_days; then
+        log_warning "Impossibile gestire giorni - nessun file trovato"
         return 0
     fi
     
-    # Ottieni lista delle date
-    local dates_list
-    if ! dates_list=$(list_wiki_dates); then
-        log_error "Impossibile ottenere la lista delle date"
-        return 1
-    fi
-    
-    if [[ -z "$dates_list" || "$dates_list" == "Nessuna data trovata" ]]; then
-        log_info "Nessuna data presente nella wiki"
-        return 0
-    fi
-    
-    # Mostra le date disponibili
-    printf "\n${BLUE}📋 Date disponibili nella wiki:${NC}\n"
-    local -i counter=1
-    local -a dates_array
-    
-    while IFS= read -r line; do
-        if [[ -n "$line" ]]; then
-            printf "${WHITE}%2d) %s${NC}\n" "$counter" "$line"
-            dates_array+=("$line")
-            ((counter++))
-        fi
-    done <<< "$dates_list"
-    
-    if [[ ${#dates_array[@]} -eq 0 ]]; then
-        log_info "Nessuna data valida trovata"
-        return 0
-    fi
-    
-    # Menu di gestione
-    printf "\n${YELLOW}Opzioni disponibili:${NC}\n"
-    printf "${WHITE}1) Cancella date specifiche (inserisci numeri separati da virgola)${NC}\n"
-    printf "${WHITE}2) Cancella tutte le date${NC}\n"
-    printf "${WHITE}3) Non cancellare nulla${NC}\n"
+    printf "\n${BLUE}Opzioni gestione:${NC}\n"
+    printf "  ${WHITE}1)${NC} Cancella file specifici\n"
+    printf "  ${WHITE}2)${NC} Cancella per pattern data\n"
+    printf "  ${WHITE}3)${NC} Mostra contenuto file\n"
+    printf "  ${WHITE}4)${NC} Torna al menu precedente\n"
     
     local choice
-    printf "\n${BLUE}Scelta [1/2/3]: ${NC}"
+    printf "\n${BLUE}Scegli opzione (1-4): ${NC}"
     read -r choice
     
     case "$choice" in
         1)
-            printf "\n${BLUE}Inserisci i numeri delle date da cancellare (es: 1,3,5): ${NC}"
-            local selection
-            read -r selection
-            
-            if [[ -n "$selection" ]]; then
-                # Converti i numeri in nomi di date
-                local -a selected_dates
-                IFS=',' read -ra numbers <<< "$selection"
-                
-                for num in "${numbers[@]}"; do
-                    # Rimuovi spazi e valida il numero
-                    num=$(echo "$num" | xargs)
-                    if [[ "$num" =~ ^[0-9]+$ ]] && [[ $num -ge 1 ]] && [[ $num -le ${#dates_array[@]} ]]; then
-                        selected_dates+=("${dates_array[$((num-1))]}")
+            delete_specific_files
+            ;;
+        2)
+            delete_by_date_pattern
+            ;;
+        3)
+            show_file_content
+            ;;
+        4|*)
+            log_info "Ritorno al menu wiki"
+            return 0
+            ;;
+    esac
+}
+
+delete_specific_files() {
+    log_info "Selezione file da cancellare"
+    
+    # Ricostruisce la lista file
+    local wiki_files=()
+    local -ra search_patterns=(
+        "*.md" "*.txt" "wiki/*" "docs/*" 
+        "*giorno*" "*day*" "*sessione*" "*session*"
+    )
+    
+    for pattern in "${search_patterns[@]}"; do
+        while IFS= read -r -d '' file; do
+            [[ -f "$file" ]] && wiki_files+=("$file")
+        done < <(find . -maxdepth 3 -name "$pattern" -type f -print0 2>/dev/null)
+    done
+    
+    local unique_files
+    unique_files=($(printf '%s\n' "${wiki_files[@]}" | sort -u))
+    
+    if [[ ${#unique_files[@]} -eq 0 ]]; then
+        log_warning "Nessun file da gestire"
+        return 0
+    fi
+    
+    printf "\n${BLUE}Seleziona file da cancellare:${NC}\n"
+    for i in "${!unique_files[@]}"; do
+        local file="${unique_files[$i]}"
+        local size=""
+        [[ -f "$file" ]] && size=$(du -h "$file" 2>/dev/null | cut -f1)
+        printf "%2d) %s ${YELLOW}(%s)${NC}\n" $((i+1)) "$file" "$size"
+    done
+    
+    printf "\n${BLUE}Inserisci numeri separati da spazio (es: 1 3 5) o 'a' per tutti: ${NC}"
+    read -r selections
+    
+    if [[ "$selections" == "a" || "$selections" == "all" ]]; then
+        printf "\n${RED}⚠️  Confermi la cancellazione di TUTTI i file? [si/No]: ${NC}"
+        read -r confirm
+        case "${confirm,,}" in
+            s|si|sì|yes|y)
+                local deleted=0
+                for file in "${unique_files[@]}"; do
+                    if rm -f "$file" 2>/dev/null; then
+                        log_success "Cancellato: $file"
+                        ((deleted++))
                     else
-                        log_warning "Numero non valido ignorato: $num"
+                        log_error "Errore cancellazione: $file"
                     fi
                 done
-                
-                if [[ ${#selected_dates[@]} -gt 0 ]]; then
-                    # Mostra anteprima
-                    printf "\n${YELLOW}Date selezionate per la cancellazione:${NC}\n"
-                    for date in "${selected_dates[@]}"; do
-                        printf "${RED}  - %s${NC}\n" "$date"
-                    done
-                    
-                    printf "\n${BLUE}Confermi la cancellazione [si/No] (s/N)? ${NC}"
-                    local confirm
-                    read -r confirm
-                    
-                    case "${confirm,,}" in
-                        s|si|sì|yes|y)
-                            # Unisci le date con virgole
-                            local dates_string
-                            dates_string=$(printf "%s," "${selected_dates[@]}")
-                            dates_string="${dates_string%,}"  # Rimuovi l'ultima virgola
-                            
-                            delete_wiki_dates "$dates_string"
-                            ;;
-                        *)
-                            log_info "Cancellazione annullata"
-                            ;;
-                    esac
+                log_success "$deleted file cancellati"
+                ;;
+            *)
+                log_info "Cancellazione annullata"
+                ;;
+        esac
+        return 0
+    fi
+    
+    # Processa selezioni multiple
+    local files_to_delete=()
+    for selection in $selections; do
+        if [[ "$selection" =~ ^[0-9]+$ ]] && [[ $selection -ge 1 ]] && [[ $selection -le ${#unique_files[@]} ]]; then
+            local index=$((selection - 1))
+            files_to_delete+=("${unique_files[$index]}")
+        else
+            log_warning "Selezione non valida: $selection"
+        fi
+    done
+    
+    if [[ ${#files_to_delete[@]} -eq 0 ]]; then
+        log_warning "Nessun file selezionato per la cancellazione"
+        return 0
+    fi
+    
+    printf "\n${YELLOW}File selezionati per la cancellazione:${NC}\n"
+    for file in "${files_to_delete[@]}"; do
+        printf "  • %s\n" "$file"
+    done
+    
+    printf "\n${RED}Confermi la cancellazione? [si/No]: ${NC}"
+    read -r confirm
+    
+    case "${confirm,,}" in
+        s|si|sì|yes|y)
+            local deleted=0
+            for file in "${files_to_delete[@]}"; do
+                if rm -f "$file" 2>/dev/null; then
+                    log_success "Cancellato: $file"
+                    ((deleted++))
                 else
-                    log_warning "Nessuna data valida selezionata"
+                    log_error "Errore cancellazione: $file"
                 fi
+            done
+            log_success "$deleted/${#files_to_delete[@]} file cancellati con successo"
+            ;;
+        *)
+            log_info "Cancellazione annullata dall'utente"
+            ;;
+    esac
+}
+
+delete_by_date_pattern() {
+    log_info "Cancellazione per pattern data"
+    
+    printf "\n${BLUE}Pattern di ricerca comuni:${NC}\n"
+    printf "  ${WHITE}1)${NC} Data formato YYYY-MM-DD (es: 2025-01-15)\n"
+    printf "  ${WHITE}2)${NC} Data formato DD-MM-YYYY (es: 15-01-2025)\n"
+    printf "  ${WHITE}3)${NC} Mese specifico (es: 2025-01)\n"
+    printf "  ${WHITE}4)${NC} Anno specifico (es: 2025)\n"
+    printf "  ${WHITE}5)${NC} Pattern personalizzato\n"
+    
+    local pattern_choice
+    printf "\n${BLUE}Scegli tipo pattern (1-5): ${NC}"
+    read -r pattern_choice
+    
+    local search_pattern=""
+    
+    case "$pattern_choice" in
+        1)
+            printf "${BLUE}Inserisci data YYYY-MM-DD: ${NC}"
+            read -r date_input
+            if [[ "$date_input" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+                search_pattern="*${date_input}*"
             else
-                log_info "Nessuna selezione effettuata"
+                log_error "Formato data non valido"
+                return 1
             fi
             ;;
         2)
-            printf "\n${RED}⚠️  ATTENZIONE: Stai per cancellare TUTTE le date!${NC}\n"
-            printf "${BLUE}Sei sicuro [si/No] (s/N)? ${NC}"
-            local confirm_all
-            read -r confirm_all
-            
-            case "${confirm_all,,}" in
-                s|si|sì|yes|y)
-                    # Unisci tutte le date
-                    local all_dates_string
-                    all_dates_string=$(printf "%s," "${dates_array[@]}")
-                    all_dates_string="${all_dates_string%,}"
-                    
-                    delete_wiki_dates "$all_dates_string"
-                    ;;
-                *)
-                    log_info "Cancellazione annullata"
-                    ;;
-            esac
+            printf "${BLUE}Inserisci data DD-MM-YYYY: ${NC}"
+            read -r date_input
+            if [[ "$date_input" =~ ^[0-9]{2}-[0-9]{2}-[0-9]{4}$ ]]; then
+                search_pattern="*${date_input}*"
+            else
+                log_error "Formato data non valido"
+                return 1
+            fi
             ;;
-        3|"")
-            log_info "Nessuna cancellazione effettuata"
+        3)
+            printf "${BLUE}Inserisci mese YYYY-MM: ${NC}"
+            read -r month_input
+            if [[ "$month_input" =~ ^[0-9]{4}-[0-9]{2}$ ]]; then
+                search_pattern="*${month_input}*"
+            else
+                log_error "Formato mese non valido"
+                return 1
+            fi
+            ;;
+        4)
+            printf "${BLUE}Inserisci anno YYYY: ${NC}"
+            read -r year_input
+            if [[ "$year_input" =~ ^[0-9]{4}$ ]]; then
+                search_pattern="*${year_input}*"
+            else
+                log_error "Formato anno non valido"
+                return 1
+            fi
+            ;;
+        5)
+            printf "${BLUE}Inserisci pattern personalizzato: ${NC}"
+            read -r search_pattern
+            [[ -z "$search_pattern" ]] && {
+                log_error "Pattern non può essere vuoto"
+                return 1
+            }
             ;;
         *)
-            log_warning "Opzione non valida: $choice"
+            log_info "Selezione annullata"
+            return 0
             ;;
     esac
+    
+    log_info "Ricerca file con pattern: $search_pattern"
+    
+    local matching_files=()
+    while IFS= read -r -d '' file; do
+        [[ -f "$file" ]] && matching_files+=("$file")
+    done < <(find . -maxdepth 3 -name "$search_pattern" -type f -print0 2>/dev/null)
+    
+    if [[ ${#matching_files[@]} -eq 0 ]]; then
+        log_warning "Nessun file trovato con pattern: $search_pattern"
+        return 0
+    fi
+    
+    printf "\n${YELLOW}File trovati con pattern '$search_pattern':${NC}\n"
+    for i in "${!matching_files[@]}"; do
+        local file="${matching_files[$i]}"
+        local size=""
+        [[ -f "$file" ]] && size=$(du -h "$file" 2>/dev/null | cut -f1)
+        printf "%2d) %s ${YELLOW}(%s)${NC}\n" $((i+1)) "$file" "$size"
+    done
+    
+    printf "\n${RED}Confermi la cancellazione di questi ${#matching_files[@]} file? [si/No]: ${NC}"
+    read -r confirm
+    
+    case "${confirm,,}" in
+        s|si|sì|yes|y)
+            local deleted=0
+            for file in "${matching_files[@]}"; do
+                if rm -f "$file" 2>/dev/null; then
+                    log_success "Cancellato: $file"
+                    ((deleted++))
+                else
+                    log_error "Errore cancellazione: $file"
+                fi
+            done
+            log_success "$deleted/${#matching_files[@]} file cancellati"
+            ;;
+        *)
+            log_info "Cancellazione annullata"
+            ;;
+    esac
+}
+
+show_file_content() {
+    log_info "Visualizzazione contenuto file"
+    
+    # Ricostruisce lista file
+    local wiki_files=()
+    local -ra search_patterns=(
+        "*.md" "*.txt" "wiki/*" "docs/*" 
+        "*giorno*" "*day*" "*sessione*" "*session*"
+    )
+    
+    for pattern in "${search_patterns[@]}"; do
+        while IFS= read -r -d '' file; do
+            [[ -f "$file" ]] && wiki_files+=("$file")
+        done < <(find . -maxdepth 3 -name "$pattern" -type f -print0 2>/dev/null)
+    done
+    
+    local unique_files
+    unique_files=($(printf '%s\n' "${wiki_files[@]}" | sort -u))
+    
+    if [[ ${#unique_files[@]} -eq 0 ]]; then
+        log_warning "Nessun file da visualizzare"
+        return 0
+    fi
+    
+    printf "\n${BLUE}Seleziona file da visualizzare:${NC}\n"
+    for i in "${!unique_files[@]}"; do
+        local file="${unique_files[$i]}"
+        local size=""
+        [[ -f "$file" ]] && size=$(du -h "$file" 2>/dev/null | cut -f1)
+        printf "%2d) %s ${YELLOW}(%s)${NC}\n" $((i+1)) "$file" "$size"
+    done
+    
+    printf "\n${BLUE}Inserisci numero file: ${NC}"
+    read -r selection
+    
+    if [[ "$selection" =~ ^[0-9]+$ ]] && [[ $selection -ge 1 ]] && [[ $selection -le ${#unique_files[@]} ]]; then
+        local index=$((selection - 1))
+        local selected_file="${unique_files[$index]}"
+        
+        log_info "Contenuto di: $selected_file"
+        printf "\n${YELLOW}%s${NC}\n" "$(printf '─%.0s' {1..60})"
+        
+        if command -v less >/dev/null 2>&1; then
+            less "$selected_file"
+        elif [[ $(wc -l < "$selected_file") -gt 30 ]]; then
+            printf "${BLUE}File lungo, mostra prime 30 righe...${NC}\n"
+            head -30 "$selected_file"
+            printf "\n${BLUE}[File continua... usa 'cat $selected_file' per vedere tutto]${NC}\n"
+        else
+            cat "$selected_file"
+        fi
+        
+        printf "${YELLOW}%s${NC}\n" "$(printf '─%.0s' {1..60})"
+    else
+        log_warning "Selezione non valida: $selection"
+    fi
 }
 
 update_wiki() {
@@ -731,82 +900,57 @@ update_wiki() {
     fi
     
     # Menu principale wiki
-    printf "${BLUE}Opzioni Wiki disponibili:${NC}\n"
-    printf "${WHITE}1) Aggiornamento Clean + completo${NC}\n"
-    printf "${WHITE}2) Aggiornamento normale${NC}\n"
-    printf "${WHITE}3) Solo gestione date (senza aggiornamento)${NC}\n"
-    printf "${WHITE}4) Gestione date + aggiornamento${NC}\n"
-    printf "${WHITE}5) Salta wiki${NC}\n"
+    printf "\n${BLUE}Opzioni wiki disponibili:${NC}\n"
+    printf "  ${WHITE}1)${NC} Clean + aggiornamento completo\n"
+    printf "  ${WHITE}2)${NC} Aggiornamento normale\n"
+    printf "  ${WHITE}3)${NC} Gestisci giorni esistenti\n"
+    printf "  ${WHITE}4)${NC} Salta aggiornamento\n"
     
     local choice
-    printf "\n${BLUE}Scelta [1/2/3/4/5]: ${NC}"
+    printf "\n${BLUE}Scegli opzione (1-4): ${NC}"
     read -r choice
-    
-    [[ -z "$choice" ]] && choice="5"
     
     case "$choice" in
         1)
             log_info "Clean + aggiornamento completo wiki"
-            if node "$wiki_script" --clean 2>/dev/null && "$latex2markdown_script" 2>/dev/null && node "$wiki_script" 2>/dev/null; then
+            if node "$wiki_script" --clean &&
+               "$latex2markdown_script" &&
+               node "$wiki_script"; then
                 log_success "Wiki aggiornata completamente"
             else
-                log_warning "Errore durante l'aggiornamento completo wiki"
+                log_error "Errore durante l'aggiornamento completo"
             fi
             ;;
         2)
             log_info "Aggiornamento normale wiki"
-            if "$latex2markdown_script" 2>/dev/null && node "$wiki_script" 2>/dev/null; then
+            if "$latex2markdown_script" &&
+               node "$wiki_script"; then
                 log_success "Wiki aggiornata"
             else
-                log_warning "Errore durante l'aggiornamento wiki"
+                log_error "Errore durante l'aggiornamento normale"
             fi
             ;;
         3)
-            log_info "Solo gestione date wiki"
-            manage_wiki_dates
-            ;;
-        4)
-            log_info "Gestione date + aggiornamento wiki"
-            
-            # Prima gestisci le date
-            manage_wiki_dates
-            
-            # Dopo la gestione date, chiedi se procedere con l'aggiornamento
-            printf "\n${BLUE}Procedere con l'aggiornamento wiki [Si/No] (s/N)? ${NC}"
-            local update_choice
-            read -r update_choice
-            
-            case "${update_choice,,}" in
+            manage_wiki_days
+            # Dopo la gestione, chiedi se fare anche l'aggiornamento
+            printf "\n${BLUE}Vuoi procedere anche con l'aggiornamento wiki? [si/No]: ${NC}"
+            read -r update_after_manage
+            case "${update_after_manage,,}" in
                 s|si|sì|yes|y)
-                    printf "${BLUE}Tipo aggiornamento [Clean/Normale] (c/N)? ${NC}"
-                    local update_type
-                    read -r update_type
-                    
-                    case "${update_type,,}" in
-                        c|clean)
-                            log_info "Clean + aggiornamento completo wiki"
-                            if node "$wiki_script" --clean 2>/dev/null && "$latex2markdown_script" 2>/dev/null && node "$wiki_script" 2>/dev/null; then
-                                log_success "Wiki aggiornata completamente"
-                            else
-                                log_warning "Errore durante l'aggiornamento completo wiki"
-                            fi
-                            ;;
-                        *)
-                            log_info "Aggiornamento normale wiki"
-                            if "$latex2markdown_script" 2>/dev/null && node "$wiki_script" 2>/dev/null; then
-                                log_success "Wiki aggiornata"
-                            else
-                                log_warning "Errore durante l'aggiornamento wiki"
-                            fi
-                            ;;
-                    esac
+                    log_info "Aggiornamento wiki dopo gestione"
+                    if "$latex2markdown_script" &&
+                       node "$wiki_script"; then
+                        log_success "Wiki aggiornata dopo gestione"
+                    else
+                        log_error "Errore aggiornamento post-gestione"
+                    fi
                     ;;
                 *)
-                    log_info "Aggiornamento wiki saltato"
+                    log_info "Solo gestione giorni completata"
                     ;;
             esac
             ;;
-        5|*)
+        4|*)
             log_info "Aggiornamento wiki saltato"
             ;;
     esac
