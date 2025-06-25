@@ -3,7 +3,7 @@
 #=======================================================================================
 # Script per la compilazione parallela di documenti LaTeX e commit automatico per OBSS
 # Autore: [Andres Zanzani]
-# Versione: 3.1 - Ottimizzato e Migliorato con aggiornamento release esistenti
+# Versione: 3.2 - Ottimizzato con aggiornamento release esistenti
 # Licenza: GPL-3.0 License
 #=======================================================================================
 
@@ -14,8 +14,6 @@ IFS=$'\n\t'
 # Flag per controllare se lo script è completato normalmente
 declare SCRIPT_COMPLETED=false
 declare EXIT_CALLED=false
-
-# NESSUN TRAP - gestione manuale del cleanup
 
 #==============================================================================
 # CONFIGURAZIONE E COSTANTI
@@ -85,7 +83,7 @@ log_step() {
 show_header() {
     printf "${MAGENTA}"
     printf '═%.0s' {1..64}; echo
-    printf "  📚 COMPILAZIONE DOCUMENTI LATEX v3.0\n"
+    printf "  📚 COMPILAZIONE DOCUMENTI LATEX v3.2\n"
     printf '═%.0s' {1..64}; echo
     printf "${NC}"
 }
@@ -134,7 +132,7 @@ manual_cleanup() {
     done
     
     # Pulizia file di risposta API
-    rm -f response.json upload_response.json 2>/dev/null
+    rm -f response.json upload_response.json assets_list.json release_details.json 2>/dev/null
     
     log_success "Pulizia completata"
 }
@@ -380,7 +378,6 @@ latex2markdown() {
     fi
     
     log_info "Conversione file Markdown..."
-    # Conversione sequenziale invece che parallela per evitare problemi
     if java Latex2MarkDown OBSSv2.tex OBSSv2.md >/dev/null 2>&1; then
         log_success "OBSSv2.md generato"
     else
@@ -400,7 +397,6 @@ latex2markdown() {
     done
     
     log_success "$converted file Markdown generati"
-    log_info "Fine latex2markdown - proseguendo..."
 }
 
 linearize_pdfs() {
@@ -568,7 +564,6 @@ update_wiki() {
 # GESTIONE RELEASE GITHUB CON AGGIORNAMENTO
 #==============================================================================
 
-# Funzione per validare i nomi dei tag GitHub
 validate_tag_name() {
     local tag_name="$1"
     
@@ -596,7 +591,6 @@ validate_tag_name() {
     return 0
 }
 
-# Funzione per verificare se una release esiste già
 check_existing_release() {
     local tag_name="$1"
     local -r repo_owner="buzzqw"
@@ -606,16 +600,13 @@ check_existing_release() {
     log_info "Verifica esistenza release '$tag_name'..."
     
     local response http_code
-    response=$(curl -s -w "%{http_code}" -o check_release.json \
+    response=$(curl -s -w "%{http_code}" -o /dev/null \
         -H "Accept: application/vnd.github+json" \
         -H "Authorization: Bearer ${GITHUB_TOKEN}" \
         -H "X-GitHub-Api-Version: 2022-11-28" \
         "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/tags/${tag_name}")
     
     http_code="${response: -3}"
-    
-    # Pulisci il file di risposta
-    rm -f check_release.json 2>/dev/null
     
     if [[ "$http_code" = "200" ]]; then
         return 0  # Release esiste
@@ -624,7 +615,6 @@ check_existing_release() {
     fi
 }
 
-# Funzione per ottenere l'ID di una release esistente
 get_release_id() {
     local tag_name="$1"
     local -r repo_owner="buzzqw"
@@ -652,38 +642,29 @@ get_release_id() {
         return 1
     fi
     
-    # Debug: mostra prime righe della risposta
     log_info "Risposta API ricevuta, prime righe:"
     head -3 release_details.json >&2
     
-    # Estrai l'ID usando diversi metodi per sicurezza
     local release_id
     
-    # Metodo 1: grep + sed semplice
-    release_id=$(grep -o '"id":[0-9]*' release_details.json | head -1 | sed 's/"id"://')
-    
-    # Se il primo metodo fallisce, prova metodo alternativo
-    if [[ -z "$release_id" ]]; then
-        log_warning "Primo metodo fallito, provo metodo alternativo..."
-        # Metodo 2: estrazione più specifica
-        release_id=$(sed -n 's/.*"id": *\([0-9]*\).*/\1/p' release_details.json | head -1)
-    fi
-    
-    # Se anche il secondo metodo fallisce, prova il terzo
-    if [[ -z "$release_id" ]]; then
-        log_warning "Secondo metodo fallito, provo metodo Python..."
-        # Metodo 3: usando Python se disponibile
-        if command -v python3 >/dev/null 2>&1; then
-            release_id=$(python3 -c "
+    # Metodo 1: Python se disponibile
+    if command -v python3 >/dev/null 2>&1; then
+        release_id=$(python3 -c "
 import json
+import sys
 try:
     with open('release_details.json', 'r') as f:
         data = json.load(f)
     print(data.get('id', ''))
 except:
-    pass
+    print('', file=sys.stderr)
 " 2>/dev/null)
-        fi
+    fi
+    
+    # Se Python fallisce, usa sed
+    if [[ -z "$release_id" ]]; then
+        log_warning "Primo metodo fallito, provo metodo alternativo..."
+        release_id=$(sed -n 's/.*"id": *\([0-9]*\).*/\1/p' release_details.json | head -1)
     fi
     
     rm -f release_details.json
@@ -694,12 +675,10 @@ except:
         return 0
     else
         log_error "Impossibile estrarre ID della release"
-        log_error "Valore estratto: '$release_id'"
         return 1
     fi
 }
 
-# Funzione per eliminare tutti gli asset di una release
 delete_release_assets() {
     local release_id="$1"
     local -r repo_owner="buzzqw"
@@ -708,7 +687,6 @@ delete_release_assets() {
     
     log_info "Eliminazione asset esistenti per release ID: $release_id"
     
-    # Ottieni lista asset con debug
     local assets_response http_code
     assets_response=$(curl -s -w "%{http_code}" -o assets_list.json \
         -H "Accept: application/vnd.github+json" \
@@ -725,13 +703,11 @@ delete_release_assets() {
         return 1
     fi
     
-    # Debug: mostra contenuto risposta
     log_info "Risposta API asset, prime righe:"
     head -3 assets_list.json >&2
     
-    # Conta il numero di asset
     local asset_count
-    asset_count=$(grep -c '"id":[0-9]*' assets_list.json 2>/dev/null || echo "0")
+    asset_count=$(grep -c '"id": *[0-9]*' assets_list.json 2>/dev/null || echo "0")
     log_info "Asset trovati nella release: $asset_count"
     
     if [[ "$asset_count" -eq 0 ]]; then
@@ -740,34 +716,29 @@ delete_release_assets() {
         return 0
     fi
     
-    # Estrai ID degli asset con metodi multipli
     local asset_ids deleted_count=0
     
-    # Metodo 1: grep + sed
-    asset_ids=$(grep -o '"id":[0-9]*' assets_list.json | sed 's/"id"://' 2>/dev/null)
-    
-    # Se il primo metodo non trova nulla, prova alternativo
-    if [[ -z "$asset_ids" ]]; then
-        log_info "Primo metodo fallito, provo metodo alternativo..."
-        asset_ids=$(sed -n 's/.*"id": *\([0-9]*\).*/\1/p' assets_list.json)
-    fi
-    
-    # Se anche il secondo fallisce, prova Python
-    if [[ -z "$asset_ids" && -f "assets_list.json" ]]; then
-        log_info "Secondo metodo fallito, provo con Python..."
-        if command -v python3 >/dev/null 2>&1; then
-            asset_ids=$(python3 -c "
+    if command -v python3 >/dev/null 2>&1; then
+        log_info "Estrazione ID asset con Python..."
+        asset_ids=$(python3 -c "
 import json
+import sys
 try:
     with open('assets_list.json', 'r') as f:
         data = json.load(f)
     if isinstance(data, list):
         for asset in data:
-            if 'id' in asset:
+            if 'id' in asset and isinstance(asset['id'], int):
                 print(asset['id'])
 except Exception as e:
-    pass
+    print('', file=sys.stderr)
 " 2>/dev/null)
+    else
+        log_info "Python non disponibile, uso grep/sed..."
+        asset_ids=$(grep -o '"id": *[0-9]*' assets_list.json | sed 's/"id": *//' | sort -u 2>/dev/null)
+        
+        if [[ -z "$asset_ids" ]]; then
+            asset_ids=$(sed -n 's/.*"id": *\([0-9]*\).*/\1/p' assets_list.json | sort -u)
         fi
     fi
     
@@ -778,9 +749,11 @@ except Exception as e:
         return 0
     fi
     
-    log_info "Asset IDs trovati: $(echo "$asset_ids" | wc -w)"
+    asset_ids=$(echo "$asset_ids" | sort -u | grep -v '^$')
+    local unique_count=$(echo "$asset_ids" | wc -w)
+    log_info "Asset IDs unici trovati: $unique_count"
     
-    set +e  # Disabilita temporaneamente l'uscita in caso di errore
+    set +e
     
     while IFS= read -r asset_id; do
         [[ -n "$asset_id" && "$asset_id" =~ ^[0-9]+$ ]] || continue
@@ -800,6 +773,8 @@ except Exception as e:
         if [[ "$delete_http_code" = "204" ]]; then
             ((deleted_count++))
             log_success "✓ Asset $asset_id eliminato"
+        elif [[ "$delete_http_code" = "404" ]]; then
+            log_info "- Asset $asset_id già eliminato o non esistente"
         else
             log_warning "✗ Errore eliminazione asset $asset_id (HTTP: $delete_http_code)"
         fi
@@ -811,7 +786,6 @@ except Exception as e:
     log_success "$deleted_count asset eliminati con successo"
 }
 
-# Funzione per aggiornare una release esistente
 update_existing_release() {
     local tag_name="$1" version_description="$2"
     local -r repo_owner="buzzqw"
@@ -820,7 +794,6 @@ update_existing_release() {
     
     log_info "Aggiornamento release esistente: $tag_name"
     
-    # Ottieni ID della release
     local release_id
     if ! release_id=$(get_release_id "$tag_name") || [[ -z "$release_id" ]]; then
         log_error "Impossibile ottenere l'ID della release"
@@ -829,14 +802,11 @@ update_existing_release() {
     
     log_info "ID release trovato: $release_id"
     
-    # Elimina tutti gli asset esistenti
     delete_release_assets "$release_id"
     
-    # Prepara descrizione aggiornata
     local commit_sha
     commit_sha=$(git rev-parse HEAD)
     
-    # Escape completo per JSON
     local safe_description
     safe_description=$(printf '%s' "$version_description" | \
         sed 's/\\/\\\\/g' | \
@@ -849,7 +819,6 @@ update_existing_release() {
     
     local full_description="${safe_description}\\n\\nAggiornato: $(date '+%d/%m/%Y alle %H:%M')\\nCommit: ${commit_sha}"
     
-    # Creazione JSON per aggiornamento
     local json_file
     json_file=$(mktemp)
     TEMP_FILES+=("$json_file")
@@ -863,7 +832,6 @@ update_existing_release() {
     printf '  "prerelease": false\n' >> "$json_file"
     printf '}\n' >> "$json_file"
     
-    # Aggiornamento release
     local response
     response=$(curl -s -w "%{http_code}" -o response.json \
         -X PATCH \
@@ -879,12 +847,10 @@ update_existing_release() {
     if [[ "$http_code" = "200" ]]; then
         log_success "Release aggiornata con successo"
         
-        # Estrazione informazioni release
         local release_url upload_url
         release_url=$(grep -o '"html_url":"[^"]*' response.json | sed 's/"html_url":"//') 
         upload_url=$(grep -o '"upload_url":"[^"]*' response.json | sed 's/"upload_url":"//') 
         
-        # Se l'estrazione con grep fallisce, prova con sed
         if [[ -z "$release_url" ]]; then
             release_url=$(sed -n 's/.*"html_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
         fi
@@ -893,16 +859,13 @@ update_existing_release() {
             upload_url=$(sed -n 's/.*"upload_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
         fi
         
-        # Rimuovi il suffixo {?name,label} dall'upload_url se presente
         upload_url=$(echo "$upload_url" | sed 's/{.*}//')
         
         log_info "URL release: $release_url"
         log_info "URL upload: ${upload_url:0:50}..."
         
-        # Caricamento nuovi asset
         upload_release_assets "$upload_url"
         
-        # Informazioni finali
         printf "\n${BLUE}📋 Release aggiornata:\n"
         printf "   Nome: %s\n" "$tag_name"
         printf "   URL: %s\n" "$release_url"
@@ -929,7 +892,6 @@ create_github_release_custom() {
     local commit_sha
     commit_sha=$(git rev-parse HEAD)
     
-    # Escape completo per JSON - sostituisce tutti i caratteri problematici
     local safe_description
     safe_description=$(printf '%s' "$version_description" | \
         sed 's/\\/\\\\/g' | \
@@ -942,12 +904,10 @@ create_github_release_custom() {
     
     local full_description="${safe_description}\\n\\nCommit: ${commit_sha}"
     
-    # Creazione JSON usando printf per massima sicurezza
     local json_file
     json_file=$(mktemp)
     TEMP_FILES+=("$json_file")
     
-    # Usa printf per creare JSON sicuro
     printf '{\n' > "$json_file"
     printf '  "tag_name": "%s",\n' "$version_name" >> "$json_file"
     printf '  "target_commitish": "%s",\n' "$commit_sha" >> "$json_file"
@@ -959,12 +919,9 @@ create_github_release_custom() {
     printf '}\n' >> "$json_file"
     
     log_info "JSON payload creato, validazione..."
-    
-    # Debug: mostra le prime righe del JSON
     log_info "Prime righe JSON:"
     head -3 "$json_file" >&2
     
-    # Chiamata API GitHub con file JSON
     local response
     response=$(curl -s -w "%{http_code}" -o response.json \
       -X POST \
@@ -980,12 +937,10 @@ create_github_release_custom() {
     if [[ "$http_code" = "201" ]]; then
         log_success "Release creata con successo"
         
-        # Estrazione informazioni release
         local release_url upload_url
         release_url=$(grep -o '"html_url":"[^"]*' response.json | sed 's/"html_url":"//') 
         upload_url=$(grep -o '"upload_url":"[^"]*' response.json | sed 's/"upload_url":"//') 
         
-        # Se l'estrazione con grep fallisce, prova con sed
         if [[ -z "$release_url" ]]; then
             release_url=$(sed -n 's/.*"html_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
         fi
@@ -994,16 +949,13 @@ create_github_release_custom() {
             upload_url=$(sed -n 's/.*"upload_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
         fi
         
-        # Rimuovi il suffixo {?name,label} dall'upload_url se presente
         upload_url=$(echo "$upload_url" | sed 's/{.*}//')
         
         log_info "URL release: $release_url"
         log_info "URL upload: ${upload_url:0:50}..."
         
-        # Caricamento asset
         upload_release_assets "$upload_url"
         
-        # Informazioni finali
         printf "\n${BLUE}📋 Release creata:\n"
         printf "   Nome: %s\n" "$version_name"
         printf "   URL: %s\n" "$release_url"
@@ -1013,8 +965,6 @@ create_github_release_custom() {
         echo "❌ Errore release (HTTP: $http_code)"
         [[ -f "response.json" ]] && head -5 response.json >&2
         log_error "JSON file per debug: $json_file"
-        log_error "Contenuto completo JSON:"
-        cat "$json_file" >&2
         return 1
     fi
     
@@ -1038,7 +988,6 @@ upload_release_assets() {
         return 0
     }
     
-    # Verifica che l'upload_url sia valido
     if [[ -z "$upload_url" ]]; then
         log_error "URL di upload non valido"
         return 1
@@ -1048,14 +997,12 @@ upload_release_assets() {
     
     local upload_success=0
     
-    # Disabilita temporaneamente set -e per gestire errori upload
     set +e
     
     while IFS= read -r -d '' filepath; do
         local filename content_type
         filename=$(basename "$filepath")
         
-        # Determinazione content-type
         case "${filename##*.}" in
             pdf) content_type="application/pdf" ;;
             zip) content_type="application/zip" ;;
@@ -1065,7 +1012,6 @@ upload_release_assets() {
         
         log_info "Caricamento: $filename"
         
-        # Upload con debug e gestione duplicati
         local upload_response http_code
         upload_response=$(curl -s -w "%{http_code}" -o upload_response.json \
             -X POST \
@@ -1081,15 +1027,9 @@ upload_release_assets() {
             ((upload_success++))
             log_success "✓ $filename caricato"
         elif [[ "$http_code" = "422" ]]; then
-            # Asset già esistente - prova a sostituirlo
-            log_warning "⚠ $filename già presente, provo a sostituirlo..."
-            
-            # In questo caso, l'asset non è stato eliminato correttamente
-            # Salta questo asset e continua
-            log_warning "✗ Saltando $filename (già esistente)"
+            log_warning "⚠ $filename già presente, saltando..."
         else
             log_warning "✗ Errore caricamento $filename (HTTP: $http_code)"
-            # Debug: mostra primi caratteri della risposta di errore
             [[ -f "upload_response.json" ]] && head -2 upload_response.json >&2
         fi
         
@@ -1105,7 +1045,6 @@ upload_release_assets() {
 create_new_version() {
     show_section "🚀 CREAZIONE NUOVA VERSIONE"
     
-    # Prompt utente compatto
     local choice
     printf "${BLUE}Produco una nuova versione [si/No](s/N)? ${NC}"
     read -r choice
@@ -1116,7 +1055,6 @@ create_new_version() {
         s|si|sì|yes|y)
             log_info "Configurazione nuova versione GitHub..."
             
-            # Richiesta nome versione con validazione
             local version_name timestamp default_version
             timestamp=$(date +"%Y-%m-%d-%H%M")
             default_version="OBSSv2-${timestamp}"
@@ -1125,13 +1063,11 @@ create_new_version() {
                 printf "\n${BLUE}Nome della versione [${default_version}]: ${NC}"
                 read -r version_name
                 
-                # Se vuoto, usa il default
                 if [[ -z "$version_name" ]]; then
                     version_name="$default_version"
                     break
                 fi
                 
-                # Validazione nome tag GitHub
                 if validate_tag_name "$version_name"; then
                     break
                 else
@@ -1146,7 +1082,6 @@ create_new_version() {
             
             log_success "Nome versione: $version_name"
             
-            # Verifica se la release esiste già
             if check_existing_release "$version_name"; then
                 printf "\n${YELLOW}⚠️  La release '$version_name' esiste già!${NC}\n"
                 printf "${BLUE}Vuoi aggiornarla [Si/No] (s/N)? ${NC}"
@@ -1163,7 +1098,6 @@ create_new_version() {
                 esac
             fi
             
-            # Richiesta descrizione
             local version_description default_description
             default_description="Release automatica per OBSS v2\n\nData di creazione: $(date '+%d/%m/%Y alle %H:%M')"
             
@@ -1176,7 +1110,6 @@ create_new_version() {
             
             log_success "Descrizione impostata"
             
-            # Creazione o aggiornamento release
             if check_existing_release "$version_name"; then
                 if update_existing_release "$version_name" "$version_description"; then
                     log_success "Versione '$version_name' aggiornata con successo"
@@ -1206,7 +1139,6 @@ create_new_version() {
 main() {
     show_header
     
-    # Pipeline di esecuzione ottimizzata con gestione errori
     {
         verify_prerequisites &&
         ensure_gitignore_security &&
@@ -1214,25 +1146,21 @@ main() {
         verify_latex_files
     } || exit 1
     
-    # Fase di elaborazione
     extract_sections || exit 1
     create_document_variants
     compile_documents
     copy_logs
     
-    # Post-processing
     log_step "Inizio post-processing"
     linearize_pdfs
     latex2markdown
     
-    # Integrazione e finalizzazione
     log_step "Inizio operazioni Git"
     git_operations || exit 1
     
     log_step "Inizio copia asset finali"
     copy_final_pdfs
     
-    # Cleanup manuale controllato
     log_step "Inizio cleanup manuale"
     manual_cleanup
     
@@ -1242,11 +1170,9 @@ main() {
     log_step "Inizio gestione versioni"
     create_new_version
     
-    # Indica che lo script è completato normalmente
     SCRIPT_COMPLETED=true
     EXIT_CALLED=true
     
-    # Statistiche finali
     local duration=$(($(date +%s) - SCRIPT_START_TIME))
     
     printf "\n${GREEN}"
