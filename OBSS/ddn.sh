@@ -638,8 +638,17 @@ get_release_id() {
         -H "X-GitHub-Api-Version: 2022-11-28" \
         "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/tags/${tag_name}")
     
-    # Estrai l'ID della release
-    echo "$response" | awk -F'"' '/\"id\":/ {gsub(/[^0-9]/, "", $4); print $4; exit}'
+    # Debug: salva la risposta per il debug
+    echo "$response" > get_release_debug.json
+    
+    # Estrai l'ID della release usando grep e sed per maggiore compatibilità
+    local release_id
+    release_id=$(echo "$response" | grep -o '"id":[0-9]*' | head -1 | sed 's/"id"://')
+    
+    # Rimuovi il file di debug
+    rm -f get_release_debug.json
+    
+    echo "$release_id"
 }
 
 # Funzione per eliminare tutti gli asset di una release
@@ -659,9 +668,9 @@ delete_release_assets() {
         -H "X-GitHub-Api-Version: 2022-11-28" \
         "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/${release_id}/assets")
     
-    # Estrai ID degli asset ed eliminali
+    # Estrai ID degli asset ed eliminali usando grep e sed
     local asset_ids deleted_count=0
-    asset_ids=$(echo "$assets_response" | awk -F'"' '/\"id\":/ {gsub(/[^0-9]/, "", $4); print $4}')
+    asset_ids=$(echo "$assets_response" | grep -o '"id":[0-9]*' | sed 's/"id"://')
     
     set +e  # Disabilita temporaneamente l'uscita in caso di errore
     
@@ -755,8 +764,8 @@ update_existing_release() {
         
         # Estrazione informazioni release
         local release_url upload_url
-        release_url=$(awk -F'"' '/html_url/ {print $4; exit}' response.json)
-        upload_url=$(awk -F'"' '/upload_url/ {print $4; exit}' response.json | cut -d'{' -f1)
+        release_url=$(echo "$response" | grep -o '"html_url":"[^"]*' | sed 's/"html_url":"//' | head -1)
+        upload_url=$(echo "$response" | grep -o '"upload_url":"[^"]*' | sed 's/"upload_url":"//' | cut -d'{' -f1 | head -1)
         
         # Caricamento nuovi asset
         upload_release_assets "$upload_url"
@@ -841,8 +850,8 @@ create_github_release_custom() {
         
         # Estrazione informazioni release
         local release_url upload_url
-        release_url=$(awk -F'"' '/html_url/ {print $4; exit}' response.json)
-        upload_url=$(awk -F'"' '/upload_url/ {print $4; exit}' response.json | cut -d'{' -f1)
+        release_url=$(echo "$response" | grep -o '"html_url":"[^"]*' | sed 's/"html_url":"//' | head -1)
+        upload_url=$(echo "$response" | grep -o '"upload_url":"[^"]*' | sed 's/"upload_url":"//' | cut -d'{' -f1 | head -1)
         
         # Caricamento asset
         upload_release_assets "$upload_url"
