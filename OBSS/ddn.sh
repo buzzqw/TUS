@@ -493,7 +493,8 @@ copy_final_pdfs() {
         "OBSS-schema-narratore-personaggi.pdf"
         "OBSS-utilita.pdf" "screenv2.pdf" "screenv2-eng.pdf"
         "OBSSv2-scheda-eng.pdf" "OBSS-options.pdf" "OBSS-utility.pdf"
-        "OBSS-schema-arbiter-character-eng.pdf"
+        "OBSS-schema-arbiter-character-eng.pdf" 
+        "combat-quick-ita.pdf" "combat-quick-eng.pdf" "magia-quick-eng.pdf" "magia-quick-ita.pdf"
     )
     
     # Preparazione directory
