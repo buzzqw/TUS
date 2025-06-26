@@ -1982,7 +1982,6 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 \textbf{Professione}& \textbf{1 punto} & \textbf{2 punti} & \textbf{2 punti} & \textbf{3 punti}\\
 \toprule
 \textbf{Accolito}& Occulto& Storia o Geografia& Arcana& Religione\\
-\textbf{Agricoltore}& Sopravvivenza &Erboristeria& Gestire Animali & Natura\\
 \textbf{Alchimista}& Valutare&Natura& Erboristeria& Arcana\\
 \textbf{Allevatore}& Sopravvivenza&Seguire tracce& Gestire animali&Natura \\
 \textbf{Allievo mago}& Storia e Geografia&Occulto&Miti e Leggende&Arcana\\
@@ -2006,6 +2005,7 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 \textbf{Mercenario} & Percepire Emozioni & Acrobatica & Intimidire & Atletica\\
 \textbf{Minatore}& Usare corde&Pronto soccorso&Valutare&Dungeon\\
 \textbf{Monaco} & Intrattenere &Pronto Soccorso & Natura & Religione\\
+\textbf{Nomade}&  Erboristeria& Gestire Animali & Natura &  Sopravvivenza\\
 \textbf{Orafo} & Tradizioni locali & Mani di fata & Valutare & Falsificare\\
 \textbf{Pescatore}& Usare corde&Nuotare&Sopravvivenza&Natura\\
 \textbf{Scriba} &Tradizioni Locali& Falsificare & Miti e Leggende & Lingue\\
@@ -3835,7 +3835,7 @@ Concedete un bonus o penalità ($\pm 1-2$) se non indicato diversamente) ogni qu
 \hline
 \textbf{-2}& Affaticato (2), Intralciato & Affaticato (2), Afferrato, Intralciato, Sorpreso\\
 \hline
-\textbf{-4}& Affaticato (3), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale& Affaticato (3), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
+\textbf{-4}& Affaticato (4), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale& Affaticato (4), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato\\
 \hline
 \textbf{-1d6}& Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato&\\
 \hline
@@ -6487,7 +6487,7 @@ La \textbf{terza volta} che prendi questa Abilità aumenti la taglia del dado pe
 
 I bonus sono cumulativi e retroattivi ai livelli precedenti, tranne che l'aumento del dado per determinare i PF.
 
-La \textbf{quarta volta} che prendi questa Abilità aumenti di una taglia (P > M > G).
+La \textbf{quarta volta}, requisito Costituzione 3, che prendi questa Abilità aumenti di una taglia (P > M > G).
 
 \smallskip\noindent\rule{\linewidth}{2pt} \index[Abilita]{Muro mentale}\hypertarget{Muro mentale}{}\medskip\noindent{\textbf{Muro mentale}}\pdfbookmark[3]{Muro mentale}{Muro mentale}
 \noindent
@@ -8295,9 +8295,8 @@ Se volete una gestione dei componenti più \emph{fantastica} e meno legata alle 
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item Nessun incantesimo ha bisogno di componenti
-\item Tutti gli incantesimi per essere lanciati richiedono una Prova di Magia ed ignorano ogni Successo Critico Magico
-\item E' possibile aggiungere componenti all'incantesimo come offerta al Patrono che sovraintende alla lista per ottenere vantaggi e poter non eseguire la Prova di Magia. Se la Prova di Magia viene eseguita vengono considerati anche Successi o Fallimenti Critici Magici
-\item A seconda della \emph{preziosità} e \emph{storia} dell'oggetto offerto, a discrezione del Narratore, l'incantesimo può acquisire aspetti o modifiche
+\item E' possibile aggiungere componenti all'incantesimo come offerta al Patrono che sovraintende alla lista per ottenere vantaggi
+\item A seconda della \emph{preziosità} e \emph{storia} dell'oggetto offerto, a discrezione del Narratore, la Prova di Magia può prendere $\pm2d6$\ nella Prova di Magia
 \end{itemize}
 
 \subsubsection{Recuperare da morente}\index{Recuperare da morente}\label{magieessereucciso}\index{Incantesimi, Inabile}
@@ -8383,9 +8382,7 @@ Questo modificatore viene chiamato \textbf{modificatore di caratteristica per in
 \item
 Il personaggio quando assegna il primo punto di Competenza Magica \textbf{conosce} (sono presenti) nel suo Tomo della Magia un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) ed un numero di incantesimi di primo livello pari allo stesso modificatore, con un minimo di 4.
 \item
-Il personaggio quando assegna il primo punto di Competenza Magica \textbf{apprende} 2 incantesimi presenti sul suo Tomo di Magia + un numero di Trucchetti (incantesimi di livello 0) pari al modificatore di caratteristica per incantesimi con un minimo di 4.\label{incantesimicm1}\hypertarget{incantesimicm1}{}
-\item
-Il personaggio quando assegna i punti di Competenza Magica oltre il primo \textbf{apprende} 1 nuovo incantesimo che sia a disposizione nel suo Tomo di Magia e che sia entro il massimo livello lanciabile oppure 2 trucchetti (state attenti che a \hyperlink{adeptodellamagia}{Adepto della Magia}).
+Il personaggio \textbf{apprende} nel giorno un numero di incantesimi presenti sul suo Tomo di Magia pari a Competenza Magica + modificatore di caratteristica per incantesimi.\label{incantesimicm1}\hypertarget{incantesimicm1}{}
 \item
 Il numero di incantesimi formulabile al giorno dipende dalla capacità dell'incantatore. Vedi \textbf{Tabella Punti magia e Competenza Magica}. Un incantesimo ha un costo in Punti Magia pari al suo livello.
 \item
@@ -8397,34 +8394,6 @@ Con il termine \textbf{appreso}\index{Incatesimi, Appreso} si intende un incante
 \item
 Con il termine \textbf{conosciuto}\index{Incantesimi, Conosciuto} si intente un incantesimo presente sul Tomo della Magia che però non si è appreso, ovvero non si è memorizzato e non si può lanciare quando voluto.
 \end{itemize}
-
-\end{multicols}
-
-\textbf{Tabella: esempio Incantesimi Conosciuti ed Appresi}\index[Tabelle]{Tabella esempio Incantesimi Conosciuti ed Appresi}
-
-\medskip
-
-\begin{tabular}{|c|c|c|c|}
-\hline
-\textbf{Competenza} & \multicolumn{2}{c|}{\textbf{Conosciuti (presenti nel Tomo)}} & \multicolumn{1}{c|}{\textbf{Appresi (che puoi lanciare)}} \\
-\cline{2-4}
-\textbf{Magica} & \textbf{Trucchetti} & \textbf{Livello inc. 1+} & \multicolumn{1}{c|}{\textbf{Trucchetti} oppure /  \textbf{Livello inc. 1+}} \\
-\hline
-1 & mod +2 (minimo 4) & mod (minimo 4) & mod (minimo 4) / 2 \\
-\hline
-2 & presenti nel Tomo & presenti nel Tomo & +2 oppure / +1 \\
-\hline
-3 & presenti nel Tomo & presenti nel Tomo & +2 oppure / +1 \\
-\hline
-4 & presenti nel Tomo & presenti nel Tomo & +2 oppure / +1 \\
-\hline
-\end{tabular}
-
-\medskip
-
-\textbf{mod}: è il modificatore di caratteristica per incantesimi. Ogni volta che prendi l'Abilità \hyperlink{adeptodellamagia}{Adepto della Magia} \emph{apprendi} un incantesimo in più presente nel Tomo di Magia.
-
-\begin{multicols}{2}
 
 \subsubsection{Massimo livello di incantesimo lanciabile}\hypertarget{scuoleelivelli}{}\index{Livello Incantesimi per Abilità}\label{magieaccessoallelistedimagia}\index{Incantesimi, Massimo livello di incantesimo lanciabile}\index{Massimo livello di incantesimi lanciabili}\label{scuoleelivelli}
 
@@ -8522,8 +8491,6 @@ A seconda del punteggio in Competenza Magica l'incantatore ha a disposizione un 
 
 \textbf{Gli incantesimi hanno un costo in Punti Magia pari al loro livello}\index{Punti Magia e costo incantesimi}
 
-%\textbf{Gli incantesimi hanno un costo in Punti Magia pari al livello dell'incantesimo +1.}\index{Incantesimi, Costo in Punti Magia}
-
 Ogni qual volta si lanci un incantesimo si sottrae il costo ai Punti Magia a disposizione per il giorno.
 In caso di Trucchetti questi non consumano Punti Magia ma è necessario avere almeno 1 Punto Magia residuo.
 
@@ -8540,38 +8507,19 @@ I Punti Magia si recuperano tutti con 8 ore di riposo. \index{Incantesimi, Recup
 \noindent\begin{tabularx}{0.45\textwidth}{XX|XX|XX}
 \textbf{CM} & \textbf{PM}&\textbf{CM} & \textbf{PM}&\textbf{CM} & \textbf{PM}\\
 \hline
-1&2 &8&27&15&58\\
-2&4&9&36&16&62\\
-3&8&10&41&17&71\\
-4&10&11&43&18&76\\
-5&16&12&47&19&82\\
-6&19&13&50&20&89\\
-7&23&14&54&20+&prec.+ 4
+1&	4  &	8&	28&	15&	53\\
+2&	7  &	9&	32&	16&	56\\
+3&	11 &	10&	35&	17&	60\\
+4&	14 &	11&	39&	18&	63\\
+5&	18 &	12&	42&	19&	67\\
+6&	21 &	13&	46&	20&	70\\
+7&	25 & 	14&	49&	20+&	prec.+ 3
 \end{tabularx}
 
-%\begin{tabularx}{0.45\textwidth}{XX|XX}
-%\textbf{Livello Inc.} & \textbf{Punti Magia}&\textbf{Livello Inc.} & \textbf{Punti Magia}\\
+\medskip
 
-%1& 2& 6& 9\\
-%2& 3& 7&10\\
-%3&5& 8& 11\\
-%4& 6& 9& 13\\
-%5&7&&\\
-%\end{tabularx}
+PM = (CM × 3) + (CM ÷ 2 arrotondato per eccesso) + Modificatore Caratteristica
 
-%\begin{tabularx}{0.45\textwidth}{XX|XX}
-%\textbf{Comp. Magia} & \textbf{Punti Magia}&\textbf{Comp. Magia} & \textbf{Punti Magia}\\
-%1 &4&2 &6\\
-%3 &14&4 &17\\
-%5 &27&6 &32\\
-%7 &38&8&44\\
-%9 &57&10 &64\\
-%11&73&12 &73\\
-%13&83&14 &83\\
-%15&94&16 &94\\
-%17&107&18 &114\\
-%19&123&20 &133\\
-%\end{tabularx}
 
 \subsubsection*{Incantesimi come Rituali}\index{Incantesimi come Rituali}\index{Rituali, Incantesimi}
 
@@ -8582,7 +8530,7 @@ L'incantatore può lanciare un incantesimo che sia presente sul suo Tomo di Magi
 \subsubsection{Successo Critico Auto Magico}\index{Successo Critico Auto Magico}\index{Nova}\label{magienova}
 
 L'incantatore può decidere di spendere, in aggiunta ai \textbf{dei Punti Magia} dell'incantesimo, un uguale ammontare per avere in automatico un \textbf{Successo Critico Magico}.
-Ogni volta che voglio applicare un Successo Critico Magico aggiuntivo oltre il primo il costo in Punti Magia aumenta di 1. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia.
+Ogni volta che voglio applicare un Successo Critico Magico aggiuntivo oltre il primo il costo in Punti Magia aumenta di 1. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia. 
 
 
 \medskip
@@ -8597,7 +8545,7 @@ Il tempo di lancio di un incantesimo potenziato in questa maniera aumenta di 1 A
 
 Es. \hyperlink{Velocità}{Velocità}, voglio che faccia 2 critici magici, pago 3 Punti Magia per lanciarla, più 3 per il primo Successo Critico Magico più 4 per il secondo Successo Critico Magico, ed eventualmente 5 per un terzo Successo Critico Magico. Si pagano sempre tutti i Punti Magia usati indipendentemente dal risultato della Prova di Magia.
 
-Non si possono spendere più di metà dei Punti Magia attuali per potenziare un incantesimo.
+Non si possono spendere più di metà dei Punti Magia attuali per potenziare un incantesimo, non si possono fare più Autocritici del modificatore di caratteristica per incantesimo.
 
 %\subsubsection{L'Essenza della Magia}
 %Diversi incantesimi hanno la possibilità di essere potenziati direttamente sfruttando il grezzo potere magico.
@@ -8621,12 +8569,11 @@ Dovrai intraprendere perigliose avventure, pagare mercenari, cercare i tomi anti
 
 \subsubsection{Opzionale - Il vero costo della Magia}\index{Opzionale - Il vero costo della Magia}
 
-Il sistema magico può diventare sbilanciato abusando sempre degli stessi incantesimi. Per limitare questo sono proposti tre approcci, da stabilire nella Sessione Zero:
+Il sistema magico può diventare sbilanciato abusando sempre degli stessi incantesimi. Per limitare questo sono proposti due approcci, da stabilire nella Sessione Zero:
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item Il costo in Punti Magia dell'incantesimo aumenta del costo stesso ogni volta che viene rilanciato (\emph{metodo suggerito})
-\item Il costo in Punti Magia di un incantesimo è pari al Livello +1 se questo è del massimo livello lanciabile
-\item Un incantatore può lanciare lo stesso incantesimo 1 volta al giorno
+\item Un incantatore può lanciare lo stesso incantesimo al massimo 1 volta al giorno
 \end{itemize}
 
 \subsubsection{Il Tomo della Magia}\index{Tomo della Magia}\index{Il Tomo della Magia}\label{magietomodellamagia}\index{Incantesimi, Tomo della Magia}
@@ -8661,10 +8608,6 @@ Il personaggio che vuole lanciare magie deve ogni giorno ripassare le antiche fo
 Se l'incantatore non ha ripassato gli incantesimi dopo aver riposato almeno 6 ore deve superare una Prova di Magia per ogni incantesimo formulato finché non avrà ripassato.
 
 L'incantatore può studiare gli incantesimi anche da più Tomi..
-
-\subsubsection{Cambiare gli Incantesimi}\index{Cambiare gli Incantesimi}\label{Cambiare gli Incantesimi}
-
-Ogni mattina quando ripassa gli incantesimi l'incantatore può sostituire un numero di incantesimi appresi, pari 1 + le volte che ha preso Adepto della Magia, con incantesimi conosciuti presenti nel suo (suoi) Tomo di Magia ed entro il massimo livello lanciabile.
 
 \subsubsection{Tiro per Colpire con le Magie}\index{Tiro per Colpire con Incantesimi}\label{magietiropercolpireconlemagie}\index{Incantesimi, Tiro per Colpire}\hypertarget{magietiropercolpireconlemagie}{}
 

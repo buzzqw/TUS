@@ -1226,37 +1226,37 @@ In the character sheet, the initial Profession and acquired skills should be mar
 | --- | --- | --- | --- | --- | --- | --- |
 | **Profession** | **1pt** | **2pts** | **2pts** | **3pts** |
 | **Acolyte** | Occult | History/Geography | Arcana | Religion |
-| **Farmer** | Survival | Herbalism | Handle Animals | Nature |
 | **Alchemist** | Appraise | Nature | Herbalism | Arcana |
-| **Breeder** | Survival | Track | Handle animals | Nature |
 | **App. wizard** | History/Geography | Occult | Myths/Legends | Arcana |
-| **Herald** | Local Trad. | Heraldry | Languages | Diplomacy |
-| **Pettifogger** | Appraise | Deceive | Sense Motive | Diplomacy |
-| **Librarian** | Nature/Geography | Local trad. | Religion/Arcana | History |
-| **Pickpocket** | Disable Dev. | Escape Artist | Stealth | Sleight of Hand |
-| **Lumberjack** | Use Rope | Track | Nature | Survival |
-| **Hunter** | Stealth | Track | Survival | Nature |
-| **Caravan drv.** | Local trad. | Handle animals | Survival | Ride |
-| **Peasant** | Use Rope | Herbalism | Handle Animals | Nature |
-| **Delinquent** | Survival | Ride | Appraise | Stealth |
-| **Herbalist** | Myths/Legends | Geography | Nature | Herbalism |
 | **Blacksmith** | First Aid | Appraise | Athletics | Craft |
+| **Broker** | Perform | Local trad. | Sense Motive | Diplomacy |
+| **Caravan drv.** | Local trad. | Handle animals | Survival | Ride |
 | **Card player** | Sense Motive | Appraise | Perform | Deceive |
-| **Ranger** | Myths/Legends | Herbalism | Ride | Nature |
+| **Delinquent** | Survival | Ride | Appraise | Stealth |
+| **Farmer** | Survival | Track | Handle animals | Nature |
+| **Fisherman** | Use rope | Swim | Survival | Nature |
+| **Goldsmith** | Local trad. | Sleight Hand | Appraise | Forgery |
 | **Guard** | Sense Motive | Knowledge Law | Ride | Intimidate |
 | **Guide** | Myths/Legends | Dungeon | Nature | Geography |
+| **Herald** | Local Trad. | Heraldry | Languages | Diplomacy |
+| **Herbalist** | Myths/Legends | Geography | Nature | Herbalism |
+| **Hunter** | Stealth | Track | Survival | Nature |
 | **Innkeeper** | First aid | Appraise | Sense Motive | Diplomacy |
-| **Merchant** | Languages | Local Trad. | Deceive | Appraise |
+| **Librarian** | Nature/Geography | Local trad. | Religion/Arcana | History |
+| **Lumberjack** | Use Rope | Track | Nature | Survival |
+| **Medicine man** | Myths/Legends | Nature | Herbalism | First aid |
 | **Mercenary** | Sense Motive | Acrobatics | Intimidate | Athletics |
+| **Merchant** | Languages | Local Trad. | Deceive | Appraise |
 | **Miner** | Use rope | First aid | Appraise | Dungeon |
 | **Monk** | Perform | First Aid | Nature | Religion |
-| **Goldsmith** | Local trad. | Sleight Hand | Appraise | Forgery |
-| **Fisherman** | Use rope | Swim | Survival | Nature |
-| **Scribe** | Local Trad. | Forgery | Myths/Legends | Languages |
-| **Broker** | Perform | Local trad. | Sense Motive | Diplomacy |
-| **Soldier** | Swim | Handle animals | Athletics | Ride |
+| **Nomad** | Nature | Herbalism | Handle Animals | Survival |
+| **Peasant** | Use Rope | Herbalism | Handle Animals | Nature |
 | **Performer** | Sense motive | Languages | Acrobatics | Perform |
-| **Medicine man** | Myths/Legends | Nature | Herbalism | First aid |
+| **Pettifogger** | Appraise | Deceive | Sense Motive | Diplomacy |
+| **Pickpocket** | Disable Dev. | Escape Artist | Stealth | Sleight of Hand |
+| **Ranger** | Myths/Legends | Herbalism | Ride | Nature |
+| **Scribe** | Local Trad. | Forgery | Myths/Legends | Languages |
+| **Soldier** | Swim | Handle animals | Athletics | Ride |
 
 > Although undoubtedly the desire to know is natural to all men, the willingness to learn is not for everyone...(Richard de Bury)
 
@@ -2570,7 +2570,7 @@ Grant a bonus or penalty ($\pm 1-2$) if not indicated otherwise) whenever the pl
 | **Mod**. | *Situation* | *Situation* |
 | | Fatigued (1), Dim Light | Fatigued (1) |
 | | Fatigued (2), Entangled | Fatigued (2), Grappled, Entangled, Surprised |
-| | Fatigued (3), Prone, Long Weapon at short distance, non-lethal attack with lethal weapon | Fatigued (3), Prone, Kneeling, Sitting, Restricted, Stunned, Climbing a wall, Restrained |
+| | Fatigued (4), Prone, Long Weapon at short distance, non-lethal attack with lethal weapon | Fatigued (4), Prone, Kneeling, Sitting, Restricted, Stunned, Climbing a wall, Restrained |
 | **-1d6** | Restricted, Frightened, Ranged Weapon against opponent in melee, Unfamiliar Weapon, Invisible but Detected target, Climbing a wall, Restrained | |
 | **+2** | Flanking, Elevated Position, Attacking from behind | Light Cover |
 | **+4** |  | Medium Cover |
@@ -4008,7 +4008,7 @@ The **third time** you take this Feat, you increase the die size for rolling Hit
 
 The bonuses are cumulative and retroactive to previous levels, except for the increase in the die for determining HP.
 
-The **fourth time** you take this Feat, you increase by one size (S > M > L).
+The **fourth time**, requisite Constitution 3, you take this Feat, you increase by one size (S > M > L).
 
 ## Iaijutsu
 - **Requirement**:: Weapon Proficiency 2
@@ -5678,9 +5678,8 @@ A caster must have a free hand to access these components, but it can be the sam
 If you want a more *fantastic* management of components and less tied to traditions, you can implement this set of modifications.
 
 - No spell needs components
-- All spells require a Magic Check to be cast and ignore any Magic Critical Success
-- It is possible to add components to the spell as an offering to the Patron who oversees the list to obtain advantages and be able to not perform the Magic Check. If the Magic Check is performed, Magic Critical Successes or Failures are also considered
-- Depending on the *preciousness* and *history* of the offered object, at the Narrator's discretion, the spell can acquire aspects or modifications
+- It is possible to add components to the spell as an offering to the Patron who oversees the list to obtain advantages in Magic Check
+- Depending on the *preciousness* and *history* of the offered object, at the Narrator's discretion, the Magic Check can acquire  $\pm2d6$\ bonus.
 
 For a more immediate management of components, you can replace them with a *cost* of 1 Maximum Hit Point per Spell Level. In case of a Magic Critical Success in the Magic Check, these Hit Points are not lost.
 
@@ -5736,7 +5735,7 @@ In the case of instantaneous spells, the effects act individually if they occur 
 
 This modifier is called the **ability modifier for spells**.
 - When the character assigns the first point of Magic Proficiency, they **know** (are present) in their Spellbook a number of Cantrips equal to their ability modifier for spells +2 (with a minimum of 4 Cantrips) and a number of first-level spells equal to the same modifier, with a minimum of 4.
-- When the character assigns the first point of Magic Proficiency, they **learn** 2 spells present in their Spellbook + a number of Cantrips (level 0 spells) equal to their ability modifier for spells, with a minimum of 4.
+- The character **learn** per day a number of spell equale to Magic Proficiency + their ability modifier for spells.
 - When the character assigns Magic Proficiency points beyond the first, they **learn** 1 new spell that is available in their Spellbook and is within the maximum castable level, or 2 cantrips (be careful about Magic Adept).
 - The number of spells that can be cast daily depends on the caster's capacity. See **Table Magic Points and Magic Proficiency**. A spell costs Magic Points equal to its level.
 - A Follower adds +1d6 to Magic Checks for spells from lists favored by their Patron. Your spells can use one of the energy forms preferred by your Patron.
@@ -5841,14 +5840,16 @@ Magic Points are all recovered with 8 hours of rest.
 
 **Table: Magic Proficiency (MP) and Magic Points (MP)**
 
-| **MP** | **MP** | **MP** | **MP** | **MP** | **MP** |
-| 1 | 2 | 8 | 27 | 15 | 58 |
-| 2 | 4 | 9 | 36 | 16 | 62 |
-| 3 | 8 | 10 | 41 | 17 | 71 |
-| 4 | 10 | 11 | 43 | 18 | 76 |
-| 5 | 16 | 12 | 47 | 19 | 82 |
-| 6 | 19 | 13 | 50 | 20 | 89 |
-| 7 | 23 | 14 | 54 | 20+ | prev.+ 4 |
+| **M Prov** | **MP** | **M Prov** | **MP** | **M Prov** | **MP** |
+| 1 | 4 | 8 | 28 | 15 | 53 |
+| 2 | 7 | 9 | 32 | 16 | 56 |
+| 3 | 11 | 10 | 35 | 17 | 60 |
+| 4 | 14 | 11 | 39 | 18 | 63 |
+| 5 | 18 | 12 | 42 | 19 | 67 |
+| 6 | 21 | 13 | 46 | 20 | 70 |
+| 7 | 25 | 14 | 49 | 20+ | prev.+ 4 |
+
+Magic Point = (Magic Proficiency × 3) + (Magic Proficiency / 2, rounded up) + spell attribute modifier.
 
 ### Spells as Rituals
 
@@ -5871,14 +5872,13 @@ The casting time of a spell empowered in this manner increases by 1 Action.
 
 E.g., Haste, I want it to have 2 magic criticals, I pay 3 Magic Points to cast it, plus 3 for the first Magic Critical Success plus 4 for the second Magic Critical Success, and possibly 5 for a third Magic Critical Success. All Magic Points used are always paid regardless of the result of the Magic Check.
 
-You cannot spend more than half of your current Magic Points to empower a spell.
+You cannot spend more than half of your current Magic Points to empower a spell, you cannot achive more Auto Magic success then the ability modifier for spells.
 
 ### Optional - The true cost of Magic
 
-The magic system can become unbalanced by always abusing the same spells. To limit this, three approaches are proposed, to be established in the Zero Session:
+The magic system can become unbalanced by always abusing the same spells. To limit this, two approaches are proposed, to be established in the Zero Session:
 
 - The Magic Point cost of the spell increases by the cost itself each time it is recast (*suggested method*)
-- The Magic Point cost of a spell is equal to the Level +1 if it is of the maximum castable level
 - A spellcaster can cast the same spell only once per day
 
 ### The Spellbook
@@ -5917,10 +5917,6 @@ The character who wants to cast spells must review the ancient formulas in their
 If the spellcaster has not reviewed the spells after having rested at least 6 hours, they must pass a Magic Check for each spell formulated until they have reviewed.
 
 The spellcaster can also study spells from multiple Spellbooks..
-
-### Changing Spells
-
-Every morning when reviewing spells, the spellcaster can replace a number of learned spells, equal to 1 + the number of times they have taken Magic Adept, with known spells present in their Spellbook(s) and within the maximum castable level.
 
 ### Attack Roll with Magic
 

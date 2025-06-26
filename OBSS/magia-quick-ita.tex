@@ -1,0 +1,301 @@
+\documentclass[10pt,a4paper,landscape]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[italian]{babel}
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\usepackage{enumitem}
+
+\geometry{margin=1cm}
+\setlength{\columnsep}{0.5cm}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+
+% Colori per le sezioni
+\definecolor{headercolor}{RGB}{51,102,153}
+\definecolor{criticalcolor}{RGB}{204,51,51}
+\definecolor{successcolor}{RGB}{51,153,51}
+
+\begin{document}
+	
+	\begin{center}
+		{\Huge\textbf{OBSS - Quick Reference Magia}}
+	\end{center}
+	
+	\begin{multicols}{3}
+		
+		\tcbset{colback=blue!5!white,colframe=headercolor,fonttitle=\bfseries}
+		
+		\begin{tcolorbox}[title=SETUP INIZIALE]
+			\textbf{Al 1\textordmasculine\ punto CM:}
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Scegli modificatore: INT o caratteristica Patrono
+				\item \textbf{Conosciuti}: Trucchetti = mod+2 (min 4), Inc.1\textordmasculine\ = mod (min 4)
+				\item \textbf{Appresi/giorno}: CM + mod caratteristica
+			\end{itemize}
+			
+			\textbf{Punti Magia}: Vedi tabella + modificatore caratteristica
+			
+			\textbf{Studio quotidiano}: 3 min $\times$ CM
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=LANCIO INCANTESIMI]
+			\textbf{Tempo}: Maggioranza 2 Azioni, alcuni 1 Azione/Reazione
+			
+			\textbf{Costo}: Livello incantesimo = Punti Magia
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Trucchetti: 0 PM (serve 1 PM residuo)
+				\item Stesso round: solo 1 incantesimo + trucchetti
+			\end{itemize}
+			
+			\textbf{Componenti}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item \textbf{V}: Verbale (parlare)
+				\item \textbf{S}: Somatica (mano libera)
+				\item \textbf{M}: Materiale (componenti specifici)
+			\end{itemize}
+			
+			\textbf{Opzionale}: 1 PF Massimo per livello incantesimo
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=MASSIMO LIVELLO INCANTESIMI]
+			\textbf{Formula}: (CM + Adepto Magia) / 2 (arrot. eccesso)
+			
+			\textbf{Limite}: min[(CM+Adepto)/2, (mod caratteristica $\times$ 2)+1]
+			
+			\textbf{Universale}: max livello = volte Adepto (min 1)
+			
+			\textbf{Esempi}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item CM 8, Adepto 4, mod. 3 $\rightarrow$ min[6,7] = \textbf{6\textordmasculine\ liv}
+				\item CM 16, Adepto 1, mod. 3 $\rightarrow$ min[9,7] = \textbf{7\textordmasculine\ liv}
+			\end{itemize}
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=PROVA DI MAGIA,colback=criticalcolor!10!white]
+			\textbf{Quando}: Distratto, nascondere, armatura, sanguinante, impedito
+			
+			\textbf{Dadi}: 3d6 + 1d6 ogni 2 CM (arrot. eccesso)
+			
+			\textbf{DC}: 10 + Livello $\times$ 2 + penalità
+			
+			\textbf{Ignorare dadi}: 1 ogni 2 volte Adepto preso
+			
+			\textbf{+4 DC per ogni critico subito nel round}
+			
+			\textcolor{successcolor}{\textbf{Successo Critico}}: 3 volte 6 oppure margine $\geq$ +8
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Costo incantesimo -1 (min 1)
+			\end{itemize}
+			
+			\textcolor{criticalcolor}{\textbf{Fallimento Critico}}: 3 volte 1 oppure margine $\leq$ -8
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Tira 3d6-penalità, consulta tabella
+			\end{itemize}
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=POTENZIARE PROVE MAGIA]
+			\textbf{Prima del tiro}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item +1d6 per ogni costo incantesimo pagato extra (max 3$\times$)
+			\end{itemize}
+			
+			\textbf{Dopo il tiro (Reazione)}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Ignora 1 dado per ogni 2$\times$ costo pagato (max 6$\times$)
+			\end{itemize}
+			
+			\textbf{Successo Critico Auto}: Paga 2$\times$ costo = 1 critico auto
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Critici extra: costo +1 ciascuno
+				\item Max metà PM attuali
+				\item Max critici = mod caratteristica
+				\item Tempo lancio +1 Azione
+			\end{itemize}
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=TIRO PER COLPIRE INCANTESIMI]
+			\textbf{Formula}: 3d6 + CM + mod caratteristica + vari
+			
+			\textbf{Tocco}: +1d6 al tiro
+			
+			\textbf{Multiattacco}: Cumula penalità con armi (-5, -10, ecc.)
+			
+			\textbf{Area}: Non serve Tiro per Colpire (salvo mira precisa)
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=TIRI SALVEZZA INCANTESIMI]
+			\textbf{DC}: 10 + CM + mod caratteristica + Adepto + critici magici
+			
+			\textcolor{successcolor}{\textbf{Successo Critico TS}}: 3 volte 6 oppure margine $\geq$ 8
+			
+			\textcolor{criticalcolor}{\textbf{Fallimento Critico TS}}: 3 volte 1 oppure margine $\leq$ -8
+			
+			\textbf{Mostri DC}: 10 + (2$\times$livello inc.) + mod
+			
+			\textbf{Contrastare}: 3d6 + CM + mod + Adepto + critici vs DC effetto
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=CONCENTRAZIONE]
+			\textbf{Regole Base}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item 1 Azione/round per mantenere
+				\item Nuovo incantesimo concentrazione = perde precedente
+				\item Interrompere = Azione Immediata
+			\end{itemize}
+			
+			\textbf{Se colpito}: Prova Magia vs DC incantesimo + 1 successo critico per critico subito
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Serve almeno 1 Successo Critico Magico
+			\end{itemize}
+			
+			\textbf{Concentrazioni multiple}: 1 ogni 6 CM
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Se fallisci 1, perdi tutte
+			\end{itemize}
+			
+			\textbf{Durante concentrazione}: Solo trucchetti, altri con Prova Magia
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=ARMATURE E MAGIA]
+			\textbf{Penalità Prova Magia}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Leggera: -2
+				\item Media: -4  
+				\item Pesante: -8
+				\item Scudi: come armature
+			\end{itemize}
+			
+			\textbf{Trucchetti}: Nessuna penalità
+			
+			\textbf{Opzionale}: Tutti incantesimi diventano "a tocco"
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=GESTIONE PUNTI MAGIA]
+			\textbf{Recupero}: 8 ore riposo = tutti i PM
+			
+			\textbf{A 0 PF}: Perdi metà PM (min 10), concentrazioni interrotte
+			
+			\textbf{Sacrificio Magico}: -4 PF attuali e massimi = +1 PM
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Max metà PF attuali, Azione Immediata
+			\end{itemize}
+			
+			\textbf{Opzionale - Costo crescente}: Rilancio = +costo base
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=ALTERAZIONI MAGIA]
+			\textbf{Magia eterea}: +3 PM = effetto su incorporei
+			
+			\textbf{Magia pietosa}: +3 PM, +1 Azione = danni temporanei
+			
+			\textbf{Magia mirata}: +1 Azione, +2 PM per creatura esclusa (max Adepto)
+			
+			\textbf{Magia lontana}: +1 PM +1 Azione = +9m gittata
+			
+			\textbf{Tempo extra}: +1 Azione = -1 PM (min 1)
+			
+			\textbf{Circolo Potere}: Devoti stesso Patrono, metà PM ciascuno
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Ogni 2 successi = 1 critico magico (max 7)
+				\item Tempo minimo 1 Turno, CM 5 richiesta
+			\end{itemize}
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=IMPEDIMENTI]
+			\textbf{Non può gesticolare}: Costo $\times$ 3, serve Prova Magia
+			
+			\textbf{Non può parlare}: Costo $\times$ 3 aggiuntivo
+			
+			\textbf{Combinato}: Costo $\times$ 9, Prova Magia obbligatoria
+			
+			\textbf{Componenti materiali}: Devono essere disponibili entro 30cm
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=CONSERVARE MAGIA]
+			\textbf{Setup}: Lancia + 1 Azione concentrazione + 1 PM extra
+			
+			\textbf{Durata}: mod caratteristica + Adepto (round)
+			
+			\textbf{Mantenimento}: 1 PM/round + concentrazione
+			
+			\textbf{Rilascio}: 1 Azione, tira iniziativa
+			
+			\textbf{Limite}: Solo trucchetti mentre conservi
+		\end{tcolorbox}
+		
+	\end{multicols}
+	
+	\begin{multicols}{2}
+		
+		\begin{tcolorbox}[title=TABELLA PUNTI MAGIA AGGIORNATA]
+			\textbf{Formula}: PM = (CM $\times$ 3) + (CM / 2 arrot. eccesso) + Mod
+			
+			\begin{tabular}{cc|cc|cc}
+				\textbf{CM} & \textbf{PM} & \textbf{CM} & \textbf{PM} & \textbf{CM} & \textbf{PM} \\
+				\midrule
+				1 & 4 & 8 & 28 & 15 & 53 \\
+				2 & 7 & 9 & 32 & 16 & 56 \\
+				3 & 11 & 10 & 35 & 17 & 60 \\
+				4 & 14 & 11 & 39 & 18 & 63 \\
+				5 & 18 & 12 & 42 & 19 & 67 \\
+				6 & 21 & 13 & 46 & 20 & 70 \\
+				7 & 25 & 14 & 49 & 20+ & prec.+3 \\
+			\end{tabular}
+			
+			\textbf{Bonus}: +modificatore caratteristica per incantesimi
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=LISTE MAGIA PRIVILEGIATE]
+			\textbf{Seguace}: +1d6 Prove Magia liste Patrono
+			
+			\textbf{Devoto}: +1d6 Prove Magia + ignora 1 dado
+			
+			\textbf{Forme energetiche}: Incantesimi usano energia preferita Patrono
+			
+			\textbf{Liste}: Abiurazione, Acqua, Aria, Ammaliamento, Animali/Piante, Cura, Divinazione, Evocazione, Fuoco, Illusione, Invocazione, Necromanzia, Terra, Trasmutazione, Universale
+			
+			\medskip
+			
+			\textbf{Opzionale - Componenti come Offerta}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Componenti = $\pm$2d6 alla Prova Magia
+				\item Preziosità/storia oggetto modificano bonus
+			\end{itemize}
+		\end{tcolorbox}
+		
+	\end{multicols}
+	
+	\begin{tcolorbox}[title=RITUALI E REGOLE SPECIALI]
+		\textbf{Incantesimi come Rituali}: 
+		\begin{itemize}[leftmargin=*,noitemsep]
+			\item Incantesimi $\leq$ 3\textordmasculine\ livello nel Tomo
+			\item Tempo: 1 ora per PM di costo
+			\item Costo: 0 PM, ma serve Prova Magia
+		\end{itemize}
+		
+		\textbf{Creature Evocate}:
+		\begin{itemize}[leftmargin=*,noitemsep]
+			\item Agiscono nel tuo round (2 Azioni)
+			\item Cambio ordini: 1 Azione
+			\item Default: difesa e contrattacco
+		\end{itemize}
+		
+		\textbf{Energie Speciali}:
+		\begin{itemize}[leftmargin=*,noitemsep]
+			\item \textbf{Luce}: metà fuoco + metà energia positiva
+			\item \textbf{Vuoto}: metà freddo + metà energia negativa
+			\item Energia positiva curativa: cura viventi, danneggia non morti
+		\end{itemize}
+		
+		\textbf{Aree di Effetto}: Cilindro, Cono, Cubo, Linea, Sfera - punto origine sempre valido
+		
+		\textbf{Rarità Incantesimi}: 3d6 - Comune (3-14), Non Comune (15), Raro (16), Molto Raro (17), Leggendario (18)
+	\end{tcolorbox}
+	
+\end{document}

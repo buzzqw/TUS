@@ -1,0 +1,489 @@
+\documentclass[10pt,a4paper,landscape]{article}
+\usepackage[margin=0.5cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[italian]{babel}
+\usepackage{multicol}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{positioning,shapes}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+
+% Definizione colori
+\definecolor{darkblue}{RGB}{44,62,80}
+\definecolor{orange}{RGB}{243,156,18}
+\definecolor{red}{RGB}{231,76,60}
+\definecolor{blue}{RGB}{52,152,219}
+\definecolor{gray}{RGB}{149,165,166}
+
+% Configurazione tcolorbox
+\tcbuselibrary{skins,breakable}
+
+% Stile per le sezioni principali
+\newtcolorbox{mainsection}[1]{
+	enhanced,
+	colback=darkblue!10,
+	colframe=red,
+	fonttitle=\bfseries\small,
+	title=#1,
+	boxrule=1pt,
+	left=2pt,
+	right=2pt,
+	top=2pt,
+	bottom=2pt
+}
+
+% Stile per le formule
+\newtcolorbox{formula}{
+	enhanced,
+	colback=red!20,
+	colframe=red,
+	boxrule=1pt,
+	left=3pt,
+	right=3pt,
+	top=3pt,
+	bottom=3pt
+}
+
+% Comando per testo evidenziato
+\newcommand{\highlight}[1]{\textcolor{orange}{\textbf{#1}}}
+\newcommand{\critical}[1]{\textcolor{red}{\textbf{#1}}}
+\newcommand{\info}[1]{\textcolor{blue}{\textbf{#1}}}
+
+% Configurazione pagina
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{\Large\textbf{\textcolor{red}{🗡️ SCHEDA RIASSUNTIVA COMBATTIMENTO - OBSS 🗡️}}}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{red}\leaders\hrule height \headrulewidth\hfill}}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+\setlength{\columnsep}{8pt}
+
+\begin{document}
+	
+	\begin{multicols}{4}
+		
+		% SEQUENZA DI COMBATTIMENTO
+		\begin{mainsection}{📋 SEQUENZA COMBATTIMENTO}
+			\begin{center}
+				\begin{tikzpicture}[node distance=1.3cm, auto]
+					\node[draw, rectangle, fill=red!20, text width=5cm, text centered, font=\normalsize] (init) {1. Iniziativa\\3d6+Des/Int};
+					\node[draw, rectangle, fill=orange!20, text width=5cm, text centered, font=\normalsize, below of=init] (decl) {2. Dichiarazione\\Dal più veloce};
+					\node[draw, rectangle, fill=blue!20, text width=5cm, text centered, font=\normalsize, below of=decl] (res) {3. Risoluzione\\Azioni};
+					\node[draw, rectangle, fill=gray!20, text width=5cm, text centered, font=\normalsize, below of=res] (next) {4. Round\\Successivo};
+					
+					\draw[->] (init) -- (decl);
+					\draw[->] (decl) -- (res);
+					\draw[->] (res) -- (next);
+				\end{tikzpicture}
+			\end{center}
+			
+			\textbf{Iniziativa Critica:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item Se +8: +1 Reazione/Immediata
+				\item Se +16: +1 Azione totale
+			\end{itemize}
+		\end{mainsection}
+		
+		% AZIONI PER ROUND
+		\begin{mainsection}{⚡ AZIONI PER ROUND}
+			\begin{formula}
+				\textbf{Disponibili ogni round:}\\
+				• 3 Azioni Normali\\
+				• 1 Azione Immediata\\
+				• 1 Azione di Reazione\\
+				• Azioni Gratuite illimitate
+			\end{formula}
+			
+			\textbf{Ordine Azioni:} Qualsiasi, logicamente coerente
+			
+			\textbf{Interruzioni:} Solo Reazioni e Immediate possono interrompere
+		\end{mainsection}
+		
+		% TIRO PER COLPIRE
+		\begin{mainsection}{🎯 TIRO PER COLPIRE}
+			\begin{formula}
+				\textbf{Mischia:}\\
+				3d6 + CA + FOR + Lista + Abilità + Magia + Circostanze
+			\end{formula}
+			
+			\begin{formula}
+				\textbf{Distanza:}\\
+				3d6 + CA + DES + Lista + Abilità + Magia + Circostanze
+			\end{formula}
+			
+			\textbf{Golden Rules:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item \highlight{6 = Esplode} (tira ancora)
+				\item \critical{1 = Vale 0}
+				\item \highlight{Affidarsi alla sorte:} -4 per +1d6
+				\item \critical{3 volte 1 = Mancato automatico}
+				\item \highlight{3 volte 6 = Colpisce sempre}
+			\end{itemize}
+		\end{mainsection}
+		
+		% DIFESA
+		\begin{mainsection}{🛡️ DIFESA}
+			\begin{formula}
+				10 + DES + Scudo + Armatura + Magia + Abilità + Circostanze
+			\end{formula}
+			
+			\begin{tabular}{@{}ll@{}}
+				\toprule
+				\textbf{Situazione} & \textbf{Modifica} \\
+				\midrule
+				Sorpreso & -2 Difesa \\
+				Prono & -4 Difesa \\
+				Affaticato (1/2/3) & -1/-2/-4 \\
+				Afferrato & -2 Difesa \\
+				Intralciato & -2 Difesa \\
+				Bloccato & -4 Difesa \\
+				Stordito & -4 Difesa \\
+				Copertura L/M/C & +2/+4/+8 \\
+				\bottomrule
+			\end{tabular}
+		\end{mainsection}
+		
+		\columnbreak
+		
+		% DANNI E CRITICI
+		\begin{mainsection}{💥 DANNI E CRITICI}
+			\begin{formula}
+				\textbf{Danno Base:}\\
+				Dado Arma + FOR + Lista + Abilità + Magia
+			\end{formula}
+			
+			\textbf{Tiro Critico:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item \critical{Ogni +8 oltre Difesa} = +1 Critico
+				\item Tira dado arma aggiuntivo (solo dado base)
+				\item Non si cumula con esplosione danno
+			\end{itemize}
+			
+			\textbf{Esplosione del Danno:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item Valore massimo dado: Ritira e somma
+				\item Non esplode su: Critici, dadi <=d6
+				\item EDX: Esplode su X o più
+				\item Non esplode ricorsivamente
+			\end{itemize}
+			
+			\textbf{Danno Minimo:} Sempre almeno 1 (dopo riduzioni)
+		\end{mainsection}
+		
+		% ATTACCHI MULTIPLI
+		\begin{mainsection}{⚔️ ATTACCHI MULTIPLI}
+			\begin{tabular}{@{}cc@{}}
+				\toprule
+				\textbf{Attacco} & \textbf{Penalità} \\
+				\midrule
+				1 & +0 \\
+				2 & -5 \\
+				3 & -10 \\
+				4 & -15 \\
+				\bottomrule
+			\end{tabular}
+			
+			\textbf{Due Armi:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item Arma secondaria = Attacco multiplo
+				\item FOR dimezzata su secondaria
+				\item Se non Leggera: \critical{-3 aggiuntivo}
+				\item Può usare per +1 Difesa (no attacchi)
+			\end{itemize}
+			
+			\textbf{Opzione Basso Livello:}\\
+			CA < 6: -4 su entrambi invece di progressione
+		\end{mainsection}
+		
+		% MOVIMENTO
+		\begin{mainsection}{🏃 MOVIMENTO E DISTANZE}
+			\begin{tabular}{@{}p{2cm}p{1cm}p{2.5cm}@{}}
+				\toprule
+				\textbf{Tipo} & \textbf{Costo} & \textbf{Distanza} \\
+				\midrule
+				Normale & 1 Az. & Mov. base \\
+				Scatto & 1 Az. & 2x Mov. \\
+				Terr. Diff. & - & 1/2 Mov. \\
+				Diagonale & - & 1m/quad. \\
+				\bottomrule
+			\end{tabular}
+			
+			\textbf{Penalità Scatto:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item \critical{-1d6 Tiro per Colpire}
+				\item \critical{-4 Difesa} (fino prossimo round)
+				\item Distratto per incantesimi
+			\end{itemize}
+			
+			\textbf{Distanze:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item \textbf{Tocco:} ≤ 1m (senza armi lunghe)
+				\item \textbf{Mischia:} ≤ 1m (2m con armi lunghe)
+				\item \textbf{Portata:} Metà Taglia occupato
+			\end{itemize}
+		\end{mainsection}
+		
+		\columnbreak
+		
+		% AZIONI PRINCIPALI
+		\begin{mainsection}{📜 AZIONI PRINCIPALI}
+			{\small
+				\begin{tabular}{@{}p{2cm}cp{3cm}@{}}
+					\toprule
+					\textbf{Azione} & \textbf{Az.} & \textbf{Note} \\
+					\midrule
+					Attacco singolo & 1 & Un Tiro per Colpire \\
+					Due attacchi & 2 & Secondo a -5 \\
+					Tre+ attacchi & 3 & Penalità cumulative \\
+					\midrule
+					Movimento & 1 & Fino al massimo \\
+					Scatto & 1 & 2x mov., penalità \\
+					Carica & 2 & Mov.+att., +1d6 TC, -4 Dif \\
+					\midrule
+					Incantesimo & 2* & Varia per incantesimo \\
+					Prep. Difesa & 1 & +1 Difesa \\
+					Difesa Totale & 2 & +4 Dif., terr. difficile \\
+					Disingaggiare & 1 & 1m senza provocare \\
+					Colpo Preciso & 2 & Un attacco +1d4 TC \\
+					\midrule
+					Alzarsi Prono & 1 & Acrobatica DC13 (Imm.) \\
+					Estrarre/Rinf. & 1 & Gratis con movimento \\
+					Cercare Zaino & 2 & - \\
+					Prend. Cintura & 1 & - \\
+					\midrule
+					Bere Pozione & I. & Se in mano \\
+					Fare Bere & 2 & Ad un altro \\
+					Salire/Scend. & 2 & Da cavalcatura \\
+					\bottomrule
+				\end{tabular}
+			}
+		\end{mainsection}
+		
+		% MANOVRE SPECIALI
+		\begin{mainsection}{🤺 MANOVRE SPECIALI}
+			\begin{tabular}{@{}p{1.7cm}p{0.8cm}p{3cm}@{}}
+				\toprule
+				\textbf{Manovra} & \textbf{Costo} & \textbf{Prova Opposta} \\
+				\midrule
+				Disarmare & 2 & CA+FOR/DES vs CA+FOR/DES \\
+				Finta & 1 & CA+Ingan. vs CA+Perc \\
+				Spingere & 2 & Atletica vs TS Tempra+FOR \\
+				Afferrare & 2 & Atletica vs TS Tempra+FOR \\
+				Far Cadere & 2 & Atletica vs TS Tempra+FOR \\
+				Attraversare & 1 & Atleti/Acrob. vs TS Rifl \\
+				\bottomrule
+			\end{tabular}
+			
+			\textbf{Modificatori Taglia:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item +1d6 per taglia di vantaggio
+				\item -1d6 per taglia di svantaggio
+			\end{itemize}
+			
+			\textbf{Fallimento Critico:} Subisci l'effetto tu
+		\end{mainsection}
+		
+		% ARMI A DISTANZA
+		\begin{mainsection}{🏹 ARMI A DISTANZA}
+			\begin{tabular}{@{}lc@{}}
+				\toprule
+				\textbf{Incremento} & \textbf{Penalità TC} \\
+				\midrule
+				1° (entro gittata) & +0 \\
+				2° (gittata × 2) & -6 \\
+				3° (gittata × 3) & -12 \\
+				\bottomrule
+			\end{tabular}
+			\medskip
+			\textbf{Sotto Minaccia:} -1d6 TC per armi a distanza
+			
+			\textbf{Contro Bersaglio in Combattimento:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item -2 TC aggiuntivo
+				\item Copertura da altre creature
+				\item Fallimento Critico: colpisci casualmente
+			\end{itemize}
+			
+			\textbf{Forza al Danno:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item Archi compositi: Sì
+				\item Archi normali: No
+				\item Balestre: No
+				\item Armi scagliate: Sì
+			\end{itemize}
+		\end{mainsection}
+		
+		\columnbreak
+		
+		% MODIFICATORI SITUAZIONALI
+		\begin{mainsection}{🎲 MODIFICATORI SITUAZIONALI}
+			\textbf{ATTACCANTE}
+			\begin{tabular}{@{}p{3.5cm}c@{}}
+				\toprule
+				\textbf{Situazione} & \textbf{Mod} \\
+				\midrule
+				Fiancheggia & +2 \\
+				Posizione Sopraelevata & +2 \\
+				Attacco alle Spalle & +2 \\
+				Invisibile & +1d6 \\
+				Carica & +1d6 \\
+				Avversario Indifeso & +1d6 \\
+				Attacco a Tocco & +1d6 \\
+				\midrule
+				Prono & -4 \\
+				Affaticato (1/2/3) & -1/-2/-3 \\
+				Luce Fioca & -1 \\
+				Ristretto & -1d6 \\
+				Spaventato & -1d6 \\
+				Arma Sconosciuta & -1d6 \\
+				Bersaglio Invisibile & -1d6 \\
+				Arma Lunga a <2m & -4 \\
+				Attacco non letale & -4 \\
+				\bottomrule
+			\end{tabular}
+			
+			\vspace{2mm}
+			
+			\textbf{DIFENSORE}
+			\begin{tabular}{@{}p{3.5cm}c@{}}
+				\toprule
+				\textbf{Situazione} & \textbf{Mod} \\
+				\midrule
+				Copertura Leggera & +2 \\
+				Copertura Media & +4 \\
+				Copertura Completa & +8 \\
+				\midrule
+				Sorpreso & -2 \\
+				Prono & -4 \\
+				Afferrato & -2 \\
+				Intralciato & -2 \\
+				Bloccato & -4 \\
+				Stordito & -4 \\
+				Affaticato (1/2/3) & -1/-2/-3 \\
+				\bottomrule
+			\end{tabular}
+		\end{mainsection}
+		
+		% CONDIZIONI E STATI
+		\begin{mainsection}{😵 CONDIZIONI COMUNI}
+			\begin{tabular}{@{}p{2.2cm}p{3.4cm}@{}}
+				\toprule
+				\textbf{Condizione} & \textbf{Effetti} \\
+				\midrule
+				Prono & -4 TC e Dif in mischia \\
+				Affaticato & -1/-2/-4 a TC e Dif \\
+				Distratto & Prova Magia penaliz. \\
+				Spaventato & -1d6 alle azioni \\
+				Confuso & Azioni casuali \\
+				Paralizzato & Indifeso, immobile \\
+				Svenuto & Indifeso, incapace \\
+				Morente & PF neg., -1 PF/round \\
+				Accecato & Miss chance 50\% \\
+				Assordato & -4 Iniziativa \\
+				Nauseato & 1 azione max \\
+				Intralciato & -2 TC, Dif, Des \\
+				Afferrato & -2 Dif, Distratto \\
+				Bloccato & -4 Dif, no movimento \\
+				\bottomrule
+			\end{tabular}
+		\end{mainsection}
+		
+		% VITA E MORTE
+		\begin{mainsection}{💀 VITA E MORTE}
+			\begin{formula}
+				\textbf{Stati di Salute:}\\
+				• \highlight{PF > 0}: Normale\\
+				• \highlight{PF = 0}: Svenuto\\
+				• \critical{PF < 0}: Morente (-1 PF/round)\\
+				• \critical{PF <= -(10+COS×2)}: Morto
+			\end{formula}
+			
+			\textbf{Recupero da 0 PF:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item Cura magica = Cura PF
+				\item Pronto Soccorso DC 12 = 1 PF
+				\item Dopo 1h: TS Tempra DC 15 = 1 PF o -1 PF
+			\end{itemize}
+			
+			\textbf{Recupero da Morente:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item Pronto Soccorso DC (12+PF neg.) = 0 PF
+				\item Difficoltà +2 per volta successiva
+				\item Cura magica = 1 PF
+			\end{itemize}
+			
+			\textbf{Recupero Naturale:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item 8h riposo: COSxCA o COSxCM PF
+				\item PF non letali: COS PF/ora
+				\item PF Massimi: 1d4+COS per riposo
+			\end{itemize}
+		\end{mainsection}
+		
+		% REGOLE RAPIDE
+		\begin{mainsection}{⚡ REGOLE RAPIDE}
+			\textbf{Armi Lunghe:} Portata 2m, -4 TC sotto 2m
+			
+			\textbf{Armi Versatili:} DES invece FOR al TC
+			
+			\textbf{Controcarica:} Prepara vs carica (Reazione), poi att. gratuito con -1d6
+			
+			\medskip
+			
+			\textbf{Tempo:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item 1 Round = 10 secondi
+				\item 1 Minuto = 6 round
+				\item 1 Turno = 10 minuti
+			\end{itemize}
+			
+			\textbf{Riattivazione:} Oggetti/Abilità "1/giorno" si ricaricano all'alba
+			
+			\medskip
+			
+			\textbf{Cavalcature:}
+			\begin{itemize}[noitemsep,leftmargin=8pt]
+				\item 2 Azioni, usa la tua iniziativa
+				\item Se colpita: Cavalcare DC 15 o disarcionato
+				\item +2 TC da posizione sopraelevata
+			\end{itemize}
+		\end{mainsection}
+		
+	\end{multicols}
+	
+	% FLOWCHART ATTACCO (parte inferiore)
+	\begin{center}
+		\begin{tcolorbox}[enhanced,colback=gray!10,colframe=red,title=🎯 FLOWCHART RISOLUZIONE ATTACCO,fonttitle=\bfseries]
+			\begin{tikzpicture}[node distance=1.5cm, font=\footnotesize]
+				\node[draw, rectangle, fill=blue!20, text width=2cm, align=center] (start) {Dichiarare\\Attacco};
+				\node[draw, rectangle, fill=orange!20, text width=2cm, align=center, right=of start] (roll) {Tirare\\3d6 + Mod};
+				\node[draw, diamond, fill=yellow!20, text width=2cm, align=center, right=of roll] (compare) {TC $\geq$ Difesa?};
+				\node[draw, rectangle, fill=green!20, text width=2cm, align=center, below right=of compare] (hit) {Colpito!\\Tira Danno};
+				\node[draw, rectangle, fill=red!20, text width=2cm, align=center, above right=of compare] (miss) {Mancato\\Fine};
+				\node[draw, rectangle, fill=green!30, text width=2cm, align=center, right=of hit] (damage) {Applica\\Danno};
+				\node[draw, diamond, fill=orange!30, text width=2cm, align=center, right=of damage] (crit) {Margine\\$\geq$ 8?};
+				\node[draw, rectangle, fill=red!30, text width=2cm, align=center, below right=of crit] (critdmg) {Danno\\Critico!};
+				
+				\draw[->] (start) -- (roll);
+				\draw[->] (roll) -- (compare);
+				\draw[->] (compare) -- node[above] {No} (miss);
+				\draw[->] (compare) -- node[below] {Sì} (hit);
+				\draw[->] (hit) -- (damage);
+				\draw[->] (damage) -- (crit);
+				\draw[->] (crit) -- node[above] {No} ++(2,0) -- ++(0,2) -- (miss);
+				\draw[->] (crit) -- node[below] {Sì} (critdmg);
+				\draw[->] (critdmg) -- ++(2,0) -- ++(0,2) -- ++(0,2) -- ++(-8,0) -- (miss);
+			\end{tikzpicture}
+		\end{tcolorbox}
+	\end{center}
+	
+\end{document}

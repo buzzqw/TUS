@@ -1236,7 +1236,6 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 | --- | --- | --- | --- | --- | --- | --- |
 | **Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |
 | **Accolito** | Occulto | Storia o Geografia | Arcana | Religione |
-| **Agricoltore** | Sopravvivenza | Erboristeria | Gestire Animali | Natura |
 | **Alchimista** | Valutare | Natura | Erboristeria | Arcana |
 | **Allevatore** | Sopravvivenza | Seguire tracce | Gestire animali | Natura |
 | **Allievo mago** | Storia e Geografia | Occulto | Miti e Leggende | Arcana |
@@ -1260,6 +1259,7 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 | **Mercenario** | Percepire Emozioni | Acrobatica | Intimidire | Atletica |
 | **Minatore** | Usare corde | Pronto soccorso | Valutare | Dungeon |
 | **Monaco** | Intrattenere | Pronto Soccorso | Natura | Religione |
+| **Nomade** | Erboristeria | Gestire Animali | Natura | Sopravvivenza |
 | **Orafo** | Tradizioni locali | Mani di fata | Valutare | Falsificare |
 | **Pescatore** | Usare corde | Nuotare | Sopravvivenza | Natura |
 | **Scriba** | Tradizioni Locali | Falsificare | Miti e Leggende | Lingue |
@@ -2575,7 +2575,7 @@ Concedete un bonus o penalità ($\pm 1-2$) se non indicato diversamente) ogni qu
 | **Mod**. | *Situazione* | *Situazione* |
 | | Affaticato (1), Luce fioca | Affaticato (1) |
 | | Affaticato (2), Intralciato | Affaticato (2), Afferrato, Intralciato, Sorpreso |
-| | Affaticato (3), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale | Affaticato (3), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato |
+| | Affaticato (4), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale | Affaticato (4), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato |
 | **-1d6** | Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato | |
 | **+2** | Fiancheggia, Posizione Sopraelevata, Attacca al spalle | Copertura leggera |
 | **+4** |  | Copertura media |
@@ -4418,7 +4418,7 @@ La **terza volta** che prendi questa Abilità aumenti la taglia del dado per tir
 
 I bonus sono cumulativi e retroattivi ai livelli precedenti, tranne che l'aumento del dado per determinare i PF.
 
-La **quarta volta** che prendi questa Abilità aumenti di una taglia (P > M > G).
+La **quarta volta**, requisito Costituzione 3, che prendi questa Abilità aumenti di una taglia (P > M > G).
 
 ## Muro mentale
 - **Requisito**:: Saggezza +1
@@ -5551,9 +5551,8 @@ Per una gestione più immediata dei componenti potete sostituirli con una *spesa
 Se volete una gestione dei componenti più *fantastica* e meno legata alle tradizioni potete implementare questo set di modifiche.
 
 - Nessun incantesimo ha bisogno di componenti
-- Tutti gli incantesimi per essere lanciati richiedono una Prova di Magia ed ignorano ogni Successo Critico Magico
-- E' possibile aggiungere componenti all'incantesimo come offerta al Patrono che sovraintende alla lista per ottenere vantaggi e poter non eseguire la Prova di Magia. Se la Prova di Magia viene eseguita vengono considerati anche Successi o Fallimenti Critici Magici
-- A seconda della *preziosità* e *storia* dell'oggetto offerto, a discrezione del Narratore, l'incantesimo può acquisire aspetti o modifiche
+- E' possibile aggiungere componenti all'incantesimo come offerta al Patrono che sovraintende alla lista per ottenere vantaggi
+- A seconda della *preziosità* e *storia* dell'oggetto offerto, a discrezione del Narratore, la Prova di Magia può prendere $\pm2d6$\ nella Prova di Magia
 
 ### Recuperare da morente
 
@@ -5617,28 +5616,12 @@ In caso di incantesimi istantanei gli effetti agiscono singolarmente se agiscono
 
 Questo modificatore viene chiamato **modificatore di caratteristica per incantesimi**.
 - Il personaggio quando assegna il primo punto di Competenza Magica **conosce** (sono presenti) nel suo Tomo della Magia un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) ed un numero di incantesimi di primo livello pari allo stesso modificatore, con un minimo di 4.
-- Il personaggio quando assegna il primo punto di Competenza Magica **apprende** 2 incantesimi presenti sul suo Tomo di Magia + un numero di Trucchetti (incantesimi di livello 0) pari al modificatore di caratteristica per incantesimi con un minimo di 4.
-- Il personaggio quando assegna i punti di Competenza Magica oltre il primo **apprende** 1 nuovo incantesimo che sia a disposizione nel suo Tomo di Magia e che sia entro il massimo livello lanciabile oppure 2 trucchetti (state attenti che a Adepto della Magia).
+- Il personaggio **apprende** nel giorno un numero di incantesimi presenti sul suo Tomo di Magia pari a Competenza Magica + modificatore di caratteristica per incantesimi.
 - Il numero di incantesimi formulabile al giorno dipende dalla capacità dell'incantatore. Vedi **Tabella Punti magia e Competenza Magica**. Un incantesimo ha un costo in Punti Magia pari al suo livello.
 - Un Seguace aggiunge +1d6 alle Prove di Magia negli incantesimi delle liste privilegiate dal Patrono. I tuoi incantesimi possono usare una delle forme energetiche preferite dal Patrono.
 - Un Devoto aggiunge +1d6 alle Prova di Magia negli incantesimi delle liste privilegiate dal Patrono e può ignorare un dado tirato nella Prova di Magia. I tuoi incantesimi usano una delle forme energetiche preferite dal Patrono.
 - Con il termine **appreso** si intende un incantesimo presente sul Tomo della Magia che si è memorizzato e si può lanciare quando voluto.
 - Con il termine **conosciuto** si intente un incantesimo presente sul Tomo della Magia che però non si è appreso, ovvero non si è memorizzato e non si può lanciare quando voluto.
-
-**Tabella: esempio Incantesimi Conosciuti ed Appresi**
-
-| **Competenza** | **Conosciuti (presenti nel Tomo)** |  | **Appresi (che puoi lanciare)** |
-| --- | --- | --- | --- |
-
-\cline
-
-| **Magica** | **Trucchetti** | **Livello inc. 1+** | **Trucchetti oppure /  \textbf{Livello inc. 1+**} |
-| 1 | mod +2 (minimo 4) | mod (minimo 4) | mod (minimo 4) / 2 |
-| 2 | presenti nel Tomo | presenti nel Tomo | +2 oppure / +1 |
-| 3 | presenti nel Tomo | presenti nel Tomo | +2 oppure / +1 |
-| 4 | presenti nel Tomo | presenti nel Tomo | +2 oppure / +1 |
-
-**mod**: è il modificatore di caratteristica per incantesimi. Ogni volta che prendi l'Abilità Adepto della Magia *apprendi* un incantesimo in più presente nel Tomo di Magia.
 
 ### Massimo livello di incantesimo lanciabile
 
@@ -5729,13 +5712,15 @@ I Punti Magia si recuperano tutti con 8 ore di riposo.
 **Tabella: Competenza Magica (CM) e Punti Magia (PM)**
 
 | **CM** | **PM** | **CM** | **PM** | **CM** | **PM** |
-| 1 | 2 | 8 | 27 | 15 | 58 |
-| 2 | 4 | 9 | 36 | 16 | 62 |
-| 3 | 8 | 10 | 41 | 17 | 71 |
-| 4 | 10 | 11 | 43 | 18 | 76 |
-| 5 | 16 | 12 | 47 | 19 | 82 |
-| 6 | 19 | 13 | 50 | 20 | 89 |
-| 7 | 23 | 14 | 54 | 20+ | prec.+ 4 |
+| 1 | 4 | 8 | 28 | 15 | 53 |
+| 2 | 7 | 9 | 32 | 16 | 56 |
+| 3 | 11 | 10 | 35 | 17 | 60 |
+| 4 | 14 | 11 | 39 | 18 | 63 |
+| 5 | 18 | 12 | 42 | 19 | 67 |
+| 6 | 21 | 13 | 46 | 20 | 70 |
+| 7 | 25 | 14 | 49 | 20+ | prec.+ 3 |
+
+PM = (CM × 3) + (CM ÷ 2 arrotondato per eccesso) + Modificatore Caratteristica
 
 ### Incantesimi come Rituali
 
@@ -5746,13 +5731,13 @@ L'incantatore può lanciare un incantesimo che sia presente sul suo Tomo di Magi
 ### Successo Critico Auto Magico
 
 L'incantatore può decidere di spendere, in aggiunta ai **dei Punti Magia** dell'incantesimo, un uguale ammontare per avere in automatico un **Successo Critico Magico**.
-Ogni volta che voglio applicare un Successo Critico Magico aggiuntivo oltre il primo il costo in Punti Magia aumenta di 1. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia.
+Ogni volta che voglio applicare un Successo Critico Magico aggiuntivo oltre il primo il costo in Punti Magia aumenta di 1. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia. 
 
 Il tempo di lancio di un incantesimo potenziato in questa maniera aumenta di 1 Azione.
 
 Es. Velocità, voglio che faccia 2 critici magici, pago 3 Punti Magia per lanciarla, più 3 per il primo Successo Critico Magico più 4 per il secondo Successo Critico Magico, ed eventualmente 5 per un terzo Successo Critico Magico. Si pagano sempre tutti i Punti Magia usati indipendentemente dal risultato della Prova di Magia.
 
-Non si possono spendere più di metà dei Punti Magia attuali per potenziare un incantesimo.
+Non si possono spendere più di metà dei Punti Magia attuali per potenziare un incantesimo, non si possono fare più Autocritici del modificatore di caratteristica per incantesimo.
 
 >> Scegliere gli Incantesimi
 >>
@@ -5764,11 +5749,10 @@ Dovrai intraprendere perigliose avventure, pagare mercenari, cercare i tomi anti
 
 ### Opzionale - Il vero costo della Magia
 
-Il sistema magico può diventare sbilanciato abusando sempre degli stessi incantesimi. Per limitare questo sono proposti tre approcci, da stabilire nella Sessione Zero:
+Il sistema magico può diventare sbilanciato abusando sempre degli stessi incantesimi. Per limitare questo sono proposti due approcci, da stabilire nella Sessione Zero:
 
 - Il costo in Punti Magia dell'incantesimo aumenta del costo stesso ogni volta che viene rilanciato (*metodo suggerito*)
-- Il costo in Punti Magia di un incantesimo è pari al Livello +1 se questo è del massimo livello lanciabile
-- Un incantatore può lanciare lo stesso incantesimo 1 volta al giorno
+- Un incantatore può lanciare lo stesso incantesimo al massimo 1 volta al giorno
 
 ### Il Tomo della Magia
 
@@ -5800,10 +5784,6 @@ Il personaggio che vuole lanciare magie deve ogni giorno ripassare le antiche fo
 Se l'incantatore non ha ripassato gli incantesimi dopo aver riposato almeno 6 ore deve superare una Prova di Magia per ogni incantesimo formulato finché non avrà ripassato.
 
 L'incantatore può studiare gli incantesimi anche da più Tomi..
-
-### Cambiare gli Incantesimi
-
-Ogni mattina quando ripassa gli incantesimi l'incantatore può sostituire un numero di incantesimi appresi, pari 1 + le volte che ha preso Adepto della Magia, con incantesimi conosciuti presenti nel suo (suoi) Tomo di Magia ed entro il massimo livello lanciabile.
 
 ### Tiro per Colpire con le Magie
 

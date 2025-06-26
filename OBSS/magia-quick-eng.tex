@@ -1,0 +1,301 @@
+\documentclass[10pt,a4paper,landscape]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\usepackage{enumitem}
+
+\geometry{margin=1cm}
+\setlength{\columnsep}{0.5cm}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2pt}
+
+% Colors for sections
+\definecolor{headercolor}{RGB}{51,102,153}
+\definecolor{criticalcolor}{RGB}{204,51,51}
+\definecolor{successcolor}{RGB}{51,153,51}
+
+\begin{document}
+	
+	\begin{center}
+		{\Huge\textbf{OBSS - Quick Reference Magic}}
+	\end{center}
+	
+	\begin{multicols}{3}
+		
+		\tcbset{colback=blue!5!white,colframe=headercolor,fonttitle=\bfseries}
+		
+		\begin{tcolorbox}[title=INITIAL SETUP]
+			\textbf{At 1st Caster Level:}
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Choose modifier: INT or Patron characteristic
+				\item \textbf{Known}: Cantrips = mod+2 (min 4), 1st Level = mod (min 4)
+				\item \textbf{Learned/day}: CL + characteristic modifier
+			\end{itemize}
+			
+			\textbf{Magic Points}: See table + characteristic modifier
+			
+			\textbf{Daily study}: 3 min $\times$ CL
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=CASTING SPELLS]
+			\textbf{Time}: Majority 2 Actions, some 1 Action/Reaction
+			
+			\textbf{Cost}: Spell level = Magic Points
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Cantrips: 0 MP (requires 1 residual MP)
+				\item Same round: only 1 spell + cantrips
+			\end{itemize}
+			
+			\textbf{Components}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item \textbf{V}: Verbal (speaking)
+				\item \textbf{S}: Somatic (free hand)
+				\item \textbf{M}: Material (specific components)
+			\end{itemize}
+			
+			\textbf{Optional}: 1 Max HP per spell level
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=MAXIMUM SPELL LEVEL]
+			\textbf{Formula}: (CL + Magic Adept) / 2 (round up)
+			
+			\textbf{Limit}: min[(CL+Adept)/2, (characteristic mod $\times$ 2)+1]
+			
+			\textbf{Universal}: max level = times Adept taken (min 1)
+			
+			\textbf{Examples}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item CL 8, Adept 4, mod. 3 $\rightarrow$ min[6,7] = \textbf{6th level}
+				\item CL 16, Adept 1, mod. 3 $\rightarrow$ min[9,7] = \textbf{7th level}
+			\end{itemize}
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=MAGIC CHECK,colback=criticalcolor!10!white]
+			\textbf{When}: Distracted, hiding, armor, bleeding, impeded
+			
+			\textbf{Dice}: 3d6 + 1d6 every 2 CL (round up)
+			
+			\textbf{DC}: 10 + Level $\times$ 2 + penalties
+			
+			\textbf{Ignore dice}: 1 every 2 times Adept taken
+			
+			\textbf{+4 DC for each critical hit suffered this round}
+			
+			\textcolor{successcolor}{\textbf{Critical Success}}: 3 times 6 or margin $\geq$ +8
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Spell cost -1 (min 1)
+			\end{itemize}
+			
+			\textcolor{criticalcolor}{\textbf{Critical Failure}}: 3 times 1 or margin $\leq$ -8
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Roll 3d6-penalties, consult table
+			\end{itemize}
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=ENHANCING MAGIC CHECKS]
+			\textbf{Before the roll}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item +1d6 for each extra spell cost paid (max 3$\times$)
+			\end{itemize}
+			
+			\textbf{After the roll (Reaction)}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Ignore 1 die for each 2$\times$ cost paid (max 6$\times$)
+			\end{itemize}
+			
+			\textbf{Auto Critical Success}: Pay 2$\times$ cost = 1 auto critical
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Extra criticals: cost +1 each
+				\item Max half current MP
+				\item Max criticals = characteristic modifier
+				\item Casting time +1 Action
+			\end{itemize}
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=SPELL ATTACK ROLLS]
+			\textbf{Formula}: 3d6 + CL + characteristic mod + various
+			
+			\textbf{Touch}: +1d6 to roll
+			
+			\textbf{Multiattack}: Cumulative penalty with weapons (-5, -10, etc.)
+			
+			\textbf{Area}: No Attack Roll needed (except precise aim)
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=SPELL SAVING THROWS]
+			\textbf{DC}: 10 + CL + characteristic mod + Adept + magic criticals
+			
+			\textcolor{successcolor}{\textbf{Critical Success ST}}: 3 times 6 or margin $\geq$ 8
+			
+			\textcolor{criticalcolor}{\textbf{Critical Failure ST}}: 3 times 1 or margin $\leq$ -8
+			
+			\textbf{Monster DC}: 10 + (2$\times$spell level) + mod
+			
+			\textbf{Counterspell}: 3d6 + CL + mod + Adept + criticals vs DC effect
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=CONCENTRATION]
+			\textbf{Base Rules}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item 1 Action/round to maintain
+				\item New concentration spell = lose previous
+				\item Interrupt = Immediate Action
+			\end{itemize}
+			
+			\textbf{If hit}: Magic Check vs spell DC + 1 critical success per critical suffered
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Requires at least 1 Magic Critical Success
+			\end{itemize}
+			
+			\textbf{Multiple concentrations}: 1 every 6 CL
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item If you fail 1, lose all
+			\end{itemize}
+			
+			\textbf{During concentration}: Only cantrips, others with Magic Check
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=ARMOR AND MAGIC]
+			\textbf{Magic Check Penalties}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Light: -2
+				\item Medium: -4  
+				\item Heavy: -8
+				\item Shields: like armor
+			\end{itemize}
+			
+			\textbf{Cantrips}: No penalty
+			
+			\textbf{Optional}: All spells become "touch"
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=MAGIC POINTS MANAGEMENT]
+			\textbf{Recovery}: 8 hours rest = all MP
+			
+			\textbf{At 0 HP}: Lose half MP (min 10), concentrations interrupted
+			
+			\textbf{Magic Sacrifice}: -4 current and max HP = +1 MP
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Max half current HP, Immediate Action
+			\end{itemize}
+			
+			\textbf{Optional - Increasing cost}: Recast = +base cost
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=MAGIC ALTERATIONS]
+			\textbf{Ethereal magic}: +3 MP = effect on incorporeal
+			
+			\textbf{Merciful magic}: +3 MP, +1 Action = temporary damage
+			
+			\textbf{Selective magic}: +1 Action, +2 MP per excluded creature (max Adept)
+			
+			\textbf{Distant magic}: +1 MP +1 Action = +9m range
+			
+			\textbf{Extra time}: +1 Action = -1 MP (min 1)
+			
+			\textbf{Circle of Power}: Devotees same Patron, half MP each
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Every 2 successes = 1 magic critical (max 7)
+				\item Minimum time 1 Turn, CL 5 required
+			\end{itemize}
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=IMPEDIMENTS]
+			\textbf{Cannot gesture}: Cost $\times$ 3, requires Magic Check
+			
+			\textbf{Cannot speak}: Cost $\times$ 3 additional
+			
+			\textbf{Combined}: Cost $\times$ 9, Magic Check mandatory
+			
+			\textbf{Material components}: Must be available within 30cm
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=HOLDING MAGIC]
+			\textbf{Setup}: Cast + 1 Action concentration + 1 extra MP
+			
+			\textbf{Duration}: characteristic mod + Adept (rounds)
+			
+			\textbf{Maintenance}: 1 MP/round + concentration
+			
+			\textbf{Release}: 1 Action, roll initiative
+			
+			\textbf{Limit}: Only cantrips while holding
+		\end{tcolorbox}
+		
+	\end{multicols}
+	
+	\begin{multicols}{2}
+		
+		\begin{tcolorbox}[title=UPDATED MAGIC POINTS TABLE]
+			\textbf{Formula}: MP = (CL $\times$ 3) + (CL / 2 round up) + Mod
+			
+			\begin{tabular}{cc|cc|cc}
+				\textbf{CL} & \textbf{MP} & \textbf{CL} & \textbf{MP} & \textbf{CL} & \textbf{MP} \\
+				\midrule
+				1 & 4 & 8 & 28 & 15 & 53 \\
+				2 & 7 & 9 & 32 & 16 & 56 \\
+				3 & 11 & 10 & 35 & 17 & 60 \\
+				4 & 14 & 11 & 39 & 18 & 63 \\
+				5 & 18 & 12 & 42 & 19 & 67 \\
+				6 & 21 & 13 & 46 & 20 & 70 \\
+				7 & 25 & 14 & 49 & 20+ & prev.+3 \\
+			\end{tabular}
+			
+			\textbf{Bonus}: +characteristic modifier for spells
+		\end{tcolorbox}
+		
+		\begin{tcolorbox}[title=PRIVILEGED MAGIC LISTS]
+			\textbf{Follower}: +1d6 Magic Checks Patron lists
+			
+			\textbf{Devotee}: +1d6 Magic Checks + ignore 1 die
+			
+			\textbf{Energy forms}: Spells use Patron's preferred energy
+			
+			\textbf{Lists}: Abjuration, Water, Air, Enchantment, Animals/Plants, Healing, Divination, Evocation, Fire, Illusion, Invocation, Necromancy, Earth, Transmutation, Universal
+			
+			\medskip
+			
+			\textbf{Optional - Components as Offering}:
+			\begin{itemize}[leftmargin=*,noitemsep]
+				\item Components = $\pm$2d6 to Magic Check
+				\item Object's preciousness/history modify bonus
+			\end{itemize}
+		\end{tcolorbox}
+		
+	\end{multicols}
+	
+	\begin{tcolorbox}[title=RITUALS AND SPECIAL RULES]
+		\textbf{Spells as Rituals}: 
+		\begin{itemize}[leftmargin=*,noitemsep]
+			\item Spells $\leq$ 3rd level in Tome
+			\item Time: 1 hour per MP cost
+			\item Cost: 0 MP, but requires Magic Check
+		\end{itemize}
+		
+		\textbf{Summoned Creatures}:
+		\begin{itemize}[leftmargin=*,noitemsep]
+			\item Act on your turn (2 Actions)
+			\item Change orders: 1 Action
+			\item Default: defense and counterattack
+		\end{itemize}
+		
+		\textbf{Special Energies}:
+		\begin{itemize}[leftmargin=*,noitemsep]
+			\item \textbf{Light}: half fire + half positive energy
+			\item \textbf{Void}: half cold + half negative energy
+			\item Positive healing energy: heals living, damages undead
+		\end{itemize}
+		
+		\textbf{Areas of Effect}: Cylinder, Cone, Cube, Line, Sphere - origin point always valid
+		
+		\textbf{Spell Rarity}: 3d6 - Common (3-14), Uncommon (15), Rare (16), Very Rare (17), Legendary (18)
+	\end{tcolorbox}
+	
+\end{document}
