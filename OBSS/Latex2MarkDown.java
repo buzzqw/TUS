@@ -207,34 +207,66 @@ public class Latex2MarkDown {
         // Remove mdframed parameters
         content = content.replaceAll("\\[roundcorner=[^\\]]*\\]", "");
         
-        // Handle special box environments with nested structure
-        // enfasi boxes (simple blockquote) - handle multiline content properly
-        Pattern enfasiNestedMultilinePattern = Pattern.compile(
-            "\\\\begin\\{changemargin\\}[^}]*\\{[^}]*\\}\\\\begin\\{enfasi\\}\\{([\\s\\S]*?)\\}\\\\end\\{enfasi\\}\\\\end\\{changemargin\\}",
-            Pattern.DOTALL
-        );
-        Matcher enfasiNestedMultilineMatcher = enfasiNestedMultilinePattern.matcher(content);
-        StringBuffer sb1a = new StringBuffer();
-        while (enfasiNestedMultilineMatcher.find()) {
-            String enfasiContent = enfasiNestedMultilineMatcher.group(1).trim();
-            enfasiNestedMultilineMatcher.appendReplacement(sb1a, Matcher.quoteReplacement("\n> " + enfasiContent + "\n"));
-        }
-        enfasiNestedMultilineMatcher.appendTail(sb1a);
-        content = sb1a.toString();
+        // ============================================
+        // UPDATED SECTION: Handle special box environments with nested structure
+        // ============================================
         
-        // Handle enfasi boxes (simple blockquote) - single line content
-        Pattern enfasiNestedPattern = Pattern.compile(
-            "\\\\begin\\{changemargin\\}[^}]*\\{[^}]*\\}\\\\begin\\{enfasi\\}\\{([^}\\\\]*)\\}\\\\end\\{enfasi\\}\\\\end\\{changemargin\\}",
+        // Handle nested tcolorbox with title parameter and complex content (including nested boxes)
+        Pattern nestedTcolorboxTitleComplexPattern = Pattern.compile(
+            "\\\\begin\\{changemargin\\}\\{[^}]*\\}\\{[^}]*\\}\\\\begin\\{tcolorbox\\}\\[title\\s*=\\s*([^\\]]+)\\]([\\s\\S]*?)\\\\end\\{tcolorbox\\}\\\\end\\{changemargin\\}",
             Pattern.DOTALL
         );
-        Matcher enfasiNestedMatcher = enfasiNestedPattern.matcher(content);
-        StringBuffer sb1 = new StringBuffer();
-        while (enfasiNestedMatcher.find()) {
-            String enfasiContent = enfasiNestedMatcher.group(1).trim();
-            enfasiNestedMatcher.appendReplacement(sb1, Matcher.quoteReplacement("\n> " + enfasiContent + "\n"));
+        Matcher nestedTcolorboxTitleComplexMatcher = nestedTcolorboxTitleComplexPattern.matcher(content);
+        StringBuffer sb_tcolorbox_complex = new StringBuffer();
+        while (nestedTcolorboxTitleComplexMatcher.find()) {
+            String title = nestedTcolorboxTitleComplexMatcher.group(1).trim();
+            String boxContent = nestedTcolorboxTitleComplexMatcher.group(2);
+            
+            // Process the content within this tcolorbox to handle nested enfasi
+            boxContent = processNestedEnfasiInTcolorbox(boxContent);
+            
+            // Clean up the content
+            boxContent = cleanBoxContent(boxContent);
+            
+            nestedTcolorboxTitleComplexMatcher.appendReplacement(sb_tcolorbox_complex, 
+                Matcher.quoteReplacement("\n>> " + title + ": " + boxContent + "\n"));
         }
-        enfasiNestedMatcher.appendTail(sb1);
+        nestedTcolorboxTitleComplexMatcher.appendTail(sb_tcolorbox_complex);
+        content = sb_tcolorbox_complex.toString();
+        
+        // Handle nested enfasi boxes with complex multiline content
+        Pattern enfasiNestedComplexPattern = Pattern.compile(
+            "\\\\begin\\{changemargin\\}\\{[^}]*\\}\\{[^}]*\\}\\\\begin\\{enfasi\\}\\{([\\s\\S]*?)\\}\\s*\\\\end\\{enfasi\\}\\\\end\\{changemargin\\}",
+            Pattern.DOTALL
+        );
+        Matcher enfasiNestedComplexMatcher = enfasiNestedComplexPattern.matcher(content);
+        StringBuffer sb1 = new StringBuffer();
+        while (enfasiNestedComplexMatcher.find()) {
+            String enfasiContent = enfasiNestedComplexMatcher.group(1);
+            enfasiContent = cleanBoxContent(enfasiContent);
+            enfasiNestedComplexMatcher.appendReplacement(sb1, Matcher.quoteReplacement("\n> " + enfasiContent + "\n"));
+        }
+        enfasiNestedComplexMatcher.appendTail(sb1);
         content = sb1.toString();
+        
+        // Handle nested narratore boxes with complex content
+        Pattern narratoreNestedComplexPattern = Pattern.compile(
+            "\\\\begin\\{changemargin\\}\\{[^}]*\\}\\{[^}]*\\}\\\\begin\\{narratore\\}([\\s\\S]*?)\\\\end\\{narratore\\}\\\\end\\{changemargin\\}",
+            Pattern.DOTALL
+        );
+        Matcher narratoreNestedComplexMatcher = narratoreNestedComplexPattern.matcher(content);
+        StringBuffer sb3 = new StringBuffer();
+        while (narratoreNestedComplexMatcher.find()) {
+            String narratoreContent = narratoreNestedComplexMatcher.group(1);
+            narratoreContent = cleanBoxContent(narratoreContent);
+            narratoreNestedComplexMatcher.appendReplacement(sb3, Matcher.quoteReplacement("\n>>> " + narratoreContent + "\n"));
+        }
+        narratoreNestedComplexMatcher.appendTail(sb3);
+        content = sb3.toString();
+        
+        // ============================================
+        // Handle remaining cases (standalone boxes and simple cases)
+        // ============================================
         
         // Handle standalone enfasi with multiline content
         Pattern enfasiStandaloneMultilinePattern = Pattern.compile(
@@ -264,20 +296,6 @@ public class Latex2MarkDown {
         enfasiStandaloneMatcher.appendTail(sb1b);
         content = sb1b.toString();
         
-        // narratore boxes (triple blockquote) - handle both nested and standalone
-        Pattern narratoreNestedPattern = Pattern.compile(
-            "\\\\begin\\{changemargin\\}[^}]*\\{[^}]*\\}\\\\begin\\{narratore\\}([^\\\\]*)\\\\end\\{narratore\\}\\\\end\\{changemargin\\}",
-            Pattern.DOTALL
-        );
-        Matcher narratoreNestedMatcher = narratoreNestedPattern.matcher(content);
-        StringBuffer sb2 = new StringBuffer();
-        while (narratoreNestedMatcher.find()) {
-            String narratoreContent = narratoreNestedMatcher.group(1).trim();
-            narratoreNestedMatcher.appendReplacement(sb2, Matcher.quoteReplacement("\n>>> " + narratoreContent + "\n"));
-        }
-        narratoreNestedMatcher.appendTail(sb2);
-        content = sb2.toString();
-        
         // Handle standalone narratore
         Pattern narratoreStandalonePattern = Pattern.compile(
             "\\\\begin\\{narratore\\}([^\\\\]*)\\\\end\\{narratore\\}",
@@ -301,57 +319,8 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\\\begin\\{(?:multicols|flushleft|flushright|changemargin|itemize|mdframed|textblock\\*)(?:[^}]*)?\\}", "");
         content = content.replaceAll("\\\\end\\{(?:multicols|flushleft|flushright|changemargin|itemize|mdframed|textblock\\*)\\}", "");
         
-        // Handle tcolorbox - nested and standalone versions
-        // First handle nested tcolorbox with title in parameters [title = ...]
-        Pattern nestedTcolorboxTitleParamPattern = Pattern.compile(
-            "\\\\begin\\{changemargin\\}[^}]*\\{[^}]*\\}\\\\begin\\{tcolorbox\\}\\[title\\s*=\\s*([^\\]]+)\\]([\\s\\S]*?)\\\\end\\{tcolorbox\\}\\\\end\\{changemargin\\}",
-            Pattern.DOTALL
-        );
-        Matcher nestedTcolorboxTitleParamMatcher = nestedTcolorboxTitleParamPattern.matcher(content);
-        StringBuffer sb2a = new StringBuffer();
-        while (nestedTcolorboxTitleParamMatcher.find()) {
-            String title = nestedTcolorboxTitleParamMatcher.group(1).trim();
-            String boxContent = nestedTcolorboxTitleParamMatcher.group(2).trim();
-            // FIXED: Remove comments from the content
-            boxContent = boxContent.replaceAll("%[^\\n]*", "").trim();
-            nestedTcolorboxTitleParamMatcher.appendReplacement(sb2a, Matcher.quoteReplacement("\n>> " + title + "\n>>\n>> " + boxContent + "\n"));
-        }
-        nestedTcolorboxTitleParamMatcher.appendTail(sb2a);
-        content = sb2a.toString();
-        
-        // Handle nested tcolorbox without content in braces (content between begin/end)
-        Pattern nestedTcolorboxNoContentPattern = Pattern.compile(
-            "\\\\begin\\{changemargin\\}[^}]*\\{[^}]*\\}\\\\begin\\{tcolorbox\\}(?:\\[[^\\]]*\\])?([\\s\\S]*?)\\\\end\\{tcolorbox\\}\\\\end\\{changemargin\\}",
-            Pattern.DOTALL
-        );
-        Matcher nestedTcolorboxNoContentMatcher = nestedTcolorboxNoContentPattern.matcher(content);
-        StringBuffer sb3b = new StringBuffer();
-        while (nestedTcolorboxNoContentMatcher.find()) {
-            String boxContent = nestedTcolorboxNoContentMatcher.group(1).trim();
-            // FIXED: Remove comments from the content
-            boxContent = boxContent.replaceAll("%[^\\n]*", "").trim();
-            if (!boxContent.isEmpty()) {
-                nestedTcolorboxNoContentMatcher.appendReplacement(sb3b, Matcher.quoteReplacement("\n>> " + boxContent + "\n"));
-            }
-        }
-        nestedTcolorboxNoContentMatcher.appendTail(sb3b);
-        content = sb3b.toString();
-        
-        // Handle nested tcolorbox with content in braces
-        Pattern nestedTcolorboxPattern = Pattern.compile(
-            "\\\\begin\\{changemargin\\}[^}]*\\{[^}]*\\}\\\\begin\\{tcolorbox\\}(?:\\[[^\\]]*\\])?\\{([^}\\\\]*)\\}\\\\end\\{tcolorbox\\}\\\\end\\{changemargin\\}",
-            Pattern.DOTALL
-        );
-        Matcher nestedTcolorboxMatcher = nestedTcolorboxPattern.matcher(content);
-        StringBuffer sb3 = new StringBuffer();
-        while (nestedTcolorboxMatcher.find()) {
-            String boxContent = nestedTcolorboxMatcher.group(1).trim();
-            nestedTcolorboxMatcher.appendReplacement(sb3, Matcher.quoteReplacement("\n>> " + boxContent + "\n"));
-        }
-        nestedTcolorboxMatcher.appendTail(sb3);
-        content = sb3.toString();
-        
-        // Handle standalone tcolorbox with title in parameters
+        // Handle remaining tcolorbox cases - only simple standalone cases not already processed
+        // Handle standalone tcolorbox with title in parameters (not nested in changemargin)
         Pattern standaloneTcolorboxTitleParamPattern = Pattern.compile(
             "\\\\begin\\{tcolorbox\\}\\[title\\s*=\\s*([^\\]]+)\\]([\\s\\S]*?)\\\\end\\{tcolorbox\\}",
             Pattern.DOTALL
@@ -360,15 +329,14 @@ public class Latex2MarkDown {
         StringBuffer sb4a = new StringBuffer();
         while (standaloneTcolorboxTitleParamMatcher.find()) {
             String title = standaloneTcolorboxTitleParamMatcher.group(1).trim();
-            String boxContent = standaloneTcolorboxTitleParamMatcher.group(2).trim();
-            // FIXED: Remove comments from the content
-            boxContent = boxContent.replaceAll("%[^\\n]*", "").trim();
-            standaloneTcolorboxTitleParamMatcher.appendReplacement(sb4a, Matcher.quoteReplacement("\n>> " + title + "\n>>\n>> " + boxContent + "\n"));
+            String boxContent = standaloneTcolorboxTitleParamMatcher.group(2);
+            boxContent = cleanBoxContent(boxContent);
+            standaloneTcolorboxTitleParamMatcher.appendReplacement(sb4a, Matcher.quoteReplacement("\n>> " + title + ": " + boxContent + "\n"));
         }
         standaloneTcolorboxTitleParamMatcher.appendTail(sb4a);
         content = sb4a.toString();
         
-        // Then handle standalone tcolorbox (simple blockquote)
+        // Handle simple standalone tcolorbox (simple blockquote)
         Pattern tcolorboxPattern = Pattern.compile(
             "\\\\begin\\{tcolorbox\\}(?:\\[[^\\]]*\\])?(?:\\{([^}]*)\\})?([\\s\\S]*?)\\\\end\\{tcolorbox\\}",
             Pattern.DOTALL
@@ -377,11 +345,10 @@ public class Latex2MarkDown {
         StringBuffer sb4 = new StringBuffer();
         while (tcolorboxMatcher.find()) {
             String title = tcolorboxMatcher.group(1);
-            String boxContent = tcolorboxMatcher.group(2).trim();
-            // FIXED: Remove comments from the content
-            boxContent = boxContent.replaceAll("%[^\\n]*", "").trim();
+            String boxContent = tcolorboxMatcher.group(2);
+            boxContent = cleanBoxContent(boxContent);
             if (title != null && !title.isEmpty()) {
-                tcolorboxMatcher.appendReplacement(sb4, Matcher.quoteReplacement("\n>> " + title + "\n>>\n>> " + boxContent + "\n"));
+                tcolorboxMatcher.appendReplacement(sb4, Matcher.quoteReplacement("\n>> " + title + ": " + boxContent + "\n"));
             } else {
                 // Simple quote without title
                 tcolorboxMatcher.appendReplacement(sb4, Matcher.quoteReplacement("\n>> " + boxContent + "\n"));
@@ -654,5 +621,62 @@ public class Latex2MarkDown {
         }
         
         return separator.toString();
+    }
+    
+    // Helper method to process nested enfasi boxes within tcolorbox content
+    private static String processNestedEnfasiInTcolorbox(String content) {
+        // Handle nested enfasi within the tcolorbox content
+        Pattern nestedEnfasiPattern = Pattern.compile(
+            "\\\\begin\\{changemargin\\}\\{[^}]*\\}\\{[^}]*\\}\\\\begin\\{enfasi\\}\\{([\\s\\S]*?)\\}\\\\end\\{enfasi\\}\\\\end\\{changemargin\\}",
+            Pattern.DOTALL
+        );
+        Matcher nestedEnfasiMatcher = nestedEnfasiPattern.matcher(content);
+        StringBuffer sb = new StringBuffer();
+        while (nestedEnfasiMatcher.find()) {
+            String enfasiContent = nestedEnfasiMatcher.group(1);
+            enfasiContent = cleanBoxContent(enfasiContent);
+            nestedEnfasiMatcher.appendReplacement(sb, Matcher.quoteReplacement("\n\n> " + enfasiContent + "\n"));
+        }
+        nestedEnfasiMatcher.appendTail(sb);
+        return sb.toString();
+    }
+    
+    // Helper method to clean box content from LaTeX commands
+    private static String cleanBoxContent(String content) {
+        if (content == null) return "";
+        
+        // Handle text formatting first (before cleaning spacing)
+        content = content.replaceAll("\\\\emph\\{([^}]+)\\}", "*$1*");
+        content = content.replaceAll("\\\\textit\\{([^}]+)\\}", "*$1*");
+        content = content.replaceAll("\\\\textbf\\{([^}]+)\\}", "**$1**");
+        
+        // Handle center environment
+        content = content.replaceAll("\\\\begin\\{center\\}([\\s\\S]*?)\\\\end\\{center\\}", "$1");
+        
+        // Remove comments
+        content = content.replaceAll("%[^\\n]*", "");
+        
+        // Handle spacing commands but preserve natural line breaks
+        content = content.replaceAll("\\\\(?:smallskip|medskip|bigskip)\\s*", "");
+        content = content.replaceAll("\\\\vspace\\{[^}]*\\}\\s*", "");
+        
+        // Remove stray braces that might be left over
+        content = content.replaceAll("^\\{", "");  // Remove opening brace at start
+        content = content.replaceAll("\\}$", "");  // Remove closing brace at end
+        content = content.replaceAll("(?<!\\\\)\\{([^}]*)\\}(?!\\})", "$1");  // Remove simple braces around content
+        
+        // Clean up whitespace while preserving line structure
+        content = content.replaceAll("[ \\t]+", " ");  // Multiple spaces/tabs to single space
+        content = content.replaceAll("\\n[ \\t]*\\n", "\n\n");  // Clean empty lines
+        content = content.replaceAll("\\n[ \\t]+", "\n");  // Remove spaces after newlines
+        content = content.replaceAll("[ \\t]+\\n", "\n");  // Remove spaces before newlines
+        
+        // Normalize multiple consecutive newlines to double newlines (paragraph breaks)
+        content = content.replaceAll("\\n{3,}", "\n\n");
+        
+        // Trim leading/trailing whitespace but preserve internal structure
+        content = content.trim();
+        
+        return content;
     }
 }
