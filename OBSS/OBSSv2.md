@@ -229,7 +229,7 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 >>
 >> Box contenente indicazioni e chiarimenti per il Giocatore.
 
->>> Box contenente indicazioni e suggerimenti per il Narratore
+>>> Box contenente indicazioni e suggerimenti per il Narratore.
 ---
 
 # Razze
@@ -3546,9 +3546,9 @@ Scegli un arma in una Lista d'Armi che conosci. Ottieni un +1 a Iniziativa e Tir
 
 Scegli una Lista d'Armi, su queste armi ottieni un +1 al colpire.
 
-L'Abilità può essere presa più volte, con almeno CA 5,9,13,17.
+L'Abilità può essere presa più volte, con almeno CA 5,9,13.
 
-Se prendi **4 volte** questa Abilità sulla stessa Lista d'Armi i bonus al colpire si riducono a +1, invece che +4, ma effettui due Tiri per Colpire per i primi due attacchi del round e scegli il tiro da tenere.
+Se prendi **4 volte** questa Abilità sulla stessa Lista d'Armi i bonus al colpire si riducono a +2, invece che +4, ma effettui due Tiri per Colpire per il primo attacco del round e scegli il tiro da tenere.
 
 ## Attacco Turbinante
 - **Requisito**:: Competenza Armi 12, Intrattenere 3
@@ -4760,9 +4760,7 @@ Le Abilità due e tre sono cumulative.
 - **Tiri Salvezza**:: +2 Volontà
 - **Caratteristica**:: Modificatore di caratteristica per incantesimi o a scelta
 
-Il tuo interesse e connessione con la magia non ha eguali. Puoi conoscere due incantesimi in più (pur rispettando i vincoli di massimo livello copiabile sul Tomo).
-
-L'Abilità può essere presa più volte ed il totale deve essere pari o inferiore a CM/4.
+Il tuo interesse e connessione con la magia non ha eguali. Puoi conoscere 4 incantesimi in più (pur rispettando i vincoli di massimo livello copiabile sul Tomo).
 
 ## Scacciare i non morti
 - **Requisito**:: Somma Tratti comune 2, essere Devoto o Seguace
@@ -4874,7 +4872,7 @@ Mentre esegui una Azione di Movimento puoi ridurre di 1 Azione il tempo di caric
 - **Tiri Salvezza**:: +2 Tempra
 - **Caratteristica**:: Modificatore di caratteristica per incantesimi o a scelta
 
-Scegli un incantesimo che conosci, i Punti Magia spesi per lanciare questo incantesimo diminuiscono di 1.
+Scegli un incantesimo che conosci, i Punti Magia spesi per lanciare questo incantesimo diminuiscono di 1, con un minimo costo di 1.
 
 L'Abilità può essere presa più volte su incantesimi ogni volta diversi.
 
@@ -4958,8 +4956,7 @@ Se nel round esegui almeno un attacco questi hanno una penalità base di -5 e pu
 - **Tiri Salvezza**:: +1 in due Tiri Salvezza a propria scelta
 - **Caratteristica**:: Modificatore di caratteristica per incantesimi o a scelta
 
-Ogni volta che prendi l'Abilità Tutt'uno con la magia devi stabilire a che Caratteristica si collega.
-La tua Caratteristica ha un +1 al valore per determinare gli effetti dell'incantesimo, Punti Magia e livello massimo di incantesimo lanciabile.
+Il tuo modificatore di caratteristica per incantesimi ha un +1 al valore per determinare gli effetti dell'incantesimo, Punti Magia, incantesimi conosciuti e livello massimo di incantesimo lanciabile.
 
 ## Un braccio, un arma
 - **Requisito**:: Competenza Armi 2
@@ -5616,14 +5613,14 @@ In caso di incantesimi istantanei gli effetti agiscono singolarmente se agiscono
 
 Questo modificatore viene chiamato **modificatore di caratteristica per incantesimi**.
 - Il personaggio quando assegna il primo punto di Competenza Magica **conosce** (sono presenti) nel suo Tomo della Magia un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) ed un numero di incantesimi di primo livello pari allo stesso modificatore, con un minimo di 4.
-- Il personaggio **apprende** nel giorno un numero di incantesimi presenti sul suo Tomo di Magia pari a Competenza Magica/2 (minimo 1) + modificatore di caratteristica per incantesimi + Adepto della Magia.
+- Ogni giorno, dopo il riposo, il personaggio **apprende** dal sul suo Tomo di Magia un numero di incantesimi pari a Competenza Magica/2 (minimo 1) + modificatore di caratteristica per incantesimi + Adepto della Magia.
 - Il numero di incantesimi formulabile al giorno dipende dalla capacità dell'incantatore. Vedi **Tabella Punti magia e Competenza Magica**. Un incantesimo ha un costo in Punti Magia pari al suo livello.
 - Un Seguace aggiunge +1d6 alle Prove di Magia negli incantesimi delle liste privilegiate dal Patrono. I tuoi incantesimi possono usare una delle forme energetiche preferite dal Patrono.
 - Un Devoto aggiunge +1d6 alle Prova di Magia negli incantesimi delle liste privilegiate dal Patrono e può ignorare un dado tirato nella Prova di Magia. I tuoi incantesimi usano una delle forme energetiche preferite dal Patrono.
 - Con il termine **appreso** si intende un incantesimo presente sul Tomo della Magia che si è memorizzato e si può lanciare quando voluto.
 - Con il termine **conosciuto** si intente un incantesimo presente sul Tomo della Magia che però non si è appreso, ovvero non si è memorizzato e non si può lanciare quando voluto.
 
-### Massimo livello di incantesimo lanciabile
+## Massimo livello di incantesimo lanciabile
 
 Mentre la Competenza Magica indica lo studio e dedizione alla Magia nella forma più astratta è l'Abilità Adepto della Magia che permette di capire quanto si è *votati* al formulare gli incantesimi.
 
@@ -5633,13 +5630,13 @@ Es. CM=8, Adepto della Magia preso 4 volte, (8+4)/2=6lv. Es. CM=16 e Adepto dell
 Se l'incantatore ha come modificatore di caratteristica per incantesimo 0 non potrà lanciare incantesimi superiori al primo livello (vedi anche Abilità Tutt'uno con la magia, pag. ).
 Se il modificatore è 3 il massimo livello lanciabile sarà il 6lv oppure 7lv nei due casi di esempio.
 
-### Distratto - Problemi nel lancio dell'incantesimo
+## Distratto - Problemi nel lancio dell'incantesimo
 
 Se l'incantatore è **Distratto**, cerca di nascondere il lancio della magia, è impedito, severamente disturbato, è sanguinante, afferrato, è sotto attacco/minacciato mentre cerca di lanciare un incantesimo, **che non sia un Trucchetto**, deve effettuare una **Prova di Magia**.
 
 Per ogni tiro critico o critico magico che si è subito nel round la Prova di Magia viene fatta con +4 di difficoltà aggiuntiva.. Eventuali Fallimenti Critici o Successi Critici vengono presi in considerazione.
 
-### Prova di Magia
+## Prova di Magia
 
 Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni bene ed anzi agisca oltre normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un ***Prova di Magia*** e confidare nelle sue capacità.
 
@@ -5661,7 +5658,7 @@ Fate che la partecipazione e recitazione guidi sempre il personaggio, coinvolgen
 >>
 >> La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio. C'è sempre un certo pericolo... ma cosa è la Magia senza rischi!
 
-### Fallimento Critico nella Prova di Magia
+## Fallimento Critico nella Prova di Magia
 
 Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 oppure tirato veramente basso, tira 3d6 e consulta la seguente tabella. Per ogni Fallimento Critico Magico oltre il primo che si è manifestato nel lancio dell'incantesimo e per ogni Tiro Critico subito, tira un 1d6 in meno, fino a tirare un solo 1d6.
 
@@ -5686,7 +5683,7 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 
 | 17 | Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri |
 | 18 | Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili |
 
-### Modificare la Prova di Magia
+## Modificare la Prova di Magia
 
 **Prima di effettuare** la Prova di Magia l'incantatore può decidere investire ulteriori Punti Magia per migliorare la sua Prova di Magia.
 
@@ -5696,7 +5693,7 @@ Per ogni volta, fino ad un massimo di tre volte, che paga il costo dell'incantes
 
 Un incantatore può anche **volontariamente fallire la Prova di Magia**.
 
-### I Punti Magia
+## I Punti Magia
 
 A seconda del punteggio in Competenza Magica l'incantatore ha a disposizione un certo ammontare di Punti Magia.
 
@@ -5722,13 +5719,13 @@ I Punti Magia si recuperano tutti con 8 ore di riposo.
 
 PM = (CM × 3) + (CM ÷ 2 arrotondato per eccesso) + Modificatore Caratteristica
 
-### Incantesimi come Rituali
+## Incantesimi come Rituali
 
 Specialmente ai primi livelli può essere molto fastidioso non aver appreso un incantesimo pur avendolo a disposizione nel Tomo della Magia.
 
 L'incantatore può lanciare un incantesimo che sia presente sul suo Tomo di Magia e che sia entro il 3 livello ed entro il massimo livello di incantesimo lanciabile, allungandone il tempo di lancio ad 1 ora per costo in Punto Magia. In caso di incantesimo così lanciato non si usano Punti Magia, ma è necessario superare una Prova di Magia al termine della formulazione.
 
-### Successo Critico Auto Magico
+## Successo Critico Auto Magico
 
 L'incantatore può decidere di spendere, in aggiunta ai **dei Punti Magia** dell'incantesimo, un uguale ammontare per avere in automatico un **Successo Critico Magico**.
 Ogni volta che voglio applicare un Successo Critico Magico aggiuntivo oltre il primo il costo in Punti Magia aumenta di 1. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia. 
@@ -5747,14 +5744,14 @@ Ogni incantesimo è alla stregua di un oggetto magico, un vero tesoro da cercare
 
 Dovrai intraprendere perigliose avventure, pagare mercenari, cercare i tomi antichi e svelare i segreti più oscuri e dimenticati per poter imparare nuovi incantesimi.
 
-### Opzionale - Il vero costo della Magia
+## Opzionale - Il vero costo della Magia
 
 Il sistema magico può diventare sbilanciato abusando sempre degli stessi incantesimi. Per limitare questo sono proposti due approcci, da stabilire nella Sessione Zero:
 
 - Il costo in Punti Magia dell'incantesimo aumenta del costo stesso ogni volta che viene rilanciato (*metodo suggerito*)
 - Un incantatore può lanciare lo stesso incantesimo al massimo 1 volta al giorno
 
-### Il Tomo della Magia
+## Il Tomo della Magia
 
 Se i Patroni sono la sorgente della magia è solo l'applicazione di antichi riti e formule che permette di manifestare questa energia grezza in una forma ed espressione che chiamiamo incantesimo.
 
@@ -5777,7 +5774,7 @@ La sorgente di nuovi incantesimi può essere un altro Tomo o pergamena.. insomma
 
 >>> Gli incantesimi diventano oggetti e premi magici a tutti gli effetti. Sfruttate la sete di conoscenza e potere dei personaggi per costruire avventure interessanti che possano ruotare attorno tomi antichi e leggendari incantesimi perduti.
 
-### Studiare gli incantesimi
+## Studiare gli incantesimi
 
 Il personaggio che vuole lanciare magie deve ogni giorno ripassare le antiche formule sul suo Tomo. Questa operazione è piuttosto rapida, impiegando solo 3 minuti per Competenza Magica.
 
@@ -5785,7 +5782,7 @@ Se l'incantatore non ha ripassato gli incantesimi dopo aver riposato almeno 6 or
 
 L'incantatore può studiare gli incantesimi anche da più Tomi..
 
-### Tiro per Colpire con le Magie
+## Tiro per Colpire con le Magie
 
 Diversi incantesimi devono essere scagliati e colpire un avversario per funzionare.
 
@@ -5799,7 +5796,7 @@ Tiro per Colpire con incantesimo o con arma cumulano le penalità dell'attacco m
 
 Quando la magia è ad area non è necessario effettuare un Tiro per Colpire se non per mirare a difficili e minute specificate aree, ovvero si mira in una area ben circoscritta e si vuole evitare di colpire qualcuno con un incantesimo ad area.
 
-### Tiro Salvezza - Resistere all'incantesimo
+## Tiro Salvezza - Resistere all'incantesimo
 
 Il **Tiro Salvezza** in base a quanto richiesto dall'incantesimo ha difficoltà (DC) pari a + **Competenza Magica** + **modificatore caratteristica per incantesimo** + **numero di volte che si è presa l'Abilità Adepto della Magia** +**1 per ogni Successo Critico Magico** nella Prova di Magia.
 
@@ -5822,7 +5819,7 @@ E' anche possibile che nella descrizione dell'incantesimo sia riportato cosa suc
 
 Per i **mostri** o comunque per un lancio di incantesimi dato da abilità magiche innate, se non specificato la **DC del Tiro Salvezza è pari alla 10 + 2 x livello dell'incantesimo + Intelligenza o modificatore di incantesimi indicato**.
 
-### Contrastare gli Incantesimi
+## Contrastare gli Incantesimi
 
 Diversi incantesimi interagiscono con altri effetti annullandoli o modificandoli. Quando è scritto che un incantesimo **contrasta** o è **contrastato** un altro è necessario verificare la DC degli incantesimi o effetti per accertarsi quale effetto domini sull'altro.
 
@@ -5834,7 +5831,7 @@ Il valore di contrasto si **confronta** con la DC dell'effetto magico da contras
 
 Quando per un incantesimo non è fornita la DC da contrastare allora considerate la stessa pari a 12+Livello incantesimo*2.
 
-### Concentrazione
+## Concentrazione
 
 Perdi la concentrazione su di un incantesimo se lanci un altro incantesimo che richieda concentrazione. Non ti puoi concentrare su due incantesimi alla volta. Interrompere la concentrazione costa una Azione Immediata.
 
@@ -5846,7 +5843,7 @@ Ogni 6 punti di Competenza Magica si può mantenere la concentrazione su un inca
 
 Per ogni incantesimo su cui si mantiene la concentrazione si usa 1 Azione a round.
 
-### Conservare la magia
+## Conservare la magia
 
 L'incantatore può lanciare l'incantesimo e trattenerlo nel suo pugno, senza manifestarlo. Per poter trattenere un incantesimo l'incantatore formula la magia e spende subito una Azione per rimanere Concentrato e paga 1 Punto Magia addizionale.
 L'incantesimo può essere trattenuto fino ad 1 round per punteggio di modificatore di caratteristica da incantesimi +1 round per volte che ha preso Adepto della Magia.
@@ -5854,7 +5851,7 @@ L'incantesimo può essere trattenuto fino ad 1 round per punteggio di modificato
 Per trattenere l'incantesimo l'incantatore deve rimanere Concentrato e pagare 1 Punto Magia per round.
 Per lanciare l'incantesimo conservato è sufficiente tirare l'iniziativa ed usare 1 Azione. Non è possibile lanciare ulteriori incantesimi che non siano Trucchetti finché si conserva un incantesimo.
 
-### Regole per le creature evocate
+## Regole per le creature evocate
 
 Queste regole valgono per tutte le creature evocate magicamente.
 
@@ -5864,11 +5861,11 @@ Una creature evocata ha 2 azioni a round, se non vengono specificati ordini al m
 
 La creatura evocata comprende i comandi che gli vengono dati al meglio delle sue capacità mentali. Per cambiare l'ordine si deve usare una Azione.
 
-### Tentare più Magie nello stesso round
+## Tentare più Magie nello stesso round
 
 E' possibile lanciare più magie nel round purché il tempo totale di lancio non superi le Azioni a disposizione e si superi una Prova di Magia al lancio del secondo incantesimo. più incantesimi che richiedano il Tiro per Colpire o attaccare con un arma e lanciare un incantesimo cumulano le penalità del multiattacco.
 
-### Alterare le Magie
+## Alterare le Magie
 
 L'incantatore può modificare gli incantesimi in diversi modi. Queste possibilità aggiungono versatilità all'incantatore ed è opportuno che il personaggio le abbia sempre presenti nelle situazioni più critiche.
 
@@ -5891,7 +5888,7 @@ Le possibilità concesse da Alterare le Magie sono cumulabili tra loro.
 
 **Modifiche lievi**  alla manifestazione dell'incantesimo possono essere concordati con il Narratore per un costo di Punti Magia aggiuntivi o con una Prova di Magia riuscita.
 
-### Tentare Incantesimi con impedimenti 
+## Tentare Incantesimi con impedimenti 
 
 Il lancio di un incantesimo è vincolato a gesti e parole particolari e unici. Quando il personaggio si trova in una situazione in cui non può gesticolare o parlare allora può tentare di lanciare l'incantesimo comunque anche se diventa molto più difficile.
 
@@ -5899,7 +5896,7 @@ I Punti Magia richiesti per il lancio di incantesimi se non può gesticolare ven
 
 Se l'incantesimo ha anche componenti materiali questi devono essere comunque forniti (posti entro 30 cm dall'incantatore) oppure non è possibile lanciare l'incantesimo.
 
-### Definizioni obiettivi degli incantesimi
+## Definizioni obiettivi degli incantesimi
 
 Negli incantesimi sotto elencati troverete spesso i riferimenti alle tipologie di soggetti ed obiettivi influenzabili nonché a diverse tipologie di energia ed elementi.
 
@@ -5911,7 +5908,7 @@ Se una Creatura Naturale ha poteri magici allora si considera anche come Creatur
 
 - **Energia** comprende: Forza, Fuoco, Luce, Suono, Elettricità, Energia Positiva, Energia Negativa, Freddo, Vuoto.
 
-### Danni da Energia, Luce e Vuoto
+## Danni da Energia, Luce e Vuoto
 
 Il danno causato da **Luce** è per metà da fuoco e per metà da energia positiva, ovvero una resistenza al fuoco od all'energia positiva si applica solo su metà del danno causato dall'attacco.
 

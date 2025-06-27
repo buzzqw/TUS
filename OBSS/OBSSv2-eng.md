@@ -4382,8 +4382,7 @@ The **second time**, the bonus to Attack Roll for Spells becomes +1 for each tim
 - **Saving Throws**:: +1 in two Saving Throws of your choice
 - **Ability Score**:: Ability modifier for spells or choice
 
-Each time you take the One with Magic Feat, you must establish which Ability Score it connects to.
-Your Ability Score has a +1 to the value for determining spell effects, Magic Points, and maximum level of castable spell.
+Your modifier spell score has a +1 to the value for determining spell effects, Magic Points, know spell, and maximum level of castable spell.
 
 ## One with the Bow
 
@@ -4731,9 +4730,7 @@ The bonuses are cumulative and retroactive to previous levels.
 - **Saving Throws**:: +2 Will
 - **Ability Score**:: Ability modifier for spells or choice
 
-Your interest in and connection with magic is unparalleled. You can know two additional spells (while respecting the maximum level constraints that can be copied into your Tome).
-
-This Feat can be taken multiple times, and the total must be equal to or less than MP/4.
+Your interest in and connection with magic is unparalleled. You can know 4 additional spells (while respecting the maximum level constraints that can be copied into your Tome).
 
 ## Second Skin
 
@@ -4826,7 +4823,7 @@ You cannot have Familiars. You cannot interact with your Shadow if there are no 
 - **Saving Throws**:: +2 Fortitude
 - **Ability Score**:: Ability modifier for spells or choice
 
-Choose a spell you know; the Magic Points spent to cast this spell decrease by 1.
+Choose a spell you know; the Magic Points spent to cast this spell decrease by 1, with a minimun cost of one.
 
 This Feat can be taken multiple times on different spells each time.
 
@@ -5144,9 +5141,9 @@ You cannot discharge spells higher than level 3 with this Feat, and the casting 
 
 Choose a Weapon List; with these weapons, you get a +1 to hit.
 
-This Feat can be taken multiple times, with at least WP 5,9,13,17.
+This Feat can be taken multiple times, with at least WP 5,9,13.
 
-If you take this Feat **4 times** on the same Weapon List, the bonuses to hit are reduced to +1, instead of +4, but you make two Attack Rolls for the first two attacks of the round and choose which roll to keep.
+If you take this Feat **4 times** on the same Weapon List, the bonuses to hit are reduced to +2, instead of +4, but you make the first Attack Rolls two times and choose which roll to keep.
 
 ## Whirlwind Attack
 
@@ -5735,7 +5732,7 @@ In the case of instantaneous spells, the effects act individually if they occur 
 
 This modifier is called the **ability modifier for spells**.
 - When the character assigns the first point of Magic Proficiency, they **know** (are present) in their Spellbook a number of Cantrips equal to their ability modifier for spells +2 (with a minimum of 4 Cantrips) and a number of first-level spells equal to the same modifier, with a minimum of 4.
-- The character **learn** per day a number of spell equal to Magic Proficiency/2 (min 1) + their ability modifier for spells + Adepto fo Magic.
+- Each day, after resting, the character **learns** from his Tome of Magic a number of spells equal to Magic Proficiency/2 (minimum 1) + spell ability modifier + Magic Adept.
 - When the character assigns Magic Proficiency points beyond the first, they **learn** 1 new spell that is available in their Spellbook and is within the maximum castable level, or 2 cantrips (be careful about Magic Adept).
 - The number of spells that can be cast daily depends on the caster's capacity. See **Table Magic Points and Magic Proficiency**. A spell costs Magic Points equal to its level.
 - A Follower adds +1d6 to Magic Checks for spells from lists favored by their Patron. Your spells can use one of the energy forms preferred by your Patron.
@@ -5758,7 +5755,7 @@ This modifier is called the **ability modifier for spells**.
 
 **mod**: is the ability modifier for spells. Each time you take the Magic Adept Feat, you *learn* one additional spell present in your Spellbook.
 
-### Maximum castable spell level
+## Maximum castable spell level
 
 While Magic Proficiency indicates study and dedication to Magic in its most abstract form, it is the Magic Adept Feat that allows you to understand how *devoted* you are to formulating spells.
 
@@ -5768,13 +5765,13 @@ E.g., MP=8, Magic Adept taken 4 times, (8+4)/2=6 level. E.g., MP=16 and Magic Ad
 If the spellcaster has an ability modifier for spells of 0, they cannot cast spells higher than the first level (see also the One with Magic Feat, pg. ).
 If the modifier is 3, the maximum castable level will be 6th level or 7th level in the two example cases.
 
-### Magic Check
+## Magic Check
 
 Casting a spell is not always sufficient; many times it is necessary for it to work well and indeed act beyond normal expectations. The spellcaster can decide to channel more energy into the spell casting, namely perform a Magic Check and rely on their abilities.
 
 The spellcaster rolls 3d6 + 1d6 for every two points of Magic Skill (rounded up) plus any bonuses, Abilities, or penality from having suffered critical rolls.
 
-The spellcaster can ignore one rolled die in the Magic Check for every two times they have taken Adept of Magic. This for evade possibility of rolling three 1.
+The spellcaster can ignore one rolled die in the Magic Check for every two times they have taken Magic Adept. This for evade possibility of rolling three 1.
 
 The Magic Check is considered passed if the roll is higher than 10 + Spell Level*2 + penalty (due to armor/shield, critical suffered). Any Magic Criticals or Magic Failures are compared to this value.. In case of  Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
 
@@ -5782,7 +5779,7 @@ When required to pass or make a Magic Check, it is sufficient to not roll a Magi
 
 Magic Check as all check follow the Golden Rules, page .
 
-### Distracted - Problems in casting the spell
+## Distracted - Problems in casting the spell
 
 If the spellcaster is **Distracted**, tries to hide the casting of magic, is impeded, severely disturbed, is bleeding, grappled, is under attack/threatened while trying to cast a spell, **that is not a Cantrip**, they must make a **Magic Check**.
 
@@ -5790,7 +5787,7 @@ For each critical hit or magic critical that has been suffered in the round, the
 
 Grant a +1d6 in the Magic Check, or allow ignoring a 1 rolled in the Magic Check, when the character declares with expertise and emotion the casting of the spell. If they say *I cast a fireball* they will not get advantages, but if with passion they declare *By the Flame of Genesis may Nedraf destroy you with his sacred flames. Burn unworthy ones. Fireball!* then yes!.
 
-### Modifying the Magic Check
+## Modifying the Magic Check
 
 **Before making** the Magic Check, the spellcaster can decide to invest additional Magic Points to improve their Magic Check.
 
@@ -5800,7 +5797,7 @@ For each time, up to a maximum of three times, that they pay the cost of the spe
 
 A spellcaster can also **voluntarily fail the Magic Check**.
 
-### Critical Failure in the Magic Check
+## Critical Failure in the Magic Check
 
 If the Magic Check has had at least one Magic Critical Failure (three 1 or very low value rolled), roll 3d6 and consult the following table. For each Magic Critical Failure beyond the first that has manifested in the casting of the spell and for each Critical Hit suffered, roll one less d6, down to rolling a single d6.
 
@@ -5825,7 +5822,7 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 | 17 | An anvil falls, 3d6 damage Reflex Saving Throw DC 15 to halve, on a random creature, excluding you, within six meters |
 | 18 | Creatures, excluding you, within a 6-meter radius from you take 3d10 unresistable force damage |
 
-### Magic Points
+## Magic Points
 
 Depending on the score in Magic Proficiency, the spellcaster has a certain amount of Magic Points available.
 
@@ -5851,7 +5848,7 @@ Magic Points are all recovered with 8 hours of rest.
 
 Magic Point = (Magic Proficiency × 3) + (Magic Proficiency / 2, rounded up) + spell attribute modifier.
 
-### Spells as Rituals
+## Spells as Rituals
 
 Especially at lower levels, it can be very frustrating not having learned a spell despite having it available in your Spellbook.
 
@@ -5863,7 +5860,7 @@ The spellcaster can cast a spell that is present in their Spellbook and is withi
 
 There is always a certain danger... but what is Magic without risks!
 
-### Auto Magic Critical Success
+## Auto Magic Critical Success
 
 The spellcaster can decide to spend, in addition to the **Magic Points** of the spell, an equal amount to automatically have a **Magic Critical Success**.
 Each time you want to apply an additional Magic Critical Success beyond the first, the Magic Point cost increases by 1. The declaration of wanting to use the Auto Magic Critical Success must be made before making, and passing, the Magic Check.
@@ -5874,14 +5871,14 @@ E.g., Haste, I want it to have 2 magic criticals, I pay 3 Magic Points to cast i
 
 You cannot spend more than half of your current Magic Points to empower a spell, you cannot achive more Auto Magic success then the ability modifier for spells.
 
-### Optional - The true cost of Magic
+## Optional - The true cost of Magic
 
 The magic system can become unbalanced by always abusing the same spells. To limit this, two approaches are proposed, to be established in the Zero Session:
 
 - The Magic Point cost of the spell increases by the cost itself each time it is recast (*suggested method*)
 - A spellcaster can cast the same spell only once per day
 
-### The Spellbook
+## The Spellbook
 
 If Patrons are the source of magic, it is only the application of ancient rites and formulas that allows this raw energy to manifest in a form and expression that we call a spell.
 
@@ -5910,7 +5907,7 @@ The source of new spells can be another Spellbook or scroll... in short, anythin
 
 		You will have to undertake perilous adventures, pay mercenaries, seek ancient tomes, and unveil the darkest and most forgotten secrets to learn new spells.
 
-### Studying spells
+## Studying spells
 
 The character who wants to cast spells must review the ancient formulas in their Spellbook every day. This operation is rather quick, taking only 3 minutes per Magic Proficiency.
 
@@ -5918,7 +5915,7 @@ If the spellcaster has not reviewed the spells after having rested at least 6 ho
 
 The spellcaster can also study spells from multiple Spellbooks..
 
-### Attack Roll with Magic
+## Attack Roll with Magic
 
 Several spells must be hurled and hit an adversary to work.
 
@@ -5932,7 +5929,7 @@ Spell attack rolls or weapon attack rolls accumulate multiple attack penalties.
 
 When the magic is area-based, it is not necessary to make an Attack Roll unless to aim at difficult and minute specified areas, that is, you are aiming at a well-circumscribed area and want to avoid hitting someone with an area spell.
 
-### Saving Throw - Resisting the spell
+## Saving Throw - Resisting the spell
 
 The **Saving Throw** based on what is required by the spell has difficulty (DC) equal to + **Magic Proficiency** + **ability modifier for spell** + **number of times the Magic Adept Feat has been taken** +**1 for each Magic Critical Success** in the Magic Check.
 
@@ -5955,7 +5952,7 @@ It is also possible that in the description of the spell is reported what happen
 
 For **monsters** or anyway for a spell casting given by innate magical abilities, if not specified the **DC of the Saving Throw is equal to 10 + 2 x level of the spell + Intelligence or indicated spell modifier**.
 
-### Counteract
+## Counteract
 
 Several spells interact with other effects by canceling or modifying them. When it is written that a spell **counters** or is **countered** by another, it is necessary to verify the DC of the spells or effects to make sure which effect dominates over the other.
 
@@ -5967,7 +5964,7 @@ The counterspell value is **compared** with the DC of the magical effect to be c
 
 When for a spell the DC to counter is not provided, then consider it equal to 12+Spell level*2.
 
-### Concentration
+## Concentration
 
 You lose concentration on a spell if you cast another spell that requires concentration. You cannot concentrate on two spells at the same time. Breaking concentration costs an Immediate Action.
 
@@ -5979,7 +5976,7 @@ Every 6 points of Magic Proficiency, you can maintain concentration on an additi
 
 For each spell on which concentration is maintained, 1 Action is used.
 
-### Conserving magic
+## Conserving magic
 
 The spellcaster can cast the spell and hold it in their fist without manifesting it. To hold a spell, the spellcaster formulates the magic and immediately spends an Action to remain Concentrated and pays 1 additional Magic Point.
 The spell can be held for up to 1 round per ability modifier for spells score +1 round per time they have taken Magic Adept.
@@ -5987,7 +5984,7 @@ The spell can be held for up to 1 round per ability modifier for spells score +1
 To hold the spell, the spellcaster must remain Concentrated and pay 1 Magic Point per round.
 To cast the held spell, it is sufficient to roll initiative and use 1 Action. It is not possible to cast further spells that are not Cantrips while conserving a spell.
 
-### Rules for summoned creatures
+## Rules for summoned creatures
 
 These rules apply to all magically summoned creatures.
 
@@ -5997,11 +5994,11 @@ A summoned creature has 2 actions per round; if no orders are specified at the t
 
 The summoned creature understands the commands given to it to the best of its mental abilities. To change the order, an Action must be used.
 
-### Attempting multiple Spells in the same round
+## Attempting multiple Spells in the same round
 
 It is possible to cast multiple spells in the round as long as the total casting time does not exceed the Actions available and a Magic Check is passed when casting the second spell. Multiple spells that require an Attack Roll or attacking with a weapon and casting a spell accumulate multi-attack penalties.
 
-### Altering Spells
+## Altering Spells
 
 The spellcaster can modify spells in various ways. These possibilities add versatility to the spellcaster, and it is appropriate for the character to always have them present in the most critical situations.
 
@@ -6024,7 +6021,7 @@ The possibilities granted by Altering Spells are cumulative with each other.
 
 **Minor modifications**  to the manifestation of the spell can be agreed with the Narrator for a cost of additional Magic Points or with a successful Magic Check.
 
-### Attempting Spells with impediments
+## Attempting Spells with impediments
 
  
 
@@ -6034,7 +6031,7 @@ The Magic Points required for casting spells if they cannot gesture are tripled,
 
 If the spell also has material components, these must still be provided (placed within 30 cm of the spellcaster) or it is not possible to cast the spell.
 
-### Definitions of spell targets
+## Definitions of spell targets
 
 In the spells listed below, you will often find references to the types of subjects and targets that can be influenced, as well as to different types of energy and elements.
 
@@ -6046,7 +6043,7 @@ If a Natural Creature has magical powers, then it is also considered a Magical C
 
 - **Energy** includes: Force, Fire, Light, Sound, Electricity, Positive Energy, Negative Energy, Cold, Void.
 
-### Energy, Light, and Void Damage
+## Energy, Light, and Void Damage
 
 The damage caused by **Light** is half fire and half positive energy, meaning a resistance to fire or positive energy applies only to half of the damage caused by the attack.
 
@@ -13553,11 +13550,11 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 
 All Armors, except for Padded armor, force spellcasters to pass a Magic Check with an increased difficulty indicated in the table.
 
-Example: Tups wears Breastplate armor (medium armor) and casts a spell. He is forced by wearing the armor to perform a Magic Check. He rolls 3d6 +4 dice (because he has 9 points in Magic Skill), ignores 2 dice (because he has taken Adept of Magic 4 times).
+Example: Tups wears Breastplate armor (medium armor) and casts a spell. He is forced by wearing the armor to perform a Magic Check. He rolls 3d6 +4 dice (because he has 9 points in Magic Skill), ignores 2 dice (because he has taken Magic Adept 4 times).
 
 The difficulty of the spell he casts, Lightning Bolt, is 10+ 2*3 (Spell level) +8 (additional difficulty from the armor).
 
-In the test he rolls 4,5,5 / 3,4,1,1. He removes the two 1s for Adept of Magic, they count as zero and if he had rolled 3 it would have been a Critical Failure! Total 4+5+5+3+4=21, against a difficulty of 10+2*3+8=24. Tups fails to cast the spell!!!
+In the test he rolls 4,5,5 / 3,4,1,1. He removes the two 1s for Magic Adept, they count as zero and if he had rolled 3 it would have been a Critical Failure! Total 4+5+5+3+4=21, against a difficulty of 10+2*3+8=24. Tups fails to cast the spell!!!
 
 If Tups had worn Studded Leather the difficulty would have increased by only 4 and therefore he would have succeeded in casting the spell.
 
