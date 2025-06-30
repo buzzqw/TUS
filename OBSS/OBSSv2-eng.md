@@ -1,4 +1,4 @@
-**Old Bell School System - OBSS - Fantasy Adventure Game**
+{**Old Bell School System**}   {**(\textbf{OBSS**)   { {Fantasy Adventure Game 
 
 ---
 
@@ -7,13 +7,11 @@ Dedicated to the only Woman I've ever loved, the one who accompanies me in my dr
 Never give up on your desires, persevere until you make them real.
 
 >> 
-
 ---
 
 **Playtesting**: Federica Angeli, Simona Bissi, Fabrizio Bonetti, Francesco Converso, Carlo Dall'Ara, Lucia Dolcini, Michele Faedi, Dario Galassi, Micaela Gramellini, Stefano Mannino, Samuele Mazzotti, Emanuele Pezzi, Leonardo Pezzi, Gian Luca Fava, Nicola Ricottone, Marco Valmori, Edoardo Zanzani, Isotta Zanzani, SicuramenteNonMirko,
 
-**Old Bell School System - OBSS - Fantasy Adventure Game**
-
+**Terms of use**: OBSS, Old Bell School System, is a registered trademark of Andres Zanzani (azanzani@gmail.com), licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). See details in the License chapter.
 ---
 
 >> "May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
@@ -101,7 +99,7 @@ Now that you are ready, it's time to embrace your destiny and write your legend.
 
 Andres Zanzani
 
->> D&D has in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
+>> D | D has in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
 OBSS wants to continue in the path of an inclusive and free game. Each group is free to approach controversial topics as they see fit, but always with respect for every player and sensitivity. Don't let OBSS be a cause for quarrel but for unity and fraternal spirit, a game that unites and never divides. (Andres Zanzani)
 
 ---
@@ -201,7 +199,7 @@ Saving Throws concern reflexes and dodging (Reflex), resisting poisons/diseases 
 
 **Turn**: is 10 minutes, that is, 60 rounds
 
-> The D&D game has neither losers nor winners, it has only players who love to exercise their imagination. The players and the DM share in creating adventures in fantasy lands where heroes abound and magic actually works. In a certain sense, the D&D game has no rules, only rule suggestions. No rule is inviolate, particularly if a new or altered rule will encourage creativity and imagination. The important thing is to enjoy the adventure. (Tom Moldvay, 03/12/1980. And everything said also applies to OBSS! NdA)
+> The D | D game has neither losers nor winners, it has only players who love to exercise their imagination. The players and the DM share in creating adventures in fantasy lands where heroes abound and magic actually works. In a certain sense, the D | D game has no rules, only rule suggestions. No rule is inviolate, particularly if a new or altered rule will encourage creativity and imagination. The important thing is to enjoy the adventure. (Tom Moldvay, 03/12/1980. And everything said also applies to OBSS! NdA)
 
 In the Manual, you will find different types of boxes, each has a precise meaning:
 
@@ -210,7 +208,6 @@ In the Manual, you will find different types of boxes, each has a precise meanin
 >> Information for the player: Box containing indications and clarifications for the Player.
 
 >>> Box containing indications and suggestions for the Narrator
-
 ---
 
 # Races
@@ -534,7 +531,6 @@ Do not limit yourselves to the descriptions proposed here; they are meant to be 
 Create the most beautiful and complete characters possible. Each character is alive and is a person, and as such, will always be different from one another, each fantastic in their own way regardless of any race or prejudice.
 
 >> Note on Character Sex: In case you were so obtuse, I reiterate that there is no difference in ability or characteristics based on sex. Every player is invited to create a character of the gender they prefer.
-
 ---
 
 # Special Characteristics
@@ -543,7 +539,7 @@ Every creature is special and unique, yet there are beings even more unique and 
 
 ## Twilight Vision
 
-What is darkness for many is seeing well for those with twilight vision as long as there is a minimal source of light.
+What is darkness for many is seeing well for those with \hypertarget{visionecrepuscolare}{twilight vision} as long as there is a minimal source of light.
 
 Twilight vision is color vision.
 A spellcaster with twilight vision can read a Scroll as long as there is even the dimmest of candles as a light source nearby.
@@ -602,7 +598,6 @@ A creature with Tremorsense is sensitive to ground vibrations and can automatica
 Aquatic Creatures with Tremorsense (echolocation) can perceive the position of creatures in contact with water.
 
 The range of the ability is specified in the descriptive text of the creature.
-
 ---
 
 # Ability Scores
@@ -749,7 +744,6 @@ Each player distributes 4 points among the 6 Ability Scores, each Ability Score 
 The sum of the dice rolled for the Ability Scores is compared with this table to determine the actual values of the Ability Scores.
 
 | **Roll value** | **Ability** | **Roll value** | **Ability** |
-|---|---|---|---|
 | 3 (or less) | -3 | 12-13-14 | +1 |
 | 4-5 | -2 | 15-16-17 | +2 |
 | 6-7-8 | -1 | 18 (or more) | +3 |
@@ -782,7 +776,6 @@ The increase in Characteristics immediately applies the modifier to Skill Checks
 >>> Players will still complain about the Ability Scores rolled, it's normal, especially less experienced players. Try to make them understand that they shouldn't limit themselves to looking at the Ability Scores but see the overall picture of the character. Suggest Feats that can help them compensate for the Ability Score values.
 
 >> The Character Sucks! - Low Ability Scores: Having low Ability Scores is not the death of the character! Rather, try to play so that it's not necessary to roll dice or make checks! Strive to be witty, intuitive, proactive, clever... in short, everything that can help you solve the situation without necessarily having to roll dice. In OBSS, the Narrator rewards players who describe and excel in what the character does!
-
 ---
 
 # Hit Points
@@ -879,10 +872,10 @@ Every particularly important action where the character has followed a Trait bri
 
 As the value of the sum of common Traits with the Patron increases, the character may acquire powers, regardless of whether they are a believer (Follower or Devotee) or not of that Patron.
 
-- At **'5' ** points, one can begin to feel the presence of a Patron
-- At **'10' ** points, one feels the closeness of a Patron
-- At **'15' ** points, one is bound to a Patron
-- At **'20' ** points, one is a champion of the Patron
+- At **'5'** points, one can begin to feel the presence of a Patron
+- At **'10'** points, one feels the closeness of a Patron
+- At **'15'** points, one is bound to a Patron
+- At **'20'** points, one is a champion of the Patron
 
 It is not necessary to believe in a Patron to feel their closeness, be bound to them or be their champion; simply, it is one's nature (one's Traits) that is akin to the Patron, whether one wants it or not. Powers are only taken from the Patron who has the highest trait sum compared to others.
 
@@ -1213,8 +1206,9 @@ In the character sheet, the initial Profession and acquired skills should be mar
 
 **Table: List of Professions and related Skills**
 
-| **Profession** | **1pt** | **2pts** | **2pts** | **3pts** |
+| {\textwidth}{|>{\raggedright}l|c|c|c|c|} |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Profession** | **1pt** | **2pts** | **2pts** | **3pts** |
 | **Acolyte** | Occult | History/Geography | Arcana | Religion |
 | **Alchemist** | Appraise | Nature | Herbalism | Arcana |
 | **App. wizard** | History/Geography | Occult | Myths/Legends | Arcana |
@@ -1492,7 +1486,6 @@ Each point attributed to Base Proficiencies or Weapon or Magic Proficiency allow
 **4th level**: +1 Weapon Proficiency, Feat: Cautious Spellcaster (+2 Reflex, +1 Fortitude, **Intelligence**)
 
 ***Total***: +2 WP, +2 MP, +4 Reflex Saving Throw, +6 Fortitude Saving Throw, +6 Will Saving Throw
-
 ---
 
 # Building the Character
@@ -1614,14 +1607,12 @@ The **perceived** power level of characters in OBSS is lower than that of other 
 - Since when do heroes need plans? (Final Fantasy XIII)
 
 I love it when a plan comes together! (Colonel John *Hannibal* Smith, A-Team)}
-\endenfasi\endchangemargin
 
-\beginitemize[leftmargin=*]
 - Every combat is potentially lethal. Decide with reason and approach it with care. Learn to run away, don't be afraid to survive.
 - Not everything is on the character sheet. A character's sheet is its perimeter but does not define what it can or cannot do. Rack your brains and be creative, alternative, curious but not suicidal or reckless.
 - Not everything is solved with a dice roll. Ask the right questions, talk with your companions, and describe carefully what you intend to do. The Narrator rewards accurate descriptions. Describing how and what you do can avoid having to make a check!
 - Low ability scores are just low ability scores and not the character. Use proficiencies, Feats, make sure to roll as few dice as possible to solve problems.
-- Improvise, adapt, and overcome! (Tom Highway - Gunny, Movie). Or as some of my players preferred *Improvise, **Deceive*, and overcome**.
+- Improvise, adapt, and overcome! (Tom Highway - Gunny, Movie). Or as some of my players preferred *Improvise, **Deceive**, and overcome*.
 - Live your character fully. Amplify their story, bring their past into the present. Help your companions to know you and the Narrator to build better stories around your stories.
 - One thing that no one can ever take away from you is being heroic, intelligent, resolute, determined, stubborn but not stupid.
 - Describe realistically what you do, it will help the Narrator and your companions around you. It's certainly better than saying *I make an Awareness check*. Exalt yourself in describing the most important actions, the Narrator will take it into account.
@@ -1632,12 +1623,6 @@ I love it when a plan comes together! (Colonel John *Hannibal* Smith, A-Team)}
 - Embrace failure. Failing with style is much better than a boring victory.
 - Make sure your character is always concerned with something more than just their life.
 - Don't be afraid to argue with other characters, but always make sure not to get personal with the players.
-
-\enditemize
-
-\endmulticols
-
-\beginchangemargin\beginenfasi{
 
 ---
 
@@ -1792,7 +1777,7 @@ The player may request to make the check even if the result is certain.
 
 | **Advantage / Disadvantage** | **Checks** | |
 | --- | --- |
-|  | **Dynamic** | **Fixed** |
+| \cmidrule(lr) | **Dynamic** | **Fixed** |
 | Light bonus | +1 | +1 |
 | Normal bonus | +2 | +2 |
 | Strong bonus | +1d6 | +4 |
@@ -2014,7 +1999,6 @@ To the **Base Difficulty of 15**, the following modifiers apply:
 
 >> Checks Checks and more Checks!: To be cynical, a role-playing game is all about checks, whether you're trying to make a jump, hit someone, avoid a trap or a spell...!
 You need to be smarter and wiser. Checks can often be avoided or approached with advantage. Play with wit, use your imagination, be creative!
-
 ---
 
 # Social Combat
@@ -2082,7 +2066,7 @@ The player chooses the Ability Score they prefer. If Dexterity is chosen, it wil
 
 Whoever has the highest initiative between players and enemies starts first, followed by the others in descending order, declaring Actions and executing them. In case of Initiative with the same score, whoever has the higher Ability Score acts first, otherwise the clash will be simultaneous. Initiative is valid for the entire clash and is rerolled when changing opponents.
 
- 
+ %box narratore
 Try to make combat flow naturally. Don't interrupt the flow of actions, but by describing their effects involve players (and enemies) in subsequent actions. I recommend reading the article https://theangrygm.com/manage-combat-like-a-dolphin/ to understand the method in detail.
 
 **The Golden Rules also apply to the Initiative Check.**
@@ -2090,8 +2074,6 @@ Try to make combat flow naturally. Don't interrupt the flow of actions, but by d
 ### Resolution of Actions
 
 > It is not that we have little time: the truth is that we waste much of it. (Lucius Annaeus Seneca)
-
-\endenfasi\endchangemargin
 
 From fastest to slowest there is the resolution of Actions.
 
@@ -2101,7 +2083,7 @@ In this way, the choice of action occurs when it's the player's round, who can a
 
 ### Time (Rounds, Minutes and Turns)
 
-\beginchangemargin\beginenfasiHesitation is the death of advantage (Magic, V.E. Schwab) \endenfasi\endchangemargin
+{Hesitation is the death of advantage (Magic, V.E. Schwab)} 
 
 A **round** lasts about 10 seconds, it's a time frame sufficient to act, run, talk... fight. A Minute is therefore 6 rounds and a Turn lasts 10 Minutes (or 60 rounds).
 
@@ -2121,7 +2103,7 @@ Actions can be executed in the preferred order.
 
 The table below indicates the main Actions a character can perform; these are guidelines to follow. In the chapter dedicated to combat and examples of skill use, other Actions and their relative costs in Actions are listed.
 
-**An Action cannot be interrupted by another Action, but can be followed by a Reaction or an Immediate Action**.
+**An Action cannot be interrupted by another Action, but can be followed by a Reaction or an Immediate Action**. 
 If a character wants to make multiple attacks while moving on the battlefield, they can use one Action to execute an attack, use a Movement Action to move up to their full available movement, and use a last Action of attack to execute a last single attack; this second attack counts as a multiple attack with the relative penalties.
 
 It is possible to **delay** one or more Actions to wait for the scenes to unfold. The character who delays an Action acts first among the subjects acting at that initiative value; in subsequent rounds they will continue to act in the new initiative order. In this way, the player voluntarily delays their initiative to insert themselves into the initiative order in another position.
@@ -2135,49 +2117,45 @@ If the character has already performed all Actions, then they can act in the rou
 
 **Table: Actions per Round**
 
-\begintabular
-
 | **What to do** | **Actions** |
 | --- | --- |
-| \hyperlinktiropercolpireedifesaExecute an attack | 1 |
+| Execute an attack | 1 |
 | Execute two attacks | 2 |
-| \hyperlinkattacchimultiplimischiaExecute more than two attacks | 3 |
+| Execute more than two attacks | 3 |
 | Draw or Sheathe weapon or shield | 1 |
-| \hyperlinktipodimovimentoExecute a Movement Action | 1* |
-| \hyperlinkazionediscattoDash | 1 |
-| \hyperlinkalzarsidapronoStand up from prone | 1 |
-| \hyperlinkaiutareHelp someone | R |
-| \hyperlinkesempiprovecompetenzePerform a skill check | 1* |
-| \hyperlinkriconosceremostroIdentify a creature | 1 |
-| \hyperlinkcoperturaHide | 1 |
-| \hyperlinkcavalcareMount or dismount a mount | 2 |
-| \hyperlinksfondareBreak down a door with shoulder/kicks | 1 |
-| \hyperlinkpiedediporcoForce a door with a crowbar | 2 |
+| Execute a Movement Action | 1* |
+| Dash | 1 |
+| Stand up from prone | 1 |
+| Help someone | R |
+| Perform a skill check | 1* |
+| Identify a creature | 1 |
+| Hide | 1 |
+| Mount or dismount a mount | 2 |
+| Break down a door with shoulder/kicks | 1 |
+| Force a door with a crowbar | 2 |
 | Search for something in a backpack | 2 |
-| Take something from belt or readily available | 1 |
+| { Take something from belt or readily available} | 1 |
 | Use an item held in hand | 1 |
-| \hyperlinkinsorgenzavelenoDrink a potion held in hand | Imm. |
-| \hyperlinkinsorgenzavelenoGive a potion to someone else | 2 |
+| Drink a potion held in hand | Imm. |
+| Give a potion to someone else | 2 |
 | Throw an object held in hand | R |
 | Drop prone to the ground | R |
-| \hyperlinkmagietempodilancioCast a Spell* | 2 |
-| \hyperlinkmagieconcentrazioneConcentrate on a Spell | 1 |
-| \hyperlinkmagiedurataInterrupt your own spell | Imm. |
-| \hyperlinkriconoscereincantesimoIdentify a Spell | R |
-| \hyperlinkrulesmagicitemsUse a magic item | 2 |
+| Cast a Spell* | 2 |
+| Concentrate on a Spell | 1 |
+| Interrupt your own spell | Imm. |
+| Identify a Spell | R |
+| Use a magic item | 2 |
 | Exchange a dialogue with someone | 3* |
 | Exchange a few lines with someone | 0* |
-| \hyperlinkpreparareladifesaPrepare Defense | 1 |
-| \hyperlinkdifesatotaleTotal Defense | 2 |
-| \hyperlinkdisingaggiareDisengage | 1 |
-| \hyperlinkcolpoprecisoPrecise Strike | 2 |
-| \hyperlinkdisarmareDisarm | 2 |
-| \hyperlinkfintaFeint | 1 |
-| \hyperlinkspingereavversarioPush an opponent | 2 |
-| \hyperlinkafferrareunavversarioGrapple an opponent | 2 |
-| \hyperlinkfarecadereavversarioTrip an opponent | 2 |
-
-\endtabular
+| Prepare Defense | 1 |
+| Total Defense | 2 |
+| Disengage | 1 |
+| Precise Strike | 2 |
+| Disarm | 2 |
+| Feint | 1 |
+| Push an opponent | 2 |
+| Grapple an opponent | 2 |
+| Trip an opponent | 2 |
 
 The character who executes an Attack Action and Casts a Spell in the same round is considered Distracted, meaning they must make a Magic Check to cast the spell.
 
@@ -2185,13 +2163,13 @@ The character who executes an Attack Action and Casts a Spell in the same round 
 
 During the Movement Action, it is possible to **Draw a Weapon** or Shield or **Sheathe a Weapon** or Shield.
 
-**Cast a Spell***: usually 2 Actions are needed. The number of necessary Actions is indicated in the spell description. In the Magic chapter, the \hyperlinkpiumagieroundrules (page \pagerefpiumagieround) for casting multiple spells in a round are specified.
+**Cast a Spell***: usually 2 Actions are needed. The number of necessary Actions is indicated in the spell description. In the Magic chapter, the rules (page ) for casting multiple spells in a round are specified.
 
 **Exchange a dialogue with someone***: A dialogue can be just a few seconds or minutes. The Narrator will evaluate how long it lasts.
 
 **Exchange a few lines with someone***: As long as they are truly few lines or a glance, it doesn't consume Actions; if it becomes more articulated, then it uses Actions. The goal is not to interrupt the flow of Actions with a dense dialogue but still allow interaction between characters.
 
-**Perform a skill check***: if they use a fraction of the round they cost 1 Action, otherwise 2 or more. Check the \hyperlinkesempiprovecompetenzeExamples of Skill Checks for the reported costs.
+**Perform a skill check***: if they use a fraction of the round they cost 1 Action, otherwise 2 or more. Check the Examples of Skill Checks for the reported costs.
 
 A **Reaction (R)** Action can be freely executed even outside your own round. This Action is usually due to Abilities or particular situations. Unless otherwise indicated, a Reaction Action happens immediately after the cause that triggers it.
 
@@ -2204,17 +2182,11 @@ This **list is not complete**, take it as guidelines to establish the weight of 
 The **order** in which Actions are executed is not important except for logical and physical correlation. The Movement Action can be between other Actions (movement, attack/spells/other Action, movement).
 
 A character could attack, move, and attack again; this second attack would have the penalties described in multiple attacks.
-
-\endmulticols
-
 ---
 
 ## Movement
 
-\beginchangemargin\beginenfasiA slower moving object cannot be caught by a faster one; since the one that follows must reach the point that the one being followed occupied and where the latter is no longer (when the second arrives); in this way the first always maintains an advantage over the second. (Zeno's Paradox)
-\endenfasi\endchangemargin
-
-\beginmulticols
+{A slower moving object cannot be caught by a faster one; since the one that follows must reach the point that the one being followed occupied and where the latter is no longer (when the second arrives); in this way the first always maintains an advantage over the second. (Zeno's Paradox)}
 
 A character's movement is determined by their size and race, and by what they carry, weights, encumbrances, but also magic and magic items.
 
@@ -2236,33 +2208,28 @@ When talking about a ***square*** to indicate a distance or influence, it means 
 
 In case of **diagonal movement**, for practicality count a square normally.
 
-**If you move on *difficult* terrain, you travel half the available movement, so a human covers 4 meters per Movement Action (each square crossed counts as two).**
+**If you move on *difficult** terrain, you travel half the available movement, so a human covers 4 meters per Movement Action (each square crossed counts as two).*
 
-In the Monster Manual, the dimensions and relative spaces occupied by creatures of different \hyperlinktagliaedimensioni are indicated (page \pagereftagliaedimensioni).
+In the Monster Manual, the dimensions and relative spaces occupied by creatures of different \hyperlink{tagliaedimensioni} are indicated (page ).
 
 ## Distance
 
-By **Touch distance** we mean a distance that allows touching the opponent, so no more than one meter for medium-sized creatures without long weapons or with reach. Touch distance is melee distance if long weapons are not used.
+By **Touch distance**  we mean a distance that allows touching the opponent, so no more than one meter for medium-sized creatures without long weapons or with reach. Touch distance is melee distance if long weapons are not used.
 
-By **Melee distance** we mean a distance that allows hand-to-hand combat (within 1 meter around the character, or within 2 meters in case of a long weapon).
+By **Melee distance**  we mean a distance that allows hand-to-hand combat (within 1 meter around the character, or within 2 meters in case of a long weapon).
 
 In monsters, this distance is indicated by reach; for throwing weapons, it's called range.
 
 If not indicated in the opponent's sheet, **reach** is equal to half the space occupied rounded up. A hill giant, huge size (3x3 squares on the map), has a reach of 2 squares, meaning it hits creatures within 2 squares/meters from it.
 
-\beginchangemargin\begintcolorbox[title = Examples of Distance in Combat]
-E.g., for a creature armed with a spear, the reach is 2, meaning the melee distance is 2 meters because the weapon is long. For a gnome armed with a hammer, or bare-handed, the melee distance is 1 meter. For particularly large creatures (Huge or larger) with equally large weapons, the reach is indicated or inferred from the monster's dimensions and weapon type.
+>> Examples of Distance in Combat: E.g., for a creature armed with a spear, the reach is 2, meaning the melee distance is 2 meters because the weapon is long. For a gnome armed with a hammer, or bare-handed, the melee distance is 1 meter. For particularly large creatures (Huge or larger) with equally large weapons, the reach is indicated or inferred from the monster's dimensions and weapon type.
 
 **Reach indicates how far you can hit in melee.**
-\endtcolorbox\endchangemargin
-
-\endmulticols
-
 ---
 
 ## Life and Death
 
-\beginchangemargin\beginenfasi{Whoever doesn't know death, doesn't know life. (Grand Hotel, film 1932)
+{Whoever doesn't know death, doesn't know life. (Grand Hotel, film 1932)
 
 The worthy Game Master never kills player characters willingly. He presents opportunities for hasty and careless players to do it all themselves. (Gary Gygax)
 
@@ -2335,7 +2302,6 @@ Every hour you recover, with a minimum of 1 Hit Point, your Constitution value.
 Unless otherwise indicated, whenever a character takes damage that lowers Maximum Hit Points, in addition to lowering these, they must also subtract them from current Hit Points. A character, when healed, cannot exceed the current Maximum Hit Points.
 
 Every 8 hours of rest, within 24 hours, recovers 1d4 + Constitution in Maximum Hit Points, with a minimum of 1.
-
 ---
 
 ## Attack Roll and Defense
@@ -2830,55 +2796,55 @@ The list proposes a catalog of Critical Actions for consumed Critical Hits. You 
 
 Use this list as guidelines to stimulate the character to create their own combat style.
 
-**Criticals**  **Effect**
+**Criticals** \hskip 0.5cm **Effect**
 
 - **Eye Attacks**
 
--  - Sand in the eyes. Until the end of your next round, the opponent has -2 to their first Attack Roll
--  - Eye scratch. Until the end of your next round, the opponent has -4 to the Attack Roll
--  - Target dazzled. Roll 1d6, with 1-2-3 the opponent has missed their attack. Lasts until the end of the next round.
--  - Target blinded. For 1d6 rounds, the opponent considers everyone as invisible.
--  - One-eyed. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll; if they fail, they are permanently blinded, otherwise they suffer the effects of point 4.
+- **\emph** - Sand in the eyes. Until the end of your next round, the opponent has -2 to their first Attack Roll
+- **\emph** - Eye scratch. Until the end of your next round, the opponent has -4 to the Attack Roll
+- **\emph** - Target dazzled. Roll 1d6, with 1-2-3 the opponent has missed their attack. Lasts until the end of the next round.
+- **\emph** - Target blinded. For 1d6 rounds, the opponent considers everyone as invisible.
+- **\emph** - One-eyed. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll; if they fail, they are permanently blinded, otherwise they suffer the effects of point 4.
 - **Weapon Attacks**
 
--  - Hit the weapon. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 2 $ for weapon size difference, or drops the weapon
--  - Damaged weapon. The opponent's weapon inflicts one category of damage less
--  - Hand strike. Due to pain, until the end of your next round, the opponent loses their first two attacks
--  - Disarm the opponent. The opponent drops their weapon
--  - Compromised hand. The opponent until dawn of the next day has -4 to the Attack Roll
+- **\emph** - Hit the weapon. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 2 $ for weapon size difference, or drops the weapon
+- **\emph** - Damaged weapon. The opponent's weapon inflicts one category of damage less
+- **\emph** - Hand strike. Due to pain, until the end of your next round, the opponent loses their first two attacks
+- **\emph** - Disarm the opponent. The opponent drops their weapon
+- **\emph** - Compromised hand. The opponent until dawn of the next day has -4 to the Attack Roll
 - **Pushes and Lunges**
 
--  - Push the opponent 3 meters away, $ \pm 1$ for size difference
--  - You can move one Movement Action as a Reaction. You treat the terrain as difficult
--  - As point 1 but the initial distance is 6 meters
--  - You can move one Movement Action as a Reaction
--  - As point 1 but the initial distance is 9 meters
--  - As point 3 and you can move with the opponent
+- **\emph** - Push the opponent 3 meters away, $ \pm 1$ for size difference
+- **\emph** - You can move one Movement Action as a Reaction. You treat the terrain as difficult
+- **\emph** - As point 1 but the initial distance is 6 meters
+- **\emph** - You can move one Movement Action as a Reaction
+- **\emph** - As point 1 but the initial distance is 9 meters
+- **\emph** - As point 3 and you can move with the opponent
 - **Trips**
 
--  - Shoulder check. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 4 $ for size difference or falls prone
--  - Trip. The opponent makes a Reflex Saving Throw DC 19, $ \pm 2 $ for size difference or falls prone
--  - Push. The opponent makes a Fortitude Saving Throw DC 23, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d6 meters away
--  - Collision. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d10 meters away
+- **\emph** - Shoulder check. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 4 $ for size difference or falls prone
+- **\emph** - Trip. The opponent makes a Reflex Saving Throw DC 19, $ \pm 2 $ for size difference or falls prone
+- **\emph** - Push. The opponent makes a Fortitude Saving Throw DC 23, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d6 meters away
+- **\emph** - Collision. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d10 meters away
 - **Projectiles**
 
 - ***x*** - For each Critical Hit used, add another range increment to your weapon
 - ***x*** - For every two Critical Hits used, add +4 to the next Attack Roll until the end of the next round
--  - *Kennedy Arrow*. Until the end of your next round, the first projectile ignores any cover or obstacle and if physically possible hits the opponent
+- **\emph** - *Kennedy Arrow*. Until the end of your next round, the first projectile ignores any cover or obstacle and if physically possible hits the opponent
 - **Fury**
 
--  - Encourage companions. Your companions within 6 meters have +2 to their first Attack Roll
--  - Berserker. One of your companions within six meters can perform an Attack Action against an opponent in melee at the cost of a Reaction
--  - Jolt. One of your companions, within 6 meters, can use a Reaction to execute a Movement Action treating the terrain as difficult
--  - Glory. Your companions within 6 meters have +2 to the Attack Roll until the end of their next round
--  - Glory!. Your companions within 9 meters have +4 to the Attack Roll until the end of their next round
+- **\emph** - Encourage companions. Your companions within 6 meters have +2 to their first Attack Roll
+- **\emph** - Berserker. One of your companions within six meters can perform an Attack Action against an opponent in melee at the cost of a Reaction
+- **\emph** - Jolt. One of your companions, within 6 meters, can use a Reaction to execute a Movement Action treating the terrain as difficult
+- **\emph** - Glory. Your companions within 6 meters have +2 to the Attack Roll until the end of their next round
+- **\emph** - Glory!. Your companions within 9 meters have +4 to the Attack Roll until the end of their next round
 - **Defense!**
 
--  - Until the end of your next round, you have +2 to Defense.
--  - Until the end of your next round, all companions in your melee range have +2 to Defense
--  - Until the end of your next round, one companion has +8 to Defense.
--  - Until the end of your next round, all companions within a range of 9 meters have +4 to Defense
--  - For 1d6 rounds, all your companions have +4 to Defense
+- **\emph** - Until the end of your next round, you have +2 to Defense.
+- **\emph** - Until the end of your next round, all companions in your melee range have +2 to Defense
+- **\emph** - Until the end of your next round, one companion has +8 to Defense.
+- **\emph** - Until the end of your next round, all companions within a range of 9 meters have +4 to Defense
+- **\emph** - For 1d6 rounds, all your companions have +4 to Defense
 	
 
 >>> These Critical Actions can be described as taking advantage of the opponent's distraction, throwing dirt in their eyes, forcing them to move away with weapon blows...
@@ -2977,7 +2943,6 @@ You can only control a mount if it has been trained to accept a rider. War-train
 By spending 1 of your Actions, you can make the mount perform 2 of these Actions: Move, Attack, Disengage.
 
 If the mount is intelligent, it might move and act as it prefers, regardless of the rider's instructions. It might flee from combat, charge to attack and devour a severely wounded enemy, or act in some other way against the rider's will.
-
 ---
 
 # Hiding places and cover
@@ -3077,14 +3042,11 @@ An invisible creature in water moves the liquid, revealing its position. The inv
 An invisible lit torch still emits light (as does an invisible object subject to a light spell).
 
 Invisible creatures cannot use gaze attacks. Invisibility does not affect being the target of a Divination spell.
-
 ---
 
 # Weapon Lists by Homogeneous Type
 
-> Strength lies not in a Sword, but in the arms of a brave man. (The Legend of Zelda: Twilight Princess)} \endenfasi\endchangemargin
-
-\beginmulticols
+> Strength lies not in a Sword, but in the arms of a brave man. (The Legend of Zelda: Twilight Princess)} 
 
 Each time you assign a point to Weapon Proficiency, you can decide whether to continue perfecting a Weapon List you already know or learn a new one. If you do not declare its use, it is assigned to the Simple Weapons List.
 
@@ -3096,14 +3058,11 @@ Using a weapon without adequate proficiency imposes a -1d6 penalty to the Attack
 
 **All Weapon Lists** grant, unless written otherwise, these cumulative advantages when the score in the Weapons List reaches the indicated value:
 
-\beginitemize[leftmargin=*]
 - 6 points: if you face someone using a weapon in this list, you are immediately able to understand their Weapon Proficiency (or Attack Roll bonus in the case of monsters).
 - 10 points: if you hit the same opponent with at least two attacks in the round, you can move 1 meter away from them without using Actions, or the second attack causes 1 Critical Hit if it hasn't generated any.
 - 14 points: if you hit an opponent with at least one attack, you can move 1 meter away from them without using Actions.
 - 18 points: when you make an Attack Roll, you also count 5s for Critical Hits (but don't reroll the die).
 - 20 points: when you make an Attack Roll, you also count 5s for Critical Hits and reroll the die.
-
-\enditemize
 
 The points assigned to a Weapon List are not added to the Attack Roll! You must check the score in the Weapon List with any bonuses that the same list includes.
 
@@ -3113,9 +3072,8 @@ The advantages indicated are cumulative unless otherwise specified.
 
 ## Bows
 
-Longbow, Shortbow, Composite Longbow, Composite Shortbow
+ Longbow, Shortbow, Composite Longbow, Composite Shortbow
 
-\beginitemize[leftmargin=*]
 - 4 points: add your Strength value to damage, even if the bow is not composite. On a shortbow, you can add up to +1 damage, on a longbow up to +2 damage.
 - 5 points: reduce the penalty for shooting beyond standard range by 6.
 - 7 points: your mastery in using the bow in combat is such that you suffer no penalty when shooting arrows at enemies with light cover.
@@ -3123,13 +3081,12 @@ Longbow, Shortbow, Composite Longbow, Composite Shortbow
 - 11 points: reduce the penalty for shooting beyond standard range by 6.
 - 16 points: the first arrow that hits in the round adds a critical damage.
 
-\enditemize
-
 ## Armor
+
+ 
 
 This List only confers the cumulative bonuses listed here when wearing Armor.
 
-\beginitemize[leftmargin=*]
 - 1 point: halve the time required to don and doff armor
 - 2 points: the Defense granted by armor increases by 1 point, sleeping in medium armor doesn't cause fatigue. Decrease the Magic Check penalty by 2.
 - 3 points: the Skill Penalty decreases by 1 point, sleeping in heavy armor doesn't cause fatigue. Decrease the Magic Check penalty by an additional 2.
@@ -3137,13 +3094,11 @@ This List only confers the cumulative bonuses listed here when wearing Armor.
 - 5 points: decrease Critical Hits suffered from melee attacks by 1, the Skill Penalty decreases by 1 point, the Movement penalty decreases by 1 meter. Decrease the Magic Check penalty by an additional 2.
 - 6 points: the Critical Hit reduction also applies to ranged attacks. You negate the Skill Penalty and Movement penalty. Decrease the Magic Check penalty by an additional 2.
 - 7 points: Decrease the Magic Check penalty by an additional 2.
-\enditemize
 
 ## Light Weapons
 
-Short Sword, Light Mace, Rapier, Scimitar, One-handed Axe, Dagger
+ Short Sword, Light Mace, Rapier, Scimitar, One-handed Axe, Dagger
 
-\beginitemize[leftmargin=*]
 - 4 points: you can use Dexterity instead of Strength in the Attack Roll.
 - 5 points: you can draw the weapon as part of the Movement Action.
 - 7 points: you can draw the weapon as an Immediate Action.
@@ -3151,13 +3106,10 @@ Short Sword, Light Mace, Rapier, Scimitar, One-handed Axe, Dagger
 - 11 points: increase the weapon's damage die by one step. The EDX is reduced by 1.
 - 16 points: using a Reaction, you get +4 to Defense against melee attacks. If you avoid the attack, you can make a counter-attack.
 
-\enditemize
-
 ## Double Weapons
 
-Great Double Axe, Double Flail, Two-bladed Sword, Urgrosh
+ Great Double Axe, Double Flail, Two-bladed Sword, Urgrosh
 
-\beginitemize[leftmargin=*]
 - 4 points: your proficiency in using these weapons makes you extremely versatile, giving you the ability at the beginning of your round to choose whether to be defensive or offensive, increasing either your Attack Roll or Defense by 1 until the beginning of the next round. Does not cost Actions.
 - 5 points: by taking a -4 penalty to the Attack Roll on your first attack in the round, you gain +4 to Defense until the beginning of your next round.
 - 7 points: using a non-light double weapon does not incur the additional -3 penalty to the Attack Roll.
@@ -3165,13 +3117,10 @@ Great Double Axe, Double Flail, Two-bladed Sword, Urgrosh
 - 11 points: you strike whirlingly with your weapon. The first successful hit counts as two hits.
 - 16 points: each time you hit with a critical roll, you can make, without using Actions, a strike with the other end of the weapon. This Attack Roll cannot in turn cause criticals and has a -4 penalty to the Attack Roll.
 
-\enditemize
-
 ## Graceful Weapons
 
-Rapier, Scimitar, Scythe
+ Rapier, Scimitar, Scythe
 
-\beginitemize[leftmargin=*]
 - 4 points: your style resembles a dance a lot. You can use the value of Charisma or Dexterity for the Attack Roll.
 - 5 points: you can use your Entertain score instead of Weapon Proficiency in the Attack Roll.
 - 7 points: you know how to hit where it really hurts. The first Critical Hit adds an additional critical hit.
@@ -3179,26 +3128,21 @@ Rapier, Scimitar, Scythe
 - 11 points: using a Reaction Action, you can try to intercept the opponent's attacks, adding +2 to Defense until the beginning of your next round.
 - 16 points: your dance blocks the opponent in facing you. You force the opponent in melee with you to attack only you until the end of your next round. 1 Action.
 
-\enditemize
-
 ## Weapons of Death
 
-Light Pike, Heavy Pike, Scythe, Sickle
+ Light Pike, Heavy Pike, Scythe, Sickle
 
-\beginitemize[leftmargin=*]
 - 4 points: you can perform a Coup de Grace with the cost of 1 Action.
 - 5 points: the first critical hit you execute on the opponent adds an additional critical hit.
 - 7 points: increase the weapon's damage die by one step.
 - 9 points: the first critical hit you execute on the opponent adds 2 additional critical hits.
 - 11 points: increase the weapon's damage die by one step.
 - 16 points: increase the weapon's damage die by one step.
-\enditemize
 
 ## Stunning Weapons
 
-Truncheon, Spiked Gauntlet
+ Truncheon, Spiked Gauntlet
 
-\beginitemize[leftmargin=*]
 - 4 points: an unaware opponent, if hit with these weapons (during the surprise round), must make a Fortitude Saving Throw DC 15 or be Slowed 1/1r.
 - 5 points: for each Critical Hit, the opponent must make a Fortitude Saving Throw at DC 13 or be slowed 1/1r.
 - 7 points: double your Strength damage bonus. The Saving Throw for the ability at 4 points becomes 19.
@@ -3206,39 +3150,32 @@ Truncheon, Spiked Gauntlet
 - 11 points: your stunning weapon does 1d6 more non-lethal damage. The Saving Throw for the ability at 4 points becomes 23
 - 16 points: each time you hit an opponent with a critical damage, a companion in melee with that opponent can use a Reaction to make an attack against them.
 
-\enditemize
-
 ## Throwing Weapons
 
-One-handed Axe, Javelin, Trident, Sling, Dagger
+ One-handed Axe, Javelin, Trident, Sling, Dagger
 
-\beginitemize[leftmargin=*]
 - 4 points: you have become extremely accurate in throwing your weapon, gaining +1 to hit and +1 to damage.
 - 5 points: the first Critical Hit you execute on the opponent adds an additional critical hit.
 - 7 points: your skill allows you to have no downtime after throwing a weapon; you can instantly draw another without consuming actions.
 - 9 points: the first Attack Roll throws 2 weapons.
 - 11 points: reduce the penalty for range beyond standard by 6.
 - 16 points: you have become extremely accurate in throwing your weapon, gaining +4 to hit and +4 to damage.
-\enditemize
 
 ## Lethal Weapons
 
-Katana, Machete
+ Katana, Machete
 
-\beginitemize[leftmargin=*]
 - 4 points: against surprised opponents, add your Weapon Proficiency to damage.
 - 5 points: the first Critical Hit you execute on the opponent adds an additional Critical Hit.
 - 7 points: increase the weapon's damage die by one step. If this brings the weapon to have d8 as damage die, it also acquires EDX equal to 8. If the weapon already has EDX, this decreases by 1.
 - 9 points: the first Critical Hit you execute on the opponent adds two Critical Hits.
 - 11 points: improve EDX. If the weapon already has EDX, this decreases by 1.
 - 16 points: increase the weapon's damage die by one step.
-\enditemize
 
 ## Polearms
 
 Javelin, Trident, Halberd
 
-\beginitemize[leftmargin=*]
 - 4 points: if you make at least one critical hit with the Attack Roll, you can leave the weapon in the opponent's body, penalizing them with a -1 Dexterity. The weapon when removed causes one critical damage.
 - 5 points: you can make an opportunity attack against opponents who cross your melee zone using a Reaction.
 - 7 points: you can use the long weapon in melee within one meter without penalty. The damage from the ability at 4 points becomes equal to 2 critical damages.
@@ -3246,51 +3183,42 @@ Javelin, Trident, Halberd
 - 11 points: the range, if absent, becomes 3 meters; if present, you double it.
 - 16 points: using a Reaction, you can follow the opponent while maintaining the current melee distance. You cannot move more than your Movement.
 
-\enditemize
-
 ## Crossbows
 
 Light Crossbow, Heavy Crossbow, One-handed Crossbow
 
-\beginitemize[leftmargin=*]
-- 4 points: gain the \hyperlinkRapid ShotRapid Shot Feat (page \pagerefRapid Shot).
+- 4 points: gain the Rapid Shot Feat (page ).
 - 5 points: the first Critical Hit you execute on the opponent adds an additional critical hit.
 - 7 points: each Action you dedicate to aiming, up to a maximum of 2, grants you a +2 to hit.
 - 9 points: the first Critical Hit you execute on the opponent adds two additional critical hits; this does not stack with the advantage at point 5.
 - 11 points: reduce the penalty for shooting beyond standard range by 6.
 - 16 points: reduce the penalty for shooting beyond standard range by 6.
 
-\enditemize
-
 ## Lances
 
 Halberd, Urgrosh, Footman's Lance, Polearm Scythe, Lance
 
-\beginitemize[leftmargin=*]
 - 4 points: used against a charge or in a charge, provided it has the Countercharge ability, the additional critical damage does maximum value.
 - 5 points: you can also use it against opponents at a distance of 1 meter without penalty.
 - 7 points: used against a charge or in a charge, provided it has the Countercharge ability, it does an additional critical damage.
 - 9 points: you spin your weapon. Using 3 Actions, make a single Attack Roll at -5. Compare the roll with the Defense of all creatures in melee with you to determine if you've hit them.
 - 11 points: the reach of your lance becomes 3 meters.
 - 16 points: you use 2 Actions and make a single Attack Roll. If it hits, you cause 3 additional critical hits.
-\enditemize
 
 ## Spinning Balls
 
-Flail, Heavy Flail, Double Flail, Spiked Chain, Whip
+ Flail, Heavy Flail, Double Flail, Spiked Chain, Whip
 
-\beginitemize[leftmargin=*]
 - 4 points: if the Attack Roll is successful, you can make an additional Attack Roll (without consuming Actions) at -5 against an opponent in melee with you who is not the opponent already hit.
 - 5 points: if you hit the opponent twice in the round, the second Attack Roll generates an additional critical damage.
 - 7 points: the impact of your blows is such as to stun enemies. If you hit the opponent with a Critical Hit, they will be Slowed 1/1r.
 - 9 points: you can use an Immediate Action and use your weapon to try to deflect an Attack Roll directed at you onto a creature within melee range of the opponent. Make an Attack Roll; the maneuver succeeds only if it is higher than the Attack Roll you want to deflect.
 - 11 points: the precision and skill in spinning your weapon is such as to confuse the enemy's defense; you ignore the protection (Defense) given by the shield.
 - 16 points: you can use a Reaction Action and use your weapon to try to protect a creature in melee with you until the beginning of your next round. The creature gets +4 to Defense.
-\enditemize
 
 ## Empty Hand
 
-Punches and Kicks
+ Punches and Kicks
 
 You have trained your body to become the ultimate weapon. You are trained in using kicks and punches in an effective and lethal manner.
 
@@ -3300,22 +3228,18 @@ The Empty Hand List does not benefit from Critical Hit, except for the advantage
 
 The player can also decide to do non-lethal damage without incurring any penalty, and can apply the value of Strength or Dexterity to the damage as desired.
 
-\beginitemize[leftmargin=*]
 - 1 point: your punches do lethal damage (1d4). You can use the value of Strength or Dexterity for the Attack Roll and damage.
 - 4 points: Wisdom of the empty hand. You can use the value of Wisdom for hitting and Damage instead of Strength or Dexterity. The penalties for multiple attacks become -4 and not -5.
 - 5 points: your natural Defense score increases by 1 point.
 - 9 points: solitary blow. You use three Actions to deliver a single devastating blow; if the blow hits, it adds 2 additional critical hits.
 - 11 points: you get a bonus to hit and damage equal to twice the Ability Score used to determine this bonus.
 
-\enditemize
-
-Consult \hyperlinkequivalenzaarmimagicheVulnerability, Resistance, and Immunity (page \pagerefequivalenzaarmimagiche) to find out how magical your strike is.
+Consult Vulnerability, Resistance, and Immunity (page ) to find out how magical your strike is.
 
 ## Skull Crushers
 
 Flail, War Maul, War Hammer, Light Mace, Flanged Mace, Spiked Mace
 
-\beginitemize[leftmargin=*]
 - 4 points: you have become so skilled that you can control the force of your blows; you can do non-lethal damage without penalty to hit.
 
 You can choose to reduce your Attack Roll by 4 to increase damage by 8 (not cumulative with Power Attack).
@@ -3325,11 +3249,9 @@ You can choose to reduce your Attack Roll by 4 to increase damage by 8 (not cumu
 - 11 points: the advantage at 5 points becomes two critical hits.
 - 16 points: using a Reaction, each time you hit with a Critical Hit, you can make another Attack Roll with the same score against a different opponent provided they are within melee range.
 
-\enditemize
-
 ## Shields
 
-Light, Medium, Heavy Shields
+ Light, Medium, Heavy Shields
 
 You are a master in the use of shields, including as weapons.
 
@@ -3338,7 +3260,6 @@ You have no penalty to hit with the shield; for you, the shield is not an improv
 
 Your technique effectively mixes defense and attack. You can throw your shield with a range of 6 meters.
 
-\beginitemize[leftmargin=*]
 - 1 point: you are proficient in all types of shields. You do not have the Strength 1 limit constraint on Heavy Shields.
 - 2 points: the Defense bonus when using the shield increases by 1, and every 4 times you take this Weapon List (6,10,14,18..), you don't use Actions to restore the shield in Defense after making an attack with it.
 - 3 points: the Magic Skill penalty given by the shield decreases by one die
@@ -3351,13 +3272,10 @@ Your technique effectively mixes defense and attack. You can throw your shield w
 
 It is not possible to apply these bonuses if using more than one shield.
 
-\enditemize
-
 ## Axes and Hatchets
 
-One-handed Axe, Battle Axe, Hammer Axe, Great Double Axe, Sornelian natural attacks
+ One-handed Axe, Battle Axe, Hammer Axe, Great Double Axe, Sornelian natural attacks
 
-\beginitemize[leftmargin=*]
 - 4 points: the fury of your attacks is such that you gain a +2 to damage on the blow.
 - 5 points: if you kill a creature with a critical hit, the excess damage, if the Attack Roll is sufficient, is taken by another creature in melee with you.
 - 7 points: the wounds you inflict are so deep that they cause Bleeding. Each of your successful attacks increases bleeding by 1 up to a maximum of Bleeding 5.
@@ -3365,13 +3283,10 @@ One-handed Axe, Battle Axe, Hammer Axe, Great Double Axe, Sornelian natural atta
 - 11 points: the wounds you inflict are so deep that they cause a lot of Bleeding. The maximum Bleeding value rises to 15.
 - 16 points: you consume 3 Actions, make a single Attack Roll that you compare against all creatures in a cone equal to your movement to see if you've hit them. At the end of the attack, you are at the bottom of the cone.
 
-\enditemize
-
 ## Swords
 
-Short Sword, Long Sword, Two-handed Greatsword, Bastard Sword, Two-bladed Sword, Broadsword, Two-bladed Sword, Estoc
+ Short Sword, Long Sword, Two-handed Greatsword, Bastard Sword, Two-bladed Sword, Broadsword, Two-bladed Sword, Estoc
 
-\beginitemize[leftmargin=*]
 - 4 points: your mastery in sword technique gives you +1 to damage and Attack Roll.
 - 5 points: the first Critical Hit you execute on the opponent adds an additional critical hit.
 - 7 points: your mastery in sword technique gives you +2 to damage and Attack Roll.
@@ -3381,13 +3296,10 @@ Short Sword, Long Sword, Two-handed Greatsword, Bastard Sword, Two-bladed Sword,
 
 The hand that is not holding the sword must be free or used on the weapon.
 
-\enditemize
-
 ## Swords and Shields
 
-Short Sword, Long Sword, Broadsword, Small Shield, Medium Shield
+ Short Sword, Long Sword, Broadsword, Small Shield, Medium Shield
 
-\beginitemize[leftmargin=*]
 - 4 points: your mastery in sword and shield technique gives you +1 to Defense and Attack Roll.
 - 5 points: if you hit with two consecutive strikes with the sword, you can make an Attack Roll with the shield, without further accumulation of penalties from multi-attack or improvised attack, by consuming a Reaction.
 - 7 points: your mastery in sword and shield technique gives you +2 to Defense and Attack Roll.
@@ -3395,13 +3307,11 @@ Short Sword, Long Sword, Broadsword, Small Shield, Medium Shield
 - 11 points: your sword's damage die increases by one category, EDX is lowered by 1.
 - 16 points: you add the Shield's Defense value to Reflex Saving Throws.
 
-\enditemize
-
 The character must hold the sword in one hand and the shield in the other.
 
 ## Simple Weapons
 
-Dagger, Light Mace, Spiked Mace, Staff, Crossbow (Light), Javelin.
+ Dagger, Light Mace, Spiked Mace, Staff, Crossbow (Light), Javelin.
 
 This subdivision is also selectable by those who have not assigned points to Weapon Proficiency. This Weapon List does not grant specific bonuses.
 
@@ -3410,16 +3320,11 @@ This subdivision is also selectable by those who have not assigned points to Wea
 When a character uses a weapon present in multiple known Weapon Lists, they can apply only one combat technique (one Weapon List) per opponent, and do not stack the advantages of any other lists.
 
 Using 2 Actions, they can concentrate and switch to using the bonuses derived from the application of a different Weapon List.
-
-\endmulticols
-
 ---
 
 # Feats
 
-\beginchangemargin\beginenfasiMartyrdom is the only way for a man to become famous if he has no ability (George Bernard Shaw, The Devil's Disciple) \endenfasi\endchangemargin
-
-\beginmulticols
+{Martyrdom is the only way for a man to become famous if he has no ability (George Bernard Shaw, The Devil's Disciple)} 
 
 Feats are peculiar abilities, the result of training or special gifts. Feats always have a practical effect.
 
@@ -3459,12 +3364,9 @@ Remember to also mark the bonuses related to Saving Throws. Typically, a concret
 ## List of Feats
 
 ## Animalia
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Follower or Devotee of Efrem or Shayalia, Magic Proficiency 2.
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells
-\enddescription
 
 You gain the ability to transform into a known creature. Cost 2 Actions.
 
@@ -3539,36 +3441,27 @@ From the new form, you acquire characteristics and abilities, such as senses, mo
 When you are transformed, you can channel your Magic Points to improve the transformation; for each Magic Point used, you get a +1 to Attack Roll, damage with attacks, Defense, and Saving Throws. This ability must be declared at the beginning of the round as an Immediate Action that lasts until the beginning of your next round. You cannot use more Magic Points at once than the number of times you have taken the Animalia Feat.
 
 ## Archer on sauromount
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +1 Reflex, +1 Fortitude
 - **Ability Score**:: Dexterity or Wisdom
-\enddescription
 
 The penalty for shooting arrows from a sauromount decreases by 2 each time you take this Feat.
 
 The standard penalties are -4 and -6 depending on whether you trot (movement x2) or gallop (movement x3)
 
 ## Armed
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Strength 3, Weapon Proficiency 1
 - **Saving Throws**:: +2 Fortitude
 - **Ability Score**:: Strength or Constitution
-\enddescription
 
 The **first time** you take this Feat, when you use a weapon that is too large for your size, the attack penalty becomes -2.
 
 The **second time** you take this Feat, requirement Weapon Proficiency 6, you have no penalty when using a weapon one size larger than your own.
 
 ## Armor of the Devoted
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Single Trait value in common with Patron 4, being a Devotee or Follower
 - **Saving Throws**:: +2 Will, +1 Reflex
 - **Ability Score**:: Constitution or Ability modifier for spells
-\enddescription
 
 The **first time** you take this Ability, constant training with your armor reduces the Magic Check penalty by 2 when wearing light armor.
 
@@ -3579,12 +3472,9 @@ The **third time** you take this Ability, single Trait 8 requirement, wearing li
 The **fourth time** you take this Ability, single Trait 12 requirement, Magic Checks for wearing armor are only mandatory if you wear heavy armor and you reduce the penalty by 12.
 
 ## Armor of the Enchanted Mountain
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Empty Fist weapon list 1, Weapon Proficiency 1, Constitution 2, Wisdom 1
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Constitution or Wisdom
-\enddescription
 
 Constant training in spirit and body allows you to harden your skin and make it more difficult to wound. To benefit from these bonuses, you must not wear armor or shields or items that improve Defense. The listed capabilities do not stack with the Silver Crane Feat.
 
@@ -3599,12 +3489,9 @@ The **fourth time** you take this Feat, requirement Empty Fist 8, you acquire da
 The **fifth time** you take this Feat, requirement Empty Fist 13, you acquire damage reduction (DR) of 5/-
 
 ## Arrow Called, Arrow Delivered
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 2
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 It's just a matter of a moment before you light up!
 
@@ -3613,24 +3500,18 @@ You can shoot 1 arrow/bolt, once per day, as a Reaction, without penalties to hi
 The bow/crossbow must already be in hand.
 
 ## Black Siphon
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic proficiency 6, Follower or Devotee of Tazher, 6 common Trait points
 - **Saving Throws**:: +1 Fortitude, +2 Will
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 When you cast a spell that has instantaneous duration and causes damage to Hit Points to one or more subjects, by increasing by half (rounded up) the Magic Points used in the spell, you recover an amount of Hit Points equal to half of what the creature that lost the most has lost.
 
 The casting time of the spell increases to 3 Actions.
 
 ## Blade Dance
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon List: Graceful Weapons at 2, Dexterity or Charisma 1, Entertain 1
 - **Saving Throws**:: +2 Reflex, +1 Fortitude
 - **Ability Score**:: Charisma or Dexterity
-\enddescription
 
 The **first time** you take this Feat, when using Graceful Weapons, you can replace only the damage given by Strength in melee attacks with half the value of Charisma or Dexterity.
 
@@ -3641,12 +3522,9 @@ The **third time**, requirement Graceful Weapons 7, Entertain 5, you take this F
 The second and third advantages are not cumulative.
 
 ## Blind Fighting
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Awareness 2
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Dexterity or Wisdom
-\enddescription
 
 The **first time** you take this Feat, an opponent with light cover gets no bonus to Defense, with medium cover has a +2 to Defense, with full cover has a +6 to Defense.
 
@@ -3661,24 +3539,18 @@ The penalty to Attack Roll against invisible creatures is -2.
 *Zatoichi level*, the **third time** you take this Feat, requirement Awareness 5, in melee an invisible creature has no advantage against you nor do you have a penalty against it.
 
 ## Blockhead
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Crossbow List 4
 - **Saving Throws**:: +2 Fortitude
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 You can impart a deadly effect to your projectiles.
 
 Your crossbow bolt increases by one damage size.
 
 ## Bloodhound
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Intelligence 1, Wisdom 1, Weapon Proficiency 1
 - **Saving Throws**:: +1 Reflex, +1 Will
 - **Ability Score**:: Wisdom or Intelligence
-\enddescription
 
 You have a natural talent for tracking people
 
@@ -3691,12 +3563,9 @@ The **third** time you take this Feat, requirement Weapon Proficiency 16, Wisdom
 The bonus can be used for Attack Rolls, Saving Throws caused by the opponent, and Basic skill checks, but not for damage.
 
 ## Brew Potions
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Wisdom or Intelligence
-\enddescription
 
 You are more than competent in brewing potions.
 
@@ -3705,39 +3574,30 @@ The **first time** you take this Feat, you gain a bonus of +1d6 on Herbalism Kno
 The **second time** you take this Feat, the time to prepare potions/poisons is halved and in case of Critical Failure, you are not exposed to the product. By dedicating one hour per day, you can create a generic Healing Potion or a Weakening one with the herbs you find around. This potion *expires* at dawn the day after creation.
 
 ## Cautious Caster
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 8
 - **Saving Throws**:: +2 Reflex, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 When a hostile creature enters a space within 1 meter of you for the first time, you can use a Reaction to cast a cantrip, within 2 Actions, without enhancements or Magic Check.
 
 This Feat does not affect the fact that you are still Distracted in casting a subsequent spell.
 
 ## Channel Energy
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Laying on Hands, Magic Proficiency 1, Common Traits 4
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Wisdom or Constitution
-\enddescription
 
 You are able to use the energy of Laying on Hands to create an energy aura around you.
 Through Laying on Hands, you create an instantaneous aura within a radius of 3 meters around you that heals or harms 5 Hit Points to all creatures present for every 2 uses consumed.
 
 Each time you take this Feat, beyond the first, you increase the radius by 1 meter and can exclude one creature from the effect of the aura.
 
-The energy comes from your body and influences yourself and the creatures around you. Reflex Saving Throw DC 10 + sum of Traits in common with the Patron + Wisdom to avoid the effect. 2 Actions.
+The energy comes from your body and influences yourself and the creatures around you. Reflex Saving Throw DC 10 + sum of Traits in common with the Patron + Wisdom to avoid the effect.  2 Actions.
 
 ## Press On
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Strength or Dexterity
-\enddescription
 
 The **first time** you take this Feat, if you eliminate an opponent with your last Attack Action in melee, you can make a bonus attack action.
 
@@ -3750,22 +3610,16 @@ The **second time**, requirements Press On, Weapon Proficiency 6, if with the bo
 Each bonus attack beyond the first suffers a cumulative penalty: -2 to hit and -1 to damage.
 
 ## Clinical Eye
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 3
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Strength
-\enddescription
 
 You are able to do critical damage to creatures normally immune to criticals.
 
 ## Combat Caster
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 The **first time** you take this Feat, when you are Distracted you can ignore one die in the Magic Check.
 
@@ -3773,15 +3627,12 @@ The **second time**, requirement Magic Proficiency 6, that you take this Feat, w
 
 The **third time**, requirement Magic Proficiency 12, that you take this Feat, when you are Distracted, you can ignore an additional die in the Magic Check.
 
-This Feat can be used in the Magic Check required by \hyperlinkWarrior of MagicWarrior of Magic. The indicated capabilities are cumulative.
+This Feat can be used in the Magic Check required by Warrior of Magic. The indicated capabilities are cumulative.
 
 ## Coordinated Damage
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 6, Wisdom 2
 - **Saving Throws**:: +2 Will
 - **Ability Score**:: Charisma or Intelligence
-\enddescription
 
 Your experience in managing allies allows you to maximize the effectiveness of attacks.
 
@@ -3792,12 +3643,9 @@ The **second time** you take this Feat, requirement Weapon Proficiency 8, Intell
 The Attack Rolls must hit in order to apply the damage to the other opponent.
 
 ## Create Magic Items
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 6
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 The **first time** you take this Feat, through this Feat the spellcaster is able to infuse a spell up to level 3 into a magic item.
 
@@ -3808,22 +3656,16 @@ The **third time** you take this Feat, requirement Magic Proficiency 16, the spe
 The **fourth time** you take this Feat, requirement Magic Proficiency 18, the spellcaster is able to infuse a spell up to level 9 into a magic item.
 
 ## Dancing Scourge
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1, using a weapon from the Rolling Balls list
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Strength or Charisma
-\enddescription
 
 When you use your weapon from the Rolling Balls list, you have a bonus of +1 to Attack Roll and +1 to Defense.
 
 ## Daredevil
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency +2, Dexterity 1
 - **Saving Throws**:: +2 Reflex, +1 Fortitude
 - **Ability Score**:: Dexterity or Constitution
-\enddescription
 
 You like to throw yourself into the fray, especially if there are dangers! The bonuses are cumulative.
 
@@ -3832,12 +3674,9 @@ The **first time** you take this Feat, you have a +1 to Attack Roll in melee and
 The **second time** you take this Feat, you have a +2 to Attack Roll in melee and to Defense if you are in melee with 2 or more opponents.
 
 ## Daughter of Shayalia
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Devotee or Follower of Shayalia
 - **Saving Throws**:: +1 Fortitude, +2 Will
 - **Ability Score**:: Ability modifier for spells or Charisma
-\enddescription
 
 You have a deep and instinctive connection with the natural world.
 
@@ -3850,44 +3689,32 @@ The **third time** you take this Feat, requirement sum of common Traits 12, you 
 The **fourth time** you take this Feat, requirement Animalia taken 4 times, you can transform using Animalia into any creature as long as it is not a fiend or dragon.
 
 ## Deadly Strike
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 5
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Wisdom or Strength
-\enddescription
 
 Make the Attack Roll with a penalty of -1d6; if you hit, you cause 2 critical damages. Subsequent Attack Rolls start at -10 to hit.
 
 ## Debilitating Strike
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Sneak Attack 3, Weapon Proficiency 12
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Intelligence or Dexterity
-\enddescription
 
 Debilitating Strike is an advanced form of sneak attack. Each Debilitating Strike lowers Strength or Dexterity (player's choice) by how many times you have taken Sneak Attack.
 
 The opponent is allowed a Fortitude Saving Throw with DC equal to the Attack Roll. You cause the additional damage of the Sneak Attack or the loss of ability points.
 
 ## Decipher Magical Writings
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Ability modifier for spells or Wisdom
-\enddescription
 
 Has a bonus of +1d6 in understanding the content of a scroll and in casting the spell contained. The bonus also applies to the check to copy a spell into your Book of Magic.
 
 ## Defend Mount
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Ride 1
 - **Saving Throws**:: +1 Fortitude, +1 Reflex
 - **Ability Score**:: Dexterity or Wisdom
-\enddescription
 
 Whenever your mount is hit, you can make a Ride check to negate the hit.
 
@@ -3896,22 +3723,16 @@ Your Ride check must be greater than the opponent's Attack Roll.
 This Feat can only be used once per round, for a single attack, and costs the Reaction.
 
 ## Double Portion
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Two weapon Fighting, Weapon Proficiency 4
 - **Saving Throws**:: +2 Fortitude, +1 Reflex
 - **Ability Score**:: Strength or Constitution
-\enddescription
 
 Constant training with two weapons allows you to apply the damage bonus due to Strength fully to the off-hand weapon as well.
 
 ## Elemental Form
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Follower or Devotee of Erondil, Gaya, Efrem, or Shayalia. At least 3 spells from 2 different Elemental Magic Lists, Magic Proficiency 6
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Ability modifier for spells or Constitution
-\enddescription
 
 When you transform with the Animalia Feat, choose an element from the learned spells present in an Elemental Magic List.
 
@@ -3924,12 +3745,9 @@ The **third time** you take this Feat, requirement Magic Proficiency 14, your at
 If you are a Devotee or Follower of Gaya or Erondil, it is not necessary to transform into an animal; the damage type applies to your melee attacks.
 
 ## Elementalist
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 3, At least 4 spells from Elemental Magic List
 - **Saving Throws**:: +1 Will, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells or Constitution
-\enddescription
 
 The **first time** you take this Feat, choose a type of Elemental Energy: Fire, Electricity, Cold, Sound.
 
@@ -3939,18 +3757,15 @@ The casting time of the spell increases by 1 Action; if the total casting time e
 The **second time** you take this Feat, requirement Magic Proficiency 6, choose a new type of Energy. When making the substitution, you can choose between the available energy types. You no longer have the penalty to the spell's casting time.
 
 ## Expert
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Related ability score at least -1
 - **Saving Throws**:: +1 to two Saving Throws of your choice.
 - **Ability Score**:: choice
-\enddescription
 
 You are an expert in a subject.
 
 The **first time** you take this Feat, you gain a +1 to checks on a basic Skill of your choice.
 
-The **second time** you take this Feat, add +2 to the check. You can take 10 on the check by taking 5 rounds instead of 10 (see page \pagerefprendere10).
+The **second time** you take this Feat, add +2 to the check. You can take 10 on the check by taking 5 rounds instead of 10 (see page ).
 
 The **third time** you take this Feat, add 1d6 to the check. You can take 14 on the check by taking 5 minutes instead of 10.
 
@@ -3958,39 +3773,30 @@ The **fourth time** you take this Feat, consider the total of the dice rolled as
 
 The bonuses are cumulative if always referring to the same Skill.
 
-Not usable on Awareness (see \hyperlinkPercettivoPerceptive, page \pagerefPercettivo).
+Not usable on Awareness (see Perceptive, page ).
 
 ## Extended Battery
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1, Magic Adept
 - **Saving Throws**:: + 1 Fortitude, +1 Will
 - **Ability Score**:: Ability modifier for spells
-\enddescription
 
 You can better withstand the stress of casting spells.
 
 When you make a Magic Check and achieve at least one Critical Magic Success, the cost of the spell decreases by one point, with a minimum cost of 1.
 
 ## Eyes of Magic
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1
 - **Saving Throws**:: +1 Will, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells or Charisma
-\enddescription
 
 The **first time** you take this Feat, if you can see it, you also know if it's magical. It costs one Action to activate magical sight and lasts one round.
 
 The **second time**, requirement Magic Proficiency 1, that you take the Feat, activating magical sight costs a Reaction.
 
 ## Faithful
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1, Sum of common Traits 2, being a Devotee
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells or Wisdom
-\enddescription
 
 Your connection with the Patron is strong and energetic. You increase your Magic Points by 3 points.
 
@@ -3999,12 +3805,9 @@ This Feat can be taken multiple times, and the total must be equal to or less th
 This Feat does not stack with the Magic Battery Feat.
 
 ## Fast Step
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Dexterity 1
 - **Saving Throws**:: +2 Reflex, +1 Fortitude
 - **Ability Score**:: Dexterity or Constitution
-\enddescription
 
 Your step is naturally quick.
 If you have movement 6m, you step at movement 7m; if you have movement 9m, you step at movement 10m.
@@ -4012,24 +3815,18 @@ If you have movement 6m, you step at movement 7m; if you have movement 9m, you s
 Each additional **two times** you take the Feat, your movement increases by 1 meter per Movement Action, up to a maximum of +3 meters per round.
 
 ## Feign Death
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Constitution 0
 - **Saving Throws**:: +1 Will, +2 Fortitude
 - **Ability Score**:: Constitution or Wisdom
-\enddescription
 
 As a Reaction Action, you are able to fall to the ground (collapse!) dead. Only a First Aid check DC 20 can reveal that you are alive.
 
 The effect lasts at most 2 minutes. Feigning death cannot be repeated at intervals of less than 10 minutes apart.
 
 ## Ferocity
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Constitution or Strength
-\enddescription
 
 Your rage is such that it temporarily defeats death.
 
@@ -4046,54 +3843,39 @@ The **fourth time** you take this Feat, requirement Weapon Proficiency 11, you c
 The player can choose only one level of Ferocity to use in the encounter (2, 3, 4).
 
 ## First Blood
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Intelligence or Charisma
-\enddescription
 
 The first Attack Roll of the day has a bonus of +1d6 and causes a critical hit if it hits.
 
 ## Focused
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 2
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Ability modifier for spells
-\enddescription
 
 Choose a Magic List; the DC of your spells' Saving Throws in that list increases by 1.
 
 This Feat can be taken multiple times on the same Magic List or on other lists, and the total must be equal to or less than MP/4.
 
 ## Focused Weapon
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +1 Reflex, +1 Fortitude
 - **Ability Score**:: Strength or Dexterity
-\enddescription
 
 Choose a weapon in a Weapon List you know. You gain a +1 to Initiative and Attack Roll when using this weapon.
 
 ## Forged in Fury
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 5
 - **Saving Throws**:: +1 Fortitude, +1 Reflex
 - **Ability Score**:: Strength or Constitution
-\enddescription
 
 When you make a critical hit with a melee attack is considered that you have hit by a margin 2 more for counting critical hit.
 
 ## Fury
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Strength or Constitution
-\enddescription
 
 Your fighting style is represented by blind murderous rage.
 
@@ -4102,12 +3884,9 @@ Add +1d6 to damage for each successful melee attack and your opponents gain +1d6
 You can decide to activate this Feat round by round. It costs 1 Immediate Action and lasts until the beginning of your next round.
 
 ## Juggler
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Dexterity 2
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Charisma
-\enddescription
 
 You have a natural talent for handling objects.
 
@@ -4116,12 +3895,9 @@ Any Acrobatics check that involves handling objects or balance has a +2 Bonus.
 You can throw a second dagger as an Immediate Action following an Attack action to throw a dagger; this dagger has a -3 penalty to the Attack Roll and does not accumulate multi-attack penalties.
 
 ## Accelerated Healing
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Constitution 0
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Constitution
-\enddescription
 
 Your natural healing processes are extremely efficient. The abilities stack.
 
@@ -4132,22 +3908,16 @@ The **second time**, requirement Constitution 1, that you take this Feat, at the
 The **third time**, requirement Constitution 2, that you take this Feat, after a night's rest you recover double the Hit Points.
 
 ## Hard to Kill
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: -
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Constitution or Wisdom
-\enddescription
 
 You are particularly stubborn about not wanting to die. The character increases by 3 Hit Points the tolerance before dying, meaning they die at 13+CON*2.
 
 ## Hawk Eye
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 3
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 The **first time** you take this Feat, projectiles, arrows, or darts launched between the first and second range increment have no penalty to the Attack Roll.
 
@@ -4156,12 +3926,9 @@ The **second time** you take this Feat, the penalty for shots within the third r
 The **third time** you take this Feat, you are able to extend your shot even further and take it to a fifth increment with a -12 penalty to hit. You have no penalties within the first 3 increments while you have -6 to hit between the third and fourth increment.
 
 ## Healer
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Wisdom 1
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Wisdom
-\enddescription
 
 You have a natural talent for healing people.
 
@@ -4170,32 +3937,23 @@ The **first time** you take this Feat, you have +4 on First Aid checks.
 The **second time** you take this Feat, requirement sum of traits in common with Patron Ledyal 8, every time you use a healing spell you recover 1 Hit Point and the healed creature gains +1d6 Hit Points more.
 
 ## Hit and Run
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Dexterity 1, Weapon Proficiency 1
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 If in the round you execute at least one attack, these have a base penalty of -5, and you can perform an additional Movement Action. It is not possible to execute more than one bonus Movement Action in this way. It costs an Immediate Action.
 
 ## I said FALL!
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 4
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Strength or Constitution
-\enddescription
 
 If you hit an opponent 3 times within 2 rounds, they must make a Fortitude Saving Throw with a DC equal to the Attack Roll of the last attack or fall prone. The Saving Throw has a 1d6 modifier for each size difference.
 
 ## Human Mountain
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Constitution 1
 - **Saving Throws**:: +3 Fortitude
 - **Ability Score**:: Constitution or Strength
-\enddescription
 
 Perhaps once you were frail and weak, now you are a mountain of muscle.
 
@@ -4210,12 +3968,9 @@ The bonuses are cumulative and retroactive to previous levels, except for the in
 The **fourth time**, requisite Constitution 3, you take this Feat, you increase by one size (S > M > L).
 
 ## Iaijutsu
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 2
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Intelligence or Dexterity
-\enddescription
 
 The **first time** you take this Feat, you take a step of one meter, attack once, and return to where you were, all in less than the blink of an eye.
 
@@ -4226,12 +3981,9 @@ The **third time**, requirement WP 12, that you take this Feat, you can move you
 Consumes two Actions.
 
 ## Poison Immunity
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Constitution 1
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Constitution or Wisdom
-\enddescription
 
 The **first time** you take this Feat, the body gets used to poisons, the character gains a +2 Saving Throw against poisons.
 
@@ -4240,33 +3992,24 @@ The **second time** you take the Feat, you become immune to natural poisons. You
 The **third time** you have a +1d6 to Saving Throws against magical poisons and to endure the effects of toxic fumes (but you can still suffocate).
 
 ## Improved Initiative
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Intelligence or Dexterity 1
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 Increase initiative by +1. This Feat can be taken up to 2 times and the bonus is cumulative.
 
 ## Improvise
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +1 Fortitude, +1 Reflex
 - **Ability Score**:: Dexterity or Wisdom
-\enddescription
 
 Any object that might be defined as an improvised weapon is not improvised for you.
-You do not suffer penalties to hit when using an \hyperlinkarmaimprovvisataimprovised weapon. You gain a +1 to damage when using an improvised weapon.
+You do not suffer penalties to hit when using an improvised weapon. You gain a +1 to damage when using an improvised weapon.
 
 ## Infuriate
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 2 and Charisma or Strength 2
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Strength or Charisma
-\enddescription
 
 You spend 2 Actions defaming and railing against an opponent.
 
@@ -4275,12 +4018,9 @@ The target must make an opposed Will Saving Throw check against your Entertain o
 The opponent may not understand your language but must have Intelligence equal to -2 or higher.
 
 ## Inspire Courage
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Charisma 2, Entertain 1
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Charisma or Wisdom
-\enddescription
 
 Through your performance - singing, dancing, oratory, or artistic in general - you are able to inspire courage in companions who can hear or see you, within a radius of 6 meters.
 
@@ -4297,12 +4037,9 @@ You can maintain the Feat for a number of rounds, even non-consecutive, equal to
 Creatures must continue to see/hear your performance to remain influenced.
 
 ## Instill Fear
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Charisma 2
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Charisma or Constitution
-\enddescription
 
 Through your performance - singing, dancing, oratory... you are able to Instill Fear in opponents who can hear you, within a radius of 6 meters.
 
@@ -4317,12 +4054,9 @@ The opponent is allowed a Will Saving Throw DC equal to 10+CHA+Entertain score. 
 Activating, maintaining, or changing the effect of the Feat requires 2 Actions and lasts until the beginning of your next round. You can maintain the Feat for a number of rounds, even non-consecutive, equal to Entertain score x 3 per day. Creatures must continue to see/hear the performance to remain influenced.
 
 ## Infuse Magical Energy
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1, Magic Proficiency 2
 - **Saving Throws**:: +1 Reflex, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 You know how to manipulate magical energies instinctively and infuse them into weapons. It costs 1 Action to infuse magic into the weapon.
 
@@ -4335,12 +4069,9 @@ The **second time** you take this Feat, requirement Magic Proficiency 4, you can
 The **third time** you take this Feat, requirement Magic Proficiency 8, you can use six Magic Points and a weapon you come into contact with becomes a +3 weapon for 6 rounds; if it's already enchanted, it acquires an additional bonus of +2 up to a maximum of +4.
 
 ## Superior Magical Energy Infusion
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 4, Magic Proficiency 6
 - **Saving Throws**:: +1 Reflex, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 You know how to infuse the weapon with magical energy to make it acquire fantastic capabilities.
 
@@ -4357,24 +4088,18 @@ The **third time** you take this Feat, using three Magic Points per round, you c
 The abilities are not cumulative; you must choose which to apply round by round.
 
 ## Instinctive Knowledge
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Knowledge 1
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Wisdom or Intelligence
-\enddescription
 
 You never forget an enemy.
 
-You have an instinctive ability to remember and evaluate an enemy. When you take this Feat, you can make a \hyperlinkriconoscereimostriRecognizing a Monster check (page \pagerefriconoscereimostri) using a Reaction.
+You have an instinctive ability to remember and evaluate an enemy. When you take this Feat, you can make a Recognizing a Monster check (page ) using a Reaction.
 
 ## Iron Fist
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Empty Fist List 3
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Strength or Dexterity
-\enddescription
 
 Your unarmed combat technique is extremely precise and powerful.
 
@@ -4393,12 +4118,9 @@ The **sixth time** you take this Feat, Requirement Empty Fist 18. Damage +2, Att
 The indicated bonuses are cumulative.
 
 ## Iron Will
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Wisdom 0
 - **Saving Throws**:: none
 - **Ability Score**:: Wisdom or Charisma
-\enddescription
 
 Over time, you have trained your will to resist any weakness and fear.
 
@@ -4408,12 +4130,10 @@ The **fourth time** you take this Feat, you can decide to automatically succeed 
 
 ## My Death Your Death
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1, Strength 1
 
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Charisma or Strength
-\enddescription
 
 For each single opponent in combat, you can make the first hit of the encounter cause additional damage equal to twice your Weapon Proficiency. The opponent gains a bonus to Attack Roll and damage equal to the value of your Weapon Proficiency on the first Attack Roll made before the end of the next round.
 
@@ -4421,21 +4141,17 @@ The Feat must be declared before the Attack Roll and lasts until the beginning o
 
 ## My Head is Harder
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Strength or Constitution
-\enddescription
 
 Your weapon, present in the Skull Crusher Weapons List, does +2 damage
 
 ## Laying on Hands
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1, Common Traits 3, being Devoted or Follower
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Charisma or Wisdom
-\enddescription
 
 If your Traits are in common with a positive Patron, you can channel healing energy (healing/damaging effect on undead), if they are in common with a neutral or evil Patron, you can channel negative energy (damaging/healing effect on undead).
 
@@ -4467,11 +4183,9 @@ Fortitude Saving Throw DC 10 + sum of Traits in common with the Patron + Wisdom 
 
 ## Lightning Reflexes
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Dexterity 1
 - **Saving Throws**:: none
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 Over time you have trained your reflexes to dodge and anticipate any obstacle. The bonus is cumulative, +2 the **first time**, +1 the **second**, +1 the **third** to Reflex Saving Throws.
 
@@ -4479,11 +4193,9 @@ The **fourth time** you take this Feat, you can automatically succeed on a Refle
 
 ## Loaded Dice
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 6
 - **Saving Throws**:: +1 Fortitude, +1 Reflex
 - **Ability Score**:: Wisdom or Charisma
-\enddescription
 
 The **first time** you take this Feat, you can increase by 1, up to a value of 6, one die in the Magic Check.
 
@@ -4491,11 +4203,9 @@ The **second time** you take this Feat, requirement Magic Proficiency 12, you ca
 
 ## Lucky
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: none
 - **Saving Throws**:: +1 Fortitude, +1 Reflex
 - **Ability Score**:: Charisma or Dexterity
-\enddescription
 
 Once per day, you can make the Narrator reroll 1d6 of a check (Attack Rolls, Skill Checks, Saving Throws) and take the lower value between the two rolls.
 
@@ -4503,11 +4213,9 @@ This Feat can be declared even after the dice have been rolled.
 
 ## Magic Adept
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1
 - **Saving Throws**:: +1 to two Saving Throws of your choice.
 - **Ability Score**:: Ability modifier for spells
-\enddescription
 
 Through this Feat you deepen your ability to cast spells.
 
@@ -4519,11 +4227,9 @@ This Feat can be taken multiple times as long as it is less than MP/2.
 
 ## Magic Battery
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 3
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells
-\enddescription
 
 You have a particular connection with the magic that permeates the Earth.
 
@@ -4533,31 +4239,25 @@ This Feat can be taken multiple times, and the total must be equal to or less th
 
 ## Magical Roots
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 While you are affected by one of your spells, using an Action your weapon gains a +1 to hit and damage and is considered a magic weapon until the end of the round.
 
 ## Mental Wall
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Wisdom +1
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells or Wisdom
-\enddescription
 
 Your mind is trained against those who want to influence it. Each time you take this Feat, you gain +1 to Saving Throws against spells from the Enchantment Magic List.
 
 ## Mighty Blows
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +2 Fortitude
 - **Ability Score**:: Strength or Constitution
-\enddescription
 
 Your style emphasizes powerful blows.
 
@@ -4565,11 +4265,9 @@ You gain a +1 to damage with a Weapon List.
 
 ## My Skin
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +3 Fortitude
 - **Ability Score**:: Constitution or Strength
-\enddescription
 
 You have an almost symbiotic relationship with your armor.
 
@@ -4579,11 +4277,9 @@ The **second time** you take this Feat, requirement Weapon Proficiency 6, the De
 
 ## One Arm, One Weapon
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 2
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Strength or Constitution
-\enddescription
 
 Choose a Weapon List. The Strength damage applied by weapons from that list increases by 1.
 
@@ -4593,11 +4289,9 @@ If you take this Feat **4 times** on the same Weapon List, the damage bonus is r
 
 ## One Belief
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 2
 - **Saving Throws**:: +1 Will, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells
-\enddescription
 
 The character dedicates their life to the study and perfection of a single Magic List.
 
@@ -4617,29 +4311,23 @@ The **sixth time** you take this Feat, requirement Magic Proficiency 20, in the 
 
 **Rules**:
 
-\beginitemize[leftmargin=*]
 - Each time the Feat is taken, after the first, you must select two new *opposed* Magic Lists, and the maximum level of castable spells for all *opposed* Magic Lists decreases by 2. The Universal Magic List cannot be chosen among the *opposed* ones.
-- The *One Belief* Feat cannot be taken together with: \hyperlinkfigliounicoOnly Child, \hyperlinkmagiepotentiPowerful Magics, \hyperlinkSpecialistSpecialist.
-- If you use the *One Belief* Feat, you cannot use the \hyperlinkabilitadilistaList Abilities (page \pagerefabilitadilista).
-\enditemize
+- The *One Belief* Feat cannot be taken together with: Only Child, Powerful Magics, Specialist.
+- If you use the *One Belief* Feat, you cannot use the List Abilities (page ).
 
 ## One Body, One Mind, One Spirit
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: none
-- **Saving Throws**:: +1 of choice
+- **Saving Throws**::  +1 of choice
 - **Ability Score**:: none
-\enddescription
 
 Assign one point to Weapon Proficiency or Magic Proficiency. This Feat can be taken at most 2 times.
 
 ## One Hit One Kill
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1, Magic Adept 1
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 The **first time** you take this Feat, you gain a +1 to Attack Rolls for spells that require an Attack Roll.
 
@@ -4647,21 +4335,17 @@ The **second time**, the bonus to Attack Roll for Spells becomes +1 for each tim
 
 ## One with Magic
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Adept
 - **Saving Throws**:: +1 in two Saving Throws of your choice
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 Your modifier spell score has a +1 to the value for determining spell effects, Magic Points, know spell, and maximum level of castable spell.
 
 ## One with the Bow
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 4
 - **Saving Throws**:: +1 Fortitude, +1 Reflex
 - **Ability Score**:: Dexterity or Constitution
-\enddescription
 
 Despite the name, this Feat applies to all weapons that launch projectiles.
 
@@ -4671,11 +4355,9 @@ The **second time** you take this Feat, Dexterity 3 and Weapon Proficiency 7, th
 
 ## Only Child
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Constitution 0
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Ability modifier for spells or Wisdom
-\enddescription
 
 The **first time** you take this Feat, choose a Magic List and two Cantrips from this list. You can cast these two Cantrips without a Magic Check even if you are being Distracted or with armor limitations.
 
@@ -4691,33 +4373,27 @@ Feats 2, 3, 4 can be taken multiple times. First-level and higher spells are cas
 
 ## Opportunist
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 2
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Intelligence or Dexterity
-\enddescription
 
 You can attempt to hit an opponent in melee who **exits** or **crosses** a melee area that you threaten or who **uses a throwing weapon** in your melee area or **formulates a spell**. The Feat is usable as a Reaction. This attack is also called an opportunity attack.
 
 ## Paralyzing Strike
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Debilitating Strike, Sneak Attack 4, Weapon Proficiency 18
 - **Saving Throws**:: +2 Reflex, +1 Fortitude
 - **Ability Score**:: Strength or Dexterity
-\enddescription
 
 You dedicate 2 Actions per Round, for 5 rounds, to studying an opponent you can threaten. In the sixth round, using 2 Actions, you deliver a melee or ranged attack. The opponent must make a Fortitude Saving Throw with DC equal to the Attack Roll or remain paralyzed for 3d6 rounds. The creature must not be 2 sizes larger than you.
 
 ## Parry
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 3 or Empty Fist 2
 - **Saving Throws**:: +1 Reflex, +1 Will
 - **Ability Score**:: Strength or Dexterity
-\enddescription
 
-The **first time** you take this Feat, when you use the Action to \hyperlinkpreparareladifesaPrepare Defense (p. \pagerefpreparareladifesa), this increases by 1.
+The **first time** you take this Feat, when you use the Action to Prepare Defense (p. ), this increases by 1.
 
 The **second time** you take this Feat, requirement Weapon Proficiency 6 or Empty Fist 4, use an Immediate Action to Prepare Defense.
 
@@ -4727,11 +4403,9 @@ Using the Parry Feat must be declared in your round and remains active until the
 
 ## Perceptive
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Wisdom 0
 - **Saving Throws**:: +1 Reflex, +1 Will
 - **Ability Score**:: Wisdom or Intelligence
-\enddescription
 
 Your Awareness and attention to detail is above average.
 
@@ -4739,11 +4413,9 @@ Take a +1 bonus to Awareness checks. This Feat can be taken a maximum of 3 times
 
 ## Perfectionist
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 2
 - **Saving Throws**:: +1 Reflex, +1 Will
 - **Ability Score**:: Dexterity or Charisma
-\enddescription
 
 The **first time** you take this Feat, when you throw a projectile, you decrease the Cover penalty by 2.
 
@@ -4751,11 +4423,9 @@ The **second time** you take this Feat, Weapon Proficiency 4, reduce the Cover p
 
 ## Truly Evil Person
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +1 Reflex, +1 Will
 - **Ability Score**:: Strength or Charisma
-\enddescription
 
 When you want, you know how to be bad.
 
@@ -4765,24 +4435,20 @@ The Feat must be declared before knowing the outcome of the Attack Roll. Costs o
 
 ## Pet / Familiar
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1
 - **Saving Throws**:: +1 Will, +1 Fortitude
 
 - **Ability Score**:: Intelligence or Ability modifier for spells
-\enddescription
 
 The **first time** you take this Feat, you gain a natural animal. This pet has a Challenge Rating equal to one-quarter of your Wisdom, with a minimum of 1/4. You can teach basic actions to your animal and have it perform simple tasks.
 
-The **second time** you take this Feat, you gain a \hyperlinkfamiglioFamiliar (page \pagereffamiglio).
+The **second time** you take this Feat, you gain a Familiar (page ).
 
 ## Phoenix Wings
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Empty Fist List 3, Silver Crane 1
 - **Saving Throws**:: +2 Reflex, +1 Fortitude
 - **Ability Score**:: Dexterity or Strength
-\enddescription
 
 Your fighting style emphasizes long-range strikes such as punches and flying kicks.
 
@@ -4794,21 +4460,17 @@ The **third time** you take this Feat, requirement Empty Fist List 12, Silver Cr
 
 ## Polyglot
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: at least Intelligence -1, at character creation
 - **Saving Throws**:: +2 Will
 - **Ability Score**:: Intelligence or Charisma
-\enddescription
 
 You have an extraordinary ability to learn languages. For each point assigned to Language Knowledge, you know two additional languages.
 
 ## Power of the Patron
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Sum of Common Traits with the Patron 1, being Devoted
 - **Saving Throws**:: +1 Fortitude, +2 Will
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 Your faith in the Patron knows no limits or crashes of trust.
 
@@ -4818,11 +4480,9 @@ If all three checks succeed, it is likely that there will be a Manifestation of 
 
 ## Powerful Fist
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Empty Fist List 3
 - **Saving Throws**:: +1 Fortitude, +2 Will
 - **Ability Score**:: Strength or Constitution
-\enddescription
 
 Consumes 2 Actions. Make a single Attack Roll with -5 penalty.
 If you hit, in addition to the damage and a critical hit, the opponent, who must be at most two sizes larger than you, must make a Fortitude Saving Throw with DC equal to your Attack Roll or be pushed 3 meters in a direction of your choice.
@@ -4831,11 +4491,9 @@ If they critically fail the Saving Throw, they suffer an additional critical hit
 
 ## Powerful Spells
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 5
 - **Saving Throws**:: +2 Will
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 Your spells are extraordinarily effective.
 
@@ -4843,11 +4501,9 @@ Choose a Magic List, gain +1d6 to the Magic Check when casting spells from this 
 
 ## Precise Shot
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Dexterity 3, Weapon Proficiency 1
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Wisdom
-\enddescription
 
 At close range, you know how to hit where it hurts.
 
@@ -4855,11 +4511,9 @@ You gain +1 to Attack Roll and damage with thrown weapons when the target is wit
 
 ## Prodigious
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 3
 - **Saving Throws**:: +2 Will
 - **Ability Score**:: Ability modifier for spells
-\enddescription
 
 Your mind has no boundaries. You can learn two spells present in your Magic Tome, always respecting the limits of the maximum level of castable spells.
 
@@ -4867,11 +4521,9 @@ This Feat can be taken multiple times and the total must be equal to or less tha
 
 ## Psychic Energy
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Strength 1, Wisdom 2, Weapon Proficiency 1, Magic Proficiency 1
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Wisdom or Charisma
-\enddescription
 
 After years of training, meditation, and workshops at Panda Barbat, you are able to gather your Chi Energy.
 
@@ -4883,11 +4535,9 @@ You recover 1 Chi point every 10 minutes in which the character does not perform
 
 ## Psychic Ray
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Psychic Strike, Wisdom 3, Weapon Proficiency 5
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Wisdom or Dexterity
-\enddescription
 
 The **first time** you take this Feat, you can make a ranged attack within 9 meters using Psychic Energy. The Touch Attack causes 1d6 force damage per Psychic point spent focused on damage.
 
@@ -4897,11 +4547,9 @@ The **second time** you take this Feat, requirement Wisdom 3, Weapon Proficiency
 
 ## Psychic Strike
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Psychic Energy, Dexterity 1
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Wisdom or Strength
-\enddescription
 
 The **first time** you take this Feat, you concentrate your Chi in your hands. You can concentrate a number of Chi points equal to your Wisdom.
 
@@ -4917,11 +4565,9 @@ The **fourth time** you take this Feat, Weapon Proficiency 7, Wisdom 4, if the A
 
 ## Pure Blood
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Animalia, Devotee of Efrem or Shayalia
 - **Saving Throws**:: +1 Will, +2 Fortitude
 - **Ability Score**:: Ability modifier for spells or Constitution
-\enddescription
 
 The **first time** you take this Feat, each of your attacks when transformed with Animalia causes 1 additional damage and is considered a +1 magic attack. By concentrating on your step, you can leave the footprints of an animal you can transform into and the terrain is considered doubly difficult.
 
@@ -4933,11 +4579,9 @@ The second and third abilities are cumulative.
 
 ## Quick
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 3
 - **Saving Throws**:: +1 Reflex, +1 Will
 - **Ability Score**:: Dexterity or Strength
-\enddescription
 
 The **first time** you take this Feat, when an ally executes a critical roll, you can, using a reaction, make an Attack Roll, with a penalty of -1d6, against the same opponent provided it is also in melee with you.
 
@@ -4945,11 +4589,9 @@ The **second time** you take this Feat, Weapon Proficiency 6, you gain a reactio
 
 ## Quick Draw
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +1 Reflex, +1 Will
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 The **first time** you take this Feat, you can draw a weapon that is not large for you at the cost of an Immediate Action.
 
@@ -4959,11 +4601,9 @@ The **third time** you take this Feat, you can put away your current weapon and 
 
 ## Rapid Shot
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Dexterity 3, Precise Shot, Weapon Proficiency 2
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 You have no rival in the precision with which you hurl your projectiles.
 
@@ -4975,21 +4615,17 @@ The first shot has a normal Attack Roll, the second has a -4, the third a -8...
 
 ## Reach
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 2
 - **Saving Throws**:: +1 Will, +2 Fortitude
 - **Ability Score**:: Dexterity or Strength
-\enddescription
 
 You use an Action in conjunction with your Attack Action in melee to increase the reach of your strike by 1 meter.
 
 ## Ready Defense
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 2
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 You are always vigilant and attentive when your life is at risk.
 
@@ -4997,11 +4633,9 @@ You have a +2 to Defense against opportunity attacks, attacks from behind, or fr
 
 ## Recovery
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Constitution 0
 - **Saving Throws**:: +2 Fortitude
 - **Ability Score**:: Constitution
-\enddescription
 
 Your body spontaneously produces caffeine!
 
@@ -5009,11 +4643,9 @@ You take half the time to recover from the Fatigued condition.
 
 ## Retaliation
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1, at least Follower of Gradh or Nedraf or Orlaith or Sumkjr
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Charisma or Wisdom
-\enddescription
 
 Seeing your friends injured fills you with rage.
 
@@ -5025,11 +4657,9 @@ You can take this Feat **up to 3 times**, each time the bonus to Attack Roll and
 
 ## Rhino
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Constitution 1
 - **Saving Throws**:: +2 Fortitude
 - **Ability Score**:: Constitution or Wisdom
-\enddescription
 
 Your charge is destructive! Behind you, you leave only a trail of rubble and nothing can stop you.
 
@@ -5041,11 +4671,9 @@ The **third time** you take this Feat, you have hardened your skin so much that 
 
 ## Robust
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Constitution -1
 - **Saving Throws**:: +2 Fortitude
 - **Ability Score**:: Constitution or Wisdom
-\enddescription
 
 The **first time** you take this Feat, your Hit Points increase by 3.
 
@@ -5055,21 +4683,17 @@ The bonuses are cumulative and retroactive to previous levels.
 
 ## Scholar
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1, only at character creation
 - **Saving Throws**:: +2 Will
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 Your interest in and connection with magic is unparalleled. You can know 4 additional spells (while respecting the maximum level constraints that can be copied into your Tome).
 
 ## Second Skin
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +2 Fortitude
 - **Ability Score**:: Constitution or Strength
-\enddescription
 
 The constant use of armor allows you to wear it without particular penalties.
 
@@ -5081,21 +4705,17 @@ The **third time** you take this Feat, requirement Weapon Proficiency 11, the pe
 
 ## Shoot and Scoot
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Crossbow List 3
 - **Saving Throws**:: +1 Fortitude, +1 Reflex
 - **Ability Score**:: Dexterity or Charisma
-\enddescription
 
 While performing a Movement Action, you can reduce the loading time of your crossbow by 1 Action. In the case of Light or one-handed Crossbows, you can reload them while moving; in the case of heavy Crossbows, you reduce the loading time by 1 Action.
 
 ## Soft Step
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Stealth 1
 - **Saving Throws**:: +1 Reflex, +1 Fortitude
 - **Ability Score**:: Dexterity or Wisdom
-\enddescription
 
 Your step is naturally silent.
 
@@ -5105,11 +4725,9 @@ The **second time** you take this Feat, requirement Dexterity 3, Stealth 8, you 
 
 ## Silver Crane
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Empty Fist List 2, Dexterity 1
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 To benefit from these bonuses, you must not wear armor or shields or magical items that improve Defense. The listed abilities cannot be cumulated with the Armor of the Enchanted Mountain Feat.
 
@@ -5127,13 +4745,11 @@ The bonuses are active even if you are not fighting.
 
 ## Sneak Attack
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 3
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
-The **first time** you take this Feat, when the opponent is \hyperlinksorpresasurprised (see page \pagerefcoltidisorpresa) with a melee weapon, if the first attack of combat hits, it causes an additional critical damage.
+The **first time** you take this Feat, when the opponent is surprised (see page ) with a melee weapon, if the first attack of combat hits, it causes an additional critical damage.
 
 The **second time** you take this Feat, requirement Weapon Proficiency 6, you cause 2 additional critical damages.
 
@@ -5143,18 +4759,16 @@ The **fourth time** you take this Feat, requirement Weapon Proficiency 12, you c
 
 ## Son of Tazher
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Devotee or Follower of Tazher, sum of common traits 10
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Dexterity or Wisdom
-\enddescription
 
-When you take this Feat, your shadow becomes the equivalent of an \hyperlinkServitore InvisibileInvisible Servant.
+When you take this Feat, your shadow becomes the equivalent of an Invisible Servant.
 The shadow has Defense equal to 10 + highest value Trait in common with Tazher, Saving Throws equal to yours, Hit Points equal to the sum of traits in common with Tazher.
 
 Using 2 Actions, you can summon it again if it should be killed.
 
-Your shadow cannot move away from you more than the sum of traits in common with Tazher in meters. It can be used to \hyperlinkCondividere IncantesimiShare Spells, \hyperlinkTrasmettere Incantesimi a ContattoDeliver Touch Spells (but you use your attack ability), see also \hyperlinkfamiglioFamiliar (page \pagereffamiglio).
+Your shadow cannot move away from you more than the sum of traits in common with Tazher in meters. It can be used to Share Spells, Deliver Touch Spells (but you use your attack ability), see also Familiar (page ).
 
 It can be used as a launching point for spells.
 
@@ -5162,11 +4776,9 @@ You cannot have Familiars. You cannot interact with your Shadow if there are no 
 
 ## Specialist
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 3
 - **Saving Throws**:: +2 Fortitude
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 Choose a spell you know; the Magic Points spent to cast this spell decrease by 1, with a minimun cost of one.
 
@@ -5174,11 +4786,9 @@ This Feat can be taken multiple times on different spells each time.
 
 ## Spring
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Strength 0
 - **Saving Throws**:: +1 Reflex, +1 Fortitude
 - **Ability Score**:: Dexterity or Strength
-\enddescription
 
 The **first time** you take this Feat, you can ignore the requirement of 3 meters of running start before a jump.
 
@@ -5186,11 +4796,9 @@ The **second time** you take this Feat, when you make a check to jump long or hi
 
 ## Stay Down!
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 3
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Strength or Charisma
-\enddescription
 
 The **first time** you take this Feat, when your attack causes two critical hits on an opponent, the force of the blow is such as to make them prone. The opponent must make a Fortitude Saving Throw (DC equal to the last Attack Roll with the weapon that caused the last critical hit) or fall prone. The Feat works on creatures of size equal to or smaller than the character.
 
@@ -5200,11 +4808,9 @@ The **third time** you take this Feat, you can also affect creatures two sizes l
 
 ## Stone Resilience
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Constitution 0
 - **Saving Throws**:: none
 - **Ability Score**:: Constitution or Wisdom
-\enddescription
 
 Over time, you have trained your Constitution to withstand impacts, transformations, poisons, and anything else that might try to modify your body.
 
@@ -5214,11 +4820,9 @@ The **fourth time** you take this Feat, you can automatically succeed on a Forti
 
 ## Storm of Fury
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Empty Fist List 7, Dexterity 1, Strength 1
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Dexterity or Strength
-\enddescription
 
 When you use this Feat, you can declare that you are using the Storm of Fury as your only Action (3 Actions).
 
@@ -5226,15 +4830,11 @@ You make a single Attack Roll with -1d6, and if you hit with your natural attack
 
 ## Sure Step
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Wisdom 1
 - **Saving Throws**:: +2 Fortitude, +1 Reflex
 - **Ability Score**:: Dexterity or Constitution
-\enddescription
 
 It is the ability to not be slowed down in a hostile environment. It is necessary to declare on which environment you take the Feat. In these environments, natural terrain is not difficult. As long as you move in the chosen environment, you have a +1 to Survival checks.
-
-\begintabular
 
 | **Environment** | **Environment** |
 | --- | --- |
@@ -5244,13 +4844,10 @@ It is the ability to not be slowed down in a hostile environment. It is necessar
 | Mountain | Glaciers | Tundra |
 | Urban | Underground |
 
-\endtabular
-
 Each time you take this Feat again, you choose a different environment and add it to the previous one, or you specialize in the same one.
 
 The **second time** you take this Feat on the same terrain, specializing, you acquire a capability depending on the terrain.
 
-\beginitemize[leftmargin=*]
 - *Jungle / Forest / Hill / Plains*: your movement increases by 1 meter on this terrain
 - *Coastal / Aquatic*: swimming speed equal to your movement
 - *Swamp*: +2 to Saving Throws against Poison
@@ -5259,15 +4856,11 @@ The **second time** you take this Feat on the same terrain, specializing, you ac
 - *Underground*: Low-light vision 9 meters
 - *Urban*: +1 Language, +1 choice in two Knowledge skills
 
-\enditemize
-
 ## Tactician
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1, Intelligence 1
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Intelligence or Charisma
-\enddescription
 
 You have an almost instinctive ability to manage and predict the outcome of combats. Using this Feat costs 1 Action.
 
@@ -5283,21 +4876,17 @@ The **second time** you take this Feat, requirement Intelligence 2, Weapon Profi
 
 ## The Bigger They Are, The Harder They Fall
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Strength or Charisma
-\enddescription
 
 When you attack a creature at least 2 sizes larger than you, you do +1 additional damage for every 2 Weapon Proficiency points. If it's only one size larger, add 1 more damage for every 3 Weapon Proficiency points.
 
 ## The Patron is my Weapon
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Sum of Common Traits with the Patron 1, being Followers
 - **Saving Throws**:: +1 Will, +1 Reflex
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 You have no penalty to hit with the Patron's weapon if you are not proficient in its Weapon List.
 
@@ -5315,11 +4904,9 @@ The **sixth time** you take this Feat, requirement sum of Common Traits with the
 
 ## The Patron is with me
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Devoted, Sum of Common Traits with the Patron 2
 - **Saving Throws**:: +1 Will, +1 Reflex
 - **Ability Score**:: Ability modifier for spells or choice
-\enddescription
 
 The **first time** you take this Feat, once per day you can reroll a die rolled in the Magic Check for casting a spell.
 
@@ -5331,11 +4918,9 @@ This Feat can be declared even after the dice are rolled. Any new value obtained
 
 ## The Shield is my Friend
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1, Magic Proficiency 1
 - **Saving Throws**:: +1 Fortitude, +1 Reflex
 - **Ability Score**:: Dexterity or Constitution
-\enddescription
 
 Your *friend* is always by your side.
 
@@ -5347,21 +4932,17 @@ The **third time** you take this Ability, constant training with the shield allo
 
 ## This is my Dagger
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +2 Fortitude, +1 Reflex
 - **Ability Score**:: Dexterity or Charisma
-\enddescription
 
 When you do critical damage with your dagger, you add an additional critical hit. The Feat is usable once per opponent and is automatically applied to the first critical hit made.
 
 ## This is my Weapon!
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 1
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Strength or Charisma
-\enddescription
 
 The **first time** you take this Feat, each time you hit the same opponent, starting from the second round, you do additional damage (Max +1 per combat round, even if you hit it multiple times in the round) up to a maximum of +5. The first time you miss the opponent in the round, the bonus returns to +0. The bonus can be maintained on only one opponent at a time.
 
@@ -5369,11 +4950,9 @@ The **second time** you take this Feat, Weapon Proficiency 5, you can miss your 
 
 ## Tough Skin
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Constitution 2
 - **Saving Throws**:: +2 Fortitude
 - **Ability Score**:: Constitution or Wisdom
-\enddescription
 
 The **first time** you take this Feat, your skin is extremely resistant. You take 1 less damage when hit by cutting weapons.
 
@@ -5387,21 +4966,17 @@ The bonuses are cumulative.
 
 ## Trackless
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Sure Step
 - **Saving Throws**:: +2 Will, +1 Reflex
 - **Ability Score**:: Wisdom or Dexterity
-\enddescription
 
-The ability to leave no footprints in the chosen environment. Each time you take this Feat, you can choose a different environment (see the \hyperlinkpassosicuroSure Step Feat) for which you have taken the Feat. The difficulty of the Track check to follow you increases by 10.
+The ability to leave no footprints in the chosen environment. Each time you take this Feat, you can choose a different environment (see the Sure Step Feat) for which you have taken the Feat. The difficulty of the Track check to follow you increases by 10.
 
 ## Trap Dodging
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Dexterity 2
 - **Saving Throws**:: +2 Reflex, +1 Fortitude
 - **Ability Score**:: Dexterity or Intelligence
-\enddescription
 
 The **first time** you take this Feat, you gain a +1d6 bonus to the Saving Throw to avoid the effect of traps.
 
@@ -5411,11 +4986,9 @@ You can also use this Feat, using a Reaction, to avoid Sneak Attack (Reflex Savi
 
 ## Turn Undead
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Common Traits sum 2, be a Devotee or Follower
 - **Saving Throws**:: +2 Will, +1 Fortitude
 - **Ability Score**:: Charisma or Wisdom
-\enddescription
 
 By concentrating on the power of your Patron, you channel positive energy and drive away or destroy the undead.
 
@@ -5429,7 +5002,7 @@ If the undead is not destroyed, it makes a Will Saving Throw with a DC equal to 
 
 This Feat can be used a number of times per day equal to your Wisdom, but an undead can only be affected once per day by your effect.
 
-An undead that is turned is under \hyperlinkcondizionepauraFear for 1d4 rounds; an undead that is destroyed is reduced to dust and divine energy.
+An undead that is turned is under Fear for 1d4 rounds; an undead that is destroyed is reduced to dust and divine energy.
 
 A Devotee of Sixiser, instead of turning and destroying, can dominate the undead for 2d4 rounds (instead of turning it) or for 1 real hour (instead of destroying it).
 
@@ -5437,11 +5010,9 @@ A Devotee of Thaft gets +1d6 to Divine Power.
 
 ## Two weapon Fighting
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Dexterity 2, Strength 1, Weapon Proficiency 2
 - **Saving Throws**:: +2 Reflex, +1 Fortitude
 - **Ability Score**:: Dexterity or Strength
-\enddescription
 
 The **first time** you take this Feat, constant and continuous training allows you to reduce the multi-attack penalty given by attacking with the off-hand weapon. When you attack with the off-hand weapon, you accumulate a hit penalty of -4 instead of -5 if the weapon is light.
 
@@ -5455,21 +5026,17 @@ The **third time**, the first attack made with the off-hand weapon does not accu
 
 ## Scribe
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Magic Proficiency 1
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Ability modifier for spells or Dexterity
-\enddescription
 
 You are extremely quick in copying new spells into your Book of Magic. The time to copy a spell changes from 1 hour to 30 minutes per page (a spell occupies a number of pages equal to its level). The cost in inks changes from 10 gp per page to 5 gp per page.
 
 ## Uncanny Dodge
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Dexterity 3
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Wisdom
-\enddescription
 
 The **first time** you take this Feat, as a Reaction to an opponent's attack Action, you can add +1 to your Defense. You can use this Feat up to 3 times per day.
 
@@ -5481,21 +5048,17 @@ You can use this Feat even after knowing by how much you were hit.
 
 ## Unlucky
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Lucky, at least 6 points in the sum of Traits
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: an ability score of choice
-\enddescription
 
 Once per day, you can transform a 6 rolled by the Narrator (Attack Rolls, Skill Checks, Saving Throws) into a 1. This Feat can be declared once you know the roll made.
 
 ## Versatile Litany
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Entertain Proficiency 6
 - **Saving Throws**:: +1 Will, +1 Reflex
 - **Ability Score**:: Charisma or Dexterity
-\enddescription
 
 Through your performance, you can decide to inspire courage or fear in creatures within 9 meters of you.
 
@@ -5511,11 +5074,9 @@ The **second time** you take this Feat, you can exclude from the effect a number
 
 ## Warrior of Magic
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 2, Magic Proficiency 2
 - **Saving Throws**:: +1 Will, +1 Reflex
 - **Ability Score**:: Ability modifier for spells or Strength
-\enddescription
 
 You follow neither just the path of magic nor that of the sword; your style embraces both in a slash of pure magic.
 
@@ -5531,11 +5092,9 @@ You cannot discharge spells higher than level 3 with this Feat, and the casting 
 
 ## Weapon Artist
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 2
 - **Saving Throws**:: +1 Will, +1 Fortitude
 - **Ability Score**:: Dexterity or Strength
-\enddescription
 
 Choose a Weapon List; with these weapons, you get a +1 to hit.
 
@@ -5545,41 +5104,223 @@ If you take this Feat **4 times** on the same Weapon List, the bonuses to hit ar
 
 ## Whirlwind Attack
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.5cm]
 - **Requirement**:: Weapon Proficiency 12, Entertain 3
 - **Saving Throws**:: +2 Reflex, +1 Fortitude
 - **Ability Score**:: Dexterity or Charisma
-\enddescription
 
 The **first time** you take this Feat, using 3 Actions, you can perform a single attack (with a penalty of 1d6 to the Attack Roll) against all opponents in melee around you.
 
 The **second time** you take this Feat, Weapon Proficiency 15, Entertain 5, you have no penalty to the Attack Roll.
-
-\endmulticols
-
 ---
 
 ## Feat Grouping by Style
 
 To facilitate the transition for those coming from other role-playing games with classes, the Feats are divided here for the most canonical classes. These are clearly just guidelines; in OBSS, the character can be built as preferred and as the story they live is instructing them.
 
-\beginmulticols
+| **Lv** | **Warrior** |  |  | **Feat** |
+| --- | --- | --- | --- | --- |
+| **WP** | **MP** | **HP** | |
+| 1 | 1 | 0 | 8+3 | Focused Weapon - Mighty Blows |
+| 2 | 2 | 0 | 2d6+6 | Quick Draw |
+| 3 | 3 | 0 | 3d6+9 | Opportunist |
+| 4 | 4 | 0 | 4d6+12 | Tough Hide |
+| 5 | 5 | 0 | 5d6+15 | Press On |
+| 6 | 6 | 0 | 6d6+18 | Improved Initiative |
+| 7 | 7 | 0 | 7d6+21 | This Is My Weapon! |
+| 8 | 8 | 0 | 8d6+24 | |
+| 9 | 9 | 0 | 9d6+27 | Press On |
+| 10 | 10 | 0 | 10d6+30 | Lightning Reflexes |
+| 11 | 11 | 0 | 11d6+33 | |
+| 12 | 12 | 0 | 12d6+36 | Tough Hide |
+| 13 | 13 | 0 | 13d6+39 | Second Skin |
+| 14 | 14 | 0 | 14d6+42 | |
+| 15 | 15 | 0 | 15d6+45 | Second Skin |
+| 16 | 16 | 0 | 16d6+48 | Blind Fighting |
+| 17 | 17 | 0 | 17d6+51 | |
+| 18 | 18 | 0 | 18d6+54 | your choice |
+| 19 | 19 | 0 | 19d6+57 | |
+| 20 | 20 | 0 | 20d6+60 | your choice |
+### Rogue
 
-\endmulticols
+| **Lv** | **Rogue** |  |  | **Feat** |
+| --- | --- | --- | --- | --- |
+| **WP** | **MP** | **HP** | |
+| 1 | 1 | 0 | 8+3 | Truly Evil Person - Quick Draw |
+| 2 | 2 | 0 | 2d6+6 | Opportunist |
+| 3 | 3 | 0 | 3d6+9 | Sneak Attack |
+| 4 | 4 | 0 | 4d6+12 | Silent Step |
+| 5 | 5 | 0 | 5d6+15 | Clinical Eye |
+| 6 | 6 | 0 | 6d6+18 | Trap Dodging |
+| 7 | 7 | 0 | 7d6+21 | Perceptive |
+| 8 | 8 | 0 | 8d6+24 | |
+| 9 | 9 | 0 | 9d6+27 | Sneak Attack |
+| 10 | 10 | 0 | 10d6+30 | Expert |
+| 11 | 11 | 0 | 11d6+33 | |
+| 12 | 12 | 0 | 12d6+36 | Sneak Attack |
+| 13 | 13 | 0 | 13d6+39 | Prodigious Dodge |
+| 14 | 14 | 0 | 14d6+42 | |
+| 15 | 15 | 0 | 15d6+45 | Sneak Attack |
+| 16 | 16 | 0 | 16d6+48 | Improvise |
+| 17 | 17 | 0 | 17d6+51 | |
+| 18 | 18 | 0 | 18d6+54 | your choice |
+| 19 | 19 | 0 | 19d6+57 | |
+| 20 | 20 | 0 | 20d6+60 | your choice |
+### Wizard
 
-## Examples of Character Building
+| **Lv** | **Wizard** |  |  | **Feat** |
+| --- | --- | --- | --- | --- |
+| **WP** | **MP** | **HP** | |
+| 1 | 0 | 1 | 8 | Magic Adept - One with Magic |
+| 2 | 0 | 2 | 2d6 | One Hit One Kill |
+| 3 | 0 | 3 | 3d6 | Specialist |
+| 4 | 0 | 4 | 4d6 | Magic Adept |
+| 5 | 1 | 4 | 5d6+3 | Focused |
+| 6 | 1 | 5 | 6d6+3 | Powerful Magic |
+| 7 | 1 | 6 | 7d6+3 | Cautious Caster |
+| 8 | 1 | 7 | 8d6+3 | |
+| 9 | 2 | 7 | 9d6+6 | Prodigious |
+| 10 | 2 | 8 | 10d6+6 | Scribe |
+| 11 | 2 | 9 | 11d6+6 | |
+| 12 | 2 | 10 | 12d6+6 | Create Magic Items |
+| 13 | 3 | 10 | 13d6+9 | Focused |
+| 14 | 3 | 11 | 14d6+9 | |
+| 15 | 3 | 12 | 15d6+9 | Magic Adept |
+| 16 | 3 | 13 | 16d6+9 | Magic Adept |
+| 17 | 4 | 13 | 17d6+12 | |
+| 18 | 4 | 14 | 18d6+12 | your choice |
+| 19 | 4 | 15 | 19d6+12 | |
+| 20 | 5 | 15 | 20d6+15 | your choice |
+### Cleric
 
-Here are some examples of characters according to standard fantasy conventions, take them as a starting point to build your own characters. Remember to add the Constitution value per level to Hit Points.
+| **Lv** | **Cleric** |  |  | **Feat** |
+| --- | --- | --- | --- | --- |
+| **WP** | **MP** | **HP** | |
+| 1 | 0 | 1 | 8 | Magic Adept - One with Magic |
+| 2 | 0 | 2 | 2d6 | The Patron is my Weapon |
+| 3 | 0 | 3 | 3d6 | Laying on Hands |
+| 4 | 1 | 3 | 4d6+3 | Turn Undead |
+| 5 | 1 | 4 | 5d6+3 | Power of the Patron |
+| 6 | 1 | 5 | 6d6+3 | Armor of the Devoted |
+| 7 | 1 | 6 | 7d6+3 | Channel Energy |
+| 8 | 2 | 6 | 8d6+6 | |
+| 9 | 2 | 7 | 9d6+6 | Armor of the Devoted |
+| 10 | 2 | 8 | 10d6+6 | The Patron is with Me |
+| 11 | 2 | 9 | 11d6+6 | |
+| 12 | 3 | 9 | 12d6+9 | The Patron is my Weapon |
+| 13 | 3 | 10 | 13d6+9 | Magic Adept |
+| 14 | 3 | 11 | 14d6+9 | |
+| 15 | 3 | 12 | 15d6+9 | Armor of the Devoted |
+| 16 | 4 | 12 | 16d6+12 | The Patron is with Me |
+| 17 | 4 | 13 | 17d6+12 | |
+| 18 | 4 | 14 | 18d6+12 | your choice |
+| 19 | 5 | 14 | 19d6+15 | |
+| 20 | 5 | 15 | 20d6+15 | your choice |
+### Barbarian
+
+| **Lv** | **Barbarian** |  |  | **Feat** |
+| --- | --- | --- | --- | --- |
+| **WP** | **MP** | **HP** | |
+| 1 | 1 | 0 | 8+3 | Ferocity - Fury |
+| 2 | 2 | 0 | 2d6+6 | My Death Your Death |
+| 3 | 3 | 0 | 3d6+9 | Rhino |
+| 4 | 4 | 0 | 4d6+12 | I Said FALL! |
+| 5 | 5 | 0 | 5d6+16 | Hard to Kill |
+| 6 | 6 | 0 | 6d6+20 | Tough Hide |
+| 7 | 7 | 0 | 7d6+24 | Deadly Strike |
+| 8 | 8 | 0 | 8d6+28 | |
+| 9 | 9 | 0 | 9d6+32 | First Blood |
+| 10 | 10 | 0 | 10d6+36 | Human Mountain |
+| 11 | 11 | 0 | 11d6+41 | |
+| 12 | 12 | 0 | 12d6+43 | The Bigger They Are, The Harder They Fall |
+| 13 | 13 | 0 | 13d6+48 | One Arm, One Weapon |
+| 14 | 14 | 0 | 14d6+53 | |
+| 15 | 15 | 0 | 15d6+58 | Tough Hide |
+| 16 | 16 | 0 | 16d6+63 | Iron Will |
+| 17 | 17 | 0 | 17d6+68 | |
+| 18 | 18 | 0 | 18d6+73 | your choice |
+| 19 | 19 | 0 | 19d6+78 | |
+| 20 | 20 | 0 | 20d6+83 | your choice |
+### Paladin
+
+| **Lv** | **Paladin** |  |  | **Feat** |
+| --- | --- | --- | --- | --- |
+| **WP** | **MP** | **HP** | |
+| 1 | 1 | 0 | 8+3 | The Patron is my Weapon - Retaliation |
+| 2 | 2 | 0 | 2d6+6 | This Is My Weapon! |
+| 3 | 3 | 0 | 3d6+9 | Laying on Hands |
+| 4 | 3 | 1 | 4d6+9 | Armor of the Devoted |
+| 5 | 4 | 1 | 5d6+12 | The Patron is my Weapon |
+| 6 | 5 | 1 | 6d6+15 | The Shield is My Friend |
+| 7 | 6 | 1 | 7d6+18 | Laying on Hands |
+| 8 | 6 | 2 | 8d6+18 | |
+| 9 | 7 | 2 | 9d6+21 | Armor of the Devoted |
+| 10 | 8 | 2 | 10d6+24 | The Patron is my Weapon |
+| 11 | 9 | 2 | 11d6+27 | |
+| 12 | 9 | 3 | 12d6+27 | The Patron is my Weapon |
+| 13 | 10 | 3 | 13d6+30 | Laying on Hands |
+| 14 | 11 | 3 | 14d6+33 | |
+| 15 | 12 | 3 | 15d6+36 | The Patron is my Weapon |
+| 16 | 12 | 4 | 16d6+36 | Armor of the Devoted |
+| 17 | 13 | 4 | 17d6+39 | |
+| 18 | 14 | 4 | 18d6+42 | your choice |
+| 19 | 15 | 4 | 19d6+45 | |
+| 20 | 15 | 5 | 20d6+45 | your choice |
+### Bard
+
+| **Lv** | **Bard** |  |  | **Feat** |
+| --- | --- | --- | --- | --- |
+| **WP** | **MP** | **HP** | |
+| 1 | 0 | 1 | 8 | Combat Caster - Inspire Courage |
+| 2 | 1 | 1 | 2d6+3 | Lucky |
+| 3 | 2 | 1 | 3d6+6 | Instill Fear |
+| 4 | 2 | 2 | 4d6+6 | Infuriate |
+| 5 | 3 | 2 | 5d6+9 | Inspire Courage |
+| 6 | 3 | 3 | 6d6+9 | Tactical |
+| 7 | 4 | 3 | 7d6+12 | Versatile Litany |
+| 8 | 4 | 4 | 8d6+12 | |
+| 9 | 5 | 4 | 9d6+15 | Coordinated Damage |
+| 10 | 5 | 5 | 10d6+15 | Combat Caster |
+| 11 | 6 | 5 | 11d6+18 | |
+| 12 | 6 | 6 | 12d6+18 | Inspire Courage |
+| 13 | 7 | 6 | 13d6+21 | Inspire Magical Energy |
+| 14 | 7 | 7 | 14d6+21 | |
+| 15 | 8 | 7 | 15d6+24 | Coordinated Damage |
+| 16 | 8 | 8 | 16d6+24 | Superior Magical Energy Inspiration |
+| 17 | 9 | 8 | 17d6+27 | |
+| 18 | 9 | 9 | 18d6+27 | your choice |
+| 19 | 10 | 9 | 19d6+30 | |
+| 20 | 10 | 10 | 20d6+30 | your choice |
+### Druid
+
+| **Lv** | **Druid** |  |  | **Feat** |
+| --- | --- | --- | --- | --- |
+| **WP** | **MP** | **HP** | |
+| 1 | 0 | 1 | 8 | Magic Adept - Brew Potions |
+| 2 | 0 | 2 | 2d6 | Animalia |
+| 3 | 0 | 3 | 3d6 | Pure Blood |
+| 4 | 1 | 3 | 4d6+3 | Armor of the Devoted |
+| 5 | 1 | 4 | 5d6+3 | Animalia |
+| 6 | 1 | 5 | 6d6+3 | The Patron is with Me |
+| 7 | 1 | 6 | 7d6+3 | Elemental Form |
+| 8 | 2 | 6 | 8d6+6 | |
+| 9 | 2 | 7 | 9d6+6 | The Patron is with Me |
+| 10 | 2 | 8 | 10d6+6 | Pure Blood |
+| 11 | 2 | 9 | 11d6+6 | |
+| 12 | 3 | 9 | 12d6+9 | The Patron is with Me |
+| 13 | 3 | 10 | 13d6+9 | Animalia |
+| 14 | 3 | 11 | 14d6+9 | |
+| 15 | 3 | 12 | 15d6+9 | Pure Blood |
+| 16 | 4 | 12 | 16d6+12 | Magic Adept |
+| 17 | 4 | 13 | 17d6+12 | |
+| 18 | 4 | 14 | 18d6+12 | your choice |
+| 19 | 5 | 14 | 19d6+15 | |
+| 20 | 5 | 15 | 20d6+15 | your choice |
 
 ---
 
 # Familiar
 
-\beginchangemargin\beginenfasi
-Mr. Wing's grandson: There are three rules that you must follow. First of all, keep him out of the light. He hates bright light, especially sunlight. It'll kill him. Second, don't give him any water, not even to drink. But the most important rule, the rule you can never forget—no matter how much he cries, no matter how much he begs—never feed him after midnight. (Gremlins, Film, 1984)
-\endenfasi\endchangemargin
-
-\beginmulticols
+Mr. Wing's grandson: There are three rules that you must follow. First of all, keep him out of the light. He hates bright light, especially sunlight. It'll kill him. Second, don't give him any water, not even to drink. But the most important rule, the rule you can never forget—no matter how much he cries, no matter how much he begs—never feed him after midnight. (Gremlins, Film, 1984)}
 
 Familiars are animals chosen by the character, through the Familiar Feat, to help them in adventures and for companionship. A familiar has a special bond with its master.
 
@@ -5594,8 +5335,6 @@ A particular ritual of 4 hours in the animal's native environment is required to
 If a familiar is dismissed, lost, or dies, it can be replaced one week later with a special ritual that costs 2 points of the character's temporary Constitution. Completing the ritual takes 8 hours.
 
 **Table: Familiar Types**
-
-\begintabularx0.5\textwidth
 
 | **Familiar** | **Ability gained by the master** |
 | --- | --- |
@@ -5615,8 +5354,6 @@ If a familiar is dismissed, lost, or dies, it can be replaced one week later wit
 | *Topi* | you become Topi's familiar!!! |
 | Fox | +1 to Reflex Saving Throw |
 
-\endtabularx
-
 Use the base statistics of a creature of the familiar's species, making the following changes.
 
 **Attacks**: Use the master's Weapon Proficiency if higher. Use the familiar's Dexterity or Strength modifier, whichever is higher, to calculate the familiar's attack bonus with Natural Attacks. Damage is equal to that of a normal creature of the familiar's species. The familiar acts on the master's round.
@@ -5633,11 +5370,22 @@ Use the base statistics of a creature of the familiar's species, making the foll
 
 All familiars have Special Abilities and grant them to their masters according to the Magic Proficiency score of the master. The Special Abilities listed in the table are cumulative.
 
-\endmulticols
-
 **Table: Familiar Abilities and Bonuses**
 
-\beginmulticols
+| **Master's MP** | **Defense** | **Intelligence** | **Special** |
+| 1-2 | +1 | 0 | Alert, Share Spells |
+
+|  |  | Empathic Link
+
+| 3-4 | +1 | +1 | Deliver Touch Spells |
+| 5-6 | +2 | +1 | Speak with Animals of Its Kind |
+| 7-8 | +3 | +1 | Speak with Master |
+| 9-10 | +3 | +2 | - |
+| 11-12 | +4 | +2 | See through Familiar |
+| 13-14 | +5 | +2 | Improved Deliver Touch Spells |
+| 15-16 | +5 | +3 | - |
+| 17-18 | +6 | +3 | - |
+| 19-20 | +7 | +3 | - |
 
 **Master's Magic Proficiency**: the number indicated here is the Magic Proficiency value of the familiar's master.
 
@@ -5666,14 +5414,9 @@ The familiar can deliver the Spell just like the master. The familiar uses one o
 ***Improved Deliver Touch Spells***: like *Deliver Touch Spells* but the familiar can be within 18 meters of the master.
 
 **NOTE**: intelligent and unique, a familiar remains an animal and as such cannot use magic items or scrolls; it may be able to use a potion if it has the ability to drink it. A particularly intelligent familiar might perform simple and immediate tasks.
-
-\endmulticols
-
 ---
 
 # Other Special Abilities
-
-\beginmulticols
 
 These Abilities are not selectable by the player, but can be innate to creatures.
 
@@ -5706,9 +5449,9 @@ Certain creatures or Abilities confer the supernatural ability to resist damage 
 
 It usually takes the value of XX/ZZ, meaning how much damage (XX) is ignored if not attacked with (ZZ). Ignoring damage also means that effects connected to the attack do not work, such as poisons on the weapon. The damage is reducted after resistance and saving throws.
 
-Certain weapons, particularly magical ones, can ignore DR
+Certain weapons, particularly magical ones, can ignore DR 
 
-**Projectiles (arrows, darts, stones) fired from magical *propellers* ARE NOT considered magical.**
+**Projectiles (arrows, darts, stones) fired from magical *propellers** ARE NOT considered magical.*
 
 ## Magic Resistance
 
@@ -5730,7 +5473,7 @@ A creature immune to a form of damage does not take damage from that attack. A c
 
 A creature that has *Immunity to Void Damage, Poison; weapons +2* means it does not take damage from Void, from Poison, and that to hurt it you need a weapon with a magical bonus of +3 or higher, or a character who attacks with natural weapons and is level 12 or higher, or who has taken the Empty Fist Weapon List at least 6 times.
 
-See the schema of \hyperlinkequivalenzaarmimagicheMagical Weapon Equivalences (page \pagerefequivalenzaarmimagiche)
+See the schema of Magical Weapon Equivalences (page )
 
 ## Damage Vulnerability
 
@@ -5753,21 +5496,15 @@ A frightened creature has -1d6 on Attack Rolls, Saving Throws, and Skill Checks 
 There are several methods to Paralyze a creature, both magical and natural. While natural methods often have systems to subsequently free oneself, magical systems may or may not provide a way to escape paralysis, perhaps only after a certain period of time.
 
 A paralyzed character cannot take Actions or Reactions, nor speak. Melee attacks against them have a +1d6 bonus, and they lose the Dexterity bonus to Defense. The creature is aware of its surroundings and does not drop items. The creature automatically fails Reflex Saving Throws.
-
-\endmulticols
-
 ---
 
 # Magic
 
-\beginchangemargin\beginenfasi
 The magic isn't in the pendulum, it's in the person using it. (NCIS)
 
 Thou shalt not suffer a witch to live. (Book of Exodus)(Always depending on your Traits...)
 
-A wizard is never late, Frodo Baggins. Nor is he early. He arrives precisely when he means to. (Gandalf, The Lord of the Rings - The Fellowship of the Ring. J.R.R. Tolkien) \endenfasi\endchangemargin
-
-\beginmulticols
+A wizard is never late, Frodo Baggins. Nor is he early. He arrives precisely when he means to. (Gandalf, The Lord of the Rings - The Fellowship of the Ring. J.R.R. Tolkien)}  
 
 Magic permeates game worlds and its most common form is a spell. This chapter provides the rules for casting spells.
 
@@ -5812,11 +5549,12 @@ When the formulation lasts more than 1 round, you must spend 1 Action per round 
 
 ### Magic Lists
 
+ 
+
 The Lists presented here are those codified and taught in the few schools of magic.
 
 Magic Lists help describe spells; they don't have their own rules, although some rules may refer to these lists.
 
-\beginitemize[leftmargin=*]
 - *Abjuration* concerns spells of a protective nature, although it also contains some for aggressive use. These spells create magical barriers, negate harmful effects, or banish creatures to other planes of existence.
 - *Water* are spells that act on the water and cold element and to a minimal extent also on healing.
 - *Air* concerns spells that manipulate and use air and also electricity.
@@ -5837,8 +5575,6 @@ Magic Lists help describe spells; they don't have their own rules, although some
 - *Transmutation* concerns spells that change the properties of a creature, object, or environment.
 - *Universal* some spells are cornerstones of magic in itself and as such accessible to all casters. To access the spells contained in this Magic List, it is necessary to have at least one point in Magic Proficiency. The maximum level of spells that can be cast in this list is equal to the number of times the Magic Adept Ability has been taken, with a minimum of 1.
 
-\enditemize
-
 ### Range
 
 The target of a spell must be within the range of the spell. For a spell like Arcane dart, the target is a creature. For a spell like fireball, the target is the point in space from which the sphere of fire explodes. Most spells have a range expressed in meters. Some spells can only target a creature (including yourself) with whom you are in physical contact. Other spells, like the shield spell, only act on you: these spells have a range of *personal*. A spell that has an area of effect of *an ally* can also be cast on yourself.
@@ -5847,15 +5583,13 @@ Spells that create cones or lines of effect that originate from you also have pe
 
 ### Casting Spells in Armor
 
-Given the mental concentration and precise gestures required, armor distracts and unbalances the flows. The Magic Check when casting the spell is mandatory and is modified as indicated in the \hyperlinkarmatureemagiearmor section (page \pagerefarmatureemagie).
+Given the mental concentration and precise gestures required, armor distracts and unbalances the flows. The Magic Check when casting the spell is mandatory and is modified as indicated in the armor section (page ).
 
 ### Optional - Spells in Armor
 
 This rule is proposed for managing casters in armor:
 
-\beginitemize[leftmargin=*]
 - This option provides that all spells cast by the caster become Touch Range, meaning they can only be discharged through the caster's hand. No Magic Checks are required due to wearing armor.
-\enditemize
 
 ### Duration
 
@@ -5863,7 +5597,6 @@ The duration of a spell is the length of time for which it persists. Duration ca
 
 If a magic critical doubles the duration, it always refers to the initial duration. E.g. if the duration is 2 hours, after the first doubling it becomes 4 hours, with the second it becomes 6 hours, then 8 hours..
 
-\beginitemize[leftmargin=*]
 - *Instantaneous*
 
 Many spells are instantaneous. The spell wounds, heals, creates, or alters a creature or object in a way that cannot be dispelled, because its magic exists only for an instant.
@@ -5872,7 +5605,6 @@ Many spells are instantaneous. The spell wounds, heals, creates, or alters a cre
 Some spells require you to maintain concentration to keep the magic active. If you cannot maintain concentration, the spell will end. If a spell must be maintained through concentration, this is indicated under Duration; the spell specifies how long you can maintain concentration. You can end concentration at any time using a Reaction.
 
 Normal activities, such as moving and attacking, do not interfere with concentration. Maintaining concentration costs 1 Action per round.
-\enditemize
 
 ### Components
 
@@ -5899,15 +5631,11 @@ A caster must have a free hand to access these components, but it can be the sam
 
 If you want a more *fantastic* management of components and less tied to traditions, you can implement this set of modifications.
 
-\beginitemize[leftmargin=*]
 - No spell needs components
 - It is possible to add components to the spell as an offering to the Patron who oversees the list to obtain advantages in Magic Check
-- Depending on the *preciousness* and *history* of the offered object, at the Narrator's discretion, the Magic Check can acquire $\pm2d6$\ bonus.
-\enditemize
+- Depending on the *preciousness* and *history* of the offered object, at the Narrator's discretion, the Magic Check can acquire  $\pm2d6$\ bonus.
 
-\beginchangemargin\beginnarratore
 For a more immediate management of components, you can replace them with a *cost* of 1 Maximum Hit Point per Spell Level. In case of a Magic Critical Success in the Magic Check, these Hit Points are not lost.
-\endnarratore\endchangemargin
 
 ### Recovering from dying
 
@@ -5933,7 +5661,6 @@ Spells like Heat Wave and Cone of Cold cover an area, allowing them to hit multi
 
 A spell's description specifies its area of effect, which usually falls into one of five shapes: cylinder, cone, cube, line, or sphere. Each area of effect has a point of origin, a location from which the spell's energy manifests. The rules for each shape specify how to position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or object. The point of origin must always be valid.
 
-\beginitemize[leftmargin=*]
 - ***Cylinder***: the point of origin of a cylinder is the center of a circle of specific radius as indicated in the spell description. The energy in a cylinder expands in a straight line from the point of origin to the perimeter of the circle, forming the base of the cylinder. The spell's effect then goes from bottom to top or top to bottom to a distance equal to the height of the cylinder. The cylinder's point of origin is included in its area of effect.
 - ***Cone***: a cone extends in a direction of your choice from its point of origin. The width of a cone at a given point along its length is equal to the distance of that point from the point of origin. A cone's area of effect specifies its maximum length. The cone's point of origin is not included in its area of effect unless you decide otherwise.
 
@@ -5944,11 +5671,9 @@ For example, a 9-meter Cone of Cold is 9 meters wide at the end and extends 9 me
 
 A fireball that is generated in a 9x9 m room will take a good part of it, and in a 6x6 m room it will fill it all. In a 3x3 m room, if it has a way to exit through a door or window, it will continue its explosion until it reaches the 6 meter radius. A fireball in a 3x3 m corridor will saturate it for 6 meters forward and backward from the point of origin.
 
-\enditemize
-
 ### Spell Rarity
 
-Spells indicate the Rarity, which is how likely it is to find this spell or how well-known it might be. Rarity depends not only on the level of the spell itself—obviously more powerful spells are also rarer—but also on how widely they are spread and known. The Narrator will use this 3d6 scale to evaluate what can be found more easily:
+Spells indicate the Rarity, which is how likely it is to find this spell or how well-known it might be. Rarity depends not only on the level of the spell itself—obviously more powerful spells are also rarer—but also on how widely they are spread and known. The Narrator will use this 3d6 scale to evaluate what can be found more easily: % Common (1-75\%) - Uncommon (76-93\%) - Rare (94-97\%) - Very Rare (98-99\%) - Legendary (100\%).
 
 Common (1-14) - Uncommon (15) - Rare (16) - Very Rare (17) - Legendary (18).
 
@@ -5960,39 +5685,32 @@ In the case of instantaneous spells, the effects act individually if they occur 
 
 ## Magic rules
 
-\beginitemize[leftmargin=*]
 - When casting their first spell, the spellcaster chooses whether to use Intelligence as the modifier for their Magic Proficiency check, or if they are a Devotee, they can choose the Ability Score indicated by their Patron. Once the choice is made, it cannot be changed.
 
 This modifier is called the **ability modifier for spells**.
 - When the character assigns the first point of Magic Proficiency, they **know** (are present) in their Spellbook a number of Cantrips equal to their ability modifier for spells +2 (with a minimum of 4 Cantrips) and a number of first-level spells equal to the same modifier, with a minimum of 4.
 - Each day, after resting, the character **learns** from his Tome of Magic a number of spells equal to Magic Proficiency/2 (minimum 1) + spell ability modifier + Magic Adept.
-- When the character assigns Magic Proficiency points beyond the first, they **learn** 1 new spell that is available in their Spellbook and is within the maximum castable level, or 2 cantrips (be careful about \hyperlinkadeptodellamagiaMagic Adept).
+- When the character assigns Magic Proficiency points beyond the first, they **learn** 1 new spell that is available in their Spellbook and is within the maximum castable level, or 2 cantrips (be careful about Magic Adept).
 - The number of spells that can be cast daily depends on the caster's capacity. See **Table Magic Points and Magic Proficiency**. A spell costs Magic Points equal to its level.
 - A Follower adds +1d6 to Magic Checks for spells from lists favored by their Patron. Your spells can use one of the energy forms preferred by your Patron.
 - A Devotee adds +1d6 to Magic Checks for spells from lists favored by their Patron and can ignore one die rolled in the Magic Check. Your spells use one of the energy forms preferred by your Patron.
 - The term **learned** means a spell present in the Spellbook that has been memorized and can be cast when desired.
 - The term **known** means a spell present in the Spellbook that has not been learned, meaning it has not been memorized and cannot be cast when desired.
-\enditemize
-
-\endmulticols
 
 **Table: example of Known and Learned Spells**
 
-\begintabular
-
 | **Magic** | **Known (present in Spellbook)** |  | **Learned (that you can cast)** |
 | --- | --- | --- | --- |
-| **Proficiency** | **Cantrips** | **Spell level 1+** | **Cantrips or / Spell level 1+** |
+
+\cline
+
+| **Proficiency** | **Cantrips** | **Spell level 1+** | **Cantrips or /  \textbf{Spell level 1+**} |
 | 1 | mod +2 (minimum 4) | mod (minimum 4) | mod (minimum 4) / 2 |
 | 2 | present in Spellbook | present in Spellbook | +2 or / +1 |
 | 3 | present in Spellbook | present in Spellbook | +2 or / +1 |
 | 4 | present in Spellbook | present in Spellbook | +2 or / +1 |
 
-\endtabular
-
-**mod**: is the ability modifier for spells. Each time you take the \hyperlinkadeptodellamagiaMagic Adept Feat, you *learn* one additional spell present in your Spellbook.
-
-\beginmulticols
+**mod**: is the ability modifier for spells. Each time you take the Magic Adept Feat, you *learn* one additional spell present in your Spellbook.
 
 ## Maximum castable spell level
 
@@ -6001,7 +5719,7 @@ While Magic Proficiency indicates study and dedication to Magic in its most abst
 To determine the maximum castable level of spells, add your Magic Proficiency score and Magic Adept, dividing by two and rounding up. Compare the result with (twice the score of your ability modifier for spells)+1, taking the lower value.
 
 E.g., MP=8, Magic Adept taken 4 times, (8+4)/2=6 level. E.g., MP=16 and Magic Adept 1 time, (16+1)/2=9 spell level.
-If the spellcaster has an ability modifier for spells of 0, they cannot cast spells higher than the first level (see also the \hyperlinkOne with MagicOne with Magic Feat, pg. \pagerefOne with Magic).
+If the spellcaster has an ability modifier for spells of 0, they cannot cast spells higher than the first level (see also the One with Magic Feat, pg. ).
 If the modifier is 3, the maximum castable level will be 6th level or 7th level in the two example cases.
 
 ## Magic Check
@@ -6012,11 +5730,11 @@ The spellcaster rolls 3d6 + 1d6 for every two points of Magic Skill (rounded up)
 
 The spellcaster can ignore one rolled die in the Magic Check for every two times they have taken Magic Adept. This for evade possibility of rolling three 1.
 
-The Magic Check is considered passed if the roll is higher than 10 + Spell Level*2 + penalty (due to armor/shield, critical suffered). Any Magic Criticals or Magic Failures are compared to this value.. In case of Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
+The Magic Check is considered passed if the roll is higher than 10 + Spell Level*2 + penalty (due to armor/shield, critical suffered). Any Magic Criticals or Magic Failures are compared to this value.. In case of  Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
 
 When required to pass or make a Magic Check, it is sufficient to not roll a Magical Critical Failure and pass the difficulty given by spell level. If required to achieve a Critical Success and the Magic Check does not achieve it, then any result obtained will be considered a Critical Failure.
 
-Magic Check as all check follow the \hyperlinkgoldenrulesGolden Rules, page \pagerefgoldenrules.
+Magic Check as all check follow the Golden Rules, page .
 
 ## Distracted - Problems in casting the spell
 
@@ -6024,17 +5742,15 @@ If the spellcaster is **Distracted**, tries to hide the casting of magic, is imp
 
 For each critical hit or magic critical that has been suffered in the round, the Magic Check is made with additional 4 penality.. Any Critical Failures or Critical Successes are taken into account.
 
-\beginchangemargin\beginnarratore
 Grant a +1d6 in the Magic Check, or allow ignoring a 1 rolled in the Magic Check, when the character declares with expertise and emotion the casting of the spell. If they say *I cast a fireball* they will not get advantages, but if with passion they declare *By the Flame of Genesis may Nedraf destroy you with his sacred flames. Burn unworthy ones. Fireball!* then yes!.
-\endnarratore\endchangemargin
 
 ## Modifying the Magic Check
 
 **Before making** the Magic Check, the spellcaster can decide to invest additional Magic Points to improve their Magic Check.
 
-For each time, up to a maximum of three times, that they pay the cost of the spell, they can **add** 1 additional d6 to the Magic Check.
+For each time, up to a maximum of three times, that they pay the cost of the spell, they can **add** 1 additional d6 to the Magic Check. 
 
-**After making** the Magic Check, using a Reaction, for every two times they pay the cost of the spell (up to a maximum of six times), they can **ignore** one die rolled in the Magic Check.
+**After making** the Magic Check, using a Reaction, for every two times they pay the cost of the spell (up to a maximum of six times), they can **ignore** one die rolled in the Magic Check. 
 
 A spellcaster can also **voluntarily fail the Magic Check**.
 
@@ -6043,8 +5759,6 @@ A spellcaster can also **voluntarily fail the Magic Check**.
 If the Magic Check has had at least one Magic Critical Failure (three 1 or very low value rolled), roll 3d6 and consult the following table. For each Magic Critical Failure beyond the first that has manifested in the casting of the spell and for each Critical Hit suffered, roll one less d6, down to rolling a single d6.
 
 **Table: Magic Critical Failure Effects**
-
-\begintabularx0.5\textwidth
 
 | 1 | For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic Critical Success in the Magic Check |
 | 2 | You increase the Fatigued condition by 2 levels, up to a maximum of Fatigued 5 |
@@ -6065,8 +5779,6 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 | 17 | An anvil falls, 3d6 damage Reflex Saving Throw DC 15 to halve, on a random creature, excluding you, within six meters |
 | 18 | Creatures, excluding you, within a 6-meter radius from you take 3d10 unresistable force damage |
 
-\endtabularx
-
 ## Magic Points
 
 Depending on the score in Magic Proficiency, the spellcaster has a certain amount of Magic Points available.
@@ -6078,11 +5790,9 @@ In the case of Cantrips, these do not consume Magic Points, but it is necessary 
 
 The spellcaster has a **bonus** to the Magic Points score equal to their ability modifier for spells.
 
-Magic Points are all recovered with 8 hours of rest.
+Magic Points are all recovered with 8 hours of rest. 
 
 **Table: Magic Proficiency (MP) and Magic Points (MP)**
-
-\begintabularx0.45\textwidth
 
 | **M Prov** | **MP** | **M Prov** | **MP** | **M Prov** | **MP** |
 | 1 | 4 | 8 | 28 | 15 | 53 |
@@ -6093,8 +5803,6 @@ Magic Points are all recovered with 8 hours of rest.
 | 6 | 21 | 13 | 46 | 20 | 70 |
 | 7 | 25 | 14 | 49 | 20+ | prev.+ 4 |
 
-\endtabularx
-
 Magic Point = (Magic Proficiency × 3) + (Magic Proficiency / 2, rounded up) + spell attribute modifier.
 
 ## Spells as Rituals
@@ -6103,11 +5811,9 @@ Especially at lower levels, it can be very frustrating not having learned a spel
 
 The spellcaster can cast a spell that is present in their Spellbook and is within the 3rd level and within the maximum castable spell level, by extending the casting time to 1 hour per Magic Point cost. In the case of a spell cast in this way, no Magic Points are used, but it is necessary to pass a Magic Check at the end of the formulation.
 
-\beginchangemargin\begintcolorbox[title = Daring the Magic Check]
-The Magic Check is an important and integral part of the magic system, use it to your advantage. Magic Points allow you to modify the Check, exploit these possibilities.
+>> Daring the Magic Check: The Magic Check is an important and integral part of the magic system, use it to your advantage. Magic Points allow you to modify the Check, exploit these possibilities.
 
 There is always a certain danger... but what is Magic without risks!
-\endtcolorbox\endchangemargin
 
 ## Auto Magic Critical Success
 
@@ -6116,7 +5822,7 @@ Each time you want to apply an additional Magic Critical Success beyond the firs
 
 The casting time of a spell empowered in this manner increases by 1 Action.
 
-E.g., \hyperlinkVelocitàHaste, I want it to have 2 magic criticals, I pay 3 Magic Points to cast it, plus 3 for the first Magic Critical Success plus 4 for the second Magic Critical Success, and possibly 5 for a third Magic Critical Success. All Magic Points used are always paid regardless of the result of the Magic Check.
+E.g., Haste, I want it to have 2 magic criticals, I pay 3 Magic Points to cast it, plus 3 for the first Magic Critical Success plus 4 for the second Magic Critical Success, and possibly 5 for a third Magic Critical Success. All Magic Points used are always paid regardless of the result of the Magic Check.
 
 You cannot spend more than half of your current Magic Points to empower a spell, you cannot achive more Auto Magic success then the ability modifier for spells.
 
@@ -6124,10 +5830,8 @@ You cannot spend more than half of your current Magic Points to empower a spell,
 
 The magic system can become unbalanced by always abusing the same spells. To limit this, two approaches are proposed, to be established in the Zero Session:
 
-\beginitemize[leftmargin=*]
 - The Magic Point cost of the spell increases by the cost itself each time it is recast (*suggested method*)
 - A spellcaster can cast the same spell only once per day
-\enditemize
 
 ## The Spellbook
 
@@ -6142,7 +5846,7 @@ Each spell occupies a number of pages in the Spellbook equal to its level, with 
 
 A Spellbook (book) costs 5 gp per page.
 
-A spellcaster can copy spells into their Spellbook whose level is one higher than their maximum castable level (see \hyperlinkscuoleelivelliMaximum castable spell level).
+A spellcaster can copy spells into their Spellbook whose level is one higher than their maximum castable level (see Maximum castable spell level).
 
 If the spell is more than two levels higher, the spellcaster must make a Magic Check and obtain a Magic Critical Success. If the character is a Devotee and the spell belongs to a Magic List preferred by the Patron, then the Magic Check is performed only if the spell is three or more levels above the maximum castable level.
 
@@ -6150,13 +5854,11 @@ If they do not obtain at least one Magic Critical Success, they cannot attempt t
 
 The source of new spells can be another Spellbook or scroll... in short, anything that the previous spellcaster used to store the spells. A magic item (magic staff, ring, rod... wand) is not suitable as a source from which to copy the spell it contains; you must copy from the equivalent Spellbook or scroll of another spellcaster. A spell when copied into the new Spellbook vanishes from the original source.
 
-\beginchangemargin\begintcolorbox[title = Choosing Spells]
-Each spell is a precious treasure that must be found and learned.
+>> Choosing Spells: Each spell is a precious treasure that must be found and learned.
 
 Each spell is like a magic item, a true treasure to seek and obtain!
 
 You will have to undertake perilous adventures, pay mercenaries, seek ancient tomes, and unveil the darkest and most forgotten secrets to learn new spells.
-\endtcolorbox\endchangemargin
 
 ## Studying spells
 
@@ -6190,17 +5892,12 @@ In the description of the spell, it is written whether a Saving Throw is necessa
 
 If it is the character who must resist a spell, the Narrator will not tell you to make a Saving Throw at difficulty 18, it is he who compares your roll with the difficulty, he can tell you that the test is complex, difficult, or easy...
 
-\beginchangemargin\begintcolorbox[title = Tups casts Arcane dart!]
-Tups, who has Intelligence 4, Magic Proficiency 6, and has taken Magic Adept 2 times, casts the \hyperlinkGuiding BoltArcane dart spell. The difficulty (DC) of the Reflex Saving Throw will be equal to 10 + 6 (MP) + 4 (ability modifier for spell, Intelligence) + 2 (has taken Magic Adept 2 times), that is 10+6+4+2 = 22 to halve the damage. If he had made a Magic Check and this had a magic Critical Success, the DC would have become 23.
-\endtcolorbox\endchangemargin
+>> Tups casts Arcane dart!: Tups, who has Intelligence 4, Magic Proficiency 6, and has taken Magic Adept 2 times, casts the \hyperlinkGuiding BoltArcane dart spell. The difficulty (DC) of the Reflex Saving Throw will be equal to 10 + 6 (MP) + 4 (ability modifier for spell, Intelligence) + 2 (has taken Magic Adept 2 times), that is 10+6+4+2 = 22 to halve the damage. If he had made a Magic Check and this had a magic Critical Success, the DC would have become 23.
 
-\beginitemize[leftmargin=*]
 - If in the Saving Throw you roll 3 sixes, you have managed to pass it, regardless of the total, and you obtain a **Critical Saving Success**.
 - If the Saving Throw succeeds by a margin of 8 you obtain a **Critical Saving Success**.
 - If in the Saving Throw you roll 3 ones, you have failed the roll, regardless of the total, and you obtain a **Critical Saving Failure**.
 - If the Saving Throw fails by a margin of 8, and by every 8 failed you obtain a **Critical Saving Failure**.
-
-\enditemize
 
 It is also possible that in the description of the spell is reported what happens in case of Critical Success or Critical Failure of the Saving Throw.
 
@@ -6210,7 +5907,7 @@ For **monsters** or anyway for a spell casting given by innate magical abilities
 
 Several spells interact with other effects by canceling or modifying them. When it is written that a spell **counters** or is **countered** by another, it is necessary to verify the DC of the spells or effects to make sure which effect dominates over the other.
 
-For example, the \hyperlinkLentezzaSlow spell counters \hyperlinkVelocitàHaste, \hyperlinkRemove CurseRemove Curse counters curses, \hyperlinkRimuovi VelenoRemove Poison counters poisons...
+For example, the Slow spell counters Haste, Remove Curse counters curses, Remove Poison counters poisons...
 
 The **own counterspell value** is computed with a check of 3d6 + MP + ability modifier for spells + times that Magic Adept has been taken. + 1 for each Magic Critical Success obtained in the Magic Check.
 
@@ -6262,7 +5959,7 @@ The spellcaster can modify spells in various ways. These possibilities add versa
 
 - **Merciful magic**: by increasing the Magic Points spent by 3, spells inflict temporary damage. Spells that inflict damage of a particular type (such as fire) inflict temporary damage of the same type. 1 Action.
 
-- **Targeted magic**: for every 2 Magic Points you pay in addition to the cost of the spell, you can exclude one person from the area of effect of the spell. You cannot exclude more people than the number of times you have taken the Magic Adept Feat. 1 Action.
+- **Targeted magic**: for every 2 Magic Points you pay in addition to the cost of the spell, you can exclude one person from the area of effect of the spell. You cannot exclude more people than the number of times you have taken the Magic Adept Feat. 1 Action. %1 magic point per spell level per excluded creature
 
 - **Distant magic**: by increasing the Magic Points used by 1, you increase the casting distance of the spell up to 9 meters. 1 Action.
 
@@ -6273,9 +5970,11 @@ Each spellcaster sacrifices half of the Magic Points of the spell cast by the co
 
 The possibilities granted by Altering Spells are cumulative with each other.
 
-**Minor modifications** to the manifestation of the spell can be agreed with the Narrator for a cost of additional Magic Points or with a successful Magic Check.
+**Minor modifications**  to the manifestation of the spell can be agreed with the Narrator for a cost of additional Magic Points or with a successful Magic Check.
 
 ## Attempting Spells with impediments
+
+ 
 
 The casting of a spell is bound to particular and unique gestures and words. When the character finds themselves in a situation where they cannot gesture or speak, then they can try to cast the spell anyway, although it becomes much more difficult.
 
@@ -6321,7 +6020,7 @@ The indicated capabilities can be activated if with the previous Actions the spe
 
 **5: Clear waters.** Using an Immediate Action you can touch a creature and help it free itself from poisons and toxins. A new Saving Throw is granted (if possible) to lose the poisoned condition.
 
-***Air List*3: Among the clouds.** Using a Reaction you are able to cast the \hyperlinkFeather FallFeather Fall spell on yourself without using Magic Points.
+***Air List*3: Among the clouds.** Using a Reaction you are able to cast the Feather Fall spell on yourself without using Magic Points.
 
 **4: Shock.** Your hand manifests a crackle of electricity, the next spell you cast within the end of the next round that has an Attack Roll causes 2d8 additional electricity damage. Costs an Immediate Action.
 
@@ -6377,38 +6076,30 @@ The indicated capabilities can be activated if with the previous Actions the spe
 
 **5: Knowledge.** You can cast the Identify spell with an Immediate Action, without using Magic Points.
 
-**These capabilities are not granted to those who take the \hyperlinkOne Belief**{One Belief Feat} (pg. \pagerefOne Belief).
+**These capabilities are not granted to those who take the One Belief Feat** (pg. ).
 
 ## About OBSS and the size of spells
 
-Let's start with an assumption: in OBSS a medium creature occupies a space of $(1*1)\sim^$ while in 5e the same creature occupies $(1.5*1.5)\si{m{^2$ (2.25\si{m{^2).
+Let's start with an assumption: in OBSS a medium creature occupies a space of $(1*1)\si{m^}$ while in 5e the same creature occupies $(1.5*1.5)\si{m{^2$ (2.25\si{m{^2).
 
-A \hyperlinkFireballFireball acts in a 6-meter radius, that is, it *occupies* ($6*6*\pi$)\sim^, in this space there can fit *about 110* creatures in OBSS and 50 medium creatures in 5e!
+A Fireball acts in a 6-meter radius, that is, it *occupies* ($6*6*\pi$)\si{m^}, in this space there can fit *about 110* creatures in OBSS and 50 medium creatures in 5e!
 
 Doing the calculations, the Fireball should have a radius of 4 meters to influence the same number of creatures!
 
 If this factor influences your game too much, reduce the radii of explosions and the lengths of cones by half ($r-r/2$).
-
-\endmulticols
-
 ---
 
 # The Spells
 
-\beginmulticols
-
 ## Spell list
 
 ## Acid Splash
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Conjuration
 - **Level**:: 0, Common
 - **Casting Time**:: 1 Action
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: Instantaneous
-\enddescription
 
 You hurl a bubble of acid. Choose one creature within range, or two creatures within range that are within 1 meter of each other. The target must succeed on a Reflex Saving Throw or take 1d6 acid damage.
 
@@ -6417,60 +6108,48 @@ You can increase the spell's damage by 1d8 when you reach MP 5, MP 11, and MP 17
 **For each Magic Critical Success obtained** in the Magic Check, you hurl one more acid bubble within range.
 
 ## Aid
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Healing, Necromancy
 - **Level**:: 2, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S, M (a small strip of white cloth)
 - **Duration**:: 1 hour per Magic Proficiency
-\enddescription
 
 Your spell increases the robustness and resolve of your allies. Choose up to three creatures within range; for the duration they gain 5 Temporary Hit Points. A creature cannot receive more than one Aid spell per day.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can affect one additional person or increase the temporary HP by 5.
 
 ## Air Walk
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Air
 - **Level**:: 4, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S, M (a handful of beans and Holy Water)
 - **Duration**:: 1 Turn
-\enddescription
 
 For the duration, a willing creature of your choice within range, that you can see, can walk on air as if it were walking on solid ground. If a creature is in the air when the effect ends, the creature descends 18 meters per round for one minute after which it falls for the remaining distance.
 
 **For each Magic Critical Success** obtained in the Magic Check you can add one creature as a target. When you cast the spell, the target creatures must be within 9 meters of each other.
 
 ## Alarm
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Abjuration
 - **Level**:: 1, Common
 - **Casting Time**:: 1 minute
 - **Range**:: 9 meters
 - **Components**:: V, S, M (a tiny bell and a piece of fine silver wire)
 - **Duration**:: 2 hours per Magic Proficiency (maximum 24 hours)
-\enddescription
 
 You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 3-meter-radius sphere. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also decide whether the alarm is mental or audible. A mental alarm alerts you with a ping in your mind if you are within 1.5 kilometers of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds that can be heard within 18 meters.
 
 **For each Magic Critical Success** obtained in the Magic Check, the duration increases by 2 hours.
 
 ## Alter Self
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Transmutation
 - **Level**:: 2, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S
 - **Duration**:: 1 minute per Magic Proficiency
-\enddescription
 
 You assume a different form. When you cast this spell, choose one of the following options, the effect of which lasts for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
 
@@ -6485,75 +6164,60 @@ At any time for the duration of the spell, you can use two Actions to change you
 **For each Magic Critical Success** obtained in the Magic Check, you can alter another subject or double the duration.
 
 ## Animal Barrier
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Animals and Plants
 - **Level**:: 5, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S
 - **Duration**:: 1 turn per MP
-\enddescription
 
 Animal Barrier creates an invisible barrier capable of protecting all creatures within it, as if they were behind a wall, from attacks by animals, both normal and giant. The barrier, centered on the caster, has a diameter of 6 meters.
 
 **For each Magic Critical Success** obtained in the Magic Check, you double the duration or expand the radius by 2 meters.
 
 ## Animal Friendship
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Animals and Plants
 - **Level**:: 1, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S, M (a bit of food)
 - **Duration**:: 24 hours
-\enddescription
 
 This spell lets you convince a natural beast that you mean it no harm. Choose a beast that you can see within range. The beast must see and hear you. If the beast's Intelligence is 2 or higher, the spell fails. Otherwise, the beast must succeed on a Will Saving Throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can affect an additional beast.
 
 ## Animal Messenger
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Animals and Plants
 - **Level**:: 2, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S, M (a bit of food)
 - **Duration**:: 24 hours
-\enddescription
 
 By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat, with a CR lower than 0. You specify a location, which you must have visited before, and a recipient who matches a general description, such as *a man or woman wearing the guard's uniform* or *a red-haired dwarf wearing a pointed hat*. You also speak a message of up to twenty-five words. The target beast travels for the duration of the spell toward the specified location, covering about 75 kilometers per 24 hours for a flying messenger, or 40 kilometers for other animals. When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn't reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.
 
 **For each Magic Critical Success** obtained in the Magic Check, the spell's duration increases by 8 hours.
 
 ## Animate Dead
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Necromancy
 - **Level**:: 3, Common
 - **Casting Time**:: 1 minute
 - **Range**:: 3 meters
 - **Components**:: V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
 - **Duration**:: Instantaneous
-\enddescription
 
 This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones or a zombie if you chose a corpse. On each of your turns, you can use an action to mentally command any creature you made with this spell if the creature is within 18 meters of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on it again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 
 **For each Magic Critical Success** obtained in the Magic Check, you animate or reassert control over two undead creatures. Each must come from a different corpse or pile of bones.
 
 ## Animate Objects
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Transmutation
 - **Level**:: 5, Common
 - **Casting Time**:: 1 minute
 - **Range**:: 36 meters
 - **Components**:: V, S
 - **Duration**:: Concentration, maximum 1 minute
-\enddescription
 
 Objects come to life at your command. Choose up to MP/2 nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can't animate objects larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 Hit Points.
 
@@ -6565,20 +6229,19 @@ If you issue no commands, the creature only defends itself against hostile creat
 
 **For each Magic Critical Success** obtained in the Magic Check, the maximum duration doubles.
 
-## Anti-Magic Field
+ 
 
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
+## Anti-Magic Field
 - **Magic List**:: Abjuration
 - **Level**:: 8, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: Self (3-meter radius sphere)
 - **Components**:: V, S, M (a pinch of powdered iron or iron filings)
 - **Duration**:: Concentration, up to 1 hour
-\enddescription
 
 You are surrounded by an invisible sphere of anti-magic with a 3-meter radius. This area is divorced from the magical energy that suffuses the Earth. Within the sphere, spells can't be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you. Spells and other magical effects, except those created by an artifact or Patron, are suppressed in the sphere and can't protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.
 
-*Targeted Effects*. Spells and other magical effects, such as Arcane dart and \hyperlinkCharm PersonCharm Person, that target a creature or an object in the sphere have no effect on that target.
+*Targeted Effects*. Spells and other magical effects, such as Arcane dart and Charm Person, that target a creature or an object in the sphere have no effect on that target.
 
 *Areas of Magic*. The area of another spell or magical effect, such as fireball, can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough. Spells. Any active spell or other magical effect on a creature or an object in the sphere is suppressed while the creature or object is in it.
 
@@ -6591,15 +6254,12 @@ You are surrounded by an invisible sphere of anti-magic with a 3-meter radius. T
 *Dispel Magic*. Spells and magical effects such as dispel magic have no effect on the sphere. Likewise, the spheres created by different anti-magic field spells don't nullify each other.
 
 ## Antilife Shell
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Animals and Plants
 - **Level**:: 5, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Personal (3-meter radius)
 - **Components**:: V, S
 - **Duration**:: up to 1 hour
-\enddescription
 
 A glowing barrier extends out from you to a radius of 3 meters and moves with you, remaining centered on you and keeping creatures other than undead and constructs at bay. The barrier lasts for the duration.
 
@@ -6608,15 +6268,12 @@ The barrier prevents an affected creature from passing through it in any way. An
 **For each Magic Critical Success** obtained in the Magic Check, the duration doubles.
 
 ## Antipathy/Sympathy
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment
 - **Level**:: 8, Rare
 - **Casting Time**:: 1 hour
 - **Range**:: 18 meters
 - **Components**:: V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)
 - **Duration**:: 10 days
-\enddescription
 
 This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 30-meter-radius sphere. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura's effect.
 
@@ -6627,30 +6284,24 @@ This spell attracts or repels creatures of your choice. You target something wit
 *Ending the Effect*. If an affected creature ends its turn while not within 18 meters of the target or able to see it, the creature makes a Will Saving Throw. On a successful save, the creature is no longer affected by the target and recognizes the feeling of repugnance or attraction as magical. In addition, a creature affected by the spell is allowed another Will Saving Throw every 24 hours while the spell persists. A creature that successfully saves against this effect is immune to it for 1 minute, after which time it can be affected again.
 
 ## Apparent Death
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Necromancy
 - **Level**:: 3, Uncommon
 - **Casting Time**:: 1 Reaction
 - **Range**:: 18 meters
 - **Components**:: V
 - **Duration**:: 6 rounds plus 1 round per MP
-\enddescription
 
 The caster induces in themselves, or in a willing creature, a state of total paralysis that appears identical to death, even under close examination. An affected creature can hear sounds and smell odors, but cannot move and is completely devoid of tactile sensations; if the body is damaged, it will perceive no discomfort, nor will it have any physical reaction. All damage inflicted on a creature in this state is reduced by half; poisons and attacks that paralyze or drain life have no effect before this spell expires. One round is required, after the spell ends, before the body can resume its normal vital functions.
 
 **For each Magic Critical Success** obtained in the Magic Check, you double the duration or affect another creature.
 
 ## Arcane dart
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Universal
 - **Level**:: 1, Common
 - **Casting Time**:: 1 Action
 - **Range**:: 36 meters
 - **Components**:: V, S
 - **Duration**:: 1 Turn, Concentration
-\enddescription
 
 You create a glowing dart of magical force. The dart strikes a creature within range that you can see, chosen by you. A dart inflicts 1d4 + 1 force damage to its target, and you can direct them to hit one or more creatures.
 
@@ -6665,30 +6316,24 @@ For each Action spent in the round dedicated to casting the spell beyond the fir
 **For each Magic Critical Success** obtained in the Magic Check, the spell creates an additional dart.
 
 ## Arcane Eye
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Divination
 - **Level**:: 4, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S, M (a bit of bat fur)
 - **Duration**:: Concentration, up to 1 hour
-\enddescription
 
 You create an invisible, magical eye within range that hovers in the air for the duration.
 
 You mentally receive visual information from the eye, which has normal vision and darkvision out to 9 meters. The eye can look in every direction. As a Movement Action, you can move the eye up to 9 meters in any direction. There is no limit to how far the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 2.5 centimeters in diameter.
 
 ## Arcane Hand
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Evocation
 - **Level**:: 5, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 36 meters
 - **Components**:: V, S, M (an eggshell and a snakeskin glove)
 - **Duration**:: Concentration, 1 minute
-\enddescription
 
 You create a Large hand made of transparent, luminous energy in an unoccupied space within range that you can see. The hand persists for the spell's duration and moves at your command, mimicking the movements of your hand.
 
@@ -6707,15 +6352,12 @@ When you cast the spell and as 2 Actions on your subsequent turns, you can move 
 **For each Critical Magic Success** obtained in the Magic Check, the damage of the clenched fist option increases by 2d8 and the damage of the grasping hand option increases by 2d6.
 
 ## Arcane Lock
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Abjuration
 - **Level**:: 2, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S, M (gold dust worth at least 25 gp, which is consumed by the spell)
 - **Duration**:: Until dispelled
-\enddescription
 
 You cast the spell on a closed door, window, gate, chest, or other entrance, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 1 meter of the object, suppresses the spell for 1 minute. Otherwise, the entrance is impassable until it is destroyed or the spell is dispelled or suppressed. Casting knock on the object suppresses Arcane Lock for 10 minutes.
 
@@ -6724,15 +6366,12 @@ While affected by this spell, the object is more difficult to break or force ope
 **For each Critical Magical Success** obtained in the Magic Check, you can affect another closure or increase the difficulty of opening by 4.
 
 ## Arcane Mark
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Universal
 - **Level**:: 0, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S
 - **Duration**:: Permanent
-\enddescription
 
 This spell allows you to inscribe a personal rune or mark on an object. The writing can be no more than 15 cm long. The writing can be visible or invisible as decided at the time of casting.
 Detect Magic or Read Magic spells reveal the writing if invisible.
@@ -6741,15 +6380,12 @@ If the writing is placed on a creature, it fades within a month.
 **For each Critical Magic Success** obtained in the Magic Check, you write one additional logo.
 
 ## Arcane Mirage
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Illusion
 - **Level**:: 7, Rare
 - **Casting Time**:: 10 minutes
 - **Range**:: Sight
 - **Components**:: V, S
 - **Duration**:: 10 days
-\enddescription
 
 You make a piece of terrain in an area up to 1.5 kilometers square within range look, sound, and smell like some other sort of terrain. The terrain's general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
 
@@ -6760,28 +6396,22 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 **With three Critical Magic Successes obtained** in the Magic Check, the duration is permanent.
 
 ## Arcane Sword
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Evocation
 - **Level**:: 7, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
 - **Duration**:: Concentration, up to 1 minute
-\enddescription
 
 For the duration of the spell, you create a floating sword of force at range. When the sword appears, you make a melee attack with a modifier of MP + spell modifier against a target of your choice within 1 meter of the sword. On a hit, the target takes 4d10 force damage. Until the spell ends, you can use an Action each round to move the sword up to 6 meters to a point you can see and repeat this attack against the same target or a different one.
 
 ## Arcanist's Magic Aura
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Illusion
 - **Level**:: 2, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S, M (a small square of silk)
 - **Duration**:: 24 hours
-\enddescription
 
 You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn't being carried or worn by another creature. When you cast this spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.
 
@@ -6790,15 +6420,12 @@ You place an illusion on a creature or an object you touch so that divination sp
 *Mask*. You change the way the target appears to spells and magical effects that detect creature types or Traits, such as a symbol spell's trigger. You choose a creature type or Trait; other spells and magical effects treat the target as if it were a creature of that type or Trait, and no longer of its actual type or Trait.
 
 ## Augury
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Spell List**:: Divination
 - **Level**:: 2, Common
 - **Casting Time**:: 1 minute
 - **Range**:: Self
 - **Components**:: V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)
 - **Duration**:: Instantaneous
-\enddescription
 
 By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divination tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The Narrator chooses from the following possible omens:
 
@@ -6810,33 +6437,27 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 
 - Nothing, for results that aren't especially good or bad
 
-The spell doesn't take into account every possible circumstance that might change the outcome, such as the casting of additional spells or the loss or arrival of an ally. If you cast the spell two or more times before the new sun has risen, there is a cumulative 25\
+The spell doesn't take into account every possible circumstance that might change the outcome, such as the casting of additional spells or the loss or arrival of an ally. If you cast the spell two or more times before the new sun has risen, there is a cumulative 25\% chance for each casting after the first that you get a random reading. The Narrator makes this roll in secret.
 
 ## Aura of Purity
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Spell List**: : Healing
 - **Level**: : 4, Rare
 - **Casting Time**: : 2 Actions
 - **Range**: : Self
 - **Components**: : V, S, M (holy water)
 - **Duration**: : Concentration, up to 10 minutes
-\enddescription
 
 A fragrance radiates from you in a 13-foot radius for the duration. While in this fragrance, you and your allies have Resistance to poison damage and +4 to Saving Throws to avoid or end effects that include the conditions of Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned.
 
 **For each Magic Critical Success** obtained in the Magic Check, you expand the radius of the fragrance by 3 feet.
 
 ## Awaken
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Animals and Plants
 - **Level**:: 5, Rare
 - **Casting Time**:: 8 hours
 - **Range**:: Touch
 - **Components**:: V, S, M (an agate worth at least 1000 gp, which the spell consumes)
 - **Duration**:: Instantaneous
-\enddescription
 
 After spending the casting time tracing magical pathways with a precious gem, you touch a Huge or smaller beast or plant. The target must have no Intelligence score or an Intelligence of -3 or less. The target gains an Intelligence of 0. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. The Narrator will choose appropriate statistics for the type of awakened plant, such as the statistics for the awakened shrub or the awakened tree.
 
@@ -6845,97 +6466,77 @@ The awakened beast or plant is Charmed by you for 30 days or until you or your c
 **For each Critical Magical Success** obtained in the Magic Check, you increase the duration of the charm by 30 days, up to a maximum of 1 year.
 
 ## Bane
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S, M (a drop of your own blood)
 - **Duration**:: 1 minute
-\enddescription
 
 Up to three creatures of your choice that you can see within range must make a Will Saving Throw. Whenever a target that fails this saving throw makes an Attack Roll or a Saving Throw before the spell ends get a -1 penalty.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can target an additional creature.
 
 ## Banishment
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Abjuration
 - **Level**:: 4, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S, M (an item distasteful to the target)
 - **Duration**:: 1 minute
-\enddescription
 
 You attempt to send a creature that you can see within range to another plane of existence. The target must succeed on a Will Saving Throw or be banished. If the target is native to the plane of existence you're on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. If the target is native to a different plane of existence than the one you're on, the target vanishes with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if its original space is occupied.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can affect one additional creature, or the creature is banished for one week.
 
 ## Barkskin
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Spell List**:: Animals and Plants
 - **Level**:: 2, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S, M (a handful of oak bark)
 - **Duration**:: 1 hour
-\enddescription
 
 The skin of the target you are touching when you cast this spell becomes rough and bark-like until the spell ends, and the target's natural Defense increases by 1 + 1/6 Magic Proficiency regardless of the armor being worn.
 
 ## Bestow Curse
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Necromancy
 - **Level**:: 3, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S
 - **Duration**:: 1 minute
-\enddescription
 
 A creature you touch must succeed on a Will Saving Throw or be cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
 
-\beginitemize[leftmargin=*]
 - Choose an ability score. While cursed, the target has -1d6 to basic skill checks based on that ability and Saving Throws based on that ability.
 - While cursed, the target has -1d6 to Attack Rolls and -3 to melee damage against you.
 - While cursed, the target must make a Will Saving Throw at the start of each of its turns. If it fails, it wastes 1 Action of that turn doing nothing.
 - While the target is cursed, your attacks and spells deal an extra 1d8 Void damage against it.
-\enditemize
 
 The remove curse spell (see description) ends this effect. At the Narrator's discretion, you may choose a curse with a different effect, but it should not be more powerful than those described above. The Narrator has final judgment on the effect of a curse.
 
 **For each Critical Magical Success** obtained in the Magic Check, you double the duration. If you obtain 3 Critical Successes, the duration is permanent.
 
 ## Black Tentacles
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Conjuration
 - **Level**:: 4, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 27 meters
 - **Components**:: V, S, M (a piece of tentacle from a giant octopus or a giant squid)
 - **Duration**:: 1 minute
-\enddescription
 
 Squirming, ebony tentacles fill a 6-meter square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.
 
-When a creature enters the affected area for the first time on a turn or starts its turn there, it must succeed on a Reflex Saving Throw or take 3d6 bludgeoning damage and be \hyperlinkintralciatorestrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes 3d6 bludgeoning damage. A creature restrained by the tentacles can use 2 Actions to make a new Saving Throw to escape for that round.
+When a creature enters the affected area for the first time on a turn or starts its turn there, it must succeed on a Reflex Saving Throw or take 3d6 bludgeoning damage and be restrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes 3d6 bludgeoning damage. A creature restrained by the tentacles can use 2 Actions to make a new Saving Throw to escape for that round.
 
 ## Blade Barrier
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Conjuration
 - **Level**:: 6, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: 10 minutes
-\enddescription
 
 You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration. You can make a straight wall up to 30 meters long, 6 meters high, and 1 meter thick, or a ringed wall up to 18 meters in diameter, 6 meters high, and 1 meter thick. The wall provides total cover to creatures behind it, and its space is difficult terrain.
 
@@ -6944,15 +6545,12 @@ When a creature enters the wall's area for the first time on a turn or starts it
 A spellcaster who is within one meter of the Blade Barrier is considered Distracted.
 
 ## Bless
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Universal
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S, M (a vial of Holy Water which the spell consumes)
 - **Duration**:: 1 minute
-\enddescription
 
 You bless up to three creatures of your choice within range. Targets gain +1 to Saving Throws and Attack Rolls.
 
@@ -6961,15 +6559,12 @@ Multiple blessings, even from different Patrons, do not stack. You must be a Fol
 **For each Magic Critical Success** obtained in the Magic Check, you can add one creature as a target.
 
 ## Bless Water
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Universal
 - **Level**:: 2, Common
 - **Casting Time**:: 10 Minutes
 - **Range**:: Touch
 - **Components**:: V, S, M (25 gold coins offered to the church which the spell consumes)
 - **Duration**:: Instantaneous
-\enddescription
 
 You bless up to one liter of liquid, enough to create 5 vials of Holy Water.
 
@@ -6978,30 +6573,24 @@ You must be a Follower or Devotee to cast this spell.
 **For each Magic Critical Success** obtained in the Magic Check, you bless an additional liter of liquid.
 
 ## Blessing of Life
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Healing
 - **Level**:: 3, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S
 - **Duration**:: 1 minute, Concentration
-\enddescription
 
 This spell bestows hope and vitality. Choose up to 6 creatures within range. For the duration, each target has +2 to Will Saving Throws and recovers 1 Hit Point per round.
 
 **If you obtain 2 Magic Critical Success and are a Devotee or Follower of a good Patron**, each round the chosen creatures recover 2 additional Hit Points.
 
 ## Blight
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Necromancy
 - **Level**:: 4, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S
 - **Duration**:: Instantaneous
-\enddescription
 
 Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Fortitude Saving Throw. If it fails the Saving Throw, the target takes 8d8 necrotic damage, or half as much damage if it succeeds. This spell has no effect on undead or constructs.
 
@@ -7012,87 +6601,69 @@ If the target is a nonmagical plant that isn't a creature, such as a tree or shr
 **Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved.
 
 ## Blinding Smite
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Evocation
 - **Level**:: 3, Rare
 - **Casting Time**:: 2 Actions
 - **Components**:: V
 - **Duration**:: 1 minute
-\enddescription
 
 The target hit by the strike takes 3d8 Light damage and must succeed on a Fortitude Saving Throw or become Blinded until the spell ends. At the end of each of its turns, the blinded target can make a Saving Throw, ending the spell on itself on a success.
 
 **For each Magic Critical Success** obtained in the Magic Check you inflict +2d6 additional Light damage.
 
 ## Blindness/Deafness
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Necromancy
 - **Level**:: 2, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V
 - **Duration**:: 1 minute
-\enddescription
 
 You can blind or deafen an enemy. Choose one creature that you can see within range. The target must make a Fortitude Saving Throw. If it fails, the target is either blinded or deafened (your choice) for the duration.
 
 **For every two Magic Critical Successes obtained** in the Magic Check you can add another target within range. If you get 3 Magic Critical Successes, the target is affected by the spell for the entire day.
 
 ## Blink
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Transmutation
 - **Level**:: 3, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S
 - **Duration**:: 1 round per Magic Proficiency
-\enddescription
 
 Roll a d6 at the end of each of your turns for the duration of this spell. On an odd number, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 3 meters of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (randomly determined if more than one space is available). You can dismiss the spell as an Action.
 
 While on the Ethereal Plane, you can see and hear the plane you originated from, which you see in shades of gray, and you can't see anything there more than 18 meters away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so.
 
 ## Blur
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Illusion
 - **Level**:: 2, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Personal
 - **Components**:: V
 - **Duration**:: 1 minute
-\enddescription
 
 Your body becomes blurred, shifting and wavering to anyone who can see you. For the duration of the spell, all creatures have -1d6 to Attack Rolls against you. Attackers that don't rely on sight are immune to this effect, for example if they have blindsight or are able to distinguish illusions, as with truesight.
 
 ## Branding Smite
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Spell List**:: Invocation
 - **Level**:: 2, Common
 - **Casting Time**:: 1 Action
 - **Range**:: Self
 - **Components**:: V
 - **Duration**:: 1 minute
-\enddescription
 
 The next time you hit a creature with a melee weapon attack during the spell's duration, the weapon gleams with a magical glow as you strike. The attack deals an extra 1d6 radiant damage to the target, which becomes visible if it's invisible and emits dim light in a 3-foot radius. Additionally, the target can't become invisible until the spell ends.
 
 **For each Magic Critical Success** obtained in the Magic Check, the additional damage increases by 1d6.
 
 ## Burning Wave
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Fire
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Personal (3-meter cone)
 - **Components**:: V, S
 - **Duration**:: Instantaneous
-\enddescription
 
 You hold your hands closed in front of you, a powerful burning wave generates from each of your fists. Each creature in a 3-meter cone must make a Reflex Saving Throw. A creature takes 1d4 fire damage per Magic Proficiency point, up to a maximum of 5d4, on a failed save, or half as much damage on a successful one. The heat ignites flammable objects in the area that aren't being worn or carried.
 
@@ -7101,15 +6672,12 @@ You hold your hands closed in front of you, a powerful burning wave generates fr
 **Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is halved again
 
 ## Call Lightning
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Air
 - **Level**:: 3, Common
 - **Casting Time**:: 1 round
 - **Range**:: 36 meters
 - **Components**:: V, S
 - **Duration**:: Concentration, maximum 10 minutes
-\enddescription
 
 A storm cloud appears in the shape of a cylinder that is 3 meters tall with a 18-meter radius, centered on a point you can see 30 meters above you. The spell fails automatically if you can't see a point in the air where the storm cloud could appear (for example, if you're in a room that can't accommodate the cloud). When you cast the spell, choose a point you can see within range. A bolt of lightning flashes down from the cloud to that point. Each creature within 1 meter of that point must make a Reflex Saving Throw. A creature takes 3d10 lightning damage on a failed Saving Throw, or half as much damage on a successful one. On each of your turns until the spell ends, you can use two Actions to call down lightning in this way again, targeting the same point or a different one.
 
@@ -7118,15 +6686,12 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 **For each Magic Critical Success** obtained in the Magic Check, the damage increases by 2d6.
 
 ## Calm Emotions
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment
 - **Level**:: 2, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: Concentration, up to 1 minute
-\enddescription
 
 You attempt to suppress strong emotions in a group of people. Each humanoid in a 6-meter radius sphere centered on a point you choose within range must make a Will Saving Throw; a creature can choose to fail this Saving Throw if it wishes. If a creature fails the Saving Throw, choose one of these two effects.
 
@@ -7135,15 +6700,12 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 *Indifference*. You can make a target indifferent about a creature of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it sees any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the Narrator determines otherwise.
 
 ## Catnap
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Transmutation
 - **Level**:: 2, Legendary
 - **Casting Time**:: 1 round
 - **Range**:: 6 meters
 - **Components**:: V, S, M (a feather, a piece of white cotton)
 - **Duration**:: 1 minute
-\enddescription
 
 This spell allows the caster to put to rest for 1 hour up to 1 creature per (Magic Proficiency/6 + Magic Adept). The creature must be willing.
 
@@ -7152,45 +6714,36 @@ This hour of rest is equivalent to 8 hours of rest for the purpose of recovering
 **For each Magic Critical Success** obtained in the Magic Check, you affect 1 additional creature.
 
 ## Cattalm's Blessing
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment, Fire
 - **Level**:: 3, Very Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S, M (a splash of vinegar)
 - **Duration**:: Instantaneous
-\enddescription
 
 You invoke Cattalm's wrath upon your adversary. The target creature takes 4d6 fire damage and must make a Will Saving Throw or suffer a -1d6 penalty to their next skill check, Attack Roll, or Saving Throw, and the caster increases their Fate Points pool by one.
 
 **For every two Magic Critical Success obtained** in the Magic Check, you can affect another creature.
 
 ## Cattalm's Slap
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Evocation
 - **Level**:: 1, Uncommon
 - **Casting Time**:: 1 Reaction, which you can take in response to damage dealt to you by a creature within 18 meters of you that you can see
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: Instantaneous
-\enddescription
 
 You point your finger, and the creature that harmed you is slapped by divine fire. The creature must make a Reflex Saving Throw and if it fails, it takes 2d10 fire damage, or half as much damage if it succeeds.
 
 **For each Critical Magical Success** obtained in the Magic Check, the damage increases by 1d10.
 
 ## Chain Lightning
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Air
 - **Level**:: 6, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 45 meters
 - **Components**:: V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; three silver pins)
 - **Duration**:: Instantaneous
-\enddescription
 
 You create a bolt of lightning that strikes a target of your choice within range that you can see. From this target, another bolt strikes the nearest target within 6 meters. The process continues until 7 targets have been hit or there are no more new opponents in range. A target can be a creature or object of at least small size and can be targeted by only one bolt. A target must make a Reflex Saving Throw or take 8d6 lightning damage, or half as much on a successful save.
 
@@ -7199,30 +6752,24 @@ You create a bolt of lightning that strikes a target of your choice within range
 **Saving Throw Critical Success/Failure**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
 
 ## Charm Person
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S
 - **Duration**:: 1 hour
-\enddescription
 
 You attempt to charm a humanoid you can see within range. It must make a Will Saving Throw, and has +1d6 if it is fighting against you or your allies. If it fails the Saving Throw, it is Charmed by you until the spell ends or until you or your allies do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you. Whenever the creature is threatened by you or one of your friends, it can remake the Saving Throw with a +2 bonus.
 
 **For each Magic Critical Success** obtained in the Magic Check you can add one creature as a target. When you cast the spell, the target creatures must be within 9 meters of each other.
 
 ## Chill Touch
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Necromancy
 - **Level**:: 0, Common
 - **Casting Time**:: 1 Action
 - **Range**:: 36 meters
 - **Components**:: V, S
 - **Duration**:: 1 round
-\enddescription
 
 You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of death. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has -1d6 to Attack Rolls against you until the end of its next turn.
 
@@ -7231,15 +6778,12 @@ You can increase the spell's damage by 1d8 when you reach MP 5, MP 11, and MP 17
 **For every two Magic Critical Successes obtained** in the Magic Check, you create an additional skeletal hand that must attack a different creature within range.
 
 ## Circle of Death
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Evocation
 - **Level**:: 6, Very Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 45 meters
 - **Components**:: V, S, M (the powder of a crushed black pearl worth at least 500 gp)
 - **Duration**:: Instantaneous
-\enddescription
 
 A sphere of negative energy with an 18-meter radius erupts from a point within range. Each creature in that area must make a Fortitude Saving Throw. A creature takes 8d6 Void damage on a failed save, or half as much damage on a successful one.
 
@@ -7248,45 +6792,36 @@ A sphere of negative energy with an 18-meter radius erupts from a point within r
 **Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage doubles; in case of Critical Success, the damage is reduced to one quarter.
 
 ## Circle of Invisibility
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Illusion
 - **Level**:: 3, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S, M (a pinch of diamond dust)
 - **Duration**:: 1 minute per Magic Proficiency
-\enddescription
 
 This spell works like invisibility, but affects all creatures touched by the caster who subsequently remain within 3 meters of them. Subjects who move beyond the circle of invisibility immediately become visible.
 
 **For each Magic Critical Success** obtained in the Magic Check, the radius increases by 1 meter.
 
 ## Clairvoyance
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Divination
 - **Level**:: 3, Common
 - **Casting Time**:: 10 minutes
 - **Range**:: 1.5 kilometers
 - **Components**:: V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
 - **Duration**:: Concentration, up to 10 minutes
-\enddescription
 
-You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in the middle of a grove of trees). The sensor remains in place for the duration, and cannot be attacked or otherwise interacted with. When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As two actions, you can switch between seeing and hearing. A creature that can see the sensor (such as a creature benefiting from \hyperlinkVedere l'invisibileSee Invisibility or truesight) perceives it as a luminous, intangible orb about the size of your fist.
+You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in the middle of a grove of trees). The sensor remains in place for the duration, and cannot be attacked or otherwise interacted with. When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As two actions, you can switch between seeing and hearing. A creature that can see the sensor (such as a creature benefiting from See Invisibility or truesight) perceives it as a luminous, intangible orb about the size of your fist.
 
 **For each Magic Critical Success** obtained in the Magic Check the duration increases by 10 minutes or the range increases by 500m.
 
 ## Close Portal
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Abjuration
 - **Level**:: 2, Rare
-- **Casting Time**:: 1 Turn
+- **Casting Time**::  1 Turn
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: Instantaneous
-\enddescription
 
 The caster positions themselves within range of a Portal. Once the spell is cast, if the Portal has a DC lower than that of the caster, it closes and disappears.
 
@@ -7295,129 +6830,103 @@ The caster positions themselves within range of a Portal. Once the spell is cast
 **NOTE**: the spell is Common for Lynx's Devotees
 
 ## Cloudkill
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Water
 - **Level**:: 5, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 36 meters
 - **Components**:: V, S
 - **Duration**:: 10 minutes
-\enddescription
 
 You create a 6-meter-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured. When a creature enters the spell's area for the first time on a turn or starts its turn there, that creature must make a Fortitude Saving Throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don't need to breathe. The fog moves 3 meters away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.
 
 **For each Critical Magic Success** obtained in the Magic Check, the damage increases by 3d8.
 
 ## Clumsiness
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Transmutation
 - **Level**:: 2, Rare
 - **Casting Time**:: 1 Action
 - **Range**:: 9 meters
 - **Components**:: V, S
 - **Duration**:: 1 round per Magic Proficiency, Concentration
-\enddescription
 
 The target makes a Will Saving Throw with Charisma bonus. If they fail, whenever they make a Proficiency Check, Saving Throw, or Attack Roll, they always count one additional rolled 1 when checking for critical failures.
 
 ## Color Spray
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Illusion
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Self (3-meter cone)
 - **Components**:: V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)
 - **Duration**:: 1 round
-\enddescription
 
 A spray of lights and colors erupts from your hand. Creatures in a 3-meter cone must make a Will Saving Throw.
 
-If the Saving Throw succeeds, there is no effect; if it fails, the creature is \hyperlinkconfusionecondizioneconfused for 1 round.
+If the Saving Throw succeeds, there is no effect; if it fails, the creature is confused for 1 round.
 
 **For each Magic Critical Success** obtained in the Magic Check, the duration increases by 1 round.
 
 ## Command
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: 1 round
-\enddescription
 
 You speak a one-word command to a creature you can see within range and make a gesture. The target must succeed on a Will Saving Throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command would cause it harm.
 
 Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the Narrator determines how the target behaves. If the target can't follow your command, the spell ends.
 
-\beginitemize[leftmargin=*]
 - *Approach*. The target moves toward you by the shortest and most direct route, ending its turn if it moves within 1 meter of you.
 - *Halt*. The target doesn't move and takes no actions. A flying creature stays aloft, provided that it's able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
 - *Drop*. The target drops whatever it is holding and then ends its turn.
 - *Flee*. The target spends its turn moving away from you by the fastest available means.
 - *Grovel*. The target falls prone and then ends its turn.
-\enditemize
 
 **For each Magic Critical Success** obtained in the Magic Check you can affect an additional creature. When you cast the spell, the target creatures must be within 9 meters of each other and follow the same command.
 
 ## Commune
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Divination
 - **Level**:: 5, Rare
 - **Casting Time**:: 1 minute
 - **Range**:: Self
 - **Components**:: V, S, M (incense and a vial of Holy water)
 - **Duration**:: 1 minute
-\enddescription
 
 You communicate with your Patron and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question. Divine beings aren't necessarily omniscient, so you might receive an *unclear* as an answer if a question pertains to information that lies beyond the Patron's knowledge. In a case where a one-word answer could be misleading or contrary to the Patron's interests, the Narrator might offer a short phrase as an answer instead.
 
-If you cast the spell two or more times before the next dawn, there is a cumulative 25\
+If you cast the spell two or more times before the next dawn, there is a cumulative 25\% chance for each casting after the first that you get no answer. The Narrator makes this roll in secret.
 
 **NOTE:** you must be at least a Follower to be able to cast this spell.
 
 ## Commune with Nature
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Divination
 - **Level**:: 5, Very Rare
 - **Casting Time**:: 1 minute
 - **Range**:: Self
 - **Components**:: V, S
 - **Duration**:: Instantaneous
-\enddescription
 
 For an instant, you become one with nature and gain knowledge of the surrounding territory. In outdoor environments, the spell gives you knowledge of the land within 5 kilometers of you. In caves and other natural underground settings, the radius is limited to 100 meters. The spell doesn't function where nature has been replaced by construction, such as in dungeons and towns.
 
 You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
-
-\beginitemize
 - terrain and bodies of water
 - plants, minerals, animals, or dominant populations
 - powerful celestials, elementals, fey, fiends, or undead
 - influence from other planes of existence
 - buildings
-\enditemize
 
 **For each Magic Critical Success** obtained in the Magic Check you learn one additional fact.
 
 **NOTE**: If you are a Devotee of Efrem, you always get at least one Magic Critical Success.
 
 ## Comprehend Languages
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Divination
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S, M (a pinch of salt and soot)
 - **Duration**:: 1 hour
-\enddescription
 
 For the duration, you understand the literal meaning of any spoken language that you hear.
 
@@ -7426,15 +6935,12 @@ For the duration, you understand the literal meaning of any spoken language that
 **NOTE**: if you are a Devotee of Nethergal, the spell lasts 2 hours.
 
 ## Comprehend Writings
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Divination
 - **Level**:: 2, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S, M (a pinch of silver and dried ink)
 - **Duration**:: 1 hour
-\enddescription
 
 For the duration, you understand the literal meaning of any non-magical written language that you see. You must touch the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode secret messages in a text or glyphs, such as an arcane sigil, that aren't part of a written language.
 
@@ -7443,45 +6949,36 @@ For the duration, you understand the literal meaning of any non-magical written 
 **NOTE**: if you are a Devotee of Nethergal, the spell is common and lasts 2 hours.
 
 ## Compulsion
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment
 - **Level**:: 4, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S
 - **Duration**:: Concentration, up to 1 minute
-\enddescription
 
 Creatures of your choice within range that you can see and that can hear you must make a Will Saving Throw. A target automatically succeeds on this saving throw if it can't be Charmed. Until the spell ends, you can use an Action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. The target can't take any other Action before moving. After moving in this way, the target can make another Will Saving Throw to try to end the effect.
 
 A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit.
 
 ## Concentrated Kyrin Currant Juice
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Animals and Plants, Earth
 - **Level**:: 2, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, M (12 currants which the spell consumes)
 - **Duration**:: 1 minute
-\enddescription
 
 You extract the acidic sap from the currants and project a line of acid spray 9 meters long and 1 meter wide in a direction of your choice. Each creature in the line must succeed on a Reflex Saving Throw or be covered with acid for the duration of the spell or until a creature uses two Actions to wipe the acid off itself or another creature. A creature covered with acid takes 2d4 acid damage at the start of each of its turns.
 
 **For each Magic Critical Success** obtained in the Magic Check, the damage increases by 2d4
 
 ## Cone of Cold
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Water
 - **Level**:: 5, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Self (18-meter cone)
 - **Components**:: V, S, M (a small crystal or glass cone)
 - **Duration**:: Instantaneous
-\enddescription
 
 A blast of cold air erupts from your hands. Each creature in a 18-meter cone must make a Fortitude Saving Throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 
@@ -7490,23 +6987,18 @@ A blast of cold air erupts from your hands. Each creature in a 18-meter cone mus
 **Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage doubles; in case of Critical Success, the damage is reduced to one quarter.
 
 ## Confusion
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment
 - **Level**:: 4, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 27 meters
 - **Components**:: V, S, M (three nutshells)
 - **Duration**:: 1 minute
-\enddescription
 
 This spell assaults and twists creatures' minds, spawning illusions and causing uncontrolled actions. When you cast this spell, each creature in a 3-meter radius sphere centered on a point you choose within range must make a Will Saving Throw. A target that fails its saving throw can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
 At the end of each of its turns, an affected target can make a Will Saving Throw. If it succeeds, this effect ends for that target.
 
 **For each Magic Critical Success** obtained in the Magic Check the radius of the sphere increases by 1 meter.
-
-\begintabularx0.45\textwidth
 
 | d10 | Behavior |
 | 1 | The creature uses all its actions to move in a random direction. To determine the direction, roll a d8 |
@@ -7515,27 +7007,20 @@ At the end of each of its turns, an affected target can make a Will Saving Throw
 | 7-8 | The creature makes an attack against a randomly determined creature within 1 Movement Action. If it was hit the previous round, it will attack the creature that hit it. After making the attack, the turn ends. |
 | 9-10 | The creature can act and move normally. |
 
-\endtabularx
-
 ## Conjure Animals
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Animals and Plants
 - **Level**:: 3, Uncommon
 - **Casting Time**:: 3 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: 1 Turn
-\enddescription
 
 You summon magical spirits that take the appearance of beasts and appear in unoccupied spaces within range that you can see. Choose one of the following options to determine what appears:
 
-\beginitemize[leftmargin=*]
 - One beast of challenge rating 2 or lower
 - Two beasts of challenge rating 1 or lower
 - Four beasts of challenge rating 1/2 or lower
 - Eight beasts of challenge rating 1/4 or lower
-\enditemize
 
 Each beast is also considered magical and disappears when it drops to 0 Hit Points or when the spell ends.
 
@@ -7544,15 +7029,12 @@ The summoned creatures are friendly to you and your companions and obey to the b
 **For each Magic Critical Success** obtained in the Magic Check, two more beasts of lower grade or 1 more beast of higher grade than initially chosen will appear.
 
 ## Conjure Elemental
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Air, Water, Earth, Fire
 - **Level**:: 5, Rare
 - **Casting Time**:: 1 minute
 - **Range**:: 27 meters
 - **Components**:: V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)
 - **Duration**:: Concentration, 1 Turn
-\enddescription
 
 You summon an elemental servant. Choose an area within range composed of water, air, fire, or earth that fills a 1-meter-radius sphere. An elemental of challenge rating 3 or lower appropriate to the area you chose appears in an unoccupied space within 3 meters of it. The elemental disappears when it drops to 0 Hit Points or the spell ends.
 
@@ -7561,24 +7043,19 @@ Each Magic List can only summon its specific Elemental
 **For every two Magic Critical Successes obtained** in the Magic Check, the challenge rating of the summoned elemental increases by 1
 
 ## Conjure Minor Elementals
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Air, Water, Earth, Fire
 - **Level**:: 4, Uncommon
 - **Casting Time**:: 1 minute
 - **Range**:: 27 meters
 - **Components**:: V, S
 - **Duration**:: 1 Turn
-\enddescription
 
 You summon elementals that appear in unoccupied spaces within range that you can see. Choose one of the following options to decide what appears:
 
-\beginitemize[leftmargin=*]
 - One elemental of challenge rating 2 or lower
 - Two elementals of challenge rating 1 or lower
 - Four elementals of challenge rating 1/2 or lower
 - Eight elementals of challenge rating 1/4 or lower
-\enditemize
 
 A summoned elemental disappears when it drops to 0 Hit Points or the spell ends.
 
@@ -7587,15 +7064,12 @@ Each Magic List can only summon its specific Elemental. The elemental is friendl
 **For each Magic Critical Success** obtained in the Magic Check, two more elementals of lower grade or 1 more elemental of higher grade than initially chosen will appear.
 
 ## Conjure Mount
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Animals and Plants
 - **Level**:: 2, Common
 - **Casting Time**:: 10 minutes
 - **Range**:: 9 meters
 - **Components**:: V, S
 - **Duration**:: 1 hour
-\enddescription
 
 You summon a spirit that takes the form of an unusually intelligent, strong, and loyal mount, establishing a lasting bond with it. Appearing in an unoccupied space within range, the mount takes a form of your choice, such as a war Saurovall, a pony Saurovall, a camel, an elk, or a mastiff (the Narrator might allow you to summon other animals as mounts as well). The mount has the statistics of the chosen form, although it is of the celestial, fey, or fiend type (your choice) instead of its normal type. Additionally, if your mount has Intelligence -3 or less, its Intelligence becomes -2, and it gains the ability to understand one language of your choice that you can speak. Your mount serves as a mount both in combat and out of it, and you have an instinctive bond with it that allows you to fight as a single unit.
 
@@ -7606,39 +7080,31 @@ You can't have more than one mount bound by this spell at a time. As an Action, 
 **For each Magic Critical Success** obtained in the Magic Check, the spell lasts for 2 more hours.
 
 ## Contagion
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Necromancy
 - **Level**:: 5, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S
 - **Duration**:: 7 days
-\enddescription
 
 Your touch inflicts disease. Make a melee attack against a creature within your reach. If you hit, you infect the creature with a disease of your choice from any of those described below. At the end of each of the target's turns, it must make a Fortitude Saving Throw. After failing three of these Saving Throws, the disease's effects last for the duration, and the creature stops making these saves. After succeeding on three of these Saving Throws, the creature recovers from the disease, and the spell ends. While making Saving Throws, the creature suffers the effects of the disease.
 
 Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it.
 
-\beginitemize[leftmargin=*]
 - *Flesh Rot*. The creature's skin rots. The creature has -1d6 on Charisma checks, and all damage is doubled.
 - *Blinding Sickness*. Pain grips the creature's mind as its eyes turn milky white. The creature has -1d6 on Wisdom checks and Will Saving Throws and is blinded.
 - *Filth Fever*. A raging fever sweeps through the creature's body. The creature has -1d6 on Strength checks, Fortitude Saving Throws, and Attack Rolls using Strength.
 - *Spasms*. The creature is overcome with shaking. The creature has -1d6 on Dexterity checks, Reflex Saving Throws, and Attack Rolls using Dexterity.
 - *Mind Fire*. The creature's mind is fevered. The creature has -1d6 on Intelligence checks and Will Saving Throws, and it behaves as if under the effects of the confusion spell while in combat.
 - *Slimy Doom*. The creature begins to bleed uncontrollably. The creature has -1d6 on Constitution checks and Fortitude Saving Throws. In addition, whenever the creature takes damage, it is Slowed 1/1r until the end of its next turn.
-\enditemize
 
 ## Contagious Confusion
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment
 - **Level**:: 8, Very Rare
 - **Casting Time**:: 10 minutes
 - **Range**:: Touch
 - **Components**:: V, S, M (tooth powder)
 - **Duration**:: 1 minute
-\enddescription
 
 This spell assaults and twists creatures' minds, spawning illusions and causing uncontrolled actions. Once this spell is cast, you then have one minute to touch the first creature. This creature can make a Will Saving Throw to negate the effects.
 
@@ -7647,15 +7113,12 @@ Any creature touched by the first creature transmits the Confusion effect, with 
 If the caster does not touch a creature within one minute, then the caster themselves will be a victim of the confusion spell, with no Saving Throw possible.
 
 ## Contingency
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Evocation
 - **Level**:: 6, Uncommon
 - **Casting Time**:: 10 minutes
 - **Range**:: Self
 - **Components**:: V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)
 - **Duration**:: 10 days
-\enddescription
 
 Choose a spell of 4th level or lower that you can cast, that has a casting time of 2 Actions, and that can target you. You cast that spell—called the contingent spell—as part of casting contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a contingency cast with water breathing might stipulate that water breathing comes into effect when you are immersed in water or a similar liquid.
 
@@ -7664,28 +7127,22 @@ The contingent spell takes effect immediately after the circumstance is met for 
 **For each Magic Critical Success** obtained in the Magic Check the contingency lasts 10 more days.
 
 ## Continual Flame
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Universal
 - **Level**:: 2, Legendary
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S, M (ruby dust worth 150 gp, which the spell consumes)
 - **Duration**:: 1 day
-\enddescription
 
 A flame, equivalent to a torch's brightness, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but cannot be smothered or quenched.
 
 ## Control Water
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Water
 - **Level**:: 4, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 90 meters
 - **Components**:: V, S, M (a drop of water and a pinch of dust)
 - **Duration**:: Concentration, up to 10 minutes
-\enddescription
 
 Until the spell ends, you control any free water inside the chosen area up to a 30-meter cube. When you cast this spell, you can choose any of the following effects. As an Action on your turn, you can repeat the same effect or choose a different one.
 
@@ -7702,15 +7159,12 @@ The water level remains elevated until the spell ends or you choose a different 
 When a creature enters the vortex for the first time on a round or starts its turn there, it must make a Fortitude Saving Throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn't caught in the vortex. A creature caught in the vortex can use 3 Actions to try to swim away from the vortex as described above, but has -4 to its Swim checks to do so. The first time each round an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round the object remains in the vortex.
 
 ## Control Weather
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Water, Air
 - **Level**:: 8, Very Rare
 - **Casting Time**:: 10 minutes
 - **Range**:: Self (1.5 kilometer radius)
 - **Components**:: V, S, M (burning incense and bits of earth and wood mixed in water)
 - **Duration**:: Concentration, up to 8 hours
-\enddescription
 
 For the duration, you take control of the weather within 7.5 kilometers of you. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early. When you cast this spell, you change the current weather conditions, which are determined by the Narrator based on season and latitude. You can modify the precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once the conditions have taken effect, you can change them again. When the spell ends, the weather gradually returns to normal.
 
@@ -7757,30 +7211,24 @@ When you change the weather conditions, find the current conditions on the follo
 **For each Magic Critical Success** obtained in the Magic Check, the duration increases by 8 hours.
 
 ## Counterspell
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Abjuration
 - **Level**:: 3, Common
 - **Casting Time**:: 1 Reaction, which you take when you see a creature/object within 18 meters manifesting a spell
 - **Range**:: 18 meters
 - **Components**:: S
 - **Duration**:: Instantaneous
-\enddescription
 
 You use a Reaction Action to make an Arcana check at DC 13. If the check succeeds, you understand if you can cancel the spell's effect with Counterspell. The spell canceled must be of Level 2 or lower, regardless of whether it is manifested by a caster or object. Each Magic Critical Success or enhancement obtained from the original spell raises the level of the spell by 1.
 
 **For every two Magic Critical Successes obtained** in the Magic Check you can cancel a spell of one level higher.
 
 ## Create Beer
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Conjuration
 - **Level**:: 0, Rare
 - **Casting Time**:: variable
 - **Range**:: 9 meters
 - **Components**:: V, S, M (beer yeast, malt, water)
 - **Duration**:: 1 hour
-\enddescription
 
 You create a mug of beer, 0.5 liters. The quality and type of beer depends on the yeast, malt, and water used.
 The longer the casting time of the spell, the higher the alcohol content. With a casting time of two actions, the alcohol content is 4.3 vol. If you spend 1 Action, the generated beer is non-alcoholic. Each Action spent after the first 2 increases the alcohol content by 0.3 vol up to a maximum of 12.5 vol.
@@ -7789,15 +7237,12 @@ After one hour, the beer vanishes. When consumed after an hour, any alcoholic ef
 **For each Magic Critical Success** obtained in the Magic Check, you increase the amount by one liter or the duration by one hour.
 
 ## Create Food and Water
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Conjuration
 - **Level**:: 3, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S
 - **Duration**:: Instantaneous
-\enddescription
 
 You create food and water in containers within range, enough to sustain up to five humanoids or 2 mounts for 24 hours. The food is bland but nourishing and spoils after 24 hours if not consumed, as does the water.
 
@@ -7806,15 +7251,12 @@ You create food and water in containers within range, enough to sustain up to fi
 **Note**: if you are a Follower of Nihar, the food is succulent and tasty.
 
 ## Create Pit
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Conjuration
 - **Level**:: 2, Uncommon
 - **Casting Time**:: 1 Action
 - **Range**:: 30 meters plus 3 meters per level
 - **Components**:: V, S, M (a miniature golden shovel costing 10 gp)
 - **Duration**:: 1 round plus 1 round per MP
-\enddescription
 
 You create an extradimensional hole 3 meters by 3 meters with a depth of 3 meters for every two points of MP up to a maximum of 9 meters. You must create the pit on a horizontal surface of sufficient size. Since it extends into another dimension, the pit has no weight and does not displace the original underlying material.
 
@@ -7825,15 +7267,12 @@ Creatures that fall into the pit take normal falling damage. The smooth rocky wa
 **For each Magic Critical Success** obtained in the Magic Check, you double the pit's depth or widen it by 1 meter.
 
 ## Create or Destroy Water
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Water
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S, M (a drop of water to create water or a few grains of salt to destroy it)
 - **Duration**:: Instantaneous
-\enddescription
 
 You either create or destroy water.
 
@@ -7848,38 +7287,30 @@ The spell cannot be used to extinguish magical flames.
 The water is potable and quenches thirst if consumed within one round of creation.
 
 ## Create Undead
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Necromancy
 - **Level**:: 6, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 3 meters
 - **Components**:: V, S, M (a clay pot filled with grave dirt, a clay pot filled with brackish water, and one black onyx worth 50 gp for each corpse)
 - **Duration**:: Instantaneous
-\enddescription
 
 You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control (the Narrator has the game statistics for these creatures). During your turn, with two Actions, you can mentally command any creature you animated with this spell if the creature is within 36 meters of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a specific chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow that order until its task is complete. The creature is under your control for 24 hours, after which it stops obeying commands you issue. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
 
 **If you get a Magic Critical** in the Magic Check, you can reanimate or reassert control over four ghouls. With two Criticals, you can animate or reassert control over five ghouls or two ghasts or wights. With three Criticals, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
 
 ## Creation
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Illusion
 - **Level**:: 5, Rare
 - **Casting Time**:: 1 minute
 - **Range**:: 9 meters
 - **Components**:: V, S, M (a tiny piece of material of the same type of item you plan to create)
 - **Duration**:: Special
-\enddescription
 
 You pull wisps of shadow material from the Plane of Shadow to create, within range, nonliving objects of vegetable matter: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 1-meter cube, and the object must be of a form and material that you have seen before.
 
 The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.
 
 Table Material - Duration
-
-\begintabularx0.45\textwidth
 
 | Vegetable matter | 1 day |
 | --- | --- |
@@ -7888,52 +7319,41 @@ Table Material - Duration
 | Gems | 10 minutes |
 | Adamantine or mithral | 1 minute |
 
-\endtabularx
-
 Using any material created by this spell as a material component of another spell causes that spell to fail.
 
 **For each Magic Critical Success** obtained in the Magic Check, the cube increases by 1 meter per edge.
 
 ## Cry of Pain
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Necromancy
 - **Level**:: 1, Rare
 - **Casting Time**:: 1 Reaction
 - **Range**:: personal
 - **Components**:: V
 - **Duration**:: Instantaneous
-\enddescription
 
 As a Reaction, you emit a cry of pain when hit in melee. The creature that hit you must make a Fortitude Saving Throw or immediately take 2d4 Void damage.
 
 **For each Magic Critical Success** obtained in the Magic Check, you cause 1d6 additional damage.
 
 ## CTRLC+CTRLV
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Universal
 - **Level**:: 1, Very Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S, M (three small ceramic cubes bearing the letter C, the letter V, and the CTRL glyph)
 - **Duration**:: 1 minute per Magic Proficiency
-\enddescription
 
 This spell allows you to copy text from one source to another. For non-magical sources, this can be a book, a scroll, runes on a slab or a staff. The destination, which must be placed on the source, will copy the symbols in form and size up to its capacity, for a maximum of 1 page (of the destination) per minute.
 
 If the writing is a spell, such as in a Tome or Scroll, the rules and limitations for copying Spells into a Tome must still be respected. This spell allows you to avoid the Magic Check in case of a Spell within one level higher than the maximum allowed. After copying a spell, this spell ends.
 
 ## Cure Wounds
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Water, Healing
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S
 - **Duration**:: Instantaneous
-\enddescription
 
 Your hand fills with healing positive energy, and a creature you touch regains a number of Hit Points equal to 1d8 + your spellcasting ability modifier. This spell, when used on an undead, requires a touch attack roll, and damages it by the same amount.
 
@@ -7954,15 +7374,12 @@ By spending triple the Magic Points, you can heal up to 4 creatures within 6 met
 **NOTE**: The spell when cast from the Water Elemental List cannot be used with more than 1 Magic Point.
 
 ## Dancing Lights
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Evocation
 - **Level**:: 1, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 36 meters
 - **Components**:: V, S, M (a bit of phosphorus or wychwood, or a glowworm)
 - **Duration**:: 10 minutes of real game time
-\enddescription
 
 You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Regardless of the form you choose, each light sheds dim light in a 3-meter radius. As a Movement Action during your turn, you can move the lights up to 18 meters to a new point within range.
 
@@ -7971,15 +7388,12 @@ A light must be within 6 meters of another light created by this spell, and a li
 **For each Critical Magic Success** in the Magic Check, the duration increases by 10 minutes or you create a new light.
 
 ## Darkness
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Evocation
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, M (bat fur and a drop of pitch or piece of coal)
 - **Duration**:: 10 minutes
-\enddescription
 
 Magical darkness spreads from a point you choose within range to fill a 3-meter-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.
 
@@ -7988,45 +7402,36 @@ If the point you choose is on an object you are carrying or one that isn't being
 If any of this spell's area overlaps with an area of light created by a spell of level 2 or lower, the spell that created the light is dispelled.
 
 ## Darkvision
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Transmutation
 - **Level**:: 2, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S, M (either a pinch of dried carrot or a dried blueberry)
 - **Duration**:: 1 hour of real game time
-\enddescription
 
 A willing creature you touch gains the ability to see in the dark. For the duration of the spell, that creature has darkvision out to a range of 9 meters.
 
 **For each Critical Magical Success** obtained in the Magic Check, you double the duration.
 
 ## Daylight
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Evocation
 - **Level**:: 3, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: 1 hour of real game time
-\enddescription
 
 A sphere of light with a 6-meter radius expands from a point of your choice within range. The sphere radiates bright light and dim light for an additional 12 meters. If you choose a point on an object you are holding or one that is not worn or carried, the light emanates from the object and moves with it. Completely covering the object with something opaque, such as a bowl or a helmet, blocks the light. If any part of this spell's area overlaps with an area of darkness created by a spell of level 3 or lower, the spell that created the darkness is dispelled. The light created is considered sunlight.
 
 **NOTE**: Devotees of Ljust or Sumkjr gain +1 to Saving Throws while illuminated by this spell
 
 ## Death Ray
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Spell List**:: Necromancy
 - **Level**:: 2, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 20 feet
 - **Components**:: V, S, M (coagulated blood)
 - **Duration**:: Instantaneous
-\enddescription
 
 A black beam of crackling energy shoots from your hands toward a creature within range. Make a ranged spell attack against the target. Regardless of whether you hit or miss, the target must make a Fortitude Saving Throw.
 
@@ -8039,30 +7444,24 @@ The creature's Fatigued condition increases by 1.
 **For every three Magic Critical Successes obtained** in the Magic Check, you increase the target's Fatigue level by 1.
 
 ## Death Ward
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Necromancy
 - **Level**:: 4, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Touch
 - **Components**:: V, S
 - **Duration**:: 1 hour
-\enddescription
 
 You cast the spell by touching a creature. You give the target protection from death. The first time the target would drop to 0 Hit Points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends. If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
 **For every two Magic Critical Successes obtained** in the Magic Check, the spell protects one more time or protects another creature.
 
 ## Delayed Blast Fireball
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Fire
 - **Level**:: 7, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 45 meters
 - **Components**:: V, S, M (a large ball of bat guano and sulfur)
 - **Duration**:: Concentration, 1 minute
-\enddescription
 
 A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range for the duration as a glowing bead. When the spell ends, either because your concentration is broken or because you decide to end it, the bead blossoms with a low roar into a flame tongue that spreads around corners. Each creature in a 6-meter-radius sphere centered on that point must make a Reflex Saving Throw. A creature takes fire damage equal to the total accumulated damage on a failed save, or half as much damage on a successful one. The spell's base damage is 12d6. If at the end of your turn the bead has not yet detonated, the damage increases by 1d6.
 
@@ -8075,15 +7474,12 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 **Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is halved again.
 
 ## Destroy Undead
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Healing
 - **Level**:: 3, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 36 meters
 - **Components**:: V, S, M (a relic of a Devotee of Thaft or Sumkjr)
 - **Duration**:: Instantaneous
-\enddescription
 
 Choose an undead within 36 meters. A luminous ray extends from your hand, enveloping the creature. The undead makes a Fortitude Saving Throw to halve 4d12 positive energy damage.
 
@@ -8092,62 +7488,50 @@ Choose an undead within 36 meters. A luminous ray extends from your hand, envelo
 **Saving Throw Success/Critical Failure**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ## Detect Magic
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Universal
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S
 - **Duration**:: 1d4 +1 rounds per Magic Proficiency
-\enddescription
 
 For the duration, you sense the presence of magic within 9 meters of you. You can use 1 Action to see a faint aura around any visible creature or object in the area that bears magic. With two Actions, you also learn its Magic List, if it has one.
 
-The spell can penetrate most barriers, but it is blocked by 30 centimeters of stone, 2.5 centimeters of common metal, a thin sheet of lead, or 1 meter of wood or dirt. This spell does not allow you to see things affected by the \hyperlinkInvisibilityInvisibility spell.
+The spell can penetrate most barriers, but it is blocked by 30 centimeters of stone, 2.5 centimeters of common metal, a thin sheet of lead, or 1 meter of wood or dirt. This spell does not allow you to see things affected by the Invisibility spell.
 
 **For each Magic Critical Success** obtained in the Magic Check, the duration increases by 3 rounds.
 
 ## Detect Plants
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Divination
 - **Level**:: 2, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S
 - **Duration**:: 1 turn per MP
-\enddescription
 
 The caster who casts this spell is able to find a specific plant within a circle with a diameter of 3 meters per MP centered on the caster. The caster can concentrate on a different type of plant each round and can move, since the area of effect moves with them.
 
 **Note**: for Devotees of Shayalia, the spell is Common and the circle has a diameter of 10 meters per sum of Traits in common with the Patron.
 
 ## Detect Poison and Disease
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Divination
 - **Level**:: 1, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S, M (a basil leaf)
 - **Duration**:: 1 round per Magic Proficiency
-\enddescription
 
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 9 meters of you. You also identify the kind of poison, poisonous creature, or disease. The spell can penetrate most barriers, but it is blocked by 30 centimeters of stone, 2.5 centimeters of common metal, a thin sheet of lead, or 1 meter of wood or dirt.
 
 **For each Magic Critical Success** obtained in the Magic Check, the duration doubles.
 
 ## Detect Thoughts
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Divination
 - **Level**:: 2, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S, M (a copper piece)
 - **Duration**:: 1 minute
-\enddescription
 
 For the duration, you can read the thoughts of certain creatures. When you cast this spell and with two more Actions in each round until the spell ends, you can focus your mind on any creature that you can see within 9 meters of you. If the creature you chose has an Intelligence score of -3 or lower or doesn't speak any language, the creature is unaffected.
 
@@ -8159,15 +7543,12 @@ You can also use this spell to detect the presence of thinking creatures you can
 While you have this spell active, you will be Distracted when casting other spells.
 
 ## Dimension Door
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Spell List**:: Conjuration
 - **Level**:: 4, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 500 feet
 - **Components**:: V
 - **Duration**:: Instantaneous
-\enddescription
 
 You teleport yourself from your current location to any other spot within range. You arrive at exactly the desired location. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as *100 feet down* or *300 feet up to the northwest at a 45-degree angle*.
 
@@ -8178,30 +7559,24 @@ If you would arrive in a place already occupied by an object or a creature, you 
 **For every two Magic Critical Successes obtained** in the Magic Check, you can bring one additional creature.
 
 ## Disguise Self
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Illusion
 - **Level**:: 1, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S
 - **Duration**:: 1 hour
-\enddescription
 
 You change your appearance, along with the appearance of your clothes, armor, weapons, and other belongings on your person, until the spell ends or until you use an Action to dismiss it. You can appear 30 centimeters shorter or taller, thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to your imagination.
 
 The changes created by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing and would end up touching your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair. To discern that you are disguised, a creature can use 2 Actions to inspect your appearance and must succeed on an Awareness check +4 against your spell's Save DC.
 
 ## Disintegrate
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Transmutation
 - **Level**:: 6, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S, M (a lodestone and a pinch of dust)
 - **Duration**:: Instantaneous
-\enddescription
 
 A thin green ray springs from your pointing finger to a target within range that you can see. The target can be a creature, an object, or a creation of magical force, such as a wall created by wall of force. A creature targeted by this spell must make a Fortitude Saving Throw. The target takes 10d6 + 40 force damage on a failed save, or half as much damage on a successful one. If this damage reduces the target to 0 Hit Points, it is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only through the intervention of a Patron.
 
@@ -8212,15 +7587,12 @@ This spell automatically disintegrates a nonmagical object or a creation of magi
 **Saving Throw Success/Critical Failure**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ## Dispel Evil and Good
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Abjuration
 - **Level**:: 5, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S, M (Holy water or powdered silver and iron)
 - **Duration**:: Concentration, 1 minute
-\enddescription
 
 Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have -1d6 to Attack Rolls against you. You can end the spell early by using either of the following special functions.
 
@@ -8229,88 +7601,71 @@ Shimmering energy surrounds and protects you from fey, undead, and creatures ori
 *Dismissal*. As an Action, make a melee attack against a celestial, elemental, fey, fiend, or undead within your reach. If you hit, you can try to drive the creature back to its native plane. The creature must succeed on a Will Saving Throw or be sent back to its native plane (if it isn't there already). If they aren't on their native plane, undead are sent to the Shadow Realm, and fey to the First World.
 
 ## Dispel Magic
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Abjuration
 - **Level**:: 3, Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 36 meters
 - **Components**:: V, S
 - **Duration**:: Instantaneous
-\enddescription
 
 Choose a creature, object, or magical effect within range. Any spell of level 2 or lower on the target ends.
 
-If the spell is between level 3 and 5, a \hyperlinkcounteractcounterspell check is required (page \pagerefcounteract).
+If the spell is between level 3 and 5, a counterspell check is required (page ).
 
 A permanent magical effect is temporarily suppressed for 10 minutes.
 
 ## Divination
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Divination
 - **Level**:: 6, Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: Self
 - **Components**:: V, S, M (incense and an appropriate sacrificial offering for your religion, worth a total of 25 gp, which the spell consumes)
 - **Duration**:: Instantaneous
-\enddescription
 
 Your magic and an offering put you in contact with a Patron or a Patron's servant. You can ask a single question concerning a specific goal, event, or activity to occur within 7 days. The Narrator offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or arrival of an ally.
 
-If you cast the spell two or more times before finishing at least an 8-hour rest, there is a cumulative 25\
+If you cast the spell two or more times before finishing at least an 8-hour rest, there is a cumulative 25\% chance for each casting after the first that you get a false reading. The Narrator makes this roll in secret.
 
 **NOTE**: The spell must be cast by at least one Follower
 
 ## Divine Favor
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Invocation
 - **Level**:: 1, Uncommon
 - **Casting Time**:: 1 Action
 - **Range**:: Personal
 - **Components**:: V, S
 - **Duration**:: 1 minute
-\enddescription
 
 Your prayers empower you and your weapon. Until the spell ends, when it hits, your weapon deals an additional 1d4 Light damage.
 
 **For each Magic Critical Success** obtained in the Magic Check, your weapon causes +2 additional Light damage.
 
 ## Divine Word
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Spell List**:: Invocation
 - **Level**:: 7, Very Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 30 feet
 - **Components**:: V
 - **Duration**:: Instantaneous
-\enddescription
 
 You utter a divine word, infused with your Patron's power. Choose any number of creatures within range that you can see. Each creature that can hear you must make a Will Saving Throw. If it fails the Saving Throw, the creature suffers an effect based on its current Hit Points:
 
-\beginitemize[leftmargin=*]
 - 100 Hit Points or fewer: deafened for 1 minute
 - 40 Hit Points or fewer: deafened and blinded for 10 minutes
 - 30 Hit Points or fewer: blinded, deafened, and stunned for 1 hour
 - 20 Hit Points or fewer: killed instantly
-\enditemize
 
 Regardless of its current Hit Points, a celestial, elemental, fey, or fiend that fails its Saving Throw is forced to return to its plane of origin (if it isn't there already) and cannot return to your current plane for 24 hours, unless by means of a wish spell.
 
 ## Dominate Beast
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment, Animals and Plants
 - **Level**:: 4, Very Rare - Common
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: Concentration, up to 1 minute
-\enddescription
 
 You attempt to charm a beast within range that you can see. It must succeed on a Will Saving Throw or be charmed for the duration, gaining +1d6 to the roll if you or your allies are fighting it.
 
@@ -8323,15 +7678,12 @@ Each time the target takes damage, it makes a new Will Saving Throw against the 
 **For each Magic Critical Success** obtained in the Magic Check, the duration doubles up to a maximum of 8 hours. Every 2 Magic Critical Successes, you can command one additional beast or increase the commandable CR by 1.
 
 ## Dominate Monster
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment
 - **Level**:: 8, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: Concentration, up to 1 hour
-\enddescription
 
 You attempt to charm a creature within range that you can see. It must succeed on a Will Saving Throw or be charmed for the duration, gaining +1d6 to the roll if you or your allies are fighting it.
 
@@ -8342,15 +7694,12 @@ You can use two of your Actions to take total and precise control of the target.
 **For each Magic Critical Success** obtained in the Magic Check, the duration doubles up to a maximum of 8 hours.
 
 ## Dominate Person
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Enchantment
 - **Level**:: 5, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 18 meters
 - **Components**:: V, S
 - **Duration**:: Concentration, up to 1 minute
-\enddescription
 
 You attempt to charm a humanoid within range that you can see. It must succeed on a Will Saving Throw or be Charmed for the duration, gaining +1d6 to the roll if you or your allies are fighting it.
 
@@ -8361,15 +7710,12 @@ You can use 2 Actions to take total and precise control of the target. Until the
 **For each Magic Critical Success** obtained in the Magic Check, the duration doubles up to a maximum of 8 hours.
 
 ## Dream
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Illusion
 - **Level**:: 5, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: Special
 - **Components**:: V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)
 - **Duration**:: 8 hours
-\enddescription
 
 This spell shapes the dreams of a creature. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you. Creatures that don't sleep can't be targeted by this spell. You, or a willing creature you touch, enter a trance state, acting as a messenger. While in the trance, the messenger is aware of their surroundings, but can't take actions or move.
 
@@ -8380,37 +7726,29 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its Saving Throw with -1d6.
 
 ## Druidcraft
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Universal
 - **Level**:: 0, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 9 meters
 - **Components**:: V, S
 - **Duration**:: Instantaneous
-\enddescription
 
 Whispering to the spirits of nature, you create, within range, one of the following effects:
 
-\beginitemize[leftmargin=*]
 - You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, snowflakes for snow, and so on. This effect persists for 1 round.
 - You instantly make a flower blossom, a seed pod open, or similar plant grow.
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of a skunk. The effect must fit within a 1-meter-radius sphere.
 - You instantly light or snuff out a candle, a torch, or a small campfire.
-\enditemize
 
 This spell can only be cast by Followers or Devotees of Efrem, Erondil, Gaya, Shayalia.
 
 ## Earthquake
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Earth
 - **Level**:: 8, Very Rare
 - **Casting Time**:: 2 Actions
 - **Range**:: 150 meters
 - **Components**:: V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
 - **Duration**:: Concentration, up to 1 minute
-\enddescription
 
 You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 30-meter-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area. The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Fortitude Saving Throw. On a failed save, the creature's concentration is broken.
 
@@ -8421,15 +7759,12 @@ This spell can have additional effects depending on the terrain in the area, as 
 Structures. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each round until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the height of the structure must make a Reflex Saving Throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble. It must then use 2 actions succeeding an Athletics check DC 20 to free itself. The GM might adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes only half the damage and doesn't fall prone or become buried.
 
 ## Efrem's Blessings
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**: : Animals and Plants
 - **Level**: : 8, Rare
 - **Casting Time**: : 2 Actions
 - **Range**: : 9 meters
 - **Components**: : V, S, M (small bones from an animal cemetery)
 - **Duration**: : 1 hour per MP
-\enddescription
 
 Choose up to MP willing creatures that you can see within range. Each target transforms into a Beast of small, medium, or large size of your choice with a Challenge Rating of 4 or lower. You can choose a different form for each target. In subsequent rounds, you can use 2 Actions to transform the targets again.
 
@@ -8442,23 +7777,19 @@ The spell ends on a creature if it falls unconscious.
 **NOTE**: You must be a Devotee or Follower of Efrem or Shayalia to cast this spell.
 
 ## Eithne's Mud Ball
-
-\begindescription[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, leftmargin=0cm, labelwidth=2.8cm]
 - **Magic List**:: Earth
 - **Level**:: 1, Uncommon
 - **Casting Time**:: 2 Actions
 - **Range**:: 24 meters
 - **Components**:: S
 - **Duration**:: Instantaneous
-\enddescription
 
 The caster mimics the gesture of throwing a stone with a sling toward the target and makes a ranged spell Attack Roll.
 If the Attack Roll hits, the target takes 2d6 bludgeoning damage and must make a Reflex Saving Throw. If the saving throw fails, the target's movement is reduced by 2 meters for 1 minute.
 
 **For each Critical Magic Success** obtained in the Magic Check, you throw one additional stone.
 
-\beginchangemargin\beginenfasi{
-I'll spread out to avoid area spells (said by a player to avoid a Fireball)
+			I'll spread out to avoid area spells (said by a player to avoid a Fireball)
 
 ## Eldritch Blast
 - **Magic List**:: Evocation
@@ -11918,7 +11249,6 @@ You must designate a sanctuary that is dedicated to or strongly linked to your P
 - **Duration**:: 10 minutes
 
 You create a magical zone that guards against deception in a 3-meter radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there must make a Will Saving Throw. On a failed save, a creature can't speak deliberate lies while in the radius. You know whether each creature succeeds or fails on its Saving Throw. An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
-
 ---
 
 ## Spells by List with Level and Rarity
@@ -12932,8 +12262,6 @@ Conan: I pray to Crom, but rarely... he doesn't listen. (Conan the Barbarian, 19
 
 For as the body without the spirit is dead, so faith without works is dead also. (James The Just 2, 26. NdA Referring to the scores of Traits connected to the Patron...)
 
-\endenfasi\endchangemargin
-
 All creatures, even those who do not use magic, can feel the influence of these Powers, of these Patrons.
 
 Every character, by his way of being (playing) and behaving, has at least one Trait in common with a Patron, and during adventures and his evolution, he matures and strengthens these convictions, he will be able to feel more strongly the influence and effects of a Patron.
@@ -12943,7 +12271,7 @@ It is not necessary that he has sworn allegiance to a Patron or that he is a Fol
 A Patron is quite happy if creatures follow his dictates, Traits, and gives to those who do so small powers as recognition for the loyalty reserved for him, willingly or not. The powers indicated under *Traits in Common* are cumulative. Unless otherwise indicated, the powers can be used 1 time per day and cost 2 Actions.
 When a spell is indicated, it is manifested without Magic Checks or penalties due to armor.
 
-Each **Patron favors one or more energy forms**, if you are a Follower you can use that energy in your magic, if you are a Devotee instead your spells will use one of the indicated energy forms. The \hyperlinklisteprivilegiate*Privileged Lists* (page \pagereflisteprivilegiate) are indicated, that is, lists in which the Devotee has usage advantages.
+Each **Patron favors one or more energy forms**, if you are a Follower you can use that energy in your magic, if you are a Devotee instead your spells will use one of the indicated energy forms. The *Privileged Lists* (page ) are indicated, that is, lists in which the Devotee has usage advantages.
 
 The forms of Energy are distinguished between positive, neutral, and negative sources, they serve to better frame your master, pardon, the Patron you serve.
 
@@ -12951,29 +12279,23 @@ Add up the energies, if positive the Patron can be considered good, if zero valu
 
 In the description of the Patron, you will also find his **manifestation**, that is, what happens when a character acts in a particularly and significantly manner consistent with the Traits followed by the Patron. The effect is purely scenic and circumstantial but always leaves anyone who can observe it impressed, usually guarantees a point advancement in a Trait linked to the Patron. It is not necessary to be a Devotee or Follower, it is enough to have followed in a particularly *epic* manner that Trait.
 
-There is also the indication of the **preferred weapon** of the Patron. There are no advantages in using it, unless you have the specific \hyperlinkThe Patron is my WeaponFeat (page \pagerefThe Patron is my Weapon), the choice is purely personal and left to the devotion of the character.
+There is also the indication of the **preferred weapon** of the Patron. There are no advantages in using it, unless you have the specific Feat (page ), the choice is purely personal and left to the devotion of the character.
 
-Under the indication of the preferred weapon there is the indication of the Rule that is the behavior that the Devotee must try to respect.
+Under the indication of the preferred weapon there is the indication of the Rule  that is the behavior that the Devotee must try to respect.
 
 A spellcaster who relies on a Patron, at least **2 Traits** in common, becomes a **Devotee**. If he has at least **1 Trait** in common and relies on a Patron then he is said to be a **Follower**. The **Advantage** indicated is only for the Devotee.
 
-\beginchangemargin\begintcolorbox[title = Devotees and Followers]
-Being Devotees or Followers is your choice, no one imposes it on you. You should feel it as an opportunity for role-playing, as an enrichment of the character and not a constraint. Being Devotees or Followers does not mean being prone to the will of the Patron, on the contrary, it means being even more convinced of your own Traits, of your own personality. **A Patron does not ask for prayers, but asks you to be yourself**.
-\endtcolorbox\endchangemargin
+>> Devotees and Followers: Being Devotees or Followers is your choice, no one imposes it on you. You should feel it as an opportunity for role-playing, as an enrichment of the character and not a constraint. Being Devotees or Followers does not mean being prone to the will of the Patron, on the contrary, it means being even more convinced of your own Traits, of your own personality. **A Patron does not ask for prayers, but asks you to be yourself**.
 
 The character might also not follow any Patron despite having more Traits in common or might be a Devotee or Follower not of the Patron with whom he has more Traits in common or the Traits with higher score. The choice is always up to the character and his sensitivity.
 
 The acquired abilities linked to the Traits in common are independent of being a Devotee, Follower, or simply atheist, they represent the gifts of the Patron to those who follow his Traits.
 
-Nothing prevents a character from receiving more powers from different Patrons! At high levels when the character has a high score in the various Traits he possesses, this will happen frequently.
+Nothing prevents a character from receiving more powers from different Patrons! At high levels when the character has a high score in the various Traits he possesses, this will happen frequently. 
 
-\beginchangemargin\beginnarratore
-The Narrator can still grant being a Follower or Devotee even if the Traits do not perfectly match. At the request of the player and at his discretion, he can evaluate the similarity of some Traits of the character to those of the Patron and consider them suitable to be a Follower or Devotee. In these situations, it is necessary to understand how the player frames the character and understand not only if the Traits but also if the feeling of the character is akin to the chosen Patron.
-\endnarratore\endchangemargin
+>>> The Narrator can still grant being a Follower or Devotee even if the Traits do not perfectly match. At the request of the player and at his discretion, he can evaluate the similarity of some Traits of the character to those of the Patron and consider them suitable to be a Follower or Devotee. In these situations, it is necessary to understand how the player frames the character and understand not only if the Traits but also if the feeling of the character is akin to the chosen Patron.
 
 **Energy - Elements Table**
-
-\begintabular
 
 | **Positive** (+1) | **Neutral** (0) | **Negative** (-1) |
 | --- | --- | --- |
@@ -12982,10 +12304,8 @@ The Narrator can still grant being a Follower or Devotee even if the Traits do n
 
 | Sound |
 
-| Electricity | \endtabular |
+| Electricity | No Patron is completely good or completely evil. As the nature of a man is multifaceted also depending on the occasions, so a Patron may have anomalous positive or negative impulses. Remember that Patrons are Gods but generated from emotions and desires. |
 | --- | --- |
-
-No Patron is completely good or completely evil. As the nature of a man is multifaceted also depending on the occasions, so a Patron may have anomalous positive or negative impulses. Remember that Patrons are Gods but generated from emotions and desires.
 
 ### Miracles, Interventions, and Prodigies
 
@@ -12993,13 +12313,12 @@ In a world where deities are so capricious, fickle, and thirsty for devotees, it
 
 A favor asked of a Patron always has a price neither obvious nor predictable. The Narrator must carefully evaluate the character's plea and judge if the request is pertinent to the Patron's Traits, if positive roll 1d100 and get less than half the highest score of Trait in common with the Patron. Or decide independently according to the course of the adventure.
 
-\addcontentslinetocsubsectionList of Patrons
+\addcontentsline{toc}{subsection}{List of Patrons}
 
 ### List of Patrons
 
 ### Ljust
 
-\beginchangemargin\beginenfasi{
 Only the light that one kindles for oneself subsequently shines for others. (Arthur Schopenhauer)
 
 The Lady of Light, she who radiates warmth and love. Generator of the impulses of love, protection, kindness, joy, and forgiveness. She embodies within herself the protective aspect of a mother, the strength and audacity of a fighter, the passion of a young lover, the joy and the search for the new, the imagination of a child. Ljust embodies the beauty of life and every creature that contemplates her sees what for them is the maximum harmony and falls prone to her charm.
@@ -13024,6 +12343,7 @@ Ljust can only be chosen by a character with 4 Traits in common with her, fundam
 
 The Disciples of Light are a secret group of Devotees who, through total affinity with Ljust, have undertaken the difficult path of good and love. It is among the oldest groups founded on Earth. The Disciples, 99 as maximum number, but unfortunately often less numerous, are Devotees of Ljust and must follow the 8 Steps of Light.
 
+\begin{enumerate}[leftmargin=*] 
 - Love and protect with all of yourself, with total and sincere dedication those around you.
 - Do not let your inaction generate suffering.
 - Be a point of comparison. Make your Light elevate the people around you so they can see in you hope, serenity, calm, protection, and security.
@@ -13032,6 +12352,7 @@ The Disciples of Light are a secret group of Devotees who, through total affinit
 - Do not seek other Light if not your own and that of your sisters.
 - Be luminous but do not blind those around you.
 - Be the difference between despair and hope.
+\end{enumerate}
 
 The Disciples have built a harmonious dance transforming the steps of their Rule into dance.
 
@@ -13092,7 +12413,6 @@ Dressed in a soft brown robe and leather sandals, he moves among the infinite sh
 ### Lynx
 
 > People don't take trips, trips take people. (John Steinbeck)}
-\endenfasi\endchangemargin
 
 Patron of the Portals, he can only be chosen by characters who have at least 3 Traits in common. He is the first Patron generated by Ljust and Calicante, created to protect the Earth from external attacks.
 
@@ -13100,7 +12420,6 @@ Serious, with icy eyes of a very light blue, he is the Guardian of the Portals a
 
 His Devotees are travelers par excellence, those who preside over and protect the Earth from what is alien, from what could disturb creation.
 
-\beginitemize[leftmargin=*]
 - **Symbol**: A portal into darkness
 - **Ability Score**: Dexterity or Intelligence
 - **Traits**: Stubborn, Brave, Cynical, Uncompromising, Vindictive, Extroverted, Vain
@@ -13114,13 +12433,10 @@ His Devotees are travelers par excellence, those who preside over and protect th
 - **Privileged Magic Lists**: Conjuration, Water
 - **Preferred Weapon**: Short Sword
 - **Rule**: Do not leave an unexplored environment
-\enditemize
 
 ### Gradh
 
-\beginchangemargin\beginenfasi
 The man who has ceased to fear has ceased to care. (Francis Herbert Bradley)
-\endenfasi\endchangemargin
 
 The first Patron created by Atmos under the guidance of Ljust and the influence of Calicante.
 
@@ -13135,7 +12451,6 @@ Passionate and cold, he is perhaps the most human Patron of the current pantheon
 
 The Devotee of Gradh is proud and haughty, indomitable and protective, and sorrowful, because no matter how hard he tries to bring balance and peace, evil continues to prosper.
 
-\beginitemize[leftmargin=*]
 - **Symbol**: A shield with two intertwined spirals engraved on it.
 - **Ability Score**: Strength
 - **Traits**: Brave, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
@@ -13149,11 +12464,9 @@ The Devotee of Gradh is proud and haughty, indomitable and protective, and sorro
 - **Privileged Magic Lists**: Abjuration, Evocation
 - **Preferred Weapon**: Flanged mace
 - **Rule**: Do not allow an undead to walk on Earth
-\enditemize
 
 ### Atherim
 
-\beginchangemargin\beginenfasi{
 The one to whom you confide your secret becomes the master of your freedom. (François de La Rochefoucauld)
 
 There is nothing hidden that will not be revealed, nor secret that will not be known. (Luke, 12, 1-7)
@@ -13302,7 +12615,7 @@ prophetic hour, hour that brings back the past!
 
 And swells my throat, you, divine most equalizing,
 
-you, earth and life until the last ray shines, I sing. (Song at Sunset, Walt Whitman)
+you, earth and life until the last ray shines, I sing. (Song at Sunset, Walt Whitman)}
 
 Patron of Water and Fire, in the depths of the earth, where water and lava meet, Gaya enjoys painting. She loves to surround herself with flows of fire and water almost creating a dance among them. She adores the sounds of nature, the crashing of waves on rocks, the falling of raindrops on cobbQuicknes, the babbling of a crackling fire.
 
@@ -13661,6 +12974,7 @@ The Seven Luminous Rules are a set of norms and behaviors followed, in various c
 
 The Devotees of Sumkjr must follow all 7, other Devotees of other Patrons, always positive or at least neutral, follow only some of these dictates, as a rule to avoid falling into the arms of Calicante.
 
+\begin{enumerate}[leftmargin=*] 
 - Protect the weak and those who cannot defend themselves from abuse
 - Love life and protect it
 - Fight against injustice and those who bring suffering and pain
@@ -13668,6 +12982,7 @@ The Devotees of Sumkjr must follow all 7, other Devotees of other Patrons, alway
 - Honesty and Loyalty are your foundations
 - You are a master of virtue. Let others take inspiration from your deeds
 - Do not let your inaction generate suffering
+\end{enumerate}
 
 ### Tàhil
 
@@ -13791,7 +13106,7 @@ The Patrons are listed in alphabetical order by their most characteristic Trait.
 
 **Erondil**: Arrogant, Vindictive, Ambitious, Compassionate, Enthusiastic, Loyal, Greedy
 
-Rezh: Greedy, Indecisive, Ambitious, Envious, Cruel, Cynical, Patient
+**\hyperlink{Rezh**}: Greedy, Indecisive, Ambitious, Envious, Cruel, Cynical, Patient
 
 **Sixiser**: Cautious, Indecisive, Uncompromising, Impulsive, Dishonest, Cynical, Suspicious
 
@@ -13893,7 +13208,6 @@ To get an idea of commercial transactions, some trade goods are described in the
 **Table: Examples of other wealth**
 
 | **Cost** | **Item** |
-|---|---|
 | 1 cp | Wheat (0.5 kg) |
 | 2 cp | Flour (0.5 kg) or chicken (1) |
 | 1 sp | Iron (0.5 kg) |
@@ -14113,13 +13427,11 @@ Whenever the Attack Roll is a Critical Failure, there has been a problem with th
 **Roll and add 2d10, consult the table**
 
 | **\#** | **Effect** |
-|---|---|
 | 2 | The bullet is defective, fortunately there are no other problems. It takes an Action to remove the jammed bullet. |
 | 3 | The bullet got stuck. It takes two Actions to remove the jammed bullet. |
 | 4 | Having missed leaves you hesitant, lose 1 Action. |
 
 | **\#** | **Effect** |
-|---|---|
 | 5 | The sight is inaccurate. The next shot has -2 to the Attack Roll. |
 | 6 | You inadvertently fire two shots/bursts. The second doesn't hit anyone and just consumes bullets. |
 | 7 | The weapon is not adequately lubricated. Inserting the next magazine costs 1 full round. |
@@ -14143,15 +13455,13 @@ Whenever the Attack Roll is a Critical Failure, there has been a problem with th
 
 > Armor (n.). A suit of clothes made by a blacksmith. (Ambrose Bierce)
 
-Fantozzi Armor: 4-way vane functioning as a plume, fearsome Viking helmet with zero visibility, bronze suspender stolen from the statue of Pepin the Short and, on the feet, heavy irons for charcoal pressing made of molten lead. Total weight of Fantozzi armor: 4 quintals, 32 kilos and 7 and a half hectograms. (Superfantozzi, Film)} \endenfasi\endchangemargin
+Fantozzi Armor: 4-way vane functioning as a plume, fearsome Viking helmet with zero visibility, bronze suspender stolen from the statue of Pepin the Short and, on the feet, heavy irons for charcoal pressing made of molten lead. Total weight of Fantozzi armor: 4 quintals, 32 kilos and 7 and a half hectograms. (Superfantozzi, Film)} 
 
 Armor helps to not be hit (raises Defense) and penalizes Magic Checks and Basic proficiency checks and movement.
 
 The Proficiency Penalty is the penalty applied to Basic proficiency checks influenced by the weight and Encumbrance of the armor. Different, specific, or magical armors have different scores; this table serves as a guideline for the Narrator.
 
 ### Armor Table
-
-\begintabular
 
 | **Armor** | **Cost** | **Defense** | **Prof. Pen.** | **Type** | **Mov.** | **Magic Check** | **Encumbrance** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14166,10 +13476,6 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 | Half plate | 1200 gp | 8 | -2 | H | 1 | +16 | 8 |
 | Field plate | 1350 gp | 9 | -3 | H | 2 | +16 | 8 |
 | Full plate | 1500 gp | 10 | -4 | H | 3 | +16 | 8 |
-
-\endtabular
-
-\beginmulticols
 
 **Cost**: is for a medium-sized armor.
 
@@ -14187,7 +13493,7 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 
 **Cost**: the cost of a +1 armor or shield is 2250gp, +2 10000gp. It is practically not possible to purchase armor or shields or weapons with enchantments higher than +2, they must be *found*.
 
-**Check the requirements** for wearing \hyperlinkindossarearmatureArmor or Shield on pg. \pagerefindossarearmature.
+**Check the requirements** for wearing Armor or Shield on pg. .
 
 ### Armor, Shields and Magic
 
@@ -14241,7 +13547,7 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 
 **Using a Shield without adequate proficiency** worsens the Attack Roll by 1 and decreases the Defense Bonus granted by 1.
 
-**Sleeping in Armor**: if you sleep in medium or heavy armor, the next day you are automatically \hyperlinkaffaticatoFatigued.
+**Sleeping in Armor**: if you sleep in medium or heavy armor, the next day you are automatically Fatigued.
 
 Sleeping in light armor does not cause Fatigue.
 
@@ -14279,17 +13585,13 @@ A **Light Shield** has **Encumbrance** 1, a Medium Shield has Encumbrance 2, a H
 
 The penalty to the **Magic Check** adds up with that possibly due to armor and applies when the shield is worn.
 
-A shield can be used as an \hyperlinkarmaimprovvisataimprovised weapon. A small shield does 1d4 damage (B/S), a medium shield does 1d6 damage (B/S), a heavy shield does 1d8 damage (B/S).
+A shield can be used as an improvised weapon. A small shield does 1d4 damage (B/S), a medium shield does 1d6 damage (B/S), a heavy shield does 1d8 damage (B/S).
 
 Using the shield as an improvised weapon does not apply its bonus to Defense unless you use a Reaction to reset it to Defense after attacking.
 
 Wielding a shield occupies the hand and arm.
 
-\endmulticols
-
 ### Shields Table
-
-\begintabular
 
 | **Shields** | **Cost** | **Defense Bonus** | **AR penalty** | **Magic check** | **Type** | **Encumb.** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14299,54 +13601,34 @@ Wielding a shield occupies the hand and arm.
 | Medium metal shield | 12 gp | 2 | 0 | +4 | M | 2 |
 | Heavy wooden shield | 9gp | 3 | 1 | +6 | H | 4 |
 | Heavy metal shield | 20 gp | 3 | 1 | +6 | H | 4 |
-
-\endtabular
-
-\beginmulticols
-
 ### Donning and Removing Armor
 
 Wearing and removing armor is an operation that requires time and attention; doing it in a hurry doesn't help and in fact tends to worsen the protection provided.
 
-\endmulticols
-
 **Table: Time to don and remove armor**
-
-\begintabular
 
 | **Armor Type** | **Don** | **Don Hastily** | **Remove** |
 | --- | --- | --- | --- |
 | Shield | 1 Action | - | 1 Action |
 | Padded, Leather, Studded leather | 1 minute | 3 rounds | - |
 | Chain shirt | 1 minute | 5 rounds | 5 rounds |
-| Scale mail, Ring mail, Breastplate, Banded mail | 4 minutes | 1 minute* | 1 minute |
-| Half plate, Field plate, Full plate | 4 minutes** | 4 minutes* | 1d4+1 minutes |
+| Scale mail, Ring mail, Breastplate, Banded mail | 4 minutes | 1 minute{*} | 1 minute |
+| Half plate, Field plate, Full plate | 4 minutes{*}{*} | 4 minutes{*} | 1d4+1 minutes |
 
-\endtabular
+{*} If someone helps, the time is halved. A single character who is not doing anything else can help one or two adjacent characters. Two characters cannot help each other don armor at the same time.
 
-\beginmulticols
-
-* If someone helps, the time is halved. A single character who is not doing anything else can help one or two adjacent characters. Two characters cannot help each other don armor at the same time.
-
-** You must be helped to don this armor. Without help, you can only don it hastily.
+{*}{*} You must be helped to don this armor. Without help, you can only don it hastily.
 
 **Donning armor hastily** results in a -1 penalty to the Defense provided by the Armor and an additional +1 penalty to Basic Proficiency checks.
-
-\endmulticols
-
 ---
 
 # Goods and Services
 
 ## Wealth, Money, and Equipment
 
-\beginchangemargin\beginenfasi
 - Doc... we just need a little bit of plutonium.
 
-- Oh, I'm sure that in 1985, plutonium is available in every corner drugstore, but in 1955, it's a little hard to come by! (Back to the Future, Film 1985)
-\endenfasi\endchangemargin
-
-\beginmulticols
+- Oh, I'm sure that in 1985, plutonium is available in every corner drugstore, but in 1955, it's a little hard to come by! (Back to the Future, Film 1985)}
 
 ### Selling Treasures
 
@@ -14371,7 +13653,6 @@ On frontier lands, most transactions take place through barter. Many practical c
 **Perfect Tools**
 
 A perfect tool, in addition to costing 10 times as much as the normal version, grants a +1 to the check in which it is used.
-
 ---
 
 ### Adventuring Equipment
@@ -14382,32 +13663,30 @@ As a Narrator, always use common sense in requests, evaluate well the type of re
 
 Depending on the type of campaign, additional items such as firearms or alchemical items might be available.
 
-\begintabularppp
-
 | **Item** | **Cost** | **Enc.** |
 | --- | --- | --- |
 | Abacus | 2 gp | L |
 | Alchemist's Fire (flask) | 20 gp | L |
 | Alchemist's lab | 200 gp | 5 |
-| \hyperlinkAntitossinaAntitoxin (vial) | 50 gp | L |
+| Antitoxin (vial) | 50 gp | L |
 | Artisan's outfit | 1 gp | 1 |
 | Artisan's tools | 5 gp | 2 |
 | Backpack | 2 gp | 1 |
-| \hyperlinkBandolieraBandolier | 3 gp | L |
+| Bandolier | 3 gp | L |
 | Barge | 3K gp | - |
 | Barrel (empty) | 2 gp | 4 |
 | Basket (empty) | 4 sp | 1 |
-| \hyperlinkBear trapBear trap | 5 gp | 3 |
+| Bear trap | 5 gp | 3 |
 | Bedroll | 1 sp | 1 |
 | Beer Mug | 5 cp | L |
 | Beer Pitcher | 2 sp | L |
 | Bell | 1 gp | -- |
-| \hyperlinkCintura porta oggettiBelt pouch | 2 gp | L |
+| Belt pouch | 2 gp | L |
 | Bit and bridle | 2 gp | 1 |
-| \hyperlinkCarrucola e parancoBlock and tackle | 20 gp | 2 |
+| Block and tackle | 20 gp | 2 |
 | Bread (loaf) | 2 cp | -- |
 | Bucket (empty) | 5 sp | L |
-| \hyperlinkCaltropsCaltrops (20) | 1 sp | L |
+| Caltrops (20) | 1 sp | L |
 | Candle | 1 cp | -- |
 | Canvas (per sq. yd) | 1 sp | L |
 | Carriage | 300 gp | -- |
@@ -14422,16 +13701,12 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Chest (empty) | 2 gp | 3 |
 | Climber's kit | 80 gp | 1 |
 | Common musical instrument | 5 gp | 2 |
-| \hyperlinkBorsa dei ComponentiComponent pouch | 25 gp | L |
-
-\endtabular
-
-\begintabularppp
+| Component pouch | 25 gp | L |
 
 | **Item** | **Cost** | **Enc.** |
 | --- | --- | --- |
 | Courtier's outfit | 30 gp | 1 |
-| \hyperlinkpiedediporcoCrowbar | 2 gp | 1 |
+| Crowbar | 2 gp | 1 |
 | Devotee's robes | 5 gp | 1 |
 | Disguise kit | 50 gp | L |
 | Entertainer's outfit | 3 gp | 1 |
@@ -14447,15 +13722,15 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Glass bottle | 2 gp | L |
 | Grappling hook | 1 gp | 1 |
 | Hammer | 5 sp | 1 |
-| \hyperlinkborsadaguaritoreHealer's kit | 20 gp | 1 |
-| \hyperlinkEquip Pozione di CuraHealing Potion | 50 gp | L |
-| \hyperlinkEquip Pozione di Cura potenziataEnhanced Healing Potion | 125 gp | L |
-| \hyperlinkCordaHemp rope (50 ft) | 1 gp | 1 |
+| Healer's kit | 20 gp | 1 |
+| Healing Potion | 50 gp | L |
+| Enhanced Healing Potion | 125 gp | L |
+| Hemp rope (50 ft) | 1 gp | 1 |
 | Holly and mistletoe |  | - |
-| \hyperlinkAcqua santaHoly water (vial) | 25 gp | L |
+| Holy water (vial) | 25 gp | L |
 | Hourglass | 25 gp | -- |
 | House wine (pitcher) | 2 sp | 1 |
-| \hyperlinkHunter's lensHunter's lens | 100 gp | -- |
+| Hunter's lens | 100 gp | -- |
 | Ink (1 oz. vial) | 8 gp | -- |
 | Ink vial or potion vial | 1 gp | L |
 | Inn, good (lodging) | 2 gp | -- |
@@ -14463,15 +13738,15 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Inn, poor (lodging) | 1 sp | -- |
 | Iron pot | 8 sp | 1 |
 | Ladder (10 ft) | 2 sp | 3 |
-| \hyperlinkOlio da lanternaLamp oil | 1 sp | 1 |
-| \hyperlinkLanternaLantern | 1 gp | 2 |
+| Lamp oil | 1 sp | 1 |
+| Lantern | 1 gp | 2 |
 | Lantern, Bullseye | 12 gp | 1 |
 | Lantern, hooded | 7 gp | 1 |
-| \hyperlinkSerraturaLock/padlock Average | 40 gp | -- |
+| Lock/padlock Average | 40 gp | -- |
 | Lock/padlock Simple | 20 gp | -- |
 | Lock/padlock Superior | 150 gp | -- |
 | Longship | 10k gp | -- |
-| \hyperlinkManetteManacles | 15 gp | L |
+| Manacles | 15 gp | L |
 | Maul | 1 gp | 2 |
 | Meals (per day) Good | 5 sp | -- |
 | Meals (per day) Modest | 3 sp | -- |
@@ -14493,21 +13768,17 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Plush toy | 2 sp | -- |
 | Pole (10 ft) | 5 cp | 2 |
 
-\endtabular
-
-\begintabularppp
-
 | **Item** | **Cost** | **Enc.** |
 | --- | --- | --- |
-| \hyperlinkAnello per velenoPoison ring | +20 gp | - |
-| \hyperlinkAriete portatilePortable ram | 10 gp | 3 |
-| \hyperlinkAcido IntensoPotent Acid (vial) | 30 gp | L |
+| Poison ring | +20 gp | - |
+| Portable ram | 10 gp | 3 |
+| Potent Acid (vial) | 30 gp | L |
 | Pouch | 5 sp | L |
 | Quill | 1 sp | -- |
-| \hyperlinkFaretraQuiver | 3 gp | 1 |
+| Quiver | 3 gp | 1 |
 | Racing saddle | 30 gp | 2 |
 | Royal outfit | 200 gp | 3 |
-| \hyperlinkBarca a remiRowboat | 50 gp | 12 |
+| Rowboat | 50 gp | 12 |
 | Sack (empty) | 1 sp | L |
 | Saddlebags | 4 gp | 2 |
 | Sailing ship | 10k gp | -- |
@@ -14530,9 +13801,9 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Tarpaulin | 5 sp | 1 |
 | Tent | 10 gp | 3 |
 | Thick hemp rope (50 ft) | 2 gp | 2 |
-| \hyperlinkThieves toolsThieves' tools | 30 gp | 1 |
-| \hyperlinkEsca ed AcciarinoTinderbox | 5 sp | L |
-| \hyperlinkTorciaTorch | 1 sp | 1 |
+| Thieves' tools | 30 gp | 1 |
+| Tinderbox | 5 sp | L |
+| Torch | 1 sp | 1 |
 | Trail rations (per day) | 3 sp | L |
 | Traveler's outfit | 1 gp | 2 |
 | Vial (empty) | 3 cp | L |
@@ -14546,9 +13817,6 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Winter outfit | 8 gp | 2 |
 | Wooden holy symbol | 1 gp | L |
 
-\endtabular
-
-\beginchangemargin\beginenfasi{
 Any sufficiently advanced technology is indistinguishable from magic. (Arthur C. Clarke, from Profiles of the Future)
 
 **Potent Acid**. As an Action, you can splash the contents of this vial on a creature within 1 meter of you or throw the vial up to 6 meters, shattering it on impact. In either case, make a ranged Attack Roll against the creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage in the first round and 1d6 in the second round.
@@ -14613,7 +13881,7 @@ Any sufficiently advanced technology is indistinguishable from magic. (Arthur C.
 
 **Hooded Lantern**. A hooded lantern casts light in a 6-meter radius and dim light for 6 meters. Once lit, it burns for 1 hour of real game time with one flask (0.5 liters) of oil. With an Action, you can lower the hood, reducing the light to dim with a 1-meter radius. A lantern is lit in one round only with Tinder and Flint or with another source of flame.
 
-**Hunter's Lens**Hunter's lens: 100 gp, this complex lens is placed over one eye and occupies the eye slot when in use. When used with a ranged attack, it reduces the penalties from ranged attacks by 1d6. Objects within 9 meters become difficult to see, and you suffer a -1d6 penalty to Awareness checks based on sight and Attack Rolls.
+**Hunter's Lens**\hypertarget{Hunter's lens}{Hunter's lens}: 100 gp, this complex lens is placed over one eye and occupies the eye slot when in use. When used with a ranged attack, it reduces the penalties from ranged attacks by 1d6. Objects within 9 meters become difficult to see, and you suffer a -1d6 penalty to Awareness checks based on sight and Attack Rolls.
 
 **Manacles**. These metal restraints can bind a Small or Medium creature. Breaking them requires succeeding on a Fortitude Saving Throw with Strength with DC 24. Each set of manacles comes with a key. Without the key, a creature can use Escape Artist or Disable Device to open the lock by succeeding on a DC 18 check. Manacles have 15 Hit Points and Hardness 3.
 
@@ -15015,7 +14283,6 @@ Dragonhide Armor reduce Magic Check penalty by 4, proficiency penalties decrease
 Dragonhide armors cost 10 times an armor of that type, but do not require more time to be built. Dragon armor is never for sale.
 
 Dragonhide has 10 Hit Points per 2.5 cm of thickness and Hardness 10. Usually dragonhide is 1.25 to 2.5 cm thick.
-
 ---
 
 # Breaking In and Entering
@@ -15353,7 +14620,6 @@ Sometimes weather can play an important role during an adventure. The Table: Ran
 **Table: Random Weather**
 
 | **d\%** | **Weather** | **Cold Climate** | **Temperate Climate {***} | **Desert** |
-|---|---|---|---|---|
 | 01-70 | Normal | Cold, calm | Normal for the season {*}{*} | Hot, calm |
 | 71-80 | Abnormal | Heat Wave (01-30) / Cold Snap (31-100) | Heat Wave (01-50) - Cold Snap (51-100) | Hot, windy |
 | 81-90 | Inclement | Precipitation (snow) | Precipitation normal for the season | Hot, windy |
@@ -15496,7 +14762,6 @@ Extinguishes all flames. All ranged attacks are impossible (including those with
 Those who come into contact with the tornado are lifted from the ground and buffeted for 1d10 rounds, suffering 6d6 damage per round, before being violently expelled. The creature is expelled from a height of 1d6 meters per round of stay in the tornado.
 
 Although the rotational speed of a tornado can reach 450 km/h, the cone itself moves forward at an average of 45 km/h (about 75 meters per round). A tornado is capable of uprooting trees, destroying buildings, and causing other forms of similar devastation.
-
 ---
 
 # Adventures in Water
@@ -15670,7 +14935,7 @@ Sometimes brick walls (stones stacked one on top of another and held together wi
 
 **Table: Digging a tunnel**
 
-| **Miner** | **Material to Dig (1 minute)** |  |
+| **Miner** | **Material to Dig (1 minute)** |  | |
 | --- | --- | --- |
 | **Earth** | **SoftStone** | **Hard Stone** |
 | Human | 50 cm | 15 cm | 7 cm |
@@ -15905,16 +15170,13 @@ A Reflex Saving Throw DC 14 is required or suffer 2d6 slashing damage.
 **Crushing door, DC 16**: this door, as soon as touched, rotates on central hinges and rotating hits the character (or characters if it's a large gate). It causes 1d6 bludgeoning damage and continues to rotate for 1d6 rounds.
 
 **Finger Slicer, DC 14**: this trap is very subtle. It presents with a hole about 1 cm in diameter and 7 cm deep. Anything that touches the bottom will trigger the trap, causing 2d4 damage to the finger/object inserted. The blade might also be poisoned.
-
 ---
 
 # Adventure Hazards
 
 > One adventure is a reasonable result. Two are better, three deserve to be handed down, and four... no one will ever dispute four adventures. (John Steinbeck)
 
-One who is on guard runs less danger, even if they are safe. (Publilius Syrus)} \endenfasi\endchangemargin
-
-\beginmulticols
+One who is on guard runs less danger, even if they are safe. (Publilius Syrus)} 
 
 The world is full of dangers beyond dragons and ravenous aberrations. Hazards are threats present in the environment and have much in common with traps, but they are usually part of the place rather than being built. Hazards are divided into three main categories: environmental, living, and magical.
 
@@ -16036,7 +15298,7 @@ Every time a character ends a 24-hour period without sleeping at least 8 hours, 
 
 Each additional missed rest will make them even more Fatigued, accumulating the relevant penalties. If the character stays awake for several days, fighting against sleep becomes more difficult. After the first 24 hours, the DC increases by 4 for each consecutive 24-hour period spent without having slept 8 hours. The DC returns to 17 when the character completes a rest of at least 8 hours.
 
-Sleeping in medium or heavy armor makes you Fatigued, except if you have the \hyperlinksecondapelleSecond Skin Feat.
+Sleeping in medium or heavy armor makes you Fatigued, except if you have the Second Skin Feat.
 
 You cannot sleep the 8 hours at intervals of less than 16 hours.
 
@@ -16050,8 +15312,6 @@ If the group is numerous, the guard shifts to watch and check the environment be
 
 This table indicates the duration of guard shifts and the total rest time of the group, assuming at least 8 hours of rest.
 
-\begintabularx0.5\textwidth
-
 | **Group** | **Shift** | **Total** |
 | --- | --- | --- |
 | **members** | **Duration** | **Duration** |
@@ -16061,17 +15321,11 @@ This table indicates the duration of guard shifts and the total rest time of the
 | 5 | 2 h | 10 h |
 | 6 | 1 h and 30 min. | 9 h and 30 min. |
 
-\endtabularx
-
 A **sudden noise** grants an Awareness check at DC 15, or equal to the opponent's Stealth check +8, to wake up.
-
-\endmulticols
-
 ---
 
 ## Adventures and Traps
 
-\beginchangemargin\beginenfasi{
 Whoever sets the trap in the same place will never catch any iguana. (African Proverb)
 
 Almost anywhere you can encounter a trap. Traps can be magical or mechanical in nature. Mechanical traps include pits, arrows, falling boulders, water-filled rooms, rotating blades, and anything else that depends on a mechanism to operate. Magic traps are magical trap devices or spell traps. Magic trap devices, when activated, generate the effects of a spell, while spell traps are spells such as glyph of warding and symbol that function as traps.
@@ -16132,7 +15386,6 @@ Use the Trap Saving Throw DCs and Attack Bonus table and the Damage Severity by 
 **Table: Damage Severity by Level**
 
 | Character Level | Minimal | Dangerous | Deadly |
-|---|---|---|---|
 | 1st-4th | 1d10 | 2d10 | 4d10 |
 | 5th-10th | 2d10 | 4d10 | 10d10 |
 | 11th-16th | 4d10 | 10d10 | 18d10 |
@@ -16618,7 +15871,6 @@ Do you proceed down the corridor?
 Freely inspired by \href{https://friendorfoe.com/d/Old
 
 >>> A visible/obvious trap forces players to interact with it, to work hard to understand how it works and be ingenious to avoid or disable it. Whenever possible, avoid resolutions based solely on die rolls (Search for traps/Disable traps), rather reward the player's ingenuity, even if simple but creative, to avoid danger... and maybe sooner or later they'll remember to retrieve that crowbar...!
-
 ---
 
 # Poisons, Potions and Diseases
@@ -16699,7 +15951,6 @@ Once the First Aid check has been made, it is no longer possible to repeat it un
 Continuous First Aid treatment for 8 hours allows for a new Saving Throw with a +1d6 bonus after the poison's activation if it is still active.
 
 > I believe a leaf of grass is no less than a day's work of the stars. (Walt Whitman)}
-\endenfasi\endchangemargin
 
 ## Creating Natural Poisons and Potions
 
@@ -16711,13 +15962,11 @@ A Critical Failure on the Herbalism check will render the materials used worthle
 
 If the ingredients are purchased, the cost to prepare the poison is half the indicated selling price; if sought in nature, the production cost drops to a quarter. The time to prepare these potions/poisons is equal to DC/3 in hours.
 
-A Potion that ***Removes*** a condition is effective if its DC is higher than that of the Condition itself.
+A Potion that ***Removes*** a condition is effective if its DC is higher than that of the Condition itself. 
 
 The following examples represent only some of the possible poisons. All costs are expressed in Gold Coins. Poisons are presented, especially in the Monster Compendium, with this notation: Poison Name, Use (I/R/F/C), Onset time, Saving Throw DC, Effect.
 
-\beginchangemargin\beginnarratore
-Poisons are part of the long tradition of problems and adversities in role-playing games. When you want to use a poison, first think about why it's there, who it was to be used for, for what purpose. Not all poisons need to kill; a skilled thief might even use stunning poisons or ones that weaken the will of his target just enough to get them to open the safe.
-\endnarratore\endchangemargin
+>>> Poisons are part of the long tradition of problems and adversities in role-playing games. When you want to use a poison, first think about why it's there, who it was to be used for, for what purpose. Not all poisons need to kill; a skilled thief might even use stunning poisons or ones that weaken the will of his target just enough to get them to open the safe.
 
 ## How to find the little plants...
 
@@ -16725,11 +15974,10 @@ To *find* the ingredients to prepare **poisons**, it is necessary to pass the He
 
 To *find* the ingredients to prepare **natural potions**, it is necessary to pass the Herbalism check against the Rarity indicated in the *Rar.* column.
 
-\endmulticols
-
 **Table: Poisons. (cost in Gold Coins)**
 
-\begintabularx1\textwidthmlllmc
+{1\textwidth}{mlllmc}
+	
 
 | **Poison Name** | **Use** | **Ons.** | **ST** | **Effect (damage)** | **Cost** |
 | --- | --- | --- | --- | --- | --- |
@@ -16758,26 +16006,23 @@ To *find* the ingredients to prepare **natural potions**, it is necessary to pas
 | Blood Serpent Venom | F | I | 25 | Paralysis for 1d6 hours -1d4 Strength points for 7 days | 75 |
 | Thrun's Blood | C | I | 26 | -1d3 Constitution | 80 |
 
-\endtabularx
-
 **Application**: **I**(ngestion), **F**(injury), **C**(ontact), **R**(espiration).
 
 The Saving Throw is always on Fortitude unless otherwise specified
 
 Lost ability score points are recovered at a rate of 1 per day if not permanent or otherwise indicated.
-
 ---
 
 **Table: Natural Potions (cost in gold coins)**
 
-\beginxltabular1\textwidth
->{\raggedrightp
->p
->p
->p
->\raggedrightX
->p
->p
+{1\textwidth}{
+		>{\raggedright}p
+		>{}p
+		>{}p
+		>{}p
+		>{\raggedright}X
+		>{}p
+		>{}p
 
 | **Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16826,11 +16071,6 @@ Lost ability score points are recovered at a rate of 1 per day if not permanent 
 | Nazamuse | I | I | 30 | Removes natural Poisons and Diseases | 32 | 175 |
 | Ljust's Kiss | C | 1 r | 35 | Heals 100 Hit Points | 34 | 500 |
 | 100 Herbs Extract | I | I | 24 | Removes Blindness, Deafness, Paralysis, Poison | 35 | 150 |
-
-\endxltabular
-
-\beginmulticols
-
 ### Notes on Poisons and Potions
 
 **Arduur**: A sacred herb, primarily harvested in the forests of Sangzhar. It is macerated and reduced to a decoction, drunk to remove the most persistent poisons.
@@ -16941,11 +16181,7 @@ The Narrator is free to use all the potions and poisons already listed or use re
 
 The onset is always immediate, the duration for healing is immediate, for others it is 10 minutes (so the Remove Poison potion protects you for 1 Turn against a poison).
 
-\endmulticols
-
 **Table: of generic potions. Cost in Gold Coins.**
-
-\begintabularx1\linewidth
 
 | **Potion Name** | **Effect** | **Cost** | **Appl.** |
 | --- | --- | --- | --- |
@@ -16958,13 +16194,9 @@ The onset is always immediate, the duration for healing is immediate, for others
 | Enhanced Poison | 2d8+4 damage. DC 18 Fortitude ST to halve | 50 | F |
 | Greater Poison | 4d10+8 damage. DC 24 Fortitude ST to halve | 125 | F |
 | Remove Poison | grants a new ST with +1d6 | 75 | I |
-| Generic Potion* | see \hyperlinkcrearepozioniCreating Potions (page \pagerefcrearepozioni) | Lv*Lv*50 | I |
-
-\endtabularx
+| Generic Potion* | see Creating Potions (page ) | Lv*Lv*50 | I |
 
 ## Optional - Drugs
-
-\begintabularx1\textwidth
 
 | **Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16976,10 +16208,6 @@ The onset is always immediate, the duration for healing is immediate, for others
 | Inut Scented Essence | R | I | 15 | +4 Dexterity for 1d8 hours | 16 | 15 gc |
 | Julnnaus Pollen | R | I | 20 | +3 Constitution for 2 hours | 16 | 25 gc |
 | Erain Flower Pollen | R | 1 r | 20 | +2 Str Int Dex, +3d6 temporary HP for 1 hour | 17 | 75 gc |
-
-\endtabularx
-
-\beginmulticols
 
 **The use of drugs is completely optional. It is the Narrator who decides their presence and availability based on the sensitivity of the players**.
 
@@ -17010,9 +16238,9 @@ E.g. *Minor Demonic Fever*: 1 minute, Fortitude ST DC 18, 6 hours, 3 successes, 
 
 Minor Demonic Fever forces a Fortitude Saving Throw at DC 18 after just one minute of contracting it. Subsequently, every 6 hours the Saving Throw must be redone and the disease persists until at least 3 consecutive successes are made on the ST. Every 6 hours the sick person loses 1 point of Constitution and Wisdom.
 
-To recover from a non-natural disease, such as those afflicted by monsters, it is necessary to pass the required Saving Throws or use the \hyperlinkRemove DiseaseRemove Disease spell (page \pagerefRemove Disease).
+To recover from a non-natural disease, such as those afflicted by monsters, it is necessary to pass the required Saving Throws or use the Remove Disease spell (page ).
 
-A \hyperlinkcounteractcounteracting check (page \pagerefcounteract) is made between the Remove Disease spell and the DC of the disease.
+A counteracting check (page ) is made between the Remove Disease spell and the DC of the disease.
 
 If the DC of the disease is not expressed, then it is considered sufficient to simply cast the spell to cancel its effects.
 
@@ -17035,28 +16263,19 @@ Examples of Diseases:
 **Black Blood**: 10 minutes, Fortitude ST 28, 12 hours, 1 success, loss of half remaining Hit Points
 
 **T Plague**: 1 minute, Fortitude ST 30, 2 hours, 3 successes, perform 3 consecutive successes otherwise you are transformed into a zombie of equal CR. It is transmitted through contact.
-
-\endmulticols
-
 ---
 
 # Movement and Transport
 
-\beginchangemargin\beginenfasi
 My left foot works perfectly fine, but I still couldn't walk if I didn't have the right one! (Madagascar 3 - Europe's Most Wanted, Film)
 
-When you can no longer run, walk fast; when you can no longer walk fast, walk; when you can no longer walk, use a cane; but never hold yourself back. (Mother Teresa of Calcutta)
-\endenfasi\endchangemargin
-
-\beginmulticols
+When you can no longer run, walk fast; when you can no longer walk fast, walk; when you can no longer walk, use a cane; but never hold yourself back. (Mother Teresa of Calcutta)}
 
 Movement can be distinguished based on which situation it applies to.
 
-\beginitemize[leftmargin=*]
 - Tactical, when fighting, precise distances are used, map and 1-meter-side squares
 - Local, to explore an area, measured in meters per minute.
 - Overland, to move from one place to another, measured in km per hour or per day.
-\enditemize
 
 ## Movement Types
 
@@ -17070,15 +16289,13 @@ Running as a Move Action doubles movement speed.
 The character who runs has a penalty of 1d6 on Attack Rolls and 4 on Defense until the beginning of his next round.
 Only in non-combat situations does running triple movement, i.e., when using Local or Overland Movement.
 
-**Table: Movement and Distance and Speed: on Foot**
+**Table: Movement and Distance and Speed: on Foot** 
 
 This table shows the base values of land movement in non-combat situations.
 
-\begintabularx0.48\textwidth
-
 | **Movement type** | **Movement** |  | |
-| --- | --- | --- |---|
-|  | **6m** | **9m** | **12m** |
+| --- | --- | --- |
+| \cmidrule(lr) | **6m** | **9m** | **12m** |
 | **Movement (Tactical)** |  |  | |
 | Walking | 6m | 9m | 12m |
 | Running (x2) | 12m | 18m | 24m |
@@ -17090,8 +16307,6 @@ This table shows the base values of land movement in non-combat situations.
 | Running (x3) | 9km | 12km | 18km |
 | **One day (Overland)** |  |  | |
 | Walking | 24km | 32km | 54km |
-
-\endtabularx
 
 ## Tactical Movement
 
@@ -17108,19 +16323,19 @@ A character can perform up to 3 Sprint Actions, i.e., runs for the entire round 
 
 Difficult terrain, snowy, icy, with rapid ascents and descents, full of debris or with obstacles or poor visibility can hinder movements. When movement is hindered, one moves at half speed, 2 Actions are needed to cover one's distance of 9 meters (if one is human without encumbrance..), or with a Move Action one covers only 4 meters.
 
-If there is more than one particular condition, add all applicable additional costs together, i.e., if a terrain is difficult and one moves on all fours, it means moving at a quarter of one's movement.
+If there is more than one particular condition, add all applicable additional costs together, i.e., if a terrain is difficult and one moves on all fours, it means moving at a quarter of one's movement. 
 
 In some situations, movement is so hindered that the distance that can be traveled per Action is minimal, in which case all 3 Actions can be used to move only 1 meter in any direction.
 
 Do not apply this rule for crossing impassable terrain or for moving when it is not possible to do so in any way.
 
-You cannot **Sprint** (Run) on difficult terrain, the player can attempt an Acrobatics check at DC 20 to be able to run but not to charge, if they fail they treat the terrain as Difficult, if they Critically Fail they fall prone on the spot.
+You cannot **Sprint** (Run) on difficult terrain, the player can attempt an Acrobatics check at DC 20 to be able to run but not to charge, if they fail they treat the terrain as Difficult, if they Critically Fail they fall prone on the spot. 
 
-You cannot \hyperlinkcarica**Charge** through difficult terrain unless you have the \hyperlinkabRhinoRhino Feat (page \pagerefRhino).
+You cannot **Charge** through difficult terrain unless you have the Rhino Feat (page ).
 
 Moving from prone, Swimming or Crawling is considered difficult terrain, Climbing is doubly difficult.
 
-Terrain where there are bodies of creatures is considered difficult.
+Terrain where there are bodies of creatures is considered difficult. 
 
 ### Sharing Spaces
 
@@ -17130,34 +16345,29 @@ A creature larger than medium can share its squares only if the other creature i
 
 E.g. a Large sized monster can share its space only with a Small or smaller creature, if it were Huge it could share it with a Medium or smaller creature.
 
-\beginchangemargin\begintcolorbox[title = Tups in the tunnel]
-Tups is with his companions in a narrow tunnel in single file. He is in the fourth position.
+>> Tups in the tunnel: Tups is with his companions in a narrow tunnel in single file. He is in the fourth position.
 
 Suddenly an enemy appears in front and Tups is the quickest to react, using a Move Action ***he passes through*** the 3 companions in front of him, remaining **confined** with the first in line.
 
 He could decide to (among various possibilities):
 
-\beginitemize[leftmargin=*]
 - stay still without moving forward, let the companions in front of him act first.
 - remain confined and attack. 2 Actions remain.
 - push the companion (1 Action) into the previous square, making him become confined with another companion. 1 Action remains.
 - push the companion (1 Action) into the next square! making him pass through the enemy's square. 1 Action remains.
 - go back (1 Action) to his initial square. 1 Action remains.
 - try to pass through the opponent (1 Action), but if he fails he would be confined with the companion, damaging both and would only have 1 other Action left
-\enditemize
-
-\endtcolorbox\endchangemargin
 
 ### Exchanging Places
 
 A character in contact with another creature can use **one Action** to **exchange places** with it. If the creature is hostile, an Athletic Check opposed to a Fortitude Saving Throw is required to succeed in exchanging places. For each size difference, whoever has the larger one takes a +1d6 bonus to the check. It costs a Reaction to the friendly creature.
 
-\beginchangemargin\beginnarratore
-If you want a crude realism then it is also difficult terrain to pass through areas where there are friendly creatures. \endnarratore\endchangemargin
+>>> %box narratore
+If you want a crude realism then it is also difficult terrain to pass through areas where there are friendly creatures.
 
 ### Being confined with someone
 
-Two confined creatures, or those sharing the same square and not respecting the rules of \hyperlinkcondividereglispaziSharing Spaces suffer a -1d6 to the Attack Roll and a -4 to Defense while confined.
+Two confined creatures, or those sharing the same square and not respecting the rules of Sharing Spaces suffer a -1d6 to the Attack Roll and a -4 to Defense while confined.
 
 ### Passing through narrow passages or constrictions
 
@@ -17171,10 +16381,8 @@ Characters exploring an area use local movement, measured in meters per minute.
 
 In these situations, it is not essential to measure the distance precisely, but as soon as the situation becomes *problematic* or requires attention, the map is converted to tactical movement, squared and measured.
 
-\beginitemize[leftmargin=*]
 - Walking: A character can walk without problems in Local Movement for 8 hours a day.
 - Running: A character can Run for a number of minutes equal to their Fortitude Saving Throw value without needing to rest (minimum 1 round).
-\enditemize
 
 ## Overland Movement
 
@@ -17210,13 +16418,9 @@ A mount carrying a rider can move at a hustle. However, the damage it takes is n
 
 **Mount Barding**
 
-A mount can be equipped with armor. Light armor will confer a +2 bonus to Defense, Medium armor will grant a +4 bonus to Defense reducing movement by 25\
-
-\endmulticols
+A mount can be equipped with armor. Light armor will confer a +2 bonus to Defense, Medium armor will grant a +4 bonus to Defense reducing movement by 25\%, Heavy armor will give a +6 to Defense lowering movement by 33\%.
 
 ## Table: Mounts and Vehicles
-
-\begintabularx0.95\textwidth
 
 | **Mount or Vehicle** | **Transported Encumbrance** | **Movement** | **Movement** |
 | --- | --- | --- | --- |
@@ -17236,10 +16440,6 @@ A mount can be equipped with armor. Light armor will confer a +2 bonus to Defens
 | Warship (sails and oars) | 2200 | 3.5km | 90km |
 | Longship (sails and oars) | 600 | 5km | 108km |
 | Galley (oars and sails) | 3300 | 6km | 144km |
-
-\endtabularx
-
-\beginmulticols
 
 A mount can carry a creature on its back only if it is of a size smaller than its own. The daily movement is intended for 6 hours of riding, beyond these hours the mount becomes exhausted requiring a full day of rest.
 
@@ -17298,37 +16498,27 @@ In case more creatures push or pull a cart, consider as CdC the highest one and 
 
 The **Table: CdC transported based on size** shows the Load Capacity based on size. The values of Strength and Constitution must be added to the value given by size.
 
-\begintabularx0.45\textwidth
-
 | **Size** | **Enc.** | **Size** | **Enc.** |
 | --- | --- | --- | --- |
 | Fine | 1/4 | Large | 24 |
 | Diminutive | 1 | Huge | 36 |
 | Tiny | 3 | Gargantuan | 49 |
 | Small | 6 | Colossal | 77 |
-| Medium | 12 |  | \endtabularx |
-
-Creatures with 4 or more legs can carry larger loads.
+| Medium | 12 |  | Creatures with 4 or more legs can carry larger loads. |
 
 **Table: transport modifiers for creatures with multiple legs**
 
-\begintabularx0.45\textwidth
-
 | **Creature Legs** | **CdC** |
-|---|---|
 | 4 legs | x2 |
 | 6 legs | x2.5 |
 | 8 legs | x3 |
 | 12 legs | x4 |
 | every other 2 legs | +0.5 |
 
-\endtabularx
-
-These Tables are to be used for unusual animals not indicated or comparable to those in the \hyperlinkTableMountsandVehiclesTable: Mounts and Vehicles, page \pagerefTableMountsandVehicles.
+These Tables are to be used for unusual animals not indicated or comparable to those in the Table: Mounts and Vehicles, page .
 
 ## Other Types of Movement
 
-\beginchangemargin\beginenfasi{
 One of the problems concerns the speed of light and the difficulties involved in trying to exceed it. You can't exceed it. Nothing travels faster than the speed of light, with the possible exception of bad news, which follows its own specific laws. (Douglas Adams)
 
 ### Swimming
@@ -17364,7 +16554,6 @@ A flying creature that is damaged in a single blow by half of its maximum Hit Po
 ### Hovering
 
 Hovering (**Hover**) is the ability that allows one to remain floating in the air, at the desired height, even if one does not move or is unconscious.
-
 ---
 
 # Mastering
@@ -17375,7 +16564,7 @@ To do what one wants, one must be born a king or a fool. (*or Narrator*, NdA) (L
 
 "It is not the job of the DM (*Narrator*) alone to entertain the players and make sure they have fun. Each person playing is responsible for the fun of the game for everyone. Everyone speeds up the game, increases the drama, helps establish how comfortable the group feels with role-playing, and brings the game world to life with their imagination. Everyone should also treat each other with respect and consideration: personal squabbles and character rivalries interfere with fun.
 
-| Different people have different ideas about what's fun in D&D. Remember that the *right way* to play D&D is the way you and your players agree on and have fun with. If everyone comes to the table ready to contribute to the game, everyone has fun". (Dungeon Master Guide, 4ed) |
+| Different people have different ideas about what's fun in D | D. Remember that the *right way* to play D | D is the way you and your players agree on and have fun with. If everyone comes to the table ready to contribute to the game, everyone has fun". (Dungeon Master Guide, 4ed) |
 | --- | --- | --- |
 
 ## The Narrator
@@ -17426,7 +16615,6 @@ Whenever the character or the group:
 **Table: Experience Points per Level**
 
 | **Level** | **XP** | **Level** | **XP** |
-|---|---|---|---|
 | 1 | 0 | 11 | 300000 |
 | 2 | 2000 | 12 | 390000 |
 | 3 | 8000 | 13 | 490000 |
@@ -17471,7 +16659,6 @@ OBSS refers to the principles of OSR and as such the exploration and combat phas
 ## Encounters
 
 > What is life without hope? A throw of dice in darkness, in delirium. (Ambrogio Bazzero)}
-\endenfasi\endchangemargin
 
 An encounter is a moment of tension and hope, fear and challenge. It's the opportunity to show and manifest one's abilities and to work as a group.
 
@@ -17495,7 +16682,7 @@ Note that this reference guide to creating an encounter assumes a group of four 
 
 **Table: Determining Encounters**
 
-\begintabular@{ll@
+{@{}ll@ % @{} removes extra padding
 
 | **difficulty** | **Challenge Rating** |
 | --- | --- |
@@ -17505,8 +16692,6 @@ Note that this reference guide to creating an encounter assumes a group of four 
 | Extraordinary | APL +3 |
 | Deadly | APL +4 |
 | Epic | APL +6 |
-
-\endtabular
 
 **Determine the Challenge Rating**: The Challenge Rating (CR) is a convenience number used to indicate the relative risks presented by a monster, a trap, a hazard, or another encounter: the higher the Challenge Rating, the more dangerous the encounter. Refer to the Table: Determining Encounters to determine the Challenge Rating that your group should face, based on the difficulty of the challenge you want and the APL.
 
@@ -17534,21 +16719,16 @@ Starting from an established Challenge Rating (9), follow this table to establis
 
 **Table: Challenge Rating Weight for encounter calculation**
 
-\begintabular
-
-| **Factor** | **\ |
-| --- | --- |
-
+| **Factor** | **\% Weight** | **Factor** | **\% Weight** |
+| --- | --- | --- | --- |
 | -6/-7 | 5 | -2 | 65 |
 | -5 | 10 | -1 | 80 |
 | -4 | 20 | +0 | 100 |
 | -3 | 45 |  | |
 
-\endtabular
+**Factor** means the difference between the monster's CR relative to the chosen Challenge Rating. The Weight is the relative \% that the monster brings to reach the goal of 100%.
 
-**Factor** means the difference between the monster's CR relative to the chosen Challenge Rating. The Weight is the relative \
-
-**To reach the goal we must add *the percentages* of each individual opponent until we reach 100, i.e., 100\
+**To reach the goal we must add *the percentages** of each individual opponent until we reach 100, i.e., 100\% of the challenge.*
 
 In our example, a Stone Giant has Challenge Rating 7, i.e., a Challenge Rating -2 compared to our difficulty target of Challenge Rating 9, the Xorn has Challenge Rating 5 i.e., -4 compared to Challenge Rating 9, the Gargoyles have Challenge Rating 2 i.e., -7 compared to Challenge Rating 9.
 
@@ -17562,9 +16742,7 @@ Opponents with Challenge Rating less than 8 compared to the APL are counted, wei
 
 Opponents with CR equal to 1/2 consider them as CR 1, with CR less than 1/2 consider them as CR 0.
 
-\beginchangemargin\beginnarratore
 Remember at the end of each *encounter* or *challenge* to note down the Traits that have characterized the actions of the characters. You can grant these partial points at the first opportunity for the characters to rest.
-\endnarratore\endchangemargin
 
 ### Encounters too fast
 
@@ -17576,9 +16754,8 @@ It's possible there are too few enemies, and even if they are *strong*, by chann
 
 It's obviously possible that the encounter isn't well calibrated and you've actually balanced it to be too easy. This is the easiest case to solve; experience will teach you to better construct encounters either by adding or replacing adversaries.
 
-Remember that *monsters* can also perform Actions like \hyperlinkspingereavversarioPush, \hyperlinkafferrareunavversarioGrapple, \hyperlinkfarecadereavversarioKnock Down, \hyperlinkfiancheggiareFlank; don't limit yourself in your choices.
+Remember that *monsters* can also perform Actions like Push, Grapple, Knock Down, Flank; don't limit yourself in your choices.
 
-\beginchangemargin\beginenfasi{
 The essence of the world is play... we play the serious, we play the authentic, we play reality, work and struggle, we play love and death, and we even play the game itself. (Eugen Fink)
 
 ### The Boss Fight
@@ -17633,8 +16810,7 @@ Characters advance in level by defeating monsters, overcoming challenges, having
 
 **Table: Character Wealth by Level**
 
-| Level | Wealth (gp) | Level | Wealth (gp) |
-|---|---|---|---|
+| **Level** | **Wealth (gp)** | **Level** | **Wealth (gp)** |
 | 1 | 100 | 11 | 13900 |
 | 2 | 160 | 12 | 19900 |
 | 3 | 220 | 13 | 25900 |
@@ -17670,7 +16846,7 @@ The player must always personify the character, identify with them and actively 
 
 There may be background situations, handled quickly, that are done in the third person, yet every time it becomes necessary to play, it must be true, done by the player fully immersing themselves in the character.
 
-**When a player roleplays well and describes the action they are performing in a {participatory**, **engaging**, **inspired** manner, give them a reward, grant a +1 bonus to the action they are performing}
+**When a player roleplays well and describes the action they are performing in a \textbf{participatory**, **engaging**, **inspired** manner, give them a reward, grant a +1 bonus to the action they are performing}
 
 Make it clear to the player that thanks to their interpretation they have that bonus.
 
@@ -17981,10 +17157,11 @@ Then consult the Table Magic Item Type (p. ) to roll and discover what magic ite
 
 **Table: Treasure Composition**
 
+{\textwidth}{>{\bfseries}l|>
 	
 
 | **Treasures from lairs or hideouts of creatures** |  |  |  |  |  |  | |
-| --- | --- | --- | --- | --- | --- | --- |---|
+| --- | --- | --- | --- | --- | --- | --- |
 | TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
 | x 1000 | x 1000 | x 1000 | x 100 |  |  | |
 | A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 any, 30\% |
@@ -17997,9 +17174,10 @@ Then consult the Table Magic Item Type (p. ) to roll and discover what magic ite
 | H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 any 15\% |
 | I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 any 15\% |
 
+{\textwidth}{>{\bfseries}l|>
 
 | **Individual Treasures, small lairs, backpacks and bags** |  |  |  |  |  |  | |
-| --- | --- | --- | --- | --- | --- | --- |---|
+| --- | --- | --- | --- | --- | --- | --- |
 | TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
 | J | 3d8 | - | - | - | - | - | - |
 | K | - | 3d6 | - | - | - | - | - |
@@ -18019,7 +17197,7 @@ Then consult the Table Magic Item Type (p. ) to roll and discover what magic ite
 | Y | - | - | 1d6*100 | - | - | - | - |
 | Z | 1d3*100 | 1d4*100 | 1d6*100 | 1d4*100 | 1d6, 50\% | 2d6, 50\% | 3 any, 50\% |
 
-When the treasure is indicated by multiple letters, the creature possesses both indicated treasures. Some particularly creatures might have the same treasure multiple times (2 H, i.e., 2 times treasure H).
+When the treasure is indicated by multiple letters, the creature possesses both indicated treasures. Some particularly \emph creatures might have the same treasure multiple times (2 H, i.e., 2 times treasure H).
 
 ---
 
@@ -18030,7 +17208,7 @@ The Narrator in preparing the adventure can position the magic items they prefer
 The exclusively random approach is not always suggested, the results could overwhelm the adventure if not the entire campaign!
 Yet finding a dragon-slaying sword at the first level, rest assured it will generate endless adventures for the characters!
 
- 
+ %box narratore
 Earth is a world with a *rare* magic profile; magic items exist but are rare and even more so the more powerful ones. While natural potions and small trinkets can be found everywhere, it is only by actively searching, going into the depths that the best treasures can be found.
 
 ### Value of Gems and Jewelry
@@ -18038,7 +17216,6 @@ Earth is a world with a *rare* magic profile; magic items exist but are rare and
 When Gems or Jewelry are found, the Narrator must roll to determine their value in gold pieces. You can assign the same value to all objects, assign an individual value to each gem/jewelry, or roll randomly for each.
 
 | **4d6** | **Gems** | **4d6** | **Gems** |
-|---|---|---|---|
 | 4 | Quartz | 16 | Topaz |
 | 5-6 | Amber | 17 | Turquoise |
 | 7-8 | Zircon | 18 | Sapphire |
@@ -18052,7 +17229,6 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 **Table: Types of Jewelry**
 
 | **4d6** | **Magic bonus** |
-|---|---|
 | 4-6 | -2 Cursed |
 | 7-11 | +1 |
 | 12-16 | -1 Cursed |
@@ -18062,7 +17238,6 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 | 24 | +5 |
 
 | **4d6** | **Magic bonus** |
-|---|---|
 | 4-6 | -2 Cursed |
 | 7-11 | +1 |
 | 12-16 | -1 Cursed |
@@ -18074,7 +17249,6 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 **Table: Special Ability Armor/Shields Type 1**
 
 | **1d100** | **Special Ability Armor/Shields Type 1** |
-|---|---|
 | 11-15 | Archer's Bracers |
 | 16-20 | Bracers of Defense |
 | 21-25 | Bracers of Greater Defense |
@@ -18092,7 +17266,6 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 **Table: Special Ability Armor/Shields Type 2**
 
 | **1d100** | **Special Ability Armor/Shields Type 2** |
-|---|---|
 | 1-5 | Cursed |
 | 6-10 | Adamantine |
 | 31-35 | Demonic Armor |
@@ -18105,7 +17278,6 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 ### Amulets, Necklaces and Jewelry
 
 | **1d100** | **Amulets, Necklaces and Jewelry Type 1** |
-|---|---|
 | 1-8 | Anti-poison Amulet |
 | 8-12 | Gangrene Amulet |
 | 12-18 | Healing Amulet |
@@ -18123,7 +17295,6 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 | 91-100 | Scarab of Protection |
 
 | **1d100** | **Amulets, Necklaces and Jewelry Type 2** |
-|---|---|
 | 1-7 | Elemental Gem |
 | 8-13 | Gem of Brightness |
 | 9-16 | Gem of Sight |
@@ -18142,7 +17313,6 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 ### Belts, Helmets, Boots and Gloves
 
 | **1d100** | **Belts, Helmets, Boots and Gloves** |
-|---|---|
 | 1-3 | Belt of Giants |
 | 3-6 | Belt of Dwarves |
 | 6-11 | Helm of Comprehending Languages |
@@ -18169,7 +17339,6 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 | **1d100** | **Wand** |
-|---|---|
 | 1-5 | Metal Detection Wand |
 | 6-10 | Wand of Arcane darts |
 | 11-15 | Wand of Comfort |
@@ -18196,7 +17365,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 **Table: Staff Generation**
 
 | **3d6** | **Staff** |
-|---|---|
 | 3 | Staff of the Archmage |
 | 4 | Staff of the Woodlands |
 | 5-6 | Staff of Charming |
@@ -18213,7 +17381,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 **Table: Rod Generation**
 
 | **1d100** | **Rod** |
-|---|---|
 | 1-10 | Rod of Enchantment |
 | 11-20 | Rod of Absorption |
 | 21-30 | Immovable Rod |
@@ -18234,7 +17401,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | Potion Type 3 | 8 |
 
 | **1d100** | **Potion Type 1** |
-|---|---|
 | 1-8 | Potion of Climbing |
 | 9-15 | Potion of Growth |
 | 16-23 | Potion of Heroism |
@@ -18251,7 +17417,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 96-100 | Potion of Flying |
 
 | **1d100** | **Potion Type 2** |
-|---|---|
 | 1-10 | Potion of Animal Clairaudience |
 | 11-20 | Potion of Animal Clairvoyance |
 | 21-28 | Potion of Animal Control |
@@ -18266,7 +17431,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 96-100 | Enhanced Poison Potion |
 
 | **1d100** | **Potion Type 3** |
-|---|---|
 | 1-13 | Love Philter |
 | 14-27 | Treasure Finding Philter |
 | 28-40 | Oil of Sharpness |
@@ -18285,7 +17449,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | Ring Type 2 | 17-18 |
 
 | **1d100** | **Rings Type 1** |
-|---|---|
 | 1-5 | Spell Storing Ring |
 | 6-13 | Ring of the Ram |
 | 14-21 | Ring of Feather Falling |
@@ -18303,7 +17466,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 93-100 | Ring of Telekinesis |
 
 | **1d100** | **Rings Type 2** |
-|---|---|
 | 1-8 | Ring of Person Control |
 | 9-17 | Ring of Plant Control |
 | 18-23 | Ring of Water Elementals |
@@ -18322,9 +17484,9 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 ### Hats, Cloaks, Glasses, Robes
 
+\hypertarget{Glasses}{Glasses}\hypertarget{Hats}{Hats}
 
 | **1d100** | **Hats, Cloaks, Glasses, Robes** |
-|---|---|
 | 1-3 | Bandana of Intelligence |
 | 4-10 | Hat of Disguise |
 | 11-17 | Cloak of Arachnida |
@@ -18352,7 +17514,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Manuals, Tomes and Scrolls
 
 | **3d6** | **Scroll Rarity** | **Pages on Scroll** |
-|---|---|---|
 | 3-11 | Common | 1d4 |
 | 12-13 | UnCommon | 1d6 |
 | 14-16 | Rare | 1d8 |
@@ -18360,7 +17521,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 18 | Legendary | 2d6 |
 
 | **3d6** | **Spell Level** |
-|---|---|
 | 3-9 | 1 |
 | 10-12 | 2 |
 | 13-16 | 3 |
@@ -18375,7 +17535,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | Tomes | 17-18 |
 
 | **3d6** | **Manuals** |
-|---|---|
 | 3-12 | Empty manual |
 | 13 | Manual of Golems |
 | 14 | Manual of Good Health |
@@ -18385,7 +17544,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 18 | Cursed Manual of Physical Exercise |
 
 | **3d6** | **Tomes** |
-|---|---|
 | 3-12 | Empty tome |
 | 13 | Tome of Authority and Influence |
 | 14 | Tome of Understanding |
@@ -18397,7 +17555,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Miscellaneous Magic Items
 
 | **1d100** | **Miscellaneous magic items 1** |
-|---|---|
 | 1-8 | Purifying Water |
 | 9-17 | Chime of Opening |
 | 18-27 | Bag of Holding Type I |
@@ -18420,7 +17577,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Miscellaneous magic items 2
 
 | **1d100** | **Miscellaneous magic items 2** |
-|---|---|
 | 1-8 | Brazier of Fire Elementals |
 | 9-17 | Cursed Brazier of Sleep |
 | 18-23 | Cube of Cold Protection |
@@ -18444,7 +17600,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Miscellaneous magic items 3
 
 | **1d100** | **Miscellaneous magic items 3** |
-|---|---|
 | 1-15 | Bag of Annihilation |
 | 16-25 | Decanter of Endless Water |
 | 26-35 | Dimensional Shackles |
@@ -18460,7 +17615,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Miscellaneous magic items 4
 
 | **1d100** | **Miscellaneous magic items 4** |
-|---|---|
 | 1-10 | Vial of Curses |
 | 11-18 | Chime of Cannibalism |
 | 19-28 | Bag of Holding Type II |
@@ -18482,7 +17636,6 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 ### Rare and Legendary
 
 | **1d100** | **Magic Item** |
-|---|---|
 | 1-3 | Wings of Flying |
 | 4-6 | Iron Flask |
 | 7-10 | Elemental Water Amphora |
@@ -18622,7 +17775,6 @@ this **bottle** of iron has a brass stopper. You can use two actions to speak th
 The *identify* spell reveals that a creature is inside the flask, but the only way to determine what type of creature it is is to open the flask. A newly discovered iron flask might already contain a creature chosen by the Narrator or determined randomly.
 
 | **d100** | **Contains** |
-|---|---|
 | 1-50 | Empty |
 | 51-66 | Demon |
 | 67 | Angel Deva |
@@ -18700,7 +17852,6 @@ while wearing this **amulet** you are hidden from divination magic. You cannot b
 A Bane **weapon** excels at attacking certain creatures. Against the chosen enemy, its effective bonus becomes +2. The weapon also automatically inflicts critical damage against such enemy. To randomly determine the weapon's chosen enemy, use the following table:
 
 | d\% | Chosen enemy |
-|---|---|
 | 01-05 | Aberrations |
 | 06-09 | Beasts |
 | 10-16 | Constructs |
@@ -18742,7 +17893,6 @@ The Weapon Ring's ability recharges at dawn. The weapon ring does not count agai
 A Greater Weapon **ring** can only be applied to melee weapons and has only one power. When found, it is necessary to roll on the table below to determine the type of feat that the ring confers. The weapon ring does not count against the limits for wearing rings. A weapon can't hold more Weapon Ring then its magical bonus.
 
 | **1d100** | **Feat** | **1d100** | **Feat** |
-|---|---|---|---|
 | 1-6 | Cursed -2 | 55-60 | Shocking |
 | 7-12 | Courageous | 61-66 | Frost |
 | 13-18 | Of Pain | 67-72 | Flaming |
@@ -18981,7 +18131,6 @@ various cost, various rarity, while wearing this **ring**, you have a bonus of +
 while wearing this **ring**, you have resistance to one type of damage. The gem set in the ring indicates the type of damage, which is chosen or randomly determined by the Narrator.
 
 | **d10** | **Damage Type** | **Gem** |
-|---|---|---|
 | 1 | Acid | Pearl |
 | 2 | Force | Sapphire |
 | 3 | Cold | Tourmaline |
@@ -19221,7 +18370,6 @@ This wand has 7 charges. The wand recovers 1 charge every day at dawn.
 Each time you use the wand of wonder, roll a d100 and consult this table.
 
 | **d100** | **Contents** |
-|---|---|
 | 01-05 | You cast the Slow spell. |
 | 06-10 | You cast the Light spell. |
 | 11-15 | You are stunned until the beginning of your next round, and believe that something amazing has happened. |
@@ -19380,7 +18528,6 @@ You have a 50\% chance of instantly traveling to a random plane of existence, av
 If the Saving Throw succeeds, the creature takes half this damage.
 
 | **Distance from origin** | **Damage** |
-|---|---|
 | 3 meters or less | 8 × charges in staff |
 | Up to 6 meters | 6 × charges in staff |
 | Up to 9 meters | 4 × charges in staff |
@@ -19506,7 +18653,6 @@ If you dump the bag's contents on the ground, the beans explode in a 3-meter rad
 The fire ignites flammable objects in the area that aren't being worn or carried. If you remove a bean from the bag, plant it in soil or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The Narrator chooses the effect or determines it randomly.
 
 | **d100** | **Effect** |
-|---|---|
 | 01 | 5d4 mushrooms sprout. If a creature eats a mushroom, roll any die. On an odd result, make a Fortitude Saving Throw with DC 18 or take 5d6 poison damage and be poisoned for 1 hour. On an even result, the creature gains 5d6 temporary Hit Points for 1 hour. |
 | 02-10 | A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Narrator's choice) 9 meters into the air for 1d12 rounds. |
 | 11-20 | A treant sprouts. There's a 50\% chance that the treant is evil and attacks you. |
@@ -19545,12 +18691,10 @@ Another creature can use two actions to reach into the bag and pull out the crea
 this painted brass **bottle** weighs 500 grams. When you use two actions to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your round, the smoke dissipates in a flash of harmless fire, and an efreeti appears in an unoccupied space within 9 meters of you. The first time the bottle is opened, the Narrator randomly determines what happens.
 
 | **3d6** | **Effect** |
-|---|---|
 | 3-5 | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears and the bottle loses its magic. |
 | 6-16 | The efreeti serves you for 1 hour, doing as you command. Then it returns to the bottle and a new stopper appears and seals it. The stopper cannot be removed for 24 hours. The next two times the bottle is opened, the same effect appears. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
 
 | **3d6** | **Effect** |
-|---|---|
 | 17-18 | The efreeti can cast the wish spell on your behalf three times. It disappears when it grants the final wish or after 1 hour, at which point the bottle loses its magic. |
 
 ## Eversmoking Bottle
@@ -19726,7 +18870,6 @@ this **necklace** has 1d4 + 2 magic beads made of aquamarine, black pearl, or to
 There are six types of magic beads. The Narrator decides the type of each bead on the necklace. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast with two actions, with a Spell DC of 12 + 2x Level in case of a Saving Throw. Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
 
 | **3d6** | **Bead of...** | **Spell** |
-|---|---|---|
 | 3-5 | Blessing | Bless |
 | 6-11 | Curing | Cure wounds 5 or Lesser restoration |
 | 12-14 | Divine Favor | Greater restoration |
@@ -19839,7 +18982,6 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 Below are the properties of each activatable face and its related charge cost.
 
 | **Face** | **Cost** | **Effect** |
-|---|---|---|
 | 1 | 1 | Gases, wind, and fog cannot pass through the barrier |
 | 2 | 2 | Nonliving matter cannot pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
 | 3 | 3 | Living matter cannot pass through the barrier. |
@@ -20330,7 +19472,6 @@ To create a golem, you must spend the time indicated above, working without inte
 Once you finish creating the golem, the book is consumed by arcane flames. The golem becomes animated when the ashes of the manual are sprinkled on it. It is under your control and understands and obeys the orders you speak to it.
 
 | 3d6 | Golem | Time | Cost |
-|---|---|---|---|
 | 3-4 | Clay | 30 days | 65000 gp |
 | 5-16 | Flesh | 60 days | 50000 gp |
 | 17 | Iron | 120 days | 100000 gp |
@@ -20429,6 +19570,7 @@ Before drawing a card, you must declare how many cards you intend to draw and th
 
 You must draw each card within 1 hour of the previous draw. If you don't draw the chosen number of cards, the remaining cards will fly out of the deck by themselves and take effect simultaneously. Once drawn, a card disappears from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
 
+\begin{adjustbox}{max width=0.5\textwidth}
 
 | {>{\raggedright}p{0.15\textwidth}|>{\raggedright}p{0.1\textwidth}>{\raggedright}p{0.15\textwidth}|>{\raggedright}p{0.1\textwidth |
 | --- | --- | --- |
@@ -20445,6 +19587,7 @@ You must draw each card within 1 hour of the previous draw. If you don't draw th
 | Two of clubs | Idiot | Joker | Fool* |
 | Joker | Jester |  | |
 
+\end{adjustbox}
 
 * Found only in a deck of 22 **cards**
 
@@ -20983,6 +20126,7 @@ when you drink this **potion**, for 1 hour or until you end the effect with two 
 
 when you drink this **potion**, for 1 hour your Strength score changes. The type of giant determines the score (see the following table). The potion has no effect if your Strength score is equal to or greater than the new score. The frost giant strength potion and the stone giant strength potion have the same effect.
 
+ \setlength\itemsep{0em}
 - hill, Strength 5 500 gp
 - stone or frost, Strength 6 1000 gp
 - fire, Strength 7 2000 gp
@@ -20995,6 +20139,7 @@ when you drink this **potion**, for 1 hour your Strength score changes. The type
 
 when you drink **this** potion, you regain a number of Hit Points depending on the rarity of the healing potion.
 
+ \setlength\itemsep{0em}
 - **Common**, Hit Points 1d8 + 1. Common, 50 gp
 - **Greater**, Hit Points 3d8 +3. Uncommon, 125 gp
 - **Superior**, Hit Points 3d10 +30. Rare, 300 gp
@@ -21036,6 +20181,7 @@ when you drink this **potion**, for 1d4 hours you gain the reduce effect of the 
 
 There are several types of **poisons**:
 
+ \setlength\itemsep{0em}
 - **Weakening**, DC 15 Fortitude or -2 Attack Rolls and Saving Throws for 1 minute. Uncommon, 35gp
 - **Greater Weakening**, DC 18 Fortitude, -1d6 Attack Rolls and Saving Throws for 1 Turn, 50 gp
 - **Poison**, take 2d6+2 damage. ST DC 15 Fortitude. Uncommon, 30 gp
@@ -21455,7 +20601,6 @@ In addition, the robe has 4d4 other patches. The Narrator chooses the patches or
 Roll a d100 on the following table to discover the properties of the other 4d4 patches on the robe of useful items.
 
 | **d100** | **Effect** |
-|---|---|
 | 01-08 | Bag with 100 gp. |
 | 09-15 | Silver chest (30 cm long, 15 cm wide and deep) worth 500 gp. |
 | 16-22 | Iron door (up to 3 meters wide and high, barred on the side of your choice), which you can place on any opening within reach; it fits into the opening, attaching and creating hinges. |
@@ -21467,7 +20612,6 @@ Roll a d100 on the following table to discover the properties of the other 4d4 p
 | 69-75 | Rowboat (4 meters long). |
 
 | **d100** | **Effect** |
-|---|---|
 | 76-83 | Spell scroll containing a spell of 1st to 3rd level. |
 | 84-90 | Two mastiffs. |
 | 91-96 | Window (60 x 120 cm, up to 60 cm deep), which you can place on any vertical surface within reach. |
@@ -21696,7 +20840,6 @@ these iron **horseshoes** come in sets of four. When all four horseshoes are att
 **Rarity:** Very Rare; **Cost:** 1500 gp
 
 these iron **horseshoes** come in sets of four. When all four horseshoes are attached to a dinosaur steed or similar creature, they allow that creature to move normally while it floats about 10 centimeters above the ground. This effect means that the creature can cross or move over non-solid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. Additionally, the creature can move at its normal speed for up to 12 hours a day without suffering exhaustion from a forced march.
-
 ---
 
 # Rules on Magic Items
@@ -21841,7 +20984,6 @@ Alternatively, they may be tools created in the last days of the first era when,
 So let's not be surprised to find objects that can be recharged, even if for a short time, with *Shocking Grasp*, or functioning vehicles when struck by a *Lightning Bolt*.
 
 These objects will be rare and precious, almost like a dose of still-active antibiotic. Feel free to create *technomagical* objects, taking inspiration from the modern world and science fiction to create amazing useful items for your adventure.
-
 ---
 
 # Creating Magic Items
@@ -22032,7 +21174,6 @@ Sometimes the lack of funds or time makes it impossible to create the desired ma
 The cost to add additional abilities to an item is the same as if the item were not magical, minus the value of the original item. So a +1 longsword can become a vorpal +2 longsword, and the cost of creation equals that of a vorpal +2 longsword minus the cost of a +1 longsword.
 
 When determining the price of an invented magic item, many factors must be considered. The simplest way to decide the price is to compare the new item to an item that already has a price, and use that price as a guide.
-
 ---
 
 # Cursed Items
@@ -22040,9 +21181,6 @@ When determining the price of an invented magic item, many factors must be consi
 > When an impious person curses their adversary, they curse themselves. (Sirach)
 
 If you curse a person, there will be two graves. (Japanese proverb)}
-\endenfasi\endchangemargin
-
-\beginmulticols
 
 Cursed items are magic items with a potentially negative influence on the character.
 
@@ -22054,9 +21192,7 @@ A curse can also manifest as a result of negative or extreme emotional influence
 
 **Common Item Curses**
 
-\begintabular
-**\
-
+| **\%** | **Curse** |
 | 01-15 | Deception |
 | 16-40 | Opposite Effect or Target |
 | 41-50 | Intermittent Functioning |
@@ -22064,17 +21200,13 @@ A curse can also manifest as a result of negative or extreme emotional influence
 | 66-90 | Drawback |
 | 91-100 | Completely different effect |
 
-\endtabular
+Cursed items are \hypertarget{curseditemsid}{**identified**} like any other magic item with only one exception: unless the Arcana check to identify the item exceeds 35 or the spell Identify is cast with a Magic Check and obtains a magic critical, the curse is not detected. If the check is below 35 or without a magic critical, all that is revealed is the original purpose of the magic item.
 
-Cursed items are \hypertargetcurseditemsid**identified** like any other magic item with only one exception: unless the Arcana check to identify the item exceeds 35 or the spell \hyperlinkIdentifyIdentify is cast with a Magic Check and obtains a magic critical, the curse is not detected. If the check is below 35 or without a magic critical, all that is revealed is the original purpose of the magic item.
+If it is known that the item is cursed, the nature of the curse can be determined using the standard DC for identifying the item.
 
-If it is known that the item is cursed, the nature of the curse can be determined using the \hyperlinkidentificareomstandard DC for identifying the item.
-
-\beginchangemargin\beginnarratore
 A curse is always a particular *inconvenience*, not used randomly. Think carefully about the cursed items you will let the characters find because they will ask you many questions and you should be ready.
 
 The curse doesn't need to be excessive and limiting; it can very well be ridiculous or peculiar, make sure it is characterizing. The character shouldn't feel (unless you want them to) eternally condemned; use the opportunity to build new adventures and group spirit.
-\endnarratore\endchangemargin
 
 ## Removing Cursed Items
 
@@ -22082,9 +21214,9 @@ While some cursed items can be simply put down, others exert a strong compulsion
 
 These items can only be removed after the Remove Curse spell is cast on the character or the item.
 
-The \hyperlinkDispel MagicDispel Magic spell is useless for removing a curse; only a \hyperlinkDissolvi Magie AvanzatoGreater Dispel Magic with 3 Critical Magic Successes may be sufficient.
+The Dispel Magic spell is useless for removing a curse; only a Greater Dispel Magic with 3 Critical Magic Successes may be sufficient.
 
-If the item was cursed through the \hyperlinkScagliare MaledizioneBestow Curse spell, or if the Narrator decides that the item has a particular curse, then a \hyperlinkcounteractcounterspell check (p. \pagerefcounteract) must be made between the one casting Remove Curse and the DC of the item's curse.
+If the item was cursed through the Bestow Curse spell, or if the Narrator decides that the item has a particular curse, then a counterspell check (p. ) must be made between the one casting Remove Curse and the DC of the item's curse.
 
 If the counterspell check succeeds, then the item can be removed in the next round, and the curse remains and strikes again if the item is used/worn another time.
 
@@ -22116,7 +21248,7 @@ Intermittent items function exactly as they should, when they work. Determine if
 
 ### Unreliable
 
-Every time the item is activated, there is a 5\
+Every time the item is activated, there is a 5\% chance that it will not work.
 
 ### Conditional
 
@@ -22124,11 +21256,9 @@ This item works only in certain situations. To determine which ones, choose an a
 
 ### Uncontrollable
 
-An uncontrollable item tends to activate randomly. Roll a d\
+An uncontrollable item tends to activate randomly. Roll a d\% each day. With a result of 01--05, the item spontaneously activates at some point during the day.
 
-\begintabularx0.5\textwidth
-**\
-
+| **\%** | **Situation** |
 | 01-03 | Temperature below freezing |
 | 04-05 | Temperature above freezing |
 | 06-10 | During the day |
@@ -22150,13 +21280,10 @@ An uncontrollable item tends to activate randomly. Roll a d\
 | 97-99 | On non-sacred days or during particular astronomical occurrences |
 | 100 | More than 150 km from a certain place |
 
-\endtabularx
-
 ## Requirement
 
 Some items have much more difficult requirements to meet in order to function. To make the item in question function, it might be necessary to satisfy one of the following conditions:
 
-\beginitemize[leftmargin=*]
 - The character must eat twice the normal amount.
 - The character must sleep twice the normal amount.
 - The character must complete at least one specific mission.
@@ -22171,7 +21298,6 @@ Some items have much more difficult requirements to meet in order to function. T
 - The item must be used to kill a living creature per day.
 - The item must be used at least once a day, or it stops working for its current owner.
 - When wielded, the item must draw blood (only weapons). It cannot be set aside or changed with another item until it has landed a hit.
-\enditemize
 
 The requirements depend on the convenience of the item that should never be determined randomly. An intelligent item with a requirement often imposes its own requirement through its personality.
 
@@ -22183,17 +21309,12 @@ Items that have drawbacks usually have positive effects on those who use them, b
 
 Unless otherwise indicated, drawbacks remain active for as long as the item remains in the character's possession. The DC of the Saving Throw to avoid these effects is equal to 10 + DC of the curse (if you have not established the difficulty, set the Saving Throw, usually on Will, at DC 25)
 
-\beginchangemargin\beginnarratoreThe list is an example to randomly generate effects on the item's owner. Take inspiration and be creative! However, don't make a curse render it impossible to play the character; rather, it should be experienced as an opportunity to try something different. Never throw a cursed item randomly into the treasure pile; always think about what might happen and what consequences will be generated. A cursed item always requires a high level of attention and planning from the Narrator\endnarratore\endchangemargin
-
-\endmulticols
-
+>>> The list is an example to randomly generate effects on the item's owner. Take inspiration and be creative! However, don't make a curse render it impossible to play the character; rather, it should be experienced as an opportunity to try something different. Never throw a cursed item randomly into the treasure pile; always think about what might happen and what consequences will be generated. A cursed item always requires a high level of attention and planning from the Narrator
 ---
 
 **Table: Effects of cursed magic items**
 
-\begintabularx0.98\textwidth
-**\
-
+| **\%** | **Drawback** |
 | 01-02 | The character's hair grows 2.5 cm per hour. |
 | 02-04 | The character's nails grow 1 cm every 8 hours |
 | 05-06 | The character's height decreases by 5d10 cm |
@@ -22221,7 +21342,7 @@ Unless otherwise indicated, drawbacks remain active for as long as the item rema
 | 50 | A Trait is replaced |
 | 51 | The character's metabolism changes and becomes exclusively carnivorous |
 | 52 | The character's metabolism changes and becomes exclusively vegetarian |
-| 53-54 | The character must attack the creature closest to them (5\ |
+| 53-54 | The character must attack the creature closest to them (5\% chance each day). |
 | 55-57 | The character is Stunned for 1d4 rounds each time the object serves its purpose |
 | 58-60 | The character becomes deaf |
 | 61-64 | Maximum Hit Points are permanently reduced by 10 (remaining with a minimum of 1). |
@@ -22237,20 +21358,16 @@ Unless otherwise indicated, drawbacks remain active for as long as the item rema
 | 90-92 | Saurovalli, dogs, and domestic cats become hostile. |
 | 93 | A Patron will do everything to kill you. |
 | 94 | The PC is teleported 10d100 Km away every day at dawn. |
-| 95 | The character is transformed into a random creature of a specific species (5\ |
-| 96 | The character is transformed into a specific creature (5\ |
+| 95 | The character is transformed into a random creature of a specific species (5\% chance each day). |
+| 96 | The character is transformed into a specific creature (5\% chance each day). |
 | 97 | The character can no longer use magic items or Spells with level above 5 |
 | 98 | The character can no longer use magic items or Spells with level above 3 |
 | 99 | The character can no longer use Spells |
 | 100 | Roll twice |
 
-\endtabularx
-
 ---
 
 # Lycanthropy
-
-\beginmulticols
 
 Werecreatures are humanoids doomed to transform into animals or animal-human hybrids when the full moon rises. This curse is transmissible through bite/wound and procreation. A werecreature is potentially unaware of its curse until the arrival of the first full moon.
 
@@ -22260,7 +21377,6 @@ After the first complete mutation, the creature acquires the ability to transfor
 
 The **hybrid** form, apart from the obvious physical transformations, grants:
 
-\beginitemize[leftmargin=*]
 - the creature also acquires the Beast and Shapechanger types
 - Increases by one size if the were-type is larger than the original creature's size
 - Physical Ability Scores and Defense increase by 2.
@@ -22270,18 +21386,15 @@ The **hybrid** form, apart from the obvious physical transformations, grants:
 - Acquires the senses reported by the were-version of the creature.
 - Gets +2d6 to interact with animals of its were-form.
 - The creature becomes Vulnerable to silver.
-\enditemize
 
 ## The complete were-form
 
 The **complete were-form**, apart from the obvious and important physical transformations, grants and modifies those of the hybrid form in this way:
 
-\beginitemize[leftmargin=*]
 - Physical Ability Scores and Defense increase by 3.
 - Will Saving Throw increases by 2.
 - Damage with claw or bite causes 1d8 + Strength.
 - Temporary Hit Points increase to four times the level of the creature.
-\enditemize
 
 ## Transforming into a were-creature
 
@@ -22293,26 +21406,19 @@ Only after having transformed at last one time $ $into a complete were-creature 
 
 The creature cursed by lycanthropy from another were-creature through wound acquires the ability to transform spontaneously into a complete were-creature only after 1 year from the first transformation, only at night and with the moon present.
 
-Children of were-creatures have a 33\
+Children of were-creatures have a 33\% chance, per were-parent, of being natural lycanthropes and therefore able to command their powers from birth.
 
 ## Curing lycanthropy
 
 Lycanthropy is an ancient and powerful curse and is not easy to remove.
 If wounded by a were-creature, they must make a Saving Throw as described by the monster's description. If the initial Saving Throw fails, then a Remove Curse opposed at DC 21 + level of the creature itself is required.
-
-\endmulticols
-
 ---
 
 # The Earth
 
-\beginchangemargin\beginenfasi
 So the Earth is truly round. But I never imagined it was blue. Why do men who live on such a beautiful planet do nothing but fight among themselves? (Nadia - The Secret of Blue Water)
 
-The planet doesn't belong to us, we belong to it. We are passing through, it remains. (Pierre Rabhi)
-\endenfasi\endchangemargin
-
-\beginmulticols
+The planet doesn't belong to us, we belong to it. We are passing through, it remains. (Pierre Rabhi)}
 
 The Earth, meant as the planet itself, as we have known it, is now a faded memory.
 
@@ -22324,7 +21430,7 @@ After 30 days, Calicante decided that it was not enough to destroy everything an
 
 These drew on culture and tradition, on the most hidden fears and terrifying nightmares, and from thousands of portals came demonic hordes, orcs, dragons, and abominations as if generated by the fevered mind of some madman. The dead rose from their graves and began to hunt the living.
 
-Even though the direct power manifestations of the Patrons lasted only 1 year, humanity lost over 90\
+Even though the direct power manifestations of the Patrons lasted only 1 year, humanity lost over 90\% of its population in the attempt to defend itself, to survive.
 
 Industry and knowledge were destroyed, and in the following century, barbarism and ignorance certainly did not help us recover.
 It was the Edict of Forgetfulness that destroyed everything. The Edict emitted a powerful magical wave that fused the components of every electrical apparatus and at the same time erased any data that might be stored there, but this was not the worst: the Edict confused the words of every written book.
@@ -22364,7 +21470,6 @@ Even Devotees or Followers themselves, if they publicly proclaim their Patrons, 
 
 In such a complex setting, the possibilities for adventures are practically infinite. Here are some ideas that might inspire you:
 
-\beginitemize[leftmargin=*]
 - The characters are sent to explore devastated and mutated areas, in search of resources, survivors, or ancient technologies
 - The various human and non-human factions are at war for control of resources or territories. The characters could choose a faction or try to mediate peace
 - Protect a village from attacks by hostile entities or monsters evoked from the Portals.
@@ -22386,7 +21491,6 @@ In such a complex setting, the possibilities for adventures are practically infi
 - Protect strategic outposts from enemy assaults, using tactics and limited resources.
 - Some regions and cities have undergone a temporal shift, returning to ancient eras.
 - Strange occurrences are happening in the territory, all situations aligned along the Ley lines.
-\enditemize
 
 The *problem* for adventurers and explorers is the extreme diversification and mutability not only of the environment but also of the cultures and civilizations that can be encountered.
 
@@ -22462,25 +21566,18 @@ Much of the lands between France and Germany have returned to a more primitive a
 The cold lands of northern Europe isolated themselves after their dead rose again. This time by the will of the people, help was sought from Krondal and Nedraf so that they could save them. Nedraf gave them the weapons and the experience to use them, Krondal, like a true madman, brought back the ancestral memories of a warrior past made of myths and Gods forgotten, or rather ignored, by most.
 Thus Krondal has recreated as his servants Aegir, Alfadur, Hel, Idhunn, Norne, not to mention the better-known Thor, Loki, Valkyries...
 
-\beginchangemargin\beginnarratore
+>>> %box narratore
 Use real terrestrial physical geographic maps to help you with the environment. Look online for maps of ancient cities. You have at your disposal the greatest setting ever created; it's just a matter of populating it with the myths, legends, stories, and fantasy that are already around you.
 
 Every city has its historical legends, discover them and play them together!
-\endnarratore\endchangemargin
-
-\endmulticols
 
 ## The Portals
 
-\beginchangemargin\beginenfasi
-Never open doors to those who open them without your permission. (Stanislaw Jerzy Lec)
-\endenfasi\endchangemargin
-
-\beginmulticols
+Never open doors to those who open them without your permission. (Stanislaw Jerzy Lec)}
 
 This proliferation of small, large, durable, or instantaneous Portals has caused a rift in the dimensional fabric of Earth, generating in turn a proliferation of spontaneous tunnels of varying sizes and duration.
 
-These occasional Portals will often be the cause of situations to face and defeat. Each Portal has its own DC to overcome in order to be closed with the spell \hyperlinkClose PortalClose Portal (p. \pagerefClose Portal), usually this DC ranges from 20 for the easiest to 40 for permanent ones.
+These occasional Portals will often be the cause of situations to face and defeat. Each Portal has its own DC to overcome in order to be closed with the spell Close Portal (p. ), usually this DC ranges from 20 for the easiest to 40 for permanent ones.
 
 There are known and stable portals, so far, that connect continents. The most interesting Portals for commerce are almost all under control, not to say inside the fortress, of royals and powerful people.
 
@@ -22488,30 +21585,20 @@ Not all Portals are dangerous; many simply function as transport gateways from o
 
 You can invent a thousand and one adventures behind the Portals; each is a possibility of a different world and a multitude of adventures.
 
-\beginchangemargin\beginnarratore
+ %box narratore
 You should understand the portals as a key to a thousand and one adventures. Each portal will lead you to a different place, fantastic as you intend it. Do you want an adventure in a primitive world, set in modern society, on a planet somewhere? Use the portal to open the doors of your imagination.
 
 The characters themselves might not be *terrestrial* and seek a way to return home...
-\endnarratore\endchangemargin
 
-\beginchangemargin\beginnarratore
-Use the setting you prefer most! This world is an example of a chaotic and slightly anarchic world dominated by the continuous mood changes of capricious deities.
+>>> Use the setting you prefer most! This world is an example of a chaotic and slightly anarchic world dominated by the continuous mood changes of capricious deities.
 Choose your setting, use Greyhawk, Dark Sun, Mystara, whatever you prefer. You are the Narrator, you are the world, you are the one projecting light and darkness, OBSS will provide you with the tools to conduct your campaigns!
-
-\endnarratore\endchangemargin
-
-\endmulticols
-
 ---
 
 ## The Calendar
 
-\beginchangemargin\beginenfasi
 I've often ended up on a calendar. But never for a specific date. (Marilyn Monroe)
 
-It all began on the thirteenth hour of the thirteenth day of the thirteenth month... We were there to discuss the printing errors in the calendars purchased by the school. (The Simpsons) \endenfasi\endchangemargin
-
-\beginmulticols
+It all began on the thirteenth hour of the thirteenth day of the thirteenth month... We were there to discuss the printing errors in the calendars purchased by the school. (The Simpsons)} 
 
 Based on the lunar cycle, it has 12 months of 28 days each.
 
@@ -22572,14 +21659,10 @@ The Devout and Followers believe that their spirit will reunite with the Patron,
 Others still believe that each spirit incarnates 4 times before being judged by the Patrons of Genesis and sent to the plane assigned to it.
 
 The truth is not for us to know.
-
-\endmulticols
-
 ---
 
 ## The Secular Cycles
 
-\beginchangemargin\beginenfasi{
 Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain.
 
 And he seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years, and threw him into the pit, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while. (Revelation 20:1-3, apostle John)
@@ -22803,6 +21886,7 @@ If not indicated, but necessary for checks (not for the Attack Roll, where the v
 
 **Table: Magic Weapons Equivalence**
 
+{lp{0.055\textwidth}p{0.06\textwidth}p{0.07\textwidth
 	
 
 | **Immunity** | **Magic Weapon** | **Natural Attack (WP)** | **Empty Fist** |
@@ -23010,7 +22094,6 @@ This table indicates the relative Experience Points for CR.
 **Table: Challenge Rating and Experience Points**
 
 | **CR** | **XP** | **CR** | **XP** | **CR** | **XP** |
-|---|---|---|---|---|---|
 | 0 | 10 | 9 | 5000 | 21 | 33000 |
 | 1/8 | 25 | 10 | 5900 | 22 | 41000 |
 | 1/4 | 50 | 11 | 7200 | 23 | 50000 |
@@ -23066,9 +22149,17 @@ This system is also used to calculate the XP gained for traps or challenges over
 
 ### Optional - Alternative Method for Building Encounters
 
+\begin{enumerate}[leftmargin=*] 
 - **Define the APL (Average Party Level):** Calculate the average level of the group. Add up the levels of all characters and divide by the number of characters, as already explained.
 - **Establish the Desired Difficulty:** Decide what level of challenge you want to present to the group.
 
+- \makebox[2.5cm][l]{Easy:} 75\% - 105\%
+- \makebox[2.5cm][l]{Medium:} 106\% - 145\%
+- \makebox[2.5cm][l]{Challenging:} 146\% - 195\%
+- \makebox[2.5cm][l]{High:} 196\% - 255\%
+- \makebox[2.5cm][l]{Extraordinary:} 256\% - 325\%
+- \makebox[2.5cm][l]{Deadly:} 326\% - 405\%
+- \makebox[2.5cm][l]{Epic:} 406\% and beyond
 - **Assign a Percentage Value to Monsters:** Use the following table to determine the *weight* (percentage) of each Adversary (*Adv.*) based on the difference between its Challenge Rating (CR) and the group's APL (*Ratio*)
 
 | **Ratio** | **\% per Adv.** | **Ratio** | **\% per Adv.** |
@@ -23082,6 +22173,7 @@ This system is also used to calculate the XP gained for traps or challenges over
 
 Start with the monsters with the highest Challenge Rating and then add monsters with lower CR to reach the desired percentage.
 
+\end{enumerate}
 ---
 
 ## Optional - What to Do with Monsters
@@ -23222,7 +22314,7 @@ Oskar Schindler: That's what the emperors had. A man steals something, he's brou
 - **Ability**: Str 5 Dex -1 Con 2 Int 4 Wis 2 Cha 4
 - **Hit Points**: 199,  **Defense:** 24,  **Initiative:** +4
 - **Movement**: 3 m, swim 12 m
-- **Saving Throws**: Fortitude +12, Reflex +9, Will +12
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +12, Reflex +9, Will +12
 - **Spells**: immune to Illusion spells below 2nd level
 - **Skills**: Awareness +10, History +12
 - **Senses**: Darkvision 36 m
@@ -23261,12 +22353,11 @@ The aboleth can take 3 bonus actions, chosen from the options below. It can use 
 
 **Ecology**
 
-Environment: Any Aquatic
-
-Organization: Solitary, pair, brood (3-6), or shoal (7-19)
+| Environment: Any Aquatic |
+| --- |
+| Organization: Solitary, pair, brood (3-6), or shoal (7-19) |
 
 **Treasure Category**: F
-
 **Description**
 As their primitive appearance suggests, aboleths are among the oldest life forms in the world. An aboleth is 7 meters long and weighs about 3.2 tons. Aboleths dwell at the bottom of the seas in their vast cities, served by countless slaves.
 
@@ -23275,7 +22366,7 @@ As their primitive appearance suggests, aboleths are among the oldest life forms
 - **Ability**: Str 6 Dex 2 Con 5 Int 2 Wis 1 Cha 3
 - **Hit Points**: 338,  **Defense:** 36,  **Initiative:** +2
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +22, Reflex +19, Will +18
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +22, Reflex +19, Will +18
 - **Skills**: Stealth +7, Awareness +11
 - **Damage Imm.**: Acid
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23324,12 +22415,11 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 
 **Ecology**
 
-Environment: Warm Swamps
-
-Organization: Solitary
+| Environment: Warm Swamps |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 
 | See Ancient Black Dragon Description. |
@@ -23349,7 +22439,7 @@ Organization: Solitary
 - **Ability**: Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4
 - **Hit Points**: 322,  **Defense:** 33,  **Initiative:** +3
 - **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: Fortitude +22, Reflex +16, Will +18
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +22, Reflex +16, Will +18
 - **Skills**: Stealth +5, Perception +13
 - **Damage Imm.**: Lightning
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23396,12 +22486,11 @@ The dragon can take 3 Legendary Actions, choosing from the options below. Only o
 
 **Ecology**
 
-Environment: Mountain peaks
-
-Organization: Solitary
+| Environment: Mountain peaks |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: E
-
 **Description**
 
 | See Ancient Blue Dragon Description. |
@@ -23421,7 +22510,7 @@ Organization: Solitary
 - **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 1 Cha 3
 - **Hit Points**: 262,  **Defense:** 29,  **Initiative:** +2
 - **Movement**: 12 m, burrow 9 m, fly 24 m
-- **Saving Throws**: Fortitude +18, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +18, Reflex +13, Will +14
 - **Dmg. Imm.**: Fire
 - **Skills**: Stealth +5, Awareness +11, Deception +8, History +7
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23470,12 +22559,11 @@ The dragon can take 3 Additional Actions, choosing from the options below. It ca
 
 **Ecology**
 
-Environment: Hot Deserts
-
-Organization: Solitary
+| Environment: Hot Deserts |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: E
-
 **Description**
 
 | Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip. |
@@ -23495,7 +22583,7 @@ Organization: Solitary
 - **Ability**: Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4
 - **Hit Points**: 303,  **Defense:** 32,  **Initiative:** +3
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +21, Reflex +15, Will +17
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +21, Reflex +15, Will +17
 - **Skills**: Stealth +5, Sense Motive +7, Awareness +12
 - **Dmg. Imm.**: Lightning
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23550,12 +22638,11 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 **Ecology**
 
-Environment: Temperate Coastal Areas
-
-Organization: Solitary
+| Environment: Temperate Coastal Areas |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: E
-
 **Description**
 
 | Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate |
@@ -23574,7 +22661,7 @@ Organization: Solitary
 - **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
 - **Hit Points**: 281,  **Defense:** 31,  **Initiative:** +4
 - **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: Fortitude +19, Reflex +15, Will +16
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +19, Reflex +15, Will +16
 - **Skills**: Stealth +6, Deception +8, Perception +12
 - **Damage Imm.**: Acid
 - **Senses**: Darkvision 120 ft, Blindsight 60 ft
@@ -23623,12 +22710,11 @@ The dragon can take 3 Additional Actions, choosing from the options below. It ca
 
 **Ecology**
 
-Environment: Warm Hills
-
-Organization: Solitary
+| Environment: Warm Hills |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: E
-
 **Description**
 
 | This capricious dragon tries to hamper and frustrate its enemies during combat. |
@@ -23648,7 +22734,7 @@ Organization: Solitary
 - **Ability**: Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 7
 - **Hit Points**: 344,  **Defense:** 36,  **Initiative:** +3
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +24, Reflex +19, Will +19
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +24, Reflex +19, Will +19
 - **Skills**: Stealth +8, Sense Motive +8, Awareness +14, Deception +13
 - **Dmg. Imm.**: Fire
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23705,12 +22791,11 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 **Ecology**
 
-Environment: Warm Plains
-
-Organization: Solitary
+| Environment: Warm Plains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: E
-
 **Description**
 
 | Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid. |
@@ -23730,7 +22815,7 @@ Organization: Solitary
 - **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
 - **Hit Points**: 300,  **Defense:** 33,  **Initiative:** +4
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +20, Reflex +16, Will +17
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +20, Reflex +16, Will +17
 - **Skills**: Stealth +6, Deception +8, Sense Motive +7, Awareness +12
 - **Damage Imm.**: Poison
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23779,12 +22864,11 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 
 **Ecology**
 
-Environment: Temperate Forests
-
-Organization: Solitary
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: E
-
 **Description**
 
 | See Ancient Green Dragon Description. |
@@ -23804,7 +22888,7 @@ Organization: Solitary
 - **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5
 - **Hit Points**: 344,  **Defense:** 34,  **Initiative:** +3
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +24, Reflex +17, Will +18
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +24, Reflex +17, Will +18
 - **Skills**: Stealth +6, Awareness +13
 - **Damage Imm.**: Fire
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23853,12 +22937,11 @@ The dragon can then fly up to half its flying movement.
 
 **Ecology**
 
-Environment: Warm mountains
-
-Organization: Solitary
+| Environment: Warm mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 
 | See Ancient Red Dragon Description. |
@@ -23878,7 +22961,7 @@ Organization: Solitary
 - **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5
 - **Hit Points**: 325,  **Defense:** 33,  **Initiative:** +3
 - **Movement**: 12 m, fly 24 m
-- **Saving Throws**: Fortitude +23, Reflex +16, Will +17
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +23, Reflex +16, Will +17
 - **Skills**: Arcana +8, Stealth +5, Awareness +11, History +8
 - **Dmg. Imm.**: Cold
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -23931,12 +23014,11 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 **Ecology**
 
-Environment: Temperate Mountains
-
-Organization: Solitary
+| Environment: Temperate Mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: E
-
 **Description**
 
 | Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably. |
@@ -23956,7 +23038,7 @@ Organization: Solitary
 - **Ability**: Str 6 Dex 0 Con 6 Int 2 Wis 1 Cha 1
 - **Hit Points**: 264,  **Defense:** 29,  **Initiative:** +2
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +19, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +19, Reflex +13, Will +14
 - **Skills**: Stealth +5, Perception +8
 - **Damage Imm.**: Cold
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24003,12 +23085,11 @@ The dragon can take 3 Legendary Actions, choosing from the options below. Only o
 
 **Ecology**
 
-Environment: Cold Mountains
-
-Organization: Solitary
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: E
-
 **Description**
 
 | See Ancient White Dragon description. |
@@ -24028,7 +23109,7 @@ Organization: Solitary
 - **Ability**: Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 4
 - **Hit Points**: 422,  **Defense:** 42,  **Initiative:** +3
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +28, Reflex +23, Will +23
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +28, Reflex +23, Will +23
 - **Skills**: Stealth +9, Awareness +16
 - **Damage Imm.**: Acid, weapons +1
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24073,12 +23154,11 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 
 **Ecology**
 
-Environment: Warm Swamps
-
-Organization: Solitary
+| Environment: Warm Swamps |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 Black Dragons are violent and aggressive, living in swamps and marshes that they generally rule as undisputed masters.
 
@@ -24119,7 +23199,7 @@ Yes indeed, the Black Dragon is the only creature on Earth that can bring a dead
 - **Ability**: Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5
 - **Hit Points**: 465,  **Defense:** 42,  **Initiative:** +4
 - **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: Fortitude +31, Reflex +23, Will +26
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +31, Reflex +23, Will +26
 - **Skills**: Stealth +7, Perception +17
 - **Damage Imm.**: Lightning, +1 weapons
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24162,12 +23242,11 @@ The dragon can take 3 Legendary Actions, choosing from the options below. Only o
 **Detect.** The dragon makes a Perception check.
 **Ecology**
 
-Environment: Mountain peaks
-
-Organization: Solitary
+| Environment: Mountain peaks |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 Blue Dragons live among the clouds, flying (and levitating) among storms.
 
@@ -24204,7 +23283,7 @@ They don't get along with purple dragons, which they despise for having chosen t
 - **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 2 Cha 4
 - **Hit Points**: 403,  **Defense:** 38,  **Initiative:** +3
 - **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: Fortitude +27, Reflex +20, Will +22
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +27, Reflex +20, Will +22
 - **Dmg. Imm.**: Fire, +1 weapons
 - **Skills**: Awareness +14
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24255,12 +23334,11 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 **Ecology**
 
-Environment: Hot Deserts
-
-Organization: Solitary
+| Environment: Hot Deserts |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 
 | Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip. |
@@ -24280,7 +23358,7 @@ Organization: Solitary
 - **Ability**: Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5
 - **Hit Points**: 446,  **Defense:** 41,  **Initiative:** +4
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +30, Reflex +22, Will +25
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +30, Reflex +22, Will +25
 - **Skills**: Stealth +7, Sense Motive +10, Awareness +17
 - **Dmg. Imm.**: Lightning, +1 weapons
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24333,12 +23411,11 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 **Ecology**
 
-Environment: Temperate Coastal Areas
-
-Organization: Solitary
+| Environment: Temperate Coastal Areas |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 
 | Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate |
@@ -24357,7 +23434,7 @@ Organization: Solitary
 - **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
 - **Hit Points**: 422,  **Defense:** 41,  **Initiative:** +5
 - **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: Fortitude +28, Reflex +22, Will +24
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +28, Reflex +22, Will +24
 - **Skills**: Stealth +8, Deception +11, Perception +17
 - **Damage Imm.**: Acid, +1 weapons
 - **Senses**: Darkvision 120 ft, Blindsight 60 ft
@@ -24410,12 +23487,11 @@ The dragon can take 3 Additional Actions, choosing from the options below. It ca
 
 **Ecology**
 
-Environment: Warm Hills
-
-Organization: Solitary
+| Environment: Warm Hills |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 
 | This capricious dragon tries to hamper and frustrate its enemies during combat. |
@@ -24435,7 +23511,7 @@ Organization: Solitary
 - **Ability**: Str 10 Dex 2 Con 9 Int 4 Wis 3 Cha 9
 - **Hit Points**: 490,  **Defense:** 46,  **Initiative:** +4
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +33, Reflex +26, Will +27
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +33, Reflex +26, Will +27
 - **Skills**: Stealth +9, Sense Motive +10, Awareness +17, Deception +16
 - **Dmg. Imm.**: Fire, +1 weapons
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24488,12 +23564,11 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 **Ecology**
 
-Environment: Warm Plains
-
-Organization: Solitary
+| Environment: Warm Plains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 
 | Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid. |
@@ -24513,7 +23588,7 @@ Organization: Solitary
 - **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
 - **Hit Points**: 441,  **Defense:** 42,  **Initiative:** +5
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +29, Reflex +23, Will +25
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +29, Reflex +23, Will +25
 - **Skills**: Stealth +8, Deception +11, Sense Motive +10, Awareness + 15
 - **Damage Imm.**: Poison, weapons +1
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24558,12 +23633,11 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 
 **Ecology**
 
-Environment: Temperate Forests
-
-Organization: Solitary
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 Green Dragons love forests and unspoiled nature where they consider themselves the undisputed masters and kings.
 
@@ -24596,7 +23670,7 @@ Among the many dragons, the green one is perhaps the one that will talk to adven
 - **Ability**: Str 8 Dex 3 Con 4 Int 4 Wis 4 Cha 4
 - **Hit Points**: 428,  **Defense:** 44,  **Initiative:** +4
 - **Movement**: 12 m, burrow 24 m
-- **Saving Throws**: Fortitude +26, Reflex +25, Will +26
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +26, Reflex +25, Will +26
 - **Skills**: Dungeon Knowledge +8, Intimidation +11, Sense Motive +10, Awareness + 15
 - **Damage Imm.**: Sound, weapons +1
 - **Senses**: Darkvision 36 m, Tremorsense 72 m
@@ -24641,12 +23715,11 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 
 **Ecology**
 
-Environment: Caverns
-
-Organization: Solitary, subterranean creatures
+| Environment: Caverns |
+| --- |
+| Organization: Solitary, subterranean creatures |
 
 **Treasure Category**: E
-
 **Description**
 Purple Dragons live underground and have perfectly adapted to subterranean life.
 Capable of seeing in the dark as if it were broad daylight, equipped with Tremorsense, they have lost the ability to fly but acquired the ability to burrow as quickly as if they were running.
@@ -24676,7 +23749,7 @@ It is strong and courageous, arrogant but not brazen. It is not afraid to fight 
 - **Ability**: Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6
 - **Hit Points**: 490,  **Defense:** 44,  **Initiative:** +4
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +33, Reflex +24, Will +26
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +33, Reflex +24, Will +26
 - **Skills**: Stealth +7, Awareness +16
 - **Damage Imm.**: Fire, weapons +1
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24721,12 +23794,11 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 
 **Ecology**
 
-Environment: Warm mountains
-
-Organization: Solitary
+| Environment: Warm mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 The Red Dragon believes itself to be the King of Dragons due to its physical power and breath capable of melting stone.
 
@@ -24754,7 +23826,7 @@ They fight using their bulk, wings, bite, claws... basically everything they are
 - **Ability**: Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6
 - **Hit Points**: 470,  **Defense:** 42,  **Initiative:** +4
 - **Movement**: 12 m, fly 24 m
-- **Saving Throws**: Fortitude +32, Reflex +23, Will +25
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +32, Reflex +23, Will +25
 - **Skills**: Arcana +11, Stealth +7, Awareness +16, History +11
 - **Damage Imm.**: Cold, weapons +1
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24807,12 +23879,11 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 **Ecology**
 
-Environment: Temperate Mountains
-
-Organization: Solitary
+| Environment: Temperate Mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 
 | Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably. |
@@ -24832,7 +23903,7 @@ Organization: Solitary
 - **Ability**: Str 8 Dex 0 Con 8 Int 3 Wis 1 Cha 2
 - **Hit Points**: 407,  **Defense:** 38,  **Initiative:** +3
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +28, Reflex +20, Will +21
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +28, Reflex +20, Will +21
 - **Skills**: Stealth +6, Perception +13
 - **Damage Imm.**: Cold, +1 weapons
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24877,12 +23948,11 @@ The dragon can take 3 Legendary Actions, choosing from the options below. Only o
 
 **Ecology**
 
-Environment: Cold Mountains
-
-Organization: Solitary
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 White Dragons are among the most savage and animal-like of all dragons.
 They love cold and icy places, finding refuge in the coldest valleys like the icy peaks of mountains and frozen steppes.
@@ -24913,7 +23983,7 @@ Their lairs are icy caves in the mountains or dug into the most massive glaciers
 - **Ability**: Str 10 Dex 1 Con 8 Int 3 Wis 2 Cha 4
 - **Hit Points**: 465,  **Defense:** 43,  **Initiative:** +3
 - **Movement**: 12 m, burrow 24 m, climb 24, fly 12 m
-- **Saving Throws**: Fortitude +31, Reflex +24, Will +25
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +31, Reflex +24, Will +25
 - **Skills**: Stealth +7, Awareness +17
 - **Damage Imm.**: Fire, weapons +1
 - **Senses**: Darkvision 36 m, Blindsight 18 m
@@ -24943,12 +24013,11 @@ Their lairs are icy caves in the mountains or dug into the most massive glaciers
 **Detect.** The dragon makes an Awareness check.
 **Ecology**
 
-Environment: Hot Deserts
-
-Organization: Solitary
+| Environment: Hot Deserts |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 Yellow Dragons have scales of various shades of yellow that, as they grow, increasingly resemble the color of the sands where they dwell, from light yellow to brick red ocher.
 
@@ -24977,7 +24046,7 @@ The Yellow Dragon, although intelligent, is a killing machine and rarely negotia
 - **Ability**: Str 6 Dex 0 Con 5 Int 3 Wis 4 Cha 6
 - **Hit Points**: 338,  **Defense:** 34,  **Initiative:** +3
 - **Movement**: 40 ft, fly 60 ft
-- **Saving Throws**: Fortitude +22, Reflex +17, Will +21
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +22, Reflex +17, Will +21
 - **Skills**: Arcana +9, Religion +15
 - **Dmg. Imm.**: from non-magical weapons
 - **Immunities**: charmed, frightened
@@ -25036,12 +24105,11 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Ecology**
 
-Environment: Hills or Hot Deserts
-
-Organization: Solitary
+| Environment: Hills or Hot Deserts |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 Androsphinxes, the most powerful of common sphinxes, believe they represent all that is worthy and noble in their species and act as if the weight of the entire world rested on their good example. They look at Criosphinxes with paternalistic condescension, Hieracosphinxes with ill-concealed disgust, and Gynosphinxes as the only other sphinxes worthy of their time.
 
@@ -25087,12 +24155,11 @@ Androsphinxes are 12 feet tall and weigh 1,100 pounds.
 
 **Ecology**
 
-Environment: Temperate or warm plains
-
-Organization: Solitary, pair, or nest (3-6)
+| Environment: Temperate or warm plains |
+| --- |
+| Organization: Solitary, pair, or nest (3-6) |
 
 **Treasure Category**: C
-
 **Description**
 Ankhegs are burrowing monsters that prefer countryside areas due to the soft ground that facilitates their movement. They usually avoid densely populated areas, but their preference for the flesh of livestock and humans keeps them away from uninhabited areas. In remote deserts, larger ankhegs can be found that feed on scorpions and camels.
 
@@ -25116,12 +24183,11 @@ Some ankhegs are trainable and can become beasts of burden, although their unpre
 
 **Ecology**
 
-Environment: Temperate oceans
-
-Organization: Solitary, patrol (2-6), band (6-10 plus one 3rd-level lieutenant, company (11-60 plus 3 3rd-level lieutenants, 2 5th-level commanders, 1 7th-level commodore and 3-12 Squids
+| Environment: Temperate oceans |
+| --- |
+| Organization: Solitary, patrol (2-6), band (6-10 plus one 3rd-level lieutenant, company (11-60 plus 3 3rd-level lieutenants, 2 5th-level commanders, 1 7th-level commodore and 3-12 Squids |
 
 **Treasure Category**: NPC Equipment (Trident, Light Crossbow with 10 Bolts, N)
-
 **Description**
 Physically, the Fish Men resemble their ancestors, with expressive foreheads, pale skin, dark hair, and purple eyes. They have three thin gills on their neck, but can pass for Humans for short periods, if they wish.
 
@@ -25149,12 +24215,11 @@ Physically, the Fish Men resemble their ancestors, with expressive foreheads, pa
 
 **Ecology**
 
-Environment: Any terrain (Plane of Fire)
-
-Organization: Solitary, pair, team (3-6), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level), or clan (30-100 plus 50\% noncombatants plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, and 3 captains of 7th level)
+| Environment: Any terrain (Plane of Fire) |
+| --- |
+| Organization: Solitary, pair, team (3-6), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level), or clan (30-100 plus 50\% noncombatants plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, and 3 captains of 7th level) |
 
 **Treasure Category**: Perfect Scale Armor, Perfect Warhammer, Light Hammer, N
-
 **Description**
 A proud and industrious race from the Plane of Fire, the Azer work in their fortresses of bronze and brass, always ready to fight their long and boiling war against the Efreet. The Azer live in a society where each member knows their place. Born with specific duties, usually related to the activities of their father or mother, the Azer devote themselves to these occupations for life. A caste system further keeps Azer society in line. The nobles, who rule without having to answer to anyone, wear decorated brass kilts as a symbol of their caste, while those of merchants and shop owners are made of sturdy bronze. Copper kilts are worn by the working caste, composed of servants, craftsmen, and laborers.
 
@@ -25197,12 +24262,11 @@ The B.O.C. constantly bends light around itself, appearing almost a meter displa
 
 **Ecology**
 
-Environment: Hills and forests
-
-Organization: Solitary, pair, or pack (2d4)
+| Environment: Hills and forests |
+| --- |
+| Organization: Solitary, pair, or pack (2d4) |
 
 **Treasure Category**: I
-
 **Description**
 The Black Ops Cat, better known as B.O.C., is a large predatory feline, obviously black in color. Fierce, insatiable, it kills for the pleasure of hunting. It usually operates in packs and is extremely loyal to the group.
 
@@ -25211,7 +24275,7 @@ The Black Ops Cat, better known as B.O.C., is a large predatory feline, obviousl
 - **Ability**: Str 8 Dex 2 Con 6 Int 5 Wis 3 Cha 6
 - **Hit Points**: 379,  **Defense:** 39,  **Initiative:** +5
 - **Movement**: 12 m, flight 24 m
-- **Saving Throws**: Fortitude +25, Reflex +21, Will +22
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +25, Reflex +21, Will +22
 - **Damage Resistance**: Cold, Lightning;
 - **Damage Immunity**: Fire, Poison, +1 weapons
 - **Vulnerability**: cold iron, Light
@@ -25243,12 +24307,11 @@ The Black Ops Cat, better known as B.O.C., is a large predatory feline, obviousl
 
 **Ecology**
 
-Environment: Any (Abyss)
-
-Organization: Solitary or war band (1 Balor and 2-5 Glabrezu)
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary or war band (1 Balor and 2-5 Glabrezu) |
 
 **Treasure Category**: Standard (Unholy Longsword+1, Flaming Whip+1, R)
-
 **Description**
 When people whisper terrifying tales of demonic creatures, they mostly imagine an imposing figure of fire and flesh, a horned nightmare armed with flaming whip and sword, flying through the night in search of its prey. The demon these people fear is the Balor, and this fear is fully justified, since few demons can match the mighty Balor in strength or brutality.
 
@@ -25289,12 +24352,11 @@ A Balor is 4.2 meters tall and weighs 2,250 kg. Only the most cruel mortal souls
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary
+| Environment: Any |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 The Banshee is the enraged spirit of a woman who betrayed her loved ones or was herself betrayed. Driven mad with grief, the Banshee unleashes her vengeance on every living creature (innocent or guilty) with her dreadful touch and her deadly screams.
 
@@ -25321,12 +24383,11 @@ If the basilisk is within 9 meters of its reflection in bright light and sees it
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary, pair, or colony (3-6)
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, or colony (3-6) |
 
 **Treasure Category**: F
-
 **Description**
 The basilisk, often called the *King of Serpents*, is an eight-legged reptile with an aggressive disposition that has the ability to turn creatures to stone with its gaze. Legend has it that, like the Cockatrice, the first basilisks were born from eggs laid by snakes and incubated by roosters, but very little in the basilisk's physiology supports this theory.
 
@@ -25373,12 +24434,11 @@ For unknown reasons, weasels, ferrets, and small mice are immune to the basilisk
 
 **Ecology**
 
-Environment: Any (Hell)
-
-Organization: Solitary, pair, squad (3-10) or troop (10-40)
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, squad (3-10) or troop (10-40) |
 
 **Treasure Category**: Glaive, L
-
 **Description**
 Chosen warriors of the infernal legions, bearded devils, or barbazus, fight savagely in the name of their infernal lords and command brutal hordes of the damned in battle. They gather and train with their hell-forged glaives among the vaults of the third circle of Hell, Erebus, but inevitably return to the first circle, Avernus, to serve alongside the fearsome lord Barbatos.
 
@@ -25389,7 +24449,7 @@ Barbazus love to make charging attacks with their glaives and try to maintain a 
 - **Ability**: Str 6 Dex 3 Con 4 Int -2 Wis 2 Cha 1
 - **Hit Points**: 221,  **Defense:** 29,  **Initiative:** +3
 - **Movement**: 15 m, climb 12 m
-- **Saving Throws**: Fortitude +15, Reflex +14, Will +13
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +14, Will +13
 - **Skills**: Stealth +7
 - **Damage Imm.**: Electricity
 - **Senses**: Darkvision 27 m
@@ -25416,12 +24476,11 @@ If the behir takes 30 or more damage in a single turn from a creature it has swa
 
 **Ecology**
 
-Environment: Hills and Hot Deserts
-
-Organization: Solitary or pair
+| Environment: Hills and Hot Deserts |
+| --- |
+| Organization: Solitary or pair |
 
 **Treasure Category**: U
-
 **Description**
 The behir is a territorial creature that crawls through sandy hills and desert rocks, hunting all creatures that dare to enter its territory. With an average length of 12 meters and weighing about 1800 kg, the behir is equipped with six pairs of clawed limbs that it uses in combat to grab enemies, run, or climb.
 
@@ -25449,12 +24508,11 @@ Despite its bestial fury, the behir is not necessarily evil and can be persuaded
 
 **Ecology**
 
-Environment: Warm Swamps
-
-Organization: Solitary
+| Environment: Warm Swamps |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: H
-
 **Description**
 See Ancient Black Dragon Description.
 
@@ -25463,7 +24521,7 @@ See Ancient Black Dragon Description.
 - **Ability**: Str 5 Dex 1 Con 5 Int 1 Wis 2 Cha 3
 - **Hit Points**: 357,  **Defense:** 37,  **Initiative:** +1
 - **Movement**: 9 meters
-- **Saving Throws**: Fortitude +23, Reflex +19, Will +20
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +23, Reflex +19, Will +20
 - **Skills**: Intimidate +12, Religion +8, Planes Knowledge +8, Arcana Knowledge +5
 - **Damage Res.**: Cold, Electricity
 - **Damage Imm.**: Void, Poison; +1 weapons
@@ -25498,12 +24556,11 @@ level 4 (3 slots): *Banishment, Branding Smite (with 1 automatic magic critical,
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary
+| Environment: Any |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: longsword +3 or full plate armor +3, the rest of the equipment disappears with the death of the Black Knight.
-
 **Description**
 Damned to the depths of his soul, the Black Knight is the antithesis of the knight of Sumkjr, and often arises from the corruption of a knight of Sumkjr. A formidable adversary, cunning, tactical, he loves to behave and reason maliciously, like a person still alive. His tactic is to cast Fireball as soon as possible and then consume the victim with Branding Smite.
 
@@ -25536,12 +24593,11 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
 **Ecology**
 
-Environment: Any underground
-
-Organization: Solitary
+| Environment: Any underground |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: None
-
 **Description**
 Black puddings are the scavengers of the underground world, constantly searching for food. They can sense organic or metallic bodies within 60 feet and instinctively attack such objects or beings until they dissolve them, or until the ooze is killed. A black pudding reproduces by breaking off a piece of its body and forming a smaller new pudding that reaches adulthood within a month. Some of the more intelligent creatures in the underground world use black puddings for natural garbage disposal, creating stone cavities designed to house the pudding, and then throwing in organic waste or enemies.
 
@@ -25565,12 +24621,11 @@ Black puddings are the scavengers of the underground world, constantly searching
 
 **Ecology**
 
-Environment: Mountain peaks
-
-Organization: Solitary
+| Environment: Mountain peaks |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 See Ancient Blue Dragon Description.
 
@@ -25607,12 +24662,11 @@ See Ancient Blue Dragon Description.
 
 **Ecology**
 
-Environment: Any forest
-
-Organization: Solitary, groups (2d12)
+| Environment: Any forest |
+| --- |
+| Organization: Solitary, groups (2d12) |
 
 **Treasure Category**: Incidental
-
 **Description**
 Bone Blooms are creatures that died in the depths of the forest for various reasons. Nature, not wanting to waste anything, animates the creature to make it its defender. At first glance, a Bone Bloom is not different from a trunk covered with colorful lichens, small mushrooms, and grassy mantle, so one is it with nature.
 
@@ -25621,7 +24675,7 @@ Bone Blooms are creatures that died in the depths of the forest for various reas
 - **Ability**: Str 4 Dex 3 Con 4 Int 1 Wis 2 Cha 3
 - **Hit Points**: 184,  **Defense:** 27,  **Initiative:** +3
 - **Movement**: 12 m, flight 12 m
-- **Saving Throws**: Fortitude +13, Reflex +12, Will +11
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +12, Will +11
 - **Skills**: Deception +7, Detect Emotions +6
 - **Damage Res.**: Cold; from non-magical or non-silvered weapons
 - **Damage Imm.**: Fire, Poison
@@ -25652,12 +24706,11 @@ Bone Blooms are creatures that died in the depths of the forest for various reas
 
 **Ecology**
 
-Environment: Any (Hell)
-
-Organization: Solitary, squad (2-3), council (4-10) or contingent (1-3 ice devils, 2-6 horned devils and 1-4 bone devils
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, squad (2-3), council (4-10) or contingent (1-3 ice devils, 2-6 horned devils and 1-4 bone devils |
 
 **Treasure Category**: I
-
 **Description**
 Bone devils are inquisitors of the diabolical races, known for their passion for torturing mortals, souls, and other devils. Born in the marshes of Stygia, in the fifth circle of Hell, they enforce the orders of the archdevils with absolute devotion.
 
@@ -25668,7 +24721,7 @@ Bone devils often travel to the mortal plane to serve evil spellcasters, gatheri
 - **Ability**: Str 1 Dex 6 Con 5 Int 3 Wis 0 Cha 3
 - **Hit Points**: 186,  **Defense:** 30,  **Initiative:** +6
 - **Movement**: 12 m
-- **Saving Throws**: Fortitude +14, Reflex +15, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +15, Will +9
 - **Damage Imm.**: Fire
 - **Immunities**: spells from Illusion and Charm magic lists
 - **Senses**: Blindsight 18 m
@@ -25703,12 +24756,11 @@ Damage inflicted to the body, which has double the original Hit Points, does not
 
 **Ecology**
 
-Environment: Any underground
-
-Organization: Solitary, clutch (2-6) or tribe (7-16)
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, clutch (2-6) or tribe (7-16) |
 
 **Treasure Category**: G
-
 **Description**
 A Brain Eater is nothing more than a brain of about 50 cm equipped with 4 powerful clawed legs.
 
@@ -25742,12 +24794,11 @@ It is said that Shayalia's garden is full of Brain Eaters. A Brain Eater is 90 c
 
 **Ecology**
 
-Environment: Hot Deserts
-
-Organization: Solitary
+| Environment: Hot Deserts |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip.
 
@@ -25778,12 +24829,11 @@ reach 1 m, one target.
 
 **Ecology**
 
-Environment: Temperate Coastal Areas
-
-Organization: Solitary
+| Environment: Temperate Coastal Areas |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate.
 
@@ -25812,12 +24862,11 @@ Bronze dragons are known to ally with travelers and adventurers if the cause and
 
 **Ecology**
 
-Environment: Temperate mountains
-
-Organization: Solitary, pair, group (3-6), or war band (7-12 plus 2 Warriors of 1st level and 1 captain of 3rd-5th level)
+| Environment: Temperate mountains |
+| --- |
+| Organization: Solitary, pair, group (3-6), or war band (7-12 plus 2 Warriors of 1st level and 1 captain of 3rd-5th level) |
 
 **Treasure Category**: NPC Equipment (Leather Armor, Light Wooden Shield, Morningstar, 3 Javelins, O)
-
 **Description**
 The bugbear is the largest of the Goblinoid race, a brute with heavy movements that stands at least a head taller than most Humans. They are solitary creatures who prefer to live and kill alone rather than in tribes, although it is not unusual to find a small band of Bugbears that collaborates with or lives with a tribe of Goblins or Hobgoblins, serving as elite guards or executioners.
 
@@ -25849,12 +24898,11 @@ Bugbears, when they turn to religion, prefer deities of murder and violence, wit
 
 **Ecology**
 
-Environment: Temperate Hills
-
-Organization: Solitary or pair
+| Environment: Temperate Hills |
+| --- |
+| Organization: Solitary or pair |
 
 **Treasure Category**: None
-
 **Description**
 Creation of an unknown wizard of the past, the bulette has now become a fierce hill predator. Burrowing rapidly beneath the ground, it cleaves the surface with its dorsal fin, leaving behind a characteristic trail. The bulette leaps out, freeing itself from rocks and soil, to tear its prey to pieces without remorse, thus giving rise to its nickname of *land shark*.
 
@@ -25892,12 +24940,11 @@ The bulette is a cunning fighter, and surprises enemies with impressive agility.
 
 **Ecology**
 
-Environment: Temperate plains and forests
-
-Organization: Solitary, pair, band (3-10), tribe (11-30 plus 3 hunters of 3rd level and 1 leader of 6th level)
+| Environment: Temperate plains and forests |
+| --- |
+| Organization: Solitary, pair, band (3-10), tribe (11-30 plus 3 hunters of 3rd level and 1 leader of 6th level) |
 
 **Treasure Category**: B
-
 **Description**
 Legendary hunters and skilled warriors, centaurs are part human and part horse. Generally located at the edges of civilization, this stoic population varies enormously in appearance: usually the skin color is very tanned but similar to that of humans in neighboring regions, while the lower part of the body has the shades of local equines. They have dark hair and eyes and rather marked facial features, while their total size depends on the size of the horse of which they have the lower part of the body. So, while an average centaur stands 2.1 meters tall and weighs more than 1000 kg, there are multiple regional variants, from the slender plains runners to the massive mountain hunters.
 
@@ -25910,7 +24957,7 @@ Legend has it that the Centaurs were supposed to explode like all equines, by th
 - **Ability**: Str 4 Dex 2 Con 4 Int 0 Wis 1 Cha 2
 - **Hit Points**: 165,  **Defense:** 24,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: Fortitude +12, Reflex +10, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +12, Reflex +10, Will +9
 - **Damage Res.**: Cold; from non-magical or non-silvered weapons
 - **Damage Imm.**: Fire, Poison
 - **Vulnerabilities**: silver, Light
@@ -25940,12 +24987,11 @@ Each animated chain is an object with Defense 20, 20 Hit Points, resistance to p
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary, pair, gang (3-6) or chain (7-20)
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, gang (3-6) or chain (7-20) |
 
 **Treasure Category**: R
-
 **Description**
 Often classified by the uninitiated among the ranks of infernal devils, Chain Devils are not true devils. Although some are known to live in Hell, they exist outside the hierarchies established by the gods of the underworld and its archdevils, and can sometimes be found on other planes, particularly on the Plane of Shadows. Many suggest they are native to Hell that existed before the advent of the diabolic lineage, although others hypothesize they were brought to the plane by some sadistic power. Regardless of their origins, they wander the planes indulging their desire to cause and receive suffering, seeking pain through violent kidnappings and sadistic depravities.
 
@@ -26001,12 +25047,11 @@ Often classified by the uninitiated among the ranks of infernal devils, Chain De
 
 **Ecology**
 
-Environment: Temperate Hills
-
-Organization: Solitary, pair, pack (3-6) or flight (7-12)
+| Environment: Temperate Hills |
+| --- |
+| Organization: Solitary, pair, pack (3-6) or flight (7-12) |
 
 **Treasure Category**: F
-
 **Description**
 
 | Chimeras are monstrous creatures born of primeval evil. Hateful and ravenous, they hunt both on land and in the air. A chimera's dragon head can be of any type of evil dragon, with the corresponding breath and wings generally having the same scales as the head. Chimeras speak with three overlapping voices, but they rarely do so, typically only to flatter a more powerful creature. A chimera is 1 meter tall at the shoulder, reaching a length of 4 meters and weighing 350 kg. |
@@ -26042,12 +25087,11 @@ Chimeras prefer meat, but they can survive on vegetation if necessary (although 
 
 **Ecology**
 
-Environment: Temperate Marshes
-
-Organization: Solitary, pair or pack (3-6)
+| Environment: Temperate Marshes |
+| --- |
+| Organization: Solitary, pair or pack (3-6) |
 
 **Treasure Category**: U (B)
-
 **Description**
 Chuuls are armored predators resembling crustaceans, always lurking beneath the surface of shallow ponds and swamps, emerging from their hiding places to grab their prey with their claws and then paralyze them with mouth tentacles before eating them alive.
 
@@ -26060,7 +25104,7 @@ Chuuls are surprisingly intelligent, and many engage in useless speculation abou
 - **Ability**: Str 5 Dex -1 Con 4 Int -4 Wis -1 Cha -5
 - **Hit Points**: 184,  **Defense:** 23,  **Initiative:** -1
 - **Movement**: 6 m
-- **Saving Throws**: Fortitude +13, Reflex +8, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +8, Will +8
 - **Damage Imm.**: Acid, Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: Darkvision 18 m
@@ -26095,12 +25139,11 @@ Chuuls are surprisingly intelligent, and many engage in useless speculation abou
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary or group (2-4)
+| Environment: Any |
+| --- |
+| Organization: Solitary or group (2-4) |
 
 **Treasure Category**: None
-
 **Description**
 Clay golems don't wear clothing, except for a treated leather or metal garment around the waist. They are typically over 2.3 meters tall and weigh 300 kilograms.
 
@@ -26147,12 +25190,11 @@ A duplicate has the cloaker's Defense and uses its Saving Throws. If an attack h
 
 **Ecology**
 
-Environment: Underground
-
-Organization: Solitary, pair, squad (3-6) or flock (7-12)
+| Environment: Underground |
+| --- |
+| Organization: Solitary, pair, squad (3-6) or flock (7-12) |
 
 **Treasure Category**: R
-
 **Description**
 Resembling flying, hideously evil manta rays, cloakers are mysterious, paranoid creatures. A typical specimen has a wingspan of 2.3 meters and weighs 50 kg.
 
@@ -26163,7 +25205,7 @@ Their motivations are mysterious and confused, and they distrust even their own 
 - **Ability**: Str 8 Dex 0 Con 6 Int 1 Wis 3 Cha 3
 - **Hit Points**: 187,  **Defense:** 24,  **Initiative:** +1
 - **Movement**: 12 m
-- **Saving Throws**: Fortitude +15, Reflex +9, Will +12
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +9, Will +12
 - **Skills**: Sense Motive +7
 - **Languages**: Common, Giant
 - **Challenge**: 9 (5000 XP)
@@ -26196,12 +25238,11 @@ At will: *Detect Magic, Light, Fog Cloud*
 
 **Ecology**
 
-Environment: Temperate Mountains
-
-Organization: Solitary, group (2-5), family (2-5 plus 35\% noncombatants plus 1 wizard or Devotee of 4th-7th level and 2-5 Griffons) or tribe (6-20 plus 1 oracle wizard or Devotee of 7th-12th level and 2-5 Griffons)
+| Environment: Temperate Mountains |
+| --- |
+| Organization: Solitary, group (2-5), family (2-5 plus 35\% noncombatants plus 1 wizard or Devotee of 4th-7th level and 2-5 Griffons) or tribe (6-20 plus 1 oracle wizard or Devotee of 7th-12th level and 2-5 Griffons) |
 
 **Treasure Category**: Chain Mail, Morningstar, U
-
 **Description**
 Cloud giants' skin color varies from milky white to powder blue. Adult males are about 5.3 meters tall and weigh approximately 2,500 kg. Females are slightly shorter and slimmer. Cloud giants can live up to 400 years, dress in expensive clothing and jewelry. For many, appearance indicates status. The better the clothes and the more refined the jewelry, the more important the wearer. They also appreciate music, and the majority play one or more instruments (the harp is one of their favorites).
 
@@ -26223,12 +25264,11 @@ There are many legends that speak of magical cloud giant cities located among th
 
 **Ecology**
 
-Environment: Temperate plains
-
-Organization: Solitary, pair, flight (3-5) or flock (6-12)
+| Environment: Temperate plains |
+| --- |
+| Organization: Solitary, pair, flight (3-5) or flock (6-12) |
 
 **Treasure Category**: D
-
 **Description**
 Stupid, malevolent, and repulsive, cockatrices are avoided by other creatures for their ability to turn flesh to stone. Males are distinguishable only by wattles and combs. A typical cockatrice is just over 60 centimeters tall and weighs 2.5 kg.
 
@@ -26260,12 +25300,11 @@ The cockatrice's strange ability to turn other creatures to stone is its best de
 
 **Ecology**
 
-Environment: Warm Hills
-
-Organization: Solitary
+| Environment: Warm Hills |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 This capricious dragon tries to hamper and frustrate its enemies during combat.
 
@@ -26307,12 +25346,11 @@ In the new form, the couatl retains its game statistics and ability to speak, bu
 
 **Ecology**
 
-Environment: warm forests
-
-Organization: Solitary, pair or flight (3-6)
+| Environment: warm forests |
+| --- |
+| Organization: Solitary, pair or flight (3-6) |
 
 **Treasure Category**: I
-
 **Description**
 Respected and admired for their wisdom and beauty, they seek to lead mortals on the right path and use their powers to fight evil, especially those known for traveling between planes. A couatl is about 3.6 meters long, with a wingspan of about 5 meters and weighs 900 kg.
 
@@ -26340,12 +25378,11 @@ They prefer the same foods as true snakes, such as mammals and birds, though the
 ***Cry of Sadness*** 6 meter cone. Affected creatures must make a DC 16 Will Saving Throw or fall into a sad despair that gives -2 to Attack Rolls, -2 to melee damage.
 **Ecology**
 
-Environment: Dungeons
-
-Organization: Solitary, group 2d4
+| Environment: Dungeons |
+| --- |
+| Organization: Solitary, group 2d4 |
 
 **Treasure Category**: Special
-
 **Description**
 A Darklight was once an adventurer, like you, who died in terror after the last torch went out. A Darklight is an undead, usually humanoid, with a vaguely undefined appearance, wielding a torch that emanates pure darkness. Its purpose is to kill new adventurers by engulfing them in eternal darkness.
 
@@ -26379,12 +25416,11 @@ A creature can detach the darkmantle with an Action and succeeding on a Fortitud
 
 **Ecology**
 
-Environment: Any (underground)
-
-Organization: Solitary, pair or clutch (3-12)
+| Environment: Any (underground) |
+| --- |
+| Organization: Solitary, pair or clutch (3-12) |
 
 **Treasure Category**: O
-
 **Description**
 A darkmantle's tentacle-lined maw has an opening just under 1 m wide; when it hangs from a cavern roof, disguised as a stalactite, its length ranges between 60 and 90 cm. A typical darkmantle specimen weighs 20 kg. The head and body of the creature are usually the color of basalt or dark granite, but its tentacled membrane can change color to match the surrounding environment.
 
@@ -26425,12 +25461,11 @@ At will: *Nondetection* (self only)
 
 **Ecology**
 
-Environment: Any underground
-
-Organization: Solitary, company (2-4), squad (5-20 plus 1 leader 3rd-6th and two sergeants of 3rd level), or band (30-50 plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, 3 captains of 7th level, and 2-5 Medium Earth Elementals)
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, company (2-4), squad (5-20 plus 1 leader 3rd-6th and two sergeants of 3rd level), or band (30-50 plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, 3 captains of 7th level, and 2-5 Medium Earth Elementals) |
 
 **Treasure Category**: NPC Equipment (Heavy Pick, Light Crossbow with 10 Bolts, M)
-
 **Description**
 Deep gnomes are a branch of the gnome race. They dwell underground in hidden cities, safe from dark elves and other subterranean races. Their skin is the color of rock, usually grey or brown. Males are bald and females have sparse grey hair.
 
@@ -26439,7 +25474,7 @@ Deep gnomes are a branch of the gnome race. They dwell underground in hidden cit
 - **Ability**: Str 9 Dex 2 Con 8 Int 5 Wis 3 Cha 7
 - **Hit Points**: 524,  **Defense:** 48,  **Initiative:** +5
 - **Movement**: 15 meters, swim 9m
-- **Saving Throws**: Fortitude +34, Reflex +28, Will +29
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +34, Reflex +28, Will +29
 - **Skills**: all +15
 - **Damage Resistance**: Cold, Lightning, Fire
 - **Damage Immunity**: from Void, Poison; +2 weapons
@@ -26491,9 +25526,9 @@ Demogorgon can take 3 additional actions, chosen from those below, one per round
 
 **Ecology**
 
-Environment: Abyss
-
-Organization: Unique
+| Environment: Abyss |
+| --- |
+| Organization: Unique |
 
 **Treasure**: R, S, T, V
 **Description**
@@ -26504,7 +25539,7 @@ Demogorgon is a huge demon, prince of the abyss and madness about 5 meters tall.
 - **Ability**: Str 4 Dex 4 Con 4 Int 3 Wis 5 Cha 5
 - **Hit Points**: 203,  **Defense:** 29,  **Initiative:** +4
 - **Movement**: 9 m, fly 27 m
-- **Saving Throws**: Fortitude +14, Reflex +14, Will +15
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +14, Will +15
 - **Skills**: Sense Emotion +9
 - **Damage Res.**: Light; nonmagical weapons
 - **Immunities**: charmed, exhausted, frightened
@@ -26536,12 +25571,11 @@ In the new form, the deva retains its game statistics and ability to speak, but 
 
 **Ecology**
 
-Environment: Any plane with good Traits
-
-Organization: Solitary, pair, or squad (3-6)
+| Environment: Any plane with good Traits |
+| --- |
+| Organization: Solitary, pair, or squad (3-6) |
 
 **Treasure Category**: (Flaming Greatsword +1, other treasure)
-
 **Description**
 Deva movanics make up the ranks of the celestial armies' infantry, though they spend most of their time patrolling the Positive Plane, the Negative Plane, and the Material Plane. On the Positive Plane, they watch over wandering good souls. On the Negative Plane, they fight undead and other strange beings that hunt in the hungry void. Their rare times on the Material Plane are usually to bring aid to powerful mortals when a great danger threatens to plunge an entire realm into the hands of evil.
 
@@ -26550,7 +25584,7 @@ Deva movanics make up the ranks of the celestial armies' infantry, though they s
 - **Ability**: Str 5 Dex 2 Con 6 Int 2 Wis 3 Cha 5
 - **Hit Points**: 226,  **Defense:** 28,  **Initiative:** +2
 - **Movement**: 9 m, fly 27 m
-- **Saving Throws**: Fortitude +17, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +17, Reflex +13, Will +14
 - **Damage Imm.**: Electricity, Sound
 - **Senses**: Darkvision 36 m
 - **Languages**: Ictun
@@ -26580,12 +25614,11 @@ A creature can use an Action to free a creature restrained by the whirlwind, inc
 
 **Ecology**
 
-Environment: Any (Plane of Air)
-
-Organization: Solitary, pair, company (3-6), or band (7-10)
+| Environment: Any (Plane of Air) |
+| --- |
+| Organization: Solitary, pair, company (3-6), or band (7-10) |
 
 **Treasure Category**: Perfect Scimitar, U
-
 **Description**
 The Djinn (singular djinni) are Genies from the Elemental Plane of Air. They are said to be made of clouds and have the strength of the most powerful storms. A Djinni is about 3 meters tall and weighs about 500 kg.
 
@@ -26609,12 +25642,11 @@ Towards other Genies, Djinn get along with Janni and Marid. They are frequently 
 **Actions*Dobi Dobi*** the Dobi projects an aura of Calm Emotions like the spell of the same name but no Saving Throw is allowed. The Dobi can influence only one creature at a time with its power.
 **Ecology**
 
-Environment: Swamps
-
-Organization: group
+| Environment: Swamps |
+| --- |
+| Organization: group |
 
 **Treasure Category**: Incidental
-
 **Description**
 
 From *Journey to the First World.* Novel by Federica Angeli
@@ -26647,12 +25679,11 @@ From *Journey to the First World.* Novel by Federica Angeli
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary, pair or band (3-6)
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair or band (3-6) |
 
 **Treasure Category**: NPC Equipment
-
 **Description**
 Doppelgangers are beings that can take the form of anyone they meet. In their natural form, they look like slim and fragile humanoids, with facial features not completely formed and pale complexion.
 
@@ -26730,7 +25761,7 @@ If it's a Wyrmling Dragon, it has 1 random power, 2 if it's Young or Adult, and 
 - **Ability**: Str 7 Dex 0 Con 5 Int 0 Wis 1 Cha 1
 - **Hit Points**: 338,  **Defense:** 34,  **Initiative:** +0
 - **Movement**: 6 m, swim 12 m
-- **Saving Throws**: Fortitude +22, Reflex +17, Will +18
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +22, Reflex +17, Will +18
 - **Senses**: Darkvision 18 m
 - **Languages**: Aquan, Draconic
 - **Challenge**: 17 (18000 XP)
@@ -26758,12 +25789,11 @@ If it's a Wyrmling Dragon, it has 1 random power, 2 if it's Young or Adult, and 
 
 **Ecology**
 
-Environment: Temperate aquatic
-
-Organization: Solitary
+| Environment: Temperate aquatic |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: A
-
 **Description**
 Dragon turtles are creatures of fresh and salt waters, greatly feared by sailors. They are known to expect offerings in gold and magic from sailors for safe passage. Ignoring a dragon turtle can make it very dangerous.
 
@@ -26800,12 +25830,11 @@ They feed on large fish and seaweed, and don't disdain passengers from sunken sh
 
 **Ecology**
 
-Environment: Any (Abyss)
-
-Organization: Solitary, pair, gang (3-5), group (6-12) or mob (13+)
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary, pair, gang (3-5), group (6-12) or mob (13+) |
 
 **Treasure Category**: None
-
 **Description**
 Even the lowliest demon of the Abyss is dangerous and possesses the urgent need to spread ruin and dismay. The wretched dretch is as horrifying and fetid as it is cruel, though it lacks the strength and power to satisfy its craving to brutalize others in its native realm. The purpose of the dretch's existence is to serve more powerful demons as expendable victims, and only a lucky few manage to survive long enough to evolve.
 
@@ -26820,7 +25849,7 @@ A dretch is 1.2 meters tall and weighs 90 kg. Dretches usually form from the sou
 - **Ability**: Str 3 Dex 3 Con 4 Int 1 Wis 2 Cha 1
 - **Hit Points**: 127,  **Defense:** 23,  **Initiative:** +3
 - **Movement**: 30 ft, climb 30 ft
-- **Saving Throws**: Fortitude +10, Reflex +9, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +10, Reflex +9, Will +8
 - **Skills**: Stealth +9, Perception +5
 - **Senses**: Darkvision 120 ft
 - **Languages**: Elvish, Undercommon
@@ -26858,12 +25887,11 @@ At will: *dancing lights*
 
 **Ecology**
 
-Environment: Any underground
-
-Organization: Solitary, pair, or group (3-8)
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, pair, or group (3-8) |
 
 **Treasure Category**: Perfect Flange Mace, Perfect Composite Longbow [Strength +2] with 20 Arrows, Y
-
 **Description**
 
 | Created from the body of an elf, altered and mutated through special poisons and elixirs to take on the characteristics of a giant spider, the drider is a dangerous creature. |
@@ -26912,12 +25940,11 @@ The dryad can't have more than one humanoid and up to three beasts charmed at a 
 
 **Ecology**
 
-Environment: Temperate Forests
-
-Organization: Solitary, pair, or grove (3-8)
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary, pair, or grove (3-8) |
 
 **Treasure Category**: Perfect Longbow with 20 Arrows, Dagger, D
-
 **Description**
 Dryads are nature spirits who love secluded woodlands away from humanoids in need of timber. The primary concern of dryads is their own survival and that of their beloved forests, and they are known to magically compel travelers to help with tasks that they cannot perform.
 They are friendly with druids and rangers who aren't evil, as they recognize their empathy or respect for nature.
@@ -26951,12 +25978,11 @@ Dryads are benevolent guardians of trees, and although they aren't violent by na
 
 **Ecology**
 
-Environment: Any underground
-
-Organization: solitary, group (2-5), squad (6-12 plus 3 sergeants of 3rd level and 1 leader of 3rd-8th level), or clan (13-80 plus 25\% non-combatant children plus 1 sergeant of 3rd level per 5 adults, 3-6 lieutenants of 3rd-6th level, and 1-4 captains of 9th level)
+| Environment: Any underground |
+| --- |
+| Organization: solitary, group (2-5), squad (6-12 plus 3 sergeants of 3rd level and 1 leader of 3rd-8th level), or clan (13-80 plus 25\% non-combatant children plus 1 sergeant of 3rd level per 5 adults, 3-6 lieutenants of 3rd-6th level, and 1-4 captains of 9th level) |
 
 **Treasure Category**: NPC equipment (Chain Mail, Heavy Metal Shield, War Hammer, Light Crossbow with 20 Bolts, 3d6 gp)
-
 **Description**
 Distant relatives of Dwarves, darker and more misshapen, Duergar are creatures with a terrible temper who hate intruders in their underground realms, but never more than Dwarves. They live in communities deep underground. They have dull gray skin, as if dirty with dust or ash, but this natural tone allows them to blend better in underground areas. They are a Race of slavers, but while they force non-Dwarf prisoners to do grueling work, they kill captured Dwarves without remorse. In combat, Duergar fire crossbows, and then switch to War Hammers a few rounds later. If outnumbered, or if there is an adequate danger (and space), a Duergar will use its Enlarge ability and attack.
 
@@ -26986,12 +26012,11 @@ Distant relatives of Dwarves, darker and more misshapen, Duergar are creatures w
 
 **Ecology**
 
-Environment: Any (elemental plane of air)
-
-Organization: Solitary, pair, group (3-6) or swarm (7-12)
+| Environment: Any (elemental plane of air) |
+| --- |
+| Organization: Solitary, pair, group (3-6) or swarm (7-12) |
 
 **Treasure Category**: J
-
 **Description**
 Mephits are the servants of powerful elemental creatures. The key sites and locations of the elemental planes are filled with mephits bustling to perform an important duty or task.
 
@@ -27002,7 +26027,7 @@ Dust mephits are commonly found on the Plane of Air. These mephits are irritatin
 - **Ability**: Str 6 Dex 1 Con 7 Int 3 Wis 2 Cha 3
 - **Hit Points**: 228,  **Defense:** 27,  **Initiative:** +3
 - **Movement**: 12 m, fly 18 m
-- **Saving Throws**: Fortitude +18, Reflex +12, Will +13
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +18, Reflex +12, Will +13
 - **Damage Imm.**: Fire
 - **Senses**: Darkvision 36 m
 - **Languages**: Ignan
@@ -27032,12 +26057,11 @@ At will: *Detect Magic*
 
 **Ecology**
 
-Environment: Any (Plane of Fire)
-
-Organization: Solitary, pair, company (3-6), or band (7-12)
+| Environment: Any (Plane of Fire) |
+| --- |
+| Organization: Solitary, pair, company (3-6), or band (7-12) |
 
 **Treasure Category**: Perfect Glaive, U
-
 **Description**
 The Efreet (singular Efreeti) are Genies from the Plane of Fire. They are 3.6 meters tall and weigh about 1000 kg.
 
@@ -27048,7 +26072,7 @@ Efreet have few allies among other Genies: they hate Djinn and attack them on si
 - **Ability**: Str 4 Dex 3 Con 4 Int 2 Wis 2 Cha 4
 - **Hit Points**: 240,  **Defense:** 31,  **Initiative:** +3
 - **Movement**: 9 m, flight 18 m
-- **Saving Throws**: Fortitude +16, Reflex +15, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +16, Reflex +15, Will +14
 - **Damage Res.**: Cold; from non-magical or non-silvered weapons
 - **Damage Imm.**: Fire, Poison
 - **Vulnerabilities**: silver, Light
@@ -27078,12 +26102,11 @@ Efreet have few allies among other Genies: they hate Djinn and attack them on si
 
 **Ecology**
 
-Environment: Any (Hell)
-
-Organization: Solitary or trio
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary or trio |
 
 **Treasure Category**: Composite Flaming Longbow +1 [Strength +5], rope, Longsword +1
-
 **Description**
 The erinyes, also known as Fallen, Ashen Wings, and Furies, are devils that insult their angelic form with their thirst for vengeance and bloody justice. They hover over the cornices of Dis, the second circle of Hell, always ready for battle to defend hell or for the whims of their diabolic lords.
 
@@ -27123,12 +26146,11 @@ The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a 
 
 **Ecology**
 
-Environment: Temperate Forests
-
-Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders)
+| Environment: Temperate Forests |
+| --- |
+| Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders) |
 
 **Treasure Category**: C
-
 **Description**
 
 | Ettercaps are humanoids usually 6 feet tall and weighing about 200 pounds, with elongated arms reaching to the ground and a horrible face with spider-like features. They are solitary and rarely join others of their kind, except for mating. When they do group together, they tend to attract various species of spiders, forming a strange partnership of ettercaps and arachnids. |
@@ -27164,12 +26186,11 @@ Ettercaps are not brave, but their traps often prevent enemies from drawing weap
 
 **Ecology**
 
-Environment: Cold hills
-
-Organization: Solitary, pair, group (3-6), troop (1-2 plus 1-2 Brown Bears, band (3-6 plus 1-2 Brown Bears) or colony (3-6 plus 1-2 Brown Bears and 7-12 Orcs, or 9-16 Goblins)
+| Environment: Cold hills |
+| --- |
+| Organization: Solitary, pair, group (3-6), troop (1-2 plus 1-2 Brown Bears, band (3-6 plus 1-2 Brown Bears) or colony (3-6 plus 1-2 Brown Bears and 7-12 Orcs, or 9-16 Goblins) |
 
 **Treasure Category**: Leather Armor, 2 Light Flails, 4 Javelins, P
-
 **Description**
 
 | Ettins, or two-headed giants, are malevolent and unpredictable nocturnal hunters. Their two heads grant them unparalleled powers of perception, making them excellent guardians. |
@@ -27213,12 +26234,11 @@ They generally form reproductive pairs to raise offspring only for brief periods
 
 **Ecology**
 
-Environment: warm caves
-
-Organization: Solitary, nest (8-64)
+| Environment: warm caves |
+| --- |
+| Organization: Solitary, nest (8-64) |
 
 **Treasure Category**: Diamond 1d4x1d50gp
-
 **Description**
 Explosive Roaches are native creatures between the elemental plane of fire and earth. They are usually attracted to environments rich in flames, stone, or at least heat and earth.
 Proportioned like a common roach but about 40 cm long and weighing about 4 kg, it is a creature completely devoid of intellect, acting only on pure instinct.
@@ -27231,7 +26251,7 @@ In the nest where they dwell, there is at least one queen who commands the roach
 - **Ability**: Str 7 Dex -1 Con 6 Int 0 Wis 2 Cha 1
 - **Hit Points**: 187,  **Defense:** 23,  **Initiative:** +0
 - **Movement**: 9 m
-- **Saving Throws**: Fortitude +15, Reflex +8, Will +11
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +8, Will +11
 - **Skills**: Athletics +11, Awareness +6
 - **Languages**: Giant
 - **Challenge**: 9 (5000 XP)
@@ -27254,12 +26274,11 @@ In the nest where they dwell, there is at least one queen who commands the roach
 
 **Ecology**
 
-Environment: Hot Mountains
-
-Organization: Solitary, group (2-5), band (6-12 plus 35\% noncombatants and 1 adept or Devotee of 1st-2nd level), raiding party (6-12 plus 1 adept or wizard of 3rd-5th level, 2-5 Hell Hounds and 2-3 Trolls or Ettins) or tribe (20-30 plus 1 adept, wizard or Devotee of 6th-7th level; 1 Warrior or ranger king of 8th-9th level; and 17-38 Hell Hounds, 12-22 Trolls, 7-12 Ettins and 1-2 Young Red Dragons)
+| Environment: Hot Mountains |
+| --- |
+| Organization: Solitary, group (2-5), band (6-12 plus 35\% noncombatants and 1 adept or Devotee of 1st-2nd level), raiding party (6-12 plus 1 adept or wizard of 3rd-5th level, 2-5 Hell Hounds and 2-3 Trolls or Ettins) or tribe (20-30 plus 1 adept, wizard or Devotee of 6th-7th level; 1 Warrior or ranger king of 8th-9th level; and 17-38 Hell Hounds, 12-22 Trolls, 7-12 Ettins and 1-2 Young Red Dragons) |
 
 **Treasure Category**: Half Plate, Greatsword, P
-
 **Description**
 Fire giants are the most rigid and martial of giants, always ready for war and for treating brutally anyone they encounter. Their rigid command structure includes soldiers, officers, and even generals, with everyone obeying their king's orders without question.
 
@@ -27293,12 +26312,11 @@ At Will: *Produce Flame*
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary, pair, patrol (2d4)
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, patrol (2d4) |
 
 **Treasure Category**: none
-
 **Description**:
 Flameskulls are created from the corpses of spellcasters specialized in the Fire Magic List and necromancy.
 
@@ -27342,12 +26360,11 @@ Used as guardians and torches, they often represent a first line of defense in d
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary or group (2-4)
+| Environment: Any |
+| --- |
+| Organization: Solitary or group (2-4) |
 
 **Treasure Category**: None
-
 **Description**
 A flesh golem is a monstrous collection of humanoid body parts stolen and stitched together. Its cadaverous flesh has a pale green or yellowish tone. A flesh golem wears whatever clothing its creator desires, normally just a ragged pair of trousers. It has no Equipment or weapons. A flesh golem stands over 2.3 meters tall and weighs 250 kg.
 
@@ -27372,12 +26389,11 @@ Although many flesh golems are mindless, tales are told of exceptional golems th
 
 **Ecology**
 
-Environment: rotting trees, putrid flesh
-
-Organization: groups 3d6
+| Environment: rotting trees, putrid flesh |
+| --- |
+| Organization: groups 3d6 |
 
 **Treasure Category**: None
-
 **Description**
 Flesh worms are among the most feared parasites by adventurers. They are found in damp piles of leaves or rotting logs, in decomposing corpses, in turbid waters. Pale, slimy, equipped with very sharp teeth, just over 4 millimeters long, they penetrate exposed flesh very easily and perceive the heartbeat where they head. While they dig into the flesh, they can be perceived and even seen crawling under the skin.
 
@@ -27405,7 +26421,7 @@ Flesh worms are among the most feared parasites by adventurers. They are found i
 - **Ability**: Str 6 Dex -1 Con 5 Int -1 Wis 0 Cha 1
 - **Hit Points**: 167,  **Defense:** 21,  **Initiative:** -1
 - **Movement**: 12 m
-- **Saving Throws**: Fortitude +13, Reflex +7, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +7, Will +8
 - **Skills**: Athletics +9
 - **Languages**: Giant
 - **Challenge**: 8 (3900 XP)
@@ -27428,12 +26444,11 @@ Flesh worms are among the most feared parasites by adventurers. They are found i
 
 **Ecology**
 
-Environment: Cold Mountains
-
-Organization: Solitary, band (3-5), group (6-12 plus 35\% noncombatants and 1 wizard or Devotee of 1st-2nd level), raiding party (6-12 plus 35\% noncombatants, 1 Devotee or wizard of 3rd-5th level, 1-4 Winter Wolves and 2-3 Ogres) or tribe (21-30 plus 1 adept, wizard or Devotee of 6th-7th level; 1 Barbarian or ranger jarl 7th-9th level; and 15-36 Winter Wolves, 13-22 Ogres and 1-2 Young White Dragons)
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary, band (3-5), group (6-12 plus 35\% noncombatants and 1 wizard or Devotee of 1st-2nd level), raiding party (6-12 plus 35\% noncombatants, 1 Devotee or wizard of 3rd-5th level, 1-4 Winter Wolves and 2-3 Ogres) or tribe (21-30 plus 1 adept, wizard or Devotee of 6th-7th level; 1 Barbarian or ranger jarl 7th-9th level; and 15-36 Winter Wolves, 13-22 Ogres and 1-2 Young White Dragons) |
 
 **Treasure Category**: Chain Mail, Greataxe, R
-
 **Description**
 A frost giant has blue or dirty yellow hair, and eyes usually of the same color. They dress in furs and pelts, adorning themselves with whatever jewelry they may possess. Fighting frost giants also wear chain mail and metal helmets decorated with horns and feathers. An adult male stands 5 meters tall and weighs about 1,400 kg. Females are slightly shorter and slimmer, but otherwise identical to males. Frost giants can live up to 250 years.
 
@@ -27448,7 +26463,7 @@ Frost giants love taking prisoners and use them both as slaves and as raw materi
 - **Ability**: Str 6 Dex 1 Con 5 Int 3 Wis 1 Cha -1
 - **Hit Points**: 205,  **Defense:** 26,  **Initiative:** +3
 - **Movement**: 9 m, burrow 9 m
-- **Saving Throws**: Fortitude +15, Reflex +11, Will +11
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +11, Will +11
 - **Proficiencies**: Perception +10
 - **Senses**: Darkvision 18 m, tremorsense 18 m
 - **Challenge**: 10 (5900 XP)
@@ -27473,12 +26488,11 @@ Fighting without looking at the G.C.B. imposes -1d6 to Attack Roll.
 
 **Ecology**
 
-Environment: Underground
-
-Organization: solitary, group (2-4)
+| Environment: Underground |
+| --- |
+| Organization: solitary, group (2-4) |
 
 **Treasure Category**: Incidental
-
 **Description**
 The Great Chitinous Being, or G.C.B, is an insect with a vague humanoid appearance almost 3 meters tall, powerful and equipped with two very strong and resistant claws capable of digging and severing any material. 4 small, central, multi-faceted eyes emit a faint, shifting luminescence that confounds creatures that cross their gaze.
 
@@ -27506,12 +26520,11 @@ Probably the result of some transformation spell gone wrong, G.C.B.s are masters
 
 **Ecology**
 
-Environment: Anywhere
-
-Organization: Group (8-12), war band (10-24) or tribe (50+, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 chief of 6th-8th level, 6-12 wild wolves and 1-4 Ogres or 1-2 Gablin Champions)
+| Environment: Anywhere |
+| --- |
+| Organization: Group (8-12), war band (10-24) or tribe (50+, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 chief of 6th-8th level, 6-12 wild wolves and 1-4 Ogres or 1-2 Gablin Champions) |
 
 **Treasure Category**: Incidental
-
 **Description**
 Gablins are the scum of the scum; it's said that a Gablin is born from every evil thought, and they are certainly very numerous.
 Gablins are small humanoids with dark skin and green streaks, initially generated by the will of Cattalm with the sole purpose of bringing destruction, death, and suffering.
@@ -27539,12 +26552,11 @@ Although individually not particularly formidable, Gablins always move in groups
 
 **Ecology**
 
-Environment: Any
-
-Organization: leading a group of Gablins
+| Environment: Any |
+| --- |
+| Organization: leading a group of Gablins |
 
 **Treasure Category**: Leather Armor, Heavy Club, B
-
 **Description**
 Gablin Champions are spontaneously generated when the number of Gablins present reaches 20 units. Enormously larger, stronger, and more intelligent than a Gablin, the Champions are the leaders of the group, those who plan battles and confrontations.
 They have no qualms about sending Gablins to slaughter or killing anything that breathes. Pervaded by the spirit of Cattalm, their purpose is always and only to destroy and kill.
@@ -27554,7 +26566,7 @@ They have no qualms about sending Gablins to slaughter or killing anything that 
 - **Ability**: Str 5 Dex 2 Con 3 Int 2 Wis 3 Cha 3
 - **Hit Points**: 126,  **Defense:** 22,  **Initiative:** +2
 - **Movement**: 12 m
-- **Saving Throws**: Fortitude +9, Reflex +8, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +9, Reflex +8, Will +9
 - **Senses**: Darkvision 18 m
 - **Languages**: Common, Abyssal
 - **Challenge**: 6 (2300 XP)
@@ -27573,12 +26585,11 @@ They have no qualms about sending Gablins to slaughter or killing anything that 
 
 **Ecology**
 
-Environment: Any
-
-Organization: leading an army of Gablins
+| Environment: Any |
+| --- |
+| Organization: leading an army of Gablins |
 
 **Treasure Category**: Field Plate, Bastard Sword +1, S
-
 **Description**
 Gablin Paladins are among the most powerful gablins known, the true elect of Cattalm. Summoned by more powerful followers of Cattalm, they can alone lead hundreds of Gablins and, thanks to their acumen, prepare accurate plans and bring havoc and destruction to entire regions.
 
@@ -27612,12 +26623,11 @@ Gablin Paladins are among the most powerful gablins known, the true elect of Cat
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary, pair, or wing (3-12)
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, or wing (3-12) |
 
 **Treasure Category**: Q
-
 **Description**
 Gargoyles often appear to be winged stone statues, as they can remain motionless indefinitely to then surprise enemies. Gargoyles tend to have obsessive-compulsive behaviors, as diverse as their species is abundant. Books, stolen trinkets, weapons, and trophies collected from fallen enemies are just a few examples of the types of objects a gargoyle might collect to decorate its lair and territory.
 
@@ -27666,12 +26676,11 @@ An engulfed creature can try to escape by taking an Action to make a Fortitude S
 
 **Ecology**
 
-Environment: Any underground
-
-Organization: Solitary
+| Environment: Any underground |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: Incidental
-
 **Description**
 Among the most unusual and peculiar dungeon predators, gelatinous cubes spend their existence wandering aimlessly through underground tunnels and dark caverns, engulfing organic materials such as plants, refuse, carrion, and even living creatures. Matter that the cube cannot digest, such as metals and stone, fills the creature's volume with debris, and sometimes it can expel some of it from its body. Often, the treasure and belongings of past victims remain inside the gelatinous cube: a spectral image of their material remains.
 
@@ -27794,12 +26803,11 @@ The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the
 
 **Ecology**
 
-Environment: Any terrain
-
-Organization: Solitary, group (2-4) or pack (7-12)
+| Environment: Any terrain |
+| --- |
+| Organization: Solitary, group (2-4) or pack (7-12) |
 
 **Treasure Category**: B
-
 **Description**
 Ghasts are Ghouls with a deeper connection to the Void. A ghast's paralysis affects Elves as well. Ghasts roam in packs or command groups of common Ghouls. The stench of death and decay that surrounds these creatures is overwhelming.
 
@@ -27835,12 +26843,11 @@ The possession lasts until the body drops to 0 Hit Points, the ghost ends it as 
 
 **Ecology**
 
-Environment: any
-
-Organization: solitary
+| Environment: any |
+| --- |
+| Organization: solitary |
 
 **Treasure Category**: None
-
 **Description**
 When a soul is denied rest due to some grave injustice, real or perceived, it sometimes returns as a ghost. These beings are eternally distressed, without substance and unable to set things right. Although ghosts can have any Trait, many cling to the world of the living with a strong sense of hatred and anger, and as a result become evil; even a good creature after death can become a hateful and cruel ghost.
 
@@ -27855,7 +26862,7 @@ The original objects are left behind, just like the ghost's physical remains. If
 - **Ability**: Str 1 Dex 2 Con 0 Int -2 Wis 0 Cha -2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
 - **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +3, Reflex +3, Will +3
 - **Damage Imm.**: Poison
 - **Immunities**: charmed, fatigued
 - **Senses**: Darkvision 18 m
@@ -27872,12 +26879,11 @@ The original objects are left behind, just like the ghost's physical remains. If
 
 **Ecology**
 
-Environment: Any terrain
-
-Organization: Solitary, group (2-4) or pack (7-12)
+| Environment: Any terrain |
+| --- |
+| Organization: Solitary, group (2-4) or pack (7-12) |
 
 **Treasure Category**: K
-
 **Description**
 Ghouls are undead that haunt graveyards and eat corpses. Legends claim that the first ghouls were cannibalistic humans brought back from death by an unnatural hunger, or humans who in life fed on the rotting remains of their kin and died (and then were reborn) from a terrible disease; the true origin of these necrophagous undead is uncertain.
 
@@ -27914,12 +26920,11 @@ Although many surface ghouls live primitively, rumors speak of ghoul cities deep
 
 **Ecology**
 
-Environment: Any terrain
-
-Organization: Group (4-8) or pack (14-24)
+| Environment: Any terrain |
+| --- |
+| Organization: Group (4-8) or pack (14-24) |
 
 **Treasure Category**: B
-
 **Description**
 The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typically in charge of a group of at least one putrid ghoul of about 18 ghouls.
 
@@ -27946,12 +26951,11 @@ The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typica
 
 **Ecology**
 
-Environment: Any terrain
-
-Organization: Clan (7-12+)
+| Environment: Any terrain |
+| --- |
+| Organization: Clan (7-12+) |
 
 **Treasure Category**: I
-
 **Description**
 The Mother Ghoul is usually the head of a clan of ghouls that can reach even several dozen members. Respected and feared, she is usually among the most intelligent evolved ghouls and highly appreciated for her ability to transform the living into ghouls. Their tactic involves wounding rather than killing several people so that when they return home and then transform, they can attack and kill the entire village.
 
@@ -27984,12 +26988,11 @@ The Mother Ghoul is usually the head of a clan of ghouls that can reach even sev
 
 **Ecology**
 
-Environment: Any terrain
-
-Organization: Group (4-8) or pack (10-18)
+| Environment: Any terrain |
+| --- |
+| Organization: Group (4-8) or pack (10-18) |
 
 **Treasure Category**: None
-
 **Description**
 Putrid Ghouls are one of the many evolutions of Ghouls. Continuous contact with negative energy and feeding on corpses of all kinds for centuries have made it larger, stronger and capable of inflicting and causing the most dangerous wounds.
 
@@ -28019,12 +27022,11 @@ Putrid Ghouls are one of the many evolutions of Ghouls. Continuous contact with 
 
 **Ecology**
 
-Environment: Any Underground
-
-Organization: Solitary
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: incidental (O)
-
 **Description**
 Disgusting, nauseating, and hungry: these are the only words that appropriately describe the gibbering mouther. Repulsive beasts that hide in caves, sewers, and nightmares, mouthers have no other social, ecological, or religious purpose beyond their ability to drive those who listen to them mad. Some scholars believe that gibbering mouthers are a smaller variant of the much more dangerous shoggoth, while others theorize that it is a punishment of Orudjs inflicted on those who have offended her.
 
@@ -28033,7 +27035,7 @@ Disgusting, nauseating, and hungry: these are the only words that appropriately 
 - **Ability**: Str 5 Dex 2 Con 5 Int 4 Wis 3 Cha 3
 - **Hit Points**: 186,  **Defense:** 26,  **Initiative:** +4
 - **Movement**: 12 m
-- **Saving Throws**: Fortitude +14, Reflex +11, Will +12
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +11, Will +12
 - **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
 - **Damage Immunity**: Poison
 - **Vulnerability**: cold iron, Light
@@ -28065,12 +27067,11 @@ At will: *Dispel Magic, Detect Magic, Darkness*
 
 **Ecology**
 
-Environment: Any (Abyss)
-
+| Environment: Any (Abyss) |
+| --- |
 
 Organization: Solitary or troop (1 glabrezu, 1 Succubus and 2-5 Vrock)
 **Treasure Category**: U
-
 **Description**
 While the Succubus is a demon that lures its prey by exploiting its desires and carnal needs, the glabrezu is a tempter of another kind. Fierce and bestial in form, the glabrezu is actually a master of deception and lies. With its ability to hide its true form behind pleasing illusions, it uses its magic to fulfill the wishes of mortal humanoids as a form of reward for those who succumb to its tricks and deceptions. A wish fulfilled by a glabrezu satisfies the need of whoever expresses it in the most ruinous way possible, although these consequences may not immediately reveal themselves as such. A smith who struggles to establish himself might wish for fame and skill in his chosen profession, only to discover that his best patron is a cruel and sadistic murderer who uses weapons to promote his own destructive desires. A lonely man who expresses the wish to have a companion might see his wish come true with an old flame returned to life in the form of a vampire, and other examples of this type. The glabrezu is highly creative in fulfilling a mortal's wishes.
 
@@ -28102,12 +27103,11 @@ A glabrezu is 5.3 meters tall and weighs just over 3000 kg. These wicked demons 
 
 **Ecology**
 
-Environment: Any, desert, nocturnal
-
-Organization: Solitary, groups 2d4
+| Environment: Any, desert, nocturnal |
+| --- |
+| Organization: Solitary, groups 2d4 |
 
 **Treasure Category**: None
-
 **Description**
 Globules are magical aberrations coming from some portal opened to the Beyond. Creatures of cold and void, they look like small stars that only yearn to suck the life out of creatures they encounter.
 Intelligent and clever, they prefer to attack while staying airborne and wearing down the opponent until they are mortally fatigued. Once killed, all that remains of a Globule is a small star-shaped creature with a large central eye, completely white.
@@ -28142,12 +27142,11 @@ Intelligent and clever, they prefer to attack while staying airborne and wearing
 
 **Ecology**
 
-Environment: Warm plains, deserts
-
-Organization: Solitary, pair, hunting party (2-5 and 1-2 Hyenas), band (10-100 adults plus 50\% noncombatant young, 1 sergeant of 3rd level per 20 adults, 1 leader of 4th-6th level and 5-8 Hyenas) or tribe (20-200 plus 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 7-12 Hyenas and 4-7 hyaenodons)
+| Environment: Warm plains, deserts |
+| --- |
+| Organization: Solitary, pair, hunting party (2-5 and 1-2 Hyenas), band (10-100 adults plus 50\% noncombatant young, 1 sergeant of 3rd level per 20 adults, 1 leader of 4th-6th level and 5-8 Hyenas) or tribe (20-200 plus 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 7-12 Hyenas and 4-7 hyaenodons) |
 
 **Treasure Category**: NPC equipment (Leather Armor, Heavy Wooden Shield, Spear, K)
-
 **Description**
 Gnolls are large, stocky humanoids that resemble hyenas not only in appearance but also in behavior. They often keep hyenas as companion animals and reflect many of their behaviors. Though skilled hunters, they prefer to steal or scavenge carcasses rather than hunt prey.
 
@@ -28179,12 +27178,11 @@ Gnoll leaders have ranger skills, and some are devoted to voracious Patrons. The
 
 **Ecology**
 
-Environment: Any Temperate
-
-Organization: Group (4-9), war band (10-24) or tribe (50+ plus 50\% noncombatants
+| Environment: Any Temperate |
+| --- |
+| Organization: Group (4-9), war band (10-24) or tribe (50+ plus 50\% noncombatants |
 
 **Treasure Category**: K
-
 **Description**
 Goblins are wild, unpredictable, and noisy.
 Goblins prefer to live in caves, dense forests, and when available in abandoned ancient structures. Goblins don't like to build as much as they like to destroy and then complain that there is nothing useful.
@@ -28219,12 +27217,11 @@ Goblins are voracious and can eat enormous amounts of food. A goblin won't refus
 
 **Ecology**
 
-Environment: Warm Plains
-
-Organization: Solitary
+| Environment: Warm Plains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid.
 
@@ -28255,12 +27252,11 @@ Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as ag
 
 **Ecology**
 
-Environment: Temperate Plains, Rocky Hills, and Underground
-
-Organization: Solitary, pair, pack (3-4) or herd (5-12)
+| Environment: Temperate Plains, Rocky Hills, and Underground |
+| --- |
+| Organization: Solitary, pair, pack (3-4) or herd (5-12) |
 
 **Treasure Category**: None
-
 **Description**
 Gorgons are magical and irascible creatures: although at first glance they may appear to be constructs, under the artificial-looking metal plates they are made of flesh and bone. Like aggressive bulls, they challenge any unknown creature they encounter, often running over their opponent's corpse or shattering their petrified remains until the creature is no longer recognizable. Females are as dangerous as males, and the two sexes have identical appearance. A typical gorgon is 1.8 meters tall and 2.3 meters long. It weighs about 2000 kg.
 
@@ -28295,12 +27291,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Ecology**
 
-Environment: Cold swamps and underground
-
-Organization: Solitary
+| Environment: Cold swamps and underground |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: None
-
 **Description**
 Crawling through cold swamps and misty wetlands or, sometimes, in underground passages and caverns, gray oozes consume any organic material they encounter. Although lacking intelligence, the gray ooze presents numerous problems due to its transparency. Even though it cannot easily climb walls or swim, its habit of hiding in mud often along marshy shores or remaining motionless in innocent-looking puddles on the gray floor of a dungeon, makes it very difficult to notice and avoid.
 
@@ -28328,12 +27323,11 @@ Some sages believe that gray oozes are the result of a failed alchemical experim
 
 **Ecology**
 
-Environment: Temperate Forests
-
-Organization: Solitary
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 See Ancient Green Dragon Description.
 
@@ -28368,12 +27362,11 @@ The changes created by this effect fail to hold up to physical inspection. For e
 
 **Ecology**
 
-Environment: Temperate swamps
-
-Organization: Solitary or coven (3 hags of any type)
+| Environment: Temperate swamps |
+| --- |
+| Organization: Solitary or coven (3 hags of any type) |
 
 **Treasure Category**: R (C)
-
 **Description**
 Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 feet tall and weighs just under 175 pounds.
 
@@ -28400,12 +27393,11 @@ Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green
 
 **Ecology**:
 
-Environment: Any Underground
-
-Organization: Solitary or cluster (2-5)
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary or cluster (2-5) |
 
 **Treasure Category**: Incidental
-
 **Description**
 The grick, a worm-like creature, is the terror of the caves and tunnels in which it resides. Lurking near trafficked tunnels or underground cities, it springs out of the darkness to capture its prey. It usually does not consume prey on the spot but carries them to its lair, a narrow tunnel or a ledge in a cave, where it can eat them peacefully.
 
@@ -28441,12 +27433,11 @@ Gricks camouflage themselves thanks to their dark color and their ability to cli
 
 **Ecology**
 
-Environment: Temperate Hills
-
-Organization: Solitary, pair, or pack (6-10)
+| Environment: Temperate Hills |
+| --- |
+| Organization: Solitary, pair, or pack (6-10) |
 
 **Treasure Category**: Incidental
-
 **Description**
 Griffins are powerful aerial predators that swoop down from their nests to grab prey with beak and talons. Aggressive and territorial, they are astute fighters and loyal to those who earn their respect, protecting them to the death. They weigh over 250 kg and are 2.3 meters long, with an imposing profile often used in heraldry as a symbol of power, authority, and justice. Despite this, they are more interested in hunting and defending themselves.
 
@@ -28497,7 +27488,7 @@ Grimlocks are blind and savage human-like creatures that inhabit the realm of th
 - **Ability**: Str 4 Dex 4 Con 3 Int 3 Wis 4 Cha 4
 - **Hit Points**: 201,  **Defense:** 29,  **Initiative:** +4
 - **Movement**: 40 ft
-- **Saving Throws**: Fortitude +13, Reflex +14, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +14, Will +14
 - **Damage Imm.**: Poison
 - **Condition Imm.**: charmed
 - **Senses**: Darkvision 60 ft
@@ -28534,12 +27525,11 @@ Cantrips (at will): *Sacred Flame, Mending, Thaumaturgy*
 
 **Ecology**
 
-Environment: Temperate Plains
-
-Organization: Solitary, pair, or nest (3-6)
+| Environment: Temperate Plains |
+| --- |
+| Organization: Solitary, pair, or nest (3-6) |
 
 **Treasure Category**: R
-
 **Description**
 Although they have a fierce appearance, with bright scales, cobra-like hoods, and powerful serpentine bodies, guardian nagas serve as conscientious protectors of places of exceptional power and sacredness. Often their scales display elaborate patterns similar to those of exotic jungle snakes. A typical guardian naga reaches a length of 14 feet and weighs approximately 375 pounds.
 
@@ -28550,7 +27540,7 @@ While some guardian nagas adhere to exotic practices of ancient or forgotten dei
 - **Ability**: Str 4 Dex 2 Con 3 Int 4 Wis 4 Cha 4
 - **Hit Points**: 219,  **Defense:** 28,  **Initiative:** +4
 - **Movement**: 40 ft, fly 60 ft
-- **Saving Throws**: Fortitude +14, Reflex +13, Will +15
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +13, Will +15
 - **Skills**: Arcana +14, Religion +9, History +14
 - **Dmg. Res.**: from non-magical weapons
 - **Immunities**: charmed, frightened
@@ -28594,12 +27584,11 @@ The sphinx can take 3 legendary actions, chosen from the options below. Only one
 
 **Ecology**
 
-Environment: Hot deserts and hills
-
-Organization: Solitary, pair, or cult (3-6)
+| Environment: Hot deserts and hills |
+| --- |
+| Organization: Solitary, pair, or cult (3-6) |
 
 **Treasure Category**: C
-
 **Description**
 Although there are several types of sphinx, the one scholars refer to as the Gynosphinx (a name many sphinxes find offensive) is a wise and majestic creature but also terrifying when angered. Less moralistic than their male counterparts (Androsphinxes, creatures totally different from the one presented here), sphinxes are cautious and methodical when making decisions, and are proud of their cold logic and impartiality.
 
@@ -28640,12 +27629,11 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Ecology**
 
-Environment: Temperate Swamps
-
-Organization: Solitary, pair, or flight (3-12)
+| Environment: Temperate Swamps |
+| --- |
+| Organization: Solitary, pair, or flight (3-12) |
 
 **Treasure Category**: R (C)
-
 **Description**
 Often seen as evil and corrupt creatures, harpies know how others think and act. This perceptive ability gives them an advantage in finding their preferred meals. Although wild creatures easily fall victim to the luring song, these evil bird-women prefer meals seasoned with complex sentient thoughts. Easy prey makes for a boring meal.
 
@@ -28712,12 +27700,11 @@ Harpies are markedly different depending on the region where they live. Some res
 
 **Ecology**
 
-Environment: Any (Abyss)
-
-Organization: Solitary or gang (2-4)
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary or gang (2-4) |
 
 **Treasure Category**: W
-
 **Description**
 The hezrou lives in the vast swamps, wetlands, and watercourses of the Abyss. It is at ease both in water and on land. The presence of a hezrou has a damaging effect on flora, causing mutations and making the waters foul-smelling and brackish in taste. Often entire isolated communities of deformed mutants owe their twisted appearance not so much to their depraved customs as to the proximity of a hezrou.
 
@@ -28746,12 +27733,11 @@ These monstrous and bestial creatures are born from the souls of evil mortals wh
 
 **Ecology**
 
-Environment: Temperate Hills
-
-Organization: Solitary, group (2-5), band (6-8), raiding party (9-12 plus 1d4 Dire Wolves) or tribe (13-30 plus 35\% noncombatant plus 1 fighter chief of 4th-6th level, 11-16 Dire Wolves, 1-4 Ogres and 13-20 orc slaves)
+| Environment: Temperate Hills |
+| --- |
+| Organization: Solitary, group (2-5), band (6-8), raiding party (9-12 plus 1d4 Dire Wolves) or tribe (13-30 plus 35\% noncombatant plus 1 fighter chief of 4th-6th level, 11-16 Dire Wolves, 1-4 Ogres and 13-20 orc slaves) |
 
 **Treasure Category**: Hide Armor, Greatclub, B
-
 **Description**
 Hill giants have skin that ranges from light tan to reddish brown, with brown or black hair, and eyes of the same color. They wear multiple layers of crudely tanned hides with the fur still attached. They rarely wash or repair their clothing, preferring to simply add new layers as the old ones wear out. Adults are about 3 meters tall and weigh roughly 550 kg. Hill giants can live up to 200 years, though they rarely reach this age.
 
@@ -28786,12 +27772,11 @@ Solitary and non-evil hill giants are quite rare, but they can sometimes be foun
 
 **Ecology**
 
-Environment: Temperate Hills or Plains
-
-Organization: Solitary, pair, or flock (7-12)
+| Environment: Temperate Hills or Plains |
+| --- |
+| Organization: Solitary, pair, or flock (7-12) |
 
 **Treasure Category**: None
-
 **Description**
 The hippogriff is a fascinating creature with wings, front legs, and head of a large raptor, and body and tail of a magnificent horse.
 
@@ -28827,12 +27812,11 @@ Hippogriffs are oviparous and their nest usually contains only one egg, which is
 
 **Ecology**
 
-Environment: Caverns
-
-Organization: Solitary, pair, or nest (2-4)
+| Environment: Caverns |
+| --- |
+| Organization: Solitary, pair, or nest (2-4) |
 
 **Treasure Category**: Incidental
-
 **Description**
 Hissers, so called because of the noise their tail makes when swinging, are very peculiar creatures. At first glance, they resemble a crocodile, about 16 feet long with 13 feet of tail, but they have 8 legs and a short, flattened snout. The extremely robust tail ends with a kind of hook that the Hisser uses to strike, kill, and grab enemies almost as if it were an additional limb.
 
@@ -28860,12 +27844,11 @@ Dark gray or brown in color, they prefer to hide in darkness and attack when hun
 
 **Ecology**
 
-Environment: Temperate Hills
-
-Organization: Gang (4-9), war band (10-24) or tribe (25+ plus 50\% non-combatants, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 6-12 Leopards and 1-4 Ogres or 1-2 Trolls)
+| Environment: Temperate Hills |
+| --- |
+| Organization: Gang (4-9), war band (10-24) or tribe (25+ plus 50\% non-combatants, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 6-12 Leopards and 1-4 Ogres or 1-2 Trolls) |
 
 **Treasure Category**: NPC Equipment (Studded Leather Armor, Light Metal Shield, Longsword, Longbow with 20 Arrows, O)
-
 **Description**
 Hobgoblins are a militaristic and prolific race, making them very dangerous in some regions. They breed quickly, replacing fallen members with new soldiers, keeping their numbers constant despite wars. They declare war easily, often to capture new slaves, whose life is brutal and short. Slaves are necessary to replace those who die or are eaten.
 
@@ -28900,7 +27883,7 @@ Hobgoblins despise magic and distrust wizards. Their shamans, feared and respect
 - **Ability**: Str 6 Dex 3 Con 5 Int 1 Wis 3 Cha 3
 - **Hit Points**: 224,  **Defense:** 29,  **Initiative:** +3
 - **Movement**: 6 m, flight 18 m
-- **Saving Throws**: Fortitude +16, Reflex +14, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +16, Reflex +14, Will +14
 - **Damage Res.**: Cold;
 - **Damage Imm.**: Fire, Poison, weapons +1
 - **Vulnerabilities**: silver, Light
@@ -28938,12 +27921,11 @@ Hobgoblins despise magic and distrust wizards. Their shamans, feared and respect
 
 **Ecology**
 
-Environment: Any (Hell)
-
-Organization: Solitary, pair, or flock (3-10)
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, or flock (3-10) |
 
 **Treasure Category**: Unholy Spiked Chain +1, P
-
 **Description**
 Among the most deadly warriors of the archdevils and skilled commanders of lesser devils, horned devils spread the rules of Hell wherever they pass. These greater devils are trained, forged, and reforged to be among the most relentless and obedient warriors of the multiverse. The horned devils of the troops of the infernal armies are known as cornugons, while the greatest among them are called malebranche.
 
@@ -28976,15 +27958,14 @@ Hungry Coins always attack in groups of at least 8 coins, those held in hand for
 
 **Ecology**
 
-Environment: Any
-
-Organization: Groups (3d12)
+| Environment: Any |
+| --- |
+| Organization: Groups (3d12) |
 
 **Treasure Category**: M, N, O
-
 **Description**
 The Hungry Coin is indistinguishable from a normal coin until observed very carefully.
-Voracious and hungry, they like to hide in piles of coins they feed on to absorb the metals that give them the and appearance of ordinary coins. They always attack in groups, usually waiting for someone to hold them for counting. For every 10 Hungry Coins, if *emptied and melted down*, it's possible to obtain enough metal for a real coin.
+Voracious and hungry, they like to hide in piles of coins they feed on to absorb the metals that give them the \emph and appearance of ordinary coins. They always attack in groups, usually waiting for someone to hold them for counting. For every 10 Hungry Coins, if *emptied and melted down*, it's possible to obtain enough metal for a real coin.
 Hungry Coins made of Gold or Platinum are usually sturdier and even hungrier. Legend has it that a Hungry Coin will not attack a Devotee of Rezh.
 
 ## Hydra
@@ -28992,7 +27973,7 @@ Hungry Coins made of Gold or Platinum are usually sturdier and even hungrier. Le
 - **Ability**: Str 5 Dex 1 Con 5 Int -4 Wis 0 Cha -2
 - **Hit Points**: 167,  **Defense:** 23,  **Initiative:** +1
 - **Movement**: 9 m, swim 9 m
-- **Saving Throws**: Fortitude +13, Reflex +9, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +9, Will +8
 - **Skills**: Awareness +6
 - **Senses**: Darkvision 18 m
 - **Challenge**: 8 (3900 XP)
@@ -29019,12 +28000,11 @@ At the end of its turn, the hydra regrows two heads for each of its heads killed
 
 **Ecology**
 
-Environment: Temperate Marshes
-
-Organization: Solitary
+| Environment: Temperate Marshes |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: E
-
 **Description**
 The hydra is a multi-headed dragon, but stupid and with major digestive problems.
 
@@ -29033,7 +28013,7 @@ The hydra is a multi-headed dragon, but stupid and with major digestive problems
 - **Ability**: Str 5 Dex 2 Con 4 Int 4 Wis 2 Cha 4
 - **Hit Points**: 278,  **Defense:** 32,  **Initiative:** +4
 - **Movement**: 12 m
-- **Saving Throws**: Fortitude +18, Reflex +16, Will +16
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +18, Reflex +16, Will +16
 - **Damage Imm.**: Cold, Fire, Poison, weapons +1
 - **Vulnerabilities**: silver, Light
 - **Senses**: Blindsight 18 m, Darkvision 36 m
@@ -29072,12 +28052,11 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Ecology**
 
-Environment: Any (Hell)
-
-Organization: Solitary, squad (2-3), council (4-10) or contingent (1-3 ice devils, 2-6 horned devils and 1-4 bone devils
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, squad (2-3), council (4-10) or contingent (1-3 ice devils, 2-6 horned devils and 1-4 bone devils |
 
 **Treasure Category**: Icy Spear +1, R
-
 **Description**
 Enlightened strategists of Hell's armies, the insectoid ice devils are among the most ingenious and cruel minds of the inferno. An ice devil hides in its chest a frozen heart stolen from a mortal, which allows it to make decisions free from emotions. Born in the frozen circle of Cocytus, the seventh circle of Hell, most ice devils migrate to Caina, the eighth circle, where they plot to damn the world. Although they have the most alien and monstrous appearances among all devils, few others are accorded greater respect.
 
@@ -29113,12 +28092,11 @@ Ice Devils are 3.6 meters tall and weigh approximately 350 kg.
 
 **Ecology**
 
-Environment: Any (elemental plane of air)
-
-Organization: Solitary, pair, group (3-6) or swarm (7-12)
+| Environment: Any (elemental plane of air) |
+| --- |
+| Organization: Solitary, pair, group (3-6) or swarm (7-12) |
 
 **Treasure Category**: J
-
 **Description**
 Mephits are the servants of powerful elemental creatures. The key sites and locations of the elemental planes are filled with mephits bustling to perform an important duty or task.
 
@@ -29148,12 +28126,11 @@ Ice mephits are commonly found on the Plane of Air. These mephits are aloof and 
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary
+| Environment: Any |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: NPC Equipment (Studded Leather Armor, 2 Daggers, Sword, J)
-
 **Description**
 The Immortal Cursed is a person cursed often by a Patron or by a powerful spellcaster with the curse of insane immortal life. The curse breaks the person's balance and they find themselves wandering without purpose or goal. Occasionally they remember who they were and then continue searching for whoever cursed them.
 With the purpose of getting finally killed, they throw themselves into every battle hoping that the opponent will be able to kill them once and for all.
@@ -29186,12 +28163,11 @@ With the purpose of getting finally killed, they throw themselves into every bat
 
 **Ecology**
 
-Environment: Any (Hell)
-
-Organization: Solitary, pair, or flight (3-10)
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, or flight (3-10) |
 
 **Treasure Category**: K
-
 **Description**
 Born directly from the pits of Hell, imps are the least powerful devils, though these cruel and invasive creatures play an important role in corrupting mortal souls. Free from the hierarchies and duties of the infernal armies, imps delight in every opportunity to travel to the Material Plane and cleverly tempt mortals, pushing them to commit increasingly depraved acts.
 
@@ -29206,7 +28182,7 @@ Unlike other devils, imps are often found free and alone on the Material Plane, 
 - **Ability**: Str 3 Dex 4 Con 2 Int 0 Wis 2 Cha 0
 - **Hit Points**: 125,  **Defense:** 24,  **Initiative:** +4
 - **Movement**: 15 m, flight 15 m, Hover
-- **Saving Throws**: Fortitude +8, Reflex +10, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +8, Reflex +10, Will +8
 - **Skills**: Stealth +10, Awareness +8
 - **Damage Res.**: non-magical weapons
 - **Damage Imm.**: Poison
@@ -29233,12 +28209,11 @@ Unlike other devils, imps are often found free and alone on the Material Plane, 
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary
+| Environment: Any |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: None
-
 **Description**
 Native to the Plane of Air, these creatures move through the world following assignments for those who summon them. Invisible stalkers usually act as guardians and assassins. Their natural invisibility and stealth allow them to follow prey without being seen and give them an advantage when they decide to eliminate a target.
 
@@ -29251,7 +28226,7 @@ Due to continuous summonings, many invisible stalkers are adverse to the inhabit
 - **Ability**: Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -5
 - **Hit Points**: 319,  **Defense:** 32,  **Initiative:** -1
 - **Movement**: 9 m
-- **Saving Throws**: Fortitude +21, Reflex +15, Will +16
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +21, Reflex +15, Will +16
 - **Damage Imm.**: Fire, Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: Darkvision 36 m
@@ -29288,12 +28263,11 @@ Due to continuous summonings, many invisible stalkers are adverse to the inhabit
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary or group (2-4)
+| Environment: Any |
+| --- |
+| Organization: Solitary or group (2-4) |
 
 **Treasure Category**: None
-
 **Description**
 An iron golem has a humanoid body made of iron. The creator can give it any shape desired, but it almost always features some kind of armor, whether ceremonial and precious or plain and utilitarian. Compared to a stone golem, it has much more defined features. Iron golems sometimes carry a weapon, although most often they tend to prefer their slam attacks.
 
@@ -29328,12 +28302,11 @@ To build an iron golem requires 2,500 kg of iron, fused with rare dyes worth at 
 
 **Ecology**
 
-Environment: Temperate forests or underground
-
-Organization: solitary, group (2-4), nest (5-30 plus an equal number of non-combatants, 1 sergeant of 3rd level per 20 adults and 1 leader of 4th-6th level) or tribe (31-300 plus 35\% non-combatants, 1 sergeant of 3rd level per 20 adults, 2 lieutenants of 4th level, 1 leader of 6th-8th level and 5-16 Dire Rats)
+| Environment: Temperate forests or underground |
+| --- |
+| Organization: solitary, group (2-4), nest (5-30 plus an equal number of non-combatants, 1 sergeant of 3rd level per 20 adults and 1 leader of 4th-6th level) or tribe (31-300 plus 35\% non-combatants, 1 sergeant of 3rd level per 20 adults, 2 lieutenants of 4th level, 1 leader of 6th-8th level and 5-16 Dire Rats) |
 
 **Treasure Category**: NPC equipment (Leather Armor, Spear, Sling, other treasure), 2d6 silver coins
-
 **Description**
 Kobolds are creatures of darkness, most commonly encountered in enormous underground labyrinths or in the dark corners of forests where the sun never shines. Because of their physical resemblance, kobolds loudly proclaim themselves descendants of the draconic lineage and destined to rule the earth under the wing of their great divine cousins, but most dragons consider them little more than annoying insects. Cowards and schemers, they never fight openly if they can avoid it, preferring instead to set ambushes and traps, hiding in their labyrinthine constructions behind a curtain of crude but ingenious pitfalls, or pouring onto the enemy in vast howling hordes.
 
@@ -29346,7 +28319,7 @@ Kobolds have a weakness for silver but, being terrible miners, they prefer to pr
 - **Ability**: Str 10 Dex 0 Con 7 Int 6 Wis 4 Cha 5
 - **Hit Points**: 461,  **Defense:** 42,  **Initiative:** +6
 - **Movement**: 6 m, swim 18 m
-- **Saving Throws**: Fortitude +30, Reflex +23, Will +27
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +30, Reflex +23, Will +27
 - **Damage Imm.**: Electricity, +1 weapons
 - **Immunities**: paralyzed, frightened
 - **Senses**: truesight 36 m
@@ -29385,12 +28358,11 @@ The kraken can take 3 Legendary Actions, choosing from the options below. It can
 
 **Ecology**
 
-Environment: Any Ocean
-
-Organization: Solitary
+| Environment: Any Ocean |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: 2 H
-
 **Description**
 The legendary kraken is one of the sailors' greatest fears, because it is a whale-sized creature, can strike from the depths without being seen, can command the winds and weather conditions necessary for the ship to move, and possesses the cruel intellect of most of the most ruthless and creative criminals in the world. Some believe that krakens are divine punishment, while others consider them the true lords of the depths, who consider air-breathing races nothing but cattle.
 
@@ -29433,12 +28405,11 @@ At will: *Disguise Self* (any humanoid form), *Major Image*
 
 **Ecology**
 
-Environment: Temperate Deserts
-
-Organization: Solitary, pair, or cult (3-12)
+| Environment: Temperate Deserts |
+| --- |
+| Organization: Solitary, pair, or cult (3-12) |
 
 **Treasure Category**: Dagger+1, D
-
 **Description**
 Lamias, heirs to an ancient curse, appear as slender and attractive women from the waist up, while the lower part of the body is similar to that of a mighty lion. Their humanoid features present feline traits: narrow, feral eyes and fang-like teeth. A typical lamia is 1.8 meters tall, 2.3 meters long, and weighs over 325 kg.
 
@@ -29470,12 +28441,11 @@ Lamias worship the elder females of their group, considering them leaders, mothe
 
 **Ecology**
 
-Environment: Any (Hell)
-
-Organization: Solitary, pair, group (3-5), swarm (6-17) or horde (10-40 or more)
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, group (3-5), swarm (6-17) or horde (10-40 or more) |
 
 **Treasure Category**: None
-
 **Description**
 Lemures are the lowest devils, born from souls damned to hell. They are shapeless masses of trembling flesh, with grotesque features that mimic their torturers. Standing over 1.2 meters tall and weighing over 100 kg, they are revolting creatures that destroy any non-infernal life form.
 
@@ -29488,7 +28458,7 @@ Greater devils can recognize the most corrupted lemures and transform them into 
 - **Ability**: Str 0 Dex 3 Con 3 Int 5 Wis 2 Cha 3
 - **Hit Points**: 405,  **Defense:** 43,  **Initiative:** +5
 - **Movement**: 9 m
-- **Saving Throws**: Fortitude +24, Reflex +24, Will +23
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +24, Reflex +24, Will +23
 - **Damage Res.**: Cold, Lightning, Necrotic
 - **Damage Imm.**: Poison; non-magical weapons
 - **Immunities**: charmed, paralyzed, fatigued, frightened, bleeding
@@ -29550,12 +28520,11 @@ The lich can take 3 Legendary Actions, choosing from the options below. It can u
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary
+| Environment: Any |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: NPC Equipment (Ring of Protection +2, Headband of Wisdom +2 (Awareness), Boots of Levitation, scroll of Dominate Person, scroll of Teleport, potion of Invisibility)
-
 **Description**
 Few creatures are more feared than liches. Apex of Necromantic arts, the lich is a spellcaster who has chosen to give up life and cheat death by becoming undead. Although many of those who reach such heights of power would do anything to achieve immortality, the idea of becoming a lich is abhorred by many creatures. The process involves extracting the spellcaster's life force and imprisoning it in a specially prepared phylactery; the spellcaster gives up his life, but remains trapped between life and death, and as long as his phylactery remains intact he can continue his research and work without fearing the passage of time.
 
@@ -29593,12 +28562,11 @@ There are also extremely rare good Liches, but as the saying goes, they are rare
 
 **Ecology**
 
-Environment: temperate swamps
-
-Organization: solitary, pair, gang (3-12) or tribe (13-60)
+| Environment: temperate swamps |
+| --- |
+| Organization: solitary, pair, gang (3-12) or tribe (13-60) |
 
 **Treasure Category**: NPC Equipment (Wooden Heavy Shield, Spiked Mace, 3 Javelins)
-
 **Description**
 Lizardfolk are proud, powerful predatory reptiles that make their communal homes in scattered villages deep within swamps and marshes. Having no interest in colonizing drier lands and content with their simple weapons and rituals that have served them well for millennia, lizardfolk are viewed by many of the other races as backward savages, but within their isolated communities they are actually a vibrant people with a rich tradition and oral history stretching back to before humanity walked upright.
 
@@ -29644,12 +28612,11 @@ The lizardfolk presented here live in swampy environments. Lizardfolk tribes can
 
 **Ecology**
 
-Environment: Any, caverns
-
-Organization: 1-2 Lootdeads, 1d4+1 guardians
+| Environment: Any, caverns |
+| --- |
+| Organization: 1-2 Lootdeads, 1d4+1 guardians |
 
 **Treasure Category**: Whatever collected (C + R)
-
 **Description**
 Lootdeads are special undead constructed from various cadaver pieces and iron parts to resemble a kind of large armored crab.
 The back, completely metallic, serves as a container for treasures that the Lootdead finds. The claws, varying in number between 6 and 8, are just over three feet long and have the characteristic of each leaving a different imprint, being assembled from different metal pieces and bodies.
@@ -29680,12 +28647,11 @@ Usually a Lootdead is always accompanied by several guardians (other creatures u
 
 **Ecology**
 
-Environment: Any terrain (Plane of Fire)
-
-Organization: Solitary or band (2-8)
+| Environment: Any terrain (Plane of Fire) |
+| --- |
+| Organization: Solitary or band (2-8) |
 
 **Treasure Category**: L
-
 **Description**
 Lava men, known as Ignim, inhabit the Plane of Fire but sometimes slip into the Material Plane through elemental cracks. These cracks form in places of strong heat, such as volcanoes or underground magma rivers, or in areas of intense magic. Often, they unintentionally set fire to nearby flammable objects.
 
@@ -29725,12 +28691,11 @@ At maturity, the Ignim are 1.2 meters tall and weigh 150 kg due to their dense c
 
 **Ecology**
 
-Environment: Any (elemental plane of fire)
-
-Organization: Solitary, pair, group (3-6) or swarm (7-12)
+| Environment: Any (elemental plane of fire) |
+| --- |
+| Organization: Solitary, pair, group (3-6) or swarm (7-12) |
 
 **Treasure Category**: J
-
 **Description**
 Mephits are the servants of powerful elemental creatures. The key sites and locations of the elemental planes are filled with mephits bustling to perform an important duty or task.
 
@@ -29764,12 +28729,11 @@ Magma mephits are commonly found on the Plane of Fire. These mephits are stupid 
 
 **Ecology**
 
-Environment: Warm Hills and Swamps
-
-Organization: Solitary, pair, or pack (3-6)
+| Environment: Warm Hills and Swamps |
+| --- |
+| Organization: Solitary, pair, or pack (3-6) |
 
 **Treasure Category**: C
-
 **Description**
 Manticores are fierce predators that patrol large territories in search of fresh meat. A typical manticore is about 3 meters long and weighs about 500 kg. Some have a head resembling that of a human, usually bearded. Males and females are very similar.
 
@@ -29782,7 +28746,7 @@ Although manticores are similar to magical creations, they have long been counte
 - **Ability**: Str 4 Dex 5 Con 5 Int 4 Wis 3 Cha 5
 - **Hit Points**: 319,  **Defense:** 38,  **Initiative:** +5
 - **Movement**: 12 m
-- **Saving Throws**: Fortitude +21, Reflex +21, Will +19
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +21, Reflex +21, Will +19
 - **Damage Resistance**: Cold, Lightning, Fire
 - **Damage Immunity**: Poison, +1 weapons
 - **Vulnerability**: cold iron, Light
@@ -29818,12 +28782,11 @@ Although manticores are similar to magical creations, they have long been counte
 
 **Ecology**
 
-Environment: Any (Abyss)
-
-Organization: Solitary, pair or platoon (1 marilith, 1-3 Glabrezu and 3-14 Babau)
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary, pair or platoon (1 marilith, 1-3 Glabrezu and 3-14 Babau) |
 
 **Treasure Category**: C
-
 **Description**
 Sovereigns of demonic hordes and queens of abyssal nations, the fearsome mariliths serve the demon lords as rulers, advisors, and even lovers, yet their supremacy as strategists makes them particularly in demand as generals and commanders of armies. The most powerful mariliths serve no one and instead command famished demonic legions.
 
@@ -29864,12 +28827,11 @@ If the medusa sees its reflection on a reflective surface within 9 meters of it 
 
 **Ecology**
 
-Environment: Temperate swamps and underground
-
-Organization: Solitary
+| Environment: Temperate swamps and underground |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: Dagger, Perfect Longbow with 20 Arrows, F
-
 **Description**
 Medusas are creatures resembling humans with snakes for hair. From a distance of 9 meters or more, a medusa can easily pass for a beautiful woman if she wears something that covers her serpentine hair; when wearing clothing that conceals her head and face, she can be mistaken for a human even at close range. Medusas use lies and disguises to conceal their faces until opponents are close enough to use their petrifying gaze, though they enjoy playing with their prey and may use flaming arrows to trap enemies at a distance. Some enjoy creating intricate decorations with their victims, using petrification to add a certain touch to their swampy hideouts, but many medusas take care to hide evidence of their previous encounters so that their new enemies don't realize their dangerous presence.
 
@@ -29882,7 +28844,7 @@ All medusas are female. Rarely, a medusa decides to take a male humanoid as a co
 - **Ability**: Str -1 Dex 4 Con 0 Int 6 Wis 1 Cha 10
 - **Hit Points**: 15,  **Defense:** 16,  **Initiative:** +6
 - **Movement**: 6 m, fly 18 m, hover
-- **Saving Throws**: Fortitude +30, Reflex +34, Will +30
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +30, Reflex +34, Will +30
 - **Skills**: all +20
 - **Immunities**: to damage from weapons with magical bonus less than +6
 - **Immunities**: to any effect, damage, condition La Topi doesn't like
@@ -29910,12 +28872,11 @@ All medusas are female. Rarely, a medusa decides to take a male humanoid as a co
 
 **Ecology**
 
-Environment: Anywhere, Markets
-
-Organization: Solitary
+| Environment: Anywhere, Markets |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: Special
-
 **Description**
 She might be mistaken for a small white mouse, but La Topi is much more. Clever, intelligent, beautiful, she loves going to the market and buying handbags.
 
@@ -29949,12 +28910,11 @@ She might be mistaken for a small white mouse, but La Topi is much more. Clever,
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary
+| Environment: Any |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: Incidental (A)
-
 **Description**
 Mimics are believed to be the result of an alchemist's attempt to bring an inanimate object to life through the application of a mystical reagent, the formula for which has been lost. Over the years, these strange but intelligent creatures have learned the ability to transform into simulacra of manufactured objects, particularly in places frequented by a small number of creatures, where their chances of success with an attack on their victims increase.
 
@@ -29989,12 +28949,11 @@ A typical mimic has a volume of 7 cubic feet (3 ft by 3 ft by 7 ft) and weighs a
 
 **Ecology**
 
-Environment: Temperate Ruins and Dungeons
-
-Organization: Solitary, pair, or group (3-4)
+| Environment: Temperate Ruins and Dungeons |
+| --- |
+| Organization: Solitary, pair, or group (3-4) |
 
 **Treasure Category**: Greataxe, O +1 potion
-
 **Description**
 Despised by civilized races and created centuries ago by a divine curse, minotaurs hunt, kill, and devour humanoids to punish real or perceived offenses, from time immemorial. Most cultures have legends about how they were created by vengeful deities who punished humans by deforming their appearance, taking away their beauty and intelligence, and endowing them with bull heads. However, modern minotaurs despise these legends, considering themselves models of divine perfection created by the demon lord Baphomet.
 
@@ -30032,7 +28991,7 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 - **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 4 Cha 3
 - **Hit Points**: 294,  **Defense:** 32,  **Initiative:** +0
 - **Movement**: 20 ft
-- **Saving Throws**: Fortitude +18, Reflex +15, Will +19
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +18, Reflex +15, Will +19
 - **Skills**: Religion +5, History +5
 - **Damage Imm.**: from Void, Poison; +1 weapons
 - **Condition Imm.**: charmed, paralyzed, exhausted, frightened
@@ -30094,12 +29053,11 @@ The mummy lord can take 3 Legendary Actions, choosing from the options below. It
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary, Group (3-6) or Mausoleum (7-12)
+| Environment: Any |
+| --- |
+| Organization: Solitary, Group (3-6) or Mausoleum (7-12) |
 
 **Treasure Category**: T + U
-
 **Description**
 Many cultures practice the sacred art of mummification, though the sinister magical techniques used to imbue corpses with undead vitality are far less common. In some ancient lands, such blasphemous techniques have been refined through centuries of ceremony and countless deaths, resulting in mummies of terrible power. On rare occasions, if the deceased was of high rank and excessive wickedness, they might undergo such elaborate rituals, rising from the tomb as a fearsome mummy lord. Similarly, a ruler known for malice or who died in a moment of great anger might present themselves spontaneously as a vengeful despot. Regardless of the exact circumstances of its resurrection, a mummy lord retains the abilities it had in life, becoming a creature consumed by the desire to restore its dominion and rule over both the living and the dead.
 
@@ -30108,7 +29066,7 @@ Many cultures practice the sacred art of mummification, though the sinister magi
 - **Ability**: Str 5 Dex 0 Con 6 Int 4 Wis 1 Cha 2
 - **Hit Points**: 264,  **Defense:** 29,  **Initiative:** +4
 - **Movement**: 6 m, flight 9 m
-- **Saving Throws**: Fortitude +19, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +19, Reflex +13, Will +14
 - **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
 - **Damage Immunity**: Poison
 - **Vulnerability**: cold iron, Light
@@ -30144,12 +29102,11 @@ If a creature's Saving Throw is successful or the effect ends for it, the creatu
 
 **Ecology**
 
-Environment: Any (Abyss)
-
-Organization: Solitary or war band (1 nalfeshnee, 1 Hezrou, and 2-5 Vrock)
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary or war band (1 nalfeshnee, 1 Hezrou, and 2-5 Vrock) |
 
 **Treasure Category**: G
-
 **Description**
 Few demons understand the internal mechanics that govern the Abyss as well as nalfeshnees, and it is not uncommon for these demons to serve the Abyss itself rather than a demon lord. Some oversee the organic realms that generate new demons, while others guard places of particular importance in the hidden recesses of the plane. Often, a nalfeshnee's realm in the Abyss is superior in forces and dimensions to the largest of mortal kingdoms, as these demons have a natural predisposition to govern and impose a sort of order on the chaos of the Abyss. Mortal summoners often call upon them for their insane but unparalleled intellect, carefully examining agreements made with these demons to avoid any hidden consequences and unintended outcomes, as a nalfeshnee rarely accepts anything that, in some twisted way, does not allow it to satisfy the needs and desires of the Abyss.
 
@@ -30210,12 +29167,11 @@ At will: *Arcane dart, Detect Magic* 2/day each: *Ray of Enfeeblement, Sleep*
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary
+| Environment: Any |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: None
-
 **Description**
 Nightmares are flaming messengers of death. They allow only the most evil creatures to ride them, and they are never merely mounts, but collaborate in the destruction caused by their riders.
 
@@ -30247,12 +29203,11 @@ Nightmares are flaming messengers of death. They allow only the most evil creatu
 
 **Ecology**
 
-Environment: Temperate Dungeons or Swamps
-
-Organization: Solitary
+| Environment: Temperate Dungeons or Swamps |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: None
-
 **Description**
 Ochre Jellies are animated masses of protoplasm colored like a repulsive amalgam of yellow, orange, and brown. When at rest, their flat, pulsating body is about 6 inches high and extends all around; in motion, they gather into a roughly spherical shape and almost seem to move by rolling. Their malleable bodies allow them to squeeze through cracks and holes much smaller than the space they occupy. Creatures that live underground often seal all openings to defend against Ochre Jellies.
 
@@ -30284,12 +29239,11 @@ Although the typical Ochre Jelly has the statistics presented here, in the depth
 
 **Ecology**
 
-Environment: Cold or temperate hills
-
-Organization: Solitary, pair, group (3-4) or family (5-16)
+| Environment: Cold or temperate hills |
+| --- |
+| Organization: Solitary, pair, group (3-4) or family (5-16) |
 
 **Treasure Category**: Leather Armor, Greatclub, 4 Javelins, J
-
 **Description**
 Stories about ogres contain horrific elements: brutality and ferocity, cannibalism and torture. Then rape, dismemberment, necrophilia, incest, mutilation, and other examples of cruelty. Those who have never encountered ogres consider these stories a warning. Those who have survived such an encounter know that the stories are nothing compared to reality.
 
@@ -30390,12 +29344,11 @@ At will: *Invisibility, Darkness*
 
 **Ecology**
 
-Environment: Temperate hills and mountains or underground
-
-Organization: solitary, group (2-4), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level) or band
+| Environment: Temperate hills and mountains or underground |
+| --- |
+| Organization: solitary, group (2-4), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level) or band |
 
 **Treasure Category**: NPC Equipment (Studded Leather Armor, Sword, 4 Javelins, M)
-
 **Description**
 Orcs are a race created by Cattalm as an experiment to verify whether a more intelligent but equally ferocious creature than ogres could be dominant.
 The experiment was a moderate success with orcs founding kingdoms and conquering several regions. The chaotic drive over time, acculturation, becoming sedentary, and the evolution of society has led orcs increasingly away from Cattalm's coils, although it doesn't remove the fact that many barbaric aspects have remained in the traditional culture.
@@ -30426,12 +29379,11 @@ An adult male orc is 1.6 meters tall and weighs about 60 kg. A peculiar characte
 
 **Ecology**
 
-Environment: Temperate hills and mountains or underground
-
-Organization: solitary, group (2-4), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level) or band
+| Environment: Temperate hills and mountains or underground |
+| --- |
+| Organization: solitary, group (2-4), squad (11-20 plus 2 sergeants of 3rd level and 1 leader of 3rd-6th level) or band |
 
 **Treasure Category**: NPC Equipment (Studded Leather Armor, Glaive, 4 Javelins, K)
-
 **Description**
 The main difference between orcs and civilized humanoids, in addition to their brute strength and lower intelligence, is their character. As a culture, orcs are violent and aggressive, and the strong dominate the weak through fear and brutality. They take what they want by force and have no qualms about taking entire villages as slaves if they have the opportunity. They don't care about comforts, and their villages and camps tend to be dirty and precarious places, full of drunken brawls, fighting arenas, and other sadistic entertainments. Lacking the patience necessary to cultivate and capable of breeding only the most robust and self-sufficient animals, orcs find it simpler to take from others the fruit of their labor. They are arrogant and quick to rage when challenged, but they care about honor only as long as doing so benefits them.
 
@@ -30444,7 +29396,7 @@ While the common saying is that orcs were created by Cattalm to destroy and brin
 - **Ability**: Str 8 Dex 2 Con 7 Int 5 Wis 5 Cha 7
 - **Hit Points**: 519,  **Defense:** 48,  **Initiative:** +5
 - **Movement**: 15 meters, fly 15 meters
-- **Saving Throws**: Fortitude +33, Reflex +28, Will +31
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +33, Reflex +28, Will +31
 - **Skills**: all +13
 - **Damage Res.**: Cold, Electricity, Fire
 - **Damage Imm.**: Void, Poison; weapons +2
@@ -30490,12 +29442,11 @@ Orcus can take 3 additional actions, chosen from those below, and only one per r
 
 **Ecology**
 
-Environment: Abyss
-
-Organization: Unique
+| Environment: Abyss |
+| --- |
+| Organization: Unique |
 
 **Treasure Category**: Z
-
 **Description**
 Orcus is the Demon Prince of the undead. He prefers the company and service of the undead. He wishes to see all life disappear and transform into a gigantic necropolis of undead under his command. Orcus has the head and legs of a goat, horns similar to a ram's, a bloated body, bat wings, and a long tail.
 
@@ -30531,12 +29482,11 @@ This reduction in the character's maximum Hit Points persists until the disease 
 
 **Ecology**
 
-Environment: Any Underground
-
-Organization: Solitary, pair, or group (3-4)
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary, pair, or group (3-4) |
 
 **Treasure Category**: I
-
 **Description**
 Otyughs are particularly dirty and horrid creatures that live in places that sane people tend to avoid. Their lairs are found in sewers, cesspools, garbage dumps, and the most fetid swamps: the dirtier a place is, the more it attracts otyughs. They love the role of scavenger and wander through underground caves in search of new morsels amid the waste. Once found, they gorge themselves and bring back to their lair what they can't consume in one sitting. Otyughs spend a lot of time in their filthy lairs, which they fill with carrion and manure, releasing foul effluvia.
 
@@ -30573,7 +29523,6 @@ An otyugh, by eating the excrement or part of a creature, can understand what di
 | --- |
 
 **Treasure Category**: Incidental
-
 **Description**
 The origins of the Owlbear are a subject of debate among scholars of monstrous creatures. Most of them agree that it was a Wizard, in the past, who created the first specimen by combining a bear with a giant owl; perhaps as an experiment on some crazy concept of the nature of life, but more likely because of his complete madness. Whatever the original purpose of such a crazy creation as the Owlbear, the creature began to reproduce, and has become one of the best-known predators of wooded areas.
 
@@ -30593,7 +29542,7 @@ This Owlbear is present in arctic regions or snowy mountains. Unlike the normal 
 - **Ability**: Str 0 Dex 1 Con 2 Int 3 Wis 2 Cha 2
 - **Hit Points**: 235,  **Defense:** 29,  **Initiative:** +3
 - **Movement**: 1 m, flight 10 meters, hover
-- **Saving Throws**: Fortitude +14, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +13, Will +14
 - **Senses**: Darkvision 36 m, truesight 18m
 - **Languages**: telepathy 50 m
 - **Challenge**: 12 (8400 XP)
@@ -30630,12 +29579,11 @@ This Owlbear is present in arctic regions or snowy mountains. Unlike the normal 
 
 **Ecology**
 
-Environment: Any Underground
-
-Organization: Solitary, pair
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary, pair |
 
 **Treasure Category**: H
-
 **Description**
 Panoptikhans are xenophobic aberrations, balls of hard flying flesh equipped with a large central eye, a large mouth, and 7 tentacles about 1 meter long, each with an eye (about 10 cm in diameter) of different color.
 
@@ -30661,12 +29609,11 @@ Panoptikhans have a very long life, on the order of a thousand years, but there 
 
 **Ecology**
 
-Environment: Temperate and Warm Plains
-
-Organization: Solitary, pair, or herd (6-10)
+| Environment: Temperate and Warm Plains |
+| --- |
+| Organization: Solitary, pair, or herd (6-10) |
 
 **Treasure Category**: None
-
 **Description**
 The pegasus is a magnificent winged horse that sometimes serves the cause of good. Although highly prized as flying mounts, pegasi are shy creatures that rarely form friendships. A typical pegasus is 1.8 meters tall at the withers, weighs 750 kg, and has a wingspan of 6 meters. Most pegasi are white, but sometimes some specimens have different colors.
 
@@ -30687,7 +29634,7 @@ Pegasi and Unicorns were saved from Calicante's fury towards *horses* only by Lj
 - **Ability**: Str 8 Dex 6 Con 5 Int 5 Wis 6 Cha 6
 - **Hit Points**: 300,  **Defense:** 38,  **Initiative:** +6
 - **Movement**: 9 m, fly 27 m (good)
-- **Saving Throws**: Fortitude +20, Reflex +21, Will +21
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +20, Reflex +21, Will +21
 - **Damage Imm.**: Fire, Light, Poison, +1 weapons
 - **Immunities**: grappled, restrained, paralyzed, petrified, prone, unconscious, fatigued, bleeding
 - **Senses**: Darkvision 18 m, Twilight Vision 18 m
@@ -30729,12 +29676,11 @@ The Phoenix can transform its feathers into flame without using Actions. These f
 
 **Ecology**
 
-Environment: Deserts and warm hills
-
-Organization: Solitary
+| Environment: Deserts and warm hills |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: None
-
 **Description**
 Legend has it that Phoenixes are the companion birds of Ljust; they are certainly majestic and beautiful creatures that emanate a Light similar to that of the Patron of Genesis. The movement of their wings produces no sound while their voice is song. The phoenix is a legendary bird of fire and light that usually lives in deserts. They are very intelligent and wise creatures, and sometimes using their metamorphosis ability, they visit cities where they help those who fight against darkness.
 
@@ -30745,7 +29691,7 @@ Legend says that phoenixes are generated when a Knight of Sumkjir or a Disciple 
 - **Ability**: Str 8 Dex 2 Con 7 Int 6 Wis 4 Cha 7
 - **Hit Points**: 403,  **Defense:** 40,  **Initiative:** +6
 - **Movement**: 9 m, flight 18 m
-- **Saving Throws**: Fortitude +27, Reflex +22, Will +24
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +27, Reflex +22, Will +24
 - **Damage Res.**: Cold;
 - **Damage Imm.**: Fire, Poison, weapons +2
 - **Vulnerabilities**: Light
@@ -30787,12 +29733,11 @@ At will: *Detect Magic, Fireball*
 
 **Ecology**
 
-Environment: Any (Hell)
-
-Organization: Solitary, pair, or council (3-9)
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, or council (3-9) |
 
 **Treasure Category**: G
-
 **Description**
 Pit fiends are powerful infernal rulers, generals of Hell's armies, and advisors to archdevils. With massive bodies and malevolent intellects, they dominate infernal stretches and subjugate mortal worlds. Standing over 4 meters tall and weighing more than 500 kg, they are armored and equipped with imposing wings.
 
@@ -30803,7 +29748,7 @@ Pit fiends gather armies, transforming lemures into true devils and aim to conqu
 - **Ability**: Str 7 Dex 5 Con 7 Int 4 Wis 6 Cha 7
 - **Hit Points**: 325,  **Defense:** 38,  **Initiative:** +5
 - **Movement**: 12 m, fly 36 m
-- **Saving Throws**: Fortitude +23, Reflex +21, Will +22
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +23, Reflex +21, Will +22
 - **Skills**: Awareness +13
 - **Damage Res.**: Light;
 - **Immunities**: charmed, exhausted, frightened, +1 weapons
@@ -30841,12 +29786,11 @@ At will: *Know Traits*, *Invisibility* (self only)
 
 **Ecology**
 
-Environment: Any plane with good Traits
-
-Organization: Solitary or pair
+| Environment: Any plane with good Traits |
+| --- |
+| Organization: Solitary or pair |
 
 **Treasure Category**: Holy Greatsword +3
-
 **Description**
 Planetars are the generals of celestial armies dedicated to destroying evil. A planetar is typically 2.7 meters tall and weighs about 250 kg. They are excellent diplomats, but against fiends they prefer war rather than negotiating peace.
 
@@ -30867,12 +29811,11 @@ Planetars are the generals of celestial armies dedicated to destroying evil. A p
 
 **Ecology**
 
-Environment: Warm Aquatic
-
-Organization: Solitary, pair or pack (3-6)
+| Environment: Warm Aquatic |
+| --- |
+| Organization: Solitary, pair or pack (3-6) |
 
 **Treasure Category**: None
-
 **Description**
 The plesiosaur is a long-necked aquatic reptile. Although technically not a dinosaur, this creature and its kind are often found hunting in lakes and oceans where dinosaurs are commonly found.
 
@@ -30903,12 +29846,11 @@ The plesiosaur is a long-necked aquatic reptile. Although technically not a dino
 
 **Ecology**
 
-Environment: Temperate forests
-
-Organization: Solitary, pair, or nest (3-5)
+| Environment: Temperate forests |
+| --- |
+| Organization: Solitary, pair, or nest (3-5) |
 
 **Treasure Category**: R
-
 **Description**
 Pseudodragons are small relatives of true dragons, playful and shy. They communicate by chirping, hissing, growling, and purring, but can communicate telepathically with any intelligent creature. If approached peacefully with offerings of food, they are willing to share information about what is in their territory, but threats and violence make them flee.
 
@@ -30921,7 +29863,7 @@ Upon reaching adulthood, a pseudodragon's body is 30 centimeters long with a 60-
 - **Ability**: Str 9 Dex -2 Con 6 Int -5 Wis -1 Cha -3
 - **Hit Points**: 303,  **Defense:** 30,  **Initiative:** -2
 - **Movement**: 15 m, burrow 9 m
-- **Saving Throws**: Fortitude +21, Reflex +13, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +21, Reflex +13, Will +14
 - **Senses**: Blindsight 9 m, tremorsense 18 m
 - **Challenge**: 15 (13000 XP)
 
@@ -30945,12 +29887,11 @@ If the worm takes 30 or more damage in a single round from a creature inside it,
 
 **Ecology**
 
-Environment: Any underground
-
-Organization: Solitary
+| Environment: Any underground |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: Incidental
-
 **Description**
 Purple worms are gigantic scavengers that inhabit the deepest regions of the world, eating any organic material they encounter. They are known for swallowing their prey whole. It's not unusual to hear of a group of adventurers disappearing inside the voracious jaws of a purple worm, screaming in terror as its members vanished one by one.
 
@@ -30986,12 +29927,11 @@ A purple worm generally claims a large underground cavern as its lair, and altho
 
 **Ecology**
 
-Environment: Any (Abyss)
-
-Organization: Solitary or swarm (2-12)
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary or swarm (2-12) |
 
 **Treasure Category**: None
-
 **Description**
 The quasit is perhaps the least powerful demon, but it is not among the least respected: even quasits consider themselves superior to the hordes of Dretch and, true to their nature, the Dretch lack the courage or incentive to prove them wrong. The primary role in life of a quasit is that of a familiar in service to a spellcaster, but those quasits that escape this humiliating servitude acquire a will of their own and are much more dangerous. A typical quasit is 45 centimeters tall and weighs only 4 kg.
 
@@ -31004,7 +29944,7 @@ Newly created quasits come to life directly in the Material Plane, where they be
 - **Ability**: Str 2 Dex 3 Con 4 Int 1 Wis 3 Cha 5
 - **Hit Points**: 259,  **Defense:** 32,  **Initiative:** +3
 - **Movement**: 12 m
-- **Saving Throws**: Fortitude +17, Reflex +16, Will +16
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +17, Reflex +16, Will +16
 - **Skills**: Deception +10, Sense Emotions +8
 - **Damage Imm.**: bludgeoning, +1 weapons
 - **Senses**: Darkvision 18 m
@@ -31029,12 +29969,11 @@ At will: *Disguise Self, Minor Illusion, Detect Thoughts, Mage Hand*
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary, pair, or cult (3-12)
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, or cult (3-12) |
 
 **Treasure Category**: +1 Dagger, I
-
 **Description**
 The rakshasa is an evil spirit that disguises itself as a humanoid creature so it can pursue its prey incognito. Personification of the taboos of most societies and capable of assuming the appearance of those it seeks to corrupt, a rakshasa performs many horrible actions. If they were human, their blasphemy, cannibalism, and even worse acts would mark them as criminals worthy of the cruelest of hells.
 
@@ -31064,9 +30003,9 @@ A rakshasa is 5.9 feet tall and weighs 198 pounds.
 
 **Ecology**
 
-Environment: Warm mountains
-
-Organization: Solitary
+| Environment: Warm mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
 See Ancient Red Dragon Description.
@@ -31076,7 +30015,7 @@ See Ancient Red Dragon Description.
 - **Ability**: Str 7 Dex 1 Con 5 Int -3 Wis 0 Cha -3
 - **Hit Points**: 224,  **Defense:** 27,  **Initiative:** +1
 - **Movement**: 30 ft, burrow 20 ft
-- **Saving Throws**: Fortitude +16, Reflex +12, Will +11
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +16, Reflex +12, Will +11
 - **Senses**: Darkvision 60 ft, tremorsense 60 ft
 - **Challenge**: 11 (7200 XP)
 
@@ -31096,12 +30035,11 @@ If the remorhaz takes 30 or more damage in a single round from a creature inside
 
 **Ecology**
 
-Environment: Cold Deserts and Glaciers
-
-Organization: Solitary
+| Environment: Cold Deserts and Glaciers |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: None
-
 **Description**
 In a world of ice and snow, remohrazes are particularly feared for the terrible fire that burns within their bodies. This inner fire causes plates along their back to become red-hot when the creature is particularly angry, excited, or panicked. Creatures that have adapted to arctic regions are often particularly vulnerable to fire, which makes the remorhaz's primary defense incredibly powerful and ensures its role as a dangerous predator of icy regions. Remohrazes live in extensive labyrinths dug into the heart of glaciers. These beasts use their heat to dig tunnels in the ice, tunnels whose smooth glassy walls quickly refreeze along their trail, creating numerous incredibly stable mazes.
 
@@ -31151,12 +30089,11 @@ If the object touched is metal armor or a metal shield being worn or carried, it
 
 **Ecology**
 
-Environment: Any Underground
-
-Organization: Solitary, pair, or nest (3-10)
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary, pair, or nest (3-10) |
 
 **Treasure Category**: Incidental (no metal treasure)
-
 **Description**
 Of all the terrifying beasts an explorer might encounter underground, the rust monster is the one that aims for the adventurer's treasure. About three feet long and weighing at least 220 pounds, the rust monster resembles a crustacean, and its alien nutritional process makes it even more frightening.
 
@@ -31199,12 +30136,11 @@ Fortunately, it's often possible to escape the attention of a rust monster by th
 
 **Ecology**
 
-Environment: Temperate or Warm Oceans
-
+| Environment: Temperate or Warm Oceans |
+| --- |
 
 Organization: Solitary, pair, team (5-8), patrol (11-20 plus 1 lieutenant of 3rd level and 1-2 Sharks), band (20-80 plus 100\% non-combatants, 1 lieutenant of 3rd level and 1 captain of 4th level per 20 adults, and 1-2 Sharks) or tribe (70-160 plus 100\% non-combatants, 1 lieutenant of 3rd level per 20 adults, 1 captain of 4th level per 40 adults, 9 guards of 4th level, 1-4 novices of 3rd-6th level, 1 priestess of 7th level, 1 baron of 6th-8th level, and 5-8 Sharks)
 **Treasure Category**: NPC Equipment (Trident, Heavy Crossbow with 10 Bolts, L)
-
 **Description**
 Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous oceanic races. Great cities have been built by this race in the dark depths of ocean trenches, and some fortresses rise near the shores from where they launch continuous assaults against the air-breathing enemies that live near the shore. Proud and warlike, sahuagin rarely ally with others, and see other aquatic races, such as aboleth, merfolk and the like as competitors. The only creatures they seem to respect beyond their own kind are sharks; in these relentless predators, the sahuagin see much of themselves. A sahuagin is 7 feet tall and weighs about 275 pounds.
 
@@ -31241,12 +30177,11 @@ Sahuagin are subject to genetic mutations, and when a mutant is born, it almost 
 
 **Ecology**
 
-Environment: Any (Plane of Fire)
-
-Organization: Solitary, pair or group (3-5)
+| Environment: Any (Plane of Fire) |
+| --- |
+| Organization: Solitary, pair or group (3-5) |
 
 **Treasure Category**: Standard (Spear, P)
-
 **Description**
 Salamanders are native to the Plane of Fire, where their legions of fierce fighters are much feared by other inhabitants of the Plane. Because many of the strongest Fire Elemental Races Enslave Salamanders for their Skill in metallurgy and combat ability, Salamanders hate Efreet and others with fervor.
 
@@ -31282,12 +30217,11 @@ Living in such extreme areas, Salamanders possess only treasures that withstand 
 
 **Ecology**
 
-Environment: Temperate Forests
-
-Organization: Solitary, pair, band (3-6) or revel (7-11)
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary, pair, band (3-6) or revel (7-11) |
 
 **Treasure Category**: Dagger, Short Bow plus 20 Arrows, perfect pan flute, S
-
 **Description**
 Satyrs, known in many regions as fauns, are debauched and hedonistic creatures from the deeper and more primordial parts of the forests. They worship wine, music, and the pleasures of the flesh, and are renowned as libertines and dandies who court unsuspecting maidens and shepherds and leave behind a trail of embarrassing explanations and unwanted pregnancies.
 
@@ -31334,12 +30268,11 @@ Children born from these encounters are always full-blooded satyrs and are gener
 
 **Ecology**
 
-Environment: Any Underground
-
-Organization: Solitary, pair, or group (3-6)
+| Environment: Any Underground |
+| --- |
+| Organization: Solitary, pair, or group (3-6) |
 
 **Treasure Category**: D
-
 **Description**
 The scourger is an ambush hunter. Capable of modifying the coloration and shape of its body, a hidden scourger looks like a stalagmite of stone or ice (or in places with low ceilings, a column of stone or ice). In areas without these features to hide in, a scourger can compress its body to look like a boulder. The whips it can extrude are not flesh but a thick, semi-liquid material similar to partially melted wax but with the strength of an iron chain and the ability to numb flesh and weaken strength. The scourger can use these whips with great skill and make them fly up to 15 meters to steal objects that attract its attention.
 
@@ -31374,12 +30307,11 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 
 **Ecology**
 
-Environment: any aquatic
-
-Organization: solitary or coven (3 hags of any kind)
+| Environment: any aquatic |
+| --- |
+| Organization: solitary or coven (3 hags of any kind) |
 
 **Treasure Category**: R (C)
-
 **Description**
 These wicked, monstrous hags possess terrifying traits that few dare to gaze upon, they take pleasure in the discord and death of sailors, and torment seafarers with inescapable calamities. Sea hags always have a terrible appearance and, despite their voracious nature, they are generally emaciated creatures that seem about to starve to death. They are 1.8 meters tall and weigh 75 kg.
 
@@ -31420,12 +30352,11 @@ If a non-evil humanoid dies from this attack, a new shadow rises from its corpse
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary, pair, group (3-6) or swarm (7-12)
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, group (3-6) or swarm (7-12) |
 
 **Treasure Category**: None
-
 **Description**
 The evil shadow moves along the border between the darkness of the shadows and the harsh truth of light. The shadow prefers to haunt the ruins that civilization leaves behind, where it hunts living creatures foolish enough to stumble into its territory. The shadow is a horrible undead, and as such has no apparent purposes or motivations beyond sucking life force and vitality from living beings.
 
@@ -31456,12 +30387,11 @@ The evil shadow moves along the border between the darkness of the shadows and t
 
 **Ecology**
 
-Environment: Temperate Forests or Swamps
-
-Organization: Solitary
+| Environment: Temperate Forests or Swamps |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: A
-
 **Description**
 Shambling mounds, also called simply shamblers, look like masses of rotting vegetation. They are intelligent carnivorous plants, with a weakness for elven flesh. The brain and sensory organs are located in the upper part of the body. Shambling mounds usually have a circumference of 2.3 meters and are 1.8 to 2.7 meters tall. They weigh about 1,900 kg.
 
@@ -31515,12 +30445,11 @@ Shambling mounds usually lead a nomadic and solitary existence in deep forests a
 
 **Ecology**
 
-Environment: Any underground
-
-Organization: Solitary, pair, or patch (3-12)
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, pair, or patch (3-12) |
 
 **Treasure Category**: Incidental
-
 **Description**
 A shrieking fungus is about 50 cm tall, with a broad brown cap. Once it has emitted a shriek, the cap reinflates in 1d3 minutes.
 
@@ -31552,12 +30481,11 @@ It is said that cooks of the depths specialize in cooking these mushrooms into e
 
 **Ecology**
 
-Environment: Any (Abyss)
-
-Organization: Small groups (3-6)
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Small groups (3-6) |
 
 **Treasure Category**: P
-
 **Description**
 "...Their faces had something strange about them, they were like... blurred, it was the only part of their body that I couldn't bring into focus. Surprised by the strangeness, I blinked several times and concentrated my gaze on the faces of both. I felt a strange tingling on my face and then my vision cleared.
 I widened my eyes and stepped back, as terror took hold of me. Their faces weren't human. They both had grayish, wrinkled skin, a flattened nose and long canines protruding from their mouths, large ears and small, black eyes. It looked like the muzzle of a bat."
@@ -31588,12 +30516,11 @@ From *The Guardian of Falkonia*, novel by Federica Angeli
 
 **Ecology**
 
-Environment: Temperate Mountains
-
-Organization: Solitary
+| Environment: Temperate Mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably.
 
@@ -31620,12 +30547,11 @@ Among all dragons, silver dragons are the most courageous, and adhere to a chiva
 
 **Ecology**
 
-Environment: Any
-
-Organization: Any
+| Environment: Any |
+| --- |
+| Organization: Any |
 
 **Treasure Category**: None (Broken Chain Mail, Broken Scimitar)
-
 **Description**
 Skeletons are animated bones of the dead, brought to unlife by sacrilegious magic. For the most part, skeletons are mindless automatons.
 
@@ -31634,7 +30560,7 @@ Skeletons are animated bones of the dead, brought to unlife by sacrilegious magi
 - **Ability**: Str 8 Dex 6 Con 8 Int 7 Wis 7 Cha 10
 - **Hit Points**: 426,  **Defense:** 46,  **Initiative:** +7
 - **Movement**: 15 m, fly 45 m
-- **Saving Throws**: Fortitude +29, Reflex +27, Will +28
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +29, Reflex +27, Will +28
 - **Skills**: Awareness +16
 - **Damage Res.**: Light; Fire, Cold, Electricity
 - **Immunities**: charmed, poisoned, exhausted, frightened, +2 weapons
@@ -31680,12 +30606,11 @@ The solar can take 3 bonus actions, chosen from the options below. It can use on
 
 **Ecology**
 
-Environment: Any plane with good Traits
-
-Organization: Solitary or pair
+| Environment: Any plane with good Traits |
+| --- |
+| Organization: Solitary or pair |
 
 **Treasure Category**: Full Plate +5, Dancing Greatsword +5, Composite Longbow +5
-
 **Description**
 Solars are the most powerful among angels, usually the right hand of deities or champions of important causes. They have an almost human appearance and are about 2.7 meters tall, with silver or golden skin. They are blessed with powerful magical abilities and are capable of killing the strongest evil creatures.
 
@@ -31720,12 +30645,11 @@ Respected by all angels, solars sometimes command armies against the legions of 
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary
+| Environment: Any |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: none
-
 **Description**
 Specters are evil undead that hate sunlight and living beings. Their genesis is often due to the violent death of murderers and evil beings. Like ghosts, specters haunt the places where they died and try to bring others with them.
 
@@ -31768,12 +30692,11 @@ A specter closely resembles how it was in life and can be easily recognized by t
 
 **Ecology**
 
-Environment: Any (Hell)
-
-Organization: Solitary, pair, group (3-5) or platoon (6-11)
+| Environment: Any (Hell) |
+| --- |
+| Organization: Solitary, pair, group (3-5) or platoon (6-11) |
 
 **Treasure Category**: J
-
 **Description**
 Sentinels of the vaults of Hell, jailers of the blackest souls, and living weapons of the infernal forges. A Spined Devil loves to feel warm blood on its spines and prefers to throw itself into the fray when given the opportunity to fight.
 Spined Devils are collectors and organizers. If left to act freely, these devils' hideouts often display the impaled trophies of old victims.
@@ -31784,7 +30707,7 @@ Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lea
 - **Ability**: Str 4 Dex 3 Con 2 Int 3 Wis 2 Cha 3
 - **Hit Points**: 162,  **Defense:** 25,  **Initiative:** +3
 - **Movement**: 40 ft
-- **Saving Throws**: Fortitude +10, Reflex +11, Will +10
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +10, Reflex +11, Will +10
 - **Damage Imm.**: Poison
 - **Condition Imm.**: charmed
 - **Senses**: Darkvision 60 ft
@@ -31870,12 +30793,11 @@ Although sprites themselves have an uncultivated and wild nature, they have a he
 
 **Ecology**
 
-Environment: Any (elemental plane of fire)
-
-Organization: Solitary, pair, group (3-6) or swarm (7-12)
+| Environment: Any (elemental plane of fire) |
+| --- |
+| Organization: Solitary, pair, group (3-6) or swarm (7-12) |
 
 **Treasure Category**: J
-
 **Description**
 Mephits are the servants of powerful elemental creatures. The key sites and locations of the elemental planes are filled with mephits bustling to perform an important duty or task.
 
@@ -31898,12 +30820,11 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 **Ecology**
 
-Environment: Warm and temperate swamps
-
-Organization: Solitary, colony (2-4), flock (5-8), swarm (9-14) or plague (15-40)
+| Environment: Warm and temperate swamps |
+| --- |
+| Organization: Solitary, colony (2-4), flock (5-8), swarm (9-14) or plague (15-40) |
 
 **Treasure Category**: None
-
 **Description**
 Stirges are dangerous bloodsuckers that infest swamps and prey on wildlife, livestock, and unwary travelers. Although individually weak, swarms of these creatures are capable of draining a man in minutes, leaving behind only a desiccated corpse.
 
@@ -31916,7 +30837,7 @@ Stirges are usually about 12 inches long, with a wingspan of about twice that, a
 - **Ability**: Str 6 Dex 2 Con 5 Int 0 Wis 1 Cha -1
 - **Hit Points**: 148,  **Defense:** 23,  **Initiative:** +2
 - **Movement**: 12 m
-- **Saving Throws**: Fortitude +12, Reflex +9, Will +8
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +12, Reflex +9, Will +8
 - **Skills**: Athletics +12
 - **Senses**: Darkvision 18 m
 - **Languages**: Giant
@@ -31944,12 +30865,11 @@ Stirges are usually about 12 inches long, with a wingspan of about twice that, a
 
 **Ecology**
 
-Environment: Temperate mountains
-
-Organization: Solitary, group (2-5), band (4-8), hunting party (9-12 plus 1 Elder) or tribe (13-30 plus 35\% noncombatants, 1-3 Elders and 4-6 Dire Bears)
+| Environment: Temperate mountains |
+| --- |
+| Organization: Solitary, group (2-5), band (4-8), hunting party (9-12 plus 1 Elder) or tribe (13-30 plus 35\% noncombatants, 1-3 Elders and 4-6 Dire Bears) |
 
 **Treasure Category**: Giant Greatclub, P
-
 **Description**
 Stone giants prefer thick leather garments, dyed in shades of brown and gray to blend in with the stone that surrounds them. Adults are about 3.6 meters tall, weigh around 750 kg, and can live up to 800 years.
 
@@ -31964,7 +30884,7 @@ Older stone giants tend to move away from the tribe for long periods, to live in
 - **Ability**: Str 6 Dex -1 Con 5 Int -4 Wis 0 Cha -5
 - **Hit Points**: 205,  **Defense:** 24,  **Initiative:** -1
 - **Movement**: 9 m
-- **Saving Throws**: Fortitude +15, Reflex +9, Will +10
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +9, Will +10
 - **Damage Imm.**: Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: Darkvision 36 m
@@ -31993,12 +30913,11 @@ Older stone giants tend to move away from the tribe for long periods, to live in
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary or group (2-4)
+| Environment: Any |
+| --- |
+| Organization: Solitary or group (2-4) |
 
 **Treasure Category**: None
-
 **Description**
 A stone golem has a humanoid body made of stone, often stylized to suit its creator. For example, it can be sculpted to appear wearing armor, with special symbols carved on the breastplate, or have designs inlaid in the stone of its limbs. The head is often carved to look like a helmet or the head of some beast. Although it may be sculpted with a shield or a stone weapon such as a sword, these aesthetic choices do not affect its combat abilities.
 
@@ -32014,7 +30933,7 @@ The body of a stone golem is carved from a single block of hard stone, such as g
 - **Ability**: Str 9 Dex 2 Con 5 Int 3 Wis 4 Cha 4
 - **Hit Points**: 262,  **Defense:** 31,  **Initiative:** +3
 - **Movement**: 15 m, swim 15 m
-- **Saving Throws**: Fortitude +18, Reflex +15, Will +17
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +18, Reflex +15, Will +17
 - **Skills**: Arcana +8, Athletics +14, History +8
 - **Damage Res.**: Cold
 - **Damage Imm.**: Lightning, Thunder
@@ -32049,12 +30968,11 @@ At will: *Feather Fall, detect magic,* *levitation, Light*
 
 **Ecology**
 
-Environment: Any warm
-
-Organization: Solitary or family (2-5 plus 1 wizard or Devotee of 7th-10th level, 1-2 Rocs, 2-6 Griffons and 2-8 Sharks)
+| Environment: Any warm |
+| --- |
+| Organization: Solitary or family (2-5 plus 1 wizard or Devotee of 7th-10th level, 1-2 Rocs, 2-6 Griffons and 2-8 Sharks) |
 
 **Treasure Category**: Perfect Plate Armor, Perfect Composite Longbow [Strength +9] with 20 Arrows, Perfect Greatsword, H
-
 **Description**
 Storm giants tend to have tanned complexions, though rare specimens have purple skin, purple or dark blue hair, and silver-gray or purple eyes. The color purple is considered auspicious among storm giants, and those who possess it tend to become leaders among their people. Adults are normally 6.3 meters tall and weigh 6000 kg. Storm giants can live up to 600 years.
 
@@ -32095,12 +31013,11 @@ The fiend can only have one target charmed at a time. If it charms another, the 
 
 **Ecology**
 
-Environment: Any (Abyss)
-
-Organization: Solitary, pair, or harem (3-12)
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary, pair, or harem (3-12) |
 
 **Treasure Category**: I
-
 **Description**
 Among the demonic hordes, a succubus can often reach very high levels of power, using her manipulations and sensual charm, and many demonic wars rage because of the subtle machinations of these creatures. A succubus originates from the souls of particularly libidinous and greedy evil mortals.
 
@@ -32109,7 +31026,7 @@ Among the demonic hordes, a succubus can often reach very high levels of power, 
 - **Ability**: Str 10 Dex 0 Con 10 Int -2 Wis 0 Cha 0
 - **Hit Points**: 615,  **Defense:** 52,  **Initiative:** +0
 - **Movement**: 80 ft
-- **Saving Throws**: Fortitude +40, Reflex +30, Will +30
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +40, Reflex +30, Will +30
 - **Dmg. Imm.**: Fire, Poison, Electricity; +2 weapons
 - **Immunities**: charmed, paralyzed, frightened, fatigued
 - **Senses**: Blindsight 120 ft
@@ -32161,12 +31078,11 @@ The Tarrasque can take 3 Legendary Actions, choosing from the options below. It 
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary
+| Environment: Any |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: None
-
 **Description**
 The legendary Tarrasque is among the most destructive monsters in the world. Fortunately, it spends most of its time in a kind of deep slumber in an unknown cavern in some remote corner of the world. When it awakens, however, entire kingdoms die.
 
@@ -32197,12 +31113,11 @@ Legend says that the Tarrasque is Cattalm's pet.
 
 **Ecology**
 
-Environment: Any underground
-
-Organization: Solitary, pair, tribe (8-12 +3d6 young)
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, pair, tribe (8-12 +3d6 young) |
 
 **Treasure Category**: Incidental
-
 **Description**
 A typical Tentacled Crawler Worm is an annelid almost 3 meters long and weighs about 400 kilograms. Dark in color (various shades from blue to green to brown), it is a wide worm equipped with a powerful mouth and long, light tentacles all along its head.
 
@@ -32217,7 +31132,7 @@ The origins of the Tentacled Crawler Worms are rather speculative; some hypothes
 - **Ability**: Str 6 Dex -1 Con 5 Int 1 Wis 3 Cha 1
 - **Hit Points**: 186,  **Defense:** 23,  **Initiative:** +1
 - **Movement**: 9 m
-- **Saving Throws**: Fortitude +14, Reflex +8, Will +12
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +8, Will +12
 - **Damage Res.**: bludgeoning, piercing
 - **Languages**: Common, Druidic, Elvish, Sylvan
 - **Challenge**: 9 (5000 XP)
@@ -32242,12 +31157,11 @@ The origins of the Tentacled Crawler Worms are rather speculative; some hypothes
 
 **Ecology**
 
-Environment: Any forest
-
-Organization: Solitary or grove (2-7)
+| Environment: Any forest |
+| --- |
+| Organization: Solitary or grove (2-7) |
 
 **Treasure Category**: J
-
 **Description**
 Arboroms are forest guardians and ambassadors of trees. As ancient as the forests themselves, they see themselves as parents and shepherds rather than gardeners: they are slow and methodical, but terrifying when forced to fight to defend their flock. Although they rarely seek the company of short-lived races and have an innate distrust of changes, they show tolerance towards those who wish to learn from their long, slow monologues, especially those in whose eyes they read the desire to protect the wilderness. Against those who threaten their forests, especially woodcutters who gather wood or those who would deforest an area to build a road or fort, the Arboroms' anger unleashes quickly and devastatingly. They are able to demolish what others build: a trait that helps them during their fits of fury.
 
@@ -32281,12 +31195,11 @@ Arboroms are said to be created by the will of Efrem.
 
 **Ecology**
 
-Environment: Warm Plains
-
-Organization: Solitary, pair or herd (5-8)
+| Environment: Warm Plains |
+| --- |
+| Organization: Solitary, pair or herd (5-8) |
 
 **Treasure Category**: None
-
 **Description**
 The triceratops is an irascible and stubborn herbivore. A typical triceratops is 9 meters long and weighs 10000 kg.
 
@@ -32316,12 +31229,11 @@ The triceratops is an irascible and stubborn herbivore. A typical triceratops is
 
 **Ecology**
 
-Environment: Cold Mountains
-
-Organization: Solitary or band (2-4)
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary or band (2-4) |
 
 **Treasure Category**: B
-
 **Description**
 Trolls possess sharp claws and incredible regenerative abilities that allow them to heal almost all wounds. They are hunchbacked, ugly but very strong: combined with their claws, their strength allows them to tear flesh with their bare hands. Trolls are about 3 meters tall, but their posture makes them appear shorter. An adult troll weighs about 500 kg.
 
@@ -32336,7 +31248,7 @@ It is universally known that trolls can naturally mutate, temporarily acquiring 
 - **Ability**: Str 7 Dex 0 Con 4 Int -4 Wis 1 Cha -1
 - **Hit Points**: 165,  **Defense:** 22,  **Initiative:** +0
 - **Movement**: 15 m
-- **Saving Throws**: Fortitude +12, Reflex +8, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +12, Reflex +8, Will +9
 - **Challenge**: 8 (3900 XP)
 
 **Actions*Multiattack.*** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It cannot make both attacks against the same target.
@@ -32359,12 +31271,11 @@ It is universally known that trolls can naturally mutate, temporarily acquiring 
 
 **Ecology**
 
-Environment: Warm Forests and Plains
-
-Organization: Solitary, pair or pack (3-6)
+| Environment: Warm Forests and Plains |
+| --- |
+| Organization: Solitary, pair or pack (3-6) |
 
 **Treasure Category**: None
-
 **Description**
 The tyrannosaurus is a primary predator that measures 12 meters in length and weighs 7000 kg.
 
@@ -32373,7 +31284,7 @@ The tyrannosaurus is a primary predator that measures 12 meters in length and we
 - **Ability**: Str 10 Dex 0 Con 10 Int 8 Wis 8 Cha 9
 - **Hit Points**: 615,  **Defense:** 52,  **Initiative:** +8
 - **Movement**: 65 feet, fly 65 feet
-- **Saving Throws**: Fortitude +40, Reflex +30, Will +38
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +40, Reflex +30, Will +38
 - **Skills**: all +18
 - **Damage Imm.**: Cold, Electricity, Fire, Acid, Poison, Sound, +3 weapons
 - **Immune**: charmed, paralyzed, fatigued, frightened
@@ -32431,12 +31342,11 @@ Tàhil can take 3 additional actions, chosen from those below and one per round 
 
 **Ecology**
 
-Environment: Unknown
-
-Organization: Unique
+| Environment: Unknown |
+| --- |
+| Organization: Unique |
 
 **Treasure Category**: 6 H
-
 **Description**
 Tàhil is the embodied Patron of Dragons. Nothing can withstand his fury, madness, rage, and destruction. Tàhil is a gargantuan creature with 7 dragon heads, each colored differently, each representing a color of a Dragon. See the Cosmology chapter for details of his history.
 
@@ -32490,12 +31400,11 @@ The unicorn can take 3 Legendary Actions, choosing from the options below. It ca
 
 **Ecology**
 
-Environment: Temperate Forests
-
-Organization: Solitary, pair or blessing (3-6)
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary, pair or blessing (3-6) |
 
 **Treasure Category**: None
-
 **Description**
 Unicorns are intelligent and solitary creatures that inhabit forests, appearing only to defend their homes from evil. They avoid all creatures except good pixies, good humanoid women, and native animals. Pairs of unicorns stay together for life and protect their forests, allowing only good and neutral creatures to pass through.
 
@@ -32506,7 +31415,7 @@ The unicorn's horn is the source of its magical powers, and evil creatures place
 - **Ability**: Str 4 Dex 4 Con 4 Int 3 Wis 2 Cha 4
 - **Hit Points**: 259,  **Defense:** 33,  **Initiative:** +4
 - **Movement**: 9 m
-- **Saving Throws**: Fortitude +17, Reflex +17, Will +15
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +17, Reflex +17, Will +15
 - **Skills**: Stealth +9, Awareness +17
 - **Damage Imm.**: from Void; Poison, from non-magical weapons
 - **Condition Imm.**: charmed, deafened, bleeding
@@ -32572,12 +31481,11 @@ The vampire can take 3 Legendary Actions, choosing from the options below. It ca
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary or family (vampire plus 2-8 Spawn)
+| Environment: Any |
+| --- |
+| Organization: Solitary or family (vampire plus 2-8 Spawn) |
 
 **Treasure Category**: NPC Equipment (Ring of Protection +2, Headband of Seduction +4, Cloak of Resistance +3)
-
 **Description**
 Vampires are undead humanoid creatures that feed on the blood of the living. They look very similar to when they were alive, often becoming more attractive, although some appear harsh and feral instead.
 
@@ -32623,12 +31531,11 @@ Vampires are undead humanoid creatures that feed on the blood of the living. The
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary, pair, group (3-6) or mob (7-12)
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, group (3-6) or mob (7-12) |
 
 **Treasure Category**: M
-
 **Description**
 A Vampire can decide to create a vampire spawn from a victim rather than a full vampire only when using its ability to create spawn on a humanoid creature. This decision must be made as soon as a vampire kills an appropriate creature using its bite.
 
@@ -32652,12 +31559,11 @@ A Vampire can decide to create a vampire spawn from a victim rather than a full 
 
 **Ecology**
 
-Environment: Any underground
-
-Organization: Solitary, pair, or patch (3-12)
+| Environment: Any underground |
+| --- |
+| Organization: Solitary, pair, or patch (3-12) |
 
 **Treasure Category**: Incidental
-
 **Description**
 Violet fungi are one of the most well-known and feared dangers of caves. A traveler can often notice the marks left by the violet fungus on those who live or hunt in the places where these carnivorous fungi lurk. These deep and horrible scars look like grooves carved into the flesh: the signs of a close encounter with a violet fungus.
 
@@ -32704,12 +31610,11 @@ A violet fungus is 1.2 meters tall and weighs 25 kg.
 
 **Ecology**
 
-Environment: Any (Abyss)
-
-Organization: Solitary, pair, or band (3-10)
+| Environment: Any (Abyss) |
+| --- |
+| Organization: Solitary, pair, or band (3-10) |
 
 **Treasure Category**: B
-
 **Description**
 
 | Profane champions of the Abyss, vrocks embody all the rage, hatred, and violence of this realm. As voracious and grotesquely opportunistic as the scavenger they resemble, vrocks delight in bloodshed, enjoying the sound and sensations derived from tearing still-pulsing intestines from a living creature. |
@@ -32741,7 +31646,6 @@ A typical vrock is 2.3 meters tall and weighs 200 kg. These creatures usually or
 | --- |
 
 **Treasure Category**: Incidental
-
 **Description**
 The Wall Crawler Horror is a fierce underground predator that aggressively defends its hunting territories. The underground caverns where these creatures reside echo with the thumps and rustles of their hooks as these creatures climb rocky crags or cavern walls.
 
@@ -32802,12 +31706,11 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 
 **Ecology**
 
-Environment: Any Forest
-
-Organization: Solitary, pair, family (3-6) or troop (3-6 plus 1-4 Black or Grizzly bears)
+| Environment: Any Forest |
+| --- |
+| Organization: Solitary, pair, family (3-6) or troop (3-6 plus 1-4 Black or Grizzly bears) |
 
 **Treasure Category**: NPC Equipment (Scale Mail, Perfect Battle Axe, 2 Perfect Throwing Axes, K)
-
 **Description**
 In their humanoid forms, werebears tend to be muscular and broad-shouldered, with rough features and dark eyes. They have red, brown, or black hair and appear accustomed to a life of hard work. Though the most benign of the lycanthropes, they are avoided by most normal people, who fear their animal transformation. For the most part they live in isolated woodland areas or in small family units of their own kind. They avoid confronting strangers, but they don't hesitate if they must drive evil humanoids from their territories.
 
@@ -32839,12 +31742,11 @@ In their humanoid forms, werebears tend to be muscular and broad-shouldered, wit
 
 **Ecology**
 
-Environment: Any Forest or Plain
-
-Organization: Solitary, pair, family (3-8) or troop (3-8 plus 1-4 Boars)
+| Environment: Any Forest or Plain |
+| --- |
+| Organization: Solitary, pair, family (3-8) or troop (3-8 plus 1-4 Boars) |
 
 **Treasure Category**: NPC Equipment (Studded Leather Armor, 2 Daggers, K)
-
 **Description**
 In their humanoid forms, wereboars tend to be stocky, with upturned noses, bristly hair, and prominent tusks. They have red, brown, or black hair, but some are also blond, gray-haired, or bald. Males usually can't grow beards. Because they are stubborn and aggressive, they have small communities of their own kind and don't mix with non-lycanthropes: they usually live in small farms that look absolutely normal. They tend to have large families and many children.
 
@@ -32880,12 +31782,11 @@ In their humanoid forms, wereboars tend to be stocky, with upturned noses, brist
 
 **Ecology**
 
-Environment: Any Urban
-
-Organization: Solitary, pair, pack (5-10) or guild (11-30 plus 5-12 Cruel Rats)
+| Environment: Any Urban |
+| --- |
+| Organization: Solitary, pair, pack (5-10) or guild (11-30 plus 5-12 Cruel Rats) |
 
 **Treasure Category**: NPC Equipment (Perfect Studded Leather Armor, Shortsword, Light Crossbow with 20 Bolts, K)
-
 **Description**
 Natural wererats are short, wiry, and muscular, with quick, sharp eyes and twitchy movements. Males often have thin, scraggly mustaches.
 
@@ -32929,12 +31830,11 @@ Natural wererats are short, wiry, and muscular, with quick, sharp eyes and twitc
 
 **Ecology**
 
-Environment: Any Plain or Swamp
-
-Organization: Solitary or pair
+| Environment: Any Plain or Swamp |
+| --- |
+| Organization: Solitary or pair |
 
 **Treasure Category**: NPC Equipment (Studded Leather Armor, Shortsword, 2 Daggers, K)
-
 **Description**
 Weretigers in humanoid form have large eyes, elongated noses, prominent cheekbones, and brown or red hair, or white, black, or blue-gray. Their movements are careful and graceful, and those who observe them might mistake them for an excellent pickpocket, a graceful dancer, or a skilled courtesan.
 
@@ -32969,12 +31869,11 @@ Weretigers in humanoid form have large eyes, elongated noses, prominent cheekbon
 
 **Ecology**
 
-Environment: Any Terrain
-
-Organization: Solitary, pair or pack (3-6)
+| Environment: Any Terrain |
+| --- |
+| Organization: Solitary, pair or pack (3-6) |
 
 **Treasure Category**: NPC Equipment (Chain Shirt, Longsword, Light Crossbow with 20 Bolts, K)
-
 **Description**
 In human form, werewolves look like normal people, though some tend to have feral features and wild hair. Eyebrows that grow together, an index finger longer than the middle finger, and strange birthmarks on the palm of the hand are all commonly accepted signs that a person is in fact a werewolf. Of course, these telltale signs aren't always accurate, as these physical traits exist in normal people as well, but in areas where werewolves are a common problem, such traits may be considered damning regardless.
 
@@ -32998,12 +31897,11 @@ In human form, werewolves look like normal people, though some tend to have fera
 
 **Ecology**
 
-Environment: Cold Mountains
-
-Organization: Solitary
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 See Ancient White Dragon description.
 
@@ -33043,12 +31941,11 @@ A humanoid killed by this attack rises 24 hours later as a zombie under the wigh
 
 **Ecology**
 
-Environment: any
-
-Organization: Solitary, pair, group (3-6), or pack (7-12)
+| Environment: any |
+| --- |
+| Organization: Solitary, pair, group (3-6), or pack (7-12) |
 
 **Treasure Category**: Q
-
 **Description**
 Wights are humanoids raised as undead due to necromancy, a violent death, or an extremely malevolent personality. In some cases, a wight arises when an undead spirit permanently binds itself to a corpse, often that of a warrior. They are barely recognizable by those who knew them in life: their flesh is corrupted by evil and undeath, their eyes burn with hatred, and their teeth become those of a beast. In a sense, a wight is the link between ghouls and spectres: a deformed corpse that drains life energy with its touch.
 
@@ -33084,12 +31981,11 @@ Being undead, wights have no need to breathe, so they can sometimes be found und
 
 **Ecology**
 
-Environment: Any Swamp
-
-Organization: Solitary, pair, or sequence (3-4)
+| Environment: Any Swamp |
+| --- |
+| Organization: Solitary, pair, or sequence (3-4) |
 
 **Treasure Category**: Incidental
-
 **Description**
 Evil creatures that feed on the strong psychic emanations of terrified creatures, will-o'-wisps take pleasure in putting gullible travelers in dangerous situations. In the wilderness, where they are very common, will-o'-wisps prefer simple tactics like positioning themselves on rocks or quicksand where they can be easily mistaken for lanterns (especially if they can arrange the trap near real signal lanterns), thus luring travelers toward danger.
 
@@ -33134,7 +32030,6 @@ At will: *Mage Hand, Comprehend Writings*
 | --- |
 
 **Treasure Category**: E + T
-
 **Description**
 The origins of the Wise Owlbear are as mysterious as those of its unwise relative, but enthusiasts of these creatures trace them directly back to Nethergal as a variant of the original Owlbear.
 Usually, the Wise Owlbear loves to surround itself with books and adores the company of other sages, but doesn't disdain the tales of adventurers and the captivating ballads of storytellers. The Wise Owlbear has a real talent for languages and, while not being able to speak in a way understandable to a human, can understand many spoken and written languages. The Wise Owlbear is able to read any language or code if it has a chance to study it for 3 days.
@@ -33176,12 +32071,11 @@ The Mage Hand spell is usually used to flip through the most delicate tomes and 
 
 **Ecology**
 
-Environment: Any
-
-Organization: Solitary, pair, group (3-6), or pack (7-12)
+| Environment: Any |
+| --- |
+| Organization: Solitary, pair, group (3-6), or pack (7-12) |
 
 **Treasure Category**: None
-
 **Description**
 Wraiths are creatures born of evil and darkness. They detest light and living creatures, having lost most of their connection to their previous life.
 
@@ -33214,12 +32108,11 @@ Wraiths are creatures born of evil and darkness. They detest light and living cr
 
 **Ecology**
 
-Environment: Temperate or warm hills
-
-Organization: Solitary, pair, or flight (3-6)
+| Environment: Temperate or warm hills |
+| --- |
+| Organization: Solitary, pair, or flight (3-6) |
 
 **Treasure Category**: D
-
 **Description**
 Wyverns are brutal, violent reptiles related to dragons. They are always aggressive and impatient, preferring to achieve their goals using force. For this reason, dragons look upon wyverns with superiority, considering these distant relatives as primitive savages lacking style and intelligence.
 
@@ -33263,12 +32156,11 @@ A wyvern is about 4.8 meters long, with the tail alone accounting for about half
 
 **Ecology**
 
-Environment: Any (Plane of Earth)
-
-Organization: Solitary, pair, or group (3-6)
+| Environment: Any (Plane of Earth) |
+| --- |
+| Organization: Solitary, pair, or group (3-6) |
 
 **Treasure Category**: only precious metals, gems, and jewelry and magical gems
-
 **Description**
 Strange creatures as wide as they are tall, xorns have little interest in natives of the Material Plane, except for the gems and precious metals they might carry. Hidden beneath the surface of the ground for a time that might seem very long to a human, a xorn can wait months, even years, for the ideal prey, then assault those who carry its favorite food, such as a particular gem or a certain type of silver. Adventurers who venture into regions inhabited by xorns often carry small nuggets of minerals or low-value gems and crystals to use as tribute. Although its value is usually directly proportional to its flavor and its appeal, most xorns are rather greedy, and prefer quantity to quality.
 
@@ -33306,12 +32198,11 @@ Xorns are not very religious, but those among them who find faith are usually de
 
 **Ecology**
 
-Environment: Warm Swamps
-
-Organization: Solitary
+| Environment: Warm Swamps |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: C
-
 **Description**
 
 | See Ancient Black Dragon Description. |
@@ -33354,12 +32245,11 @@ Organization: Solitary
 
 **Ecology**
 
-Environment: Mountain peaks
-
-Organization: Solitary
+| Environment: Mountain peaks |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 
 | See Ancient Blue Dragon Description. |
@@ -33404,12 +32294,11 @@ Organization: Solitary
 
 **Ecology**
 
-Environment: Hot Deserts
-
-Organization: Solitary
+| Environment: Hot Deserts |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 
 | Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip. |
@@ -33429,7 +32318,7 @@ Organization: Solitary
 - **Ability**: Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3
 - **Hit Points**: 165,  **Defense:** 22,  **Initiative:** +2
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +12, Reflex +8, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +12, Reflex +8, Will +9
 - **Skills**: Stealth +3, Sense Motive +4, Awareness +7
 - **Dmg. Imm.**: Lightning
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -33458,12 +32347,11 @@ Organization: Solitary
 
 **Ecology**
 
-Environment: Temperate Coastal Areas
-
-Organization: Solitary
+| Environment: Temperate Coastal Areas |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 
 | Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate |
@@ -33509,12 +32397,11 @@ Organization: Solitary
 
 **Ecology**
 
-Environment: Warm Hills
-
-Organization: Solitary
+| Environment: Warm Hills |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 
 | This capricious dragon tries to hamper and frustrate its enemies during combat. |
@@ -33534,7 +32421,7 @@ Organization: Solitary
 - **Ability**: Str 6 Dex 2 Con 5 Int 3 Wis 1 Cha 5
 - **Hit Points**: 205,  **Defense:** 27,  **Initiative:** +3
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +15, Reflex +12, Will +11
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +12, Will +11
 - **Skills**: Stealth +6, Sense Motive +5, Awareness +9, Deception +9
 - **Dmg. Imm.**: Fire
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -33563,12 +32450,11 @@ Organization: Solitary
 
 **Ecology**
 
-Environment: Warm Plains
-
-Organization: Solitary
+| Environment: Warm Plains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 
 | Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid. |
@@ -33588,7 +32474,7 @@ Organization: Solitary
 - **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
 - **Hit Points**: 163,  **Defense:** 23,  **Initiative:** +3
 - **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +11, Reflex +9, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +11, Reflex +9, Will +9
 - **Skills**: Stealth +4, Deception +5, Awareness +7
 - **Damage Imm.**: Poison
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -33613,12 +32499,11 @@ Organization: Solitary
 
 **Ecology**
 
-Environment: Temperate Forests
-
-Organization: Solitary
+| Environment: Temperate Forests |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 
 | See Ancient Green Dragon Description. |
@@ -33638,7 +32523,7 @@ Organization: Solitary
 - **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4
 - **Hit Points**: 205,  **Defense:** 25,  **Initiative:** +2
 - **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +15, Reflex +10, Will +10
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +15, Reflex +10, Will +10
 - **Skills**: Stealth +4, Awareness +8
 - **Damage Imm.**: Fire
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -33663,9 +32548,9 @@ Costs 1 Action.
 
 **Ecology**
 
-Environment: Warm mountains
-
-Organization: Solitary
+| Environment: Warm mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
 
@@ -33686,7 +32571,7 @@ Organization: Solitary
 - **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4
 - **Hit Points**: 186,  **Defense:** 24,  **Initiative:** +2
 - **Movement**: 12 m, fly 24 m
-- **Saving Throws**: Fortitude +14, Reflex +9, Will +9
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +14, Reflex +9, Will +9
 - **Skills**: Arcana +6, Stealth +4, Awareness +8, History +6
 - **Dmg. Imm.**: Cold
 - **Senses**: Darkvision 36 m, Blindsight 9 m
@@ -33713,12 +32598,11 @@ Organization: Solitary
 
 **Ecology**
 
-Environment: Temperate Mountains
-
-Organization: Solitary
+| Environment: Temperate Mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 
 | Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably. |
@@ -33761,12 +32645,11 @@ Organization: Solitary
 
 **Ecology**
 
-Environment: Cold Mountains
-
-Organization: Solitary
+| Environment: Cold Mountains |
+| --- |
+| Organization: Solitary |
 
 **Treasure Category**: D
-
 **Description**
 
 | See Ancient White Dragon description. |
@@ -33805,12 +32688,11 @@ Organization: Solitary
 
 **Ecology**
 
-Environment: Any
-
-Organization: Any
+| Environment: Any |
+| --- |
+| Organization: Any |
 
 **Treasure Category**: None
-
 **Description**
 Zombies are the animated corpses of dead creatures, forced to move by necromantic magic such as Animate Dead. Although zombies encountered normally are slow and sturdy, others possess different traits, allowing them to spread disease or move faster.
 
@@ -35606,7 +34488,7 @@ level 5 (1 slot): *Cone of Cold*
 - **Ability**: Str 0 Dex 2 Con 1 Int 5 Wis 2 Cha 3
 - **Hit Points**: 233,  **Defense:** 30,  **Initiative:** +5
 - **Skills**: Arcana +13, History +13
-- **Saving Throws**: Fortitude +13, Reflex +14, Will +14
+- **Saving Throws**: \resizebox{0.5\linewidth+1.4cm{!}{Fortitude +13, Reflex +14, Will +14
 - **Movement**: 9 m
 - **Languages**: six languages of your choice
 - **Challenge**: 12 (8400 XP)
@@ -35987,14 +34869,9 @@ The Oozekin template gives the creature a *gelatinous* and fluid appearance
 **Attack**: +3
 
 **Damage**: +1d8 Acid damage
-
 ---
 
 ## Monster List by Challenge Rating
-
-\endenfasi\endchangemargin
-
-\beginmulticols
 
 **Accelerated**: an Accelerated creature gains a number of bonus Actions per round equal to the Accelerated value. The duration is indicated after the *"\"*. When the duration is indicated, it means until the end of the expiration round. Ex. Accelerated 1/3r, Accelerated 2/-.
 
@@ -36024,11 +34901,9 @@ The Charmed effect ends if the creature becomes dying.
 
 If a character does not sleep at least 8 hours (Fort Save DC 17) within 24 hours or sleeps in medium or heavy armor, they are fatigued in the morning.
 
-After 1 hour of complete rest (or \hyperlinkRistorare InferioreLesser Restoration), a Fatigued 2 character becomes Fatigued.
+After 1 hour of complete rest (or Lesser Restoration), a Fatigued 2 character becomes Fatigued.
 
 **Table: Fatigue Levels**
-
-\begintabularx0.45\textwidth
 
 | **Conditions** | **Penality** | **Recovery** |
 | --- | --- | --- |
@@ -36039,11 +34914,9 @@ After 1 hour of complete rest (or \hyperlinkRistorare InferioreLesser Restoratio
 | Fatigued 5 | Unconscious | 6h |
 | Fatigued 6 | Death | -- |
 
-\endtabularx
-
 After 8 hours of rest, a creature goes from Fatigued 3 to Fatigued 2 and after another hour becomes Fatigued, provided they don't suffer further fatigue.
 
-**Grappled**: A grappled creature cannot move but can try to Push. It must use two Actions to break free, see combat section \hyperlinkafferrareunavversarioGrappling an opponent.
+**Grappled**: A grappled creature cannot move but can try to Push. It must use two Actions to break free, see combat section Grappling an opponent.
 
 It can attack with melee weapons if small or with unarmed strikes. It has -2 to Defense and is Distracted.
 
@@ -36051,7 +34924,7 @@ The condition applies to both the grappled creature and the grappler.
 
 **Friendly**: A friendly creature will not attack the character unless explicitly threatened.
 
-**Drowning/Holding Breath**: Any character can hold their breath for a number of rounds equal to 6 rounds times their Constitution score, with a minimum of 3 rounds. For each Action taken, the remaining duration decreases by 1 round. After this period, the character must make a Fortitude Saving Throw with DC 12 each round to continue holding their breath. Each round, the DC increases by 2. See page \pagereftrattenereilfiato
+**Drowning/Holding Breath**:  Any character can hold their breath for a number of rounds equal to 6 rounds times their Constitution score, with a minimum of 3 rounds. For each Action taken, the remaining duration decreases by 1 round. After this period, the character must make a Fortitude Saving Throw with DC 12 each round to continue holding their breath. Each round, the DC increases by 2. See page 
 
 **Deafened**: A deafened character cannot hear. They automatically fail all Awareness checks based on sound and are considered Distracted when casting spells with at least verbal components.
 
@@ -36059,7 +34932,7 @@ Characters who remain deafened for long periods may become accustomed to these p
 
 **Poisoned**: any subject under the influence of a poison or potion is considered poisoned, regardless of whether it is already producing effects or has yet to produce them given the onset time. A creature immune to Poison damage cannot have the Poisoned condition.
 
-**Restrained**: a restrained creature has both arms immobilized. It can move by trying to Push, and must use two Actions to break free (see \hyperlinkafferrareunavversarioGrappling an opponent). It takes -4 to Defense and Reflex Saving Throws.
+**Restrained**: a restrained creature has both arms immobilized. It can move by trying to Push, and must use two Actions to break free (see Grappling an opponent). It takes -4 to Defense and Reflex Saving Throws.
 
 A Restrained spellcaster is Distracted and must make a Magic Check with a Critical Magic Success or fails to cast spells. -1d6 to Attack Rolls.
 
@@ -36075,17 +34948,12 @@ If a confused creature is attacked, it always attacks the last creature that att
 
 Roll a die on the following table at the start of each round of the confused creature to see what it does that round.
 
-\begintabularx0.48\textwidth
-
 | **d10** | **Behavior** |
-|---|---|
 | 1 | The creature uses all its Actions to move in a random direction. To determine the direction, roll a d8 |
 | 2-5 | The creature does nothing for the entire round |
 | 6 | The creature attacks itself and ends the round |
 | 7-8 | The creature attacks a randomly determined creature within 1 Movement Action. If it was hit in the previous round, it will attack the creature that hit it. After making the attack, the round ends. |
 | 9-10 | The creature can act and move normally. |
-
-\endtabularx
 
 A confused creature that is unable to perform the indicated action will do nothing but babble incoherently. Attackers have no special advantage when attacking a confused creature. Any confused creature that is attacked automatically attacks its aggressor in return.
 
@@ -36132,7 +35000,7 @@ Whoever attacks a creature they cannot see has a -1d6 penalty to Attack Rolls. A
 
 **Dead**: The character's soul permanently leaves their body. Dead characters cannot benefit from normal or magical healing, and cannot be brought back to life by a spell. Only a Patron has sufficient power to return the soul to the body and bring the creature back to life. The School of Necromancy has spells to reanimate a body as undead.
 
-**Paralyzed**: A paralyzed character cannot take Actions or Reactions or speak. Melee attacks against them have a +1d6 bonus, and they lose their Dexterity bonus to Defense. The creature is aware of what is happening around them but does not drop objects. The creature automatically fails Reflex Saving Throws.
+**Paralyzed**:  A paralyzed character cannot take Actions or Reactions or speak. Melee attacks against them have a +1d6 bonus, and they lose their Dexterity bonus to Defense. The creature is aware of what is happening around them but does not drop objects. The creature automatically fails Reflex Saving Throws.
 
 A winged creature in flight, when paralyzed, can no longer flap its wings and falls. A paralyzed swimmer can no longer Swim and might drown.
 
@@ -36177,14 +35045,14 @@ When you are prone, you can crawl. The terrain is considered difficult and you a
 
 - If the object is a Wand or Staff, use twice the necessary charges each time it is used.
 
-- If the object does not fall into any of the previous categories, the broken condition has no effect on its use. Objects with the broken condition, regardless of type, are worth 25\
+- If the object does not fall into any of the previous categories, the broken condition has no effect on its use. Objects with the broken condition, regardless of type, are worth 25\% of their normal cost. If the object is magical, it can only be repaired with the Fabricate spell used by a caster of level equal to or higher than the one who created the object.
 
 **Bleeding**: A creature that is taking bleed damage takes the indicated amount of damage at the start of its turn. Damage Reduction (DR) does not work on bleed damage. Bleeding can be reduced by one point by succeeding on a First Aid check with DC 12, 2 Actions.
 For each point of Bleeding above 1, the difficulty increases by 2.
 
 A treatment of 1 minute guarantees 1 success, without a check. Each Critical Success reduces bleeding by an additional point. Some bleeding effects cause ability damage or even ability drain.
 
-Bleeding is reduced by 1 for each healing die from a Potion or Spell. If the subject's Hit Points are restored to their maximum value, the bleeding ends. Bleeding continues even if the creature is \hyperlinkdyingdying.
+Bleeding is reduced by 1 for each healing die from a Potion or Spell. If the subject's Hit Points are restored to their maximum value, the bleeding ends. Bleeding continues even if the creature is dying.
 
 Unless otherwise indicated, bleed damage stacks up to a maximum of 10 Hit Points per round. Bleed damage is indicated with Bleeding value/maximum value, where value is the bleeding score caused by the attack and maximum value is the maximum bleeding score that can be reached.
 
@@ -36192,73 +35060,11 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 
 **Vulnerability**: works opposite to Resistance. The damage is doubled before any Saving Throw.
 
-\endmulticols
-
 ---
 
 # Tables for Random Rolls
 
-\node at (1.5,16) [above] 1m Range;
-
-\fill[orange] (5,17) rectangle (7,19);
-\node at (5.5,17.5) ;
-\node at (5.5,18.5) ;
-\node at (6.5,17.5) ;
-\node at (6.5,18.5) ;
-
-\foreach \x in 3,...,6
-\node at (\x+1.5,19.5) {A;
-\node at (\x+1.5,16.5) A;
-
-\foreach \y in 9,...,10
-\node at (4.5,\y+8.5) {A;
-\node at (7.5,\y+8.5) A;
-
-\node at (6,15) [above] 1m Range;
-
-\fill[orange] (11,15) rectangle (14,18);
-\node at (11.5,17.5) ;
-\node at (12.5,17.5) ;
-\node at (13.5,17.5) ;
-
-\node at (11.5,16.5) ;
-\node at (12.5,16.5) ;
-\node at (13.5,16.5) ;
-
-\node at (11.5,15.5) ;
-\node at (12.5,15.5) ;
-\node at (13.5,15.5) ;
-
-\foreach \x in 10,...,14
-\node at (\x+0.5,14.5) {A;
-\node at (\x+0.5,18.5) A;
-
-\foreach \y in 13,...,17
-\node at (10.5,\y+1.5) {A;
-\node at (14.5,\y+1.5) A;
-
-\foreach \x in 9,...,15
-\node at (\x+0.5,19.5) {B;
-\node at (\x+0.5,13.5) B;
-
-\foreach \y in 13,...,18
-\node at (9.5,\y+0.5) {B;
-\node at (15.5,\y+0.5) B;
-
-\node at (12.5,12) [above] 2m Range;
-
-\foreach \x in -1,...,19
-\foreach \y in 12,...,19
-\draw[gray!30] (\x,\y) grid (\x+1,\y+1);
-
-\endtikzpicture
-
-**Critical Failure Effects Generator for Attacks**
-
-\begintabularx0.5\textwidth
-
 | **3d6** | **Effect** |
-|---|---|
 | 3 | You're embarrassed by your strike, but nothing particular happens |
 | 4 | You lose balance. Until the start of the next round you have -2 to Defense |
 | 5 | You misplace your foot. Until the end of the next round you treat terrain as difficult |
@@ -36272,14 +35078,10 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 | 13 | You drop your weapon 3 meters away in a random direction |
 | 14 | You lose confidence in yourself. You execute the next attack with an additional -4 |
 | 15 | Wrong target. You hit a random creature within range. |
-| 16 | Confused. You hit yourself on the head. Until the end of the round you are under the \hyperlinkConfusionConfusion spell |
+| 16 | Confused. You hit yourself on the head. Until the end of the round you are under the Confusion spell |
 | 17 | You hit yourself hard. Roll regular damage against yourself. The round ends |
 | 18 | You hit yourself hard in the head. As 17 and whoever is in melee against you can make an opportunity attack using a Reaction. The round ends |
 | 19+ | You hit yourself hard. Roll damage and apply two critical hits against yourself. The round ends |
-
-\endtabularx
-
-\endmulticols
 
 **Table: Random Weapon Generation**
 
@@ -36287,15 +35089,119 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 
 ## Random Name Generator
 
-\beginmulticols
-
 To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Central ones, and 3d6 on the Final ones.
 
 ## Tables for Male Names
 
 ### Male Initial Syllables
 
-\endmulticols
+| **3d6** | **Syllable** | **3d6** | **Syllable** |
+| 3 | Zeph | 11 | Mer |
+| 4 | Xar | 12 | Kor |
+| 5 | Bra | 13 | Lun |
+| 6 | Cae | 14 | Nor |
+| 7 | Dar | 15 | Oth |
+| 8 | Eld | 16 | Quin |
+| 9 | Gar | 17 | Thaan |
+| 10 | Hal | 18 | Zarak |
+### Central Syllables (2d6)
+
+| **2d6** | **Syllable** | **2d6** | **Syllable** |
+| 2 | - (skip) | 8 | ren |
+| 3 | - (skip) | 9 | el |
+| 4 | - (skip) | 10 | an |
+| 5 | dor | 11 | en |
+| 6 | gal | 12 | thil |
+| 7 | ar |  | |
+### Male Final Syllables (3d6)
+
+| **3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
+| 3 | grim | 9 | dan | 15 | reth |
+| 4 | thus | 10 | ion | 16 | thor |
+| 5 | dus | 11 | dor | 17 | valos |
+| 6 | kar | 12 | nor | 18 | zeth |
+| 7 | las | 13 | on |  | |
+| 8 | mel | 14 | mir |  | |
+
+## Tables for Female Names
+
+### Female Initial Syllables (3d6)
+
+| **3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
+| 3 | Zara | 9 | Gwen | 15 | Ora |
+| 4 | Xyla | 10 | Hel | 16 | Syl |
+| 5 | Ara | 11 | Mira | 17 | Thea |
+| 6 | Bel | 12 | Isa | 18 | Zyra |
+| 7 | Cel | 13 | Lil |  | |
+| 8 | Ela | 14 | Nym |  | |
+### Female Final Syllables (3d6)
+
+| **3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
+| 3 | neth | 9 | ana | 15 | riel |
+| 4 | essa | 10 | ara | 16 | tha |
+| 5 | beth | 11 | elle | 17 | saal |
+| 6 | dra | 12 | lynn | 18 | vyth |
+| 7 | ena | 13 | ina |  | |
+| 8 | iel | 14 | mira |  | |
+
+## Fantasy Place Names
+
+### Place Prefixes (2d10)
+
+| **2d10** | **Prefix** | **2d10** | **Prefix** | **2d10** | **Prefix** |
+| 2 | Deep | 9 | Fort | 16 | Earth |
+| 3 | High | 10 | Lake | 17 | Tower |
+| 4 | Low | 11 | Mount | 18 | Valley |
+| 5 | Wood | 12 | Stone | 19 | Wind |
+| 6 | Field | 13 | Oak | 20 | Free |
+| 7 | House | 14 | Rock |  | |
+| 8 | Hill | 15 | Sun |  | |
+### Place Suffixes (2d10)
+
+| **2d10** | **Suffix** | **2d10** | **Suffix** | **2d10** | **Suffix** |
+| 2 | abyss | 9 | lands | 16 | rock |
+| 3 | burg | 10 | mark | 17 | shore |
+| 4 | farm | 11 | sea | 18 | valley |
+| 5 | field | 12 | mount | 19 | pass |
+| 6 | fort | 13 | nova | 20 | peak |
+| 7 | guard | 14 | plain |  | |
+| 8 | haven | 15 | port |  | |
+
+## Special Cultural Tables
+
+### Elven Names (2d12)
+**Roll 2d12 for elven initials and finals:**
+
+| **2d12** | **Initial** | **2d12** | **Final** |
+| 2 | Ael | 2 | adir |
+| 3 | Cel | 3 | anduil |
+| 4 | Elen | 4 | aron |
+| 5 | Gal | 5 | dir |
+| 6 | Gil | 6 | galadriel |
+| 7 | Hal | 7 | las |
+| 8 | Leg | 8 | moth |
+| 9 | Mith | 9 | ond |
+| 10 | Thran | 10 | riel |
+| 11 | Elr | 11 | thil |
+| 12 | Galar | 12 | wyn |
+### Dwarven Names (2d12)
+
+**Roll 2d12 for dwarven initials and finals:**
+
+| **2d12** | **Initial** | **2d12** | **Final** |
+| 2 | Bal | 2 | dan |
+| 3 | Bor | 3 | din |
+| 4 | Dain | 4 | dur |
+| 5 | Dur | 5 | grim |
+| 6 | Gim | 6 | gar |
+| 7 | Grim | 7 | kan |
+| 8 | Kaz | 8 | mor |
+| 9 | Mor | 9 | mur |
+| 10 | Thar | 10 | rik |
+| 11 | Thor | 11 | thor |
+| 12 | Ur | 12 | zak |
+
+} %close small
 
 ---
 
@@ -36307,30 +35213,30 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 
 # Material for playing
 
-**Old Bell School System - OBSS - Fantasy Adventure Game**
-The main site is \hrefhttps://github.com/buzzqw/TUShttps://github.com/buzzqw/TUS
+You are invited to download **Old Bell School System** from GitHub freely and without constraints except for those expressed in the license.
+The main site is https://github.com/buzzqw/TUS
 
 * **OBSS Manual**:
-\hrefhttps://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-eng.pdfOBSSv2-eng.pdf
+https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-eng.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-eng.pdf
 
 * **Character Sheet**:
-\hrefhttps://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-scheda-eng.pdfOBSSv2-scheda-eng.pdf
+https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-scheda-eng.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-scheda-eng.pdf
 
 * **Narrator's Screen**:
-\hrefhttps://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdfscreenv2-eng.pdf
+https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2-eng.pdf
 
 * **Character Information**:
-\hrefhttps://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-arbiter-character-eng.pdfOBSS-schema-arbiter-character-eng.pdf
+https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-arbiter-character-eng.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-arbiter-character-eng.pdf
 
-* **Changelog, only in italian** \hrefhttps://github.com/buzzqw/TUS/blob/master/OBSS/changelog.mdchangelog.md
+* **Changelog, only in italian** https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md
 
@@ -36340,8 +35246,6 @@ For any feedback or suggestions, please open an issue on GitHub, or send me an e
 
 # Acknowledgments
 
-\beginchangemargin\beginenfasi{
-
 This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at https://
 dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode
 
@@ -36349,7 +35253,7 @@ I thank the https://www.brailleinstitute.org/freefont/ for the font used. Atkins
 
 # License
 
-**Old Bell School System - OBSS - Fantasy Adventure Game**
+**Old Bell School System (OBSS)** © 2021 by Andres Zanzani is licensed under \hyperref{https://creativecommons.org/licenses/by-sa/4.0/legalcode}{CC BY-SA 4.0}
 
 The images in the manuals are unlicensed or in the public domain. Images marked with *B.I.C.* and the cover were created with Bing Image Creator. If any copyright-protected images are included, please notify us so we can proceed with their removal.
 
