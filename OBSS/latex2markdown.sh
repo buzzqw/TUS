@@ -120,8 +120,14 @@ sed -i 's/{\*\*Old Bell School System\*\*}   {\*\*(\\\textbf{OBSS\*\*})   { {Fan
 sed -i 's/\\textbf{Livello inc\. 1+\*\*}/Livello inc. 1+**/g' OBSSv2.md
 sed -i 's/\\textbf{partecipativa\*\*/partecipativa**/g' OBSSv2.md
 sed -i 's#| {\\textwidth}{|>{\\raggedright}l|c|c|c|c|} |#| **Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |#' OBSSv2.md
-sed -i '/| \*\*Professione\*\* | \*\*1 punto\*\* | \*\*2 punti\*\* | \*\*2 punti\*\* | \*\*3 punti\*\* |/{N;N;s/| \*\*Professione\*\* | \*\*1 punto\*\* | \*\*2 punti\*\* | \*\*2 punti\*\* | \*\*3 punti\*\* |\n| --- | --- | --- | --- | --- | --- | --- |\n| \*\*Professione\*\* | \*\*1 punto\*\* | \*\*2 punti\*\* | \*\*2 punti\*\* | \*\*3 punti\*\* |/| \*\*Professione\*\* | \*\*1 punto\*\* | \*\*2 punti\*\* | \*\*2 punti\*\* | \*\*3 punti\*\* |\n| --- | --- | --- | --- | --- | --- | --- |/;}' OBSSv2.md
-
+sed -i '/| \*\*Professione\*\* | \*\*1 punto\*\* | \*\*2 punti\*\* | \*\*2 punti\*\* | \*\*3 punti\*\* |/{n;s/| --- | --- | --- | --- | --- | --- | --- |/| --- | --- | --- | --- | --- |/;}' OBSSv2.md
+sed -i '/| \*\*Vantaggio \/ Svantaggio\*\* | \*\*Prove\*\* | |/{n;s/| --- | --- |/| --- | --- |---|/;}' OBSSv2.md
+sed -i '/| 8 | 1 | 2 |/{i\
+|Tiro|di|Dado|\
+|---|---|---|
+; s/| 8 | 1 | 2 |/| 8 | 1 | 2 |/; n; s/| 7 | | 3 |/| 7 | **X** | 3 |/; n; s/| 6 | 5 | 4 |/| 6 | 5 | 4 |/; n; s/| | si considera il bersaglio.*|\
+si considera il bersaglio dell'\''oggetto tirato. il punto di origine del lancio./}' OBSSv2.md
+sed -i '/| A | G | D |/{n;n;s/| B | | E |/| B | **X**| E |/;}' OBSSv2.md
 
 sed -i 's/\\cline{[^}]*}//g' OBSSv2-eng.md
 sed -i '/Old Bell School System/c**Old Bell School System - OBSS - Fantasy Adventure Game**' OBSSv2-eng.md
@@ -264,12 +270,12 @@ awk '/^$/{e++} !/^$/{e=0} e<=2' OBSSv2.md > obtemp && mv obtemp OBSSv2.md
 
 
 # citazioni
-sed -i "s/Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni/> Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni/" OBSSv2.md
-sed -i "s/Mai rinunciare ai tuoi desideri, persevera fino a renderli reali./> Mai rinunciare ai tuoi desideri, persevera fino a renderli reali./" OBSSv2.md
-sed -i "s/Il fatto che gli uomini non imparino molto dalla storia è la lezione più importante che la storia ci insegna. (Aldous Huxley)/> Il fatto che gli uomini non imparino molto dalla storia è la lezione più importante che la storia ci insegna. (Aldous Huxley)/" OBSSv2.md
-sed -i "s/>> Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)/> Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)/" OBSSv2.md
-sed -i "s/Wang Chi: Sei pronto?/> Wang Chi: Sei pronto?/" OBSSv2.md
-sed -i "s/Jack Burton: Io sono nato pronto! (Grosso guaio a Chinatown, Film 1986)/> Jack Burton: Io sono nato pronto! (Grosso guaio a Chinatown, Film 1986)/" OBSSv2.md
+#sed -i "s/Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni/> Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni/" OBSSv2.md
+#sed -i "s/Mai rinunciare ai tuoi desideri, persevera fino a renderli reali./> Mai rinunciare ai tuoi desideri, persevera fino a renderli reali./" OBSSv2.md
+#sed -i "s/Il fatto che gli uomini non imparino molto dalla storia è la lezione più importante che la storia ci insegna. (Aldous Huxley)/> Il fatto che gli uomini non imparino molto dalla storia è la lezione più importante che la storia ci insegna. (Aldous Huxley)/" OBSSv2.md
+#sed -i "s/>> Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)/> Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)/" OBSSv2.md
+#sed -i "s/Wang Chi: Sei pronto?/> Wang Chi: Sei pronto?/" OBSSv2.md
+#sed -i "s/Jack Burton: Io sono nato pronto! (Grosso guaio a Chinatown, Film 1986)/> Jack Burton: Io sono nato pronto! (Grosso guaio a Chinatown, Film 1986)/" OBSSv2.md
 
 
 
