@@ -2,13 +2,13 @@
 
 \subsection{Ricchezza, Denaro ed Equipaggiamento}\index{Ricchezza, Denaro ed Equipaggiamento}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+\begin{enfasi}{
 - Doc... c'è soltanto bisogno di un pochino di plutonio.
 
 \medskip
 
 - Ah, sono certo che nell'85 il plutonio si compra nella drogheria sotto casa, ma nel '55 la faccenda è molto più complicata! (Ritorno al futuro, Film 1985)}
-\end{enfasi}\end{changemargin}\medskip
+\end{enfasi}
 
 \begin{multicols}{2}
 
@@ -70,10 +70,12 @@ Come Narratore usate sempre il buon senso nelle richieste valutate bene la tipol
 
 In base alla tipologia di compagna potrebbero essere disponibili ulteriori oggetti quali armi da fuoco o alchemici.
 
-\medskip
+\medskip\label{equipaggiamentolista}
 
-\noindent\begin{tabularx}{\linewidth}{lll}\label{equipaggiamentolista}
+\noindent\begin{tabularx}{\linewidth}{lll}
+	\toprule
 \textbf{Oggetto}& \textbf{Costo} & \textbf{Ing.}\\
+\toprule
 Abaco&2 mo&L\\
 Abito da Monaco & 5 mo& 1\\
 Abito da artigiano& 1 mo& 1\\
@@ -110,20 +112,15 @@ Bilancia da mercante& 2 mo& 1\\
 Birra Boccale& 5 mr& L\\
 Birra Caraffa & 2 ma & L\\
 Boccale di ceramica & 2 mr & L \\
+\end{tabularx}
+\noindent\begin{tabular}{p{5cm}p{1.5cm}p{0.7cm}}
+\toprule
+\textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\
+\toprule
 Boccetta di inchiostro o pozione & 1 mo & L\\
 Borsa & 5 ma & L \\
 Alchimista (laboratorio) & 200 mo & 5 \\
 Borsa da cintura & 1 mo & L \\
-\end{tabularx}
-
-\columnbreak
-
-\noindent
-\noindent\begin{tabular}{p{5cm}p{1.5cm}p{0.7cm}}
-\toprule
-\textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\
-\midrule
-
 \hyperlink{borsadaguaritore}{Borsa da Guaritore} & 20 mo & 1 \\
 \hyperlink{Borsa dei Componenti}{Borsa dei Componenti} & 25 mo & L \\
 Bottiglia di vetro & 2 mo & L \\
@@ -173,7 +170,6 @@ Locanda Buona (dormire) & 2 mo & - \\
 Locanda Modesta (dormire) & 5 ma & - \\
 Locanda Scadente (dormire) & 1 ma & - \\
 Maglio & 1 mo & 2 \\
-\hyperlink{Manette}{Manette} & 15 mo & L \\
 Martello & 5 ma & 1 \\
 Morso e briglie & 2 mo & 1 \\
 Nave a vela & 10k mo & - \\
@@ -182,13 +178,14 @@ Nave lunga & 10k mo & - \\
 \hyperlink{Olio da lanterna}{Olio da lanterna} & 1 ma & 1 \\
 Orologio ad acqua & 900 mo & - \\
 Otre & 1 mo & 2 \\
-Pala o badile & 2 mo & 1 \\
-Pane (a pagnotta) & 2 mr & - \\
 \end{tabular}
 \noindent\begin{tabular}{p{5.1cm}p{1.5cm}p{0.7cm}}
 \toprule
 \textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\
-\midrule
+\toprule
+\hyperlink{Manette}{Manette} & 15 mo & L \\
+Pala o badile & 2 mo & 1 \\
+Pane (a pagnotta) & 2 mr & - \\
 Pasti (al giorno) Buono & 5 ma & - \\
 Pasti (al giorno) Modesto & 3 ma & - \\
 Pasti (al giorno) Povero & 6 mr & - \\
@@ -241,9 +238,9 @@ Zaino & 2 mo & 1 \\
 
 \medskip
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+\begin{enfasi}{
 Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthur C. Clarke, da Profiles of the Future)
-}\end{enfasi}\end{changemargin}
+}\end{enfasi}
 
 \medskip
 
@@ -329,9 +326,9 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 
 \textbf{Pozione di Cura potenziata}\label{Pozione di Cura potenziata}\hypertarget{Equip Pozione di Cura potenziata}{}. Questa pozione generica di cura consente di recuperare 3d8+3 Punti Ferita.
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+\begin{narratore}[Cure disponibili]
 Per quanto sia personalmente contrario all'acquisto di oggetti magici da parte dei personaggi le Pozioni di Cura devono essere disponibili.
-\end{narratore}\end{changemargin}
+\end{narratore}
 
 \textbf{Razioni}\index{Razioni}\hypertarget{Razioni}{}\label{Razioni}. Le razioni consistono di cibo secco adatto a lunghi viaggi, e includono carne secca, frutta secca, gallette e noci.
 
@@ -400,6 +397,7 @@ Se il personaggio sceglie di acquistare il suo equipaggiamento di partenza, può
 \subsubsection{Capienza dei Contenitori}
 
 \noindent\begin{tabularx}{1\textwidth}{lXl|lXl}
+	\toprule
 \textbf{Oggetto}&\textbf{Capienza}&\textbf{CdC}&\textbf{Oggetto}&\textbf{Capienza}&\textbf{CdC}\\
 \toprule
 Borsa&1 cubo con spigolo di 30 cm/3 kg di equipaggiamento&1&Barile&160 litri liquidi, 4 cubi con spigolo di 30 cm&35\\
@@ -430,7 +428,8 @@ Se il personaggio effettua una prova utilizzando strumenti o attrezzi specifici 
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{llX|llX}
+\noindent\begin{tabularx}{0.95\textwidth}{llX|llX}
+	\toprule
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Ing.}&\textbf{Oggetto}&\textbf{Costo}&\textbf{Ing.}\\
 \toprule
 Arnesi da Scasso/da Falsario&25 mo&1&Borsa da Erborista&5 mo&1\\
@@ -480,9 +479,10 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 
 \textbf{Tabella: Cavalcature e Altri Animali}\index[Tabelle]{Tabella Cavalcature e Altri Animali}\label{costicavalcature}\index{Cavalcature}
 
-\begin{tabularx}{0.48\textwidth}{ll}
+\noindent\begin{tabularx}{0.48\textwidth}{ll}
 \toprule
 \textbf{Cavalcatura}&\textbf{Costo}\\
+\toprule
 Cammello&50 mo\\
 Elefante&500 mo\\
 Mastino&25 mo\\
@@ -496,9 +496,10 @@ Saurovallo nano&30 mo
 
 \textbf{Finimenti e Veicoli da Tiro}\index{Veicoli}\label{Veicoli}\hypertarget{Veicoli}{}
 
-\begin{tabularx}{0.48\textwidth}{llX}
+\noindent\begin{tabularx}{0.48\textwidth}{llX}
 \toprule
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Peso}\\
+\toprule
 Bardatura&x4&x2\\
 Biga&250 mo&50 kg\\
 Bisacce&4 mo&4 kg\\
@@ -519,9 +520,10 @@ Nutrimento (al giorno)&5 mr&2 kg
 
 \textbf{Sella}\index{Sella}\index{Sella lista}
 
-\begin{tabularx}{0.48\textwidth}{llX}
+\noindent\begin{tabularx}{0.48\textwidth}{llX}
 \toprule
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Peso}\\
+\toprule
 Da Carico&15 mo&7,5 kg\\
 Da Galoppo&30 mo&12,5 kg\\
 Esotica&60 mo&20 kg\\
@@ -534,9 +536,10 @@ Stallaggio (al giorno)&1 ma&
 
 \textbf{Imbarcazioni}\index{Imbarcazioni}\hypertarget{Imbarcazioni}{}
 
-\begin{tabularx}{0.48\textwidth}{llX}
+\noindent\begin{tabularx}{0.48\textwidth}{llX}
 \toprule
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Velocità}\\
+\toprule
 Barca a Remi&50 mo&2,25 km orari\\
 Barcone&3000 mo&1,5 km orari\\
 Galea&30000 mo&6 km orari\\
@@ -559,6 +562,7 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 \bigskip
 
 \noindent\begin{tabularx}{0.48\textwidth}{ll}
+	\toprule
 \textbf{Servizio}&\textbf{Costo}\\
 \toprule
 Carrozza all'interno di una città&5 mr/1 km\\
@@ -693,6 +697,7 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 \medskip
 
 \noindent\begin{tabular}{ll|ll}
+	\toprule
 \textbf{Stile}&\textbf{Prezzo}&\textbf{Stile}&\textbf{Prezzo}\\
 \toprule
 Miserabile&-&Squallido&1 ma\\
@@ -731,8 +736,8 @@ La prova di professione eseguitela con 3d6+Saggezza+1/2 livello, se questa ottie
 
 \subsection{Materiali Speciali}\index{Materiali Speciali}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
-All'uopo il capitano De Medici ha fatto brunire tutte le armature, per sorprendere il nemico anche col buio. (Il mestiere delle armi, Ermanno Olmi, film 2001)}\end{enfasi}\end{changemargin}\medskip
+\begin{enfasi}{
+All'uopo il capitano De Medici ha fatto brunire tutte le armature, per sorprendere il nemico anche col buio. (Il mestiere delle armi, Ermanno Olmi, film 2001)}\end{enfasi}
 
 \begin{multicols}{2}
 
@@ -742,7 +747,8 @@ Le armature e le armi si possono costruire con materiali che possiedono delle in
 
 \label{acciaio-vivente}
 
-\begin{tabularx}{0.45\textwidth}{Xl}
+\noindent\begin{tabularx}{0.45\textwidth}{Xl}
+	\toprule
 \textbf{Tipo di oggetto} & \textbf{Mod. al costo}\\
 \toprule
 per Munizione & +40 mo \\
@@ -765,7 +771,8 @@ L'acciaio vivente ha 35 Punti Ferita per 2,5 cm di spessore e Durezza 15.
 
 \label{adamantio}
 
-\begin{tabularx}{0.48\textwidth}{Xl}
+\noindent\begin{tabularx}{0.48\textwidth}{Xl}
+	\toprule
 \textbf{Tipo di oggetto} & \textbf{Mod. al costo}\\
 \toprule
 per Munizione & +60 mo\\
@@ -795,7 +802,8 @@ Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un
 
 \label{argento-alchemico}
 
-\begin{tabularx}{0.48\textwidth}{Xl}
+\noindent\begin{tabularx}{0.48\textwidth}{Xl}
+	\toprule
 \textbf{Tipo di Oggetto} & \textbf{Mod. al costo}\\
 \toprule
 per Munizione & +2 mo\\
@@ -827,7 +835,8 @@ Il ferro freddo ha 30 Punti Ferita per 2,5 cm di spessore e Durezza 10.
 
 \label{mithral}
 
-\begin{tabularx}{0.48\textwidth}{Xl}
+\noindent\begin{tabularx}{0.48\textwidth}{Xl}
+	\toprule
 \textbf{Tipo di Oggetto} & \textbf{Mod. al costo}\\
 \toprule
 Armatura leggera & +1000 mo\\

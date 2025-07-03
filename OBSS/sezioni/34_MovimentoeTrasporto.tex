@@ -2,13 +2,13 @@
 
 \label{movimento-e-trasporto}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+\begin{enfasi}{
 Il mio piede sinistro funziona benissimo, ma non riuscirei comunque a camminare se non ci fosse il destro! (Madagascar 3 - Ricercati in Europa, Film )
 
 \medskip
 
 Quando non puoi più correre, cammina veloce; quando non puoi più camminare veloce, cammina; quando non puoi più camminare, usa il bastone; però non trattenerti mai. (Madre Teresa di Calcutta)}
-\end{enfasi}\end{changemargin}\medskip
+\end{enfasi}
 
 \begin{multicols}{2}
 
@@ -41,20 +41,21 @@ Questa tabella mostra i valori base di movimento a terra in situazioni di non co
 \medskip
 
 \noindent\begin{tabularx}{0.48\textwidth}{lccc}
+	\toprule
 \multirow{2}*{\textbf{Tipo di movimento}} &
 \multicolumn{3}{c}{\textbf{Movimento}}\\
 \cmidrule(lr){2-4} & \textbf{6m}& \textbf{9m} & \textbf{12m}\\
 \midrule
-\multicolumn{4}{c}{\textbf{Movimento (Tattico)}}\\
+\textbf{Movimento (Tattico)}&&\\
 Camminare& 6m & 9m & 12m\\
 Correre (x2) & 12m& 18m& 24m\\
-\multicolumn{4}{c}{\textbf{Un minuto (Locale)}} \\
+\textbf{Un minuto (Locale)}&& \\
 Camminare & 36m& 54m& 72m \\
 Correre (x3) & 108m & 162m & 216m \\
-\multicolumn{4}{c}{\textbf{Un'ora (Via Terra)}} \\
+\textbf{Un'ora (Via Terra)}&& \\
 Camminare& 3km& 4km& 6km\\
 Correre (x3) & 9km& 12km & 18km \\
-\multicolumn{4}{c}{\textbf{Un giorno (Via Terra)}}\\
+\textbf{Un giorno (Via Terra)}&&\\
 Camminare& 24km & 32km & 54km
 \end{tabularx}
 
@@ -87,7 +88,7 @@ Muoversi da prono\index{Muoversi da prono}\index{Muoversi a carponi}, Nuotare o 
 
 Il terreno dove sono presenti dei corpi di creature si considera difficile. \index{Muoversi su corpi}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Tups nel cunicolo] %box giocatore
+\begin{giocatore}[Tups nel cunicolo] %box giocatore
 Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. E' alla quarta posizione.
 
 Improvvisamente un nemico si para davanti e Tups è il più veloce a reagire, usando una Azione di Movimento \emph{\textbf{attraversa}} i 3 compagni che ha davanti rimanendo \textbf{ristretto} con il primo della fila.
@@ -103,7 +104,7 @@ Potrebbe decidere di (tra le varie possibilità):
 	\item provare ad attraversare l'avversario (1 Azione), ma se fallisce sarebbe ristretto con il compagno, danneggiando entrambi e gli rimarrebbe soltanto 1 altra Azione
 \end{itemize}
 
-\end{tcolorbox}\end{changemargin}
+\end{giocatore}
 
 \subsubsection{Condividere gli Spazi}\index{Condividere il quadretto}\index{più creature nello stesso spazio}\label{condividereglispazi}\hypertarget{condividereglispazi}{}
 
@@ -116,8 +117,8 @@ Es. un mostro di taglia Grande può condividere il suo spazio solo con una creat
 \subsubsection{Scambiarsi di posto}\index{Scambiarsi di posto}
 Un personaggio a contatto con un altra creatura può usare \textbf{una Azione} per \textbf{scambiarsi di posto} con questa. Se la creatura è ostile è necessaria una Prova Atletica contrapposta ad un Tiro Salvezza su Tempra per riuscire a scambiarsi. Per ogni taglia di differenza chi ha quella maggiore prende +1d6 di bonus alla prova. Costa una Reazione alla creatura amichevole.
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore} %box narratore
-Se volete un crudo realismo allora è terreno difficile attraversare anche zone dove ci sono creature amichevoli. \end{narratore}\end{changemargin}
+\begin{narratore}[Amici fastidiosi]
+Se volete un crudo realismo allora è terreno difficile attraversare anche zone dove ci sono creature amichevoli. \end{narratore}
 
 \subsubsection{Essere ristretti con qualcuno}\index{Essere ristretti con qualcuno}
 Due creature ristrette, ovvero che condividono lo stesso quadretto e non rispettano le regole di \hyperlink{condividereglispazi}{Condividere gli Spazi} subiscono un -1d6 al Tiro per Colpire ed un -4 alla Difesa finché ristretti.\index{Ristretti}\hypertarget{ristretti}{}\label{ristretti}
@@ -190,9 +191,10 @@ Una cavalcatura può essere bardata con un armatura. Un armatura leggera conferi
 
 \label{tabella-cavalcature-e-veicoli}\index{Cane}\index{Saurovallonano}\index{Carretto}\index{Zattera}\index{Barca}\index{Nave}\hypertarget{tabella-cavalcature-e-veicoli}{}
 
-\begin{tabularx}{0.95\textwidth}{llXX}
-\multirow{2}*{\textbf{Cavalcatura o Veicolo}} & \textbf{Ingombro trasportato} & \textbf{Movimento} & \textbf{Movimento}\\
-&\textbf{(CdC)}&\textbf{All'ora} & \textbf{Al giorno}\\
+\noindent\begin{tabularx}{0.95\textwidth}{llXX}
+	\toprule
+\textbf{Cavalcatura o} & \textbf{Ingombro trasportato} & \textbf{Movimento} & \textbf{Movimento}\\
+\textbf{Veicolo}&\textbf{(CdC)}&\textbf{All'ora} & \textbf{Al giorno}\\
 \toprule
 Cane da Galoppo & 30 & 6km & 36km \\
 Saurovallo da Galoppo& 60& 8km & 48km \\
@@ -201,9 +203,9 @@ Saurovallo Nano& 30& 5km & 30km \\
 Saurovallo da Tiro& 70& 5km & 30km \\
 Cammello& 50& 8km & 48km \\
 Elefante& 160& 6km & 36km \\
-\toprule
+\hline
 \textbf{Imbarcazione} &&& \\
-\toprule
+\hline
 Zattera o Chiatta (pertica o rimorchio)& 225 & 0.75km & 7.5km \\
 Barcone a Remi**& 425 & 1.5km& 15km\\
 Barca a Remi**& 200 & 2.25km & 22.5km\\
@@ -278,7 +280,8 @@ Nella \textbf{Tabella: CdC trasportato in base alla taglia}\index{Ingombro trasp
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{ll|ll}
+\noindent\begin{tabularx}{0.45\textwidth}{ll|ll}
+	\toprule
 \textbf{Taglia}& \textbf{Ing.}&\textbf{Taglia} & \textbf{Ing.}\\
 \toprule
 Piccolissima &1/4& Grande & 24\\
@@ -300,7 +303,8 @@ Creature con 4 zampe o più possono trasportare carichi maggiori.
 
 \medskip
 
-\begin{tabularx}{0.45\textwidth}{ll}
+\noindent\begin{tabularx}{0.45\textwidth}{ll}
+	\toprule
 \textbf{Zampe Creatura}&\textbf{CdC}\\
 \toprule
 4 zampe & x2\\
@@ -316,9 +320,9 @@ Queste Tabelle sono da usare per gli animali insoliti non indicati o assimilabil
 
 \subsection{Altri Tipi di Movimento}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+\begin{enfasi}{
 Uno dei problemi riguarda la velocità della luce e le difficoltà che comporta il tentare di superarla. Non la si può superare. Niente viaggia più in fretta della velocità della luce, con la possibile eccezione delle cattive notizie, che seguono proprie leggi specifiche. (Douglas Adams)
-}\end{enfasi}\end{changemargin}
+}\end{enfasi}
 
 \label{altri-tipi-di-movimento}
 
@@ -361,7 +365,7 @@ Fluttuare è la capacità che consente di rimanere fluttuante nell'aria, all'alt
 \vfill
 
 \begin{center}
-\includegraphics[width=0.5\linewidth]{immagini/grifonicastello.png}
+\includegraphics[width=0.45\linewidth]{immagini/grifonicastello.png}
 \end{center}
 
 \pagebreak

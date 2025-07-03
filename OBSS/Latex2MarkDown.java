@@ -184,7 +184,7 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\\\cleardoublepage", "");
         content = content.replaceAll("\\\\fontsize\\{[^}]+\\}\\{[^}]+\\}\\\\selectfont", "");
         content = content.replaceAll("\\\\def\\s*\\\\versione\\s*\\{[^}]+\\}", "");
-        content = content.replaceAll("\\\\versione", "0.99.59");
+        content = content.replaceAll("\\\\versione", "1.0.0");
         content = content.replaceAll("\\\\today", "");
         content = content.replaceAll("\\\\vspace\\{[^}]*\\}", "");
         content = content.replaceAll("\\\\vspace", "");
@@ -208,8 +208,73 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\[roundcorner=[^\\]]*\\]", "");
         
         // ============================================
-        // UPDATED SECTION: Handle special box environments with nested structure
+        // UPDATED SECTION: Handle NEW custom environments from the updated preamble
         // ============================================
+        
+        // Handle 'narratore' environment with optional parameter
+        Pattern narratorePattern = Pattern.compile(
+            "\\\\begin\\{narratore\\}(?:\\[([^\\]]+)\\])?([\\s\\S]*?)\\\\end\\{narratore\\}",
+            Pattern.DOTALL
+        );
+        Matcher narratoreMatcher = narratorePattern.matcher(content);
+        StringBuffer sb_narratore = new StringBuffer();
+        while (narratoreMatcher.find()) {
+            String title = narratoreMatcher.group(1);
+            String narratoreContent = narratoreMatcher.group(2);
+            
+            // Clean the content
+            narratoreContent = cleanBoxContent(narratoreContent);
+            
+            // Use custom title if provided, otherwise use default
+            String finalTitle = (title != null && !title.trim().isEmpty()) ? title : "Narratore";
+            
+            narratoreMatcher.appendReplacement(sb_narratore, 
+                Matcher.quoteReplacement("\n>>> **" + finalTitle + "**: " + narratoreContent + "\n"));
+        }
+        narratoreMatcher.appendTail(sb_narratore);
+        content = sb_narratore.toString();
+        
+        // Handle 'giocatore' environment with optional parameter
+        Pattern giocatorePattern = Pattern.compile(
+            "\\\\begin\\{giocatore\\}(?:\\[([^\\]]+)\\])?([\\s\\S]*?)\\\\end\\{giocatore\\}",
+            Pattern.DOTALL
+        );
+        Matcher giocatoreMatcher = giocatorePattern.matcher(content);
+        StringBuffer sb_giocatore = new StringBuffer();
+        while (giocatoreMatcher.find()) {
+            String title = giocatoreMatcher.group(1);
+            String giocatoreContent = giocatoreMatcher.group(2);
+            
+            // Clean the content
+            giocatoreContent = cleanBoxContent(giocatoreContent);
+            
+            // Use custom title if provided, otherwise use default
+            String finalTitle = (title != null && !title.trim().isEmpty()) ? title : "Giocatore";
+            
+            giocatoreMatcher.appendReplacement(sb_giocatore, 
+                Matcher.quoteReplacement("\n>> **" + finalTitle + "**: " + giocatoreContent + "\n"));
+        }
+        giocatoreMatcher.appendTail(sb_giocatore);
+        content = sb_giocatore.toString();
+        
+        // Handle 'enfasi' environment (no parameters in new version)
+        Pattern enfasiPattern = Pattern.compile(
+            "\\\\begin\\{enfasi\\}([\\s\\S]*?)\\\\end\\{enfasi\\}",
+            Pattern.DOTALL
+        );
+        Matcher enfasiMatcher = enfasiPattern.matcher(content);
+        StringBuffer sb_enfasi = new StringBuffer();
+        while (enfasiMatcher.find()) {
+            String enfasiContent = enfasiMatcher.group(1);
+            
+            // Clean the content
+            enfasiContent = cleanBoxContent(enfasiContent);
+            
+            enfasiMatcher.appendReplacement(sb_enfasi, 
+                Matcher.quoteReplacement("\n> " + enfasiContent + "\n"));
+        }
+        enfasiMatcher.appendTail(sb_enfasi);
+        content = sb_enfasi.toString();
         
         // Handle nested tcolorbox with title parameter and complex content (including nested boxes)
         Pattern nestedTcolorboxTitleComplexPattern = Pattern.compile(
@@ -222,93 +287,18 @@ public class Latex2MarkDown {
             String title = nestedTcolorboxTitleComplexMatcher.group(1).trim();
             String boxContent = nestedTcolorboxTitleComplexMatcher.group(2);
             
-            // Process the content within this tcolorbox to handle nested enfasi
-            boxContent = processNestedEnfasiInTcolorbox(boxContent);
-            
             // Clean up the content
             boxContent = cleanBoxContent(boxContent);
             
             nestedTcolorboxTitleComplexMatcher.appendReplacement(sb_tcolorbox_complex, 
-                Matcher.quoteReplacement("\n>> " + title + ": " + boxContent + "\n"));
+                Matcher.quoteReplacement("\n>> **" + title + "**: " + boxContent + "\n"));
         }
         nestedTcolorboxTitleComplexMatcher.appendTail(sb_tcolorbox_complex);
         content = sb_tcolorbox_complex.toString();
         
-        // Handle nested enfasi boxes with complex multiline content
-        Pattern enfasiNestedComplexPattern = Pattern.compile(
-            "\\\\begin\\{changemargin\\}\\{[^}]*\\}\\{[^}]*\\}\\\\begin\\{enfasi\\}\\{([\\s\\S]*?)\\}\\s*\\\\end\\{enfasi\\}\\\\end\\{changemargin\\}",
-            Pattern.DOTALL
-        );
-        Matcher enfasiNestedComplexMatcher = enfasiNestedComplexPattern.matcher(content);
-        StringBuffer sb1 = new StringBuffer();
-        while (enfasiNestedComplexMatcher.find()) {
-            String enfasiContent = enfasiNestedComplexMatcher.group(1);
-            enfasiContent = cleanBoxContent(enfasiContent);
-            enfasiNestedComplexMatcher.appendReplacement(sb1, Matcher.quoteReplacement("\n> " + enfasiContent + "\n"));
-        }
-        enfasiNestedComplexMatcher.appendTail(sb1);
-        content = sb1.toString();
-        
-        // Handle nested narratore boxes with complex content
-        Pattern narratoreNestedComplexPattern = Pattern.compile(
-            "\\\\begin\\{changemargin\\}\\{[^}]*\\}\\{[^}]*\\}\\\\begin\\{narratore\\}([\\s\\S]*?)\\\\end\\{narratore\\}\\\\end\\{changemargin\\}",
-            Pattern.DOTALL
-        );
-        Matcher narratoreNestedComplexMatcher = narratoreNestedComplexPattern.matcher(content);
-        StringBuffer sb3 = new StringBuffer();
-        while (narratoreNestedComplexMatcher.find()) {
-            String narratoreContent = narratoreNestedComplexMatcher.group(1);
-            narratoreContent = cleanBoxContent(narratoreContent);
-            narratoreNestedComplexMatcher.appendReplacement(sb3, Matcher.quoteReplacement("\n>>> " + narratoreContent + "\n"));
-        }
-        narratoreNestedComplexMatcher.appendTail(sb3);
-        content = sb3.toString();
-        
         // ============================================
         // Handle remaining cases (standalone boxes and simple cases)
         // ============================================
-        
-        // Handle standalone enfasi with multiline content
-        Pattern enfasiStandaloneMultilinePattern = Pattern.compile(
-            "\\\\begin\\{enfasi\\}\\{([\\s\\S]*?)\\}\\\\end\\{enfasi\\}",
-            Pattern.DOTALL
-        );
-        Matcher enfasiStandaloneMultilineMatcher = enfasiStandaloneMultilinePattern.matcher(content);
-        StringBuffer sb1c = new StringBuffer();
-        while (enfasiStandaloneMultilineMatcher.find()) {
-            String enfasiContent = enfasiStandaloneMultilineMatcher.group(1).trim();
-            enfasiStandaloneMultilineMatcher.appendReplacement(sb1c, Matcher.quoteReplacement("\n> " + enfasiContent + "\n"));
-        }
-        enfasiStandaloneMultilineMatcher.appendTail(sb1c);
-        content = sb1c.toString();
-        
-        // Handle standalone enfasi
-        Pattern enfasiStandalonePattern = Pattern.compile(
-            "\\\\begin\\{enfasi\\}\\{([^}\\\\]*)\\}\\\\end\\{enfasi\\}",
-            Pattern.DOTALL
-        );
-        Matcher enfasiStandaloneMatcher = enfasiStandalonePattern.matcher(content);
-        StringBuffer sb1b = new StringBuffer();
-        while (enfasiStandaloneMatcher.find()) {
-            String enfasiContent = enfasiStandaloneMatcher.group(1).trim();
-            enfasiStandaloneMatcher.appendReplacement(sb1b, Matcher.quoteReplacement("\n> " + enfasiContent + "\n"));
-        }
-        enfasiStandaloneMatcher.appendTail(sb1b);
-        content = sb1b.toString();
-        
-        // Handle standalone narratore
-        Pattern narratoreStandalonePattern = Pattern.compile(
-            "\\\\begin\\{narratore\\}([^\\\\]*)\\\\end\\{narratore\\}",
-            Pattern.DOTALL
-        );
-        Matcher narratoreStandaloneMatcher = narratoreStandalonePattern.matcher(content);
-        StringBuffer sb2b = new StringBuffer();
-        while (narratoreStandaloneMatcher.find()) {
-            String narratoreContent = narratoreStandaloneMatcher.group(1).trim();
-            narratoreStandaloneMatcher.appendReplacement(sb2b, Matcher.quoteReplacement("\n>>> " + narratoreContent + "\n"));
-        }
-        narratoreStandaloneMatcher.appendTail(sb2b);
-        content = sb2b.toString();
         
         // Handle description environment - convert to proper list format
         // Remove description environment tags and their parameters
@@ -331,7 +321,7 @@ public class Latex2MarkDown {
             String title = standaloneTcolorboxTitleParamMatcher.group(1).trim();
             String boxContent = standaloneTcolorboxTitleParamMatcher.group(2);
             boxContent = cleanBoxContent(boxContent);
-            standaloneTcolorboxTitleParamMatcher.appendReplacement(sb4a, Matcher.quoteReplacement("\n>> " + title + ": " + boxContent + "\n"));
+            standaloneTcolorboxTitleParamMatcher.appendReplacement(sb4a, Matcher.quoteReplacement("\n>> **" + title + "**: " + boxContent + "\n"));
         }
         standaloneTcolorboxTitleParamMatcher.appendTail(sb4a);
         content = sb4a.toString();
@@ -348,7 +338,7 @@ public class Latex2MarkDown {
             String boxContent = tcolorboxMatcher.group(2);
             boxContent = cleanBoxContent(boxContent);
             if (title != null && !title.isEmpty()) {
-                tcolorboxMatcher.appendReplacement(sb4, Matcher.quoteReplacement("\n>> " + title + ": " + boxContent + "\n"));
+                tcolorboxMatcher.appendReplacement(sb4, Matcher.quoteReplacement("\n>> **" + title + "**: " + boxContent + "\n"));
             } else {
                 // Simple quote without title
                 tcolorboxMatcher.appendReplacement(sb4, Matcher.quoteReplacement("\n>> " + boxContent + "\n"));
@@ -362,12 +352,25 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\\\tikz\\[[^\\]]*\\][^;]*;", "");
         content = content.replaceAll("\\\\node\\[[^\\]]*\\][^;]*;", "");
         
+        // Handle custom commands from the new preamble
+        content = content.replaceAll("\\\\OBSSseparator", "\n\n---\n\n");
+        content = content.replaceAll("\\\\FatePoint", "•");
+        content = content.replaceAll("\\\\FatePoints\\{([0-9]+)\\}", generateFatePoints("$1"));
+        
+        // Handle color commands for tables
+        content = content.replaceAll("\\\\(?:obssgrey|obsspurple|obssblue|obssgreen|obsscoral)", "");
+        content = content.replaceAll("\\\\obsssetcolor\\{[^}]*\\}", "");
+        content = content.replaceAll("\\\\arrayrulecolor\\{[^}]*\\}", "");
+        content = content.replaceAll("\\\\setlength\\{\\\\arrayrulewidth\\}\\{[^}]*\\}", "");
+        content = content.replaceAll("\\\\rowcolors\\{[^}]*\\}\\{[^}]*\\}\\{[^}]*\\}", "");
+        
         // Handle font size commands
         content = content.replaceAll("\\\\(?:Huge|LARGE|Large|large)\\s*", "");
         content = content.replaceAll("\\\\(?:huge|LARGE|Large|large)\\{([^}]*)\\}", "$1");
         
         // Handle color commands
         content = content.replaceAll("\\\\color\\{[^}]*\\}", "");
+        content = content.replaceAll("\\\\textcolor\\{[^}]*\\}\\{([^}]*)\\}", "$1");
         
         // Handle lists - process items with textbf first (description list format)
         Pattern itemPattern = Pattern.compile("\\\\item\\s*\\[\\s*\\\\textbf\\{([^}]*)\\}\\s*\\]");
@@ -424,6 +427,8 @@ public class Latex2MarkDown {
         
         content = content.replaceAll("\\\\textit\\{([^}]+)\\}", "*$1*");
         content = content.replaceAll("\\\\emph\\{([^}]+)\\}", "*$1*");
+        content = content.replaceAll("\\\\textsc\\{([^}]+)\\}", "$1");
+        content = content.replaceAll("\\\\texttt\\{([^}]+)\\}", "`$1`");
         
         // Handle tables - multicolumn already processed at the top
         content = content.replaceAll("\\\\begin\\{(?:tabular\\*?|tabularx|xltabular)(?:[^}]*)?\\}", "");
@@ -545,13 +550,8 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\\\textbf(?:\\s|$)", "");
         content = content.replaceAll("\\*\\*\\s*\\*\\*", "");
         content = content.replaceAll("\\*\\*\\*\\*", "");
-        content = content.replaceAll("\\\\end\\{narratore\\}", "");
-        content = content.replaceAll("\\\\begin\\{narratore\\}", "");
-        content = content.replaceAll("\\\\end\\{enfasi\\}", "");
-        content = content.replaceAll("\\\\begin\\{enfasi\\}", "");
-        content = content.replaceAll("(?m)^\\s*\\{\\\\subsubsection\\}\\{[^}]*\\}\\{[^}]*\\}\\{[^}]*\\}\\s*$", "");
         
-        // Remove leftover braces from enfasi content and trailing }
+        // Remove leftover braces from content and trailing }
         content = content.replaceAll("(?m)^\\s*\\{\\s*$", "");
         content = content.replaceAll("(?m)^\\s*\\}\\s*$", "");
         content = content.replaceAll("(?m)^\\s*\\}\\}\\s*$", "");
@@ -585,6 +585,13 @@ public class Latex2MarkDown {
         
         // Remove bibliography commands
         content = content.replaceAll("\\\\printbibliography", "");
+        
+        // Handle special textpos and tikz overlay commands from cover page
+        content = content.replaceAll("(?s)\\\\tikz\\[remember picture,overlay\\].*?;", "");
+        content = content.replaceAll("(?s)\\\\begin\\{textblock\\*\\}.*?\\\\end\\{textblock\\*\\}", "");
+        
+        // Remove font awesome icons
+        content = content.replaceAll("\\\\fa[A-Za-z]+", "");
         
         // Remove excessive whitespace
         content = content.replaceAll("\n{3,}", "\n\n");
@@ -623,22 +630,18 @@ public class Latex2MarkDown {
         return separator.toString();
     }
     
-    // Helper method to process nested enfasi boxes within tcolorbox content
-    private static String processNestedEnfasiInTcolorbox(String content) {
-        // Handle nested enfasi within the tcolorbox content
-        Pattern nestedEnfasiPattern = Pattern.compile(
-            "\\\\begin\\{changemargin\\}\\{[^}]*\\}\\{[^}]*\\}\\\\begin\\{enfasi\\}\\{([\\s\\S]*?)\\}\\\\end\\{enfasi\\}\\\\end\\{changemargin\\}",
-            Pattern.DOTALL
-        );
-        Matcher nestedEnfasiMatcher = nestedEnfasiPattern.matcher(content);
-        StringBuffer sb = new StringBuffer();
-        while (nestedEnfasiMatcher.find()) {
-            String enfasiContent = nestedEnfasiMatcher.group(1);
-            enfasiContent = cleanBoxContent(enfasiContent);
-            nestedEnfasiMatcher.appendReplacement(sb, Matcher.quoteReplacement("\n\n> " + enfasiContent + "\n"));
+    // Helper method to generate fate points
+    private static String generateFatePoints(String count) {
+        try {
+            int n = Integer.parseInt(count);
+            StringBuilder result = new StringBuilder();
+            for (int i = 0; i < n; i++) {
+                result.append("• ");
+            }
+            return result.toString().trim();
+        } catch (NumberFormatException e) {
+            return "• • •"; // Default to 3 points if parsing fails
         }
-        nestedEnfasiMatcher.appendTail(sb);
-        return sb.toString();
     }
     
     // Helper method to clean box content from LaTeX commands
@@ -649,6 +652,15 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\\\emph\\{([^}]+)\\}", "*$1*");
         content = content.replaceAll("\\\\textit\\{([^}]+)\\}", "*$1*");
         content = content.replaceAll("\\\\textbf\\{([^}]+)\\}", "**$1**");
+        content = content.replaceAll("\\\\textsc\\{([^}]+)\\}", "$1");
+        content = content.replaceAll("\\\\texttt\\{([^}]+)\\}", "`$1`");
+        
+        // Handle color commands
+        content = content.replaceAll("\\\\textcolor\\{[^}]*\\}\\{([^}]*)\\}", "$1");
+        content = content.replaceAll("\\\\color\\{[^}]*\\}", "");
+        
+        // Handle FontAwesome icons
+        content = content.replaceAll("\\\\fa[A-Za-z]+", "");
         
         // Handle center environment
         content = content.replaceAll("\\\\begin\\{center\\}([\\s\\S]*?)\\\\end\\{center\\}", "$1");
@@ -659,6 +671,11 @@ public class Latex2MarkDown {
         // Handle spacing commands but preserve natural line breaks
         content = content.replaceAll("\\\\(?:smallskip|medskip|bigskip)\\s*", "");
         content = content.replaceAll("\\\\vspace\\{[^}]*\\}\\s*", "");
+        content = content.replaceAll("\\\\hspace\\{[^}]*\\}\\s*", "");
+        
+        // Handle custom OBSS commands
+        content = content.replaceAll("\\\\FatePoint", "•");
+        content = content.replaceAll("\\\\FatePoints\\{([0-9]+)\\}", generateFatePoints("$1"));
         
         // Remove stray braces that might be left over
         content = content.replaceAll("^\\{", "");  // Remove opening brace at start

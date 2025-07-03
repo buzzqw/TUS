@@ -1,115 +1,142 @@
 \documentclass[a4paper,twoside,openany]{book}
 
-% ----- OPZIONE PER SELEZIONARE IL MOTORE LaTeX -----
-% Per usare pdfLaTeX, decommenta questa riga:
-\newif\ifpdflatexengine
-%\pdflatexenginetrue % Decommenta questa riga per usare pdfLaTeX
-\pdflatexenginefalse % XeLaTeX è l'opzione predefinita
+% ========== CONFIGURAZIONE GEOMETRIA ==========
+\usepackage[a4paper,margin=2cm]{geometry}
+% Ottimizzazione: geometry con opzione margin=2cm è più concisa
 
-% ----- GEOMETRIA DI BASE -----
-\usepackage[a4paper]{geometry}
-\geometry{tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
-
-% ----- PACCHETTI BASE -----
-\usepackage[italian=guillemets]{csquotes}
+% ========== PACCHETTI LINGUISTICI E CODIFICA ==========
 \usepackage[italian]{babel}
-\usepackage{setspace}
-\usepackage{graphics}
-\usepackage{tocloft}
-\usepackage{caption}
-\usepackage{ragged2e}
-\usepackage{quoting,enumitem}
-\usepackage{amssymb,siunitx}
-\usepackage{multicol, array,wrapfig}
-\usepackage{url}
-\def\UrlBreaks{\do\/\do-\do_\do.\do:\do=\do&}
-\usepackage{titlesec,adjustbox}
-\usepackage[backend=bibtex]{biblatex}
-\addbibresource{bibliografia.bib}
-\usepackage{microtype}
+\usepackage[italian=guillemets]{csquotes}
 
-% ----- PACCHETTI PER TABELLE -----
-\usepackage{booktabs,multirow}
-\usepackage{xltabular,tabularx}
+% ========== PACCHETTI GRAFICI E COLORI ==========
+\usepackage{xcolor}
 
-% ----- PACCHETTI PER GRAFICA E COLORI -----
-\usepackage{tikz}
-\usetikzlibrary{shadows,shapes.misc,calc}
+% Definizione colori del tema OBSS
+\definecolor{OBSSblue!10}{RGB}{240,244,247}
+\definecolor{OBSSblue!20}{RGB}{215,230,239}
+\definecolor{OBSSblue!80}{RGB}{54,107,148}
+\definecolor{OBSSblue}{RGB}{30,84,131}
+\definecolor{OBSSgold!10}{RGB}{252,248,239}
+\definecolor{OBSSgold}{RGB}{218,165,32}
+\definecolor{OBSSpurple!10}{RGB}{244,241,247}
+\definecolor{OBSSpurple!8}{RGB}{246,243,249}
+\definecolor{OBSSpurple}{RGB}{88,57,131}
 \definecolor{lightgray}{gray}{0.95}
 
-% ----- PACCHETTI PER BOX E CORNICI -----
-\usepackage{tcolorbox}
-\tcbuselibrary{skins}
-\usepackage[framemethod=TikZ]{mdframed}
+% Colori per tabelle
+\definecolor{LightCyan}{RGB}{0,191,255}
+\definecolor{SlateGray}{RGB}{112,128,144}
+\definecolor{Lavender}{RGB}{230,230,250}
+\definecolor{Coral}{RGB}{255,127,80}
+\definecolor{Tan}{RGB}{210,180,140}
+\definecolor{LightGreen}{RGB}{34,139,34}
+\definecolor{Mauve}{RGB}{221,160,221}
 
-% ----- PACCHETTI PER INDICI -----
-\usepackage{makeidx,index,imakeidx}
-
-% ----- PACCHETTI VARI -----
-\usepackage{soul}
-\usepackage{pdfpages}
-\usepackage{etoolbox}
-\usepackage{listings}
-\usepackage{zref-savepos}
-\usepackage[absolute,overlay]{textpos}
-
-% ----- FONT SETTINGS (CONDIZIONALI PER pdfLaTeX/XeLaTeX) -----
-\ifpdflatexengine
-% Configurazione font per pdfLaTeX
-\usepackage[T1]{fontenc}
-%\usepackage{lmodern} %\usepackage{textcomp}  Latin Modern come font alternativo
-% Puoi usare altri font disponibili in pdfLaTeX, come:
-% \usepackage{palatino} % \usepackage{bookman}
-\usepackage{libertine}
-\else
-% Fontspec usato solo con XeLaTeX o LuaLaTeX
+% ========== PACCHETTI TIPOGRAFICI ==========
 \usepackage{fontspec}
 \setmainfont[
 Path=./fonts/,
 BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
 ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
 BoldFont=AtkinsonHyperlegibleNext-Bold.ttf,
-SmallCapsFont = {AtkinsonHyperlegibleNext-Regular.ttf}, % o un font dedicato
+SmallCapsFont = {AtkinsonHyperlegibleNext-Regular.ttf},
 SmallCapsFeatures = {Letters=SmallCaps}
 ]{AtkinsonHyperlegibleNext-Regular.ttf}
-\fi
 
-% ----- IMPORTANTE: HYPERREF E BOOKMARK (DEVONO ESSERE CARICATI ALLA FINE) -----
-% Opzioni condizionali per hyperref
-\ifpdflatexengine
-\PassOptionsToPackage{unicode,pdfencoding=auto,bookmarks=true,colorlinks=true,linkcolor=blue}{hyperref}
-\else
-\PassOptionsToPackage{unicode,bookmarks=true,colorlinks=true,linkcolor=blue}{hyperref}
-\fi
+\usepackage{microtype}
+% microtype migliora la qualità tipografica
 
-% Carica bookmark prima di hyperref
+% ========== PACCHETTI LAYOUT E SPAZIATURA ==========
+\usepackage{setspace}
+\usepackage{ragged2e}
+\usepackage{quoting,enumitem}
+
+% ========== PACCHETTI MATEMATICI E SCIENTIFICI ==========
+\usepackage{amssymb,siunitx}
+
+% ========== PACCHETTI TABELLE ==========
+\usepackage{booktabs,multirow}
+\usepackage{xltabular,tabularx}
+\usepackage{colortbl}
+\usepackage{hhline}
+\usepackage{multicol,array}
+
+% ========== PACCHETTI GRAFICI E FIGURE ==========
+\usepackage{graphics,adjustbox}
+\usepackage{caption}
+\usepackage{wrapfig}
+\usepackage{tikz}
+\usetikzlibrary{shadows,shapes.misc,calc}
+
+% ========== PACCHETTI BOX E CORNICI ==========
+\usepackage{tcolorbox}
+\tcbuselibrary{skins,breakable,theorems}
+\usepackage[framemethod=TikZ]{mdframed}
+
+% ========== PACCHETTI BIBLIOGRAFIA E INDICI ==========
+\usepackage[backend=bibtex]{biblatex}
+\addbibresource{bibliografia.bib}
+\usepackage{makeidx,imakeidx}
+
+% ========== PACCHETTI VARI ==========
+\usepackage{soul}
+\usepackage{pdfpages}
+\usepackage{etoolbox}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{url}
+\def\UrlBreaks{\do\/\do-\do_\do.\do:\do=\do&}
+\usepackage{varioref}
+\usepackage{fontawesome5}
+
+% ========== HYPERREF E BOOKMARK ==========
+% Importante: hyperref deve essere caricato per ultimo (quasi)
+\usepackage[
+unicode,
+pdfencoding=auto,
+bookmarks=true,
+colorlinks=true,
+linkcolor=OBSSblue,
+citecolor=OBSSpurple,
+urlcolor=OBSSblue,
+filecolor=OBSSblue,
+anchorcolor=OBSSblue,
+pdftitle={OBSS - Old Bell School System},
+pdfsubject={Gioco di Ruolo Fantasy},
+pdfauthor={Andres Zanzani},
+pdfkeywords={GDR, Fantasy, Gioco di Ruolo, OBSS},
+pdfcreator={XeLaTeX},
+pdfproducer={TexStudio on Debian},
+breaklinks=true,
+bookmarksnumbered=true,
+bookmarksopen=true
+]{hyperref}
+
 \usepackage{bookmark}
-\usepackage{hyperref}
+% bookmark deve essere caricato dopo hyperref
 
-% Configurazioni hyperref
-\hypersetup{
-	pdftitle={OBSS},
-	pdfsubject={Gioco di Ruolo per Avventure Incredibili},
-	pdfauthor={Andres Zanzani},
-	breaklinks=false,
-	pdfborder={0 0 1},
-	backref=section,
-	pdfcreator={LaTeX}
-}
-
-% ----- CONFIGURAZIONI -----
+% ========== CONFIGURAZIONI GENERALI ==========
 \setcounter{secnumdepth}{-1}
 \setcounter{tocdepth}{3}
 \raggedbottom
+\sloppy
+\DeclareMathSizes{11}{11}{8}{6}
+
+% Configurazione XeTeX per l'italiano
+\XeTeXlinebreaklocale "it"
+\XeTeXlinebreakskip = 0pt plus 1pt
+
+% ========== CONFIGURAZIONE TCOLORBOX ==========
 \tcbset{colback=brown!10, fonttitle=\scshape}
 
-% ----- CONFIGURAZIONE INDICI -----
+% ========== CONFIGURAZIONE INDICI ==========
+% Macro per contare le occorrenze negli indici
 \def\CountIndexOccurrences#1{%
 	\expandafter\newcount\csname #1\endcsname%
 	\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
 	\IfFileExists{#1.idx}{\input{#1.idx}}{}%
 }
 
+% Inizializzazione contatori indici
 \CountIndexOccurrences{OBSSv2}
 \CountIndexOccurrences{Incantesimi}
 \CountIndexOccurrences{Mostruario}
@@ -117,9 +144,11 @@ SmallCapsFeatures = {Letters=SmallCaps}
 \CountIndexOccurrences{OggettiMagici}
 \CountIndexOccurrences{Abilita}
 
+% Macro per visualizzare il totale delle voci
 \def\TotalBox#1{\vfill%
 	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
 
+% Creazione degli indici
 \makeindex[columns=1, title=Indice Analitico, intoc=true]
 \makeindex[columns=1, name=Tabelle, title=Elenco delle Tabelle, intoc=true]
 \makeindex[columns=1, name=Incantesimi, title=Elenco degli Incantesimi, intoc=true]
@@ -127,7 +156,7 @@ SmallCapsFeatures = {Letters=SmallCaps}
 \makeindex[columns=1, name=OggettiMagici, title=Elenco degli Oggetti Magici, intoc=true]
 \makeindex[columns=1, name=Abilita, title=Elenco delle Abilità, intoc=true]
 
-% ----- CONFIGURAZIONE INTESTAZIONI -----
+% ========== CONFIGURAZIONE INTESTAZIONI ==========
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
@@ -135,88 +164,153 @@ SmallCapsFeatures = {Letters=SmallCaps}
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
-\fancypagestyle{plain}{%
-	\fancyhf{}
-	\fancyhead[RO]{%
-		\rotatebox{90}{
-			\begin{tikzpicture}[overlay,remember picture]
-				\node[
-				fill=lightgray,
-				text=black,
-				font=\footnotesize,
-				inner ysep=12pt,
-				inner xsep=20pt,
-				rounded rectangle,
-				anchor=east,
-				minimum width=7cm,
-				xshift=-60mm,
-				yshift=-21mm,
-				text height=0.4cm
-				] at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
-				{\sffamily\itshape\small\nouppercase{\leftmark}};
-			\end{tikzpicture}
-		}
-	}
-	\fancyhead[LE]{%
-		\rotatebox{90}{
-			\begin{tikzpicture}[overlay,remember picture]
-				\node[
-				fill=lightgray,
-				text=black,
-				font=\footnotesize,
-				inner ysep=12pt,
-				inner xsep=20pt,
-				rounded rectangle,
-				anchor=east,
-				minimum width=7cm,
-				xshift=-60mm,
-				yshift=-4mm,
-				text height=0.4cm
-				] at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
-				{\sffamily\itshape\small\nouppercase{\leftmark}};
-			\end{tikzpicture}
-		}
-	}
-	\renewcommand{\headrulewidth}{0pt}
-	\renewcommand{\footrulewidth}{0pt}
-	\fancyfoot[C]{\thepage}
-}
-\pagestyle{plain}
+% ========== CONFIGURAZIONE TITOLI ==========
+\usepackage{titlesec}
 
-% ----- DEFINIZIONI PER MARGINI -----
-\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
-\let\endchangemargin=\endlist
+\titleformat{\chapter}[display]
+{\normalfont\Huge\bfseries\sffamily\color{OBSSblue}}
+{\textcolor{OBSSgold}{\chaptertitlename\ \thechapter}}
+{2ex}
+{\centering}
 
-% ----- AMBIENTI PERSONALIZZATI -----
-\newtcolorbox{narratore}{
+\titleformat{\section}
+{\normalfont\Large\bfseries\sffamily\color{OBSSblue}}
+{\thesection}
+{1em}
+{}
+[\textcolor{OBSSgold}{\titlerule[0.8pt]}]
+
+\titleformat{\subsection}
+{\normalfont\large\bfseries\sffamily\color{OBSSblue}}
+{\thesubsection}
+{1em}
+{}
+
+\titlespacing{\chapter}{0pt}{0pt}{20pt}
+\titlespacing{\section}{0pt}{10pt}{5pt}
+\titlespacing{\subsection}{0pt}{8pt}{4pt}
+\titlespacing{\subsubsection}{0pt}{6pt}{3pt}
+
+% ========== AMBIENTI PERSONALIZZATI ==========
+\newtcolorbox{narratore}[1][Narratore]{
 	enhanced,
-	left = 9mm,
-	sharp corners,
-	rounded corners = southeast,
-	arc is angular,
-	arc = 3mm,
-	boxrule=0.6pt,
-	underlay={%
-		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2);
-		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2);
-		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+	colback=OBSSblue!8,
+	colframe=OBSSblue,
+	boxrule=1.2pt,
+	arc=4mm,
+	drop shadow={shadow xshift=1mm, shadow yshift=-1mm, opacity=0.4, shadow scale=1.05},
+	title={\textbf{\textcolor{white}{\large \faBook} #1}},
+	fonttitle=\sffamily\bfseries\large,
+	colbacktitle=OBSSblue,
+	coltitle=white,
+	attach boxed title to top left={yshift=-2.5mm, xshift=3mm},
+	boxed title style={boxrule=0pt, colframe=white, arc=4mm,
+		drop shadow={shadow xshift=0.3mm, shadow yshift=-0.3mm, opacity=0.2}
 	},
-	drop fuzzy shadow
+	left=3mm, right=3mm, top=4mm, bottom=2mm,
+	before skip=\baselineskip, after skip=\baselineskip,
+}
+
+\newtcolorbox{giocatore}[1][Giocatore]{
+	enhanced,
+	breakable,
+	colback=OBSSpurple!8,
+	colframe=OBSSpurple,
+	boxrule=1.2pt,
+	arc=4mm,
+	drop shadow={shadow xshift=1mm, shadow yshift=-1mm, opacity=0.4, shadow scale=1.05},
+	title={\textbf{\textcolor{white}{\large $\dagger$} #1}},
+	fonttitle=\sffamily\bfseries\large,
+	colbacktitle=OBSSpurple,
+	coltitle=white,
+	attach boxed title to top left={yshift=-2.5mm, xshift=3mm},
+	boxed title style={boxrule=0pt, colframe=white, arc=4mm,
+		drop shadow={shadow xshift=0.3mm, shadow yshift=-0.3mm, opacity=0.2}
+	},
+	left=3mm, right=3mm, top=4mm, bottom=2mm,
+	before skip=\baselineskip, after skip=\baselineskip,
 }
 
 \newtcolorbox{enfasi}{
 	enhanced,
-	arc=5pt,
-	boxrule=0.3pt
+	colback=OBSSgold!8,
+	colframe=OBSSgold,
+	boxrule=1.2pt,
+	arc=4mm,
+	drop shadow={shadow xshift=0.3mm, shadow yshift=-0.3mm, opacity=0.2},
+	left=3mm, right=3mm, top=2mm, bottom=2mm,
+	before upper={\hyphenpenalty=10000\exhyphenpenalty=10000},
+	before skip=\baselineskip, after skip=\baselineskip,
 }
 
-\XeTeXlinebreaklocale "it"
-\XeTeXlinebreakskip = 0pt plus 1pt
+% ========== COMANDI PERSONALIZZATI ==========
+\newcommand{\OBSSseparator}{%
+	\begin{center}%
+		\begin{tikzpicture}%
+			\draw[OBSSgold, line width=1pt] (-2,0) -- (-0.5,0);%
+			\node[circle, fill=OBSSgold, minimum size=4mm] at (0,0) {};%
+			\draw[OBSSgold, line width=1pt] (0.5,0) -- (2,0);%
+		\end{tikzpicture}%
+	\end{center}%
+}
 
-\titlespacing{\section}{0pt}{10pt}{5pt} % Sezione
-\titlespacing{\subsection}{0pt}{8pt}{4pt} % Sottosezione
-\titlespacing{\subsubsection}{0pt}{6pt}{3pt} % Sotto-sottosezione
-\sloppy
-\DeclareMathSizes{11}{11}{8}{6} % Invece di 5.5pt
+\newcommand{\FatePoint}{\textcolor{OBSSgold}{$\bullet$}}
+\newcommand{\FatePoints}[1]{%
+	\textcolor{OBSSgold}{%
+		\foreach \n in {1,...,#1}{$\bullet$\,}%
+	}%
+}
 
+% ========== SISTEMA TABELLE COLORATE ==========
+\newcommand{\obsscurrentcolor}{Coral}
+\newcommand{\obsssetcolor}[1]{\renewcommand{\obsscurrentcolor}{#1}}
+
+% Comandi per cambiare colore
+\newcommand{\obssgrey}{\obsssetcolor{SlateGray}}
+\newcommand{\obsspurple}{\obsssetcolor{Mauve}}
+\newcommand{\obssblue}{\obsssetcolor{LightCyan}}
+\newcommand{\obssgreen}{\obsssetcolor{LightGreen}}
+\newcommand{\obsscoral}{\obsssetcolor{Coral}}
+
+% Salvataggio ambienti originali
+\let\obssoriginaltabular\tabular
+\let\obssendinaltabular\endtabular
+\let\obssoriginaltabularx\tabularx
+\let\obssendoriginaltabularx\endtabularx
+\let\obssoriginalxltabular\xltabular
+\let\obssendoriginalxltabular\endxltabular
+
+% Ridefinizione ambienti tabella con colori
+\renewenvironment{tabular}[1]{%
+	\obssgrey%
+	\arrayrulecolor{\obsscurrentcolor}%
+	\setlength{\arrayrulewidth}{1.5pt}%
+	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
+	\obssoriginaltabular{#1}%
+}{%
+	\obssendinaltabular%
+}
+
+\renewenvironment{tabularx}[2]{%
+	\obssgrey%
+	\arrayrulecolor{\obsscurrentcolor}%
+	\setlength{\arrayrulewidth}{1.5pt}%
+	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
+	\obssoriginaltabularx{#1}{#2}%
+}{%
+	\obssendoriginaltabularx%
+}
+
+
+\renewenvironment{xltabular}[2]{%
+	\obssgrey%
+	\arrayrulecolor{\obsscurrentcolor}%
+	\setlength{\arrayrulewidth}{1.5pt}%
+	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
+	\obssoriginalxltabular{#1}{#2}%
+}{%
+	\obssendoriginalxltabular%
+}
+
+% ========== INIZIO DOCUMENTO ==========
 \begin{document}

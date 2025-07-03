@@ -6,7 +6,7 @@ Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogn
 
 Mai rinunciare ai tuoi desideri, persevera fino a renderli reali.
 
->> 
+> Non temere l'ignoto, affrontalo con rispetto.
 ---
 
 **Playtesting**: Federica Angeli, Simona Bissi, Fabrizio Bonetti, Francesco Converso, Carlo Dall'Ara, Lucia Dolcini, Michele Faedi, Dario Galassi, Micaela Gramellini, Stefano Mannino, Samuele Mazzotti, Emanuele Pezzi, Leonardo Pezzi, Gian Luca Fava, Nicola Ricottone, Marco Valmori, Edoardo Zanzani, Isotta Zanzani, SicuramenteNonMirko,
@@ -14,13 +14,11 @@ Mai rinunciare ai tuoi desideri, persevera fino a renderli reali.
 **Condizioni d'uso**: OBSS, Old Bell School System, è un marchio registrato di Andres Zanzani (azanzani@gmail.com), licenziato con Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Consultare i dettagli nel capitolo Licenza.
 ---
 
->> "May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
+> "May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
 
 ---
 
->> 
-Il fatto che gli uomini non imparino molto dalla storia è la lezione più importante che la storia ci insegna. (Aldous Huxley)
-: 
+> Il fatto che gli uomini non imparino molto dalla storia è la lezione più importante che la storia ci insegna. (Aldous Huxley)
 
 # La storia fino ad adesso...
 
@@ -71,7 +69,7 @@ Sono passati poco più di cento anni dalla seconda venuta eppure tanto è bastat
 
 Molti dei Patroni più oscuri hanno aperto portali verso regni dell'incubo se non demoniaci, altri hanno attinto dal folklore locale per divertirsi con la nostra sofferenza e morte. Come divinità i Patroni camminano sulla Terra con il solo scopo di avere più persone che le adorino, che seguano i loro insegnamenti, che abbiano i loro Tratti.
 
->> Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone): 
+> Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)
 
 ## Introduzione
 
@@ -103,7 +101,7 @@ Ora che siete pronti, è tempo di abbracciare il vostro destino e di scrivere la
 
 Andres Zanzani
 
->> D | D ha nelle proprie origini tratti misogini e razzisti che con il tempo sono stati rimossi grazie alle tantissime persone di tutti i generi e tipi che ci hanno giocato.
+> D | D ha nelle proprie origini tratti misogini e razzisti che con il tempo sono stati rimossi grazie alle tantissime persone di tutti i generi e tipi che ci hanno giocato.
 OBSS vuole continuare nel solco di un gioco inclusivo e libero. Ogni gruppo è libero di approcciare argomenti controversi come meglio crede ma sempre nel rispetto di ogni giocatore e sensibilità. Non fate che OBSS sia motivo di litigio ma di unione e spirito fraterno, un gioco che unisca e mai divida. (Andres Zanzani)
 
 ---
@@ -221,9 +219,9 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 
 > Esempio di box contenente una citazione o frase motivazionale
 
->> Informazioni per il giocatore: Box contenente indicazioni e chiarimenti per il Giocatore.
+>> **Informazioni per il Giocatore**: Box contenente indicazioni e chiarimenti per il Giocatore.
 
->>> Box contenente indicazioni e suggerimenti per il Narratore.
+>>> **Informazioni per il Narratore**: Box contenente indicazioni e suggerimenti per il Narratore.
 ---
 
 # Razze
@@ -541,15 +539,19 @@ Il Sulian non esegue Prove di Magia ne si può considerare Distratto quando lanc
 
 - *Resistenza Elementale*: tramite questo potere il Sulian acquisisce Resistenza all'elemento scelto.
 
->> Nota sulle Razze: Nessuna descrizione di una razza potrà mai imbrigliare e sottomettere un personaggio. Ogni giocatore è libero di creare il personaggio della razza preferita (concessa dal Narratore) e descriverlo, inquadrarlo, sentirlo, renderlo vivo come più gli piace.
+>> **Nota sulle Razze**: Nessuna descrizione di una razza potrà mai imbrigliare e sottomettere un personaggio. Ogni giocatore è libero di creare il personaggio della razza preferita (concessa dal Narratore) e descriverlo, inquadrarlo, sentirlo, renderlo vivo come più gli piace.
 
 Non limitatevi alle descrizioni qui proposte, vogliono essere solo spunti, non sentitevi limitati nelle scelte perché la descrizione della razza dice questo o quello.
 Fate nascere i più belli e completi personaggi possibili. Ogni personaggio è vivo ed è una persona e come tale sarà sempre diverso l'uno dall'altro, ognuno fantastico in maniera diversa a discapito di qualsiasi razza e pregiudizio.
 
->> Nota sul Sesso dei personaggi: Casomai foste così ottusi ribadisco che non c'è differenza di capacità o caratteristiche in base al sesso. Ogni giocatrice e giocatore è invitato a fare il personaggio del genere che preferisce.
+>> **Nota sul Sesso dei personaggi**: Casomai foste così ottusi ribadisco che non c'è differenza di capacità o caratteristiche in base al sesso. Ogni giocatrice e giocatore è invitato a fare il personaggio del genere che preferisce.
+
+> Non dimenticare, nessun altro vede il mondo come lo vedi tu, quindi nessun altro può raccontare le storie che devi raccontare tu. (Ursula K. Le Guin)
 ---
 
 # Caratteristiche Speciali
+
+> Non basta avere gli occhi per vedere (anonimo)
 
 Ogni creatura è speciale ed unica eppure ci sono esseri ancora più unici e speciali per le loro caratteristiche. Queste sono le peculiarità di alcune di queste.
 
@@ -710,6 +712,8 @@ Un punteggio di -1 e giudicato debole, un -2 subnormale, un -3 severamente probl
 
 L'età del personaggio influisce sulle Caratteristiche fisiche e mentali.
 
+	
+
 | **Periodo** | **FOR** | **DES** | **COS** | **INT** | **SAG** |
 | --- | --- | --- | --- | --- | --- |
 | Giovane |  |  | +1 |  | -1 |
@@ -758,9 +762,9 @@ La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabell
 | 3 (o meno) | -3 | 12-13-14 | +1 |
 | 4-5 | -2 | 15-16-17 | +2 |
 | 6-7-8 | -1 | 18 (o più) | +3 |
-| 9-10-11 | +0 |  | **Ricordate di applicare i modificatori razziali!** |
+| 9-10-11 | +0 |  | **Applicate i modificatori razziali!** |
 
->> Tiriamo le Caratteristiche di Tups: **Prima terzina**: \st,1,4,3 totale 8. Forza è -1
+>> **Tiriamo le Caratteristiche di Tups**: **Prima terzina**: \st,1,4,3 totale 8. Forza è -1
 
 **Seconda**: 5,6,6 totale 17. Destrezza è +2
 
@@ -784,9 +788,12 @@ Per aumentare la Caratteristica oltre a 4 sono necessari oggetti magici o incant
 
 L'aumento di Caratteristica applica immediatamente il modificatore alle Prove di Competenza, Tiri Salvezza, Tiri per Colpire, Iniziativa e Magia. L'aumento dell'intelligenza si ripercuote nel successivo livello per quanto riguarda l'aumento delle Competenze acquisite.
 
->>> I giocatori comunque si lamenteranno delle Caratteristiche tirate, è normale, specialmente i giocatori più inesperti. Cercate di fargli capire che non deve limitarsi a guardare le Caratteristiche ma vedere l'insieme generale del personaggio. Suggeritegli Abilità che possano aiutarlo a sopperire ai valori delle Caratteristiche.
+>>> **Non è tutto nelle Caratteristiche**: I giocatori comunque si lamenteranno delle Caratteristiche tirate, è normale, specialmente i giocatori più inesperti. Cercate di fargli capire che non deve limitarsi a guardare le Caratteristiche ma vedere l'insieme generale del personaggio. Suggeritegli Abilità che possano aiutarlo a sopperire ai valori delle Caratteristiche.
 
->> Il Personaggio fa schifo! - Caratteristiche basse: Avere delle Caratteristiche basse non è la morte del personaggio! Cercate piuttosto di giocare affinché non sia necessario tirare dadi o fare prove! Sforzatevi di essere arguti, intuitivi, propositivi, furbi.. insomma tutto ciò che vi può fare risolvere la situazione senza dover per forza tirare dadi. In OBSS il Narratore premia i giocatori che descrivono e si esaltano in ciò che il personaggio fa!
+>> **Il Personaggio fa schifo!**: Avere delle Caratteristiche basse non è la morte del personaggio! Cercate piuttosto di giocare affinché non sia necessario tirare dadi o fare prove! Sforzatevi di essere arguti, intuitivi, propositivi, furbi.. insomma tutto ciò che vi può fare risolvere la situazione senza dover per forza tirare dadi. In OBSS il Narratore premia i giocatori che descrivono e si esaltano in ciò che il personaggio fa!
+
+> Sono le nostre scelte che mostrano chi siamo veramente, molto più delle nostre capacità. (Albus Silente)
+
 ---
 
 # Punti Ferita
@@ -825,15 +832,14 @@ Ogni personaggio ha un numero di Punti Fato pari a (20 - Livello)/5, arrotondato
 Si recupera un Punto Fato ogni volta che si tirano almeno tre 1 in una prova.
 
 Non costa Azioni usare un Punto Fato e può essere usato per:
-
-- aggiungere 1d6 ad un Tiro Salvezza, Tiro per Colpire, Prova di Competenza e Prova di Magia. Da dichiarasi prima del tiro dei dadi. Il dado aggiunto può esplodere secondo le Golden Rules. 1 o più Punto Fato
-- ritirare 1d6 nelle prove di cui sopra. 2 Punti Fato
-- negare un Tiro Critico d'arma subito. 1 Punto Fato
-- usando 2 Punti Fato a disposizione è possibile ritirare una prova, accettando solo il nuovo risultato ottenuto.
-- usando un Punto Fato puoi migliorare di un grado una prova fallita (Fallimento Critico -> Fallimento)
-- usando un Punto Fato puoi fare ritirare un Tiro Salvezza ad un obiettivo.
-- usando tutti i Punti Fato a disposizione si può tornare a 0 Punti Ferita.
-- diminuire di 3 i danni subiti da un attacco. 1 Punto Fato.
+- [•] o più, aggiungere 1d6 ad un Tiro Salvezza, Tiro per Colpire, Prova di Competenza. Da dichiarasi prima del tiro dei dadi. Il dado aggiunto può esplodere secondo le Golden Rules.
+- [••] ritirare 1d6 nelle prove
+- [•] negare un Tiro Critico d'arma subito
+- [••] ritirare completamente una prova
+- [•] trasformare prova fallita criticamente in fallita semplicemente
+- [•] far ritirare un Tiro Salvezza ad un obiettivo
+- [•s] tornare a 0 Punti Ferita (tutti i punti disponibili)
+- [•] o più, diminuire di 3 i danni subiti
 
 ## Opzionale - Punti Caos
 
@@ -861,7 +867,7 @@ Un Tratto è un dettaglio che aiuta meglio a inquadrare il personaggio, ne delin
 
 **Ogni giocatore sceglie 5 Tratti per il proprio personaggio alla creazione del personaggio.** Questi che suggeriranno il personaggio nell'agire e nelle scelte.
 
->> Scegliere i Tratti: I Tratti non sono il personaggio, non lo bloccano ne lo fissano eterno nel tempo. Un personaggio è sempre in costante evoluzione e così il suo carattere, morale, comportamento e desideri. Non essere rigido ma usa i Tratti per darti dei suggerimenti da cui farti ispirare.
+>> **Scegliere i Tratti**: I Tratti non sono il personaggio, non lo bloccano ne lo fissano eterno nel tempo. Un personaggio è sempre in costante evoluzione e così il suo carattere, morale, comportamento e desideri. Non essere rigido ma usa i Tratti per darti dei suggerimenti da cui farti ispirare.
 
 I Tratti non hanno accezione positiva o negativa, servono solo ad inquadrare il personaggio e capire quale Patrono è più interessato al personaggio. Non vogliono definire se sei buono o cattivo, ognuno ha la propria morale indipendentemente dai Tratti posseduti.
 
@@ -1190,9 +1196,11 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 - Usa interventi dei Patroni per evidenziare o sfidare la natura archetipica di un personaggio
 - Progetta archi di campagna che seguono cicli archetipici classici
 
-Questo sistema archetipico fornisce un altro livello di profondità alla creazione e sviluppo del personaggio, collegando la teoria psicologica con i sistemi esistenti di Tratti e Patroni del gioco. Comprendendo questi pattern archetipici, giocatori e Narratore possono creare personaggi e storie più coerenti e psicologicamente consistenti.
+>>> **Gli Archetipi**: Questo sistema archetipico fornisce un altro livello di profondità alla creazione e sviluppo del personaggio, collegando la teoria psicologica con i sistemi esistenti di Tratti e Patroni del gioco. Comprendendo questi pattern archetipici, giocatori e Narratore possono creare personaggi e storie più coerenti e psicologicamente consistenti.
 
 **Piuttosto che limitare la creatività, questi archetipi servono come framework e linee guida utili che possono essere abbracciati, sovvertiti o trasformati durante il viaggio di un personaggio**. L'integrazione di Tratti e affinità con i Patroni con pattern archetipici crea un ricco arazzo di possibilità per lo sviluppo del personaggio e la narrazione.
+
+> La battaglia tra il bene e il male si svolge nel cuore umano di ciascuno e non necessariamente tra un esercito di persone vestite di bianco e un esercito di persone vestite di nero. (George R.R. Martin)
 
 ---
 
@@ -1216,8 +1224,9 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 
 **Tabella: Elenco delle Professioni e relative Competenze**
 
-| {\textwidth}{|>{\raggedright}l|c|c|c|c|} |
-| --- | --- | --- | --- | --- | --- | --- |
+| {\textwidth}{>{\raggedright}l|c|c|c|c} |
+| --- | --- | --- | --- | --- |
+	
 | **Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |
 | **Accolito** | Occulto | Storia o Geografia | Arcana | Religione |
 | **Alchimista** | Valutare | Natura | Erboristeria | Arcana |
@@ -1235,8 +1244,8 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 | **Forestale** | Miti e Leggende | Erboristeria | Cavalcare | Natura |
 | **Guardia** | Percepire Emozioni | Conoscenza Legge | Cavalcare | Intimidire |
 | **Guida** | Miti e Leggende | Dungeon | Natura | Geografia |
-| **Leguleio** | Valutare | Ingannare | Percepire Emozioni | Diplomazia |
-| **Locandiere** | Pronto soccorso | Valutare | Percepire Emozioni | Diplomazia |
+| **Leguleio** | Valutare | Ingannare | Percepire Emozioni | Legge |
+| **Locandiere** | Pronto soccorso | Valutare | Diplomazia | Percepire Emozioni |
 | **Mazziere** | Percepire Emozioni | Valutare | Intrattenere | Ingannare |
 | **Medico** | Miti e Leggende | Natura | Erboristeria | Pronto soccorso |
 | **Mercante** | Lingue | Tradizioni Locali | Ingannare | Valutare |
@@ -1272,7 +1281,7 @@ Il personaggio acquisisce una Competenza a punteggio 1 per ogni punto di Intelli
 
 Il giocatore **aumenta di 1 il punteggio di una Caratteristica che si colleghi alla Professione od al background** fino al valore massimo di 4. Potrebbe essere Intelligenza per un Apprendista mago, ma se questo fa il culturista per hobby potrebbe essere anche Forza.
 
->> Professione ???: Non sottovalutate la scelta della Professione! Non tutto può risolversi con asciate o magia. Sapere districare nodi, seguire tracce, riconoscere erbe o malattie fanno del personaggio un esperto, creano una professione. Non dovete definire il personaggio solo in base alle Abilità che ha ma in base a cosa e quanto bene sa farlo. Un personaggio di basso livello ma esperto di sopravvivenza sarà sempre più utile di un combattente esperto se si tratta di attraversare un deserto.
+>> **Professione ???**: Non sottovalutate la scelta della Professione! Non tutto può risolversi con asciate o magia. Sapere districare nodi, seguire tracce, riconoscere erbe o malattie fanno del personaggio un esperto, creano una professione. Non dovete definire il personaggio solo in base alle Abilità che ha ma in base a cosa e quanto bene sa farlo. Un personaggio di basso livello ma esperto di sopravvivenza sarà sempre più utile di un combattente esperto se si tratta di attraversare un deserto.
 
 **Tabella: Elenco Competenze e relativa Caratteristica d'uso**
 
@@ -1422,7 +1431,7 @@ Il **Tiro Salvezza su Riflessi** indica quanto si è agili e pronti per evitare 
 Quando viene chiesto un Tiro Salvezza significa fare una prova sulla Competenza Attiva richiesta, possa essere Volontà, Tempra o Riflessi.
 La prova si andrà ad eseguire tirando 3d6 + valore della Competenza Attiva richiesta ovvero il punteggio nel Tiro Salvezza su Volontà, Riflessi o Tempra + il valore della Caratteristica collegata alla tipologia Competenza Attiva (Saggezza, Destrezza o Costituzione) + Abilità + bonus magici (oggetti che influenzano il Tiro Salvezza) e modificatori vari presenti.
 
->> Tiri Salvezza non standard: E' possibile che vengano richiesti dei Tiri Salvezza con modificatori diversi, ovvero un Tiro Salvezza su Tempra con modificatore Forza oppure un Tiro Salvezza su Volontà con modificatore Carisma. Sarà il Narratore a dirvi quando si applica un modificatore diverso.
+>> **Tiri Salvezza non standard**: E' possibile che vengano richiesti dei Tiri Salvezza con modificatori diversi, ovvero un Tiro Salvezza su Tempra con modificatore Forza oppure un Tiro Salvezza su Volontà con modificatore Carisma. Sarà il Narratore a dirvi quando si applica un modificatore diverso.
 
 ### Competenza Armi
 
@@ -1455,7 +1464,7 @@ Usare un'**Armatura senza l'adeguata competenza** impedisce di usare il valore d
 
 Usare uno **Scudo senza l'adeguata competenza** peggiora il Tiro per Colpire di 1 e lo scudo conferisce un bonus massimo a Difesa di 1.
 
->> Specializzarsi o meno in un arma: I vantaggi di specializzarsi in una Lista d'Armi sono concreti e tangibili ma si portano dietro il limite di non sapere usare bene le altre armi.
+>> **Specializzarsi o meno in un arma**: I vantaggi di specializzarsi in una Lista d'Armi sono concreti e tangibili ma si portano dietro il limite di non sapere usare bene le altre armi.
 
 Valutate il tipo di avventura, se avrete sempre a disposizione o potrete facilmente ottenere le vostre armi *preferite*.
 
@@ -1485,7 +1494,7 @@ Il Narratore può concedere su richiesta del giocatore di poter usare il punto d
 
 Ogni punto attribuito nella Competenze di Base o Competenza Armi o Magica permette di usufruire di +1 nella prova relativa (Prove, Tiro per Colpire, Competenza Magica)
 
->> Tups arriva al 4' livello!: Tups è arrivato al 4' livello! Ecco come ha distribuito i punti delle Competenze Attive.
+>> **Tups arriva al 4' livello!**: Tups è arrivato al 4' livello! Ecco come ha distribuito i punti delle Competenze Attive.
 
 **1 livello**: +1 Competenza Armi, Abilità: Armatura del Devoto (+2 Volontà, +1 Riflessi, **Costituzione**), Il Patrono è la mia Arma (+1 Riflessi, +1 Volontà, **Costituzione**), Conoscenza istintiva (+2 Volontà, +1 Tempra, **Saggezza**)
 
@@ -1496,6 +1505,9 @@ Ogni punto attribuito nella Competenze di Base o Competenza Armi o Magica permet
 **4 livello**: +1 Competenza Armi, Abilità: Incantatore Prudente (+2 Riflessi, +1 Tempra, **Intelligenza**)
 
 ***Totale***: +2 CA, +2 CM, +4 Tiro Salvezza Riflessi, +6 Tiro Salvezza Tempra, +6 Tiro Salvezza Volontà
+
+> Hai idea di quale grande potere hai nelle tue mani? (Morla, La Storia Infinita)
+
 ---
 
 # Costruiamo il Personaggio
@@ -1577,7 +1589,7 @@ Hai il vantaggio che in OBSS le classi non esistono, il personaggio cresce evolv
 
 In ultimo ricordati della Legge del Premio. Questo mondo è feroce, spesso malvagio, ancor di più vorrà ucciderti, eppure per chi sopravvive c'è la Legge del Premio, una legge che neanche i Patroni possono violare. La Legge è piuttosto semplice nel suo concetto base *A chi sopravvive andranno i tesori e la gloria*.
 
-***Personaggi disfunzionali***: il Narratore può concedere in base alla tipologia di campagna che se il personaggio creato ha tutti i punteggi di Caratteristica a 0 o meno può essere creato nuovamente.
+>>> **Personaggi disfunzionali**: Il Narratore può concedere in base alla tipologia di campagna che se il personaggio creato ha tutti i punteggi di Caratteristica a 0 o meno può essere creato nuovamente.
 
 ## Avanziamo di Livello
 
@@ -1606,7 +1618,7 @@ Come giocatori avete l'opportunità di prediligere un approccio specializzato ov
 
 Un suggerimento è anche di usare le Abilità, ed in particolare Esperto, che vi concede un bonus di +2 alle prove di Competenze.
 
-Il livello di potere **percepito** dei personaggi in OBSS è inferiore a quello di altri GDR. La debolezza del personaggio è solo una percezione ed anzi vi accorgerete presto della vera potenza del personaggio. Giocate di gruppo e sopravviverete perché ricordate che questo è un mondo cattivo, dispettoso e mortale con gli **egoisti**.
+>> **Potere, percepito**: Il livello di potere **percepito** dei personaggi in OBSS è inferiore a quello di altri GDR. La debolezza del personaggio è solo una percezione ed anzi vi accorgerete presto della vera potenza del personaggio. Giocate di gruppo e sopravviverete perché ricordate che questo è un mondo cattivo, dispettoso e mortale con gli **egoisti**.
 
 ## Come Sopravvivere e Divertirsi
 
@@ -1614,7 +1626,7 @@ Il livello di potere **percepito** dei personaggi in OBSS è inferiore a quello 
 
 - Da quando gli eroi hanno bisogno di piani? (Final Fantasy XIII)
 
-Vado matto per i piani ben riusciti! (Colonnello John *Hannibal* Smith, A-Team)}
+Vado matto per i piani ben riusciti! (Colonnello John *Hannibal* Smith, A-Team)
 
 - Ogni combattimento è potenzialmente letale. Decidi con raziocinio e approccialo con attenzione. Impara a scappare, non aver paura di sopravvivere.
 - Non c'è tutto nella scheda. La scheda di un personaggio è il perimetro dello stesso ma non definisce ciò che può o non può fare. Spremiti le meningi e sii creativo, alternativo, curioso ma non suicida o avventato.
@@ -1632,6 +1644,7 @@ Vado matto per i piani ben riusciti! (Colonnello John *Hannibal* Smith, A-Team)}
 - Fai in modo che il tuo personaggio si preoccupi sempre di qualcosa di più che della sua vita.
 - Non aver paura di discutere con gli altri personaggi, ma assicurati sempre di non andare sul personale con i giocatori.
 
+> La candela accesa da entrambe le parti dura la metà. (Anonimo)
 ---
 
 # Regole per le Competenze
@@ -1648,7 +1661,7 @@ Decifrare uno scritto antico potrà essere una passeggiata per un linguista espe
 
 E non spaventatevi se i personaggi falliscono le prove, renderà l'avventura più interessante e permetterà al Narratore di introdurre fatti, indizi e nuove avventure.
 
-Evita di chiedere una prova qualora i giocatori dichiarino **come** effettuano la prova, come e dove cercano, che dialogo imbastiscono per intimidire l'obiettivo.. Valutate con attenzione come il giocatore descrive ciò che fa perché questa è già la prova. Non è solo per velocizzare il gioco, serve a stimolare i giocatori a pensare in maniera completa ed a calarsi nel personaggio e nell'ambiente.
+>>> **Non serve sempre una Prova**: Evita di chiedere una prova qualora i giocatori dichiarino **come** effettuano la prova, come e dove cercano, che dialogo imbastiscono per intimidire l'obiettivo.. Valutate con attenzione come il giocatore descrive ciò che fa perché questa è già la prova. Non è solo per velocizzare il gioco, serve a stimolare i giocatori a pensare in maniera completa ed a calarsi nel personaggio e nell'ambiente.
 
 Renderà il gioco più dinamico e tutti i giocatori parteciperanno alla situazione e collaboreranno dichiarando cosa e come agiscono. Usate sempre il buon senso e risparmiate tiri di dadi! Tirare un dado significa creare la possibilità di fallire!
 
@@ -1665,7 +1678,7 @@ Il Narratore non ti dirà fammi una prova a difficoltà 10, ma dirà che la prov
 | **Diff.** | **Descrizione** | **Livello** |
 | --- | --- | --- |
 | **DC** | **difficoltà** | **Competenza** |
-| 5 | Estremamente facile | Nulla |
+| 6 | Estremamente facile | Nulla |
 | 10 | Facile | Scarsa |
 | 15 | Normale | Normale |
 | 20 | Difficile | Buona |
@@ -1689,7 +1702,7 @@ Se non specificato diversamente per tutte le prove di competenza (Base, Attive) 
 
 Sfruttate le **Golden Rules** a vostro vantaggio! Osate, tentate, rischiate quando la situazione non permette altre soluzioni!
 
->> Non c'è solo la scheda!: Non cercate per forza la soluzione nella scheda. Usate la vostra capacità di immaginare, di risolvere, di intuire per uscire e risolvere situazioni. La scheda rappresenta solo una piccola parte di ciò che il vostro personaggio può fare.
+>> **Non c'è solo la scheda!**: Non cercate per forza la soluzione nella scheda. Usate la vostra capacità di immaginare, di risolvere, di intuire per uscire e risolvere situazioni. La scheda rappresenta solo una piccola parte di ciò che il vostro personaggio può fare.
 
 ## Superare o Fallire la prova
 
@@ -1701,7 +1714,7 @@ Una prova può essere ripetuta finché non mutano le condizioni che permettono a
 
 ### Successo Critico - Fallimento Critico
 
-Se la prova viene superata almeno di 8 rispetto alla difficoltà stabilita il Narratore allora si considerà come un Successo Critico.
+Se la prova viene **superata almeno di 8** rispetto alla difficoltà stabilita il Narratore allora si considerà come un Successo Critico.
 Il Narratore può decidere di dare maggiori informazioni, concedere un bonus alle azioni successive (+1).. qualsiasi cosa possa valorizzare quanto agevolmente la prova è stata superata..
 
 Viceversa se la prova fallisce **di almeno 8 punti** il Narratore potrebbe descrivere come miseramente la prova è fallita e come il risultato pessimo influenzi l'Azione e quelle successive.
@@ -1710,7 +1723,7 @@ Per ogni 8 punti superiori od inferiori alla difficoltà stabilita si conta un S
 
 A discrezione del Narratore una prova fallita criticamente non può essere ripetuta dallo stesso personaggio.
 
->>> Se la prova può essere ripetuta fino all'eventuale successo senza problemi o interruzioni allora non fate fare la prova, descrivete i tentativi, le difficoltà incontrate e dichiarate il successo.
+>>> **Ripetere le Prove**: Se la prova può essere ripetuta fino all'eventuale successo senza problemi o interruzioni allora non fate fare la prova, descrivete i tentativi, le difficoltà incontrate e dichiarate il successo.
 
 Ragionate su quanto è competente un personaggio al fine di evitare qualsiasi prova dal risultato scontato.
 
@@ -1720,7 +1733,7 @@ La Consapevolezza è una di quelle competenze che entra in gioco molto spesso.
 
 Fate in modo che siano le domande ed i ragionamenti dei personaggi a rivelare gli indizi, una prova di Consapevolezza potrà essere fatta ogni qual volta ci sia da cercare qualcosa di non ovvio, qualcosa che deve essere cercato altrimenti non risulta immediatamente percettibile o intuibile, qualcosa che i giocatori desiderano trovare e che c'è ma non fanno la domanda giusta.
 
-Non fate che siano le prove a governare il vostro gioco. **Fate giocare i giocatori**, fateli recitare, fateli partecipare ed in base a quanto dicono stabilite se la prova è passata o meno.
+>>> **Non sono le prove a comandare**: Non fate che siano le prove a governare il vostro gioco. **Fate giocare i giocatori**, fateli recitare, fateli partecipare ed in base a quanto dicono stabilite se la prova è passata o meno.
 
 Se vi dicono *convinco la guardia a farci passare* fate fare una prova di Intimidire (o Diplomazia), se invece intavolano un dialogo convincente potete considerare che la prova sia stata fatta con esito positivo (o negativo se non sono riusciti ad argomentare!) Premiate il COME più che il COSA.
 
@@ -1785,19 +1798,17 @@ Il giocatore può richiedere di effettuare la prova anche se il risultato è cer
 
 **Tabella: Vantaggi e Svantaggi**:
 
+	
+
 | **Vantaggio / Svantaggio** | **Prove** | |
 | --- | --- |
 | \cmidrule(lr) | **Dinamiche** | **Fisse** |
-| Bonus leggero | +1 | +1 |
-| Bonus normale | +2 | +2 |
-| Bonus forte | +1d6 | +4 |
-| Bonus molto forte | +2d6 | +8 |
-| Svantaggio leggero | -1 | -1 |
-| Svantaggio normale | -2 | -2 |
-| Svantaggio forte | -1d6 | -4 |
-| Svantaggio molto forte | -2d6 | -8 |
+| Leggero | $\pm$1 | $\pm$1 |
+| Normale | $\pm$2 | $\pm$2 |
+| Forte | $\pm$1d6 | $\pm$4 |
+| Molto forte | $\pm$2d6 | $\pm$8 |
 
-I bonus e penalità nel tiro di 3d6 hanno più *effetto* che nella prova fatta con il d20. Cercate di rimanere entro i $\pm2$ e solo in situazioni particolari di effettivo e forte vantaggio o svantaggio applicate bonus o penalità maggiori.
+>>> **Il valore dei dadi**: I bonus e penalità nel tiro di 3d6 hanno più *effetto* che nella prova fatta con il d20. Cercate di rimanere entro i $\pm2$ e solo in situazioni particolari di effettivo e forte vantaggio o svantaggio applicate bonus o penalità maggiori.
 
 ### Fattore tempo
 
@@ -1807,7 +1818,7 @@ I bonus e penalità nel tiro di 3d6 hanno più *effetto* che nella prova fatta c
 
 **Se il tempo diventa un fattore da non considerare**, ovvero il personaggio ha almeno 1 ora per pensare e lavorare e non ha alcuna penalità o rischio considerare di avere tirato 18 (ma non c'è nessuna esplosione di dadi o Successo Critico anche se il totale è 18).
 
-Consiglio a tutti di leggere l'ottimo articolo di Lorenzo Bertini https://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20 per una disamina critica ed intelligente sul successo e fallimento delle prove.
+>>> **Consiglio di lettura**: Consiglio a tutti di leggere l'ottimo articolo di Lorenzo Bertini \hrefhttps://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20Elogio del 10 e del 20 per una disamina critica ed intelligente sul successo e fallimento delle prove.
 
 Se vuoi prendere questi valori chiedilo al Narratore, sarà lui che ti dirà se in base alla situazione, urgenza, pericolosità di ciò che ti circonda riesci a prendere il punteggio. Mettersi a scassinare una porta in un dungeon chiedendo il 10 richiede un estremo sangue freddo ed incoscienza. Prendere il 10/14/18 non deve essere concesso per le prove di conoscenza.
 
@@ -1978,6 +1989,13 @@ Si può usare per cercare trappole: 1 minuto per cercare trappole in 3x3 metri, 
 
 Quando nel manuale si parla di *valore o punteggio Competenza* si intende sempre il valore della competenza compreso di tutti i punteggi e modificatori.
 
+>> **Prove Prove e Prove!**: Ad essere cinici un gioco di ruolo è tutta una prova, vuoi per riuscire a fare un salto, per colpire qualcuno, per evitare una trappola od un incantesimo...!
+Devi essere più intelligente e furbo. Le prove possono essere spesso evitate o affrontate con vantaggio. Gioca con arguzia, usa la tua immaginazione, sii creativo!
+
+>>> **Il ruolo delle Prove**: L'esecuzione e la gestione delle prove determina il tipo di gioco. È fondamentale ascoltare i giocatori, percepire il loro entusiasmo e comprendere gli obiettivi delle loro azioni. Un giocatore coinvolto trasmette entusiasmo a tutto il gruppo.
+
+**Non c'è una regola per tutto ma divertimento e buon senso non devono mai mancare**!
+
 ### Linguaggi
 
 Nel mondo ci sono le vecchie lingue umane, usate solo negli antichi tomi ed in comunità isolate e c'è la lingua Comune costruita dall'insieme dei vecchi idiomi terrestri e comprensibile più o meno a chiunque. Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto pari o superiore a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio. Per ogni punto speso nella Competenza Conoscenza Lingua parla e scrive un altra lingua.
@@ -2001,16 +2019,6 @@ Le creature extraplanari come Celestiali, Demoni, Diavoli, Draghi, Elfi, Nani, G
 | Non-morti | Expiran | - |
 
 La **Telepatia** è un mezzo per parlare con qualsiasi creatura che abbia Intelligenza almeno -3. Non c'è il vincolo del linguaggio, la telepatia funge da traduttore universale.
-
->> Prove Prove e Prove!: Ad essere cinici un gioco di ruolo è tutta una prova, vuoi per riuscire a fare un salto, per colpire qualcuno, per evitare una trappola od un incantesimo...!
-Devi essere più intelligente e furbo. Le prove possono essere spesso evitate o affrontate con vantaggio. Gioca con arguzia, usa la tua immaginazione, sii creativo!
-
-L'esecuzione e la gestione delle prove determina il tipo di gioco. È fondamentale ascoltare i giocatori, percepire il loro entusiasmo e comprendere gli obiettivi delle loro azioni. Un giocatore coinvolto trasmette entusiasmo a tutto il gruppo.
-
-Ascoltate sempre le proposte dei giocatori, anche quelle che sembrano poco sagge o folli, potete avvertirli dei rischi ma senza spegnere l'entusiasmo. Quando i giocatori chiedono semplicemente di fare una "prova Consapevolezza" o di "convincere la guardia", assecondate le loro intenzioni ma cercate di coinvolgerli maggiormente.
-
-**Non c'è una regola per tutto ma divertimento e buon senso non devono mai mancare**!
-
 ---
 
 # Combattimento Sociale
@@ -2078,8 +2086,7 @@ Il giocatore sceglie la Caratteristica che preferisce. Se viene scelta la Destre
 
 Chi ha l'iniziativa tra giocatori e nemici più alta incomincia per primo e successivamente agiscono gli altri in ordine decrescente, dichiarando le Azioni ed eseguendole. In caso di Iniziativa di pari punteggio agisce per primo chi ha il punteggio Caratteristica più alto, altrimenti lo scontro sarà in contemporanea. L'iniziativa vale per l'intero scontro e si ritira al cambio dell'avversario.
 
- %box narratore
-Cercate di fare fluire il combattimento in maniera naturale. Non interrompete il flusso delle azioni, bensì descrivendone gli effetti coinvolgete i giocatori (e nemici) nelle azioni seguenti. Vi consiglio la lettura dell'articolo https://theangrygm.com/manage-combat-like-a-dolphin/ per capire nel dettaglio il metodo.
+>>> **Gestire il combattimento**: Cercate di fare fluire il combattimento in maniera naturale. Non interrompete il flusso delle azioni, bensì descrivendone gli effetti coinvolgete i giocatori (e nemici) nelle azioni seguenti. Vi consiglio la lettura dell'articolo \hrefhttps://theangrygm.com/manage-combat-like-a-dolphin/How to Manage Combat Like a Dolphin per capire nel dettaglio il metodo.
 
 **Anche nella Prova di Iniziativa valgono le Golden Rules.**
 
@@ -2095,7 +2102,7 @@ In questo modo la scelta dell'azione avviene quando è il round del giocatore ch
 
 ### Il Tempo (Round, Minuti e Turni)
 
-{L'esitazione è la morte del vantaggio. Magic di V.E. Schwab} 
+> L'esitazione è la morte del vantaggio. Magic di V.E. Schwab}
 
 Un **round** dura 10 secondi circa, è un lasso di tempo sufficiente per agire, correre, parlare.. combattere. Un Minuto sono quindi 6 round ed un Turno dura 10 Minuti (o 60 round).
 
@@ -2127,7 +2134,15 @@ La **Azioni Gratuite** possono essere usate in qualsiasi momento.
 
 **Azione di Attacco**: si intende sia l'uso di armi in mischia che l'uso di armi da lancio o tiro come archi, balestre o pugnali da lancio. Nel caso di armi da lancio ogni lancio/tiro conta come un attacco.
 
+Il personaggio che esegue una Azione di Attacco ed il Lancio di un Incantesimo nel medesimo round si considera Distratto ovvero deve eseguire una Prova di Magia per lanciare l'incantesimo.
+
+**Azione di Movimento***: un Azione di Movimento è una Azione dedicata a spostarsi. Ci si può spostare fino a tutto il proprio movimento (9 metri per umani, 6 metri per nani..) per Azione usata. Ogni movimento consuma una Azione anche se non si sfrutta tutto il proprio movimento a disposizione.
+
+Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o Scudo o **Rinfoderare l'Arma** o lo Scudo.
+
 **Tabella: Azioni per Round**
+
+	
 
 | **Cosa si fa** | **Azioni** |
 | --- | --- |
@@ -2169,12 +2184,6 @@ La **Azioni Gratuite** possono essere usate in qualsiasi momento.
 | Afferrare l'avversario | 2 |
 | Fare cadere l'avversario | 2 |
 
-Il personaggio che esegue una Azione di Attacco ed il Lancio di un Incantesimo nel medesimo round si considera Distratto ovvero deve eseguire una Prova di Magia per lanciare l'incantesimo.
-
-**Azione di Movimento***: un Azione di Movimento è una Azione dedicata a spostarsi. Ci si può spostare fino a tutto il proprio movimento (9 metri per umani, 6 metri per nani..) per Azione usata. Ogni movimento consuma una Azione anche se non si sfrutta tutto il proprio movimento a disposizione.
-
-Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o Scudo o **Rinfoderare l'Arma** o lo Scudo.
-
 **Lanciare un Incantesimo***: solitamente sono necessarie 2 Azioni. Nella descrizione dell'incantesimo è indicato il numero di Azioni necessarie. Nel capitolo della Magia sono specificate le regole (pag. ) per lanciare più incantesimi nel round.
 
 **Scambiare un dialogo con qualcuno***: Un dialogo può essere di pochi secondi se non di minuti. Il Narratore valuterà quanto questo dura.
@@ -2194,11 +2203,14 @@ Questo **elenco non è completo**, prendetelo come linee guida per stabilire il 
 L'**ordine** con cui si eseguono le Azioni non è importante se non per correlazione logica e fisica. L'Azione di Movimento può essere tra altre Azioni (movimento, attacco/incantesimi/altra Azione, movimento).
 
 Un personaggio potrebbe attaccare, muoversi ed ancora attaccare, questo secondo attacco avrebbe le penalità descritte negli attacchi multipli.
+
+> I tesori non si vincono con cautela e previdenza, ma con uccisione rapida e attacco sconsiderato. (Michael Moorcock)
+
 ---
 
 ## Movimento
 
-{Un mobile più lento non può essere raggiunto da uno più rapido; giacché quello che segue deve arrivare al punto che occupava quello che è seguito e dove questo non è più (quando il secondo arriva); in tal modo il primo conserva sempre un vantaggio sul secondo. Paradosso di Zenone}
+> Un mobile più lento non può essere raggiunto da uno più rapido; giacché quello che segue deve arrivare al punto che occupava quello che è seguito e dove questo non è più (quando il secondo arriva); in tal modo il primo conserva sempre un vantaggio sul secondo. (Paradosso di Zenone)
 
 Il movimento di un personaggio è dato dalla sua taglia e razza e da ciò che porta, dai pesi, ingombri ma anche magie ed oggetti magici.
 
@@ -2234,14 +2246,14 @@ Nei mostri questa distanza è indicata dalla portata, per le armi da lancio è c
 
 Se non indicata nella scheda del avversario la **portata** è pari a metà dello spazio occupato arrotondato per eccesso. Un gigante delle colline, taglia enorme (3x3 quadretti sulla mappa), ha portata 2 quadretti, ovvero colpisce creature entro 2 quadretti/metri da lui.
 
->> Esempi di Distanza in Combattimento: Es. per una creatura armata di lancia la portata è 2 ovvero la distanza di mischia è 2 metri perché l'arma è lunga. Per uno gnomo armato di martello, o a mani nude, la distanza di mischia è 1 metro. Per creature particolarmente grandi (Enormi o più) con armi altrettanto grandi la portata viene indicata o si desume dalle dimensioni del mostro e dalla tipologia di arma.
+>>> **Distanza in Combattimento**: Es. per una creatura armata di lancia la portata è 2 ovvero la distanza di mischia è 2 metri perché l'arma è lunga. Per uno gnomo armato di martello, o a mani nude, la distanza di mischia è 1 metro. Per creature particolarmente grandi (Enormi o più) con armi altrettanto grandi la portata viene indicata o si desume dalle dimensioni del mostro e dalla tipologia di arma.
 
 **La portata indica fino a che distanza puoi colpire in mischia.**
 ---
 
 ## Vita e Morte
 
-{Chi non conosce la morte, non conosce la vita. (Grand Hotel, film 1932)
+> Chi non conosce la morte, non conosce la vita. (Grand Hotel, film 1932)
 
 Il meritevole Game Master non uccide mai volontariamente i personaggi dei giocatori. Lui presenta le opportunità per i giocatori frettolosi e sbadati di fare tutto da soli. (Gary Gygax)
 
@@ -2256,7 +2268,7 @@ Una magia (incantesimo o pozione) di Cura, di qualsiasi ammontare di cura lo por
 
 Una prova di Pronto Soccorso, 3 Azioni, a difficoltà 12 più il valore dei Punti Ferita negativi porterà il personaggio a 0 Punti Ferita, ovvero svenuto. Ogni volta successiva che il personaggio torna sotto 0 Punti Ferita la difficoltà della prova di Pronto Soccorso aumenta di 2.
 
->> Tups sta morendo: Es. Tups é gravemente ferito ed ha attualmente -6 Punti Ferita, Jade decide di provare a curarlo (dopo averlo spostato in un posto più sicuro). Jade tenta una prova di Pronto Soccorso (3 Azioni) per stabilizzare il compagno, la sua difficoltà alla prova é 12+6 ovvero deve superare con Pronto Soccorso DC 18 per riportarlo a 0 Punti Ferita (svenuto)
+>> **Tups sta morendo**: Es. Tups é gravemente ferito ed ha attualmente -6 Punti Ferita, Jade decide di provare a curarlo (dopo averlo spostato in un posto più sicuro). Jade tenta una prova di Pronto Soccorso (3 Azioni) per stabilizzare il compagno, la sua difficoltà alla prova é 12+6 ovvero deve superare con Pronto Soccorso DC 18 per riportarlo a 0 Punti Ferita (svenuto)
 
 Una successiva prova di Pronto Soccorso, svolta entro 10 minuti, potrà sanare ulteriori ferite.
 
@@ -2276,12 +2288,12 @@ Es. Se ha Costituzione 2 morirà a -[10+4]=-14 Punti Ferita, se ha Costituzione 
 
 Se il danno non letale di un personaggio arriva a Punti Ferita negativi pari 20+4*Costituzione il personaggio é morto.
 
-Descrivete con pathos e trasporto la caduta del personaggio, fate capire la sofferenza provata. Enfatizzate la caduta a terra, il sangue che sgorga, i rantoli. Siate teatrali.
+>>> **Recitare**: Descrivete con pathos e trasporto la caduta del personaggio, fate capire la sofferenza provata. Enfatizzate la caduta a terra, il sangue che sgorga, i rantoli. Siate teatrali.
 Se avete a che fare con giocatori facilmente impressionabili allora è meglio ridurre il *gore*.
 
 Un personaggio morto non può beneficiare delle cure normali o magiche, e non può essere riportato in vita da un incantesimo. Solo un Patrono ha sufficiente potere per riportare l'anima nel corpo e riportare in vita la creatura. L'incantesimo di Animare Morti può rianimare un corpo, ma come non morto.
 
->> La morte del personaggio: Cerca di capire perché è morto, quali sono le cause, gli errori commessi. Quali sono le scelte che lo hanno portato fino a li. Ogni personaggio che muore è una ferita personale ma anche esperienza e consapevolezza. Fanne tesoro sia tu ma anche tutto il gruppo. Se qualcosa non ha funzionato cercate di capirlo insieme, senza accusarsi o darsi colpe ma con lo spirito consapevole che si può migliorare, tutti.
+>> **La morte del personaggio**: Cerca di capire perché è morto, quali sono le cause, gli errori commessi. Quali sono le scelte che lo hanno portato fino a li. Ogni personaggio che muore è una ferita personale ma anche esperienza e consapevolezza. Fanne tesoro sia tu ma anche tutto il gruppo. Se qualcosa non ha funzionato cercate di capirlo insieme, senza accusarsi o darsi colpe ma con lo spirito consapevole che si può migliorare, tutti.
 
 ### Opzionale - Recupero da 0 Punti Ferita  
 
@@ -2363,7 +2375,7 @@ Se colpisci, per ogni margine di 8 superiore alla Difesa dell'avversario , l'arm
 
 Anche per il Tiro per Colpire valgono le regole base delle Competenze. La Difesa è un valore fisso e come tale usa i modificatori per le prove a valore fisso.
 
->>> OBSS vuole essere divertente da giocare, vuole che i giocatori si divertano e vedano i risultati ottenuti dai dadi (e ovviamente dalle loro scelte). Le Golden Rules e l'Esplosione del Danno vogliono proprio togliere la patina di polvere ai dadi e fare divertire. Un giocatore, apprezzerà, ancor più se di esperienza, come i tiri dei dadi non siano solo un numero ma bensì aprano la possibilità di fare la differenza. Chiedete al giocatore di descrivere il colpo critico e fatelo recitare nella sua gloria di potenza!
+>>> **Partecipazione**: OBSS vuole essere divertente da giocare, vuole che i giocatori si divertano e vedano i risultati ottenuti dai dadi (e ovviamente dalle loro scelte). Le Golden Rules e l'Esplosione del Danno vogliono proprio togliere la patina di polvere ai dadi e fare divertire. Un giocatore, apprezzerà, ancor più se di esperienza, come i tiri dei dadi non siano solo un numero ma bensì aprano la possibilità di fare la differenza. Chiedete al giocatore di descrivere il colpo critico e fatelo recitare nella sua gloria di potenza!
 
 ## Tirare 3 volte 1
 
@@ -2377,7 +2389,7 @@ Se nei primi 3 Tiri per Colpire fai tre volte 6 prenderai l'avversario indipende
 
 Ogni qual volta hai colpito, tiri un **danno aggiuntivo della sola arma** per ogni margine di 8 che hai superato la Difesa con il tuto Tiro per Colpire, questo danno viene anche chiamato **danno critico**. Se hai fatto due Tiri Critici vuole dire che devi tirare 2 dadi di arma in più e che hai colpito con un margine tra +16 e +23!
 
->> Esempio Tiro Critico: Es tiro 6 4 5, tiro in aggiunta 6, tiro in aggiunta un 6, tiro in aggiunta 4, totale 31. La Difesa dell'avversario è 15. Come danno tiri 3 volte il danno dell'arma, una volta perché ho colpito ed due perché l'hai colpito con un margine di 16!.
+>> **Esempio Tiro Critico**: Es tiro 6 4 5, tiro in aggiunta 6, tiro in aggiunta un 6, tiro in aggiunta 4, totale 31. La Difesa dell'avversario è 15. Come danno tiri 3 volte il danno dell'arma, una volta perché ho colpito ed due perché l'hai colpito con un margine di 16!.
 
 ## Esplosione del Danno
 
@@ -2403,7 +2415,7 @@ Se la penalità al colpire cumulativa diventa maggiore del Tiro per Colpire non 
 
 I personaggi con Tiro per Colpire meno di 6 possono scegliere di effettuare 2 attacchi spendendo 2 Azioni ma applicando una penalità di -4 ad entrambi gli attacchi invece della progressione standard. Questo permette anche ai personaggi di livello basso di sfruttare efficacemente le loro Azioni in combattimento anche se con significative penalità.
 
->> Esempio Attacco Multiplo: Ad esempio se ho Competenza Armi 5, Forza 1, +2 al compire come bonus dalla Lista d'Armi e +1 al colpire dato da una Abilità, +2 perché fiancheggio e +1 per arma magica il primo Tiro per Colpire sarà 3d6+12, il secondo sarà 3d6+7, il terzo 3d6+2. Non è possibile effettuare un quarto attacco in quanto il bonus al colpire diventerebbe negativo.
+>> **Esempio Attacco Multiplo**: Ad esempio se ho Competenza Armi 5, Forza 1, +2 al compire come bonus dalla Lista d'Armi e +1 al colpire dato da una Abilità, +2 perché fiancheggio e +1 per arma magica il primo Tiro per Colpire sarà 3d6+12, il secondo sarà 3d6+7, il terzo 3d6+2. Non è possibile effettuare un quarto attacco in quanto il bonus al colpire diventerebbe negativo.
 
 Eventuali bonus al colpire dinamici e non *fissi*, es. +1d6, si applicano al solo primo Tiro per Colpire e non al computo del bonus per calcolare il numero di attacchi multipli. Nel caso di esempio il Tiro per Colpire diventa 4d6+12, 3d6+7 e poi 3d6+2.
 
@@ -2435,7 +2447,7 @@ l'arma lunga permette di colpire un obiettivo a distanza di 2 metri.
 
 Usare **Arma lunga a breve distanza** , inferiore ai 2 metri, comporta una penalità al Tiro per Colpire di -4, ad eccezione dell'utilizzo del Bastone.
 
->> Combattimento con Arma Lunga: Es. Tups armato di spada lunga affronta uno brigante armato di lancia lunga. Tups ha iniziativa 15, il brigante 12.
+>> **Combattimento con Arma Lunga**: Es. Tups armato di spada lunga affronta uno brigante armato di lancia lunga. Tups ha iniziativa 15, il brigante 12.
 
 Tups sfruttando la sua agilità arriva sotto il brigante colpendolo potentemente. Il brigante trovandosi in mischia con Tups non riesce a sfruttare la sua arma lunga che anzi lo penalizza.
 
@@ -2498,10 +2510,7 @@ sono armi a spargimenti quelle che *spargono* il loro contenuto dove cadono, ad 
 
 In caso l'attacco manchi (di almeno 5) tirare un d8 e consultare questo schema per capire dove la fiala è caduta e tira un 2d6 per determinare lungo la direzione indicata dal d8 precedente a quanti metri è caduto distante dal bersaglio, ovvero contate i metri dal target.
 
-| 8 | 1 | 2 |
-| 7 | | 3 |
-| 6 | 5 | 4 |
-| | si considera il bersaglio dell'oggetto tirato. il punto di origine del lancio. |
+si considera il bersaglio dell'oggetto tirato. il punto di origine del lancio.
 
 Ad esempio con il tiro del d8 faccio 5 e poi tirando 2d6 faccio 4, significa che la boccetta è caduta a destra del bersaglio a 4 metri.
 
@@ -2541,7 +2550,7 @@ Concedete un bonus o penalità ($\pm 1-2$) se non indicato diversamente) ogni qu
 | **+1d6** | Invisibile, Carica, avversario Indifeso | |
 | **+8** |  | Copertura completa |
 
-Cercate di non interrompere il gioco cercando la regola precisa, lasciatelo fluire, dite ai giocatori che per brevità gestite la situazione in una certa maniera; ci sarà poi tempo per ricordare la situazione e trovare la regola giusta. Interrompere il gioco di continuo spezza il *pathos* della situazione.
+>>> **Non è tutto Regole**: Cercate di non interrompere il gioco cercando la regola precisa, lasciatelo fluire, dite ai giocatori che per brevità gestite la situazione in una certa maniera; ci sarà poi tempo per ricordare la situazione e trovare la regola giusta. Interrompere il gioco di continuo spezza il *pathos* della situazione.
 
 Quando si scrive -1d6 significa che si tira un dado in meno (o due se è -2d6), parimente se c'è scritto +1d6 si tira un dado a 6 in più e si somma.
 
@@ -2553,7 +2562,7 @@ I **modificatori positivi indicati** nella *Tabella: Modificatori in attacco o d
 
 Le **penalità** si sommano per intero tra loro. Se il personaggio è sorpreso e prono ha un -6 alla Difesa.
 
->>> Ricordate sempre che lo scopo è divertirsi, a scapito (per il Narratore) di qualche mostro, non siate rigidi ma dinamici e adattatevi alle situazioni.
+>>> **Motivi e Scopi**: Ricordate sempre che lo scopo è divertirsi, a scapito (per il Narratore) di qualche mostro, non siate rigidi ma dinamici e adattatevi alle situazioni.
 
 ## Altre azioni e situazioni 
 
@@ -2626,11 +2635,6 @@ Se tirando una ipotetica riga che collega i due personaggi questa attraversa in 
 Un creatura può attaccare alle spalle se l'avversario non è in grado di fronteggiarlo. Attaccare alle spalle concede un +2 al Tiro per Colpire. Non si cumula con il Fiancheggiare.
 
 **Esempio di fiancheggiamento**
-
-| A | G | D |
-| --- | --- | --- |
-| B | | E |
-| C | H | F |
 
 In questo schema il fiancheggiamento è preso dalle coppie: A-F, B-E, C-D, G-H
 
@@ -2719,6 +2723,8 @@ Il valore di EDX se diverso dal massimo danno dell'arma aumenta di 2 (la Katana 
 
 Combattere in condizioni di luminosità ridotta comporta delle difficoltà riassunte in questo schema.
 
+	
+
 | **Visione** | **Condizione** | |
 | --- | --- |
 | Luce Fioca | Oscurità |
@@ -2795,7 +2801,7 @@ Ogni round può *usare* uno o più Tiri Critici accumulati per eseguire Azioni C
 L'elenco propone l'elenco delle Azioni Critiche di Tiri Critici consumati. Non si possono avere più di 6 Tiri Critici accumulati per singolo round.
 L'attivazione di queste Azioni Critiche costa una Reazione se non indicato diversamente.
 
-Usate questi esempi come delle linee guida per stimolare il personaggio a creare un suo stile di combattimento.
+Usate questi esempi come delle linee guida per stimolare il personaggio a creare un suo stile di combattimento. E' importante che il personaggio descriva come attiva l'Azione Critica.
 
 **Critici** \hskip 0.5cm **Effetto**
 
@@ -2848,7 +2854,7 @@ Usate questi esempi come delle linee guida per stimolare il personaggio a creare
 - - Per 1d6 round tutti i tuoi compagni hanno +4 alla Difesa
 	
 
->>> Queste Azioni Critiche possono essere descritte come approfittare della distrazione dell'avversario, gettare terra negli occhi, costringere a colpi di arma a spostarsi...
+>>> **Azioni Critiche**: Queste Azioni Critiche possono essere descritte come approfittare della distrazione dell'avversario, gettare terra negli occhi, costringere a colpi di arma a spostarsi...
 
 > Onestà e Giustizia, Eroico Coraggio, Compassione, Gentile Cortesia, Completa Sincerità, Onore, Dovere e Lealtà (I sette princìpi del bushido)
 
@@ -2864,7 +2870,7 @@ L'Attivatore può specificare un valore pari o dispari che è da confrontare con
 
 Le Manovre d'Arme sono raggruppate per livello, ovvero il punteggio di Competenza Armi minima per poter usare quelle manovre, il giocatore può scegliere tra tutte le Manovre d'Arme a lui accessibili ed Attivabili.
 
->> Ho mancato!: Sfruttalo come e meglio che potete la vostra sfortuna! Fate che la sorte vi possa sorridere grazie alla vostra abilità nel scegliere la manovra da attivare. Valutate sempre l'ambiente, i nemici, i compagni e la situazione in genere prima di decidere cosa attivare.
+>> **Ho mancato!**: Sfruttalo come e meglio che potete la vostra sfortuna! Fate che la sorte vi possa sorridere grazie alla vostra abilità nel scegliere la manovra da attivare. Valutate sempre l'ambiente, i nemici, i compagni e la situazione in genere prima di decidere cosa attivare.
 
 - **Manovre livello 4**
 
@@ -2903,7 +2909,7 @@ Le Manovre d'Arme sono raggruppate per livello, ovvero il punteggio di Competenz
 - **Furia Incontenibile** - Attiv.: ***Pari***. *Effetto*: Confronta il Tiro per Colpire con un avversario adiacente per capire se l'hai colpito, se si sommi anche un danno critico. *Critico*: Fino alla fine del prossimo round hai -4 alla Difesa, +1d6 al Tiro per Colpire e ogni attacco andato a segno causa un danno critico aggiuntivo.
 	
 
-		Invitate il giocatore crei un suo stile di *fallimento*, fatelo gioire di un *fumble*!
+>>> **Partecipazione nel bene e nel male**: Invitate il giocatore crei un suo stile di *fallimento*, fatelo gioire di un *fumble*!
 
 ## Cavalcature
 
@@ -2944,9 +2950,16 @@ Puoi controllare una cavalcatura solo se questa è stata addestrata ad accettare
 Spendendo 1 tua Azione puoi fare eseguire 2 di queste Azioni alla cavalcatura: Muoversi, Attaccare, Disingaggiare.
 
 Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferisce a discapito delle indicazioni del cavaliere. Potrebbe fuggire dal combattimento, lanciarsi all'attacco e divorare un nemico ferito gravemente, o agire in qualche altro modo contro la volontà di chi la cavalca.
+
+> Artax galoppava attraverso la Palude della Tristezza, e ad ogni passo i suoi zoccoli affondavano più profondamente. Michael Ende, La Storia Infinita.
+
+Il cavallo conosce la strada verso casa anche quando il cavaliere ha smarrito la via. Ursula K. Le Guin, Le Tombe di Atuan
+
 ---
 
 # Nascondigli e coperture 
+
+> Dove c'è molta luce, l'ombra è più nera. (Johann Wolfgang von Goethe)
 
 Non sempre l'avversario si palesa davanti a noi, spesso può essere nascosto se non addirittura invisibile.
 
@@ -2995,11 +3008,11 @@ Anche se si è invisibili non è detto che non si possa essere percepiti diversa
 
 Una creatura accecata o che combatta contro una creatura invisibile o che combatta nell'oscurità più completa senza scurovisione, può effettuare una prova di Consapevolezza, 1 Azione, a difficoltà 20, oppure 2 Azioni a Difficoltà 15, per **individuare** una creatura se questa è entro 6 metri da lei.
 
-La prova di Consapevolezza può essere fatta contestualmente all'Azione di Movimento per avvicinarsi alla creatura. Si usa solo l'Azione di Movimento e prova di Consapevolezza viene eseguita con una difficoltà DC base è 20.
+La prova di Consapevolezza può essere fatta contestualmente all'Azione di Movimento per avvicinarsi alla creatura a difficoltà base di 25.
 
 A seconda della distanza della creatura invisibile o di ciò che questa ha fatto nel round precedente sono presenti diversi modificatori alla prova di Consapevolezza per individuarla.
 
->>> La prova di Consapevolezza ha una difficoltà alta per un personaggio di basso livello. State ben attenti a considerare tutti i modificatori del caso altrimenti i personaggi difficilmente potranno individuarli ed attaccheranno quadretti a caso...
+>>> **Invisibilità**: La prova di Consapevolezza ha una difficoltà alta per un personaggio di basso livello. State ben attenti a considerare tutti i modificatori del caso altrimenti i personaggi difficilmente potranno individuarli ed attaccheranno quadretti a caso...
 
 **Tabella: Modificatori alla DC di Consapevolezza per Rilevare Creature Invisibili**
 
@@ -3043,7 +3056,7 @@ Le creature invisibili non possono utilizzare gli attacchi con lo sguardo. L'inv
 
 # Lista Armi per Tipologia Omogenea
 
-> La forza non risiede in una Spada, ma nelle braccia di un valoroso. (The Legend of Zelda: Twilight Princess)} 
+> La forza non risiede in una Spada, ma nelle braccia di un valoroso. (The Legend of Zelda: Twilight Princess)}
 
 Ogni qual volta si assegna un punto a Competenza Armi si può decidere se continuare a perfezionarsi in una Lista di Armi già nota o apprendere una nuova, se non si dichiara l'uso questo è assegnato alla Lista delle Armi Semplici.
 
@@ -3281,7 +3294,7 @@ Utilizzando 2 Azioni può concentrarsi e passare ad utilizzare i bonus derivanti
 
 # Abilità
 
-{Il martirio è l'unica maniera per un uomo di diventare famoso se non ha abilità (George Bernard Shaw, The Devil's Disciple)} 
+> Il martirio è l'unica maniera per un uomo di diventare famoso se non ha abilità (George Bernard Shaw, The Devil's Disciple)}
 
 Le Abilità sono capacità peculiari, frutto di allenamento o doti particolari. Le Abilità hanno sempre un effetto pratico.
 
@@ -4459,6 +4472,8 @@ Ogni ulteriori **due volte** che prendi l'Abilità il tuo movimento aumenta di 1
 
 E' la capacità di non essere rallentati in un ambiente ostile. E' necessario dichiarare su quale ambiente si prende l'Abilità. In questi ambienti il terreno naturale non è difficile. Finché ci si muove nell'ambiente scelto si ha un +1 alle prove di Sopravvivenza.
 
+	
+
 | **Ambiente** | **Ambiente** |
 | --- | --- |
 | Giungla | Aquatico | Costale |
@@ -4990,6 +5005,13 @@ Nel tempo hai allenato la tua volontà per resistere a qualsiasi debolezza e pau
 La **prima volta** prendi questa Abilità ottieni un bonus di +2 ai Tiri Salvezza su Volontà. Il bonus è cumulativo, +2 la prima volta, +1 la **seconda volta**, +1 la **terza** volta.
 
 La **quarta volta** che prendi questa Abilità puoi decidere di riuscire automaticamente in un Tiro Salvezza su Volontà una volta al giorno prima di aver tirato i dadi.
+
+> L'eccellenza non è un atto, ma un'abitudine. (Etica Nicomachea, Aristotele)
+
+Avere grandi poteri non significa saperli usare saggiamente. (Earthsea, Ursula K. Le Guin)
+
+Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Melnibonè Michael Moorcock)
+
 ---
 
 ## Raggruppamento Abilita' per Stile
@@ -5199,11 +5221,11 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 
 # Famiglio
 
-Nipote del signor Wing: Senta mister, ci sono tre regole da seguire, però.
+> Nipote del signor Wing: Senta mister, ci sono tre regole da seguire, però.
 
 Rand: Ah, sì? E quali sarebbero?
 
-Nipote del signor Wing: Lo tenga lontano dalla luce, lui odia la luce forte, specialmente quella del sole. Morirebbe. E lo tenga lontano dall'acqua, non lo faccia bagnare. Ma la cosa più importante, la regola che non dovrà mai dimenticare è che anche se lui piange, anche se fa scena e la supplica lei non dovrà mai, mai dargli da mangiare dopo la mezzanotte. Ha capito? (Gremlins, Film, 1984)}
+Nipote del signor Wing: Lo tenga lontano dalla luce, lui odia la luce forte, specialmente quella del sole. Morirebbe. E lo tenga lontano dall'acqua, non lo faccia bagnare. Ma la cosa più importante, la regola che non dovrà mai dimenticare è che anche se lui piange, anche se fa scena e la supplica lei non dovrà mai, mai dargli da mangiare dopo la mezzanotte. Ha capito? (Gremlins, Film, 1984)
 
 I famigli sono animali scelti dal personaggio, tramite l'Abilità Famiglio, perché gli siano d'aiuto nelle avventure e per compagnia. Un famiglio ha un legame speciale con il suo padrone.
 
@@ -5383,11 +5405,11 @@ Un personaggio paralizzato non può compiere Azioni o Reazioni ne parlare, gli a
 
 # La Magia
 
-La magia non è nel pendolino, ma in chi lo usa. (NCIS - Unità anticrimine)
+> La magia non è nel pendolino, ma in chi lo usa. (NCIS - Unità anticrimine)
 
 Non lascerai vivere colei che pratica la magia. (Libro dell'Esodo)(Sempre a seconda dei propri Tratti...)
 
-Uno stregone non è mai in ritardo, Frodo Baggins. Né in anticipo. Arriva precisamente quando intende farlo. (Gandalf, Il Signore degli Anelli - La Compagnia dell'Anello. J.R.R. Tolkien)}  
+Uno stregone non è mai in ritardo, Frodo Baggins. Né in anticipo. Arriva precisamente quando intende farlo. (Gandalf, Il Signore degli Anelli - La Compagnia dell'Anello. J.R.R. Tolkien)}
 
 La magia permea i mondi di gioco e la sua forma più comune è quella di un incantesimo. Questo capitolo fornisce le regole per lanciare incantesimi.
 
@@ -5491,14 +5513,14 @@ La gestualità del lancio di un incantesimo può includere un gesticolare forzat
 
 La componente Verbale rappresenta il canto, le parole, i suoni usati per attivare la sintonia con il Patrono e con la Magia. Se il personaggio è impossibilitato a parlare perché ha un bavaglio o qualcosa che gli ostruisce la bocca allora non può formulare incantesimi con componente Verbale.
 
+>>> **Alternativa ai Componenti**: Per una gestione più immediata dei componenti potete sostituirli con una *spesa* di 1 Punto Ferita Massimo per Livello di Incantesimo. In caso si Successo Critico Magico nella Prova di Magia questi Punti Ferita non sono persi.
+
 **Materiale (M)**
 
 Lanciare taluni incantesimi richiede oggetti particolari, specificati tra parentesi alla voce componenti. Il personaggio deve procurarsi quella specifica componente prima di poter lanciare l'incantesimo.
 
 Se un incantesimo indica che la componente materiale viene consumata dall'incantesimo, l'incantatore deve fornire questa componente per ogni lancio dell'incantesimo.
 Un incantatore deve avere una mano libera per avere accesso a queste componenti, ma può essere la stessa mano utilizzata per eseguire le componenti somatiche.
-
-Per una gestione più immediata dei componenti potete sostituirli con una *spesa* di 1 Punto Ferita Massimo per Livello di Incantesimo. In caso si Successo Critico Magico nella Prova di Magia questi Punti Ferita non sono persi.
 
 ### Opzionale - Componenti come Offerta
 
@@ -5607,11 +5629,11 @@ Quando viene richiesto di superare o fare una Prova di Magia è sufficiente supe
 
 La Prova di Magia come tutte le Prove segue le Golden Rules, pag..
 
-Concedete un +1d6 nella Prova di Magia quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice *Lancio una palla di fuoco* non otterrà vantaggi ma se con trasporto declama *Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!* allora si!.
+>>> **Declamare la Magia**: Concedete un +1d6 nella Prova di Magia quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice *Lancio una palla di fuoco* non otterrà vantaggi ma se con trasporto declama *Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!* allora si!.
 
 Fate che la partecipazione e recitazione guidi sempre il personaggio, coinvolgendo anche gli altri giocatori.
 
->> Osare la Prova di Magia: La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio. C'è sempre un certo pericolo... ma cosa è la Magia senza rischi!
+>> **Osare la Prova di Magia**: La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio. C'è sempre un certo pericolo... ma cosa è la Magia senza rischi!
 
 ## Fallimento Critico nella Prova di Magia
 
@@ -5619,6 +5641,7 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 
 
 **Tabella: Effetti Fallimento Critico magico**
 
+| **Dadi** | **Effetti** |
 | 1 | Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia |
 | 2 | Aumenti la condizione di Affaticato di 2 gradi, fino ad un massimo di Affaticato 5 |
 | 3 | Manifesti una modifica corporea minore |
@@ -5627,6 +5650,8 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 
 | 6 | Per 1 minuto non sei più in grado di concentrarti e parli in rima |
 | 7 | Vieni teletrasportato di 3d10 metri in una direzione casuale |
 | 8 | Diventi Invisibile e paralizzato per 6 round |
+
+| **Dadi** | **Effetti** |
 | 9 | Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round |
 | 10 | Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round |
 | 11 | Manifesti l'incantesimo Unto sotto i tuoi piedi |
@@ -5680,6 +5705,12 @@ Specialmente ai primi livelli può essere molto fastidioso non aver appreso un i
 
 L'incantatore può lanciare un incantesimo che sia presente sul suo Tomo di Magia e che sia entro il 3 livello ed entro il massimo livello di incantesimo lanciabile, allungandone il tempo di lancio ad 1 ora per costo in Punto Magia. In caso di incantesimo così lanciato non si usano Punti Magia, ma è necessario superare una Prova di Magia al termine della formulazione.
 
+>> **Scegliere gli Incantesimi**: Ogni incantesimo è un tesoro prezioso che si deve trovare ed imparare.
+
+Ogni incantesimo è alla stregua di un oggetto magico, un vero tesoro da cercare e ottenere!
+
+Dovrai intraprendere perigliose avventure, pagare mercenari, cercare i tomi antichi e svelare i segreti più oscuri e dimenticati per poter imparare nuovi incantesimi.
+
 ## Successo Critico Auto Magico
 
 L'incantatore può decidere di spendere, in aggiunta ai **dei Punti Magia** dell'incantesimo, un uguale ammontare per avere in automatico un **Successo Critico Magico**.
@@ -5690,12 +5721,6 @@ Il tempo di lancio di un incantesimo potenziato in questa maniera aumenta di 1 A
 Es. Velocità, voglio che faccia 2 critici magici, pago 3 Punti Magia per lanciarla, più 3 per il primo Successo Critico Magico più 4 per il secondo Successo Critico Magico, ed eventualmente 5 per un terzo Successo Critico Magico. Si pagano sempre tutti i Punti Magia usati indipendentemente dal risultato della Prova di Magia.
 
 Non si possono spendere più di metà dei Punti Magia attuali per potenziare un incantesimo, non si possono fare più Autocritici del modificatore di caratteristica per incantesimo.
-
->> Scegliere gli Incantesimi: Ogni incantesimo è un tesoro prezioso che si deve trovare ed imparare.
-
-Ogni incantesimo è alla stregua di un oggetto magico, un vero tesoro da cercare e ottenere!
-
-Dovrai intraprendere perigliose avventure, pagare mercenari, cercare i tomi antichi e svelare i segreti più oscuri e dimenticati per poter imparare nuovi incantesimi.
 
 ## Opzionale - Il vero costo della Magia
 
@@ -5725,7 +5750,7 @@ Se non ottiene almeno un Successo Critico Magico non potrà tentare di copiare q
 
 La sorgente di nuovi incantesimi può essere un altro Tomo o pergamena.. insomma qualsiasi cosa che il precedente incantatore usasse per custodire gli incantesimi. Un oggetto magico (bastone magico, anello, verga..bacchetta..) non è idoneo quale fonte da cui copiare l'incantesimo che contiene, si deve copiare dall'equivalente Tomo o pergamena di un altro incantatore. Un incantesimo quando copiato sul nuovo Tomo svanisce dalla sorgente originale.
 
->>> Gli incantesimi diventano oggetti e premi magici a tutti gli effetti. Sfruttate la sete di conoscenza e potere dei personaggi per costruire avventure interessanti che possano ruotare attorno tomi antichi e leggendari incantesimi perduti.
+>>> **Magie vero tesoro**: Gli incantesimi diventano oggetti e premi magici a tutti gli effetti. Sfruttate la sete di conoscenza e potere dei personaggi per costruire avventure interessanti che possano ruotare attorno tomi antichi e leggendari incantesimi perduti.
 
 ## Studiare gli incantesimi
 
@@ -5764,7 +5789,7 @@ Se è il personaggio a dover resistere ad una magia il Narratore non ti dirà di
 - Se nel Tiro Salvezza tiri 3 volte 1 hai fallito il tiro, indipendentemente dal totale, ed ottieni un **Fallimento Critico Salvezza**.
 - Se il Tiro Salvezza fallisce ed il margine di fallimento è almeno 8, per ogni margine di fallimento di 8 ottieni un **Fallimento Critico Salvezza**.
 
->> Tups lancia Dardo Tracciante!: Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volta Adepto della Magia, lancia l'incantesimo \hyperlinkDardo TraccianteDardo Tracciante. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un Successo Critico magico la DC sarebbe diventata 23.
+>> **Tups lancia Dardo Tracciante!**: Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volta Adepto della Magia, lancia l'incantesimo \hyperlinkDardo TraccianteDardo Tracciante. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un Successo Critico magico la DC sarebbe diventata 23.
 
 E' anche possibile che nella descrizione dell'incantesimo sia riportato cosa succede in caso di Successo o Fallimento Critico del Tiro Salvezza.
 
@@ -5957,6 +5982,8 @@ Se questo fattore influisce troppo sul vostro gioco riducete della metà ($r-r/2
 # Gli Incantesimi
 
 ## Elenco incantesimi
+
+> La magia è credere in te stesso. Se riesci a farlo, puoi fare accadere qualsiasi cosa. (Johann Wolfgang von Goethe)
 
 ## Aiuto
 
@@ -8576,6 +8603,8 @@ Quando l'incantesimo termina, il bersaglio riappare nello spazio che aveva lasci
 L'incantatore permea di magia una lacrima che getta contro l'avversario, è necessario un Tiro per Colpire con Incantesimi a distanza.
 La creatura subisce 1d6+2d6 di danno, per stabilire il tipo di danno consultare la tabella con i valori del primo d6 tirato.
 
+	
+
 | **1d6** | **Energia** |
 | 1 | Fuoco |
 | 2 | Elettricità |
@@ -9207,7 +9236,7 @@ Se il Tiro per Colpire va a segno il bersaglio subisce 2d6 di danni contundenti 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia scagli un sasso in più.
 
-			Mi sparpaglio in giro per evitare incantesimi ad area (detta da un giocatore per evitare una Palla di Fuoco)
+> Mi sparpaglio in giro per evitare incantesimi ad area (detta da un giocatore per evitare una Palla di Fuoco)
 
 ## Palla di Fuoco
 - **Lista di Magia**:: Fuoco
@@ -9833,6 +9862,8 @@ L'incantesimo può essere terminato entro i 30 giorni da ristorare superiore, gu
 Entri a contatto con un umanoide morto o un frammento di umanoide morto. Purché la creatura non sia morta da più di 10 giorni, l'incantesimo gli forma un nuovo corpo adulto e poi ne richiama l'anima affinché entri nel corpo. Se l'anima del bersaglio non è libera o consenziente a farlo, l'incantesimo fallisce.
 
 La magia modella un nuovo corpo, che probabilmente provocherà un cambio di razza alla creatura. Il Narratore tira un d10 e consulta la seguente tabella per determinare quale forma assuma la creatura una volta riportata in vita, oppure sarà Il Narratore a scegliere la forma.
+
+	
 
 | **d10** | **Razza** |
 | 0 | Lupo/Aquila/Volpe/Lince (tirate 1d4) |
@@ -12080,11 +12111,11 @@ Le tue prove di Sopravvivenza hanno un +2d6 di bonus. Il primo colpo che va a se
 
 Tu credi che c'è un Dio solo? Fai bene; anche i demoni lo credono e tremano! (Giacomo Il Giusto 2, 19)
 
-In OBSS le divinità sono diverse dai tradizionali dei nei giochi di ruolo.
+>>> **I Patroni**: In OBSS le divinità sono diverse dai tradizionali dei nei giochi di ruolo.
 
 Le divinità, i Patroni, amano sporcarsi le mani, partecipare nelle faccende delle creature che le adorano, per loro è una sfida continua ad avere più credenti, adepti e persone più simili, per Tratti, a loro.
 
-I Patroni sono stati creati come https://www.treccani.it/vocabolario/parossismo/ dell'animo umano, dove tutto è un eccesso. Come spiriti liberati dal vaso di Pandora hanno il solo scopo di portare i loro Tratti al dominio rendendoli i più comuni e presenti tra le creature, specialmente tra le più potenti.
+I Patroni sono stati creati come \hrefhttps://www.treccani.it/vocabolario/parossismo/parossismo dell'animo umano, dove tutto è un eccesso. Come spiriti liberati dal vaso di Pandora hanno il solo scopo di portare i loro Tratti al dominio rendendoli i più comuni e presenti tra le creature, specialmente tra le più potenti.
 
 In principio era il nulla che in sé conteneva il tutto.
 
@@ -12182,7 +12213,7 @@ Sotto l'indicazione dell'arma preferita c'è l'indicazione della Regola  ovvero 
 
 Un incantatore che si affida ad un Patrono, almeno **2 Tratti** in comune, diventa un **Devoto**. Se ha almeno **1 Tratto** in comune e si affida ad un Patrono allora si dice che è un **Seguace**. Il **Vantaggio** indicato è solo per il Devoto.
 
->> Devoti e Seguaci: Essere Devoti o Seguaci è una scelta vostra, nessuno ve la impone. Dovete sentirla come una occasione di gioco di ruolo, come un arricchimento del personaggio e non una costrizione. Essere Devoti o Seguaci non significa essere proni al volere del Patrono, anzi, significa essere ancora più convinto di propri Tratti, della propria personalità. **Un Patrono non chiede preghiere, ma chiede di essere se stessi**.
+>> **Devoti e Seguaci**: Essere Devoti o Seguaci è una scelta vostra, nessuno ve la impone. Dovete sentirla come una occasione di gioco di ruolo, come un arricchimento del personaggio e non una costrizione. Essere Devoti o Seguaci non significa essere proni al volere del Patrono, anzi, significa essere ancora più convinto di propri Tratti, della propria personalità. **Un Patrono non chiede preghiere, ma chiede di essere se stessi**.
 
 Il personaggio potrebbe anche non seguire alcun Patrono pur avendo più Tratti in comune oppure potrebbe essere un Devoto o Seguace non del Patrono con cui hai più Tratti in comune od i Tratti a punteggio più alto. La scelta è sempre del personaggio e della sua sensibilità.
 
@@ -12190,9 +12221,11 @@ Le capacità acquisite legate ai Tratti in comune sono indipendenti dall'essere 
 
 Nulla vieta che un personaggio riceva più poteri da Patroni diversi! Ad alti livelli quando il personaggio ha un alto punteggio nei vari Tratti posseduti questo capiterà frequentemente. 
 
->>> Il Narratore può comunque concedere l'essere Seguace o Devoto pur se i Tratti non collimano perfettamente. Su richiesta del giocatore ed a sua discrezione può valutare la somiglianza di alcuni Tratti del personaggio a quelli del Patrono e valutarli idonei per esserne un Seguace o Devoto. In queste situazioni è necessario comprendere come il giocatore inquadra il personaggio e capire non solo se i Tratti ma anche il sentimento del personaggio è affine al Patrono scelto.
+>>> **Adattarsi**: Il Narratore può comunque concedere l'essere Seguace o Devoto pur se i Tratti non collimano perfettamente. Su richiesta del giocatore ed a sua discrezione può valutare la somiglianza di alcuni Tratti del personaggio a quelli del Patrono e valutarli idonei per esserne un Seguace o Devoto. In queste situazioni è necessario comprendere come il giocatore inquadra il personaggio e capire non solo se i Tratti ma anche il sentimento del personaggio è affine al Patrono scelto.
 
 **Tabella Energia - Elementi**
+
+	
 
 | **Positivi** (+1) | **Neutrali** (0) | **Negativi** (-1) |
 | --- | --- | --- |
@@ -12214,7 +12247,7 @@ Un favore chiesto ad un Patrono ha sempre un prezzo non ovvio ne scontato. Il Na
 
 ### Ljust
 
-Solo la luce che uno accende a se stesso, risplende in seguito anche per gli altri. (Arthur Schopenhauer)
+> Solo la luce che uno accende a se stesso, risplende in seguito anche per gli altri. (Arthur Schopenhauer)
 
 La Dama della Luce, colei che irradia calore e amore. Generatrice delle pulsioni d'amore, protezione, gentilezza, gioia e perdono. Racchiude in sé l'aspetto protettivo di una madre, la forza e l'audacia di una combattente, la passionalità di una giovane amante, l'allegria e la ricerca del nuovo, la fantasia di una bambina. Ljust incarna la bellezza della vita ed ogni creatura che la contempla vede quella che per lei è la massima armonia e cade prona al suo fascino.
 
@@ -12307,7 +12340,7 @@ Vestito di un morbido saio marrone e calzari di cuoio si muove tra gli infiniti 
 
 ### Lynx
 
-> Le persone non fanno i viaggi, sono i viaggi che fanno le persone. (John Steinbeck)}
+> Le persone non fanno i viaggi, sono i viaggi che fanno le persone. (John Steinbeck)
 
 Patrono dei Portali, è sceglibile solo da personaggi che abbiano almeno 3 Tratti in comune. E' il primo Patrono generato da Ljust e Calicante, creato per proteggere la Terra dagli attacchi esterni.
 
@@ -12331,7 +12364,7 @@ I suoi Devoti sono i viaggiatori per eccellenza, coloro che presidiano e protegg
 
 ### Gradh
 
-L'uomo che ha cessato di avere paura ha cessato di preoccuparsi. (Francis Herbert Bradley)
+> L'uomo che ha cessato di avere paura ha cessato di preoccuparsi. (Francis Herbert Bradley)
 
 Il primo Patrono creato da Atmos sotto la guida di Ljust e l'influenza di Calicante.
 
@@ -12362,7 +12395,7 @@ Il Devoto di Gradh è fiero ed orgoglioso, indomito e protettivo, ed addolorato,
 
 ### Atherim
 
-Colui al quale confidate il vostro segreto, diventa il padrone della vostra libertà. (François de La Rochefoucauld)
+> Colui al quale confidate il vostro segreto, diventa il padrone della vostra libertà. (François de La Rochefoucauld)
 
 Non c'è nulla di nascosto che non sarà svelato, né di segreto che non sarà conosciuto. (Luca, 12, 1-7)
 
@@ -12504,13 +12537,13 @@ I Devoti di Erondil sono gli ingegneri dell'impossibile.
 
 ### Gaya
 
-> {Splendore del giorno concluso, che mi sollevi e mi colmi,
+> Splendore del giorno concluso, che mi sollevi e mi colmi,
 
 ora profetica, ora che il passato riadduci!
 
 E mi gonfi la gola, te, divino egualitarissimo,
 
-voi, terra e vita finché brilli l'ultimo raggio, io canto. (Song at Sunset, Walt Whitman)}
+voi, terra e vita finché brilli l'ultimo raggio, io canto. (Song at Sunset, Walt Whitman)
 
 Patrono di Acqua e Fuoco, nelle profondità della terra, dove acqua e lava si incontrano, Gaya si diverte a dipingere. Adora circondarsi dei flussi di fuoco e acqua quasi a creare una danza in mezzo a loro. Adora i suoni della natura, l'infrangersi delle onde sugli scogli, il cadere delle gocce di pioggia sull'acciottolato, il borbottare di un fuoco scoppiettante.
 
@@ -12520,7 +12553,7 @@ I Devoti di Gaya sono artisti volubili e sopra le righe. Sono coloro che ricrean
 
 Ma Gaya ha anche un lato molto più subdolo e violento, una vena di follia malvagia che adora portare distruzione con fiamme e acqua. Nelle profondità delle caverne creature affini all'acqua od al fuoco adorano Gaya e uccidono chiunque non sia d'accordo con loro.
 
-**Gaia** ed **Erondil** sono come le due facce della stessa medaglia e sovraintendono agli elementi, Gaia acqua e fuoco ed Erondil Aria e Terra; agiscono come espressione diretta dei Patroni maggiori, sono piccole manifestazione del loro immenso potere.
+>>> **Gaia ed Erondil**: **Gaia** ed **Erondil** sono come le due facce della stessa medaglia e sovraintendono agli elementi, Gaia acqua e fuoco ed Erondil Aria e Terra; agiscono come espressione diretta dei Patroni maggiori, sono piccole manifestazione del loro immenso potere.
 
 - **Simbolo**: un pennello sul cielo
 - **Caratteristica**: Intelligenza
@@ -12774,7 +12807,7 @@ I Devoti di Shayalia sono spie, figli bastardi, amanti di potenti signori che ag
 
 Ljust disgustata dalla visione di un Patrono del genere instillò in Shayalia l'amore e passione per le piante ed animali. E così molti dei più famosi botanici, erboristi e zoologi sono Devoti di Shayalia, forse le uniche cose che Shayalia veramente può amare.
 
-Mentre **Efrem** è il patrono della natura selvaggia, Shayalia incarna la devozione e l'amore umano per la natura. Il primo sovraintende dall'alto la natura incontaminata, la seconda si cala e diventa tutt'uno con essa costruendo magnifici giardini.
+>>> **Efrem e Shayalia**: Mentre **Efrem** è il patrono della natura selvaggia, Shayalia incarna la devozione e l'amore umano per la natura. Il primo sovraintende dall'alto la natura incontaminata, la seconda si cala e diventa tutt'uno con essa costruendo magnifici giardini.
 
 **Sumkjr** e **Shayalia** sono complementari nel tenere in mano gli umori sfuggenti delle creature. Agiscono come espressione diretta dei Patroni della Genesi.
 
@@ -12987,7 +13020,7 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 - **Arma Preferita**: Ascia ad una mano
 - **Regola**: Non essere sciatto, mal vestito o disordinato.
 
->>> In accordo con il Narratore, ed adeguatamente motivato, è possibile cambiare Vantaggio e Liste di Magia Privilegiate.
+>>> **Adeguare ed adeguarsi**: In accordo con il Narratore, ed adeguatamente motivato, è possibile cambiare Vantaggio e Liste di Magia Privilegiate.
 
 ### Elenco Patrono - Tratto
 
@@ -13047,6 +13080,7 @@ I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizz
 
 **Tàhil**: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
 
+> Gli dei tessono sventure per gli uomini, perché le generazioni future abbiano qualcosa da cantare. Iliade, Omero.
 ---
 
 # Equipaggiamento
@@ -13099,6 +13133,8 @@ I mercanti di solito scambiano merci anche senza l'uso di monete.
 Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono descritte nella tabella.
 
 **Tabella: Esempi altre ricchezze**
+
+	
 
 | **Costo** | **Oggetto** |
 | 1 mr | Frumento (0.5 kg) |
@@ -13184,6 +13220,8 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 Un **Arma** Piccola ha **Ingombro** 1, una Arma Media ha Ingombro 2, un Arma Grande ha Ingombro 4, un Arma Enorme ha Ingombro 8.
 
 **Tabella: Lista dei proiettili - Archi - Balestre - Fionde**
+
+	
 
 | **Nome Proiettile** | **Numero di colpi/Costo (mo)** | **Danno / Tipo** |
 | --- | --- | --- |
@@ -13348,13 +13386,15 @@ Ogni qual volta il Tiro per Colpire sia un Fallimento Critico c'è stato un prob
 
 > Armatura (s.f.). Abito che si indossa se il proprio sarto è un fabbro. (Ambrose Bierce)
 
-Armatura Fantozzi: banderuola 4 venti in funzione di pennacchio, pauroso elmo vichingo con visibilità azzerata, sospensorio in bronzo sottratto alla statua di Pipino il Breve e, ai piedi, ferroni da stiro a carbonella di piombo fuso. Peso complessivo armatura Fantozzi: 4 quintali, 32 chili e 7 etti e mezzo. (Superfantozzi, Film)} 
+Armatura Fantozzi: banderuola 4 venti in funzione di pennacchio, pauroso elmo vichingo con visibilità azzerata, sospensorio in bronzo sottratto alla statua di Pipino il Breve e, ai piedi, ferroni da stiro a carbonella di piombo fuso. Peso complessivo armatura Fantozzi: 4 quintali, 32 chili e 7 etti e mezzo. (Superfantozzi, Film)}
 
 Le armature aiutano ad essere non colpiti (alzano la Difesa) e penalizzano la Prova di Magia e le prove di competenza di Base.
 
 La Penalità Competenze è la penalità che si applica alle prove di competenza di Base influenzate dal peso ed Ingombro dell'armatura. Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella serve come linea guida per il Narratore.
 
 ### Tabella Armature
+
+	
 
 | **Armatura** | **Costo** | **Difesa** | **Pen. Comp.** | **Tipo** | **Mov.** | **Prova Magia** | **Ingombro** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13486,6 +13526,8 @@ Imbracciare uno scudo occupa la mano ed il braccio.
 
 ### Tabella Scudi
 
+	
+
 | **Scudi** | **Costo** | **Bonus Difesa** | **penalità TC** | **Prova magia** | **Tipo** | **Ingombro** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Scudo leggero di legno | 3 mo | 1 | 0 | +2 | L | 1 |
@@ -13499,6 +13541,8 @@ Imbracciare uno scudo occupa la mano ed il braccio.
 Indossare e togliere armature è una operazione che richiede tempo ed attenzione, farlo in fretta non aiuta ed anzi tende a peggiorare la protezione fornita.
 
 **Tabella: Tempi per indossare e togliere l'armatura**
+
+	
 
 | **Tipo di Armatura** | **Indossare** | **Indossare in fretta** | **Togliere** |
 | --- | --- | --- | --- |
@@ -13519,9 +13563,9 @@ Indossare e togliere armature è una operazione che richiede tempo ed attenzione
 
 ## Ricchezza, Denaro ed Equipaggiamento
 
-- Doc... c'è soltanto bisogno di un pochino di plutonio.
+> - Doc... c'è soltanto bisogno di un pochino di plutonio.
 
-- Ah, sono certo che nell'85 il plutonio si compra nella drogheria sotto casa, ma nel '55 la faccenda è molto più complicata! (Ritorno al futuro, Film 1985)}
+- Ah, sono certo che nell'85 il plutonio si compra nella drogheria sotto casa, ma nel '55 la faccenda è molto più complicata! (Ritorno al futuro, Film 1985)
 
 ### Vendere Tesori
 
@@ -13594,13 +13638,13 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 | Birra Boccale | 5 mr | L |
 | Birra Caraffa | 2 ma | L |
 | Boccale di ceramica | 2 mr | L |
+
+| **Oggetto** | **Costo** | **Ing.** |
+| --- | --- | --- |
 | Boccetta di inchiostro o pozione | 1 mo | L |
 | Borsa | 5 ma | L |
 | Alchimista (laboratorio) | 200 mo | 5 |
 | Borsa da cintura | 1 mo | L |
-
-| **Oggetto** | **Costo** | **Ing.** |
-| --- | --- | --- |
 | Borsa da Guaritore | 20 mo | 1 |
 | Borsa dei Componenti | 25 mo | L |
 | Bottiglia di vetro | 2 mo | L |
@@ -13650,7 +13694,6 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 | Locanda Modesta (dormire) | 5 ma | - |
 | Locanda Scadente (dormire) | 1 ma | - |
 | Maglio | 1 mo | 2 |
-| Manette | 15 mo | L |
 | Martello | 5 ma | 1 |
 | Morso e briglie | 2 mo | 1 |
 | Nave a vela | 10k mo | - |
@@ -13659,11 +13702,12 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 | Olio da lanterna | 1 ma | 1 |
 | Orologio ad acqua | 900 mo | - |
 | Otre | 1 mo | 2 |
-| Pala o badile | 2 mo | 1 |
-| Pane (a pagnotta) | 2 mr | - |
 
 | **Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- |
+| Manette | 15 mo | L |
+| Pala o badile | 2 mo | 1 |
+| Pane (a pagnotta) | 2 mr | - |
 | Pasti (al giorno) Buono | 5 ma | - |
 | Pasti (al giorno) Modesto | 3 ma | - |
 | Pasti (al giorno) Povero | 6 mr | - |
@@ -13713,7 +13757,7 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 | Vino della casa (caraffa) | 2 ma | 1 |
 | Zaino | 2 mo | 1 |
 
-Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthur C. Clarke, da Profiles of the Future)
+> Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthur C. Clarke, da Profiles of the Future)
 
 **Acido Intenso**. Con un'Azione, puoi spargere il contenuto di questa fiala su di una creatura entro 1 metro da te o lanciare la fiala fino a 6 metri, fracassandola all'impatto. In entrambi i casi, effettua un Tiro per Colpire a distanza contro la creatura o l'oggetto, trattando l'acido come un'arma improvvisata. Se colpisci, il bersaglio subisce 2d6 danni da acido il primo round ed 1d6 il secondo round.
 
@@ -13789,7 +13833,7 @@ Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthu
 
 **Pozione di Cura potenziata**. Questa pozione generica di cura consente di recuperare 3d8+3 Punti Ferita.
 
->>> Per quanto sia personalmente contrario all'acquisto di oggetti magici da parte dei personaggi le Pozioni di Cura devono essere disponibili.
+>>> **Cure disponibili**: Per quanto sia personalmente contrario all'acquisto di oggetti magici da parte dei personaggi le Pozioni di Cura devono essere disponibili.
 
 **Razioni**. Le razioni consistono di cibo secco adatto a lunghi viaggi, e includono carne secca, frutta secca, gallette e noci.
 
@@ -14059,6 +14103,8 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 **Spese dello Stile di Vita, al giorno**
 
+	
+
 | **Stile** | **Prezzo** | **Stile** | **Prezzo** |
 | --- | --- | --- | --- |
 | Miserabile | - | Squallido | 1 ma |
@@ -14271,6 +14317,8 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 
 **Tabella: Modificatori prova di Forza in base alla propria taglia**
 
+	
+
 | **Taglia** | **Mod.** | **Taglia** | **Mod.** |
 | --- | --- | --- | --- |
 | Piccolissima | -16 | Grande | +4 |
@@ -14293,7 +14341,7 @@ Dai deserti senza vita ai dungeon zeppi di trappole, l'ambiente aiuta a definire
 
 ### Visione e Luce
 
-Il diverso funzionamento delle fonti di luce vuole rendere più cupo, oscuro e difficile l'esplorazione, specialmente di caverne e zone prive di fonti luminose. Basta gruppi che castano Luce ogni minuto o gridano *Scurovisione!*. L'oscurità aiuta l'immaginazione ed alza il livello di tensione. Enfatizzate il crepitare della fiamma della torcia, l'ondeggiare e a volte quasi spegnersi per le correnti improvvise. Rendete misterioso ciò che c'è intorno ai personaggi!.
+>>> **Luce**: Il diverso funzionamento delle fonti di luce vuole rendere più cupo, oscuro e difficile l'esplorazione, specialmente di caverne e zone prive di fonti luminose. Basta gruppi che castano Luce ogni minuto o gridano *Scurovisione!*. L'oscurità aiuta l'immaginazione ed alza il livello di tensione. Enfatizzate il crepitare della fiamma della torcia, l'ondeggiare e a volte quasi spegnersi per le correnti improvvise. Rendete misterioso ciò che c'è intorno ai personaggi!.
 
 In un ambiente naturale l'illuminazione può assumere diverse gradazioni e queste gradazioni aiutano a capire fino a che distanza una creatura può vedere.
 
@@ -14309,6 +14357,8 @@ Molti incantesimi ed oggetti usano come durata il *tempo di gioco reale*, ovvero
 
 **Tabella: Fonti di luce**
 
+	
+
 | **Fonte di** | **Raggio in metri** |  | **Durata** |
 | --- | --- | --- | --- |
 | **Luce** | **Luce** | **Luce Fioca** | |
@@ -14322,7 +14372,7 @@ Molti incantesimi ed oggetti usano come durata il *tempo di gioco reale*, ovvero
 
 La durata indicata è espressa, quando in minuti o ore, come durata di tempo reale di gioco.
 
->> Visione Crepuscolare e Scurovisione ?: L'oscurità che permea la Terra non è solo mancanza di luce ma è viva e pulsante. Anche se molte delle nuove razze dovrebbero vedere al buio così non è. Tazher e Calicante hanno reso impenetrabile l'oscurità per chiunque.
+>> **Visione Crepuscolare e Scurovisione ?**: L'oscurità che permea la Terra non è solo mancanza di luce ma è viva e pulsante. Anche se molte delle nuove razze dovrebbero vedere al buio così non è. Tazher e Calicante hanno reso impenetrabile l'oscurità per chiunque.
 
 La **Luce fioca** è la luce oltre una fonte di luce. E' il passare in un corridoio di 3 metri se è illuminato solo da leggere candele, è una notte di luna piena, è una zona oscurata leggermente.
 In linea di massima una fonte di luce crea luce fioca in un raggio doppio rispetto al raggio di luce normale. **Una creatura in Luce Fioca ha un -2 alle prove di Consapevolezza ed un -1 ai Tiri per Colpire**.
@@ -14338,7 +14388,7 @@ La **Luce** è la luce all'aperto sotto il sole, ma anche se si tiene una torcia
 - Una creatura con **Visione Crepuscolare** vede senza problemi fino alla distanza, come raggio circolare intorno alla fonte di luce, indicato in Luce fioca, o indicato dalla razza se minore, oltre è oscurità.
 - Una creatura con **Scurovisione**  vede, entro il raggio indicato dalla sua Scurovisione, in condizioni di luce normale e luce fioca senza problemi, mentre nell'oscurità ha -2 Consapevolezza ed a Sopravvivenza per cercare trappole. La Scurovisione è una visione in bianco e nero.
 
->> Nota sulle fonti di luce: Vi sarete accorti o lo farete presto, che le fonti di luce magiche funzionano in maniera diversa, molto spesso durano molto di meno o generano poca luce. Questo è dovuto al volere di un Patrono e come tale solo un Patrono può annullarne gli effetti (o il Narratore!).
+>> **Nota sulle fonti di luce**: Vi sarete accorti o lo farete presto, che le fonti di luce magiche funzionano in maniera diversa, molto spesso durano molto di meno o generano poca luce. Questo è dovuto al volere di un Patrono e come tale solo un Patrono può annullarne gli effetti (o il Narratore!).
 
 ### Buio
 
@@ -14416,6 +14466,8 @@ Gli oggetti fatti di materiali più leggeri potrebbero infliggere la metà o men
 Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la metà dei danni indicati. Se un oggetto cade da una distanza superiore ai 20 metri, infligge danni raddoppiati. L'oggetto che cade subisce la stessa quantità di danni che infligge.
 
 **Tabella: Danno da Oggetti Cadenti**
+
+	
 
 | **Taglia dell'Oggetto** | **Danno** |
 | --- | --- |
@@ -14714,7 +14766,7 @@ Il dungeon è inclinato. Le creature sono infuriate perché non riescono a gioca
 
 Di tutti i luoghi strani che un avventuriero può esplorare, nessuno è più letale di un dungeon. Questi labirinti, pieni di trappole mortali, mostri affamati e tesori meravigliosi, provano ogni abilità e capacità dei personaggi. Queste regole si possono applicare a qualsiasi tipo di dungeon, dal relitto di una nave ad un vasto complesso di grotte sotterranee.
 
->>> Il dungeon, caverna, catacomba, spelonca, ecosistema sotterraneo... chiamatelo come preferite è un cardine dell'avventura!
+>>> **Dungeon!!!**: Il dungeon, caverna, catacomba, spelonca, ecosistema sotterraneo... chiamatelo come preferite è un cardine dell'avventura!
 
 | Un dungeon è una ricetta fatta di umidità, fetore, aria stantia, sporcizia, fango, resti di creature, trappole, melme, trappole (abbondate...), mostri, nemici, mostri (abbondare!), oscurità, rumori sinistri, funghi, scricchiolii, guaiti, urla, gemiti.. ma anche di paura, tensione, brivido terrore | raccapriccio, enfasi, rabbia, dolore, delusione e tesori!!! |
 | --- | --- |
@@ -14823,6 +14875,8 @@ A volte pareti in mattoni (pietre accatastate una sopra tenute insieme con la ca
 
 **Tabella: Scavare un tunnel**
 
+	
+
 | **Minatore** | **Materiale da Scavare (1 minuto)** |  | |
 | --- | --- | --- |
 | **Terreno** | **Pietramorbida** | **Pietra dura** |
@@ -14902,6 +14956,8 @@ A volte le sporgenze hanno una ringhiera. In questi casi i personaggi ottengono 
 Il **fallimento critico** in una prova di Forza (TS Tempra con Forza) significa essersi fatti male nella manovra di sfondamento. Finché non passano almeno 10 minuti non è più possibile sfondare una porta.
 
 Le porte all'interno dei dungeon sono ben più che semplici entrate o uscite. Spesso possono essere dei veri e propri incontri. Le porte dei dungeon si presentano in tre tipi basilari: di legno, di pietra e di ferro.
+
+	
 
 | **Tipo di porta** | **Spessore tipico** | **Durezza** | **Punti Ferita** | **DC per sfondare** | |
 | --- | --- | --- | --- | --- |
@@ -15066,7 +15122,7 @@ E' necessario un Tiro Salvezza su Riflessi DC 14 oppure subire 2d6 di danno da t
 
 > Un'avventura è un risultato ragionevole. Due sono meglio, tre meritano di essere tramandate, e quattro... nessuno potrà mai contestare quattro avventure. (John Steinbeck)
 
-Corre meno pericoli colui che, anche se è al sicuro, sta in guardia. (Publilio Siro)} 
+Corre meno pericoli colui che, anche se è al sicuro, sta in guardia. (Publilio Siro)}
 
 Il mondo è pieno dì pericoli oltre che di draghi ed immondi famelici. I pericoli sono minacce presenti nell'ambiente e che hanno molto in comune con le trappole, ma che di solito fanno parte del posto anziché venir costruite. I pericoli si dividono in tre categorie principali: ambientali, viventi e magici.
 
@@ -15216,7 +15272,7 @@ Un **rumore brusco** concede una prova di Consapevolezza a DC 15, oppure pari al
 
 ## Avventure e Trappole
 
-Chi pone la trappola sempre allo stesso posto non prenderà alcun'iguana. (Proverbio Africano)
+> Chi pone la trappola sempre allo stesso posto non prenderà alcun'iguana. (Proverbio Africano)
 
 Quasi ovunque si può incontrare una trappola. Le trappole possono essere di natura magica o meccanica. Le trappole meccaniche comprendono fosse, frecce, massi che cadono, stanze piene d'acqua, lame rotanti e qualsiasi altra cosa che dipenda da un meccanismo per operare. Le trappole magiche sono congegni magici trappola o incantesimi trappola. I congegni magici trappola quando attivati generano gli effetti di un incantesimo, mentre gli incantesimi trappola sono incantesimi come glifo di interdizione e simbolo che funzionano come trappole.
 
@@ -15714,7 +15770,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Ripristino:** | nessuno |
 | **Effetto:** | come incantesimo Disintegrazione con 1 Critico Magico. DC 24 |
 
->> Tups e la trappola: In questo esempio vi porto l'approccio vecchia scuola quando si presumeva che ci fossero delle trappole. Nulla vieta al Narratore di permettere prove di Sopravvivenza o Disattivare Congegni. Posso solo dire che questo approccio è però più coinvolgente.
+>>> **Tups e la trappola**: In questo esempio vi porto l'approccio vecchia scuola quando si presumeva che ci fossero delle trappole. Nulla vieta al Narratore di permettere prove di Sopravvivenza o Disattivare Congegni. Posso solo dire che questo approccio è però più coinvolgente.
 
 *Narratore*: un corridoio largo 3 metri porta a nord, nell'oscurità.
 
@@ -15746,7 +15802,7 @@ Prosegui nel corridoio?
 
 Liberamente ispirato da \href{https://friendorfoe.com/d/Old
 
->>> Una trappola visibile/ovvia obbliga i giocatori ad interagire con essa, a sforzarsi per capirne il funzionamento ed ingegnarsi per evitarla o disattivarla. Evitate quando potete risoluzioni solo basate sul tiro di dado (Cerco trappole/Disattivo trappole), piuttosto premiate l'ingegnosità anche semplice ma creativa del giocatore per evitare il pericolo... e magari prima o poi si ricorderanno di recuperare il piede di porco...!
+>>> **Trappole ovvie**: Una trappola visibile/ovvia obbliga i giocatori ad interagire con essa, a sforzarsi per capirne il funzionamento ed ingegnarsi per evitarla o disattivarla. Evitate quando potete risoluzioni solo basate sul tiro di dado (Cerco trappole/Disattivo trappole), piuttosto premiate l'ingegnosità anche semplice ma creativa del giocatore per evitare il pericolo... e magari prima o poi si ricorderanno di recuperare il piede di porco...!
 ---
 
 # Veleni, Pozioni e Malattie
@@ -15783,7 +15839,7 @@ Bere una pozione tenuta in mano costa 1 Azione Immediata, farla bere ad un compa
 
 Se il personaggio **dedica 1 minuto** a bere una Pozione di Cura o Naturale questa avrà effetto massimizzato.
 
->>> I veleni qui proposti sono alcuni dei tanti presenti e possibili. Usali come linee guida. Se per tua etica e stile non ti piacciono i veleni, specialmente quelli più cattivi, suggerisco di usare le Pozioni Generiche che trovi in fondo al capitolo. Sono veleni più blandi e meno personali, probabilmente più facilmente usabili anche dai giocatori.
+>>> **Veleni o meno**: I veleni qui proposti sono alcuni dei tanti presenti e possibili. Usali come linee guida. Se per tua etica e stile non ti piacciono i veleni, specialmente quelli più cattivi, suggerisco di usare le Pozioni Generiche che trovi in fondo al capitolo. Sono veleni più blandi e meno personali, probabilmente più facilmente usabili anche dai giocatori.
 
 ### Avvelenati
 
@@ -15799,7 +15855,7 @@ Se il personaggio **dedica 1 minuto** a bere una Pozione di Cura o Naturale ques
 
 Se si viene esposti a veleni diversi è necessario effettuare un Tiro Salvezza per ogni tipo di veleno assunto.
 
->> Veleno ?: {Il veleno è un arma a doppio taglio. Finché la usi tu va bene ma se te la usano contro, magari lo stesso, diventa un problema. Ci sono anche degli aspetti etici nell'usare i veleni, valuta se i tuoi Tratti ti permettono di usare dei veleni e di che tipi.
+>> **Veleno ?**: {Il veleno è un arma a doppio taglio. Finché la usi tu va bene ma se te la usano contro, magari lo stesso, diventa un problema. Ci sono anche degli aspetti etici nell'usare i veleni, valuta se i tuoi Tratti ti permettono di usare dei veleni e di che tipi.
 
 ## Applicare il Veleno
 
@@ -15826,7 +15882,7 @@ Una volta fatta la prova di Pronto Soccorso non è più possibile rifarla se non
 
 Un trattamento continuativo di Pronto Soccorso per 8 ore permette di effettuare un nuovo Tiro Salvezza con +1d6 bonus dopo l'attivazione del veleno se questo è ancora attivo.
 
-> Io credo che una foglia d'erba non sia meno di una giornata di lavoro compiuto dagli astri. (Walt Whitman)}
+> Io credo che una foglia d'erba non sia meno di una giornata di lavoro compiuto dagli astri. (Walt Whitman)
 
 ## Creare Veleni e Pozioni Naturali
 
@@ -15842,7 +15898,7 @@ Una Pozione che ***Rimuove*** una condizione è efficace se la sua DC è superio
 
 Gli esempi seguenti rappresentano solo alcuni dei possibili veleni. Tutti i costi sono espressi in Monete d'Oro. I Veleni sono presentati, specialmente nel Mostruario con questa dizione: Nome Veleno, Uso (I/R/F/C), tempo Insorgenza, DC del Tiro Salvezza, Effetto.
 
->>> I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Quando volete usare un veleno pensate innanzitutto perché si trova li, per chi doveva essere usato, per quale scopo. Non è detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
+>>> **Anche Veleni**: I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Quando volete usare un veleno pensate innanzitutto perché si trova li, per chi doveva essere usato, per quale scopo. Non è detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
 
 ## Come trovare le pianticine...
 
@@ -15888,18 +15944,7 @@ Il Tiro Salvezza è sempre su Tempra se non specificato diversamente
 
 I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non permanenti o indicato diversamente.
 
----
-
 **Tabella: Pozioni Naturali (costo in monete d'oro)**
-
-{1\textwidth}{
-		>{\raggedright}p
-		>{}p
-		>{}p
-		>{}p
-		>{\raggedright}X
-		>{}p
-		>{}p
 
 | **Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16144,9 +16189,9 @@ Esempi di Malattie:
 
 # Movimento e Trasporto
 
-Il mio piede sinistro funziona benissimo, ma non riuscirei comunque a camminare se non ci fosse il destro! (Madagascar 3 - Ricercati in Europa, Film )
+> Il mio piede sinistro funziona benissimo, ma non riuscirei comunque a camminare se non ci fosse il destro! (Madagascar 3 - Ricercati in Europa, Film )
 
-Quando non puoi più correre, cammina veloce; quando non puoi più camminare veloce, cammina; quando non puoi più camminare, usa il bastone; però non trattenerti mai. (Madre Teresa di Calcutta)}
+Quando non puoi più correre, cammina veloce; quando non puoi più camminare veloce, cammina; quando non puoi più camminare, usa il bastone; però non trattenerti mai. (Madre Teresa di Calcutta)
 
 Il movimento si può distinguere in base a quale situazione si applica.
 
@@ -16173,16 +16218,16 @@ Questa tabella mostra i valori base di movimento a terra in situazioni di non co
 | **Tipo di movimento** | **Movimento** |  | |
 | --- | --- | --- |
 | \cmidrule(lr) | **6m** | **9m** | **12m** |
-| **Movimento (Tattico)** |  |  | |
+| **Movimento (Tattico)** |  | |
 | Camminare | 6m | 9m | 12m |
 | Correre (x2) | 12m | 18m | 24m |
-| **Un minuto (Locale)** |  |  | |
+| **Un minuto (Locale)** |  | |
 | Camminare | 36m | 54m | 72m |
 | Correre (x3) | 108m | 162m | 216m |
-| **Un'ora (Via Terra)** |  |  | |
+| **Un'ora (Via Terra)** |  | |
 | Camminare | 3km | 4km | 6km |
 | Correre (x3) | 9km | 12km | 18km |
-| **Un giorno (Via Terra)** |  |  | |
+| **Un giorno (Via Terra)** |  | |
 | Camminare | 24km | 32km | 54km |
 
 ## Movimento Tattico
@@ -16214,18 +16259,20 @@ Muoversi da prono, Nuotare o Strisciare è considerato terreno difficile, Arramp
 
 Il terreno dove sono presenti dei corpi di creature si considera difficile. 
 
->> Tups nel cunicolo: Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. E' alla quarta posizione.
+>> **Tups nel cunicolo**: Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. E' alla quarta posizione.
 
 Improvvisamente un nemico si para davanti e Tups è il più veloce a reagire, usando una Azione di Movimento ***attraversa*** i 3 compagni che ha davanti rimanendo **ristretto** con il primo della fila.
 
 Potrebbe decidere di (tra le varie possibilità):
 
+\beginitemize[leftmargin=*]
 - stare fermo senza scattare in avanti, lasciare agire prima i compagni davanti a lui.
 - rimanere ristretto ed attaccare. Rimangono 2 Azioni.
 - spingere il compagno (1 Azione) nel quadretto precedente, facendolo stringere con un altro compagno. Rimane 1 Azione.
 - spingere il compagno (1 Azione) nel quadretto successivo! facendo attraversare a lui il quadretto del nemico. Rimane 1 Azione.
 - tornare indietro (1 Azione) al suo quadretto iniziale. Rimane 1 Azione.
 - provare ad attraversare l'avversario (1 Azione), ma se fallisce sarebbe ristretto con il compagno, danneggiando entrambi e gli rimarrebbe soltanto 1 altra Azione
+\enditemize
 
 ### Condividere gli Spazi
 
@@ -16238,8 +16285,7 @@ Es. un mostro di taglia Grande può condividere il suo spazio solo con una creat
 ### Scambiarsi di posto
 Un personaggio a contatto con un altra creatura può usare **una Azione** per **scambiarsi di posto** con questa. Se la creatura è ostile è necessaria una Prova Atletica contrapposta ad un Tiro Salvezza su Tempra per riuscire a scambiarsi. Per ogni taglia di differenza chi ha quella maggiore prende +1d6 di bonus alla prova. Costa una Reazione alla creatura amichevole.
 
->>> %box narratore
-Se volete un crudo realismo allora è terreno difficile attraversare anche zone dove ci sono creature amichevoli.
+>>> **Amici fastidiosi**: Se volete un crudo realismo allora è terreno difficile attraversare anche zone dove ci sono creature amichevoli.
 
 ### Essere ristretti con qualcuno
 Due creature ristrette, ovvero che condividono lo stesso quadretto e non rispettano le regole di Condividere gli Spazi subiscono un -1d6 al Tiro per Colpire ed un -4 alla Difesa finché ristretti.
@@ -16297,9 +16343,9 @@ Una cavalcatura può essere bardata con un armatura. Un armatura leggera conferi
 
 ## Tabella: Cavalcature e Veicoli
 
-| **Cavalcatura o Veicolo** | **Ingombro trasportato** | **Movimento** | **Movimento** |
+| **Cavalcatura o** | **Ingombro trasportato** | **Movimento** | **Movimento** |
 | --- | --- | --- | --- |
-| **(CdC)** | **All'ora** | **Al giorno** |
+| **Veicolo** | **(CdC)** | **All'ora** | **Al giorno** |
 | Cane da Galoppo | 30 | 6km | 36km |
 | Saurovallo da Galoppo | 60 | 8km | 48km |
 | Saurovallo da Guerra | 80 | 7km | 42km |
@@ -16394,7 +16440,7 @@ Queste Tabelle sono da usare per gli animali insoliti non indicati o assimilabil
 
 ## Altri Tipi di Movimento
 
-Uno dei problemi riguarda la velocità della luce e le difficoltà che comporta il tentare di superarla. Non la si può superare. Niente viaggia più in fretta della velocità della luce, con la possibile eccezione delle cattive notizie, che seguono proprie leggi specifiche. (Douglas Adams)
+> Uno dei problemi riguarda la velocità della luce e le difficoltà che comporta il tentare di superarla. Non la si può superare. Niente viaggia più in fretta della velocità della luce, con la possibile eccezione delle cattive notizie, che seguono proprie leggi specifiche. (Douglas Adams)
 
 ### Nuotare
 
@@ -16450,7 +16496,7 @@ Il ruolo del Narratore non è facile ma concede enormi privilegi. Vedere i propr
 
 Il tuo ruolo è quello del grande orchestratore, pianificatore o anche paesaggista se preferisci, con poche semplici pennellate delinei la struttura e saranno poi i giocatori ad aggiungere dettagli e situazioni.
 
->>> OBSS vuole aiutare te e gli altri giocatori a divertirsi. Usa sempre il buon senso quando devi applicare una regola. Il tuo scopo non è ammazzare i personaggi ma creare mondi e campagne che si evolvono attorno ai personaggi ed al mondo che crei, alle loro azioni e decisioni. Incorpora le cose che interessano i giocatori, tienili partecipi, fagli comprendere che il mondo è vivo e ne fanno parte. Se sei bravo le tue avventure, le situazioni riecheggeranno in altre sessioni e fuori dal tavolo.
+>>> **Divertirsi sempre**: OBSS vuole aiutare te e gli altri giocatori a divertirsi. Usa sempre il buon senso quando devi applicare una regola. Il tuo scopo non è ammazzare i personaggi ma creare mondi e campagne che si evolvono attorno ai personaggi ed al mondo che crei, alle loro azioni e decisioni. Incorpora le cose che interessano i giocatori, tienili partecipi, fagli comprendere che il mondo è vivo e ne fanno parte. Se sei bravo le tue avventure, le situazioni riecheggeranno in altre sessioni e fuori dal tavolo.
 
 Il tuo *lavoro e divertimento* è fondamentale ed importantissimo, la bontà della sessione di gioco dipende anche da te. Il tuo scopo è innanzitutto divertirti, essere creativo, improvvisare, recitare, creare ingegnose situazioni. Finché tu ti diverti è estremamente probabile che anche i giocatori si stiano divertendo!
 
@@ -16523,7 +16569,7 @@ Un mostro non deve essere per forza ucciso per averne i Punti Esperienza, è suf
 
 Nel limite del possibile ogni sessione dovrebbe includere una parte di ruolo, una parte di esplorazione, tre parti di combattimento (anche molte più di tre), una parte di riposo.
 
->>> Sia chiaro che nulla vi vieta di approntare un passaggio di livello basato su punti fissi (milestone) durante l'avventura. Vostro il tavolo, vostre le regole!
+>>> **Esperienza e OSR**: Sia chiaro che nulla vi vieta di approntare un passaggio di livello basato su punti fissi (milestone) durante l'avventura. Vostro il tavolo, vostre le regole!
 
 Può sembrare anacronistico quando c'è già in sviluppo la sesta edizione del più famoso gioco di ruolo tornare a premiare i personaggi in base all'oro preso ai mostri.
 
@@ -16532,8 +16578,6 @@ Posso però garantirvi che qualora il vostro gruppo sia particolarmente *povero*
 OBSS si rifà ai principi dell'OSR e come tale la fase di esplorazione e combattimento ha un proprio peso importante e vitale.
 
 ## Incontri
-
-> Che è la vita senza speranza? Una gittata di dadi fra le tenebre, fra i deliri. (Ambrogio Bazzero)}
 
 Un incontro è un momento di tensione e speranza, paura e sfida. E' l'occasione di mostrare e manifestare le proprie capacità e di lavorare come gruppo.
 
@@ -16553,11 +16597,10 @@ Nel progettare un incontro di combattimento in primo luogo decidete che livello 
 
 **Determinare APL**: Determinate il livello medio dei personaggi: questo è il Livello Medio del Gruppo (APL in breve, Average Party Level). Dovreste arrotondate questo valore al numero intero più vicino (questa è una delle poche eccezioni alla regola dell'arrotondamento per difetto).
 
-Si noti che questa guida di riferimento alla creazione di un incontro presuppone un gruppo di quattro o cinque personaggi. Se il vostro gruppo ha sei o più giocatori, aggiungete uno al loro livello medio. Se il vostro gruppo contiene tre o meno giocatori, sottraete uno dal loro livello medio. Per esempio, se il vostro gruppo consiste di sei giocatori, due di 5° livello e quattro di 7° livello, il APL è il 7° (38 livelli totali, diviso per sei giocatori, arrotondando all'intero più vicino, ed aggiungendo uno al risultato finale).
-
 **Tabella: Determinare gli Incontri**
 
 {@{}ll@ % @{} removes extra padding
+	
 
 | **difficoltà** | **Grado di Sfida** |
 | --- | --- |
@@ -16567,6 +16610,8 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 | Straordinaria | APL +3 |
 | Mortale | APL +4 |
 | Epica | APL +6 |
+
+Si noti che questa guida di riferimento alla creazione di un incontro presuppone un gruppo di quattro o cinque personaggi. Se il vostro gruppo ha sei o più giocatori, aggiungete uno al loro livello medio. Se il vostro gruppo contiene tre o meno giocatori, sottraete uno dal loro livello medio. Per esempio, se il vostro gruppo consiste di sei giocatori, due di 5° livello e quattro di 7° livello, il APL è il 7° (38 livelli totali, diviso per sei giocatori, arrotondando all'intero più vicino, ed aggiungendo uno al risultato finale).
 
 **Determinare il grado di Sfida**: Il Grado di Sfida (GS) è un numero di convenienza usato per indicare i rischi relativi presentati da un mostro, una trappola, un pericolo o un altro incontro: più il grado di Sfida è alto, più pericoloso è l'incontro. Riferitevi alla Tabella: Determinare gli Incontri per determinare il Grado di Sfida che il vostro gruppo dovrebbe affrontare, in base alla difficoltà della sfida che volete e al APL.
 
@@ -16594,6 +16639,8 @@ Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire
 
 **Tabella: Peso grado di Sfida per calcolo incontro**
 
+	
+
 | **Fattore** | **\% Peso** | **Fattore** | **\% Peso** |
 | --- | --- | --- | --- |
 | -6/-7 | 5 | -2 | 65 |
@@ -16617,7 +16664,7 @@ Avversari con grado di Sfida inferiore a 8 rispetto al APL si contano, pesano, s
 
 Avversari con GS pari a 1/2 considerateli come di GS 1, con GS inferiore ad 1/2 considerateli di GS 0.
 
-Ricordatevi al termine di ogni *incontro* o *sfida* di segnarvi i Tratti che hanno caratterizzato le azioni dei personaggi. Questi punti parziali li potete concedere alla prima occasione di riposo dei personaggi.
+>>> **Ricordatevi i Tratti**: Ricordatevi al termine di ogni *incontro* o *sfida* di segnarvi i Tratti che hanno caratterizzato le azioni dei personaggi. Questi punti parziali li potete concedere alla prima occasione di riposo dei personaggi.
 
 ### Scontri troppo veloci
 
@@ -16631,7 +16678,7 @@ E' ovviamente possibile che lo scontro non sia tarato bene ed effettivamente abb
 
 Ricordate che i *mostri* possono anche loro eseguire Azioni come Spingere, Afferrare, Buttare a terra, Fiancheggiare, non limitatevi nelle scelte.
 
-L'essenza del mondo è il gioco ... noi giochiamo il serio, giochiamo l'autentico, giochiamo la realtà, il lavoro e la lotta, giochiamo l'amore e la morte e giochiamo perfino il gioco. (Eugen Fink)
+> L'essenza del mondo è il gioco ... noi giochiamo il serio, giochiamo l'autentico, giochiamo la realtà, il lavoro e la lotta, giochiamo l'amore e la morte e giochiamo perfino il gioco. (Eugen Fink)
 
 ### Lo scontro con il Boss
 
@@ -16727,7 +16774,7 @@ Fatelo presente al giocatore che grazie alla sua interpretazione ha quel bonus.
 
 Allo stesso tempo potrebbero esserci situazioni che si rivelano sgradevoli da gestire e giocare per qualche giocatore. Fate molta attenzione in questo caso, andare contro la sensibilità di un giocatore, di un amico, non è come andare contro l'etica o morale di un personaggio. Se percepite un senso di disagio ed imbarazzo fermate subito il gioco e chiarite la situazione con i giocatori e riprendete solo quando vi sarete accordati su come modificare la situazione per evitare che accada di nuovo.
 
-{Concentratevi sulle persone, non sulle regole. Spingete per uno stile di gioco di gruppo; l'interpretazione è divertente ma non deve ostacolare il piano; sostenete i vostri compagni. (Frank Mentzer)}
+> {Concentratevi sulle persone, non sulle regole. Spingete per uno stile di gioco di gruppo; l'interpretazione è divertente ma non deve ostacolare il piano; sostenete i vostri compagni. (Frank Mentzer)
 
 ## Cambiare Personaggio
 
@@ -16852,6 +16899,8 @@ In definitiva, la Sessione Zero è fondamentale per stabilire una solida base pe
 
 Anche nel miglior gruppo già affiatato è sempre bene ricordare e condividere questi suggerimenti ad ogni inizio di campagna.
 
+> {
+I problemi più complessi hanno soluzioni semplici e facili da comprendere ma sbagliate (Arthur Bloch).... ma se sono divertenti e piacciono a tutti allora usatele! (NdA)
 ---
 
 # I Tesori
@@ -16915,7 +16964,7 @@ Diversamente delle gemme, molti di questi oggetti hanno valori stabiliti, ma pot
 
 **Monili Normali** (100-500 mo): La maggior parte dei monili è realizzata con argento, oro, giada, o corallo, e decorata spesso con gemme semi preziose o pietre preziose di qualità media. I monili normali comprendono tutti i tipi di monili minori più bracciali, collane e spille.
 
->>> Non esagerate mai con i tesori, specialmente quelli magici. Un tesoro non deve diventare un abitudine. Un conto possono essere le monete, gemme e consumabili un conto sono i veri tesori, quelli magici, particolari, unici.
+>>> **Attenzione ai tesori**: Non esagerate mai con i tesori, specialmente quelli magici. Un tesoro non deve diventare un abitudine. Un conto possono essere le monete, gemme e consumabili un conto sono i veri tesori, quelli magici, particolari, unici.
 
 Rispettare la Legge del Premio non significa riempire le tasche ai personaggi, altrimenti gli verrà a noia il rischiare la vita per nuovi tesori ed oggetti. Quando fate trovare un oggetto magico ragionate sempre in prospettiva. E' vero che può essere bello vedere i giocatori felici per quello che hanno trovato ma poi sarete costretti l'avventura successiva a dare qualcosa di ancora più potente.
 
@@ -16996,7 +17045,7 @@ Per renderle infine più sicure, se mai fosse stato necessario, nella zona più 
 
 Se i dungeon più piccoli (quelli entro 5, 6 piani) hanno un solo *cuore* quelli più ampi e profondi ne hanno molti di più, ed ogni volta protetti da creature più forti e difficili da sconfiggere.
 
-Tesoro è qualunque cosa mobile di pregio, nascosta o sotterrata, di cui nessuno può provare d'essere proprietario. (Codice civile italiano)
+> Tesoro è qualunque cosa mobile di pregio, nascosta o sotterrata, di cui nessuno può provare d'essere proprietario. (Codice civile italiano)
 
 ## Ma come fanno ad esistere oggetti magici sulla Terra ?
 
@@ -17026,18 +17075,16 @@ Es. una creatura è segnata come *Tesoro CT* **F** significa che nella sua tana,
 
 Consultate poi la Tabella Tipologia Oggetto magico (pag. ) per tirare e scoprire quale oggetti magici aveva la creatura.
 
-**Tabella: Composizione dei tesori**
-
 {\textwidth}{>{\bfseries}l|>
 	
 
 | **Tesori da tana o nascondigli di creature** |  |  |  |  |  |  | |
 | --- | --- | --- | --- | --- | --- | --- |
-| CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Oggetti magici** |
-| x 1000 | x 1000 | x 1000 | x 100 |  |  | |
+| CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
+| x1000 | x1000 | x1000 | x100 |  |  | |
 | A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 qualsiasi, 30\% |
 | B | 1d6, 50\% | 1d3, 25\% | 2d10, 25\% | 1d10, 25\% | 1d8, 30\% | 1d4, 20\% | Armature o armi, 10\% |
-| C | 1d10, 20\% | 1d6, 30\% | - | 1d6 10\% | 1d6, 25\% | 1d3, 20\% | 2 qualsiasi, 10\% |
+| C | 1d10, 20\% | 1d6, 30\% | - | 1d6, 10\% | 1d6, 25\% | 1d3, 20\% | 2 qualsiasi, 10\% |
 | D | 1d6, 10\% | 1d10, 15\% | 1d3, 50\% | 1d6, 15\% | 1d10, 30\% | 1d6, 25\% | 2 qualsiasi, 15\%, + 1 pozione |
 | E | 1d6, 5\% | 1d10, 25\% | 1d4, 25\% | 3d6, 25\% | 1d12, 15\% | 1d6, 10\% | 3 qualsiasi, 25\%, +1 pergamena |
 | F | - | 3d6, 10\% | 1d6, 40\% | 1d4, 15\% | 2d10, 20\% | 1d8, 10\% | 5 qualsiasi, non armi 30\% |
@@ -17046,10 +17093,11 @@ Consultate poi la Tabella Tipologia Oggetto magico (pag. ) per tirare e scoprire
 | I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 qualsiasi 15\% |
 
 {\textwidth}{>{\bfseries}l|>
+	
 
 | **Tesori Individuali, piccole tane, zaini e borse** |  |  |  |  |  |  | |
 | --- | --- | --- | --- | --- | --- | --- |
-| CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Oggetti magici** |
+| CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
 | J | 3d8 | - | - | - | - | - | - |
 | K | - | 3d6 | - | - | - | - | - |
 | L | - | - | - | 2d6 | - | - | - |
@@ -17076,13 +17124,14 @@ Alcune creature particolarmente \emph potrebbero avere più volte lo stesso teso
 
 # Generazione casuale dei Tesori
 
+> {Come ogni amore non corrisposto, anche quello per le cose alla lunga si paga. (Adolfo Bioy Casares)
+
 Il Narratore nella preparazione dell'avventura può posizionare gli oggetti magici che preferisce, che ce ne sia bisogno, ed in puro stile OSR affidarsi ad una generazione casuale.
 
 L'approccio esclusivamente casuale non è sempre suggerito, i risultati potrebbero stravolgere l'avventura se non tutta la campagna!
 Eppure Trovare una spada ammazzadraghi al primo livello siate certi che genererà avventure a non finire per i personaggi!
 
- %box narratore
-La Terra è un mondo a *raro* profilo magico, gli oggetti magici esistono ma sono rari ed ancor di più quelli più potenti. Mentre pozioni naturali e piccoli ninnoli possono essere trovati ovunque è solo cercando attivamente, andando nelle profondità che si possono trovare i tesori migliori.
+>> **Tessssori!**: La Terra è un mondo a *raro* profilo magico, gli oggetti magici esistono ma sono rari ed ancor di più quelli più potenti. Mentre pozioni naturali e piccoli ninnoli possono essere trovati ovunque è solo cercando attivamente, andando nelle profondità che si possono trovare i tesori migliori.
 
 ### Valore delle Gemme e Gioielli
 
@@ -17647,6 +17696,8 @@ questa **bottiglia** di ferro ha un tappo di ottone. Puoi usare due azioni per p
 
 L'incantesimo *identificare* rivela che una creatura si trova all'interno dell'ampolla, ma l'unico modo per determinare che sorta di creatura sia è di aprire l'ampolla. Un'ampolla di ferro appena scoperta potrebbe già contenere una creatura scelta dal Narratore o determinata casualmente.
 
+	
+
 | **d100** | **Contiene** |
 | 1-50 | Vuota |
 | 51-66 | Demone |
@@ -17723,6 +17774,8 @@ mentre indossi questo **amuleto** sei celato alla magia di divinazione. Non puoi
 **Requisiti:** Creare Oggetti Magici 2, Lista Abiurazione
 
 Un'**arma** Anatema eccelle nell'attaccare certe creature. Contro il nemico prescelto, il suo bonus effettivo diventa di +2. L'arma, inoltre, infligge un danno critico automaticamente contro tale nemico. Per determinare casualmente il nemico prescelto dell'arma si usa la tabella seguente:
+
+	
 
 | d\% | Nemico prescelto |
 | 01-05 | Aberrazioni |
@@ -18253,10 +18306,11 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | 11-15 | Sei stordito fino all'inizio del tuo prossimo round, e ritieni che sia accaduto qualcosa di stupefacente. |
 | 16-20 | Lanci l'incantesimo Folata di vento. |
 | 21-25 | Lanci l'incantesimo Individuazione dei pensieri sul bersaglio da te scelto. Se il tuo a bersaglio non è una creatura, subisci invece 1d6 danni. |
-
 | 26-30 | Lanci l'incantesimo Nebbia Nauseante. |
 | 31-33 | Pioggia abbondante precipita in un raggio di 18 metri centrato sul bersaglio. L'area diventa oscurata leggermente. La pioggia continua a cadere fino all'inizio del tuo prossimo round. |
+
 | 34-36 | Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. |
+| --- | --- |
 
 | Tira un d100 per determinare che specie di animale compaia 01-25, un rinoceronte; 26-50, un elefante; 51-100, un ratto.
 
@@ -18275,9 +18329,10 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea.
 
 | 91-95 | Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. |
-
 | 96-97 | La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto. |
+
 | 98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
+| --- | --- |
 
 ## Bacchetta delle Palle di Fuoco
 
@@ -18546,9 +18601,7 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 | 71-80 | Cresce un albero da frutta. Possiede 1d10+20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno potenziato o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono e mantengono la propria magia per 30 giorni. |
 | 81-90 | Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza. |
 | 91-99 | Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. Il suo sarcofago contiene un tesoro a scelta del Narratore. |
-
 | 100 | Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza. |
-| --- | --- |
 
 ## Borsa dell'Annullamento
 
@@ -18709,6 +18762,8 @@ mentre indossi questo **cerchietto**, puoi usare due azioni, portando due dita s
 
 Esistono quattro varianti di questa cinta, corrispondenti ciascuna a una specie di veri giganti. La cinta del gigante di pietra e la cinta del gigante del gelo appaiono diverse, ma hanno lo stesso effetto.
 
+	
+
 | **Tipo di Gigante** | **Forza** | **Rarità** |
 | --- | --- | --- |
 | **Collina** | 5 | Raro |
@@ -18850,6 +18905,8 @@ Ogni faccia ha un effetto diverso. Se al cubo non rimangono più cariche, non su
 Se il tuo movimento fa sì che la barriera entri a contatto con un oggetto solido che non può attraversare il cubo, finché rimane la barriera non potrai avvicinarti all'oggetto.
 
 Il cubo perde cariche quando la barriera viene presa come bersaglio da certi incantesimi o entra a contatto con certi incantesimi o effetti di oggetti magici, come indicato nella tabella seguente.
+
+	
 
 | **Incantesimo o Oggetto** | **Cariche Perse** |
 | --- | --- |
@@ -19166,6 +19223,8 @@ con due azioni, puoi pronunciare la parola di comando della **gemma** e spendere
 
 questa **gemma** contiene una scintilla di energia elementale. Quando usi due azioni per infrangere la gemma, questa evoca un elementale come se tu avessi lanciato l'incantesimo Evoca Elementale, e la magia della gemma svanisce. Il tipo di gemma determina l'elementale evocato dall'incantesimo.
 
+	
+
 | **Gemma** | **Elementale evocato** |
 | --- | --- |
 | Corindone rosso | Elementale del fuoco |
@@ -19352,6 +19411,8 @@ questo **tomo** contiene le informazioni e incantamenti necessari a costruire un
 Per creare un golem, devi trascorrere il tempo sopra indicato, lavorando senza interruzione con il manuale a disposizione e riposando per non più di 8 ore al giorno. Devi anche pagare il costo specificato per acquistare i materiali necessari.
 
 Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. Il golem si anima quando le ceneri del manuale saranno sparse su di esso. Sarà sotto il tuo controllo e comprende e obbedisce gli ordini pronunciati da te.
+
+	
 
 | 3d6 | Golem | Tempo | Costo |
 | 3-4 | Argilla | 30 giorni | 65000 mo |
@@ -20387,6 +20448,8 @@ puoi pronunciare la parola di comando del **tappeto** con due azioni per far flu
 
 Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del tappeto o la determina casualmente.
 
+	
+
 | **d100** | **Taglia** | **Capacità** | **Velocità** |
 | --- | --- | --- | --- |
 | **(cm)** | **(Ing.)** | **di Volo** |
@@ -20503,8 +20566,6 @@ Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 t
 | 52-59 | Fossa (un cubo di 3 metri di spigolo), che puoi piazzare sul terreno entro 3 metri da te. |
 | 60-68 | 4 pozioni di guarigione. |
 | 69-75 | Barca a remi (lunga 4 metri). |
-
-| **d100** | **Effetto** |
 | 76-83 | Pergamena degli incantesimi contenente un incantesimo di livello dal 1° al 3°. |
 | 84-90 | Due mastini. |
 | 91-96 | Finestra (60 x 120 cm, profonda massimo 60 cm), che puoi piazzare su qualsiasi superficie verticale a portata. |
@@ -20879,6 +20940,8 @@ Questi oggetti saranno rari e preziosi, quasi come una dose di antibiotico ancor
 
 # Creare Oggetti Magici
 
+> Creare è vivere due volte. (Albert Camus)
+
 Per Creare Oggetti Magici è necessario avere le Abilità Creazione oggetti magici ed essere capace in una competenza specifica (oreficeria, erboristeria, calligrafia...).
 
 I costi qui elencati sono quelli di produzione, il ricavo si può attestare attorno al 20\%-50\% del prezzo di produzione.
@@ -20887,7 +20950,7 @@ La **DC**, basata sulla competenza indicata, per creare un oggetto è 15 +2*Live
 
 Conoscere l'incantesimo (o averlo a disposizione tramite Pergamena) che si applica all'oggetto è un requisito di ogni oggetto magico che si crea. I giorni di lavoro indicati non possono essere frazionati in meno di 6 ore al giorno dedicate alla creazione.
 
->>> La creazione di oggetti magici può rompere gli equilibri del gioco. Un personaggio con risorse abbondanti e tempo può arrivare a creare oggetti che spezzano gli equilibri dell'avventura. Suggerisco siano gli NPC, i personaggi non giocanti in gestione al Narratore, a creare gli oggetti più meravigliosi. Allo stesso tempo la vendita di oggetti di valore sopra le 2000mo dovrebbe essere il più limitata possibile.
+>>> **Creare oggetti magici**: La creazione di oggetti magici può rompere gli equilibri del gioco. Un personaggio con risorse abbondanti e tempo può arrivare a creare oggetti che spezzano gli equilibri dell'avventura. Suggerisco siano gli NPC, i personaggi non giocanti in gestione al Narratore, a creare gli oggetti più meravigliosi. Allo stesso tempo la vendita di oggetti di valore sopra le 2000mo dovrebbe essere il più limitata possibile.
 
 ### Modificatori al costo degli oggetti magici
 
@@ -21073,7 +21136,7 @@ Quando si determina il prezzo di un oggetto magico inventato bisogna considerare
 
 > Quando un empio maledice l'avversario, maledice se stesso. (Siracide)
 
-Se maledici una persona ci saranno due fosse. (Proverbio giapponese)}
+Se maledici una persona ci saranno due fosse. (Proverbio giapponese)
 
 Gli oggetti maledetti sono oggetti magici dotati di un'influenza potenzialmente negativa sul personaggio.
 
@@ -21084,6 +21147,8 @@ Il Narratore può chiedere una prova di Arcana con una DC pari a 10+giorni impie
 Una maledizione può manifestarsi anche a seguito dalle influenze negative od emozionali estreme che coinvolgono un oggetto.
 
 **Maledizioni Comuni degli Oggetti**
+
+	
 
 | **\%** | **Maledizione** |
 | 01-15 | Inganno |
@@ -21097,7 +21162,7 @@ Gli oggetti maledetti sono \hypertarget{oggettimaledettiid}{**identificati**} co
 
 Se si sa che l'oggetto è maledetto, la natura della maledizione può essere determinata usando la DC standard per identificare l'oggetto.
 
-Una maledizione è sempre un *inconveniente* particolare, che non si usa a caso. Ragionate attentamente sugli oggetti maledetti che farete trovare ai personaggi perché vi chiederanno molte informazioni e dovrete essere pronti.
+>>> **Maledizioni e perché**: Una maledizione è sempre un *inconveniente* particolare, che non si usa a caso. Ragionate attentamente sugli oggetti maledetti che farete trovare ai personaggi perché vi chiederanno molte informazioni e dovrete essere pronti.
 
 Non c'è bisogno che la maledizione sia eccessiva e limitante può essere benissimo ridicola o particolare, fate in modo che sia caratterizzante. Il personaggio non deve sentirsi (tranne se lo volete) condannato in eterno, sfruttate l'occasione per costruire nuove avventure e spirito di gruppo.
 
@@ -21202,7 +21267,7 @@ Gli oggetti che hanno degli inconvenienti hanno solitamente degli effetti positi
 
 A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per tutto il tempo in cui l'oggetto rimane in possesso del personaggio. La DC dei Tiro Salvezza per evitare questi effetti è pari a 10 + DC della maledizione (se non avete stabilito la difficoltà impostate il Tiro Salvezza, solitamente su Volontà, a DC 25)
 
->>> L'elenco è di esempio per poter generare casualmente degli effetti sul possessore dell'oggetto. Prendete spunto e siate creativi!Non fate però che una maledizione renda impossibile giocare il personaggio piuttosto deve essere vissuta come l'occasione per provare, fare, qualcosa di diverso. Non gettate mai un oggetto maledetto a caso nel mucchio dei tesori, pensate sempre cosa potrà accadere e quali conseguenze si genereranno. Un oggetto maledetto richiede sempre un alto livello di attenzione e pianificazione da parte del Narratore
+>>> **Creativi ma non punire**: L'elenco è di esempio per poter generare casualmente degli effetti sul possessore dell'oggetto. Prendete spunto e siate creativi!Non fate però che una maledizione renda impossibile giocare il personaggio piuttosto deve essere vissuta come l'occasione per provare, fare, qualcosa di diverso. Non gettate mai un oggetto maledetto a caso nel mucchio dei tesori, pensate sempre cosa potrà accadere e quali conseguenze si genereranno. Un oggetto maledetto richiede sempre un alto livello di attenzione e pianificazione da parte del Narratore
 ---
 
 **Tabella: Effetti degli oggetti magici maledetti**
@@ -21309,7 +21374,7 @@ Se ferito da un mannaro deve effettuare un Tiro Salvezza come descritto dalla de
 
 # La Terra
 
-Così la Terra è davvero tonda. Però non immaginavo che fosse azzurra. Perché gli uomini che vivono su un pianeta tanto bello non fanno altro che combattere tra loro? (Nadia - Il mistero della pietra azzurra)
+> Così la Terra è davvero tonda. Però non immaginavo che fosse azzurra. Perché gli uomini che vivono su un pianeta tanto bello non fanno altro che combattere tra loro? (Nadia - Il mistero della pietra azzurra)
 
 Il pianeta non ci appartiene, siamo noi ad appartenergli. Noi siamo di passaggio, lui rimane. (Pierre Rabhi)
 
@@ -21459,8 +21524,7 @@ Buona parte delle terre tra Francia e Germania sono tornate ad uno spirito più 
 Le fredde terre del nord Europa si sono isolate dopo che i loro morti sono risorti. Questa volta per volontà delle persone è stato chiesto aiuto a Krondal e Nedraf perché li potessero salvare. Nedraf gli diede le armi e l'esperienza per usarle, Krondal, da vero folle fece tornare gli ancestrali ricordi di un passato guerriero fatto di miti e Dei dimenticati, o meglio ignorati, dai più.
 Così Krondal ha ricreato come suoi servitori Aegir, Alfadur, Hel, Idhunn, Norne per non citare i più noti Thor, Loki, Valchirie...
 
->>> %box narratore
-Usate le mappe geografiche fisiche reali terrestri per aiutarvi con l'ambiente. Cercate online le mappe delle antiche città. Avete a disposizione il più grande setting mai creato, si tratta solo di popolarlo con i miti, leggende, storie, fantasia che già sono intorno a voi.
+>>> **Mappe alternative**: Usate le mappe geografiche fisiche reali terrestri per aiutarvi con l'ambiente. Cercate online le mappe delle antiche città. Avete a disposizione il più grande setting mai creato, si tratta solo di popolarlo con i miti, leggende, storie, fantasia che già sono intorno a voi.
 
 Ogni città ha le sue leggende storiche, scopritele e giocatele insieme!
 
@@ -21478,20 +21542,21 @@ Non tutti i Portali sono pericolosi, molti fungono semplicemente da varchi di tr
 
 Potete inventare mille ed una avventura dietro ai Portali, ognuno è una possibilità di un mondo diverso e di una moltitudine di avventure.
 
- %box narratore
-Dovete intendere i portali come chiave per mille ed una avventura. Ogni portale vi condurrà in un posto diverso, fantastico come voi lo intendete. Volete un avventura in un mondo primitivo, ambientata nella società moderna, in un pianeta chissà dove? Usate i portale per spalancare le porte della vostra immaginazione.
+>>> **I Portali**: Dovete intendere i portali come chiave per mille ed una avventura. Ogni portale vi condurrà in un posto diverso, fantastico come voi lo intendete. Volete un avventura in un mondo primitivo, ambientata nella società moderna, in un pianeta chissà dove? Usate i portale per spalancare le porte della vostra immaginazione.
 
 Gli stessi personaggi potrebbero essere non *terrestri* e cercare un modo per tornare a casa...
 
->>> Usate l'ambientazione che più preferite! Questo mondo è un esempio di un mondo caotico e leggermente anarchico dominato dai continui cambiamenti di umori di divinità capricciose.
+>>> **Ambientazione**: Usate l'ambientazione che più preferite! Questo mondo è un esempio di un mondo caotico e leggermente anarchico dominato dai continui cambiamenti di umori di divinità capricciose.
 Scegliete voi l'ambientazione, usate Greyhawk, Dark Sun, Mystara quello che preferite. Siete voi il Narratore, siete voi il mondo, siete voi a proiettare luce ed oscurità, OBSS vi fornirà gli strumenti per condurre le vostre campagne!
+
+> In principio fu il Caos, poi nacque Gaia dall'ampio petto, sede sicura per sempre di tutti gli immortali. (Teogonia, Esiodo)
 ---
 
 ## Il Calendario
 
 > Mi è capitato spesso di finire su un calendario. Ma mai per una data precisa. (Marilyn Monroe)
 
-Tutto ebbe inizio la tredicesima ora del tredicesimo giorno del tredicesimo mese... Eravamo lì per discutere degli errori di stampa dei calendari acquistati dalla scuola. (I Simpson)} 
+Tutto ebbe inizio la tredicesima ora del tredicesimo giorno del tredicesimo mese... Eravamo lì per discutere degli errori di stampa dei calendari acquistati dalla scuola. (I Simpson)}
 
 Basato sul ciclo lunare presenta 12 mesi da 28 giorni.
 
@@ -21556,7 +21621,7 @@ Quale sia la verità non è dato saperlo.
 
 ## I Cicli Secolari
 
-Vidi poi un angelo che scendeva dal cielo con la chiave dell'Abisso e una gran catena in mano.
+> Vidi poi un angelo che scendeva dal cielo con la chiave dell'Abisso e una gran catena in mano.
 
 Afferrò il dragone, il serpente antico - cioè il diavolo, satana - e lo incatenò per mille anni; lo gettò nell'Abisso, ve lo rinchiuse e ne sigillò la porta sopra di lui, perché non seducesse più le nazioni, fino al compimento dei mille anni. Dopo questi dovrà essere sciolto per un pò di tempo. (Apocalisse 20,1-3, apostolo Giovanni)
 
@@ -21622,7 +21687,7 @@ La forza dell'avversario è nella sicurezza nel descrivere la situazione, in poc
 
 Non riducete tutto a un MMORG dove l'obiettivo è solo uccidere tutto e tutti, ci possono essere sempre tante scelte se ti impegni un pò.
 
->> Affrontare i mostri: {
+>> **Affrontare i mostri**: {
 Lascia che questo vecchio ti dia un paio di consigli giovane avventuriero!
 
 - Non tutti i nemici si sconfiggono con la spada, molte volte serve anche una mazza!
@@ -21778,10 +21843,7 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 
 **Tabella: Equivalenza Armi Magiche**
 
-{lp{0.055\textwidth}p{0.06\textwidth}p{0.07\textwidth
-	
-
-| **Immunità** | **Magia Arma** | **Attacco Nat. (CA)** | **Pugno Vuoto** |
+| **Immunità** | **Magia Arma** | **Attacco Naturale** | **Pugno Vuoto** |
 | --- | --- | --- | --- |
 | +1 | +1 | 3 | 2 |
 | +2 | +2 | 6 | 4 |
@@ -22071,7 +22133,7 @@ Questa parte vuole essere un divertito omaggio a certi tipi di avventure, ma anc
 
 Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura possono essere nell'ordine di 1d4 ore per 4 porzioni.
 
-**Tabella: 1d6-12 Parti Anatomiche dei Mostri**
+**Tabella: 1d4-12 Parti Anatomiche dei Mostri**
 
 | **d4-12** | **Parte** |
 | 11 | Sacco digestivo |
@@ -22112,6 +22174,7 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 | 312 | Tessuto adiposo con riserva di magia |
 | 41 | Ghiandola linfatica ipersviluppata |
 | 42 | Tessuto visivo focalizzato |
+
 | 43 | Sacca di gas multipolare |
 | 44 | Nervatura senso-tattile |
 | 45 | Pelle ad assorbimento energetico |
@@ -22179,7 +22242,7 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 
 # I Mostri
 
->>> Le creature qui presentate vogliono essere un esempio, corposo, degli avversari che i tuoi personaggi potrebbero incontrare. Attenzione, non è detto che siano tutti nemici o per forza che abbiano intenzione negative.
+>>> **Un pò di mostri...**: Le creature qui presentate vogliono essere un esempio, corposo, degli avversari che i tuoi personaggi potrebbero incontrare. Attenzione, non è detto che siano tutti nemici o per forza che abbiano intenzione negative.
 
 Creature più civilizzate avranno una loro condotta etica e morale individuale, anche all'interno di uno stesso gruppo di avversari c'è chi potrebbe essere più nemico o semplicemente indifferente.
 
@@ -22198,6 +22261,8 @@ Amon Goth: è questo il potere?
 Oskar Schindler: L'avevano gli imperatori questo. Un uomo ruba qualcosa, viene portato davanti all'imperatore e si lascia cadere per terra tremante, implora per avere pietà. E' conscio che sta per andarsene. E l'imperatore lo perdona, invece. Quell'uomo, immeritevole, lo lascia libero.
 
 (Schindler's list - La lista di Schindler, Film, 1993)
+
+I mostri sono la poesia della paura. (Stephen King)
 
 ## Aboleth
 - **Taglia/Tipo**: Grande aberrazione, malvagio
@@ -24416,6 +24481,8 @@ Preferiscono infiltrarsi in società complesse per accumulare ricchezza e potere
 
 Alcuni doppelganger amano i giochi politici, mentre altri cambiano continuamente razza, sesso e partner amorosi. Sono noti per le loro capacità di cambiare forma e per evitare la cattura. I più potenti possono assumere anche abilità e ricordi delle creature che impersonano.
 
+> Conosci il tuo nemico e conosci te stesso; in cento battaglie non correrai mai pericolo. L'Arte della Guerra, Sun Tzu
+
 I Draghi sono creature temibili, pericolose, antiche; rappresentano il potere stesso.
 
 Ogni Drago ha pieno accesso a tutti gli incantesimi di una specifica lista di magia a seconda del proprio colore.
@@ -24435,8 +24502,6 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 - Ogni Drago ha un punteggio di Competenza Magica pari alla metà del suo Grado di Sfida
 
 **Tabella: accesso Lista di Magia per Draghi**
-
-	
 
 | **Colore** | **Lista** |
 | --- | --- |
@@ -24463,11 +24528,8 @@ Ogni Drago a seconda dell'età ha uno o più poteri speciale casuali.
 Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è Antico. In caso di poteri ripetuti non ripetere il tiro.
 
 | **3d6** | **Potere del Drago** |
-| --- | --- |
-
-|
-
 | 3 | Ricarica veloce. Il Drago ricarica il soffio con 4-6. |
+
 | 4 | Agilità sorprendente. La Difesa del Drago aumenta di un ulteriore +4. |
 | 5-7 | Signore dei Serpenti. La coda ha un pungiglione velenoso che infligge 2xGS PF di danno da veleno. TS Tempra DC 10+GS per dimezzare. |
 | 8-10 | Benedetto di Tàhil. Il Drago ha migliori Tiri Salvezza. +1d6 ad ogni Tiro Salvezza. |
@@ -33576,7 +33638,7 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 
 *Colpisce:* 9 (2d4 + 4) danni contundenti.
 
->> Il Saurovallo: La leggenda narra che Calicante appena scese sulla Terra vide i *cavalli* e provò un disgusto incredibile per questi orrendi esseri e con il semplice volere li fece esplodere tutti. Non contento pochi attimi dopo tutti gli *equini* fecero la stessa fine.
+>> **Il Saurovallo**: La leggenda narra che Calicante appena scese sulla Terra vide i *cavalli* e provò un disgusto incredibile per questi orrendi esseri e con il semplice volere li fece esplodere tutti. Non contento pochi attimi dopo tutti gli *equini* fecero la stessa fine.
 
 Asini, muli, cavalli, zebre.. solo il cammello ed il dromedario non essendo propriamente equini si salvarono, anche se molti pensano che Calicante semplicemente li stia ignorando...
 
@@ -33962,7 +34024,6 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 - **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 0 m, nuoto 12 m
 - **Sfida**: 1/2 (100 PX)
-\
 
 ***Respirare Acqua.*** Lo squalo può respirare solo sott'acqua.
 
@@ -33979,7 +34040,6 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 - **Tiri Salvez.**: Tempra +10, Riflessi +5, Volontà +5
 - **Movimento**: 0 m, nuoto 15 m
 - **Sfida**: 5 (1800 PX)
-\
 
 ***Frenesia Sanguinaria.*** Lo squalo ha +1d6 ai tiri di attacco
 
@@ -33998,7 +34058,6 @@ in mischia contro qualsiasi creatura che non sia al massimo dei Punti Ferita.
 - **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m, volo 12 m
 - **Sfida**: 1/8 (25 PX)
-\
 
 **Azioni*Risucchio di Sangue.** Attacco con Arma da Mischia*: +4 a colpire, portata 1 m, una creatura.
 
@@ -34013,7 +34072,6 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 - **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 6 m, scavo 1 m
 - **Sfida**: 0(10 PX)
-\
 
 ***Olfatto Affinato.*** Il tasso ha +1d6 alle prove di Consapevolezza basate sull'olfatto.
 
@@ -34028,7 +34086,6 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 - **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 9 m, scavo 3 m
 - **Sfida**: 1/4 (50 PX)
-\
 
 ***Olfatto Affinato.*** Il tasso ha +1d6 alle prove di Consapevolezza basate sull'olfatto.
 
@@ -34049,7 +34106,6 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 - **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 1 (200 PX)
-\
 
 ***Balzo.*** Se la tigre si muove di almeno 6 metri diretta verso una creatura e la colpisce con un attacco di artiglio durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono. Se il bersaglio è prono, la tigre può effettuare un attacco di morso contro di esso come Azione Immediata.
 
@@ -34070,7 +34126,6 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 - **Tiri Salvez.**: Tempra +4, Riflessi +4, Volontà +3
 - **Movimento**: 12 m
 - **Sfida**: 2 (450 PX)
-\
 
 ***Balzo.*** Se la tigre si muove di almeno 6 metri diretta verso una creatura e la colpisce con un attacco di artiglio durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 16 o cadere prono. Se il bersaglio è prono, la tigre può effettuare un attacco di morso contro di esso come Azione Immediata.
 
@@ -34091,7 +34146,6 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 - **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 3 m, volo 15 m
 - **Sfida**: 1/2 (100 PX)
-\
 
 **Azioni*Pungiglione.** Attacco con Arma da Mischia*: +4 a colpire, portata 1 m, una creatura.
 
@@ -34104,7 +34158,6 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 - **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
 - **Movimento**: 15 m
 - **Sfida**: 1/2 (100 PX)
-\
 
 ***Udito e Olfatto Affinato.*** Il worg ha +1d6 nelle prove di Consapevolezza basate su udito o olfatto.
 
@@ -34642,6 +34695,10 @@ Per convertire i mostri del famoso Gioco di Ruolo:
 
 Arrotondate il GS per eccesso nei calcoli.
 
+> Timeo Danaos et dona ferentes (Temo i Greci anche quando portano doni). (Eneide, Virgilio)
+
+Non è morto ciò che può giacere in eterno, e in strani eoni anche la morte può morire. (Il Richiamo di Cthulhu, H.P. Lovecraft)
+
 ---
 
 ## Template e suggerimenti per i Mostri
@@ -34786,38 +34843,6 @@ Il template Oozekin conferisce alla creatura un aspetto *gelatinoso* e fluido
 ---
 
 ## Lista Mostri per Grado di Sfida
-
-**Accelerato**: una creatura Accelerata ottiene un numero di Azioni bonus per round pari al valore di Accelerato. La durata è indicata dopo la *"\"*. Quando è indicata la durata si intente fino alla fine del round di scadenza. Es. Accelerato 1/3r, Accelerato 2/-.
-
-**Aumento Categoria di danno**: quando la regola vi dice di aumentare la taglia o categoria di un dado seguite questo schema.
-
-1d4 -> 1d6 -> 1d8 -> 1d10 (1d12)-> 2d6 -> 2d8 -> 2d10 -> 3d6 -> 3d8 -> 3d10.
-
-**Accecato**: Il personaggio non riesce a vedere nulla. subisce penalità -2 alla maggior parte delle Competenze basate su Forza e Destrezza.
-
-Tutte le prove o le attività basate sulla visione (come ad esempio leggere, o eventuali prove di Consapevolezza basate sulla vista) falliscono automaticamente. Tutti gli avversari vengono considerati dotati di invisibilità nei confronti del personaggio accecato.
-
-I personaggi accecati considerano il terreno sempre come difficile e devono effettuare una prova di Acrobatica con DC 12 per muoversi più veloci della propria velocità dimezzata. Le creature che falliscono questa prova cadono a terra Prone. I personaggi che rimangono per lungo tempo accecati possono abituarsi ad alcune di queste penalità e iniziare a superarne alcune, a discrezione del Narratore.
-
-Chi attacca una creatura per lei invisibile ha un -1d6 al Tiro per Colpire, la creatura invisibile che attacca una creatura che non la vede ha +1d6 al Tiro per Colpire
-
-**Affascinato**: Una creatura affascinata non può attaccare o bersagliare chi l'ha affascinata con attacchi, capacità speciali o effetti magici dannosi.
-
-Qualsiasi potenziale minaccia causata da chi l'ha affascinata, come ad esempio una creatura ostile in avvicinamento, consente alla creatura affascinata un nuovo Tiro Salvezza contro l'effetto del fascino. Qualsiasi minaccia palese, come ad esempio qualcuno che estrae un'arma, lancia un incantesimo o punta un'arma a distanza verso la creatura affascinata, interrompe automaticamente l'effetto.
-
-Un alleato della creatura affascinata può scuoterla per permettergli un nuovo Tiro Salvezza spendendo 2 Azioni.
-
-L'affascinatore ha +1d6 su qualsiasi prova di Competenza per interagire socialmente con la creatura.
-
-L'effetto di Affascinato termina se la creatura diventa morente.
-
-**Affaticato**: Un personaggio affaticato non può correre o Caricare e subisce una penalità -1 a Difesa e Prove (Tiro per Colpire, Competenze, Magia, Tiri Salvezza) e Movimento. Se compie qualsiasi cosa normalmente affaticante aumenta il suo grado di Affaticato e prende penalità anche al movimento ed alle prove di competenza di Base.
-
-Se un personaggio non dorme almeno 8 ore (TS Tempra DC 17) nell'arco di 24 ore o dorme con un armatura media o pesante alla mattina è affaticato.
-
-Dopo 1 ora di completo riposo (o Ristorare Inferiore), un personaggio Affaticato 2 diventa Affaticato.
-
-**Tabella: Livelli Affaticamento**
 
 | **Condizioni** | **Penalità** | **Recupero** |
 | --- | --- | --- |
@@ -34974,6 +34999,8 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 **Vulnerabilità**: funziona al contrario della Resistenza. Il danno viene raddoppiato prima dell'eventuale Tiro Salvezza.
 
+> Facilis descensus Averno (Facile è la discesa agli inferi). Eneide, Virgilio
+
 ---
 
 ## Tabelle per tiri casuali
@@ -35009,6 +35036,8 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 
 ### Sillabe Iniziali Maschili
 
+	
+
 | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
 | 3 | Zeph | 11 | Mer |
 | 4 | Xar | 12 | Kor |
@@ -35020,6 +35049,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 | 10 | Hal | 18 | Zarak |
 ### Sillabe Centrali (2d6)
 
+	
 | **2d6** | **Sillaba** | **2d6** | **Sillaba** |
 | 2 | - (salta) | 8 | ren |
 | 3 | - (salta) | 9 | el |
@@ -35029,6 +35059,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 | 7 | ar |  | |
 ### Sillabe Finali Maschili (3d6)
 
+	
 | **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
 | 3 | grim | 9 | dan | 15 | reth |
 | 4 | thus | 10 | ion | 16 | thor |
@@ -35041,6 +35072,8 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 
 ### Sillabe Iniziali Femminili (3d6)
 
+	
+
 | **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
 | 3 | Zara | 9 | Gwen | 15 | Ora |
 | 4 | Xyla | 10 | Hel | 16 | Syl |
@@ -35050,6 +35083,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 | 8 | Ela | 14 | Nym |  | |
 ### Sillabe Finali Femminili (3d6)
 
+	
 | **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
 | 3 | neth | 9 | ana | 15 | riel |
 | 4 | essa | 10 | ara | 16 | tha |
@@ -35074,7 +35108,6 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 | 8 | Colle | 15 | Sole |  | |
 ### Suffissi per Luoghi (2d10)
 
-	
 | **2d10** | **Suffisso** | **2d10** | **Suffisso** | **2d10** | **Suffisso** |
 | 2 | abisso | 9 | lande | 16 | rocca |
 | 3 | borgo | 10 | marca | 17 | sponda |
@@ -35088,6 +35121,8 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 
 ### Nomi Elfici (2d12)
 **Tira 2d12 per iniziali e finali elfiche:**
+
+	
 
 | **2d12** | **Iniziale** | **2d12** | **Finale** |
 | 2 | Ael | 2 | adir |
@@ -35104,6 +35139,8 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 ### Nomi Nanici (2d12)
 
 **Tira 2d12 per iniziali e finali naniche:**
+
+	
 
 | **2d12** | **Iniziale** | **2d12** | **Finale** |
 | 2 | Bal | 2 | dan |
@@ -35180,6 +35217,9 @@ Le immagine presenti nel manuali sono senza licenza o in pubblico dominio. Le im
 
 Prima di qualsiasi utilizzo di OBSS o di sue parti siete pregati di contattarmi.
 
+\hfill
+
+\hfill
 ---
 
 # Le mie Opzioni

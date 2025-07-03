@@ -1,6 +1,6 @@
 \section{Mostruario di OBSS}\index{Mostruario}
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{Chi lotta con i mostri deve guardarsi di non diventare, così facendo, un mostro. E se tu scruterai a lungo in un abisso, anche l'abisso scruterà dentro di te. (Friedrich Nietzsche)
+\begin{enfasi}{Chi lotta con i mostri deve guardarsi di non diventare, così facendo, un mostro. E se tu scruterai a lungo in un abisso, anche l'abisso scruterà dentro di te. (Friedrich Nietzsche)
 
 \medskip
 
@@ -14,7 +14,7 @@ La tragedia dei mostri è di essere troppo grandi e potenti per essere accettati
 
 Per aspera ad astra! ("attraverso le asperità sino alle stelle")
 
-}\end{enfasi}\end{changemargin}\medskip
+}\end{enfasi}
 
 \begin{multicols}{2}
 
@@ -43,7 +43,7 @@ La forza dell'avversario è nella sicurezza nel descrivere la situazione, in poc
 
 Non riducete tutto a un MMORG dove l'obiettivo è solo uccidere tutto e tutti, ci possono essere sempre tante scelte se ti impegni un pò.
 
-\begin{changemargin}{0.3cm}{0.3cm}\begin{tcolorbox}[title = Affrontare i mostri]
+\begin{giocatore}[Affrontare i mostri]
 {
 Lascia che questo vecchio ti dia un paio di consigli giovane avventuriero!
 
@@ -59,7 +59,7 @@ Lascia che questo vecchio ti dia un paio di consigli giovane avventuriero!
 
 - Se devi uccidere fallo con cattiveria e velocità. Non perdere tempo e ottimizza i colpi, risparmia le energie e preparati immediatamente ad un altro scontro.
 
-}\end{tcolorbox}\end{changemargin}
+}\end{giocatore}
 
 \subsection{Modificare le Creature}
 
@@ -79,9 +79,10 @@ Se non indicata la portata di una creatura dipende dalla taglia e dall'arma usat
 
 \medskip
 
-\begin{tabularx}{0.95\textwidth}{lllll}
-\toprule
+\noindent\begin{tabularx}{0.95\textwidth}{lllll}
+	\toprule
 \textbf{Taglia}& \textbf{Dimensione} & \textbf{Esempio}&\textbf{Quadretti}&\textbf{Portata}\\
+\toprule
 Minuscola & 25 x 25 cm&Gatto, spiritello& 1/4&0m\\
 Piccola & 0,5 x 0,5 m & Goblin, cane, Gnomo&1/2&1m\\
 Media & 1 x 1 m & Orco, Umano, Elfo, Nano, Nibali &1&1m\\
@@ -239,9 +240,10 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 
 \medskip
 
-\begin{tabular}{lp{0.055\textwidth}p{0.06\textwidth}p{0.07\textwidth}}
+\noindent\begin{tabularx}{\linewidth}{lXXX}
+		\toprule
+	\textbf{Immunità} & \textbf{Magia Arma} & \textbf{Attacco Naturale}& \textbf{Pugno Vuoto}\\
 	\toprule
-	\textbf{Immunità} & \textbf{Magia Arma} & \textbf{Attacco Nat. (CA)}& \textbf{Pugno Vuoto}\\
 	+1 & +1 & 3& 2\\
 	+2 & +2 & 6& 4\\
 	Ferro Freddo & +1 & 4& 2\\
@@ -250,7 +252,7 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 	+3 & +3 & 12& 8\\
 	+4 & +4 & 16& 12\\
 	+5 & +5 & - & 16
-\end{tabular}
+\end{tabularx}
 
 \subsection{Vulnerabilità, Resistenze e Immunità}\index{Equivalenze armi}\index{Pugni magici}\label{vulnerabilitaresistenze}
 Alcune creature possiedono vulnerabilità, resistenze o immunità ad un certo tipo di danno. Creature particolari sono addirittura resistenti o immuni agli attacchi non magici (un attacco magico è un attacco sferrato tramite un incantesimo, un oggetto magico o arma, o un'altra fonte di magia).
@@ -398,7 +400,7 @@ Il Tiro per Colpire del mostro \textbf{non ha applica danno critico ne esplosion
 
 \emph{\textbf{Danni.}} Se un mostro impugna armi manufatte, infligge danni appropriati all'arma. I mostri più grossi di solito impugnano armi di dimensioni superiori che infliggono danni extra quando colpiscono. Se usano questo tipo di armi il danno è già segnato, altrimenti se raccolgono o usano un arma non prevista raddoppiare i dadi dell'arma se la creatura è Grande, triplicarli se Enorme e quadruplicarli se Mastodontica qualora usino armi della loro taglia.
 
-%\begin{changemargin}{0.3cm}{0.3cm}\begin{narratore}
+%\begin{narratore}
 %Una creatura che abbia almeno Grado di Sfida 6 a discrezione del Narratore può sferrare un attacco di Opportunità al costo di una Reazione (vedi \hyperlink{opportunista}{Opportunista} pag. \pageref{opportunista}).
 
 %\medskip
@@ -492,9 +494,10 @@ Questa tabella indica per GS i Punti Esperienza relativi.
 
 \medskip
 
-\begin{tabularx}{0.42\textwidth}{ll|ll|ll}
-
+\noindent\begin{tabularx}{0.42\textwidth}{ll|ll|ll}
+	\toprule
 \textbf{GS} & \textbf{PX} &\textbf{GS} & \textbf{PX} &\textbf{GS} & \textbf{PX}\\
+\toprule
 0& 10 &9& 5000& 21&33000\\
 1/8& 25 &10& 5900&22&41000\\
 1/4& 50 &11& 7200&23&50000\\
@@ -559,9 +562,9 @@ Con questo sistema ogni 1000 Punti Esperienza si passa di livello. Valgono tutte
 
 \textbf{Tabella: Punti Esperienza per Grado di Sfida}\index[Tabelle]{Tabella Punti Esperienza per Grado di Sfida}
 
-\begin{tabular}{ll|ll}
+\noindent\begin{tabular}{ll|ll}
 \textbf{Grado di Sfida} & \textbf{PX}&\textbf{Grado di Sfida} & \textbf{PX}\\
-\toprule
+\hline
 Facile& 20& Media& 30\\
 Alta& 50& Straordinaria& 80\\
 Mortale& 120& Epica& 160
@@ -616,6 +619,7 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 \item \textbf{Assegnare un valore Percentuale ai Mostri:} Utilizzare la tabella seguente per determinare il \emph{peso} (percentuale) di ciascun Avversario (\emph{Avv.}) in base alla differenza tra il suo Grado di Sfida (GS) e all'APL del gruppo (\emph{Rapp.})
 
 \noindent\begin{tabularx}{0.95\linewidth}{c|c|c|c}
+	\toprule
 \textbf{Rapp.} & \textbf{\% per Avv.} &\textbf{Rapp.} & \textbf{\% per Avv.}\\
 \toprule
 -6 & 3\% &  0 & 70\% \\
@@ -644,7 +648,7 @@ Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS p
 
 %\vfill
 
-%\begin{changemargin}{0.3cm}{0.3cm}\begin{enfasi}{
+%\begin{enfasi}{
 %Io sono il mostro che gli uomini che respirano bramerebbero uccidere. Io sono Dracula. (Dracula, Bram Stoker)}\end{enfasi}\end{changemargin}
 
 \pagebreak
@@ -657,9 +661,10 @@ Questa parte vuole essere un divertito omaggio a certi tipi di avventure, ma anc
 
 Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura possono essere nell'ordine di 1d4 ore per 4 porzioni.
 
-\textbf{Tabella: 1d6-12 Parti Anatomiche dei Mostri}\index[Tabelle]{Tabella 1d6-12 Parti Anatomiche dei Mostri}
+\textbf{Tabella: 1d4-12 Parti Anatomiche dei Mostri}\index[Tabelle]{Tabella 1d6-12 Parti Anatomiche dei Mostri}
 
 \noindent\begin{tabularx}{0.50\textwidth}{lX}
+	\toprule
 	\textbf{d4-12}&\textbf{Parte}\\
 	\toprule
 	11 & Sacco digestivo \\
@@ -674,7 +679,6 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 	110 & Sangue lattiginoso reattivo \\
 	111 & Pelle dura infusa di minerali \\
 	112 & Tendine robusto con fibre concentriche \\
-
 	21 & Osso cavo \\
 	22 & Ghiandola sudoripara tossica \\
 	23 & Uncino osseo bifocale \\
@@ -687,7 +691,6 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 	210 & Muscolo a potenziamento magico \\
 	211 & Nervi ottici ipersensibili \\
 	212 & Polpastrelli succosi\\
-
 	31 & Nasonte con setole sensoriali \\
 	32 & Membrana retrattile di volo \\
 	33 & Ghiandola di adrenalina magica \\
@@ -700,9 +703,10 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 	310 & Ciste magica piena \\
 	311 & Sensi alternativi \\
 	312 & Tessuto adiposo con riserva di magia \\
-
 	41 & Ghiandola linfatica ipersviluppata \\
 	42 & Tessuto visivo focalizzato \\
+\end{tabularx}
+\noindent\begin{tabularx}{0.50\textwidth}{lX}
 	43 & Sacca di gas multipolare \\
 	44 & Nervatura senso-tattile \\
 	45 & Pelle ad assorbimento energetico \\
@@ -713,12 +717,12 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 	410 & Placche auricolari addestrate \\
 	411 & Articolazione in osso flessibile \\
 	412 & Polmone secondario con vesciche d’aria \\
-
 \end{tabularx}
 
 \subsection*{d6-8 Effetti Magici da Ingestione o Preparazione}
 
 \noindent\begin{tabularx}{0.50\textwidth}{lX}
+	\toprule
 	\textbf{d6-8} & \textbf{Effetti}\\
 	\toprule
 11 & Visione notturna per 1d6 ore \\

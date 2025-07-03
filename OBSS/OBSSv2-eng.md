@@ -6,7 +6,7 @@ Dedicated to the only Woman I've ever loved, the one who accompanies me in my dr
 
 Never give up on your desires, persevere until you make them real.
 
->> 
+> Do not fear the unknown, face it with respect.
 ---
 
 **Playtesting**: Federica Angeli, Simona Bissi, Fabrizio Bonetti, Francesco Converso, Carlo Dall'Ara, Lucia Dolcini, Michele Faedi, Dario Galassi, Micaela Gramellini, Stefano Mannino, Samuele Mazzotti, Emanuele Pezzi, Leonardo Pezzi, Gian Luca Fava, Nicola Ricottone, Marco Valmori, Edoardo Zanzani, Isotta Zanzani, SicuramenteNonMirko,
@@ -14,13 +14,11 @@ Never give up on your desires, persevere until you make them real.
 **Terms of use**: OBSS, Old Bell School System, is a registered trademark of Andres Zanzani (azanzani@gmail.com), licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). See details in the License chapter.
 ---
 
->> "May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
+> "May you make all your Saving Throws!" Frank Mentzer, Spring 1985. Master Player's Book
 
 ---
 
->> 
-The fact that men learn little from history is the most important lesson that history teaches us. (Aldous Huxley)
-: 
+> The fact that men learn little from history is the most important lesson that history teaches us. (Aldous Huxley)
 
 # The story so far...
 
@@ -70,7 +68,7 @@ Just over a hundred years have passed since the second coming, yet that has been
 
 Many of the darker Patrons have opened portals to realms of nightmare if not demonic, others have drawn from local folklore to amuse themselves with our suffering and death. As deities, the Patrons walk the Earth with the sole purpose of having more people worship them, follow their teachings, and bear their Traits.
 
->> You can discover more about a person in an hour of play than in a year of conversation. (Plato): 
+> You can discover more about a person in an hour of play than in a year of conversation. (Plato)
 
 ## Introduction
 
@@ -99,7 +97,7 @@ Now that you are ready, it's time to embrace your destiny and write your legend.
 
 Andres Zanzani
 
->> D | D has in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
+> D | D has in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
 OBSS wants to continue in the path of an inclusive and free game. Each group is free to approach controversial topics as they see fit, but always with respect for every player and sensitivity. Don't let OBSS be a cause for quarrel but for unity and fraternal spirit, a game that unites and never divides. (Andres Zanzani)
 
 ---
@@ -205,9 +203,9 @@ In the Manual, you will find different types of boxes, each has a precise meanin
 
 > Example of a box containing a quotation or motivational phrase
 
->> Information for the player: Box containing indications and clarifications for the Player.
+>> **Information for the Player**: Box containing indications and clarifications for the Player.
 
->>> Box containing indications and suggestions for the Narrator
+>>> **Information for the Narrator**: Box containing indications and suggestions for the Narrator
 ---
 
 # Races
@@ -525,15 +523,19 @@ The Sulian does not perform Magic Checks nor can they be considered Distracted w
 
 - *Elemental Resistance*: through this power, the Sulian acquires Resistance to the chosen element.
 
->> Note on Races: No description of a race can ever constrain or subjugate a character. Each player is free to create a character of their preferred race (granted by the Narrator) and describe it, frame it, feel it, and bring it to life as they please.
+>> **Note on Races**: No description of a race can ever constrain or subjugate a character. Each player is free to create a character of their preferred race (granted by the Narrator) and describe it, frame it, feel it, and bring it to life as they please.
 
 Do not limit yourselves to the descriptions proposed here; they are meant to be just starting points. Don't feel restricted in your choices because the race description says this or that.
 Create the most beautiful and complete characters possible. Each character is alive and is a person, and as such, will always be different from one another, each fantastic in their own way regardless of any race or prejudice.
 
->> Note on Character Sex: In case you were so obtuse, I reiterate that there is no difference in ability or characteristics based on sex. Every player is invited to create a character of the gender they prefer.
+>> **Note on Character Sex**: In case you were so obtuse, I reiterate that there is no difference in ability or characteristics based on sex. Every player is invited to create a character of the gender they prefer.
+
+> Don't forget no one else sees the world the way you do, so no one else can tell the stories that you have to tell. (Ursula K. Le Guin)
 ---
 
 # Special Characteristics
+
+> It's not enough to have eyes to see (anonymous)
 
 Every creature is special and unique, yet there are beings even more unique and special for their characteristics. These are the peculiarities of some of them.
 
@@ -749,7 +751,7 @@ The sum of the dice rolled for the Ability Scores is compared with this table to
 | 6-7-8 | -1 | 18 (or more) | +3 |
 | 9-10-11 | +0 |  | **Remember to apply racial modifiers!** |
 
->> Let's Roll Ability Scores for Tups: **First set**: \st,1,4,3 total 8. Strength is -1
+>> **Let's Roll Ability Scores for Tups**: **First set**: \st,1,4,3 total 8. Strength is -1
 
 **Second**: 5,6,6 total 17. Dexterity is +2
 
@@ -773,9 +775,12 @@ To increase the Ability Score beyond 4, magic items or spells are necessary. The
 
 The increase in Characteristics immediately applies the modifier to Skill Checks, Saving Throws, Attack Rolls, Initiative, and Magic. The increase in intelligence affects the subsequent level in terms of the increase in acquired Skills.
 
->>> Players will still complain about the Ability Scores rolled, it's normal, especially less experienced players. Try to make them understand that they shouldn't limit themselves to looking at the Ability Scores but see the overall picture of the character. Suggest Feats that can help them compensate for the Ability Score values.
+>>> **Low Characteristics**: Players will still complain about the Ability Scores rolled, it's normal, especially less experienced players. Try to make them understand that they shouldn't limit themselves to looking at the Ability Scores but see the overall picture of the character. Suggest Feats that can help them compensate for the Ability Score values.
 
->> The Character Sucks! - Low Ability Scores: Having low Ability Scores is not the death of the character! Rather, try to play so that it's not necessary to roll dice or make checks! Strive to be witty, intuitive, proactive, clever... in short, everything that can help you solve the situation without necessarily having to roll dice. In OBSS, the Narrator rewards players who describe and excel in what the character does!
+>> **The Character Sucks!**: Having low Ability Scores is not the death of the character! Rather, try to play so that it's not necessary to roll dice or make checks! Strive to be witty, intuitive, proactive, clever... in short, everything that can help you solve the situation without necessarily having to roll dice. In OBSS, the Narrator rewards players who describe and excel in what the character does!
+
+> It is our choices that show who we truly are, far more than our abilities. Albus Dumbledore
+
 ---
 
 # Hit Points
@@ -814,15 +819,14 @@ Each character has a number of Fate Points equal to (20 - Level)/5, rounded to t
 You recover one Fate Point each time you roll at least three 1s in a check.
 
 It doesn't cost Actions to use a Fate Point and can be used to:
-
-- add 1d6 to a Saving Throw, Attack Roll, Skill Check, and Magic Check. To be declared before rolling the dice. The added die can explode according to the Golden Rules. 1 or more Fate Points
-- reroll 1d6 in the above checks. 2 Fate Points
-- negate a Critical Weapon Hit suffered. 1 Fate Point
-- using 2 Fate Points available, it's possible to reroll a check, accepting only the new result obtained.
-- using a Fate Point, you can improve a failed check by one degree (Critical Failure -> Failure)
-- using a Fate Point, you can make a target reroll a Saving Throw.
-- using all available Fate Points, you can return to 0 Hit Points.
-- decrease by 3 the damage taken from an attack. 1 Fate Point.
+- [•] or more, add 1d6 to a Saving Throw, Attack Roll, Skill Check, and Magic Check. To be declared before rolling the dice. The added die can explode according to the Golden Rules
+- [••] reroll 1d6 in the above checks
+- [•] negate a Critical Weapon Hit suffered
+- [••] reroll a check, accepting only the new result obtained
+- [•] you can improve a failed check by one degree (Critical Failure -> Failure)
+- [•] you can make a target reroll a Saving Throw
+- [•s] using all available Fate Points, you can return to 0 Hit Points.
+- [•] or more, decrease by 3 the damage taken from an attack. 1 Fate Point.
 
 ## Optional - Chaos Points
 
@@ -850,7 +854,7 @@ A Trait is a detail that helps to better frame the character, outlines the main 
 
 **Each player chooses 5 Traits for their character at character creation.** These will suggest the character's actions and choices.
 
->> Choosing Traits: Traits are not the character, they don't block or fix it eternal in time. A character is always constantly evolving and so is its character, morals, behavior, and desires. Don't be rigid but use Traits to give you suggestions from which to draw inspiration.
+>> **Choosing Traits**: Traits are not the character, they don't block or fix it eternal in time. A character is always constantly evolving and so is its character, morals, behavior, and desires. Don't be rigid but use Traits to give you suggestions from which to draw inspiration.
 
 Traits have no positive or negative connotation, they only serve to frame the character and understand which Patron is more interested in the character. They don't want to define whether you are good or bad, everyone has their own morals regardless of the Traits possessed.
 
@@ -1154,10 +1158,10 @@ Some Patrons naturally embody or resonate with specific archetypes more strongly
 | Orlaith | The Threshold Guardian, The Ruler, The Hero |
 | Rezh | The Tyrant, The Shadow, The Shapeshifter |
 | Shayalia | The Shadow, The Lover, The Shapeshifter |
-
 | Sixiser | The Hermit, The Sage, The Shadow |
-| --- | --- |
+
 | Sumkjr | The Hero, The Ally, The Mentor, The Martyr |
+| --- | --- |
 | Tàhil | The Shadow, The Tyrant, The Outlaw |
 | Tazher | The Shadow, The Outlaw, The Shapeshifter |
 | Thaft | The Everyman, The Ally, The Caregiver |
@@ -1180,10 +1184,9 @@ Some Patrons naturally embody or resonate with specific archetypes more strongly
 - Use Patron interventions to highlight or challenge a character's archetypal nature
 - Design campaign arcs that follow classic archetypal cycles
 
-This archetypal system provides another layer of depth to character creation and development, bridging psychological theory with the game's existing systems of Traits and Patrons. By understanding these archetypal patterns, players and Narrator can create more coherent, psychologically consistent characters and stories.
+>>> **Narratore**: This archetypal system provides another layer of depth to character creation and development, bridging psychological theory with the game's existing systems of Traits and Patrons. By understanding these archetypal patterns, players and Narrator can create more coherent, psychologically consistent characters and stories.
 
 **Rather than restricting creativity, these archetypes serve as useful frameworks and guidelines that can be embraced, subverted, or transformed throughout a character's journey**. The integration of Traits and Patron affinities with archetypal patterns creates a rich tapestry of possibilities for character development and storytelling.
-
 ---
 
 # Skills
@@ -1206,8 +1209,9 @@ In the character sheet, the initial Profession and acquired skills should be mar
 
 **Table: List of Professions and related Skills**
 
-| {\textwidth}{|>{\raggedright}l|c|c|c|c|} |
-| --- | --- | --- | --- | --- | --- | --- |
+| {\textwidth}{>{\raggedright}l|c|c|c|c} |
+| --- | --- | --- | --- | --- |
+		
 | **Profession** | **1pt** | **2pts** | **2pts** | **3pts** |
 | **Acolyte** | Occult | History/Geography | Arcana | Religion |
 | **Alchemist** | Appraise | Nature | Herbalism | Arcana |
@@ -1262,9 +1266,11 @@ The character acquires a Skill at score 1 for each point of Intelligence greater
 
 The player **increases by 1 the score of an Ability Score that connects to the Profession or background** up to the maximum value of 4. It could be Intelligence for an Apprentice wizard, but if they bodybuuild as a hobby, it could also be Strength.
 
->> Profession ???: Don't underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, track, recognize herbs or diseases makes the character an expert, creates a profession. You shouldn't define the character only based on the Feats they have but based on what and how well they can do it. A low-level character but expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
+>> **Profession ???**: Don't underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, track, recognize herbs or diseases makes the character an expert, creates a profession. You shouldn't define the character only based on the Feats they have but based on what and how well they can do it. A low-level character but expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
 
 **Table: List of Skills and Related Ability Score for Use**
+
+	
 
 | **Strength** | **Dexterity** | **Intelligence** | **Wisdom** | **Charisma** |
 | --- | --- | --- | --- | --- |
@@ -1445,7 +1451,7 @@ Using **Armor without adequate proficiency** prevents the use of the Dexterity v
 
 Using a **Shield without adequate proficiency** worsens the Attack Roll by 1, and the shield confers a maximum Defense bonus of 1.
 
->> To specialize or not in a weapon: The advantages of specializing in a Weapon List are concrete and tangible but they come with the limitation of not knowing how to use other weapons well.
+>> **To specialize or not in a weapon**: The advantages of specializing in a Weapon List are concrete and tangible but they come with the limitation of not knowing how to use other weapons well.
 
 Consider the type of adventure, whether you will always have access to or can easily obtain your *preferred* weapons.
 
@@ -1475,7 +1481,7 @@ The Narrator may grant, at the player's request, the ability to use the Active P
 
 Each point attributed to Base Proficiencies or Weapon or Magic Proficiency allows for a +1 in the related check (Checks, Attack Roll, Magic Proficiency)
 
->> Tups reaches 4th level!: Tups has reached 4th level! Here's how he distributed his Active Proficiency points.
+>> **Tups reaches 4th level!**: Tups has reached 4th level! Here's how he distributed his Active Proficiency points.
 
 **1st level**: +1 Weapon Proficiency, Feat: Armor of the Devout (+2 Will, +1 Reflex, **Constitution**), The Patron is my Weapon (+1 Reflex, +1 Will, **Constitution**), Instinctive Knowledge (+2 Will, +1 Fortitude, **Wisdom**)
 
@@ -1486,6 +1492,9 @@ Each point attributed to Base Proficiencies or Weapon or Magic Proficiency allow
 **4th level**: +1 Weapon Proficiency, Feat: Cautious Spellcaster (+2 Reflex, +1 Fortitude, **Intelligence**)
 
 ***Total***: +2 WP, +2 MP, +4 Reflex Saving Throw, +6 Fortitude Saving Throw, +6 Will Saving Throw
+
+> Do you have any idea what a great power you hold in your hands? (Morla, Neverending Story)
+
 ---
 
 # Building the Character
@@ -1567,7 +1576,7 @@ You have the advantage that in OBSS classes don't exist, the character grows, ev
 
 Finally, remember the Law of the Prize. This world is fierce, often evil, and even more so will want to kill you, yet for those who survive there is the Law of the Prize, a law that not even the Patrons can violate. The Law is rather simple in its basic concept *To those who survive go the treasures and glory*.
 
-***Dysfunctional characters***: the Narrator may grant, based on the type of campaign, that if the created character has all Ability Score values at 0 or less, it can be created again.
+>>> **Narratore**: ***Dysfunctional characters***: the Narrator may grant, based on the type of campaign, that if the created character has all Ability Score values at 0 or less, it can be created again.
 
 ## Leveling Up
 
@@ -1596,7 +1605,7 @@ As players, you have the opportunity to prefer a specialized approach, that is, 
 
 A suggestion is also to use Feats, particularly Expert, which gives you a +2 bonus to Proficiency checks.
 
-The **perceived** power level of characters in OBSS is lower than that of other RPGs. The character's weakness is only a perception, and in fact, you will soon realize the true power of the character. Play as a group and you will survive because remember that this is a bad, spiteful, and deadly world with the **selfish**.
+> The **perceived** power level of characters in OBSS is lower than that of other RPGs. The character's weakness is only a perception, and in fact, you will soon realize the true power of the character. Play as a group and you will survive because remember that this is a bad, spiteful, and deadly world with the **selfish**.
 
 ## Tips for having fun and surviving in OBSS adventures
 
@@ -1606,7 +1615,7 @@ The **perceived** power level of characters in OBSS is lower than that of other 
 
 - Since when do heroes need plans? (Final Fantasy XIII)
 
-I love it when a plan comes together! (Colonel John *Hannibal* Smith, A-Team)}
+I love it when a plan comes together! (Colonel John *Hannibal* Smith, A-Team)
 
 - Every combat is potentially lethal. Decide with reason and approach it with care. Learn to run away, don't be afraid to survive.
 - Not everything is on the character sheet. A character's sheet is its perimeter but does not define what it can or cannot do. Rack your brains and be creative, alternative, curious but not suicidal or reckless.
@@ -1640,7 +1649,7 @@ Deciphering an ancient writing may be a walk in the park for an expert linguist,
 
 And don't be afraid if the characters fail the checks, it will make the adventure more interesting and allow the Narrator to introduce facts, clues, and new adventures.
 
-Avoid asking for a check when players declare **how** they perform the check, how and where they search, what dialogue they set up to intimidate the target... Carefully evaluate how the player describes what they do because this is already the check. It's not just to speed up the game, it serves to stimulate players to think completely and to immerse themselves in the character and the environment.
+>>> **Now alwayes Check**: Avoid asking for a check when players declare **how** they perform the check, how and where they search, what dialogue they set up to intimidate the target... Carefully evaluate how the player describes what they do because this is already the check. It's not just to speed up the game, it serves to stimulate players to think completely and to immerse themselves in the character and the environment.
 
 It will make the game more dynamic and all players will participate in the situation and collaborate by declaring what and how they act. Always use common sense and save dice rolls! Rolling a die means creating the possibility of failure!
 
@@ -1681,7 +1690,7 @@ Unless otherwise specified, for all proficiency checks (Base, Active) three basi
 
 Use the **Golden Rules** to your advantage! Dare, try, risk when the situation allows no other solutions!
 
->> There's not just the character sheet!: Don't necessarily look for the solution on the sheet. Use your ability to imagine, to solve, to intuit to get out of and resolve situations. The sheet represents only a small part of what your character can do.
+>> **There's not just the character sheet!**: Don't necessarily look for the solution on the sheet. Use your ability to imagine, to solve, to intuit to get out of and resolve situations. The sheet represents only a small part of what your character can do.
 
 ## Succeeding or Failing the Test
 
@@ -1689,6 +1698,8 @@ The check is passed when rolling 3d6 and adding the relevant Skill and Character
 If the result is lower than the difficulty, the test is failed.
 
 A test can be repeated as long as the conditions that allow the test to be repeated do not change.
+
+>>> **Repeating check**: If the check can be repeated until eventual success without problems or interruptions, then don't have the check made, describe the attempts, the difficulties encountered and declare success.
 
 ### Critical Success - Critical Failure
 
@@ -1700,8 +1711,6 @@ Conversely, if the test fails by at least 8 points, the Narrator could describe 
 For every 8 points above or below the established difficulty, one Critical Success or Critical Failure is counted. When the manual speaks of 2 Critical Successes, it means passing the test by at least 16 points.
 At the Narrator's discretion, a critically failed test cannot be repeated by the same character.
 
->>> If the check can be repeated until eventual success without problems or interruptions, then don't have the check made, describe the attempts, the difficulties encountered and declare success.
-
 Consider how competent a character is in order to avoid any check with a foregone conclusion.
 
 ## Awareness
@@ -1710,7 +1719,7 @@ Awareness is one of those proficiencies that comes into play very often.
 
 Make it so that the characters' questions and reasoning reveal the clues; an Awareness check can be made whenever there is something to search for that is not obvious, something that must be searched for otherwise it is not immediately perceptible or intuitable, something that the players want to find and that is there but they are not asking the right question.
 
-Don't let checks govern your game. **Let the players play**, make them act, make them participate and based on what they say determine if the check is passed or not.
+>>> **Play not check**: Don't let checks govern your game. **Let the players play**, make them act, make them participate and based on what they say determine if the check is passed or not.
 
 If they tell you *I convince the guard to let us pass* have them make an Intimidate (or Diplomacy) check, but if they engage in a convincing dialogue you can consider that the check has been made with a positive outcome (or negative if they haven't been able to argue!) Reward the HOW more than the WHAT.
 
@@ -1775,7 +1784,9 @@ The player may request to make the check even if the result is certain.
 
 **Table: Advantages and Disadvantages**:
 
-| **Advantage / Disadvantage** | **Checks** | |
+	
+
+| **Advantage / Disadvant.** | **Checks** | |
 | --- | --- |
 | \cmidrule(lr) | **Dynamic** | **Fixed** |
 | Light bonus | +1 | +1 |
@@ -1787,7 +1798,7 @@ The player may request to make the check even if the result is certain.
 | Strong disadvantage | -1d6 | -4 |
 | Very strong disadvantage | -2d6 | -8 |
 
-Bonuses and penalties in the 3d6 roll have more *effect* than in the check made with the d20. Try to stay within $\pm2$ and only in particular situations of effective and strong advantage or disadvantage apply greater bonuses or penalties.
+>>> **Weight of dice..**: Bonuses and penalties in the 3d6 roll have more *effect* than in the check made with the d20. Try to stay within $\pm2$ and only in particular situations of effective and strong advantage or disadvantage apply greater bonuses or penalties.
 
 ### Time Factor
 
@@ -1799,7 +1810,7 @@ Bonuses and penalties in the 3d6 roll have more *effect* than in the check made 
 
 If you want to take these values, ask the Narrator, they will tell you if based on the situation, urgency, dangerousness of what surrounds you, you can take the score. Starting to pick a door lock in a dungeon asking for 10 requires extreme cool-headedness and recklessness. Taking 10/14/18 should not be granted for knowledge checks.
 
-I recommend everyone to read the excellent article by Lorenzo Bertini https://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20 for a critical and intelligent examination of success and failure in checks.
+>>> **Good lecture**: I recommend everyone to read the excellent article by Lorenzo Bertini \hrefhttps://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20Elogio del 10 e del 20 for a critical and intelligent examination of success and failure in checks.
 
 ### Helping Another in Checks
 
@@ -1997,7 +2008,7 @@ To the **Base Difficulty of 15**, the following modifiers apply:
 | Poor visibility | DC +2 |
 | Tries to conceal tracks | DC +4 |
 
->> Checks Checks and more Checks!: To be cynical, a role-playing game is all about checks, whether you're trying to make a jump, hit someone, avoid a trap or a spell...!
+>> **Checks Checks and more Checks!**: To be cynical, a role-playing game is all about checks, whether you're trying to make a jump, hit someone, avoid a trap or a spell...!
 You need to be smarter and wiser. Checks can often be avoided or approached with advantage. Play with wit, use your imagination, be creative!
 ---
 
@@ -2066,8 +2077,7 @@ The player chooses the Ability Score they prefer. If Dexterity is chosen, it wil
 
 Whoever has the highest initiative between players and enemies starts first, followed by the others in descending order, declaring Actions and executing them. In case of Initiative with the same score, whoever has the higher Ability Score acts first, otherwise the clash will be simultaneous. Initiative is valid for the entire clash and is rerolled when changing opponents.
 
- %box narratore
-Try to make combat flow naturally. Don't interrupt the flow of actions, but by describing their effects involve players (and enemies) in subsequent actions. I recommend reading the article https://theangrygm.com/manage-combat-like-a-dolphin/ to understand the method in detail.
+>>> **Combat flow**: Try to make combat flow naturally. Don't interrupt the flow of actions, but by describing their effects involve players (and enemies) in subsequent actions. I recommend reading the article \hrefhttps://theangrygm.com/manage-combat-like-a-dolphin/How to Manage Combat Like a Dolphin to understand the method in detail.
 
 **The Golden Rules also apply to the Initiative Check.**
 
@@ -2083,7 +2093,7 @@ In this way, the choice of action occurs when it's the player's round, who can a
 
 ### Time (Rounds, Minutes and Turns)
 
-{Hesitation is the death of advantage (Magic, V.E. Schwab)} 
+> Hesitation is the death of advantage (Magic, V.E. Schwab)}
 
 A **round** lasts about 10 seconds, it's a time frame sufficient to act, run, talk... fight. A Minute is therefore 6 rounds and a Turn lasts 10 Minutes (or 60 rounds).
 
@@ -2115,7 +2125,13 @@ If the character has already performed all Actions, then they can act in the rou
 
 **Attack Action**: this means both the use of melee weapons and the use of throwing or shooting weapons such as bows, crossbows, or throwing daggers. In the case of throwing weapons, each throw/shot counts as one attack.
 
+The character who executes an Attack Action and Casts a Spell in the same round is considered Distracted, meaning they must make a Magic Check to cast the spell.
+
+**Movement Action***: a Movement Action is an Action dedicated to moving. You can move up to your full movement (9 meters for humans, 6 meters for dwarves...) per Action used. Each movement consumes an Action even if you don't use all your available movement.
+
 **Table: Actions per Round**
+
+	
 
 | **What to do** | **Actions** |
 | --- | --- |
@@ -2157,10 +2173,6 @@ If the character has already performed all Actions, then they can act in the rou
 | Grapple an opponent | 2 |
 | Trip an opponent | 2 |
 
-The character who executes an Attack Action and Casts a Spell in the same round is considered Distracted, meaning they must make a Magic Check to cast the spell.
-
-**Movement Action***: a Movement Action is an Action dedicated to moving. You can move up to your full movement (9 meters for humans, 6 meters for dwarves...) per Action used. Each movement consumes an Action even if you don't use all your available movement.
-
 During the Movement Action, it is possible to **Draw a Weapon** or Shield or **Sheathe a Weapon** or Shield.
 
 **Cast a Spell***: usually 2 Actions are needed. The number of necessary Actions is indicated in the spell description. In the Magic chapter, the rules (page ) for casting multiple spells in a round are specified.
@@ -2182,11 +2194,14 @@ This **list is not complete**, take it as guidelines to establish the weight of 
 The **order** in which Actions are executed is not important except for logical and physical correlation. The Movement Action can be between other Actions (movement, attack/spells/other Action, movement).
 
 A character could attack, move, and attack again; this second attack would have the penalties described in multiple attacks.
+
+> Treasures are not won by care and forethought but by swift slaying and reckless attack. (Michael Moorcock)
+
 ---
 
 ## Movement
 
-{A slower moving object cannot be caught by a faster one; since the one that follows must reach the point that the one being followed occupied and where the latter is no longer (when the second arrives); in this way the first always maintains an advantage over the second. (Zeno's Paradox)}
+> A slower moving object cannot be caught by a faster one; since the one that follows must reach the point that the one being followed occupied and where the latter is no longer (when the second arrives); in this way the first always maintains an advantage over the second. (Zeno's Paradox)
 
 A character's movement is determined by their size and race, and by what they carry, weights, encumbrances, but also magic and magic items.
 
@@ -2222,14 +2237,14 @@ In monsters, this distance is indicated by reach; for throwing weapons, it's cal
 
 If not indicated in the opponent's sheet, **reach** is equal to half the space occupied rounded up. A hill giant, huge size (3x3 squares on the map), has a reach of 2 squares, meaning it hits creatures within 2 squares/meters from it.
 
->> Examples of Distance in Combat: E.g., for a creature armed with a spear, the reach is 2, meaning the melee distance is 2 meters because the weapon is long. For a gnome armed with a hammer, or bare-handed, the melee distance is 1 meter. For particularly large creatures (Huge or larger) with equally large weapons, the reach is indicated or inferred from the monster's dimensions and weapon type.
+>> **Examples of Distance in Combat**: E.g., for a creature armed with a spear, the reach is 2, meaning the melee distance is 2 meters because the weapon is long. For a gnome armed with a hammer, or bare-handed, the melee distance is 1 meter. For particularly large creatures (Huge or larger) with equally large weapons, the reach is indicated or inferred from the monster's dimensions and weapon type.
 
 **Reach indicates how far you can hit in melee.**
 ---
 
 ## Life and Death
 
-{Whoever doesn't know death, doesn't know life. (Grand Hotel, film 1932)
+> Whoever doesn't know death, doesn't know life. (Grand Hotel, film 1932)
 
 The worthy Game Master never kills player characters willingly. He presents opportunities for hasty and careless players to do it all themselves. (Gary Gygax)
 
@@ -2244,7 +2259,7 @@ A healing magic (spell or potion), of any healing amount, will bring them to 1 H
 
 A First Aid check, 3 Actions, with difficulty 12 plus the value of the negative Hit Points will bring the character to 0 Hit Points, i.e., unconscious. Each subsequent time the character returns below 0 Hit Points, the difficulty of the First Aid check increases by 2.
 
->> Tups is dying: E.g., Tups is severely injured and currently has -6 Hit Points. Jade decides to try to heal him (after moving him to a safer place). Jade attempts a First Aid check (3 Actions) to stabilize her companion; her check difficulty is 12+6, so she must exceed a DC of 18 with First Aid to bring him back to 0 Hit Points (unconscious)
+>> **Tups is dying**: E.g., Tups is severely injured and currently has -6 Hit Points. Jade decides to try to heal him (after moving him to a safer place). Jade attempts a First Aid check (3 Actions) to stabilize her companion; her check difficulty is 12+6, so she must exceed a DC of 18 with First Aid to bring him back to 0 Hit Points (unconscious)
 
 A subsequent First Aid check, performed within 10 minutes, can heal additional wounds.
 
@@ -2264,12 +2279,12 @@ E.g., If they have Constitution 2, they will die at -[10+4]=-14 Hit Points; if t
 
 If a character's non-lethal damage reaches negative Hit Points equal to 20+4*Constitution, the character is dead.
 
-Describe with pathos and transport the fall of the character; make them understand the suffering experienced. Emphasize the fall to the ground, the flowing blood, the gasps. Be theatrical.
+>>> **Pathos**: Describe with pathos and transport the fall of the character; make them understand the suffering experienced. Emphasize the fall to the ground, the flowing blood, the gasps. Be theatrical.
 If you're dealing with easily impressed players, then it's better to reduce the *gore*.
 
 A dead character cannot benefit from normal or magical healing, and cannot be brought back to life by a spell. Only a Patron has sufficient power to bring the soul back into the body and bring the creature back to life. The Animate Dead spell can reanimate a body, but as undead.
 
->> The death of the character: Try to understand why they died, what are the causes, the mistakes made. What are the choices that brought them there. Each character who dies is a personal wound but also experience and awareness. Treasure it both for yourself but also for the whole group. If something didn't work, try to understand it together, without accusing or blaming but with the aware spirit that you can improve, all of you.
+>> **The death of the character**: Try to understand why they died, what are the causes, the mistakes made. What are the choices that brought them there. Each character who dies is a personal wound but also experience and awareness. Treasure it both for yourself but also for the whole group. If something didn't work, try to understand it together, without accusing or blaming but with the aware spirit that you can improve, all of you.
 
 ### Optional - Recovery from 0 Hit Points
 
@@ -2353,7 +2368,7 @@ If you hit, for every margin of 8 above the opponent's Defense, the weapon deals
 
 The basic rules of Skills also apply to the Attack Roll. Defense is a fixed value and as such uses the modifiers for fixed value checks.
 
->>> OBSS wants to be fun to play, wants players to have fun and see the results obtained from the dice (and obviously from their choices). The Golden Rules and Damage Explosion want to precisely remove the dust from the dice and make it fun. A player will appreciate, even more if experienced, how the dice rolls are not just a number but rather open the possibility to make a difference. Ask the player to describe the critical hit and have them act it out in their glory of power!
+>>> **Always togheter**: OBSS wants to be fun to play, wants players to have fun and see the results obtained from the dice (and obviously from their choices). The Golden Rules and Damage Explosion want to precisely remove the dust from the dice and make it fun. A player will appreciate, even more if experienced, how the dice rolls are not just a number but rather open the possibility to make a difference. Ask the player to describe the critical hit and have them act it out in their glory of power!
 
 ## Rolling 3 times 1
 
@@ -2369,7 +2384,7 @@ If in the first 3 Attack Rolls you make three times 6, you will hit the opponent
 
 Whenever you have hit, you roll **additional damage of just the weapon** for every 8 over the Defense; this damage is also called **critical damage**. If you made two Critical Hits, it means you must roll 2 extra weapon dice, and have hit by +16/+23 range.
 
->> Example Critical Hit: Example: I roll 6 4 5, I roll an additional 6, I roll an additional 6, I roll an additional 4, total 31. The opponent's Defense is 15. For damage you roll the weapon's damage 3 times, once because I hit and twice because you hit with a margin of 16!
+>> **Example Critical Hit**: Example: I roll 6 4 5, I roll an additional 6, I roll an additional 6, I roll an additional 4, total 31. The opponent's Defense is 15. For damage you roll the weapon's damage 3 times, once because I hit and twice because you hit with a margin of 16!
 
 ## Exploding Damage
 
@@ -2398,7 +2413,7 @@ If the cumulative penalty to hit becomes greater than the Attack Roll it is no l
 
 Characters with Attack Roll less than 6 can choose to make 2 attacks spending 2 Actions but applying a -4 penalty to both attacks instead of the standard progression. This allows even low-level characters to effectively use their Actions in combat even if with significant penalties.
 
->> Multiple Attack Example: For example, if I have Weapon Proficiency 5, Strength 1, +2 to hit as a bonus from the Weapon List and +1 to hit from a Feat, +2 because I'm flanking, and +1 for a magic weapon, the first Attack Roll will be 3d6+12, the second will be 3d6+7, the third 3d6+2. It is not possible to make a fourth attack since the attack bonus would become negative.
+>> **Multiple Attack Example**: For example, if I have Weapon Proficiency 5, Strength 1, +2 to hit as a bonus from the Weapon List and +1 to hit from a Feat, +2 because I'm flanking, and +1 for a magic weapon, the first Attack Roll will be 3d6+12, the second will be 3d6+7, the third 3d6+2. It is not possible to make a fourth attack since the attack bonus would become negative.
 
 Any dynamic and not *fixed* attack bonuses, e.g., +1d6, apply only to the first Attack Roll and not to the calculation of the bonus for determining the number of multiple attacks. In the example, the Attack Roll becomes 4d6+12, 3d6+7, and then 3d6+2.
 
@@ -2428,7 +2443,7 @@ A long weapon allows you to hit a target at a distance of 2 meters.
 
 Using a **Long weapon at short distance** , less than 2 meters, imposes a -4 penalty to the Attack Roll, except when using a Staff.
 
->> Combat with Long Weapon: Ex. Tups armed with a longsword faces a brigand armed with a long spear. Tups has initiative 15, the brigand 12.
+>> **Combat with Long Weapon**: Tups armed with a longsword faces a brigand armed with a long spear. Tups has initiative 15, the brigand 12.
 
 Tups, exploiting his agility, gets close to the brigand and hits him powerfully. The brigand, finding himself in melee with Tups, cannot take advantage of his long weapon, which actually penalizes him.
 
@@ -2436,9 +2451,9 @@ He uses one Action to move two meters away and then attacks.
 
 As a third action, he moves away another 9 meters and shouts insults at Tups.
 
->> Combat with Long Weapon... continues: At this point, Tups is 11 meters away from his opponent and decides to charge, thus opening up his defense but gaining an attack bonus.
+At this point, Tups is 11 meters away from his opponent and decides to charge, thus opening up his defense but gaining an attack bonus.
 
-He charges the brigand, hitting him and getting right next to him. With his last Action, he decides to improve his Defense (Prepare Defense).
+>> **Combat with Long Weapon...**: He charges the brigand, hitting him and getting right next to him. With his last Action, he decides to improve his Defense (Prepare Defense).
 
 The severely wounded brigand tries to hit him, hoping that his difficulty in using a long weapon at close range is offset by the penalties from Tups's charge. Tups is hit, and the brigand drops his spear and draws a short dagger, also going on the defensive.
 
@@ -2536,7 +2551,7 @@ Grant a bonus or penalty ($\pm 1-2$) if not indicated otherwise) whenever the pl
 | **+1d6** | Invisible, Charge, Helpless opponent | |
 | **+8** |  | Full Cover |
 
-Try not to interrupt the game looking for the exact rule, let it flow, tell the players that for brevity you're handling the situation in a certain way; there will be time later to remember the situation and find the right rule. Constantly interrupting the game breaks the *pathos* of the situation.
+>>> **Feel Free**: Try not to interrupt the game looking for the exact rule, let it flow, tell the players that for brevity you're handling the situation in a certain way; there will be time later to remember the situation and find the right rule. Constantly interrupting the game breaks the *pathos* of the situation.
 
 When -1d6 is written, it means that you roll one die less (or two if it's -2d6), similarly if there's +1d6 written, you roll one more d6 and add it.
 
@@ -2548,7 +2563,7 @@ The **positive modifiers indicated** in the *Table: Modifiers in attack or defen
 
 **Penalties** add up entirely among themselves. If the character is surprised and prone, they have a -6 to Defense.
 
->>> Always remember that the goal is to have fun, at the expense (for the Narrator) of some monster; don't be rigid but dynamic and adapt to situations.
+>>> **The main goal**: Always remember that the goal is to have fun, at the expense (for the Narrator) of some monster; don't be rigid but dynamic and adapt to situations.
 
 ## Other Actions and Situations
 
@@ -2720,6 +2735,8 @@ The EDX value, if different from the maximum damage of the weapon, increases by 
 
 Fighting in conditions of reduced light presents difficulties summarized in this scheme.
 
+	
+
 | **Vision** | **Condition** | |
 | --- | --- |
 | Dim Light | Darkness |
@@ -2794,7 +2811,7 @@ Each round they can deduct one or more accumulated Critical Hits to perform Crit
 
 The list proposes a catalog of Critical Actions for consumed Critical Hits. You cannot have more than 6 accumulated Critical Hits. Activating these Critical Actions costs a Reaction.
 
-Use this list as guidelines to stimulate the character to create their own combat style.
+Use this list as guidelines to stimulate the character to create their own combat style. It's important that character explain how perform the Critical Action.
 
 **Criticals** \hskip 0.5cm **Effect**
 
@@ -2847,7 +2864,7 @@ Use this list as guidelines to stimulate the character to create their own comba
 - **\emph** - For 1d6 rounds, all your companions have +4 to Defense
 	
 
->>> These Critical Actions can be described as taking advantage of the opponent's distraction, throwing dirt in their eyes, forcing them to move away with weapon blows...
+>>> **Critical Actions**: These Critical Actions can be described as taking advantage of the opponent's distraction, throwing dirt in their eyes, forcing them to move away with weapon blows...
 
 > Honesty and Justice, Heroic Courage, Compassion, Kind Courtesy, Complete Sincerity, Honor, Duty and Loyalty (The seven principles of bushido)
 
@@ -2863,7 +2880,7 @@ The Activator may specify an even or odd value to be compared with the Attack Ro
 
 Weapon Maneuvers are grouped by level, i.e., the minimum Weapon Proficiency score to be able to use those maneuvers; the player can choose from all the Weapon Maneuvers accessible to them and Activatable.
 
->> I missed!: Exploit your bad luck as best you can! Let fate smile on you thanks to your ability to choose the maneuver to activate. Always evaluate the environment, enemies, companions, and the situation in general before deciding what to activate.
+>> **I missed!**: Exploit your bad luck as best you can! Let fate smile on you thanks to your ability to choose the maneuver to activate. Always evaluate the environment, enemies, companions, and the situation in general before deciding what to activate.
 
 - **Level 4 Maneuvers**
 
@@ -2902,7 +2919,7 @@ Weapon Maneuvers are grouped by level, i.e., the minimum Weapon Proficiency scor
 - **Uncontainable Fury** - Activ.: ***Even***. *Effect*: Compare the Attack Roll with an adjacent opponent to see if you've hit them; if yes, also add a critical hit. *Critical*: Until the end of the next round, you have -4 to Defense, +1d6 to the Attack Roll, and each successful attack causes an additional critical hit.
 	
 
-Invite the player to create their own *failure* style, make them rejoice in a *fumble*!
+>>> **Enjoy the fumble!**: Invite the player to create their own *failure* style, make them rejoice in a *fumble*!
 
 ## Mounts
 
@@ -2943,9 +2960,15 @@ You can only control a mount if it has been trained to accept a rider. War-train
 By spending 1 of your Actions, you can make the mount perform 2 of these Actions: Move, Attack, Disengage.
 
 If the mount is intelligent, it might move and act as it prefers, regardless of the rider's instructions. It might flee from combat, charge to attack and devour a severely wounded enemy, or act in some other way against the rider's will.
+
+> Artax galloped through the Swamp of Sadness, and with each step his hooves sank deeper. (Michael Ende, Neverending Story)
+
+The horse knows the way home even when the rider has lost the path. (Ursula K. Le Guin, The Tombs of Atuan)
 ---
 
 # Hiding places and cover
+
+> Where there is much light, the shadow is deeper. (Johann Wolfgang von Goethe)
 
 The opponent doesn't always appear in front of us; often they might be hidden or even invisible.
 
@@ -2998,11 +3021,11 @@ Even if you are invisible, that doesn't mean you can't be perceived differently 
 
 A blinded creature, or one fighting against an invisible creature, or fighting in complete darkness without darkvision, can make a Awareness check, 1 Action, at difficulty 20, or 2 Actions at Difficulty 15, to **detect** a creature if it is within 6 meters of them.
 
-The Awareness check can be made at the same time as the Movement Action to approach the creature. You only use the Movement Action, and the Awareness check is performed with a base DC of 20.
+The Awareness check can be made at the same time as the Movement Action to approach the creature at difficulty base of DC 25.
 
 Depending on the distance of the invisible creature or what it did in the previous round, there are various modifiers to the Awareness check to detect it.
 
->>> The Awareness check has a high difficulty for a low-level character. Be careful to consider all the applicable modifiers, otherwise, characters will hardly be able to detect them and will attack random squares...
+>>> **Invisibility**: The Awareness check has a high difficulty for a low-level character. Be careful to consider all the applicable modifiers, otherwise, characters will hardly be able to detect them and will attack random squares...
 
 **Table: Modifiers to Awareness DC for Detecting Invisible Creatures**
 
@@ -3046,7 +3069,7 @@ Invisible creatures cannot use gaze attacks. Invisibility does not affect being 
 
 # Weapon Lists by Homogeneous Type
 
-> Strength lies not in a Sword, but in the arms of a brave man. (The Legend of Zelda: Twilight Princess)} 
+> Strength lies not in a Sword, but in the arms of a brave man. (The Legend of Zelda: Twilight Princess)}
 
 Each time you assign a point to Weapon Proficiency, you can decide whether to continue perfecting a Weapon List you already know or learn a new one. If you do not declare its use, it is assigned to the Simple Weapons List.
 
@@ -3324,7 +3347,7 @@ Using 2 Actions, they can concentrate and switch to using the bonuses derived fr
 
 # Feats
 
-{Martyrdom is the only way for a man to become famous if he has no ability (George Bernard Shaw, The Devil's Disciple)} 
+> Martyrdom is the only way for a man to become famous if he has no ability (George Bernard Shaw, The Devil's Disciple)}
 
 Feats are peculiar abilities, the result of training or special gifts. Feats always have a practical effect.
 
@@ -4836,6 +4859,8 @@ You make a single Attack Roll with -1d6, and if you hit with your natural attack
 
 It is the ability to not be slowed down in a hostile environment. It is necessary to declare on which environment you take the Feat. In these environments, natural terrain is not difficult. As long as you move in the chosen environment, you have a +1 to Survival checks.
 
+	
+
 | **Environment** | **Environment** |
 | --- | --- |
 | Jungle | Aquatic | Coastal |
@@ -5111,6 +5136,13 @@ If you take this Feat **4 times** on the same Weapon List, the bonuses to hit ar
 The **first time** you take this Feat, using 3 Actions, you can perform a single attack (with a penalty of 1d6 to the Attack Roll) against all opponents in melee around you.
 
 The **second time** you take this Feat, Weapon Proficiency 15, Entertain 5, you have no penalty to the Attack Roll.
+
+> Excellence is not an act, but a habit. (Nicomachean Ethics, Aristotele)
+
+To have great power is not to know how to use it wisely. (Earthsea, Ursula K. Le Guin)
+
+Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè, Michael Moorcock)
+
 ---
 
 ## Feat Grouping by Style
@@ -5320,7 +5352,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 # Familiar
 
-Mr. Wing's grandson: There are three rules that you must follow. First of all, keep him out of the light. He hates bright light, especially sunlight. It'll kill him. Second, don't give him any water, not even to drink. But the most important rule, the rule you can never forget—no matter how much he cries, no matter how much he begs—never feed him after midnight. (Gremlins, Film, 1984)}
+> Mr. Wing's grandson: There are three rules that you must follow. First of all, keep him out of the light. He hates bright light, especially sunlight. It'll kill him. Second, don't give him any water, not even to drink. But the most important rule, the rule you can never forget—no matter how much he cries, no matter how much he begs—never feed him after midnight. (Gremlins, Film, 1984)
 
 Familiars are animals chosen by the character, through the Familiar Feat, to help them in adventures and for companionship. A familiar has a special bond with its master.
 
@@ -5500,11 +5532,11 @@ A paralyzed character cannot take Actions or Reactions, nor speak. Melee attacks
 
 # Magic
 
-The magic isn't in the pendulum, it's in the person using it. (NCIS)
+> The magic isn't in the pendulum, it's in the person using it. (NCIS)
 
 Thou shalt not suffer a witch to live. (Book of Exodus)(Always depending on your Traits...)
 
-A wizard is never late, Frodo Baggins. Nor is he early. He arrives precisely when he means to. (Gandalf, The Lord of the Rings - The Fellowship of the Ring. J.R.R. Tolkien)}  
+A wizard is never late, Frodo Baggins. Nor is he early. He arrives precisely when he means to. (Gandalf, The Lord of the Rings - The Fellowship of the Ring. J.R.R. Tolkien)}
 
 Magic permeates game worlds and its most common form is a spell. This chapter provides the rules for casting spells.
 
@@ -5635,7 +5667,7 @@ If you want a more *fantastic* management of components and less tied to traditi
 - It is possible to add components to the spell as an offering to the Patron who oversees the list to obtain advantages in Magic Check
 - Depending on the *preciousness* and *history* of the offered object, at the Narrator's discretion, the Magic Check can acquire  $\pm2d6$\ bonus.
 
-For a more immediate management of components, you can replace them with a *cost* of 1 Maximum Hit Point per Spell Level. In case of a Magic Critical Success in the Magic Check, these Hit Points are not lost.
+>>> **Alternative to Components**: For a more immediate management of components, you can replace them with a *cost* of 1 Maximum Hit Point per Spell Level. In case of a Magic Critical Success in the Magic Check, these Hit Points are not lost.
 
 ### Recovering from dying
 
@@ -5697,21 +5729,6 @@ This modifier is called the **ability modifier for spells**.
 - The term **learned** means a spell present in the Spellbook that has been memorized and can be cast when desired.
 - The term **known** means a spell present in the Spellbook that has not been learned, meaning it has not been memorized and cannot be cast when desired.
 
-**Table: example of Known and Learned Spells**
-
-| **Magic** | **Known (present in Spellbook)** |  | **Learned (that you can cast)** |
-| --- | --- | --- | --- |
-
-\cline
-
-| **Proficiency** | **Cantrips** | **Spell level 1+** | **Cantrips or /  \textbf{Spell level 1+**} |
-| 1 | mod +2 (minimum 4) | mod (minimum 4) | mod (minimum 4) / 2 |
-| 2 | present in Spellbook | present in Spellbook | +2 or / +1 |
-| 3 | present in Spellbook | present in Spellbook | +2 or / +1 |
-| 4 | present in Spellbook | present in Spellbook | +2 or / +1 |
-
-**mod**: is the ability modifier for spells. Each time you take the Magic Adept Feat, you *learn* one additional spell present in your Spellbook.
-
 ## Maximum castable spell level
 
 While Magic Proficiency indicates study and dedication to Magic in its most abstract form, it is the Magic Adept Feat that allows you to understand how *devoted* you are to formulating spells.
@@ -5742,7 +5759,7 @@ If the spellcaster is **Distracted**, tries to hide the casting of magic, is imp
 
 For each critical hit or magic critical that has been suffered in the round, the Magic Check is made with additional 4 penality.. Any Critical Failures or Critical Successes are taken into account.
 
-Grant a +1d6 in the Magic Check, or allow ignoring a 1 rolled in the Magic Check, when the character declares with expertise and emotion the casting of the spell. If they say *I cast a fireball* they will not get advantages, but if with passion they declare *By the Flame of Genesis may Nedraf destroy you with his sacred flames. Burn unworthy ones. Fireball!* then yes!.
+>>> **Partecipate**: Grant a +1d6 in the Magic Check, or allow ignoring a 1 rolled in the Magic Check, when the character declares with expertise and emotion the casting of the spell. If they say *I cast a fireball* they will not get advantages, but if with passion they declare *By the Flame of Genesis may Nedraf destroy you with his sacred flames. Burn unworthy ones. Fireball!* then yes!.
 
 ## Modifying the Magic Check
 
@@ -5770,6 +5787,7 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 | 8 | You become Invisible and paralyzed for 6 rounds |
 | 9 | Only you are wrapped in a curtain of impenetrable magical darkness for 6 rounds |
 | 10 | You cannot speak well, you are stuttering. Every spell casting forces you to pass a Magic Check. Duration 3 rounds |
+
 | 11 | You manifest the Grease spell under your feet |
 | 12 | The next spell you cast has effects minimized if possible |
 | 13 | Your heartbeat is like the beat of a drum, it can be heard within 36 meters |
@@ -5792,9 +5810,9 @@ The spellcaster has a **bonus** to the Magic Points score equal to their ability
 
 Magic Points are all recovered with 8 hours of rest. 
 
-**Table: Magic Proficiency (MP) and Magic Points (MP)**
+**Table: Magic Proficiency (MProv) and Magic Points (MP)**
 
-| **M Prov** | **MP** | **M Prov** | **MP** | **M Prov** | **MP** |
+| **MProv** | **MP** | **MProv** | **MP** | **MProv** | **MP** |
 | 1 | 4 | 8 | 28 | 15 | 53 |
 | 2 | 7 | 9 | 32 | 16 | 56 |
 | 3 | 11 | 10 | 35 | 17 | 60 |
@@ -5811,7 +5829,7 @@ Especially at lower levels, it can be very frustrating not having learned a spel
 
 The spellcaster can cast a spell that is present in their Spellbook and is within the 3rd level and within the maximum castable spell level, by extending the casting time to 1 hour per Magic Point cost. In the case of a spell cast in this way, no Magic Points are used, but it is necessary to pass a Magic Check at the end of the formulation.
 
->> Daring the Magic Check: The Magic Check is an important and integral part of the magic system, use it to your advantage. Magic Points allow you to modify the Check, exploit these possibilities.
+>> **Daring the Magic Check**: The Magic Check is an important and integral part of the magic system, use it to your advantage. Magic Points allow you to modify the Check, exploit these possibilities.
 
 There is always a certain danger... but what is Magic without risks!
 
@@ -5854,7 +5872,7 @@ If they do not obtain at least one Magic Critical Success, they cannot attempt t
 
 The source of new spells can be another Spellbook or scroll... in short, anything that the previous spellcaster used to store the spells. A magic item (magic staff, ring, rod... wand) is not suitable as a source from which to copy the spell it contains; you must copy from the equivalent Spellbook or scroll of another spellcaster. A spell when copied into the new Spellbook vanishes from the original source.
 
->> Choosing Spells: Each spell is a precious treasure that must be found and learned.
+>> **Choosing Spells**: Each spell is a precious treasure that must be found and learned.
 
 Each spell is like a magic item, a true treasure to seek and obtain!
 
@@ -5892,7 +5910,7 @@ In the description of the spell, it is written whether a Saving Throw is necessa
 
 If it is the character who must resist a spell, the Narrator will not tell you to make a Saving Throw at difficulty 18, it is he who compares your roll with the difficulty, he can tell you that the test is complex, difficult, or easy...
 
->> Tups casts Arcane dart!: Tups, who has Intelligence 4, Magic Proficiency 6, and has taken Magic Adept 2 times, casts the \hyperlinkGuiding BoltArcane dart spell. The difficulty (DC) of the Reflex Saving Throw will be equal to 10 + 6 (MP) + 4 (ability modifier for spell, Intelligence) + 2 (has taken Magic Adept 2 times), that is 10+6+4+2 = 22 to halve the damage. If he had made a Magic Check and this had a magic Critical Success, the DC would have become 23.
+>> **Tups casts Arcane dart!**: Tups, who has Intelligence 4, Magic Proficiency 6, and has taken Magic Adept 2 times, casts the \hyperlinkGuiding BoltArcane dart spell. The difficulty (DC) of the Reflex Saving Throw will be equal to 10 + 6 (MP) + 4 (ability modifier for spell, Intelligence) + 2 (has taken Magic Adept 2 times), that is 10+6+4+2 = 22 to halve the damage. If he had made a Magic Check and this had a magic Critical Success, the DC would have become 23.
 
 - If in the Saving Throw you roll 3 sixes, you have managed to pass it, regardless of the total, and you obtain a **Critical Saving Success**.
 - If the Saving Throw succeeds by a margin of 8 you obtain a **Critical Saving Success**.
@@ -6090,6 +6108,8 @@ If this factor influences your game too much, reduce the radii of explosions and
 ---
 
 # The Spells
+
+> Magic is believing in yourself. If you can do that, you can make anything happen. (Johann Wolfgang von Goethe)
 
 ## Spell list
 
@@ -7789,7 +7809,7 @@ If the Attack Roll hits, the target takes 2d6 bludgeoning damage and must make a
 
 **For each Critical Magic Success** obtained in the Magic Check, you throw one additional stone.
 
-			I'll spread out to avoid area spells (said by a player to avoid a Fireball)
+> I'll spread out to avoid area spells (said by a player to avoid a Fireball)
 
 ## Eldritch Blast
 - **Magic List**:: Evocation
@@ -9077,6 +9097,8 @@ Make a single ranged spell Attack Roll and compare the result with the Defense o
 The caster imbues a tear with magic and throws it against the opponent, requiring a ranged spell Attack Roll.
 The creature takes 1d6+2d6 damage; to determine the damage type, consult the table with the values of the first d6 rolled.
 
+	
+
 | **1d6** | **Energy** |
 | 1 | Fire |
 | 2 | Electricity |
@@ -10032,6 +10054,8 @@ You touch a creature to stimulate its natural healing ability. The target regain
 You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target's soul isn't free or willing to do so, the spell fails.
 
 The magic fashions a new body, which likely causes a change in the creature's race. The Narrator rolls a d10 and consults the following table to determine what form the creature takes when restored to life, or the Narrator may choose the form.
+
+	
 
 | **d10** | **Race** |
 | 0 | Wolf/Eagle/Fox/Lynx (roll 1d4) |
@@ -12183,11 +12207,11 @@ Your Survival checks have a +2d6 bonus. The first hit against an opponent automa
 
 You believe that there is one God? You do well; even the demons believe and tremble! (James The Just 2, 19)
 
-In OBSS deities are different from traditional gods in roleplaying games.
+>>> **Patrons**: In OBSS deities are different from traditional gods in roleplaying games.
 
 The deities, the Patrons, love to get their hands dirty, to participate in the affairs of the creatures who worship them, for them it is a continuous challenge to have more believers, adepts, and people more similar, in Traits, to them.
 
-The Patrons were created as https://www.merriam-webster.com/dictionary/paroxysm of the human soul, where everything is an excess. Like spirits released from Pandora's box, they have the sole purpose of bringing their Traits to dominance, making them the most common and present among creatures, especially among the most powerful.
+The Patrons were created as \hrefhttps://www.merriam-webster.com/dictionary/paroxysmparoxysm of the human soul, where everything is an excess. Like spirits released from Pandora's box, they have the sole purpose of bringing their Traits to dominance, making them the most common and present among creatures, especially among the most powerful.
 
 In the beginning was the void which contained everything within itself.
 
@@ -12285,7 +12309,7 @@ Under the indication of the preferred weapon there is the indication of the Rule
 
 A spellcaster who relies on a Patron, at least **2 Traits** in common, becomes a **Devotee**. If he has at least **1 Trait** in common and relies on a Patron then he is said to be a **Follower**. The **Advantage** indicated is only for the Devotee.
 
->> Devotees and Followers: Being Devotees or Followers is your choice, no one imposes it on you. You should feel it as an opportunity for role-playing, as an enrichment of the character and not a constraint. Being Devotees or Followers does not mean being prone to the will of the Patron, on the contrary, it means being even more convinced of your own Traits, of your own personality. **A Patron does not ask for prayers, but asks you to be yourself**.
+>> **Devotees and Followers**: Being Devotees or Followers is your choice, no one imposes it on you. You should feel it as an opportunity for role-playing, as an enrichment of the character and not a constraint. Being Devotees or Followers does not mean being prone to the will of the Patron, on the contrary, it means being even more convinced of your own Traits, of your own personality. **A Patron does not ask for prayers, but asks you to be yourself**.
 
 The character might also not follow any Patron despite having more Traits in common or might be a Devotee or Follower not of the Patron with whom he has more Traits in common or the Traits with higher score. The choice is always up to the character and his sensitivity.
 
@@ -12293,9 +12317,11 @@ The acquired abilities linked to the Traits in common are independent of being a
 
 Nothing prevents a character from receiving more powers from different Patrons! At high levels when the character has a high score in the various Traits he possesses, this will happen frequently. 
 
->>> The Narrator can still grant being a Follower or Devotee even if the Traits do not perfectly match. At the request of the player and at his discretion, he can evaluate the similarity of some Traits of the character to those of the Patron and consider them suitable to be a Follower or Devotee. In these situations, it is necessary to understand how the player frames the character and understand not only if the Traits but also if the feeling of the character is akin to the chosen Patron.
+>>> **Your game your fun**: The Narrator can still grant being a Follower or Devotee even if the Traits do not perfectly match. At the request of the player and at his discretion, he can evaluate the similarity of some Traits of the character to those of the Patron and consider them suitable to be a Follower or Devotee. In these situations, it is necessary to understand how the player frames the character and understand not only if the Traits but also if the feeling of the character is akin to the chosen Patron.
 
 **Energy - Elements Table**
+
+	
 
 | **Positive** (+1) | **Neutral** (0) | **Negative** (-1) |
 | --- | --- | --- |
@@ -12313,15 +12339,13 @@ In a world where deities are so capricious, fickle, and thirsty for devotees, it
 
 A favor asked of a Patron always has a price neither obvious nor predictable. The Narrator must carefully evaluate the character's plea and judge if the request is pertinent to the Patron's Traits, if positive roll 1d100 and get less than half the highest score of Trait in common with the Patron. Or decide independently according to the course of the adventure.
 
-\addcontentsline{toc}{subsection}{List of Patrons}
+### List of Patrons 
 
-### List of Patrons
-
-### Ljust
-
-Only the light that one kindles for oneself subsequently shines for others. (Arthur Schopenhauer)
+### Ljust  
 
 The Lady of Light, she who radiates warmth and love. Generator of the impulses of love, protection, kindness, joy, and forgiveness. She embodies within herself the protective aspect of a mother, the strength and audacity of a fighter, the passion of a young lover, the joy and the search for the new, the imagination of a child. Ljust embodies the beauty of life and every creature that contemplates her sees what for them is the maximum harmony and falls prone to her charm.
+
+> Only the light that one kindles for oneself subsequently shines for others. (Arthur Schopenhauer)
 
 Ljust can only be chosen by a character with 4 Traits in common with her, fundamentally one is born to be a Devotee of Ljust. Over the ages, Ljust decided to select, choose, and reward creatures that most innately and deeply showed love for life, curiosity for the new, unshakable strength, dedication, trust, respect, and care for others by giving them the powers and the possibility to study and grow as Disciples of Light. These Disciples must follow the rule of the 8 Steps.
 
@@ -12412,7 +12436,7 @@ Dressed in a soft brown robe and leather sandals, he moves among the infinite sh
 
 ### Lynx
 
-> People don't take trips, trips take people. (John Steinbeck)}
+> People don't take trips, trips take people. (John Steinbeck)
 
 Patron of the Portals, he can only be chosen by characters who have at least 3 Traits in common. He is the first Patron generated by Ljust and Calicante, created to protect the Earth from external attacks.
 
@@ -12436,7 +12460,7 @@ His Devotees are travelers par excellence, those who preside over and protect th
 
 ### Gradh
 
-The man who has ceased to fear has ceased to care. (Francis Herbert Bradley)
+> The man who has ceased to fear has ceased to care. (Francis Herbert Bradley)
 
 The first Patron created by Atmos under the guidance of Ljust and the influence of Calicante.
 
@@ -12467,7 +12491,7 @@ The Devotee of Gradh is proud and haughty, indomitable and protective, and sorro
 
 ### Atherim
 
-The one to whom you confide your secret becomes the master of your freedom. (François de La Rochefoucauld)
+> The one to whom you confide your secret becomes the master of your freedom. (François de La Rochefoucauld)
 
 There is nothing hidden that will not be revealed, nor secret that will not be known. (Luke, 12, 1-7)
 
@@ -12583,10 +12607,10 @@ In the most desolate lands, in the most natural regions, the Devotees of Efrem b
 
 ### Erondil
 
-> Good reasoning is stronger than two strong hands. (Sophocles)
-
 Patron of Earth and Air, Erondil is the Lord of the most concrete and rational elements. He who, endowed with infinite power and rationality, grants his Devotees the power of manipulating the earth, the gift of creating gigantic constructions of millennial strength from simple mud. He completes his works with attention and precision.
 Even with difficulty because if the final result does not satisfy him, he unleashes his lightning to destroy it instantly. A perfectionist and insatiable, rarely is something exactly as he imagined it.
+
+> Good reasoning is stronger than two strong hands. (Sophocles)
 
 Orderly and exuberant, he is the lord of storms, thunder and lightning, earthquakes and destruction. He loves to surround himself with the roar of thunder, the rumble of the crumbling earth. He can be destructive towards those who do not respect the Earth.
 He has arms and chest covered with almost silvery tattoos that tell the legends of Earth and Air.
@@ -12609,13 +12633,13 @@ The Devotees of Erondil are the engineers of the impossible.
 
 ### Gaya
 
-> {Splendor of the concluded day, which lifts me and fills me,
+> Splendor of the concluded day, which lifts me and fills me,
 
 prophetic hour, hour that brings back the past!
 
 And swells my throat, you, divine most equalizing,
 
-you, earth and life until the last ray shines, I sing. (Song at Sunset, Walt Whitman)}
+you, earth and life until the last ray shines, I sing. (Song at Sunset, Walt Whitman)
 
 Patron of Water and Fire, in the depths of the earth, where water and lava meet, Gaya enjoys painting. She loves to surround herself with flows of fire and water almost creating a dance among them. She adores the sounds of nature, the crashing of waves on rocks, the falling of raindrops on cobbQuicknes, the babbling of a crackling fire.
 
@@ -12625,7 +12649,7 @@ The Devotees of Gaya are volatile artists above the norm. They are those who rec
 
 But Gaya also has a much more subtle and violent side, a vein of evil madness that loves to bring destruction with flames and water. In the depths of the caves, creatures akin to water or fire worship Gaya and kill anyone who disagrees with them.
 
-**Gaia** and **Erondil** are like two sides of the same coin and oversee the elements, Gaia water and fire and Erondil Air and Earth; they act as direct expressions of the major Patrons, they are small manifestations of their immense power.
+>>> **Gaia and Erondil**: **Gaia** and **Erondil** are like two sides of the same coin and oversee the elements, Gaia water and fire and Erondil Air and Earth; they act as direct expressions of the major Patrons, they are small manifestations of their immense power.
 
 - **Symbol**: a brush on the sky
 - **Ability Score**: Intelligence
@@ -12867,11 +12891,11 @@ Among humans, the Devotees of Rezh become explorers, tomb raiders, people always
 
 ### Shayalia
 
+Patron of the Arcane of Darkness. Shayalia is the dark soul of perdition, betrayal, the most sordid and sinful lust. She adores brothels. She likes the acrid smell of sweat, skin shiny with oils and perfumes. The passions, the vengeances that are consumed there, the physical and moral destruction that is perpetrated in those places is her life.
+
 > Who plants a garden plants happiness (Chinese proverb)
 
 Nothing great in the world has been accomplished without passion. (Georg Wilhelm Friedrich Hegel)
-
-Patron of the Arcane of Darkness. Shayalia is the dark soul of perdition, betrayal, the most sordid and sinful lust. She adores brothels. She likes the acrid smell of sweat, skin shiny with oils and perfumes. The passions, the vengeances that are consumed there, the physical and moral destruction that is perpetrated in those places is her life.
 
 Shayalia is a woman, often alone, who enjoys and lives the most physical pleasures. She lives off vengeances long and well-planned in detail. Vindictive and amoral, she does not judge by human standards, her enjoyment is not even remotely understandable. Shayalia is as close to Calicante as has been created. It is the passions, the impulses, the humor fluids that intoxicate her.
 
@@ -12895,7 +12919,7 @@ Ljust, disgusted by the vision of such an explicitly evil Patron, instilled in S
 - **Preferred Weapon**: Whip
 - **Rule**: Do not give up the chance to humiliate
 
-While **Efrem** is the patron of wild nature, Shayalia embodies human devotion and love for nature. The first oversees untouched nature from above, the second descends and becomes one with it, building magnificent gardens.
+>>> **Efrem and Shayalia**: While **Efrem** is the patron of wild nature, Shayalia embodies human devotion and love for nature. The first oversees untouched nature from above, the second descends and becomes one with it, building magnificent gardens.
 
 **Sumkjr** and **Shayalia** are complementary in handling the elusive moods of creatures. They act as direct expressions of the Patrons of Genesis.
 
@@ -13094,7 +13118,7 @@ Regardless of others, he enjoys exploiting the work of others and benefiting fro
 - **Preferred Weapon**: One-handed Axe
 - **Rule**: Do not be sloppy, poorly dressed or untidy.
 
->>> In agreement with the Narrator, and adequately motivated, it is possible to change Advantage and Privileged Magic Lists.
+>>> **Personalizing our game**: In agreement with the Narrator, and adequately motivated, it is possible to change Advantage and Privileged Magic Lists.
 
 ### Patron - Trait List
 
@@ -13154,6 +13178,8 @@ The Patrons are listed in alphabetical order by their most characteristic Trait.
 
 **Tàhil**: Vindictive, Dishonest, Arrogant, Cynical, Ambitious, Stubborn, Impulsive
 
+> The gods weave misfortunes for men, so that the generations to come will have something to sing about." Iliad, Homer
+
 ---
 
 # Equipment
@@ -13206,6 +13232,8 @@ Merchants usually exchange goods even without the use of coins.
 To get an idea of commercial transactions, some trade goods are described in the table.
 
 **Table: Examples of other wealth**
+
+	
 
 | **Cost** | **Item** |
 | 1 cp | Wheat (0.5 kg) |
@@ -13291,6 +13319,8 @@ The table presents the name of the weapon, its cost in gold coins, the damage an
 A **Small Weapon** has **Encumbrance** 1, a Medium Weapon has Encumbrance 2, a Large Weapon has Encumbrance 4, a Huge Weapon has Encumbrance 8.
 
 **Table: Projectile List - Bows - Crossbows - Slings**
+
+	
 
 | **Projectile Name** | **Number of shots/Cost (gp)** | **Damage / Type** |
 | --- | --- | --- |
@@ -13430,12 +13460,12 @@ Whenever the Attack Roll is a Critical Failure, there has been a problem with th
 | 2 | The bullet is defective, fortunately there are no other problems. It takes an Action to remove the jammed bullet. |
 | 3 | The bullet got stuck. It takes two Actions to remove the jammed bullet. |
 | 4 | Having missed leaves you hesitant, lose 1 Action. |
-
-| **\#** | **Effect** |
 | 5 | The sight is inaccurate. The next shot has -2 to the Attack Roll. |
 | 6 | You inadvertently fire two shots/bursts. The second doesn't hit anyone and just consumes bullets. |
 | 7 | The weapon is not adequately lubricated. Inserting the next magazine costs 1 full round. |
 | 8 | The magazine comes loose/falls. You must load a new magazine (2 Actions) or recover and put back the previous magazine. |
+
+| **\#** | **Effect** |
 | 9 | The recoil is so strong that the character falls prone. |
 | 10 | Bullet very stuck. To free the shot you must make a Craft check DC 15, 1 round. |
 | 11 | The weapon overheats and cannot be used until the end of the next round. |
@@ -13455,13 +13485,15 @@ Whenever the Attack Roll is a Critical Failure, there has been a problem with th
 
 > Armor (n.). A suit of clothes made by a blacksmith. (Ambrose Bierce)
 
-Fantozzi Armor: 4-way vane functioning as a plume, fearsome Viking helmet with zero visibility, bronze suspender stolen from the statue of Pepin the Short and, on the feet, heavy irons for charcoal pressing made of molten lead. Total weight of Fantozzi armor: 4 quintals, 32 kilos and 7 and a half hectograms. (Superfantozzi, Film)} 
+Fantozzi Armor: 4-way vane functioning as a plume, fearsome Viking helmet with zero visibility, bronze suspender stolen from the statue of Pepin the Short and, on the feet, heavy irons for charcoal pressing made of molten lead. Total weight of Fantozzi armor: 4 quintals, 32 kilos and 7 and a half hectograms. (Superfantozzi, Film)}
 
 Armor helps to not be hit (raises Defense) and penalizes Magic Checks and Basic proficiency checks and movement.
 
 The Proficiency Penalty is the penalty applied to Basic proficiency checks influenced by the weight and Encumbrance of the armor. Different, specific, or magical armors have different scores; this table serves as a guideline for the Narrator.
 
 ### Armor Table
+
+	
 
 | **Armor** | **Cost** | **Defense** | **Prof. Pen.** | **Type** | **Mov.** | **Magic Check** | **Encumbrance** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13593,19 +13625,23 @@ Wielding a shield occupies the hand and arm.
 
 ### Shields Table
 
-| **Shields** | **Cost** | **Defense Bonus** | **AR penalty** | **Magic check** | **Type** | **Encumb.** |
+	
+
+| **Shields** | **Cost** | **Defense** | **AR penalty** | **Magic check** | **Type** | **Encumb.** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Light wooden shield | 3 gp | 1 | 0 | +2 | L | 1 |
-| Light metal shield | 9 gp | 1 | 0 | +2 | L | 1 |
-| Medium wooden shield | 5 gp | 2 | 0 | +4 | M | 2 |
-| Medium metal shield | 12 gp | 2 | 0 | +4 | M | 2 |
-| Heavy wooden shield | 9gp | 3 | 1 | +6 | H | 4 |
-| Heavy metal shield | 20 gp | 3 | 1 | +6 | H | 4 |
+| Light wooden shield | 3 gp | +1 | 0 | +2 | L | 1 |
+| Light metal shield | 9 gp | +1 | 0 | +2 | L | 1 |
+| Medium wooden shield | 5 gp | +2 | 0 | +4 | M | 2 |
+| Medium metal shield | 12 gp | +2 | 0 | +4 | M | 2 |
+| Heavy wooden shield | 9gp | +3 | 1 | +6 | H | 4 |
+| Heavy metal shield | 20 gp | +3 | 1 | +6 | H | 4 |
 ### Donning and Removing Armor
 
 Wearing and removing armor is an operation that requires time and attention; doing it in a hurry doesn't help and in fact tends to worsen the protection provided.
 
 **Table: Time to don and remove armor**
+
+	
 
 | **Armor Type** | **Don** | **Don Hastily** | **Remove** |
 | --- | --- | --- | --- |
@@ -13626,9 +13662,9 @@ Wearing and removing armor is an operation that requires time and attention; doi
 
 ## Wealth, Money, and Equipment
 
-- Doc... we just need a little bit of plutonium.
+> - Doc... we just need a little bit of plutonium.
 
-- Oh, I'm sure that in 1985, plutonium is available in every corner drugstore, but in 1955, it's a little hard to come by! (Back to the Future, Film 1985)}
+- Oh, I'm sure that in 1985, plutonium is available in every corner drugstore, but in 1955, it's a little hard to come by! (Back to the Future, Film 1985)
 
 ### Selling Treasures
 
@@ -13702,12 +13738,12 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Climber's kit | 80 gp | 1 |
 | Common musical instrument | 5 gp | 2 |
 | Component pouch | 25 gp | L |
-
-| **Item** | **Cost** | **Enc.** |
-| --- | --- | --- |
 | Courtier's outfit | 30 gp | 1 |
 | Crowbar | 2 gp | 1 |
 | Devotee's robes | 5 gp | 1 |
+
+| **Item** | **Cost** | **Enc.** |
+| --- | --- | --- |
 | Disguise kit | 50 gp | L |
 | Entertainer's outfit | 3 gp | 1 |
 | Exotic saddle | 60 gp | 3 |
@@ -13767,12 +13803,12 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Piton | 1 sp | L |
 | Plush toy | 2 sp | -- |
 | Pole (10 ft) | 5 cp | 2 |
-
-| **Item** | **Cost** | **Enc.** |
-| --- | --- | --- |
 | Poison ring | +20 gp | - |
 | Portable ram | 10 gp | 3 |
 | Potent Acid (vial) | 30 gp | L |
+
+| **Item** | **Cost** | **Enc.** |
+| --- | --- | --- |
 | Pouch | 5 sp | L |
 | Quill | 1 sp | -- |
 | Quiver | 3 gp | 1 |
@@ -13817,7 +13853,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Winter outfit | 8 gp | 2 |
 | Wooden holy symbol | 1 gp | L |
 
-Any sufficiently advanced technology is indistinguishable from magic. (Arthur C. Clarke, from Profiles of the Future)
+> Any sufficiently advanced technology is indistinguishable from magic. (Arthur C. Clarke, from Profiles of the Future)
 
 **Potent Acid**. As an Action, you can splash the contents of this vial on a creature within 1 meter of you or throw the vial up to 6 meters, shattering it on impact. In either case, make a ranged Attack Roll against the creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage in the first round and 1d6 in the second round.
 
@@ -13893,7 +13929,7 @@ Any sufficiently advanced technology is indistinguishable from magic. (Arthur C.
 
 **Enhanced Healing Potion**. This generic healing potion allows you to recover 3d8+3 Hit Points.
 
->>> As much as I am personally against the purchase of magic items by characters, Healing Potions should be available.
+>>> **Healing Potion**: As much as I am personally against the purchase of magic items by characters, Healing Potions should be available.
 
 **Rations**. Rations consist of dry food suitable for long journeys, including jerky, dried fruit, hardtack, and nuts.
 
@@ -13964,6 +14000,8 @@ Profession-related checks are usually calculated as 3d6+LV/2 + Wisdom.
 For example, a *Calligraphy* check is resolved with a Wisdom check; if the character has suitable tools (*Calligrapher's Supplies*) they get a +2 bonus to the check.
 
 If the character makes a check using specific tools or implements, they receive a +2 bonus.
+
+	
 
 | **Item** | **Cost** | **Enc.** | **Item** | **Cost** | **Enc.** |
 | --- | --- | --- | --- | --- | --- |
@@ -14164,6 +14202,8 @@ The prices listed are daily, so those who wish to calculate their cost of living
 The choice of lifestyle can have consequences. A character who maintains a wealthy lifestyle may more easily make contacts with the rich and powerful, but risks attracting thieves. Similarly, a poor lifestyle might help avoid criminals but will hardly allow for making important contacts.
 
 **Lifestyle Expenses, per day**
+
+	
 
 | **Lifestyle** | **Price** | **Lifestyle** | **Price** |
 | --- | --- | --- | --- |
@@ -14377,6 +14417,8 @@ Creatures of Size larger or smaller than Medium have bonuses or penalties given 
 
 **Table: Strength check modifiers based on your size**
 
+	
+
 | **Size** | **Mod.** | **Size** | **Mod.** |
 | --- | --- | --- | --- |
 | Fine | -16 | Large | +4 |
@@ -14399,7 +14441,7 @@ From lifeless deserts to trap-filled dungeons, the environment helps define the 
 
 ### Vision and Light
 
-The different functioning of light sources aims to make exploration darker, more obscure and difficult, especially in caves and areas without light sources. No more groups casting Light every minute or shouting *Darkvision!*. Darkness helps imagination and raises the level of tension. Emphasize the crackling of the torch flame, the wavering and sometimes near-extinguishing due to sudden drafts. Make what's around the characters mysterious!
+>>> **Light and Darkness**: The different functioning of light sources aims to make exploration darker, more obscure and difficult, especially in caves and areas without light sources. No more groups casting Light every minute or shouting *Darkvision!*. Darkness helps imagination and raises the level of tension. Emphasize the crackling of the torch flame, the wavering and sometimes near-extinguishing due to sudden drafts. Make what's around the characters mysterious!
 
 In a natural environment, lighting can take on different gradations, and these gradations help understand how far a creature can see.
 
@@ -14415,6 +14457,8 @@ Many spells and objects use *real game time* as duration, meaning that rounds or
 
 **Table: Light sources**
 
+	
+
 | **Light** | **Radius in meters** |  | **Duration** |
 | --- | --- | --- | --- |
 | **Source** | **Light** | **Dim Light** | |
@@ -14428,7 +14472,7 @@ Many spells and objects use *real game time* as duration, meaning that rounds or
 
 The duration indicated is expressed, when in minutes or hours, as real game time duration.
 
->> Twilight or Darkvision?: The darkness that permeates the Earth is not just a lack of light but is alive and pulsing. Even though many of the new races should be able to see in the dark, this is not the case. Tazher and Calicante have made the darkness impenetrable for anyone.
+>> **Twilight or Darkvision?**: The darkness that permeates the Earth is not just a lack of light but is alive and pulsing. Even though many of the new races should be able to see in the dark, this is not the case. Tazher and Calicante have made the darkness impenetrable for anyone.
 
 **Dim light** is the light beyond a light source. It's walking through a 3-meter corridor if it's only illuminated by light candles, it's a night with a full moon, it's a slightly obscured area.
 Generally speaking, a light source creates dim light in a radius twice that of normal light. **A creature in Dim Light has a -2 penalty to Awareness checks and a -1 penalty to Attack Rolls**.
@@ -14444,7 +14488,7 @@ A **blind character** or one fighting in darkness (and cannot see in darkness) h
 - A creature with **Low-Light Vision** sees without problems up to the distance, as a circular radius around the light source, indicated in Dim light, or indicated by the race if smaller, beyond is darkness.
 - A creature with **Darkvision**  sees, within the radius indicated by its Darkvision, in normal light and dim light conditions without problems, while in darkness it has -2 Awareness and to Survival for spotting traps. Darkvision is a black and white vision.
 
->> Note on light sources: You will have noticed or will soon notice that magical light sources work differently, often lasting much less or generating little light. This is due to the will of a Patron and as such only a Patron can nullify its effects (or the Narrator!).
+>> **Note on light sources**: You will have noticed or will soon notice that magical light sources work differently, often lasting much less or generating little light. This is due to the will of a Patron and as such only a Patron can nullify its effects (or the Narrator!).
 
 ### Darkness
 
@@ -14522,6 +14566,8 @@ Objects made of lighter materials might inflict half or less of the indicated da
 Additionally, if the object falls from a distance less than 3 meters, it inflicts half the indicated damage. If an object falls from a distance greater than 20 meters, it inflicts double damage. The falling object suffers the same amount of damage that it inflicts.
 
 **Table: Damage from Falling Objects**
+
+	
 
 | **Object Size** | **Damage** |
 | --- | --- |
@@ -14826,7 +14872,7 @@ The dungeon is tilted. The creatures are infuriated because they can't play marb
 
 Of all the strange places an adventurer can explore, none is more lethal than a dungeon. These labyrinths, full of deadly traps, hungry monsters, and marvelous treasures, test every skill and ability of the characters. These rules can be applied to any type of dungeon, from a ship wreck to a vast complex of underground caves.
 
->>> The dungeon, cave, catacomb, den, underground ecosystem... call it what you prefer, it's a cornerstone of adventure!
+>>> **Dungeon!**: The dungeon, cave, catacomb, den, underground ecosystem... call it what you prefer, it's a cornerstone of adventure!
 
 | A dungeon is a recipe made of humidity, stench, stale air, dirt, mud, remains of creatures, traps, slimes, traps (be generous...), monsters, enemies, monsters (be generous!), darkness, sinister noises, fungi, creaks, yelps, screams, moans.. but also of fear, tension, thrill terror | horror, emphasis, anger, pain, disappointment and treasures!!! |
 | --- | --- |
@@ -14935,6 +14981,8 @@ Sometimes brick walls (stones stacked one on top of another and held together wi
 
 **Table: Digging a tunnel**
 
+	
+
 | **Miner** | **Material to Dig (1 minute)** |  | |
 | --- | --- | --- |
 | **Earth** | **SoftStone** | **Hard Stone** |
@@ -15014,6 +15062,8 @@ Sometimes ledges have a railing. In these cases, characters get a +1d6 bonus to 
 A **Critical Failure** in a Strength check (Fortitude ST with Strength) means having hurt oneself in the breaking attempt. Until at least 10 minutes pass, it is no longer possible to break down a door.
 
 Doors inside dungeons are much more than simple entrances or exits. Often they can be actual encounters. Dungeon doors come in three basic types: wood, stone, and iron.
+
+	
 
 | **Door Type** | **Typical thickness** | **Hardness** | **Hit Points** | **DC to break down** | |
 | --- | --- | --- | --- | --- |
@@ -15176,7 +15226,7 @@ A Reflex Saving Throw DC 14 is required or suffer 2d6 slashing damage.
 
 > One adventure is a reasonable result. Two are better, three deserve to be handed down, and four... no one will ever dispute four adventures. (John Steinbeck)
 
-One who is on guard runs less danger, even if they are safe. (Publilius Syrus)} 
+One who is on guard runs less danger, even if they are safe. (Publilius Syrus)}
 
 The world is full of dangers beyond dragons and ravenous aberrations. Hazards are threats present in the environment and have much in common with traps, but they are usually part of the place rather than being built. Hazards are divided into three main categories: environmental, living, and magical.
 
@@ -15317,16 +15367,16 @@ This table indicates the duration of guard shifts and the total rest time of the
 | **members** | **Duration** | **Duration** |
 | 2 | 8 h | 16 h |
 | 3 | 4 h | 12 h |
-| 4 | 2 h and 30 min. | 10 h and 30 min. |
+| 4 | 2 h 30min. | 10 h 30min. |
 | 5 | 2 h | 10 h |
-| 6 | 1 h and 30 min. | 9 h and 30 min. |
+| 6 | 1 h 30min. | 9 h 30min. |
 
 A **sudden noise** grants an Awareness check at DC 15, or equal to the opponent's Stealth check +8, to wake up.
 ---
 
 ## Adventures and Traps
 
-Whoever sets the trap in the same place will never catch any iguana. (African Proverb)
+> Whoever sets the trap in the same place will never catch any iguana. (African Proverb)
 
 Almost anywhere you can encounter a trap. Traps can be magical or mechanical in nature. Mechanical traps include pits, arrows, falling boulders, water-filled rooms, rotating blades, and anything else that depends on a mechanism to operate. Magic traps are magical trap devices or spell traps. Magic trap devices, when activated, generate the effects of a spell, while spell traps are spells such as glyph of warding and symbol that function as traps.
 
@@ -15838,7 +15888,7 @@ Here are additional traps for your enjoyment.
 | **Reset:** | none |
 | **Effect:** | like the spell Meteor Swarm. DC 28 |
 
->> Tups and the trap: In this example I bring you the old-school approach when traps were presumed to exist. Nothing prevents the Narrator from allowing Survival or Disable Device checks. I can only say that this approach is more engaging.
+>> **Tups and the trap**: In this example I bring you the old-school approach when traps were presumed to exist. Nothing prevents the Narrator from allowing Survival or Disable Device checks. I can only say that this approach is more engaging.
 
 *Narrator*: a 3-meter wide corridor leads north, into darkness.
 
@@ -15870,7 +15920,7 @@ Do you proceed down the corridor?
 
 Freely inspired by \href{https://friendorfoe.com/d/Old
 
->>> A visible/obvious trap forces players to interact with it, to work hard to understand how it works and be ingenious to avoid or disable it. Whenever possible, avoid resolutions based solely on die rolls (Search for traps/Disable traps), rather reward the player's ingenuity, even if simple but creative, to avoid danger... and maybe sooner or later they'll remember to retrieve that crowbar...!
+>>> **Obvius traps**: A visible/obvious trap forces players to interact with it, to work hard to understand how it works and be ingenious to avoid or disable it. Whenever possible, avoid resolutions based solely on die rolls (Search for traps/Disable traps), rather reward the player's ingenuity, even if simple but creative, to avoid danger... and maybe sooner or later they'll remember to retrieve that crowbar...!
 ---
 
 # Poisons, Potions and Diseases
@@ -15907,7 +15957,7 @@ Drinking a potion held in hand costs 1 Immediate Action; making an unconscious c
 
 If the character **spends 1 minute** drinking a Healing or Natural Potion, it will have maximized effect.
 
->>> The poisons presented here are just some of the many that exist and are possible. Use them as guidelines. If due to your ethics and style you don't like poisons, especially the nastier ones, I suggest using the Generic Potions you'll find at the end of the chapter. They are milder poisons and less personal, probably more easily usable by players as well.
+>>> **Poison**: The poisons presented here are just some of the many that exist and are possible. Use them as guidelines. If due to your ethics and style you don't like poisons, especially the nastier ones, I suggest using the Generic Potions you'll find at the end of the chapter. They are milder poisons and less personal, probably more easily usable by players as well.
 
 ### Poisoned
 
@@ -15923,7 +15973,7 @@ If the character **spends 1 minute** drinking a Healing or Natural Potion, it wi
 
 If you are exposed to different poisons, you must make a Saving Throw for each type of poison taken.
 
->> Poison?: {Poison is a double-edged sword. As long as you're using it, it's fine, but if someone uses it against you, maybe the same one, it becomes a problem. There are also ethical aspects to using poisons; consider whether your Traits allow you to use poisons and what types.
+>> **Poison?**: {Poison is a double-edged sword. As long as you're using it, it's fine, but if someone uses it against you, maybe the same one, it becomes a problem. There are also ethical aspects to using poisons; consider whether your Traits allow you to use poisons and what types.
 
 ## Applying Poison
 
@@ -15950,7 +16000,7 @@ Once the First Aid check has been made, it is no longer possible to repeat it un
 
 Continuous First Aid treatment for 8 hours allows for a new Saving Throw with a +1d6 bonus after the poison's activation if it is still active.
 
-> I believe a leaf of grass is no less than a day's work of the stars. (Walt Whitman)}
+> I believe a leaf of grass is no less than a day's work of the stars. (Walt Whitman)
 
 ## Creating Natural Poisons and Potions
 
@@ -15966,7 +16016,7 @@ A Potion that ***Removes*** a condition is effective if its DC is higher than th
 
 The following examples represent only some of the possible poisons. All costs are expressed in Gold Coins. Poisons are presented, especially in the Monster Compendium, with this notation: Poison Name, Use (I/R/F/C), Onset time, Saving Throw DC, Effect.
 
->>> Poisons are part of the long tradition of problems and adversities in role-playing games. When you want to use a poison, first think about why it's there, who it was to be used for, for what purpose. Not all poisons need to kill; a skilled thief might even use stunning poisons or ones that weaken the will of his target just enough to get them to open the safe.
+>>> **Not only venom**: Poisons are part of the long tradition of problems and adversities in role-playing games. When you want to use a poison, first think about why it's there, who it was to be used for, for what purpose. Not all poisons need to kill; a skilled thief might even use stunning poisons or ones that weaken the will of his target just enough to get them to open the safe.
 
 ## How to find the little plants...
 
@@ -16011,7 +16061,6 @@ To *find* the ingredients to prepare **natural potions**, it is necessary to pas
 The Saving Throw is always on Fortitude unless otherwise specified
 
 Lost ability score points are recovered at a rate of 1 per day if not permanent or otherwise indicated.
----
 
 **Table: Natural Potions (cost in gold coins)**
 
@@ -16267,9 +16316,9 @@ Examples of Diseases:
 
 # Movement and Transport
 
-My left foot works perfectly fine, but I still couldn't walk if I didn't have the right one! (Madagascar 3 - Europe's Most Wanted, Film)
+> My left foot works perfectly fine, but I still couldn't walk if I didn't have the right one! (Madagascar 3 - Europe's Most Wanted, Film)
 
-When you can no longer run, walk fast; when you can no longer walk fast, walk; when you can no longer walk, use a cane; but never hold yourself back. (Mother Teresa of Calcutta)}
+When you can no longer run, walk fast; when you can no longer walk fast, walk; when you can no longer walk, use a cane; but never hold yourself back. (Mother Teresa of Calcutta)
 
 Movement can be distinguished based on which situation it applies to.
 
@@ -16345,25 +16394,26 @@ A creature larger than medium can share its squares only if the other creature i
 
 E.g. a Large sized monster can share its space only with a Small or smaller creature, if it were Huge it could share it with a Medium or smaller creature.
 
->> Tups in the tunnel: Tups is with his companions in a narrow tunnel in single file. He is in the fourth position.
+>> **Tups in the tunnel**: Tups is with his companions in a narrow tunnel in single file. He is in the fourth position.
 
 Suddenly an enemy appears in front and Tups is the quickest to react, using a Move Action ***he passes through*** the 3 companions in front of him, remaining **confined** with the first in line.
 
 He could decide to (among various possibilities):
 
+\beginitemize[leftmargin=*]
 - stay still without moving forward, let the companions in front of him act first.
 - remain confined and attack. 2 Actions remain.
 - push the companion (1 Action) into the previous square, making him become confined with another companion. 1 Action remains.
 - push the companion (1 Action) into the next square! making him pass through the enemy's square. 1 Action remains.
 - go back (1 Action) to his initial square. 1 Action remains.
 - try to pass through the opponent (1 Action), but if he fails he would be confined with the companion, damaging both and would only have 1 other Action left
+\enditemize
 
 ### Exchanging Places
 
 A character in contact with another creature can use **one Action** to **exchange places** with it. If the creature is hostile, an Athletic Check opposed to a Fortitude Saving Throw is required to succeed in exchanging places. For each size difference, whoever has the larger one takes a +1d6 bonus to the check. It costs a Reaction to the friendly creature.
 
->>> %box narratore
-If you want a crude realism then it is also difficult terrain to pass through areas where there are friendly creatures.
+>>> **Always in the path..**: If you want a crude realism then it is also difficult terrain to pass through areas where there are friendly creatures.
 
 ### Being confined with someone
 
@@ -16519,7 +16569,7 @@ These Tables are to be used for unusual animals not indicated or comparable to t
 
 ## Other Types of Movement
 
-One of the problems concerns the speed of light and the difficulties involved in trying to exceed it. You can't exceed it. Nothing travels faster than the speed of light, with the possible exception of bad news, which follows its own specific laws. (Douglas Adams)
+> One of the problems concerns the speed of light and the difficulties involved in trying to exceed it. You can't exceed it. Nothing travels faster than the speed of light, with the possible exception of bad news, which follows its own specific laws. (Douglas Adams)
 
 ### Swimming
 
@@ -16575,7 +16625,7 @@ The role of the Narrator is not easy but grants enormous privileges. Seeing your
 
 Your role is that of the great orchestrator, planner, or even landscaper if you prefer, with a few simple brushstrokes you outline the structure and then the players will add details and situations.
 
->>> OBSS wants to help you and the other players have fun. Always use common sense when applying a rule. Your purpose is not to kill the characters but to create worlds and campaigns that evolve around the characters and the world you create, their actions and decisions. Incorporate things that interest the players, keep them engaged, make them understand that the world is alive and they are part of it. If you are good, your adventures, the situations will echo in other sessions and outside the table.
+>>> **Legends**: OBSS wants to help you and the other players have fun. Always use common sense when applying a rule. Your purpose is not to kill the characters but to create worlds and campaigns that evolve around the characters and the world you create, their actions and decisions. Incorporate things that interest the players, keep them engaged, make them understand that the world is alive and they are part of it. If you are good, your adventures, the situations will echo in other sessions and outside the table.
 
 Your *work and fun* is fundamental and very important, the quality of the game session also depends on you. Your purpose is first of all to have fun, be creative, improvise, act, create ingenious situations. As long as you are having fun, it is extremely likely that the players are having fun too!
 
@@ -16648,9 +16698,9 @@ A monster doesn't have to be killed to get its Experience Points, it's enough to
 
 As far as possible, every session should include a part of role-playing, a part of exploration, three parts of combat (even many more than three), a part of rest.
 
->>> It is clear that nothing prevents you from setting up a level progression based on fixed points (miQuickne) during the adventure. Your table, your rules!
+>>> **Milestone**: It is clear that nothing prevents you from setting up a level progression based on fixed points (miQuickne) during the adventure. Your table, your rules!
 
-It may seem anachronistic when there is already the sixth edition of the most famous role-playing game in development to reward characters based on the gold taken from monsters.
+>>> **Gold per XP**: It may seem anachronistic when there is already the sixth edition of the most famous role-playing game in development to reward characters based on the gold taken from monsters.
 
 However, I can guarantee you that if your group is particularly *poor* in role-plays or simply prefers a more combative style, knowing that the collected gold equals experience can make adventuring much more dynamic and exciting.
 
@@ -16658,7 +16708,7 @@ OBSS refers to the principles of OSR and as such the exploration and combat phas
 
 ## Encounters
 
-> What is life without hope? A throw of dice in darkness, in delirium. (Ambrogio Bazzero)}
+> What is life without hope? A throw of dice in darkness, in delirium. (Ambrogio Bazzero)
 
 An encounter is a moment of tension and hope, fear and challenge. It's the opportunity to show and manifest one's abilities and to work as a group.
 
@@ -16683,6 +16733,7 @@ Note that this reference guide to creating an encounter assumes a group of four 
 **Table: Determining Encounters**
 
 {@{}ll@ % @{} removes extra padding
+	
 
 | **difficulty** | **Challenge Rating** |
 | --- | --- |
@@ -16719,6 +16770,8 @@ Starting from an established Challenge Rating (9), follow this table to establis
 
 **Table: Challenge Rating Weight for encounter calculation**
 
+	
+
 | **Factor** | **\% Weight** | **Factor** | **\% Weight** |
 | --- | --- | --- | --- |
 | -6/-7 | 5 | -2 | 65 |
@@ -16742,7 +16795,7 @@ Opponents with Challenge Rating less than 8 compared to the APL are counted, wei
 
 Opponents with CR equal to 1/2 consider them as CR 1, with CR less than 1/2 consider them as CR 0.
 
-Remember at the end of each *encounter* or *challenge* to note down the Traits that have characterized the actions of the characters. You can grant these partial points at the first opportunity for the characters to rest.
+>>> **Remember Traits**: Remember at the end of each *encounter* or *challenge* to note down the Traits that have characterized the actions of the characters. You can grant these partial points at the first opportunity for the characters to rest.
 
 ### Encounters too fast
 
@@ -16756,7 +16809,7 @@ It's obviously possible that the encounter isn't well calibrated and you've actu
 
 Remember that *monsters* can also perform Actions like Push, Grapple, Knock Down, Flank; don't limit yourself in your choices.
 
-The essence of the world is play... we play the serious, we play the authentic, we play reality, work and struggle, we play love and death, and we even play the game itself. (Eugen Fink)
+> The essence of the world is play... we play the serious, we play the authentic, we play reality, work and struggle, we play love and death, and we even play the game itself. (Eugen Fink)
 
 ### The Boss Fight
 
@@ -16852,7 +16905,7 @@ Make it clear to the player that thanks to their interpretation they have that b
 
 At the same time, there could be situations that prove unpleasant to manage and play for some players. Be very careful in this case; going against a player's sensibility, a friend's, is not like going against a character's ethics or morals. If you perceive a sense of discomfort and embarrassment, stop the game immediately and clarify the situation with the players, and resume only when you have agreed on how to modify the situation to prevent it from happening again.
 
-{Focus on people, not rules. Push for a group style of play; roleplaying is fun but should not hinder the plan; support your companions. (Frank Mentzer)}
+> {Focus on people, not rules. Push for a group style of play; roleplaying is fun but should not hinder the plan; support your companions. (Frank Mentzer)
 
 ## Changing Character
 
@@ -16979,6 +17032,8 @@ In conclusion, Session Zero is fundamental for establishing a solid foundation f
 
 Even in the best already well-established group, it's always good to remember and share these suggestions at the beginning of each campaign.
 
+> {
+The most complex problems have simple and easy-to-understand but wrong solutions (Arthur Bloch).... but if they're fun and everyone likes them, then use them! (NdA)
 ---
 
 # Treasures
@@ -17042,7 +17097,7 @@ Unlike gems, many of these items have established values, but you can always inc
 
 **Normal Ornaments** (100-500 gp): Most ornaments are made with silver, gold, jade, or coral, and often decorated with semi-precious gems or medium-quality precious stones. Normal ornaments include all types of minor ornaments plus bracelets, necklaces, and brooches.
 
->>> Never overdo treasures, especially magical ones. A treasure should not become a habit. Coins, gems, and consumables are one thing, but true treasures, those magical, special, unique ones, are another.
+>>> **Attention to treasures**: Never overdo treasures, especially magical ones. A treasure should not become a habit. Coins, gems, and consumables are one thing, but true treasures, those magical, special, unique ones, are another.
 
 Respecting the Law of Reward does not mean filling the characters' pockets, otherwise they will get bored of risking their lives for new treasures and items. When you make them find a magic item, always think in perspective. It's true that it can be nice to see players happy with what they've found, but then you'll be forced in the next adventure to give something even more powerful.
 
@@ -17123,8 +17178,6 @@ To finally make them safer, if ever it was necessary, in the deepest and most in
 
 If the smaller dungeons (those within 5, 6 levels) have only one *heart*, the larger and deeper ones have many more, and each time protected by stronger and more difficult to defeat creatures.
 
-Treasure is any movable thing of value, hidden or buried, of which no one can prove to be the owner. (Italian Civil Code)
-
 ## But how can magic items exist on Earth?
 
 The first Patrons have not only destroyed, upset, modified the entire geography of Earth but have also brought new races, creatures, demons, and monsters!
@@ -17138,6 +17191,8 @@ These objects are in the depths and guarded by the aberrations summoned by the P
 The new races, unlike humans, already possessed the knowledge to create these unique objects and have continued to produce them.
 
 In the century that has passed, part of the knowledge to create magic items has been learned by Elves, Dwarves, and Gnomes and partly by the Patrons themselves. Humans have begun to build fantastic objects themselves, although some of the most precious treasures remain in the terrifying gothic cathedrals and elven cities or in the infinite mines that are the homes of dwarves.
+
+> Treasure is any movable thing of value, hidden or buried, of which no one can prove to be the owner. (Italian Civil Code)
 
 As a Narrator, take advantage of the knowledge that an elderly elven wizard might have, to involve the characters in adventures to recover rare ingredients, legendary spells, mythical objects... and learn such an ancient and different culture.
 
@@ -17203,13 +17258,14 @@ When the treasure is indicated by multiple letters, the creature possesses both 
 
 # Random Generation of Treasures
 
+> {Like any unrequited love, that for things also eventually takes its toll. (Adolfo Bioy Casares)
+
 The Narrator in preparing the adventure can position the magic items they prefer, as needed, and in pure OSR style rely on random generation.
 
 The exclusively random approach is not always suggested, the results could overwhelm the adventure if not the entire campaign!
 Yet finding a dragon-slaying sword at the first level, rest assured it will generate endless adventures for the characters!
 
- %box narratore
-Earth is a world with a *rare* magic profile; magic items exist but are rare and even more so the more powerful ones. While natural potions and small trinkets can be found everywhere, it is only by actively searching, going into the depths that the best treasures can be found.
+>> **Magic items**: Earth is a world with a *rare* magic profile; magic items exist but are rare and even more so the more powerful ones. While natural potions and small trinkets can be found everywhere, it is only by actively searching, going into the depths that the best treasures can be found.
 
 ### Value of Gems and Jewelry
 
@@ -17774,6 +17830,8 @@ this **bottle** of iron has a brass stopper. You can use two actions to speak th
 
 The *identify* spell reveals that a creature is inside the flask, but the only way to determine what type of creature it is is to open the flask. A newly discovered iron flask might already contain a creature chosen by the Narrator or determined randomly.
 
+	
+
 | **d100** | **Contains** |
 | 1-50 | Empty |
 | 51-66 | Demon |
@@ -17850,6 +17908,8 @@ while wearing this **amulet** you are hidden from divination magic. You cannot b
 **Requirements:** Create Magic Items 2, Abjuration List
 
 A Bane **weapon** excels at attacking certain creatures. Against the chosen enemy, its effective bonus becomes +2. The weapon also automatically inflicts critical damage against such enemy. To randomly determine the weapon's chosen enemy, use the following table:
+
+	
 
 | d\% | Chosen enemy |
 | 01-05 | Aberrations |
@@ -18390,8 +18450,8 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 | 66-69 | You shrink as if you had cast the enlarge/reduce spell on yourself. |
 | 70-79 | You cast the Fireball spell. |
 | 80-84 | You cast the Invisibility spell on yourself. |
-| 85-87 | Leaves grow on the target. If you chose a point in space as a target, the leaves will sprout on the creature closest to that point. Unless they are torn off, the leaves will turn brown and fall off after 24 hours. |
 
+| 85-87 | Leaves grow on the target. If you chose a point in space as a target, the leaves will sprout on the creature closest to that point. Unless they are torn off, the leaves will turn brown and fall off after 24 hours. |
 | 88-90 | A stream of 1d4 x 10 gems worth 1 gp each shoots from the tip of the wand in a 9-meter long, 1-meter wide line. Each gem inflicts 1 bludgeoning damage, and their total damage is divided equally among all creatures on the line. |
 | 91-95 | A burst of sparkling, colored lights extends from you in a 9-meter radius. You and all creatures in the area must succeed on a Fortitude Saving Throw with DC 15 or be blinded for 1 minute. A creature can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself if it succeeds. |
 | 96-97 | The target's skin turns bright blue for 1d10 days. If you chose a point in space, the subject will be the creature closest to that point. |
@@ -18657,7 +18717,6 @@ The fire ignites flammable objects in the area that aren't being worn or carried
 | 02-10 | A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Narrator's choice) 9 meters into the air for 1d12 rounds. |
 | 11-20 | A treant sprouts. There's a 50\% chance that the treant is evil and attacks you. |
 | 21-30 | An animated stone statue with your features rises from the ground. It will begin to verbally threaten you. If you leave and other people come to the spot, the statue will describe you as the most dangerous criminal and urge them to find and attack you. If you are on the same plane of existence as the statue, it will always know where you are. After 24 hours the statue will become inanimate. |
-
 | 31-40 | A campfire with blue flames springs up from the ground and burns for 24 hours (or until it is extinguished). |
 | 41-50 | 1d6 + 6 Shrieking Mushroom sprout. |
 | 51-60 | 1d4 + 8 pink toads appear. Whenever a toad is touched, it transforms into a monster of Large size or smaller chosen by the Narrator. The monster remains for 1 minute and then disappears in a puff of pink smoke. |
@@ -18829,6 +18888,8 @@ while wearing this **circlet**, you can use two actions, bringing two fingers to
 
 There are four variants of this belt, each corresponding to a kind of true giant. The stone giant belt and the frost giant belt appear different but have the same effect.
 
+	
+
 | **Giant Type** | **Strength** | **Rarity** |
 | --- | --- | --- |
 | **Hill** | 5 | Rare |
@@ -18970,6 +19031,8 @@ Each face has a different effect. If the cube has insufficient charges remaining
 If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.
 
 The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
+
+	
 
 | **Spell or Item** | **Charges Lost** |
 | --- | --- |
@@ -19284,6 +19347,8 @@ with two actions, you can speak the command word of the **gem** and spend 1 char
 
 this **gem** contains a spark of elemental energy. When you use two actions to break the gem, it summons an elemental as if you had cast the Conjure Elemental spell, and the gem's magic disappears. The type of gem determines the elemental summoned by the spell.
 
+	
+
 | **Gem** | **Summoned elemental** |
 | --- | --- |
 | Red corundum | Fire elemental |
@@ -19471,6 +19536,8 @@ To create a golem, you must spend the time indicated above, working without inte
 
 Once you finish creating the golem, the book is consumed by arcane flames. The golem becomes animated when the ashes of the manual are sprinkled on it. It is under your control and understands and obeys the orders you speak to it.
 
+	
+
 | 3d6 | Golem | Time | Cost |
 | 3-4 | Clay | 30 days | 65000 gp |
 | 5-16 | Flesh | 60 days | 50000 gp |
@@ -19574,6 +19641,7 @@ You must draw each card within 1 hour of the previous draw. If you don't draw th
 
 | {>{\raggedright}p{0.15\textwidth}|>{\raggedright}p{0.1\textwidth}>{\raggedright}p{0.15\textwidth}|>{\raggedright}p{0.1\textwidth |
 | --- | --- | --- |
+		
 | **Playing Card** | **Card** | **Playing Card** | **Card** |
 | Ace of diamonds | Vizier* | Ace of hearts | Fates* |
 | King of diamonds | Sun | King of hearts | Throne |
@@ -20494,6 +20562,8 @@ you can speak the **carpet's** command word as two actions to make the carpet ho
 
 There are four sizes of flying carpet. The Narrator chooses the carpet's size or determines it randomly.
 
+	
+
 | **d100** | **Size** | **Capacity** | **Flying** |
 | --- | --- | --- | --- |
 | **(cm)** | **(Enc.)** | **Speed** |
@@ -20996,7 +21066,7 @@ The **DC**, based on the indicated skill, to create an item is 15 +2*Spell level
 
 Knowing the spell (or having it available through a Scroll) that is applied to the item is a requirement for every magic item created. The work days indicated cannot be divided into less than 6 hours per day dedicated to creation.
 
->>> The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure's balance. I suggest that NPCs, non-player characters managed by the Narrator, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
+>>> **Attentin to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure's balance. I suggest that NPCs, non-player characters managed by the Narrator, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
 
 ### Modifiers to the cost of magic items
 
@@ -21180,7 +21250,7 @@ When determining the price of an invented magic item, many factors must be consi
 
 > When an impious person curses their adversary, they curse themselves. (Sirach)
 
-If you curse a person, there will be two graves. (Japanese proverb)}
+If you curse a person, there will be two graves. (Japanese proverb)
 
 Cursed items are magic items with a potentially negative influence on the character.
 
@@ -21191,6 +21261,8 @@ The Narrator can request an Arcana check with a DC equal to 10+days spent buildi
 A curse can also manifest as a result of negative or extreme emotional influences involving an object.
 
 **Common Item Curses**
+
+	
 
 | **\%** | **Curse** |
 | 01-15 | Deception |
@@ -21204,7 +21276,7 @@ Cursed items are \hypertarget{curseditemsid}{**identified**} like any other magi
 
 If it is known that the item is cursed, the nature of the curse can be determined using the standard DC for identifying the item.
 
-A curse is always a particular *inconvenience*, not used randomly. Think carefully about the cursed items you will let the characters find because they will ask you many questions and you should be ready.
+>>> **Curse not death**: A curse is always a particular *inconvenience*, not used randomly. Think carefully about the cursed items you will let the characters find because they will ask you many questions and you should be ready.
 
 The curse doesn't need to be excessive and limiting; it can very well be ridiculous or peculiar, make sure it is characterizing. The character shouldn't feel (unless you want them to) eternally condemned; use the opportunity to build new adventures and group spirit.
 
@@ -21309,7 +21381,7 @@ Items that have drawbacks usually have positive effects on those who use them, b
 
 Unless otherwise indicated, drawbacks remain active for as long as the item remains in the character's possession. The DC of the Saving Throw to avoid these effects is equal to 10 + DC of the curse (if you have not established the difficulty, set the Saving Throw, usually on Will, at DC 25)
 
->>> The list is an example to randomly generate effects on the item's owner. Take inspiration and be creative! However, don't make a curse render it impossible to play the character; rather, it should be experienced as an opportunity to try something different. Never throw a cursed item randomly into the treasure pile; always think about what might happen and what consequences will be generated. A cursed item always requires a high level of attention and planning from the Narrator
+>>> **Curses**: The list is an example to randomly generate effects on the item's owner. Take inspiration and be creative! However, don't make a curse render it impossible to play the character; rather, it should be experienced as an opportunity to try something different. Never throw a cursed item randomly into the treasure pile; always think about what might happen and what consequences will be generated. A cursed item always requires a high level of attention and planning from the Narrator
 ---
 
 **Table: Effects of cursed magic items**
@@ -21416,9 +21488,9 @@ If wounded by a were-creature, they must make a Saving Throw as described by the
 
 # The Earth
 
-So the Earth is truly round. But I never imagined it was blue. Why do men who live on such a beautiful planet do nothing but fight among themselves? (Nadia - The Secret of Blue Water)
+> So the Earth is truly round. But I never imagined it was blue. Why do men who live on such a beautiful planet do nothing but fight among themselves? (Nadia - The Secret of Blue Water)
 
-The planet doesn't belong to us, we belong to it. We are passing through, it remains. (Pierre Rabhi)}
+The planet doesn't belong to us, we belong to it. We are passing through, it remains. (Pierre Rabhi)
 
 The Earth, meant as the planet itself, as we have known it, is now a faded memory.
 
@@ -21566,14 +21638,13 @@ Much of the lands between France and Germany have returned to a more primitive a
 The cold lands of northern Europe isolated themselves after their dead rose again. This time by the will of the people, help was sought from Krondal and Nedraf so that they could save them. Nedraf gave them the weapons and the experience to use them, Krondal, like a true madman, brought back the ancestral memories of a warrior past made of myths and Gods forgotten, or rather ignored, by most.
 Thus Krondal has recreated as his servants Aegir, Alfadur, Hel, Idhunn, Norne, not to mention the better-known Thor, Loki, Valkyries...
 
->>> %box narratore
-Use real terrestrial physical geographic maps to help you with the environment. Look online for maps of ancient cities. You have at your disposal the greatest setting ever created; it's just a matter of populating it with the myths, legends, stories, and fantasy that are already around you.
+>>> **A world at feet**: Use real terrestrial physical geographic maps to help you with the environment. Look online for maps of ancient cities. You have at your disposal the greatest setting ever created; it's just a matter of populating it with the myths, legends, stories, and fantasy that are already around you.
 
 Every city has its historical legends, discover them and play them together!
 
 ## The Portals
 
-Never open doors to those who open them without your permission. (Stanislaw Jerzy Lec)}
+> Never open doors to those who open them without your permission. (Stanislaw Jerzy Lec)
 
 This proliferation of small, large, durable, or instantaneous Portals has caused a rift in the dimensional fabric of Earth, generating in turn a proliferation of spontaneous tunnels of varying sizes and duration.
 
@@ -21585,20 +21656,20 @@ Not all Portals are dangerous; many simply function as transport gateways from o
 
 You can invent a thousand and one adventures behind the Portals; each is a possibility of a different world and a multitude of adventures.
 
- %box narratore
-You should understand the portals as a key to a thousand and one adventures. Each portal will lead you to a different place, fantastic as you intend it. Do you want an adventure in a primitive world, set in modern society, on a planet somewhere? Use the portal to open the doors of your imagination.
+>>> **Portals**: You should understand the portals as a key to a thousand and one adventures.
+Each portal will lead you to a different place, fantastic as you intend it. Do you want an adventure in a primitive world, set in modern society, on a planet somewhere? Use the portal to open the doors of your imagination. The characters themselves might not be *earthly* and seek a way to return home...
 
-The characters themselves might not be *terrestrial* and seek a way to return home...
+>>> **Settings**: Use the setting you prefer most! This world is an example of a chaotic and slightly anarchic world dominated by the continuous mood changes of capricious deities.
+Choose your setting, use Greyhawk, Dark Sun, Mystara, Midgard, whatever you prefer. You are the Narrator, you are the world, you are the one projecting light and darkness, OBSS will provide you with the tools to conduct your campaigns!
 
->>> Use the setting you prefer most! This world is an example of a chaotic and slightly anarchic world dominated by the continuous mood changes of capricious deities.
-Choose your setting, use Greyhawk, Dark Sun, Mystara, whatever you prefer. You are the Narrator, you are the world, you are the one projecting light and darkness, OBSS will provide you with the tools to conduct your campaigns!
+> First Chaos came to be, then broad-bosomed Gaia, the ever-sure foundation of all the deathless ones. Hesiod's Theogony
 ---
 
 ## The Calendar
 
-I've often ended up on a calendar. But never for a specific date. (Marilyn Monroe)
+> I've often ended up on a calendar. But never for a specific date. (Marilyn Monroe)
 
-It all began on the thirteenth hour of the thirteenth day of the thirteenth month... We were there to discuss the printing errors in the calendars purchased by the school. (The Simpsons)} 
+It all began on the thirteenth hour of the thirteenth day of the thirteenth month... We were there to discuss the printing errors in the calendars purchased by the school. (The Simpsons)}
 
 Based on the lunar cycle, it has 12 months of 28 days each.
 
@@ -21663,7 +21734,7 @@ The truth is not for us to know.
 
 ## The Secular Cycles
 
-Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain.
+> Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain.
 
 And he seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years, and threw him into the pit, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while. (Revelation 20:1-3, apostle John)
 
@@ -21729,7 +21800,7 @@ The strength of the adversary is in the confidence in describing the situation, 
 
 Don't reduce everything to an MMORG where the goal is just to kill everything and everyone; there can always be many choices if you put in a little effort.
 
->> Facing Monsters: {
+>> **Facing Monsters**: {
 Let this old man give you a couple of tips, young adventurer!
 
 - Not all enemies are defeated with a sword; many times a mace is also needed!
@@ -22139,6 +22210,8 @@ With this system, every 1000 Experience Points you level up. All the considerati
 
 **Table: Experience Points for Challenge Rating**
 
+	
+
 | **Challenge Rating** | **XP** | **Challenge Rating** | **XP** |
 | --- | --- | --- | --- |
 | Easy | 20 | Medium | 30 |
@@ -22184,6 +22257,7 @@ Roll 1d6 for the first digit and a d12 for the second digit. Cooking times can b
 
 **Table: 1d6-12 Fantasy Monster Anatomical Parts**
 
+| **6d12** | **Parts** |
 | 11 | Digestive sack |
 | 12 | Photoreactive gel |
 | 13 | Translucent bulb |
@@ -22289,7 +22363,7 @@ Roll 1d6 for the first digit and a d12 for the second digit. Cooking times can b
 
 # The Monsters
 
->>> The creatures presented here are meant to be a substantial example of the adversaries your characters might encounter. Be aware, not all of them are necessarily enemies or have negative intentions.
+>>> **Monsters**: The creatures presented here are meant to be a substantial example of the adversaries your characters might encounter. Be aware, not all of them are necessarily enemies or have negative intentions.
 
 More civilized creatures will have their own individual ethical and moral conduct, and even within the same group of adversaries, some might be more hostile or simply indifferent.
 
@@ -33848,6 +33922,18 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 10 (1d10 + 5) piercing damage.
 
+>> **Il Saurovall**: Legend has it that when Calicante first descended to Earth, he saw the *horses* and felt an incredible disgust for these hideous beings, making them all explode with a simple act of will. Not satisfied, moments later all *equines* met the same fate.
+
+Donkeys, mules, horses, zebras... only camels and dromedaries, not being true equines, were spared, though many think Calicante is simply ignoring them...
+
+Nethergal, rather shocked by the loss of a useful animal for carrying messages and rideable over long distances, and lacking the power to create a new creature from nothing, turned to Efrem and Orlaith. She asked Efrem to identify an animal that could be robust, fast, and suitable for riding, while asking Orlaith to instill obedience and courage in it.
+
+Efrem, knowing that Torbiorn had brought millions of his beloved dinosaurs to the planet, chose the Parasaurolophus and, with Orlaith's support, made it more compact, small, tame, herbivorous: perfect for riding.
+
+He also created a smaller, dwarf version that could adapt to carrying creatures of small size.
+
+Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost displeasure!
+
 ## Saurovall, Draft
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 0 Con 1 Int -3 Wis 0 Cha -2
@@ -33871,18 +33957,6 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 7 (2d4 + 2) bludgeoning damage.
-
->> Il Saurovall: Legend has it that when Calicante first descended to Earth, he saw the *horses* and felt an incredible disgust for these hideous beings, making them all explode with a simple act of will. Not satisfied, moments later all *equines* met the same fate.
-
-Donkeys, mules, horses, zebras... only camels and dromedaries, not being true equines, were spared, though many think Calicante is simply ignoring them...
-
-Nethergal, rather shocked by the loss of a useful animal for carrying messages and rideable over long distances, and lacking the power to create a new creature from nothing, turned to Efrem and Orlaith. She asked Efrem to identify an animal that could be robust, fast, and suitable for riding, while asking Orlaith to instill obedience and courage in it.
-
-Efrem, knowing that Torbiorn had brought millions of his beloved dinosaurs to the planet, chose the Parasaurolophus and, with Orlaith's support, made it more compact, small, tame, herbivorous: perfect for riding.
-
-He also created a smaller, dwarf version that could adapt to carrying creatures of small size.
-
-Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost displeasure!
 
 ## Saurovall, Riding
 - **Size/Type**: Large beast, unaligned
@@ -34873,38 +34947,6 @@ The Oozekin template gives the creature a *gelatinous* and fluid appearance
 
 ## Monster List by Challenge Rating
 
-**Accelerated**: an Accelerated creature gains a number of bonus Actions per round equal to the Accelerated value. The duration is indicated after the *"\"*. When the duration is indicated, it means until the end of the expiration round. Ex. Accelerated 1/3r, Accelerated 2/-.
-
-**Increase Damage Category**: when the rule tells you to increase the size or category of a die, follow this pattern.
-
-1d4 -> 1d6 -> 1d8 -> 1d10 (1d12)-> 2d6 -> 2d8 -> 2d10 -> 3d6 -> 3d8 -> 3d10.
-
-**Blinded**: The character cannot see anything. They suffer a -2 penalty to most Skills based on Strength and Dexterity.
-
-All checks or activities based on vision (such as reading, or any Awareness checks based on sight) automatically fail. All opponents are considered to have invisibility against the blinded character.
-
-Blinded characters always consider terrain as difficult and must make an Acrobatics check with DC 12 to move faster than half their speed. Creatures who fail this check fall Prone. Characters who remain blinded for long periods may become accustomed to some of these penalties and begin to overcome some of them, at the Narrator's discretion.
-
-Whoever attacks a creature that cannot see them has a -1d6 penalty to Attack Rolls, while the invisible creature attacking a creature that cannot see it has +1d6 to Attack Rolls.
-
-**Charmed**: A charmed creature cannot attack or target the charmer with attacks, special abilities, or harmful magical effects.
-
-Any potential threat caused by the charmer, such as an approaching hostile creature, allows the charmed creature a new Saving Throw against the charm effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the charmed creature, automatically breaks the effect.
-
-An ally of the charmed creature can shake them to allow a new Saving Throw by spending 2 Actions.
-
-The charmer has +1d6 on any Skill check to socially interact with the creature.
-
-The Charmed effect ends if the creature becomes dying.
-
-**Fatigued**: A fatigued character cannot run or Charge and suffers a -1 penalty to Defense, Check (Attack Rolls, Magic Check, Profiency Check and Saving Throws) and Movement. If they do anything normally fatiguing, they increase their level of Fatigue and also take penalties to movement and basic Skill checks.
-
-If a character does not sleep at least 8 hours (Fort Save DC 17) within 24 hours or sleeps in medium or heavy armor, they are fatigued in the morning.
-
-After 1 hour of complete rest (or Lesser Restoration), a Fatigued 2 character becomes Fatigued.
-
-**Table: Fatigue Levels**
-
 | **Conditions** | **Penality** | **Recovery** |
 | --- | --- | --- |
 | Fatigued | 1 | 1h |
@@ -35059,6 +35101,8 @@ Unless otherwise indicated, bleed damage stacks up to a maximum of 10 Hit Points
 If the creature becomes dying, goes to negative Hit Points, and is then brought back to life, it loses the Bleeding effects.
 
 **Vulnerability**: works opposite to Resistance. The damage is doubled before any Saving Throw.
+
+> Facilis descensus Averno (Easy is the descent to Hell). Virgilio - Eneide
 
 ---
 
@@ -35246,6 +35290,8 @@ For any feedback or suggestions, please open an issue on GitHub, or send me an e
 
 # Acknowledgments
 
+> To my friends, to my adventure companions, to all the players who close their eyes and let themselves be guided by imagination into wonderful adventures. (Andres Zanzani)
+
 This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at https://
 dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode
 
@@ -35259,6 +35305,9 @@ The images in the manuals are unlicensed or in the public domain. Images marked 
 
 Before any use of OBSS or parts of it, please contact me.
 
+\hfill
+
+\hfill
 ---
 
 # My Options
