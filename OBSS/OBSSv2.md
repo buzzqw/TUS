@@ -13528,14 +13528,14 @@ Imbracciare uno scudo occupa la mano ed il braccio.
 
 	
 
-| **Scudi** | **Costo** | **Bonus Difesa** | **penalità TC** | **Prova magia** | **Tipo** | **Ingombro** |
+| **Scudi** | **Costo** | **Difesa** | **penalità TC** | **Prova magia** | **Tipo** | **Ingombro** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Scudo leggero di legno | 3 mo | 1 | 0 | +2 | L | 1 |
-| Scudo leggero di metallo | 9 mo | 1 | 0 | +2 | L | 1 |
-| Scudo medio legno | 5 mo | 2 | 0 | +4 | M | 2 |
-| Scudo medio metallo | 12 mo | 2 | 0 | +4 | M | 2 |
-| Scudo pesante di legno | 9mo | 3 | 1 | +6 | P | 4 |
-| Scudo pesante di metallo | 20 mo | 3 | 1 | +6 | P | 4 |
+| Scudo leggero di legno | 3 mo | +1 | 0 | +2 | L | 1 |
+| Scudo leggero di metallo | 9 mo | +1 | 0 | +2 | L | 1 |
+| Scudo medio legno | 5 mo | +2 | 0 | +4 | M | 2 |
+| Scudo medio metallo | 12 mo | +2 | 0 | +4 | M | 2 |
+| Scudo pesante di legno | 9mo | +3 | 1 | +6 | P | 4 |
+| Scudo pesante di metallo | 20 mo | +3 | 1 | +6 | P | 4 |
 ### Indossare e Togliere Armature
 
 Indossare e togliere armature è una operazione che richiede tempo ed attenzione, farlo in fretta non aiuta ed anzi tende a peggiorare la protezione fornita.
