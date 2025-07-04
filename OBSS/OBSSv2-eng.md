@@ -13463,9 +13463,9 @@ Whenever the Attack Roll is a Critical Failure, there has been a problem with th
 | 5 | The sight is inaccurate. The next shot has -2 to the Attack Roll. |
 | 6 | You inadvertently fire two shots/bursts. The second doesn't hit anyone and just consumes bullets. |
 | 7 | The weapon is not adequately lubricated. Inserting the next magazine costs 1 full round. |
-| 8 | The magazine comes loose/falls. You must load a new magazine (2 Actions) or recover and put back the previous magazine. |
 
 | **\#** | **Effect** |
+| 8 | The magazine comes loose/falls. You must load a new magazine (2 Actions) or recover and put back the previous magazine. |
 | 9 | The recoil is so strong that the character falls prone. |
 | 10 | Bullet very stuck. To free the shot you must make a Craft check DC 15, 1 round. |
 | 11 | The weapon overheats and cannot be used until the end of the next round. |
