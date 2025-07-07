@@ -910,7 +910,7 @@ aggiornata versione POD 2025/06/10
 
 aggiornata versione POD 2025/07/04
 
-1.0.2
+1.0.2 migliorie al layout elenco manovre d'arme,
 
 
 > valutare:

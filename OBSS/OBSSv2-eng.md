@@ -1159,12 +1159,12 @@ Some Patrons naturally embody or resonate with specific archetypes more strongly
 | Rezh | The Tyrant, The Shadow, The Shapeshifter |
 | Shayalia | The Shadow, The Lover, The Shapeshifter |
 | Sixiser | The Hermit, The Sage, The Shadow |
-
 | Sumkjr | The Hero, The Ally, The Mentor, The Martyr |
-| --- | --- |
 | Tàhil | The Shadow, The Tyrant, The Outlaw |
 | Tazher | The Shadow, The Outlaw, The Shapeshifter |
+
 | Thaft | The Everyman, The Ally, The Caregiver |
+| --- | --- |
 | Torbiorn | The Tyrant, The Shadow, The Ruler |
 
 ## Using Archetypes in Game
@@ -1719,7 +1719,7 @@ Awareness is one of those proficiencies that comes into play very often.
 
 Make it so that the characters' questions and reasoning reveal the clues; an Awareness check can be made whenever there is something to search for that is not obvious, something that must be searched for otherwise it is not immediately perceptible or intuitable, something that the players want to find and that is there but they are not asking the right question.
 
->>> **Play not check**: Don't let checks govern your game. **Let the players play**, make them act, make them participate and based on what they say determine if the check is passed or not.
+>>> **Playing not Checks**: Don't let checks govern your game. **Let the players play**, make them act, make them participate and based on what they say determine if the check is passed or not.
 
 If they tell you *I convince the guard to let us pass* have them make an Intimidate (or Diplomacy) check, but if they engage in a convincing dialogue you can consider that the check has been made with a positive outcome (or negative if they haven't been able to argue!) Reward the HOW more than the WHAT.
 
@@ -2817,51 +2817,51 @@ Use this list as guidelines to stimulate the character to create their own comba
 
 - **Eye Attacks**
 
-- **\emph** - Sand in the eyes. Until the end of your next round, the opponent has -2 to their first Attack Roll
-- **\emph** - Eye scratch. Until the end of your next round, the opponent has -4 to the Attack Roll
-- **\emph** - Target dazzled. Roll 1d6, with 1-2-3 the opponent has missed their attack. Lasts until the end of the next round.
-- **\emph** - Target blinded. For 1d6 rounds, the opponent considers everyone as invisible.
-- **\emph** - One-eyed. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll; if they fail, they are permanently blinded, otherwise they suffer the effects of point 4.
+- **\emph**: Sand in the eyes. Until the end of your next round, the opponent has -2 to their first Attack Roll
+- **\emph**: Eye scratch. Until the end of your next round, the opponent has -4 to the Attack Roll
+- **\emph**: Target dazzled. Roll 1d6, with 1-2-3 the opponent has missed their attack. Lasts until the end of the next round.
+- **\emph**: Target blinded. For 1d6 rounds, the opponent considers everyone as invisible.
+- **\emph**: One-eyed. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll; if they fail, they are permanently blinded, otherwise they suffer the effects of point 4.
 - **Weapon Attacks**
 
-- **\emph** - Hit the weapon. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 2 $ for weapon size difference, or drops the weapon
-- **\emph** - Damaged weapon. The opponent's weapon inflicts one category of damage less
-- **\emph** - Hand strike. Due to pain, until the end of your next round, the opponent loses their first two attacks
-- **\emph** - Disarm the opponent. The opponent drops their weapon
-- **\emph** - Compromised hand. The opponent until dawn of the next day has -4 to the Attack Roll
+- **\emph**: Hit the weapon. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 2 $ for weapon size difference, or drops the weapon
+- **\emph**: Damaged weapon. The opponent's weapon inflicts one category of damage less
+- **\emph**: Hand strike. Due to pain, until the end of your next round, the opponent loses their first two attacks
+- **\emph**: Disarm the opponent. The opponent drops their weapon
+- **\emph**: Compromised hand. The opponent until dawn of the next day has -4 to the Attack Roll
 - **Pushes and Lunges**
 
-- **\emph** - Push the opponent 3 meters away, $ \pm 1$ for size difference
-- **\emph** - You can move one Movement Action as a Reaction. You treat the terrain as difficult
-- **\emph** - As point 1 but the initial distance is 6 meters
-- **\emph** - You can move one Movement Action as a Reaction
-- **\emph** - As point 1 but the initial distance is 9 meters
-- **\emph** - As point 3 and you can move with the opponent
+- **\emph**: Push the opponent 3 meters away, $ \pm 1$ for size difference
+- **\emph**: You can move one Movement Action as a Reaction. You treat the terrain as difficult
+- **\emph**: As point 1 but the initial distance is 6 meters
+- **\emph**: You can move one Movement Action as a Reaction
+- **\emph**: As point 1 but the initial distance is 9 meters
+- **\emph**: As point 3 and you can move with the opponent
 - **Trips**
 
-- **\emph** - Shoulder check. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 4 $ for size difference or falls prone
-- **\emph** - Trip. The opponent makes a Reflex Saving Throw DC 19, $ \pm 2 $ for size difference or falls prone
-- **\emph** - Push. The opponent makes a Fortitude Saving Throw DC 23, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d6 meters away
-- **\emph** - Collision. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d10 meters away
+- **\emph**: Shoulder check. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 4 $ for size difference or falls prone
+- **\emph**: Trip. The opponent makes a Reflex Saving Throw DC 19, $ \pm 2 $ for size difference or falls prone
+- **\emph**: Push. The opponent makes a Fortitude Saving Throw DC 23, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d6 meters away
+- **\emph**: Collision. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll, $ \pm 2 $ for size difference or falls prone. If the Saving Throw succeeds, they are pushed 1d10 meters away
 - **Projectiles**
 
-- ***x*** - For each Critical Hit used, add another range increment to your weapon
-- ***x*** - For every two Critical Hits used, add +4 to the next Attack Roll until the end of the next round
-- **\emph** - *Kennedy Arrow*. Until the end of your next round, the first projectile ignores any cover or obstacle and if physically possible hits the opponent
+- ***x***: For each Critical Hit used, add another range increment to your weapon
+- ***x***: For every two Critical Hits used, add +4 to the next Attack Roll until the end of the next round
+- **\emph**: *Kennedy Arrow*. Until the end of your next round, the first projectile ignores any cover or obstacle and if physically possible hits the opponent
 - **Fury**
 
-- **\emph** - Encourage companions. Your companions within 6 meters have +2 to their first Attack Roll
-- **\emph** - Berserker. One of your companions within six meters can perform an Attack Action against an opponent in melee at the cost of a Reaction
-- **\emph** - Jolt. One of your companions, within 6 meters, can use a Reaction to execute a Movement Action treating the terrain as difficult
-- **\emph** - Glory. Your companions within 6 meters have +2 to the Attack Roll until the end of their next round
-- **\emph** - Glory!. Your companions within 9 meters have +4 to the Attack Roll until the end of their next round
+- **\emph**: Encourage companions. Your companions within 6 meters have +2 to their first Attack Roll
+- **\emph**: Berserker. One of your companions within six meters can perform an Attack Action against an opponent in melee at the cost of a Reaction
+- **\emph**: Jolt. One of your companions, within 6 meters, can use a Reaction to execute a Movement Action treating the terrain as difficult
+- **\emph**: Glory. Your companions within 6 meters have +2 to the Attack Roll until the end of their next round
+- **\emph**: Glory!. Your companions within 9 meters have +4 to the Attack Roll until the end of their next round
 - **Defense!**
 
-- **\emph** - Until the end of your next round, you have +2 to Defense.
-- **\emph** - Until the end of your next round, all companions in your melee range have +2 to Defense
-- **\emph** - Until the end of your next round, one companion has +8 to Defense.
-- **\emph** - Until the end of your next round, all companions within a range of 9 meters have +4 to Defense
-- **\emph** - For 1d6 rounds, all your companions have +4 to Defense
+- **\emph**: Until the end of your next round, you have +2 to Defense.
+- **\emph**: Until the end of your next round, all companions in your melee range have +2 to Defense
+- **\emph**: Until the end of your next round, one companion has +8 to Defense.
+- **\emph**: Until the end of your next round, all companions within a range of 9 meters have +4 to Defense
+- **\emph**: For 1d6 rounds, all your companions have +4 to Defense
 	
 
 >>> **Critical Actions**: These Critical Actions can be described as taking advantage of the opponent's distraction, throwing dirt in their eyes, forcing them to move away with weapon blows...

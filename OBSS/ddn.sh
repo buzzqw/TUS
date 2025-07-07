@@ -3,7 +3,7 @@
 #=======================================================================================
 # Script per la compilazione parallela di documenti LaTeX e commit automatico per OBSS
 # Autore: [Andres Zanzani]
-# Versione: 3.1 - Ottimizzato e Migliorato
+# Versione: 3.2 - Ottimizzato con aggiornamento release esistenti
 # Licenza: GPL-3.0 License
 #=======================================================================================
 
@@ -14,8 +14,6 @@ IFS=$'\n\t'
 # Flag per controllare se lo script è completato normalmente
 declare SCRIPT_COMPLETED=false
 declare EXIT_CALLED=false
-
-# NESSUN TRAP - gestione manuale del cleanup
 
 #==============================================================================
 # CONFIGURAZIONE E COSTANTI
@@ -85,7 +83,7 @@ log_step() {
 show_header() {
     printf "${MAGENTA}"
     printf '═%.0s' {1..64}; echo
-    printf "  📚 COMPILAZIONE DOCUMENTI LATEX v3.0\n"
+    printf "  📚 COMPILAZIONE DOCUMENTI LATEX v3.2\n"
     printf '═%.0s' {1..64}; echo
     printf "${NC}"
 }
@@ -134,7 +132,7 @@ manual_cleanup() {
     done
     
     # Pulizia file di risposta API
-    rm -f response.json upload_response.json 2>/dev/null
+    rm -f response.json upload_response.json assets_list.json release_details.json 2>/dev/null
     
     log_success "Pulizia completata"
 }
@@ -380,7 +378,6 @@ latex2markdown() {
     fi
     
     log_info "Conversione file Markdown..."
-    # Conversione sequenziale invece che parallela per evitare problemi
     if java Latex2MarkDown OBSSv2.tex OBSSv2.md >/dev/null 2>&1; then
         log_success "OBSSv2.md generato"
     else
@@ -400,7 +397,6 @@ latex2markdown() {
     done
     
     log_success "$converted file Markdown generati"
-    log_info "Fine latex2markdown - proseguendo..."
 }
 
 linearize_pdfs() {
@@ -493,11 +489,12 @@ copy_final_pdfs() {
     local -r dest_dir="per versione"
     local -ra pdf_files=(
         "OBSSv2.pdf" "OBSSv2-eng.pdf" "OBSS-Iniziativa.pdf"
-        "OBSS-scheda.pdf" "OBSS-scheda-v3.pdf" 
+        "OBSSv2-scheda.pdf" "OBSSv2-scheda-v3.pdf" 
         "OBSS-schema-narratore-personaggi.pdf"
         "OBSS-utilita.pdf" "screenv2.pdf" "screenv2-eng.pdf"
-        "OBSS-scheda-eng.pdf" "OBSS-options.pdf" "OBSS-utility.pdf"
-        "OBSS-schema-arbiter-character-eng.pdf"
+        "OBSSv2-scheda-eng.pdf" "OBSS-options.pdf" "OBSS-utility.pdf"
+        "OBSS-schema-arbiter-character-eng.pdf" 
+        "combat-quick-ita.pdf" "combat-quick-eng.pdf" "magia-quick-eng.pdf" "magia-quick-ita.pdf"
     )
     
     # Preparazione directory
@@ -565,10 +562,9 @@ update_wiki() {
 }
 
 #==============================================================================
-# GESTIONE RELEASE GITHUB
+# GESTIONE RELEASE GITHUB CON AGGIORNAMENTO
 #==============================================================================
 
-# Funzione per validare i nomi dei tag GitHub
 validate_tag_name() {
     local tag_name="$1"
     
@@ -596,6 +592,295 @@ validate_tag_name() {
     return 0
 }
 
+check_existing_release() {
+    local tag_name="$1"
+    local -r repo_owner="buzzqw"
+    local -r repo_name="TUS"
+    local -r github_api_url="https://api.github.com"
+    
+    log_info "Verifica esistenza release '$tag_name'..."
+    
+    local response http_code
+    response=$(curl -s -w "%{http_code}" -o /dev/null \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/tags/${tag_name}")
+    
+    http_code="${response: -3}"
+    
+    if [[ "$http_code" = "200" ]]; then
+        return 0  # Release esiste
+    else
+        return 1  # Release non esiste
+    fi
+}
+
+get_release_id() {
+    local tag_name="$1"
+    local -r repo_owner="buzzqw"
+    local -r repo_name="TUS"
+    local -r github_api_url="https://api.github.com"
+    
+    log_info "Richiesta dettagli release per tag: $tag_name"
+    
+    local response http_code
+    response=$(curl -s -w "%{http_code}" -o release_details.json \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/tags/${tag_name}")
+    
+    http_code="${response: -3}"
+    
+    if [[ "$http_code" != "200" ]]; then
+        log_error "Errore API GitHub (HTTP: $http_code)"
+        [[ -f "release_details.json" ]] && {
+            log_error "Risposta API:"
+            head -5 release_details.json >&2
+        }
+        rm -f release_details.json
+        return 1
+    fi
+    
+    log_info "Risposta API ricevuta, prime righe:"
+    head -3 release_details.json >&2
+    
+    local release_id
+    
+    # Metodo 1: Python se disponibile
+    if command -v python3 >/dev/null 2>&1; then
+        release_id=$(python3 -c "
+import json
+import sys
+try:
+    with open('release_details.json', 'r') as f:
+        data = json.load(f)
+    print(data.get('id', ''))
+except:
+    print('', file=sys.stderr)
+" 2>/dev/null)
+    fi
+    
+    # Se Python fallisce, usa sed
+    if [[ -z "$release_id" ]]; then
+        log_warning "Primo metodo fallito, provo metodo alternativo..."
+        release_id=$(sed -n 's/.*"id": *\([0-9]*\).*/\1/p' release_details.json | head -1)
+    fi
+    
+    rm -f release_details.json
+    
+    if [[ -n "$release_id" && "$release_id" =~ ^[0-9]+$ ]]; then
+        log_success "ID release trovato: $release_id"
+        echo "$release_id"
+        return 0
+    else
+        log_error "Impossibile estrarre ID della release"
+        return 1
+    fi
+}
+
+delete_release_assets() {
+    local release_id="$1"
+    local -r repo_owner="buzzqw"
+    local -r repo_name="TUS"
+    local -r github_api_url="https://api.github.com"
+    
+    log_info "Eliminazione asset esistenti per release ID: $release_id"
+    
+    local assets_response http_code
+    assets_response=$(curl -s -w "%{http_code}" -o assets_list.json \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/${release_id}/assets")
+    
+    http_code="${assets_response: -3}"
+    
+    if [[ "$http_code" != "200" ]]; then
+        log_error "Errore ottenimento lista asset (HTTP: $http_code)"
+        [[ -f "assets_list.json" ]] && head -3 assets_list.json >&2
+        rm -f assets_list.json
+        return 1
+    fi
+    
+    log_info "Risposta API asset, prime righe:"
+    head -3 assets_list.json >&2
+    
+    local asset_count
+    asset_count=$(grep -c '"id": *[0-9]*' assets_list.json 2>/dev/null || echo "0")
+    log_info "Asset trovati nella release: $asset_count"
+    
+    if [[ "$asset_count" -eq 0 ]]; then
+        log_info "Nessun asset presente nella release"
+        rm -f assets_list.json
+        return 0
+    fi
+    
+    local asset_ids deleted_count=0
+    
+    if command -v python3 >/dev/null 2>&1; then
+        log_info "Estrazione ID asset con Python..."
+        asset_ids=$(python3 -c "
+import json
+import sys
+try:
+    with open('assets_list.json', 'r') as f:
+        data = json.load(f)
+    if isinstance(data, list):
+        for asset in data:
+            if 'id' in asset and isinstance(asset['id'], int):
+                print(asset['id'])
+except Exception as e:
+    print('', file=sys.stderr)
+" 2>/dev/null)
+    else
+        log_info "Python non disponibile, uso grep/sed..."
+        asset_ids=$(grep -o '"id": *[0-9]*' assets_list.json | sed 's/"id": *//' | sort -u 2>/dev/null)
+        
+        if [[ -z "$asset_ids" ]]; then
+            asset_ids=$(sed -n 's/.*"id": *\([0-9]*\).*/\1/p' assets_list.json | sort -u)
+        fi
+    fi
+    
+    rm -f assets_list.json
+    
+    if [[ -z "$asset_ids" ]]; then
+        log_warning "Impossibile estrarre ID degli asset"
+        return 0
+    fi
+    
+    asset_ids=$(echo "$asset_ids" | sort -u | grep -v '^$')
+    local unique_count=$(echo "$asset_ids" | wc -w)
+    log_info "Asset IDs unici trovati: $unique_count"
+    
+    set +e
+    
+    while IFS= read -r asset_id; do
+        [[ -n "$asset_id" && "$asset_id" =~ ^[0-9]+$ ]] || continue
+        
+        log_info "Eliminazione asset ID: $asset_id"
+        
+        local delete_response
+        delete_response=$(curl -s -w "%{http_code}" -o /dev/null \
+            -X DELETE \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/assets/${asset_id}")
+        
+        local delete_http_code="${delete_response: -3}"
+        
+        if [[ "$delete_http_code" = "204" ]]; then
+            ((deleted_count++))
+            log_success "✓ Asset $asset_id eliminato"
+        elif [[ "$delete_http_code" = "404" ]]; then
+            log_info "- Asset $asset_id già eliminato o non esistente"
+        else
+            log_warning "✗ Errore eliminazione asset $asset_id (HTTP: $delete_http_code)"
+        fi
+        
+    done <<< "$asset_ids"
+    
+    set -e
+    
+    log_success "$deleted_count asset eliminati con successo"
+}
+
+update_existing_release() {
+    local tag_name="$1" version_description="$2"
+    local -r repo_owner="buzzqw"
+    local -r repo_name="TUS"
+    local -r github_api_url="https://api.github.com"
+    
+    log_info "Aggiornamento release esistente: $tag_name"
+    
+    local release_id
+    if ! release_id=$(get_release_id "$tag_name") || [[ -z "$release_id" ]]; then
+        log_error "Impossibile ottenere l'ID della release"
+        return 1
+    fi
+    
+    log_info "ID release trovato: $release_id"
+    
+    delete_release_assets "$release_id"
+    
+    local commit_sha
+    commit_sha=$(git rev-parse HEAD)
+    
+    local safe_description
+    safe_description=$(printf '%s' "$version_description" | \
+        sed 's/\\/\\\\/g' | \
+        sed 's/"/\\"/g' | \
+        sed "s/'/\\'/g" | \
+        sed 's/\t/\\t/g' | \
+        sed 's/\r/\\r/g' | \
+        sed 's/\n/\\n/g' | \
+        tr '\n' ' ')
+    
+    local full_description="${safe_description}\\n\\nAggiornato: $(date '+%d/%m/%Y alle %H:%M')\\nCommit: ${commit_sha}"
+    
+    local json_file
+    json_file=$(mktemp)
+    TEMP_FILES+=("$json_file")
+    
+    printf '{\n' > "$json_file"
+    printf '  "tag_name": "%s",\n' "$tag_name" >> "$json_file"
+    printf '  "target_commitish": "%s",\n' "$commit_sha" >> "$json_file"
+    printf '  "name": "%s",\n' "$tag_name" >> "$json_file"
+    printf '  "body": "%s",\n' "$full_description" >> "$json_file"
+    printf '  "draft": false,\n' >> "$json_file"
+    printf '  "prerelease": false\n' >> "$json_file"
+    printf '}\n' >> "$json_file"
+    
+    local response
+    response=$(curl -s -w "%{http_code}" -o response.json \
+        -X PATCH \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        -H "Content-Type: application/json" \
+        --data @"$json_file" \
+        "${github_api_url}/repos/${repo_owner}/${repo_name}/releases/${release_id}")
+    
+    local http_code="${response: -3}"
+    
+    if [[ "$http_code" = "200" ]]; then
+        log_success "Release aggiornata con successo"
+        
+        local release_url upload_url
+        release_url=$(grep -o '"html_url":"[^"]*' response.json | sed 's/"html_url":"//') 
+        upload_url=$(grep -o '"upload_url":"[^"]*' response.json | sed 's/"upload_url":"//') 
+        
+        if [[ -z "$release_url" ]]; then
+            release_url=$(sed -n 's/.*"html_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
+        fi
+        
+        if [[ -z "$upload_url" ]]; then
+            upload_url=$(sed -n 's/.*"upload_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
+        fi
+        
+        upload_url=$(echo "$upload_url" | sed 's/{.*}//')
+        
+        log_info "URL release: $release_url"
+        log_info "URL upload: ${upload_url:0:50}..."
+        
+        upload_release_assets "$upload_url"
+        
+        printf "\n${BLUE}📋 Release aggiornata:\n"
+        printf "   Nome: %s\n" "$tag_name"
+        printf "   URL: %s\n" "$release_url"
+        printf "   Commit: %s${NC}\n\n" "$(echo "$commit_sha" | cut -c1-8)"
+        
+    else
+        log_error "Errore aggiornamento release (HTTP: $http_code)"
+        [[ -f "response.json" ]] && head -5 response.json >&2
+        return 1
+    fi
+    
+    rm -f response.json
+}
+
 create_github_release_custom() {
     local version_name="$1" version_description="$2"
     
@@ -608,7 +893,6 @@ create_github_release_custom() {
     local commit_sha
     commit_sha=$(git rev-parse HEAD)
     
-    # Escape completo per JSON - sostituisce tutti i caratteri problematici
     local safe_description
     safe_description=$(printf '%s' "$version_description" | \
         sed 's/\\/\\\\/g' | \
@@ -621,12 +905,10 @@ create_github_release_custom() {
     
     local full_description="${safe_description}\\n\\nCommit: ${commit_sha}"
     
-    # Creazione JSON usando printf per massima sicurezza
     local json_file
     json_file=$(mktemp)
     TEMP_FILES+=("$json_file")
     
-    # Usa printf per creare JSON sicuro
     printf '{\n' > "$json_file"
     printf '  "tag_name": "%s",\n' "$version_name" >> "$json_file"
     printf '  "target_commitish": "%s",\n' "$commit_sha" >> "$json_file"
@@ -638,12 +920,9 @@ create_github_release_custom() {
     printf '}\n' >> "$json_file"
     
     log_info "JSON payload creato, validazione..."
-    
-    # Debug: mostra le prime righe del JSON
     log_info "Prime righe JSON:"
     head -3 "$json_file" >&2
     
-    # Chiamata API GitHub con file JSON
     local response
     response=$(curl -s -w "%{http_code}" -o response.json \
       -X POST \
@@ -659,15 +938,25 @@ create_github_release_custom() {
     if [[ "$http_code" = "201" ]]; then
         log_success "Release creata con successo"
         
-        # Estrazione informazioni release
         local release_url upload_url
-        release_url=$(awk -F'"' '/html_url/ {print $4; exit}' response.json)
-        upload_url=$(awk -F'"' '/upload_url/ {print $4; exit}' response.json | cut -d'{' -f1)
+        release_url=$(grep -o '"html_url":"[^"]*' response.json | sed 's/"html_url":"//') 
+        upload_url=$(grep -o '"upload_url":"[^"]*' response.json | sed 's/"upload_url":"//') 
         
-        # Caricamento asset
+        if [[ -z "$release_url" ]]; then
+            release_url=$(sed -n 's/.*"html_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
+        fi
+        
+        if [[ -z "$upload_url" ]]; then
+            upload_url=$(sed -n 's/.*"upload_url": *"\([^"]*\)".*/\1/p' response.json | head -1)
+        fi
+        
+        upload_url=$(echo "$upload_url" | sed 's/{.*}//')
+        
+        log_info "URL release: $release_url"
+        log_info "URL upload: ${upload_url:0:50}..."
+        
         upload_release_assets "$upload_url"
         
-        # Informazioni finali
         printf "\n${BLUE}📋 Release creata:\n"
         printf "   Nome: %s\n" "$version_name"
         printf "   URL: %s\n" "$release_url"
@@ -677,8 +966,6 @@ create_github_release_custom() {
         echo "❌ Errore release (HTTP: $http_code)"
         [[ -f "response.json" ]] && head -5 response.json >&2
         log_error "JSON file per debug: $json_file"
-        log_error "Contenuto completo JSON:"
-        cat "$json_file" >&2
         return 1
     fi
     
@@ -702,18 +989,21 @@ upload_release_assets() {
         return 0
     }
     
-    log_info "Caricamento $file_count asset..."
+    if [[ -z "$upload_url" ]]; then
+        log_error "URL di upload non valido"
+        return 1
+    fi
+    
+    log_info "Caricamento $file_count asset su: ${upload_url:0:50}..."
     
     local upload_success=0
     
-    # Disabilita temporaneamente set -e per gestire errori upload
     set +e
     
     while IFS= read -r -d '' filepath; do
         local filename content_type
         filename=$(basename "$filepath")
         
-        # Determinazione content-type
         case "${filename##*.}" in
             pdf) content_type="application/pdf" ;;
             zip) content_type="application/zip" ;;
@@ -721,15 +1011,27 @@ upload_release_assets() {
             *) content_type="application/octet-stream" ;;
         esac
         
-        # Upload silente
-        if curl -s -o upload_response.json \
+        log_info "Caricamento: $filename"
+        
+        local upload_response http_code
+        upload_response=$(curl -s -w "%{http_code}" -o upload_response.json \
             -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${GITHUB_TOKEN}" \
             -H "Content-Type: ${content_type}" \
             --data-binary @"${filepath}" \
-            "${upload_url}?name=${filename}" 2>/dev/null; then
+            "${upload_url}?name=${filename}")
+        
+        http_code="${upload_response: -3}"
+        
+        if [[ "$http_code" = "201" ]]; then
             ((upload_success++))
+            log_success "✓ $filename caricato"
+        elif [[ "$http_code" = "422" ]]; then
+            log_warning "⚠ $filename già presente, saltando..."
+        else
+            log_warning "✗ Errore caricamento $filename (HTTP: $http_code)"
+            [[ -f "upload_response.json" ]] && head -2 upload_response.json >&2
         fi
         
         rm -f upload_response.json
@@ -738,13 +1040,12 @@ upload_release_assets() {
     
     set -e
     
-    log_success "$upload_success/$file_count asset caricati"
+    log_success "$upload_success/$file_count asset caricati con successo"
 }
 
 create_new_version() {
     show_section "🚀 CREAZIONE NUOVA VERSIONE"
     
-    # Prompt utente compatto
     local choice
     printf "${BLUE}Produco una nuova versione [si/No](s/N)? ${NC}"
     read -r choice
@@ -755,7 +1056,6 @@ create_new_version() {
         s|si|sì|yes|y)
             log_info "Configurazione nuova versione GitHub..."
             
-            # Richiesta nome versione con validazione
             local version_name timestamp default_version
             timestamp=$(date +"%Y-%m-%d-%H%M")
             default_version="OBSSv2-${timestamp}"
@@ -764,13 +1064,11 @@ create_new_version() {
                 printf "\n${BLUE}Nome della versione [${default_version}]: ${NC}"
                 read -r version_name
                 
-                # Se vuoto, usa il default
                 if [[ -z "$version_name" ]]; then
                     version_name="$default_version"
                     break
                 fi
                 
-                # Validazione nome tag GitHub
                 if validate_tag_name "$version_name"; then
                     break
                 else
@@ -785,7 +1083,22 @@ create_new_version() {
             
             log_success "Nome versione: $version_name"
             
-            # Richiesta descrizione
+            if check_existing_release "$version_name"; then
+                printf "\n${YELLOW}⚠️  La release '$version_name' esiste già!${NC}\n"
+                printf "${BLUE}Vuoi aggiornarla [Si/No] (s/N)? ${NC}"
+                read -r update_choice
+                
+                case "${update_choice,,}" in
+                    s|si|sì|yes|y)
+                        log_info "Procedo con l'aggiornamento della release esistente"
+                        ;;
+                    *)
+                        log_info "Operazione annullata dall'utente"
+                        return 0
+                        ;;
+                esac
+            fi
+            
             local version_description default_description
             default_description="Release automatica per OBSS v2\n\nData di creazione: $(date '+%d/%m/%Y alle %H:%M')"
             
@@ -798,12 +1111,20 @@ create_new_version() {
             
             log_success "Descrizione impostata"
             
-            # Creazione release
-            if create_github_release_custom "$version_name" "$version_description"; then
-                log_success "Versione '$version_name' pubblicata"
+            if check_existing_release "$version_name"; then
+                if update_existing_release "$version_name" "$version_description"; then
+                    log_success "Versione '$version_name' aggiornata con successo"
+                else
+                    log_error "Errore aggiornamento versione"
+                    return 1
+                fi
             else
-                log_error "Errore creazione versione"
-                return 1
+                if create_github_release_custom "$version_name" "$version_description"; then
+                    log_success "Versione '$version_name' pubblicata"
+                else
+                    log_error "Errore creazione versione"
+                    return 1
+                fi
             fi
             ;;
         *)
@@ -819,7 +1140,6 @@ create_new_version() {
 main() {
     show_header
     
-    # Pipeline di esecuzione ottimizzata con gestione errori
     {
         verify_prerequisites &&
         ensure_gitignore_security &&
@@ -827,25 +1147,21 @@ main() {
         verify_latex_files
     } || exit 1
     
-    # Fase di elaborazione
     extract_sections || exit 1
     create_document_variants
     compile_documents
     copy_logs
     
-    # Post-processing
     log_step "Inizio post-processing"
     linearize_pdfs
     latex2markdown
     
-    # Integrazione e finalizzazione
     log_step "Inizio operazioni Git"
     git_operations || exit 1
     
     log_step "Inizio copia asset finali"
     copy_final_pdfs
     
-    # Cleanup manuale controllato
     log_step "Inizio cleanup manuale"
     manual_cleanup
     
@@ -855,11 +1171,9 @@ main() {
     log_step "Inizio gestione versioni"
     create_new_version
     
-    # Indica che lo script è completato normalmente
     SCRIPT_COMPLETED=true
     EXIT_CALLED=true
     
-    # Statistiche finali
     local duration=$(($(date +%s) - SCRIPT_START_TIME))
     
     printf "\n${GREEN}"

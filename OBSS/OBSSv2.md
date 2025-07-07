@@ -2807,51 +2807,51 @@ Usate questi esempi come delle linee guida per stimolare il personaggio a creare
 
 - **Attacchi agli occhi**
 
-- - Sabbia negli occhi. Entro la fine del tuo prossimo round l'avversario ha -2 al primo Tiro per Colpire
-- - Graffio agli occhi. Entro la fine del tuo prossimo round l'avversario ha -4 al Tiro per Colpire
-- - Bersaglio abbagliato. Tira 1d6, con 1-2-3 l'avversario ha mancato il suo attacco. Dura fino alla fine del prossimo round.
-- - Bersaglio accecato. Per 1d6 round, l'avversario considera tutti come invisibili.
-- - Orbo. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, se fallisce è accecato permanentemente, altrimenti subisce gli effetti del punto 4.
+- \textbf: Sabbia negli occhi. Entro la fine del tuo prossimo round l'avversario ha -2 al primo Tiro per Colpire
+- \textbf: Graffio agli occhi. Entro la fine del tuo prossimo round l'avversario ha -4 al Tiro per Colpire
+- \textbf: Bersaglio abbagliato. Tira 1d6, con 1-2-3 l'avversario ha mancato il suo attacco. Dura fino alla fine del prossimo round.
+- \textbf: Bersaglio accecato. Per 1d6 round, l'avversario considera tutti come invisibili.
+- \textbf: Orbo. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, se fallisce è accecato permanentemente, altrimenti subisce gli effetti del punto 4.
 - **Attacchi all'arma**
 
-- - Colpisci l'arma. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 2 $ per differenza di taglia dell'arma, oppure lascia cadere l'arma
-- - Arma danneggiata. L'arma dell'avversario infligge una categoria di danno in meno
-- - Colpo alla mano. A causa del dolore entro la fine del tuo prossimo round l'avversario perde i primi due attacchi
-- - Disarmi l'avversario. L'avversario lascia cadere l'arma
-- - Mano compromessa. L'avversario fino all'alba del giorno successivo ha -4 al Tiro per Colpire
+- \textbf: Colpisci l'arma. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 2 $ per differenza di taglia dell'arma, oppure lascia cadere l'arma
+- \textbf: Arma danneggiata. L'arma dell'avversario infligge una categoria di danno in meno
+- \textbf: Colpo alla mano. A causa del dolore entro la fine del tuo prossimo round l'avversario perde i primi due attacchi
+- \textbf: Disarmi l'avversario. L'avversario lascia cadere l'arma
+- \textbf: Mano compromessa. L'avversario fino all'alba del giorno successivo ha -4 al Tiro per Colpire
 - **Spintoni e Slanci**
 
-- - Allontani l'avversario di 3 metri, $ \pm 1$ per taglia di differenza
-- - Ti puoi spostare di una Azione di Movimento come Reazione. Tratti il terreno come difficile
-- - Come punto 1 ma la distanza iniziale è di 6 metri
-- - Ti puoi spostare di una Azione di Movimento come Reazione
-- - Come punto 1 ma la distanza iniziale è di 9 metri
-- - Come punto 3 e puoi spostarti con l'avversario
+- \textbf: Allontani l'avversario di 3 metri, $ \pm 1$ per taglia di differenza
+- \textbf: Ti puoi spostare di una Azione di Movimento come Reazione. Tratti il terreno come difficile
+- \textbf: Come punto 1 ma la distanza iniziale è di 6 metri
+- \textbf: Ti puoi spostare di una Azione di Movimento come Reazione
+- \textbf: Come punto 1 ma la distanza iniziale è di 9 metri
+- \textbf: Come punto 3 e puoi spostarti con l'avversario
 - **Sgambetti**
 
-- - Spallata. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 4 $ per taglia differenza o cadere prono
-- - Sgambetto. L'avversario esegue un Tiro Salvezza su Riflessi DC 19, $ \pm 2 $ per taglia differenza o cadere prono
-- - Spinta. L'avversario esegue un Tiro Salvezza su Tempra DC 23, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d6 metri
-- - Urto. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d10 metri
+- \textbf: Spallata. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 4 $ per taglia differenza o cadere prono
+- \textbf: Sgambetto. L'avversario esegue un Tiro Salvezza su Riflessi DC 19, $ \pm 2 $ per taglia differenza o cadere prono
+- \textbf: Spinta. L'avversario esegue un Tiro Salvezza su Tempra DC 23, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d6 metri
+- \textbf: Urto. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d10 metri
 - **Proiettili**
 
-- **Vari** - Per ogni Tiro Critico usato aggiungi una ulteriore gittata alla tua arma
-- **Vari** - Per ogni due Tiro Critico usato aggiungi +4 al prossimo Tiro per Colpire entro la fine del round successivo
-- - *Freccia Kennedy*. Entro la fine del tuo prossimo round il primo proiettile ignora qualsiasi copertura o ostacolo e se fisicamente possibile colpisce l'avversario
+- **Vari**: Per ogni Tiro Critico usato aggiungi una ulteriore gittata alla tua arma
+- **Vari**: Per ogni due Tiro Critico usato aggiungi +4 al prossimo Tiro per Colpire entro la fine del round successivo
+- \textbf: *Freccia Kennedy*. Entro la fine del tuo prossimo round il primo proiettile ignora qualsiasi copertura o ostacolo e se fisicamente possibile colpisce l'avversario
 - **Furia**
 
-- - Incitare i compagni. I tuoi compagni entro 6 metri hanno al loro primo attacco +2 al Tiro per Colpire
-- - Berserker. Un tuo compagno entro sei metri può eseguire una Azione di Attacco contro un avversario in mischia al costo di una Reazione
-- - Scossa. Un tuo compagno, entro 6 metri, può usare una Reazione per eseguire una Azione di Movimento trattando il terreno come difficile
-- - Gloria. I tuoi compagni entro 6 metri hanno +2 al Tiro per Colpire entro la fine del loro prossimo round
-- - Gloria!. I tuoi compagni entro 9 metri hanno +4 al Tiro per Colpire entro la fine del loro prossimo round
+- \textbf: Incitare i compagni. I tuoi compagni entro 6 metri hanno al loro primo attacco +2 al Tiro per Colpire
+- \textbf: Berserker. Un tuo compagno entro sei metri può eseguire una Azione di Attacco contro un avversario in mischia al costo di una Reazione
+- \textbf: Scossa. Un tuo compagno, entro 6 metri, può usare una Reazione per eseguire una Azione di Movimento trattando il terreno come difficile
+- \textbf: Gloria. I tuoi compagni entro 6 metri hanno +2 al Tiro per Colpire entro la fine del loro prossimo round
+- \textbf: Gloria!. I tuoi compagni entro 9 metri hanno +4 al Tiro per Colpire entro la fine del loro prossimo round
 - **Difesa!**
 
-- - Fino alla fine del tuo prossimo round hai +2 alla Difesa.
-- - Fino alla fine del tuo prossimo round tutti i compagni nel tuo raggio di mischia hanno +2 alla Difesa
-- - Fino alla fine del tuo prossimo round un compagno ha +8 alla Difesa.
-- - Fino alla fine del tuo prossimo round tutti i compagni nel raggio di 9 metri hanno +4 alla Difesa
-- - Per 1d6 round tutti i tuoi compagni hanno +4 alla Difesa
+- \textbf: Fino alla fine del tuo prossimo round hai +2 alla Difesa.
+- \textbf: Fino alla fine del tuo prossimo round tutti i compagni nel tuo raggio di mischia hanno +2 alla Difesa
+- \textbf: Fino alla fine del tuo prossimo round un compagno ha +8 alla Difesa.
+- \textbf: Fino alla fine del tuo prossimo round tutti i compagni nel raggio di 9 metri hanno +4 alla Difesa
+- \textbf: Per 1d6 round tutti i tuoi compagni hanno +4 alla Difesa
 	
 
 >>> **Azioni Critiche**: Queste Azioni Critiche possono essere descritte come approfittare della distrazione dell'avversario, gettare terra negli occhi, costringere a colpi di arma a spostarsi...
