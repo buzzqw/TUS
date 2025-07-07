@@ -2,13 +2,12 @@
 
 % ========== CONFIGURAZIONE GEOMETRIA ==========
 \usepackage[a4paper,margin=2cm]{geometry}
-% Ottimizzazione: geometry con opzione margin=2cm è più concisa
 
 % ========== PACCHETTI LINGUISTICI E CODIFICA ==========
 \usepackage[italian]{babel}
 \usepackage[italian=guillemets]{csquotes}
 \usepackage{hyphenat}
-\hyphenation{mate-mati-ca recu-perare}
+\hyphenation{mate-mati-ca re-cu-pe-ra-re}
 
 % ========== PACCHETTI GRAFICI E COLORI ==========
 \usepackage{xcolor}
@@ -36,14 +35,13 @@
 
 % ========== PACCHETTI TIPOGRAFICI ==========
 \usepackage{fontspec}
-\setmainfont[
+\setmainfont{AtkinsonHyperlegibleNext-Regular.ttf}[
 Path=./fonts/,
-BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
-ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
 BoldFont=AtkinsonHyperlegibleNext-Bold.ttf,
-SmallCapsFont = {AtkinsonHyperlegibleNext-Regular.ttf},
-SmallCapsFeatures = {Letters=SmallCaps}
-]{AtkinsonHyperlegibleNext-Regular.ttf}
+ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
+BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
+Ligatures=TeX
+]
 
 \usepackage{microtype}
 % microtype migliora la qualità tipografica
@@ -90,31 +88,6 @@ SmallCapsFeatures = {Letters=SmallCaps}
 \usepackage{varioref}
 \usepackage{fontawesome5}
 
-% ========== HYPERREF E BOOKMARK ==========
-% Importante: hyperref deve essere caricato per ultimo (quasi)
-\usepackage[
-unicode,
-pdfencoding=auto,
-bookmarks=true,
-colorlinks=true,
-linkcolor=OBSSblue,
-citecolor=OBSSpurple,
-urlcolor=OBSSblue,
-filecolor=OBSSblue,
-anchorcolor=OBSSblue,
-pdftitle={OBSS - Old Bell School System},
-pdfsubject={Gioco di Ruolo Fantasy},
-pdfauthor={Andres Zanzani},
-pdfkeywords={GDR, Fantasy, Gioco di Ruolo, OBSS},
-pdfcreator={XeLaTeX},
-pdfproducer={TexStudio on Debian},
-breaklinks=true,
-bookmarksnumbered=true,
-bookmarksopen=true
-]{hyperref}
-
-\usepackage{bookmark}
-% bookmark deve essere caricato dopo hyperref
 
 % ========== CONFIGURAZIONI GENERALI ==========
 \setcounter{secnumdepth}{-1}
@@ -367,10 +340,40 @@ bookmarksopen=true
 	\obssendoriginalxltabular%
 }
 
+
+% ========== HYPERREF E BOOKMARK ==========
+% Importante: hyperref deve essere caricato per ultimo (quasi)
+\usepackage[
+unicode,
+pdfencoding=auto,
+bookmarks=true,
+colorlinks=true,
+linkcolor=OBSSblue,
+citecolor=OBSSpurple,
+urlcolor=OBSSblue,
+filecolor=OBSSblue,
+anchorcolor=OBSSblue,
+pdftitle={OBSS - Old Bell School System},
+pdfsubject={Gioco di Ruolo Fantasy},
+pdfauthor={Andres Zanzani},
+pdfkeywords={GDR, Fantasy, Gioco di Ruolo, OBSS},
+pdfcreator={XeLaTeX},
+pdfproducer={TexStudio on Debian},
+pdfborder={0 0 0},
+breaklinks=true,
+bookmarksopenlevel=1,
+bookmarksnumbered=true,
+bookmarksopen=true
+]{hyperref}
+
+
+\usepackage{bookmark}
+% bookmark deve essere caricato dopo hyperref
+
 % ========== INIZIO DOCUMENTO ==========
 \begin{document}
 
-\def \versione {1.0.0} \fontsize{11}{11.5}\selectfont  %la prima e' la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
+\def \versione {1.0.2} \fontsize{11}{11.5}\selectfont  %la prima e' la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
 
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %viene cercato Fantasy Adventure game
@@ -655,7 +658,6 @@ Si considera in mischia qualsiasi creatura che il personaggio possa raggiungere 
 
 \begin{wrapfigure}[24]{r}[.5\width+.5\columnsep]{7cm}%\itshape
 
-%\vspace*{10pt}
 \centering
 \includegraphics[width=6.5cm]{immagini/merlin.png}
 
@@ -1650,7 +1652,7 @@ Un Tratto è un dettaglio che aiuta meglio a inquadrare il personaggio, ne delin
 
 \textbf{Ogni giocatore sceglie 5 Tratti per il proprio personaggio alla creazione del personaggio.} Questi che suggeriranno il personaggio nell'agire e nelle scelte.
 
-\begin{giocatore}[Scegliere i Tratti] %box giocatore
+\begin{giocatore}[Scegliere i Tratti]
 I Tratti non sono il personaggio, non lo bloccano ne lo fissano eterno nel tempo. Un personaggio è sempre in costante evoluzione e così il suo carattere, morale, comportamento e desideri. Non essere rigido ma usa i Tratti per darti dei suggerimenti da cui farti ispirare.
 \end{giocatore}
 
@@ -2774,7 +2776,7 @@ Gli \textbf{1 portano male}. Quando si tira 1 con un dado, quel dado non contrib
 \item
 \textbf{Affidarsi alla sorte}. Ogni 4 punti tra Competenza (Base o Attiva) e Caratteristica che rinunci a sommare nella prova tiri un dado a 6 in più (Tiro per Colpire, Tiro Salvezza, prove Competenza). Questo valore non può essere tolto dal punteggio dato da Abilità o oggetti magici.
 
-%\columnbreak
+
 
 \begin{center}\textbf{\emph{Corollario}}\end{center}\index{Corollario Golden Rules}
 
@@ -2782,7 +2784,7 @@ Gli \textbf{1 portano male}. Quando si tira 1 con un dado, quel dado non contrib
 
 \item \textbf{Tirare 3 volte 1 con i primi tre dadi è fallimento}, sia nelle Prove di Competenza, Tiri Salvezza e Tiri per Colpire indipendentemente dal risultato finale. \index{Tirare tre volte 1}
 
-\item\textbf{Gli 1 tirati a seguito di un 6} valgono sempre zero
+\item\textbf{Gli 1 tirati nelle Prove a seguito di un 6} valgono sempre zero
 
 \end{itemize}
 
@@ -3037,16 +3039,6 @@ Per riconoscere un oggetto magico le sue capacità è necessaria una prova di \t
 Mentre viene lanciato è una prova di \textbf{Arcana} a DC pari la 10 + livello dell'incantesimo. Costa una \textbf{Reazione}. Se fatto assieme al lancio di un \hyperlink{Controincantesimo}{Controincantesimo} non costa Reazione.
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Atletica*}\index[Tabelle]{Tabella Saltare} \emph{Penalità dovuta all'Armatura.} \textbf{1 Azione}\index{Saltare}\label{atletica}\label{saltare}
-%\begin{tabular}{lc|lc}
-%\textbf{Salto in Lungo} & \textbf{DC}&\textbf{Salto in Alto} & \textbf{DC}\\
-%\multicolumn{2}{c}{Lunghezza} &\multicolumn{2}{c}{Altezza} \\
-%\toprule
-%1.5 m & 5 & 0.02 m & 4\\
-%3 m & 10 &0.5 m & 8\\
-%5 m & 15 & 1 m & 12\\
-%7 m & 20 & 1.5 m & 16\\
-%+1,5 m & +5 &+0.5 m & +4\\
-%\end{tabular}
 
 La \textbf{distanza saltata in lungo} è pari a 30cm per risultato ottenuto nella prova, arrotondando all'intero più vicino. Es. se nella prova di saltare faccio 11, il salto sarà lungo 30cm*11=330cm=3 metri, con 16 nella prova è 30cm*16=480cm=5m.
 
@@ -3133,12 +3125,6 @@ Alla \textbf{Difficoltà base di 15} si applicano i seguenti modificatori:
 	Ogni ora di pioggia& DC +4\\
 	Visibilità scarsa& DC +2\\
 	Cerca di occultare le tracce& DC +4
-	%Se il terreno è molto morbido& DC +4\\
-	%Se il terreno è stabile/duro& DC +15/20\\
-	%Ogni 3 creature inseguite& DC -2\\
-	%A seconda della taglia/visibilità& DC $\pm4$\\
-	%Ogni 24 ore passate/ora di pioggia& DC +4\\
-	%Cerca di occultare le traccie& DC +4\\
 \end{tabularx}
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Valutare}\label{compvalutare}\index{Valutare}
@@ -4035,15 +4021,15 @@ Quando la penalità è alla Difesa considerare ogni -1d6 come un -4 alla Difesa.
 
 In linea di principio in combattimento un bonus leggero è un +1, medio +2, alto +1d6 (o +4), un bonus molto alto è +2d6 (o +8), viceversa per le penalità.
 
-\medskip
+
+\begin{narratore}[Motivi e Scopi]
+	Ricordate sempre che lo scopo è divertirsi, a scapito (per il Narratore) di qualche mostro, non siate rigidi ma dinamici e adattatevi alle situazioni.
+\end{narratore}
 
 I \textbf{modificatori positivi indicati} nella \emph{Tabella: Modificatori in attacco o difesa} si sommano a partire da quello maggiore e si aggiunge un +1 per ogni ulteriore bonus presente. Se un avversario è sopra il personaggio, alle spalle, invisibile ed in carica avrà un bonus al colpire di +1d6 (carica o invisibilità) +1 perché sopra, +1 perché alle spalle, +1 perché in carica.\index{Somma bonus al colpire}
 
 Le \textbf{penalità} si sommano per intero tra loro. Se il personaggio è sorpreso e prono ha un -6 alla Difesa.\index{Bonus comulativi}\index{Somma penalità}
 
-\begin{narratore}[Motivi e Scopi]
-Ricordate sempre che lo scopo è divertirsi, a scapito (per il Narratore) di qualche mostro, non siate rigidi ma dinamici e adattatevi alle situazioni.
-\end{narratore}
 
 \subsection{Altre azioni e situazioni} \label{AltreAzioni}\index{Altre azioni e situazioni}
 
@@ -4672,11 +4658,11 @@ Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferis
 \bigskip
 
 \begin{enfasi}
-Artax galoppava attraverso la Palude della Tristezza, e ad ogni passo i suoi zoccoli affondavano più profondamente. Michael Ende, La Storia Infinita.
+Artax galoppava attraverso la Palude della Tristezza, e ad ogni passo i suoi zoccoli affondavano più profondamente.(La Storia Infinita, Michael Ende)
 
 \medskip
 
-Il cavallo conosce la strada verso casa anche quando il cavaliere ha smarrito la via. Ursula K. Le Guin, Le Tombe di Atuan
+Il cavallo conosce la strada verso casa anche quando il cavaliere ha smarrito la via. (Le Tombe di Atuan, Ursula K. Le Guin)
 
 \end{enfasi}
 
@@ -17887,7 +17873,6 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 
 \textbf{Tabella: Lista della Armi}\index[Tabelle]{Tabella Lista della Armi}
 
-%\noindent\begin{xltabular}{1\textwidth}{lll>{small}X}
 \noindent\begin{xltabular}{1\textwidth}{lllX}
 \textbf{Arma}&\textbf{Costo}&\textbf{Dim./Danno} & \textbf{Gittata, Lista, Speciale}\\
 \hline

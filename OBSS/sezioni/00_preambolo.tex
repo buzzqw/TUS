@@ -2,13 +2,12 @@
 
 % ========== CONFIGURAZIONE GEOMETRIA ==========
 \usepackage[a4paper,margin=2cm]{geometry}
-% Ottimizzazione: geometry con opzione margin=2cm è più concisa
 
 % ========== PACCHETTI LINGUISTICI E CODIFICA ==========
 \usepackage[italian]{babel}
 \usepackage[italian=guillemets]{csquotes}
 \usepackage{hyphenat}
-\hyphenation{mate-mati-ca recu-perare}
+\hyphenation{mate-mati-ca re-cu-pe-ra-re}
 
 % ========== PACCHETTI GRAFICI E COLORI ==========
 \usepackage{xcolor}
@@ -36,14 +35,13 @@
 
 % ========== PACCHETTI TIPOGRAFICI ==========
 \usepackage{fontspec}
-\setmainfont[
+\setmainfont{AtkinsonHyperlegibleNext-Regular.ttf}[
 Path=./fonts/,
-BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
-ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
 BoldFont=AtkinsonHyperlegibleNext-Bold.ttf,
-SmallCapsFont = {AtkinsonHyperlegibleNext-Regular.ttf},
-SmallCapsFeatures = {Letters=SmallCaps}
-]{AtkinsonHyperlegibleNext-Regular.ttf}
+ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
+BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
+Ligatures=TeX
+]
 
 \usepackage{microtype}
 % microtype migliora la qualità tipografica
@@ -90,31 +88,6 @@ SmallCapsFeatures = {Letters=SmallCaps}
 \usepackage{varioref}
 \usepackage{fontawesome5}
 
-% ========== HYPERREF E BOOKMARK ==========
-% Importante: hyperref deve essere caricato per ultimo (quasi)
-\usepackage[
-unicode,
-pdfencoding=auto,
-bookmarks=true,
-colorlinks=true,
-linkcolor=OBSSblue,
-citecolor=OBSSpurple,
-urlcolor=OBSSblue,
-filecolor=OBSSblue,
-anchorcolor=OBSSblue,
-pdftitle={OBSS - Old Bell School System},
-pdfsubject={Gioco di Ruolo Fantasy},
-pdfauthor={Andres Zanzani},
-pdfkeywords={GDR, Fantasy, Gioco di Ruolo, OBSS},
-pdfcreator={XeLaTeX},
-pdfproducer={TexStudio on Debian},
-breaklinks=true,
-bookmarksnumbered=true,
-bookmarksopen=true
-]{hyperref}
-
-\usepackage{bookmark}
-% bookmark deve essere caricato dopo hyperref
 
 % ========== CONFIGURAZIONI GENERALI ==========
 \setcounter{secnumdepth}{-1}
@@ -366,6 +339,36 @@ bookmarksopen=true
 }{%
 	\obssendoriginalxltabular%
 }
+
+
+% ========== HYPERREF E BOOKMARK ==========
+% Importante: hyperref deve essere caricato per ultimo (quasi)
+\usepackage[
+unicode,
+pdfencoding=auto,
+bookmarks=true,
+colorlinks=true,
+linkcolor=OBSSblue,
+citecolor=OBSSpurple,
+urlcolor=OBSSblue,
+filecolor=OBSSblue,
+anchorcolor=OBSSblue,
+pdftitle={OBSS - Old Bell School System},
+pdfsubject={Gioco di Ruolo Fantasy},
+pdfauthor={Andres Zanzani},
+pdfkeywords={GDR, Fantasy, Gioco di Ruolo, OBSS},
+pdfcreator={XeLaTeX},
+pdfproducer={TexStudio on Debian},
+pdfborder={0 0 0},
+breaklinks=true,
+bookmarksopenlevel=1,
+bookmarksnumbered=true,
+bookmarksopen=true
+]{hyperref}
+
+
+\usepackage{bookmark}
+% bookmark deve essere caricato dopo hyperref
 
 % ========== INIZIO DOCUMENTO ==========
 \begin{document}

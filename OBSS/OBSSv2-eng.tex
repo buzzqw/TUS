@@ -34,14 +34,13 @@
 
 % ========== PACCHETTI TIPOGRAFICI ==========
 \usepackage{fontspec}
-\setmainfont[
+\setmainfont{AtkinsonHyperlegibleNext-Regular.ttf}[
 Path=./fonts/,
-BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
-ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
 BoldFont=AtkinsonHyperlegibleNext-Bold.ttf,
-SmallCapsFont = {AtkinsonHyperlegibleNext-Regular.ttf},
-SmallCapsFeatures = {Letters=SmallCaps}
-]{AtkinsonHyperlegibleNext-Regular.ttf}
+ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
+BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
+Ligatures=TeX
+]
 
 \usepackage{microtype}
 % microtype migliora la qualità tipografica
@@ -87,32 +86,6 @@ SmallCapsFeatures = {Letters=SmallCaps}
 \def\UrlBreaks{\do\/\do-\do_\do.\do:\do=\do&}
 \usepackage{varioref}
 \usepackage{fontawesome5}
-
-% ========== HYPERREF E BOOKMARK ==========
-% Importante: hyperref deve essere caricato per ultimo (quasi)
-\usepackage[
-unicode,
-pdfencoding=auto,
-bookmarks=true,
-colorlinks=true,
-linkcolor=OBSSblue,
-citecolor=OBSSpurple,
-urlcolor=OBSSblue,
-filecolor=OBSSblue,
-anchorcolor=OBSSblue,
-pdftitle={OBSS - Old Bell School System},
-pdfsubject={Role Playing Game},
-pdfauthor={Andres Zanzani},
-pdfkeywords={GDR, Fantasy, Role Play Game, OBSS},
-pdfcreator={XeLaTeX},
-pdfproducer={TexStudio on Debian},
-breaklinks=true,
-bookmarksnumbered=true,
-bookmarksopen=true
-]{hyperref}
-
-\usepackage{bookmark}
-% bookmark deve essere caricato dopo hyperref
 
 % ========== CONFIGURAZIONI GENERALI ==========
 \setcounter{secnumdepth}{-1}
@@ -363,10 +336,36 @@ bookmarksopen=true
 	\obssendoriginalxltabular%
 }
 
+% ========== HYPERREF E BOOKMARK ==========
+% Importante: hyperref deve essere caricato per ultimo (quasi)
+\usepackage[
+unicode,
+pdfencoding=auto,
+bookmarks=true,
+colorlinks=true,
+linkcolor=OBSSblue,
+citecolor=OBSSpurple,
+urlcolor=OBSSblue,
+filecolor=OBSSblue,
+anchorcolor=OBSSblue,
+pdftitle={OBSS - Old Bell School System},
+pdfsubject={Role Playing Game},
+pdfauthor={Andres Zanzani},
+pdfkeywords={GDR, Fantasy, Role Play Game, OBSS},
+pdfcreator={XeLaTeX},
+pdfproducer={TexStudio on Debian},
+breaklinks=true,
+bookmarksnumbered=true,
+bookmarksopen=true
+]{hyperref}
+
+\usepackage{bookmark}
+% bookmark deve essere caricato dopo hyperref
+
 % ========== INIZIO DOCUMENTO ==========
 \begin{document}
 
-\def \versione {1.0.0} \fontsize{11.5}{11.5}\selectfont  %the first is the font size, the second the spacing between lines  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
+\def \versione {1.0.2} \fontsize{11.5}{11.5}\selectfont  %the first is the font size, the second the spacing between lines  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty}
 
@@ -2861,7 +2860,7 @@ Unless otherwise specified, for all proficiency checks (Base, Active) three basi
 
 \item \textbf{Rolling 3 ones with the first three dice is a failure}, in Proficiency Checks, Saving Throws and Attack Rolls regardless of the final result. \index[OBSSv2]{Rolling three 1s}
 
-\item\textbf{1s rolled following a 6} are always worth zero
+\item\textbf{1s, in check, rolled following a 6} are always worth zero
 
 \end{itemize}
 

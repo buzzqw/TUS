@@ -1686,7 +1686,7 @@ Unless otherwise specified, for all proficiency checks (Base, Active) three basi
 - **Trust in luck**. For every 4 points between Proficiency (Base or Active) and Ability Score that you give up adding to the check, you roll one more d6 (Attack Roll, Saving Throw, Proficiency checks). This value cannot be taken from the score given by Feats or magic items.
 - **Rolling 3 sixes with the first three dice is a success**, in Proficiency Checks, Saving Throws and Attack Rolls regardless of the final result.
 - **Rolling 3 ones with the first three dice is a failure**, in Proficiency Checks, Saving Throws and Attack Rolls regardless of the final result. 
-- **1s rolled following a 6** are always worth zero
+- **1s, in check, rolled following a 6** are always worth zero
 
 Use the **Golden Rules** to your advantage! Dare, try, risk when the situation allows no other solutions!
 

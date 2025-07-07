@@ -1698,7 +1698,7 @@ Se non specificato diversamente per tutte le prove di competenza (Base, Attive) 
 - **Affidarsi alla sorte**. Ogni 4 punti tra Competenza (Base o Attiva) e Caratteristica che rinunci a sommare nella prova tiri un dado a 6 in più (Tiro per Colpire, Tiro Salvezza, prove Competenza). Questo valore non può essere tolto dal punteggio dato da Abilità o oggetti magici.
 - **Tirare 3 volte 6 con i primi tre dadi è un successo**, sia nelle Prove di Competenza, Tiri Salvezza e Tiri per Colpire indipendentemente dal risultato finale.
 - **Tirare 3 volte 1 con i primi tre dadi è fallimento**, sia nelle Prove di Competenza, Tiri Salvezza e Tiri per Colpire indipendentemente dal risultato finale. 
-- **Gli 1 tirati a seguito di un 6** valgono sempre zero
+- **Gli 1 tirati nelle Prove a seguito di un 6** valgono sempre zero
 
 Sfruttate le **Golden Rules** a vostro vantaggio! Osate, tentate, rischiate quando la situazione non permette altre soluzioni!
 
@@ -2558,11 +2558,11 @@ Quando la penalità è alla Difesa considerare ogni -1d6 come un -4 alla Difesa.
 
 In linea di principio in combattimento un bonus leggero è un +1, medio +2, alto +1d6 (o +4), un bonus molto alto è +2d6 (o +8), viceversa per le penalità.
 
+>>> **Motivi e Scopi**: Ricordate sempre che lo scopo è divertirsi, a scapito (per il Narratore) di qualche mostro, non siate rigidi ma dinamici e adattatevi alle situazioni.
+
 I **modificatori positivi indicati** nella *Tabella: Modificatori in attacco o difesa* si sommano a partire da quello maggiore e si aggiunge un +1 per ogni ulteriore bonus presente. Se un avversario è sopra il personaggio, alle spalle, invisibile ed in carica avrà un bonus al colpire di +1d6 (carica o invisibilità) +1 perché sopra, +1 perché alle spalle, +1 perché in carica.
 
 Le **penalità** si sommano per intero tra loro. Se il personaggio è sorpreso e prono ha un -6 alla Difesa.
-
->>> **Motivi e Scopi**: Ricordate sempre che lo scopo è divertirsi, a scapito (per il Narratore) di qualche mostro, non siate rigidi ma dinamici e adattatevi alle situazioni.
 
 ## Altre azioni e situazioni 
 
@@ -2951,9 +2951,9 @@ Spendendo 1 tua Azione puoi fare eseguire 2 di queste Azioni alla cavalcatura: M
 
 Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferisce a discapito delle indicazioni del cavaliere. Potrebbe fuggire dal combattimento, lanciarsi all'attacco e divorare un nemico ferito gravemente, o agire in qualche altro modo contro la volontà di chi la cavalca.
 
-> Artax galoppava attraverso la Palude della Tristezza, e ad ogni passo i suoi zoccoli affondavano più profondamente. Michael Ende, La Storia Infinita.
+> Artax galoppava attraverso la Palude della Tristezza, e ad ogni passo i suoi zoccoli affondavano più profondamente.(La Storia Infinita, Michael Ende)
 
-Il cavallo conosce la strada verso casa anche quando il cavaliere ha smarrito la via. Ursula K. Le Guin, Le Tombe di Atuan
+Il cavallo conosce la strada verso casa anche quando il cavaliere ha smarrito la via. (Le Tombe di Atuan, Ursula K. Le Guin)
 
 ---
 
