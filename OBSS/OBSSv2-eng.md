@@ -1209,7 +1209,7 @@ In the character sheet, the initial Profession and acquired skills should be mar
 **Table: List of Professions and related Skills**
 
 | {\textwidth}{>{\raggedright}l|c|c|c|c} |
-		
+
 | **Profession** | **1pt** | **2pts** | **2pts** | **3pts** |
 | --- | --- | --- | --- | --- |
 | **Acolyte** | Occult | History/Geography | Arcana | Religion |
@@ -9487,7 +9487,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 **For each Critical Magic Success** obtained in the Magic Check, the spell lasts 1 additional round.
 
-## Meteor Swarm
+\mostro{Meteor Swarm}
 - **Magic List**:: Fire, Earth
 - **Level**:: 9, Legendary
 - **Casting Time**:: 3 Actions
@@ -10441,7 +10441,7 @@ In a 2-meter radius, creatures must make a Will Saving Throw or fall asleep. Any
 
 Until the spell ends, freezing rain and sleet fall in a 6-meter-tall cylinder with a 12-meter radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused. The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell's area for the first time on a turn or starts its turn there, it must make a Reflex Saving Throw. On a failed save, it falls prone. If a creature in the spell's area is concentrating, it must make a successful Fortitude Saving Throw against your spell save DC or lose concentration.
 
-## Slow
+\mostro{Slow}
 - **Magic List**:: Transmutation
 - **Level**:: 3, Uncommon
 - **Casting Time**:: 2 Actions
@@ -10577,7 +10577,7 @@ You shape a 3-meter cube of stone that you touch into any form that suits your p
 
 So, for example, you could shape a large stone into a weapon, idol, or coffin, or make a passage through a wall. You could also shape a stone door or its frame to seal the door. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible.
 
-## Stone to Mud - Mud to Stone
+\mostro{Stone to Mud - Mud to Stone}
 - **Spell List**:: Earth
 - **Level**:: 5, Uncommon - Very Rare
 - **Casting Time**:: 2 Actions
@@ -10645,7 +10645,7 @@ The target must make a Will Saving Throw. On a failed save, it follows the cours
 
 You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn't met before the spell expires, the activity isn't performed. If you or any of your companions damage the target, the spell ends.
 
-## Sunbeam
+\mostro{Sunbeam}
 - **Magic List**:: Conjuration
 - **Level**:: 6, Uncommon
 - **Casting Time**:: 2 Actions
@@ -17187,7 +17187,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 | 31-35 | Demonic Armor |
 | 46-50 | Ethereal Form |
 | 61-65 | Mithral |
-| 66-70 | Shadow |
+| 66-70 | Weapon Shadow |
 | 71-80 | Titanic Armor |
 | 81-100 | Cursed |
 
@@ -17596,7 +17596,7 @@ Spells are also magic items and as such, if the Narrator allows, can be purchase
 
 A spell costs in gold pieces level * level * level * 80
 
-## Blinding
+\oggettomagico{Blinding}
 
 **Aura:** Moderate evocation; **Cost:** 3000 gp
 
@@ -17604,7 +17604,7 @@ A spell costs in gold pieces level * level * level * 80
 
 A **shield** with this enchantment emits a blinding light up to twice per day on its wielder's command. All those within 6 meters of the shield, except the wielder, must succeed on a Reflex Saving Throw with DC 14 or be Blinded for 1d4 rounds.
 
-## Spell Storing
+\oggettomagico{Spell Storing}
 
 **Aura:** Strong and variable evocation; **Cost:** 3000 gp
 
@@ -17618,19 +17618,19 @@ The weapon magically reveals to its wielder the name of the spell currently cont
 
 A Spell Storing weapon emits a strong aura of the Evocation school, plus the aura of the contained spell.
 
-## Purifying Water
+\oggettomagico{Purifying Water}
 
 **Rarity:** Rare; **Cost:** 500 gp
 
 this sweet **liquid** can be used to purify water (even to desalinate seawater) and to transform poisons, acids and other harmful liquids into a drinkable beverage. Additionally, purifying water neutralizes the effectiveness of any other potion. This potion can transform up to 1000 cubic meters of almost all water-based liquids, but only 10 cubic meters of acid. The effects are permanent and a purified liquid cannot be deteriorated or contaminated again for a period of 5d4 rounds.
 
-## Adamantine
+\oggettomagico{Adamantine}
 
 **Rarity:** Uncommon; **Cost:** +700 gp
 
 Whoever wears this **armor**, the first critical hit of the round becomes a normal hit (but does not protect against damage explosion).
 
-## Adaptive
+\oggettomagico{Adaptive}
 
 **Aura:** Weak transmutation; **Cost:** 1500 gp
 
@@ -17638,7 +17638,7 @@ Whoever wears this **armor**, the first critical hit of the round becomes a norm
 
 This ability can only be added to composite **bows**. An Adaptive bow reacts to the strength of its wielder, acting as a bow with a Strength bonus equal to that of the person wielding it. The wielder can shoot with a lower Strength bonus (and cause less damage) if desired.
 
-## Keen
+\oggettomagico{Keen}
 
 **Aura:** Moderate transmutation; **Cost:** 5000 gp
 
@@ -17646,13 +17646,13 @@ This ability can only be added to composite **bows**. An Adaptive bow reacts to 
 
 This ability in case of a critical allows counting the number of 6s rolled, increasing it by 1. Only piercing or slashing **weapons** can be Keen.
 
-## Wings of Flying
+\oggettomagico{Wings of Flying}
 
 **Rarity:** Legendary; **Cost:** 54000 gp
 
 while wearing this **Cloak**, you can use two actions to speak its command word, transforming it into a pair of bat or bird wings that sprout from your back for 1 hour or until you repeat the command word with an Action. The wings give you a flying speed of 18 meters. When they disappear, you can't use them again until the dawn of the next day.
 
-## Dragon Slayer
+\oggettomagico{Dragon Slayer}
 
 **Aura:** Moderate evocation; **Cost:** 8000 gp
 
@@ -17660,7 +17660,7 @@ while wearing this **Cloak**, you can use two actions to speak its command word,
 
 When you hit a dragon with this **weapon**, the dragon takes 3d6 additional damage of the weapon's type. For the purpose of this weapon, dragon is any creature of the dragon type.
 
-## Giant Slayer
+\oggettomagico{Giant Slayer}
 
 **Aura:** Moderate evocation; **Cost:** 8000 gp
 
@@ -17668,7 +17668,7 @@ When you hit a dragon with this **weapon**, the dragon takes 3d6 additional dama
 
 When you hit a giant with this **weapon**, the giant takes 2d6 additional damage of the weapon's type and must succeed on a Fortitude Saving Throw with DC 18 or fall prone. For the purpose of this weapon, giant is any creature of the giant type.
 
-## Amorphous
+\oggettomagico{Amorphous}
 
 **Aura:** Moderate transmutation; **Cost:** 2250 gp
 
@@ -17676,13 +17676,13 @@ When you hit a giant with this **weapon**, the giant takes 2d6 additional damage
 
 Once per day on command, the wearer of the **armor** (along with any equipment worn) can take the form of a viscous liquid that is able to pass through any space through which thick mud could reasonably flow. While using this ability, your speed is reduced to 3 meters and you can only take movement actions. You can assume this form for 1 minute or until you spend a Move Action to return to your natural form. An Amorphous armor must be made primarily of leather, cloth, or other organic and flexible material.
 
-## Flask of Curses
+\oggettomagico{Flask of Curses}
 
 **Rarity:** Rare; **Cost:** 800 gp
 
 this object looks like a flask, bottle, jug, container, decanter, or pitcher. It can contain a liquid or emit smoke. When the **flask** is uncorked for the first time, all creatures within 9 m are cursed.
 
-## Iron Flask
+\oggettomagico{Iron Flask}
 
 **Rarity:** Legendary; **Cost:** 35000 gp
 
@@ -17709,7 +17709,7 @@ The *identify* spell reveals that a creature is inside the flask, but the only w
 | 97-99 | Succubus/Incubus |
 | 100 | Topi, La |
 
-## Amulet of Poison Resistance
+\oggettomagico{Amulet of Poison Resistance}
 
 **Aura:** Moderate necromancy; **Cost:** 3000 gp
 
@@ -17717,7 +17717,7 @@ The *identify* spell reveals that a creature is inside the flask, but the only w
 
 this **gem** hanging from a silver chain is black and shiny. The wearer has a +2 to Saving Throws against poison.
 
-## Scarring Amulet
+\oggettomagico{Scarring Amulet}
 
 **Aura:** Strong necromancy; **Cost:** 25000 gp
 
@@ -17725,7 +17725,7 @@ this **gem** hanging from a silver chain is black and shiny. The wearer has a +2
 
 this **gem** hanging from a gold chain is red and brilliant. The wearer recovers Hit Points twice as fast as normal (even Maximum Hit Points). The amulet prevents taking damage from Bleeding.
 
-## Amulet Against Possession
+\oggettomagico{Amulet Against Possession}
 
 **Aura:** Strong abjuration; **Cost:** 32000 gp
 
@@ -17733,11 +17733,11 @@ this **gem** hanging from a gold chain is red and brilliant. The wearer recovers
 
 the bearer of this copper **amulet** becomes immune to possession and domination spells.
 
-## Amulet of Gangrene
+\oggettomagico{Amulet of Gangrene}
 
 this engraved **gem** hanging from a chain appears to be of little value. If a character keeps it for more than 1 day, they are struck by a terrible gangrene that causes them to permanently lose 1 point of Dexterity, Constitution, and Charisma per week. The gem (and gangrene) can only be neutralized by Remove Curse and Remove Disease, followed by Healing or Wish. The gangrene can also be defeated by grinding an amulet of health and sprinkling the powder on the afflicted character.
 
-## Amulet of Inevitable Location
+\oggettomagico{Amulet of Inevitable Location}
 
 **Aura:** Strong divination; **Cost:** 8000 gp
 
@@ -17745,7 +17745,7 @@ this engraved **gem** hanging from a chain appears to be of little value. If a c
 
 this cursed **amulet** has the appearance of an amulet of undetectability. On the contrary, it makes the wearer vulnerable to this type of magic. The probability of observing the wearer and the duration of spells used for this purpose are doubled.
 
-## Amulet of Physical Resistance
+\oggettomagico{Amulet of Physical Resistance}
 
 **Aura:** Strong abjuration; **Cost:** 8000 gp
 
@@ -17753,7 +17753,7 @@ this cursed **amulet** has the appearance of an amulet of undetectability. On th
 
 while wearing this **amulet** you have a +2 to Fortitude Saving Throws.
 
-## Amulet of Protection from Detection and Location
+\oggettomagico{Amulet of Protection from Detection and Location}
 
 **Aura:** Strong abjuration; **Cost:** 20000 gp
 
@@ -17761,7 +17761,7 @@ while wearing this **amulet** you have a +2 to Fortitude Saving Throws.
 
 while wearing this **amulet** you are hidden from divination magic. You cannot be targeted by these magics or perceived through magical scrying sensors.
 
-## Bane
+\oggettomagico{Weapon Bane}
 
 **Aura:** Moderate evocation; **Cost:** 3000 gp
 
@@ -17785,7 +17785,7 @@ A Bane **weapon** excels at attacking certain creatures. Against the chosen enem
 | 91-98 | Undead |
 | 99-100 | Insects |
 
-## Ring of Spell Storing
+\oggettomagico{Ring of Spell Storing}
 
 **Rarity:** Rare; **Cost:** 24000 gp
 
@@ -17795,7 +17795,7 @@ Any creature can cast a stored spell of level 1 to 5 on the ring by touching it.
 
 To charge the spell into the ring, the caster must aim at the ring to have it absorbed. If the ring cannot contain the spell, the spell manifests normally. A spell cast through this ring is no longer contained within it and frees up space for other spells.
 
-## Weapon Ring
+\oggettomagico{Weapon Ring}
 
 **Aura:** Moderate enchantment; **Cost:** 4000 gp
 
@@ -17804,7 +17804,7 @@ To charge the spell into the ring, the caster must aim at the ring to have it ab
 A Weapon **ring** can only be applied to melee weapons. When inserted into the weapon's hilt, the character can twice per day use 1 Action to make the weapon magical +1 for 10 rounds. This ability cannot be activated on objects that already have a magical bonus.
 The Weapon Ring's ability recharges at dawn. The weapon ring does not count against the limits for wearing rings.
 
-## Greater Weapon Ring
+\oggettomagico{Greater Weapon Ring}
 
 **Aura:** Strong abjuration; **Cost:** 8000 gp
 
@@ -17825,7 +17825,7 @@ A Greater Weapon **ring** can only be applied to melee weapons and has only one 
 
 When inserted into the hilt of the **weapon**, the character can twice per day use 1 Action and add the rolled feat to the weapon for 10 rounds. If the weapon is not at least magical +1, it becomes magical +1. The ability of the Greater Weapon Ring recharges at dawn.
 
-## Ring of Fire Elemental Command
+\oggettomagico{Ring of Fire Elemental Command}
 
 **Rarity:** Legendary; **Cost:** 250000 gp
 
@@ -17843,7 +17843,7 @@ The ring has 5 charges. It regains 1d4 + 1 charges daily at dawn.
 
 Spells cast through the ring have Saving Throw DC 21.
 
-## Ring of Water Elemental Command
+\oggettomagico{Ring of Water Elemental Command}
 
 **Rarity:** Legendary; **Cost:** 250000 gp
 
@@ -17859,7 +17859,7 @@ If you help kill a water elemental while wearing the ring, you gain access to th
 
 The ring has 5 charges. It regains 1d4 + 1 charges daily at dawn. Spells cast through the ring have Saving Throw DC 21.
 
-## Ring of Air Elemental Command
+\oggettomagico{Ring of Air Elemental Command}
 
 **Rarity:** Legendary; **Cost:** 250000 gp
 
@@ -17879,7 +17879,7 @@ The ring has 5 charges. It regains 1d4 + 1 charges daily at dawn.
 
 Spells cast through the ring have Saving Throw DC 21.
 
-## Ring of Earth Elemental Command
+\oggettomagico{Ring of Earth Elemental Command}
 
 **Rarity:** Legendary; **Cost:** 250000 gp
 
@@ -17899,43 +17899,43 @@ The ring has 5 charges. It regains 1d4 + 1 charges daily at dawn.
 
 Spells cast through the ring have Saving Throw DC 21.
 
-## Ring of Three Wishes
+\oggettomagico{Ring of Three Wishes}
 
 **Rarity:** Legendary; **Cost:** 75000 gp
 
 while wearing this **ring**, you can use two actions to spend 1 of its 1d3 charges to cast the wish spell through it. The ring loses its magic when you use the last charge.
 
-## Ring of Warmth
+\oggettomagico{Ring of Warmth}
 
 **Rarity:** Uncommon; **Cost:** 5000 gp
 
 while wearing this **ring**, you have resistance to cold damage. Additionally, you and everything you wear and carry are immune to the effects of low temperatures down to -45° C.
 
-## Ring of Human Control
+\oggettomagico{Ring of Human Control}
 
 **Rarity:** Rare; **Cost:** 2500 gp
 
 this **ring** gives the wearer the ability to use the *charm* spell once per day. The effect lasts until the controller ends it, 1 hour passes, or the spell is dispelled.
 
-## Ring of Plant Control
+\oggettomagico{Ring of Plant Control}
 
 **Rarity:** Very Rare; **Cost:** 5000 gp
 
 the wearer of this **ring** can control plants and plant creatures in a 3x3 m square area within a distance of 18 meters. Even if a plant is immobile, it can be moved while under the effect of this ring. The control lasts as long as the controller maintains total concentration, which prevents any other Action.
 
-## Ring of Swimming
+\oggettomagico{Ring of Swimming}
 
 **Rarity:** Uncommon; **Cost:** 3000 gp
 
 while wearing this **ring**, you have swimming speed equal to your Movement.
 
-## Ring of Jumping
+\oggettomagico{Ring of Jumping}
 
 **Rarity:** Uncommon; **Cost:** 2500 gp
 
 while wearing this **ring**, with two actions you can cast the jump spell through it at will, but the target can only be yourself.
 
-## Ring of the Ram
+\oggettomagico{Ring of the Ram}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
@@ -17947,7 +17947,7 @@ Alternatively, you can spend 1 to 3 charges of the ring, with two actions per ch
 
 This ring has 3 charges, and regains 1 spent charge every morning at dawn.
 
-## Ring of Djinni Summoning
+\oggettomagico{Ring of Djinni Summoning}
 
 **Rarity:** Legendary; **Cost:** 35000 gp
 
@@ -17957,19 +17957,19 @@ While it remains summoned, the djinni is friendly to you and your companions. It
 
 After the djinni departs, it cannot be summoned again before 24 hours have passed, and if the djinni dies, the ring loses its magic.
 
-## Ring of Deception
+\oggettomagico{Ring of Deception}
 
 **Rarity:** Rare
 
 the wearer of this cursed **ring** is convinced that it has a power chosen by the Narrator or determined randomly.
 
-## Ring of Weakness
+\oggettomagico{Ring of Weakness}
 
 **Rarity:** Rare
 
 once worn, this **ring** can only be removed by *Remove Curse*. The wearer loses one point of Strength per round until it is reduced to -3.
 
-## Ring of X-ray Vision
+\oggettomagico{Ring of X-ray Vision}
 
 **Rarity:** Common; **Cost:** 6000 gp
 
@@ -17977,7 +17977,7 @@ while wearing this **ring**, you can use two actions to speak its command word. 
 
 This sight can penetrate 30 centimeters of stone, 2.5 centimeters of common metal, or up to 90 centimeters of wood or dirt. Denser substances block the vision, as does a thin sheet of lead. Each time you use the ring again before completing a night's rest, you must succeed on a Fortitude Saving Throw with DC 18 or become fatigued.
 
-## Ring of Shooting Stars
+\oggettomagico{Ring of Shooting Stars}
 
 **Rarity:** Very Rare; **Cost:** 14000 gp
 
@@ -17992,31 +17992,31 @@ Each sphere appears in an unoccupied space you can see within 36 meters of you. 
 
 *Shooting Stars*. You can spend 1 to 3 charges with two actions. For each charge spent, you shoot a spark of light from the ring to a visible point within 18 meters of you. Each creature in a 3-meter-sided cube originating from that point is covered in sparks and must make a Dexterity Saving Throw DC 15, taking 5d4 fire damage if they fail, or half as much damage if they succeed.
 
-## Ring of Mind Shielding
+\oggettomagico{Ring of Mind Shielding}
 
 **Rarity:** Uncommon; **Cost:** 16000 gp
 
 while wearing this **ring**, you are immune to magic that allows other creatures to read your thoughts, determine if you are lying, know your Traits, or learn what kind of creature you are. Creatures can communicate telepathically with you only if you allow it.
 
-## Ring of Feather Fall
+\oggettomagico{Ring of Feather Fall}
 
 **Rarity:** Rare; **Cost:** 2000 gp
 
 if you fall from more than 1 meter and wear this **ring**, the Feather Fall spell activates automatically.
 
-## Ring of Water Walking
+\oggettomagico{Ring of Water Walking}
 
 **Rarity:** Uncommon; **Cost:** 1500 gp
 
 while wearing this **ring**, you can stand on and move across any liquid surface as if it were solid ground.
 
-## Ring of Evasion
+\oggettomagico{Ring of Evasion}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
 while wearing this **ring** and failing a Reflex Saving Throw, you can use your Reaction Action to spend 1 charge to repeat the Saving Throw you just failed. This ring has 3 charges, and regains 1 spent charge every morning at dawn.
 
-## Ring of Animal Influence
+\oggettomagico{Ring of Animal Influence}
 
 **Rarity:** Rare; **Cost:** 4000 gp
 
@@ -18026,25 +18026,25 @@ While wearing this **ring**, you can use two actions to spend 1 of its charges t
 
 This ring has 3 charges, and regains 1 spent charge daily at dawn.
 
-## Ring of Invisibility
+\oggettomagico{Ring of Invisibility}
 
 **Rarity:** Very Rare; **Cost:** 10000 gp
 
 while wearing this **ring**, you can turn invisible with two actions. Everything you wear or carry becomes invisible with you. You remain invisible until the ring is removed, you attack or cast a spell, or until you use two actions to become visible again. The ring can be used 3 times per day.
 
-## Ring of Free Action
+\oggettomagico{Ring of Free Action}
 
 **Rarity:** Rare; **Cost:** 20000 gp
 
 while wearing this **ring**, difficult terrain doesn't cost you extra movement. Additionally, magic can neither reduce your speed nor render you paralyzed or restrained.
 
-## Ring of Protection
+\oggettomagico{Ring of Protection}
 
 **Rarity:** Very Rare; **Cost:** 5000 gp
 
 various cost, various rarity, while wearing this **ring**, you have a bonus of +1 (5000 gp, rare), +2 (7500 gp, rare), +3 (12000 gp, very rare) to Defense and Saving Throws.
 
-## Ring of Resistance
+\oggettomagico{Ring of Resistance}
 
 **Rarity:** Rare; **Cost:** 12000 gp
 
@@ -18062,31 +18062,31 @@ while wearing this **ring**, you have resistance to one type of damage. The gem 
 | 9 | Sound | Spinel |
 | 10 | Negative Energy | Slate |
 
-## Ring of Regeneration
+\oggettomagico{Ring of Regeneration}
 
 **Rarity:** Very Rare; **Cost:** 12000 gp
 
 while wearing this **ring**, you regain 1d6 Hit Points every 10 minutes, provided you have at least 1 Hit Point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality in 1d6 + 1 days, provided that for the entire period you keep at least 1 Hit Point.
 
-## Ring of Telekinesis
+\oggettomagico{Ring of Telekinesis}
 
 **Rarity:** Very Rare; **Cost:** 80000 gp
 
 while wearing this **ring**, you can cast the *telekinesis* spell at will, but you can only target objects that are not being worn or carried.
 
-## Ring of Spell Turning
+\oggettomagico{Ring of Spell Turning}
 
 **Rarity:** Legendary; **Cost:** 35000 gp
 
 while wearing this **ring**, you have +1d6 to Saving Throws against any spell that targets only you and not an area of effect. Additionally, if you make a Critical Success on your Saving Throw and the spell is level 5 or lower, the spell has no effect on you and instead targets the spellcaster who cast the spell.
 
-## Elemental Water Amphora
+\oggettomagico{Elemental Water Amphora}
 
 **Rarity:** Rare; **Cost:** 2500 gp
 
 this **amphora** can be used to summon and control a water elemental similarly to the summon elemental spell. It is necessary to prepare the magic item and conduct a ritual for one round before the actual summoning, which requires one round. After the elemental has been summoned, concentration must be maintained in order to give it orders. The amphora can be used once per day.
 
-## Anti-hemorrhagic
+\oggettomagico{Anti-hemorrhagic}
 
 **Aura:** Moderate healing; **Cost:** 3000 gp
 
@@ -18094,7 +18094,7 @@ this **amphora** can be used to summon and control a water elemental similarly t
 
 An Anti-hemorrhagic **armor** helps stop blood loss from the wearer's wounds. An Anti-hemorrhagic armor reduces Bleeding damage by 1 each end of round.
 
-## Apparatus of the Crab
+\oggettomagico{Apparatus of the Crab}
 
 **Rarity:** Legendary; **Cost:** 15000 gp
 
@@ -18128,7 +18128,7 @@ To be used as a vehicle, the apparatus requires a pilot. When the apparatus door
 
 10: Unlocks and opens the rear hatch. Closes and seals the rear hatch.
 
-## Battering
+\oggettomagico{Battering}
 
 **Aura:** Weak evocation; **Cost:** 3000 gp
 
@@ -18136,7 +18136,7 @@ To be used as a vehicle, the apparatus requires a pilot. When the apparatus door
 
 These **shields** are very solid and often bear the emblem of a ram or bull. When the wearer of a battering shield makes an attack with the shield as part of a Charge, the shield's Defense bonus applies to Attack Rolls and damage. This does not stack with any other enhancement that the shield possesses. This ability is not applicable to light shields.
 
-## Magic Weapon
+\oggettomagico{Magic Weapons}
 
 **Cost:** 1800 gp
 
@@ -18144,7 +18144,7 @@ These **shields** are very solid and often bear the emblem of a ram or bull. Whe
 
 You have a bonus to Attack Rolls and damage rolls made with this **weapon**. The bonus is determined by the rarity of the weapon. Some magic weapons possess additional properties, such as emitting light.
 
-## Magic Armor / Shield
+\oggettomagico{Magic Armor / Shield}
 
 *Armor (any)* +1 2500 gp, +2 10000 gp, +3 18000 gp, +4 35000 gp, +5 80000 gp
 
@@ -18152,7 +18152,7 @@ You have a bonus to Attack Rolls and damage rolls made with this **weapon**. The
 
 While wielding this **shield**/**armor**, you have a bonus to Defense determined by the magic bonus of the shield/armor. This bonus is in addition to the normal Defense bonus provided by the shield/armor.
 
-## Demonic Armor
+\oggettomagico{Demonic Armor}
 
 **Aura:** Strong evocation; **Cost:** 5000 gp
 
@@ -18160,50 +18160,50 @@ While wielding this **shield**/**armor**, you have a bonus to Defense determined
 
 While wearing the **armor** you can understand and speak Abyssal. Additionally, the armor's clawed gauntlets transform unarmed strikes made with your hands into magic weapons that deal slashing damage, with a +1 bonus to Attack Rolls and damage rolls and d6 as the damage die.
 
-## Wand of Metal Detection
+\oggettomagico{Wand of Metal Detection}
 
 **Rarity:** Uncommon; **Cost:** 500 gp
 
 when a charge is spent, the **wand** points in the direction of any metal mass of at least 100 kg within 6 meters. The wielder of the wand has an intuitive perception of the type of metal detected.
 
-## Wand of Arcane darts
+\oggettomagico{Wand of Arcane darts}
 
 **Rarity:** Rare; **Cost:** 8000 gp
 
 while holding this **wand**, you can use two actions to spend 1 or more of its charges to cast Arcane dart through it, as the eponymous spell. Each charge generates 1 dart. The wand has 7 charges. The wand regains 1d3+1 spent charges at dawn.
 
-## Wand of Lightning
+\oggettomagico{Wand of Lightning}
 
 **Rarity:** Rare; **Cost:** 32000 gp
 
 while holding this **wand**, you can use two actions to spend 1 charge to cast lightning bolt through it (Saving Throw DC 18).
 This wand has 7 charges. The wand regains 1d3 + 1 spent charges at dawn.
 
-## Wand of Secrets
+\oggettomagico{Wand of Secrets}
 
 **Rarity:** Uncommon; **Cost:** 500 gp
 
 while holding this **wand**, you can use two actions to spend 1 charge and detect if a secret door or trap is located within 9 meters of you, the wand pulses and points to the one nearest to you. The wand has 3 charges. The wand regains all spent charges at dawn.
 
-## Wand of Fire
+\oggettomagico{Wand of Fire}
 
 **Rarity:** Very Rare; **Cost:** 18000 gp
 
 a **wand** of fire produces various spells and consumes 1 charge + level of the manifested spell. The spells that can be manifested are: Heat wave, pyrotechnics, fireball, wall of fire. As long as the wand is held in hand, any 1s on the dice for fire damage it inflicts is considered as 2. The wand has 7 charges and recovers 1 at dawn.
 
-## Wand of Ice
+\oggettomagico{Wand of Ice}
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
 a **wand** of fire produces various spells and consumes 1 charge + level of the manifested spell. The spells that can be manifested are: Ray of Frost, Sleet Storm, ice storm, cone of cold. As long as the wand is held in hand, any 1s on the dice for cold damage it inflicts is considered as 2. The wand has 7 charges and recovers 1 at dawn.
 
-## Wand of the War Mage
+\oggettomagico{Wand of the War Mage}
 
 **Rarity:** Very Rare; **Cost:** 25000 gp
 
 1500 / 5500 / 25000 gp, uncommon (+1), rare (+2), or very rare (+3), while holding this **wand**, you gain a bonus to Attack Rolls with spells determined by the rarity of the wand. In addition, you ignore light cover when making a spell attack.
 
-## Wand of Binding
+\oggettomagico{Wand of Binding}
 
 **Rarity:** Rare; **Cost:** 10000 gp
 
@@ -18213,43 +18213,43 @@ this **wand** has 7 charges for the following properties. The wand regains 1 spe
 
 while wielding this **wand**, with two actions you can spend 1 charge to cast detect magic through it. This wand has 7 charges, and recovers 1d3 spent charges every morning at dawn.
 
-## Wand of Secret Door Detection
+\oggettomagico{Wand of Secret Door Detection}
 
 **Rarity:** Uncommon; **Cost:** 300 gp
 
 this **wand** points to the nearest secret passage within 6 meters. The effect consumes one charge of the 7 available; all charges are recovered at dawn each day.
 
-## Wand of Assisted Escape
+\oggettomagico{Wand of Assisted Escape}
 
 **Rarity:** Rare; **Cost:** 2000 gp
 
 while wielding this **wand**, you can use the Reaction Action and spend 1 charge to gain +1d6 on Saving Throws you make to avoid becoming paralyzed or hindered, or you can spend 1 charge to gain +1d6 on any check made to escape a grapple attempt.
 
-## Wand of Light
+\oggettomagico{Wand of Light}
 
 **Rarity:** Rare; **Cost:** 3500 gp
 
 a **wand** of light manifests various spells and consumes 1 charge + the level of the manifested spell. The spells that can be manifested are: dancing lights, light, continual flame, daylight. Finally, by spending 5 charges, the wielder can create a beam of intense sunlight. The light of intense golden-yellow color has a range of 36 m, and forms a sphere of light with a diameter of 12 m. Anyone in the area of effect is blinded and stunned for 1 round if they fail a Fortitude Saving Throw DC 17. The golden sphere has a devastating effect on undead, inflicting 6d6 Light damage with no possibility of a Saving Throw. This wand has 7 charges. The wand recovers 2 spent charges at dawn.
 
-## Wand of Polymorph
+\oggettomagico{Wand of Polymorph}
 
 **Rarity:** Very Rare; **Cost:** 32000 gp
 
 while wielding this **wand**, you can use two actions to spend 1 charge to cast polymorph through it (DC 18, Will Saving Throw). This wand has 3 charges. The wand recovers 1 spent charge at dawn.
 
-## Wand of Negation
+\oggettomagico{Wand of Negation}
 
 **Rarity:** Very Rare; **Cost:** 35000 gp
 
 this **wand** negates spells or similar effects produced by magic items. The wielder points the wand toward an object within 36 meters, and it emits a light gray ray that hits the target. The ray automatically cancels spell manifestations or similar effects of level 3 or lower. Each use of the wand costs 1 charge and it can only be used once per round. This wand has 3 charges. The wand recovers 1 charge every day at dawn.
 
-## Wand of Paralysis
+\oggettomagico{Wand of Paralysis}
 
 **Rarity:** Rare; **Cost:** 16000 gp
 
 while wielding this **wand**, you can use two actions to spend 1 charge to cause a thin ray to shoot from its tip toward a visible creature within 18 meters of you. The target must succeed on a Fortitude Saving Throw with DC 17 or be paralyzed for 1 minute. At the end of each of the target's rounds, it can make a Fortitude Saving Throw DC 15, ending the effect on itself if it succeeds. This wand has 7 charges. The wand recovers 1 spent charge at dawn.
 
-## Wand of Fear
+\oggettomagico{Wand of Fear}
 
 **Rarity:** Rare; **Cost:** 13000 gp
 
@@ -18261,25 +18261,25 @@ this **wand** has 7 charges for the following properties. The wand recovers 1 sp
 
 It also cannot take reactions. As its action, the creature can only use the Dash Action or try to escape from an effect that prevents it from moving. If it cannot move anywhere, the creature can use the Total Defense Action. At the end of each of its rounds, the creature can repeat the Saving Throw, ending the effect on itself if it succeeds. This wand has 7 charges. The wand recovers 1 spent charge at dawn.
 
-## Wand of Web
+\oggettomagico{Wand of Web}
 
 **Rarity:** Uncommon; **Cost:** 8000 gp
 
 while wielding the **wand**, you can use two actions to spend 1 charge to cast web through it (Saving Throw DC 18). This wand has 7 charges. The wand recovers 1 spent charge at dawn.
 
-## Wand of Conveniences
+\oggettomagico{Wand of Conveniences}
 
 **Rarity:** Common; **Cost:** 300 gp
 
 The wielder of the **wand** can spend 1 charge to cast the spells unseen servant or unseen cook or floating disk. The wand has 7 charges that are recovered at dawn.
 
-## Wand of Illusions
+\oggettomagico{Wand of Illusions}
 
 **Rarity:** Rare; **Cost:** 3000 gp
 
 whoever wields this **wand** can cast Major Image (3), Silent Image (1), Mirror Image (2). Each spell costs a number of charges equal to the level +1. While concentrating on the effect, the character can only move at half speed. If hit, they must succeed on a Magic Check or the illusion immediately vanishes.
 
-## Wand of Wonder
+\oggettomagico{Wand of Wonder}
 
 **Rarity:** Very Rare; **Cost:** 25000 gp
 
@@ -18304,51 +18304,51 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 | 50-53 | You enlarge the target as if you had cast the enlarge/reduce spell. If the target cannot be subject to the spell, or if it is not a creature, you become the target. |
 | 54-58 | You cast the darkness spell. |
 | 59-62 | Thick grass sprouts in a radius of 18 meters around the target. If there is already grass, it grows ten times as tall and remains so for 1 minute. |
+
 | 63-65 | An object chosen by the Narrator disappears into the Ethereal Plane. The object must not be worn or carried, must be within 36 meters of the target, and no larger than 3 meters in any dimension. |
 | 66-69 | You shrink as if you had cast the enlarge/reduce spell on yourself. |
 | 70-79 | You cast the Fireball spell. |
 | 80-84 | You cast the Invisibility spell on yourself. |
-
 | 85-87 | Leaves grow on the target. If you chose a point in space as a target, the leaves will sprout on the creature closest to that point. Unless they are torn off, the leaves will turn brown and fall off after 24 hours. |
 | 88-90 | A stream of 1d4 x 10 gems worth 1 gp each shoots from the tip of the wand in a 9-meter long, 1-meter wide line. Each gem inflicts 1 bludgeoning damage, and their total damage is divided equally among all creatures on the line. |
 | 91-95 | A burst of sparkling, colored lights extends from you in a 9-meter radius. You and all creatures in the area must succeed on a Fortitude Saving Throw with DC 15 or be blinded for 1 minute. A creature can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself if it succeeds. |
 | 96-97 | The target's skin turns bright blue for 1d10 days. If you chose a point in space, the subject will be the creature closest to that point. |
 | 98-00 | If the target is a creature, it must make a Fortitude Saving Throw with DC 18. If the target is not a creature, the target becomes you and you will make the Saving Throw. If the Saving Throw fails by 5 or more, the target is petrified. If the Saving Throw fails by less, the target is hindered and begins to turn to stone. While hindered in this way, the target must repeat the Saving Throw at the end of each of its rounds, becoming petrified on a failure or ending the effect on a success. The target remains petrified until it is freed by the stone to flesh spell or similar magic. |
 
-## Wand of Fireballs
+\oggettomagico{Wand of Fireballs}
 
 **Rarity:** Rare; **Cost:** 32000 gp
 
 while wielding this **wand**, you can use two actions to spend 1 charge to cast fireball through it (Saving Throw DC 18). This wand has 7 charges. The wand recovers 1 spent charge at dawn.
 
-## Wand of Enemy Detection
+\oggettomagico{Wand of Enemy Detection}
 
 **Rarity:** Rare; **Cost:** 4000 gp
 
 while wielding this **wand**, you can use two actions and spend 1 charge to speak its command word. For the next minute, you know the direction of the nearest hostile creature within 18 meters of you, but not the distance separating you. The wand can sense the presence of hostile creatures that are ethereal, invisible, disguised, or hidden, as well as those in plain sight. The effect ends if you stop wielding the wand. This wand has 7 charges. The wand recovers 2 spent charges at dawn.
 
-## Wand of Trap Detection
+\oggettomagico{Wand of Trap Detection}
 
 **Rarity:** Uncommon; **Cost:** 400 gp
 
 this **wand** points to the nearest trap within 6 m. The effect consumes one charge. This wand has 7 charges. The wand recovers all spent charges at dawn.
 
-## Basin of Drowning
+\oggettomagico{Basin of Drowning}
 
 this cursed **basin** appears to be a water elemental vessel. However, instead of summoning an elemental, it releases a globe of water that envelops the character's head. They drown in 2d4 rounds unless they succeed on a Reflex Saving Throw DC 19. The water is "sticky" and can only be removed with magic (*Dispel Magic* or *destroy water*).
 
-## Crossbow of Arcane Bolts
+\oggettomagico{Crossbow of Arcane Bolts}
 
 this one-handed small **crossbow** has the ability to manifest a magic bolt.
 By spending 1 Action, it's possible to fire a magic bolt as if it were a single Arcane dart.
 
-## Headband of Intellect
+\oggettomagico{Headband of Intellect}
 
 **Rarity:** Rare; **Cost:** 8000 gp
 
 while wearing this **headband** your Intelligence is +4. The headband has no effect if your Intelligence is already +4 or higher.
 
-## Folding Boat
+\oggettomagico{Folding Boat}
 
 **Rarity:** Rare; **Cost:** 12000 gp
 
@@ -18358,7 +18358,7 @@ The second command word causes the box to unfold into a ship 7.2 meters long, 2.
 
 The third command word causes the folding boat to fold back into a box, provided that no creatures are aboard. Any objects aboard that cannot fit inside the box remain outside the box as it folds. Any objects aboard that can fit inside the box do so.
 
-## Staff of Swarming Insects
+\oggettomagico{Staff of Swarming Insects}
 
 **Rarity:** Rare; **Cost:** 160000 gp
 
@@ -18368,7 +18368,7 @@ this **staff** has 10 charges that you can use for the properties described belo
 
 - *Insect Cloud*. While holding this staff, you can use two actions and spend 1 charge to cause a swarm of harmless flying insects to spread out in a 9-meter radius from you. The insects remain for 10 minutes, making the area heavily obscured for everyone but you. The swarm moves with you, remaining centered on you. A wind of at least 15 kilometers per hour disperses the swarm and ends the effect.
 
-## Staff of the Woodlands
+\oggettomagico{Staff of the Woodlands}
 
 **Rarity:** Rare; **Cost:** 44000 gp
 
@@ -18379,7 +18379,7 @@ This staff has 10 charges for the following properties. It regains 1 expended ch
 
 - *Tree Form*. You can use two actions to plant one end of the staff in fertile soil and expend 1 charge to transform the staff into a healthy tree. The tree is 18 meters tall and has a 1-meter-diameter trunk; its branches spread out at the top for 6 meters. The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by detect magic. While touching the tree and using another Action to speak its command word, you return the staff to its normal form. Any creature on the tree falls when it transforms back into a staff.
 
-## Staff of Thunder and Lightning
+\oggettomagico{Staff of Thunder and Lightning}
 
 **Rarity:** Very Rare; **Cost:** 10000 gp
 
@@ -18395,13 +18395,13 @@ the **staff** can be wielded as a magic quarterstaff that grants a +2 bonus to A
 
 - *Thunder and Lightning*. You can use two Actions to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.
 
-## Staff of Striking
+\oggettomagico{Staff of Striking}
 
 **Rarity:** Very Rare; **Cost:** 25000 gp
 
 this **staff** can be wielded as a magic quarterstaff that grants a +3 bonus to Attack Rolls and damage rolls made with it. When you hit with a melee attack using the staff, you can expend up to 3 of its charges. For each charge expended, the target takes an extra 1d6 force damage. The staff has 10 charges, and regains 1 expended charge daily at dawn.
 
-## Staff of Fire
+\oggettomagico{Staff of Fire}
 
 **Rarity:** Very Rare; **Cost:** 16000 gp
 
@@ -18410,7 +18410,7 @@ In addition, you can use two actions to expend 1 or more of its charges to cast 
 
 The staff has 10 charges, and regains 1 expended charge daily at dawn.
 
-## Staff of Frost
+\oggettomagico{Staff of Frost}
 
 **Rarity:** Very Rare; **Cost:** 26000 gp
 
@@ -18421,7 +18421,7 @@ In addition, you can use two actions to expend 1 or more of its charges to cast 
 
 The staff has 10 charges, and regains 1 expended charge daily at dawn.
 
-## Staff of the Python
+\oggettomagico{Staff of the Python}
 
 **Rarity:** Uncommon; **Cost:** 2000 gp
 
@@ -18429,7 +18429,7 @@ you can use two actions to speak the command word of the **staff** and throw it 
 
 On your round, you can mentally command the snake as long as it is within 18 meters of you and you aren't incapacitated. You decide what actions the snake will take and where it will move during its next round, or you can issue it a general command, such as to attack your enemies or guard a location. If the snake is reduced to 0 Hit Points, it dies and reverts to its staff form. The staff is then destroyed. If the snake reverts to staff form before losing all its Hit Points, it regains all lost ones.
 
-## Staff of Power
+\oggettomagico{Staff of Power}
 
 **Rarity:** Legendary; **Cost:** 150000 gp
 
@@ -18452,7 +18452,7 @@ If the Saving Throw succeeds, the creature takes half this damage.
 
 Note: The Staff of the Archmage and Power are similar, because they were prepared by two bitter enemies who wanted to create the most powerful Staff.
 
-## Staff of the Archmage
+\oggettomagico{Staff of the Archmage}
 
 **Rarity:** Legendary; **Cost:** 125000 gp
 
@@ -18474,25 +18474,25 @@ A staff of the archmage can be used for a retributive strike, which requires it 
 
 The character who breaks the staff has a 50\% chance of going to another plane of existence, otherwise the explosive release of magical energy destroys them. When all charges are consumed, the staff becomes a +2 staff. If the charges are exhausted it cannot be used for a retributive strike.
 
-## Staff of Withering
+\oggettomagico{Staff of Withering}
 
 **Rarity:** Rare; **Cost:** 3000 gp
 
 the **staff** can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to deal an extra 2d10 Void damage to the target. In addition, the target must succeed on a Fortitude Saving Throw with DC 18 or have -1d6 for 1 hour on any Skill check or Saving Throw that requires Constitution. This staff has 3 charges and regains 1d3 expended charges at midnight.
 
-## Staff of Healing
+\oggettomagico{Staff of Healing}
 
 **Rarity:** Rare; **Cost:** 13000 gp
 
 while holding the **staff**, you can use two actions to expend 1 or more of its charges to cast one of the following spells from it: Cure Wounds (1 charge), lesser restoration (2 charges), remove disease (3 charges). This staff has 10 charges, and regains 1 expended charge daily at dawn.
 
-## Staff of Sorcery
+\oggettomagico{Staff of Sorcery}
 
 **Rarity:** Very Rare; **Cost:** 85000 gp
 
 in combat, this **staff** functions as a +1 staff. It can be used to cast summon elemental, invisibility, passwall and web. The staff can be used as a wand of paralysis. Each of these powers requires one charge. It's possible to break the staff to produce a "final strike," the effect of which depends on the number of remaining charges. The staff explodes in a large sphere of flames, hitting all creatures within 9 m (including the owner of the staff) and inflicting 8 damage per remaining charge, Fortitude Saving Throw DC 27 to halve.
 
-## Staff of Charming
+\oggettomagico{Staff of Charming}
 
 **Rarity:** Rare; **Cost:** 12000 gp
 
@@ -18504,11 +18504,11 @@ If you succeed on a Saving Throw against an enchantment spell that targets only 
 
 The staff has 7 charges, and regains 1 expended charge daily at dawn.
 
-## Clapper of Cannibalism
+\oggettomagico{Clapper of Cannibalism}
 
 this **object** appears to be a Clapper of Opening. It functions as such for the first round of use (and has 1d4×10 charges for this purpose). However, on the second ringing all creatures within 18 m must succeed on a Will Saving Throw DC 21 or fall prey to a voracious hunger, attacking the nearest humanoid to kill and devour it. A new Saving Throw is allowed on alternate rounds. If no humanoids are present, affected creatures will attack other creatures present.
 
-## Chime of Opening
+\oggettomagico{Chime of Opening}
 
 **Rarity:** Rare; **Cost:** 1500 gp
 
@@ -18516,7 +18516,7 @@ this hollow **metal** tube measures about 30 centimeters in length and weighs 0.
 
 The chime can be used ten times. After the tenth use, it cracks and becomes unusable.
 
-## Bag of Holding
+\oggettomagico{Bag of Holding}
 
 **Rarity:** Common
 
@@ -18530,7 +18530,7 @@ Placing a bag of holding inside the extradimensional space generated by a handy 
 
 Some spellcasters prefer to create Holding Chests, which function in exactly the same way as bags of holding.
 
-## Bag of Holding Type I
+\oggettomagico{Bag of Holding Type I}
 
 **Rarity:** Uncommon; **Cost:** 500 gp
 
@@ -18538,7 +18538,7 @@ this is the smallest model of **bags** of holding. It appears to be a small bag 
 It is not possible to insert objects with a width greater than 20 cm and a length greater than 50 cm.
 The maximum capacity is 20 kg/Encumbrance 7.
 
-## Bag of Holding Type II
+\oggettomagico{Bag of Holding Type II}
 
 **Rarity:** Uncommon; **Cost:** 1000 gp
 
@@ -18546,21 +18546,21 @@ this is the medium model of **bags** of holding. It appears to be a bag 40 cm in
 It is not possible to insert objects with a width greater than 40 cm and a length greater than 100 cm.
 The maximum capacity is 100 kg/Encumbrance 25.
 
-## Bag of Holding Type III
+\oggettomagico{Bag of Holding Type III}
 
 **Rarity:** Rare; **Cost:** 1500 gp
 
 it appears to be a **sack** 80 cm in diameter with a mouth about as wide.
 It is not possible to insert objects with a width greater than 80 cm and a length greater than 150 cm. The maximum capacity is 200 kg/Encumbrance 50.
 
-## Bag of Holding Type IV
+\oggettomagico{Bag of Holding Type IV}
 
 **Rarity:** Very Rare; **Cost:** 5000 gp
 
 it appears to be a **large sack** 120 cm in diameter with a mouth about as wide.
 It is not possible to insert objects with a width greater than 120 cm and a length greater than 200 cm. The maximum capacity is 300 kg/Encumbrance 75.
 
-## Bag of Beans
+\oggettomagico{Bag of Beans}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
@@ -18580,18 +18580,18 @@ The fire ignites flammable objects in the area that aren't being worn or carried
 | 51-60 | 1d4 + 8 pink toads appear. Whenever a toad is touched, it transforms into a monster of Large size or smaller chosen by the Narrator. The monster remains for 1 minute and then disappears in a puff of pink smoke. |
 | 61-70 | A bulette bursts out of the ground and attacks. |
 | 71-80 | A fruit tree grows. It has 1d10+20 fruits, each fruit has a chance (50/50) of working as an enhanced poison or as a random natural potion. The tree vanishes after 1 hour. The harvested fruits remain and maintain their magic for 30 days. |
-| 81-90 | A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, |
-| choosing randomly in case of a tie; if it fails, it takes 10d6 force damage. |
+| 81-90 | A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, choosing randomly in case of a tie; if it fails, it takes 10d6 force damage. |
 | 91-99 | A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Narrator's choice. |
+
 | 100 | A giant beanstalk grows on the spot, rising to a height of the Narrator's choice. The top leads wherever the Narrator wishes, be it to a cloud giant's castle or another plane of existence. |
 
-## Bag of Negation
+\oggettomagico{Bag of Negation}
 
 **Rarity:** Rare; **Cost:** 9000 gp
 
 this magic **bag** functions as a bag of holding for 1d6 days. After this period, all material inside it or new material added is subject to a transformation depending on its nature. Gemstones become useless rocks, and precious metals transform into base metals like lead. Magic items lose their power without any Saving Throw and transform into mundane items of their type. Only extremely powerful magic items are possibly immune to this effect.
 
-## Bag of Devouring
+\oggettomagico{Bag of Devouring}
 
 **Rarity:** Rare; **Cost:** 2000 gp
 
@@ -18599,7 +18599,7 @@ the **bag** appears to be a bag of holding. When part of a living creature is pl
 
 Another creature can use two actions to reach into the bag and pull out the creature inside, succeeding on a Fortitude Strength Saving Throw DC 25 (provided it's not itself pulled into the bag). Animal or plant matter placed inside the bag is devoured and lost forever if it begins its round inside the bag.
 
-## Efreeti Bottle
+\oggettomagico{Efreeti Bottle}
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
@@ -18607,12 +18607,14 @@ this painted brass **bottle** weighs 500 grams. When you use two actions to remo
 
 | **3d6** | **Effect** |
 | 3-5 | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears and the bottle loses its magic. |
-| 6-16 | The efreeti serves you for 1 hour, doing as you command. Then it returns to the bottle and a new stopper appears and seals it. The stopper cannot be removed for 24 hours. The next two times the bottle is opened, the same effect appears. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
+| 6-16 | The efreeti serves you for 1 hour, doing as you command. Then it returns to the bottle and a new stopper appears and seals it. |
 
 | **3d6** | **Effect** |
+| --- | --- |
+| The stopper cannot be removed for 24 hours. The next two times the bottle is opened, the same effect appears. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
 | 17-18 | The efreeti can cast the wish spell on your behalf three times. It disappears when it grants the final wish or after 1 hour, at which point the bottle loses its magic. |
 
-## Eversmoking Bottle
+\oggettomagico{Eversmoking Bottle}
 
 **Rarity:** Uncommon; **Cost:** 1200 gp
 
@@ -18620,7 +18622,7 @@ smoke continually pours from the mouth of this brass **bottle**, which is stoppe
 
 The cloud persists as long as the bottle remains open. Closing the bottle requires you to speak its command word with two actions. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (15 to 30 km/h) can disperse the smoke in 1 minute, and a strong wind (more than 30 km/h) can disperse it in 1 round.
 
-## Bracers of Archery
+\oggettomagico{Bracers of Archery}
 
 **Aura:** Weak transmutation; **Cost:** 3000 gp
 
@@ -18628,7 +18630,7 @@ The cloud persists as long as the bottle remains open. Closing the bottle requir
 
 While wearing these **bracers**, you are proficient with the Bow Weapon List, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.
 
-## Bracers of Defense
+\oggettomagico{Bracers of Defense}
 
 **Aura:** Abjuration; **Cost:**  Cost +6000 gp, 15000 gp, 30000 gp, 45000 gp, 60000 gp.
 
@@ -18636,7 +18638,7 @@ While wearing these **bracers**, you are proficient with the Bow Weapon List, an
 
 While wearing these **bracers**, you gain a +1, +2, +3, +4, +5 bonus to your Defense if you're not wearing any armor and not using any shield.
 
-## Bracers of Greater Defense
+\oggettomagico{Bracers of Greater Defense}
 
 **Aura:** Abjuration;  **Cost:**  +12000 gp, 24000 gp, 36000 gp, 50000 gp, 75000 gp
 
@@ -18646,7 +18648,7 @@ While wearing these **bracers**, you gain a +1, +2, +3, +4, +5 bonus to your Def
 
 These **bracers** function as armor while not being such. You are wrapped in an invisible magical shield that grants you Defense 15, 17, 19, 21, 23. The Defense can be increased with magic items that improve Defense, except for armor and shields.
 
-## Brazier of Commanding Fire Elementals
+\oggettomagico{Brazier of Commanding Fire Elementals}
 
 **Rarity:** Rare; **Cost:** 8000 gp
 
@@ -18654,11 +18656,11 @@ while a fire burns in this brass **brazier**, you can use two actions to speak t
 
 The brazier weighs 2.5 kilograms, encumbrance 3.
 
-## Brazier of Cursed Sleep
+\oggettomagico{Brazier of Cursed Sleep}
 
 this **brazier** has the appearance of, and functions as, a brazier of commanding fire elementals. However, when activated, the smoke thickens within a 3 m radius around the brazier, inducing a cursed sleep on anyone in the area, unless they succeed on a Will Saving Throw DC 21. A fire elemental appears normally, but it is hostile and attacks all creatures present. Creatures subject to the cursed sleep sleep indefinitely until they are killed, unless Remove Curse is used.
 
-## Brilliant
+\oggettomagico{Brilliant}
 
 **Aura:** Moderate evocation; **Cost:** 3750 gp
 
@@ -18668,7 +18670,7 @@ this **brazier** has the appearance of, and functions as, a brazier of commandin
 
 This armor must be cleaned at least once a day or it loses its powers for a week.
 
-## Decanter of Endless Water
+\oggettomagico{Decanter of Endless Water}
 
 **Rarity:** Uncommon; **Cost:** 12000 gp
 
@@ -18680,23 +18682,13 @@ This armor must be cleaned at least once a day or it loses its powers for a week
 
 	The target must succeed on a Fortitude Saving Throw with DC 15 or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn't being worn or carried and weighs no more than 100 kilograms. The object is knocked over or pushed 3 meters away from you.
 
-## Potion Jug
+\oggettomagico{Potion Jug}
 
 **Rarity:** Legendary; **Cost:** 18000 gp
 
 this blue ceramic **jug** has a solid gold stopper. The jug contains 1d4+1 magic potions, each of which can be poured every 2 days. The specific potions are determined randomly, remain the same over time, and must always be poured in the same order. Not all are necessarily beneficial.
 
-## Portable Hole
-
-**Rarity:** Rare; **Cost:** 10000 gp
-
-this elegant black **cloth**, as soft as silk, folds down to the size of a handkerchief. It unfolds into a circular layer 1 meter in diameter. You can use 1 round to unfold a portable hole and place it against a solid surface, whereupon the Portable Hole creates a 3-meter-deep hole. Any creature small enough can use the Portable Hole to pass through the wall or surface it's placed on as long as it's less than 3 meters thick.
-
-You can use 1 round to close a portable hole by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creature or object inside it is expelled with a 50\% chance of coming out on one side or the other.
-
-Placing a portable hole inside the extradimensional space created by a bag of holding, Portable Cabinet, handy haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where one item was placed inside the other. Any creature within 3 meters of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way and can't be reopened.
-
-## Candle of Invocation
+\oggettomagico{Candle of Invocation}
 
 **Rarity:** Very Rare; **Cost:** 8000 gp
 
@@ -18710,17 +18702,17 @@ When lit, the candle radiates dim light in a 9-meter radius. Any creature within
 
 Alternatively, when you first light the candle, you can cast the gate spell. Doing so destroys the candle.
 
-## Chaos
+\oggettomagico{Chaos}
 
 **Weapon** Cursed. This ability grants a +2 bonus to attacks, however, at the beginning of battle, it causes the bearer to be seized by uncontrollable rage. The character will attack the nearest creature, friend or foe, until none remain alive within 18 m. The Remove Curse spell is necessary to free oneself from the weapon.
 
-## Hat of Disguise
+\oggettomagico{Hat of Disguise}
 
 **Rarity:** Uncommon; **Cost:** 5000 gp
 
 while wearing this **hat**, you can use two actions to cast the *Disguise Self* spell at will. The spell ends when the hat is removed.
 
-## Dimensional Shackles
+\oggettomagico{Dimensional Shackles}
 
 **Rarity:** Rare; **Cost:** 4000 gp
 
@@ -18728,7 +18720,7 @@ you can use 2 Actions to place these **manacles** on an incapacitated creature. 
 
 You and any creature you designate when you use the shackles can use two actions to remove them. Once every 30 days, the bound creature can make a Fortitude Saving Throw with Strength DC 40. On a success, the creature breaks free and destroys the shackles.
 
-## Circlet of Blasting
+\oggettomagico{Circlet of Blasting}
 
 **Aura:** Fire List; **Cost:** 1500 gp
 
@@ -18736,7 +18728,7 @@ You and any creature you designate when you use the shackles can use two actions
 
 while wearing this **circlet**, you can use two actions, bringing two fingers to your forehead, to cast the Scorching Ray spell through it. The circlet cannot be used in this way again until the next dawn.
 
-## Belt of Giant Strength
+\oggettomagico{Belt of Giant Strength}
 
 **Rarity:** Very Rare; **Cost:** 45000 gp
 
@@ -18754,7 +18746,7 @@ There are four variants of this belt, each corresponding to a kind of true giant
 | **Cloud** | 8 | Legendary |
 | **Storm** | 9 | Legendary |
 
-## Belt of Dwarvenkind
+\oggettomagico{Belt of Dwarvenkind}
 
 **Rarity:** Rare; **Cost:** 86000 gp
 
@@ -18770,13 +18762,13 @@ If you aren't a dwarf, you gain the following additional benefits while wearing 
 
 - you have +2 to Saving Throws against poison and have resistance to poison damage. You have darkvision out to a range of 18 meters. You can speak, read, and write Dwarvish.
 
-## Sovereign Glue
+\oggettomagico{Sovereign Glue}
 
 **Rarity:** Uncommon; **Cost:** 400 gp
 
 this milky-white, viscous **substance** can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with oil of slipperiness. When found, it contains 1d6 + 1 ounces. One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the universal solvent or oil of etherealness, or with a wish spell.
 
-## Necklace of Prayer Beads
+\oggettomagico{Necklace of Prayer Beads}
 
 **Aura:** Animals and Plants List; **Cost:** 3000 gp
 
@@ -18794,7 +18786,7 @@ There are six types of magic beads. The Narrator decides the type of each bead o
 | 17 | Wind Walking | Wind walk |
 | 18 | Summons | Blade barrier |
 
-## Necklace of Adaptation
+\oggettomagico{Necklace of Adaptation}
 
 **Aura:** Air List; **Cost:** 1500 gp
 
@@ -18802,13 +18794,13 @@ There are six types of magic beads. The Narrator decides the type of each bead o
 
 while wearing this **necklace**, you can breathe normally in any environment that has air, and you have +1d6 to Saving Throws made against harmful gases and vapors.
 
-## Necklace of Fresh Air
+\oggettomagico{Necklace of Fresh Air}
 
 **Rarity:** Uncommon; **Cost:** 2500 gp
 
 this **necklace** is a chain with a platinum medallion. The magic of the necklace surrounds the wearer with a bubble of clean air, making them immune to the effects of vapors and gases. The bubble allows survival in an airless environment for a week.
 
-## Necklace of Fireballs
+\oggettomagico{Necklace of Fireballs}
 
 **Aura:** Animals and Plants List; **Cost:** 500 gp * Fireball
 
@@ -18816,7 +18808,7 @@ this **necklace** is a chain with a platinum medallion. The magic of the necklac
 
 from this **necklace** hang 1d6 + 3 beads. You can use two actions to detach a bead and throw it up to 18 meters away. When it reaches the end of its trajectory, the bead detonates as a fireball spell (DC 18).
 
-## Necklace of Strangulation
+\oggettomagico{Necklace of Strangulation}
 
 **Aura:** Animals and Plants List; **Cost:** 3000 gp
 
@@ -18824,7 +18816,7 @@ from this **necklace** hang 1d6 + 3 beads. You can use two actions to detach a b
 
 this **necklace** appears to be a valuable piece of jewelry. As soon as it is worn, it tightens lightning-fast around the neck, inflicting 6 damage per round. It cannot be removed in any way except with a Wish or Remove Curse, remaining tight around its victim's neck even after death. The necklace will only loosen when the victim has become a skeleton, ready to be collected by an unsuspecting treasure hunter.
 
-## Brave
+\oggettomagico{Brave}
 
 **Aura:** Enchantment weak; **Cost:** 3000 gp
 
@@ -18832,7 +18824,7 @@ this **necklace** appears to be a valuable piece of jewelry. As soon as it is wo
 
 This special ability can only be added to a melee **weapon**. A Brave weapon fortifies the courage and morale of its wielder in battle. The wielder gains a bonus to Saving Throws against Fear equal to the weapon's bonus.
 
-## Rope of Climbing
+\oggettomagico{Rope of Climbing}
 
 **Rarity:** Uncommon; **Cost:** 2000 gp
 
@@ -18840,7 +18832,7 @@ this 18-meter-long silk **rope** weighs 1.5 pounds, encumbrance 1, and can hold 
 
 The rope has Defense 20, Hardness 3, and 20 Hit Points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 Hit Points, it is destroyed.
 
-## Rope of Entanglement
+\oggettomagico{Rope of Entanglement}
 
 **Rarity:** Rare; **Cost:** 4000 gp
 
@@ -18848,19 +18840,19 @@ this **rope** is 9 meters long and weighs 1.5 pounds, encumbrance 1. If you hold
 
 The rope has Defense 20 and 20 Hit Points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 Hit Points, it is destroyed.
 
-## Strangling Rope
+\oggettomagico{Strangling Rope}
 
 **Rarity:** Rare
 
 this magic **rope**, though normal in appearance, can animate and attack those who try to use it, tightening around the neck and trying to strangle its victim. The strangling rope is long enough to strangle up to 1d4 creatures within a 3 m radius, inflicting 2d6 wounds per round to each. A Reflex Saving Throw DC 19 must be passed to avoid being caught. The rope has Defense 22 and 25 Hit Points, but only those not being strangled can attack it. Victims cannot free themselves in any way, nor cast spells.
 
-## Horn of Valhalla
+\oggettomagico{Horn of Valhalla}
 
 **Rarity:** Rare; **Cost:** 6000 gp
 
 you can use two Actions to blow this **horn**. In response, warrior spirits from Asgard appear within 18 meters of you. These spirits use the statistics of berserkers. They return to Asgard after 1 hour or when they drop to 0 Hit Points. Once used, the horn can't be used again before 7 days have passed.
 
-## Horn of Blasting
+\oggettomagico{Horn of Blasting}
 
 **Rarity:** Rare; **Cost:** 750 gp
 
@@ -18868,7 +18860,7 @@ you can use two actions to speak the command word of the **horn** and then blow 
 
 Each use of the horn's magic has a 20\% chance of causing the horn to explode. The explosion deals 10d6 fire damage to the blower and destroys the horn.
 
-## Corrosive
+\oggettomagico{Corrosive}
 
 **Aura:** Earth List moderate; **Cost:** 3000 gp
 
@@ -18876,7 +18868,7 @@ Each use of the horn's magic has a 20\% chance of causing the horn to explode. T
 
 A Corrosive **weapon** is coated with a layer of acid that inflicts an additional 1d6 acid damage when it hits a target. The acid doesn't harm the wielder.
 
-## Cube of Force
+\oggettomagico{Cube of Force}
 
 **Rarity:** Rare; **Cost:** 16000 gp
 
@@ -18910,13 +18902,13 @@ Below are the properties of each activatable face and its related charge cost.
 
 Each activation lasts one minute.
 
-## Cube of Cold Protection
+\oggettomagico{Cube of Cold Protection}
 
 **Rarity:** Rare; **Cost:** 2500 gp
 
 this cubic **pendant** is activated and deactivated by pressing one face (Immediate Action). When activated, it emanates a cubic protective field with a 3 m edge (similar to that of a force cube but with a different effect). The temperature inside the protective field is maintained at 21 °C. The field absorbs all cold attacks, completely negating them. If it negates more than 50 cold damage in one round (either from a single attack or multiple attacks), however, the magic field collapses and cannot be reactivated for an hour. If the field negates more than 100 cold damage in one round, the cube is destroyed.
 
-## Dancing
+\oggettomagico{Dancing}
 
 **Aura:** Transmutation strong; **Cost:** 25000 gp
 
@@ -18928,7 +18920,7 @@ It always remains next to the person who released it, even if they move by physi
 
 This ability can only be added to melee weapons.
 
-## Of Pain
+\oggettomagico{Of Pain}
 
 **Aura:** Invocation moderate; **Cost:** 3000 gp
 
@@ -18936,7 +18928,7 @@ This ability can only be added to melee weapons.
 
 This ability can only be added to melee **weapons**. When a weapon of pain hits an opponent, it produces a flash of Void that echoes between the wielder and the target. The energy inflicts 2d6 additional damage to the opponent and 1d6 damage to the wielder.
 
-## Negating
+\oggettomagico{Negating}
 
 **Aura:** Abjuration strong; **Cost:** 25000 gp
 
@@ -18944,7 +18936,7 @@ This ability can only be added to melee **weapons**. When a weapon of pain hits 
 
 When the wearer of the **armor** is the target of a Critical Hit or damage Explosion made with a melee weapon, they can automatically negate this Critical and make it a normal attack. This ability can only be applied to heavy armor. The ability can be used a number of times per day equal to the armor/shield's magic bonus.
 
-## Determination
+\oggettomagico{Determination}
 
 **Aura:** Healing List moderate; **Cost:** 15000 gp
 
@@ -18952,7 +18944,7 @@ When the wearer of the **armor** is the target of a Critical Hit or damage Explo
 
 A **shield** or **armor** grants the ability to fight in seemingly impossible circumstances. Once per day, when the wearer reaches 0 or fewer Hit Points, the item automatically activates the Cure wounds 2 spell.
 
-## Defensive
+\oggettomagico{Defensive}
 
 **Aura:** Abjuration moderate; **Cost:** 3000 gp
 
@@ -18960,7 +18952,7 @@ A **shield** or **armor** grants the ability to fight in seemingly impossible ci
 
 A Defensive **weapon** allows its wielder to transfer part or all of the weapon's bonus to their Defense as a bonus that stacks with any other bonuses. As an Immediate Action at the beginning of their round, the wielder can choose to transfer part or all of the weapon's attack bonus as a bonus to Defense and Saving Throws. The bonus scores remain valid until the beginning of the next round.
 
-## Spell Defense
+\oggettomagico{Spell Defense}
 
 **Aura:** Abjuration strong; **Cost:** 5000 gp
 
@@ -18968,7 +18960,7 @@ A Defensive **weapon** allows its wielder to transfer part or all of the weapon'
 
 You have +1d6 to Saving Throws against spells and other magical effects.
 
-## Distance
+\oggettomagico{Distance}
 
 **Aura:** Divination moderate; **Cost:** 3000 gp
 
@@ -18976,7 +18968,7 @@ You have +1d6 to Saving Throws against spells and other magical effects.
 
 This special ability can only be added to **projectiles**. A Distance projectile ignores the attack penalty up to triple the range. The cost is for 20 projectiles.
 
-## Giant Destroyer
+\oggettomagico{Giant Destroyer}
 
 **Aura:** Invocation strong; **Cost:** 16000 gp
 
@@ -18992,7 +18984,7 @@ You can spend 1 charge and make a ranged weapon attack by throwing it as if it h
 
 The hammer has 5 charges and regains 1 expended charge each day at dawn.
 
-## Destruction
+\oggettomagico{Destruction}
 
 **Aura:** Evocation strong; **Cost:** 6000 gp
 
@@ -19000,7 +18992,7 @@ The hammer has 5 charges and regains 1 expended charge each day at dawn.
 
 A **weapon** of Destruction is the bane of all Undead. Any Undead creature hit in combat must succeed on a Will Saving Throw with DC 14 or be destroyed or take 2d8 additional Light damage. A weapon of Destruction must be a bludgeoning melee weapon.
 
-## Elegant
+\oggettomagico{Elegant}
 
 **Aura:** Illusion moderate; **Rarity:** Common; **Cost:** 3000 gp
 
@@ -19008,25 +19000,25 @@ A **weapon** of Destruction is the bane of all Undead. Any Undead creature hit i
 
 You can use two actions to speak the command word to make the **armor** assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor / shield maintains its normal Encumbrance and weight. The illusory appearance lasts until you use this property again or remove the armor.
 
-## Helm of Underwater Action
+\oggettomagico{Helm of Underwater Action}
 
 **Rarity:** Rare; **Cost:** 4000 gp
 
 this **helm**, usually made of fish skin, grants the ability to breathe underwater, Swimming movement 18 meters, echolocation 18 meters. The power can be used for 6 hours per day and recharges at dawn.
 
-## Helm of Teleportation
+\oggettomagico{Helm of Teleportation}
 
 **Rarity:** Rare; **Cost:** 64000 gp
 
 while wearing this **helm**, you can use two actions and spend 1 charge to cast the teleport spell through it. The helm has 3 charges and regains 1 each morning at dawn.
 
-## Helm of Comprehending Languages
+\oggettomagico{Helm of Comprehending Languages}
 
 **Rarity:** Common; **Cost:** 600 gp
 
 while wearing this **helm**, you can use two actions to cast comprehend languages at will through it.
 
-## Helm of Brilliance
+\oggettomagico{Helm of Brilliance}
 
 **Rarity:** Legendary; **Cost:** 75000 gp
 
@@ -19040,13 +19032,13 @@ As long as the helm has at least one fire opal, you can use two actions and spea
 
 If you're wearing the helm and take fire damage as a result of a Critical Failure on a Saving Throw against a spell, the helm emits a beam of light from its remaining gems. Each creature within 18 meters of the helm, except you, must succeed on a Reflex Saving Throw with DC 21 or be struck by the beam, taking Light damage equal to the number of gems in the helm x 5. Then the gems and the helm are destroyed.
 
-## Helm of Telepathy
+\oggettomagico{Helm of Telepathy}
 
 **Rarity:** Rare; **Cost:** 12000 gp
 
 while wearing this **helm**, you can use two actions to cast detect thoughts (Saving Throw DC 13) through it. As long as you maintain concentration on the spell, you can use two actions to send a telepathic message to a creature you are focused on. It can reply (using two actions to do so) while your focus on it continues. While focusing on a creature with detect thoughts, you can use two actions to cast the suggestion spell (Saving Throw DC 13) through the helm on that creature. Once used, the suggestion property can't be used again until the next dawn.
 
-## Light Energy
+\oggettomagico{Light Energy}
 
 **Aura:** Transmutation strong; **Cost:** 45000 gp
 
@@ -19060,7 +19052,7 @@ The weapon has a +2 bonus to Attack Rolls and damage rolls and deals Light damag
 
 The sword's luminous blade emits bright light in a 3-meter radius and dim light for 6 meters. The light is sunlight. While the blade persists, you can use 1 Action to expand or reduce the radius of bright and dim light by 1 meter each, for 3 rounds.
 
-## Efficient Quiver
+\oggettomagico{Efficient Quiver}
 
 **Rarity:** Rare; **Cost:** 2500 gp
 
@@ -19068,7 +19060,7 @@ each of the **quiver**'s three compartments connects to an extradimensional spac
 
 The shortest compartment can hold up to 60 arrows, bolts, or similar objects. The midsize compartment holds up to 18 javelins or similar objects. The longest compartment holds up to 6 long objects, such as bows, quarterstaffs, or spears. You can draw any item the quiver contains as if you were drawing it from a regular quiver or scabbard.
 
-## Iron Bands of Binding
+\oggettomagico{Iron Bands of Binding}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
@@ -19076,7 +19068,7 @@ this rusty iron **sphere** measures 7.5 centimeters in diameter and weighs 500 g
 
 A creature, including the restrained one, can use two actions to make a Fortitude Saving Throw with Strength DC 25 to break the iron bands. If it succeeds, the item is destroyed, and the restrained creature is freed. If the check fails, any further attempts made by that creature automatically fail until 24 hours have elapsed. Once the bands are used, they can't be used again until the next dawn.
 
-## Comfortable
+\oggettomagico{Comfortable}
 
 **Aura:** Transmutation strong; **Cost:** 6000 gp
 
@@ -19084,7 +19076,7 @@ A creature, including the restrained one, can use two actions to make a Fortitud
 
 **Armor** with the Comfortable ability counts as light armor for wearing penalties and encumbrance. The character can move almost without difficulty with this armor.
 
-## Wounding
+\oggettomagico{Wounding}
 
 **Aura:** Necromancy moderate; **Cost:** 6000 gp
 
@@ -19095,31 +19087,31 @@ Bleeding creatures take the Bleeding damage at the beginning of their round.
 
 Creatures immune to Critical Hits are immune to the Bleeding damage inflicted by this weapon.
 
-## Phylactery against Undead
+\oggettomagico{Phylactery against Undead}
 
 **Rarity:** Common; **Cost:** 1000 gp
 
 this sacred **object** allows the use of the Turn Undead Feat with a +2 bonus to the sum of Traits in common with the Patron.
 
-## Phylactery of Youth
+\oggettomagico{Phylactery of Youth}
 
 **Rarity:** Legendary; **Cost:** 10000 gp
 
 the **parchment** strip of this phylactery is usually enclosed in a small metal tube worn around the neck. When a character wears it, their natural aging rate decreases and they age 1 month in a year, while any magical aging is reduced by half.
 
-## Love Potion
+\oggettomagico{Love Potion}
 
 **Rarity:** Uncommon; **Cost:** 120 gp
 
 you will be Charmed for 1 hour by the first creature you see within 10 minutes after drinking this **potion**. If the creature is of a species or gender you would normally be attracted to, you consider it your true love while you are Charmed.
 
-## Treasure Finding Potion
+\oggettomagico{Treasure Finding Potion}
 
 **Rarity:** Rare; **Cost:** 500 gp
 
 one who drinks this **potion** can sense within 72 meters treasures containing precious metals or gems, provided they have a value of at least 50 gold coins. The direction of the treasure can be perceived, but not its exact distance. No non-magical barrier can prevent the perception of treasures, except for a lead sheet.
 
-## Shocking
+\oggettomagico{Shocking}
 
 **Aura:** Air List; **Cost:** 3000 gp
 
@@ -19127,7 +19119,7 @@ one who drinks this **potion** can sense within 72 meters treasures containing p
 
 On command, a Shocking **weapon** is wreathed in crackling electricity that inflicts 1d6 additional electricity damage for each successful hit. This electricity doesn't harm the wielder. The effect remains active as long as the weapon is drawn; the weapon is immune to electricity damage.
 
-## Ethereal Form
+\oggettomagico{Ethereal Form}
 
 **Aura:** Transmutation strong; **Cost:** 24500 gp
 
@@ -19135,7 +19127,7 @@ On command, a Shocking **weapon** is wreathed in crackling electricity that infl
 
 On command, this property allows the wearer of the **armor** to become Ethereal (as per the Ethereal Form spell) once per day. The character can remain Ethereal for as long as desired but, once returned to normal, cannot become Ethereal again that day.
 
-## Instant Fortress
+\oggettomagico{Instant Fortress}
 
 **Rarity:** Very Rare; **Cost:** 75000 gp
 
@@ -19149,7 +19141,7 @@ The tower is made of adamantine, and its magic prevents it from being tipped ove
 
 Only a wish spell can repair the fortress. Each casting of wish causes the roof, door, or one wall to regain 50 Hit Points.
 
-## Lucky
+\oggettomagico{Weapon Lucky}
 
 **Aura:** Invocation very strong; **Cost:** 30000 gp
 
@@ -19161,13 +19153,13 @@ While you have the **weapon** on your person, you also receive a +1 bonus to Sav
 
 - *Wish*. While holding it, you can use two actions to expend 1 charge and cast the wish spell from it. This property can't be used again until the next dawn. The sword has 1 charge and loses this property if it runs out of charges.
 
-## Locator Arrow
+\oggettomagico{Locator Arrow}
 
 **Rarity:** Uncommon; **Cost:** 400 gp
 
 this **arrow** can be used up to 8 times per day. It is thrown into the air, and when it lands it points to a desired direction or location. Possible indications include the nearest exit or entrance, stairs, passages, caves, and similar areas.
 
-## Frost
+\oggettomagico{Frost}
 
 **Aura:** Water List moderate; **Cost:** 3000 gp
 
@@ -19175,7 +19167,7 @@ this **arrow** can be used up to 8 times per day. It is thrown into the air, and
 
 On command, a Frost **weapon** is wreathed in terrible cold that inflicts 1d6 cold damage for each successful hit. This cold doesn't harm the wielder. The effect remains active as long as the weapon is drawn. The weapon is immune to cold damage.
 
-## Gem of Brightness
+\oggettomagico{Gem of Brightness}
 
 **Aura:** Fire List; **Cost:** 5000 gp
 
@@ -19189,13 +19181,13 @@ this **prism** has 50 charges. While holding it, you can use two actions to spea
 
 When all of the gem's charges are expended, the gem becomes a non-magical jewel worth 50 gp.
 
-## Gem of Seeing
+\oggettomagico{Gem of Seeing}
 
 **Rarity:** Very Rare; **Cost:** 32000 gp
 
 with two actions, you can speak the command word of the **gem** and spend 1 charge. For the next 10 minutes, when you look through the gem, you have truesight out to 36 meters. The gem has 3 charges and regains 1 expended charge each day at dawn.
 
-## Elemental Gem
+\oggettomagico{Elemental Gem}
 
 **Aura:** Elements List; **Cost:** 12000 gp
 
@@ -19212,11 +19204,11 @@ this **gem** contains a spark of elemental energy. When you use two actions to b
 | Emerald | Water elemental |
 | Blue sapphire | Air elemental |
 
-## Monster Attracting Jewel
+\oggettomagico{Monster Attracting Jewel}
 
 this magic **jewel** is cursed, the owner attracts wandering monsters with twice the probability. Monsters will also pursue them at twice the probability if they flee. The jewel cannot be abandoned and will immediately reappear on the owner's person every time they try to get rid of it. Only Remove Curse will allow the owner to leave the jewel behind.
 
-## Glorious
+\oggettomagico{Glorious}
 
 **Aura:** Invocation moderate; **Cost:** 6000 gp
 
@@ -19226,35 +19218,35 @@ A Glorious **weapon** illuminates with a dazzling light equal to that of a Dayli
 
 When a Glorious weapon scores a Critical Hit, the target is Blinded until the beginning of the wielder's next round (Fortitude DC 14 negates). Only a melee weapon can have the Glorious ability.
 
-## Gloves of Missile Snaring
+\oggettomagico{Gloves of Missile Snaring}
 
 **Rarity:** Uncommon; **Cost:** 3000 gp
 
 these **gloves** seem to almost merge with your skin when you wear them. When a ranged weapon attack hits you while you're wearing them, you can use a Reaction to reduce the damage by 1d10 + Dexterity, provided you have a free hand. If you reduce the damage to 0 and the projectile is small enough to be held in one hand, you can catch it.
 
-## Gloves of Swimming and Climbing
+\oggettomagico{Gloves of Swimming and Climbing}
 
 **Rarity:** Uncommon; **Cost:** 2000 gp
 
 while wearing both of these **gloves**, climbing and swimming don't cost you extra movement. In addition, you have a +1d6 bonus to Constitution and Wisdom checks made while climbing or swimming.
 
-## Gauntlets of Ogre Power
+\oggettomagico{Gauntlets of Ogre Power}
 
 **Rarity:** Rare; **Cost:** 9000 gp
 
 while wearing these **gauntlets**, your Strength is 4. The gauntlets have no effect if your Strength is already 4 or higher.
 
-## Gloves of Dexterity
+\oggettomagico{Gloves of Dexterity}
 
 **Cost:** 12000 gp
 
 rare, these **gloves** grant the wearer a minimum Dexterity of +2 and if they already have a score of +2, this increases by 1 (up to a maximum of +4). Additionally, the wearer gains +1d6 in the Sleight of Hand Skill.
 
-## Fumbling Gloves
+\oggettomagico{Fumbling Gloves}
 
 these **gloves** can be made of soft leather or heavy protective material suitable for use with armor. In the first case, they appear to be gloves of dexterity. In the second case, they appear to be gloves of orc power. At every test, the gloves seem to have the above functions until the wearer is under attack or in a life-or-death situation. At that moment, the curse activates. The character becomes clumsy, with a 50\% chance each round of dropping an object held in hand. The gloves reduce Dexterity by 2 points. Once the curse is active, the gloves can only be removed with a Remove Curse spell or a wish.
 
-## Guardian
+\oggettomagico{Guardian}
 
 **Aura:** Moderate abjuration; **Cost:** 3000 gp
 
@@ -19262,25 +19254,25 @@ these **gloves** can be made of soft leather or heavy protective material suitab
 
 This ability can only be added to **melee weapons**. A Guardian weapon allows its wielder to transfer, as an Immediate Action, part or all of the weapon's bonus to the Defense of a creature within melee range. The transferred bonus lasts until the beginning of the next round.
 
-## Censer of Controlling Air Elementals
+\oggettomagico{Censer of Controlling Air Elementals}
 
 **Rarity:** Rare; **Cost:** 8000 gp
 
 while **incense** burns inside this censer, you can use two actions to speak the censer's command word and summon an air elemental, as if you had cast the Summon Elemental spell. The censer can't be used this way again until the next dawn. This censer is 15 centimeters wide and 30 centimeters high, resembling a chalice with a decorated cover. It weighs 0.5 kilograms, encumbrance L.
 
-## Incense of Obsession
+\oggettomagico{Incense of Obsession}
 
 **Rarity:** Rare
 
 rare, completely similar to **incense** of meditation, this incense also gives the user the impression of its effect, but they will be under Confusion for 24 hours if they fail a Will Saving Throw DC 23.
 
-## Incense of Meditation
+\oggettomagico{Incense of Meditation}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
 this block of sweet-scented **incense** is indistinguishable from normal incense until lit. When burning, its distinctive fragrance and clear smoke are recognizable with an Arcana check DC 15. After a spellcaster has spent 8 hours reviewing their Tome and meditating near a lit block, the Magic Point cost of spells will decrease by 1 point for the next 8 hours. Each block of incense burns for 8 hours, and the effect persists for another 8 hours. Usually 2d4 blocks of incense are found in the same case.
 
-## Invulnerability
+\oggettomagico{Invulnerability}
 
 **Aura:** Strong abjuration; **Cost:** 15000 gp
 
@@ -19288,7 +19280,7 @@ this block of sweet-scented **incense** is indistinguishable from normal incense
 
 This **armor** grants the wearer Damage Reduction 5/magic.
 
-## Untraceable
+\oggettomagico{Untraceable}
 
 **Aura:** Weak transmutation; **Cost:** 3750 gp
 
@@ -19296,7 +19288,7 @@ This **armor** grants the wearer Damage Reduction 5/magic.
 
 An Untraceable **armor** lightens the wearer's steps and disguises their appearance. Survival checks to track the wearer suffer a -4 penalty, and the wearer gains a +4 bonus to Stealth checks. Only leather or hide armors can be Untraceable.
 
-## Thief of Nine Lives
+\oggettomagico{Thief of Nine Lives}
 
 **Aura:** Strong necromancy; **Cost:** 25000 gp
 
@@ -19306,7 +19298,7 @@ You gain a +2 bonus to Attack Rolls and damage made with this magic **weapon**. 
 
 The sword has 1d8 + 1 charges and loses 1 charge when a creature is killed. When the sword has no more charges, it loses this property.
 
-## Lantern of Revealing
+\oggettomagico{Lantern of Revealing}
 
 **Rarity:** Uncommon; **Cost:** 5000 gp
 
@@ -19314,7 +19306,7 @@ while lit, this **lantern** burns for 6 hours on 1 flask of oil, shedding bright
 
 You can use two actions to lower the hood, reducing the light to dim with a radius of 1 meter.
 
-## Flame Tongue
+\oggettomagico{Flame Tongue}
 
 **Aura:** Fire List; **Cost:** 3000 gp
 
@@ -19322,25 +19314,25 @@ You can use two actions to lower the hood, reducing the light to dim with a radi
 
 On command, a flaming **weapon** is wreathed in flames that deal 1d6 fire damage for each successful hit. This fire does not harm the wielder. The effect remains active until deactivated with another command. The weapon is immune to fire damage.
 
-## Cloak of the Charlatan
+\oggettomagico{Cloak of the Charlatan}
 
 **Rarity:** Rare; **Cost:** 8000 gp
 
 while wearing this **cloak** that smells faintly of sulfur, you can use it to cast the *dimension door* spell with two actions. This property of the cloak can't be used again until dawn. When you disappear, you leave behind a cloud of smoke and reappear at your destination inside a similar cloud of smoke. This smoke slightly obscures the space you left and the space where you reappear and dissipates at the end of your next round. A light breeze or stronger wind disperses the smoke.
 
-## Cloak of Elvenkind
+\oggettomagico{Cloak of Elvenkind}
 
 **Rarity:** Uncommon; **Cost:** 5000 gp
 
 while you wear this **cloak** with its hood up, Awareness checks made to notice you have -1d6, and you have +1d6 on Stealth checks made to hide. Pulling the hood up or down requires two Actions.
 
-## Cloak of the Bat
+\oggettomagico{Cloak of the Bat}
 
 **Rarity:** Rare; **Cost:** 6000 gp
 
 in areas of dim light or darkness, you can grasp the edges of the **cloak** with both hands and use it to fly at a speed of 12 meters. If you ever fail to hold the edges of the cloak while flying in this way, you lose your flying speed. While wearing the cloak in an area of dim light or darkness, you can use two Actions to cast *polymorph* on yourself, transforming into a bat. While in bat form, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used again in this way until the next dawn.
 
-## Cloak of Arachnida
+\oggettomagico{Cloak of Arachnida}
 
 **Rarity:** Very Rare; **Cost:** 8000 gp
 
@@ -19352,37 +19344,37 @@ while wearing this elegant **garment** of black silk woven with silver threads, 
 - You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.
 - You can use two actions to cast the *web* spell (Saving Throw DC 15). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn.
 
-## Cloak of the Manta Ray
+\oggettomagico{Cloak of the Manta Ray}
 
 **Rarity:** Uncommon; **Cost:** 6000 gp
 
 while wearing this **cloak** with its hood up, you can breathe underwater, and you have a swimming speed of 18 meters. Pulling the hood up or down requires 2 Actions.
 
-## Cloak of Spell Resistance
+\oggettomagico{Cloak of Spell Resistance}
 
 **Rarity:** Uncommon; **Cost:** 3000 gp
 
 uncommon, while wearing this **cloak**, you have +1 to Saving Throws against spells.
 
-## Cloak of poisonousness
+\oggettomagico{Cloak of poisonousness}
 
 **Rarity:** Rare; **Cost:** 4000 gp
 
 this **cloak** is usually made of wool, though it could also be made of leather. The garment can be handled without danger, but as soon as it is worn it causes 5d6 poison damage. In subsequent rounds, a Fortitude Saving Throw DC 21 can be made to reduce the damage to 1d6. The cloak can be removed only with a *Remove Curse* or *Wish* spell.
 
-## Cloak of Displacement
+\oggettomagico{Cloak of Displacement}
 
 **Rarity:** Rare; **Cost:** 60000 gp
 
 while you wear this **cloak**, it projects an illusion that makes you appear to be standing in a place near your actual location, causing all creatures to have -1d6 on Attack Rolls against you. If you take damage, the property ceases to function until the start of your next round. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
 
-## Cloak of Protection
+\oggettomagico{Cloak of Protection}
 
 **Rarity:** Very Rare; **Cost:** 3500 gp
 
 while wearing this **cloak**, you gain a bonus of +1 (uncommon, 3500 gp), +2 (rare, 6000 gp), +3 (very rare, 15000 gp) to Defense and Saving Throws.
 
-## Manual of Golems
+\oggettomagico{Manual of Golems}
 
 **Rarity:** Very Rare; **Cost:** 10000 gp
 
@@ -19400,25 +19392,25 @@ Once you finish creating the golem, the book is consumed by arcane flames. The g
 | 17 | Iron | 120 days | 100000 gp |
 | 18 | Stone | 90 days | 80000 gp |
 
-## Manual of Physical Exercise
+\oggettomagico{Manual of Physical Exercise}
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
 this **tome** works exactly like the manual of bodily health, but grants the reader one point of Strength. The *cursed version* of this manual, while appearing absolutely identical to the original, causes the loss of one point of Strength at the end of the 4 weeks.
 
-## Manual of Bodily Health
+\oggettomagico{Manual of Bodily Health}
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
 this **tome** contains instructions for improving body and health. Reading the book takes 24 hours over a minimum of 3 days. Its instructions must be followed for 4 weeks, after which the reader permanently gains one point of Constitution. Once read, the manual loses its magic, which returns after a century. The *cursed version* of this manual, while appearing absolutely identical to the original, causes the loss of one point of Constitution at the end of the 4 weeks.
 
-## Manual of Quickness of Action
+\oggettomagico{Manual of Quickness of Action}
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
 this **tome** contains exercises for balance and coordination. It works like a manual of bodily health, but grants one point of Dexterity. The *cursed version* of this manual, while appearing absolutely identical to the original, causes the loss of one point of Dexterity at the end of the 4 weeks.
 
-## Mariner
+\oggettomagico{Mariner}
 
 **Aura:** Moderate Water List; **Cost:** 3000 gp
 
@@ -19426,7 +19418,7 @@ this **tome** contains exercises for balance and coordination. It works like a m
 
 This special ability can only be added to **melee weapons**. A Mariner weapon functions normally in aquatic environments. While holding the weapon, the wielder gains a bonus to Swimming checks equal to twice the weapon's bonus.
 
-## Mace of Smiting
+\oggettomagico{Mace of Smiting}
 
 **Aura:** Strong evocation; **Cost:** 7000 gp
 
@@ -19436,7 +19428,7 @@ You gain an additional +3 to hit and damage when using this **weapon** to attack
 
 When you score a critical hit with this weapon, the target takes an additional critical, or 2 additional Critical Rolls if it is a construct. If, after taking this damage, a construct has 25 Hit Points or fewer remaining, it is destroyed.
 
-## Deck of Illusions
+\oggettomagico{Deck of Illusions}
 
 **Rarity:** Uncommon; **Cost:** 6500 gp
 
@@ -19472,6 +19464,9 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
 | Ten of diamonds | Fire giant |
 | Nine of diamonds | Oni |
 | Eight of diamonds | Gnoll |
+
+| **Playing Card** | **Illusion** |
+| --- | --- |
 | Two of diamonds | Kobold |
 | Ace of clubs | Iron golem |
 | King of clubs | Bandit captain and three bandits |
@@ -19483,7 +19478,7 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
 | Two of clubs | Kobold |
 | Joker (2) | You (the owner of the deck) |
 
-## Deck of Many Things
+\oggettomagico{Deck of Many Things}
 
 **Rarity:** Legendary; **Cost:** 100000 gp
 
@@ -19574,7 +19569,9 @@ Medium undead, neutral evil
 
 **ActionsReaping Scythe**. The Manifestation plunges its spectral scythe into a creature within 1 meter of it, dealing 7 (1d8 + 3) piercing damage plus 4 (1d8) Void damage. It cannot miss.
 
-* **Figurine of Wondrous Power** variable rarity, variable cost, a **figurine** of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use two actions to speak a command word and throw the figurine on the ground within 18 meters of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by another creature or object, or if there isn't enough space for the creature, the figurine doesn't transform.
+\oggettomagico{Figurine of Wondrous Power}
+
+variable rarity, variable cost, a **figurine** of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use two actions to speak a command word and throw the figurine on the ground within 18 meters of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by another creature or object, or if there isn't enough space for the creature, the figurine doesn't transform.
 
 The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you don't issue any commands, the creature defends itself but takes no other actions. See the Bestiary for the creature's other statistics.
 
@@ -19603,25 +19600,25 @@ The goat of traveling can become a Large goat with the same statistics as a Ridi
 
 *Golden Lions* (Rare, 800 gp). These golden statuettes of lions are always created in pairs. You can use one or both figurines simultaneously. Each can become a lion for up to 1 hour. Once used, the lion can't be used again before 7 days have passed.
 
-## Medallion of Thoughts
+\oggettomagico{Medallion of Thoughts}
 
 **Rarity:** Uncommon; **Cost:** 3000 gp
 
 while wearing this **medallion**, you can use two actions and expend 1 charge to cast the detect thoughts spell (Saving Throw DC 15) from it. The medallion has 3 charges, and regains 1 expended charge each day at dawn.
 
-## Feather Fall Medallion
+\oggettomagico{Feather Fall Medallion}
 
 **Rarity:** Uncommon; **Cost:** 400 gp
 
 this **medallion** automatically activates the Feather Fall spell when the wearer falls from a height of 2 meters or more.
 
-## Mithral
+\oggettomagico{Mithral}
 
 **Rarity:** Uncommon; **Cost:** 1000 gp; **Rarity:** Rare
 
 Light, Medium or heavy **armor**, but not leather +1000 gp over the base price of the armor. Mithral is a light and flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. Reduces weight category by 1 for determining penalties to Basic and Magic skill checks.
 
-## Ammunition of Slaying
+\oggettomagico{Ammunition of Slaying}
 
 **Rarity:** Very Rare; **Cost:** 700 gp
 
@@ -19629,7 +19626,7 @@ if a creature belonging to the type, race, or group to which the slaying **arrow
 
 Once an arrow of slaying has been fired, it becomes a non-magical arrow.
 
-## Ghost Touch Ammunition
+\oggettomagico{Ghost Touch Ammunition}
 
 **Aura:** Moderate transmutation
 
@@ -19639,7 +19636,7 @@ This ability can only be conferred upon **ammunition**. Ammunition with this spe
 
 The price refers to 50 Ghost Touch Ammunition.
 
-## Endless Ammunition
+\oggettomagico{Endless Ammunition}
 
 **Aura:** Moderate conjuration; **Cost:** 6000 gp
 
@@ -19649,7 +19646,7 @@ Only **bows** and **crossbows** can be made into weapons with Endless Ammunition
 
 Unlike normal bow or crossbow ammunition, these arrows and bolts are always destroyed when fired.
 
-## Shapeshifter
+\oggettomagico{Shapeshifter}
 
 **Aura:** Moderate illusion; **Cost:** 2000 gp
 
@@ -19657,53 +19654,53 @@ Unlike normal bow or crossbow ammunition, these arrows and bolts are always dest
 
 A Shapeshifter **weapon** can be commanded to change its form and appear as another object of similar size. The weapon retains all its properties (including weight) even when disguised, but does not radiate magic. Only True Seeing or similar magic reveals the true nature of the transformed weapon. After a Shapeshifter weapon has been used to attack, this special ability is suppressed for 1 minute.
 
-## Eyes of Charming
+\oggettomagico{Eyes of Charming}
 
 **Rarity:** Uncommon; **Cost:** 3000 gp
 
 while wearing these crystal **lenses** in front of your eyes, you can expend 1 charge with two actions to cast the *Charm Person* spell (Saving Throw DC 15) on a humanoid within 9 meters of you, provided that you and the target can see each other. The lenses have 3 charges and regain 1 expended charge each day at dawn.
 
-## Eyes of the Eagle
+\oggettomagico{Eyes of the Eagle}
 
 **Rarity:** Uncommon; **Cost:** 4500 gp
 
 while wearing these crystal **lenses** in front of your eyes, you have +1d6 on Awareness checks based on sight. In conditions of clear visibility, you can make out details of even very distant creatures and objects as small as 50 centimeters.
 
-## Eyes of petrification
+\oggettomagico{Eyes of petrification}
 
 these two magical crystal **lenses** overlay the pupils of the eyes. When a creature puts on these lenses, it is immediately petrified without a Saving Throw. About a quarter of these items (25\% chance) instead allow the wearer to petrify with their gaze, but in this case victims are entitled to a Saving Throw DC 17. It is not possible to combine two types of magical lenses.
 
-## Eyes of Minute Seeing
+\oggettomagico{Eyes of Minute Seeing}
 
 **Rarity:** Uncommon; **Cost:** 2500 gp
 
 while wearing these crystal **lenses** in front of your eyes, you can see much better than normal up to a distance of 30 centimeters. You have +1d6 on Awareness checks based on sight when searching an area or studying an object at close range.
 
-## Goggles of Night
+\oggettomagico{Goggles of Night}
 
 **Rarity:** Uncommon; **Cost:** 3500 gp
 
 while wearing these dark **lenses**, you have darkvision with a range of 9 meters. If you already have darkvision, wearing these goggles increases its range by 18 meters.
 
-## Oil of Sharpness
+\oggettomagico{Oil of Sharpness}
 
 **Rarity:** Very Rare; **Cost:** 3200 gp
 
 this **oil** can coat one slashing or piercing weapon or up to 5 slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to Attack Rolls and damage.
 
-## Oil of Etherealness
+\oggettomagico{Oil of Etherealness}
 
 **Rarity:** Rare; **Cost:** 2000 gp
 
 one dose of **oil** is sufficient to cover a Medium or smaller creature, and the equipment it wears and carries (an additional vial is needed for each size category above Medium). Applying the oil takes 10 minutes. Afterward, the creature gains the effect of the ethereal form spell for 1 hour.
 
-## Oil of Slipperiness
+\oggettomagico{Oil of Slipperiness}
 
 **Rarity:** Uncommon; **Cost:** 500 gp
 
 the **oil** can cover a Medium or smaller creature, along with all equipment it wears and carries (an additional vial is needed for each size category above Medium). Applying the oil takes 10 minutes. The creature then gains the benefit of the freedom of movement spell for 8 hours. Alternatively, with two actions you can pour the oil on the ground, duplicating the effect of the grease spell on that area for 8 hours.
 
-## Shadow
+\oggettomagico{Weapon Shadow}
 
 **Aura:** Weak illusion; **Cost:** 1875 gp
 
@@ -19711,7 +19708,7 @@ the **oil** can cover a Medium or smaller creature, along with all equipment it 
 
 This **armor** makes the wearer blurred whenever they attempt to hide, providing a +4 bonus to their Stealth checks for hiding. The armor check penalty applies normally.
 
-## Hosteling
+\oggettomagico{Hosteling}
 
 **Aura:** Moderate Animals and Plants List; **Cost:** 3750 gp
 
@@ -19723,7 +19720,7 @@ While stored, the animal sleeps and provides no benefit (such as a Familiar's sk
 
 Since the stored animal sleeps rather than being in suspended animation (or even hibernation), it ages and becomes hungry at the normal rate while stored. A hosteling armor or shield automatically releases a stored animal 24 hours after it was stored inside.
 
-## Crystal Ball
+\oggettomagico{Crystal Ball}
 
 **Rarity:** Very Rare; **Cost:** 50000 gp
 
@@ -19735,19 +19732,19 @@ a typical crystal **ball** has a diameter of about 15 centimeters. While touchin
 
 *Crystal Ball of True Seeing*. This crystal ball is about 12 centimeters in diameter. While touching it, you can cast the scrying spell (Saving Throw DC 21) through it. While scrying with this crystal ball, you have truesight with a range of 36 meters centered on the spell's sensor.
 
-## Hypnotic Crystal Ball
+\oggettomagico{Hypnotic Crystal Ball}
 
 **Rarity:** Rare
 
 this **cursed** object is indistinguishable from a normal crystal ball. However, anyone who attempts to use the device becomes charmed for 1d6 turns, and a telepathic suggestion is implanted in their mind if they fail a Will Saving Throw DC 27. The user of the device believes they have seen the desired creature or scene, but in reality they are under the influence of a powerful spellcaster, or even a power or being from another plane of existence. With each subsequent use, the user falls more and more under the controller's influence, as a servant or as a tool. The user is always unaware of being subjugated.
 
-## Slippers of Spider Climbing
+\oggettomagico{Slippers of Spider Climbing}
 
 **Rarity:** Uncommon; **Cost:** 5000 gp
 
 while wearing these light **shoes**, you can move up, down, and across vertical surfaces and upside down along ceilings, leaving your hands free. You have a climbing speed equal to your walking speed. However, the slippers don't allow you to move this way on difficult terrain, such as walls covered with ice, oil, rubble...
 
-## Vicious
+\oggettomagico{Vicious}
 
 **Aura:** Weak evocation; **Cost:** 3000 gp
 
@@ -19755,49 +19752,49 @@ while wearing these light **shoes**, you can move up, down, and across vertical 
 
 When you score a Critical Hit with this magic **weapon**, you inflict an additional Critical Hit.
 
-## Scroll against elementals
+\oggettomagico{Scroll against elementals}
 
 **Rarity:** Rare; **Cost:** 800 gp
 
 this **scroll** protects against all elementals for 20 rounds, granting +4 to Defense and Saving Throws against attacks or effects produced by elementals.
 
-## Scroll against lycanthropes
+\oggettomagico{Scroll against lycanthropes}
 
 **Rarity:** Uncommon; **Cost:** 700 gp
 
 this **scroll** protects against all lycanthropes for 20 rounds, granting +4 to Defense and Saving Throws against attacks or effects produced by lycanthropes.
 
-## Scroll against undead
+\oggettomagico{Scroll against undead}
 
 **Rarity:** Uncommon; **Cost:** 900 gp
 
 this **scroll** protects against all undead for 20 rounds, granting +4 to Defense and Saving Throws against attacks or effects produced by undead.
 
-## Spell Scroll
+\oggettomagico{Spell Scroll}
 
 this **scroll** contains the words of a single spell, written in a mystical code. See Creating Scrolls, p. .
 
 Casting the spell by reading it from a scroll requires the normal casting time of the spell. Once the spell has been cast, the words on the scroll vanish, and the scroll turns to dust. If the casting is interrupted, the scroll doesn't dissolve.
 
-## Protection Scroll against Magic
+\oggettomagico{Protection Scroll against Magic}
 
 **Rarity:** Rare; **Cost:** 1500 gp
 
 the **scroll** casts an Anti-Magic Field spell.
 
-## Pearl of Power
+\oggettomagico{Pearl of Power}
 
 **Rarity:** Uncommon; **Cost:** 6000 gp
 
 while the **pearl** is on your person, you can use two actions to recover 1d4 Magic Points. Once used, the pearl cannot be used again until the next dawn. There are more powerful variants that allow more points to be recovered.
 
-## Pearl of Wisdom
+\oggettomagico{Pearl of Wisdom}
 
 **Rarity:** Rare; **Cost:** 20000 gp
 
 this magic **pearl** grants an extra point of Wisdom to whoever keeps it with them for 4 weeks. After this time, the pearl must always be carried to avoid losing its benefits. There is a 5\% chance that a pearl is cursed and has the opposite effect. In this case, after 4 weeks, the negative effect is permanent and can only be canceled by wish.
 
-## Merciful
+\oggettomagico{Merciful}
 
 **Aura:** Weak evocation; **Cost:** 3000 gp
 
@@ -19807,7 +19804,7 @@ All damage inflicted by the **weapon** is temporary.
 
 On command, as an Immediate Action, the weapon suppresses this ability until ordered to reactivate it.
 
-## Ioun Stone
+\oggettomagico{Ioun Stone}
 
 **Rarity:** Very Rare; **Cost:** 3000 gp
 
@@ -19836,29 +19833,29 @@ A stone has Defense 24, 10 Hit Points, and resistance to all damage. While it or
 
 *Sustenance* (rare, 3500 gp). While this stone orbits your head, you don't need to eat or drink.
 
-## Stone of Earth Elemental Control
+\oggettomagico{Stone of Earth Elemental Control}
 
 **Rarity:** Rare; **Cost:** 8000 gp
 
 if the **stone** touches earth, you can use two actions to speak the command word and summon an earth elemental, as if you had cast the conjure elemental spell. The stone can't be used this way again until the next dawn. The stone weighs 2.5 kilograms, encumbrance 3.
 
-## Stone of Weight
+\oggettomagico{Stone of Weight}
 
 this object looks like a smooth, shiny black **stone**. When the bearer is involved in combat or flight, they suddenly suffer the effects of the *slow* spell. Once taken, the stone cannot be thrown away normally, as it magically reappears on the possessor after a short time. To permanently get rid of the stone, the Remove Curse spell is required.
 
-## Stone of Good Luck
+\oggettomagico{Stone of Good Luck}
 
 **Rarity:** Uncommon; **Cost:** 4500 gp
 
 while this **stone** is on your person, you gain a +1 bonus to ability checks and Saving Throws.
 
-## Talking Stones
+\oggettomagico{Talking Stones}
 
 **Rarity:** Rare; **Cost:** 4000 gp
 
 these two **stones**, always sold as a pair, allow communication at a distance between their users. There is no limit to distance or Plane. The stones can be used for 10 minutes per day, then must be exposed to sunlight for at least 3 hours. Encumbrance L.
 
-## Pipes of the Sewers
+\oggettomagico{Pipes of the Sewers}
 
 **Rarity:** Uncommon; **Cost:** 2000 gp
 
@@ -19868,13 +19865,13 @@ Whenever a swarm of rats that is not under another creature's control comes with
 
 If a friendly swarm starts its turn unable to hear the pipes' music, your control over that swarm ends, and the swarm behaves as it normally would and can't be charmed by the pipes' music for the next 24 hours.
 
-## Pipes of Haunting
+\oggettomagico{Pipes of Haunting}
 
 **Rarity:** Uncommon; **Cost:** 6000 gp
 
 you must be proficient with wind instruments to use these **pipes**. You can use two actions to play them and spend 1 charge to create an eerie, spellbinding sound. Each creature within 9 meters of you that hears you play must succeed on a Will Saving Throw with DC 21 or be frightened of you for 1 minute. If you wish, all creatures in the area that are not hostile toward you automatically succeed on their Saving Throw. A creature that fails its Saving Throw can repeat it at the end of its turn, ending the effect on itself on a success. A creature that succeeds on its Saving Throw is immune to the effect of these pipes for 24 hours. The pipes have 3 charges and regain 1 charge daily at dawn.
 
-## Pigments of Wonder
+\oggettomagico{Pigments of Wonder}
 
 **Rarity:** Very Rare; **Cost:** 400 gp
 
@@ -19888,7 +19885,7 @@ Nothing created by the pigments can have a value greater than 25 gp. If you pain
 
 If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, without causing damage to anything.
 
-## Quaal's Feather Token
+\oggettomagico{Quaal's Feather Token}
 
 **Rarity:** variable; **Cost:** 50 gp
 
@@ -19906,7 +19903,7 @@ this tiny object resembles a **feather**. Different types of feather tokens exis
 
 *Fan*. If you are on a boat or ship, you can use two actions to toss the token up to 3 meters in the air. The token disappears, and a giant fan appears in its place. The fan floats and creates a wind strong enough to fill the sails of the vessel, increasing its speed by 7.5 kilometers per hour for 8 hours. You can dismiss the fan as two actions. 250 gp
 
-## Dust of Dryness
+\oggettomagico{Dust of Dryness}
 
 **Rarity:** Rare; **Cost:** 120 gp
 
@@ -19916,25 +19913,25 @@ Anyone can use two actions to smash the pellet against a hard surface, causing t
 
 An elemental composed mostly of water that is exposed to a pinch of this dust must make a Fortitude Saving Throw with DC 15, taking 10d6 damage from Void on a failed save, or half as much damage on a successful one.
 
-## Dust of Disappearance
+\oggettomagico{Dust of Disappearance}
 
 **Rarity:** Rare; **Cost:** 700 gp
 
 found in small pouches, this **powder** looks like very fine sand. A pouch contains enough for one use. When you use two actions to throw the dust into the air, you and each creature and object within 3 meters of you become invisible for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature only.
 
-## Dust of Sneezing and Choking
+\oggettomagico{Dust of Sneezing and Choking}
 
 **Rarity:** Uncommon; **Cost:** 480 gp
 
 found in small containers, this **powder** looks like fine sand. It appears similar to dust of disappearance, and the identify spell reveals it as such. There's enough for one use. When you use two actions to throw a handful of the dust into the air, you and all creatures that need to breathe and are within 9 meters of you must succeed on a Fortitude Saving Throw with DC 17 or stop breathing, and begin to sneeze uncontrollably. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, the creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. The lesser restoration spell can also end the effect on a creature.
 
-## Dust of Appearance
+\oggettomagico{Dust of Appearance}
 
 **Rarity:** Uncommon; **Cost:** 500 gp
 
 this fine powder resembles a very light metallic **dust**. A handful of this substance sprinkled in the air coats all objects within a 3-meter radius, making everything visible. If sprinkled through a blowgun, the dust fills a 6-meter long cone that is 1 meter wide at the far end. The dust negates the effects of blur, displacement, invisibility, elven cloak, and the special abilities of creatures like blink dogs and displacer beasts; the effect lasts for 2d10 turns. The dust of appearance is usually stored in small silk bags or in hollow tubes made of bone; typically 5d10 doses of dust are found.
 
-## Cubic Gate
+\oggettomagico{Cubic Gate}
 
 **Rarity:** Legendary; **Cost:** 40000 gp
 
@@ -19942,109 +19939,109 @@ this **cube** of 7.5 centimeters on a side radiates palpable magical energy. The
 
 You can use two actions to press one face of the cube to cast the gate spell with it, opening a portal to the plane linked to that face. Alternatively, if you use two actions to press one face twice, you can plane shift (DC 17 Saving Throw) with the cube and transport its targets to the plane linked to that face. The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1 expended charge daily at dawn.
 
-## Potion of Delusion
+\oggettomagico{Potion of Delusion}
 
 **Rarity:** Rare; **Cost:** 500 gp
 
 this **potion** has a most appropriate name, as it convinces the drinker that they have ingested a potion of a different type. For example, a fake "potion of clairaudience" might make the drinker hear sounds that don't actually exist. If multiple people taste this potion, there is a 90\% chance they will agree it's the same type.
 
-## Potion of Invulnerability
+\oggettomagico{Potion of Invulnerability}
 
 **Rarity:** Rare; **Cost:** 800 gp
 
 a **potion** of invulnerability grants the drinker a +2 bonus to Saving Throws and a 2-point improvement to Defense for 10 minutes.
 
-## Potion of Animal Clairaudience
+\oggettomagico{Potion of Animal Clairaudience}
 
 **Rarity:** Uncommon; **Cost:** 500 gp
 
 uncommon, this **potion** grants the drinker the ability to perceive sounds through the ears of an animal within a range of 18 meters. A lead barrier blocks this effect.
 
-## Potion of Animal Clairvoyance
+\oggettomagico{Potion of Animal Clairvoyance}
 
 **Rarity:** Uncommon; **Cost:** 500 gp
 
 uncommon, this **potion** grants the drinker the ability to see through the eyes of an animal within a range of 18 meters. A lead barrier blocks this effect.
 
-## Potion of Levitation
+\oggettomagico{Potion of Levitation}
 
 **Rarity:** Uncommon; **Cost:** 200 gp
 
 this **potion** has the same effect as the levitation spell.
 
-## Potion of Longevity
+\oggettomagico{Potion of Longevity}
 
 **Rarity:** Legendary; **Cost:** 15000 gp
 
 this **potion** makes you younger by 1d12 years. The youth regained not only reverses natural aging, but also aging caused by magical effects or creatures. There is a danger in using this potion, as each time you drink a potion of longevity, there is a cumulative 1\% chance that all benefits previously gained from potions of this type are reversed. It's not possible to consume a partial dose of this potion.
 
-## Potion of Polymorph
+\oggettomagico{Potion of Polymorph}
 
 **Rarity:** Rare; **Cost:** 2500 gp
 
 this **potion** grants a power similar to the polymorph spell.
 
-## Potion of Animal Friendship
+\oggettomagico{Potion of Animal Friendship}
 
 **Rarity:** Uncommon; **Cost:** 200 gp
 
 when you drink this **potion**, for 1 hour you can cast the Animal Friendship spell at will (Saving Throw DC 15).
 
-## Potion of Climbing
+\oggettomagico{Potion of Climbing}
 
 **Rarity:** Common; **Cost:** 250 gp
 
 when you drink this **potion**, for 1 hour you gain a climbing speed equal to your walking speed. During this period, you have +1d6 on Strength checks you make to climb.
 
-## Potion of Animal Control
+\oggettomagico{Potion of Animal Control}
 
 **Rarity:** Rare; **Cost:** 1500 gp
 
 anyone who drinks this **potion** is as if they had cast Dominate Beast
 
-## Potion of Dragon Control
+\oggettomagico{Potion of Dragon Control}
 
 **Rarity:** Legendary; **Cost:** 5000 gp
 
 this **potion** confers a power equivalent to the dominate monster spell on a single type of dragon. It is possible to control a dragon within 18 meters for 5d4 rounds.
 
-## Potion of Undead Control
+\oggettomagico{Potion of Undead Control}
 
 **Rarity:** Rare; **Cost:** 2500 gp
 
 although undead are normally immune to this type of effect, this **potion** allows the drinker to influence up to 4 undead with CR 3 or less (intelligent or not) as if using the charm spell. The effect lasts for 5d4 rounds.
 
-## Potion of Person Control
+\oggettomagico{Potion of Person Control}
 
 **Rarity:** Uncommon; **Cost:** 500 gp
 
 once ingested, this **potion** grants the drinker a power similar to the charm spell.
 
-## Potion of Plant Control
+\oggettomagico{Potion of Plant Control}
 
 **Rarity:** Rare; **Cost:** 1500 gp
 
 whoever drinks this **potion** is able to control all plants and plant creatures (including fungi) in a 6x6 m square area within a distance of 27 meters. The effect lasts for 5d4 rounds. Plants obey according to their abilities (for example, vines can twist and thicken, causing slowness or blocking sight). You can give orders to sentient plant creatures, but they are entitled to a Will Saving Throw DC 19. As with other types of charm, a controlled creature cannot be ordered to harm itself.
 
-## Potion of Growth
+\oggettomagico{Potion of Growth}
 
 **Rarity:** Rare; **Cost:** 300 gp
 
 when you drink this **potion**, for 1d4 hours you gain the enlarge effect of the enlarge/reduce spell (no concentration required).
 
-## Potion of Heroism
+\oggettomagico{Potion of Heroism}
 
 **Rarity:** Rare; **Cost:** 200 gp
 
 when you drink this **potion**, you gain 10 temporary Hit Points that last for 1 hour. For the same duration, you are under the effect of the bless spell (no concentration required).
 
-## Potion of Gaseous Form
+\oggettomagico{Potion of Gaseous Form}
 
 **Rarity:** Rare; **Cost:** 1500 gp
 
 when you drink this **potion**, for 1 hour or until you end the effect with two actions, you gain the effect of the gaseous form spell (no concentration required).
 
-## Potion of Giant Strength
+\oggettomagico{Potion of Giant Strength}
 
 **Rarity:** Very Rare; **Cost:** 500 gp
 
@@ -20057,7 +20054,7 @@ when you drink this **potion**, for 1 hour your Strength score changes. The type
 - cloud, Strength 8 5000 gp
 - storm, Strength 9 10000 gp
 
-## Potion of Healing
+\oggettomagico{Potion of Healing}
 
 **Rarity:** Uncommon; **Cost:** 50 gp
 
@@ -20069,37 +20066,37 @@ when you drink **this** potion, you regain a number of Hit Points depending on t
 - **Superior**, Hit Points 3d10 +30. Rare, 300 gp
 - **Supreme**, Hit Points 5d10 + 50. Very Rare, 1500 gp
 
-## Potion of Invisibility
+\oggettomagico{Potion of Invisibility}
 
 **Rarity:** Very Rare; **Cost:** 200 gp
 
 when you drink this **potion**, for 1 hour you become invisible. While you are invisible, everything you are carrying or wearing remains invisible with you. The effect ends if you attack or cast a spell.
 
-## Potion of Mind Reading
+\oggettomagico{Potion of Mind Reading}
 
 **Rarity:** Rare; **Cost:** 200 gp
 
 when you drink this **potion**, you gain the effect of the detect thoughts spell (Saving Throw DC 15).
 
-## Potion of Resistance
+\oggettomagico{Potion of Resistance}
 
 **Rarity:** Uncommon; **Cost:** 300 gp
 
 when you drink this **potion**, for 1 hour you gain resistance to one type of damage. The Narrator chooses the type of damage or determines it randomly (Acid, Cold, Fire, Lightning, Poison, Sound, Light, Void)
 
-## Potion of Water Breathing
+\oggettomagico{Potion of Water Breathing}
 
 **Rarity:** Uncommon; **Cost:** 200 gp
 
 after drinking this **potion**, you can breathe underwater for 1 hour.
 
-## Potion of Diminution
+\oggettomagico{Potion of Diminution}
 
 **Rarity:** Rare; **Cost:** 300 gp
 
 when you drink this **potion**, for 1d4 hours you gain the reduce effect of the enlarge/reduce spell (no concentration required).
 
-## Potion of Poison
+\oggettomagico{Potion of Poison}
 
 **Rarity:** Uncommon; **Cost:** 35gp
 
@@ -20112,25 +20109,25 @@ There are several types of **poisons**:
 - **Greater Poison**, take 2d8+4 damage. ST DC 18 Fortitude. Rare, 50 gp
 - **Superior Poison**, take 4d10+8 damage. ST DC 24 Fortitude. Very Rare, 125 gp
 
-## Potion of Speed
+\oggettomagico{Potion of Speed}
 
 **Rarity:** Very Rare; **Cost:** 400 gp
 
 when you drink this **potion**, you gain the effect of the *Haste* spell for 1 minute (no concentration required).
 
-## Potion of Flying
+\oggettomagico{Potion of Flying}
 
 **Rarity:** Very Rare; **Cost:** 500 gp
 
 when you drink this **potion**, for 10 minutes you gain a flying speed equal to your normal walking speed and can hover. If the potion ends while you are flying, you fall unless you have some other means of staying in the air.
 
-## Well of Many Worlds
+\oggettomagico{Well of Many Worlds}
 
 **Rarity:** Legendary; **Cost:** 75000 gp
 
 this elegant black **cloth**, soft as silk, is folded to the size of a handkerchief. It unfolds into a circular sheet 1.8 meters in diameter. You can use two actions to unfold and place the well of many worlds on a solid surface, whereupon it creates a two-way portal to another world or plane of existence. Each time the item opens a portal, the Narrator decides where it leads. You can use two actions to close an open portal by grabbing the edges of the cloth and folding it up. Once a well of many worlds has opened a portal, it can't do so again for 1d8 hours.
 
-## Poison Resistance
+\oggettomagico{Poison Resistance}
 
 **Aura:** Faint Transmutation; **Cost:** 1125 gp
 
@@ -20138,7 +20135,7 @@ this elegant black **cloth**, soft as silk, is folded to the size of a handkerch
 
 An **armor** or **shield** with this special ability grants its wearer a +2 bonus to Saving Throws against poison.
 
-## Energy Resistance
+\oggettomagico{Energy Resistance}
 
 **Aura:** Faint Abjuration; **Cost:** 9000 gp
 
@@ -20146,7 +20143,7 @@ An **armor** or **shield** with this special ability grants its wearer a +2 bonu
 
 This type of **armor** or **shield** protects against one type of energy (Fire, Light, Sound, Electricity, Positive Energy, Negative Energy, Cold, Void) and is decorated with designs depicting the element it protects against. The armor or shield grants Damage Reduction 6 to energy damage per attack that would normally be suffered by the wearer.
 
-## Greater Energy Resistance
+\oggettomagico{Greater Energy Resistance}
 
 **Aura:** Moderate Abjuration; **Cost:** 21000 gp
 
@@ -20154,19 +20151,19 @@ This type of **armor** or **shield** protects against one type of energy (Fire, 
 
 This type of **armor** or **shield** protects against one type of energy (Fire, Light, Sound, Electricity, Positive Energy, Negative Energy, Cold, Void) and is decorated with designs depicting the element it protects against. The armor or shield grants Resistance to the indicated energy.
 
-## Entangling Net
+\oggettomagico{Entangling Net}
 
 **Rarity:** Rare; **Cost:** 800 gp
 
 this 3-meter square **net** can be thrown at an opponent to entangle them. The net is very strong and requires the strength of a giant (DC 20) to tear it with bare hands. The net also resists cutting, and must be hit with extreme precision (Defense 25, Hit Points 30) for it to give way. The net can also be hung or placed on the ground as a trap, which will activate magically at the owner's command.
 
-## Trapping Net
+\oggettomagico{Trapping Net}
 
 **Rarity:** Rare; **Cost:** 900 gp
 
 this **net** can only be used underwater, but functions exactly like an entangling net on the surface, floating if necessary up to 9 m away to ensnare an opponent.
 
-## Seeking
+\oggettomagico{Seeking}
 
 **Aura:** Strong Divination; **Cost:** 3000 gp
 
@@ -20174,7 +20171,7 @@ this **net** can only be used underwater, but functions exactly like an entangli
 
 This ability can only be added to **ranged weapons**. A Seeking weapon veers toward its designated target, negating any bonus due to cover.
 
-## Returning
+\oggettomagico{Returning}
 
 **Aura:** Moderate Conjuration; **Cost:** 3000 gp
 
@@ -20182,7 +20179,7 @@ This ability can only be added to **ranged weapons**. A Seeking weapon veers tow
 
 A **weapon** with the Returning property can teleport into its owner's hands as an Immediate Action, even if it is in another creature's possession. This ability has a maximum range of 30 meters, and effects that block teleportation prevent a Returning weapon from returning. A Returning weapon must be in a creature's possession for at least 24 hours for this ability to work.
 
-## Holy
+\oggettomagico{Holy}
 
 **Aura:** Strong Evocation; **Rarity:** Rare; **Cost:** 10000 gp
 
@@ -20192,7 +20189,7 @@ When you hit a fiend or an undead with it, that creature takes an extra 2d10 Lig
 
 While you hold the drawn **weapon**, it creates a 3-meter-radius aura around you. You and all friendly creatures within the aura gain +1d6 on Saving Throws against spells and other magical effects generated by Followers or Devotees of other Patrons. If you have Common Traits with the Patron 13 or more, the radius of the aura increases to 9 meters.
 
-## Dragon Scales
+\oggettomagico{Dragon Scales}
 
 **Aura:** Moderate Abjuration; **Cost:** 8000 gp; **Rarity:** Legendary
 
@@ -20204,11 +20201,11 @@ While wearing it, you have +1d6 on Saving Throws against the Frightful Presence 
 
 Additionally, with two actions, you can focus your senses to magically determine the distance and direction to the closest dragon within 45 kilometers that is of the same species as the armor. This special action can't be used again until the next dawn.
 
-## Scarab of Death
+\oggettomagico{Scarab of Death}
 
 this **brooch** shaped like a scarab appears to be a simple good luck charm. However, if held in hand for 1 round or worn for 1 Turn, it transforms into a horrible carnivorous insect. Equipped with powerful mandibles, the hungry creature penetrates through leather and fabric, burrowing into the flesh and reaching the heart in 1 round. After killing its victim, the creature resumes the form of a brooch. Only the heat from contact with a living being can animate the monstrous insect, so placing the brooch in a box or case is sufficient precaution to avoid any danger.
 
-## Scarab of Protection
+\oggettomagico{Scarab of Protection}
 
 **Rarity:** Legendary; **Cost:** 36000 gp
 
@@ -20218,15 +20215,15 @@ if you hold this **medallion** shaped like a scarab in your hands for 1 round, a
 
 - The scarab has 12 charges. If you fail a Saving Throw against a necromancy spell or a harmful effect originating from an undead creature, you can use a Reaction to spend 1 charge and turn the failed Saving Throw into a success. The scarab crumbles to dust and is destroyed when its last charge is spent.
 
-## Cursed Broom of Flying
+\oggettomagico{Cursed Broom of Flying}
 
 this magic **broom** appears to be a broom of flying. However, when activated, it flies up to a height of 15 m or to the ceiling (if lower) and then stops working, causing its rider to fall.
 
-## Broom of Animated Attack
+\oggettomagico{Broom of Animated Attack}
 
 this object is indistinguishable in appearance from a normal **broom**. In all tests it appears identical to a flying broom, until it flies 6 meters high. When this happens, the broom performs a pirouette and drops its pilot on their head from a height of 1d4+5 x 30 cm (no falling damage is inflicted since the distance is less than 3 m). The broom then attacks the victim, hitting them in the face with the brush and beating them with the handle. The broom makes two attacks per round with each end (two attacks with the brush and two with the handle for a total of four attacks). The brush blinds the victim for 1 round when it hits. The handle inflicts 1d3 wounds. The broom has Defense 13, 18 Hit Points, and has +4 to Attack Rolls.
 
-## Broom of Flying
+\oggettomagico{Broom of Flying}
 
 **Rarity:** Uncommon; **Cost:** 8000 gp
 
@@ -20234,7 +20231,7 @@ this wooden **broom**, weighing about 1.5 kilograms (encumbrance 2), functions a
 
 By speaking the command word, naming the location and if you are familiar with it, you can send the broom alone to a location up to 1.5 kilometers away from you. The broom will return to you when you speak another command word, provided it is still within 1.5 kilometers of you.
 
-## Animated Shield
+\oggettomagico{Animated Shield}
 
 **Aura:** Strong Transmutation; **Cost:** 6000 gp
 
@@ -20244,7 +20241,7 @@ While holding this **shield**, you can use two actions to speak a command word a
 
 The shield remains animated for 1 minute, until you use two actions to end the effect, you are incapacitated, or you die, at which point the shield falls to the ground or back into your hand if you have one free.
 
-## Shield of Missile Attraction
+\oggettomagico{Shield of Missile Attraction}
 
 **Aura:** Strong Transmutation; **Cost:** 2000 gp
 
@@ -20256,7 +20253,7 @@ While holding this **shield**, you seemingly have resistance to damage from rang
 
 Removing the shield does not end the curse (DC 28). Whenever a ranged weapon attack is made against a target within 3 meters of you, the curse causes you to become the target of the attack.
 
-## Sphere of Annihilation
+\oggettomagico{Sphere of Annihilation}
 
 **Rarity:** Legendary; **Cost:** 250000 gp
 
@@ -20268,7 +20265,7 @@ The sphere remains stationary until someone controls it. If you are within 18 me
 
 If you attempt to control a sphere that is under another creature's control, you make an opposed Arcana check against the other creature's Arcana. The winner of the contest gains control of the sphere and can levitate it as normal.
 
-## Dragon Breath
+\oggettomagico{Dragon Breath}
 
 **Aura:** Faint Evocation; **Cost:** 2500 gp
 
@@ -20278,13 +20275,13 @@ A **shield** with this special ability is usually crafted with a dragon's jaws w
 
 On command, 2 Actions, the wearer can consume 1 to 5 charges of the shield to make it emit a Breath in a 3-meter cone that inflicts 1d4 energy damage per charge consumed (Reflex DC 13 halves). This damage is the same type of energy tied to the shield. A shield cannot have more than one Dragon Breath ability.
 
-## Universal Solvent
+\oggettomagico{Universal Solvent}
 
 **Rarity:** Legendary; **Cost:** 300 gp
 
 this **tube** contains a white liquid with a strong alcohol smell. You can use two actions to pour its contents onto a surface within reach. The liquid instantly dissolves 1000 square cm of adhesive it touches, including sovereign glue.
 
-## Mirror of Mental Prowess
+\oggettomagico{Mirror of Mental Prowess}
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
@@ -20298,13 +20295,13 @@ this object appears to be a normal **mirror** one and a half meters tall and 60 
 
 - Once a week, the mirror can accurately answer a question about a person reflected on its surface (an effect similar to the legend lore spell).
 
-## Mirror of Duplication
+\oggettomagico{Mirror of Duplication}
 
 **Rarity:** Legendary
 
 legendary, this **mirror** is a little more than a meter tall and a little less than a meter wide. When a creature is reflected on the mirror's surface, its reflected image (an identical duplicate in every way) comes out to attack the original. The duplicate has all the equipment and powers of the original, including magic. The duplicate disappears immediately, along with all its objects, upon the death of either itself or the original.
 
-## Mirror of Life Trapping
+\oggettomagico{Mirror of Life Trapping}
 
 **Rarity:** Rare; **Cost:** 18000 gp
 
@@ -20322,95 +20319,95 @@ While you are within 1 meter of the mirror, you can use two actions to speak the
 
 In a similar way, you can use two actions to speak a second command word and free one of the creatures trapped in the mirror. The freed creature appears, along with all its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
-## Defense Pin
+\oggettomagico{Defense Pin}
 
 **Rarity:** Uncommon; **Cost:** 7500 gp
 
 the **pin** can absorb 101 damage from Force spells, then loses its magical properties.
 
-## Winged Boots
+\oggettomagico{Winged Boots}
 
 **Rarity:** Rare; **Cost:** 15000 gp
 
 while wearing these **boots**, you have a flying speed equal to your walking speed. You can use these boots to fly for up to 4 hours, all at once or in short flights, each of which uses a minimum of 1 minute of duration. If the duration ends while you are flying, you descend at a rate of 9 meters per round until you land. The boots regain 2 hours of flying capability each dawn.
 
-## Dancing Boots
+\oggettomagico{Dancing Boots}
 
 these **boots** function as other magical boots. However, when the character enters combat or attempts to flee from potential combat, they are affected by an irresistible dance spell, with no Saving Throw allowed. It is possible to remove the Dancing Boots with the Remove Curse or Wish spell.
 
-## Boots of Elvenkind
+\oggettomagico{Boots of Elvenkind}
 
 **Rarity:** Uncommon; **Cost:** 3000 gp
 
 while you wear these **boots**, your steps make no sound, regardless of the surface you are moving across. Moving silently does not force you to treat the terrain as difficult (though it might still be difficult).
 
-## Boots of the Winterlands
+\oggettomagico{Boots of the Winterlands}
 
 **Cost:** 10000 gp
 
 while you wear these **boots** you have resistance to cold damage, ignore difficult terrain created by snow or ice. You can tolerate temperatures as low as -45°C without requiring additional protection. If you wear heavy clothing, you can tolerate temperatures as low as -75°C.
 
-## Boots of Striding and Springing
+\oggettomagico{Boots of Striding and Springing}
 
 **Rarity:** Uncommon; **Cost:** 5000 gp
 
 while you wear these **boots**, your walking speed becomes 9 meters, unless your walking speed is higher, and your speed isn't reduced if you are encumbered or wearing heavy armor. In addition, you jump three times the normal distance, up to a maximum of 9 meters.
 
-## Boots of Levitation
+\oggettomagico{Boots of Levitation}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
 while you wear these **boots**, you can use two actions at will to cast the Levitation spell on yourself.
 
-## Boots of Speed
+\oggettomagico{Boots of Speed}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
 while you wear these **boots**, you can use a Reaction to gain an additional Movement Action. This ability can be used for a maximum of 10 minutes per day. The ability recharges at dawn.
 
-## Talisman of Pure Good
+\oggettomagico{Talisman of Pure Good}
 
 **Rarity:** Legendary; **Cost:** 50000 gp
 
 a Devotee of Gradh or Sumkjr in possession of this item can cause a chasm of flames to appear at the feet of a Devotee of Calicante or Shayalia within 30 m. The victim is swallowed by fire and falls screaming toward the center of the Earth. A talisman of pure good has 6 charges and cannot be recharged. If a Devotee of Calicante or Shayalia touches it, they take 6d6 damage. Any other Devotee or Follower suffers no effect. The **Talisman** pulses with light within 36 meters of a Devotee or Follower of Calicante or Shayalia.
 
-## Talisman of Ultimate Evil
+\oggettomagico{Talisman of Ultimate Evil}
 
 **Rarity:** Legendary; **Cost:** 50000 gp
 
 this **talisman** works exactly like the talisman of pure good but with the Patrons reversed.
 
-## Talisman of Poison Protection
+\oggettomagico{Talisman of Poison Protection}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
 while wearing this **pendant**, poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage.
 
-## Talisman of Health
+\oggettomagico{Talisman of Health}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
 while wearing this **pendant**, you are immune to contracting any disease. If you are already infected with a disease, its effects are suspended while you wear this pendant.
 
-## Talisman of the Sphere
+\oggettomagico{Talisman of the Sphere}
 
 **Rarity:** Legendary; **Cost:** 75000 gp
 
 when you make an Arcana check to control a sphere of annihilation while holding this **talisman**, you have a +5 bonus. In addition, when you start your round with control over a sphere of annihilation, you can use two actions to levitate it 3 meters plus an additional number of meters equal to 3 x your Intelligence score.
 
-## Drums of Panic
+\oggettomagico{Drums of Panic}
 
 **Rarity:** Uncommon; **Cost:** 1500 gp
 
 these **drums** are similar to timpani (small percussion instruments that are easily portable). They come in pairs and have a nondescript appearance. If both are played, all creatures within 72 m (except those within a 3 m circle centered on the drums) are overcome with Fear and flee for 30 rounds at maximum speed. A Will Saving Throw DC 21 is allowed to save from the effects.
 
-## Drums of Stunning
+\oggettomagico{Drums of Stunning}
 
 **Rarity:** Rare
 
 these two paired **drums** resemble the drums of panic; when both are played, all creatures within 3 m must succeed on a Fortitude Saving Throw DC 21 or be stunned for 2d4 rounds. All creatures within 21 m are immediately deafened. Greater restoration, heal, regeneration, or similar spells can cure the deafness.
 
-## Flying Carpet
+\oggettomagico{Flying Carpet}
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
@@ -20430,7 +20427,7 @@ There are four sizes of flying carpet. The Narrator chooses the carpet's size or
 
 The Capacity value indicates both the weight carried and the Encumbrance. The carpet can carry up to double the load indicated in the table, but flies at half speed if it carries more.
 
-## Titanic Weapon
+\oggettomagico{Titanic Weapon}
 
 **Aura:** Moderate transmutation; **Cost:** 3000 gp
 
@@ -20438,7 +20435,7 @@ The Capacity value indicates both the weight carried and the Encumbrance. The ca
 
 This giant **weapon** is 3 m long and weighs almost 40 kg (8 Encumbrance). If used as a weapon, it has a +2 bonus to hit and deals 2 die categories higher of damage. It can also be used to quickly drive piles as thick as tree trunks and to break down doors and gates with a few blows. Due to fatigue when using it, it cannot be wielded for more than 10 rounds per day.
 
-## Titanic Armor
+\oggettomagico{Titanic Armor}
 
 **Aura:** Moderate transmutation; **Cost:** 15000 gp
 
@@ -20446,7 +20443,7 @@ This giant **weapon** is 3 m long and weighs almost 40 kg (8 Encumbrance). If us
 
 An **armor** with the Titanic property is oversized, although the effect is only external and the interior accommodates a creature as normal, without requiring modifications. A creature wearing a Titanic armor is considered one size category larger, including for the purpose of using objects and weapons or being affected by special attacks that depend on size, such as Swallow and Trample.
 
-## Ghost Touch
+\oggettomagico{Ghost Touch}
 
 **Aura:** Moderate evocation; **Cost:** 3000 gp
 
@@ -20454,25 +20451,25 @@ An **armor** with the Titanic property is oversized, although the effect is only
 
 A Ghost Touch **weapon** inflicts additional critical damage when it hits creatures with Incorporeal Movement. While wielding a Ghost Touch weapon, you can see invisible creatures.
 
-## Tome of Clear Thought
+\oggettomagico{Tome of Clear Thought}
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
 this **book** contains memory and logic exercises, and its words are suffused with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Intelligence score increases by 1. Once you've read the manual, it loses its magic, regaining it after a century. The *cursed version* of this manual, while appearing absolutely identical to the original, causes the loss of one Intelligence point.
 
-## Tome of Leadership and Influence
+\oggettomagico{Tome of Leadership and Influence}
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
 this **book** contains guidelines on how to influence and charm others, and its words are suffused with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Charisma score increases by 1. Once you've read the manual, it loses its magic, regaining it after a century. The *cursed version* of this manual, while appearing absolutely identical to the original, causes the loss of one Charisma point.
 
-## Tome of Understanding
+\oggettomagico{Tome of Understanding}
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
 this **book** contains intuition and discernment exercises, and its words are suffused with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Wisdom score increases by 1, as does your maximum for that ability score. Once you've read the manual, it loses its magic, regaining it after a century. The *cursed version* of this manual, while appearing absolutely identical to the original, causes the loss of one Wisdom point.
 
-## Thundering
+\oggettomagico{Thundering}
 
 **Aura:** Weak necromancy; **Cost:** 3000 gp
 
@@ -20480,7 +20477,7 @@ this **book** contains intuition and discernment exercises, and its words are su
 
 A Thundering **weapon** creates a tremendous crash like thunder when it scores a Critical Hit. The sonic energy doesn't harm the wielder and inflicts 1d8 additional sonic damage for each Critical Hit scored. Anyone subject to a Critical Hit from a Thundering weapon must make a Fortitude Saving Throw DC 14 or be permanently Deafened.
 
-## Transforming
+\oggettomagico{Transforming}
 
 **Aura:** Moderate transmutation; **Cost:** 5000 gp
 
@@ -20490,7 +20487,7 @@ This ability can only be added to melee **weapons**. A Transforming weapon alter
 
 The weapon retains all of its abilities, including bonuses and special abilities of the weapon, except those prohibited by its current form. If left unattended, the weapon returns to its original form.
 
-## Item Finder
+\oggettomagico{Item Finder}
 
 **Aura:** Light divination; **Cost:** 1000 gp
 
@@ -20498,7 +20495,7 @@ The weapon retains all of its abilities, including bonuses and special abilities
 
 This ability grants the wielder of this **weapon** the ability to cast the Locate Object spell once per day
 
-## Robe of Eyes
+\oggettomagico{Robe of Eyes}
 
 **Rarity:** Legendary; **Cost:** 30000 gp
 
@@ -20514,7 +20511,7 @@ The eyes on the robe can't be closed or averted, and while wearing this robe, yo
 
 The *light* spell cast on the robe or a daylight spell cast within 1 meter of the robe causes you to be blinded for 1 minute. At the end of each of your turns, you can make a Fortitude Saving Throw (DC 15 for light or DC 19 for daylight), ending the blinded condition on a success.
 
-## Robe of Useful Items
+\oggettomagico{Robe of Useful Items}
 
 **Rarity:** Uncommon; **Cost:** 300 gp
 
@@ -20543,19 +20540,19 @@ Roll a d100 on the following table to discover the properties of the other 4d4 p
 | 91-96 | Window (60 x 120 cm, up to 60 cm deep), which you can place on any vertical surface within reach. |
 | 97-100 | Portable ram. |
 
-## Robe of Scintillating Colors
+\oggettomagico{Robe of Scintillating Colors}
 
 **Rarity:** Very Rare; **Cost:** 6000 gp
 
 this **robe** has 3 charges, and regains 1 expended charge each day at dawn. While wearing it, you can use two actions and expend 1 charge to cause the garment to produce a shifting pattern of dazzling colors until the end of your next round. During this period, the robe sheds bright light in a 9-meter radius and dim light for 18 meters. Creatures that can see you have -1d6 to Attack Rolls against you. Additionally, any creature in the bright light that sees you when the robe's power is activated must succeed on a Will Saving Throw with DC 17 or be stunned until the effect ends.
 
-## Robe of Blending
+\oggettomagico{Robe of Blending}
 
 **Rarity:** Rare; **Cost:** 2500 gp
 
 when wearing this **robe**, a character immediately understands its power. A robe of blending allows the character to blend into the surroundings, whatever they may be, and to hide. You have +1d6 on Stealth checks to hide in shadows. The wearer can take on the appearance of another humanoid at will, as with the *Alter Self* spell (Change Appearance). In this case, the wearer's friends and those who know them very well are instinctively aware of their true identity.
 
-## Robe of the Archmage
+\oggettomagico{Robe of the Archmage}
 
 **Rarity:** Legendary; **Cost:** 8000 gp
 
@@ -20565,37 +20562,37 @@ this apparently normal **garment** can be yellow (01-45 on 1d100), gray (46-75),
 
 - +2 to Saving Throws against spells and magical items
 
-## Robe of Weakness
+\oggettomagico{Robe of Weakness}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
 a **robe** of weakness appears to be a magical garment of another type. As soon as a character puts it on, their Strength and Intelligence drop to -3, and they lose the ability to cast spells. The robe can be easily removed, but to restore the attributes requires *Remove Curse* followed by *heal*.
 
-## Robe of Stars
+\oggettomagico{Robe of Stars}
 
 **Rarity:** Rare; **Cost:** 60000 gp
 
 while wearing this **robe**, you gain a +1 bonus to Saving Throws. Six stars, positioned on the upper front part of the robe, are larger than the others. While wearing this robe, you can use 1 Action to pull off one of the stars and use it to cast Arcane dart (1d4+1). Each day at sunset, the removed star reappears on the robe. While wearing the robe, you can use two actions to enter the Astral Plane along with everything you wear or carry. You will remain there until you use two actions to return to the plane where you were before. You reappear in the space you last occupied, or if that space is occupied, in the nearest unoccupied space.
 
-## Censer of Cursed Summoning
+\oggettomagico{Censer of Cursed Summoning}
 
 **Rarity:** Rare
 
 this **censer** appears to be, and seems to function as, an air elemental censer. However, once lit, it is impossible to extinguish for 1d4 rounds. In each round, an air elemental emerges and attacks all nearby creatures.
 
-## Elemental Air Censer
+\oggettomagico{Elemental Air Censer}
 
 **Rarity:** Rare; **Cost:** 1500 gp
 
 this **censer** can be used to summon and control an air elemental in a manner similar to the summon elemental spell. It is necessary to prepare the magical item and conduct a ritual for one round before the actual summoning, which requires one round. After the elemental has been summoned, it is necessary to maintain concentration in order to give it commands.
 
-## Ljust's Salve
+\oggettomagico{Ljust's Salve}
 
 **Rarity:** Uncommon; **Cost:** 5000 gp
 
 this glass **jar**, 7.5 centimeters in diameter, contains 1d4 + 1 doses of a thick mixture. The jar and its contents weigh 250 grams, encumbrance 1. With two actions, one dose of the salve can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 Hit Points, stops being poisoned, and is cured of any disease.
 
-## Vampiric
+\oggettomagico{Vampiric}
 
 **Aura:** Moderate necromancy; **Cost:** 8000 gp
 
@@ -20603,7 +20600,7 @@ this glass **jar**, 7.5 centimeters in diameter, contains 1d4 + 1 doses of a thi
 
 When you attack a creature with this magic **weapon** and score a critical on the Attack Roll, the target, except for constructs and undead, takes additional critical damage and the wielder regains 1d6 Hit Points.
 
-## Portable Hole
+\oggettomagico{Portable Hole}
 
 **Rarity:** Rare; **Cost:** 10000 gp
 
@@ -20615,7 +20612,7 @@ If the Hole is folded up, a creature inside the extradimensional space can use t
 
 Placing a Portable Hole inside the extradimensional space created by a bag of holding, handy haversack, or similar item instantly destroys both items and opens a gateway to the Astral Plane. Any creature within 3 meters of the gateway is sucked through it and deposited in a random location on the Astral Plane. Then the gateway closes. The gateway is one-way and cannot be reopened.
 
-## Speed
+\oggettomagico{Speed}
 
 **Aura:** Moderate transmutation; **Cost:** 15000 gp
 
@@ -20623,32 +20620,32 @@ Placing a Portable Hole inside the extradimensional space created by a bag of ho
 
 When making multiple attacks (2 Actions), the wielder of a Speed **weapon** can make an additional attack with the weapon without using Action. The additional attack does not have the penalties for multiple attacks. This ability does not stack with similar spells or effects.
 
-## Arcane Fan
+\oggettomagico{Arcane Fan}
 
 **Rarity:** Uncommon; **Cost:** 1500 gp
 
 while holding this **fan**, you can use two actions to cast the gust of wind spell (Saving Throw DC 15) through it. Once used, the fan
 should not be used again until the next dawn. Each time it is used before then, there is a cumulative 20\% chance that it will not work and will tear into useless, nonmagical tatters.
 
-## Rod of Mighty Striking
+\oggettomagico{Rod of Mighty Striking}
 
 **Rarity:** Very Rare; **Cost:** 30000 gp
 
 a **rod** of mighty striking inflicts 1d8+3 damage, and functions as a magical light mace +3. When the rod is used against golems, it consumes 1 charge per hit inflicted, and inflicts 2d8+6 damage. Note that when the rod is used as a weapon against a golem, a Critical Attack Roll instantly annihilates it. In addition, this rod inflicts additional damage to fiends and undead. When attacking these monsters, a Critical Attack Roll causes the consumption of 1 charge, and the rod inflicts triple damage.
 
-## Rod of Charming
+\oggettomagico{Rod of Charming}
 
 **Rarity:** Rare; **Cost:** 28000 gp
 
 by spending 1 charge, the wielder of the **rod** can cast dominate beast, with 2 charges Dominate Person, and with 3 charges dominate monster.
 
-## Rod of Absorption
+\oggettomagico{Rod of Absorption}
 
 **Rarity:** Very Rare; **Cost:** 50000 gp
 
 while holding this **rod**, you can use an Action to absorb a spell that targets only you and has no area of effect. The effect of the absorbed spell is canceled, and the energy of the spell (not the spell itself) is absorbed by the rod. During its existence, the rod can absorb and contain up to a sum of 31 spell levels. Once the rod has absorbed 8 spells (max level 4), it cannot absorb any more. If you are the target of a spell that the rod cannot contain, the rod has no effect on the spell. When you pick up the rod, you know how many spells the rod has absorbed so far. If you are a spellcaster and hold the rod, you can convert all the energy contained to get 10 more Magic Points.
 
-## Rod of Lordly Might
+\oggettomagico{Rod of Lordly Might}
 
 **Cost:** 50000 gp
 
@@ -20676,7 +20673,7 @@ legendary, this **rod** has a flanged head, and functions as a magic mace that g
 
 This rod cannot be recharged. When the charges run out, it remains a
 
-## Rod of Alertness
+\oggettomagico{Rod of Alertness}
 
 **Rarity:** Very Rare; **Cost:** 25000 gp
 
@@ -20688,7 +20685,7 @@ this **rod** with a flanged head has the following properties.
 
 *Protective Aura*. With two actions, you can plant the end of the rod in the ground. At that point, the rod's head emits bright light in a 18-meter radius and dim light for 36 meters. While in this bright light, you and any friendly creature gain a +1 bonus to Defense and Saving Throws and can sense the location of any invisible hostile creature that is also in the bright light. The rod's head stops glowing and the effect ends after 10 minutes, or when a creature uses two actions to pull the rod from the ground. This property can't be used again until the next dawn.
 
-## Rod of Security
+\oggettomagico{Rod of Security}
 
 **Rarity:** Very Rare; **Cost:** 90000 gp
 
@@ -20698,25 +20695,25 @@ For each hour spent in this paradise, a visitor regains Hit Points as if they ha
 
 When the time runs out or you use two actions to end it, all visitors reappear in the location they occupied when you activated the rod, or in the nearest unoccupied space to that location. The rod can't be used again for ten days.
 
-## Rod of Rulership
+\oggettomagico{Rod of Rulership}
 
 **Rarity:** Rare; **Cost:** 16000 gp
 
 you can use two actions to present the **rod** and command obedience from each creature of your choice that you can see within 36 meters of you. Each target must succeed on a Will Saving Throw with DC 17 or be Charmed by you for 8 hours. While charmed in this way, the creature regards you as a trusted leader. If harmed by you or your companions, or ordered to do something contrary to its nature, the target ceases to be charmed in this way. The rod can't be used again until the next dawn.
 
-## Immovable Rod
+\oggettomagico{Immovable Rod}
 
 **Rarity:** Uncommon; **Cost:** 5000 gp
 
 this flat iron **rod** has a button on one end. You can use two actions to press the button, which causes the rod to magically fix in place. Until you or another creature uses two actions to press the button again, the rod doesn't move, even if it is defying gravity. The rod can hold up to 4000 kilograms of weight. More weight causes the rod to deactivate and fall. A creature can use two actions to make a Fortitude Saving Throw with Strength DC 30, moving the rod up to 3 meters on a success.
 
-## Tentacle Rod
+\oggettomagico{Tentacle Rod}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
 this **rod** is a magic weapon that ends in three leather tentacles. While holding the rod, you can use two actions to direct each tentacle to attack a visible creature within 3 meters of you. Each tentacle makes a melee Attack Roll with a +9 bonus. On a hit, the tentacle deals 1d6 bludgeoning damage. If you hit a target with all three tentacles, it must make a Fortitude Saving Throw with DC 15. On a failed save, the creature's speed is halved, it has -1d6 to Reflex Saving Throws, and for 1 minute it cannot use its reactions. Moreover, during each of its turns, it can take either two actions or two actions but not both. The target can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
-## Vorpal
+\oggettomagico{Vorpal}
 
 **Aura:** Very strong evocation; **Cost:** 150000 gp
 
@@ -20728,7 +20725,7 @@ A creature is immune to this effect if it is immune to slashing damage, doesn't 
 
 Such a creature instead takes 6d8 extra slashing damage from the hit.
 
-## Vulnerability
+\oggettomagico{Vulnerability}
 
 **Aura:** Moderate necromancy; **Cost:** 3000 gp
 
@@ -20736,7 +20733,7 @@ Such a creature instead takes 6d8 extra slashing damage from the hit.
 
 While wearing this **armor**, you have resistance to one of the following damage types: bludgeoning, piercing, or slashing. The Narrator chooses the type. The armor is cursed, while you are cursed, you have vulnerability to two of the three damage types associated with the armor (that isn't the one to which you have resistance).
 
-## Handy Haversack
+\oggettomagico{Handy Haversack}
 
 **Rarity:** Rare; **Cost:** 7000 gp
 
@@ -20749,19 +20746,19 @@ The haversack has a few limitations. If overloaded, or if a sharp object cuts it
 
 Placing the haversack inside an extradimensional space created by a bag of holding, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 3 meters of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way and cannot be reopened.
 
-## Hoe of the Titans
+\oggettomagico{Hoe of the Titans}
 
 **Rarity:** Uncommon; **Cost:** 2000 gp
 
 this oversized tool is 3 m long and weighs 120 kg (30 Encumbrance), and can only be used by a giant (or an enlarged character) to move large amounts of soil and build embankments (a 3 m cube per Turn). The **hoe** can also be used to break stone very quickly. If used as a weapon, it has a +3 bonus to hit and inflicts 5d6 damage.
 
-## Horseshoes of Speed
+\oggettomagico{Horseshoes of Speed}
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
 these iron **horseshoes** come in sets of four. When all four horseshoes are attached to a dinosaur steed or similar creature, they increase that creature's walking speed by 9 meters.
 
-## Horseshoes of a Zephyr
+\oggettomagico{Horseshoes of a Zephyr}
 
 **Rarity:** Very Rare; **Cost:** 1500 gp
 
@@ -22239,7 +22236,6 @@ Oskar Schindler: That's what the emperors had. A man steals something, he's brou
 
 (Schindler's List, Film, 1993)
 
-## Aboleth
 - **Size/Type**: Large aberration, evil
 - **Ability**: Str 5 Dex -1 Con 2 Int 4 Wis 2 Cha 4
 - **Hit Points**: 199,  **Defense:** 24,  **Initiative:** +4
@@ -22290,7 +22286,7 @@ The aboleth can take 3 bonus actions, chosen from the options below. It can use 
 
 As their primitive appearance suggests, aboleths are among the oldest life forms in the world. An aboleth is 7 meters long and weighs about 3.2 tons. Aboleths dwell at the bottom of the seas in their vast cities, served by countless slaves.
 
-## Adult Black Dragon
+\mostro{Adult Black Dragon}
 - **Size/Type**: Huge dragon, evil
 - **Ability**: Str 6 Dex 2 Con 5 Int 2 Wis 1 Cha 3
 - **Hit Points**: 338,  **Defense:** 36,  **Initiative:** +2
@@ -22356,7 +22352,7 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 
 - Bestow Curse
 
-## Adult Blue Dragon
+\mostro{Adult Blue Dragon}
 - **Size/Type**: Huge dragon, evil
 - **Ability**: Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4
 - **Hit Points**: 322,  **Defense:** 33,  **Initiative:** +3
@@ -22420,7 +22416,7 @@ The dragon can take 3 Legendary Actions, choosing from the options below. Only o
 
 - Ice Storm
 
-## Adult Brass Dragon
+\mostro{Adult Brass Dragon}
 - **Size/Type**: Huge dragon, good
 - **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 1 Cha 3
 - **Hit Points**: 262,  **Defense:** 29,  **Initiative:** +2
@@ -22486,7 +22482,7 @@ The dragon can take 3 Additional Actions, choosing from the options below. It ca
 
 - Scrying
 
-## Adult Bronze Dragon
+\mostro{Adult Bronze Dragon}
 - **Size/Type**: Huge dragon, good
 - **Ability**: Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4
 - **Hit Points**: 303,  **Defense:** 32,  **Initiative:** +3
@@ -22557,7 +22553,7 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 - Freedom of Movement
 
-## Adult Copper Dragon
+\mostro{Adult Copper Dragon}
 - **Size/Type**: Huge dragon, good
 - **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
 - **Hit Points**: 281,  **Defense:** 31,  **Initiative:** +4
@@ -22623,7 +22619,7 @@ The dragon can take 3 Additional Actions, choosing from the options below. It ca
 
 - Fire Shield
 
-## Adult Gold Dragon
+\mostro{Adult Gold Dragon}
 - **Size/Type**: Huge dragon, good
 - **Ability**: Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 7
 - **Hit Points**: 344,  **Defense:** 36,  **Initiative:** +3
@@ -22697,7 +22693,7 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 - Black Tentacles
 
-## Adult Green Dragon
+\mostro{Adult Green Dragon}
 - **Size/Type**: Huge dragon, evil
 - **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
 - **Hit Points**: 300,  **Defense:** 33,  **Initiative:** +4
@@ -22763,7 +22759,7 @@ The dragon can take 3 Additional actions, chosen from the options below. It can 
 
 - Neutralize Poison
 
-## Adult Red Dragon
+\mostro{Adult Red Dragon}
 - **Size/Type**: Huge dragon, evil
 - **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5
 - **Hit Points**: 344,  **Defense:** 34,  **Initiative:** +3
@@ -22829,7 +22825,7 @@ The dragon can then fly up to half its flying movement.
 
 - Wall of Fire
 
-## Adult Silver Dragon
+\mostro{Adult Silver Dragon}
 - **Size/Type**: Huge dragon, good
 - **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5
 - **Hit Points**: 325,  **Defense:** 33,  **Initiative:** +3
@@ -22899,7 +22895,7 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 - Dream
 
-## Adult White Dragon
+\mostro{Adult White Dragon}
 - **Size/Type**: Huge dragon, evil
 - **Ability**: Str 6 Dex 0 Con 6 Int 2 Wis 1 Cha 1
 - **Hit Points**: 264,  **Defense:** 29,  **Initiative:** +2
@@ -22963,7 +22959,7 @@ The dragon can take 3 Legendary Actions, choosing from the options below. Only o
 
 - Sleet Storm
 
-## Ancient Black Dragon
+\mostro{Ancient Black Dragon}
 - **Size/Type**: Gargantuan dragon, evil
 - **Ability**: Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 4
 - **Hit Points**: 422,  **Defense:** 42,  **Initiative:** +3
@@ -23049,7 +23045,7 @@ Black Dragons represent the Traits of selfishness and violence, hating every for
 
 Yes indeed, the Black Dragon is the only creature on Earth that can bring a dead being to life despite all the constraints imposed by the Patrons.
 
-## Ancient Blue Dragon
+\mostro{Ancient Blue Dragon}
 - **Size/Type**: Gargantuan dragon, evil
 - **Ability**: Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5
 - **Hit Points**: 465,  **Defense:** 42,  **Initiative:** +4
@@ -23129,7 +23125,7 @@ They don't get along with purple dragons, which they despise for having chosen t
 
 - Ice Storm
 
-## Ancient Brass Dragon
+\mostro{Ancient Brass Dragon}
 - **Size/Type**: Gargantuan dragon, good
 - **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 2 Cha 4
 - **Hit Points**: 403,  **Defense:** 38,  **Initiative:** +3
@@ -23197,7 +23193,7 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 - Scrying
 
-## Ancient Bronze Dragon
+\mostro{Ancient Bronze Dragon}
 - **Size/Type**: Gargantuan dragon, good
 - **Ability**: Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5
 - **Hit Points**: 446,  **Defense:** 41,  **Initiative:** +4
@@ -23266,7 +23262,7 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 - Freedom of Movement
 
-## Ancient Copper Dragon
+\mostro{Ancient Copper Dragon}
 - **Size/Type**: Gargantuan dragon, good
 - **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
 - **Hit Points**: 422,  **Defense:** 41,  **Initiative:** +5
@@ -23336,7 +23332,7 @@ The dragon can take 3 Additional Actions, choosing from the options below. It ca
 
 - Fire Shield
 
-## Ancient Gold Dragon
+\mostro{Ancient Gold Dragon}
 - **Size/Type**: Gargantuan dragon, good
 - **Ability**: Str 10 Dex 2 Con 9 Int 4 Wis 3 Cha 9
 - **Hit Points**: 490,  **Defense:** 46,  **Initiative:** +4
@@ -23406,7 +23402,7 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 - Black Tentacles
 
-## Ancient Green Dragon
+\mostro{Ancient Green Dragon}
 - **Size/Type**: Gargantuan dragon, evil
 - **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
 - **Hit Points**: 441,  **Defense:** 42,  **Initiative:** +5
@@ -23484,7 +23480,7 @@ Among the many dragons, the green one is perhaps the one that will talk to adven
 
 - Neutralize Poison
 
-## Ancient Purple Dragon
+\mostro{Ancient Purple Dragon}
 - **Size/Type**: Gargantuan dragon, evil
 - **Ability**: Str 8 Dex 3 Con 4 Int 4 Wis 4 Cha 4
 - **Hit Points**: 428,  **Defense:** 44,  **Initiative:** +4
@@ -23559,7 +23555,7 @@ It is strong and courageous, arrogant but not brazen. It is not afraid to fight 
 
 - Stone Shape
 
-## Ancient Red Dragon
+\mostro{Ancient Red Dragon}
 - **Size/Type**: Gargantuan dragon, evil
 - **Ability**: Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6
 - **Hit Points**: 490,  **Defense:** 44,  **Initiative:** +4
@@ -23632,7 +23628,7 @@ They fight using their bulk, wings, bite, claws... basically everything they are
 
 - Wall of Fire
 
-## Ancient Silver Dragon
+\mostro{Ancient Silver Dragon}
 - **Size/Type**: Gargantuan dragon, good
 - **Ability**: Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6
 - **Hit Points**: 470,  **Defense:** 42,  **Initiative:** +4
@@ -23702,7 +23698,7 @@ The dragon can use 3 Additional Actions, choosing from the options below. It can
 
 - Dream
 
-## Ancient White Dragon
+\mostro{Ancient White Dragon}
 - **Size/Type**: Gargantuan dragon, evil
 - **Ability**: Str 8 Dex 0 Con 8 Int 3 Wis 1 Cha 2
 - **Hit Points**: 407,  **Defense:** 38,  **Initiative:** +3
@@ -23778,7 +23774,7 @@ Their lairs are icy caves in the mountains or dug into the most massive glaciers
 
 - Sleet Storm
 
-## Ancient Yellow Dragon
+\mostro{Ancient Yellow Dragon}
 - **Size/Type**: Gargantuan dragon, evil
 - **Ability**: Str 10 Dex 1 Con 8 Int 3 Wis 2 Cha 4
 - **Hit Points**: 465,  **Defense:** 43,  **Initiative:** +3
@@ -23835,7 +23831,7 @@ The Yellow Dragon, although intelligent, is a killing machine and rarely negotia
 
 - Fire Shield
 
-## Androsphinx
+\mostro{Androsphinx}
 - **Size/Type**: Large monstrosity, lawful
 - **Ability**: Str 6 Dex 0 Con 5 Int 3 Wis 4 Cha 6
 - **Hit Points**: 338,  **Defense:** 34,  **Initiative:** +3
@@ -23910,7 +23906,7 @@ Androsphinxes display a grumpy and spiteful facade toward strangers. They make n
 
 Androsphinxes are 12 feet tall and weigh 1,100 pounds.
 
-## Animated Armor
+\mostro{Animated Armor}
 - **Size/Type**: Medium construct, unaligned
 - **Ability**: Str 2 Dex 0 Con 1 Int -5 Wis -4 Cha -5
 - **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
@@ -23931,7 +23927,7 @@ Androsphinxes are 12 feet tall and weigh 1,100 pounds.
 
 *Hit:* 5 (1d6 + 2) bludgeoning damage.
 
-## Ankheg
+\mostro{Ankheg}
 - **Size/Type**: Large monstrosity, unaligned
 - **Ability**: Str 3 Dex 0 Con 1 Int -5 Wis 1 Cha -2
 - **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +0
@@ -23957,7 +23953,7 @@ Ankhegs are burrowing monsters that prefer countryside areas due to the soft gro
 
 Some ankhegs are trainable and can become beasts of burden, although their unpredictable behavior makes them dangerous in civilized regions.
 
-## Aquatic Man
+\mostro{Aquatic Man}
 - **Size/Type**: Medium humanoid (aquatic man), neutral
 - **Ability**: Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 1
 - **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
@@ -23982,7 +23978,7 @@ Some ankhegs are trainable and can become beasts of burden, although their unpre
 
 Physically, the Fish Men resemble their ancestors, with expressive foreheads, pale skin, dark hair, and purple eyes. They have three thin gills on their neck, but can pass for Humans for short periods, if they wish.
 
-## Azer
+\mostro{Azer}
 - **Size/Type**: Medium elemental, lawful
 - **Ability**: Str 3 Dex 1 Con 2 Int 1 Wis 1 Cha 0
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
@@ -24019,7 +24015,7 @@ In the legendary City of Brass live more than half a million Azer. Most of these
 
 To an untrained eye, the Azer appear impressively similar to each other. They are 1.2 meters tall but weigh 100 kg.
 
-## B.O.C.
+\mostro{B.O.C.}
 - **Size/Type**: large monstrosity, evil
 - **Ability**: Str 4 Dex 3 Con 2 Int -2 Wis 1 Cha -1
 - **Hit Points**: 88,  **Defense:** 20,  **Initiative:** +3
@@ -24059,7 +24055,7 @@ The B.O.C. constantly bends light around itself, appearing almost a meter displa
 
 The Black Ops Cat, better known as B.O.C., is a large predatory feline, obviously black in color. Fierce, insatiable, it kills for the pleasure of hunting. It usually operates in packs and is extremely loyal to the group.
 
-## Balor
+\mostro{Balor}
 - **Size/Type**: Huge demon, evil
 - **Ability**: Str 8 Dex 2 Con 6 Int 5 Wis 3 Cha 6
 - **Hit Points**: 379,  **Defense:** 39,  **Initiative:** +5
@@ -24107,7 +24103,7 @@ In the Abyss, Balors are mostly in the service of demon lords, as generals or ca
 
 A Balor is 4.2 meters tall and weighs 2,250 kg. Only the most cruel mortal souls can fuel the creation of a balor: unlike other demons, it often takes numerous souls of powerful evildoers to give birth to a new balor.
 
-## Banshee
+\mostro{Banshee}
 - **Size/Type**: Medium undead, Arrogant, Vain
 - **Ability**: Str -5 Dex 5 Con 0 Int 1 Wis 1 Cha 4
 - **Hit Points**: 87,  **Defense:** 22,  **Initiative:** +5
@@ -24147,7 +24143,7 @@ A Balor is 4.2 meters tall and weighs 2,250 kg. Only the most cruel mortal souls
 
 The Banshee is the enraged spirit of a woman who betrayed her loved ones or was herself betrayed. Driven mad with grief, the Banshee unleashes her vengeance on every living creature (innocent or guilty) with her dreadful touch and her deadly screams.
 
-## Basilisk
+\mostro{Basilisk}
 - **Size/Type**: Medium monstrosity, unaligned
 - **Ability**: Str 3 Dex -1 Con 2 Int -4 Wis -1 Cha -2
 - **Hit Points**: 70,  **Defense:** 15,  **Initiative:** -1
@@ -24187,7 +24183,7 @@ An adult basilisk is almost 3 meters long, half of which is occupied by the long
 
 For unknown reasons, weasels, ferrets, and small mice are immune to the basilisk's gaze, and sometimes sneak into the dens while the adult is hunting to feed on its young.
 
-## Bearded Devil
+\mostro{Bearded Devil}
 - **Size/Type**: Medium devil, evil
 - **Ability**: Str 3 Dex 2 Con 2 Int -1 Wis 0 Cha 0
 - **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
@@ -24229,7 +24225,7 @@ Chosen warriors of the infernal legions, bearded devils, or barbazus, fight sava
 
 Barbazus love to make charging attacks with their glaives and try to maintain a distance of 3 meters between themselves and their opponents, so they can use their characteristic pole weapons with maximum efficiency. Standing upright, bearded devils are more than 1.8 meters tall (although the crouched position they keep in battle often makes them appear shorter) and weigh more than 100 kg.
 
-## Behir
+\mostro{Behir}
 - **Size/Type**: Huge monstrosity, evil
 - **Ability**: Str 6 Dex 3 Con 4 Int -2 Wis 2 Cha 1
 - **Hit Points**: 221,  **Defense:** 29,  **Initiative:** +3
@@ -24270,7 +24266,7 @@ The behir is a territorial creature that crawls through sandy hills and desert r
 
 Despite its bestial fury, the behir is not necessarily evil and can be persuaded by intrepid negotiators. Behirs are often linked to blue dragons, but the nature of this connection is unknown. This bond creates resentment in behirs, making them ready to attack any dragon that enters their territory.
 
-## Black Dragon Wyrmling
+\mostro{Black Dragon Wyrmling}
 - **Size/Type**: Medium dragon, evil
 - **Ability**: Str 2 Dex 2 Con 1 Int 0 Wis 0 Cha 1
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
@@ -24299,7 +24295,7 @@ Despite its bestial fury, the behir is not necessarily evil and can be persuaded
 
 See Ancient Black Dragon Description.
 
-## Black Knight
+\mostro{Black Knight}
 - **Size/Type**: Medium undead, Arrogant, Patient
 - **Ability**: Str 5 Dex 1 Con 5 Int 1 Wis 2 Cha 3
 - **Hit Points**: 357,  **Defense:** 37,  **Initiative:** +1
@@ -24346,7 +24342,7 @@ level 4 (3 slots): *Banishment, Branding Smite (with 1 automatic magic critical,
 
 Damned to the depths of his soul, the Black Knight is the antithesis of the knight of Sumkjr, and often arises from the corruption of a knight of Sumkjr. A formidable adversary, cunning, tactical, he loves to behave and reason maliciously, like a person still alive. His tactic is to cast Fireball as soon as possible and then consume the victim with Branding Smite.
 
-## Black Pudding
+\mostro{Black Pudding}
 - **Size/Type**: Large ooze, unaligned
 - **Ability**: Str 3 Dex -3 Con 3 Int -5 Wis -2 Cha -5
 - **Hit Points**: 89,  **Defense:** 14,  **Initiative:** -3
@@ -24382,7 +24378,7 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
 Black puddings are the scavengers of the underground world, constantly searching for food. They can sense organic or metallic bodies within 60 feet and instinctively attack such objects or beings until they dissolve them, or until the ooze is killed. A black pudding reproduces by breaking off a piece of its body and forming a smaller new pudding that reaches adulthood within a month. Some of the more intelligent creatures in the underground world use black puddings for natural garbage disposal, creating stone cavities designed to house the pudding, and then throwing in organic waste or enemies.
 
-## Blue Dragon Wyrmling
+\mostro{Blue Dragon Wyrmling}
 - **Size/Type**: Huge dragon, evil
 - **Ability**: Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2
 - **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +1
@@ -24409,7 +24405,7 @@ Black puddings are the scavengers of the underground world, constantly searching
 
 See Ancient Blue Dragon Description.
 
-## Bone Bloom
+\mostro{Bone Bloom}
 - **Size/Type**: Large undead, unaligned
 - **Ability**: Str 3 Dex 2 Con 4 Int -2 Wis -2 Cha -3
 - **Hit Points**: 127,  **Defense:** 22,  **Initiative:** +2
@@ -24449,7 +24445,7 @@ See Ancient Blue Dragon Description.
 
 Bone Blooms are creatures that died in the depths of the forest for various reasons. Nature, not wanting to waste anything, animates the creature to make it its defender. At first glance, a Bone Bloom is not different from a trunk covered with colorful lichens, small mushrooms, and grassy mantle, so one is it with nature.
 
-## Bone Devil
+\mostro{Bone Devil}
 - **Size/Type**: Large devil, evil
 - **Ability**: Str 4 Dex 3 Con 4 Int 1 Wis 2 Cha 3
 - **Hit Points**: 184,  **Defense:** 27,  **Initiative:** +3
@@ -24494,7 +24490,7 @@ Bone devils are inquisitors of the diabolical races, known for their passion for
 
 Bone devils often travel to the mortal plane to serve evil spellcasters, gathering valuable information. Standing 2.7 meters tall and weighing over 200 kg, with terrifying tails and wings, they are imposing and feared.
 
-## Brain Eater
+\mostro{Brain Eater}
 - **Size/Type**: Small aberration, evil
 - **Ability**: Str 1 Dex 6 Con 5 Int 3 Wis 0 Cha 3
 - **Hit Points**: 186,  **Defense:** 30,  **Initiative:** +6
@@ -24547,7 +24543,7 @@ Solitary Brain Eaters often live in ruins or caves on the edges of civilized reg
 
 It is said that Shayalia's garden is full of Brain Eaters. A Brain Eater is 90 cm long and weighs about 30 kg.
 
-## Brass Dragon Wyrmling
+\mostro{Brass Dragon Wyrmling}
 - **Size/Type**: Medium dragon, good
 - **Ability**: Str 2 Dex 0 Con 1 Int 0 Wis 0 Cha 1
 - **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
@@ -24578,7 +24574,7 @@ It is said that Shayalia's garden is full of Brain Eaters. A Brain Eater is 90 c
 
 Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip.
 
-## Bronze Dragon Wyrmling
+\mostro{Bronze Dragon Wyrmling}
 - **Size/Type**: Medium dragon, good
 - **Ability**: Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2
 - **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +1
@@ -24612,7 +24608,7 @@ reach 1 m, one target.
 
 Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate.
 
-## Bugbear
+\mostro{Bugbear}
 - **Size/Type**: Medium humanoid (goblinoid), Arrogant, Impulsive
 - **Ability**: Str 2 Dex 2 Con 1 Int -1 Wis 0 Cha -1
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
@@ -24648,7 +24644,7 @@ Bugbears do not form large settlements like goblins or nations like hobgoblins; 
 
 Bugbears, when they turn to religion, prefer deities of murder and violence, with various demon lords among the favorites. A typical bugbear is 2.1 meters tall and weighs 200 kg.
 
-## Bulette
+\mostro{Bulette}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 0 Con 5 Int -4 Wis 0 Cha -3
 - **Hit Points**: 110,  **Defense:** 18,  **Initiative:** +0
@@ -24685,7 +24681,7 @@ Bulettes are perfect machines for devouring and destroying bones, armor, and eve
 
 The bulette is a cunning fighter, and surprises enemies with impressive agility. One of its favorite tactics is to charge and leap onto prey, attacking with its razor-sharp claws. It is said that the flesh behind the beast's dorsal ridge is particularly tender, and that those who wish or manage to wait for the fin to be raised in the heat of battle or mating can try to deliver a fatal blow to that spot, though most of those who have faced a land shark agree that the best way to win a fight with a bulette is to avoid it altogether.
 
-## Centaur
+\mostro{Centaur}
 - **Size/Type**: Large monstrosity, good
 - **Ability**: Str 4 Dex 2 Con 2 Int -1 Wis 1 Cha 0
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
@@ -24724,7 +24720,7 @@ Centaurs live an average of about 60 years. Distant from other races and in conf
 
 Legend has it that the Centaurs were supposed to explode like all equines, by the will of Calicante. Ljust, horrified by so much death, interceded with Calicante to leave these creatures alone. This rescue has led many Centaur tribes to be devoted to the Lady of Light, although others have preferred to dedicate their worship to Calicante in the hope that he will not kill them all in one night.
 
-## Chain Devil
+\mostro{Chain Devil}
 - **Size/Type**: Medium devil, evil
 - **Ability**: Str 4 Dex 2 Con 4 Int 0 Wis 1 Cha 2
 - **Hit Points**: 165,  **Defense:** 24,  **Initiative:** +2
@@ -24766,7 +24762,7 @@ Each animated chain is an object with Defense 20, 20 Hit Points, resistance to p
 
 Often classified by the uninitiated among the ranks of infernal devils, Chain Devils are not true devils. Although some are known to live in Hell, they exist outside the hierarchies established by the gods of the underworld and its archdevils, and can sometimes be found on other planes, particularly on the Plane of Shadows. Many suggest they are native to Hell that existed before the advent of the diabolic lineage, although others hypothesize they were brought to the plane by some sadistic power. Regardless of their origins, they wander the planes indulging their desire to cause and receive suffering, seeking pain through violent kidnappings and sadistic depravities.
 
-## Champion Skeleton
+\mostro{Champion Skeleton}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 4 Dex 1 Con 3 Int -2 Wis -1 Cha -3
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
@@ -24785,7 +24781,7 @@ Often classified by the uninitiated among the ranks of infernal devils, Chain De
 
 *Hit:* 12 (1d12 + 4) slashing damage.
 
-## Chimera
+\mostro{Chimera}
 - **Size/Type**: Large monstrosity, Arrogant, Vain
 - **Ability**: Str 4 Dex 0 Con 4 Int -4 Wis 2 Cha 0
 - **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
@@ -24826,7 +24822,7 @@ Often classified by the uninitiated among the ranks of infernal devils, Chain De
 
 Chimeras prefer meat, but they can survive on vegetation if necessary (although when forced to do so, their mood worsens even further). The fact that they fly means they can carefully choose their prey, and they generally hunt in vast areas looking for easy targets. They are too stupid and belligerent to acquire followers, though sometimes a tribe of kobolds may make offerings to them. Conversely, they are intelligent and stubborn enough to make mediocre pets, and only a creature much more powerful than them can manage to subdue them. They can form equal partnerships with respectful humanoids or similar creatures, and also consent to being used as mounts. A pack of chimeras has a hierarchy similar to that of lions, with a dominant male that commands the group and most of the hunting done by the females. A solitary chimera can be a young solitary male or a female with cubs nearby.
 
-## Chuul
+\mostro{Chuul}
 - **Size/Type**: Large aberration, evil
 - **Ability**: Str 4 Dex 0 Con 3 Int -3 Wis 0 Cha -3
 - **Hit Points**: 89,  **Defense:** 17,  **Initiative:** +0
@@ -24865,7 +24861,7 @@ Chuuls are excellent swimmers, but prefer to attack land creatures or those accu
 
 Chuuls are surprisingly intelligent, and many engage in useless speculation about their origins and motivations. They speak a chirping and gurgling dialect of Common, but few of them are inclined to chat with those who are not of their race, and if there is a chuul society beyond the frantic mating period, no one has yet discovered it. Rather, the minds of chuuls seem devoted only to finding the perfect place to ambush and attack other intelligent creatures and how to decorate their elaborate lairs with trophies from their victims. Although chuuls seem uninterested in using tools, they have a compulsive need to collect those of their victims. A typical chuul is 2.3 meters tall and weighs 325 kg.
 
-## Clay Golem
+\mostro{Clay Golem}
 - **Size/Type**: Large construct, unaligned
 - **Ability**: Str 5 Dex -1 Con 4 Int -4 Wis -1 Cha -5
 - **Hit Points**: 184,  **Defense:** 23,  **Initiative:** -1
@@ -24915,7 +24911,7 @@ Clay golems don't wear clothing, except for a treated leather or metal garment a
 **Construction**
 A clay golem can be sculpted from a single block of clay weighing at least 500 kilograms, treated with rare powders and oils worth 1,500 gp.
 
-## Cloaker
+\mostro{Cloaker}
 - **Size/Type**: Large aberration, chaotic
 - **Ability**: Str 3 Dex 2 Con 1 Int 1 Wis 1 Cha 2
 - **Hit Points**: 160,  **Defense:** 24,  **Initiative:** +2
@@ -24965,7 +24961,7 @@ Resembling flying, hideously evil manta rays, cloakers are mysterious, paranoid 
 
 Their motivations are mysterious and confused, and they distrust even their own kind. Their strange shape allows them to be mistaken for cloaks, tapestries, or other common objects, and some stories tell of cloakers allying with other creatures, allowing themselves to be carried on their backs and contributing to their allies' protection for inscrutable reasons.
 
-## Cloud Giant
+\mostro{Cloud Giant}
 - **Size/Type**: Huge giant, good (50\%) or evil (50\%)
 - **Ability**: Str 8 Dex 0 Con 6 Int 1 Wis 3 Cha 3
 - **Hit Points**: 187,  **Defense:** 24,  **Initiative:** +1
@@ -25039,7 +25035,7 @@ Although their diet consists primarily of seeds and petrified insects (which in 
 
 The cockatrice's strange ability to turn other creatures to stone is its best defense, and its lair is invariably full of the remains of petrified enemies. Ironically, however, weasels and ferrets, the creatures most likely to end up in cockatrice nests to eat their eggs, seem completely immune to this effect. For unknown reasons, cockatrices are both terrified and furious with common roosters, and there is an equal chance they will flee or attack when a confrontation occurs.
 
-## Copper Dragon Wyrmling
+\mostro{Copper Dragon Wyrmling}
 - **Size/Type**: Medium dragon, good
 - **Ability**: Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +2
@@ -25072,7 +25068,7 @@ This capricious dragon tries to hamper and frustrate its enemies during combat.
 
 > The great dragon, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him." John, Revelation 12:9
 
-## Couatl
+\mostro{Couatl}
 - **Size/Type**: Medium celestial, good
 - **Ability**: Str 3 Dex 5 Con 3 Int 4 Wis 5 Cha 4
 - **Hit Points**: 89,  **Defense:** 22,  **Initiative:** +5
@@ -25117,7 +25113,7 @@ Respected and admired for their wisdom and beauty, they seek to lead mortals on 
 
 They prefer the same foods as true snakes, such as mammals and birds, though they are known to devour evil humanoids. Because they prefer to spend time pursuing their goals rather than hunting, they appreciate offerings of food, particularly small boars and fowl. A couatl sometimes shows its appreciation to an adventurer or group that has rendered it a service by giving them 1d4 of its brightly colored feathers.
 
-## Darklight
+\mostro{Darklight}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis -1 Cha -2
 - **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +1
@@ -25151,7 +25147,7 @@ Usually, the Darklight hides in the darkness, waiting to touch the opponent and 
 
 When a Darklight is destroyed, it leaves its torch on the ground. This torch of pure darkness can cast the Darkness spell by touch three times a day; outside the hands of a Darklight, if exposed to sunlight, it is destroyed in 2d4 rounds.
 
-## Darkmantle
+\mostro{Darkmantle}
 - **Size/Type**: Small monstrosity, unaligned
 - **Ability**: Str 3 Dex 1 Con 1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -25191,7 +25187,7 @@ Darkmantle prefer to live and hunt in caves and tunnels closer to the surface, a
 
 While Darkmantle and Cloaker look similar, they don't belong to the same species, but legends tell of a common magical origin due, as often happens, to the will of two wizards to transform themselves first into cloaks... The hatred between the two monstrosities is total and overrides any other adversary present.
 
-## Deep Gnome
+\mostro{Deep Gnome}
 - **Size/Type**: Small humanoid (gnome), good
 - **Ability**: Str 2 Dex 2 Con 2 Int 1 Wis 0 Cha -1
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
@@ -25230,7 +25226,7 @@ At will: *Nondetection* (self only)
 
 Deep gnomes are a branch of the gnome race. They dwell underground in hidden cities, safe from dark elves and other subterranean races. Their skin is the color of rock, usually grey or brown. Males are bald and females have sparse grey hair.
 
-## Demogorgon
+\mostro{Demogorgon}
 - **Size/Type**: Huge demon prince, evil
 - **Ability**: Str 9 Dex 2 Con 8 Int 5 Wis 3 Cha 7
 - **Hit Points**: 524,  **Defense:** 48,  **Initiative:** +5
@@ -25294,7 +25290,7 @@ Demogorgon can take 3 additional actions, chosen from those below, one per round
 
 Demogorgon is a huge demon, prince of the abyss and madness about 5 meters tall. He appears as a reptilian biped with two baboon heads, the necks are long and serpentine like the tentacular arms. Demogorgon's two heads have distinct personalities that detest each other. They often try to dominate each other and many of the stories about Demogorgon deal precisely with how one or the other head tries to dominate the whole. There is a strong rivalry between Demogorgon and Orcus.
 
-## Deva Angel
+\mostro{Deva Angel}
 - **Size/Type**: Medium celestial, good
 - **Ability**: Str 4 Dex 4 Con 4 Int 3 Wis 5 Cha 5
 - **Hit Points**: 203,  **Defense:** 29,  **Initiative:** +4
@@ -25338,7 +25334,7 @@ In the new form, the deva retains its game statistics and ability to speak, but 
 
 Deva movanics make up the ranks of the celestial armies' infantry, though they spend most of their time patrolling the Positive Plane, the Negative Plane, and the Material Plane. On the Positive Plane, they watch over wandering good souls. On the Negative Plane, they fight undead and other strange beings that hunt in the hungry void. Their rare times on the Material Plane are usually to bring aid to powerful mortals when a great danger threatens to plunge an entire realm into the hands of evil.
 
-## Djinni
+\mostro{Djinni}
 - **Size/Type**: Large elemental, good
 - **Ability**: Str 5 Dex 2 Con 6 Int 2 Wis 3 Cha 5
 - **Hit Points**: 226,  **Defense:** 28,  **Initiative:** +2
@@ -25385,7 +25381,7 @@ Djinn disdain physical combat, preferring to use their magical powers and aerial
 
 Towards other Genies, Djinn get along with Janni and Marid. They are frequently at odds with the Shaitan, and are sworn enemies of the Efreet, despising these fierce Genies more than any other of the Genie Races. The conflict between the Efreet and the Djinn is so legendary that many spellcasters attempt (with varying degrees of success) to secure the service of a Djinni by promising help in the cause against their hated enemies.
 
-## Dobi
+\mostro{Dobi}
 - **Size/Type**: Tiny fey, neutral
 - **Ability**: Str -3 Dex -1 Con 2 Int -2 Wis 1 Cha 3
 - **Hit Points**: 15,  **Defense:** 11,  **Initiative:** -1
@@ -25409,7 +25405,7 @@ Towards other Genies, Djinn get along with Janni and Marid. They are frequently 
 
 From *Journey to the First World.* Novel by Federica Angeli
 
-## Doppelganger
+\mostro{Doppelganger}
 - **Size/Type**: Medium monstrosity (shapechanger), neutral
 - **Ability**: Str 0 Dex 4 Con 2 Int 0 Wis 1 Cha 2
 - **Hit Points**: 70,  **Defense:** 20,  **Initiative:** +4
@@ -25466,6 +25462,10 @@ The Dragons of Ljust are transport errors, perhaps because Tàhil's portal opene
 - Each Dragon has a number of Magic Points equal to 5 times its Challenge Rating
 - Each Dragon has a Magic Proficiency score equal to half its Challenge Rating
 
+All Dragons have access to the Universal magic list and favor certain spells that are marked in their description.
+
+In the **Description of each Ancient Dragon** you will find a brief description of the type of dragon.
+
 **Table: Magic List Access for Dragons**
 
 	
@@ -25484,10 +25484,6 @@ The Dragons of Ljust are transport errors, perhaps because Tàhil's portal opene
 | Silver | Transmutation |
 | Gold | Healing, Evocation |
 | Copper | Invocation |
-
-All Dragons have access to the Universal magic list and favor certain spells that are marked in their description.
-
-In the **Description of each Ancient Dragon** you will find a brief description of the type of dragon.
 
 **Special Powers of Dragons**
 
@@ -25512,7 +25508,7 @@ If it's a Wyrmling Dragon, it has 1 random power, 2 if it's Young or Adult, and 
 
 (popular curses against Dragons)
 
-## Dragon Turtle
+\mostro{Dragon Turtle}
 - **Size/Type**: Gargantuan dragon, neutral
 - **Ability**: Str 7 Dex 0 Con 5 Int 0 Wis 1 Cha 1
 - **Hit Points**: 338,  **Defense:** 34,  **Initiative:** +0
@@ -25557,7 +25553,7 @@ Their shells vary in color, from brown and rusty red to blue-green with silver r
 
 They feed on large fish and seaweed, and don't disdain passengers from sunken ships. Their shells can reach 5 meters in diameter, with a total length of 7 meters
 
-## Dretch
+\mostro{Dretch}
 - **Size/Type**: Small demon, evil
 - **Ability**: Str 0 Dex 0 Con 1 Int -3 Wis -1 Cha -4
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -25599,7 +25595,7 @@ Unlike most demons, the dretch's slovenly personality and disdain for prolonged 
 
 A dretch is 1.2 meters tall and weighs 90 kg. Dretches usually form from the souls of evil and indolent mortals: just a small fragment of soul is sufficient to give rise to such a horrifying birth. A single soul can often cause the appearance of a small army of dretches, and the sight of a horde of newly born dretches breaking free from the pulsating protomatter of the Abyss is both nauseating and terrifying.
 
-## Drider
+\mostro{Drider}
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 3 Dex 3 Con 4 Int 1 Wis 2 Cha 1
 - **Hit Points**: 127,  **Defense:** 23,  **Initiative:** +3
@@ -25650,7 +25646,7 @@ At will: *dancing lights*
 
 Driders are sexually dimorphic. The spider-like lower body of a female drider is sleek and graceful, often resembling the body of a black widow, while the upper elven torso maintains its appealing curves and beautiful face (with the exception of the venomous sharp fangs). The lower body of a male drider is stocky like a tarantula, while the upper body has a lean physique and supports a horrible face that is more spider than elf, complete with fanged mandibles.
 
-## Dryad
+\mostro{Dryad}
 - **Size/Type**: Medium fey, neutral
 - **Ability**: Str 0 Dex 1 Con 0 Int 2 Wis 2 Cha 4
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +2
@@ -25700,7 +25696,7 @@ Dryads are nature spirits who love secluded woodlands away from humanoids in nee
 They are friendly with druids and rangers who aren't evil, as they recognize their empathy or respect for nature.
 Dryads are benevolent guardians of trees, and although they aren't violent by nature, they can impede and thwart threats to their homes or turn enemies into allies.
 
-## Duergar
+\mostro{Duergar}
 - **Size/Type**: Medium humanoid (dwarf), evil
 - **Ability**: Str 2 Dex 0 Con 2 Int 0 Wis 0 Cha -1
 - **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
@@ -25735,7 +25731,7 @@ Dryads are benevolent guardians of trees, and although they aren't violent by na
 
 Distant relatives of Dwarves, darker and more misshapen, Duergar are creatures with a terrible temper who hate intruders in their underground realms, but never more than Dwarves. They live in communities deep underground. They have dull gray skin, as if dirty with dust or ash, but this natural tone allows them to blend better in underground areas. They are a Race of slavers, but while they force non-Dwarf prisoners to do grueling work, they kill captured Dwarves without remorse. In combat, Duergar fire crossbows, and then switch to War Hammers a few rounds later. If outnumbered, or if there is an adequate danger (and space), a Duergar will use its Enlarge ability and attack.
 
-## Dust Mephit
+\mostro{Dust Mephit}
 - **Size/Type**: Small elemental, evil
 - **Ability**: Str -3 Dex 2 Con 0 Int -1 Wis 0 Cha 0
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
@@ -25770,7 +25766,7 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 
 Dust mephits are commonly found on the Plane of Air. These mephits are irritating and persistent.
 
-## Efreeti
+\mostro{Efreeti}
 - **Size/Type**: Large elemental, evil
 - **Ability**: Str 6 Dex 1 Con 7 Int 3 Wis 2 Cha 3
 - **Hit Points**: 228,  **Defense:** 27,  **Initiative:** +3
@@ -25815,7 +25811,7 @@ The Efreet (singular Efreeti) are Genies from the Plane of Fire. They are 3.6 me
 
 Efreet have few allies among other Genies: they hate Djinn and attack them on sight, can't stand Marid, and see Janni as weak and fragile. Efreet often cooperate well with Shaitan, yet even these alliances are temporary.
 
-## Erinyes
+\mostro{Erinyes}
 - **Size/Type**: Medium devil, evil
 - **Ability**: Str 4 Dex 3 Con 4 Int 2 Wis 2 Cha 4
 - **Hit Points**: 240,  **Defense:** 31,  **Initiative:** +3
@@ -25861,7 +25857,7 @@ These beautiful and dark angels enhance their sensuality with scars and bruises,
 
 The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a span of over 3 meters. They are skilled at keeping enemies alive to prolong torment, and the most powerful can make suffering persist even after the subject's death.
 
-## Ettercap
+\mostro{Ettercap}
 - **Size/Type**: Medium monstrosity, evil
 - **Ability**: Str 2 Dex 2 Con 1 Int -2 Wis 1 Cha -2
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
@@ -25902,7 +25898,7 @@ The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a 
 
 Ettercaps are not brave, but their traps often prevent enemies from drawing weapons. An ettercap attacks with claws and poisonous bites. It typically avoids melee with opponents who can still move and flees if they break free.
 
-## Ettin
+\mostro{Ettin}
 - **Size/Type**: Large giant, evil
 - **Ability**: Str 5 Dex -1 Con 3 Int -2 Wis 0 Cha -1
 - **Hit Points**: 89,  **Defense:** 16,  **Initiative:** -1
@@ -25943,7 +25939,7 @@ Ettercaps are not brave, but their traps often prevent enemies from drawing weap
 
 They generally form reproductive pairs to raise offspring only for brief periods before each goes its own way. Young ettins mature rapidly, reaching adult size in one year, thus being able to fend for themselves.
 
-## Explosive Roach
+\mostro{Explosive Roach}
 - **Size/Type**: Small Elemental, neutral
 - **Ability**: Str 1 Dex 2 Con 1 Int -5 Wis -1 Cha -2
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
@@ -25984,7 +25980,7 @@ They are now common in caves near volcanoes or red dragon lairs, having adapted 
 
 In the nest where they dwell, there is at least one queen who commands the roaches, extremely larger and stronger. Explosive Roaches feed on coal, burnt wood, burnt carcasses. They are extremely fond of diamonds which, once burned, are true delicacies.
 
-## Fire Giant
+\mostro{Fire Giant}
 - **Size/Type**: Huge giant, evil
 - **Ability**: Str 7 Dex -1 Con 6 Int 0 Wis 2 Cha 1
 - **Hit Points**: 187,  **Defense:** 23,  **Initiative:** +0
@@ -26026,7 +26022,7 @@ Fire giants wear clothing made of sturdy fabrics or leather in orange, yellow, b
 
 Fire giants prefer warm places: the hotter the better. They can be found in deserts, volcanoes, hot springs, and deep in the earth near lava vents. They live in castles, fortified settlements, or large caves, and the architecture of these places reflects their rigid and militaristic lifestyle, with officers residing in better quarters than their subordinates.
 
-## Flameskull
+\mostro{Flameskull}
 - **Size/Type**: Small undead, evil traits
 - **Ability**: Str 0 Dex 1 Con 1 Int 1 Wis 0 Cha 0
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
@@ -26059,7 +26055,7 @@ Flameskulls are created from the corpses of spellcasters specialized in the Fire
 
 Used as guardians and torches, they often represent a first line of defense in dungeons.
 
-## Flesh Golem
+\mostro{Flesh Golem}
 - **Size/Type**: Medium construct, neutral
 - **Ability**: Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -3
 - **Hit Points**: 109,  **Defense:** 17,  **Initiative:** -1
@@ -26108,7 +26104,7 @@ A flesh golem does not speak, though it can emit a kind of hoarse growl. It walk
 
 Although many flesh golems are mindless, tales are told of exceptional golems that have somehow retained memories of their previous life. The head (and therefore the brain) of these flesh golems must be the right combination of freshness and (in the previous life) determination, but luck and chance also seem to be of absolute importance for intellect to be preserved during their creation. Certainly those who build flesh golems prefer to have mindless slaves rather than those endowed with a will of their own, consequently intelligent flesh golems are rare.
 
-## Flesh Worms
+\mostro{Flesh Worms}
 - **Size/Type**: tiny monstrosity, unaligned
 - **Ability**: Str -4 Dex 0 Con -2 Int -4 Wis 0 Cha -4
 - **Hit Points**: 32,  **Defense:** 13,  **Initiative:** +0
@@ -26132,7 +26128,7 @@ Although many flesh golems are mindless, tales are told of exceptional golems th
 
 Flesh worms are among the most feared parasites by adventurers. They are found in damp piles of leaves or rotting logs, in decomposing corpses, in turbid waters. Pale, slimy, equipped with very sharp teeth, just over 4 millimeters long, they penetrate exposed flesh very easily and perceive the heartbeat where they head. While they dig into the flesh, they can be perceived and even seen crawling under the skin.
 
-## Flying Sword
+\mostro{Flying Sword}
 - **Size/Type**: Small construct, unaligned
 - **Ability**: Str 1 Dex 2 Con 0 Int -5 Wis -3 Cha -5
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
@@ -26151,7 +26147,7 @@ Flesh worms are among the most feared parasites by adventurers. They are found i
 
 *Hit:* 5 (1d8 + 1) slashing damage.
 
-## Frost Giant
+\mostro{Frost Giant}
 - **Size/Type**: Huge giant, evil
 - **Ability**: Str 6 Dex -1 Con 5 Int -1 Wis 0 Cha 1
 - **Hit Points**: 167,  **Defense:** 21,  **Initiative:** -1
@@ -26192,7 +26188,7 @@ Frost giants survive by hunting and raiding on their own, as they live in cold a
 
 Frost giants love taking prisoners and use them both as slaves and as raw material. Usually each group of frost giants keeps 1-2 humanoid slaves chained to a slave trainer: the meanest and cruelest of the group after the jarl. They also have a certain passion for monstrous pets: White Dragons and Winter Wolves are popular choices, but Remorhaz and Yeti can also be found in a frost giant's lair.
 
-## G.C.B.
+\mostro{G.C.B.}
 - **Size/Type**: Large aberration, evil
 - **Ability**: Str 6 Dex 1 Con 5 Int 3 Wis 1 Cha -1
 - **Hit Points**: 205,  **Defense:** 26,  **Initiative:** +3
@@ -26231,7 +26227,7 @@ The Great Chitinous Being, or G.C.B, is an insect with a vague humanoid appearan
 
 Probably the result of some transformation spell gone wrong, G.C.B.s are masters of the underground. Creatures endowed with real intelligence, they love elf flesh and fight in a tactical and careful manner.
 
-## Gablin
+\mostro{Gablin}
 - **Size/Type**: Small fiend, evil
 - **Ability**: Str 2 Dex 1 Con 1 Int -2 Wis -1 Cha -2
 - **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
@@ -26266,7 +26262,7 @@ Usually, gestation lasts only 3 weeks, during which women are tortured to streng
 This method of procreation combined with their voracious hunger for blood and flesh makes them among the most hated and feared creatures.
 Although individually not particularly formidable, Gablins always move in groups, and if the group exceeds two dozen, there is almost always a Gablin Spellcaster or even a Gablin Champion leading them.
 
-## Gablin Champion
+\mostro{Gablin Champion}
 - **Size/Type**: Medium fiend, evil
 - **Ability**: Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha -1
 - **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
@@ -26292,7 +26288,7 @@ Although individually not particularly formidable, Gablins always move in groups
 Gablin Champions are spontaneously generated when the number of Gablins present reaches 20 units. Enormously larger, stronger, and more intelligent than a Gablin, the Champions are the leaders of the group, those who plan battles and confrontations.
 They have no qualms about sending Gablins to slaughter or killing anything that breathes. Pervaded by the spirit of Cattalm, their purpose is always and only to destroy and kill.
 
-## Gablin Paladin
+\mostro{Gablin Paladin}
 - **Size/Type**: Large fiend, evil
 - **Ability**: Str 5 Dex 2 Con 3 Int 2 Wis 3 Cha 3
 - **Hit Points**: 126,  **Defense:** 22,  **Initiative:** +2
@@ -26323,7 +26319,7 @@ They have no qualms about sending Gablins to slaughter or killing anything that 
 
 Gablin Paladins are among the most powerful gablins known, the true elect of Cattalm. Summoned by more powerful followers of Cattalm, they can alone lead hundreds of Gablins and, thanks to their acumen, prepare accurate plans and bring havoc and destruction to entire regions.
 
-## Gargoyle
+\mostro{Gargoyle}
 - **Size/Type**: Medium elemental, evil
 - **Ability**: Str 2 Dex 0 Con 3 Int -2 Wis 0 Cha -2
 - **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
@@ -26369,7 +26365,7 @@ The longer a tribe of gargoyles dwells in an area of buildings or ruins, the mor
 
 An unusual variant of the gargoyle does not dwell among buildings and ruins but beneath the waves of the sea. These creatures are known as kapoacinth; they have the same base statistics as normal gargoyles, except they have the aquatic subtype and their wings grant them a swimming speed of 12 meters (but are useless for flying). Kapoacinths inhabit shallow coastal regions where they can crawl out of the foam to hunt local residents. They are more likely to form swarms, as kapoacinths prefer group life to solitary existence.
 
-## Gelatinous Cube
+\mostro{Gelatinous Cube}
 - **Size/Type**: Large ooze, unaligned
 - **Ability**: Str 2 Dex -4 Con 5 Int -5 Wis -2 Cha -5
 - **Hit Points**: 53,  **Defense:** 10,  **Initiative:** -4
@@ -26418,7 +26414,7 @@ Some sages believe these creatures evolved from Gray Oozes. Some beings use gela
 
 Gelatinous cubes typically have a 10-foot edge and weigh more than 16,500 pounds, although some underground explorers claim that larger specimens exist in the underdark. In areas where food is abundant, gelatinous cubes can live for hundreds, if not thousands, of years. However, if organic matter is lacking for more than 6 months, a gelatinous cube begins to deteriorate, and its walls begin to drip, rapidly disintegrating into liquid mucus until the entire body collapses and completely disappears.
 
-## Generic Air Elemental
+\mostro{Generic Air Elemental}
 - **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
 - **Ability**: Str 0+CR/6 Dex 3+CR/3 Con 0+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha 0+CR/6
 - **Hit Points**: (CR+1)*15, **Defense:** CR+Dex+2, **Initiative:** +Dex
@@ -26443,7 +26439,7 @@ Gelatinous cubes typically have a 10-foot edge and weigh more than 16,500 pounds
 ***Whirlwind (Recharge 4-6).*** Each creature in the elemental's space must make a DC 10+CR*1.5 Fortitude Saving Throw. On a failed save, a target takes 1d8*CR/3 bludgeoning damage and is flung CR feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Reflex Saving Throw or take the same damage and be knocked prone.
 If the Saving Throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
 
-## Generic Earth Elemental
+\mostro{Generic Earth Elemental}
 - **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
 - **Ability**: Str CR Dex -2+CR/6 Con 1+CR/3 Int -3+CR/6 Wis -1+CR/6 Cha -3+CR/6
 - **Hit Points**: (CR+3)*15, **Defense:** CR+Dex, **Initiative:** +Dex
@@ -26467,7 +26463,7 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 
 **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach.
 
-## Generic Fire Elemental
+\mostro{Generic Fire Elemental}
 - **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
 - **Ability**: Str 0+CR/3 Dex 2+CR/3 Con 1+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha -2+CR/6
 - **Hit Points**: (CR+2)*15, **Defense:** CR+1+Dex, **Initiative:** +Dex
@@ -26492,7 +26488,7 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 
 **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach.
 
-## Generic Water Elemental
+\mostro{Generic Water Elemental}
 - **Size/Type**: Elemental
 - **Ability**: Str 2+CR/3 Dex 0+CR/6 Con 2+CR/3 Int -2+CR/6 Wis 0+CR/6 Cha 0+CR/6
 - **Hit Points**: (CR+2)*15, **Defense:** CR+Dex, **Initiative:** +Dex
@@ -26518,7 +26514,7 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 
 The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the start of each of the elemental's turns, each target grappled by it takes (1d6)*CR/2 bludgeoning damage. A creature within 10 feet of the elemental can pull a creature or object out of it by taking an Action to make a Strength Fortitude Saving Throw check with DC 2+CR*2.
 
-## Ghast
+\mostro{Ghast}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 3 Dex 3 Con 0 Int 0 Wis 0 Cha -1
 - **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
@@ -26556,7 +26552,7 @@ The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the
 
 Ghasts are Ghouls with a deeper connection to the Void. A ghast's paralysis affects Elves as well. Ghasts roam in packs or command groups of common Ghouls. The stench of death and decay that surrounds these creatures is overwhelming.
 
-## Ghost
+\mostro{Ghost}
 - **Size/Type**: Medium undead, any trait
 - **Ability**: Str -2 Dex 1 Con 0 Int 0 Wis 1 Cha 3
 - **Hit Points**: 87,  **Defense:** 18,  **Initiative:** +1
@@ -26602,7 +26598,7 @@ When a ghost is created, it gains copies of the objects it particularly valued i
 
 The original objects are left behind, just like the ghost's physical remains. If another creature wields the original, the incorporeal copy vanishes. This loss inevitably enrages the ghost, who will stop at nothing to return the object to where it originally lay (and regain its use).
 
-## Ghoul
+\mostro{Ghoul}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 1 Dex 2 Con 0 Int -2 Wis 0 Cha -2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
@@ -26636,7 +26632,7 @@ Ghouls lurk on the edges of civilization (in or near cemeteries or in city sewer
 
 Although many surface ghouls live primitively, rumors speak of ghoul cities deep underground ruled by priests worshiping ancient cruel deities or strange demon lords of hunger. These *civilized* ghouls are no less horrible in their eating habits, and indeed their concept of a well-set table for feasts is perhaps even more ghastly than the idea of a fresh meal pulled from a coffin.
 
-## Ghoul, Black
+\mostro{Ghoul, Black}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 1 Cha -2
 - **Hit Points**: 125,  **Defense:** 22,  **Initiative:** +2
@@ -26673,7 +26669,7 @@ Although many surface ghouls live primitively, rumors speak of ghoul cities deep
 
 The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typically in charge of a group of at least one putrid ghoul of about 18 ghouls.
 
-## Ghoul, Mother
+\mostro{Ghoul, Mother}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 0 Dex 3 Con 2 Int 2 Wis 1 Cha 2
 - **Hit Points**: 107,  **Defense:** 21,  **Initiative:** +3
@@ -26704,7 +26700,7 @@ The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typica
 
 The Mother Ghoul is usually the head of a clan of ghouls that can reach even several dozen members. Respected and feared, she is usually among the most intelligent evolved ghouls and highly appreciated for her ability to transform the living into ghouls. Their tactic involves wounding rather than killing several people so that when they return home and then transform, they can attack and kill the entire village.
 
-## Ghoul, Putrid
+\mostro{Ghoul, Putrid}
 - **Size/Type**: Large undead, evil
 - **Ability**: Str 1 Dex 2 Con 3 Int -1 Wis 0 Cha -2
 - **Hit Points**: 89,  **Defense:** 19,  **Initiative:** +2
@@ -26741,7 +26737,7 @@ The Mother Ghoul is usually the head of a clan of ghouls that can reach even sev
 
 Putrid Ghouls are one of the many evolutions of Ghouls. Continuous contact with negative energy and feeding on corpses of all kinds for centuries have made it larger, stronger and capable of inflicting and causing the most dangerous wounds.
 
-## Gibbering Mouther
+\mostro{Gibbering Mouther}
 - **Size/Type**: Medium aberration, neutral
 - **Ability**: Str 0 Dex -1 Con 3 Int -4 Wis 0 Cha -2
 - **Hit Points**: 52,  **Defense:** 13,  **Initiative:** -1
@@ -26774,7 +26770,7 @@ Putrid Ghouls are one of the many evolutions of Ghouls. Continuous contact with 
 
 Disgusting, nauseating, and hungry: these are the only words that appropriately describe the gibbering mouther. Repulsive beasts that hide in caves, sewers, and nightmares, mouthers have no other social, ecological, or religious purpose beyond their ability to drive those who listen to them mad. Some scholars believe that gibbering mouthers are a smaller variant of the much more dangerous shoggoth, while others theorize that it is a punishment of Orudjs inflicted on those who have offended her.
 
-## Glabrezu
+\mostro{Glabrezu}
 - **Size/Type**: Large demon, evil
 - **Ability**: Str 5 Dex 2 Con 5 Int 4 Wis 3 Cha 3
 - **Hit Points**: 186,  **Defense:** 26,  **Initiative:** +4
@@ -26823,7 +26819,7 @@ While the Succubus is a demon that lures its prey by exploiting its desires and 
 
 A glabrezu is 5.3 meters tall and weighs just over 3000 kg. These wicked demons originate from the souls of traitors, false witnesses, and subversives: souls of mortals who, in life, swore falsely or used betrayal and deception to ruin others' lives.
 
-## Globule
+\mostro{Globule}
 - **Size/Type**: Small aberration, evil
 - **Ability**: Str -2 Dex 2 Con 0 Int 3 Wis 1 Cha 3
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +3
@@ -26861,7 +26857,7 @@ A glabrezu is 5.3 meters tall and weighs just over 3000 kg. These wicked demons 
 Globules are magical aberrations coming from some portal opened to the Beyond. Creatures of cold and void, they look like small stars that only yearn to suck the life out of creatures they encounter.
 Intelligent and clever, they prefer to attack while staying airborne and wearing down the opponent until they are mortally fatigued. Once killed, all that remains of a Globule is a small star-shaped creature with a large central eye, completely white.
 
-## Gnoll
+\mostro{Gnoll}
 - **Size/Type**: Medium humanoid (gnoll), evil
 - **Ability**: Str 2 Dex 1 Con 0 Int -2 Wis 0 Cha -2
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -26906,7 +26902,7 @@ During combat, gnolls use pack tactics and individual strategies. If confident o
 
 Gnoll leaders have ranger skills, and some are devoted to voracious Patrons. They rarely master magic effectively.
 
-## Goblin
+\mostro{Goblin}
 - **Size/Type**: Small humanoid (goblinoid), evil
 - **Ability**: Str 0 Dex 0 Con 1 Int -1 Wis -2 Cha -1
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -26938,7 +26934,7 @@ Goblins are very superstitious and view magic with a mixture of awe and fear. Ev
 
 Goblins are voracious and can eat enormous amounts of food. A goblin won't refuse to eat anything except perhaps salad..
 
-## Gold Dragon Wyrmling
+\mostro{Gold Dragon Wyrmling}
 - **Size/Type**: Medium dragon, good
 - **Ability**: Str 4 Dex 2 Con 3 Int 2 Wis 0 Cha 3
 - **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
@@ -26971,7 +26967,7 @@ Goblins are voracious and can eat enormous amounts of food. A goblin won't refus
 
 Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid.
 
-## Gorgon
+\mostro{Gorgon}
 - **Size/Type**: Large monstrosity, unaligned
 - **Ability**: Str 5 Dex 0 Con 4 Int -4 Wis 1 Cha -2
 - **Hit Points**: 109,  **Defense:** 18,  **Initiative:** +0
@@ -27009,7 +27005,7 @@ Gorgons derive their nourishment by consuming minerals, particularly the stone o
 
 Their meat is tough and muscular (once the armor is removed), and for those who taste it, it is quite nutritious. Many stone giant tribes believe that eating gorgon meat increases their natural armor. Powdered gorgon horn is worth 250 gp as an alternative material component for magic items and spells that act on Strength or Stone.
 
-## Gray Ooze
+\mostro{Gray Ooze}
 - **Size/Type**: Medium ooze, unaligned
 - **Ability**: Str 1 Dex -2 Con 3 Int -5 Wis -2 Cha -4
 - **Hit Points**: 24,  **Defense:** 10,  **Initiative:** -2
@@ -27045,7 +27041,7 @@ Crawling through cold swamps and misty wetlands or, sometimes, in underground pa
 
 Some sages believe that gray oozes are the result of a failed alchemical experiment, while others theorize that the first gray oozes spontaneously arose from a well of magical debris. Naturally, these theories that do not consider them living organisms, but rather the result of an unfortunate mixture of caustic fluids and magical residues, are ridiculed by those who live in areas infested by these creatures, which have no history of magical pollution.
 
-## Green Dragon Wyrmling
+\mostro{Green Dragon Wyrmling}
 - **Size/Type**: Medium dragon, evil
 - **Ability**: Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +2
@@ -27074,7 +27070,7 @@ Some sages believe that gray oozes are the result of a failed alchemical experim
 
 See Ancient Green Dragon Description.
 
-## Green Hag
+\mostro{Green Hag}
 - **Size/Type**: Medium fey, evil
 - **Ability**: Str 4 Dex 1 Con 3 Int 1 Wis 2 Cha 2
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
@@ -27113,7 +27109,7 @@ The changes created by this effect fail to hold up to physical inspection. For e
 
 Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 feet tall and weighs just under 175 pounds.
 
-## Grick
+\mostro{Grick}
 - **Size/Type**: Medium monstrosity, neutral
 - **Ability**: Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -3
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
@@ -27149,7 +27145,7 @@ Gricks are capable predators with weapon-resistant skin, making them particularl
 
 Gricks camouflage themselves thanks to their dark color and their ability to climb walls, remaining hidden until the moment of attack. When food is scarce, they may head to the surface in search of prey, but they prefer darkness and the safety of a roof over their heads, avoiding the open sky and seeking shelter under trees, low clouds, or buildings.
 
-## Griffin
+\mostro{Griffin}
 - **Size/Type**: Large monstrosity, unaligned
 - **Ability**: Str 4 Dex 2 Con 3 Int -3 Wis 1 Cha 0
 - **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
@@ -27190,7 +27186,7 @@ Before a griffin can be ridden in combat, the creature must practice carrying th
 
 Griffins can carry up to 25 Encuber as a light load, 50 as a medium load, and 70 kg as a heavy load. An exotic saddle is needed to ride them.
 
-## Grimlock
+\mostro{Grimlock}
 - **Size/Type**: Medium humanoid (grimlock), evil
 - **Ability**: Str 3 Dex 1 Con 1 Int -1 Wis -1 Cha -2
 - **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
@@ -27223,7 +27219,7 @@ Griffins can carry up to 25 Encuber as a light load, 50 as a medium load, and 70
 
 Grimlocks are blind and savage human-like creatures that inhabit the realm of the dark depths, where they organize into small tribal groups.
 
-## Guardian Naga
+\mostro{Guardian Naga}
 - **Size/Type**: Large monstrosity, good
 - **Ability**: Str 4 Dex 4 Con 3 Int 3 Wis 4 Cha 4
 - **Hit Points**: 201,  **Defense:** 29,  **Initiative:** +4
@@ -27274,7 +27270,7 @@ Although they have a fierce appearance, with bright scales, cobra-like hoods, an
 
 While some guardian nagas adhere to exotic practices of ancient or forgotten deities, others are simply attracted to sites of striking natural beauty, such as temples on imposing waterfalls, natural pinnacles, and mountain peaks, guarding them with the utmost reverence and sense of duty. Often these nagas join active faiths, serving as protectors of shrines or ancient treasures. A pair of nagas may settle near a site they deem worthy of protection, hatching a brood there and raising their offspring. When the young reach adulthood, they may choose to leave to seek their own home or remain to protect the area watched over by their parents. Sometimes, a guardian naga that guards ruins or a temple is just the latest in a succession of sentinels that have taken turns over the centuries. These sentinels often take the same name as their predecessors, appearing to be a single, exceptionally long-lived individual.
 
-## Gynosphinx
+\mostro{Gynosphinx}
 - **Size/Type**: Large monstrosity, lawful
 - **Ability**: Str 4 Dex 2 Con 3 Int 4 Wis 4 Cha 4
 - **Hit Points**: 219,  **Defense:** 28,  **Initiative:** +4
@@ -27339,7 +27335,7 @@ Although not great scholars in the traditional sense, sphinxes' great appreciati
 
 A typical sphinx is 10 feet long and weighs about 880 pounds. Although their wings can keep them airborne for long periods, they are poor flyers, and prefer to land before starting to fight, attacking with their powerful claws. Despite being extremely territorial, sphinxes tend to warn intruders several times before attacking.
 
-## Harpy
+\mostro{Harpy}
 - **Size/Type**: Medium monstrosity, Arrogant, Impulsive
 - **Ability**: Str 1 Dex 1 Con 1 Int -2 Wis 0 Cha 1
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
@@ -27381,7 +27377,7 @@ Harpies tend to wear trinkets and pendants stolen from their victims, as they lo
 
 Harpies are markedly different depending on the region where they live. Some resemble a mixture of vultures and women, while others bear the regal traits of hawks and falcons on their feathers. Rare broods of harpies, in isolated and tropical places in the world, also have colorful feathers like parrots.
 
-## Hell Hound
+\mostro{Hell Hound}
 - **Size/Type**: Medium fiend, evil
 - **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis 1 Cha -2
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
@@ -27403,7 +27399,7 @@ Harpies are markedly different depending on the region where they live. Some res
 
 ***Fire Breath (Recharge 5-6).*** The hound exhales fire in a 15-foot cone. Each creature in that area must make a Reflex Saving Throw DC 14, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 
-## Hezrou
+\mostro{Hezrou}
 - **Size/Type**: Large demon, evil
 - **Ability**: Str 4 Dex 3 Con 5 Int 5 Wis 1 Cha 1
 - **Hit Points**: 167,  **Defense:** 25,  **Initiative:** +5
@@ -27447,7 +27443,7 @@ The hezrou lives in the vast swamps, wetlands, and watercourses of the Abyss. It
 
 These monstrous and bestial creatures are born from the souls of evil mortals who have poisoned themselves, their relatives, or their environment, for example, drug addicts, assassins, and alchemists who didn't care how their experiments poisoned the natural world.
 
-## Hill Giant
+\mostro{Hill Giant}
 - **Size/Type**: Huge giant, evil
 - **Ability**: Str 5 Dex -1 Con 4 Int -3 Wis -1 Cha -2
 - **Hit Points**: 109,  **Defense:** 17,  **Initiative:** -1
@@ -27483,7 +27479,7 @@ Hill giants are by nature nomadic and prefer to travel from place to place to ra
 
 Solitary and non-evil hill giants are quite rare, but they can sometimes be found in other humanoid societies, though they are almost never accepted in major cities or populated centers. They find their place as workers and soldiers in remote frontier towns, and often serve as rudimentary diplomats to negotiate with bands of marauding hill giants. Unfortunately, hill giants who abandon their racial lifestyle for civilization are mocked and often killed on sight by their nomadic brethren. However, these *civilized* hill giants can find their place in society and many have managed to live a peaceful and quiet existence.
 
-## Hippogriff
+\mostro{Hippogriff}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 3 Dex 1 Con 1 Int -4 Wis 1 Cha -1
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
@@ -27523,7 +27519,7 @@ Breeding communities often offer rewards for capturing them as they can represen
 
 Hippogriffs are oviparous and their nest usually contains only one egg, which is worth 200 gp. A healthy young hippogriff is worth 500 gp, while a fully trained hippogriff as a mount can be worth up to 5000 gp. They can carry 90 kg as a light load, 180 kg as a medium load, and 270 kg as a heavy load, and require an exotic saddle to be ridden.
 
-## Hisser
+\mostro{Hisser}
 - **Size/Type**: Large monstrosity, chaotic
 - **Ability**: Str 2 Dex 1 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
@@ -27556,7 +27552,7 @@ Hissers, so called because of the noise their tail makes when swinging, are very
 
 Dark gray or brown in color, they prefer to hide in darkness and attack when hungry or to defend their territory. They try to keep their distance in combat, and if seriously injured, they escape by climbing the walls.
 
-## Hobgoblin
+\mostro{Hobgoblin}
 - **Size/Type**: Medium humanoid (goblinoid), evil
 - **Ability**: Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha -1
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -27591,7 +27587,7 @@ Many Hobgoblin tribes combine the love of war with sharp intellect. They are fas
 
 Hobgoblins despise magic and distrust wizards. Their shamans, feared and respected, live on the edges of the tribe's lair. Hobgoblins are about 1.7 meters tall and weigh 80 kg.
 
-## Homunculus
+\mostro{Homunculus}
 - **Size/Type**: Tiny construct, neutral
 - **Ability**: Str -3 Dex 2 Con 0 Int 0 Wis 0 Cha -2
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
@@ -27611,7 +27607,7 @@ Hobgoblins despise magic and distrust wizards. Their shamans, feared and respect
 
 ***Master's Conduit***: using 3 Actions, the homunculus becomes the conduit for the casting of a spell by its master.
 
-## Horned Devil
+\mostro{Horned Devil}
 - **Size/Type**: Large devil, evil
 - **Ability**: Str 6 Dex 3 Con 5 Int 1 Wis 3 Cha 3
 - **Hit Points**: 224,  **Defense:** 29,  **Initiative:** +3
@@ -27665,7 +27661,7 @@ A typical horned devil reaches the considerable height of 2.7 meters, has wings 
 
 > The LORD said to Satan: "Where have you come from?" Satan answered the LORD: "From roaming through the earth and going back and forth in it". Job 1:6-12
 
-## Hungry Coins
+\mostro{Hungry Coins}
 - **Size/Type**: Tiny aberration, strongly evil
 - **Ability**: Str -3 Dex 1 Con 3 Int -2 Wis 0 Cha -1
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -27699,7 +27695,7 @@ The Hungry Coin is indistinguishable from a normal coin until observed very care
 Voracious and hungry, they like to hide in piles of coins they feed on to absorb the metals that give them the \emph and appearance of ordinary coins. They always attack in groups, usually waiting for someone to hold them for counting. For every 10 Hungry Coins, if *emptied and melted down*, it's possible to obtain enough metal for a real coin.
 Hungry Coins made of Gold or Platinum are usually sturdier and even hungrier. Legend has it that a Hungry Coin will not attack a Devotee of Rezh.
 
-## Hydra
+\mostro{Hydra}
 - **Size/Type**: Huge monstrosity, unaligned
 - **Ability**: Str 5 Dex 1 Con 5 Int -4 Wis 0 Cha -2
 - **Hit Points**: 167,  **Defense:** 23,  **Initiative:** +1
@@ -27738,7 +27734,7 @@ At the end of its turn, the hydra regrows two heads for each of its heads killed
 
 The hydra is a multi-headed dragon, but stupid and with major digestive problems.
 
-## Ice Devil
+\mostro{Ice Devil}
 - **Size/Type**: Large devil, evil
 - **Ability**: Str 5 Dex 2 Con 4 Int 4 Wis 2 Cha 4
 - **Hit Points**: 278,  **Defense:** 32,  **Initiative:** +4
@@ -27793,7 +27789,7 @@ In combat, it sends its subordinates ahead, so it can assess the tactics, streng
 
 Ice Devils are 3.6 meters tall and weigh approximately 350 kg.
 
-## Ice Mephit
+\mostro{Ice Mephit}
 - **Size/Type**: Small elemental, evil
 - **Ability**: Str -2 Dex 1 Con 0 Int -1 Wis 0 Cha 1
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -27830,7 +27826,7 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 
 Ice mephits are commonly found on the Plane of Air. These mephits are aloof and cruel.
 
-## Immortal Cursed
+\mostro{Immortal Cursed}
 - **Size/Type**: Medium aberration (human), tends to be insane
 - **Ability**: Str 3 Dex 1 Con 2 Int -1 Wis -2 Cha -2
 - **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +1
@@ -27862,7 +27858,7 @@ Ice mephits are commonly found on the Plane of Air. These mephits are aloof and 
 The Immortal Cursed is a person cursed often by a Patron or by a powerful spellcaster with the curse of insane immortal life. The curse breaks the person's balance and they find themselves wandering without purpose or goal. Occasionally they remember who they were and then continue searching for whoever cursed them.
 With the purpose of getting finally killed, they throw themselves into every battle hoping that the opponent will be able to kill them once and for all.
 
-## Imp
+\mostro{Imp}
 - **Size/Type**: Tiny devil, shapechanger, evil
 - **Ability**: Str -2 Dex 3 Con 1 Int 0 Wis 1 Cha 2
 - **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
@@ -27903,7 +27899,7 @@ Imps vary greatly in appearance, across a wide spectrum of bestial and grotesque
 
 Unlike other devils, imps are often found free and alone on the Material Plane, particularly after they have been summoned to serve as familiars and their masters have died (often, indirectly, because of the imp's own machinations). Without any means to return home, these imps, free from any bonds with arcane masters, can become dangerous nuisances or even place themselves at the head of small tribes of bloodthirsty humanoids, such as Goblins or Kobolds.
 
-## Invisible Stalker
+\mostro{Invisible Stalker}
 - **Size/Type**: Medium elemental, neutral
 - **Ability**: Str 3 Dex 4 Con 2 Int 0 Wis 2 Cha 0
 - **Hit Points**: 125,  **Defense:** 24,  **Initiative:** +4
@@ -27946,7 +27942,7 @@ Many invisible stalkers, however, consider these tasks as miserable requests fro
 
 Due to continuous summonings, many invisible stalkers are adverse to the inhabitants of the Material Plane. Those newly summoned to the mortal world know only the stories of their kind and maintain an open attitude toward those who summon them. Over time, or if they serve an evil master, they begin to form a negative opinion of these mortal creatures, which leads them to deflect instructions and harm their masters. For older invisible stalkers with more experience, the only thing that protects those who summoned them is the magic that binds them. These creatures always try to use inconsistencies in the formulation of their tasks and literal distortions in intentions to find a way to annoy, hurt, or even kill those who brought them to this plane.
 
-## Iron Golem
+\mostro{Iron Golem}
 - **Size/Type**: Large construct, unaligned
 - **Ability**: Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -5
 - **Hit Points**: 319,  **Defense:** 32,  **Initiative:** -1
@@ -28002,7 +27998,7 @@ Although the practice of building iron golems has gradually fallen into disuse, 
 **Construction**
 To build an iron golem requires 2,500 kg of iron, fused with rare dyes worth at least 10,000 gp.
 
-## Kobold
+\mostro{Kobold}
 - **Size/Type**: Small humanoid (kobold), evil
 - **Ability**: Str -2 Dex 2 Con -1 Int -1 Wis -2 Cha -1
 - **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
@@ -28037,7 +28033,7 @@ The shade of kobolds varies even among brothers of the same clutch, ranging acro
 
 Kobolds have a weakness for silver but, being terrible miners, they prefer to prey on silver coins from adventurers and eat them like butter cookies. Kobolds can digest silver rather quickly, and the more they eat, the shinier their scales are and the healthier the kobolds appear.
 
-## Kraken
+\mostro{Kraken}
 - **Size/Type**: Gargantuan monstrosity (titan), evil
 - **Ability**: Str 10 Dex 0 Con 7 Int 6 Wis 4 Cha 5
 - **Hit Points**: 461,  **Defense:** 42,  **Initiative:** +6
@@ -28092,7 +28088,7 @@ Many legends have arisen regarding the fact that it understands the druidic lang
 
 A kraken is almost 30 meters long and weighs 20,000 kg.
 
-## Lamia
+\mostro{Lamia}
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 3 Dex 1 Con 2 Int 2 Wis 2 Cha 3
 - **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +2
@@ -28138,7 +28134,7 @@ These creatures are attracted to ruined towers, abandoned cities, and forgotten 
 
 Lamias worship the elder females of their group, considering them leaders, mothers, and shamans, and bind themselves to them with fanatical reverence. Although they shun most religions, seeing them as the source of the curse that afflicts them, elder lamias claim to hear the whispers of the desert wind and to know the whims of the stars, thus guiding their people.
 
-## Lemure
+\mostro{Lemure}
 - **Size/Type**: Medium devil, evil
 - **Ability**: Str 0 Dex -3 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: 15,  **Defense:** 9,  **Initiative:** -3
@@ -28173,7 +28169,7 @@ They play a vital role in Hell's ecology. Damned souls are tormented for centuri
 
 Greater devils can recognize the most corrupted lemures and transform them into true devils, ready to serve in the legions of the damned.
 
-## Lich
+\mostro{Lich}
 - **Size/Type**: Medium undead, evil traits
 - **Ability**: Str 0 Dex 3 Con 3 Int 5 Wis 2 Cha 3
 - **Hit Points**: 405,  **Defense:** 43,  **Initiative:** +5
@@ -28249,7 +28245,7 @@ Few creatures are more feared than liches. Apex of Necromantic arts, the lich is
 
 There are also extremely rare good Liches, but as the saying goes, they are rarer than a Roc's tooth.
 
-## Lizardfolk
+\mostro{Lizardfolk}
 - **Size/Type**: Medium humanoid (lizardfolk), neutral
 - **Ability**: Str 2 Dex 0 Con 1 Int -2 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
@@ -28294,7 +28290,7 @@ Though generally neutral, lizardfolk's standoffish nature, their strenuous rejec
 
 The lizardfolk presented here live in swampy environments. Lizardfolk tribes can live just as well in other environments, but as speed they gain Climb 5 meters instead of Swim.
 
-## Lootdead
+\mostro{Lootdead}
 - **Size/Type**: Large construct, undead, unaligned
 - **Ability**: Str 5 Dex 0 Con 4 Int -4 Wis -2 Cha -5
 - **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
@@ -28342,7 +28338,7 @@ The large central eye, perhaps once belonging to a humanoid, allows the controll
 
 Usually a Lootdead is always accompanied by several guardians (other creatures under the controller's command) that help in *dealing with* any still active *resistance*.
 
-## Magma Man
+\mostro{Magma Man}
 - **Size/Type**: Small elemental, chaotic
 - **Ability**: Str -2 Dex 2 Con 1 Int -1 Wis 0 Cha 0
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
@@ -28382,7 +28378,7 @@ Proud of their magma lakes, each lake has a different purpose: baths, cooking, o
 
 At maturity, the Ignim are 1.2 meters tall and weigh 150 kg due to their dense composition.
 
-## Magma Mephit
+\mostro{Magma Mephit}
 - **Size/Type**: Small elemental, evil
 - **Ability**: Str -1 Dex 1 Con 1 Int -2 Wis 0 Cha 0
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -28419,7 +28415,7 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 
 Magma mephits are commonly found on the Plane of Fire. These mephits are stupid brutes.
 
-## Manticore
+\mostro{Manticore}
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 3 Dex 3 Con 3 Int -2 Wis 1 Cha -1
 - **Hit Points**: 70,  **Defense:** 19,  **Initiative:** +3
@@ -28459,7 +28455,7 @@ Manticores eat any kind of meat, even carrion, but they prefer human flesh and r
 
 Although manticores are similar to magical creations, they have long been counted among natural species. Curiously, manticores seem strangely fertile and can crossbreed with numerous other similarly-shaped species, including Lions, Tigers, Lamias, Sphinxes, and Chimeras.
 
-## Marilith
+\mostro{Marilith}
 - **Size/Type**: Large demon, evil
 - **Ability**: Str 4 Dex 5 Con 5 Int 4 Wis 3 Cha 5
 - **Hit Points**: 319,  **Defense:** 38,  **Initiative:** +5
@@ -28509,7 +28505,7 @@ Sovereigns of demonic hordes and queens of abyssal nations, the fearsome marilit
 
 A marilith is 1.8 to 2.7 meters tall, 6 meters long from head to tail, and weighs 2000 kg. Only the most arrogant and proud evil souls, usually those of cruel sovereigns, sadistic generals, and particularly violent warlords, can cause the birth of a marilith.
 
-## Medusa
+\mostro{Medusa}
 - **Size/Type**: Medium monstrosity, evil
 - **Ability**: Str 0 Dex 2 Con 3 Int 1 Wis 1 Cha 2
 - **Hit Points**: 126,  **Defense:** 22,  **Initiative:** +2
@@ -28555,7 +28551,7 @@ Accustomed to hiding, urban medusas are generally thieves, while those from wild
 
 All medusas are female. Rarely, a medusa decides to take a male humanoid as a companion, generally with the help of a Love Potion or similar magic, and they always take care not to petrify their prisoner, unless they have grown bored with his company.
 
-## Topi, La
+\mostro{Topi, La}
 - **Size/Type**: Tiny fey, indifferent. Patron
 - **Ability**: Str -1 Dex 4 Con 0 Int 6 Wis 1 Cha 10
 - **Hit Points**: 15,  **Defense:** 16,  **Initiative:** +6
@@ -28593,7 +28589,7 @@ All medusas are female. Rarely, a medusa decides to take a male humanoid as a co
 
 She might be mistaken for a small white mouse, but La Topi is much more. Clever, intelligent, beautiful, she loves going to the market and buying handbags.
 
-## Mimic
+\mostro{Mimic}
 - **Size/Type**: Medium monstrosity (shapechanger), neutral
 - **Ability**: Str 3 Dex 1 Con 2 Int -2 Wis 1 Cha -1
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
@@ -28635,7 +28631,7 @@ Although mimics are not intrinsically evil, some sages suggest that they attack 
 
 A typical mimic has a volume of 7 cubic feet (3 ft by 3 ft by 7 ft) and weighs about 900 pounds. Legends and stories tell of larger mimics, with the ability to take the form of houses, ships, or entire underground complexes that they garnish with treasures (both real and fake) to lure their unsuspecting food inside.
 
-## Minotaur
+\mostro{Minotaur}
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 4 Dex 0 Con 3 Int -2 Wis 3 Cha -1
 - **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
@@ -28675,7 +28671,7 @@ Minotaurs can serve more powerful monsters or evil creatures, hunting and eating
 
 Minotaurs are straightforward fighters, using their horns to horribly gore nearby creatures at the beginning of combat.
 
-## Mummy
+\mostro{Mummy}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 3 Dex -1 Con 2 Int -2 Wis 0 Cha 1
 - **Hit Points**: 70,  **Defense:** 15,  **Initiative:** -1
@@ -28698,7 +28694,7 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 
 ***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a Will Saving Throw DC 15 against this magic or become frightened until the end of the mummy's next turn. If the target critically fails the Saving Throw, it is also paralyzed for the same duration. A target that succeeds on the Saving Throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
-## Mummy Lord
+\mostro{Mummy Lord}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 4 Cha 3
 - **Hit Points**: 294,  **Defense:** 32,  **Initiative:** +0
@@ -28773,7 +28769,7 @@ The mummy lord can take 3 Legendary Actions, choosing from the options below. It
 
 Many cultures practice the sacred art of mummification, though the sinister magical techniques used to imbue corpses with undead vitality are far less common. In some ancient lands, such blasphemous techniques have been refined through centuries of ceremony and countless deaths, resulting in mummies of terrible power. On rare occasions, if the deceased was of high rank and excessive wickedness, they might undergo such elaborate rituals, rising from the tomb as a fearsome mummy lord. Similarly, a ruler known for malice or who died in a moment of great anger might present themselves spontaneously as a vengeful despot. Regardless of the exact circumstances of its resurrection, a mummy lord retains the abilities it had in life, becoming a creature consumed by the desire to restore its dominion and rule over both the living and the dead.
 
-## Nalfeshnee
+\mostro{Nalfeshnee}
 - **Size/Type**: Large demon, evil
 - **Ability**: Str 5 Dex 0 Con 6 Int 4 Wis 1 Cha 2
 - **Hit Points**: 264,  **Defense:** 29,  **Initiative:** +4
@@ -28824,7 +28820,7 @@ Few demons understand the internal mechanics that govern the Abyss as well as na
 
 Nalfeshnees are 6 meters tall and weigh 4000 kg. They are created from the souls of greedy or lustful evil mortals, particularly those who have ruled over empires of slavery, theft, banditry, and other even more violent vices.
 
-## Night Hag
+\mostro{Night Hag}
 - **Size/Type**: Medium fiend, evil
 - **Ability**: Str 4 Dex 2 Con 3 Int 3 Wis 2 Cha 3
 - **Hit Points**: 108,  **Defense:** 20,  **Initiative:** +3
@@ -28854,7 +28850,7 @@ At will: *Arcane dart, Detect Magic* 2/day each: *Ray of Enfeeblement, Sleep*
 
 ***Change Shape.*** The hag can magically transform into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form when she dies.
 
-## Nightmare Steed
+\mostro{Nightmare Steed}
 - **Size/Type**: Large fiend, evil
 - **Ability**: Str 4 Dex 2 Con 3 Int 0 Wis 1 Cha 2
 - **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
@@ -28888,7 +28884,7 @@ Nightmares are flaming messengers of death. They allow only the most evil creatu
 
 > Hell is empty, all the devils are here. (William Shakespeare, The Tempest)
 
-## Ochre Jelly
+\mostro{Ochre Jelly}
 - **Size/Type**: Large ooze, unaligned
 - **Ability**: Str 2 Dex -2 Con 2 Int -4 Wis -2 Cha -5
 - **Hit Points**: 51,  **Defense:** 12,  **Initiative:** -2
@@ -28930,7 +28926,7 @@ Ochre Jellies are about 6 inches high with a diameter that can reach up to 10 fe
 
 Although the typical Ochre Jelly has the statistics presented here, in the depths of the earth these predators can reach monstrous dimensions.
 
-## Ogre
+\mostro{Ogre}
 - **Size/Type**: Large giant, sadistic evil
 - **Ability**: Str 4 Dex -1 Con 3 Int -3 Wis -2 Cha -2
 - **Hit Points**: 52,  **Defense:** 13,  **Initiative:** -1
@@ -28974,7 +28970,7 @@ Their great strength and lack of imagination make them particularly suitable for
 
 An adult ogre is about 3 meters tall and weighs about 325 kg.
 
-## Ogre Zombie
+\mostro{Ogre Zombie}
 - **Size/Type**: Large undead, evil
 - **Ability**: Str 4 Dex -2 Con 4 Int -4 Wis -2 Cha -3
 - **Hit Points**: 52,  **Defense:** 12,  **Initiative:** -2
@@ -28996,7 +28992,7 @@ An adult ogre is about 3 meters tall and weighs about 325 kg.
 
 **Treasure Category**: None
 
-## Oni
+\mostro{Oni}
 - **Size/Type**: Large giant, evil
 - **Ability**: Str 4 Dex 0 Con 3 Int 2 Wis 1 Cha 2
 - **Hit Points**: 145,  **Defense:** 21,  **Initiative:** +2
@@ -29033,7 +29029,7 @@ At will: *Invisibility, Darkness*
 
 ***Enraged:*** the Oni is overtaken by murderous fury; until the end of combat, its Claw attacks cause Bleeding 2/10.
 
-## Orc
+\mostro{Orckin}
 - **Size/Type**: Medium humanoid (orc), chaotic
 - **Ability**: Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -29063,7 +29059,7 @@ Orcs are a race created by Cattalm as an experiment to verify whether a more int
 The experiment was a moderate success with orcs founding kingdoms and conquering several regions. The chaotic drive over time, acculturation, becoming sedentary, and the evolution of society has led orcs increasingly away from Cattalm's coils, although it doesn't remove the fact that many barbaric aspects have remained in the traditional culture.
 An adult male orc is 1.6 meters tall and weighs about 60 kg. A peculiar characteristic is the face and the pig-like nose in particular. Orcs and humans can produce offspring.
 
-## Orc
+\mostro{Orc}
 - **Size/Type**: Medium humanoid (orc), evil
 - **Ability**: Str 3 Dex 1 Con 3 Int -2 Wis 0 Cha 0
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
@@ -29099,7 +29095,7 @@ An adult male orc is 2 meters tall and weighs about 115 kg. Orcs and humans can 
 
 While the common saying is that orcs were created by Cattalm to destroy and bring chaos, it is also true that they are often victims of prejudice and summary judgments. Not all orcs are alike, and not just physically; individual orcs, if not entire tribes, live their existence in a normal, civilized manner, yet in no state in the world are there penalties for killing an orc.
 
-## Orcus
+\mostro{Orcus}
 - **Size/Type**: Huge demon prince, evil
 - **Ability**: Str 8 Dex 2 Con 7 Int 5 Wis 5 Cha 7
 - **Hit Points**: 519,  **Defense:** 48,  **Initiative:** +5
@@ -29157,7 +29153,7 @@ Orcus can take 3 additional actions, chosen from those below, and only one per r
 
 Orcus is the Demon Prince of the undead. He prefers the company and service of the undead. He wishes to see all life disappear and transform into a gigantic necropolis of undead under his command. Orcus has the head and legs of a goat, horns similar to a ram's, a bloated body, bat wings, and a long tail.
 
-## Otyugh
+\mostro{Otyugh}
 - **Size/Type**: Large aberration, neutral
 - **Ability**: Str 3 Dex 0 Con 4 Int 3 Wis 1 Cha -2
 - **Hit Points**: 109,  **Defense:** 18,  **Initiative:** +3
@@ -29202,7 +29198,7 @@ The thing that most races find terrifying about otyughs is not their diet or the
 
 An otyugh, by eating the excrement or part of a creature, can understand what disease or poison afflicts it.
 
-## Owlbear
+\mostro{Owlbear}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 5 Dex 1 Con 3 Int -4 Wis 1 Cha -2
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
@@ -29248,7 +29244,7 @@ Although it is almost impossible to tame them due to their wild nature, Owlbears
 
 This Owlbear is present in arctic regions or snowy mountains. Unlike the normal Owlbear, it is more robust and strong. It has 85 Hit Points, +10 to hit, 21 claw damage +1 Bleeding, 15 beak damage. CR 4
 
-## Panoptikhan
+\mostro{Panoptikhan}
 - **Size/Type**: Large aberration, evil
 - **Ability**: Str 0 Dex 1 Con 2 Int 3 Wis 2 Cha 2
 - **Hit Points**: 235,  **Defense:** 29,  **Initiative:** +3
@@ -29303,7 +29299,7 @@ Unfortunately, arrogance, pride, and the desire to be the center of attention ha
 
 Panoptikhans have a very long life, on the order of a thousand years, but there are also creatures that have more than doubled this limit. Panoptikhans increase in size with age, as does the number of eyes. The statistics reported here refer to an adult specimen about 300 years old.
 
-## Pegasus
+\mostro{Pegasus}
 - **Size/Type**: Large celestial, good
 - **Ability**: Str 4 Dex 2 Con 3 Int 0 Wis 2 Cha 1
 - **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
@@ -29339,7 +29335,7 @@ In some pegasi, the blood of an ancestor who was a heroic stallion is still stro
 
 Pegasi and Unicorns were saved from Calicante's fury towards *horses* only by Ljust's express intercession.
 
-## Phoenix
+\mostro{Phoenix}
 - **Size/Type**: Gargantuan celestial, Brave, Protective, Good
 - **Ability**: Str 8 Dex 6 Con 5 Int 5 Wis 6 Cha 6
 - **Hit Points**: 300,  **Defense:** 38,  **Initiative:** +6
@@ -29395,7 +29391,7 @@ Legend has it that Phoenixes are the companion birds of Ljust; they are certainl
 
 Legend says that phoenixes are generated when a Knight of Sumkjir or a Disciple of Light makes the ultimate sacrifice.
 
-## Pit Fiend
+\mostro{Pit Fiend}
 - **Size/Type**: Large devil, evil
 - **Ability**: Str 8 Dex 2 Con 7 Int 6 Wis 4 Cha 7
 - **Hit Points**: 403,  **Defense:** 40,  **Initiative:** +6
@@ -29451,7 +29447,7 @@ Pit fiends are powerful infernal rulers, generals of Hell's armies, and advisors
 
 Pit fiends gather armies, transforming lemures into true devils and aim to conquer vulnerable demiplanes and mortal worlds. They obey the infernal hierarchy but can depose unworthy masters. Only the most powerful spellcasters dare to summon them, risking eternal damnation.
 
-## Planetar Angel
+\mostro{Planetar Angel}
 - **Size/Type**: Large celestial, good
 - **Ability**: Str 7 Dex 5 Con 7 Int 4 Wis 6 Cha 7
 - **Hit Points**: 325,  **Defense:** 38,  **Initiative:** +5
@@ -29501,7 +29497,7 @@ At will: *Know Traits*, *Invisibility* (self only)
 
 Planetars are the generals of celestial armies dedicated to destroying evil. A planetar is typically 2.7 meters tall and weighs about 250 kg. They are excellent diplomats, but against fiends they prefer war rather than negotiating peace.
 
-## Plesiosaur
+\mostro{Plesiosaur}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 2 Con 3 Int -4 Wis 1 Cha -3
 - **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
@@ -29525,7 +29521,7 @@ Planetars are the generals of celestial armies dedicated to destroying evil. A p
 
 The plesiosaur is a long-necked aquatic reptile. Although technically not a dinosaur, this creature and its kind are often found hunting in lakes and oceans where dinosaurs are commonly found.
 
-## Pseudodragon
+\mostro{Pseudodragon}
 - **Size/Type**: Tiny dragon, good
 - **Ability**: Str -2 Dex 2 Con 1 Int 0 Wis 1 Cha 0
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
@@ -29563,7 +29559,7 @@ Pseudodragons are carnivores and eat insects, rodents, small birds, and snakes, 
 
 Upon reaching adulthood, a pseudodragon's body is 30 centimeters long with a 60-centimeter tail, and weighs about 3.5 kg. A pseudodragon's eggs are as large as chicken eggs, but of leather-like consistency and mottled brown, and females lay them in groups of 2-5 each spring. A nest of pseudodragons (which constitute a family group, and are not born from the same clutch of eggs) usually consists of a pair of adults and several nearly adult young.
 
-## Purple Worm
+\mostro{Purple Worm}
 - **Size/Type**: Gargantuan monstrosity, unaligned
 - **Ability**: Str 9 Dex -2 Con 6 Int -5 Wis -1 Cha -3
 - **Hit Points**: 303,  **Defense:** 30,  **Initiative:** -2
@@ -29603,7 +29599,7 @@ While searching for living creatures to devour, purple worms also swallow an eno
 
 A purple worm generally claims a large underground cavern as its lair, and although it returns there to rest and digest food, it spends most of its time seeking prey, digging through the endless darkness or sliding along pre-existing tunnels in constant search of food to satiate its immense hunger. Although almost devoid of intellect, purple worms are rarely stupid. They are widespread as guardians among those who can control them magically or have a room in their lair large enough to accommodate them.
 
-## Quasit
+\mostro{Quasit}
 - **Size/Type**: Tiny demon, shapechanger, evil
 - **Ability**: Str -3 Dex 3 Con 0 Int -2 Wis 0 Cha 0
 - **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
@@ -29642,7 +29638,7 @@ Unique among the demonic hordes, quasits are not born from the souls of deceased
 
 Newly created quasits come to life directly in the Material Plane, where they become familiars and, as long as they are subject to the will of their master, they hate and despise them, since they can perceive the pulsing of their soul and know they could aspire to something more. A quasit serves, yet observes and watches for mistakes that could cost its master's life, or better, that allow it to turn against its own master. Upon the death of its master, the quasit often decides to remain in the Material Plane in search of other ways to amuse itself, usually settling in an urban area where there are many individuals to torment.
 
-## Rakshasa
+\mostro{Rakshasa}
 - **Size/Type**: Medium fiend, evil
 - **Ability**: Str 2 Dex 3 Con 4 Int 1 Wis 3 Cha 5
 - **Hit Points**: 259,  **Defense:** 32,  **Initiative:** +3
@@ -29686,7 +29682,7 @@ Rakshasas despise religions; they recognize the power of the gods, but see thems
 
 A rakshasa is 5.9 feet tall and weighs 198 pounds.
 
-## Red Dragon Wyrmling
+\mostro{Red Dragon Wyrmling}
 - **Size/Type**: Medium dragon, evil
 - **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: 89,  **Defense:** 17,  **Initiative:** +1
@@ -29712,7 +29708,7 @@ A rakshasa is 5.9 feet tall and weighs 198 pounds.
 
 See Ancient Red Dragon Description.
 
-## Remorhaz
+\mostro{Remorhaz}
 - **Size/Type**: Huge monstrosity, unaligned
 - **Ability**: Str 7 Dex 1 Con 5 Int -3 Wis 0 Cha -3
 - **Hit Points**: 224,  **Defense:** 27,  **Initiative:** +1
@@ -29746,7 +29742,7 @@ In a world of ice and snow, remohrazes are particularly feared for the terrible 
 
 Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 feet in length and weighs 11,000 pounds.
 
-## Rug of Smothering
+\mostro{Rug of Smothering}
 - **Size/Type**: Large construct, unaligned
 - **Ability**: Str 3 Dex 2 Con 0 Int -5 Wis -4 Cha -5
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
@@ -29767,7 +29763,7 @@ Intelligent despite their appearance, remohrazes understand the language of Gian
 
 *Hit:* The creature is grappled (DC 14 to escape). Until the grapple ends, the target is blinded and at risk of suffocating, but the rug can't smother another target. Also, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 
-## Rust Monster
+\mostro{Rust Monster}
 - **Size/Type**: Medium Monstrosity, unaligned
 - **Ability**: Str 1 Dex 1 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -29804,7 +29800,7 @@ Although not inherently violent, their insatiable hunger drives them to charge a
 
 Fortunately, it's often possible to escape the attention of a rust monster by throwing it a dense metal object, such as a shield, and running in the opposite direction. Those who frequent areas infested by rust monsters quickly learn to carry wooden or stone weapons.
 
-## Sahuagin
+\mostro{Sahuagin}
 - **Size/Type**: Medium humanoid (sahuagin), evil
 - **Ability**: Str 1 Dex 0 Con 1 Int 1 Wis 1 Cha -1
 - **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +1
@@ -29849,7 +29845,7 @@ Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous ocean
 
 Sahuagin are subject to genetic mutations, and when a mutant is born, it almost always rises to the noble or commanding ranks in society. The most common sahuagin mutation consists of an extra pair of arms (which grant two additional claw attacks or the ability to handle more weapons). Some speak of rare sahuagin malenti who don't appear as shark men but as aquatic elves, though they share the bloodthirst and cruel nature of their kin. Malenti often serve sahuagin rulers as spies or assassins, but there are rumors of entire tribes made up of malenti in remote areas of the sea.
 
-## Salamander
+\mostro{Salamander}
 - **Size/Type**: Large elemental, evil
 - **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 0 Cha 1
 - **Hit Points**: 107,  **Defense:** 20,  **Initiative:** +2
@@ -29894,7 +29890,7 @@ Salamanders are often summoned to the Material Plane to serve as guardians or, m
 
 Living in such extreme areas, Salamanders possess only treasures that withstand high temperatures, such as Swords, Armor, jewelry, Rods, and other objects that have a high melting point. Salamander society is cruel and based on power and the ability to subjugate those inferior to them. Beings inferior to Salamanders who cause problems face a slow and painful death.
 
-## Satyr
+\mostro{Satyr}
 - **Size/Type**: Medium fey, chaotic
 - **Ability**: Str 1 Dex 3 Con 0 Int 1 Wis 0 Cha 2
 - **Hit Points**: 24,  **Defense:** 15,  **Initiative:** +3
@@ -29933,7 +29929,7 @@ Besides constantly flirting, satyrs often serve as guardians of their forests, a
 
 Children born from these encounters are always full-blooded satyrs and are generally taken away by their unrestrained fathers immediately after birth.
 
-## Scourger
+\mostro{Scourger}
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 4 Dex -1 Con 3 Int 3 Wis 3 Cha -2
 - **Hit Points**: 108,  **Defense:** 17,  **Initiative:** +3
@@ -29981,7 +29977,7 @@ The scourger is an ambush hunter. Capable of modifying the coloration and shape 
 Despite its alien and monstrous form, the scourger is one of the most intelligent inhabitants of the underground. They do not form vast societies (although they often live together with other underground creatures such as Brain Eaters, with whom they sometimes ally), but often gather in small groups. Particularly interested in the philosophy of life and death, and the more subtle aspects of the world's most sinister and cruel religions, a scourger can talk or discuss for hours with those it initially simply tried to eat. Some stories tell of particularly gifted orators and philosophers who were kept for days or even years as pets or conversation companions by groups of scourgers; in the end, however, if they don't manage to escape, the scourgers' appetite eventually gets the better of their curious intelligence, especially in cases where these pets consistently outperform the wit and patience of their keepers.
 A scourger is 2.7 meters tall and weighs 1,100 kg.
 
-## Sea Hag
+\mostro{Sea Hag}
 - **Size/Type**: Medium fey, evil
 - **Ability**: Str 3 Dex 1 Con 3 Int 1 Wis 1 Cha 1
 - **Hit Points**: 52,  **Defense:** 15,  **Initiative:** +1
@@ -30020,7 +30016,7 @@ Sea hags prefer to live near the shoreline where fishing boats and merchant ship
 
 Sea hags form covens similar to those of other hags, but their aquatic nature generally leads them to refrain from forming mixed covens. In cases where a Green Hag lives along the coast (often in a brackish swamp or coastal marsh), a coven is formed by two sea hags who respect the Green Hag as mother and leader. Very commonly, a coven of sea hags consists of a group of particularly friendly and close sea hags.
 
-## Shadow
+\mostro{Shadow}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str -2 Dex 2 Con 1 Int -2 Wis 0 Cha -1
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
@@ -30060,7 +30056,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from its corpse
 
 The evil shadow moves along the border between the darkness of the shadows and the harsh truth of light. The shadow prefers to haunt the ruins that civilization leaves behind, where it hunts living creatures foolish enough to stumble into its territory. The shadow is a horrible undead, and as such has no apparent purposes or motivations beyond sucking life force and vitality from living beings.
 
-## Shambling Mound
+\mostro{Shambling Mound}
 - **Size/Type**: Large plant, unaligned
 - **Ability**: Str 4 Dex -1 Con 3 Int -3 Wis 0 Cha -3
 - **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
@@ -30100,7 +30096,7 @@ Shambling mounds are incredibly stealthy in their natural environment. They blen
 
 Shambling mounds usually lead a nomadic and solitary existence in deep forests and fetid swamps but can also be found underground, amid groves of fungi. Disturbing rumors speak of groups of shambling mounds gathering around large mounds in the depths of jungles and swamps, often during violent lightning storms. The reason for this behavior is unknown, and many sages wonder if there isn't some dark and alien purpose behind it.
 
-## Shield Guardian
+\mostro{Shield Guardian}
 - **Size/Type**: Large construct, unaligned
 - **Ability**: Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -4
 - **Hit Points**: 146,  **Defense:** 20,  **Initiative:** -1
@@ -30128,7 +30124,7 @@ Shambling mounds usually lead a nomadic and solitary existence in deep forests a
 
 **Reaction: *Shield.*** When a creature attacks the wearer of the guardian's amulet, the guardian grants a +2 bonus to its Defense, if within 1 meter of its controller.
 
-## Shrieking Fungus
+\mostro{Shrieking Fungus}
 - **Size/Type**: Medium plant, unaligned
 - **Ability**: Str -5 Dex -5 Con 0 Int -5 Wis -4 Cha -5
 - **Hit Points**: 15,  **Defense:** 7,  **Initiative:** -5
@@ -30153,7 +30149,7 @@ A shrieking fungus is about 50 cm tall, with a broad brown cap. Once it has emit
 
 It is said that cooks of the depths specialize in cooking these mushrooms into exquisite dishes. The most skilled ones can even manage not to deflate the cap.
 
-## Silku
+\mostro{Silku}
 - **Size/Type**: Medium demon, evil
 - **Ability**: Str 2 Dex 2 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
@@ -30189,7 +30185,7 @@ I widened my eyes and stepped back, as terror took hold of me. Their faces weren
 
 From *The Guardian of Falkonia*, novel by Federica Angeli
 
-## Silver Dragon Wyrmling
+\mostro{Silver Dragon Wyrmling}
 - **Size/Type**: Medium dragon, good
 - **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +1
@@ -30220,7 +30216,7 @@ From *The Guardian of Falkonia*, novel by Federica Angeli
 
 Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably.
 
-## Skeleton
+\mostro{Skeleton}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 0 Dex 2 Con 2 Int -2 Wis -1 Cha -3
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
@@ -30250,7 +30246,7 @@ Among all dragons, silver dragons are the most courageous, and adhere to a chiva
 
 Skeletons are animated bones of the dead, brought to unlife by sacrilegious magic. For the most part, skeletons are mindless automatons.
 
-## Solar Angel
+\mostro{Solar Angel}
 - **Size/Type**: Large celestial, good
 - **Ability**: Str 8 Dex 6 Con 8 Int 7 Wis 7 Cha 10
 - **Hit Points**: 426,  **Defense:** 46,  **Initiative:** +7
@@ -30316,7 +30312,7 @@ Solars who spend time on the Material Plane can influence human bloodlines, crea
 
 Respected by all angels, solars sometimes command armies against the legions of Hell and the hordes of the Abyss.
 
-## Specter
+\mostro{Specter}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str -5 Dex 2 Con 0 Int 0 Wis 0 Cha 2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
@@ -30348,7 +30344,7 @@ Specters are evil undead that hate sunlight and living beings. Their genesis is 
 
 A specter closely resembles how it was in life and can be easily recognized by those who knew the individual or had seen its face in paintings or drawings.
 
-## Spined Devil
+\mostro{Spined Devil}
 - **Size/Type**: Small devil, evil
 - **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 2 Cha -1
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
@@ -30394,7 +30390,7 @@ Sentinels of the vaults of Hell, jailers of the blackest souls, and living weapo
 Spined Devils are collectors and organizers. If left to act freely, these devils' hideouts often display the impaled trophies of old victims.
 Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lean, muscular bodies appear larger due to the constantly growing spikes that protrude from their bodies, sharp as blades.
 
-## Spirit Naga
+\mostro{Spirit Naga}
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 4 Dex 3 Con 2 Int 3 Wis 2 Cha 3
 - **Hit Points**: 162,  **Defense:** 25,  **Initiative:** +3
@@ -30428,7 +30424,7 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 
 **Reaction: *Opportunity Attack***: the naga makes a spitting attack against a creature that moves through or leaves its 10-foot reach.
 
-## Sprite
+\mostro{Sprite}
 - **Size/Type**: Tiny fey, good
 - **Ability**: Str -4 Dex 4 Con 0 Int 2 Wis 1 Cha 0
 - **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
@@ -30463,7 +30459,7 @@ In many ways, sprites are more primitive than most fey. They appreciate the comp
 
 Although sprites themselves have an uncultivated and wild nature, they have a healthy curiosity for all things with innate magic. They are particularly attracted to places of great latent magical power, such as the ruins of ancient temples. This curiosity also makes them unusually suited to the role of familiars. A chaotic 5th-level spellcaster can obtain a sprite as a familiar if they have the Familiar Feat.
 
-## Steam Mephit
+\mostro{Steam Mephit}
 - **Size/Type**: Small elemental, evil
 - **Ability**: Str -3 Dex 0 Con 0 Int 0 Wis 0 Cha 1
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -30497,7 +30493,7 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 
 Steam mephits are commonly found on the Plane of Fire. These mephits are insolent and contemptuous.
 
-## Stirge
+\mostro{Stirge}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
 - **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
@@ -30526,7 +30522,7 @@ More similar to mammals than insects, stirges take flight with their four fleshy
 
 Stirges are usually about 12 inches long, with a wingspan of about twice that, and weigh less than 1 pound. They are rusty red or reddish-brown in color, with a dirty yellow belly, but those that have not fed adequately are pale pink.
 
-## Stone Giant
+\mostro{Stone Giant}
 - **Size/Type**: Huge giant, neutral
 - **Ability**: Str 6 Dex 2 Con 5 Int 0 Wis 1 Cha -1
 - **Hit Points**: 148,  **Defense:** 23,  **Initiative:** +2
@@ -30573,7 +30569,7 @@ Stone giants prefer to live in huge caves on rocky peaks. They rarely live more 
 
 Older stone giants tend to move away from the tribe for long periods, to live in solitude somewhere or attempting to fit into other humanoid civilizations. After decades of self-imposed exile, those who return are known as Stone Giants Elders.
 
-## Stone Golem
+\mostro{Stone Golem}
 - **Size/Type**: Large construct, unaligned
 - **Ability**: Str 6 Dex -1 Con 5 Int -4 Wis 0 Cha -5
 - **Hit Points**: 205,  **Defense:** 24,  **Initiative:** -1
@@ -30621,7 +30617,7 @@ There are numerous variants of Stone Golems, depending on the materials they are
 **Construction**
 The body of a stone golem is carved from a single block of hard stone, such as granite, weighing at least 1,500 kg. The stone must be of exceptional quality, and cost 5000 gp.
 
-## Storm Giant
+\mostro{Storm Giant}
 - **Size/Type**: Huge giant, good
 - **Ability**: Str 9 Dex 2 Con 5 Int 3 Wis 4 Cha 4
 - **Hit Points**: 262,  **Defense:** 31,  **Initiative:** +3
@@ -30674,7 +30670,7 @@ As their name suggests, they are prone to violent mood swings. Storm giants are 
 
 Storm giants live in beautiful towers, castles, or in walled settlements and love to cultivate the land. They own huge well-tended gardens and manage hundreds of acres of crops per group. They often employ other humanoids, such as Elves or Humans, as support to run their immense farms. A storm giant enclave often takes responsibility for the security of an entire island or coastline.
 
-## Succubus
+\mostro{Succubus}
 - **Size/Type**: Medium demon, evil
 - **Ability**: Str -1 Dex 3 Con 1 Int 2 Wis 1 Cha 5
 - **Hit Points**: 87,  **Defense:** 20,  **Initiative:** +3
@@ -30712,7 +30708,7 @@ The fiend can only have one target charmed at a time. If it charms another, the 
 
 Among the demonic hordes, a succubus can often reach very high levels of power, using her manipulations and sensual charm, and many demonic wars rage because of the subtle machinations of these creatures. A succubus originates from the souls of particularly libidinous and greedy evil mortals.
 
-## Tarrasque
+\mostro{Tarrasque}
 - **Size/Type**: Colossal monstrosity, unaligned
 - **Ability**: Str 10 Dex 0 Con 10 Int -2 Wis 0 Cha 0
 - **Hit Points**: 615,  **Defense:** 52,  **Initiative:** +0
@@ -30780,7 +30776,7 @@ Though not particularly intelligent, the Tarrasque is smart enough to understand
 
 Legend says that the Tarrasque is Cattalm's pet.
 
-## Tentacled Crawler Worm
+\mostro{Tentacled Crawler Worm}
 - **Size/Type**: Large monstrosity, unaligned
 - **Ability**: Str 4 Dex 1 Con 3 Int -4 Wis 1 Cha -3
 - **Hit Points**: 89,  **Defense:** 18,  **Initiative:** +1
@@ -30816,7 +30812,7 @@ They are voracious creatures that don't miss an opportunity to hunt and devour o
 
 The origins of the Tentacled Crawler Worms are rather speculative; some hypothesize that a spellcaster tried, as usual, critically failing, to transform into a Purple Worm; others firmly believe that Shayalia's gardens needed more fertilization, and so the Patron transformed ordinary earthworms into these terrifying creatures to devour and digest buried corpses.
 
-## Tree Man (Arborom)
+\mostro{Tree Man (Arborom)}
 - **Size/Type**: Huge plant, good
 - **Ability**: Str 6 Dex -1 Con 5 Int 1 Wis 3 Cha 1
 - **Hit Points**: 186,  **Defense:** 23,  **Initiative:** +1
@@ -30861,7 +30857,7 @@ A typical Arborom is 9 meters tall, with a trunk 60 centimeters in diameter, and
 
 Arboroms are said to be created by the will of Efrem.
 
-## Triceratops
+\mostro{Triceratops}
 - **Size/Type**: Huge beast, unaligned
 - **Ability**: Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -3
 - **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
@@ -30890,7 +30886,7 @@ Arboroms are said to be created by the will of Efrem.
 
 The triceratops is an irascible and stubborn herbivore. A typical triceratops is 9 meters long and weighs 10000 kg.
 
-## Troll
+\mostro{Troll}
 - **Size/Type**: Large giant, evil
 - **Ability**: Str 5 Dex 1 Con 5 Int -2 Wis -1 Cha -2
 - **Hit Points**: 110,  **Defense:** 19,  **Initiative:** +1
@@ -30929,7 +30925,7 @@ Despite their ferocity, trolls are extraordinarily tender and gentle toward thei
 
 It is universally known that trolls can naturally mutate, temporarily acquiring the most peculiar characteristics of the creatures they feed on. You have no idea how funny a Pegasustroll can be...
 
-## Tyrannosaurus
+\mostro{Tyrannosaurus}
 - **Size/Type**: Huge beast, unaligned
 - **Ability**: Str 7 Dex 0 Con 4 Int -4 Wis 1 Cha -1
 - **Hit Points**: 165,  **Defense:** 22,  **Initiative:** +0
@@ -30964,7 +30960,7 @@ It is universally known that trolls can naturally mutate, temporarily acquiring 
 
 The tyrannosaurus is a primary predator that measures 12 meters in length and weighs 7000 kg.
 
-## Tàhil
+\mostro{Tàhil}
 - **Size/Type**: Colossal dragon, Patron
 - **Ability**: Str 10 Dex 0 Con 10 Int 8 Wis 8 Cha 9
 - **Hit Points**: 615,  **Defense:** 52,  **Initiative:** +8
@@ -31034,7 +31030,7 @@ Tàhil can take 3 additional actions, chosen from those below and one per round 
 
 Tàhil is the embodied Patron of Dragons. Nothing can withstand his fury, madness, rage, and destruction. Tàhil is a gargantuan creature with 7 dragon heads, each colored differently, each representing a color of a Dragon. See the Cosmology chapter for details of his history.
 
-## Unicorn
+\mostro{Unicorn}
 - **Size/Type**: Large celestial, good
 - **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 3 Cha 3
 - **Hit Points**: 107,  **Defense:** 20,  **Initiative:** +2
@@ -31093,7 +31089,7 @@ Unicorns are intelligent and solitary creatures that inhabit forests, appearing 
 
 The unicorn's horn is the source of its magical powers, and evil creatures place great value on these horns for their dark rituals and healing potions. On rare occasions, unicorns whose partner has been killed choose virtuous young women as substitutes, allowing them to ride them and become their guardians for life.
 
-## Vampire
+\mostro{Vampire}
 - **Size/Type**: Medium undead (shapechanger), evil
 - **Ability**: Str 4 Dex 4 Con 4 Int 3 Wis 2 Cha 4
 - **Hit Points**: 259,  **Defense:** 33,  **Initiative:** +4
@@ -31172,7 +31168,7 @@ The vampire can take 3 Legendary Actions, choosing from the options below. It ca
 
 Vampires are undead humanoid creatures that feed on the blood of the living. They look very similar to when they were alive, often becoming more attractive, although some appear harsh and feral instead.
 
-## Vampire Spawn
+\mostro{Vampire Spawn}
 - **Size/Type**: Medium undead, evil
 - **Movement**: 9 m
 - **Saving Throws**: Fortitude +9, Reflex +9, Will +6
@@ -31221,7 +31217,7 @@ Vampires are undead humanoid creatures that feed on the blood of the living. The
 
 A Vampire can decide to create a vampire spawn from a victim rather than a full vampire only when using its ability to create spawn on a humanoid creature. This decision must be made as soon as a vampire kills an appropriate creature using its bite.
 
-## Violet Fungus
+\mostro{Violet Fungus}
 - **Size/Type**: Medium plant, unaligned
 - **Ability**: Str -4 Dex -5 Con 0 Int -5 Wis -4 Cha -5
 - **Hit Points**: 19,  **Defense:** 7,  **Initiative:** -5
@@ -31256,7 +31252,7 @@ Some species of Shrieking Boletes have an appearance quite similar to that of vi
 
 A violet fungus is 1.2 meters tall and weighs 25 kg.
 
-## Vrock
+\mostro{Vrock}
 - **Size/Type**: Large demon, evil
 - **Ability**: Str 3 Dex 2 Con 4 Int -1 Wis 1 Cha -1
 - **Hit Points**: 127,  **Defense:** 22,  **Initiative:** +2
@@ -31299,7 +31295,7 @@ A violet fungus is 1.2 meters tall and weighs 25 kg.
 
 A typical vrock is 2.3 meters tall and weighs 200 kg. These creatures usually originate from the souls of evil mortals filled with hatred and anger, particularly those who were professional criminals, mercenaries, or assassins.
 
-## Wall Crawler Horror
+\mostro{Wall Crawler Horror}
 - **Size/Type**: Large monstrosity, unaligned
 - **Ability**: Str 4 Dex 0 Con 2 Int -2 Wis 1 Cha -2
 - **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
@@ -31337,7 +31333,7 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 
 *Solidarity Clans*. The hooked horrors live in vast family groups or clans. Each clan is ruled by the oldest female, who usually places her mate in charge of the clan's hunters. The Wall Crawler Horrors lay their eggs in a central, well-defended area of the caverns used as a lair.
 
-## Warhorse Skeleton
+\mostro{Warhorse Skeleton}
 - **Size/Type**: Large undead, evil
 - **Ability**: Str 4 Dex 1 Con 2 Int -4 Wis -1 Cha -3
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -31355,7 +31351,7 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-## Werebear
+\mostro{Werebear}
 - **Size/Type**: Medium humanoid (human, shapechanger), good
 - **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 1 Cha 1
 - **Hit Points**: 108,  **Defense:** 18,  **Initiative:** +0
@@ -31393,7 +31389,7 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 
 In their humanoid forms, werebears tend to be muscular and broad-shouldered, with rough features and dark eyes. They have red, brown, or black hair and appear accustomed to a life of hard work. Though the most benign of the lycanthropes, they are avoided by most normal people, who fear their animal transformation. For the most part they live in isolated woodland areas or in small family units of their own kind. They avoid confronting strangers, but they don't hesitate if they must drive evil humanoids from their territories.
 
-## Wereboar
+\mostro{Wereboar}
 - **Size/Type**: Medium humanoid, shapechanger, evil
 - **Ability**: Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha -1
 - **Hit Points**: 88,  **Defense:** 17,  **Initiative:** +0
@@ -31428,7 +31424,7 @@ In their humanoid forms, werebears tend to be muscular and broad-shouldered, wit
 
 In their humanoid forms, wereboars tend to be stocky, with upturned noses, bristly hair, and prominent tusks. They have red, brown, or black hair, but some are also blond, gray-haired, or bald. Males usually can't grow beards. Because they are stubborn and aggressive, they have small communities of their own kind and don't mix with non-lycanthropes: they usually live in small farms that look absolutely normal. They tend to have large families and many children.
 
-## Wererat
+\mostro{Wererat}
 - **Size/Type**: Medium humanoid (human, shapechanger), evil
 - **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 0 Cha -1
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
@@ -31467,7 +31463,7 @@ In their humanoid forms, wereboars tend to be stocky, with upturned noses, brist
 
 Natural wererats are short, wiry, and muscular, with quick, sharp eyes and twitchy movements. Males often have thin, scraggly mustaches.
 
-## Weretiger
+\mostro{Weretiger}
 - **Size/Type**: Medium humanoid (human, shapechanger), neutral
 - **Ability**: Str 3 Dex 2 Con 3 Int 0 Wis 1 Cha 0
 - **Hit Points**: 89,  **Defense:** 19,  **Initiative:** +2
@@ -31515,7 +31511,7 @@ Natural wererats are short, wiry, and muscular, with quick, sharp eyes and twitc
 
 Weretigers in humanoid form have large eyes, elongated noses, prominent cheekbones, and brown or red hair, or white, black, or blue-gray. Their movements are careful and graceful, and those who observe them might mistake them for an excellent pickpocket, a graceful dancer, or a skilled courtesan.
 
-## Werewolf
+\mostro{Werewolf}
 - **Size/Type**: Medium humanoid (human, shapechanger), evil
 - **Ability**: Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
@@ -31553,7 +31549,7 @@ Weretigers in humanoid form have large eyes, elongated noses, prominent cheekbon
 
 In human form, werewolves look like normal people, though some tend to have feral features and wild hair. Eyebrows that grow together, an index finger longer than the middle finger, and strange birthmarks on the palm of the hand are all commonly accepted signs that a person is in fact a werewolf. Of course, these telltale signs aren't always accurate, as these physical traits exist in normal people as well, but in areas where werewolves are a common problem, such traits may be considered damning regardless.
 
-## White Dragon Wyrmling
+\mostro{White Dragon Wyrmling}
 - **Size/Type**: Medium dragon, evil
 - **Ability**: Str 2 Dex 0 Con 2 Int -3 Wis 0 Cha 0
 - **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +0
@@ -31580,7 +31576,7 @@ In human form, werewolves look like normal people, though some tend to have fera
 
 See Ancient White Dragon description.
 
-## Wight
+\mostro{Wight}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 2 Dex 2 Con 3 Int 0 Wis 1 Cha 2
 - **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
@@ -31625,7 +31621,7 @@ Wights are humanoids raised as undead due to necromancy, a violent death, or an 
 
 Being undead, wights have no need to breathe, so they can sometimes be found underwater, although they are not particularly skilled swimmers unless they originated from swimming creatures such as aquatic elves and merfolk. Underwater, wights prefer low-ceiling caverns where their poor swimming abilities are not a limitation.
 
-## Will-o'-Wisp
+\mostro{Will-o'-Wisp}
 - **Size/Type**: Tiny undead, evil
 - **Ability**: Str -5 Dex 9 Con 0 Int 1 Wis 2 Cha 0
 - **Hit Points**: 51,  **Defense:** 23,  **Initiative:** +9
@@ -31671,7 +31667,7 @@ Despite being denigrated by the majority of sentient creatures, will-o'-wisps ar
 
 Will-o'-wisps have no age and are de facto immortal, unless they die a violent death; the oldest will-o'-wisps can be excellent repositories of knowledge from the past, although convincing one of these cruel creatures to cooperate can be quite complicated.
 
-## Wise Owlbear
+\mostro{Wise Owlbear}
 - **Size/Type**: Large monstrosity, neutral
 - **Ability**: Str 3 Dex 1 Con 2 Int 3 Wis 3 Cha 1
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +3
@@ -31717,7 +31713,7 @@ Training a Wise Owlbear is much easier than an Owlbear, but the high intelligenc
 
 The Mage Hand spell is usually used to flip through the most delicate tomes and to write, albeit extremely slowly.
 
-## Wraith
+\mostro{Wraith}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str -2 Dex 3 Con 3 Int 1 Wis 2 Cha 2
 - **Hit Points**: 108,  **Defense:** 21,  **Initiative:** +3
@@ -31755,7 +31751,7 @@ The Mage Hand spell is usually used to flip through the most delicate tomes and 
 
 Wraiths are creatures born of evil and darkness. They detest light and living creatures, having lost most of their connection to their previous life.
 
-## Wyvern
+\mostro{Wyvern}
 - **Size/Type**: Large dragon, unaligned
 - **Ability**: Str 4 Dex 0 Con 3 Int -3 Wis 1 Cha -2
 - **Hit Points**: 126,  **Defense:** 20,  **Initiative:** +0
@@ -31799,7 +31795,7 @@ Although constantly hungry and inclined to attack, a wyvern can be made friendly
 
 A wyvern is about 4.8 meters long, with the tail alone accounting for about half of the length. A wyvern weighs on average 1000 kg.
 
-## Xorn
+\mostro{Xorn}
 - **Size/Type**: Medium elemental, neutral
 - **Ability**: Str 3 Dex 0 Con 6 Int 0 Wis 0 Cha 0
 - **Hit Points**: 111,  **Defense:** 18,  **Initiative:** +0
@@ -31842,7 +31838,7 @@ The treasure that a xorn carries or hides in its lair consists of a snack it has
 
 Xorns are not very religious, but those among them who find faith are usually devoted to Efrem (although it is rare, if not unlikely, for xorns to have Animal Companions, since they cannot follow them through rock, and instead choose the Earth domain). Bard and Cleric xorns are not unknown: Bards usually choose Entertainer (singing), and Clerics invariably have the Elemental Bloodline (earth).
 
-## Young Black Dragon
+\mostro{Young Black Dragon}
 - **Size/Type**: Large dragon, evil
 - **Ability**: Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: 145,  **Defense:** 23,  **Initiative:** +2
@@ -31884,7 +31880,7 @@ Xorns are not very religious, but those among them who find faith are usually de
 
 - Bestow Curse
 
-## Young Blue Dragon
+\mostro{Young Blue Dragon}
 - **Size/Type**: Huge dragon, evil
 - **Ability**: Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3
 - **Hit Points**: 184,  **Defense:** 24,  **Initiative:** +2
@@ -31924,7 +31920,7 @@ Xorns are not very religious, but those among them who find faith are usually de
 
 - Ice Storm
 
-## Young Brass Dragon
+\mostro{Young Brass Dragon}
 - **Size/Type**: Large dragon, good
 - **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: 126,  **Defense:** 20,  **Initiative:** +1
@@ -31966,7 +31962,7 @@ Xorns are not very religious, but those among them who find faith are usually de
 
 - Scrying
 
-## Young Bronze Dragon
+\mostro{Young Bronze Dragon}
 - **Size/Type**: Large dragon, good
 - **Ability**: Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3
 - **Hit Points**: 165,  **Defense:** 22,  **Initiative:** +2
@@ -32011,7 +32007,7 @@ Xorns are not very religious, but those among them who find faith are usually de
 
 - Freedom of Movement
 
-## Young Copper Dragon
+\mostro{Young Copper Dragon}
 - **Size/Type**: Large dragon, good
 - **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
 - **Hit Points**: 145,  **Defense:** 22,  **Initiative:** +3
@@ -32055,7 +32051,7 @@ Xorns are not very religious, but those among them who find faith are usually de
 
 - Fire Shield
 
-## Young Gold Dragon
+\mostro{Young Gold Dragon}
 - **Size/Type**: Large dragon, good
 - **Ability**: Str 6 Dex 2 Con 5 Int 3 Wis 1 Cha 5
 - **Hit Points**: 205,  **Defense:** 27,  **Initiative:** +3
@@ -32101,7 +32097,7 @@ Xorns are not very religious, but those among them who find faith are usually de
 
 - Black Tentacles
 
-## Young Green Dragon
+\mostro{Young Green Dragon}
 - **Size/Type**: Large dragon, evil
 - **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
 - **Hit Points**: 163,  **Defense:** 23,  **Initiative:** +3
@@ -32143,7 +32139,7 @@ Xorns are not very religious, but those among them who find faith are usually de
 
 - Neutralize Poison
 
-## Young Red Dragon
+\mostro{Young Red Dragon}
 - **Size/Type**: Large dragon, evil
 - **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4
 - **Hit Points**: 205,  **Defense:** 25,  **Initiative:** +2
@@ -32184,7 +32180,7 @@ Costs 1 Action.
 
 - Wall of Fire
 
-## Young Silver Dragon
+\mostro{Young Silver Dragon}
 - **Size/Type**: Large dragon, good
 - **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4
 - **Hit Points**: 186,  **Defense:** 24,  **Initiative:** +2
@@ -32228,7 +32224,7 @@ Costs 1 Action.
 
 - Dream
 
-## Young White Dragon
+\mostro{Young White Dragon}
 - **Size/Type**: Large dragon, evil
 - **Ability**: Str 4 Dex 0 Con 4 Int -2 Wis 0 Cha 1
 - **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
@@ -32268,7 +32264,7 @@ Costs 1 Action.
 
 - Sleet Storm
 
-## Zombie
+\mostro{Zombie}
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 1 Dex -2 Con 3 Int -4 Wis -2 Cha -3
 - **Hit Points**: 19,  **Defense:** 10,  **Initiative:** -2
@@ -32307,7 +32303,7 @@ Although they are able to follow orders, zombies are often set free with the ord
 
 This appendix contains the statistics of various animals, parasites, and other creatures. The statistics are organized in alphabetical order.
 
-## Ape
+\mostro{Ape}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
@@ -32325,7 +32321,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 6 (1d6 + 3) bludgeoning damage.
 
-## Armored Bear
+\mostro{Armored Bear}
 - **Size/Type**: Huge beast, corrupted by Cattalm
 - **Ability**: Str 7 Dex 2 Con 4 Int 1 Wis 1 Cha 1
 - **Hit Points**: 90,  **Defense:** 19,  **Initiative:** +2
@@ -32345,7 +32341,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 20 (3d8 + 10) piercing damage.
 
-## Awakened Tree
+\mostro{Awakened Tree}
 - **Size/Type**: Huge plant, unaligned
 - **Ability**: Str 4 Dex -2 Con 2 Int 0 Wis 0 Cha -2
 - **Hit Points**: 51,  **Defense:** 12,  **Initiative:** +0
@@ -32364,7 +32360,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 14 (3d6 + 4) bludgeoning damage.
 
-## Axe Beak
+\mostro{Axe Beak}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
@@ -32376,7 +32372,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 6 (1d8 + 2) slashing damage.
 
-## Baboon
+\mostro{Baboon}
 - **Size/Type**: Small beast, unaligned
 - **Ability**: Str -1 Dex 2 Con 0 Int -3 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
@@ -32390,7 +32386,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 1 (1d4 - 1) piercing damage.
 
-## Badger
+\mostro{Badger}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -3 Dex 0 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
@@ -32405,7 +32401,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 1 piercing damage.
 
-## Black Bear
+\mostro{Black Bear}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 3 Dex 0 Con 2 Int -4 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
@@ -32425,7 +32421,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 6 (1d6 + 3) piercing damage.
 
-## Blink Dog
+\mostro{Blink Dog}
 - **Size/Type**: Medium monstrosity, evil
 - **Ability**: Str 1 Dex 3 Con 1 Int 0 Wis 1 Cha 0
 - **Hit Points**: 19,  **Defense:** 15,  **Initiative:** +3
@@ -32442,7 +32438,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 ***Teleport (Recharge 4-6).*** The dog magically teleports, along with any equipment it is wearing or carrying, up to 12 meters to an unoccupied space it can see. Before or after teleporting, the dog can make a bite attack.
 
-## Blood Hawk
+\mostro{Blood Hawk}
 - **Size/Type**: Small beast, unaligned
 - **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -3
 - **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
@@ -32458,7 +32454,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 4 (1d4 + 2) piercing damage.
 
-## Boar
+\mostro{Boar}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 1 Dex 0 Con 1 Int -4 Wis -1 Cha -3
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -32474,7 +32470,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 4 (1d6 + 1) slashing damage.
 
-## Brown Bear
+\mostro{Brown Bear}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 0 Con 3 Int -4 Wis 1 Cha -2
 - **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
@@ -32494,7 +32490,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 8 (1d8 + 4) piercing damage.
 
-## Cat
+\mostro{Cat}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -4 Dex 2 Con 0 Int -4 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
@@ -32508,7 +32504,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 1 slashing damage.
 
-## Constrictor Snake
+\mostro{Constrictor Snake}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 2 Dex 2 Con 1 Int -5 Wis 0 Cha -4
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
@@ -32524,7 +32520,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (DC 14 to escape). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
-## Crocodile
+\mostro{Crocodile}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 2 Dex 0 Con 1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
@@ -32538,7 +32534,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 7 (1d10 + 2) piercing damage, and the target is grappled (DC 12 to escape). Until the grapple ends, the crocodile can't use its bite against another target.
 
-## Death Dog
+\mostro{Death Dog}
 - **Size/Type**: Medium monstrosity, evil
 - **Ability**: Str 2 Dex 2 Con 2 Int -4 Wis 1 Cha -2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
@@ -32554,7 +32550,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Fortitude Saving Throw against disease or become diseased. The disease has no effect for 24 hours and can be removed by any magic that cures disease. After each 24 hours, the creature must repeat the Saving Throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
 
-## Deer
+\mostro{Deer}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 0 Dex 3 Con 0 Int -4 Wis 2 Cha -3
 - **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
@@ -32566,7 +32562,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 2 (1d4) piercing damage.
 
-## Dire Wolf (Metawolf)
+\mostro{Dire Wolf (Metawolf)}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
@@ -32582,7 +32578,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
-## Eagle
+\mostro{Eagle}
 - **Size/Type**: Small beast, unaligned
 - **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -2
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
@@ -32596,7 +32592,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 4 (1d4 + 2) slashing damage.
 
-## Elephant
+\mostro{Elephant}
 - **Size/Type**: Huge beast, unaligned
 - **Ability**: Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -2
 - **Hit Points**: 89,  **Defense:** 16,  **Initiative:** -1
@@ -32614,7 +32610,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 22 (3d10 + 6) bludgeoning damage.
 
-## Elk
+\mostro{Elk}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 3 Dex 0 Con 1 Int -4 Wis 0 Cha -2
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -32632,7 +32628,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-## Flying Snake
+\mostro{Flying Snake}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -3 Dex 4 Con 0 Int -4 Wis 1 Cha -3
 - **Hit Points**: 17,  **Defense:** 16,  **Initiative:** +4
@@ -32646,7 +32642,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 *Hit:* 1 piercing damage plus 7 (3d4) poison damage.
 
-## Frog
+\mostro{Frog}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -5 Dex 1 Con -1 Int -5 Wis -1 Cha -4
 - **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
@@ -32660,7 +32656,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 
 A **frog** has no attacks. It feeds on small insects and typically lives near marshes, in trees, or underground.
 
-## Giant Ape
+\mostro{Giant Ape}
 - **Size/Type**: Huge beast, unaligned
 - **Ability**: Str 6 Dex 2 Con 4 Int -2 Wis 1 Cha -2
 - **Hit Points**: 146,  **Defense:** 23,  **Initiative:** +2
@@ -32678,7 +32674,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 *Hit:* 30 (7d6 + 6) bludgeoning damage.
 
-## Giant Badger
+\mostro{Giant Badger}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 1 Dex 0 Con 2 Int -4 Wis 1 Cha -3
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -32699,7 +32695,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 *Hit:* 4 (1d6 + 1) piercing damage.
 
-## Giant Boar
+\mostro{Giant Boar}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 3 Dex 0 Con 3 Int -4 Wis -2 Cha -3
 - **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
@@ -32715,7 +32711,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 *Hit:* 10 (2d6 + 3) slashing damage.
 
-## Giant Constrictor Snake
+\mostro{Giant Constrictor Snake}
 - **Size/Type**: Huge beast, unaligned
 - **Ability**: Str 4 Dex 2 Con 1 Int -5 Wis 0 Cha -4
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
@@ -32731,7 +32727,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (DC 16 to escape). Until the grapple ends, the creature is restrained, and the snake cannot constrict another target.
 
-## Giant Crab
+\mostro{Giant Crab}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 1 Dex 2 Con 0 Int -5 Wis -1 Cha -4
 - **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
@@ -32745,7 +32741,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is grappled (DC 11 to escape). The crab has two claws, each of which can grapple only one target.
 
-## Giant Crocodile
+\mostro{Giant Crocodile}
 - **Size/Type**: Huge beast, unaligned
 - **Ability**: Str 5 Dex -1 Con 3 Int -4 Wis 0 Cha -2
 - **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
@@ -32765,7 +32761,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 *Hit:* 21 (3d10 + 5) piercing damage, and the target is grappled (DC 16 to escape). Until the grapple ends, the crocodile can't use its bite against another target.
 
-## Giant Eagle
+\mostro{Giant Eagle}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 3 Dex 3 Con 1 Int -1 Wis 2 Cha 0
 - **Saving Throws**: Fortitude +3, Reflex +4, Will +3
@@ -32786,7 +32782,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 *Hit:* 10 (2d6 + 3) slashing damage.
 
-## Giant Elk
+\mostro{Giant Elk}
 - **Size/Type**: Huge beast, unaligned
 - **Ability**: Str 4 Dex 3 Con 2 Int -2 Wis 2 Cha 0
 - **Saving Throws**: Fortitude +4, Reflex +5, Will +4
@@ -32804,7 +32800,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 *Hit:* 22 (4d4 + 4) bludgeoning damage.
 
-## Giant Fire Beetle
+\mostro{Giant Fire Beetle}
 - **Size/Type**: Small beast, unaligned
 - **Ability**: Str -1 Dex 0 Con 1 Int -5 Wis -2 Cha -4
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
@@ -32818,7 +32814,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 *Hit:* 2 (1d6 - 1) slashing damage.
 
-## Giant Frog
+\mostro{Giant Froggy}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 1 Dex 1 Con 0 Int -4 Wis 0 Cha -4
 - **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
@@ -32836,7 +32832,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 ***Swallow.*** The frog makes a bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, has total cover against attacks and other effects outside the frog, and takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 1 meter of movement, exiting prone.
 
-## Giant Frog
+\mostro{Giant Frog}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -4
 - **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
@@ -32858,7 +32854,7 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-## Giant Goat
+\mostro{Giant Goat}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 3 Dex 0 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
@@ -32874,7 +32870,7 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-## Giant Hyena
+\mostro{Giant Hyena}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
@@ -32888,7 +32884,7 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 *Hit:* 10 (2d6 + 3) piercing damage.
 
-## Giant Lizard
+\mostro{Giant Lizard}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
@@ -32908,7 +32904,7 @@ Some giant lizards have one or both of the following traits.
 
 ***Hold Breath.*** The lizard can hold its breath for 15 minutes. (A lizard with this trait also has a swimming speed of 9 meters.)
 
-## Giant Owl
+\mostro{Giant Owl}
 - **Size/Type**: Large beast, neutral
 - **Ability**: Str 1 Dex 2 Con 1 Int -1 Wis 1 Cha 0
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
@@ -32924,7 +32920,7 @@ Some giant lizards have one or both of the following traits.
 
 *Hit:* 8 (2d6 + 1) piercing damage.
 
-## Giant Poisonous Snake
+\mostro{Giant Poisonous Snake}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 0 Dex 4 Con 1 Int -4 Wis 0 Cha -4
 - **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
@@ -32936,7 +32932,7 @@ Some giant lizards have one or both of the following traits.
 
 *Hit:* 6 (1d4 + 4) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
-## Giant Rat
+\mostro{Giant Rat}
 - **Size/Type**: Small beast, unaligned
 - **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 0 Cha -3
 - **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
@@ -32960,7 +32956,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 10 or contract a disease. Until the disease is cured, Fortitude Saving Throw DC 12 every 24 hours, the target can't regain hit points except by magical means, and the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit point maximum drops to 0 as a result of this disease, the target dies.
 
-## Giant Scorpion
+\mostro{Giant Scorpion}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 2 Dex 1 Con 2 Int -5 Wis -1 Cha -4
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
@@ -32978,7 +32974,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a Fortitude Saving Throw DC 14, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
-## Giant Sea Horse
+\mostro{Giant Sea Horse}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 1 Dex 2 Con 0 Int -4 Wis 1 Cha -3
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
@@ -32994,7 +32990,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 4 (1d6 + 1) bludgeoning damage.
 
-## Giant Shark
+\mostro{Giant Shark}
 - **Size/Type**: Huge beast, unaligned
 - **Ability**: Str 6 Dex 0 Con 5 Int -5 Wis 0 Cha -3
 - **Hit Points**: 110,  **Defense:** 18,  **Initiative:** +0
@@ -33011,7 +33007,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 22 (3d10 + 6) piercing damage.
 
-## Giant Spider
+\mostro{Giant Spider}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 2 Dex 3 Con 1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
@@ -33035,7 +33031,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* The target is restrained by webbing. As an Action, the restrained target can make a Fortitude Saving Throw with Strength DC 12 and, on a success, break free. The webbing can also be attacked and destroyed (AC 10; Hit Points 5; vulnerability to fire damage; immunity to bludgeoning and poison damage).
 
-## Giant Vulture
+\mostro{Giant Vulture}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 2 Dex 0 Con 2 Int -2 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
@@ -33057,7 +33053,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 9 (2d6 + 2) slashing damage.
 
-## Giant Wasp
+\mostro{Giant Wasp}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 0 Dex 2 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
@@ -33070,7 +33066,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 5 (1d6 + 2) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining Hit Points, and is paralyzed while poisoned in this way.
 
-## Giant Weasel
+\mostro{Giant Weasel}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 0 Dex 3 Con 0 Int -3 Wis 1 Cha -3
 - **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
@@ -33084,7 +33080,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 5 (1d4 + 3) piercing damage.
 
-## Giant Wolf Spider
+\mostro{Giant Wolf Spider}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 1 Dex 3 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: 19,  **Defense:** 15,  **Initiative:** +3
@@ -33102,7 +33098,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 4 (1d6 + 1) piercing damage, and the target must make a Fortitude Saving Throw DC 11, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-## Goat
+\mostro{Goat}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 1 Dex 0 Con 0 Int -4 Wis 0 Cha -3
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
@@ -33118,7 +33114,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 3 (1d4 + 1) bludgeoning damage.
 
-## Hawk
+\mostro{Hawk}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -3 Dex 3 Con -1 Int -4 Wis 2 Cha -2
 - **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
@@ -33132,7 +33128,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 1 slashing damage.
 
-## Hunter Shark
+\mostro{Hunter Shark}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 1 Con 2 Int -5 Wis 0 Cha -3
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
@@ -33148,7 +33144,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 13 (2d8 + 4) piercing damage.
 
-## Hyena
+\mostro{Hyena}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 0 Dex 1 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
@@ -33162,7 +33158,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 3 (1d6) piercing damage.
 
-## Jackal
+\mostro{Jackal}
 - **Size/Type**: Small beast, unaligned
 - **Ability**: Str -1 Dex 2 Con 0 Int -4 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
@@ -33178,7 +33174,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 1 (1d4 - 1) piercing damage.
 
-## Killer Whale (Orca)
+\mostro{Killer Whale (Orca)}
 - **Size/Type**: Huge beast, unaligned
 - **Ability**: Str 4 Dex 0 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 69,  **Defense:** 16,  **Initiative:** +0
@@ -33196,7 +33192,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 21 (5d6 + 4) piercing damage.
 
-## Lion
+\mostro{Lion}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 3 Dex 2 Con 1 Int -4 Wis 1 Cha -1
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
@@ -33220,7 +33216,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 7 (1d8 + 3) piercing damage.
 
-## Mammoth
+\mostro{Mammoth}
 - **Size/Type**: Huge beast, unaligned
 - **Ability**: Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -2
 - **Hit Points**: 129,  **Defense:** 19,  **Initiative:** -1
@@ -33238,7 +33234,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 29 (4d10 + 7) bludgeoning damage.
 
-## Mastiff
+\mostro{Mastiff}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
@@ -33252,7 +33248,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
-## Monkey
+\mostro{Monkey}
 - **Size/Type**: Small beast, unaligned
 - **Ability**: Str -3 Dex 2 Con 0 Int -3 Wis 1 Cha -2
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
@@ -33269,7 +33265,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 2 (1d4) piercing damage.
 
-## Owl
+\mostro{Owl}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -4 Dex 1 Con -1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
@@ -33285,7 +33281,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 1 slashing damage.
 
-## Panther
+\mostro{Panther}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -2
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
@@ -33305,7 +33301,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 5 (1d6 + 2) piercing damage.
 
-## Phase Spider
+\mostro{Phase Spider}
 - **Size/Type**: Large monstrosity, unaligned
 - **Ability**: Str 2 Dex 2 Con 1 Int -2 Wis 0 Cha -2
 - **Hit Points**: 69,  **Defense:** 18,  **Initiative:** +2
@@ -33323,7 +33319,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a Fortitude Saving Throw DC 14, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-## Piranha
+\mostro{Piranha}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -4 Dex 3 Con -1 Int -5 Wis -2 Cha -4
 - **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
@@ -33339,7 +33335,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 1 piercing damage.
 
-## Poisonous Snake
+\mostro{Poisonous Snake}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -4 Dex 3 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
@@ -33351,7 +33347,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 1 piercing damage and the target must make a DC 10 Fortitude Saving Throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
-## Polar Bear
+\mostro{Polar Bear}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 5 Dex 0 Con 3 Int -4 Wis 1 Cha -2
 - **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
@@ -33371,7 +33367,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 9 (1d8 + 5) piercing damage.
 
-## Rat
+\mostro{Rat}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -4 Dex 0 Con -1 Int -4 Wis 0 Cha -3
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
@@ -33385,7 +33381,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 1 piercing damage.
 
-## Raven
+\mostro{Raven}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -4 Dex 2 Con -1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
@@ -33399,7 +33395,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 1 piercing damage.
 
-## Reef Shark
+\mostro{Reef Shark}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 2 Dex 1 Con 1 Int -5 Wis 0 Cha -3
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -33416,7 +33412,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 6 (1d8 + 2) piercing damage.
 
-## Rhinoceros
+\mostro{Rhinoceros}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 5 Dex -1 Con 2 Int -4 Wis 1 Cha -2
 - **Hit Points**: 51,  **Defense:** 13,  **Initiative:** -1
@@ -33430,7 +33426,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 14 (2d8 + 5) bludgeoning damage.
 
-## Saber-Toothed Tiger
+\mostro{Saber-Toothed Tiger}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 2 Con 2 Int -3 Wis 1 Cha 0
 - **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
@@ -33463,7 +33459,7 @@ He also created a smaller, dwarf version that could adapt to carrying creatures 
 
 Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost displeasure!
 
-## Saurovall, Draft
+\mostro{Saurovall, Draft}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 0 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -33475,7 +33471,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost disp
 
 *Hit:* 9 (2d4 + 4) bludgeoning damage.
 
-## Saurovall, Pony
+\mostro{Saurovall, Pony}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 2 Dex 0 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
@@ -33487,7 +33483,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost disp
 
 *Hit:* 7 (2d4 + 2) bludgeoning damage.
 
-## Saurovall, Riding
+\mostro{Saurovall, Riding}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 3 Dex 0 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -33497,7 +33493,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost disp
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
-## Saurovall, War
+\mostro{Saurovall, War}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 1 Con 1 Int -2 Wis 1 Cha -2
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -33511,7 +33507,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost disp
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-## Scorpion
+\mostro{Scorpion}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -4 Dex 0 Con -1 Int -5 Wis -1 Cha -4
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
@@ -33523,7 +33519,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost disp
 
 *Hit:* 1 piercing damage, and the target must make a Fortitude Saving Throw DC 9, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
-## Spider
+\mostro{Spider}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str 2 (-5) Dex 2 Con -1 Int -5 Wis 0 Cha -4
 - **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
@@ -33541,7 +33537,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost disp
 
 *Hit:* 1 piercing damage, and the target must succeed on a Fortitude Saving Throw 9 or take 2 (1d4) poison damage.
 
-## Stirge
+\mostro{Stirgy}
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
 - **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
@@ -33556,7 +33552,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost disp
 
 The stirge can detach itself by spending 1 Action. It does so automatically after it has drained 10 Hit Points of blood from the target or the target dies. A creature, including the target, can use an Action to detach the stirge.
 
-## Swarm of Bats
+\mostro{Swarm of Bats}
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
 - **Ability**: Str -3 Dex 2 Con 0 Int -4 Wis 1 Cha -3
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
@@ -33575,7 +33571,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
-## Swarm of Centipedes
+\mostro{Swarm of Centipedes}
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
 - **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -33590,7 +33586,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature reduced to 0 hit points by a swarm of centipedes but stabilized remains poisoned for 1 hour, even after regaining hit points, and remains paralyzed by the poison during this period.
 
-## Swarm of Piranhas
+\mostro{Swarm of Piranhas}
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
 - **Ability**: Str 1 Dex 3 Con -1 Int -5 Wis -2 Cha -4
 - **Hit Points**: 32,  **Defense:** 16,  **Initiative:** +3
@@ -33609,7 +33605,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
-## Swarm of Poisonous Snakes
+\mostro{Swarm of Poisonous Snakes}
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
 - **Ability**: Str -1 Dex 4 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
@@ -33624,7 +33620,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer, and the target must make a Fortitude Saving Throw DC 10, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
-## Swarm of Rats
+\mostro{Swarm of Rats}
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
 - **Ability**: Str -1 Dex 0 Con -1 Int -4 Wis 0 Cha -4
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -33647,7 +33643,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-## Swarm of Ravens
+\mostro{Swarm of Ravens}
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
 - **Ability**: Str -2 Dex 2 Con -1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
@@ -33662,7 +33658,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-## Swarm of Spiders
+\mostro{Swarm of Spiders}
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
 - **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -33683,7 +33679,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-## Swarm of Wasps
+\mostro{Swarm of Wasps}
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
 - **Ability**: Str -1 Dex 1 Con 0 Int -5 Wis -2 Cha -5
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -33697,7 +33693,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-## Tiger
+\mostro{Tiger}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -1
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
@@ -33718,7 +33714,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 8 (1d10 + 3) piercing damage.
 
-## Vulture
+\mostro{Vulture}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str -2 Dex 0 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
@@ -33734,7 +33730,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 2 (1d4) piercing damage.
 
-## Swarm of Insects
+\mostro{Swarm of Insects}
 - **Size/Type**: Medium swarm of Tiny beasts, unaligned
 - **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -33749,7 +33745,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-## Winter Wolf
+\mostro{Winter Wolf}
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 4 Dex 1 Con 2 Int -2 Wis 1 Cha -1
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
@@ -33769,7 +33765,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 ***Cold Breath (Recharge 5-6).*** The wolf exhales a blast of freezing wind in a 5-meter cone. Each creature in that area must make a DC 15 Reflex Saving Throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 
-## Wolf
+\mostro{Wolf}
 - **Size/Type**: Medium beast, unaligned
 - **Ability**: Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
@@ -33785,7 +33781,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 
 *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
-## Worg
+\mostro{Worg}
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 3 Dex 1 Con 1 Int -2 Wis 0 Cha -1
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -33822,7 +33818,7 @@ Some example magic items are described later in this document.
 
 Fighters are individuals who earn a living by putting their sword in service to an individual or an ideal.
 
-## Guard
+\mostro{Guard}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha 0
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -33836,7 +33832,7 @@ Guards include members of the city watch, sentinels in a citadel or fortified to
 
 *Hit:* 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
-## Veteran
+\mostro{Veteran}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis 0 Cha 0
 - **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
@@ -33862,7 +33858,7 @@ Warriors who have survived long, earning a great reputation as expert and skille
 
 *Hit:* 6 (1d10 + 1) piercing damage.
 
-## Knight
+\mostro{Knight}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha 2
 - **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
@@ -33891,7 +33887,7 @@ Knights are fighters who swear allegiance to rulers, religious orders, and noble
 This category includes individuals who keep the world running, performing the necessary tasks to ensure that fields are cultivated, cities are administered, food is grown and
 new territories are explored.
 
-## Noble
+\mostro{Noble}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 1 Con 0 Int 1 Wis 2 Cha 3
 - **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
@@ -33909,7 +33905,7 @@ Nobles command the population by virtue of birthright or accumulated wealth. Amo
 
 **Reactions*Parry.*** The noble adds 2 to its Defense against a melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
-## Commoner
+\mostro{Commoner}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 0 Con 0 Int 0 Wis 0 Cha 0
 - **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
@@ -33928,7 +33924,7 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 
 Criminals are individuals who live on the edge of legality, making their living by engaging in activities often considered illegal and immoral.
 
-## Bandit/Pirate
+\mostro{Bandit/Pirate}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 0
 - **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
@@ -33947,7 +33943,7 @@ Whether they are men of the street or the sea (pirates), these individuals make 
 
 *Hit:* 5 (1d8 + 1) slashing damage.
 
-## Spy
+\mostro{Spy}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 2 Con 0 Int 1 Wis 2 Cha 3
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
@@ -33972,7 +33968,7 @@ A spy is an individual trained in gathering secrets for someone, or sometimes to
 
 *Hit:* 5 (1d6 + 2) piercing damage.
 
-## Bandit Captain or Pirate
+\mostro{Bandit Captain or Pirate}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 2 Dex 3 Con 2 Int 2 Wis 0 Cha 2
 - **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
@@ -33996,7 +33992,7 @@ Whether living on land or at sea, this is an individual with a great personality
 
 **Reactions*Parry.*** The captain adds 2 to their Defense against a melee attack that would hit them. To do so, the captain must see the attacker and be wielding a melee weapon.
 
-## Assassin
+\mostro{Assassin}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 3 Con 2 Int 1 Wis 0 Cha 0
 - **Hit Points**: 162,  **Defense:** 25,  **Initiative:** +3
@@ -34030,7 +34026,7 @@ Solitary or members of a guild, assassins are paid to eliminate, often silently 
 
 The wizard spends their life studying and practicing magic.
 
-## Adventuring Wizard
+\mostro{Adventuring Wizard}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str -1 Dex 2 Con 0 Int 2 Wis 1 Cha 0
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +3
@@ -34054,7 +34050,7 @@ level 2 (3 slots): *Hold Person, Misty Step*
 
 *Hit:* 3 (1d8 - 1) bludgeoning damage.
 
-## Great Wizard
+\mostro{Great Wizard}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str -1 Dex 2 Con 0 Int 3 Wis 1 Cha 0
 - **Hit Points**: 122,  **Defense:** 22,  **Initiative:** +3
@@ -34086,7 +34082,7 @@ level 5 (1 slot): *Cone of Cold*
 
 **Reaction: *Opportunistic Spell***: the wizard reacts to an attack by casting a cantrip.
 
-## Archmage
+\mostro{Archmage}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 2 Con 1 Int 5 Wis 2 Cha 3
 - **Hit Points**: 233,  **Defense:** 30,  **Initiative:** +5
@@ -34134,7 +34130,7 @@ The archmage casts these {*} spells on itself before combat.
 
 Priests are devoted to a deity or faith who take care of imparting divine teachings to their flock.
 
-## Cultist
+\mostro{Cultist}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 1 Con 0 Int 0 Wis 0 Cha 0
 - **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
@@ -34152,7 +34148,7 @@ Cultists swear allegiance to dark powers, and in their beliefs and practices oft
 
 *Hit:* 4 (1d6 + 1) slashing damage.
 
-## Acolyte
+\mostro{Acolyte}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 0 Con 0 Int 0 Wis 2 Cha 0
 - **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
@@ -34174,7 +34170,7 @@ level 1 (3 slots): *Bless, Cure Wounds, Sanctuary*
 
 *Hit:* 2 (1d4) bludgeoning damage.
 
-## Acolyte
+\mostro{Cult leader}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 2
 - **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
@@ -34202,7 +34198,7 @@ level 2 (3 slots): *Spiritual Weapon, Hold Person*
 
 *Hit:* 4 (1d4 + 2) piercing damage.
 
-## High Priest
+\mostro{High Priest}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 0 Con 1 Int 1 Wis 3 Cha 1
 - **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +1
@@ -34233,7 +34229,7 @@ level 3 (2 slots): *Dispel Magic*
 
 These individuals live on the fringes of civilization, sometimes rarely coming into contact with it. Uncomfortable within walls and in civilized lands, they are in their element when they can move through the wilderness.
 
-## Berserker
+\mostro{Berserker}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 3 Dex 1 Con 3 Int -1 Wis 0 Cha -1
 - **Hit Points**: 52,  **Defense:** 15,  **Initiative:** +1
@@ -34250,7 +34246,7 @@ Coming from wild lands, unpredictable berserkers gather in war bands and are alw
 
 *Hit:* 9 (1d12 + 3) slashing damage.
 
-## Tribal Warrior
+\mostro{Tribal Warrior}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 1 Dex 0 Con 1 Int -1 Wis 0 Cha -1
 - **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
@@ -34267,7 +34263,7 @@ They are the defenders of tribes living on the fringes of civilization.
 
 *Hit:* 4 (1d6 + 1) piercing damage
 
-## Druid
+\mostro{Druid}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 1 Con 1 Int 1 Wis 2 Cha 0
 - **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
@@ -34291,7 +34287,7 @@ level 2 (3 slots): *Animal Messenger, Barkskin*
 
 *Hit:* 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with *Shillelagh* or if wielded with two hands.
 
-## Scout
+\mostro{Scout}
 - **Size/Type**: Medium humanoid, any Trait
 - **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 0
 - **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
@@ -34863,7 +34859,6 @@ At my gaming table, I usually propose these Options, to be decided in Session Ze
 - Partial Success page 
 - Optional - List of Weapon Maneuvers (page ) to make fumbling less *boring*...
 - One Belief or List Feats, at the player's choice.
-- Components as Offerings for a personal, different, and unique magic, always tied to the character. Page 
 - Iconic Feats for long campaigns. Page 
 - Drugs **NO**. Only for groups composed of mentally mature and adult people. Page 
 - **No to using a timer on Lights**: if your adventures are not set in dungeons or you want a more streamlined management, don't manage light duration in real-time.
