@@ -126,6 +126,8 @@ sed -i 's#| {\\textwidth}{|>{\\raggedright}l|c|c|c|c|} |#| **Professione** | **1
 sed -i '/| \*\*Professione\*\* | \*\*1 punto\*\* | \*\*2 punti\*\* | \*\*2 punti\*\* | \*\*3 punti\*\* |/{n;s/| --- | --- | --- | --- | --- | --- | --- |/| --- | --- | --- | --- | --- |/;}' OBSSv2.md
 sed -i '/| \*\*Vantaggio \/ Svantaggio\*\* | \*\*Prove\*\* | |/{n;s/| --- | --- |/| --- | --- |---|/;}' OBSSv2.md
 sed -i '/| A | G | D |/{n;n;s/| B | | E |/| B | **X**| E |/;}' OBSSv2.md
+sed -i 's/\\oggettomagico{\([^}]*\)}/### \1/g' OBSSv2.md
+sed -i 's/\\mostro{\([^}]*\)}/### \1/g' OBSSv2.md
 
 sed -i 's/\\cline{[^}]*}//g' OBSSv2-eng.md
 sed -i '/Old Bell School System/c**Old Bell School System - OBSS - Fantasy Adventure Game**' OBSSv2-eng.md
@@ -259,6 +261,8 @@ sed -i 's/\\textbf{Spell level 1+\*\*}/Spell level 1+**/g'  OBSSv2-eng.md
 sed -i 's/\\textbf{participatory\*\*/participatory**/g' OBSSv2-eng.md
 sed -i 's#| {\\textwidth}{|>{\\raggedright}l|c|c|c|c|} |#| **Profession** | **1pt** | **2pts** | **2pts** | **3pts** |#' OBSSv2-eng.md
 sed -i '/| \*\*Profession\*\* | \*\*1pt\*\* | \*\*2pts\*\* | \*\*2pts\*\* | \*\*3pts\*\* |/{N;N;s/| \*\*Profession\*\* | \*\*1pt\*\* | \*\*2pts\*\* | \*\*2pts\*\* | \*\*3pts\*\* |\n| --- | --- | --- | --- | --- | --- | --- |\n| \*\*Profession\*\* | \*\*1pt\*\* | \*\*2pts\*\* | \*\*2pts\*\* | \*\*3pts\*\* |/| \*\*Profession\*\* | \*\*1pt\*\* | \*\*2pts\*\* | \*\*2pts\*\* | \*\*3pts\*\* |\n| --- | --- | --- | --- | --- | --- | --- |/;}' OBSSv2-eng.md
+sed -i 's/\\oggettomagico{\([^}]*\)}/### \1/g' OBSSv2-eng.md
+sed -i 's/\\mostro{\([^}]*\)}/### \1/g' OBSSv2-eng.md
 
 
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2.md > obtemp.md && mv obtemp.md OBSSv2.md
