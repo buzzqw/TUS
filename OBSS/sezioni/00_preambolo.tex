@@ -289,6 +289,50 @@ Ligatures=TeX
 	}%
 }
 
+\NewDocumentCommand{\feat}{m}{
+	\noindent\rule{\linewidth}{2pt}
+	\index[Abilita]{#1}\hypertarget{#1}{}\label{#1}
+	\vspace{-5.5mm}
+	\begin{tcolorbox}[
+		colback=OBSSgold!12, colframe=OBSSgold,
+		boxrule=1.5pt, arc=3pt, boxsep=1pt,
+		left=6pt, right=6pt, top=3pt, bottom=3pt
+		]
+		\centering\textbf{\textcolor{OBSSgold!80!black}{#1}}
+	\end{tcolorbox}
+	\pdfbookmark[3]{#1}{#1}
+%	\vspace{1mm}\noindent
+}
+
+\NewDocumentCommand{\incantesimo}{m}{
+	\noindent\rule{\linewidth}{2pt}
+	\index[Incantesimi]{#1}\hypertarget{#1}{}\label{#1}
+	\vspace{-5.5mm}
+	\begin{tcolorbox}[
+		colback=OBSSgold!12, colframe=OBSSgold,
+		boxrule=1.5pt, arc=3pt, boxsep=1pt,
+		left=6pt, right=6pt, top=3pt, bottom=3pt
+		]
+		\centering\textbf{\textcolor{OBSSgold!80!black}{#1}}
+	\end{tcolorbox}
+	\pdfbookmark[3]{#1}{#1}
+	%	\vspace{1mm}\noindent
+}
+
+
+%\NewDocumentCommand{\feat}{m}{
+%	\noindent\rule{\linewidth}{2pt}
+%	\index[Abilita]{#1}\hypertarget{#1}{}\label{#1}
+%	\vspace{-6mm}
+%	\noindent
+%	\begin{center}
+%		\textcolor{OBSSgold}{\rule{0.1\linewidth}{1pt}} 		{\textbf{\textcolor{OBSSgold}{#1}}} 		\textcolor{OBSSgold}{\rule{0.1\linewidth}{1pt}}
+%	\end{center}
+%	\pdfbookmark[3]{#1}{#1}
+%	\vspace{-1mm}
+%	\noindent
+%}
+
 % ========== SISTEMA TABELLE COLORATE ==========
 \newcommand{\obsscurrentcolor}{Coral}
 \newcommand{\obsssetcolor}[1]{\renewcommand{\obsscurrentcolor}{#1}}

@@ -120,17 +120,47 @@ public class Latex2MarkDown {
         // Remove comments AFTER multicolumn processing
         content = content.replaceAll("(?m)^\\s*%.*$", "");
         
-        // Extract spell/ability names from headers
-        Pattern spellHeaderPattern = Pattern.compile(
+        // ============================================
+        // SECTION: Handle incantesimi and feat headers
+        // ============================================
+        
+        // Extract incantesimo names from headers - handle \incantesimo{Nome dell'Incantesimo}
+        Pattern incantesimoPattern = Pattern.compile(
+            "\\\\incantesimo\\{([^}]+)\\}(?:\\\\label\\{[^}]+\\})?", 
+            Pattern.DOTALL
+        );
+        Matcher incantesimoMatcher = incantesimoPattern.matcher(content);
+        StringBuffer sb_incantesimo = new StringBuffer();
+        while (incantesimoMatcher.find()) {
+            incantesimoMatcher.appendReplacement(sb_incantesimo, Matcher.quoteReplacement("\n\n### " + incantesimoMatcher.group(1) + "\n"));
+        }
+        incantesimoMatcher.appendTail(sb_incantesimo);
+        content = sb_incantesimo.toString();
+        
+        // Extract feat names from headers - handle NEW format first: \feat{Nome del Feat}
+        Pattern newFeatPattern = Pattern.compile(
+            "\\\\feat\\{([^}]+)\\}(?:\\\\label\\{[^}]+\\})?", 
+            Pattern.DOTALL
+        );
+        Matcher newFeatMatcher = newFeatPattern.matcher(content);
+        StringBuffer sb_newfeat = new StringBuffer();
+        while (newFeatMatcher.find()) {
+            newFeatMatcher.appendReplacement(sb_newfeat, Matcher.quoteReplacement("\n\n## " + newFeatMatcher.group(1) + "\n"));
+        }
+        newFeatMatcher.appendTail(sb_newfeat);
+        content = sb_newfeat.toString();
+        
+        // Extract feat names from headers - handle OLD format: \smallskip\noindent\rule...\textbf{Nome}...
+        Pattern oldFeatHeaderPattern = Pattern.compile(
             "\\\\smallskip\\\\noindent\\\\rule\\{[^}]+\\}\\{[^}]+\\}[^\\n]*\\\\textbf\\{([^}]+)\\}[^\\n]*", 
             Pattern.DOTALL
         );
-        Matcher spellMatcher = spellHeaderPattern.matcher(content);
+        Matcher oldFeatMatcher = oldFeatHeaderPattern.matcher(content);
         StringBuffer sb = new StringBuffer();
-        while (spellMatcher.find()) {
-            spellMatcher.appendReplacement(sb, Matcher.quoteReplacement("\n\n## " + spellMatcher.group(1) + "\n"));
+        while (oldFeatMatcher.find()) {
+            oldFeatMatcher.appendReplacement(sb, Matcher.quoteReplacement("\n\n## " + oldFeatMatcher.group(1) + "\n"));
         }
-        spellMatcher.appendTail(sb);
+        oldFeatMatcher.appendTail(sb);
         content = sb.toString();
         
         // Remove rule commands (horizontal lines)
@@ -145,6 +175,18 @@ public class Latex2MarkDown {
         
         // Handle special escaped characters
         content = content.replaceAll("\\\\&", "&");
+        
+        // ============================================
+        // SECTION: Handle colorbox for incantesimi BEFORE removing minipage environments
+        // ============================================
+        
+        content = processColorboxes(content);
+        
+        // ============================================
+        // SECTION: Convert \textbf{} to markdown bold - THIS IS THE CORE CONVERSION
+        // ============================================
+        
+        content = convertTextbfToMarkdown(content);
         
         // Remove figure environments completely
         content = content.replaceAll("(?s)\\\\begin\\{figure\\}.*?\\\\end\\{figure\\}", "");
@@ -208,7 +250,7 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\[roundcorner=[^\\]]*\\]", "");
         
         // ============================================
-        // UPDATED SECTION: Handle NEW custom environments from the updated preamble
+        // SECTION: Handle custom environments
         // ============================================
         
         // Handle 'narratore' environment with optional parameter
@@ -357,12 +399,13 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\\\FatePoint", "•");
         content = content.replaceAll("\\\\FatePoints\\{([0-9]+)\\}", generateFatePoints("$1"));
         
-        // Handle color commands for tables
-        content = content.replaceAll("\\\\(?:obssgrey|obsspurple|obssblue|obssgreen|obsscoral)", "");
+        // Handle color commands for tables and colorbox
+        content = content.replaceAll("\\\\(?:obssgrey|obsspurple|obssblue|obssgreen|obsscoral|OBSSgold)", "");
         content = content.replaceAll("\\\\obsssetcolor\\{[^}]*\\}", "");
         content = content.replaceAll("\\\\arrayrulecolor\\{[^}]*\\}", "");
         content = content.replaceAll("\\\\setlength\\{\\\\arrayrulewidth\\}\\{[^}]*\\}", "");
         content = content.replaceAll("\\\\rowcolors\\{[^}]*\\}\\{[^}]*\\}\\{[^}]*\\}", "");
+        content = content.replaceAll("\\\\colorbox\\{[^}]*\\}\\{([^}]*)\\}", "$1");
         
         // Handle font size commands
         content = content.replaceAll("\\\\(?:Huge|LARGE|Large|large)\\s*", "");
@@ -377,6 +420,17 @@ public class Latex2MarkDown {
         Matcher itemMatcher = itemPattern.matcher(content);
         StringBuffer sb5 = new StringBuffer();
         while (itemMatcher.find()) {
+            // Check if this match is part of an already processed markdown bullet point
+            int matchStart = itemMatcher.start();
+            int lineStart = content.lastIndexOf('\n', matchStart) + 1;
+            String currentLine = content.substring(lineStart, content.indexOf('\n', matchStart));
+            
+            // Skip if this line already starts with "* **" (already processed by colorbox)
+            if (currentLine.trim().startsWith("* **")) {
+                itemMatcher.appendReplacement(sb5, Matcher.quoteReplacement(itemMatcher.group(0)));
+                continue;
+            }
+            
             String label = itemMatcher.group(1);
             // Remove trailing colon if present
             if (label.endsWith(":")) {
@@ -408,23 +462,7 @@ public class Latex2MarkDown {
         content = content.replaceAll("(?m)^\\s*\\t+\\s*-", "-");
         content = content.replaceAll("(?m)^\\s{4,}-", "-");
         
-        // Handle text formatting - fix textbf with empty or single character content
-        content = content.replaceAll("\\\\textbf\\{\\}", "");
-        
-        Pattern textbfPattern = Pattern.compile("\\\\textbf\\{([^}]*)\\}");
-        Matcher textbfMatcher = textbfPattern.matcher(content);
-        StringBuffer sb6 = new StringBuffer();
-        while (textbfMatcher.find()) {
-            String content_inner = textbfMatcher.group(1);
-            if (!content_inner.trim().isEmpty()) {
-                textbfMatcher.appendReplacement(sb6, Matcher.quoteReplacement("**" + content_inner + "**"));
-            } else {
-                textbfMatcher.appendReplacement(sb6, "");
-            }
-        }
-        textbfMatcher.appendTail(sb6);
-        content = sb6.toString();
-        
+        // Handle other text formatting
         content = content.replaceAll("\\\\textit\\{([^}]+)\\}", "*$1*");
         content = content.replaceAll("\\\\emph\\{([^}]+)\\}", "*$1*");
         content = content.replaceAll("\\\\textsc\\{([^}]+)\\}", "$1");
@@ -451,6 +489,124 @@ public class Latex2MarkDown {
         content = content.replaceAll("\\\\\\\\", "\n");
         
         // Convert table separators and create proper markdown tables
+        content = createMarkdownTables(content);
+        
+        // ============================================
+        // SECTION: Final cleanup
+        // ============================================
+        
+        // Clean up leftover artifacts
+        content = cleanupArtifacts(content);
+        
+        // Remove excessive whitespace
+        content = content.replaceAll("\n{3,}", "\n\n");
+        content = content.trim();
+        
+        return content;
+    }
+    
+    // ============================================
+    // HELPER METHODS
+    // ============================================
+    
+    /**
+     * Process colorboxes for incantesimi and convert to markdown lists
+     */
+    private static String processColorboxes(String content) {
+        String processedContent = content;
+        int searchStart = 0;
+        
+        while (true) {
+            int colorboxStart = processedContent.indexOf("\\noindent\\colorbox{OBSSgold!10}{", searchStart);
+            if (colorboxStart == -1) break;
+            
+            // Find the opening brace of the content
+            int contentStart = colorboxStart + "\\noindent\\colorbox{OBSSgold!10}{".length();
+            
+            // Now we need to find the matching closing brace
+            int braceCount = 1;
+            int pos = contentStart;
+            int contentEnd = -1;
+            
+            while (pos < processedContent.length() && braceCount > 0) {
+                char ch = processedContent.charAt(pos);
+                if (ch == '{') {
+                    braceCount++;
+                } else if (ch == '}') {
+                    braceCount--;
+                }
+                pos++;
+            }
+            
+            if (braceCount == 0) {
+                contentEnd = pos - 1; // pos-1 because we incremented after finding the closing brace
+                
+                // Extract the content between the braces
+                String colorboxContent = processedContent.substring(contentStart, contentEnd);
+                
+                // Look for \smallskip after the colorbox
+                int smallskipPos = processedContent.indexOf("\\smallskip", contentEnd);
+                int replaceEnd = smallskipPos != -1 ? smallskipPos + "\\smallskip".length() : contentEnd + 1;
+                
+                // Extract individual items from this colorbox content
+                Pattern itemPattern = Pattern.compile("\\\\item\\[\\\\textbf\\{([^}]+)\\}\\]:\\s*([^\\n]+)");
+                Matcher itemMatcher = itemPattern.matcher(colorboxContent);
+                
+                StringBuilder bulletList = new StringBuilder();
+                while (itemMatcher.find()) {
+                    String label = itemMatcher.group(1);
+                    String value = itemMatcher.group(2).trim();
+                    // Clean the value from any LaTeX artifacts
+                    value = value.replaceAll("\\\\[a-zA-Z]+(?:\\{[^}]*\\})?", "");
+                    value = value.replaceAll("\\s+", " ").trim();
+                    bulletList.append("* **").append(label).append("**: ").append(value).append("\n");
+                }
+                
+                // Replace the entire colorbox structure with the bullet list
+                String beforeColorbox = processedContent.substring(0, colorboxStart);
+                String afterColorbox = processedContent.substring(replaceEnd);
+                processedContent = beforeColorbox + bulletList.toString() + afterColorbox;
+                
+                // Adjust search start position
+                searchStart = colorboxStart + bulletList.length();
+            } else {
+                searchStart = contentStart;
+            }
+        }
+        
+        return processedContent;
+    }
+    
+    /**
+     * Convert all \textbf{} commands to markdown bold format
+     * This is the core conversion that should work reliably
+     */
+    private static String convertTextbfToMarkdown(String content) {
+        // First, clean up any empty textbf commands
+        content = content.replaceAll("\\\\textbf\\{\\}", "");
+        
+        // Convert \textbf{content} to **content**
+        Pattern textbfPattern = Pattern.compile("\\\\textbf\\{([^}]*)\\}");
+        Matcher textbfMatcher = textbfPattern.matcher(content);
+        StringBuffer sb = new StringBuffer();
+        
+        while (textbfMatcher.find()) {
+            String textbfContent = textbfMatcher.group(1);
+            if (!textbfContent.trim().isEmpty()) {
+                textbfMatcher.appendReplacement(sb, Matcher.quoteReplacement("**" + textbfContent + "**"));
+            } else {
+                textbfMatcher.appendReplacement(sb, "");
+            }
+        }
+        textbfMatcher.appendTail(sb);
+        
+        return sb.toString();
+    }
+    
+    /**
+     * Create proper markdown tables from LaTeX table syntax
+     */
+    private static String createMarkdownTables(String content) {
         String[] lines = content.split("\n");
         StringBuilder result = new StringBuilder();
         boolean inTable = false;
@@ -459,61 +615,46 @@ public class Latex2MarkDown {
         for (int i = 0; i < lines.length; i++) {
             String line = lines[i].trim();
             
-            // Check if this line looks like a table row, but exclude blockquotes and be more restrictive
+            // Check if this line looks like a table row
             if (line.contains("|") && !line.startsWith(">") && !line.startsWith("###")) {
-                // Additional check: make sure it's actually a table and not just text with |
                 long pipeCount = line.chars().filter(ch -> ch == '|').count();
                 
-                // Check for different table patterns - be more inclusive for simple tables
-                if ((pipeCount >= 1 && (line.matches(".*\\w+:\\s*\\|.*") || 
-                      line.matches(".*\\*[^*]+\\*:\\s*\\|.*"))) ||
-                    (pipeCount >= 2 && line.contains("**") && 
-                     (line.matches(".*\\*\\*[^*]+\\*\\*\\s*\\|.*\\*\\*[^*]+\\*\\*.*") ||
-                      line.matches(".*[0-9]+\\s*\\|.*[0-9]+\\s*\\|.*") ||
-                      line.matches(".*\\*\\*[^*]+\\*\\*\\s*\\|.*"))) ||
-                    (pipeCount >= 1 && line.matches(".*[A-Za-z0-9].*\\|.*[A-Za-z0-9$±\\-+*].*")) ||
-                    // Special case for incomplete table rows that need fixing
-                    (line.matches("^[0-9]+\\s+\\|.*") || line.matches("^[0-9]+\\s.*\\|.*")) ||
-                    // Handle lines that start with text and contain |
-                    (pipeCount >= 1 && line.matches("^[A-Za-z].*\\|.*"))) {
+                // More inclusive check for table rows
+                if (pipeCount >= 1 && (
+                    line.matches(".*\\*\\*[^*]+\\*\\*.*\\|.*") ||  // Has bold headers
+                    line.matches(".*[A-Za-z0-9()±\\-+.]+.*\\|.*") ||  // Has content
+                    line.matches("^\\|.*\\|$") ||  // Starts and ends with |
+                    line.matches(".*\\d+.*\\|.*") ||  // Contains numbers
+                    line.matches(".*\\([^)]+\\).*\\|.*")  // Contains parentheses
+                )) {
                     
                     if (!inTable) {
                         inTable = true;
                         headerAdded = false;
-                        // Add an empty line before table if previous line exists and isn't empty
+                        // Add empty line before table
                         if (result.length() > 0 && !result.toString().endsWith("\n\n")) {
                             result.append("\n");
                         }
                     }
                     
-                    // Fix rows that start with number but no | (like "8 | 8 | 0 | 8d6+24 |")
-                    if (line.matches("^[0-9]+\\s+.*\\|.*") && !line.startsWith("|")) {
+                    // Ensure line starts and ends with |
+                    if (!line.startsWith("|")) {
                         line = "| " + line;
                     }
-                    // Add table prefix if not already there
-                    else if (!line.startsWith("|")) {
-                        line = "| " + line;
-                    }
-                    
-                    // Make sure line ends with |
                     if (!line.endsWith("|")) {
                         line = line + " |";
                     }
                     
                     result.append(line).append("\n");
                     
-                    // Add separator after first row (header)
-                    if (!headerAdded) {
+                    // Add separator after first row if it looks like a header
+                    if (!headerAdded && line.contains("**")) {
                         String separator = createTableSeparator(line);
                         result.append(separator).append("\n");
                         headerAdded = true;
                     }
                 } else {
-                    // Not a table row, just regular text that happens to contain |
-                    // Remove trailing | from non-table lines
-                    if (line.endsWith(" |")) {
-                        line = line.substring(0, line.length() - 2).trim();
-                    }
+                    // Not a table row
                     if (inTable) {
                         inTable = false;
                         headerAdded = false;
@@ -522,7 +663,7 @@ public class Latex2MarkDown {
                     result.append(line).append("\n");
                 }
             } else {
-                if (inTable && !line.isEmpty() && !line.startsWith("###")) {
+                if (inTable && !line.isEmpty()) {
                     inTable = false;
                     headerAdded = false;
                     result.append("\n"); // Add spacing after table
@@ -530,7 +671,57 @@ public class Latex2MarkDown {
                 result.append(lines[i]).append("\n");
             }
         }
-        content = result.toString();
+        
+        return result.toString();
+    }
+    
+    /**
+     * Create table separator row
+     */
+    private static String createTableSeparator(String headerLine) {
+        // Count the number of columns in the header by counting pipes
+        String[] columns = headerLine.split("\\|");
+        StringBuilder separator = new StringBuilder("|");
+        
+        // Count actual columns (excluding empty first/last if they exist due to leading/trailing |)
+        int columnCount = 0;
+        for (int i = 0; i < columns.length; i++) {
+            String col = columns[i].trim();
+            if (!col.isEmpty() || (i > 0 && i < columns.length - 1)) {
+                columnCount++;
+            }
+        }
+        
+        // If line starts and ends with |, we need one separator per column between pipes
+        if (headerLine.trim().startsWith("|") && headerLine.trim().endsWith("|")) {
+            // For "| col1 | col2 | col3 | col4 |" we need "| --- | --- | --- | --- |"
+            for (int i = 0; i < columnCount; i++) {
+                separator.append(" --- |");
+            }
+        } else {
+            // For lines without leading/trailing pipes
+            for (int i = 0; i < columnCount; i++) {
+                separator.append(" --- |");
+            }
+        }
+        
+        return separator.toString();
+    }
+    
+    /**
+     * Clean up leftover LaTeX artifacts and formatting issues
+     */
+    private static String cleanupArtifacts(String content) {
+        // Clean up leftover textbf artifacts and environment remnants
+        content = content.replaceAll("\\\\textbf(?:\\s|$)", "");
+        content = content.replaceAll("\\*\\*\\s*\\*\\*", "");
+        content = content.replaceAll("\\*\\*\\*\\*", "");
+        
+        // Fix pattern where ** gets removed from the beginning of textbf conversions
+        content = content.replaceAll("(?m)^([A-Z][^*\\n]*?)\\*\\*:", "**$1**:");
+        content = content.replaceAll("(?m)^\\s*([A-Z][^*\\n]*?)\\*\\*:", "**$1**:");
+        content = content.replaceAll("(?m)^\\s*([A-Z][^*\\n]*?)\\*\\*\\s*$", "**$1**");
+        content = content.replaceAll("(?m)^\\s*([A-Z][^*\\n]*?)\\*\\*\\s", "**$1** ");
         
         // Clean up
         content = content.replaceAll("\\*\\*([^*]+):\\*\\*:", "**$1**:");
@@ -545,11 +736,6 @@ public class Latex2MarkDown {
         content = content.replaceAll("(?m)^\\s*%%\\s*$", "");
         content = content.replaceAll("(?m)^\\s*%[^\\n]*$", "");
         content = content.replaceAll("(?m)^\\s*>\\s*$", "");
-        
-        // Clean up leftover textbf artifacts and environment remnants
-        content = content.replaceAll("\\\\textbf(?:\\s|$)", "");
-        content = content.replaceAll("\\*\\*\\s*\\*\\*", "");
-        content = content.replaceAll("\\*\\*\\*\\*", "");
         
         // Remove leftover braces from content and trailing }
         content = content.replaceAll("(?m)^\\s*\\{\\s*$", "");
@@ -593,41 +779,7 @@ public class Latex2MarkDown {
         // Remove font awesome icons
         content = content.replaceAll("\\\\fa[A-Za-z]+", "");
         
-        // Remove excessive whitespace
-        content = content.replaceAll("\n{3,}", "\n\n");
-        content = content.trim();
-        
         return content;
-    }
-    
-    private static String createTableSeparator(String headerLine) {
-        // Count the number of columns in the header by counting pipes
-        String[] columns = headerLine.split("\\|");
-        StringBuilder separator = new StringBuilder("|");
-        
-        // Count actual columns (excluding empty first/last if they exist due to leading/trailing |)
-        int columnCount = 0;
-        for (int i = 0; i < columns.length; i++) {
-            String col = columns[i].trim();
-            if (!col.isEmpty() || (i > 0 && i < columns.length - 1)) {
-                columnCount++;
-            }
-        }
-        
-        // If line starts and ends with |, we need one separator per column between pipes
-        if (headerLine.trim().startsWith("|") && headerLine.trim().endsWith("|")) {
-            // For "| col1 | col2 | col3 | col4 |" we need "| --- | --- | --- | --- |"
-            for (int i = 0; i < columnCount; i++) {
-                separator.append(" --- |");
-            }
-        } else {
-            // For lines without leading/trailing pipes
-            for (int i = 0; i < columnCount; i++) {
-                separator.append(" --- |");
-            }
-        }
-        
-        return separator.toString();
     }
     
     // Helper method to generate fate points

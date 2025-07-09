@@ -11,10 +11,9 @@ sed -i 's/D | D/D\&D/g' OBSSv2.md
 sed -i 's/(pag\. )//g' OBSSv2.md
 sed -i 's/\\cmidrule(lr)//g' OBSSv2.md
 sed -i 's/%box narratore//g' OBSSv2.md
-sed -i "s/'\\*\\*/' \\*\\*/g" OBSSv2.md
-sed -i 's/\\hskip 0\.5cm//g' OBSSv2.md
+#sed -i 's/'\''\\*\\*/'\'' \\*\\*/g' OBSSv2.md
 sed -i '/| \*\*CM\*\* | \*\*PM\*\* | \*\*CM\*\* | \*\*PM\*\* | \*\*CM\*\* | \*\*PM\*\* |/a|---|---|---|---|---|---|' OBSSv2.md
-sed -i 's/\\textbf//g' OBSSv2.md
+#sed -i 's/\\textbf//g' OBSSv2.md
 sed -i '/| \*\*d\\%\*\* | \*\*Meteo\*\* | \*\*Clima Freddo\*\* | \*\*Clima Temperato {\*\*\*} | \*\*Deserto\*\* |/a|---|---|---|---|---|' OBSSv2.md
 sed -i 's/| \*\*Minatore\*\* | \*\*Materiale da Scavare (1 minuto)\*\* |  | |/| **Minatore** | **Materiale da Scavare (1 minuto)** |  |/' OBSSv2.md
 sed -i '/| Livello PG | Minima | Pericolosa | Mortale |/a|---|---|---|---|' OBSSv2.md
@@ -105,6 +104,10 @@ sed -i '/| Ambiente:/,/| Organizzazione:/{
     /^Ambiente:/a\\
     /^Organizzazione:/a\\
 }' OBSSv2.md
+# Comandi semplici per sostituire la linea problematica:
+sed -i 's/| 8 | 1 | 2 |/|Tiro|di|Dado|\n|---|---|---|\n| 8 | 1 | 2 |/' OBSSv2.md
+sed -i 's/| 7 | | 3 |/| 7 | **X** | 3 |/' OBSSv2.md
+sed -i 's/| 6 | 5 | 4 |/| 6 | 5 | 4 |/' OBSSv2.md
 sed -i '/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |/{N;s/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n| 3 | Zeph | 11 | Mer |/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n|---|---|---|---|\n| 3 | Zeph | 11 | Mer |/;}' OBSSv2.md
 sed -i '/| \*\*2d6\*\* | \*\*Sillaba\*\* | \*\*2d6\*\* | \*\*Sillaba\*\* |/{N;s/| \*\*2d6\*\* | \*\*Sillaba\*\* | \*\*2d6\*\* | \*\*Sillaba\*\* |\n| 2 | - (salta) | 8 | ren |/| \*\*2d6\*\* | \*\*Sillaba\*\* | \*\*2d6\*\* | \*\*Sillaba\*\* |\n|---|---|---|---|\n| 2 | - (salta) | 8 | ren |/;}' OBSSv2.md
 sed -i '/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |/{N;s/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n| 3 | grim | 9 | dan | 15 | reth |/| \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* | \*\*3d6\*\* | \*\*Sillaba\*\* |\n|---|---|---|---|---|---|\n| 3 | grim | 9 | dan | 15 | reth |/;}' OBSSv2.md
@@ -122,11 +125,6 @@ sed -i 's/\\textbf{partecipativa\*\*/partecipativa**/g' OBSSv2.md
 sed -i 's#| {\\textwidth}{|>{\\raggedright}l|c|c|c|c|} |#| **Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |#' OBSSv2.md
 sed -i '/| \*\*Professione\*\* | \*\*1 punto\*\* | \*\*2 punti\*\* | \*\*2 punti\*\* | \*\*3 punti\*\* |/{n;s/| --- | --- | --- | --- | --- | --- | --- |/| --- | --- | --- | --- | --- |/;}' OBSSv2.md
 sed -i '/| \*\*Vantaggio \/ Svantaggio\*\* | \*\*Prove\*\* | |/{n;s/| --- | --- |/| --- | --- |---|/;}' OBSSv2.md
-sed -i '/| 8 | 1 | 2 |/{i\
-|Tiro|di|Dado|\
-|---|---|---|
-; s/| 8 | 1 | 2 |/| 8 | 1 | 2 |/; n; s/| 7 | | 3 |/| 7 | **X** | 3 |/; n; s/| 6 | 5 | 4 |/| 6 | 5 | 4 |/; n; s/| | si considera il bersaglio.*|\
-si considera il bersaglio dell'\''oggetto tirato. il punto di origine del lancio./}' OBSSv2.md
 sed -i '/| A | G | D |/{n;n;s/| B | | E |/| B | **X**| E |/;}' OBSSv2.md
 
 sed -i 's/\\cline{[^}]*}//g' OBSSv2-eng.md
@@ -135,7 +133,7 @@ sed -i 's/D | D/D\&D/g' OBSSv2-eng.md
 sed -i 's/(pag\. )//g' OBSSv2-eng.md
 sed -i 's/\\cmidrule(lr)//g' OBSSv2-eng.md
 sed -i 's/%box narratore//g' OBSSv2-eng.md
-sed -i "s/'\\*\\*/' \\*\\*/g" OBSSv2-eng.md
+sed -i 's/'\''\\*\\*/'\'' \\*\\*/g' OBSSv2-eng.md
 sed -i 's/\\hskip 0\.5cm//g' OBSSv2-eng.md
 sed -i '/| \*\*CM\*\* | \*\*PM\*\* | \*\*CM\*\* | \*\*PM\*\* | \*\*CM\*\* | \*\*PM\*\* |/a|---|---|---|---|---|---|' OBSSv2-eng.md
 sed -i 's/\\textbf//g' OBSSv2-eng.md
@@ -276,9 +274,3 @@ awk '/^$/{e++} !/^$/{e=0} e<=2' OBSSv2.md > obtemp && mv obtemp OBSSv2.md
 #sed -i "s/>> Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)/> Si può scoprire di più su una persona in un'ora di gioco che in un anno di conversazione. (Platone)/" OBSSv2.md
 #sed -i "s/Wang Chi: Sei pronto?/> Wang Chi: Sei pronto?/" OBSSv2.md
 #sed -i "s/Jack Burton: Io sono nato pronto! (Grosso guaio a Chinatown, Film 1986)/> Jack Burton: Io sono nato pronto! (Grosso guaio a Chinatown, Film 1986)/" OBSSv2.md
-
-
-
-
-
-

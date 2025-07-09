@@ -910,20 +910,19 @@ aggiornata versione POD 2025/06/10
 
 aggiornata versione POD 2025/07/04
 
-1.0.2 migliorie al layout elenco manovre d'arme,
+1.0.2 migliorie al layout elenco manovre d'arme, rinominato montagna umana in colosso, ordinamento alfabetico corretto per i feat nel manuale inglese, migliorato layout nella gestione feat del manuale inglese, tutti gli incantesimi hanno componente solo verbale e somatico eventuali componenti materiali servono alla prova di magia, aggiornato incantesimo viticcio perforante,
 
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
 - controllare immagini che non si vedono bene stampate
 - suggerimento per il narratore, non usare lo screen
-- opportunista valutare se darlo a quali mostri
 - stress, basso alto, bonus e malus, recupero
 - ipotesi togliere incantesimi di 7 8 9 livello. Togliere incantesimi inutili
 - spendere i soldi: oggetti magici (no), fortezze ?
 - separare il mostruario se pagine non sufficienti  (e 200+ pagine)
 - gestione morale mostri: CR+Forza/Saggezza vs TS Volonta' ???
-- morale Ostile, Non amichevole, Indifferrente, Amichevole, Disponibile ad aiutare
+- morale Ostile, Non amichevole, Indifferrente, Amichevole, Ben disposto
 - modificare durate fisse in incantesimi ed impostarle in base al valore di CM o somma Tratti
 - combattimento sociale, ampliare
 - piu' maledizioni

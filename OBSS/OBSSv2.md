@@ -762,7 +762,9 @@ La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabell
 | 3 (o meno) | -3 | 12-13-14 | +1 |
 | 4-5 | -2 | 15-16-17 | +2 |
 | 6-7-8 | -1 | 18 (o più) | +3 |
-| 9-10-11 | +0 |  | **Applicate i modificatori razziali!** |
+| 9-10-11 | +0 |  | |
+
+**Applicate i modificatori razziali!**
 
 >> **Tiriamo le Caratteristiche di Tups**: **Prima terzina**: \st,1,4,3 totale 8. Forza è -1
 
@@ -1225,9 +1227,9 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 **Tabella: Elenco delle Professioni e relative Competenze**
 
 | {\textwidth}{>{\raggedright}l|c|c|c|c} |
-| --- | --- | --- | --- | --- |
 	
 | **Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |
+| --- | --- | --- | --- | --- |
 | **Accolito** | Occulto | Storia o Geografia | Arcana | Religione |
 | **Alchimista** | Valutare | Natura | Erboristeria | Arcana |
 | **Allevatore** | Sopravvivenza | Seguire tracce | Gestire animali | Natura |
@@ -1898,7 +1900,7 @@ Per riconoscere un oggetto magico le sue capacità è necessaria una prova di **
 ### Arcana - Riconoscere un incantesimo  
 Mentre viene lanciato è una prova di **Arcana** a DC pari la 10 + livello dell'incantesimo. Costa una **Reazione**. Se fatto assieme al lancio di un Controincantesimo non costa Reazione.
 
-### Atletica*
+### Atletica* **1 Azione**
 
 La **distanza saltata in lungo** è pari a 30cm per risultato ottenuto nella prova, arrotondando all'intero più vicino. Es. se nella prova di saltare faccio 11, il salto sarà lungo 30cm*11=330cm=3 metri, con 16 nella prova è 30cm*16=480cm=5m.
 
@@ -1963,7 +1965,6 @@ Oggetti come Borsa da Guaritore (pag. ) e Fermasangue (pag. ) possono essere uti
 Alla **Difficoltà base di 15** si applicano i seguenti modificatori:
 
 | Se il terreno è molto morbido | DC -4 |
-| --- | --- |
 | Se il terreno è stabile | DC +5 |
 | Se il terreno è duro | DC +10 |
 | A seconda della taglia | DC $\pm4$ |
@@ -1974,7 +1975,6 @@ Alla **Difficoltà base di 15** si applicano i seguenti modificatori:
 | Cerca di occultare le tracce | DC +4 |
 
 ### Valutare
-
 DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +10, Leggendario +16. 3 Azioni
 
 ### Sopravvivenza
@@ -2510,7 +2510,7 @@ sono armi a spargimenti quelle che *spargono* il loro contenuto dove cadono, ad 
 
 In caso l'attacco manchi (di almeno 5) tirare un d8 e consultare questo schema per capire dove la fiala è caduta e tira un 2d6 per determinare lungo la direzione indicata dal d8 precedente a quanti metri è caduto distante dal bersaglio, ovvero contate i metri dal target.
 
-si considera il bersaglio dell'oggetto tirato. il punto di origine del lancio.
+**X** si considera il bersaglio dell'oggetto tirato. **0** il punto di origine del lancio.
 
 Ad esempio con il tiro del d8 faccio 5 e poi tirando 2d6 faccio 4, significa che la boccetta è caduta a destra del bersaglio a 4 metri.
 
@@ -2541,9 +2541,9 @@ Concedete un bonus o penalità ($\pm 1-2$) se non indicato diversamente) ogni qu
 | **Attaccante** |  | **Difensore** |
 | --- | --- | --- |
 | **Mod**. | *Situazione* | *Situazione* |
-| | Affaticato (1), Luce fioca | Affaticato (1) |
-| | Affaticato (2), Intralciato | Affaticato (2), Afferrato, Intralciato, Sorpreso |
-| | Affaticato (4), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale | Affaticato (4), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato |
+| **-1** | Affaticato (1), Luce fioca | Affaticato (1) |
+| **-2** | Affaticato (2), Intralciato | Affaticato (2), Afferrato, Intralciato, Sorpreso |
+| **-4** | Affaticato (4), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale | Affaticato (4), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato |
 | **-1d6** | Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato | |
 | **+2** | Fiancheggia, Posizione Sopraelevata, Attacca al spalle | Copertura leggera |
 | **+4** |  | Copertura media |
@@ -2807,51 +2807,51 @@ Usate questi esempi come delle linee guida per stimolare il personaggio a creare
 
 - **Attacchi agli occhi**
 
-- \textbf: Sabbia negli occhi. Entro la fine del tuo prossimo round l'avversario ha -2 al primo Tiro per Colpire
-- \textbf: Graffio agli occhi. Entro la fine del tuo prossimo round l'avversario ha -4 al Tiro per Colpire
-- \textbf: Bersaglio abbagliato. Tira 1d6, con 1-2-3 l'avversario ha mancato il suo attacco. Dura fino alla fine del prossimo round.
-- \textbf: Bersaglio accecato. Per 1d6 round, l'avversario considera tutti come invisibili.
-- \textbf: Orbo. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, se fallisce è accecato permanentemente, altrimenti subisce gli effetti del punto 4.
+- **1**: Sabbia negli occhi. Entro la fine del tuo prossimo round l'avversario ha -2 al primo Tiro per Colpire
+- **2**: Graffio agli occhi. Entro la fine del tuo prossimo round l'avversario ha -4 al Tiro per Colpire
+- **3**: Bersaglio abbagliato. Tira 1d6, con 1-2-3 l'avversario ha mancato il suo attacco. Dura fino alla fine del prossimo round.
+- **4**: Bersaglio accecato. Per 1d6 round, l'avversario considera tutti come invisibili.
+- **5**: Orbo. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, se fallisce è accecato permanentemente, altrimenti subisce gli effetti del punto 4.
 - **Attacchi all'arma**
 
-- \textbf: Colpisci l'arma. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 2 $ per differenza di taglia dell'arma, oppure lascia cadere l'arma
-- \textbf: Arma danneggiata. L'arma dell'avversario infligge una categoria di danno in meno
-- \textbf: Colpo alla mano. A causa del dolore entro la fine del tuo prossimo round l'avversario perde i primi due attacchi
-- \textbf: Disarmi l'avversario. L'avversario lascia cadere l'arma
-- \textbf: Mano compromessa. L'avversario fino all'alba del giorno successivo ha -4 al Tiro per Colpire
+- **1**: Colpisci l'arma. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 2 $ per differenza di taglia dell'arma, oppure lascia cadere l'arma
+- **2**: Arma danneggiata. L'arma dell'avversario infligge una categoria di danno in meno
+- **3**: Colpo alla mano. A causa del dolore entro la fine del tuo prossimo round l'avversario perde i primi due attacchi
+- **4**: Disarmi l'avversario. L'avversario lascia cadere l'arma
+- **5**: Mano compromessa. L'avversario fino all'alba del giorno successivo ha -4 al Tiro per Colpire
 - **Spintoni e Slanci**
 
-- \textbf: Allontani l'avversario di 3 metri, $ \pm 1$ per taglia di differenza
-- \textbf: Ti puoi spostare di una Azione di Movimento come Reazione. Tratti il terreno come difficile
-- \textbf: Come punto 1 ma la distanza iniziale è di 6 metri
-- \textbf: Ti puoi spostare di una Azione di Movimento come Reazione
-- \textbf: Come punto 1 ma la distanza iniziale è di 9 metri
-- \textbf: Come punto 3 e puoi spostarti con l'avversario
+- **1**: Allontani l'avversario di 3 metri, $ \pm 1$ per taglia di differenza
+- **1**: Ti puoi spostare di una Azione di Movimento come Reazione. Tratti il terreno come difficile
+- **2**: Come punto 1 ma la distanza iniziale è di 6 metri
+- **2**: Ti puoi spostare di una Azione di Movimento come Reazione
+- **3**: Come punto 1 ma la distanza iniziale è di 9 metri
+- **4**: Come punto 3 e puoi spostarti con l'avversario
 - **Sgambetti**
 
-- \textbf: Spallata. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 4 $ per taglia differenza o cadere prono
-- \textbf: Sgambetto. L'avversario esegue un Tiro Salvezza su Riflessi DC 19, $ \pm 2 $ per taglia differenza o cadere prono
-- \textbf: Spinta. L'avversario esegue un Tiro Salvezza su Tempra DC 23, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d6 metri
-- \textbf: Urto. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d10 metri
+- **1**: Spallata. L'avversario esegue un Tiro Salvezza su Tempra DC 15, $ \pm 4 $ per taglia differenza o cadere prono
+- **2**: Sgambetto. L'avversario esegue un Tiro Salvezza su Riflessi DC 19, $ \pm 2 $ per taglia differenza o cadere prono
+- **3**: Spinta. L'avversario esegue un Tiro Salvezza su Tempra DC 23, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d6 metri
+- **4**: Urto. L'avversario esegue un Tiro Salvezza su Tempra con DC pari al tuo ultimo Tiro per Colpire, $ \pm 2 $ per taglia differenza o cadere prono. Se il Tiro Salvezza riesce viene allontanato di 1d10 metri
 - **Proiettili**
 
 - **Vari**: Per ogni Tiro Critico usato aggiungi una ulteriore gittata alla tua arma
 - **Vari**: Per ogni due Tiro Critico usato aggiungi +4 al prossimo Tiro per Colpire entro la fine del round successivo
-- \textbf: *Freccia Kennedy*. Entro la fine del tuo prossimo round il primo proiettile ignora qualsiasi copertura o ostacolo e se fisicamente possibile colpisce l'avversario
+- **5**: *Freccia Kennedy*. Entro la fine del tuo prossimo round il primo proiettile ignora qualsiasi copertura o ostacolo e se fisicamente possibile colpisce l'avversario
 - **Furia**
 
-- \textbf: Incitare i compagni. I tuoi compagni entro 6 metri hanno al loro primo attacco +2 al Tiro per Colpire
-- \textbf: Berserker. Un tuo compagno entro sei metri può eseguire una Azione di Attacco contro un avversario in mischia al costo di una Reazione
-- \textbf: Scossa. Un tuo compagno, entro 6 metri, può usare una Reazione per eseguire una Azione di Movimento trattando il terreno come difficile
-- \textbf: Gloria. I tuoi compagni entro 6 metri hanno +2 al Tiro per Colpire entro la fine del loro prossimo round
-- \textbf: Gloria!. I tuoi compagni entro 9 metri hanno +4 al Tiro per Colpire entro la fine del loro prossimo round
+- **1**: Incitare i compagni. I tuoi compagni entro 6 metri hanno al loro primo attacco +2 al Tiro per Colpire
+- **2**: Berserker. Un tuo compagno entro sei metri può eseguire una Azione di Attacco contro un avversario in mischia al costo di una Reazione
+- **3**: Scossa. Un tuo compagno, entro 6 metri, può usare una Reazione per eseguire una Azione di Movimento trattando il terreno come difficile
+- **4**: Gloria. I tuoi compagni entro 6 metri hanno +2 al Tiro per Colpire entro la fine del loro prossimo round
+- **5**: Gloria!. I tuoi compagni entro 9 metri hanno +4 al Tiro per Colpire entro la fine del loro prossimo round
 - **Difesa!**
 
-- \textbf: Fino alla fine del tuo prossimo round hai +2 alla Difesa.
-- \textbf: Fino alla fine del tuo prossimo round tutti i compagni nel tuo raggio di mischia hanno +2 alla Difesa
-- \textbf: Fino alla fine del tuo prossimo round un compagno ha +8 alla Difesa.
-- \textbf: Fino alla fine del tuo prossimo round tutti i compagni nel raggio di 9 metri hanno +4 alla Difesa
-- \textbf: Per 1d6 round tutti i tuoi compagni hanno +4 alla Difesa
+- **1**: Fino alla fine del tuo prossimo round hai +2 alla Difesa.
+- **2**: Fino alla fine del tuo prossimo round tutti i compagni nel tuo raggio di mischia hanno +2 alla Difesa
+- **3**: Fino alla fine del tuo prossimo round un compagno ha +8 alla Difesa.
+- **4**: Fino alla fine del tuo prossimo round tutti i compagni nel raggio di 9 metri hanno +4 alla Difesa
+- **5**: Per 1d6 round tutti i tuoi compagni hanno +4 alla Difesa
 	
 
 >>> **Azioni Critiche**: Queste Azioni Critiche possono essere descritte come approfittare della distrazione dell'avversario, gettare terra negli occhi, costringere a colpi di arma a spostarsi...
@@ -3549,6 +3549,23 @@ Riesci a sopportare meglio lo stress di lanciare incantesimi.
 
 Quando effettui una Prova di Magia e riesci in almeno un Successo Critico Magico il costo dell'incantesimo diminuisce di un punto, con un costo minimo di 1.
 
+## Colosso
+- **Requisito**:: Costituzione 1
+- **Tiri Salvezza**:: +3 Tempra
+- **Caratteristica**:: Costituzione o Forza
+
+Forse una volta eri gracile e debole, adesso sei una montagna di muscoli.
+
+La **prima volta** che prendi questa Abilità quando prendi questa Abilità aumenti di 1d6 i Punti Ferita.
+
+La **seconda volta** che prendi questa Abilità aumenti di 1 i Punti Ferita presi per livello.
+
+La **terza volta** che prendi questa Abilità aumenti la taglia del dado per tirare i Punti Ferita.
+
+I bonus sono cumulativi e retroattivi ai livelli precedenti, tranne che l'aumento del dado per determinare i PF.
+
+La **quarta volta**, requisito Costituzione 3, che prendi questa Abilità aumenti di una taglia (P > M > G).
+
 ## Colpo Furtivo
 - **Requisito**:: Competenza Armi 3
 - **Tiri Salvezza**:: +2 Riflessi, +1 Volontà
@@ -4081,7 +4098,7 @@ La **seconda volta** che prendi questa Abilità, requisito somma tratti comuni c
 
 Se colpisci 3 volte entro 2 round un avversario questo deve fare una Tiro Salvezza su Tempra con DC pari al Tiro per Colpire dell'ultimo attacco o cadere prono. Il Tiro Salvezza ha 1d6 di modificatore per taglia di differenza.
 
-## Il Patrono è con me
+## Il Patrono e' con me
 - **Requisito**:: Devoto, Somma Tratti comuni con il Patrono 2
 - **Tiri Salvezza**:: +1 Volontà, +1 Riflessi
 - **Caratteristica**:: Modificatore di caratteristica per incantesimi o a scelta
@@ -4309,7 +4326,7 @@ Per ogni singolo avversario in combattimento puoi fare che il primo colpo a segn
 
 L'Abilità va dichiarato prima del Tiro per Colpire e dura fino all'inizio del prossimo round.
 
-## La mia Testa è più Dura
+## La mia Testa e' piu' Dura
 - **Requisito**:: Competenza Armi 1
 - **Tiri Salvezza**:: +1 Tempra, +1 Volontà
 - **Caratteristica**:: Forza o Costituzione
@@ -4342,7 +4359,7 @@ Le creature per rimanere influenzate devono continuare a vedere/sentire la perfo
 
 La **seconda volta** che prendi questa Abilità puoi escludere dall'effetto un numero di creature fino al punteggio di Carisma
 
-## Lo scudo è mio amico
+## Lo scudo e' mio amico
 - **Requisito**:: Competenza Armi 1, Competenza Magica 1
 - **Tiri Salvezza**:: +1 Tempra, +1 Riflessi
 - **Caratteristica**:: Destrezza o Costituzione
@@ -4372,23 +4389,6 @@ Scegli una Liste di Magia, ottieni un +1d6 alla Prova di Magia nel lancio di inc
 La **prima volta** che prendi questa Abilità puoi ignorare il requisito dei 3 metri di rincorsa prima di un salto.
 
 La **seconda volta** che prendi questa Abilità quando effettui una prova per saltare in lungo od in alto tiri 1d6 in più.
-
-## Montagna umana
-- **Requisito**:: Costituzione 1
-- **Tiri Salvezza**:: +3 Tempra
-- **Caratteristica**:: Costituzione o Forza
-
-Forse una volta eri gracile e debole, adesso sei una montagna di muscoli.
-
-La **prima volta** che prendi questa Abilità quando prendi questa Abilità aumenti di 1d6 i Punti Ferita.
-
-La **seconda volta** che prendi questa Abilità aumenti di 1 i Punti Ferita presi per livello.
-
-La **terza volta** che prendi questa Abilità aumenti la taglia del dado per tirare i Punti Ferita.
-
-I bonus sono cumulativi e retroattivi ai livelli precedenti, tranne che l'aumento del dado per determinare i PF.
-
-La **quarta volta**, requisito Costituzione 3, che prendi questa Abilità aumenti di una taglia (P > M > G).
 
 ## Muro mentale
 - **Requisito**:: Saggezza +1
@@ -4455,7 +4455,7 @@ La **prima volta** che prendi questa Abilità la penalità per muoversi a piena 
 
 La **seconda volta** che prendi questa Abilità, requisito Destrezza 3, Furtività 8, non hai penalità a muoverti a piena velocità.
 
-## Passo Veloce
+## Passo rapido
 - **Requisito**:: Destrezza 1
 - **Tiri Salvezza**:: +2 Riflessi, +1 Tempra
 - **Caratteristica**:: Destrezza o Costituzione
@@ -4529,7 +4529,7 @@ CA/4 volte al giorno aggiungi il tuo valore di Competenza Armi al danno di un si
 
 L'Abilità deve essere dichiarata prima di sapere l'esito del Tiro per Colpire. Costa una Azione.
 
-## Più sono grossi più fanno rumore quando cadono
+## Piu' sono grossi piu' fanno rumore quando cadono
 - **Requisito**:: Competenza Armi 1
 - **Tiri Salvezza**:: +2 Tempra, +1 Volontà
 - **Caratteristica**:: Forza o Carisma
@@ -4625,14 +4625,14 @@ Se colpisci, oltre al danno ed un danno critico, l'avversario che deve essere ma
 
 Se fallisce il Tiro Salvezza in maniera critica subisce un ulteriore danno critico.
 
-## Questo è il mio pugnale
+## Questo e' il mio pugnale
 - **Requisito**:: Competenza Armi 1
 - **Tiri Salvezza**:: +2 Tempra, +1 Riflessi
 - **Caratteristica**:: Destrezza o Carisma
 
 Quando fai un danno critico con il tuo pugnale sommi un ulteriore danno critico. L'Abilità è usabile 1 volta per avversario e si applica automaticamente al primo danno critico effettuato.
 
-## Questa è la mia arma!
+## Questa e' la mia arma!
 - **Requisito**:: Competenza Armi 1
 - **Tiri Salvezza**:: +2 Tempra, +1 Volontà
 - **Caratteristica**:: Forza o Carisma
@@ -4848,7 +4848,7 @@ Scegli un incantesimo che conosci, i Punti Magia spesi per lanciare questo incan
 
 L'Abilità può essere presa più volte su incantesimi ogni volta diversi.
 
-## Stai giù!
+## Stai giu'!
 - **Requisito**:: Competenza Armi 3
 - **Tiri Salvezza**:: +2 Tempra, +1 Volontà
 - **Caratteristica**:: Forza o Carisma
@@ -5041,6 +5041,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 18 | 0 | 18d6+54 | a scelta |
 | 19 | 19 | 0 | 19d6+57 | |
 | 20 | 20 | 0 | 20d6+60 | a scelta |
+
 ### Ladro
 
 | **Lv** | **Ladro** |  |  | **Abilità** |
@@ -5066,6 +5067,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 18 | 0 | 18d6+54 | a scelta |
 | 19 | 19 | 0 | 19d6+57 | |
 | 20 | 20 | 0 | 20d6+60 | a scelta |
+
 ### Mago
 
 | **Lv** | **Mago** |  |  | **Abilità** |
@@ -5091,6 +5093,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 4 | 14 | 18d6+12 | a scelta |
 | 19 | 4 | 15 | 19d6+12 | |
 | 20 | 5 | 15 | 20d6+15 | a scelta |
+
 ### Chierico
 
 | **Lv** | **Chierico** |  |  | **Abilità** |
@@ -5116,6 +5119,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 4 | 14 | 18d6+12 | a scelta |
 | 19 | 5 | 14 | 19d6+15 | |
 | 20 | 5 | 15 | 20d6+15 | a scelta |
+
 ### Barbaro
 
 | **Lv** | **Barbaro** |  |  | **Abilità** |
@@ -5130,7 +5134,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 7 | 7 | 0 | 7d6+24 | Colpo Mortale |
 | 8 | 8 | 0 | 8d6+28 | |
 | 9 | 9 | 0 | 9d6+32 | Primo Sangue |
-| 10 | 10 | 0 | 10d6+36 | Montagna umana |
+| 10 | 10 | 0 | 10d6+36 | Colosso |
 | 11 | 11 | 0 | 11d6+41 | |
 | 12 | 12 | 0 | 12d6+43 | più sono grossi più fanno rumore quando cadono |
 | 13 | 13 | 0 | 13d6+48 | Un braccio, un arma |
@@ -5141,6 +5145,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 18 | 0 | 18d6+73 | a scelta |
 | 19 | 19 | 0 | 19d6+78 | |
 | 20 | 20 | 0 | 20d6+83 | a scelta |
+
 ### Paladino
 
 | **Lv** | **Paladino** |  |  | **Abilità** |
@@ -5166,6 +5171,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 14 | 4 | 18d6+42 | a scelta |
 | 19 | 15 | 4 | 19d6+45 | |
 | 20 | 15 | 5 | 20d6+45 | a scelta |
+
 ### Bardo
 
 | **Lv** | **Bardo** |  |  | **Abilità** |
@@ -5191,6 +5197,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 9 | 9 | 18d6+27 | a scelta |
 | 19 | 10 | 9 | 19d6+30 | |
 | 20 | 10 | 10 | 20d6+30 | a scelta |
+
 ### Druido
 
 | **Lv** | **Druido** |  |  | **Abilità** |
@@ -5279,9 +5286,7 @@ Tutti i famigli possiedono Capacità Speciali e le attribuiscono ai loro padroni
 
 | **CM del Padrone** | **Difesa** | **Intelligenza** | **Speciale** |
 | 1-2 | +1 | 0 | Allerta, Condividere Incantesimi |
-
-|  |  | Legame Empatico
-
+|  |  | Legame Empatico |
 | 3-4 | +1 | +1 | Trasmettere Incantesimi a contatto |
 | 5-6 | +2 | +1 | Parlare con gli Animali della Sua Specie |
 | 7-8 | +3 | +1 | Parlare con il Padrone |
@@ -5427,7 +5432,7 @@ Non scordarti di cercare antichi tomi e pergamene! Gli incantesimi sono un bene 
 
 ## Le caratteristiche degli incantesimi
 
-La descrizione di ciascun incantesimo inizia con un blocco di informazioni che comprende il livello, le Liste di Magia a cui appartiene, tempo di lancio, gittata, componenti e durata dell'incantesimo. Il resto della descrizione ci informa dell'effetto dell'incantesimo.
+La descrizione di ciascun incantesimo inizia con un blocco di informazioni che comprende il livello, le Liste di Magia a cui appartiene, tempo di lancio, gittata e durata dell'incantesimo. Il resto della descrizione ci informa dell'effetto dell'incantesimo.
 
 Quando un personaggio lancia qualsiasi incantesimo, si usano le seguenti regole base indipendentemente dall'effetto dell'incantesimo.
 
@@ -5499,36 +5504,13 @@ Alcuni incantesimi richiedono che tu mantenga la concentrazione per tenerne la m
 
 Normali attività, come muoversi e attaccare, non interferiscono con la concentrazione. Mantenere la concentrazione costa 1 Azione a round.
 
-### Componenti
+### Formulare gli incantesimi
 
-Le componenti di un incantesimo sono i requisiti materiali che devi soddisfare per lanciarlo. La descrizione di ciascun incantesimo indica se richieda componenti verbali (V), somatiche (S) o materiali (M). Se non sei in grado di fornire una o più delle componenti dell'incantesimo, non potrai lanciarlo.
+Ogni incantesimo prevede che l'incantatore abbia le mani libere e possa parlare.
 
-La maggior parte degli incantesimi richiede di intonare parole mistiche. Le parole, il ritmo, la cadenza e risonanza mettono permettono la sintonia con il Patrono che fornisce la magia.
+La maggior parte degli incantesimi richiede di intonare parole mistiche e gesticolare in maniera particolare. Le parole ed i gesti, il ritmo, la cadenza e risonanza permettono la sintonia con il Patrono che fornisce la magia.
 
-**Somatica (S)**
-
-La gestualità del lancio di un incantesimo può includere un gesticolare forzato o intricate serie di gesti. Se un incantesimo richiede una componente somatica, l'incantatore deve essere libero di usare almeno una mano per eseguire questi gesti.
-
-**Verbale (V)**
-
-La componente Verbale rappresenta il canto, le parole, i suoni usati per attivare la sintonia con il Patrono e con la Magia. Se il personaggio è impossibilitato a parlare perché ha un bavaglio o qualcosa che gli ostruisce la bocca allora non può formulare incantesimi con componente Verbale.
-
->>> **Alternativa ai Componenti**: Per una gestione più immediata dei componenti potete sostituirli con una *spesa* di 1 Punto Ferita Massimo per Livello di Incantesimo. In caso si Successo Critico Magico nella Prova di Magia questi Punti Ferita non sono persi.
-
-**Materiale (M)**
-
-Lanciare taluni incantesimi richiede oggetti particolari, specificati tra parentesi alla voce componenti. Il personaggio deve procurarsi quella specifica componente prima di poter lanciare l'incantesimo.
-
-Se un incantesimo indica che la componente materiale viene consumata dall'incantesimo, l'incantatore deve fornire questa componente per ogni lancio dell'incantesimo.
-Un incantatore deve avere una mano libera per avere accesso a queste componenti, ma può essere la stessa mano utilizzata per eseguire le componenti somatiche.
-
-### Opzionale - Componenti come Offerta
-
-Se volete una gestione dei componenti più *fantastica* e meno legata alle tradizioni potete implementare questo set di modifiche.
-
-- Nessun incantesimo ha bisogno di componenti
-- E' possibile aggiungere componenti all'incantesimo come offerta al Patrono che sovraintende alla lista per ottenere vantaggi
-- A seconda della *preziosità* e *storia* dell'oggetto offerto, a discrezione del Narratore, la Prova di Magia può prendere $\pm2d6$\ nella Prova di Magia
+E' possibile consumare oggetti al momento di lancio dell'incantesimo come offerta al proprio Patrono, o quello che sovraintende la Lista di Magia dell'incantesimo, per ottenere vantaggi. A seconda della *preziosità* e *storia* dell'oggetto offerto, a discrezione del Narratore, la Prova di Magia può prendere $\pm2d6$\ di modificatore.
 
 ### Recuperare da morente
 
@@ -5650,8 +5632,6 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 
 | 6 | Per 1 minuto non sei più in grado di concentrarti e parli in rima |
 | 7 | Vieni teletrasportato di 3d10 metri in una direzione casuale |
 | 8 | Diventi Invisibile e paralizzato per 6 round |
-
-| **Dadi** | **Effetti** |
 | 9 | Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round |
 | 10 | Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round |
 | 11 | Manifesti l'incantesimo Unto sotto i tuoi piedi |
@@ -5776,7 +5756,7 @@ Quando la magia è ad area non è necessario effettuare un Tiro per Colpire se n
 
 ## Tiro Salvezza - Resistere all'incantesimo
 
-Il **Tiro Salvezza** imposto dal personaggio ha difficoltà (DC) pari a + **Competenza Magica** + **modificatore caratteristica per incantesimo** + **numero di volte che si è presa l'Abilità Adepto della Magia** +**1 per ogni Successo Critico Magico** nella Prova di Magia.
+Il **Tiro Salvezza** imposto dal personaggio ha difficoltà (DC) pari a **10** + **Competenza Magica** + **modificatore caratteristica per incantesimo** + **numero di volte che si è presa l'Abilità Adepto della Magia** +**1 per ogni Successo Critico Magico** nella Prova di Magia.
 
 Questa DC è usata per misurare la *forza ed efficacia* dell'incantesimo quando confrontato con altri effetti.
 
@@ -5869,8 +5849,6 @@ Le possibilità concesse da Alterare le Magie sono cumulabili tra loro.
 Il lancio di un incantesimo è vincolato a gesti e parole particolari e unici. Quando il personaggio si trova in una situazione in cui non può gesticolare o parlare allora può tentare di lanciare l'incantesimo comunque anche se diventa molto più difficile.
 
 I Punti Magia richiesti per il lancio di incantesimi se non può gesticolare vengono triplicati e se non può parlare vengono ulteriormente triplicati, è necessario in ogni caso superare una Prova di Magia.
-
-Se l'incantesimo ha anche componenti materiali questi devono essere comunque forniti (posti entro 30 cm dall'incantatore) oppure non è possibile lanciare l'incantesimo.
 
 ## Definizioni obiettivi degli incantesimi
 
@@ -5966,7 +5944,7 @@ Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore 
 
 **5: Conoscere.** Puoi lanciare l'incantesimo Identificare con una Azione Immediata, senza usare Punti Magia.
 
-**Queste capacità non sono concesse a chi prende l'Abilità Un solo credo** (pag. ).
+**Queste capacità non sono concesse a chi prende l'Abilità \hyperlink{Un solo credo**{Un solo credo (pag. ).
 
 ## Circa OBSS e la dimensione degli incantesimi
 
@@ -5985,40 +5963,37 @@ Se questo fattore influisce troppo sul vostro gioco riducete della metà ($r-r/2
 
 > La magia è credere in te stesso. Se riesci a farlo, puoi fare accadere qualsiasi cosa. (Johann Wolfgang von Goethe)
 
-## Aiuto
+### Aiuto
 
-- **Lista di Magia**:: Cura, Necromanzia
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (una sottile striscia di tessuto bianco)
-- **Durata**:: 1 ora per CM
+* **Lista**: Cura, Necromanzia
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 ora per CM
 
 Il tuo incantesimo aumenta la robustezza e risolutezza dei tuoi alleati. Scegli fino a tre creature a gittata, per la durata prendono 5 Punti Ferita Temporanei. Non è possibile ricevere più di un incantesimo Aiuto al giorno.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare una persona in più o aumentare i PF temporanei di 5.
 
-## Allarme
+### Allarme
 
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (una campanella e un pezzo di pregiato filo d'argento)
-- **Durata**:: 2 ore per CM (massimo 24 ore)
+* **Lista**: Abiurazione
+* **Livello**: 1, Comune
+* **Lancio**: 1 minuto
+* **Gittata**: 9 metri
+* **Durata**: 2 ore per CM (massimo 24 ore)
 
 Predisponi un allarme contro intrusioni indesiderate. Scegli una porta, una finestra o un'area a gittata che non sia più grande di un sfera di 3 metri di raggio. Fino al termine dell'incantesimo, sarai avvertito da un allarme ogni volta che una creatura di taglia Minuscola o superiore entri in contatto o acceda all'area protetta. Quando lanci l'incantesimo, puoi indicare delle creature che non faranno scattare l'allarme Scegli anche se l'allarme è udibile o solo mentale. Un allarme mentale, qualora ti trovi entro 1,5 chilometri dall'area protetta, ti avverte con un rumore nella tua mente. Il rumore è in grado di svegliarti se stai dormendo. Un allarme udibile produce il suono di una campanella per 10 secondi, udibile entro 18 metri.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 2 ore.
 
-## Allucinazione Mortale
+### Allucinazione Mortale
 
-- **Lista di Magia**:: Illusione
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+* **Lista**: Illusione
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: Istantanea
 
 Attingi agli incubi di una creatura a gittata e che puoi vedere e crei una manifestazione illusoria delle sue più terrificanti paure, visibile solo per quella creatura. Il bersaglio deve effettuare un Tiro Salvezza su Volontà.
 
@@ -6028,14 +6003,13 @@ Se fallisce il Tiro Salvezza, il bersaglio è spaventato per 1 minuto e subisce 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 2d10
 
-## Alterare Sé Stesso
+### Alterare Sé Stesso
 
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto per CM
+* **Lista**: Trasmutazione
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 minuto per CM
 
 Assumi una forma diversa. Quando lanci questo incantesimo, scegli una della seguenti opzioni, l'effetto della quale permane per la durata dell'incantesimo. Per la durata dell'incantesimo puoi terminare un'opzione per ottenere i benefici di un'altra.
 
@@ -6049,66 +6023,61 @@ In qualsiasi momento della durata dell'incantesimo, puoi usare due Azioni per ca
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi alterare un altro soggetto o raddoppiare la durata.
 
-## Amicizia con gli Animali
+### Amicizia con gli Animali
 
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un pò di cibo)
-- **Durata**:: 24 ore
+* **Lista**: Animali e Piante
+* **Livello**: 1, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 24 ore
 
 Questo incantesimo ti permette di convincere una bestia naturale che non vuoi arrecargli danno. Scegli una bestia a gittata che puoi vedere. Questa deve vederti e udirti. Se l'Intelligenza della bestia è 2 o più l'incantesimo fallisce. Altrimenti la bestia deve superare un Tiro Salvezza su Volontà o restare affascinata da te per la durata dell'incantesimo. Se tu o uno dei tuoi compagni danneggiate il bersaglio l'incantesimo ha termine.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi agire su di una bestia aggiuntiva.
 
-## Anatema
+### Anatema
 
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (una goccia del tuo sangue)
-- **Durata**:: 1 minuto
+* **Lista**: Ammaliamento
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto
 
 Fino a tre creature di tua scelta che puoi vedere, e che sono a gittata, devono effettuare un Tiro Salvezza su Volontà. Ogni bersaglio che fallisca questo Tiro Salvezza ed effettui un Tiro per Colpire o un Tiro Salvezza prima del termine dell'incantesimo ha un -1 di penalità.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi prendere come bersaglio una creatura aggiuntiva.
 
-## Animale Messaggero
+### Animale Messaggero
 
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un poco di cibo)
-- **Durata**:: 24 ore
+* **Lista**: Animali e Piante
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 24 ore
 
 Tramite questo incantesimo, usi un animale per consegnare un messaggio. Scegli una bestia Minuscola a gittata e che puoi vedere, come uno scoiattolo, una ghiandaia o un pipistrello, che abbia un GS inferiore a 0. Specifichi un luogo, che devi aver visitato in passato, e un destinatario che corrisponda a una descrizione generica, come *un uomo o una donna che vesta l'uniforme della guardia cittadina* o *un nano dai capelli rossi che indossa una coppola*. Pronuncia anche un messaggio di massimo venticinque parole. La bestia bersaglio viaggia per la durata dell'incantesimo verso il luogo specificato, coprendo circa 75 chilometri in 24 ore per un messaggero volante, o 40 chilometri per gli altri animali. Quando il messaggero arriva a destinazione, consegna il messaggio alla creatura da te descritta, replicando il suono della tua voce. Il messaggero parla solo a una creatura corrispondente alla descrizione da te fornita. Se il messaggero non riesce a raggiungere la destinazione prima del termine dell'incantesimo, il messaggio è perduto, e la bestia ritorna verso il punto in cui hai lanciato l'incantesimo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata dell'incantesimo aumenta di 8 ore
 
-## Animare Morti
+### Animare Morti
 
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 3 metri
-- **Componenti**:: V, S, M (una goccia di sangue, un pezzo di carne e un pizzico di polvere d'ossa)
-- **Durata**:: Istantanea
+* **Lista**: Necromanzia
+* **Livello**: 3, Comune
+* **Lancio**: 1 minuto
+* **Gittata**: 3 metri
+* **Durata**: Istantanea
 
 Questo incantesimo crea un servitore non morto. Scegli una pila di ossa o un cadavere di un umanoide Medio o Piccolo a gittata. Il tuo incantesimo imbeve il bersaglio di una nefanda parvenza di vita rianimandolo come creatura non morta. Il bersaglio diventa uno scheletro se scegli le ossa o uno zombi se scegli un cadavere. Durante ciascun tuo round, puoi usare un'Azione per comandare mentalmente qualsiasi creatura da te creata con questo incantesimo che si trovi entro 18 metri da te (se controlli più creature, puoi comandarle tutte o solo alcune di loro allo stesso momento, inviando lo stesso comando a tutte). Decidi quale azione la creatura svolgerà e dove si muoverà durante il suo prossimo round oppure inviale un comando generale come quello di stare di guardia a una particolare stanza o corridoio. Se non invii alcun comando, la creatura si limita a difendersi dalle creature ostili. Una volta ricevuto un ordine, la creatura continuerà a svolgerlo fino al suo compimento. La creatura è sotto il tuo controllo per 24 ore, dopodiché smetterà di eseguire i comandi che le impartirai. Per mantenere il controllo sulla creatura per altre 24 ore, devi lanciare di nuovo questo incantesimo su di essa prima del termine dell'attuale periodo di 24 ore. Questo impiego dell'incantesimo riafferma il tuo controllo su di un massimo di quattro creature che hai animato con questo incantesimo, piuttosto che animarne una nuova.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia animi o riaffermi il controllo su due creature non morte. Ciascuna di queste creature deve provenire da un cadavere o pila di ossa differenti.
 
-## Animare Oggetti
+### Animare Oggetti
 
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 5, Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: Concentrazione, massimo 1 minuto
+* **Lista**: Trasmutazione
+* **Livello**: 5, Comune
+* **Lancio**: 1 minuto
+* **Gittata**: 36 metri
+* **Durata**: Concentrazione, massimo 1 minuto
 
 Gli oggetti prendono vita al tuo comando. Scegli fino a CM/2 oggetti non magici a gittata e che non siano indossati o trasportati. I bersagli Medi contano come due oggetti, i bersagli Grandi contano come quattro oggetti, i bersagli Enormi contano come otto oggetti. Non puoi animare oggetti di taglia più grossa di Enorme. Ogni bersaglio si anima e diventa una creatura sotto il tuo controllo fino al termine dell'incantesimo o finché non viene ridotto a 0 Punti Ferita.
 
@@ -6142,23 +6111,23 @@ Se comandi a un oggetto di attaccare, questo può effettuare un singolo attacco 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi animare due oggetti aggiuntivi.
 
-## Anti-Individuazione
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un pizzico di polvere di diamante del valore di 25 mo sparsa sul bersaglio, che l'incantesimo consuma)
-- **Durata**:: 8 ore
+### Anti-Individuazione
+
+* **Lista**: Abiurazione
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 8 ore
 
 Per la durata nascondi il bersaglio con cui sei stato in contatto dalla magia di divinazione. Il bersaglio può essere una creatura consenziente o un luogo o un oggetto che occupi uno spazio equivalente ad una sfera di 2 metri di raggio. Il bersaglio non può divenire bersaglio di alcuna magia di divinazione o essere percepito tramite sensi di scrutamento magici.
 
-## Antipatia/Simpatia
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 8, Raro
-- **T. di Lancio**:: 1 ora
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (o un pezzo di allume immerso nell'aceto per l'effetto antipatia o un goccio di miele per l'effetto simpatia)
-- **Durata**:: 10 giorni
+### Antipatia/Simpatia
+
+* **Lista**: Ammaliamento
+* **Livello**: 8, Raro
+* **Lancio**: 1 ora
+* **Gittata**: 18 metri
+* **Durata**: 10 giorni
 
 Questo incantesimo attrae o repelle delle creature di tua scelta. Prendi un bersaglio a gittata, che sia un oggetto Enorme o più piccolo o una creatura o un'area non più grande di una sfera di 30 metri di raggio. Poi specifica una specie di creature intelligenti, come i draghi rossi, i goblin o i vampiri. Investi il bersaglio di un'aura che attrae o respinge le creature specificate per la durata. Scegli antipatia o simpatia come effetto dell'aura.
 
@@ -6168,13 +6137,13 @@ Questo incantesimo attrae o repelle delle creature di tua scelta. Prendi un bers
 
 *Terminare l'Effetto*. Se una creatura soggetta termina il suo round mentre si trova più lontana di 18 metri dal bersaglio o non può vederlo, la creatura effettua un Tiro Salvezza su Volontà. Se supera il Tiro Salvezza, la creatura non è più soggetta al bersaglio e riconosce la sensazione di ripugnanza o attrazione come magica. Inoltre, una creatura soggetta all'incantesimo, ha diritto a un altro Tiro Salvezza su Volontà ogni 24 ore di durata dell'incantesimo. Una creatura che supera il Tiro Salvezza contro questo effetto è immune a esso per 1 minuto, dopodiché può subirlo nuovamente.
 
-## Arma Energetica
-- **Lista di Magia**:: Aria, Acqua, Terra, Fuoco
-- **Livello**:: 1, Molto Raro
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (dei capelli di Fata)
-- **Durata**:: 6 round, Concentrazione
+### Arma Energetica
+
+* **Lista**: Aria, Acqua, Terra, Fuoco
+* **Livello**: 1, Molto Raro
+* **Lancio**: 1 Azione
+* **Gittata**: Contatto
+* **Durata**: 6 round, Concentrazione
 
 Lanci l'incantesimo a contatto di un'arma e questa acquisisce dei poteri a seconda della Lista di Magia dal quale hai lanciato l'incantesimo. L'arma si considera magica, come avesse un bonus di +1.
 Se Arma Energetica viene lanciato usando la Lista dell'*Aria* l'arma diviene percorsa da elettricità, in caso di *Acqua* l'arma diventa estremamente fredda, in caso di *Terra* dall'arma sgorga acido, in caso di *Fuoco* questa diventa fiammeggiante. Qualsiasi sia la Lista usata l'effetto è tale che l'arma causa 1d6 di danno aggiuntivo del tipo indicato per colpo andato a segno.
@@ -6182,25 +6151,25 @@ Un arma può avere solo un effetto di Arma Energetica attivo contemporaneamente.
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia il danno aumenta di +1d6.
 
-## Arma Magica
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Arma Magica
+
+* **Lista**: Trasmutazione
+* **Livello**: 2, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Contatto
+* **Durata**: 10 minuti
 
 Lanci l'incantesimo a contatto di un'arma non magica. Fino al termine dell'incantesimo, l'arma diventa un'arma magica con un bonus di +1 ai Tiri per Colpire e di danno.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il bonus aumenta a +1.
 
-## Arma Spirituale
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: 3 minuti, Concentrazione
+### Arma Spirituale
+
+* **Lista**: Invocazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 3 minuti, Concentrazione
 
 In un punto nella gittata, crei un'arma spettrale fluttuante, che resta per la durata o finché non lanci di nuovo questo incantesimo. Quando lanci l'incantesimo, puoi effettuare un attacco da incantesimo in mischia contro una creatura entro 1 metro dall'arma con un bonus al colpire pari a Competenza Magica/4. Se colpisci, il bersaglio subisce danni da forza pari a 1d4 + il tuo modificatore di caratteristica per incantesimi da incantatore + Competenza Magica/4. Durante il tuo round, con una Azione, puoi spostare l'arma di 6 metri ed effettuare l'attacco contro una creatura entro 1 metro dall'arma. L'arma può assumere qualsiasi forma tu voglia, magari affine al Patrono. L'arma ha un equivalente bonus magico pari a Competenza Magica/4.
 
@@ -6208,25 +6177,25 @@ I bonus concessi da Competenza Magica/4 possono essere sostituiti dalla somma de
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 2.
 
-## Armatura Magica
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un pezzo di cuoio lavorato)
-- **Durata**:: 8 ore
+### Armatura Magica
+
+* **Lista**: Abiurazione
+* **Livello**: 1, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 8 ore
 
 Lanci l'incantesimo a contatto di una creatura consenziente che non indossa un'armatura. Una forza magica protettiva circonda il bersaglio fino al termine dell'incantesimo. La Difesa naturale del bersaglio aumenta di 3 + Destrezza + 1/6 Competenza Magica. L'incantesimo termina se il bersaglio indossa un'armatura o interrompe l'incantesimo con un'Azione.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la Difesa aumenta di 1.
 
-## Artificio Druidico
-- **Lista di Magia**:: Universale
-- **Livello**:: 0, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Artificio Druidico
+
+* **Lista**: Universale
+* **Livello**: 0, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: Istantanea
 
 Sussurrando agli spiriti della natura, crei, a gittata, uno dei seguenti effetti:
 
@@ -6237,13 +6206,13 @@ Sussurrando agli spiriti della natura, crei, a gittata, uno dei seguenti effetti
 
 Questo incantesimo può essere lanciato solo da Seguaci o Devoti di Efrem, Erondil, Gaya, Shayalia.
 
-## Aura Magica dell'Arcanista
-- **Lista di Magia**:: Illusione
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un piccolo quadretto di seta)
-- **Durata**:: 24 ore
+### Aura Magica dell'Arcanista
+
+* **Lista**: Illusione
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 24 ore
 
 Poni un'illusione su di una creatura od oggetto con cui sei in contatto, così che gli incantesimi di divinazione rivelino false informazioni su di esso. Il bersaglio può essere una creatura consenziente o un oggetto che non sia trasportato o indossato da un'altra creatura. Quando lanci questo incantesimo, scegli uno o entrambi i seguenti effetti. L'effetto permane per la durata. Se esegui questo incantesimo sulla stessa creatura od oggetto ogni giorno per 30 giorni, piazzando ogni volta lo stesso effetto, l'illusione permarrà finché non viene dissolta.
 
@@ -6251,23 +6220,23 @@ Poni un'illusione su di una creatura od oggetto con cui sei in contatto, così c
 
 *Mascherare*. Cambi il modo in cui il bersaglio risulta a incantesimi ed effetti magici che individuano il tipo di creatura o Tratti, come l'attivazione dell'incantesimo simbolo. Scegli un tipo di creatura o Tratto, e gli altri incantesimi ed effetti magici considereranno il bersaglio come fosse una creatura di quel tipo o di quel Tratto, e non più di quello originale.
 
-## Aura Sacra
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 8, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un minuscolo reliquario del valore di almeno 1000 mo contenente una reliquia sacra, come un pezzo di tessuto dell'abito di un Devoto o un frammento di pergamena di un testo religioso)
-- **Durata**:: Concentrazione, 1 minuto
+### Aura Sacra
+
+* **Lista**: Abiurazione
+* **Livello**: 8, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Concentrazione, 1 minuto
 
 Irradi da te luce divina che si raccoglie in una debole luminosità con raggio di 9 metri intorno a te. Quando lanci l'incantesimo, le creature da te scelte in questo raggio emanano luce fioca con un raggio di 1 metro e hanno +8 a tutti i Tiri Salvezza, mentre le altre creature hanno -8 sui Tiri per Colpire contro di loro fino al termine dell'incantesimo. Inoltre, quando un demone o non morto colpisce una creatura bersaglio con un attacco in mischia, l'aura risplende di una luce intensa e deve superare un Tiro Salvezza su Tempra o restare accecato fino al termine dell'incantesimo.
 
-## Bacche Benefiche
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un rametto di vischio, fino a 8 bacche su cui l'incantesimo agisce)
-- **Durata**:: Istantanea
+### Bacche Benefiche
+
+* **Lista**: Animali e Piante
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Incanti fino a 2d4 bacche nella tua mano che vengono infuse di magia per la durata. Una creatura può usare 1 Azione Immediata per mangiare una bacca. Mangiare una bacca ripristina 1 punto ferita e provvede nutrimento, ma non acqua, sufficiente per alimentare una creatura per un giorno. Solo la prima bacca è efficace nel giorno.
 
@@ -6275,12 +6244,11 @@ Le bacche perdono la loro efficacia se non vengono consumate entro 8 ore dal lan
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia le bacche durano un giorno in più oppure incanti una bacca in più (fino ad un massimo totale di 8).
 
-## Bagliore Solare
-- **Lista di Magia**:: Invocazione
+### Bagliore Solare
+- **Lista**:: Invocazione
 - **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 2 Azioni
+- **Lancio**:: 2 Azioni
 - **Gittata**:: Personale (linea di 18 metri)
-- **Componenti**:: V, S, M (una lente di ingrandimento)
 - **Durata**:: Concentrazione, massimo 1 minuto
 
 Una fascio di luce brillante esplode dalla tua mano in una linea larga 1 metro e lunga 18 metri. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, la creatura subisce 6d8 danni da Luce e rimane accecata fino al tuo prossimo round. Se supera il Tiro Salvezza, subisce la metà dei danni e non è accecata. I non morti e le melme hanno -1d6 su questo Tiro Salvezza. Puoi creare una nuova linea di luminosità spendendo 3 Azioni durante qualsiasi tuo round fino al termine dell'incantesimo.
@@ -6289,38 +6257,38 @@ Per la durata, una particella di luce brillante risplende nella tua mano. Produc
 
 **In caso di due Successo Critico Magico ottenuto** l'incantesimo termina dopo il primo raggio ma la linea è larga 6 metri, lunga 108 metri, il danno da Luce diviene 12d8.
 
-## Banchetto degli Eroi
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (una ciotola incrostata di gemme del valore di almeno 500 mo, che l'incantesimo consuma)
-- **Durata**:: Istantanea
+### Banchetto degli Eroi
+
+* **Lista**: Evocazione
+* **Livello**: 6, Non Comune
+* **Lancio**: 10 minuti
+* **Gittata**: 9 metri
+* **Durata**: Istantanea
 
 Crei un magnifico banchetto, comprensivo di cibi e bevande prelibate. Il banchetto viene consumato in 1 ora e scompare al termine di questo periodo, ma gli effetti benefici non si faranno sentire fino al termine dell'ora. Fino ad altre dodici creature possono
 partecipare al banchetto. Una creatura che partecipi al banchetto ottiene diversi benefici. La creatura viene guarita da tutte le malattie e i veleni non magici. Diventa immune al veleno e all'essere spaventata, ha +1d6 su tutti i Tiri Salvezza su Volontà e Tempra ed acquisisce 2010 Punti Ferita temporanei, questi benefici durano 24 ore.
 
 **In caso di due Successo Critico Magico ottenuto** nella Prova di Magia la ciotola non è consumata.
 
-## Barriera Antianimali
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 turno per CM
+### Barriera Antianimali
+
+* **Lista**: Animali e Piante
+* **Livello**: 5, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 turno per CM
 
 Barriera antianimali crea una barriera invisibile in grado di proteggere tutte le creature al suo interno, come se si trovassero dietro un muro, dagli attacchi degli animali, normali e giganti. La barriera, centrata sull'incantatore, ha un diametro di 6 metri.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la durata o allarghi il raggio di 2 metri.
 
-## Barriera di Lame
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 6, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Barriera di Lame
+
+* **Lista**: Invocazione
+* **Livello**: 6, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 10 minuti
 
 Crei un muro verticale di lame rotanti fatte di energia magica, affilate come rasoi. Il muro compare a gittata e resta per la durata. Puoi creare un muro diritto lungo fino a 30 metri, alto 6 metri e spesso 1 metro, o un muro circolare di 18 metri massimo di diametro e spesso 1 metro. Il muro fornisce copertura completa alle creature dietro di esso e il suo spazio è terreno difficile.
 
@@ -6328,13 +6296,13 @@ Quando una creatura entra per la prima volta in un round nell'area del muro o co
 
 Un incantatore che è ad una distanza di un metro dalla Barriera di Lame si considera Distratto.
 
-## Bastoni in Serpenti
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (diversi bastoncini ed una goccia di veleno di serpente)
-- **Durata**:: Concentrazione fino ad 1 minuto
+### Bastoni in Serpenti
+
+* **Lista**: Animali e Piante
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Concentrazione fino ad 1 minuto
 
 Trasformi 1d4 bastoncini, +1 per ogni volta che hai preso Adepto della Magia, in serpenti velenosi. I serpenti agiscono, nel tuo round, sempre all'unisono e compiono la medesima Azione contro lo stesso avversario.
 
@@ -6346,13 +6314,13 @@ Con una Azione puoi comandare i serpenti di spostarsi fino a 6 metri.
 
 **Ogni Successo Critico Magico ottenuto** nella Prova di Magia crei un nuovo serpente.
 
-## Beffa Crudele
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 18 metri
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Beffa Crudele
+
+* **Lista**: Ammaliamento
+* **Livello**: 0, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Scateni una serie di insulti avvolti da una subdola malia contro una creatura a gittata e che puoi vedere. Se il bersaglio ti può udire (sebbene non sia necessario che ti comprenda), deve superare un Tiro Salvezza su Volontà o subire 1d4 danni e avere -2 al prossimo Tiro per Colpire che effettuerà prima del termine del suo prossimo round.
 
@@ -6360,13 +6328,13 @@ Il danno dell'incantesimo aumenta di 1d4 quando raggiungi CM 5, CM 11 e CM 17, m
 
 **Ogni 2 Successo Critico Magico ottenuto** nella Prova di Magia influenzi un altra creatura.
 
-## Benedici Acqua
-- **Lista di Magia**:: Universale
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 10 Minuti
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (25 monete d'oro in offerta alla chiesa che l'incantesimo consuma)
-- **Durata**:: Istantanea
+### Benedici Acqua
+
+* **Lista**: Universale
+* **Livello**: 2, Comune
+* **Lancio**: 10 Minuti
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Benedici fino ad un litro di liquido, sufficiente a creare 5 boccette di Acqua santa.
 
@@ -6374,13 +6342,13 @@ Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia benedici un litro di liquido in più.
 
-## Benedizione
-- **Lista di Magia**:: Universale
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (una fialetta di Acqua santa che l'incantesimo consuma)
-- **Durata**:: 1 minuto
+### Benedizione
+
+* **Lista**: Universale
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto
 
 Benedici fino a tre creature a gittata, scelte da te. I bersagli guadagnano +1 ai Tiri Salvezza e Tiro per Colpire.
 
@@ -6388,37 +6356,31 @@ più benedizioni, anche da Patroni diversi non si sommano. Devi essere un Seguac
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aggiungere una creatura come bersaglio.
 
-## Benedizione della Vita
-- **Lista di Magia**:: Cura
-- **Livello**:: 3, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto, Concentrazione
+### Benedizione della Vita
+
+* **Lista**: Cura
+* **Livello**: 3, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto, Concentrazione
 
 Questo incantesimo conferisce speranza e vitalità. Scegli fino a 6 creature a gittata. Per la durata, ciascun bersaglio ha +2 ai Tiri Salvezza su Volontà e recupera 1 Punto Ferita a round.
 
 **Se ottieni 2 Successo Critico Magico e sei un Devoto o Seguace di un Patrono buono** ogni round le creature scelte recuperano 2 Punti Ferita in più.
 
-## Benedizione di Cattalm
-- **Lista di Magia**:: Ammaliamento, Fuoco
-- **Livello**:: 3, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (uno spruzzo di aceto)
-- **Durata**:: Istantanea
+### Benedizione di Cattalm
+
+* **Lista**: Ammaliamento, Fuoco
+* **Livello**: 3, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Invochi l'ira di Cattalm sul tuo avversario. La creatura bersaglio subisce 4d6 di danno da fuoco, deve effettuare un Tiro Salvezza su Volontà o subire alla prima successiva prova di competenza oppure Tiro per Colpire o Tiro Salvezza una penalità di -1d6 e l'incantatore aumenta di uno la sua riserva di Punti Fato.
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia puoi influenzare un'altra creatura.
 
-## Benedizioni di Efrem
-- **Lista magia**: : Animali e Piante
-- **Livello**: : 8, Raro
-- **T. di Lancio**: : 2 Azioni
-- **Gittata**: : 9 metri
-- **Componenti**: : V, S, M (ossicini da un cimitero di animali)
-- **Durata**: : 1 ora per CM
+### Benedizioni di Efrem
 
 Scegli fino a CM creature consenzienti che puoi vedere entro gittata. Ogni bersaglio si trasforma in una Bestia, di taglia piccola, media o grande, di tua scelta che abbia un Grado di Sfida pari o inferiore a 4. Puoi scegliere una forma diversa per ogni bersaglio. Nei round successivi puoi usare 2 Azioni per trasformare di nuovo i bersagli.
 
@@ -6430,85 +6392,79 @@ L'incantesimo termina sulla creature se questa perde conoscenza.
 
 **NOTA**: è necessario essere un Devoto o Seguace di Efrem o Shayalia per poter lanciare questo incantesimo.
 
-## Benedizione di Ledyal
-- **Lista di Magia**: : Necromanzia
-- **Livello**: : 3, Molto Raro
-- **T. di Lancio**: : 2 Azioni
-- **Gittata**: : Personale
-- **Componenti**: : V, S, M (una goccia del tuo sangue)
-- **Durata**: : Concentrazione, fino a 6 round
+### Benedizione di Ledyal
 
 Un aura sacra si irradia da te. Qualsiasi creatura che incominci il round entro 9 metri da te viene curato di 1d6 Punti Ferita. Una creatura non viene curata per più di 3 round per incantesimo.
 
 **NOTA**: è necessario essere un Devoto o Seguace di Ledyal o Sumkjr per poter lanciare questo incantesimo.
 
-## Benedizione Superiore
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 1 Minuto
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (uno spruzzo di Acqua santa e 10 monete d'oro che l'incantesimo consuma)
-- **Durata**:: 1 ora
+### Benedizione Superiore
+
+* **Lista**: Invocazione
+* **Livello**: 2, Non Comune
+* **Lancio**: 1 Minuto
+* **Gittata**: 18 metri
+* **Durata**: 1 ora
 
 Benedici una creatura a tua scelta. La creatura entro la durata può aggiungere 1d6 ad un tiro prima di sapere se la prova (TC/TS/Prova) ha avuto successo o meno. Questo bonus può essere usato 2 volte nell'ora. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aggiungere una creatura come bersaglio o aggiungere un ora alla durata.
 
-## Benedizione Suprema
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 3, Raro
-- **T. di Lancio**:: 1 Reazione
-- **Gittata**:: 27 metri
-- **Componenti**:: V, S, M (uno spruzzo di Acqua santa, 25 monete d'oro che l'incantesimo consuma)
-- **Durata**:: Istantanea
+### Benedizione Suprema
+
+* **Lista**: Invocazione
+* **Livello**: 3, Raro
+* **Lancio**: 1 Reazione
+* **Gittata**: 27 metri
+* **Durata**: Istantanea
 
 Benedici una creatura a tua scelta. La creatura può ritirare due dadi di una singola prova prima di sapere se la prova ha avuto successo o meno. La creatura sceglie se prendere i nuovi tiri ottenuti o tenere i vecchi. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la creatura prende anche un +1 di bonus alla prova.
 
-## Blocca Mostri
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 5, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 27 metri
-- **Componenti**:: V, S, M (un piccolo pezzo dritto di ferro)
-- **Durata**:: 1 minuto
+### Blocca Mostri
+
+* **Lista**: Ammaliamento
+* **Livello**: 5, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 27 metri
+* **Durata**: 1 minuto
 
 Scegli una creatura a gittata e che puoi vedere. Il bersaglio deve superare un Tiro Salvezza su Volontà, o restare paralizzato per la durata. Questo incantesimo non ha effetto su non morti o costrutti. Al termine di ciascun suo round, il bersaglio può effettuare un altro Tiro Salvezza su Volontà. Se lo supera, per quel bersaglio l'incantesimo ha termine.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aggiungere una creatura come bersaglio purché siano entro 9 metri l'una dall'altra.
 
-## Blocca Persona
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un piccolo pezzo dritto di ferro)
-- **Durata**:: 1 minuto
+### Blocca Persona
+
+* **Lista**: Ammaliamento
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 minuto
 
 Scegli un umanoide a gittata e che puoi vedere. L'incantesimo non ha effetto su creature con GS 4 o più. Il bersaglio deve superare un Tiro Salvezza su Volontà o restare paralizzato per la durata.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aggiungere una creatura come bersaglio purché siano entro 9 metri l'una dall'altra.
 
-## Blocca Persona Avanzato
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri, raggio 6 metri
-- **Componenti**:: V, S, M (un piccolo pezzo dritto di argento)
-- **Durata**:: 1 minuto
+### Blocca Persona Avanzato
+
+* **Lista**: Ammaliamento
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri, raggio 6 metri
+* **Durata**: 1 minuto
 
 Blocchi fino a 2d4 creature entro 18 metri da te in un raggio di 6 metri. L'incantesimo non ha effetto su creature con GS 6 o più. I bersagli devono superare un Tiro Salvezza su Volontà o restare paralizzati per la durata, il Tiro Salvezza può essere ripetuto quando subiscono degli attacchi.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aggiungere 2 punti ai 2d4 tirati.
 
-## Bocca Magica
-- **Lista di Magia**:: Illusione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un piccolo pezzo di favo e polvere di giada del valore di almeno 10 mo, che l'incantesimo consuma)
-- **Durata**:: Fino a che dissolto
+### Bocca Magica
+
+* **Lista**: Illusione
+* **Livello**: 2, Comune
+* **Lancio**: 1 minuto
+* **Gittata**: 9 metri
+* **Durata**: Fino a che dissolto
 
 Impianti un messaggio in un oggetto a gittata, messaggio che viene pronunciato quando si soddisfa la condizione di attivazione. Scegli un oggetto che puoi vedere e che non sia indossato o trasportato da un'altra creatura. Poi pronuncia il messaggio che deve essere di 25 parole o meno ma può essere distribuito in un periodo di massimo 10 minuti. Infine determina la circostanza che attiverà l'incantesimo affinché questo trasmetta il tuo messaggio.
 
@@ -6516,13 +6472,13 @@ Quando la circostanza si manifesta, una bocca magica appare sull'oggetto e recit
 
 La circostanza di attivazione può essere generica o dettagliata quanto desideri, ma deve essere basata su condizioni visibili o udibili che avvengono entro 9 metri dall'oggetto. Per esempio potresti istruire la bocca di parlare quando una qualsiasi creatura si avvicina entro 9 metri dall'oggetto o quando una campanella d'argento suona entro 9 metri da esso.
 
-## Bolla vitale
-- **Lista di Magia**:: Aria, Abiurazione
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (polvere di argento e diamante per 100 mo che l'incantesimo consuma)
-- **Durata**:: 1 ora per CM
+### Bolla vitale
+
+* **Lista**: Aria, Abiurazione
+* **Livello**: 4, Non Comune
+* **Lancio**: 1 minuto
+* **Gittata**: 9 metri
+* **Durata**: 1 ora per CM
 
 Puoi creare fino a 6 bolle che circondano le creature da te designate.
 La durata totale è di 1 ora per punto in Competenza Magica suddivisa a piacimento tra le creature nelle bolle.
@@ -6530,25 +6486,25 @@ Questa bolla permette ai soggetti di respirare liberamente, anche sott'acqua o n
 
 Bolla vitale non fornisce protezione dall'energia negativa o positiva (ad esempio sui piani dell'Energia Negativa e Positiva), la capacità di vedere in condizioni di scarsa visibilità (come nel fumo o nella nebbia), né la capacità di muoversi o agire normalmente in condizioni che impediscono il movimento (come sott'acqua).
 
-## Caduta Piuma
-- **Lista di Magia**:: Aria
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 1 Reazione, che effettui quando tu o una creatura entro 18 metri da te cade
-- **Gittata**:: 18 metri
-- **Componenti**:: V, M (una piccola piuma o un pezzo di piuma)
-- **Durata**:: 1 minuto
+### Caduta Piuma
+\hypertarget{cadutapiuma}
+* **Lista**: Aria
+* **Livello**: 1, Comune
+* **Lancio**: 1 Reazione, che effettui quando tu o una creatura entro 18 metri da te cade
+* **Gittata**: 18 metri
+* **Durata**: 1 minuto
 
 Scegli fino a 2 creature a gittata. La velocità di discesa di una creatura che cade diminuisce a 18 metri per round fino al termine dell'incantesimo. Se la creatura atterra prima del termine dell'incantesimo, non subisce danni da caduta e può atterrare sui suoi piedi; per quella creatura l'incantesimo ha termine.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi spostarti lateralmente di 1 metro od influenzare un altra creatura.
 
-## Calmare Emozioni
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Concentrazione, massimo 1 minuto
+### Calmare Emozioni
+
+* **Lista**: Ammaliamento
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Concentrazione, massimo 1 minuto
 
 Tenti di sopprimere le forti emozioni in un gruppo di persone. Ogni umanoide in una sfera di 6 metri di raggio centrata su di un punto a gittata da te scelto, deve effettuare un Tiro Salvezza su Volontà; se lo desidera, una creatura può scegliere di fallire questo Tiro Salvezza. Se una creatura fallisce il Tiro Salvezza, scegli uno di questi due effetti.
 
@@ -6556,57 +6512,57 @@ Tenti di sopprimere le forti emozioni in un gruppo di persone. Ogni umanoide in 
 
 *Indifferenza*. Puoi rendere un bersaglio indifferente nei confronti di una creatura di tua scelta, verso la quale è ostile. Questa indifferenza termina se il bersaglio viene attaccato o danneggiato da un incantesimo o se vede uno dei suoi amici venir danneggiato. Quando l'incantesimo termina la creatura diventa di nuovo ostile a meno che il Narratore non determini diversamente.
 
-## Camminare nell'aria
-- **Lista di Magia**:: Aria
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (una manciata di fagioli ed Acqua santa)
-- **Durata**:: 1 Turno
+### Camminare nell'aria
+
+* **Lista**: Aria
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 Turno
 
 Per la durata una creatura da te scelta a gittata, che puoi vedere, e consenziente può camminare nell'aria come se comminasse su solido terreno. Se una creatura è per aria quando l'effetto ha termine, la creatura scende 18 metri per round per un minuto dopo di che cade per la distanza rimanente.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi puoi aggiungere una creatura come bersaglio. Quando lanci l'incantesimo, le creature bersaglio devono trovarsi entro 9 metri l'una dall'altra.
 
-## Camminare nel Vento
-- **Lista di Magia**:: Aria
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (fuoco e Acqua santa)
-- **Durata**:: 8 ore
+### Camminare nel Vento
+
+* **Lista**: Aria
+* **Livello**: 6, Non Comune
+* **Lancio**: 1 minuto
+* **Gittata**: 9 metri
+* **Durata**: 8 ore
 
 Per la durata, tu e fino ad altre dieci creature consenzienti a gittata, che puoi vedere, assumete forma gassosa, diventando nubi. Mentre è in forma di nube una creatura ha velocità di volo 90 metri e ha resistenza ai danni dalle armi non magiche. Ritornare alla forma normale o ritornare a nube richiede 1 minuto, durante il quale la creatura è inabile e non può muoversi. Se una creatura è in forma di nube e sta volando quando l'effetto ha termine, la creatura scende 18 metri per round al minuto finché non atterra, al sicuro. Se non riesce ad atterrare dopo 1 minuto, la creatura cadrà per la distanza rimanente.
 
-## Camminare sull'Acqua
-- **Lista di Magia**:: Acqua
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un pezzo di sughero)
-- **Durata**:: 1 ora
+### Camminare sull'Acqua
+
+* **Lista**: Acqua
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 ora
 
 Questo incantesimo conferisce la capacità di muoversi attraverso superfici liquide (come acqua, acido, fango, neve, sabbie mobili o lava) come se fossero innocuo terreno solido (le creature che attraversano la lava fusa possono comunque subire danni dal calore o sciogliersi nell'acido). Fino a dieci creature consenzienti a gittata, e che puoi vedere, ricevono questa capacità per tutta la durata. Se il tuo bersaglio è immerso in un liquido, l'incantesimo riporta il bersaglio in superficie del liquido a una velocità di 9 metri per round.
 
-## Charme su Persone
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 ora
+### Charme su Persone
+
+* **Lista**: Ammaliamento
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 ora
 
 Cerchi di affascinare un umanoide a gittata e che puoi vedere. Egli deve effettuare un Tiro Salvezza su Volontà e avrà +1d6 se sta combattendo contro di te o i tuoi alleati. Se fallisce il Tiro Salvezza è Affascinato da te fino al termine dell'incantesimo o finché tu o i tuoi alleati non gli facciate qualcosa di nocivo. La creatura affascinata ti considera un amichevole conoscente. Quando l'incantesimo termina la creatura è consapevole di essere stata affascinata da te. Ogni qual volta la creatura è minacciata da te o da un tuo amico può rifare il Tiro Salvezza con un bonus di +2.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi puoi aggiungere una creatura come bersaglio. Quando lanci l'incantesimo, le creature bersaglio devono trovarsi entro 9 metri l'una dall'altra.
 
-## Campo Anti-Magia
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 8, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (sfera di 3 metri di raggio)
-- **Componenti**:: V, S, M (un pizzico di ferro in polvere o lima di ferro)
-- **Durata**:: Concentrazione, massimo 1 ora
+### Campo Anti-Magia
+
+* **Lista**: Abiurazione
+* **Livello**: 8, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (sfera di 3 metri di raggio)
+* **Durata**: Concentrazione, massimo 1 ora
 
 Vieni circondato da una sfera invisibile di anti-magia di 3 metri di raggio. Quest'area è separata dall'energia magica che permea la Terra. All'interno della sfera non si possono lanciare incantesimi, le creature richiamate scompaiono e anche gli oggetti magici diventano normali. Fino al termine dell'incantesimo la sfera si muove con te centrata su di te. Gli incantesimi e altri effetti magici, eccetto quelli creati da un artefatto o Patrono, sono soppressi all'interno della sfera né vi possono penetrare. Uno slot speso per lanciare un incantesimo soppresso è consumato. Mentre un effetto è soppresso non funziona ma il tempo che trascorre soppresso è conteggiato per la sua durata.
 
@@ -6622,25 +6578,25 @@ Vieni circondato da una sfera invisibile di anti-magia di 3 metri di raggio. Que
 
 *Dissolvi magie*. Gli incantesimi e gli effetti magici come dissolvi magie non hanno effetto sulla sfera. Allo stesso modo le sfere create da altri incantesimi campo antimagia non si annullano vicendevolmente.
 
-## Camuffare Sé Stesso
-- **Lista di Magia**:: Illusione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 ora
+### Camuffare Sé Stesso
+
+* **Lista**: Illusione
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 ora
 
 Cambi il tuo aspetto, assieme a quello dei tuoi abiti, armatura, armi e altri oggetti che indossi, fino al termine dell'incantesimo o finché non impieghi un'Azione per interrompere l'incantesimo. Puoi apparire 30 centimetri più basso o più alto, magro, grasso o una via di mezzo. Non puoi modificare la tua conformazione fisica quindi devi adottare una forma che abbia la medesima distribuzione di arti. Per tutto il resto, l'illusione è limitata solo dalla tua fantasia.
 
 I cambi apportati da questo incantesimo non sono in grado di sostenere un'ispezione fisica. Per esempio, se usi questo incantesimo per aggiungere un cappello al tuo abbigliamento, gli oggetti attraversano il cappello, e chiunque lo tocchi non avvertirebbe nulla e finirebbe per toccarti la testa e i capelli. Se usi questo incantesimo per apparire più magro di quello che sei, la mano di una persona che provasse a toccarti rimbalzerebbe su di te, mentre alla vista sembrerebbe fermarsi a mezz'aria. Per distinguere il tuo camuffamento, una creatura può usare 2 Azioni per ispezionare il tuo aspetto e deve superare una prova di Consapevolezza+4 contro la DC del Tiro Salvezza dell'incantesimo.
 
-## Capanna
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Personale (semisfera di 3 metri di raggio)
-- **Componenti**:: V, S, M (una scheggia di diamante del valore di 50 mo che l'incantesimo consuma)
-- **Durata**:: 8 ore
+### Capanna
+
+* **Lista**: Invocazione
+* **Livello**: 3, Non Comune
+* **Lancio**: 1 minuto
+* **Gittata**: Personale (semisfera di 3 metri di raggio)
+* **Durata**: 8 ore
 
 Una mezza sfera di forza immobile del raggio di 3 metri si forma intorno e sopra di te, restando stazionaria per la durata. L'incantesimo termina se lasci l'area. Otto creature di taglia Media o inferiore possono entrare nella cupola insieme a te. L'incantesimo fallisce se l'area include una creatura più grande o più di nove creature. Le creature e gli oggetti all'interno della cupola, quando lanci questo incantesimo, la possono attraversare liberamente. Tutte le altre creature e oggetti devono effettuare un Tiro Salvezza su Tempra o sono impossibilitati dall'attraversarla per quel round. Incantesimi e altri effetti magici possono estendersi oltre la cupola o attraversarla se non sono Trucchetti. L'atmosfera all'interno dello spazio è confortevole e asciutta quale che sia il clima all'esterno.
 
@@ -6648,13 +6604,13 @@ Fino al termine dell'incantesimo puoi comandare che l'illuminazione interna sia 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia l'incantesimo dura 2 ore in più.
 
-## Caratteristica Potenziata
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (pelo o piuma di una bestia)
-- **Durata**:: massimo 10 minuti
+### Caratteristica Potenziata
+
+* **Lista**: Trasmutazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: massimo 10 minuti
 
 Conferisci un potenziamento magico a una creatura con cui sei in contatto. Scegli uno degli effetti seguenti; il bersaglio ottiene quell'effetto fino al termine dell'incantesimo.
 
@@ -6667,13 +6623,15 @@ Conferisci un potenziamento magico a una creatura con cui sei in contatto. Scegl
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi prendere come bersaglio un'ulteriore creatura
 
-## Carne in Pietra - Pietra in Carne
-- **Lista di Magia**:: Terra
-- **Livello**:: 6, Non Comune - Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un pizzico di limo, acqua e terra)
-- **Durata**:: Permanente
+### Carne in Pietra
+
+### Pietra in Carne
+
+* **Lista**: Terra
+* **Livello**: 6, Non Comune - Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Permanente
 
 Cerchi di trasformare in pietra una creatura a gittata che puoi vedere. Se il corpo del bersaglio è fatto di carne la creatura diventa Rallentata 1/6r e deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza diventa invece Rallentata 1/10 minuti e la sua carne comincia a indurirsi.
 La creatura che fallisce il Tiro Salvezza iniziale il round dopo deve effettuare un nuovo Tiro Salvezza su Tempra. Se supera il Tiro Salvezza con successo non ci sono ulteriori effetti. Se fallisce questo nuovo Tiro Salvezza viene trasformata in pietra e resta vittima della condizione pietrificato per la durata.
@@ -6684,25 +6642,25 @@ Se la creatura viene danneggiata fisicamente mentre è pietrificata, soffre di d
 
 L'incantesimo *Pietra in Carne* fa tornare una creatura di carne purché non sia stata trasformata da più di un anno. L'incantesimo Dissolvi Magia non è in grado di annullarne gli effetti.
 
-## Cecità/Sordità
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V
-- **Durata**:: 1 minuto
+### Cecità/Sordità
+
+* **Lista**: Necromanzia
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto
 
 Puoi accecare o assordare un nemico. Scegli una creatura a gittata e che puoi vedere. Il bersaglio deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce il bersaglio è accecato o assordato (a tua scelta) per la durata.
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia puoi aggiungere un altro bersaglio in gittata. Se fai 3 Successo Critico Magico il bersaglio è influenzato dall'incantesimo per tutto il giorno.
 
-## Cecità/Sordità Avanzata
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V,S,M (del cerume oppure un pezzo di stoffa nera)
-- **Durata**:: 10 minuti
+### Cecità/Sordità Avanzata
+
+* **Lista**: Necromanzia
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 10 minuti
 
 Puoi accecare o assordare un nemico. Scegli una creatura a gittata e che puoi vedere. Il bersaglio deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, il bersaglio è accecato o assordato (a tua scelta) per la durata.
 
@@ -6710,13 +6668,13 @@ Puoi accecare o assordare un nemico. Scegli una creatura a gittata e che puoi ve
 
 **Tiro Salvezza Fallimento Critico**: in caso di Fallimento Critico l'effetto è permanente.
 
-## Celare
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 7, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (una polvere composta da polvere di diamante, smeraldo, rubino e zaffiro del valore di almeno 50000 mo, che l'incantesimo consuma)
-- **Durata**:: Fino a che dissolto
+### Celare
+
+* **Lista**: Trasmutazione
+* **Livello**: 7, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Fino a che dissolto
 
 Tramite questo incantesimo, una creatura consenziente o un oggetto può essere nascosto, impossibile da individuare per la durata. Eseguendo questo incantesimo ed entrando in contatto con un bersaglio questo diventa invisibile e non può essere preso come bersaglio dagli incantesimi di divinazione, né percepito da sensori di scrutamento creati da incantesimi di divinazione.
 
@@ -6724,23 +6682,23 @@ Se il bersaglio è una creatura, cade in uno stato di animazione sospesa. Per lu
 
 Puoi predisporre una condizione per cui l'incantesimo termini anticipatamente. La condizione può essere qualsiasi cosa tu voglia, ma deve avvenire o essere visibile entro 1,5 chilometri dal bersaglio. Esempi includono *al prossimo giudizio dei Patroni* o *quando il tarrasque si risveglia*. Questo incantesimo termina anche qualora il bersaglio subisca danni.
 
-## Cerchio d'Invisibilità
-- **Lista di Magia**:: Illusione
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Tocco
-- **Componenti**:: V, S, M (un pizzico di polvere di diamante)
-- **Durata**:: 1 minuto per CM
+### Cerchio d'Invisibilità
+
+* **Lista**: Illusione
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Tocco
+* **Durata**: 1 minuto per CM
 
 Questo incantesimo funziona come invisibilità, ma ha effetto su tutte le creature toccate dall'incantatore che in seguito restano entro 3 metri da lui. I soggetti che si allontanano oltre il cerchio d'invisibilità tornano immediatamente visibili o se rompono le condizioni per mantenere l'invisibilità.
 
-## Cerchio Magico
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 3 metri
-- **Componenti**:: V, S, M (Acqua santa o argento e ferro in polvere del valore di almeno 100 mo, che l'incantesimo consuma)
-- **Durata**:: 1 ora
+### Cerchio Magico
+
+* **Lista**: Abiurazione
+* **Livello**: 3, Comune
+* **Lancio**: 1 minuto
+* **Gittata**: 3 metri
+* **Durata**: 1 ora
 
 Crei un cilindro di energia magica di 3 metri di raggio e alto 6 metri, centrato su di un punto del terreno a gittata e che puoi vedere. Rune luminose compaiono dovunque il cilindro si intersechi con il pavimento o altra superficie.
 
@@ -6754,13 +6712,13 @@ Scegli uno o più dei seguenti tipi di creature: celestiali, elementali, fatati,
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aumentare la durata di 1 ora.
 
-## Cerchio di Morte
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 6, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S, M (una perla nera ridotta in polvere del valore di almeno 500 mo)
-- **Durata**:: Istantanea
+### Cerchio di Morte
+
+* **Lista**: Invocazione
+* **Livello**: 6, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 45 metri
+* **Durata**: Istantanea
 
 Una sfera di energia negativa del raggio di 18 metri, erutta in un punto a gittata. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra. La creatura subisce 8d6 danni da Vuoto se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
 
@@ -6768,13 +6726,13 @@ Una sfera di energia negativa del raggio di 18 metri, erutta in un punto a gitta
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Cerchio di Teletrasporto
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 3 metri
-- **Componenti**:: V, M (gessi e inchiostri rari infusi di gemme preziose del valore di almeno 50 mo, che l'incantesimo consuma)
-- **Durata**:: 1 round
+### Cerchio di Teletrasporto
+
+* **Lista**: Evocazione
+* **Livello**: 5, Non Comune
+* **Lancio**: 1 minuto
+* **Gittata**: 3 metri
+* **Durata**: 1 round
 
 Mentre lanci l'incantesimo, tracci un cerchio di 3 metri di diametro sul pavimento, inscritto con sigilli che collegano il posto in cui ti trovi a un cerchio di teletrasporto permanente di tua scelta, di cui conosci la sequenza dei sigilli e che si trovi sullo stesso piano di esistenza in cui ti trovi tu. Un portale luminoso si apre all'interno del cerchio tracciato da te e resta aperto fino al termine del tuo prossimo round. Qualsiasi creatura che entri nel portale, riappare istantaneamente entro 1 metro dal cerchio di destinazione o nello spazio non occupato più vicino, se non può comparire entro 1 metro da esso.
 
@@ -6786,25 +6744,25 @@ Puoi creare un cerchio di teletrasporto permanente eseguendo questo incantesimo 
 
 **NOTA**: Teletrasportarsi per più di 500 km ha solo il 5\% di riuscita.
 
-## Chiaroveggenza
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: 1,5 chilometri
-- **Componenti**:: V, S, M (un focus del valore di almeno 100 mo, che sia un corno ingioiellato per udire o un occhio di vetro per guardare)
-- **Durata**:: Concentrazione, massimo 10 minuti
+### Chiaroveggenza
+
+* **Lista**: Divinazione
+* **Livello**: 3, Comune
+* **Lancio**: 10 minuti
+* **Gittata**: 1,5 chilometri
+* **Durata**: Concentrazione, massimo 10 minuti
 
 Crei un sensore invisibile in un luogo a te familiare e che sia a gittata (un luogo che hai già visitato o visto precedentemente) o in un luogo ovvio ma che non ti è familiare (come dietro una porta o un angolo, o in mezzo un boschetto di alberi). Il sensore rimane sul posto per la durata, e non può essere attaccato né altrimenti vi si può interagire. Quando lanci questo incantesimo, scegli se vedere o udire. Puoi usare il senso scelto tramite il sensore, come ti trovassi nel suo spazio. Con due azioni, puoi passare da udire a sentire e viceversa. Una creatura che può vedere il sensore (una creatura munita di Vedere l'invisibile o di visione del vero) lo percepisce come un orbe intangibile e luminoso delle dimensioni del tuo pugno.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 10 minuti o la gittata aumenta di 500m.
 
-## Chiudi Portale
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 2, Raro
-- **T. di Lancio**::  1 Turno
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Chiudi Portale
+
+* **Lista**: Abiurazione
+* **Livello**: 2, Raro
+* **Lancio**: 1 Turno
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 L'incantatore si pone entro distanza da un Portale. Formulato l'incantesimo il Portale se ha una DC inferiore a quella dell'incantatore viene chiuso e scompare.
 
@@ -6812,36 +6770,36 @@ L'incantatore si pone entro distanza da un Portale. Formulato l'incantesimo il P
 
 **NOTA**: l'incantesimo è Comune per i Devoti di Lynx
 
-## Colpo Accurato
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: S
-- **Durata**:: 1 round
+### Colpo Accurato
+
+* **Lista**: Divinazione
+* **Livello**: 0, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 round
 
 Allunghi la mano e punti il dito verso un bersaglio a gittata. La tua magia ti conferisce una breve comprensione delle difese del bersaglio. Entro la fine del prossimo round ottieni +1d6 al primo Tiro per Colpire contro quel bersaglio.
 
 **Per ogni Successo Critico Magico** ottenuto il bonus perdura per un round in più.
 
-## Colpo Accecante
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 3, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Componenti**:: V
-- **Durata**:: 1 minuto
+### Colpo Accecante
+
+* **Lista**: Invocazione
+* **Livello**: 3, Raro
+* **Lancio**: 2 Azioni
+* **Durata**: 1 minuto
 
 Il bersaglio colpito dal colpo subisce 3d8 danni da Luce e deve superare il Tiro Salvezza su Tempra o diventare Accecato fino al termine dell'incantesimo. Alla fine di ciascuno dei suoi round, il bersaglio accecato ripete il Tiro Salvezza terminando l'incantesimo su se stesso in caso di successo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia infliggi +2d6 danni da Luce in più.
 
-## Colpo Infuocato
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 5, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (pizzico di zolfo)
-- **Durata**:: Istantanea
+### Colpo Infuocato
+
+* **Lista**: Fuoco
+* **Livello**: 5, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Una colonna verticale di fuoco divino scende dal cielo e si abbatte sul luogo da te specificato. Ogni creatura in un cilindro di 3 metri di raggio e alto 12 metri centrato su di un punto a gittata deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 8d6 danni da Luce se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
 
@@ -6849,37 +6807,37 @@ Una colonna verticale di fuoco divino scende dal cielo e si abbatte sul luogo da
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Colpo Fiammeggiante
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 1, Raro
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: personale
-- **Componenti**:: V
-- **Durata**:: 1 minuto
+### Colpo Fiammeggiante
+
+* **Lista**: Invocazione
+* **Livello**: 1, Raro
+* **Lancio**: 1 Azione
+* **Gittata**: personale
+* **Durata**: 1 minuto
 
 Tocchi un bersaglio, questo subisce 1d6 danni da Fuoco. Ogni round deve effettuare un Tiro Salvezza su Tempra o subire 1d6 di danno da fuoco, questo effetto termina dopo un minuto oppure quando il Tiro Salvezza riesce.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia infliggi +1d6 danni da Fuoco iniziali.
 
-## Colpo Luccicante
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: personale
-- **Componenti**:: V
-- **Durata**:: 1 minuto
+### Colpo Luccicante
+
+* **Lista**: Invocazione
+* **Livello**: 2, Non Comune
+* **Lancio**: 1 Azione
+* **Gittata**: personale
+* **Durata**: 1 minuto
 
 Tocchi un bersaglio, questo subisce 2d6 danni da Luce e diventa visibile per tutta la durata dell'incantesimo. In aggiunta la creatura emana luce in 1 metro di raggio.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia infliggi 1d6 danni da Luce aggiuntivi.
 
-## Comando
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 round
+### Comando
+
+* **Lista**: Ammaliamento
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 round
 
 Pronunci un comando di una parola verso una creatura a gittata e che puoi vedere ed un gesto. Il bersaglio deve superare un Tiro Salvezza su Volontà o eseguire il comando entro il suo prossimo round. L'incantesimo non ha effetto se il bersaglio è non morto, se non capisce la tua lingua o se il tuo comando gli recherebbe danni.
 
@@ -6893,25 +6851,25 @@ Sono elencati alcuni tipici comandi e i loro effetti. Puoi dare comandi diversi 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi agire su di un'ulteriore creatura. Nel momento in cui lanci l'incantesimo le creature bersaglio devono trovarsi entro 9 metri l'una da l'altra ed eseguono il medesimo comando.
 
-## Conoscere i Tratti
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 1, Leggendario
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: S
-- **Durata**:: Istantanea
+### Conoscere i Tratti
+
+* **Lista**: Divinazione
+* **Livello**: 1, Leggendario
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 Questo incantesimo permette di conoscere i Tratti di una creatura. Al soggetto è concesso un Tiro Salvezza su Volontà per resistere. Indipendentemente dal risultato del Tiro Salvezza la creatura sa di per certo chi ha formulato l'incantesimo.
 
 **Per due Successo Critico Magico** ottenuto nella Prova di Magia puoi analizzare un altra creatura.
 
-## Comprensione dei Linguaggi
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un pizzico di sale e fuliggine)
-- **Durata**:: 1 ora
+### Comprensione dei Linguaggi
+
+* **Lista**: Divinazione
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 ora
 
 Per la durata, capisci il significato letterale di qualsiasi linguaggio parlato che ascolti.
 
@@ -6919,13 +6877,13 @@ Per la durata, capisci il significato letterale di qualsiasi linguaggio parlato 
 
 **NOTA**: se sei un Devoto di Nethergal l'incantesimo dura 2 ore.
 
-## Comprensione degli Scritti
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un pizzico di argento e inchiostro secco)
-- **Durata**:: 1 ora
+### Comprensione degli Scritti
+
+* **Lista**: Divinazione
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 ora
 
 Per la durata comprendi il significato letterale di qualsiasi linguaggio scritto non magico che vedi. Devi essere a contatto con la superficie su cui le parole sono scritte. Per leggere una pagina di testo impieghi 1 minuto. Questo incantesimo non decodifica i messaggi segreti in un testo o i glifi, come un sigillo arcano, che non faccia parte di un linguaggio scritto.
 
@@ -6933,25 +6891,25 @@ Per la durata comprendi il significato letterale di qualsiasi linguaggio scritto
 
 **NOTA**: se sei un Devoto di Nethergal l'incantesimo è comune e dura 2 ore.
 
-## Compulsione
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: Concentrazione, massimo 1 minuto
+### Compulsione
+
+* **Lista**: Ammaliamento
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: Concentrazione, massimo 1 minuto
 
 Le creature di tua scelta entro la gittata che puoi vedere e che ti possono sentire devono effettuare un Tiro Salvezza su Volontà. Un bersaglio supera automaticamente il Tiro Salvezza se non può essere Affascinato. Fino al termine dell'incantesimo puoi usare un'Azione durante ciascun tuo round per indicare una direzione orizzontale rispetto a te. Ogni bersaglio soggetto all'incantesimo deve usare quanto più possibile del suo movimento, durante il suo prossimo round, per muoversi in quella direzione. Il bersaglio non può effettuare nessun'altra Azione prima di muoversi. Dopo essersi mosso in questo modo il bersaglio può effettuare un altro Tiro Salvezza su Volontà per tentare di terminare l'effetto.
 
 Un bersaglio non può essere obbligato a muoversi dentro un pericolo palesemente letale, come fiamme o crepacci.
 
-## Comunione
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (incenso e una fiala di Acqua santa)
-- **Durata**:: 1 minuto
+### Comunione
+
+* **Lista**: Divinazione
+* **Livello**: 5, Raro
+* **Lancio**: 1 minuto
+* **Gittata**: Personale
+* **Durata**: 1 minuto
 
 Comunichi con il tuo Patrono e gli poni fino a tre domande a cui si può dare risposta con un sì o un no. Devi porre le domande prima della fine dell'incantesimo. Riceverai la risposta corretta a ciascuna domanda. Le creature divine non sono necessariamente onniscienti, quindi potresti ricevere un *non è chiaro* come risposta a una domanda che riguarda informazioni non pertinenti alle conoscenze del Patrono. Nel caso in cui una risposta di una parola potrebbe essere fuorviante o contraria agli interessi del Patrono, il Narratore potrebbe invece dare una breve frase come risposta.
 
@@ -6959,13 +6917,13 @@ Se lanci l'incantesimo due o più volte prima che sia sorta la nuova alba c'è u
 
 **NOTA:** è necessario essere almeno Seguace per poter formulare questo incantesimo.
 
-## Comunione con la Natura
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 5, Molto Raro
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Comunione con la Natura
+
+* **Lista**: Divinazione
+* **Livello**: 5, Molto Raro
+* **Lancio**: 1 minuto
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 Per un istante diventi tutt'uno con la natura e ottieni informazioni sul territorio circostante. In ambienti esterni, l'incantesimo ti fornisce informazioni sul territorio entro 5 chilometri da te. In grotte e altri ambienti naturali sotterranei, il raggio è limitato a 100 metri. L'incantesimo non funziona nei luoghi in cui la natura è stata soppiantata da costruzioni, come in sotterranei e paesi.
 
@@ -6981,11 +6939,10 @@ Apprendi immediatamente informazioni su un massimo di tre argomenti a tua scelta
 **NOTA**: Se sei un Devoto di Efrem ottiene sempre almeno un Successo Critico Magico.
 
 ## Confusione
-- **Lista di Magia**:: Ammaliamento
+- **Lista**:: Ammaliamento
 - **Livello**:: 4, Comune
-- **T. di Lancio**:: 2 Azioni
+- **Lancio**:: 2 Azioni
 - **Gittata**:: 27 metri
-- **Componenti**:: V, S, M (tre gusci di noce)
 - **Durata**:: 1 minuto
 
 Questo incantesimo assale e piega la mente delle creature, generando illusioni e provocando azioni incontrollate. Quando lanci questo incantesimo ogni creatura, in una sfera di 3 metri di raggio centrata su di un punto da te scelto entro la gittata, deve superare un Tiro Salvezza su Volontà o subirne gli effetti. Un bersaglio soggetto all'incantesimo non può effettuare reazioni e deve tirare un d10 all'inizio di ciascun suo round per determinare il proprio comportamento per quel round.
@@ -7001,13 +6958,13 @@ Al termine di ciascun suo round, un bersaglio soggetto all'incantesimo può effe
 | 7-8 | La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina. |
 | 9-10 | La creatura può agire e muoversi normalmente. |
 
-## Confusione Contagiosa
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 8, Molto raro
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (polvere di dente)
-- **Durata**:: 1 minuto
+### Confusione Contagiosa
+
+* **Lista**: Ammaliamento
+* **Livello**: 8, Molto raro
+* **Lancio**: 10 minuti
+* **Gittata**: Contatto
+* **Durata**: 1 minuto
 
 Questo incantesimo assale e piega la mente delle creature, generando illusioni e provocando azioni incontrollate. Una volta formulato questo incantesimo hai poi un minuto per toccare la prima creatura. Questa creatura può fare un Tiro Salvezza su Volontà per annullare gli effetti.
 
@@ -7015,13 +6972,13 @@ Qualsiasi creatura toccata dalla prima creatura trasmette l'effetto Confusione, 
 
 Se l'incantatore non tocca entro un minuto una creatura allora sarà lui stesso vittima dell'incantesimo confusione, senza possibilità di Tiro Salvezza.
 
-## Cono di Freddo
-- **Lista di Magia**:: Acqua
-- **Livello**:: 5, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (cono di 18 metri)
-- **Componenti**:: V, S, M (un piccolo cristallo o cono di vetro)
-- **Durata**:: Istantanea
+### Cono di Freddo
+
+* **Lista**: Acqua
+* **Livello**: 5, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (cono di 18 metri)
+* **Durata**: Istantanea
 
 Un'esplosione di aria fredda erutta dalle tue mani. Ogni creatura in un cono di 18 metri deve effettuare un Tiro Salvezza su Tempra. Una creatura subisce 8d8 danni da freddo se fallisce il Tiro Salvezza o la metà di questi danni se lo supera. Una creatura uccisa da questo incantesimo diventa una statua di ghiaccio fino a quando scongela.
 
@@ -7029,23 +6986,23 @@ Un'esplosione di aria fredda erutta dalle tue mani. Ogni creatura in un cono di 
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Conoscenza delle Leggende
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 5, Comune
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (incenso del valore di almeno 250 mo, che l'incantesimo consuma, e quattro strisce d'avorio del valore di almeno 50 mo)
-- **Durata**:: Istantanea
+### Conoscenza delle Leggende
+
+* **Lista**: Divinazione
+* **Livello**: 5, Comune
+* **Lancio**: 10 minuti
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 Nomina o descrivi una persona, luogo od oggetto. L'incantesimo ti porta alla mente un breve riassunto delle conoscenze più importanti sull'argomento da te nominato. Se la cosa da te nominata non ha alcuna rilevanza leggendaria, non ottieni alcuna informazione. Maggiori informazioni hai sull'argomento, più precise e dettagliate saranno le informazioni che riceverai. L'informazione che riceverai sarà accurata, ma celata magari in linguaggio metaforico.
 
-## Contagio
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 7 giorni
+### Contagio
+
+* **Lista**: Necromanzia
+* **Livello**: 5, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 7 giorni
 
 Tramite il contatto puoi infliggere malattie. Effettua un attacco da mischia contro una creatura a portata. Se colpisci, infetti la creatura con una malattia a tua scelta tra quelle descritte di seguito. Al termine di ciascun round del bersaglio, esso deve effettuare un Tiro Salvezza su Tempra. Dopo aver fallito tre di questi Tiri Salvezza, gli effetti della malattia permangono per la durata e la creatura non effettua più Tiri Salvezza. Dopo aver superato tre di questi Tiri Salvezza la creatura recupera dalla malattia e l'incantesimo ha termine. Nel mentre che esegue i Tiri Salvezza la creatura subisce gli effetti della malattia.
 
@@ -7058,39 +7015,38 @@ Dato che questo incantesimo induce nel suo bersaglio una malattia naturale, qual
 - *Fuoco Mentale*. La mente della creatura è preda della febbre. La creatura ha -1d6 alle prove di Intelligenza e ai Tiri Salvezza su Volontà e si comporta come se in combattimento fosse sotto l'effetto dell'incantesimo confusione.
 - *Morte Melmosa*. La creatura inizia a sanguinare incessantemente. La creatura ha -1d6 alle prove di Costituzione ed ai Tiri Salvezza su Tempra. Inoltre ogni qualvolta la creatura subisce danni è Rallentata 1/1r fino alla fine del suo prossimo round.
 
-## Contingenza
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (una statuetta raffigurante te stesso scolpita in avorio e decorata con gemme del valore di almeno 1.500 mo)
-- **Durata**:: 10 giorni
+### Contingenza
+
+* **Lista**: Invocazione
+* **Livello**: 6, Non Comune
+* **Lancio**: 10 minuti
+* **Gittata**: Personale
+* **Durata**: 10 giorni
 
 Scegli un incantesimo di Livello 4 o più basso che puoi lanciare, che abbia il tempo di lancio di 2 Azioni e che può avere te come bersaglio. Lanci quell'incantesimo (detto incantesimo contingente) come parte del lancio di contingenza, spendendo gli slot incantesimo di entrambi, ma senza che l'incantesimo contingente abbia effetto. Avrà invece effetto quando si avvererà una determinata circostanza. Descrivi questa circostanza mentre lanci i due incantesimi. Per esempio, contingenza lanciato assieme a respirare sott'acqua potrebbe stipulare che respirare sott'acqua entra in azione quando sei immerso nell'acqua o simile liquido.
 
-L'incantesimo contingente ha effetto immediatamente dopo che la circostanza si verifica per la prima volta, che tu lo voglia o no, e poi contingenza termina. L'incantesimo contingente agisce solo su di te, anche se normalmente può prendere come bersaglio anche altri. Puoi usare un solo incantesimo contingenza alla volta. Se lanci di nuovo questo incantesimo, l'effetto di un altro incantesimo contingenza su di te avrà termine. Inoltre, contingenza per te ha termine se la componente materiale non dovesse più trovarsi sulla tua persona.
+L'incantesimo contingente ha effetto immediatamente dopo che la circostanza si verifica per la prima volta, che tu lo voglia o no, e poi contingenza termina. L'incantesimo contingente agisce solo su di te, anche se normalmente può prendere come bersaglio anche altri. Puoi usare un solo incantesimo contingenza alla volta. Se lanci di nuovo questo incantesimo, l'effetto di un altro incantesimo contingenza su di te avrà termine.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la contingenza dura 10 giorni in più.
 
-## Controincantesimo
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 1 Reazione, che effettui quando vedi una creatura/oggetto entro 18 metri manifestare un incantesimo
-- **Gittata**:: 18 metri
-- **Componenti**:: S
-- **Durata**:: Istantanea
+### Controincantesimo
+
+* **Lista**: Abiurazione
+* **Livello**: 3, Comune
+* **Lancio**: 1 Reazione, che effettui quando vedi una creatura/oggetto entro 18 metri manifestare un incantesimo
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Usi una Azione di Reazione per fare una prova di Arcana a DC 13. Se la prova riesce comprendi se puoi annullare l'effetto dell'incantesimo tramite Controincantesimo. L'incantesimo annullato deve essere di Livello 2 o più basso, indipendentemente che sia manifestato da un incantatore od oggetto. Ogni successo Critico magico o potenziamento ottenuto dall'incantesimo originale alza il livello dell'incantesimo di 1.
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia puoi annullare un incantesimo di un livello superiore.
 
-## Controllare Acqua
-- **Lista di Magia**:: Acqua
-- **Livello**:: 4, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 90 metri
-- **Componenti**:: V, S, M (un goccio d'acqua e un pizzico di polvere)
-- **Durata**:: Concentrazione, massimo 10 minuti
+### Controllare Acqua
+
+* **Lista**: Acqua
+* **Livello**: 4, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 90 metri
 
 Fino al termine dell'incantesimo, controlli qualsiasi acqua libera all'interno dell'area che hai scelto fino a un cubo di 30 metri di spigolo. Quando lanci questo incantesimo puoi scegliere qualsiasi tra i seguenti effetti. Come Azione, durante il tuo round, puoi ripetere lo stesso effetto o sceglierne uno diverso.
 
@@ -7106,13 +7062,13 @@ Il livello dell'acqua resta elevato fino al termine dell'incantesimo o finché n
 
 Quando una creatura entra nel vortice per la prima volta durante un round o inizia lì il suo round, deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, la creatura subisce 2d8 danni contundenti e viene catturata dal vortice fino al termine dell'incantesimo. Se supera il Tiro Salvezza, la creatura subisce la metà di questi danni, e non è catturata dal vortice. Una creatura catturata dal vortice può usare 3 Azioni per cercare di nuotare via dal vortice come descritto sopra, ma ha -4 alle prove di Nuotare per farlo. La prima volta durante ciascun round in un cui un oggetto entra nel vortice, l'oggetto subisce 2d8 danni contundenti; questo danno viene subito ogni round in cui l'oggetto rimane nel vortice.
 
-## Controllare Tempo Atmosferico
-- **Lista di Magia**:: Acqua, Aria
-- **Livello**:: 8, Molto Raro
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: Personale (raggio di 1,5 chilometri)
-- **Componenti**:: V, S, M (incenso bruciato e pò di terra e legno mescolati nell'acqua)
-- **Durata**:: Concentrazione, massimo 8 ore
+### Controllare Tempo Atmosferico
+
+* **Lista**: Acqua, Aria
+* **Livello**: 8, Molto Raro
+* **Lancio**: 10 minuti
+* **Gittata**: Personale (raggio di 1,5 chilometri)
+* **Durata**: Concentrazione, massimo 8 ore
 
 Per la durata, assumi il controllo del clima entro 7,5 chilometri da te. Per lanciare questo incantesimo devi essere all'esterno. Muoversi in un posto dove non hai la visuale aperta verso il cielo termina l'incantesimo anticipatamente. Quando lanci questo incantesimo, cambia le attuali condizioni climatiche determinate dal Narratore in base alla stagione e la latitudine. Puoi modificare le precipitazioni, la temperatura e il vento. Ci vogliono 1d4 x 10 minuti perché la nuova condizione prenda effetto. Una volta che la condizione avrà preso effetto, potrai cambiarla di nuovo. Quando l'incantesimo termina il clima tornerà gradualmente alla norma.
 
@@ -7158,13 +7114,13 @@ Quando cambi le condizioni climatiche, trova l'attuale condizione sulla seguente
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 8 ore.
 
-## Costrizione
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 18 metri
-- **Componenti**:: V
-- **Durata**:: 30 giorni
+### Costrizione
+
+* **Lista**: Ammaliamento
+* **Livello**: 5, Raro
+* **Lancio**: 1 minuto
+* **Gittata**: 18 metri
+* **Durata**: 30 giorni
 
 Imponi un comando magico a una creatura a gittata che puoi vedere, obbligandolo ad adempiere un determinato compito o vietandole di svolgere un'azione o corso d'attività deciso da te. Se la creatura ti può capire, deve superare un Tiro Salvezza su Volontà o restare affascinata da te per la durata. Mentre la creatura è affascinata da te, subisce 3d10 danni ogni volta che agisce in maniera direttamente contraria alle tue istruzioni, ma non più di una volta al giorno. Una creatura che non ti può capire ignora gli effetti di questo incantesimo. Puoi dare qualsiasi comando di tua scelta, tranne un'attività che provocherebbe morte certa. Dovessi tu pronunciare un comando suicida, l'incantesimo avrebbe termine.
 
@@ -7172,13 +7128,13 @@ Puoi terminare l'incantesimo usando un'Azione. Anche Rimuovi Maledizione, Ristor
 
 **Se ottieni almeno due Critici Magici** nella Prova di Magia la durata è 1 anno. Se ottieni 3 Critici l'incantesimo dura finché non viene terminato da uno degli incantesimi sopra menzionati.
 
-## Creare Cibo e Acqua
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Creare Cibo e Acqua
+
+* **Lista**: Evocazione
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: Istantanea
 
 Crei cibo e acqua in contenitori a gittata, sufficienti a sostenere fino a cinque umanoidi o 2 cavalcature per 24 ore. Il cibo è blando ma nutriente e marcisce dopo 24 ore se non viene consumato, come anche l'acqua.
 
@@ -7186,13 +7142,13 @@ Crei cibo e acqua in contenitori a gittata, sufficienti a sostenere fino a cinqu
 
 **Nota**: se sei un Seguace di Nihar il cibo è succulento e saporito.
 
-## Creare Birra
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 0, Raro
-- **T. di Lancio**:: variabile
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (lievito di birra, malto, acqua)
-- **Durata**:: 1 ora
+### Creare Birra
+
+* **Lista**: Evocazione
+* **Livello**: 0, Raro
+* **Lancio**: variabile
+* **Gittata**: 9 metri
+* **Durata**: 1 ora
 
 Crei un boccale di birra, 0.5 litri. La qualità e tipologia di birra dipende dal lievito, malto e acqua usata.
 Maggiore è il tempo di lancio dell'incantesimo più viene alta la gradazione alcolica, con un tempo di lancio di due azioni la gradazione è di 4.3, se viene impiegata 1 Azione la birra generata è analcolica, ogni Azione spesa dopo le 2 aumenta la gradazione di 0.3 vol fino ad un massimo di 12.5 vol.
@@ -7200,13 +7156,13 @@ Dopo un ora la birra svanisce, quando consumata dopo un ora terminano anche even
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenti di un litro o di un ora la durata.
 
-## Creare o Distruggere Acqua
-- **Lista di Magia**:: Acqua
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un goccio d'acqua per creare acqua o qualche granello di sale per distruggerla)
-- **Durata**:: Istantanea
+### Creare o Distruggere Acqua
+
+* **Lista**: Acqua
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: Istantanea
 
 Crei o distruggi l'acqua.
 
@@ -7220,13 +7176,13 @@ L'incantesimo non può essere usato per spegnere fiamme magiche.
 
 L'acqua è potabile e disseta se bevuta entro un round dalla creazione.
 
-## Creare Fossa
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 30 metri più 3 metri per livello
-- **Componenti**:: V, S, M (una pala in oro in miniatura del costo di 10 mo)
-- **Durata**:: 1 round più 1 round per CM
+### Creare Fossa
+
+* **Lista**: Invocazione
+* **Livello**: 2, Non Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 30 metri più 3 metri per livello
+* **Durata**: 1 round per CM
 
 Crei una buca extradimensionale di 3 metri per 3 metri con una profondità di 3 metri per ogni due punti di CM fino ad un massimo di 9 metri. Devi creare la fossa su una superficie orizzontale di dimensioni sufficienti. Poiché si estende in un'altra dimensione, la fossa non ha peso e non sposta il materiale sottostante originale.
 
@@ -7236,25 +7192,25 @@ Le creature che cadono nella fossa subiscono danni da caduta normali. Le pareti 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la profondità della fossa o la allarghi di 1 metro.
 
-## Creare Non Morti
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 3 metri
-- **Componenti**:: V, S, M (un vaso di terracotta pieno di terra di cimitero, un vaso di terracotta pieno di acqua salmastra e un onice nero del valore di 50 mo per ogni cadavere)
-- **Durata**:: Istantanea
+### Creare Non Morti
+
+* **Lista**: Necromanzia
+* **Livello**: 6, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 3 metri
+* **Durata**: Istantanea
 
 Puoi lanciare questo incantesimo solo di notte. Scegli fino a tre cadaveri di umanoidi Medi o Piccoli a gittata. Ogni cadavere diventa un ghoul sotto il tuo controllo (il Narratore possiede le statistiche di gioco di queste creature). Durante il tuo round, con due Azioni, puoi comandare mentalmente una qualsiasi creatura da te animata con questo incantesimo, se la creatura si trova entro 36 metri da te (se controlli più creature, puoi comandarle tutte o solo una nello stesso momento impartendo lo stesso comando). Decidi tu quale azione effettuerà la creatura e dove si muoverà durante il suo prossimo round, oppure puoi impartire un comando generico, come quello di fare la guardia a una specifica stanza o corridoio. Se non impartisci comandi, le creature si limiteranno a difendersi dalle creature ostili. Una volta ricevuto un comando, la creatura continuerà a eseguirlo finché il compito sarà completo. La creatura è sotto il tuo controllo per 24 ore, dopodiché smetterà di rispondere ai comandi che gli impartisci. Per mantenere il controllo della creatura per altre 24 ore, devi lanciare questo incantesimo sulla creatura prima che l'attuale periodo di 24 ore abbia termine. Questo impiego dell'incantesimo riasserisce il tuo controllo su di un massimo di tre creature che hai animato con questo incantesimo, anziché animarne di nuove.
 
 **Se ottieni un Critico Magico** nella Prova di Magia puoi rianimare o riasserire il controllo su quattro ghoul. Con due Critici puoi animare o riasserire il controllo su cinque ghoul o due ghast o wight. Con tre Critici puoi animare o riasserire il controllo su sei ghoul, tre ghast o wight, o due mummie.
 
-## Creazione
-- **Lista di Magia**:: Illusione
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un minuscolo pezzo di materiale dello stesso tipo di oggetto che intendi creare)
-- **Durata**:: Speciale
+### Creazione
+
+* **Lista**: Illusione
+* **Livello**: 5, Raro
+* **Lancio**: 1 minuto
+* **Gittata**: 9 metri
+* **Durata**: Speciale
 
 Afferri pezzi di materia d'ombra dal piano delle Ombre per creare, a gittata, oggetti non viventi di materia vegetale: beni morbidi, corda, legno o qualcosa di simile. Puoi usare questo incantesimo anche per creare oggetti minerali come pietra, cristallo o metallo. L'oggetto creato non può essere più grosso di un cubo di 1 metro di spigolo e l'oggetto deve essere di una forma e materiale che hai già visto in passato.
 
@@ -7263,7 +7219,6 @@ La durata dipende dal materiale dell'oggetto. Se l'oggetto è composto da più m
 Tabella Materiale - Durata
 
 | Materia vegetale | 1 giorno |
-| --- | --- |
 | Pietra o cristallo | 12 ore |
 | Metalli preziosi | 1 ora |
 | Gemme | 10 minuti |
@@ -7273,24 +7228,24 @@ Usare qualsiasi materiale creato da questo incantesimo come componente materiale
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il cubo aumenta di 1 metro di spigolo.
 
-## Crescita di Spuntoni
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S, M (sette spine affilate o sette ramoscelli, ciascuno di esse appuntito ad un'estremità)
-- **Durata**:: 10 minuti
+### Crescita di Spuntoni
+
+* **Lista**: Animali e Piante
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 45 metri
+* **Durata**: 10 minuti
 
 Il terreno in un raggio di 6 metri centrato su di un punto a gittata si contorce e genera spuntoni e spine molto acuminate. Per la durata, l'area diventa terreno difficile. Quando una creatura entra o si muove all'interno dell'area, subisce 2d4 danni per ogni 1 metro percorsi.
 La trasformazione del terreno è talmente ben camuffata da sembrare naturale. Qualsiasi creatura che non abbia visto l'area al momento del lancio dell'incantesimo deve effettuare una prova di Consapevolezza contro la DC del Tiro Salvezza dell'incantesimo, per riconoscere il pericolo rappresentato dal terreno prima di entrarvi.
 
-## Crescita Vegetale
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni o 8 ore
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Crescita Vegetale
+
+* **Lista**: Animali e Piante
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni o 8 ore
+* **Gittata**: 45 metri
+* **Durata**: Istantanea
 
 Questo incantesimo incanala vitalità nei vegetali entro una specifica area. Esistono due usi possibili per questo incantesimo, che conferiscono benefici immediati o a lungo termine. Se lanci questo incantesimo impiegando 1 Azione, scegli un punto a gittata. Tutte i vegetali normali in un raggio di 30 metri centrato su quel punto diventano densi e folti. Una creatura che attraversa l'area quadruplica il costo del suo movimento.
 
@@ -7300,25 +7255,25 @@ Se lanci questo incantesimo nel corso di 8 ore, nutri la terra. Tutti i vegetali
 
 **Se ottiene due Successo Critico Magico** sortisci gli effetti delle 8 ore di lancio anche se l'incantesimo è stato lanciato con 2 Azioni.
 
-## CTRLC+CTRLV
-- **Lista di Magia**:: Universale
-- **Livello**:: 1, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (tre piccoli cubi di ceramica riportante la lettera C, la lettera V ed il glifo CTRL)
-- **Durata**:: 1 minuto per CM
+### CTRLC+CTRLV
+
+* **Lista**: Universale
+* **Livello**: 1, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 minuto per CM
 
 Questo incantesimo permette di copiare un testo da una sorgente ad ud altra. In caso di sorgente non magica questa può essere un libro, una pergamena, delle rune su una lastra od un bastone. La destinazione che va appoggiata sulla sorgente andrà a copiare i simboli nella forma e dimensione fino alla sua capienza, per un massimo di 1 pagina (di destinazione) al minuto.
 
 Se lo scritto è un incantesimo, quindi su un Tomo o Pergamena, devono essere comunque rispettate le regole e limitazioni previste per la copia di Incantesimi sul Tomo. Questo incantesimo permette di evitare la Prova di Magia in caso di Incantesimo entro un livello superiore al massimo consentito. Copiato un incantesimo questo incantesimo termina.
 
-## Cuoco Invisibile
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un mestolo di legno e qualche goccia di olio di oliva, il cibo che si vuole cucinato)
-- **Durata**:: 2 ore
+### Cuoco Invisibile
+
+* **Lista**: Evocazione
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 2 ore
 
 Questo incantesimo crea una forza quasi invisibile solo delimitata da una leggera aura (di colore a tua scelta) capace e competente nel cucinare. Assieme al cuoco si manifesta anche un set di pentole e padelle nonché stoviglie ed un piccolo fornello da campo.
 
@@ -7330,13 +7285,13 @@ Nessuna delle pentole, stoviglie o fuoco può essere usato fuorché dal cuoco in
 
 **Se ottiene due Successo Critico Magico** il Cuoco viene evocato con cibo necessario a sfamare 2 persone
 
-## Cura Ferite
-- **Lista di Magia**:: Acqua, Cura
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Cura Ferite
+
+* **Lista**: Acqua, Cura
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 La tua mano si riempie di energia positiva curativa, una creatura che tocchi recupera un numero di Punti Ferita uguale a 1d8 + modificatore di caratteristica per incantesimi. Questo incantesimo se usato su un non morto, Tiro per Colpire con incantesimo a tocco, lo danneggia dello stesso ammontare.
 
@@ -7356,13 +7311,13 @@ Spendendo il triplo dei Punti Magia puoi curare fino a 4 creature che si trovino
 
 **NOTA**: l'incantesimo quando lanciato dalla Lista Elementale dell'Acqua non può essere usato con più di 1 Punto Magia.
 
-## Dardo arcano
-- **Lista di Magia**:: Universale
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 1 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 Turno, Concentrazione
+### Dardo arcano
+
+* **Lista**: Universale
+* **Livello**: 1, Comune
+* **Lancio**: 1 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 1 Turno, Concentrazione
 
 Crei un dardo luminoso di forza magica. Il dardo colpisce una creatura a gittata che puoi vedere, scelta da te. Un dardo infligge 1d4 + 1 danni da forza al suo bersaglio e li puoi dirigere perché colpiscano una o più creature.
 
@@ -7376,13 +7331,13 @@ Per ogni Azione nel round dedicata al lancio dell'incantesimo oltre la prima man
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia l'incantesimo crea un dardo aggiuntivo.
 
-## Dardo di Fuoco
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Dardo di Fuoco
+
+* **Lista**: Fuoco
+* **Livello**: 1, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 36 metri
+* **Durata**: Istantanea
 
 Scagli una scintilla infuocata a una creatura od oggetto a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci il bersaglio subisce 1d10 danni da fuoco. Un oggetto infiammabile colpito da questo incantesimo prende fuoco, se non è indossato o trasportato.
 
@@ -7390,13 +7345,13 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 **Per ogni Successo Critico Magico ottenuto** nella Prova di Magia scagli una scintilla ulteriore.
 
-## Dardo occulto
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Dardo occulto
+
+* **Lista**: Invocazione
+* **Livello**: 1, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 36 metri
+* **Durata**: Istantanea
 
 Un fascio di energia crepitante si dirige verso una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio subisce 1d8 danni da forza.
 
@@ -7404,25 +7359,25 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 **Ogni Successo Critico Magico ottenuto** nella Prova di Magia crei un altro fascio di energia.
 
-## Dardo Tracciante
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 round
+### Dardo Tracciante
+
+* **Lista**: Invocazione
+* **Livello**: 1, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 1 round
 
 Un lampo di luce viaggia verso una creatura a gittata, scelta da te. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio subisce 2d6 danni da Luce ed il prossimo Tiro per Colpire effettuato contro di lui prima del termine del tuo prossimo round ha +1d6 al TC, grazie alla mistica luce fioca che continuerà a brillare intorno al bersaglio fino ad allora.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 1d6.
 
-## Danza Irresistibile
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 8, Leggendario
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V
-- **Durata**:: 1 minuto
+### Danza Irresistibile
+
+* **Lista**: Ammaliamento
+* **Livello**: 8, Leggendario
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto
 
 Scegli una creatura a gittata e che puoi vedere. Il bersaglio comincia un comico balletto sul posto: agitando le gambe, battendo i piedi e saltellando per la durata. Le creature che non possono essere affascinate sono immuni a questo incantesimo.
 
@@ -7430,13 +7385,13 @@ Una creatura che balla deve usare 2 Azioni di Movimento per ballare senza lascia
 
 **Se ottieni 2 Successo Critico Magico** la durata aumenta di 1 ora
 
-## Desiderio
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 9, Leggendario
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V,S,M (gemme per 20000 mo)
-- **Durata**:: Istantanea
+### Desiderio
+
+* **Lista**: Evocazione
+* **Livello**: 9, Leggendario
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 Desiderio è il più potente incantesimo che una creatura mortale possa lanciare. Semplicemente parlando ad alta voce e consumando le gemme tenute in mano, puoi modificare le stesse fondamenta della realtà a seconda dei tuoi bisogni.
 
@@ -7460,13 +7415,13 @@ Tira 1d100, se fai da 1 a 33\% tu non sarai mai più in grado di lanciare deside
 
 **In caso di 2 Successi Critici magico ottenuti** non subisci effetti collaterali dal lancio di Desiderio.
 
-## Desiderio limitato
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 7, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V,S,M (gemme per 1000 mo)
-- **Durata**:: Istantanea
+### Desiderio limitato
+
+* **Lista**: Evocazione
+* **Livello**: 7, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 *Desiderio limitato* è un incantesimo estremamente potente e versatile, che permette all'incantatore di realizzare "quasi qualsiasi cosa".
 
@@ -7481,37 +7436,37 @@ In alternativa, puoi creare uno dei seguenti effetti a tua scelta:
 
 Definisci i tuoi desideri quanto più possibile al Narratore. Il Narratore ha grande spazio di manovra nel decidere cosa accada in questi casi; maggiore il desiderio, più grosse le probabilità che qualcosa vada storto. L'incantesimo potrebbe semplicemente fallire, l'effetto desiderato manifestarsi solo in parte, oppure potresti subire delle conseguenze impreviste, in base a come hai proferito il desiderio.
 
-## Destriero Fantasma
-- **Lista di Magia**:: Illusione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 ora
+### Destriero Fantasma
+
+* **Lista**: Illusione
+* **Livello**: 3, Comune
+* **Lancio**: 1 minuto
+* **Gittata**: 9 metri
+* **Durata**: 1 ora
 
 Una creatura quasi reale simile a un saurovallo di taglia Grande, appare sul terreno in uno spazio non occupato di tua scelta e a gittata. Decidi tu l'aspetto della creatura, e questa compare equipaggiata di sella, morso e briglia. Qualsiasi equipaggiamento creato dall'incantesimo svanisce in una nuvola di fumo se viene portato a più di 3 metri di distanza dal destriero. Per la durata, tu o una creatura di tua scelta potete cavalcare il destriero. La creatura usa le statistiche del Saurovallo da Galoppo, eccetto che ha velocità 30 metri e può percorrere 15 chilometri in un'ora, o 20 chilometri ad andatura veloce. Quando l'incantesimo termina, il destriero inizia gradualmente a svanire, dando al fantino 1 minuto per smontare di sella. L'incantesimo termina se usi un'Azione per interromperlo o se il destriero subisce danni.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di un ora oppure crei una cavalcatura in più.
 
-## Disco Fluttuante
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (una goccia di mercurio)
-- **Durata**:: 2 ora
+### Disco Fluttuante
+
+* **Lista**: Evocazione
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 2 ora
 
 Questo incantesimo crea un piano di forza orizzontale leggermente concavo, perfettamente circolare, di 1 metro di diametro e 2,5 centimetri di spessore che fluttua a 1 metro da terra, in uno spazio non occupato di tua scelta a gittata e che puoi vedere. Il disco rimane attivo per la durata, e può sostenere 250 chili o 50 di Ingombro. Se gli viene poggiato sopra un peso superiore, l'incantesimo termina e tutto quello che vi si trova sopra cade a terra. Finché ti trovi entro 6 metri da esso, il disco è immobile. Se ti muovi più di 6 metri lontano da esso, il disco ti segue in modo da rimanere sempre a 6 metri da te. Può muoversi attraverso terreno disomogeneo, su e giù per le scale, pendenze e simili, ma non può superare cambi di altitudine di 3 o più metri. Per esempio, il disco non può attraversare un fossato profondo 3 metri, né potrebbe lasciare il fossato se fosse creato in fondo a esso. Il disco può essere afferrato dall'incantatore e spostato manualmente. Se ti allontani più di 30 metri dal disco (di solito perché non riesce ad aggirare un ostacolo nel seguirti) l'incantesimo termina.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 2 ore.
 
-## Disintegrazione
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (una calamita e un pizzico di polvere)
-- **Durata**:: Istantanea
+### Disintegrazione
+
+* **Lista**: Trasmutazione
+* **Livello**: 6, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Un sottile raggio verde parte dal tuo dito puntato verso un bersaglio a gittata e che puoi vedere. Il bersaglio può essere una creatura, un oggetto o una creazione di forza magica, come un muro creato da muro di forza. Una creatura bersaglio di questo incantesimo deve effettuare un Tiro Salvezza su Tempra. Il bersaglio subisce 10d6 + 40 danni da forza se fallisce il Tiro Salvezza, la metà del danno se riesce. Se questo danno riduce il bersaglio a 0 Punti Ferita, questi è disintegrato. Una creatura disintegrata e tutto quello che indossa e trasporta, eccetto gli oggetti magici, viene ridotta a un mucchietto di sottile polvere grigia. La creatura può essere riportata in vita solo tramite l'intervento di un Patrono.
 
@@ -7521,26 +7476,11 @@ Questo incantesimo disintegra automaticamente gli oggetti non magici o una creaz
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Dissolvi il Bene e il Male
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (Acqua santa o argento e ferro in polvere)
-- **Durata**:: Concentrazione, 1 minuto
-
-Un'energia luminosa ti circonda e ti protegge da fatati, non morti e creature originarie di luoghi al di là del Piano Materiale. Per la durata, i celestiali, elementali, fatati, demoni e non morti hanno -1d6 ai Tiri per Colpire contro di te. Puoi terminare l'incantesimo anticipatamente usando una delle seguenti funzioni speciali.
-
-*Spezzare Ammaliamento*. Con un'Azione, puoi entrare in contatto con una creatura affascinata, spaventata o posseduta da un celestiale, elementale, fatato, demoni o non morto. La creatura con cui sei in contatto non è più affascinata, spaventata o posseduta da queste creature.
-
-*Congedo*. Con un'Azione, effettua un attacco da mischia contro un celestiale, elementale, fatato, demone o non morto nella tua portata. Se lo colpisci, puoi cercare di rimandare la creatura al suo piano di origine. La creatura deve superare un Tiro Salvezza su Volontà o venire rispedita sul suo piano nativo (se non vi si trova già). Se non si trovano sul loro piano nativo, i non morti vengono rispediti nel Mondo delle Ombre e i fatati nel Primo Mondo.
-
 ## Dissolvi Magie
-- **Lista di Magia**:: Abiurazione
+- **Lista**:: Abiurazione
 - **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
+- **Lancio**:: 2 Azioni
 - **Gittata**:: 36 metri
-- **Componenti**:: V, S
 - **Durata**:: Istantanea
 
 Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 2 o più basso sul bersaglio ha fine.
@@ -7550,11 +7490,10 @@ Se l'incantesimo è tra il 3 ed il 5 livello è necessaria una prova di contrast
 Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
 ## Dissolvi Magie Avanzato
-- **Lista di Magia**:: Abiurazione
+- **Lista**:: Abiurazione
 - **Livello**:: 5, Raro
-- **T. di Lancio**:: 3 Azioni
+- **Lancio**:: 3 Azioni
 - **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (polvere di diamante per un valore di 200 mo)
 - **Durata**:: Istantanea
 
 Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 4 o più basso sul bersaglio ha fine.
@@ -7565,13 +7504,13 @@ Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
 **Nota**: se si ottengono 3 Successi Critici Magici disperde permanentemente un effetto su un oggetto non artefatto.
 
-## Distruggere nonmorto
-- **Lista di Magia**:: Cura
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (una reliquia di un Devoto di Thaft o Sumkjr)
-- **Durata**:: Istantanea
+### Distruggere nonmorto
+
+* **Lista**: Cura
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: Istantanea
 
 Scegli un nonmorto entro 36 metri. Un raggio luminoso si propaga dalla tua mano avvolgendo la creatura. Il nonmorto effettua un Tiro Salvezza su Tempra per dimezzare 4d12 danni da energia positiva.
 
@@ -7579,13 +7518,13 @@ Scegli un nonmorto entro 36 metri. Un raggio luminoso si propaga dalla tua mano 
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Dito
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 0, Raro
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 18 metri
-- **Componenti**:: S
-- **Durata**:: 3 round
+### Dito
+
+* **Lista**: Ammaliamento
+* **Livello**: 0, Raro
+* **Lancio**: 1 Azione
+* **Gittata**: 18 metri
+* **Durata**: 3 round
 
 Fai il dito (o pernacchia o gesto dell'ombrello) all'avversario che deve poterlo vedere.
 
@@ -7599,13 +7538,13 @@ Se fallisce il TS di 2 o 1, è punito, fino alla fine del prossimo round ha una 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare una altra creatura che possa vedere il gesto.
 
-## Dito della Morte
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Dito della Morte
+
+* **Lista**: Necromanzia
+* **Livello**: 6, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Invii una scarica di energia negativa a una creatura a gittata e che puoi vedere, provocandole profondo dolore. Il bersaglio deve effettuare un Tiro Salvezza su Tempra. Il bersaglio subisce 7d8 + 30 danni da Vuoto se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
 
@@ -7615,13 +7554,13 @@ Un umanoide ucciso da questo incantesimo si rianima come zombi sotto il tuo coma
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Divinazione
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (incenso e un'offerta sacrificale appropriata alla tua religione, il cui valore complessivo sia di 25 mo, che saranno consumati dall'incantesimo)
-- **Durata**:: Istantanea
+### Divinazione
+
+* **Lista**: Divinazione
+* **Livello**: 6, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 La tua magia e un'offerta votiva ti mettono in comunicazione con un Patrono o il servitore di un Patrono. Gli puoi porre una singola domanda in merito a uno specifico obiettivo, evento o attività che debba verificarsi entro 7 giorni. Il Narratore dà una risposta veritiera. La replica potrebbe essere una breve frase, una rima criptica o un presagio.
 
@@ -7631,13 +7570,13 @@ Se lanci l'incantesimo due o più volte prima di aver riposato almeno 8 ore, c'�
 
 **NOTA**: l'incantesimo deve essere formulato da almeno un Seguace
 
-## Dominare Bestie
-- **Lista di Magia**:: Ammaliamento, Animali e Piante
-- **Livello**:: 4, Molto Raro - Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Concentrazione, massimo 1 minuto
+### Dominare Bestie
+
+* **Lista**: Ammaliamento, Animali e Piante
+* **Livello**: 4, Molto Raro - Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Concentrazione, massimo 1 minuto
 
 Cerchi di affascinare una bestia a gittata che puoi vedere. Essa deve superare un Tiro Salvezza su Volontà o restare affascinata per la durata, ricevendo +1d6 al tiro se tu o i tuoi alleati la state combattendo.
 
@@ -7649,13 +7588,13 @@ Ogni volta che il bersaglio subisce danni, effettua un nuovo Tiro Salvezza su Vo
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia fino ad un massimo di 8 ore. Ogni 2 Successi Magici Critici puoi comandare una bestia in più oppure aumenti il GS comandabile di 1.
 
-## Dominare Mostri
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 8, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Concentrazione, massimo 1 ora
+### Dominare Mostri
+
+* **Lista**: Ammaliamento
+* **Livello**: 8, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Concentrazione, massimo 1 ora
 
 Cerchi di affascinare una creatura a gittata che puoi vedere. Essa deve superare un Tiro Salvezza su Volontà o restare affascinata per la durata, ricevendo +1d6 al tiro se tu o i tuoi alleati la state combattendo.
 
@@ -7665,13 +7604,13 @@ Puoi impiegare due tua Azioni per assumere il totale e preciso controllo del ber
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia fino ad un massimo di 8 ore.
 
-## Dominare Persone
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Concentrazione, massimo 1 minuto
+### Dominare Persone
+
+* **Lista**: Ammaliamento
+* **Livello**: 5, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Concentrazione, massimo 1 minuto
 
 Cerchi di affascinare un umanoide a gittata che puoi vedere. Esso deve superare un Tiro Salvezza su Volontà o restare Affascinato per la durata, ricevendo +1d6 al tiro se tu o i tuoi alleati lo state combattendo.
 
@@ -7681,37 +7620,37 @@ Puoi impiegare 2 Azioni per assumere il totale e preciso controllo del bersaglio
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia fino ad un massimo di 8 ore.
 
-## Eroismo
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Eroismo
+
+* **Lista**: Ammaliamento
+* **Livello**: 1, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 minuto
 
 Una creatura consenziente con cui sei in contatto vene infusa di coraggio. Fino al termine dell'incantesimo, la creatura è immune all'essere spaventata e all'inizio di ciascun suo round ottiene Punti Ferita temporanei pari al tuo valore di modificatore da incantesimo. Quando l'incantesimo ha termine il bersaglio perde tutti i Punti Ferita temporanei rimasti.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare un altra creatura.
 
-## Esilio
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 4, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un oggetto disprezzato dal bersaglio)
-- **Durata**:: 1 minuto
+### Esilio
+
+* **Lista**: Abiurazione
+* **Livello**: 4, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 minuto
 
 Cerchi di spedire una creatura a gittata e che puoi vedere in un altro piano di esistenza. Il bersaglio deve superare un Tiro Salvezza su Volontà o venire esiliato. Se il bersaglio è natio del piano di esistenza in cui ti trovi, esili il bersaglio in un semipiano innocuo. Mentre è lì, il bersaglio è inabile. Il bersaglio rimane lì fino al termine dell'incantesimo, quando riapparirà nello spazio che aveva lasciato o nello spazio non occupato più vicino, se il suo spazio originale adesso è occupato. Se il bersaglio è natio di un diverso piano di esistenza da quello in cui ti trovi, il bersaglio svanisce emettendo un lieve scoppio, tornando al suo piano natio. Se l'incantesimo termina prima che sia trascorso 1 minuto, il bersaglio riappare nello spazio che aveva lasciato o nello spazio non occupato più vicino, se il suo spazio originale è occupato.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare un altra creatura, oppure la creatura è bandita per una settimana.
 
-## Esplosione Solare
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 8, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S, M (fuoco e un pezzo di pietra di sole)
-- **Durata**:: Istantanea
+### Esplosione Solare
+
+* **Lista**: Invocazione
+* **Livello**: 8, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 45 metri
+* **Durata**: Istantanea
 
 Un'intensa luce solare illumina in un raggio di 18 metri centrato su di un punto a gittata, scelto da te. Tutte le creature all'interno della luce devono effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, una creatura subisce 12d6 danni da Luce e resta accecata per 1 minuto. Se lo supera, subisce la metà dei danni e non resta accecata dall'incantesimo. Non morti e melme hanno -8 a questo Tiro Salvezza. Una creatura accecata da questo incantesimo effettua un altro Tiro Salvezza su Tempra alla fine di ciascun suo round. Se supera il Tiro Salvezza, non è più accecata.
 
@@ -7721,25 +7660,25 @@ Nella sua area, questo incantesimo dissolve qualsiasi oscurità generata da un i
 
 **NOTA**: un Devoto di Ljust o Sumkjr ottiene un Successo Critico Magico automatico
 
-## Estasiare
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Estasiare
+
+* **Lista**: Ammaliamento
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 minuto
 
 Intessi una serie di parole svianti, facendo sì che delle creature di tua scelta entro la gittata, che puoi vedere e possano sentirti, effettuino un Tiro Salvezza su Volontà. Qualsiasi creatura che non può restare affascinata supera il Tiro Salvezza automaticamente, e se tu o i tuoi compagni state combattendo una creatura, questa ha +1d6 al Tiro Salvezza. Se fallisce il Tiro Salvezza, il bersaglio ha -1d6 sulle prove di Consapevolezza effettuate per percepire una qualsiasi creatura diversa da te fino al termine dell'incantesimo o finché il bersaglio non può più sentirti.
 
 L'incantesimo termina se sei reso inabile o non puoi più parlare.
 
-## Evoca Animali
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 3 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 Turno
+### Evoca Animali
+
+* **Lista**: Animali e Piante
+* **Livello**: 3, Non Comune
+* **Lancio**: 3 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 Turno
 
 Evochi spiriti magici che assumono l'aspetto di bestie e compaiono in spazi non occupati a gittata e che puoi vedere. Scegli una delle seguenti opzioni per determinare ciò che appare:
 
@@ -7754,13 +7693,13 @@ Le creature evocate sono amichevoli verso di te e i tuoi compagni e ubbidiscono 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia appariranno due bestie in più di grado inferiore o 1 bestia in più di grado superiore a quello inizialmente scelto.
 
-## Evoca Cavalcatura
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 ora
+### Evoca Cavalcatura
+
+* **Lista**: Animali e Piante
+* **Livello**: 2, Comune
+* **Lancio**: 10 minuti
+* **Gittata**: 9 metri
+* **Durata**: 1 ora
 
 Evochi uno spirito che assume la forma di una cavalcatura insolitamente intelligente, forte e leale, stabilendo un legame duraturo con esso. Apparendo in uno spazio a gittata, non occupato, il destriero assume la forma di tua scelta, come quella di un saurovallo da guerra, un saurovallo nano, un cammello, un alce o un mastino (il Narratore potrebbe darti la possibilità di evocare come destrieri anche altri tipi di animali). Il destriero ha le statistiche della forma scelta, sebbene sia di tipo celestiale, fatato o demone (a tua scelta) invece del suo normale tipo. Inoltre, se il tuo destriero ha Intelligenza -3 o meno, la sua Intelligenza diventa -2, e ottiene la capacità di comprendere un linguaggio a tua scelta tra quelli che sei in grado di parlare. Il tuo destriero serve da cavalcatura, sia in combattimento che fuori da esso, e possiedi un legame istintivo con esso, che vi permette di combattere come foste un unico insieme.
 
@@ -7770,13 +7709,13 @@ Non puoi avere più di un destriero legato da questo incantesimo alla volta. Con
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia l'incantesimo dura 2 ore in più.
 
-## Evoca Elementale
-- **Lista di Magia**:: Aria, Acqua, Terra, Fuoco
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 27 metri
-- **Componenti**:: V, S, M (incenso bruciato per l'aria, argilla malleabile per la terra, zolfo e fosforo per il fuoco, o acqua e sabbia per l'acqua)
-- **Durata**:: Concentrazione, 1 Turno
+### Evoca Elementale
+
+* **Lista**: Aria, Acqua, Terra, Fuoco
+* **Livello**: 5, Raro
+* **Lancio**: 1 minuto
+* **Gittata**: 27 metri
+* **Durata**: Concentrazione, 1 Turno
 
 Evochi un servitore elementale. Scegli un'area a gittata composta di acqua, aria, fuoco o terra e che riempia una sfera di 1 metro di raggio. Un elementale di grado di sfida 3 o minore appropriato all'area da te scelta compare in uno spazio non occupato entro 3 metri da essa. L'elementale sparisce quando scende a 0 Punti Ferita o l'incantesimo termina.
 
@@ -7784,13 +7723,13 @@ Ogni Lista di Magia può evocare solo il proprio Elementale specifico
 
 **Ogni due Successo Critico Magico ottenuto** nella Prova di Magia il grado di sfida dell'elementale evocato aumenta di 1
 
-## Evoca Elementali Minori
-- **Lista di Magia**:: Aria, Acqua, Terra, Fuoco
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 27 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 Turno
+### Evoca Elementali Minori
+
+* **Lista**: Aria, Acqua, Terra, Fuoco
+* **Livello**: 4, Non Comune
+* **Lancio**: 1 minuto
+* **Gittata**: 27 metri
+* **Durata**: 1 Turno
 
 Evochi degli elementali che compariranno in spazi non occupati a gittata e che puoi vedere. Scegli una della seguenti opzioni per decidere cosa appare:
 
@@ -7805,13 +7744,13 @@ Ogni Lista di Magia può evocare solo il proprio Elementale specifico. L'element
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia appariranno due elementale in più di grado inferiore o 1 elementale in più di grado superiore a quello inizialmente scelto.
 
-## Evocazioni Istantanee
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (uno zaffiro del valore di 1000 mo)
-- **Durata**:: Fino a che dissolto
+### Evocazioni Istantanee
+
+* **Lista**: Evocazione
+* **Livello**: 6, Raro
+* **Lancio**: 1 minuto
+* **Gittata**: Contatto
+* **Durata**: Fino a che dissolto
 
 Entri a contatto con un oggetto del peso di 5 chili o meno e la cui dimensione più grossa non superi i 180 centimetri. L'incantesimo lascia un marchio sulla superficie dell'oggetto e ne incide invisibilmente il nome sullo zaffiro usato come componente materiale. Ogni volta che lanci questo incantesimo, devi usare uno zaffiro diverso.
 
@@ -7821,83 +7760,83 @@ Se un'altra creatura sta impugnando o trasportando l'oggetto, frantumare lo zaff
 
 Dissolvi magie, o un effetto simile applicato con successo allo zaffiro, termina l'effetto dell'incantesimo.
 
-## Fabbricare
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 4, Comune
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Fabbricare
+
+* **Lista**: Trasmutazione
+* **Livello**: 4, Comune
+* **Lancio**: 10 minuti
+* **Gittata**: 36 metri
+* **Durata**: Istantanea
 
 Converti le materie prime in prodotti finiti dello stesso materiale. Per esempio, puoi fabbricare un piccolo ponte di legno da un cumulo di alberi, una corda da un mucchio di canapa, e abiti dal lino o la lana. Scegli le materie prima che puoi vedere a gittata. Puoi fabbricare un oggetto di taglia Grande o inferiore (contenuto in un cubo di 3 metri di spigolo, o otto cubi connessi di 1 metro di spigolo) data una sufficiente quantità di materie prime. Se stai lavorando con il metallo, la pietra o altre sostanze minerali, l'oggetto fabbricato non può essere più grande di taglia Media (contenuto in un singolo cubo di 1 metro di spigolo). La qualità degli oggetti creati da questo incantesimo è commisurata alla qualità delle materie prime.
 
 Tramite questo incantesimo non si possono creare o trasmutare creature od oggetti magici. Inoltre non puoi usarlo per creare oggetti che normalmente richiedono un alto livello di lavorazione, come i gioielli, le armi, il vetro o le armature, a meno che tu non abbia la competenza con il tipo di strumenti da artigiano utilizzati per costruire questi oggetti. In caso di critico nella Prova di Magia si possono processare più volumi o produrre con maggiore qualità.
 
-## Fatale
-- **Lista di Magia**:: Illusione
-- **Livello**:: 9, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Fatale
+
+* **Lista**: Illusione
+* **Livello**: 9, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 1 minuto
 
 Attingendo alle paure più intime di un gruppo di creature, crei delle creature illusorie nella loro mente, visibili solo a loro. Ogni creatura in una sfera di 9 metri di raggio centrata su di un punto a tua scelta nella gittata, deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, la creatura diventa spaventata per la durata L'illusione affonda nelle paure più intime della creatura, manifestando i suoi incubi peggiori come una implacabile minaccia. Alla fine di ciascun round della creatura spaventata, questa deve superare un Tiro Salvezza su Volontà o subire 4d10 danni da forza. Se supera il Tiro Salvezza, per quella creatura l'incantesimo ha termine.
 
 **Per due Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 4d10.
 
-## Favore Divino
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Favore Divino
+
+* **Lista**: Invocazione
+* **Livello**: 1, Non Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Personale
+* **Durata**: 1 minuto
 
 Le tue preghiere potenziano te e la tua arma. Fino al termine dell'incantesimo, quando colpisce, la tua arma infligge 1d4 danni da Luce aggiuntivi.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la tua arma causa +2 danno aggiuntivo da Luce.
 
-## Ferire
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Ferire
+
+* **Lista**: Necromanzia
+* **Livello**: 6, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Scateni una malattia virulenta su di una creatura a gittata che puoi vedere. Il bersaglio deve effettuare un Tiro Salvezza su Tempra. Il bersaglio subisce 12d6 danni da Vuoto se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Se il bersaglio fallisce il Tiro Salvezza, i suoi Punti Ferita massimi sono ridotti per 1 ora di un ammontare uguale al danno da Vuoto subito. Qualsiasi effetto che rimuova una malattia permette ai Punti Ferita massimi del personaggio di poter tornare al valore normale prima che trascorra quel tempo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia causi 6d6 di danno da vuoto aggiuntivo.
 
-## Fermare il Tempo
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 9, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Fermare il Tempo
+
+* **Lista**: Trasmutazione
+* **Livello**: 9, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 Fermi brevemente il flusso del tempo per tutti, tranne che per te. Il tempo non scorre per le altre creature, mentre tu effettui 1d4 + 1 round di fila, durante i quali puoi effettuare azioni e muoverti come sempre. Questo incantesimo termina se una delle azioni che usi durante questo periodo, o qualsiasi effetto che crei durante questo periodo, ha effetto su di una creatura diversa da te o su di un oggetto indossato o trasportato da qualcuno che non sia tu. Inoltre, l'incantesimo termina se ti muovi in un posto lontano più di 300 metri da quello in cui lo hai lanciato.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 1 round. In caso di due Successo Magico Critico puoi escludere un altra creatura dal fermarsi del tempo.
 
-## Fiamma Perenne
-- **Lista di Magia**:: Universale
-- **Livello**:: 2, Leggendario
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (polvere di rubino del valore di 150 mo, che l'incantesimo consuma)
-- **Durata**:: 1 giorno
+### Fiamma Perenne
+
+* **Lista**: Universale
+* **Livello**: 2, Leggendario
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 giorno
 
 Una luminosità simile a quella prodotta da una torcia si sprigiona da un oggetto con cui sei in contatto. L'effetto sembra quello di una normale fiamma, ma non produce calore né necessita ossigeno. Una fiamma perenne può essere celata o nascosta ma non può essere smorzata né spenta.
 
-## Fiamma Sacra
-- **Lista di Magia**:: Universale
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Fiamma Sacra
+
+* **Lista**: Universale
+* **Livello**: 0, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Una luminosità simile a quella prodotta da una fiaccola discende su di una creatura a gittata che puoi vedere. Il bersaglio deve superare un Tiro Salvezza su Riflessi o subire 1d8 danni da Luce. Il bersaglio non riceve il beneficio della copertura per questo Tiro Salvezza.
 
@@ -7905,13 +7844,13 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando la somma dei Tratti in co
 
 **Per ogni Successo Critico Magico ottenuto** nella Prova di Magia discende una fiamma in più che deve colpire un bersaglio diverso entro gittata.
 
-## Fiotto Acido
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Fiotto Acido
+
+* **Lista**: Evocazione
+* **Livello**: 0, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Scagli una bolla di acido. Scegli una creatura a gittata o due creature a gittata che siano entro 1 metro l'una dall'altra. Il bersaglio deve superare un Tiro Salvezza su Riflessi o subire 1d6 danni da acido.
 
@@ -7919,13 +7858,13 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 **Per ogni Successo Critico Magico ottenuto** nella Prova di Magia scagli una bolla di acido in più entro gittata.
 
-## Folata di Vento
-- **Lista di Magia**:: Aria
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (linea di 18 metri)
-- **Componenti**:: V, S, M (un seme di legume)
-- **Durata**:: Concentrazione, massimo 1 minuto
+### Folata di Vento
+
+* **Lista**: Aria
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (linea di 18 metri)
+* **Durata**: Concentrazione, massimo 1 minuto
 
 Una linea di forte vento lunga 18 metri e larga 3 metri esplode partendo da te in una direzione a tua scelta, per la durata dell'incantesimo. Ogni creatura che inizia il suo round dentro la linea deve superare un Tiro Salvezza su Tempra o venire spinta lontano da te di 3 metri, seguendo la direzione della linea.
 
@@ -7935,13 +7874,13 @@ La folata disperde gas o vapori, estingue candele, torce e simili fiamme non pro
 
 Un arma da lancio che attraversa una folata di vento ha il 50\% di mancare il bersaglio.
 
-## Forma Eterea
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 7, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: Massimo 8 ore
+### Forma Eterea
+
+* **Lista**: Trasmutazione
+* **Livello**: 7, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Massimo 8 ore
 
 Entri nelle regioni di confine del Piano Etereo, nell'area che si sovrappone al tuo piano attuale. Resti sul Confine Etereo per la durata o finché non usi un'Azione per interrompere l'incantesimo. Se ti muovi verso l'alto o il basso, il costo del movimento è raddoppiato, se ti muovi invece orizzontalmente il movimento è raddoppiato per Azione di Movimento. Puoi vedere e udire il piano da cui provieni, ma tutto quello che si trova lì ti appare grigio, e non puoi vedere a più di 18 metri di distanza.
 
@@ -7951,13 +7890,13 @@ Ignori tutti gli oggetti e gli effetti che non sono sul Piano etereo, potendo co
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi portare con te un altra creatura.
 
-## Forma Gassosa
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un pezzo di garza e un filo di fumo)
-- **Durata**:: Concentrazione, massimo 1 ora
+### Forma Gassosa
+
+* **Lista**: Trasmutazione
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Concentrazione, massimo 1 ora
 
 Trasformi una creatura consenziente insieme a tutto ciò che sta indossando e trasportando, in una nube vaporosa per la durata. L'incantesimo termina se la creatura scende a 0 Punti Ferita. Le creature incorporee ignorano questo effetto. Mentre è in questa forma, l'unico metodo di movimento del bersaglio è una velocità di volo 3 metri. Il bersaglio può entrare e occupare lo spazio di un'altra creatura. Il bersaglio ha resistenza ai danni non magici, e ha +1d6 ai Tiri Salvezza su Tempra e Riflessi. Il bersaglio può attraversare piccoli buchi, strettoie, e anche semplici fori, sebbene consideri i liquidi come superfici solide. Il bersaglio non può cadere e resta fluttuante nell'aria anche se stordito o altrimenti reso inabile.
 
@@ -7965,13 +7904,13 @@ Mentre è nella forma di una nube vaporosa, il bersaglio non può parlare né ma
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia puoi influenzare una altra creatura.
 
-## Frantumare
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un frammento di metallo)
-- **Durata**:: Istantanea
+### Frantumare
+
+* **Lista**: Invocazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Un forte rombo, molto intenso, erutta da un punto a gittata di tua scelta. Ogni creatura in una sfera di 3 metri di raggio centrata su quel punto deve effettuare un Tiro Salvezza su Tempra. Una creatura subisce 3d8 danni da suono se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Una creatura composta di materiale inorganico, come pietra, cristallo o metallo, ha -1d6 sul Tiro Salvezza. Un oggetto non magico che non è indossato né trasportato subisce anch'esso danni se si trova nell'area dell'incantesimo.
 
@@ -7979,43 +7918,42 @@ Un forte rombo, molto intenso, erutta da un punto a gittata di tua scelta. Ogni 
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Freccia Acida di Restser
-- **Lista di Magia**:: Acqua, Terra
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 27 metri
-- **Componenti**:: V, S, M (una foglia di rabarbaro in polvere e uno stomaco di pitone)
-- **Durata**:: Istantanea
+### Freccia Acida di Restser
+
+* **Lista**: Acqua, Terra
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 27 metri
+* **Durata**: Istantanea
 
 Una freccia verde luminosa saetta verso un bersaglio a gittata ed esplode con uno spruzzo d'acido. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio subisce immediatamente 4d4 danni da acido e 2d4 danni da acido al termine del suo prossimo round. Se manchi, la freccia spruzza il bersaglio di acido infliggendo la metà dei danni iniziali e non arrecando danni al termine del prossimo round del bersaglio.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 2d4.
 
-## Fulmine
-- **Lista di Magia**:: Aria
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (linea di 30 metri)
-- **Componenti**:: V, S, M (un pezzo di pelliccia e una verga d'ambra, cristallo o vetro)
-- **Durata**:: Istantanea
+### Fulmine
+
+* **Lista**: Aria
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (linea di 30 metri)
+* **Durata**: Istantanea
 
 Esplodi un fulmine che forma una linea lunga 30 metri e larga 1 metro che parte da dove ti trovi in una direzione scelta da te. Ogni creatura sulla linea deve superare un Tiro Salvezza su Riflessi. La creatura subisce 8d6 danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
 Il fulmine incendia gli oggetti infiammabili nell'area che non sono indossati o trasportati.
 
 | Il fulmine se lanciato contro della pietra dura lavorata rimbalza con un angolo di uscita uguale a quello di entrata (\textbackslash|/) (180-angolo di entrata). Un fulmine lanciato in acqua crea una sfera di 3 metri di raggio di elettricità nel punto in cui entra. |
-| --- | --- |
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 4d6.
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Fulmine a catena
-- **Lista di Magia**:: Aria
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S, M (un pò di pelliccia; un pezzo d'ambra, vetro o una verga di cristallo; tre spille d'argento)
-- **Durata**:: Istantanea
+### Fulmine a catena
+
+* **Lista**: Aria
+* **Livello**: 6, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 45 metri
+* **Durata**: Istantanea
 
 Crei una saetta di elettricità che colpisce un bersaglio a gittata che puoi vedere scelto da te. Da questo si genera una ulteriore saetta che colpisce il più vicino bersaglio entro 6 metri. Il processo continua finché non sono state colpite 7 bersagli o non c'è più nessun nuovo avversario a distanza. Un bersaglio può essere una creatura o oggetto almeno di taglia piccola e può essere bersaglio di una sola saetta. Un bersaglio deve effettuare un Tiro Salvezza su Riflessi oppure subisce 8d6 danni da elettricità o la metà di questi danni se lo supera.
 
@@ -8023,25 +7961,25 @@ Crei una saetta di elettricità che colpisce un bersaglio a gittata che puoi ved
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Fuorviare
-- **Lista di Magia**:: Illusione
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: S
-- **Durata**:: 1 ora
+### Fuorviare
+
+* **Lista**: Illusione
+* **Livello**: 5, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 ora
 
 Diventi invisibile nello stesso momento in cui un tuo doppione illusorio compare nel posto in cui ti trovi. Il doppione resta per la durata dell'incantesimo, ma l'invisibilità termina se attacchi o lanci un incantesimo. Puoi usare 2 Azioni per far muovere il doppione illusorio fino al doppio della tua velocità e fargli compiere un gesto, parlare e comportarsi in qualsiasi maniera tu voglia.
 
 Puoi vedere attraverso i suoi occhi e udire tramite le sue orecchie come se fossi nello spazio in cui si trova lui. Durante ciascun tuo round, con un'Azione, puoi passare dall'usare i suoi sensi all'usare i tuoi, o viceversa. Mentre stai usando i suoi sensi, sei accecato e assordato riguardo i tuoi dintorni.
 
-## Gabbia di Forza
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 30 metri
-- **Componenti**:: V, S, M (polvere di rubino del valore di 1.500 mo)
-- **Durata**:: 1 ora
+### Gabbia di Forza
+
+* **Lista**: Invocazione
+* **Livello**: 6, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 30 metri
+* **Durata**: 1 ora
 
 Una prigione cubica, immobile e invisibile, composta di forza magica compare intorno a un'area a gittata da te scelta. La prigione può essere una gabbia o una scatola solida, a tua scelta. Una prigione nella forma di una gabbia può avere 6 metri di lato ed essere composta da sbarre di 1,5 centimetri separate di 1,5 centimetri tra di loro e fornisce una copertura completa alle creature all'interno. Una prigione a forma di scatola può avere 3 metri di lato, creando una barriera solida che impedisce a qualsiasi materia di attraversarla e bloccando qualsiasi incantesimo lanciato dall'interno o l'esterno dell'area. Quando lanci questo incantesimo, qualsiasi creatura che è completamente all'interno della gabbia deve effettuare un Tiro Salvezza su Riflessi o rimanere intrappolata. Le creature solo parzialmente nell'area della gabbia, o quelle troppo grosse per entrarvi, vengono spinte via dal centro dell'area finché non ne sono completamente fuori.
 
@@ -8049,13 +7987,13 @@ Una creatura all'interno della gabbia non può lasciarla tramite mezzi non magic
 
 Questo incantesimo non può essere dissolto da Dissolvi Magie ma solo con Dissolvi Magie Avanzato.
 
-## Giara Magica
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 6, Molto Raro
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (una gemma, cristallo, reliquario o qualche altro contenitore ornamentale del valore di almeno 500 mo)
-- **Durata**:: Finché a che dissolto
+### Giara Magica
+
+* **Lista**: Necromanzia
+* **Livello**: 6, Molto Raro
+* **Lancio**: 1 minuto
+* **Gittata**: Personale
+* **Durata**: Finché a che dissolto
 
 Il tuo corpo entra in uno stato catatonico mentre la tua anima lo abbandona ed entra nel contenitore da te usato come componente materiale. Mentre la tua anima occupa il contenitore, sei consapevole dei tuoi dintorni come se fossi nello spazio del contenitore. Non puoi muoverti né usare reazioni. L'unica Azione che puoi effettuare è quella di proiettare la tua anima fino a 30 metri di distanza, fuori dal contenitore, ritornando al tuo corpo vivente (e terminando l'incantesimo) o cercando di possedere un corpo umanoide.
 
@@ -8069,13 +8007,13 @@ Mentre possiedi un corpo, puoi usare 2 Azioni per ritornare dal corpo ospite al 
 
 Se il contenitore viene distrutto o l'incantesimo termina, la tua anima ritorna immediatamente al tuo corpo. Se il tuo corpo è più di 30 metri lontano o se è morto mentre cerchi di farvi ritorno, morirà anche la tua anima. Se l'anima di un'altra creatura è nel contenitore quando viene distrutto, l'anima della creatura ritorna al suo corpo, se il corpo è vivo e si trova entro 30 metri, altrimenti, la creatura muore. Quando l'incantesimo termina, il contenitore viene distrutto.
 
-## Glifo di Interdizione
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V. S, M (incenso e diamante in polvere del valore di almeno 200 mo, che l'incantesimo consuma)
-- **Durata**:: Fino a che dissolto o attivato
+### Glifo di Interdizione
+
+* **Lista**: Abiurazione
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Fino a che dissolto o attivato
 
 Quando lanci questo incantesimo, inscrivi un glifo che danneggia altre creature su di una superficie (come un tavolo o una sezione di pavimento o muro) o all'interno di un oggetto che può essere chiuso (come un libro, una pergamena o un forziere) per celare il glifo. Se scegli una superficie, il glifo può coprire un'area di superficie non maggiore di 3 metri di diametro. Se scegli un oggetto, quell'oggetto deve restare al suo posto; se l'oggetto viene spostato più di 3 metri dal punto in cui è stato lanciato l'incantesimo, il glifo è spezzato, e l'incantesimo termina senza essere stato attivato.
 
@@ -8097,13 +8035,13 @@ Non è possibile avere contemporaneamente più di CM/4 Glifi attivi contemporane
 
 **Per ogni due Successo Critico Magico** ottenuto nella Prova di Magia è possibile inserire un incantesimo di livello superiore nel Glifo Incantesimo.
 
-## Globo di Invulnerabilità
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 6, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (raggio di 3 metri)
-- **Componenti**:: V. S, M (una pallina di vetro o di cristallo che si frantuma quando l'incantesimo termina)
-- **Durata**:: Concentrazione, massimo 1 minuto
+### Globo di Invulnerabilità
+
+* **Lista**: Abiurazione
+* **Livello**: 6, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (raggio di 3 metri)
+* **Durata**: Concentrazione, massimo 1 minuto
 
 Una barriera immobile e lievemente scintillante si erge in un raggio di 3 metri intorno a te e vi rimane per la durata.
 
@@ -8111,23 +8049,23 @@ Qualsiasi incantesimo di Livello 4 (ad esclusione di risultati superiori grazie 
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia puoi bloccare un livello superiore di incantesimo.
 
-## Goffaggine
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 2, Raro
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 round per CM, Concentrazione
+### Goffaggine
+
+* **Lista**: Trasmutazione
+* **Livello**: 2, Raro
+* **Lancio**: 1 Azione
+* **Gittata**: 9 metri
+* **Durata**: 1 round per CM, Concentrazione
 
 Il bersaglio effettua un Tiro Salvezza su Volontà con bonus Carisma, se fallisce ogni qual volta che effettua una Prova di Competenza, Tiro Salvezza o Tiro per Colpire conta sempre un 1 tirato in più per verificare i fallimenti critici.
 
-## Gragnola di Ghiande di Kyrin
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 50 metri
-- **Componenti**:: V, S, M (9 ghiande che vengono consumate, un pezzo di caucciù)
-- **Durata**:: 1 minuto per CM, Concentrazione
+### Gragnola di Ghiande di Kyrin
+
+* **Lista**: Animali e Piante
+* **Livello**: 2, Non Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 50 metri
+* **Durata**: 1 minuto per CM, Concentrazione
 
 Incanti 9 ghiande di energia magica e queste incominciano a vorticare 30 centimetri sopra la tua spalla.
 Ogni round, spendendo 1 Azione, puoi lanciare fino a 5 ghiande contro uno o più bersagli.
@@ -8135,13 +8073,13 @@ Esegui un solo Tiro per Colpire con incantesimi da distanza e confronta il risul
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi incantare due ghiande in più.
 
-## Gragnola di Ghiande Infuocate di Kyrin
-- **Lista di Magia**:: Animali e Piante, Fuoco
-- **Livello**:: 3, Raro
-- **T. di Lancio**:: 2 Azione
-- **Gittata**:: 50 metri
-- **Componenti**:: V, S, M (9 ghiande che vengono consumate, un pezzo di caucciù)
-- **Durata**:: 1 minuto per CM, Concentrazione
+### Gragnola di Ghiande Infuocate di Kyrin
+
+* **Lista**: Animali e Piante, Fuoco
+* **Livello**: 3, Raro
+* **Lancio**: 2 Azione
+* **Gittata**: 50 metri
+* **Durata**: 1 minuto per CM, Concentrazione
 
 Incanti 9 ghiande di energia magica e queste incominciano a vorticare 30 centimetri sopra la tua spalla.
 Ogni round, spendendo 1 Azione, puoi lanciare fino a 5 ghiande contro uno o più bersagli.
@@ -8149,13 +8087,13 @@ Esegui un solo Tiro per Colpire con incantesimi da distanza e confronta il risul
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi incantare due ghiande in più.
 
-## Gragnola di Limoni di Kyrin
-- **Lista di Magia**:: Animali e Piante, Terra
-- **Livello**:: 3, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 30 metri
-- **Componenti**:: V, S, M (almeno 9 gocce di limone, una boccetta)
-- **Durata**:: 1 round per CM, Concentrazione
+### Gragnola di Limoni di Kyrin
+
+* **Lista**: Animali e Piante, Terra
+* **Livello**: 3, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 30 metri
+* **Durata**: 1 round per CM, Concentrazione
 
 Incanti una boccetta con dentro almeno 9 gocce di limone.
 Ogni round, spendendo 1 Azione, puoi spruzzare fino a 2 gocce di limone, delle 9 totali, contro uno o più bersagli entro 30 metri.
@@ -8163,13 +8101,13 @@ Esegui un solo Tiro per Colpire con incantesimi da distanza e confronta il risul
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi creare due gocce di limone in più.
 
-## Gragnola di Marroni di Kyrin
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 5, Molto Raro
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 60 metri
-- **Componenti**:: V, S, M (9 marroni che vengono consumati, un pezzo di caucciù)
-- **Durata**:: 1 minuto per CM, Concentrazione
+### Gragnola di Marroni di Kyrin
+
+* **Lista**: Animali e Piante
+* **Livello**: 5, Molto Raro
+* **Lancio**: 1 Azione
+* **Gittata**: 60 metri
+* **Durata**: 1 minuto per CM, Concentrazione
 
 Incanti 9 marroni di energia magica e queste incominciano a vorticare 60 centimetri sopra la tua spalla.
 Ogni round, spendendo 1 Azioni, puoi lanciare fino a 5 marroni contro uno o più bersagli.
@@ -8177,25 +8115,25 @@ Esegui un solo Tiro per Colpire con incantesimi da distanza e confronta il risul
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi incantare due marroni in più.
 
-## Grido di dolore
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 1, Raro
-- **T. di Lancio**:: 1 Reazione
-- **Gittata**:: personale
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Grido di dolore
+
+* **Lista**: Necromanzia
+* **Livello**: 1, Raro
+* **Lancio**: 1 Reazione
+* **Gittata**: personale
+* **Durata**: Istantanea
 
 Come Azione di Reazione emetti un grido di dolore quando colpito in mischia. La creatura che ti ha colpito deve effettuare un Tiro Salvezza su Tempra o subito 2d4 di danno da Vuoto.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia causi 1d6 di danno in più.
 
-## Guarigione
-- **Lista di Magia**:: Cura
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Guarigione
+
+* **Lista**: Cura
+* **Livello**: 6, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Scegli una creatura a gittata e che puoi vedere. un'ondata di energia positiva curativa travolge la creatura, facendole recuperare 70 Punti Ferita. L'incantesimo prova anche a contrastare a qualsiasi cecità, sordità e malattia (anche magica) che affligga il bersaglio. Questo incantesimo causa 50 Punti Ferita di danno ad un non morto con un Tiro per Colpire con incantesimo a tocco.
 
@@ -8205,13 +8143,13 @@ Scegli una creatura a gittata e che puoi vedere. un'ondata di energia positiva c
 
 **NOTA**: Se incantatore e creatura curata sono entrambi **Devoti** dello stesso Patrono l'incantesimo riporta a pieno di Punti Ferita.
 
-## Guarigione di Massa
-- **Lista di Magia**:: Cura
-- **Livello**:: 9, Leggendario
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Guarigione di Massa
+
+* **Lista**: Cura
+* **Livello**: 9, Leggendario
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Un effluvio di energia guaritrice scorre da te verso le creature ferite che ti circondano. Ripristini fino a 700 Punti Ferita, divisi come preferisci tra qualsiasi creatura a gittata e che puoi vedere (con un massimo di 70 Punti Ferita a creatura). Le creature guarite da questo incantesimo sono curate anche di tutte le malattie e da qualsiasi effetto che le renda accecate o assordate. Questo incantesimo può infliggere fino a 120 Punti Ferita di danno ad un non morto. TS su Tempra per annullare l'effetto.
 
@@ -8219,23 +8157,23 @@ Se l'incantatore e creatura curata sono entrambi **Seguaci** dello stesso Patron
 
 Se l'incantatore e creatura curata sono entrambi **Devoti** dello stesso Patrono la cura assegnata aumenta di 50\%
 
-## Guida
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Reazione
-- **Gittata**:: 3 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 Round
+### Guida
+
+* **Lista**: Divinazione
+* **Livello**: 0, Comune
+* **Lancio**: 1 Reazione
+* **Gittata**: 3 metri
+* **Durata**: 1 Round
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Una volta, prima che l'incantesimo termini, il bersaglio può tirare un d4 e sommare il risultato tirato a una prova di competenza a sua scelta. Può tirare il dado prima o dopo aver effettuato la prova di Competenza. L'incantesimo ha poi termine. Non è possibile lanciare Guida sulla stessa creatura ad intervalli inferiori ad 1 ora.
 
-## Guscio Anti-Vita
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (raggio di 3 metri)
-- **Componenti**:: V, S
-- **Durata**:: massimo 1 ora
+### Guscio Anti-Vita
+
+* **Lista**: Animali e Piante
+* **Livello**: 5, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (raggio di 3 metri)
+* **Durata**: massimo 1 ora
 
 Una barriera luminosa si estende fino a un raggio di 3 metri intorno a te, muovendosi con te e rimanendo centrata su di te, tenendo distanti le creature che non siano non morti o costrutti. La barriera permane per la durata.
 
@@ -8243,13 +8181,13 @@ La barriera impedisce a una creatura soggetta di attraversarla in alcun modo. Un
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia.
 
-## Identificare
-- **Lista di Magia**:: Universale
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: variabile
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (una gemma del valore di almeno 10 mo e una piuma di gufo che l'incantesimo consumano)
-- **Durata**:: Variabile
+### Identificare
+
+* **Lista**: Universale
+* **Livello**: 1, Comune
+* **Lancio**: variabile
+* **Gittata**: Contatto
+* **Durata**: Variabile
 
 Scegli un oggetto con cui devi restare a contatto per tutto il lancio dell'incantesimo. Se si tratta di un oggetto magico o altro oggetto imbevuto di magia effettua una prova di Arcana, con un bonus di +2d6, come parte di lancio dell'incantesimo.
 
@@ -8261,13 +8199,13 @@ La prova di Arcana dura 10 minuti. Con punteggio Arcana 6 dura 5 minuti, con 12 
 
 **Solo se ottieni un Successo Critico Magico** apprendi se l'oggetto è maledetto.
 
-## Illusione Minore
-- **Lista di Magia**:: Universale
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: S, M (un pezzo di vello)
-- **Durata**:: 1 minuto
+### Illusione Minore
+
+* **Lista**: Universale
+* **Livello**: 0, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto
 
 Crei l'immagine di un oggetto o un suono a gittata per la durata dell'incantesimo. L'illusione ha termine se la interrompi con un'Azione o lanci di nuovo questo incantesimo.
 
@@ -8277,13 +8215,13 @@ Se crei l'immagine di un oggetto (come una sedia, un'impronta fangosa o un picco
 
 Una creatura che usa 3 Azioni per esaminare il suono o l'immagine può determinare che si tratta di un'illusione con una prova riuscita di Intelligenza (Indagare) contro la DC del Tiro Salvezza del tuo incantesimo. Se una creatura riconosce l'illusione per quello che è, per lei l'illusione sbiadisce.
 
-## Illusione Programmata
-- **Lista di Magia**:: Illusione
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un pezzo di vello e polvere di giada del valore di almeno 25 mo)
-- **Durata**:: Fino a che dissolto
+### Illusione Programmata
+
+* **Lista**: Illusione
+* **Livello**: 6, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: Fino a che dissolto
 
 Crei, a gittata, l'illusione di un oggetto, creatura o qualche altro fenomeno visibile che si attiva quando viene soddisfatta una specifica condizione. Fino ad allora l'illusione è impercettibile. Non può essere più grande di un cubo di 9 metri di spigolo, e decidi tu quando lanci l'incantesimo, come si comporti l'illusione e che suoni produca. L'esibizione programmata può durare fino a 5 minuti. Quando occorrono le condizioni da te specificate, l'illusione si manifesta e si comporta nel modo da te descritto. Una volta che l'illusione ha terminato la sua esibizione, scompare e rimane dormiente per 10 minuti. Dopo questo periodo, l'illusione può essere attivata di nuovo.
 
@@ -8291,13 +8229,13 @@ La condizione di attivazione può essere generica o dettagliata quanto vuoi, seb
 
 L'interazione fisica con l'immagine la rivela come illusione, dato che le cose le passano attraverso. Una creatura che usi 3 Azioni per esaminare l'immagine può determinare che è un'illusione con una prova riuscita di Intelligenza (Indagare) contro la DC del Tiro Salvezza dell'incantesimo. Se una creatura riconosce l'illusione per quello che è, essa può vedere attraverso l'immagine, e qualsiasi suono prodotto dall'immagine le suona artefatto.
 
-## Immagine Maggiore
-- **Lista di Magia**:: Illusione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un pezzo di vello)
-- **Durata**:: Concentrazione, massimo 1 minuto per CM
+### Immagine Maggiore
+
+* **Lista**: Illusione
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: Concentrazione, massimo 1 minuto per CM
 
 Crei l'immagine di un oggetto, una creatura o qualche altro fenomeno visibile non più grande di un cubo di 6 metri di spigolo. L'immagine appare in un punto a gittata che puoi vedere e vi rimane per la durata dell'incantesimo. L'immagine sembra completamente reale, e comprende suoni, odori e la temperatura appropriata alla cosa raffigurata. Non puoi generare calore o freddo sufficiente a provocare danni, né un suono abbastanza forte da infliggere danno da suono o assordare una creatura, o un odore che possa far star male una creatura (come il fetore di un troglodita). Finché resti a gittata dell'illusione, puoi usare un'Azione per far muovere l'immagine in qualsiasi altro punto a gittata.
 
@@ -8307,13 +8245,13 @@ L'interazione fisica con l'immagine la rivela come illusione, dato che le cose v
 
 **Se ottieni un Successo Critico Magico** nella Prova di Magia l'incantesimo dura finché non viene dissolto, senza richiedere la tua concentrazione.
 
-## Immagine Proiettata
-- **Lista di Magia**:: Illusione
-- **Livello**:: 7, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 750 chilometri
-- **Componenti**:: V, S, M (una tua piccola riproduzione fatta di materiali del valore almeno di 5 mo)
-- **Durata**:: 1 giorno
+### Immagine Proiettata
+
+* **Lista**: Illusione
+* **Livello**: 7, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 750 chilometri
+* **Durata**: 1 giorno
 
 Crei una copia illusoria di te stesso che permane per la durata. La copia può apparire in qualsiasi luogo entro la gittata che tu abbia già visto, ignorando qualsiasi ostacolo frapposto. L'illusione riproduce il tuo aspetto e i tuoi rumori ma è intangibile. Se l'illusione subisce danni, scompare, e l'incantesimo ha termine.
 
@@ -8323,25 +8261,25 @@ Puoi vedere attraverso i suoi occhi e udire tramite le sue orecchie come se foss
 
 L'interazione fisica con l'immagine la rivela come illusione, dato che le cose le passano attraverso. Una creatura che usi 3 Azioni per esaminare l'immagine può determinare che è un'illusione con una prova riuscita di Consapevolezza contro la DC del Tiro Salvezza dell'incantesimo. Se una creatura riconosce l'illusione per quello che è, essa può vedere attraverso l'immagine, e qualsiasi suono prodotto dall'immagine le suona artefatto.
 
-## Immagine Silenziosa
-- **Lista di Magia**:: Illusione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un pezzo di vello)
-- **Durata**:: Concentrazione, massimo 3 minuti per CM
+### Immagine Silenziosa
+
+* **Lista**: Illusione
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: Concentrazione, massimo 3 minuti per CM
 
 Crei l'immagine di un oggetto, una creatura o qualche altro fenomeno visibile non più grande di un cubo di 3 metri di spigolo. L'immagine appare in un punto a gittata che puoi vedere e resta per la durata dell'incantesimo. L'immagine è puramente visiva; non è accompagnata da suoni, odori o altri effetti sensoriali. Puoi usare un'Azione per far muovere l'immagine in qualsiasi altro punto a gittata. Quando l'immagine cambia posizione, puoi alterarne l'aspetto così che i suoi movimenti appaiano naturali. Per esempio, se crei l'immagine di una creatura e la muovi, puoi alterare l'immagine in modo che sembri camminare.
 
 L'interazione fisica con l'immagine la rivela come illusione, dato che le cose vi passano attraverso. Una creatura che usa 3 Azioni per esaminare l'immagine può determinare che si tratta di un'illusione con una prova di Consapevolezza contro la DC del Tiro Salvezza del tuo incantesimo. Se una creatura riconosce l'illusione per quello che è, la creatura può vedervi attraverso.
 
-## Immagine Speculare
-- **Lista di Magia**:: Illusione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Immagine Speculare
+
+* **Lista**: Illusione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 minuto
 
 Nel tuo spazio compaiono 2d4 duplicati illusori di te stesso. Fino al termine dell'incantesimo, i duplicati si muovono con te e imitano le tue azioni, scambiandosi di posto in modo da rendere impossibile determinare quale sia l'immagine reale. Puoi usare 1 Azione per congedare i duplicati illusori.
 
@@ -8352,13 +8290,13 @@ Una creatura che non può vedere, o si affida a sensi diversi dalla vista (come 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia crei una immagine duplicata in più fino ad un massimo totale di 8 immagini.
 
-## Imprigionare
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 9, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (una raffigurazione su vello o una statuetta incisa con le fattezze del bersaglio, e una componente speciale che varia a seconda della versione che scegli dell'incantesimo, del valore di almeno 500 mo per Dado Ferita del bersaglio)
-- **Durata**:: Fino a dissolvimento
+### Imprigionare
+
+* **Lista**: Abiurazione
+* **Livello**: 9, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: Fino a dissolvimento
 
 Crei dei vincoli magici per bloccare una creatura a gittata e che puoi vedere. Il bersaglio deve superare un Tiro Salvezza su Volontà o essere avvinto dall'incantesimo; se lo supera, è immune all'incantesimo qualora lo lanci di nuovo. Mentre è soggetta a questo incantesimo, la creatura non ha bisogno di respirare, mangiare o bere e non invecchia. Gli incantesimi di divinazione non possono localizzare né percepire il bersaglio.
 
@@ -8376,13 +8314,13 @@ Un incantesimo dissolvi magie può porre fine all'incantesimo solo se lanciato d
 
 Puoi usare una particolare componente speciale per creare solo una prigione alla volta. Se lanci l'incantesimo di nuovo usando la stessa componente, il bersaglio del primo lancio dell'incantesimo viene immediatamente liberato dal suo vincolo.
 
-## Inaridire
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Inaridire
+
+* **Lista**: Necromanzia
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: Istantanea
 
 Energia necromantica avvolge una creatura di tua scelta a gittata e che puoi vedere, deprivandola di linfa e vitalità. Il bersaglio deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza il bersaglio subisce 8d8 danni da Vuoto, o la metà di questi danni se supera il Tiro Salvezza. L'incantesimo non ha effetto su non morti o costrutti.
 
@@ -8392,12 +8330,11 @@ Se il bersaglio è un vegetale non magico che non sia anche una creatura, come u
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Individuazione del Magico
-- **Lista di Magia**:: Universale
+### Individuazione del Magico
+- **Lista**:: Universale
 - **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
+- **Lancio**:: 2 Azioni
 - **Gittata**:: Personale
-- **Componenti**:: V, S
 - **Durata**:: 1d4 +1 round per CM
 
 Per la durata, percepisci la presenza della magia entro 9 metri da te. Puoi usare 1 Azione per vedere una flebile aura che si estende intorno a qualsiasi creatura o oggetto visibile nell'area che rechi magia. Con due Azioni ne apprendi anche la Liste di Magia, se ce l'ha.
@@ -8406,25 +8343,25 @@ L'incantesimo può penetrare la maggior parte delle barriere, ma è bloccato da 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 3 round.
 
-## Individuazione delle Malattie e dei Veleni
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (una foglia di basilico)
-- **Durata**:: 1 round per CM
+### Individuazione delle Malattie e dei Veleni
+
+* **Lista**: Divinazione
+* **Livello**: 1, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 round per CM
 
 Per la durata, percepisci la presenza e posizione di veleni, creature velenose e malattie entro 9 metri da te. Inoltre riesci a identificare il tipo di veleno, creatura velenosa o malattia. L'incantesimo può penetrare la maggior parte delle barriere, ma è bloccato da 30 centimetri di pietra, 2,5 centimetri di metallo comune, un sottile foglio di piombo o 1 metro di legno o terra.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia durata raddoppia.
 
-## Individuazione dei Pensieri
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 2, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un pezzo di rame)
-- **Durata**:: 1 minuto
+### Individuazione dei Pensieri
+
+* **Lista**: Divinazione
+* **Livello**: 2, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 minuto
 
 Per la durata, puoi leggere i pensieri di certe creature. Quando lanci questo incantesimo e con altre due Azioni in ciascun round successivo sino al termine dell'incantesimo, puoi concentrare la tua mente su qualsiasi creatura che tu possa vedere e si trovi entro 9 metri da te. Se la creatura che hai scelto ha un punteggio di Intelligenza -3 o meno o non parla nessun linguaggio, la creatura ignora l'effetto.
 
@@ -8435,25 +8372,25 @@ Le domande poste verbalmente alla creatura bersaglio, ovviamente, modellano il c
 Puoi anche usare questo incantesimo per individuare la presenza di creature pensanti che non puoi vedere. Quando lanci questo incantesimo o con 2 Azioni nella sua durata, puoi cercare pensieri entro 9 metri da te. L'incantesimo può penetrare le barriere, ma è bloccato da 60 centimetri di pietra, 5 centimetri di metallo che non sia il piombo, o un sottile foglio di piombo. Non puoi individuare una creatura con Intelligenza -3 o meno, o una creatura che non parla alcun linguaggio. Una volta individuata in questo modo la presenza di una creatura, puoi leggerne i pensieri per la durata dell'incantesimo finché resta nella gittata, come descritto sopra, anche se non puoi vederla.
 Mentre hai attivo questo incantesimo per il lancio di altri incantesimo risulterai Distratto.
 
-## Infliggi Ferite
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Infliggi Ferite
+
+* **Lista**: Necromanzia
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Effettua un attacco in mischia con incantesimo contro una creatura a portata. Se colpisci, il bersaglio subisce 3d10 danni da Vuoto, Tiro Salvezza su Tempra per dimezzare.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 2d8.
 
-## Ingrandire/Ridurre
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un pizzico di ferro in polvere)
-- **Durata**:: 1 minuto
+### Ingrandire/Ridurre
+
+* **Lista**: Trasmutazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto
 
 Fai sì che una creatura od oggetto a gittata e che puoi vedere ingrandisca o rimpicciolisca per la durata dell'incantesimo. Scegli una creatura o un oggetto che non sia né indossato né trasportato. Se il bersaglio non è consenziente, può effettuare un Tiro Salvezza su Tempra, se lo supera, l'incantesimo non ha effetto. Se il bersaglio è una creatura, tutto ciò che sta indossando e trasportando cambia taglia assieme a essa. Qualsiasi oggetto lasciato cadere da una creatura soggetta a questo incantesimo ritorna subito alla sua taglia normale.
 
@@ -8462,61 +8399,61 @@ Fai sì che una creatura od oggetto a gittata e che puoi vedere ingrandisca o ri
 
 **Per ogni due Critici ottenuti** nella Prova di Magia la creatura aumenta di un altra taglia, oppure influenzi un altra creature entro 6 metri dalla prima.
 
-## Insetto Gigante
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Insetto Gigante
+
+* **Lista**: Animali e Piante
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 10 minuti
 
 Per la durata dell'incantesimo, trasformi fino a dieci centopiedi, tre ragni, cinque vespe o uno scorpione a gittata, in versioni giganti della loro forma naturale. Un centopiedi diventa un centopiedi gigante, un ragno diventa un ragno gigante, una vespa diventa una vespa gigante e uno scorpione diventa uno scorpione gigante. Ogni creatura obbedisce ai tuoi comandi vocali e, in combattimento, agisce in ciascun round durante il tuo round. Il Narratore possiede le statistiche di queste creature, e sarà sempre Il Narratore a risolvere le loro azioni e i loro movimenti. Una creatura resta nella sua forma gigante per la durata, finché non scende a 0 Punti Ferita, o finché non usi un'Azione per interrompere l'effetto su di essa.
 
 Il Narratore può permetterti di scegliere bersagli differenti. Per esempio, se trasformi un'ape, la sua versione gigante potrebbe avere le stesse statistiche della vespa gigante.
 
-## Interdizione alla Morte
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 1 ora
+### Interdizione alla Morte
+
+* **Lista**: Necromanzia
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 ora
 
 Lanci l'incantesimo a contatto con una creatura. Conferisci al bersaglio protezione dalla morte. La prima volta che il bersaglio dovesse scendere a 0 Punti Ferita in seguito al danno subito, il bersaglio scende invece a 1 punto ferita e l'incantesimo ha fine. Se l'incantesimo è ancora attivo quando il bersaglio è vittima di un effetto che lo ucciderebbe all'istante senza infliggere danni,quell'effetto viene invece negato sul bersaglio e l'incantesimo ha fine.
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia l'incantesimo protegge una volta in più o protegge un altra creatura.
 
-## Intermittenza
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 round per CM
+### Intermittenza
+
+* **Lista**: Trasmutazione
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 round per CM
 
 Tira un 1d6 alla fine di ciascun tuo round per la durata di questo incantesimo. Se ottieni un numero dispari svanisci dal tuo attuale piano di esistenza e riappari sul Piano Etereo (l'incantesimo fallisce e il lancio è sprecato qualora tu fossi già su quel piano). All'inizio del tuo prossimo round, e quando l'incantesimo termina, qualora tu fossi sul Piano Etereo, ritorni in uno spazio non occupato di tua scelta e che puoi vedere, entro 3 metri dallo spazio da cui sei svanito. Se nessuno spazio non occupato è disponibile entro questa gittata, compari nello spazio non occupato più vicino (determinato casualmente se è disponibile più di uno spazio). Puoi interrompere l'incantesimo con un'Azione.
 
 Mentre sei sul Piano Etereo, puoi vedere e udire il piano da cui provieni, che percepisci in sfumature di grigio, ma non puoi comunque percepire nulla che si trovi a più di 18 metri di distanza. Puoi interagire solo con creature che si trovano sul Piano Etereo. Le creature che non si trovano lì non possono né percepirti né interagire con te, a meno che non siano provviste della capacità di farlo.
 
-## Intralciare
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 27 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Intralciare
+
+* **Lista**: Animali e Piante
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 27 metri
+* **Durata**: 1 minuto
 
 Rampicanti e rami stritolanti spuntano dal terreno in un quadrato di 6 metri di lato a partire da un punto a gittata. Per la durata, questi vegetali trasformano il terreno nell'area in terreno difficile.
 
 Una creatura nell'area nel momento in cui lanci questo incantesimo deve superare un Tiro Salvezza su Tempra o restare intralciata da questi vegetali fino al termine dell'incantesimo. Una creatura intralciata (vedi pag. ) dai vegetali può usare due Azioni per effettuare un nuovo Tiro Salvezza. Se la supera, si libera. Quando l'incantesimo ha termine, i vegetali evocati svaniscono.
 
-## Inversione della Gravità
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 7, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 30 metri
-- **Componenti**:: V, S, M (una calamita e un fil di ferro)
-- **Durata**:: 1 minuto
+### Inversione della Gravità
+
+* **Lista**: Trasmutazione
+* **Livello**: 7, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 30 metri
+* **Durata**: 1 minuto
 
 Questo incantesimo inverte la gravità in un cilindro di raggio 15 metri, alto 30 metri, centrato in un punto a gittata. Quando lanci questo incantesimo, tutte le creature e gli oggetti che non sono in qualche modo ancorati al terreno cadono verso l'alto e raggiungono la cima dell'area. Una creatura può tentare un Tiro Salvezza su Riflessi per afferrare un oggetto fisso a portata, per evitare di cadere in questo modo, in caso lo superi.
 
@@ -8524,13 +8461,13 @@ Se lungo questa caduta si incontra un oggetto solido (il soffitto), gli oggetti 
 
 Al termine della durata, gli oggetti e le creature colpite ricadono verso il basso.
 
-## Inviare
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Illimitata
-- **Componenti**:: V, S, M (un piccolo pezzo di cavo di rame)
-- **Durata**:: 1 round
+### Inviare
+
+* **Lista**: Invocazione
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Illimitata
+* **Durata**: 1 round
 
 Invii un breve messaggio di 25 parole o meno a una creatura con cui sei familiare. La creatura sente il messaggio nella sua mente, ti riconosce come mittente e può risponderti in modo simile. L'incantesimo permette a creature con un punteggio di Intelligenza almeno di -2 di comprendere il significato del tuo messaggio anche se non comprende la tua lingua.
 
@@ -8540,37 +8477,37 @@ Puoi inviare il messaggio attraverso qualsiasi distanza e anche su altri piani d
 
 **NOTA**: i Devoti di Nethergal ottengono un Successo Critico Magico in automatico al lancio dell'incantesimo
 
-## Invisibilità
-- **Lista di Magia**:: Illusione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un ciglio avvolto nella gomma arabica)
-- **Durata**:: 1 minuto per CM
+### Invisibilità
+
+* **Lista**: Illusione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 minuto per CM
 
 Lanci l'incantesimo a contatto di una creatura. Il bersaglio diventa invisibile fino alla fine dell'incantesimo. Qualsiasi cosa il bersaglio stia indossando o trasportando diventa invisibile finché resta sul bersaglio. L'incantesimo ha fine per il bersaglio che attacca od esegue un incantesimo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi scegliere un'ulteriore creatura bersaglio o aumenti 1 minuto la durata.
 
-## Invisibilità Superiore
-- **Lista di Magia**:: Illusione
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Invisibilità Superiore
+
+* **Lista**: Illusione
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 minuto
 
 Lanci l'incantesimo a contatto di una creatura. Il bersaglio diventa invisibile fino alla fine dell'incantesimo. Qualsiasi cosa indossata o trasportata dal bersaglio diventa invisibile finché resta addosso al bersaglio.
 
 Eseguire incantesimi o azioni di attacco non fa diventare visibile.
 
-## Invocare il Fulmine
-- **Lista di Magia**:: Aria
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 1 round
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: Concentrazione, massimo 10 minuti
+### Invocare il Fulmine
+
+* **Lista**: Aria
+* **Livello**: 3, Comune
+* **Lancio**: 1 round
+* **Gittata**: 36 metri
+* **Durata**: Concentrazione, massimo 10 minuti
 
 Una nube di tempesta compare nella forma di un cilindro alto 3 metri con un raggio di 18 metri, centrato su di un punto che puoi vedere, 30 metri sopra di te. L'incantesimo fallisce automaticamente se non puoi vedere il punto nell'aria dove apparirà la nube di tempesta (per esempio, se sei in una stanza che non può accogliere la nube). Quando lanci l'incantesimo, scegli un punto che puoi vedere entro la gittata. Un fulmine si abbatterà dalla nuvola su quel punto. Ogni creatura entro 1 metro da quel punto deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 3d10 danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Durante ciascun tuo round fino al termine dell'incantesimo, puoi usare due Azioni per richiamare un altro fulmine in questo modo, prendendo come bersaglio lo stesso punto o uno diverso.
 
@@ -8578,13 +8515,13 @@ Se quando lanci questo incantesimo ti trovi all'esterno in condizioni di tempest
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 2d6.
 
-## Labirinto
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 8, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: massimo 10 minuti
+### Labirinto
+
+* **Lista**: Evocazione
+* **Livello**: 8, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: massimo 10 minuti
 
 Bandisci una creatura a gittata e che puoi vedere in un semipiano labirintico. Il bersaglio rimane lì per la durata dell'incantesimo o finché non fugge dal labirinto. Il bersaglio può impiegare 3 Azioni per tentare di fuggire a partire dal secondo round. Quando lo fa, effettua un Tiro Salvezza su Volontà. Se la supera, fugge, e l'incantesimo termina (un minotauro o un demone goristro riescono automaticamente).
 
@@ -8592,13 +8529,13 @@ Quando l'incantesimo termina, il bersaglio riappare nello spazio che aveva lasci
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 10 minuti. Con due Successo Critico Magico puoi influenzare un altra creatura.
 
-## Lacrima di Laydel
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 2, Molto Raro/Comune
-- **T. di Lancio**:: 2 Azione/1 Azione
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (una lacrima dell'incantatore)
-- **Durata**:: Istantaneo
+### Lacrima di Laydel
+
+* **Lista**: Invocazione
+* **Livello**: 2, Molto Raro/Comune
+* **Lancio**: 2 Azione/1 Azione
+* **Gittata**: 36 metri
+* **Durata**: Istantaneo
 
 L'incantatore permea di magia una lacrima che getta contro l'avversario, è necessario un Tiro per Colpire con Incantesimi a distanza.
 La creatura subisce 1d6+2d6 di danno, per stabilire il tipo di danno consultare la tabella con i valori del primo d6 tirato.
@@ -8617,35 +8554,35 @@ Il danno che l'obiettivo subisce è del tipo di Energia che risulta dal primo d6
 
 Per un Devoto di Laydel questo incantesimo è Comune e ha un tempo di lancio di 1 Azione. Inoltre può continuare a tirare ulteriori d6 di danno purché continui a tirare 6 con quel dado.
 
-## Lacrima di Ljust
-- **Lista di Magia**:: Universale
-- **Livello**:: 0, Non Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Personale
-- **Componenti**:: S, M (un piccolo oggetto)
-- **Durata**:: 10 round
+### Lacrima di Ljust
+
+* **Lista**: Universale
+* **Livello**: 0, Non Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Personale
+* **Durata**: 10 round
 
 L'incantatore permea di magia un piccolo oggetto che incomincia a brillare di luce. La luce si illumina il suo quadretto ed un ulteriore metro attorno, oltre non genera luce fioca. La durata dell'incantesimo è 10 round. L'incantatore può lanciare l'oggetto entro 18 metri e deve rimanere entro questa distanza. Non è possibile lanciare l'incantesimo più volte al giorno di quanti Punti Fato si possiedono.
 
-## Lama Infuocata
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (una foglia di sommacco)
-- **Durata**:: Concentrazione, massimo 10 minuti
+### Lama Infuocata
+
+* **Lista**: Fuoco
+* **Livello**: 2, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Personale
+* **Durata**: Concentrazione, massimo 10 minuti
 
 Crei nella tua mano una lama infuocata. La lama è simile in dimensioni e forma a una scimitarra e rimane per la durata. Se lasci andare la lama, questa sparisce, ma ne puoi creare un'altra con un'Azione. Puoi usare 2 Azioni per effettuare un attacco in mischia con la lama infuocata. Se colpisci, il bersaglio subisce 3d6 danni da fuoco. La lama infuocata emana luce intensa in un raggio di 3 metri e luce fioca per 6 metri.
 
 **Per ogni due Critici ottenuti** nella Prova di Magia il danno aumenta di 1d6.
 
-## Lanciafiamme
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 2, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un tubo in ferro di 30 cm, dei fagioli)
-- **Durata**:: 1 minuto
+### Lanciafiamme
+
+* **Lista**: Fuoco
+* **Livello**: 2, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 minuto
 
 Una fiammella compare al termine del tubo di metallo che tieni nella mano. La fiamma resta lì per la durata dell'incantesimo e non danneggia né te né il tuo equipaggiamento. La fiamma produce luce intensa nel raggio di 1 metro e luce fioca nel raggio di 1 metro. L'incantesimo termina se lo interrompi con un'Azione o se lo lanci di nuovo.
 
@@ -8653,24 +8590,23 @@ Con un Tiro per Colpire con incantesimo a distanza e spendendo 1 Azione puoi all
 
 **Per ogni Critico ottenuto** nella Prova di Magia il danno aumenta di 1d6.
 
-## Legame Telepatico
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (pezzi di gusci d'uovo da due differenti specie di creature)
-- **Durata**:: 1 ora
+### Legame Telepatico
+
+* **Lista**: Divinazione
+* **Livello**: 5, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 ora
 
 Stabilisci un collegamento telepatico tra un massimo di otto creature consenzienti a gittata di tua scelta, collegando psichicamente ciascuna creatura alle altre per la durata dell'incantesimo. Le creature con punteggio di Intelligenza -3 o meno ignorano questo incantesimo. Fino al termine dell'incantesimo, i bersagli possono comunicare telepaticamente tramite questo legame, che condividano o meno un linguaggio comune. La comunicazione è possibile a qualsiasi distanza, ma non può estendersi su differenti piani di esistenza.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 1 ora.
 
 ## Lentezza
-- **Lista di Magia**:: Trasmutazione
+- **Lista**:: Trasmutazione
 - **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
+- **Lancio**:: 2 Azioni
 - **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (una goccia di melassa)
 - **Durata**:: 1 minuto, Concentrazione
 
 Rallenti il metabolismo di massimo 2 più le volte che hai preso Adepto della Magia creature a tua scelta in un raggio di 3 metri a gittata. Al lancio dell'incantesimo ciascun bersaglio deve superare un Tiro Salvezza su Volontà od eseguire una Azione in meno a round per la durata dell'incantesimo.
@@ -8681,26 +8617,26 @@ Questo incantesimo contrasta ed è contrastato da Velocità.
 
 **Tiro Salvezza Fallimento Critico**: In caso di Fallimento Critico si viene rallentati di una ulteriore Azione.
 
-## Lettura della terra di Kyrin
-- **Lista di Magia**:: Terra
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 1 Round
-- **Gittata**:: Personale (raggio di 30 metri)
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Lettura della terra di Kyrin
+
+* **Lista**: Terra
+* **Livello**: 2, Non Comune
+* **Lancio**: 1 Round
+* **Gittata**: Personale (raggio di 30 metri)
+* **Durata**: Istantanea
 
 Appoggi le mani sulla terra e formulato l'incantesimo hai una fugace visione dell'ambiente intorno a te nel raggio sferico di 30 metri.
 Riesci a percepire la posizione e relativa forma delle creature e delle strutture che poggiano a terra.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il raggio aumenta di 10 metri.
 
-## Levitazione
-- **Lista di Magia**:: Aria
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (o un piccolo laccio di cuoio oppure un pezzo di cavo d'oro piegato a forma di tazza con un lungo stelo alla fine)
-- **Durata**:: 10 minuti
+### Levitazione
+
+* **Lista**: Aria
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 10 minuti
 
 Una creatura o oggetto a gittata che puoi vedere, scelto da te, si alza verticalmente fino a 6 metri e rimane sospeso per la durata dell'incantesimo. L'incantesimo può levitare un bersaglio pesante fino a 250 chili. Una creatura non consenziente che superi un Tiro Salvezza su Tempra ignora l'effetto.
 
@@ -8710,25 +8646,25 @@ Mentre sei sotto l'influenza di questo incantesimo sei considerato Distratto nel
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi spostarti di 1 metro lateralmente o influenzi un altra creatura.
 
-## Lettura del Magico
-- **Lista di Magia**:: Universale
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un frammento di un oggetto incantato)
-- **Durata**:: 1 minuto, finché usato
+### Lettura del Magico
+
+* **Lista**: Universale
+* **Livello**: 1, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Contatto
+* **Durata**: 1 minuto, finché usato
 
 L'incantatore conferisce la capacità di leggere una pergamena o una scritta magica ad un bersaglio. Per la durata di 1 minuto o finché usato una volta, quale venga prima, la creatura riesce automaticamente a comprendere una pergamena magica od a lanciare il contenuto della pergamena rispettando i criteri e regole di lancio incantesimi da pergamena.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi leggere o comprendere una pergamena in più.
 
-## Libertà di Movimento
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 4, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (una striscia di cuoio, avvolta intorno a un braccio o simile appendice)
-- **Durata**:: 1 ora
+### Libertà di Movimento
+
+* **Lista**: Abiurazione
+* **Livello**: 4, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 ora
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Per la sua durata, il movimento del bersaglio ignora il terreno difficile naturale, mentre gli incantesimi o altri effetti magici non possono ridurre la sua velocità né far sì che il bersaglio sia paralizzato o intralciato se hanno un DC inferiore a quella dell'incantesimo stesso.
 
@@ -8736,37 +8672,37 @@ Il bersaglio può usare due Azioni per liberarsi automaticamente da qualsiasi re
 
 **Per due Successo Critico Magico ottenuto** nella Prova di Magia puoi influenzare un altra creatura.
 
-## Lingue
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, M (un piccolo modello di argilla di una ziggurat)
-- **Durata**:: 1 ora
+### Lingue
+
+* **Lista**: Divinazione
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 ora
 
 Questo incantesimo conferisce alla creatura con cui sei stato in contatto al momento del lancio dell'incantesimo la capacità di comprendere qualsiasi linguaggio parlata che ode. Inoltre, quando il bersaglio parla, qualsiasi creatura che conosca almeno un linguaggio e può udire il bersaglio, comprende ciò che dice.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia o influenzi un'altra creatura.
 
-## Localizza Animali e Piante
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un pezzo di pelo di un segugio)
-- **Durata**:: Istantanea
+### Localizza Animali e Piante
+
+* **Lista**: Animali e Piante
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 Descrivi o nomina uno specifico tipo di bestia o vegetale. Concentrandoti sulla voce della natura nei tuoi dintorni, apprendi la direzione e la distanza dalla più vicina creatura o vegetale di quella specie, se ce ne sono entro 7,5 chilometri.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenti di 1 km l'area controllata
 
-## Localizza Creatura
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 4, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un pezzo di pelliccia di segugio)
-- **Durata**:: Concentrazione, massimo 1 ora
+### Localizza Creatura
+
+* **Lista**: Divinazione
+* **Livello**: 4, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Concentrazione, massimo 1 ora
 
 Descrivi o nomina una creatura che ti è familiare. Percepisci la direzione della posizione della creatura, purché quella creatura si trovi entro 300 metri da te. Se la creatura si muove, conosci anche la direzione del suo movimento.
 
@@ -8776,13 +8712,13 @@ Questo incantesimo non può localizzare una creatura se un flusso di acqua corre
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenta la distanza di altri 300m.
 
-## Localizza Oggetto
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un ramoscello biforcuto)
-- **Durata**:: Concentrazione, massimo 10 minuti
+### Localizza Oggetto
+
+* **Lista**: Divinazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Concentrazione, massimo 10 minuti
 
 Descrivi o nomina un oggetto che ti è familiare. Percepisci la direzione della posizione dell'oggetto, purché quell'oggetto si trovi entro 300 metri da te. Se l'oggetto si muove, conosci anche la direzione del suo movimento.
 
@@ -8792,49 +8728,49 @@ Questo incantesimo non può localizzare un oggetto se qualsiasi spessore di piom
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 1 ora.
 
-## Loquacità
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 8, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V
-- **Durata**:: 1 ora
+### Loquacità
+
+* **Lista**: Trasmutazione
+* **Livello**: 8, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 ora
 
 Fino al termine dell'incantesimo, quando effettui una prova basata sul Carisma puoi rimpiazzare il numero tirato con 15. Inoltre, non importa quello che dici, la magia o l'analisi che determina se stai dicendo la verità indicherà sempre che sei onesto.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenti di 1 ora la durata.
 
-## Luce
-- **Lista di Magia**:: Universale
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, M (una lucciola o del muschio fosforescente)
-- **Durata**:: 30 minuti di tempo reale di gioco
+### Luce
+
+* **Lista**: Universale
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 30 minuti di tempo reale di gioco
 
 Lanci l'incantesimo a contatto di un oggetto che non sia più grosso di 3 metri in qualsiasi direzione. Fino al termine dell'incantesimo, l'oggetto irradia una luce intensa in un raggio di 3 metri e penombra per ulteriori 6 metri. La luce può essere di qualsiasi colore tu voglia. Coprire completamente l'oggetto con qualcosa di opaco blocca la luce. Se un oggetto bersaglio è tenuto o indossato da una creatura ostile, quella creatura deve superare un Tiro Salvezza su Riflessi per evitare l'incantesimo. Una creatura colpita dall'incantesimo deve effettuare un Tiro Salvezza su Tempra o rimanere accecato fino alla fine del round successivo. Non puoi avere attivo più di un incantesimo Luce alla volta, un lancio successivo spegne la precedente Luce.
 
 **Per ogni Critico ottenuto** nella Prova di Magia la durata aumenta di 10 minuti reali.
 
-## Luce Diurna
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 ora di tempo reale di gioco
+### Luce Diurna
+
+* **Lista**: Invocazione
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 ora di tempo reale di gioco
 
 Una sfera di luce con raggio 6 metri si espande da un punto a tua scelta entro la gittata. La sfera irradia luce intensa e luce fioca per ulteriori 12 metri. Se scegli un punto su di un oggetto che stai reggendo o che non è indossato o trasportato, la luce si irradia dall'oggetto e si muove con esso. Coprire completamente un oggetto con qualcosa di opaco, come un vaso o un elmo, blocca la luce. Se qualsiasi parte dell'area di questo incantesimo si sovrappone con l'area di oscurità creata da un incantesimo di livello 3 o più basso, l'incantesimo che ha creato l'oscurità viene dissolto. La luce creata si considera luce solare.
 
 **NOTA**: i Devoti di Ljust o Sumkjr prendono +1 ai Tiri Salvezza finché illuminati da questo incantesimo
 
-## Luci Danzanti
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un pezzo di fosforo o legno stregato, o un lombrico)
-- **Durata**:: 10 minuti di tempo reale di gioco
+### Luci Danzanti
+
+* **Lista**: Invocazione
+* **Livello**: 1, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 10 minuti di tempo reale di gioco
 
 Crei, a gittata, fino a quattro luci delle dimensioni di una torcia, facendole apparire come torce, lanterne o sfere luminose che fluttuano nell'aria per la durata dell'incantesimo. Puoi anche combinare le quattro luci in un'unica forma luminosa vagamente umanoide di taglia Media. Qualsiasi forma scegli, ciascuna luce emette una luce fioca in un raggio di 3 metri. Come 1 Azione di Movimento durante il tuo round, puoi spostare le luci fino a 18 metri in un nuovo punto a gittata.
 
@@ -8842,23 +8778,23 @@ Una luce deve trovarsi entro 6 metri da un'altra luce creata con questo incantes
 
 **Per ogni Successo Critico Magico** nella Prova di Magia la durata aumenta di 10 minuti o crei una nuova luce.
 
-## Luminescenza
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V
-- **Durata**:: 1 minuto di tempo reale di gioco
+### Luminescenza
+
+* **Lista**: Invocazione
+* **Livello**: 1, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 minuto di tempo reale di gioco
 
 Tutti gli oggetti in una sfera di 3 metri di raggio a gittata vengono circondati da una luce blu, verde o viola (a tua scelta). Qualsiasi creatura nell'area quando l'incantesimo viene lanciato, viene anch'essa circondata dalla luce se fallisce un Tiro Salvezza su Riflessi. Per la durata dell'incantesimo, gli oggetti e le creature soggette emettono una luce fioca con raggio di 3 metri. Qualsiasi Tiro per Colpire contro una creatura od oggetto soggetto ha +2 se l'attaccante può vederlo e la creatura od oggetto non può beneficiare dell'invisibilità.
 
-## Onda rovente
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (cono di 3 metri)
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Onda rovente
+
+* **Lista**: Fuoco
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (cono di 3 metri)
+* **Durata**: Istantanea
 
 Tieni le mani chiuse davanti a te, una potente onda rovente si genera da ogni tuo pugno. Ogni creatura in un cono di 3 metri deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 1d4 di danno per Competenza Magica, fino ad un massimo di 5d4, danni da fuoco se fallisce il Tiro Salvezza, o la metà se lo supera. Il calore incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati.
 
@@ -8866,13 +8802,13 @@ Tieni le mani chiuse davanti a te, una potente onda rovente si genera da ogni tu
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Mano Arcana
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un guscio d'uovo e un guanto di pelle di serpente)
-- **Durata**:: Concentrazione, 1 minuto
+### Mano Arcana
+
+* **Lista**: Invocazione
+* **Livello**: 5, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: Concentrazione, 1 minuto
 
 Crei una mano Grande, composta di energia trasparente e luminosa, in uno spazio non occupato a gittata e che puoi vedere. La mano permane per la durata dell'incantesimo, e si muove al tuo comando, imitando i movimenti della tua mano.
 
@@ -8892,13 +8828,13 @@ Se vinci la contesa, la mano spinge il bersaglio di 1 metro più 1 metro per mod
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno dell'opzione pugno serrato aumenta di 2d8 e il danno dell'opzione mano afferrante aumenta di 2d6.
 
-## Mano Magica
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: 1d4 round +1 per punto di Competenza Magica
+### Mano Magica
+
+* **Lista**: Evocazione
+* **Livello**: 0, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1d4 round +1 per punto di Competenza Magica
 
 Una mano spettrale fluttuante compare in un punto a gittata, scelto da te. La mano resta per la durata dell'incantesimo o finché non viene interrotta con un'Azione. La mano svanisce se si dovesse trovare a più di 9 metri da te o se lanci nuovamente l'incantesimo.
 
@@ -8906,13 +8842,13 @@ Le Azioni necessarie a muovere ed usare la mano magica sono le stesse che useres
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia l'Ingombro sollevato aumenta di 1 o raddoppi la durata.
 
-## Marchio Magico
-- **Lista di Magia**:: Universale
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: Permanente
+### Marchio Magico
+
+* **Lista**: Universale
+* **Livello**: 0, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Permanente
 
 Questo incantesimo permette di iscrivere una personale runa o marchio su un oggetto. La scritta non può essere lunga più di 15 cm. La scritta può essere visibile od invisibile a seconda di come si decide al momento del lancio della magia.
 Un incantesimo di Individuazione del Magico o Lettura del magico mostra la scritta se invisibile.
@@ -8920,13 +8856,13 @@ Se la scritta è posta su una creatura questa scompare nel giro di un mese.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia scrivi un logo in più.
 
-## Messaggio
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un piccolo pezzo di cavo di rame)
-- **Durata**:: 1 round
+### Messaggio
+
+* **Lista**: Trasmutazione
+* **Livello**: 0, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 1 round
 
 Punti il dito verso una creatura a gittata e sussurri un messaggio breve. Il bersaglio (e solo il bersaglio) ode il messaggio e può replicare con un sussurro che solo tu puoi udire.
 
@@ -8934,13 +8870,13 @@ Puoi lanciare questo incantesimo anche attraverso oggetti solidi, se sei familia
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia l'incantesimo dura 1 round in più.
 
-## Metamorfosi
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 4, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un bozzolo di bruco)
-- **Durata**:: 1 ora
+### Metamorfosi
+
+* **Lista**: Animali e Piante
+* **Livello**: 4, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 ora
 
 Questo incantesimo trasforma una creatura a gittata, che puoi vedere, in una nuova forma. Una creatura non consenziente deve superare un Tiro Salvezza su Volontà per evitare l'effetto. I mutaforma superano automaticamente il Tiro Salvezza. L'incantesimo non ha effetto su di un bersaglio con 0 Punti Ferita.
 
@@ -8948,13 +8884,13 @@ La trasformazione permane per la durata dell'incantesimo o finché il bersaglio 
 
 La creatura è limitata nelle azioni che può svolgere dalla natura della sua nuova forma, e non può dialogare, lanciare incantesimi, o effettuare qualsiasi altra azione che richieda mani o di parlare. L'equipaggiamento del bersaglio si fonde nella nuova forma. La creatura non può attivare, usare, impugnare o beneficiare in alcun modo del suo equipaggiamento.
 
-## Metamorfosi Pura
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 9, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un goccio di mercurio, un mucchietto di gomma arabica, e uno sbuffo di fumo)
-- **Durata**:: 1 ora
+### Metamorfosi Pura
+
+* **Lista**: Animali e Piante
+* **Livello**: 9, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 ora
 
 Scegli una creatura od oggetto non magico a gittata e che puoi vedere. L'incantesimo non ha effetto su di un bersaglio con 0 Punti Ferita. Trasformi la creatura in una creatura diversa, la creatura in un oggetto, o l'oggetto in una creatura (l'oggetto non deve essere indossato né trasportato da un'altra creatura). La trasformazione permane per la durata dell'incantesimo o finché il bersaglio non scende a 0 Punti Ferita o muore. Se ti concentri su questo incantesimo per l'intera durata, la trasformazione diventa permanente.
 
@@ -8967,13 +8903,13 @@ I mutaforma ignorano questo incantesimo. Una creatura non consenziente può effe
 	Se l'incantesimo diventa permanente, perdi il controllo della creatura. A seconda di come l'hai trattata, potrebbe restare amichevole nei tuoi confronti.
 - *Creatura in Oggetto*. Se trasformi una creatura in un oggetto, essa si trasforma assieme a qualsiasi cosa stia indossando o trasportando. Le statistiche della creatura diventano quelle dell'oggetto, e, dopo che l'incantesimo termina e la creatura ritorna alla sua forma normale, questa non ha più ricordi del tempo trascorso in forma di oggetto.
 
-## Miraggio Arcano
-- **Lista di Magia**:: Illusione
-- **Livello**:: 7, Raro
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: Vista
-- **Componenti**:: V, S
-- **Durata**:: 10 giorni
+### Miraggio Arcano
+
+* **Lista**: Illusione
+* **Livello**: 7, Raro
+* **Lancio**: 10 minuti
+* **Gittata**: Vista
+* **Durata**: 10 giorni
 
 Fai sì che un pezzo di terreno a gittata, in un'area quadrata fino a 1,5 chilometri, appaia, risuoni e odori come qualche altro tipo di terreno. La conformazione generale del terreno rimane tuttavia la stessa. Campi aperti o una strada possono essere trasformati in un acquitrino, colline, un crepaccio o qualche altro tipo di terreno difficile o invalicabile. Un laghetto può essere trasformato in una radura erbosa, un precipizio in una lieve pendenza, un burrone cosparso di rocce in una strada ampia e liscia.
 
@@ -8983,13 +8919,13 @@ L'illusione comprende elementi uditivi, visivi, tattili e olfattivi, così da po
 
 **Con tre Successo Critico Magico ottenuto** nella Prova di Magia la durata è permanente.
 
-## Modificare Memoria
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 5, Molto Raro
-- **T. di Lancio**:: 3 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Modificare Memoria
+
+* **Lista**: Ammaliamento
+* **Livello**: 5, Molto Raro
+* **Lancio**: 3 Azioni
+* **Gittata**: 9 metri
+* **Durata**: Istantanea
 
 Tenti di rimodellare i ricordi di un'altra creatura. Una creatura che puoi vedere deve effettuare un Tiro Salvezza su Volontà. Se la stai combattendo, la creatura ha +1d6 sul Tiro Salvezza. Se fallisce il Tiro Salvezza puoi agire sui ricordi del bersaglio in merito a un evento che abbia vissuto nelle ultime 24 ore e che non sia durato più di 10 minuti.
 
@@ -9002,57 +8938,57 @@ Il Narratore può giudicare un ricordo modificato troppo insensato perché abbia
 
 **Con un Successo Critico Magico** ottenuto nella Prova di Magia puoi alterare i ricordi di un bersaglio riguardo un evento svoltosi fino a 7 giorni prima. Con due fino a 30 giorni prima, con tre fino ad 1 anno prima. Con 4 successi Critici Magici in qualsiasi punto nel passato della creatura.
 
-## Morte Apparente
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 1 Reazione
-- **Gittata**:: 18 metri
-- **Componenti**:: V
-- **Durata**:: 6 round più 1 round per CM
+### Morte Apparente
+
+* **Lista**: Necromanzia
+* **Livello**: 3, Non Comune
+* **Lancio**: 1 Reazione
+* **Gittata**: 18 metri
+* **Durata**: 6 round più 1 round per CM
 
 L'incantatore induce in sé stesso, o in una creatura consenziente, uno stato di paralisi totale che sembra identico alla morte, anche in caso di esame approfondito. Una creatura influenzata sente suoni e odori, ma non si può muovere ed è completamente priva di percezioni tattili; se il corpo viene danneggiato, non percepirà alcun fastidio, né avrà alcuna reazione fisica. Tutto il danno inflitto a una creatura in questo stato viene ridotto della metà; i veleni e gli attacchi che paralizzano o prosciugano la vita non fanno effetto prima della scadenza di questo incantesimo. È necessario un round, terminato l'incantesimo, prima che il corpo possa riprendere le sue normali funzioni vitali.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la durata o influenzi un altra creatura.
 
-## Movimenti del Ragno
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (una goccia di bitume e un ragno)
-- **Durata**:: 10 minuti
+### Movimenti del Ragno
+
+* **Lista**: Trasmutazione
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 10 minuti
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Fino al termine dell'incantesimo, la creatura ottiene la capacità di spostarsi verso l'alto, il basso e lungo superfici verticali o stando a testa in giù sul soffitto, tenendo le mani libere. Il bersaglio ottiene anche velocità di scalata pari alla sua velocità di movimento. La creatura soggetta all'incantesimo si considera Distratta nel lancio di altri incantesimi.
 
-## Muovere il Terreno
-- **Lista di Magia**:: Terra
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un badile di ferro e un piccola borsa contenente un misto di tipi di terreno - argilla, concime e sabbia)
-- **Durata**:: Concentrazione, massimo 2 ore
+### Muovere il Terreno
+
+* **Lista**: Terra
+* **Livello**: 6, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: Concentrazione, massimo 2 ore
 
 Scegli un'area sul terreno a gittata, non più grande di 12 metri di lato. Per la durata, puoi rimodellare terriccio, sabbia o argilla nell'area in qualsiasi modo tu voglia. Puoi innalzare o abbassare l'altitudine dell'area, creare o riempire un fossato, erigere o abbassare un muro, o formare un pilastro. La portata di questi cambiamenti non può eccedere metà della dimensione più grossa dell'area. Così, se operi su di un quadrato di 12 metri di lato, puoi creare un pilastro alto 6 metri, innalzare o abbassare l'altitudine del terreno di 6 metri, scavare un fossato profondo 6 metri, e così via. Ci vogliono 10 minuti per completare questi mutamenti. Al termine di ogni 10minuti trascorsi a concentrarsi sull'incantesimo, puoi scegliere una nuova area di terreno su cui operare.
 
 Dato che la trasformazione del terreno avviene lentamente, le creature nell'area di solito non possono restare intrappolate o ferite dal movimento del terreno. L'incantesimo non può manipolare la pietra naturale o le costruzioni in pietra. Le rocce e le strutture si muovono per adattarsi al nuovo terreno. Se il modo in cui modelli il terreno renderebbe una struttura instabile, questa potrebbe crollare. Allo stesso modo, questo incantesimo non influenza direttamente la crescita dei vegetali. La terra smossa trasporta con sé qualsiasi vegetale presente.
 
-## Muro di Forza
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 5, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un pizzico di polvere prodotta frantumando una gemma trasparente)
-- **Durata**:: 10 minuti
+### Muro di Forza
+
+* **Lista**: Invocazione
+* **Livello**: 5, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 10 minuti
 
 Un invisibile muro di forza si forma in un punto a gittata scelto da te. Il muro appare in qualsiasi orientamento da te desiderato, come una barriera orizzontale o verticale oppure angolata. Può fluttuare nell'aria o appoggiarsi su di una superficie solida. Puoi darle la forma di una cupola semisferica o di una sfera con un raggio massimo di 3 metri, oppure darle l'aspetto di una superficie piana composta da un massimo di dieci pannelli di 3 metri per 3 metri. Ogni pannello deve essere contiguo a un altro pannello. In qualsiasi forma, il muro ha uno spessore di 75 centimetri e resta per tutta la durata dell'incantesimo. Se il muro taglia uno spazio di una creatura, quando compare, la creatura viene spinta da un lato del muro (a tua discrezione). Nulla può attraversare fisicamente il muro, chiunque al di là del muro ha copertura completa. È immune a tutti i danni e non può essere dissolto da dissolvi magie. Tuttavia, il muro è distrutto all'istante dall'incantesimo disintegrazione. Il muro si estende anche sul Piano Etereo, impedendo ai viaggiatori eterei di attraversarlo.
 
-## Muro di Fuoco
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 4, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un piccolo pezzo di fosforo)
-- **Durata**:: 1 minuto
+### Muro di Fuoco
+
+* **Lista**: Fuoco
+* **Livello**: 4, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 1 minuto
 
 Crei un muro di fuoco su di una superficie solida a gittata. Puoi creare un muro lungo fino a 18 metri, alto fino a 6 metri e spesso 30 centimetri, o un muro circolare di 6 metri di diametro, 6 metri di altezza e 30 centimetri di spessore. Il muro è opaco e rimane per la durata dell'incantesimo.
 
@@ -9060,13 +8996,13 @@ Quando il muro appare, ogni creatura nella sua area deve effettuare un Tiro Salv
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 3d6.
 
-## Muro di Ghiaccio
-- **Lista di Magia**:: Acqua
-- **Livello**:: 6, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un piccolo pezzo di quarzo)
-- **Durata**:: 10 minuti
+### Muro di Ghiaccio
+
+* **Lista**: Acqua
+* **Livello**: 6, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 10 minuti
 
 Crei un muro di ghiaccio su di una superficie solida a gittata. Puoi creare una cupola semisferica o una sfera con un raggio massimo di 3 metri, o puoi creare una superficie piana composta di un massimo di dieci panelli quadrati di 3 metri di lato. Ogni pannello deve essere contiguo ad almeno un altro pannello. In ogni forma, il muro è spesso 30 centimetri e rimane per la durata dell'incantesimo.
 
@@ -9076,13 +9012,13 @@ Il muro è un oggetto che può essere danneggiato e sfondato. Ogni sezione di 3 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumentano di 5d6.
 
-## Muro di Pietra
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 5, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un piccolo blocco di granito)
-- **Durata**:: 10 minuti
+### Muro di Pietra
+
+* **Lista**: Invocazione
+* **Livello**: 5, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 10 minuti
 
 Un muro di pietra solida non magico si forma in un punto a gittata, scelto da te. Il muro è spesso 15 centimetri ed è composto da 10 pannelli di 3 per 3 metri. Ogni pannello deve essere contiguo ad almeno un altro pannello. In alternativa, puoi creare pannelli 3 x 6 metri di soli 7,5 centimetri di spessore.
 
@@ -9092,13 +9028,13 @@ Il muro può aver qualsiasi forma tu desideri, sebbene non possa occupare lo ste
 
 Se crei un muro non verticale del genere, più lungo di 6 metri, devi dimezzare le dimensioni di ciascun pannello per creare dei supporti. Puoi modellare rozzamente la pietra per creare merlature, spalti e così via. Il muro è un oggetto fatto di pietra che può essere danneggiato e sfondato. Ogni pannello ha Difesa 15, Durezza 15 e 15 Punti Ferita ogni 2,5 centimetri di spessore. Ridurre un pannello a 0 Punti Ferita lo distrugge e potrebbe far crollare i pannelli connessi, a discrezione del Narratore. Se mantieni la concentrazione su questo incantesimo per la sua intera durata, il muro diventa permanente e non può essere dissolto. Altrimenti, il muro sparisce al termine dell'incantesimo.
 
-## Muro Prismatico
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 9, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Muro Prismatico
+
+* **Lista**: Abiurazione
+* **Livello**: 9, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 10 minuti
 
 Un piano di luci brillanti e multicolore forma un muro verticale opaco, largo fino a 27 metri, alto 9 metri e spesso 2,5 centimetri, centrato su di un punto a gittata e che puoi vedere. In alternativa, puoi modellare il muro in una sfera, fino a 9 metri di diametro, centrata su di un punto a gittata di tua scelta. Il muro resta fisso sul posto per la durata dell'incantesimo. Se posizioni il muro in modo che attraversi lo spazio occupato da una creatura, l'incantesimo fallisce e lo slot incantesimo sono sprecati. Il muro irradia luce intensa fino a una gittata di 18 metri e luce fioca per 36 metri. Tu e le creature indicate da te al momento del lancio dell'incantesimo potete attraversare e restare vicini al muro senza pericolo. Se un'altra creatura che può vedere il muro si muove entro 6 metri da esso o inizia lì il suo round, deve superare un Tiro Salvezza su Tempra o restare accecata per 1 minuto. Il muro consiste di sette strati, ognuno di un diverso colore. Quando una creatura cerca di immergersi o attraversare il muro, lo fa uno strato alla volta, attraverso tutti gli strati del muro. Mentre si immerge o attraversa ciascuno strato, la creatura deve superare un Tiro Salvezza su Riflessi o subire le proprietà di ciascuno strato, uno alla volta, come descritto di seguito.
 
@@ -9111,13 +9047,13 @@ Il muro può essere distrutto, uno strato alla volta, in ordine dal rosso al vio
 - *6. Indaco*. Se fallisce il Tiro Salvezza, il bersaglio è intralciato. Deve poi effettuare un Tiro Salvezza su Tempra all'inizio di ciascun suo round. Se supera il Tiro Salvezza tre volte,l'incantesimo termina. Se fallisce il Tiro Salvezza tre volte, viene permanentemente trasformato in pietra e diventa vittima della condizione pietrificato. I successi e i fallimenti non devono essere consecutivi; tieni traccia di entrambi finché il bersaglio non ne ha ottenuti tre dello stesso tipo. Finché questo strato esiste, non si possono lanciare incantesimi attraverso il muro. Lo strato viene distrutto dalla luce intensa emanata dall'incantesimo luce diurna o da un simile incantesimo di livello più alto.
 - *7. Violetto*. Se fallisce il Tiro Salvezza, il bersaglio è accecato. Deve poi effettuare un Tiro Salvezza su Volontà all'inizio del tuo prossimo round. Se supera il Tiro Salvezza, la cecità termina. Se fallisce il Tiro Salvezza, la creatura viene trasportata su di un altro piano di esistenza a scelta del Narratore e non è più accecata (di solito, una creatura che non è sul suo piano natio, viene esiliata su di esso, mentre le altre creature sono di solito gettate nei piani Astrale o Etereo). Questo strato è distrutto dall'incantesimo dissolvi magie o da un incantesimo simile di pari livello o più alto che possa porre fine a incantesimi ed effetti magici.
 
-## Muro di Spine
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (una manciata di spine)
-- **Durata**:: massimo 10 minuti
+### Muro di Spine
+
+* **Lista**: Animali e Piante
+* **Livello**: 6, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: massimo 10 minuti
 
 Crei un muro di cespugli robusti, malleabili e impigliati, ricolmi di spine appuntite. Il muro compare a gittata su di una superficie solida e rimane per la durata dell'incantesimo. Il muro che puoi creare può essere lungo fino a 18 metri, alto fino a 3 metri, e spesso fino a 1 metro o un circolo che abbia un diametro di 6 metri e sia alto fino a 6 metri e spesso 1 metro. Il muro blocca la linea di visuale.
 
@@ -9125,25 +9061,25 @@ Quando il muro compare, ogni creatura nella sua area deve effettuare un Tiro Sal
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 3d8.
 
-## Muro di Vento
-- **Lista di Magia**:: Aria
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un minuscolo ventaglio e una piuma di origini esotiche)
-- **Durata**:: 1 minuto
+### Muro di Vento
+
+* **Lista**: Aria
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 1 minuto
 
 Un muro di forte vento si leva dal terreno in un punto a gittata di tua scelta. Puoi creare un muro lungo fino a 15 metri, alto 3 metri e spesso 30 centimetri. Puoi modellare il muro in qualsiasi maniera desideri purché componga un percorso continuo sul terreno. Il muro rimane per la durata dell'incantesimo. Quando il muro appare, ogni creatura all'interno della sua area deve effettuare un Tiro Salvezza su Tempra. Una creatura subisce 3d8 danni contundenti se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Il forte vento tiene lontana foschia, fumo e altri gas. Le creature volanti di taglia Piccola o minore non possono attraversare il muro. I materiali leggeri trascinati nel muro volano verso l'alto. Frecce, quadrelli e altre munizioni normali vengono deviati e mancano automaticamente il bersaglio (i macigni scagliati dai giganti e dalle macchine d'assedio, e munizioni simili, ne ignorano invece gli effetti). Le creature in forma gassosa non possono attraversarlo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 1 minuto.
 
-## Nube Incendiaria
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 8, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Nube Incendiaria
+
+* **Lista**: Fuoco
+* **Livello**: 8, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 45 metri
+* **Durata**: 1 minuto
 
 Una nube di fumo turbinante attraversata da lapilli incandescenti si forma in una sfera di 6 metri di raggio centrata su di un punto a gittata. La nube si propaga intorno agli angoli ed è in penombra. Rimane per la durata dell'incantesimo o finché un vento di velocità moderata o superiore (almeno 15 chilometri all'ora) non la disperde.
 
@@ -9151,71 +9087,71 @@ Quando la nube appare, ogni creatura al suo interno deve effettuare un Tiro Salv
 
 All'inizio di ciascun tuo round, la nube si muove di 3 metri lontano da te in una direzione a tua scelta.
 
-## Nebbia Nauseante
-- **Lista di Magia**:: Acqua, Aria
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 27 metri
-- **Componenti**:: V, S, M (un uovo marcio o foglie di cavolo puzzolente)
-- **Durata**:: 10 minuti
+### Nebbia Nauseante
+
+* **Lista**: Acqua, Aria
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 27 metri
+* **Durata**: 10 minuti
 
 Crei, in un punto a gittata, una sfera di 6 metri di raggio composta di un gas giallo e nauseabondo. La nebbia si propaga dietro gli angoli e la sua area è in penombra. La nebbia permane nell'aria per la durata. Ogni creatura che si trovi completamente all'interno della nebbia all'inizio del proprio round, deve effettuare un Tiro Salvezza su Tempra contro il veleno. Se il Tiro Salvezza fallisce, la creatura spende 2 Azioni di quel round a vomitare e barcollare. Le creature che non hanno bisogno di respirare o che sono immuni al veleno superano automaticamente il Tiro Salvezza. Un vento moderato (almeno 15 chilometri all'ora) disperde la nebbia dopo 4 round. Un vento forte (almeno 30 chilometri all'ora) lo disperde dopo 1 round.
 
-## Nebbia mortale
-- **Lista di Magia**:: Acqua
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Nebbia mortale
+
+* **Lista**: Acqua
+* **Livello**: 5, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 10 minuti
 
 Crei una sfera di 6 metri di raggio formata da una nebbia velenosa giallo-verde centrata in un punto a gittata di tua scelta. La nebbia si propaga dietro gli angoli. Rimane per la durata dell'incantesimo o finché un forte vento non disperde la nebbia, terminando l'incantesimo. La sua area è in penombra. Quando una creatura entra nell'area dell'incantesimo per la prima volta in un round o inizia lì il suo round, quella creatura deve effettuare un Tiro Salvezza su Tempra. La creatura subisce 5d8 danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Le creature ne sono soggette anche se trattengono il respiro o non hanno bisogno di respirare. La nebbia si allontana di 3 metri da te all'inizio di ogni tuo round, spostandosi lungo la superficie del terreno. I vapori, essendo più pesanti dell'aria, tendono a scendere verso il basso, arrivando addirittura a insinuarsi nelle aperture.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 3d8.
 
-## Nube di Nebbia
-- **Lista di Magia**:: Acqua, Aria
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 ora
+### Nube di Nebbia
+
+* **Lista**: Acqua, Aria
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 1 ora
 
 Crei una sfera di foschia del raggio di 6 metri centrata su di un punto a gittata. La sfera si propaga intorno agli angoli, e la sua area è in penombra. Rimane per la durata dell'incantesimo o finché un vento di velocità moderata o superiore (almeno 15 chilometri all'ora) non la disperde.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il raggio della foschia aumenta di 6 metri.
 
-## Occhio Arcano
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 4, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un pezzo di manto di pipistrello)
-- **Durata**:: Concentrazione, massimo 1 ora
+### Occhio Arcano
+
+* **Lista**: Divinazione
+* **Livello**: 4, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: Concentrazione, massimo 1 ora
 
 Crei a gittata un occhio magico e invisibile, che fluttua nell'aria per la durata dell'incantesimo.
 
 Ricevi mentalmente le informazioni visive dall'occhio, che ha vista normale e scurovisione fino a 9 metri. L'occhio può guardare in tutte le direzioni. Con un'Azione di Movimento, puoi spostare l'occhio di 9 metri in qualsiasi direzione. Non c'è limite a quanto lontano possa spostarsi l'occhio, ma non può entrare in un altro piano di esistenza. Una barriera solida blocca il movimento dell'occhio, ma questo può attraversare un'apertura di una grandezza minima di 2,5 centimetri di diametro.
 
-## Onda Tonante
-- **Lista di Magia**:: Aria
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Onda Tonante
+
+* **Lista**: Aria
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 Un'onda di forza tonante si proietta da te. Ogni creatura in una sfera di 2 metri di raggio che origina da te deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza una creatura subisce 2d8 danni da suono e viene allontana 3 metri da te. Se supera il Tiro Salvezza, la creatura subisce la metà dei danni e non viene allontanata. Gli oggetti non ancorati che sono totalmente all'interno dell'area vengono spinti 3 metri lontano da te dall'effetto dell'incantesimo. L'incantesimo produce un rimbombo tonante udibile fino a 90 metri.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 1d8.
 
-## Oscurità
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, M (pelo di pipistrello e un pizzico di bitume o un pezzo di carbone)
-- **Durata**:: 10 minuti
+### Oscurità
+
+* **Lista**: Invocazione
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 10 minuti
 
 L'oscurità magica si propaga da un punto a gittata, scelto da te, per riempire una sfera di 3 metri di raggio per la durata dell'incantesimo. L'oscurità si propaga intorno agli angoli. Una creatura con scurovisione non può vedere in questa oscurità, e la luce non magica non può illuminarla.
 
@@ -9223,13 +9159,13 @@ Se il punto che hai scelto è su di un oggetto che stai trasportando o uno che n
 
 Se qualsiasi parte dell'area di questo incantesimo si sovrappone con l'area di luce creata da un incantesimo con livello 2 o più basso, l'incantesimo che ha creato la luce viene dissolto.
 
-## Palla di fango di Eithne
-- **Lista di Magia**:: Terra
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 24 metri
-- **Componenti**:: S
-- **Durata**:: Istantanea
+### Palla di fango di Eithne
+
+* **Lista**: Terra
+* **Livello**: 1, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 24 metri
+* **Durata**: Istantanea
 
 L'incantatore mima il gesto di tirare un sasso con una fionda in direzione del bersaglio ed esegue un Tiro per Colpire con incantesimi a distanza.
 Se il Tiro per Colpire va a segno il bersaglio subisce 2d6 di danni contundenti e deve effettuare un Tiro Salvezza su Riflessi. Se il tiro salvezza fallisce il movimento del bersaglio diminuisce di 2 metri per 1 minuto.
@@ -9238,13 +9174,13 @@ Se il Tiro per Colpire va a segno il bersaglio subisce 2d6 di danni contundenti 
 
 > Mi sparpaglio in giro per evitare incantesimi ad area (detta da un giocatore per evitare una Palla di Fuoco)
 
-## Palla di Fuoco
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S, M (una minuscola palla di guano di pipistrello e zolfo)
-- **Durata**:: Istantanea
+### Palla di Fuoco
+
+* **Lista**: Fuoco
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 45 metri
+* **Durata**: Istantanea
 
 Un fascio di luce gialla parte dal tuo dito puntato verso un punto a gittata scelto da te e poi esplode con un boato roboante e si trasforma in lingua di fiamme.
 
@@ -9256,13 +9192,13 @@ Il fuoco si propaga ed occupa tutto il volume disponibile entro i 6 metri dal pu
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Palla di Fuoco Ritardata
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 7, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S, M (una grossa palla di guano di pipistrello e zolfo)
-- **Durata**:: Concentrazione, 1 minuto
+### Palla di Fuoco Ritardata
+
+* **Lista**: Fuoco
+* **Livello**: 7, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 45 metri
+* **Durata**: Concentrazione, 1 minuto
 
 Un fascio di luce gialla parte dal tuo dito puntato, per condensarsi per la durata dell'incantesimo nella forma di una pallina luminosa in un punto a gittata, scelto da te. Quando l'incantesimo termina, o perché la tua concentrazione è spezzata o perché decidi tu di porgli fine, la pallina esplode con un boato sommesso e si trasforma in un getto di fiamme che si propaga dietro gli angoli. Ogni creatura in una sfera di 6 metri di raggio centrata in quel punto deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce danni da fuoco pari al danno totale accumulato se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Il danno base dell'incantesimo è 12d6. Se al termine del tuo round la pallina non è ancora detonata, il danno aumenta di 1d6.
 
@@ -9274,45 +9210,45 @@ Il fuoco danneggia gli oggetti nell'area e incendia gli oggetti infiammabili che
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato.
 
-## Parlare con gli Animali
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Parlare con gli Animali
+
+* **Lista**: Animali e Piante
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 10 minuti
 
 Per la durata dell'incantesimo, ottieni la capacità di comprendere e comunicare verbalmente con le bestie. Il sapere e la consapevolezza di molte bestie sono limitati dal loro intelletto ma, come minimo, le bestie possono fornirti informazioni riguardo luoghi e mostri nelle vicinanze, compresi quelli che possono percepire o hanno percepito nei giorni passati. A discrezione del Narratore potresti riuscire a convincere una bestia a farti un piccolo favore.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia.
 
-## Parlare con i Morti
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 3, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 3 metri
-- **Componenti**:: V, S, M (incenso acceso)
-- **Durata**:: 10 minuti
+### Parlare con i Morti
+
+* **Lista**: Necromanzia
+* **Livello**: 3, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 3 metri
+* **Durata**: 10 minuti
 
 Conferisci un'apparenza di vita e Intelligenza a un cadavere a gittata, scelto da te, permettendogli di rispondere alle domande che gli poni. Il cadavere deve avere ancora una bocca e non può essere non morto. L'incantesimo fallisce se il cadavere è già stato bersaglio di questo incantesimo negli ultimi 10 giorni. Fino al termine dell'incantesimo, puoi porre al cadavere fino a cinque domande. Il cadavere conosce solo quello che già sapeva in vita, compresi i linguaggi parlati. Le risposte sono di solito brevi, criptiche o ripetitive, e il cadavere non è sotto nessun obbligo a darti risposte veritiere se gli sei ostile o ti riconosce come suo nemico. Questo incantesimo non riporta l'anima della creatura nel corpo, ma solo lo spirito che lo muove. Di conseguenza, il cadavere non può apprendere nuove informazioni, non capisce nulla di quello che è successo da quando è morto, e non può fare valutazioni su eventi futuri.
 
-## Parlare con le Creature
-- **Lista di Magia**:: Animali e Piante, Divinazione
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 ora
+### Parlare con le Creature
+
+* **Lista**: Animali e Piante, Divinazione
+* **Livello**: 6, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 ora
 
 Questo incantesimo è una versione più potente di parlare con gli animali, che consente di parlare con qualsiasi creatura entro la gittata, indipendentemente dalla sua natura o intelligenza (che deve essere maggiore di -5).
 
-## Parlare con le Piante
-- **Lista di Magia**:: Animali e piante
-- **Livello**:: 3, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (raggio di 9 metri)
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Parlare con le Piante
+
+* **Lista**: Animali e piante
+* **Livello**: 3, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (raggio di 9 metri)
+* **Durata**: 10 minuti
 
 Infondi i vegetali entro 9 metri da te di capacità senziente e di limitata mobilità, dandole la capacità di comunicare con te ed eseguire dei semplici comandi. Puoi interrogare i vegetali in merito a eventi avvenuti nell'ultimo giorno nell'area dell'incantesimo, ottenendo informazioni sulle creature di passaggio, il clima e altro. Puoi anche trasformare il terreno difficile prodotto dalla crescita dei vegetali (come cespugli e fitto sottobosco) in terreno ordinario per la durata dell'incantesimo.
 
@@ -9320,13 +9256,13 @@ Oppure puoi trasformare del terreno normale in cui siano presenti dei vegetali i
 
 A discrezione del Narratore i vegetali potrebbero svolgere anche altri compiti per tuo conto. L'incantesimo non permette ai vegetali di sradicarsi e muoversi, ma possono muovere liberamente rami, steli e gambi. Se una creatura vegetale si trova nell'area, puoi comunicare con essa come se parlaste lo stesso linguaggio, ma non ottieni alcuna capacità magica per influenzarla. Questo incantesimo può far sì che i vegetali creati dall'incantesimo intralciare rilascino una creatura intralciata.
 
-## Parola Divina
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 7, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Parola Divina
+
+* **Lista**: Invocazione
+* **Livello**: 7, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: Istantanea
 
 Pronunci una parola divina, infusa del potere del tuo Patrono. Scegli un qualsiasi numero di creature a gittata e che puoi vedere. Ogni creatura che può udirti deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, la creatura subisce un effetto in base ai suoi attuali Punti Ferita:
 
@@ -9337,33 +9273,33 @@ Pronunci una parola divina, infusa del potere del tuo Patrono. Scegli un qualsia
 
 Quali che siano i suoi attuali Punti Ferita, un celestiale, elementale, fatato o demone che fallisca il Tiro Salvezza è obbligato a tornare al suo piano di origine (se non vi si trova già) e non può tornare sul tuo attuale piano prima che siano passate 24 ore, a meno dell'uso dell'incantesimo desiderio.
 
-## Parola del Potere Stordire
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 8, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V
-- **Durata**:: 1 minuti
+### Parola del Potere Stordire
+
+* **Lista**: Ammaliamento
+* **Livello**: 8, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 minuti
 
 Pronunci una parola di potere che può travolgere la mente di una creatura a gittata e che puoi vedere. Se il bersaglio ha 150 Punti Ferita o meno, è stordito per 2d4 round, altrimenti l'incantesimo non ha effetto.
 
-## Parola del Potere Uccidere
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 9, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Parola del Potere Uccidere
+
+* **Lista**: Ammaliamento
+* **Livello**: 9, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Pronunci una parola di potere che costringe a morire all'istante una creatura a gittata che puoi vedere. Se la creatura che scegli ha 100 Punti Ferita o meno, muore. Altrimenti l'incantesimo non ha effetto.
 
-## Parola del Ritiro
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 1 metro
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Parola del Ritiro
+
+* **Lista**: Evocazione
+* **Livello**: 6, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 1 metro
+* **Durata**: Istantanea
 
 Te e fino a cinque creature consenzienti entro 1 metro da te vi teletrasportate istantaneamente in un luogo sicuro indicato precedentemente, detto santuario. Tu e tutte le creature teletrasportate con te, riapparite nello spazio non occupato più vicino al punto indicato quando hai preparato questo santuario (vedi sotto). Se lanci questo incantesimo senza aver prima preparato un santuario, l'incantesimo non ha effetto.
 
@@ -9371,13 +9307,13 @@ Devi indicare un santuario, che sia dedicato o fortemente collegato al tuo Patro
 
 **NOTA**: devi essere un Devoto o Seguace per poter lanciare questo incantesimo.
 
-## Passa Porta
-- **Lista di Magia**:: Terra
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un pizzico di semi di sesamo)
-- **Durata**:: 1 ora
+### Passa Porta
+
+* **Lista**: Terra
+* **Livello**: 5, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 ora
 
 Per la durata dell'incantesimo, compare un passaggio in un punto a gittata che puoi vedere, su di una superficie di legno, muro o pietra (come una parete, un soffitto o un pavimento) scelta da te. Scegli le dimensioni dell'apertura: al massimo larga 1 metro, alta 2 metri e profonda 6 metri. Il passaggio non crea instabilità nella struttura che lo circonda.
 
@@ -9385,25 +9321,25 @@ Quando l'apertura sparisce, qualsiasi creatura od oggetto ancora nel passaggio c
 
 **Per ogni Successo Critico Magico** puoi creare un altra porta pur nella durata dell'incantesimo.
 
-## Passare Senza Tracce
-- **Lista di Magia**:: Terra, Animali e Piante
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Creatura toccata
-- **Componenti**:: V, S, M (ceneri di una foglia di vischio bruciata e un ramoscello di abete rosso)
-- **Durata**:: 1 ora
+### Passare Senza Tracce
+
+* **Lista**: Terra, Animali e Piante
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Creatura toccata
+* **Durata**: 1 ora
 
 Per la durata dell'incantesimo la creatura toccata non lascia tracce sul terreno.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare un altra creatura.
 
-## Passo Velato
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 2, Raro
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Personale
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Passo Velato
+
+* **Lista**: Evocazione
+* **Livello**: 2, Raro
+* **Lancio**: 1 Azione
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 Avvolto rapidamente da una foschia argentata, ti teletrasporti di massimo 9 metri in uno spazio non occupato che puoi vedere.
 
@@ -9411,59 +9347,59 @@ Avvolto rapidamente da una foschia argentata, ti teletrasporti di massimo 9 metr
 
 **NOTA**: se sei un devoto di Lynx l'incantesimo ha tempo di lancio di 1 Azione Immediata e la rarità è Non Comune.
 
-## Passo Veloce
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 1, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (una zampa di lepre)
-- **Durata**:: 1 ora
+### Passo Veloce
+
+* **Lista**: Trasmutazione
+* **Livello**: 1, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 ora
 
 Il movimento di una creatura aumenta di 1 metro fino al termine dell'incantesimo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi prendere come bersaglio un'ulteriore creatura.
 
-## Paura
-- **Lista di Magia**:: Illusione
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (cono di 9 metri)
-- **Componenti**:: V, S, M (una piuma bianca o il cuore di una gallina)
-- **Durata**:: 1 minuto
+### Paura
+
+* **Lista**: Illusione
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (cono di 9 metri)
+* **Durata**: 1 minuto
 
 Proietti un'immagine illusoria delle peggiori paure di una creatura. Ogni creatura in un cono di 9 metri deve superare un Tiro Salvezza su Volontà o far cadere qualsiasi cosa stia impugnando e restare Spaventata per la durata dell'incantesimo.
 
 Mentre è spaventata da questo incantesimo, una creatura deve, durante ciascun suo round, muoversi lontano da te tramite il tragitto più sicuro, a meno che non abbia spazio per muoversi. Se la creatura termina il suo round in un posto dove non può vederti, può effettuare un Tiro Salvezza su Volontà, se lo supera, l'incantesimo, per quella creatura, ha termine.
 
-## Pelle di Corteccia
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (una manciata di corteccia di quercia)
-- **Durata**:: 1 ora
+### Pelle di Corteccia
+
+* **Lista**: Animali e Piante
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 ora
 
 La pelle del bersaglio con cui sei in contatto al momento del lancio dell'incantesimo diventa ruvida e dall'aspetto simile alla corteccia fino al termine dell'incantesimo e la Difesa naturale del bersaglio aumenta di 1 + 1/6 Competenza Magica indipendentemente dall'armatura che stia indossando.
 
-## Pelle di Pietra
-- **Lista di Magia**:: Terra
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (polvere di diamante del valore di 100 mo, che l'incantesimo consuma)
-- **Durata**:: 1 ora
+### Pelle di Pietra
+
+* **Lista**: Terra
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 ora
 
 Lanci l'incantesimo a contatto di una creatura consenziente, la cui pelle si tramuta in una sostanza dura come la pietra. Tira 1d4+metà del valore di CM, la somma risultante è le volte che un attacco con arma di mischia o distanza viene annullato (indipendentemente che di colpisca o meno).
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenti di 2 gli attacchi annullati.
 
-## Piaga degli Insetti
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 90 metri
-- **Componenti**:: V, S, M (qualche granello di zucchero, qualche chicco di grano, un pò di lardo)
-- **Durata**:: 10 minuti
+### Piaga degli Insetti
+
+* **Lista**: Animali e Piante
+* **Livello**: 5, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 90 metri
+* **Durata**: 10 minuti
 
 Uno sciame di locuste affamate riempie una sfera di 6 metri di raggio centrata in un punto a gittata scelto da te. La sfera si propaga intorno agli angoli. La sfera rimane per la durata dell'incantesimo, e la sua area è in penombra. L'area della sfera è terreno difficile.
 
@@ -9472,11 +9408,10 @@ Quando l'area appare, ogni creatura al suo interno deve effettuare un Tiro Salve
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 2d10.
 
 ## Pietra in Fango - Fango in Pietra
-- **Lista di Magia**:: Terra
+- **Lista**:: Terra
 - **Livello**:: 5, Non Comune - Molto Raro
-- **T. di Lancio**:: 2 Azioni
+- **Lancio**:: 2 Azioni
 - **Gittata**:: 45 metri
-- **Componenti**:: V, S, M (acqua e argilla)
 - **Durata**:: Istantanea
 
 Questo incantesimo trasforma qualsiasi tipo di roccia naturale in un eguale volume di fango. La pietra magica non viene influenzata dall'incantesimo. L'incantesimo ha effetto fino a 2 cubi di 3x3x3 metri. La profondità del fango creato non può superare i 3 metri. Le creature incapaci di Volare, levitare o allontanarsi in qualche modo dal fango affondano fino alla vita o fino al petto; le creatura sono intralciate ed il terreno diviene doppiamente difficile. Le creature abbastanza grandi da camminare sul fondo della pozza di fango possono guadare l'area come terreno difficile.
@@ -9490,24 +9425,23 @@ Se una creatura è nel fango al momento dell'incantesimo Fango in Pietra può ef
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia influenzi un cubo di 3x3x3 metri in più.
 
-## Pietre Parlanti
-- **Lista di Magia**:: Terra, Divinazione
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Tocco
-- **Componenti**:: V, S
-- **Durata**:: 1 turno
+### Pietre Parlanti
+
+* **Lista**: Terra, Divinazione
+* **Livello**: 6, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Tocco
+* **Durata**: 1 turno
 
 L'incantatore acquisisce la capacità di parlare con le pietre, le quali possono dire chi o cosa le abbia toccate e rivelare ciò che nascondono dietro o sotto di loro. Le pietre forniscono descrizioni accurate a richiesta, anche se potrebbero non fornire i dettagli desiderati in certe situazioni. L'incantatore può parlare con pietre sia naturali che lavorate.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia oppure può parlare con un altra pietra entro 18 metri dalla prima.
 
-## Pioggia di Meteore
-- **Lista di Magia**:: Fuoco, Terra
+### Pioggia di Meteore
+- **Lista**:: Fuoco, Terra
 - **Livello**:: 9, Leggendario
-- **T. di Lancio**:: 3 Azioni
+- **Lancio**:: 3 Azioni
 - **Gittata**:: 1,5 chilometri
-- **Componenti**:: V, S
 - **Durata**:: Istantanea
 
 4 meteoriti di fuoco si schiantano a terra in quattro punti differenti a gittata e che puoi vedere. Ogni meteorite colpisce in un raggio di 3 metri. Ogni creatura interessata deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 20d6 danni da fuoco e 20d6 danni contundenti se fallisce il Tiro Salvezza, o la metà di
@@ -9517,36 +9451,36 @@ questi danni se lo supera. Una creatura se nell'area di più di un meteorite ne 
 
 **Ogni 3 critici ottenuti** nella Prova di Magia scagli un altro meteorite.
 
-## Piroesperto
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un fiammifero che viene consumato)
-- **Durata**:: Istantanea
+### Piroesperto
+
+* **Lista**: Fuoco
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 L'incantatore sceglie un'area con un fuoco, di almeno 1 metro di spigolo, entro gittata che sia a lui direttamente visibile. Estinguendo le fiamme può creare fuochi d'artificio o fumo.
 
 - *Fuochi d'Artificio*. Il fuoco bersaglio esplode in uno spettacolo luminoso di fiamme e colori. Ogni creatura entro 3 metri dal bersaglio deve superare un Tiro Salvezza su Tempra oppure diventa accecata fino alla fine round successivo.
 - *Fumo*. Un fumo nero e denso scaturisce dal fuoco bersaglio e si diffonde in un raggio di 6 metri, muovendosi oltre gli angoli. L'area del fumo è pesantemente oscurata e fornisce copertura media. Il fumo persiste per 1 minuto o finché un vento forte non lo disperde.
 
-## Polvere luccicante
-- **Lista di Magia**:: Fuoco, Aria
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (polvere d'argento)
-- **Durata**:: 1 round per CM
+### Polvere luccicante
+
+* **Lista**: Fuoco, Aria
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 1 round per CM
 
 In una sfera di 3 metri di diametro chiunque si trovi viene ricoperto da polvere luccicante e luminosa. La nuvola delinea le creature presenti, anche quelle invisibili e chiunque permanga nell'area deve fare ad inizio round un Tiro Salvezza su Riflessi od essere accecata per il round. La polvere scompare naturalmente dopo la durata o se portata via da un vento anche leggero.
 
-## Porta Dimensionale
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 4, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 150 metri
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Porta Dimensionale
+
+* **Lista**: Evocazione
+* **Livello**: 4, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 150 metri
+* **Durata**: Istantanea
 
 Ti teletrasporti dalla tua attuale posizione in qualsiasi altro posto a gittata. Arrivi esattamente nel posto desiderato. Può essere un luogo che puoi vedere, uno che puoi visualizzare, o uno che puoi descrivere indicando distanza e direzione, come *30 metri verso il basso* o *90 metri in alto a nordovest con un angolo di 45 gradi*.
 
@@ -9556,13 +9490,13 @@ Se dovessi arrivare in un posto già occupato da un oggetto o creatura, tu e la 
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia puoi portare una ulteriore creatura.
 
-## Preghiera
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 round per livello, Concentrazione
+### Preghiera
+
+* **Lista**: Invocazione
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 round per livello, Concentrazione
 
 Intoni un canto al tuo Patrono e ne invochi la benedizione. Le creature entro 9 metri da te prendono un +1 al Tiro per Colpire e Tiro Salvezza per tratto in comune con il Patrono.
 
@@ -9570,25 +9504,25 @@ Le creature con Tratti diversi dal Patrono prendono un -1 hai Tiri per Colpire e
 
 **Nota**: devi essere un Devoto per poter lanciare questo incantesimo, e puoi influenzare un numero di creature pari al tuo punteggio Tratti più alto condiviso con il Patrono.
 
-## Preghiera di Guarigione
-- **Lista di Magia**:: Cura
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: 9 metri
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Preghiera di Guarigione
+
+* **Lista**: Cura
+* **Livello**: 2, Comune
+* **Lancio**: 10 minuti
+* **Gittata**: 9 metri
+* **Durata**: Istantanea
 
 Fino a sei creature a gittata che puoi vedere, scelte da te, recuperano ciascuna Punti Ferita pari a 2d6 + il tuo modificatore di caratteristica per incantesimi. Questo incantesimo causa lo stesso ammontare di danno sui non morti.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la cura aumenta di 1d8.
 
-## Presagio
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (dei bastoncini, ossa o simili oggetti marchiati appositamente e del valore di almeno 25 mo)
-- **Durata**:: Istantanea
+### Presagio
+
+* **Lista**: Divinazione
+* **Livello**: 2, Comune
+* **Lancio**: 1 minuto
+* **Gittata**: Personale
+* **Durata**: Istantanea
 
 Gettando bastoncini intarsiati con gemme, facendo rotolare ossa di drago, impilando carte elaborate o impiegando qualche altro strumento di divinazione, ricevi un presagio da un'entità ultraterrena riguardo il risultato di uno specifico corso di azione che intendi intraprendere nei prossimi 30 minuti. Il Narratore sceglie tra i seguenti presagi:
 
@@ -9602,13 +9536,13 @@ Gettando bastoncini intarsiati con gemme, facendo rotolare ossa di drago, impila
 
 L'incantesimo non tiene conto di ogni possibile circostanza che possa modificare il risultato, come il lancio di ulteriori incantesimi o la perdita o l'arrivo di un alleato. Se lanci l'incantesimo due o più volte prima che sia sorto il nuovo sole, c'è una probabilità cumulativa del 25\% che per ogni lancio dopo il primo tu ottenga una lettura erronea. Il Narratore effettua questo tiro in segreto.
 
-## Prestidigitazione
-- **Lista di Magia**:: Universale
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 3 metri
-- **Componenti**:: V, S
-- **Durata**:: Massimo 1 ora
+### Prestidigitazione
+
+* **Lista**: Universale
+* **Livello**: 0, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 3 metri
+* **Durata**: Massimo 1 ora
 
 Questo incantesimo è un trucco magico minore che gli incantatori novizi impiegano per fare pratica. Crei a gittata uno dei seguenti effetti magici:
 
@@ -9623,23 +9557,23 @@ Se lanci questo incantesimo più volte, puoi tenere attivi fino a tre effetti no
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi attivare un effetto magico in più.
 
-## Previsione
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 9, Non Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (una piuma di colibrì)
-- **Durata**:: 8 ore
+### Previsione
+
+* **Lista**: Divinazione
+* **Livello**: 9, Non Comune
+* **Lancio**: 1 minuto
+* **Gittata**: Contatto
+* **Durata**: 8 ore
 
 Lanci l'incantesimo a contatto di una creatura consenziente per conferirle una limitata capacità di vedere nell'immediato futuro. Per la durata, il bersaglio non può essere sorpreso e ha +1d6 sui Tiri per Colpire, prove su competenze di base e Tiri Salvezza. Inoltre, sempre per la durata, le altre creature hanno -1d6 sui Tiri per Colpire contro il bersaglio. L'incantesimo ha immediatamente termine se lo lanci di nuovo prima che la sua durata abbia fine.
 
-## Produrre Fiamma
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Produrre Fiamma
+
+* **Lista**: Fuoco
+* **Livello**: 0, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Personale
+* **Durata**: 10 minuti
 
 Una fiammella compare nella tua mano. La fiammella resta lì per la durata dell'incantesimo e non danneggia né te né il tuo equipaggiamento. La fiamma produce luce fioca nel raggio di 1 metro. L'incantesimo termina se lo interrompi con un'Azione o se lo lanci di nuovo.
 
@@ -9649,25 +9583,19 @@ Il danno dell'incantesimo aumenta di 1d8 quando raggiungi CM 5, CM 11 e CM 17, m
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi attaccare una creatura in più senza terminare l'incantesimo.
 
-## Profumo di Atherim
-- **Lista di Magia**: : Cura
-- **Livello**: : 4, Raro
-- **T. di Lancio**: : 2 Azioni
-- **Gittata**: : Personale
-- **Componenti**: : V, S, M (acqua benedetta)
-- **Durata**: : Concentrazione, fino a 10 minuti
+### Profumo di Atherim
 
 Un profumo si irradia da te in un raggio di 4 metri per tutta la durata. Mentre si trovano in questo profumo tu e i tuoi alleati avete Resistenza ai danni da veleno e +4 ai Tiri Salvezza per evitare o terminare effetti che includono le condizioni di Accecato, Affascinato, Assordato, Spaventato, Paralizzato, Avvelenato o Stordito.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia allarghi il raggio del profumo di 1 metro.
 
-## Proibizione
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (uno spruzzo di Acqua santa, incensi rari, e un rubino in polvere del valore di 1000 mo)
-- **Durata**:: 1 giorno
+### Proibizione
+
+* **Lista**: Abiurazione
+* **Livello**: 6, Non Comune
+* **Lancio**: 10 minuti
+* **Gittata**: Contatto
+* **Durata**: 1 giorno
 
 Crei una interdizione al viaggio magico che protegge fino a 4000 metri quadri di pavimento, fino a un'altezza di 9 metri dal suolo. Per la durata dell'incantesimo, le creature non possono teletrasportarsi nell'area o usare passaggi, come quello creato dall'incantesimo portale, per entrare nell'area. L'incantesimo protegge l'area dal viaggio planare, e quindi impedisce alle creature di accedere all'area tramite il Piano Astrale, il Piano Etereo od il Piano delle Ombre.
 
@@ -9677,71 +9605,71 @@ Quando lanci questo incantesimo, puoi stabilire una parola d'ordine. Una creatur
 
 L'area dell'incantesimo non può sovrapporsi all'area di un altro incantesimo proibizione. Se esegui proibizione ogni giorno per 30 giorni nello stesso posto, l'incantesimo durerà finché non viene dissolto, e le componenti materiali saranno consumate durante l'ultimo lancio.
 
-## Protezione dall'Energia
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Protezione dall'Energia
+
+* **Lista**: Abiurazione
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 10 minuti
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'incantesimo, il bersaglio ha resistenza a un tipo di danno scelto da te: acido, freddo, fuoco, fulmine o suono. Puoi sacrificare tutta la durata dell'incantesimo, terminandolo, per annullare completamente il danno subito da una fonte di energia.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare un altra persona o aumentare la durata di 10 minuti.
 
-## Protezione dall'Energia minore
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 1, Raro
-- **T. di Lancio**:: 1 Reazione
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Protezione dall'Energia minore
+
+* **Lista**: Abiurazione
+* **Livello**: 1, Raro
+* **Lancio**: 1 Reazione
+* **Gittata**: Contatto
+* **Durata**: 1 minuto
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'incantesimo, il bersaglio ha Riduzione al Danno dall'energia scelta pari a 5. Puoi sacrificare tutta la durata dell'incantesimo, terminandolo, per ridurre di 20 il danno subito da una fonte di energia (come se avessi Resistenza al Danno 20 da quella fonte di energia).
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare un altra persona o aumentare la durata di 1 minuto.
 
-## Protezione dai Veleni
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 1 ora
+### Protezione dai Veleni
+
+* **Lista**: Abiurazione
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 ora
 
 Per la durata dell'incantesimo, il bersaglio ha +1d6 ai Tiri Salvezza contro l'essere avvelenato, e ha resistenza al danno da veleno.
 
 **In caso di due Successo Critico Magico ottenuto** nella Prova di Magia puoi annullare un veleno in circolo sul bersaglio.
 
-## Punizione Marchiante
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Personale
-- **Componenti**:: V
-- **Durata**:: 1 minuto
+### Punizione Marchiante
+
+* **Lista**: Invocazione
+* **Livello**: 2, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Personale
+* **Durata**: 1 minuto
 
 La prossima volta che colpisci una creatura con un attacco in mischia con arma nella durata dell'incantesimo, l'arma riluce di un bagliore magico mentre colpisci. L'attacco infligge 1d6 danni da Luce aggiuntivi al bersaglio, che diventa visibile qualora sia invisibile ed emette luce fioca in un raggio di 1 metro. Inoltre il bersaglio non può diventare invisibile fino al termine dell'incantesimo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aggiuntivo aumenta di 1d6.
 
-## Purificare Cibo e Bevande
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 3 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Purificare Cibo e Bevande
+
+* **Lista**: Animali e Piante
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 3 metri
+* **Durata**: Istantanea
 
 Tutti i cibi e le bevande non magiche in una sfera di 1 metro di raggio, centrata in un punto a gittata di tua scelta, vengono purificati e liberati da veleni e malattie. Un cibo in decomposizione viene ripulito e reso commestibile.
 
-## Raggio di Gelo
-- **Lista di Magia**:: Acqua
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Raggio di Gelo
+
+* **Lista**: Acqua
+* **Livello**: 0, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Un fascio gelato di luce azzurra colpisce una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, egli subisce 1d8 danni da freddo, e la sua velocità è ridotta di 3 metri fino all'inizio del tuo prossimo round.
 
@@ -9749,25 +9677,25 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia crei un fascio gelato aggiuntivo.
 
-## Raggio di Indebolimento
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Raggio di Indebolimento
+
+* **Lista**: Necromanzia
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 minuto
 
 Un fascio nero di energia debilitante parte dal tuo dito diretto contro una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio, quando attacca con un arma che usa la Forza come modificatore, tirerà due volte per il danno prendendo il risultato inferiore fino al termine dell'incantesimo. Non si può essere influenzati da più di un Raggio di Indebolimento al giorno.
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia aumenti di 1 il livello di Affaticamento del bersaglio.
 
-## Raggio mortale
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 2, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 6 metri
-- **Componenti**:: V, S, M (del sangue rappreso)
-- **Durata**:: Istantaneo
+### Raggio mortale
+
+* **Lista**: Necromanzia
+* **Livello**: 2, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 6 metri
+* **Durata**: Istantaneo
 
 Un fascio nero di energia crepitante parte dalle tue mani verso una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Indipendentemente dal fatto se colpisci o meno, il bersaglio deve effettuare un Tiro Salvezza su Tempra.
 
@@ -9779,25 +9707,25 @@ La condizione Affaticato della creatura aumenta di 1
 
 **Per ogni tre Successo Critico Magico ottenuto** nella Prova di Magia aumenti di 1 il livello di Affaticamento del bersaglio.
 
-## Raggio Rovente
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Raggio Rovente
+
+* **Lista**: Fuoco
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: Istantanea
 
 Crei tre raggi di fuoco e li proietti verso tre bersagli a gittata. Puoi proiettarli contro lo stesso bersaglio o bersagli diversi. Effettua un attacco a distanza con incantesimo per ciascun raggio. Se colpisci, il bersaglio subisce 2d6 danni da fuoco.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia crei un raggio aggiuntivo.
 
-## Ragnatela
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un pezzo di tela di ragno)
-- **Durata**:: 1 ora
+### Ragnatela
+
+* **Lista**: Animali e Piante
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 ora
 
 Evochi una spessa massa di tela densa e appiccicosa in un punto a gittata, scelto da te. Per la durata, la ragnatela riempie una sfera di 3 metri di raggio dal punto designato. La ragnatela è terreno difficile e rende quell'area oscurata leggermente.
 
@@ -9809,25 +9737,25 @@ Una creatura intralciata dalle ragnatele può usare 2 Azioni per effettuare un n
 
 La ragnatela è infiammabile e se esposta alle fiamme prende fuoco immediatamente e brucia per 2 round causando a ogni creatura dentro la sua area 2d4 di danno da fuoco.
 
-## Randello Incantato
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (vischio, una foglia di quadrifoglio, e una randello o bastone da combattimento)
-- **Durata**:: 1 minuto
+### Randello Incantato
+
+* **Lista**: Animali e Piante
+* **Livello**: 0, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Contatto
+* **Durata**: 1 minuto
 
 Il legno di un randello o bastone da combattimento che stai impugnando viene infuso del potere della natura. Per la durata dell'incantesimo, usando quell'arma puoi usare la tua caratteristica da incantatore al posto della Forza per il danno e Tiri per Colpire, il dado di danno dell'arma diventa un d8. L'arma diventa anche magica, se già non lo è. L'incantesimo ha termine se lo lanci di nuovo o se lasci l'arma.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia oppure aggiungi un +1 al danno.
 
-## Reggia Meravigliosa
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 7, Leggendario
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: 90 metri
-- **Componenti**:: V, S, M (un portale in miniatura scolpito in avorio, un piccolo pezzo di marmo lucido, e un minuscolo cucchiaio d'argento, ciascuno di questi oggetti deve essere almeno del valore di 5 mo)
-- **Durata**:: 24 ore
+### Reggia Meravigliosa
+
+* **Lista**: Evocazione
+* **Livello**: 7, Leggendario
+* **Lancio**: 1 minuto
+* **Gittata**: 90 metri
+* **Durata**: 24 ore
 
 Entro la gittata, evochi un'abitazione extradimensionale che rimane per la durata dell'incantesimo. Scegli dove è posizionato il suo portone d'ingresso. Il portone d'ingresso emette una lieve luminosità ed è largo 1 metro per 3 metri di altezza. Tu e tutte le creature da te indicate quando hai lanciato l'incantesimo potete entrare nell'abitazione extradimensionale, fino a quando il portone resta aperto. Puoi aprire o chiudere il portone se ti trovi entro 9 metri da esso. Mentre è chiuso, il portone è invisibile.
 
@@ -9839,25 +9767,25 @@ Oltre il portone si trova un magnifico ingresso, oltre il quale si dipanano nume
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia o togli un mese dal conteggio per renderlo permanente.
 
-## Regressione Mentale
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 8, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S, M (una manciata di sfere di argilla, cristallo, vetro o minerali)
-- **Durata**:: Istantanea
+### Regressione Mentale
+
+* **Lista**: Ammaliamento
+* **Livello**: 8, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 45 metri
+* **Durata**: Istantanea
 
 Assalti la mente di una creatura a gittata e che puoi vedere, cercando di frammentarne l'intelletto e la personalità. Il bersaglio subisce 4d6 danni e deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, i punteggi di Intelligenza e Carisma della creatura scendono a -4. La creatura non può lanciare incantesimi, attivare oggetti magici, comprendere linguaggi, o comunicare in alcun modo comprensibile. La creatura può, tuttavia, identificare i suoi amici, seguirli e anche proteggerli. Dopo 30 giorni, la creatura può ripetere il Tiro Salvezza contro l'incantesimo. Se lo supera, l'incantesimo ha termine se fallisce l'effetto è permanete.
 
 L'incantesimo può essere terminato entro i 30 giorni da ristorare superiore, guarigione o desiderio.
 
-## Reincarnazione
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 1 ora
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (oli e unguenti rari del valore di almeno 1000 mo, che l'incantesimo consuma)
-- **Durata**:: Istantanea
+### Reincarnazione
+
+* **Lista**: Animali e Piante
+* **Livello**: 5, Raro
+* **Lancio**: 1 ora
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Entri a contatto con un umanoide morto o un frammento di umanoide morto. Purché la creatura non sia morta da più di 10 giorni, l'incantesimo gli forma un nuovo corpo adulto e poi ne richiama l'anima affinché entri nel corpo. Se l'anima del bersaglio non è libera o consenziente a farlo, l'incantesimo fallisce.
 
@@ -9885,25 +9813,25 @@ La creatura reincarnata ricorda la sua vita e le sue esperienze passate (stesso 
 
 Non è possibile reincarnarsi in uno gnomo se non si era prima uno gnomo.
 
-## Resistenza
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Reazione
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un mantello in miniatura)
-- **Durata**:: Istantanea
+### Resistenza
+
+* **Lista**: Abiurazione
+* **Livello**: 0, Comune
+* **Lancio**: 1 Reazione
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Lanci l'incantesimo a contatto con una creatura consenziente. Una volta prima del termine dell'incantesimo, il bersaglio può tirare un 1d4 e sommare il risultato ottenuto a un Tiro Salvezza a sua scelta. Può tirare il dado prima o dopo aver effettuato il Tiro Salvezza. Poi l'incantesimo termina. Non si può ricevere l'incantesimo Resistenza ad intervalli inferiori ad 1 ora.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi fare usufruire del bonus un altra creatura.
 
-## Respirare Sott'Acqua
-- **Lista di Magia**:: Acqua, Aria
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (una cannuccia o una pagliuzza)
-- **Durata**:: 1 Ora per CM
+### Respirare Sott'Acqua
+
+* **Lista**: Acqua, Aria
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 Ora per CM
 
 Puoi dividere equamente il totale della durata dell'incantesimo tra CM/2 creature consenzienti.
 
@@ -9911,37 +9839,36 @@ Questo incantesimo consente  alle creature selezionate entro gittata di respirar
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia hai un bonus di +2 per la verifica della tua CM.
 
-## Rigenerazione
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 7, Leggendario
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un rosario e Acqua santa)
-- **Durata**:: 1 ora
+### Rigenerazione
+
+* **Lista**: Trasmutazione
+* **Livello**: 7, Leggendario
+* **Lancio**: 1 minuto
+* **Gittata**: Contatto
+* **Durata**: 1 ora
 
 Lanci l'incantesimo a contatto di una creatura per stimolare la sua capacità di guarigione naturale. Il bersaglio recupera 4d8 + 15 Punti Ferita. Per la durata dell'incantesimo, il bersaglio recupera 10 Punti Ferita all'inizio di ciascun suo round. Le membra recise del corpo del bersaglio (dita, gambe, code e così via), se ne ha, vengono ripristinate in 2 minuti. Se hai la parte recisa e la tieni appoggiata al moncherino, l'incantesimo fa sì che l'arto si ricucia in 3 round col moncherino.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi i Punti Ferita recuperati per round.
 
-## Rimuovi Malattia
-- **Lista di Magia**:: Cura
+### Rimuovi Malattia
+- **Lista**:: Cura
 - **Livello**:: 2, Comune
-- **T. di Lancio**:: 1 turno
+- **Lancio**:: 1 turno
 - **Gittata**:: Contatto
-- **Componenti**:: V, S
 - **Durata**:: Istantanea
 
 Puoi porre fine a una malattia naturale. In caso di malattie magiche la tua DC di incantesimo deve essere superiore alla DC della malattia.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi guarire una persona in più oppure considerare un +4 per superare la DC della malattia.
 
-## Rimuovi Maledizione
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Rimuovi Maledizione
+
+* **Lista**: Abiurazione
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Se l'oggetto o persona è stato maledetto tramite l'incantesimo Scagliare Maledizione, o comunque il Narratore decide che l'oggetto ha una maledizione particolare allora la DC di chi lancia Rimuovi Maledizione deve essere superiore a quella della Maledizione.
 
@@ -9949,37 +9876,36 @@ Se l'oggetto o persona è stato maledetto tramite l'incantesimo Scagliare Maledi
 
 Sia che sia stato sufficiente lanciare l'incantesimo oppure sia stato lanciato con una Prova di Magia, la maledizione resta, ma l'incantesimo permette di rimuovere l'oggetto e gettarlo.
 
-## Rimuovi Paura
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Tocco
-- **Componenti**:: V, S
-- **Durata**:: 2 turni
+### Rimuovi Paura
+
+* **Lista**: Abiurazione
+* **Livello**: 1, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Tocco
+* **Durata**: 2 turni
 
 Questo incantesimo infonde coraggio nel soggetto e può rimuovere gli effetti della paura indotta magicamente permettendogli di fare un nuovo Tiro Salvezza. Il soggetto toccato riceve un bonus al Tiro Salvezza di +1 per volte che l'incantatore ha preso Adepto della Magia.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il soggetto prende un +2 al Tiro Salvezza.
 
-## Rimuovi Veleno
-- **Lista di Magia**:: Acqua, Cura
+### Rimuovi Veleno
+- **Lista**:: Acqua, Cura
 - **Livello**:: 3, Comune
-- **T. di Lancio**:: 1 Round
+- **Lancio**:: 1 Round
 - **Gittata**:: Contatto
-- **Componenti**:: V, S
 - **Durata**:: Istantanea
 
 Puoi porre fine ad un veleno naturale. In caso di veleni magici la tua DC di incantesimo deve essere superiore alla DC (o Tiro Salvezza) del veleno.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aggiungi +4 alla propria DC per capire se ha superato quella dello del veleno.
 
-## Rinascita
-- **Lista di Magia**:: Cura, Necromanzia
-- **Livello**:: 3, Molto Raro
-- **T. di Lancio**:: 10 Minuti
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (diamante del valore di 300 mo, che l'incantesimo consuma)
-- **Durata**:: Istantanea
+### Rinascita
+
+* **Lista**: Cura, Necromanzia
+* **Livello**: 3, Molto Raro
+* **Lancio**: 10 Minuti
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Una creatura morta nell'ultimo minuto e con cui sei in contatto, ritorna in vita con 1 punto ferita e nessun Punto Magia. Questo incantesimo non può riportare in vita le persone morte di vecchiaia, né può ripristinare le parti del corpo mancanti.
 
@@ -9987,47 +9913,46 @@ La creatura riportata in vita deve effettuare un Tiro Salvezza su Tempra a DC 15
 
 **NOTA**: a discrezione del Narratore questo potrebbe essere l'unico incantesimo concesso per riportare in vita una creatura, altrimenti vale la regola che solo un Patrono può riportare in vita.
 
-## Riparare
-- **Lista di Magia**:: Terra
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (due calamite)
-- **Durata**:: Istantanea
+### Riparare
+
+* **Lista**: Terra
+* **Livello**: 0, Comune
+* **Lancio**: 1 minuto
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Questo incantesimo ripara una singola rottura o spaccatura in un oggetto con cui sei a contatto, come una catenella spezzata, due metà di una chiave rotta, un mantello lacerato, o un otre che perde. Purché la rottura o la spaccatura non sia più grande di 30 centimetri in qualsiasi dimensione, sei in grado di ripararle, senza lasciare traccia dei danni subiti. Questo incantesimo può riparare fisicamente un oggetto magico o un costrutto, ma non è in grado di ripristinare le funzioni magiche di questi oggetti.
 
-## Riposo Inviolato
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un pizzico di sale e un pezzo di rame posto su ciascun occhio del cadavere, che devono restare lì per la durata)
-- **Durata**:: 10 giorni
+### Riposo Inviolato
+
+* **Lista**: Necromanzia
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 10 giorni
 
 Entri a contatto con un cadavere o altri resti. Per la durata, il bersaglio è protetto dalla putrefazione e non può diventare non morto.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la durata fino ad un massimo di un anno.
 
-## Risata Incontenibile
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (piccole torte e una piuma che viene agitata nell'aria)
-	**Durata**: 1 minuto
+### Risata Incontenibile
+
+* **Lista**: Ammaliamento
+* **Livello**: 1, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
 
 Una creatura a gittata di tua scelta e che puoi vedere percepisce tutto come tremendamente ilare e divertente, scoppiando in fragorose risate finché è soggetta a questo incantesimo. Il bersaglio deve superare un Tiro Salvezza su Volontà o cadere prono ed i round successivi perdere 1 Azione a round per ridere. Le creature con un punteggio di Intelligenza -2 o meno, ignorano l'effetto.
 
 Al termine di ciascun suo round e ogni volta che subisce danni, il bersaglio può effettuare un altro Tiro Salvezza su Volontà. Il bersaglio ha +1d6 al Tiro Salvezza se ha subito danni nel round. Se lo supera, l'incantesimo termina.
 
-## Riscaldare il Metallo
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (polvere di ferro ed alluminio)
-- **Durata**:: 1 minuto, Concentrazione
+### Riscaldare il Metallo
+
+* **Lista**: Fuoco
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 minuto, Concentrazione
 
 Scegli un manufatto di metallo, come un'arma di metallo o un'armatura di metallo media o pesante, a gittata e che puoi vedere. Fai sì che l'oggetto risplenda di rosso per il calore. Qualsiasi creatura in contatto fisico con l'oggetto subisce 1d8 danni da fuoco quando lanci questo incantesimo. Finché mantieni la Concentrazione infliggi nuovamente questo danno nel round.
 
@@ -10035,13 +9960,13 @@ Se una creatura sta impugnando o indossando l'oggetto e subisce danno da esso la
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 1d6.
 
-## Ristorare Inferiore
-- **Lista di Magia**:: Cura
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Ristorare Inferiore
+
+* **Lista**: Cura
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Puoi porre fine a una condizione che affligge una creatura con cui sei a contatto. La condizione può essere **accecato**, **assordato** o **paralizzato**. Può ridurre di un grado il livello di **Affaticamento**. Si recupera 2d6 Punti Ferita Massimi persi, ma non aumentano i Punti Ferita attuali. Puoi recuperare 1 punto di Caratteristica perso non permanentemente.
 
@@ -10049,13 +9974,13 @@ Non è possibile usufruire di più di un Ristorare Inferiore al giorno.
 
 In caso di condizioni magiche esegui una prova di contrastare (pag. ) con la DC della condizione.
 
-## Ristorare Superiore
-- **Lista di Magia**:: Cura
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (polvere di diamante del valore di almeno 100 mo, che l'incantesimo consuma)
-- **Durata**:: Istantanea
+### Ristorare Superiore
+
+* **Lista**: Cura
+* **Livello**: 5, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Imbevi una creatura a contatto di energia positiva curativa per annullare un effetto debilitante, non è possibile usufruire di più di un Ristorare Superiore al giorno:
 
@@ -10068,13 +9993,13 @@ Non è possibile usufruire di più di un Ristorare Superiore al giorno.
 
 In caso di condizioni magiche esegui una prova di contrastare (pag. ) con la DC della condizione.
 
-## Risveglio
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 8 ore
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un'agata del valore di almeno 1000 mo, che l'incantesimo consuma)
-- **Durata**:: Istantanea
+### Risveglio
+
+* **Lista**: Animali e Piante
+* **Livello**: 5, Raro
+* **Lancio**: 8 ore
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Dopo aver trascorso il tempo di lancio a disegnare tracciati magici con una gemma preziosa, entri a contatto con una bestia o vegetale Enorme o di taglia inferiore. Il bersaglio deve essere privo di punteggio di Intelligenza o avere Intelligenza -3 o meno. Il bersaglio ottiene Intelligenza 0. Il bersaglio ottiene anche la capacità di parlare un linguaggio che conosci. Se il bersaglio è un vegetale, ottiene la capacità di muovere i suoi arti, radici, liane, rampicanti e così via, e ottiene sensi simili a quelli di un umano. Il Narratore sceglierà le statistiche appropriate al tipo di vegetale risvegliato, come le statistiche per il cespuglio risvegliato o l'albero risvegliato.
 
@@ -10082,35 +10007,35 @@ La bestia o vegetale risvegliato è Affascinato da te per 30 giorni o finché tu
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenti la durata della fascinazione di 30 giorni, fino ad un massimo di 1 anno.
 
-## Ritirata Rapida
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: Concentrazione, 1 minuto
+### Ritirata Rapida
+
+* **Lista**: Trasmutazione
+* **Livello**: 1, Non Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Personale
+* **Durata**: Concentrazione, 1 minuto
 
 Questo incantesimo ti permette di muoverti a un'andatura incredibile. Quando lanci questo incantesimo il tuo movimento aumenta di 2 metri per Azione di Movimento.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 1 round.
 
-## Saltare
-- **Lista di Magia**:: Aria
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (la zampa posteriore di una cavalletta)
-- **Durata**:: 1 minuto
+### Saltare
+
+* **Lista**: Aria
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 minuto
 
 La distanza di salto della creatura con cui sei in contatto al momento del lancio è triplicata, rispetto al risultato ottenuto e senza limite di lunghezza/altezza, fino al termine dell'incantesimo.
 
-## Santificare
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 24 ore
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (erbe, oli e incensi del valore di almeno 1000 mo, che l'incantesimo consuma)
-- **Durata**:: Fino a che dissolto
+### Santificare
+
+* **Lista**: Invocazione
+* **Livello**: 5, Raro
+* **Lancio**: 24 ore
+* **Gittata**: Contatto
+* **Durata**: Fino a che dissolto
 
 Infondi l'area circostante a un punto con cui sei in contatto del potere del tuo Patrono. L'area può avere un raggio massimo di 18 metri, e l'incantesimo fallisce se include un'area già sotto l'effetto di un incantesimo santificare. L'area soggetta all'incantesimo genera i seguenti effetti.
 
@@ -10128,23 +10053,23 @@ Infondi l'area circostante a un punto con cui sei in contatto del potere del tuo
 - *Silenzio*. Nessun suono può emanare dall'interno dell'area, e nessun suono può entrarvi.
 - *Vulnerabilità all'Energia*. Le creature soggette ricevono vulnerabilità a un tipo di danno a tua scelta (a eccezione dei danni contundenti, perforanti o taglienti), finché restano nell'area.
 
-## Santuario
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un piccolo specchio d'argento)
-- **Durata**:: 1 minuto
+### Santuario
+
+* **Lista**: Abiurazione
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto
 
 Proteggi una creatura a gittata dagli attacchi. Fino al termine dell'incantesimo, qualsiasi creatura che prenda come bersaglio la creatura protetta con un attacco o incantesimo dannoso deve prima effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, l'attaccante deve scegliere un nuovo bersaglio o perdere l'attacco o l'incantesimo. Questo incantesimo non protegge la creatura protetta dagli effetti ad area, come lo scoppio di una palla di fuoco. Se la creatura protetta effettua un attacco o lancia un incantesimo che agisce su creature nemiche, l'incantesimo termina.
 
-## Santuario Privato
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 4, Molto Raro
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S, M (un sottile foglio di piombo, un pezzo di vetro opaco, un batuffolo di cotone o tessuto, e crisolito in polvere)
-- **Durata**:: 24 ore
+### Santuario Privato
+
+* **Lista**: Abiurazione
+* **Livello**: 4, Molto Raro
+* **Lancio**: 10 minuti
+* **Gittata**: 36 metri
+* **Durata**: 24 ore
 
 Proteggi con la magia un'area. L'area è una sfera che può essere piccola fino a 1 metro di raggio o grande fino a 15 metri di raggio. L'incantesimo agisce fino al termine della durata o finché non usi un'Azione per interromperlo.
 
@@ -10162,13 +10087,13 @@ Lanciare questo incantesimo sullo stesso punto ogni giorno per un anno, rende l'
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aumentare le dimensioni della sfera di 3 metri di raggio oppure aumentare la durata di 12 ore.
 
-## Scagliare Maledizione
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Scagliare Maledizione
+
+* **Lista**: Necromanzia
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 minuto
 
 Una creatura con cui sei a contatto deve superare un Tiro Salvezza su Volontà o restare maledetta per la durata dell'incantesimo. Quando lanci questo incantesimo, scegli la natura della maledizione tra le seguenti opzioni:
 
@@ -10181,13 +10106,13 @@ L'incantesimo rimuovi maledizione (vedi descrizione) termina questo effetto. A d
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la durata. Se ottieni 3 successi critici la durata è permanente.
 
-## Scagliare Maledizione Minore
-- **Lista di Magia**:: Universale
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Scagliare Maledizione Minore
+
+* **Lista**: Universale
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 minuto
 
 Una creatura con cui sei a contatto deve superare un Tiro Salvezza su Volontà o restare maledetta per la durata dell'incantesimo. Quando lanci questo incantesimo, scegli la natura della maledizione tra le seguenti opzioni:
 
@@ -10199,13 +10124,13 @@ L'incantesimo Rimuovi Maledizione termina questo effetto. A discrezione del Narr
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia scegli un altra creatura entro 6 metri dalla prima.
 
-## Scassinare
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Scassinare
+
+* **Lista**: Trasmutazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Scegli un oggetto a gittata e che puoi vedere. L'oggetto può essere una porta, scatola, delle manette, una serratura o un altro oggetto che possieda un metodo comune o magico per prevenirne l'accesso.
 
@@ -10217,37 +10142,37 @@ Quando lanci questo incantesimo, un sonoro bussare, udibile fino a 90 metri di d
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aprire un altro lucchetto/serratura entro gittata o aumentare di 4 la DC dell'incantesimo.
 
-## Schiaffo di Cattalm
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 1, Non Comune
-- **T. di Lancio**:: 1 Reazione, che puoi effettuare in risposta al danno arrecatoti da una creatura entro 18 metri da te che puoi vedere
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Schiaffo di Cattalm
+
+* **Lista**: Evocazione
+* **Livello**: 1, Non Comune
+* **Lancio**: 1 Reazione, che puoi effettuare in risposta al danno arrecatoti da una creatura entro 18 metri da te che puoi vedere
+* **Gittata**: 18 metri
+* **Durata**: Istantanea
 
 Punti il dito, e la creatura che ti ha danneggiato viene schiaffeggiata da fuoco divina. La creatura deve effettuare un Tiro Salvezza su Riflessi e se fallisce subisce 2d10 danni da fuoco o la metà di questi danni se lo supera.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia i danno aumenta di 1d10.
 
-## Scolpire Pietra
-- **Lista di Magia**:: Terra
-- **Livello**:: 4, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (argilla malleabile, che deve essere lavorata per ottenere una vaga forma dell'oggetto di pietra)
-- **Durata**:: Istantanea
+### Scolpire Pietra
+
+* **Lista**: Terra
+* **Livello**: 4, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Scolpisci in qualsiasi forma che si presti ai tuoi scopi un cubo di 3 metri di lato di pietra con cui sei a contatto.
 
 Così, per esempio, potresti scolpire una grossa pietra in un'arma, idolo o feretro, o creare un passaggio attraverso il muro. Potresti anche modellare una porta di pietra o la sua cornice per sigillare la porta. L'oggetto che crei può avere fino a due cardini e un chiavistello, ma è impossibile creare meccanismi più complessi.
 
-## Scopri il Percorso
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (degli attrezzi da divinazione - dei bastoncini d'avorio, ossa, carte, denti o rune incise - del valore di almeno 100 mo e un oggetto dal luogo che desideri trovare)
-- **Durata**:: 1 giorno
+### Scopri il Percorso
+
+* **Lista**: Divinazione
+* **Livello**: 6, Non Comune
+* **Lancio**: 1 minuto
+* **Gittata**: Personale
+* **Durata**: 1 giorno
 
 Questo incantesimo ti permette di trovare la rotta fisica più breve e diretta verso uno specifico luogo fisso con cui hai familiarità ed è sullo stesso piano di esistenza. Se indichi una destinazione su di un altro piano di esistenza, una destinazione che si muove (come una fortezza mobile) o una destinazione non specifica (come *la tana di un drago verde*), l'incantesimo fallisce.
 
@@ -10255,37 +10180,37 @@ Per la durata dell'incantesimo, finché sei nello stesso piano di esistenza dell
 
 **Per ogni critico** ottenuto nella Prova di Magia l'incantesimo dura 8 ore in più.
 
-## Scopri Piante
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 turno per CM
+### Scopri Piante
+
+* **Lista**: Divinazione
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 turno per CM
 
 L'incantatore che lancia questo incantesimo è in grado di trovare una specifica pianta entro un cerchio del diametro di 3 metri per CM centrato sull'incantatore. L'incantatore può concentrarsi su un diverso tipo di pianta ogni round e può muoversi, dal momento che l'area di effetto si sposta con lui.
 
 **Nota**: per i Devoti di Shayalia l'incantesimo è Comune ed il cerchio ha un diametro di 10 metri per somma Tratti in comune con il Patrono.
 
-## Scopri Trappole
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti di tempo reale
+### Scopri Trappole
+
+* **Lista**: Divinazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 10 minuti di tempo reale
 
 Per la durata dell'incantesimo avverti la presenza di qualsiasi trappola a gittata che sia nella tua linea di visuale. Una trappola, ai fini di questo incantesimo, comprende qualsiasi cosa che sia in grado di infliggere un effetto improvviso o inaspettato che tu possa considerare dannoso o indesiderabile e che è stato espressamente inteso come tale dal suo creatore. Di conseguenza, l'incantesimo percepirebbe un'area sotto l'incantesimo allarme, un glifo di interdizione, o una botola meccanica, ma non rivelerebbe una debolezza naturale del pavimento, un soffitto instabile o una buca nascosta.
 
 La trappola viene evidenziata alla tua vista con un segno viola.
 
-## Scrigno Segreto
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 4, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un forziere lavorato, 1 metro x 50 cm x 50 cm, costruito con rari materiali del valore di almeno 5000 mo, e una sua replica Minuscola fatta degli stessi materiali e del valore di almeno 50)
-- **Durata**:: Istantanea
+### Scrigno Segreto
+
+* **Lista**: Evocazione
+* **Livello**: 4, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Nascondi un forziere e tutti i suoi contenuti sul Piano Etereo. Quando lanci questo incantesimo devi essere in contatto con il forziere e la replica in miniatura che serve da componente materiale. Il forziere può contenere fino a 0,25 metri cubi di materiale non vivente (1 x metro x 50 centimetri x 50 centimetri). Mentre il forziere rimane sul Piano Etereo, puoi usare un'Azione per entrare in contatto con la replica e richiamare il forziere. Esso riapparirà in uno spazio non occupato sul terreno entro 1 metro da te. Puoi rispedire il forziere nel Piano Etereo, usando un'Azione ed entrando in contatto sia col forziere che con la replica.
 
@@ -10293,13 +10218,13 @@ Dopo 60 giorni, c'è una percentuale cumulativa del 5\% al giorno che l'effetto 
 
 L'effetto termina se l'incantesimo viene lanciato nuovamente, se la replica del forziere viene distrutta, o se decidi di terminare l'incantesimo con un'Azione. Se l'incantesimo termina e il forziere si trova sul Piano Etereo, viene irrimediabilmente perduto.
 
-## Scritto Illusorio
-- **Lista di Magia**:: Illusione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Contatto
-- **Componenti**:: S, M (un inchiostro a base di piombo del valore di almeno 10 mo, che l'incantesimo consuma)
-- **Durata**:: 10 giorni
+### Scritto Illusorio
+
+* **Lista**: Illusione
+* **Livello**: 1, Comune
+* **Lancio**: 1 minuto
+* **Gittata**: Contatto
+* **Durata**: 10 giorni
 
 Scrivi su di una pergamena, un pezzo di carta o qualche altro materiale adatto a scrivere e lo infondi di una potente illusione che permane per la durata dell'incantesimo.
 
@@ -10307,13 +10232,13 @@ Per te e qualsiasi creatura da te indicata al lancio dell'incantesimo, la scritt
 
 In caso l'incantesimo venisse dissolto, sia la scritta originale che l'illusione svaniscono. Una creatura con visione del vero può leggere il messaggio nascosto.
 
-## Scrutare
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un focus del valore di almeno 1000 mo, come una sfera di cristallo, un specchio d'argento o una fonte ricolma di Acqua santa)
-- **Durata**:: Concentrazione, massimo 10 minuti
+### Scrutare
+
+* **Lista**: Divinazione
+* **Livello**: 5, Raro
+* **Lancio**: 10 minuti
+* **Gittata**: Personale
+* **Durata**: Concentrazione, massimo 10 minuti
 
 Puoi vedere e udire una particolare creatura a tua scelta che si trovi sul tuo stesso piano di esistenza. Il bersaglio deve effettuare un Tiro Salvezza su Volontà, modificato da quanto bene conosci il bersaglio e la tua connessione fisica a esso. Se il bersaglio sa che stai lanciando l'incantesimo, può fallire volontariamente il Tiro Salvezza, in caso desiderasse essere osservato da
 te.
@@ -10338,13 +10263,13 @@ Se il Tiro Salvezza fallisce, l'incantesimo crea un sensore invisibile entro 3 m
 
 Invece di prendere come bersaglio una creatura, puoi scegliere come bersaglio dell'incantesimo un luogo che hai già visto in passato. Quando scegli questa opzione, il sensore compare in quel luogo ma non si muove.
 
-## Scudo
-- **Lista di Magia**:: Universale
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 round
+### Scudo
+
+* **Lista**: Universale
+* **Livello**: 0, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Personale
+* **Durata**: 1 round
 
 Compare una barriera di forza magica invisibile a proteggerti. Fino all'inizio del tuo prossimo round hai un bonus di +1 alla Difesa e non subisci danno dal primo Dardo arcano e Dardo occulto che ti colpisce nel round.
 
@@ -10352,13 +10277,13 @@ Se lanciato spendendo 1 Punto Magia il bonus alla Difesa aumenta a +2, il tempo 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenti la durata di 1 round.
 
-## Scudo di Fuoco
-- **Lista di Magia**:: Fuoco, Acqua
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un pò di fosforo o una lucciola)
-- **Durata**:: 10 minuti
+### Scudo di Fuoco
+
+* **Lista**: Fuoco, Acqua
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 10 minuti
 
 Fiamme sottili e vaporose avvolgono il tuo corpo per la durata dell'incantesimo, emettendo luce intensa in un raggio di 3 metri e luce fioca per 6 metri. Puoi terminare l'incantesimo in anticipo, usando un'Azione per interromperlo.
 
@@ -10366,25 +10291,25 @@ Le fiamme ti forniscono uno scudo caldo o uno scudo freddo, a tua scelta. Lo scu
 
 Inoltre, ogni qualvolta una creatura entro 1 metro da te ti colpisce con un attacco in mischia, lo scudo erutta l'elemento. L'attaccante subisce 2d8 danni da fuoco da uno scudo caldo, o 2d8 danni da freddo da uno scudo freddo.
 
-## Scurovisione
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (o un pizzico di carota od un mirtillo secco)
-- **Durata**:: 1 ora di tempo reale di gioco
+### Scurovisione
+
+* **Lista**: Trasmutazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 ora di tempo reale di gioco
 
 Una creatura consenziente con cui sei in contatto ottiene la capacità di vedere al buio. Per la durata dell'incantesimo, quella creatura ha scurovisione fino a una gittata di 9 metri.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la durata.
 
-## Segugio Fedele
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 4, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (un minuscolo fischietto d'argento, un pezzo d'osso ed un filo)
-- **Durata**:: 8 ore
+### Segugio Fedele
+
+* **Lista**: Evocazione
+* **Livello**: 4, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 8 ore
 
 Puoi evocare un cane da guardia fantasma in uno spazio non occupato a gittata che puoi vedere dove rimarrà per la durata dell'incantesimo, finché non viene congedato con un'Azione, o finché non si allontanerà più di 30 metri da te.
 
@@ -10394,13 +10319,13 @@ Il segugio vede le creature invisibili e può vedere nel Piano Etereo. Esso igno
 
 Il bonus di attacco del segugio è uguale al tuo modificatore di caratteristica per incantesimi + CM. Se colpisce, infligge 2d8 danni perforanti, ha CM*2 Punti Ferita, Difesa 10+modificatore da incantesimi, Tiri Salvezza pari al tuo modificatore da incantesimi.
 
-## Sembrare
-- **Lista di Magia**:: Illusione
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: 8 ore
+### Sembrare
+
+* **Lista**: Illusione
+* **Livello**: 5, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 8 ore
 
 Questo incantesimo ti permette di cambiare l'aspetto di un qualsiasi numero di creature a gittata e che puoi vedere. Fornisci a ciascun bersaglio un nuovo aspetto illusorio. Una creatura non consenziente può effettuare un Tiro Salvezza su Volontà e, se lo supera, ignora l'incantesimo.
 
@@ -10409,13 +10334,13 @@ L'incantesimo camuffa l'aspetto fisico oltre che gli abiti, le armature, le armi
 Per tutto il resto, l'illusione è limitata solo dalla tua fantasia. L'incantesimo permane per la sua durata, a meno che tu non usi una Azione per interromperlo prima. I cambi apportati da questo incantesimo non sono in grado di sostenere un'ispezione fisica. Per esempio, se usi questo incantesimo per aggiungere un cappello all'abbigliamento di una creatura, gli oggetti attraversano il cappello, e chiunque lo tocchi non avvertirebbe nulla e finirebbe per toccare la testa e i capelli della creatura.
 Se usi questo incantesimo per apparire più magro di quello che sei, la mano di una persona che provasse a toccarti rimbalzerebbe su di te, mentre alla vista sembrerebbe fermarsi a mezz'aria. Una creatura può usare 2 Azioni per ispezionare un bersaglio ed effettuare una prova di Consapevolezza contro la DC del Tiro Salvezza dell'incantesimo, se impiega 3 Azione ha +1d6 di bonus. Se la riesce, capisce che il bersaglio è camuffato.
 
-## Serratura Magica
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (polvere d'oro del valore di almeno 25 mo, che viene consumata dall'incantesimo)
-- **Durata**:: Fino a che dissolto
+### Serratura Magica
+
+* **Lista**: Abiurazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Fino a che dissolto
 
 Lanci l'incantesimo a contatto di una porta, finestra, portale, forziere o altro ingresso chiuso, e questo diventa chiuso a chiave per la durata. Tu e le creature che hai indicato, quando hai lanciato questo incantesimo, potete aprire l'oggetto normalmente. Puoi anche predisporre una parola d'ordine che, quando pronunciata entro 1 metro dall'oggetto, sopprime l'incantesimo per 1 minuto. Altrimenti l'apertura è invalicabile fino a che non viene distrutta o l''incantesimo è dissolto o soppresso. Lanciare scassinare sull'oggetto sopprime Serratura Magica per 10 minuti.
 
@@ -10423,13 +10348,13 @@ Mentre è soggetto a questo incantesimo, l'oggetto è più difficile da distrugg
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare un altra chiusura o aumentare la difficoltà di apertura di 4.
 
-## Servitore Invisibile
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un pezzo di corda e un pezzo di legno)
-- **Durata**:: 1 ora
+### Servitore Invisibile
+
+* **Lista**: Evocazione
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 ora
 
 Questo incantesimo crea una forza quasi invisibile solo delimitata da una leggera aura (di colore a tua scelta) che svolge dei semplici compiti al tuo comando, fino al termine dell'incantesimo. Il servitore si forma in uno spazio sul terreno non occupato, entro la gittata. Ha Difesa 10, 1 punto ferita, Forza 0 e non può attaccare. Se scende a 0 Punti Ferita, l'incantesimo ha termine.
 
@@ -10437,13 +10362,13 @@ Come Azione Immediata, durante ciascun tuo round, puoi comandare mentalmente il 
 
 Se comandi al servitore di svolgere un compito che lo farà muovere a più di 18 metri da te, l'incantesimo termina.
 
-## Sfera Congelante
-- **Lista di Magia**:: Acqua
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 90 metri
-- **Componenti**:: V, S, M (una piccola sfera di cristallo)
-- **Durata**:: Istantanea
+### Sfera Congelante
+
+* **Lista**: Acqua
+* **Livello**: 6, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 90 metri
+* **Durata**: Istantanea
 
 Un globo gelido di energia fredda parte dalla punta delle tue dita verso un punto di tua scelta a gittata, dove esplode in una sfera di 18 metri di raggio. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, una creatura subisce 10d6 danni da freddo. Se lo supera, subisce la metà di questi danni.
 
@@ -10455,13 +10380,13 @@ Se lo desideri, dopo aver completato l'incantesimo, puoi trattenerti dallo spara
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Sfera Infuocata
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un pò di sego, un pizzico di zolfo e una manciata di ferro in polvere)
-- **Durata**:: 1 minuto
+### Sfera Infuocata
+
+* **Lista**: Fuoco
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 minuto
 
 Per la durata dell'incantesimo compare una sfera di 1 metro di diametro in uno spazio a gittata, scelto da te. Qualsiasi creatura che termini il suo round entro 1 metro dalla sfera deve effettuare un Tiro Salvezza su Riflessi. La creatura subisce 2d6 danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
 
@@ -10472,23 +10397,23 @@ Mentre hai questo incantesimo attivo sei Distratto nel lancio di altri incantesi
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 1d8.
 
-## Sfocatura
-- **Lista di Magia**:: Illusione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V
-- **Durata**:: 1 minuto
+### Sfocatura
+
+* **Lista**: Illusione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 minuto
 
 Il tuo corpo diventa sfocato, indistinto e tremolante a chiunque ti veda. Per la durata dell'incantesimo, tutte le creature hanno ha -1d6 ai Tiri per Colpire contro di te. Gli attaccanti che non si affidano alla vista sono immuni a questo effetto, per esempio se hanno vista cieca o sono in grado di distinguere le illusioni, come per visione del vero.
 
-## Sguardo Penetrante
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 6, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: Concentrazione, massimo 1 minuto
+### Sguardo Penetrante
+
+* **Lista**: Necromanzia
+* **Livello**: 6, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: Concentrazione, massimo 1 minuto
 
 Per la durata dell'incantesimo i tuoi occhi si tramutano in un vuoto nero infuso di terribile potere. Una creatura a tua scelta entro 18 metri da te e che puoi vedere deve superare un Tiro Salvezza su Volontà o, per la durata, subire uno dei seguenti effetti di tua scelta. Durante ciascun tuo round, fino al termine dell'incantesimo, puoi usare due Azioni per prendere come bersaglio un'altra creatura, ma non puoi prendere di nuovo come bersaglio una creatura che abbia superato un Tiro Salvezza contro questo lancio di sguardo penetrante.
 
@@ -10496,13 +10421,13 @@ Per la durata dell'incantesimo i tuoi occhi si tramutano in un vuoto nero infuso
 - *Ammalato*. Il bersaglio ha -1d6 ai Tiri per Colpire e le prove su competenze di base. Al termine di ciascun suo round, può effettuare un altro Tiro Salvezza su Volontà. Se lo supera, l'effetto ha termine.
 - *Impanicato*. Il bersaglio è spaventato da te. Durante ciascun suo round, la creatura spaventata deve effettuare usare due Azioni di Movimento e muoversi lontano da te tramite il tragitto più breve e sicuro possibile, a meno che non abbia spazio per muoversi. Se il bersaglio si muove in un luogo lontano almeno 18 metri da te, dove non ti possa vedere, questo effetto ha termine.
 
-## Silenzio
-- **Lista di Magia**:: Illusione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Silenzio
+
+* **Lista**: Illusione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 10 minuti
 
 Per la durata dell'incantesimo, nessun suono può essere creato all'interno o attraversare una sfera di 6 metri di raggio centrata su di un punto a gittata, scelto da te. Qualsiasi creatura o oggetto che si trovi completamente all'interno della sfera è immune al danno da suono e le creature che sono completamente al suo interno sono assordate. È estremamente difficile (vedi Tentare magie con impedimenti, pag.  ) lanciare un incantesimo che comprende una componente verbale mentre si è al suo interno. Lanciato su una creatura è concesso un Tiro Salvezza su Volontà per annullarne gli effetti.
 
@@ -10510,13 +10435,13 @@ Per la durata dell'incantesimo, nessun suono può essere creato all'interno o at
 
 **Con due Successo Critico Magico** puoi lanciare l'incantesimo su un oggetto o creatura che diventa il centro della sfera. In caso di creature è concesso un Tiro Salvezza su Volontà.
 
-## Simbolo
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 7, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (mercurio, fosforo e diamante e opale in polvere con un valore totale di almeno 1000 mo, che l'incantesimo consuma)
-- **Durata**:: Fino a che dissolto o attivato
+### Simbolo
+
+* **Lista**: Abiurazione
+* **Livello**: 7, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: Fino a che dissolto o attivato
 
 Quando lanci questo incantesimo, inscrivi un glifo dannoso su di una superficie (come una sezione di pavimento, muro o un tavolo) o all'interno di un oggetto che può essere chiuso per nascondere il glifo (come un libro, una pergamena o un forziere). Se scegli una superficie, il glifo può coprire un'area di superficie non maggiore di 3 metri di diametro. Se scegli un oggetto,quell'oggetto deve restare al suo posto; se l'oggetto viene spostato più di 3 metri dal punto in cui è stato lanciato l'incantesimo, il glifo è spezzato, e l'incantesimo termina senza essere stato attivato.
 
@@ -10541,13 +10466,13 @@ Quando inscrivi il glifo scegli una delle opzioni seguenti come suo effetto. Una
 - *Sonno*. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà, e cadere privo di sensi per 10 minuti se lo fallisce. Una creatura si risveglia se subisce danni o se qualcuno usa un'Azione per risvegliarla.
 - *Stordimento*. Ogni bersaglio deve effettuare un Tiro Salvezza su Volontà, e restare stordito per 1 minuto se lo fallisce.
 
-## Sogno
-- **Lista di Magia**:: Illusione
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Speciale
-- **Componenti**:: V, S, M (una manciata di sabbia, una punta di inchiostro, e una penna per scrivere presa da un volatile addormentato)
-- **Durata**:: 8 ore
+### Sogno
+
+* **Lista**: Illusione
+* **Livello**: 5, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Speciale
+* **Durata**: 8 ore
 
 Questo incantesimo modella i sogni di una creatura. Scegli una creatura a te nota come bersaglio dell'incantesimo. Il bersaglio deve trovarsi sul tuo stesso piano di esistenza. Le creature che non dormono non possono essere soggette a questo incantesimo. Tu o una creatura consenziente con cui sei a contatto entrate in uno stato di trance, agendo da messaggero. Mentre è in trance, il messaggero è consapevole di ciò che lo circonda, ma non può effettuare azioni o muoversi.
 
@@ -10557,13 +10482,13 @@ Puoi fare apparire il messaggero al bersaglio con un aspetto mostruoso e terrifi
 
 Se possiedi una ciocca di capelli, delle unghie tagliate, o simile porzione del corpo del bersaglio, egli effettuerà il suo Tiro Salvezza con -1d6.
 
-## Sonnellino
-- **Lista di Magia**:: Alterazione
-- **Livello**:: 2, Leggendario
-- **T. di Lancio**:: 1 round
-- **Gittata**:: 6 metri
-- **Componenti**:: V, S, M (una piuma, un pezzo di cotone bianco)
-- **Durata**:: 1 minuto
+### Sonnellino
+
+* **Lista**: Alterazione
+* **Livello**: 2, Leggendario
+* **Lancio**: 1 round
+* **Gittata**: 6 metri
+* **Durata**: 1 minuto
 
 Questo incantesimo permette all'incantatore di mettere a riposo per 1 ora fino ad 1 creatura per (Competenza Magica/6 + Adepto della Magia). La creatura deve essere consenziente.
 
@@ -10571,35 +10496,35 @@ Quest'ora di riposo è equivalente a 8 ore di riposo per quanto riguarda il recu
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia influenzi 1 creatura in più.
 
-## Sonno
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 27 metri
-- **Componenti**:: V, S, M (un pizzico di sabbia, petali di rosa o un grillo)
-- **Durata**:: 1 minuto
+### Sonno
+
+* **Lista**: Ammaliamento
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 27 metri
+* **Durata**: 1 minuto
 
 In un raggio di 2 metri le creature devono fare un Tiro Salvezza su Volontà o cadere addormentate. Qualsiasi cosa danneggi le creature o le influenzi causa l'immediato scioglimento del sonno magico. Le creature con Grado di Sfida superiore a 3 non sono influenzate.
 
 **Per ogni due Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare creature 1 Grado Sfida più alto.
 
-## Spada Arcana
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 7, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (una spada di platino in miniatura con l'impugnatura e il pomello di rame e zinco, del valore di 250 mo)
-- **Durata**:: Concentrazione, massimo 1 minuto
+### Spada Arcana
+
+* **Lista**: Invocazione
+* **Livello**: 7, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Concentrazione, massimo 1 minuto
 
 Per la durata dell'incantesimo, crei a gittata una fluttuante spada di forza. Quando la spada appare, effettui un attacco in mischia con modificatore CM + modificatore da incantesimo contro un bersaglio scelto da te entro 1 metro dalla spada. Se colpisci, il bersaglio subisce 4d10 danni da forza. Fino al termine dell'incantesimo,puoi usare un'Azione ogni tuo round per muovere la spada di 6 metri in un punto che puoi vedere e ripetere questo attacco contro lo stesso bersaglio o uno differente.
 
-## Spruzzo Colorato
-- **Lista di Magia**:: Illusione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (cono di 3 metri)
-- **Componenti**:: V, S, M (un pizzico di polvere o sabbia che sia colorata di rosso, giallo e blu)
-- **Durata**:: 1 round
+### Spruzzo Colorato
+
+* **Lista**: Illusione
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (cono di 3 metri)
+* **Durata**: 1 round
 
 Uno spruzzo di luci e colori erutta dalla tua mano. Le creature in un cono di 3 metri devono fare un Tiro Salvezza su Volontà.
 
@@ -10607,13 +10532,13 @@ Se il Tiro Salvezza riesce non si subisce alcun effetto, se fallisce la creatura
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 1 round.
 
-## Spruzzo Prismatico
-- **Lista di Magia**:: Invocazione
-- **Livello**:: 7, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale (cono di 18 metri)
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Spruzzo Prismatico
+
+* **Lista**: Invocazione
+* **Livello**: 7, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale (cono di 18 metri)
+* **Durata**: Istantanea
 
 Otto raggi di luce multicolore partono dalla tua mano. Ogni raggio è di un diverso colore e ha un potere e uno scopo diverso. Ogni creatura in un cono di 18 metri deve effettuare un Tiro Salvezza su Riflessi. Per ogni bersaglio, tirare un d8 per determinare quale sia il colore del raggio che lo ha colpito.
 
@@ -10626,13 +10551,13 @@ Otto raggi di luce multicolore partono dalla tua mano. Ogni raggio è di un dive
 - *7. Violetto*. Se fallisce il Tiro Salvezza, il bersaglio è accecato. Deve poi effettuare un Tiro Salvezza su Volontà all'inizio del tuo prossimo round. Se supera il Tiro Salvezza, la cecità termina. Se fallisce il Tiro Salvezza, la creatura viene trasportata su di un altro piano di esistenza a scelta del Narratore e non è più accecata (di solito, una creatura che non è sul suo piano natio, viene esiliata su di esso, mentre le altre creature sono di solito portate nei piani Astrale o Etereo).
 - *8. Speciale*. Il bersaglio è colpito da due raggi. Tira altre due volte, ritirando gli 8.
 
-## Spruzzo Velenoso
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 0, Non Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 3 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Spruzzo Velenoso
+
+* **Lista**: Animali e Piante
+* **Livello**: 0, Non Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 3 metri
+* **Durata**: Istantanea
 
 Stendi la mano verso una creatura a gittata e che puoi vedere, e proietti una nube di gas velenoso dal tuo palmo. La creatura deve superare un Tiro Salvezza su Tempra o subire 1d12 danni da veleno.
 
@@ -10640,25 +10565,25 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia influenzi un altra creatura entro gittata.
 
-## Statua
-- **Lista di Magia**:: Terra, Trasmutazione
-- **Livello**:: 7, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Tocco
-- **Componenti**:: V, S, M (un frammento di pietra)
-- **Durata**:: 1 ora per livello
+### Statua
+
+* **Lista**: Terra, Trasmutazione
+* **Livello**: 7, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Tocco
+* **Durata**: 1 ora per livello
 
 Questo incantesimo trasforma l'incantatore o il soggetto consenziente in pietra, insieme a qualsiasi abito o oggetto trasportato. Il soggetto può vedere e percepire suoni e odori, ma non ha bisogno di mangiare o respirare. Il senso del tatto è limitato alle sensazioni percepibili dalla sostanza granitica di cui è composto il corpo del soggetto. Una scheggiatura è paragonabile a un semplice graffio, ma spezzare un braccio della statua equivale a una mutilazione. Il soggetto di statua può tornare allo stato normale e ridiventare di pietra tutte le volte che vuole durante la durata dell'incantesimo. La statua ha durezza 15 ed il doppio dei Punti Ferita della creatura originaria.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la durata o influenzi un altra creatura.
 
-## Stretta Folgorante
-- **Lista di Magia**:: Aria
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Stretta Folgorante
+
+* **Lista**: Aria
+* **Livello**: 0, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: Contatto
+* **Durata**: Istantanea
 
 Dalle tue mani saettano lampi che infliggono una scossa a una creatura con cui provi a entrare in contatto. Effettua un attacco in mischia con incantesimo contro il bersaglio. Hai +1d6 sul Tiro per Colpire se il bersaglio sta indossando un'armatura fatta di metallo. Se colpisci, il bersaglio subisce 1d8 danni da elettricità, e non può effettuare reazioni fino all'inizio del suo prossimo round.
 
@@ -10666,25 +10591,25 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 **Per ogni Successo Critico Magico ottenuto** l'incantesimo *può saltare* su un altra creatura nemica entro 1 metro da quella iniziale o somma 1d6 di danno aggiuntivo.
 
-## Succo concentrato di Ribes di Kyrin
-- **Lista di Magia**:: Animali e Piante, Terra
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, M (12 ribes che l'incantesimo consuma)
-- **Durata**:: 1 minuto
+### Succo concentrato di Ribes di Kyrin
+
+* **Lista**: Animali e Piante, Terra
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto
 
 Estrai la linfa acida dai ribes e proietti una linea di spruzzo d'acido lunga 9 metri e larga 1 metro in una direzione a tua scelta. Ogni creatura nella linea deve superare un Tiro Salvezza su Riflessi o essere ricoperta di acido per la durata dell'incantesimo o finché una creatura non usa due Azioni per togliere via l'acido da sé o da un'altra creatura. Una creatura coperta dall'acido subisce 2d4 danni da acido all'inizio di ciascuno dei suoi round.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 2d4
 
-## Suggestione
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 2, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, M (la lingua di un serpente e un pezzo di favo o un goccio di olio evo)
-- **Durata**:: 8 ore
+### Suggestione
+
+* **Lista**: Ammaliamento
+* **Livello**: 2, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 8 ore
 
 Suggerisci un corso di attività (limitato a una o due frasi) e influenzi magicamente una creatura a gittata e che puoi vedere e udire e ti possa capire, scelta da te. Le creature che non possono essere affascinate sono immuni a questo effetto. La suggestione deve essere pronunciata in modo che il corso d'azione suoni ragionevole. Chiedere a una creatura di pugnalarsi,gettarsi su una lancia, darsi fuoco, o fare qualche altro atto palesemente dannoso nega automaticamente gli effetti dell'incantesimo.
 
@@ -10692,13 +10617,13 @@ Il bersaglio deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro S
 
 Puoi anche specificare condizioni che attiveranno un'attività speciale per la durata dell'incantesimo. Per esempio, potresti suggerire a un cavaliere di cedere il suo saurovallo da guerra al primo mendicante che incontri. Se la condizione non viene soddisfatta prima del termine dell'incantesimo, l'attività non verrà svolta. Se tu o uno qualsiasi dei tuoi compagni danneggia il bersaglio, l'incantesimo ha termine.
 
-## Suggestione di Massa
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 6, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, M (la lingua di un serpente e un pezzo di favo o un goccio di olio dolce)
-- **Durata**:: 24 ore
+### Suggestione di Massa
+
+* **Lista**: Ammaliamento
+* **Livello**: 6, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 24 ore
 
 Suggerisci un corso di attività (limitato a una o due frasi) e influenzi magicamente fino a dodici creature a gittata che puoi vedere e udire e ti possano capire, scelte da te. Le creature che non possono essere affascinate sono immuni a questo effetto. La suggestione deve essere pronunciata in modo che il corso d'azione suoni ragionevole. Chiedere a una creatura di pugnalarsi, gettarsi su di una lancia, darsi fuoco, o fare qualche altro atto palesemente dannoso nega automaticamente gli effetti dell'incantesimo.
 
@@ -10708,13 +10633,13 @@ Puoi anche specificare condizioni che attiveranno un'attività speciale per la d
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aggiungi un giorno alla durata.
 
-## Taumaturgia
-- **Lista di Magia**:: Universale
-- **Livello**:: 0, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V
-- **Durata**:: Massimo 1 minuto
+### Taumaturgia
+
+* **Lista**: Universale
+* **Livello**: 0, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: Massimo 1 minuto
 
 Manifesti a gittata una trucco minore, un segno di potere soprannaturale. Crei a gittata uno dei seguenti effetti magici:
 
@@ -10729,13 +10654,13 @@ Se lanci questo incantesimo più volte, puoi tenere attivi fino a tre effetti da
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi manifestare un effetto magico aggiuntivo.
 
-## Telecinesi
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 5, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: Concentrazione, massimo 10 minuti
+### Telecinesi
+
+* **Lista**: Trasmutazione
+* **Livello**: 5, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: Concentrazione, massimo 10 minuti
 
 Ottieni la capacità di muovere o manipolare creature o oggetti tramite il pensiero. Quando lanci questo incantesimo e con 2 Azioni durante ciascun round, puoi esercitare la tua volontà su di una creatura od oggetto a gittata e che puoi vedere, provocando l'effetto appropriato tra quelli seguenti. Puoi agire round dopo round sempre sullo stesso bersaglio, o sceglierne uno nuovo ogni volta. Se cambi bersaglio, il bersaglio precedente non è più soggetto all'incantesimo.
 
@@ -10749,13 +10674,13 @@ Se l'oggetto è indossato o trasportato da una creatura, devi effettuare un Tiro
 
 Puoi esercitare un controllo preciso sugli oggetti tramite la tua presa telecinetica, riuscendo così a manipolare un attrezzo semplice, aprire una porta o un contenitore,inserire o recuperare un oggetto da un contenitore aperto, o versare del materiale in una fiala.
 
-## Teletrasporto
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 7, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 3 metri
-- **Componenti**:: V
-- **Durata**:: Istantanea
+### Teletrasporto
+
+* **Lista**: Evocazione
+* **Livello**: 7, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 3 metri
+* **Durata**: Istantanea
 
 Questo incantesimo teletrasporta istantaneamente te e altre otto creature consenzienti (oppure un singolo oggetto) a gittata e che puoi vedere, scelte da te, in una destinazione di tua scelta. Se il bersaglio è un oggetto, deve poter entrare in una sfera di 2 metri di raggio e non può essere tenuto o trasportato da una creatura non consenziente.
 
@@ -10767,7 +10692,9 @@ Il Narratore tira un d100 e consulta la tabella.
 - *Oggetto associato* indica che possiedi uno oggetto preso negli ultimi sei mesi dalla destinazione desiderata, come il libro della biblioteca di un mago, biancheria della suite reale, o un pezzo di marmo della tomba segreta di un lich.
 - *Molto familiare* è un luogo in cui sei stato molto spesso, un posto che hai studiato attentamente, o un posto che puoi vedere quando lanci l'incantesimo.
 	*Visto casualmente* è un posto che hai visto più di una volta ma con cui non sei molto familiare.
-- *Visto una volta* è un posto che hai visto una volta sola, magari tramite la magia.
+
+| - *Visto una volta* è un posto che hai visto una volta sola, magari tramite la magia. |
+
 *Descrizione* è un luogo la cui posizione e aspetto conosci solo tramite la descrizione di qualcun altro, magari una mappa.
 - *Falsa destinazione* è un posto che non esiste. Magari hai cercato di scrutare il nascondiglio di un nemico ma hai invece visto un'illusione, oppure stai cercando di teletrasportarti in un posto familiare che non esiste più.
 - *Sul Bersaglio*. Tu e il tuo gruppo (o l'oggetto bersaglio) apparite dove desideri.
@@ -10776,7 +10703,6 @@ Il Narratore tira un d100 e consulta la tabella.
 - *Errore*. L'imprevedibile magia dell'incantesimo provoca un viaggio difficile. Ogni creatura teletrasportata (o l'oggetto bersaglio) subisce 3d10 danni da forza, e il Narratore ritira sulla tabella per vedere dove finiscano (possono capitare più errori, che infliggono danni ogni volta).
 
 | d100 | Errore | Area Simile | Fuori Bersaglio | Sul Bersaglio |
-| --- | --- | --- | --- | --- |
 | Cerchio permanente | - | - | - | 01-100 |
 | Oggetto Associato | - | - | - | 01-100 |
 | Molto Familiare | 01-05 | 06-13 | 14-24 | 25-100 |
@@ -10785,13 +10711,13 @@ Il Narratore tira un d100 e consulta la tabella.
 | Descrizione | 01-43 | 44-53 | 54-73 | 74-100 |
 | Falsa Destinazione | 01-50 | 51-100 | - | - |
 
-## Tempesta di Fuoco
-- **Lista di Magia**:: Fuoco
-- **Livello**:: 7, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Tempesta di Fuoco
+
+* **Lista**: Fuoco
+* **Livello**: 7, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 45 metri
+* **Durata**: Istantanea
 
 Una tempesta composta di fiamme roboanti compare in un punto a gittata, scelto da te. L'area della tempesta consiste di un massimo di dieci cubi di 3 metri di spigolo adiacenti, che puoi disporre come preferisci. Ogni cubo deve avere almeno una faccia adiacente a quella di un altro cubo. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi. Se lo fallisce subisce 7d10 danni da fuoco, o la metà di questi danni se lo supera. Il fuoco danneggia gli oggetti nell'area e incendia gli oggetti infiammabili che non sono indossati o trasportati. Se lo desideri, la vita vegetale nell'area resta illesa dagli effetti di questo incantesimo.
 
@@ -10799,13 +10725,13 @@ Una tempesta composta di fiamme roboanti compare in un punto a gittata, scelto d
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Tempesta di Ghiaccio
-- **Lista di Magia**:: Acqua, Aria
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 90 metri
-- **Componenti**:: V, S, M (un pizzico di polvere e alcune gocce d'acqua)
-- **Durata**:: Istantanea
+### Tempesta di Ghiaccio
+
+* **Lista**: Acqua, Aria
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 90 metri
+* **Durata**: Istantanea
 
 Una grandinata di ghiaccio si abbatte a terra in un cilindro di 6 metri di raggio e 12 metri di altezza centrato su di un punto a gittata. Ogni creatura nel cilindro deve effettuare un Tiro Salvezza su Riflessi. La creatura subisce 2d8 danni contundenti e 4d6 danni da freddo se fallisce il Tiro Salvezza, o la metà se lo supera. La grandine trasforma l'area di effetto della tempesta in terreno difficile fino al termine del tuo prossimo round.
 
@@ -10813,35 +10739,35 @@ Una grandinata di ghiaccio si abbatte a terra in un cilindro di 6 metri di raggi
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Tempesta di Nevischio
-- **Lista di Magia**:: Acqua
-- **Livello**:: 3, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Componenti**:: V, S, M (un pizzico di polvere e qualche goccia d'acqua)
-- **Durata**:: 1 minuto
+### Tempesta di Nevischio
+
+* **Lista**: Acqua
+* **Livello**: 3, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 45 metri
+* **Durata**: 1 minuto
 
 Fino al termine dell'incantesimo, pioggia gelida e nevischio si abbattono in un cilindro alto 6 metri e del raggio di 12 metri centrato in un punto da te scelto a gittata. L'area è in penombra, mentre le fiamme esposte vengono spente. Il terreno nell'area è coperto di ghiaccio scivoloso, rendendolo terreno difficile. Quando una creatura entra nell'area dell'incantesimo per la prima volta durante un round o inizia il suo round lì, deve effettuare un Tiro Salvezza su Riflessi. Se lo fallisce, cade prona. Se una creatura nell'area dell'incantesimo si sta concentrando, deve superare un Tiro Salvezza su Tempra contro la DC del Tiro Salvezza dell'incantesimo o perdere la concentrazione.
 
-## Tentacoli Neri
-- **Lista di Magia**:: Evocazione
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 27 metri
-- **Componenti**:: V, S, M (un pezzo di tentacolo di una piovra gigante o di un calamaro gigante)
-- **Durata**:: 1 minuto
+### Tentacoli Neri
+
+* **Lista**: Evocazione
+* **Livello**: 4, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 27 metri
+* **Durata**: 1 minuto
 
 Viscidi tentacoli d'ebano riempiono un quadrato di 6 metri di lato sul terreno, a gittata e che puoi vedere. Per la durata dell'incantesimo, questi tentacoli trasformano l'area in terreno difficile.
 
 Quando una creatura entra nell'area soggetta per la prima volta in un round o comincia qui il suo round, deve superare un Tiro Salvezza su Riflessi o subire 3d6 danni contundenti e rimanere intralciata dai tentacoli fino al termine dell'incantesimo. Una creatura intralciata dai tentacoli può usare 2 Azioni per effettuare un nuovo Tiro Salvezza per essere libera in quel round.
 
-## Terremoto
-- **Lista di Magia**:: Terra
-- **Livello**:: 8, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 150 metri
-- **Componenti**:: V, S, M (un pizzico di terriccio, un pezzo di pietra e un grumo di argilla)
-- **Durata**:: Concentrazione, massimo 1 minuto
+### Terremoto
+
+* **Lista**: Terra
+* **Livello**: 8, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 150 metri
+* **Durata**: Concentrazione, massimo 1 minuto
 
 Provochi un disturbo sismico in un punto sul terreno a gittata e che puoi vedere. Per la durata, un intenso tremore scuote il terreno in un cerchio di 30 metri di raggio centrato su quel punto e scuote le creature e le strutture in quell'area che sono a contatto del terreno.Il terreno nell'area diventa terreno difficile. Ogni creatura a terra che si sta concentrando deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, la sua concentrazione è infranta.
 
@@ -10851,25 +10777,25 @@ Questo incantesimo ha effetti aggiuntivi a seconda del tipo di terreno nell'area
 
 Una fenditura che si apre sotto una struttura la fa crollare immediatamente (vedi sotto). Strutture. Il tremore infligge 50 danni contundenti a qualsiasi struttura in contatto col terreno nell'area quando lanci l'incantesimo e alla fine di ciascuno dei tuoi round fino al termine dell'incantesimo. Se una struttura scende a 0 Punti Ferita, crolla e potrebbe danneggia le creature vicine. Una creatura distante dalla struttura metà della altezza o meno della struttura, deve effettuare un Tiro Salvezza su Riflessi. Se lo fallisce, la creatura subisce 5d6 danni contundenti, cade prona ed è sommersa dalle macerie. Dovrà poi impiegare 2 azioni riuscendo una prova di Atletica DC 20 per liberarsi. Il Narratore può modificare verso l'alto o il basso la DC, a seconda della natura delle macerie. Se supera il Tiro Salvezza, la creatura subisce solo la metà dei danni e non cade né resta sepolta.
 
-## Terreno Illusorio
-- **Lista di Magia**:: Illusione
-- **Livello**:: 4, Non Comune
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: 90 metri
-- **Componenti**:: V, S, M (una pietra, un rametto e un pezzo di pianta verde)
-- **Durata**:: 24 ore
+### Terreno Illusorio
+
+* **Lista**: Illusione
+* **Livello**: 4, Non Comune
+* **Lancio**: 10 minuti
+* **Gittata**: 90 metri
+* **Durata**: 24 ore
 
 Fai sì che un pezzo di terreno naturale a gittata, in un cubo di 150 metri di spigolo, appaia, risuoni e odori come qualche altro tipo di terreno naturale. Di conseguenza, campi aperti o una strada possono essere trasformati in un acquitrino, colline, un crepaccio o qualche altro tipo di terreno difficile o invalicabile. Un laghetto può essere trasformato in una radura erbosa, un precipizio in una lieve pendenza, un burrone cosparso di rocce in una strada ampia e liscia. Le strutture edificate, l'equipaggiamento e le creature all'interno dell'area non mutano d'aspetto.
 
 Le peculiarità tattili del terreno sono immutate, così che le creature che entrano nell'area è probabile che svelino l'illusione. Se al contatto la differenza non è ovvia, una creatura che esamina con cautela l'illusione può tentare una prova di Consapevolezza contro la DC del Tiro Salvezza dei tuoi incantesimi per dubitare di essa. Una creatura che riconosca l'illusione per quello che è, la percepisce come una vaga immagine sovrapposta al terreno.
 
-## Tocco Gelido
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 0, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 36 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 round
+### Tocco Gelido
+
+* **Lista**: Necromanzia
+* **Livello**: 0, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 36 metri
+* **Durata**: 1 round
 
 Crei una scheletrica mano spettrale nello spazio di una creatura a gittata. Effettua un attacco a distanza con incantesimo contro la creatura, per aggredirla con il gelo della morte. Se colpisci, il bersaglio subisce 1d8 danni da Vuoto, e non può recuperare Punti Ferita fino all'inizio del tuo prossimo round. Fino ad allora, la mano resterà serrata sul bersaglio. Se colpisci un bersaglio non morto, esso avrà anche -1d6 ai Tiri per Colpire contro di te fino alla fine del suo prossimo round.
 
@@ -10877,13 +10803,13 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia crei una mano scheletrica aggiuntiva che deve attaccare una creatura diversa entro gittata.
 
-## Tocco Vampirico
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 3, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: 1 minuto
+### Tocco Vampirico
+
+* **Lista**: Necromanzia
+* **Livello**: 3, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 minuto
 
 Il contatto con la tua mano avvolta dall'ombra può risucchiare la forza vitale altrui per curare le tue ferite. Ogni round puoi effettuare un attacco in mischia, 2 Azioni, con incantesimo contro una creatura a portata. Se colpisci, il bersaglio subisce 3d6 danni da Vuoto e tu recuperi un numero di Punti Ferita pari alla metà del danno da Vuoto che hai inflitto.
 
@@ -10893,23 +10819,23 @@ Mentre hai questo incantesimo attivo sei considerato Distratto per il lancio di 
 
 **NOTA**: l'incantesimo è Comune tra i Devoti di Tazher. Un seguace di Tazher sostituisce il d6 di danno con il d8.
 
-## Trama Ipnotica
-- **Lista di Magia**:: Illusione
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Componenti**:: S, M (un bastoncino luminoso di incenso o una fiala di cristallo piena di materiale fosforescente)
-- **Durata**:: 1 minuto
+### Trama Ipnotica
+
+* **Lista**: Illusione
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 36 metri
+* **Durata**: 1 minuto
 
 Crei a gittata una trama contorta di colori che si muove nell'aria all'interno di un cubo di 9 metri di spigolo. La trama appare per un momento e poi svanisce. Ogni creatura nell'area che veda la trama deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, una creatura rimane affascinata per la durata. Mentre è affascinata da questo incantesimo, la creatura è inabile e ha velocità 0. L'incantesimo termina per la creatura soggetta, qualora questa subisca danni o se qualcuno usa un'Azione per scuoterla dal suo stato confusionale.
 
-## Trasformazione
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 9, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un cerchietto di giada del valore di almeno 1.500 mo, che devi poggiare sulla tua testa prima di lanciare l'incantesimo)
-- **Durata**:: 1 ora
+### Trasformazione
+
+* **Lista**: Trasmutazione
+* **Livello**: 9, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 ora
 
 Per la durata assumi la forma di una creatura differente. La nuova forma può essere quella di qualsiasi creatura il cui grado di sfida sia pari o inferiore alla tua CM/2+Adepto della magia. La creatura non può essere un costrutto o un non morto e devi averla vista almeno una volta. Ti trasformi in un esemplare medio di quella creatura, uno senza Abilità uniche. Puoi restare nella forma assunta fino al termine dell'incantesimo. Ti ritrasformi automaticamente se cadi privo di sensi, scendi a 0 Punti Ferita o muori. Le tue statistiche di gioco sono rimpiazzate dalle statistiche della creatura scelta, fatta accezione per i tuoi Tratti, e dei tuoi punteggi di Intelligenza, Saggezza e Carisma. Mantieni tutte le tue competenze nelle Abilità e i Tiri Salvezza, oltre a ottenere quelle della creatura. Se la creatura possiede le tue stesse competenze e il bonus indicato nelle sue statistiche è più alto del tuo, usa il bonus della creatura al posto del tuo. Non puoi usare nessuna Azione aggiuntiva o Azione da tana della nuova forma.
 
@@ -10923,13 +10849,13 @@ Nella durata dell'incantesimo, puoi usare due azioni per assumere una forma dive
 
 **NOTA**: devi essere un Devoto di Efrem o Shayalia per imparare questo incantesimo
 
-## Trasformazione Furiosa di Restser
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 6, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (20cc di bevanda alcolica che viene consumata dal lancio dell'incantesimo, un arma magica)
-- **Durata**:: 1 round per CM
+### Trasformazione Furiosa di Restser
+
+* **Lista**: Trasmutazione
+* **Livello**: 6, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 round per CM
 
 Questo incantesimo permette ad un incantatore di convogliare le sue energie magiche per trasformarsi in un potente combattente.
 
@@ -10942,13 +10868,13 @@ Il punteggio non modificati delle caratteristiche fisiche (Forza, Destrezza e Co
 
 Per tutta la durata dell'incantesimo l'incantatore non è più in grado di lanciare incantesimi.
 
-## Traslazione Arborea
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 5, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S
-- **Durata**:: massimo 1 minuto
+### Traslazione Arborea
+
+* **Lista**: Animali e Piante
+* **Livello**: 5, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: massimo 1 minuto
 
 Ottieni la capacità di entrare in un albero e muoverti dal suo interno all'interno di un altro albero della stessa specie entro 150 metri. Entrambi gli alberi devono essere vivi e almeno della tua stessa taglia. Ogni Azione di Movimento ti permetti di entrare ed uscire da un nuovo albero.
 
@@ -10956,23 +10882,23 @@ Apprendi istantaneamente la posizione di tutti gli altri alberi della stessa spe
 
 Per la durata dell'incantesimo puoi usare questa capacità di trasporto una volta per round. Devi terminare ogni round al di fuori di un albero.
 
-## Trasporto Vegetale
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 6, Molto Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 3 metri
-- **Componenti**:: V, S
-- **Durata**:: 1 round
+### Trasporto Vegetale
+
+* **Lista**: Animali e Piante
+* **Livello**: 6, Molto Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: 3 metri
+* **Durata**: 1 round
 
 Questo incantesimo crea un legame magico tra un vegetale inanimato di taglia Grande o maggiore a gittata e un altro vegetale, a qualsiasi distanza, sullo stesso piano di esistenza. Devi aver visto o essere entrato in contatto almeno una volta con il vegetale di destinazione. Per la durata dell'incantesimo, qualsiasi creatura può entrare nel vegetale bersaglio e uscire dal vegetale di destinazione usando 1 Azione di Movimento.
 
-## Trucco della Corda
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 1 minuto
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M ( una corda di 18 metri)
-- **Durata**:: 1 ora +1 Turno per CM
+### Trucco della Corda
+
+* **Lista**: Trasmutazione
+* **Livello**: 2, Comune
+* **Lancio**: 1 minuto
+* **Gittata**: Contatto
+* **Durata**: 1 ora +1 Turno per CM
 
 Entri a contatto con un pezzo di corda lungo fino a 18 metri. Un'estremità della corda si leva nell'aria finché la corda non pende perpendicolare al terreno. All'estremità opposta della corda, un'entrata invisibile si apre su di uno spazio extradimensionale che resta fino al termine dell'incantesimo
 
@@ -10984,13 +10910,13 @@ Al termine dell'incantesimo la corda usata scompare.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di due ore o può contenere un'altra creatura media o più piccola.
 
-## Uno con la pietra
-- **Lista di Magia**:: Terra
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 8 ore
+### Uno con la pietra
+
+* **Lista**: Terra
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 8 ore
 
 Entri in un oggetto o superficie di pietra grossa abbastanza da contenere tutto il tuo corpo fondendoti con la pietra assieme a tutto l'equipaggiamento che trasporti per la durata.
 
@@ -11000,35 +10926,35 @@ I danni minori alla pietra non ti danneggiano, ma la sua parziale distruzione o 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata massima aumenta di 1 ora.
 
-## Unto
-- **Lista di Magia**:: Animali e Piante
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S, M (un pezzo di cotenna di maiale o burro od unto topetto)
-- **Durata**:: 1 minuto
+### Unto
+
+* **Lista**: Animali e Piante
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 1 minuto
 
 Del grasso scivoloso ricopre il terreno in un quadrato di 3 metri di lato, centrato su di un punto a gittata, e lo trasforma in terreno difficile per la durata dell'incantesimo.
 
 Quando compare il grasso, ciascun bersaglio che si trova in piedi nell'area deve superare un Tiro Salvezza su Riflessi o cadere prono. Una creatura che entra nell'area o termina il suo round lì, deve superare un Tiro Salvezza su Riflessi o cadere prona.
 
-## Vedere l'invisibile
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un pizzico di talco e una manciata di polvere d'argento)
-- **Durata**:: 1 ora
+### Vedere l'invisibile
+
+* **Lista**: Divinazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 ora
 
 Per la durata dell'incantesimo, vedi le creature e gli oggetti invisibili come se fossero visibili, e inoltre puoi vedere nel Piano Etereo. Le creature e gli oggetti eterei ti appaiono spettrali e trasparenti.
 
-## Velocità
-- **Lista di Magia**:: Trasmutazione
-- **Livello**:: 3, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S, M (una grattata di radice di liquirizia)
-- **Durata**:: 1 minuto
+### Velocità
+
+* **Lista**: Trasmutazione
+* **Livello**: 3, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto
 
 Acceleri il metabolismo di massimo 2 più le volte che hai preso Adepto della Magia creature a tua scelta in un raggio di 3 metri a gittata. Fino al termine dell'incantesimo i bersagli possono eseguire una Azione aggiuntiva di Attacco, senza penalità di multiattacco, o di Movimento. L'Azione aggiuntiva può essere parte di un altra Azione.
 
@@ -11040,25 +10966,25 @@ Quando l'incantesimo termina, i bersagli sono Rallentati 2/1r mentre sono preda 
 
 **Per ogni tre Successo Critico Magico ottenuto** nella Prova di Magia puoi aumentare di un ulteriore 1 le Azioni a round ad una creatura.
 
-## Ventriloquio
-- **Lista di Magia**:: Illusione
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 9 metri
-- **Componenti**:: V, M (un pezzo di magnete)
-- **Durata**:: 1 minuto
+### Ventriloquio
+
+* **Lista**: Illusione
+* **Livello**: 1, Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 9 metri
+* **Durata**: 1 minuto
 
 Puoi far sembrare che la tua voce (o qualsiasi suono che puoi normalmente produrre vocalmente) provenga da un altro luogo. Puoi parlare in qualsiasi lingua tu conosca. Chiunque senta il suono può tentare una prova di Consapevolezza contro la tua DC dell'incantesimo. In caso di successo, riconoscono che è illusorio, ma lo sentono comunque. Puoi interromperlo a volontà per la durata, senza azioni richieste.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi allontanare l'origine della voce di altri 9 metri.
 
-## Vigilanza e Interdizione
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 6, Non Comune
-- **T. di Lancio**:: 10 minuti
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (incenso bruciato, un piccolo misurino di zolfo e olio, un laccio legato, un piccolo ammontare di sangue di colosso di terra, e una piccola verga d'argento del valore di almeno 10 mo)
-- **Durata**:: 24 ore
+### Vigilanza e Interdizione
+
+* **Lista**: Abiurazione
+* **Livello**: 6, Non Comune
+* **Lancio**: 10 minuti
+* **Gittata**: Contatto
+* **Durata**: 24 ore
 
 Crei una interdizione che protegge fino a 225 metri quadri di pavimento (un'area quadrata di 15 metri di lato, o cento quadrati di 1 metro di lato o venticinque quadrati di 3 metri di lato). L'area interdetta può essere alta fino a 6 metri, e modellata come preferisci. Puoi interdire diversi piani di una roccaforte dividendo l'area tra di essi, purché tu possa camminare ininterrottamente in ogni area adiacente, mentre lanci l'incantesimo.
 
@@ -11082,72 +11008,72 @@ L'intera area interdetta irradia magia. Un incantesimo dissolvi magie lanciato c
 
 **Se effettui tre critici** la durata è permanente.
 
-## Vigore
-- **Lista di Magia**:: Cura
-- **Livello**:: 4, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (acqua, sale, zucchero)
-- **Durata**:: 1 round per CM
+### Vigore
+
+* **Lista**: Cura
+* **Livello**: 4, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 round per CM
 
 La creatura influenzata da questo incantesimo recupera un livello di Affaticamento, acquisisce 3d6 Punti Ferita Temporanei. Può concentrare le energie per effettuare una Azione di Attacco senza penalità di multiattacco o eseguire una Azione di Movimento in più.
 
-## Vincolo di Interdizione
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 2, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (una coppia di anelli di platino del valore di 50 mo l'uno, che tu e il bersaglio dovete indossare per la durata)
-- **Durata**:: 1 ora
+### Vincolo di Interdizione
+
+* **Lista**: Abiurazione
+* **Livello**: 2, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 ora
 
 Lanci l'incantesimo a contatto di una creatura che vuoi proteggere. Crei una connessione mistica tra di te e il bersaglio fino al termine dell'incantesimo. Finché il bersaglio è entro 18 metri da te, ottiene un bonus di +1 alla Difesa e ai Tiri Salvezza e ha resistenza a tutti i danni. Inoltre, ogni volta che il bersaglio subisce danni, tu ne subisci la stessa quantità. L'incantesimo ha fine se scendi a 0 Punti Ferita o tu e il bersaglio vi allontanate più di 18 metri. Ha fine anche se lo lanci di nuovo sulla stessa creatura su cui è già in atto. Puoi interrompere l'incantesimo con un'Azione.
 
-## Visione del Vero
-- **Lista di Magia**:: Divinazione
-- **Livello**:: 6, Raro
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (un unguento per gli occhi che costa 25 mo; fatto di funghi in polvere, zafferano e grasso; viene consumato dall'incantesimo)
-- **Durata**:: 1 ora
+### Visione del Vero
+
+* **Lista**: Divinazione
+* **Livello**: 6, Raro
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 1 ora
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Il bersaglio riceve la capacità di vedere le cose come sono realmente. Per la durata dell'incantesimo, la creatura ha visione del vero, nota porte segrete nascoste dalla magia e può vedere nel Piano Etereo, fino a una gittata di 36 metri. Vedi anche Visione del Vero pag. .
 
-## Vita Falsata
-- **Lista di Magia**:: Necromanzia
-- **Livello**:: 1, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Personale
-- **Componenti**:: V, S, M (un piccolo ammontare di alcool o spirito distillato)
-- **Durata**:: 1 ora
+### Vita Falsata
+
+* **Lista**: Necromanzia
+* **Livello**: 1, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Personale
+* **Durata**: 1 ora
 
 Potenziandoti con una parvenza necromantica di vitalità, ottieni 1d4 + 4 Punti Ferita temporanei per la durata.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia ottieni 5 Punti Ferita temporanei.
 
-## Viticci Perforanti
-- **Lista di Magia**:: Ammali e Piante
-- **Livello**:: 0, Non Comune
-- **T. di Lancio**:: 1 Azione
-- **Gittata**:: 9 metri
-- **Componenti**:: V, S
-- **Durata**:: Istantanea
+### Viticci Perforanti
+
+* **Lista**: Ammali e Piante
+* **Livello**: 0, Non Comune
+* **Lancio**: 1 Azione
+* **Gittata**: 9 metri
+* **Durata**: Istantanea
 
 Scateni dal palmo della tua mano 1 viticcio puntuto e spinato. Esegui un Tiro per Colpire a distanza con incantesimi sul bersaglio designato.
 Se il Tiro per Colpire ha successo il bersaglio subisce 1d4 Punti Ferita da danno da penetrazione.
 
-Ogni Azione che dedichi in più al lancio dell'incantesimo puoi decidere di manifestare un viticcio aggiuntivo che deve attaccare un bersaglio diverso dagli altri oppure aumentare la portata di 9 metri di un viticcio creato.
+Ogni Azione che dedichi in più al lancio dell'incantesimo puoi decidere di manifestare un viticcio aggiuntivo, con un proprio Tiro per Colpire, oppure aumentare la portata di 9 metri di un viticcio creato.
 
 Se spendi 1 Punto Magia nel lancio dell'incantesimo il viticcio diventa velenoso e se colpisce causa 2 danni da Veleno aggiuntivi.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia l'incantesimo crea un viticcio aggiuntivo.
 
-## Volare
-- **Lista di Magia**:: Aria
-- **Livello**:: 3, Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S, M (una piuma dell'ala di qualsiasi volatile)
-- **Durata**:: 10 minuti
+### Volare
+
+* **Lista**: Aria
+* **Livello**: 3, Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 10 minuti
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'incantesimo, il bersaglio ottiene velocità di volo 18 metri. Quando l'incantesimo ha fine, qualora sia ancora in aria, il bersaglio cade, a meno che non riesca a frenare la discesa.
 
@@ -11155,26 +11081,26 @@ Lanciare un incantesimo mentre si vola è più complesso, si è Distratti se non
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi prendere come bersaglio un'ulteriore creatura oppure aumentare la durata di 10 minuti.
 
-## Scudo Mentale
-- **Lista di Magia**:: Abiurazione
-- **Livello**:: 8, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: Contatto
-- **Componenti**:: V, S
-- **Durata**:: 24 ore
+### Scudo Mentale
+
+* **Lista**: Abiurazione
+* **Livello**: 8, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: Contatto
+* **Durata**: 24 ore
 
 Fino al termine dell'incantesimo, una creatura consenziente con cui sei in contatto durante il lancio è immune a qualsiasi effetto che ne percepirebbe le emozioni o leggerebbe i pensieri, incantesimi di divinazione e la condizione Affascinato. l'incantesimo nega anche gli incantesimi desiderio e altri incantesimi o effetti di simili potenza impiegati per
 influenzare la mente del bersaglio o per ottenere informazioni su di esso.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia. Se ottieni tre critici la durata è permanente.
 
-## Zona di Verità
-- **Lista di Magia**:: Ammaliamento
-- **Livello**:: 2, Non Comune
-- **T. di Lancio**:: 2 Azioni
-- **Gittata**:: 18 metri
-- **Componenti**:: V, S
-- **Durata**:: 10 minuti
+### Zona di Verità
+
+* **Lista**: Ammaliamento
+* **Livello**: 2, Non Comune
+* **Lancio**: 2 Azioni
+* **Gittata**: 18 metri
+* **Durata**: 10 minuti
 
 Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di raggio centrata su di un punto a gittata di tua scelta. Fino al termine dell'incantesimo, una creatura che entra nell'area dell'incantesimo per la prima volta durante un round, o inizia il suo round al suo interno, deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, la creatura non può pronunciare bugie deliberatamente mentre è nel raggio dell'incantesimo. Sei a conoscenza se una creatura ha superato o fallito il Tiro Salvezza. Una creatura soggetta all'incantesimo ne è consapevole e può quindi evitare di rispondere a domande a cui risponderebbe normalmente con una bugia. Questa creatura può dare risposte elusive purché rimanga entro i confini della verità.
 ---
@@ -11186,7 +11112,6 @@ A fianco di ogni incantesimo è indicata la Rarità ed il livello dell'incantesi
 **Lista dell'Acqua**
 
 | Raggio di Gelo, Comune, 0 |
-| --- |
 | Arma Energetica, Molto Raro, 1 |
 | Creare o Distruggere Acqua, Comune, 1 |
 | Cura Ferite, Comune, 1 |
@@ -11212,7 +11137,6 @@ Controllare Tempo Atmosferico, Raro, 8
 **Lista dell'Aria**
 
 | Stretta Folgorante, Comune, 0 |
-| --- |
 | Arma Energetica, Molto Raro, 1 |
 | Caduta Piuma, Comune, 1 |
 | Nube di Nebbia, Comune, 1 |
@@ -11241,7 +11165,6 @@ Muro Prismatico, Raro, (9)
 **Lista del Fuoco**
 
 | Produrre Fiamma, Comune, 0 |
-| --- |
 | Arma Energetica, Molto Raro, 1 |
 | Dardo di Fuoco, Comune, 1 |
 | Onda rovente, Comune, 1 |
@@ -11269,7 +11192,6 @@ Pioggia di Meteore, Leggendario, 9
 **Lista della Terra**
 
 | Riparare, Comune, 0 |
-| --- |
 | Arma Energetica, Molto Raro, 1 |
 | Palla di fango di Eithne, Non Comune, 1 |
 | Lettura della terra di Kyrin, Non Comune, 2 |
@@ -11296,7 +11218,6 @@ Pioggia di Meteore, Leggendario, 9
 **Abiurazione**
 
 | Resistenza, Comune, 0 |
-| --- |
 | Allarme, Comune, 1 |
 | Armatura Magica, Non Comune, 1 |
 | Protezione dall'Energia minore, Raro, 1 |
@@ -11317,7 +11238,6 @@ Pioggia di Meteore, Leggendario, 9
 | Esilio, Comune, 4 |
 | Libertà di Movimento, Comune, 4 |
 | Santuario Privato, Molto Raro, 4 |
-| Dissolvi il Bene e il Male, Raro, 5 |
 | Dissolvi Magie Avanzato, Raro, 5 |
 | Globo di Invulnerabilità, Comune, 6 |
 | Proibizione, Non Comune, 6 |
@@ -11332,7 +11252,6 @@ Imprigionare, Raro, 9
 **Animali e Piante**
 
 | Randello Incantato, Comune, 0 |
-| --- |
 | Spruzzo Velenoso, Non Comune, 0 |
 | Viticci Perforanti, Non Comune, 0 |
 | Intralciare, Comune, 1 |
@@ -11378,7 +11297,6 @@ Metamorfosi Pura, Raro, 9
 **Ammaliamento**
 
 | Beffa Crudele, Comune, 0 |
-| --- |
 | Dito, Raro, 0 |
 | Charme su Persone, Comune, 1 |
 | Comando, Comune, 1 |
@@ -11413,7 +11331,6 @@ Parola del Potere Uccidere, Raro, 9
 **Cura**
 
 | Cura Ferite, Comune, 1 |
-| --- |
 | Preghiera di Guarigione, Comune, 2 |
 | Ristorare Inferiore, Comune, 2 |
 | Aiuto, Non Comune, 2 |
@@ -11433,7 +11350,6 @@ Guarigione di Massa, Leggendario, 9
 **Divinazione**
 
 | Colpo Accurato, Comune, 0 |
-| --- |
 | Comprensione dei Linguaggi, Comune, 1 |
 | Conoscere i Tratti, Leggendario, 1 |
 | Guida, Comune, 1 |
@@ -11464,7 +11380,6 @@ Previsione, Non Comune, 9
 **Evocazione**
 
 | Creare Birra, Raro, 0 |
-| --- |
 | Fiotto Acido, Comune, 0 |
 | Mano Magica, Comune, 0 |
 | Cuoco Invisibile, Comune, 1 |
@@ -11490,7 +11405,6 @@ Desiderio, Non Comune, 9
 **Illusione**
 
 | Camuffare Sé Stesso, Comune, 1 |
-| --- |
 | Immagine Silenziosa, Comune, 1 |
 | Scritto Illusorio, Comune, 1 |
 | Spruzzo Colorato, Comune, 1 |
@@ -11523,7 +11437,6 @@ Fatale, Raro, 9
 **Invocazione**
 
 | Colpo Fiammeggiante, Raro, 1 |
-| --- |
 | Dardo Tracciante, Non Comune, 1 |
 | Dardo occulto, Comune, 1 |
 | Favore Divino, Non Comune, 1 |
@@ -11559,7 +11472,6 @@ Fatale, Raro, 9
 **Necromanzia**
 
 | Tocco Gelido, Comune, 0 |
-| --- |
 | Vita Falsata, Comune, 1 |
 | Grido di dolore, Raro, 1 |
 | Raggio di Indebolimento, Comune, 1 |
@@ -11589,7 +11501,6 @@ Sguardo Penetrante, Molto Raro, 6
 **Trasmutazione**
 
 | Messaggio, Comune, 0 |
-| --- |
 | Passo Veloce, Molto Raro, 1 |
 | Ritirata Rapida, Non Comune, 1 |
 | Alterare Sé Stesso, Non Comune, 1 |
@@ -11621,7 +11532,6 @@ Trasformazione, Raro, 9
 **Universale**
 
 | Fiamma Sacra, Comune, 0 |
-| --- |
 | Lacrima di Ljust, Non Comune, 0 |
 | Marchio Magico, Comune, 0 |
 | Prestidigitazione, Comune, 0 |
@@ -11647,7 +11557,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 **Livello 0 - Trucchetti** 
 
 | Artificio Druidico, Non Comune, 0 |
-| --- |
 | Beffa Crudele, Comune, 0 |
 | Colpo Accecante, 3 |
 | Colpo Accurato, Comune, 0 |
@@ -11676,7 +11585,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 **Livello 1** 
 
 | Allarme, Comune, 1 |
-| --- |
 | Alterare Sé Stesso, Non Comune, 1 |
 | Amicizia con gli Animali, Non Comune, 1 |
 | Anatema, Comune, 1 |
@@ -11738,7 +11646,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 **Livello 2** 
 
 | Animale Messaggero, Comune, 2 |
-| --- |
 | Arma Magica, Comune, 2 |
 | Arma Spirituale, Comune, 2 |
 | Aura Magica dell'Arcanista, Non Comune, 2 |
@@ -11809,7 +11716,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 **Livello 3**  
 
 | Animare Morti, Comune, 3 |
-| --- |
 | Anti-Individuazione, Non Comune, 3 |
 | Bastoni in Serpenti, Non Comune, 3 |
 | Benedizione di Ledyal, Molto Raro, 3 |
@@ -11859,7 +11765,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 **Livello 4**   
 
 | Allucinazione Mortale, Non Comune, 4 |
-| --- |
 | Blocca Persona Avanzato, Non Comune, 4 |
 | Camminare nell'aria, Non Comune, 4 |
 | Compulsione, Non Comune, 4 |
@@ -11892,7 +11797,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 **Livello 5** 
 
 | Animare Oggetti, Comune, 5 |
-| --- |
 | Barriera Antianimali, Raro, 5 |
 | Cerchio di Teletrasporto, Non Comune, 5 |
 | Colpo Infuocato, Comune, 5 |
@@ -11903,7 +11807,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 | Contagio, Non Comune, 5 |
 | Costrizione, Raro, 5 |
 | Creazione, Raro, 5 |
-| Dissolvi il Bene e il Male, Raro, 5 |
 | Dissolvi Magie Avanzato, Raro, 5 |
 | Dominare Persone, Non Comune, 5 |
 | Fuorviare, Non Comune, 5 |
@@ -11931,7 +11834,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 **Livello 6** 
 
 | Bagliore Solare, Non Comune, 6 |
-| --- |
 | Banchetto degli Eroi, Non Comune, 6 |
 | Barriera di Lame, Comune, 6 |
 | Camminare nel Vento, Non Comune, 6 |
@@ -11969,7 +11871,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 **Livello 7**
 
 | Celare, Raro, 7 |
-| --- |
 | Desiderio limitato, Raro, 7 |
 | Forma Eterea, Raro, 7 |
 | Immagine Proiettata, Non Comune, 7 |
@@ -11990,7 +11891,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 **Livello 8**
 
 | Antipatia/Simpatia, Raro, 8 |
-| --- |
 | Aura Sacra, Comune, 8 |
 | Benedizioni di Efrem, Raro, 8 |
 | Campo Anti-Magia, Raro, 8 |
@@ -12012,7 +11912,6 @@ Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo 
 **Livello 9** 
 
 | Desiderio, Non Comune, 9 |
-| --- |
 | Fatale, Raro, 9 |
 | Fermare il Tempo, Molto Raro, 9 |
 | Guarigione di Massa, Leggendario, 9 |
@@ -12231,11 +12130,8 @@ Nulla vieta che un personaggio riceva più poteri da Patroni diversi! Ad alti li
 | --- | --- | --- |
 | En. Positiva | Fuoco | En. Negativa |
 | Luce | Freddo | Vuoto |
-
-| Suono |
-
+| Suono | |
 | Elettricità | Nessun Patrono è completamente buono o completamente malvagio. Come la natura di un uomo è sfaccettata anche a seconda delle occasioni, così un Patrono potrà avere anomali slanci positivi o negativi. Ricordati che i Patroni sono Dei ma generati dalle emozioni e desideri. |
-| --- | --- |
 
 ### Miracoli, Interventi e Prodigi
 
@@ -13026,59 +12922,59 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 
 I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizzante.
 
-**Gaya**: Altruista, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
+**\hyperlink{gaya**{Gaya: Altruista, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
 
-**Calicante**: Ambizioso, Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro
+**\hyperlink{calicante**{Calicante: Ambizioso, Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro
 
-**Erondil**: Arrogante, Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
+**\hyperlink{erondil**{Erondil: Arrogante, Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
 
-**\hyperlink{Rezh**}: Avaro, Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
+**\hyperlink{rezh**{Rezh: Avaro, Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
 
-**Sixiser**: Prudente, Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
+**\hyperlink{sixiser**{Sixiser: Prudente, Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
 
-**Cattalm**: Cinico, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
+**\hyperlink{cattalm**{Cattalm: Cinico, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
 
-**Ljust**: Compassionevole, Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente
+**\hyperlink{ljust**{Ljust: Compassionevole, Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente
 
-**Gradh**: Coraggioso, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
+**\hyperlink{gradh**{Gradh: Coraggioso, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
 
-**Nihar**: Curioso, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
+**\hyperlink{nihar**{Nihar: Curioso, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
 
-**Tazher**: Disonesto, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
+**\hyperlink{tazher**{Tazher: Disonesto, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
 
-**Shayalia**: Dissoluto, Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
+**\hyperlink{shayalia**{Shayalia: Dissoluto, Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
 
-**Ledyal**: Entusiasta, Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
+**\hyperlink{ledyal**{Ledyal: Entusiasta, Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
 
-**Nethergal**: Estroverso, Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
+**\hyperlink{nethergal**{Nethergal: Estroverso, Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
 
-**Sumkjr**: Gentile, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
+**\hyperlink{sumkjr**{Sumkjr: Gentile, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
 
-**Atmos**: Indeciso, Prudente, Intransigente, Paziente, Vendicativo, Curioso, Avaro
+**\hyperlink{atmos**{Atmos: Indeciso, Prudente, Intransigente, Paziente, Vendicativo, Curioso, Avaro
 
-**Krondal**: Intransigente, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
+**\hyperlink{krondal**{Krondal: Intransigente, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
 
-**Belevon**: Invidioso, Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
+**\hyperlink{belevon**{Belevon: Invidioso, Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
 
-**Orudjs**: Impulsivo, Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
+**\hyperlink{orudjs**{Orudjs: Impulsivo, Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
 
-**Efrem**: Leale, Indeciso, Prudente, Impulsivo, Testardo, Paziente, Ambizioso
+**\hyperlink{efrem**{Efrem: Leale, Indeciso, Prudente, Impulsivo, Testardo, Paziente, Ambizioso
 
-**Torbiorn**: Crudele, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
+**\hyperlink{torbiorn**{Torbiorn: Crudele, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
 
-**Nedraf**: Paziente, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
+**\hyperlink{nedraf**{Nedraf: Paziente, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
 
-**Atherim**: Sospettoso, Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso\
+**\hyperlink{atherim**{Atherim: Sospettoso, Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso\
 
-**Thaft**: Codardo, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
+**\hyperlink{thaft**{Thaft: Codardo, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
 
-**Lynx**: Testardo, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
+**\hyperlink{lynx**{Lynx: Testardo, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
 
-**Orlaith**: Vanitoso, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
+**\hyperlink{orlaith**{Orlaith: Vanitoso, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
 
-**Laydel**: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
+**\hyperlink{laydel**{Laydel: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
 
-**Tàhil**: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
+**\hyperlink{tahil**{Tàhil: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
 
 > Gli dei tessono sventure per gli uomini, perché le generazioni future abbiano qualcosa da cantare. Iliade, Omero.
 ---
@@ -13536,6 +13432,7 @@ Imbracciare uno scudo occupa la mano ed il braccio.
 | Scudo medio metallo | 12 mo | +2 | 0 | +4 | M | 2 |
 | Scudo pesante di legno | 9mo | +3 | 1 | +6 | P | 4 |
 | Scudo pesante di metallo | 20 mo | +3 | 1 | +6 | P | 4 |
+
 ### Indossare e Togliere Armature
 
 Indossare e togliere armature è una operazione che richiede tempo ed attenzione, farlo in fretta non aiuta ed anzi tende a peggiorare la protezione fornita.
@@ -13923,6 +13820,7 @@ Se il personaggio effettua una prova utilizzando strumenti o attrezzi specifici 
 | Flauto di Pan | 12 mo | L | Ciaramella | 1 mo | 2 |
 | Liuto | 35 mo | 1 | Tamburo | 6 mo | 1 |
 | Viola | 30 mo | 1 | Trucchi per il Camuffamento | 25 mo | 1 |
+
 ### Cavalcature e Veicoli
 
 Una buona cavalcatura può consentire a un personaggio di attraversare rapidamente un territorio selvaggio, ma il suo scopo primario è trasportare l'equipaggiamento che altrimenti rallenterebbe il suo padrone.
@@ -14531,9 +14429,9 @@ I personaggi che rischiano di prendere fuoco possono effettuare un Tiro Salvezza
 Un personaggio che va a fuoco può estinguere automaticamente le fiamme saltando dentro a dell'acqua sufficiente a spegnerle. Se non ci sono grosse quantità d'acqua a disposizione, rotolarsi sul terreno o smorzare la fiamma con mantelli o simili può concedere al personaggio +1d6 al Tiro Salvezza.
 
 | Il personaggio in fiamme deve fare un Tiro Salvezza su Riflessi a DC 15 per ogni oggetto portato, se fallisce gli oggetti subiscono la stessa quantità di danni del personaggio. |
+| **Effetti della Lava** |
 | --- |
 
-**Effetti della Lava**
 La lava o il magma infliggono 2d6 danni per round di esposizione, tranne in caso di totale immersione (come quando un personaggio cade nel cratere di un vulcano attivo), che infligge 20d6 danni per round (più eventuali danni da caduta e magari trova un anello..).
 
 I danni provocati dal magma continuano per 1d3 round dopo il termine dell'esposizione, ma questi danni addizionali sono solo la metà di quelli inflitti durante l'ultimo round di effettivo contatto (20/10/5). Un'Immunità o una Resistenza al fuoco serve anche come resistenza alla lava od al magma. Tuttavia, le creature Immuni o Resistenti al Fuoco potrebbero annegare se immerse nella lava (vedi Annegamento).
@@ -14769,7 +14667,6 @@ Di tutti i luoghi strani che un avventuriero può esplorare, nessuno è più let
 >>> **Dungeon!!!**: Il dungeon, caverna, catacomba, spelonca, ecosistema sotterraneo... chiamatelo come preferite è un cardine dell'avventura!
 
 | Un dungeon è una ricetta fatta di umidità, fetore, aria stantia, sporcizia, fango, resti di creature, trappole, melme, trappole (abbondate...), mostri, nemici, mostri (abbondare!), oscurità, rumori sinistri, funghi, scricchiolii, guaiti, urla, gemiti.. ma anche di paura, tensione, brivido terrore | raccapriccio, enfasi, rabbia, dolore, delusione e tesori!!! |
-| --- | --- |
 
 Il vostro dungeon non è mai solo una caverna. MAI!
 
@@ -15321,7 +15218,6 @@ Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tab
 **Tabella: DC dei Tiri Salvezza e Bonus di Attacco delle Trappole**
 
 | Pericolosità della Trappola | DC Tiro Salvezza | Bonus di Attacco |
-| --- | --- | --- |
 | Minima | 13-14 | +4 a +6 |
 | Pericolosa | 16-20 | +8 a +10 |
 | Mortale | 21-26 | +12 a +15 |
@@ -15335,7 +15231,6 @@ Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tab
 | 17°-20° | 10d10 | 18d10 | 24d10 |
 
 ### Trappole di Esempio
-
 **Ago Avvelenato**
 
 Trappola meccanica
@@ -15993,6 +15888,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 | Nazamuse | I | I | 30 | Rimuove Veleni e Malattie naturali | 32 | 175 |
 | Bacio di Ljust | C | 1 r | 35 | Cura 100 Punti Ferita | 34 | 500 |
 | Estratto 100 erbe | I | I | 24 | Rimuove Cecità, Sordità, Paralisi, Veleno | 35 | 150 |
+
 ### Note sui Veleni e Pozioni
 
 **Arduur**: Un'erba sacra, raccolta principalmente nei boschi di Sangzhar. Viene macerata e ridotta in un decotto, bevuto per rimuovere i veleni più persistenti.
@@ -16486,7 +16382,6 @@ Per fare ciò che si vuole bisogna nascere re o stupidi. (*o Narratore*, NdA) (L
 "Non è compito del solo DM (*Narratore*) intrattenere i giocatori e assicurarsi che si divertano. Ogni persona che gioca è responsabile del divertimento del gioco di tutti. Tutti accelerano il gioco, aumentano il dramma, aiutano a stabilire quanto il gruppo si sente a suo agio nel gioco di ruolo e danno vita al mondo di gioco con la loro immaginazione. Tutti dovrebbero anche trattarsi reciprocamente con rispetto e considerazione: i litigi personali e le liti tra i personaggi ostacolano il divertimento.
 
 | Persone diverse hanno idee diverse su ciò che è divertente in D | D. Ricorda che il *modo giusto* di giocare a D | D è il modo in cui tu e i tuoi giocatori siete d'accordo e vi divertite. Se tutti si mettono al tavolo pronti a contribuire al gioco, tutti si divertono". (Dungeon Master Guide, 4ed) |
-| --- | --- | --- |
 
 ## Il Narratore
 
@@ -17075,9 +16970,8 @@ Es. una creatura è segnata come *Tesoro CT* **F** significa che nella sua tana,
 
 Consultate poi la Tabella Tipologia Oggetto magico (pag. ) per tirare e scoprire quale oggetti magici aveva la creatura.
 
-{\textwidth}{>{\bfseries}l|>
+| {\textwidth}{>{\bfseries}l|> |
 	
-
 | **Tesori da tana o nascondigli di creature** |  |  |  |  |  |  | |
 | --- | --- | --- | --- | --- | --- | --- |
 | CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
@@ -17091,12 +16985,9 @@ Consultate poi la Tabella Tipologia Oggetto magico (pag. ) per tirare e scoprire
 | G | - | - | 2d10, 50\% | 1d10, 50\% | 3d6, 30\% | 1d6, 25\% | 5 qualsiasi 35\% |
 | H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 qualsiasi 15\% |
 | I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 qualsiasi 15\% |
-
-{\textwidth}{>{\bfseries}l|>
+| {\textwidth}{>{\bfseries}l|> |
 	
-
 | **Tesori Individuali, piccole tane, zaini e borse** |  |  |  |  |  |  | |
-| --- | --- | --- | --- | --- | --- | --- |
 | CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
 | J | 3d8 | - | - | - | - | - | - |
 | K | - | 3d6 | - | - | - | - | - |
@@ -18310,10 +18201,7 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | 31-33 | Pioggia abbondante precipita in un raggio di 18 metri centrato sul bersaglio. L'area diventa oscurata leggermente. La pioggia continua a cadere fino all'inizio del tuo prossimo round. |
 
 | 34-36 | Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. |
-| --- | --- |
-
-| Tira un d100 per determinare che specie di animale compaia 01-25, un rinoceronte; 26-50, un elefante; 51-100, un ratto.
-
+| Tira un d100 per determinare che specie di animale compaia 01-25, un rinoceronte; 26-50, un elefante; 51-100, un ratto. |
 | 37-46 | Lanci Fulmine. |
 | 47-49 | Una nube di 600 enormi farfalle riempie un raggio di 9 metri intorno al bersaglio. L'area diventa oscurata pesantemente e fornisce copertura totale. Le farfalle restano per 10 minuti. |
 | 50-53 | Ingrandisci il bersaglio come se avessi lanciato l'incantesimo ingrandire/ridurre. Se il bersaglio non può essere soggetto all'incantesimo, o se non è una creatura, tu diventi il bersaglio. |
@@ -18325,14 +18213,11 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | 80-84 | Lanci l'incantesimo Invisibilità su di te. |
 | 85-87 | Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore. |
 | 88-90 | Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. |
-
-| Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea.
-
+| Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea. |
 | 91-95 | Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. |
 | 96-97 | La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto. |
 
 | 98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
-| --- | --- |
 
 ## Bacchetta delle Palle di Fuoco
 
@@ -19498,7 +19383,6 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 | Regina di fiori | Erinni |
 
 | Fante di fiori | Berserker |
-| --- | --- |
 | Dieci di fiori | Gigante delle Colline |
 | Nove di fiori | Ogre |
 | Otto di fiori | Orco |
@@ -22306,14 +22190,13 @@ L'aboleth può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 
 **Spazzata di Coda.** L'aboleth effettua un attacco di coda.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi Acquatico |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi Acquatico |
 | Organizzazione: Solitario, coppia, nidiata (3-6) o branco (7-19) |
+| **Categoria Tesoro**: F |
+| **Descrizione** |
 
-**Categoria Tesoro**: F
-**Descrizione**
 Come suggerisce il loro aspetto primitivo gli aboleth sono fra le più antiche forme di vita al mondo. Un aboleth è lungo 7 metri e pesa circa 3,2 tonnellate. Gli aboleth abitano in fondo ai mari nelle loro enormi città, serviti da innumerevoli schiavi.
 
 ## Angelo Deva
@@ -22351,14 +22234,13 @@ A volontà: *Conoscere i Tratti*
 
 Nella nuova forma, il deva mantiene le sue statistiche di gioco e la facoltà di parlare, ma la sua Difesa, metodi di movimento, Forza, Destrezza e sensi speciali vengono rimpiazzati da quelli della nuova forma, e ottiene qualsiasi statistica o capacità (Azioni aggiuntive e azioni da tana) possedute dalla sua nuova forma e non dalla sua originale.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi piano di con Tratti buono |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi piano di con Tratti buono |
 | Organizzazione: Solitario, coppia, o squadriglia (3-6) |
+| **Categoria Tesoro**: (Spadone Infuocato +1, altro tesoro) |
+| **Descrizione** |
 
-**Categoria Tesoro**: (Spadone Infuocato +1, altro tesoro)
-**Descrizione**
 I deva movanici compongono i ranghi della fanteria delle armate celesti, sebbene trascorrano la maggior parte del loro tempo pattugliando il Piano Positivo, quello Negativo e quello Materiale. Sul Piano Positivo sorvegliano le anime buone erranti. Sul Piano Negativo combattono i non morti e altri strani esseri che cacciano nel famelico vuoto. Le loro rare volte sul Piano Materiale hanno solitamente lo scopo di portare aiuto a potenti mortali, quando un grande pericolo minaccia di far cadere nelle mani del male un intero regno.
 
 ## Angelo Planetar
@@ -22382,7 +22264,7 @@ I deva movanici compongono i ranghi della fanteria delle armate celesti, sebbene
 
 A volontà: *Conoscere i Tratti*, *Invisibilità* (solo personale)
 
-3/giorno: *Barriera di Lame, Colpo Infuocato, Dissolvi il Bene e il Male*
+3/giorno: *Barriera di Lame, Colpo Infuocato*
 
 1/giorno: *Comunione, Controllare Tempo Atmosferico, Piaga degli Insetti*
 
@@ -22402,14 +22284,13 @@ A volontà: *Conoscere i Tratti*, *Invisibilità* (solo personale)
 
 - Il Planetar causa un danno critico (2d6) ogni volta che colpisce fino a fine combattimento. Costa 1 Azione.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi piano con Tratti buono |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi piano con Tratti buono |
 | Organizzazione: Solitario o coppia |
+| **Categoria Tesoro**: Spadone Sacro +3 |
+| **Descrizione** |
 
-**Categoria Tesoro**: Spadone Sacro +3
-**Descrizione**
 I planetar sono i generali delle armate celestiali volti alla distruzione del male. Un planetar è di norma alto 2,7 metri e pesa circa 250 kg. Sono ottimi diplomatici, ma contro gli immondi preferiscono la guerra piuttosto che negoziare una pace.
 
 ## Angelo Solar
@@ -22433,7 +22314,7 @@ I planetar sono i generali delle armate celestiali volti alla distruzione del ma
 
 A volontà: *Conoscere i Tratti*, *Invisibilità* (solo personale)
 
-3/giorno: *Barriera di Lame, Colpo Infuocato, Dissolvi il Bene e il Male*
+3/giorno: *Barriera di Lame, Colpo Infuocato*
 
 1/giorno: *Comunione, Controllare Tempo Atmosferico*
 
@@ -22461,14 +22342,13 @@ Il solar può effettuare 3 azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Teletrasporto.** Il solar si teletrasporta magicamente fino a 36 metri di distanza, insieme a tutto l'equipaggiamento che sta indossando o trasportando, in uno spazio non occupato e che può vedere.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi piano con Tratti buono |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi piano con Tratti buono |
 | Organizzazione: Solitario o coppia |
+| **Categoria Tesoro**: Armatura Completa +5, Spadone Danzante +5, Arco Lungo Composito +5 |
+| **Descrizione** |
 
-**Categoria Tesoro**: Armatura Completa +5, Spadone Danzante +5, Arco Lungo Composito +5
-**Descrizione**
 I solar sono i più potenti tra gli angeli, solitamente braccio destro delle divinità o campioni di cause importanti. Hanno un aspetto quasi umano e sono alti circa 2,7 metri, con pelle argentata o dorata. Sono benedetti con potenti capacità magiche e sono in grado di uccidere le creature malvagie più forti.
 
 I solar possono seguire tracce lasciate da potenti nemici e sono conosciuti come uccisori di mostri. Alcuni proteggono concetti soprannaturali, oggetti o creature di grande importanza, come i condotti di energia solare o le catene che imprigionano divinità malvagie. Possono diventare profeti e guru, gettando le basi per grandi religioni.
@@ -22494,14 +22374,13 @@ Rispettati da tutti gli angeli, i solar a volte comandano armate contro le legio
 
 ***Spruzzo Acido*** L'ankheg sputa acido in una linea lunga 9 metri e larga 1 metro, purché non stia afferrando nessuna creatura. Ogni creatura su quella linea deve effettuare un Tiro Salvezza di Riflessi DC 14, e subire 10 (3d6) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Ecologia**
-
-| Ambiente: Pianure temperate o calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Pianure temperate o calde |
 | Organizzazione: Solitario, coppia o nido (3-6) |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Gli ankheg sono mostri scavatori che prediligono le campagne per via del terreno morbido che facilita i loro spostamenti. Solitamente evitano le aree densamente popolate ma la loro predilezione per la carne del bestiame e degli umani li tiene lontani dalle zone disabitate. Nei deserti remoti, si trovano ankheg più grandi che si nutrono di scorpioni e cammelli.
 
 Alcuni ankheg sono addestrabili e possono diventare animali da carico, sebbene il loro comportamento imprevedibile li renda pericolosi nelle regioni civilizzate.
@@ -22533,14 +22412,13 @@ Mentre è affascinato dall'arpia, un bersaglio è inabile e ignora le canzoni di
 
 Un bersaglio che riesce il Tiro Salvezza è immune al canto di quell'arpia per le successive 24 ore.
 
-**Ecologia**
-
-| Ambiente: Paludi Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Paludi Temperate |
 | Organizzazione: Solitario, coppia o stormo (3-12) |
+| **Categoria Tesoro**: R (C) |
+| **Descrizione** |
 
-**Categoria Tesoro**: R (C)
-**Descrizione**
 Spesso viste come creature malvagie e corrotte, le arpie sanno come gli altri pensano e agiscono. Questa capacità percettiva offre loro un vantaggio nel trovare i loro pasti preferiti. Sebbene le creature selvatiche cadano facilmente vittime del canto ammaliatore, queste malvagie donne-uccello preferiscono pasti conditi con complessi pensieri senzienti. Le facili prede rendono il pasto noioso.
 
 Anche se in definitiva selvagge e senza alcun rimorso per le loro azioni, diverse arpie vivono presso le società umanoidi e si divertono a sfruttare le creature che reputano potenziali pasti.
@@ -22571,14 +22449,13 @@ Le arpie sono marcatamente differenti a seconda della regione in cui vivono. Alc
 
 *Colpisce:* 7 (1d8 + 3) danni contundenti, o 8 (1d10 + 3) danni contundenti se usato a due mani per effettuare un attacco da mischia, più 3 (1d6) danni da fuoco.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi terreno (Piano del Fuoco) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi terreno (Piano del Fuoco) |
 | Organizzazione: Solitario, coppia, gruppo (3-6), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o clan (30-100 più 50\% di non combattenti più 1 sergente di 3° livello ogni 20 adulti, 5 tenenti di 5° livello e 3 capitani di 7° livello) |
+| **Categoria Tesoro**: Armatura a Scaglie Perfetta, Martello da Guerra Perfetto, Martello Leggero, N |
+| **Descrizione** |
 
-**Categoria Tesoro**: Armatura a Scaglie Perfetta, Martello da Guerra Perfetto, Martello Leggero, N
-**Descrizione**
 Una Razza orgogliosa e industriosa proveniente dal Piano del Fuoco, gli Azer lavorano nelle loro fortezze di bronzo e d'ottone, sempre pronti a combattere la loro lunga e ribollente guerra contro gli Efreet. Gli Azer vivono in una società in cui ogni membro sa qual è il suo posto. Nati con specifici doveri, solitamente legati alle attività del padre o della madre, gli Azer si dedicano a queste occupazioni per tutta la vita. Un sistema di caste provvede a tenere ulteriormente in riga la società Azer. I nobili, che regnano senza dover rendere conto a nessuno, indossano kilt di ottone decorato come simbolo della loro casta, mentre quelli dei mercanti e dei proprietari di negozi sono in resistente bronzo. I kilt di rame sono indossati dalla casta lavoratrice, composta da servitori, artigiani e braccianti.
 
 Capaci di incanalare calore tramite le Armi e gli attrezzi in metallo, gli Azer non utilizzano quasi mai Armi non metalliche, e prediligono il corpo a corpo agli attacchi a distanza. Sono soliti fare prigionieri, riportandoli alle loro fortezze e obbligandoli a lavorare per loro per un anno e un giorno.
@@ -22618,14 +22495,13 @@ A un occhio non allenato gli Azer si somigliano tra loro in modo impressionante.
 
 ***Lamento (1/Giorno)***. La Banshee emette un lamento funesto, purché non sia esposta alla luce del sole. Questo lamento non ha alcun effetto sui costrutti e sui non morti. Ogni altra creatura situata entro 9 metri da lei e in grado di udirla deve effettuare un Tiro Salvezza su Tempra con bonus Carisma DC 17; se lo fallisce, scende a O Punti Ferita, mentre se lo supera, subisce 35 (10d6) danni da forza.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 
-**Categoria Tesoro**: D
-**Descrizione**
 La Banshee è lo spirito infuriato di una donna che ha tradito i propri cari o è stata a sua volta tradita. Impazzita per il dolore, la Banshee riversa la propria vendetta su ogni creatura vivente (innocente o colpevole) con il suo temibile tocco e le sue grida mortali.
 
 ## Basilisco
@@ -22649,14 +22525,13 @@ Se il basilisco si trova entro 9 metri dal suo riflesso a luce intensa e lo vede
 
 *Veleno:* Veleno del Basilisco, F, istantaneo, TS Tempra 14 oppure Rallentato 1/3r.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario, coppia o colonia (3-6) |
+| **Categoria Tesoro**: F |
+| **Descrizione** |
 
-**Categoria Tesoro**: F
-**Descrizione**
 Il basilisco, spesso chiamato *Re dei Serpenti* è un rettile a otto zampe di indole aggressiva che ha la capacità di trasformare le creature in pietra con il suo sguardo. La leggenda narra che, come la Cockatrice, i primi basilischi nacquero da uova deposte da serpenti e covate da galli, ma ben poco nella fisiologia del basilisco lascia spazio a questa teoria.
 
 I basilischi vivono in quasi tutti gli ambienti asciutti, dalla foresta al deserto, e la loro pelle tende a rispecchiare l'ambiente che li circonda
@@ -22699,14 +22574,13 @@ Se il behir subisce 30 o più danni in un singolo round da una creatura che ha i
 
 ***Arrabbiato:*** il Behir ricarica il soffio di fulmine. Costa 2 Azioni.
 
-**Ecologia**
-
-| Ambiente: Colline e Deserti Caldi |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline e Deserti Caldi |
 | Organizzazione: Solitario o coppia |
+| **Categoria Tesoro**: U |
+| **Descrizione** |
 
-**Categoria Tesoro**: U
-**Descrizione**
 Il behir è una creatura territoriale che striscia per le colline sabbiose e le rocce del deserto, cacciando tutte le creature che osano entrare nel suo territorio. Con una lunghezza media di 12 metri e un peso di circa 1800 kg, il behir è dotato di sei paia di zampe con artigli che utilizza in combattimento per afferrare i nemici, correre o scalare.
 
 Nonostante la sua furia bestiale, il behir non è necessariamente malvagio e può essere convinto da negoziatori intrepidi. I behir sono spesso legati ai draghi blu, ma la natura di questo legame è sconosciuta. Questo legame suscita rancore nei behir, rendendoli pronti ad attaccare qualunque drago entri nel loro territorio.
@@ -22739,14 +22613,13 @@ Nonostante la sua furia bestiale, il behir non è necessariamente malvagio e pu�
 
 ***Morte:*** Quando la Blatta Esplosiva muore la gelatina all'interno a contatto con l'aria esplode tutto intorno, nel raggio di 1 metro attorno alla blatta le fiamme causano 12 (4d6) di danno, Tiro Salvezza su Riflessi DC 15 per dimezzare.
 
-**Ecologia**
-
-| Ambiente: caverne calde |
+| **Ecologia** |
 | --- |
+| Ambiente: caverne calde |
 | Organizzazione: Solitario, nido (8-64) |
+| **Categoria Tesoro**: Diamante 1d4x1d50mo |
+| **Descrizione** |
 
-**Categoria Tesoro**: Diamante 1d4x1d50mo
-**Descrizione**
 Le Blatta Esplosive sono creature native tra il piano elementale del fuoco e della terra. Solitamente attirati da ambienti ricchi di fiamme, pietra o almeno caldo e terra.
 Dalla forma proporzionata a quelli di una comune blatta se non lunga circa 40 cm e pensante circa 4 kg, è una creatura completamente priva di intelletto agendo solo per puro istinto.
 Sono ormai comuni nella caverne prossime a vulcani o tane di drago rosso essendosi abituate a vivere sulla Terra.
@@ -22784,14 +22657,13 @@ Nel nido dove dimorano c'è almeno una regina che comanda le blatte, estremament
 
 Il B.O.C. piega costantemente la luce intorno a se apparendo quasi un metro spostato rispetto alla sua reale posizione. Questa abilità non è influenzata da visioni di tipo normali, solo Visione del Vero, vista cieca o senso tellurico possono percepire correttamente il B.O.C.
 
-**Ecologia**
-
-| Ambiente: Colline e foreste |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline e foreste |
 | Organizzazione: Solitario, coppia oppure branco (2d4) |
+| **Categoria Tesoro**: I |
+| **Descrizione** |
 
-**Categoria Tesoro**: I
-**Descrizione**
 Il Black Ops Cat meglio conosciuto con B.O.C. è un grande felino predatore, ovviamente di colore nero. Feroce, insaziabile, uccide per il gusto di cacciare. Agisce solitamente in branco ed è estremamente fedele al gruppo.
 
 ## Bugbear
@@ -22817,14 +22689,13 @@ Il Black Ops Cat meglio conosciuto con B.O.C. è un grande felino predatore, ovv
 
 *Colpisce:* 9 (2d6 + 2) danni perforanti in mischia o 5 (1d6 + 2) danni perforanti a gittata.
 
-**Ecologia**
-
-| Ambiente: Montagne temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Montagne temperate |
 | Organizzazione: Solitario, coppia, gruppo (3-6) o banda da guerra (7-12 più 2 Guerrieri di 1° livello e 1 capitano di 3°-5° livello) |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio, Scudo Leggero di Legno, Mazza chiodata, 3 Giavellotti, O) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio, Scudo Leggero di Legno, Mazza chiodata, 3 Giavellotti, O)
-**Descrizione**
 Il bugbear è il più grande degli esponenti della razza Goblinoide, un bruto dai movimenti pesanti che supera di almeno una testa la maggior parte degli Umani. Sono solitari che preferiscono vivere ed uccidere da soli piuttosto che in tribù, sebbene non sia insolito trovare una piccola banda di Bugbear che collabora o vive con una tribù di Goblin od Hobgoblin fungendo da guardia d'élite o carnefici.
 
 I bugbear non formano grandi insediamenti come i goblin o nazioni come gli hobgoblin; preferiscono qualcosa di più piccolo e caotico che li lasci liberi di fare quello che preferiscono (uccidere e torturare) a un livello più personale. Gli umani sono le prede preferite dei bugbear, e la maggior parte di essi annovera la carne umana come uno degli alimenti principali della propria dieta. Macabri trofei quali orecchie e dita sono decorazioni comuni tra i bugbear.
@@ -22853,14 +22724,13 @@ I bugbear, quando si rivolgono alla religione, prediligono le divinità dell'omi
 
 ***Arrabbiato:*** La bulette si ricarica delle ultime energie, recupera tre volte il suo GS in punti ferita. Costa 1 Azione.
 
-**Ecologia**
-
-| Ambiente: Colline Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline Temperate |
 | Organizzazione: Solitario o coppia |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Creazione di uno sconosciuto mago del passato, il bulette ora è diventato un feroce predatore di collina. Scavando rapidamente sotto il terreno, fende la superficie con la sua pinna dorsale lasciandosi dietro una scia caratteristica. Il bulette balza fuori, liberandosi da pietre e terriccio, per fare a pezzi la sua preda senza rimorsi, dando così origine al suo soprannome di *squalo terrestre*.
 
 I bulette sono noti per il pessimo carattere, e attaccano creature molto più grandi di loro senza alcuna paura. Bestie solitarie tranne per le occasionali coppie in fase riproduttiva, passano la maggior parte del tempo pattugliando i loro territori, che possono superare i 4 km2, cacciando e punendo gli intrusi con una furia in grado di scuotere i pendii delle colline.
@@ -22907,14 +22777,13 @@ livello 4 (3 slot): *Esilio, Punizione marchiante (con 1 critico magico automati
 
 **Reazione: *Attacco d'opportunità***: il Cavaliere nero effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: spada lunga +3 od armatura completa +3, il resto dell'equipaggiamento scompare con la morte del Cavaliere Nero. |
+| **Descrizione** |
 
-**Categoria Tesoro**: spada lunga +3 od armatura completa +3, il resto dell'equipaggiamento scompare con la morte del Cavaliere Nero.
-**Descrizione**
 Dannato fin nel profondo della sua anima il Cavaliere Nero è l'antitesi del cavaliere di Sumkjr, anzi spesso nasce dalla corruzione di un cavaliere di Sumkjr. Avversario temibile, furbo, tattico, adora comportarsi e ragionare malignamente, come una persona ancora viva. La sua tattica è di lanciare la Palla di Fuoco il prima possibile per poi consumare la vittima con Punizione marchiante.
 
 ## Centauro
@@ -22943,14 +22812,13 @@ Dannato fin nel profondo della sua anima il Cavaliere Nero è l'antitesi del cav
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Pianure e foreste temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Pianure e foreste temperate |
 | Organizzazione: Solitario, coppia, banda (3-10), tribù (11-30 più 3 cacciatori di 3° livello e 1 capo di 6° livello) |
+| **Categoria Tesoro**: B |
+| **Descrizione** |
 
-**Categoria Tesoro**: B
-**Descrizione**
 Leggendari cacciatori e abili guerrieri, i centauri sono in parte uomini e in parte cavalli. Generalmente collocata ai margini della civilizzazione, questa stoica popolazione varia enormemente come aspetto: di solito il colore della pelle è molto abbronzato ma simile a quello degli umani delle regioni limitrofe, mentre la parte inferiore del corpo ha le tonalità degli equini locali. Hanno capelli e occhi di colore scuro e i tratti del volto piuttosto marcati, mentre la loro stazza totale dipende dalla taglia del cavallo di cui hanno la parte inferiore del corpo. Quindi, anche se un centauro medio è alto in piedi 2,1 metro e pesa più di 1000 kg, esistono molteplici varianti regionali, dagli esili corridori delle pianure ai massicci cacciatori di montagna.
 
 I centauri vivono in media circa 60 anni. Distanti dalle altre razze e in conflitto con gli altri della loro specie, i centauri sono una razza antica che lentamente comincia ad accettare il mondo moderno. Anche se la maggioranza dei centauri vive ancora in tribù vagando per vaste pianure o ai margini di mistiche foreste, alcuni hanno abbandonato i modi isolazionisti dei loro antenati per stabilirsi in città cosmopolite. Spesso questi spiriti liberi sono considerati dei reietti e vengono disprezzati dalle loro tribù, e pertanto la decisione di abbandonarle è una scelta pesante. In alcuni casi, comunque, intere tribù guidate da capi progressisti hanno cominciato a commerciare o stringere alleanze con altre comunità di umanoidi, specie Elfi, a volte Gnomi, e più raramente Umani o Nani. Molte razze rimangono caute nei confronti dei centauri, però, per lo più a causa di leggende che li ritraggono come creature territoriali e feroci e dei periodici scontri violenti che essi hanno con i coloni testardi e i paesi in via di espansione.
@@ -22988,17 +22856,13 @@ La leggenda vuole che i Centauri dovessero esplodere come tutti gli equini, per 
 
 ***Arrabbiato:*** la Chimera brilla di energia. Ricarica il Soffio Infuocato. Costa 1 Azione.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Colline Temperate |
-| --- |
 | Organizzazione: Solitario, coppia, branco (3-6) o stormo (7-12) |
-
-**Categoria Tesoro**: F
-**Descrizione**
-
+| **Categoria Tesoro**: F |
+| **Descrizione** |
 | Le chimere sono mostruose creature nate dal male primordiale. Odiose e fameliche, cacciano sia a terra che in aria. La testa di drago di una chimera può essere di qualunque tipo di drago malvagio, con il soffio corrispondente e le ali generalmente dotate delle stesse scaglie della testa. Le chimere parlano con tre voci che si sovrappongono, ma lo fanno raramente, tipicamente solo per adulare una creatura più potente. Una chimera è alta al garrese 1 metro, raggiungendo la lunghezza di 4 metri e il peso di 350 kg. |
-| --- |
 
 Le chimere preferiscono la carne, ma possono sopravvivere di vegetali se necessario (anche se quando sono costrette a farlo il loro umore peggiora ulteriormente). Il fatto che volino significa che possono scegliere con attenzione le loro prede, e generalmente cacciano in vaste aree cercando quelle facili. Sono troppo stupide e belligeranti per acquisire seguaci, anche se a volte una tribù di coboldi può far loro delle offerte. Al contrario, sono abbastanza intelligenti e caparbie da essere mediocri animali domestici, e solo una creatura molto più potente di loro può riuscire a sottometterle. Possono formare collaborazioni paritarie con umanoidi rispettosi o creature simili, e acconsentono anche ad essere usate come cavalcature. Un branco di chimere ha una gerarchia simile a quella dei leoni, con un maschio dominante che comanda il gruppo e la maggior parte delle cacce svolte dalle femmine. Una chimera solitaria può essere un giovane maschio solitario o una femmina con i cuccioli nelle vicinanze.
 
@@ -23028,14 +22892,13 @@ Le chimere preferiscono la carne, ma possono sopravvivere di vegetali se necessa
 
 **Reazione: *Attacco d'opportunità***: il chuul effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
-**Ecologia**
-
-| Ambiente: Paludi Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Paludi Temperate |
 | Organizzazione: Solitario, coppia o branco (3-6) |
+| **Categoria Tesoro**: U (B) |
+| **Descrizione** |
 
-**Categoria Tesoro**: U (B)
-**Descrizione**
 I chuul sono predatori corazzati simili ai crostacei, sempre in agguato sotto la superficie degli stagni e dei pantani poco profondi, che escono dal loro nascondiglio per afferrare le loro prede con le loro chele e poi paralizzarle con i tentacoli della bocca prima di mangiarle vive.
 
 I chuul sono eccellenti nuotatori, ma preferiscono attaccare le creature terrestri o abituate ad acque poco profonde. Una volta afferrate le loro vittime, i chuul spesso le trascinano nell'acqua profonda. I lucertoloidi sono le prede preferite dei chuul, anche se le pallide specie di chuul che vivono nei sotterranei preferiscono morlock, nani oscuri, incauti elfi e altri sfortunati che si avvicinano troppo ai loro corsi d'acqua sotterranei, ad eccezione dei trogloditi il cui sapore i chuul trovano particolarmente disgustoso.
@@ -23064,14 +22927,13 @@ I chuul sono sorprendentemente intelligenti e molti si impegnano in inutili spec
 
 *Colpisce:* 4 (1d4 + 2) danni contundenti.
 
-**Ecologia**
-
-| Ambiente: Foreste temperate o sotterranei |
+| **Ecologia** |
 | --- |
+| Ambiente: Foreste temperate o sotterranei |
 | Organizzazione: solitario, gruppo (2-4), nido (5-30 più un ugual numero di non combattenti, 1 sergente di 3° livello ogni 20 adulti e 1 capo di 4°-6° livello) o tribù (31-300 più di 35\% di non combattenti, 1 sergente di 3° livello ogni 20 adulti, 2 tenenti di 4° livello, 1 capo di 6°-8° livello e 5-16 Ratti Crudeli) |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio, Lancia, Fionda, altro tesoro), 2d6 monete d'argento |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio, Lancia, Fionda, altro tesoro), 2d6 monete d'argento
-**Descrizione**
 I coboldi sono creature dell'oscurità, che si incontrano più facilmente in enormi dedali sotterranei o negli angoli bui delle foreste dove il sole non batte mai. A causa della somiglianza fisica i coboldi si proclamano a gran voce discendenti della stirpe draconica e destinati a governare la terra sotto l'ala dei loro grandi cugini divini, ma la maggior parte dei draghi li considera poco più che insetti fastidiosi. Codardi ed intriganti, non lottano mai apertamente se possono evitarlo tendendo invece imboscate e trappole, rintanandosi nelle loro labirintiche costruzioni dietro una coltre di rozzi ma ingegnosi trabocchetti, o rovesciandosi sul nemico in vaste orde ululanti.
 
 La tonalità dei coboldi varia anche tra i fratelli della stessa covata, spaziando tra i colori dei draghi di Tàhil, con una predominanza del rosso e porpora, e più di rado bianco, verde, blu e nero.
@@ -23090,14 +22952,13 @@ I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono
 
 *Colpisce:* 3 (1d4 + 1) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 11 o essere Rallentato 1/1r per via della progressiva pietrificazione. Se successivi morsi portano la creatura a non avere più Azioni la creatura è pietrificata per 24 ore.
 
-**Ecologia**
-
-| Ambiente: Pianure temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Pianure temperate |
 | Organizzazione: Solitario, coppia, squadriglia (3-5) o stormo (6-12) |
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 
-**Categoria Tesoro**: D
-**Descrizione**
 Stupide, malevole e repellenti, le cockatrici sono evitate dalle altre creature per la loro capacità di trasformare la carne in pietra. I maschi si distinguono solo per barbigli e creste. Una tipica cockatrice è alta poco più di 60 centimetri e pesa 2,5 kg.
 
 Anche se la loro dieta consiste principalmente di semi e insetti pietrificati (che nello stomaco della creatura fungono sia da gastroliti che da nutrimento), le cockatrici difendono ferocemente il loro territorio da tutto ciò che ritengono una minaccia, e i vagabondaggi dei maschi raminghi in cerca di nuovi luoghi dove costruire tane a volte li portano ad involontari contatti con gli umani, con risultati devastanti.
@@ -23138,14 +22999,13 @@ A volontà: *Conoscere i Tratti, Individuazione del Magico, Individuazione dei P
 
 Nella nuova forma, il couatl mantiene le sue statistiche di gioco e la facoltà di parlare, ma la sua Difesa, metodi di movimento, Forza, Destrezza e altre azioni vengono rimpiazzati da quelli della nuova forma, e ottiene qualsiasi statistica o capacità (Azioni aggiuntive e azioni da tana) possedute dalla sua nuova forma e non dalla sua originale. Se la nuova forma ha un attacco di morso, il couatl può usare il proprio morso nella nuova forma.
 
-**Ecologia**
-
-| Ambiente: foreste calde |
+| **Ecologia** |
 | --- |
+| Ambiente: foreste calde |
 | Organizzazione: Solitario, coppia o stormo (3-6) |
+| **Categoria Tesoro**: I |
+| **Descrizione** |
 
-**Categoria Tesoro**: I
-**Descrizione**
 Rispettati ed ammirati per la loro saggezza e bellezza, cercano di portare i mortali sulla retta via e usano i loro poteri per combattere il male, specie quelli noti per viaggiare tra i piani. Un couatl è lungo circa 3,6 metri, con un'apertura alare di circa 5 metri e pesa 900 kg.
 
 Preferiscono gli stessi alimenti dei veri serpenti, come mammiferi e uccelli, anche se è noto che divorano gli umanoidi malvagi. Poiché preferiscono passare il tempo a perseguire i loro intenti anziché cacciare, apprezzano le offerte di cibo, in particolare piccoli cinghiali e volatili. Un couatl talvolta mostra il suo apprezzamento a un avventuriero o a un gruppo che gli ha reso un servizio donandogli 1d4 delle sue brillanti piume colorate.
@@ -23175,14 +23035,13 @@ Preferiscono gli stessi alimenti dei veri serpenti, come mammiferi e uccelli, an
 
 ***Arrabbiato:*** Il Cumulo strisciante rilascia un'onda di elettricità. Tutte le creature entro 3 metri subiscono 3d6 di danno da elettricità. Costa 2 Azioni.
 
-**Ecologia**
-
-| Ambiente: Foreste o Paludi Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Foreste o Paludi Temperate |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: A |
+| **Descrizione** |
 
-**Categoria Tesoro**: A
-**Descrizione**
 I cumuli striscianti, chiamati anche soltanto striscianti, sembrano masse vegetali in decomposizione. Sono piante carnivore intelligenti, con un debole per la carne elfica. Il cervello e gli organi sensoriali si trovano nella parte superiore del corpo. Di solito i cumuli striscianti hanno una circonferenza di 2,3 metri e sono alti da 1,8 a 2,7 metri. Pesano circa 1.900 kg.
 
 I cumuli striscianti sono strane creature, più simili a un groviglio di rampicanti parassiti che ad una singola pianta dotata di radici. Sono onnivori, capaci di trarre sostentamento da qualsiasi cosa, avvinghiandosi agli alberi per succhiarne la linfa, inserendo le radici nel terreno per assorbire nutrienti semplici o consumando la carne e le ossa dalle prede.
@@ -23226,14 +23085,13 @@ Di solito i cumuli striscianti conducono un'esistenza nomade e solitaria in prof
 
 ***Teletrasporto.*** Il demone si teletrasporta magicamente, insieme a tutto l'equipaggiamento che indossa o trasporta, in uno spazio non occupato e che può vedere entro 36 metri.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Abisso) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Abisso) |
 | Organizzazione: Solitario o banda di guerra (1 Balor e 2-5 Glabrezu) |
+| **Categoria Tesoro**: Standard (Spada Lunga Sacrilega+1, Frusta Infuocata+1, R) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Standard (Spada Lunga Sacrilega+1, Frusta Infuocata+1, R)
-**Descrizione**
 Quando la gente sussurra terrificanti racconti di creature demoniache, immagina per lo più un'imponente figura di fuoco e carne, un incubo cornuto armato di frusta e spada fiammeggianti, che vola nella notte in cerca delle sue prede. Il demone che queste persone temono è il Balor, e questa paura è pienamente giustificata, dal momento che pochi demoni possono eguagliare il possente Balor in forza o in brutalità.
 
 Nell'Abisso, i Balor sono per lo più al servizio dei signori dei demoni, in qualità di generali o capitani (quando non si tratti di balor estremamente potenti, noti come signori dei balor). Un balor solitamente comanda vaste legioni di demoni e, sebbene spesso consenta a questi servi bramosi e sbavanti di combattere le sue battaglie, è tutt'altro che un codardo. Se si presenta l'opportunità di unirsi ad uno scontro, sono pochi i balor che scelgono di trattenersi.
@@ -23295,14 +23153,13 @@ Il Demogorgone può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti
 
 **Sguardo di Follia.** Demogorgone usa o lo sguardo Potente o lo Sguardo della Follia
 
-**Ecologia**
-
-| Ambiente: Abisso |
+| **Ecologia** |
 | --- |
+| Ambiente: Abisso |
 | Organizzazione: Unico |
+| **Tesoro**: R, S, T, V |
+| **Descrizione** |
 
-**Tesoro**: R, S, T, V
-**Descrizione**
 Demogorgone è un enorme demone, principe dell'abisso e della follia alto circa 5 metri. Appare come un rettiloide bipede con due teste da babbuino, i colli sono lunghi e serpentini come le braccia tentacolari. Le due teste di Demogorgone sono hanno personalità distinte che si detestano. Spesso tentano di dominarsi a vicenda e molte delle storie che riguardano il Demogorgone trattano proprio su come una o l'altra testa cechi di dominare il tutto. Tra il Demogorgone ed Orcus c'è una forte rivalità.
 
 ## Dretch
@@ -23332,14 +23189,13 @@ Demogorgone è un enorme demone, principe dell'abisso e della follia alto circa 
 
 ***Nube Fetida (1/Giorno).*** Un disgustoso gas verde si estende in un raggio di 3 metri dal demone. Il gas si propaga intorno agli angoli e la sua area è oscurata leggermente. Rimane per 1 minuto o finché non viene disperso da un forte vento. Qualsiasi creatura che inizi il proprio round in quell'area deve riuscire un Tiro Salvezza di Tempra DC 11 o restare avvelenata fino all'inizio del suo prossimo round. Mentre è avvelenato in questo modo, il bersaglio, durante il suo round, è Rallentato 1.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Abisso) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Abisso) |
 | Organizzazione: Solitario, coppia, banda (3-5), gruppo (6-12) o folla (13+) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Anche il più infimo demone dell'Abisso è pericoloso e possiede la necessità impellente di spargere rovina e sgomento. Il miserabile dretch è tanto orripilante e fetido quanto crudele, anche se non possiede la forza ed il potere per riuscire a soddisfare la sua voglia di brutalizzare gli altri nel suo reame nativo. Lo scopo dell'esistenza dei dretch è quello di servire demoni più potenti come vittime sacrificabili, e solo pochi fortunati riescono a sopravvivere abbastanza a lungo da evolversi.
 
 I dretch sono i bersagli preferiti dai dilettanti in evocazioni abissali. Relativamente deboli e facili da intimorire, i dretch spesso possono essere obbligati a lunghi periodi di servitù utilizzando vaghe promesse di opportunità di sfogare le loro frustrazioni e la loro rabbia contro avversari più deboli. Eppure il potenziale evocatore di dretch farebbe meglio a ricordarsi che questi demoni sono codardi ed infidi quanto gli altri demoni. Un dretch che si trova di fronte un nemico più potente sarà assai lieto di scambiare qualsiasi informazione di cui disponga in cambio della sua miserevole vita.
@@ -23383,14 +23239,16 @@ A volontà: *Dissolvi Magie, Individuazione del Magico, Oscurità*
 
 ***Arrabbiato:*** il glabrezu crea un duplicato di se stesso dal piano delle ombre. Questo duplicato ha le stesse caratteristiche del glabrezu ma non attacca. Quando si attacca il glabrezu si ha un 50\% di attaccare il duplicato d'ombra.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Abisso) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Abisso) |
 
 Organizzazione: Solitario o drappello (1 glabrezu, 1 Succube e 2-5 Vrock)
-**Categoria Tesoro**: U
-**Descrizione**
+
+| **Categoria Tesoro**: U |
+| --- |
+| **Descrizione** |
+
 Mentre la Succube è un demone che adesca la sua preda sfruttandone i desideri e le necessità carnali, il glabrezu è un tentatore di altro genere. Feroce e dalla forma bestiale, il glabrezu è in realtà un maestro di inganni e bugie. Con la sua abilità di nascondere la sua vera forma dietro piacenti illusioni, usa la sua magia per esaudire i desideri degli umanoidi mortali, come forma di ricompensa per coloro che soccombono ai suoi inganni e raggiri. Un desiderio esaudito da un glabrezu appaga la necessità di chi lo esprime nel modo più rovinoso possibile, sebbene queste conseguenze possano non rivelarsi immediatamente tali. Un fabbro che fatica ad affermarsi potrebbe desiderare fama ed abilità nella professione scelta, solo per scoprire che il suo miglior patrono è un crudele e sadico omicida che usa le armi per promuovere i propri distruttivi desideri. Un uomo solo che esprime il desiderio di avere una compagna, potrebbe vedere il suo desiderio avverarsi con una sua vecchia fiamma ritornata alla vita in forma di vampiro, ed altri esempi di questo tipo. Il glabrezu è assai creativo nel soddisfare i desideri di un mortale.
 
 Un glabrezu è alto 5,3 metri e pesa poco più di 3000 kg. Questi perfidi demoni si originano dalle anime dei traditori, dei falsi e dei sovversivi: anime di mortali che, in vita, giurarono il falso o utilizzarono il tradimento e l'inganno per rovinare le vite altrui.
@@ -23428,14 +23286,13 @@ Un glabrezu è alto 5,3 metri e pesa poco più di 3000 kg. Questi perfidi demoni
 
 ***Arrabbiato:*** Hezrou rilascia una nube di fetore incendiaria. Tutte le creature attorno a lui entro 3 metri devono fare un Tiro Salvezza su Riflessi DC 21 per dimezzare i 4d10 di danno da fuoco. Costa 2 Azioni.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Abisso) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Abisso) |
 | Organizzazione: Solitario o banda (2-4) |
+| **Categoria Tesoro**: W |
+| **Descrizione** |
 
-**Categoria Tesoro**: W
-**Descrizione**
 L'hezrou vive nelle vaste paludi, acquitrini e corsi d'acqua dell'Abisso. E' a suo agio sia nell'acqua che sulla terraferma. La presenza di un hezrou ha un effetto dannoso su flora, causando mutazioni e rendendo maleodoranti e dal sapore salmastro le acque. Spesso intere comunità isolate di mutanti deformi devono il loro aspetto contorto non tanto ai loro depravati costumi quanto alla vicinanza di un hezrou.
 
 Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che hanno avvelenato se stessi, i loro parenti o il loro ambiente, ad esempio, drogati, assassini ed alchimisti che non si sono preoccupati di come i loro esperimenti avvelenassero il mondo naturale.
@@ -23479,14 +23336,13 @@ Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che 
 
 - la marilith condanna l'avversario all'abisso. Costo 2 Azioni. L'avversario deve effettuare un Tiro Salvezza su Volontà DC 28 o essere trasportato nell'abisso.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Abisso) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Abisso) |
 | Organizzazione: Solitario, coppia o plotone (1 marilith, 1-3 Glabrezu e 3-14 Babau) |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Sovrane di orde demoniache e regine di nazioni abissali, le temibili marilith servono i signori dei demoni come governanti, consigliere e persino amanti, eppure la loro supremazia come strateghe le rende particolarmente richieste come generali e comandanti d'armate. Le marilith più potenti non sono al servizio di nessuno e comandano invece fameliche legioni demoniache.
 
 Una marilith è alta da 1,8 a 2,7 metri, lunga 6 metri dalla testa alla punta della coda, e pesa 2000 kg. Solo le anime malvagie più arroganti ed orgogliose, solitamente quelle di crudeli sovrani, sadici generali e signori della guerra particolarmente violenti, possono causare la nascita di una marilith.
@@ -23533,11 +23389,11 @@ Se il Tiro Salvezza della creatura riesce o l'effetto ha termine per essa la cre
 **Ecologia**
 
 | Ambiente: Qualsiasi (Abisso) |
-| --- |
 | Organizzazione: Solitario o banda di guerra (1 nalfeshnee, 1 Hezrou e 2-5 Vrock) |
+| **Categoria Tesoro**: G |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: G
-**Descrizione**
 Sono pochi i demoni che comprendono le meccaniche interne che regolano l'Abisso come i nalfeshnee, e non è raro che questi demoni servano l'Abisso stesso invece che un signore dei demoni. Alcuni sovrintendono i reami organici che generano i nuovi demoni, mentre altri custodiscono luoghi di particolare importanza nei recessi nascosti del piano. Spesso il regno di un nalfeshnee nell'Abisso è superiore per forze e dimensioni al più grande dei regni mortali, in quanto questi demoni hanno una predisposizione naturale a governare ed imporre una sorta di ordine al caos dell'Abisso. Gli evocatori mortali spesso li richiamano per il loro folle ma impareggiabile intelletto, esaminando accuratamente gli accordi presi con questi demoni onde evitare eventuali conseguenze nascoste e risvolti non voluti, in quanto un nalfeshnee raramente accetta qualcosa che, in qualche modo contorto, non gli consenta di soddisfare le necessità ed i desideri dell'Abisso.
 
 I nalfeshnee sono alti 6 metri e pesano 4000 kg. Sono creati dalle anime di malvagi mortali avari o bramosi, in particolare di coloro che hanno regnato su imperi di schiavitù, furto, brigantaggio e altri vizi ancora più violenti.
@@ -23591,14 +23447,13 @@ Il Orcus può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed un
 
 **Assaggio di Morte.** Orcus lancia l'incantesimo Colpo Infuocato, in maniera blasfema, con danni da Vuoto
 
-**Ecologia**
-
-| Ambiente: Abisso |
+| **Ecologia** |
 | --- |
+| Ambiente: Abisso |
 | Organizzazione: Unico |
+| **Categoria Tesoro**: Z |
+| **Descrizione** |
 
-**Categoria Tesoro**: Z
-**Descrizione**
 Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei non morti. Desidera vedere scomparire tutta la vita e questa trasformarsi tutta in una gigantesca necropoli di non morti sotto il suo comando. Orcus ha la testa e le gambe da capra, corna simili a montoni, un corpo gonfio, ali da pipistrello e una lunga coda.
 
 ## Silku
@@ -23625,14 +23480,13 @@ Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei
 
 ***Rigenerazione.*** Il Silku rigenera 2 PF alla fine del suo round a meno che non sia stato ferito con acido o fuoco, l'effetto è attivo anche se il Silku ha Punti Ferita negativi.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Abisso) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Abisso) |
 | Organizzazione: Piccoli gruppi (3-6) |
+| **Categoria Tesoro**: P |
+| **Descrizione** |
 
-**Categoria Tesoro**: P
-**Descrizione**
 "...I loro volti avevano qualcosa di strano, erano come ... sfocati, era l'unica parte del loro corpo che non riuscivo a mettere a fuoco. Stupita dalla stranezza, sbattei le palpebre più volte e concentrai lo sguardo sui volti di entrambi. Sentii uno strano pizzicore sul volto e poi la vista si schiarì.
 Sgranai gli occhi e indietreggiai di un passo, mentre il terrore si impadroniva di me. I loro visi non erano umani. Avevano entrambi la pelle grigiastra e grinzosa, il naso schiacciato e lunghi canini che uscivano dalla bocca, grandi orecchie e occhi piccoli e neri. Sembrava il muso di un pipistrello."
 
@@ -23664,14 +23518,13 @@ Da *Il Guardiano di Falkonia*, romanzo di Federica Angeli
 
 ***Spavento (1/Giorno).*** Una creatura scelta dal demone che si trovi entro 6 metri da lui, deve riuscire un Tiro Salvezza su Volontà DC 12 o restare spaventata per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, con -1d6 se il demone è in linea di visuale, ponendo termine all'effetto prematuramente se riesce il Tiro Salvezza.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Abisso) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Abisso) |
 | Organizzazione: Solitario o stormo (2-12) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Il quasit è forse il demone meno potente, ma non è tra i meno rispettati: persino i quasit si ritengono superiori alle orde di Dretch e, fedeli alla propria natura, i Dretch mancano del coraggio o degli stimoli necessari a dimostrare loro che si sbagliano. Il ruolo primario in vita di un quasit è quello di famiglio al servizio di un incantatore, ma quei quasit che sfuggono a questa umiliante servitù acquisiscono una volontà propria e sono molto più pericolosi. Un quasit tipico è alto 45 centimetri e pesa solo 4 kg.
 
 Unici tra le orde demoniache, i quasit non nascono dalle anime di malvagi mortali deceduti, ma da anime viventi: quando un incantatore cerca di richiamare a sé un quasit come famiglio, la sua anima sfiora l'Abisso ed esso reagisce, creando dalla sua materia un quasit collegato all'anima dell'incantatore e generando un potente legame tra i due.
@@ -23707,14 +23560,13 @@ L'immondo può tenere affascinato solo un bersaglio alla volta. Se ne affascina 
 
 ***Forma Eterea.*** L'immondo entra magicamente nel Piano Etereo dal Piano Materiale, e viceversa.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Abisso) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Abisso) |
 | Organizzazione: Solitario, coppia o harem (3-12) |
+| **Categoria Tesoro**: I |
+| **Descrizione** |
 
-**Categoria Tesoro**: I
-**Descrizione**
 Tra le orde demoniache una succube spesso può raggiungere altissimi livelli di potere, utilizzando le sue manipolazioni ed il suo fascino sensuale, e molte guerre demoniache imperversano a causa delle subdole macchinazioni di queste creature. Una succube si origina dalle anime di malvagi mortali particolarmente libidinosi ed avidi.
 
 ## Vrock
@@ -23750,17 +23602,13 @@ Tra le orde demoniache una succube spesso può raggiungere altissimi livelli di 
 
 ***Arrabbiato:*** Il Vrock striscia il becco con gli speroni rendendoli ancora più affilati. Fino alla fine del combattimento il danno causato da Becco e Speroni causa 1 danno da Sanguinamento fino ad un massimo di 10 danni. 1 Azione.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Qualsiasi (Abisso) |
-| --- |
 | Organizzazione: Solitario, coppia o banda (3-10) |
-
-**Categoria Tesoro**: B
-**Descrizione**
-
+| **Categoria Tesoro**: B |
+| **Descrizione** |
 | Profani campioni dell'Abisso, i vrock incarnano tutta la rabbia, l'odio e la violenza di questo reame. Tanto voraci e grottescamente opportunisti quanto il saprofago a cui assomigliano, i vrock si deliziano nello spargimento di sangue, godendo del suono e delle sensazioni derivanti dallo strappare gli intestini ancora pulsanti da una creatura vivente. |
-| --- |
 
 Un vrock tipico è alto 2,3 metri e pesa 200 kg. Queste creature solitamente si originano dalle anime di malvagi mortali colmi di odio e di collera, in particolare coloro che erano criminali professionisti, mercenari o assassini.
 
@@ -23787,14 +23635,13 @@ Un vrock tipico è alto 2,3 metri e pesa 200 kg. Queste creature solitamente si 
 
 ***Passo Etereo.*** Il destriero da incubo e fino a tre creature consenzienti entro 3 metro da esso possono entrare magicamente nel Piano Etereo dal Piano Materiale e viceversa.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature più malvagie di cavalcarli, e non sono mai soltanto cavalcature, ma collaborano nella distruzione provocata dai loro cavalieri.
 
 > L'inferno è vuoto, tutti i diavoli sono qui. (William Shakespeare, La Tempesta)
@@ -23830,14 +23677,13 @@ Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature
 
 **Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Inferno) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Inferno) |
 | Organizzazione: Solitario, coppia, squadra (3-10) o truppa (10-40) |
+| **Categoria Tesoro**: Falcione, L |
+| **Descrizione** |
 
-**Categoria Tesoro**: Falcione, L
-**Descrizione**
 Guerrieri scelti delle legioni infernali, i diavoli barbuti, o barbazu, combattono selvaggiamente in nome dei loro signori infernali e in battaglia comandano orde brutali di dannati. Si radunano e si addestrano con i loro falcioni forgiati negli inferi, tra le volte del terzo girone dell'Inferno, Erebo, ma ritornano inevitabilmente nel primo girone, Averno, per servire al fianco del temibile signore Barbatos.
 
 I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di mantenere una distanza di 3 metri tra loro ed i loro avversari, così che possono utilizzare le loro caratteristiche armi ad asta con la massima efficacia. In posizione eretta i diavoli barbuti sono alti più di 1,8 metri (sebbene la posizione accovacciata che tengono in battaglia li faccia spesso sembrare più bassi) e pesano più di 100 kg.
@@ -23875,14 +23721,13 @@ Ogni catena animata è un oggetto con Difesa 20, 20 Punti Ferita, resistenza ai 
 
 ***Arrabbiato:*** il Diavolo delle Catene agita le catene davanti a se. Fino alla fine del combattimento la Difesa è 27. Costa 1 Azione a round mantenere l'effetto.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario, coppia, anello (3-6) o catena (7-20) |
+| **Categoria Tesoro**: R |
+| **Descrizione** |
 
-**Categoria Tesoro**: R
-**Descrizione**
 Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavolo delle Catene non sono veri diavoli. Anche se alcuni sono noti per vivere all'Inferno, essi esistono al di fuori delle gerarchie stabilite dagli dei degli inferi e dai suoi arcidiavoli e a volte si possono trovare su altri piani, in particolare sul Piano delle Ombre. Molti suggeriscono che siano nativi dell'Inferno che esisteva prima dell'avvento della stirpe diabolica, anche se altri ipotizzano che siano stati portati sul piano da qualche sadica potenza. Indipendentemente dalle loro origini vagano per i piani assecondano il loro desiderio di causare e ricevere sofferenza, ricercando il dolore attraverso violenti rapimenti e sadiche depravazioni.
 
 ## Diavolo Cornuto
@@ -23926,14 +23771,13 @@ Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavolo del
 
 ***Arrabbiato:*** il Diavolo Cornuto risucchia la vita che i nemici stanno perdendo. Fino alla fine del round successivo recupera tutti i Punti Ferita persi da Sanguinamento da ferite da lui causate.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Inferno) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Inferno) |
 | Organizzazione: Solitario, coppia o stormo (3-10) |
+| **Categoria Tesoro**: Catena Chiodata Sacrilega +1, P |
+| **Descrizione** |
 
-**Categoria Tesoro**: Catena Chiodata Sacrilega +1, P
-**Descrizione**
 Tra i più letali guerrieri degli arcidiavoli ed abili comandanti dei diavoli minori, i diavoli cornuti divulgano le regole dell'Inferno dovunque passano. Questi diavoli maggiori sono addestrati, forgiati e riforgiati per essere tra i più implacabili ed obbedienti guerrieri del multiverso. I diavoli cornuti delle truppe degli eserciti infernali sono noti come cornugon, mentre i più grandi tra loro sono chiamati malebranche.
 
 Un diavolo cornuto tipico raggiunge la ragguardevole altezza di 2,7 metri, è dotato di ali con un'apertura di 4,2 metri, e pesa 350 kg.
@@ -23985,14 +23829,13 @@ A volontà: *Individuazione del Magico, Palla di Fuoco*
 
 **Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Inferno) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Inferno) |
 | Organizzazione: Solitario, coppia o concilio (3-9) |
+| **Categoria Tesoro**: G |
+| **Descrizione** |
 
-**Categoria Tesoro**: G
-**Descrizione**
 I diavoli della fossa sono potenti sovrani infernali, generali delle armate dell'Inferno e consiglieri degli arcidiavoli. Con corpi massicci e intelletti malvagi, dominano distese infernali e sottomettono mondi mortali. Alti oltre 4 metri e pesanti più di 500 kg, sono corazzati e dotati di ali imponenti.
 
 I diavoli della fossa radunano eserciti, trasformando i lemure in veri diavoli e puntano a conquistare semipiani e mondi mortali vulnerabili. Obbediscono alla gerarchia infernale ma possono deporre padroni indegni. Solo i più potenti incantatori osano evocarli rischiando la dannazione eterna.
@@ -24039,14 +23882,13 @@ Il muro rimane per 1 minuto o finché il diavolo non è reso inabile o muore. Il
 
 ***Arrabbiato:*** il Diavolo di Ghiaccio punta al cuore del nemico e cerca di strapparlo. La creatura, entro 1 metro, deve fare un Tiro Salvezza su Tempra DC 26 od avere il cuore strappato.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Inferno) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Inferno) |
 | Organizzazione: Solitario, squadra (2-3), concilio (4-10) o contingente (1-3 diavoli del ghiaccio, 2-6 diavoli cornuti e 1-4 diavoli d'ossa |
+| **Categoria Tesoro**: Lancia Gelida +1, R |
+| **Descrizione** |
 
-**Categoria Tesoro**: Lancia Gelida +1, R
-**Descrizione**
 Strateghi illuminati delle armate dell'Inferno, gli insettoidi diavoli del ghiaccio sono tra le menti più ingegnose e crudeli dell'infermo. Un diavolo del ghiaccio nasconde nel suo petto un cuore ghiacciato trafugato ad un mortale, che gli permette di prendere decisioni libero da emozioni. Nati nel girone ghiacciato di Cocito, il settimo girone infernale, la maggior parte dei diavoli del ghiaccio migra a Caina, l'ottavo girone, dove complotta per dannare il mondo. Sebbene abbiano le sembianze più aliene e mostruose tra tutti i diavoli, a pochi altri viene accordato un maggiore rispetto.
 
 In combattimento manda avanti i suoi sottoposti, così da poter valutare le tattiche, i punti di forza e le debolezze dell'avversario nelle retrovie, e fornire loro supporto con le sue capacità magiche, evitando di coglierli nell'area di effetto dei suoi incantesimi: atteggiamento non dovuto ad un senso di cameratismo, bensì alla fredda e logica verità che i suoi alleati possono sopravvivere più a lungo in uno scontro se non sono esposti a fuoco amico.
@@ -24087,14 +23929,13 @@ I Diavoli del Ghiaccio sono alti 3,6 metri e pesano approssimativamente 350 kg.
 
 ***Arrabbiato:*** il Diavolo d'Ossa attacca tutte le creature intorno a lui con l'arma inastata. Tutte le creature ne raggio di 3 metri subiscono un attacco di Arma Inastata Uncinata, senza essere afferrati. Costo 2 Azioni. Il Diavolo d'ossa può decidere di diventare invisibile come sotto l'incantesimo di Invisibilità superiore. 2 Azioni.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Inferno) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Inferno) |
 | Organizzazione: Solitario, squadra (2-3), concilio (4-10) o contingente (1-3 diavoli del ghiaccio, 2-6 diavoli cornuti e 1-4 diavoli d'ossa |
+| **Categoria Tesoro**: I |
+| **Descrizione** |
 
-**Categoria Tesoro**: I
-**Descrizione**
 I diavoli d'ossa sono inquisitori delle razze diaboliche, noti per la loro passione per la tortura di mortali, anime e altri diavoli. Nati nelle paludi di Stigia, nel quinto girone dell'Inferno, fanno rispettare gli ordini degli arcidiavoli con devozione assoluta.
 
 I diavoli d'ossa viaggiano spesso fino al piano mortale per servire malvagi incantatori, recuperando informazioni preziose. Alti 2,7 metri e pesanti oltre 200 kg, con coda e ali terrificanti, sono imponenti e temuti.
@@ -24134,14 +23975,13 @@ I diavoli d'ossa viaggiano spesso fino al piano mortale per servire malvagi inca
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti più 3 (1d6) danni da fuoco.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Inferno) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Inferno) |
 | Organizzazione: Solitario, coppia, gruppo (3-5) o plotone (6-11) |
+| **Categoria Tesoro**: J |
+| **Descrizione** |
 
-**Categoria Tesoro**: J
-**Descrizione**
 Sentinelle delle volte dell'Inferno, carcerieri delle anime più nere e armi viventi delle forge infernali. Un Diavolo Spinoso ama sentire il sangue caldo sulle proprie spine e preferisce gettarsi nella mischia quando gli viene offerta l'opportunità di combattere.
 I Diavoli Spinoso sono collezionisti ed organizzatori. Se lasciati agire liberamente, nei nascondigli di questi diavoli spesso fanno mostra i trofei trafitti di vecchie vittime.
 La maggior parte dei diavoli spinosi è alta dai 2,1 metri in su e pesa 150 kg, sebbene i loro corpi asciutti e muscolosi sembrino più grossi per via degli spuntoni in continua crescita che fuoriescono dai loro corpi, taglienti come lame.
@@ -24179,14 +24019,13 @@ La maggior parte dei diavoli spinosi è alta dai 2,1 metri in su e pesa 150 kg, 
 
 ***Arrabbiato:*** L'Erinni incanala la sua energia magica in un attacco. Il bersaglio dell'attacco viene colpito da una infernale fiamma che causa 12d6 di danno da Vuoto. Tiro Salvezza DC 25 Riflessi per dimezzare. Costa 2 Azioni.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Inferno) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Inferno) |
 | Organizzazione: Solitario o trio |
+| **Categoria Tesoro**: Arco Lungo Composito Infuocato +1 [Forza +5], corda, Spada Lunga+1 |
+| **Descrizione** |
 
-**Categoria Tesoro**: Arco Lungo Composito Infuocato +1 [Forza +5], corda, Spada Lunga+1
-**Descrizione**
 Le erinni, note anche come Caduti, Ali Cineree e Furie, sono diavoli che insultano la loro forma angelica con la loro sete di vendetta e giustizia sanguinosa. Volteggiano sopra i cornicioni di Dite, il secondo girone dell'Inferno, sempre pronte alla battaglia per difendere l'inferno o per i capricci dei loro signori diabolici.
 
 Questi angeli bellissimi e oscuri accrescono la loro sensualità con cicatrici e lividi, ma preferiscono risolvere i problemi con violenza rapida e atroce. Utilizzano corde viventi fatte dei loro capelli per intralciare e sollevare i nemici, prolungando le loro sofferenze.
@@ -24219,14 +24058,13 @@ Le erinni sono alte circa 1,8 metri, pesano 70 kg e hanno ali nere con un'apertu
 
 ***Invisibilità.*** Il diavolo resta invisibile finché non attacca o termina la sua concentrazione. Qualsiasi cosa che il diavolo stia trasportando o indossando, resta invisibile finché rimane in contatto con il diavolo.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Inferno) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Inferno) |
 | Organizzazione: Solitario, coppia o stormo (3-10) |
+| **Categoria Tesoro**: K |
+| **Descrizione** |
 
-**Categoria Tesoro**: K
-**Descrizione**
 Nati direttamente dalle fosse dell'Inferno, gli imp sono i diavoli meno potenti, anche se queste crudeli ed invadenti creature svolgono un ruolo importante nella corruzione delle anime mortali. Libere dalle gerarchie e dai doveri delle armate infernali, gli imp si dilettano ad ogni opportunità di viaggiare fino al Piano Materiale e di tentare astutamente i mortali, spingendoli a compiere atti sempre più depravati.
 
 Volontariamente al servizio di incantatori nel ruolo di famigli, gli imp recitano la parte dei fedeli servitori, offrendo spesso ai loro padroni astuti consigli ed infernali intuizioni. In realtà, gli imp operano per inviare anime all'Inferno, accertandosi che l'anima del loro padrone, insieme a molte altre, sia destinata alla dannazione dopo la morte.
@@ -24257,14 +24095,13 @@ Diversamente dagli altri diavoli, gli imp si ritrovano spesso liberi e soli nel 
 
 *Colpisce:* 2 (1d4) danni contundenti.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Inferno) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Inferno) |
 | Organizzazione: Solitario, coppia, gruppo (3-5), sciame (6-17) o schiera (10-40 o più) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 I lemure sono i diavoli più infimi, nati dalle anime dannate all'inferno. Sono masse informi di carne tremolante, con tratti grotteschi che imitano i loro torturatori. Alti più di 1,2 metri e pesanti oltre 100 kg, sono creature rivoltanti che distruggono qualsiasi forma di vita non infernale.
 
 Essi rivestono un ruolo vitale nell'ecologia dell'Inferno. Le anime dannate vengono tormentate per secoli, dimenticando le loro vite e diventando automi guidati dall'odio e dalla paura. Alla fine, queste anime vengono trasformate in lemure, la forma di vita più elementare dei diavoli.
@@ -24286,14 +24123,13 @@ I diavoli maggiori possono riconoscere i lemure più corrotti e trasformarli in 
 
 *Colpisce:* 14 (3d6 + 4) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Acquatico Caldo |
+| **Ecologia** |
 | --- |
+| Ambiente: Acquatico Caldo |
 | Organizzazione: Solitario, coppia o branco (3-6) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Il plesiosauro è un rettile acquatico dal lungo collo. Sebbene tecnicamente non sia un dinosauro, questa creatura ed i suoi simili si trovano spesso a cacciare in laghi ed oceani nei quali è facile trovare dei dinosauri.
 
 ## Tirannosauro
@@ -24322,14 +24158,13 @@ Il plesiosauro è un rettile acquatico dal lungo collo. Sebbene tecnicamente non
 
 ***Arrabbiato:*** il Tirannosauro è pervaso da furia assassina. Attacca qualsiasi creatura amica o nemica. Il Tiro per Colpire guadagna +1d6 ed il morso causa Sanguinamento 2/15.
 
-**Ecologia**
-
-| Ambiente: Foreste e Pianure Calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Foreste e Pianure Calde |
 | Organizzazione: Solitario, coppia o branco (3-6) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Il tirannosauro è un predatore primario che misura 12 metri di lunghezza e pesa 7000 kg.
 
 ## Triceratopo
@@ -24352,14 +24187,13 @@ Il tirannosauro è un predatore primario che misura 12 metri di lunghezza e pesa
 
 **Reazione: *Collare protettivo*** il Triceratopo piega la testa sotto il collare e guadagna +4 alla Difesa.
 
-**Ecologia**
-
-| Ambiente: Pianure Calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Pianure Calde |
 | Organizzazione: Solitario, coppia o branco (5-8) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Il triceratopo è un erbivoro irascibile e caparbio. Un tipico triceratopo è lungo 9 metri e pesa 10000 kg.
 
 ## Divora Cervelli
@@ -24400,14 +24234,13 @@ Finché il Divora Cervelli occupa il corpo, conosce (e può parlare) i linguaggi
 
 Il danno inflitto al corpo, che ha il doppio dei Punti Ferita originali, ospite non danneggia il Divora Cervelli e se il corpo ospite viene distrutto il Divora Cervelli esce ed è Stordito per 1 round.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi sotterraneo |
 | Organizzazione: Solitario, covata (2-6) o tribù (7-16) |
+| **Categoria Tesoro**: G |
+| **Descrizione** |
 
-**Categoria Tesoro**: G
-**Descrizione**
 Un Divora Cervelli altro non è che un cervello di circa 50 cm dotato di 4 potenti zampe artigliate.
 
 I Divora Cervelli sono certamente una tra le razze più crudeli del mondo. Incapaci di provare emozioni o di sguazzare nei peccati del proprio piacere fisico, i divora cervelli sono costretti a rubare corpi per soddisfare la loro golosità, lussuria e crudeltà. Esistono storie che narrano di intere città sotterranee di queste creature che indossano corpi come se fossero vestiti per consumare spaventose orge e macabri festini.
@@ -24427,17 +24260,16 @@ Si dice che il giardino di Shayalia sia pieno di Divora Cervelli. Un Divora Cerv
 - **Imm. Danni**: al danno delle armi non magiche
 - **Sfida**: 0 (10 PX)
 
-***Dobi*** Il Dobi si appiccica, per spostarlo è necessario essere gentili e chiederglielo.
-***Dobi Dobi Dobi*** Quando il Dobi subisce più di 3 punti ferita di danno con un arma non contundente si divide in due Dobi più piccoli ognuno con lo stesso ammontare di Punti Ferita rimasti al Dobi precedente.
-**Azioni*Dobi Dobi*** il Dobi proietta un aura di Calmare Emozioni come l'omonimo incantesimo ma non è concesso il Tiro Salvezza. Il Dobi può influenzare una sola creatura alla volta con il suo potere.
-**Ecologia**
-
-| Ambiente: Paludi |
+| ***Dobi*** Il Dobi si appiccica, per spostarlo è necessario essere gentili e chiederglielo. |
 | --- |
+| ***Dobi Dobi Dobi*** Quando il Dobi subisce più di 3 punti ferita di danno con un arma non contundente si divide in due Dobi più piccoli ognuno con lo stesso ammontare di Punti Ferita rimasti al Dobi precedente. |
+| **Azioni** |
+| ***Dobi Dobi*** il Dobi proietta un aura di Calmare Emozioni come l'omonimo incantesimo ma non è concesso il Tiro Salvezza. Il Dobi può influenzare una sola creatura alla volta con il suo potere. |
+| **Ecologia** |
+| Ambiente: Paludi |
 | Organizzazione: gruppo |
-
-**Categoria Tesoro**: Accidentale
-**Descrizione**
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
 Da *Viaggio nel primo mondo.* Romanzo di Federica Angeli
 
@@ -24467,14 +24299,13 @@ Da *Viaggio nel primo mondo.* Romanzo di Federica Angeli
 
 ***Leggere Pensieri.*** Il doppelganger legge magicamente i pensieri di superficie di una creatura entro 18 metri da lui. L'effetto può penetrare le barriere, ma 1 metro di legno o terra, 50 centimetri di pietra, 5 centimetri di metallo, o un sottile foglio di piombo lo blocca. Mentre il bersaglio è a gittata, il doppelganger può continuare a leggerne i pensieri, purché la concentrazione del doppelganger non venga infranta (come la concentrazione di un incantesimo). Mentre legge la mente di un bersaglio, il doppelganger ha +1d6 alle prove di Saggezza e Carisma contro il bersaglio.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario, coppia o banda (3-6) |
+| **Categoria Tesoro**: Equipaggiamento da PNG |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG
-**Descrizione**
 I doppelganger sono esseri che possono assumere la forma di chiunque incontrino. Nella loro forma naturale, sembrano umanoidi snelli e fragili, con tratti facciali non del tutto formati e carnagione pallida.
 
 Preferiscono infiltrarsi in società complesse per accumulare ricchezza e potere, usando la loro abilità mimetica per tendere imboscate e trappole. Sebbene non siano necessariamente malvagi, sono egoisti e vedono gli altri come giocattoli da manipolare.
@@ -24542,7 +24373,6 @@ Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è 
 > Oh maledetti possa Lynx chiudervi tutti i portali |
 
 | Oh assassini possa Sumkjir sterminarvi |
-| --- |
 | Oh devastatori possa Nedraf rompervi le ossa! |
 
 (imprecazioni popolari contro i Draghi)
@@ -24597,14 +24427,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova Consapevolezza.
 
-**Ecologia**
-
-| Ambiente: Montagne Fredde |
+| **Ecologia** |
 | --- |
+| Ambiente: Montagne Fredde |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 
-**Categoria Tesoro**: H
-**Descrizione**
 I Draghi Bianchi sono tra i più selvaggi e animali di tutti i draghi.
 Amano i posti freddi e ghiacciati, trovando rifugio nelle valli più fredde come i picchi ghiacciati delle montagne e le steppe gelide.
 
@@ -24618,15 +24447,12 @@ Poco inclini alla magia sanno però soffiare schegge di ghiaccio molto più freq
 Le loro tane sono caverne ghiacciate nelle montagne o scavate nei ghiacciai più massicci.
 
 | I Draghi Bianchi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista dell'Acqua ed è immune al freddo. |
+| **Incantesimi** |
 | --- |
-
-**Incantesimi**
-
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Scudo di Fuoco |
+| - Tempesta di Ghiaccio |
 
-- Scudo di Fuoco
-- Tempesta di Ghiaccio
 - Tempesta di Nevischio
 
 ## Drago Bianco Adulto
@@ -24679,25 +24505,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Montagne Fredde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: E
-**Descrizione**
-
+| **Categoria Tesoro**: E |
+| **Descrizione** |
 | Vedi descrizione Drago Bianco Antico. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Scudo di Fuoco |
+| - Tempesta di Ghiaccio |
 
-- Scudo di Fuoco
-- Tempesta di Ghiaccio
 - Tempesta di Nevischio
 
 ## Drago Bianco Giovane
@@ -24726,25 +24545,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 9 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 18 e subire 45 (10d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Montagne Fredde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: D
-**Descrizione**
-
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 | Vedi descrizione Drago Bianco Antico. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Scudo di Fuoco |
+| - Tempesta di Ghiaccio |
 
-- Scudo di Fuoco
-- Tempesta di Ghiaccio
 - Tempesta di Nevischio
 
 ## Drago Bianco Cucciolo
@@ -24765,14 +24577,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 15 e subire 22 (5d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Ecologia**
-
-| Ambiente: Montagne Fredde |
+| **Ecologia** |
 | --- |
+| Ambiente: Montagne Fredde |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Vedi descrizione Drago Bianco Antico.
 
 ## Drago Blu Antico
@@ -24820,15 +24631,14 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Attacco di Coda.** Il drago effettua un attacco di coda.
 
-**Individuare.** Il drago effettua una prova di Consapevolezza.
-**Ecologia**
-
-| Ambiente: Picchi montuosi |
+| **Individuare.** Il drago effettua una prova di Consapevolezza. |
 | --- |
+| **Ecologia** |
+| Ambiente: Picchi montuosi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 
-**Categoria Tesoro**: H
-**Descrizione**
 I Draghi Blu abitano tra le nuvole, volando (e levitando) tra le tempeste.
 
 I Draghi Blu hanno un aspetto serpentiforme, allungato ed legante, con corna lunghe all'indietro.
@@ -24848,15 +24658,12 @@ Solitamente non si trova mai un nido da solo, ma interi altopiani dominati da de
 Non vanno d'accordo con i draghi viola che disprezzano per la scelta di aver rinunciato al volo per vivere sottoterra.
 
 | I Draghi Blu hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista dell'Aria ed è immune all'elettricità. |
+| **Incantesimi** |
 | --- |
-
-**Incantesimi**
-
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Nebbia mortale |
+| - Invocare il Fulmine |
 
-- Nebbia mortale
-- Invocare il Fulmine
 - Tempesta di Ghiaccio
 
 ## Drago Blu Adulto
@@ -24909,25 +24716,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Picchi montuosi |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: E
-**Descrizione**
-
+| **Categoria Tesoro**: E |
+| **Descrizione** |
 | Vedi Descrizione Drago Blu Antico. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Nebbia mortale |
+| - Invocare il Fulmine |
 
-- Nebbia mortale
-- Invocare il Fulmine
 - Tempesta di Ghiaccio
 
 ## Drago Blu Giovane
@@ -24956,25 +24756,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** il Drago Blu Giovane ricarica il suo soffio fulminante.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Picchi montuosi |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: D
-**Descrizione**
-
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 | Vedi Descrizione Drago Blu Antico. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Nebbia mortale |
+| - Invocare il Fulmine |
 
-- Nebbia mortale
-- Invocare il Fulmine
 - Tempesta di Ghiaccio
 
 ## Drago Blu Cucciolo
@@ -24995,14 +24788,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Soffio Fulminante (Ricarica 5-6).*** Il drago esala fulmini in una linea lunga 9 metri e larga 1 metro. Ogni creatura su quella linea deve effettuare un Tiro Salvezza di Riflessi DC 14 e subire 22 (4d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Ecologia**
-
-| Ambiente: Picchi montuosi |
+| **Ecologia** |
 | --- |
+| Ambiente: Picchi montuosi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Vedi Descrizione Drago Blu Antico.
 
 ## Drago Giallo Antico
@@ -25019,33 +24811,30 @@ Vedi Descrizione Drago Blu Antico.
 
 ***Calore rovente.*** il drago emette nel raggio di 3 metri calore magico che causa 2d6 danni da fuoco a round.
 
-***Resistenza Leggendaria (3/Giorno).*** Se il drago fallisce un Tiro Salvezza, può scegliere invece di riuscire.
-***Resistenza alla Magia:*** 3lv
-**Azioni*Multiattacco.*** Il drago può usare la sua Presenza Spaventosa e poi effettuare tre attacchi: uno con il morso e due con gli artigli.
-***Artiglio.** Attacco con arma da mischia*: +16 al colpire, portata 3 m, un bersaglio.
-*Colpisce:* 16 (2d6 + 9) danni taglienti, 3/20 danno da Sanguinamento.
-***Coda.** Attacco con arma da mischia*: +16 al colpire, portata 6 m, un bersaglio.
-*Colpisce:* 18 (2d8 + 9) danni contundenti.
-***Morso.** Attacco con arma da mischia*: +16 al colpire, portata 5 metri, un bersaglio.
-*Colpisce:* 20 (2d10 + 9) danni perforanti più 11 (2d10) danni da elettricità.
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
-***Soffio Incendiario (Ricarica 5-6).*** Il drago esala aria rovente in una linea lunga 36 metri e larga 3 metri. Ogni creatura su quella linea deve effettuare un Tiro Salvezza su Riflessi DC 35 e subire 88 (16d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
-**Azioni Aggiuntive**
-
+| ***Resistenza Leggendaria (3/Giorno).*** Se il drago fallisce un Tiro Salvezza, può scegliere invece di riuscire. |
+| --- |
+| ***Resistenza alla Magia:*** 3lv |
+| **Azioni** |
+| ***Multiattacco.*** Il drago può usare la sua Presenza Spaventosa e poi effettuare tre attacchi: uno con il morso e due con gli artigli. |
+| ***Artiglio.** Attacco con arma da mischia*: +16 al colpire, portata 3 m, un bersaglio. |
+| *Colpisce:* 16 (2d6 + 9) danni taglienti, 3/20 danno da Sanguinamento. |
+| ***Coda.** Attacco con arma da mischia*: +16 al colpire, portata 6 m, un bersaglio. |
+| *Colpisce:* 18 (2d8 + 9) danni contundenti. |
+| ***Morso.** Attacco con arma da mischia*: +16 al colpire, portata 5 metri, un bersaglio. |
+| *Colpisce:* 20 (2d10 + 9) danni perforanti più 11 (2d10) danni da elettricità. |
+| ***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore. |
+| ***Soffio Incendiario (Ricarica 5-6).*** Il drago esala aria rovente in una linea lunga 36 metri e larga 3 metri. Ogni creatura su quella linea deve effettuare un Tiro Salvezza su Riflessi DC 35 e subire 88 (16d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. |
+| **Azioni Aggiuntive** |
 | Il drago può effettuare 3 azioni aggiuntive, scelte tra le opzioni seguenti. Può usare solo un'Azione Aggiuntiva alla volta e solo al termine del round di un'altra creatura. Il drago recupera le Azioni Aggiuntive spese all'inizio del proprio round. |
-| --- |
-
-**Attacco di Ala (Costa 2 Azioni).** Il drago batte le ali. Ogni creatura entro 5 metri dal drago deve riuscire un Tiro Salvezza su Riflessi DC 35 o subire 16 (2d6 + 9) danni contundenti e venir gettato prono. Il drago può poi volare fino a metà della sua velocità di volo.
-**Attacco di Coda.** Il drago effettua un attacco di coda.
-**Individuare.** Il drago effettua una prova di Consapevolezza.
-**Ecologia**
-
+| **Attacco di Ala (Costa 2 Azioni).** Il drago batte le ali. Ogni creatura entro 5 metri dal drago deve riuscire un Tiro Salvezza su Riflessi DC 35 o subire 16 (2d6 + 9) danni contundenti e venir gettato prono. Il drago può poi volare fino a metà della sua velocità di volo. |
+| **Attacco di Coda.** Il drago effettua un attacco di coda. |
+| **Individuare.** Il drago effettua una prova di Consapevolezza. |
+| **Ecologia** |
 | Ambiente: Deserti Caldi |
-| --- |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 
-**Categoria Tesoro**: H
-**Descrizione**
 I Draghi Gialli hanno scaglie di vari toni di giallo che con la crescita prendono ad assomigliare sempre di più al colore delle sabbie dove dimorano, dal giallo chiaro all'ocra mattone.
 
 Sono molto intelligenti ma essendo per natura solitari non hanno interesse a comunicare con le altre razze.
@@ -25057,15 +24846,12 @@ Hanno una passione per la carne dei nani che trovano saporita anche se asciutta.
 Il Drago Giallo pur se intelligente è una macchina di morte e difficilmente scende a patti, solo se si trova in serio pericolo.
 
 | Un Drago Giallo hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco. |
+| **Incantesimi** |
 | --- |
-
-**Incantesimi**
-
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Creare Cibo e Acqua |
+| - Muro di Fuoco |
 
-- Creare Cibo e Acqua
-- Muro di Fuoco
 - Scudo di Fuoco
 
 ## Drago Nero Antico
@@ -25116,14 +24902,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
-**Ecologia**
-
-| Ambiente: Paludi Calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Paludi Calde |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 
-**Categoria Tesoro**: D
-**Descrizione**
 I Draghi Neri sono violenti ed aggressivi, vivono in paludi e acquitrini e che generalmente governano come padroni indiscussi.
 
 I Draghi Neri sono creature minacciose che hanno grandi corna curve in avanti.
@@ -25145,15 +24930,12 @@ L'ambiente dove vive un drago nero ne subisce i suoi effetti, vapori acidi, dist
 Il Drago Nero rappresentano i Tratti dell'egoismo e violenza odiando ogni forma di vita, compreso gli stessi draghi neri.
 
 | I Draghi neri hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista di Necromanzia ed è immune all'acido. |
+| **Incantesimi** |
 | --- |
-
-**Incantesimi**
-
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Animare Morti |
+| - Creare Non Morti |
 
-- Animare Morti
-- Creare Non Morti
 - Scagliare Maledizione
 
 Ebbene si, il Drago Nero è l'unica creatura sulla Terra che può portare in vita un morto a discapito di tutti i vincoli imposti dai Patroni.
@@ -25210,25 +24992,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Paludi Calde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: D
-**Descrizione**
-
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 | Vedi Descrizione Drago Nero Antico. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Animare Morti |
+| - Creare Non Morti |
 
-- Animare Morti
-- Creare Non Morti
 - Scagliare Maledizione
 
 ## Drago Nero Giovane
@@ -25259,25 +25034,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** Il Drago Nero Giovane ricarica il soffio acido. Costa 1 Azione.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Paludi Calde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: C
-**Descrizione**
-
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 | Vedi Descrizione Drago Nero Antico. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Animare Morti |
+| - Creare Non Morti |
 
-- Animare Morti
-- Creare Non Morti
 - Scagliare Maledizione
 
 ## Drago Nero Cucciolo
@@ -25300,14 +25068,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Soffio Acido (Ricarica 5-6).*** Il drago esala acido in una linea di 5 metri larga 1 metro. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 14 e subire 22 (5d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Ecologia**
-
-| Ambiente: Paludi Calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Paludi Calde |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 
-**Categoria Tesoro**: H
-**Descrizione**
 Vedi Descrizione Drago Nero Antico.
 
 ## Drago Porpora Antico
@@ -25358,14 +25125,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
-**Ecologia**
-
-| Ambiente: Caverne |
+| **Ecologia** |
 | --- |
+| Ambiente: Caverne |
 | Organizzazione: Solitario, creature sotterranee |
+| **Categoria Tesoro**: E |
+| **Descrizione** |
 
-**Categoria Tesoro**: E
-**Descrizione**
 I Draghi Porpora vivono sotto terra e si sono perfettamente adattati alla vita sotterranea.
 Capaci di vedere al buio come se fosse pieno giorno, dotati di Senso Tellurico, hanno perso la capacità di volare ma acquisito quella di scavare con la stessa velocità come se corressero.
 
@@ -25378,15 +25144,12 @@ Dall'aspetto tozzo hanno denti fini e lunghi ed artigli enormi che continuamente
 E' forte e coraggioso, arrogante ma non sfrontato. Non ha paura di combattere se pensa di vincere. Porta sempre la battaglia sottoterra dove può creare fosse per fare precipitare i nemici o scappare se necessario.
 
 | Un Drago Porpora ha +1d6 nelle prove di magia e può ignorare un dado tirato nella prova con la Lista della Terra, è immune al danno ed effetti sonori. |
+| **Incantesimi** |
 | --- |
-
-**Incantesimi**
-
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Freccia Acida di Restser |
+| - Passare Senza Tracce |
 
-- Freccia Acida di Restser
-- Passare Senza Tracce
 - Scolpire Pietra
 
 ## Drago Rosso Antico
@@ -25437,14 +25200,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato***: Il drago rosso si scuote e ruggisce. 1 volta al giorno, la prima volta che è Arrabbiato, termina tutte le condizioni negative su di se e tutte le abilità si ricaricano. Il soffio si ricarica con 3-6.
 
-**Ecologia**
-
-| Ambiente: Montagne calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Montagne calde |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 
-**Categoria Tesoro**: H
-**Descrizione**
 Il Drago Rosso si crede il Re dei Draghi per via della sua potenza fisica e del soffio capace di sciogliere la pietra.
 
 I Draghi Rossi sono i draghi più grandi sia per corporatura che per apertura alare.
@@ -25455,15 +25217,12 @@ I Draghi Rossi prediligono le montagne calde e se possibile direttamente diretta
 Combattono sfruttando la loro mole, le ali, il morso artigli.. insomma tutto ciò che sono ed hanno a disposizione. Un Drago Rosso combatte sempre fino alla morte non si ritira ne scappa ne rinuncia ad una sfida, l'orgoglio di cui sono tronfi non gli permette di mostrarsi deboli.
 
 | Un Drago Rosso hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco. |
+| **Incantesimi** |
 | --- |
-
-**Incantesimi**
-
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Palla di Fuoco |
+| - Nube Incendiaria |
 
-- Palla di Fuoco
-- Nube Incendiaria
 - Muro di Fuoco
 
 ## Drago Rosso Adulto
@@ -25518,25 +25277,18 @@ Il drago può poi volare fino a metà del suo movimento di volo.
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Montagne calde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: C
-**Descrizione**
-
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 | Vedi Descrizione Drago Rosso Antico. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Palla di Fuoco |
+| - Nube Incendiaria |
 
-- Palla di Fuoco
-- Nube Incendiaria
 - Muro di Fuoco
 
 ## Drago Rosso Giovane
@@ -25567,24 +25319,17 @@ Il drago può poi volare fino a metà del suo movimento di volo.
 
 Costa 1 Azione.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Montagne calde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: D
-
+| **Categoria Tesoro**: D |
 | Vedi Descrizione Drago Rosso Antico. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Palla di Fuoco |
+| - Nube Incendiaria |
 
-- Palla di Fuoco
-- Nube Incendiaria
 - Muro di Fuoco
 
 ## Drago Rosso Cucciolo
@@ -25605,13 +25350,12 @@ Costa 1 Azione.
 
 ***Soffio Infuocato (Ricarica 5-6).*** Il drago esala fuoco in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 16 e subire 24 (7d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Ecologia**
-
-| Ambiente: Montagne calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Montagne calde |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: C |
 
-**Categoria Tesoro**: C
 Vedi Descrizione Drago Rosso Antico.
 
 ## Drago Verde Antico
@@ -25662,14 +25406,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
-**Ecologia**
-
-| Ambiente: Foreste Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Foreste Temperate |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 
-**Categoria Tesoro**: H
-**Descrizione**
 I Draghi verdi amano le foreste e la natura incontaminata dove si reputano i padroni e re indiscussi.
 
 I potenti draghi verdi hanno la testa tondeggiante e pronunciate orecchie all'indietro, le corna sono corte e non appuntite.
@@ -25685,15 +25428,12 @@ Un Drago verde non ama volare e preferisce saltare schiacciando con il suo peso 
 Tra i tanti draghi quello verde è forse quello che farà parlare gli avventurieri se si dimostrano rispettosi ed impauriti dalla sua regalità.
 
 | I Draghi Verdi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista di Animali e Piante ed è immune i Veleni sia a quelli magici che naturali. |
+| **Incantesimi** |
 | --- |
-
-**Incantesimi**
-
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Guscio Anti-Vita |
+| - Localizza Animali e Piante |
 
-- Guscio Anti-Vita
-- Localizza Animali e Piante
 - Rimuovi Veleno
 
 ## Drago Verde Adulto
@@ -25748,25 +25488,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Foreste Temperate |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: E
-**Descrizione**
-
+| **Categoria Tesoro**: E |
+| **Descrizione** |
 | Vedi Descrizione Drago Verde Antico. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Guscio Anti-Vita |
+| - Localizza Animali e Piante |
 
-- Guscio Anti-Vita
-- Localizza Animali e Piante
 - Rimuovi Veleno
 
 ## Drago Verde Giovane
@@ -25797,25 +25530,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** il Drago Verde Giovane ricarica il suo soffio Velenoso.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Foreste Temperate |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: D
-**Descrizione**
-
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 | Vedi Descrizione Drago Verde Antico. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Guscio Anti-Vita |
+| - Localizza Animali e Piante |
 
-- Guscio Anti-Vita
-- Localizza Animali e Piante
 - Rimuovi Veleno
 
 ## Drago Verde Cucciolo
@@ -25838,14 +25564,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Soffio Velenoso (Ricarica 5-6).*** Il drago esala gas velenosi in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 13 e subire 21 (6d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Ecologia**
-
-| Ambiente: Foreste Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Foreste Temperate |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Vedi Descrizione Drago Verde Antico.
 
 **Draghi di Ljust**
@@ -25909,25 +25634,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Montagne Temperate |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: H
-**Descrizione**
-
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 | Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Lentezza |
+| - Fabbricare |
 
-- Lentezza
-- Fabbricare
 - Sogno
 
 ## Drago di Argento Adulto
@@ -25986,25 +25704,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Montagne Temperate |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: E
-**Descrizione**
-
+| **Categoria Tesoro**: E |
+| **Descrizione** |
 | Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Lentezza |
+| - Fabbricare |
 
-- Lentezza
-- Fabbricare
 - Sogno
 
 ## Drago di Argento Giovane
@@ -26037,25 +25748,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** il giovane drago d'argento ricarica uno dei suoi soffi.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Montagne Temperate |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: D
-**Descrizione**
-
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 | Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Lentezza |
+| - Fabbricare |
 
-- Lentezza
-- Fabbricare
 - Sogno
 
 ## Drago di Argento Cucciolo
@@ -26080,14 +25784,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Soffio Paralizzante.* Il drago esala un gas paralizzante in un cono di 5 metri. Ogni creatura nell'area deve riuscire un Tiro Salvezza su Tempra 14 o restare paralizzata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto per sé in caso di successo.
 
-**Ecologia**
-
-| Ambiente: Montagne Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Montagne Temperate |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.
 
 ## Drago di Bronzo Antico
@@ -26146,24 +25849,17 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Zone Costiere Temperate |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: H
-**Descrizione**
-
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 | I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Globo di Invulnerabilità |
 
-- Globo di Invulnerabilità
 - Libertà di Movimento
 
 ## Drago di Bronzo Adulto
@@ -26224,24 +25920,17 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Zone Costiere Temperate |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: E
-**Descrizione**
-
+| **Categoria Tesoro**: E |
+| **Descrizione** |
 | I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Globo di Invulnerabilità |
 
-- Globo di Invulnerabilità
 - Libertà di Movimento
 
 ## Drago di Bronzo Giovane
@@ -26276,24 +25965,17 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** il Drago di Bronzo Giovane ricarica uno dei suoi soffi.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Zone Costiere Temperate |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: D
-**Descrizione**
-
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 | I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Globo di Invulnerabilità |
 
-- Globo di Invulnerabilità
 - Libertà di Movimento
 
 ## Drago di Bronzo Cucciolo
@@ -26321,14 +26003,13 @@ portata 1 m, un bersaglio.
 
 *Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 16, altrimenti viene allontana di 9 metri dal drago.
 
-**Ecologia**
-
-| Ambiente: Zone Costiere Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Zone Costiere Temperate |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate.
 
 ## Drago d'Oro Antico
@@ -26387,25 +26068,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Pianure calde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: H
-**Descrizione**
-
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 | I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Guarigione |
+| - Ristorare Superiore |
 
-- Guarigione
-- Ristorare Superiore
 - Tentacoli Neri
 
 ## Drago d'Oro Adulto
@@ -26468,25 +26142,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Pianure calde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: E
-**Descrizione**
-
+| **Categoria Tesoro**: E |
+| **Descrizione** |
 | I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Guarigione |
+| - Ristorare Superiore |
 
-- Guarigione
-- Ristorare Superiore
 - Tentacoli Neri
 
 ## Drago d'Oro Giovane
@@ -26521,25 +26188,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** il giovane drago d'oro ricarica uno dei suoi soffi. Costa 1 Azione.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Pianure calde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: D
-**Descrizione**
-
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 | I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Guarigione |
+| - Ristorare Superiore |
 
-- Guarigione
-- Ristorare Superiore
 - Tentacoli Neri
 
 ## Drago d'Oro Cucciolo
@@ -26566,14 +26226,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Soffio Indebolente.* Il drago esala del gas in un cono di 5 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 15 o avere -1d6 ai tiri di attacco basati sulla Forza, prove di Forza, e Tiri Salvezza su Tempra per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
-**Ecologia**
-
-| Ambiente: Pianure calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Pianure calde |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto.
 
 ## Drago di Ottone Antico
@@ -26630,25 +26289,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Deserti Caldi |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: H
-**Descrizione**
-
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 | Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Visione del Vero |
+| - Conoscenza delle Leggende |
 
-- Visione del Vero
-- Conoscenza delle Leggende
 - Scrutare
 
 ## Drago d'Ottone Adulto
@@ -26703,25 +26355,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Deserti Caldi |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: E
-**Descrizione**
-
+| **Categoria Tesoro**: E |
+| **Descrizione** |
 | Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Visione del Vero |
+| - Conoscenza delle Leggende |
 
-- Visione del Vero
-- Conoscenza delle Leggende
 - Scrutare
 
 ## Drago d'Ottone Giovane
@@ -26752,25 +26397,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Soffio Soporifero.* Il drago esala del gas soporifero in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra 18 o cadere svenuta per 5 minuti. Questo effetto termina se la creatura svenuta subisce danni o qualcuno impiega un'Azione per risvegliarla.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Deserti Caldi |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: D
-**Descrizione**
-
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 | Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Visione del Vero |
+| - Conoscenza delle Leggende |
 
-- Visione del Vero
-- Conoscenza delle Leggende
 - Scrutare
 
 ## Drago di Ottone Cucciolo
@@ -26795,14 +26433,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Soffio Soporifero.* Il drago esala del gas soporifero in un cono di 5 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra 12 o cadere svenuta per 1 minuto. Questo effetto termina se la creatura svenuta subisce danni o qualcuno impiega un'Azione per risvegliarla.
 
-**Ecologia**
-
-| Ambiente: Deserti Caldi |
+| **Ecologia** |
 | --- |
+| Ambiente: Deserti Caldi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti.
 
 ## Drago di Rame Antico
@@ -26861,25 +26498,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Colline Calde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: H
-**Descrizione**
-
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 | Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Barriera di Lame |
+| - Muro di Forza |
 
-- Barriera di Lame
-- Muro di Forza
 - Scudo di Fuoco
 
 ## Drago di Rame Adulto
@@ -26934,25 +26564,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Colline Calde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: E
-**Descrizione**
-
+| **Categoria Tesoro**: E |
+| **Descrizione** |
 | Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Barriera di Lame |
+| - Muro di Forza |
 
-- Barriera di Lame
-- Muro di Forza
 - Scudo di Fuoco
 
 ## Drago di Rame Giovane
@@ -26985,25 +26608,18 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** il Drago di Rame Giovane ricarica uno dei due soffi. Costo 1 Azione.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Colline Calde |
-| --- |
 | Organizzazione: Solitario |
-
-**Categoria Tesoro**: D
-**Descrizione**
-
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 | Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici. |
-| --- |
-
-**Incantesimi**
-
+| **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
-| --- |
+| - Barriera di Lame |
+| - Muro di Forza |
 
-- Barriera di Lame
-- Muro di Forza
 - Scudo di Fuoco
 
 ## Drago di Rame Cucciolo
@@ -27028,14 +26644,13 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 *Soffio Rallentante.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 12. Se fallisce il Tiro Salvezza, la creatura ha una Azione in meno a round ed ha la velocità dimezzata. Questi effetti permangono 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
-**Ecologia**
-
-| Ambiente: Colline Calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline Calde |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrare i suoi nemici.
 
 > Il gran dragone, il serpente antico, che è chiamato diavolo e Satana, il seduttore di tutto il mondo, fu gettato giù; fu gettato sulla terra, e con lui furono gettati anche i suoi angeli." Giovanni, Apocalisse 12:9
@@ -27101,14 +26716,13 @@ Il Tàhil può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed u
 
 **Testa Gialla.**: Costa 2 azioni Aggiuntive, Tàhil soffia sabbia rovente in un cono di 60 metri. Tiro Salvezza su Riflessi DC 40 o prendere 72 (16d8) di danno da Fuoco oppure dimezzare.
 
-**Ecologia**
-
-| Ambiente: Sconosciuto |
+| **Ecologia** |
 | --- |
+| Ambiente: Sconosciuto |
 | Organizzazione: Unico |
+| **Categoria Tesoro**: 6 H |
+| **Descrizione** |
 
-**Categoria Tesoro**: 6 H
-**Descrizione**
 Tàhil è il Patrono dei Draghi incarnato. Nulla resiste alla sua furia, follia, rabbia e distruzione. Tàhil è una mastodontica creatura con 7 teste di drago, ognuna colorata in modo diverso, ognuna a rappresentare un colore di un Drago. Vedi capitolo sulla Cosmologia per i dettagli della sua storia.
 
 ## Drider
@@ -27152,17 +26766,13 @@ A volontà: *luci danzanti*
 
 ***Arrabbiato:*** il Drider raccoglie la saliva velenosa e la sputa sulle sue armi. Fino alla fine del combattimento l'attacco di Spada Lunga causa anche 1d8 di danni da veleno. Costa 1 Azione.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Qualsiasi sotterraneo |
-| --- |
 | Organizzazione: Solitario, coppia o gruppo (3-8) |
-
-**Categoria Tesoro**: Mazza flangiata Perfetta, Arco Lungo Composito Perfetto [Forza +2] con 20 Frecce, Y
-**Descrizione**
-
+| **Categoria Tesoro**: Mazza flangiata Perfetta, Arco Lungo Composito Perfetto [Forza +2] con 20 Frecce, Y |
+| **Descrizione** |
 | Creato dal corpo di un elfo, alterato e mutato attraverso speciali veleni ed elisir per assumere le caratteristiche di un ragno gigante, il drider è una creatura pericolosa. |
-| --- |
 
 I drider sono sessualmente dimorfici. La parte inferiore da ragno del corpo di un drider femmina è lucente ed aggraziata, spesso simile al corpo di una vedova nera, mentre il busto superiore di elfo mantiene le sue curve allettanti e il bel viso (con l'eccezione delle venefiche zanne acuminate). La parte inferiore del corpo di un drider maschio è tozza come una tarantola, mentre quella superiore ha un fisico asciutto e supporta un'orrenda faccia più da ragno che da elfo, completa di mandibole zannute.
 
@@ -27205,14 +26815,13 @@ Se il Tiro Salvezza del bersaglio riesce, il bersaglio sarà immune al Fascino F
 
 La driade non può tenere affascinati più di un umanoide o tre bestie alla volta.
 
-**Ecologia**
-
-| Ambiente: Foreste Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Foreste Temperate |
 | Organizzazione: Solitario, coppia o boschetto (3-8) |
+| **Categoria Tesoro**: Arco Lungo Perfetto con 20 Frecce, Pugnale,D |
+| **Descrizione** |
 
-**Categoria Tesoro**: Arco Lungo Perfetto con 20 Frecce, Pugnale,D
-**Descrizione**
 Le driadi sono spiriti della natura che amano i boschi appartati lontani dagli umanoidi bisognosi di legname. L'interesse principale delle driadi è la propria sopravvivenza e quella delle adorate foreste e sono note per costringere magicamente i viaggiatori ad aiutarle in quei compiti che non possono espletare.
 Sono amichevoli con druidi e guardiaboschi non malvagi, dato che riconoscono la loro empatia o il loro rispetto per la natura.
 Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di natura, possono bloccare e sventare le minacce alle loro dimore o trasformare i nemici in alleati.
@@ -27228,19 +26837,22 @@ Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di 
 - **Immunità**: afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Aquan
-- **Sfida**: GS
-***Congelamento.*** Se l'elementale subisce danno da freddo, gela parzialmente; il suo movimento è ridotto di 6 metri fino al termine del suo prossimo round.
-***Forma d'Acqua.*** L'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 3 centimetri senza doversi stringere.
-***Natura Elementale.*** Un elementale non ha bisogno di aria,cibo, bevande o sonno.
-**Azioni*Multiattacco.*** L'elementale effettua due attacchi di schianto.
-***Schianto.** Attacco con arma da mischia*: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio.
-*Colpisce:* GS*1d8 danni contundenti.
+
+| - **Sfida**: GS |
+| --- |
+| ***Congelamento.*** Se l'elementale subisce danno da freddo, gela parzialmente; il suo movimento è ridotto di 6 metri fino al termine del suo prossimo round. |
+| ***Forma d'Acqua.*** L'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 3 centimetri senza doversi stringere. |
+| ***Natura Elementale.*** Un elementale non ha bisogno di aria,cibo, bevande o sonno. |
+| **Azioni** |
+| ***Multiattacco.*** L'elementale effettua due attacchi di schianto. |
+| ***Schianto.** Attacco con arma da mischia*: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio. |
+| *Colpisce:* GS*1d8 danni contundenti. |
+
 **Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
 
-***Sommergere (Ricarica 4-6).*** Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC 10+GS+GS/5. Se lo fallisce, il bersaglio subisce (1d8+1)*GS/2 danni contundenti. Se è di taglia GS/3 >=4, il bersaglio è anche afferrato (DC CR*2 per fuggire). Fino al termine dell'afferrare, il bersaglio non può respirare a meno che non sia in grado di respirare acqua. Se il Tiro Salvezza riesce, il bersaglio viene spinto fuori dallo spazio dell'elementale.
-
-| L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure. All'inizio di ciascun round dell'elementale, ogni bersaglio afferrato subisce (1d6)*GS/2 danni contundenti. Una creatura entro 3 metri dall'elementale può trascinare fuori da esso una creatura o oggetto, impiegando un'Azione per tentare di riuscire una prova di Tiro Salvezza Tempra con Forza DC 2+GS*2. |
+| ***Sommergere (Ricarica 4-6).*** Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC 10+GS+GS/5. Se lo fallisce, il bersaglio subisce (1d8+1)*GS/2 danni contundenti. Se è di taglia GS/3 >=4, il bersaglio è anche afferrato (DC CR*2 per fuggire). Fino al termine dell'afferrare, il bersaglio non può respirare a meno che non sia in grado di respirare acqua. Se il Tiro Salvezza riesce, il bersaglio viene spinto fuori dallo spazio dell'elementale. |
 | --- |
+| L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure. All'inizio di ciascun round dell'elementale, ogni bersaglio afferrato subisce (1d6)*GS/2 danni contundenti. Una creatura entro 3 metri dall'elementale può trascinare fuori da esso una creatura o oggetto, impiegando un'Azione per tentare di riuscire una prova di Tiro Salvezza Tempra con Forza DC 2+GS*2. |
 
 ## Elementale dell'Aria Generico
 - **Taglia/Tipo**: GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale)
@@ -27253,12 +26865,16 @@ Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di 
 - **Immunità**: afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Ictun
-- **Sfida**: GS
-***Forma d'Aria.*** L'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 3 centimetri senza doversi stringere.
-***Natura Elementale.*** Un elementale non ha bisogno di aria, cibo, bevande o sonno.
-**Azioni*Multiattacco.*** L'elementale effettua due attacchi di schianto.
-***Schianto.** Attacco con arma da mischia*: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio.
-*Colpisce:* 1d6*GS/3 danni contundenti.
+
+| - **Sfida**: GS |
+| --- |
+| ***Forma d'Aria.*** L'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 3 centimetri senza doversi stringere. |
+| ***Natura Elementale.*** Un elementale non ha bisogno di aria, cibo, bevande o sonno. |
+| **Azioni** |
+| ***Multiattacco.*** L'elementale effettua due attacchi di schianto. |
+| ***Schianto.** Attacco con arma da mischia*: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio. |
+| *Colpisce:* 1d6*GS/3 danni contundenti. |
+
 **Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
 
 ***Turbine (Ricarica 4-6).*** Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC 10+GS*1.5. Se lo fallisce, il bersaglio subisce 1d8*GS/3 danni contundenti e viene scagliato a GS metri di distanza dall'elementale in una direzione casuale e cadere prono. Se un bersaglio lanciato colpisce un oggetto, come un muro o il pavimento, subisce 3 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza di Riflessi DC 13 o subire lo stesso danno e cadere prona.
@@ -27275,13 +26891,20 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 - **Immunità**: afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Ignan
-- **Sfida**: GS
-***Forma di Fuoco.*** L'elementale può spostarsi attraverso uno spazio fino a 3 centimetri di larghezza senza stringersi. Una creatura che entri a contatto o colpisca l'elementale con un attacco da mischia mentre si trova entro 1 metro da esso subisce 5 (1d10) danni da fuoco. Inoltre, l'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. La prima volta che entra nello spazio di una creatura in un round, la creatura subisce GS danni da fuoco e prende fuoco; finché qualcuno non impiega un'Azione per spegnere le fiamme, la creatura subirà GS danni da fuoco all'inizio di ciascun proprio round.
-***Illuminazione.*** L'elementale emette luce intensa in un raggio di GS*2 metri e luce fioca per GS*4 metri.
-***Natura Elementale.*** Un elementale non ha bisogno di aria, cibo, bevande o sonno.
+
+| - **Sfida**: GS |
+| --- |
+| ***Forma di Fuoco.*** L'elementale può spostarsi attraverso uno spazio fino a 3 centimetri di larghezza senza stringersi. Una creatura che entri a contatto o colpisca l'elementale con un attacco da mischia mentre si trova entro 1 metro da esso subisce 5 (1d10) danni da fuoco. Inoltre, l'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. La prima volta che entra nello spazio di una creatura in un round, la creatura subisce GS danni da fuoco e prende fuoco; finché qualcuno non impiega un'Azione per spegnere le fiamme, la creatura subirà GS danni da fuoco all'inizio di ciascun proprio round. |
+| ***Illuminazione.*** L'elementale emette luce intensa in un raggio di GS*2 metri e luce fioca per GS*4 metri. |
+| ***Natura Elementale.*** Un elementale non ha bisogno di aria, cibo, bevande o sonno. |
+
 ***Suscettibilità all'Acqua.*** L'elementale subisce 1 danno da freddo per ogni 1 metro che si muove in acqua o per ogni 4 litri d'acqua che gli vengono spruzzati addosso.
-**Azioni*Multiattacco.*** L'elementale effettua due attacchi di contatto.
-***Schianto.** Attacco con arma da mischia*: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio.
+
+| **Azioni** |
+| --- |
+| ***Multiattacco.*** L'elementale effettua due attacchi di contatto. |
+| ***Schianto.** Attacco con arma da mischia*: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio. |
+
 *Colpisce:* GS*2 danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, prende fuoco. Finché una creatura non impiega un'Azione per spegnere le fiamme, la creatura subirà CR danni da fuoco all'inizio di ciascun proprio round.
 
 **Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
@@ -27297,12 +26920,16 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 - **Immunità**: afferrato, intralciato, paralizzato, pietrificato, privo di sensi, prono, affaticato
 - **Sensi**: percezione tellurica 18 m, Scurovisione 18 m
 - **Linguaggi**: Tremun
-- **Sfida**: GS
-***Mostro d'Assedio.*** L'elementale infligge danni doppi agli oggetti e le strutture.
-***Natura Elementale.*** Un elementale non ha bisogno di aria, cibo, bevande o sonno.
-***Planata Terrestre.*** L'elementale può scavare attraversa la terra e la pietra non magiche e non lavorate. Quando lo fa, l'elementale non disturba il materiale che sposta.
-**Azioni*Multiattacco.*** L'elementale effettua due attacchi di schianto.
-***Schianto.** Attacco con arma da mischia*: +GS a colpire, portata GS/6 metri, un bersaglio.
+
+| - **Sfida**: GS |
+| --- |
+| ***Mostro d'Assedio.*** L'elementale infligge danni doppi agli oggetti e le strutture. |
+| ***Natura Elementale.*** Un elementale non ha bisogno di aria, cibo, bevande o sonno. |
+| ***Planata Terrestre.*** L'elementale può scavare attraversa la terra e la pietra non magiche e non lavorate. Quando lo fa, l'elementale non disturba il materiale che sposta. |
+| **Azioni** |
+| ***Multiattacco.*** L'elementale effettua due attacchi di schianto. |
+| ***Schianto.** Attacco con arma da mischia*: +GS a colpire, portata GS/6 metri, un bersaglio. |
+
 *Colpisce:* GS*3 danni contundenti.
 
 **Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
@@ -27337,17 +26964,13 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 *Colpisce:* La creatura è intralciata dalla ragnatela. Con un'Azione, la creatura intralciata può effettuare un Tiro Salvezza Tempra con Forza DC 11, liberandosi dalla tela se la riesce. L'effetto termina se la tela è distrutta. La tela ha Difesa 10, 5 Punti Ferita, vulnerabilità ai danni da fuoco, e immunità ai danni contundenti e da veleno.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Foreste Temperate |
-| --- |
 | Organizzazione: solitario, coppia o nido (3-6 più 2-8 ragni giganti) |
-
-**Categoria Tesoro**: C
-**Descrizione**
-
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 | Gli ettercap sono umanoidi alti di solito 1,8 metri e pesano circa 100 kg, con braccia allungate fino a terra ed un orrendo volto con elementi ragneschi. Sono solitari e raramente si uniscono ad altri della loro razza, tranne per l'accoppiamento. Quando fanno gruppo, tendono ad attrarre varie specie di ragni, formando uno strano connubio di ettercap e aracnidi. |
-| --- |
 | Gli ettercap sono noti per la costruzione di astute trappole fatte di ragnatele e altri materiali naturali, che usano per catturare prede. Costruiscono rifugi di ragnatela, tra i rami più alti gli alberi lontano dagli altri predatori terrestri, e usano ragni mostruosi come vedette e guardiani. |
 
 Gli ettercap non sono coraggiosi, ma le loro trappole spesso impediscono al nemico di estrarre le armi. Un ettercap attacca con artigli e morsi velenosi. In genere evita la mischia con gli avversari che possono ancora muoversi e fugge se si liberano.
@@ -27377,17 +27000,13 @@ Gli ettercap non sono coraggiosi, ma le loro trappole spesso impediscono al nemi
 
 *Colpisce:* 14 (2d8 + 5) danni perforanti.
 
-**Ecologia**
-
+| **Ecologia** |
+| --- |
 | Ambiente: Colline fredde |
-| --- |
 | Organizzazione: Solitario, coppia, gruppo (3-6), truppa (1-2 più 1-2 Orsi Bruni, banda (3-6 più 1-2 Orsi Bruni) o colonia (3-6 più 1-2 Orsi Bruni e 7-12 Orchi, o 9-16 Goblin) |
-
-**Categoria Tesoro**: Armatura di Cuoio, 2 Mazzafrusti Leggeri, 4 Giavellotti, P
-**Descrizione**
-
+| **Categoria Tesoro**: Armatura di Cuoio, 2 Mazzafrusti Leggeri, 4 Giavellotti, P |
+| **Descrizione** |
 | Gli ettin, o giganti a due teste, sono cacciatori notturni malevoli e imprevedibili. Le due teste gli concedono impareggiabili poteri di percezione, facendone dei guardiani eccellenti. |
-| --- |
 | Gli ettin sembrano Giganti di Collina o Giganti di Pietra, ma il volto zannuto tradisce una discendenza orchesca. Hanno pelle marrone rosata e non si lavano mai se non vi sono costretti, cosa che li rende così sporchi e sudici che la loro pelle sembra spessa e grigia. |
 | Gli adulti sono alti 3,9 metri e pesano 2.600 kg. Gli ettin vivono circa 75 anni. |
 | Gli ettin non hanno un loro linguaggio ma parlano un gergo misto di Gigante, Goblin e Orchesco. Le creature che parlano uno qualsiasi di questi linguaggi possono comunicare con un ettin effettuando una prova di Intelligenza con DC 15. La prova si effettua una volta per ogni frammento di informazione; se l'altra creatura parla due di questi linguaggi la DC è 10, mentre per qualcuno che li parla tutti e tre è 5. |
@@ -27423,18 +27042,18 @@ In genere formano delle coppie riproduttive per allevare la prole solo per brevi
 
 ***Possessione (Ricarica 6).*** Un umanoide, entro 1 metro e visibile al fantasma, deve riuscire un Tiro Salvezza di Volontà DC 15 o venire posseduto dal fantasma; il fantasma poi scompare, e il bersaglio è inabile e perde il controllo del suo corpo. Il fantasma ora controlla il corpo ma non priva il bersaglio della sua consapevolezza. Il fantasma non può essere bersaglio di attacchi, incantesimi, o altri effetti, eccetto quelli che scacciano i non morti, e mantiene i suoi Tratti, Intelligenza, Saggezza, Carisma e immunità all'essere affascinato e spaventato. Per il resto usa altrimenti le statistiche del bersaglio posseduto, ma non accede al sapere e competenze del bersaglio.
 
-La possessione dura finché il corpo scende a 0 Punti Ferita, il fantasma la termina con un'Azione Immediata, o il fantasma viene scacciato o espulso da un effetto come l'incantesimo Dissolvi il Bene e il Male. Quando la possessione termina, il fantasma riappare in uno spazio non occupato entro 1 metro dal corpo. Il bersaglio è immune alla Possessione di questo fantasma per 24 ore dopo aver riuscito il Tiro Salvezza o al termine della possessione.
+La possessione dura finché il corpo scende a 0 Punti Ferita, il fantasma la termina con un'Azione Immediata, o il fantasma viene scacciato o espulso. Quando la possessione termina, il fantasma riappare in uno spazio non occupato entro 1 metro dal corpo. Il bersaglio è immune alla Possessione di questo fantasma per 24 ore dopo aver riuscito il Tiro Salvezza o al termine della possessione.
 
 ***Viso Orripilante.*** Ogni creatura che non sia non morta, entro 18 metri dal fantasma e che lo possa vedere, deve riuscire un Tiro Salvezza di Volontà DC 15 o essere spaventata per 1 minuto. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio invecchia anche di 1d4 x 10 anni. Un bersaglio spaventato può ripetere il Tiro Salvezza al termine di ciascun proprio round, terminando l'effetto per sé, qualora riuscisse il Tiro Salvezza. Se il Tiro Salvezza del bersaglio riesce e per lui l'effetto ha fine, il bersaglio è immune al Viso Orripilante del fantasma per le successive 24 ore. Tramite l'incantesimo Ristorare Superiore si può recuperare 1 anno di invecchiamento, ma solo se eseguito entro 24 dall'effetto di invecchiamento.
 
 **Ecologia**
 
 | Ambiente: qualsiasi |
-| --- |
 | Organizzazione: solitario |
+| **Categoria Tesoro**: Nessuno |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Quando ad un'anima non è concesso il riposo a causa di qualche grave ingiustizia, vera o presunta, a volte essa torna come fantasma. Questi esseri sono eternamente angosciati, privi di sostanza e incapaci di rimettere le cose a posto. Sebbene i fantasmi possano avere qualsiasi Tratto, molti si aggrappano al mondo dei viventi con un forte senso di odio e rabbia, e come risultato diventano malvagi; anche una creatura buona dopo morta può diventare un fantasma odioso e crudele.
 
 più di altri mostri, il fantasma deve avere un background ben delineato. Perché questo personaggio è diventato un fantasma? Quali leggende lo circondano? Un incontro con un fantasma non dovrebbe mai avvenire in modo accidentale: ci sono molti altri non morti incorporei, come Wraith e Spettri, per questo. Un incontro adeguato con un fantasma dovrebbe avvenire in una scena al culmine di un lungo periodo di tensione costruito con servitori minori o manifestazioni di spiriti non morti. L'esempio di fantasma sopra rappresenta una principessa umana assassinata da un amante infedele; dopo un confronto, lui la legò con delle catene e la gettò nel pozzo del castello, dove morì annegata. Le capacità del fantasma sono state selezionate in base al background, mostrando come si possa creare un potente antagonista. Applicando l'archetipo a creature con livelli e quindi Abilità proprie o con capacità razziali significative si possono creare fantasmi molto più potenti.
@@ -27467,14 +27086,13 @@ Gli oggetti originali vengono lasciati indietro, proprio come le spoglie fisiche
 
 **Reazione: *Sputo opportunistico*** la fauce, quando colpita con un danno critico sputa un globo acido alla creatura che l'ha ferita causando 2d6 di danno da acido.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi Sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi Sotterraneo |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: accidentale (O) |
+| **Descrizione** |
 
-**Categoria Tesoro**: accidentale (O)
-**Descrizione**
 Disgustosa, nauseante e affamata: queste sono le uniche parole che descrivono in modo appropriato la fauce gorgogliante. Bestie ripugnanti che si nascondono nelle grotte, nelle fogne e negli incubi, le fauci non hanno altro senso sociale, ecologico o religioso diverso dalla loro capacità di far impazzire coloro che le ascoltano. Alcuni studiosi credono che le fauci gorgoglianti siano una variante più piccola del molto più pericoloso shoggoth, mentre altri teorizzano che sia una punizione di Orudjs inflitta a coloro che l'hanno offesa.
 
 ## Fenice
@@ -27522,14 +27140,13 @@ La Fenice può trasformare le sue piume in fiamma senza usare Azioni. Queste piu
 
 ***Arrabbiato:*** solo le leggende narrano di una Fenice arrabbiata e si dice che sia intervenuto direttamente un Patrono.
 
-**Ecologia**
-
-| Ambiente: Deserti e colline calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Deserti e colline calde |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 La leggenda narra che le Fenici siano gli uccelli da compagnia di Ljust, sicuramente sono creature maestose e bellissime ed emanano una Luce simile a quella della Patrona della Genesi. Il movimento delle loro ali non produce rumore mentre la loro voce è canto. La fenice è un leggendario uccello di fuoco e luce che vive solitamente nei deserti. Sono creature molto intelligenti e sagge ed a volte usando la loro capacità di metamorfosi si recano nelle città dove aiutano chi combatte contro l'oscurità.
 
 La leggenda racconta che le fenici si generino quando un Cavaliere di Sumkjir o un Allieva della Luce compia l'estremo sacrificio.
@@ -27565,14 +27182,13 @@ La leggenda racconta che le fenici si generino quando un Cavaliere di Sumkjir o 
 
 ***Arrabbiato:*** la Fioritura Ossea raccoglie le energie della natura intorno a se avvizzendola. Recupera 50 Punti Ferita. Costa 2 Azioni.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi foresta |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi foresta |
 | Organizzazione: Solitario, gruppi (2d12) |
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 Le Fioriture Ossee sono creature morte nel fitto della foresta per i più disparati motivi. La Natura non volendo sprecare nulla anima la creatura per farne suo difensore. A prima vista una Fioritura Ossea non è diverso da un tronco coperto di licheni colorati, piccoli funghi e manto erboso tanto è uno con la natura.
 
 ## Fungo Stridente
@@ -27589,14 +27205,13 @@ Le Fioriture Ossee sono creature morte nel fitto della foresta per i più dispar
 
 **Azioni*Strillo.*** Quando una luce intensa o una creatura si trova entro 9 metri dal fungo stridente, esso emette un strillo udibile fino a 90 metri di distanza. Il fungo stridente continua a strillare finché la fonte del disturbo non si è portata fuori gittata e per altri 1d4 round successivi, ovvero finché non si è sgonfiato il cappello.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi sotterraneo |
 | Organizzazione: Solitario, coppia o macchia (3-12) |
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 Un fungo stridente è alto circa 50 cm, dall'ampio cappello marrone. Una volta emesso l'urlo il cappello si rigonfia in 1d3 minuti.
 
 Si racconta di cuochi delle profondità specializzati nel cuocere questi funghi in pietanze sopraffine. I più bravi riescono anche a non fare sgonfiare il cappello.
@@ -27619,14 +27234,13 @@ Si racconta di cuochi delle profondità specializzati nel cuocere questi funghi 
 
 *Colpisce:* 4 (1d8) danni da Vuoto.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi sotterraneo |
 | Organizzazione: Solitario, coppia o macchia (3-12) |
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 I funghi viola sono uno dei più noti e temuti pericoli delle caverne. Un viaggiatore può spesso notare i segni lasciati dal fungo viola su coloro che vivono o cacciano nei luoghi in cui questi funghi carnivori si appostano. Queste profonde e orribili cicatrici sembrano solchi scavati nella carne: i segni di un incontro ravvicinato con un fungo viola.
 
 Un fungo viola si nutre della materia organica putrefatta, ma a differenza della maggioranza dei funghi non è un consumatore passivo. I viticci di un fungo viola possono colpire con inaspettata rapidità e sono ricoperti di un veleno virulento che causa la putrefazione delle carni con nauseante velocità. Questo potente veleno, se trascurato, può far marcire rapidamente un intero braccio o una gamba, lasciandosi dietro solo ossa che presto si corroderanno anch'esse.
@@ -27668,11 +27282,11 @@ Un fungo viola è alto 1,2 metri e pesa 25 kg.
 **Ecologia**
 
 | Ambiente: Qualsiasi Palude |
-| --- |
 | Organizzazione: Solitario, coppia o sequenza (3-4) |
+| **Categoria Tesoro**: Accidentale |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 Malvagie creature che si nutrono delle forti emanazioni psichiche delle creature terrorizzate, i fuochi fatui traggono piacere nel mettere i viaggiatori creduloni in situazioni pericolose. Nelle terre selvagge, dove sono molto comuni, i fuochi fatui preferiscono tattiche semplici come posizionarsi su scogli o sabbie mobili dove possono essere scambiati facilmente per lanterne (specialmente se possono predisporre la trappola nei pressi di vere lanterne di segnalazione), così da attirare i viaggiatori verso il pericolo.
 
 I fuochi fatui possono contare solo sulla loro scossa elettrica in situazioni pericolose, quindi preferiscono lasciare che altre creature o pericoli si occupino delle loro vittime mentre loro fluttuano nelle vicinanze e banchettano.
@@ -27721,11 +27335,11 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 **Ecologia**
 
 | Ambiente: Qualsiasi Sotterraneo |
-| --- |
 | Organizzazione: Solitario, coppia o gruppo (3-6) |
+| **Categoria Tesoro**: D |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: D
-**Descrizione**
 Il fustigatore è un cacciatore da agguato. Capace di modificare la colorazione e la forma del suo corpo, un fustigatore nascosto sembra una stalagmite di pietra o ghiaccio (o in luoghi dal soffitto basso, una colonna di pietra o ghiaccio). Nelle aree prive di questi tratti per nascondersi un fustigatore può comprimere il suo corpo fino a sembrare un masso. Le sferze che può estroflettere non sono di carne ma di uno spesso materiale semiliquido simile a cera parzialmente fusa ma con la resistenza di una catena di ferro e la capacità di intirizzire la carne e indebolire le forze. Il fustigatore può usare queste sferze con grande maestria e farle volare fino a 15 metri per rubare gli oggetti che attraggono la sua attenzione.
 
 Nonostante la sua forma aliena e mostruosa, il fustigatore è uno degli abitanti più intelligenti del sottosuolo. Non formano vaste società (anche se spesso si trovano a vivere insieme ad altre creature del sottosuolo come i Divora Cervelli, con cui a volte si alleano), ma spesso si aggregano in piccoli gruppi. Particolarmente interessato alla filosofia della vita e della morte, e agli aspetti più sottili delle religioni più sinistre e crudeli del mondo, un fustigatore può parlare o discutere per ore con quelli che inizialmente aveva semplicemente cercato di mangiare. Alcune storie parlano di oratori e filosofi particolarmente dotati che sono stati tenuti per giorni o anche anni come animali domestici o compagni di conversazione da gruppi di fustigatori; alla fine, però, se non riescono a scappare, l'appetito dei fustigatori finisce per avere la meglio sulla loro curiosa intelligenza, specialmente nei casi in cui questi animali da compagnia superano costantemente l'arguzia e la pazienza dei loro guardiani.
@@ -27751,14 +27365,13 @@ Un fustigatore è alto 2,7 metri e pesa 1.100 kg.
 
 *Colpisce:* 3 (1d1 + 2) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Ovunque |
+| **Ecologia** |
 | --- |
+| Ambiente: Ovunque |
 | Organizzazione: Gruppo (8-12), banda da guerra (10-24) o tribù (50+, 1 sergente di 3° livello per 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 6-12 lupi selvatici e 1-4 Ogre o 1-2 Campione Gablin) |
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 I Gablin sono la feccia della feccia, si dice che un Gablin nasce ad ogni pensiero cattivo e sicuramente sono veramente tanti.
 I Gablin sono piccoli umanoidi dalla pelle scura, con striature verdi generati inizialmente per volontà di Cattalm con l'unico scopo di portare distruzione, morte e sofferenza.
 I Gablin si possono nascondere ovunque purché in prossimità di una fonte di cibo, solitamente prediligono le fogne oppure strutture abbandonate vicino ai villaggi.
@@ -27783,14 +27396,13 @@ Anche se singolarmente non sono particolarmente temibili i Gablin si muovono sem
 
 ***Evocare Gablin***: 3 Azioni. Il Gablin spilla il suo sangue a terra e a questo sorgono 2d4 Gablin, perde 1 Punto Ferita
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: a capo di un gruppo di Gablin |
+| **Categoria Tesoro**: Armatura di Pelle, Randello pesante, B |
+| **Descrizione** |
 
-**Categoria Tesoro**: Armatura di Pelle, Randello pesante, B
-**Descrizione**
 I Campioni Gablin vengono generati spontaneamente quando il numero di Gablin presente raggiunge le 20 unità. Enormemente più grossi, più forti ed intelligenti di un Gablin i Campioni sono i leader del gruppo, coloro che pianificano le battaglie e gli scontri.
 Non hanno remore a mandare al massacro i Gablin o ad uccidere qualsiasi cosa che respiri. Pervasi dello spirito di Cattalm il loro scopo è sempre e solo distruggere ed uccidere.
 
@@ -27816,14 +27428,13 @@ Non hanno remore a mandare al massacro i Gablin o ad uccidere qualsiasi cosa che
 
 **Aura immonda**: il Paladino Gablin emana un aura di 6 metri di raggio intorno a lui che conferisce +2 al Tiro per Colpire ed al Danno a tutti gli altri Gablin ed impone -2 al Tiro per Colpire e TS alle altre creature non Devoti o Seguaci di Cattalm.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: a capo di un armata di Gablin |
+| **Categoria Tesoro**: Armatura da campo, Spada Bastarda +1, S |
+| **Descrizione** |
 
-**Categoria Tesoro**: Armatura da campo, Spada Bastarda +1, S
-**Descrizione**
 I Paladini Gablin sono tra i più potenti gablin che si conoscano, i veri eletti di Cattalm. Evocati da più potenti seguaci di Cattalm possono da soli guidare centinaia di Gablin e grazia al loro acume preparare accurati piani e portare scompiglio e distruzione in intere regioni.
 
 ## Gargoyle
@@ -27857,11 +27468,11 @@ I Paladini Gablin sono tra i più potenti gablin che si conoscano, i veri eletti
 **Ecologia**
 
 | Ambiente: Qualsiasi |
-| --- |
 | Organizzazione: Solitario, coppia o stormo (3-12) |
+| **Categoria Tesoro**: Q |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Q
-**Descrizione**
 I gargoyle spesso sembrano essere statue alate di pietra, poiché possono rimanere immobili indefinitamente per poi sorprendere i nemici. I gargoyle tendono a comportamenti ossessivo-compulsivi, tanto diversi quanto abbondante è la loro specie. Libri, ninnoli rubati, armi e trofei raccolti dai nemici caduti sono solo alcuni esempi dei tipi di oggetti che un gargoyle può collezionare per decorare la sua tana e il suo territorio.
 
 I gargoyle tendono ad avere uno stile di vita solitario, anche se a volte formano temibili stormi detti ali per protezione e divertimento. In certe condizioni, una tribù di gargoyle può persino allearsi con altre creature, ma anche la più stabile di queste alleanze può crollare per ragioni infime; i gargoyle sono solo traditori, meschini e vendicativi.
@@ -27900,14 +27511,13 @@ Combattere senza guardare il G.E.C. impone -1d6 al Tiro per Colpire.
 
 ***Arrabbiato:*** il G.E.C. emette un ruggito cacofonico. Le creature entro 6 metri da lui devono fare un Tiro Salvezza su Volontà a DC 22 o essere affetti da Confusione per 2 round. Costa 2 Azioni.
 
-**Ecologia**
-
-| Ambiente: Sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Sotterraneo |
 | Organizzazione: solitario, gruppo (2-4) |
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 Il Grande Essere Chitinoso, o G.E.C, è un insetto dal vago aspetto umanoide di quasi 3 metri di altezza, possente e dotato di due chele fortissime e resistenti capaci di scavare e tranciare qualsiasi materiale. 4 occhi piccoli, centrali e multi faccettati emanano un fioca luminescenza cangiante che confondono le creature che incrociano il loro sguardo.
 
 Probabilmente frutto di una qualche incantesimo di trasformazione andato a male i G.E.C. sono padroni del sottosuolo. Creature dotate di una reale intelligenza amano la carne di elfo e combattono in maniera tattica ed accorta.
@@ -27948,11 +27558,11 @@ Una creatura può usare una Azione per liberare una creatura intralciata dal tur
 **Ecologia**
 
 | Ambiente: Qualsiasi (Piano dell'Aria) |
-| --- |
 | Organizzazione: Solitario, coppia, compagnia (3-6) o banda (7-10) |
+| **Categoria Tesoro**: Scimitarra Perfetta, U |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Scimitarra Perfetta, U
-**Descrizione**
 I Djinn (singolare djinni) sono Geni provenienti dal Piano Elementale dell'Aria. Si dice che siano fatti di nuvole e abbiano la forza delle tempeste più potenti. Un Djinni è alto circa 3 metri e pesa circa 500 kg.
 
 I Djinn disdegnano il Combattimento fisico, preferendo usare i loro poteri Magici e capacità aeree contro i nemici. Un Djinni sconfitto in Combattimento generalmente prende il volo e diventa un turbine per molestare chi lo insegue. Quando non ha altra scelta che combattere in mischia, la maggioranza dei Djinn preferisce impugnare Scimitarre a Due Mani Perfette.
@@ -27995,11 +27605,11 @@ A volontà: *Individuazione del Magico*
 **Ecologia**
 
 | Ambiente: Qualsiasi (Piano del Fuoco) |
-| --- |
 | Organizzazione: Solitario, coppia, compagnia (3-6) o banda (7-12) |
+| **Categoria Tesoro**: Falcione Perfetto, U |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Falcione Perfetto, U
-**Descrizione**
 Gli Efreet (singolare Efreeti) sono Geni provenienti dal Piano del Fuoco. Sono alti 3,6 metri e pesano circa 1000 kg.
 
 Gli Efreet hanno pochi alleati tra gli altri Geni: odiano i Djinni e li attaccano a vista, non sopportano i Marid e vedono i Janni come deboli e fragili. Gli Efreet spesso cooperano bene con gli Shaitan, eppure anche queste alleanze sono temporanee.
@@ -28033,14 +27643,13 @@ Gli Efreet hanno pochi alleati tra gli altri Geni: odiano i Djinni e li attaccan
 
 *Colpisce:* 14 (3d6 + 3) danni perforanti, il ghast recupera la metà del danno in Punti Ferita.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi terreno |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi terreno |
 | Organizzazione: Solitario, gruppo (2-4) o branco (7-12) |
+| **Categoria Tesoro**: B |
+| **Descrizione** |
 
-**Categoria Tesoro**: B
-**Descrizione**
 I ghast sono Ghoul con un legame più profondo con il Vuoto. La paralisi di un ghast ha effetto anche sugli Elfi. I ghast si aggirano in branchi o comandano gruppi di Ghoul comuni. Il fetore di morte e putrefazione che circonda queste creature è travolgente.
 
 ## Ghoul
@@ -28066,11 +27675,11 @@ I ghast sono Ghoul con un legame più profondo con il Vuoto. La paralisi di un g
 **Ecologia**
 
 | Ambiente: Qualsiasi terreno |
-| --- |
 | Organizzazione: Solitario, gruppo (2-4) o branco (7-12) |
+| **Categoria Tesoro**: K |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: K
-**Descrizione**
 I ghoul sono non morti che frequentano i cimiteri e mangiano i cadaveri. Le leggende sostengono che i primi ghoul fossero umani cannibali che una fame innaturale ha riportato indietro dalla morte, oppure umani che in vita si nutrivano dei resti in decomposizione dei loro simili e che morirono (e poi rinacquero) a causa di un'orrenda malattia; la vera origine di questi non morti necrofagi è incerta.
 
 I ghoul si appostano ai margini della civilizzazione (dentro o nei pressi dei cimiteri o nelle fogne cittadine) dove possono reperire ampie scorte del loro cibo preferito. Sebbene preferiscano i corpi in putrefazione e spesso seppelliscano le loro vittime per migliorarne il sapore, mangiano i morti freschi se hanno abbastanza fame.
@@ -28107,11 +27716,11 @@ Anche se molti ghoul di superficie vivono in modo primitivo, delle voci parlano 
 **Ecologia**
 
 | Ambiente: Qualsiasi terreno |
-| --- |
 | Organizzazione: Gruppo (4-8) o branco (14-24) |
+| **Categoria Tesoro**: B |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: B
-**Descrizione**
 Il Ghoul Nero rappresenta una delle elite evolutive dei Ghoul. Solitamente a capo di un gruppo almeno un ghoul putrescente di circa 18 ghoul.
 
 ## Ghoul, Madre
@@ -28138,11 +27747,11 @@ Il Ghoul Nero rappresenta una delle elite evolutive dei Ghoul. Solitamente a cap
 **Ecologia**
 
 | Ambiente: Qualsiasi terreno |
-| --- |
 | Organizzazione: Clan (7-12+) |
+| **Categoria Tesoro**: I |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: I
-**Descrizione**
 La Madre Ghoul è solitamente a capo di un clan di ghoul che può raggiungere anche diverse decine di membri. Rispettata e temuta è solitamente tra i ghoul evoluti più intelligenti e molto apprezzata per la sua capacità di poter trasformare in ghoul i viventi. La loro tattica prevede di ferire e non uccidere diverse persone così che tornate a casa e poi trasformati possano attaccare ed uccidere tutto il villaggio.
 
 ## Ghoul, putrescente
@@ -28175,11 +27784,11 @@ La Madre Ghoul è solitamente a capo di un clan di ghoul che può raggiungere an
 **Ecologia**
 
 | Ambiente: Qualsiasi terreno |
-| --- |
 | Organizzazione: Gruppo (4-8) o branco (10-18) |
+| **Categoria Tesoro**: Nessuno |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 I Ghoul Putrescenti sono una delle tante l'evoluzione dei Ghoul. Il contatto continuo con l'energia negativa ed il nutrirsi per secoli di cadaveri di ogni genere lo hanno reso più grande, forte e capace di infliggere e fare infliggere le ferite più pericolose.
 
 ## Gigante delle Colline
@@ -28203,14 +27812,13 @@ I Ghoul Putrescenti sono una delle tante l'evoluzione dei Ghoul. Il contatto con
 
 *Colpisce:* 21 (3d10 + 5) danni contundenti.
 
-**Ecologia**
-
-| Ambiente: Colline Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline Temperate |
 | Organizzazione: Solitario, gruppo (2-5), banda (6-8), gruppo di razzia (9-12 più 1d4 Lupi Crudeli) o tribù (13-30 più 35\% non combattente più 1 capo combattente di 4°-6° livello, 11-16 Lupi Crudeli, 1-4 Ogre e 13-20 schiavi orchi) |
+| **Categoria Tesoro**: Armatura di Pelle, Randello Pesante, B |
+| **Descrizione** |
 
-**Categoria Tesoro**: Armatura di Pelle, Randello Pesante, B
-**Descrizione**
 I giganti di Collina hanno pelle che varia dal marrone chiaro al rossastro, capelli castani o neri, ed occhi dello stesso colore. Indossano strati di pelli rozzamente conciate con ancora il pelo. Raramente lavano o riparano i propri indumenti, e preferiscono semplicemente aggiungere nuovi strati man mano che i vecchi si logorano. Gli adulti sono alti circa 3 metri e pesano più o meno 550 kg. I giganti di Collina possono vivere fino a 200 anni, anche se raramente raggiungono quest'età.
 
 I giganti di Collina preferiscono combattere dall'alto di sporgenze e rupi, da dove possono colpire gli avversari con rocce e massi, limitando così il rischio personale. Amano effettuare attacchi di oltrepassare contro creature più piccole all'inizio del combattimento, e solo dopo prendono posizione e iniziano a roteare i loro massicci randelli.
@@ -28248,11 +27856,11 @@ I giganti di Collina solitari e non malvagi sono molto rari, ma li si può trova
 **Ecologia**
 
 | Ambiente: Montagne calde |
-| --- |
 | Organizzazione: Solitario, gruppo (2-5), banda (6-12 più un 35\% non combattenti e 1 adepto o Devoto di 1°-2° livello), gruppo di razziatori (6-12 più 1 adepto o mago di 3°-5° livello, 2-5 Segugi Infernali e 2-3 Troll o Ettin) o tribù (20-30 più 1 adepto, mago o Devoto di 6°-7° livello; 1 re Guerriero o guardiaboschi di 8°-9° livello; e 17-38 Segugi Infernali, 12-22 Troll, 7-12 Ettin e 1-2 Draghi Rossi Giovani) |
+| **Categoria Tesoro**: Mezza Armatura, Spadone, P |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Mezza Armatura, Spadone, P
-**Descrizione**
 I giganti del fuoco sono i giganti più rigidi e marziali, sempre pronti alla guerra e a trattare brutalmente chiunque incontrino. La loro rigida struttura di comando prevede soldati, ufficiali e persino generali, e che tutti obbediscano agli ordini del loro re senza discutere.
 
 I giganti del fuoco hanno capelli arancione brillante che splendono e scintillano come se fossero in fiamme. Un maschio adulto è alto tra i 3,6 e i 4,8 metri, con una cassa toracica di circa 2,7 metri, e pesa circa 3.500 kg. Le femmine sono leggermente più basse e snelle. I giganti del fuoco possono vivere fino a 350 anni.
@@ -28287,14 +27895,13 @@ I giganti del fuoco preferiscono i luoghi caldi: più caldi sono meglio è. Si p
 
 ***Arrabbiato:*** il Gigante del Gelo canalizza le sue energie attraverso l'arma. L'arma causa un 2d6 di danni aggiuntivi da freddo fino alla fine del combattimento.
 
-**Ecologia**
-
-| Ambiente: Montagne fredde |
+| **Ecologia** |
 | --- |
+| Ambiente: Montagne fredde |
 | Organizzazione: Solitario, banda (3-5), gruppo (6-12 più 35\% non combattenti e 1 mago o Devoto di 1°-2° livello), gruppo di razziatori (6-12 più 35\% non combattenti, 1 Devoto o mago di 3°-5° livello, 1-4 Lupi Invernali e 2-3 Ogre) o tribù (21-30 più 1 adepto, mago o Devoto di 6°-7° livello; 1 jarl Barbaro o guardiaboschi 7°-9° livello; e 15-36 Lupi Invernali, 13-22 Ogre e 1-2 Draghi Bianchi Giovani) |
+| **Categoria Tesoro**: Giaco di Maglia, Ascia Bipenne, R |
+| **Descrizione** |
 
-**Categoria Tesoro**: Giaco di Maglia, Ascia Bipenne, R
-**Descrizione**
 Un gigante del gelo ha capelli azzurri o giallo sporco, e occhi in genere dello stesso colore. Si vestono con pelli e pellicce, adornandosi con qualsiasi gioiello possiedano. I giganti del gelo combattenti indossano anche giachi di maglia ed elmi di metallo decorati con corna e piume. Un maschio adulto è alto 5 metri e pesa circa 1.400 kg. Le femmine sono leggermente più basse e snelle, ma per il resto sono identiche ai maschi. I giganti del gelo possono vivere fino a 250 anni.
 
 I giganti del gelo sono molto temuti, poiché la brama di distruzione e guerra ed il loro comportamento sprezzante li spingono a manifestazioni di brutalità sempre maggiori. I giganti del gelo iniziano attaccando a distanza, scagliando rocce finché finiscono le munizioni o l'avversario si avvicina, poi lo affrontano con le loro enormi asce. Una delle tattiche preferite è tendere un'imboscata nascondendosi sotto la neve al di sopra di un pendio ghiacciato o innevato, dove gli avversari avranno difficoltà a raggiungerli, e poi iniziano causando una valanga prima di scendere in battaglia. I giganti del gelo possono nascondersi molto bene negli ambienti nevosi e sono dei maestri nella furtività nel loro dominio.
@@ -28339,14 +27946,13 @@ A volontà: *Individuazione del Magico, Luce, Nube di Nebbia*
 
 ***Arrabbiato:*** il Gigante delle Nubi agita l'arma sopra sulla testa evocando nubi tempestose e lanciando l'incantesimo Invocare il Fulmine. Costa 2 Azioni.
 
-**Ecologia**
-
-| Ambiente: Montagne Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Montagne Temperate |
 | Organizzazione: Solitario, gruppo (2-5), famiglia (2-5 più 35\% non combattenti più 1 mago o Devoto di 4°-7° livello e 2-5 Grifoni) o tribù (6-20 più 1 oracolo mago o Devoto di 7°-12° livello e 2-5 Grifoni) |
+| **Categoria Tesoro**: Giaco di Maglia, Mazza chiodata, U |
+| **Descrizione** |
 
-**Categoria Tesoro**: Giaco di Maglia, Mazza chiodata, U
-**Descrizione**
 Il colore pelle dei giganti delle nuvole varia dal bianco latte al blu polvere. I maschi adulti sono alti circa 5,3 metri e pesano approssimativamente 2.500 kg. Le femmine sono leggermente più basse e snelle. I giganti delle nuvole possono vivere fino a 400 anni, vestono con abiti preziosi e gioielli. Per molti l'aspetto indica lo status. Migliori sono i vestiti e più raffinati i gioielli, più importante è chi li indossa. Inoltre apprezzano la musica, e la maggioranza suona uno o più strumenti (l'arpa è uno dei preferiti).
 
 I giganti delle nuvole possono avere Tratti insolitamente vari; circa metà sono buoni e metà malvagi. I giganti delle nuvole buoni costruiscono strade che collegano i loro insediamenti con le strade degli umani per promuovere il commercio. Non è insolito vedere un gigante delle nuvole buono camminare tra gli uomini, ad esempio, in una città umana nei pressi di un'alta catena montuosa. I giganti delle nuvole malvagi tendono a non creare insediamenti stabili e anzi preferiscono vivere in rozzi rifugi su alti picchi, da cui scendono solo per depredare i villaggi di quello di cui potrebbero aver bisogno. Queste due filosofie portano spesso allo scoppio di guerre violente e durature tra tribù vicine.
@@ -28387,11 +27993,11 @@ Sono molte le leggende che parlano di magiche città dei giganti delle nuvole si
 **Ecologia**
 
 | Ambiente: Montagne temperate |
-| --- |
 | Organizzazione: Solitario, gruppo (2-5), banda (4-8), gruppo di caccia (9-12 più 1 Anziano) o tribù (13-30 più 35\% non combattenti, 1-3 Anziani e 4-6 Orsi Crudeli) |
+| **Categoria Tesoro**: Randello Pesante Gigante, P |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Randello Pesante Gigante, P
-**Descrizione**
 I giganti di Pietra preferiscono spessi indumenti di cuoio, tinti con tonalità di marrone e grigio per confondersi con la pietra che li circonda. Gli adulti sono alti circa 3,6 metri, pesano circa 750 kg e possono vivere fino a 800 anni.
 
 I giganti di Pietra, se possibile, combattono a distanza, ma se non possono evitare la mischia usano giganteschi randelli di pietra. Una delle tattiche favorite dai giganti di Pietra è di stare immobili, mimetizzandosi con il paesaggio, per poi avanzare scagliando rocce e sorprendere i nemici.
@@ -28438,14 +28044,13 @@ A volontà: *Caduta Piuma, individuazione del magico,* *levitazione, Luce*
 
 ***Arrabbiato:*** il gigante delle tempeste carica di elettricità tutta l'area intorno a se fino alla fine del combattimento. Una creatura che termini il round entro 6 metri da gigante subisce 13 (3d8) danni da elettricità. Costa 1 Azione.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi caldo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi caldo |
 | Organizzazione: Solitario o famiglia (2-5 più 1 mago o Devoto di livello 7°-10°, 1-2 Roc, 2-6 Grifoni e 2-8 Squali) |
+| **Categoria Tesoro**: Corazza di Piastre Perfetta, Arco Lungo Composito Perfetto [Forza +9] con 20 Frecce, Spadone Perfetto, H |
+| **Descrizione** |
 
-**Categoria Tesoro**: Corazza di Piastre Perfetta, Arco Lungo Composito Perfetto [Forza +9] con 20 Frecce, Spadone Perfetto, H
-**Descrizione**
 I giganti delle tempeste tendono ad avere carnagione abbronzata, anche se rari esemplari hanno pelle viola, capelli viola o blu scuri e occhi grigio argento o porpora. Il colore viola è considerato di buon auspicio tra i giganti delle tempeste, e coloro che lo posseggono tendono a diventare capi tra la loro gente. Gli adulti sono normalmente alti 6,3 metri e pesano 6000 kg. I giganti delle tempeste possono vivere fino a 600 anni.
 
 Quando sono a riposo, preferiscono indossare tuniche corte e ampie cinte ai fianchi, sandali o piedi nudi e una fascia per capelli. Indossano pochi gioielli di semplice ma ottima fattura, i più comuni sono cavigliere (preferite dai giganti a piedi scalzi), anelli o diademi. Ma quando si equipaggiano per la battaglia, indossano corazze di piastre scintillanti e impugnano enormi spadoni e archi.
@@ -28482,14 +28087,13 @@ I giganti delle tempeste vivono in belle torri, castelli o in insediamenti cinti
 
 ***Risata beffarda.*** lo gnoll ride sguaiatamente ad un avversario. La creatura bersaglio deve effettuare un Tiro Salvezza su Volontà DC 13 o essere intimorito ed avere -1 al Tiro per Colpire fino alla fine del round successivo dello gnoll
 
-**Ecologia**
-
-| Ambiente: Pianure calde, deserti |
+| **Ecologia** |
 | --- |
+| Ambiente: Pianure calde, deserti |
 | Organizzazione: Solitario, coppia, gruppo di caccia (2-5 e 1-2 Iene), banda (10-100 adulti più 50\% piccoli non combattenti, 1 sergente di 3° livello ogni 20 adulti, 1 capo di 4°-6° livello e 5-8 Iene) o tribù (20-200 più 1 sergente di 3° livello ogni 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 7-12 Iene e 4-7 ienodonti) |
+| **Categoria Tesoro**: equipaggiamento da PNG (Armatura di Cuoio, Scudo Pesante di Legno, Lancia, K) |
+| **Descrizione** |
 
-**Categoria Tesoro**: equipaggiamento da PNG (Armatura di Cuoio, Scudo Pesante di Legno, Lancia, K)
-**Descrizione**
 Gli gnoll sono umanoidi grandi e massicci, simili alle iene non solo nell'aspetto, ma anche nei comportamenti. Spesso tengono le iene come animali da compagnia e riflettono molti dei loro comportamenti. Pur essendo abili cacciatori, preferiscono trafugare o ripulire carcasse piuttosto che cacciare prede.
 
 Questa pigrizia li porta a procurarsi schiavi di ogni specie per scavare tane, raccogliere provviste e acqua e persino cacciare per loro conto. Le creature non gnoll o iene diventano pasti o schiavi, a seconda del temperamento della tribù. Anche i compagni caduti possono diventare cibo, a meno che non siano onorati con una breve preghiera o cucinati interamente se morti per malattia.
@@ -28532,11 +28136,11 @@ A volontà: *Anti-Individuazione* (personale)
 **Ecologia**
 
 | Ambiente: Qualsiasi sotterraneo |
-| --- |
 | Organizzazione: Solitario, compagnia (2-4), squadra (5-20 più 1 capo 3°-6° e due sergenti di 3° livello), o banda (30-50 più 1 sergente di 3° livello ogni 20 adulti, 5 tenenti di 5° livello, 3 capitani di 7° livello, e 2-5 Elementali della Terra Medi) |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Piccone Pesante, Balestra Leggera con 10 Quadrelli, M) |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Piccone Pesante, Balestra Leggera con 10 Quadrelli, M)
-**Descrizione**
 I gnomi delle profondità, sono una branca della razza gnomesca. Dimorano nel sottosuolo, in città nascoste, al sicuro dagli elfi scuri e da altre razze sotterranee. La loro pelle è del colore della roccia, di solito grigia o marrone. I maschi sono calvi e le femmine hanno radi capelli grigi.
 
 ## Globulo
@@ -28545,7 +28149,10 @@ I gnomi delle profondità, sono una branca della razza gnomesca. Dimorano nel so
 - **Punti Ferita**: 33,  **Difesa:** 15,  **Iniziativa:** +3
 - **Movimento**: volare 18 m
 - **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
-- **Imm. Danni**: da Vuoto, Freddo, Veleno
+
+| - **Imm. Danni**: da Vuoto, Freddo, Veleno |
+| --- |
+
 - **Immunità**: prono
 - **Sensi**: Scurovisione 36 m
 - **Linguaggi**: comprende il Comune ma non lo parla
@@ -28566,11 +28173,11 @@ I gnomi delle profondità, sono una branca della razza gnomesca. Dimorano nel so
 **Ecologia**
 
 | Ambiente: Qualsiasi, desertico, notturno |
-| --- |
 | Organizzazione: Solitario, gruppi 2d4 |
+| **Categoria Tesoro**: Nessuno |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 I Globuli sono aberrazioni magiche provenienti da qualche portale aperto verso l'Oltre. Creature di freddo e vuoto sembrano delle piccole stelle che anelano solo di risucchiare la vita della creature incontrate.
 Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avversario finché questo è mortalmente affaticato. Una volta ucciso di un Globulo non rimane che una piccola creatura a forma di stella con un grosso occhio centrale, completamente bianco.
 
@@ -28592,14 +28199,13 @@ Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avve
 
 *Colpisce:* 3 (1d6) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi Temperate |
 | Organizzazione: Gruppo (4-9), banda da guerra (10-24) o tribù (50+ più 50\% non combattenti |
+| **Categoria Tesoro**: K |
+| **Descrizione** |
 
-**Categoria Tesoro**: K
-**Descrizione**
 I goblin sono selvaggi, imprevedibili, rumorosi.
 I goblin preferiscono vivere nelle caverne, nel fitto delle foreste e quando ne hanno a disposizione nelle strutture antiche abbandonate. I goblin non amano costruire quanto piuttosto distruggere per poi lamentarsi che non c'è nulla di utile.
 
@@ -28645,14 +28251,13 @@ I goblin sono famelici e possono mangiare enormi quantità di cibo. un goblin no
 
 ***Velocità (Ricarica 5-6).*** Fino al termine del suo prossimo round, il golem ottiene un bonus magico di +2 alla Difesa, ha +1d6 ai Tiri Salvezza su Riflessi, e può usare gli attacchi di schianto come Azione Immediata.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario o gruppo (2-4) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 I golem di argilla non indossano abiti, eccezion fatta per un indumento di cuoio trattato o metallo attorno ai fianchi. Mediamente sono alti più di 2,3 metri e pesano 300 chili.
 
 **Costruzione**
@@ -28694,14 +28299,13 @@ Un golem d'argilla può essere scolpito a partire da un unico blocco d'argilla d
 
 ***Arrabbiato:*** il golem di carne si sovraccarica. Per 2d4 round può eseguire una Azione di in più di Movimento o di Attacco. Costa 1 Azione.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario o gruppo (2-4) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Un golem di carne è una mostruosa collezione di parti anatomiche umanoidi trafugate e cucite insieme. La sua carne cadaverica ha tonalità verde pallido o giallognola. Un golem di carne indossa qualsiasi tipo di vestito che il suo creatore desideri, normalmente solo un logoro paio di pantaloni. Non ha Equipaggiamento né armi. Un golem di carne è alto più di 2,3 metri e pesa 250 kg.
 
 Un golem di carne non parla, anche se può emettere una specie di ringhio rauco. Cammina e si muove con un'andatura a scatti, come se non avesse il pieno controllo del proprio corpo.
@@ -28748,14 +28352,13 @@ Anche se molti golem di carne sono privi di ragione, si narra di golem ecceziona
 
 ***Arrabbiato:*** il golem di ferro esala un soffio rovente in un cono di 3 metri. Il soffio causa 3d10 danni da fuoco o la metà se il Tiro Salvezza si Riflessi DC 26 riesce. Il golem recupera l'intero ammontare in Punti Ferita ed è Accelerato 1 per 2d4 round. Costa 2 Azioni.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario o gruppo (2-4) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Un golem di ferro ha un corpo di forma umanoide in ferro. Il creatore può dargli qualsiasi forma desideri, ma presenta quasi sempre un'armatura di qualche tipo, sia essa cerimoniale e preziosa o semplice e d'uso. Rispetto ad un golem di pietra ha sembianze molto più definite. I golem di ferro, talvolta, portano con sé un'arma, anche se il più delle volte tendono a preferirle i loro attacchi schianto.
 
 Un golem di ferro è alto 3,6m e pesa circa 2.500 chili. Un golem di ferro non può parlare né emettere voce. Inoltre, non emette nessun odore riconoscibile.
@@ -28797,14 +28400,13 @@ Per costruire un golem di ferro occorrono 2.500 kg di ferro, fuso con tinture ra
 
 ***Lentezza (Ricarica 5-6).*** Il golem prende a bersaglio una o più creature entro 3 metri da lui e che possa vedere. Ciascun bersaglio deve effettuare un Tiro Salvezza di Volontà DC 24 contro questa magia. Se fallisce il Tiro Salvezza il bersaglio è Rallentato 2/1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto per sé in caso di successo.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario o gruppo (2-4) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Un golem di pietra ha un corpo umanoide fatto di pietra, spesso stilizzato per soddisfare il suo creatore. Ad esempio, può essere scolpito in modo da indossare un'armatura, con particolari simboli scolpiti sulla corazza, o avere dei disegni intarsiati nella pietra dei suoi arti. La testa è spesso scolpita per sembrare un elmo o la testa di qualche bestia. Sebbene possa essere scolpito con uno scudo o un'arma di pietra come una spada, queste scelte estetiche non influenzano le sue capacità in combattimento.
 
 Come per la maggior parte dei golem, un golem di pietra non può parlare e non emette altro suono se non quello della pietra che sfrega sulla pietra quando si muove. Un golem di pietra è alto 2,7 metri e pesa circa 1000 kg.
@@ -28839,14 +28441,13 @@ Il corpo di un golem di pietra viene scolpito da un unico blocco di pietra dura,
 
 ***Arrabbiato:*** la Gorgone concentra un potente soffio pietrificante. Costa 2 azioni. Una creatura a distanza di mischia deve effettuare un Tiro Salvezza su Tempra a DC 16 o diventare di pietra per 24 ore.
 
-**Ecologia**
-
-| Ambiente: Pianure Temperate, Colline Rocciose e Sotterranei |
+| **Ecologia** |
 | --- |
+| Ambiente: Pianure Temperate, Colline Rocciose e Sotterranei |
 | Organizzazione: Solitario, coppia, branco (3-4) o mandria (5-12) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Le gorgoni sono creature magiche e irascibili: sebbene a prima vista possano sembrare dei costrutti, sotto le piastre metalliche dall'aspetto artificiale sono fatte di carne e ossa. Come tori aggressivi, sfidano qualsiasi creatura sconosciuta che incontrano, spesso travolgendo il cadavere del loro avversario o frantumando i suoi resti pietrificati finché la creatura non è più riconoscibile. Le femmine sono pericolose quanto i maschi, e i due sessi hanno l'identico aspetto. Una tipica gorgone è alta 1,8 metri e lunga 2,3 metri. Pesa circa 2000 kg.
 
 Le gorgoni ricavano il loro nutrimento consumando minerali, in particolare la pietra delle loro vittime pietrificate, e ogni statua da loro creata viene completamente divorata. Non possono digerire metallo o gemme, così il loro sterco (che assomiglia a polvere grigia dall'odore acre) spesso contiene piccoli cristalli grezzi e pepite d'oro. La loro aggressività verso tutte le altre creature fa sì che nei loro pascoli siano pochi, se non nessuno, i predatori e le prede. Ogni mandria è guidata da un toro dominante; le gorgoni solitarie sono generalmente tori adolescenti allontanati dalla mandria del toro dominante.
@@ -28874,14 +28475,13 @@ La loro carne è dura e muscolosa (una volta che viene rimossa l'armatura), e pe
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-**Ecologia**:
-
-| Ambiente: Qualsiasi Sotterraneo |
+| **Ecologia**: |
 | --- |
+| Ambiente: Qualsiasi Sotterraneo |
 | Organizzazione: Solitario o ammasso (2-5) |
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 Il grick, una creatura vermiforme, è il terrore delle caverne e dei cunicoli in cui risiede. In agguato nei pressi di tunnel trafficati o città sotterranee, balza fuori dal buio per catturare le sue prede. Solitamente non consuma le prede sul posto, ma le porta nella sua tana, un cunicolo stretto o una sporgenza di una caverna, dove può mangiarle tranquillamente.
 
 Le origini del grick sono ignote. Sebbene possieda una rudimentale intelligenza, non ha una vera e propria società e si incontra solitamente da solo. Nei rari casi in cui sono presenti più grick, non sembrano collaborare tra loro: ognuno attacca un obiettivo individuale e si ritira con il bottino una volta abbattuto l'avversario.
@@ -28914,14 +28514,13 @@ I grick si mimetizzano grazie al loro colore scuro e alla capacità di scalare i
 
 **Reazione: *Attacco d'opportunità***: il grifone attacca se sta volando ed una creatura esce o attraversa la sua portata di 3 m.
 
-**Ecologia**
-
-| Ambiente: Colline Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline Temperate |
 | Organizzazione: Solitario, coppia o branco (6-10) |
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 I grifoni sono potenti predatori aerei che piombano dai loro nidi per afferrare le prede con becco e artigli. Aggressivi e territoriali, sono combattenti astuti e leali verso chi guadagna il loro rispetto, proteggendoli fino alla morte. Pesano oltre 250 kg e sono lunghi 2,3 metri, con un imponente profilo spesso usato in araldica come simbolo di potenza, autorità e giustizia. Nonostante ciò, sono più interessati a cacciare e difendersi.
 
 Sebbene possano essere addestrati come cavalcature, i grifoni non hanno un'innata affinità con gli umanoidi e spesso entrano in conflitto con razze civilizzate per procurarsi carne di saurovallo. I cittadini possono meravigliarsi alla vista di un grifone addestrato con un'apertura alare di 7 metri, ma i contadini sono ben consapevoli del pericolo che rappresentano.
@@ -28958,12 +28557,11 @@ I grifoni possono portare fino a 25 di Ingombro come carico leggero, 50 come car
 
 *Colpisce:* 5 (1d8 + 1) danni perforanti.
 
-**Ecologia**
-
-| I Grimlock abitano gli insediamenti abbandonati di altre Razze e sono spesso trovati come schiavi di altre creature più organizzate, come i nani ed Elfi. Si ritiene che si trattino di una propaggine ancora più degenerata dei Morlock, che viaggiano da Sekamina per cacciare i Grimlock per il cibo e considerano la loro carne una delicatezza. |
+| **Ecologia** |
 | --- |
+| I Grimlock abitano gli insediamenti abbandonati di altre Razze e sono spesso trovati come schiavi di altre creature più organizzate, come i nani ed Elfi. Si ritiene che si trattino di una propaggine ancora più degenerata dei Morlock, che viaggiano da Sekamina per cacciare i Grimlock per il cibo e considerano la loro carne una delicatezza. |
+| **Descrizione** |
 
-**Descrizione**
 I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle terre oscure di profondità, dove si organizzano in piccoli gruppi tribali.
 
 ## Guardiano Protettore
@@ -29014,14 +28612,13 @@ I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle ter
 
 *Colpisce:* 5 (1d8 + 1) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Colline Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline Temperate |
 | Organizzazione: Gruppo (4-9), banda da guerra (10-24) o tribù (25+ più 50\% non combattenti, 1 sergente di 3° livello per 20 adulti, 1 o 2 luogotenenti di 4° o 5° livello, 1 capo di 6°-8° livello, 6-12 Leopardi e 1-4 Ogre o 1-2 Troll) |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Corazza di Cuoio Borchiato, Scudo Leggero di Metallo, Spada Lunga, Arco Lungo con 20 Frecce, O) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Corazza di Cuoio Borchiato, Scudo Leggero di Metallo, Spada Lunga, Arco Lungo con 20 Frecce, O)
-**Descrizione**
 Gli Hobgoblin sono una razza militarista e prolifica, rendendoli molto pericolosi in alcune regioni. Procreano rapidamente, sostituendo i membri caduti con nuovi soldati, mantenendo il loro numero costante nonostante le guerre. Dichiarano guerra facilmente, spesso per catturare nuovi schiavi, la cui vita è brutale e breve. Gli schiavi sono necessari per rimpiazzare quelli che muoiono o vengono mangiati.
 
 Tra le razze goblinoidi, gli Hobgoblin sono i più civilizzati. Vedono i Bugbear come strumenti utili per missioni specifiche come omicidi e furti, mentre guardano i Goblin con vergogna e frustrazione, nonostante ammirino la loro tenacia. La maggior parte delle tribù Hobgoblin include comunque un piccolo gruppo di Goblin, relegati agli angoli peggiori dell'insediamento.
@@ -29060,14 +28657,13 @@ Al termine del suo round, l'idra ricresce due teste per ciascuna delle sue teste
 
 ***Gas ripugnanti.*** l'idra emette gas dall'odore ripugnante. Tutte le creature nel raggio di 3 metri dall'idra devono fare un Tiro Salvezza su Tempra DC 21 o subire -2 al Tiro per Colpire per i successivi 2d4 round.
 
-**Ecologia**
-
-| Ambiente: Paludi Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Paludi Temperate |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: E |
+| **Descrizione** |
 
-**Categoria Tesoro**: E
-**Descrizione**
 L'idra è un drago a più teste, ma stupido e con grossi problemi di digestione.
 
 ## Ippogrifo
@@ -29093,14 +28689,13 @@ L'idra è un drago a più teste, ma stupido e con grossi problemi di digestione.
 
 **Reazione: *Attacco d'opportunità***: l'ippogrifo attacca se sta volando ed una creatura esce o attraversa la sua portata di 2 m.
 
-**Ecologia**
-
-| Ambiente: Colline Temperate o Pianure |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline Temperate o Pianure |
 | Organizzazione: Solitario, coppia o stormo (7-12) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 L'ippogrifo è una creatura affascinante con ali, zampe anteriori e testa di un grande rapace, e corpo e coda di un magnifico cavallo.
 
 Le piume dell'ippogrifo variano nei colori del falco o dell'aquila, con alcuni allevatori che hanno prodotto esemplari con piume bianche o color carbone. Il corpo è spesso baio, nocciola o grigio, con manti pezzati o palomino. Gli ippogrifi misurano 3,3 metri di lunghezza e pesano fino a 680 kg.
@@ -29153,14 +28748,13 @@ Il kraken può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 
 **Nube di Inchiostro (Costa 3 Azioni).** Mentre si trova sott'acqua, il kraken espelle una nube di inchiostro con un raggio di 18 metri. La nube si propaga intorno agli angoli, e quell'area è oscurata pesantemente per tutte le creature tranne il kraken. Ciascuna creatura a parte il kraken che termini il suo round nell'area deve riuscire un Tiro Salvezza su Tempra 34, subendo 16 (3d10) danni da veleno se fallisce il Tiro Salvezza, o la metà se lo riesce. Una forte corrente disperde la nube, che altrimenti svanisce al termine del prossimo round del kraken. **Tempesta di Fulmini (Costa 2 Azioni).** Il kraken usa Tempesta di Fulmini.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi Oceano |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi Oceano |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: 2 H |
+| **Descrizione** |
 
-**Categoria Tesoro**: 2 H
-**Descrizione**
 Il leggendario kraken è una delle più grandi paure dei marinai, perché è una creatura della taglia di una balena, può colpire delle profondità senza esser visto, può comandare i venti e le condizioni meteorologiche necessarie alla nave per muoversi, e possiede il crudele intelletto della maggior parte dei più spietati e creativi criminali del mondo. Alcuni credono che i kraken siano una punizione divina, mentre altri li ritengono i veri signori delle profondità, che considerano le razze che respirano aria nient'altro che bestiame.
 
 Molte leggende sono sorte in merito al fatto che comprenda il linguaggio druidico.
@@ -29200,14 +28794,13 @@ A volontà: *Camuffare Sé Stesso* (qualsiasi forma umanoide), *Immagine Maggior
 
 *Colpisce:* Il bersaglio è maledetto per 1 ora da questa magia. Fino al termine della maledizione, il bersaglio ha -1d6 ai Tiri Salvezza su Volontà e a tutte le prove di competenza di Base.
 
-**Ecologia**
-
-| Ambiente: Deserti Temperati |
+| **Ecologia** |
 | --- |
+| Ambiente: Deserti Temperati |
 | Organizzazione: Solitario, coppia o setta (3-12) |
+| **Categoria Tesoro**: Pugnale+1, D |
+| **Descrizione** |
 
-**Categoria Tesoro**: Pugnale+1, D
-**Descrizione**
 Le lamie, eredi di un'antica maledizione, hanno l'aspetto di donne snelle e attraenti dalla vita in su, mentre la parte inferiore del corpo è simile a quella di un possente leone. Le loro caratteristiche umanoidi presentano tratti felini: occhi stretti e ferini e denti simili a zanne. Una lamia tipica è alta 1,8 metri, lunga 2,3 metri e pesa oltre 325 kg.
 
 Queste creature sono attratte da torrioni in rovina, città abbandonate e monumenti dimenticati, specialmente in zone aride. Tuttavia, prediligono templi decrepiti, trovando gioia nel vederli in rovina e cercando di danneggiare i luoghi sacri alle divinità buone.
@@ -29279,14 +28872,13 @@ Il lich può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu�
 
 ***Trucchetto.*** Il lich lancia un trucchetto.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Anello di Protezione +2, Fascia della Sapienza +2 (Consapevolezza), Stivali della Levitazione, pergamena di Dominare Persone, pergamena di Teletrasporto, pozione di Invisibilità) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Anello di Protezione +2, Fascia della Sapienza +2 (Consapevolezza), Stivali della Levitazione, pergamena di Dominare Persone, pergamena di Teletrasporto, pozione di Invisibilità)
-**Descrizione**
 Poche creature sono più temute dei lich. Apice delle arti Necromantiche, il lich è un incantatore che ha scelto di rinunciare alla vita ed ingannare la morte diventando non morto. Anche se molti di coloro che raggiungono simili vette di potenza farebbero di tutto per raggiungere l'immortalità, l'idea di diventare un lich è aborrita da molte creature. Il processo prevede di estrarre la forza vitale dell'incantatore e imprigionarla in un filatterio preparato in modo speciale; l'incantatore cede la sua vita, ma rimane intrappolato tra la vita e la morte, e fintanto che il suo filatterio rimane intatto può continuare le sue ricerche e il suo lavoro senza temere il passare del tempo.
 
 Esistono anche rarissimi Lich buoni, ma come dice il detto sono più rari di un dente di Roc.
@@ -29321,14 +28913,13 @@ Esistono anche rarissimi Lich buoni, ma come dice il detto sono più rari di un 
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: paludi temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: paludi temperate |
 | Organizzazione: solitario, coppia, banda (3-12) o tribù (13-60) |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Scudo Pesante di Legno, Mazza chiodata, 3 Giavellotti) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Scudo Pesante di Legno, Mazza chiodata, 3 Giavellotti)
-**Descrizione**
 I lucertoloidi sono rettili predatori orgogliosi e potenti che fanno le loro case comuni in sparuti villaggi nei recessi di paludi e acquitrini. Privi di interesse verso la colonizzazione delle terre aride e soddisfatti delle loro semplici armi e dei rituali che li hanno serviti bene per millenni, i lucertoloidi sono visti da molte delle altre razze come selvaggi retrogradi, ma all'interno delle loro isolate comunità sono in realtà un popolo vitale ricco di tradizioni e con una storia orale che risale a prima che l'uomo camminasse in posizione eretta.
 
 La maggior parte dei lucertoloidi è alta dagli 1,8 ai 2,1 metro e pesa dai 100 ai 125 kg, ed ha i possenti muscoli coperti da scaglie grigie, verdi o marroni. Alcune razze hanno piccole creste dorsali o collari dai colori brillanti, e tutte nuotano bene spostandosi con rapidi movimenti della loro possente coda lunga 1,2 metri. Anche se sono pienamente a loro agio in acqua, trattengono il fiato e tornano alle loro abitazioni poste su colline artificiali per riprodursi e dormire. Poiché il loro sangue da rettile li rende lenti al freddo, molti lucertoloidi cacciano e lavorano durante il giorno e si ritirano nelle loro dimore di notte per rannicchiarsi con gli altri della loro tribù a condividere il calore di grandi fuochi di torba.
@@ -29359,14 +28950,13 @@ I lucertoloidi presentati qui vivono in ambienti paludosi. Le tribù lucertoloid
 
 *Colpisce:* 12 (1d10 + 7) danni da taglio.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, Spada, J) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, Spada, J)
-**Descrizione**
 Il Maledetto immortale è una persona maledetta spesso da un Patrono o da una potente incantatore con la maledizione della folle vita immortale. La maledizione rompe l'equilibro della persona e questa si ritrova a girovagare senza una meta od un obiettivo. Ogni tanto si ricordano chi erano ed allora proseguono nella ricerca di chi li ha maledetti.
 Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando che l'avversario sia in grado di ucciderlo una volta per tutte.
 
@@ -29393,14 +28983,13 @@ Le Monete affamate attaccano sempre in gruppi da almeno 8 monete, quelle tenute 
 
 *Colpisce:* 3 danni da Veleno. Tiro Salvezza su Tempra DC 13 o essere Rallentati 1/1r.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Gruppi (3d12) |
+| **Categoria Tesoro**: M, N, O |
+| **Descrizione** |
 
-**Categoria Tesoro**: M, N, O
-**Descrizione**
 La Moneta affamata non è distinguibile da una normale moneta finché non osservata molto attentamente.
 Voraci ed affamate amano nascondersi nelle pile di monete di cui si nutrono per assorbire i metalli che gli conferiscono poi il *guscio* e l'aspetto di ordinarie monete. Attaccano sempre in gruppo, solitamente aspettando che qualcuno le tenga in mano per contarle. Ogni 10 Monete affamate, se *svuotate e fuse*, è possibile ricavare abbastanza metallo per una vera moneta.
 Monete affamate di Oro o Platino sono solitamente più robuste ed ancora più affamate. Dice la leggenda che una Moneta affamata non attaccherà un Devoto di Rezh.
@@ -29431,14 +29020,13 @@ Monete affamate di Oro o Platino sono solitamente più robuste ed ancora più af
 
 *Colpisce:* 10 (2d6 + 3) danni taglienti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 15 o venire maledetto dalla licantropia del cinghiale mannaro.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi Foresta o Pianura |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi Foresta o Pianura |
 | Organizzazione: Solitario, coppia, famiglia (3-8) o truppa (3-8 più 1-4 Cinghiali) |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, K) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, K)
-**Descrizione**
 Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi all'insù, pelo ispido e incisivi prominenti. Hanno capelli rossi, castani o neri ma alcuni sono anche biondi, canuti o calvi. Hanno di norma peluria sul labbro superiore e i maschi di solito non riescono a far crescere la barba. Poiché sono testardi e aggressivi hanno piccole comunità di loro simili e non si mischiano ai non licantropi: di solito vivono in piccole fattorie dall'aspetto assolutamente normale. Tendono ad avere grandi famiglie e molti figli.
 
 ## Lupo Mannaro
@@ -29470,14 +29058,13 @@ Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi 
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 15 o venir maledetto dalla licantropia del lupo mannaro.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi Terreno |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi Terreno |
 | Organizzazione: Solitario, coppia o branco (3-6) |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Cotta di Maglia, Spada Lunga, Balestra Leggera con 20 Quadrelli, K) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Cotta di Maglia, Spada Lunga, Balestra Leggera con 20 Quadrelli, K)
-**Descrizione**
 Nella forma umana i lupi mannari somigliano a persone normali, anche se alcuni tendono ad avere un aspetto ferino e capelli ribelli. Sopracciglia che crescono unendosi, dito indice più lungo del medio e strane voglie sul palmo della mano sono tutti segni comunemente accettati che una persona sia in realtà un lupo mannaro. Naturalmente, questi segni rivelatori non sono sempre accurati, perché questi tratti fisici esistono anche nelle persone normali, ma nelle zone dove i lupi mannari sono un problema comune, questi tratti possono essere considerati schiaccianti a prescindere.
 
 ## Orso Mannaro
@@ -29509,14 +29096,13 @@ Nella forma umana i lupi mannari somigliano a persone normali, anche se alcuni t
 
 *Colpisce:* 15 (2d10 + 4) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 16 o venir maledetto dalla licantropia dell'orso mannaro.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi Foresta |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi Foresta |
 | Organizzazione: Solitario, coppia, famiglia (3-6) o truppa (3-6 più 1-4 orsi Neri o Grigi) |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Giaco di Maglia, Ascia da Battaglia Perfetta, 2 Asce da Lancio Perfette, K) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Giaco di Maglia, Ascia da Battaglia Perfetta, 2 Asce da Lancio Perfette, K)
-**Descrizione**
 Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spalle larghe, tratti aspri e occhi scuri. Hanno capelli rossi, castani o neri e sembrano abituati a una vita di duro lavoro. Anche se i più benigni fra i licantropi, sono evitati dalla maggior parte delle persone normali, che temono la loro trasformazione animalesca. Per la maggior parte vivono in zone boschive isolate o in piccole unità familiari della loro stessa specie. Evitano di affrontare gli stranieri, ma non esitano se devono scacciare umanoidi malvagi dai loro territori.
 
 ## Ratto Mannaro
@@ -29549,14 +29135,13 @@ Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spa
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 13 o venir maledetto dalla licantropia del ratto mannaro.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi Urbano |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi Urbano |
 | Organizzazione: Solitario, coppia, branco (5-10) o gilda (11-30 più 5-12 Ratti Crudeli) |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato Perfetta, Spada Corta, Balestra Leggera con 20 Quadrelli, K) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato Perfetta, Spada Corta, Balestra Leggera con 20 Quadrelli, K)
-**Descrizione**
 I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e vispi, e hanno movimenti nervosi. I maschi spesso hanno sottili baffi striminziti.
 
 ## Tigre Mannara
@@ -29600,11 +29185,11 @@ I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e v
 **Ecologia**
 
 | Ambiente: Qualsiasi Pianura o Palude |
-| --- |
 | Organizzazione: Solitario o coppia |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Spada Corta, 2 Pugnali, K) |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Spada Corta, 2 Pugnali, K)
-**Descrizione**
 Le tigri mannare in forma umanoide hanno grandi occhi, nasi allungati, zigomi sporgenti e capelli castani o rossi, oppure bianchi, neri o grigio-blu. I loro movimenti sono attenti e aggraziati, e chi li guarda potrebbe scambiarli per un ottimo tagliaborse, un danzatore aggraziato o un'abile cortigiana.
 
 ## Manticora
@@ -29636,11 +29221,11 @@ Le tigri mannare in forma umanoide hanno grandi occhi, nasi allungati, zigomi sp
 **Ecologia**
 
 | Ambiente: Colline e Paludi Calde |
-| --- |
 | Organizzazione: Solitario, coppia o branco (3-6) |
+| **Categoria Tesoro**: C |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Le manticore sono feroci predatori che controllano vaste aree in cerca di carne fresca. Una tipica manticora è lunga circa 3 metri e pesa circa 500 kg. Alcune hanno la testa simile a quella di un umano, in genere barbuto. Maschi e femmine sono molto simili.
 
 Le manticore mangiano qualsiasi tipo di carne, anche quella delle carogne, ma preferiscono quella umana e raramente si lasciano sfuggire un'occasione di gustare questa delizia. Sono abbastanza furbe e sociali da stringere patti con umanoidi malvagi per formare alleanze o da costringerli ad offre tributi, e molte creature potenti le incaricano di sorvegliare o controllare un posto o una zona. Prediligono fare le loro tane in posti alti, come le sommità delle colline e le caverne tra le rupi.
@@ -29688,11 +29273,11 @@ Un duplicato possiede la Difesa e usa i Tiri Salvezza del manto assassino. Se un
 **Ecologia**
 
 | Ambiente: Sotterranei |
-| --- |
 | Organizzazione: Solitario, coppia, schiera (3-6) o stormo (7-12) |
+| **Categoria Tesoro**: R |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: R
-**Descrizione**
 Simili a mante volanti orribilmente malvagie, i manti assassini sono creature misteriose e paranoiche. Un tipico esemplare ha un'apertura alare di 2,3 metri e pesa 50 kg.
 
 Le loro motivazioni sono misteriose e confuse, e diffidano perfino dei loro simili. La strana forma permette loro di essere scambiati per mantelli, arazzi o altri oggetti comuni, e alcune storie narrano di manti assassini che si alleano con altre creature, facendosi trasportare sulla loro schiena e contribuendo alla protezione dei loro alleati per ragioni imperscrutabili.
@@ -29724,11 +29309,11 @@ Una creatura può staccare il mantoscuro con un'Azione e riuscendo un Tiro Salve
 **Ecologia**
 
 | Ambiente: Qualsiasi (sotterraneo) |
-| --- |
 | Organizzazione: Solitario, coppia o nidiata (3-12) |
+| **Categoria Tesoro**: O |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: O
-**Descrizione**
 l'apertura tentacolare di un mantoscuro ha un'ampiezza di poco inferiore agli 1 m; quando è appeso alla volta di una caverna, mascherato da stalattite, la sua lunghezza varia tra i 60 ed i 90 cm. Un esemplare tipico di mantoscuro pesa 20 kg. La testa ed il corpo della creatura sono solitamente del colore del basalto o del granito scuro, ma i suoi tentacoli membranosi possono cambiare colore per adattarsi all'ambiente circostante.
 
 I mantoscuro non sono scalatori particolarmente abili, ma sono in grado di appendersi alla volta di una caverna come i pipistrelli, agganciati per mezzo degli uncini posti in fondo ai loro tentacoli, così che il loro corpo penzolante risulti quasi indistinguibile da una stalattite. Da questa postazione nascosta la creatura attende che la preda passi sotto di lei e, a questo punto, si stacca lanciandosi verso di essa, sbattendo contro il bersaglio e tentando di avvolgervi attorno i suoi membranosi tentacoli. Se il mantoscuro manca la preda, risale e si lancia nuovamente contro la preda, fino a quando quest'ultima non viene sconfitta o il mantoscuro è gravemente ferito (nel qual caso svolazza sul soffitto per nascondersi, sperando che la sua preda lo lasci perdere). La capacità innata di questa creatura di celare la zona circostante per mezzo dell'oscurità magica le offre un ulteriore vantaggio contro gli avversari che necessitano della luce per vedere.
@@ -29770,14 +29355,13 @@ Se la medusa vede il suo riflesso su di una superficie riflettente entro 9 metri
 
 **Reazione: *Attacco d'opportunità***: la medusa effettua un attacco con i capelli serpentini ad una creatura che attraversi o esca dalla sua portata di 1 metro. Questo attacco non consuma Azioni o Reazioni.
 
-**Ecologia**
-
-| Ambiente: Paludi temperate e sotterranei |
+| **Ecologia** |
 | --- |
+| Ambiente: Paludi temperate e sotterranei |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Pugnale, Arco Lungo Perfetto con 20 Frecce, F |
+| **Descrizione** |
 
-**Categoria Tesoro**: Pugnale, Arco Lungo Perfetto con 20 Frecce, F
-**Descrizione**
 Le meduse sono creature simili agli umani con serpenti al posto dei capelli. Dalla distanza di 9 metri o più, una medusa può passare facilmente per una bella donna se indossa qualcosa che copre la sua chioma serpentina; quando indossa un abbigliamento che ne cela la testa e il volto può essere scambiata per un'umana anche a distanza ravvicinata. Le meduse usano bugie e travestimenti per celare il loro volto fino a che gli avversari non sono abbastanza vicini da usare il loro sguardo pietrificante, anche se gli piace giocare con la loro preda e possono usare delle frecce fiammeggianti per intrappolare i nemici a distanza. Alcune si divertono a creare intricate decorazioni con le loro vittime, usando la pietrificazione per dare un certo tocco ai loro nascondigli paludosi, ma molte meduse hanno cura di nascondere le prove dei loro scontri precedenti così che i loro nuovi nemici non si accorgano della loro pericolosa presenza.
 
 Avvezze a nascondersi, le meduse cittadine generalmente sono ladre, mentre quelle delle zone selvagge spesso finiscono per essere guardiaboschi. Le meduse delle leggende più note, tuttavia, sono quelle che prendono livelli da incantatore. Carismatiche ed intelligenti, le meduse urbane sono spesso coinvolte in gilde di ladri ed altri aspetti del mondo criminale. Le meduse possono formare alleanze con creature cieche o non morti intelligenti, entrambi immuni al loro sguardo pietrificante. Le meduse incantatrici fungono spesso da oracoli o profetesse, vivendo generalmente in remote zone di leggendaria potenza o dalla storia infausta. Queste meduse oracoli traggono grande diletto dal loro ruolo, e se ci si presenta con i giusti doni e adulazioni, i segreti che offrono possono essere veramente utili. Naturalmente, i nascondigli di queste potenti creature sono decorati con le statue di coloro che le hanno offese, come monito ad usare le dovute cautele durante gli incontri.
@@ -29811,14 +29395,13 @@ di successo.
 
 ***Soffio Gelido (Ricarica 6).*** Il mefito esala un cono di 5 metri di aria fredda. Ogni creatura nell'area deve effettuare un Tiro Salvezza di Riflessi DC 11, subendo 5 (2d4) danni da freddo in caso di fallimento, o la metà di questi danni in caso di successo.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (piano elementale dell'aria) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (piano elementale dell'aria) |
 | Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12) |
+| **Categoria Tesoro**: J |
+| **Descrizione** |
 
-**Categoria Tesoro**: J
-**Descrizione**
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.
 
 I mephit del ghiaccio comunemente si trovano sul Piano dell'Aria. Questi mephit sono distanti e crudeli.
@@ -29849,14 +29432,13 @@ I mephit del ghiaccio comunemente si trovano sul Piano dell'Aria. Questi mephit 
 
 ***Soffio Infuocato (Ricarica 6).*** Il mefito esala un cono di 5 metri di fuoco. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi DC 11, subendo 7 (2d6) danni da fuoco in caso di fallimento, o la metà di questi danni in caso di successo.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (piano elementale del fuoco) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (piano elementale del fuoco) |
 | Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12) |
+| **Categoria Tesoro**: J |
+| **Descrizione** |
 
-**Categoria Tesoro**: J
-**Descrizione**
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.
 
 I mephit del magma comunemente si trovano sul Piano del Fuoco. Questi mephit sono stupidi bruti.
@@ -29885,14 +29467,13 @@ I mephit del magma comunemente si trovano sul Piano del Fuoco. Questi mephit son
 
 ***Soffio Accecante (Ricarica 6).*** Il mefito esala un cono di 5 metri di polvere accecante. Ogni creatura nell'area deve riuscire un Tiro Salvezza di Riflessi DC 11 o restare accecata per 1 minuto. Una creatura accecata può ripetere il Tiro Salvezza durante ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (piano elementale dell'aria) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (piano elementale dell'aria) |
 | Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12) |
+| **Categoria Tesoro**: J |
+| **Descrizione** |
 
-**Categoria Tesoro**: J
-**Descrizione**
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.
 
 I mephit della polvere comunemente si trovano sul Piano dell'Aria. Questi mephit sono irritanti ed insistenti.
@@ -29920,14 +29501,13 @@ I mephit della polvere comunemente si trovano sul Piano dell'Aria. Questi mephit
 
 ***Soffio Vaporoso (Ricarica 6).*** Il mefito esala un cono di 5 metri di vapore caldo. Ogni creatura nell'area deve effettuare un Tiro Salvezza di Riflessi DC 10, subendo 4 (1d8) danni da fuoco in caso di fallimento, o la metà di questi danni in caso di successo.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (piano elementale del fuoco) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (piano elementale del fuoco) |
 | Organizzazione: Solitario, coppia, gruppo (3-6) o stormo (7-12) |
+| **Categoria Tesoro**: J |
+| **Descrizione** |
 
-**Categoria Tesoro**: J
-**Descrizione**
 I mephit sono i servitori di potenti creature elementali. I siti e le locazioni chiave dei piani elementali sono pieni di mephit che si affannano per svolgere un importante dovere o incarico.
 
 I mephit del vapore comunemente si trovano sul Piano del Fuoco. Questi mephit sono insolenti e sprezzanti.
@@ -29958,14 +29538,13 @@ I cambiamenti apportati da questo effetto non sono in grado di superare le ispez
 
 ***Occhiata Mortale.*** La megera prende a bersaglio una creatura spaventata visibile entro 9 metri da lei. Se il bersaglio può vedere la megera, deve riuscire un Tiro Salvezza di Volontà DC 13 contro questa magia o scendere a 0 Punti Ferita.
 
-**Ecologia**
-
-| Ambiente: qualsiasi acquatico |
+| **Ecologia** |
 | --- |
+| Ambiente: qualsiasi acquatico |
 | Organizzazione: solitario o congrega (3 megere di qualsiasi specie) |
+| **Categoria Tesoro**: R (C) |
+| **Descrizione** |
 
-**Categoria Tesoro**: R (C)
-**Descrizione**
 Queste perfide e mostruose megere possiedono dei tratti terrificanti che pochi osano fissare, traggono piacere dalla discordia e dalla morte dei marinai, e tormentano la gente di mare con ineluttabili sciagure. Le megere marine hanno sempre un aspetto terribile e, malgrado la loro natura famelica, in genere sono creature emaciate che sembrano sul punto di morir di fame. Sono alte 1,8 metri e pesano 75 kg.
 
 Le megere marine preferiscono vivere vicino alla riva dove i pescherecci e i mercantili sono più comuni, e comunque lontano dalle aree urbane di modo che le loro azioni non attraggano troppo l'attenzione di possibili nemici, anche se non è insolito che una megera marina coraggiosa o avida si stabilisca in una città portuale o alla foce di un fiume profondo.
@@ -30034,11 +29613,11 @@ I cambiamenti apportati da questo effetto non sono in grado di superare le ispez
 **Ecologia**
 
 | Ambiente: Paludi temperate |
-| --- |
 | Organizzazione: Solitario o congrega (3 megere di qualsiasi tipo) |
+| **Categoria Tesoro**: R (C) |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: R (C)
-**Descrizione**
 Terrificanti vecchie rugose che frequentano ripugnanti paludi e foreste intricate, le megere verdi nutrono un odio intenso per tutto ciò che è bello e puro. Facendo uso delle loro svariate capacità illusorie, queste vegliarde si dilettano nell'uccidere gli innocenti, nello sconvolgere gli animi nobili e nell'avvilire i cuori puri. Amano utilizzare Camuffare Se Stesso per assumere le forme di giovani e attraenti ragazze così da sedurre e strappare giovani uomini ai loro affetti e parenti, e corrompere nobili e onesti cittadini con ogni sorta di depravazione e scandalo. Alcune megere verdi preferiscono rivelare la loro reale natura ai loro amati in un momento attentamente architettato per spingere l'uomo alla pazzia per l'orrore e la vergogna. Altre prolungano il loro amoreggiamento e fanno di tutto per rovinare completamente la vita degli uomini da loro sedotti prima di mostrare loro la verità. Infine, i più fortunati di questi sventurati finiscono per essere divorati dalla megera verde loro amante: per gli sfortunati, il destino finale può essere molto peggiore, dato che la crudele fantasia della megera verde è immensa. Una tipica megera verde è alta tra 1,5 e 1,8 metri e pesa poco meno di 80 kg.
 
 ## Ameba Paglierina
@@ -30068,11 +29647,11 @@ Terrificanti vecchie rugose che frequentano ripugnanti paludi e foreste intricat
 **Ecologia**
 
 | Ambiente: Sotterranei o Paludi Temperati |
-| --- |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Nessuno |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Le Ameba Paglierina sono masse animate di protoplasma di colore simile ad un repellente amalgama di giallo, arancio e marrone. Quando a riposo, il loro corpo piatto e pulsante è alto circa 15 centimetri e si estende tutto intorno; in movimento, si raccolgono in una forma vagamente sferica e sembrano quasi spostarsi rotolando. I loro corpi malleabili permettono loro di attraversare fessure e buchi molto più piccoli dello spazio che occupano. Le creature che vivono sottoterra spesso sigillano tutte le aperture per difendersi dalle Ameba Paglierina.
 
 L'acido altamente specializzato dell'Ameba Paglierina dissolve solo la carne. Questa scoperta ha portato molti maestri avvelenatori ed alchimisti a cercarne esemplari per studiarli. Da questi esperimenti sono nate diverse armi specifiche ideate per distruggere i corpi. Si racconta dell'esistenza di un veleno ad azione lenta che distrugge ad una ad una le cellule delle creature viventi, il cui segreto è ben conservato dal suo creatore.
@@ -30121,11 +29700,11 @@ Una creatura sommersa può tentare di fuggire effettuando un'Azione per compiere
 **Ecologia**
 
 | Ambiente: Qualsiasi sotterraneo |
-| --- |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Accidentale |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 Tra i predatori più insoliti e peculiari dei dungeon, i cubi gelatinosi trascorrono la loro esistenza vagabondando senza meta per i cunicoli sotterranei e le oscure caverne, inglobando materiali organici come piante, rifiuti, carogne e anche creature viventi. La materia che il cubo non può digerire, come metalli e pietra, riempie di detriti il volume della creatura, e a volte questa può espellerne una parte dal suo corpo. Spesso il tesoro e gli averi delle vittime passate restano dentro il cubo gelatinoso: immagine spettrale dei loro resti materiali.
 
 Alcuni saggi credono che queste creature si siano evolute delle Melme Grigie. Alcuni esseri usano i cubi gelatinosi come guardiani di dungeon e fortificazioni sotterranee, intrappolando queste immense creature in casse di metallo massiccio e trasportandole con poteri o magie fino al loro posto di guardia finale. Sono dei meccanismi di smaltimento rifiuti particolarmente efficaci; una tribù può intrappolare un cubo gelatinoso in una fossa o un'altra area che non possa scalare usandolo come letamaio o anche trappola mortale, a seconda dell'ingegnosità delle creature che l'hanno catturato.
@@ -30157,14 +29736,13 @@ La melma può divorare metallo non magico dello spessore di 5 centimetri in un 1
 
 *Colpisce:* 4 (1d6 + 1) danni contundenti più 7 (2d6) danni da acido. Se il bersaglio sta indossando un'armatura di metallo questa viene parzialmente dissolta e subisce una penalità permanente e cumulativa di -1 alla Difesa che offre. L'armatura è distrutta se la penalità arriva a -6.
 
-**Ecologia**
-
-| Ambiente: Paludi fredde e sotterranei |
+| **Ecologia** |
 | --- |
+| Ambiente: Paludi fredde e sotterranei |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Strisciando attraverso le fredde paludi e gli acquitrini nebbiosi o, a volte in sotterranei e caverne, le melme grigie consumano ogni sostanza organica che incontrano. Sebbene priva di intelligenza, la melma grigia è una delle creature che dà non pochi problemi per la sua trasparenza. Anche se non può arrampicarsi facilmente sui muri o nuotare, la sua abitudine di nascondersi nel fango spesso lungo le rive paludose o di rimanere immobile in pozze dall'aspetto innocuo sul pavimento grigio di un sotterraneo, la rendono molto difficile da notare e da evitare.
 
 Alcuni saggi credono che le melme grigie siano il risultato di un esperimento alchemico fallito, mentre altri teorizzano che le prime melme grigie siano nate spontaneamente da un pozzo di detriti magici. Naturalmente, queste teorie che non le considerano organismi viventi, bensì il risultato di una sfortunata mistura di fluidi caustici e residui magici, sono derisi da chi vive nelle zone infestate da queste creature, che non hanno una storia di inquinamento magico.
@@ -30196,14 +29774,13 @@ Il protoplasma nero può divorare legno o metallo non magico dello spessore di 5
 
 **Reazioni*Divisione.*** Quando un protoplasma nero di taglia Media o più grande subisce danni da elettricità o taglienti, si divide in due nuovi protoplasma neri di almeno 10 Punti Ferita ciascuno. Ogni nuovo protoplasma nero ha un numero di Punti Ferita pari alla metà del protoplasma nero originale, arrotondati per difetto. I nuovi protoplasmi neri sono di una taglia più piccola di quella originale.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi sotterraneo |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 I protoplasmi neri sono gli spazzini del mondo sotterraneo, costantemente alla ricerca di cibo. Possono percepire corpi organici o metallici nel raggio di 18 metri e attaccano in modo istintivo tali oggetti o esseri finché non li dissolvono, o finché la melma non viene uccisa. Un protoplasma nero si riproduce staccando un pezzo del proprio corpo e formando un nuovo protoplasma più piccolo che raggiunge l'età adulta nel giro di un mese. Alcune tra le creature più intelligenti nel mondo sotterraneo usano i protoplasmi neri per smaltire in modo naturale la spazzatura, creando cave di pietra atte ad ospitare il protoplasma, per poi gettarvi i rifiuti organici o i nemici.
 
 ## Mimic
@@ -30237,11 +29814,11 @@ I protoplasmi neri sono gli spazzini del mondo sotterraneo, costantemente alla r
 **Ecologia**
 
 | Ambiente: Qualsiasi |
-| --- |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Accidentale (A) |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale (A)
-**Descrizione**
 Si ritiene che i mimic siano il risultato del tentativo di un alchimista di dar vita ad un oggetto inanimato attraverso l'applicazione di un reagente mistico, la cui formula è andata perduta. Nel corso degli anni, queste creature strane ma intelligenti hanno appreso la capacità di trasformarsi in simulacri degli oggetti manufatti, in particolare nei luoghi frequentati poco da un ristretto numero di creature, dove aumentano le loro probabilità di successo con un attacco alle loro vittime.
 
 Anche se i mimic non sono intrinsecamente malvagi, alcuni saggi suggeriscono che attacchino gli uomini e le altre creature intelligenti più per passatempo che per sfamarsi. Il desiderio di ingannare gli altri è parte del loro essere e i loro attacchi a sorpresa rappresentano il culmine di questo desiderio.
@@ -30273,14 +29850,13 @@ Un tipico mimic ha un volume di 2 metri cubi (1 m per 1 m per 2 m) e pesa circa 
 
 *Colpisce:* 13 (2d8 + 4) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Rovine Temperate e Sotterranei |
+| **Ecologia** |
 | --- |
+| Ambiente: Rovine Temperate e Sotterranei |
 | Organizzazione: Solitario, coppia o gruppo (3-4) |
+| **Categoria Tesoro**: Ascia Bipenne, O +1 pozione |
+| **Descrizione** |
 
-**Categoria Tesoro**: Ascia Bipenne, O +1 pozione
-**Descrizione**
 Disprezzati dalle razze civilizzate e creati secoli fa da una maledizione divina, i minotauri cacciano, uccidono e divorano gli umanoidi per punire offese vere o presunte, da tempi immemorabili. La maggior parte delle culture ha leggende su come furono creati da divinità vendicative che punirono gli umani deformando le loro sembianze, togliendo loro bellezza e intelligenza, e dotandoli di teste di toro. Tuttavia, i minotauri moderni disprezzano queste leggende, ritenendosi modelli di perfezione divina creati dal signore dei demoni Baphomet.
 
 I nascondigli tradizionali dei minotauri sono i labirinti, sia costruiti sia naturali. Usano la loro astuzia per scoraggiare i nemici incauti che si perdono nei loro nascondigli. Solo quando la disperazione ha preso il sopravvento, il minotauro colpisce le sue vittime. Spesso lasciano scappare una creatura per diffondere il terrore e attirare altri nel loro labirinto, che considerano deliziosi pasti.
@@ -30380,11 +29956,11 @@ La mummia sovrana può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seg
 **Ecologia**
 
 | Ambiente: Qualsiasi |
-| --- |
 | Organizzazione: Solitario, Gruppo (3-6) o Mausoleo (7-12) |
+| **Categoria Tesoro**: T + U |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: T + U
-**Descrizione**
 Molte culture praticano l'arte sacra della mummificazione, anche se le sinistre tecniche magiche utilizzate per infondere ai cadaveri la vitalità dei non morti sono molto meno comuni. In alcune terre antiche, tali tecniche blasfeme sono state affinate attraverso secoli di cerimonie e innumerevoli morti, risultando in mummie di terribile potere. In rare occasioni, se il defunto era di rango elevato ed eccessiva malvagità, poteva sottoporsi a rituali così elaborati, risorgendo dalla tomba come un temibile signore mummia. Allo stesso modo, un sovrano noto per la sua malizia o morto in un momento di grande rabbia potrebbe presentarsi spontaneamente come un despota vendicativo. Indipendentemente dalle circostanze esatte della sua risurrezione, una mummia sovrana conserva le capacità che aveva in vita, diventando una creatura consumata dal desiderio di ripristinare il suo dominio e governare sia i vivi che i morti.
 
 ## Naga Guardiano
@@ -30427,14 +30003,13 @@ livello 6 (1 slot): *Visione del Vero*
 
 **Reazione: *Attacco d'opportunità***: il naga effettua un attacco di sputo ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
-**Ecologia**
-
-| Ambiente: Pianure Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Pianure Temperate |
 | Organizzazione: Solitario, coppia o nido (3-6) |
+| **Categoria Tesoro**: R |
+| **Descrizione** |
 
-**Categoria Tesoro**: R
-**Descrizione**
 Sebbene abbiano un aspetto feroce, con scaglie brillanti, cappucci simili a quelli dei cobra e potenti corpi serpentini, i naga guardiani fungono da coscienziosi protettori di luoghi di eccezionale potere e sacralità. Spesso le loro scaglie sfoggiano disegni elaborati simili a quelli degli esotici serpenti della giungla. Un tipico naga guardiano raggiunge la lunghezza di 4,2 metri e un peso approssimativo di 175 kg.
 
 Mentre alcuni naga guardiani aderiscono a pratiche esotiche di divinità antiche o dimenticate, altri sono semplicemente attratti da siti dalla spiccata bellezza naturale, quali templi su imponenti cascate, pinnacoli naturali e cime di montagne, custodendoli con il massimo della reverenza e del senso del dovere. Spesso questi naga si uniscono a fedi ancora attive, servendo come protettori di santuari o antichi tesori. Una coppia di naga può stabilirsi nei pressi di un sito che ritengono meritevole di protezione, covandovi una nidiata e crescendovi la prole. Quando i giovani raggiungono l'età adulta, possono scegliere di partire per cercare la propria casa o rimanere a proteggere la zona sorvegliata dai loro genitori. A volte, un naga guardiano che custodisce delle rovine od un tempio è solo l'ultimo di una successione di sentinelle che si sono avvicendate nel corso dei secoli. Queste sentinelle spesso prendono lo stesso nome dei loro predecessori sembrando un unico individuo eccezionalmente longevo.
@@ -30500,14 +30075,13 @@ perforanti quando ingrandito.
 
 ***Invisibilità (Ricarica dopo un 1 ora).*** Il Nano Oscuro diventa magicamente invisibile al massimo per un'ora o finché non attacca, lancia un incantesimo, usa Ingrandire o la sua concentrazione viene spezzata. Tutto l'equipaggiamento che il Nano Oscuro indossa o trasporta diventa invisibile assieme a lui.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi sotterraneo |
 | Organizzazione: solitario, gruppo (2-5), squadra (6-12 più 3 sergenti di 3° livello e 1 capo di 3°-8° livello), o clan (13-80 più 25\% di bambini non combattenti più 1 sergente di 3° livello ogni 5 adulti, 3-6 tenenti di 3°-6° livello, e 1-4 capitani di 9° livello) |
+| **Categoria Tesoro**: equipaggiamento da PNG (Cotta di Maglia, Scudo Pesante di Metallo, Martello da Guerra, Balestra Leggera con 20 Quadrelli, 3d6 mo) |
+| **Descrizione** |
 
-**Categoria Tesoro**: equipaggiamento da PNG (Cotta di Maglia, Scudo Pesante di Metallo, Martello da Guerra, Balestra Leggera con 20 Quadrelli, 3d6 mo)
-**Descrizione**
 Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal pessimo carattere che odiano gli intrusi nei loro reami sotterranei, ma mai più dei Nani. Vivono in comunità nelle profondità del sottosuolo. Hanno pelle grigio opaco, come fosse sporca di polvere o cenere, ma questa tonalità naturale permette di mimetizzarsi meglio nelle zone sotterranee. Sono una Razza di schiavisti, ma mentre costringono i prigionieri non Nani a lavori massacranti, uccidono senza remore i Nani catturati. In combattimento, i Nani Oscuro tirano di balestra, e poi passano al Martello da Guerra qualche round dopo. Se in inferiorità numerica, o se c'è un pericolo (e spazio) adeguato, un Nano Oscuro userà la sua capacità Ingrandire ed attaccherà.
 
 ## Armatura Animata
@@ -30589,14 +30163,13 @@ Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal p
 
 *Colpisce:* 11 (2d6 + 4) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Colline fredde o temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline fredde o temperate |
 | Organizzazione: Solitario, coppia, gruppo (3-4) o famiglia (5-16) |
+| **Categoria Tesoro**: Armatura di Pelle, Randello Pesante, 4 Giavellotti, J |
+| **Descrizione** |
 
-**Categoria Tesoro**: Armatura di Pelle, Randello Pesante, 4 Giavellotti, J
-**Descrizione**
 Nelle storie riguardanti gli ogre ci sono elementi orrendi: brutalità e ferocia, cannibalismo e tortura. Poi stupri, smembramenti, necrofilia, incesto, mutilazioni e altri esempi di crudeltà. Coloro che non hanno mai incontrato gli ogre ritengono queste storie un avvertimento. Chi è sopravvissuto ad un simile incontro sa che le storie sono niente in confronto alla realtà.
 
 Gli ogre godono della sofferenza altrui.
@@ -30647,14 +30220,13 @@ Se un umanoide non malvagio muore a causa di questo attacco, entro 1d4 ore dal s
 
 ***Rubare l'ombra.*** Se l'ombra ha già colpito due volte con Risucchio di Forza usando una Azione ruba l'ombra dell'avversario. Rubare l'ombra concede 10 Punti Ferita Temporanei all'ombra. La creatura recupera l'ombra all'alba successiva.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario, coppia, gruppo (3-6) o sciame (7-12) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 La malvagia ombra si muove lungo il confine tra il buio delle tenebre e la dura verità della luce. L'ombra preferisce infestare le rovine che la civiltà si lascia alle spalle, dove dà la caccia alle creature viventi tanto sciocche da incappare nel suo territorio. L'ombra è un orribile non morto, e come tale non ha scopi o motivazioni apparenti oltre a risucchiare forza vitale e vitalità dagli esseri viventi.
 
 ## Omuncolo
@@ -30733,14 +30305,13 @@ A volontà: *Invisibilità, Oscurità*
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Colline e montagne temperate o sotterranei |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline e montagne temperate o sotterranei |
 | Organizzazione: solitario, gruppo (2-4), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o banda |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Spada, 4 Giavellotti, M) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Spada, 4 Giavellotti, M)
-**Descrizione**
 Gli orchetti sono una razza creata da Cattalm come esperimento con lo scopo di verificare se una creatura più intelligente ma altrettanto feroce degli orchi avrebbe potuto essere dominante.
 L'esperimento è stato un discreto successo con gli orchetti che hanno fondato regni e conquistato diverse regioni. La spinta caotica con il passare del tempo, l'acculturamento, il diventare stanziali e l'evoluzione della società ha portato gli orchetti sempre più fuori dalle spire di Cattalm, anche se non toglie che molti aspetti barbari sono rimasti nella cultura tradizionale.
 Un orchetti maschio adulto è alto 1,6 metri e pesa circa 60 kg. Caratteristica peculiare è il volto ed il naso in particolar modo da maiale. Gli orchetti e gli umani possono generare figli.
@@ -30768,14 +30339,13 @@ Un orchetti maschio adulto è alto 1,6 metri e pesa circa 60 kg. Caratteristica 
 
 *Colpisce:* 6 (1d6 + 3) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Colline e montagne temperate o sotterranei |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline e montagne temperate o sotterranei |
 | Organizzazione: solitario, gruppo (2-4), squadra (11-20 più 2 sergenti di 3° livello e 1 capo di 3°-6° livello) o banda |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Falcione, 4 Giavellotti, K) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Falcione, 4 Giavellotti, K)
-**Descrizione**
 La differenza principale fra gli orchi e gli umanoidi civilizzati, oltre alla loro forza bruta ed all'intelligenza inferiore, è il loro carattere. Come cultura, gli orchi sono violenti ed aggressivi, ed il forte domina il debole attraverso paura e brutalità. Prendono ciò che vogliono con la forza e non si fanno scrupoli a prendere interi villaggi come schiavi se ne hanno la possibilità. Non si curano delle comodità, ed i loro villaggi e campi tendono ad essere luoghi sporchi e precari, pieni di risse fra ubriachi, arene per i combattimenti ed altri divertimenti sadici. Privi della pazienza necessaria a coltivare e capaci di allevare solo gli animali più robusti ed autosufficienti, gli orchi ritengono più semplice prendere agli altri il frutto del loro lavoro. Sono arroganti e lesti ad infuriarsi quando sfidati, ma si preoccupano dell'onore solo finché farlo porta loro beneficio.
 
 Un orco maschio adulto è alto 2 metri e pesa circa 115 kg. Gli orchi e gli umani possono accoppiarsi, anche se di solito ciò avviene durante le razzie, e non come unione consensuale. Molte tribù orchesche allevano i mezzorchi di proposito, dato che sono ottimi strateghi e capitribù.
@@ -30800,13 +30370,16 @@ Per quanto la vulgata dica che gli orchi siano stati creati da Cattalm per distr
 
 *Colpisce:* 10 (2d6 + 4) danni perforanti, 1 danno da Sanguinamento.
 
-**EcologiaAmbiente: Sottosuolo**
-
-| Organizzazione: Solitario, coppia o branco (3-8) |
+| **Ecologia** |
 | --- |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
+**Ambiente: Sottosuolo**
+
+| Organizzazione: Solitario, coppia o branco (3-8) |
+| **Categoria Tesoro**: Accidentale |
+| --- |
+| **Descrizione** |
+
 L'Orrore Arrampicamuri è un feroce predatore del sottosuolo, difende aggressivamente i suoi territori di caccia. Le caverne sotterranee in cui queste creature risiedono rimbombano dei colpi e dei fruscii dei loro uncini quando queste creature si arrampicano sulle rupi rocciose o sulle pareti delle caverne.
 
 Un Orrore Arrampicamuri è una creatura mostruosa apparentemente umanoide dalla testa simile a quella di un avvoltoio e dal torace di un enorme scarabeo, protetto da un esoscheletro tempestato di protuberanze ossee aguzze. Trae il suo nome oltre che dall'orrendo aspetto dal fatto che usando gli arti lunghi e muscolosi che terminano con dei micidiali artigli uncinati ricurvi stia arrampicato sulle pareti.
@@ -30838,13 +30411,16 @@ Gli Orrore Arrampicamuri comunicano colpendo il loro esoscheletro o le superfici
 
 *Colpisce:* 10 (1d10 + 5) danni perforanti.
 
-**EcologiaAmbiente: Foreste Temperate**
-
-| Organizzazione: Solitario, coppia o branco (3-8) |
+| **Ecologia** |
 | --- |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
+**Ambiente: Foreste Temperate**
+
+| Organizzazione: Solitario, coppia o branco (3-8) |
+| **Categoria Tesoro**: Accidentale |
+| --- |
+| **Descrizione** |
+
 Le origini dell'Orsogufo sono oggetto di dibattito fra gli studiosi delle creature mostruose. La maggior parte di essi concorda che fu un Mago, in passato, a crearne il primo esemplare unendo un orso con un gufo gigante; forse come esperimento su qualche folle concetto della natura della vita, ma più probabilmente a causa della sua totale pazzia. Quale che fosse lo scopo originale di una creazione tanto folle come l'Orsogufo, la creatura ha iniziato a riprodursi, ed è divenuta uno dei predatori più conosciuto delle zone boschive.
 
 Gli Orsogufo sono selvaggi predatori, noti per il loro pessimo temperamento, la loro aggressività e la loro ferocia. Tendono ad attaccare tutto ciò che si muove loro davanti, anche se questo non mostra intenzioni bellicose. Molti studiosi che hanno incontrato queste creature nelle terre selvagge hanno notato che hanno sempre occhi iniettati di sangue che ruotano tutto attorno poco prima di un attacco. Questo è generalmente visto come segno di follia, che suggerisce che tutti gli Orsogufo nascano con un bisogno patologico di combattere ed uccidere, ma i ricercatori più realisti ritengono sia dovuto alla struttura dei loro occhi acuti.
@@ -30855,7 +30431,9 @@ Gli Orsogufo adulti vivono in coppia e cacciano le prede in branco, lasciando i 
 
 Anche se è pressoché impossibile addomesticarli a causa della loro natura selvaggia, gli Orsogufo possono essere sfruttati come guardiani di un territorio specifico, sempre che vengano lasciati liberi di spostarsi al suo interno per cacciare. Gli addestratori professionisti chiedono fino a 2000 mo per addestrare un Orsogufo perché diventi un guardiano che obbedisca a comandi semplici (DC 23 per un cucciolo di Orsogufo, DC 30 per un Orsogufo adulto).
 
-***Variante***: **Orsogufo Polare**
+| ***Variante***: **Orsogufo Polare** |
+| --- |
+
 Questo Orsogufo è presente nelle regioni artiche o montane innevate. A differenza del normale Orsogufo è più robusto e forte. Ha 85 Punti Ferita, +10 al colpire, 21 di danno ad artiglio +1 da Sanguinamento, 15 di danno con becco. GS 4
 
 ## Orsogufo Saggio
@@ -30885,13 +30463,16 @@ A volontà: *Mano Magica, Comprensione degli Scritti*
 
 *Colpisce:* 10 (1d10 + 5) danni perforanti.
 
-**EcologiaAmbiente: Foreste Temperate**
-
-| Organizzazione: Solitario, coppia o branco (3-8) |
+| **Ecologia** |
 | --- |
 
-**Categoria Tesoro**: E + T
-**Descrizione**
+**Ambiente: Foreste Temperate**
+
+| Organizzazione: Solitario, coppia o branco (3-8) |
+| **Categoria Tesoro**: E + T |
+| --- |
+| **Descrizione** |
+
 Le origini dell'Orsogufo saggio sono misteriose quanto quelli del suo parente non saggio ma gli appassionati di queste creature li fanno discendere direttamente da Nethergal come variante dell'Orsogufo originale.
 Solitamente l'Orsogufo saggio ama circondarsi di libri ed adora la compagnia di altri saggi ma non disdegna i racconti di avventurieri e le avvincenti ballate dei cantastorie. L'Orsogufo saggio ha un vero talento per le lingue e pur non potendo parlare in maniera comprensibile ad un uomo riesce a comprendere tantissime lingue parlate e scritte. L'Orsogufo saggio è in grado di leggere qualsiasi lingua o codice se ha modo di studiarlo per 3 giorni.
 Solitamente più deboli e fragili del parente stretto sono comunque esseri temibili in combattimento.
@@ -30931,14 +30512,13 @@ Questa riduzione dei Punti Ferita massimi del personaggio perdura finché la mal
 
 ***Arrabbiato:*** l'otyugh emette un profumo che inebria i sensi. Tutte le creature nel raggio di 6 metri devono fare un Tiro Salvezza su Volontà DC 18 oppure agire in maniera casuale, come incantesimo Confusione (pag. ), fino alla fine del prossimo round. Costa 2 Azioni.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi Sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi Sotterraneo |
 | Organizzazione: Solitario, coppia o gruppo (3-4) |
+| **Categoria Tesoro**: I |
+| **Descrizione** |
 
-**Categoria Tesoro**: I
-**Descrizione**
 Gli otyugh sono creature particolarmente luride ed orride che vivono in luoghi che le persone sane di mente tendono ad evitare. Le loro tane si trovano nelle fogne, nei pozzi neri, nelle discariche e nelle paludi più mefitiche: più un luogo è sporco, più attira gli otyugh. Amano il ruolo dello spazzino e vagano per le caverne sotterranee in cerca di nuovi bocconcini in mezzo ai rifiuti. Una volta trovati si ingozzano e riportano alla loro tana quello che non riescono a consumare in una volta sola. Gli otyugh passano parecchio tempo nelle loro luride tane, che riempiono di carogne e letame, che rilasciano effluvi mefitici.
 
 Le creature intelligenti che vivono nelle zone sotterranee vicino agli otyugh a volte formano alleanze di convenienza con essi. Forniscono loro rifiuti e carne cruda agli otyugh, rendendoli un vero e proprio mezzo di smaltimento. In cambio, gli otyugh lasciano in pace i loro benefattori, non li attaccano e possono anche fare da guardiani.
@@ -30987,14 +30567,13 @@ Un otyugh mangiando gli escrementi o parte di una creatura può capire quale mal
 
 ***Arrabbiato:*** il Panoptikhan in preda alla furia più cieca attiva 1d6 occhi a caso su bersagli a caso. Costa 3 Azioni.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi Sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi Sotterraneo |
 | Organizzazione: Solitario, coppia |
+| **Categoria Tesoro**: H |
+| **Descrizione** |
 
-**Categoria Tesoro**: H
-**Descrizione**
 I Panoptikhan sono aberrazioni xenofobe, palle di dura carne volante dotate di un grosso occhio centrale, una grande bocca e 7 tentacoli lunghi circa 1 metro ognuno dotato di un occhio (di circa 10 cm di diametro) di colore diverso.
 
 Poco si sa dell'origine dei Panoptikhan, si pensa che siano un esperimento evoluzionario di Calicante, nel tentativo di creare una razza senziente e dominante.
@@ -31020,11 +30599,11 @@ I Panoptikhan hanno una lunghissima vita, nell'ordine dei mille anni ma risultan
 **Ecologia**
 
 | Ambiente: Pianure Temperate e Calde |
-| --- |
 | Organizzazione: Solitario, coppia o branco (6-10) |
+| **Categoria Tesoro**: Nessuno |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Il pegaso è un magnifico cavallo alato che a volte serve la causa del bene. Seppur molto apprezzati come cavalcature volanti, i pegasi sono creature timide che difficilmente stringono amicizie. Un tipico pegaso è alto 1,8 metri al garrese, pesa 750 kg ed ha un'apertura alare di 6 metri. La maggior parte dei pegasi è bianca, ma a volte alcuni esemplari hanno colori diversi.
 
 Il pegaso, nonostante le apparenze, è intelligente quanto un umano. Chi cerca di addestrarne uno a fare da cavalcatura, scoprirà che il pegaso è ricalcitrante e perfino violento. Un pegaso non può parlare, ma capisce il Comune e preferisce la compagnia di creature buone. Il metodo corretto per convincere un pegaso a fare da cavalcatura è farselo amico con Diplomazia, favori e buone azioni. Un pegaso ha di norma atteggiamento indifferente verso le creature buone, maldisposto verso quelle neutrali ed ostile verso quelle malvagie. Prima che possa servire come cavalcatura, un pegaso deve essere reso amichevole tramite una prova di Diplomazia o in altro modo. Cavalcare un pegaso richiede una sella esotica o Cavalcare a pelo, dato che una sella normale interferisce con le sue ali. Un pegaso può combattere portando un cavaliere, ma il cavaliere non può attaccare a sua volta se non supera una prova di Cavalcare. I pegasi addestrati non temono il combattimento ed il cavaliere non deve effettuare una prova di Cavalcare per controllarlo.
@@ -31069,14 +30648,13 @@ Pegasi ed Unicorni sono stati salvati dalla furia di Calicante verso i *cavalli*
 
 ***Arrabbiato:*** il Persecutore Invisibile rompe il patto e torna nel piano elementale dell'aria.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Originarie del Piano dell'Aria, queste creature si muovono nel mondo seguendo gli incarichi per coloro che le evocano. I cacciatori invisibili agiscono solitamente come guardiani e assassini. L'invisibilità naturale e la furtività permettono loro di seguire la preda senza essere visti e li avvantaggiano quando decidono di eliminare un bersaglio.
 
 Molti cacciatori invisibili però considerano questi compiti come misere richieste da parte dei mortali. Se viene assegnato loro un compito particolarmente complesso o sgradito, un cacciatore invisibile cercherà di trovare una scappatoia se l'istruzione è formulata in modo scarno. Per esempio, i Maghi che richiamano un cacciatore invisibile con l'istruzione "proteggimi dal pericolo" potrebbero venire scortati in un lontano luogo nascosto, o addirittura portati sul Piano dell'Aria.
@@ -31108,14 +30686,13 @@ A causa delle continue evocazioni, molti cacciatori invisibili avversano gli abi
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 11 o essere Confuso per 1 round. Se il Tiro Salvezza fallisce criticamente la creatura cade addormentata finché non risvegliata.
 
-**Ecologia**
-
-| Ambiente: Foreste temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Foreste temperate |
 | Organizzazione: Solitario, coppia o nido (3-5) |
+| **Categoria Tesoro**: R |
+| **Descrizione** |
 
-**Categoria Tesoro**: R
-**Descrizione**
 Gli pseudodraghi sono piccoli parenti dei veri draghi, giocosi e timidi. Parlano cinguettando, sibilando, ringhiando e facendo le fusa, ma possono comunicare telepaticamente con qualsiasi creatura intelligente. Se avvicinati pacificamente con offerte di cibo, sono disposti a condividere informazioni su quanto si trova nel loro territorio, ma minacce e violenza li fanno fuggire.
 
 Gli pseudodraghi sono carnivori e mangiano insetti, roditori, uccellini e serpenti, anche se mangiano uova ed amano burro, formaggio e pesce. A volte cacciano a terra come le lucertole o volando come gli uccelli predatori. Intelligenti come la maggior parte degli umanoidi, non amano essere trattati come animali domestici, e preferiscono essere considerati amici. Diffidano delle creature malvagie, possono unirsi a incantatori e Devoti come Famigli e alcuni hanno stretto amicizia con Druidi e guardiaboschi o collaborano con i draghi buoni come sentinelle. Gli pseudodraghi diventano Famigli solo se apprezzano la personalità dell'incantatore (e se questi ha l'Abilità Famiglio e Carisma almeno 1), ma possono anche legarsi a persone delle quali apprezzano la compagnia. Uno pseudodrago potrebbe seguire in questo modo un personaggio per giorni, settimane, anni o perfino per tutta la vita, posto che siano ben nutriti e trattati con affetto.
@@ -31153,11 +30730,11 @@ A volontà: *Camuffare Sé Stesso, Illusione Minore, Individuazione dei Pensieri
 **Ecologia**
 
 | Ambiente: Qualsiasi |
-| --- |
 | Organizzazione: Solitario, coppia o culto (3-12) |
+| **Categoria Tesoro**: Pugnale+1, I |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Pugnale+1, I
-**Descrizione**
 Il rakshasa è uno spirito maligno che si traveste da creatura umanoide così da poter seguire la sua preda in incognito. Personificazione dei tabù della maggioranza delle società e capace di assumere l'aspetto di quelli che cerca di corrompere, un rakshasa compie moltissime azioni orribili. Se fossero umani, la loro blasfemia, il cannibalismo e gli atti ancora peggiori che compiono li marchierebbero come criminali meritevoli del più crudele degli inferni.
 
 Quando non ha un altro aspetto, il rakshasa appare come un umanoide con la testa di un animale. Spesso ha il capo di un grosso felino (come tigri o pantere) o serpente (quali cobra o vipere) e, seppur sia più raro, può avere testa di gorilla, sciacallo, avvoltoio, elefante, mantide, lucertola, rinoceronte, cinghiale e molte altre ancora. In molti casi, il tipo di testa posseduta da un rakshasa dice qualcosa della sua personalità: un rakshasa dalla testa di tigre è furtivo e famelico, mentre uno con la testa di cinghiale può essere ghiotto e crudele. Queste differenze raramente incidono sulle statistiche base del rakshasa, anche se esistono varianti più potenti della standard con molteplici teste, poteri magici più potenti, e strane e letali capacità speciali aggiuntive.
@@ -31200,14 +30777,13 @@ Un rakshasa è alto 1,8 metri e pesa 90 kg.
 
 ***Tartaruga triste***: con una prova di Atletica DC 24 è possibile ribaltare sottosopra il razziamorti che non è più in grado di ribaltarsi da solo. In questa circostanza il razziamorti ha -1d6 a tutti i Tiri per Colpire.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi, caverne |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi, caverne |
 | Organizzazione: 1-2 Razziamorti, 1d4+1 guardiani |
+| **Categoria Tesoro**: Quanto raccolto (C + R) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Quanto raccolto (C + R)
-**Descrizione**
 I Razziamorti sono dei particolari non morti costruiti da pezzi di vario cadavere e pezzi di ferro perché assomiglino a delle specie di grossi granchi corazzati.
 Il dorso, completamente metallico, funge da contenitore per i tesori che il Razziamorti trova, le chele, in numero variabile tra le 6 ed 8 sono lunghe poco più di un metro ed hanno la caratteristica di lasciare ognuna una impronta diversa essendo assemblate da pezzi di metallo e corpi diversi.
 
@@ -31238,14 +30814,13 @@ Se il remorhaz subisce 30 o più danni in un singolo round da una creatura al su
 
 ***Arrabbiato:*** il Remorhaz scalda ancora di più il suo corpo fino alla fine del combattimento portanto a 18 (6d6) il danno da fuoco per chi è entro 1 metro.
 
-**Ecologia**
-
-| Ambiente: Deserti Freddi e Ghiacciai |
+| **Ecologia** |
 | --- |
+| Ambiente: Deserti Freddi e Ghiacciai |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 In un mondo di ghiaccio e neve, i remorhaz sono particolarmente temuti per il terribile fuoco che brucia dentro i loro corpi. Questo fuoco interiore fa sì che le piastre lungo il suo dorso divengano roventi quando la creatura è particolarmente arrabbiata, eccitata o nel panico. Le creature che si sono adattate alle regioni artiche spesso sono particolarmente vulnerabili al fuoco, il che rende la principale difesa del remorhaz incredibilmente potente e gli assicura il ruolo di pericoloso predatore delle zone ghiacciate. I remorhaz vivono in estesi labirinti scavati nel cuore dei ghiacciai. Queste bestie usano il loro calore per scavare tunnel nel ghiaccio, tunnel le cui lisce pareti vitree si ricongelano rapidamente lungo la loro scia creando numerosi dedali incredibilmente stabili.
 
 Intelligenti nonostante l'apparenza, i remorhaz capiscono il linguaggio dei Giganti e spesso formano alleanze con loro. I Giganti del Gelo li usano come armi contro i nemici, mentre altri giganti li sfruttano come forge viventi. Un remorhaz misura 7 metri di lunghezza e pesa 5000 kg.
@@ -31274,11 +30849,11 @@ Se l'oggetto con cui entra in contatto è un'armatura o scudo di metallo indossa
 **Ecologia**
 
 | Ambiente: Qualsiasi Sotterraneo |
-| --- |
 | Organizzazione: Solitario, coppia o nido (3-10) |
+| **Categoria Tesoro**: Accidentale (nessun tesoro di metallo) |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale (nessun tesoro di metallo)
-**Descrizione**
 Di tutte le bestie terrificanti che un esploratore può incontrare nel sottosuolo, il rugginofago è l'unico a mirare al tesoro dell'avventuriero. Lungo circa un metro e pesante almeno 100 kg, il rugginofago somiglia a un crostaceo, e il suo processo nutritivo alieno lo rende ancora più spaventoso.
 
 I rugginofagi divorano oggetti di metallo, preferendo ferro e acciaio, ma consumano anche mithral, adamantio e metalli incantati con facilità. Qualsiasi metallo toccato dalle loro antenne o dalla pelle corazzata si corrode e si riduce in polvere in pochi secondi, rendendoli temuti dagli avventurieri e dai nani minatori.
@@ -31318,14 +30893,16 @@ Fortunatamente, è spesso possibile sfuggire alle attenzioni di un rugginofago l
 
 *Colpisce:* 3 (1d4 + 1) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Oceani Temperati o Caldi |
+| **Ecologia** |
 | --- |
+| Ambiente: Oceani Temperati o Caldi |
 
 Organizzazione: Solitario, coppia, squadra (5-8), pattuglia (11-20 più 1 tenente di 3° livello e 1-2 Squali), banda (20-80 più 100\% non combattenti, 1 tenente di 3° livello e 1 capitano di 4° livello ogni 20 adulti, e 1-2 Squali) o tribù (70-160 più 100\% non combattenti, 1 tenente di 3° livello ogni 20 adulti, 1 capitano di 4° livello ogni 40 adulti, 9 guardie di 4° livello, 1-4 novizie di 3°-6° livello, 1 sacerdotessa di 7° livello, 1 barone di 6°-8° livello, e 5-8 Squali)
-**Categoria Tesoro**: Equipaggiamento da PNG (Tridente, Balestra Pesante con 10 Quadrelli, L)
-**Descrizione**
+
+| **Categoria Tesoro**: Equipaggiamento da PNG (Tridente, Balestra Pesante con 10 Quadrelli, L) |
+| --- |
+| **Descrizione** |
+
 Famelici e crudeli, i sahuagin sono, sfortunatamente, tra le razze oceaniche più prosperose. Grandi città sono state costruite da questa razza nelle buie profondità delle fosse oceaniche, e alcune fortezze sorgono nei pressi delle coste da dove lanciano assalti continui contro i nemici che respirano aria che vivono vicino alla riva. Orgogliosi e bellicosi, i sahuagin si alleano raramente con altri, e vedono le altre razze acquatiche, come aboleth, marinidi e simili come concorrenti. Le sole creature che sembrano rispettare oltre ai loro simili sono gli squali; in questi implacabili predatori, infatti, i sahuagin rivedono molto di loro stessi. Un sahuagin è alto 2,1 metro e pesa circa 125 kg.
 
 I sahuagin sono soggetti a mutazioni genetiche e quando nasce un mutante assurge quasi sempre ai ranghi nobiliari o di comando nella società. La mutazione sahuagin più comune consiste in un paio di braccia extra (che concedono due attacchi addizionali con gli artigli o la possibilità di maneggiare più armi). Alcuni parlano dei rari malenti sahuagin che non sembrano uomini squalo ma elfi acquatici, malgrado condividano la sete di sangue e la natura crudele dei loro simili. I malenti spesso servono come spie o assassini i governanti sahuagin, ma si narra di intere tribù composte di malenti in remote zone del mare.
@@ -31362,11 +30939,11 @@ I sahuagin sono soggetti a mutazioni genetiche e quando nasce un mutante assurge
 **Ecologia**
 
 | Ambiente: Qualsiasi (Piano del Fuoco) |
-| --- |
 | Organizzazione: Solitario, coppia o gruppo (3-5) |
+| **Categoria Tesoro**: Standard (Lancia, P) |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Standard (Lancia, P)
-**Descrizione**
 Le Salamandre sono native del Piano del Fuoco, dove le loro legioni di fieri combattenti sono molto temute dagli altri abitanti del Piano. Poiché molte delle più forti Razze Elementali del Fuoco Schiavizzano le Salamandre per la loro Abilità nella metallurgia e capacità combattiva, le Salamandre odiano gli Efreet e gli altri con fervore.
 
 Anche se i loro nascondigli superano i 250 gradi C di temperatura, le Salamandre possono tollerare temperature più basse. Generalmente lo fanno se costrette, e sono anche più burbere e irascibili del normale in questi ambienti. Sebbene provenga dal Piano del Fuoco, la Razza delle Salamandre si identifica di più con l'Abisso, e ha un grande rispetto per i Demoni (in particolare quelli associati col fuoco, come i Balor e certi Signori dei Demoni legati alle fiamme). Per questo non è insolito incontrare un grosso gruppo di Salamandre nell'Abisso.
@@ -31399,14 +30976,13 @@ Abitando zone così estreme, le Salamandre posseggono solo tesori che resistono 
 
 *Colpisce:* 6 (1d6 + 3) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Foreste Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Foreste Temperate |
 | Organizzazione: Solitario, coppia, banda (3-6) o festino (7-11) |
+| **Categoria Tesoro**: Pugnale, Arco Corto più 20 Frecce, flauto di pan perfetto, S |
+| **Descrizione** |
 
-**Categoria Tesoro**: Pugnale, Arco Corto più 20 Frecce, flauto di pan perfetto, S
-**Descrizione**
 I satiri, conosciuti in molte regioni come fauni, sono creature debosciate ed edoniste delle parti più profonde e primordiali delle foreste. Adorano il vino, la musica e i piaceri della carne, sono rinomati come libertini e bellimbusti che corteggiano le fanciulle sprovvedute e i pastorelli e si lasciano dietro una scia di spiegazioni imbarazzanti e gravidanze indesiderate.
 
 Anche se i loro corpi sono quasi sempre quelli di uomini attraenti e ben proporzionati, le capacità seduttive dei satiri risiedono nel loro talento musicale. Con l'aiuto del suo flauto, un satiro è capace di tessere una vasta gamma di incantesimi melodici ideati per affascinare gli altri e farli accondiscendere ai suoi capricciosi desideri.
@@ -31436,14 +31012,13 @@ I bambini nati da questi incontri sono sempre satiri di sangue puro e vengono ge
 
 ***Arco Corto.** Attacco con arma a Distanza*: +4 a colpire, gittata 24m, un bersaglio.*Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Qualsiasi |
+| **Categoria Tesoro**: Nessuno (Giaco di Maglia Rotto, Scimitarra Rotta) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno (Giaco di Maglia Rotto, Scimitarra Rotta)
-**Descrizione**
 Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrileghe. Per la maggior parte, gli scheletri sono automi privi di volontà.
 
 ## Scheletro Campione
@@ -31567,14 +31142,13 @@ La sfinge può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 
 ***Arrabbiato:*** la Sfinge pone un indovinello. La creatura deve rispondere, usando tutte le sue azioni ed una risposta a round, entro 6 round, se sbaglia o non risponde deve effettuare un Tiro Salvezza su Volontà a DC 31 oppure rimanere paralizzata. Ogni round può tentare di nuovo il Tiro Salvezza nel tentativo di dare una risposta. Costa 1 Azione.
 
-**Ecologia**
-
-| Ambiente: Colline o Deserti Caldi |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline o Deserti Caldi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: C |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Le androsfingi, le più potenti tra le sfingi comuni, ritengono di rappresentare tutto ciò che c'è di degno e nobile nella loro specie e si atteggiano come se il peso del mondo intero poggiasse sul loro buon esempio. Guardano le Criosfingi con sufficienza paternalistica, le Ieracosfingi con malcelato disgusto e le Ginosfingi come le uniche altre sfingi degne del loro tempo.
 
 Le androsfingi ostentano una facciata scorbutica e astiosa nei confronti degli stranieri. Non si sforzano in alcun modo di celare il loro fastidio quando sono irritate. Tendono inoltre a essere gelose del loro territorio, anche se meno delle altre sfingi. Quasi inevitabilmente lanciano avvertimenti e proclami roboanti prima di attaccare, e rispettano quasi sempre un appello a trattare. Le androsfingi barattano informazioni e conversazioni, e non tesori, in cambio di un passaggio sicuro.
@@ -31631,11 +31205,11 @@ La sfinge può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 **Ecologia**
 
 | Ambiente: Deserti e colline caldi |
-| --- |
 | Organizzazione: Solitario, coppia o culto (3-6) |
+| **Categoria Tesoro**: C |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: C
-**Descrizione**
 Anche se esistono diversi tipi di sfinge, quella alla quale gli studiosi si riferiscono come Ginosfinge (un nome che molte sfingi trovano offensivo) è una creatura saggia e maestosa ma al contempo terrificante se arrabbiata. Meno moraliste delle loro controparti maschili (le Androsfingi, creature totalmente differenti da quella presentata qui), le sfingi sono prudenti e metodiche quando prendono delle decisioni, e sono orgogliose della loro fredda logica e della loro imparzialità.
 
 Hanno poca pazienza con le varianti inferiori di sfingi, considerandole poco più che animali.
@@ -31668,14 +31242,13 @@ Una tipica sfinge è lunga 3 metri e pesa circa 400 kg. Anche se le loro ali pos
 
 **ReazioniReazione: *Atterrare***: quando il Sibilante è attaccato da una creatura nella portata della sua coda questa viene sferzata obbligando l'attaccante, dopo la risoluzione del suo attacco, ad effettuare un Tiro Salvezza su Tempra o Riflessi a DC 14 o subire 7 (2d6) di danni contundenti e cadere prono. Se il Tiro Salvezza riesce subisco solo metà danno e non è prona.
 
-**Ecologia**
-
-| Ambiente: Caverne |
+| **Ecologia** |
 | --- |
+| Ambiente: Caverne |
 | Organizzazione: Solitario, coppia o nido (2-4) |
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 I Sibilanti, chiamati così per via del rumore che fa la loro coda agitandosi è una creatura molto particolare. Assomiglia a prima vista ad un coccodrillo, lungo circa 5 metri di cui 4 di coda ma ha 8 zampe ed il muso corto e appiattito. La coda estremamente robusta finisce con una specie di uncino che il Sibilante usa per colpire, uccidere ed afferrare i nemici quasi fosse una zampa aggiuntiva.
 
 Di colore grigio scuro, marrone, preferiscono nascondersi nell'oscurità ed attaccare quando affamati o per difendere il loro territorio. Cercano di tenere le distanze in combattimento e se gravemente feriti scappano arrampicandosi sulle pareti.
@@ -31701,14 +31274,13 @@ Di colore grigio scuro, marrone, preferiscono nascondersi nell'oscurità ed atta
 
 *Colpisce:* 10 danni (3d6) da Vuoto. La creatura perde il medesimo ammontare dai Punti Ferita Massimi. Lo spettro recupera 2 Punti Ferita.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: nessuno
-**Descrizione**
 Gli spettri sono non morti malvagi che odiano la luce del sole e gli esseri viventi. La loro genesi è spesso dovuta alla morte violenta di assassini e malvagi. Come i fantasmi, gli spettri infestano i posti dove sono morti e cercano di portare altri con loro.
 
 Uno spettro assomiglia molto a come era in vita e può essere facilmente riconosciuto da coloro che conoscevano l’individuo o ne avevano visto il volto nei dipinti o nei disegni.
@@ -31736,7 +31308,10 @@ portata 1 m, un bersaglio.
 ***Invisibilità.*** Lo spiritello resta invisibile finché non attacca o termina la sua concentrazione. Qualsiasi cosa che lo spiritello stia trasportando o indossando resta invisibile finché rimane in contatto con lo spiritello.
 
 ***Vista del Cuore.*** Lo spiritello entra in contatto con una creatura e ne apprende l'attuale stato emotivo. Se il bersaglio fallisce un Tiro Salvezza di Tempra DC 10, lo spiritello apprende anche i Tratti della creatura. Celestiali, immondi e non morti falliscono automaticamente questo Tiro Salvezza.
-**Descrizione**
+
+| **Descrizione** |
+| --- |
+
 Gli spiritelli si riuniscono in gruppi nelle profondità di regioni boschive, uniti nella causa per proteggere la natura. Intere tribù di spiritelli si sono dichiarate protettrici di una determinata persona, di un luogo o di una creatura di particolare rilievo nelle loro terre, anche nel caso in cui l'essere non desideri o non necessiti di alcuna protezione.
 
 Il corpo di uno spiritello è luminoso per natura, sebbene la creatura possa variare il colore e l'intensità della luce emessa dal suo corpo a piacimento. Subito dopo la sua morte, il corpo di uno spiritello si dissolve in una nebbia luccicante. Gli spiritelli sono i più piccoli tra i folletti, alti poco più di 22 centimetri e di un peso che raramente supera 1 kg.
@@ -31763,11 +31338,11 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 **Ecologia**
 
 | Ambiente: Paludi temperate e calde |
-| --- |
 | Organizzazione: Solitario, colonia (2-4), stormo (5-8), nugolo (9-14) o sciame (15-40) |
+| **Categoria Tesoro**: Nessuno |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Gli strige sono pericolosi succhiasangue che infestano le paludi e predano animali selvatici, bestiame ed ignari viaggiatori. Pur essendo deboli individualmente, sciami di queste creature sono capaci di prosciugare un uomo in pochi minuti, lasciando dietro a loro solo un cadavere essiccato.
 
 più simili ai mammiferi che agli insetti, gli strige si alzano in volo con le loro quattro ali di carne, cercando prede a sangue caldo. Spesso si nascondono vicino a pozze di acqua bevibile aspettando che i viaggiatori abbassino la guardia per poi attaccarli e bere a sazietà, conficcando le loro proboscidi nelle vene scoperte. Dopo essersi nutriti, volano via a nascondersi tra la fanghiglia e tra i canneti per deporre le loro uova e riposare finché la fame non li spinge a cacciare di nuovo.
@@ -31829,14 +31404,13 @@ Il Tarrasque può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti
 
 **Muoversi.** Il Tarrasque si muove fino a metà del suo movimento.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Il leggendario Tarrasque è fra i mostri più distruttivi del mondo. Fortunatamente, passa la maggior parte del suo tempo in una specie di profondo letargo in una sconosciuta caverna in un remoto angolo del mondo. Quando si risveglia, però, muoiono interi regni.
 
 Pur non particolarmente intelligente, il Tarrasque è abbastanza intelligente da capire alcune parole nel linguaggio dei Patroni (pur non potendo parlare). Allo stesso modo, la furia non è incontrollata: si concentra sulla creatura che l'ha danneggiato maggiormente ed è difficile distrarlo con l'inganno.
@@ -31865,14 +31439,13 @@ a Volontà: *Produrre Fiamma*
 
 ***Esperto del fuoco.*** Costa 1 Azione lanciare il trucchetto Produrre Fiamma.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario, paio, pattuglia (2d4) |
+| **Categoria Tesoro**: nessuno |
+| **Descrizione**: |
 
-**Categoria Tesoro**: nessuno
-**Descrizione**:
 I Teschi Fiammeggianti sono creati dai cadaveri degli incantatori specializzati nella Lista di magia del Fuoco e della necromanzia.
 
 Usati come custodi e torce rappresentano spesso una prima linea di difesa nei dungeon.
@@ -31911,11 +31484,11 @@ Usati come custodi e torce rappresentano spesso una prima linea di difesa nei du
 **Ecologia**
 
 | Ambiente: Acquatico temperato |
-| --- |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: A |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: A
-**Descrizione**
 Le testuggini dragone sono creature delle acque dolci e salate, molto temute dai marinai. Sono noti per aspettarsi offerte in oro e magia dai marinai per un passaggio sicuro. Ignorare una testuggine dragona può renderla molto pericolosa.
 
 Il loro guscio varia di colore, da marrone e rosso ruggine a verde-blu con riflessi argentei. Le testuggini dragone capovolgono le navi che violano il loro territorio, accumulando ricchezze nei loro nascondigli subacquei. Vivono in caverne profonde e difendono aggressivamente il loro territorio, spesso in conflitto con altre razze sottomarine.
@@ -31941,26 +31514,23 @@ Si nutrono di grandi pesci e alghe marine, e non disdegnano i passeggeri delle n
 
 ***Ha ragione!*** Qualsiasi attacco effettuato dalla Topi è considerato magico +6 e non è resistibile o rigenerabile o curabile nelle prime 24 ore.
 
-**Azioni*Musetto*** ogni bersaglio a scelta di Topi, entro 30 metri, subisce un Musetto. Il bersaglio viene allontanato di 2d6 metri e subisce 3d6 danni
-***Morso topetto** Attacco con Arma da Mischia*: +26 al colpire, portata 0 m, un bersaglio.
-*Colpisce:* 6 danno perforante.
-***Graffiotto** fino a 4 Attacchi con Arma da Mischia*: colpisce  automaticamente, portata 0 m.
-*Colpisce:* 1 danno perforante.
-***Appoggia nasino** una creatura*. La Topi appoggia il nasino sulla creatura scelta e questa viene guarita da ogni malattia, condizione o ferita in essere.
-***Arrabbiato:*** la Topi fa quello che vuole (Desiderio illimitato). Costo 1 Reazione.
-**Azioni Aggiuntive**
-
+| **Azioni** |
+| --- |
+| ***Musetto*** ogni bersaglio a scelta di Topi, entro 30 metri, subisce un Musetto. Il bersaglio viene allontanato di 2d6 metri e subisce 3d6 danni |
+| ***Morso topetto** Attacco con Arma da Mischia*: +26 al colpire, portata 0 m, un bersaglio. |
+| *Colpisce:* 6 danno perforante. |
+| ***Graffiotto** fino a 4 Attacchi con Arma da Mischia*: colpisce  automaticamente, portata 0 m. |
+| *Colpisce:* 1 danno perforante. |
+| ***Appoggia nasino** una creatura*. La Topi appoggia il nasino sulla creatura scelta e questa viene guarita da ogni malattia, condizione o ferita in essere. |
+| ***Arrabbiato:*** la Topi fa quello che vuole (Desiderio illimitato). Costo 1 Reazione. |
+| **Azioni Aggiuntive** |
 | La Topi, come Patrono, può fare quante Azioni aggiuntive vuole tra tutte quelle segnate. Può usare Desiderio illimitato una volta a round. |
-| --- |
-
-**Ecologia**
-
+| **Ecologia** |
 | Ambiente: Ovunque, Mercati |
-| --- |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Speciale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Speciale
-**Descrizione**
 Potrebbe essere scambiata per una piccola topina bianca, ma La Topi è molto di più. Furba, intelligente, bellissima adora andare al mercato e comprare borsette.
 
 ## Torciascura
@@ -31976,21 +31546,21 @@ Potrebbe essere scambiata per una piccola topina bianca, ma La Topi è molto di 
 - **Linguaggi**: Comprende il Comune, ma non parla
 - **Sfida**: 4 (1100 PX)
 
-***Invisibile al buio.*** Un Torciascura è completamente invisibile finché è nell'oscurità
-***Natura Non Morta.*** Torciascura non ha bisogno di aria, cibo, bevande o sonno.
-***Sensibilità alla Luce***. Mentre è alla luce del sole, Torciascura ha -1d6 ai tiri di attacco
-**Multiattacco*Attacco*** Torciascura attacca due volte con la sua torcia oppure esegue Urlo di Tristezza
-***Torcia*** Attacco di mischia, +6 al colpire
-***Colpisce*** 7 (1d6+3) di danni contundenti, lancia l'incantesimo Oscurità sull'obiettivo colpito, durata fino alla distruzione del Torciascura
-***Urlo di Tristezza*** cono di 6 metri. Le creature colpite devono effettuare un Tiro Salvezza su Volontà DC 16 o cadere in una triste disperazione che conferisce -2 al Tiro per Colpire, -2 al danno in mischia.
-**Ecologia**
-
-| Ambiente: Dungeon |
+| ***Invisibile al buio.*** Un Torciascura è completamente invisibile finché è nell'oscurità |
 | --- |
+| ***Natura Non Morta.*** Torciascura non ha bisogno di aria, cibo, bevande o sonno. |
+| ***Sensibilità alla Luce***. Mentre è alla luce del sole, Torciascura ha -1d6 ai tiri di attacco |
+| **Multiattacco** |
+| ***Attacco*** Torciascura attacca due volte con la sua torcia oppure esegue Urlo di Tristezza |
+| ***Torcia*** Attacco di mischia, +6 al colpire |
+| ***Colpisce*** 7 (1d6+3) di danni contundenti, lancia l'incantesimo Oscurità sull'obiettivo colpito, durata fino alla distruzione del Torciascura |
+| ***Urlo di Tristezza*** cono di 6 metri. Le creature colpite devono effettuare un Tiro Salvezza su Volontà DC 16 o cadere in una triste disperazione che conferisce -2 al Tiro per Colpire, -2 al danno in mischia. |
+| **Ecologia** |
+| Ambiente: Dungeon |
 | Organizzazione: Solitario, gruppo 2d4 |
+| **Categoria Tesoro**: Speciale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Speciale
-**Descrizione**
 Un Torciascura era un avventuriero, come voi, morto in preda al terrore dopo che l'ultima torcia si spense. Un Torciascura è un non morto, solitamente umanoide, dall'aspetto vagamente indefinito, che brandisce una torcia che emana pura oscurità. Il suo scopo è uccidere nuovi avventurieri avvolgendoli nell'oscurità eterna.
 
 Solitamente il Torciascura si nasconde nell'oscurità aspettando di toccare l'avversario ed avvolgerlo nella sua maledizione. Una creatura uccisa da un Torciascura torna in vita come Torciascura dopo 1d3 giorni.
@@ -32021,14 +31591,13 @@ Un Torciascura quando viene distrutto lascia a terra la sua torcia. Questa torci
 
 *Colpisce:* 8 (1d6 + 8) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: Montagne Fredde |
+| **Ecologia** |
 | --- |
+| Ambiente: Montagne Fredde |
 | Organizzazione: Solitario o banda (2-4) |
+| **Categoria Tesoro**: B |
+| **Descrizione** |
 
-**Categoria Tesoro**: B
-**Descrizione**
 I troll possiedono artigli affilati ed incredibili capacità rigenerative che permettono loro di guarire quasi tutte le ferite. Sono gobbi, brutti ma fortissimi: combinata con i loro artigli, la loro forza gli permette di lacerare la carne a mani nude. I troll sono alti circa 3 metri, ma la loro postura li fa apparire più bassi. Un troll adulto pesa circa 500 kg.
 
 L'appetito di un troll e le sue capacità rigenerative lo rendono un combattente indomito, che carica a testa bassa la creatura vivente più vicina ed attacca con tutta la sua furia. Solo il fuoco fa esitare un troll, ma perfino quello che per lui è un pericolo mortale non ferma la sua avanzata. Chi affronta i troll sa di dover localizzare e bruciare qualsiasi sua parte dopo un combattimento, perché perfino dal brandello più piccolo del suo corpo, con il tempo può rinascere un troll completo. Fortunatamente, solo le parti più grandi di un troll, come gli arti, ricrescono in questo modo.
@@ -32053,14 +31622,13 @@ E' universalmente conosciuto che i troll possono naturalmente mutare acquisendo 
 
 *Colpisce:* 3 (1d6) danni perforanti, o 4 (1d8) danni perforanti se usata con due mani per effettuare un attacco da mischia.
 
-**Ecologia**
-
-| Ambiente: Oceani temperati |
+| **Ecologia** |
 | --- |
+| Ambiente: Oceani temperati |
 | Organizzazione: Solitario, pattuglia (2-6), banda (6-10 più un tenete di 3° livello, compagnia (11-60 più 3 tenenti di 3° livello, 2 comandanti di 5° livello, 1 commodoro di 7° livello e 3-12 Calamari |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Tridente, Balestra Leggera con 10 Quadrelli, N) |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Tridente, Balestra Leggera con 10 Quadrelli, N)
-**Descrizione**
 Fisicamente, gli Uomini Pesce somigliano ai loro antenati, con fronti espressive, pelle pallida, capelli scuri e occhi porpora. Hanno tre sottili branchie sul collo, ma possono passare per Umani per brevi periodi, se lo desiderano.
 
 ## Uomo Albero (Arborom)
@@ -32091,14 +31659,13 @@ Fisicamente, gli Uomini Pesce somigliano ai loro antenati, con fronti espressive
 
 ***Animare Alberi (1/Giorno).*** L'uomo albero anima magicamente uno o due alberi visibili entro 18 metri da lui. Questi alberi hanno le stesse statistiche dell'Arborom, eccetto che hanno punteggio di Intelligenza e Carisma -3, non possono parlare, e hanno solo l'opzione di attacco Schianto. Un albero animato agisce come alleato dell'uomo albero. L'albero resta per 1 giorno o finché muore; finché l'uomo albero muore o si trova più di 36 metri lontano dall'albero, o finché l'uomo albero non effettua una Reazione per ritrasformarlo in un albero inanimato. Poi l'albero prenderà radici, se possibile.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi foresta |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi foresta |
 | Organizzazione: Solitario o macchia (2-7) |
+| **Categoria Tesoro**: J |
+| **Descrizione** |
 
-**Categoria Tesoro**: J
-**Descrizione**
 I Arborom sono guardiani delle foreste ed ambasciatori degli alberi. Antichi quanto le foreste stesse, si vedono come genitori e pastori piuttosto che giardinieri: sono lenti e metodici, ma terrificanti quando costretti a combattere per difendere il loro gregge. Anche se raramente cercano la compagnia delle razze dalla vita breve ed hanno un'innata sfiducia verso i cambiamenti, mostrano tolleranza verso chi desidera imparare dai loro lunghi, lenti monologhi, specialmente coloro nei cui occhi leggono il desiderio di proteggere le regioni selvagge. Contro coloro che minacciano le loro foreste, specialmente i boscaioli che raccolgono legna o coloro che vorrebbero disboscare una foresta per costruire una strada o un forte, la rabbia dei Arborom si scatena rapida e devastante. Sono in grado di demolire ciò che gli altri costruiscono: un tratto che li aiuta durante i loro eccessi di furia.
 
 I Arborom sono principalmente creature solitarie, ed un singolo individuo è spesso responsabile di un'intera foresta, ma a volte si raccolgono in gruppi detti boschetti per scambiarsi le ultime notizie e riprodursi.
@@ -32115,7 +31682,10 @@ Gli Arborom si dice che siano creati per volere di Efrem.
 - **Punti Ferita**: 24,  **Difesa:** 14,  **Iniziativa:** +2
 - **Movimento**: 9 m
 - **Tiri Salvez.**: Tempra +3, Riflessi +3, Volontà +3
-- **Res. Danni**: da arma non magica
+
+| - **Res. Danni**: da arma non magica |
+| --- |
+
 - **Imm. Danni**: Fuoco
 - **Sensi**: Scurovisione 18 m
 - **Linguaggi**: Ignan
@@ -32129,14 +31699,13 @@ Gli Arborom si dice che siano creati per volere di Efrem.
 
 *Colpisce:* 7 (2d6) danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, questi prende fuoco. Fino a che una creatura non usa un'Azione per estinguere la fiamma subisce 3 (1d6) danni da fuoco al termine di ciascun suo round.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi terreno (Piano del Fuoco) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi terreno (Piano del Fuoco) |
 | Organizzazione: Solitario o banda (2-8) |
+| **Categoria Tesoro**: L |
+| **Descrizione** |
 
-**Categoria Tesoro**: L
-**Descrizione**
 Gli uomini di lava, noti come Ignim, abitano il Piano del Fuoco ma a volte scivolano nel Piano Materiale attraverso crepe elementali. Queste crepe si formano in luoghi di forte calore, come vulcani o fiumi sotterranei di magma, o in aree di intensa magia. Spesso, appiccano involontariamente fuoco agli oggetti infiammabili vicini.
 
 Nonostante non siano coraggiosi, gli Ignim sono temibili nemici per chi non ha resistenza al loro calore intenso. Il loro tocco incenerisce gli abiti e le armi di acciaio rischiano di diventare scorie al contatto. Nel Piano del Fuoco, gli Ignim trovano forza nel numero, popolando insediamenti costellati di laghi di magma e geyser di roccia fusa.
@@ -32167,7 +31736,7 @@ Alla maturità, gli Ignim sono alti 1,2 metri e pesano 150 kg grazie alla loro d
 
 A volontà: *Artificio Druidico*, *Passare Senza Tracce*
 
-1/giorno ciascuno: *Calmare Emozioni, Dissolvi il Bene e il Male,* *Intralciare*
+1/giorno ciascuno: *Calmare Emozioni* *Intralciare*
 
 ***Resistenza alla Magia.*** L'unicorno ha +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici.
 
@@ -32195,14 +31764,13 @@ L'unicorno può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. 
 
 **Zoccoli.** L'unicorno effettua un attacco con gli zoccoli.
 
-**Ecologia**
-
-| Ambiente: Foreste Temperate |
+| **Ecologia** |
 | --- |
+| Ambiente: Foreste Temperate |
 | Organizzazione: Solitario, coppia o benedizione (3-6) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Certo! Ecco un breve riassunto del testo sugli unicorni:
 
 Gli unicorni sono creature intelligenti e solitarie che abitano le foreste, apparendo solo per difendere le loro dimore dal male. Evitano tutte le creature tranne i folletti buoni, le donne umanoidi buone e gli animali nativi. Le coppie di unicorni rimangono insieme per tutta la vita e proteggono le loro foreste, permettendo solo alle creature buone e neutrali di attraversarle.
@@ -32282,11 +31850,11 @@ Il vampiro può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. 
 **Ecologia**
 
 | Ambiente: Qualsiasi |
-| --- |
 | Organizzazione: Solitario o famiglia (vampiro più 2-8 Progenie) |
+| **Categoria Tesoro**: Equipaggiamento da PNG (Anello della Protezione +2, Fascia della Seduzione +4, Mantello della Resistenza +3) |
+| --- |
+| **Descrizione** |
 
-**Categoria Tesoro**: Equipaggiamento da PNG (Anello della Protezione +2, Fascia della Seduzione +4, Mantello della Resistenza +3)
-**Descrizione**
 I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi. Hanno un aspetto molto simile a quando erano in vita, diventando spesso più attraenti, sebbene alcuni appaiano invece duri e ferini.
 
 ## Progenie Vampirica
@@ -32329,14 +31897,13 @@ I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi
 
 **Reazione: *Attacco d'opportunità***: la progenie vampirica effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario, coppia, gruppo (3-6) o turba (7-12) |
+| **Categoria Tesoro**: M |
+| **Descrizione** |
 
-**Categoria Tesoro**: M
-**Descrizione**
 Un Vampiro può decidere di creare da una vittima una progenie vampirica anziché farne un vampiro completo solo quando usa la sua capacità creare progenie su una creatura umanoide. Questa decisione deve essere presa appena un vampiro uccide una creatura appropriata usando il morso.
 
 ## Vermi delle carne
@@ -32354,14 +31921,13 @@ Un Vampiro può decidere di creare da una vittima una progenie vampirica anzich�
 
 ***Debellare i Vermi della carne.*** L'unico modo è usare una fiamma viva (una torcia causa 1d6 di danno ad applicazione od un incantesimo tipo Onda rovente) sulla parte dove i vermi stanno scavando. Ogni applicazione di fuoco può eliminare 3d6 vermi. Una prova di Pronto Soccorso a DC 15 rimuove 1d4 parassiti ma causa 1d4 danni nell'estrazione. Passati i 2d4 round i vermi sono troppo in profondità ed è inutile applicare il fuoco, solo un incantesimo di Cura Malattie, o Guarigione, può debellare completamente l'infestazione.
 
-**Ecologia**
-
-| Ambiente: alberi marci, carne putrefatta |
+| **Ecologia** |
 | --- |
+| Ambiente: alberi marci, carne putrefatta |
 | Organizzazione: gruppi 3d6 |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 I vermi della carne sono tra i più temuti parassiti dagli avventurieri. Si trovano nei cumuli umidi di foglie o tronchi marci, nei cadaveri in putrefazione, nell acque torbide. Pallidi, viscidi, dotati di affilatissimi denti, lunghi poco più di 4 millimetri penetrano nella carne esposta in maniera facilissima e percepiscono il battito del cuore dove si dirigono. Mentre scavano nelle carni si possono percepire ed anche vedere strisciare sottopelle.
 
 ## Verme Purpureo
@@ -32391,14 +31957,13 @@ Se il verme subisce 30 o più danni in un singolo round da una creatura al suo i
 
 *Colpisce:* 30 (8d6 + 9) danni contundenti ed afferrato. Ad ogni round la creatura subisce 15 di danno da stritolamento, TS Tempra DC 24 per liberarsi.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi sotterraneo |
 | Organizzazione: Solitario |
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 I vermi purpurei sono giganteschi necrofagi che abitano nelle regioni più profonde del mondo, mangiando qualsiasi materiale organico incontrino. Sono noti per inghiottire le loro prede intere. Non è insolito sentire di un gruppo di avventurieri scomparso all'interno delle fameliche fauci di un verme purpureo, gridando di terrore mentre i suoi membri sparivano uno alla volta.
 
 Mentre vanno in cerca di creature viventi per divorarle, i vermi purpurei ingoiano anche un'enorme quantità di terra e minerali scavando nel sottosuolo. Le interiora di un verme purpureo possono contenere un considerevole numero di gemme e altri oggetti in grado di resistere all'acido corrosivo all'interno del suo esofago. In zone ricche di minerali preziosi, come quelle vicine alle miniere naniche, i tunnel naturali creati dagli scavi dei vermi purpurei sono spesso pieni di un notevole numero di pepite d'oro grezzo.
@@ -32426,14 +31991,13 @@ Un verme purpureo generalmente reclama una grande caverna sotterranea come sua t
 
 *Colpisce:* 1 danno contundente. Il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 18 o rimanere paralizzato fino alla fine del round successivo.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi sotterraneo |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi sotterraneo |
 | Organizzazione: Solitario, paio, tribù (8-12 +3d6 piccoli) |
+| **Categoria Tesoro**: Accidentale |
+| **Descrizione** |
 
-**Categoria Tesoro**: Accidentale
-**Descrizione**
 Un tipico Verme Strisciante Tentacolato è un anellide lungo quasi 3 metri e pesa sui 400 kilogrammi. Di colore scuro (di varie gradazioni dal blu al verde al marrone) è un largo verme dotato di una possente bocca e lunghi e leggeri tentacoli lungo tutta la testa.
 
 Il Verme Strisciante Tentacolato pur se dotato di corte zampe non cammina ma striscia secernendo un muco appiccicoso che gli permette di arrampicarsi anche su superfici in qualsiasi orientamento.
@@ -32469,14 +32033,13 @@ Le origini dei Vermi Striscianti Tentacolato sono piuttosto speculative, alcuni 
 
 ***Arrabbiato:*** la Viverna punta la coda in direzione del nemico e genera un cono di 3 metri di veleno. E' possibile eseguire un Tiro Salvezza su Riflessi DC 21 per dimezzare i 7d8 di danno da veleno.
 
-**Ecologia**
-
-| Ambiente: Colline temperate o calde |
+| **Ecologia** |
 | --- |
+| Ambiente: Colline temperate o calde |
 | Organizzazione: Solitario, coppia o stormo (3-6) |
+| **Categoria Tesoro**: D |
+| **Descrizione** |
 
-**Categoria Tesoro**: D
-**Descrizione**
 Le viverne sono rettili brutali e violenti imparentati con i draghi. Sono sempre aggressive ed impazienti e preferiscono raggiungere i loro scopi utilizzando la forza. Per questa ragione, i draghi guardano alle viverne con superiorità, considerando questi loro lontani parenti come selvaggi primitivi privi di stile ed intelligenza.
 
 Nella maggior parte dei casi, questa generalizzazione è azzeccata. Anche se non certo di intelletto animale e capace di parola, la maggior parte delle viverne non si cura della diplomazia, preferendo combattere prima e discutere poi, solo se si trovano davanti ad un avversario che non possono sconfiggere o da cui non possono fuggire.
@@ -32521,14 +32084,13 @@ Un umanoide ucciso da questo attacco si rianima 24 ore più tardi come zombi sot
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
-**Ecologia**
-
-| Ambiente: qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: qualsiasi |
 | Organizzazione: Solitario, coppia, gruppo (3-6) o branco (7-12) |
+| **Categoria Tesoro**: Q |
+| **Descrizione** |
 
-**Categoria Tesoro**: Q
-**Descrizione**
 I wight sono umanoidi risorti come non morti a causa della necromanzia, di una morte violenta o di una personalità estremamente malevola. In alcuni casi, un wight sorge quando uno spirito non morto si lega permanentemente ad un cadavere, spesso quello di un guerriero. Sono appena riconoscibili da chi li conosceva in vita: le loro carni sono corrotte dalla malvagità e dalla non morte, gli occhi ardono d'odio ed i denti divengono quelli di una bestia. In un certo senso, un wight è l'anello di congiunzione tra ghoul e spettri: un cadavere deforme che risucchia energia vitale col tocco.
 
 Essendo non morti, i wight non hanno bisogno di respirare, così a volte si possono trovare sott'acqua, sebbene non siano nuotatori particolarmente abili a meno che non siano originati da creature nuotatrici quali elfi acquatici e marinidi. Sott'acqua i wight preferiscono le caverne dal soffitto basso dove le loro scarse capacità di nuoto non sono una limitazione.
@@ -32562,14 +32124,13 @@ Essendo non morti, i wight non hanno bisogno di respirare, così a volte si poss
 
 ***Arrabbiato:*** il Wraith canalizza le sue energie negative in una esplosione di Vuoto attorno a se nel raggio di 6 metri. Tutte le creature devono effettuare un Tiro Salvezza su Tempra DC 16 o subito 3d6 di danno da Vuoto, se il Tiro Salvezza riesce sono Rallentate 1/3r.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Solitario, coppia, gruppo (3-6) o branco (7-12) |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le creature viventi, avendo perduto la maggior parte del legame con la loro vita precedente.
 
 ## Xorn
@@ -32602,14 +32163,13 @@ I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le cr
 
 ***Arrabbiato:*** lo Xorn erutta le ultime gemme e pepite mangiate. In un cono di 6 metri tutte le creature devono fare un Tiro Salvezza su Riflessi DC 18 per dimezzare il danno, 3d8 contundente, delle gemme e minerali scagliati (che però non hanno più valore).
 
-**Ecologia**
-
-| Ambiente: Qualsiasi (Piano della Terra) |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi (Piano della Terra) |
 | Organizzazione: Solitario, coppia o gruppo (3-6) |
+| **Categoria Tesoro**: solo metalli preziosi, gemme e gioielli e gemme magiche |
+| **Descrizione** |
 
-**Categoria Tesoro**: solo metalli preziosi, gemme e gioielli e gemme magiche
-**Descrizione**
 Strane creature larghe quanto alte, gli xorn hanno poco interesse verso i nativi del Piano Materiale, non fosse per le gemme ed i metalli preziosi che potrebbero avere con sé. Nascosti sotto la superficie del terreno per un tempo che ad un umano potrebbe sembrare lunghissimo, uno xorn può attendere mesi, perfino anni, per la preda ideale, per poi assalire chi porta con sé il suo cibo preferito, come una gemma particolare o un determinato tipo di argento. Gli avventurieri che si addentrano nelle regioni abitate dagli xorn portano spesso con sé piccole pepite di minerali o gemme e cristalli di scarso valore da utilizzare come tributo. Anche se il suo valore è solitamente direttamente proporzionale al suo sapore e all'appetibilità che esso può avere, la maggior parte degli xorn è piuttosto ingorda, e preferisce la quantità alla qualità.
 
 Il tesoro che uno xorn porta con sé o nasconde nella sua tana consiste in uno spuntino che ha conservato per il giorno successivo. Offrire un gioiello o un metallo preziosi particolarmente deliziosi (e costosi) ad uno xorn può cementare un'alleanza temporanea. Dato che gli xorn possono attraversare la roccia con facilità sono ottime guide nelle regioni sotterranee.
@@ -32638,14 +32198,13 @@ Gli xorn non sono molto religiosi, ma quelli fra loro che trovano la fede sono s
 
 *Colpisce:* 4 (1d6 + 1) danni contundenti.
 
-**Ecologia**
-
-| Ambiente: Qualsiasi |
+| **Ecologia** |
 | --- |
+| Ambiente: Qualsiasi |
 | Organizzazione: Qualsiasi |
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
 
-**Categoria Tesoro**: Nessuno
-**Descrizione**
 Gli zombi sono i cadaveri animati di creature morte, costretti a muoversi da magie necromantiche come Animare Morti. Anche se gli zombi incontrati di norma sono lenti e robusti, altri possiedono tratti differenti, che permettono loro di diffondere una malattia o di muoversi più rapidi.
 
 Gli zombi sono automi senza mente e non possono fare altro che seguire gli ordini. Se lasciati a loro stessi, attendono immobili o si spostano alla ricerca di creature viventi da massacrare e divorare. Gli zombi attaccano fino alla distruzione, senza curarsi della loro sicurezza.
@@ -34704,7 +34263,6 @@ Non è morto ciò che può giacere in eterno, e in strani eoni anche la morte pu
 ## Template e suggerimenti per i Mostri
 
 | Sono qui proposti dei suggerimenti su come differenziare i mostri e renderli più specifici alla situazione. Un mostro con uno di questi template prenderà alcuni tratti d'aspetto, di capacità e di gioco tipici del template stesso. |
-| --- |
 
 **Spettro**
 
@@ -34727,7 +34285,9 @@ all’interno di un oggetto.
 
 **Attacco**: +1 al Tiro per Colpire
 
-**Danno**: il danno inferto dalla creatura diventa da Vuoto
+| **Danno**: il danno inferto dalla creatura diventa da Vuoto |
+| --- |
+
 **Maledetto**
 
 Il template Maledetto conferisce alla creatura un aspetto *corrotto ed oscuro*
@@ -34744,7 +34304,9 @@ Il template Maledetto conferisce alla creatura un aspetto *corrotto ed oscuro*
 
 **Attacco**: +2 al Tiro per Colpire
 
-**Danno**: +1d4 danno da Vuoto
+| **Danno**: +1d4 danno da Vuoto |
+| --- |
+
 **Bestia Selvaggia**
 
 Il template Bestia Selvaggia conferisce alla creatura un aspetto *più grosso ed aggressivo*
@@ -34757,7 +34319,9 @@ Il template Bestia Selvaggia conferisce alla creatura un aspetto *più grosso ed
 
 **Attacco**: +3 al Tiro per Colpire
 
-**Danno**: +1d6 danni
+| **Danno**: +1d6 danni |
+| --- |
+
 **Demoniaco**
 
 Il template Demoniaco conferisce alla creatura un aspetto *da demone*
@@ -34778,7 +34342,9 @@ Il template Demoniaco conferisce alla creatura un aspetto *da demone*
 
 **Attacco**: +4 al Tiro per Colpire
 
-**Danno**: +1d6 Sanguinamento
+| **Danno**: +1d6 Sanguinamento |
+| --- |
+
 **Scheletro**
 
 Il template Scheletro conferisce alla creatura un aspetto *scheletrico*
@@ -34799,7 +34365,9 @@ Il template Scheletro conferisce alla creatura un aspetto *scheletrico*
 
 **Attacco**: +1 al Tiro per Colpire
 
-**Danno**: +2
+| **Danno**: +2 |
+| --- |
+
 **Infuso di Magia**
 
 Il template Infuso di Magia conferisce alla creatura un aspetto *brillante*
@@ -34816,7 +34384,9 @@ Il template Infuso di Magia conferisce alla creatura un aspetto *brillante*
 
 **Attacco**: +4 al Tiro per Colpire contro creature con incantesimi attivi o con CM >1
 
-**Danno**: al posto di fare danno la creatura può provare un contrastare incantesimi con DC pari al GS+Intelligenza per annullare un incantesimo attivo sull'avversario
+| **Danno**: al posto di fare danno la creatura può provare un contrastare incantesimi con DC pari al GS+Intelligenza per annullare un incantesimo attivo sull'avversario |
+| --- |
+
 **Oozekin**
 
 Il template Oozekin conferisce alla creatura un aspetto *gelatinoso* e fluido
@@ -35047,9 +34617,11 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 | 8 | Eld | 16 | Quin |
 | 9 | Gar | 17 | Thaan |
 | 10 | Hal | 18 | Zarak |
+
 ### Sillabe Centrali (2d6)
 
 	
+
 | **2d6** | **Sillaba** | **2d6** | **Sillaba** |
 | 2 | - (salta) | 8 | ren |
 | 3 | - (salta) | 9 | el |
@@ -35057,9 +34629,11 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 | 5 | dor | 11 | en |
 | 6 | gal | 12 | thil |
 | 7 | ar |  | |
+
 ### Sillabe Finali Maschili (3d6)
 
 	
+
 | **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
 | 3 | grim | 9 | dan | 15 | reth |
 | 4 | thus | 10 | ion | 16 | thor |
@@ -35081,9 +34655,11 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 | 6 | Bel | 12 | Isa | 18 | Zyra |
 | 7 | Cel | 13 | Lil |  | |
 | 8 | Ela | 14 | Nym |  | |
+
 ### Sillabe Finali Femminili (3d6)
 
 	
+
 | **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
 | 3 | neth | 9 | ana | 15 | riel |
 | 4 | essa | 10 | ara | 16 | tha |
@@ -35106,6 +34682,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 | 6 | Campo | 13 | Quercia | 20 | Libera |
 | 7 | Casa | 14 | Rocca |  | |
 | 8 | Colle | 15 | Sole |  | |
+
 ### Suffissi per Luoghi (2d10)
 
 | **2d10** | **Suffisso** | **2d10** | **Suffisso** | **2d10** | **Suffisso** |
@@ -35136,8 +34713,8 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 | 10 | Thran | 10 | riel |
 | 11 | Elr | 11 | thil |
 | 12 | Galar | 12 | wyn |
-### Nomi Nanici (2d12)
 
+### Nomi Nanici (2d12)
 **Tira 2d12 per iniziali e finali naniche:**
 
 	
